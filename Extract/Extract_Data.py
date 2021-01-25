@@ -4,43 +4,45 @@ from selenium.webdriver.common.keys import Keys
 import time
 import pandas as pd
 from bs4 import BeautifulSoup
+import re
 import numpy as np
+import os
 
-def aceptar_cookies(año, liga, jornada = None):
+def accept_cookies(year, league, round = None):
     '''
-    Inicia el driver de un año, liga y jornada que accede
-    al código de la página para extraer los datos
+    Starts the driver which returns the html code of the webpage
+    of a given year, league, and round to extract the data afterwards.
 
     Parameters
     ----------
-    año: int
-        Año de los datos a extraer
-    liga: str
-        Nombre de la liga de los datos a extraer
-    jornada: int
-        Número de la jornada a partir de la cual empezar la búsqueda
-        En caso de no especificarlo, el driver a la página principal
-        la cual corresponde a la última jornada de ese año
+    year: int
+        Year of the match
+    league: str
+        League of the match
+    round: int
+        Number of the round from which the code starts the search.
+        If None, the driver will start from the last round of that year,
     
     Returns
     -------
     driver: webdriver
-        Elemento webdriver con los datos de la página con los datos del 
-        año, liga y jornada. Se usará este driver para extraer el código html
+        The webdriver object that can extract the HTML code to look for the
+        data in the wanted year, league and round
     '''
     
-    driver_dir = 'chrome_driver/chromedriver.exe'
-    driver=webdriver.Chrome(driver_dir)
-    if jornada:
-        driver.get("https://www.resultados-futbol.com/"+liga+str(año)+"/grupo1/jornada"+str(jornada))
+    ROOT_DIR = "https://www.besoccer.com/"
+    driver_dir = './Extract/chrome_driver/chromedriver.exe'
+    driver = webdriver.Chrome(driver_dir)
+    if round:
+         driver.get(ROOT_DIR + league + str(year) + "/group1/round" + str(round))
     else:
-        driver.get("https://www.resultados-futbol.com/"+liga+str(año))
+        driver.get(ROOT_DIR + league + str(year))
 
-    accept_cookies = driver.find_elements_by_xpath('//button[@class="sc-ifAKCX hYNOwJ"]')
+    cookies_button = driver.find_elements_by_xpath('//button[@class="sc-ifAKCX hYNOwJ"]')
     
     try:
-        for button in accept_cookies:
-            if button.text == "ACEPTO":
+        for button in cookies_button:
+            if button.text == "AGREE":
                 relevant_button = button
                 relevant_button.click()
     except:
@@ -48,47 +50,140 @@ def aceptar_cookies(año, liga, jornada = None):
     finally:
         return driver
 
-def extraer_datos_jornada(soup):
+def extract_rounds(driver):
     '''
-    Devuelve los datos de la tabla de posiciones
+    Returns the number of rounds corresponding to a year and league
 
     Parameters
     ----------
-    soup: BeautifulSoup
-        Contiene toda la información del código html de la 
-        página con los datos sobre el año, liga y jornada
+    driver: webdriver
+        The webdriver object that can extract the HTML code to look for the
+        data in the wanted year, league and round
 
     Returns
     -------
-    tabla_jornada: list
-        Si el scraping ha salido bien, devuelve una lista de listas con:
-        Posicion, Equipo, Puntos, Jornada, Partidos ganados, Partidos empatados,
-        Partidos perdidos, Goles a favor, y goles en contra
-        En caso de que haya habido algún problema, tabla_jornada se convierte en 
-        una lista de valores nulos
+    int
+        If the webpage has information about the number of rounds, it returns that number
+        Otherwise, it returns 0
     '''
-    
-    if soup.find("table", {"id": 'tabla2'}):
-        table_soup = soup.find("table", {"id": 'tabla2'}).find('tbody').find_all('tr')
+    page = driver.page_source
+    soup = BeautifulSoup(page, 'html.parser')
+    round = soup.find("b", {"id":'short_dateLive', "class":'bold'})
+    if round:
+        if len(round.text.split()) == 2:
+            return round.text.split()[1]
+        else:
+            return 0
+    else:
+        return 0
+        
+def extract_standing(driver):
+    '''
+    Returns the standing data for a given year, league, and round
+
+    Parameters
+    ----------
+    driver: webdriver
+        The webdriver object that can extract the HTML code to look for the
+        data in the wanted year, league and round
+
+    Returns
+    -------
+    standings: list
+        Returns a nested list with:
+            Position: position
+            Team: team
+            Points: pts
+            Round: round
+            Number of matches won: win
+            Number of matches drawn: draw
+            Number of matches lost: lost
+            Goals for: g_for
+            Goals against: g_against
+            Number of teams: n_teams
+        If one of the list couldn't be extracted, the function return a list of null values
+    '''
+    page = driver.page_source
+    soup = BeautifulSoup(page, 'html.parser')
+    soup_table = soup.find("table", {"id": 'tabla2'})
+    if soup_table:
+        standings_table = soup_table.find('tbody').find_all('tr')
     else:
         return None
-    num_equipos = len(table_soup)
+    num_teams = len(standings_table)
 
-    Posicion = [table_soup[i].find('th').text for i in range(num_equipos)]
-    Equipo = [table_soup[i].find('td', {'class':'equipo'}).find('img').get('alt') for i in range(num_equipos)]
-    Puntos = [table_soup[i].find('td', {'class':'pts'}).text for i in range(num_equipos)]
-    Jornada = [table_soup[i].find('td', {'class':'pj'}).text for i in range(num_equipos)]
-    Ganados = [table_soup[i].find('td', {'class':'win'}).text for i in range(num_equipos)]
-    Empatados = [table_soup[i].find('td', {'class':'draw'}).text for i in range(num_equipos)]
-    Perdidos = [table_soup[i].find('td', {'class':'lose'}).text for i in range(num_equipos)]
-    Goles_a_favor= [table_soup[i].find('td', {'class':'f'}).text for i in range(num_equipos)]
-    Goles_en_contra= [table_soup[i].find('td', {'class':'c'}).text for i in range(num_equipos)]
+    position = [standings_table[i].find_all('td')[0].find('span').text for i in range(num_teams)]
+    team = [standings_table[i].find_all('td')[1].find('a').text for i in range(num_teams)]
+    pts = [standings_table[i].find_all('td')[3].text for i in range(num_teams)]
+    round = [standings_table[i].find_all('td')[4].text for i in range(num_teams)]
+    win = [standings_table[i].find_all('td')[5].text for i in range(num_teams)]
+    draw = [standings_table[i].find_all('td')[6].text for i in range(num_teams)]
+    lost = [standings_table[i].find_all('td')[7].text for i in range(num_teams)]
+    g_favour = [standings_table[i].find_all('td')[8].text for i in range(num_teams)]
+    g_against = [standings_table[i].find_all('td')[9].text for i in range(num_teams)]
+    n_teams = [num_teams] * len(position)
 
-    tabla_jornada = [Posicion, Equipo, Puntos, Jornada, Ganados, Empatados, Perdidos, Goles_a_favor, Goles_en_contra]
+    standings = [position, team, pts, round, win, draw, lost, g_favour, g_against, n_teams]
 
-    # Nos aseguramos que ningun dato se ha saltado, y que hemos encontrado todos
-    if len(set([len(i) for i in tabla_jornada])) == 1:
-        return tabla_jornada
+    # Make sure that we haven't skipped any data
+    
+    if len(set([len(i) for i in standings])) == 1:
+        return standings
     else:
-        return [None] * len(tabla_jornada)
+        return [None] * len(standings)
 
+def extract_results(driver):
+    '''
+    Returns the results from the matches for a given year, league, and round
+
+    Parameters
+    ----------
+    driver: webdriver
+        The webdriver object that can extract the HTML code to look for the
+        data in the wanted year, league and round
+
+    Returns
+    -------
+    results: list
+        Returns a nested list with:
+            Position: position
+            Team: team
+            Points: pts
+            Round: round
+            Number of matches won: win
+            Number of matches drawn: draw
+            Number of matches lost: lost
+            Goals for: g_for
+            Goals against: g_against
+            Number of teams: n_teams
+        If one of the list couldn't be extracted, the function return a list of null values
+    '''
+    page = driver.page_source   
+    soup = BeautifulSoup(page, 'html.parser')
+    regex = re.compile('nonplayingnow')
+    soup_table = soup.find("table", {"id": 'tablemarcador'})
+    if soup_table:
+        results_table = soup_table.find('tbody').find_all("tr", {"class" : regex})
+    else:
+        return None
+    
+    num_matches = len(results_table)
+
+    home_team = [results_table[i].find('td', {'class':'team-home'}).find('span').find('a').text for i in range(num_matches)]
+    away_team = [results_table[i].find('td', {'class':'team-away'}).find('span').find('a').text for i in range(num_matches)]
+
+    result = []
+    for i in range(num_matches):
+        try:
+            result.append(results_table[i].find('div', {'class':'clase'}).text)
+        except:
+            result.append(np.nan)
+
+    date = [results_table[i].find('td', {'class':'time'}).find(text=True) for i in range(num_matches)]
+
+    results = [home_team, away_team, result, date]
+
+    if len(set([len(i) for i in results])) == 1:
+        return results
+    else:
+        return [None] * len(results)
