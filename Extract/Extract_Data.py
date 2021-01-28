@@ -1,6 +1,7 @@
 import sys
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.options import Options
 import time
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -32,7 +33,9 @@ def accept_cookies(year, league, round = None):
     
     ROOT_DIR = "https://www.besoccer.com/"
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
-    driver = webdriver.Chrome(driver_dir)
+    options = Options()
+    options.headless = True
+    driver = webdriver.Chrome(driver_dir, chrome_options=options)
     if round:
          driver.get(ROOT_DIR + league + str(year) + "/group1/round" + str(round))
     else:
@@ -71,7 +74,7 @@ def extract_rounds(driver):
     round = soup.find("b", {"id":'short_dateLive', "class":'bold'})
     if round:
         if len(round.text.split()) == 2:
-            return round.text.split()[1]
+            return int(round.text.split()[1])
         else:
             return 0
     else:
@@ -171,9 +174,15 @@ def extract_results(driver):
 
     home_team = [results_table[i].find('td', {'class':'team-home'}).find('span').find('a').text for i in range(num_matches)]
     away_team = [results_table[i].find('td', {'class':'team-away'}).find('span').find('a').text for i in range(num_matches)]
-
+    
+    link = []
     result = []
     for i in range(num_matches):
+        try:
+            link.append(results_table[i].find_all('td')[2].find('a')['href'])
+        except:
+            link.append(np.nan)
+
         try:
             result.append(results_table[i].find('div', {'class':'clase'}).text)
         except:
@@ -181,7 +190,7 @@ def extract_results(driver):
 
     date = [results_table[i].find('td', {'class':'time'}).find(text=True) for i in range(num_matches)]
 
-    results = [home_team, away_team, result, date]
+    results = [home_team, away_team, result, date, link]
 
     if len(set([len(i) for i in results])) == 1:
         return results
