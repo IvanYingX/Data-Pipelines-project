@@ -13,6 +13,8 @@ import calendar
 import datetime
 import difflib
 from urllib.request import urlopen, Request
+import pickle
+
 
 def accept_cookies(year, league, round = None):
     '''
@@ -206,13 +208,18 @@ def extract_team_info(df_standings):
     ROOT = 'https://www.besoccer.com/'
     years = list(set(df_standings['Year']))
     leagues = list(set(df_standings['League']))
-    dict_team = {}
+    filename = './Data/Extended_Raw/dict_team.pkl'
+    if os.path.exists(filename):
+        with open(filename, "rb") as f:
+            dict_team = pickle.load(f)
+    else:
+        dict_team = {}
     for year in years:
         for league in leagues:
             print(f'Getting information about league {league}, in year {year}')
             URL = ROOT + league + str(year)
             temp_url = urlopen(URL)
-            temp_bs = BeautifulSoup(temp_url.read(), 'html.parser', from_encoding="iso-8859-1")
+            temp_bs = BeautifulSoup(temp_url.read(), 'html.parser')
             soup_table = temp_bs.find("table", {"id": 'tabla2'})
             if soup_table:
                 standings_table = soup_table.find('tbody').find_all('tr')
@@ -229,7 +236,7 @@ def extract_team_info(df_standings):
                         capacity = None 
                         pitch = None
                         team_url = urlopen(team_links[i])
-                        team_bs = BeautifulSoup(team_url.read(), 'html.parser', from_encoding="iso-8859-1")
+                        team_bs = BeautifulSoup(team_url.read(), 'html.parser')
                         team_table_1 = team_bs.find("table", {"class": 'table-info mr10 ml10 mt10'})
                         if team_table_1: 
                             team_city = team_table_1.find('td', text=re.compile("City"))
@@ -265,4 +272,57 @@ def extract_team_info(df_standings):
                                 dimensions = ' '.join(dimensions.split())
 
                         dict_team[team[i]] = [team_city, team_country, stadium, address, capacity, pitch]
+                        with open(filename, 'wb') as pickle_out:
+                            pickle.dump(dict_team, pickle_out)
     return dict_team
+
+def extract_match_info(df_results):
+    ROOT = 'https://www.besoccer.com/'
+    filename = './Data/Extended_Raw/dict_match.pkl'
+    if os.path.exists(filename):
+        with open(filename, "rb") as f:
+            dict_match = pickle.load(f)
+    else:
+        dict_match = {}
+    for index, row in df_results.iterrows():
+        if index not in dict_match:
+            print(f'Getting information about matches in league {row["Home_Team"]} vs {row["Away_Team"]}, in year {row["Year"]}')
+            date = None
+            referee = None 
+            home_yellow = None 
+            home_red = None 
+            away_yellow = None 
+            away_red = None
+            URL = ROOT + row["Link"]
+            match_url = urlopen(URL)
+            match_bs = BeautifulSoup(match_url.read(), 'html.parser')
+            match_table = match_bs.find('div', {'id':'marcador'})
+            home_table = match_bs.find('div', {'class':'team team1'})
+            away_table = match_bs.find('div', {'class':'team team2'})
+            
+            if match_table:
+                if match_table.find('div', {'class':'marcador-header'}):
+                    date = match_table.find('div', {'class':'marcador-header'}).find('span', {'class' : 'jor-date'}).text
+                if match_table.find('div', {'class':'matchinfo'}):
+                    referee = match_table.find('div', {'class':'matchinfo'}).find('li', {'class' : 'ar'}).text
+                if match_table.find('div', {'id':'tarjetas'}):
+                    if match_table.find('div', {'id':'tarjetas'}).find('div', {'class' : 'te1'}):
+                        home_yellow = match_table.find('div', {'id':'tarjetas'}).find('div', {'class' : 'te1'}).find('span', {'class': 'am'}).text
+                        home_red = match_table.find('div', {'id':'tarjetas'}).find('div', {'class' : 'te1'}).find('span', {'class': 'ro'}).text
+                    elif home_table:
+                        home_yellow = len(home_table.find_all('span', {'class': 'flaticon-live-5'}))
+                        home_red = len(home_table.find_all('span', {'class': 'flaticon-live-3'}))
+                elif home_table:
+                    home_yellow = len(home_table.find_all('span', {'class': 'flaticon-live-5'}))
+                    home_red = len(home_table.find_all('span', {'class': 'flaticon-live-3'}))
+                if match_table.find('div', {'id':'tarjetas'}):
+                    if match_table.find('div', {'id':'tarjetas'}).find('div', {'class' : 'te2'}):
+                        away_yellow = match_table.find('div', {'id':'tarjetas'}).find('div', {'class' : 'te2'}).find('span', {'class': 'am'}).text
+                        away_red = match_table.find('div', {'id':'tarjetas'}).find('div', {'class' : 'te2'}).find('span', {'class': 'ro'}).text
+                    elif away_table:
+                        away_yellow = len(away_table.find_all('span', {'class': 'flaticon-live-5'}))
+                        away_red = len(away_table.find_all('span', {'class': 'flaticon-live-3'}))
+            dict_match[index] = [date, referee, home_yellow, home_red, away_yellow, away_red]
+            with open(filename, 'wb') as pickle_out:
+                pickle.dump(dict_match, pickle_out)
+    return dict_match

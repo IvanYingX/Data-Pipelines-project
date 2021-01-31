@@ -13,20 +13,13 @@ import os
 import time
 pd.options.mode.chained_assignment = None
 
-def load_raw(dir_results, dir_standings):
+def load_raw(dir):
     df_list = []
-    for data_file in sorted(glob.glob(f'{dir_results}/*')):
-        df = pd.read_csv(data_file)
-        df_list.append(df)
-    df_results = pd.concat(df_list, axis=0, ignore_index=True)
-
-    df_list.clear()
-
-    for data_file in sorted(glob.glob(f'{dir_standings}/*')):
-        df = pd.read_csv(data_file)
-        df_list.append(df)
-    df_standings = pd.concat(df_list, axis=0, ignore_index=True)
-    return df_results, df_standings
+    for data_file in sorted(glob.glob(f'{dir}/*')):
+        df_partial = pd.read_csv(data_file)
+        df_list.append(df_partial)
+    df = pd.concat(df_list, axis=0, ignore_index=True)
+    return df
 
 def check_teams_raw(df_results, df_standings):
     diff_res = set()
