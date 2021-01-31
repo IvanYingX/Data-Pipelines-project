@@ -23,3 +23,9 @@ The project deadline is for 2 weeks from when announced.
 
 - Special prize for the individual who collects the largest dataset.
 - Can you figure out how to put the script on a remote server using AWS (or another cloud provider) so that it doesn't run on your local machine? Don't worry, all the cloud providers give free credits.
+
+## TODO:
+
+- Write Docstrings
+- Finish Extend_Database.py
+- Extract weather
