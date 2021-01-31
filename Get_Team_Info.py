@@ -5,11 +5,9 @@ import os
 import pickle
 import numpy as np
 RAW_STA_DIR = './Data/Raw_Data/Standings'
-RAW_RES_DIR = './Data/Raw_Data/Results'
 
 df_standings =load_raw(RAW_STA_DIR)
-# dict_team = extract_team_info(df_standings)
-filename = './Data/dict_team.pkl'
+filename = './Data/Extended_Raw/dict_team.pkl'
 if os.path.exists(filename):
     with open(filename, "rb") as f:
         dict_team = pickle.load(f)
