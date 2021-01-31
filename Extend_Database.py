@@ -4,8 +4,9 @@ import glob
 
 def extend_database(year_1, year_2, leagues):
     files_zip = zip(sorted(glob.glob('./Data/Raw_Data/Standings/*')), sorted(glob.glob('./Data/Raw_Data/Results/*')))
-    for standing_file, result_file in zipped_list:
-        df_partial = pd.read_csv(data_file)
+    for standing_file, result_file in files_zip:
+        df_partial_standing = pd.read_csv(standing_file)
+        df_partial_result = pd.read_csv(result_file)
 
     list_standings = ['Position', 'Team', 'Points', 'Round', 'Win', 'Draw', 'Lose',
                     'Goals_For', 'Goals_Against', 'Number_Teams', 'Year', 'League'] 
