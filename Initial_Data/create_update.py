@@ -2,7 +2,8 @@ import tkinter as tk
 from tkinter import messagebox
 import sys
 from . import confirm, get_years, get_leagues
-def create_or_extend():
+
+def create_or_update():
     root = tk.Tk()
     
     def on_closing():
@@ -15,10 +16,10 @@ def create_or_extend():
     w = tk.BooleanVar() 
     tk.Label(root, 
             text="""Do you want to Create a new Database,
-            or Extend an existing one?""",
+            or Update an existing one?""",
             justify = tk.LEFT, padx = 20).grid(row=0, column=0)
     tk.Radiobutton(root, text="Create", indicatoron = 0, width = 30, padx = 20, variable=v, value = 1, command=root.destroy).grid(row=2, column=0)
-    tk.Radiobutton(root, text="Extend", indicatoron = 0, width = 30, padx = 20, variable=w, value = 1, command=root.destroy).grid(row=3, column=0)
+    tk.Radiobutton(root, text="Update", indicatoron = 0, width = 30, padx = 20, variable=w, value = 1, command=root.destroy).grid(row=3, column=0)
     root.mainloop()
     return v.get()
 

@@ -8,13 +8,12 @@ from bs4 import BeautifulSoup
 import re
 import numpy as np
 import os
-import glob               
+import glob
 import calendar
 import datetime
 import difflib
 from urllib.request import urlopen, Request
 import pickle
-
 
 def accept_cookies(year, league, round = None):
     '''
@@ -59,6 +58,27 @@ def accept_cookies(year, league, round = None):
         pass
     finally:
         return driver
+
+def extract_current_year(driver):
+    '''
+    Starts the driver which returns the html code of the webpage
+    of a given year, league, and round to extract the data afterwards.
+
+    Parameters
+    ----------
+    league: str
+        League of the match
+    
+    Returns
+    -------
+    driver: webdriver
+        The webdriver object that can extract the HTML code to look for the
+        data in the current year, league and round
+    '''
+    page = driver.page_source
+    soup = BeautifulSoup(page, 'html.parser')
+    year = soup.find("small", {"class":'nh-count'}).text.split('/')[1]
+    return int(year)
 
 def extract_rounds(driver):
     '''
@@ -279,11 +299,13 @@ def extract_team_info(df_standings):
 def extract_match_info(df_results):
     ROOT = 'https://www.besoccer.com/'
     filename = './Data/Extended_Raw/dict_match.pkl'
+
     if os.path.exists(filename):
         with open(filename, "rb") as f:
             dict_match = pickle.load(f)
     else:
         dict_match = {}
+    
     for index, row in df_results.iterrows():
         #if row["Link"] not in dict_match:
         if index not in dict_match:
