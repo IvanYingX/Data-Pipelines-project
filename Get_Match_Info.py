@@ -20,6 +20,7 @@ while True:
         dict_match = extract_match_info(df_results)
     except (HTTPError) as err:
         if err.code == 504:
+            print('Gateway error')
             pass
         else:
             print(err)

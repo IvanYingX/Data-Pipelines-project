@@ -217,7 +217,7 @@ def extract_team_info(df_standings):
     for year in years:
         for league in leagues:
             print(f'Getting information about league {league}, in year {year}')
-            URL = ROOT + league + str(year)
+            URL = ROOT + league + str(year) + '/group1/round1'
             temp_url = urlopen(URL)
             temp_bs = BeautifulSoup(temp_url.read(), 'html.parser')
             soup_table = temp_bs.find("table", {"id": 'tabla2'})
@@ -285,6 +285,7 @@ def extract_match_info(df_results):
     else:
         dict_match = {}
     for index, row in df_results.iterrows():
+        #if row["Link"] not in dict_match:
         if index not in dict_match:
             print(f'Getting information about matches in league {row["Home_Team"]} vs {row["Away_Team"]}, in year {row["Year"]}')
             date = None
@@ -322,6 +323,7 @@ def extract_match_info(df_results):
                     elif away_table:
                         away_yellow = len(away_table.find_all('span', {'class': 'flaticon-live-5'}))
                         away_red = len(away_table.find_all('span', {'class': 'flaticon-live-3'}))
+            # dict_match[row["Link"]] = [date, referee, home_yellow, home_red, away_yellow, away_red]
             dict_match[index] = [date, referee, home_yellow, home_red, away_yellow, away_red]
             with open(filename, 'wb') as pickle_out:
                 pickle.dump(dict_match, pickle_out)
