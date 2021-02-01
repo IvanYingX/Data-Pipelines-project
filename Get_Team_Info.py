@@ -13,11 +13,13 @@ if os.path.exists(filename):
         dict_team = pickle.load(f)
 else:
     dict_team = extract_team_info(df_standings)
+
+print((set(df_standings.Team) - set(dict_team.keys())))
+print(set(dict_team.keys()) - set(df_standings.Team))
+
 new_columns = ['City', 'Country', 'Stadium', 'Address', 'Capacity', 'Pitch']
 
 df_team = pd.DataFrame.from_dict(dict_team, orient='index', columns=new_columns)
 df_team.index = df_team.index.set_names(['Team'])
 df_team.reset_index(inplace=True)
-df_standings.merge(df_team, how='left')
-
-df_standings.to_csv('./Data/Extended_Raw/Extended_Raw_Standings.csv')
+df_team.to_csv('./Data/Extended_Raw/Team_Info.csv')
