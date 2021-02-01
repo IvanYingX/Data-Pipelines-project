@@ -4,7 +4,7 @@ from Create_Database import create_database
 from tkinter import messagebox
 from bs4 import BeautifulSoup
 
-action = create_extend.create_or_extend()
+action = create_extend.create_or_update()
 if action:
     year_1, year_2, leagues = create_extend.create()
     create_database(year_1, year_2, leagues)
