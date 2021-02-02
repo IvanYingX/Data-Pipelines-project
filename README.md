@@ -27,5 +27,4 @@ The project deadline is for 2 weeks from when announced.
 ## TODO:
 
 - Write Docstrings
-- Finish Extend_Database.py
 - Extract weather
