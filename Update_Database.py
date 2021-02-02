@@ -118,6 +118,8 @@ def update_database(RES_DIR, STA_DIR):
 
             new_df_results = pd.DataFrame(dict_results)
             new_df_standings = pd.DataFrame(dict_standings)
+            mask = new_df_results['Result'].map(lambda x: ':' not in x, na_action=None)
+            new_df_results = new_df_results[mask]
 
             df_diff_results = subset_results.merge(new_df_results, indicator = True,
                                 how='right').loc[lambda x : x['_merge']!='both']
