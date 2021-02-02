@@ -132,12 +132,11 @@ def update_database(RES_DIR, STA_DIR):
     return None
 
 if __name__ == '__main__':
-    res_dir = './Data/Raw_Data/Results'
+    res_dir = './Data/Updated/Results'
     file_res_list =  sorted(glob.glob(f'{res_dir}/*'))
-    sta_dir = './Data/Raw_Data/Standings'
+    sta_dir = './Data/Updated/Standings'
     file_sta_list =  sorted(glob.glob(f'{sta_dir}/*'))
-    print(list(zip(file_res_list, file_sta_list))[2])
-    for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list))[:2]:
+    for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list)):
         print(RES_DIR)
         print(STA_DIR)
         update_database(RES_DIR, STA_DIR)
