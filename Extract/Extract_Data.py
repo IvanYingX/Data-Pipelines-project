@@ -176,16 +176,11 @@ def extract_results(driver):
     -------
     results: list
         Returns a nested list with:
-            Position: position
-            Team: team
-            Points: pts
-            Round: round
-            Number of matches won: win
-            Number of matches drawn: draw
-            Number of matches lost: lost
-            Goals for: g_for
-            Goals against: g_against
-            Number of teams: n_teams
+            Home Team: home_team
+            Away Team: away_team
+            Result: result
+            Date: date
+            Link: link
         If one of the list couldn't be extracted, the function return a list of null values
     '''
     page = driver.page_source   
