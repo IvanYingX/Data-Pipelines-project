@@ -240,6 +240,7 @@ def extract_team_info(df_standings):
         This information contains the city, country, address, stadium, capacity of the stadium,
         and pitch of the stadium corresponding to each team.
     '''
+
     ROOT = 'https://www.besoccer.com/'
     years = list(set(df_standings['Year']))
     leagues = list(set(df_standings['League']))
@@ -313,6 +314,27 @@ def extract_team_info(df_standings):
     return dict_team
 
 def extract_match_info(df_results):
+    '''
+    Extracts information about the matches in df_results using the Link column.
+    The information is stored in a dictionary that is updated as the function encounters
+    matches that have not been included in the dictionary already.
+    Returns a boolean that tells whether all links have been visited
+
+    Parameters
+    ----------
+    df_results: DataFrame
+        A pandas dataframe containing information about matches. The function
+        iterates through all the rows, and scrapes in the URL included in the Link
+        colum. This Link includes aditional information about the match
+
+    Returns
+    -------
+    bool
+        The boolean is True if the amount of keys in the dictionary is equal
+        to the amount of unique links in df_results. This value tells the script or
+        function calling extract_match_info when to stop.
+    '''
+
     ROOT = 'https://www.besoccer.com/'
     filename = './Data/Extended_Raw/dict_match.pkl'
 

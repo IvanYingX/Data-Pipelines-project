@@ -30,5 +30,5 @@ else:
 
 new_columns = ['Date_New', 'Referee', 'Home_Yellow', 'Home_Red', 'Away_Yellow', 'Away_Red']
 df_match = pd.DataFrame.from_dict(dict_match, orient='index', columns=new_columns)
-df_match = df_match.reset_index().rename(columns={'index':'Link'})
+df_match.index = df_match.index.set_names(['Link'])
 df_match.to_csv('./Data/Extended_Raw/Match_Info.csv')

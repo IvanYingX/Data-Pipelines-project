@@ -15,6 +15,7 @@ pd.options.mode.chained_assignment = None
 
 def load_raw(dir):
     '''
+    DOCTRING
     '''
     df_list = []
     for data_file in sorted(glob.glob(f'{dir}/*')):

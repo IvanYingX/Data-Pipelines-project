@@ -7,15 +7,7 @@ import numpy as np
 
 STA_DIR = './Data/Updated/Standings'
 df_standings = load_raw(STA_DIR) # Load all standings dataframes in a single dataframe
-filename = './Data/Extended_Raw/dict_team.pkl' 
-if os.path.exists(filename):
-    with open(filename, "rb") as f:
-        dict_team = pickle.load(f)
-else:
-    dict_team = extract_team_info(df_standings)
-
-print((set(df_standings.Team) - set(dict_team.keys())))
-print(set(dict_team.keys()) - set(df_standings.Team))
+dict_team = extract_team_info(df_standings)
 
 new_columns = ['City', 'Country', 'Stadium', 'Address', 'Capacity', 'Pitch']
 
