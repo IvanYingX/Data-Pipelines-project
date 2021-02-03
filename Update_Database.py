@@ -20,14 +20,15 @@ def update_database(RES_DIR, STA_DIR):
     last_round_df = df_results[df_results['Year'] == final_year].Round.max()
     league = df_standings.League.unique()
     if len(league) != 1:
-        raise ValueError('There is a problem with this csv. There are more than 1 league')
+        raise ValueError('There is a problem with this csv. There is more than 1 league')
     league = league[0]
+
     dest_res_file = f'./Data/Updated/Results/Results_{league}.csv'
     dest_sta_file = f'./Data/Updated/Standings/Standings_{league}.csv'
     if not os.path.exists(dest_res_file):
-        df_results.to_csv(dest_res_file)
+        df_results.to_csv(dest_res_file, index=False)
     if not os.path.exists(dest_sta_file):
-        df_results.to_csv(dest_sta_file)
+        df_results.to_csv(dest_sta_file, index=False)
 
     driver = accept_cookies(year = '', league = league)
     current_year = extract_current_year(driver)
@@ -132,9 +133,9 @@ def update_database(RES_DIR, STA_DIR):
     return None
 
 if __name__ == '__main__':
-    res_dir = './Data/Updated/Results'
+    res_dir = './Data/Update/Results'
     file_res_list =  sorted(glob.glob(f'{res_dir}/*'))
-    sta_dir = './Data/Updated/Standings'
+    sta_dir = './Data/Update/Standings'
     file_sta_list =  sorted(glob.glob(f'{sta_dir}/*'))
     for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list)):
         print(RES_DIR)
