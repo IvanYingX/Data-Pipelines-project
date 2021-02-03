@@ -4,10 +4,10 @@ from Extract.Extract_Data import extract_team_info
 import os
 import pickle
 import numpy as np
-RAW_STA_DIR = './Data/Raw_Data/Standings'
 
-df_standings =load_raw(RAW_STA_DIR)
-filename = './Data/Extended_Raw/dict_team.pkl'
+STA_DIR = './Data/Updated/Standings'
+df_standings = load_raw(STA_DIR) # Load all standings dataframes in a single dataframe
+filename = './Data/Extended_Raw/dict_team.pkl' 
 if os.path.exists(filename):
     with open(filename, "rb") as f:
         dict_team = pickle.load(f)

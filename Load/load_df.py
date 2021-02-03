@@ -14,6 +14,8 @@ import time
 pd.options.mode.chained_assignment = None
 
 def load_raw(dir):
+    '''
+    '''
     df_list = []
     for data_file in sorted(glob.glob(f'{dir}/*')):
         df_partial = pd.read_csv(data_file)

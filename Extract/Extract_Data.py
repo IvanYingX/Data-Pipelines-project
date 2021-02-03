@@ -220,6 +220,26 @@ def extract_results(driver):
         return [None] * len(results)
 
 def extract_team_info(df_standings):
+    '''
+    Returns a dictionary containing information about the all the teams
+    in df_standings
+
+    Parameters
+    ----------
+    df_standings: DataFrame
+        A pandas dataframe containing the standings of each team. The function
+        looks for the leagues and years in the dataframe and webscrapes the
+        corresponding webpage to see what teams played during that year and league.
+        If the team appears twice, the function ignores it, and looks for the next
+        non-repeated team
+
+    Returns
+    -------
+    dict_team: dict
+        A dictionary containing information about each team in df_standings. 
+        This information contains the city, country, address, stadium, capacity of the stadium,
+        and pitch of the stadium corresponding to each team.
+    '''
     ROOT = 'https://www.besoccer.com/'
     years = list(set(df_standings['Year']))
     leagues = list(set(df_standings['League']))
@@ -229,6 +249,7 @@ def extract_team_info(df_standings):
             dict_team = pickle.load(f)
     else:
         dict_team = {}
+
     for year in years:
         for league in leagues:
             print(f'Getting information about league {league}, in year {year}')
@@ -302,9 +323,8 @@ def extract_match_info(df_results):
         dict_match = {}
     
     for index, row in df_results.iterrows():
-        #if row["Link"] not in dict_match:
-        if index not in dict_match:
-            print(f'Getting information about matches in league {row["Home_Team"]} vs {row["Away_Team"]}, in year {row["Year"]}')
+        if row["Link"] not in dict_match:
+            print(f'Getting information about {row["Home_Team"]} vs {row["Away_Team"]}, in league {row["League"]} year {row["Year"]}')
             date = None
             referee = None 
             home_yellow = None 
@@ -340,8 +360,8 @@ def extract_match_info(df_results):
                     elif away_table:
                         away_yellow = len(away_table.find_all('span', {'class': 'flaticon-live-5'}))
                         away_red = len(away_table.find_all('span', {'class': 'flaticon-live-3'}))
-            # dict_match[row["Link"]] = [date, referee, home_yellow, home_red, away_yellow, away_red]
-            dict_match[index] = [date, referee, home_yellow, home_red, away_yellow, away_red]
+            dict_match[row["Link"]] = [date, referee, home_yellow, home_red, away_yellow, away_red]
             with open(filename, 'wb') as pickle_out:
                 pickle.dump(dict_match, pickle_out)
-    return dict_match
+
+    return len(set(df_results.Link)) == len(dict_match) # Return a True, so the while calling for this function stops
