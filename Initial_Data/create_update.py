@@ -2,6 +2,9 @@ import tkinter as tk
 from tkinter import messagebox
 import sys
 from . import confirm, get_years, get_leagues
+import sys
+from tkinter import *
+from tkinter import filedialog
 
 def create_or_update():
     root = tk.Tk()
@@ -57,3 +60,13 @@ def create():
                 else:
                     next_fun = -1
     return year_1, year_2, leagues
+
+def update():
+
+    root = Tk()
+    root.filename =  filedialog.askopenfilename(text = 'Select a file', initialdir = "/",
+                        title = "Select file",
+                        filetypes = (("csv","*.csv"),("all files","*.*")))
+    root.mainloop()
+    print(root.filename)
+
