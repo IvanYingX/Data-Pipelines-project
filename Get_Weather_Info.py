@@ -4,7 +4,7 @@ import pandas as pd
 from Load.load_df import load_raw
 
 # RAW_RES_DIR = './Data/Raw_Data/Results'
-TEAM_DIR = './Data/Extended_Raw/Team_Info.csv'
+TEAM_DIR = './Data/Dictionaries/Team_Info.csv'
 # df_results = load_raw(RAW_RES_DIR)
 df_teams = pd.read_csv(TEAM_DIR)
 print(df_teams[df_teams.City.isna() & df_teams.Address.isna()])

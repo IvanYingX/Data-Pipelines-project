@@ -244,7 +244,7 @@ def extract_team_info(df_standings):
     ROOT = 'https://www.besoccer.com/'
     years = list(set(df_standings['Year']))
     leagues = list(set(df_standings['League']))
-    filename = './Data/Extended_Raw/dict_team.pkl'
+    filename = './Data/Dictionaries/dict_team.pkl'
     if os.path.exists(filename):
         with open(filename, "rb") as f:
             dict_team = pickle.load(f)
@@ -336,7 +336,7 @@ def extract_match_info(df_results):
     '''
 
     ROOT = 'https://www.besoccer.com/'
-    filename = './Data/Extended_Raw/dict_match.pkl'
+    filename = './Data/Dictionaries/dict_match.pkl'
 
     if os.path.exists(filename):
         with open(filename, "rb") as f:

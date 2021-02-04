@@ -20,7 +20,7 @@ while flag == False:
             print(err)
             break
 
-filename = './Data/Extended_Raw/dict_match.pkl'
+filename = './Data/Dictionaries/dict_match.pkl'
 
 if os.path.exists(filename):
     with open(filename, "rb") as f:
@@ -31,4 +31,4 @@ else:
 new_columns = ['Date_New', 'Referee', 'Home_Yellow', 'Home_Red', 'Away_Yellow', 'Away_Red']
 df_match = pd.DataFrame.from_dict(dict_match, orient='index', columns=new_columns)
 df_match.index = df_match.index.set_names(['Link'])
-df_match.to_csv('./Data/Extended_Raw/Match_Info.csv')
+df_match.to_csv('./Data/Dictionaries/Match_Info.csv')
