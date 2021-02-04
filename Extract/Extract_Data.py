@@ -220,15 +220,37 @@ def extract_results(driver):
         return [None] * len(results)
 
 def extract_team_info(df_standings):
+    '''
+    Returns a dictionary containing information about the all the teams
+    in df_standings
+
+    Parameters
+    ----------
+    df_standings: DataFrame
+        A pandas dataframe containing the standings of each team. The function
+        looks for the leagues and years in the dataframe and webscrapes the
+        corresponding webpage to see what teams played during that year and league.
+        If the team appears twice, the function ignores it, and looks for the next
+        non-repeated team
+
+    Returns
+    -------
+    dict_team: dict
+        A dictionary containing information about each team in df_standings. 
+        This information contains the city, country, address, stadium, capacity of the stadium,
+        and pitch of the stadium corresponding to each team.
+    '''
+
     ROOT = 'https://www.besoccer.com/'
     years = list(set(df_standings['Year']))
     leagues = list(set(df_standings['League']))
-    filename = './Data/Extended_Raw/dict_team.pkl'
+    filename = './Data/Dictionaries/dict_team.pkl'
     if os.path.exists(filename):
         with open(filename, "rb") as f:
             dict_team = pickle.load(f)
     else:
         dict_team = {}
+
     for year in years:
         for league in leagues:
             print(f'Getting information about league {league}, in year {year}')
@@ -292,8 +314,29 @@ def extract_team_info(df_standings):
     return dict_team
 
 def extract_match_info(df_results):
+    '''
+    Extracts information about the matches in df_results using the Link column.
+    The information is stored in a dictionary that is updated as the function encounters
+    matches that have not been included in the dictionary already.
+    Returns a boolean that tells whether all links have been visited
+
+    Parameters
+    ----------
+    df_results: DataFrame
+        A pandas dataframe containing information about matches. The function
+        iterates through all the rows, and scrapes in the URL included in the Link
+        colum. This Link includes aditional information about the match
+
+    Returns
+    -------
+    bool
+        The boolean is True if the amount of keys in the dictionary is equal
+        to the amount of unique links in df_results. This value tells the script or
+        function calling extract_match_info when to stop.
+    '''
+
     ROOT = 'https://www.besoccer.com/'
-    filename = './Data/Extended_Raw/dict_match.pkl'
+    filename = './Data/Dictionaries/dict_match.pkl'
 
     if os.path.exists(filename):
         with open(filename, "rb") as f:
@@ -302,9 +345,8 @@ def extract_match_info(df_results):
         dict_match = {}
     
     for index, row in df_results.iterrows():
-        #if row["Link"] not in dict_match:
-        if index not in dict_match:
-            print(f'Getting information about matches in league {row["Home_Team"]} vs {row["Away_Team"]}, in year {row["Year"]}')
+        if row["Link"] not in dict_match:
+            print(f'Getting information about {row["Home_Team"]} vs {row["Away_Team"]}, in league {row["League"]} year {row["Year"]}')
             date = None
             referee = None 
             home_yellow = None 
@@ -340,8 +382,8 @@ def extract_match_info(df_results):
                     elif away_table:
                         away_yellow = len(away_table.find_all('span', {'class': 'flaticon-live-5'}))
                         away_red = len(away_table.find_all('span', {'class': 'flaticon-live-3'}))
-            # dict_match[row["Link"]] = [date, referee, home_yellow, home_red, away_yellow, away_red]
-            dict_match[index] = [date, referee, home_yellow, home_red, away_yellow, away_red]
+            dict_match[row["Link"]] = [date, referee, home_yellow, home_red, away_yellow, away_red]
             with open(filename, 'wb') as pickle_out:
                 pickle.dump(dict_match, pickle_out)
-    return dict_match
+
+    return len(set(df_results.Link)) == len(dict_match) # Return a True, so the while calling for this function stops

@@ -28,7 +28,7 @@ def update_database(RES_DIR, STA_DIR):
     if not os.path.exists(dest_res_file):
         df_results.to_csv(dest_res_file, index=False)
     if not os.path.exists(dest_sta_file):
-        df_results.to_csv(dest_sta_file, index=False)
+        df_standings.to_csv(dest_sta_file, index=False)
 
     driver = accept_cookies(year = '', league = league)
     current_year = extract_current_year(driver)
@@ -133,9 +133,9 @@ def update_database(RES_DIR, STA_DIR):
     return None
 
 if __name__ == '__main__':
-    res_dir = './Data/Update/Results'
+    res_dir = './Data/Raw_Data/Results'
     file_res_list =  sorted(glob.glob(f'{res_dir}/*'))
-    sta_dir = './Data/Update/Standings'
+    sta_dir = './Data/Raw_Data/Standings'
     file_sta_list =  sorted(glob.glob(f'{sta_dir}/*'))
     for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list)):
         print(RES_DIR)
