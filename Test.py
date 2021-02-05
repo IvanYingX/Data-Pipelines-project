@@ -2,19 +2,20 @@
 import pickle
 import os
 import pandas as pd
-from Load.load_df import load_raw
+from Data.load_df import load_raw
 from Extract.Extract_Data import *
 import glob
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
 #%% loading dataframes to update
-df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
-df_no_city = df[df.City.isna()]
-print(df_no_city.head(20))
+RES_DIR = './Data/Updated/Results'
+STA_DIR = './Data/Updated/Standings'
+df_standings = load_raw(STA_DIR)
+df_results = load_raw(RES_DIR)
+df_team = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
 # %%
-ROOT = 'https://en.wikipedia.org/wiki/'
-URL = ROOT + df_no_city.iloc[1]['Team'].replace(' ','_')
-temp_url = urlopen(URL)
-temp_bs = BeautifulSoup(temp_url.read(), 'html.parser')
-print(temp_bs)
-# %%
+print(df_standings.shape)
+print(df_results.shape)
+print(df_team.shape)
+print(df_match.shape)
