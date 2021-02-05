@@ -1,4 +1,3 @@
-#%% import libraries
 import pickle
 import os
 import pandas as pd
@@ -7,8 +6,13 @@ from Extract.Extract_Data import *
 import glob
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
-#%% loading dataframes to update
+
 def update_database(RES_DIR, STA_DIR):
+    """
+    Appends data to a CSV file so that it is up to date.
+    It reads the files in the passed directories, concatenates them and creates a new updated CSV.
+    If the pass directory corresponds to the updated file, the function looks for the last year and round in the file, so it knows the where to start the scraping.
+    """
     ROOT_URL = "https://www.besoccer.com/"
     df_results = pd.read_csv(RES_DIR)
     df_standings = pd.read_csv(STA_DIR)
@@ -133,8 +137,8 @@ def update_database(RES_DIR, STA_DIR):
     return None
 
 if __name__ == '__main__':
-    res_dir = './Data/Raw_Data/Results'
-    sta_dir = './Data/Raw_Data/Standings'
+    res_dir = './Data/Updated/Results'
+    sta_dir = './Data/Updated/Standings'
     file_res_list =  sorted(glob.glob(f'{res_dir}/*'))
     file_sta_list =  sorted(glob.glob(f'{sta_dir}/*'))
     for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list)):
