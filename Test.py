@@ -1,4 +1,4 @@
-#%% import libraries
+# %% import libraries
 import pickle
 import os
 import pandas as pd
@@ -7,7 +7,7 @@ from Extract.Extract_Data import *
 import glob
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
-#%% loading dataframes to update
+# %% loading dataframes to update
 RES_DIR = './Data/Updated/Results'
 STA_DIR = './Data/Updated/Standings'
 df_standings = load_raw(STA_DIR)
