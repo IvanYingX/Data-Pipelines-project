@@ -31,6 +31,7 @@ def update_database(RES_DIR, STA_DIR):
         file, otherwise, the function terminates.
 
     '''
+    
     df_results = pd.read_csv(RES_DIR)
     df_standings = pd.read_csv(STA_DIR)
     list_standings = ['Position', 'Team', 'Points', 'Round', 'Win', 'Draw',

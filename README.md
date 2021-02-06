@@ -52,6 +52,7 @@ When executing Main.py, the GUI that pops up is determined by the files in this 
 * get_leagues: Creates a tk object with checkboxes to ask the user what leagues he/she wants to include in the creation of a database
 * get_years: Creates a tk object with a slider to ask the user the initial year and the final year for creating a database within those years.
 
+
 ## TODO
 
 * Finish the extraction of weather
