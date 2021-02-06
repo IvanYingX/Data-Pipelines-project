@@ -1,13 +1,13 @@
 # Data-Pipelines-project
 
 First project in the AI-Core course. These scripts extract data from different sources to get results and important (or not so important) features that will be used as inputs for a classification ML model
-The 
 
 ## How to use the repo
 
 There are two main scripts in this repo. The first is Main.py, which opens a GUI to ask you whether you want to create or update a database. \n
 The second one is Update_Database.py which gets the data in the Data folder and looks for any update in the data. \n
 The reason for having two separate scripts is for being able to:
+
 * Create and update the database manually, so that one can add new leagues to the database
 * Automatically update the database by setting a cron job on the cloud (or locally if that is available) by running periodically the Update_Database.py file
 
@@ -29,13 +29,14 @@ The folders in the repo contains:
 
 * Dictionaries: This folder contains information about the matches and the teams, in both pickle files (which when unpickle are dictionaries) and csv. This folder will eventually store the weather data
 * Raw Data: This folder contains the data that is extracted when creating a database for the first time.
-	* Results: Each CSV contains the results of the matches from an initial year to a final year of a specific league
-	* Standings: Each CSV contains the standings of the matches from an initial year to a final year of a specific league
+  * Results: Each CSV contains the results of the matches from an initial year to a final year of a specific league
+  * Standings: Each CSV contains the standings of the matches from an initial year to a final year of a specific league
 * Updated: This folder contains the same CSVs as in Raw Data but updated, so everything is up to date (updated every day at 3:00 AM)
 
-### Extract:
+### Extract
 
 The chromedriver.exe is in this folder. Additionally we can see the following files:
+
 * Extract_Data: This file contains the necessary functions to create a database for the first time
 * Get_Match_Info: This file loads a results dataset, and extracts the information of each of the matches in that dataset
 * Get_Team_Info: This file loads a standings dataset, and extracts the information of each team and its stadium
@@ -44,12 +45,15 @@ The chromedriver.exe is in this folder. Additionally we can see the following fi
 ### Initial_Gui
 
 When executing Main.py, the GUI that pops up is determined by the files in this folder:
+
 * confirm.py: Creates a tk object summarising the selected information by the user to know if it should procceed
 * create_update: Creates a tk object that ask the user whether he/she wants to create or update the database
 * get_file_update: Creates a tk object that ask the user if he/she wants to update a file or a whole directory, and also includes a class (Update_Gui) that creates a tk object that ask the user to select the files or directories to be updated
 * get_leagues: Creates a tk object with checkboxes to ask the user what leagues he/she wants to include in the creation of a database
 * get_years: Creates a tk object with a slider to ask the user the initial year and the final year for creating a database within those years.
 
-# TODO
+
+## TODO
+
 * Finish the extraction of weather
 * Write some DOCSTRINGS and comments on the code
