@@ -1,5 +1,6 @@
 {
     "python.linting.pycodestyleEnabled": true,
     "python.linting.enabled": true,
-    "python.linting.mypyEnabled": false
+    "python.linting.mypyEnabled": false,
+    "python.pythonPath": "c:\\Users\\yingy\\OneDrive\\Escritorio\\Data_Science\\AI Core Projects\\Data_Pipeline\\.venv\\Scripts\\python.exe"
 }
