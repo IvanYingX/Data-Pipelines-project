@@ -8,14 +8,20 @@ import glob
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
 # %% loading dataframes to update
-RES_DIR = './Data/Updated/Results'
-STA_DIR = './Data/Updated/Standings'
-df_standings = load_raw(STA_DIR)
-df_results = load_raw(RES_DIR)
-df_team = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
-df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
+filename = './Data/Dictionaries/dict_team.pkl'
+if os.path.exists(filename):
+    with open(filename, "rb") as f:
+        dict_team = pickle.load(f)
+else:
+    dict_team = {}
+
+new_columns = ['City', 'Country', 'Stadium',
+               'Address', 'Capacity', 'Pitch']
+
+df_team = pd.DataFrame.from_dict(dict_team, orient='index',
+                                 columns=new_columns)
+df_team.index = df_team.index.set_names(['Team'])
+df_team.reset_index(inplace=True)
 # %%
-print(df_standings.shape)
-print(df_results.shape)
-print(df_team.shape)
-print(df_match.shape)
+df_incomplete = pd.read_csv('Data/Dictionaries/Teams_to_Complete.csv')
+# %%

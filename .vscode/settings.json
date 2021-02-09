@@ -3,5 +3,6 @@
     "python.linting.enabled": true,
     "python.linting.mypyEnabled": false,
     "python.pythonPath": "c:\\Users\\yingy\\OneDrive\\Escritorio\\Data_Science\\AI Core Projects\\Data_Pipeline\\.venv\\Scripts\\python.exe",
-    "python.linting.pylintEnabled": false
+    "python.linting.pylintEnabled": false,
+    "python.linting.pydocstyleEnabled": false
 }
