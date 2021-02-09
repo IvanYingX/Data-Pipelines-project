@@ -1,4 +1,3 @@
-import sys
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
@@ -8,10 +7,6 @@ from bs4 import BeautifulSoup
 import re
 import numpy as np
 import os
-import glob
-import calendar
-import datetime
-import difflib
 from urllib.request import urlopen, Request
 import pickle
 

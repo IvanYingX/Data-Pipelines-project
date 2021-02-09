@@ -68,3 +68,5 @@ def create_database(year_1, year_2, leagues):
                         mode='a', header=False, index=False)
                 for key in dict_standings:
                     dict_standings[key].clear()
+
+# %%
