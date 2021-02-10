@@ -4,7 +4,7 @@ First project in the AI-Core course. These scripts extract data from different s
 
 ## How to use the repo
 
-_Use the venv provided by typing .venv\scripts\activate_
+_Use the venv provided by typing .venv\scripts\activate_ \n
 There are two main scripts in this repo. The first is Main.py, which opens a GUI to ask you whether you want to create or update a database. \n
 The second one is Update_Database.py which gets the data in the Data folder and looks for any update in the data. \n
 The reason for having two separate scripts is for being able to:
