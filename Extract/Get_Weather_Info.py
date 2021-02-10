@@ -1,11 +1,21 @@
 import os
+import os.path
+import pandas as pd
+import sys
+sys.path.append('..')
+from Data.load_df import load_raw
 
-csv_filename = './Data/Dictionaries/Team_Info.csv'
-if not os.path.exists(csv_filename):
-    csv_incomplete = './Data/Dictionaries/Teams_to_Complete.csv'
-    if not os.path.exists(csv_incomplete):
-        create_teamcsv()
-    else:
-        print(f'Go to {csv_incomplete}, manually check, fill it, \
-                and save it as {csv_filename}')
-                https://www.wunderground.com/history
+
+def clean_cities(x):
+    if len(x.split(',')) > 1:
+        return x.split(',')[-2]
+    return x
+
+
+team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+standings_df = load_raw('./Data/Updated/Standings')
+standings_2 = pd.merge(left=standings_df, right=team_df, on='Team')
+dict_league = standings_2.League.unique().sorted()
+team_df['City'] = team_df['City'].apply(clean_cities)
+cities = team_df.City.unique()
+print(len(cities))

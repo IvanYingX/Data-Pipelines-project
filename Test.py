@@ -17,3 +17,6 @@ else:
 # %%
 df_incomplete = pd.read_csv('Data/Dictionaries/Team_Info.csv')
 # %%
+team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+standings_df = load_raw('./Data/Updated/Standings')
+# %%
