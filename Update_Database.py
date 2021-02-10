@@ -1,7 +1,7 @@
 import pickle
 import os
 import pandas as pd
-from Data.load_df import load_raw
+from Data_Load.load_df import load_raw
 from Extract.Extract_Data import *
 import glob
 from urllib.request import urlopen, Request
@@ -127,11 +127,14 @@ def update_database(RES_DIR, STA_DIR):
         for r in range(last_round_df + 1, current_round + 1):
             print(f'''\tAccesing data from round {r} of year
                   {current_year} of {league}''')
-            subset_results = df_results[(df_results['Year'] == current_year) &
-                                        (df_results['Round'] == r)]
+            subset_results = df_results[
+                                    (df_results['Year'] == current_year)
+                                    & (df_results['Round'] == r)
+                                ]
             subset_standings = df_standings[
-                               (df_standings['Year'] == current_year) &
-                               (df_standings['Round'] == r)]
+                                    (df_standings['Year'] == current_year)
+                                    & (df_standings['Round'] == r)
+                                ]
             driver = accept_cookies(year=current_year, league=league, round=r)
             standings = extract_standing(driver)
             results = extract_results(driver)

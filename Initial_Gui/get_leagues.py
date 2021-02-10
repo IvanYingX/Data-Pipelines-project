@@ -5,15 +5,26 @@ import sys
 
 
 def get_leagues():
-    leagues = ['premier_league', 'primera_division', 'serie_a',
-               'ligue_1', 'bundesliga', 'eredivisie', 'primeira_liga']
-    leagues_names = ['Premier League', 'Primera Division', 'Serie A',
-                     'Ligue 1', 'Bundesliga', 'Eredivisie', 'Primeira Liga']
-    leagues_2 = ['championship', 'segunda_division', 'serie_b', 'ligue_2',
-                 '2_liga', 'eerste_divisie', 'segunda_liga']
-    leagues_names_2 = ['Championship', 'Segunda Division', 'Serie B',
-                       'Ligue 2', '2. Bundesliga', 'Eerste Divisie',
-                       'Segunda Liga']
+    leagues = [
+            'premier_league', 'primera_division',
+            'serie_a', 'ligue_1', 'bundesliga',
+            'eredivisie', 'primeira_liga'
+            ]
+    leagues_names = [
+                'Premier League', 'Primera Division',
+                'Serie A', 'Ligue 1', 'Bundesliga',
+                'Eredivisie', 'Primeira Liga'
+                ]
+    leagues_2 = [
+            'championship', 'segunda_division',
+            'serie_b', 'ligue_2', '2_liga',
+            'eerste_divisie', 'segunda_liga'
+            ]
+    leagues_names_2 = [
+                'Championship', 'Segunda Division',
+                'Serie B', 'Ligue 2', '2. Bundesliga',
+                'Eerste Divisie', 'Segunda Liga'
+                ]
     box_var = []
     boxes = []
     box_num = 0
