@@ -8,3 +8,4 @@ if not os.path.exists(csv_filename):
     else:
         print(f'Go to {csv_incomplete}, manually check, fill it, \
                 and save it as {csv_filename}')
+                https://www.wunderground.com/history
