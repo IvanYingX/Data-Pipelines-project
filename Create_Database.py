@@ -3,6 +3,9 @@ import pandas as pd
 
 
 def create_database(year_1, year_2, leagues):
+    '''
+    DOCSTRING
+    '''
     list_standings = ['Position', 'Team', 'Points', 'Round', 'Win',
                       'Draw', 'Lose', 'Goals_For', 'Goals_Against',
                       'Number_Teams', 'Year', 'League']
@@ -68,5 +71,3 @@ def create_database(year_1, year_2, leagues):
                         mode='a', header=False, index=False)
                 for key in dict_standings:
                     dict_standings[key].clear()
-
-# %%
