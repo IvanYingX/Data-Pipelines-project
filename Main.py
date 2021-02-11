@@ -2,11 +2,7 @@ from Extract.Extract_Data import *
 from Initial_Gui import *
 from Create_Database import create_database
 from Update_Database import update_database
-from tkinter import messagebox
-from bs4 import BeautifulSoup
-from tkinter import filedialog
 from tkinter import *
-import pandas as pd
 import glob
 
 action = create_update.create_or_update()
