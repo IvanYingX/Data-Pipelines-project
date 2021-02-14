@@ -81,11 +81,11 @@ def get_city_code():
         else:
             print('success')
             break
-    
+
     view_button = WebDriverWait(driver, delay).until(
                         EC.presence_of_element_located(
                             (By.XPATH, '//input[@id="dateSubmit"]')))
-    
+
     while True:
         try:
             view_button.click()
@@ -102,20 +102,5 @@ def get_city_code():
     print(driver.current_url)
 
 
-def clean_cities(x):
-    '''
-    DOCSTRING
-    '''
-    if len(x.split(',')) > 1:
-        return x.split(',')[-2]
-    return x
-
-
-get_city_code()
-team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
-standings_df = load_raw('./Data/Updated/Standings')
-standings_2 = pd.merge(left=standings_df, right=team_df, on='Team')
-dict_league = standings_2.League.unique().sort()
-team_df['City'] = team_df['City'].apply(clean_cities)
-cities = team_df.City.unique()
-print(len(cities))
+if __name__=='__main__':
+    get_city_code()
