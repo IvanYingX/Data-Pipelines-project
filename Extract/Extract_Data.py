@@ -36,7 +36,11 @@ def accept_cookies(year, league, round=None):
     ROOT_DIR = "https://www.besoccer.com/"
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
     options = Options()
-    options.headless = True
+    options.add_argument("--headless")
+    options.add_argument("--no-sandbox")
+    options.add_argument("start-maximized")
+    options.add_argument("disable-infobars")
+    options.add_argument("--disable-extensions")
     driver = webdriver.Chrome(driver_dir, chrome_options=options)
     if round:
         driver.get(ROOT_DIR + league + str(year) +

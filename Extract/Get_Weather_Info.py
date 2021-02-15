@@ -34,7 +34,7 @@ def accept_cookies():
     ROOT_DIR = "https://www.wunderground.com/history"
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
     options = Options()
-    options.headless = False
+    options.headless = True
     driver = webdriver.Chrome(driver_dir, chrome_options=options)
     driver.get(ROOT_DIR)
     delay = 3
@@ -61,9 +61,9 @@ def accept_cookies():
         return driver
 
 
-def get_city_code():
+def get_city_code(city):
     driver = accept_cookies()
-    print('I have clicked cookies')
+    print(f'Looking code for {city}')
     time.sleep(3)
     delay = 3
     search_bar = WebDriverWait(driver, delay).until(
@@ -72,14 +72,15 @@ def get_city_code():
     while True:
         try:
             search_bar.click()
-            search_bar.send_keys('Madrid España')
-        except StaleElementReferenceException as Exception:
+            search_bar.send_keys(city)
+            time.sleep(4)
+            search_bar.send_keys(Keys.ENTER)
+        except StaleElementReferenceException:
             time.sleep(3)
             search_bar = WebDriverWait(driver, delay).until(
                         EC.presence_of_element_located(
                             (By.XPATH, '//input[@id="historySearch"]')))
         else:
-            print('success')
             break
 
     view_button = WebDriverWait(driver, delay).until(
@@ -89,18 +90,41 @@ def get_city_code():
     while True:
         try:
             view_button.click()
-        except ElementClickInterceptedException as Exception:
+        except ElementClickInterceptedException:
             search_bar.click()
             search_bar.send_keys(Keys.ENTER)
             view_button = WebDriverWait(driver, delay).until(
                         EC.presence_of_element_located(
                             (By.XPATH, '//input[@id="dateSubmit"]')))
         else:
-            print('success')
             break
     time.sleep(3)
-    print(driver.current_url)
+    code_url = driver.current_url
+    city_code = re.search('/daily/(.*?)/', code_url)
+    if city_code:
+        driver.quit()
+        return city_code[1]
+    else:
+        driver.quit()
+        return None
 
 
-if __name__=='__main__':
-    get_city_code()
+if __name__ == '__main__':
+    filename = './Data/Dictionaries/dict_city_code.pkl'
+    if os.path.exists(filename):
+        with open(filename, "rb") as f:
+            dict_city_code = pickle.load(f)
+    else:
+        team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+        city_code_df = team_df.drop_duplicates(subset='City')
+        cities = list(city_code_df.City)
+        countries = list(city_code_df.Country)
+        dict_city_code = {x: [y, None] for x, y in zip(cities, countries)}
+    for city, values in dict_city_code.items():
+        if values[1]:
+            continue
+        else:
+            values[1] = get_city_code(city + ' ' + values[0])
+            with open(filename, 'wb') as pickle_out:
+                pickle.dump(dict_city_code, pickle_out)
+    print(dict_city_code)
