@@ -1,4 +1,3 @@
-
 from Data_Load.load_df import load_raw
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
@@ -20,16 +19,15 @@ import pickle
 
 
 def accept_cookies():
-    '''
-    Starts the driver which returns the html code of the webpage
-    so that the city and country can be added to the search bar.
+    """Starts the driver which returns the html code of the webpage so that the
+    city and country can be added to the search bar.
 
     Returns
     -------
     driver: webdriver
         The webdriver object that can extract the HTML code to look for the
         data in the wanted year, league and round
-    '''
+    """
 
     ROOT_DIR = "https://www.wunderground.com/history"
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
@@ -109,7 +107,31 @@ def get_city_code(city):
         return None
 
 
+def get_hour(x):
+    if len(x.split(',')) > 2:
+        time = x.split(',')[2]
+        hour = int(time.split(':')[0])
+        minutes = time.split(':')[1]
+        pm = True
+        if (hour // 12) < 1:
+            pm = False
+        if pm:
+            pm = 'PM'
+        else:
+            pm = 'AM'
+        hour = str(hour % 12)
+        return f'{hour}:{minutes} {pm}'
+    else:
+        return '5:00 PM'
+
+
 if __name__ == '__main__':
+    # Load the dataframes
+    RES_DIR = './Data/Updated/Results'
+    df_results = load_raw(RES_DIR)
+    df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
+
+    # Get the code for each city
     filename = './Data/Dictionaries/dict_city_code.pkl'
     if os.path.exists(filename):
         with open(filename, "rb") as f:
@@ -127,4 +149,20 @@ if __name__ == '__main__':
             values[1] = get_city_code(city + ' ' + values[0])
             with open(filename, 'wb') as pickle_out:
                 pickle.dump(dict_city_code, pickle_out)
-    print(dict_city_code)
+
+    # Add a column to the team dataset with each code
+    team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+    team_df['Code'] = team_df['City'].map(lambda x: dict_city_code[x][1])
+    df_results = df_results.merge(
+                team_df, left_on='Home_Team', right_on='Team').merge(
+                df_match, left_on='Link', right_on='Link')
+    df_results['Date'] = pd.to_datetime(
+                        df_results['Date_New'].map(
+                            lambda x: x.split(',')[1]
+                        ))
+    df_results['Hour'] = df_results['Date_New'].map(get_hour)
+    print(df_results.columns)
+    df_weather = df_results[
+                ['Link', 'Date', 'Hour', 'City', 'Country', 'Code']
+                ].set_index('Link')
+    df_weather.to_csv('Data/Dictionaries/Weather_Info.csv')

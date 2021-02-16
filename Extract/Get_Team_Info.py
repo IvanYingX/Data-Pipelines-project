@@ -163,14 +163,11 @@ def update_teams(df):
 
     team_incomplete, updates = get_link(team_incomplete, update=True)
 
-    df_updated = pd.concat(
-                [df, team_incomplete]
-                ).drop_duplicates(
-                    ['Team'], keep='last')
+    df_updated = pd.concat([df, team_incomplete]).drop_duplicates(
+                            ['Team'], keep='last')
 
-    df_updated.to_csv(
-                './Data/Dictionaries/Team_Info.csv',
-                index=False)
+    df_updated.to_csv('./Data/Dictionaries/Team_Info.csv',
+                      index=False)
     return updates
 
 
