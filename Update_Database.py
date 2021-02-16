@@ -9,11 +9,9 @@ from bs4 import BeautifulSoup
 
 
 def update_database(RES_DIR, STA_DIR):
-    '''
-    Takes the files in RES_DIR and STA_DIR and checks if there
-    is any available update.
-    If there is, it appends the available update to the 'Update'
-    folder.
+    """Takes the files in RES_DIR and STA_DIR and checks if there is any
+    available update. If there is, it appends the available update to the
+    'Update' folder.
 
     If the chosen files don't have the latest year, it looks
     for the last available year in the file and its corresponding
@@ -24,14 +22,13 @@ def update_database(RES_DIR, STA_DIR):
     ----------
     RES_DIR: str
         Directory of the results file. The file has to be a csv
-        corresponding to a single league
-    STA_DIR: str
         Directory of the standings file. The chosen file has to
         correspond to the same league as the league in the results
         file, otherwise, the function terminates.
+    """
 
-    '''
-
+    df_results = pd.read_csv(RES_DIR)
+    df_standings = pd.read_csv(STA_DIR)
     df_results = pd.read_csv(RES_DIR)
     df_standings = pd.read_csv(STA_DIR)
     list_standings = ['Position', 'Team', 'Points', 'Round', 'Win', 'Draw',
@@ -179,16 +176,15 @@ def update_database(RES_DIR, STA_DIR):
                                 how='right').loc[
                                 lambda x: x['_merge'] != 'both']
             df_diff_standings = df_diff_standings.drop(['_merge'], axis=1)
-            df_diff_standings.to_csv(dest_sta_file, mode='a', header=False,
-                                     index=False)
-    return None
 
 
 if __name__ == '__main__':
-    '''This will take the CSV files that were updated
-    yesterday to check for new updates today.
-    Don't change these values unless you haven't created an
-    updated file, or you need to overwrite the updated files.'''
+    """This will take the CSV files that were updated yesterday to check for
+    new updates today.
+
+    Don't change these values unless you haven't created an updated
+    file, or you need to overwrite the updated files.
+    """
     res_dir = './Data/Updated/Results'
     sta_dir = './Data/Updated/Standings'
     file_res_list = sorted(glob.glob(f'{res_dir}/*'))
