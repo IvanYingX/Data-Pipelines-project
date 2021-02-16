@@ -18,7 +18,7 @@ from urllib.request import urlopen, Request
 import pickle
 
 
-def accept_cookies():
+def accept_cookies(ROOT="https://www.wunderground.com/history"):
     """Starts the driver which returns the html code of the webpage so that the
     city and country can be added to the search bar.
 
@@ -29,7 +29,7 @@ def accept_cookies():
         data in the wanted year, league and round
     """
 
-    ROOT_DIR = "https://www.wunderground.com/history"
+    ROOT_DIR = ROOT
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
     options = Options()
     options.headless = True
@@ -125,19 +125,34 @@ def get_hour(x):
         return '5:00 PM'
 
 
+def create_weather(new_df, team_df, match_df):
+    new_df = new_df.merge(
+                team_df, left_on='Home_Team', right_on='Team').merge(
+                match_df, left_on='Link', right_on='Link')
+    new_df['Date'] = pd.to_datetime(new_df['Date_New'].map(
+                        lambda x: x.split(',')[1]))
+    new_df['Hour'] = new_df['Date_New'].map(get_hour)
+    new_weather = new_df[
+                ['Link', 'Date',
+                 'Hour', 'City',
+                 'Country', 'Code']
+                ].set_index('Link')
+    return new_weather
+
+
 if __name__ == '__main__':
     # Load the dataframes
     RES_DIR = './Data/Updated/Results'
     df_results = load_raw(RES_DIR)
     df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
-
+    team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
     # Get the code for each city
     filename = './Data/Dictionaries/dict_city_code.pkl'
     if os.path.exists(filename):
         with open(filename, "rb") as f:
             dict_city_code = pickle.load(f)
     else:
-        team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+
         city_code_df = team_df.drop_duplicates(subset='City')
         cities = list(city_code_df.City)
         countries = list(city_code_df.Country)
@@ -151,18 +166,65 @@ if __name__ == '__main__':
                 pickle.dump(dict_city_code, pickle_out)
 
     # Add a column to the team dataset with each code
-    team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
     team_df['Code'] = team_df['City'].map(lambda x: dict_city_code[x][1])
-    df_results = df_results.merge(
-                team_df, left_on='Home_Team', right_on='Team').merge(
-                df_match, left_on='Link', right_on='Link')
-    df_results['Date'] = pd.to_datetime(
-                        df_results['Date_New'].map(
-                            lambda x: x.split(',')[1]
-                        ))
-    df_results['Hour'] = df_results['Date_New'].map(get_hour)
-    print(df_results.columns)
-    df_weather = df_results[
-                ['Link', 'Date', 'Hour', 'City', 'Country', 'Code']
-                ].set_index('Link')
-    df_weather.to_csv('Data/Dictionaries/Weather_Info.csv')
+
+    # Create a weather csv to store the weather on each match
+    weather_file = 'Data/Dictionaries/Weather_Info.csv'
+    if os.path.exists(weather_file):
+        df_weather = pd.read_csv(weather_file)
+        '''
+        If the number of samples in df_weather is lower than the number of
+        matches, we need to update the weather dataframe
+        '''
+        if df_weather.shape[0] < df_results.shape[0]:
+            new_samples = df_results.iloc[df_weather.shape[0]:]
+            new_weather = create_weather(new_samples, team_df, df_match)
+            # When updating, the weather conditions will be replaced by NaNs
+            df_weather = pd.concat([df_weather, new_weather],
+                                   ignore_index=True)
+    else:
+        df_weather = create_weather(df_results, team_df, df_match)
+        df_weather.to_csv(weather_file)
+
+    # Start the Scraping iterating through each match
+    ROOT = "https://www.wunderground.com/history/daily/"
+    hdr = {'User-Agent': 'Mozilla/5.0'}
+    for idx, row in df_weather.tail(3).iterrows():
+        URL = ROOT + row['Code'] + '/date/' + row['Date']
+        driver = accept_cookies(URL)
+        html = driver.page_source
+        temp_bs = BeautifulSoup(html, 'html.parser')
+        daily_observations = temp_bs.find(
+                "table",
+                {"class": 'mat-table cdk-table mat-sort ng-star-inserted'}
+                )
+        if daily_observations:
+            hour = row['Hour'].split(':')[0]
+            hour_pm = row['Hour'].split(':')[1][-2:]
+            regex = re.compile(rf"^{hour}:[0-9]{{2}} {hour_pm}")
+
+            hour_column = daily_observations.find(text=regex)
+            if hour_column:
+                hour_row = hour_column.find_parent('tr')
+                if hour_row:
+                    temperature = hour_row.find(
+                        'td',
+                        {'class': 'mat-cell cdk-cell cdk-column-temperature'
+                         + ' mat-column-temperature ng-star-inserted'}
+                    ).text
+                    humidity = hour_row.find(
+                        'td',
+                        {'class': 'mat-cell cdk-cell cdk-column-humidity'
+                         + ' mat-column-humidity ng-star-inserted'}
+                    ).text
+                    wind = hour_row.find(
+                        'td',
+                        {'class': 'mat-cell cdk-cell cdk-column-windSpeed'
+                         + ' mat-column-windSpeed ng-star-inserted'}
+                    ).text
+                    condition = hour_row.find(
+                        'td',
+                        {'class': 'mat-cell cdk-cell cdk-column-condition'
+                         + ' mat-column-condition ng-star-inserted'}
+                    ).text
+

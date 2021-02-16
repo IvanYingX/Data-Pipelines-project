@@ -19,8 +19,10 @@ import pickle
 
 df_weather = pd.read_csv('./Data/Dictionaries/Weather_Info.csv')
 ROOT = "https://www.wunderground.com/history/daily/"
-for idx, row in df_weather.iterrows():
+hdr = {'User-Agent': 'Mozilla/5.0'}
+for idx, row in df_weather.head(2).iterrows():
     URL = ROOT + row['Code'] + '/date/' + row['Date']
-    # temp_url = urlopen(URL)
-    # temp_bs = BeautifulSoup(temp_url.read(), 'html.parser')
-    print(URL)
+    req = Request(URL, headers=hdr)
+    temp_url = urlopen(req)
+    temp_bs = BeautifulSoup(temp_url.read(), 'html.parser')
+    print(temp_bs)
