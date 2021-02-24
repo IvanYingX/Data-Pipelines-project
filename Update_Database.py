@@ -37,7 +37,6 @@ def update_database(RES_DIR, STA_DIR):
 
     # Check how many leagues we have in both files. There should be only one
     league = pd.concat([df_standings.League, df_results.League]).unique()
-    print(league)
     if len(league) != 1:
         raise ValueError('''There is a problem with these CSVs. There is
                          more than 1 league''')
@@ -70,6 +69,8 @@ def update_database(RES_DIR, STA_DIR):
     # year that has not been extracted
     if final_year != current_year:
         for year in range(final_year, current_year):
+            print(f"Accesing data from: \tround {r} \n\tyear"
+                  + f"{year} \n\tleague {league}")
             driver = accept_cookies(year=year, league=league)
 
             # Number of actual rounds in the last year of our database if the
@@ -137,8 +138,8 @@ def update_database(RES_DIR, STA_DIR):
     # so we need to restart the number of the round
     if last_round_df != current_round:
         for r in range(last_round_df + 1, current_round + 1):
-            print(f'''\tAccesing data from round {r} of year
-                  {current_year} of {league}''')
+            print(f"Accesing data from: \tround {r} \n\tyear"
+                  + f"{current_year} \n\tleague {league}")
             subset_results = df_results[
                                     (df_results['Year'] == current_year)
                                     & (df_results['Round'] == r)

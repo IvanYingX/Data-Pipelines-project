@@ -1,6 +1,6 @@
 from Data_Load.load_df import load_raw
 import pandas as pd
-from Extract_Data import extract_match_info
+from Extract.Extract_Data import extract_match_info
 import time
 import os
 import pickle
