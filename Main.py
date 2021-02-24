@@ -28,3 +28,6 @@ else:
         file_sta_list = sorted(glob.glob(f'{sta_dir}/*'))
         for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list)):
             update_database(RES_DIR, STA_DIR)
+        exec(open("./Extract/Get_Team_Info.py").read())
+        exec(open("./Extract/Get_Match_Info.py").read())
+
