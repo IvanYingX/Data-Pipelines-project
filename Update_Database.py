@@ -29,40 +29,51 @@ def update_database(RES_DIR, STA_DIR):
 
     df_results = pd.read_csv(RES_DIR)
     df_standings = pd.read_csv(STA_DIR)
-    df_results = pd.read_csv(RES_DIR)
-    df_standings = pd.read_csv(STA_DIR)
     list_standings = ['Position', 'Team', 'Points', 'Round', 'Win', 'Draw',
                       'Lose', 'Goals_For', 'Goals_Against', 'Number_Teams',
                       'Year', 'League']
     list_results = ['Home_Team', 'Away_Team', 'Result', 'Date', 'Link',
                     'Year', 'Round', 'League']
-    # Last year available in the dataset
-    final_year = df_results.Year.max()
-    # Last round available in the last year of the dataset
-    last_round_df = df_results[df_results['Year'] == final_year].Round.max()
+
     # Check how many leagues we have in both files. There should be only one
     league = pd.concat([df_standings.League, df_results.League]).unique()
     print(league)
     if len(league) != 1:
         raise ValueError('''There is a problem with these CSVs. There is
                          more than 1 league''')
+
+    # Last year available in the dataset
+    final_year = df_results.Year.max()
+    # Last round available in the last year of the dataset
+    last_round_df = df_results[df_results['Year'] == final_year].Round.max()
+
     league = league[0]
 
     dest_res_file = f'./Data/Updated/Results/Results_{league}.csv'
     dest_sta_file = f'./Data/Updated/Standings/Standings_{league}.csv'
+
+    # Create a csv for each dataframe if they do not exist
     if not os.path.exists(dest_res_file):
         df_results.to_csv(dest_res_file, index=False)
     if not os.path.exists(dest_sta_file):
         df_standings.to_csv(dest_sta_file, index=False)
 
+    # Start the scraping, we need to see the current actual year and round
     driver = accept_cookies(year='', league=league)
+
     current_year = extract_current_year(driver)
     current_round = extract_rounds(driver)
     driver.quit()
 
+    # If the final year of our database is lower than the current
+    # actual year we need to extract the rounds from the final
+    # year that has not been extracted
     if final_year != current_year:
         for year in range(final_year, current_year):
             driver = accept_cookies(year=year, league=league)
+
+            # Number of actual rounds in the last year of our database if the
+            # last year of our database is lower than the actual last year
             last_round_final_year = extract_rounds(driver)
             driver.quit()
             for r in range(last_round_df + 1, last_round_final_year + 1):
@@ -119,7 +130,11 @@ def update_database(RES_DIR, STA_DIR):
                                          index=False)
 
             last_round_df = 0
-    # Iterate through the current year
+
+    # If the last year of our database is the same as the last actual year
+    # we can iterate through the rounds.
+    # If we come from the previous loop, we are going to the next year,
+    # so we need to restart the number of the round
     if last_round_df != current_round:
         for r in range(last_round_df + 1, current_round + 1):
             print(f'''\tAccesing data from round {r} of year
@@ -176,6 +191,8 @@ def update_database(RES_DIR, STA_DIR):
                                 how='right').loc[
                                 lambda x: x['_merge'] != 'both']
             df_diff_standings = df_diff_standings.drop(['_merge'], axis=1)
+            df_diff_standings.to_csv(dest_sta_file, mode='a', header=False,
+                                     index=False)
 
 
 if __name__ == '__main__':

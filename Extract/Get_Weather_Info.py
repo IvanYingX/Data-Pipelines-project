@@ -227,4 +227,3 @@ if __name__ == '__main__':
                         {'class': 'mat-cell cdk-cell cdk-column-condition'
                          + ' mat-column-condition ng-star-inserted'}
                     ).text
-

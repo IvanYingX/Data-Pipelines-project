@@ -34,7 +34,8 @@ if os.path.exists(filename):
 else:
     dict_match = {}
 
-new_columns = ['Date_New', 'Referee', 'Home_Yellow', 'Home_Red',
+new_columns = ['Date_New', 'Referee',
+               'Home_Yellow', 'Home_Red',
                'Away_Yellow', 'Away_Red']
 df_match = pd.DataFrame.from_dict(dict_match, orient='index',
                                   columns=new_columns)
