@@ -136,64 +136,66 @@ def update_database(RES_DIR, STA_DIR):
     # we can iterate through the rounds.
     # If we come from the previous loop, we are going to the next year,
     # so we need to restart the number of the round
-    if last_round_df != current_round:
-        for r in range(last_round_df + 1, current_round + 1):
-            print(f"Accesing data from: \tround {r} \n\tyear"
-                  + f"{current_year} \n\tleague {league}")
-            subset_results = df_results[
-                                    (df_results['Year'] == current_year)
-                                    & (df_results['Round'] == r)
-                                ]
-            subset_standings = df_standings[
-                                    (df_standings['Year'] == current_year)
-                                    & (df_standings['Round'] == r)
-                                ]
-            driver = accept_cookies(year=current_year, league=league, round=r)
-            standings = extract_standing(driver)
-            results = extract_results(driver)
-            dict_standings = {x: [] for x in list_standings}
-            dict_results = {x: [] for x in list_results}
-            if standings is None or results is None:
-                print(f'----------------------------------------------------')
-                print(f'''!!!\tRound {r} does not exist on year
-                      {current_year}\t!!!''')
-                print(f'----------------------------------------------------')
-                driver.quit()
-                continue
 
+    for r in range(last_round_df, current_round + 1):
+        print(f"Accesing data from: \tround {r} \n\t\t\tyear"
+              + f" {current_year} \n\t\t\tleague {league}")
+        subset_results = df_results[
+                                (df_results['Year'] == current_year)
+                                & (df_results['Round'] == r)
+                            ]
+        subset_standings = df_standings[
+                                (df_standings['Year'] == current_year)
+                                & (df_standings['Round'] == r)
+                            ]
+        driver = accept_cookies(year=current_year, league=league, round=r)
+        standings = extract_standing(driver)
+        results = extract_results(driver)
+        dict_standings = {x: [] for x in list_standings}
+        dict_results = {x: [] for x in list_results}
+        if standings is None or results is None:
+            print(f'----------------------------------------------------')
+            print(f'''!!!\tRound {r} does not exist on year
+                    {current_year}\t!!!''')
+            print(f'----------------------------------------------------')
             driver.quit()
-            for i, key in enumerate(list_standings[:-2]):
-                dict_standings[key].extend(standings[i])
+            continue
 
-            dict_standings['Year'].extend([current_year] * len(standings[0]))
-            dict_standings['League'].extend([league] * len(standings[0]))
+        driver.quit()
+        for i, key in enumerate(list_standings[:-2]):
+            dict_standings[key].extend(standings[i])
 
-            for i, key in enumerate(list_results[:-3]):
-                dict_results[key].extend(results[i])
+        dict_standings['Year'].extend([current_year] * len(standings[0]))
+        dict_standings['League'].extend([league] * len(standings[0]))
 
-            dict_results['Year'].extend([current_year] * len(results[0]))
-            dict_results['Round'].extend([r] * len(results[0]))
-            dict_results['League'].extend([league] * len(results[0]))
+        for i, key in enumerate(list_results[:-3]):
+            dict_results[key].extend(results[i])
 
-            new_df_results = pd.DataFrame(dict_results)
-            new_df_standings = pd.DataFrame(dict_standings)
-            mask = new_df_results['Result'].map(lambda x: ':' not in x,
-                                                na_action=None)
-            new_df_results = new_df_results[mask]
+        dict_results['Year'].extend([current_year] * len(results[0]))
+        dict_results['Round'].extend([r] * len(results[0]))
+        dict_results['League'].extend([league] * len(results[0]))
 
-            df_diff_results = subset_results.merge(
-                            new_df_results, indicator=True,
-                            how='right').loc[lambda x: x['_merge'] != 'both']
-            df_diff_results = df_diff_results.drop(['_merge'], axis=1)
-            df_diff_results.to_csv(dest_res_file, mode='a', header=False,
-                                   index=False)
-            df_diff_standings = subset_standings.merge(
-                                new_df_standings, indicator=True,
-                                how='right').loc[
-                                lambda x: x['_merge'] != 'both']
-            df_diff_standings = df_diff_standings.drop(['_merge'], axis=1)
-            df_diff_standings.to_csv(dest_sta_file, mode='a', header=False,
-                                     index=False)
+        new_df_results = pd.DataFrame(dict_results)
+        new_df_standings = pd.DataFrame(dict_standings)
+        mask = new_df_results['Result'].map(lambda x: ':' not in x,
+                                            na_action=None)
+        new_df_results = new_df_results[mask]
+
+        # Take only those matches that are already included      
+        df_diff_results = subset_results.merge(
+                        new_df_results, indicator=True,
+                        how='right').loc[lambda x: x['_merge'] != 'both']
+        df_diff_results = df_diff_results.drop(['_merge'], axis=1)
+        df_diff_results.to_csv(dest_res_file, mode='a', header=False,
+                               index=False)
+        # Take only those standings that are different
+        df_diff_standings = subset_standings.merge(
+                            new_df_standings, indicator=True,
+                            how='right').loc[
+                            lambda x: x['_merge'] != 'both']
+        df_diff_standings = df_diff_standings.drop(['_merge'], axis=1)
+        df_diff_standings.to_csv(dest_sta_file, mode='a', header=False,
+                                 index=False)
 
 
 if __name__ == '__main__':

@@ -4,6 +4,7 @@ from Create_Database import create_database
 from Update_Database import update_database
 from tkinter import *
 import glob
+import os
 
 action = create_update.create_or_update()
 if action:
@@ -29,5 +30,5 @@ else:
         for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list)):
             update_database(RES_DIR, STA_DIR)
         exec(open("./Extract/Get_Team_Info.py").read())
-        exec(open("./Extract/Get_Match_Info.py").read())
-
+        os.chdir('./Extract')
+        exec(open("Get_Match_Info.py").read())

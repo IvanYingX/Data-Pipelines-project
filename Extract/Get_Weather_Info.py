@@ -1,4 +1,5 @@
 from Data_Load.load_df import load_raw
+from operator import methodcaller
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
@@ -32,18 +33,25 @@ def accept_cookies(ROOT="https://www.wunderground.com/history"):
     ROOT_DIR = ROOT
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
     options = Options()
-    options.headless = True
+    options.headless = False
     driver = webdriver.Chrome(driver_dir, chrome_options=options)
     driver.get(ROOT_DIR)
     delay = 3
-    try:
-        myElem = WebDriverWait(driver, delay).until(
-                EC.presence_of_element_located(
-                    (By.XPATH, '//button[@id="truste-consent-button"]'))
-                )
-        print("Page is ready!")
-    except TimeoutException:
-        print("Loading took too much time!")
+    n = 0
+    while n < 20:
+        n += 1
+        print(f'Accessing {URL}. Iteration number {n}')
+        try:
+            myElem = WebDriverWait(driver, delay).until(
+                    EC.presence_of_element_located(
+                        (By.XPATH, '//button[@id="truste-consent-button"]'))
+                    )
+            print("Page is ready!")
+            break
+        except TimeoutException:
+            print("Loading took too much time!")
+            print('Trying again')
+            delay += 2
     cookies_button = driver.find_elements_by_xpath(
                                 '//button[@id="truste-consent-button"]'
                                 )
@@ -131,12 +139,13 @@ def create_weather(new_df, team_df, match_df):
                 match_df, left_on='Link', right_on='Link')
     new_df['Date'] = pd.to_datetime(new_df['Date_New'].map(
                         lambda x: x.split(',')[1]))
+    new_df['Date'] = new_df['Date'].map(lambda x: str(x).split()[0])
     new_df['Hour'] = new_df['Date_New'].map(get_hour)
     new_weather = new_df[
                 ['Link', 'Date',
                  'Hour', 'City',
                  'Country', 'Code']
-                ].set_index('Link')
+                ]
     return new_weather
 
 
@@ -181,7 +190,7 @@ if __name__ == '__main__':
             new_weather = create_weather(new_samples, team_df, df_match)
             # When updating, the weather conditions will be replaced by NaNs
             df_weather = pd.concat([df_weather, new_weather],
-                                   ignore_index=True)
+                                   ignore_index=False)
     else:
         df_weather = create_weather(df_results, team_df, df_match)
         df_weather.to_csv(weather_file)
@@ -192,13 +201,25 @@ if __name__ == '__main__':
     for idx, row in df_weather.tail(3).iterrows():
         URL = ROOT + row['Code'] + '/date/' + row['Date']
         driver = accept_cookies(URL)
-        html = driver.page_source
-        temp_bs = BeautifulSoup(html, 'html.parser')
-        daily_observations = temp_bs.find(
-                "table",
-                {"class": 'mat-table cdk-table mat-sort ng-star-inserted'}
-                )
-        if daily_observations:
+        # Wait for the driver to find the table
+        try:
+            daily_observations = WebDriverWait(driver, 20).until(
+                        EC.presence_of_element_located(
+                            (By.XPATH, '//table[@class='
+                             + '"mat-table cdk-table '
+                             + 'mat-sort ng-star-inserted"'
+                             + ']')))
+        except TimeoutException:
+            print("I could not find the daily observation table,\n"
+                  + "I will look for an alternative")
+        else:
+            print(f'I found the daily observation table,\n')
+            html = driver.page_source
+            temp_bs = BeautifulSoup(html, 'html.parser')
+            daily_observations = temp_bs.find(
+                    "table",
+                    {"class": 'mat-table cdk-table '
+                     + 'mat-sort ng-star-inserted'})
             hour = row['Hour'].split(':')[0]
             hour_pm = row['Hour'].split(':')[1][-2:]
             regex = re.compile(rf"^{hour}:[0-9]{{2}} {hour_pm}")

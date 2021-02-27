@@ -6,9 +6,9 @@ def create_database(year_1, year_2, leagues):
     '''
     DOCSTRING
     '''
-    list_standings = ['Position', 'Team', 'Points', 'Round', 'Win',
+    list_standings = ['Position', 'Team', 'Points', 'Win',
                       'Draw', 'Lose', 'Goals_For', 'Goals_Against',
-                      'Number_Teams', 'Year', 'League']
+                      'Number_Teams', 'Year', 'Round', 'League']
     list_results = ['Home_Team', 'Away_Team', 'Result', 'Date',
                     'Link', 'Year', 'Round', 'League']
     dict_standings = {x: [] for x in list_standings}
@@ -48,10 +48,11 @@ def create_database(year_1, year_2, leagues):
                     continue
 
                 driver.quit()
-                for i, key in enumerate(list_standings[:-2]):
+                for i, key in enumerate(list_standings[:-3]):
                     dict_standings[key].extend(standings[i])
 
                 dict_standings['Year'].extend([year] * len(standings[0]))
+                dict_standings['Round'].extend([round] * len(standings[0]))
                 dict_standings['League'].extend([league] * len(standings[0]))
 
                 for i, key in enumerate(list_results[:-3]):
