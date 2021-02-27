@@ -1,7 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
-import time
 import pandas as pd
 from bs4 import BeautifulSoup
 import re
@@ -148,27 +146,27 @@ def extract_standing(driver):
         return None
     num_teams = len(standings_table)
 
-    position = [standings_table[i].find_all('td')[0].find('span').text
-                for i in range(num_teams)]
+    position = [
+        int(standings_table[i].find_all('td')[0].find('span').text)
+        for i in range(num_teams)
+        ]
     team = [standings_table[i].find_all('td')[1].find('a').text
             for i in range(num_teams)]
-    pts = [standings_table[i].find_all('td')[3].text
+    pts = [int(standings_table[i].find_all('td')[3].text)
            for i in range(num_teams)]
-    round = [standings_table[i].find_all('td')[4].text
-             for i in range(num_teams)]
-    win = [standings_table[i].find_all('td')[5].text
+    win = [int(standings_table[i].find_all('td')[5].text)
            for i in range(num_teams)]
-    draw = [standings_table[i].find_all('td')[6].text
+    draw = [int(standings_table[i].find_all('td')[6].text)
             for i in range(num_teams)]
-    lost = [standings_table[i].find_all('td')[7].text
+    lost = [int(standings_table[i].find_all('td')[7].text)
             for i in range(num_teams)]
-    g_favour = [standings_table[i].find_all('td')[8].text
+    g_favour = [int(standings_table[i].find_all('td')[8].text)
                 for i in range(num_teams)]
-    g_against = [standings_table[i].find_all('td')[9].text
+    g_against = [int(standings_table[i].find_all('td')[9].text)
                  for i in range(num_teams)]
     n_teams = [num_teams] * len(position)
 
-    standings = [position, team, pts, round, win, draw, lost, g_favour,
+    standings = [position, team, pts, win, draw, lost, g_favour,
                  g_against, n_teams]
 
     # Make sure that we haven't skipped any data
