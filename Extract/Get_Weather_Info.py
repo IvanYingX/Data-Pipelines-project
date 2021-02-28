@@ -133,9 +133,9 @@ def get_hour(x):
         return '5:00 PM'
 
 
-def create_weather(new_df, team_df, match_df):
+def create_weather(new_df, df_team, match_df):
     new_df = new_df.merge(
-                team_df, left_on='Home_Team', right_on='Team').merge(
+                df_team, left_on='Home_Team', right_on='Team').merge(
                 match_df, left_on='Link', right_on='Link')
     new_df['Date'] = pd.to_datetime(new_df['Date_New'].map(
                         lambda x: x.split(',')[1]))
@@ -154,7 +154,8 @@ if __name__ == '__main__':
     RES_DIR = './Data/Updated/Results'
     df_results = load_raw(RES_DIR)
     df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
-    team_df = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+    df_team = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
+    
     # Get the code for each city
     filename = './Data/Dictionaries/dict_city_code.pkl'
     if os.path.exists(filename):
@@ -162,7 +163,7 @@ if __name__ == '__main__':
             dict_city_code = pickle.load(f)
     else:
 
-        city_code_df = team_df.drop_duplicates(subset='City')
+        city_code_df = df_team.drop_duplicates(subset='City')
         cities = list(city_code_df.City)
         countries = list(city_code_df.Country)
         dict_city_code = {x: [y, None] for x, y in zip(cities, countries)}
@@ -175,7 +176,7 @@ if __name__ == '__main__':
                 pickle.dump(dict_city_code, pickle_out)
 
     # Add a column to the team dataset with each code
-    team_df['Code'] = team_df['City'].map(lambda x: dict_city_code[x][1])
+    df_team['Code'] = df_team['City'].map(lambda x: dict_city_code[x][1])
 
     # Create a weather csv to store the weather on each match
     weather_file = 'Data/Dictionaries/Weather_Info.csv'
@@ -187,12 +188,12 @@ if __name__ == '__main__':
         '''
         if df_weather.shape[0] < df_results.shape[0]:
             new_samples = df_results.iloc[df_weather.shape[0]:]
-            new_weather = create_weather(new_samples, team_df, df_match)
+            new_weather = create_weather(new_samples, df_team, df_match)
             # When updating, the weather conditions will be replaced by NaNs
             df_weather = pd.concat([df_weather, new_weather],
                                    ignore_index=False)
     else:
-        df_weather = create_weather(df_results, team_df, df_match)
+        df_weather = create_weather(df_results, df_team, df_match)
         df_weather.to_csv(weather_file)
 
     # Start the Scraping iterating through each match

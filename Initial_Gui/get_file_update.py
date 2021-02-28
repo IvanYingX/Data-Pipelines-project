@@ -1,4 +1,3 @@
-# %%
 import tkinter
 from tkinter import ttk, StringVar
 from tkinter.filedialog import askopenfilename, askdirectory
@@ -18,57 +17,56 @@ class Update_Gui:
         self.path_sta = ''
         self.path_dir_sta = ''
 
-        root.protocol("WM_DELETE_WINDOW", self.on_closing)
-        root.resizable(0, 0)  # This prevents from resizing the window
-        root.geometry("700x300")
+        self.root.protocol("WM_DELETE_WINDOW", self.on_closing)
+        self.root.resizable(0, 0)  # This prevents from resizing the window
+        self.root.geometry("700x300")
 
         if is_file:
-            root.title("Choose your files")
+            self.root.title("Choose your files")
             ttk.Button(
-                root, text="Results File",
+                self.root, text="Results File",
                 command=lambda: self.set_path_res_field()
-                      ).grid(row=1, ipadx=5, ipady=15)
+                ).grid(row=1, ipadx=5, ipady=15)
             ttk.Entry(
-                root, textvariable=self.input_text_res,
+                self.root, textvariable=self.input_text_res,
                 width=70
-                     ).grid(row=1, column=1, ipadx=1, ipady=1)
+                ).grid(row=1, column=1, ipadx=1, ipady=1)
             ttk.Button(
-                root, text="Standings File",
+                self.root, text="Standings File",
                 command=lambda: self.set_path_sta_field()
-                      ).grid(row=2, ipadx=5, ipady=15)
+                ).grid(row=2, ipadx=5, ipady=15)
             ttk.Entry(
-                root, textvariable=self.input_text_sta, width=70
-                     ).grid(row=2, column=1, ipadx=1, ipady=1)
+                self.root, textvariable=self.input_text_sta, width=70
+                ).grid(row=2, column=1, ipadx=1, ipady=1)
         else:
-            root.title("Choose your directories")
+            self.root.title("Choose your directories")
             ttk.Button(
-                root, text="Directory of results CSVs",
+                self.root, text="Directory of results CSVs",
                 command=lambda: self.set_path_res_dir_field()
-                      ).grid(row=1, ipadx=5, ipady=15)
+                ).grid(row=1, ipadx=5, ipady=15)
             ttk.Entry(
-                root, textvariable=self.input_text_res_dir,
+                self.root, textvariable=self.input_text_res_dir,
                 width=70
-                     ).grid(row=1, column=1, ipadx=1, ipady=1)
+                ).grid(row=1, column=1, ipadx=1, ipady=1)
             ttk.Button(
-                root, text="Directory of standings CSVs",
+                self.root, text="Directory of standings CSVs",
                 command=lambda: self.set_path_sta_dir_field()
-                      ).grid(row=2, ipadx=5, ipady=15)
+                ).grid(row=2, ipadx=5, ipady=15)
             ttk.Entry(
-                root, textvariable=self.input_text_sta_dir, width=70
-                     ).grid(row=2, column=1, ipadx=1, ipady=1)
+                self.root, textvariable=self.input_text_sta_dir, width=70
+                ).grid(row=2, column=1, ipadx=1, ipady=1)
 
         ttk.Button(
-            root, text="Accept", command=root.destroy
+            self.root, text="Accept", command=root.destroy
                   ).grid(row=3, ipadx=5, ipady=15)
 
     def on_closing(self):
         if messagebox.askokcancel("Quit", "Do you want to quit?"):
-            root.destroy()
+            self.root.destroy()
             sys.exit('Quitting...')
 
     def set_path_res_field(self):
         """ Function sets the results CSV file text to the box."""
-        print('set_path_res_field')
         self.path_res = askopenfilename(
             initialdir="./", title="Select results csv file"
             )
@@ -76,7 +74,6 @@ class Update_Gui:
 
     def set_path_sta_field(self):
         """ Function sets the standings CSV file text to the box."""
-        print('set_path_sta_field')
         self.path_sta = askopenfilename(
             initialdir="./", title="Select standings csv file"
             )
@@ -84,7 +81,6 @@ class Update_Gui:
 
     def set_path_res_dir_field(self):
         """ Function sets the directory text to the box."""
-        print('set_path_res_dir_field')
         self.path_dir_res = askdirectory(
             initialdir="./", title="Select directory of results CSV files"
             )
@@ -92,7 +88,6 @@ class Update_Gui:
 
     def set_path_sta_dir_field(self):
         """ Function sets the standings directory text to the box."""
-        print('set_path_sta_dir_field')
         self.path_dir_sta = askdirectory(
             initialdir="./", title="Select directory of standings CSV files"
             )

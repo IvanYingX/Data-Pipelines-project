@@ -6,7 +6,7 @@ from urllib.request import urlopen, Request
 pd.options.mode.chained_assignment = None
 
 
-def load_raw(dir):
+def load_leagues(dir):
     '''
     DOCSTRING
     '''
