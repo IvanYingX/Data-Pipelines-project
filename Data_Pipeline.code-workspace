@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local",
+		"git.ignoreLimitWarning": true,
+		"files.exclude": {
+			"__pycache__": true,
+			".mypy_cache": true,
+			".venv": true,
+			".vscode": true
+		}
+	}
+}
