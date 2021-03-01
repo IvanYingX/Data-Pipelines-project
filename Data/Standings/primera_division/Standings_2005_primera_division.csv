@@ -1,0 +1,760 @@
+1,Barcelona,3,1,0,0,2,0,20,2005,1,primera_division
+2,Real Madrid,3,1,0,0,1,0,20,2005,1,primera_division
+3,Atlético,3,1,0,0,2,0,20,2005,1,primera_division
+4,Sevilla,3,1,0,0,1,0,20,2005,1,primera_division
+5,Real Zaragoza,3,1,0,0,3,1,20,2005,1,primera_division
+6,Valencia,3,1,0,0,2,1,20,2005,1,primera_division
+7,Espanyol,1,0,1,0,1,1,20,2005,1,primera_division
+8,R. Sociedad,1,0,1,0,1,1,20,2005,1,primera_division
+9,Real Betis,1,0,1,0,1,1,20,2005,1,primera_division
+10,Deportivo,1,0,1,0,1,1,20,2005,1,primera_division
+11,Levante,1,0,1,0,1,1,20,2005,1,primera_division
+12,Osasuna,1,0,1,0,1,1,20,2005,1,primera_division
+13,Athletic,1,0,1,0,1,1,20,2005,1,primera_division
+14,Numancia,1,0,1,0,1,1,20,2005,1,primera_division
+15,Villarreal,0,0,0,1,1,2,20,2005,1,primera_division
+16,Racing,0,0,0,1,0,2,20,2005,1,primera_division
+17,Mallorca,0,0,0,1,0,1,20,2005,1,primera_division
+18,Getafe,0,0,0,1,1,3,20,2005,1,primera_division
+19,Málaga,0,0,0,1,0,2,20,2005,1,primera_division
+20,Albacete,0,0,0,1,0,1,20,2005,1,primera_division
+1,Real Madrid,6,2,0,0,2,0,20,2005,2,primera_division
+2,Atlético,6,2,0,0,4,0,20,2005,2,primera_division
+3,Barcelona,6,2,0,0,4,0,20,2005,2,primera_division
+4,Espanyol,4,1,1,0,5,2,20,2005,2,primera_division
+5,Valencia,4,1,1,0,4,3,20,2005,2,primera_division
+6,Real Zaragoza,4,1,1,0,3,1,20,2005,2,primera_division
+7,Levante,4,1,1,0,4,2,20,2005,2,primera_division
+8,Osasuna,4,1,1,0,4,2,20,2005,2,primera_division
+9,Sevilla,3,1,0,1,1,2,20,2005,2,primera_division
+10,Mallorca,3,1,0,1,2,2,20,2005,2,primera_division
+11,Athletic,2,0,2,0,3,3,20,2005,2,primera_division
+12,R. Sociedad,2,0,2,0,1,1,20,2005,2,primera_division
+13,Real Betis,1,0,1,1,2,5,20,2005,2,primera_division
+14,Villarreal,1,0,1,1,1,2,20,2005,2,primera_division
+15,Deportivo,1,0,1,1,2,4,20,2005,2,primera_division
+16,Málaga,1,0,1,1,0,2,20,2005,2,primera_division
+17,Numancia,1,0,1,1,1,2,20,2005,2,primera_division
+18,Getafe,0,0,0,2,2,5,20,2005,2,primera_division
+19,Racing,0,0,0,2,1,5,20,2005,2,primera_division
+20,Albacete,0,0,0,2,0,3,20,2005,2,primera_division
+1,Barcelona,7,2,1,0,5,1,20,2005,3,primera_division
+2,Espanyol,7,2,1,0,6,2,20,2005,3,primera_division
+3,Atlético,7,2,1,0,5,1,20,2005,3,primera_division
+4,Valencia,7,2,1,0,7,4,20,2005,3,primera_division
+5,Real Zaragoza,7,2,1,0,7,4,20,2005,3,primera_division
+6,Osasuna,7,2,1,0,7,4,20,2005,3,primera_division
+7,Sevilla,6,2,0,1,4,2,20,2005,3,primera_division
+8,Real Madrid,6,2,0,1,2,1,20,2005,3,primera_division
+9,Málaga,4,1,1,1,2,3,20,2005,3,primera_division
+10,Deportivo,4,1,1,1,4,5,20,2005,3,primera_division
+11,Levante,4,1,1,1,4,5,20,2005,3,primera_division
+12,Numancia,4,1,1,1,2,2,20,2005,3,primera_division
+13,Mallorca,3,1,0,2,3,4,20,2005,3,primera_division
+14,Villarreal,2,0,2,1,2,3,20,2005,3,primera_division
+15,Athletic,2,0,2,1,4,5,20,2005,3,primera_division
+16,R. Sociedad,2,0,2,1,2,4,20,2005,3,primera_division
+17,Real Betis,1,0,1,2,4,8,20,2005,3,primera_division
+18,Racing,1,0,1,2,2,6,20,2005,3,primera_division
+19,Getafe,0,0,0,3,2,6,20,2005,3,primera_division
+20,Albacete,0,0,0,3,3,7,20,2005,3,primera_division
+1,Barcelona,10,3,1,0,9,2,20,2005,4,primera_division
+2,Valencia,10,3,1,0,12,5,20,2005,4,primera_division
+3,Real Madrid,9,3,0,1,3,1,20,2005,4,primera_division
+4,Málaga,7,2,1,1,6,4,20,2005,4,primera_division
+5,Espanyol,7,2,1,1,6,3,20,2005,4,primera_division
+6,Real Zaragoza,7,2,1,1,8,8,20,2005,4,primera_division
+7,Sevilla,7,2,1,1,4,2,20,2005,4,primera_division
+8,Atlético,7,2,1,1,5,2,20,2005,4,primera_division
+9,Levante,7,2,1,1,5,5,20,2005,4,primera_division
+10,Osasuna,7,2,1,1,7,5,20,2005,4,primera_division
+11,Racing,4,1,1,2,3,6,20,2005,4,primera_division
+12,Real Betis,4,1,1,2,6,9,20,2005,4,primera_division
+13,Mallorca,4,1,1,2,3,4,20,2005,4,primera_division
+14,Deportivo,4,1,1,2,5,10,20,2005,4,primera_division
+15,Numancia,4,1,1,2,3,6,20,2005,4,primera_division
+16,Villarreal,3,0,3,1,2,3,20,2005,4,primera_division
+17,Getafe,3,1,0,3,3,6,20,2005,4,primera_division
+18,Athletic,2,0,2,2,5,7,20,2005,4,primera_division
+19,R. Sociedad,2,0,2,2,2,5,20,2005,4,primera_division
+20,Albacete,1,0,1,3,3,7,20,2005,4,primera_division
+1,Barcelona,13,4,1,0,12,3,20,2005,5,primera_division
+2,Valencia,13,4,1,0,14,5,20,2005,5,primera_division
+3,Espanyol,10,3,1,1,7,3,20,2005,5,primera_division
+4,Real Zaragoza,10,3,1,1,12,11,20,2005,5,primera_division
+5,Osasuna,10,3,1,1,9,6,20,2005,5,primera_division
+6,Atlético,10,3,1,1,6,2,20,2005,5,primera_division
+7,Sevilla,10,3,1,1,6,3,20,2005,5,primera_division
+8,Real Madrid,9,3,0,2,4,3,20,2005,5,primera_division
+9,Málaga,7,2,1,2,6,5,20,2005,5,primera_division
+10,Levante,7,2,1,2,8,9,20,2005,5,primera_division
+11,Real Betis,5,1,2,2,7,10,20,2005,5,primera_division
+12,Numancia,5,1,2,2,3,6,20,2005,5,primera_division
+13,Deportivo,5,1,2,2,6,11,20,2005,5,primera_division
+14,Athletic,5,1,2,2,7,8,20,2005,5,primera_division
+15,Racing,4,1,1,3,3,8,20,2005,5,primera_division
+16,Mallorca,4,1,1,3,4,7,20,2005,5,primera_division
+17,Villarreal,3,0,3,2,2,4,20,2005,5,primera_division
+18,Getafe,3,1,0,4,4,8,20,2005,5,primera_division
+19,Albacete,2,0,2,3,3,7,20,2005,5,primera_division
+20,R. Sociedad,2,0,2,3,3,7,20,2005,5,primera_division
+1,Barcelona,16,5,1,0,13,3,20,2005,6,primera_division
+2,Valencia,14,4,2,0,15,6,20,2005,6,primera_division
+3,Sevilla,11,3,2,1,6,3,20,2005,6,primera_division
+4,Espanyol,10,3,1,2,7,4,20,2005,6,primera_division
+5,Málaga,10,3,1,2,8,5,20,2005,6,primera_division
+6,Real Zaragoza,10,3,1,2,12,13,20,2005,6,primera_division
+7,Levante,10,3,1,2,10,9,20,2005,6,primera_division
+8,Atlético,10,3,1,2,6,3,20,2005,6,primera_division
+9,Osasuna,10,3,1,2,9,8,20,2005,6,primera_division
+10,Real Madrid,9,3,0,3,4,4,20,2005,6,primera_division
+11,Deportivo,8,2,2,2,7,11,20,2005,6,primera_division
+12,Real Betis,6,1,3,2,8,11,20,2005,6,primera_division
+13,Villarreal,6,1,3,2,4,4,20,2005,6,primera_division
+14,Getafe,6,2,0,4,7,9,20,2005,6,primera_division
+15,Athletic,5,1,2,3,8,11,20,2005,6,primera_division
+16,R. Sociedad,5,1,2,3,4,7,20,2005,6,primera_division
+17,Racing,5,1,2,3,3,8,20,2005,6,primera_division
+18,Albacete,5,1,2,3,4,7,20,2005,6,primera_division
+19,Numancia,5,1,2,3,3,7,20,2005,6,primera_division
+20,Mallorca,4,1,1,4,4,9,20,2005,6,primera_division
+1,Barcelona,19,6,1,0,14,3,20,2005,7,primera_division
+2,Sevilla,14,4,2,1,8,4,20,2005,7,primera_division
+3,Valencia,14,4,2,1,16,8,20,2005,7,primera_division
+4,Levante,13,4,1,2,13,10,20,2005,7,primera_division
+5,Real Zaragoza,13,4,1,2,14,14,20,2005,7,primera_division
+6,Atlético,13,4,1,2,7,3,20,2005,7,primera_division
+7,Osasuna,13,4,1,2,12,10,20,2005,7,primera_division
+8,Deportivo,11,3,2,2,9,12,20,2005,7,primera_division
+9,Real Madrid,10,3,1,3,5,5,20,2005,7,primera_division
+10,Espanyol,10,3,1,3,7,5,20,2005,7,primera_division
+11,Málaga,10,3,1,3,8,6,20,2005,7,primera_division
+12,Athletic,8,2,2,3,9,11,20,2005,7,primera_division
+13,Real Betis,7,1,4,2,9,12,20,2005,7,primera_division
+14,Villarreal,7,1,4,2,5,5,20,2005,7,primera_division
+15,Getafe,6,2,0,5,8,11,20,2005,7,primera_division
+16,Racing,5,1,2,4,3,9,20,2005,7,primera_division
+17,R. Sociedad,5,1,2,4,5,9,20,2005,7,primera_division
+18,Mallorca,5,1,2,4,5,10,20,2005,7,primera_division
+19,Albacete,5,1,2,4,6,10,20,2005,7,primera_division
+20,Numancia,5,1,2,4,4,10,20,2005,7,primera_division
+1,Barcelona,22,7,1,0,17,3,20,2005,8,primera_division
+2,Sevilla,17,5,2,1,10,5,20,2005,8,primera_division
+3,Valencia,14,4,2,2,16,9,20,2005,8,primera_division
+4,Real Madrid,13,4,1,3,6,5,20,2005,8,primera_division
+5,Espanyol,13,4,1,3,9,5,20,2005,8,primera_division
+6,Levante,13,4,1,3,13,12,20,2005,8,primera_division
+7,Real Zaragoza,13,4,1,3,14,15,20,2005,8,primera_division
+8,Atlético,13,4,1,3,8,5,20,2005,8,primera_division
+9,Osasuna,13,4,1,3,12,13,20,2005,8,primera_division
+10,Deportivo,12,3,3,2,10,13,20,2005,8,primera_division
+11,Málaga,11,3,2,3,9,7,20,2005,8,primera_division
+12,Real Betis,10,2,4,2,11,12,20,2005,8,primera_division
+13,Villarreal,10,2,4,2,9,5,20,2005,8,primera_division
+14,Athletic,8,2,2,4,9,12,20,2005,8,primera_division
+15,Albacete,8,2,2,4,7,10,20,2005,8,primera_division
+16,R. Sociedad,8,2,2,4,7,10,20,2005,8,primera_division
+17,Racing,8,2,2,4,4,9,20,2005,8,primera_division
+18,Getafe,6,2,0,6,8,13,20,2005,8,primera_division
+19,Mallorca,5,1,2,5,6,12,20,2005,8,primera_division
+20,Numancia,5,1,2,5,4,14,20,2005,8,primera_division
+1,Barcelona,23,7,2,0,18,4,20,2005,9,primera_division
+2,Sevilla,17,5,2,2,10,8,20,2005,9,primera_division
+3,Real Madrid,16,5,1,3,8,5,20,2005,9,primera_division
+4,Real Zaragoza,16,5,1,3,17,15,20,2005,9,primera_division
+5,Levante,16,5,1,3,14,12,20,2005,9,primera_division
+6,Valencia,15,4,3,2,17,10,20,2005,9,primera_division
+7,Espanyol,14,4,2,3,9,5,20,2005,9,primera_division
+8,Atlético,14,4,2,3,9,6,20,2005,9,primera_division
+9,Osasuna,13,4,1,4,12,14,20,2005,9,primera_division
+10,Deportivo,13,3,4,2,10,13,20,2005,9,primera_division
+11,Málaga,12,3,3,3,10,8,20,2005,9,primera_division
+12,R. Sociedad,11,3,2,4,9,10,20,2005,9,primera_division
+13,Villarreal,11,2,5,2,9,5,20,2005,9,primera_division
+14,Real Betis,11,2,5,2,12,13,20,2005,9,primera_division
+15,Racing,11,3,2,4,6,10,20,2005,9,primera_division
+16,Athletic,9,2,3,4,10,13,20,2005,9,primera_division
+17,Albacete,9,2,3,4,7,10,20,2005,9,primera_division
+18,Getafe,6,2,0,7,8,15,20,2005,9,primera_division
+19,Mallorca,5,1,2,6,7,14,20,2005,9,primera_division
+20,Numancia,5,1,2,6,4,16,20,2005,9,primera_division
+1,Barcelona,26,8,2,0,20,5,20,2005,10,primera_division
+2,Real Madrid,19,6,1,3,10,5,20,2005,10,primera_division
+3,Levante,19,6,1,3,15,12,20,2005,10,primera_division
+4,Sevilla,18,5,3,2,11,9,20,2005,10,primera_division
+5,Espanyol,17,5,2,3,11,5,20,2005,10,primera_division
+6,Real Zaragoza,17,5,2,3,18,16,20,2005,10,primera_division
+7,Atlético,15,4,3,3,10,7,20,2005,10,primera_division
+8,Valencia,15,4,3,3,17,11,20,2005,10,primera_division
+9,Villarreal,14,3,5,2,12,5,20,2005,10,primera_division
+10,Racing,14,4,2,4,8,10,20,2005,10,primera_division
+11,Osasuna,13,4,1,5,12,17,20,2005,10,primera_division
+12,Deportivo,13,3,4,3,11,15,20,2005,10,primera_division
+13,Real Betis,12,2,6,2,12,13,20,2005,10,primera_division
+14,Málaga,12,3,3,4,10,10,20,2005,10,primera_division
+15,R. Sociedad,11,3,2,5,9,12,20,2005,10,primera_division
+16,Albacete,10,2,4,4,7,10,20,2005,10,primera_division
+17,Getafe,9,3,0,7,9,15,20,2005,10,primera_division
+18,Athletic,9,2,3,5,10,14,20,2005,10,primera_division
+19,Mallorca,6,1,3,6,8,15,20,2005,10,primera_division
+20,Numancia,5,1,2,7,4,18,20,2005,10,primera_division
+1,Barcelona,26,8,2,1,21,7,20,2005,11,primera_division
+2,Real Madrid,22,7,1,3,16,6,20,2005,11,primera_division
+3,Espanyol,20,6,2,3,13,6,20,2005,11,primera_division
+4,Levante,19,6,1,4,15,13,20,2005,11,primera_division
+5,Real Zaragoza,18,5,3,3,18,16,20,2005,11,primera_division
+6,Sevilla,18,5,3,3,12,11,20,2005,11,primera_division
+7,Atlético,16,4,4,3,11,8,20,2005,11,primera_division
+8,Valencia,16,4,4,3,17,11,20,2005,11,primera_division
+9,Osasuna,16,5,1,5,13,17,20,2005,11,primera_division
+10,Deportivo,16,4,4,3,12,15,20,2005,11,primera_division
+11,Real Betis,15,3,6,2,14,14,20,2005,11,primera_division
+12,Villarreal,14,3,5,3,13,7,20,2005,11,primera_division
+13,Racing,14,4,2,5,9,12,20,2005,11,primera_division
+14,Getafe,12,4,0,7,10,15,20,2005,11,primera_division
+15,Málaga,12,3,3,5,10,11,20,2005,11,primera_division
+16,Athletic,12,3,3,5,12,15,20,2005,11,primera_division
+17,R. Sociedad,11,3,2,6,9,13,20,2005,11,primera_division
+18,Albacete,10,2,4,5,8,16,20,2005,11,primera_division
+19,Numancia,8,2,2,7,6,19,20,2005,11,primera_division
+20,Mallorca,7,1,4,6,9,16,20,2005,11,primera_division
+1,Barcelona,29,9,2,1,24,7,20,2005,12,primera_division
+2,Real Madrid,22,7,1,4,16,9,20,2005,12,primera_division
+3,Sevilla,21,6,3,3,13,11,20,2005,12,primera_division
+4,Espanyol,20,6,2,4,13,7,20,2005,12,primera_division
+5,Deportivo,19,5,4,3,14,15,20,2005,12,primera_division
+6,Atlético,19,5,4,3,13,8,20,2005,12,primera_division
+7,Valencia,19,5,4,3,19,11,20,2005,12,primera_division
+8,Levante,19,6,1,5,16,15,20,2005,12,primera_division
+9,Real Zaragoza,18,5,3,4,18,17,20,2005,12,primera_division
+10,Real Betis,18,4,6,2,16,15,20,2005,12,primera_division
+11,Osasuna,17,5,2,5,14,18,20,2005,12,primera_division
+12,Racing,15,4,3,5,10,13,20,2005,12,primera_division
+13,Villarreal,14,3,5,4,13,9,20,2005,12,primera_division
+14,R. Sociedad,14,4,2,6,12,15,20,2005,12,primera_division
+15,Getafe,13,4,1,7,11,16,20,2005,12,primera_division
+16,Málaga,12,3,3,6,10,13,20,2005,12,primera_division
+17,Athletic,12,3,3,6,14,18,20,2005,12,primera_division
+18,Albacete,11,2,5,5,9,17,20,2005,12,primera_division
+19,Mallorca,10,2,4,6,10,16,20,2005,12,primera_division
+20,Numancia,8,2,2,8,6,21,20,2005,12,primera_division
+1,Barcelona,32,10,2,1,26,8,20,2005,13,primera_division
+2,Real Madrid,25,8,1,4,21,9,20,2005,13,primera_division
+3,Espanyol,23,7,2,4,15,8,20,2005,13,primera_division
+4,Valencia,22,6,4,3,21,11,20,2005,13,primera_division
+5,Real Betis,21,5,6,2,18,16,20,2005,13,primera_division
+6,Sevilla,21,6,3,4,14,15,20,2005,13,primera_division
+7,Osasuna,20,6,2,5,18,19,20,2005,13,primera_division
+8,Deportivo,20,5,5,3,16,17,20,2005,13,primera_division
+9,Levante,19,6,1,6,16,20,20,2005,13,primera_division
+10,Atlético,19,5,4,4,14,10,20,2005,13,primera_division
+11,Real Zaragoza,18,5,3,5,19,19,20,2005,13,primera_division
+12,Athletic,15,4,3,6,17,18,20,2005,13,primera_division
+13,R. Sociedad,15,4,3,6,14,17,20,2005,13,primera_division
+14,Racing,15,4,3,6,10,16,20,2005,13,primera_division
+15,Villarreal,14,3,5,5,14,11,20,2005,13,primera_division
+16,Albacete,14,3,5,5,11,17,20,2005,13,primera_division
+17,Getafe,13,4,1,8,12,18,20,2005,13,primera_division
+18,Málaga,12,3,3,7,10,15,20,2005,13,primera_division
+19,Numancia,11,3,2,8,8,22,20,2005,13,primera_division
+20,Mallorca,10,2,4,7,10,18,20,2005,13,primera_division
+1,Barcelona,35,11,2,1,30,8,20,2005,14,primera_division
+2,Real Madrid,26,8,2,4,21,9,20,2005,14,primera_division
+3,Espanyol,26,8,2,4,16,8,20,2005,14,primera_division
+4,Valencia,25,7,4,3,22,11,20,2005,14,primera_division
+5,Sevilla,24,7,3,4,16,15,20,2005,14,primera_division
+6,Atlético,22,6,4,4,17,12,20,2005,14,primera_division
+7,Real Betis,21,5,6,3,18,17,20,2005,14,primera_division
+8,Deportivo,21,5,6,3,18,19,20,2005,14,primera_division
+9,Levante,20,6,2,6,16,20,20,2005,14,primera_division
+10,Osasuna,20,6,2,6,20,22,20,2005,14,primera_division
+11,Real Zaragoza,18,5,3,6,19,20,20,2005,14,primera_division
+12,R. Sociedad,18,5,3,6,15,17,20,2005,14,primera_division
+13,Racing,16,4,4,6,12,18,20,2005,14,primera_division
+14,Villarreal,15,3,6,5,14,11,20,2005,14,primera_division
+15,Athletic,15,4,3,7,17,20,20,2005,14,primera_division
+16,Getafe,14,4,2,8,12,18,20,2005,14,primera_division
+17,Albacete,14,3,5,6,11,18,20,2005,14,primera_division
+18,Mallorca,13,3,4,7,13,20,20,2005,14,primera_division
+19,Málaga,12,3,3,8,10,19,20,2005,14,primera_division
+20,Numancia,11,3,2,9,10,25,20,2005,14,primera_division
+1,Barcelona,38,12,2,1,32,9,20,2005,15,primera_division
+2,Real Madrid,29,9,2,4,23,10,20,2005,15,primera_division
+3,Espanyol,29,9,2,4,18,9,20,2005,15,primera_division
+4,Valencia,28,8,4,3,23,11,20,2005,15,primera_division
+5,Sevilla,25,7,4,4,18,17,20,2005,15,primera_division
+6,Real Betis,24,6,6,3,20,18,20,2005,15,primera_division
+7,Deportivo,22,5,7,3,20,21,20,2005,15,primera_division
+8,Atlético,22,6,4,5,17,13,20,2005,15,primera_division
+9,Osasuna,21,6,3,6,22,24,20,2005,15,primera_division
+10,Levante,20,6,2,7,16,21,20,2005,15,primera_division
+11,Real Zaragoza,19,5,4,6,21,22,20,2005,15,primera_division
+12,Villarreal,18,4,6,5,16,12,20,2005,15,primera_division
+13,Athletic,18,5,3,7,18,20,20,2005,15,primera_division
+14,R. Sociedad,18,5,3,7,16,19,20,2005,15,primera_division
+15,Racing,16,4,4,7,13,20,20,2005,15,primera_division
+16,Málaga,15,4,3,8,11,19,20,2005,15,primera_division
+17,Getafe,14,4,2,9,13,20,20,2005,15,primera_division
+18,Albacete,14,3,5,7,12,20,20,2005,15,primera_division
+19,Mallorca,13,3,4,8,14,22,20,2005,15,primera_division
+20,Numancia,11,3,2,10,10,26,20,2005,15,primera_division
+1,Barcelona,39,12,3,1,33,10,20,2005,16,primera_division
+2,Real Madrid,32,10,2,4,26,12,20,2005,16,primera_division
+3,Espanyol,30,9,3,4,18,9,20,2005,16,primera_division
+4,Valencia,29,8,5,3,24,12,20,2005,16,primera_division
+5,Sevilla,28,8,4,4,20,18,20,2005,16,primera_division
+6,Atlético,25,7,4,5,18,13,20,2005,16,primera_division
+7,Real Betis,24,6,6,4,21,20,20,2005,16,primera_division
+8,Osasuna,24,7,3,6,24,25,20,2005,16,primera_division
+9,Deportivo,22,5,7,4,20,22,20,2005,16,primera_division
+10,Villarreal,21,5,6,5,19,12,20,2005,16,primera_division
+11,Athletic,21,6,3,7,20,20,20,2005,16,primera_division
+12,Levante,21,6,3,7,17,22,20,2005,16,primera_division
+13,Real Zaragoza,19,5,4,7,21,24,20,2005,16,primera_division
+14,R. Sociedad,19,5,4,7,17,20,20,2005,16,primera_division
+15,Racing,16,4,4,8,15,23,20,2005,16,primera_division
+16,Getafe,15,4,3,9,14,21,20,2005,16,primera_division
+17,Albacete,15,3,6,7,13,21,20,2005,16,primera_division
+18,Málaga,15,4,3,9,11,22,20,2005,16,primera_division
+19,Mallorca,13,3,4,9,15,24,20,2005,16,primera_division
+20,Numancia,12,3,3,10,10,26,20,2005,16,primera_division
+1,Barcelona,42,13,3,1,35,11,20,2005,17,primera_division
+2,Real Madrid,32,10,2,5,26,13,20,2005,17,primera_division
+3,Valencia,32,9,5,3,27,12,20,2005,17,primera_division
+4,Sevilla,31,9,4,4,21,18,20,2005,17,primera_division
+5,Espanyol,30,9,3,5,18,12,20,2005,17,primera_division
+6,Real Betis,27,7,6,4,22,20,20,2005,17,primera_division
+7,Osasuna,27,8,3,6,26,25,20,2005,17,primera_division
+8,Atlético,25,7,4,6,18,14,20,2005,17,primera_division
+9,Athletic,24,7,3,7,24,20,20,2005,17,primera_division
+10,Real Zaragoza,22,6,4,7,24,26,20,2005,17,primera_division
+11,Villarreal,22,5,7,5,21,14,20,2005,17,primera_division
+12,R. Sociedad,22,6,4,7,22,21,20,2005,17,primera_division
+13,Deportivo,22,5,7,5,22,25,20,2005,17,primera_division
+14,Levante,21,6,3,8,18,24,20,2005,17,primera_division
+15,Getafe,18,5,3,9,16,21,20,2005,17,primera_division
+16,Racing,16,4,4,9,15,25,20,2005,17,primera_division
+17,Albacete,16,3,7,7,15,23,20,2005,17,primera_division
+18,Málaga,15,4,3,10,12,27,20,2005,17,primera_division
+19,Mallorca,13,3,4,10,15,28,20,2005,17,primera_division
+20,Numancia,12,3,3,11,10,28,20,2005,17,primera_division
+1,Barcelona,42,13,3,2,35,14,20,2005,18,primera_division
+2,Real Madrid,35,11,2,5,29,13,20,2005,18,primera_division
+3,Valencia,35,10,5,3,29,13,20,2005,18,primera_division
+4,Espanyol,33,10,3,5,22,13,20,2005,18,primera_division
+5,Sevilla,32,9,5,4,21,18,20,2005,18,primera_division
+6,Real Betis,27,7,6,5,22,21,20,2005,18,primera_division
+7,Osasuna,27,8,3,7,27,29,20,2005,18,primera_division
+8,Athletic,25,7,4,7,25,21,20,2005,18,primera_division
+9,Villarreal,25,6,7,5,24,14,20,2005,18,primera_division
+10,Atlético,25,7,4,7,18,17,20,2005,18,primera_division
+11,Real Zaragoza,25,7,4,7,25,26,20,2005,18,primera_division
+12,Deportivo,23,5,8,5,24,27,20,2005,18,primera_division
+13,R. Sociedad,22,6,4,8,22,23,20,2005,18,primera_division
+14,Levante,21,6,3,9,19,26,20,2005,18,primera_division
+15,Getafe,19,5,4,9,16,21,20,2005,18,primera_division
+16,Racing,19,5,4,9,17,26,20,2005,18,primera_division
+17,Albacete,19,4,7,7,17,23,20,2005,18,primera_division
+18,Málaga,15,4,3,11,13,29,20,2005,18,primera_division
+19,Mallorca,14,3,5,10,17,30,20,2005,18,primera_division
+20,Numancia,13,3,4,11,11,29,20,2005,18,primera_division
+1,Barcelona,45,14,3,2,36,14,20,2005,19,primera_division
+2,Real Madrid,38,12,2,5,32,14,20,2005,19,primera_division
+3,Valencia,36,10,6,3,29,13,20,2005,19,primera_division
+4,Espanyol,34,10,4,5,23,14,20,2005,19,primera_division
+5,Sevilla,32,9,5,5,21,19,20,2005,19,primera_division
+6,Real Betis,30,8,6,5,24,21,20,2005,19,primera_division
+7,Villarreal,28,7,7,5,28,16,20,2005,19,primera_division
+8,Osasuna,28,8,4,7,27,29,20,2005,19,primera_division
+9,Athletic,26,7,5,7,26,22,20,2005,19,primera_division
+10,Atlético,26,7,5,7,19,18,20,2005,19,primera_division
+11,Real Zaragoza,25,7,4,8,26,29,20,2005,19,primera_division
+12,Deportivo,24,5,9,5,25,28,20,2005,19,primera_division
+13,R. Sociedad,22,6,4,9,22,24,20,2005,19,primera_division
+14,Levante,21,6,3,10,21,30,20,2005,19,primera_division
+15,Getafe,20,5,5,9,17,22,20,2005,19,primera_division
+16,Racing,20,5,5,9,17,26,20,2005,19,primera_division
+17,Albacete,20,4,8,7,17,23,20,2005,19,primera_division
+18,Málaga,18,5,3,11,14,29,20,2005,19,primera_division
+19,Mallorca,14,3,5,11,17,32,20,2005,19,primera_division
+20,Numancia,14,3,5,11,12,30,20,2005,19,primera_division
+1,Barcelona,48,15,3,2,39,14,20,2005,20,primera_division
+2,Real Madrid,41,13,2,5,35,15,20,2005,20,primera_division
+3,Valencia,36,10,6,4,30,16,20,2005,20,primera_division
+4,Sevilla,35,10,5,5,23,19,20,2005,20,primera_division
+5,Espanyol,34,10,4,6,24,18,20,2005,20,primera_division
+6,Real Betis,33,9,6,5,28,21,20,2005,20,primera_division
+7,Villarreal,31,8,7,5,31,17,20,2005,20,primera_division
+8,Athletic,29,8,5,7,30,25,20,2005,20,primera_division
+9,Osasuna,28,8,4,8,30,33,20,2005,20,primera_division
+10,Deportivo,27,6,9,5,29,29,20,2005,20,primera_division
+11,Atlético,26,7,5,8,19,19,20,2005,20,primera_division
+12,Real Zaragoza,25,7,4,9,26,32,20,2005,20,primera_division
+13,Levante,24,7,3,10,23,31,20,2005,20,primera_division
+14,Getafe,23,6,5,9,20,22,20,2005,20,primera_division
+15,R. Sociedad,22,6,4,10,23,26,20,2005,20,primera_division
+16,Málaga,21,6,3,11,15,29,20,2005,20,primera_division
+17,Racing,20,5,5,10,17,29,20,2005,20,primera_division
+18,Albacete,20,4,8,8,17,25,20,2005,20,primera_division
+19,Mallorca,14,3,5,12,18,35,20,2005,20,primera_division
+20,Numancia,14,3,5,12,12,34,20,2005,20,primera_division
+1,Barcelona,51,16,3,2,43,14,20,2005,21,primera_division
+2,Real Madrid,44,14,2,5,37,16,20,2005,21,primera_division
+3,Valencia,37,10,7,4,32,18,20,2005,21,primera_division
+4,Sevilla,35,10,5,6,23,23,20,2005,21,primera_division
+5,Espanyol,35,10,5,6,26,20,20,2005,21,primera_division
+6,Real Betis,34,9,7,5,30,23,20,2005,21,primera_division
+7,Villarreal,34,9,7,5,35,17,20,2005,21,primera_division
+8,Athletic,30,8,6,7,32,27,20,2005,21,primera_division
+9,Atlético,29,8,5,8,22,20,20,2005,21,primera_division
+10,Osasuna,29,8,5,8,31,34,20,2005,21,primera_division
+11,Real Zaragoza,28,8,4,9,27,32,20,2005,21,primera_division
+12,Deportivo,28,6,10,5,30,30,20,2005,21,primera_division
+13,Levante,25,7,4,10,25,33,20,2005,21,primera_division
+14,Getafe,23,6,5,10,21,25,20,2005,21,primera_division
+15,R. Sociedad,22,6,4,11,23,30,20,2005,21,primera_division
+16,Málaga,21,6,3,12,15,30,20,2005,21,primera_division
+17,Racing,21,5,6,10,19,31,20,2005,21,primera_division
+18,Albacete,20,4,8,9,18,28,20,2005,21,primera_division
+19,Mallorca,17,4,5,12,21,36,20,2005,21,primera_division
+20,Numancia,14,3,5,13,13,36,20,2005,21,primera_division
+1,Barcelona,51,16,3,3,43,16,20,2005,22,primera_division
+2,Real Madrid,47,15,2,5,41,16,20,2005,22,primera_division
+3,Sevilla,38,11,5,6,26,23,20,2005,22,primera_division
+4,Valencia,38,10,8,4,35,21,20,2005,22,primera_division
+5,Real Betis,37,10,7,5,33,24,20,2005,22,primera_division
+6,Villarreal,37,10,7,5,37,18,20,2005,22,primera_division
+7,Espanyol,35,10,5,7,26,24,20,2005,22,primera_division
+8,Atlético,32,9,5,8,24,20,20,2005,22,primera_division
+9,Athletic,31,8,7,7,33,28,20,2005,22,primera_division
+10,Osasuna,29,8,5,9,32,37,20,2005,22,primera_division
+11,Deportivo,29,6,11,5,31,31,20,2005,22,primera_division
+12,Real Zaragoza,28,8,4,10,28,34,20,2005,22,primera_division
+13,Getafe,26,7,5,10,22,25,20,2005,22,primera_division
+14,Levante,25,7,4,11,25,36,20,2005,22,primera_division
+15,Albacete,23,5,8,9,20,29,20,2005,22,primera_division
+16,R. Sociedad,23,6,5,11,26,33,20,2005,22,primera_division
+17,Málaga,22,6,4,12,15,30,20,2005,22,primera_division
+18,Racing,21,5,6,11,20,33,20,2005,22,primera_division
+19,Mallorca,18,4,6,12,21,36,20,2005,22,primera_division
+20,Numancia,14,3,5,14,13,37,20,2005,22,primera_division
+1,Barcelona,54,17,3,3,47,17,20,2005,23,primera_division
+2,Real Madrid,50,16,2,5,43,17,20,2005,23,primera_division
+3,Sevilla,41,12,5,6,28,24,20,2005,23,primera_division
+4,Valencia,38,10,8,5,36,23,20,2005,23,primera_division
+5,Espanyol,38,11,5,7,28,24,20,2005,23,primera_division
+6,Real Betis,38,10,8,5,37,28,20,2005,23,primera_division
+7,Villarreal,37,10,7,6,38,20,20,2005,23,primera_division
+8,Atlético,33,9,6,8,24,20,20,2005,23,primera_division
+9,Deportivo,32,7,11,5,33,32,20,2005,23,primera_division
+10,Athletic,32,8,8,7,37,32,20,2005,23,primera_division
+11,Osasuna,29,8,5,10,33,39,20,2005,23,primera_division
+12,Real Zaragoza,28,8,4,11,29,38,20,2005,23,primera_division
+13,Getafe,26,7,5,11,22,27,20,2005,23,primera_division
+14,Levante,26,7,5,11,25,36,20,2005,23,primera_division
+15,R. Sociedad,26,7,5,11,29,34,20,2005,23,primera_division
+16,Málaga,25,7,4,12,16,30,20,2005,23,primera_division
+17,Albacete,23,5,8,10,21,31,20,2005,23,primera_division
+18,Racing,21,5,6,12,21,36,20,2005,23,primera_division
+19,Mallorca,21,5,6,12,23,37,20,2005,23,primera_division
+20,Numancia,14,3,5,15,13,38,20,2005,23,primera_division
+1,Barcelona,57,18,3,3,49,17,20,2005,24,primera_division
+2,Real Madrid,50,16,2,6,43,19,20,2005,24,primera_division
+3,Real Betis,41,11,8,5,39,28,20,2005,24,primera_division
+4,Sevilla,41,12,5,7,28,25,20,2005,24,primera_division
+5,Villarreal,40,11,7,6,41,22,20,2005,24,primera_division
+6,Valencia,38,10,8,6,36,24,20,2005,24,primera_division
+7,Espanyol,38,11,5,8,30,27,20,2005,24,primera_division
+8,Athletic,35,9,8,7,39,32,20,2005,24,primera_division
+9,Atlético,33,9,6,9,26,23,20,2005,24,primera_division
+10,Deportivo,32,7,11,6,33,34,20,2005,24,primera_division
+11,Osasuna,30,8,6,10,33,39,20,2005,24,primera_division
+12,R. Sociedad,29,8,5,11,30,34,20,2005,24,primera_division
+13,Real Zaragoza,29,8,5,11,29,38,20,2005,24,primera_division
+14,Málaga,28,8,4,12,19,32,20,2005,24,primera_division
+15,Getafe,27,7,6,11,22,27,20,2005,24,primera_division
+16,Levante,27,7,6,11,25,36,20,2005,24,primera_division
+17,Racing,24,6,6,12,22,36,20,2005,24,primera_division
+18,Albacete,23,5,8,11,22,33,20,2005,24,primera_division
+19,Mallorca,21,5,6,13,23,39,20,2005,24,primera_division
+20,Numancia,17,4,5,15,15,39,20,2005,24,primera_division
+1,Barcelona,58,18,4,3,50,18,20,2005,25,primera_division
+2,Real Madrid,50,16,2,7,43,21,20,2005,25,primera_division
+3,Sevilla,42,12,6,7,30,27,20,2005,25,primera_division
+4,Valencia,41,11,8,6,38,25,20,2005,25,primera_division
+5,Espanyol,41,12,5,8,32,28,20,2005,25,primera_division
+6,Real Betis,41,11,8,6,40,30,20,2005,25,primera_division
+7,Villarreal,40,11,7,7,41,23,20,2005,25,primera_division
+8,Atlético,36,10,6,9,27,23,20,2005,25,primera_division
+9,Deportivo,35,8,11,6,35,34,20,2005,25,primera_division
+10,Athletic,35,9,8,8,40,34,20,2005,25,primera_division
+11,Real Zaragoza,32,9,5,11,30,38,20,2005,25,primera_division
+12,Málaga,31,9,4,12,25,33,20,2005,25,primera_division
+13,Levante,30,8,6,11,27,37,20,2005,25,primera_division
+14,Getafe,30,8,6,11,24,28,20,2005,25,primera_division
+15,Osasuna,30,8,6,11,34,45,20,2005,25,primera_division
+16,R. Sociedad,29,8,5,12,30,35,20,2005,25,primera_division
+17,Racing,25,6,7,12,24,38,20,2005,25,primera_division
+18,Albacete,23,5,8,12,23,35,20,2005,25,primera_division
+19,Mallorca,21,5,6,14,24,41,20,2005,25,primera_division
+20,Numancia,18,4,6,15,16,40,20,2005,25,primera_division
+1,Barcelona,59,18,5,3,50,18,20,2005,26,primera_division
+2,Real Madrid,53,17,2,7,46,22,20,2005,26,primera_division
+3,Sevilla,43,12,7,7,32,29,20,2005,26,primera_division
+4,Villarreal,43,12,7,7,43,24,20,2005,26,primera_division
+5,Valencia,42,11,9,6,40,27,20,2005,26,primera_division
+6,Espanyol,42,12,6,8,32,28,20,2005,26,primera_division
+7,Real Betis,41,11,8,7,41,33,20,2005,26,primera_division
+8,Deportivo,36,8,12,6,36,35,20,2005,26,primera_division
+9,Atlético,36,10,6,10,28,25,20,2005,26,primera_division
+10,Athletic,35,9,8,9,40,35,20,2005,26,primera_division
+11,Málaga,34,10,4,12,26,33,20,2005,26,primera_division
+12,R. Sociedad,32,9,5,12,32,36,20,2005,26,primera_division
+13,Real Zaragoza,32,9,5,12,31,40,20,2005,26,primera_division
+14,Levante,31,8,7,11,28,38,20,2005,26,primera_division
+15,Getafe,31,8,7,11,25,29,20,2005,26,primera_division
+16,Osasuna,31,8,7,11,35,46,20,2005,26,primera_division
+17,Racing,28,7,7,12,26,39,20,2005,26,primera_division
+18,Albacete,24,5,9,12,24,36,20,2005,26,primera_division
+19,Mallorca,21,5,6,15,25,43,20,2005,26,primera_division
+20,Numancia,19,4,7,15,17,41,20,2005,26,primera_division
+1,Barcelona,62,19,5,3,51,18,20,2005,27,primera_division
+2,Real Madrid,54,17,3,7,47,23,20,2005,27,primera_division
+3,Espanyol,45,13,6,8,34,29,20,2005,27,primera_division
+4,Villarreal,44,12,8,7,44,25,20,2005,27,primera_division
+5,Sevilla,43,12,7,8,32,32,20,2005,27,primera_division
+6,Valencia,43,11,10,6,41,28,20,2005,27,primera_division
+7,Real Betis,42,11,9,7,43,35,20,2005,27,primera_division
+8,Deportivo,39,9,12,6,37,35,20,2005,27,primera_division
+9,Atlético,39,11,6,10,31,25,20,2005,27,primera_division
+10,Athletic,38,10,8,9,43,36,20,2005,27,primera_division
+11,Real Zaragoza,35,10,5,12,32,40,20,2005,27,primera_division
+12,Málaga,34,10,4,13,26,34,20,2005,27,primera_division
+13,Getafe,32,8,8,11,27,31,20,2005,27,primera_division
+14,R. Sociedad,32,9,5,13,34,39,20,2005,27,primera_division
+15,Levante,31,8,7,12,29,40,20,2005,27,primera_division
+16,Osasuna,31,8,7,12,35,47,20,2005,27,primera_division
+17,Racing,28,7,7,13,26,40,20,2005,27,primera_division
+18,Mallorca,24,6,6,15,28,45,20,2005,27,primera_division
+19,Albacete,24,5,9,13,25,39,20,2005,27,primera_division
+20,Numancia,20,4,8,15,18,42,20,2005,27,primera_division
+1,Barcelona,65,20,5,3,53,18,20,2005,28,primera_division
+2,Real Madrid,54,17,3,8,48,25,20,2005,28,primera_division
+3,Villarreal,47,13,8,7,48,26,20,2005,28,primera_division
+4,Espanyol,45,13,6,9,35,33,20,2005,28,primera_division
+5,Real Betis,45,12,9,7,45,36,20,2005,28,primera_division
+6,Sevilla,43,12,7,9,32,33,20,2005,28,primera_division
+7,Valencia,43,11,10,7,41,29,20,2005,28,primera_division
+8,Deportivo,42,10,12,6,38,35,20,2005,28,primera_division
+9,Atlético,42,12,6,10,32,25,20,2005,28,primera_division
+10,Athletic,38,10,8,10,43,38,20,2005,28,primera_division
+11,Real Zaragoza,38,11,5,12,33,40,20,2005,28,primera_division
+12,Getafe,35,9,8,11,29,32,20,2005,28,primera_division
+13,R. Sociedad,35,10,5,13,36,40,20,2005,28,primera_division
+14,Málaga,34,10,4,14,27,36,20,2005,28,primera_division
+15,Levante,34,9,7,12,33,40,20,2005,28,primera_division
+16,Osasuna,31,8,7,13,35,51,20,2005,28,primera_division
+17,Racing,31,8,7,13,29,40,20,2005,28,primera_division
+18,Mallorca,24,6,6,16,28,48,20,2005,28,primera_division
+19,Albacete,24,5,9,14,25,40,20,2005,28,primera_division
+20,Numancia,20,4,8,16,19,44,20,2005,28,primera_division
+1,Barcelona,68,21,5,3,54,18,20,2005,29,primera_division
+2,Real Madrid,57,18,3,8,49,25,20,2005,29,primera_division
+3,Real Betis,48,13,9,7,47,37,20,2005,29,primera_division
+4,Villarreal,47,13,8,8,50,29,20,2005,29,primera_division
+5,Sevilla,46,13,7,9,33,33,20,2005,29,primera_division
+6,Valencia,46,12,10,7,44,30,20,2005,29,primera_division
+7,Espanyol,46,13,7,9,37,35,20,2005,29,primera_division
+8,Atlético,43,12,7,10,32,25,20,2005,29,primera_division
+9,Deportivo,42,10,12,7,38,36,20,2005,29,primera_division
+10,Athletic,41,11,8,10,46,39,20,2005,29,primera_division
+11,Real Zaragoza,39,11,6,12,33,40,20,2005,29,primera_division
+12,R. Sociedad,36,10,6,13,38,42,20,2005,29,primera_division
+13,Getafe,35,9,8,12,30,35,20,2005,29,primera_division
+14,Málaga,34,10,4,15,27,37,20,2005,29,primera_division
+15,Levante,34,9,7,13,34,43,20,2005,29,primera_division
+16,Racing,34,9,7,13,32,42,20,2005,29,primera_division
+17,Osasuna,34,9,7,13,38,53,20,2005,29,primera_division
+18,Mallorca,24,6,6,17,28,49,20,2005,29,primera_division
+19,Albacete,24,5,9,15,26,42,20,2005,29,primera_division
+20,Numancia,20,4,8,17,21,47,20,2005,29,primera_division
+1,Barcelona,69,21,6,3,57,21,20,2005,30,primera_division
+2,Real Madrid,60,19,3,8,51,26,20,2005,30,primera_division
+3,Villarreal,50,14,8,8,53,30,20,2005,30,primera_division
+4,Sevilla,49,14,7,9,34,33,20,2005,30,primera_division
+5,Espanyol,49,14,7,9,40,36,20,2005,30,primera_division
+6,Real Betis,49,13,10,7,50,40,20,2005,30,primera_division
+7,Valencia,47,12,11,7,46,32,20,2005,30,primera_division
+8,Atlético,46,13,7,10,36,25,20,2005,30,primera_division
+9,Deportivo,45,11,12,7,39,36,20,2005,30,primera_division
+10,Athletic,41,11,8,11,47,42,20,2005,30,primera_division
+11,Real Zaragoza,40,11,7,12,35,42,20,2005,30,primera_division
+12,R. Sociedad,39,11,6,13,40,42,20,2005,30,primera_division
+13,Getafe,36,9,9,12,31,36,20,2005,30,primera_division
+14,Málaga,35,10,5,15,28,38,20,2005,30,primera_division
+15,Levante,34,9,7,14,34,44,20,2005,30,primera_division
+16,Osasuna,34,9,7,14,38,55,20,2005,30,primera_division
+17,Racing,34,9,7,14,33,45,20,2005,30,primera_division
+18,Mallorca,24,6,6,18,28,53,20,2005,30,primera_division
+19,Albacete,24,5,9,16,27,44,20,2005,30,primera_division
+20,Numancia,20,4,8,18,21,48,20,2005,30,primera_division
+1,Barcelona,69,21,6,4,59,25,20,2005,31,primera_division
+2,Real Madrid,63,20,3,8,55,28,20,2005,31,primera_division
+3,Sevilla,52,15,7,9,37,34,20,2005,31,primera_division
+4,Villarreal,51,14,9,8,54,31,20,2005,31,primera_division
+5,Real Betis,50,13,11,7,52,42,20,2005,31,primera_division
+6,Espanyol,49,14,7,10,41,39,20,2005,31,primera_division
+7,Valencia,48,12,12,7,48,34,20,2005,31,primera_division
+8,Deportivo,46,11,13,7,40,37,20,2005,31,primera_division
+9,Atlético,46,13,7,11,36,26,20,2005,31,primera_division
+10,Athletic,44,12,8,11,50,42,20,2005,31,primera_division
+11,Real Zaragoza,43,12,7,12,37,42,20,2005,31,primera_division
+12,Getafe,39,10,9,12,32,36,20,2005,31,primera_division
+13,R. Sociedad,39,11,6,14,40,45,20,2005,31,primera_division
+14,Osasuna,37,10,7,14,39,55,20,2005,31,primera_division
+15,Málaga,36,10,6,15,30,40,20,2005,31,primera_division
+16,Levante,35,9,8,14,36,46,20,2005,31,primera_division
+17,Racing,34,9,7,15,33,46,20,2005,31,primera_division
+18,Mallorca,24,6,6,19,28,55,20,2005,31,primera_division
+19,Albacete,24,5,9,17,27,45,20,2005,31,primera_division
+20,Numancia,23,5,8,18,22,48,20,2005,31,primera_division
+1,Barcelona,72,22,6,4,61,25,20,2005,32,primera_division
+2,Real Madrid,66,21,3,8,57,28,20,2005,32,primera_division
+3,Sevilla,52,15,7,10,37,35,20,2005,32,primera_division
+4,Villarreal,52,14,10,8,54,31,20,2005,32,primera_division
+5,Real Betis,51,13,12,7,52,42,20,2005,32,primera_division
+6,Espanyol,50,14,8,10,41,39,20,2005,32,primera_division
+7,Valencia,49,12,13,7,48,34,20,2005,32,primera_division
+8,Athletic,47,13,8,11,52,42,20,2005,32,primera_division
+9,Atlético,47,13,8,11,36,26,20,2005,32,primera_division
+10,Real Zaragoza,46,13,7,12,41,43,20,2005,32,primera_division
+11,Deportivo,46,11,13,8,40,38,20,2005,32,primera_division
+12,R. Sociedad,42,12,6,14,41,45,20,2005,32,primera_division
+13,Osasuna,40,11,7,14,40,55,20,2005,32,primera_division
+14,Getafe,39,10,9,13,32,38,20,2005,32,primera_division
+15,Málaga,39,11,6,15,32,41,20,2005,32,primera_division
+16,Levante,35,9,8,15,36,48,20,2005,32,primera_division
+17,Racing,34,9,7,16,33,48,20,2005,32,primera_division
+18,Mallorca,25,6,7,19,28,55,20,2005,32,primera_division
+19,Albacete,24,5,9,18,28,47,20,2005,32,primera_division
+20,Numancia,23,5,8,19,23,52,20,2005,32,primera_division
+1,Barcelona,75,23,6,4,65,25,20,2005,33,primera_division
+2,Real Madrid,69,22,3,8,59,29,20,2005,33,primera_division
+3,Sevilla,55,16,7,10,40,36,20,2005,33,primera_division
+4,Espanyol,53,15,8,10,44,40,20,2005,33,primera_division
+5,Villarreal,52,14,10,9,55,33,20,2005,33,primera_division
+6,Valencia,52,13,13,7,50,34,20,2005,33,primera_division
+7,Real Betis,51,13,12,8,54,45,20,2005,33,primera_division
+8,Athletic,47,13,8,12,53,45,20,2005,33,primera_division
+9,Atlético,47,13,8,12,36,27,20,2005,33,primera_division
+10,Real Zaragoza,46,13,7,13,42,46,20,2005,33,primera_division
+11,Deportivo,46,11,13,9,41,42,20,2005,33,primera_division
+12,R. Sociedad,45,13,6,14,44,47,20,2005,33,primera_division
+13,Osasuna,43,12,7,14,41,55,20,2005,33,primera_division
+14,Getafe,42,11,9,13,33,38,20,2005,33,primera_division
+15,Málaga,39,11,6,16,32,45,20,2005,33,primera_division
+16,Racing,37,10,7,16,37,49,20,2005,33,primera_division
+17,Levante,35,9,8,16,36,49,20,2005,33,primera_division
+18,Mallorca,28,7,7,19,30,56,20,2005,33,primera_division
+19,Albacete,24,5,9,19,28,49,20,2005,33,primera_division
+20,Numancia,23,5,8,20,24,54,20,2005,33,primera_division
+1,Barcelona,78,24,6,4,67,25,20,2005,34,primera_division
+2,Real Madrid,72,23,3,8,61,29,20,2005,34,primera_division
+3,Sevilla,58,17,7,10,42,36,20,2005,34,primera_division
+4,Villarreal,55,15,10,9,59,33,20,2005,34,primera_division
+5,Valencia,53,13,14,7,51,35,20,2005,34,primera_division
+6,Espanyol,53,15,8,11,46,43,20,2005,34,primera_division
+7,Real Betis,52,13,13,8,55,46,20,2005,34,primera_division
+8,Real Zaragoza,49,14,7,13,47,47,20,2005,34,primera_division
+9,Athletic,48,13,9,12,54,46,20,2005,34,primera_division
+10,Atlético,48,13,9,12,37,28,20,2005,34,primera_division
+11,Deportivo,46,11,13,10,41,44,20,2005,34,primera_division
+12,R. Sociedad,45,13,6,15,44,49,20,2005,34,primera_division
+13,Osasuna,43,12,7,15,42,60,20,2005,34,primera_division
+14,Getafe,42,11,9,14,33,42,20,2005,34,primera_division
+15,Málaga,42,12,6,16,33,45,20,2005,34,primera_division
+16,Racing,38,10,8,16,38,50,20,2005,34,primera_division
+17,Levante,35,9,8,17,36,50,20,2005,34,primera_division
+18,Mallorca,31,8,7,19,33,58,20,2005,34,primera_division
+19,Numancia,24,5,9,20,25,55,20,2005,34,primera_division
+20,Albacete,24,5,9,20,28,51,20,2005,34,primera_division
+1,Barcelona,81,25,6,4,69,25,20,2005,35,primera_division
+2,Real Madrid,75,24,3,8,66,29,20,2005,35,primera_division
+3,Sevilla,58,17,7,11,42,37,20,2005,35,primera_division
+4,Villarreal,58,16,10,9,61,33,20,2005,35,primera_division
+5,Espanyol,56,16,8,11,49,43,20,2005,35,primera_division
+6,Real Betis,55,14,13,8,56,46,20,2005,35,primera_division
+7,Valencia,53,13,14,8,51,37,20,2005,35,primera_division
+8,Athletic,51,14,9,12,56,46,20,2005,35,primera_division
+9,Real Zaragoza,49,14,7,14,47,49,20,2005,35,primera_division
+10,Deportivo,49,12,13,10,43,44,20,2005,35,primera_division
+11,Atlético,48,13,9,13,37,30,20,2005,35,primera_division
+12,Getafe,45,12,9,14,35,42,20,2005,35,primera_division
+13,R. Sociedad,45,13,6,16,44,51,20,2005,35,primera_division
+14,Osasuna,44,12,8,15,43,61,20,2005,35,primera_division
+15,Málaga,42,12,6,17,33,47,20,2005,35,primera_division
+16,Racing,38,10,8,17,38,55,20,2005,35,primera_division
+17,Levante,35,9,8,18,37,53,20,2005,35,primera_division
+18,Mallorca,32,8,8,19,34,59,20,2005,35,primera_division
+19,Albacete,27,6,9,20,31,52,20,2005,35,primera_division
+20,Numancia,24,5,9,21,25,58,20,2005,35,primera_division
+1,Barcelona,82,25,7,4,70,26,20,2005,36,primera_division
+2,Real Madrid,76,24,4,8,68,31,20,2005,36,primera_division
+3,Villarreal,61,17,10,9,62,33,20,2005,36,primera_division
+4,Sevilla,59,17,8,11,44,39,20,2005,36,primera_division
+5,Real Betis,58,15,13,8,58,47,20,2005,36,primera_division
+6,Espanyol,57,16,9,11,51,45,20,2005,36,primera_division
+7,Valencia,54,13,15,8,53,39,20,2005,36,primera_division
+8,Athletic,51,14,9,13,59,50,20,2005,36,primera_division
+9,Real Zaragoza,50,14,8,14,49,51,20,2005,36,primera_division
+10,Deportivo,50,12,14,10,45,46,20,2005,36,primera_division
+11,Atlético,48,13,9,14,38,32,20,2005,36,primera_division
+12,Málaga,45,13,6,17,36,48,20,2005,36,primera_division
+13,Getafe,45,12,9,15,36,44,20,2005,36,primera_division
+14,R. Sociedad,45,13,6,17,45,54,20,2005,36,primera_division
+15,Osasuna,45,12,9,15,45,63,20,2005,36,primera_division
+16,Racing,41,11,8,17,40,56,20,2005,36,primera_division
+17,Levante,36,9,9,18,38,54,20,2005,36,primera_division
+18,Mallorca,35,9,8,19,38,62,20,2005,36,primera_division
+19,Albacete,27,6,9,21,31,53,20,2005,36,primera_division
+20,Numancia,25,5,10,21,27,60,20,2005,36,primera_division
+1,Barcelona,83,25,8,4,73,29,20,2005,37,primera_division
+2,Real Madrid,77,24,5,8,68,31,20,2005,37,primera_division
+3,Villarreal,62,17,11,9,65,36,20,2005,37,primera_division
+4,Real Betis,61,16,13,8,61,49,20,2005,37,primera_division
+5,Sevilla,60,17,9,11,44,39,20,2005,37,primera_division
+6,Espanyol,58,16,10,11,52,46,20,2005,37,primera_division
+7,Valencia,55,13,16,8,53,39,20,2005,37,primera_division
+8,Athletic,51,14,9,14,59,52,20,2005,37,primera_division
+9,Real Zaragoza,50,14,8,15,51,54,20,2005,37,primera_division
+10,Deportivo,50,12,14,11,45,49,20,2005,37,primera_division
+11,Atlético,49,13,10,14,38,32,20,2005,37,primera_division
+12,Málaga,48,14,6,17,38,48,20,2005,37,primera_division
+13,Osasuna,46,12,10,15,46,64,20,2005,37,primera_division
+14,Getafe,46,12,10,15,36,44,20,2005,37,primera_division
+15,R. Sociedad,46,13,7,17,47,56,20,2005,37,primera_division
+16,Racing,41,11,8,18,40,58,20,2005,37,primera_division
+17,Mallorca,38,10,8,19,41,62,20,2005,37,primera_division
+18,Levante,37,9,10,18,38,54,20,2005,37,primera_division
+19,Numancia,28,6,10,21,29,60,20,2005,37,primera_division
+20,Albacete,28,6,10,21,33,55,20,2005,37,primera_division
+1,Barcelona,84,25,9,4,73,29,20,2005,38,primera_division
+2,Real Madrid,80,25,5,8,71,32,20,2005,38,primera_division
+3,Villarreal,65,18,11,9,69,37,20,2005,38,primera_division
+4,Real Betis,62,16,14,8,62,50,20,2005,38,primera_division
+5,Espanyol,61,17,10,11,54,46,20,2005,38,primera_division
+6,Sevilla,60,17,9,12,44,41,20,2005,38,primera_division
+7,Valencia,58,14,16,8,54,39,20,2005,38,primera_division
+8,Deportivo,51,12,15,11,46,50,20,2005,38,primera_division
+9,Athletic,51,14,9,15,59,54,20,2005,38,primera_division
+10,Málaga,51,15,6,17,40,48,20,2005,38,primera_division
+11,Atlético,50,13,11,14,40,34,20,2005,38,primera_division
+12,Real Zaragoza,50,14,8,16,52,57,20,2005,38,primera_division
+13,Getafe,47,12,11,15,38,46,20,2005,38,primera_division
+14,R. Sociedad,47,13,8,17,47,56,20,2005,38,primera_division
+15,Osasuna,46,12,10,16,46,65,20,2005,38,primera_division
+16,Racing,44,12,8,18,41,58,20,2005,38,primera_division
+17,Mallorca,39,10,9,19,42,63,20,2005,38,primera_division
+18,Levante,37,9,10,19,39,58,20,2005,38,primera_division
+19,Numancia,29,6,11,21,30,61,20,2005,38,primera_division
+20,Albacete,28,6,10,22,33,56,20,2005,38,primera_division

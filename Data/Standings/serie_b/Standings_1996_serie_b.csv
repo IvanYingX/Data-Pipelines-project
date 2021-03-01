@@ -1,0 +1,760 @@
+1,Brescia,3,1,0,0,4,2,20,1996,1,serie_b
+2,Avellino,3,1,0,0,2,0,20,1996,1,serie_b
+3,Hellas Verona,3,1,0,0,2,0,20,1996,1,serie_b
+4,Bologna,3,1,0,0,2,0,20,1996,1,serie_b
+5,Salernitana,3,1,0,0,1,0,20,1996,1,serie_b
+6,Cesena,3,1,0,0,1,0,20,1996,1,serie_b
+7,Ancona,1,0,1,0,2,2,20,1996,1,serie_b
+8,Reggina,1,0,1,0,2,2,20,1996,1,serie_b
+9,Lucchese Libertas,1,0,1,0,1,1,20,1996,1,serie_b
+10,Perugia,1,0,1,0,1,1,20,1996,1,serie_b
+11,Calcio Foggia,1,0,1,0,1,1,20,1996,1,serie_b
+12,Chievo,1,0,1,0,1,1,20,1996,1,serie_b
+13,Reggiana,1,0,1,0,0,0,20,1996,1,serie_b
+14,Palermo FC,1,0,1,0,0,0,20,1996,1,serie_b
+15,Cosenza Calcio,0,0,0,1,0,1,20,1996,1,serie_b
+16,Pistoiese,0,0,0,1,0,1,20,1996,1,serie_b
+17,Pescara,0,0,0,1,2,4,20,1996,1,serie_b
+18,Venezia,0,0,0,1,0,2,20,1996,1,serie_b
+19,Fidelis Andria,0,0,0,1,0,2,20,1996,1,serie_b
+20,Genoa,0,0,0,1,0,2,20,1996,1,serie_b
+1,Hellas Verona,6,2,0,0,3,0,20,1996,2,serie_b
+2,Bologna,6,2,0,0,3,0,20,1996,2,serie_b
+3,Brescia,4,1,1,0,6,4,20,1996,2,serie_b
+4,Lucchese Libertas,4,1,1,0,3,1,20,1996,2,serie_b
+5,Calcio Foggia,4,1,1,0,2,1,20,1996,2,serie_b
+6,Cesena,4,1,1,0,2,1,20,1996,2,serie_b
+7,Salernitana,4,1,1,0,1,0,20,1996,2,serie_b
+8,Genoa,3,1,0,1,7,2,20,1996,2,serie_b
+9,Avellino,3,1,0,1,2,1,20,1996,2,serie_b
+10,Pistoiese,3,1,0,1,2,1,20,1996,2,serie_b
+11,Palermo FC,2,0,2,0,1,1,20,1996,2,serie_b
+12,Chievo,2,0,2,0,1,1,20,1996,2,serie_b
+13,Perugia,1,0,1,1,1,2,20,1996,2,serie_b
+14,Cosenza Calcio,1,0,1,1,0,1,20,1996,2,serie_b
+15,Fidelis Andria,1,0,1,1,2,4,20,1996,2,serie_b
+16,Ancona,1,0,1,1,2,4,20,1996,2,serie_b
+17,Pescara,1,0,1,1,2,4,20,1996,2,serie_b
+18,Reggiana,1,0,1,1,0,2,20,1996,2,serie_b
+19,Reggina,1,0,1,1,2,9,20,1996,2,serie_b
+20,Venezia,0,0,0,2,0,3,20,1996,2,serie_b
+1,Hellas Verona,9,3,0,0,6,0,20,1996,3,serie_b
+2,Bologna,7,2,1,0,3,0,20,1996,3,serie_b
+3,Calcio Foggia,7,2,1,0,3,1,20,1996,3,serie_b
+4,Genoa,6,2,0,1,9,3,20,1996,3,serie_b
+5,Brescia,5,1,2,0,6,4,20,1996,3,serie_b
+6,Lucchese Libertas,5,1,2,0,3,1,20,1996,3,serie_b
+7,Salernitana,5,1,2,0,1,0,20,1996,3,serie_b
+8,Fidelis Andria,4,1,1,1,5,5,20,1996,3,serie_b
+9,Cesena,4,1,1,1,2,2,20,1996,3,serie_b
+10,Pistoiese,3,1,0,2,3,3,20,1996,3,serie_b
+11,Chievo,3,0,3,0,2,2,20,1996,3,serie_b
+12,Palermo FC,3,0,3,0,1,1,20,1996,3,serie_b
+13,Avellino,3,1,0,2,3,4,20,1996,3,serie_b
+14,Venezia,3,1,0,2,1,3,20,1996,3,serie_b
+15,Perugia,2,0,2,1,1,2,20,1996,3,serie_b
+16,Pescara,2,0,2,1,2,4,20,1996,3,serie_b
+17,Reggiana,2,0,2,1,0,2,20,1996,3,serie_b
+18,Reggina,2,0,2,1,3,10,20,1996,3,serie_b
+19,Ancona,1,0,1,2,2,5,20,1996,3,serie_b
+20,Cosenza Calcio,1,0,1,2,0,4,20,1996,3,serie_b
+1,Hellas Verona,9,3,0,1,6,1,20,1996,4,serie_b
+2,Salernitana,8,2,2,0,4,0,20,1996,4,serie_b
+3,Brescia,8,2,2,0,7,4,20,1996,4,serie_b
+4,Bologna,8,2,2,0,4,1,20,1996,4,serie_b
+5,Calcio Foggia,8,2,2,0,3,1,20,1996,4,serie_b
+6,Genoa,7,2,1,1,11,5,20,1996,4,serie_b
+7,Pistoiese,6,2,0,2,5,3,20,1996,4,serie_b
+8,Palermo FC,6,1,3,0,4,3,20,1996,4,serie_b
+9,Lucchese Libertas,5,1,2,1,3,3,20,1996,4,serie_b
+10,Chievo,4,0,4,0,2,2,20,1996,4,serie_b
+11,Fidelis Andria,4,1,1,2,7,8,20,1996,4,serie_b
+12,Cesena,4,1,1,2,4,5,20,1996,4,serie_b
+13,Avellino,4,1,1,2,3,4,20,1996,4,serie_b
+14,Ancona,4,1,1,2,5,7,20,1996,4,serie_b
+15,Cosenza Calcio,4,1,1,2,3,5,20,1996,4,serie_b
+16,Perugia,3,0,3,1,3,4,20,1996,4,serie_b
+17,Pescara,3,0,3,1,2,4,20,1996,4,serie_b
+18,Venezia,3,1,0,3,1,6,20,1996,4,serie_b
+19,Reggina,3,0,3,1,4,11,20,1996,4,serie_b
+20,Reggiana,2,0,2,2,1,5,20,1996,4,serie_b
+1,Brescia,11,3,2,0,8,4,20,1996,5,serie_b
+2,Hellas Verona,10,3,1,1,7,2,20,1996,5,serie_b
+3,Bologna,9,2,3,0,5,2,20,1996,5,serie_b
+4,Calcio Foggia,9,2,3,0,3,1,20,1996,5,serie_b
+5,Genoa,8,2,2,1,12,6,20,1996,5,serie_b
+6,Salernitana,8,2,2,1,4,1,20,1996,5,serie_b
+7,Pistoiese,7,2,1,2,6,4,20,1996,5,serie_b
+8,Chievo,7,1,4,0,5,3,20,1996,5,serie_b
+9,Cesena,7,2,1,2,6,5,20,1996,5,serie_b
+10,Palermo FC,7,1,4,0,4,3,20,1996,5,serie_b
+11,Ancona,7,2,1,2,7,8,20,1996,5,serie_b
+12,Lucchese Libertas,6,1,3,1,3,3,20,1996,5,serie_b
+13,Pescara,6,1,3,1,4,5,20,1996,5,serie_b
+14,Avellino,5,1,2,2,4,5,20,1996,5,serie_b
+15,Fidelis Andria,4,1,1,3,8,10,20,1996,5,serie_b
+16,Cosenza Calcio,4,1,1,3,4,8,20,1996,5,serie_b
+17,Reggina,4,0,4,1,4,11,20,1996,5,serie_b
+18,Perugia,3,0,3,2,3,6,20,1996,5,serie_b
+19,Reggiana,3,0,3,2,2,6,20,1996,5,serie_b
+20,Venezia,3,1,0,4,2,8,20,1996,5,serie_b
+1,Hellas Verona,13,4,1,1,9,3,20,1996,6,serie_b
+2,Bologna,12,3,3,0,7,3,20,1996,6,serie_b
+3,Genoa,11,3,2,1,13,6,20,1996,6,serie_b
+4,Salernitana,11,3,2,1,7,1,20,1996,6,serie_b
+5,Brescia,11,3,2,1,9,6,20,1996,6,serie_b
+6,Calcio Foggia,9,2,3,1,3,4,20,1996,6,serie_b
+7,Cesena,8,2,2,2,6,5,20,1996,6,serie_b
+8,Palermo FC,8,1,5,0,5,4,20,1996,6,serie_b
+9,Avellino,8,2,2,2,6,6,20,1996,6,serie_b
+10,Pistoiese,7,2,1,3,6,5,20,1996,6,serie_b
+11,Chievo,7,1,4,1,5,4,20,1996,6,serie_b
+12,Lucchese Libertas,7,1,4,1,4,4,20,1996,6,serie_b
+13,Ancona,7,2,1,3,8,10,20,1996,6,serie_b
+14,Pescara,6,1,3,2,5,7,20,1996,6,serie_b
+15,Perugia,6,1,3,2,4,6,20,1996,6,serie_b
+16,Fidelis Andria,5,1,2,3,8,10,20,1996,6,serie_b
+17,Cosenza Calcio,5,1,2,3,5,9,20,1996,6,serie_b
+18,Reggina,5,0,5,1,4,11,20,1996,6,serie_b
+19,Reggiana,4,0,4,2,3,7,20,1996,6,serie_b
+20,Venezia,4,1,1,4,2,8,20,1996,6,serie_b
+1,Genoa,14,4,2,1,15,7,20,1996,7,serie_b
+2,Hellas Verona,14,4,2,1,10,4,20,1996,7,serie_b
+3,Bologna,13,3,4,0,8,4,20,1996,7,serie_b
+4,Brescia,12,3,3,1,10,7,20,1996,7,serie_b
+5,Salernitana,11,3,2,2,7,2,20,1996,7,serie_b
+6,Cesena,11,3,2,2,10,7,20,1996,7,serie_b
+7,Avellino,11,3,2,2,7,6,20,1996,7,serie_b
+8,Pescara,9,2,3,2,9,8,20,1996,7,serie_b
+9,Palermo FC,9,1,6,0,5,4,20,1996,7,serie_b
+10,Calcio Foggia,9,2,3,2,4,6,20,1996,7,serie_b
+11,Pistoiese,8,2,2,3,7,6,20,1996,7,serie_b
+12,Fidelis Andria,8,2,2,3,10,11,20,1996,7,serie_b
+13,Cosenza Calcio,8,2,2,3,7,9,20,1996,7,serie_b
+14,Chievo,7,1,4,2,7,8,20,1996,7,serie_b
+15,Lucchese Libertas,7,1,4,2,5,6,20,1996,7,serie_b
+16,Perugia,7,1,4,2,4,6,20,1996,7,serie_b
+17,Ancona,7,2,1,4,8,12,20,1996,7,serie_b
+18,Reggina,6,0,6,1,5,12,20,1996,7,serie_b
+19,Venezia,5,1,2,4,3,9,20,1996,7,serie_b
+20,Reggiana,4,0,4,3,4,11,20,1996,7,serie_b
+1,Genoa,17,5,2,1,17,8,20,1996,8,serie_b
+2,Bologna,16,4,4,0,9,4,20,1996,8,serie_b
+3,Salernitana,14,4,2,2,8,2,20,1996,8,serie_b
+4,Hellas Verona,14,4,2,2,12,7,20,1996,8,serie_b
+5,Brescia,12,3,3,2,10,8,20,1996,8,serie_b
+6,Pescara,12,3,3,2,10,8,20,1996,8,serie_b
+7,Palermo FC,12,2,6,0,7,5,20,1996,8,serie_b
+8,Cesena,11,3,2,3,11,9,20,1996,8,serie_b
+9,Pistoiese,11,3,2,3,10,8,20,1996,8,serie_b
+10,Avellino,11,3,2,3,8,8,20,1996,8,serie_b
+11,Ancona,10,3,1,4,12,12,20,1996,8,serie_b
+12,Calcio Foggia,10,2,4,2,4,6,20,1996,8,serie_b
+13,Cosenza Calcio,9,2,3,3,7,9,20,1996,8,serie_b
+14,Chievo,8,1,5,2,7,8,20,1996,8,serie_b
+15,Fidelis Andria,8,2,2,4,10,12,20,1996,8,serie_b
+16,Lucchese Libertas,7,1,4,3,5,7,20,1996,8,serie_b
+17,Reggiana,7,1,4,3,7,11,20,1996,8,serie_b
+18,Perugia,7,1,4,3,4,10,20,1996,8,serie_b
+19,Reggina,7,0,7,1,5,12,20,1996,8,serie_b
+20,Venezia,5,1,2,5,3,12,20,1996,8,serie_b
+1,Genoa,18,5,3,1,18,9,20,1996,9,serie_b
+2,Salernitana,17,5,2,2,9,2,20,1996,9,serie_b
+3,Bologna,16,4,4,1,9,5,20,1996,9,serie_b
+4,Hellas Verona,15,4,3,2,13,8,20,1996,9,serie_b
+5,Pescara,15,4,3,2,13,10,20,1996,9,serie_b
+6,Avellino,14,4,2,3,9,8,20,1996,9,serie_b
+7,Brescia,13,3,4,2,10,8,20,1996,9,serie_b
+8,Palermo FC,13,2,7,0,7,5,20,1996,9,serie_b
+9,Cesena,12,3,3,3,12,10,20,1996,9,serie_b
+10,Pistoiese,12,3,3,3,11,9,20,1996,9,serie_b
+11,Fidelis Andria,11,3,2,4,11,12,20,1996,9,serie_b
+12,Ancona,10,3,1,5,12,13,20,1996,9,serie_b
+13,Perugia,10,2,4,3,9,10,20,1996,9,serie_b
+14,Cosenza Calcio,10,2,4,3,8,10,20,1996,9,serie_b
+15,Calcio Foggia,10,2,4,3,6,9,20,1996,9,serie_b
+16,Chievo,9,1,6,2,8,9,20,1996,9,serie_b
+17,Reggiana,8,1,5,3,8,12,20,1996,9,serie_b
+18,Lucchese Libertas,7,1,4,4,5,12,20,1996,9,serie_b
+19,Reggina,7,0,7,2,5,13,20,1996,9,serie_b
+20,Venezia,6,1,3,5,4,13,20,1996,9,serie_b
+1,Genoa,21,6,3,1,23,10,20,1996,10,serie_b
+2,Salernitana,17,5,2,3,10,4,20,1996,10,serie_b
+3,Bologna,17,4,5,1,10,6,20,1996,10,serie_b
+4,Brescia,16,4,4,2,15,8,20,1996,10,serie_b
+5,Hellas Verona,16,4,4,2,13,8,20,1996,10,serie_b
+6,Palermo FC,16,3,7,0,9,6,20,1996,10,serie_b
+7,Pescara,15,4,3,3,14,15,20,1996,10,serie_b
+8,Avellino,14,4,2,4,10,10,20,1996,10,serie_b
+9,Pistoiese,13,3,4,3,12,10,20,1996,10,serie_b
+10,Ancona,13,4,1,5,14,14,20,1996,10,serie_b
+11,Cesena,12,3,3,4,15,14,20,1996,10,serie_b
+12,Fidelis Andria,12,3,3,4,11,12,20,1996,10,serie_b
+13,Cosenza Calcio,11,2,5,3,9,11,20,1996,10,serie_b
+14,Reggiana,11,2,5,3,10,13,20,1996,10,serie_b
+15,Perugia,10,2,4,4,9,11,20,1996,10,serie_b
+16,Lucchese Libertas,10,2,4,4,9,15,20,1996,10,serie_b
+17,Reggina,10,1,7,2,6,13,20,1996,10,serie_b
+18,Calcio Foggia,10,2,4,4,6,14,20,1996,10,serie_b
+19,Chievo,9,1,6,3,9,11,20,1996,10,serie_b
+20,Venezia,7,1,4,5,5,14,20,1996,10,serie_b
+1,Genoa,21,6,3,2,23,12,20,1996,11,serie_b
+2,Brescia,19,5,4,2,17,8,20,1996,11,serie_b
+3,Palermo FC,19,4,7,0,10,6,20,1996,11,serie_b
+4,Bologna,18,4,6,1,10,6,20,1996,11,serie_b
+5,Salernitana,17,5,2,4,10,6,20,1996,11,serie_b
+6,Ancona,16,5,1,5,17,14,20,1996,11,serie_b
+7,Hellas Verona,16,4,4,3,13,10,20,1996,11,serie_b
+8,Cesena,15,4,3,4,17,14,20,1996,11,serie_b
+9,Pescara,15,4,3,4,14,18,20,1996,11,serie_b
+10,Reggiana,14,3,5,3,13,13,20,1996,11,serie_b
+11,Avellino,14,4,2,5,10,13,20,1996,11,serie_b
+12,Pistoiese,13,3,4,4,12,11,20,1996,11,serie_b
+13,Fidelis Andria,13,3,4,4,12,13,20,1996,11,serie_b
+14,Reggina,13,2,7,2,8,13,20,1996,11,serie_b
+15,Cosenza Calcio,12,2,6,3,11,13,20,1996,11,serie_b
+16,Perugia,11,2,5,4,11,13,20,1996,11,serie_b
+17,Lucchese Libertas,11,2,5,4,9,15,20,1996,11,serie_b
+18,Calcio Foggia,11,2,5,4,6,14,20,1996,11,serie_b
+19,Chievo,10,1,7,3,10,12,20,1996,11,serie_b
+20,Venezia,8,1,5,5,5,14,20,1996,11,serie_b
+1,Genoa,24,7,3,2,24,12,20,1996,12,serie_b
+2,Brescia,19,5,4,3,18,10,20,1996,12,serie_b
+3,Ancona,19,6,1,5,19,15,20,1996,12,serie_b
+4,Hellas Verona,19,5,4,3,14,10,20,1996,12,serie_b
+5,Palermo FC,19,4,7,1,10,7,20,1996,12,serie_b
+6,Cesena,18,5,3,4,21,14,20,1996,12,serie_b
+7,Salernitana,18,5,3,4,11,7,20,1996,12,serie_b
+8,Bologna,18,4,6,2,10,7,20,1996,12,serie_b
+9,Pescara,18,5,3,4,15,18,20,1996,12,serie_b
+10,Reggiana,17,4,5,3,14,13,20,1996,12,serie_b
+11,Fidelis Andria,14,3,5,4,13,14,20,1996,12,serie_b
+12,Avellino,14,4,2,6,10,17,20,1996,12,serie_b
+13,Pistoiese,13,3,4,5,12,12,20,1996,12,serie_b
+14,Cosenza Calcio,13,2,7,3,12,14,20,1996,12,serie_b
+15,Reggina,13,2,7,3,8,15,20,1996,12,serie_b
+16,Perugia,12,2,6,4,11,13,20,1996,12,serie_b
+17,Lucchese Libertas,12,2,6,4,10,16,20,1996,12,serie_b
+18,Chievo,11,1,8,3,10,12,20,1996,12,serie_b
+19,Venezia,11,2,5,5,7,14,20,1996,12,serie_b
+20,Calcio Foggia,11,2,5,5,6,15,20,1996,12,serie_b
+1,Genoa,24,7,3,3,25,15,20,1996,13,serie_b
+2,Brescia,22,6,4,3,21,12,20,1996,13,serie_b
+3,Hellas Verona,22,6,4,3,16,11,20,1996,13,serie_b
+4,Salernitana,21,6,3,4,14,8,20,1996,13,serie_b
+5,Pescara,21,6,3,4,18,20,20,1996,13,serie_b
+6,Ancona,20,6,2,5,20,16,20,1996,13,serie_b
+7,Palermo FC,20,4,8,1,11,8,20,1996,13,serie_b
+8,Bologna,19,4,7,2,11,8,20,1996,13,serie_b
+9,Cesena,18,5,3,5,23,17,20,1996,13,serie_b
+10,Reggiana,17,4,5,4,14,16,20,1996,13,serie_b
+11,Avellino,17,5,2,6,13,17,20,1996,13,serie_b
+12,Cosenza Calcio,16,3,7,3,13,14,20,1996,13,serie_b
+13,Perugia,15,3,6,4,14,13,20,1996,13,serie_b
+14,Fidelis Andria,14,3,5,5,13,17,20,1996,13,serie_b
+15,Calcio Foggia,14,3,5,5,9,15,20,1996,13,serie_b
+16,Pistoiese,13,3,4,6,14,15,20,1996,13,serie_b
+17,Reggina,13,2,7,4,8,18,20,1996,13,serie_b
+18,Lucchese Libertas,12,2,6,5,10,17,20,1996,13,serie_b
+19,Venezia,12,2,6,5,8,15,20,1996,13,serie_b
+20,Chievo,11,1,8,4,11,14,20,1996,13,serie_b
+1,Hellas Verona,25,7,4,3,17,11,20,1996,14,serie_b
+2,Genoa,24,7,3,4,25,16,20,1996,14,serie_b
+3,Brescia,22,6,4,4,22,14,20,1996,14,serie_b
+4,Bologna,22,5,7,2,12,8,20,1996,14,serie_b
+5,Salernitana,21,6,3,5,14,9,20,1996,14,serie_b
+6,Palermo FC,21,4,9,1,11,8,20,1996,14,serie_b
+7,Pescara,21,6,3,5,19,22,20,1996,14,serie_b
+8,Ancona,20,6,2,6,21,18,20,1996,14,serie_b
+9,Reggiana,20,5,5,4,15,16,20,1996,14,serie_b
+10,Cesena,19,5,4,5,23,17,20,1996,14,serie_b
+11,Perugia,18,4,6,4,16,14,20,1996,14,serie_b
+12,Cosenza Calcio,17,3,8,3,13,14,20,1996,14,serie_b
+13,Avellino,17,5,2,7,13,18,20,1996,14,serie_b
+14,Reggina,16,3,7,4,10,19,20,1996,14,serie_b
+15,Fidelis Andria,15,3,6,5,14,18,20,1996,14,serie_b
+16,Lucchese Libertas,15,3,6,5,11,17,20,1996,14,serie_b
+17,Venezia,15,3,6,5,10,16,20,1996,14,serie_b
+18,Calcio Foggia,15,3,6,5,9,15,20,1996,14,serie_b
+19,Pistoiese,14,3,5,6,15,16,20,1996,14,serie_b
+20,Chievo,11,1,8,5,11,15,20,1996,14,serie_b
+1,Genoa,25,7,4,4,28,19,20,1996,15,serie_b
+2,Hellas Verona,25,7,4,4,17,12,20,1996,15,serie_b
+3,Pescara,24,7,3,5,20,22,20,1996,15,serie_b
+4,Bologna,23,5,8,2,12,8,20,1996,15,serie_b
+5,Reggiana,23,6,5,4,16,16,20,1996,15,serie_b
+6,Brescia,22,6,4,5,22,15,20,1996,15,serie_b
+7,Salernitana,22,6,4,5,15,10,20,1996,15,serie_b
+8,Palermo FC,21,4,9,2,11,12,20,1996,15,serie_b
+9,Cesena,20,5,5,5,23,17,20,1996,15,serie_b
+10,Ancona,20,6,2,7,21,19,20,1996,15,serie_b
+11,Perugia,19,4,7,4,17,15,20,1996,15,serie_b
+12,Reggina,19,4,7,4,14,19,20,1996,15,serie_b
+13,Cosenza Calcio,18,3,9,3,13,14,20,1996,15,serie_b
+14,Calcio Foggia,18,4,6,5,13,15,20,1996,15,serie_b
+15,Avellino,18,5,3,7,16,21,20,1996,15,serie_b
+16,Fidelis Andria,16,3,7,5,14,18,20,1996,15,serie_b
+17,Lucchese Libertas,16,3,7,5,11,17,20,1996,15,serie_b
+18,Venezia,16,3,7,5,10,16,20,1996,15,serie_b
+19,Chievo,14,2,8,5,12,15,20,1996,15,serie_b
+20,Pistoiese,14,3,5,7,15,20,20,1996,15,serie_b
+1,Genoa,28,8,4,4,30,20,20,1996,16,serie_b
+2,Pescara,27,8,3,5,22,22,20,1996,16,serie_b
+3,Hellas Verona,25,7,4,5,18,14,20,1996,16,serie_b
+4,Reggiana,24,6,6,4,16,16,20,1996,16,serie_b
+5,Palermo FC,24,5,9,2,13,13,20,1996,16,serie_b
+6,Cesena,23,6,5,5,24,17,20,1996,16,serie_b
+7,Salernitana,23,6,5,5,16,11,20,1996,16,serie_b
+8,Bologna,23,5,8,3,13,10,20,1996,16,serie_b
+9,Brescia,22,6,4,6,24,18,20,1996,16,serie_b
+10,Perugia,22,5,7,4,19,16,20,1996,16,serie_b
+11,Cosenza Calcio,21,4,9,3,16,16,20,1996,16,serie_b
+12,Ancona,20,6,2,8,22,21,20,1996,16,serie_b
+13,Lucchese Libertas,19,4,7,5,13,18,20,1996,16,serie_b
+14,Reggina,19,4,7,5,14,21,20,1996,16,serie_b
+15,Calcio Foggia,18,4,6,6,13,16,20,1996,16,serie_b
+16,Avellino,18,5,3,8,17,23,20,1996,16,serie_b
+17,Fidelis Andria,17,3,8,5,14,18,20,1996,16,serie_b
+18,Venezia,17,3,8,5,10,16,20,1996,16,serie_b
+19,Chievo,15,2,9,5,12,15,20,1996,16,serie_b
+20,Pistoiese,15,3,6,7,16,21,20,1996,16,serie_b
+1,Genoa,28,8,4,5,31,22,20,1996,17,serie_b
+2,Pescara,27,8,3,6,23,24,20,1996,17,serie_b
+3,Hellas Verona,26,7,5,5,18,14,20,1996,17,serie_b
+4,Palermo FC,25,5,10,2,13,13,20,1996,17,serie_b
+5,Cesena,24,6,6,5,24,17,20,1996,17,serie_b
+6,Salernitana,24,6,6,5,16,11,20,1996,17,serie_b
+7,Bologna,24,5,9,3,13,10,20,1996,17,serie_b
+8,Cosenza Calcio,24,5,9,3,18,17,20,1996,17,serie_b
+9,Reggiana,24,6,6,5,16,17,20,1996,17,serie_b
+10,Ancona,23,7,2,8,23,21,20,1996,17,serie_b
+11,Brescia,22,6,4,7,24,19,20,1996,17,serie_b
+12,Perugia,22,5,7,5,20,19,20,1996,17,serie_b
+13,Calcio Foggia,21,5,6,6,15,17,20,1996,17,serie_b
+14,Fidelis Andria,20,4,8,5,16,19,20,1996,17,serie_b
+15,Venezia,20,4,8,5,13,17,20,1996,17,serie_b
+16,Lucchese Libertas,20,4,8,5,13,18,20,1996,17,serie_b
+17,Reggina,20,4,8,5,15,22,20,1996,17,serie_b
+18,Chievo,18,3,9,5,13,15,20,1996,17,serie_b
+19,Avellino,18,5,3,9,18,25,20,1996,17,serie_b
+20,Pistoiese,16,3,7,7,17,22,20,1996,17,serie_b
+1,Genoa,28,8,4,6,31,23,20,1996,18,serie_b
+2,Palermo FC,28,6,10,2,15,14,20,1996,18,serie_b
+3,Pescara,28,8,4,6,24,25,20,1996,18,serie_b
+4,Cesena,27,7,6,5,26,18,20,1996,18,serie_b
+5,Cosenza Calcio,27,6,9,3,21,17,20,1996,18,serie_b
+6,Reggiana,27,7,6,5,18,17,20,1996,18,serie_b
+7,Hellas Verona,26,7,5,6,18,16,20,1996,18,serie_b
+8,Perugia,25,6,7,5,23,20,20,1996,18,serie_b
+9,Bologna,25,5,10,3,13,10,20,1996,18,serie_b
+10,Salernitana,24,6,6,6,17,13,20,1996,18,serie_b
+11,Ancona,23,7,2,9,23,22,20,1996,18,serie_b
+12,Lucchese Libertas,23,5,8,5,16,19,20,1996,18,serie_b
+13,Venezia,23,5,8,5,14,17,20,1996,18,serie_b
+14,Brescia,22,6,4,8,25,22,20,1996,18,serie_b
+15,Calcio Foggia,21,5,6,7,15,20,20,1996,18,serie_b
+16,Fidelis Andria,20,4,8,6,17,21,20,1996,18,serie_b
+17,Reggina,20,4,8,6,16,25,20,1996,18,serie_b
+18,Chievo,19,3,10,5,13,15,20,1996,18,serie_b
+19,Pistoiese,19,4,7,7,18,22,20,1996,18,serie_b
+20,Avellino,19,5,4,9,19,26,20,1996,18,serie_b
+1,Pescara,31,9,4,6,26,25,20,1996,19,serie_b
+2,Cesena,28,7,7,5,26,18,20,1996,19,serie_b
+3,Genoa,28,8,4,7,31,27,20,1996,19,serie_b
+4,Bologna,28,6,10,3,16,12,20,1996,19,serie_b
+5,Palermo FC,28,6,10,3,15,15,20,1996,19,serie_b
+6,Cosenza Calcio,27,6,9,4,23,20,20,1996,19,serie_b
+7,Hellas Verona,27,7,6,6,18,16,20,1996,19,serie_b
+8,Reggiana,27,7,6,6,18,19,20,1996,19,serie_b
+9,Perugia,26,6,8,5,23,20,20,1996,19,serie_b
+10,Ancona,26,8,2,9,24,22,20,1996,19,serie_b
+11,Venezia,26,6,8,5,15,17,20,1996,19,serie_b
+12,Salernitana,24,6,6,7,17,15,20,1996,19,serie_b
+13,Lucchese Libertas,24,5,9,5,16,19,20,1996,19,serie_b
+14,Brescia,23,6,5,8,25,22,20,1996,19,serie_b
+15,Fidelis Andria,23,5,8,6,21,21,20,1996,19,serie_b
+16,Reggina,23,5,8,6,18,25,20,1996,19,serie_b
+17,Calcio Foggia,22,5,7,7,15,20,20,1996,19,serie_b
+18,Chievo,20,3,11,5,13,15,20,1996,19,serie_b
+19,Avellino,20,5,5,9,19,26,20,1996,19,serie_b
+20,Pistoiese,19,4,7,8,18,23,20,1996,19,serie_b
+1,Cesena,31,8,7,5,28,19,20,1996,20,serie_b
+2,Bologna,31,7,10,3,18,13,20,1996,20,serie_b
+3,Pescara,31,9,4,7,26,26,20,1996,20,serie_b
+4,Genoa,29,8,5,7,33,29,20,1996,20,serie_b
+5,Ancona,29,9,2,9,28,24,20,1996,20,serie_b
+6,Palermo FC,29,6,11,3,15,15,20,1996,20,serie_b
+7,Cosenza Calcio,28,6,10,4,23,20,20,1996,20,serie_b
+8,Hellas Verona,28,7,7,6,20,18,20,1996,20,serie_b
+9,Reggiana,28,7,7,6,18,19,20,1996,20,serie_b
+10,Brescia,26,7,5,8,26,22,20,1996,20,serie_b
+11,Perugia,26,6,8,6,23,21,20,1996,20,serie_b
+12,Venezia,26,6,8,6,16,19,20,1996,20,serie_b
+13,Salernitana,25,6,7,7,17,15,20,1996,20,serie_b
+14,Lucchese Libertas,25,5,10,5,18,21,20,1996,20,serie_b
+15,Calcio Foggia,25,6,7,7,16,20,20,1996,20,serie_b
+16,Fidelis Andria,23,5,8,7,22,23,20,1996,20,serie_b
+17,Avellino,23,6,5,9,21,27,20,1996,20,serie_b
+18,Reggina,23,5,8,7,20,29,20,1996,20,serie_b
+19,Chievo,21,3,12,5,15,17,20,1996,20,serie_b
+20,Pistoiese,19,4,7,9,19,25,20,1996,20,serie_b
+1,Cesena,34,9,7,5,29,19,20,1996,21,serie_b
+2,Pescara,32,9,5,7,27,27,20,1996,21,serie_b
+3,Bologna,31,7,10,4,19,15,20,1996,21,serie_b
+4,Hellas Verona,31,8,7,6,22,19,20,1996,21,serie_b
+5,Reggiana,31,8,7,6,20,19,20,1996,21,serie_b
+6,Genoa,29,8,5,8,34,31,20,1996,21,serie_b
+7,Perugia,29,7,8,6,25,22,20,1996,21,serie_b
+8,Cosenza Calcio,29,6,11,4,24,21,20,1996,21,serie_b
+9,Ancona,29,9,2,10,29,27,20,1996,21,serie_b
+10,Palermo FC,29,6,11,4,15,16,20,1996,21,serie_b
+11,Lucchese Libertas,28,6,10,5,21,22,20,1996,21,serie_b
+12,Venezia,27,6,9,6,17,20,20,1996,21,serie_b
+13,Brescia,26,7,5,9,26,23,20,1996,21,serie_b
+14,Salernitana,26,6,8,7,19,17,20,1996,21,serie_b
+15,Fidelis Andria,26,6,8,7,23,23,20,1996,21,serie_b
+16,Calcio Foggia,26,6,8,7,17,21,20,1996,21,serie_b
+17,Reggina,26,6,8,7,22,30,20,1996,21,serie_b
+18,Avellino,23,6,5,10,22,29,20,1996,21,serie_b
+19,Chievo,22,3,13,5,17,19,20,1996,21,serie_b
+20,Pistoiese,19,4,7,10,19,27,20,1996,21,serie_b
+1,Cesena,34,9,7,6,29,20,20,1996,22,serie_b
+2,Hellas Verona,34,9,7,6,24,20,20,1996,22,serie_b
+3,Pescara,33,9,6,7,28,28,20,1996,22,serie_b
+4,Ancona,32,10,2,10,32,27,20,1996,22,serie_b
+5,Perugia,32,8,8,6,27,23,20,1996,22,serie_b
+6,Bologna,32,7,11,4,19,15,20,1996,22,serie_b
+7,Reggiana,31,8,7,7,21,21,20,1996,22,serie_b
+8,Genoa,30,8,6,8,34,31,20,1996,22,serie_b
+9,Palermo FC,30,6,12,4,16,17,20,1996,22,serie_b
+10,Venezia,30,7,9,6,18,20,20,1996,22,serie_b
+11,Cosenza Calcio,29,6,11,5,25,23,20,1996,22,serie_b
+12,Lucchese Libertas,29,6,11,5,22,23,20,1996,22,serie_b
+13,Brescia,27,7,6,9,27,24,20,1996,22,serie_b
+14,Salernitana,27,6,9,7,19,17,20,1996,22,serie_b
+15,Fidelis Andria,26,6,8,8,24,25,20,1996,22,serie_b
+16,Avellino,26,7,5,10,24,30,20,1996,22,serie_b
+17,Calcio Foggia,26,6,8,8,17,24,20,1996,22,serie_b
+18,Reggina,26,6,8,8,22,32,20,1996,22,serie_b
+19,Chievo,25,4,13,5,19,19,20,1996,22,serie_b
+20,Pistoiese,20,4,8,10,19,27,20,1996,22,serie_b
+1,Cesena,37,10,7,6,31,21,20,1996,23,serie_b
+2,Hellas Verona,37,10,7,6,26,21,20,1996,23,serie_b
+3,Perugia,35,9,8,6,28,23,20,1996,23,serie_b
+4,Bologna,35,8,11,4,20,15,20,1996,23,serie_b
+5,Pescara,34,9,7,7,28,28,20,1996,23,serie_b
+6,Ancona,32,10,2,11,33,29,20,1996,23,serie_b
+7,Lucchese Libertas,32,7,11,5,24,24,20,1996,23,serie_b
+8,Reggiana,32,8,8,7,22,22,20,1996,23,serie_b
+9,Salernitana,30,7,9,7,22,18,20,1996,23,serie_b
+10,Genoa,30,8,6,9,34,32,20,1996,23,serie_b
+11,Cosenza Calcio,30,6,12,5,26,24,20,1996,23,serie_b
+12,Venezia,30,7,9,7,19,23,20,1996,23,serie_b
+13,Palermo FC,30,6,12,5,16,21,20,1996,23,serie_b
+14,Fidelis Andria,29,7,8,8,28,25,20,1996,23,serie_b
+15,Avellino,29,8,5,10,25,30,20,1996,23,serie_b
+16,Brescia,27,7,6,10,28,26,20,1996,23,serie_b
+17,Chievo,26,4,14,5,19,19,20,1996,23,serie_b
+18,Calcio Foggia,26,6,8,9,17,25,20,1996,23,serie_b
+19,Reggina,26,6,8,9,22,33,20,1996,23,serie_b
+20,Pistoiese,20,4,8,11,20,29,20,1996,23,serie_b
+1,Cesena,38,10,8,6,33,23,20,1996,24,serie_b
+2,Hellas Verona,38,10,8,6,26,21,20,1996,24,serie_b
+3,Perugia,36,9,9,6,30,25,20,1996,24,serie_b
+4,Bologna,36,8,12,4,20,15,20,1996,24,serie_b
+5,Pescara,34,9,7,8,29,30,20,1996,24,serie_b
+6,Salernitana,33,8,9,7,27,18,20,1996,24,serie_b
+7,Ancona,33,10,3,11,34,30,20,1996,24,serie_b
+8,Lucchese Libertas,33,7,12,5,26,26,20,1996,24,serie_b
+9,Reggiana,33,8,9,7,22,22,20,1996,24,serie_b
+10,Venezia,33,8,9,7,21,24,20,1996,24,serie_b
+11,Avellino,32,9,5,10,27,30,20,1996,24,serie_b
+12,Genoa,31,8,7,9,34,32,20,1996,24,serie_b
+13,Palermo FC,31,6,13,5,18,23,20,1996,24,serie_b
+14,Fidelis Andria,30,7,9,8,29,26,20,1996,24,serie_b
+15,Cosenza Calcio,30,6,12,6,26,27,20,1996,24,serie_b
+16,Chievo,29,5,14,5,22,19,20,1996,24,serie_b
+17,Reggina,29,7,8,9,23,33,20,1996,24,serie_b
+18,Brescia,27,7,6,11,28,31,20,1996,24,serie_b
+19,Calcio Foggia,26,6,8,10,17,26,20,1996,24,serie_b
+20,Pistoiese,20,4,8,12,20,31,20,1996,24,serie_b
+1,Hellas Verona,41,11,8,6,29,21,20,1996,25,serie_b
+2,Cesena,39,10,9,6,33,23,20,1996,25,serie_b
+3,Bologna,37,8,13,4,20,15,20,1996,25,serie_b
+4,Salernitana,36,9,9,7,30,19,20,1996,25,serie_b
+5,Perugia,36,9,9,7,31,27,20,1996,25,serie_b
+6,Reggiana,36,9,9,7,24,22,20,1996,25,serie_b
+7,Pescara,35,9,8,8,29,30,20,1996,25,serie_b
+8,Genoa,34,9,7,9,37,33,20,1996,25,serie_b
+9,Venezia,34,8,10,7,22,25,20,1996,25,serie_b
+10,Ancona,33,10,3,12,34,33,20,1996,25,serie_b
+11,Lucchese Libertas,33,7,12,6,26,28,20,1996,25,serie_b
+12,Avellino,32,9,5,11,27,32,20,1996,25,serie_b
+13,Palermo FC,32,6,14,5,19,24,20,1996,25,serie_b
+14,Fidelis Andria,31,7,10,8,30,27,20,1996,25,serie_b
+15,Cosenza Calcio,31,6,13,6,27,28,20,1996,25,serie_b
+16,Brescia,30,8,6,11,30,31,20,1996,25,serie_b
+17,Reggina,30,7,9,9,23,33,20,1996,25,serie_b
+18,Chievo,29,5,14,6,23,22,20,1996,25,serie_b
+19,Calcio Foggia,26,6,8,11,18,29,20,1996,25,serie_b
+20,Pistoiese,23,5,8,12,22,32,20,1996,25,serie_b
+1,Hellas Verona,42,11,9,6,30,22,20,1996,26,serie_b
+2,Cesena,39,10,9,7,33,24,20,1996,26,serie_b
+3,Perugia,39,10,9,7,32,27,20,1996,26,serie_b
+4,Reggiana,39,10,9,7,27,23,20,1996,26,serie_b
+5,Bologna,38,8,14,4,21,16,20,1996,26,serie_b
+6,Salernitana,37,9,10,7,30,19,20,1996,26,serie_b
+7,Venezia,37,9,10,7,25,25,20,1996,26,serie_b
+8,Lucchese Libertas,36,8,12,6,28,28,20,1996,26,serie_b
+9,Pescara,35,9,8,9,30,33,20,1996,26,serie_b
+10,Fidelis Andria,34,8,10,8,31,27,20,1996,26,serie_b
+11,Genoa,34,9,7,10,37,35,20,1996,26,serie_b
+12,Cosenza Calcio,34,7,13,6,30,29,20,1996,26,serie_b
+13,Ancona,33,10,3,13,35,36,20,1996,26,serie_b
+14,Avellino,33,9,6,11,27,32,20,1996,26,serie_b
+15,Chievo,32,6,14,6,24,22,20,1996,26,serie_b
+16,Palermo FC,32,6,14,6,19,25,20,1996,26,serie_b
+17,Reggina,31,7,10,9,24,34,20,1996,26,serie_b
+18,Brescia,30,8,6,12,30,34,20,1996,26,serie_b
+19,Calcio Foggia,26,6,8,12,18,30,20,1996,26,serie_b
+20,Pistoiese,24,5,9,12,23,33,20,1996,26,serie_b
+1,Hellas Verona,45,12,9,6,32,23,20,1996,27,serie_b
+2,Cesena,42,11,9,7,36,25,20,1996,27,serie_b
+3,Salernitana,40,10,10,7,32,20,20,1996,27,serie_b
+4,Perugia,40,10,10,7,33,28,20,1996,27,serie_b
+5,Reggiana,40,10,10,7,27,23,20,1996,27,serie_b
+6,Bologna,38,8,14,5,21,17,20,1996,27,serie_b
+7,Venezia,38,9,11,7,25,25,20,1996,27,serie_b
+8,Pescara,38,10,8,9,32,34,20,1996,27,serie_b
+9,Cosenza Calcio,37,8,13,6,32,29,20,1996,27,serie_b
+10,Lucchese Libertas,36,8,12,7,29,30,20,1996,27,serie_b
+11,Chievo,35,7,14,6,28,22,20,1996,27,serie_b
+12,Palermo FC,35,7,14,6,22,27,20,1996,27,serie_b
+13,Fidelis Andria,34,8,10,9,32,29,20,1996,27,serie_b
+14,Genoa,34,9,7,11,38,38,20,1996,27,serie_b
+15,Ancona,34,10,4,13,36,37,20,1996,27,serie_b
+16,Brescia,33,9,6,12,31,34,20,1996,27,serie_b
+17,Avellino,33,9,6,12,29,35,20,1996,27,serie_b
+18,Reggina,31,7,10,10,24,36,20,1996,27,serie_b
+19,Calcio Foggia,26,6,8,13,18,34,20,1996,27,serie_b
+20,Pistoiese,24,5,9,13,24,35,20,1996,27,serie_b
+1,Hellas Verona,48,13,9,6,34,24,20,1996,28,serie_b
+2,Salernitana,43,11,10,7,33,20,20,1996,28,serie_b
+3,Reggiana,43,11,10,7,28,23,20,1996,28,serie_b
+4,Cesena,42,11,9,8,36,26,20,1996,28,serie_b
+5,Bologna,41,9,14,5,25,17,20,1996,28,serie_b
+6,Perugia,40,10,10,8,34,30,20,1996,28,serie_b
+7,Lucchese Libertas,39,9,12,7,31,31,20,1996,28,serie_b
+8,Venezia,38,9,11,8,26,27,20,1996,28,serie_b
+9,Pescara,38,10,8,10,32,35,20,1996,28,serie_b
+10,Palermo FC,38,8,14,6,24,27,20,1996,28,serie_b
+11,Genoa,37,10,7,11,41,38,20,1996,28,serie_b
+12,Cosenza Calcio,37,8,13,7,32,32,20,1996,28,serie_b
+13,Chievo,36,7,15,6,28,22,20,1996,28,serie_b
+14,Fidelis Andria,35,8,11,9,34,31,20,1996,28,serie_b
+15,Ancona,34,10,4,14,36,38,20,1996,28,serie_b
+16,Brescia,33,9,6,13,31,36,20,1996,28,serie_b
+17,Avellino,33,9,6,13,29,39,20,1996,28,serie_b
+18,Reggina,32,7,11,10,26,38,20,1996,28,serie_b
+19,Calcio Foggia,29,7,8,13,19,34,20,1996,28,serie_b
+20,Pistoiese,25,5,10,13,24,35,20,1996,28,serie_b
+1,Hellas Verona,49,13,10,6,34,24,20,1996,29,serie_b
+2,Salernitana,46,12,10,7,34,20,20,1996,29,serie_b
+3,Perugia,43,11,10,8,36,31,20,1996,29,serie_b
+4,Reggiana,43,11,10,8,28,24,20,1996,29,serie_b
+5,Cesena,42,11,9,9,37,28,20,1996,29,serie_b
+6,Bologna,42,9,15,5,26,18,20,1996,29,serie_b
+7,Lucchese Libertas,42,10,12,7,33,32,20,1996,29,serie_b
+8,Pescara,41,11,8,10,33,35,20,1996,29,serie_b
+9,Cosenza Calcio,40,9,13,7,34,32,20,1996,29,serie_b
+10,Venezia,39,9,12,8,27,28,20,1996,29,serie_b
+11,Palermo FC,39,8,15,6,25,28,20,1996,29,serie_b
+12,Chievo,37,7,16,6,29,23,20,1996,29,serie_b
+13,Genoa,37,10,7,12,41,39,20,1996,29,serie_b
+14,Fidelis Andria,36,8,12,9,34,31,20,1996,29,serie_b
+15,Ancona,35,10,5,14,36,38,20,1996,29,serie_b
+16,Avellino,34,9,7,13,29,39,20,1996,29,serie_b
+17,Brescia,33,9,6,14,31,37,20,1996,29,serie_b
+18,Reggina,32,7,11,11,27,40,20,1996,29,serie_b
+19,Calcio Foggia,32,8,8,13,20,34,20,1996,29,serie_b
+20,Pistoiese,25,5,10,14,24,37,20,1996,29,serie_b
+1,Hellas Verona,52,14,10,6,40,25,20,1996,30,serie_b
+2,Salernitana,47,12,11,7,35,21,20,1996,30,serie_b
+3,Perugia,46,12,10,8,38,32,20,1996,30,serie_b
+4,Reggiana,46,12,10,8,29,24,20,1996,30,serie_b
+5,Bologna,45,10,15,5,28,18,20,1996,30,serie_b
+6,Lucchese Libertas,45,11,12,7,35,32,20,1996,30,serie_b
+7,Cesena,42,11,9,10,38,34,20,1996,30,serie_b
+8,Pescara,42,11,9,10,34,36,20,1996,30,serie_b
+9,Cosenza Calcio,40,9,13,8,35,34,20,1996,30,serie_b
+10,Venezia,39,9,12,9,27,30,20,1996,30,serie_b
+11,Palermo FC,39,8,15,7,26,30,20,1996,30,serie_b
+12,Chievo,38,7,17,6,30,24,20,1996,30,serie_b
+13,Genoa,38,10,8,12,43,41,20,1996,30,serie_b
+14,Fidelis Andria,37,8,13,9,35,32,20,1996,30,serie_b
+15,Ancona,36,10,6,14,37,39,20,1996,30,serie_b
+16,Brescia,34,9,7,14,33,39,20,1996,30,serie_b
+17,Avellino,34,9,7,14,29,40,20,1996,30,serie_b
+18,Reggina,33,7,12,11,28,41,20,1996,30,serie_b
+19,Calcio Foggia,32,8,8,14,20,36,20,1996,30,serie_b
+20,Pistoiese,28,6,10,14,26,38,20,1996,30,serie_b
+1,Hellas Verona,52,14,10,7,41,27,20,1996,31,serie_b
+2,Perugia,49,13,10,8,42,34,20,1996,31,serie_b
+3,Salernitana,48,12,12,7,36,22,20,1996,31,serie_b
+4,Reggiana,47,12,11,8,29,24,20,1996,31,serie_b
+5,Bologna,46,10,16,5,28,18,20,1996,31,serie_b
+6,Lucchese Libertas,46,11,13,7,36,33,20,1996,31,serie_b
+7,Cosenza Calcio,43,10,13,8,37,35,20,1996,31,serie_b
+8,Cesena,42,11,9,11,39,36,20,1996,31,serie_b
+9,Palermo FC,42,9,15,7,30,30,20,1996,31,serie_b
+10,Venezia,42,10,12,9,28,30,20,1996,31,serie_b
+11,Pescara,42,11,9,11,35,38,20,1996,31,serie_b
+12,Chievo,38,7,17,7,32,28,20,1996,31,serie_b
+13,Genoa,38,10,8,13,43,45,20,1996,31,serie_b
+14,Fidelis Andria,37,8,13,10,36,34,20,1996,31,serie_b
+15,Brescia,37,10,7,14,37,39,20,1996,31,serie_b
+16,Avellino,37,10,7,14,31,41,20,1996,31,serie_b
+17,Ancona,36,10,6,15,37,43,20,1996,31,serie_b
+18,Calcio Foggia,35,9,8,14,22,37,20,1996,31,serie_b
+19,Reggina,33,7,12,12,28,42,20,1996,31,serie_b
+20,Pistoiese,31,7,10,14,28,39,20,1996,31,serie_b
+1,Hellas Verona,55,15,10,7,42,27,20,1996,32,serie_b
+2,Perugia,52,14,10,8,43,34,20,1996,32,serie_b
+3,Reggiana,50,13,11,8,34,25,20,1996,32,serie_b
+4,Lucchese Libertas,49,12,13,7,38,34,20,1996,32,serie_b
+5,Salernitana,48,12,12,8,36,23,20,1996,32,serie_b
+6,Bologna,47,10,17,5,29,19,20,1996,32,serie_b
+7,Cesena,45,12,9,11,42,38,20,1996,32,serie_b
+8,Palermo FC,45,10,15,7,31,30,20,1996,32,serie_b
+9,Cosenza Calcio,43,10,13,9,38,37,20,1996,32,serie_b
+10,Venezia,42,10,12,10,28,31,20,1996,32,serie_b
+11,Pescara,42,11,9,12,37,41,20,1996,32,serie_b
+12,Genoa,41,11,8,13,44,45,20,1996,32,serie_b
+13,Chievo,38,7,17,8,32,29,20,1996,32,serie_b
+14,Brescia,38,10,8,14,38,40,20,1996,32,serie_b
+15,Avellino,38,10,8,14,32,42,20,1996,32,serie_b
+16,Fidelis Andria,37,8,13,11,36,35,20,1996,32,serie_b
+17,Ancona,37,10,7,15,38,44,20,1996,32,serie_b
+18,Calcio Foggia,35,9,8,15,23,42,20,1996,32,serie_b
+19,Reggina,34,7,13,12,29,43,20,1996,32,serie_b
+20,Pistoiese,32,7,11,14,29,40,20,1996,32,serie_b
+1,Hellas Verona,58,16,10,7,44,28,20,1996,33,serie_b
+2,Perugia,53,14,11,8,45,36,20,1996,33,serie_b
+3,Reggiana,51,13,12,8,34,25,20,1996,33,serie_b
+4,Bologna,50,11,17,5,31,20,20,1996,33,serie_b
+5,Lucchese Libertas,49,12,13,8,38,36,20,1996,33,serie_b
+6,Salernitana,48,12,12,9,37,25,20,1996,33,serie_b
+7,Cesena,46,12,10,11,44,40,20,1996,33,serie_b
+8,Palermo FC,45,10,15,8,31,31,20,1996,33,serie_b
+9,Cosenza Calcio,44,10,14,9,40,39,20,1996,33,serie_b
+10,Venezia,43,10,13,10,28,31,20,1996,33,serie_b
+11,Pescara,43,11,10,12,39,43,20,1996,33,serie_b
+12,Genoa,41,11,8,14,45,47,20,1996,33,serie_b
+13,Avellino,41,11,8,14,34,42,20,1996,33,serie_b
+14,Fidelis Andria,40,9,13,11,38,36,20,1996,33,serie_b
+15,Chievo,39,7,18,8,32,29,20,1996,33,serie_b
+16,Brescia,39,10,9,14,39,41,20,1996,33,serie_b
+17,Ancona,38,10,8,15,38,44,20,1996,33,serie_b
+18,Calcio Foggia,38,10,8,15,24,42,20,1996,33,serie_b
+19,Reggina,35,7,14,12,30,44,20,1996,33,serie_b
+20,Pistoiese,32,7,11,15,30,42,20,1996,33,serie_b
+1,Hellas Verona,61,17,10,7,47,28,20,1996,34,serie_b
+2,Reggiana,54,14,12,8,37,27,20,1996,34,serie_b
+3,Bologna,53,12,17,5,34,22,20,1996,34,serie_b
+4,Perugia,53,14,11,9,46,38,20,1996,34,serie_b
+5,Salernitana,51,13,12,9,39,26,20,1996,34,serie_b
+6,Lucchese Libertas,50,12,14,8,39,37,20,1996,34,serie_b
+7,Palermo FC,48,11,15,8,32,31,20,1996,34,serie_b
+8,Cosenza Calcio,47,11,14,9,43,40,20,1996,34,serie_b
+9,Cesena,46,12,10,12,46,43,20,1996,34,serie_b
+10,Genoa,44,12,8,14,48,47,20,1996,34,serie_b
+11,Venezia,43,10,13,11,29,34,20,1996,34,serie_b
+12,Pescara,43,11,10,13,39,46,20,1996,34,serie_b
+13,Fidelis Andria,41,9,14,11,39,37,20,1996,34,serie_b
+14,Avellino,41,11,8,15,34,45,20,1996,34,serie_b
+15,Calcio Foggia,41,11,8,15,27,44,20,1996,34,serie_b
+16,Chievo,40,7,19,8,32,29,20,1996,34,serie_b
+17,Brescia,39,10,9,15,41,44,20,1996,34,serie_b
+18,Ancona,39,10,9,15,38,44,20,1996,34,serie_b
+19,Reggina,35,7,14,13,30,45,20,1996,34,serie_b
+20,Pistoiese,32,7,11,16,32,45,20,1996,34,serie_b
+1,Hellas Verona,62,17,11,7,47,28,20,1996,35,serie_b
+2,Bologna,56,13,17,5,36,22,20,1996,35,serie_b
+3,Reggiana,55,14,13,8,38,28,20,1996,35,serie_b
+4,Salernitana,54,14,12,9,41,27,20,1996,35,serie_b
+5,Perugia,54,14,12,9,47,39,20,1996,35,serie_b
+6,Lucchese Libertas,50,12,14,9,39,39,20,1996,35,serie_b
+7,Palermo FC,49,11,16,8,32,31,20,1996,35,serie_b
+8,Genoa,47,13,8,14,51,49,20,1996,35,serie_b
+9,Cosenza Calcio,47,11,14,10,44,44,20,1996,35,serie_b
+10,Cesena,46,12,10,13,46,44,20,1996,35,serie_b
+11,Venezia,44,10,14,11,29,34,20,1996,35,serie_b
+12,Calcio Foggia,44,12,8,15,28,44,20,1996,35,serie_b
+13,Pescara,43,11,10,14,39,47,20,1996,35,serie_b
+14,Fidelis Andria,42,9,15,11,40,38,20,1996,35,serie_b
+15,Brescia,42,11,9,15,45,45,20,1996,35,serie_b
+16,Avellino,42,11,9,15,35,46,20,1996,35,serie_b
+17,Chievo,41,7,20,8,32,29,20,1996,35,serie_b
+18,Ancona,39,10,9,16,40,47,20,1996,35,serie_b
+19,Reggina,38,8,14,13,31,45,20,1996,35,serie_b
+20,Pistoiese,32,7,11,17,33,47,20,1996,35,serie_b
+1,Hellas Verona,63,17,12,7,48,29,20,1996,36,serie_b
+2,Bologna,59,14,17,5,38,23,20,1996,36,serie_b
+3,Reggiana,58,15,13,8,40,29,20,1996,36,serie_b
+4,Perugia,57,15,12,9,48,39,20,1996,36,serie_b
+5,Salernitana,54,14,12,10,43,30,20,1996,36,serie_b
+6,Lucchese Libertas,51,12,15,9,40,40,20,1996,36,serie_b
+7,Cesena,49,13,10,13,49,46,20,1996,36,serie_b
+8,Palermo FC,49,11,16,9,33,33,20,1996,36,serie_b
+9,Genoa,48,13,9,14,52,50,20,1996,36,serie_b
+10,Cosenza Calcio,48,11,15,10,47,47,20,1996,36,serie_b
+11,Pescara,46,12,10,14,44,48,20,1996,36,serie_b
+12,Calcio Foggia,45,12,9,15,29,45,20,1996,36,serie_b
+13,Chievo,44,8,20,8,34,29,20,1996,36,serie_b
+14,Venezia,44,10,14,12,29,35,20,1996,36,serie_b
+15,Avellino,43,11,10,15,38,49,20,1996,36,serie_b
+16,Brescia,42,11,9,16,45,47,20,1996,36,serie_b
+17,Fidelis Andria,42,9,15,12,41,43,20,1996,36,serie_b
+18,Reggina,41,9,14,13,33,45,20,1996,36,serie_b
+19,Ancona,39,10,9,17,41,49,20,1996,36,serie_b
+20,Pistoiese,32,7,11,18,33,49,20,1996,36,serie_b
+1,Hellas Verona,63,17,12,8,48,30,20,1996,37,serie_b
+2,Bologna,62,15,17,5,39,23,20,1996,37,serie_b
+3,Reggiana,61,16,13,8,41,29,20,1996,37,serie_b
+4,Perugia,58,15,13,9,49,40,20,1996,37,serie_b
+5,Salernitana,57,15,12,10,45,31,20,1996,37,serie_b
+6,Lucchese Libertas,51,12,15,10,40,42,20,1996,37,serie_b
+7,Genoa,49,13,10,14,54,52,20,1996,37,serie_b
+8,Cesena,49,13,10,14,49,47,20,1996,37,serie_b
+9,Palermo FC,49,11,16,10,34,35,20,1996,37,serie_b
+10,Pescara,49,13,10,14,46,49,20,1996,37,serie_b
+11,Cosenza Calcio,48,11,15,11,47,48,20,1996,37,serie_b
+12,Calcio Foggia,48,13,9,15,30,45,20,1996,37,serie_b
+13,Fidelis Andria,45,10,15,12,42,43,20,1996,37,serie_b
+14,Venezia,45,10,15,12,31,37,20,1996,37,serie_b
+15,Chievo,44,8,20,9,34,30,20,1996,37,serie_b
+16,Reggina,44,10,14,13,35,45,20,1996,37,serie_b
+17,Brescia,43,11,10,16,46,48,20,1996,37,serie_b
+18,Avellino,43,11,10,16,39,51,20,1996,37,serie_b
+19,Ancona,42,11,9,17,42,49,20,1996,37,serie_b
+20,Pistoiese,32,7,11,19,33,50,20,1996,37,serie_b
+1,Bologna,65,16,17,5,42,23,20,1996,38,serie_b
+2,Hellas Verona,63,17,12,9,50,33,20,1996,38,serie_b
+3,Perugia,61,16,13,9,52,42,20,1996,38,serie_b
+4,Reggiana,61,16,13,9,42,32,20,1996,38,serie_b
+5,Salernitana,58,15,13,10,46,32,20,1996,38,serie_b
+6,Lucchese Libertas,54,13,15,10,45,43,20,1996,38,serie_b
+7,Genoa,52,14,10,14,56,52,20,1996,38,serie_b
+8,Palermo FC,52,12,16,10,36,35,20,1996,38,serie_b
+9,Pescara,50,13,11,14,47,50,20,1996,38,serie_b
+10,Cesena,49,13,10,15,50,49,20,1996,38,serie_b
+11,Cosenza Calcio,48,11,15,12,47,51,20,1996,38,serie_b
+12,Venezia,48,11,15,12,34,39,20,1996,38,serie_b
+13,Calcio Foggia,48,13,9,16,31,50,20,1996,38,serie_b
+14,Chievo,47,9,20,9,37,30,20,1996,38,serie_b
+15,Reggina,47,11,14,13,38,46,20,1996,38,serie_b
+16,Brescia,46,12,10,16,48,49,20,1996,38,serie_b
+17,Fidelis Andria,45,10,15,13,42,45,20,1996,38,serie_b
+18,Avellino,43,11,10,17,39,54,20,1996,38,serie_b
+19,Ancona,42,11,9,18,42,51,20,1996,38,serie_b
+20,Pistoiese,32,7,11,20,35,53,20,1996,38,serie_b

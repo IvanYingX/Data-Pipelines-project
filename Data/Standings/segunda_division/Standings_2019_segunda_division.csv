@@ -1,0 +1,924 @@
+1,Mallorca,3,1,0,0,1,0,22,2019,1,segunda_division
+2,Málaga,3,1,0,0,2,1,22,2019,1,segunda_division
+3,Cádiz,3,1,0,0,1,0,22,2019,1,segunda_division
+4,Las Palmas,3,1,0,0,2,0,22,2019,1,segunda_division
+5,Real Zaragoza,3,1,0,0,2,1,22,2019,1,segunda_division
+6,Córdoba,1,0,1,0,3,3,22,2019,1,segunda_division
+7,Numancia,1,0,1,0,3,3,22,2019,1,segunda_division
+8,Extremadura,1,0,1,0,1,1,22,2019,1,segunda_division
+9,Tenerife,1,0,1,0,1,1,22,2019,1,segunda_division
+10,Real Sporting,1,0,1,0,1,1,22,2019,1,segunda_division
+11,Real Oviedo,1,0,1,0,1,1,22,2019,1,segunda_division
+12,Gimnàstic,1,0,1,0,1,1,22,2019,1,segunda_division
+13,Alcorcón,1,0,1,0,1,1,22,2019,1,segunda_division
+14,Albacete,1,0,1,0,1,1,22,2019,1,segunda_division
+15,Deportivo,1,0,1,0,1,1,22,2019,1,segunda_division
+16,Granada,1,0,1,0,0,0,22,2019,1,segunda_division
+17,Elche,1,0,1,0,0,0,22,2019,1,segunda_division
+18,Osasuna,0,0,0,1,0,1,22,2019,1,segunda_division
+19,Rayo Majadahonda,0,0,0,1,1,2,22,2019,1,segunda_division
+20,Lugo,0,0,0,1,1,2,22,2019,1,segunda_division
+21,Almería,0,0,0,1,0,1,22,2019,1,segunda_division
+22,Reus Deportiu,0,0,0,1,0,2,22,2019,1,segunda_division
+1,Málaga,6,2,0,0,3,1,22,2019,2,segunda_division
+2,Mallorca,6,2,0,0,2,0,22,2019,2,segunda_division
+3,Real Oviedo,4,1,1,0,5,3,22,2019,2,segunda_division
+4,Real Sporting,4,1,1,0,3,1,22,2019,2,segunda_division
+5,Las Palmas,4,1,1,0,3,1,22,2019,2,segunda_division
+6,Real Zaragoza,4,1,1,0,2,1,22,2019,2,segunda_division
+7,Cádiz,4,1,1,0,2,1,22,2019,2,segunda_division
+8,Deportivo,4,1,1,0,2,1,22,2019,2,segunda_division
+9,Numancia,2,0,2,0,4,4,22,2019,2,segunda_division
+10,Granada,2,0,2,0,1,1,22,2019,2,segunda_division
+11,Albacete,2,0,2,0,2,2,22,2019,2,segunda_division
+12,Tenerife,2,0,2,0,2,2,22,2019,2,segunda_division
+13,Elche,2,0,2,0,1,1,22,2019,2,segunda_division
+14,Lugo,1,0,1,1,2,3,22,2019,2,segunda_division
+15,Extremadura,1,0,1,1,1,2,22,2019,2,segunda_division
+16,Osasuna,1,0,1,1,1,2,22,2019,2,segunda_division
+17,Alcorcón,1,0,1,1,1,2,22,2019,2,segunda_division
+18,Almería,1,0,1,1,1,2,22,2019,2,segunda_division
+19,Córdoba,1,0,1,1,5,7,22,2019,2,segunda_division
+20,Gimnàstic,1,0,1,1,1,3,22,2019,2,segunda_division
+21,Rayo Majadahonda,0,0,0,2,1,3,22,2019,2,segunda_division
+22,Reus Deportiu,0,0,1,1,0,2,22,2019,2,segunda_division
+1,Málaga,9,3,0,0,4,1,22,2019,3,segunda_division
+2,Real Sporting,7,2,1,0,5,1,22,2019,3,segunda_division
+3,Mallorca,6,2,0,1,2,1,22,2019,3,segunda_division
+4,Deportivo,5,1,2,0,4,3,22,2019,3,segunda_division
+5,Cádiz,5,1,2,0,3,2,22,2019,3,segunda_division
+6,Granada,5,1,2,0,3,1,22,2019,3,segunda_division
+7,Real Oviedo,5,1,2,0,6,4,22,2019,3,segunda_division
+8,Las Palmas,5,1,2,0,4,2,22,2019,3,segunda_division
+9,Real Zaragoza,5,1,2,0,3,2,22,2019,3,segunda_division
+10,Albacete,5,1,2,0,5,2,22,2019,3,segunda_division
+11,Alcorcón,4,1,1,1,2,2,22,2019,3,segunda_division
+12,Lugo,4,1,1,1,5,5,22,2019,3,segunda_division
+13,Tenerife,3,0,3,0,4,4,22,2019,3,segunda_division
+14,Rayo Majadahonda,3,1,0,2,2,3,22,2019,3,segunda_division
+15,Numancia,2,0,2,1,6,7,22,2019,3,segunda_division
+16,Elche,2,0,2,1,1,3,22,2019,3,segunda_division
+17,Osasuna,1,0,1,2,1,4,22,2019,3,segunda_division
+18,Extremadura,1,0,1,2,1,4,22,2019,3,segunda_division
+19,Gimnàstic,1,0,1,2,1,4,22,2019,3,segunda_division
+20,Córdoba,1,0,1,2,5,10,22,2019,3,segunda_division
+21,Almería,1,0,1,2,1,3,22,2019,3,segunda_division
+22,Reus Deportiu,0,1,1,1,2,2,22,2019,3,segunda_division
+1,Málaga,12,4,0,0,5,1,22,2019,4,segunda_division
+2,Mallorca,9,3,0,1,3,1,22,2019,4,segunda_division
+3,Deportivo,8,2,2,0,5,3,22,2019,4,segunda_division
+4,Granada,8,2,2,0,6,2,22,2019,4,segunda_division
+5,Las Palmas,8,2,2,0,8,2,22,2019,4,segunda_division
+6,Albacete,8,2,2,0,7,3,22,2019,4,segunda_division
+7,Real Zaragoza,8,2,2,0,7,2,22,2019,4,segunda_division
+8,Real Sporting,7,2,1,1,5,2,22,2019,4,segunda_division
+9,Rayo Majadahonda,6,2,0,2,3,3,22,2019,4,segunda_division
+10,Real Oviedo,5,1,2,1,6,8,22,2019,4,segunda_division
+11,Cádiz,5,1,2,1,3,3,22,2019,4,segunda_division
+12,Alcorcón,5,1,2,1,2,2,22,2019,4,segunda_division
+13,Numancia,5,1,2,1,7,7,22,2019,4,segunda_division
+14,Osasuna,4,1,1,2,4,5,22,2019,4,segunda_division
+15,Lugo,4,1,1,2,5,6,22,2019,4,segunda_division
+16,Tenerife,3,0,3,1,4,5,22,2019,4,segunda_division
+17,Elche,2,0,2,2,1,4,22,2019,4,segunda_division
+18,Córdoba,2,0,2,2,5,10,22,2019,4,segunda_division
+19,Extremadura,1,0,1,3,2,7,22,2019,4,segunda_division
+20,Almería,1,0,1,3,2,6,22,2019,4,segunda_division
+21,Gimnàstic,1,0,1,3,1,8,22,2019,4,segunda_division
+22,Reus Deportiu,0,1,1,2,3,4,22,2019,4,segunda_division
+1,Málaga,15,5,0,0,8,1,22,2019,5,segunda_division
+2,Las Palmas,11,3,2,0,10,3,22,2019,5,segunda_division
+3,Granada,11,3,2,0,9,2,22,2019,5,segunda_division
+4,Mallorca,10,3,1,1,4,2,22,2019,5,segunda_division
+5,Albacete,9,2,3,0,8,4,22,2019,5,segunda_division
+6,Deportivo,8,2,2,1,5,4,22,2019,5,segunda_division
+7,Alcorcón,8,2,2,1,3,2,22,2019,5,segunda_division
+8,Real Zaragoza,8,2,2,1,8,4,22,2019,5,segunda_division
+9,Real Sporting,8,2,2,1,6,3,22,2019,5,segunda_division
+10,Real Oviedo,8,2,2,1,8,8,22,2019,5,segunda_division
+11,Cádiz,6,1,3,1,4,4,22,2019,5,segunda_division
+12,Rayo Majadahonda,6,2,0,3,3,6,22,2019,5,segunda_division
+13,Numancia,6,1,3,1,8,8,22,2019,5,segunda_division
+14,Osasuna,4,1,1,3,4,6,22,2019,5,segunda_division
+15,Lugo,4,1,1,3,5,8,22,2019,5,segunda_division
+16,Almería,4,1,1,3,4,7,22,2019,5,segunda_division
+17,Gimnàstic,4,1,1,3,2,8,22,2019,5,segunda_division
+18,Elche,3,0,3,2,2,5,22,2019,5,segunda_division
+19,Tenerife,3,0,3,2,4,6,22,2019,5,segunda_division
+20,Córdoba,2,0,2,3,5,13,22,2019,5,segunda_division
+21,Extremadura,1,0,1,4,3,9,22,2019,5,segunda_division
+22,Reus Deportiu,0,2,1,2,4,4,22,2019,5,segunda_division
+1,Málaga,15,5,0,1,8,2,22,2019,6,segunda_division
+2,Las Palmas,14,4,2,0,11,3,22,2019,6,segunda_division
+3,Albacete,12,3,3,0,11,5,22,2019,6,segunda_division
+4,Granada,11,3,2,1,10,4,22,2019,6,segunda_division
+5,Alcorcón,11,3,2,1,5,2,22,2019,6,segunda_division
+6,Deportivo,11,3,2,1,7,5,22,2019,6,segunda_division
+7,Mallorca,10,3,1,2,5,5,22,2019,6,segunda_division
+8,Real Oviedo,9,2,3,1,9,9,22,2019,6,segunda_division
+9,Real Zaragoza,8,2,2,2,8,6,22,2019,6,segunda_division
+10,Real Sporting,8,2,2,2,6,4,22,2019,6,segunda_division
+11,Osasuna,7,2,1,3,5,6,22,2019,6,segunda_division
+12,Lugo,7,2,1,3,7,8,22,2019,6,segunda_division
+13,Almería,7,2,1,3,6,7,22,2019,6,segunda_division
+14,Cádiz,6,1,3,2,4,6,22,2019,6,segunda_division
+15,Rayo Majadahonda,6,2,0,4,4,10,22,2019,6,segunda_division
+16,Numancia,6,1,3,2,8,10,22,2019,6,segunda_division
+17,Gimnàstic,5,1,2,3,3,9,22,2019,6,segunda_division
+18,Elche,4,0,4,2,3,6,22,2019,6,segunda_division
+19,Extremadura,4,1,1,4,7,10,22,2019,6,segunda_division
+20,Tenerife,4,0,4,2,5,7,22,2019,6,segunda_division
+21,Córdoba,3,0,3,3,6,14,22,2019,6,segunda_division
+22,Reus Deportiu,0,2,2,2,5,5,22,2019,6,segunda_division
+1,Málaga,18,6,0,1,9,2,22,2019,7,segunda_division
+2,Granada,14,4,2,1,14,6,22,2019,7,segunda_division
+3,Las Palmas,14,4,2,1,11,4,22,2019,7,segunda_division
+4,Alcorcón,14,4,2,1,7,2,22,2019,7,segunda_division
+5,Deportivo,14,4,2,1,10,6,22,2019,7,segunda_division
+6,Albacete,13,3,4,0,13,7,22,2019,7,segunda_division
+7,Real Sporting,11,3,2,2,7,4,22,2019,7,segunda_division
+8,Mallorca,11,3,2,2,6,6,22,2019,7,segunda_division
+9,Almería,10,3,1,3,8,7,22,2019,7,segunda_division
+10,Real Zaragoza,9,2,3,2,10,8,22,2019,7,segunda_division
+11,Real Oviedo,9,2,3,2,9,11,22,2019,7,segunda_division
+12,Osasuna,8,2,2,3,5,6,22,2019,7,segunda_division
+13,Lugo,8,2,2,3,8,9,22,2019,7,segunda_division
+14,Numancia,7,1,4,2,8,10,22,2019,7,segunda_division
+15,Tenerife,7,1,4,2,6,7,22,2019,7,segunda_division
+16,Cádiz,6,1,3,3,4,7,22,2019,7,segunda_division
+17,Rayo Majadahonda,6,2,0,5,4,11,22,2019,7,segunda_division
+18,Elche,5,0,5,2,5,8,22,2019,7,segunda_division
+19,Extremadura,5,1,2,4,9,12,22,2019,7,segunda_division
+20,Gimnàstic,5,1,2,4,4,12,22,2019,7,segunda_division
+21,Córdoba,3,0,3,4,8,18,22,2019,7,segunda_division
+22,Reus Deportiu,0,2,2,3,5,7,22,2019,7,segunda_division
+1,Málaga,19,6,1,1,10,3,22,2019,8,segunda_division
+2,Granada,17,5,2,1,16,7,22,2019,8,segunda_division
+3,Alcorcón,15,4,3,1,7,2,22,2019,8,segunda_division
+4,Las Palmas,15,4,3,1,11,4,22,2019,8,segunda_division
+5,Deportivo,15,4,3,1,11,7,22,2019,8,segunda_division
+6,Mallorca,14,4,2,2,10,7,22,2019,8,segunda_division
+7,Albacete,13,3,4,1,13,8,22,2019,8,segunda_division
+8,Real Oviedo,12,3,3,2,10,11,22,2019,8,segunda_division
+9,Real Sporting,11,3,2,3,8,6,22,2019,8,segunda_division
+10,Almería,10,3,1,4,8,8,22,2019,8,segunda_division
+11,Numancia,10,2,4,2,9,10,22,2019,8,segunda_division
+12,Real Zaragoza,10,2,4,2,11,9,22,2019,8,segunda_division
+13,Osasuna,9,2,3,3,6,7,22,2019,8,segunda_division
+14,Rayo Majadahonda,9,3,0,5,6,12,22,2019,8,segunda_division
+15,Elche,8,1,5,2,7,9,22,2019,8,segunda_division
+16,Lugo,8,2,2,4,9,11,22,2019,8,segunda_division
+17,Cádiz,7,1,4,3,5,8,22,2019,8,segunda_division
+18,Tenerife,7,1,4,3,7,11,22,2019,8,segunda_division
+19,Gimnàstic,6,1,3,4,5,13,22,2019,8,segunda_division
+20,Córdoba,6,1,3,4,9,18,22,2019,8,segunda_division
+21,Extremadura,5,1,2,5,9,13,22,2019,8,segunda_division
+22,Reus Deportiu,0,2,2,4,6,9,22,2019,8,segunda_division
+1,Málaga,22,7,1,1,12,4,22,2019,9,segunda_division
+2,Granada,20,6,2,1,17,7,22,2019,9,segunda_division
+3,Alcorcón,18,5,3,1,10,3,22,2019,9,segunda_division
+4,Deportivo,18,5,3,1,15,7,22,2019,9,segunda_division
+5,Las Palmas,15,4,3,2,11,7,22,2019,9,segunda_division
+6,Mallorca,14,4,2,3,10,8,22,2019,9,segunda_division
+7,Albacete,13,3,4,2,14,10,22,2019,9,segunda_division
+8,Almería,13,4,1,4,11,8,22,2019,9,segunda_division
+9,Numancia,13,3,4,2,10,10,22,2019,9,segunda_division
+10,Real Sporting,12,3,3,3,9,7,22,2019,9,segunda_division
+11,Osasuna,12,3,3,3,9,8,22,2019,9,segunda_division
+12,Real Oviedo,12,3,3,3,10,12,22,2019,9,segunda_division
+13,Rayo Majadahonda,12,4,0,5,7,12,22,2019,9,segunda_division
+14,Real Zaragoza,10,2,4,3,11,10,22,2019,9,segunda_division
+15,Lugo,9,2,3,4,9,11,22,2019,9,segunda_division
+16,Elche,8,1,5,3,7,13,22,2019,9,segunda_division
+17,Extremadura,8,2,2,5,11,14,22,2019,9,segunda_division
+18,Tenerife,8,1,5,3,7,11,22,2019,9,segunda_division
+19,Cádiz,7,1,4,4,6,10,22,2019,9,segunda_division
+20,Gimnàstic,6,1,3,5,6,16,22,2019,9,segunda_division
+21,Córdoba,6,1,3,5,10,21,22,2019,9,segunda_division
+22,Reus Deportiu,0,2,3,4,7,10,22,2019,9,segunda_division
+1,Málaga,22,7,1,2,12,6,22,2019,10,segunda_division
+2,Alcorcón,21,6,3,1,11,3,22,2019,10,segunda_division
+3,Granada,20,6,2,2,17,8,22,2019,10,segunda_division
+4,Deportivo,19,5,4,1,16,8,22,2019,10,segunda_division
+5,Las Palmas,18,5,3,2,14,7,22,2019,10,segunda_division
+6,Mallorca,15,4,3,3,11,9,22,2019,10,segunda_division
+7,Real Oviedo,15,4,3,3,12,13,22,2019,10,segunda_division
+8,Albacete,14,3,5,2,15,11,22,2019,10,segunda_division
+9,Almería,14,4,2,4,12,9,22,2019,10,segunda_division
+10,Real Sporting,13,3,4,3,9,7,22,2019,10,segunda_division
+11,Numancia,13,3,4,3,10,13,22,2019,10,segunda_division
+12,Osasuna,12,3,3,4,10,10,22,2019,10,segunda_division
+13,Lugo,12,3,3,4,10,11,22,2019,10,segunda_division
+14,Rayo Majadahonda,12,4,0,6,8,14,22,2019,10,segunda_division
+15,Elche,11,2,5,3,9,13,22,2019,10,segunda_division
+16,Real Zaragoza,11,2,5,3,12,11,22,2019,10,segunda_division
+17,Extremadura,9,2,3,5,12,15,22,2019,10,segunda_division
+18,Tenerife,9,1,6,3,8,12,22,2019,10,segunda_division
+19,Cádiz,8,1,5,4,6,10,22,2019,10,segunda_division
+20,Córdoba,7,1,4,5,11,22,22,2019,10,segunda_division
+21,Gimnàstic,6,1,3,6,6,17,22,2019,10,segunda_division
+22,Reus Deportiu,0,3,3,4,9,11,22,2019,10,segunda_division
+1,Málaga,25,8,1,2,14,6,22,2019,11,segunda_division
+2,Granada,23,7,2,2,18,8,22,2019,11,segunda_division
+3,Deportivo,22,6,4,1,18,8,22,2019,11,segunda_division
+4,Alcorcón,21,6,3,2,13,6,22,2019,11,segunda_division
+5,Las Palmas,19,5,4,2,16,9,22,2019,11,segunda_division
+6,Albacete,17,4,5,2,17,12,22,2019,11,segunda_division
+7,Mallorca,16,4,4,3,13,11,22,2019,11,segunda_division
+8,Real Oviedo,15,4,3,4,13,15,22,2019,11,segunda_division
+9,Almería,14,4,2,5,12,10,22,2019,11,segunda_division
+10,Real Sporting,14,3,5,3,9,7,22,2019,11,segunda_division
+11,Elche,14,3,5,3,11,13,22,2019,11,segunda_division
+12,Rayo Majadahonda,13,4,1,6,9,15,22,2019,11,segunda_division
+13,Osasuna,13,3,4,4,11,11,22,2019,11,segunda_division
+14,Numancia,13,3,4,4,10,15,22,2019,11,segunda_division
+15,Lugo,12,3,3,5,11,13,22,2019,11,segunda_division
+16,Tenerife,12,2,6,3,11,14,22,2019,11,segunda_division
+17,Cádiz,11,2,5,4,8,11,22,2019,11,segunda_division
+18,Real Zaragoza,11,2,5,4,12,13,22,2019,11,segunda_division
+19,Extremadura,9,2,3,6,13,17,22,2019,11,segunda_division
+20,Gimnàstic,9,2,3,6,8,18,22,2019,11,segunda_division
+21,Córdoba,8,1,5,5,11,22,22,2019,11,segunda_division
+22,Reus Deportiu,0,3,3,5,9,13,22,2019,11,segunda_division
+1,Granada,26,8,2,2,20,8,22,2019,12,segunda_division
+2,Málaga,25,8,1,3,15,8,22,2019,12,segunda_division
+3,Alcorcón,24,7,3,2,15,6,22,2019,12,segunda_division
+4,Deportivo,23,6,5,1,19,9,22,2019,12,segunda_division
+5,Albacete,20,5,5,2,19,12,22,2019,12,segunda_division
+6,Las Palmas,20,5,5,2,17,10,22,2019,12,segunda_division
+7,Almería,17,5,2,5,14,11,22,2019,12,segunda_division
+8,Mallorca,17,4,5,3,14,12,22,2019,12,segunda_division
+9,Osasuna,16,4,4,4,13,12,22,2019,12,segunda_division
+10,Real Oviedo,16,4,4,4,14,16,22,2019,12,segunda_division
+11,Numancia,16,4,4,4,12,15,22,2019,12,segunda_division
+12,Cádiz,14,3,5,4,13,12,22,2019,12,segunda_division
+13,Real Sporting,14,3,5,4,10,9,22,2019,12,segunda_division
+14,Elche,14,3,5,4,12,18,22,2019,12,segunda_division
+15,Lugo,13,3,4,5,11,13,22,2019,12,segunda_division
+16,Rayo Majadahonda,13,4,1,7,9,17,22,2019,12,segunda_division
+17,Tenerife,12,2,6,4,11,16,22,2019,12,segunda_division
+18,Real Zaragoza,11,2,5,5,12,15,22,2019,12,segunda_division
+19,Córdoba,11,2,5,5,15,24,22,2019,12,segunda_division
+20,Extremadura,9,2,3,7,15,21,22,2019,12,segunda_division
+21,Gimnàstic,9,2,3,7,8,20,22,2019,12,segunda_division
+22,Reus Deportiu,0,3,4,5,9,13,22,2019,12,segunda_division
+1,Granada,27,8,3,2,20,8,22,2019,13,segunda_division
+2,Alcorcón,27,8,3,2,16,6,22,2019,13,segunda_division
+3,Deportivo,26,7,5,1,23,9,22,2019,13,segunda_division
+4,Málaga,26,8,2,3,17,10,22,2019,13,segunda_division
+5,Albacete,21,5,6,2,19,12,22,2019,13,segunda_division
+6,Las Palmas,21,5,6,2,17,10,22,2019,13,segunda_division
+7,Mallorca,20,5,5,3,17,12,22,2019,13,segunda_division
+8,Osasuna,19,5,4,4,16,14,22,2019,13,segunda_division
+9,Cádiz,17,4,5,4,15,12,22,2019,13,segunda_division
+10,Almería,17,5,2,6,14,13,22,2019,13,segunda_division
+11,Numancia,17,4,5,4,12,15,22,2019,13,segunda_division
+12,Real Oviedo,16,4,4,5,14,20,22,2019,13,segunda_division
+13,Rayo Majadahonda,16,5,1,7,11,17,22,2019,13,segunda_division
+14,Real Sporting,15,3,6,4,12,11,22,2019,13,segunda_division
+15,Elche,15,3,6,4,12,18,22,2019,13,segunda_division
+16,Real Zaragoza,14,3,5,5,15,16,22,2019,13,segunda_division
+17,Lugo,13,3,4,6,11,14,22,2019,13,segunda_division
+18,Tenerife,13,2,7,4,11,16,22,2019,13,segunda_division
+19,Córdoba,11,2,5,6,15,27,22,2019,13,segunda_division
+20,Extremadura,9,2,3,8,17,24,22,2019,13,segunda_division
+21,Gimnàstic,9,2,3,8,9,23,22,2019,13,segunda_division
+22,Reus Deportiu,0,3,4,6,9,15,22,2019,13,segunda_division
+1,Alcorcón,30,9,3,2,17,6,22,2019,14,segunda_division
+2,Málaga,29,9,2,3,19,10,22,2019,14,segunda_division
+3,Granada,28,8,4,2,22,10,22,2019,14,segunda_division
+4,Deportivo,27,7,6,1,24,10,22,2019,14,segunda_division
+5,Albacete,24,6,6,2,20,12,22,2019,14,segunda_division
+6,Las Palmas,22,5,7,2,19,12,22,2019,14,segunda_division
+7,Osasuna,22,6,4,4,18,14,22,2019,14,segunda_division
+8,Mallorca,21,5,6,3,19,14,22,2019,14,segunda_division
+9,Cádiz,20,5,5,4,18,13,22,2019,14,segunda_division
+10,Real Oviedo,19,5,4,5,16,21,22,2019,14,segunda_division
+11,Rayo Majadahonda,19,6,1,7,13,18,22,2019,14,segunda_division
+12,Almería,18,5,3,6,15,14,22,2019,14,segunda_division
+13,Numancia,17,4,5,5,13,17,22,2019,14,segunda_division
+14,Real Zaragoza,15,3,6,5,17,18,22,2019,14,segunda_division
+15,Elche,15,3,6,5,12,19,22,2019,14,segunda_division
+16,Real Sporting,15,3,6,5,13,13,22,2019,14,segunda_division
+17,Lugo,13,3,4,7,11,15,22,2019,14,segunda_division
+18,Tenerife,13,2,7,5,11,18,22,2019,14,segunda_division
+19,Extremadura,12,3,3,8,21,25,22,2019,14,segunda_division
+20,Córdoba,11,2,5,7,16,30,22,2019,14,segunda_division
+21,Gimnàstic,9,2,3,9,9,25,22,2019,14,segunda_division
+22,Reus Deportiu,0,3,4,7,10,19,22,2019,14,segunda_division
+1,Alcorcón,33,10,3,2,19,6,22,2019,15,segunda_division
+2,Deportivo,30,8,6,1,26,10,22,2019,15,segunda_division
+3,Málaga,29,9,2,4,19,11,22,2019,15,segunda_division
+4,Granada,28,8,4,3,23,12,22,2019,15,segunda_division
+5,Albacete,27,7,6,2,21,12,22,2019,15,segunda_division
+6,Mallorca,24,6,6,3,20,14,22,2019,15,segunda_division
+7,Cádiz,23,6,5,4,22,14,22,2019,15,segunda_division
+8,Las Palmas,22,5,7,3,20,16,22,2019,15,segunda_division
+9,Osasuna,22,6,4,5,18,16,22,2019,15,segunda_division
+10,Real Oviedo,22,6,4,5,19,21,22,2019,15,segunda_division
+11,Rayo Majadahonda,19,6,1,8,14,20,22,2019,15,segunda_division
+12,Almería,19,5,4,6,17,16,22,2019,15,segunda_division
+13,Real Sporting,18,4,6,5,15,14,22,2019,15,segunda_division
+14,Numancia,17,4,5,6,13,18,22,2019,15,segunda_division
+15,Lugo,16,4,4,7,13,16,22,2019,15,segunda_division
+16,Tenerife,16,3,7,5,13,19,22,2019,15,segunda_division
+17,Real Zaragoza,15,3,6,6,17,20,22,2019,15,segunda_division
+18,Elche,15,3,6,6,12,20,22,2019,15,segunda_division
+19,Extremadura,15,4,3,8,22,25,22,2019,15,segunda_division
+20,Córdoba,11,2,5,8,17,32,22,2019,15,segunda_division
+21,Gimnàstic,10,2,4,9,11,27,22,2019,15,segunda_division
+22,Reus Deportiu,0,3,4,8,10,22,22,2019,15,segunda_division
+1,Alcorcón,33,10,3,3,20,8,22,2019,16,segunda_division
+2,Deportivo,31,8,7,1,26,10,22,2019,16,segunda_division
+3,Granada,31,9,4,3,24,12,22,2019,16,segunda_division
+4,Albacete,30,8,6,2,23,13,22,2019,16,segunda_division
+5,Málaga,29,9,2,5,19,12,22,2019,16,segunda_division
+6,Mallorca,27,7,6,3,22,14,22,2019,16,segunda_division
+7,Cádiz,26,7,5,4,23,14,22,2019,16,segunda_division
+8,Osasuna,25,7,4,5,19,16,22,2019,16,segunda_division
+9,Las Palmas,23,5,8,3,20,16,22,2019,16,segunda_division
+10,Real Oviedo,23,6,5,5,19,21,22,2019,16,segunda_division
+11,Real Sporting,21,5,6,5,17,15,22,2019,16,segunda_division
+12,Rayo Majadahonda,20,6,2,8,14,20,22,2019,16,segunda_division
+13,Almería,20,5,5,6,18,17,22,2019,16,segunda_division
+14,Numancia,20,5,5,6,16,18,22,2019,16,segunda_division
+15,Elche,16,3,7,6,13,21,22,2019,16,segunda_division
+16,Extremadura,16,4,4,8,23,26,22,2019,16,segunda_division
+17,Tenerife,16,3,7,6,14,21,22,2019,16,segunda_division
+18,Lugo,16,4,4,8,13,17,22,2019,16,segunda_division
+19,Real Zaragoza,15,3,6,7,17,21,22,2019,16,segunda_division
+20,Córdoba,12,2,6,8,18,33,22,2019,16,segunda_division
+21,Gimnàstic,10,2,4,10,11,30,22,2019,16,segunda_division
+22,Reus Deportiu,0,3,4,9,10,24,22,2019,16,segunda_division
+1,Granada,34,10,4,3,25,12,22,2019,17,segunda_division
+2,Alcorcón,33,10,3,4,20,9,22,2019,17,segunda_division
+3,Deportivo,32,8,8,1,28,12,22,2019,17,segunda_division
+4,Málaga,32,10,2,5,21,13,22,2019,17,segunda_division
+5,Albacete,31,8,7,2,25,15,22,2019,17,segunda_division
+6,Cádiz,29,8,5,4,24,14,22,2019,17,segunda_division
+7,Mallorca,27,7,6,4,23,16,22,2019,17,segunda_division
+8,Osasuna,26,7,5,5,21,18,22,2019,17,segunda_division
+9,Almería,23,6,5,6,20,18,22,2019,17,segunda_division
+10,Real Oviedo,23,6,5,6,20,23,22,2019,17,segunda_division
+11,Las Palmas,23,5,8,4,22,20,22,2019,17,segunda_division
+12,Real Sporting,22,5,7,5,17,15,22,2019,17,segunda_division
+13,Numancia,21,5,6,6,18,20,22,2019,17,segunda_division
+14,Rayo Majadahonda,20,6,2,9,14,21,22,2019,17,segunda_division
+15,Lugo,19,5,4,8,17,19,22,2019,17,segunda_division
+16,Elche,17,3,8,6,13,21,22,2019,17,segunda_division
+17,Extremadura,17,4,5,8,23,26,22,2019,17,segunda_division
+18,Tenerife,17,3,8,6,14,21,22,2019,17,segunda_division
+19,Real Zaragoza,16,3,7,7,17,21,22,2019,17,segunda_division
+20,Córdoba,13,2,7,8,18,33,22,2019,17,segunda_division
+21,Gimnàstic,10,2,4,11,11,31,22,2019,17,segunda_division
+22,Reus Deportiu,0,4,4,9,11,24,22,2019,17,segunda_division
+1,Granada,37,11,4,3,26,12,22,2019,18,segunda_division
+2,Deportivo,35,9,8,1,31,13,22,2019,18,segunda_division
+3,Málaga,35,11,2,5,22,13,22,2019,18,segunda_division
+4,Albacete,34,9,7,2,27,16,22,2019,18,segunda_division
+5,Alcorcón,33,10,3,5,21,11,22,2019,18,segunda_division
+6,Osasuna,29,8,5,5,23,19,22,2019,18,segunda_division
+7,Cádiz,29,8,5,5,24,15,22,2019,18,segunda_division
+8,Mallorca,27,7,6,5,23,17,22,2019,18,segunda_division
+9,Real Sporting,25,6,7,5,18,15,22,2019,18,segunda_division
+10,Almería,24,6,6,6,21,19,22,2019,18,segunda_division
+11,Las Palmas,24,5,9,4,23,21,22,2019,18,segunda_division
+12,Real Oviedo,23,6,5,7,20,24,22,2019,18,segunda_division
+13,Numancia,21,5,6,7,19,22,22,2019,18,segunda_division
+14,Elche,20,4,8,6,16,22,22,2019,18,segunda_division
+15,Lugo,20,5,5,8,18,20,22,2019,18,segunda_division
+16,Rayo Majadahonda,20,6,2,10,15,24,22,2019,18,segunda_division
+17,Tenerife,18,3,9,6,15,22,22,2019,18,segunda_division
+18,Extremadura,17,4,5,9,23,27,22,2019,18,segunda_division
+19,Real Zaragoza,16,3,7,8,18,24,22,2019,18,segunda_division
+20,Córdoba,14,2,8,8,19,34,22,2019,18,segunda_division
+21,Gimnàstic,13,3,4,11,12,31,22,2019,18,segunda_division
+22,Reus Deportiu,0,4,5,9,12,25,22,2019,18,segunda_division
+1,Granada,38,11,5,3,27,13,22,2019,19,segunda_division
+2,Albacete,37,10,7,2,28,16,22,2019,19,segunda_division
+3,Málaga,36,11,3,5,22,13,22,2019,19,segunda_division
+4,Deportivo,35,9,8,2,31,16,22,2019,19,segunda_division
+5,Alcorcón,34,10,4,5,22,12,22,2019,19,segunda_division
+6,Osasuna,32,9,5,5,24,19,22,2019,19,segunda_division
+7,Cádiz,32,9,5,5,27,15,22,2019,19,segunda_division
+8,Mallorca,30,8,6,5,25,17,22,2019,19,segunda_division
+9,Real Sporting,26,6,8,5,18,15,22,2019,19,segunda_division
+10,Almería,25,6,7,6,23,21,22,2019,19,segunda_division
+11,Las Palmas,24,5,9,5,24,25,22,2019,19,segunda_division
+12,Real Oviedo,24,6,6,7,20,24,22,2019,19,segunda_division
+13,Numancia,22,5,7,7,20,23,22,2019,19,segunda_division
+14,Elche,21,4,9,6,18,24,22,2019,19,segunda_division
+15,Lugo,21,5,6,8,18,20,22,2019,19,segunda_division
+16,Rayo Majadahonda,20,6,2,11,15,25,22,2019,19,segunda_division
+17,Real Zaragoza,19,4,7,8,20,25,22,2019,19,segunda_division
+18,Tenerife,19,3,10,6,16,23,22,2019,19,segunda_division
+19,Extremadura,17,4,5,10,24,29,22,2019,19,segunda_division
+20,Córdoba,17,3,8,8,23,35,22,2019,19,segunda_division
+21,Gimnàstic,13,3,4,12,12,33,22,2019,19,segunda_division
+22,Reus Deportiu,0,4,5,10,12,26,22,2019,19,segunda_division
+1,Granada,39,11,6,3,28,14,22,2019,20,segunda_division
+2,Albacete,38,10,8,2,29,17,22,2019,20,segunda_division
+3,Deportivo,36,9,9,2,31,16,22,2019,20,segunda_division
+4,Málaga,36,11,3,6,22,16,22,2019,20,segunda_division
+5,Osasuna,35,10,5,5,26,20,22,2019,20,segunda_division
+6,Alcorcón,34,10,4,6,22,15,22,2019,20,segunda_division
+7,Cádiz,32,9,5,6,28,17,22,2019,20,segunda_division
+8,Mallorca,30,8,6,6,25,19,22,2019,20,segunda_division
+9,Almería,28,7,7,6,25,21,22,2019,20,segunda_division
+10,Real Oviedo,27,7,6,7,23,26,22,2019,20,segunda_division
+11,Real Sporting,26,6,8,6,19,17,22,2019,20,segunda_division
+12,Las Palmas,25,5,10,5,24,25,22,2019,20,segunda_division
+13,Lugo,22,5,7,8,18,20,22,2019,20,segunda_division
+14,Numancia,22,5,7,8,22,26,22,2019,20,segunda_division
+15,Real Zaragoza,22,5,7,8,22,26,22,2019,20,segunda_division
+16,Tenerife,22,4,10,6,18,24,22,2019,20,segunda_division
+17,Elche,21,4,9,7,19,26,22,2019,20,segunda_division
+18,Rayo Majadahonda,21,6,3,11,15,25,22,2019,20,segunda_division
+19,Extremadura,20,5,5,10,27,29,22,2019,20,segunda_division
+20,Córdoba,17,3,8,9,23,36,22,2019,20,segunda_division
+21,Gimnàstic,16,4,4,12,13,33,22,2019,20,segunda_division
+22,Reus Deportiu,0,5,5,10,15,26,22,2019,20,segunda_division
+1,Granada,40,11,7,3,28,14,22,2019,21,segunda_division
+2,Málaga,39,12,3,6,24,16,22,2019,21,segunda_division
+3,Albacete,39,10,9,2,30,18,22,2019,21,segunda_division
+4,Deportivo,36,9,9,3,31,17,22,2019,21,segunda_division
+5,Osasuna,35,10,5,6,27,24,22,2019,21,segunda_division
+6,Alcorcón,35,10,5,6,22,15,22,2019,21,segunda_division
+7,Mallorca,33,9,6,6,26,19,22,2019,21,segunda_division
+8,Cádiz,33,9,6,6,28,17,22,2019,21,segunda_division
+9,Real Oviedo,30,8,6,7,24,26,22,2019,21,segunda_division
+10,Almería,29,7,8,6,25,21,22,2019,21,segunda_division
+11,Las Palmas,28,6,10,5,28,26,22,2019,21,segunda_division
+12,Real Sporting,27,6,9,6,20,18,22,2019,21,segunda_division
+13,Elche,24,5,9,7,20,26,22,2019,21,segunda_division
+14,Numancia,23,5,8,8,23,27,22,2019,21,segunda_division
+15,Lugo,23,5,8,8,19,21,22,2019,21,segunda_division
+16,Real Zaragoza,22,5,7,9,22,28,22,2019,21,segunda_division
+17,Tenerife,22,4,10,7,18,25,22,2019,21,segunda_division
+18,Rayo Majadahonda,22,6,4,11,16,26,22,2019,21,segunda_division
+19,Extremadura,21,5,6,10,28,30,22,2019,21,segunda_division
+20,Córdoba,18,3,9,9,24,37,22,2019,21,segunda_division
+21,Gimnàstic,16,4,4,13,13,34,22,2019,21,segunda_division
+22,Reus Deportiu,0,5,6,10,16,27,22,2019,21,segunda_division
+1,Granada,43,12,7,3,30,15,22,2019,22,segunda_division
+2,Málaga,42,13,3,6,26,17,22,2019,22,segunda_division
+3,Deportivo,39,10,9,3,33,17,22,2019,22,segunda_division
+4,Albacete,39,10,9,3,30,20,22,2019,22,segunda_division
+5,Osasuna,38,11,5,6,29,24,22,2019,22,segunda_division
+6,Alcorcón,35,10,5,7,22,17,22,2019,22,segunda_division
+7,Cádiz,34,9,7,6,28,17,22,2019,22,segunda_division
+8,Mallorca,33,9,6,7,26,21,22,2019,22,segunda_division
+9,Real Oviedo,33,9,6,7,26,26,22,2019,22,segunda_division
+10,Las Palmas,31,7,10,5,29,26,22,2019,22,segunda_division
+11,Almería,30,7,9,6,25,21,22,2019,22,segunda_division
+12,Real Sporting,30,7,9,6,22,18,22,2019,22,segunda_division
+13,Numancia,26,6,8,8,26,29,22,2019,22,segunda_division
+14,Tenerife,25,5,10,7,20,25,22,2019,22,segunda_division
+15,Elche,24,5,9,8,21,28,22,2019,22,segunda_division
+16,Real Zaragoza,23,5,8,9,24,30,22,2019,22,segunda_division
+17,Lugo,23,5,8,9,20,23,22,2019,22,segunda_division
+18,Rayo Majadahonda,23,6,5,11,18,28,22,2019,22,segunda_division
+19,Extremadura,21,5,6,11,28,32,22,2019,22,segunda_division
+20,Córdoba,18,3,9,10,26,40,22,2019,22,segunda_division
+21,Gimnàstic,16,4,4,14,13,36,22,2019,22,segunda_division
+22,Reus Deportiu,0,5,6,11,16,28,22,2019,22,segunda_division
+1,Granada,44,12,8,3,30,15,22,2019,23,segunda_division
+2,Málaga,43,13,4,6,26,17,22,2019,23,segunda_division
+3,Deportivo,42,11,9,3,35,18,22,2019,23,segunda_division
+4,Albacete,42,11,9,3,31,20,22,2019,23,segunda_division
+5,Osasuna,41,12,5,6,30,24,22,2019,23,segunda_division
+6,Alcorcón,38,11,5,7,24,18,22,2019,23,segunda_division
+7,Cádiz,35,9,8,6,29,18,22,2019,23,segunda_division
+8,Mallorca,34,9,7,7,27,22,22,2019,23,segunda_division
+9,Real Oviedo,33,9,6,8,26,28,22,2019,23,segunda_division
+10,Las Palmas,32,7,11,5,29,26,22,2019,23,segunda_division
+11,Almería,30,7,9,7,25,22,22,2019,23,segunda_division
+12,Real Sporting,30,7,9,7,23,20,22,2019,23,segunda_division
+13,Numancia,27,6,9,8,27,30,22,2019,23,segunda_division
+14,Lugo,26,6,8,9,23,25,22,2019,23,segunda_division
+15,Real Zaragoza,26,6,8,9,26,30,22,2019,23,segunda_division
+16,Tenerife,26,5,11,7,20,25,22,2019,23,segunda_division
+17,Elche,25,5,10,8,22,29,22,2019,23,segunda_division
+18,Rayo Majadahonda,23,6,5,12,20,31,22,2019,23,segunda_division
+19,Extremadura,22,5,7,11,28,32,22,2019,23,segunda_division
+20,Córdoba,18,3,9,11,27,42,22,2019,23,segunda_division
+21,Gimnàstic,17,4,5,14,13,36,22,2019,23,segunda_division
+22,Reus Deportiu,0,5,6,12,16,29,22,2019,23,segunda_division
+1,Albacete,45,12,9,3,34,21,22,2019,24,segunda_division
+2,Granada,44,12,8,4,30,16,22,2019,24,segunda_division
+3,Osasuna,44,13,5,6,31,24,22,2019,24,segunda_division
+4,Málaga,44,13,5,6,27,18,22,2019,24,segunda_division
+5,Deportivo,43,11,10,3,35,18,22,2019,24,segunda_division
+6,Alcorcón,38,11,5,8,24,20,22,2019,24,segunda_division
+7,Mallorca,37,10,7,7,29,22,22,2019,24,segunda_division
+8,Real Oviedo,36,10,6,8,28,29,22,2019,24,segunda_division
+9,Cádiz,35,9,8,7,30,20,22,2019,24,segunda_division
+10,Real Sporting,33,8,9,7,26,20,22,2019,24,segunda_division
+11,Las Palmas,33,7,12,5,30,27,22,2019,24,segunda_division
+12,Almería,31,7,10,7,26,23,22,2019,24,segunda_division
+13,Numancia,30,7,9,8,30,30,22,2019,24,segunda_division
+14,Elche,28,6,10,8,23,29,22,2019,24,segunda_division
+15,Real Zaragoza,27,6,9,9,27,31,22,2019,24,segunda_division
+16,Tenerife,27,5,12,7,20,25,22,2019,24,segunda_division
+17,Lugo,26,6,8,10,23,28,22,2019,24,segunda_division
+18,Rayo Majadahonda,26,7,5,12,21,31,22,2019,24,segunda_division
+19,Extremadura,22,5,7,12,28,35,22,2019,24,segunda_division
+20,Córdoba,18,3,9,12,28,45,22,2019,24,segunda_division
+21,Gimnàstic,17,4,5,15,13,37,22,2019,24,segunda_division
+22,Reus Deportiu,0,5,6,13,16,30,22,2019,24,segunda_division
+1,Albacete,48,13,9,3,36,21,22,2019,25,segunda_division
+2,Osasuna,47,14,5,6,33,24,22,2019,25,segunda_division
+3,Deportivo,46,12,10,3,36,18,22,2019,25,segunda_division
+4,Málaga,45,13,6,6,27,18,22,2019,25,segunda_division
+5,Granada,44,12,8,5,30,17,22,2019,25,segunda_division
+6,Real Oviedo,39,11,6,8,30,30,22,2019,25,segunda_division
+7,Alcorcón,38,11,5,9,25,22,22,2019,25,segunda_division
+8,Cádiz,38,10,8,7,32,21,22,2019,25,segunda_division
+9,Mallorca,37,10,7,8,29,24,22,2019,25,segunda_division
+10,Almería,34,8,10,7,27,23,22,2019,25,segunda_division
+11,Las Palmas,34,7,13,5,30,27,22,2019,25,segunda_division
+12,Real Sporting,33,8,9,8,26,22,22,2019,25,segunda_division
+13,Numancia,30,7,9,9,30,31,22,2019,25,segunda_division
+14,Real Zaragoza,30,7,9,9,29,32,22,2019,25,segunda_division
+15,Elche,28,6,10,9,24,31,22,2019,25,segunda_division
+16,Tenerife,27,5,12,8,20,27,22,2019,25,segunda_division
+17,Rayo Majadahonda,27,7,6,12,22,32,22,2019,25,segunda_division
+18,Lugo,26,6,8,11,24,30,22,2019,25,segunda_division
+19,Extremadura,23,5,8,12,29,36,22,2019,25,segunda_division
+20,Córdoba,21,4,9,12,30,45,22,2019,25,segunda_division
+21,Gimnàstic,20,5,5,15,14,37,22,2019,25,segunda_division
+22,Reus Deportiu,0,5,6,14,16,31,22,2019,25,segunda_division
+1,Albacete,49,13,10,3,36,21,22,2019,26,segunda_division
+2,Osasuna,48,14,6,6,34,25,22,2019,26,segunda_division
+3,Málaga,48,14,6,6,28,18,22,2019,26,segunda_division
+4,Deportivo,47,12,11,3,37,19,22,2019,26,segunda_division
+5,Granada,47,13,8,5,32,18,22,2019,26,segunda_division
+6,Real Oviedo,42,12,6,8,31,30,22,2019,26,segunda_division
+7,Cádiz,41,11,8,7,34,21,22,2019,26,segunda_division
+8,Mallorca,40,11,7,8,32,24,22,2019,26,segunda_division
+9,Alcorcón,38,11,5,10,25,23,22,2019,26,segunda_division
+10,Almería,37,9,10,7,28,23,22,2019,26,segunda_division
+11,Las Palmas,37,8,13,5,31,27,22,2019,26,segunda_division
+12,Real Sporting,33,8,9,9,26,23,22,2019,26,segunda_division
+13,Numancia,31,7,10,9,31,32,22,2019,26,segunda_division
+14,Elche,31,7,10,9,26,31,22,2019,26,segunda_division
+15,Real Zaragoza,31,7,10,9,29,32,22,2019,26,segunda_division
+16,Tenerife,27,5,12,9,20,29,22,2019,26,segunda_division
+17,Rayo Majadahonda,27,7,6,13,22,33,22,2019,26,segunda_division
+18,Lugo,26,6,8,12,24,33,22,2019,26,segunda_division
+19,Extremadura,23,5,8,13,29,38,22,2019,26,segunda_division
+20,Córdoba,21,4,9,13,31,47,22,2019,26,segunda_division
+21,Gimnàstic,21,5,6,15,15,38,22,2019,26,segunda_division
+22,Reus Deportiu,0,5,6,15,16,32,22,2019,26,segunda_division
+1,Osasuna,51,15,6,6,35,25,22,2019,27,segunda_division
+2,Granada,50,14,8,5,33,18,22,2019,27,segunda_division
+3,Albacete,50,13,11,3,36,21,22,2019,27,segunda_division
+4,Málaga,49,14,7,6,28,18,22,2019,27,segunda_division
+5,Deportivo,48,12,12,3,37,19,22,2019,27,segunda_division
+6,Cádiz,44,12,8,7,37,23,22,2019,27,segunda_division
+7,Real Oviedo,43,12,7,8,31,30,22,2019,27,segunda_division
+8,Mallorca,41,11,8,8,34,26,22,2019,27,segunda_division
+9,Alcorcón,41,12,5,10,27,23,22,2019,27,segunda_division
+10,Almería,40,10,10,7,31,24,22,2019,27,segunda_division
+11,Las Palmas,37,8,13,6,31,29,22,2019,27,segunda_division
+12,Numancia,34,8,10,9,32,32,22,2019,27,segunda_division
+13,Real Sporting,33,8,9,10,28,26,22,2019,27,segunda_division
+14,Elche,32,7,11,9,28,33,22,2019,27,segunda_division
+15,Real Zaragoza,31,7,10,10,29,33,22,2019,27,segunda_division
+16,Rayo Majadahonda,30,8,6,13,25,35,22,2019,27,segunda_division
+17,Tenerife,28,5,13,9,22,31,22,2019,27,segunda_division
+18,Lugo,27,6,9,12,26,35,22,2019,27,segunda_division
+19,Extremadura,23,5,8,14,29,39,22,2019,27,segunda_division
+20,Córdoba,21,4,9,14,32,50,22,2019,27,segunda_division
+21,Gimnàstic,21,5,6,16,17,41,22,2019,27,segunda_division
+22,Reus Deportiu,0,5,6,16,16,33,22,2019,27,segunda_division
+1,Osasuna,54,16,6,6,36,25,22,2019,28,segunda_division
+2,Granada,53,15,8,5,36,18,22,2019,28,segunda_division
+3,Málaga,50,14,8,6,29,19,22,2019,28,segunda_division
+4,Albacete,50,13,11,4,36,22,22,2019,28,segunda_division
+5,Deportivo,49,12,13,3,39,21,22,2019,28,segunda_division
+6,Cádiz,47,13,8,7,38,23,22,2019,28,segunda_division
+7,Real Oviedo,44,12,8,8,32,31,22,2019,28,segunda_division
+8,Almería,43,11,10,7,33,25,22,2019,28,segunda_division
+9,Mallorca,42,11,9,8,35,27,22,2019,28,segunda_division
+10,Alcorcón,42,12,6,10,29,25,22,2019,28,segunda_division
+11,Las Palmas,38,8,14,6,32,30,22,2019,28,segunda_division
+12,Real Sporting,36,9,9,10,30,27,22,2019,28,segunda_division
+13,Numancia,34,8,10,10,33,34,22,2019,28,segunda_division
+14,Elche,33,7,12,9,29,34,22,2019,28,segunda_division
+15,Real Zaragoza,31,7,10,11,30,35,22,2019,28,segunda_division
+16,Tenerife,31,6,13,9,23,31,22,2019,28,segunda_division
+17,Rayo Majadahonda,30,8,6,14,25,38,22,2019,28,segunda_division
+18,Lugo,28,6,10,12,27,36,22,2019,28,segunda_division
+19,Extremadura,24,5,9,14,30,40,22,2019,28,segunda_division
+20,Córdoba,22,4,10,14,33,51,22,2019,28,segunda_division
+21,Gimnàstic,21,5,6,17,17,42,22,2019,28,segunda_division
+22,Reus Deportiu,0,5,6,17,16,34,22,2019,28,segunda_division
+1,Osasuna,57,17,6,6,38,26,22,2019,29,segunda_division
+2,Granada,56,16,8,5,37,18,22,2019,29,segunda_division
+3,Málaga,50,14,8,7,30,21,22,2019,29,segunda_division
+4,Albacete,50,13,11,5,36,23,22,2019,29,segunda_division
+5,Deportivo,49,12,13,4,39,22,22,2019,29,segunda_division
+6,Cádiz,47,13,8,8,38,24,22,2019,29,segunda_division
+7,Mallorca,45,12,9,8,36,27,22,2019,29,segunda_division
+8,Real Oviedo,44,12,8,9,32,32,22,2019,29,segunda_division
+9,Almería,43,11,10,8,33,26,22,2019,29,segunda_division
+10,Alcorcón,42,12,6,11,29,27,22,2019,29,segunda_division
+11,Las Palmas,41,9,14,6,33,30,22,2019,29,segunda_division
+12,Real Sporting,39,10,9,10,31,27,22,2019,29,segunda_division
+13,Elche,36,8,12,9,30,34,22,2019,29,segunda_division
+14,Numancia,35,8,11,10,34,35,22,2019,29,segunda_division
+15,Rayo Majadahonda,33,9,6,14,27,38,22,2019,29,segunda_division
+16,Tenerife,32,6,14,9,24,32,22,2019,29,segunda_division
+17,Lugo,31,7,10,12,28,36,22,2019,29,segunda_division
+18,Real Zaragoza,31,7,10,12,30,36,22,2019,29,segunda_division
+19,Extremadura,27,6,9,14,33,40,22,2019,29,segunda_division
+20,Gimnàstic,24,6,6,17,18,42,22,2019,29,segunda_division
+21,Córdoba,22,4,10,15,33,54,22,2019,29,segunda_division
+22,Reus Deportiu,0,5,6,18,16,35,22,2019,29,segunda_division
+1,Osasuna,60,18,6,6,41,26,22,2019,30,segunda_division
+2,Granada,57,16,9,5,37,18,22,2019,30,segunda_division
+3,Albacete,53,14,11,5,37,23,22,2019,30,segunda_division
+4,Deportivo,52,13,13,4,40,22,22,2019,30,segunda_division
+5,Málaga,51,14,9,7,31,22,22,2019,30,segunda_division
+6,Mallorca,48,13,9,8,38,28,22,2019,30,segunda_division
+7,Cádiz,48,13,9,8,39,25,22,2019,30,segunda_division
+8,Real Oviedo,47,13,8,9,34,32,22,2019,30,segunda_division
+9,Almería,44,11,11,8,33,26,22,2019,30,segunda_division
+10,Alcorcón,43,12,7,11,30,28,22,2019,30,segunda_division
+11,Real Sporting,42,11,9,10,33,28,22,2019,30,segunda_division
+12,Las Palmas,41,9,14,7,34,32,22,2019,30,segunda_division
+13,Numancia,36,8,12,10,35,36,22,2019,30,segunda_division
+14,Elche,36,8,12,10,30,35,22,2019,30,segunda_division
+15,Real Zaragoza,34,8,10,12,31,36,22,2019,30,segunda_division
+16,Tenerife,33,6,15,9,25,33,22,2019,30,segunda_division
+17,Rayo Majadahonda,33,9,6,15,27,41,22,2019,30,segunda_division
+18,Lugo,32,7,11,12,29,37,22,2019,30,segunda_division
+19,Extremadura,27,6,9,15,33,41,22,2019,30,segunda_division
+20,Gimnàstic,24,6,6,18,18,44,22,2019,30,segunda_division
+21,Córdoba,22,4,10,16,34,56,22,2019,30,segunda_division
+22,Reus Deportiu,0,5,6,19,16,36,22,2019,30,segunda_division
+1,Osasuna,60,18,6,7,43,29,22,2019,31,segunda_division
+2,Granada,58,16,10,5,38,19,22,2019,31,segunda_division
+3,Albacete,56,15,11,5,40,23,22,2019,31,segunda_division
+4,Málaga,54,15,9,7,32,22,22,2019,31,segunda_division
+5,Deportivo,53,13,14,4,40,22,22,2019,31,segunda_division
+6,Mallorca,51,14,9,8,41,28,22,2019,31,segunda_division
+7,Cádiz,49,13,10,8,40,26,22,2019,31,segunda_division
+8,Real Oviedo,47,13,8,10,34,33,22,2019,31,segunda_division
+9,Almería,45,11,12,8,33,26,22,2019,31,segunda_division
+10,Real Sporting,45,12,9,10,34,28,22,2019,31,segunda_division
+11,Alcorcón,43,12,7,12,31,31,22,2019,31,segunda_division
+12,Las Palmas,42,9,15,7,35,33,22,2019,31,segunda_division
+13,Elche,39,9,12,10,33,36,22,2019,31,segunda_division
+14,Tenerife,36,7,15,9,28,35,22,2019,31,segunda_division
+15,Rayo Majadahonda,36,10,6,15,31,41,22,2019,31,segunda_division
+16,Numancia,36,8,12,11,35,40,22,2019,31,segunda_division
+17,Real Zaragoza,34,8,10,13,31,39,22,2019,31,segunda_division
+18,Lugo,32,7,11,13,29,40,22,2019,31,segunda_division
+19,Extremadura,30,7,9,15,34,41,22,2019,31,segunda_division
+20,Gimnàstic,24,6,6,19,18,45,22,2019,31,segunda_division
+21,Córdoba,23,4,11,16,35,57,22,2019,31,segunda_division
+22,Reus Deportiu,0,5,6,20,16,37,22,2019,31,segunda_division
+1,Osasuna,63,19,6,7,44,29,22,2019,32,segunda_division
+2,Granada,58,16,10,6,39,21,22,2019,32,segunda_division
+3,Albacete,57,15,12,5,42,25,22,2019,32,segunda_division
+4,Málaga,55,15,10,7,33,23,22,2019,32,segunda_division
+5,Deportivo,54,13,15,4,41,23,22,2019,32,segunda_division
+6,Cádiz,52,14,10,8,41,26,22,2019,32,segunda_division
+7,Mallorca,51,14,9,9,43,31,22,2019,32,segunda_division
+8,Real Oviedo,48,13,9,10,35,34,22,2019,32,segunda_division
+9,Almería,46,11,13,8,35,28,22,2019,32,segunda_division
+10,Real Sporting,46,12,10,10,35,29,22,2019,32,segunda_division
+11,Alcorcón,44,12,8,12,31,31,22,2019,32,segunda_division
+12,Elche,42,10,12,10,34,36,22,2019,32,segunda_division
+13,Las Palmas,42,9,15,8,35,34,22,2019,32,segunda_division
+14,Numancia,39,9,12,11,37,41,22,2019,32,segunda_division
+15,Real Zaragoza,37,9,10,13,34,39,22,2019,32,segunda_division
+16,Tenerife,37,7,16,9,30,37,22,2019,32,segunda_division
+17,Rayo Majadahonda,37,10,7,15,33,43,22,2019,32,segunda_division
+18,Lugo,33,7,12,13,29,40,22,2019,32,segunda_division
+19,Extremadura,30,7,9,16,34,42,22,2019,32,segunda_division
+20,Córdoba,26,5,11,16,38,59,22,2019,32,segunda_division
+21,Gimnàstic,24,6,6,20,18,48,22,2019,32,segunda_division
+22,Reus Deportiu,0,5,6,21,16,38,22,2019,32,segunda_division
+1,Osasuna,64,19,7,7,46,31,22,2019,33,segunda_division
+2,Granada,61,17,10,6,40,21,22,2019,33,segunda_division
+3,Albacete,60,16,12,5,43,25,22,2019,33,segunda_division
+4,Málaga,55,15,10,8,33,24,22,2019,33,segunda_division
+5,Deportivo,54,13,15,5,41,25,22,2019,33,segunda_division
+6,Mallorca,54,15,9,9,44,31,22,2019,33,segunda_division
+7,Cádiz,53,14,11,8,44,29,22,2019,33,segunda_division
+8,Real Sporting,49,13,10,10,36,29,22,2019,33,segunda_division
+9,Real Oviedo,49,13,10,10,36,35,22,2019,33,segunda_division
+10,Almería,46,11,13,9,35,29,22,2019,33,segunda_division
+11,Elche,45,11,12,10,35,36,22,2019,33,segunda_division
+12,Alcorcón,44,12,8,13,31,32,22,2019,33,segunda_division
+13,Las Palmas,43,9,16,8,36,35,22,2019,33,segunda_division
+14,Rayo Majadahonda,40,11,7,15,35,43,22,2019,33,segunda_division
+15,Numancia,39,9,12,12,37,43,22,2019,33,segunda_division
+16,Real Zaragoza,38,9,11,13,37,42,22,2019,33,segunda_division
+17,Tenerife,37,7,16,10,30,38,22,2019,33,segunda_division
+18,Lugo,34,7,13,13,31,42,22,2019,33,segunda_division
+19,Extremadura,33,8,9,16,35,42,22,2019,33,segunda_division
+20,Gimnàstic,27,7,6,20,20,48,22,2019,33,segunda_division
+21,Córdoba,26,5,11,17,38,60,22,2019,33,segunda_division
+22,Reus Deportiu,0,5,6,22,16,39,22,2019,33,segunda_division
+1,Osasuna,67,20,7,7,48,32,22,2019,34,segunda_division
+2,Granada,61,17,10,7,40,22,22,2019,34,segunda_division
+3,Albacete,61,16,13,5,44,26,22,2019,34,segunda_division
+4,Cádiz,56,15,11,8,47,29,22,2019,34,segunda_division
+5,Mallorca,55,15,10,9,45,32,22,2019,34,segunda_division
+6,Málaga,55,15,10,9,34,26,22,2019,34,segunda_division
+7,Deportivo,54,13,15,6,42,27,22,2019,34,segunda_division
+8,Real Sporting,52,14,10,10,37,29,22,2019,34,segunda_division
+9,Real Oviedo,52,14,10,10,37,35,22,2019,34,segunda_division
+10,Almería,49,12,13,9,38,29,22,2019,34,segunda_division
+11,Alcorcón,47,13,8,13,33,32,22,2019,34,segunda_division
+12,Elche,46,11,13,10,36,37,22,2019,34,segunda_division
+13,Las Palmas,43,9,16,9,36,38,22,2019,34,segunda_division
+14,Tenerife,40,8,16,10,33,39,22,2019,34,segunda_division
+15,Rayo Majadahonda,40,11,7,16,36,46,22,2019,34,segunda_division
+16,Numancia,40,9,13,12,38,44,22,2019,34,segunda_division
+17,Real Zaragoza,38,9,11,14,37,44,22,2019,34,segunda_division
+18,Lugo,37,8,13,13,35,42,22,2019,34,segunda_division
+19,Extremadura,36,9,9,16,37,43,22,2019,34,segunda_division
+20,Gimnàstic,27,7,6,21,20,51,22,2019,34,segunda_division
+21,Córdoba,26,5,11,18,38,64,22,2019,34,segunda_division
+22,Reus Deportiu,0,5,6,23,16,40,22,2019,34,segunda_division
+1,Osasuna,70,21,7,7,50,33,22,2019,35,segunda_division
+2,Granada,64,18,10,7,42,23,22,2019,35,segunda_division
+3,Albacete,64,17,13,5,48,28,22,2019,35,segunda_division
+4,Cádiz,59,16,11,8,49,30,22,2019,35,segunda_division
+5,Mallorca,58,16,10,9,47,32,22,2019,35,segunda_division
+6,Málaga,58,16,10,9,38,27,22,2019,35,segunda_division
+7,Deportivo,54,13,15,7,43,29,22,2019,35,segunda_division
+8,Real Sporting,53,14,11,10,37,29,22,2019,35,segunda_division
+9,Real Oviedo,53,14,11,10,40,38,22,2019,35,segunda_division
+10,Almería,52,13,13,9,41,30,22,2019,35,segunda_division
+11,Alcorcón,47,13,8,14,34,36,22,2019,35,segunda_division
+12,Elche,46,11,13,11,37,39,22,2019,35,segunda_division
+13,Las Palmas,43,9,16,10,38,42,22,2019,35,segunda_division
+14,Real Zaragoza,41,10,11,14,38,44,22,2019,35,segunda_division
+15,Tenerife,40,8,16,11,34,42,22,2019,35,segunda_division
+16,Rayo Majadahonda,40,11,7,17,36,48,22,2019,35,segunda_division
+17,Numancia,40,9,13,13,39,46,22,2019,35,segunda_division
+18,Extremadura,39,10,9,16,39,44,22,2019,35,segunda_division
+19,Lugo,37,8,13,14,36,44,22,2019,35,segunda_division
+20,Gimnàstic,28,7,7,21,20,51,22,2019,35,segunda_division
+21,Córdoba,27,5,12,18,41,67,22,2019,35,segunda_division
+22,Reus Deportiu,0,5,6,24,16,41,22,2019,35,segunda_division
+1,Osasuna,73,22,7,7,52,33,22,2019,36,segunda_division
+2,Granada,67,19,10,7,44,23,22,2019,36,segunda_division
+3,Albacete,64,17,13,6,48,30,22,2019,36,segunda_division
+4,Mallorca,61,17,10,9,48,32,22,2019,36,segunda_division
+5,Cádiz,60,16,12,8,50,31,22,2019,36,segunda_division
+6,Málaga,58,16,10,10,38,28,22,2019,36,segunda_division
+7,Deportivo,57,14,15,7,45,30,22,2019,36,segunda_division
+8,Real Oviedo,56,15,11,10,41,38,22,2019,36,segunda_division
+9,Real Sporting,54,14,12,10,38,30,22,2019,36,segunda_division
+10,Almería,52,13,13,10,41,31,22,2019,36,segunda_division
+11,Alcorcón,50,14,8,14,35,36,22,2019,36,segunda_division
+12,Elche,47,11,14,11,38,40,22,2019,36,segunda_division
+13,Las Palmas,46,10,16,10,42,43,22,2019,36,segunda_division
+14,Real Zaragoza,44,11,11,14,41,44,22,2019,36,segunda_division
+15,Extremadura,42,11,9,16,40,44,22,2019,36,segunda_division
+16,Rayo Majadahonda,41,11,8,17,37,49,22,2019,36,segunda_division
+17,Numancia,40,9,13,14,40,48,22,2019,36,segunda_division
+18,Tenerife,40,8,16,12,34,43,22,2019,36,segunda_division
+19,Lugo,37,8,13,15,37,48,22,2019,36,segunda_division
+20,Gimnàstic,28,7,7,22,20,53,22,2019,36,segunda_division
+21,Córdoba,27,5,12,19,41,70,22,2019,36,segunda_division
+22,Reus Deportiu,0,5,6,25,16,42,22,2019,36,segunda_division
+1,Osasuna,74,22,8,7,52,33,22,2019,37,segunda_division
+2,Granada,68,19,11,7,45,24,22,2019,37,segunda_division
+3,Albacete,65,17,14,6,48,30,22,2019,37,segunda_division
+4,Mallorca,64,18,10,9,50,33,22,2019,37,segunda_division
+5,Cádiz,61,16,13,8,51,32,22,2019,37,segunda_division
+6,Deportivo,60,15,15,7,46,30,22,2019,37,segunda_division
+7,Málaga,59,16,11,10,39,29,22,2019,37,segunda_division
+8,Real Oviedo,57,15,12,10,42,39,22,2019,37,segunda_division
+9,Real Sporting,54,14,12,11,39,32,22,2019,37,segunda_division
+10,Almería,52,13,13,11,43,35,22,2019,37,segunda_division
+11,Alcorcón,51,14,9,14,35,36,22,2019,37,segunda_division
+12,Elche,50,12,14,11,40,41,22,2019,37,segunda_division
+13,Las Palmas,46,10,16,11,43,45,22,2019,37,segunda_division
+14,Extremadura,45,12,9,16,41,44,22,2019,37,segunda_division
+15,Real Zaragoza,44,11,11,15,41,45,22,2019,37,segunda_division
+16,Tenerife,43,9,16,12,36,44,22,2019,37,segunda_division
+17,Rayo Majadahonda,41,11,8,18,38,51,22,2019,37,segunda_division
+18,Numancia,41,9,14,14,40,48,22,2019,37,segunda_division
+19,Lugo,40,9,13,15,41,50,22,2019,37,segunda_division
+20,Córdoba,30,6,12,19,42,70,22,2019,37,segunda_division
+21,Gimnàstic,28,7,7,23,20,54,22,2019,37,segunda_division
+22,Reus Deportiu,0,5,6,26,16,43,22,2019,37,segunda_division
+1,Osasuna,77,23,8,7,53,33,22,2019,38,segunda_division
+2,Granada,71,20,11,7,47,25,22,2019,38,segunda_division
+3,Albacete,68,18,14,6,51,32,22,2019,38,segunda_division
+4,Mallorca,64,18,10,10,51,35,22,2019,38,segunda_division
+5,Málaga,62,17,11,10,42,29,22,2019,38,segunda_division
+6,Cádiz,62,16,14,8,52,33,22,2019,38,segunda_division
+7,Deportivo,61,15,16,7,47,31,22,2019,38,segunda_division
+8,Real Oviedo,57,15,12,11,42,42,22,2019,38,segunda_division
+9,Almería,55,14,13,11,48,38,22,2019,38,segunda_division
+10,Real Sporting,55,14,13,11,39,32,22,2019,38,segunda_division
+11,Alcorcón,51,14,9,15,35,38,22,2019,38,segunda_division
+12,Elche,50,12,14,12,43,46,22,2019,38,segunda_division
+13,Las Palmas,49,11,16,11,44,45,22,2019,38,segunda_division
+14,Real Zaragoza,47,12,11,15,44,45,22,2019,38,segunda_division
+15,Extremadura,45,12,9,17,41,47,22,2019,38,segunda_division
+16,Numancia,44,10,14,14,42,48,22,2019,38,segunda_division
+17,Tenerife,43,9,16,13,37,46,22,2019,38,segunda_division
+18,Lugo,41,9,14,15,41,50,22,2019,38,segunda_division
+19,Rayo Majadahonda,41,11,8,19,40,54,22,2019,38,segunda_division
+20,Gimnàstic,31,8,7,23,22,55,22,2019,38,segunda_division
+21,Córdoba,30,6,12,20,42,71,22,2019,38,segunda_division
+22,Reus Deportiu,0,5,6,27,16,44,22,2019,38,segunda_division
+1,Osasuna,78,23,9,7,53,33,22,2019,39,segunda_division
+2,Granada,74,21,11,7,48,25,22,2019,39,segunda_division
+3,Albacete,68,18,14,7,51,33,22,2019,39,segunda_division
+4,Mallorca,67,19,10,10,52,35,22,2019,39,segunda_division
+5,Málaga,65,18,11,10,43,29,22,2019,39,segunda_division
+6,Cádiz,63,16,15,8,52,33,22,2019,39,segunda_division
+7,Deportivo,61,15,16,8,47,32,22,2019,39,segunda_division
+8,Real Oviedo,60,16,12,11,43,42,22,2019,39,segunda_division
+9,Almería,55,14,13,12,48,39,22,2019,39,segunda_division
+10,Real Sporting,55,14,13,12,41,36,22,2019,39,segunda_division
+11,Elche,53,13,14,12,46,46,22,2019,39,segunda_division
+12,Las Palmas,52,12,16,11,47,47,22,2019,39,segunda_division
+13,Alcorcón,51,14,9,16,35,39,22,2019,39,segunda_division
+14,Real Zaragoza,50,13,11,15,48,47,22,2019,39,segunda_division
+15,Extremadura,48,13,9,17,42,47,22,2019,39,segunda_division
+16,Numancia,44,10,14,15,42,49,22,2019,39,segunda_division
+17,Lugo,44,10,14,15,42,50,22,2019,39,segunda_division
+18,Tenerife,43,9,16,14,37,49,22,2019,39,segunda_division
+19,Rayo Majadahonda,41,11,8,20,42,57,22,2019,39,segunda_division
+20,Córdoba,33,7,12,20,46,74,22,2019,39,segunda_division
+21,Gimnàstic,31,8,7,24,25,59,22,2019,39,segunda_division
+22,Reus Deportiu,0,5,6,28,16,45,22,2019,39,segunda_division
+1,Osasuna,81,24,9,7,55,33,22,2019,40,segunda_division
+2,Granada,75,21,12,7,49,26,22,2019,40,segunda_division
+3,Albacete,71,19,14,7,53,33,22,2019,40,segunda_division
+4,Málaga,68,19,11,10,46,30,22,2019,40,segunda_division
+5,Mallorca,67,19,10,11,52,36,22,2019,40,segunda_division
+6,Cádiz,64,16,16,8,53,34,22,2019,40,segunda_division
+7,Deportivo,64,16,16,8,48,32,22,2019,40,segunda_division
+8,Real Oviedo,60,16,12,12,44,44,22,2019,40,segunda_division
+9,Almería,56,14,14,12,48,39,22,2019,40,segunda_division
+10,Real Sporting,55,14,13,13,41,38,22,2019,40,segunda_division
+11,Elche,54,13,15,12,49,49,22,2019,40,segunda_division
+12,Alcorcón,52,14,10,16,35,39,22,2019,40,segunda_division
+13,Las Palmas,52,12,16,12,47,49,22,2019,40,segunda_division
+14,Real Zaragoza,50,13,11,16,49,50,22,2019,40,segunda_division
+15,Extremadura,49,13,10,17,42,47,22,2019,40,segunda_division
+16,Numancia,47,11,14,15,43,49,22,2019,40,segunda_division
+17,Tenerife,46,10,16,14,39,50,22,2019,40,segunda_division
+18,Lugo,45,10,15,15,42,50,22,2019,40,segunda_division
+19,Rayo Majadahonda,42,11,9,20,42,57,22,2019,40,segunda_division
+20,Córdoba,34,7,13,20,46,74,22,2019,40,segunda_division
+21,Gimnàstic,32,8,8,24,28,62,22,2019,40,segunda_division
+22,Reus Deportiu,0,5,6,29,16,46,22,2019,40,segunda_division
+1,Osasuna,84,25,9,7,58,35,22,2019,41,segunda_division
+2,Granada,76,21,13,7,50,27,22,2019,41,segunda_division
+3,Málaga,71,20,11,10,48,31,22,2019,41,segunda_division
+4,Albacete,71,19,14,8,54,35,22,2019,41,segunda_division
+5,Mallorca,68,19,11,11,53,37,22,2019,41,segunda_division
+6,Deportivo,65,16,17,8,48,32,22,2019,41,segunda_division
+7,Cádiz,64,16,16,9,53,35,22,2019,41,segunda_division
+8,Real Oviedo,63,17,12,12,48,47,22,2019,41,segunda_division
+9,Real Sporting,58,15,13,13,42,38,22,2019,41,segunda_division
+10,Almería,57,14,15,12,48,39,22,2019,41,segunda_division
+11,Elche,55,13,16,12,49,49,22,2019,41,segunda_division
+12,Las Palmas,53,12,17,12,47,49,22,2019,41,segunda_division
+13,Extremadura,52,14,10,17,43,47,22,2019,41,segunda_division
+14,Alcorcón,52,14,10,17,35,40,22,2019,41,segunda_division
+15,Real Zaragoza,51,13,12,16,49,50,22,2019,41,segunda_division
+16,Numancia,48,11,15,15,43,49,22,2019,41,segunda_division
+17,Tenerife,47,10,17,14,39,50,22,2019,41,segunda_division
+18,Lugo,46,10,16,15,42,50,22,2019,41,segunda_division
+19,Rayo Majadahonda,42,11,9,21,45,61,22,2019,41,segunda_division
+20,Gimnàstic,35,9,8,24,29,62,22,2019,41,segunda_division
+21,Córdoba,34,7,13,21,48,77,22,2019,41,segunda_division
+22,Reus Deportiu,0,5,6,30,16,47,22,2019,41,segunda_division
+1,Osasuna,87,26,9,7,59,35,22,2019,42,segunda_division
+2,Granada,79,22,13,7,52,28,22,2019,42,segunda_division
+3,Málaga,74,21,11,10,51,31,22,2019,42,segunda_division
+4,Albacete,71,19,14,9,54,38,22,2019,42,segunda_division
+5,Mallorca,69,19,12,11,53,37,22,2019,42,segunda_division
+6,Deportivo,68,17,17,8,50,32,22,2019,42,segunda_division
+7,Cádiz,64,16,16,10,53,36,22,2019,42,segunda_division
+8,Real Oviedo,63,17,12,13,48,48,22,2019,42,segunda_division
+9,Real Sporting,61,16,13,13,43,38,22,2019,42,segunda_division
+10,Almería,60,15,15,12,51,39,22,2019,42,segunda_division
+11,Elche,55,13,16,13,49,52,22,2019,42,segunda_division
+12,Las Palmas,54,12,18,12,48,50,22,2019,42,segunda_division
+13,Extremadura,53,14,11,17,43,47,22,2019,42,segunda_division
+14,Alcorcón,52,14,10,18,36,42,22,2019,42,segunda_division
+15,Real Zaragoza,51,13,12,17,49,51,22,2019,42,segunda_division
+16,Tenerife,50,11,17,14,40,50,22,2019,42,segunda_division
+17,Numancia,49,11,16,15,44,50,22,2019,42,segunda_division
+18,Lugo,47,10,17,15,43,51,22,2019,42,segunda_division
+19,Rayo Majadahonda,45,12,9,21,46,61,22,2019,42,segunda_division
+20,Gimnàstic,36,9,9,24,30,63,22,2019,42,segunda_division
+21,Córdoba,34,7,13,22,48,79,22,2019,42,segunda_division
+22,Reus Deportiu,0,5,6,31,16,48,22,2019,42,segunda_division

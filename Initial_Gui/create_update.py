@@ -132,7 +132,13 @@ def create_or_update():
         global button_ttc
         button_ttc = button_id
         root.destroy()
-
+    w = 240  # width for the Tk root
+    h = 180  # height for the Tk root
+    ws = root.winfo_screenwidth()  # width of the screen
+    hs = root.winfo_screenheight()  # height of the screen
+    x = (ws/2) - (w/2)
+    y = (hs/2) - (h/2)
+    root.geometry('%dx%d+%d+%d' % (w, h, x, y))
     root.title("Create or update")
     root.protocol("WM_DELETE_WINDOW", on_closing)
     tk.Label(root, text="Do you want to create a new database,\n"
@@ -163,6 +169,13 @@ def results_or_standings():
         button_ttc = button_id
         root.destroy()
 
+    w = 240  # width for the Tk root
+    h = 180  # height for the Tk root
+    ws = root.winfo_screenwidth()  # width of the screen
+    hs = root.winfo_screenheight()  # height of the screen
+    x = (ws/2) - (w/2)
+    y = (hs/2) - (h/2)
+    root.geometry('%dx%d+%d+%d' % (w, h, x, y))
     root.title("Create or update")
     root.protocol("WM_DELETE_WINDOW", on_closing)
     tk.Label(root, text="Do you want to create the database of\n"
@@ -232,6 +245,13 @@ def year_or_league():
         button_ttc = button_id
         root.destroy()
 
+    w = 240  # width for the Tk root
+    h = 180  # height for the Tk root
+    ws = root.winfo_screenwidth()  # width of the screen
+    hs = root.winfo_screenheight()  # height of the screen
+    x = (ws/2) - (w/2)
+    y = (hs/2) - (h/2)
+    root.geometry('%dx%d+%d+%d' % (w, h, x, y))
     root.protocol("WM_DELETE_WINDOW", on_closing)
     tk.Label(root, text="Do you want to update a year\n"
              + "a whole league, the or the whole dataset?",

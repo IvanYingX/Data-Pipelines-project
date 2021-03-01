@@ -34,14 +34,19 @@ def get_leagues():
         if messagebox.askokcancel("Quit", "Do you want to quit?"):
             root.destroy()
             sys.exit('Quitting...')
-
+    w = 425  # width for the Tk root
+    h = 300  # height for the Tk root
+    ws = root.winfo_screenwidth()  # width of the screen
+    hs = root.winfo_screenheight()  # height of the screen
+    x = (ws/2) - (w/2)
+    y = (hs/2) - (h/2)
+    root.geometry('%dx%d+%d+%d' % (w, h, x, y))
     root.protocol("WM_DELETE_WINDOW", on_closing)
-    root.geometry("450x300+120+120")
     tk.Label(
         root, text="""Select the leagues you want to extract data from""",
         justify=tk.LEFT, font=("Arial", 14), padx=5, pady=10
         ).grid(row=0, column=0, columnspan=2)
-    r = 0
+    r = 1
     for league in leagues_names:
         box_var.append(tk.IntVar())
         boxes.append(
@@ -55,7 +60,7 @@ def get_leagues():
         box_num += 1
         r += 1
 
-    r = 0
+    r = 1
     for league in leagues_names_2:
         box_var.append(tk.IntVar())
         boxes.append(
@@ -71,7 +76,7 @@ def get_leagues():
 
     tk.Button(root, text="Confirm", width=10, relief=tk.RAISED,
               command=root.destroy, justify=tk.CENTER
-              ).grid(row=8, column=0, pady=10, columnspan=2)
+              ).grid(row=9, column=0, pady=10, columnspan=2)
     root.mainloop()
     mask = [val.get() for val in box_var]
     return list(itertools.compress(leagues + leagues_2, mask)), mask

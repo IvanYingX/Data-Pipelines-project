@@ -1,0 +1,480 @@
+1,Académica,3,1,0,0,2,1,16,2012,1,primeira_liga
+2,Vitória Setúbal,3,1,0,0,2,1,16,2012,1,primeira_liga
+3,Porto,3,1,0,0,1,0,16,2012,1,primeira_liga
+4,Beira Mar SC,1,0,1,0,0,0,16,2012,1,primeira_liga
+5,Benfica,1,0,1,0,2,2,16,2012,1,primeira_liga
+6,Gil Vicente,1,0,1,0,2,2,16,2012,1,primeira_liga
+7,Olhanense,1,0,1,0,1,1,16,2012,1,primeira_liga
+8,Sporting CP,1,0,1,0,1,1,16,2012,1,primeira_liga
+9,Feirense,1,0,1,0,0,0,16,2012,1,primeira_liga
+10,Marítimo,1,0,1,0,0,0,16,2012,1,primeira_liga
+11,Nacional,1,0,1,0,0,0,16,2012,1,primeira_liga
+12,Rio Ave,1,0,1,0,0,0,16,2012,1,primeira_liga
+13,Sporting Braga,1,0,1,0,0,0,16,2012,1,primeira_liga
+14,Paços Ferreira,0,0,0,1,1,2,16,2012,1,primeira_liga
+15,União de Leiria,0,0,0,1,1,2,16,2012,1,primeira_liga
+16,Vitória,0,0,0,1,0,1,16,2012,1,primeira_liga
+1,Porto,6,2,0,0,4,1,16,2012,2,primeira_liga
+2,Académica,6,2,0,0,3,1,16,2012,2,primeira_liga
+3,Benfica,4,1,1,0,5,3,16,2012,2,primeira_liga
+4,Sporting Braga,4,1,1,0,2,0,16,2012,2,primeira_liga
+5,Vitória Setúbal,4,1,1,0,4,3,16,2012,2,primeira_liga
+6,Vitória,3,1,0,1,4,2,16,2012,2,primeira_liga
+7,Paços Ferreira,3,1,0,1,3,3,16,2012,2,primeira_liga
+8,Beira Mar SC,2,0,2,0,0,0,16,2012,2,primeira_liga
+9,Olhanense,2,0,2,0,3,3,16,2012,2,primeira_liga
+10,Sporting CP,2,0,2,0,1,1,16,2012,2,primeira_liga
+11,Rio Ave,1,0,1,1,0,1,16,2012,2,primeira_liga
+12,Gil Vicente,1,0,1,1,3,5,16,2012,2,primeira_liga
+13,Feirense,1,0,1,1,1,3,16,2012,2,primeira_liga
+14,Marítimo,1,0,1,1,0,2,16,2012,2,primeira_liga
+15,Nacional,1,0,1,1,1,4,16,2012,2,primeira_liga
+16,União de Leiria,0,0,0,2,2,4,16,2012,2,primeira_liga
+1,Porto,9,3,0,0,9,3,16,2012,3,primeira_liga
+2,Benfica,7,2,1,0,7,3,16,2012,3,primeira_liga
+3,Sporting Braga,7,2,1,0,3,0,16,2012,3,primeira_liga
+4,Académica,6,2,0,1,3,3,16,2012,3,primeira_liga
+5,Beira Mar SC,5,1,2,0,3,0,16,2012,3,primeira_liga
+6,Olhanense,5,1,2,0,4,3,16,2012,3,primeira_liga
+7,Gil Vicente,4,1,1,1,5,5,16,2012,3,primeira_liga
+8,Vitória Setúbal,4,1,1,1,4,4,16,2012,3,primeira_liga
+9,Paços Ferreira,4,1,1,1,3,3,16,2012,3,primeira_liga
+10,Marítimo,4,1,1,1,3,4,16,2012,3,primeira_liga
+11,Vitória,3,1,0,2,4,5,16,2012,3,primeira_liga
+12,Sporting CP,2,0,2,1,3,4,16,2012,3,primeira_liga
+13,Feirense,2,0,2,1,1,3,16,2012,3,primeira_liga
+14,Rio Ave,1,0,1,2,0,2,16,2012,3,primeira_liga
+15,Nacional,1,0,1,2,1,6,16,2012,3,primeira_liga
+16,União de Leiria,0,0,0,3,4,9,16,2012,3,primeira_liga
+1,Porto,12,4,0,0,12,3,16,2012,4,primeira_liga
+2,Benfica,10,3,1,0,9,4,16,2012,4,primeira_liga
+3,Sporting Braga,10,3,1,0,6,1,16,2012,4,primeira_liga
+4,Académica,9,3,0,1,7,3,16,2012,4,primeira_liga
+5,Marítimo,7,2,1,1,5,5,16,2012,4,primeira_liga
+6,Beira Mar SC,5,1,2,1,3,1,16,2012,4,primeira_liga
+7,Sporting CP,5,1,2,1,6,6,16,2012,4,primeira_liga
+8,Olhanense,5,1,2,1,5,5,16,2012,4,primeira_liga
+9,Feirense,5,1,2,1,3,4,16,2012,4,primeira_liga
+10,Paços Ferreira,4,1,1,2,5,6,16,2012,4,primeira_liga
+11,Gil Vicente,4,1,1,2,6,8,16,2012,4,primeira_liga
+12,Vitória Setúbal,4,1,1,2,4,7,16,2012,4,primeira_liga
+13,Vitória,3,1,0,3,5,7,16,2012,4,primeira_liga
+14,União de Leiria,3,1,0,3,5,9,16,2012,4,primeira_liga
+15,Rio Ave,1,0,1,3,1,4,16,2012,4,primeira_liga
+16,Nacional,1,0,1,3,1,10,16,2012,4,primeira_liga
+1,Porto,13,4,1,0,12,3,16,2012,5,primeira_liga
+2,Benfica,13,4,1,0,13,5,16,2012,5,primeira_liga
+3,Sporting Braga,11,3,2,0,7,2,16,2012,5,primeira_liga
+4,Marítimo,10,3,1,1,8,6,16,2012,5,primeira_liga
+5,Académica,9,3,0,2,8,7,16,2012,5,primeira_liga
+6,Sporting CP,8,2,2,1,9,8,16,2012,5,primeira_liga
+7,Vitória Setúbal,7,2,1,2,5,7,16,2012,5,primeira_liga
+8,Olhanense,6,1,3,1,6,6,16,2012,5,primeira_liga
+9,Feirense,6,1,3,1,3,4,16,2012,5,primeira_liga
+10,Beira Mar SC,5,1,2,2,3,2,16,2012,5,primeira_liga
+11,Gil Vicente,5,1,2,2,7,9,16,2012,5,primeira_liga
+12,Vitória,4,1,1,3,6,8,16,2012,5,primeira_liga
+13,Paços Ferreira,4,1,1,3,5,7,16,2012,5,primeira_liga
+14,Nacional,4,1,1,3,2,10,16,2012,5,primeira_liga
+15,União de Leiria,3,1,0,4,6,12,16,2012,5,primeira_liga
+16,Rio Ave,1,0,1,4,3,7,16,2012,5,primeira_liga
+1,Porto,14,4,2,0,14,5,16,2012,6,primeira_liga
+2,Benfica,14,4,2,0,15,7,16,2012,6,primeira_liga
+3,Sporting Braga,14,4,2,0,9,2,16,2012,6,primeira_liga
+4,Marítimo,13,4,1,1,10,7,16,2012,6,primeira_liga
+5,Académica,12,4,0,2,12,7,16,2012,6,primeira_liga
+6,Sporting CP,11,3,2,1,12,8,16,2012,6,primeira_liga
+7,Olhanense,9,2,3,1,8,7,16,2012,6,primeira_liga
+8,Gil Vicente,8,2,2,2,9,10,16,2012,6,primeira_liga
+9,Vitória Setúbal,7,2,1,3,5,10,16,2012,6,primeira_liga
+10,Beira Mar SC,6,1,3,2,3,2,16,2012,6,primeira_liga
+11,Feirense,6,1,3,2,3,8,16,2012,6,primeira_liga
+12,Vitória,4,1,1,4,7,10,16,2012,6,primeira_liga
+13,Paços Ferreira,4,1,1,4,6,9,16,2012,6,primeira_liga
+14,Nacional,4,1,1,4,2,12,16,2012,6,primeira_liga
+15,União de Leiria,3,1,0,5,7,14,16,2012,6,primeira_liga
+16,Rio Ave,2,0,2,4,3,7,16,2012,6,primeira_liga
+1,Porto,17,5,2,0,17,5,16,2012,7,primeira_liga
+2,Benfica,17,5,2,0,19,8,16,2012,7,primeira_liga
+3,Sporting Braga,14,4,2,1,9,3,16,2012,7,primeira_liga
+4,Sporting CP,14,4,2,1,13,8,16,2012,7,primeira_liga
+5,Marítimo,14,4,2,1,12,9,16,2012,7,primeira_liga
+6,Académica,12,4,0,3,12,10,16,2012,7,primeira_liga
+7,Vitória Setúbal,10,3,1,3,7,11,16,2012,7,primeira_liga
+8,Olhanense,9,2,3,2,8,8,16,2012,7,primeira_liga
+9,Gil Vicente,9,2,3,2,9,10,16,2012,7,primeira_liga
+10,Beira Mar SC,7,1,4,2,3,2,16,2012,7,primeira_liga
+11,Feirense,7,1,4,2,5,10,16,2012,7,primeira_liga
+12,Nacional,7,2,1,4,3,12,16,2012,7,primeira_liga
+13,União de Leiria,6,2,0,5,8,14,16,2012,7,primeira_liga
+14,Vitória,4,1,1,5,7,11,16,2012,7,primeira_liga
+15,Paços Ferreira,4,1,1,5,7,13,16,2012,7,primeira_liga
+16,Rio Ave,2,0,2,5,4,9,16,2012,7,primeira_liga
+1,Porto,20,6,2,0,22,5,16,2012,8,primeira_liga
+2,Benfica,20,6,2,0,20,8,16,2012,8,primeira_liga
+3,Sporting CP,17,5,2,1,19,9,16,2012,8,primeira_liga
+4,Sporting Braga,17,5,2,1,12,3,16,2012,8,primeira_liga
+5,Marítimo,17,5,2,1,13,9,16,2012,8,primeira_liga
+6,Olhanense,12,3,3,2,9,8,16,2012,8,primeira_liga
+7,Académica,12,4,0,4,12,12,16,2012,8,primeira_liga
+8,Vitória Setúbal,10,3,1,4,7,12,16,2012,8,primeira_liga
+9,Gil Vicente,9,2,3,3,10,16,16,2012,8,primeira_liga
+10,Beira Mar SC,7,1,4,3,3,3,16,2012,8,primeira_liga
+11,Paços Ferreira,7,2,1,5,9,13,16,2012,8,primeira_liga
+12,Feirense,7,1,4,3,5,13,16,2012,8,primeira_liga
+13,Nacional,7,2,1,5,3,17,16,2012,8,primeira_liga
+14,União de Leiria,6,2,0,6,8,16,16,2012,8,primeira_liga
+15,Rio Ave,5,1,2,5,6,9,16,2012,8,primeira_liga
+16,Vitória,4,1,1,6,7,12,16,2012,8,primeira_liga
+1,Porto,23,7,2,0,25,5,16,2012,9,primeira_liga
+2,Benfica,23,7,2,0,22,9,16,2012,9,primeira_liga
+3,Sporting CP,20,6,2,1,21,9,16,2012,9,primeira_liga
+4,Sporting Braga,18,5,3,1,12,3,16,2012,9,primeira_liga
+5,Marítimo,18,5,3,1,13,9,16,2012,9,primeira_liga
+6,Académica,13,4,1,4,12,12,16,2012,9,primeira_liga
+7,Olhanense,12,3,3,3,10,10,16,2012,9,primeira_liga
+8,Gil Vicente,10,2,4,3,10,16,16,2012,9,primeira_liga
+9,Vitória Setúbal,10,3,1,5,7,14,16,2012,9,primeira_liga
+10,Nacional,10,3,1,5,5,18,16,2012,9,primeira_liga
+11,União de Leiria,9,3,0,6,10,16,16,2012,9,primeira_liga
+12,Beira Mar SC,7,1,4,4,4,5,16,2012,9,primeira_liga
+13,Vitória,7,2,1,6,9,13,16,2012,9,primeira_liga
+14,Paços Ferreira,7,2,1,6,9,16,16,2012,9,primeira_liga
+15,Feirense,7,1,4,4,5,15,16,2012,9,primeira_liga
+16,Rio Ave,5,1,2,6,7,11,16,2012,9,primeira_liga
+1,Porto,24,7,3,0,25,5,16,2012,10,primeira_liga
+2,Benfica,24,7,3,0,23,10,16,2012,10,primeira_liga
+3,Sporting CP,23,7,2,1,24,10,16,2012,10,primeira_liga
+4,Marítimo,21,6,3,1,16,11,16,2012,10,primeira_liga
+5,Sporting Braga,19,5,4,1,13,4,16,2012,10,primeira_liga
+6,Olhanense,13,3,4,3,10,10,16,2012,10,primeira_liga
+7,Académica,13,4,1,5,14,15,16,2012,10,primeira_liga
+8,Gil Vicente,11,2,5,3,10,16,16,2012,10,primeira_liga
+9,Vitória Setúbal,11,3,2,5,7,14,16,2012,10,primeira_liga
+10,Beira Mar SC,10,2,4,4,6,6,16,2012,10,primeira_liga
+11,Vitória,10,3,1,6,14,14,16,2012,10,primeira_liga
+12,Nacional,10,3,1,6,6,20,16,2012,10,primeira_liga
+13,União de Leiria,9,3,0,7,11,19,16,2012,10,primeira_liga
+14,Rio Ave,8,2,2,6,9,12,16,2012,10,primeira_liga
+15,Paços Ferreira,7,2,1,7,10,21,16,2012,10,primeira_liga
+16,Feirense,7,1,4,5,6,17,16,2012,10,primeira_liga
+1,Porto,27,8,3,0,28,7,16,2012,11,primeira_liga
+2,Benfica,27,8,3,0,24,10,16,2012,11,primeira_liga
+3,Sporting CP,23,7,2,2,24,11,16,2012,11,primeira_liga
+4,Marítimo,22,6,4,1,18,13,16,2012,11,primeira_liga
+5,Sporting Braga,19,5,4,2,15,7,16,2012,11,primeira_liga
+6,Olhanense,14,3,5,3,11,11,16,2012,11,primeira_liga
+7,Gil Vicente,14,3,5,3,12,17,16,2012,11,primeira_liga
+8,Beira Mar SC,13,3,4,4,7,6,16,2012,11,primeira_liga
+9,Vitória,13,4,1,6,17,14,16,2012,11,primeira_liga
+10,Académica,13,4,1,6,14,16,16,2012,11,primeira_liga
+11,Vitória Setúbal,11,3,2,6,7,17,16,2012,11,primeira_liga
+12,Nacional,11,3,2,6,8,22,16,2012,11,primeira_liga
+13,Feirense,10,2,4,5,8,17,16,2012,11,primeira_liga
+14,União de Leiria,9,3,0,8,12,21,16,2012,11,primeira_liga
+15,Rio Ave,8,2,2,7,9,14,16,2012,11,primeira_liga
+16,Paços Ferreira,8,2,2,7,11,22,16,2012,11,primeira_liga
+1,Porto,30,9,3,0,30,8,16,2012,12,primeira_liga
+2,Benfica,30,9,3,0,25,10,16,2012,12,primeira_liga
+3,Sporting CP,26,8,2,2,25,11,16,2012,12,primeira_liga
+4,Sporting Braga,22,6,4,2,20,9,16,2012,12,primeira_liga
+5,Marítimo,22,6,4,2,18,14,16,2012,12,primeira_liga
+6,Académica,16,5,1,6,16,16,16,2012,12,primeira_liga
+7,Olhanense,14,3,5,4,11,13,16,2012,12,primeira_liga
+8,Gil Vicente,14,3,5,4,12,19,16,2012,12,primeira_liga
+9,Beira Mar SC,13,3,4,5,8,8,16,2012,12,primeira_liga
+10,Vitória,13,4,1,7,17,15,16,2012,12,primeira_liga
+11,União de Leiria,12,4,0,8,13,21,16,2012,12,primeira_liga
+12,Vitória Setúbal,12,3,3,6,8,18,16,2012,12,primeira_liga
+13,Rio Ave,11,3,2,7,11,14,16,2012,12,primeira_liga
+14,Feirense,11,2,5,5,9,18,16,2012,12,primeira_liga
+15,Nacional,11,3,2,7,8,23,16,2012,12,primeira_liga
+16,Paços Ferreira,8,2,2,8,13,27,16,2012,12,primeira_liga
+1,Porto,33,10,3,0,32,8,16,2012,13,primeira_liga
+2,Benfica,33,10,3,0,30,11,16,2012,13,primeira_liga
+3,Sporting CP,27,8,3,2,26,12,16,2012,13,primeira_liga
+4,Sporting Braga,25,7,4,2,24,12,16,2012,13,primeira_liga
+5,Marítimo,22,6,4,3,18,16,16,2012,13,primeira_liga
+6,Académica,17,5,2,6,17,17,16,2012,13,primeira_liga
+7,Beira Mar SC,16,4,4,5,11,8,16,2012,13,primeira_liga
+8,Gil Vicente,15,3,6,4,13,20,16,2012,13,primeira_liga
+9,Vitória,14,4,2,7,18,16,16,2012,13,primeira_liga
+10,Olhanense,14,3,5,5,14,17,16,2012,13,primeira_liga
+11,Feirense,14,3,5,5,11,19,16,2012,13,primeira_liga
+12,Vitória Setúbal,13,3,4,6,9,19,16,2012,13,primeira_liga
+13,União de Leiria,12,4,0,9,14,23,16,2012,13,primeira_liga
+14,Nacional,12,3,3,7,9,24,16,2012,13,primeira_liga
+15,Rio Ave,11,3,2,8,12,19,16,2012,13,primeira_liga
+16,Paços Ferreira,8,2,2,9,13,30,16,2012,13,primeira_liga
+1,Benfica,36,11,3,0,34,11,16,2012,14,primeira_liga
+2,Porto,34,10,4,0,32,8,16,2012,14,primeira_liga
+3,Sporting CP,28,8,4,2,26,12,16,2012,14,primeira_liga
+4,Sporting Braga,28,8,4,2,26,13,16,2012,14,primeira_liga
+5,Marítimo,25,7,4,3,20,17,16,2012,14,primeira_liga
+6,Académica,18,5,3,6,18,18,16,2012,14,primeira_liga
+7,Vitória,17,5,2,7,19,16,16,2012,14,primeira_liga
+8,Beira Mar SC,16,4,4,6,12,10,16,2012,14,primeira_liga
+9,Gil Vicente,15,3,6,5,13,23,16,2012,14,primeira_liga
+10,Nacional,15,4,3,7,12,24,16,2012,14,primeira_liga
+11,Olhanense,14,3,5,6,15,19,16,2012,14,primeira_liga
+12,Rio Ave,14,4,2,8,13,19,16,2012,14,primeira_liga
+13,Feirense,14,3,5,6,11,20,16,2012,14,primeira_liga
+14,Vitória Setúbal,14,3,5,6,10,20,16,2012,14,primeira_liga
+15,União de Leiria,12,4,0,10,14,27,16,2012,14,primeira_liga
+16,Paços Ferreira,8,2,2,10,13,31,16,2012,14,primeira_liga
+1,Benfica,39,12,3,0,38,12,16,2012,15,primeira_liga
+2,Porto,37,11,4,0,34,8,16,2012,15,primeira_liga
+3,Sporting Braga,31,9,4,2,28,14,16,2012,15,primeira_liga
+4,Sporting CP,28,8,4,3,27,14,16,2012,15,primeira_liga
+5,Marítimo,26,7,5,3,21,18,16,2012,15,primeira_liga
+6,Vitória,20,6,2,7,21,16,16,2012,15,primeira_liga
+7,Académica,18,5,3,7,18,20,16,2012,15,primeira_liga
+8,Olhanense,17,4,5,6,17,20,16,2012,15,primeira_liga
+9,Beira Mar SC,16,4,4,7,13,12,16,2012,15,primeira_liga
+10,Gil Vicente,16,3,7,5,13,23,16,2012,15,primeira_liga
+11,Nacional,16,4,4,7,14,26,16,2012,15,primeira_liga
+12,Feirense,15,3,6,6,11,20,16,2012,15,primeira_liga
+13,Rio Ave,14,4,2,9,13,21,16,2012,15,primeira_liga
+14,Vitória Setúbal,14,3,5,7,11,24,16,2012,15,primeira_liga
+15,União de Leiria,13,4,1,10,16,29,16,2012,15,primeira_liga
+16,Paços Ferreira,9,2,3,10,14,32,16,2012,15,primeira_liga
+1,Benfica,42,13,3,0,41,13,16,2012,16,primeira_liga
+2,Porto,40,12,4,0,37,9,16,2012,16,primeira_liga
+3,Sporting Braga,34,10,4,2,30,15,16,2012,16,primeira_liga
+4,Sporting CP,29,8,5,3,27,14,16,2012,16,primeira_liga
+5,Marítimo,29,8,5,3,23,19,16,2012,16,primeira_liga
+6,Vitória,20,6,2,8,22,19,16,2012,16,primeira_liga
+7,Académica,19,5,4,7,18,20,16,2012,16,primeira_liga
+8,Nacional,19,5,4,7,16,26,16,2012,16,primeira_liga
+9,Olhanense,18,4,6,6,17,20,16,2012,16,primeira_liga
+10,Beira Mar SC,16,4,4,8,14,14,16,2012,16,primeira_liga
+11,Gil Vicente,16,3,7,6,14,26,16,2012,16,primeira_liga
+12,Feirense,15,3,6,7,11,22,16,2012,16,primeira_liga
+13,Rio Ave,14,4,2,10,14,23,16,2012,16,primeira_liga
+14,União de Leiria,14,4,2,10,16,29,16,2012,16,primeira_liga
+15,Vitória Setúbal,14,3,5,8,12,26,16,2012,16,primeira_liga
+16,Paços Ferreira,12,3,3,10,16,33,16,2012,16,primeira_liga
+1,Benfica,45,14,3,0,43,14,16,2012,17,primeira_liga
+2,Porto,40,12,4,1,38,12,16,2012,17,primeira_liga
+3,Sporting Braga,37,11,4,2,32,16,16,2012,17,primeira_liga
+4,Sporting CP,32,9,5,3,29,14,16,2012,17,primeira_liga
+5,Marítimo,29,8,5,4,24,21,16,2012,17,primeira_liga
+6,Vitória,23,7,2,8,23,19,16,2012,17,primeira_liga
+7,Olhanense,21,5,6,6,20,22,16,2012,17,primeira_liga
+8,Académica,20,5,5,7,18,20,16,2012,17,primeira_liga
+9,Gil Vicente,19,4,7,6,17,27,16,2012,17,primeira_liga
+10,Nacional,19,5,4,8,16,27,16,2012,17,primeira_liga
+11,Beira Mar SC,16,4,4,9,14,16,16,2012,17,primeira_liga
+12,Rio Ave,15,4,3,10,14,23,16,2012,17,primeira_liga
+13,Feirense,15,3,6,8,12,24,16,2012,17,primeira_liga
+14,Paços Ferreira,15,4,3,10,20,35,16,2012,17,primeira_liga
+15,União de Leiria,14,4,2,11,18,33,16,2012,17,primeira_liga
+16,Vitória Setúbal,14,3,5,9,14,29,16,2012,17,primeira_liga
+1,Benfica,48,15,3,0,47,15,16,2012,18,primeira_liga
+2,Porto,43,13,4,1,42,12,16,2012,18,primeira_liga
+3,Sporting Braga,40,12,4,2,35,16,16,2012,18,primeira_liga
+4,Sporting CP,32,9,5,4,29,16,16,2012,18,primeira_liga
+5,Marítimo,32,9,5,4,26,21,16,2012,18,primeira_liga
+6,Vitória,26,8,2,8,24,19,16,2012,18,primeira_liga
+7,Gil Vicente,22,5,7,6,19,27,16,2012,18,primeira_liga
+8,Olhanense,21,5,6,7,20,24,16,2012,18,primeira_liga
+9,Académica,20,5,5,8,18,22,16,2012,18,primeira_liga
+10,Nacional,19,5,4,9,17,31,16,2012,18,primeira_liga
+11,Rio Ave,18,5,3,10,16,23,16,2012,18,primeira_liga
+12,Paços Ferreira,18,5,3,10,23,36,16,2012,18,primeira_liga
+13,Beira Mar SC,16,4,4,10,14,17,16,2012,18,primeira_liga
+14,Feirense,15,3,6,9,13,27,16,2012,18,primeira_liga
+15,Vitória Setúbal,14,3,5,10,14,32,16,2012,18,primeira_liga
+16,União de Leiria,14,4,2,12,18,37,16,2012,18,primeira_liga
+1,Benfica,48,15,3,1,47,16,16,2012,19,primeira_liga
+2,Porto,46,14,4,1,45,13,16,2012,19,primeira_liga
+3,Sporting Braga,43,13,4,2,38,16,16,2012,19,primeira_liga
+4,Sporting CP,35,10,5,4,30,16,16,2012,19,primeira_liga
+5,Marítimo,35,10,5,4,29,22,16,2012,19,primeira_liga
+6,Vitória,29,9,2,8,25,19,16,2012,19,primeira_liga
+7,Olhanense,22,5,7,7,21,25,16,2012,19,primeira_liga
+8,Nacional,22,6,4,9,21,32,16,2012,19,primeira_liga
+9,Gil Vicente,22,5,7,7,19,30,16,2012,19,primeira_liga
+10,Académica,20,5,5,9,19,26,16,2012,19,primeira_liga
+11,Rio Ave,18,5,3,11,17,26,16,2012,19,primeira_liga
+12,Paços Ferreira,18,5,3,11,23,37,16,2012,19,primeira_liga
+13,Beira Mar SC,17,4,5,10,14,17,16,2012,19,primeira_liga
+14,Feirense,16,3,7,9,14,28,16,2012,19,primeira_liga
+15,União de Leiria,15,4,3,12,18,37,16,2012,19,primeira_liga
+16,Vitória Setúbal,14,3,5,11,15,35,16,2012,19,primeira_liga
+1,Porto,49,15,4,1,47,13,16,2012,20,primeira_liga
+2,Benfica,49,15,4,1,47,16,16,2012,20,primeira_liga
+3,Sporting Braga,46,14,4,2,42,16,16,2012,20,primeira_liga
+4,Sporting CP,38,11,5,4,31,16,16,2012,20,primeira_liga
+5,Marítimo,38,11,5,4,30,22,16,2012,20,primeira_liga
+6,Vitória,29,9,2,9,25,23,16,2012,20,primeira_liga
+7,Nacional,25,7,4,9,23,32,16,2012,20,primeira_liga
+8,Olhanense,23,5,8,7,21,25,16,2012,20,primeira_liga
+9,Gil Vicente,23,5,8,7,19,30,16,2012,20,primeira_liga
+10,Académica,21,5,6,9,19,26,16,2012,20,primeira_liga
+11,Rio Ave,18,5,3,12,17,27,16,2012,20,primeira_liga
+12,Paços Ferreira,18,5,3,12,23,39,16,2012,20,primeira_liga
+13,Beira Mar SC,17,4,5,11,16,20,16,2012,20,primeira_liga
+14,Vitória Setúbal,17,4,5,11,18,37,16,2012,20,primeira_liga
+15,Feirense,16,3,7,10,14,30,16,2012,20,primeira_liga
+16,União de Leiria,15,4,3,13,18,38,16,2012,20,primeira_liga
+1,Porto,52,16,4,1,50,15,16,2012,21,primeira_liga
+2,Benfica,49,15,4,2,49,19,16,2012,21,primeira_liga
+3,Sporting Braga,49,15,4,2,45,17,16,2012,21,primeira_liga
+4,Sporting CP,38,11,5,5,31,17,16,2012,21,primeira_liga
+5,Marítimo,38,11,5,5,30,23,16,2012,21,primeira_liga
+6,Vitória,32,10,2,9,26,23,16,2012,21,primeira_liga
+7,Olhanense,26,6,8,7,24,26,16,2012,21,primeira_liga
+8,Nacional,25,7,4,10,24,35,16,2012,21,primeira_liga
+9,Gil Vicente,23,5,8,8,20,32,16,2012,21,primeira_liga
+10,Académica,22,5,7,9,20,27,16,2012,21,primeira_liga
+11,Rio Ave,21,6,3,12,21,27,16,2012,21,primeira_liga
+12,Paços Ferreira,21,6,3,12,25,40,16,2012,21,primeira_liga
+13,Vitória Setúbal,20,5,5,11,19,37,16,2012,21,primeira_liga
+14,Beira Mar SC,17,4,5,12,16,24,16,2012,21,primeira_liga
+15,Feirense,17,3,8,10,15,31,16,2012,21,primeira_liga
+16,União de Leiria,15,4,3,14,19,41,16,2012,21,primeira_liga
+1,Porto,53,16,5,1,51,16,16,2012,22,primeira_liga
+2,Benfica,52,16,4,2,51,20,16,2012,22,primeira_liga
+3,Sporting Braga,52,16,4,2,47,18,16,2012,22,primeira_liga
+4,Sporting CP,41,12,5,5,36,17,16,2012,22,primeira_liga
+5,Marítimo,41,12,5,5,32,24,16,2012,22,primeira_liga
+6,Vitória,32,10,2,10,26,28,16,2012,22,primeira_liga
+7,Olhanense,27,6,9,7,28,30,16,2012,22,primeira_liga
+8,Nacional,26,7,5,10,28,39,16,2012,22,primeira_liga
+9,Rio Ave,24,7,3,12,24,27,16,2012,22,primeira_liga
+10,Académica,23,5,8,9,21,28,16,2012,22,primeira_liga
+11,Gil Vicente,23,5,8,9,20,33,16,2012,22,primeira_liga
+12,Paços Ferreira,21,6,3,13,26,42,16,2012,22,primeira_liga
+13,Beira Mar SC,20,5,5,12,17,24,16,2012,22,primeira_liga
+14,Vitória Setúbal,20,5,5,12,19,40,16,2012,22,primeira_liga
+15,Feirense,17,3,8,11,16,33,16,2012,22,primeira_liga
+16,União de Leiria,15,4,3,15,20,43,16,2012,22,primeira_liga
+1,Porto,56,17,5,1,53,16,16,2012,23,primeira_liga
+2,Benfica,55,17,4,2,54,21,16,2012,23,primeira_liga
+3,Sporting Braga,55,17,4,2,51,19,16,2012,23,primeira_liga
+4,Marítimo,42,12,6,5,33,25,16,2012,23,primeira_liga
+5,Sporting CP,41,12,5,6,36,19,16,2012,23,primeira_liga
+6,Vitória,33,10,3,10,28,30,16,2012,23,primeira_liga
+7,Olhanense,28,6,10,7,30,32,16,2012,23,primeira_liga
+8,Gil Vicente,26,6,8,9,22,33,16,2012,23,primeira_liga
+9,Nacional,26,7,5,11,28,41,16,2012,23,primeira_liga
+10,Rio Ave,24,7,3,13,24,28,16,2012,23,primeira_liga
+11,Paços Ferreira,24,7,3,13,27,42,16,2012,23,primeira_liga
+12,Académica,23,5,8,10,21,29,16,2012,23,primeira_liga
+13,Vitória Setúbal,21,5,6,12,20,41,16,2012,23,primeira_liga
+14,Beira Mar SC,20,5,5,13,18,27,16,2012,23,primeira_liga
+15,União de Leiria,18,5,3,15,21,43,16,2012,23,primeira_liga
+16,Feirense,17,3,8,12,17,37,16,2012,23,primeira_liga
+1,Sporting Braga,58,18,4,2,53,20,16,2012,24,primeira_liga
+2,Porto,57,17,6,1,54,17,16,2012,24,primeira_liga
+3,Benfica,56,17,5,2,54,21,16,2012,24,primeira_liga
+4,Marítimo,45,13,6,5,36,27,16,2012,24,primeira_liga
+5,Sporting CP,44,13,5,6,37,19,16,2012,24,primeira_liga
+6,Vitória,36,11,3,10,29,30,16,2012,24,primeira_liga
+7,Olhanense,29,6,11,7,30,32,16,2012,24,primeira_liga
+8,Nacional,29,8,5,11,31,41,16,2012,24,primeira_liga
+9,Gil Vicente,26,6,8,10,24,36,16,2012,24,primeira_liga
+10,Paços Ferreira,25,7,4,13,28,43,16,2012,24,primeira_liga
+11,Rio Ave,24,7,3,14,24,29,16,2012,24,primeira_liga
+12,Vitória Setúbal,24,6,6,12,21,41,16,2012,24,primeira_liga
+13,Académica,23,5,8,11,22,31,16,2012,24,primeira_liga
+14,Beira Mar SC,20,5,5,14,18,30,16,2012,24,primeira_liga
+15,União de Leiria,18,5,3,16,21,44,16,2012,24,primeira_liga
+16,Feirense,17,3,8,13,17,38,16,2012,24,primeira_liga
+1,Porto,60,18,6,1,56,17,16,2012,25,primeira_liga
+2,Benfica,59,18,5,2,56,22,16,2012,25,primeira_liga
+3,Sporting Braga,58,18,4,3,54,22,16,2012,25,primeira_liga
+4,Marítimo,48,14,6,5,37,27,16,2012,25,primeira_liga
+5,Sporting CP,47,14,5,6,38,19,16,2012,25,primeira_liga
+6,Vitória,39,12,3,10,32,31,16,2012,25,primeira_liga
+7,Nacional,32,9,5,11,33,42,16,2012,25,primeira_liga
+8,Olhanense,29,6,11,8,30,34,16,2012,25,primeira_liga
+9,Vitória Setúbal,27,7,6,12,22,41,16,2012,25,primeira_liga
+10,Gil Vicente,26,6,8,11,24,37,16,2012,25,primeira_liga
+11,Paços Ferreira,25,7,4,14,29,46,16,2012,25,primeira_liga
+12,Rio Ave,24,7,3,15,25,31,16,2012,25,primeira_liga
+13,Beira Mar SC,23,6,5,14,21,31,16,2012,25,primeira_liga
+14,Académica,23,5,8,12,22,32,16,2012,25,primeira_liga
+15,União de Leiria,18,5,3,17,21,45,16,2012,25,primeira_liga
+16,Feirense,17,3,8,14,18,41,16,2012,25,primeira_liga
+1,Porto,63,19,6,1,57,17,16,2012,26,primeira_liga
+2,Benfica,59,18,5,3,56,23,16,2012,26,primeira_liga
+3,Sporting Braga,58,18,4,4,54,23,16,2012,26,primeira_liga
+4,Sporting CP,50,15,5,6,39,19,16,2012,26,primeira_liga
+5,Marítimo,48,14,6,6,39,31,16,2012,26,primeira_liga
+6,Vitória,39,12,3,11,32,32,16,2012,26,primeira_liga
+7,Nacional,35,10,5,11,37,44,16,2012,26,primeira_liga
+8,Vitória Setúbal,30,8,6,12,23,41,16,2012,26,primeira_liga
+9,Olhanense,29,6,11,9,31,36,16,2012,26,primeira_liga
+10,Paços Ferreira,28,8,4,14,31,47,16,2012,26,primeira_liga
+11,Gil Vicente,27,6,9,11,24,37,16,2012,26,primeira_liga
+12,Beira Mar SC,26,7,5,14,23,32,16,2012,26,primeira_liga
+13,Rio Ave,25,7,4,15,27,33,16,2012,26,primeira_liga
+14,Académica,23,5,8,13,23,34,16,2012,26,primeira_liga
+15,União de Leiria,19,5,4,17,21,45,16,2012,26,primeira_liga
+16,Feirense,18,3,9,14,20,43,16,2012,26,primeira_liga
+1,Porto,66,20,6,1,60,17,16,2012,27,primeira_liga
+2,Benfica,62,19,5,3,60,24,16,2012,27,primeira_liga
+3,Sporting Braga,59,18,5,4,55,24,16,2012,27,primeira_liga
+4,Sporting CP,53,16,5,6,42,21,16,2012,27,primeira_liga
+5,Marítimo,48,14,6,7,40,35,16,2012,27,primeira_liga
+6,Vitória,42,13,3,11,35,34,16,2012,27,primeira_liga
+7,Nacional,35,10,5,12,39,47,16,2012,27,primeira_liga
+8,Olhanense,32,7,11,9,32,36,16,2012,27,primeira_liga
+9,Vitória Setúbal,30,8,6,13,23,42,16,2012,27,primeira_liga
+10,Paços Ferreira,29,8,5,14,32,48,16,2012,27,primeira_liga
+11,Gil Vicente,28,6,10,11,24,37,16,2012,27,primeira_liga
+12,Beira Mar SC,26,7,5,15,23,35,16,2012,27,primeira_liga
+13,Rio Ave,26,7,5,15,27,33,16,2012,27,primeira_liga
+14,Académica,23,5,8,14,23,35,16,2012,27,primeira_liga
+15,Feirense,21,4,9,14,21,43,16,2012,27,primeira_liga
+16,União de Leiria,19,5,4,18,23,48,16,2012,27,primeira_liga
+1,Porto,69,21,6,1,62,17,16,2012,28,primeira_liga
+2,Benfica,63,19,6,3,62,26,16,2012,28,primeira_liga
+3,Sporting Braga,59,18,5,5,56,26,16,2012,28,primeira_liga
+4,Sporting CP,56,17,5,6,44,22,16,2012,28,primeira_liga
+5,Marítimo,48,14,6,8,40,37,16,2012,28,primeira_liga
+6,Vitória,42,13,3,12,36,37,16,2012,28,primeira_liga
+7,Nacional,38,11,5,12,42,47,16,2012,28,primeira_liga
+8,Olhanense,35,8,11,9,34,37,16,2012,28,primeira_liga
+9,Gil Vicente,31,7,10,11,27,38,16,2012,28,primeira_liga
+10,Vitória Setúbal,30,8,6,14,23,45,16,2012,28,primeira_liga
+11,Beira Mar SC,29,8,5,15,25,35,16,2012,28,primeira_liga
+12,Paços Ferreira,29,8,5,15,32,50,16,2012,28,primeira_liga
+13,Rio Ave,27,7,6,15,29,35,16,2012,28,primeira_liga
+14,Feirense,24,5,9,14,25,43,16,2012,28,primeira_liga
+15,Académica,23,5,8,15,24,37,16,2012,28,primeira_liga
+16,União de Leiria,19,5,4,19,23,52,16,2012,28,primeira_liga
+1,Porto,72,22,6,1,64,17,16,2012,29,primeira_liga
+2,Benfica,66,20,6,3,63,26,16,2012,29,primeira_liga
+3,Sporting Braga,62,19,5,5,57,26,16,2012,29,primeira_liga
+4,Sporting CP,56,17,5,7,44,24,16,2012,29,primeira_liga
+5,Marítimo,49,14,7,8,40,37,16,2012,29,primeira_liga
+6,Vitória,45,14,3,12,39,38,16,2012,29,primeira_liga
+7,Nacional,41,12,5,12,45,48,16,2012,29,primeira_liga
+8,Olhanense,36,8,12,9,34,37,16,2012,29,primeira_liga
+9,Gil Vicente,31,7,10,12,28,41,16,2012,29,primeira_liga
+10,Paços Ferreira,30,8,6,15,34,52,16,2012,29,primeira_liga
+11,Vitória Setúbal,30,8,6,15,23,46,16,2012,29,primeira_liga
+12,Beira Mar SC,29,8,5,16,25,36,16,2012,29,primeira_liga
+13,Rio Ave,28,7,7,15,31,37,16,2012,29,primeira_liga
+14,Académica,26,6,8,15,25,37,16,2012,29,primeira_liga
+15,Feirense,24,5,9,15,26,46,16,2012,29,primeira_liga
+16,União de Leiria,19,5,4,20,23,53,16,2012,29,primeira_liga
+1,Porto,75,23,6,1,69,19,16,2012,30,primeira_liga
+2,Benfica,69,21,6,3,66,27,16,2012,30,primeira_liga
+3,Sporting Braga,62,19,5,6,59,29,16,2012,30,primeira_liga
+4,Sporting CP,59,18,5,7,47,26,16,2012,30,primeira_liga
+5,Marítimo,50,14,8,8,41,38,16,2012,30,primeira_liga
+6,Vitória,45,14,3,13,40,40,16,2012,30,primeira_liga
+7,Nacional,44,13,5,12,48,50,16,2012,30,primeira_liga
+8,Olhanense,39,9,12,9,36,38,16,2012,30,primeira_liga
+9,Gil Vicente,34,8,10,12,31,42,16,2012,30,primeira_liga
+10,Paços Ferreira,31,8,7,15,35,53,16,2012,30,primeira_liga
+11,Vitória Setúbal,30,8,6,16,24,49,16,2012,30,primeira_liga
+12,Beira Mar SC,29,8,5,17,26,38,16,2012,30,primeira_liga
+13,Académica,29,7,8,15,27,38,16,2012,30,primeira_liga
+14,Rio Ave,28,7,7,16,33,42,16,2012,30,primeira_liga
+15,Feirense,24,5,9,16,27,49,16,2012,30,primeira_liga
+16,União de Leiria,19,5,4,21,25,56,16,2012,30,primeira_liga

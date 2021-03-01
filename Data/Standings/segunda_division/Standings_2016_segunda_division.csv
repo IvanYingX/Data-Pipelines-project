@@ -1,0 +1,924 @@
+1,Numancia,3,1,0,0,6,3,22,2016,1,segunda_division
+2,Osasuna,3,1,0,0,2,0,22,2016,1,segunda_division
+3,Ponferradina,3,1,0,0,2,0,22,2016,1,segunda_division
+4,Alcorcón,3,1,0,0,2,0,22,2016,1,segunda_division
+5,Almería,3,1,0,0,3,2,22,2016,1,segunda_division
+6,Alavés,3,1,0,0,3,2,22,2016,1,segunda_division
+7,Córdoba,3,1,0,0,1,0,22,2016,1,segunda_division
+8,Girona,3,1,0,0,1,0,22,2016,1,segunda_division
+9,Albacete,1,0,1,0,2,2,22,2016,1,segunda_division
+10,Real Oviedo,1,0,1,0,2,2,22,2016,1,segunda_division
+11,Lugo,1,0,1,0,2,2,22,2016,1,segunda_division
+12,Gimnàstic,1,0,1,0,2,2,22,2016,1,segunda_division
+13,Mirandés,1,0,1,0,1,1,22,2016,1,segunda_division
+14,Real Zaragoza,1,0,1,0,1,1,22,2016,1,segunda_division
+15,Leganés,0,0,0,1,2,3,22,2016,1,segunda_division
+16,Huesca,0,0,0,1,2,3,22,2016,1,segunda_division
+17,Bilbao Ath.,0,0,0,1,0,1,22,2016,1,segunda_division
+18,Real Valladolid,0,0,0,1,0,1,22,2016,1,segunda_division
+19,Llagostera,0,0,0,1,0,2,22,2016,1,segunda_division
+20,Elche,0,0,0,1,0,2,22,2016,1,segunda_division
+21,Mallorca,0,0,0,1,0,2,22,2016,1,segunda_division
+22,Tenerife,0,0,0,1,3,6,22,2016,1,segunda_division
+1,Numancia,6,2,0,0,9,5,22,2016,2,segunda_division
+2,Alavés,6,2,0,0,5,2,22,2016,2,segunda_division
+3,Osasuna,6,2,0,0,3,0,22,2016,2,segunda_division
+4,Real Zaragoza,4,1,1,0,4,3,22,2016,2,segunda_division
+5,Gimnàstic,4,1,1,0,4,3,22,2016,2,segunda_division
+6,Lugo,4,1,1,0,3,2,22,2016,2,segunda_division
+7,Leganés,3,1,0,1,5,4,22,2016,2,segunda_division
+8,Real Valladolid,3,1,0,1,2,1,22,2016,2,segunda_division
+9,Ponferradina,3,1,0,1,2,1,22,2016,2,segunda_division
+10,Almería,3,1,0,1,5,5,22,2016,2,segunda_division
+11,Girona,3,1,0,1,3,3,22,2016,2,segunda_division
+12,Alcorcón,3,1,0,1,2,2,22,2016,2,segunda_division
+13,Córdoba,3,1,0,1,2,3,22,2016,2,segunda_division
+14,Elche,3,1,0,1,2,3,22,2016,2,segunda_division
+15,Mallorca,3,1,0,1,1,2,22,2016,2,segunda_division
+16,Albacete,2,0,2,0,3,3,22,2016,2,segunda_division
+17,Huesca,1,0,1,1,3,4,22,2016,2,segunda_division
+18,Mirandés,1,0,1,1,1,2,22,2016,2,segunda_division
+19,Real Oviedo,1,0,1,1,2,4,22,2016,2,segunda_division
+20,Bilbao Ath.,0,0,0,2,1,3,22,2016,2,segunda_division
+21,Llagostera,0,0,0,2,0,3,22,2016,2,segunda_division
+22,Tenerife,0,0,0,2,4,8,22,2016,2,segunda_division
+1,Numancia,7,2,1,0,9,5,22,2016,3,segunda_division
+2,Gimnàstic,7,2,1,0,5,3,22,2016,3,segunda_division
+3,Ponferradina,6,2,0,1,5,1,22,2016,3,segunda_division
+4,Alcorcón,6,2,0,1,5,3,22,2016,3,segunda_division
+5,Osasuna,6,2,0,1,4,2,22,2016,3,segunda_division
+6,Almería,6,2,0,1,7,6,22,2016,3,segunda_division
+7,Alavés,6,2,0,1,5,5,22,2016,3,segunda_division
+8,Real Zaragoza,5,1,2,0,5,4,22,2016,3,segunda_division
+9,Lugo,5,1,2,0,4,3,22,2016,3,segunda_division
+10,Leganés,4,1,1,1,6,5,22,2016,3,segunda_division
+11,Real Oviedo,4,1,1,1,5,5,22,2016,3,segunda_division
+12,Elche,4,1,1,1,2,3,22,2016,3,segunda_division
+13,Bilbao Ath.,3,1,0,2,4,4,22,2016,3,segunda_division
+14,Llagostera,3,1,0,2,3,3,22,2016,3,segunda_division
+15,Girona,3,1,0,2,3,4,22,2016,3,segunda_division
+16,Real Valladolid,3,1,0,2,2,4,22,2016,3,segunda_division
+17,Córdoba,3,1,0,2,3,6,22,2016,3,segunda_division
+18,Mallorca,3,1,0,2,2,5,22,2016,3,segunda_division
+19,Huesca,2,0,2,1,4,5,22,2016,3,segunda_division
+20,Mirandés,2,0,2,1,2,3,22,2016,3,segunda_division
+21,Albacete,2,0,2,1,4,6,22,2016,3,segunda_division
+22,Tenerife,1,0,1,2,5,9,22,2016,3,segunda_division
+1,Alcorcón,9,3,0,1,6,3,22,2016,4,segunda_division
+2,Osasuna,9,3,0,1,6,3,22,2016,4,segunda_division
+3,Numancia,8,2,2,0,9,5,22,2016,4,segunda_division
+4,Lugo,8,2,2,0,5,3,22,2016,4,segunda_division
+5,Real Oviedo,7,2,1,1,7,5,22,2016,4,segunda_division
+6,Gimnàstic,7,2,1,1,5,4,22,2016,4,segunda_division
+7,Elche,7,2,1,1,3,3,22,2016,4,segunda_division
+8,Ponferradina,6,2,0,2,5,2,22,2016,4,segunda_division
+9,Almería,6,2,0,2,7,7,22,2016,4,segunda_division
+10,Alavés,6,2,0,2,7,8,22,2016,4,segunda_division
+11,Real Valladolid,6,2,0,2,3,4,22,2016,4,segunda_division
+12,Córdoba,6,2,0,2,4,6,22,2016,4,segunda_division
+13,Real Zaragoza,5,1,2,1,5,5,22,2016,4,segunda_division
+14,Mirandés,5,1,2,1,5,5,22,2016,4,segunda_division
+15,Albacete,5,1,2,1,5,6,22,2016,4,segunda_division
+16,Leganés,4,1,1,2,7,7,22,2016,4,segunda_division
+17,Girona,4,1,1,2,3,4,22,2016,4,segunda_division
+18,Mallorca,4,1,1,2,2,5,22,2016,4,segunda_division
+19,Bilbao Ath.,3,1,0,3,4,5,22,2016,4,segunda_division
+20,Huesca,3,0,3,1,4,5,22,2016,4,segunda_division
+21,Llagostera,3,1,0,3,3,4,22,2016,4,segunda_division
+22,Tenerife,1,0,1,3,5,11,22,2016,4,segunda_division
+1,Osasuna,12,4,0,1,7,3,22,2016,5,segunda_division
+2,Gimnàstic,10,3,1,1,6,4,22,2016,5,segunda_division
+3,Elche,10,3,1,1,6,4,22,2016,5,segunda_division
+4,Numancia,9,2,3,0,11,7,22,2016,5,segunda_division
+5,Alcorcón,9,3,0,2,6,4,22,2016,5,segunda_division
+6,Lugo,9,2,3,0,5,3,22,2016,5,segunda_division
+7,Alavés,9,3,0,2,9,8,22,2016,5,segunda_division
+8,Córdoba,9,3,0,2,5,6,22,2016,5,segunda_division
+9,Real Oviedo,7,2,1,2,8,7,22,2016,5,segunda_division
+10,Girona,7,2,1,2,5,5,22,2016,5,segunda_division
+11,Real Valladolid,7,2,1,2,5,6,22,2016,5,segunda_division
+12,Ponferradina,6,2,0,3,5,3,22,2016,5,segunda_division
+13,Mirandés,6,1,3,1,6,6,22,2016,5,segunda_division
+14,Bilbao Ath.,6,2,0,3,5,5,22,2016,5,segunda_division
+15,Albacete,6,1,3,1,6,7,22,2016,5,segunda_division
+16,Almería,6,2,0,3,7,9,22,2016,5,segunda_division
+17,Real Zaragoza,5,1,2,2,5,6,22,2016,5,segunda_division
+18,Leganés,5,1,2,2,7,7,22,2016,5,segunda_division
+19,Tenerife,4,1,1,3,7,11,22,2016,5,segunda_division
+20,Mallorca,4,1,1,3,2,6,22,2016,5,segunda_division
+21,Huesca,3,0,3,2,5,8,22,2016,5,segunda_division
+22,Llagostera,3,1,0,4,3,6,22,2016,5,segunda_division
+1,Osasuna,13,4,1,1,7,3,22,2016,6,segunda_division
+2,Elche,11,3,2,1,7,5,22,2016,6,segunda_division
+3,Gimnàstic,11,3,2,1,6,4,22,2016,6,segunda_division
+4,Numancia,10,2,4,0,12,8,22,2016,6,segunda_division
+5,Alcorcón,10,3,1,2,7,5,22,2016,6,segunda_division
+6,Lugo,10,2,4,0,5,3,22,2016,6,segunda_division
+7,Alavés,10,3,1,2,9,8,22,2016,6,segunda_division
+8,Córdoba,10,3,1,2,5,6,22,2016,6,segunda_division
+9,Ponferradina,9,3,0,3,6,3,22,2016,6,segunda_division
+10,Albacete,9,2,3,1,9,7,22,2016,6,segunda_division
+11,Real Oviedo,8,2,2,2,9,8,22,2016,6,segunda_division
+12,Girona,8,2,2,2,7,7,22,2016,6,segunda_division
+13,Real Valladolid,8,2,2,2,5,6,22,2016,6,segunda_division
+14,Tenerife,7,2,1,3,10,11,22,2016,6,segunda_division
+15,Leganés,6,1,3,2,7,7,22,2016,6,segunda_division
+16,Real Zaragoza,6,1,3,2,5,6,22,2016,6,segunda_division
+17,Bilbao Ath.,6,2,0,4,5,6,22,2016,6,segunda_division
+18,Huesca,6,1,3,2,6,8,22,2016,6,segunda_division
+19,Mirandés,6,1,3,2,6,9,22,2016,6,segunda_division
+20,Almería,6,2,0,4,7,12,22,2016,6,segunda_division
+21,Mallorca,4,1,1,4,2,7,22,2016,6,segunda_division
+22,Llagostera,4,1,1,4,5,8,22,2016,6,segunda_division
+1,Osasuna,16,5,1,1,11,3,22,2016,7,segunda_division
+2,Numancia,13,3,4,0,13,8,22,2016,7,segunda_division
+3,Alcorcón,13,4,1,2,9,5,22,2016,7,segunda_division
+4,Córdoba,13,4,1,2,6,6,22,2016,7,segunda_division
+5,Gimnàstic,11,3,2,2,6,6,22,2016,7,segunda_division
+6,Elche,11,3,2,2,8,9,22,2016,7,segunda_division
+7,Lugo,10,2,4,1,5,7,22,2016,7,segunda_division
+8,Alavés,10,3,1,3,9,9,22,2016,7,segunda_division
+9,Ponferradina,9,3,0,4,6,4,22,2016,7,segunda_division
+10,Albacete,9,2,3,2,11,10,22,2016,7,segunda_division
+11,Real Oviedo,9,2,3,2,10,9,22,2016,7,segunda_division
+12,Leganés,9,2,3,2,10,9,22,2016,7,segunda_division
+13,Real Zaragoza,9,2,3,2,6,6,22,2016,7,segunda_division
+14,Real Valladolid,9,2,3,2,6,7,22,2016,7,segunda_division
+15,Mirandés,9,2,3,2,7,9,22,2016,7,segunda_division
+16,Tenerife,8,2,2,3,12,13,22,2016,7,segunda_division
+17,Girona,8,2,2,3,7,8,22,2016,7,segunda_division
+18,Llagostera,7,2,1,4,9,9,22,2016,7,segunda_division
+19,Huesca,7,1,4,2,7,9,22,2016,7,segunda_division
+20,Almería,7,2,1,4,9,14,22,2016,7,segunda_division
+21,Bilbao Ath.,6,2,0,5,5,7,22,2016,7,segunda_division
+22,Mallorca,5,1,2,4,3,8,22,2016,7,segunda_division
+1,Osasuna,16,5,1,2,11,6,22,2016,8,segunda_division
+2,Córdoba,16,5,1,2,8,7,22,2016,8,segunda_division
+3,Numancia,14,3,5,0,13,8,22,2016,8,segunda_division
+4,Alavés,13,4,1,3,12,9,22,2016,8,segunda_division
+5,Alcorcón,13,4,1,3,9,6,22,2016,8,segunda_division
+6,Real Oviedo,12,3,3,2,13,11,22,2016,8,segunda_division
+7,Real Zaragoza,12,3,3,2,9,7,22,2016,8,segunda_division
+8,Mirandés,12,3,3,2,11,10,22,2016,8,segunda_division
+9,Gimnàstic,12,3,3,2,8,8,22,2016,8,segunda_division
+10,Elche,11,3,2,3,9,13,22,2016,8,segunda_division
+11,Ponferradina,10,3,1,4,8,6,22,2016,8,segunda_division
+12,Leganés,10,2,4,2,10,9,22,2016,8,segunda_division
+13,Huesca,10,2,4,2,8,9,22,2016,8,segunda_division
+14,Lugo,10,2,4,2,6,9,22,2016,8,segunda_division
+15,Tenerife,9,2,3,3,12,13,22,2016,8,segunda_division
+16,Albacete,9,2,3,3,12,13,22,2016,8,segunda_division
+17,Girona,9,2,3,3,8,9,22,2016,8,segunda_division
+18,Real Valladolid,9,2,3,3,8,10,22,2016,8,segunda_division
+19,Mallorca,8,2,2,4,4,8,22,2016,8,segunda_division
+20,Almería,8,2,2,4,10,15,22,2016,8,segunda_division
+21,Bilbao Ath.,7,2,1,5,5,7,22,2016,8,segunda_division
+22,Llagostera,7,2,1,5,9,10,22,2016,8,segunda_division
+1,Osasuna,19,6,1,2,12,6,22,2016,9,segunda_division
+2,Córdoba,19,6,1,2,11,9,22,2016,9,segunda_division
+3,Real Zaragoza,15,4,3,2,11,7,22,2016,9,segunda_division
+4,Real Oviedo,15,4,3,2,16,13,22,2016,9,segunda_division
+5,Gimnàstic,15,4,3,2,10,9,22,2016,9,segunda_division
+6,Numancia,14,3,5,1,15,11,22,2016,9,segunda_division
+7,Elche,14,4,2,3,12,15,22,2016,9,segunda_division
+8,Alavés,13,4,1,4,12,10,22,2016,9,segunda_division
+9,Alcorcón,13,4,1,4,11,9,22,2016,9,segunda_division
+10,Mirandés,13,3,4,2,13,12,22,2016,9,segunda_division
+11,Lugo,13,3,4,2,7,9,22,2016,9,segunda_division
+12,Ponferradina,11,3,2,4,9,7,22,2016,9,segunda_division
+13,Leganés,11,2,5,2,12,11,22,2016,9,segunda_division
+14,Huesca,11,2,5,2,9,10,22,2016,9,segunda_division
+15,Llagostera,10,3,1,5,12,11,22,2016,9,segunda_division
+16,Girona,10,2,4,3,10,11,22,2016,9,segunda_division
+17,Albacete,9,2,3,4,12,14,22,2016,9,segunda_division
+18,Tenerife,9,2,3,4,12,15,22,2016,9,segunda_division
+19,Real Valladolid,9,2,3,4,9,13,22,2016,9,segunda_division
+20,Mallorca,9,2,3,4,6,10,22,2016,9,segunda_division
+21,Almería,8,2,2,5,12,18,22,2016,9,segunda_division
+22,Bilbao Ath.,7,2,1,6,6,9,22,2016,9,segunda_division
+1,Osasuna,20,6,2,2,14,8,22,2016,10,segunda_division
+2,Córdoba,19,6,1,3,13,12,22,2016,10,segunda_division
+3,Alcorcón,16,5,1,4,17,10,22,2016,10,segunda_division
+4,Real Zaragoza,16,4,4,2,11,7,22,2016,10,segunda_division
+5,Alavés,16,5,1,4,15,12,22,2016,10,segunda_division
+6,Gimnàstic,16,4,4,2,11,10,22,2016,10,segunda_division
+7,Numancia,15,3,6,1,16,12,22,2016,10,segunda_division
+8,Real Oviedo,15,4,3,3,18,17,22,2016,10,segunda_division
+9,Elche,15,4,3,3,12,15,22,2016,10,segunda_division
+10,Ponferradina,14,4,2,4,13,9,22,2016,10,segunda_division
+11,Mirandés,13,3,4,3,14,14,22,2016,10,segunda_division
+12,Lugo,13,3,4,3,7,11,22,2016,10,segunda_division
+13,Leganés,12,2,6,2,12,11,22,2016,10,segunda_division
+14,Albacete,12,3,3,4,14,14,22,2016,10,segunda_division
+15,Huesca,12,2,6,2,9,10,22,2016,10,segunda_division
+16,Real Valladolid,12,3,3,4,11,14,22,2016,10,segunda_division
+17,Mallorca,12,3,3,4,7,10,22,2016,10,segunda_division
+18,Girona,11,2,5,3,10,11,22,2016,10,segunda_division
+19,Tenerife,10,2,4,4,14,17,22,2016,10,segunda_division
+20,Llagostera,10,3,1,6,13,17,22,2016,10,segunda_division
+21,Bilbao Ath.,8,2,2,6,6,9,22,2016,10,segunda_division
+22,Almería,8,2,2,6,12,19,22,2016,10,segunda_division
+1,Córdoba,22,7,1,3,15,12,22,2016,11,segunda_division
+2,Osasuna,20,6,2,3,14,9,22,2016,11,segunda_division
+3,Real Zaragoza,19,5,4,2,13,7,22,2016,11,segunda_division
+4,Ponferradina,17,5,2,4,14,9,22,2016,11,segunda_division
+5,Alavés,17,5,2,4,16,13,22,2016,11,segunda_division
+6,Alcorcón,16,5,1,5,17,13,22,2016,11,segunda_division
+7,Mirandés,16,4,4,3,17,14,22,2016,11,segunda_division
+8,Real Oviedo,16,4,4,3,18,17,22,2016,11,segunda_division
+9,Gimnàstic,16,4,4,3,11,12,22,2016,11,segunda_division
+10,Lugo,16,4,4,3,9,11,22,2016,11,segunda_division
+11,Numancia,15,3,6,2,16,14,22,2016,11,segunda_division
+12,Huesca,15,3,6,2,11,10,22,2016,11,segunda_division
+13,Elche,15,4,3,4,12,17,22,2016,11,segunda_division
+14,Girona,14,3,5,3,11,11,22,2016,11,segunda_division
+15,Leganés,13,2,7,2,12,11,22,2016,11,segunda_division
+16,Albacete,13,3,4,4,15,15,22,2016,11,segunda_division
+17,Real Valladolid,13,3,4,4,12,15,22,2016,11,segunda_division
+18,Mallorca,13,3,4,4,7,10,22,2016,11,segunda_division
+19,Tenerife,10,2,4,5,14,19,22,2016,11,segunda_division
+20,Llagostera,10,3,1,7,13,18,22,2016,11,segunda_division
+21,Bilbao Ath.,9,2,3,6,6,9,22,2016,11,segunda_division
+22,Almería,9,2,3,6,13,20,22,2016,11,segunda_division
+1,Córdoba,22,7,1,4,15,14,22,2016,12,segunda_division
+2,Osasuna,20,6,2,4,15,11,22,2016,12,segunda_division
+3,Real Zaragoza,20,5,5,2,13,7,22,2016,12,segunda_division
+4,Lugo,19,5,4,3,10,11,22,2016,12,segunda_division
+5,Gimnàstic,19,5,4,3,13,12,22,2016,12,segunda_division
+6,Ponferradina,18,5,3,4,16,11,22,2016,12,segunda_division
+7,Numancia,18,4,6,2,17,14,22,2016,12,segunda_division
+8,Elche,18,5,3,4,14,18,22,2016,12,segunda_division
+9,Alcorcón,17,5,2,5,17,13,22,2016,12,segunda_division
+10,Mirandés,17,4,5,3,19,16,22,2016,12,segunda_division
+11,Alavés,17,5,2,5,16,15,22,2016,12,segunda_division
+12,Real Oviedo,16,4,4,4,18,18,22,2016,12,segunda_division
+13,Albacete,16,4,4,4,17,15,22,2016,12,segunda_division
+14,Huesca,15,3,6,3,11,12,22,2016,12,segunda_division
+15,Leganés,14,2,8,2,13,12,22,2016,12,segunda_division
+16,Girona,14,3,5,4,11,12,22,2016,12,segunda_division
+17,Real Valladolid,14,3,5,4,13,16,22,2016,12,segunda_division
+18,Mallorca,14,3,5,4,7,10,22,2016,12,segunda_division
+19,Tenerife,13,3,4,5,16,19,22,2016,12,segunda_division
+20,Bilbao Ath.,12,3,3,6,8,9,22,2016,12,segunda_division
+21,Almería,10,2,4,6,13,20,22,2016,12,segunda_division
+22,Llagostera,10,3,1,8,13,20,22,2016,12,segunda_division
+1,Osasuna,23,7,2,4,17,12,22,2016,13,segunda_division
+2,Córdoba,23,7,2,4,16,15,22,2016,13,segunda_division
+3,Mirandés,20,5,5,3,22,16,22,2016,13,segunda_division
+4,Real Zaragoza,20,5,5,3,13,9,22,2016,13,segunda_division
+5,Alavés,20,6,2,5,17,15,22,2016,13,segunda_division
+6,Lugo,20,5,5,3,11,12,22,2016,13,segunda_division
+7,Ponferradina,19,5,4,4,17,12,22,2016,13,segunda_division
+8,Real Oviedo,19,5,4,4,20,18,22,2016,13,segunda_division
+9,Gimnàstic,19,5,4,4,13,14,22,2016,13,segunda_division
+10,Elche,19,5,4,4,15,19,22,2016,13,segunda_division
+11,Numancia,18,4,6,3,18,16,22,2016,13,segunda_division
+12,Leganés,17,3,8,2,16,12,22,2016,13,segunda_division
+13,Alcorcón,17,5,2,6,17,16,22,2016,13,segunda_division
+14,Real Valladolid,17,4,5,4,15,16,22,2016,13,segunda_division
+15,Albacete,16,4,4,5,18,17,22,2016,13,segunda_division
+16,Huesca,16,3,7,3,12,13,22,2016,13,segunda_division
+17,Tenerife,16,4,4,5,18,20,22,2016,13,segunda_division
+18,Girona,14,3,5,5,11,13,22,2016,13,segunda_division
+19,Mallorca,14,3,5,5,8,12,22,2016,13,segunda_division
+20,Llagostera,13,4,1,8,15,21,22,2016,13,segunda_division
+21,Bilbao Ath.,12,3,3,7,8,12,22,2016,13,segunda_division
+22,Almería,11,2,5,6,14,21,22,2016,13,segunda_division
+1,Osasuna,26,8,2,4,18,12,22,2016,14,segunda_division
+2,Córdoba,24,7,3,4,17,16,22,2016,14,segunda_division
+3,Alavés,23,7,2,5,18,15,22,2016,14,segunda_division
+4,Ponferradina,22,6,4,4,18,12,22,2016,14,segunda_division
+5,Real Oviedo,22,6,4,4,21,18,22,2016,14,segunda_division
+6,Gimnàstic,22,6,4,4,15,14,22,2016,14,segunda_division
+7,Mirandés,21,5,6,3,24,18,22,2016,14,segunda_division
+8,Lugo,21,5,6,3,12,13,22,2016,14,segunda_division
+9,Real Zaragoza,20,5,5,4,13,10,22,2016,14,segunda_division
+10,Alcorcón,20,6,2,6,18,16,22,2016,14,segunda_division
+11,Numancia,19,4,7,3,20,18,22,2016,14,segunda_division
+12,Elche,19,5,4,5,15,20,22,2016,14,segunda_division
+13,Leganés,17,3,8,3,16,13,22,2016,14,segunda_division
+14,Girona,17,4,5,5,14,13,22,2016,14,segunda_division
+15,Tenerife,17,4,5,5,19,21,22,2016,14,segunda_division
+16,Real Valladolid,17,4,5,5,15,17,22,2016,14,segunda_division
+17,Huesca,16,3,7,4,12,14,22,2016,14,segunda_division
+18,Albacete,16,4,4,6,18,20,22,2016,14,segunda_division
+19,Mallorca,15,3,6,5,9,13,22,2016,14,segunda_division
+20,Bilbao Ath.,13,3,4,7,8,12,22,2016,14,segunda_division
+21,Llagostera,13,4,1,9,15,23,22,2016,14,segunda_division
+22,Almería,12,2,6,6,14,21,22,2016,14,segunda_division
+1,Córdoba,27,8,3,4,19,17,22,2016,15,segunda_division
+2,Osasuna,26,8,2,5,19,14,22,2016,15,segunda_division
+3,Alavés,26,8,2,5,19,15,22,2016,15,segunda_division
+4,Gimnàstic,25,7,4,4,16,14,22,2016,15,segunda_division
+5,Real Zaragoza,23,6,5,4,15,10,22,2016,15,segunda_division
+6,Alcorcón,23,7,2,6,20,17,22,2016,15,segunda_division
+7,Ponferradina,22,6,4,5,18,14,22,2016,15,segunda_division
+8,Real Oviedo,22,6,4,5,22,20,22,2016,15,segunda_division
+9,Lugo,22,5,7,3,13,14,22,2016,15,segunda_division
+10,Mirandés,21,5,6,4,24,19,22,2016,15,segunda_division
+11,Leganés,20,4,8,3,17,13,22,2016,15,segunda_division
+12,Numancia,20,4,8,3,21,19,22,2016,15,segunda_division
+13,Albacete,19,5,4,6,19,20,22,2016,15,segunda_division
+14,Elche,19,5,4,6,15,21,22,2016,15,segunda_division
+15,Girona,18,4,6,5,15,14,22,2016,15,segunda_division
+16,Tenerife,18,4,6,5,20,22,22,2016,15,segunda_division
+17,Real Valladolid,18,4,6,5,16,18,22,2016,15,segunda_division
+18,Huesca,16,3,7,5,12,16,22,2016,15,segunda_division
+19,Llagostera,16,5,1,9,17,23,22,2016,15,segunda_division
+20,Mallorca,15,3,6,6,9,14,22,2016,15,segunda_division
+21,Bilbao Ath.,13,3,4,8,8,13,22,2016,15,segunda_division
+22,Almería,13,2,7,6,15,22,22,2016,15,segunda_division
+1,Córdoba,30,9,3,4,21,18,22,2016,16,segunda_division
+2,Alavés,29,9,2,5,21,16,22,2016,16,segunda_division
+3,Real Zaragoza,26,7,5,4,16,10,22,2016,16,segunda_division
+4,Osasuna,26,8,2,6,19,17,22,2016,16,segunda_division
+5,Gimnàstic,26,7,5,4,18,16,22,2016,16,segunda_division
+6,Ponferradina,25,7,4,5,21,14,22,2016,16,segunda_division
+7,Real Oviedo,25,7,4,5,24,21,22,2016,16,segunda_division
+8,Mirandés,24,6,6,4,26,20,22,2016,16,segunda_division
+9,Alcorcón,24,7,3,6,21,18,22,2016,16,segunda_division
+10,Leganés,23,5,8,3,19,14,22,2016,16,segunda_division
+11,Lugo,23,5,8,3,14,15,22,2016,16,segunda_division
+12,Numancia,20,4,8,4,22,21,22,2016,16,segunda_division
+13,Elche,20,5,5,6,15,21,22,2016,16,segunda_division
+14,Tenerife,19,4,7,5,20,22,22,2016,16,segunda_division
+15,Albacete,19,5,4,7,19,22,22,2016,16,segunda_division
+16,Girona,18,4,6,6,16,16,22,2016,16,segunda_division
+17,Real Valladolid,18,4,6,6,17,20,22,2016,16,segunda_division
+18,Mallorca,18,4,6,6,11,14,22,2016,16,segunda_division
+19,Huesca,16,3,7,6,13,18,22,2016,16,segunda_division
+20,Llagostera,16,5,1,10,18,25,22,2016,16,segunda_division
+21,Almería,14,2,8,6,17,24,22,2016,16,segunda_division
+22,Bilbao Ath.,13,3,4,9,8,14,22,2016,16,segunda_division
+1,Córdoba,33,10,3,4,23,18,22,2016,17,segunda_division
+2,Alavés,30,9,3,5,22,17,22,2016,17,segunda_division
+3,Real Oviedo,28,8,4,5,26,22,22,2016,17,segunda_division
+4,Osasuna,27,8,3,6,20,18,22,2016,17,segunda_division
+5,Real Zaragoza,27,7,6,4,18,12,22,2016,17,segunda_division
+6,Leganés,26,6,8,3,20,14,22,2016,17,segunda_division
+7,Gimnàstic,26,7,5,5,18,17,22,2016,17,segunda_division
+8,Lugo,26,6,8,3,17,16,22,2016,17,segunda_division
+9,Alcorcón,25,7,4,6,22,19,22,2016,17,segunda_division
+10,Ponferradina,25,7,4,6,22,17,22,2016,17,segunda_division
+11,Mirandés,24,6,6,5,27,22,22,2016,17,segunda_division
+12,Elche,23,6,5,6,16,21,22,2016,17,segunda_division
+13,Tenerife,22,5,7,5,22,23,22,2016,17,segunda_division
+14,Numancia,21,4,9,4,24,23,22,2016,17,segunda_division
+15,Real Valladolid,21,5,6,6,18,20,22,2016,17,segunda_division
+16,Huesca,19,4,7,6,15,19,22,2016,17,segunda_division
+17,Albacete,19,5,4,8,19,23,22,2016,17,segunda_division
+18,Girona,18,4,6,7,16,17,22,2016,17,segunda_division
+19,Mallorca,18,4,6,7,12,16,22,2016,17,segunda_division
+20,Llagostera,16,5,1,11,18,27,22,2016,17,segunda_division
+21,Bilbao Ath.,14,3,5,9,9,15,22,2016,17,segunda_division
+22,Almería,14,2,8,7,18,26,22,2016,17,segunda_division
+1,Alavés,33,10,3,5,23,17,22,2016,18,segunda_division
+2,Córdoba,33,10,3,5,24,20,22,2016,18,segunda_division
+3,Real Oviedo,31,9,4,5,27,22,22,2016,18,segunda_division
+4,Osasuna,30,9,3,6,23,19,22,2016,18,segunda_division
+5,Gimnàstic,29,8,5,5,21,18,22,2016,18,segunda_division
+6,Alcorcón,28,8,4,6,23,19,22,2016,18,segunda_division
+7,Leganés,27,6,9,3,21,15,22,2016,18,segunda_division
+8,Real Zaragoza,27,7,6,5,19,15,22,2016,18,segunda_division
+9,Lugo,27,6,9,3,18,17,22,2016,18,segunda_division
+10,Elche,26,7,5,6,18,22,22,2016,18,segunda_division
+11,Mirandés,25,6,7,5,27,22,22,2016,18,segunda_division
+12,Ponferradina,25,7,4,7,22,18,22,2016,18,segunda_division
+13,Real Valladolid,24,6,6,6,22,21,22,2016,18,segunda_division
+14,Tenerife,22,5,7,6,23,27,22,2016,18,segunda_division
+15,Numancia,21,4,9,5,25,26,22,2016,18,segunda_division
+16,Huesca,20,4,8,6,16,20,22,2016,18,segunda_division
+17,Girona,19,4,7,7,17,18,22,2016,18,segunda_division
+18,Mallorca,19,4,7,7,13,17,22,2016,18,segunda_division
+19,Albacete,19,5,4,9,19,24,22,2016,18,segunda_division
+20,Llagostera,17,5,2,11,18,27,22,2016,18,segunda_division
+21,Bilbao Ath.,15,3,6,9,10,16,22,2016,18,segunda_division
+22,Almería,14,2,8,8,18,27,22,2016,18,segunda_division
+1,Alavés,36,11,3,5,26,17,22,2016,19,segunda_division
+2,Córdoba,33,10,3,6,25,22,22,2016,19,segunda_division
+3,Real Oviedo,32,9,5,5,28,23,22,2016,19,segunda_division
+4,Alcorcón,31,9,4,6,25,20,22,2016,19,segunda_division
+5,Osasuna,31,9,4,6,24,20,22,2016,19,segunda_division
+6,Gimnàstic,30,8,6,5,22,19,22,2016,19,segunda_division
+7,Mirandés,28,7,7,5,29,23,22,2016,19,segunda_division
+8,Leganés,28,6,10,3,22,16,22,2016,19,segunda_division
+9,Real Zaragoza,28,7,7,5,22,18,22,2016,19,segunda_division
+10,Lugo,27,6,9,4,20,20,22,2016,19,segunda_division
+11,Elche,27,7,6,6,19,23,22,2016,19,segunda_division
+12,Ponferradina,26,7,5,7,24,20,22,2016,19,segunda_division
+13,Numancia,24,5,9,5,28,28,22,2016,19,segunda_division
+14,Real Valladolid,24,6,6,7,22,22,22,2016,19,segunda_division
+15,Girona,22,5,7,7,18,18,22,2016,19,segunda_division
+16,Tenerife,22,5,7,7,24,29,22,2016,19,segunda_division
+17,Huesca,21,4,9,6,19,23,22,2016,19,segunda_division
+18,Mallorca,20,4,8,7,14,18,22,2016,19,segunda_division
+19,Albacete,20,5,5,9,21,26,22,2016,19,segunda_division
+20,Almería,17,3,8,8,20,28,22,2016,19,segunda_division
+21,Llagostera,17,5,2,12,19,29,22,2016,19,segunda_division
+22,Bilbao Ath.,15,3,6,10,10,19,22,2016,19,segunda_division
+1,Alavés,39,12,3,5,27,17,22,2016,20,segunda_division
+2,Córdoba,36,11,3,6,28,23,22,2016,20,segunda_division
+3,Real Oviedo,35,10,5,5,29,23,22,2016,20,segunda_division
+4,Alcorcón,34,10,4,6,26,20,22,2016,20,segunda_division
+5,Osasuna,34,10,4,6,25,20,22,2016,20,segunda_division
+6,Leganés,31,7,10,3,23,16,22,2016,20,segunda_division
+7,Lugo,30,7,9,4,22,21,22,2016,20,segunda_division
+8,Gimnàstic,30,8,6,6,23,21,22,2016,20,segunda_division
+9,Mirandés,29,7,8,5,30,24,22,2016,20,segunda_division
+10,Real Zaragoza,28,7,7,6,22,19,22,2016,20,segunda_division
+11,Elche,28,7,7,6,20,24,22,2016,20,segunda_division
+12,Ponferradina,26,7,5,8,24,21,22,2016,20,segunda_division
+13,Real Valladolid,25,6,7,7,23,23,22,2016,20,segunda_division
+14,Tenerife,25,6,7,7,25,29,22,2016,20,segunda_division
+15,Numancia,24,5,9,6,28,29,22,2016,20,segunda_division
+16,Albacete,23,6,5,9,22,26,22,2016,20,segunda_division
+17,Girona,22,5,7,8,18,19,22,2016,20,segunda_division
+18,Huesca,21,4,9,7,19,24,22,2016,20,segunda_division
+19,Mallorca,20,4,8,8,15,21,22,2016,20,segunda_division
+20,Almería,18,3,9,8,21,29,22,2016,20,segunda_division
+21,Llagostera,17,5,2,13,19,30,22,2016,20,segunda_division
+22,Bilbao Ath.,15,3,6,11,10,20,22,2016,20,segunda_division
+1,Alavés,39,12,3,6,28,20,22,2016,21,segunda_division
+2,Córdoba,39,12,3,6,29,23,22,2016,21,segunda_division
+3,Real Oviedo,36,10,6,5,29,23,22,2016,21,segunda_division
+4,Osasuna,35,10,5,6,25,20,22,2016,21,segunda_division
+5,Leganés,34,8,10,3,27,16,22,2016,21,segunda_division
+6,Alcorcón,34,10,4,7,26,22,22,2016,21,segunda_division
+7,Gimnàstic,33,9,6,6,26,22,22,2016,21,segunda_division
+8,Real Zaragoza,31,8,7,6,23,19,22,2016,21,segunda_division
+9,Lugo,31,7,10,4,23,22,22,2016,21,segunda_division
+10,Elche,31,8,7,6,22,24,22,2016,21,segunda_division
+11,Mirandés,29,7,8,6,30,28,22,2016,21,segunda_division
+12,Real Valladolid,28,7,7,7,24,23,22,2016,21,segunda_division
+13,Tenerife,28,7,7,7,27,29,22,2016,21,segunda_division
+14,Numancia,27,6,9,6,30,29,22,2016,21,segunda_division
+15,Ponferradina,26,7,5,9,24,25,22,2016,21,segunda_division
+16,Girona,25,6,7,8,22,19,22,2016,21,segunda_division
+17,Albacete,23,6,5,10,22,28,22,2016,21,segunda_division
+18,Huesca,22,4,10,7,20,25,22,2016,21,segunda_division
+19,Mallorca,20,4,8,9,15,22,22,2016,21,segunda_division
+20,Almería,18,3,9,9,21,30,22,2016,21,segunda_division
+21,Llagostera,17,5,2,14,19,31,22,2016,21,segunda_division
+22,Bilbao Ath.,15,3,6,12,10,22,22,2016,21,segunda_division
+1,Alavés,42,13,3,6,29,20,22,2016,22,segunda_division
+2,Córdoba,39,12,3,7,29,25,22,2016,22,segunda_division
+3,Osasuna,38,11,5,6,28,20,22,2016,22,segunda_division
+4,Leganés,37,9,10,3,29,17,22,2016,22,segunda_division
+5,Real Oviedo,37,10,7,5,31,25,22,2016,22,segunda_division
+6,Gimnàstic,34,9,7,6,27,23,22,2016,22,segunda_division
+7,Alcorcón,34,10,4,8,26,23,22,2016,22,segunda_division
+8,Elche,34,9,7,6,23,24,22,2016,22,segunda_division
+9,Mirandés,32,8,8,6,32,29,22,2016,22,segunda_division
+10,Lugo,32,7,11,4,25,24,22,2016,22,segunda_division
+11,Real Valladolid,31,8,7,7,26,23,22,2016,22,segunda_division
+12,Real Zaragoza,31,8,7,7,24,21,22,2016,22,segunda_division
+13,Tenerife,29,7,8,7,27,29,22,2016,22,segunda_division
+14,Numancia,28,6,10,6,30,29,22,2016,22,segunda_division
+15,Girona,28,7,7,8,24,20,22,2016,22,segunda_division
+16,Ponferradina,26,7,5,10,24,26,22,2016,22,segunda_division
+17,Albacete,24,6,6,10,23,29,22,2016,22,segunda_division
+18,Mallorca,23,5,8,9,16,22,22,2016,22,segunda_division
+19,Huesca,22,4,10,8,20,26,22,2016,22,segunda_division
+20,Almería,18,3,9,10,22,32,22,2016,22,segunda_division
+21,Llagostera,17,5,2,15,19,34,22,2016,22,segunda_division
+22,Bilbao Ath.,15,3,6,13,11,24,22,2016,22,segunda_division
+1,Alavés,43,13,4,6,30,21,22,2016,23,segunda_division
+2,Leganés,40,10,10,3,32,19,22,2016,23,segunda_division
+3,Córdoba,39,12,3,8,31,28,22,2016,23,segunda_division
+4,Real Oviedo,38,10,8,5,32,26,22,2016,23,segunda_division
+5,Osasuna,38,11,5,7,28,24,22,2016,23,segunda_division
+6,Gimnàstic,37,10,7,6,29,24,22,2016,23,segunda_division
+7,Elche,37,10,7,6,24,24,22,2016,23,segunda_division
+8,Mirandés,35,9,8,6,36,29,22,2016,23,segunda_division
+9,Alcorcón,35,10,5,8,26,23,22,2016,23,segunda_division
+10,Lugo,33,7,12,4,25,24,22,2016,23,segunda_division
+11,Real Valladolid,32,8,8,7,26,23,22,2016,23,segunda_division
+12,Real Zaragoza,31,8,7,8,25,23,22,2016,23,segunda_division
+13,Girona,29,7,8,8,25,21,22,2016,23,segunda_division
+14,Numancia,29,6,11,6,31,30,22,2016,23,segunda_division
+15,Tenerife,29,7,8,8,28,31,22,2016,23,segunda_division
+16,Mallorca,26,6,8,9,18,22,22,2016,23,segunda_division
+17,Ponferradina,26,7,5,11,24,28,22,2016,23,segunda_division
+18,Huesca,25,5,10,8,23,27,22,2016,23,segunda_division
+19,Albacete,24,6,6,11,24,32,22,2016,23,segunda_division
+20,Almería,21,4,9,10,24,33,22,2016,23,segunda_division
+21,Llagostera,18,5,3,15,19,34,22,2016,23,segunda_division
+22,Bilbao Ath.,15,3,6,14,11,25,22,2016,23,segunda_division
+1,Alavés,46,14,4,6,31,21,22,2016,24,segunda_division
+2,Leganés,40,10,10,4,32,20,22,2016,24,segunda_division
+3,Córdoba,40,12,4,8,34,31,22,2016,24,segunda_division
+4,Real Oviedo,39,10,9,5,34,28,22,2016,24,segunda_division
+5,Osasuna,39,11,6,7,28,24,22,2016,24,segunda_division
+6,Mirandés,38,10,8,6,40,30,22,2016,24,segunda_division
+7,Gimnàstic,38,10,8,6,30,25,22,2016,24,segunda_division
+8,Elche,38,10,8,6,24,24,22,2016,24,segunda_division
+9,Alcorcón,36,10,6,8,29,26,22,2016,24,segunda_division
+10,Real Zaragoza,34,9,7,8,26,23,22,2016,24,segunda_division
+11,Real Valladolid,33,8,9,7,26,23,22,2016,24,segunda_division
+12,Lugo,33,7,12,5,26,28,22,2016,24,segunda_division
+13,Girona,30,7,9,8,26,22,22,2016,24,segunda_division
+14,Numancia,30,6,12,6,31,30,22,2016,24,segunda_division
+15,Tenerife,30,7,9,8,29,32,22,2016,24,segunda_division
+16,Ponferradina,27,7,6,11,24,28,22,2016,24,segunda_division
+17,Huesca,26,5,11,8,24,28,22,2016,24,segunda_division
+18,Mallorca,26,6,8,10,20,25,22,2016,24,segunda_division
+19,Albacete,25,6,7,11,26,34,22,2016,24,segunda_division
+20,Almería,22,4,10,10,24,33,22,2016,24,segunda_division
+21,Bilbao Ath.,18,4,6,14,14,27,22,2016,24,segunda_division
+22,Llagostera,18,5,3,16,19,35,22,2016,24,segunda_division
+1,Alavés,47,14,5,6,31,21,22,2016,25,segunda_division
+2,Leganés,43,11,10,4,34,20,22,2016,25,segunda_division
+3,Real Oviedo,42,11,9,5,35,28,22,2016,25,segunda_division
+4,Gimnàstic,41,11,8,6,31,25,22,2016,25,segunda_division
+5,Córdoba,40,12,4,9,34,33,22,2016,25,segunda_division
+6,Mirandés,39,10,9,6,40,30,22,2016,25,segunda_division
+7,Osasuna,39,11,6,8,28,26,22,2016,25,segunda_division
+8,Elche,38,10,8,7,24,25,22,2016,25,segunda_division
+9,Real Zaragoza,37,10,7,8,28,23,22,2016,25,segunda_division
+10,Alcorcón,37,10,7,8,29,26,22,2016,25,segunda_division
+11,Real Valladolid,36,9,9,7,27,23,22,2016,25,segunda_division
+12,Lugo,36,8,12,5,28,28,22,2016,25,segunda_division
+13,Numancia,33,7,12,6,33,30,22,2016,25,segunda_division
+14,Girona,33,8,9,8,27,22,22,2016,25,segunda_division
+15,Tenerife,30,7,9,9,29,33,22,2016,25,segunda_division
+16,Ponferradina,28,7,7,11,24,28,22,2016,25,segunda_division
+17,Huesca,26,5,11,9,24,29,22,2016,25,segunda_division
+18,Mallorca,26,6,8,11,20,27,22,2016,25,segunda_division
+19,Albacete,25,6,7,12,26,36,22,2016,25,segunda_division
+20,Almería,22,4,10,11,24,35,22,2016,25,segunda_division
+21,Llagostera,21,6,3,16,21,35,22,2016,25,segunda_division
+22,Bilbao Ath.,18,4,6,15,14,28,22,2016,25,segunda_division
+1,Alavés,48,14,6,6,32,22,22,2016,26,segunda_division
+2,Leganés,46,12,10,4,36,21,22,2016,26,segunda_division
+3,Real Oviedo,43,11,10,5,36,29,22,2016,26,segunda_division
+4,Córdoba,43,13,4,9,37,34,22,2016,26,segunda_division
+5,Gimnàstic,42,11,9,6,33,27,22,2016,26,segunda_division
+6,Mirandés,40,10,10,6,41,31,22,2016,26,segunda_division
+7,Alcorcón,40,11,7,8,30,26,22,2016,26,segunda_division
+8,Osasuna,40,11,7,8,29,27,22,2016,26,segunda_division
+9,Elche,39,10,9,7,25,26,22,2016,26,segunda_division
+10,Real Zaragoza,38,10,8,8,29,24,22,2016,26,segunda_division
+11,Real Valladolid,37,9,10,7,29,25,22,2016,26,segunda_division
+12,Lugo,36,8,12,6,29,30,22,2016,26,segunda_division
+13,Numancia,34,7,13,6,35,32,22,2016,26,segunda_division
+14,Girona,34,8,10,8,28,23,22,2016,26,segunda_division
+15,Tenerife,33,8,9,9,32,34,22,2016,26,segunda_division
+16,Ponferradina,28,7,7,12,25,31,22,2016,26,segunda_division
+17,Huesca,27,5,12,9,25,30,22,2016,26,segunda_division
+18,Mallorca,27,6,9,11,22,29,22,2016,26,segunda_division
+19,Albacete,26,6,8,12,27,37,22,2016,26,segunda_division
+20,Almería,23,4,11,11,25,36,22,2016,26,segunda_division
+21,Llagostera,21,6,3,17,22,38,22,2016,26,segunda_division
+22,Bilbao Ath.,18,4,6,16,14,29,22,2016,26,segunda_division
+1,Leganés,49,13,10,4,38,21,22,2016,27,segunda_division
+2,Alavés,48,14,6,7,32,24,22,2016,27,segunda_division
+3,Real Oviedo,46,12,10,5,39,29,22,2016,27,segunda_division
+4,Gimnàstic,43,11,10,6,34,28,22,2016,27,segunda_division
+5,Osasuna,43,12,7,8,30,27,22,2016,27,segunda_division
+6,Córdoba,43,13,4,10,37,35,22,2016,27,segunda_division
+7,Real Zaragoza,41,11,8,8,32,25,22,2016,27,segunda_division
+8,Alcorcón,41,11,8,8,31,27,22,2016,27,segunda_division
+9,Mirandés,40,10,10,7,42,33,22,2016,27,segunda_division
+10,Elche,39,10,9,8,25,29,22,2016,27,segunda_division
+11,Real Valladolid,38,9,11,7,30,26,22,2016,27,segunda_division
+12,Girona,37,9,10,8,29,23,22,2016,27,segunda_division
+13,Tenerife,36,9,9,9,34,35,22,2016,27,segunda_division
+14,Lugo,36,8,12,7,30,33,22,2016,27,segunda_division
+15,Numancia,35,7,14,6,36,33,22,2016,27,segunda_division
+16,Mallorca,30,7,9,11,24,30,22,2016,27,segunda_division
+17,Ponferradina,28,7,7,13,27,35,22,2016,27,segunda_division
+18,Huesca,27,5,12,10,26,32,22,2016,27,segunda_division
+19,Albacete,26,6,8,13,27,38,22,2016,27,segunda_division
+20,Almería,26,5,11,11,26,36,22,2016,27,segunda_division
+21,Bilbao Ath.,21,5,6,16,18,31,22,2016,27,segunda_division
+22,Llagostera,21,6,3,18,22,39,22,2016,27,segunda_division
+1,Leganés,52,14,10,4,41,21,22,2016,28,segunda_division
+2,Alavés,49,14,7,7,32,24,22,2016,28,segunda_division
+3,Real Oviedo,46,12,10,6,39,30,22,2016,28,segunda_division
+4,Córdoba,46,14,4,10,39,36,22,2016,28,segunda_division
+5,Gimnàstic,44,11,11,6,35,29,22,2016,28,segunda_division
+6,Osasuna,43,12,7,9,30,29,22,2016,28,segunda_division
+7,Real Zaragoza,42,11,9,8,32,25,22,2016,28,segunda_division
+8,Alcorcón,42,11,9,8,32,28,22,2016,28,segunda_division
+9,Girona,40,10,10,8,31,23,22,2016,28,segunda_division
+10,Mirandés,40,10,10,8,42,35,22,2016,28,segunda_division
+11,Elche,40,10,10,8,26,30,22,2016,28,segunda_division
+12,Lugo,39,9,12,7,32,33,22,2016,28,segunda_division
+13,Real Valladolid,38,9,11,8,30,27,22,2016,28,segunda_division
+14,Tenerife,37,9,10,9,34,35,22,2016,28,segunda_division
+15,Numancia,35,7,14,7,36,34,22,2016,28,segunda_division
+16,Mallorca,33,8,9,11,25,30,22,2016,28,segunda_division
+17,Ponferradina,31,8,7,13,28,35,22,2016,28,segunda_division
+18,Huesca,30,6,12,10,27,32,22,2016,28,segunda_division
+19,Almería,27,5,12,11,26,36,22,2016,28,segunda_division
+20,Albacete,26,6,8,14,27,41,22,2016,28,segunda_division
+21,Llagostera,22,6,4,18,23,40,22,2016,28,segunda_division
+22,Bilbao Ath.,21,5,6,17,19,33,22,2016,28,segunda_division
+1,Leganés,52,14,10,5,41,22,22,2016,29,segunda_division
+2,Alavés,49,14,7,8,33,27,22,2016,29,segunda_division
+3,Real Oviedo,46,12,10,7,41,34,22,2016,29,segunda_division
+4,Osasuna,46,13,7,9,33,30,22,2016,29,segunda_division
+5,Córdoba,46,14,4,11,40,38,22,2016,29,segunda_division
+6,Real Zaragoza,45,12,9,8,33,25,22,2016,29,segunda_division
+7,Gimnàstic,45,11,12,6,36,30,22,2016,29,segunda_division
+8,Elche,43,11,10,8,28,31,22,2016,29,segunda_division
+9,Alcorcón,42,11,9,9,32,29,22,2016,29,segunda_division
+10,Lugo,42,10,12,7,34,34,22,2016,29,segunda_division
+11,Real Valladolid,41,10,11,8,34,29,22,2016,29,segunda_division
+12,Girona,40,10,10,9,31,24,22,2016,29,segunda_division
+13,Mirandés,40,10,10,9,43,37,22,2016,29,segunda_division
+14,Tenerife,40,10,10,9,35,35,22,2016,29,segunda_division
+15,Numancia,38,8,14,7,39,36,22,2016,29,segunda_division
+16,Huesca,33,7,12,10,28,32,22,2016,29,segunda_division
+17,Mallorca,33,8,9,12,25,33,22,2016,29,segunda_division
+18,Ponferradina,32,8,8,13,29,36,22,2016,29,segunda_division
+19,Almería,30,6,12,11,27,36,22,2016,29,segunda_division
+20,Albacete,26,6,8,15,27,42,22,2016,29,segunda_division
+21,Llagostera,25,7,4,18,26,40,22,2016,29,segunda_division
+22,Bilbao Ath.,21,5,6,18,21,36,22,2016,29,segunda_division
+1,Leganés,53,14,11,5,42,23,22,2016,30,segunda_division
+2,Alavés,50,14,8,8,33,27,22,2016,30,segunda_division
+3,Gimnàstic,48,12,12,6,40,30,22,2016,30,segunda_division
+4,Córdoba,47,14,5,11,41,39,22,2016,30,segunda_division
+5,Real Zaragoza,46,12,10,8,33,25,22,2016,30,segunda_division
+6,Real Oviedo,46,12,10,8,41,35,22,2016,30,segunda_division
+7,Osasuna,46,13,7,10,34,33,22,2016,30,segunda_division
+8,Alcorcón,45,12,9,9,33,29,22,2016,30,segunda_division
+9,Real Valladolid,44,11,11,8,37,29,22,2016,30,segunda_division
+10,Elche,44,11,11,8,28,31,22,2016,30,segunda_division
+11,Lugo,43,10,13,7,34,34,22,2016,30,segunda_division
+12,Girona,41,10,11,9,32,25,22,2016,30,segunda_division
+13,Mirandés,41,10,11,9,44,38,22,2016,30,segunda_division
+14,Tenerife,41,10,11,9,35,35,22,2016,30,segunda_division
+15,Numancia,39,8,15,7,40,37,22,2016,30,segunda_division
+16,Ponferradina,35,9,8,13,31,37,22,2016,30,segunda_division
+17,Mallorca,34,8,10,12,26,34,22,2016,30,segunda_division
+18,Huesca,33,7,12,11,29,34,22,2016,30,segunda_division
+19,Almería,31,6,13,11,27,36,22,2016,30,segunda_division
+20,Albacete,29,7,8,15,30,43,22,2016,30,segunda_division
+21,Llagostera,25,7,4,19,26,43,22,2016,30,segunda_division
+22,Bilbao Ath.,21,5,6,19,21,40,22,2016,30,segunda_division
+1,Leganés,54,14,12,5,42,23,22,2016,31,segunda_division
+2,Alavés,53,15,8,8,35,28,22,2016,31,segunda_division
+3,Gimnàstic,51,13,12,6,41,30,22,2016,31,segunda_division
+4,Real Oviedo,49,13,10,8,44,35,22,2016,31,segunda_division
+5,Osasuna,47,13,8,10,34,33,22,2016,31,segunda_division
+6,Córdoba,47,14,5,12,42,41,22,2016,31,segunda_division
+7,Real Zaragoza,46,12,10,9,33,28,22,2016,31,segunda_division
+8,Lugo,46,11,13,7,36,35,22,2016,31,segunda_division
+9,Alcorcón,45,12,9,10,33,33,22,2016,31,segunda_division
+10,Elche,45,11,12,8,28,31,22,2016,31,segunda_division
+11,Girona,44,11,11,9,35,25,22,2016,31,segunda_division
+12,Mirandés,44,11,11,9,48,39,22,2016,31,segunda_division
+13,Real Valladolid,44,11,11,9,38,33,22,2016,31,segunda_division
+14,Tenerife,42,10,12,9,35,35,22,2016,31,segunda_division
+15,Numancia,39,8,15,8,40,38,22,2016,31,segunda_division
+16,Mallorca,35,8,11,12,27,35,22,2016,31,segunda_division
+17,Ponferradina,35,9,8,14,31,40,22,2016,31,segunda_division
+18,Huesca,33,7,12,12,30,36,22,2016,31,segunda_division
+19,Almería,32,6,14,11,28,37,22,2016,31,segunda_division
+20,Albacete,29,7,8,16,31,45,22,2016,31,segunda_division
+21,Llagostera,28,8,4,19,30,43,22,2016,31,segunda_division
+22,Bilbao Ath.,24,6,6,19,23,41,22,2016,31,segunda_division
+1,Alavés,56,16,8,8,36,28,22,2016,32,segunda_division
+2,Leganés,54,14,12,6,42,26,22,2016,32,segunda_division
+3,Gimnàstic,52,13,13,6,45,34,22,2016,32,segunda_division
+4,Real Oviedo,49,13,10,9,45,37,22,2016,32,segunda_division
+5,Córdoba,48,14,6,12,46,45,22,2016,32,segunda_division
+6,Alcorcón,48,13,9,10,34,33,22,2016,32,segunda_division
+7,Osasuna,48,13,9,10,34,33,22,2016,32,segunda_division
+8,Elche,48,12,12,8,30,32,22,2016,32,segunda_division
+9,Real Zaragoza,46,12,10,10,34,30,22,2016,32,segunda_division
+10,Lugo,46,11,13,8,36,36,22,2016,32,segunda_division
+11,Girona,45,11,12,9,35,25,22,2016,32,segunda_division
+12,Real Valladolid,45,11,12,9,39,34,22,2016,32,segunda_division
+13,Tenerife,45,11,12,9,36,35,22,2016,32,segunda_division
+14,Mirandés,44,11,11,10,48,40,22,2016,32,segunda_division
+15,Numancia,42,9,15,8,43,40,22,2016,32,segunda_division
+16,Mallorca,38,9,11,12,30,35,22,2016,32,segunda_division
+17,Ponferradina,38,10,8,14,32,40,22,2016,32,segunda_division
+18,Huesca,33,7,12,13,32,39,22,2016,32,segunda_division
+19,Almería,33,6,15,11,29,38,22,2016,32,segunda_division
+20,Albacete,29,7,8,17,31,46,22,2016,32,segunda_division
+21,Llagostera,28,8,4,20,30,44,22,2016,32,segunda_division
+22,Bilbao Ath.,27,7,6,19,25,42,22,2016,32,segunda_division
+1,Leganés,57,15,12,6,46,26,22,2016,33,segunda_division
+2,Alavés,57,16,9,8,38,30,22,2016,33,segunda_division
+3,Real Oviedo,52,14,10,9,46,37,22,2016,33,segunda_division
+4,Gimnàstic,52,13,13,7,45,36,22,2016,33,segunda_division
+5,Real Zaragoza,49,13,10,10,36,31,22,2016,33,segunda_division
+6,Alcorcón,49,13,10,10,35,34,22,2016,33,segunda_division
+7,Osasuna,49,13,10,10,34,33,22,2016,33,segunda_division
+8,Elche,49,12,13,8,30,32,22,2016,33,segunda_division
+9,Córdoba,48,14,6,13,48,48,22,2016,33,segunda_division
+10,Mirandés,47,12,11,10,49,40,22,2016,33,segunda_division
+11,Lugo,47,11,14,8,37,37,22,2016,33,segunda_division
+12,Girona,46,11,13,9,36,26,22,2016,33,segunda_division
+13,Tenerife,46,11,13,9,38,37,22,2016,33,segunda_division
+14,Real Valladolid,45,11,12,10,39,38,22,2016,33,segunda_division
+15,Numancia,42,9,15,9,43,41,22,2016,33,segunda_division
+16,Mallorca,38,9,11,13,31,37,22,2016,33,segunda_division
+17,Ponferradina,38,10,8,15,32,41,22,2016,33,segunda_division
+18,Huesca,36,8,12,13,34,39,22,2016,33,segunda_division
+19,Almería,34,6,16,11,30,39,22,2016,33,segunda_division
+20,Albacete,32,8,8,17,34,48,22,2016,33,segunda_division
+21,Llagostera,31,9,4,20,32,45,22,2016,33,segunda_division
+22,Bilbao Ath.,27,7,6,20,26,44,22,2016,33,segunda_division
+1,Leganés,57,15,12,7,46,28,22,2016,34,segunda_division
+2,Alavés,57,16,9,9,38,31,22,2016,34,segunda_division
+3,Real Oviedo,53,14,11,9,46,37,22,2016,34,segunda_division
+4,Gimnàstic,53,13,14,7,45,36,22,2016,34,segunda_division
+5,Real Zaragoza,52,14,10,10,38,32,22,2016,34,segunda_division
+6,Alcorcón,52,14,10,10,37,34,22,2016,34,segunda_division
+7,Elche,52,13,13,8,32,32,22,2016,34,segunda_division
+8,Córdoba,51,15,6,13,50,48,22,2016,34,segunda_division
+9,Osasuna,50,13,11,10,35,34,22,2016,34,segunda_division
+10,Girona,49,12,13,9,37,26,22,2016,34,segunda_division
+11,Tenerife,49,12,13,9,39,37,22,2016,34,segunda_division
+12,Mirandés,48,12,12,10,50,41,22,2016,34,segunda_division
+13,Lugo,47,11,14,9,37,39,22,2016,34,segunda_division
+14,Real Valladolid,45,11,12,11,40,40,22,2016,34,segunda_division
+15,Numancia,43,9,16,9,44,42,22,2016,34,segunda_division
+16,Mallorca,39,9,12,13,32,38,22,2016,34,segunda_division
+17,Ponferradina,38,10,8,16,33,44,22,2016,34,segunda_division
+18,Almería,37,7,16,11,33,40,22,2016,34,segunda_division
+19,Huesca,36,8,12,14,34,41,22,2016,34,segunda_division
+20,Llagostera,32,9,5,20,33,46,22,2016,34,segunda_division
+21,Albacete,32,8,8,18,34,49,22,2016,34,segunda_division
+22,Bilbao Ath.,28,7,7,20,27,45,22,2016,34,segunda_division
+1,Leganés,60,16,12,7,49,28,22,2016,35,segunda_division
+2,Alavés,58,16,10,9,38,31,22,2016,35,segunda_division
+3,Real Zaragoza,55,15,10,10,41,33,22,2016,35,segunda_division
+4,Gimnàstic,54,13,15,7,46,37,22,2016,35,segunda_division
+5,Real Oviedo,53,14,11,10,46,38,22,2016,35,segunda_division
+6,Osasuna,53,14,11,10,36,34,22,2016,35,segunda_division
+7,Elche,53,13,14,8,32,32,22,2016,35,segunda_division
+8,Girona,52,13,13,9,40,26,22,2016,35,segunda_division
+9,Córdoba,52,15,7,13,50,48,22,2016,35,segunda_division
+10,Alcorcón,52,14,10,11,38,37,22,2016,35,segunda_division
+11,Lugo,50,12,14,9,39,40,22,2016,35,segunda_division
+12,Tenerife,50,12,14,9,39,37,22,2016,35,segunda_division
+13,Mirandés,48,12,12,11,50,43,22,2016,35,segunda_division
+14,Numancia,46,10,16,9,46,42,22,2016,35,segunda_division
+15,Real Valladolid,45,11,12,12,40,41,22,2016,35,segunda_division
+16,Almería,40,8,16,11,36,42,22,2016,35,segunda_division
+17,Huesca,39,9,12,14,35,41,22,2016,35,segunda_division
+18,Mallorca,39,9,12,14,33,40,22,2016,35,segunda_division
+19,Ponferradina,38,10,8,17,33,47,22,2016,35,segunda_division
+20,Llagostera,33,9,6,20,34,47,22,2016,35,segunda_division
+21,Albacete,32,8,8,19,34,52,22,2016,35,segunda_division
+22,Bilbao Ath.,28,7,7,21,29,48,22,2016,35,segunda_division
+1,Leganés,63,17,12,7,51,29,22,2016,36,segunda_division
+2,Alavés,59,16,11,9,38,31,22,2016,36,segunda_division
+3,Gimnàstic,57,14,15,7,49,39,22,2016,36,segunda_division
+4,Real Oviedo,56,15,11,10,47,38,22,2016,36,segunda_division
+5,Real Zaragoza,56,15,11,10,42,34,22,2016,36,segunda_division
+6,Osasuna,56,15,11,10,37,34,22,2016,36,segunda_division
+7,Girona,55,14,13,9,41,26,22,2016,36,segunda_division
+8,Elche,54,13,15,8,33,33,22,2016,36,segunda_division
+9,Alcorcón,52,14,10,12,38,38,22,2016,36,segunda_division
+10,Córdoba,52,15,7,14,50,49,22,2016,36,segunda_division
+11,Lugo,51,12,15,9,40,41,22,2016,36,segunda_division
+12,Tenerife,50,12,14,10,39,38,22,2016,36,segunda_division
+13,Numancia,49,11,16,9,48,42,22,2016,36,segunda_division
+14,Mirandés,48,12,12,12,52,46,22,2016,36,segunda_division
+15,Real Valladolid,46,11,13,12,41,42,22,2016,36,segunda_division
+16,Huesca,42,10,12,14,38,42,22,2016,36,segunda_division
+17,Mallorca,40,9,13,14,33,40,22,2016,36,segunda_division
+18,Almería,40,8,16,12,36,44,22,2016,36,segunda_division
+19,Ponferradina,39,10,9,17,34,48,22,2016,36,segunda_division
+20,Llagostera,33,9,6,21,35,50,22,2016,36,segunda_division
+21,Albacete,33,8,9,19,35,53,22,2016,36,segunda_division
+22,Bilbao Ath.,28,7,7,22,30,50,22,2016,36,segunda_division
+1,Leganés,64,17,13,7,53,31,22,2016,37,segunda_division
+2,Alavés,62,17,11,9,40,32,22,2016,37,segunda_division
+3,Gimnàstic,60,15,15,7,51,40,22,2016,37,segunda_division
+4,Real Zaragoza,59,16,11,10,44,34,22,2016,37,segunda_division
+5,Osasuna,57,15,12,10,37,34,22,2016,37,segunda_division
+6,Real Oviedo,56,15,11,11,47,40,22,2016,37,segunda_division
+7,Girona,55,14,13,10,41,27,22,2016,37,segunda_division
+8,Córdoba,55,16,7,14,51,49,22,2016,37,segunda_division
+9,Alcorcón,55,15,10,12,40,39,22,2016,37,segunda_division
+10,Elche,55,13,16,8,34,34,22,2016,37,segunda_division
+11,Tenerife,51,12,15,10,40,39,22,2016,37,segunda_division
+12,Mirandés,51,13,12,12,53,46,22,2016,37,segunda_division
+13,Lugo,51,12,15,10,41,43,22,2016,37,segunda_division
+14,Numancia,50,11,17,9,50,44,22,2016,37,segunda_division
+15,Real Valladolid,46,11,13,13,42,44,22,2016,37,segunda_division
+16,Huesca,42,10,12,15,38,43,22,2016,37,segunda_division
+17,Mallorca,40,9,13,15,33,41,22,2016,37,segunda_division
+18,Almería,40,8,16,13,37,46,22,2016,37,segunda_division
+19,Ponferradina,40,10,10,17,34,48,22,2016,37,segunda_division
+20,Llagostera,36,10,6,21,37,50,22,2016,37,segunda_division
+21,Albacete,36,9,9,19,36,53,22,2016,37,segunda_division
+22,Bilbao Ath.,28,7,7,23,30,52,22,2016,37,segunda_division
+1,Leganés,65,17,14,7,53,31,22,2016,38,segunda_division
+2,Alavés,65,18,11,9,41,32,22,2016,38,segunda_division
+3,Gimnàstic,61,15,16,7,51,40,22,2016,38,segunda_division
+4,Real Zaragoza,60,16,12,10,46,36,22,2016,38,segunda_division
+5,Real Oviedo,59,16,11,11,51,41,22,2016,38,segunda_division
+6,Osasuna,58,15,13,10,37,34,22,2016,38,segunda_division
+7,Elche,56,13,17,8,35,35,22,2016,38,segunda_division
+8,Girona,56,14,14,10,42,28,22,2016,38,segunda_division
+9,Alcorcón,55,15,10,13,40,40,22,2016,38,segunda_division
+10,Córdoba,55,16,7,15,51,50,22,2016,38,segunda_division
+11,Numancia,51,11,18,9,52,46,22,2016,38,segunda_division
+12,Mirandés,51,13,12,13,54,50,22,2016,38,segunda_division
+13,Tenerife,51,12,15,11,40,40,22,2016,38,segunda_division
+14,Lugo,51,12,15,11,42,45,22,2016,38,segunda_division
+15,Real Valladolid,49,12,13,13,43,44,22,2016,38,segunda_division
+16,Huesca,45,11,12,15,40,44,22,2016,38,segunda_division
+17,Mallorca,43,10,13,15,34,41,22,2016,38,segunda_division
+18,Ponferradina,43,11,10,17,36,49,22,2016,38,segunda_division
+19,Almería,40,8,16,14,38,48,22,2016,38,segunda_division
+20,Llagostera,39,11,6,21,38,50,22,2016,38,segunda_division
+21,Albacete,36,9,9,20,36,54,22,2016,38,segunda_division
+22,Bilbao Ath.,29,7,8,23,30,52,22,2016,38,segunda_division
+1,Alavés,68,19,11,9,43,32,22,2016,39,segunda_division
+2,Leganés,65,17,14,8,55,34,22,2016,39,segunda_division
+3,Gimnàstic,64,16,16,7,52,40,22,2016,39,segunda_division
+4,Osasuna,61,16,13,10,40,36,22,2016,39,segunda_division
+5,Real Zaragoza,60,16,12,11,46,37,22,2016,39,segunda_division
+6,Girona,59,15,14,10,43,28,22,2016,39,segunda_division
+7,Real Oviedo,59,16,11,12,52,44,22,2016,39,segunda_division
+8,Alcorcón,58,16,10,13,42,40,22,2016,39,segunda_division
+9,Córdoba,58,17,7,15,54,51,22,2016,39,segunda_division
+10,Elche,56,13,17,9,36,38,22,2016,39,segunda_division
+11,Lugo,54,13,15,11,44,45,22,2016,39,segunda_division
+12,Tenerife,54,13,15,11,43,41,22,2016,39,segunda_division
+13,Mirandés,52,13,13,13,54,50,22,2016,39,segunda_division
+14,Numancia,51,11,18,10,54,49,22,2016,39,segunda_division
+15,Real Valladolid,49,12,13,14,44,47,22,2016,39,segunda_division
+16,Huesca,48,12,12,15,43,46,22,2016,39,segunda_division
+17,Mallorca,43,10,13,16,34,42,22,2016,39,segunda_division
+18,Almería,43,9,16,14,41,49,22,2016,39,segunda_division
+19,Ponferradina,43,11,10,18,36,51,22,2016,39,segunda_division
+20,Llagostera,40,11,7,21,38,50,22,2016,39,segunda_division
+21,Albacete,36,9,9,21,36,56,22,2016,39,segunda_division
+22,Bilbao Ath.,29,7,8,24,30,54,22,2016,39,segunda_division
+1,Alavés,71,20,11,9,46,34,22,2016,40,segunda_division
+2,Leganés,68,18,14,8,56,34,22,2016,40,segunda_division
+3,Gimnàstic,67,17,16,7,53,40,22,2016,40,segunda_division
+4,Osasuna,61,16,13,11,40,37,22,2016,40,segunda_division
+5,Alcorcón,61,17,10,13,44,41,22,2016,40,segunda_division
+6,Real Zaragoza,61,16,13,11,47,38,22,2016,40,segunda_division
+7,Córdoba,61,18,7,15,57,51,22,2016,40,segunda_division
+8,Girona,60,15,15,10,43,28,22,2016,40,segunda_division
+9,Real Oviedo,59,16,11,13,52,45,22,2016,40,segunda_division
+10,Elche,56,13,17,10,37,40,22,2016,40,segunda_division
+11,Numancia,54,12,18,10,55,49,22,2016,40,segunda_division
+12,Tenerife,54,13,15,12,44,43,22,2016,40,segunda_division
+13,Lugo,54,13,15,12,44,46,22,2016,40,segunda_division
+14,Mirandés,52,13,13,14,54,53,22,2016,40,segunda_division
+15,Real Valladolid,50,12,14,14,44,47,22,2016,40,segunda_division
+16,Huesca,49,12,13,15,44,47,22,2016,40,segunda_division
+17,Mallorca,46,11,13,16,36,43,22,2016,40,segunda_division
+18,Ponferradina,46,12,10,18,38,52,22,2016,40,segunda_division
+19,Almería,44,9,17,14,41,49,22,2016,40,segunda_division
+20,Llagostera,41,11,8,21,38,50,22,2016,40,segunda_division
+21,Albacete,36,9,9,22,37,58,22,2016,40,segunda_division
+22,Bilbao Ath.,29,7,8,25,32,57,22,2016,40,segunda_division
+1,Alavés,74,21,11,9,48,34,22,2016,41,segunda_division
+2,Leganés,71,19,14,8,58,34,22,2016,41,segunda_division
+3,Gimnàstic,70,18,16,7,56,40,22,2016,41,segunda_division
+4,Real Zaragoza,64,17,13,11,48,38,22,2016,41,segunda_division
+5,Córdoba,64,19,7,15,58,51,22,2016,41,segunda_division
+6,Girona,63,16,15,10,45,28,22,2016,41,segunda_division
+7,Osasuna,61,16,13,12,42,40,22,2016,41,segunda_division
+8,Alcorcón,61,17,10,14,44,43,22,2016,41,segunda_division
+9,Real Oviedo,59,16,11,14,52,46,22,2016,41,segunda_division
+10,Elche,57,13,18,10,39,42,22,2016,41,segunda_division
+11,Tenerife,55,13,16,12,45,44,22,2016,41,segunda_division
+12,Numancia,54,12,18,11,55,51,22,2016,41,segunda_division
+13,Lugo,54,13,15,13,44,49,22,2016,41,segunda_division
+14,Mirandés,52,13,13,15,55,55,22,2016,41,segunda_division
+15,Huesca,52,13,13,15,47,49,22,2016,41,segunda_division
+16,Real Valladolid,51,12,15,14,46,49,22,2016,41,segunda_division
+17,Almería,47,10,17,14,43,50,22,2016,41,segunda_division
+18,Ponferradina,47,12,11,18,39,53,22,2016,41,segunda_division
+19,Mallorca,46,11,13,17,36,44,22,2016,41,segunda_division
+20,Llagostera,41,11,8,22,38,52,22,2016,41,segunda_division
+21,Albacete,39,10,9,22,39,59,22,2016,41,segunda_division
+22,Bilbao Ath.,29,7,8,26,33,59,22,2016,41,segunda_division
+1,Alavés,75,21,12,9,49,35,22,2016,42,segunda_division
+2,Leganés,74,20,14,8,59,34,22,2016,42,segunda_division
+3,Gimnàstic,71,18,17,7,57,41,22,2016,42,segunda_division
+4,Girona,66,17,15,10,46,28,22,2016,42,segunda_division
+5,Córdoba,65,19,8,15,59,52,22,2016,42,segunda_division
+6,Osasuna,64,17,13,12,47,40,22,2016,42,segunda_division
+7,Alcorcón,64,18,10,14,48,44,22,2016,42,segunda_division
+8,Real Zaragoza,64,17,13,12,50,44,22,2016,42,segunda_division
+9,Real Oviedo,59,16,11,15,52,51,22,2016,42,segunda_division
+10,Numancia,57,13,18,11,57,51,22,2016,42,segunda_division
+11,Elche,57,13,18,11,40,46,22,2016,42,segunda_division
+12,Huesca,55,14,13,15,48,49,22,2016,42,segunda_division
+13,Tenerife,55,13,16,13,45,46,22,2016,42,segunda_division
+14,Lugo,54,13,15,14,44,50,22,2016,42,segunda_division
+15,Mirandés,52,13,13,16,55,56,22,2016,42,segunda_division
+16,Real Valladolid,51,12,15,15,47,52,22,2016,42,segunda_division
+17,Mallorca,49,12,13,17,39,45,22,2016,42,segunda_division
+18,Almería,48,10,18,14,44,51,22,2016,42,segunda_division
+19,Ponferradina,47,12,11,19,39,54,22,2016,42,segunda_division
+20,Llagostera,44,12,8,22,44,54,22,2016,42,segunda_division
+21,Albacete,39,10,9,23,39,61,22,2016,42,segunda_division
+22,Bilbao Ath.,32,8,8,26,35,59,22,2016,42,segunda_division

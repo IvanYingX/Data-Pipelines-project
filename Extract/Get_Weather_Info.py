@@ -155,7 +155,7 @@ if __name__ == '__main__':
     df_results = load_raw(RES_DIR)
     df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
     df_team = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
-    
+
     # Get the code for each city
     filename = './Data/Dictionaries/dict_city_code.pkl'
     if os.path.exists(filename):

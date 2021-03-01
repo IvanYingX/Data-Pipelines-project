@@ -1,0 +1,760 @@
+1,Barcelona,3,1,0,0,3,0,20,1998,1,primera_division
+2,Espanyol,3,1,0,0,3,1,20,1998,1,primera_division
+3,Real Betis,3,1,0,0,3,1,20,1998,1,primera_division
+4,Mallorca,3,1,0,0,2,1,20,1998,1,primera_division
+5,Racing,3,1,0,0,1,0,20,1998,1,primera_division
+6,Celta,3,1,0,0,2,1,20,1998,1,primera_division
+7,Compostela,3,1,0,0,2,0,20,1998,1,primera_division
+8,Real Oviedo,3,1,0,0,2,0,20,1998,1,primera_division
+9,Atlético,1,0,1,0,1,1,20,1998,1,primera_division
+10,Real Madrid,1,0,1,0,1,1,20,1998,1,primera_division
+11,Deportivo,1,0,1,0,0,0,20,1998,1,primera_division
+12,Tenerife,1,0,1,0,0,0,20,1998,1,primera_division
+13,Valencia,0,0,0,1,1,2,20,1998,1,primera_division
+14,UD Salamanca,0,0,0,1,0,1,20,1998,1,primera_division
+15,Athletic,0,0,0,1,1,3,20,1998,1,primera_division
+16,R. Sociedad,0,0,0,1,0,3,20,1998,1,primera_division
+17,Real Zaragoza,0,0,0,1,1,2,20,1998,1,primera_division
+18,Mérida CP,0,0,0,1,0,2,20,1998,1,primera_division
+19,Real Valladolid,0,0,0,1,1,3,20,1998,1,primera_division
+20,Real Sporting,0,0,0,1,0,2,20,1998,1,primera_division
+1,Barcelona,6,2,0,0,6,0,20,1998,2,primera_division
+2,Espanyol,4,1,1,0,4,2,20,1998,2,primera_division
+3,Real Madrid,4,1,1,0,3,1,20,1998,2,primera_division
+4,Mallorca,4,1,1,0,3,2,20,1998,2,primera_division
+5,Celta,4,1,1,0,3,2,20,1998,2,primera_division
+6,Real Betis,4,1,1,0,4,2,20,1998,2,primera_division
+7,Atlético,4,1,1,0,6,1,20,1998,2,primera_division
+8,Tenerife,4,1,1,0,2,0,20,1998,2,primera_division
+9,Real Oviedo,4,1,1,0,5,3,20,1998,2,primera_division
+10,Compostela,4,1,1,0,5,3,20,1998,2,primera_division
+11,Racing,3,1,0,1,1,1,20,1998,2,primera_division
+12,R. Sociedad,3,1,0,1,1,3,20,1998,2,primera_division
+13,Deportivo,2,0,2,0,1,1,20,1998,2,primera_division
+14,Athletic,1,0,1,1,2,4,20,1998,2,primera_division
+15,Real Zaragoza,1,0,1,1,4,5,20,1998,2,primera_division
+16,Mérida CP,1,0,1,1,3,5,20,1998,2,primera_division
+17,UD Salamanca,0,0,0,2,0,3,20,1998,2,primera_division
+18,Valencia,0,0,0,2,1,5,20,1998,2,primera_division
+19,Real Valladolid,0,0,0,2,1,8,20,1998,2,primera_division
+20,Real Sporting,0,0,0,2,0,4,20,1998,2,primera_division
+1,Barcelona,9,3,0,0,8,1,20,1998,3,primera_division
+2,Real Madrid,7,2,1,0,5,1,20,1998,3,primera_division
+3,Celta,7,2,1,0,5,2,20,1998,3,primera_division
+4,Mallorca,7,2,1,0,9,4,20,1998,3,primera_division
+5,Tenerife,7,2,1,0,4,1,20,1998,3,primera_division
+6,Racing,6,2,0,1,3,2,20,1998,3,primera_division
+7,Real Oviedo,5,1,2,0,6,4,20,1998,3,primera_division
+8,Espanyol,5,1,2,0,5,3,20,1998,3,primera_division
+9,Atlético,4,1,1,1,6,2,20,1998,3,primera_division
+10,Athletic,4,1,1,1,3,4,20,1998,3,primera_division
+11,Real Betis,4,1,1,1,4,4,20,1998,3,primera_division
+12,Compostela,4,1,1,1,6,5,20,1998,3,primera_division
+13,Real Zaragoza,4,1,1,1,5,5,20,1998,3,primera_division
+14,UD Salamanca,3,1,0,2,2,4,20,1998,3,primera_division
+15,R. Sociedad,3,1,0,2,1,5,20,1998,3,primera_division
+16,Deportivo,2,0,2,1,2,3,20,1998,3,primera_division
+17,Mérida CP,1,0,1,2,3,6,20,1998,3,primera_division
+18,Valencia,0,0,0,3,2,7,20,1998,3,primera_division
+19,Real Valladolid,0,0,0,3,2,10,20,1998,3,primera_division
+20,Real Sporting,0,0,0,3,2,10,20,1998,3,primera_division
+1,Barcelona,12,4,0,0,12,2,20,1998,4,primera_division
+2,Real Madrid,10,3,1,0,7,1,20,1998,4,primera_division
+3,Mallorca,10,3,1,0,13,5,20,1998,4,primera_division
+4,Celta,8,2,2,0,8,5,20,1998,4,primera_division
+5,Tenerife,7,2,1,1,5,5,20,1998,4,primera_division
+6,R. Sociedad,6,2,0,2,4,5,20,1998,4,primera_division
+7,Racing,6,2,0,2,4,6,20,1998,4,primera_division
+8,Real Oviedo,6,1,3,0,7,5,20,1998,4,primera_division
+9,Espanyol,6,1,3,0,5,3,20,1998,4,primera_division
+10,Atlético,5,1,2,1,9,5,20,1998,4,primera_division
+11,Athletic,5,1,2,1,3,4,20,1998,4,primera_division
+12,Deportivo,5,1,2,1,6,4,20,1998,4,primera_division
+13,Real Betis,5,1,2,1,5,5,20,1998,4,primera_division
+14,Compostela,5,1,2,1,8,7,20,1998,4,primera_division
+15,Real Zaragoza,5,1,2,1,7,7,20,1998,4,primera_division
+16,UD Salamanca,4,1,1,2,2,4,20,1998,4,primera_division
+17,Mérida CP,2,0,2,2,3,6,20,1998,4,primera_division
+18,Valencia,0,0,0,4,2,9,20,1998,4,primera_division
+19,Real Valladolid,0,0,0,4,2,13,20,1998,4,primera_division
+20,Real Sporting,0,0,0,4,3,14,20,1998,4,primera_division
+1,Barcelona,15,5,0,0,15,4,20,1998,5,primera_division
+2,Real Madrid,11,3,2,0,7,1,20,1998,5,primera_division
+3,Celta,11,3,2,0,12,6,20,1998,5,primera_division
+4,Mallorca,11,3,2,0,15,7,20,1998,5,primera_division
+5,Racing,9,3,0,2,8,7,20,1998,5,primera_division
+6,Atlético,8,2,2,1,11,5,20,1998,5,primera_division
+7,Real Betis,8,2,2,1,8,6,20,1998,5,primera_division
+8,R. Sociedad,7,2,1,2,5,6,20,1998,5,primera_division
+9,Espanyol,7,1,4,0,6,4,20,1998,5,primera_division
+10,Tenerife,7,2,1,2,7,8,20,1998,5,primera_division
+11,Athletic,6,1,3,1,4,5,20,1998,5,primera_division
+12,Deportivo,6,1,3,1,6,4,20,1998,5,primera_division
+13,Compostela,6,1,3,1,10,9,20,1998,5,primera_division
+14,Real Oviedo,6,1,3,1,7,7,20,1998,5,primera_division
+15,Real Zaragoza,6,1,3,1,8,8,20,1998,5,primera_division
+16,UD Salamanca,4,1,1,3,3,8,20,1998,5,primera_division
+17,Valencia,3,1,0,4,5,9,20,1998,5,primera_division
+18,Mérida CP,2,0,2,3,4,9,20,1998,5,primera_division
+19,Real Valladolid,0,0,0,5,2,16,20,1998,5,primera_division
+20,Real Sporting,0,0,0,5,4,18,20,1998,5,primera_division
+1,Barcelona,18,6,0,0,16,4,20,1998,6,primera_division
+2,Real Madrid,14,4,2,0,9,1,20,1998,6,primera_division
+3,Mallorca,11,3,2,1,15,8,20,1998,6,primera_division
+4,Celta,11,3,2,1,13,8,20,1998,6,primera_division
+5,Atlético,11,3,2,1,15,5,20,1998,6,primera_division
+6,R. Sociedad,10,3,1,2,7,7,20,1998,6,primera_division
+7,Racing,10,3,1,2,10,9,20,1998,6,primera_division
+8,Espanyol,10,2,4,0,7,4,20,1998,6,primera_division
+9,Real Betis,9,2,3,1,11,9,20,1998,6,primera_division
+10,Real Oviedo,9,2,3,1,9,7,20,1998,6,primera_division
+11,Tenerife,8,2,2,2,9,10,20,1998,6,primera_division
+12,Athletic,7,1,4,1,5,6,20,1998,6,primera_division
+13,Real Zaragoza,7,1,4,1,11,11,20,1998,6,primera_division
+14,Compostela,6,1,3,2,10,10,20,1998,6,primera_division
+15,Deportivo,6,1,3,2,7,7,20,1998,6,primera_division
+16,UD Salamanca,4,1,1,4,3,10,20,1998,6,primera_division
+17,Valencia,4,1,1,4,6,10,20,1998,6,primera_division
+18,Real Valladolid,3,1,0,5,5,17,20,1998,6,primera_division
+19,Mérida CP,2,0,2,4,4,13,20,1998,6,primera_division
+20,Real Sporting,0,0,0,6,4,20,20,1998,6,primera_division
+1,Barcelona,19,6,1,0,18,6,20,1998,7,primera_division
+2,Real Madrid,17,5,2,0,12,1,20,1998,7,primera_division
+3,Mallorca,14,4,2,1,16,8,20,1998,7,primera_division
+4,Celta,14,4,2,1,14,8,20,1998,7,primera_division
+5,Atlético,14,4,2,1,20,6,20,1998,7,primera_division
+6,R. Sociedad,13,4,1,2,12,7,20,1998,7,primera_division
+7,Espanyol,13,3,4,0,12,4,20,1998,7,primera_division
+8,Racing,10,3,1,3,10,10,20,1998,7,primera_division
+9,Real Betis,9,2,3,2,11,14,20,1998,7,primera_division
+10,Real Oviedo,9,2,3,2,9,12,20,1998,7,primera_division
+11,Athletic,8,1,5,1,6,7,20,1998,7,primera_division
+12,Tenerife,8,2,2,3,9,13,20,1998,7,primera_division
+13,Compostela,7,1,4,2,12,12,20,1998,7,primera_division
+14,Deportivo,7,1,4,2,8,8,20,1998,7,primera_division
+15,Real Zaragoza,7,1,4,2,12,16,20,1998,7,primera_division
+16,Mérida CP,5,1,2,4,5,13,20,1998,7,primera_division
+17,UD Salamanca,4,1,1,5,3,11,20,1998,7,primera_division
+18,Valencia,4,1,1,5,6,11,20,1998,7,primera_division
+19,Real Valladolid,4,1,1,5,6,18,20,1998,7,primera_division
+20,Real Sporting,1,0,1,6,5,21,20,1998,7,primera_division
+1,Barcelona,22,7,1,0,20,6,20,1998,8,primera_division
+2,Real Madrid,18,5,3,0,12,1,20,1998,8,primera_division
+3,R. Sociedad,16,5,1,2,14,8,20,1998,8,primera_division
+4,Espanyol,16,4,4,0,14,4,20,1998,8,primera_division
+5,Mallorca,15,4,3,1,16,8,20,1998,8,primera_division
+6,Celta,15,4,3,1,15,9,20,1998,8,primera_division
+7,Atlético,14,4,2,2,20,8,20,1998,8,primera_division
+8,Real Betis,12,3,3,2,12,14,20,1998,8,primera_division
+9,Athletic,11,2,5,1,8,8,20,1998,8,primera_division
+10,Tenerife,11,3,2,3,10,13,20,1998,8,primera_division
+11,Real Zaragoza,10,2,4,2,14,17,20,1998,8,primera_division
+12,Real Oviedo,10,2,4,2,10,13,20,1998,8,primera_division
+13,Racing,10,3,1,4,10,12,20,1998,8,primera_division
+14,Deportivo,8,1,5,2,9,9,20,1998,8,primera_division
+15,Compostela,7,1,4,3,12,13,20,1998,8,primera_division
+16,Valencia,5,1,2,5,7,12,20,1998,8,primera_division
+17,Mérida CP,5,1,2,5,6,15,20,1998,8,primera_division
+18,UD Salamanca,4,1,1,6,4,13,20,1998,8,primera_division
+19,Real Valladolid,4,1,1,6,6,19,20,1998,8,primera_division
+20,Real Sporting,1,0,1,7,6,23,20,1998,8,primera_division
+1,Barcelona,25,8,1,0,23,8,20,1998,9,primera_division
+2,Espanyol,19,5,4,0,17,4,20,1998,9,primera_division
+3,Real Madrid,18,5,3,1,14,4,20,1998,9,primera_division
+4,Celta,18,5,3,1,16,9,20,1998,9,primera_division
+5,Atlético,17,5,2,2,23,10,20,1998,9,primera_division
+6,R. Sociedad,17,5,2,2,14,8,20,1998,9,primera_division
+7,Mallorca,16,4,4,1,16,8,20,1998,9,primera_division
+8,Athletic,14,3,5,1,11,8,20,1998,9,primera_division
+9,Real Betis,12,3,3,3,14,17,20,1998,9,primera_division
+10,Real Oviedo,11,2,5,2,11,14,20,1998,9,primera_division
+11,Real Zaragoza,11,2,5,2,14,17,20,1998,9,primera_division
+12,Tenerife,11,3,2,4,10,16,20,1998,9,primera_division
+13,Compostela,10,2,4,3,15,14,20,1998,9,primera_division
+14,Racing,10,3,1,5,11,15,20,1998,9,primera_division
+15,Deportivo,9,1,6,2,10,10,20,1998,9,primera_division
+16,Mérida CP,8,2,2,5,7,15,20,1998,9,primera_division
+17,Valencia,5,1,2,6,7,13,20,1998,9,primera_division
+18,Real Valladolid,5,1,2,6,6,19,20,1998,9,primera_division
+19,UD Salamanca,4,1,1,7,4,16,20,1998,9,primera_division
+20,Real Sporting,1,0,1,8,6,24,20,1998,9,primera_division
+1,Barcelona,25,8,1,1,24,10,20,1998,10,primera_division
+2,Real Madrid,21,6,3,1,16,5,20,1998,10,primera_division
+3,Celta,21,6,3,1,19,10,20,1998,10,primera_division
+4,Atlético,20,6,2,2,26,11,20,1998,10,primera_division
+5,R. Sociedad,20,6,2,2,16,8,20,1998,10,primera_division
+6,Espanyol,19,5,4,1,17,6,20,1998,10,primera_division
+7,Mallorca,19,5,4,1,20,8,20,1998,10,primera_division
+8,Athletic,14,3,5,2,11,12,20,1998,10,primera_division
+9,Real Oviedo,14,3,5,2,13,15,20,1998,10,primera_division
+10,Real Betis,13,3,4,3,14,17,20,1998,10,primera_division
+11,Real Zaragoza,11,2,5,3,15,19,20,1998,10,primera_division
+12,Mérida CP,11,3,2,5,8,15,20,1998,10,primera_division
+13,Tenerife,11,3,2,5,11,19,20,1998,10,primera_division
+14,Compostela,10,2,4,4,16,17,20,1998,10,primera_division
+15,Racing,10,3,1,6,12,17,20,1998,10,primera_division
+16,Deportivo,9,1,6,3,10,11,20,1998,10,primera_division
+17,Valencia,8,2,2,6,9,14,20,1998,10,primera_division
+18,Real Valladolid,8,2,2,6,8,20,20,1998,10,primera_division
+19,UD Salamanca,5,1,2,7,4,16,20,1998,10,primera_division
+20,Real Sporting,1,0,1,9,7,26,20,1998,10,primera_division
+1,Barcelona,25,8,1,2,24,13,20,1998,11,primera_division
+2,Real Madrid,24,7,3,1,19,7,20,1998,11,primera_division
+3,Celta,24,7,3,1,20,10,20,1998,11,primera_division
+4,Espanyol,22,6,4,1,20,6,20,1998,11,primera_division
+5,Atlético,21,6,3,2,27,12,20,1998,11,primera_division
+6,R. Sociedad,21,6,3,2,16,8,20,1998,11,primera_division
+7,Mallorca,19,5,4,2,20,9,20,1998,11,primera_division
+8,Athletic,17,4,5,2,14,12,20,1998,11,primera_division
+9,Real Oviedo,17,4,5,2,14,15,20,1998,11,primera_division
+10,Real Betis,14,3,5,3,14,17,20,1998,11,primera_division
+11,Mérida CP,14,4,2,5,9,15,20,1998,11,primera_division
+12,Deportivo,12,2,6,3,12,12,20,1998,11,primera_division
+13,Real Zaragoza,11,2,5,4,16,21,20,1998,11,primera_division
+14,Racing,11,3,2,6,12,17,20,1998,11,primera_division
+15,Tenerife,11,3,2,6,11,20,20,1998,11,primera_division
+16,Compostela,10,2,4,5,18,20,20,1998,11,primera_division
+17,Real Valladolid,9,2,3,6,8,20,20,1998,11,primera_division
+18,Valencia,8,2,2,7,9,17,20,1998,11,primera_division
+19,UD Salamanca,6,1,3,7,5,17,20,1998,11,primera_division
+20,Real Sporting,1,0,1,10,7,27,20,1998,11,primera_division
+1,Barcelona,28,9,1,2,27,15,20,1998,12,primera_division
+2,Real Madrid,27,8,3,1,22,8,20,1998,12,primera_division
+3,Celta,24,7,3,2,22,13,20,1998,12,primera_division
+4,Espanyol,23,6,5,1,21,7,20,1998,12,primera_division
+5,Atlético,22,6,4,2,27,12,20,1998,12,primera_division
+6,R. Sociedad,22,6,4,2,16,8,20,1998,12,primera_division
+7,Mallorca,20,5,5,2,21,10,20,1998,12,primera_division
+8,Athletic,18,4,6,2,14,12,20,1998,12,primera_division
+9,Real Oviedo,18,4,6,2,15,16,20,1998,12,primera_division
+10,Mérida CP,15,4,3,5,10,16,20,1998,12,primera_division
+11,Real Zaragoza,14,3,5,4,19,23,20,1998,12,primera_division
+12,Real Betis,14,3,5,4,14,18,20,1998,12,primera_division
+13,Compostela,13,3,4,5,19,20,20,1998,12,primera_division
+14,Deportivo,13,2,7,3,13,13,20,1998,12,primera_division
+15,Racing,12,3,3,6,12,17,20,1998,12,primera_division
+16,Tenerife,12,3,3,6,12,21,20,1998,12,primera_division
+17,Valencia,11,3,2,7,10,17,20,1998,12,primera_division
+18,Real Valladolid,9,2,3,7,9,23,20,1998,12,primera_division
+19,UD Salamanca,6,1,3,8,5,18,20,1998,12,primera_division
+20,Real Sporting,1,0,1,11,9,30,20,1998,12,primera_division
+1,Barcelona,28,9,1,3,27,16,20,1998,13,primera_division
+2,Real Madrid,28,8,4,1,23,9,20,1998,13,primera_division
+3,Atlético,25,7,4,2,30,13,20,1998,13,primera_division
+4,Celta,24,7,3,3,23,15,20,1998,13,primera_division
+5,Espanyol,24,6,6,1,22,8,20,1998,13,primera_division
+6,R. Sociedad,23,6,5,2,16,8,20,1998,13,primera_division
+7,Mallorca,21,5,6,2,21,10,20,1998,13,primera_division
+8,Real Oviedo,21,5,6,2,16,16,20,1998,13,primera_division
+9,Athletic,19,4,7,2,15,13,20,1998,13,primera_division
+10,Real Zaragoza,17,4,5,4,20,23,20,1998,13,primera_division
+11,Real Betis,17,4,5,4,15,18,20,1998,13,primera_division
+12,Mérida CP,16,4,4,5,10,16,20,1998,13,primera_division
+13,Racing,15,4,3,6,14,18,20,1998,13,primera_division
+14,Compostela,14,3,5,5,19,20,20,1998,13,primera_division
+15,Deportivo,13,2,7,4,13,14,20,1998,13,primera_division
+16,Tenerife,12,3,3,7,12,22,20,1998,13,primera_division
+17,Valencia,11,3,2,8,11,20,20,1998,13,primera_division
+18,Real Valladolid,10,2,4,7,9,23,20,1998,13,primera_division
+19,UD Salamanca,7,1,4,8,5,18,20,1998,13,primera_division
+20,Real Sporting,2,0,2,11,10,31,20,1998,13,primera_division
+1,Barcelona,31,10,1,3,30,17,20,1998,14,primera_division
+2,Real Madrid,31,9,4,1,26,10,20,1998,14,primera_division
+3,Atlético,26,7,5,2,32,15,20,1998,14,primera_division
+4,R. Sociedad,26,7,5,2,21,9,20,1998,14,primera_division
+5,Espanyol,25,6,7,1,22,8,20,1998,14,primera_division
+6,Celta,24,7,3,4,24,18,20,1998,14,primera_division
+7,Real Oviedo,22,5,7,2,16,16,20,1998,14,primera_division
+8,Mallorca,21,5,6,3,21,12,20,1998,14,primera_division
+9,Real Zaragoza,20,5,5,4,22,23,20,1998,14,primera_division
+10,Real Betis,20,5,5,4,18,20,20,1998,14,primera_division
+11,Athletic,19,4,7,3,15,16,20,1998,14,primera_division
+12,Racing,16,4,4,6,14,18,20,1998,14,primera_division
+13,Mérida CP,16,4,4,6,11,19,20,1998,14,primera_division
+14,Compostela,14,3,5,6,20,25,20,1998,14,primera_division
+15,Deportivo,14,2,8,4,15,16,20,1998,14,primera_division
+16,Tenerife,13,3,4,7,12,22,20,1998,14,primera_division
+17,Real Valladolid,13,3,4,7,12,23,20,1998,14,primera_division
+18,Valencia,11,3,2,9,11,21,20,1998,14,primera_division
+19,UD Salamanca,10,2,4,8,6,18,20,1998,14,primera_division
+20,Real Sporting,2,0,2,12,12,34,20,1998,14,primera_division
+1,Barcelona,34,11,1,3,32,18,20,1998,15,primera_division
+2,Real Madrid,32,9,5,1,27,11,20,1998,15,primera_division
+3,Atlético,29,8,5,2,34,16,20,1998,15,primera_division
+4,Espanyol,28,7,7,1,23,8,20,1998,15,primera_division
+5,R. Sociedad,27,7,6,2,22,10,20,1998,15,primera_division
+6,Celta,27,8,3,4,26,18,20,1998,15,primera_division
+7,Real Betis,23,6,5,4,21,20,20,1998,15,primera_division
+8,Real Oviedo,23,5,8,2,17,17,20,1998,15,primera_division
+9,Athletic,22,5,7,3,19,17,20,1998,15,primera_division
+10,Mallorca,21,5,6,4,21,13,20,1998,15,primera_division
+11,Real Zaragoza,20,5,5,5,23,25,20,1998,15,primera_division
+12,Racing,19,5,4,6,16,19,20,1998,15,primera_division
+13,Mérida CP,16,4,4,7,12,21,20,1998,15,primera_division
+14,Compostela,14,3,5,7,21,29,20,1998,15,primera_division
+15,Deportivo,14,2,8,5,16,20,20,1998,15,primera_division
+16,UD Salamanca,13,3,4,8,10,19,20,1998,15,primera_division
+17,Tenerife,13,3,4,8,12,25,20,1998,15,primera_division
+18,Real Valladolid,13,3,4,8,12,25,20,1998,15,primera_division
+19,Valencia,12,3,3,9,12,22,20,1998,15,primera_division
+20,Real Sporting,2,0,2,13,13,36,20,1998,15,primera_division
+1,Barcelona,37,12,1,3,35,19,20,1998,16,primera_division
+2,Real Madrid,35,10,5,1,28,11,20,1998,16,primera_division
+3,Atlético,30,8,6,2,36,18,20,1998,16,primera_division
+4,R. Sociedad,28,7,7,2,23,11,20,1998,16,primera_division
+5,Espanyol,28,7,7,2,24,11,20,1998,16,primera_division
+6,Celta,27,8,3,5,27,20,20,1998,16,primera_division
+7,Real Betis,26,7,5,4,23,21,20,1998,16,primera_division
+8,Athletic,25,6,7,3,21,18,20,1998,16,primera_division
+9,Real Oviedo,23,5,8,3,17,18,20,1998,16,primera_division
+10,Real Zaragoza,23,6,5,5,26,27,20,1998,16,primera_division
+11,Mallorca,21,5,6,5,22,15,20,1998,16,primera_division
+12,Racing,19,5,4,7,18,22,20,1998,16,primera_division
+13,Mérida CP,16,4,4,8,12,22,20,1998,16,primera_division
+14,Real Valladolid,16,4,4,8,13,25,20,1998,16,primera_division
+15,Valencia,15,4,3,9,16,23,20,1998,16,primera_division
+16,Deportivo,15,2,9,5,17,21,20,1998,16,primera_division
+17,Tenerife,14,3,5,8,14,27,20,1998,16,primera_division
+18,Compostela,14,3,5,8,22,33,20,1998,16,primera_division
+19,UD Salamanca,14,3,5,8,11,20,20,1998,16,primera_division
+20,Real Sporting,3,0,3,13,14,37,20,1998,16,primera_division
+1,Barcelona,40,13,1,3,37,19,20,1998,17,primera_division
+2,Real Madrid,36,10,6,1,30,13,20,1998,17,primera_division
+3,R. Sociedad,31,8,7,2,25,12,20,1998,17,primera_division
+4,Atlético,30,8,6,3,38,21,20,1998,17,primera_division
+5,Espanyol,29,7,8,2,24,11,20,1998,17,primera_division
+6,Athletic,28,7,7,3,23,19,20,1998,17,primera_division
+7,Celta,28,8,4,5,27,20,20,1998,17,primera_division
+8,Real Betis,26,7,5,5,23,23,20,1998,17,primera_division
+9,Real Zaragoza,24,6,6,5,28,29,20,1998,17,primera_division
+10,Mallorca,24,6,6,5,25,17,20,1998,17,primera_division
+11,Real Oviedo,23,5,8,4,18,20,20,1998,17,primera_division
+12,Racing,20,5,5,7,18,22,20,1998,17,primera_division
+13,Valencia,18,5,3,9,17,23,20,1998,17,primera_division
+14,UD Salamanca,17,4,5,8,13,20,20,1998,17,primera_division
+15,Mérida CP,17,4,5,8,12,22,20,1998,17,primera_division
+16,Real Valladolid,17,4,5,8,13,25,20,1998,17,primera_division
+17,Compostela,15,3,6,8,22,33,20,1998,17,primera_division
+18,Deportivo,15,2,9,6,17,22,20,1998,17,primera_division
+19,Tenerife,14,3,5,9,14,29,20,1998,17,primera_division
+20,Real Sporting,3,0,3,14,15,39,20,1998,17,primera_division
+1,Barcelona,43,14,1,3,40,20,20,1998,18,primera_division
+2,Real Madrid,39,11,6,1,32,14,20,1998,18,primera_division
+3,R. Sociedad,32,8,8,2,25,12,20,1998,18,primera_division
+4,Athletic,31,8,7,3,28,20,20,1998,18,primera_division
+5,Celta,31,9,4,5,30,20,20,1998,18,primera_division
+6,Atlético,30,8,6,4,39,24,20,1998,18,primera_division
+7,Espanyol,29,7,8,3,25,13,20,1998,18,primera_division
+8,Mallorca,27,7,6,5,26,17,20,1998,18,primera_division
+9,Real Betis,26,7,5,6,23,25,20,1998,18,primera_division
+10,Real Zaragoza,24,6,6,6,28,33,20,1998,18,primera_division
+11,Racing,23,6,5,7,20,22,20,1998,18,primera_division
+12,Real Oviedo,23,5,8,5,18,23,20,1998,18,primera_division
+13,Valencia,21,6,3,9,20,23,20,1998,18,primera_division
+14,Real Valladolid,20,5,5,8,17,25,20,1998,18,primera_division
+15,UD Salamanca,17,4,5,9,13,21,20,1998,18,primera_division
+16,Mérida CP,17,4,5,9,13,27,20,1998,18,primera_division
+17,Compostela,16,3,7,8,22,33,20,1998,18,primera_division
+18,Deportivo,16,2,10,6,17,22,20,1998,18,primera_division
+19,Tenerife,15,3,6,9,14,29,20,1998,18,primera_division
+20,Real Sporting,3,0,3,15,15,42,20,1998,18,primera_division
+1,Barcelona,43,14,1,4,43,24,20,1998,19,primera_division
+2,Real Madrid,39,11,6,2,34,17,20,1998,19,primera_division
+3,R. Sociedad,35,9,8,2,26,12,20,1998,19,primera_division
+4,Atlético,33,9,6,4,41,25,20,1998,19,primera_division
+5,Espanyol,32,8,8,3,27,13,20,1998,19,primera_division
+6,Athletic,32,8,8,3,29,21,20,1998,19,primera_division
+7,Celta,31,9,4,6,30,24,20,1998,19,primera_division
+8,Real Betis,29,8,5,6,26,27,20,1998,19,primera_division
+9,Mallorca,27,7,6,6,26,18,20,1998,19,primera_division
+10,Real Zaragoza,25,6,7,6,29,34,20,1998,19,primera_division
+11,Real Oviedo,24,5,9,5,19,24,20,1998,19,primera_division
+12,Racing,23,6,5,8,21,24,20,1998,19,primera_division
+13,Valencia,21,6,3,10,21,25,20,1998,19,primera_division
+14,UD Salamanca,20,5,5,9,17,24,20,1998,19,primera_division
+15,Mérida CP,20,5,5,9,17,27,20,1998,19,primera_division
+16,Real Valladolid,20,5,5,9,17,27,20,1998,19,primera_division
+17,Deportivo,19,3,10,6,19,23,20,1998,19,primera_division
+18,Tenerife,18,4,6,9,16,30,20,1998,19,primera_division
+19,Compostela,17,3,8,8,23,34,20,1998,19,primera_division
+20,Real Sporting,3,0,3,16,16,44,20,1998,19,primera_division
+1,Barcelona,44,14,2,4,45,26,20,1998,20,primera_division
+2,Real Madrid,40,11,7,2,35,18,20,1998,20,primera_division
+3,R. Sociedad,36,9,9,2,28,14,20,1998,20,primera_division
+4,Athletic,35,9,8,3,30,21,20,1998,20,primera_division
+5,Atlético,34,9,7,4,42,26,20,1998,20,primera_division
+6,Espanyol,32,8,8,4,27,14,20,1998,20,primera_division
+7,Real Betis,32,9,5,6,29,27,20,1998,20,primera_division
+8,Celta,31,9,4,7,30,25,20,1998,20,primera_division
+9,Real Zaragoza,28,7,7,6,30,34,20,1998,20,primera_division
+10,Mallorca,28,7,7,6,26,18,20,1998,20,primera_division
+11,Racing,24,6,6,8,21,24,20,1998,20,primera_division
+12,Real Oviedo,24,5,9,6,20,26,20,1998,20,primera_division
+13,Mérida CP,23,6,5,9,19,28,20,1998,20,primera_division
+14,Valencia,22,6,4,10,21,25,20,1998,20,primera_division
+15,Deportivo,22,4,10,6,20,23,20,1998,20,primera_division
+16,UD Salamanca,21,5,6,9,17,24,20,1998,20,primera_division
+17,Real Valladolid,20,5,5,10,17,30,20,1998,20,primera_division
+18,Compostela,20,4,8,8,25,34,20,1998,20,primera_division
+19,Tenerife,18,4,6,10,16,31,20,1998,20,primera_division
+20,Real Sporting,3,0,3,17,16,46,20,1998,20,primera_division
+1,Barcelona,44,14,2,5,48,30,20,1998,21,primera_division
+2,Real Madrid,43,12,7,2,36,18,20,1998,21,primera_division
+3,R. Sociedad,36,9,9,3,29,17,20,1998,21,primera_division
+4,Athletic,36,9,9,3,30,21,20,1998,21,primera_division
+5,Atlético,34,9,7,5,43,28,20,1998,21,primera_division
+6,Celta,34,10,4,7,31,25,20,1998,21,primera_division
+7,Real Betis,33,9,6,6,29,27,20,1998,21,primera_division
+8,Espanyol,32,8,8,5,27,15,20,1998,21,primera_division
+9,Mallorca,29,7,8,6,26,18,20,1998,21,primera_division
+10,Real Zaragoza,28,7,7,7,30,37,20,1998,21,primera_division
+11,Racing,27,7,6,8,24,25,20,1998,21,primera_division
+12,Real Oviedo,27,6,9,6,23,26,20,1998,21,primera_division
+13,Valencia,25,7,4,10,25,28,20,1998,21,primera_division
+14,Real Valladolid,23,6,5,10,19,31,20,1998,21,primera_division
+15,Compostela,23,5,8,8,28,34,20,1998,21,primera_division
+16,Mérida CP,23,6,5,10,19,31,20,1998,21,primera_division
+17,Deportivo,23,4,11,6,20,23,20,1998,21,primera_division
+18,UD Salamanca,21,5,6,10,17,25,20,1998,21,primera_division
+19,Tenerife,21,5,6,10,18,32,20,1998,21,primera_division
+20,Real Sporting,3,0,3,18,17,48,20,1998,21,primera_division
+1,Barcelona,44,14,2,6,49,33,20,1998,22,primera_division
+2,Real Madrid,43,12,7,3,38,22,20,1998,22,primera_division
+3,R. Sociedad,39,10,9,3,33,19,20,1998,22,primera_division
+4,Atlético,37,10,7,5,46,28,20,1998,22,primera_division
+5,Athletic,36,9,9,4,30,24,20,1998,22,primera_division
+6,Real Betis,36,10,6,6,31,27,20,1998,22,primera_division
+7,Celta,34,10,4,8,31,27,20,1998,22,primera_division
+8,Espanyol,33,8,9,5,27,15,20,1998,22,primera_division
+9,Mallorca,32,8,8,6,29,19,20,1998,22,primera_division
+10,Real Zaragoza,29,7,8,7,31,38,20,1998,22,primera_division
+11,Valencia,28,8,4,10,31,29,20,1998,22,primera_division
+12,Real Oviedo,28,6,10,6,23,26,20,1998,22,primera_division
+13,Racing,27,7,6,9,25,31,20,1998,22,primera_division
+14,Deportivo,26,5,11,6,23,24,20,1998,22,primera_division
+15,UD Salamanca,24,6,6,10,18,25,20,1998,22,primera_division
+16,Tenerife,24,6,6,10,23,33,20,1998,22,primera_division
+17,Mérida CP,24,6,6,10,20,32,20,1998,22,primera_division
+18,Real Valladolid,23,6,5,11,19,32,20,1998,22,primera_division
+19,Compostela,23,5,8,9,29,39,20,1998,22,primera_division
+20,Real Sporting,3,0,3,19,18,51,20,1998,22,primera_division
+1,Barcelona,47,15,2,6,51,34,20,1998,23,primera_division
+2,Real Madrid,43,12,7,4,39,24,20,1998,23,primera_division
+3,R. Sociedad,42,11,9,3,37,19,20,1998,23,primera_division
+4,Athletic,39,10,9,4,31,24,20,1998,23,primera_division
+5,Atlético,38,10,8,5,47,29,20,1998,23,primera_division
+6,Real Betis,37,10,7,6,31,27,20,1998,23,primera_division
+7,Mallorca,35,9,8,6,34,20,20,1998,23,primera_division
+8,Celta,35,10,5,8,32,28,20,1998,23,primera_division
+9,Espanyol,34,8,10,5,28,16,20,1998,23,primera_division
+10,Valencia,31,9,4,10,33,30,20,1998,23,primera_division
+11,Deportivo,29,6,11,6,24,24,20,1998,23,primera_division
+12,Real Oviedo,29,6,11,6,23,26,20,1998,23,primera_division
+13,Real Zaragoza,29,7,8,8,31,40,20,1998,23,primera_division
+14,Racing,27,7,6,10,25,32,20,1998,23,primera_division
+15,Compostela,26,6,8,9,31,39,20,1998,23,primera_division
+16,Mérida CP,25,6,7,10,21,33,20,1998,23,primera_division
+17,UD Salamanca,24,6,6,11,18,26,20,1998,23,primera_division
+18,Tenerife,24,6,6,11,24,38,20,1998,23,primera_division
+19,Real Valladolid,23,6,5,12,19,36,20,1998,23,primera_division
+20,Real Sporting,3,0,3,20,19,53,20,1998,23,primera_division
+1,Barcelona,48,15,3,6,52,35,20,1998,24,primera_division
+2,Real Madrid,44,12,8,4,41,26,20,1998,24,primera_division
+3,R. Sociedad,43,11,10,3,38,20,20,1998,24,primera_division
+4,Atlético,41,11,8,5,51,30,20,1998,24,primera_division
+5,Athletic,40,10,10,4,32,25,20,1998,24,primera_division
+6,Real Betis,40,11,7,6,33,28,20,1998,24,primera_division
+7,Mallorca,38,10,8,6,36,21,20,1998,24,primera_division
+8,Celta,38,11,5,8,33,28,20,1998,24,primera_division
+9,Espanyol,34,8,10,6,28,17,20,1998,24,primera_division
+10,Real Zaragoza,32,8,8,8,32,40,20,1998,24,primera_division
+11,Valencia,31,9,4,11,34,32,20,1998,24,primera_division
+12,Deportivo,30,6,12,6,26,26,20,1998,24,primera_division
+13,Real Oviedo,29,6,11,7,24,30,20,1998,24,primera_division
+14,Racing,27,7,6,11,26,34,20,1998,24,primera_division
+15,Real Valladolid,26,7,5,12,21,37,20,1998,24,primera_division
+16,Compostela,26,6,8,10,32,41,20,1998,24,primera_division
+17,Mérida CP,25,6,7,11,22,35,20,1998,24,primera_division
+18,Tenerife,25,6,7,11,25,39,20,1998,24,primera_division
+19,UD Salamanca,24,6,6,12,18,27,20,1998,24,primera_division
+20,Real Sporting,6,1,3,20,21,54,20,1998,24,primera_division
+1,Barcelona,49,15,4,6,52,35,20,1998,25,primera_division
+2,Real Madrid,47,13,8,4,44,26,20,1998,25,primera_division
+3,R. Sociedad,43,11,10,4,39,22,20,1998,25,primera_division
+4,Atlético,41,11,8,6,52,32,20,1998,25,primera_division
+5,Celta,41,12,5,8,35,29,20,1998,25,primera_division
+6,Athletic,40,10,10,5,32,28,20,1998,25,primera_division
+7,Real Betis,40,11,7,7,34,31,20,1998,25,primera_division
+8,Mallorca,39,10,9,6,36,21,20,1998,25,primera_division
+9,Real Zaragoza,35,9,8,8,35,41,20,1998,25,primera_division
+10,Espanyol,35,8,11,6,29,18,20,1998,25,primera_division
+11,Valencia,34,10,4,11,37,32,20,1998,25,primera_division
+12,Real Oviedo,32,7,11,7,26,30,20,1998,25,primera_division
+13,Deportivo,30,6,12,7,26,27,20,1998,25,primera_division
+14,Racing,30,8,6,11,28,35,20,1998,25,primera_division
+15,Real Valladolid,29,8,5,12,22,37,20,1998,25,primera_division
+16,Mérida CP,28,7,7,11,24,36,20,1998,25,primera_division
+17,Compostela,27,6,9,10,33,42,20,1998,25,primera_division
+18,Tenerife,25,6,7,12,26,41,20,1998,25,primera_division
+19,UD Salamanca,24,6,6,13,18,29,20,1998,25,primera_division
+20,Real Sporting,6,1,3,21,21,57,20,1998,25,primera_division
+1,Barcelona,52,16,4,6,54,35,20,1998,26,primera_division
+2,Real Madrid,47,13,8,5,47,30,20,1998,26,primera_division
+3,Atlético,44,12,8,6,54,33,20,1998,26,primera_division
+4,R. Sociedad,44,11,11,4,41,24,20,1998,26,primera_division
+5,Mallorca,42,11,9,6,38,22,20,1998,26,primera_division
+6,Celta,41,12,5,9,36,31,20,1998,26,primera_division
+7,Real Betis,40,11,7,8,35,34,20,1998,26,primera_division
+8,Athletic,40,10,10,6,32,31,20,1998,26,primera_division
+9,Espanyol,38,9,11,6,32,19,20,1998,26,primera_division
+10,Valencia,37,11,4,11,39,33,20,1998,26,primera_division
+11,Real Zaragoza,35,9,8,9,36,43,20,1998,26,primera_division
+12,Deportivo,33,7,12,7,29,27,20,1998,26,primera_division
+13,Real Oviedo,33,7,12,7,28,32,20,1998,26,primera_division
+14,Real Valladolid,32,9,5,12,24,38,20,1998,26,primera_division
+15,Racing,30,8,6,12,29,37,20,1998,26,primera_division
+16,Tenerife,28,7,7,12,30,44,20,1998,26,primera_division
+17,Mérida CP,28,7,7,12,25,39,20,1998,26,primera_division
+18,Compostela,27,6,9,11,33,44,20,1998,26,primera_division
+19,UD Salamanca,27,7,6,13,21,30,20,1998,26,primera_division
+20,Real Sporting,6,1,3,22,22,59,20,1998,26,primera_division
+1,Barcelona,55,17,4,6,58,37,20,1998,27,primera_division
+2,Real Madrid,50,14,8,5,49,30,20,1998,27,primera_division
+3,Atlético,45,12,9,6,56,35,20,1998,27,primera_division
+4,R. Sociedad,44,11,11,5,42,27,20,1998,27,primera_division
+5,Celta,44,13,5,9,38,32,20,1998,27,primera_division
+6,Real Betis,43,12,7,8,38,36,20,1998,27,primera_division
+7,Mallorca,42,11,9,7,38,24,20,1998,27,primera_division
+8,Athletic,41,10,11,6,34,33,20,1998,27,primera_division
+9,Espanyol,39,9,12,6,34,21,20,1998,27,primera_division
+10,Valencia,38,11,5,11,39,33,20,1998,27,primera_division
+11,Real Zaragoza,36,9,9,9,37,44,20,1998,27,primera_division
+12,Real Valladolid,35,10,5,12,26,39,20,1998,27,primera_division
+13,Real Oviedo,34,7,13,7,28,32,20,1998,27,primera_division
+14,Deportivo,33,7,12,8,30,29,20,1998,27,primera_division
+15,Mérida CP,31,8,7,12,28,40,20,1998,27,primera_division
+16,Racing,30,8,6,13,31,41,20,1998,27,primera_division
+17,UD Salamanca,28,7,7,13,22,31,20,1998,27,primera_division
+18,Tenerife,28,7,7,13,31,46,20,1998,27,primera_division
+19,Compostela,27,6,9,12,35,47,20,1998,27,primera_division
+20,Real Sporting,7,1,4,22,24,61,20,1998,27,primera_division
+1,Barcelona,58,18,4,6,61,37,20,1998,28,primera_division
+2,Real Madrid,50,14,8,6,49,33,20,1998,28,primera_division
+3,Celta,47,14,5,9,39,32,20,1998,28,primera_division
+4,Atlético,46,12,10,6,56,35,20,1998,28,primera_division
+5,R. Sociedad,44,11,11,6,42,28,20,1998,28,primera_division
+6,Athletic,44,11,11,6,36,33,20,1998,28,primera_division
+7,Real Betis,44,12,8,8,38,36,20,1998,28,primera_division
+8,Mallorca,43,11,10,7,39,25,20,1998,28,primera_division
+9,Valencia,41,12,5,11,42,33,20,1998,28,primera_division
+10,Real Zaragoza,39,10,9,9,38,44,20,1998,28,primera_division
+11,Espanyol,39,9,12,7,35,23,20,1998,28,primera_division
+12,Real Valladolid,36,10,6,12,27,40,20,1998,28,primera_division
+13,Deportivo,36,8,12,8,32,30,20,1998,28,primera_division
+14,Real Oviedo,34,7,13,8,29,34,20,1998,28,primera_division
+15,Racing,31,8,7,13,32,42,20,1998,28,primera_division
+16,UD Salamanca,31,8,7,13,24,32,20,1998,28,primera_division
+17,Mérida CP,31,8,7,13,28,43,20,1998,28,primera_division
+18,Tenerife,28,7,7,14,31,48,20,1998,28,primera_division
+19,Compostela,28,6,10,12,36,48,20,1998,28,primera_division
+20,Real Sporting,7,1,4,23,24,62,20,1998,28,primera_division
+1,Barcelona,61,19,4,6,63,38,20,1998,29,primera_division
+2,Real Madrid,51,14,9,6,51,35,20,1998,29,primera_division
+3,Celta,48,14,6,9,39,32,20,1998,29,primera_division
+4,R. Sociedad,47,12,11,6,45,28,20,1998,29,primera_division
+5,Athletic,47,12,11,6,39,34,20,1998,29,primera_division
+6,Real Betis,47,13,8,8,40,37,20,1998,29,primera_division
+7,Atlético,46,12,10,7,57,37,20,1998,29,primera_division
+8,Valencia,44,13,5,11,44,33,20,1998,29,primera_division
+9,Mallorca,43,11,10,8,40,28,20,1998,29,primera_division
+10,Real Zaragoza,39,10,9,10,38,46,20,1998,29,primera_division
+11,Espanyol,39,9,12,8,35,26,20,1998,29,primera_division
+12,Real Oviedo,37,8,13,8,31,35,20,1998,29,primera_division
+13,Real Valladolid,36,10,6,13,28,42,20,1998,29,primera_division
+14,Deportivo,36,8,12,9,32,31,20,1998,29,primera_division
+15,Mérida CP,34,9,7,13,29,43,20,1998,29,primera_division
+16,Racing,32,8,8,13,34,44,20,1998,29,primera_division
+17,Compostela,31,7,10,12,38,49,20,1998,29,primera_division
+18,UD Salamanca,31,8,7,14,25,34,20,1998,29,primera_division
+19,Tenerife,29,7,8,14,31,48,20,1998,29,primera_division
+20,Real Sporting,7,1,4,24,25,64,20,1998,29,primera_division
+1,Barcelona,64,20,4,6,67,38,20,1998,30,primera_division
+2,Real Madrid,54,15,9,6,53,36,20,1998,30,primera_division
+3,R. Sociedad,50,13,11,6,47,28,20,1998,30,primera_division
+4,Celta,48,14,6,10,41,36,20,1998,30,primera_division
+5,Real Betis,47,13,8,9,40,39,20,1998,30,primera_division
+6,Athletic,47,12,11,7,39,38,20,1998,30,primera_division
+7,Mallorca,46,12,10,8,44,30,20,1998,30,primera_division
+8,Atlético,46,12,10,8,61,42,20,1998,30,primera_division
+9,Valencia,45,13,6,11,44,33,20,1998,30,primera_division
+10,Espanyol,40,9,13,8,35,26,20,1998,30,primera_division
+11,Real Valladolid,39,11,6,13,30,43,20,1998,30,primera_division
+12,Deportivo,39,9,12,9,34,32,20,1998,30,primera_division
+13,Real Zaragoza,39,10,9,11,39,48,20,1998,30,primera_division
+14,Real Oviedo,37,8,13,9,31,36,20,1998,30,primera_division
+15,Mérida CP,35,9,8,13,29,43,20,1998,30,primera_division
+16,UD Salamanca,34,9,7,14,30,38,20,1998,30,primera_division
+17,Racing,32,8,8,14,35,46,20,1998,30,primera_division
+18,Tenerife,32,8,8,14,32,48,20,1998,30,primera_division
+19,Compostela,31,7,10,13,39,51,20,1998,30,primera_division
+20,Real Sporting,8,1,5,24,25,64,20,1998,30,primera_division
+1,Barcelona,64,20,4,7,68,41,20,1998,31,primera_division
+2,Real Madrid,55,15,10,6,54,37,20,1998,31,primera_division
+3,R. Sociedad,51,13,12,6,49,30,20,1998,31,primera_division
+4,Celta,51,15,6,10,44,37,20,1998,31,primera_division
+5,Athletic,50,13,11,7,43,41,20,1998,31,primera_division
+6,Real Betis,50,14,8,9,41,39,20,1998,31,primera_division
+7,Mallorca,49,13,10,8,45,30,20,1998,31,primera_division
+8,Atlético,47,12,11,8,63,44,20,1998,31,primera_division
+9,Valencia,45,13,6,12,44,34,20,1998,31,primera_division
+10,Espanyol,43,10,13,8,37,26,20,1998,31,primera_division
+11,Real Valladolid,40,11,7,13,31,44,20,1998,31,primera_division
+12,Real Zaragoza,40,10,10,11,39,48,20,1998,31,primera_division
+13,Deportivo,39,9,12,10,34,34,20,1998,31,primera_division
+14,Real Oviedo,37,8,13,10,31,37,20,1998,31,primera_division
+15,Mérida CP,36,9,9,13,30,44,20,1998,31,primera_division
+16,Compostela,34,8,10,13,41,51,20,1998,31,primera_division
+17,UD Salamanca,34,9,7,15,30,40,20,1998,31,primera_division
+18,Tenerife,33,8,9,14,33,49,20,1998,31,primera_division
+19,Racing,32,8,8,15,38,50,20,1998,31,primera_division
+20,Real Sporting,9,1,6,24,25,64,20,1998,31,primera_division
+1,Barcelona,67,21,4,7,70,42,20,1998,32,primera_division
+2,Real Madrid,56,15,11,6,54,37,20,1998,32,primera_division
+3,R. Sociedad,52,13,13,6,50,31,20,1998,32,primera_division
+4,Mallorca,52,14,10,8,46,30,20,1998,32,primera_division
+5,Athletic,51,13,12,7,43,41,20,1998,32,primera_division
+6,Celta,51,15,6,11,45,39,20,1998,32,primera_division
+7,Real Betis,50,14,8,10,41,41,20,1998,32,primera_division
+8,Valencia,48,14,6,12,48,35,20,1998,32,primera_division
+9,Atlético,47,12,11,9,64,48,20,1998,32,primera_division
+10,Espanyol,43,10,13,9,37,27,20,1998,32,primera_division
+11,Real Valladolid,43,12,7,13,35,45,20,1998,32,primera_division
+12,Deportivo,42,10,12,10,36,34,20,1998,32,primera_division
+13,Real Zaragoza,41,10,11,11,39,48,20,1998,32,primera_division
+14,Real Oviedo,37,8,13,11,32,39,20,1998,32,primera_division
+15,Mérida CP,36,9,9,14,30,45,20,1998,32,primera_division
+16,Racing,35,9,8,15,40,51,20,1998,32,primera_division
+17,UD Salamanca,35,9,8,15,31,41,20,1998,32,primera_division
+18,Tenerife,34,8,10,14,33,49,20,1998,32,primera_division
+19,Compostela,34,8,10,14,42,55,20,1998,32,primera_division
+20,Real Sporting,12,2,6,24,26,64,20,1998,32,primera_division
+1,Barcelona,70,22,4,7,72,43,20,1998,33,primera_division
+2,Real Madrid,56,15,11,7,55,39,20,1998,33,primera_division
+3,R. Sociedad,55,14,13,6,53,32,20,1998,33,primera_division
+4,Mallorca,55,15,10,8,49,32,20,1998,33,primera_division
+5,Athletic,54,14,12,7,45,41,20,1998,33,primera_division
+6,Celta,54,16,6,11,47,40,20,1998,33,primera_division
+7,Real Betis,53,15,8,10,43,42,20,1998,33,primera_division
+8,Atlético,50,13,11,9,67,48,20,1998,33,primera_division
+9,Valencia,48,14,6,13,48,41,20,1998,33,primera_division
+10,Espanyol,46,11,13,9,39,27,20,1998,33,primera_division
+11,Real Valladolid,43,12,7,14,35,47,20,1998,33,primera_division
+12,Deportivo,42,10,12,11,36,37,20,1998,33,primera_division
+13,Real Zaragoza,41,10,11,12,41,51,20,1998,33,primera_division
+14,Racing,38,10,8,15,41,51,20,1998,33,primera_division
+15,UD Salamanca,38,10,8,15,37,41,20,1998,33,primera_division
+16,Real Oviedo,37,8,13,12,32,40,20,1998,33,primera_division
+17,Mérida CP,36,9,9,15,31,47,20,1998,33,primera_division
+18,Tenerife,34,8,10,15,33,51,20,1998,33,primera_division
+19,Compostela,34,8,10,15,43,58,20,1998,33,primera_division
+20,Real Sporting,12,2,6,25,27,66,20,1998,33,primera_division
+1,Barcelona,73,23,4,7,73,43,20,1998,34,primera_division
+2,Real Madrid,59,16,11,7,60,40,20,1998,34,primera_division
+3,Athletic,57,15,12,7,47,41,20,1998,34,primera_division
+4,Mallorca,56,15,11,8,51,34,20,1998,34,primera_division
+5,R. Sociedad,55,14,13,7,55,35,20,1998,34,primera_division
+6,Celta,55,16,7,11,47,40,20,1998,34,primera_division
+7,Atlético,53,14,11,9,70,50,20,1998,34,primera_division
+8,Real Betis,53,15,8,11,44,45,20,1998,34,primera_division
+9,Valencia,51,15,6,13,51,43,20,1998,34,primera_division
+10,Espanyol,47,11,14,9,41,29,20,1998,34,primera_division
+11,Deportivo,45,11,12,11,37,37,20,1998,34,primera_division
+12,Real Valladolid,44,12,8,14,35,47,20,1998,34,primera_division
+13,Real Zaragoza,41,10,11,13,41,52,20,1998,34,primera_division
+14,Racing,41,11,8,15,43,51,20,1998,34,primera_division
+15,UD Salamanca,38,10,8,16,37,42,20,1998,34,primera_division
+16,Real Oviedo,37,8,13,13,33,45,20,1998,34,primera_division
+17,Tenerife,37,9,10,15,36,52,20,1998,34,primera_division
+18,Mérida CP,36,9,9,16,31,49,20,1998,34,primera_division
+19,Compostela,34,8,10,16,43,60,20,1998,34,primera_division
+20,Real Sporting,12,2,6,26,29,69,20,1998,34,primera_division
+1,Barcelona,74,23,5,7,74,44,20,1998,35,primera_division
+2,Real Madrid,60,16,12,7,62,42,20,1998,35,primera_division
+3,Athletic,58,15,13,7,48,42,20,1998,35,primera_division
+4,R. Sociedad,56,14,14,7,56,36,20,1998,35,primera_division
+5,Real Betis,56,16,8,11,46,46,20,1998,35,primera_division
+6,Celta,56,16,8,11,48,41,20,1998,35,primera_division
+7,Mallorca,56,15,11,9,52,36,20,1998,35,primera_division
+8,Atlético,54,14,12,9,72,52,20,1998,35,primera_division
+9,Valencia,51,15,6,14,52,46,20,1998,35,primera_division
+10,Espanyol,48,11,15,9,42,30,20,1998,35,primera_division
+11,Real Valladolid,47,13,8,14,36,47,20,1998,35,primera_division
+12,Deportivo,46,11,13,11,38,38,20,1998,35,primera_division
+13,Real Zaragoza,44,11,11,13,43,52,20,1998,35,primera_division
+14,Racing,41,11,8,16,43,53,20,1998,35,primera_division
+15,UD Salamanca,41,11,8,16,41,42,20,1998,35,primera_division
+16,Tenerife,38,9,11,15,38,54,20,1998,35,primera_division
+17,Compostela,37,9,10,16,46,61,20,1998,35,primera_division
+18,Real Oviedo,37,8,13,14,33,46,20,1998,35,primera_division
+19,Mérida CP,37,9,10,16,33,51,20,1998,35,primera_division
+20,Real Sporting,12,2,6,27,29,73,20,1998,35,primera_division
+1,Barcelona,74,23,5,8,75,47,20,1998,36,primera_division
+2,Athletic,61,16,13,7,51,42,20,1998,36,primera_division
+3,Real Madrid,60,16,12,8,62,44,20,1998,36,primera_division
+4,R. Sociedad,59,15,14,7,58,36,20,1998,36,primera_division
+5,Real Betis,59,17,8,11,49,47,20,1998,36,primera_division
+6,Mallorca,59,16,11,9,54,37,20,1998,36,primera_division
+7,Celta,57,16,9,11,51,44,20,1998,36,primera_division
+8,Valencia,54,16,6,14,54,47,20,1998,36,primera_division
+9,Atlético,54,14,12,10,73,54,20,1998,36,primera_division
+10,Espanyol,49,11,16,9,43,31,20,1998,36,primera_division
+11,Real Valladolid,48,13,9,14,36,47,20,1998,36,primera_division
+12,Real Zaragoza,47,12,11,13,45,52,20,1998,36,primera_division
+13,Deportivo,46,11,13,12,39,40,20,1998,36,primera_division
+14,Racing,42,11,9,16,44,54,20,1998,36,primera_division
+15,UD Salamanca,41,11,8,17,41,44,20,1998,36,primera_division
+16,Tenerife,41,10,11,15,40,54,20,1998,36,primera_division
+17,Compostela,38,9,11,16,49,64,20,1998,36,primera_division
+18,Mérida CP,38,9,11,16,33,51,20,1998,36,primera_division
+19,Real Oviedo,37,8,13,15,33,49,20,1998,36,primera_division
+20,Real Sporting,12,2,6,28,29,75,20,1998,36,primera_division
+1,Barcelona,74,23,5,9,77,52,20,1998,37,primera_division
+2,Athletic,62,16,14,7,51,42,20,1998,37,primera_division
+3,R. Sociedad,60,15,15,7,59,37,20,1998,37,primera_division
+4,Real Madrid,60,16,12,9,62,45,20,1998,37,primera_division
+5,Mallorca,60,16,12,9,55,38,20,1998,37,primera_division
+6,Real Betis,59,17,8,12,49,49,20,1998,37,primera_division
+7,Atlético,57,15,12,10,78,56,20,1998,37,primera_division
+8,Celta,57,16,9,12,52,47,20,1998,37,primera_division
+9,Valencia,55,16,7,14,56,49,20,1998,37,primera_division
+10,Espanyol,52,12,16,9,44,31,20,1998,37,primera_division
+11,Real Valladolid,49,13,10,14,36,47,20,1998,37,primera_division
+12,Real Zaragoza,48,12,12,13,45,52,20,1998,37,primera_division
+13,Deportivo,46,11,13,13,41,46,20,1998,37,primera_division
+14,Racing,45,12,9,16,46,54,20,1998,37,primera_division
+15,UD Salamanca,42,11,9,17,42,45,20,1998,37,primera_division
+16,Tenerife,42,10,12,15,41,55,20,1998,37,primera_division
+17,Compostela,41,10,11,16,55,66,20,1998,37,primera_division
+18,Real Oviedo,40,9,13,15,36,50,20,1998,37,primera_division
+19,Mérida CP,39,9,12,16,33,51,20,1998,37,primera_division
+20,Real Sporting,13,2,7,28,31,77,20,1998,37,primera_division
+1,Barcelona,74,23,5,10,78,56,20,1998,38,primera_division
+2,Athletic,65,17,14,7,52,42,20,1998,38,primera_division
+3,R. Sociedad,63,16,15,7,60,37,20,1998,38,primera_division
+4,Real Madrid,63,17,12,9,63,45,20,1998,38,primera_division
+5,Mallorca,60,16,12,10,55,39,20,1998,38,primera_division
+6,Celta,60,17,9,12,54,47,20,1998,38,primera_division
+7,Atlético,60,16,12,10,79,56,20,1998,38,primera_division
+8,Real Betis,59,17,8,13,49,50,20,1998,38,primera_division
+9,Valencia,55,16,7,15,58,52,20,1998,38,primera_division
+10,Espanyol,53,12,17,9,44,31,20,1998,38,primera_division
+11,Real Valladolid,50,13,11,14,36,47,20,1998,38,primera_division
+12,Deportivo,49,12,13,13,44,46,20,1998,38,primera_division
+13,Real Zaragoza,48,12,12,14,45,53,20,1998,38,primera_division
+14,Racing,45,12,9,17,46,55,20,1998,38,primera_division
+15,UD Salamanca,45,12,9,17,46,46,20,1998,38,primera_division
+16,Tenerife,45,11,12,15,44,57,20,1998,38,primera_division
+17,Compostela,44,11,11,16,56,66,20,1998,38,primera_division
+18,Real Oviedo,40,9,13,16,36,51,20,1998,38,primera_division
+19,Mérida CP,39,9,12,17,33,53,20,1998,38,primera_division
+20,Real Sporting,13,2,7,29,31,80,20,1998,38,primera_division

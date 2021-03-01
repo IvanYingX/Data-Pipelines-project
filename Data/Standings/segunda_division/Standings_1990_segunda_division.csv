@@ -1,3 +1,124 @@
+Position,Team,Points,Win,Draw,Lose,Goals_For,Goals_Against,Number_Teams,Season,Round,League
+1,Real Burgos CF,2,1,0,0,3,0,20,1990,1,segunda_division
+2,Sabadell,2,1,0,0,1,0,20,1990,1,segunda_division
+3,Bilbao Ath.,2,1,0,0,2,1,20,1990,1,segunda_division
+4,Deportivo,2,1,0,0,1,0,20,1990,1,segunda_division
+5,Xerez,2,1,0,0,4,1,20,1990,1,segunda_division
+6,Las Palmas,2,1,0,0,1,0,20,1990,1,segunda_division
+7,UE Figueres,2,1,0,0,4,2,20,1990,1,segunda_division
+8,UD Salamanca,2,1,0,0,1,0,20,1990,1,segunda_division
+9,Palamós,2,1,0,0,2,1,20,1990,1,segunda_division
+10,Recreativo,1,0,1,0,2,2,20,1990,1,segunda_division
+11,Atlético B,1,0,1,0,2,2,20,1990,1,segunda_division
+12,Real Betis,0,0,0,1,0,1,20,1990,1,segunda_division
+13,Espanyol,0,0,0,1,0,1,20,1990,1,segunda_division
+14,Real Murcia,0,0,0,1,1,2,20,1990,1,segunda_division
+15,Levante,0,0,0,1,1,4,20,1990,1,segunda_division
+16,Sestao Sport Club,0,0,0,1,0,1,20,1990,1,segunda_division
+17,Eibar,0,0,0,1,0,1,20,1990,1,segunda_division
+18,Racing,0,0,0,1,1,2,20,1990,1,segunda_division
+19,RM Castilla,0,0,0,1,0,3,20,1990,1,segunda_division
+20,Elche,0,0,0,1,2,4,20,1990,1,segunda_division
+1,Real Burgos CF,4,2,0,0,5,1,20,1990,2,segunda_division
+2,Sabadell,4,2,0,0,2,0,20,1990,2,segunda_division
+3,Bilbao Ath.,4,2,0,0,5,2,20,1990,2,segunda_division
+4,Xerez,3,1,1,0,4,1,20,1990,2,segunda_division
+5,Palamós,3,1,1,0,3,2,20,1990,2,segunda_division
+6,UE Figueres,3,1,1,0,4,2,20,1990,2,segunda_division
+7,Deportivo,2,1,0,1,1,1,20,1990,2,segunda_division
+8,Real Betis,2,1,0,1,1,1,20,1990,2,segunda_division
+9,UD Salamanca,2,1,0,1,1,1,20,1990,2,segunda_division
+10,Espanyol,2,1,0,1,1,1,20,1990,2,segunda_division
+11,Las Palmas,2,1,0,1,2,3,20,1990,2,segunda_division
+12,Atlético B,2,0,2,0,2,2,20,1990,2,segunda_division
+13,Racing,2,1,0,1,3,2,20,1990,2,segunda_division
+14,Real Murcia,1,0,1,1,2,3,20,1990,2,segunda_division
+15,Levante,1,0,1,1,2,5,20,1990,2,segunda_division
+16,Sestao Sport Club,1,0,1,1,1,2,20,1990,2,segunda_division
+17,RM Castilla,1,0,1,1,0,3,20,1990,2,segunda_division
+18,Recreativo,1,0,1,1,3,4,20,1990,2,segunda_division
+19,Elche,0,0,0,2,2,5,20,1990,2,segunda_division
+20,Eibar,0,0,0,2,0,3,20,1990,2,segunda_division
+1,Real Burgos CF,5,2,1,0,6,2,20,1990,3,segunda_division
+2,Bilbao Ath.,5,2,1,0,5,2,20,1990,3,segunda_division
+3,Real Betis,4,2,0,1,2,1,20,1990,3,segunda_division
+4,Las Palmas,4,2,0,1,5,3,20,1990,3,segunda_division
+5,Racing,4,2,0,1,4,2,20,1990,3,segunda_division
+6,Palamós,4,1,2,0,4,3,20,1990,3,segunda_division
+7,Xerez,4,1,2,0,5,2,20,1990,3,segunda_division
+8,Sabadell,4,2,0,1,2,2,20,1990,3,segunda_division
+9,Espanyol,3,1,1,1,2,2,20,1990,3,segunda_division
+10,Recreativo,3,1,1,1,4,4,20,1990,3,segunda_division
+11,Levante,3,1,1,1,4,5,20,1990,3,segunda_division
+12,UE Figueres,3,1,1,1,4,3,20,1990,3,segunda_division
+13,Deportivo,3,1,1,1,1,1,20,1990,3,segunda_division
+14,Atlético B,3,0,3,0,3,3,20,1990,3,segunda_division
+15,RM Castilla,2,0,2,1,1,4,20,1990,3,segunda_division
+16,UD Salamanca,2,1,0,2,1,2,20,1990,3,segunda_division
+17,Elche,2,1,0,2,4,5,20,1990,3,segunda_division
+18,Real Murcia,1,0,1,2,2,4,20,1990,3,segunda_division
+19,Sestao Sport Club,1,0,1,2,1,4,20,1990,3,segunda_division
+20,Eibar,0,0,0,3,0,6,20,1990,3,segunda_division
+1,Real Burgos CF,7,3,1,0,11,2,20,1990,4,segunda_division
+2,Bilbao Ath.,7,3,1,0,8,3,20,1990,4,segunda_division
+3,Palamós,6,2,2,0,6,3,20,1990,4,segunda_division
+4,Real Betis,5,2,1,1,2,1,20,1990,4,segunda_division
+5,Deportivo,5,2,1,1,2,1,20,1990,4,segunda_division
+6,Racing,5,2,1,1,4,2,20,1990,4,segunda_division
+7,Xerez,5,1,3,0,5,2,20,1990,4,segunda_division
+8,Sabadell,5,2,1,1,3,3,20,1990,4,segunda_division
+9,UD Salamanca,4,2,0,2,4,2,20,1990,4,segunda_division
+10,Espanyol,4,1,2,1,3,3,20,1990,4,segunda_division
+11,Las Palmas,4,2,0,2,5,6,20,1990,4,segunda_division
+12,Recreativo,4,1,2,1,5,5,20,1990,4,segunda_division
+13,Levante,4,1,2,1,4,5,20,1990,4,segunda_division
+14,UE Figueres,3,1,1,2,4,8,20,1990,4,segunda_division
+15,RM Castilla,3,0,3,1,2,5,20,1990,4,segunda_division
+16,Elche,3,1,1,2,4,5,20,1990,4,segunda_division
+17,Atlético B,3,0,3,1,3,5,20,1990,4,segunda_division
+18,Sestao Sport Club,2,0,2,2,1,4,20,1990,4,segunda_division
+19,Real Murcia,1,0,1,3,3,7,20,1990,4,segunda_division
+20,Eibar,0,0,0,4,0,7,20,1990,4,segunda_division
+1,Bilbao Ath.,8,3,2,0,8,3,20,1990,5,segunda_division
+2,Palamós,8,3,2,0,7,3,20,1990,5,segunda_division
+3,Real Burgos CF,7,3,1,1,12,6,20,1990,5,segunda_division
+4,Deportivo,7,3,1,1,5,1,20,1990,5,segunda_division
+5,Real Betis,7,3,1,1,5,2,20,1990,5,segunda_division
+6,Racing,7,3,1,1,6,3,20,1990,5,segunda_division
+7,Sabadell,7,3,1,1,6,3,20,1990,5,segunda_division
+8,Espanyol,6,2,2,1,7,4,20,1990,5,segunda_division
+9,Xerez,5,1,3,1,6,5,20,1990,5,segunda_division
+10,Las Palmas,5,2,1,2,6,7,20,1990,5,segunda_division
+11,Levante,5,1,3,1,4,5,20,1990,5,segunda_division
+12,Elche,4,1,2,2,5,6,20,1990,5,segunda_division
+13,UD Salamanca,4,2,0,3,4,5,20,1990,5,segunda_division
+14,UE Figueres,4,1,2,2,5,9,20,1990,5,segunda_division
+15,Recreativo,4,1,2,2,5,8,20,1990,5,segunda_division
+16,Atlético B,4,0,4,1,4,6,20,1990,5,segunda_division
+17,RM Castilla,3,0,3,2,3,7,20,1990,5,segunda_division
+18,Real Murcia,3,1,1,3,4,7,20,1990,5,segunda_division
+19,Sestao Sport Club,2,0,2,3,1,5,20,1990,5,segunda_division
+20,Eibar,0,0,0,5,0,8,20,1990,5,segunda_division
+1,Bilbao Ath.,10,4,2,0,11,3,20,1990,6,segunda_division
+2,Real Betis,9,4,1,1,6,2,20,1990,6,segunda_division
+3,Racing,9,4,1,1,8,4,20,1990,6,segunda_division
+4,Real Burgos CF,9,4,1,1,14,7,20,1990,6,segunda_division
+5,Palamós,8,3,2,1,7,4,20,1990,6,segunda_division
+6,Sabadell,7,3,1,2,7,5,20,1990,6,segunda_division
+7,Deportivo,7,3,1,2,6,4,20,1990,6,segunda_division
+8,UE Figueres,6,2,2,2,6,9,20,1990,6,segunda_division
+9,Espanyol,6,2,2,2,7,5,20,1990,6,segunda_division
+10,Las Palmas,6,2,2,2,6,7,20,1990,6,segunda_division
+11,Elche,6,2,2,2,8,7,20,1990,6,segunda_division
+12,Xerez,5,1,3,2,6,8,20,1990,6,segunda_division
+13,UD Salamanca,5,2,1,3,4,5,20,1990,6,segunda_division
+14,Atlético B,5,0,5,1,4,6,20,1990,6,segunda_division
+15,Levante,5,1,3,2,6,9,20,1990,6,segunda_division
+16,Real Murcia,4,1,2,3,4,7,20,1990,6,segunda_division
+17,RM Castilla,4,0,4,2,3,7,20,1990,6,segunda_division
+18,Recreativo,4,1,2,3,6,10,20,1990,6,segunda_division
+19,Sestao Sport Club,3,0,3,3,1,5,20,1990,6,segunda_division
+20,Eibar,2,1,0,5,4,10,20,1990,6,segunda_division
 1,Bilbao Ath.,12,5,2,0,12,3,20,1990,7,segunda_division
 2,Real Betis,11,5,1,1,8,2,20,1990,7,segunda_division
 3,Racing,10,4,2,1,8,4,20,1990,7,segunda_division
@@ -18,3 +139,623 @@
 18,Recreativo,4,1,2,4,7,12,20,1990,7,segunda_division
 19,Sestao Sport Club,3,0,3,4,1,7,20,1990,7,segunda_division
 20,Eibar,2,1,0,6,4,11,20,1990,7,segunda_division
+1,Real Betis,13,6,1,1,9,2,20,1990,8,segunda_division
+2,Real Burgos CF,12,5,2,1,17,7,20,1990,8,segunda_division
+3,Bilbao Ath.,12,5,2,1,12,4,20,1990,8,segunda_division
+4,Racing,10,4,2,2,8,5,20,1990,8,segunda_division
+5,Sabadell,9,4,1,3,9,9,20,1990,8,segunda_division
+6,Xerez,9,3,3,2,9,8,20,1990,8,segunda_division
+7,Palamós,9,3,3,2,8,6,20,1990,8,segunda_division
+8,UE Figueres,8,3,2,3,8,11,20,1990,8,segunda_division
+9,RM Castilla,8,2,4,2,7,8,20,1990,8,segunda_division
+10,Las Palmas,8,3,2,3,8,11,20,1990,8,segunda_division
+11,Espanyol,8,3,2,3,11,7,20,1990,8,segunda_division
+12,Elche,8,3,2,3,10,8,20,1990,8,segunda_division
+13,Deportivo,7,3,1,4,6,6,20,1990,8,segunda_division
+14,UD Salamanca,7,3,1,4,6,8,20,1990,8,segunda_division
+15,Atlético B,7,1,5,2,6,8,20,1990,8,segunda_division
+16,Real Murcia,6,2,2,4,6,10,20,1990,8,segunda_division
+17,Recreativo,6,2,2,4,8,12,20,1990,8,segunda_division
+18,Levante,5,1,3,4,7,13,20,1990,8,segunda_division
+19,Sestao Sport Club,5,1,3,4,2,7,20,1990,8,segunda_division
+20,Eibar,3,1,1,6,5,12,20,1990,8,segunda_division
+1,Bilbao Ath.,14,6,2,1,15,6,20,1990,9,segunda_division
+2,Real Burgos CF,13,5,3,1,18,8,20,1990,9,segunda_division
+3,Real Betis,13,6,1,2,11,5,20,1990,9,segunda_division
+4,Racing,12,5,2,2,9,5,20,1990,9,segunda_division
+5,Xerez,11,4,3,2,11,8,20,1990,9,segunda_division
+6,Sabadell,10,4,2,3,11,11,20,1990,9,segunda_division
+7,Palamós,10,3,4,2,8,6,20,1990,9,segunda_division
+8,UE Figueres,9,3,3,3,9,12,20,1990,9,segunda_division
+9,Las Palmas,9,3,3,3,9,12,20,1990,9,segunda_division
+10,RM Castilla,8,2,4,3,7,9,20,1990,9,segunda_division
+11,Espanyol,8,3,2,4,11,8,20,1990,9,segunda_division
+12,Deportivo,8,3,2,4,7,7,20,1990,9,segunda_division
+13,UD Salamanca,8,3,2,4,6,8,20,1990,9,segunda_division
+14,Real Murcia,8,3,2,4,7,10,20,1990,9,segunda_division
+15,Atlético B,8,1,6,2,8,10,20,1990,9,segunda_division
+16,Elche,8,3,2,4,10,10,20,1990,9,segunda_division
+17,Levante,7,2,3,4,8,13,20,1990,9,segunda_division
+18,Sestao Sport Club,7,2,3,4,4,8,20,1990,9,segunda_division
+19,Recreativo,6,2,2,5,8,13,20,1990,9,segunda_division
+20,Eibar,3,1,1,7,6,14,20,1990,9,segunda_division
+1,Real Burgos CF,15,6,3,1,20,9,20,1990,10,segunda_division
+2,Bilbao Ath.,15,6,3,1,16,7,20,1990,10,segunda_division
+3,Real Betis,15,7,1,2,14,6,20,1990,10,segunda_division
+4,Racing,13,5,3,2,10,6,20,1990,10,segunda_division
+5,Palamós,12,4,4,2,11,8,20,1990,10,segunda_division
+6,Xerez,11,4,3,3,11,9,20,1990,10,segunda_division
+7,Sabadell,11,4,3,3,12,12,20,1990,10,segunda_division
+8,UE Figueres,10,3,4,3,10,13,20,1990,10,segunda_division
+9,RM Castilla,10,3,4,3,8,9,20,1990,10,segunda_division
+10,Espanyol,10,4,2,4,13,9,20,1990,10,segunda_division
+11,Deportivo,9,3,3,4,8,8,20,1990,10,segunda_division
+12,Sestao Sport Club,9,3,3,4,5,8,20,1990,10,segunda_division
+13,Atlético B,9,1,7,2,9,11,20,1990,10,segunda_division
+14,Las Palmas,9,3,3,4,10,14,20,1990,10,segunda_division
+15,UD Salamanca,8,3,2,5,6,9,20,1990,10,segunda_division
+16,Real Murcia,8,3,2,5,8,12,20,1990,10,segunda_division
+17,Elche,8,3,2,5,12,13,20,1990,10,segunda_division
+18,Levante,8,2,4,4,9,14,20,1990,10,segunda_division
+19,Recreativo,7,2,3,5,9,14,20,1990,10,segunda_division
+20,Eibar,3,1,1,8,7,17,20,1990,10,segunda_division
+1,Real Burgos CF,17,7,3,1,23,10,20,1990,11,segunda_division
+2,Bilbao Ath.,17,7,3,1,18,7,20,1990,11,segunda_division
+3,Real Betis,17,8,1,2,15,6,20,1990,11,segunda_division
+4,Racing,15,6,3,2,13,7,20,1990,11,segunda_division
+5,Palamós,14,5,4,2,12,8,20,1990,11,segunda_division
+6,Xerez,13,5,3,3,12,9,20,1990,11,segunda_division
+7,UE Figueres,12,4,4,3,14,14,20,1990,11,segunda_division
+8,Espanyol,12,5,2,4,16,11,20,1990,11,segunda_division
+9,Sabadell,11,4,3,4,12,13,20,1990,11,segunda_division
+10,Sestao Sport Club,11,4,3,4,8,8,20,1990,11,segunda_division
+11,Las Palmas,11,4,3,4,11,14,20,1990,11,segunda_division
+12,RM Castilla,10,3,4,4,8,10,20,1990,11,segunda_division
+13,Deportivo,9,3,3,5,10,11,20,1990,11,segunda_division
+14,Atlético B,9,1,7,3,10,14,20,1990,11,segunda_division
+15,UD Salamanca,8,3,2,6,6,10,20,1990,11,segunda_division
+16,Real Murcia,8,3,2,6,9,16,20,1990,11,segunda_division
+17,Elche,8,3,2,6,12,16,20,1990,11,segunda_division
+18,Levante,8,2,4,5,10,17,20,1990,11,segunda_division
+19,Recreativo,7,2,3,6,9,15,20,1990,11,segunda_division
+20,Eibar,3,1,1,9,7,19,20,1990,11,segunda_division
+1,Real Burgos CF,19,8,3,1,24,10,20,1990,12,segunda_division
+2,Bilbao Ath.,19,8,3,1,20,7,20,1990,12,segunda_division
+3,Real Betis,18,8,2,2,17,8,20,1990,12,segunda_division
+4,Palamós,16,6,4,2,13,8,20,1990,12,segunda_division
+5,Racing,16,6,4,2,14,8,20,1990,12,segunda_division
+6,Sabadell,13,5,3,4,16,13,20,1990,12,segunda_division
+7,Espanyol,13,5,3,4,17,12,20,1990,12,segunda_division
+8,Xerez,13,5,3,4,12,10,20,1990,12,segunda_division
+9,UE Figueres,13,4,5,3,15,15,20,1990,12,segunda_division
+10,Sestao Sport Club,13,5,3,4,9,8,20,1990,12,segunda_division
+11,Las Palmas,12,4,4,4,12,15,20,1990,12,segunda_division
+12,RM Castilla,10,3,4,5,8,11,20,1990,12,segunda_division
+13,Deportivo,9,3,3,6,10,15,20,1990,12,segunda_division
+14,Elche,9,3,3,6,14,18,20,1990,12,segunda_division
+15,Levante,9,2,5,5,11,18,20,1990,12,segunda_division
+16,Real Murcia,9,3,3,6,10,17,20,1990,12,segunda_division
+17,Atlético B,9,1,7,4,11,16,20,1990,12,segunda_division
+18,UD Salamanca,8,3,2,7,6,12,20,1990,12,segunda_division
+19,Recreativo,7,2,3,7,9,16,20,1990,12,segunda_division
+20,Eibar,5,2,1,9,9,20,20,1990,12,segunda_division
+1,Real Burgos CF,20,8,4,1,25,11,20,1990,13,segunda_division
+2,Bilbao Ath.,20,8,4,1,22,9,20,1990,13,segunda_division
+3,Real Betis,20,9,2,2,18,8,20,1990,13,segunda_division
+4,Palamós,17,6,5,2,14,9,20,1990,13,segunda_division
+5,Racing,16,6,4,3,14,9,20,1990,13,segunda_division
+6,Sestao Sport Club,15,6,3,4,10,8,20,1990,13,segunda_division
+7,Sabadell,14,5,4,4,17,14,20,1990,13,segunda_division
+8,Xerez,14,5,4,4,12,10,20,1990,13,segunda_division
+9,UE Figueres,14,4,6,3,15,15,20,1990,13,segunda_division
+10,Espanyol,14,5,4,4,17,12,20,1990,13,segunda_division
+11,Las Palmas,12,4,4,5,12,17,20,1990,13,segunda_division
+12,Deportivo,11,4,3,6,11,15,20,1990,13,segunda_division
+13,Atlético B,11,2,7,4,13,16,20,1990,13,segunda_division
+14,RM Castilla,10,3,4,6,8,12,20,1990,13,segunda_division
+15,Levante,10,2,6,5,11,18,20,1990,13,segunda_division
+16,Real Murcia,10,3,4,6,11,18,20,1990,13,segunda_division
+17,Elche,10,3,4,6,16,20,20,1990,13,segunda_division
+18,UD Salamanca,8,3,2,8,8,15,20,1990,13,segunda_division
+19,Eibar,7,3,1,9,12,22,20,1990,13,segunda_division
+20,Recreativo,7,2,3,8,9,17,20,1990,13,segunda_division
+1,Real Burgos CF,22,9,4,1,27,11,20,1990,14,segunda_division
+2,Bilbao Ath.,22,9,4,1,23,9,20,1990,14,segunda_division
+3,Real Betis,20,9,2,3,19,10,20,1990,14,segunda_division
+4,Palamós,17,6,5,3,14,12,20,1990,14,segunda_division
+5,Racing,17,6,5,3,14,9,20,1990,14,segunda_division
+6,Sabadell,16,6,4,4,20,15,20,1990,14,segunda_division
+7,UE Figueres,16,5,6,3,18,15,20,1990,14,segunda_division
+8,Espanyol,15,5,5,4,17,12,20,1990,14,segunda_division
+9,Sestao Sport Club,15,6,3,5,10,10,20,1990,14,segunda_division
+10,Xerez,15,5,5,4,12,10,20,1990,14,segunda_division
+11,Deportivo,13,5,3,6,14,16,20,1990,14,segunda_division
+12,Las Palmas,12,4,4,6,13,20,20,1990,14,segunda_division
+13,Real Murcia,11,3,5,6,11,18,20,1990,14,segunda_division
+14,Elche,11,3,5,6,16,20,20,1990,14,segunda_division
+15,Atlético B,11,2,7,5,13,20,20,1990,14,segunda_division
+16,UD Salamanca,10,4,2,8,12,15,20,1990,14,segunda_division
+17,RM Castilla,10,3,4,7,8,13,20,1990,14,segunda_division
+18,Levante,10,2,6,6,12,21,20,1990,14,segunda_division
+19,Recreativo,9,3,3,8,11,18,20,1990,14,segunda_division
+20,Eibar,8,3,2,9,12,22,20,1990,14,segunda_division
+1,Bilbao Ath.,24,10,4,1,26,10,20,1990,15,segunda_division
+2,Real Burgos CF,23,9,5,1,27,11,20,1990,15,segunda_division
+3,Real Betis,21,9,3,3,19,10,20,1990,15,segunda_division
+4,Palamós,18,6,6,3,14,12,20,1990,15,segunda_division
+5,Sabadell,17,6,5,4,21,16,20,1990,15,segunda_division
+6,Sestao Sport Club,17,7,3,5,14,10,20,1990,15,segunda_division
+7,Racing,17,6,5,4,14,12,20,1990,15,segunda_division
+8,Xerez,16,5,6,4,13,11,20,1990,15,segunda_division
+9,UE Figueres,16,5,6,4,18,19,20,1990,15,segunda_division
+10,Espanyol,16,5,6,4,17,12,20,1990,15,segunda_division
+11,Deportivo,15,6,3,6,17,17,20,1990,15,segunda_division
+12,Las Palmas,14,5,4,6,14,20,20,1990,15,segunda_division
+13,UD Salamanca,12,5,2,8,13,15,20,1990,15,segunda_division
+14,Levante,12,3,6,6,15,21,20,1990,15,segunda_division
+15,Real Murcia,11,3,5,7,11,19,20,1990,15,segunda_division
+16,Elche,11,3,5,7,16,21,20,1990,15,segunda_division
+17,Atlético B,11,2,7,6,14,23,20,1990,15,segunda_division
+18,Eibar,10,4,2,9,14,22,20,1990,15,segunda_division
+19,RM Castilla,10,3,4,8,8,15,20,1990,15,segunda_division
+20,Recreativo,9,3,3,9,12,21,20,1990,15,segunda_division
+1,Bilbao Ath.,25,10,5,1,26,10,20,1990,16,segunda_division
+2,Real Burgos CF,24,9,6,1,27,11,20,1990,16,segunda_division
+3,Real Betis,22,9,4,3,20,11,20,1990,16,segunda_division
+4,Racing,19,7,5,4,17,12,20,1990,16,segunda_division
+5,Sabadell,19,7,5,4,23,16,20,1990,16,segunda_division
+6,Espanyol,18,6,6,4,18,12,20,1990,16,segunda_division
+7,Palamós,18,6,6,4,14,14,20,1990,16,segunda_division
+8,Deportivo,17,7,3,6,18,17,20,1990,16,segunda_division
+9,UE Figueres,17,5,7,4,19,20,20,1990,16,segunda_division
+10,Sestao Sport Club,17,7,3,6,14,11,20,1990,16,segunda_division
+11,Xerez,16,5,6,5,13,14,20,1990,16,segunda_division
+12,Las Palmas,15,5,5,6,15,21,20,1990,16,segunda_division
+13,UD Salamanca,14,6,2,8,14,15,20,1990,16,segunda_division
+14,Levante,13,3,7,6,16,22,20,1990,16,segunda_division
+15,Elche,12,3,6,7,16,21,20,1990,16,segunda_division
+16,Atlético B,12,2,8,6,14,23,20,1990,16,segunda_division
+17,Real Murcia,11,3,5,8,11,20,20,1990,16,segunda_division
+18,Eibar,11,4,3,9,16,24,20,1990,16,segunda_division
+19,Recreativo,10,3,4,9,14,23,20,1990,16,segunda_division
+20,RM Castilla,10,3,4,9,8,16,20,1990,16,segunda_division
+1,Bilbao Ath.,27,11,5,1,30,10,20,1990,17,segunda_division
+2,Real Burgos CF,25,9,7,1,27,11,20,1990,17,segunda_division
+3,Real Betis,24,10,4,3,21,11,20,1990,17,segunda_division
+4,Sabadell,21,8,5,4,24,16,20,1990,17,segunda_division
+5,Palamós,20,7,6,4,15,14,20,1990,17,segunda_division
+6,Racing,19,7,5,5,17,13,20,1990,17,segunda_division
+7,Espanyol,18,6,6,5,18,13,20,1990,17,segunda_division
+8,Deportivo,17,7,3,7,18,18,20,1990,17,segunda_division
+9,Sestao Sport Club,17,7,3,7,14,12,20,1990,17,segunda_division
+10,UE Figueres,17,5,7,5,19,24,20,1990,17,segunda_division
+11,Las Palmas,17,6,5,6,17,21,20,1990,17,segunda_division
+12,Xerez,16,5,6,6,13,16,20,1990,17,segunda_division
+13,UD Salamanca,16,7,2,8,16,15,20,1990,17,segunda_division
+14,Levante,15,4,7,6,17,22,20,1990,17,segunda_division
+15,Atlético B,14,3,8,6,18,24,20,1990,17,segunda_division
+16,Eibar,12,4,4,9,16,24,20,1990,17,segunda_division
+17,RM Castilla,12,4,4,9,11,18,20,1990,17,segunda_division
+18,Elche,12,3,6,8,18,24,20,1990,17,segunda_division
+19,Real Murcia,11,3,5,9,12,24,20,1990,17,segunda_division
+20,Recreativo,10,3,4,10,14,25,20,1990,17,segunda_division
+1,Bilbao Ath.,27,11,5,2,31,12,20,1990,18,segunda_division
+2,Real Burgos CF,27,10,7,1,28,11,20,1990,18,segunda_division
+3,Real Betis,26,11,4,3,23,11,20,1990,18,segunda_division
+4,Sabadell,21,8,5,5,24,18,20,1990,18,segunda_division
+5,Palamós,21,7,7,4,15,14,20,1990,18,segunda_division
+6,Espanyol,20,7,6,5,20,14,20,1990,18,segunda_division
+7,Deportivo,19,8,3,7,20,19,20,1990,18,segunda_division
+8,Sestao Sport Club,19,8,3,7,15,12,20,1990,18,segunda_division
+9,Racing,19,7,5,6,17,14,20,1990,18,segunda_division
+10,Las Palmas,18,6,6,6,17,21,20,1990,18,segunda_division
+11,UE Figueres,18,5,8,5,20,25,20,1990,18,segunda_division
+12,Xerez,16,5,6,7,14,18,20,1990,18,segunda_division
+13,UD Salamanca,16,7,2,9,16,16,20,1990,18,segunda_division
+14,Atlético B,16,4,8,6,19,24,20,1990,18,segunda_division
+15,Levante,16,4,8,6,19,24,20,1990,18,segunda_division
+16,Elche,14,4,6,8,20,24,20,1990,18,segunda_division
+17,Eibar,13,4,5,9,17,25,20,1990,18,segunda_division
+18,RM Castilla,12,4,4,10,11,19,20,1990,18,segunda_division
+19,Real Murcia,12,3,6,9,14,26,20,1990,18,segunda_division
+20,Recreativo,10,3,4,11,14,27,20,1990,18,segunda_division
+1,Bilbao Ath.,28,11,6,2,32,13,20,1990,19,segunda_division
+2,Real Burgos CF,28,10,8,1,29,12,20,1990,19,segunda_division
+3,Real Betis,27,11,5,3,23,11,20,1990,19,segunda_division
+4,Sabadell,22,8,6,5,25,19,20,1990,19,segunda_division
+5,Espanyol,21,7,7,5,20,14,20,1990,19,segunda_division
+6,Deportivo,21,9,3,7,21,19,20,1990,19,segunda_division
+7,Palamós,21,7,7,5,15,15,20,1990,19,segunda_division
+8,Sestao Sport Club,20,8,4,7,15,12,20,1990,19,segunda_division
+9,Racing,20,7,6,6,17,14,20,1990,19,segunda_division
+10,Las Palmas,19,6,7,6,17,21,20,1990,19,segunda_division
+11,UD Salamanca,18,8,2,9,18,16,20,1990,19,segunda_division
+12,UE Figueres,18,5,8,6,20,27,20,1990,19,segunda_division
+13,Atlético B,17,4,9,6,20,25,20,1990,19,segunda_division
+14,Levante,17,4,9,6,20,25,20,1990,19,segunda_division
+15,Xerez,16,5,6,8,14,22,20,1990,19,segunda_division
+16,Elche,15,4,7,8,21,25,20,1990,19,segunda_division
+17,Real Murcia,14,4,6,9,18,26,20,1990,19,segunda_division
+18,Eibar,14,4,6,9,17,25,20,1990,19,segunda_division
+19,RM Castilla,14,5,4,10,14,21,20,1990,19,segunda_division
+20,Recreativo,10,3,4,12,16,30,20,1990,19,segunda_division
+1,Bilbao Ath.,29,11,7,2,35,16,20,1990,20,segunda_division
+2,Real Burgos CF,29,10,9,1,29,12,20,1990,20,segunda_division
+3,Real Betis,29,12,5,3,24,11,20,1990,20,segunda_division
+4,Espanyol,22,7,8,5,21,15,20,1990,20,segunda_division
+5,Deportivo,22,9,4,7,23,21,20,1990,20,segunda_division
+6,Sabadell,22,8,6,6,26,22,20,1990,20,segunda_division
+7,Palamós,22,7,8,5,16,16,20,1990,20,segunda_division
+8,Sestao Sport Club,21,8,5,7,17,14,20,1990,20,segunda_division
+9,Racing,21,7,7,6,20,17,20,1990,20,segunda_division
+10,UD Salamanca,19,8,3,9,19,17,20,1990,20,segunda_division
+11,Las Palmas,19,6,7,7,17,22,20,1990,20,segunda_division
+12,UE Figueres,19,5,9,6,20,27,20,1990,20,segunda_division
+13,Levante,18,4,10,6,20,25,20,1990,20,segunda_division
+14,Atlético B,17,4,9,7,21,27,20,1990,20,segunda_division
+15,Xerez,17,5,7,8,14,22,20,1990,20,segunda_division
+16,Elche,16,4,8,8,21,25,20,1990,20,segunda_division
+17,Eibar,16,5,6,9,20,26,20,1990,20,segunda_division
+18,RM Castilla,15,5,5,10,14,21,20,1990,20,segunda_division
+19,Real Murcia,15,4,7,9,19,27,20,1990,20,segunda_division
+20,Recreativo,12,4,4,12,18,31,20,1990,20,segunda_division
+1,Real Burgos CF,31,11,9,1,30,12,20,1990,21,segunda_division
+2,Bilbao Ath.,29,11,7,3,36,19,20,1990,21,segunda_division
+3,Real Betis,29,12,5,4,24,13,20,1990,21,segunda_division
+4,Espanyol,24,8,8,5,23,15,20,1990,21,segunda_division
+5,Deportivo,24,10,4,7,25,21,20,1990,21,segunda_division
+6,Racing,23,8,7,6,21,17,20,1990,21,segunda_division
+7,Sabadell,23,8,7,6,26,22,20,1990,21,segunda_division
+8,Palamós,22,7,8,6,16,17,20,1990,21,segunda_division
+9,Sestao Sport Club,21,8,5,8,17,15,20,1990,21,segunda_division
+10,UE Figueres,21,6,9,6,23,28,20,1990,21,segunda_division
+11,Las Palmas,21,7,7,7,20,23,20,1990,21,segunda_division
+12,UD Salamanca,20,8,4,9,19,17,20,1990,21,segunda_division
+13,Levante,20,5,10,6,21,25,20,1990,21,segunda_division
+14,Atlético B,18,4,10,7,21,27,20,1990,21,segunda_division
+15,Xerez,18,5,8,8,14,22,20,1990,21,segunda_division
+16,Real Murcia,17,5,7,9,20,27,20,1990,21,segunda_division
+17,Elche,16,4,8,9,21,27,20,1990,21,segunda_division
+18,Eibar,16,5,6,10,20,27,20,1990,21,segunda_division
+19,RM Castilla,15,5,5,11,15,24,20,1990,21,segunda_division
+20,Recreativo,12,4,4,13,18,32,20,1990,21,segunda_division
+1,Real Burgos CF,33,12,9,1,34,12,20,1990,22,segunda_division
+2,Bilbao Ath.,31,12,7,3,37,19,20,1990,22,segunda_division
+3,Real Betis,30,12,6,4,25,14,20,1990,22,segunda_division
+4,Espanyol,24,8,8,6,23,16,20,1990,22,segunda_division
+5,Sabadell,24,8,8,6,27,23,20,1990,22,segunda_division
+6,Deportivo,24,10,4,8,25,22,20,1990,22,segunda_division
+7,Las Palmas,23,8,7,7,22,24,20,1990,22,segunda_division
+8,Palamós,23,7,9,6,16,17,20,1990,22,segunda_division
+9,Racing,23,8,7,7,21,20,20,1990,22,segunda_division
+10,Sestao Sport Club,22,8,6,8,18,16,20,1990,22,segunda_division
+11,UD Salamanca,22,9,4,9,22,17,20,1990,22,segunda_division
+12,Levante,21,5,11,6,22,26,20,1990,22,segunda_division
+13,UE Figueres,21,6,9,7,23,29,20,1990,22,segunda_division
+14,Xerez,19,5,9,8,14,22,20,1990,22,segunda_division
+15,Atlético B,18,4,10,8,21,31,20,1990,22,segunda_division
+16,Real Murcia,18,5,8,9,21,28,20,1990,22,segunda_division
+17,RM Castilla,17,6,5,11,16,24,20,1990,22,segunda_division
+18,Elche,17,4,9,9,22,28,20,1990,22,segunda_division
+19,Eibar,16,5,6,11,21,29,20,1990,22,segunda_division
+20,Recreativo,14,5,4,13,19,32,20,1990,22,segunda_division
+1,Real Burgos CF,33,12,9,2,34,13,20,1990,23,segunda_division
+2,Bilbao Ath.,32,12,8,3,39,21,20,1990,23,segunda_division
+3,Real Betis,31,12,7,4,26,15,20,1990,23,segunda_division
+4,Espanyol,26,9,8,6,27,16,20,1990,23,segunda_division
+5,Sabadell,25,8,9,6,27,23,20,1990,23,segunda_division
+6,Las Palmas,25,9,7,7,25,25,20,1990,23,segunda_division
+7,Deportivo,24,10,4,9,25,23,20,1990,23,segunda_division
+8,Palamós,24,7,10,6,18,19,20,1990,23,segunda_division
+9,Sestao Sport Club,24,9,6,8,19,16,20,1990,23,segunda_division
+10,UE Figueres,23,7,9,7,24,29,20,1990,23,segunda_division
+11,Racing,23,8,7,8,21,21,20,1990,23,segunda_division
+12,UD Salamanca,22,9,4,10,23,20,20,1990,23,segunda_division
+13,Levante,22,5,12,6,23,27,20,1990,23,segunda_division
+14,Real Murcia,19,5,9,9,23,30,20,1990,23,segunda_division
+15,Elche,19,5,9,9,23,28,20,1990,23,segunda_division
+16,Atlético B,19,4,11,8,23,33,20,1990,23,segunda_division
+17,Xerez,19,5,9,9,14,23,20,1990,23,segunda_division
+18,Eibar,18,6,6,11,22,29,20,1990,23,segunda_division
+19,RM Castilla,18,6,6,11,16,24,20,1990,23,segunda_division
+20,Recreativo,14,5,4,14,19,36,20,1990,23,segunda_division
+1,Real Burgos CF,35,13,9,2,38,14,20,1990,24,segunda_division
+2,Bilbao Ath.,34,13,8,3,40,21,20,1990,24,segunda_division
+3,Real Betis,32,12,8,4,26,15,20,1990,24,segunda_division
+4,Espanyol,26,9,8,7,28,20,20,1990,24,segunda_division
+5,Palamós,26,8,10,6,19,19,20,1990,24,segunda_division
+6,Sabadell,25,8,9,7,27,25,20,1990,24,segunda_division
+7,Las Palmas,25,9,7,8,25,27,20,1990,24,segunda_division
+8,UE Figueres,25,8,9,7,26,30,20,1990,24,segunda_division
+9,Racing,25,9,7,8,23,22,20,1990,24,segunda_division
+10,Deportivo,24,10,4,10,25,25,20,1990,24,segunda_division
+11,Sestao Sport Club,24,9,6,9,19,17,20,1990,24,segunda_division
+12,UD Salamanca,24,10,4,10,25,20,20,1990,24,segunda_division
+13,Levante,22,5,12,7,23,28,20,1990,24,segunda_division
+14,Real Murcia,21,6,9,9,25,30,20,1990,24,segunda_division
+15,Elche,21,6,9,9,25,28,20,1990,24,segunda_division
+16,Xerez,20,5,10,9,14,23,20,1990,24,segunda_division
+17,Atlético B,19,4,11,9,24,35,20,1990,24,segunda_division
+18,Eibar,18,6,6,12,22,31,20,1990,24,segunda_division
+19,RM Castilla,18,6,6,12,17,26,20,1990,24,segunda_division
+20,Recreativo,16,6,4,14,21,36,20,1990,24,segunda_division
+1,Real Burgos CF,36,13,10,2,38,14,20,1990,25,segunda_division
+2,Bilbao Ath.,35,13,9,3,41,22,20,1990,25,segunda_division
+3,Real Betis,33,12,9,4,26,15,20,1990,25,segunda_division
+4,Las Palmas,27,10,7,8,29,28,20,1990,25,segunda_division
+5,UE Figueres,27,9,9,7,27,30,20,1990,25,segunda_division
+6,Palamós,27,8,11,6,19,19,20,1990,25,segunda_division
+7,Espanyol,26,9,8,8,28,21,20,1990,25,segunda_division
+8,Sabadell,26,8,10,7,27,25,20,1990,25,segunda_division
+9,Deportivo,26,11,4,10,26,25,20,1990,25,segunda_division
+10,Sestao Sport Club,25,9,7,9,20,18,20,1990,25,segunda_division
+11,UD Salamanca,25,10,5,10,25,20,20,1990,25,segunda_division
+12,Racing,25,9,7,9,24,24,20,1990,25,segunda_division
+13,Levante,23,5,13,7,23,28,20,1990,25,segunda_division
+14,Real Murcia,22,6,10,9,25,30,20,1990,25,segunda_division
+15,Xerez,21,5,11,9,15,24,20,1990,25,segunda_division
+16,Elche,21,6,9,10,25,29,20,1990,25,segunda_division
+17,Atlético B,20,4,12,9,25,36,20,1990,25,segunda_division
+18,Eibar,19,6,7,12,22,31,20,1990,25,segunda_division
+19,Recreativo,18,7,4,14,23,37,20,1990,25,segunda_division
+20,RM Castilla,18,6,6,13,18,30,20,1990,25,segunda_division
+1,Real Burgos CF,36,13,10,3,38,16,20,1990,26,segunda_division
+2,Bilbao Ath.,35,13,9,4,42,24,20,1990,26,segunda_division
+3,Real Betis,34,12,10,4,27,16,20,1990,26,segunda_division
+4,Palamós,29,9,11,6,21,20,20,1990,26,segunda_division
+5,Espanyol,28,10,8,8,29,21,20,1990,26,segunda_division
+6,Sabadell,28,9,10,7,30,26,20,1990,26,segunda_division
+7,Deportivo,27,11,5,10,26,25,20,1990,26,segunda_division
+8,UE Figueres,27,9,9,8,28,33,20,1990,26,segunda_division
+9,UD Salamanca,27,11,5,10,26,20,20,1990,26,segunda_division
+10,Las Palmas,27,10,7,9,29,29,20,1990,26,segunda_division
+11,Racing,27,10,7,9,26,24,20,1990,26,segunda_division
+12,Sestao Sport Club,26,9,8,9,21,19,20,1990,26,segunda_division
+13,Levante,23,5,13,8,23,29,20,1990,26,segunda_division
+14,Real Murcia,23,6,11,9,25,30,20,1990,26,segunda_division
+15,Xerez,22,5,12,9,16,25,20,1990,26,segunda_division
+16,Elche,22,6,10,10,25,29,20,1990,26,segunda_division
+17,Eibar,20,6,8,12,23,32,20,1990,26,segunda_division
+18,Recreativo,20,8,4,14,24,37,20,1990,26,segunda_division
+19,Atlético B,20,4,12,10,25,37,20,1990,26,segunda_division
+20,RM Castilla,19,6,7,13,18,30,20,1990,26,segunda_division
+1,Real Burgos CF,37,13,11,3,38,16,20,1990,27,segunda_division
+2,Bilbao Ath.,36,13,10,4,44,26,20,1990,27,segunda_division
+3,Real Betis,34,12,10,5,28,18,20,1990,27,segunda_division
+4,Palamós,31,10,11,6,22,20,20,1990,27,segunda_division
+5,Espanyol,29,10,9,8,30,22,20,1990,27,segunda_division
+6,Sabadell,29,9,11,7,31,27,20,1990,27,segunda_division
+7,Deportivo,29,12,5,10,30,28,20,1990,27,segunda_division
+8,Las Palmas,28,10,8,9,29,29,20,1990,27,segunda_division
+9,UE Figueres,28,9,10,8,28,33,20,1990,27,segunda_division
+10,Racing,28,10,8,9,26,24,20,1990,27,segunda_division
+11,Sestao Sport Club,27,9,9,9,23,21,20,1990,27,segunda_division
+12,UD Salamanca,27,11,5,11,26,21,20,1990,27,segunda_division
+13,Real Murcia,25,7,11,9,26,30,20,1990,27,segunda_division
+14,Xerez,24,6,12,9,17,25,20,1990,27,segunda_division
+15,Levante,24,5,14,8,24,30,20,1990,27,segunda_division
+16,Elche,23,6,11,10,26,30,20,1990,27,segunda_division
+17,Atlético B,22,5,12,10,27,38,20,1990,27,segunda_division
+18,Eibar,20,6,8,13,23,33,20,1990,27,segunda_division
+19,Recreativo,20,8,4,15,27,41,20,1990,27,segunda_division
+20,RM Castilla,19,6,7,14,18,31,20,1990,27,segunda_division
+1,Real Burgos CF,39,14,11,3,41,16,20,1990,28,segunda_division
+2,Bilbao Ath.,37,13,11,4,44,26,20,1990,28,segunda_division
+3,Real Betis,35,12,11,5,28,18,20,1990,28,segunda_division
+4,Palamós,32,10,12,6,23,21,20,1990,28,segunda_division
+5,Espanyol,31,11,9,8,31,22,20,1990,28,segunda_division
+6,Sabadell,31,10,11,7,33,27,20,1990,28,segunda_division
+7,Deportivo,29,12,5,11,30,31,20,1990,28,segunda_division
+8,UE Figueres,29,9,11,8,29,34,20,1990,28,segunda_division
+9,Las Palmas,29,10,9,9,30,30,20,1990,28,segunda_division
+10,UD Salamanca,28,11,6,11,27,22,20,1990,28,segunda_division
+11,Racing,28,10,8,10,26,25,20,1990,28,segunda_division
+12,Real Murcia,27,8,11,9,27,30,20,1990,28,segunda_division
+13,Sestao Sport Club,27,9,9,10,23,22,20,1990,28,segunda_division
+14,Elche,25,7,11,10,27,30,20,1990,28,segunda_division
+15,Xerez,24,6,12,10,17,26,20,1990,28,segunda_division
+16,Levante,24,5,14,9,25,33,20,1990,28,segunda_division
+17,Atlético B,22,5,12,11,27,40,20,1990,28,segunda_division
+18,Eibar,22,7,8,13,24,33,20,1990,28,segunda_division
+19,RM Castilla,21,7,7,14,21,32,20,1990,28,segunda_division
+20,Recreativo,20,8,4,16,27,42,20,1990,28,segunda_division
+1,Real Burgos CF,39,14,11,4,41,18,20,1990,29,segunda_division
+2,Bilbao Ath.,39,14,11,4,45,26,20,1990,29,segunda_division
+3,Real Betis,36,12,12,5,29,19,20,1990,29,segunda_division
+4,Palamós,34,11,12,6,25,21,20,1990,29,segunda_division
+5,Espanyol,31,11,9,9,32,24,20,1990,29,segunda_division
+6,Las Palmas,31,11,9,9,32,31,20,1990,29,segunda_division
+7,Sabadell,31,10,11,8,33,31,20,1990,29,segunda_division
+8,Deportivo,30,12,6,11,31,32,20,1990,29,segunda_division
+9,UE Figueres,30,9,12,8,30,35,20,1990,29,segunda_division
+10,Racing,30,11,8,10,30,25,20,1990,29,segunda_division
+11,Real Murcia,29,9,11,9,29,30,20,1990,29,segunda_division
+12,Sestao Sport Club,29,10,9,10,24,22,20,1990,29,segunda_division
+13,UD Salamanca,28,11,6,12,27,23,20,1990,29,segunda_division
+14,Xerez,26,7,12,10,18,26,20,1990,29,segunda_division
+15,Elche,25,7,11,11,27,32,20,1990,29,segunda_division
+16,Levante,25,5,15,9,26,34,20,1990,29,segunda_division
+17,Eibar,23,7,9,13,25,34,20,1990,29,segunda_division
+18,Atlético B,22,5,12,12,27,41,20,1990,29,segunda_division
+19,Recreativo,21,8,5,16,28,43,20,1990,29,segunda_division
+20,RM Castilla,21,7,7,15,21,33,20,1990,29,segunda_division
+1,Bilbao Ath.,40,14,12,4,46,27,20,1990,30,segunda_division
+2,Real Burgos CF,39,14,11,5,41,19,20,1990,30,segunda_division
+3,Real Betis,37,12,13,5,30,20,20,1990,30,segunda_division
+4,Palamós,35,11,13,6,26,22,20,1990,30,segunda_division
+5,Espanyol,33,12,9,9,34,24,20,1990,30,segunda_division
+6,Sabadell,33,11,11,8,35,32,20,1990,30,segunda_division
+7,Las Palmas,31,11,9,10,33,33,20,1990,30,segunda_division
+8,Real Murcia,31,10,11,9,31,30,20,1990,30,segunda_division
+9,Deportivo,30,12,6,12,31,34,20,1990,30,segunda_division
+10,UE Figueres,30,9,12,9,30,37,20,1990,30,segunda_division
+11,Racing,30,11,8,11,30,26,20,1990,30,segunda_division
+12,Sestao Sport Club,29,10,9,11,25,24,20,1990,30,segunda_division
+13,UD Salamanca,29,11,7,12,28,24,20,1990,30,segunda_division
+14,Xerez,28,8,12,10,19,26,20,1990,30,segunda_division
+15,Elche,27,8,11,11,29,33,20,1990,30,segunda_division
+16,Levante,27,6,15,9,27,34,20,1990,30,segunda_division
+17,Atlético B,24,6,12,12,28,41,20,1990,30,segunda_division
+18,Eibar,24,7,10,13,26,35,20,1990,30,segunda_division
+19,RM Castilla,22,7,8,15,22,34,20,1990,30,segunda_division
+20,Recreativo,21,8,5,17,28,44,20,1990,30,segunda_division
+1,Bilbao Ath.,41,14,13,4,46,27,20,1990,31,segunda_division
+2,Real Burgos CF,40,14,12,5,42,20,20,1990,31,segunda_division
+3,Real Betis,39,13,13,5,32,20,20,1990,31,segunda_division
+4,Espanyol,35,13,9,9,36,25,20,1990,31,segunda_division
+5,Palamós,35,11,13,7,27,25,20,1990,31,segunda_division
+6,Sabadell,33,11,11,9,35,33,20,1990,31,segunda_division
+7,Las Palmas,33,12,9,10,34,33,20,1990,31,segunda_division
+8,Deportivo,32,13,6,12,32,34,20,1990,31,segunda_division
+9,Real Murcia,31,10,11,10,32,32,20,1990,31,segunda_division
+10,Sestao Sport Club,31,11,9,11,27,24,20,1990,31,segunda_division
+11,UE Figueres,30,9,12,10,30,39,20,1990,31,segunda_division
+12,UD Salamanca,30,11,8,12,28,24,20,1990,31,segunda_division
+13,Racing,30,11,8,12,30,27,20,1990,31,segunda_division
+14,Xerez,29,8,13,10,20,27,20,1990,31,segunda_division
+15,Levante,29,7,15,9,29,34,20,1990,31,segunda_division
+16,Elche,27,8,11,12,29,35,20,1990,31,segunda_division
+17,Atlético B,26,7,12,12,30,41,20,1990,31,segunda_division
+18,Eibar,24,7,10,14,26,37,20,1990,31,segunda_division
+19,Recreativo,23,9,5,17,31,45,20,1990,31,segunda_division
+20,RM Castilla,22,7,8,16,22,36,20,1990,31,segunda_division
+1,Real Burgos CF,42,15,12,5,48,20,20,1990,32,segunda_division
+2,Bilbao Ath.,41,14,13,5,47,30,20,1990,32,segunda_division
+3,Real Betis,39,13,13,6,33,23,20,1990,32,segunda_division
+4,Espanyol,37,14,9,9,42,25,20,1990,32,segunda_division
+5,Las Palmas,35,13,9,10,36,33,20,1990,32,segunda_division
+6,Palamós,35,11,13,8,27,31,20,1990,32,segunda_division
+7,Sabadell,34,11,12,9,37,35,20,1990,32,segunda_division
+8,Deportivo,34,14,6,12,35,34,20,1990,32,segunda_division
+9,UD Salamanca,32,12,8,12,29,24,20,1990,32,segunda_division
+10,Real Murcia,32,10,12,10,34,34,20,1990,32,segunda_division
+11,Sestao Sport Club,31,11,9,12,28,26,20,1990,32,segunda_division
+12,Xerez,31,9,13,10,22,28,20,1990,32,segunda_division
+13,UE Figueres,30,9,12,11,31,41,20,1990,32,segunda_division
+14,Racing,30,11,8,13,30,30,20,1990,32,segunda_division
+15,Elche,29,9,11,12,32,36,20,1990,32,segunda_division
+16,Levante,29,7,15,10,29,40,20,1990,32,segunda_division
+17,Atlético B,26,7,12,13,30,43,20,1990,32,segunda_division
+18,Recreativo,25,10,5,17,33,46,20,1990,32,segunda_division
+19,Eibar,24,7,10,15,26,38,20,1990,32,segunda_division
+20,RM Castilla,24,8,8,16,25,37,20,1990,32,segunda_division
+1,Real Burgos CF,44,16,12,5,49,20,20,1990,33,segunda_division
+2,Bilbao Ath.,42,14,14,5,47,30,20,1990,33,segunda_division
+3,Real Betis,41,14,13,6,36,24,20,1990,33,segunda_division
+4,Espanyol,38,14,10,9,42,25,20,1990,33,segunda_division
+5,Palamós,37,12,13,8,28,31,20,1990,33,segunda_division
+6,Deportivo,36,15,6,12,37,35,20,1990,33,segunda_division
+7,Las Palmas,35,13,9,11,37,35,20,1990,33,segunda_division
+8,Sabadell,34,11,12,10,37,36,20,1990,33,segunda_division
+9,Real Murcia,34,11,12,10,35,34,20,1990,33,segunda_division
+10,Xerez,32,9,14,10,22,28,20,1990,33,segunda_division
+11,UD Salamanca,32,12,8,13,29,26,20,1990,33,segunda_division
+12,Levante,31,8,15,10,30,40,20,1990,33,segunda_division
+13,Sestao Sport Club,31,11,9,13,28,27,20,1990,33,segunda_division
+14,UE Figueres,30,9,12,12,31,42,20,1990,33,segunda_division
+15,Elche,30,9,12,12,32,36,20,1990,33,segunda_division
+16,Racing,30,11,8,14,30,31,20,1990,33,segunda_division
+17,Atlético B,28,8,12,13,32,43,20,1990,33,segunda_division
+18,Eibar,25,7,11,15,26,38,20,1990,33,segunda_division
+19,Recreativo,25,10,5,18,34,49,20,1990,33,segunda_division
+20,RM Castilla,25,8,9,16,25,37,20,1990,33,segunda_division
+1,Real Burgos CF,46,17,12,5,50,20,20,1990,34,segunda_division
+2,Bilbao Ath.,42,14,14,6,47,31,20,1990,34,segunda_division
+3,Real Betis,41,14,13,7,36,25,20,1990,34,segunda_division
+4,Espanyol,40,15,10,9,44,25,20,1990,34,segunda_division
+5,Deportivo,38,16,6,12,39,35,20,1990,34,segunda_division
+6,Las Palmas,37,14,9,11,38,35,20,1990,34,segunda_division
+7,Palamós,37,12,13,9,28,33,20,1990,34,segunda_division
+8,Sabadell,35,11,13,10,37,36,20,1990,34,segunda_division
+9,Real Murcia,34,11,12,11,35,35,20,1990,34,segunda_division
+10,Xerez,33,9,15,10,22,28,20,1990,34,segunda_division
+11,UD Salamanca,32,12,8,14,30,28,20,1990,34,segunda_division
+12,UE Figueres,32,10,12,12,33,43,20,1990,34,segunda_division
+13,Elche,32,10,12,12,34,37,20,1990,34,segunda_division
+14,Levante,32,8,16,10,31,41,20,1990,34,segunda_division
+15,Sestao Sport Club,31,11,9,14,29,29,20,1990,34,segunda_division
+16,Racing,31,11,9,14,31,32,20,1990,34,segunda_division
+17,Atlético B,28,8,12,14,32,45,20,1990,34,segunda_division
+18,Eibar,27,8,11,15,28,39,20,1990,34,segunda_division
+19,Recreativo,27,11,5,18,35,49,20,1990,34,segunda_division
+20,RM Castilla,25,8,9,17,26,39,20,1990,34,segunda_division
+1,Real Burgos CF,47,17,13,5,51,21,20,1990,35,segunda_division
+2,Bilbao Ath.,43,14,15,6,48,32,20,1990,35,segunda_division
+3,Real Betis,43,15,13,7,38,25,20,1990,35,segunda_division
+4,Espanyol,41,15,11,9,46,27,20,1990,35,segunda_division
+5,Deportivo,40,17,6,12,41,35,20,1990,35,segunda_division
+6,Palamós,39,13,13,9,29,33,20,1990,35,segunda_division
+7,Las Palmas,38,14,10,11,38,35,20,1990,35,segunda_division
+8,Sabadell,35,11,13,11,37,37,20,1990,35,segunda_division
+9,Real Murcia,34,11,12,12,35,37,20,1990,35,segunda_division
+10,Elche,34,11,12,12,35,37,20,1990,35,segunda_division
+11,Xerez,34,9,16,10,22,28,20,1990,35,segunda_division
+12,Levante,33,8,17,10,31,41,20,1990,35,segunda_division
+13,Sestao Sport Club,32,11,10,14,31,31,20,1990,35,segunda_division
+14,UE Figueres,32,10,12,13,33,45,20,1990,35,segunda_division
+15,UD Salamanca,32,12,8,15,31,31,20,1990,35,segunda_division
+16,Racing,32,11,10,14,31,32,20,1990,35,segunda_division
+17,Eibar,29,9,11,15,30,39,20,1990,35,segunda_division
+18,Atlético B,28,8,12,15,32,46,20,1990,35,segunda_division
+19,Recreativo,27,11,5,19,35,51,20,1990,35,segunda_division
+20,RM Castilla,27,9,9,17,29,40,20,1990,35,segunda_division
+1,Real Burgos CF,48,17,14,5,51,21,20,1990,36,segunda_division
+2,Real Betis,44,15,14,7,40,27,20,1990,36,segunda_division
+3,Bilbao Ath.,43,14,15,7,48,34,20,1990,36,segunda_division
+4,Espanyol,42,15,12,9,48,29,20,1990,36,segunda_division
+5,Deportivo,42,18,6,12,42,35,20,1990,36,segunda_division
+6,Palamós,40,13,14,9,29,33,20,1990,36,segunda_division
+7,Las Palmas,38,14,10,12,38,36,20,1990,36,segunda_division
+8,Sabadell,37,12,13,11,38,37,20,1990,36,segunda_division
+9,Real Murcia,36,12,12,12,36,37,20,1990,36,segunda_division
+10,Xerez,36,10,16,10,23,28,20,1990,36,segunda_division
+11,UE Figueres,34,11,12,13,35,45,20,1990,36,segunda_division
+12,UD Salamanca,34,13,8,15,33,32,20,1990,36,segunda_division
+13,Elche,34,11,12,13,36,39,20,1990,36,segunda_division
+14,Levante,33,8,17,11,31,42,20,1990,36,segunda_division
+15,Racing,33,11,11,14,31,32,20,1990,36,segunda_division
+16,Sestao Sport Club,32,11,10,15,31,32,20,1990,36,segunda_division
+17,Eibar,30,9,12,15,30,39,20,1990,36,segunda_division
+18,RM Castilla,29,10,9,17,31,41,20,1990,36,segunda_division
+19,Atlético B,28,8,12,16,32,47,20,1990,36,segunda_division
+20,Recreativo,27,11,5,20,36,53,20,1990,36,segunda_division
+1,Real Burgos CF,48,17,14,6,51,23,20,1990,37,segunda_division
+2,Bilbao Ath.,45,15,15,7,49,34,20,1990,37,segunda_division
+3,Real Betis,45,15,15,7,41,28,20,1990,37,segunda_division
+4,Espanyol,42,15,12,10,48,30,20,1990,37,segunda_division
+5,Deportivo,42,18,6,13,43,38,20,1990,37,segunda_division
+6,Las Palmas,40,15,10,12,42,36,20,1990,37,segunda_division
+7,Palamós,40,13,14,10,29,37,20,1990,37,segunda_division
+8,Sabadell,38,12,14,11,39,38,20,1990,37,segunda_division
+9,Xerez,38,11,16,10,26,29,20,1990,37,segunda_division
+10,Real Murcia,36,12,12,13,36,39,20,1990,37,segunda_division
+11,UD Salamanca,36,14,8,15,35,32,20,1990,37,segunda_division
+12,Elche,36,12,12,13,38,39,20,1990,37,segunda_division
+13,Levante,35,9,17,11,33,42,20,1990,37,segunda_division
+14,Sestao Sport Club,34,12,10,15,32,32,20,1990,37,segunda_division
+15,UE Figueres,34,11,12,14,36,47,20,1990,37,segunda_division
+16,Racing,33,11,11,15,31,33,20,1990,37,segunda_division
+17,Eibar,32,10,12,15,32,40,20,1990,37,segunda_division
+18,RM Castilla,31,11,9,17,35,41,20,1990,37,segunda_division
+19,Atlético B,28,8,12,17,32,51,20,1990,37,segunda_division
+20,Recreativo,27,11,5,21,36,55,20,1990,37,segunda_division
+1,Real Burgos CF,50,18,14,6,53,24,20,1990,38,segunda_division
+2,Real Betis,47,16,15,7,44,29,20,1990,38,segunda_division
+3,Bilbao Ath.,45,15,15,8,50,36,20,1990,38,segunda_division
+4,Deportivo,44,19,6,13,45,38,20,1990,38,segunda_division
+5,Espanyol,42,15,12,11,50,33,20,1990,38,segunda_division
+6,Las Palmas,40,15,10,13,42,37,20,1990,38,segunda_division
+7,Sabadell,40,13,14,11,41,39,20,1990,38,segunda_division
+8,Palamós,40,13,14,11,29,39,20,1990,38,segunda_division
+9,Real Murcia,38,13,12,13,38,39,20,1990,38,segunda_division
+10,Xerez,38,11,16,11,26,31,20,1990,38,segunda_division
+11,Sestao Sport Club,36,13,10,15,33,32,20,1990,38,segunda_division
+12,UE Figueres,36,12,12,14,37,47,20,1990,38,segunda_division
+13,UD Salamanca,36,14,8,16,35,33,20,1990,38,segunda_division
+14,Elche,36,12,12,14,39,41,20,1990,38,segunda_division
+15,Levante,36,9,18,11,34,43,20,1990,38,segunda_division
+16,Eibar,34,11,12,15,35,42,20,1990,38,segunda_division
+17,Racing,33,11,11,16,32,36,20,1990,38,segunda_division
+18,RM Castilla,31,11,9,18,36,44,20,1990,38,segunda_division
+19,Recreativo,29,12,5,21,39,56,20,1990,38,segunda_division
+20,Atlético B,29,8,13,17,33,52,20,1990,38,segunda_division

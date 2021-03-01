@@ -1,0 +1,760 @@
+1,Real Madrid,3,1,0,0,2,0,20,2015,1,primera_division
+2,Barcelona,3,1,0,0,3,0,20,2015,1,primera_division
+3,Villarreal,3,1,0,0,2,0,20,2015,1,primera_division
+4,Málaga,3,1,0,0,1,0,20,2015,1,primera_division
+5,Celta,3,1,0,0,3,1,20,2015,1,primera_division
+6,Eibar,3,1,0,0,1,0,20,2015,1,primera_division
+7,Granada,3,1,0,0,2,1,20,2015,1,primera_division
+8,Valencia,1,0,1,0,1,1,20,2015,1,primera_division
+9,Sevilla,1,0,1,0,1,1,20,2015,1,primera_division
+10,Atlético,1,0,1,0,0,0,20,2015,1,primera_division
+11,Espanyol,1,0,1,0,1,1,20,2015,1,primera_division
+12,Rayo Vallecano,1,0,1,0,0,0,20,2015,1,primera_division
+13,Athletic,0,0,0,1,0,1,20,2015,1,primera_division
+14,Getafe,0,0,0,1,1,3,20,2015,1,primera_division
+15,R. Sociedad,0,0,0,1,0,1,20,2015,1,primera_division
+16,Elche,0,0,0,1,0,3,20,2015,1,primera_division
+17,Deportivo,0,0,0,1,1,2,20,2015,1,primera_division
+18,Levante,0,0,0,1,0,2,20,2015,1,primera_division
+19,Córdoba,0,0,0,1,0,2,20,2015,1,primera_division
+20,Almería,0,0,1,0,1,1,20,2015,1,primera_division
+1,Barcelona,6,2,0,0,4,0,20,2015,2,primera_division
+2,Valencia,4,1,1,0,4,1,20,2015,2,primera_division
+3,Atlético,4,1,1,0,2,1,20,2015,2,primera_division
+4,Sevilla,4,1,1,0,3,2,20,2015,2,primera_division
+5,Celta,4,1,1,0,4,2,20,2015,2,primera_division
+6,Granada,4,1,1,0,3,2,20,2015,2,primera_division
+7,Real Madrid,3,1,0,1,4,4,20,2015,2,primera_division
+8,Villarreal,3,1,0,1,2,1,20,2015,2,primera_division
+9,Athletic,3,1,0,1,3,1,20,2015,2,primera_division
+10,Málaga,3,1,0,1,1,3,20,2015,2,primera_division
+11,R. Sociedad,3,1,0,1,4,3,20,2015,2,primera_division
+12,Eibar,3,1,0,1,2,2,20,2015,2,primera_division
+13,Getafe,3,1,0,1,2,3,20,2015,2,primera_division
+14,Rayo Vallecano,2,0,2,0,2,2,20,2015,2,primera_division
+15,Elche,1,0,1,1,1,4,20,2015,2,primera_division
+16,Deportivo,1,0,1,1,3,4,20,2015,2,primera_division
+17,Espanyol,1,0,1,1,2,3,20,2015,2,primera_division
+18,Córdoba,1,0,1,1,1,3,20,2015,2,primera_division
+19,Almería,0,0,1,1,1,2,20,2015,2,primera_division
+20,Levante,0,0,0,2,0,5,20,2015,2,primera_division
+1,Barcelona,9,3,0,0,6,0,20,2015,3,primera_division
+2,Valencia,7,2,1,0,7,2,20,2015,3,primera_division
+3,Atlético,7,2,1,0,4,2,20,2015,3,primera_division
+4,Sevilla,7,2,1,0,5,2,20,2015,3,primera_division
+5,Celta,5,1,2,0,6,4,20,2015,3,primera_division
+6,Granada,5,1,2,0,3,2,20,2015,3,primera_division
+7,Villarreal,4,1,1,1,2,1,20,2015,3,primera_division
+8,Málaga,4,1,1,1,1,3,20,2015,3,primera_division
+9,Elche,4,1,1,1,4,6,20,2015,3,primera_division
+10,R. Sociedad,4,1,1,1,6,5,20,2015,3,primera_division
+11,Deportivo,4,1,1,1,4,4,20,2015,3,primera_division
+12,Real Madrid,3,1,0,2,5,6,20,2015,3,primera_division
+13,Athletic,3,1,0,2,3,3,20,2015,3,primera_division
+14,Eibar,3,1,0,2,2,3,20,2015,3,primera_division
+15,Getafe,3,1,0,2,2,5,20,2015,3,primera_division
+16,Rayo Vallecano,2,0,2,1,4,5,20,2015,3,primera_division
+17,Córdoba,2,0,2,1,2,4,20,2015,3,primera_division
+18,Espanyol,1,0,1,2,3,6,20,2015,3,primera_division
+19,Levante,1,0,1,2,0,5,20,2015,3,primera_division
+20,Almería,0,0,2,1,2,3,20,2015,3,primera_division
+1,Barcelona,12,4,0,0,11,0,20,2015,4,primera_division
+2,Valencia,10,3,1,0,10,2,20,2015,4,primera_division
+3,Sevilla,10,3,1,0,8,3,20,2015,4,primera_division
+4,Atlético,8,2,2,0,6,4,20,2015,4,primera_division
+5,Granada,8,2,2,0,4,2,20,2015,4,primera_division
+6,Villarreal,7,2,1,1,6,3,20,2015,4,primera_division
+7,Real Madrid,6,2,0,2,13,8,20,2015,4,primera_division
+8,Celta,6,1,3,0,8,6,20,2015,4,primera_division
+9,Eibar,6,2,0,2,4,3,20,2015,4,primera_division
+10,Málaga,5,1,2,1,3,5,20,2015,4,primera_division
+11,Elche,4,1,1,2,4,8,20,2015,4,primera_division
+12,R. Sociedad,4,1,1,2,7,7,20,2015,4,primera_division
+13,Deportivo,4,1,1,2,6,12,20,2015,4,primera_division
+14,Athletic,3,1,0,3,3,4,20,2015,4,primera_division
+15,Getafe,3,1,0,3,2,8,20,2015,4,primera_division
+16,Espanyol,2,0,2,2,5,8,20,2015,4,primera_division
+17,Rayo Vallecano,2,0,2,2,6,9,20,2015,4,primera_division
+18,Almería,2,1,2,1,4,4,20,2015,4,primera_division
+19,Córdoba,2,0,2,2,3,7,20,2015,4,primera_division
+20,Levante,1,0,1,3,0,10,20,2015,4,primera_division
+1,Barcelona,13,4,1,0,11,0,20,2015,5,primera_division
+2,Valencia,13,4,1,0,13,2,20,2015,5,primera_division
+3,Sevilla,13,4,1,0,9,3,20,2015,5,primera_division
+4,Atlético,11,3,2,0,7,4,20,2015,5,primera_division
+5,Real Madrid,9,3,0,2,18,9,20,2015,5,primera_division
+6,Celta,9,2,3,0,10,7,20,2015,5,primera_division
+7,Villarreal,8,2,2,1,7,4,20,2015,5,primera_division
+8,Granada,8,2,2,1,4,3,20,2015,5,primera_division
+9,Eibar,7,2,1,2,5,4,20,2015,5,primera_division
+10,Málaga,6,1,3,1,3,5,20,2015,5,primera_division
+11,Espanyol,5,1,2,2,7,8,20,2015,5,primera_division
+12,Rayo Vallecano,5,1,2,2,8,10,20,2015,5,primera_division
+13,Elche,4,1,1,3,5,13,20,2015,5,primera_division
+14,R. Sociedad,4,1,1,3,7,8,20,2015,5,primera_division
+15,Deportivo,4,1,1,3,7,14,20,2015,5,primera_division
+16,Levante,4,1,1,3,1,10,20,2015,5,primera_division
+17,Athletic,3,1,0,4,4,6,20,2015,5,primera_division
+18,Getafe,3,1,0,4,2,10,20,2015,5,primera_division
+19,Almería,2,1,2,2,4,5,20,2015,5,primera_division
+20,Córdoba,2,0,2,3,3,10,20,2015,5,primera_division
+1,Barcelona,16,5,1,0,17,0,20,2015,6,primera_division
+2,Valencia,14,4,2,0,14,3,20,2015,6,primera_division
+3,Atlético,14,4,2,0,11,4,20,2015,6,primera_division
+4,Sevilla,13,4,1,1,9,7,20,2015,6,primera_division
+5,Real Madrid,12,4,0,2,20,9,20,2015,6,primera_division
+6,Celta,12,3,3,0,11,7,20,2015,6,primera_division
+7,Rayo Vallecano,8,2,2,2,10,10,20,2015,6,primera_division
+8,Villarreal,8,2,2,2,7,6,20,2015,6,primera_division
+9,Eibar,8,2,2,2,5,4,20,2015,6,primera_division
+10,Granada,8,2,2,2,4,9,20,2015,6,primera_division
+11,Espanyol,6,1,3,2,7,8,20,2015,6,primera_division
+12,Getafe,6,2,0,4,3,10,20,2015,6,primera_division
+13,Málaga,6,1,3,2,3,6,20,2015,6,primera_division
+14,Almería,5,2,2,2,5,5,20,2015,6,primera_division
+15,R. Sociedad,5,1,2,3,8,9,20,2015,6,primera_division
+16,Deportivo,4,1,1,4,7,15,20,2015,6,primera_division
+17,Athletic,4,1,1,4,4,6,20,2015,6,primera_division
+18,Elche,4,1,1,4,5,14,20,2015,6,primera_division
+19,Levante,4,1,1,4,1,12,20,2015,6,primera_division
+20,Córdoba,3,0,3,3,3,10,20,2015,6,primera_division
+1,Barcelona,19,6,1,0,19,0,20,2015,7,primera_division
+2,Valencia,17,5,2,0,17,4,20,2015,7,primera_division
+3,Sevilla,16,5,1,1,13,8,20,2015,7,primera_division
+4,Real Madrid,15,5,0,2,25,9,20,2015,7,primera_division
+5,Atlético,14,4,2,1,12,7,20,2015,7,primera_division
+6,Celta,12,3,3,1,12,10,20,2015,7,primera_division
+7,Villarreal,11,3,2,2,10,7,20,2015,7,primera_division
+8,Espanyol,9,2,3,2,9,8,20,2015,7,primera_division
+9,Eibar,9,2,3,2,8,7,20,2015,7,primera_division
+10,Málaga,9,2,3,2,5,7,20,2015,7,primera_division
+11,Rayo Vallecano,8,2,2,3,10,12,20,2015,7,primera_division
+12,Granada,8,2,2,3,5,11,20,2015,7,primera_division
+13,Getafe,7,2,1,4,4,11,20,2015,7,primera_division
+14,Almería,6,2,3,2,7,7,20,2015,7,primera_division
+15,R. Sociedad,5,1,2,4,8,11,20,2015,7,primera_division
+16,Elche,5,1,2,4,7,16,20,2015,7,primera_division
+17,Levante,5,1,2,4,4,15,20,2015,7,primera_division
+18,Deportivo,4,1,1,5,8,19,20,2015,7,primera_division
+19,Córdoba,4,0,4,3,4,11,20,2015,7,primera_division
+20,Athletic,4,1,1,5,4,11,20,2015,7,primera_division
+1,Barcelona,22,7,1,0,22,0,20,2015,8,primera_division
+2,Sevilla,19,6,1,1,15,8,20,2015,8,primera_division
+3,Real Madrid,18,6,0,2,30,9,20,2015,8,primera_division
+4,Valencia,17,5,2,1,17,7,20,2015,8,primera_division
+5,Atlético,17,5,2,1,14,7,20,2015,8,primera_division
+6,Villarreal,14,4,2,2,12,7,20,2015,8,primera_division
+7,Celta,13,3,4,1,13,11,20,2015,8,primera_division
+8,Málaga,12,3,3,2,7,8,20,2015,8,primera_division
+9,Rayo Vallecano,11,3,2,3,11,12,20,2015,8,primera_division
+10,Getafe,10,3,1,4,6,12,20,2015,8,primera_division
+11,Espanyol,9,2,3,3,9,10,20,2015,8,primera_division
+12,Eibar,9,2,3,3,8,10,20,2015,8,primera_division
+13,Granada,8,2,2,4,5,12,20,2015,8,primera_division
+14,Deportivo,7,2,1,5,11,19,20,2015,8,primera_division
+15,Almería,6,2,3,3,7,9,20,2015,8,primera_division
+16,Athletic,5,1,2,5,5,12,20,2015,8,primera_division
+17,Elche,5,1,2,5,7,18,20,2015,8,primera_division
+18,R. Sociedad,5,1,2,5,9,13,20,2015,8,primera_division
+19,Levante,5,1,2,5,4,20,20,2015,8,primera_division
+20,Córdoba,4,0,4,4,5,13,20,2015,8,primera_division
+1,Barcelona,22,7,1,1,23,3,20,2015,9,primera_division
+2,Sevilla,22,7,1,1,17,9,20,2015,9,primera_division
+3,Real Madrid,21,7,0,2,33,10,20,2015,9,primera_division
+4,Valencia,20,6,2,1,20,8,20,2015,9,primera_division
+5,Atlético,20,6,2,1,15,7,20,2015,9,primera_division
+6,Celta,16,4,4,1,16,11,20,2015,9,primera_division
+7,Málaga,15,4,3,2,11,8,20,2015,9,primera_division
+8,Villarreal,14,4,2,3,13,9,20,2015,9,primera_division
+9,Rayo Vallecano,11,3,2,4,11,16,20,2015,9,primera_division
+10,Eibar,10,2,4,3,9,11,20,2015,9,primera_division
+11,Espanyol,10,2,4,3,9,10,20,2015,9,primera_division
+12,Getafe,10,3,1,5,6,13,20,2015,9,primera_division
+13,Granada,9,2,3,4,6,13,20,2015,9,primera_division
+14,Deportivo,8,2,2,5,11,19,20,2015,9,primera_division
+15,Athletic,8,2,2,5,6,12,20,2015,9,primera_division
+16,Almería,6,2,3,4,7,10,20,2015,9,primera_division
+17,R. Sociedad,6,1,3,5,10,14,20,2015,9,primera_division
+18,Elche,5,1,2,6,8,21,20,2015,9,primera_division
+19,Levante,5,1,2,6,4,23,20,2015,9,primera_division
+20,Córdoba,5,0,5,4,6,14,20,2015,9,primera_division
+1,Real Madrid,24,8,0,2,37,10,20,2015,10,primera_division
+2,Valencia,23,7,2,1,23,9,20,2015,10,primera_division
+3,Atlético,23,7,2,1,19,9,20,2015,10,primera_division
+4,Barcelona,22,7,1,2,23,4,20,2015,10,primera_division
+5,Sevilla,22,7,1,2,17,10,20,2015,10,primera_division
+6,Celta,19,5,4,1,17,11,20,2015,10,primera_division
+7,Málaga,18,5,3,2,12,8,20,2015,10,primera_division
+8,Villarreal,14,4,2,4,14,12,20,2015,10,primera_division
+9,Eibar,13,3,4,3,12,13,20,2015,10,primera_division
+10,Getafe,13,4,1,5,8,14,20,2015,10,primera_division
+11,Athletic,11,3,2,5,7,12,20,2015,10,primera_division
+12,Rayo Vallecano,11,3,2,5,13,19,20,2015,10,primera_division
+13,Espanyol,10,2,4,4,10,12,20,2015,10,primera_division
+14,Granada,9,2,3,5,6,17,20,2015,10,primera_division
+15,Elche,8,2,2,6,10,22,20,2015,10,primera_division
+16,Deportivo,8,2,2,6,12,21,20,2015,10,primera_division
+17,Levante,8,2,2,6,6,24,20,2015,10,primera_division
+18,Almería,6,2,3,5,8,12,20,2015,10,primera_division
+19,R. Sociedad,6,1,3,6,10,15,20,2015,10,primera_division
+20,Córdoba,5,0,5,5,8,18,20,2015,10,primera_division
+1,Real Madrid,27,9,0,2,42,11,20,2015,11,primera_division
+2,Barcelona,25,8,1,2,25,5,20,2015,11,primera_division
+3,Valencia,24,7,3,1,23,9,20,2015,11,primera_division
+4,Atlético,23,7,2,2,20,11,20,2015,11,primera_division
+5,Sevilla,23,7,2,2,18,11,20,2015,11,primera_division
+6,Málaga,21,6,3,2,14,9,20,2015,11,primera_division
+7,Celta,20,5,5,1,17,11,20,2015,11,primera_division
+8,Villarreal,15,4,3,4,15,13,20,2015,11,primera_division
+9,Getafe,14,4,2,5,8,14,20,2015,11,primera_division
+10,Eibar,13,3,4,4,13,15,20,2015,11,primera_division
+11,Athletic,12,3,3,5,7,12,20,2015,11,primera_division
+12,Espanyol,11,2,5,4,11,13,20,2015,11,primera_division
+13,Rayo Vallecano,11,3,2,6,14,24,20,2015,11,primera_division
+14,Granada,10,2,4,5,6,17,20,2015,11,primera_division
+15,Elche,9,2,3,6,10,22,20,2015,11,primera_division
+16,R. Sociedad,9,2,3,6,12,16,20,2015,11,primera_division
+17,Deportivo,9,2,3,6,12,21,20,2015,11,primera_division
+18,Levante,9,2,3,6,7,25,20,2015,11,primera_division
+19,Almería,6,2,3,6,9,14,20,2015,11,primera_division
+20,Córdoba,6,0,6,5,8,18,20,2015,11,primera_division
+1,Real Madrid,30,10,0,2,46,11,20,2015,12,primera_division
+2,Barcelona,28,9,1,2,30,6,20,2015,12,primera_division
+3,Atlético,26,8,2,2,23,12,20,2015,12,primera_division
+4,Valencia,24,7,3,2,24,11,20,2015,12,primera_division
+5,Sevilla,23,7,2,3,19,16,20,2015,12,primera_division
+6,Málaga,21,6,3,3,15,12,20,2015,12,primera_division
+7,Celta,20,5,5,2,17,12,20,2015,12,primera_division
+8,Villarreal,18,5,3,4,17,14,20,2015,12,primera_division
+9,Athletic,15,4,3,5,10,13,20,2015,12,primera_division
+10,Rayo Vallecano,14,4,2,6,15,24,20,2015,12,primera_division
+11,Getafe,14,4,2,6,9,16,20,2015,12,primera_division
+12,Eibar,13,3,4,5,13,19,20,2015,12,primera_division
+13,Levante,12,3,3,6,9,26,20,2015,12,primera_division
+14,Espanyol,11,2,5,5,12,16,20,2015,12,primera_division
+15,Granada,11,2,5,5,6,17,20,2015,12,primera_division
+16,Elche,10,2,4,6,12,24,20,2015,12,primera_division
+17,R. Sociedad,10,2,4,6,12,16,20,2015,12,primera_division
+18,Deportivo,10,2,4,6,12,21,20,2015,12,primera_division
+19,Almería,7,2,4,6,9,14,20,2015,12,primera_division
+20,Córdoba,7,0,7,5,10,20,20,2015,12,primera_division
+1,Real Madrid,33,11,0,2,48,12,20,2015,13,primera_division
+2,Barcelona,31,10,1,2,31,6,20,2015,13,primera_division
+3,Atlético,29,9,2,2,25,12,20,2015,13,primera_division
+4,Sevilla,26,8,2,3,24,17,20,2015,13,primera_division
+5,Valencia,24,7,3,3,24,12,20,2015,13,primera_division
+6,Villarreal,21,6,3,4,19,14,20,2015,13,primera_division
+7,Málaga,21,6,3,4,16,14,20,2015,13,primera_division
+8,Celta,20,5,5,3,17,13,20,2015,13,primera_division
+9,Athletic,18,5,3,5,12,14,20,2015,13,primera_division
+10,Rayo Vallecano,17,5,2,6,16,24,20,2015,13,primera_division
+11,Eibar,16,4,4,5,14,19,20,2015,13,primera_division
+12,Espanyol,14,3,5,5,14,17,20,2015,13,primera_division
+13,Getafe,14,4,2,7,10,18,20,2015,13,primera_division
+14,R. Sociedad,13,3,4,6,15,16,20,2015,13,primera_division
+15,Levante,12,3,3,7,10,28,20,2015,13,primera_division
+16,Granada,11,2,5,6,7,22,20,2015,13,primera_division
+17,Elche,10,2,4,7,12,27,20,2015,13,primera_division
+18,Deportivo,10,2,4,7,12,23,20,2015,13,primera_division
+19,Almería,7,2,4,7,9,15,20,2015,13,primera_division
+20,Córdoba,7,0,7,6,10,22,20,2015,13,primera_division
+1,Real Madrid,36,12,0,2,51,12,20,2015,14,primera_division
+2,Barcelona,34,11,1,2,36,7,20,2015,14,primera_division
+3,Atlético,32,10,2,2,27,12,20,2015,14,primera_division
+4,Sevilla,29,9,2,3,25,17,20,2015,14,primera_division
+5,Valencia,25,7,4,3,25,13,20,2015,14,primera_division
+6,Villarreal,24,7,3,4,23,14,20,2015,14,primera_division
+7,Málaga,24,7,3,4,17,14,20,2015,14,primera_division
+8,Celta,20,5,5,4,17,16,20,2015,14,primera_division
+9,Eibar,19,5,4,5,19,21,20,2015,14,primera_division
+10,Athletic,18,5,3,6,12,15,20,2015,14,primera_division
+11,Rayo Vallecano,17,5,2,7,16,25,20,2015,14,primera_division
+12,Getafe,15,4,3,7,11,19,20,2015,14,primera_division
+13,Espanyol,14,3,5,6,15,22,20,2015,14,primera_division
+14,R. Sociedad,13,3,4,7,15,20,20,2015,14,primera_division
+15,Levante,13,3,4,7,11,29,20,2015,14,primera_division
+16,Granada,12,2,6,6,8,23,20,2015,14,primera_division
+17,Elche,10,2,4,8,12,29,20,2015,14,primera_division
+18,Deportivo,10,2,4,8,12,24,20,2015,14,primera_division
+19,Córdoba,10,1,7,6,11,22,20,2015,14,primera_division
+20,Almería,7,2,4,8,11,20,20,2015,14,primera_division
+1,Real Madrid,39,13,0,2,55,13,20,2015,15,primera_division
+2,Barcelona,35,11,2,2,36,7,20,2015,15,primera_division
+3,Atlético,32,10,2,3,27,13,20,2015,15,primera_division
+4,Sevilla,30,9,3,3,25,17,20,2015,15,primera_division
+5,Valencia,28,8,4,3,28,13,20,2015,15,primera_division
+6,Villarreal,27,8,3,4,24,14,20,2015,15,primera_division
+7,Málaga,27,8,3,4,18,14,20,2015,15,primera_division
+8,Celta,20,5,5,5,17,17,20,2015,15,primera_division
+9,Eibar,20,5,5,5,19,21,20,2015,15,primera_division
+10,Athletic,19,5,4,6,13,16,20,2015,15,primera_division
+11,Espanyol,17,4,5,6,17,23,20,2015,15,primera_division
+12,Rayo Vallecano,17,5,2,8,16,28,20,2015,15,primera_division
+13,Getafe,16,4,4,7,11,19,20,2015,15,primera_division
+14,R. Sociedad,14,3,5,7,16,21,20,2015,15,primera_division
+15,Levante,14,3,5,7,11,29,20,2015,15,primera_division
+16,Deportivo,13,3,4,8,13,24,20,2015,15,primera_division
+17,Granada,12,2,6,7,9,25,20,2015,15,primera_division
+18,Córdoba,11,1,8,6,11,22,20,2015,15,primera_division
+19,Elche,10,2,4,9,12,30,20,2015,15,primera_division
+20,Almería,7,2,4,9,12,24,20,2015,15,primera_division
+1,Real Madrid,42,14,0,2,57,14,20,2015,16,primera_division
+2,Barcelona,38,12,2,2,41,7,20,2015,16,primera_division
+3,Atlético,35,11,2,3,31,14,20,2015,16,primera_division
+4,Valencia,31,9,4,3,29,13,20,2015,16,primera_division
+5,Sevilla,30,9,3,4,26,19,20,2015,16,primera_division
+6,Villarreal,30,9,3,4,27,14,20,2015,16,primera_division
+7,Málaga,30,9,3,4,20,15,20,2015,16,primera_division
+8,Espanyol,20,5,5,6,20,24,20,2015,16,primera_division
+9,Celta,20,5,5,6,17,18,20,2015,16,primera_division
+10,Eibar,20,5,5,6,19,22,20,2015,16,primera_division
+11,Athletic,19,5,4,7,14,20,20,2015,16,primera_division
+12,Rayo Vallecano,17,5,2,9,17,31,20,2015,16,primera_division
+13,Getafe,17,4,5,7,12,20,20,2015,16,primera_division
+14,R. Sociedad,15,3,6,7,17,22,20,2015,16,primera_division
+15,Levante,15,3,6,7,12,30,20,2015,16,primera_division
+16,Granada,13,2,7,7,10,26,20,2015,16,primera_division
+17,Deportivo,13,3,4,9,13,27,20,2015,16,primera_division
+18,Córdoba,11,1,8,7,11,27,20,2015,16,primera_division
+19,Elche,10,2,4,10,13,32,20,2015,16,primera_division
+20,Almería,10,3,4,9,13,24,20,2015,16,primera_division
+1,Real Madrid,42,14,0,3,58,16,20,2015,17,primera_division
+2,Barcelona,38,12,2,3,41,8,20,2015,17,primera_division
+3,Atlético,38,12,2,3,34,15,20,2015,17,primera_division
+4,Valencia,34,10,4,3,31,14,20,2015,17,primera_division
+5,Sevilla,33,10,3,4,27,19,20,2015,17,primera_division
+6,Villarreal,31,9,4,4,29,16,20,2015,17,primera_division
+7,Málaga,30,9,3,5,21,17,20,2015,17,primera_division
+8,Eibar,23,6,5,6,21,23,20,2015,17,primera_division
+9,Espanyol,20,5,5,7,21,26,20,2015,17,primera_division
+10,Celta,20,5,5,7,17,19,20,2015,17,primera_division
+11,Rayo Vallecano,20,6,2,9,19,32,20,2015,17,primera_division
+12,Athletic,19,5,4,8,14,21,20,2015,17,primera_division
+13,R. Sociedad,18,4,6,7,18,22,20,2015,17,primera_division
+14,Getafe,17,4,5,8,13,22,20,2015,17,primera_division
+15,Deportivo,16,4,4,9,14,27,20,2015,17,primera_division
+16,Levante,15,3,6,8,13,33,20,2015,17,primera_division
+17,Córdoba,14,2,8,7,13,27,20,2015,17,primera_division
+18,Almería,13,4,4,9,15,25,20,2015,17,primera_division
+19,Granada,13,2,7,8,10,28,20,2015,17,primera_division
+20,Elche,11,2,5,10,15,34,20,2015,17,primera_division
+1,Real Madrid,45,15,0,3,61,16,20,2015,18,primera_division
+2,Barcelona,41,13,2,3,44,9,20,2015,18,primera_division
+3,Atlético,38,12,2,4,35,18,20,2015,18,primera_division
+4,Sevilla,36,11,3,4,29,19,20,2015,18,primera_division
+5,Valencia,35,10,5,3,32,15,20,2015,18,primera_division
+6,Villarreal,32,9,5,4,30,17,20,2015,18,primera_division
+7,Málaga,31,9,4,5,22,18,20,2015,18,primera_division
+8,Eibar,26,7,5,6,23,24,20,2015,18,primera_division
+9,Celta,21,5,6,7,18,20,20,2015,18,primera_division
+10,Espanyol,20,5,5,8,21,29,20,2015,18,primera_division
+11,Rayo Vallecano,20,6,2,10,19,33,20,2015,18,primera_division
+12,R. Sociedad,19,4,7,7,19,23,20,2015,18,primera_division
+13,Athletic,19,5,4,9,15,23,20,2015,18,primera_division
+14,Getafe,17,4,5,9,14,24,20,2015,18,primera_division
+15,Córdoba,17,3,8,7,14,27,20,2015,18,primera_division
+16,Deportivo,17,4,5,9,14,27,20,2015,18,primera_division
+17,Levante,16,3,7,8,13,33,20,2015,18,primera_division
+18,Granada,14,2,8,8,11,29,20,2015,18,primera_division
+19,Elche,14,3,5,10,17,35,20,2015,18,primera_division
+20,Almería,13,4,4,10,15,27,20,2015,18,primera_division
+1,Real Madrid,48,16,0,3,64,16,20,2015,19,primera_division
+2,Barcelona,44,14,2,3,48,9,20,2015,19,primera_division
+3,Atlético,41,13,2,4,37,18,20,2015,19,primera_division
+4,Sevilla,39,12,3,4,31,19,20,2015,19,primera_division
+5,Valencia,38,11,5,3,35,17,20,2015,19,primera_division
+6,Villarreal,35,10,5,4,32,17,20,2015,19,primera_division
+7,Málaga,31,9,4,6,22,20,20,2015,19,primera_division
+8,Eibar,27,7,6,6,24,25,20,2015,19,primera_division
+9,Espanyol,23,6,5,8,22,29,20,2015,19,primera_division
+10,Rayo Vallecano,23,7,2,10,20,33,20,2015,19,primera_division
+11,Celta,21,5,6,8,18,21,20,2015,19,primera_division
+12,R. Sociedad,19,4,7,8,19,24,20,2015,19,primera_division
+13,Athletic,19,5,4,10,15,25,20,2015,19,primera_division
+14,Córdoba,18,3,9,7,15,28,20,2015,19,primera_division
+15,Getafe,17,4,5,10,14,27,20,2015,19,primera_division
+16,Elche,17,4,5,10,18,35,20,2015,19,primera_division
+17,Deportivo,17,4,5,10,14,31,20,2015,19,primera_division
+18,Levante,16,3,7,9,13,34,20,2015,19,primera_division
+19,Granada,14,2,8,9,11,31,20,2015,19,primera_division
+20,Almería,13,4,4,11,17,30,20,2015,19,primera_division
+1,Real Madrid,51,17,0,3,66,17,20,2015,20,primera_division
+2,Barcelona,47,15,2,3,54,9,20,2015,20,primera_division
+3,Atlético,44,14,2,4,40,19,20,2015,20,primera_division
+4,Valencia,41,12,5,3,38,18,20,2015,20,primera_division
+5,Sevilla,39,12,3,5,32,22,20,2015,20,primera_division
+6,Villarreal,38,11,5,4,33,17,20,2015,20,primera_division
+7,Málaga,32,9,5,6,23,21,20,2015,20,primera_division
+8,Eibar,27,7,6,7,24,26,20,2015,20,primera_division
+9,Espanyol,26,7,5,8,25,29,20,2015,20,primera_division
+10,Rayo Vallecano,23,7,2,11,21,36,20,2015,20,primera_division
+11,R. Sociedad,22,5,7,8,20,24,20,2015,20,primera_division
+12,Celta,21,5,6,9,19,23,20,2015,20,primera_division
+13,Athletic,20,5,5,10,16,26,20,2015,20,primera_division
+14,Getafe,20,5,5,10,16,28,20,2015,20,primera_division
+15,Córdoba,18,3,9,8,16,30,20,2015,20,primera_division
+16,Deportivo,18,4,6,10,16,33,20,2015,20,primera_division
+17,Elche,17,4,5,11,18,41,20,2015,20,primera_division
+18,Levante,16,3,7,10,13,35,20,2015,20,primera_division
+19,Granada,15,2,9,9,13,33,20,2015,20,primera_division
+20,Almería,13,4,4,12,17,33,20,2015,20,primera_division
+1,Real Madrid,54,18,0,3,70,18,20,2015,21,primera_division
+2,Barcelona,50,16,2,3,57,11,20,2015,21,primera_division
+3,Atlético,47,15,2,4,43,20,20,2015,21,primera_division
+4,Sevilla,42,13,3,5,35,24,20,2015,21,primera_division
+5,Valencia,41,12,5,4,38,19,20,2015,21,primera_division
+6,Villarreal,38,11,5,5,35,20,20,2015,21,primera_division
+7,Málaga,35,10,5,6,24,21,20,2015,21,primera_division
+8,Eibar,27,7,6,8,25,29,20,2015,21,primera_division
+9,Espanyol,26,7,5,9,27,32,20,2015,21,primera_division
+10,Celta,24,6,6,9,20,23,20,2015,21,primera_division
+11,Athletic,23,6,5,10,18,26,20,2015,21,primera_division
+12,Rayo Vallecano,23,7,2,12,22,38,20,2015,21,primera_division
+13,R. Sociedad,22,5,7,9,21,28,20,2015,21,primera_division
+14,Deportivo,21,5,6,10,18,34,20,2015,21,primera_division
+15,Getafe,20,5,5,11,16,29,20,2015,21,primera_division
+16,Córdoba,18,3,9,9,16,31,20,2015,21,primera_division
+17,Granada,18,3,9,9,14,33,20,2015,21,primera_division
+18,Elche,17,4,5,12,18,42,20,2015,21,primera_division
+19,Levante,16,3,7,11,13,37,20,2015,21,primera_division
+20,Almería,16,5,4,12,18,33,20,2015,21,primera_division
+1,Real Madrid,54,18,0,4,70,22,20,2015,22,primera_division
+2,Barcelona,53,17,2,3,62,13,20,2015,22,primera_division
+3,Atlético,50,16,2,4,47,20,20,2015,22,primera_division
+4,Valencia,44,13,5,4,40,20,20,2015,22,primera_division
+5,Sevilla,42,13,3,6,36,26,20,2015,22,primera_division
+6,Villarreal,41,12,5,5,37,20,20,2015,22,primera_division
+7,Málaga,35,10,5,7,25,25,20,2015,22,primera_division
+8,Eibar,27,7,6,9,25,31,20,2015,22,primera_division
+9,Espanyol,26,7,5,10,28,34,20,2015,22,primera_division
+10,Celta,25,6,7,9,21,24,20,2015,22,primera_division
+11,Deportivo,24,6,6,10,20,34,20,2015,22,primera_division
+12,Rayo Vallecano,23,7,2,13,22,40,20,2015,22,primera_division
+13,Athletic,23,6,5,11,20,31,20,2015,22,primera_division
+14,R. Sociedad,23,5,8,9,22,29,20,2015,22,primera_division
+15,Getafe,23,6,5,11,18,30,20,2015,22,primera_division
+16,Elche,20,5,5,12,20,42,20,2015,22,primera_division
+17,Levante,19,4,7,11,17,38,20,2015,22,primera_division
+18,Almería,19,6,4,12,20,34,20,2015,22,primera_division
+19,Córdoba,18,3,9,10,17,33,20,2015,22,primera_division
+20,Granada,18,3,9,10,14,35,20,2015,22,primera_division
+1,Real Madrid,57,19,0,4,72,22,20,2015,23,primera_division
+2,Barcelona,56,18,2,3,67,13,20,2015,23,primera_division
+3,Atlético,50,16,2,5,47,22,20,2015,23,primera_division
+4,Valencia,47,14,5,4,41,20,20,2015,23,primera_division
+5,Sevilla,45,14,3,6,39,26,20,2015,23,primera_division
+6,Villarreal,41,12,5,6,37,22,20,2015,23,primera_division
+7,Málaga,35,10,5,8,25,27,20,2015,23,primera_division
+8,Espanyol,29,8,5,10,30,34,20,2015,23,primera_division
+9,Celta,28,7,7,9,23,24,20,2015,23,primera_division
+10,Eibar,27,7,6,10,25,32,20,2015,23,primera_division
+11,Rayo Vallecano,26,8,2,13,24,40,20,2015,23,primera_division
+12,Deportivo,24,6,6,11,20,36,20,2015,23,primera_division
+13,R. Sociedad,24,5,9,9,24,31,20,2015,23,primera_division
+14,Athletic,24,6,6,11,20,31,20,2015,23,primera_division
+15,Getafe,23,6,5,12,18,31,20,2015,23,primera_division
+16,Elche,23,6,5,12,21,42,20,2015,23,primera_division
+17,Almería,20,6,5,12,22,36,20,2015,23,primera_division
+18,Levante,19,4,7,12,17,43,20,2015,23,primera_division
+19,Granada,19,3,10,10,14,35,20,2015,23,primera_division
+20,Córdoba,18,3,9,11,17,36,20,2015,23,primera_division
+1,Real Madrid,60,20,0,4,74,22,20,2015,24,primera_division
+2,Barcelona,56,18,2,4,67,14,20,2015,24,primera_division
+3,Atlético,53,17,2,5,50,22,20,2015,24,primera_division
+4,Valencia,50,15,5,4,43,21,20,2015,24,primera_division
+5,Sevilla,45,14,3,7,42,30,20,2015,24,primera_division
+6,Villarreal,44,13,5,6,38,22,20,2015,24,primera_division
+7,Málaga,38,11,5,8,26,27,20,2015,24,primera_division
+8,Celta,31,8,7,9,25,24,20,2015,24,primera_division
+9,Espanyol,29,8,5,11,31,36,20,2015,24,primera_division
+10,Athletic,27,7,6,11,21,31,20,2015,24,primera_division
+11,R. Sociedad,27,6,9,9,28,34,20,2015,24,primera_division
+12,Eibar,27,7,6,11,25,33,20,2015,24,primera_division
+13,Rayo Vallecano,26,8,2,14,24,41,20,2015,24,primera_division
+14,Getafe,26,7,5,12,20,32,20,2015,24,primera_division
+15,Deportivo,24,6,6,12,20,38,20,2015,24,primera_division
+16,Elche,23,6,5,13,21,44,20,2015,24,primera_division
+17,Levante,22,5,7,12,19,44,20,2015,24,primera_division
+18,Almería,20,6,5,13,22,39,20,2015,24,primera_division
+19,Granada,19,3,10,11,15,37,20,2015,24,primera_division
+20,Córdoba,18,3,9,12,18,38,20,2015,24,primera_division
+1,Real Madrid,61,20,1,4,75,23,20,2015,25,primera_division
+2,Barcelona,59,19,2,4,70,15,20,2015,25,primera_division
+3,Atlético,54,17,3,5,50,22,20,2015,25,primera_division
+4,Valencia,53,16,5,4,45,21,20,2015,25,primera_division
+5,Sevilla,46,14,4,7,42,30,20,2015,25,primera_division
+6,Villarreal,45,13,6,6,39,23,20,2015,25,primera_division
+7,Málaga,41,12,5,8,29,29,20,2015,25,primera_division
+8,Celta,32,8,8,9,26,25,20,2015,25,primera_division
+9,Espanyol,32,9,5,11,32,36,20,2015,25,primera_division
+10,Athletic,30,8,6,11,22,31,20,2015,25,primera_division
+11,Rayo Vallecano,29,9,2,14,28,43,20,2015,25,primera_division
+12,R. Sociedad,27,6,9,10,28,36,20,2015,25,primera_division
+13,Eibar,27,7,6,12,25,34,20,2015,25,primera_division
+14,Getafe,26,7,5,13,22,35,20,2015,25,primera_division
+15,Deportivo,25,6,7,12,20,38,20,2015,25,primera_division
+16,Elche,24,6,6,13,22,45,20,2015,25,primera_division
+17,Levante,22,5,7,13,21,48,20,2015,25,primera_division
+18,Almería,21,6,6,13,22,39,20,2015,25,primera_division
+19,Granada,19,3,10,12,16,40,20,2015,25,primera_division
+20,Córdoba,18,3,9,13,18,39,20,2015,25,primera_division
+1,Barcelona,62,20,2,4,76,16,20,2015,26,primera_division
+2,Real Madrid,61,20,1,5,75,24,20,2015,26,primera_division
+3,Atlético,55,17,4,5,51,23,20,2015,26,primera_division
+4,Valencia,54,16,6,4,46,22,20,2015,26,primera_division
+5,Sevilla,49,15,4,7,46,33,20,2015,26,primera_division
+6,Villarreal,48,14,6,6,43,24,20,2015,26,primera_division
+7,Málaga,41,12,5,9,29,30,20,2015,26,primera_division
+8,Athletic,33,9,6,11,23,31,20,2015,26,primera_division
+9,Celta,32,8,8,10,27,29,20,2015,26,primera_division
+10,Espanyol,32,9,5,12,32,37,20,2015,26,primera_division
+11,R. Sociedad,30,7,9,10,29,36,20,2015,26,primera_division
+12,Rayo Vallecano,29,9,2,15,29,49,20,2015,26,primera_division
+13,Getafe,29,8,5,13,24,36,20,2015,26,primera_division
+14,Eibar,27,7,6,13,26,36,20,2015,26,primera_division
+15,Elche,27,7,6,13,23,45,20,2015,26,primera_division
+16,Deportivo,25,6,7,13,23,42,20,2015,26,primera_division
+17,Levante,25,6,7,13,23,49,20,2015,26,primera_division
+18,Granada,22,4,10,12,17,40,20,2015,26,primera_division
+19,Almería,21,6,6,14,22,40,20,2015,26,primera_division
+20,Córdoba,18,3,9,14,19,41,20,2015,26,primera_division
+1,Barcelona,65,21,2,4,78,16,20,2015,27,primera_division
+2,Real Madrid,64,21,1,5,77,24,20,2015,27,primera_division
+3,Valencia,57,17,6,4,48,22,20,2015,27,primera_division
+4,Atlético,56,17,5,5,51,23,20,2015,27,primera_division
+5,Sevilla,52,16,4,7,49,33,20,2015,27,primera_division
+6,Villarreal,49,14,7,6,43,24,20,2015,27,primera_division
+7,Málaga,44,13,5,9,31,30,20,2015,27,primera_division
+8,Athletic,36,10,6,11,25,32,20,2015,27,primera_division
+9,Espanyol,33,9,6,12,32,37,20,2015,27,primera_division
+10,R. Sociedad,33,8,9,10,30,36,20,2015,27,primera_division
+11,Celta,32,8,8,11,28,31,20,2015,27,primera_division
+12,Rayo Vallecano,32,10,2,15,32,50,20,2015,27,primera_division
+13,Getafe,29,8,5,14,24,37,20,2015,27,primera_division
+14,Eibar,27,7,6,14,26,38,20,2015,27,primera_division
+15,Elche,27,7,6,14,23,48,20,2015,27,primera_division
+16,Deportivo,25,6,7,14,23,44,20,2015,27,primera_division
+17,Levante,25,6,7,14,23,51,20,2015,27,primera_division
+18,Almería,22,6,7,14,22,40,20,2015,27,primera_division
+19,Granada,22,4,10,13,18,43,20,2015,27,primera_division
+20,Córdoba,18,3,9,15,19,43,20,2015,27,primera_division
+1,Barcelona,68,22,2,4,80,17,20,2015,28,primera_division
+2,Real Madrid,64,21,1,6,78,26,20,2015,28,primera_division
+3,Valencia,60,18,6,4,52,22,20,2015,28,primera_division
+4,Atlético,59,18,5,5,53,23,20,2015,28,primera_division
+5,Sevilla,55,17,4,7,51,33,20,2015,28,primera_division
+6,Villarreal,49,14,7,7,43,26,20,2015,28,primera_division
+7,Málaga,44,13,5,10,31,31,20,2015,28,primera_division
+8,Athletic,39,11,6,11,27,33,20,2015,28,primera_division
+9,R. Sociedad,36,9,9,10,33,37,20,2015,28,primera_division
+10,Celta,35,9,8,11,29,31,20,2015,28,primera_division
+11,Rayo Vallecano,35,11,2,15,33,50,20,2015,28,primera_division
+12,Espanyol,34,9,7,12,32,37,20,2015,28,primera_division
+13,Getafe,29,8,5,15,24,39,20,2015,28,primera_division
+14,Eibar,28,7,7,14,26,38,20,2015,28,primera_division
+15,Elche,27,7,6,15,23,52,20,2015,28,primera_division
+16,Deportivo,26,6,8,14,23,44,20,2015,28,primera_division
+17,Levante,25,6,7,15,23,52,20,2015,28,primera_division
+18,Granada,23,4,11,13,18,43,20,2015,28,primera_division
+19,Almería,22,6,7,15,23,42,20,2015,28,primera_division
+20,Córdoba,18,3,9,16,20,46,20,2015,28,primera_division
+1,Barcelona,71,23,2,4,81,17,20,2015,29,primera_division
+2,Real Madrid,67,22,1,6,87,27,20,2015,29,primera_division
+3,Atlético,62,19,5,5,55,23,20,2015,29,primera_division
+4,Valencia,61,18,7,4,52,22,20,2015,29,primera_division
+5,Sevilla,58,18,4,7,53,33,20,2015,29,primera_division
+6,Villarreal,50,14,8,7,43,26,20,2015,29,primera_division
+7,Málaga,45,13,6,10,32,32,20,2015,29,primera_division
+8,Athletic,39,11,6,12,27,35,20,2015,29,primera_division
+9,Rayo Vallecano,38,12,2,15,35,51,20,2015,29,primera_division
+10,R. Sociedad,37,9,10,10,34,38,20,2015,29,primera_division
+11,Celta,35,9,8,12,29,32,20,2015,29,primera_division
+12,Espanyol,35,9,8,12,33,38,20,2015,29,primera_division
+13,Getafe,32,9,5,15,26,40,20,2015,29,primera_division
+14,Elche,28,7,7,15,24,53,20,2015,29,primera_division
+15,Levante,28,7,7,15,27,53,20,2015,29,primera_division
+16,Eibar,28,7,7,15,27,40,20,2015,29,primera_division
+17,Deportivo,26,6,8,15,24,46,20,2015,29,primera_division
+18,Granada,23,4,11,14,19,52,20,2015,29,primera_division
+19,Almería,22,6,7,16,24,46,20,2015,29,primera_division
+20,Córdoba,18,3,9,17,20,48,20,2015,29,primera_division
+1,Barcelona,74,24,2,4,85,17,20,2015,30,primera_division
+2,Real Madrid,70,23,1,6,89,27,20,2015,30,primera_division
+3,Atlético,65,20,5,5,57,23,20,2015,30,primera_division
+4,Valencia,62,18,8,4,53,23,20,2015,30,primera_division
+5,Sevilla,61,19,4,7,55,34,20,2015,30,primera_division
+6,Villarreal,50,14,8,8,43,29,20,2015,30,primera_division
+7,Málaga,45,13,6,11,32,33,20,2015,30,primera_division
+8,Athletic,40,11,7,12,28,36,20,2015,30,primera_division
+9,Espanyol,38,10,8,12,36,38,20,2015,30,primera_division
+10,Rayo Vallecano,38,12,2,16,35,53,20,2015,30,primera_division
+11,R. Sociedad,37,9,10,11,34,40,20,2015,30,primera_division
+12,Celta,36,9,9,12,30,33,20,2015,30,primera_division
+13,Getafe,35,10,5,15,27,40,20,2015,30,primera_division
+14,Eibar,31,8,7,15,28,40,20,2015,30,primera_division
+15,Elche,28,7,7,16,24,54,20,2015,30,primera_division
+16,Levante,28,7,7,16,28,55,20,2015,30,primera_division
+17,Deportivo,27,6,9,15,25,47,20,2015,30,primera_division
+18,Granada,24,4,12,14,20,53,20,2015,30,primera_division
+19,Almería,22,6,7,17,24,50,20,2015,30,primera_division
+20,Córdoba,19,3,10,17,21,49,20,2015,30,primera_division
+1,Barcelona,75,24,3,4,87,19,20,2015,31,primera_division
+2,Real Madrid,73,24,1,6,92,27,20,2015,31,primera_division
+3,Atlético,66,20,6,5,59,25,20,2015,31,primera_division
+4,Valencia,65,19,8,4,56,23,20,2015,31,primera_division
+5,Sevilla,62,19,5,7,57,36,20,2015,31,primera_division
+6,Villarreal,51,14,9,8,44,30,20,2015,31,primera_division
+7,Málaga,46,13,7,11,34,35,20,2015,31,primera_division
+8,Espanyol,41,11,8,12,37,38,20,2015,31,primera_division
+9,Athletic,40,11,7,13,28,37,20,2015,31,primera_division
+10,Celta,39,10,9,12,36,34,20,2015,31,primera_division
+11,R. Sociedad,38,9,11,11,36,42,20,2015,31,primera_division
+12,Rayo Vallecano,38,12,2,17,36,59,20,2015,31,primera_division
+13,Getafe,36,10,6,15,28,41,20,2015,31,primera_division
+14,Eibar,31,8,7,16,28,43,20,2015,31,primera_division
+15,Elche,31,8,7,16,26,54,20,2015,31,primera_division
+16,Deportivo,28,6,10,15,27,49,20,2015,31,primera_division
+17,Levante,28,7,7,17,28,58,20,2015,31,primera_division
+18,Almería,25,7,7,17,27,50,20,2015,31,primera_division
+19,Granada,24,4,12,15,20,56,20,2015,31,primera_division
+20,Córdoba,19,3,10,18,21,51,20,2015,31,primera_division
+1,Barcelona,78,25,3,4,89,19,20,2015,32,primera_division
+2,Real Madrid,76,25,1,6,95,28,20,2015,32,primera_division
+3,Atlético,69,21,6,5,61,26,20,2015,32,primera_division
+4,Valencia,65,19,8,5,56,25,20,2015,32,primera_division
+5,Sevilla,63,19,6,7,58,37,20,2015,32,primera_division
+6,Villarreal,52,14,10,8,44,30,20,2015,32,primera_division
+7,Málaga,46,13,7,12,35,38,20,2015,32,primera_division
+8,Athletic,43,12,7,13,32,37,20,2015,32,primera_division
+9,Celta,42,11,9,12,37,34,20,2015,32,primera_division
+10,Espanyol,42,11,9,12,39,40,20,2015,32,primera_division
+11,Rayo Vallecano,41,13,2,17,38,59,20,2015,32,primera_division
+12,R. Sociedad,38,9,11,12,36,43,20,2015,32,primera_division
+13,Getafe,36,10,6,16,28,45,20,2015,32,primera_division
+14,Elche,34,9,7,16,27,54,20,2015,32,primera_division
+15,Eibar,31,8,7,17,28,44,20,2015,32,primera_division
+16,Levante,29,7,8,17,30,60,20,2015,32,primera_division
+17,Deportivo,28,6,10,16,28,51,20,2015,32,primera_division
+18,Almería,25,7,7,18,27,52,20,2015,32,primera_division
+19,Granada,25,4,13,15,21,57,20,2015,32,primera_division
+20,Córdoba,20,3,11,18,21,51,20,2015,32,primera_division
+1,Barcelona,81,26,3,4,91,19,20,2015,33,primera_division
+2,Real Madrid,79,26,1,6,99,30,20,2015,33,primera_division
+3,Atlético,72,22,6,5,64,26,20,2015,33,primera_division
+4,Valencia,68,20,8,5,60,25,20,2015,33,primera_division
+5,Sevilla,66,20,6,7,60,37,20,2015,33,primera_division
+6,Villarreal,53,14,11,8,44,30,20,2015,33,primera_division
+7,Málaga,47,13,8,12,36,39,20,2015,33,primera_division
+8,Athletic,46,13,7,13,33,37,20,2015,33,primera_division
+9,Celta,42,11,9,13,39,38,20,2015,33,primera_division
+10,Espanyol,42,11,9,13,39,42,20,2015,33,primera_division
+11,Rayo Vallecano,41,13,2,18,38,61,20,2015,33,primera_division
+12,R. Sociedad,39,9,12,12,36,43,20,2015,33,primera_division
+13,Getafe,36,10,6,17,28,46,20,2015,33,primera_division
+14,Elche,34,9,7,17,27,57,20,2015,33,primera_division
+15,Levante,32,8,8,17,31,60,20,2015,33,primera_division
+16,Eibar,31,8,7,18,28,46,20,2015,33,primera_division
+17,Deportivo,29,6,11,16,29,52,20,2015,33,primera_division
+18,Almería,28,8,7,18,29,52,20,2015,33,primera_division
+19,Granada,25,4,13,16,21,61,20,2015,33,primera_division
+20,Córdoba,20,3,11,19,21,52,20,2015,33,primera_division
+1,Barcelona,84,27,3,4,97,19,20,2015,34,primera_division
+2,Real Madrid,82,27,1,6,102,30,20,2015,34,primera_division
+3,Atlético,75,23,6,5,65,26,20,2015,34,primera_division
+4,Valencia,69,20,9,5,61,26,20,2015,34,primera_division
+5,Sevilla,69,21,6,7,63,38,20,2015,34,primera_division
+6,Villarreal,53,14,11,9,44,31,20,2015,34,primera_division
+7,Málaga,47,13,8,13,36,40,20,2015,34,primera_division
+8,Athletic,47,13,8,13,34,38,20,2015,34,primera_division
+9,Celta,45,12,9,13,40,38,20,2015,34,primera_division
+10,Espanyol,45,12,9,13,41,43,20,2015,34,primera_division
+11,Rayo Vallecano,42,13,3,18,39,62,20,2015,34,primera_division
+12,R. Sociedad,40,9,13,12,37,44,20,2015,34,primera_division
+13,Elche,37,10,7,17,31,57,20,2015,34,primera_division
+14,Getafe,36,10,6,18,28,52,20,2015,34,primera_division
+15,Levante,35,9,8,17,32,60,20,2015,34,primera_division
+16,Eibar,31,8,7,19,29,49,20,2015,34,primera_division
+17,Deportivo,29,6,11,17,29,56,20,2015,34,primera_division
+18,Almería,28,8,7,19,29,55,20,2015,34,primera_division
+19,Granada,25,4,13,17,22,63,20,2015,34,primera_division
+20,Córdoba,20,3,11,20,21,53,20,2015,34,primera_division
+1,Barcelona,87,28,3,4,105,19,20,2015,35,primera_division
+2,Real Madrid,85,28,1,6,105,32,20,2015,35,primera_division
+3,Atlético,76,23,7,5,65,26,20,2015,35,primera_division
+4,Valencia,72,21,9,5,64,27,20,2015,35,primera_division
+5,Sevilla,69,21,6,8,65,41,20,2015,35,primera_division
+6,Villarreal,54,14,12,9,45,32,20,2015,35,primera_division
+7,Athletic,48,13,9,13,34,38,20,2015,35,primera_division
+8,Málaga,47,13,8,14,37,42,20,2015,35,primera_division
+9,Celta,46,12,10,13,42,40,20,2015,35,primera_division
+10,Espanyol,46,12,10,13,42,44,20,2015,35,primera_division
+11,R. Sociedad,43,10,13,12,40,44,20,2015,35,primera_division
+12,Rayo Vallecano,43,13,4,18,40,63,20,2015,35,primera_division
+13,Elche,40,11,7,17,33,58,20,2015,35,primera_division
+14,Getafe,36,10,6,19,29,54,20,2015,35,primera_division
+15,Levante,35,9,8,18,32,63,20,2015,35,primera_division
+16,Eibar,31,8,7,20,30,52,20,2015,35,primera_division
+17,Deportivo,30,6,12,17,30,57,20,2015,35,primera_division
+18,Almería,29,8,8,19,31,57,20,2015,35,primera_division
+19,Granada,28,5,13,17,24,64,20,2015,35,primera_division
+20,Córdoba,20,3,11,21,21,61,20,2015,35,primera_division
+1,Barcelona,90,29,3,4,107,19,20,2015,36,primera_division
+2,Real Madrid,86,28,2,6,107,34,20,2015,36,primera_division
+3,Atlético,77,23,8,5,67,28,20,2015,36,primera_division
+4,Valencia,73,21,10,5,66,29,20,2015,36,primera_division
+5,Sevilla,70,21,7,8,66,42,20,2015,36,primera_division
+6,Villarreal,57,15,12,9,46,32,20,2015,36,primera_division
+7,Málaga,50,14,8,14,39,43,20,2015,36,primera_division
+8,Athletic,49,13,10,13,35,39,20,2015,36,primera_division
+9,Espanyol,49,13,10,13,44,44,20,2015,36,primera_division
+10,Celta,47,12,11,13,43,41,20,2015,36,primera_division
+11,Rayo Vallecano,46,14,4,18,42,63,20,2015,36,primera_division
+12,R. Sociedad,43,10,13,13,40,46,20,2015,36,primera_division
+13,Elche,40,11,7,18,33,59,20,2015,36,primera_division
+14,Levante,36,9,9,18,34,65,20,2015,36,primera_division
+15,Getafe,36,10,6,20,29,56,20,2015,36,primera_division
+16,Deportivo,31,6,13,17,31,58,20,2015,36,primera_division
+17,Granada,31,6,13,17,26,64,20,2015,36,primera_division
+18,Eibar,31,8,7,21,30,54,20,2015,36,primera_division
+19,Almería,29,8,8,20,32,59,20,2015,36,primera_division
+20,Córdoba,20,3,11,22,21,63,20,2015,36,primera_division
+1,Barcelona,93,30,3,4,108,19,20,2015,37,primera_division
+2,Real Madrid,89,29,2,6,111,35,20,2015,37,primera_division
+3,Atlético,77,23,8,6,67,29,20,2015,37,primera_division
+4,Valencia,74,21,11,5,67,30,20,2015,37,primera_division
+5,Sevilla,73,22,7,8,68,43,20,2015,37,primera_division
+6,Villarreal,60,16,12,9,48,33,20,2015,37,primera_division
+7,Athletic,52,14,10,13,38,41,20,2015,37,primera_division
+8,Málaga,50,14,8,15,40,45,20,2015,37,primera_division
+9,Espanyol,49,13,10,14,45,48,20,2015,37,primera_division
+10,Rayo Vallecano,49,15,4,18,44,64,20,2015,37,primera_division
+11,Celta,48,12,12,13,44,42,20,2015,37,primera_division
+12,R. Sociedad,43,10,13,14,40,49,20,2015,37,primera_division
+13,Elche,40,11,7,19,35,62,20,2015,37,primera_division
+14,Getafe,37,10,7,20,30,57,20,2015,37,primera_division
+15,Levante,36,9,9,19,34,67,20,2015,37,primera_division
+16,Granada,34,7,13,17,29,64,20,2015,37,primera_division
+17,Deportivo,34,7,13,17,33,58,20,2015,37,primera_division
+18,Eibar,32,8,8,21,31,55,20,2015,37,primera_division
+19,Almería,29,8,8,21,33,61,20,2015,37,primera_division
+20,Córdoba,20,3,11,23,22,65,20,2015,37,primera_division
+1,Barcelona,94,30,4,4,110,21,20,2015,38,primera_division
+2,Real Madrid,92,30,2,6,118,38,20,2015,38,primera_division
+3,Atlético,78,23,9,6,67,29,20,2015,38,primera_division
+4,Valencia,77,22,11,5,70,32,20,2015,38,primera_division
+5,Sevilla,76,23,7,8,71,45,20,2015,38,primera_division
+6,Villarreal,60,16,12,10,48,37,20,2015,38,primera_division
+7,Athletic,55,15,10,13,42,41,20,2015,38,primera_division
+8,Celta,51,13,12,13,47,44,20,2015,38,primera_division
+9,Málaga,50,14,8,16,42,48,20,2015,38,primera_division
+10,Espanyol,49,13,10,15,47,51,20,2015,38,primera_division
+11,Rayo Vallecano,49,15,4,19,46,68,20,2015,38,primera_division
+12,R. Sociedad,46,11,13,14,44,51,20,2015,38,primera_division
+13,Elche,41,11,8,19,35,62,20,2015,38,primera_division
+14,Levante,37,9,10,19,34,67,20,2015,38,primera_division
+15,Getafe,37,10,7,21,33,64,20,2015,38,primera_division
+16,Deportivo,35,7,14,17,35,60,20,2015,38,primera_division
+17,Granada,35,7,14,17,29,64,20,2015,38,primera_division
+18,Eibar,35,9,8,21,34,55,20,2015,38,primera_division
+19,Almería,29,8,8,22,35,64,20,2015,38,primera_division
+20,Córdoba,20,3,11,24,22,68,20,2015,38,primera_division

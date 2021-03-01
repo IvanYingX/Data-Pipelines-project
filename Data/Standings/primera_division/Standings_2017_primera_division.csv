@@ -1,0 +1,760 @@
+1,Barcelona,3,1,0,0,6,2,20,2017,1,primera_division
+2,Real Madrid,3,1,0,0,3,0,20,2017,1,primera_division
+3,Sevilla,3,1,0,0,6,4,20,2017,1,primera_division
+4,Las Palmas,3,1,0,0,4,2,20,2017,1,primera_division
+5,Deportivo,3,1,0,0,2,1,20,2017,1,primera_division
+6,Real Sporting,3,1,0,0,2,1,20,2017,1,primera_division
+7,Leganés,3,1,0,0,1,0,20,2017,1,primera_division
+8,Villarreal,1,0,1,0,1,1,20,2017,1,primera_division
+9,Atlético,1,0,1,0,1,1,20,2017,1,primera_division
+10,Alavés,1,0,1,0,1,1,20,2017,1,primera_division
+11,Osasuna,1,0,1,0,1,1,20,2017,1,primera_division
+12,Málaga,1,0,1,0,1,1,20,2017,1,primera_division
+13,Granada,1,0,1,0,1,1,20,2017,1,primera_division
+14,Eibar,0,0,0,1,1,2,20,2017,1,primera_division
+15,Athletic,0,0,0,1,1,2,20,2017,1,primera_division
+16,Celta,0,0,0,1,0,1,20,2017,1,primera_division
+17,Espanyol,0,0,0,1,4,6,20,2017,1,primera_division
+18,Valencia,0,0,0,1,2,4,20,2017,1,primera_division
+19,R. Sociedad,0,0,0,1,0,3,20,2017,1,primera_division
+20,Real Betis,0,0,0,1,2,6,20,2017,1,primera_division
+1,Barcelona,6,2,0,0,7,2,20,2017,2,primera_division
+2,Real Madrid,6,2,0,0,5,1,20,2017,2,primera_division
+3,Las Palmas,6,2,0,0,9,3,20,2017,2,primera_division
+4,Sevilla,4,1,1,0,6,4,20,2017,2,primera_division
+5,Real Sporting,4,1,1,0,2,1,20,2017,2,primera_division
+6,Leganés,4,1,1,0,1,0,20,2017,2,primera_division
+7,Deportivo,4,1,1,0,2,1,20,2017,2,primera_division
+8,Eibar,3,1,0,1,2,2,20,2017,2,primera_division
+9,R. Sociedad,3,1,0,1,2,3,20,2017,2,primera_division
+10,Alavés,2,0,2,0,1,1,20,2017,2,primera_division
+11,Villarreal,2,0,2,0,1,1,20,2017,2,primera_division
+12,Atlético,2,0,2,0,1,1,20,2017,2,primera_division
+13,Málaga,2,0,2,0,3,3,20,2017,2,primera_division
+14,Espanyol,1,0,1,1,6,8,20,2017,2,primera_division
+15,Osasuna,1,0,1,1,1,3,20,2017,2,primera_division
+16,Real Betis,1,0,1,1,2,6,20,2017,2,primera_division
+17,Granada,1,0,1,1,2,6,20,2017,2,primera_division
+18,Athletic,0,0,0,2,1,3,20,2017,2,primera_division
+19,Valencia,0,0,0,2,2,5,20,2017,2,primera_division
+20,Celta,0,0,0,2,1,3,20,2017,2,primera_division
+1,Real Madrid,9,3,0,0,10,3,20,2017,3,primera_division
+2,Sevilla,7,2,1,0,8,5,20,2017,3,primera_division
+3,Real Sporting,7,2,1,0,4,2,20,2017,3,primera_division
+4,Las Palmas,6,2,0,1,10,5,20,2017,3,primera_division
+5,Barcelona,6,2,0,1,8,4,20,2017,3,primera_division
+6,Eibar,6,2,0,1,4,3,20,2017,3,primera_division
+7,Alavés,5,1,2,0,3,2,20,2017,3,primera_division
+8,Villarreal,5,1,2,0,3,1,20,2017,3,primera_division
+9,Atlético,5,1,2,0,5,1,20,2017,3,primera_division
+10,R. Sociedad,4,1,1,1,3,4,20,2017,3,primera_division
+11,Leganés,4,1,1,1,2,2,20,2017,3,primera_division
+12,Deportivo,4,1,1,1,2,2,20,2017,3,primera_division
+13,Real Betis,4,1,1,1,5,8,20,2017,3,primera_division
+14,Athletic,3,1,0,2,2,3,20,2017,3,primera_division
+15,Espanyol,2,0,2,1,7,9,20,2017,3,primera_division
+16,Málaga,2,0,2,1,3,5,20,2017,3,primera_division
+17,Osasuna,1,0,1,2,3,8,20,2017,3,primera_division
+18,Granada,1,0,1,2,3,8,20,2017,3,primera_division
+19,Valencia,0,0,0,3,4,8,20,2017,3,primera_division
+20,Celta,0,0,0,3,1,7,20,2017,3,primera_division
+1,Real Madrid,12,4,0,0,12,3,20,2017,4,primera_division
+2,Barcelona,9,3,0,1,13,5,20,2017,4,primera_division
+3,Las Palmas,9,3,0,1,11,5,20,2017,4,primera_division
+4,Villarreal,8,2,2,0,5,2,20,2017,4,primera_division
+5,Sevilla,8,2,2,0,9,6,20,2017,4,primera_division
+6,Atlético,8,2,2,0,10,1,20,2017,4,primera_division
+7,Eibar,7,2,1,1,5,4,20,2017,4,primera_division
+8,Real Sporting,7,2,1,1,4,7,20,2017,4,primera_division
+9,Alavés,6,1,3,0,3,2,20,2017,4,primera_division
+10,Athletic,6,2,0,2,4,4,20,2017,4,primera_division
+11,Deportivo,5,1,2,1,2,2,20,2017,4,primera_division
+12,Real Betis,5,1,2,1,7,10,20,2017,4,primera_division
+13,R. Sociedad,4,1,1,2,4,6,20,2017,4,primera_division
+14,Leganés,4,1,1,2,3,7,20,2017,4,primera_division
+15,Málaga,2,0,2,2,3,6,20,2017,4,primera_division
+16,Espanyol,2,0,2,2,7,11,20,2017,4,primera_division
+17,Granada,2,0,2,2,5,10,20,2017,4,primera_division
+18,Osasuna,2,0,2,2,3,8,20,2017,4,primera_division
+19,Celta,1,0,1,3,1,7,20,2017,4,primera_division
+20,Valencia,0,0,0,4,5,10,20,2017,4,primera_division
+1,Real Madrid,13,4,1,0,13,4,20,2017,5,primera_division
+2,Sevilla,11,3,2,0,10,6,20,2017,5,primera_division
+3,Barcelona,10,3,1,1,14,6,20,2017,5,primera_division
+4,Atlético,9,2,3,0,11,2,20,2017,5,primera_division
+5,Las Palmas,9,3,0,2,12,9,20,2017,5,primera_division
+6,Villarreal,9,2,3,0,6,3,20,2017,5,primera_division
+7,Athletic,9,3,0,2,6,5,20,2017,5,primera_division
+8,Eibar,7,2,1,2,6,6,20,2017,5,primera_division
+9,R. Sociedad,7,2,1,2,8,7,20,2017,5,primera_division
+10,Real Sporting,7,2,1,2,5,9,20,2017,5,primera_division
+11,Leganés,7,2,1,2,5,8,20,2017,5,primera_division
+12,Alavés,6,1,3,1,4,4,20,2017,5,primera_division
+13,Espanyol,5,1,2,2,9,12,20,2017,5,primera_division
+14,Real Betis,5,1,2,2,7,11,20,2017,5,primera_division
+15,Deportivo,5,1,2,2,3,4,20,2017,5,primera_division
+16,Málaga,5,1,2,2,5,7,20,2017,5,primera_division
+17,Celta,4,1,1,3,3,8,20,2017,5,primera_division
+18,Valencia,3,1,0,4,7,11,20,2017,5,primera_division
+19,Osasuna,2,0,2,3,4,10,20,2017,5,primera_division
+20,Granada,2,0,2,3,6,12,20,2017,5,primera_division
+1,Real Madrid,14,4,2,0,15,6,20,2017,6,primera_division
+2,Barcelona,13,4,1,1,19,6,20,2017,6,primera_division
+3,Atlético,12,3,3,0,12,2,20,2017,6,primera_division
+4,Villarreal,12,3,3,0,9,4,20,2017,6,primera_division
+5,Athletic,12,4,0,2,9,6,20,2017,6,primera_division
+6,Sevilla,11,3,2,1,11,9,20,2017,6,primera_division
+7,Eibar,10,3,1,2,8,6,20,2017,6,primera_division
+8,Las Palmas,10,3,1,2,14,11,20,2017,6,primera_division
+9,Alavés,9,2,3,1,7,5,20,2017,6,primera_division
+10,Real Betis,8,2,2,2,8,11,20,2017,6,primera_division
+11,R. Sociedad,7,2,1,3,8,9,20,2017,6,primera_division
+12,Celta,7,2,1,3,5,8,20,2017,6,primera_division
+13,Leganés,7,2,1,3,6,10,20,2017,6,primera_division
+14,Real Sporting,7,2,1,3,5,14,20,2017,6,primera_division
+15,Valencia,6,2,0,4,9,12,20,2017,6,primera_division
+16,Espanyol,5,1,2,3,9,14,20,2017,6,primera_division
+17,Deportivo,5,1,2,3,3,5,20,2017,6,primera_division
+18,Málaga,5,1,2,3,5,8,20,2017,6,primera_division
+19,Osasuna,2,0,2,4,5,13,20,2017,6,primera_division
+20,Granada,2,0,2,4,7,15,20,2017,6,primera_division
+1,Real Madrid,15,4,3,0,16,7,20,2017,7,primera_division
+2,Atlético,15,4,3,0,14,2,20,2017,7,primera_division
+3,Sevilla,14,4,2,1,13,10,20,2017,7,primera_division
+4,Barcelona,13,4,1,2,22,10,20,2017,7,primera_division
+5,Villarreal,13,3,4,0,9,4,20,2017,7,primera_division
+6,Athletic,12,4,0,3,10,8,20,2017,7,primera_division
+7,Eibar,11,3,2,2,9,7,20,2017,7,primera_division
+8,Las Palmas,11,3,2,2,16,13,20,2017,7,primera_division
+9,R. Sociedad,10,3,1,3,9,9,20,2017,7,primera_division
+10,Celta,10,3,1,3,9,11,20,2017,7,primera_division
+11,Leganés,10,3,1,3,7,10,20,2017,7,primera_division
+12,Alavés,9,2,3,2,8,7,20,2017,7,primera_division
+13,Real Betis,8,2,2,3,8,12,20,2017,7,primera_division
+14,Deportivo,8,2,2,3,5,6,20,2017,7,primera_division
+15,Málaga,8,2,2,3,7,9,20,2017,7,primera_division
+16,Real Sporting,7,2,1,4,6,16,20,2017,7,primera_division
+17,Valencia,6,2,0,5,9,14,20,2017,7,primera_division
+18,Espanyol,6,1,3,3,9,14,20,2017,7,primera_division
+19,Osasuna,3,0,3,4,7,15,20,2017,7,primera_division
+20,Granada,2,0,2,5,7,16,20,2017,7,primera_division
+1,Real Madrid,18,5,3,0,22,8,20,2017,8,primera_division
+2,Atlético,18,5,3,0,21,3,20,2017,8,primera_division
+3,Sevilla,17,5,2,1,16,12,20,2017,8,primera_division
+4,Barcelona,16,5,1,2,26,10,20,2017,8,primera_division
+5,Villarreal,16,4,4,0,14,4,20,2017,8,primera_division
+6,Athletic,15,5,0,3,13,10,20,2017,8,primera_division
+7,Las Palmas,12,3,3,2,16,13,20,2017,8,primera_division
+8,Eibar,11,3,2,3,11,10,20,2017,8,primera_division
+9,Alavés,10,2,4,2,9,8,20,2017,8,primera_division
+10,R. Sociedad,10,3,1,4,11,12,20,2017,8,primera_division
+11,Leganés,10,3,1,4,9,13,20,2017,8,primera_division
+12,Celta,10,3,1,4,9,16,20,2017,8,primera_division
+13,Málaga,9,2,3,3,8,10,20,2017,8,primera_division
+14,Valencia,9,3,0,5,11,15,20,2017,8,primera_division
+15,Deportivo,8,2,2,4,5,10,20,2017,8,primera_division
+16,Real Betis,8,2,2,4,9,18,20,2017,8,primera_division
+17,Espanyol,7,1,4,3,9,14,20,2017,8,primera_division
+18,Real Sporting,7,2,1,5,7,18,20,2017,8,primera_division
+19,Osasuna,6,1,3,4,10,17,20,2017,8,primera_division
+20,Granada,2,0,2,6,8,23,20,2017,8,primera_division
+1,Real Madrid,21,6,3,0,24,9,20,2017,9,primera_division
+2,Sevilla,20,6,2,1,17,12,20,2017,9,primera_division
+3,Barcelona,19,6,1,2,29,12,20,2017,9,primera_division
+4,Villarreal,19,5,4,0,16,5,20,2017,9,primera_division
+5,Atlético,18,5,3,1,21,4,20,2017,9,primera_division
+6,Athletic,15,5,0,4,14,12,20,2017,9,primera_division
+7,R. Sociedad,13,4,1,4,14,12,20,2017,9,primera_division
+8,Celta,13,4,1,4,13,17,20,2017,9,primera_division
+9,Eibar,12,3,3,3,14,13,20,2017,9,primera_division
+10,Las Palmas,12,3,3,3,17,15,20,2017,9,primera_division
+11,Málaga,12,3,3,3,12,10,20,2017,9,primera_division
+12,Real Betis,11,3,2,4,11,19,20,2017,9,primera_division
+13,Alavés,10,2,4,3,9,11,20,2017,9,primera_division
+14,Leganés,10,3,1,5,9,17,20,2017,9,primera_division
+15,Valencia,9,3,0,6,13,18,20,2017,9,primera_division
+16,Espanyol,8,1,5,3,12,17,20,2017,9,primera_division
+17,Deportivo,8,2,2,5,6,14,20,2017,9,primera_division
+18,Real Sporting,8,2,2,5,7,18,20,2017,9,primera_division
+19,Osasuna,6,1,3,5,11,19,20,2017,9,primera_division
+20,Granada,3,0,3,6,8,23,20,2017,9,primera_division
+1,Real Madrid,24,7,3,0,28,10,20,2017,10,primera_division
+2,Barcelona,22,7,1,2,30,12,20,2017,10,primera_division
+3,Atlético,21,6,3,1,25,6,20,2017,10,primera_division
+4,Sevilla,21,6,3,1,18,13,20,2017,10,primera_division
+5,Villarreal,19,5,4,1,17,7,20,2017,10,primera_division
+6,Athletic,16,5,1,4,15,13,20,2017,10,primera_division
+7,R. Sociedad,16,5,1,4,16,12,20,2017,10,primera_division
+8,Eibar,15,4,3,3,16,14,20,2017,10,primera_division
+9,Celta,14,4,2,4,16,20,20,2017,10,primera_division
+10,Las Palmas,13,3,4,3,20,18,20,2017,10,primera_division
+11,Málaga,12,3,3,4,14,14,20,2017,10,primera_division
+12,Espanyol,11,2,5,3,13,17,20,2017,10,primera_division
+13,Real Betis,11,3,2,5,11,20,20,2017,10,primera_division
+14,Valencia,10,3,1,6,14,19,20,2017,10,primera_division
+15,Alavés,10,2,4,4,10,15,20,2017,10,primera_division
+16,Leganés,10,3,1,6,9,19,20,2017,10,primera_division
+17,Deportivo,9,2,3,5,7,15,20,2017,10,primera_division
+18,Real Sporting,9,2,3,5,8,19,20,2017,10,primera_division
+19,Osasuna,7,1,4,5,12,20,20,2017,10,primera_division
+20,Granada,3,0,3,7,8,24,20,2017,10,primera_division
+1,Real Madrid,27,8,3,0,31,10,20,2017,11,primera_division
+2,Barcelona,25,8,1,2,32,13,20,2017,11,primera_division
+3,Villarreal,22,6,4,1,19,7,20,2017,11,primera_division
+4,Atlético,21,6,3,2,25,8,20,2017,11,primera_division
+5,Sevilla,21,6,3,2,19,15,20,2017,11,primera_division
+6,R. Sociedad,19,6,1,4,18,12,20,2017,11,primera_division
+7,Athletic,17,5,2,4,15,13,20,2017,11,primera_division
+8,Celta,17,5,2,4,18,21,20,2017,11,primera_division
+9,Las Palmas,16,4,4,3,21,18,20,2017,11,primera_division
+10,Eibar,15,4,3,4,16,15,20,2017,11,primera_division
+11,Málaga,15,4,3,4,17,16,20,2017,11,primera_division
+12,Alavés,13,3,4,4,11,15,20,2017,11,primera_division
+13,Espanyol,12,2,6,3,13,17,20,2017,11,primera_division
+14,Real Betis,11,3,2,6,11,22,20,2017,11,primera_division
+15,Valencia,10,3,1,7,15,21,20,2017,11,primera_division
+16,Leganés,10,3,1,7,9,22,20,2017,11,primera_division
+17,Deportivo,10,2,4,5,8,16,20,2017,11,primera_division
+18,Real Sporting,9,2,3,6,10,22,20,2017,11,primera_division
+19,Osasuna,7,1,4,6,12,21,20,2017,11,primera_division
+20,Granada,4,0,4,7,9,25,20,2017,11,primera_division
+1,Real Madrid,30,9,3,0,34,10,20,2017,12,primera_division
+2,Barcelona,26,8,2,2,32,13,20,2017,12,primera_division
+3,Sevilla,24,7,3,2,22,17,20,2017,12,primera_division
+4,Villarreal,22,6,4,2,19,8,20,2017,12,primera_division
+5,R. Sociedad,22,7,1,4,21,13,20,2017,12,primera_division
+6,Atlético,21,6,3,3,25,11,20,2017,12,primera_division
+7,Athletic,20,6,2,4,16,13,20,2017,12,primera_division
+8,Eibar,18,5,3,4,17,15,20,2017,12,primera_division
+9,Celta,17,5,2,5,18,22,20,2017,12,primera_division
+10,Las Palmas,16,4,4,4,21,20,20,2017,12,primera_division
+11,Málaga,16,4,4,4,17,16,20,2017,12,primera_division
+12,Espanyol,15,3,6,3,14,17,20,2017,12,primera_division
+13,Real Betis,14,4,2,6,13,22,20,2017,12,primera_division
+14,Alavés,13,3,4,5,11,16,20,2017,12,primera_division
+15,Leganés,13,4,1,7,11,22,20,2017,12,primera_division
+16,Valencia,11,3,2,7,16,22,20,2017,12,primera_division
+17,Deportivo,10,2,4,6,10,19,20,2017,12,primera_division
+18,Real Sporting,9,2,3,7,11,25,20,2017,12,primera_division
+19,Osasuna,7,1,4,7,12,23,20,2017,12,primera_division
+20,Granada,5,0,5,7,10,26,20,2017,12,primera_division
+1,Real Madrid,33,10,3,0,36,11,20,2017,13,primera_division
+2,Barcelona,27,8,3,2,33,14,20,2017,13,primera_division
+3,Sevilla,27,8,3,2,24,18,20,2017,13,primera_division
+4,Atlético,24,7,3,3,28,11,20,2017,13,primera_division
+5,R. Sociedad,23,7,2,4,22,14,20,2017,13,primera_division
+6,Villarreal,22,6,4,3,19,10,20,2017,13,primera_division
+7,Eibar,21,6,3,4,20,16,20,2017,13,primera_division
+8,Athletic,20,6,2,5,17,16,20,2017,13,primera_division
+9,Celta,20,6,2,5,21,23,20,2017,13,primera_division
+10,Las Palmas,19,5,4,4,24,21,20,2017,13,primera_division
+11,Málaga,19,5,4,4,21,19,20,2017,13,primera_division
+12,Espanyol,18,4,6,3,17,17,20,2017,13,primera_division
+13,Alavés,16,4,4,5,13,16,20,2017,13,primera_division
+14,Real Betis,14,4,2,7,14,25,20,2017,13,primera_division
+15,Leganés,13,4,1,8,11,25,20,2017,13,primera_division
+16,Valencia,11,3,2,8,17,24,20,2017,13,primera_division
+17,Deportivo,10,2,4,7,13,23,20,2017,13,primera_division
+18,Real Sporting,9,2,3,8,12,27,20,2017,13,primera_division
+19,Osasuna,7,1,4,8,12,26,20,2017,13,primera_division
+20,Granada,5,0,5,8,11,29,20,2017,13,primera_division
+1,Real Madrid,34,10,4,0,37,12,20,2017,14,primera_division
+2,Barcelona,28,8,4,2,34,15,20,2017,14,primera_division
+3,Sevilla,27,8,3,3,25,20,20,2017,14,primera_division
+4,Atlético,25,7,4,3,28,11,20,2017,14,primera_division
+5,Villarreal,23,6,5,3,19,10,20,2017,14,primera_division
+6,Athletic,23,7,2,5,20,17,20,2017,14,primera_division
+7,R. Sociedad,23,7,2,5,23,19,20,2017,14,primera_division
+8,Eibar,21,6,3,5,21,19,20,2017,14,primera_division
+9,Celta,21,6,3,5,24,26,20,2017,14,primera_division
+10,Las Palmas,20,5,5,4,25,22,20,2017,14,primera_division
+11,Málaga,20,5,5,4,23,21,20,2017,14,primera_division
+12,Espanyol,19,4,7,3,17,17,20,2017,14,primera_division
+13,Alavés,17,4,5,5,14,17,20,2017,14,primera_division
+14,Real Betis,15,4,3,7,17,28,20,2017,14,primera_division
+15,Leganés,14,4,2,8,11,25,20,2017,14,primera_division
+16,Deportivo,13,3,4,7,18,24,20,2017,14,primera_division
+17,Valencia,12,3,3,8,19,26,20,2017,14,primera_division
+18,Real Sporting,12,3,3,8,15,28,20,2017,14,primera_division
+19,Granada,8,1,5,8,13,30,20,2017,14,primera_division
+20,Osasuna,7,1,4,9,13,29,20,2017,14,primera_division
+1,Real Madrid,37,11,4,0,40,14,20,2017,15,primera_division
+2,Barcelona,31,9,4,2,37,15,20,2017,15,primera_division
+3,Sevilla,30,9,3,3,28,20,20,2017,15,primera_division
+4,Villarreal,26,7,5,3,22,10,20,2017,15,primera_division
+5,R. Sociedad,26,8,2,5,26,21,20,2017,15,primera_division
+6,Atlético,25,7,4,4,28,14,20,2017,15,primera_division
+7,Athletic,23,7,2,6,20,18,20,2017,15,primera_division
+8,Eibar,22,6,4,5,21,19,20,2017,15,primera_division
+9,Espanyol,22,5,7,3,19,18,20,2017,15,primera_division
+10,Celta,21,6,3,6,24,29,20,2017,15,primera_division
+11,Málaga,21,5,6,4,24,22,20,2017,15,primera_division
+12,Las Palmas,21,5,6,4,26,23,20,2017,15,primera_division
+13,Alavés,18,4,6,5,14,17,20,2017,15,primera_division
+14,Real Betis,18,5,3,7,18,28,20,2017,15,primera_division
+15,Leganés,15,4,3,8,12,26,20,2017,15,primera_division
+16,Deportivo,13,3,4,8,20,27,20,2017,15,primera_division
+17,Valencia,12,3,3,9,21,29,20,2017,15,primera_division
+18,Real Sporting,12,3,3,9,16,30,20,2017,15,primera_division
+19,Granada,9,1,6,8,14,31,20,2017,15,primera_division
+20,Osasuna,7,1,4,10,13,32,20,2017,15,primera_division
+1,Real Madrid,37,11,4,1,41,16,20,2017,16,primera_division
+2,Barcelona,34,10,4,2,41,16,20,2017,16,primera_division
+3,Sevilla,33,10,3,3,32,21,20,2017,16,primera_division
+4,Villarreal,29,8,5,3,25,11,20,2017,16,primera_division
+5,R. Sociedad,29,9,2,5,28,21,20,2017,16,primera_division
+6,Atlético,28,8,4,4,29,14,20,2017,16,primera_division
+7,Athletic,26,8,2,6,22,19,20,2017,16,primera_division
+8,Eibar,23,6,5,5,22,20,20,2017,16,primera_division
+9,Espanyol,22,5,7,4,20,22,20,2017,16,primera_division
+10,Celta,21,6,3,7,25,31,20,2017,16,primera_division
+11,Alavés,21,5,6,5,15,17,20,2017,16,primera_division
+12,Málaga,21,5,6,5,25,26,20,2017,16,primera_division
+13,Las Palmas,21,5,6,5,26,24,20,2017,16,primera_division
+14,Real Betis,18,5,3,8,18,29,20,2017,16,primera_division
+15,Leganés,16,4,4,8,13,27,20,2017,16,primera_division
+16,Deportivo,16,4,4,8,22,27,20,2017,16,primera_division
+17,Valencia,15,4,3,9,23,30,20,2017,16,primera_division
+18,Real Sporting,12,3,3,10,17,33,20,2017,16,primera_division
+19,Granada,9,1,6,9,14,33,20,2017,16,primera_division
+20,Osasuna,7,1,4,11,13,34,20,2017,16,primera_division
+1,Real Madrid,40,12,4,1,46,16,20,2017,17,primera_division
+2,Sevilla,36,11,3,3,36,21,20,2017,17,primera_division
+3,Barcelona,35,10,5,2,42,17,20,2017,17,primera_division
+4,Atlético,31,9,4,4,31,14,20,2017,17,primera_division
+5,Villarreal,30,8,6,3,26,12,20,2017,17,primera_division
+6,R. Sociedad,29,9,2,6,28,25,20,2017,17,primera_division
+7,Athletic,27,8,3,6,22,19,20,2017,17,primera_division
+8,Celta,24,7,3,7,28,32,20,2017,17,primera_division
+9,Las Palmas,24,6,6,5,27,24,20,2017,17,primera_division
+10,Eibar,23,6,5,6,22,22,20,2017,17,primera_division
+11,Espanyol,23,5,8,4,21,23,20,2017,17,primera_division
+12,Alavés,22,5,7,5,15,17,20,2017,17,primera_division
+13,Real Betis,21,6,3,8,20,29,20,2017,17,primera_division
+14,Málaga,21,5,6,6,26,29,20,2017,17,primera_division
+15,Deportivo,17,4,5,8,23,28,20,2017,17,primera_division
+16,Valencia,16,4,4,9,26,33,20,2017,17,primera_division
+17,Leganés,16,4,4,9,13,29,20,2017,17,primera_division
+18,Real Sporting,12,3,3,11,17,34,20,2017,17,primera_division
+19,Granada,9,1,6,10,14,38,20,2017,17,primera_division
+20,Osasuna,8,1,5,11,16,37,20,2017,17,primera_division
+1,Real Madrid,40,12,4,2,47,18,20,2017,18,primera_division
+2,Sevilla,39,12,3,3,38,22,20,2017,18,primera_division
+3,Barcelona,38,11,5,2,47,17,20,2017,18,primera_division
+4,Atlético,34,10,4,4,32,14,20,2017,18,primera_division
+5,R. Sociedad,32,10,2,6,30,25,20,2017,18,primera_division
+6,Villarreal,31,8,7,3,26,12,20,2017,18,primera_division
+7,Athletic,28,8,4,6,22,19,20,2017,18,primera_division
+8,Celta,27,8,3,7,29,32,20,2017,18,primera_division
+9,Eibar,26,7,5,6,25,24,20,2017,18,primera_division
+10,Las Palmas,24,6,6,6,27,29,20,2017,18,primera_division
+11,Espanyol,23,5,8,5,22,25,20,2017,18,primera_division
+12,Alavés,22,5,7,6,15,18,20,2017,18,primera_division
+13,Real Betis,21,6,3,9,20,30,20,2017,18,primera_division
+14,Málaga,21,5,6,7,26,31,20,2017,18,primera_division
+15,Valencia,19,5,4,9,28,34,20,2017,18,primera_division
+16,Deportivo,18,4,6,8,23,28,20,2017,18,primera_division
+17,Leganés,17,4,5,9,13,29,20,2017,18,primera_division
+18,Real Sporting,12,3,3,12,19,37,20,2017,18,primera_division
+19,Granada,10,1,7,10,15,39,20,2017,18,primera_division
+20,Osasuna,9,1,6,11,17,38,20,2017,18,primera_division
+1,Real Madrid,43,13,4,2,49,19,20,2017,19,primera_division
+2,Sevilla,42,13,3,3,42,25,20,2017,19,primera_division
+3,Barcelona,41,12,5,2,51,17,20,2017,19,primera_division
+4,R. Sociedad,35,11,2,6,31,25,20,2017,19,primera_division
+5,Atlético,35,10,5,4,34,16,20,2017,19,primera_division
+6,Villarreal,31,8,7,4,26,14,20,2017,19,primera_division
+7,Athletic,29,8,5,6,24,21,20,2017,19,primera_division
+8,Celta,27,8,3,8,29,33,20,2017,19,primera_division
+9,Espanyol,26,6,8,5,25,26,20,2017,19,primera_division
+10,Eibar,26,7,5,7,25,28,20,2017,19,primera_division
+11,Las Palmas,25,6,7,6,28,30,20,2017,19,primera_division
+12,Alavés,23,5,8,6,17,20,20,2017,19,primera_division
+13,Real Betis,22,6,4,9,20,30,20,2017,19,primera_division
+14,Valencia,22,6,4,9,30,34,20,2017,19,primera_division
+15,Málaga,21,5,6,8,27,33,20,2017,19,primera_division
+16,Deportivo,19,4,7,8,24,29,20,2017,19,primera_division
+17,Leganés,18,4,6,9,15,31,20,2017,19,primera_division
+18,Real Sporting,13,3,4,12,19,37,20,2017,19,primera_division
+19,Granada,10,1,7,11,16,42,20,2017,19,primera_division
+20,Osasuna,9,1,6,12,20,42,20,2017,19,primera_division
+1,Real Madrid,46,14,4,2,52,19,20,2017,20,primera_division
+2,Barcelona,42,12,6,2,52,18,20,2017,20,primera_division
+3,Sevilla,42,13,3,4,43,28,20,2017,20,primera_division
+4,Atlético,36,10,6,4,34,16,20,2017,20,primera_division
+5,R. Sociedad,35,11,2,7,31,28,20,2017,20,primera_division
+6,Villarreal,34,9,7,4,28,14,20,2017,20,primera_division
+7,Athletic,32,9,5,6,26,22,20,2017,20,primera_division
+8,Celta,30,9,3,8,31,33,20,2017,20,primera_division
+9,Espanyol,29,7,8,5,28,27,20,2017,20,primera_division
+10,Eibar,29,8,5,7,28,29,20,2017,20,primera_division
+11,Las Palmas,28,7,7,6,31,31,20,2017,20,primera_division
+12,Alavés,24,5,9,6,17,20,20,2017,20,primera_division
+13,Real Betis,23,6,5,9,21,31,20,2017,20,primera_division
+14,Málaga,22,5,7,8,28,34,20,2017,20,primera_division
+15,Valencia,22,6,4,10,31,37,20,2017,20,primera_division
+16,Deportivo,19,4,7,9,25,32,20,2017,20,primera_division
+17,Leganés,18,4,6,10,15,33,20,2017,20,primera_division
+18,Real Sporting,13,3,4,13,20,39,20,2017,20,primera_division
+19,Osasuna,10,1,7,12,21,43,20,2017,20,primera_division
+20,Granada,10,1,7,12,16,44,20,2017,20,primera_division
+1,Real Madrid,49,15,4,2,56,20,20,2017,21,primera_division
+2,Barcelona,45,13,6,2,55,18,20,2017,21,primera_division
+3,Sevilla,43,13,4,4,43,28,20,2017,21,primera_division
+4,Atlético,39,11,6,4,36,16,20,2017,21,primera_division
+5,R. Sociedad,38,12,2,7,34,30,20,2017,21,primera_division
+6,Villarreal,35,9,8,4,28,14,20,2017,21,primera_division
+7,Athletic,32,9,5,7,26,25,20,2017,21,primera_division
+8,Espanyol,32,8,8,5,29,27,20,2017,21,primera_division
+9,Eibar,32,9,5,7,32,29,20,2017,21,primera_division
+10,Celta,30,9,3,9,32,37,20,2017,21,primera_division
+11,Las Palmas,28,7,7,7,31,32,20,2017,21,primera_division
+12,Alavés,27,6,9,6,21,22,20,2017,21,primera_division
+13,Real Betis,24,6,6,9,22,32,20,2017,21,primera_division
+14,Málaga,22,5,7,9,28,35,20,2017,21,primera_division
+15,Valencia,22,6,4,11,31,41,20,2017,21,primera_division
+16,Deportivo,20,4,8,9,26,33,20,2017,21,primera_division
+17,Leganés,18,4,6,11,15,35,20,2017,21,primera_division
+18,Real Sporting,13,3,4,14,22,43,20,2017,21,primera_division
+19,Granada,13,2,7,12,17,44,20,2017,21,primera_division
+20,Osasuna,10,1,7,13,23,46,20,2017,21,primera_division
+1,Real Madrid,52,16,4,2,59,21,20,2017,22,primera_division
+2,Barcelona,48,14,6,2,61,18,20,2017,22,primera_division
+3,Sevilla,46,14,4,4,44,28,20,2017,22,primera_division
+4,Atlético,42,12,6,4,39,18,20,2017,22,primera_division
+5,R. Sociedad,41,13,2,7,36,31,20,2017,22,primera_division
+6,Villarreal,36,9,9,4,29,15,20,2017,22,primera_division
+7,Athletic,35,10,5,7,28,26,20,2017,22,primera_division
+8,Eibar,35,10,5,7,36,29,20,2017,22,primera_division
+9,Espanyol,32,8,8,6,30,29,20,2017,22,primera_division
+10,Celta,30,9,3,10,34,40,20,2017,22,primera_division
+11,Las Palmas,28,7,7,8,31,33,20,2017,22,primera_division
+12,Alavés,27,6,9,7,21,28,20,2017,22,primera_division
+13,Real Betis,25,6,7,9,22,32,20,2017,22,primera_division
+14,Málaga,23,5,8,9,29,36,20,2017,22,primera_division
+15,Valencia,23,6,5,11,31,41,20,2017,22,primera_division
+16,Deportivo,20,4,8,10,27,35,20,2017,22,primera_division
+17,Leganés,18,4,6,12,15,37,20,2017,22,primera_division
+18,Real Sporting,16,4,4,14,24,43,20,2017,22,primera_division
+19,Granada,13,2,7,13,17,48,20,2017,22,primera_division
+20,Osasuna,10,1,7,14,24,49,20,2017,22,primera_division
+1,Real Madrid,55,17,4,2,61,21,20,2017,23,primera_division
+2,Barcelona,51,15,6,2,63,19,20,2017,23,primera_division
+3,Sevilla,49,15,4,4,46,28,20,2017,23,primera_division
+4,Atlético,45,13,6,4,43,19,20,2017,23,primera_division
+5,R. Sociedad,41,13,2,8,36,32,20,2017,23,primera_division
+6,Villarreal,39,10,9,4,30,15,20,2017,23,primera_division
+7,Athletic,35,10,5,8,28,28,20,2017,23,primera_division
+8,Eibar,35,10,5,8,36,31,20,2017,23,primera_division
+9,Celta,33,10,3,10,37,40,20,2017,23,primera_division
+10,Espanyol,32,8,8,7,30,31,20,2017,23,primera_division
+11,Alavés,30,7,9,7,22,28,20,2017,23,primera_division
+12,Las Palmas,28,7,7,9,32,35,20,2017,23,primera_division
+13,Málaga,26,6,8,9,31,37,20,2017,23,primera_division
+14,Valencia,26,7,5,11,33,41,20,2017,23,primera_division
+15,Real Betis,25,6,7,10,23,36,20,2017,23,primera_division
+16,Deportivo,20,4,8,11,27,36,20,2017,23,primera_division
+17,Leganés,18,4,6,13,16,39,20,2017,23,primera_division
+18,Real Sporting,16,4,4,15,25,47,20,2017,23,primera_division
+19,Granada,16,3,7,13,21,49,20,2017,23,primera_division
+20,Osasuna,10,1,7,15,24,52,20,2017,23,primera_division
+1,Real Madrid,58,18,4,2,64,23,20,2017,24,primera_division
+2,Barcelona,54,16,6,2,65,20,20,2017,24,primera_division
+3,Sevilla,52,16,4,4,48,29,20,2017,24,primera_division
+4,Atlético,45,13,6,5,44,21,20,2017,24,primera_division
+5,R. Sociedad,44,14,2,8,37,32,20,2017,24,primera_division
+6,Villarreal,39,10,9,5,32,18,20,2017,24,primera_division
+7,Athletic,38,11,5,8,31,29,20,2017,24,primera_division
+8,Eibar,38,11,5,8,39,31,20,2017,24,primera_division
+9,Espanyol,35,9,8,7,33,31,20,2017,24,primera_division
+10,Celta,34,10,4,10,38,41,20,2017,24,primera_division
+11,Alavés,33,8,9,7,24,29,20,2017,24,primera_division
+12,Las Palmas,28,7,7,10,32,36,20,2017,24,primera_division
+13,Málaga,26,6,8,10,31,40,20,2017,24,primera_division
+14,Valencia,26,7,5,12,34,43,20,2017,24,primera_division
+15,Real Betis,25,6,7,11,24,38,20,2017,24,primera_division
+16,Leganés,21,5,6,13,20,39,20,2017,24,primera_division
+17,Deportivo,20,4,8,12,27,40,20,2017,24,primera_division
+18,Real Sporting,17,4,5,15,26,48,20,2017,24,primera_division
+19,Granada,16,3,7,14,22,52,20,2017,24,primera_division
+20,Osasuna,10,1,7,16,24,55,20,2017,24,primera_division
+1,Real Madrid,59,18,5,2,67,26,20,2017,25,primera_division
+2,Barcelona,57,17,6,2,71,21,20,2017,25,primera_division
+3,Sevilla,55,17,4,4,49,29,20,2017,25,primera_division
+4,Atlético,46,13,7,5,45,22,20,2017,25,primera_division
+5,R. Sociedad,45,14,3,8,39,34,20,2017,25,primera_division
+6,Villarreal,42,11,9,5,36,19,20,2017,25,primera_division
+7,Eibar,39,11,6,8,41,33,20,2017,25,primera_division
+8,Athletic,38,11,5,9,31,30,20,2017,25,primera_division
+9,Espanyol,36,9,9,7,35,33,20,2017,25,primera_division
+10,Celta,35,10,5,10,40,43,20,2017,25,primera_division
+11,Alavés,33,8,9,8,25,31,20,2017,25,primera_division
+12,Las Palmas,29,7,8,10,35,39,20,2017,25,primera_division
+13,Valencia,29,8,5,12,35,43,20,2017,25,primera_division
+14,Real Betis,28,7,7,11,26,39,20,2017,25,primera_division
+15,Málaga,26,6,8,11,32,42,20,2017,25,primera_division
+16,Leganés,21,5,6,14,20,40,20,2017,25,primera_division
+17,Deportivo,21,4,9,12,28,41,20,2017,25,primera_division
+18,Granada,19,4,7,14,24,53,20,2017,25,primera_division
+19,Real Sporting,17,4,5,16,27,54,20,2017,25,primera_division
+20,Osasuna,10,1,7,17,25,59,20,2017,25,primera_division
+1,Real Madrid,62,19,5,2,71,27,20,2017,26,primera_division
+2,Barcelona,60,18,6,2,76,21,20,2017,26,primera_division
+3,Sevilla,56,17,5,4,50,30,20,2017,26,primera_division
+4,Atlético,49,14,7,5,48,22,20,2017,26,primera_division
+5,R. Sociedad,48,15,3,8,42,36,20,2017,26,primera_division
+6,Villarreal,45,12,9,5,38,19,20,2017,26,primera_division
+7,Athletic,41,12,5,9,32,30,20,2017,26,primera_division
+8,Eibar,39,11,6,9,42,37,20,2017,26,primera_division
+9,Espanyol,36,9,9,8,35,35,20,2017,26,primera_division
+10,Celta,35,10,5,11,40,48,20,2017,26,primera_division
+11,Alavés,34,8,10,8,26,32,20,2017,26,primera_division
+12,Las Palmas,32,8,8,10,40,41,20,2017,26,primera_division
+13,Valencia,29,8,5,13,35,46,20,2017,26,primera_division
+14,Real Betis,28,7,7,12,28,42,20,2017,26,primera_division
+15,Málaga,26,6,8,12,32,43,20,2017,26,primera_division
+16,Leganés,24,6,6,14,21,40,20,2017,26,primera_division
+17,Deportivo,24,5,9,12,29,41,20,2017,26,primera_division
+18,Granada,19,4,7,15,24,54,20,2017,26,primera_division
+19,Real Sporting,17,4,5,17,27,55,20,2017,26,primera_division
+20,Osasuna,10,1,7,18,27,64,20,2017,26,primera_division
+1,Real Madrid,65,20,5,2,73,28,20,2017,27,primera_division
+2,Barcelona,60,18,6,3,77,23,20,2017,27,primera_division
+3,Sevilla,57,17,6,4,51,31,20,2017,27,primera_division
+4,Atlético,52,15,7,5,49,22,20,2017,27,primera_division
+5,Villarreal,48,13,9,5,39,19,20,2017,27,primera_division
+6,R. Sociedad,48,15,3,9,42,38,20,2017,27,primera_division
+7,Athletic,44,13,5,9,34,30,20,2017,27,primera_division
+8,Eibar,40,11,7,9,43,38,20,2017,27,primera_division
+9,Espanyol,39,10,9,8,39,38,20,2017,27,primera_division
+10,Alavés,37,9,10,8,28,33,20,2017,27,primera_division
+11,Celta,35,10,5,12,40,49,20,2017,27,primera_division
+12,Las Palmas,32,8,8,11,43,45,20,2017,27,primera_division
+13,Valencia,30,8,6,13,36,47,20,2017,27,primera_division
+14,Real Betis,28,7,7,13,29,44,20,2017,27,primera_division
+15,Deportivo,27,6,9,12,31,42,20,2017,27,primera_division
+16,Málaga,26,6,8,13,33,45,20,2017,27,primera_division
+17,Leganés,25,6,7,14,22,41,20,2017,27,primera_division
+18,Granada,19,4,7,16,24,55,20,2017,27,primera_division
+19,Real Sporting,18,4,6,17,28,56,20,2017,27,primera_division
+20,Osasuna,11,1,8,18,28,65,20,2017,27,primera_division
+1,Real Madrid,68,21,5,2,75,29,20,2017,28,primera_division
+2,Barcelona,63,19,6,3,81,25,20,2017,28,primera_division
+3,Sevilla,57,17,6,5,52,34,20,2017,28,primera_division
+4,Atlético,55,16,7,5,52,23,20,2017,28,primera_division
+5,Villarreal,48,13,9,6,39,20,20,2017,28,primera_division
+6,R. Sociedad,48,15,3,10,42,39,20,2017,28,primera_division
+7,Athletic,44,13,5,10,35,32,20,2017,28,primera_division
+8,Eibar,41,11,8,9,44,39,20,2017,28,primera_division
+9,Espanyol,40,10,10,8,40,39,20,2017,28,primera_division
+10,Alavés,40,10,10,8,29,33,20,2017,28,primera_division
+11,Celta,38,11,5,12,41,49,20,2017,28,primera_division
+12,Las Palmas,35,9,8,11,44,45,20,2017,28,primera_division
+13,Real Betis,31,8,7,13,31,44,20,2017,28,primera_division
+14,Valencia,30,8,6,14,38,51,20,2017,28,primera_division
+15,Deportivo,27,6,9,13,31,43,20,2017,28,primera_division
+16,Málaga,27,6,9,13,33,45,20,2017,28,primera_division
+17,Leganés,26,6,8,14,22,41,20,2017,28,primera_division
+18,Real Sporting,21,5,6,17,31,57,20,2017,28,primera_division
+19,Granada,19,4,7,17,25,58,20,2017,28,primera_division
+20,Osasuna,11,1,8,19,28,67,20,2017,28,primera_division
+1,Real Madrid,71,22,5,2,78,29,20,2017,29,primera_division
+2,Barcelona,66,20,6,3,85,26,20,2017,29,primera_division
+3,Atlético,58,17,7,5,54,23,20,2017,29,primera_division
+4,Sevilla,58,17,7,5,52,34,20,2017,29,primera_division
+5,R. Sociedad,49,15,4,10,43,40,20,2017,29,primera_division
+6,Villarreal,48,13,9,7,41,23,20,2017,29,primera_division
+7,Athletic,47,14,5,10,37,33,20,2017,29,primera_division
+8,Eibar,44,12,8,9,47,41,20,2017,29,primera_division
+9,Espanyol,43,11,10,8,42,40,20,2017,29,primera_division
+10,Celta,41,12,5,12,44,50,20,2017,29,primera_division
+11,Alavés,40,10,10,9,29,36,20,2017,29,primera_division
+12,Las Palmas,35,9,8,12,45,48,20,2017,29,primera_division
+13,Valencia,33,9,6,14,41,51,20,2017,29,primera_division
+14,Real Betis,31,8,7,14,32,46,20,2017,29,primera_division
+15,Málaga,27,6,9,14,33,47,20,2017,29,primera_division
+16,Leganés,27,6,9,14,23,42,20,2017,29,primera_division
+17,Deportivo,27,6,9,14,31,46,20,2017,29,primera_division
+18,Real Sporting,22,5,7,17,31,57,20,2017,29,primera_division
+19,Granada,19,4,7,18,26,62,20,2017,29,primera_division
+20,Osasuna,11,1,8,20,29,69,20,2017,29,primera_division
+1,Real Madrid,74,23,5,2,82,31,20,2017,30,primera_division
+2,Barcelona,69,21,6,3,88,26,20,2017,30,primera_division
+3,Atlético,61,18,7,5,55,23,20,2017,30,primera_division
+4,Sevilla,58,17,7,6,52,37,20,2017,30,primera_division
+5,Villarreal,51,14,9,7,42,23,20,2017,30,primera_division
+6,Athletic,50,15,5,10,39,33,20,2017,30,primera_division
+7,R. Sociedad,49,15,4,11,43,41,20,2017,30,primera_division
+8,Eibar,47,13,8,9,50,42,20,2017,30,primera_division
+9,Espanyol,43,11,10,9,42,42,20,2017,30,primera_division
+10,Celta,41,12,5,13,46,53,20,2017,30,primera_division
+11,Alavés,40,10,10,10,29,37,20,2017,30,primera_division
+12,Valencia,36,10,6,14,44,53,20,2017,30,primera_division
+13,Las Palmas,35,9,8,13,46,51,20,2017,30,primera_division
+14,Real Betis,31,8,7,15,32,47,20,2017,30,primera_division
+15,Málaga,30,7,9,14,34,47,20,2017,30,primera_division
+16,Deportivo,28,6,10,14,31,46,20,2017,30,primera_division
+17,Leganés,27,6,9,15,25,46,20,2017,30,primera_division
+18,Real Sporting,22,5,7,18,31,58,20,2017,30,primera_division
+19,Granada,20,4,8,18,26,62,20,2017,30,primera_division
+20,Osasuna,14,2,8,20,30,69,20,2017,30,primera_division
+1,Real Madrid,75,23,6,2,83,32,20,2017,31,primera_division
+2,Barcelona,69,21,6,4,88,28,20,2017,31,primera_division
+3,Atlético,62,18,8,5,56,24,20,2017,31,primera_division
+4,Sevilla,61,18,7,6,56,39,20,2017,31,primera_division
+5,Villarreal,54,15,9,7,45,24,20,2017,31,primera_division
+6,R. Sociedad,52,16,4,11,46,42,20,2017,31,primera_division
+7,Athletic,50,15,5,11,40,36,20,2017,31,primera_division
+8,Eibar,50,14,8,9,52,42,20,2017,31,primera_division
+9,Espanyol,46,12,10,9,43,42,20,2017,31,primera_division
+10,Celta,41,12,5,14,46,55,20,2017,31,primera_division
+11,Alavés,40,10,10,11,29,38,20,2017,31,primera_division
+12,Valencia,39,11,6,14,47,54,20,2017,31,primera_division
+13,Las Palmas,38,10,8,13,50,52,20,2017,31,primera_division
+14,Málaga,33,8,9,14,36,47,20,2017,31,primera_division
+15,Real Betis,31,8,7,16,33,51,20,2017,31,primera_division
+16,Deportivo,28,6,10,15,33,50,20,2017,31,primera_division
+17,Leganés,27,6,9,16,26,48,20,2017,31,primera_division
+18,Real Sporting,22,5,7,19,32,61,20,2017,31,primera_division
+19,Granada,20,4,8,19,27,65,20,2017,31,primera_division
+20,Osasuna,17,3,8,20,32,70,20,2017,31,primera_division
+1,Real Madrid,78,24,6,2,86,34,20,2017,32,primera_division
+2,Barcelona,72,22,6,4,91,30,20,2017,32,primera_division
+3,Atlético,65,19,8,5,59,24,20,2017,32,primera_division
+4,Sevilla,62,18,8,6,56,39,20,2017,32,primera_division
+5,Villarreal,54,15,9,8,46,26,20,2017,32,primera_division
+6,Athletic,53,16,5,11,45,37,20,2017,32,primera_division
+7,R. Sociedad,52,16,4,12,48,45,20,2017,32,primera_division
+8,Eibar,50,14,8,10,52,44,20,2017,32,primera_division
+9,Espanyol,49,13,10,9,44,42,20,2017,32,primera_division
+10,Celta,44,13,5,14,49,55,20,2017,32,primera_division
+11,Alavés,43,11,10,11,31,39,20,2017,32,primera_division
+12,Valencia,40,11,7,14,47,54,20,2017,32,primera_division
+13,Las Palmas,38,10,8,14,51,57,20,2017,32,primera_division
+14,Real Betis,34,9,7,16,35,51,20,2017,32,primera_division
+15,Málaga,33,8,9,15,36,49,20,2017,32,primera_division
+16,Deportivo,31,7,10,15,35,50,20,2017,32,primera_division
+17,Leganés,27,6,9,17,26,49,20,2017,32,primera_division
+18,Real Sporting,22,5,7,20,34,64,20,2017,32,primera_division
+19,Granada,20,4,8,20,27,68,20,2017,32,primera_division
+20,Osasuna,17,3,8,21,32,73,20,2017,32,primera_division
+1,Real Madrid,78,24,6,3,88,37,20,2017,33,primera_division
+2,Barcelona,75,23,6,4,94,32,20,2017,33,primera_division
+3,Atlético,68,20,8,5,60,24,20,2017,33,primera_division
+4,Sevilla,65,19,8,6,58,39,20,2017,33,primera_division
+5,Villarreal,57,16,9,8,48,27,20,2017,33,primera_division
+6,Athletic,56,17,5,11,46,37,20,2017,33,primera_division
+7,R. Sociedad,55,17,4,12,49,45,20,2017,33,primera_division
+8,Eibar,50,14,8,11,52,45,20,2017,33,primera_division
+9,Espanyol,49,13,10,10,44,43,20,2017,33,primera_division
+10,Alavés,44,11,11,11,32,40,20,2017,33,primera_division
+11,Celta,44,13,5,15,49,56,20,2017,33,primera_division
+12,Valencia,40,11,7,15,47,56,20,2017,33,primera_division
+13,Las Palmas,39,10,9,14,52,58,20,2017,33,primera_division
+14,Real Betis,37,10,7,16,36,51,20,2017,33,primera_division
+15,Málaga,36,9,9,15,38,49,20,2017,33,primera_division
+16,Deportivo,31,7,10,16,35,51,20,2017,33,primera_division
+17,Leganés,27,6,9,18,27,51,20,2017,33,primera_division
+18,Real Sporting,23,5,8,20,36,66,20,2017,33,primera_division
+19,Granada,20,4,8,21,27,70,20,2017,33,primera_division
+20,Osasuna,18,3,9,21,34,75,20,2017,33,primera_division
+1,Real Madrid,81,25,6,3,94,39,20,2017,34,primera_division
+2,Barcelona,78,24,6,4,101,33,20,2017,34,primera_division
+3,Atlético,68,20,8,6,60,25,20,2017,34,primera_division
+4,Sevilla,68,20,8,6,60,40,20,2017,34,primera_division
+5,Villarreal,60,17,9,8,49,27,20,2017,34,primera_division
+6,Athletic,59,18,5,11,48,38,20,2017,34,primera_division
+7,R. Sociedad,58,18,4,12,52,47,20,2017,34,primera_division
+8,Eibar,51,14,9,11,52,45,20,2017,34,primera_division
+9,Espanyol,50,13,11,10,45,44,20,2017,34,primera_division
+10,Alavés,45,11,12,11,32,40,20,2017,34,primera_division
+11,Celta,44,13,5,16,50,58,20,2017,34,primera_division
+12,Valencia,40,11,7,16,49,59,20,2017,34,primera_division
+13,Las Palmas,39,10,9,15,52,61,20,2017,34,primera_division
+14,Málaga,39,10,9,15,40,49,20,2017,34,primera_division
+15,Real Betis,37,10,7,17,37,53,20,2017,34,primera_division
+16,Deportivo,31,7,10,17,37,57,20,2017,34,primera_division
+17,Leganés,30,7,9,18,30,51,20,2017,34,primera_division
+18,Real Sporting,24,5,9,20,37,67,20,2017,34,primera_division
+19,Granada,20,4,8,22,27,72,20,2017,34,primera_division
+20,Osasuna,18,3,9,22,35,82,20,2017,34,primera_division
+1,Real Madrid,84,26,6,3,96,40,20,2017,35,primera_division
+2,Barcelona,81,25,6,4,104,33,20,2017,35,primera_division
+3,Atlético,71,21,8,6,65,25,20,2017,35,primera_division
+4,Sevilla,68,20,8,7,62,44,20,2017,35,primera_division
+5,Villarreal,63,18,9,8,52,28,20,2017,35,primera_division
+6,Athletic,62,19,5,11,51,38,20,2017,35,primera_division
+7,R. Sociedad,61,19,4,12,54,48,20,2017,35,primera_division
+8,Eibar,54,15,9,11,54,45,20,2017,35,primera_division
+9,Espanyol,50,13,11,11,45,47,20,2017,35,primera_division
+10,Alavés,48,12,12,11,36,41,20,2017,35,primera_division
+11,Celta,44,13,5,17,50,61,20,2017,35,primera_division
+12,Málaga,42,11,9,15,44,51,20,2017,35,primera_division
+13,Valencia,40,11,7,17,50,61,20,2017,35,primera_division
+14,Las Palmas,39,10,9,16,52,66,20,2017,35,primera_division
+15,Real Betis,37,10,7,18,38,57,20,2017,35,primera_division
+16,Deportivo,32,7,11,17,39,59,20,2017,35,primera_division
+17,Leganés,30,7,9,19,30,53,20,2017,35,primera_division
+18,Real Sporting,24,5,9,21,38,70,20,2017,35,primera_division
+19,Granada,20,4,8,23,28,74,20,2017,35,primera_division
+20,Osasuna,19,3,10,22,37,84,20,2017,35,primera_division
+1,Real Madrid,87,27,6,3,100,40,20,2017,36,primera_division
+2,Barcelona,84,26,6,4,108,34,20,2017,36,primera_division
+3,Atlético,74,22,8,6,66,25,20,2017,36,primera_division
+4,Sevilla,69,20,9,7,63,45,20,2017,36,primera_division
+5,Villarreal,63,18,9,9,53,32,20,2017,36,primera_division
+6,Athletic,62,19,5,12,51,39,20,2017,36,primera_division
+7,R. Sociedad,62,19,5,12,55,49,20,2017,36,primera_division
+8,Eibar,54,15,9,12,54,46,20,2017,36,primera_division
+9,Espanyol,53,14,11,11,47,48,20,2017,36,primera_division
+10,Alavés,51,13,12,11,37,41,20,2017,36,primera_division
+11,Málaga,45,12,9,15,47,51,20,2017,36,primera_division
+12,Celta,44,13,5,18,50,64,20,2017,36,primera_division
+13,Valencia,43,12,7,17,54,62,20,2017,36,primera_division
+14,Las Palmas,39,10,9,17,52,67,20,2017,36,primera_division
+15,Real Betis,37,10,7,19,38,61,20,2017,36,primera_division
+16,Leganés,33,8,9,19,34,53,20,2017,36,primera_division
+17,Deportivo,32,7,11,18,40,61,20,2017,36,primera_division
+18,Real Sporting,27,6,9,21,39,70,20,2017,36,primera_division
+19,Granada,20,4,8,24,28,78,20,2017,36,primera_division
+20,Osasuna,19,3,10,23,38,88,20,2017,36,primera_division
+1,Real Madrid,90,28,6,3,104,41,20,2017,37,primera_division
+2,Barcelona,87,27,6,4,112,35,20,2017,37,primera_division
+3,Atlético,75,22,9,6,67,26,20,2017,37,primera_division
+4,Sevilla,69,20,9,8,64,49,20,2017,37,primera_division
+5,Villarreal,64,18,10,9,53,32,20,2017,37,primera_division
+6,Athletic,63,19,6,12,52,40,20,2017,37,primera_division
+7,R. Sociedad,63,19,6,12,57,51,20,2017,37,primera_division
+8,Eibar,54,15,9,13,54,47,20,2017,37,primera_division
+9,Alavés,54,14,12,11,40,42,20,2017,37,primera_division
+10,Espanyol,53,14,11,12,47,49,20,2017,37,primera_division
+11,Málaga,46,12,10,15,49,53,20,2017,37,primera_division
+12,Valencia,46,13,7,17,55,62,20,2017,37,primera_division
+13,Celta,44,13,5,19,51,67,20,2017,37,primera_division
+14,Las Palmas,39,10,9,18,53,71,20,2017,37,primera_division
+15,Real Betis,38,10,8,19,39,62,20,2017,37,primera_division
+16,Leganés,34,8,10,19,35,54,20,2017,37,primera_division
+17,Deportivo,33,7,12,18,40,61,20,2017,37,primera_division
+18,Real Sporting,30,7,9,21,40,70,20,2017,37,primera_division
+19,Osasuna,22,4,10,23,40,89,20,2017,37,primera_division
+20,Granada,20,4,8,25,29,80,20,2017,37,primera_division
+1,Real Madrid,93,29,6,3,106,41,20,2017,38,primera_division
+2,Barcelona,90,28,6,4,116,37,20,2017,38,primera_division
+3,Atlético,78,23,9,6,70,27,20,2017,38,primera_division
+4,Sevilla,72,21,9,8,69,49,20,2017,38,primera_division
+5,Villarreal,67,19,10,9,56,33,20,2017,38,primera_division
+6,R. Sociedad,64,19,7,12,59,53,20,2017,38,primera_division
+7,Athletic,63,19,6,13,53,43,20,2017,38,primera_division
+8,Espanyol,56,15,11,12,49,50,20,2017,38,primera_division
+9,Alavés,55,14,13,11,41,43,20,2017,38,primera_division
+10,Eibar,54,15,9,14,56,51,20,2017,38,primera_division
+11,Málaga,46,12,10,16,49,55,20,2017,38,primera_division
+12,Valencia,46,13,7,18,56,65,20,2017,38,primera_division
+13,Celta,45,13,6,19,53,69,20,2017,38,primera_division
+14,Las Palmas,39,10,9,19,53,74,20,2017,38,primera_division
+15,Real Betis,39,10,9,19,41,64,20,2017,38,primera_division
+16,Deportivo,36,8,12,18,43,61,20,2017,38,primera_division
+17,Leganés,35,8,11,19,36,55,20,2017,38,primera_division
+18,Real Sporting,31,7,10,21,42,72,20,2017,38,primera_division
+19,Osasuna,22,4,10,24,40,94,20,2017,38,primera_division
+20,Granada,20,4,8,26,30,82,20,2017,38,primera_division

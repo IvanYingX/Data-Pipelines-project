@@ -1,0 +1,760 @@
+1,Deportivo,2,1,0,0,2,0,20,1991,1,segunda_division
+2,Orihuela CF,2,1,0,0,2,0,20,1991,1,segunda_division
+3,Albacete,2,1,0,0,2,0,20,1991,1,segunda_division
+4,Lleida,2,1,0,0,3,2,20,1991,1,segunda_division
+5,UE Figueres,2,1,0,0,2,1,20,1991,1,segunda_division
+6,CD Málaga,1,0,1,0,1,1,20,1991,1,segunda_division
+7,Sestao Sport Club,1,0,1,0,1,1,20,1991,1,segunda_division
+8,Real Murcia,1,0,1,0,0,0,20,1991,1,segunda_division
+9,Rayo Vallecano,1,0,1,0,1,1,20,1991,1,segunda_division
+10,Celta,1,0,1,0,1,1,20,1991,1,segunda_division
+11,Real Avilés,1,0,1,0,0,0,20,1991,1,segunda_division
+12,Bilbao Ath.,1,0,1,0,1,1,20,1991,1,segunda_division
+13,Las Palmas,1,0,1,0,1,1,20,1991,1,segunda_division
+14,Eibar,1,0,1,0,0,0,20,1991,1,segunda_division
+15,Xerez,1,0,1,0,0,0,20,1991,1,segunda_division
+16,Levante,0,0,0,1,1,2,20,1991,1,segunda_division
+17,Sabadell,0,0,0,1,2,3,20,1991,1,segunda_division
+18,Palamós,0,0,0,1,0,2,20,1991,1,segunda_division
+19,UD Salamanca,0,0,0,1,0,2,20,1991,1,segunda_division
+20,Elche,0,0,0,1,0,2,20,1991,1,segunda_division
+1,Deportivo,4,2,0,0,5,0,20,1991,2,segunda_division
+2,Lleida,4,2,0,0,4,2,20,1991,2,segunda_division
+3,Real Murcia,3,1,1,0,3,0,20,1991,2,segunda_division
+4,Sestao Sport Club,3,1,1,0,2,1,20,1991,2,segunda_division
+5,Celta,3,1,1,0,2,1,20,1991,2,segunda_division
+6,CD Málaga,2,0,2,0,2,2,20,1991,2,segunda_division
+7,Orihuela CF,2,1,0,1,3,4,20,1991,2,segunda_division
+8,Palamós,2,1,0,1,4,3,20,1991,2,segunda_division
+9,Albacete,2,1,0,1,2,1,20,1991,2,segunda_division
+10,Bilbao Ath.,2,0,2,0,2,2,20,1991,2,segunda_division
+11,Elche,2,1,0,1,2,2,20,1991,2,segunda_division
+12,UE Figueres,2,1,0,1,2,4,20,1991,2,segunda_division
+13,Las Palmas,2,0,2,0,2,2,20,1991,2,segunda_division
+14,Real Avilés,1,0,1,1,0,2,20,1991,2,segunda_division
+15,Eibar,1,0,1,1,0,1,20,1991,2,segunda_division
+16,Sabadell,1,0,1,1,2,3,20,1991,2,segunda_division
+17,Rayo Vallecano,1,0,1,1,1,4,20,1991,2,segunda_division
+18,Levante,1,0,1,1,1,2,20,1991,2,segunda_division
+19,UD Salamanca,1,0,1,1,1,3,20,1991,2,segunda_division
+20,Xerez,1,0,1,1,0,1,20,1991,2,segunda_division
+1,Deportivo,5,2,1,0,5,0,20,1991,3,segunda_division
+2,Real Murcia,5,2,1,0,5,1,20,1991,3,segunda_division
+3,Lleida,4,2,0,1,4,3,20,1991,3,segunda_division
+4,Orihuela CF,4,2,0,1,4,4,20,1991,3,segunda_division
+5,CD Málaga,4,1,2,0,7,2,20,1991,3,segunda_division
+6,Albacete,4,2,0,1,5,2,20,1991,3,segunda_division
+7,Sestao Sport Club,4,1,2,0,3,2,20,1991,3,segunda_division
+8,Celta,4,1,2,0,2,1,20,1991,3,segunda_division
+9,Elche,4,2,0,1,3,2,20,1991,3,segunda_division
+10,Bilbao Ath.,3,0,3,0,3,3,20,1991,3,segunda_division
+11,Las Palmas,3,0,3,0,2,2,20,1991,3,segunda_division
+12,Real Avilés,2,0,2,1,1,3,20,1991,3,segunda_division
+13,Eibar,2,0,2,1,0,1,20,1991,3,segunda_division
+14,UE Figueres,2,1,0,2,2,5,20,1991,3,segunda_division
+15,UD Salamanca,2,0,2,1,2,4,20,1991,3,segunda_division
+16,Rayo Vallecano,2,0,2,1,2,5,20,1991,3,segunda_division
+17,Palamós,2,1,0,2,4,8,20,1991,3,segunda_division
+18,Xerez,2,0,2,1,1,2,20,1991,3,segunda_division
+19,Sabadell,1,0,1,2,3,5,20,1991,3,segunda_division
+20,Levante,1,0,1,2,2,5,20,1991,3,segunda_division
+1,Real Murcia,7,3,1,0,7,1,20,1991,4,segunda_division
+2,Lleida,6,3,0,1,6,3,20,1991,4,segunda_division
+3,Elche,6,3,0,1,5,2,20,1991,4,segunda_division
+4,Deportivo,5,2,1,1,6,3,20,1991,4,segunda_division
+5,Celta,5,1,3,0,3,2,20,1991,4,segunda_division
+6,Orihuela CF,5,2,1,1,4,4,20,1991,4,segunda_division
+7,Sestao Sport Club,5,1,3,0,4,3,20,1991,4,segunda_division
+8,Bilbao Ath.,5,1,3,0,6,4,20,1991,4,segunda_division
+9,Las Palmas,5,1,3,0,4,2,20,1991,4,segunda_division
+10,CD Málaga,4,1,2,1,7,4,20,1991,4,segunda_division
+11,Albacete,4,2,0,2,5,4,20,1991,4,segunda_division
+12,Palamós,4,2,0,2,7,10,20,1991,4,segunda_division
+13,Eibar,3,0,3,1,2,3,20,1991,4,segunda_division
+14,UE Figueres,3,1,1,2,3,6,20,1991,4,segunda_division
+15,Rayo Vallecano,3,0,3,1,3,6,20,1991,4,segunda_division
+16,UD Salamanca,3,0,3,1,4,6,20,1991,4,segunda_division
+17,Real Avilés,2,0,2,2,1,5,20,1991,4,segunda_division
+18,Xerez,2,0,2,2,3,5,20,1991,4,segunda_division
+19,Levante,2,0,2,2,2,5,20,1991,4,segunda_division
+20,Sabadell,1,0,1,3,3,7,20,1991,4,segunda_division
+1,Real Murcia,9,4,1,0,9,2,20,1991,5,segunda_division
+2,Lleida,7,3,1,1,6,3,20,1991,5,segunda_division
+3,Celta,7,2,3,0,4,2,20,1991,5,segunda_division
+4,Deportivo,6,2,2,1,6,3,20,1991,5,segunda_division
+5,Sestao Sport Club,6,1,4,0,4,3,20,1991,5,segunda_division
+6,CD Málaga,6,2,2,1,11,5,20,1991,5,segunda_division
+7,Albacete,6,3,0,2,7,5,20,1991,5,segunda_division
+8,Bilbao Ath.,6,1,4,0,6,4,20,1991,5,segunda_division
+9,Las Palmas,6,1,4,0,5,3,20,1991,5,segunda_division
+10,Elche,6,3,0,2,6,4,20,1991,5,segunda_division
+11,Orihuela CF,5,2,1,2,5,6,20,1991,5,segunda_division
+12,Eibar,5,1,3,1,3,3,20,1991,5,segunda_division
+13,Palamós,4,2,0,3,7,11,20,1991,5,segunda_division
+14,UE Figueres,4,1,2,2,4,7,20,1991,5,segunda_division
+15,Rayo Vallecano,4,0,4,1,5,8,20,1991,5,segunda_division
+16,Real Avilés,3,0,3,2,1,5,20,1991,5,segunda_division
+17,UD Salamanca,3,0,3,2,4,7,20,1991,5,segunda_division
+18,Xerez,3,0,3,2,3,5,20,1991,5,segunda_division
+19,Sabadell,2,0,2,3,5,9,20,1991,5,segunda_division
+20,Levante,2,0,2,3,3,9,20,1991,5,segunda_division
+1,Real Murcia,10,4,2,0,10,3,20,1991,6,segunda_division
+2,Lleida,9,4,1,1,8,3,20,1991,6,segunda_division
+3,Bilbao Ath.,8,2,4,0,8,4,20,1991,6,segunda_division
+4,Deportivo,8,3,2,1,7,3,20,1991,6,segunda_division
+5,Albacete,7,3,1,2,8,6,20,1991,6,segunda_division
+6,CD Málaga,7,2,3,1,12,6,20,1991,6,segunda_division
+7,Celta,7,2,3,1,6,5,20,1991,6,segunda_division
+8,Orihuela CF,7,3,1,2,6,6,20,1991,6,segunda_division
+9,Las Palmas,7,1,5,0,5,3,20,1991,6,segunda_division
+10,Sestao Sport Club,6,1,4,1,4,4,20,1991,6,segunda_division
+11,Palamós,6,3,0,3,10,13,20,1991,6,segunda_division
+12,Elche,6,3,0,3,6,5,20,1991,6,segunda_division
+13,Rayo Vallecano,5,0,5,1,6,9,20,1991,6,segunda_division
+14,Eibar,5,1,3,2,3,5,20,1991,6,segunda_division
+15,UD Salamanca,5,1,3,2,5,7,20,1991,6,segunda_division
+16,Xerez,5,1,3,2,6,7,20,1991,6,segunda_division
+17,UE Figueres,4,1,2,3,4,9,20,1991,6,segunda_division
+18,Sabadell,3,0,3,3,5,9,20,1991,6,segunda_division
+19,Real Avilés,3,0,3,3,1,6,20,1991,6,segunda_division
+20,Levante,2,0,2,4,5,12,20,1991,6,segunda_division
+1,Real Murcia,11,4,3,0,11,4,20,1991,7,segunda_division
+2,Lleida,10,4,2,1,9,4,20,1991,7,segunda_division
+3,CD Málaga,9,3,3,1,14,6,20,1991,7,segunda_division
+4,Albacete,9,4,1,2,12,7,20,1991,7,segunda_division
+5,Deportivo,8,3,2,2,7,4,20,1991,7,segunda_division
+6,Sestao Sport Club,8,2,4,1,6,4,20,1991,7,segunda_division
+7,Bilbao Ath.,8,2,4,1,8,6,20,1991,7,segunda_division
+8,Celta,8,2,4,1,7,6,20,1991,7,segunda_division
+9,Rayo Vallecano,7,1,5,1,10,11,20,1991,7,segunda_division
+10,Orihuela CF,7,3,1,3,8,10,20,1991,7,segunda_division
+11,Las Palmas,7,1,5,1,6,7,20,1991,7,segunda_division
+12,Eibar,7,2,3,2,6,6,20,1991,7,segunda_division
+13,UD Salamanca,7,2,3,2,9,7,20,1991,7,segunda_division
+14,Palamós,6,3,0,4,10,17,20,1991,7,segunda_division
+15,Elche,6,3,0,4,6,7,20,1991,7,segunda_division
+16,UE Figueres,6,2,2,3,5,9,20,1991,7,segunda_division
+17,Xerez,6,1,4,2,7,8,20,1991,7,segunda_division
+18,Sabadell,5,1,3,3,7,9,20,1991,7,segunda_division
+19,Real Avilés,3,0,3,4,1,8,20,1991,7,segunda_division
+20,Levante,2,0,2,5,6,15,20,1991,7,segunda_division
+1,Real Murcia,13,5,3,0,12,4,20,1991,8,segunda_division
+2,Lleida,12,5,2,1,10,4,20,1991,8,segunda_division
+3,Deportivo,10,4,2,2,11,6,20,1991,8,segunda_division
+4,CD Málaga,10,3,4,1,15,7,20,1991,8,segunda_division
+5,Bilbao Ath.,10,3,4,1,10,6,20,1991,8,segunda_division
+6,Albacete,9,4,1,3,12,9,20,1991,8,segunda_division
+7,Sestao Sport Club,9,2,5,1,7,5,20,1991,8,segunda_division
+8,Celta,9,2,5,1,8,7,20,1991,8,segunda_division
+9,Rayo Vallecano,8,1,6,1,11,12,20,1991,8,segunda_division
+10,Orihuela CF,8,3,2,3,8,10,20,1991,8,segunda_division
+11,Elche,8,4,0,4,7,7,20,1991,8,segunda_division
+12,Las Palmas,8,1,6,1,6,7,20,1991,8,segunda_division
+13,Eibar,7,2,3,3,6,7,20,1991,8,segunda_division
+14,UD Salamanca,7,2,3,3,9,8,20,1991,8,segunda_division
+15,UE Figueres,7,2,3,3,5,9,20,1991,8,segunda_division
+16,Palamós,7,3,1,4,11,18,20,1991,8,segunda_division
+17,Xerez,6,1,4,3,7,9,20,1991,8,segunda_division
+18,Sabadell,5,1,3,4,9,13,20,1991,8,segunda_division
+19,Real Avilés,4,0,4,4,1,8,20,1991,8,segunda_division
+20,Levante,3,0,3,5,7,16,20,1991,8,segunda_division
+1,Real Murcia,15,6,3,0,14,4,20,1991,9,segunda_division
+2,Lleida,12,5,2,2,10,5,20,1991,9,segunda_division
+3,CD Málaga,11,3,5,1,16,8,20,1991,9,segunda_division
+4,Albacete,11,5,1,3,14,10,20,1991,9,segunda_division
+5,Deportivo,10,4,2,3,12,8,20,1991,9,segunda_division
+6,Orihuela CF,10,4,2,3,11,11,20,1991,9,segunda_division
+7,Sestao Sport Club,10,2,6,1,7,5,20,1991,9,segunda_division
+8,Bilbao Ath.,10,3,4,2,11,9,20,1991,9,segunda_division
+9,Palamós,9,4,1,4,12,18,20,1991,9,segunda_division
+10,Rayo Vallecano,9,1,7,1,13,14,20,1991,9,segunda_division
+11,Celta,9,2,5,2,8,9,20,1991,9,segunda_division
+12,Elche,9,4,1,4,8,8,20,1991,9,segunda_division
+13,Las Palmas,9,1,7,1,7,8,20,1991,9,segunda_division
+14,Eibar,8,2,4,3,7,8,20,1991,9,segunda_division
+15,UE Figueres,8,2,4,3,5,9,20,1991,9,segunda_division
+16,UD Salamanca,8,2,4,3,9,8,20,1991,9,segunda_division
+17,Sabadell,7,2,3,4,10,13,20,1991,9,segunda_division
+18,Xerez,7,1,5,3,9,11,20,1991,9,segunda_division
+19,Real Avilés,4,0,4,5,1,9,20,1991,9,segunda_division
+20,Levante,4,0,4,5,7,16,20,1991,9,segunda_division
+1,Real Murcia,17,7,3,0,16,5,20,1991,10,segunda_division
+2,Lleida,13,5,3,2,11,6,20,1991,10,segunda_division
+3,CD Málaga,13,4,5,1,18,9,20,1991,10,segunda_division
+4,Albacete,13,6,1,3,16,11,20,1991,10,segunda_division
+5,Deportivo,12,5,2,3,13,8,20,1991,10,segunda_division
+6,Sestao Sport Club,11,2,7,1,8,6,20,1991,10,segunda_division
+7,Celta,11,3,5,2,9,9,20,1991,10,segunda_division
+8,Las Palmas,11,2,7,1,10,9,20,1991,10,segunda_division
+9,UE Figueres,10,3,4,3,8,9,20,1991,10,segunda_division
+10,Palamós,10,4,2,4,12,18,20,1991,10,segunda_division
+11,Rayo Vallecano,10,1,8,1,13,14,20,1991,10,segunda_division
+12,Bilbao Ath.,10,3,4,3,12,11,20,1991,10,segunda_division
+13,Orihuela CF,10,4,2,4,11,12,20,1991,10,segunda_division
+14,Elche,9,4,1,5,8,9,20,1991,10,segunda_division
+15,Eibar,9,2,5,3,7,8,20,1991,10,segunda_division
+16,UD Salamanca,8,2,4,4,10,10,20,1991,10,segunda_division
+17,Sabadell,7,2,3,5,10,16,20,1991,10,segunda_division
+18,Xerez,7,1,5,4,10,14,20,1991,10,segunda_division
+19,Levante,5,0,5,5,7,16,20,1991,10,segunda_division
+20,Real Avilés,4,0,4,6,2,11,20,1991,10,segunda_division
+1,Real Murcia,19,8,3,0,17,5,20,1991,11,segunda_division
+2,Albacete,15,7,1,3,21,12,20,1991,11,segunda_division
+3,Lleida,15,6,3,2,13,7,20,1991,11,segunda_division
+4,Deportivo,14,6,2,3,15,9,20,1991,11,segunda_division
+5,CD Málaga,13,4,5,2,19,11,20,1991,11,segunda_division
+6,Celta,12,3,6,2,11,11,20,1991,11,segunda_division
+7,Orihuela CF,12,5,2,4,15,12,20,1991,11,segunda_division
+8,Sestao Sport Club,12,2,8,1,8,6,20,1991,11,segunda_division
+9,Las Palmas,12,2,8,1,12,11,20,1991,11,segunda_division
+10,Rayo Vallecano,11,1,9,1,15,16,20,1991,11,segunda_division
+11,Bilbao Ath.,10,3,4,4,12,12,20,1991,11,segunda_division
+12,Palamós,10,4,2,5,12,19,20,1991,11,segunda_division
+13,Elche,10,4,2,5,10,11,20,1991,11,segunda_division
+14,Eibar,10,2,6,3,9,10,20,1991,11,segunda_division
+15,UE Figueres,10,3,4,4,9,14,20,1991,11,segunda_division
+16,UD Salamanca,9,2,5,4,12,12,20,1991,11,segunda_division
+17,Xerez,9,2,5,4,11,14,20,1991,11,segunda_division
+18,Sabadell,8,2,4,5,10,16,20,1991,11,segunda_division
+19,Levante,5,0,5,6,8,18,20,1991,11,segunda_division
+20,Real Avilés,4,0,4,7,2,15,20,1991,11,segunda_division
+1,Real Murcia,21,9,3,0,18,5,20,1991,12,segunda_division
+2,Albacete,17,8,1,3,25,12,20,1991,12,segunda_division
+3,Deportivo,16,7,2,3,17,9,20,1991,12,segunda_division
+4,Lleida,15,6,3,3,13,8,20,1991,12,segunda_division
+5,CD Málaga,14,4,6,2,22,14,20,1991,12,segunda_division
+6,Rayo Vallecano,13,2,9,1,17,16,20,1991,12,segunda_division
+7,Celta,13,3,7,2,12,12,20,1991,12,segunda_division
+8,Orihuela CF,13,5,3,4,16,13,20,1991,12,segunda_division
+9,Las Palmas,13,2,9,1,13,12,20,1991,12,segunda_division
+10,Sestao Sport Club,12,2,8,2,8,7,20,1991,12,segunda_division
+11,Palamós,12,5,2,5,16,20,20,1991,12,segunda_division
+12,Bilbao Ath.,11,3,5,4,13,13,20,1991,12,segunda_division
+13,UE Figueres,11,3,5,4,10,15,20,1991,12,segunda_division
+14,Eibar,11,2,7,3,10,11,20,1991,12,segunda_division
+15,Elche,10,4,2,6,11,15,20,1991,12,segunda_division
+16,UD Salamanca,9,2,5,5,12,14,20,1991,12,segunda_division
+17,Xerez,9,2,5,5,11,16,20,1991,12,segunda_division
+18,Sabadell,8,2,4,6,10,20,20,1991,12,segunda_division
+19,Levante,7,1,5,6,9,18,20,1991,12,segunda_division
+20,Real Avilés,5,0,5,7,5,18,20,1991,12,segunda_division
+1,Real Murcia,22,9,4,0,19,6,20,1991,13,segunda_division
+2,Albacete,18,8,2,3,25,12,20,1991,13,segunda_division
+3,Deportivo,17,7,3,3,19,11,20,1991,13,segunda_division
+4,Lleida,17,7,3,3,15,8,20,1991,13,segunda_division
+5,CD Málaga,15,4,7,2,22,14,20,1991,13,segunda_division
+6,Rayo Vallecano,14,2,10,1,18,17,20,1991,13,segunda_division
+7,Celta,14,3,8,2,13,13,20,1991,13,segunda_division
+8,Orihuela CF,14,5,4,4,17,14,20,1991,13,segunda_division
+9,Sestao Sport Club,13,2,9,2,8,7,20,1991,13,segunda_division
+10,Palamós,13,5,3,5,17,21,20,1991,13,segunda_division
+11,Las Palmas,13,2,9,2,14,16,20,1991,13,segunda_division
+12,Bilbao Ath.,12,3,6,4,14,14,20,1991,13,segunda_division
+13,UE Figueres,12,3,6,4,10,15,20,1991,13,segunda_division
+14,Eibar,12,2,8,3,12,13,20,1991,13,segunda_division
+15,UD Salamanca,11,3,5,5,16,15,20,1991,13,segunda_division
+16,Elche,10,4,2,7,11,17,20,1991,13,segunda_division
+17,Sabadell,9,2,5,6,11,21,20,1991,13,segunda_division
+18,Xerez,9,2,5,6,12,18,20,1991,13,segunda_division
+19,Levante,8,1,6,6,10,19,20,1991,13,segunda_division
+20,Real Avilés,7,1,5,7,7,19,20,1991,13,segunda_division
+1,Real Murcia,24,10,4,0,22,7,20,1991,14,segunda_division
+2,Deportivo,19,8,3,3,22,11,20,1991,14,segunda_division
+3,Albacete,19,8,3,3,25,12,20,1991,14,segunda_division
+4,Lleida,19,8,3,3,19,9,20,1991,14,segunda_division
+5,CD Málaga,15,4,7,3,22,15,20,1991,14,segunda_division
+6,Orihuela CF,15,5,5,4,17,14,20,1991,14,segunda_division
+7,Palamós,14,5,4,5,18,22,20,1991,14,segunda_division
+8,UE Figueres,14,4,6,4,13,16,20,1991,14,segunda_division
+9,Rayo Vallecano,14,2,10,2,19,21,20,1991,14,segunda_division
+10,Celta,14,3,8,3,13,16,20,1991,14,segunda_division
+11,Las Palmas,14,2,10,2,15,17,20,1991,14,segunda_division
+12,Sestao Sport Club,13,2,9,3,9,10,20,1991,14,segunda_division
+13,Bilbao Ath.,13,3,7,4,15,15,20,1991,14,segunda_division
+14,Eibar,12,2,8,4,13,15,20,1991,14,segunda_division
+15,UD Salamanca,12,3,6,5,17,16,20,1991,14,segunda_division
+16,Elche,11,4,3,7,11,17,20,1991,14,segunda_division
+17,Sabadell,11,3,5,6,12,21,20,1991,14,segunda_division
+18,Real Avilés,9,2,5,7,9,20,20,1991,14,segunda_division
+19,Xerez,9,2,5,7,13,21,20,1991,14,segunda_division
+20,Levante,9,1,7,6,10,19,20,1991,14,segunda_division
+1,Real Murcia,26,11,4,0,24,8,20,1991,15,segunda_division
+2,Lleida,20,8,4,3,20,10,20,1991,15,segunda_division
+3,Albacete,19,8,3,4,27,15,20,1991,15,segunda_division
+4,Deportivo,19,8,3,4,22,12,20,1991,15,segunda_division
+5,CD Málaga,17,5,7,3,25,17,20,1991,15,segunda_division
+6,Orihuela CF,16,5,6,4,18,15,20,1991,15,segunda_division
+7,Palamós,15,5,5,5,18,22,20,1991,15,segunda_division
+8,UE Figueres,15,4,7,4,13,16,20,1991,15,segunda_division
+9,Rayo Vallecano,15,2,11,2,19,21,20,1991,15,segunda_division
+10,Celta,15,3,9,3,13,16,20,1991,15,segunda_division
+11,Las Palmas,15,2,11,2,16,18,20,1991,15,segunda_division
+12,UD Salamanca,14,4,6,5,18,16,20,1991,15,segunda_division
+13,Sestao Sport Club,14,2,10,3,10,11,20,1991,15,segunda_division
+14,Bilbao Ath.,14,3,8,4,15,15,20,1991,15,segunda_division
+15,Eibar,13,2,9,4,13,15,20,1991,15,segunda_division
+16,Sabadell,13,4,5,6,14,22,20,1991,15,segunda_division
+17,Elche,11,4,3,8,12,19,20,1991,15,segunda_division
+18,Levante,10,1,8,6,10,19,20,1991,15,segunda_division
+19,Real Avilés,10,2,6,7,9,20,20,1991,15,segunda_division
+20,Xerez,9,2,5,8,14,23,20,1991,15,segunda_division
+1,Real Murcia,26,11,4,1,24,10,20,1991,16,segunda_division
+2,Deportivo,21,9,3,4,25,12,20,1991,16,segunda_division
+3,Albacete,20,8,4,4,27,15,20,1991,16,segunda_division
+4,Lleida,20,8,4,4,20,11,20,1991,16,segunda_division
+5,CD Málaga,18,5,8,3,26,18,20,1991,16,segunda_division
+6,UE Figueres,17,5,7,4,14,16,20,1991,16,segunda_division
+7,Rayo Vallecano,17,3,11,2,21,21,20,1991,16,segunda_division
+8,Orihuela CF,17,5,7,4,19,16,20,1991,16,segunda_division
+9,Las Palmas,17,3,11,2,17,18,20,1991,16,segunda_division
+10,Bilbao Ath.,16,4,8,4,16,15,20,1991,16,segunda_division
+11,Sestao Sport Club,15,2,11,3,11,12,20,1991,16,segunda_division
+12,UD Salamanca,15,4,7,5,19,17,20,1991,16,segunda_division
+13,Celta,15,3,9,4,13,17,20,1991,16,segunda_division
+14,Eibar,15,3,9,4,15,16,20,1991,16,segunda_division
+15,Palamós,15,5,5,6,18,25,20,1991,16,segunda_division
+16,Sabadell,13,4,5,7,15,24,20,1991,16,segunda_division
+17,Elche,12,4,4,8,13,20,20,1991,16,segunda_division
+18,Real Avilés,11,2,7,7,10,21,20,1991,16,segunda_division
+19,Xerez,10,2,6,8,14,23,20,1991,16,segunda_division
+20,Levante,10,1,8,7,10,20,20,1991,16,segunda_division
+1,Real Murcia,28,12,4,1,26,11,20,1991,17,segunda_division
+2,Albacete,22,9,4,4,30,15,20,1991,17,segunda_division
+3,Lleida,22,9,4,4,22,12,20,1991,17,segunda_division
+4,Deportivo,21,9,3,5,26,14,20,1991,17,segunda_division
+5,Rayo Vallecano,19,4,11,2,24,22,20,1991,17,segunda_division
+6,CD Málaga,18,5,8,4,26,20,20,1991,17,segunda_division
+7,Orihuela CF,17,5,7,5,20,20,20,1991,17,segunda_division
+8,UE Figueres,17,5,7,5,14,18,20,1991,17,segunda_division
+9,UD Salamanca,17,5,7,5,21,17,20,1991,17,segunda_division
+10,Sestao Sport Club,17,3,11,3,13,12,20,1991,17,segunda_division
+11,Bilbao Ath.,17,4,9,4,17,16,20,1991,17,segunda_division
+12,Las Palmas,17,3,11,3,18,20,20,1991,17,segunda_division
+13,Celta,16,3,10,4,13,17,20,1991,17,segunda_division
+14,Eibar,15,3,9,5,15,19,20,1991,17,segunda_division
+15,Palamós,15,5,5,7,18,26,20,1991,17,segunda_division
+16,Sabadell,14,4,6,7,15,24,20,1991,17,segunda_division
+17,Real Avilés,13,3,7,7,11,21,20,1991,17,segunda_division
+18,Elche,12,4,4,9,14,23,20,1991,17,segunda_division
+19,Xerez,12,3,6,8,18,24,20,1991,17,segunda_division
+20,Levante,11,1,9,7,11,21,20,1991,17,segunda_division
+1,Real Murcia,28,12,4,2,27,13,20,1991,18,segunda_division
+2,Albacete,24,10,4,4,32,15,20,1991,18,segunda_division
+3,Deportivo,23,10,3,5,31,14,20,1991,18,segunda_division
+4,Lleida,22,9,4,5,22,13,20,1991,18,segunda_division
+5,CD Málaga,20,6,8,4,29,20,20,1991,18,segunda_division
+6,Rayo Vallecano,19,4,11,3,25,24,20,1991,18,segunda_division
+7,Orihuela CF,19,6,7,5,21,20,20,1991,18,segunda_division
+8,Sestao Sport Club,19,4,11,3,15,13,20,1991,18,segunda_division
+9,Bilbao Ath.,19,5,9,4,19,17,20,1991,18,segunda_division
+10,UE Figueres,18,5,8,5,14,18,20,1991,18,segunda_division
+11,UD Salamanca,17,5,7,6,21,18,20,1991,18,segunda_division
+12,Las Palmas,17,3,11,4,18,21,20,1991,18,segunda_division
+13,Palamós,16,5,6,7,18,26,20,1991,18,segunda_division
+14,Sabadell,16,5,6,7,16,24,20,1991,18,segunda_division
+15,Celta,16,3,10,5,13,19,20,1991,18,segunda_division
+16,Real Avilés,15,4,7,7,12,21,20,1991,18,segunda_division
+17,Eibar,15,3,9,6,15,20,20,1991,18,segunda_division
+18,Elche,14,5,4,9,15,23,20,1991,18,segunda_division
+19,Xerez,12,3,6,9,18,27,20,1991,18,segunda_division
+20,Levante,11,1,9,8,11,26,20,1991,18,segunda_division
+1,Real Murcia,30,13,4,2,30,15,20,1991,19,segunda_division
+2,Albacete,26,11,4,4,33,15,20,1991,19,segunda_division
+3,Deportivo,23,10,3,6,33,17,20,1991,19,segunda_division
+4,Lleida,23,9,5,5,23,14,20,1991,19,segunda_division
+5,Rayo Vallecano,21,5,11,3,29,24,20,1991,19,segunda_division
+6,Sestao Sport Club,20,4,12,3,15,13,20,1991,19,segunda_division
+7,CD Málaga,20,6,8,5,29,21,20,1991,19,segunda_division
+8,Orihuela CF,19,6,7,6,21,22,20,1991,19,segunda_division
+9,UE Figueres,19,5,9,5,15,19,20,1991,19,segunda_division
+10,Bilbao Ath.,19,5,9,5,19,23,20,1991,19,segunda_division
+11,Celta,18,4,10,5,15,19,20,1991,19,segunda_division
+12,Eibar,17,4,9,6,16,20,20,1991,19,segunda_division
+13,Las Palmas,17,3,11,5,18,25,20,1991,19,segunda_division
+14,Sabadell,17,5,7,7,16,24,20,1991,19,segunda_division
+15,UD Salamanca,17,5,7,7,21,19,20,1991,19,segunda_division
+16,Palamós,17,5,7,7,18,26,20,1991,19,segunda_division
+17,Elche,16,6,4,9,21,23,20,1991,19,segunda_division
+18,Real Avilés,16,4,8,7,12,21,20,1991,19,segunda_division
+19,Xerez,13,3,7,9,18,27,20,1991,19,segunda_division
+20,Levante,12,1,10,8,11,26,20,1991,19,segunda_division
+1,Real Murcia,31,13,5,2,31,16,20,1991,20,segunda_division
+2,Albacete,27,11,5,4,34,16,20,1991,20,segunda_division
+3,Deportivo,24,10,4,6,33,17,20,1991,20,segunda_division
+4,Lleida,23,9,5,6,23,15,20,1991,20,segunda_division
+5,Rayo Vallecano,22,5,12,3,29,24,20,1991,20,segunda_division
+6,Sestao Sport Club,22,5,12,3,16,13,20,1991,20,segunda_division
+7,CD Málaga,21,6,9,5,29,21,20,1991,20,segunda_division
+8,Orihuela CF,21,7,7,6,23,22,20,1991,20,segunda_division
+9,UE Figueres,21,6,9,5,16,19,20,1991,20,segunda_division
+10,Bilbao Ath.,20,5,10,5,19,23,20,1991,20,segunda_division
+11,Sabadell,19,6,7,7,17,24,20,1991,20,segunda_division
+12,Celta,19,4,11,5,15,19,20,1991,20,segunda_division
+13,Eibar,18,4,10,6,17,21,20,1991,20,segunda_division
+14,Palamós,18,5,8,7,19,27,20,1991,20,segunda_division
+15,Elche,17,6,5,9,21,23,20,1991,20,segunda_division
+16,UD Salamanca,17,5,7,8,21,21,20,1991,20,segunda_division
+17,Real Avilés,17,4,9,7,13,22,20,1991,20,segunda_division
+18,Las Palmas,17,3,11,6,18,26,20,1991,20,segunda_division
+19,Xerez,14,3,8,9,19,28,20,1991,20,segunda_division
+20,Levante,12,1,10,9,11,27,20,1991,20,segunda_division
+1,Real Murcia,31,13,5,3,32,18,20,1991,21,segunda_division
+2,Albacete,29,12,5,4,36,16,20,1991,21,segunda_division
+3,Deportivo,26,11,4,6,36,17,20,1991,21,segunda_division
+4,Lleida,23,9,5,7,23,17,20,1991,21,segunda_division
+5,Orihuela CF,23,8,7,6,24,22,20,1991,21,segunda_division
+6,CD Málaga,23,7,9,5,30,21,20,1991,21,segunda_division
+7,UE Figueres,23,7,9,5,18,20,20,1991,21,segunda_division
+8,Sestao Sport Club,23,5,13,3,16,13,20,1991,21,segunda_division
+9,Rayo Vallecano,22,5,12,4,29,27,20,1991,21,segunda_division
+10,Bilbao Ath.,22,6,10,5,21,24,20,1991,21,segunda_division
+11,Sabadell,20,6,8,7,18,25,20,1991,21,segunda_division
+12,Celta,20,4,12,5,16,20,20,1991,21,segunda_division
+13,Real Avilés,19,5,9,7,16,24,20,1991,21,segunda_division
+14,Eibar,19,4,11,6,17,21,20,1991,21,segunda_division
+15,Palamós,18,5,8,8,19,28,20,1991,21,segunda_division
+16,Elche,17,6,5,10,23,26,20,1991,21,segunda_division
+17,UD Salamanca,17,5,7,9,21,22,20,1991,21,segunda_division
+18,Las Palmas,17,3,11,7,19,28,20,1991,21,segunda_division
+19,Xerez,15,3,9,9,20,29,20,1991,21,segunda_division
+20,Levante,13,1,11,9,12,28,20,1991,21,segunda_division
+1,Real Murcia,33,14,5,3,36,18,20,1991,22,segunda_division
+2,Albacete,31,13,5,4,38,16,20,1991,22,segunda_division
+3,Deportivo,26,11,4,7,37,19,20,1991,22,segunda_division
+4,Sestao Sport Club,25,6,13,3,18,13,20,1991,22,segunda_division
+5,Orihuela CF,24,8,8,6,26,24,20,1991,22,segunda_division
+6,Lleida,24,9,6,7,25,19,20,1991,22,segunda_division
+7,CD Málaga,24,7,10,5,30,21,20,1991,22,segunda_division
+8,UE Figueres,23,7,9,6,19,22,20,1991,22,segunda_division
+9,Rayo Vallecano,22,5,12,5,29,29,20,1991,22,segunda_division
+10,Bilbao Ath.,22,6,10,6,21,26,20,1991,22,segunda_division
+11,Celta,22,5,12,5,18,21,20,1991,22,segunda_division
+12,Real Avilés,21,6,9,7,18,24,20,1991,22,segunda_division
+13,Sabadell,20,6,8,8,18,29,20,1991,22,segunda_division
+14,Eibar,19,4,11,7,18,23,20,1991,22,segunda_division
+15,UD Salamanca,19,6,7,9,24,22,20,1991,22,segunda_division
+16,Palamós,19,5,9,8,19,28,20,1991,22,segunda_division
+17,Elche,19,7,5,10,25,27,20,1991,22,segunda_division
+18,Las Palmas,19,4,11,7,21,29,20,1991,22,segunda_division
+19,Xerez,15,3,9,10,20,32,20,1991,22,segunda_division
+20,Levante,13,1,11,10,12,30,20,1991,22,segunda_division
+1,Real Murcia,34,14,6,3,38,20,20,1991,23,segunda_division
+2,Albacete,32,13,6,4,40,18,20,1991,23,segunda_division
+3,Deportivo,28,12,4,7,39,20,20,1991,23,segunda_division
+4,Orihuela CF,26,9,8,6,29,24,20,1991,23,segunda_division
+5,Lleida,26,10,6,7,26,19,20,1991,23,segunda_division
+6,Sestao Sport Club,26,6,14,3,18,13,20,1991,23,segunda_division
+7,UE Figueres,25,8,9,6,21,22,20,1991,23,segunda_division
+8,CD Málaga,24,7,10,6,30,22,20,1991,23,segunda_division
+9,Celta,23,5,13,5,18,21,20,1991,23,segunda_division
+10,Real Avilés,23,7,9,7,20,24,20,1991,23,segunda_division
+11,Rayo Vallecano,22,5,12,6,29,31,20,1991,23,segunda_division
+12,Bilbao Ath.,22,6,10,7,22,28,20,1991,23,segunda_division
+13,Elche,21,8,5,10,27,27,20,1991,23,segunda_division
+14,Eibar,21,5,11,7,20,23,20,1991,23,segunda_division
+15,Sabadell,20,6,8,9,18,31,20,1991,23,segunda_division
+16,UD Salamanca,19,6,7,10,24,24,20,1991,23,segunda_division
+17,Palamós,19,5,9,9,19,31,20,1991,23,segunda_division
+18,Las Palmas,19,4,11,8,21,31,20,1991,23,segunda_division
+19,Xerez,17,4,9,10,23,32,20,1991,23,segunda_division
+20,Levante,13,1,11,11,12,33,20,1991,23,segunda_division
+1,Real Murcia,36,15,6,3,41,20,20,1991,24,segunda_division
+2,Albacete,32,13,6,5,40,20,20,1991,24,segunda_division
+3,Deportivo,30,13,4,7,40,20,20,1991,24,segunda_division
+4,Lleida,28,11,6,7,29,20,20,1991,24,segunda_division
+5,UE Figueres,27,9,9,6,23,22,20,1991,24,segunda_division
+6,Orihuela CF,26,9,8,7,29,27,20,1991,24,segunda_division
+7,CD Málaga,26,8,10,6,33,23,20,1991,24,segunda_division
+8,Sestao Sport Club,26,6,14,4,18,14,20,1991,24,segunda_division
+9,Celta,24,5,14,5,19,22,20,1991,24,segunda_division
+10,Bilbao Ath.,24,7,10,7,24,28,20,1991,24,segunda_division
+11,Real Avilés,23,7,9,8,20,26,20,1991,24,segunda_division
+12,Elche,23,9,5,10,29,27,20,1991,24,segunda_division
+13,Rayo Vallecano,23,5,13,6,29,31,20,1991,24,segunda_division
+14,Eibar,22,5,12,7,21,24,20,1991,24,segunda_division
+15,Sabadell,21,6,9,9,18,31,20,1991,24,segunda_division
+16,UD Salamanca,20,6,8,10,25,25,20,1991,24,segunda_division
+17,Palamós,20,5,10,9,20,32,20,1991,24,segunda_division
+18,Las Palmas,19,4,11,9,21,33,20,1991,24,segunda_division
+19,Xerez,17,4,9,11,24,35,20,1991,24,segunda_division
+20,Levante,13,1,11,12,13,36,20,1991,24,segunda_division
+1,Real Murcia,37,15,7,3,42,21,20,1991,25,segunda_division
+2,Albacete,33,13,7,5,41,21,20,1991,25,segunda_division
+3,Deportivo,31,13,5,7,41,21,20,1991,25,segunda_division
+4,UE Figueres,29,10,9,6,28,23,20,1991,25,segunda_division
+5,Orihuela CF,28,10,8,7,32,27,20,1991,25,segunda_division
+6,Lleida,28,11,6,8,29,23,20,1991,25,segunda_division
+7,Sestao Sport Club,27,6,15,4,19,15,20,1991,25,segunda_division
+8,CD Málaga,27,8,11,6,34,24,20,1991,25,segunda_division
+9,Bilbao Ath.,24,7,10,8,25,33,20,1991,25,segunda_division
+10,Real Avilés,24,7,10,8,21,27,20,1991,25,segunda_division
+11,Rayo Vallecano,24,5,14,6,30,32,20,1991,25,segunda_division
+12,Celta,24,5,14,6,20,24,20,1991,25,segunda_division
+13,Eibar,24,6,12,7,24,24,20,1991,25,segunda_division
+14,Elche,23,9,5,11,29,30,20,1991,25,segunda_division
+15,Palamós,22,6,10,9,22,33,20,1991,25,segunda_division
+16,Sabadell,22,6,10,9,18,31,20,1991,25,segunda_division
+17,UD Salamanca,21,6,9,10,26,26,20,1991,25,segunda_division
+18,Las Palmas,20,4,12,9,21,33,20,1991,25,segunda_division
+19,Xerez,19,5,9,11,26,35,20,1991,25,segunda_division
+20,Levante,13,1,11,13,13,38,20,1991,25,segunda_division
+1,Real Murcia,38,15,8,3,42,21,20,1991,26,segunda_division
+2,Albacete,35,14,7,5,42,21,20,1991,26,segunda_division
+3,Deportivo,33,14,5,7,43,22,20,1991,26,segunda_division
+4,Lleida,30,12,6,8,31,24,20,1991,26,segunda_division
+5,CD Málaga,29,9,11,6,35,24,20,1991,26,segunda_division
+6,Orihuela CF,29,10,9,7,32,27,20,1991,26,segunda_division
+7,UE Figueres,29,10,9,7,29,25,20,1991,26,segunda_division
+8,Sestao Sport Club,28,6,16,4,20,16,20,1991,26,segunda_division
+9,Bilbao Ath.,26,8,10,8,26,33,20,1991,26,segunda_division
+10,Real Avilés,25,7,11,8,22,28,20,1991,26,segunda_division
+11,Eibar,25,6,13,7,24,24,20,1991,26,segunda_division
+12,Rayo Vallecano,25,5,15,6,30,32,20,1991,26,segunda_division
+13,Celta,24,5,14,7,21,26,20,1991,26,segunda_division
+14,UD Salamanca,23,7,9,10,29,26,20,1991,26,segunda_division
+15,Elche,23,9,5,12,29,31,20,1991,26,segunda_division
+16,Palamós,22,6,10,10,22,36,20,1991,26,segunda_division
+17,Sabadell,22,6,10,10,18,32,20,1991,26,segunda_division
+18,Las Palmas,20,4,12,10,21,34,20,1991,26,segunda_division
+19,Xerez,20,5,10,11,26,35,20,1991,26,segunda_division
+20,Levante,14,1,12,13,13,38,20,1991,26,segunda_division
+1,Real Murcia,38,15,8,4,42,22,20,1991,27,segunda_division
+2,Albacete,36,14,8,5,43,22,20,1991,27,segunda_division
+3,Deportivo,33,14,5,8,43,23,20,1991,27,segunda_division
+4,Lleida,31,12,7,8,32,25,20,1991,27,segunda_division
+5,CD Málaga,31,10,11,6,36,24,20,1991,27,segunda_division
+6,Orihuela CF,30,10,10,7,34,29,20,1991,27,segunda_division
+7,Sestao Sport Club,30,7,16,4,21,16,20,1991,27,segunda_division
+8,UE Figueres,29,10,9,8,29,27,20,1991,27,segunda_division
+9,Bilbao Ath.,27,8,11,8,27,34,20,1991,27,segunda_division
+10,Real Avilés,27,8,11,8,24,28,20,1991,27,segunda_division
+11,Eibar,27,7,13,7,25,24,20,1991,27,segunda_division
+12,Celta,26,6,14,7,23,27,20,1991,27,segunda_division
+13,Rayo Vallecano,25,5,15,7,30,33,20,1991,27,segunda_division
+14,Elche,25,10,5,12,31,32,20,1991,27,segunda_division
+15,Sabadell,24,7,10,10,19,32,20,1991,27,segunda_division
+16,UD Salamanca,24,7,10,10,30,27,20,1991,27,segunda_division
+17,Palamós,22,6,10,11,22,37,20,1991,27,segunda_division
+18,Las Palmas,21,4,13,10,23,36,20,1991,27,segunda_division
+19,Xerez,20,5,10,12,27,37,20,1991,27,segunda_division
+20,Levante,14,1,12,14,14,40,20,1991,27,segunda_division
+1,Real Murcia,39,15,9,4,43,23,20,1991,28,segunda_division
+2,Albacete,36,14,8,6,44,24,20,1991,28,segunda_division
+3,Deportivo,35,15,5,8,45,24,20,1991,28,segunda_division
+4,Lleida,32,12,8,8,32,25,20,1991,28,segunda_division
+5,CD Málaga,31,10,11,7,36,27,20,1991,28,segunda_division
+6,Orihuela CF,31,10,11,7,35,30,20,1991,28,segunda_division
+7,UE Figueres,31,11,9,8,31,27,20,1991,28,segunda_division
+8,Sestao Sport Club,30,7,16,5,21,18,20,1991,28,segunda_division
+9,Real Avilés,29,9,11,8,25,28,20,1991,28,segunda_division
+10,Bilbao Ath.,28,8,12,8,28,35,20,1991,28,segunda_division
+11,Eibar,28,7,14,7,25,24,20,1991,28,segunda_division
+12,Rayo Vallecano,27,6,15,7,31,33,20,1991,28,segunda_division
+13,Celta,27,6,15,7,24,28,20,1991,28,segunda_division
+14,Elche,26,10,6,12,31,32,20,1991,28,segunda_division
+15,Sabadell,24,7,10,11,19,33,20,1991,28,segunda_division
+16,UD Salamanca,24,7,10,11,30,28,20,1991,28,segunda_division
+17,Palamós,23,6,11,11,22,37,20,1991,28,segunda_division
+18,Las Palmas,23,5,13,10,26,36,20,1991,28,segunda_division
+19,Xerez,20,5,10,13,27,38,20,1991,28,segunda_division
+20,Levante,16,2,12,14,15,40,20,1991,28,segunda_division
+1,Real Murcia,39,15,9,5,43,26,20,1991,29,segunda_division
+2,Albacete,37,14,9,6,44,24,20,1991,29,segunda_division
+3,Deportivo,36,15,6,8,45,24,20,1991,29,segunda_division
+4,Lleida,33,12,9,8,33,26,20,1991,29,segunda_division
+5,CD Málaga,33,11,11,7,37,27,20,1991,29,segunda_division
+6,Orihuela CF,32,10,12,7,35,30,20,1991,29,segunda_division
+7,UE Figueres,31,11,9,9,32,29,20,1991,29,segunda_division
+8,Sestao Sport Club,31,7,17,5,22,19,20,1991,29,segunda_division
+9,Real Avilés,30,9,12,8,25,28,20,1991,29,segunda_division
+10,Eibar,29,7,15,7,26,25,20,1991,29,segunda_division
+11,Rayo Vallecano,28,6,16,7,32,34,20,1991,29,segunda_division
+12,Bilbao Ath.,28,8,12,9,28,36,20,1991,29,segunda_division
+13,Celta,28,6,16,7,25,29,20,1991,29,segunda_division
+14,Elche,27,10,7,12,32,33,20,1991,29,segunda_division
+15,Sabadell,26,8,10,11,21,34,20,1991,29,segunda_division
+16,UD Salamanca,26,8,10,11,33,28,20,1991,29,segunda_division
+17,Palamós,24,6,12,11,22,37,20,1991,29,segunda_division
+18,Las Palmas,24,5,14,10,26,36,20,1991,29,segunda_division
+19,Xerez,21,5,11,13,27,38,20,1991,29,segunda_division
+20,Levante,17,2,13,14,15,40,20,1991,29,segunda_division
+1,Real Murcia,40,15,10,5,44,27,20,1991,30,segunda_division
+2,Deportivo,38,16,6,8,46,24,20,1991,30,segunda_division
+3,Albacete,37,14,9,7,45,27,20,1991,30,segunda_division
+4,Lleida,33,12,9,9,33,28,20,1991,30,segunda_division
+5,Orihuela CF,33,10,13,7,36,31,20,1991,30,segunda_division
+6,CD Málaga,33,11,11,8,37,28,20,1991,30,segunda_division
+7,UE Figueres,33,12,9,9,35,30,20,1991,30,segunda_division
+8,Sestao Sport Club,32,7,18,5,23,20,20,1991,30,segunda_division
+9,Real Avilés,31,9,13,8,26,29,20,1991,30,segunda_division
+10,Rayo Vallecano,30,7,16,7,34,35,20,1991,30,segunda_division
+11,Bilbao Ath.,29,8,13,9,28,36,20,1991,30,segunda_division
+12,Eibar,29,7,15,8,26,26,20,1991,30,segunda_division
+13,Celta,28,6,16,8,26,31,20,1991,30,segunda_division
+14,Elche,28,10,8,12,32,33,20,1991,30,segunda_division
+15,Sabadell,27,8,11,11,22,35,20,1991,30,segunda_division
+16,UD Salamanca,27,8,11,11,33,28,20,1991,30,segunda_division
+17,Las Palmas,26,6,14,10,27,36,20,1991,30,segunda_division
+18,Palamós,25,6,13,11,23,38,20,1991,30,segunda_division
+19,Xerez,22,5,12,13,27,38,20,1991,30,segunda_division
+20,Levante,19,3,13,14,17,40,20,1991,30,segunda_division
+1,Real Murcia,41,15,11,5,45,28,20,1991,31,segunda_division
+2,Deportivo,38,16,6,9,46,27,20,1991,31,segunda_division
+3,Albacete,38,14,10,7,45,27,20,1991,31,segunda_division
+4,CD Málaga,35,12,11,8,38,28,20,1991,31,segunda_division
+5,Orihuela CF,34,10,14,7,37,32,20,1991,31,segunda_division
+6,Lleida,34,12,10,9,34,29,20,1991,31,segunda_division
+7,UE Figueres,34,12,10,9,36,31,20,1991,31,segunda_division
+8,Sestao Sport Club,32,7,18,6,23,21,20,1991,31,segunda_division
+9,Bilbao Ath.,31,9,13,9,29,36,20,1991,31,segunda_division
+10,Real Avilés,31,9,13,9,26,30,20,1991,31,segunda_division
+11,Rayo Vallecano,31,7,17,7,36,37,20,1991,31,segunda_division
+12,Celta,30,7,16,8,27,31,20,1991,31,segunda_division
+13,Eibar,29,7,15,9,26,27,20,1991,31,segunda_division
+14,Elche,28,10,8,13,32,34,20,1991,31,segunda_division
+15,Sabadell,28,8,12,11,22,35,20,1991,31,segunda_division
+16,UD Salamanca,28,8,12,11,35,30,20,1991,31,segunda_division
+17,Palamós,27,7,13,11,24,38,20,1991,31,segunda_division
+18,Las Palmas,26,6,14,11,27,37,20,1991,31,segunda_division
+19,Xerez,24,6,12,13,30,38,20,1991,31,segunda_division
+20,Levante,21,4,13,14,18,40,20,1991,31,segunda_division
+1,Real Murcia,43,16,11,5,47,28,20,1991,32,segunda_division
+2,Albacete,39,14,11,7,45,27,20,1991,32,segunda_division
+3,Deportivo,38,16,6,10,48,30,20,1991,32,segunda_division
+4,CD Málaga,37,13,11,8,39,28,20,1991,32,segunda_division
+5,Orihuela CF,35,10,15,7,38,33,20,1991,32,segunda_division
+6,Lleida,35,12,11,9,34,29,20,1991,32,segunda_division
+7,UE Figueres,34,12,10,10,36,32,20,1991,32,segunda_division
+8,Sestao Sport Club,33,7,19,6,23,21,20,1991,32,segunda_division
+9,Real Avilés,33,10,13,9,31,30,20,1991,32,segunda_division
+10,Rayo Vallecano,32,7,18,7,36,37,20,1991,32,segunda_division
+11,Bilbao Ath.,32,9,14,9,30,37,20,1991,32,segunda_division
+12,Celta,31,7,17,8,28,32,20,1991,32,segunda_division
+13,Eibar,31,8,15,9,29,29,20,1991,32,segunda_division
+14,Elche,29,10,9,13,32,34,20,1991,32,segunda_division
+15,Sabadell,29,8,13,11,23,36,20,1991,32,segunda_division
+16,UD Salamanca,28,8,12,12,35,32,20,1991,32,segunda_division
+17,Palamós,28,7,14,11,24,38,20,1991,32,segunda_division
+18,Las Palmas,28,7,14,11,29,37,20,1991,32,segunda_division
+19,Xerez,24,6,12,14,30,43,20,1991,32,segunda_division
+20,Levante,21,4,13,15,18,42,20,1991,32,segunda_division
+1,Real Murcia,44,16,12,5,47,28,20,1991,33,segunda_division
+2,Albacete,40,14,12,7,45,27,20,1991,33,segunda_division
+3,Deportivo,39,16,7,10,48,30,20,1991,33,segunda_division
+4,CD Málaga,39,14,11,8,43,30,20,1991,33,segunda_division
+5,Lleida,37,13,11,9,35,29,20,1991,33,segunda_division
+6,UE Figueres,36,13,10,10,38,32,20,1991,33,segunda_division
+7,Orihuela CF,36,10,16,7,38,33,20,1991,33,segunda_division
+8,Sestao Sport Club,34,7,20,6,23,21,20,1991,33,segunda_division
+9,Real Avilés,34,10,14,9,31,30,20,1991,33,segunda_division
+10,Rayo Vallecano,32,7,18,8,36,38,20,1991,33,segunda_division
+11,Bilbao Ath.,32,9,14,10,30,40,20,1991,33,segunda_division
+12,Celta,32,7,18,8,28,32,20,1991,33,segunda_division
+13,Eibar,32,8,16,9,29,29,20,1991,33,segunda_division
+14,UD Salamanca,30,9,12,12,38,32,20,1991,33,segunda_division
+15,Palamós,30,8,14,11,26,38,20,1991,33,segunda_division
+16,Elche,29,10,9,14,33,37,20,1991,33,segunda_division
+17,Sabadell,29,8,13,12,25,40,20,1991,33,segunda_division
+18,Las Palmas,28,7,14,12,29,39,20,1991,33,segunda_division
+19,Xerez,24,6,12,15,30,45,20,1991,33,segunda_division
+20,Levante,23,5,13,15,21,43,20,1991,33,segunda_division
+1,Real Murcia,44,16,12,6,49,31,20,1991,34,segunda_division
+2,Deportivo,41,17,7,10,50,31,20,1991,34,segunda_division
+3,Albacete,41,14,13,7,47,29,20,1991,34,segunda_division
+4,CD Málaga,40,14,12,8,45,32,20,1991,34,segunda_division
+5,Orihuela CF,38,11,16,7,39,33,20,1991,34,segunda_division
+6,Lleida,37,13,11,10,35,31,20,1991,34,segunda_division
+7,UE Figueres,37,13,11,10,39,33,20,1991,34,segunda_division
+8,Real Avilés,35,10,15,9,31,30,20,1991,34,segunda_division
+9,Sestao Sport Club,34,7,20,7,23,22,20,1991,34,segunda_division
+10,Bilbao Ath.,34,10,14,10,32,40,20,1991,34,segunda_division
+11,Rayo Vallecano,33,7,19,8,38,40,20,1991,34,segunda_division
+12,Celta,33,7,19,8,28,32,20,1991,34,segunda_division
+13,Eibar,33,8,17,9,30,30,20,1991,34,segunda_division
+14,Elche,31,11,9,14,36,39,20,1991,34,segunda_division
+15,Sabadell,31,9,13,12,28,42,20,1991,34,segunda_division
+16,UD Salamanca,30,9,12,13,39,34,20,1991,34,segunda_division
+17,Palamós,30,8,14,12,26,40,20,1991,34,segunda_division
+18,Las Palmas,30,8,14,12,31,39,20,1991,34,segunda_division
+19,Xerez,24,6,12,16,32,48,20,1991,34,segunda_division
+20,Levante,24,5,14,15,23,45,20,1991,34,segunda_division
+1,Real Murcia,46,17,12,6,55,32,20,1991,35,segunda_division
+2,Albacete,43,15,13,7,49,30,20,1991,35,segunda_division
+3,Deportivo,42,17,8,10,51,32,20,1991,35,segunda_division
+4,CD Málaga,41,14,13,8,47,34,20,1991,35,segunda_division
+5,Orihuela CF,39,11,17,7,41,35,20,1991,35,segunda_division
+6,Lleida,39,14,11,10,36,31,20,1991,35,segunda_division
+7,UE Figueres,37,13,11,11,39,35,20,1991,35,segunda_division
+8,Sestao Sport Club,36,8,20,7,25,23,20,1991,35,segunda_division
+9,Real Avilés,36,10,16,9,31,30,20,1991,35,segunda_division
+10,Celta,35,8,19,8,30,32,20,1991,35,segunda_division
+11,Eibar,35,9,17,9,33,30,20,1991,35,segunda_division
+12,Bilbao Ath.,34,10,14,11,32,41,20,1991,35,segunda_division
+13,Rayo Vallecano,33,7,19,9,39,46,20,1991,35,segunda_division
+14,Las Palmas,32,9,14,12,34,41,20,1991,35,segunda_division
+15,UD Salamanca,31,9,13,13,39,34,20,1991,35,segunda_division
+16,Elche,31,11,9,15,37,41,20,1991,35,segunda_division
+17,Sabadell,31,9,13,13,28,45,20,1991,35,segunda_division
+18,Palamós,31,8,15,12,27,41,20,1991,35,segunda_division
+19,Xerez,24,6,12,17,33,50,20,1991,35,segunda_division
+20,Levante,24,5,14,16,25,48,20,1991,35,segunda_division
+1,Real Murcia,46,17,12,7,55,34,20,1991,36,segunda_division
+2,Albacete,45,16,13,7,52,31,20,1991,36,segunda_division
+3,Deportivo,44,18,8,10,56,32,20,1991,36,segunda_division
+4,CD Málaga,43,15,13,8,48,34,20,1991,36,segunda_division
+5,Orihuela CF,41,12,17,7,44,37,20,1991,36,segunda_division
+6,Lleida,39,14,11,11,36,36,20,1991,36,segunda_division
+7,UE Figueres,39,14,11,11,42,37,20,1991,36,segunda_division
+8,Real Avilés,37,10,17,9,34,33,20,1991,36,segunda_division
+9,Sestao Sport Club,36,8,20,8,25,24,20,1991,36,segunda_division
+10,Celta,35,8,19,9,30,35,20,1991,36,segunda_division
+11,Eibar,35,9,17,10,34,33,20,1991,36,segunda_division
+12,Bilbao Ath.,34,10,14,12,32,42,20,1991,36,segunda_division
+13,Las Palmas,34,10,14,12,36,41,20,1991,36,segunda_division
+14,Elche,33,12,9,15,39,42,20,1991,36,segunda_division
+15,Rayo Vallecano,33,7,19,10,40,48,20,1991,36,segunda_division
+16,Sabadell,33,10,13,13,31,45,20,1991,36,segunda_division
+17,Palamós,32,8,16,12,30,44,20,1991,36,segunda_division
+18,UD Salamanca,31,9,13,14,41,37,20,1991,36,segunda_division
+19,Levante,26,6,14,16,26,48,20,1991,36,segunda_division
+20,Xerez,24,6,12,18,35,53,20,1991,36,segunda_division
+1,Real Murcia,48,18,12,7,56,34,20,1991,37,segunda_division
+2,Albacete,47,17,13,7,54,31,20,1991,37,segunda_division
+3,Deportivo,46,19,8,10,58,32,20,1991,37,segunda_division
+4,CD Málaga,45,16,13,8,52,35,20,1991,37,segunda_division
+5,Orihuela CF,42,12,18,7,45,38,20,1991,37,segunda_division
+6,Lleida,41,15,11,11,39,36,20,1991,37,segunda_division
+7,UE Figueres,39,14,11,12,44,40,20,1991,37,segunda_division
+8,Real Avilés,37,10,17,10,34,36,20,1991,37,segunda_division
+9,Sestao Sport Club,36,8,20,9,25,26,20,1991,37,segunda_division
+10,Eibar,36,9,18,10,35,34,20,1991,37,segunda_division
+11,Rayo Vallecano,35,8,19,10,42,48,20,1991,37,segunda_division
+12,Sabadell,35,11,13,13,32,45,20,1991,37,segunda_division
+13,Celta,35,8,19,10,30,37,20,1991,37,segunda_division
+14,Las Palmas,35,10,15,12,36,41,20,1991,37,segunda_division
+15,Bilbao Ath.,34,10,14,13,32,43,20,1991,37,segunda_division
+16,Palamós,34,9,16,12,33,46,20,1991,37,segunda_division
+17,Elche,34,12,10,15,39,42,20,1991,37,segunda_division
+18,UD Salamanca,31,9,13,15,41,38,20,1991,37,segunda_division
+19,Levante,26,6,14,17,26,50,20,1991,37,segunda_division
+20,Xerez,24,6,12,19,36,57,20,1991,37,segunda_division
+1,Albacete,49,18,13,7,56,31,20,1991,38,segunda_division
+2,Deportivo,48,20,8,10,60,32,20,1991,38,segunda_division
+3,Real Murcia,48,18,12,8,56,36,20,1991,38,segunda_division
+4,CD Málaga,46,16,14,8,52,35,20,1991,38,segunda_division
+5,Orihuela CF,43,12,19,7,46,39,20,1991,38,segunda_division
+6,Lleida,43,16,11,11,41,36,20,1991,38,segunda_division
+7,UE Figueres,39,14,11,13,44,42,20,1991,38,segunda_division
+8,Sestao Sport Club,38,9,20,9,29,27,20,1991,38,segunda_division
+9,Real Avilés,38,10,18,10,35,37,20,1991,38,segunda_division
+10,Eibar,37,9,19,10,35,34,20,1991,38,segunda_division
+11,Rayo Vallecano,36,8,20,10,44,50,20,1991,38,segunda_division
+12,Sabadell,36,11,14,13,32,45,20,1991,38,segunda_division
+13,Bilbao Ath.,36,11,14,13,35,43,20,1991,38,segunda_division
+14,Celta,36,8,20,10,31,38,20,1991,38,segunda_division
+15,Las Palmas,36,10,16,12,38,43,20,1991,38,segunda_division
+16,Palamós,35,9,17,12,33,46,20,1991,38,segunda_division
+17,Elche,34,12,10,16,39,45,20,1991,38,segunda_division
+18,UD Salamanca,31,9,13,16,41,40,20,1991,38,segunda_division
+19,Levante,27,6,15,17,27,51,20,1991,38,segunda_division
+20,Xerez,24,6,12,20,37,61,20,1991,38,segunda_division

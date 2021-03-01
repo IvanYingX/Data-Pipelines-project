@@ -82,7 +82,7 @@ def extract_current_year(driver):
     return int(year)
 
 
-def extract_rounds(driver):
+def extract_rounds(soup):
     '''
     Returns the number of rounds corresponding to a year and league
 
@@ -98,8 +98,6 @@ def extract_rounds(driver):
         If the webpage has information about the number of rounds,
         it returns that number. Otherwise, it returns 0
     '''
-    page = driver.page_source
-    soup = BeautifulSoup(page, 'html.parser')
     round = soup.find("b", {"id": 'short_dateLive', "class": 'bold'})
     if round:
         if len(round.text.split()) == 2:
@@ -110,7 +108,7 @@ def extract_rounds(driver):
         return 0
 
 
-def extract_standing(driver):
+def extract_standing(soup):
     '''
     Returns the standing data for a given year, league, and round
 
@@ -137,8 +135,6 @@ def extract_standing(driver):
         If one of the list couldn't be extracted, the function return
         a list of null values
     '''
-    page = driver.page_source
-    soup = BeautifulSoup(page, 'html.parser')
     soup_table = soup.find("table", {"id": 'tabla2'})
     if soup_table:
         standings_table = soup_table.find('tbody').find_all('tr')
@@ -177,7 +173,7 @@ def extract_standing(driver):
         return [None] * len(standings)
 
 
-def extract_results(driver):
+def extract_results(soup):
     '''
     Returns the results from the matches for a given year, league, and round
 
@@ -199,8 +195,6 @@ def extract_results(driver):
         If one of the list couldn't be extracted, the function
         return a list of null values
     '''
-    page = driver.page_source
-    soup = BeautifulSoup(page, 'html.parser')
     regex = re.compile('nonplayingnow')
     soup_table = soup.find("table", {"id": 'tablemarcador'})
     if soup_table:
@@ -228,10 +222,7 @@ def extract_results(driver):
         except AttributeError:
             result.append(np.nan)
 
-    date = [results_table[i].find('td', {'class': 'time'}).find(text=True)
-            for i in range(num_matches)]
-
-    results = [home_team, away_team, result, date, link]
+    results = [home_team, away_team, result, link]
 
     if len(set([len(i) for i in results])) == 1:
         return results

@@ -1,10 +1,381 @@
-Stuttgarter,Darmstadt 98,2-1,Sun 27 Aug ,/match/stuttgarter-kickers/darmstadt-98/1990,1990,6,2_liga
-Bayreuth SpVgg,Hessen Kassel,5-1,Sun 27 Aug ,/match/bayreuth-spvgg/hessen-kassel/1990,1990,6,2_liga
-Meppen,Wattenscheid 09,1-1,Sun 27 Aug ,/match/meppen/wattenscheid-09/1990,1990,6,2_liga
-VfL Osnabrück,RW Essen,1-1,Sun 27 Aug ,/match/vfl-osnabruck/rot-weiss-essen/1990,1990,6,2_liga
-Hannover 96,Hertha BSC,0-2,Sun 27 Aug ,/match/hannover-96/hertha-bsc/1990,1990,6,2_liga
-Schalke 04,Fortuna Köln,3-0,Sun 27 Aug ,/match/schalke-04/fortuna-koln/1990,1990,6,2_liga
-Unterhaching,Saarbrücken,1-1,Sun 27 Aug ,/match/unterhaching/saarbrucken/1990,1990,6,2_liga
-Blau-Weiß 1890 B.,Alemannia Aachen,1-0,Sun 27 Aug ,/match/blau-weiss-1890-berlin/alemannia-aachen/1990,1990,6,2_liga
-SC Freiburg,Braunschweig,1-0,Sun 27 Aug ,/match/sc-freiburg/eintracht-brau-hellip/1990,1990,6,2_liga
-MSV Duisburg,Preußen Münster,3-3,Tue 05 Sep ,/match/msv-duisburg/preuben-munster/1990,1990,6,2_liga
+Home_Team,Away_Team,Result,Link,Season,Round,League
+Saarbrücken,Stuttgarter,1-0,/match/saarbrucken/stuttgarter-kickers/1990,1990,1,2_liga
+SC Freiburg,Unterhaching,2-3,/match/sc-freiburg/unterhaching/1990,1990,1,2_liga
+VfL Osnabrück,Meppen,1-1,/match/vfl-osnabruck/meppen/1990,1990,1,2_liga
+RW Essen,Schalke 04,0-0,/match/rot-weiss-essen/schalke-04/1990,1990,1,2_liga
+Alemannia Aachen,MSV Duisburg,1-2,/match/alemannia-aachen/msv-duisburg/1990,1990,1,2_liga
+Hessen Kassel,Blau-Weiß 1890 B.,1-1,/match/hessen-kassel/blau-weiss-1890-berlin/1990,1990,1,2_liga
+Wattenscheid 09,Bayreuth SpVgg,4-1,/match/wattenscheid-09/bayreuth-spvgg/1990,1990,1,2_liga
+Fortuna Köln,Darmstadt 98,2-1,/match/fortuna-koln/darmstadt-98/1990,1990,1,2_liga
+Hertha BSC,Preußen Münster,2-0,/match/hertha-bsc/preuben-munster/1990,1990,1,2_liga
+Braunschweig,Hannover 96,1-0,/match/eintracht-brau-hellip/hannover-96/1990,1990,1,2_liga
+Stuttgarter,Wattenscheid 09,2-3,/match/stuttgarter-kickers/wattenscheid-09/1990,1990,2,2_liga
+Preußen Münster,Hessen Kassel,1-1,/match/preuben-munster/hessen-kassel/1990,1990,2,2_liga
+Darmstadt 98,Hertha BSC,0-0,/match/darmstadt-98/hertha-bsc/1990,1990,2,2_liga
+Bayreuth SpVgg,Fortuna Köln,2-2,/match/bayreuth-spvgg/fortuna-koln/1990,1990,2,2_liga
+MSV Duisburg,Saarbrücken,1-1,/match/msv-duisburg/saarbrucken/1990,1990,2,2_liga
+Hannover 96,Alemannia Aachen,2-0,/match/hannover-96/alemannia-aachen/1990,1990,2,2_liga
+Schalke 04,Braunschweig,1-5,/match/schalke-04/eintracht-brau-hellip/1990,1990,2,2_liga
+Blau-Weiß 1890 B.,SC Freiburg,3-1,/match/blau-weiss-1890-berlin/sc-freiburg/1990,1990,2,2_liga
+Meppen,RW Essen,3-2,/match/meppen/rot-weiss-essen/1990,1990,2,2_liga
+Unterhaching,VfL Osnabrück,2-2,/match/unterhaching/vfl-osnabruck/1990,1990,2,2_liga
+Saarbrücken,Hannover 96,2-0,/match/saarbrucken/hannover-96/1990,1990,3,2_liga
+Preußen Münster,Darmstadt 98,1-0,/match/preuben-munster/darmstadt-98/1990,1990,3,2_liga
+Hessen Kassel,SC Freiburg,2-5,/match/hessen-kassel/sc-freiburg/1990,1990,3,2_liga
+Braunschweig,Meppen,3-0,/match/eintracht-brau-hellip/meppen/1990,1990,3,2_liga
+Alemannia Aachen,Schalke 04,0-4,/match/alemannia-aachen/schalke-04/1990,1990,3,2_liga
+Fortuna Köln,Stuttgarter,0-1,/match/fortuna-koln/stuttgarter-kickers/1990,1990,3,2_liga
+Hertha BSC,Bayreuth SpVgg,1-0,/match/hertha-bsc/bayreuth-spvgg/1990,1990,3,2_liga
+RW Essen,Unterhaching,1-1,/match/rot-weiss-essen/unterhaching/1990,1990,3,2_liga
+VfL Osnabrück,Blau-Weiß 1890 B.,2-5,/match/vfl-osnabruck/blau-weiss-1890-berlin/1990,1990,3,2_liga
+Wattenscheid 09,MSV Duisburg,2-0,/match/wattenscheid-09/msv-duisburg/1990,1990,3,2_liga
+Hannover 96,Wattenscheid 09,0-3,/match/hannover-96/wattenscheid-09/1990,1990,4,2_liga
+Meppen,Alemannia Aachen,1-1,/match/meppen/alemannia-aachen/1990,1990,4,2_liga
+SC Freiburg,VfL Osnabrück,3-1,/match/sc-freiburg/vfl-osnabruck/1990,1990,4,2_liga
+Darmstadt 98,Hessen Kassel,0-1,/match/darmstadt-98/hessen-kassel/1990,1990,4,2_liga
+Stuttgarter,Hertha BSC,4-2,/match/stuttgarter-kickers/hertha-bsc/1990,1990,4,2_liga
+Schalke 04,Saarbrücken,1-2,/match/schalke-04/saarbrucken/1990,1990,4,2_liga
+Unterhaching,Braunschweig,1-1,/match/unterhaching/eintracht-brau-hellip/1990,1990,4,2_liga
+MSV Duisburg,Fortuna Köln,0-2,/match/msv-duisburg/fortuna-koln/1990,1990,4,2_liga
+Blau-Weiß 1890 B.,RW Essen,2-0,/match/blau-weiss-1890-berlin/rot-weiss-essen/1990,1990,4,2_liga
+Bayreuth SpVgg,Preußen Münster,2-1,/match/bayreuth-spvgg/preuben-munster/1990,1990,4,2_liga
+Wattenscheid 09,Schalke 04,3-1,/match/wattenscheid-09/schalke-04/1990,1990,5,2_liga
+RW Essen,SC Freiburg,0-1,/match/rot-weiss-essen/sc-freiburg/1990,1990,5,2_liga
+Hessen Kassel,VfL Osnabrück,1-5,/match/hessen-kassel/vfl-osnabruck/1990,1990,5,2_liga
+Preußen Münster,Stuttgarter,1-1,/match/preuben-munster/stuttgarter-kickers/1990,1990,5,2_liga
+Darmstadt 98,Bayreuth SpVgg,3-1,/match/darmstadt-98/bayreuth-spvgg/1990,1990,5,2_liga
+Hertha BSC,MSV Duisburg,2-1,/match/hertha-bsc/msv-duisburg/1990,1990,5,2_liga
+Saarbrücken,Meppen,4-0,/match/saarbrucken/meppen/1990,1990,5,2_liga
+Alemannia Aachen,Unterhaching,2-0,/match/alemannia-aachen/unterhaching/1990,1990,5,2_liga
+Fortuna Köln,Hannover 96,2-1,/match/fortuna-koln/hannover-96/1990,1990,5,2_liga
+Braunschweig,Blau-Weiß 1890 B.,2-0,/match/eintracht-brau-hellip/blau-weiss-1890-berlin/1990,1990,5,2_liga
+Stuttgarter,Darmstadt 98,2-1,/match/stuttgarter-kickers/darmstadt-98/1990,1990,6,2_liga
+Bayreuth SpVgg,Hessen Kassel,5-1,/match/bayreuth-spvgg/hessen-kassel/1990,1990,6,2_liga
+Meppen,Wattenscheid 09,1-1,/match/meppen/wattenscheid-09/1990,1990,6,2_liga
+VfL Osnabrück,RW Essen,1-1,/match/vfl-osnabruck/rot-weiss-essen/1990,1990,6,2_liga
+Hannover 96,Hertha BSC,0-2,/match/hannover-96/hertha-bsc/1990,1990,6,2_liga
+Schalke 04,Fortuna Köln,3-0,/match/schalke-04/fortuna-koln/1990,1990,6,2_liga
+Unterhaching,Saarbrücken,1-1,/match/unterhaching/saarbrucken/1990,1990,6,2_liga
+Blau-Weiß 1890 B.,Alemannia Aachen,1-0,/match/blau-weiss-1890-berlin/alemannia-aachen/1990,1990,6,2_liga
+SC Freiburg,Braunschweig,1-0,/match/sc-freiburg/eintracht-brau-hellip/1990,1990,6,2_liga
+MSV Duisburg,Preußen Münster,3-3,/match/msv-duisburg/preuben-munster/1990,1990,6,2_liga
+Braunschweig,VfL Osnabrück,3-1,/match/eintracht-brau-hellip/vfl-osnabruck/1990,1990,7,2_liga
+Hessen Kassel,RW Essen,0-1,/match/hessen-kassel/rot-weiss-essen/1990,1990,7,2_liga
+Preußen Münster,Hannover 96,0-1,/match/preuben-munster/hannover-96/1990,1990,7,2_liga
+Darmstadt 98,MSV Duisburg,3-1,/match/darmstadt-98/msv-duisburg/1990,1990,7,2_liga
+Bayreuth SpVgg,Stuttgarter,1-2,/match/bayreuth-spvgg/stuttgarter-kickers/1990,1990,7,2_liga
+Alemannia Aachen,SC Freiburg,0-1,/match/alemannia-aachen/sc-freiburg/1990,1990,7,2_liga
+Saarbrücken,Blau-Weiß 1890 B.,1-1,/match/saarbrucken/blau-weiss-1890-berlin/1990,1990,7,2_liga
+Wattenscheid 09,Unterhaching,1-0,/match/wattenscheid-09/unterhaching/1990,1990,7,2_liga
+Hertha BSC,Schalke 04,2-2,/match/hertha-bsc/schalke-04/1990,1990,7,2_liga
+Fortuna Köln,Meppen,3-0,/match/fortuna-koln/meppen/1990,1990,7,2_liga
+Stuttgarter,Hessen Kassel,2-0,/match/stuttgarter-kickers/hessen-kassel/1990,1990,8,2_liga
+MSV Duisburg,Bayreuth SpVgg,3-1,/match/msv-duisburg/bayreuth-spvgg/1990,1990,8,2_liga
+Meppen,Hertha BSC,0-0,/match/meppen/hertha-bsc/1990,1990,8,2_liga
+SC Freiburg,Saarbrücken,1-4,/match/sc-freiburg/saarbrucken/1990,1990,8,2_liga
+VfL Osnabrück,Alemannia Aachen,3-1,/match/vfl-osnabruck/alemannia-aachen/1990,1990,8,2_liga
+Blau-Weiß 1890 B.,Wattenscheid 09,1-1,/match/blau-weiss-1890-berlin/wattenscheid-09/1990,1990,8,2_liga
+Hannover 96,Darmstadt 98,1-1,/match/hannover-96/darmstadt-98/1990,1990,8,2_liga
+Schalke 04,Preußen Münster,0-1,/match/schalke-04/preuben-munster/1990,1990,8,2_liga
+Unterhaching,Fortuna Köln,1-2,/match/unterhaching/fortuna-koln/1990,1990,8,2_liga
+RW Essen,Braunschweig,1-0,/match/rot-weiss-essen/eintracht-brau-hellip/1990,1990,8,2_liga
+Wattenscheid 09,SC Freiburg,4-4,/match/wattenscheid-09/sc-freiburg/1990,1990,9,2_liga
+Preußen Münster,Meppen,2-1,/match/preuben-munster/meppen/1990,1990,9,2_liga
+Darmstadt 98,Schalke 04,3-2,/match/darmstadt-98/schalke-04/1990,1990,9,2_liga
+Bayreuth SpVgg,Hannover 96,1-1,/match/bayreuth-spvgg/hannover-96/1990,1990,9,2_liga
+Alemannia Aachen,RW Essen,0-1,/match/alemannia-aachen/rot-weiss-essen/1990,1990,9,2_liga
+Hessen Kassel,Braunschweig,2-1,/match/hessen-kassel/eintracht-brau-hellip/1990,1990,9,2_liga
+Fortuna Köln,Blau-Weiß 1890 B.,1-1,/match/fortuna-koln/blau-weiss-1890-berlin/1990,1990,9,2_liga
+Hertha BSC,Unterhaching,1-1,/match/hertha-bsc/unterhaching/1990,1990,9,2_liga
+Saarbrücken,VfL Osnabrück,7-1,/match/saarbrucken/vfl-osnabruck/1990,1990,9,2_liga
+Stuttgarter,MSV Duisburg,4-1,/match/stuttgarter-kickers/msv-duisburg/1990,1990,9,2_liga
+RW Essen,Saarbrücken,1-2,/match/rot-weiss-essen/saarbrucken/1990,1990,10,2_liga
+Meppen,Darmstadt 98,3-0,/match/meppen/darmstadt-98/1990,1990,10,2_liga
+SC Freiburg,Fortuna Köln,4-1,/match/sc-freiburg/fortuna-koln/1990,1990,10,2_liga
+VfL Osnabrück,Wattenscheid 09,0-3,/match/vfl-osnabruck/wattenscheid-09/1990,1990,10,2_liga
+Braunschweig,Alemannia Aachen,4-3,/match/eintracht-brau-hellip/alemannia-aachen/1990,1990,10,2_liga
+MSV Duisburg,Hessen Kassel,3-1,/match/msv-duisburg/hessen-kassel/1990,1990,10,2_liga
+Hannover 96,Stuttgarter,5-1,/match/hannover-96/stuttgarter-kickers/1990,1990,10,2_liga
+Unterhaching,Preußen Münster,3-0,/match/unterhaching/preuben-munster/1990,1990,10,2_liga
+Schalke 04,Bayreuth SpVgg,2-1,/match/schalke-04/bayreuth-spvgg/1990,1990,10,2_liga
+Blau-Weiß 1890 B.,Hertha BSC,2-3,/match/blau-weiss-1890-berlin/hertha-bsc/1990,1990,10,2_liga
+Hessen Kassel,Alemannia Aachen,1-5,/match/hessen-kassel/alemannia-aachen/1990,1990,11,2_liga
+Stuttgarter,Schalke 04,2-4,/match/stuttgarter-kickers/schalke-04/1990,1990,11,2_liga
+Preußen Münster,Blau-Weiß 1890 B.,2-0,/match/preuben-munster/blau-weiss-1890-berlin/1990,1990,11,2_liga
+Saarbrücken,Braunschweig,0-1,/match/saarbrucken/eintracht-brau-hellip/1990,1990,11,2_liga
+Hertha BSC,SC Freiburg,1-0,/match/hertha-bsc/sc-freiburg/1990,1990,11,2_liga
+Bayreuth SpVgg,Meppen,1-1,/match/bayreuth-spvgg/meppen/1990,1990,11,2_liga
+Wattenscheid 09,RW Essen,1-0,/match/wattenscheid-09/rot-weiss-essen/1990,1990,11,2_liga
+Fortuna Köln,VfL Osnabrück,0-2,/match/fortuna-koln/vfl-osnabruck/1990,1990,11,2_liga
+Darmstadt 98,Unterhaching,1-1,/match/darmstadt-98/unterhaching/1990,1990,11,2_liga
+MSV Duisburg,Hannover 96,2-1,/match/msv-duisburg/hannover-96/1990,1990,11,2_liga
+Hannover 96,Hessen Kassel,4-0,/match/hannover-96/hessen-kassel/1990,1990,12,2_liga
+SC Freiburg,Preußen Münster,0-2,/match/sc-freiburg/preuben-munster/1990,1990,12,2_liga
+VfL Osnabrück,Hertha BSC,3-0,/match/vfl-osnabruck/hertha-bsc/1990,1990,12,2_liga
+RW Essen,Fortuna Köln,3-3,/match/rot-weiss-essen/fortuna-koln/1990,1990,12,2_liga
+Alemannia Aachen,Saarbrücken,2-1,/match/alemannia-aachen/saarbrucken/1990,1990,12,2_liga
+Meppen,Stuttgarter,0-1,/match/meppen/stuttgarter-kickers/1990,1990,12,2_liga
+Schalke 04,MSV Duisburg,1-1,/match/schalke-04/msv-duisburg/1990,1990,12,2_liga
+Unterhaching,Bayreuth SpVgg,0-0,/match/unterhaching/bayreuth-spvgg/1990,1990,12,2_liga
+Blau-Weiß 1890 B.,Darmstadt 98,3-1,/match/blau-weiss-1890-berlin/darmstadt-98/1990,1990,12,2_liga
+Braunschweig,Wattenscheid 09,1-0,/match/eintracht-brau-hellip/wattenscheid-09/1990,1990,12,2_liga
+Stuttgarter,Unterhaching,2-0,/match/stuttgarter-kickers/unterhaching/1990,1990,13,2_liga
+Preußen Münster,VfL Osnabrück,1-4,/match/preuben-munster/vfl-osnabruck/1990,1990,13,2_liga
+Darmstadt 98,SC Freiburg,2-2,/match/darmstadt-98/sc-freiburg/1990,1990,13,2_liga
+Bayreuth SpVgg,Blau-Weiß 1890 B.,6-1,/match/bayreuth-spvgg/blau-weiss-1890-berlin/1990,1990,13,2_liga
+MSV Duisburg,Meppen,0-0,/match/msv-duisburg/meppen/1990,1990,13,2_liga
+Hannover 96,Schalke 04,2-2,/match/hannover-96/schalke-04/1990,1990,13,2_liga
+Wattenscheid 09,Alemannia Aachen,1-2,/match/wattenscheid-09/alemannia-aachen/1990,1990,13,2_liga
+Hertha BSC,RW Essen,2-1,/match/hertha-bsc/rot-weiss-essen/1990,1990,13,2_liga
+Hessen Kassel,Saarbrücken,0-0,/match/hessen-kassel/saarbrucken/1990,1990,13,2_liga
+Fortuna Köln,Braunschweig,0-2,/match/fortuna-koln/eintracht-brau-hellip/1990,1990,13,2_liga
+Braunschweig,Hertha BSC,1-2,/match/eintracht-brau-hellip/hertha-bsc/1990,1990,14,2_liga
+SC Freiburg,Bayreuth SpVgg,2-0,/match/sc-freiburg/bayreuth-spvgg/1990,1990,14,2_liga
+Meppen,Hannover 96,1-0,/match/meppen/hannover-96/1990,1990,14,2_liga
+VfL Osnabrück,Darmstadt 98,4-2,/match/vfl-osnabruck/darmstadt-98/1990,1990,14,2_liga
+RW Essen,Preußen Münster,1-1,/match/rot-weiss-essen/preuben-munster/1990,1990,14,2_liga
+Saarbrücken,Wattenscheid 09,2-0,/match/saarbrucken/wattenscheid-09/1990,1990,14,2_liga
+Schalke 04,Hessen Kassel,2-0,/match/schalke-04/hessen-kassel/1990,1990,14,2_liga
+Blau-Weiß 1890 B.,Stuttgarter,0-2,/match/blau-weiss-1890-berlin/stuttgarter-kickers/1990,1990,14,2_liga
+Unterhaching,MSV Duisburg,1-1,/match/unterhaching/msv-duisburg/1990,1990,14,2_liga
+Alemannia Aachen,Fortuna Köln,3-0,/match/alemannia-aachen/fortuna-koln/1990,1990,14,2_liga
+MSV Duisburg,Blau-Weiß 1890 B.,2-2,/match/msv-duisburg/blau-weiss-1890-berlin/1990,1990,15,2_liga
+Hessen Kassel,Wattenscheid 09,0-3,/match/hessen-kassel/wattenscheid-09/1990,1990,15,2_liga
+Preußen Münster,Braunschweig,1-2,/match/preuben-munster/eintracht-brau-hellip/1990,1990,15,2_liga
+Darmstadt 98,RW Essen,2-1,/match/darmstadt-98/rot-weiss-essen/1990,1990,15,2_liga
+Stuttgarter,SC Freiburg,1-1,/match/stuttgarter-kickers/sc-freiburg/1990,1990,15,2_liga
+Hannover 96,Unterhaching,3-0,/match/hannover-96/unterhaching/1990,1990,15,2_liga
+Schalke 04,Meppen,2-0,/match/schalke-04/meppen/1990,1990,15,2_liga
+Fortuna Köln,Saarbrücken,1-1,/match/fortuna-koln/saarbrucken/1990,1990,15,2_liga
+Hertha BSC,Alemannia Aachen,3-1,/match/hertha-bsc/alemannia-aachen/1990,1990,15,2_liga
+Bayreuth SpVgg,VfL Osnabrück,3-1,/match/bayreuth-spvgg/vfl-osnabruck/1990,1990,15,2_liga
+Meppen,Hessen Kassel,0-1,/match/meppen/hessen-kassel/1990,1990,16,2_liga
+SC Freiburg,MSV Duisburg,2-2,/match/sc-freiburg/msv-duisburg/1990,1990,16,2_liga
+Braunschweig,Darmstadt 98,5-0,/match/eintracht-brau-hellip/darmstadt-98/1990,1990,16,2_liga
+VfL Osnabrück,Stuttgarter,1-0,/match/vfl-osnabruck/stuttgarter-kickers/1990,1990,16,2_liga
+RW Essen,Bayreuth SpVgg,3-0,/match/rot-weiss-essen/bayreuth-spvgg/1990,1990,16,2_liga
+Saarbrücken,Hertha BSC,3-0,/match/saarbrucken/hertha-bsc/1990,1990,16,2_liga
+Wattenscheid 09,Fortuna Köln,2-0,/match/wattenscheid-09/fortuna-koln/1990,1990,16,2_liga
+Blau-Weiß 1890 B.,Hannover 96,1-1,/match/blau-weiss-1890-berlin/hannover-96/1990,1990,16,2_liga
+Unterhaching,Schalke 04,2-1,/match/unterhaching/schalke-04/1990,1990,16,2_liga
+Alemannia Aachen,Preußen Münster,7-1,/match/alemannia-aachen/preuben-munster/1990,1990,16,2_liga
+Hannover 96,SC Freiburg,0-0,/match/hannover-96/sc-freiburg/1990,1990,17,2_liga
+Preußen Münster,Saarbrücken,0-0,/match/preuben-munster/saarbrucken/1990,1990,17,2_liga
+Darmstadt 98,Alemannia Aachen,1-0,/match/darmstadt-98/alemannia-aachen/1990,1990,17,2_liga
+Meppen,Unterhaching,3-1,/match/meppen/unterhaching/1990,1990,17,2_liga
+Schalke 04,Blau-Weiß 1890 B.,2-0,/match/schalke-04/blau-weiss-1890-berlin/1990,1990,17,2_liga
+Fortuna Köln,Hessen Kassel,0-1,/match/fortuna-koln/hessen-kassel/1990,1990,17,2_liga
+Hertha BSC,Wattenscheid 09,1-1,/match/hertha-bsc/wattenscheid-09/1990,1990,17,2_liga
+Stuttgarter,RW Essen,4-1,/match/stuttgarter-kickers/rot-weiss-essen/1990,1990,17,2_liga
+Bayreuth SpVgg,Braunschweig,1-0,/match/bayreuth-spvgg/eintracht-brau-hellip/1990,1990,17,2_liga
+MSV Duisburg,VfL Osnabrück,1-0,/match/msv-duisburg/vfl-osnabruck/1990,1990,17,2_liga
+Braunschweig,Stuttgarter,3-0,/match/eintracht-brau-hellip/stuttgarter-kickers/1990,1990,18,2_liga
+VfL Osnabrück,Hannover 96,1-4,/match/vfl-osnabruck/hannover-96/1990,1990,18,2_liga
+RW Essen,MSV Duisburg,1-1,/match/rot-weiss-essen/msv-duisburg/1990,1990,18,2_liga
+Alemannia Aachen,Bayreuth SpVgg,2-1,/match/alemannia-aachen/bayreuth-spvgg/1990,1990,18,2_liga
+Saarbrücken,Darmstadt 98,1-1,/match/saarbrucken/darmstadt-98/1990,1990,18,2_liga
+Wattenscheid 09,Preußen Münster,4-0,/match/wattenscheid-09/preuben-munster/1990,1990,18,2_liga
+Blau-Weiß 1890 B.,Meppen,1-1,/match/blau-weiss-1890-berlin/meppen/1990,1990,18,2_liga
+Fortuna Köln,Hertha BSC,3-0,/match/fortuna-koln/hertha-bsc/1990,1990,18,2_liga
+SC Freiburg,Schalke 04,0-3,/match/sc-freiburg/schalke-04/1990,1990,18,2_liga
+Hessen Kassel,Unterhaching,3-2,/match/hessen-kassel/unterhaching/1990,1990,18,2_liga
+Stuttgarter,Alemannia Aachen,4-2,/match/stuttgarter-kickers/alemannia-aachen/1990,1990,19,2_liga
+Meppen,SC Freiburg,0-0,/match/meppen/sc-freiburg/1990,1990,19,2_liga
+Preußen Münster,Fortuna Köln,0-0,/match/preuben-munster/fortuna-koln/1990,1990,19,2_liga
+Darmstadt 98,Wattenscheid 09,4-1,/match/darmstadt-98/wattenscheid-09/1990,1990,19,2_liga
+Bayreuth SpVgg,Saarbrücken,2-2,/match/bayreuth-spvgg/saarbrucken/1990,1990,19,2_liga
+Hannover 96,RW Essen,4-1,/match/hannover-96/rot-weiss-essen/1990,1990,19,2_liga
+Schalke 04,VfL Osnabrück,4-1,/match/schalke-04/vfl-osnabruck/1990,1990,19,2_liga
+Hertha BSC,Hessen Kassel,2-0,/match/hertha-bsc/hessen-kassel/1990,1990,19,2_liga
+Unterhaching,Blau-Weiß 1890 B.,1-1,/match/unterhaching/blau-weiss-1890-berlin/1990,1990,19,2_liga
+MSV Duisburg,Braunschweig,2-0,/match/msv-duisburg/eintracht-brau-hellip/1990,1990,19,2_liga
+MSV Duisburg,Alemannia Aachen,3-1,/match/msv-duisburg/alemannia-aachen/1990,1990,20,2_liga
+Unterhaching,SC Freiburg,0-0,/match/unterhaching/sc-freiburg/1990,1990,20,2_liga
+Meppen,VfL Osnabrück,3-1,/match/meppen/vfl-osnabruck/1990,1990,20,2_liga
+Hannover 96,Braunschweig,3-0,/match/hannover-96/eintracht-brau-hellip/1990,1990,20,2_liga
+Stuttgarter,Saarbrücken,1-0,/match/stuttgarter-kickers/saarbrucken/1990,1990,20,2_liga
+Bayreuth SpVgg,Wattenscheid 09,0-2,/match/bayreuth-spvgg/wattenscheid-09/1990,1990,20,2_liga
+Darmstadt 98,Fortuna Köln,2-0,/match/darmstadt-98/fortuna-koln/1990,1990,20,2_liga
+Preußen Münster,Hertha BSC,2-6,/match/preuben-munster/hertha-bsc/1990,1990,20,2_liga
+Schalke 04,RW Essen,1-0,/match/schalke-04/rot-weiss-essen/1990,1990,20,2_liga
+Blau-Weiß 1890 B.,Hessen Kassel,0-1,/match/blau-weiss-1890-berlin/hessen-kassel/1990,1990,20,2_liga
+Saarbrücken,MSV Duisburg,1-2,/match/saarbrucken/msv-duisburg/1990,1990,21,2_liga
+Hessen Kassel,Preußen Münster,0-0,/match/hessen-kassel/preuben-munster/1990,1990,21,2_liga
+RW Essen,Meppen,1-1,/match/rot-weiss-essen/meppen/1990,1990,21,2_liga
+Wattenscheid 09,Stuttgarter,3-0,/match/wattenscheid-09/stuttgarter-kickers/1990,1990,21,2_liga
+Braunschweig,Schalke 04,2-2,/match/eintracht-brau-hellip/schalke-04/1990,1990,21,2_liga
+VfL Osnabrück,Unterhaching,2-1,/match/vfl-osnabruck/unterhaching/1990,1990,21,2_liga
+SC Freiburg,Blau-Weiß 1890 B.,0-1,/match/sc-freiburg/blau-weiss-1890-berlin/1990,1990,21,2_liga
+Fortuna Köln,Bayreuth SpVgg,5-2,/match/fortuna-koln/bayreuth-spvgg/1990,1990,21,2_liga
+Alemannia Aachen,Hannover 96,2-1,/match/alemannia-aachen/hannover-96/1990,1990,21,2_liga
+Hertha BSC,Darmstadt 98,4-1,/match/hertha-bsc/darmstadt-98/1990,1990,21,2_liga
+Stuttgarter,Fortuna Köln,1-1,/match/stuttgarter-kickers/fortuna-koln/1990,1990,22,2_liga
+Darmstadt 98,Preußen Münster,1-2,/match/darmstadt-98/preuben-munster/1990,1990,22,2_liga
+Meppen,Braunschweig,2-1,/match/meppen/eintracht-brau-hellip/1990,1990,22,2_liga
+Schalke 04,Alemannia Aachen,3-1,/match/schalke-04/alemannia-aachen/1990,1990,22,2_liga
+MSV Duisburg,Wattenscheid 09,3-2,/match/msv-duisburg/wattenscheid-09/1990,1990,22,2_liga
+Bayreuth SpVgg,Hertha BSC,0-2,/match/bayreuth-spvgg/hertha-bsc/1990,1990,22,2_liga
+Unterhaching,RW Essen,0-2,/match/unterhaching/rot-weiss-essen/1990,1990,22,2_liga
+Hannover 96,Saarbrücken,0-0,/match/hannover-96/saarbrucken/1990,1990,22,2_liga
+SC Freiburg,Hessen Kassel,0-1,/match/sc-freiburg/hessen-kassel/1990,1990,22,2_liga
+Blau-Weiß 1890 B.,VfL Osnabrück,2-1,/match/blau-weiss-1890-berlin/vfl-osnabruck/1990,1990,22,2_liga
+Hertha BSC,Stuttgarter,0-0,/match/hertha-bsc/stuttgarter-kickers/1990,1990,23,2_liga
+VfL Osnabrück,SC Freiburg,3-1,/match/vfl-osnabruck/sc-freiburg/1990,1990,23,2_liga
+Hessen Kassel,Darmstadt 98,0-0,/match/hessen-kassel/darmstadt-98/1990,1990,23,2_liga
+Preußen Münster,Bayreuth SpVgg,2-1,/match/preuben-munster/bayreuth-spvgg/1990,1990,23,2_liga
+Wattenscheid 09,Hannover 96,3-0,/match/wattenscheid-09/hannover-96/1990,1990,23,2_liga
+Braunschweig,Unterhaching,0-0,/match/eintracht-brau-hellip/unterhaching/1990,1990,23,2_liga
+RW Essen,Blau-Weiß 1890 B.,2-1,/match/rot-weiss-essen/blau-weiss-1890-berlin/1990,1990,23,2_liga
+Alemannia Aachen,Meppen,1-3,/match/alemannia-aachen/meppen/1990,1990,23,2_liga
+Fortuna Köln,MSV Duisburg,1-1,/match/fortuna-koln/msv-duisburg/1990,1990,23,2_liga
+Saarbrücken,Schalke 04,2-0,/match/saarbrucken/schalke-04/1990,1990,23,2_liga
+Blau-Weiß 1890 B.,Braunschweig,1-1,/match/blau-weiss-1890-berlin/eintracht-brau-hellip/1990,1990,24,2_liga
+Stuttgarter,Preußen Münster,4-0,/match/stuttgarter-kickers/preuben-munster/1990,1990,24,2_liga
+VfL Osnabrück,Hessen Kassel,4-0,/match/vfl-osnabruck/hessen-kassel/1990,1990,24,2_liga
+SC Freiburg,RW Essen,1-2,/match/sc-freiburg/rot-weiss-essen/1990,1990,24,2_liga
+Meppen,Saarbrücken,2-0,/match/meppen/saarbrucken/1990,1990,24,2_liga
+Schalke 04,Wattenscheid 09,1-1,/match/schalke-04/wattenscheid-09/1990,1990,24,2_liga
+MSV Duisburg,Hertha BSC,0-3,/match/msv-duisburg/hertha-bsc/1990,1990,24,2_liga
+Hannover 96,Fortuna Köln,1-1,/match/hannover-96/fortuna-koln/1990,1990,24,2_liga
+Unterhaching,Alemannia Aachen,3-2,/match/unterhaching/alemannia-aachen/1990,1990,24,2_liga
+Bayreuth SpVgg,Darmstadt 98,2-0,/match/bayreuth-spvgg/darmstadt-98/1990,1990,24,2_liga
+Darmstadt 98,Stuttgarter,0-0,/match/darmstadt-98/stuttgarter-kickers/1990,1990,25,2_liga
+Preußen Münster,MSV Duisburg,1-1,/match/preuben-munster/msv-duisburg/1990,1990,25,2_liga
+Hessen Kassel,Bayreuth SpVgg,2-0,/match/hessen-kassel/bayreuth-spvgg/1990,1990,25,2_liga
+RW Essen,VfL Osnabrück,0-0,/match/rot-weiss-essen/vfl-osnabruck/1990,1990,25,2_liga
+Hertha BSC,Hannover 96,1-0,/match/hertha-bsc/hannover-96/1990,1990,25,2_liga
+Saarbrücken,Unterhaching,6-1,/match/saarbrucken/unterhaching/1990,1990,25,2_liga
+Braunschweig,SC Freiburg,0-3,/match/eintracht-brau-hellip/sc-freiburg/1990,1990,25,2_liga
+Wattenscheid 09,Meppen,2-0,/match/wattenscheid-09/meppen/1990,1990,25,2_liga
+Fortuna Köln,Schalke 04,2-1,/match/fortuna-koln/schalke-04/1990,1990,25,2_liga
+Alemannia Aachen,Blau-Weiß 1890 B.,2-1,/match/alemannia-aachen/blau-weiss-1890-berlin/1990,1990,25,2_liga
+SC Freiburg,Alemannia Aachen,1-1,/match/sc-freiburg/alemannia-aachen/1990,1990,26,2_liga
+Hannover 96,Preußen Münster,2-1,/match/hannover-96/preuben-munster/1990,1990,26,2_liga
+MSV Duisburg,Darmstadt 98,3-1,/match/msv-duisburg/darmstadt-98/1990,1990,26,2_liga
+RW Essen,Hessen Kassel,1-0,/match/rot-weiss-essen/hessen-kassel/1990,1990,26,2_liga
+VfL Osnabrück,Braunschweig,1-2,/match/vfl-osnabruck/eintracht-brau-hellip/1990,1990,26,2_liga
+Unterhaching,Wattenscheid 09,1-2,/match/unterhaching/wattenscheid-09/1990,1990,26,2_liga
+Meppen,Fortuna Köln,2-2,/match/meppen/fortuna-koln/1990,1990,26,2_liga
+Schalke 04,Hertha BSC,4-1,/match/schalke-04/hertha-bsc/1990,1990,26,2_liga
+Stuttgarter,Bayreuth SpVgg,3-1,/match/stuttgarter-kickers/bayreuth-spvgg/1990,1990,26,2_liga
+Blau-Weiß 1890 B.,Saarbrücken,0-1,/match/blau-weiss-1890-berlin/saarbrucken/1990,1990,26,2_liga
+Bayreuth SpVgg,MSV Duisburg,2-1,/match/bayreuth-spvgg/msv-duisburg/1990,1990,27,2_liga
+Saarbrücken,SC Freiburg,2-2,/match/saarbrucken/sc-freiburg/1990,1990,27,2_liga
+Alemannia Aachen,VfL Osnabrück,1-1,/match/alemannia-aachen/vfl-osnabruck/1990,1990,27,2_liga
+Hessen Kassel,Stuttgarter,0-6,/match/hessen-kassel/stuttgarter-kickers/1990,1990,27,2_liga
+Hertha BSC,Meppen,3-0,/match/hertha-bsc/meppen/1990,1990,27,2_liga
+Darmstadt 98,Hannover 96,1-1,/match/darmstadt-98/hannover-96/1990,1990,27,2_liga
+Preußen Münster,Schalke 04,2-1,/match/preuben-munster/schalke-04/1990,1990,27,2_liga
+Fortuna Köln,Unterhaching,3-2,/match/fortuna-koln/unterhaching/1990,1990,27,2_liga
+Wattenscheid 09,Blau-Weiß 1890 B.,0-0,/match/wattenscheid-09/blau-weiss-1890-berlin/1990,1990,27,2_liga
+Braunschweig,RW Essen,1-1,/match/eintracht-brau-hellip/rot-weiss-essen/1990,1990,27,2_liga
+MSV Duisburg,Stuttgarter,1-1,/match/msv-duisburg/stuttgarter-kickers/1990,1990,28,2_liga
+Braunschweig,Hessen Kassel,0-4,/match/eintracht-brau-hellip/hessen-kassel/1990,1990,28,2_liga
+Meppen,Preußen Münster,5-1,/match/meppen/preuben-munster/1990,1990,28,2_liga
+Schalke 04,Darmstadt 98,3-0,/match/schalke-04/darmstadt-98/1990,1990,28,2_liga
+Hannover 96,Bayreuth SpVgg,1-1,/match/hannover-96/bayreuth-spvgg/1990,1990,28,2_liga
+RW Essen,Alemannia Aachen,3-1,/match/rot-weiss-essen/alemannia-aachen/1990,1990,28,2_liga
+SC Freiburg,Wattenscheid 09,2-0,/match/sc-freiburg/wattenscheid-09/1990,1990,28,2_liga
+Blau-Weiß 1890 B.,Fortuna Köln,2-0,/match/blau-weiss-1890-berlin/fortuna-koln/1990,1990,28,2_liga
+VfL Osnabrück,Saarbrücken,1-1,/match/vfl-osnabruck/saarbrucken/1990,1990,28,2_liga
+Unterhaching,Hertha BSC,0-1,/match/unterhaching/hertha-bsc/1990,1990,28,2_liga
+Saarbrücken,RW Essen,2-3,/match/saarbrucken/rot-weiss-essen/1990,1990,29,2_liga
+Alemannia Aachen,Braunschweig,2-0,/match/alemannia-aachen/eintracht-brau-hellip/1990,1990,29,2_liga
+Hertha BSC,Blau-Weiß 1890 B.,3-0,/match/hertha-bsc/blau-weiss-1890-berlin/1990,1990,29,2_liga
+Darmstadt 98,Meppen,3-3,/match/darmstadt-98/meppen/1990,1990,29,2_liga
+Fortuna Köln,SC Freiburg,1-1,/match/fortuna-koln/sc-freiburg/1990,1990,29,2_liga
+Preußen Münster,Unterhaching,2-2,/match/preuben-munster/unterhaching/1990,1990,29,2_liga
+Hessen Kassel,MSV Duisburg,2-1,/match/hessen-kassel/msv-duisburg/1990,1990,29,2_liga
+Stuttgarter,Hannover 96,3-2,/match/stuttgarter-kickers/hannover-96/1990,1990,29,2_liga
+Bayreuth SpVgg,Schalke 04,1-1,/match/bayreuth-spvgg/schalke-04/1990,1990,29,2_liga
+Wattenscheid 09,VfL Osnabrück,1-1,/match/wattenscheid-09/vfl-osnabruck/1990,1990,29,2_liga
+Meppen,Bayreuth SpVgg,1-1,/match/meppen/bayreuth-spvgg/1990,1990,30,2_liga
+Blau-Weiß 1890 B.,Preußen Münster,2-1,/match/blau-weiss-1890-berlin/preuben-munster/1990,1990,30,2_liga
+Braunschweig,Saarbrücken,0-0,/match/eintracht-brau-hellip/saarbrucken/1990,1990,30,2_liga
+SC Freiburg,Hertha BSC,0-2,/match/sc-freiburg/hertha-bsc/1990,1990,30,2_liga
+Unterhaching,Darmstadt 98,1-0,/match/unterhaching/darmstadt-98/1990,1990,30,2_liga
+Schalke 04,Stuttgarter,2-0,/match/schalke-04/stuttgarter-kickers/1990,1990,30,2_liga
+Hannover 96,MSV Duisburg,2-2,/match/hannover-96/msv-duisburg/1990,1990,30,2_liga
+RW Essen,Wattenscheid 09,0-2,/match/rot-weiss-essen/wattenscheid-09/1990,1990,30,2_liga
+VfL Osnabrück,Fortuna Köln,2-2,/match/vfl-osnabruck/fortuna-koln/1990,1990,30,2_liga
+Alemannia Aachen,Hessen Kassel,2-2,/match/alemannia-aachen/hessen-kassel/1990,1990,30,2_liga
+Wattenscheid 09,Braunschweig,3-1,/match/wattenscheid-09/eintracht-brau-hellip/1990,1990,31,2_liga
+Preußen Münster,SC Freiburg,0-0,/match/preuben-munster/sc-freiburg/1990,1990,31,2_liga
+Hertha BSC,VfL Osnabrück,3-0,/match/hertha-bsc/vfl-osnabruck/1990,1990,31,2_liga
+Fortuna Köln,RW Essen,1-1,/match/fortuna-koln/rot-weiss-essen/1990,1990,31,2_liga
+Saarbrücken,Alemannia Aachen,0-0,/match/saarbrucken/alemannia-aachen/1990,1990,31,2_liga
+Hessen Kassel,Hannover 96,0-1,/match/hessen-kassel/hannover-96/1990,1990,31,2_liga
+MSV Duisburg,Schalke 04,1-3,/match/msv-duisburg/schalke-04/1990,1990,31,2_liga
+Darmstadt 98,Blau-Weiß 1890 B.,3-0,/match/darmstadt-98/blau-weiss-1890-berlin/1990,1990,31,2_liga
+Stuttgarter,Meppen,5-1,/match/stuttgarter-kickers/meppen/1990,1990,31,2_liga
+Bayreuth SpVgg,Unterhaching,3-1,/match/bayreuth-spvgg/unterhaching/1990,1990,31,2_liga
+Unterhaching,Stuttgarter,3-1,/match/unterhaching/stuttgarter-kickers/1990,1990,32,2_liga
+Saarbrücken,Hessen Kassel,3-1,/match/saarbrucken/hessen-kassel/1990,1990,32,2_liga
+VfL Osnabrück,Preußen Münster,1-2,/match/vfl-osnabruck/preuben-munster/1990,1990,32,2_liga
+SC Freiburg,Darmstadt 98,1-2,/match/sc-freiburg/darmstadt-98/1990,1990,32,2_liga
+Blau-Weiß 1890 B.,Bayreuth SpVgg,1-0,/match/blau-weiss-1890-berlin/bayreuth-spvgg/1990,1990,32,2_liga
+Schalke 04,Hannover 96,1-1,/match/schalke-04/hannover-96/1990,1990,32,2_liga
+Alemannia Aachen,Wattenscheid 09,1-3,/match/alemannia-aachen/wattenscheid-09/1990,1990,32,2_liga
+Braunschweig,Fortuna Köln,2-2,/match/eintracht-brau-hellip/fortuna-koln/1990,1990,32,2_liga
+RW Essen,Hertha BSC,0-0,/match/rot-weiss-essen/hertha-bsc/1990,1990,32,2_liga
+Meppen,MSV Duisburg,0-0,/match/meppen/msv-duisburg/1990,1990,32,2_liga
+Wattenscheid 09,Saarbrücken,0-2,/match/wattenscheid-09/saarbrucken/1990,1990,33,2_liga
+Bayreuth SpVgg,SC Freiburg,3-1,/match/bayreuth-spvgg/sc-freiburg/1990,1990,33,2_liga
+Darmstadt 98,VfL Osnabrück,1-0,/match/darmstadt-98/vfl-osnabruck/1990,1990,33,2_liga
+Preußen Münster,RW Essen,1-3,/match/preuben-munster/rot-weiss-essen/1990,1990,33,2_liga
+Fortuna Köln,Alemannia Aachen,0-0,/match/fortuna-koln/alemannia-aachen/1990,1990,33,2_liga
+Hannover 96,Meppen,1-0,/match/hannover-96/meppen/1990,1990,33,2_liga
+Hessen Kassel,Schalke 04,2-0,/match/hessen-kassel/schalke-04/1990,1990,33,2_liga
+MSV Duisburg,Unterhaching,0-0,/match/msv-duisburg/unterhaching/1990,1990,33,2_liga
+Stuttgarter,Blau-Weiß 1890 B.,1-1,/match/stuttgarter-kickers/blau-weiss-1890-berlin/1990,1990,33,2_liga
+Hertha BSC,Braunschweig,1-1,/match/hertha-bsc/eintracht-brau-hellip/1990,1990,33,2_liga
+SC Freiburg,Stuttgarter,2-0,/match/sc-freiburg/stuttgarter-kickers/1990,1990,34,2_liga
+Braunschweig,Preußen Münster,1-2,/match/eintracht-brau-hellip/preuben-munster/1990,1990,34,2_liga
+RW Essen,Darmstadt 98,1-0,/match/rot-weiss-essen/darmstadt-98/1990,1990,34,2_liga
+VfL Osnabrück,Bayreuth SpVgg,0-3,/match/vfl-osnabruck/bayreuth-spvgg/1990,1990,34,2_liga
+Blau-Weiß 1890 B.,MSV Duisburg,3-0,/match/blau-weiss-1890-berlin/msv-duisburg/1990,1990,34,2_liga
+Unterhaching,Hannover 96,0-0,/match/unterhaching/hannover-96/1990,1990,34,2_liga
+Meppen,Schalke 04,2-2,/match/meppen/schalke-04/1990,1990,34,2_liga
+Alemannia Aachen,Hertha BSC,1-1,/match/alemannia-aachen/hertha-bsc/1990,1990,34,2_liga
+Wattenscheid 09,Hessen Kassel,2-0,/match/wattenscheid-09/hessen-kassel/1990,1990,34,2_liga
+Saarbrücken,Fortuna Köln,2-2,/match/saarbrucken/fortuna-koln/1990,1990,34,2_liga
+Hertha BSC,Saarbrücken,4-0,/match/hertha-bsc/saarbrucken/1990,1990,35,2_liga
+Darmstadt 98,Braunschweig,2-2,/match/darmstadt-98/eintracht-brau-hellip/1990,1990,35,2_liga
+MSV Duisburg,SC Freiburg,1-0,/match/msv-duisburg/sc-freiburg/1990,1990,35,2_liga
+Hessen Kassel,Meppen,1-1,/match/hessen-kassel/meppen/1990,1990,35,2_liga
+Stuttgarter,VfL Osnabrück,2-1,/match/stuttgarter-kickers/vfl-osnabruck/1990,1990,35,2_liga
+Bayreuth SpVgg,RW Essen,1-2,/match/bayreuth-spvgg/rot-weiss-essen/1990,1990,35,2_liga
+Fortuna Köln,Wattenscheid 09,1-1,/match/fortuna-koln/wattenscheid-09/1990,1990,35,2_liga
+Hannover 96,Blau-Weiß 1890 B.,2-0,/match/hannover-96/blau-weiss-1890-berlin/1990,1990,35,2_liga
+Schalke 04,Unterhaching,3-3,/match/schalke-04/unterhaching/1990,1990,35,2_liga
+Preußen Münster,Alemannia Aachen,2-0,/match/preuben-munster/alemannia-aachen/1990,1990,35,2_liga
+VfL Osnabrück,MSV Duisburg,1-0,/match/vfl-osnabruck/msv-duisburg/1990,1990,36,2_liga
+Unterhaching,Meppen,1-3,/match/unterhaching/meppen/1990,1990,36,2_liga
+Saarbrücken,Preußen Münster,1-0,/match/saarbrucken/preuben-munster/1990,1990,36,2_liga
+Alemannia Aachen,Darmstadt 98,0-0,/match/alemannia-aachen/darmstadt-98/1990,1990,36,2_liga
+RW Essen,Stuttgarter,1-0,/match/rot-weiss-essen/stuttgarter-kickers/1990,1990,36,2_liga
+SC Freiburg,Hannover 96,1-1,/match/sc-freiburg/hannover-96/1990,1990,36,2_liga
+Blau-Weiß 1890 B.,Schalke 04,1-1,/match/blau-weiss-1890-berlin/schalke-04/1990,1990,36,2_liga
+Hessen Kassel,Fortuna Köln,1-0,/match/hessen-kassel/fortuna-koln/1990,1990,36,2_liga
+Wattenscheid 09,Hertha BSC,5-1,/match/wattenscheid-09/hertha-bsc/1990,1990,36,2_liga
+Braunschweig,Bayreuth SpVgg,2-1,/match/eintracht-brau-hellip/bayreuth-spvgg/1990,1990,36,2_liga
+Stuttgarter,Braunschweig,4-0,/match/stuttgarter-kickers/eintracht-brau-hellip/1990,1990,37,2_liga
+Schalke 04,SC Freiburg,2-1,/match/schalke-04/sc-freiburg/1990,1990,37,2_liga
+Unterhaching,Hessen Kassel,1-0,/match/unterhaching/hessen-kassel/1990,1990,37,2_liga
+Hannover 96,VfL Osnabrück,1-1,/match/hannover-96/vfl-osnabruck/1990,1990,37,2_liga
+MSV Duisburg,RW Essen,2-2,/match/msv-duisburg/rot-weiss-essen/1990,1990,37,2_liga
+Darmstadt 98,Saarbrücken,0-0,/match/darmstadt-98/saarbrucken/1990,1990,37,2_liga
+Preußen Münster,Wattenscheid 09,1-0,/match/preuben-munster/wattenscheid-09/1990,1990,37,2_liga
+Meppen,Blau-Weiß 1890 B.,1-1,/match/meppen/blau-weiss-1890-berlin/1990,1990,37,2_liga
+Hertha BSC,Fortuna Köln,3-0,/match/hertha-bsc/fortuna-koln/1990,1990,37,2_liga
+Bayreuth SpVgg,Alemannia Aachen,3-0,/match/bayreuth-spvgg/alemannia-aachen/1990,1990,37,2_liga
+RW Essen,Hannover 96,4-3,/match/rot-weiss-essen/hannover-96/1990,1990,38,2_liga
+Fortuna Köln,Preußen Münster,2-5,/match/fortuna-koln/preuben-munster/1990,1990,38,2_liga
+Wattenscheid 09,Darmstadt 98,0-0,/match/wattenscheid-09/darmstadt-98/1990,1990,38,2_liga
+Saarbrücken,Bayreuth SpVgg,0-0,/match/saarbrucken/bayreuth-spvgg/1990,1990,38,2_liga
+Braunschweig,MSV Duisburg,4-1,/match/eintracht-brau-hellip/msv-duisburg/1990,1990,38,2_liga
+SC Freiburg,Meppen,6-1,/match/sc-freiburg/meppen/1990,1990,38,2_liga
+VfL Osnabrück,Schalke 04,3-1,/match/vfl-osnabruck/schalke-04/1990,1990,38,2_liga
+Blau-Weiß 1890 B.,Unterhaching,3-2,/match/blau-weiss-1890-berlin/unterhaching/1990,1990,38,2_liga
+Hessen Kassel,Hertha BSC,2-0,/match/hessen-kassel/hertha-bsc/1990,1990,38,2_liga
+Alemannia Aachen,Stuttgarter,2-1,/match/alemannia-aachen/stuttgarter-kickers/1990,1990,38,2_liga

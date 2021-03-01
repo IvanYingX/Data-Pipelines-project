@@ -19,6 +19,13 @@ def confirm(year_1, year_2, mask):
             root.destroy()
             sys.exit('Quitting...')
 
+    w = 300  # width for the Tk root
+    h = 300  # height for the Tk root
+    ws = root.winfo_screenwidth()  # width of the screen
+    hs = root.winfo_screenheight()  # height of the screen
+    x = (ws/2) - (w/2)
+    y = (hs/2) - (h/2)
+    root.geometry('%dx%d+%d+%d' % (w, h, x, y))
     root.protocol("WM_DELETE_WINDOW", on_closing)
 
     v = tk.IntVar()
@@ -26,13 +33,13 @@ def confirm(year_1, year_2, mask):
     root.title("Summary")
     tk.Label(root, text=f'''You are extracting data from {year_1}
              to {year_2} from league(s)''',
-             justify=tk.LEFT, font=("Arial", 14),
+             justify=tk.CENTER, font=("Arial", 12),
              padx=5, pady=10).grid(row=0, column=0, columnspan=2)
     tk.Label(root, text=f"{leagues_text}", justify=tk.CENTER,
-             font=("Arial", 14), padx=5,
+             font=("Arial", 12), padx=5,
              pady=10).grid(row=1, column=0, columnspan=2)
-    tk.Label(root, text="Do you want to continue?", justify=tk.LEFT,
-             font=("Arial", 14), padx=5,
+    tk.Label(root, text="Do you want to continue?", justify=tk.CENTER,
+             font=("Arial", 12), padx=5,
              pady=10).grid(row=2, column=0, columnspan=2)
 
     tk.Radiobutton(root, text="Yes", indicatoron=0, width=10, relief=tk.FLAT,

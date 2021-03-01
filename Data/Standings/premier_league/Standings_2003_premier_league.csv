@@ -1,0 +1,760 @@
+1,Newcastle,3,1,0,0,4,0,20,2003,1,premier_league
+2,Fulham,3,1,0,0,4,1,20,2003,1,premier_league
+3,Leeds United,3,1,0,0,3,0,20,2003,1,premier_league
+4,Arsenal,3,1,0,0,2,0,20,2003,1,premier_league
+5,Chelsea,3,1,0,0,3,2,20,2003,1,premier_league
+6,Liverpool,3,1,0,0,1,0,20,2003,1,premier_league
+7,Man. Utd,3,1,0,0,1,0,20,2003,1,premier_league
+8,Everton,1,0,1,0,2,2,20,2003,1,premier_league
+9,Tottenham Hotspur,1,0,1,0,2,2,20,2003,1,premier_league
+10,Southampton,1,0,1,0,0,0,20,2003,1,premier_league
+11,Sunderland,1,0,1,0,0,0,20,2003,1,premier_league
+12,Middlesbrough,1,0,1,0,0,0,20,2003,1,premier_league
+13,Blackburn Rovers,1,0,1,0,0,0,20,2003,1,premier_league
+14,Charlton Athletic,0,0,0,1,2,3,20,2003,1,premier_league
+15,West Bromwich Alb.,0,0,0,1,0,1,20,2003,1,premier_league
+16,Aston Villa,0,0,0,1,0,1,20,2003,1,premier_league
+17,Birmingham City,0,0,0,1,0,2,20,2003,1,premier_league
+18,Bolton Wanderers,0,0,0,1,1,4,20,2003,1,premier_league
+19,Man. City,0,0,0,1,0,3,20,2003,1,premier_league
+20,West Ham,0,0,0,1,0,4,20,2003,1,premier_league
+1,Leeds United,6,2,0,0,6,1,20,2003,2,premier_league
+2,Liverpool,6,2,0,0,4,0,20,2003,2,premier_league
+3,Fulham,4,1,1,0,6,3,20,2003,2,premier_league
+4,Arsenal,4,1,1,0,4,2,20,2003,2,premier_league
+5,Chelsea,4,1,1,0,5,4,20,2003,2,premier_league
+6,Everton,4,1,1,0,3,2,20,2003,2,premier_league
+7,Man. Utd,4,1,1,0,3,2,20,2003,2,premier_league
+8,Tottenham Hotspur,4,1,1,0,3,2,20,2003,2,premier_league
+9,Blackburn Rovers,4,1,1,0,1,0,20,2003,2,premier_league
+10,Newcastle,3,1,0,1,4,1,20,2003,2,premier_league
+11,Charlton Athletic,3,1,0,1,4,4,20,2003,2,premier_league
+12,Man. City,3,1,0,1,1,3,20,2003,2,premier_league
+13,Middlesbrough,2,0,2,0,2,2,20,2003,2,premier_league
+14,Sunderland,1,0,1,1,0,1,20,2003,2,premier_league
+15,Southampton,1,0,1,1,0,3,20,2003,2,premier_league
+16,West Ham,1,0,1,1,2,6,20,2003,2,premier_league
+17,Aston Villa,0,0,0,2,0,2,20,2003,2,premier_league
+18,West Bromwich Alb.,0,0,0,2,1,4,20,2003,2,premier_league
+19,Birmingham City,0,0,0,2,0,3,20,2003,2,premier_league
+20,Bolton Wanderers,0,0,0,2,2,6,20,2003,2,premier_league
+1,Arsenal,7,2,1,0,9,4,20,2003,3,premier_league
+2,Liverpool,7,2,1,0,6,2,20,2003,3,premier_league
+3,Man. Utd,7,2,1,0,4,2,20,2003,3,premier_league
+4,Tottenham Hotspur,7,2,1,0,4,2,20,2003,3,premier_league
+5,Leeds United,6,2,0,1,6,2,20,2003,3,premier_league
+6,Newcastle,6,2,0,1,5,1,20,2003,3,premier_league
+7,Chelsea,5,1,2,0,6,5,20,2003,3,premier_league
+8,Everton,5,1,2,0,4,3,20,2003,3,premier_league
+9,Blackburn Rovers,5,1,2,0,3,2,20,2003,3,premier_league
+10,Fulham,4,1,1,1,6,4,20,2003,3,premier_league
+11,Sunderland,4,1,1,1,1,1,20,2003,3,premier_league
+12,West Ham,4,1,1,1,3,6,20,2003,3,premier_league
+13,Charlton Athletic,3,1,0,2,4,5,20,2003,3,premier_league
+14,Aston Villa,3,1,0,2,1,2,20,2003,3,premier_league
+15,Man. City,3,1,0,2,1,4,20,2003,3,premier_league
+16,Middlesbrough,2,0,2,1,2,3,20,2003,3,premier_league
+17,Southampton,2,0,2,1,1,4,20,2003,3,premier_league
+18,Birmingham City,1,0,1,2,1,4,20,2003,3,premier_league
+19,Bolton Wanderers,0,0,0,3,2,7,20,2003,3,premier_league
+20,West Bromwich Alb.,0,0,0,3,3,9,20,2003,3,premier_league
+1,Tottenham Hotspur,10,3,1,0,6,3,20,2003,4,premier_league
+2,Arsenal,8,2,2,0,10,5,20,2003,4,premier_league
+3,Liverpool,8,2,2,0,8,4,20,2003,4,premier_league
+4,Man. Utd,8,2,2,0,5,3,20,2003,4,premier_league
+5,Newcastle,7,2,1,1,7,3,20,2003,4,premier_league
+6,Leeds United,6,2,0,2,7,4,20,2003,4,premier_league
+7,Chelsea,6,1,3,0,7,6,20,2003,4,premier_league
+8,Charlton Athletic,6,2,0,2,6,5,20,2003,4,premier_league
+9,Man. City,6,2,0,2,4,5,20,2003,4,premier_league
+10,Blackburn Rovers,5,1,2,1,3,3,20,2003,4,premier_league
+11,Middlesbrough,5,1,2,1,3,3,20,2003,4,premier_league
+12,Sunderland,5,1,2,1,2,2,20,2003,4,premier_league
+13,Everton,5,1,2,1,5,6,20,2003,4,premier_league
+14,Fulham,4,1,1,2,6,5,20,2003,4,premier_league
+15,Birmingham City,4,1,1,2,3,5,20,2003,4,premier_league
+16,West Ham,4,1,1,2,3,8,20,2003,4,premier_league
+17,Aston Villa,3,1,0,3,1,3,20,2003,4,premier_league
+18,Bolton Wanderers,3,1,0,3,3,7,20,2003,4,premier_league
+19,West Bromwich Alb.,3,1,0,3,4,9,20,2003,4,premier_league
+20,Southampton,2,0,2,2,2,6,20,2003,4,premier_league
+1,Arsenal,11,3,2,0,12,6,20,2003,5,premier_league
+2,Tottenham Hotspur,10,3,1,1,8,6,20,2003,5,premier_league
+3,Leeds United,9,3,0,2,9,4,20,2003,5,premier_league
+4,Liverpool,9,2,3,0,10,6,20,2003,5,premier_league
+5,Chelsea,9,2,3,0,10,8,20,2003,5,premier_league
+6,Middlesbrough,8,2,2,1,6,3,20,2003,5,premier_league
+7,Man. Utd,8,2,2,1,5,4,20,2003,5,premier_league
+8,Fulham,7,2,1,2,9,7,20,2003,5,premier_league
+9,Newcastle,7,2,1,2,7,5,20,2003,5,premier_league
+10,Aston Villa,6,2,0,3,3,3,20,2003,5,premier_league
+11,Charlton Athletic,6,2,0,3,6,7,20,2003,5,premier_league
+12,Man. City,6,2,0,3,5,7,20,2003,5,premier_league
+13,Bolton Wanderers,6,2,0,3,4,7,20,2003,5,premier_league
+14,West Bromwich Alb.,6,2,0,3,5,9,20,2003,5,premier_league
+15,Blackburn Rovers,5,1,2,2,5,6,20,2003,5,premier_league
+16,Everton,5,1,2,2,5,7,20,2003,5,premier_league
+17,Birmingham City,5,1,2,2,5,7,20,2003,5,premier_league
+18,Southampton,5,1,2,2,3,6,20,2003,5,premier_league
+19,Sunderland,5,1,2,2,2,5,20,2003,5,premier_league
+20,West Ham,4,1,1,3,3,9,20,2003,5,premier_league
+1,Arsenal,14,4,2,0,15,6,20,2003,6,premier_league
+2,Tottenham Hotspur,13,4,1,1,11,8,20,2003,6,premier_league
+3,Leeds United,12,4,0,2,10,4,20,2003,6,premier_league
+4,Chelsea,12,3,3,0,13,8,20,2003,6,premier_league
+5,Liverpool,12,3,3,0,13,8,20,2003,6,premier_league
+6,Fulham,10,3,1,2,12,7,20,2003,6,premier_league
+7,West Bromwich Alb.,9,3,0,3,6,9,20,2003,6,premier_league
+8,Middlesbrough,8,2,2,2,7,5,20,2003,6,premier_league
+9,Birmingham City,8,2,2,2,8,7,20,2003,6,premier_league
+10,Man. Utd,8,2,2,2,5,5,20,2003,6,premier_league
+11,Everton,8,2,2,2,7,8,20,2003,6,premier_league
+12,Newcastle,7,2,1,3,7,8,20,2003,6,premier_league
+13,Man. City,7,2,1,3,7,9,20,2003,6,premier_league
+14,Blackburn Rovers,6,1,3,2,7,8,20,2003,6,premier_league
+15,Aston Villa,6,2,0,4,3,6,20,2003,6,premier_league
+16,Charlton Athletic,6,2,0,4,6,10,20,2003,6,premier_league
+17,Bolton Wanderers,6,2,0,4,6,10,20,2003,6,premier_league
+18,Southampton,5,1,2,3,3,7,20,2003,6,premier_league
+19,Sunderland,5,1,2,3,2,8,20,2003,6,premier_league
+20,West Ham,4,1,1,4,5,12,20,2003,6,premier_league
+1,Arsenal,17,5,2,0,17,7,20,2003,7,premier_league
+2,Liverpool,15,4,3,0,15,8,20,2003,7,premier_league
+3,Chelsea,13,3,4,0,13,8,20,2003,7,premier_league
+4,Tottenham Hotspur,13,4,1,2,11,9,20,2003,7,premier_league
+5,Leeds United,12,4,0,3,10,5,20,2003,7,premier_league
+6,Fulham,11,3,2,2,12,7,20,2003,7,premier_league
+7,Middlesbrough,11,3,2,2,8,5,20,2003,7,premier_league
+8,Man. Utd,11,3,2,2,6,5,20,2003,7,premier_league
+9,Newcastle,10,3,1,3,9,8,20,2003,7,premier_league
+10,Blackburn Rovers,9,2,3,2,8,8,20,2003,7,premier_league
+11,Aston Villa,9,3,0,4,6,8,20,2003,7,premier_league
+12,West Bromwich Alb.,9,3,0,4,6,11,20,2003,7,premier_league
+13,Birmingham City,8,2,2,3,8,8,20,2003,7,premier_league
+14,Everton,8,2,2,3,9,11,20,2003,7,premier_league
+15,Man. City,8,2,2,3,7,9,20,2003,7,premier_league
+16,Charlton Athletic,7,2,1,4,6,10,20,2003,7,premier_league
+17,Southampton,6,1,3,3,3,7,20,2003,7,premier_league
+18,Bolton Wanderers,6,2,0,5,7,12,20,2003,7,premier_league
+19,West Ham,5,1,2,4,5,12,20,2003,7,premier_league
+20,Sunderland,5,1,2,4,2,10,20,2003,7,premier_league
+1,Arsenal,20,6,2,0,21,8,20,2003,8,premier_league
+2,Liverpool,18,5,3,0,18,8,20,2003,8,premier_league
+3,Middlesbrough,14,4,2,2,11,5,20,2003,8,premier_league
+4,Man. Utd,14,4,2,2,9,6,20,2003,8,premier_league
+5,Chelsea,13,3,4,1,15,11,20,2003,8,premier_league
+6,Newcastle,13,4,1,3,11,8,20,2003,8,premier_league
+7,Tottenham Hotspur,13,4,1,3,11,12,20,2003,8,premier_league
+8,Leeds United,12,4,0,4,11,9,20,2003,8,premier_league
+9,Blackburn Rovers,12,3,3,2,10,8,20,2003,8,premier_league
+10,Fulham,11,3,2,3,12,9,20,2003,8,premier_league
+11,Everton,11,3,2,3,11,11,20,2003,8,premier_league
+12,Aston Villa,9,3,0,5,6,9,20,2003,8,premier_league
+13,West Bromwich Alb.,9,3,0,5,6,13,20,2003,8,premier_league
+14,Birmingham City,8,2,2,4,8,10,20,2003,8,premier_league
+15,Man. City,8,2,2,4,7,12,20,2003,8,premier_league
+16,West Ham,8,2,2,4,8,14,20,2003,8,premier_league
+17,Sunderland,8,2,2,4,3,10,20,2003,8,premier_league
+18,Southampton,7,1,4,3,4,8,20,2003,8,premier_league
+19,Bolton Wanderers,7,2,1,5,8,13,20,2003,8,premier_league
+20,Charlton Athletic,7,2,1,5,7,13,20,2003,8,premier_league
+1,Arsenal,23,7,2,0,24,9,20,2003,9,premier_league
+2,Liverpool,21,6,3,0,19,8,20,2003,9,premier_league
+3,Middlesbrough,17,5,2,2,13,5,20,2003,9,premier_league
+4,Man. Utd,17,5,2,2,12,6,20,2003,9,premier_league
+5,Newcastle,16,5,1,3,13,9,20,2003,9,premier_league
+6,Tottenham Hotspur,16,5,1,3,13,13,20,2003,9,premier_league
+7,Fulham,14,4,2,3,13,9,20,2003,9,premier_league
+8,Chelsea,13,3,4,2,15,12,20,2003,9,premier_league
+9,Leeds United,13,4,1,4,11,9,20,2003,9,premier_league
+10,Blackburn Rovers,12,3,3,3,11,10,20,2003,9,premier_league
+11,Birmingham City,11,3,2,4,10,11,20,2003,9,premier_league
+12,Everton,11,3,2,4,11,14,20,2003,9,premier_league
+13,Southampton,10,2,4,3,6,8,20,2003,9,premier_league
+14,Aston Villa,10,3,1,5,6,9,20,2003,9,premier_league
+15,West Bromwich Alb.,9,3,0,6,7,15,20,2003,9,premier_league
+16,West Ham,8,2,2,5,9,16,20,2003,9,premier_league
+17,Man. City,8,2,2,5,7,14,20,2003,9,premier_league
+18,Sunderland,8,2,2,5,4,13,20,2003,9,premier_league
+19,Bolton Wanderers,7,2,1,6,8,15,20,2003,9,premier_league
+20,Charlton Athletic,7,2,1,6,7,14,20,2003,9,premier_league
+1,Liverpool,24,7,3,0,20,8,20,2003,10,premier_league
+2,Arsenal,23,7,2,1,25,11,20,2003,10,premier_league
+3,Tottenham Hotspur,19,6,1,3,16,14,20,2003,10,premier_league
+4,Man. Utd,18,5,3,2,13,7,20,2003,10,premier_league
+5,Middlesbrough,17,5,2,3,13,6,20,2003,10,premier_league
+6,Chelsea,16,4,4,2,18,12,20,2003,10,premier_league
+7,Newcastle,16,5,1,4,15,14,20,2003,10,premier_league
+8,Blackburn Rovers,15,4,3,3,16,12,20,2003,10,premier_league
+9,Fulham,15,4,3,3,14,10,20,2003,10,premier_league
+10,Everton,14,4,2,4,13,15,20,2003,10,premier_league
+11,Leeds United,13,4,1,5,11,10,20,2003,10,premier_league
+12,Southampton,13,3,4,3,7,8,20,2003,10,premier_league
+13,Birmingham City,12,3,3,4,11,12,20,2003,10,premier_league
+14,West Ham,11,3,2,5,10,16,20,2003,10,premier_league
+15,Aston Villa,10,3,1,6,6,10,20,2003,10,premier_league
+16,Charlton Athletic,10,3,1,6,8,14,20,2003,10,premier_league
+17,West Bromwich Alb.,10,3,1,6,8,16,20,2003,10,premier_league
+18,Man. City,8,2,2,6,7,17,20,2003,10,premier_league
+19,Sunderland,8,2,2,6,4,14,20,2003,10,premier_league
+20,Bolton Wanderers,7,2,1,7,9,18,20,2003,10,premier_league
+1,Liverpool,27,8,3,0,22,9,20,2003,11,premier_league
+2,Arsenal,23,7,2,2,26,13,20,2003,11,premier_league
+3,Chelsea,19,5,4,2,20,12,20,2003,11,premier_league
+4,Man. Utd,19,5,4,2,14,8,20,2003,11,premier_league
+5,Newcastle,19,6,1,4,17,15,20,2003,11,premier_league
+6,Tottenham Hotspur,19,6,1,4,17,16,20,2003,11,premier_league
+7,Middlesbrough,18,5,3,3,15,8,20,2003,11,premier_league
+8,Blackburn Rovers,18,5,3,3,18,13,20,2003,11,premier_league
+9,Everton,17,5,2,4,14,15,20,2003,11,premier_league
+10,Southampton,16,4,4,3,11,10,20,2003,11,premier_league
+11,Fulham,15,4,3,4,16,14,20,2003,11,premier_league
+12,Leeds United,14,4,2,5,13,12,20,2003,11,premier_league
+13,Birmingham City,12,3,3,5,11,14,20,2003,11,premier_league
+14,Aston Villa,11,3,2,6,7,11,20,2003,11,premier_league
+15,West Ham,11,3,2,6,10,17,20,2003,11,premier_league
+16,Man. City,11,3,2,6,9,17,20,2003,11,premier_league
+17,Charlton Athletic,10,3,1,7,9,16,20,2003,11,premier_league
+18,West Bromwich Alb.,10,3,1,7,8,18,20,2003,11,premier_league
+19,Sunderland,9,2,3,6,5,15,20,2003,11,premier_league
+20,Bolton Wanderers,8,2,2,7,10,19,20,2003,11,premier_league
+1,Liverpool,30,9,3,0,24,9,20,2003,12,premier_league
+2,Arsenal,26,8,2,2,27,13,20,2003,12,premier_league
+3,Man. Utd,22,6,4,2,16,9,20,2003,12,premier_league
+4,Newcastle,22,7,1,4,19,15,20,2003,12,premier_league
+5,Chelsea,20,5,5,2,20,12,20,2003,12,premier_league
+6,Tottenham Hotspur,20,6,2,4,17,16,20,2003,12,premier_league
+7,Everton,20,6,2,4,15,15,20,2003,12,premier_league
+8,Blackburn Rovers,19,5,4,3,18,13,20,2003,12,premier_league
+9,Middlesbrough,18,5,3,4,15,10,20,2003,12,premier_league
+10,Southampton,16,4,4,4,12,12,20,2003,12,premier_league
+11,Fulham,15,4,3,5,16,15,20,2003,12,premier_league
+12,Birmingham City,15,4,3,5,14,15,20,2003,12,premier_league
+13,Leeds United,14,4,2,6,13,13,20,2003,12,premier_league
+14,Man. City,14,4,2,6,11,18,20,2003,12,premier_league
+15,Aston Villa,12,3,3,6,7,11,20,2003,12,premier_league
+16,Charlton Athletic,11,3,2,7,10,17,20,2003,12,premier_league
+17,West Ham,11,3,2,7,10,19,20,2003,12,premier_league
+18,Sunderland,10,2,4,6,6,16,20,2003,12,premier_league
+19,West Bromwich Alb.,10,3,1,8,9,20,20,2003,12,premier_league
+20,Bolton Wanderers,8,2,2,8,11,22,20,2003,12,premier_league
+1,Liverpool,30,9,3,1,24,10,20,2003,13,premier_league
+2,Arsenal,29,9,2,2,28,13,20,2003,13,premier_league
+3,Chelsea,23,6,5,2,23,12,20,2003,13,premier_league
+4,Everton,23,7,2,4,16,15,20,2003,13,premier_league
+5,Man. Utd,22,6,4,3,17,12,20,2003,13,premier_league
+6,Newcastle,22,7,1,5,19,16,20,2003,13,premier_league
+7,Middlesbrough,21,6,3,4,16,10,20,2003,13,premier_league
+8,Blackburn Rovers,20,5,5,3,19,14,20,2003,13,premier_league
+9,Tottenham Hotspur,20,6,2,5,17,18,20,2003,13,premier_league
+10,Leeds United,17,5,2,6,17,16,20,2003,13,premier_league
+11,Southampton,17,4,5,4,13,13,20,2003,13,premier_league
+12,Man. City,17,5,2,6,14,19,20,2003,13,premier_league
+13,Fulham,15,4,3,6,17,18,20,2003,13,premier_league
+14,Aston Villa,15,4,3,6,10,12,20,2003,13,premier_league
+15,Birmingham City,15,4,3,6,14,18,20,2003,13,premier_league
+16,Sunderland,13,3,4,6,8,16,20,2003,13,premier_league
+17,Charlton Athletic,11,3,2,8,10,18,20,2003,13,premier_league
+18,West Ham,11,3,2,8,13,23,20,2003,13,premier_league
+19,West Bromwich Alb.,11,3,2,8,10,21,20,2003,13,premier_league
+20,Bolton Wanderers,9,2,3,8,12,23,20,2003,13,premier_league
+1,Arsenal,32,10,2,2,31,13,20,2003,14,premier_league
+2,Liverpool,31,9,4,1,24,10,20,2003,14,premier_league
+3,Chelsea,26,7,5,2,24,12,20,2003,14,premier_league
+4,Everton,26,8,2,4,17,15,20,2003,14,premier_league
+5,Newcastle,25,8,1,5,21,17,20,2003,14,premier_league
+6,Man. Utd,23,6,5,3,18,13,20,2003,14,premier_league
+7,Middlesbrough,21,6,3,5,16,11,20,2003,14,premier_league
+8,Blackburn Rovers,20,5,5,4,19,15,20,2003,14,premier_league
+9,Tottenham Hotspur,20,6,2,6,17,21,20,2003,14,premier_league
+10,Leeds United,17,5,2,7,19,20,20,2003,14,premier_league
+11,Southampton,17,4,5,5,14,15,20,2003,14,premier_league
+12,Man. City,17,5,2,7,14,20,20,2003,14,premier_league
+13,Fulham,16,4,4,6,17,18,20,2003,14,premier_league
+14,Aston Villa,16,4,4,6,10,12,20,2003,14,premier_league
+15,Birmingham City,16,4,4,6,14,18,20,2003,14,premier_league
+16,Charlton Athletic,14,4,2,8,11,18,20,2003,14,premier_league
+17,Sunderland,14,3,5,6,8,16,20,2003,14,premier_league
+18,Bolton Wanderers,12,3,3,8,16,25,20,2003,14,premier_league
+19,West Ham,12,3,3,8,14,24,20,2003,14,premier_league
+20,West Bromwich Alb.,12,3,3,8,10,21,20,2003,14,premier_league
+1,Arsenal,32,10,2,3,33,16,20,2003,15,premier_league
+2,Liverpool,31,9,4,2,26,13,20,2003,15,premier_league
+3,Everton,29,9,2,4,18,15,20,2003,15,premier_league
+4,Chelsea,27,7,6,2,25,13,20,2003,15,premier_league
+5,Man. Utd,26,7,5,3,23,16,20,2003,15,premier_league
+6,Newcastle,25,8,1,6,24,22,20,2003,15,premier_league
+7,Middlesbrough,24,7,3,5,19,12,20,2003,15,premier_league
+8,Tottenham Hotspur,23,7,2,6,19,21,20,2003,15,premier_league
+9,Blackburn Rovers,20,5,5,5,20,18,20,2003,15,premier_league
+10,Southampton,20,5,5,5,17,17,20,2003,15,premier_league
+11,Aston Villa,19,5,4,6,14,13,20,2003,15,premier_league
+12,Fulham,19,5,4,6,20,20,20,2003,15,premier_league
+13,Birmingham City,19,5,4,6,15,18,20,2003,15,premier_league
+14,Leeds United,17,5,2,8,19,22,20,2003,15,premier_league
+15,Charlton Athletic,17,5,2,8,14,19,20,2003,15,premier_league
+16,Man. City,17,5,2,8,15,23,20,2003,15,premier_league
+17,Sunderland,14,3,5,7,8,17,20,2003,15,premier_league
+18,Bolton Wanderers,13,3,4,8,17,26,20,2003,15,premier_league
+19,West Bromwich Alb.,12,3,3,9,10,22,20,2003,15,premier_league
+20,West Ham,12,3,3,9,15,28,20,2003,15,premier_league
+1,Arsenal,35,11,2,3,36,17,20,2003,16,premier_league
+2,Liverpool,31,9,4,3,27,15,20,2003,16,premier_league
+3,Chelsea,30,8,6,2,28,13,20,2003,16,premier_league
+4,Man. Utd,29,8,5,3,25,17,20,2003,16,premier_league
+5,Everton,29,9,2,5,19,17,20,2003,16,premier_league
+6,Newcastle,28,9,1,6,26,23,20,2003,16,premier_league
+7,Middlesbrough,24,7,3,6,19,13,20,2003,16,premier_league
+8,Tottenham Hotspur,24,7,3,6,20,22,20,2003,16,premier_league
+9,Blackburn Rovers,23,6,5,5,22,19,20,2003,16,premier_league
+10,Southampton,23,6,5,5,18,17,20,2003,16,premier_league
+11,Birmingham City,20,5,5,6,16,19,20,2003,16,premier_league
+12,Charlton Athletic,20,6,2,8,16,20,20,2003,16,premier_league
+13,Man. City,20,6,2,8,17,23,20,2003,16,premier_league
+14,Fulham,19,5,4,7,21,22,20,2003,16,premier_league
+15,Aston Villa,19,5,4,7,15,16,20,2003,16,premier_league
+16,Leeds United,17,5,2,9,20,24,20,2003,16,premier_league
+17,West Bromwich Alb.,15,4,3,9,11,22,20,2003,16,premier_league
+18,Sunderland,14,3,5,8,8,20,20,2003,16,premier_league
+19,Bolton Wanderers,13,3,4,9,17,28,20,2003,16,premier_league
+20,West Ham,12,3,3,10,15,29,20,2003,16,premier_league
+1,Arsenal,35,11,2,4,36,19,20,2003,17,premier_league
+2,Chelsea,33,9,6,2,31,14,20,2003,17,premier_league
+3,Man. Utd,32,9,5,3,27,17,20,2003,17,premier_league
+4,Liverpool,31,9,4,4,27,17,20,2003,17,premier_league
+5,Newcastle,31,10,1,6,27,23,20,2003,17,premier_league
+6,Everton,29,9,2,6,20,20,20,2003,17,premier_league
+7,Tottenham Hotspur,27,8,3,6,23,23,20,2003,17,premier_league
+8,Southampton,26,7,5,5,20,17,20,2003,17,premier_league
+9,Middlesbrough,25,7,4,6,21,15,20,2003,17,premier_league
+10,Blackburn Rovers,24,6,6,5,23,20,20,2003,17,premier_league
+11,Charlton Athletic,23,7,2,8,18,20,20,2003,17,premier_league
+12,Man. City,23,7,2,8,20,23,20,2003,17,premier_league
+13,Fulham,22,6,4,7,22,22,20,2003,17,premier_league
+14,Birmingham City,20,5,5,7,16,21,20,2003,17,premier_league
+15,Aston Villa,19,5,4,8,15,17,20,2003,17,premier_league
+16,Leeds United,17,5,2,10,20,25,20,2003,17,premier_league
+17,West Bromwich Alb.,15,4,3,10,12,25,20,2003,17,premier_league
+18,Bolton Wanderers,14,3,5,9,18,29,20,2003,17,premier_league
+19,Sunderland,14,3,5,9,8,23,20,2003,17,premier_league
+20,West Ham,13,3,4,10,17,31,20,2003,17,premier_league
+1,Arsenal,36,11,3,4,37,20,20,2003,18,premier_league
+2,Man. Utd,35,10,5,3,30,17,20,2003,18,premier_league
+3,Chelsea,34,9,7,2,32,15,20,2003,18,premier_league
+4,Newcastle,32,10,2,6,28,24,20,2003,18,premier_league
+5,Everton,32,10,2,6,22,21,20,2003,18,premier_league
+6,Liverpool,31,9,4,5,28,19,20,2003,18,premier_league
+7,Tottenham Hotspur,28,8,4,6,24,24,20,2003,18,premier_league
+8,Southampton,27,7,6,5,21,18,20,2003,18,premier_league
+9,Middlesbrough,26,7,5,6,22,16,20,2003,18,premier_league
+10,Blackburn Rovers,24,6,6,6,24,22,20,2003,18,premier_league
+11,Charlton Athletic,24,7,3,8,20,22,20,2003,18,premier_league
+12,Man. City,24,7,3,8,22,25,20,2003,18,premier_league
+13,Birmingham City,23,6,5,7,17,21,20,2003,18,premier_league
+14,Fulham,22,6,4,8,22,23,20,2003,18,premier_league
+15,Aston Villa,22,6,4,8,17,18,20,2003,18,premier_league
+16,Leeds United,20,6,2,10,23,25,20,2003,18,premier_league
+17,Sunderland,17,4,5,9,10,24,20,2003,18,premier_league
+18,West Bromwich Alb.,15,4,3,11,13,27,20,2003,18,premier_league
+19,Bolton Wanderers,14,3,5,10,18,32,20,2003,18,premier_league
+20,West Ham,13,3,4,11,17,34,20,2003,18,premier_league
+1,Arsenal,39,12,3,4,39,20,20,2003,19,premier_league
+2,Chelsea,37,10,7,2,34,15,20,2003,19,premier_league
+3,Man. Utd,35,10,5,4,30,18,20,2003,19,premier_league
+4,Newcastle,35,11,2,6,30,24,20,2003,19,premier_league
+5,Everton,33,10,3,6,22,21,20,2003,19,premier_league
+6,Liverpool,32,9,5,5,28,19,20,2003,19,premier_league
+7,Tottenham Hotspur,31,9,4,6,27,26,20,2003,19,premier_league
+8,Southampton,28,7,7,5,22,19,20,2003,19,premier_league
+9,Blackburn Rovers,27,7,6,6,25,22,20,2003,19,premier_league
+10,Middlesbrough,26,7,5,7,22,18,20,2003,19,premier_league
+11,Charlton Athletic,25,7,4,8,21,23,20,2003,19,premier_league
+12,Man. City,24,7,3,9,24,28,20,2003,19,premier_league
+13,Birmingham City,24,6,6,7,18,22,20,2003,19,premier_league
+14,Fulham,22,6,4,9,22,25,20,2003,19,premier_league
+15,Aston Villa,22,6,4,9,17,20,20,2003,19,premier_league
+16,Leeds United,21,6,3,10,24,26,20,2003,19,premier_league
+17,Sunderland,18,4,6,9,12,26,20,2003,19,premier_league
+18,West Bromwich Alb.,16,4,4,11,15,29,20,2003,19,premier_league
+19,Bolton Wanderers,15,3,6,10,19,33,20,2003,19,premier_league
+20,West Ham,14,3,5,11,18,35,20,2003,19,premier_league
+1,Arsenal,42,13,3,4,41,21,20,2003,20,premier_league
+2,Chelsea,38,10,8,2,34,15,20,2003,20,premier_league
+3,Man. Utd,35,10,5,5,31,21,20,2003,20,premier_league
+4,Newcastle,35,11,2,7,33,28,20,2003,20,premier_league
+5,Everton,34,10,4,6,23,22,20,2003,20,premier_league
+6,Liverpool,33,9,6,5,29,20,20,2003,20,premier_league
+7,Tottenham Hotspur,32,9,5,6,29,28,20,2003,20,premier_league
+8,Middlesbrough,29,8,5,7,25,19,20,2003,20,premier_league
+9,Southampton,29,7,8,5,22,19,20,2003,20,premier_league
+10,Blackburn Rovers,28,7,7,6,26,23,20,2003,20,premier_league
+11,Man. City,27,8,3,9,27,29,20,2003,20,premier_league
+12,Charlton Athletic,26,7,5,8,23,25,20,2003,20,premier_league
+13,Birmingham City,25,6,7,7,19,23,20,2003,20,premier_league
+14,Leeds United,24,7,3,10,26,27,20,2003,20,premier_league
+15,Fulham,23,6,5,9,23,26,20,2003,20,premier_league
+16,Aston Villa,22,6,4,10,18,23,20,2003,20,premier_league
+17,Bolton Wanderers,18,4,6,10,23,36,20,2003,20,premier_league
+18,Sunderland,18,4,6,10,13,28,20,2003,20,premier_league
+19,West Bromwich Alb.,16,4,4,12,16,31,20,2003,20,premier_league
+20,West Ham,15,3,6,11,19,36,20,2003,20,premier_league
+1,Arsenal,43,13,4,4,42,22,20,2003,21,premier_league
+2,Chelsea,38,10,8,3,34,17,20,2003,21,premier_league
+3,Man. Utd,38,11,5,5,33,21,20,2003,21,premier_league
+4,Newcastle,38,12,2,7,35,29,20,2003,21,premier_league
+5,Everton,35,10,5,6,23,22,20,2003,21,premier_league
+6,Liverpool,34,9,7,5,30,21,20,2003,21,premier_league
+7,Southampton,32,8,8,5,24,20,20,2003,21,premier_league
+8,Tottenham Hotspur,32,9,5,7,30,30,20,2003,21,premier_league
+9,Man. City,30,9,3,9,28,29,20,2003,21,premier_league
+10,Middlesbrough,29,8,5,8,25,20,20,2003,21,premier_league
+11,Blackburn Rovers,29,7,8,6,28,25,20,2003,21,premier_league
+12,Charlton Athletic,29,8,5,8,24,25,20,2003,21,premier_league
+13,Leeds United,27,8,3,10,28,27,20,2003,21,premier_league
+14,Aston Villa,25,7,4,10,19,23,20,2003,21,premier_league
+15,Birmingham City,25,6,7,8,19,25,20,2003,21,premier_league
+16,Fulham,23,6,5,10,23,27,20,2003,21,premier_league
+17,Bolton Wanderers,19,4,7,10,23,36,20,2003,21,premier_league
+18,Sunderland,18,4,6,11,14,30,20,2003,21,premier_league
+19,West Bromwich Alb.,16,4,4,13,16,32,20,2003,21,premier_league
+20,West Ham,16,3,7,11,21,38,20,2003,21,premier_league
+1,Arsenal,46,14,4,4,45,24,20,2003,22,premier_league
+2,Man. Utd,41,12,5,5,35,22,20,2003,22,premier_league
+3,Newcastle,41,13,2,7,36,29,20,2003,22,premier_league
+4,Chelsea,38,10,8,4,36,20,20,2003,22,premier_league
+5,Everton,36,10,6,6,25,24,20,2003,22,premier_league
+6,Southampton,35,9,8,5,25,20,20,2003,22,premier_league
+7,Liverpool,34,9,7,6,30,22,20,2003,22,premier_league
+8,Blackburn Rovers,32,8,8,6,29,25,20,2003,22,premier_league
+9,Charlton Athletic,32,9,5,8,28,27,20,2003,22,premier_league
+10,Tottenham Hotspur,32,9,5,8,30,31,20,2003,22,premier_league
+11,Man. City,31,9,4,9,30,31,20,2003,22,premier_league
+12,Leeds United,30,9,3,10,30,27,20,2003,22,premier_league
+13,Middlesbrough,29,8,5,9,25,21,20,2003,22,premier_league
+14,Aston Villa,28,8,4,10,21,23,20,2003,22,premier_league
+15,Fulham,26,7,5,10,26,27,20,2003,22,premier_league
+16,Birmingham City,25,6,7,9,19,27,20,2003,22,premier_league
+17,Bolton Wanderers,19,4,7,11,23,38,20,2003,22,premier_league
+18,Sunderland,18,4,6,12,15,32,20,2003,22,premier_league
+19,West Ham,16,3,7,12,23,42,20,2003,22,premier_league
+20,West Bromwich Alb.,16,4,4,14,16,35,20,2003,22,premier_league
+1,Arsenal,49,15,4,4,49,24,20,2003,23,premier_league
+2,Man. Utd,44,13,5,5,38,23,20,2003,23,premier_league
+3,Newcastle,42,13,3,7,38,31,20,2003,23,premier_league
+4,Chelsea,41,11,8,4,40,21,20,2003,23,premier_league
+5,Southampton,36,9,9,5,27,22,20,2003,23,premier_league
+6,Everton,36,10,6,7,28,28,20,2003,23,premier_league
+7,Liverpool,35,9,8,6,31,23,20,2003,23,premier_league
+8,Tottenham Hotspur,35,10,5,8,34,34,20,2003,23,premier_league
+9,Man. City,34,10,4,9,32,32,20,2003,23,premier_league
+10,Blackburn Rovers,33,8,9,6,29,25,20,2003,23,premier_league
+11,Charlton Athletic,32,9,5,9,29,31,20,2003,23,premier_league
+12,Middlesbrough,30,8,6,9,27,23,20,2003,23,premier_league
+13,Leeds United,30,9,3,11,31,29,20,2003,23,premier_league
+14,Aston Villa,29,8,5,10,22,24,20,2003,23,premier_league
+15,Fulham,27,7,6,10,26,27,20,2003,23,premier_league
+16,Birmingham City,25,6,7,10,19,31,20,2003,23,premier_league
+17,Bolton Wanderers,20,4,8,11,23,38,20,2003,23,premier_league
+18,Sunderland,19,4,7,12,15,32,20,2003,23,premier_league
+19,West Ham,17,3,8,12,25,44,20,2003,23,premier_league
+20,West Bromwich Alb.,16,4,4,15,17,38,20,2003,23,premier_league
+1,Arsenal,52,16,4,4,52,25,20,2003,24,premier_league
+2,Man. Utd,47,14,5,5,40,24,20,2003,24,premier_league
+3,Newcastle,45,14,3,7,40,31,20,2003,24,premier_league
+4,Chelsea,41,11,8,5,41,23,20,2003,24,premier_league
+5,Everton,39,11,6,7,30,29,20,2003,24,premier_league
+6,Liverpool,38,10,8,6,32,23,20,2003,24,premier_league
+7,Tottenham Hotspur,38,11,5,8,35,34,20,2003,24,premier_league
+8,Southampton,36,9,9,6,27,23,20,2003,24,premier_league
+9,Blackburn Rovers,34,8,10,6,30,26,20,2003,24,premier_league
+10,Man. City,34,10,4,10,32,34,20,2003,24,premier_league
+11,Charlton Athletic,33,9,6,9,30,32,20,2003,24,premier_league
+12,Leeds United,31,9,4,11,31,29,20,2003,24,premier_league
+13,Middlesbrough,30,8,6,10,27,24,20,2003,24,premier_league
+14,Fulham,30,8,6,10,27,27,20,2003,24,premier_league
+15,Aston Villa,29,8,5,11,22,25,20,2003,24,premier_league
+16,Birmingham City,26,6,8,10,20,32,20,2003,24,premier_league
+17,Bolton Wanderers,21,4,9,11,24,39,20,2003,24,premier_league
+18,Sunderland,19,4,7,13,16,34,20,2003,24,premier_league
+19,West Ham,17,3,8,13,26,47,20,2003,24,premier_league
+20,West Bromwich Alb.,17,4,5,15,17,38,20,2003,24,premier_league
+1,Arsenal,53,16,5,4,54,27,20,2003,25,premier_league
+2,Man. Utd,50,15,5,5,41,24,20,2003,25,premier_league
+3,Newcastle,48,15,3,7,41,31,20,2003,25,premier_league
+4,Chelsea,44,12,8,5,44,25,20,2003,25,premier_league
+5,Everton,42,12,6,7,32,30,20,2003,25,premier_league
+6,Liverpool,39,10,9,6,34,25,20,2003,25,premier_league
+7,Southampton,39,10,9,6,28,23,20,2003,25,premier_league
+8,Tottenham Hotspur,38,11,5,9,35,35,20,2003,25,premier_league
+9,Man. City,37,11,4,10,36,35,20,2003,25,premier_league
+10,Charlton Athletic,36,10,6,9,31,32,20,2003,25,premier_league
+11,Blackburn Rovers,34,8,10,7,31,28,20,2003,25,premier_league
+12,Aston Villa,32,9,5,11,27,27,20,2003,25,premier_league
+13,Leeds United,31,9,4,12,33,32,20,2003,25,premier_league
+14,Middlesbrough,30,8,6,11,29,29,20,2003,25,premier_league
+15,Fulham,30,8,6,11,28,31,20,2003,25,premier_league
+16,Birmingham City,26,6,8,11,20,33,20,2003,25,premier_league
+17,Bolton Wanderers,21,4,9,12,25,41,20,2003,25,premier_league
+18,West Ham,20,4,8,13,28,48,20,2003,25,premier_league
+19,Sunderland,19,4,7,14,16,35,20,2003,25,premier_league
+20,West Bromwich Alb.,17,4,5,16,17,39,20,2003,25,premier_league
+1,Arsenal,56,17,5,4,56,28,20,2003,26,premier_league
+2,Man. Utd,53,16,5,5,43,24,20,2003,26,premier_league
+3,Newcastle,48,15,3,8,41,32,20,2003,26,premier_league
+4,Chelsea,45,12,9,5,45,26,20,2003,26,premier_league
+5,Everton,45,13,6,7,34,30,20,2003,26,premier_league
+6,Liverpool,42,11,9,6,37,25,20,2003,26,premier_league
+7,Southampton,39,10,9,7,28,25,20,2003,26,premier_league
+8,Charlton Athletic,39,11,6,9,34,33,20,2003,26,premier_league
+9,Tottenham Hotspur,39,11,6,9,36,36,20,2003,26,premier_league
+10,Man. City,37,11,4,11,37,37,20,2003,26,premier_league
+11,Aston Villa,35,10,5,11,30,27,20,2003,26,premier_league
+12,Blackburn Rovers,34,8,10,8,31,31,20,2003,26,premier_league
+13,Middlesbrough,33,9,6,11,30,29,20,2003,26,premier_league
+14,Leeds United,31,9,4,13,33,34,20,2003,26,premier_league
+15,Fulham,30,8,6,12,29,33,20,2003,26,premier_league
+16,Birmingham City,26,6,8,12,22,37,20,2003,26,premier_league
+17,Bolton Wanderers,24,5,9,12,29,43,20,2003,26,premier_league
+18,West Bromwich Alb.,20,5,5,16,19,40,20,2003,26,premier_league
+19,West Ham,20,4,8,14,28,51,20,2003,26,premier_league
+20,Sunderland,19,4,7,15,17,38,20,2003,26,premier_league
+1,Arsenal,57,17,6,4,57,29,20,2003,27,premier_league
+2,Man. Utd,54,16,6,5,44,25,20,2003,27,premier_league
+3,Newcastle,49,15,4,8,42,33,20,2003,27,premier_league
+4,Chelsea,48,13,9,5,48,27,20,2003,27,premier_league
+5,Everton,45,13,6,8,35,32,20,2003,27,premier_league
+6,Liverpool,43,11,10,6,38,26,20,2003,27,premier_league
+7,Tottenham Hotspur,42,12,6,9,40,37,20,2003,27,premier_league
+8,Charlton Athletic,42,12,6,9,36,34,20,2003,27,premier_league
+9,Southampton,39,10,9,8,28,26,20,2003,27,premier_league
+10,Man. City,38,11,5,11,38,38,20,2003,27,premier_league
+11,Blackburn Rovers,37,9,10,8,32,31,20,2003,27,premier_league
+12,Aston Villa,35,10,5,12,31,29,20,2003,27,premier_league
+13,Middlesbrough,34,9,7,11,31,30,20,2003,27,premier_league
+14,Leeds United,34,10,4,13,34,34,20,2003,27,premier_league
+15,Fulham,33,9,6,12,31,34,20,2003,27,premier_league
+16,Birmingham City,26,6,8,13,23,40,20,2003,27,premier_league
+17,Bolton Wanderers,25,5,10,12,30,44,20,2003,27,premier_league
+18,West Bromwich Alb.,21,5,6,16,20,41,20,2003,27,premier_league
+19,West Ham,20,4,8,15,28,52,20,2003,27,premier_league
+20,Sunderland,19,4,7,16,18,42,20,2003,27,premier_league
+1,Arsenal,60,18,6,4,62,30,20,2003,28,premier_league
+2,Man. Utd,55,16,7,5,45,26,20,2003,28,premier_league
+3,Newcastle,52,16,4,8,45,33,20,2003,28,premier_league
+4,Chelsea,48,13,9,6,49,29,20,2003,28,premier_league
+5,Everton,48,14,6,8,37,33,20,2003,28,premier_league
+6,Charlton Athletic,45,13,6,9,39,34,20,2003,28,premier_league
+7,Liverpool,43,11,10,7,39,28,20,2003,28,premier_league
+8,Tottenham Hotspur,43,12,7,9,41,38,20,2003,28,premier_league
+9,Blackburn Rovers,40,10,10,8,34,32,20,2003,28,premier_league
+10,Southampton,39,10,9,9,29,28,20,2003,28,premier_league
+11,Man. City,38,11,5,12,39,43,20,2003,28,premier_league
+12,Middlesbrough,37,10,7,11,34,31,20,2003,28,premier_league
+13,Aston Villa,35,10,5,13,31,32,20,2003,28,premier_league
+14,Leeds United,34,10,4,14,34,37,20,2003,28,premier_league
+15,Fulham,34,9,7,12,32,35,20,2003,28,premier_league
+16,Birmingham City,29,7,8,13,25,41,20,2003,28,premier_league
+17,Bolton Wanderers,26,5,11,12,31,45,20,2003,28,premier_league
+18,West Ham,23,5,8,15,30,53,20,2003,28,premier_league
+19,West Bromwich Alb.,21,5,6,17,21,43,20,2003,28,premier_league
+20,Sunderland,19,4,7,17,19,45,20,2003,28,premier_league
+1,Arsenal,63,19,6,4,64,30,20,2003,29,premier_league
+2,Man. Utd,58,17,7,5,47,27,20,2003,29,premier_league
+3,Newcastle,55,17,4,8,47,34,20,2003,29,premier_league
+4,Everton,49,14,7,8,38,34,20,2003,29,premier_league
+5,Chelsea,48,13,9,7,50,31,20,2003,29,premier_league
+6,Liverpool,46,12,10,7,41,28,20,2003,29,premier_league
+7,Charlton Athletic,45,13,6,10,39,36,20,2003,29,premier_league
+8,Blackburn Rovers,43,11,10,8,35,32,20,2003,29,premier_league
+9,Tottenham Hotspur,43,12,7,10,41,40,20,2003,29,premier_league
+10,Southampton,42,11,9,9,30,28,20,2003,29,premier_league
+11,Middlesbrough,38,10,8,11,35,32,20,2003,29,premier_league
+12,Man. City,38,11,5,13,39,44,20,2003,29,premier_league
+13,Fulham,37,10,7,12,33,35,20,2003,29,premier_league
+14,Aston Villa,35,10,5,14,31,34,20,2003,29,premier_league
+15,Leeds United,34,10,4,15,35,39,20,2003,29,premier_league
+16,Birmingham City,32,8,8,13,27,41,20,2003,29,premier_league
+17,Bolton Wanderers,26,5,11,13,31,47,20,2003,29,premier_league
+18,West Ham,26,6,8,15,32,53,20,2003,29,premier_league
+19,West Bromwich Alb.,21,5,6,18,21,44,20,2003,29,premier_league
+20,Sunderland,19,4,7,18,19,46,20,2003,29,premier_league
+1,Arsenal,63,19,6,5,64,32,20,2003,30,premier_league
+2,Man. Utd,61,18,7,5,48,27,20,2003,30,premier_league
+3,Newcastle,58,18,4,8,49,34,20,2003,30,premier_league
+4,Chelsea,51,14,9,7,52,31,20,2003,30,premier_league
+5,Everton,50,14,8,8,38,34,20,2003,30,premier_league
+6,Liverpool,49,13,10,7,44,30,20,2003,30,premier_league
+7,Blackburn Rovers,46,12,10,8,37,32,20,2003,30,premier_league
+8,Charlton Athletic,45,13,6,11,39,38,20,2003,30,premier_league
+9,Southampton,43,11,10,9,32,30,20,2003,30,premier_league
+10,Tottenham Hotspur,43,12,7,11,43,43,20,2003,30,premier_league
+11,Middlesbrough,41,11,8,11,38,34,20,2003,30,premier_league
+12,Man. City,41,12,5,13,40,44,20,2003,30,premier_league
+13,Fulham,38,10,8,12,35,37,20,2003,30,premier_league
+14,Aston Villa,35,10,5,15,31,35,20,2003,30,premier_league
+15,Leeds United,34,10,4,16,37,42,20,2003,30,premier_league
+16,Birmingham City,32,8,8,14,27,42,20,2003,30,premier_league
+17,Bolton Wanderers,29,6,11,13,33,47,20,2003,30,premier_league
+18,West Ham,27,6,9,15,32,53,20,2003,30,premier_league
+19,West Bromwich Alb.,21,5,6,19,21,46,20,2003,30,premier_league
+20,Sunderland,19,4,7,19,19,48,20,2003,30,premier_league
+1,Arsenal,66,20,6,5,66,33,20,2003,31,premier_league
+2,Man. Utd,64,19,7,5,51,27,20,2003,31,premier_league
+3,Newcastle,61,19,4,8,54,35,20,2003,31,premier_league
+4,Chelsea,54,15,9,7,57,31,20,2003,31,premier_league
+5,Liverpool,52,14,10,7,47,31,20,2003,31,premier_league
+6,Everton,50,14,8,9,39,36,20,2003,31,premier_league
+7,Charlton Athletic,46,13,7,11,40,39,20,2003,31,premier_league
+8,Blackburn Rovers,46,12,10,9,38,37,20,2003,31,premier_league
+9,Southampton,44,11,11,9,34,32,20,2003,31,premier_league
+10,Tottenham Hotspur,43,12,7,12,43,44,20,2003,31,premier_league
+11,Middlesbrough,42,11,9,11,39,35,20,2003,31,premier_league
+12,Man. City,41,12,5,14,40,49,20,2003,31,premier_league
+13,Fulham,38,10,8,13,35,40,20,2003,31,premier_league
+14,Aston Villa,36,10,6,15,33,37,20,2003,31,premier_league
+15,Birmingham City,35,9,8,14,28,42,20,2003,31,premier_league
+16,Leeds United,34,10,4,17,38,45,20,2003,31,premier_league
+17,Bolton Wanderers,32,7,11,13,34,47,20,2003,31,premier_league
+18,West Ham,30,7,9,15,34,53,20,2003,31,premier_league
+19,West Bromwich Alb.,21,5,6,20,21,47,20,2003,31,premier_league
+20,Sunderland,19,4,7,20,19,50,20,2003,31,premier_league
+1,Arsenal,67,20,7,5,67,34,20,2003,32,premier_league
+2,Man. Utd,67,20,7,5,55,27,20,2003,32,premier_league
+3,Newcastle,61,19,4,9,55,37,20,2003,32,premier_league
+4,Chelsea,57,16,9,7,59,32,20,2003,32,premier_league
+5,Everton,53,15,8,9,41,37,20,2003,32,premier_league
+6,Liverpool,52,14,10,8,47,35,20,2003,32,premier_league
+7,Blackburn Rovers,49,13,10,9,42,37,20,2003,32,premier_league
+8,Tottenham Hotspur,46,13,7,12,45,45,20,2003,32,premier_league
+9,Charlton Athletic,46,13,7,12,41,45,20,2003,32,premier_league
+10,Middlesbrough,45,12,9,11,42,35,20,2003,32,premier_league
+11,Southampton,45,11,12,9,35,33,20,2003,32,premier_league
+12,Man. City,41,12,5,15,40,51,20,2003,32,premier_league
+13,Fulham,38,10,8,14,35,44,20,2003,32,premier_league
+14,Leeds United,37,11,4,17,44,46,20,2003,32,premier_league
+15,Aston Villa,37,10,7,15,34,38,20,2003,32,premier_league
+16,Bolton Wanderers,35,8,11,13,36,47,20,2003,32,premier_league
+17,Birmingham City,35,9,8,15,29,44,20,2003,32,premier_league
+18,West Ham,31,7,10,15,35,54,20,2003,32,premier_league
+19,West Bromwich Alb.,21,5,6,21,21,50,20,2003,32,premier_league
+20,Sunderland,19,4,7,21,20,52,20,2003,32,premier_league
+1,Arsenal,70,21,7,5,73,35,20,2003,33,premier_league
+2,Man. Utd,70,21,7,5,61,29,20,2003,33,premier_league
+3,Newcastle,61,19,4,10,57,43,20,2003,33,premier_league
+4,Chelsea,60,17,9,7,60,32,20,2003,33,premier_league
+5,Everton,56,16,8,9,43,38,20,2003,33,premier_league
+6,Liverpool,55,15,10,8,49,35,20,2003,33,premier_league
+7,Blackburn Rovers,52,14,10,9,43,37,20,2003,33,premier_league
+8,Tottenham Hotspur,47,13,8,12,47,47,20,2003,33,premier_league
+9,Middlesbrough,46,12,10,11,42,35,20,2003,33,premier_league
+10,Charlton Athletic,46,13,7,13,41,46,20,2003,33,premier_league
+11,Southampton,45,11,12,10,36,39,20,2003,33,premier_league
+12,Man. City,42,12,6,15,40,51,20,2003,33,premier_league
+13,Leeds United,38,11,5,17,46,48,20,2003,33,premier_league
+14,Aston Villa,38,10,8,15,36,40,20,2003,33,premier_league
+15,Fulham,38,10,8,15,35,46,20,2003,33,premier_league
+16,Birmingham City,38,10,8,15,31,44,20,2003,33,premier_league
+17,Bolton Wanderers,35,8,11,14,36,48,20,2003,33,premier_league
+18,West Ham,32,7,11,15,37,56,20,2003,33,premier_league
+19,West Bromwich Alb.,21,5,6,22,22,52,20,2003,33,premier_league
+20,Sunderland,19,4,7,22,20,54,20,2003,33,premier_league
+1,Arsenal,73,22,7,5,75,35,20,2003,34,premier_league
+2,Man. Utd,73,22,7,5,64,30,20,2003,34,premier_league
+3,Newcastle,61,19,4,11,58,45,20,2003,34,premier_league
+4,Chelsea,60,17,9,8,61,34,20,2003,34,premier_league
+5,Liverpool,58,16,10,8,51,36,20,2003,34,premier_league
+6,Everton,56,16,8,10,44,40,20,2003,34,premier_league
+7,Blackburn Rovers,52,14,10,10,44,40,20,2003,34,premier_league
+8,Southampton,48,12,12,10,39,41,20,2003,34,premier_league
+9,Tottenham Hotspur,47,13,8,13,47,49,20,2003,34,premier_league
+10,Middlesbrough,46,12,10,12,42,37,20,2003,34,premier_league
+11,Charlton Athletic,46,13,7,14,41,48,20,2003,34,premier_league
+12,Man. City,45,13,6,15,42,51,20,2003,34,premier_league
+13,Aston Villa,41,11,8,15,38,41,20,2003,34,premier_league
+14,Fulham,41,11,8,15,37,47,20,2003,34,premier_league
+15,Birmingham City,41,11,8,15,33,44,20,2003,34,premier_league
+16,Leeds United,38,11,5,18,48,51,20,2003,34,premier_league
+17,Bolton Wanderers,38,9,11,14,37,48,20,2003,34,premier_league
+18,West Ham,32,7,11,16,37,57,20,2003,34,premier_league
+19,West Bromwich Alb.,24,6,6,22,24,53,20,2003,34,premier_league
+20,Sunderland,19,4,7,23,21,56,20,2003,34,premier_league
+1,Arsenal,74,22,8,5,77,37,20,2003,35,premier_league
+2,Man. Utd,74,22,8,5,66,32,20,2003,35,premier_league
+3,Chelsea,63,18,9,8,65,35,20,2003,35,premier_league
+4,Newcastle,62,19,5,11,59,46,20,2003,35,premier_league
+5,Liverpool,61,17,10,8,53,37,20,2003,35,premier_league
+6,Everton,56,16,8,11,45,44,20,2003,35,premier_league
+7,Blackburn Rovers,53,14,11,10,44,40,20,2003,35,premier_league
+8,Tottenham Hotspur,50,14,8,13,50,51,20,2003,35,premier_league
+9,Southampton,48,12,12,11,41,44,20,2003,35,premier_league
+10,Man. City,48,14,6,15,45,51,20,2003,35,premier_league
+11,Middlesbrough,46,12,10,13,42,38,20,2003,35,premier_league
+12,Charlton Athletic,46,13,7,15,42,50,20,2003,35,premier_league
+13,Birmingham City,44,12,8,15,36,46,20,2003,35,premier_league
+14,Aston Villa,42,11,9,15,39,42,20,2003,35,premier_league
+15,Leeds United,41,12,5,18,50,51,20,2003,35,premier_league
+16,Fulham,41,11,8,16,37,49,20,2003,35,premier_league
+17,Bolton Wanderers,39,9,12,14,37,48,20,2003,35,premier_league
+18,West Ham,35,8,11,16,38,57,20,2003,35,premier_league
+19,West Bromwich Alb.,24,6,6,23,26,56,20,2003,35,premier_league
+20,Sunderland,19,4,7,24,21,59,20,2003,35,premier_league
+1,Man. Utd,77,23,8,5,68,32,20,2003,36,premier_league
+2,Arsenal,75,22,9,5,79,39,20,2003,36,premier_league
+3,Newcastle,65,20,5,11,60,46,20,2003,36,premier_league
+4,Chelsea,64,18,10,8,66,36,20,2003,36,premier_league
+5,Liverpool,64,18,10,8,59,37,20,2003,36,premier_league
+6,Everton,59,17,8,11,47,45,20,2003,36,premier_league
+7,Blackburn Rovers,56,15,11,10,47,42,20,2003,36,premier_league
+8,Tottenham Hotspur,50,14,8,14,50,53,20,2003,36,premier_league
+9,Charlton Athletic,49,14,7,15,44,51,20,2003,36,premier_league
+10,Southampton,48,12,12,12,42,46,20,2003,36,premier_league
+11,Man. City,48,14,6,16,45,52,20,2003,36,premier_league
+12,Birmingham City,47,13,8,15,39,46,20,2003,36,premier_league
+13,Middlesbrough,46,12,10,14,42,41,20,2003,36,premier_league
+14,Aston Villa,42,11,9,16,40,44,20,2003,36,premier_league
+15,Fulham,42,11,9,16,38,50,20,2003,36,premier_league
+16,Leeds United,41,12,5,19,52,54,20,2003,36,premier_league
+17,Bolton Wanderers,40,9,13,14,39,50,20,2003,36,premier_league
+18,West Ham,38,9,11,16,39,57,20,2003,36,premier_league
+19,West Bromwich Alb.,24,6,6,24,26,62,20,2003,36,premier_league
+20,Sunderland,19,4,7,25,21,60,20,2003,36,premier_league
+1,Man. Utd,80,24,8,5,72,33,20,2003,37,premier_league
+2,Arsenal,75,22,9,6,81,42,20,2003,37,premier_league
+3,Newcastle,68,21,5,11,61,46,20,2003,37,premier_league
+4,Chelsea,64,18,10,9,66,37,20,2003,37,premier_league
+5,Liverpool,64,18,10,9,60,39,20,2003,37,premier_league
+6,Everton,59,17,8,12,47,47,20,2003,37,premier_league
+7,Blackburn Rovers,57,15,12,10,48,43,20,2003,37,premier_league
+8,Man. City,51,15,6,16,47,53,20,2003,37,premier_league
+9,Tottenham Hotspur,50,14,8,15,51,58,20,2003,37,premier_league
+10,Middlesbrough,49,13,10,14,47,42,20,2003,37,premier_league
+11,Southampton,49,12,13,12,42,46,20,2003,37,premier_league
+12,Charlton Athletic,49,14,7,16,45,55,20,2003,37,premier_league
+13,Birmingham City,47,13,8,16,39,47,20,2003,37,premier_league
+14,Aston Villa,45,12,9,16,41,44,20,2003,37,premier_league
+15,Fulham,45,12,9,16,40,50,20,2003,37,premier_league
+16,Leeds United,44,13,5,19,55,56,20,2003,37,premier_league
+17,Bolton Wanderers,41,9,14,14,39,50,20,2003,37,premier_league
+18,West Ham,41,10,11,16,40,57,20,2003,37,premier_league
+19,West Bromwich Alb.,25,6,7,24,27,63,20,2003,37,premier_league
+20,Sunderland,19,4,7,26,21,61,20,2003,37,premier_league
+1,Man. Utd,83,25,8,5,74,34,20,2003,38,premier_league
+2,Arsenal,78,23,9,6,85,42,20,2003,38,premier_league
+3,Newcastle,69,21,6,11,63,48,20,2003,38,premier_league
+4,Chelsea,67,19,10,9,68,38,20,2003,38,premier_league
+5,Liverpool,64,18,10,10,61,41,20,2003,38,premier_league
+6,Blackburn Rovers,60,16,12,10,52,43,20,2003,38,premier_league
+7,Everton,59,17,8,13,48,49,20,2003,38,premier_league
+8,Southampton,52,13,13,12,43,46,20,2003,38,premier_league
+9,Man. City,51,15,6,17,47,54,20,2003,38,premier_league
+10,Tottenham Hotspur,50,14,8,16,51,62,20,2003,38,premier_league
+11,Middlesbrough,49,13,10,15,48,44,20,2003,38,premier_league
+12,Charlton Athletic,49,14,7,17,45,56,20,2003,38,premier_league
+13,Birmingham City,48,13,9,16,41,49,20,2003,38,premier_league
+14,Fulham,48,13,9,16,41,50,20,2003,38,premier_league
+15,Leeds United,47,14,5,19,58,57,20,2003,38,premier_league
+16,Aston Villa,45,12,9,17,42,47,20,2003,38,premier_league
+17,Bolton Wanderers,44,10,14,14,41,51,20,2003,38,premier_league
+18,West Ham,42,10,12,16,42,59,20,2003,38,premier_league
+19,West Bromwich Alb.,26,6,8,24,29,65,20,2003,38,premier_league
+20,Sunderland,19,4,7,27,21,65,20,2003,38,premier_league

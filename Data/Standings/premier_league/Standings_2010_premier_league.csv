@@ -1,0 +1,760 @@
+1,Arsenal,3,1,0,0,6,1,20,2010,1,premier_league
+2,Wigan Athletic,3,1,0,0,2,0,20,2010,1,premier_league
+3,Stoke City,3,1,0,0,2,0,20,2010,1,premier_league
+4,Man. City,3,1,0,0,2,0,20,2010,1,premier_league
+5,West Ham,3,1,0,0,2,0,20,2010,1,premier_league
+6,Chelsea,3,1,0,0,2,1,20,2010,1,premier_league
+7,Tottenham Hotspur,3,1,0,0,2,1,20,2010,1,premier_league
+8,Man. Utd,3,1,0,0,1,0,20,2010,1,premier_league
+9,Fulham,3,1,0,0,1,0,20,2010,1,premier_league
+10,Sunderland,3,1,0,0,1,0,20,2010,1,premier_league
+11,Liverpool,0,0,0,1,1,2,20,2010,1,premier_league
+12,Hull City,0,0,0,1,1,2,20,2010,1,premier_league
+13,Bolton Wanderers,0,0,0,1,0,1,20,2010,1,premier_league
+14,Birmingham City,0,0,0,1,0,1,20,2010,1,premier_league
+15,Portsmouth,0,0,0,1,0,1,20,2010,1,premier_league
+16,Aston Villa,0,0,0,1,0,2,20,2010,1,premier_league
+17,Burnley,0,0,0,1,0,2,20,2010,1,premier_league
+18,Blackburn Rovers,0,0,0,1,0,2,20,2010,1,premier_league
+19,Wolves,0,0,0,1,0,2,20,2010,1,premier_league
+20,Everton,0,0,0,1,1,6,20,2010,1,premier_league
+1,Arsenal,6,2,0,0,10,3,20,2010,2,premier_league
+2,Tottenham Hotspur,6,2,0,0,7,2,20,2010,2,premier_league
+3,Fulham,6,2,0,0,4,0,20,2010,2,premier_league
+4,Chelsea,6,2,0,0,5,2,20,2010,2,premier_league
+5,West Ham,6,2,0,0,4,1,20,2010,2,premier_league
+6,Liverpool,3,1,0,1,5,2,20,2010,2,premier_league
+7,Wigan Athletic,3,1,0,1,2,1,20,2010,2,premier_league
+8,Man. City,3,1,0,1,2,2,20,2010,2,premier_league
+9,Man. Utd,3,1,0,1,1,1,20,2010,2,premier_league
+10,Birmingham City,3,1,0,1,1,1,20,2010,2,premier_league
+11,Sunderland,3,1,0,1,2,3,20,2010,2,premier_league
+12,Wolves,3,1,0,1,1,2,20,2010,2,premier_league
+13,Burnley,3,1,0,1,1,2,20,2010,2,premier_league
+14,Stoke City,3,1,0,1,2,4,20,2010,2,premier_league
+15,Everton,3,1,0,1,3,6,20,2010,2,premier_league
+16,Portsmouth,0,0,0,2,0,2,20,2010,2,premier_league
+17,Bolton Wanderers,0,0,0,2,2,5,20,2010,2,premier_league
+18,Aston Villa,0,0,0,2,1,4,20,2010,2,premier_league
+19,Hull City,0,0,0,2,2,7,20,2010,2,premier_league
+20,Blackburn Rovers,0,0,0,2,0,5,20,2010,2,premier_league
+1,Arsenal,9,3,0,0,14,4,20,2010,3,premier_league
+2,Tottenham Hotspur,9,3,0,0,9,3,20,2010,3,premier_league
+3,Chelsea,9,3,0,0,7,2,20,2010,3,premier_league
+4,Man. Utd,6,2,0,1,6,1,20,2010,3,premier_league
+5,West Ham,6,2,0,1,5,3,20,2010,3,premier_league
+6,Fulham,6,2,0,1,4,2,20,2010,3,premier_league
+7,Man. City,6,2,0,1,3,2,20,2010,3,premier_league
+8,Sunderland,6,2,0,1,4,4,20,2010,3,premier_league
+9,Burnley,6,2,0,1,2,2,20,2010,3,premier_league
+10,Birmingham City,4,1,1,1,1,1,20,2010,3,premier_league
+11,Stoke City,4,1,1,1,2,4,20,2010,3,premier_league
+12,Liverpool,3,1,0,2,6,5,20,2010,3,premier_league
+13,Aston Villa,3,1,0,2,4,5,20,2010,3,premier_league
+14,Wolves,3,1,0,2,1,3,20,2010,3,premier_league
+15,Everton,3,1,0,2,3,7,20,2010,3,premier_league
+16,Hull City,3,1,0,2,3,7,20,2010,3,premier_league
+17,Wigan Athletic,3,1,0,2,2,6,20,2010,3,premier_league
+18,Bolton Wanderers,0,0,0,3,2,6,20,2010,3,premier_league
+19,Portsmouth,0,0,0,3,1,6,20,2010,3,premier_league
+20,Blackburn Rovers,0,0,0,3,1,7,20,2010,3,premier_league
+1,Chelsea,12,4,0,0,10,2,20,2010,4,premier_league
+2,Tottenham Hotspur,12,4,0,0,11,4,20,2010,4,premier_league
+3,Arsenal,9,3,0,1,15,6,20,2010,4,premier_league
+4,Man. Utd,9,3,0,1,8,2,20,2010,4,premier_league
+5,Man. City,9,3,0,1,4,2,20,2010,4,premier_league
+6,West Ham,7,2,1,1,5,3,20,2010,4,premier_league
+7,Stoke City,7,2,1,1,3,4,20,2010,4,premier_league
+8,Liverpool,6,2,0,2,9,7,20,2010,4,premier_league
+9,Aston Villa,6,2,0,2,6,5,20,2010,4,premier_league
+10,Fulham,6,2,0,2,4,4,20,2010,4,premier_league
+11,Sunderland,6,2,0,2,4,5,20,2010,4,premier_league
+12,Everton,6,2,0,2,5,8,20,2010,4,premier_league
+13,Burnley,6,2,0,2,2,5,20,2010,4,premier_league
+14,Birmingham City,4,1,1,2,2,3,20,2010,4,premier_league
+15,Wolves,4,1,1,2,2,4,20,2010,4,premier_league
+16,Hull City,4,1,1,2,4,8,20,2010,4,premier_league
+17,Wigan Athletic,3,1,0,3,3,8,20,2010,4,premier_league
+18,Blackburn Rovers,1,0,1,3,1,7,20,2010,4,premier_league
+19,Bolton Wanderers,0,0,0,4,4,9,20,2010,4,premier_league
+20,Portsmouth,0,0,0,4,1,7,20,2010,4,premier_league
+1,Chelsea,15,5,0,0,12,3,20,2010,5,premier_league
+2,Man. Utd,12,4,0,1,11,3,20,2010,5,premier_league
+3,Tottenham Hotspur,12,4,0,1,12,7,20,2010,5,premier_league
+4,Man. City,12,4,0,1,8,4,20,2010,5,premier_league
+5,Arsenal,9,3,0,2,17,10,20,2010,5,premier_league
+6,Liverpool,9,3,0,2,13,7,20,2010,5,premier_league
+7,Sunderland,9,3,0,2,8,6,20,2010,5,premier_league
+8,Aston Villa,9,3,0,2,7,5,20,2010,5,premier_league
+9,Fulham,9,3,0,2,6,5,20,2010,5,premier_league
+10,West Ham,7,2,1,2,5,4,20,2010,5,premier_league
+11,Stoke City,7,2,1,2,4,6,20,2010,5,premier_league
+12,Everton,6,2,0,3,6,10,20,2010,5,premier_league
+13,Wigan Athletic,6,2,0,3,4,8,20,2010,5,premier_league
+14,Burnley,6,2,0,3,2,9,20,2010,5,premier_league
+15,Birmingham City,4,1,1,3,2,4,20,2010,5,premier_league
+16,Blackburn Rovers,4,1,1,3,4,8,20,2010,5,premier_league
+17,Wolves,4,1,1,3,3,7,20,2010,5,premier_league
+18,Hull City,4,1,1,3,5,12,20,2010,5,premier_league
+19,Bolton Wanderers,3,1,0,4,7,11,20,2010,5,premier_league
+20,Portsmouth,0,0,0,5,3,10,20,2010,5,premier_league
+1,Chelsea,18,6,0,0,15,3,20,2010,6,premier_league
+2,Man. Utd,15,5,0,1,15,6,20,2010,6,premier_league
+3,Arsenal,12,4,0,2,21,10,20,2010,6,premier_league
+4,Liverpool,12,4,0,2,16,9,20,2010,6,premier_league
+5,Aston Villa,12,4,0,2,9,5,20,2010,6,premier_league
+6,Man. City,12,4,0,2,11,8,20,2010,6,premier_league
+7,Tottenham Hotspur,12,4,0,2,12,10,20,2010,6,premier_league
+8,Sunderland,9,3,0,3,9,9,20,2010,6,premier_league
+9,Fulham,9,3,0,3,7,7,20,2010,6,premier_league
+10,Everton,9,3,0,3,9,10,20,2010,6,premier_league
+11,Burnley,9,3,0,3,5,10,20,2010,6,premier_league
+12,Stoke City,8,2,2,2,5,7,20,2010,6,premier_league
+13,West Ham,7,2,1,3,7,7,20,2010,6,premier_league
+14,Birmingham City,7,2,1,3,3,4,20,2010,6,premier_league
+15,Wolves,7,2,1,3,5,8,20,2010,6,premier_league
+16,Wigan Athletic,6,2,0,4,4,12,20,2010,6,premier_league
+17,Bolton Wanderers,4,1,1,4,8,12,20,2010,6,premier_league
+18,Blackburn Rovers,4,1,1,4,4,11,20,2010,6,premier_league
+19,Hull City,4,1,1,4,5,13,20,2010,6,premier_league
+20,Portsmouth,0,0,0,6,3,12,20,2010,6,premier_league
+1,Man. Utd,18,6,0,1,17,6,20,2010,7,premier_league
+2,Chelsea,18,6,0,1,16,6,20,2010,7,premier_league
+3,Liverpool,15,5,0,2,22,10,20,2010,7,premier_league
+4,Arsenal,15,5,0,2,22,10,20,2010,7,premier_league
+5,Tottenham Hotspur,15,5,0,2,17,10,20,2010,7,premier_league
+6,Man. City,15,5,0,2,14,9,20,2010,7,premier_league
+7,Sunderland,12,4,0,3,14,11,20,2010,7,premier_league
+8,Aston Villa,12,4,0,3,10,7,20,2010,7,premier_league
+9,Everton,12,4,0,3,10,10,20,2010,7,premier_league
+10,Fulham,9,3,0,4,7,8,20,2010,7,premier_league
+11,Wigan Athletic,9,3,0,4,7,13,20,2010,7,premier_league
+12,Burnley,9,3,0,4,5,15,20,2010,7,premier_league
+13,Stoke City,8,2,2,3,5,9,20,2010,7,premier_league
+14,West Ham,7,2,1,4,8,10,20,2010,7,premier_league
+15,Birmingham City,7,2,1,4,4,6,20,2010,7,premier_league
+16,Bolton Wanderers,7,2,1,4,10,13,20,2010,7,premier_league
+17,Wolves,7,2,1,4,7,13,20,2010,7,premier_league
+18,Blackburn Rovers,7,2,1,4,6,12,20,2010,7,premier_league
+19,Hull City,4,1,1,5,6,19,20,2010,7,premier_league
+20,Portsmouth,0,0,0,7,3,13,20,2010,7,premier_league
+1,Chelsea,21,7,0,1,18,6,20,2010,8,premier_league
+2,Man. Utd,19,6,1,1,19,8,20,2010,8,premier_league
+3,Arsenal,18,6,0,2,28,12,20,2010,8,premier_league
+4,Tottenham Hotspur,16,5,1,2,19,12,20,2010,8,premier_league
+5,Man. City,16,5,1,2,15,10,20,2010,8,premier_league
+6,Liverpool,15,5,0,3,22,12,20,2010,8,premier_league
+7,Sunderland,13,4,1,3,16,13,20,2010,8,premier_league
+8,Aston Villa,13,4,1,3,11,8,20,2010,8,premier_league
+9,Everton,13,4,1,3,11,11,20,2010,8,premier_league
+10,Burnley,12,4,0,4,7,16,20,2010,8,premier_league
+11,Fulham,10,3,1,4,9,10,20,2010,8,premier_league
+12,Stoke City,9,2,3,3,6,10,20,2010,8,premier_league
+13,Wigan Athletic,9,3,0,5,8,15,20,2010,8,premier_league
+14,West Ham,8,2,2,4,10,12,20,2010,8,premier_league
+15,Bolton Wanderers,8,2,2,4,12,15,20,2010,8,premier_league
+16,Birmingham City,7,2,1,5,5,8,20,2010,8,premier_league
+17,Wolves,7,2,1,5,7,14,20,2010,8,premier_league
+18,Blackburn Rovers,7,2,1,5,8,18,20,2010,8,premier_league
+19,Hull City,7,2,1,5,8,20,20,2010,8,premier_league
+20,Portsmouth,0,1,0,7,4,13,20,2010,8,premier_league
+1,Man. Utd,22,7,1,1,21,9,20,2010,9,premier_league
+2,Arsenal,21,7,0,2,31,13,20,2010,9,premier_league
+3,Chelsea,21,7,0,2,19,8,20,2010,9,premier_league
+4,Tottenham Hotspur,19,6,1,2,21,13,20,2010,9,premier_league
+5,Man. City,17,5,2,2,16,11,20,2010,9,premier_league
+6,Sunderland,16,5,1,3,17,13,20,2010,9,premier_league
+7,Aston Villa,16,5,1,3,13,9,20,2010,9,premier_league
+8,Liverpool,15,5,0,4,22,13,20,2010,9,premier_league
+9,Everton,14,4,2,3,12,12,20,2010,9,premier_league
+10,Fulham,13,4,1,4,11,10,20,2010,9,premier_league
+11,Stoke City,12,3,3,3,8,11,20,2010,9,premier_league
+12,Burnley,12,4,0,5,9,19,20,2010,9,premier_league
+13,Wigan Athletic,10,3,1,5,9,16,20,2010,9,premier_league
+14,Blackburn Rovers,10,3,1,5,11,20,20,2010,9,premier_league
+15,West Ham,8,2,2,5,11,14,20,2010,9,premier_league
+16,Bolton Wanderers,8,2,2,5,13,17,20,2010,9,premier_league
+17,Wolves,8,2,2,5,8,15,20,2010,9,premier_league
+18,Birmingham City,7,2,1,6,6,11,20,2010,9,premier_league
+19,Hull City,7,2,1,6,8,22,20,2010,9,premier_league
+20,Portsmouth,0,1,0,8,5,15,20,2010,9,premier_league
+1,Chelsea,24,8,0,2,24,8,20,2010,10,premier_league
+2,Arsenal,22,7,1,2,33,15,20,2010,10,premier_league
+3,Man. Utd,22,7,1,2,21,11,20,2010,10,premier_league
+4,Tottenham Hotspur,19,6,1,3,21,14,20,2010,10,premier_league
+5,Liverpool,18,6,0,4,24,13,20,2010,10,premier_league
+6,Man. City,18,5,3,2,18,13,20,2010,10,premier_league
+7,Aston Villa,17,5,2,3,14,10,20,2010,10,premier_league
+8,Sunderland,16,5,1,4,18,15,20,2010,10,premier_league
+9,Stoke City,15,4,3,3,9,11,20,2010,10,premier_league
+10,Fulham,14,4,2,4,13,12,20,2010,10,premier_league
+11,Everton,14,4,2,4,14,15,20,2010,10,premier_league
+12,Wigan Athletic,13,4,1,5,12,17,20,2010,10,premier_league
+13,Burnley,12,4,0,6,10,22,20,2010,10,premier_league
+14,Bolton Wanderers,11,3,2,5,16,19,20,2010,10,premier_league
+15,Birmingham City,10,3,1,6,8,12,20,2010,10,premier_league
+16,Blackburn Rovers,10,3,1,6,11,25,20,2010,10,premier_league
+17,West Ham,9,2,3,5,13,16,20,2010,10,premier_league
+18,Wolves,9,2,3,5,9,16,20,2010,10,premier_league
+19,Hull City,8,2,2,6,8,22,20,2010,10,premier_league
+20,Portsmouth,0,1,1,8,5,15,20,2010,10,premier_league
+1,Chelsea,27,9,0,2,28,8,20,2010,11,premier_league
+2,Arsenal,25,8,1,2,36,15,20,2010,11,premier_league
+3,Man. Utd,25,8,1,2,23,11,20,2010,11,premier_league
+4,Man. City,19,5,4,2,18,13,20,2010,11,premier_league
+5,Tottenham Hotspur,19,6,1,4,21,17,20,2010,11,premier_league
+6,Liverpool,18,6,0,5,25,16,20,2010,11,premier_league
+7,Aston Villa,18,5,3,3,15,11,20,2010,11,premier_league
+8,Sunderland,17,5,2,4,20,17,20,2010,11,premier_league
+9,Fulham,17,5,2,4,16,13,20,2010,11,premier_league
+10,Stoke City,16,4,4,3,11,13,20,2010,11,premier_league
+11,Everton,15,4,3,4,15,16,20,2010,11,premier_league
+12,Burnley,15,5,0,6,12,22,20,2010,11,premier_league
+13,Wigan Athletic,13,4,1,6,12,21,20,2010,11,premier_league
+14,Birmingham City,11,3,2,6,8,12,20,2010,11,premier_league
+15,Bolton Wanderers,11,3,2,6,16,23,20,2010,11,premier_league
+16,West Ham,10,2,4,5,15,18,20,2010,11,premier_league
+17,Wolves,10,2,4,5,11,18,20,2010,11,premier_league
+18,Blackburn Rovers,10,3,1,7,11,27,20,2010,11,premier_league
+19,Hull City,8,2,2,7,8,24,20,2010,11,premier_league
+20,Portsmouth,0,2,1,8,9,15,20,2010,11,premier_league
+1,Chelsea,30,10,0,2,29,8,20,2010,12,premier_league
+2,Arsenal,28,9,1,2,40,16,20,2010,12,premier_league
+3,Man. Utd,25,8,1,3,23,12,20,2010,12,premier_league
+4,Tottenham Hotspur,22,7,1,4,23,17,20,2010,12,premier_league
+5,Aston Villa,21,6,3,3,20,12,20,2010,12,premier_league
+6,Man. City,20,5,5,2,21,16,20,2010,12,premier_league
+7,Liverpool,19,6,1,5,27,18,20,2010,12,premier_league
+8,Fulham,18,5,3,4,17,14,20,2010,12,premier_league
+9,Everton,18,5,3,4,17,17,20,2010,12,premier_league
+10,Sunderland,17,5,2,5,20,19,20,2010,12,premier_league
+11,Stoke City,16,4,4,4,12,15,20,2010,12,premier_league
+12,Burnley,16,5,1,6,15,25,20,2010,12,premier_league
+13,Wigan Athletic,14,4,2,6,13,22,20,2010,12,premier_league
+14,Blackburn Rovers,13,4,1,7,14,28,20,2010,12,premier_league
+15,Birmingham City,12,3,3,6,10,14,20,2010,12,premier_league
+16,Bolton Wanderers,11,3,2,7,17,28,20,2010,12,premier_league
+17,Hull City,11,3,2,7,10,25,20,2010,12,premier_league
+18,West Ham,10,2,4,6,16,20,20,2010,12,premier_league
+19,Wolves,10,2,4,6,12,22,20,2010,12,premier_league
+20,Portsmouth,0,2,1,9,10,18,20,2010,12,premier_league
+1,Chelsea,33,11,0,2,33,8,20,2010,13,premier_league
+2,Arsenal,28,9,1,3,40,17,20,2010,13,premier_league
+3,Man. Utd,28,9,1,3,26,12,20,2010,13,premier_league
+4,Tottenham Hotspur,25,8,1,4,32,18,20,2010,13,premier_league
+5,Aston Villa,22,6,4,3,21,13,20,2010,13,premier_league
+6,Man. City,21,5,6,2,23,18,20,2010,13,premier_league
+7,Liverpool,20,6,2,5,29,20,20,2010,13,premier_league
+8,Sunderland,20,6,2,5,21,19,20,2010,13,premier_league
+9,Stoke City,19,5,4,4,13,15,20,2010,13,premier_league
+10,Fulham,18,5,3,5,17,15,20,2010,13,premier_league
+11,Everton,18,5,3,5,17,20,20,2010,13,premier_league
+12,Burnley,17,5,2,6,16,26,20,2010,13,premier_league
+13,Blackburn Rovers,16,5,1,7,16,28,20,2010,13,premier_league
+14,Birmingham City,15,4,3,6,11,14,20,2010,13,premier_league
+15,Wigan Athletic,14,4,2,7,14,31,20,2010,13,premier_league
+16,Hull City,12,3,3,7,13,28,20,2010,13,premier_league
+17,West Ham,11,2,5,6,19,23,20,2010,13,premier_league
+18,Bolton Wanderers,11,3,2,8,17,30,20,2010,13,premier_league
+19,Wolves,10,2,4,7,12,26,20,2010,13,premier_league
+20,Portsmouth,0,2,1,10,10,19,20,2010,13,premier_league
+1,Chelsea,36,12,0,2,36,8,20,2010,14,premier_league
+2,Man. Utd,31,10,1,3,30,13,20,2010,14,premier_league
+3,Arsenal,28,9,1,4,40,20,20,2010,14,premier_league
+4,Tottenham Hotspur,26,8,2,4,33,19,20,2010,14,premier_league
+5,Liverpool,23,7,2,5,31,20,20,2010,14,premier_league
+6,Aston Villa,23,6,5,3,22,14,20,2010,14,premier_league
+7,Man. City,22,5,7,2,24,19,20,2010,14,premier_league
+8,Sunderland,20,6,2,6,21,20,20,2010,14,premier_league
+9,Stoke City,20,5,5,4,13,15,20,2010,14,premier_league
+10,Fulham,19,5,4,5,18,16,20,2010,14,premier_league
+11,Birmingham City,18,5,3,6,12,14,20,2010,14,premier_league
+12,Everton,18,5,3,6,17,22,20,2010,14,premier_league
+13,Burnley,17,5,2,7,19,31,20,2010,14,premier_league
+14,Blackburn Rovers,17,5,2,7,16,28,20,2010,14,premier_league
+15,Wigan Athletic,17,5,2,7,15,31,20,2010,14,premier_league
+16,West Ham,14,3,5,6,24,26,20,2010,14,premier_league
+17,Hull City,13,3,4,7,14,29,20,2010,14,premier_league
+18,Bolton Wanderers,12,3,3,8,18,31,20,2010,14,premier_league
+19,Wolves,10,2,4,8,12,27,20,2010,14,premier_league
+20,Portsmouth,0,2,1,11,11,23,20,2010,14,premier_league
+1,Chelsea,36,12,0,3,37,10,20,2010,15,premier_league
+2,Man. Utd,34,11,1,3,34,13,20,2010,15,premier_league
+3,Arsenal,31,10,1,4,42,20,20,2010,15,premier_league
+4,Tottenham Hotspur,27,8,3,4,35,21,20,2010,15,premier_league
+5,Aston Villa,26,7,5,3,25,14,20,2010,15,premier_league
+6,Man. City,25,6,7,2,26,20,20,2010,15,premier_league
+7,Liverpool,24,7,3,5,31,20,20,2010,15,premier_league
+8,Fulham,22,6,4,5,19,16,20,2010,15,premier_league
+9,Birmingham City,21,6,3,6,15,16,20,2010,15,premier_league
+10,Sunderland,20,6,2,7,21,21,20,2010,15,premier_league
+11,Stoke City,20,5,5,5,13,17,20,2010,15,premier_league
+12,Everton,19,5,4,6,19,24,20,2010,15,premier_league
+13,Blackburn Rovers,18,5,3,7,16,28,20,2010,15,premier_league
+14,Burnley,17,5,2,8,19,33,20,2010,15,premier_league
+15,Wigan Athletic,17,5,2,8,17,34,20,2010,15,premier_league
+16,West Ham,14,3,5,7,24,30,20,2010,15,premier_league
+17,Wolves,13,3,4,8,14,28,20,2010,15,premier_league
+18,Hull City,13,3,4,8,14,32,20,2010,15,premier_league
+19,Bolton Wanderers,12,3,3,9,19,33,20,2010,15,premier_league
+20,Portsmouth,1,3,1,11,13,23,20,2010,15,premier_league
+1,Chelsea,37,12,1,3,40,13,20,2010,16,premier_league
+2,Arsenal,34,11,1,4,44,21,20,2010,16,premier_league
+3,Man. Utd,34,11,1,4,34,14,20,2010,16,premier_league
+4,Aston Villa,29,8,5,3,26,14,20,2010,16,premier_league
+5,Tottenham Hotspur,27,8,3,5,35,22,20,2010,16,premier_league
+6,Man. City,26,6,8,2,29,23,20,2010,16,premier_league
+7,Liverpool,24,7,3,6,32,22,20,2010,16,premier_league
+8,Birmingham City,24,7,3,6,16,16,20,2010,16,premier_league
+9,Fulham,23,6,5,5,20,17,20,2010,16,premier_league
+10,Sunderland,21,6,3,7,22,22,20,2010,16,premier_league
+11,Stoke City,21,5,6,5,15,19,20,2010,16,premier_league
+12,Everton,20,5,5,6,22,27,20,2010,16,premier_league
+13,Blackburn Rovers,19,5,4,7,16,28,20,2010,16,premier_league
+14,Burnley,18,5,3,8,20,34,20,2010,16,premier_league
+15,Wigan Athletic,18,5,3,8,19,36,20,2010,16,premier_league
+16,Wolves,16,4,4,8,15,28,20,2010,16,premier_league
+17,West Ham,14,3,5,8,24,31,20,2010,16,premier_league
+18,Hull City,14,3,5,8,14,32,20,2010,16,premier_league
+19,Bolton Wanderers,13,3,4,9,22,36,20,2010,16,premier_league
+20,Portsmouth,2,3,2,11,14,24,20,2010,16,premier_league
+1,Chelsea,40,13,1,3,42,14,20,2010,17,premier_league
+2,Man. Utd,37,12,1,4,37,14,20,2010,17,premier_league
+3,Arsenal,35,11,2,4,45,22,20,2010,17,premier_league
+4,Aston Villa,32,9,5,3,28,14,20,2010,17,premier_league
+5,Tottenham Hotspur,30,9,3,5,38,22,20,2010,17,premier_league
+6,Liverpool,27,8,3,6,34,23,20,2010,17,premier_league
+7,Birmingham City,27,8,3,6,18,17,20,2010,17,premier_league
+8,Man. City,26,6,8,3,29,26,20,2010,17,premier_league
+9,Stoke City,24,6,6,5,18,21,20,2010,17,premier_league
+10,Fulham,23,6,5,6,22,20,20,2010,17,premier_league
+11,Sunderland,21,6,3,8,22,24,20,2010,17,premier_league
+12,Everton,20,5,5,7,24,30,20,2010,17,premier_league
+13,Blackburn Rovers,19,5,4,8,17,30,20,2010,17,premier_league
+14,Burnley,19,5,4,8,21,35,20,2010,17,premier_league
+15,Wigan Athletic,18,5,3,9,20,38,20,2010,17,premier_league
+16,Hull City,17,4,5,8,17,34,20,2010,17,premier_league
+17,Bolton Wanderers,16,4,4,9,25,37,20,2010,17,premier_league
+18,Wolves,16,4,4,9,15,31,20,2010,17,premier_league
+19,West Ham,14,3,5,9,25,34,20,2010,17,premier_league
+20,Portsmouth,2,3,2,12,15,26,20,2010,17,premier_league
+1,Chelsea,41,13,2,3,43,15,20,2010,18,premier_league
+2,Arsenal,38,12,2,4,48,22,20,2010,18,premier_league
+3,Man. Utd,37,12,1,5,37,17,20,2010,18,premier_league
+4,Aston Villa,35,10,5,3,29,14,20,2010,18,premier_league
+5,Tottenham Hotspur,33,10,3,5,40,22,20,2010,18,premier_league
+6,Man. City,29,7,8,3,33,29,20,2010,18,premier_league
+7,Birmingham City,28,8,4,6,19,18,20,2010,18,premier_league
+8,Liverpool,27,8,3,7,34,25,20,2010,18,premier_league
+9,Fulham,26,7,5,6,25,20,20,2010,18,premier_league
+10,Stoke City,24,6,6,6,18,22,20,2010,18,premier_league
+11,Sunderland,21,6,3,9,25,28,20,2010,18,premier_league
+12,Everton,21,5,6,7,25,31,20,2010,18,premier_league
+13,Wolves,19,5,4,9,17,31,20,2010,18,premier_league
+14,Blackburn Rovers,19,5,4,9,17,32,20,2010,18,premier_league
+15,Burnley,19,5,4,9,21,37,20,2010,18,premier_league
+16,Wigan Athletic,19,5,4,9,20,38,20,2010,18,premier_league
+17,Bolton Wanderers,17,4,5,9,25,37,20,2010,18,premier_league
+18,Hull City,17,4,5,9,17,37,20,2010,18,premier_league
+19,West Ham,15,3,6,9,26,35,20,2010,18,premier_league
+20,Portsmouth,5,4,2,12,17,26,20,2010,18,premier_league
+1,Chelsea,42,13,3,3,43,15,20,2010,19,premier_league
+2,Arsenal,41,13,2,4,51,22,20,2010,19,premier_league
+3,Man. Utd,40,13,1,5,40,18,20,2010,19,premier_league
+4,Aston Villa,35,10,5,4,29,17,20,2010,19,premier_league
+5,Tottenham Hotspur,34,10,4,5,40,22,20,2010,19,premier_league
+6,Man. City,32,8,8,3,35,29,20,2010,19,premier_league
+7,Liverpool,30,9,3,7,36,25,20,2010,19,premier_league
+8,Birmingham City,29,8,5,6,19,18,20,2010,19,premier_league
+9,Fulham,27,7,6,6,25,20,20,2010,19,premier_league
+10,Stoke City,24,6,6,7,18,24,20,2010,19,premier_league
+11,Sunderland,22,6,4,9,26,29,20,2010,19,premier_league
+12,Everton,22,5,7,7,26,32,20,2010,19,premier_league
+13,Blackburn Rovers,20,5,5,9,18,33,20,2010,19,premier_league
+14,Burnley,20,5,5,9,22,38,20,2010,19,premier_league
+15,Wigan Athletic,20,5,5,9,21,39,20,2010,19,premier_league
+16,Wolves,19,5,4,10,17,33,20,2010,19,premier_league
+17,West Ham,18,4,6,9,28,35,20,2010,19,premier_league
+18,Bolton Wanderers,18,4,6,9,26,38,20,2010,19,premier_league
+19,Hull City,17,4,5,10,18,40,20,2010,19,premier_league
+20,Portsmouth,5,4,2,13,17,28,20,2010,19,premier_league
+1,Chelsea,45,14,3,3,45,16,20,2010,20,premier_league
+2,Arsenal,44,14,2,4,55,23,20,2010,20,premier_league
+3,Man. Utd,43,14,1,5,45,18,20,2010,20,premier_league
+4,Tottenham Hotspur,37,11,4,5,42,22,20,2010,20,premier_league
+5,Aston Villa,35,10,5,5,29,18,20,2010,20,premier_league
+6,Man. City,35,9,8,3,38,29,20,2010,20,premier_league
+7,Liverpool,33,10,3,7,37,25,20,2010,20,premier_league
+8,Birmingham City,32,9,5,6,20,18,20,2010,20,premier_league
+9,Fulham,27,7,6,7,26,22,20,2010,20,premier_league
+10,Everton,25,6,7,7,28,32,20,2010,20,premier_league
+11,Stoke City,24,6,6,8,18,25,20,2010,20,premier_league
+12,Sunderland,23,6,5,9,28,31,20,2010,20,premier_league
+13,Blackburn Rovers,21,5,6,9,20,35,20,2010,20,premier_league
+14,Burnley,20,5,5,10,22,40,20,2010,20,premier_league
+15,Wigan Athletic,20,5,5,10,21,44,20,2010,20,premier_league
+16,Bolton Wanderers,19,4,7,9,28,40,20,2010,20,premier_league
+17,Wolves,19,5,4,11,17,36,20,2010,20,premier_league
+18,West Ham,18,4,6,10,28,37,20,2010,20,premier_league
+19,Hull City,18,4,6,10,20,42,20,2010,20,premier_league
+20,Portsmouth,5,4,2,14,18,32,20,2010,20,premier_league
+1,Chelsea,46,14,4,3,46,17,20,2010,21,premier_league
+2,Arsenal,45,14,3,4,57,25,20,2010,21,premier_league
+3,Man. Utd,44,14,2,5,46,19,20,2010,21,premier_league
+4,Man. City,38,10,8,3,42,30,20,2010,21,premier_league
+5,Aston Villa,38,11,5,5,31,19,20,2010,21,premier_league
+6,Tottenham Hotspur,37,11,4,6,42,24,20,2010,21,premier_league
+7,Liverpool,36,11,3,7,39,25,20,2010,21,premier_league
+8,Birmingham City,33,9,6,6,21,19,20,2010,21,premier_league
+9,Fulham,30,8,6,7,27,22,20,2010,21,premier_league
+10,Sunderland,26,7,5,9,32,31,20,2010,21,premier_league
+11,Everton,26,6,8,7,30,34,20,2010,21,premier_league
+12,Stoke City,25,6,7,8,19,26,20,2010,21,premier_league
+13,Wolves,22,6,4,11,20,37,20,2010,21,premier_league
+14,Burnley,21,5,6,10,23,41,20,2010,21,premier_league
+15,Blackburn Rovers,21,5,6,10,21,39,20,2010,21,premier_league
+16,Wigan Athletic,20,5,5,11,22,46,20,2010,21,premier_league
+17,Bolton Wanderers,19,4,7,10,28,44,20,2010,21,premier_league
+18,Hull City,19,4,7,10,21,43,20,2010,21,premier_league
+19,West Ham,18,4,6,11,29,40,20,2010,21,premier_league
+20,Portsmouth,5,4,2,15,18,33,20,2010,21,premier_league
+1,Chelsea,49,15,4,3,53,19,20,2010,22,premier_league
+2,Arsenal,48,15,3,4,59,25,20,2010,22,premier_league
+3,Man. Utd,47,15,2,5,49,19,20,2010,22,premier_league
+4,Aston Villa,39,11,6,5,31,19,20,2010,22,premier_league
+5,Tottenham Hotspur,38,11,5,6,42,24,20,2010,22,premier_league
+6,Man. City,38,10,8,4,42,32,20,2010,22,premier_league
+7,Liverpool,37,11,4,7,40,26,20,2010,22,premier_league
+8,Birmingham City,36,10,6,6,23,20,20,2010,22,premier_league
+9,Fulham,30,8,6,8,27,24,20,2010,22,premier_league
+10,Everton,29,7,8,7,32,34,20,2010,22,premier_league
+11,Sunderland,26,7,5,10,34,38,20,2010,22,premier_league
+12,Stoke City,26,6,8,8,20,27,20,2010,22,premier_league
+13,Blackburn Rovers,24,6,6,10,23,39,20,2010,22,premier_league
+14,Wigan Athletic,23,6,5,11,24,46,20,2010,22,premier_league
+15,Wolves,22,6,4,12,20,39,20,2010,22,premier_league
+16,Burnley,21,5,6,11,23,44,20,2010,22,premier_league
+17,Hull City,20,4,8,10,21,43,20,2010,22,premier_league
+18,West Ham,19,4,7,11,29,40,20,2010,22,premier_league
+19,Bolton Wanderers,19,4,7,11,28,46,20,2010,22,premier_league
+20,Portsmouth,5,4,2,16,19,35,20,2010,22,premier_league
+1,Chelsea,52,16,4,3,56,19,20,2010,23,premier_league
+2,Man. Utd,50,16,2,5,53,19,20,2010,23,premier_league
+3,Arsenal,49,15,4,4,59,25,20,2010,23,premier_league
+4,Tottenham Hotspur,41,12,5,6,44,24,20,2010,23,premier_league
+5,Aston Villa,40,11,7,5,31,19,20,2010,23,premier_league
+6,Man. City,39,10,9,4,43,33,20,2010,23,premier_league
+7,Liverpool,38,11,5,7,40,26,20,2010,23,premier_league
+8,Birmingham City,36,10,6,7,23,23,20,2010,23,premier_league
+9,Everton,32,8,8,7,34,34,20,2010,23,premier_league
+10,Fulham,30,8,6,9,27,26,20,2010,23,premier_league
+11,Stoke City,27,6,9,8,21,28,20,2010,23,premier_league
+12,Blackburn Rovers,27,7,6,10,25,40,20,2010,23,premier_league
+13,Sunderland,26,7,5,11,34,40,20,2010,23,premier_league
+14,Wolves,23,6,5,12,20,39,20,2010,23,premier_league
+15,Wigan Athletic,23,6,5,12,25,48,20,2010,23,premier_league
+16,Bolton Wanderers,22,5,7,11,29,46,20,2010,23,premier_league
+17,Burnley,21,5,6,12,23,45,20,2010,23,premier_league
+18,West Ham,20,4,8,11,30,41,20,2010,23,premier_league
+19,Hull City,20,4,8,11,21,47,20,2010,23,premier_league
+20,Portsmouth,6,4,3,16,20,36,20,2010,23,premier_league
+1,Chelsea,55,17,4,3,58,20,20,2010,24,premier_league
+2,Man. Utd,53,17,2,5,56,20,20,2010,24,premier_league
+3,Arsenal,49,15,4,5,60,28,20,2010,24,premier_league
+4,Aston Villa,43,12,7,5,33,19,20,2010,24,premier_league
+5,Tottenham Hotspur,42,12,6,6,45,25,20,2010,24,premier_league
+6,Man. City,42,11,9,4,45,33,20,2010,24,premier_league
+7,Liverpool,41,12,5,7,42,26,20,2010,24,premier_league
+8,Birmingham City,37,10,7,7,24,24,20,2010,24,premier_league
+9,Everton,35,9,8,7,35,34,20,2010,24,premier_league
+10,Fulham,30,8,6,10,27,28,20,2010,24,premier_league
+11,Stoke City,28,6,10,8,21,28,20,2010,24,premier_league
+12,Blackburn Rovers,28,7,7,10,25,40,20,2010,24,premier_league
+13,Sunderland,27,7,6,11,34,40,20,2010,24,premier_league
+14,Wolves,24,6,6,12,22,41,20,2010,24,premier_league
+15,Wigan Athletic,23,6,5,13,25,49,20,2010,24,premier_league
+16,Bolton Wanderers,22,5,7,12,29,48,20,2010,24,premier_league
+17,West Ham,21,4,9,11,30,41,20,2010,24,premier_league
+18,Burnley,21,5,6,13,24,47,20,2010,24,premier_league
+19,Hull City,21,4,9,11,23,49,20,2010,24,premier_league
+20,Portsmouth,6,4,3,17,20,38,20,2010,24,premier_league
+1,Chelsea,58,18,4,3,60,20,20,2010,25,premier_league
+2,Man. Utd,56,18,2,5,61,20,20,2010,25,premier_league
+3,Arsenal,49,15,4,6,60,30,20,2010,25,premier_league
+4,Liverpool,44,13,5,7,43,26,20,2010,25,premier_league
+5,Aston Villa,44,12,8,5,33,19,20,2010,25,premier_league
+6,Tottenham Hotspur,43,12,7,6,45,25,20,2010,25,premier_league
+7,Man. City,42,11,9,5,46,35,20,2010,25,premier_league
+8,Birmingham City,40,11,7,7,26,25,20,2010,25,premier_league
+9,Everton,35,9,8,8,35,35,20,2010,25,premier_league
+10,Fulham,31,8,7,10,27,28,20,2010,25,premier_league
+11,Stoke City,31,7,10,8,24,28,20,2010,25,premier_league
+12,Sunderland,28,7,7,11,35,41,20,2010,25,premier_league
+13,Blackburn Rovers,28,7,7,11,25,43,20,2010,25,premier_league
+14,Wolves,24,6,6,13,23,43,20,2010,25,premier_league
+15,Burnley,24,6,6,13,26,48,20,2010,25,premier_league
+16,Wigan Athletic,24,6,6,13,26,50,20,2010,25,premier_league
+17,Hull City,24,5,9,11,25,50,20,2010,25,premier_league
+18,Bolton Wanderers,23,5,8,12,29,48,20,2010,25,premier_league
+19,West Ham,21,4,9,12,31,43,20,2010,25,premier_league
+20,Portsmouth,6,4,3,18,20,43,20,2010,25,premier_league
+1,Chelsea,58,18,4,4,61,22,20,2010,26,premier_league
+2,Man. Utd,57,18,3,5,62,21,20,2010,26,premier_league
+3,Arsenal,52,16,4,6,61,30,20,2010,26,premier_league
+4,Aston Villa,45,12,9,5,34,20,20,2010,26,premier_league
+5,Man. City,45,12,9,5,48,35,20,2010,26,premier_league
+6,Liverpool,44,13,5,8,43,27,20,2010,26,premier_league
+7,Tottenham Hotspur,43,12,7,7,45,26,20,2010,26,premier_league
+8,Birmingham City,40,11,7,8,26,27,20,2010,26,premier_league
+9,Everton,38,10,8,8,37,36,20,2010,26,premier_league
+10,Fulham,34,9,7,10,30,28,20,2010,26,premier_league
+11,Stoke City,32,7,11,8,25,29,20,2010,26,premier_league
+12,Blackburn Rovers,31,8,7,11,26,43,20,2010,26,premier_league
+13,Sunderland,29,7,8,11,36,42,20,2010,26,premier_league
+14,Wolves,27,7,6,13,24,43,20,2010,26,premier_league
+15,Wigan Athletic,25,6,7,13,27,51,20,2010,26,premier_league
+16,West Ham,24,5,9,12,33,43,20,2010,26,premier_league
+17,Burnley,24,6,6,14,26,51,20,2010,26,premier_league
+18,Hull City,24,5,9,12,25,51,20,2010,26,premier_league
+19,Bolton Wanderers,23,5,8,13,29,50,20,2010,26,premier_league
+20,Portsmouth,7,4,4,18,21,44,20,2010,26,premier_league
+1,Chelsea,61,19,4,4,63,22,20,2010,27,premier_league
+2,Man. Utd,57,18,3,6,63,24,20,2010,27,premier_league
+3,Arsenal,55,17,4,6,63,30,20,2010,27,premier_league
+4,Aston Villa,48,13,9,5,39,22,20,2010,27,premier_league
+5,Tottenham Hotspur,46,13,7,7,48,26,20,2010,27,premier_league
+6,Man. City,46,12,10,5,48,35,20,2010,27,premier_league
+7,Liverpool,45,13,6,8,43,27,20,2010,27,premier_league
+8,Everton,41,11,8,8,40,37,20,2010,27,premier_league
+9,Birmingham City,40,11,7,9,27,29,20,2010,27,premier_league
+10,Fulham,37,10,7,10,32,29,20,2010,27,premier_league
+11,Stoke City,35,8,11,8,27,30,20,2010,27,premier_league
+12,Blackburn Rovers,34,9,7,11,29,43,20,2010,27,premier_league
+13,Sunderland,29,7,8,12,36,44,20,2010,27,premier_league
+14,West Ham,27,6,9,12,36,43,20,2010,27,premier_league
+15,Wolves,27,7,6,14,24,45,20,2010,27,premier_league
+16,Wigan Athletic,25,6,7,14,27,54,20,2010,27,premier_league
+17,Burnley,24,6,6,15,28,56,20,2010,27,premier_league
+18,Hull City,24,5,9,13,25,54,20,2010,27,premier_league
+19,Bolton Wanderers,23,5,8,14,29,53,20,2010,27,premier_league
+20,Portsmouth,7,4,4,19,22,46,20,2010,27,premier_league
+1,Chelsea,61,19,4,5,65,26,20,2010,28,premier_league
+2,Man. Utd,60,19,3,6,66,24,20,2010,28,premier_league
+3,Arsenal,58,18,4,6,66,31,20,2010,28,premier_league
+4,Aston Villa,51,14,9,5,41,22,20,2010,28,premier_league
+5,Tottenham Hotspur,49,14,7,7,50,27,20,2010,28,premier_league
+6,Man. City,49,13,10,5,52,37,20,2010,28,premier_league
+7,Liverpool,48,14,6,8,45,28,20,2010,28,premier_league
+8,Birmingham City,43,12,7,9,28,29,20,2010,28,premier_league
+9,Everton,41,11,8,9,41,39,20,2010,28,premier_league
+10,Fulham,38,10,8,10,32,29,20,2010,28,premier_league
+11,Stoke City,35,8,11,9,28,33,20,2010,28,premier_league
+12,Blackburn Rovers,34,9,7,12,30,45,20,2010,28,premier_league
+13,Sunderland,30,7,9,12,36,44,20,2010,28,premier_league
+14,West Ham,27,6,9,13,36,46,20,2010,28,premier_league
+15,Wolves,27,7,6,15,24,46,20,2010,28,premier_league
+16,Bolton Wanderers,26,6,8,14,30,53,20,2010,28,premier_league
+17,Wigan Athletic,25,6,7,15,27,55,20,2010,28,premier_league
+18,Burnley,24,6,6,16,29,58,20,2010,28,premier_league
+19,Hull City,24,5,9,14,25,56,20,2010,28,premier_league
+20,Portsmouth,10,5,4,19,24,47,20,2010,28,premier_league
+1,Chelsea,64,20,4,5,70,26,20,2010,29,premier_league
+2,Man. Utd,63,20,3,6,67,24,20,2010,29,premier_league
+3,Arsenal,61,19,4,6,69,32,20,2010,29,premier_league
+4,Tottenham Hotspur,52,15,7,7,51,27,20,2010,29,premier_league
+5,Aston Villa,52,14,10,5,42,23,20,2010,29,premier_league
+6,Man. City,49,13,10,6,52,38,20,2010,29,premier_league
+7,Liverpool,48,14,6,9,45,29,20,2010,29,premier_league
+8,Everton,44,12,8,9,46,40,20,2010,29,premier_league
+9,Birmingham City,43,12,7,10,29,31,20,2010,29,premier_league
+10,Fulham,38,10,8,11,32,30,20,2010,29,premier_league
+11,Stoke City,38,9,11,9,29,33,20,2010,29,premier_league
+12,Blackburn Rovers,37,10,7,12,32,46,20,2010,29,premier_league
+13,Sunderland,31,7,10,12,37,45,20,2010,29,premier_league
+14,Bolton Wanderers,29,7,8,14,32,54,20,2010,29,premier_league
+15,Wigan Athletic,28,7,7,15,28,55,20,2010,29,premier_league
+16,West Ham,27,6,9,14,37,48,20,2010,29,premier_league
+17,Wolves,27,7,6,16,24,47,20,2010,29,premier_league
+18,Burnley,24,6,6,17,30,61,20,2010,29,premier_league
+19,Hull City,24,5,9,15,26,61,20,2010,29,premier_league
+20,Portsmouth,10,5,4,20,24,52,20,2010,29,premier_league
+1,Chelsea,67,21,4,5,74,27,20,2010,30,premier_league
+2,Man. Utd,66,21,3,6,70,24,20,2010,30,premier_league
+3,Arsenal,64,20,4,6,71,33,20,2010,30,premier_league
+4,Tottenham Hotspur,55,16,7,7,54,28,20,2010,30,premier_league
+5,Aston Villa,53,14,11,5,42,23,20,2010,30,premier_league
+6,Liverpool,51,15,6,9,49,30,20,2010,30,premier_league
+7,Man. City,50,13,11,6,53,39,20,2010,30,premier_league
+8,Everton,45,12,9,9,48,42,20,2010,30,premier_league
+9,Birmingham City,44,12,8,10,31,33,20,2010,30,premier_league
+10,Stoke City,39,9,12,9,29,33,20,2010,30,premier_league
+11,Fulham,38,10,8,12,32,33,20,2010,30,premier_league
+12,Blackburn Rovers,37,10,7,13,33,49,20,2010,30,premier_league
+13,Sunderland,32,7,11,12,38,46,20,2010,30,premier_league
+14,Bolton Wanderers,32,8,8,14,36,54,20,2010,30,premier_league
+15,Wolves,30,8,6,16,26,48,20,2010,30,premier_league
+16,Wigan Athletic,28,7,7,16,28,59,20,2010,30,premier_league
+17,West Ham,27,6,9,15,38,52,20,2010,30,premier_league
+18,Burnley,24,6,6,18,31,63,20,2010,30,premier_league
+19,Hull City,24,5,9,16,27,63,20,2010,30,premier_league
+20,Portsmouth,10,5,4,21,25,56,20,2010,30,premier_league
+1,Man. Utd,69,22,3,6,72,25,20,2010,31,premier_league
+2,Chelsea,68,21,5,5,75,28,20,2010,31,premier_league
+3,Arsenal,67,21,4,6,73,33,20,2010,31,premier_league
+4,Tottenham Hotspur,58,17,7,7,56,29,20,2010,31,premier_league
+5,Aston Villa,54,14,12,5,44,25,20,2010,31,premier_league
+6,Man. City,53,14,11,6,55,40,20,2010,31,premier_league
+7,Liverpool,51,15,6,10,50,32,20,2010,31,premier_league
+8,Everton,48,13,9,9,50,42,20,2010,31,premier_league
+9,Birmingham City,44,12,8,11,32,36,20,2010,31,premier_league
+10,Stoke City,39,9,12,10,30,35,20,2010,31,premier_league
+11,Fulham,38,10,8,13,33,35,20,2010,31,premier_league
+12,Blackburn Rovers,38,10,8,13,34,50,20,2010,31,premier_league
+13,Sunderland,35,8,11,12,41,47,20,2010,31,premier_league
+14,Bolton Wanderers,32,8,8,15,36,56,20,2010,31,premier_league
+15,Wolves,31,8,7,16,28,50,20,2010,31,premier_league
+16,Wigan Athletic,31,8,7,16,29,59,20,2010,31,premier_league
+17,West Ham,27,6,9,16,38,54,20,2010,31,premier_league
+18,Burnley,24,6,6,19,31,64,20,2010,31,premier_league
+19,Hull City,24,5,9,17,29,66,20,2010,31,premier_league
+20,Portsmouth,13,6,4,21,28,58,20,2010,31,premier_league
+1,Man. Utd,72,23,3,6,76,25,20,2010,32,premier_league
+2,Chelsea,71,22,5,5,82,29,20,2010,32,premier_league
+3,Arsenal,68,21,5,6,74,34,20,2010,32,premier_league
+4,Tottenham Hotspur,61,18,7,7,58,29,20,2010,32,premier_league
+5,Man. City,56,15,11,6,58,40,20,2010,32,premier_league
+6,Liverpool,54,16,6,10,53,32,20,2010,32,premier_league
+7,Aston Villa,54,14,12,6,45,32,20,2010,32,premier_league
+8,Everton,49,13,10,9,50,42,20,2010,32,premier_league
+9,Birmingham City,45,12,9,11,33,37,20,2010,32,premier_league
+10,Stoke City,42,10,12,10,31,35,20,2010,32,premier_league
+11,Blackburn Rovers,41,11,8,13,35,50,20,2010,32,premier_league
+12,Fulham,38,10,8,14,33,37,20,2010,32,premier_league
+13,Sunderland,35,8,11,13,41,50,20,2010,32,premier_league
+14,Wolves,32,8,8,16,28,50,20,2010,32,premier_league
+15,Bolton Wanderers,32,8,8,16,36,60,20,2010,32,premier_league
+16,Wigan Athletic,31,8,7,17,29,62,20,2010,32,premier_league
+17,West Ham,27,6,9,17,38,55,20,2010,32,premier_league
+18,Hull City,27,6,9,17,31,66,20,2010,32,premier_league
+19,Burnley,24,6,6,20,31,65,20,2010,32,premier_league
+20,Portsmouth,13,6,4,22,28,60,20,2010,32,premier_league
+1,Chelsea,74,23,5,5,84,30,20,2010,33,premier_league
+2,Man. Utd,72,23,3,7,77,27,20,2010,33,premier_league
+3,Arsenal,71,22,5,6,75,34,20,2010,33,premier_league
+4,Tottenham Hotspur,61,18,7,8,59,32,20,2010,33,premier_league
+5,Man. City,59,16,11,6,64,41,20,2010,33,premier_league
+6,Aston Villa,57,15,12,6,46,32,20,2010,33,premier_league
+7,Liverpool,55,16,7,10,54,33,20,2010,33,premier_league
+8,Everton,50,13,11,9,52,44,20,2010,33,premier_league
+9,Birmingham City,46,12,10,11,34,38,20,2010,33,premier_league
+10,Stoke City,45,11,12,10,33,35,20,2010,33,premier_league
+11,Blackburn Rovers,42,11,9,13,35,50,20,2010,33,premier_league
+12,Fulham,41,11,8,14,35,38,20,2010,33,premier_league
+13,Sunderland,38,9,11,13,44,51,20,2010,33,premier_league
+14,Wolves,32,8,8,17,28,51,20,2010,33,premier_league
+15,Bolton Wanderers,32,8,8,17,36,61,20,2010,33,premier_league
+16,Wigan Athletic,31,8,7,18,30,64,20,2010,33,premier_league
+17,West Ham,28,6,10,17,40,57,20,2010,33,premier_league
+18,Hull City,27,6,9,18,31,68,20,2010,33,premier_league
+19,Burnley,24,6,6,21,32,71,20,2010,33,premier_league
+20,Portsmouth,14,6,5,22,28,60,20,2010,33,premier_league
+1,Chelsea,77,24,5,5,85,30,20,2010,34,premier_league
+2,Man. Utd,73,23,4,7,77,27,20,2010,34,premier_league
+3,Arsenal,71,22,5,7,76,36,20,2010,34,premier_league
+4,Tottenham Hotspur,64,19,7,8,61,33,20,2010,34,premier_league
+5,Man. City,62,17,11,6,69,42,20,2010,34,premier_league
+6,Aston Villa,58,15,13,6,48,34,20,2010,34,premier_league
+7,Liverpool,56,16,8,10,54,33,20,2010,34,premier_league
+8,Everton,51,13,12,9,54,46,20,2010,34,premier_league
+9,Stoke City,46,11,13,10,33,35,20,2010,34,premier_league
+10,Birmingham City,46,12,10,12,35,43,20,2010,34,premier_league
+11,Blackburn Rovers,43,11,10,13,35,50,20,2010,34,premier_league
+12,Fulham,42,11,9,14,35,38,20,2010,34,premier_league
+13,Sunderland,38,9,11,14,44,52,20,2010,34,premier_league
+14,Wolves,33,8,9,17,28,51,20,2010,34,premier_league
+15,Bolton Wanderers,32,8,8,18,36,62,20,2010,34,premier_league
+16,Wigan Athletic,32,8,8,18,30,64,20,2010,34,premier_league
+17,West Ham,31,7,10,17,41,57,20,2010,34,premier_league
+18,Burnley,27,7,6,21,36,72,20,2010,34,premier_league
+19,Hull City,27,6,9,19,32,72,20,2010,34,premier_league
+20,Portsmouth,15,6,6,22,28,60,20,2010,34,premier_league
+1,Chelsea,77,24,5,6,86,32,20,2010,35,premier_league
+2,Man. Utd,76,24,4,7,78,27,20,2010,35,premier_league
+3,Arsenal,71,22,5,8,78,39,20,2010,35,premier_league
+4,Tottenham Hotspur,67,20,7,8,63,34,20,2010,35,premier_league
+5,Man. City,62,17,11,7,69,43,20,2010,35,premier_league
+6,Aston Villa,61,16,13,6,50,35,20,2010,35,premier_league
+7,Liverpool,59,17,8,10,57,33,20,2010,35,premier_league
+8,Everton,54,14,12,9,57,48,20,2010,35,premier_league
+9,Birmingham City,47,12,11,12,35,43,20,2010,35,premier_league
+10,Stoke City,46,11,13,11,34,37,20,2010,35,premier_league
+11,Fulham,43,11,10,14,35,38,20,2010,35,premier_league
+12,Blackburn Rovers,43,11,10,14,37,53,20,2010,35,premier_league
+13,Sunderland,41,10,11,14,46,53,20,2010,35,premier_league
+14,Bolton Wanderers,35,9,8,18,38,63,20,2010,35,premier_league
+15,Wigan Athletic,35,9,8,18,33,66,20,2010,35,premier_league
+16,Wolves,34,8,10,17,28,51,20,2010,35,premier_league
+17,West Ham,31,7,10,18,41,60,20,2010,35,premier_league
+18,Hull City,28,6,10,19,32,72,20,2010,35,premier_league
+19,Burnley,27,7,6,22,37,74,20,2010,35,premier_league
+20,Portsmouth,15,6,6,23,29,62,20,2010,35,premier_league
+1,Chelsea,80,25,5,6,93,32,20,2010,36,premier_league
+2,Man. Utd,79,25,4,7,81,28,20,2010,36,premier_league
+3,Arsenal,72,22,6,8,78,39,20,2010,36,premier_league
+4,Tottenham Hotspur,67,20,7,9,64,37,20,2010,36,premier_league
+5,Aston Villa,64,17,13,6,51,35,20,2010,36,premier_league
+6,Man. City,63,17,12,7,69,43,20,2010,36,premier_league
+7,Liverpool,62,18,8,10,61,33,20,2010,36,premier_league
+8,Everton,57,15,12,9,59,49,20,2010,36,premier_league
+9,Birmingham City,47,12,11,13,35,44,20,2010,36,premier_league
+10,Stoke City,46,11,13,12,34,44,20,2010,36,premier_league
+11,Sunderland,44,11,11,14,47,53,20,2010,36,premier_league
+12,Blackburn Rovers,44,11,11,14,38,54,20,2010,36,premier_league
+13,Fulham,43,11,10,15,36,40,20,2010,36,premier_league
+14,Bolton Wanderers,36,9,9,18,40,65,20,2010,36,premier_league
+15,Wolves,35,8,11,17,29,52,20,2010,36,premier_league
+16,Wigan Athletic,35,9,8,19,35,69,20,2010,36,premier_league
+17,West Ham,34,8,10,18,44,62,20,2010,36,premier_league
+18,Hull City,28,6,10,20,32,73,20,2010,36,premier_league
+19,Burnley,27,7,6,23,37,78,20,2010,36,premier_league
+20,Portsmouth,16,6,7,23,31,64,20,2010,36,premier_league
+1,Chelsea,83,26,5,6,95,32,20,2010,37,premier_league
+2,Man. Utd,82,26,4,7,82,28,20,2010,37,premier_league
+3,Arsenal,72,22,6,9,79,41,20,2010,37,premier_league
+4,Tottenham Hotspur,70,21,7,9,65,37,20,2010,37,premier_league
+5,Man. City,66,18,12,7,72,44,20,2010,37,premier_league
+6,Aston Villa,64,17,13,7,52,38,20,2010,37,premier_league
+7,Liverpool,62,18,8,11,61,35,20,2010,37,premier_league
+8,Everton,58,15,13,9,59,49,20,2010,37,premier_league
+9,Birmingham City,50,13,11,13,37,45,20,2010,37,premier_league
+10,Stoke City,47,11,14,12,34,44,20,2010,37,premier_league
+11,Blackburn Rovers,47,12,11,14,40,55,20,2010,37,premier_league
+12,Fulham,46,12,10,15,39,42,20,2010,37,premier_league
+13,Sunderland,44,11,11,15,47,54,20,2010,37,premier_league
+14,Bolton Wanderers,36,9,9,19,40,66,20,2010,37,premier_league
+15,Wigan Athletic,36,9,9,19,37,71,20,2010,37,premier_league
+16,Wolves,35,8,11,18,30,55,20,2010,37,premier_league
+17,West Ham,34,8,10,19,46,65,20,2010,37,premier_league
+18,Hull City,29,6,11,20,34,75,20,2010,37,premier_league
+19,Burnley,27,7,6,24,38,80,20,2010,37,premier_league
+20,Portsmouth,19,7,7,23,34,65,20,2010,37,premier_league
+1,Chelsea,86,27,5,6,103,32,20,2010,38,premier_league
+2,Man. Utd,85,27,4,7,86,28,20,2010,38,premier_league
+3,Arsenal,75,23,6,9,83,41,20,2010,38,premier_league
+4,Tottenham Hotspur,70,21,7,10,67,41,20,2010,38,premier_league
+5,Man. City,67,18,13,7,73,45,20,2010,38,premier_league
+6,Aston Villa,64,17,13,8,52,39,20,2010,38,premier_league
+7,Liverpool,63,18,9,11,61,35,20,2010,38,premier_league
+8,Everton,61,16,13,9,60,49,20,2010,38,premier_league
+9,Birmingham City,50,13,11,14,38,47,20,2010,38,premier_league
+10,Blackburn Rovers,50,13,11,14,41,55,20,2010,38,premier_league
+11,Stoke City,47,11,14,13,34,48,20,2010,38,premier_league
+12,Fulham,46,12,10,16,39,46,20,2010,38,premier_league
+13,Sunderland,44,11,11,16,48,56,20,2010,38,premier_league
+14,Bolton Wanderers,39,10,9,19,42,67,20,2010,38,premier_league
+15,Wolves,38,9,11,18,32,56,20,2010,38,premier_league
+16,Wigan Athletic,36,9,9,20,37,79,20,2010,38,premier_league
+17,West Ham,35,8,11,19,47,66,20,2010,38,premier_league
+18,Burnley,30,8,6,24,42,82,20,2010,38,premier_league
+19,Hull City,30,6,12,20,34,75,20,2010,38,premier_league
+20,Portsmouth,19,7,7,24,34,66,20,2010,38,premier_league

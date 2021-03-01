@@ -1,0 +1,612 @@
+1,Marítimo,3,1,0,0,1,0,18,2004,1,primeira_liga
+2,Belenenses,3,1,0,0,4,0,18,2004,1,primeira_liga
+3,Porto,3,1,0,0,2,0,18,2004,1,primeira_liga
+4,Nacional,3,1,0,0,2,0,18,2004,1,primeira_liga
+5,Sporting CP,3,1,0,0,2,1,18,2004,1,primeira_liga
+6,Alverca,3,1,0,0,1,0,18,2004,1,primeira_liga
+7,Vitória,3,1,0,0,1,0,18,2004,1,primeira_liga
+8,Moreirense,3,1,0,0,1,0,18,2004,1,primeira_liga
+9,Benfica,1,0,1,0,0,0,18,2004,1,primeira_liga
+10,Boavista,1,0,1,0,0,0,18,2004,1,primeira_liga
+11,Académica,0,0,0,1,1,2,18,2004,1,primeira_liga
+12,Beira Mar SC,0,0,0,1,0,1,18,2004,1,primeira_liga
+13,Gil Vicente,0,0,0,1,0,1,18,2004,1,primeira_liga
+14,Rio Ave,0,0,0,1,0,1,18,2004,1,primeira_liga
+15,União de Leiria,0,0,0,1,0,1,18,2004,1,primeira_liga
+16,Paços Ferreira,0,0,0,1,0,2,18,2004,1,primeira_liga
+17,Sporting Braga,0,0,0,1,0,2,18,2004,1,primeira_liga
+18,Estrela Amadora,0,0,0,1,0,4,18,2004,1,primeira_liga
+1,Marítimo,6,2,0,0,2,0,18,2004,2,primeira_liga
+2,Sporting CP,6,2,0,0,6,3,18,2004,2,primeira_liga
+3,Porto,4,1,1,0,3,1,18,2004,2,primeira_liga
+4,Boavista,4,1,1,0,2,0,18,2004,2,primeira_liga
+5,Benfica,4,1,1,0,2,0,18,2004,2,primeira_liga
+6,Belenenses,3,1,0,1,6,4,18,2004,2,primeira_liga
+7,Académica,3,1,0,1,3,2,18,2004,2,primeira_liga
+8,Nacional,3,1,0,1,2,1,18,2004,2,primeira_liga
+9,Alverca,3,1,0,1,1,1,18,2004,2,primeira_liga
+10,Moreirense,3,1,0,1,1,1,18,2004,2,primeira_liga
+11,Sporting Braga,3,1,0,1,1,2,18,2004,2,primeira_liga
+12,Paços Ferreira,3,1,0,1,1,2,18,2004,2,primeira_liga
+13,Vitória,3,1,0,1,1,2,18,2004,2,primeira_liga
+14,Gil Vicente,1,0,1,1,1,2,18,2004,2,primeira_liga
+15,Rio Ave,1,0,1,1,1,2,18,2004,2,primeira_liga
+16,Estrela Amadora,1,0,1,1,1,5,18,2004,2,primeira_liga
+17,União de Leiria,0,0,0,2,0,3,18,2004,2,primeira_liga
+18,Beira Mar SC,0,0,0,2,0,3,18,2004,2,primeira_liga
+1,Marítimo,9,3,0,0,3,0,18,2004,3,primeira_liga
+2,Porto,7,2,1,0,7,2,18,2004,3,primeira_liga
+3,Benfica,7,2,1,0,5,1,18,2004,3,primeira_liga
+4,Boavista,7,2,1,0,3,0,18,2004,3,primeira_liga
+5,Nacional,6,2,0,1,6,1,18,2004,3,primeira_liga
+6,Sporting Braga,6,2,0,1,3,2,18,2004,3,primeira_liga
+7,Sporting CP,6,2,0,1,7,7,18,2004,3,primeira_liga
+8,Belenenses,4,1,1,1,7,5,18,2004,3,primeira_liga
+9,Gil Vicente,4,1,1,1,3,2,18,2004,3,primeira_liga
+10,Académica,3,1,0,2,4,5,18,2004,3,primeira_liga
+11,Alverca,3,1,0,2,1,2,18,2004,3,primeira_liga
+12,Vitória,3,1,0,2,1,3,18,2004,3,primeira_liga
+13,Moreirense,3,1,0,2,1,3,18,2004,3,primeira_liga
+14,Beira Mar SC,3,1,0,2,1,3,18,2004,3,primeira_liga
+15,Paços Ferreira,3,1,0,2,1,4,18,2004,3,primeira_liga
+16,Rio Ave,1,0,1,2,1,3,18,2004,3,primeira_liga
+17,União de Leiria,1,0,1,2,1,4,18,2004,3,primeira_liga
+18,Estrela Amadora,1,0,1,2,1,9,18,2004,3,primeira_liga
+1,Marítimo,12,4,0,0,4,0,18,2004,4,primeira_liga
+2,Porto,10,3,1,0,10,3,18,2004,4,primeira_liga
+3,Sporting CP,9,3,0,1,9,7,18,2004,4,primeira_liga
+4,Sporting Braga,9,3,0,1,5,3,18,2004,4,primeira_liga
+5,Benfica,8,2,2,0,8,4,18,2004,4,primeira_liga
+6,Boavista,8,2,2,0,4,1,18,2004,4,primeira_liga
+7,Nacional,6,2,0,2,6,3,18,2004,4,primeira_liga
+8,Académica,6,2,0,2,6,6,18,2004,4,primeira_liga
+9,Moreirense,6,2,0,2,3,4,18,2004,4,primeira_liga
+10,Belenenses,5,1,2,1,10,8,18,2004,4,primeira_liga
+11,Gil Vicente,4,1,1,2,4,4,18,2004,4,primeira_liga
+12,Alverca,4,1,1,2,2,3,18,2004,4,primeira_liga
+13,Beira Mar SC,4,1,1,2,2,4,18,2004,4,primeira_liga
+14,Vitória,3,1,0,3,2,5,18,2004,4,primeira_liga
+15,Paços Ferreira,3,1,0,3,1,5,18,2004,4,primeira_liga
+16,Rio Ave,2,0,2,2,2,4,18,2004,4,primeira_liga
+17,União de Leiria,1,0,1,3,2,7,18,2004,4,primeira_liga
+18,Estrela Amadora,1,0,1,3,2,11,18,2004,4,primeira_liga
+1,Marítimo,13,4,1,0,5,1,18,2004,5,primeira_liga
+2,Porto,13,4,1,0,12,3,18,2004,5,primeira_liga
+3,Sporting Braga,10,3,1,1,6,4,18,2004,5,primeira_liga
+4,Boavista,9,2,3,0,4,1,18,2004,5,primeira_liga
+5,Sporting CP,9,3,0,2,9,8,18,2004,5,primeira_liga
+6,Moreirense,9,3,0,2,4,4,18,2004,5,primeira_liga
+7,Belenenses,8,2,2,1,12,8,18,2004,5,primeira_liga
+8,Benfica,8,2,2,1,8,6,18,2004,5,primeira_liga
+9,Gil Vicente,7,2,1,2,9,5,18,2004,5,primeira_liga
+10,Beira Mar SC,7,2,1,2,6,5,18,2004,5,primeira_liga
+11,Académica,7,2,1,2,6,6,18,2004,5,primeira_liga
+12,Alverca,7,2,1,2,3,3,18,2004,5,primeira_liga
+13,Nacional,6,2,0,3,6,5,18,2004,5,primeira_liga
+14,União de Leiria,4,1,1,3,4,7,18,2004,5,primeira_liga
+15,Vitória,3,1,0,4,2,7,18,2004,5,primeira_liga
+16,Paços Ferreira,3,1,0,4,2,9,18,2004,5,primeira_liga
+17,Rio Ave,2,0,2,3,2,5,18,2004,5,primeira_liga
+18,Estrela Amadora,1,0,1,4,3,16,18,2004,5,primeira_liga
+1,Porto,16,5,1,0,14,4,18,2004,6,primeira_liga
+2,Marítimo,13,4,1,1,5,2,18,2004,6,primeira_liga
+3,Boavista,12,3,3,0,6,2,18,2004,6,primeira_liga
+4,Sporting CP,12,4,0,2,10,8,18,2004,6,primeira_liga
+5,Belenenses,11,3,2,1,13,8,18,2004,6,primeira_liga
+6,Benfica,11,3,2,1,9,6,18,2004,6,primeira_liga
+7,Beira Mar SC,10,3,1,2,8,5,18,2004,6,primeira_liga
+8,Alverca,10,3,1,2,6,3,18,2004,6,primeira_liga
+9,Sporting Braga,10,3,1,2,6,6,18,2004,6,primeira_liga
+10,Moreirense,9,3,0,3,5,6,18,2004,6,primeira_liga
+11,Gil Vicente,7,2,1,3,9,6,18,2004,6,primeira_liga
+12,Académica,7,2,1,3,6,7,18,2004,6,primeira_liga
+13,União de Leiria,7,2,1,3,6,8,18,2004,6,primeira_liga
+14,Nacional,6,2,0,4,6,6,18,2004,6,primeira_liga
+15,Estrela Amadora,4,1,1,4,4,16,18,2004,6,primeira_liga
+16,Vitória,3,1,0,5,3,9,18,2004,6,primeira_liga
+17,Paços Ferreira,3,1,0,5,2,12,18,2004,6,primeira_liga
+18,Rio Ave,2,0,2,4,3,7,18,2004,6,primeira_liga
+1,Porto,19,6,1,0,18,5,18,2004,7,primeira_liga
+2,Marítimo,16,5,1,1,7,3,18,2004,7,primeira_liga
+3,Benfica,14,4,2,1,13,7,18,2004,7,primeira_liga
+4,Beira Mar SC,13,4,1,2,11,5,18,2004,7,primeira_liga
+5,Boavista,13,3,4,0,7,3,18,2004,7,primeira_liga
+6,Sporting Braga,13,4,1,2,8,7,18,2004,7,primeira_liga
+7,Belenenses,12,3,3,1,14,9,18,2004,7,primeira_liga
+8,Sporting CP,12,4,0,3,11,10,18,2004,7,primeira_liga
+9,Gil Vicente,10,3,1,3,11,6,18,2004,7,primeira_liga
+10,Alverca,10,3,1,3,7,5,18,2004,7,primeira_liga
+11,Nacional,9,3,0,4,10,8,18,2004,7,primeira_liga
+12,Moreirense,9,3,0,4,6,10,18,2004,7,primeira_liga
+13,Académica,7,2,1,4,7,11,18,2004,7,primeira_liga
+14,União de Leiria,7,2,1,4,6,10,18,2004,7,primeira_liga
+15,Rio Ave,5,1,2,4,5,8,18,2004,7,primeira_liga
+16,Estrela Amadora,4,1,1,5,4,19,18,2004,7,primeira_liga
+17,Vitória,3,1,0,6,5,13,18,2004,7,primeira_liga
+18,Paços Ferreira,3,1,0,6,3,14,18,2004,7,primeira_liga
+1,Porto,22,7,1,0,22,6,18,2004,8,primeira_liga
+2,Marítimo,17,5,2,1,9,5,18,2004,8,primeira_liga
+3,Benfica,17,5,2,1,15,8,18,2004,8,primeira_liga
+4,Boavista,16,4,4,0,10,3,18,2004,8,primeira_liga
+5,Sporting CP,15,5,0,3,14,11,18,2004,8,primeira_liga
+6,Sporting Braga,14,4,2,2,9,8,18,2004,8,primeira_liga
+7,Alverca,13,4,1,3,10,5,18,2004,8,primeira_liga
+8,Beira Mar SC,13,4,1,3,12,8,18,2004,8,primeira_liga
+9,Belenenses,12,3,3,2,15,13,18,2004,8,primeira_liga
+10,Nacional,12,4,0,4,11,8,18,2004,8,primeira_liga
+11,Gil Vicente,10,3,1,4,12,8,18,2004,8,primeira_liga
+12,Moreirense,9,3,0,5,6,13,18,2004,8,primeira_liga
+13,União de Leiria,8,2,2,4,8,12,18,2004,8,primeira_liga
+14,Académica,7,2,1,5,7,12,18,2004,8,primeira_liga
+15,Rio Ave,6,1,3,4,6,9,18,2004,8,primeira_liga
+16,Vitória,6,2,0,6,8,13,18,2004,8,primeira_liga
+17,Estrela Amadora,4,1,1,6,4,22,18,2004,8,primeira_liga
+18,Paços Ferreira,3,1,0,7,3,17,18,2004,8,primeira_liga
+1,Porto,25,8,1,0,23,6,18,2004,9,primeira_liga
+2,Marítimo,18,5,3,1,10,6,18,2004,9,primeira_liga
+3,Benfica,18,5,3,1,16,9,18,2004,9,primeira_liga
+4,Sporting CP,18,6,0,3,16,12,18,2004,9,primeira_liga
+5,Sporting Braga,17,5,2,2,10,8,18,2004,9,primeira_liga
+6,Beira Mar SC,16,5,1,3,16,10,18,2004,9,primeira_liga
+7,Boavista,16,4,4,1,10,4,18,2004,9,primeira_liga
+8,Nacional,15,5,0,4,15,8,18,2004,9,primeira_liga
+9,Alverca,13,4,1,4,11,7,18,2004,9,primeira_liga
+10,Belenenses,12,3,3,3,15,17,18,2004,9,primeira_liga
+11,Gil Vicente,11,3,2,4,13,9,18,2004,9,primeira_liga
+12,Moreirense,10,3,1,5,7,14,18,2004,9,primeira_liga
+13,Rio Ave,9,2,3,4,9,10,18,2004,9,primeira_liga
+14,Académica,8,2,2,5,8,13,18,2004,9,primeira_liga
+15,União de Leiria,8,2,2,5,10,16,18,2004,9,primeira_liga
+16,Vitória,7,2,1,6,9,14,18,2004,9,primeira_liga
+17,Estrela Amadora,4,1,1,7,5,25,18,2004,9,primeira_liga
+18,Paços Ferreira,3,1,0,8,3,18,18,2004,9,primeira_liga
+1,Porto,28,9,1,0,24,6,18,2004,10,primeira_liga
+2,Marítimo,19,5,4,1,11,7,18,2004,10,primeira_liga
+3,Beira Mar SC,19,6,1,3,18,11,18,2004,10,primeira_liga
+4,Sporting CP,19,6,1,3,17,13,18,2004,10,primeira_liga
+5,Benfica,18,5,3,2,17,11,18,2004,10,primeira_liga
+6,Sporting Braga,18,5,3,2,10,8,18,2004,10,primeira_liga
+7,Boavista,17,4,5,1,10,4,18,2004,10,primeira_liga
+8,Nacional,15,5,0,5,15,9,18,2004,10,primeira_liga
+9,Belenenses,13,3,4,3,15,17,18,2004,10,primeira_liga
+10,Alverca,13,4,1,5,12,9,18,2004,10,primeira_liga
+11,Gil Vicente,11,3,2,5,14,11,18,2004,10,primeira_liga
+12,Académica,11,3,2,5,10,14,18,2004,10,primeira_liga
+13,União de Leiria,11,3,2,5,12,17,18,2004,10,primeira_liga
+14,Moreirense,11,3,2,5,7,14,18,2004,10,primeira_liga
+15,Rio Ave,10,2,4,4,10,11,18,2004,10,primeira_liga
+16,Vitória,8,2,2,6,10,15,18,2004,10,primeira_liga
+17,Paços Ferreira,6,2,0,8,4,18,18,2004,10,primeira_liga
+18,Estrela Amadora,4,1,1,8,5,26,18,2004,10,primeira_liga
+1,Porto,29,9,2,0,25,7,18,2004,11,primeira_liga
+2,Sporting CP,22,7,1,3,19,14,18,2004,11,primeira_liga
+3,Benfica,21,6,3,2,20,11,18,2004,11,primeira_liga
+4,Sporting Braga,21,6,3,2,12,9,18,2004,11,primeira_liga
+5,Beira Mar SC,20,6,2,3,20,13,18,2004,11,primeira_liga
+6,Boavista,20,5,5,1,12,5,18,2004,11,primeira_liga
+7,Marítimo,19,5,4,2,11,9,18,2004,11,primeira_liga
+8,Nacional,15,5,0,6,16,11,18,2004,11,primeira_liga
+9,Belenenses,14,3,5,3,15,17,18,2004,11,primeira_liga
+10,Académica,14,4,2,5,12,14,18,2004,11,primeira_liga
+11,Rio Ave,13,3,4,4,13,11,18,2004,11,primeira_liga
+12,Alverca,13,4,1,6,12,12,18,2004,11,primeira_liga
+13,Gil Vicente,12,3,3,5,14,11,18,2004,11,primeira_liga
+14,Moreirense,12,3,3,5,8,15,18,2004,11,primeira_liga
+15,União de Leiria,11,3,2,6,12,20,18,2004,11,primeira_liga
+16,Vitória,9,2,3,6,12,17,18,2004,11,primeira_liga
+17,Paços Ferreira,6,2,0,9,5,20,18,2004,11,primeira_liga
+18,Estrela Amadora,4,1,1,9,6,28,18,2004,11,primeira_liga
+1,Porto,32,10,2,0,29,8,18,2004,12,primeira_liga
+2,Sporting CP,25,8,1,3,21,14,18,2004,12,primeira_liga
+3,Benfica,24,7,3,2,22,11,18,2004,12,primeira_liga
+4,Beira Mar SC,23,7,2,3,21,13,18,2004,12,primeira_liga
+5,Sporting Braga,21,6,3,3,12,11,18,2004,12,primeira_liga
+6,Marítimo,20,5,5,2,13,11,18,2004,12,primeira_liga
+7,Boavista,20,5,5,2,13,7,18,2004,12,primeira_liga
+8,Nacional,18,6,0,6,19,12,18,2004,12,primeira_liga
+9,Belenenses,15,3,6,3,17,19,18,2004,12,primeira_liga
+10,Alverca,14,4,2,6,14,14,18,2004,12,primeira_liga
+11,Académica,14,4,2,6,12,15,18,2004,12,primeira_liga
+12,União de Leiria,14,4,2,6,13,20,18,2004,12,primeira_liga
+13,Rio Ave,13,3,4,5,13,13,18,2004,12,primeira_liga
+14,Gil Vicente,12,3,3,6,15,15,18,2004,12,primeira_liga
+15,Moreirense,12,3,3,6,9,18,18,2004,12,primeira_liga
+16,Vitória,10,2,4,6,14,19,18,2004,12,primeira_liga
+17,Estrela Amadora,7,2,1,9,8,29,18,2004,12,primeira_liga
+18,Paços Ferreira,6,2,0,10,5,21,18,2004,12,primeira_liga
+1,Porto,33,10,3,0,31,10,18,2004,13,primeira_liga
+2,Sporting CP,28,9,1,3,25,15,18,2004,13,primeira_liga
+3,Benfica,27,8,3,2,25,11,18,2004,13,primeira_liga
+4,Beira Mar SC,26,8,2,3,23,13,18,2004,13,primeira_liga
+5,Sporting Braga,24,7,3,3,15,12,18,2004,13,primeira_liga
+6,Boavista,23,6,5,2,14,7,18,2004,13,primeira_liga
+7,Marítimo,21,5,6,2,15,13,18,2004,13,primeira_liga
+8,Nacional,19,6,1,6,23,16,18,2004,13,primeira_liga
+9,Alverca,17,5,2,6,16,15,18,2004,13,primeira_liga
+10,Rio Ave,16,4,4,5,14,13,18,2004,13,primeira_liga
+11,Belenenses,15,3,6,4,17,21,18,2004,13,primeira_liga
+12,Académica,14,4,2,7,13,17,18,2004,13,primeira_liga
+13,União de Leiria,14,4,2,7,14,23,18,2004,13,primeira_liga
+14,Gil Vicente,13,3,4,6,19,19,18,2004,13,primeira_liga
+15,Moreirense,12,3,3,7,9,19,18,2004,13,primeira_liga
+16,Vitória,10,2,4,7,14,20,18,2004,13,primeira_liga
+17,Estrela Amadora,7,2,1,10,9,33,18,2004,13,primeira_liga
+18,Paços Ferreira,6,2,0,11,5,24,18,2004,13,primeira_liga
+1,Porto,36,11,3,0,34,10,18,2004,14,primeira_liga
+2,Sporting CP,31,10,1,3,26,15,18,2004,14,primeira_liga
+3,Benfica,30,9,3,2,27,11,18,2004,14,primeira_liga
+4,Beira Mar SC,26,8,2,4,23,16,18,2004,14,primeira_liga
+5,Marítimo,24,6,6,2,16,13,18,2004,14,primeira_liga
+6,Sporting Braga,24,7,3,4,15,14,18,2004,14,primeira_liga
+7,Boavista,23,6,5,3,14,8,18,2004,14,primeira_liga
+8,Nacional,19,6,1,7,23,17,18,2004,14,primeira_liga
+9,Belenenses,18,4,6,4,19,21,18,2004,14,primeira_liga
+10,Rio Ave,17,4,5,5,14,13,18,2004,14,primeira_liga
+11,Alverca,17,5,2,7,16,17,18,2004,14,primeira_liga
+12,União de Leiria,17,5,2,7,18,24,18,2004,14,primeira_liga
+13,Académica,15,4,3,7,13,17,18,2004,14,primeira_liga
+14,Gil Vicente,14,3,5,6,19,19,18,2004,14,primeira_liga
+15,Moreirense,13,3,4,7,9,19,18,2004,14,primeira_liga
+16,Vitória,11,2,5,7,15,21,18,2004,14,primeira_liga
+17,Paços Ferreira,7,2,1,11,6,25,18,2004,14,primeira_liga
+18,Estrela Amadora,7,2,1,11,10,37,18,2004,14,primeira_liga
+1,Porto,39,12,3,0,36,11,18,2004,15,primeira_liga
+2,Sporting CP,34,11,1,3,28,15,18,2004,15,primeira_liga
+3,Benfica,33,10,3,2,30,11,18,2004,15,primeira_liga
+4,Beira Mar SC,29,9,2,4,24,16,18,2004,15,primeira_liga
+5,Marítimo,27,7,6,2,17,13,18,2004,15,primeira_liga
+6,Sporting Braga,27,8,3,4,17,15,18,2004,15,primeira_liga
+7,Boavista,23,6,5,4,14,11,18,2004,15,primeira_liga
+8,Rio Ave,20,5,5,5,18,14,18,2004,15,primeira_liga
+9,Nacional,19,6,1,8,23,18,18,2004,15,primeira_liga
+10,Belenenses,18,4,6,5,20,25,18,2004,15,primeira_liga
+11,Gil Vicente,17,4,5,6,22,19,18,2004,15,primeira_liga
+12,Alverca,17,5,2,8,17,19,18,2004,15,primeira_liga
+13,União de Leiria,17,5,2,8,18,26,18,2004,15,primeira_liga
+14,Académica,15,4,3,8,13,18,18,2004,15,primeira_liga
+15,Moreirense,13,3,4,8,9,20,18,2004,15,primeira_liga
+16,Vitória,11,2,5,8,16,23,18,2004,15,primeira_liga
+17,Paços Ferreira,10,3,1,11,7,25,18,2004,15,primeira_liga
+18,Estrela Amadora,7,2,1,12,10,40,18,2004,15,primeira_liga
+1,Porto,42,13,3,0,37,11,18,2004,16,primeira_liga
+2,Sporting CP,37,12,1,3,31,16,18,2004,16,primeira_liga
+3,Benfica,33,10,3,3,31,14,18,2004,16,primeira_liga
+4,Sporting Braga,30,9,3,4,18,15,18,2004,16,primeira_liga
+5,Beira Mar SC,29,9,2,5,25,19,18,2004,16,primeira_liga
+6,Marítimo,27,7,6,3,18,15,18,2004,16,primeira_liga
+7,Boavista,26,7,5,4,15,11,18,2004,16,primeira_liga
+8,Nacional,22,7,1,8,26,18,18,2004,16,primeira_liga
+9,Gil Vicente,20,5,5,6,24,20,18,2004,16,primeira_liga
+10,Rio Ave,20,5,5,6,18,15,18,2004,16,primeira_liga
+11,Belenenses,18,4,6,6,20,27,18,2004,16,primeira_liga
+12,Alverca,17,5,2,9,17,22,18,2004,16,primeira_liga
+13,União de Leiria,17,5,2,9,18,27,18,2004,16,primeira_liga
+14,Moreirense,16,4,4,8,12,21,18,2004,16,primeira_liga
+15,Académica,15,4,3,9,13,19,18,2004,16,primeira_liga
+16,Vitória,14,3,5,8,17,23,18,2004,16,primeira_liga
+17,Paços Ferreira,13,4,1,11,9,25,18,2004,16,primeira_liga
+18,Estrela Amadora,7,2,1,13,10,41,18,2004,16,primeira_liga
+1,Porto,45,14,3,0,39,11,18,2004,17,primeira_liga
+2,Sporting CP,40,13,1,3,33,17,18,2004,17,primeira_liga
+3,Benfica,34,10,4,3,34,17,18,2004,17,primeira_liga
+4,Sporting Braga,33,10,3,4,20,16,18,2004,17,primeira_liga
+5,Beira Mar SC,30,9,3,5,26,20,18,2004,17,primeira_liga
+6,Marítimo,28,7,7,3,18,15,18,2004,17,primeira_liga
+7,Boavista,27,7,6,4,15,11,18,2004,17,primeira_liga
+8,Nacional,23,7,2,8,26,18,18,2004,17,primeira_liga
+9,Gil Vicente,21,5,6,6,25,21,18,2004,17,primeira_liga
+10,Rio Ave,21,5,6,6,18,15,18,2004,17,primeira_liga
+11,Moreirense,19,5,4,8,14,22,18,2004,17,primeira_liga
+12,Belenenses,18,4,6,7,21,29,18,2004,17,primeira_liga
+13,União de Leiria,18,5,3,9,21,30,18,2004,17,primeira_liga
+14,Alverca,17,5,2,10,18,24,18,2004,17,primeira_liga
+15,Académica,15,4,3,10,14,21,18,2004,17,primeira_liga
+16,Vitória,14,3,5,9,18,25,18,2004,17,primeira_liga
+17,Paços Ferreira,13,4,1,12,9,27,18,2004,17,primeira_liga
+18,Estrela Amadora,10,3,1,13,12,42,18,2004,17,primeira_liga
+1,Porto,48,15,3,0,42,11,18,2004,18,primeira_liga
+2,Sporting CP,43,14,1,3,35,17,18,2004,18,primeira_liga
+3,Benfica,37,11,4,3,37,19,18,2004,18,primeira_liga
+4,Sporting Braga,33,10,3,5,20,19,18,2004,18,primeira_liga
+5,Beira Mar SC,31,9,4,5,28,22,18,2004,18,primeira_liga
+6,Marítimo,29,7,8,3,20,17,18,2004,18,primeira_liga
+7,Boavista,27,7,6,5,17,14,18,2004,18,primeira_liga
+8,Nacional,24,7,3,8,27,19,18,2004,18,primeira_liga
+9,Gil Vicente,22,5,7,6,25,21,18,2004,18,primeira_liga
+10,Rio Ave,22,5,7,6,19,16,18,2004,18,primeira_liga
+11,Moreirense,20,5,5,8,15,23,18,2004,18,primeira_liga
+12,Belenenses,19,4,7,7,23,31,18,2004,18,primeira_liga
+13,União de Leiria,19,5,4,9,21,30,18,2004,18,primeira_liga
+14,Alverca,18,5,3,10,18,24,18,2004,18,primeira_liga
+15,Vitória,15,3,6,9,18,25,18,2004,18,primeira_liga
+16,Académica,15,4,3,11,14,23,18,2004,18,primeira_liga
+17,Paços Ferreira,14,4,2,12,10,28,18,2004,18,primeira_liga
+18,Estrela Amadora,11,3,2,13,14,44,18,2004,18,primeira_liga
+1,Porto,51,16,3,0,44,11,18,2004,19,primeira_liga
+2,Sporting CP,46,15,1,3,38,18,18,2004,19,primeira_liga
+3,Benfica,40,12,4,3,38,19,18,2004,19,primeira_liga
+4,Sporting Braga,33,10,3,6,21,24,18,2004,19,primeira_liga
+5,Beira Mar SC,31,9,4,6,28,23,18,2004,19,primeira_liga
+6,Marítimo,30,7,9,3,21,18,18,2004,19,primeira_liga
+7,Boavista,30,8,6,5,18,14,18,2004,19,primeira_liga
+8,Nacional,27,8,3,8,32,20,18,2004,19,primeira_liga
+9,Rio Ave,25,6,7,6,21,17,18,2004,19,primeira_liga
+10,Moreirense,23,6,5,8,16,23,18,2004,19,primeira_liga
+11,Gil Vicente,22,5,7,7,26,23,18,2004,19,primeira_liga
+12,União de Leiria,22,6,4,9,23,31,18,2004,19,primeira_liga
+13,Belenenses,19,4,7,8,24,34,18,2004,19,primeira_liga
+14,Alverca,19,5,4,10,19,25,18,2004,19,primeira_liga
+15,Vitória,15,3,6,10,18,26,18,2004,19,primeira_liga
+16,Académica,15,4,3,12,15,25,18,2004,19,primeira_liga
+17,Paços Ferreira,14,4,2,13,10,29,18,2004,19,primeira_liga
+18,Estrela Amadora,11,3,2,14,14,46,18,2004,19,primeira_liga
+1,Porto,52,16,4,0,45,12,18,2004,20,primeira_liga
+2,Sporting CP,47,15,2,3,39,19,18,2004,20,primeira_liga
+3,Benfica,43,13,4,3,40,19,18,2004,20,primeira_liga
+4,Beira Mar SC,34,10,4,6,30,24,18,2004,20,primeira_liga
+5,Sporting Braga,34,10,4,6,22,25,18,2004,20,primeira_liga
+6,Boavista,31,8,7,5,19,15,18,2004,20,primeira_liga
+7,Marítimo,30,7,9,4,22,20,18,2004,20,primeira_liga
+8,Nacional,30,9,3,8,33,20,18,2004,20,primeira_liga
+9,Rio Ave,28,7,7,6,23,18,18,2004,20,primeira_liga
+10,Moreirense,24,6,6,8,17,24,18,2004,20,primeira_liga
+11,União de Leiria,23,6,5,9,24,32,18,2004,20,primeira_liga
+12,Gil Vicente,22,5,7,8,28,26,18,2004,20,primeira_liga
+13,Belenenses,20,4,8,8,25,35,18,2004,20,primeira_liga
+14,Alverca,19,5,4,11,20,27,18,2004,20,primeira_liga
+15,Paços Ferreira,17,5,2,13,13,31,18,2004,20,primeira_liga
+16,Vitória,16,3,7,10,19,27,18,2004,20,primeira_liga
+17,Académica,15,4,3,13,15,27,18,2004,20,primeira_liga
+18,Estrela Amadora,11,3,2,15,14,47,18,2004,20,primeira_liga
+1,Porto,55,17,4,0,47,13,18,2004,21,primeira_liga
+2,Sporting CP,48,15,3,3,42,22,18,2004,21,primeira_liga
+3,Benfica,46,14,4,3,42,19,18,2004,21,primeira_liga
+4,Beira Mar SC,35,10,5,6,31,25,18,2004,21,primeira_liga
+5,Boavista,34,9,7,5,21,16,18,2004,21,primeira_liga
+6,Sporting Braga,34,10,4,7,22,26,18,2004,21,primeira_liga
+7,Marítimo,33,8,9,4,24,20,18,2004,21,primeira_liga
+8,Nacional,31,9,4,8,36,23,18,2004,21,primeira_liga
+9,Rio Ave,29,7,8,6,24,19,18,2004,21,primeira_liga
+10,Moreirense,27,7,6,8,18,24,18,2004,21,primeira_liga
+11,Gil Vicente,25,6,7,8,29,26,18,2004,21,primeira_liga
+12,União de Leiria,23,6,5,10,25,34,18,2004,21,primeira_liga
+13,Belenenses,20,4,8,9,25,37,18,2004,21,primeira_liga
+14,Alverca,19,5,4,12,21,29,18,2004,21,primeira_liga
+15,Vitória,17,3,8,10,20,28,18,2004,21,primeira_liga
+16,Paços Ferreira,17,5,2,14,13,33,18,2004,21,primeira_liga
+17,Académica,16,4,4,13,16,28,18,2004,21,primeira_liga
+18,Estrela Amadora,11,3,2,16,14,48,18,2004,21,primeira_liga
+1,Porto,56,17,5,0,48,14,18,2004,22,primeira_liga
+2,Sporting CP,51,16,3,3,43,22,18,2004,22,primeira_liga
+3,Benfica,47,14,5,3,43,20,18,2004,22,primeira_liga
+4,Beira Mar SC,35,10,5,7,32,27,18,2004,22,primeira_liga
+5,Sporting Braga,35,10,5,7,22,26,18,2004,22,primeira_liga
+6,Marítimo,34,8,10,4,24,20,18,2004,22,primeira_liga
+7,Nacional,34,10,4,8,37,23,18,2004,22,primeira_liga
+8,Boavista,34,9,7,6,21,17,18,2004,22,primeira_liga
+9,Rio Ave,29,7,8,7,25,21,18,2004,22,primeira_liga
+10,Moreirense,27,7,6,9,18,25,18,2004,22,primeira_liga
+11,Gil Vicente,26,6,8,8,30,27,18,2004,22,primeira_liga
+12,Belenenses,23,5,8,9,26,37,18,2004,22,primeira_liga
+13,União de Leiria,23,6,5,11,25,35,18,2004,22,primeira_liga
+14,Alverca,22,6,4,12,23,30,18,2004,22,primeira_liga
+15,Paços Ferreira,20,6,2,14,15,34,18,2004,22,primeira_liga
+16,Académica,19,5,4,13,17,28,18,2004,22,primeira_liga
+17,Vitória,17,3,8,11,20,29,18,2004,22,primeira_liga
+18,Estrela Amadora,12,3,3,16,15,49,18,2004,22,primeira_liga
+1,Porto,59,18,5,0,51,14,18,2004,23,primeira_liga
+2,Sporting CP,52,16,4,3,44,23,18,2004,23,primeira_liga
+3,Benfica,47,14,5,4,45,23,18,2004,23,primeira_liga
+4,Sporting Braga,38,11,5,7,24,26,18,2004,23,primeira_liga
+5,Marítimo,37,9,10,4,25,20,18,2004,23,primeira_liga
+6,Nacional,37,11,4,8,40,25,18,2004,23,primeira_liga
+7,Boavista,35,9,8,6,22,18,18,2004,23,primeira_liga
+8,Beira Mar SC,35,10,5,8,32,29,18,2004,23,primeira_liga
+9,Rio Ave,30,7,9,7,26,22,18,2004,23,primeira_liga
+10,Moreirense,28,7,7,9,18,25,18,2004,23,primeira_liga
+11,Gil Vicente,27,6,9,8,31,28,18,2004,23,primeira_liga
+12,Alverca,25,7,4,12,25,31,18,2004,23,primeira_liga
+13,União de Leiria,24,6,6,11,25,35,18,2004,23,primeira_liga
+14,Belenenses,23,5,8,10,26,42,18,2004,23,primeira_liga
+15,Académica,22,6,4,13,22,28,18,2004,23,primeira_liga
+16,Paços Ferreira,20,6,2,15,16,36,18,2004,23,primeira_liga
+17,Vitória,17,3,8,12,20,32,18,2004,23,primeira_liga
+18,Estrela Amadora,12,3,3,17,15,50,18,2004,23,primeira_liga
+1,Porto,62,19,5,0,52,14,18,2004,24,primeira_liga
+2,Sporting CP,55,17,4,3,45,23,18,2004,24,primeira_liga
+3,Benfica,48,14,6,4,46,24,18,2004,24,primeira_liga
+4,Sporting Braga,39,11,6,7,24,26,18,2004,24,primeira_liga
+5,Marítimo,37,9,10,5,25,21,18,2004,24,primeira_liga
+6,Nacional,37,11,4,9,41,27,18,2004,24,primeira_liga
+7,Boavista,36,9,9,6,23,19,18,2004,24,primeira_liga
+8,Beira Mar SC,36,10,6,8,34,31,18,2004,24,primeira_liga
+9,Rio Ave,33,8,9,7,28,23,18,2004,24,primeira_liga
+10,Moreirense,29,7,8,9,19,26,18,2004,24,primeira_liga
+11,Gil Vicente,28,6,10,8,33,30,18,2004,24,primeira_liga
+12,Alverca,26,7,5,12,25,31,18,2004,24,primeira_liga
+13,União de Leiria,25,6,7,11,27,37,18,2004,24,primeira_liga
+14,Belenenses,24,5,9,10,27,43,18,2004,24,primeira_liga
+15,Académica,22,6,4,14,22,29,18,2004,24,primeira_liga
+16,Vitória,20,4,8,12,22,33,18,2004,24,primeira_liga
+17,Paços Ferreira,20,6,2,16,17,38,18,2004,24,primeira_liga
+18,Estrela Amadora,13,3,4,17,17,52,18,2004,24,primeira_liga
+1,Porto,65,20,5,0,56,15,18,2004,25,primeira_liga
+2,Sporting CP,58,18,4,3,47,23,18,2004,25,primeira_liga
+3,Benfica,51,15,6,4,48,25,18,2004,25,primeira_liga
+4,Nacional,40,12,4,9,43,28,18,2004,25,primeira_liga
+5,Sporting Braga,40,11,7,7,24,26,18,2004,25,primeira_liga
+6,Marítimo,38,9,11,5,27,23,18,2004,25,primeira_liga
+7,Boavista,37,9,10,6,24,20,18,2004,25,primeira_liga
+8,Beira Mar SC,36,10,6,9,34,33,18,2004,25,primeira_liga
+9,Rio Ave,34,8,10,7,28,23,18,2004,25,primeira_liga
+10,Moreirense,30,7,9,9,20,27,18,2004,25,primeira_liga
+11,Alverca,29,8,5,12,28,31,18,2004,25,primeira_liga
+12,Gil Vicente,28,6,10,9,34,32,18,2004,25,primeira_liga
+13,União de Leiria,26,6,8,11,29,39,18,2004,25,primeira_liga
+14,Belenenses,24,5,9,11,28,47,18,2004,25,primeira_liga
+15,Académica,22,6,4,15,23,31,18,2004,25,primeira_liga
+16,Vitória,21,4,9,12,23,34,18,2004,25,primeira_liga
+17,Paços Ferreira,21,6,3,16,18,39,18,2004,25,primeira_liga
+18,Estrela Amadora,13,3,4,18,17,55,18,2004,25,primeira_liga
+1,Porto,68,21,5,0,57,15,18,2004,26,primeira_liga
+2,Sporting CP,61,19,4,3,49,23,18,2004,26,primeira_liga
+3,Benfica,54,16,6,4,49,25,18,2004,26,primeira_liga
+4,Nacional,43,13,4,9,44,28,18,2004,26,primeira_liga
+5,Sporting Braga,43,12,7,7,26,27,18,2004,26,primeira_liga
+6,Marítimo,38,9,11,6,27,24,18,2004,26,primeira_liga
+7,Rio Ave,37,9,10,7,32,24,18,2004,26,primeira_liga
+8,Boavista,37,9,10,7,24,21,18,2004,26,primeira_liga
+9,Beira Mar SC,36,10,6,10,35,35,18,2004,26,primeira_liga
+10,Moreirense,33,8,9,9,23,27,18,2004,26,primeira_liga
+11,Gil Vicente,31,7,10,9,36,32,18,2004,26,primeira_liga
+12,Alverca,29,8,5,13,28,33,18,2004,26,primeira_liga
+13,União de Leiria,29,7,8,11,31,40,18,2004,26,primeira_liga
+14,Belenenses,24,5,9,12,28,48,18,2004,26,primeira_liga
+15,Académica,22,6,4,16,23,34,18,2004,26,primeira_liga
+16,Vitória,21,4,9,13,23,36,18,2004,26,primeira_liga
+17,Paços Ferreira,21,6,3,17,19,41,18,2004,26,primeira_liga
+18,Estrela Amadora,13,3,4,19,18,59,18,2004,26,primeira_liga
+1,Porto,69,21,6,0,57,15,18,2004,27,primeira_liga
+2,Sporting CP,61,19,4,4,49,27,18,2004,27,primeira_liga
+3,Benfica,57,17,6,4,50,25,18,2004,27,primeira_liga
+4,Nacional,44,13,5,9,44,28,18,2004,27,primeira_liga
+5,Sporting Braga,44,12,8,7,27,28,18,2004,27,primeira_liga
+6,Rio Ave,40,10,10,7,36,24,18,2004,27,primeira_liga
+7,Marítimo,39,9,12,6,28,25,18,2004,27,primeira_liga
+8,Boavista,38,9,11,7,25,22,18,2004,27,primeira_liga
+9,Beira Mar SC,36,10,6,11,35,36,18,2004,27,primeira_liga
+10,Moreirense,34,8,10,9,23,27,18,2004,27,primeira_liga
+11,União de Leiria,32,8,8,11,35,41,18,2004,27,primeira_liga
+12,Gil Vicente,31,7,10,10,36,33,18,2004,27,primeira_liga
+13,Alverca,29,8,5,14,29,37,18,2004,27,primeira_liga
+14,Belenenses,25,5,10,12,28,48,18,2004,27,primeira_liga
+15,Académica,25,7,4,16,24,34,18,2004,27,primeira_liga
+16,Paços Ferreira,24,7,3,17,20,41,18,2004,27,primeira_liga
+17,Vitória,22,4,10,13,24,37,18,2004,27,primeira_liga
+18,Estrela Amadora,13,3,4,20,18,60,18,2004,27,primeira_liga
+1,Porto,72,22,6,0,58,15,18,2004,28,primeira_liga
+2,Sporting CP,64,20,4,4,50,27,18,2004,28,primeira_liga
+3,Benfica,60,18,6,4,52,25,18,2004,28,primeira_liga
+4,Nacional,47,14,5,9,45,28,18,2004,28,primeira_liga
+5,Sporting Braga,47,13,8,7,28,28,18,2004,28,primeira_liga
+6,Rio Ave,41,10,11,7,37,25,18,2004,28,primeira_liga
+7,Marítimo,39,9,12,7,28,27,18,2004,28,primeira_liga
+8,Boavista,38,9,11,8,25,23,18,2004,28,primeira_liga
+9,Beira Mar SC,36,10,6,12,35,38,18,2004,28,primeira_liga
+10,Moreirense,34,8,10,10,23,28,18,2004,28,primeira_liga
+11,União de Leiria,33,8,9,11,36,42,18,2004,28,primeira_liga
+12,Gil Vicente,31,7,10,11,36,35,18,2004,28,primeira_liga
+13,Alverca,29,8,5,15,29,39,18,2004,28,primeira_liga
+14,Belenenses,28,6,10,12,30,48,18,2004,28,primeira_liga
+15,Académica,28,8,4,16,26,34,18,2004,28,primeira_liga
+16,Vitória,25,5,10,13,26,37,18,2004,28,primeira_liga
+17,Paços Ferreira,24,7,3,18,20,42,18,2004,28,primeira_liga
+18,Estrela Amadora,13,3,4,21,18,61,18,2004,28,primeira_liga
+1,Porto,72,22,6,1,58,17,18,2004,29,primeira_liga
+2,Sporting CP,67,21,4,4,53,29,18,2004,29,primeira_liga
+3,Benfica,61,18,7,4,53,26,18,2004,29,primeira_liga
+4,Nacional,47,14,5,10,46,30,18,2004,29,primeira_liga
+5,Sporting Braga,47,13,8,8,30,31,18,2004,29,primeira_liga
+6,Marítimo,42,10,12,7,30,27,18,2004,29,primeira_liga
+7,Rio Ave,42,10,12,7,38,26,18,2004,29,primeira_liga
+8,Boavista,38,9,11,9,26,25,18,2004,29,primeira_liga
+9,Beira Mar SC,37,10,7,12,35,38,18,2004,29,primeira_liga
+10,Moreirense,37,9,10,10,25,29,18,2004,29,primeira_liga
+11,União de Leiria,36,9,9,11,38,43,18,2004,29,primeira_liga
+12,Gil Vicente,34,8,10,11,38,35,18,2004,29,primeira_liga
+13,Académica,29,8,5,16,26,34,18,2004,29,primeira_liga
+14,Alverca,29,8,5,16,29,40,18,2004,29,primeira_liga
+15,Belenenses,28,6,10,13,30,50,18,2004,29,primeira_liga
+16,Vitória,28,6,10,13,27,37,18,2004,29,primeira_liga
+17,Paços Ferreira,24,7,3,19,21,44,18,2004,29,primeira_liga
+18,Estrela Amadora,16,4,4,21,20,62,18,2004,29,primeira_liga
+1,Porto,75,23,6,1,59,17,18,2004,30,primeira_liga
+2,Sporting CP,70,22,4,4,57,29,18,2004,30,primeira_liga
+3,Benfica,64,19,7,4,55,27,18,2004,30,primeira_liga
+4,Nacional,50,15,5,10,48,31,18,2004,30,primeira_liga
+5,Sporting Braga,48,13,9,8,32,33,18,2004,30,primeira_liga
+6,Marítimo,42,10,12,8,30,28,18,2004,30,primeira_liga
+7,Rio Ave,42,10,12,8,38,28,18,2004,30,primeira_liga
+8,Moreirense,40,10,10,10,27,30,18,2004,30,primeira_liga
+9,Boavista,38,9,11,10,27,27,18,2004,30,primeira_liga
+10,Beira Mar SC,37,10,7,13,35,39,18,2004,30,primeira_liga
+11,União de Leiria,37,9,10,11,40,45,18,2004,30,primeira_liga
+12,Gil Vicente,34,8,10,12,39,37,18,2004,30,primeira_liga
+13,Académica,32,9,5,16,30,34,18,2004,30,primeira_liga
+14,Belenenses,31,7,10,13,31,50,18,2004,30,primeira_liga
+15,Vitória,31,7,10,13,29,37,18,2004,30,primeira_liga
+16,Alverca,29,8,5,17,29,44,18,2004,30,primeira_liga
+17,Paços Ferreira,24,7,3,20,22,46,18,2004,30,primeira_liga
+18,Estrela Amadora,16,4,4,22,20,66,18,2004,30,primeira_liga
+1,Porto,76,23,7,1,59,17,18,2004,31,primeira_liga
+2,Sporting CP,70,22,4,5,58,31,18,2004,31,primeira_liga
+3,Benfica,67,20,7,4,58,27,18,2004,31,primeira_liga
+4,Nacional,50,15,5,11,48,33,18,2004,31,primeira_liga
+5,Sporting Braga,48,13,9,9,32,36,18,2004,31,primeira_liga
+6,Marítimo,45,11,12,8,32,28,18,2004,31,primeira_liga
+7,Rio Ave,45,11,12,8,41,30,18,2004,31,primeira_liga
+8,Boavista,41,10,11,10,29,28,18,2004,31,primeira_liga
+9,Moreirense,40,10,10,11,27,31,18,2004,31,primeira_liga
+10,Beira Mar SC,38,10,8,13,35,39,18,2004,31,primeira_liga
+11,União de Leiria,38,9,11,11,40,45,18,2004,31,primeira_liga
+12,Gil Vicente,37,9,10,12,40,37,18,2004,31,primeira_liga
+13,Académica,32,9,5,17,32,37,18,2004,31,primeira_liga
+14,Alverca,32,9,5,17,30,44,18,2004,31,primeira_liga
+15,Belenenses,31,7,10,14,31,51,18,2004,31,primeira_liga
+16,Vitória,31,7,10,14,29,38,18,2004,31,primeira_liga
+17,Paços Ferreira,27,8,3,20,23,46,18,2004,31,primeira_liga
+18,Estrela Amadora,17,4,5,22,20,66,18,2004,31,primeira_liga
+1,Porto,79,24,7,1,60,17,18,2004,32,primeira_liga
+2,Benfica,70,21,7,4,61,28,18,2004,32,primeira_liga
+3,Sporting CP,70,22,4,6,58,32,18,2004,32,primeira_liga
+4,Nacional,53,16,5,11,51,33,18,2004,32,primeira_liga
+5,Sporting Braga,48,13,9,10,32,37,18,2004,32,primeira_liga
+6,Marítimo,45,11,12,9,32,31,18,2004,32,primeira_liga
+7,Rio Ave,45,11,12,9,41,33,18,2004,32,primeira_liga
+8,Boavista,44,11,11,10,30,28,18,2004,32,primeira_liga
+9,Moreirense,43,11,10,11,30,31,18,2004,32,primeira_liga
+10,União de Leiria,41,10,11,11,41,45,18,2004,32,primeira_liga
+11,Beira Mar SC,38,10,8,14,35,42,18,2004,32,primeira_liga
+12,Gil Vicente,37,9,10,13,40,38,18,2004,32,primeira_liga
+13,Académica,35,10,5,17,35,39,18,2004,32,primeira_liga
+14,Belenenses,34,8,10,14,34,51,18,2004,32,primeira_liga
+15,Vitória,34,8,10,14,30,38,18,2004,32,primeira_liga
+16,Alverca,32,9,5,18,30,45,18,2004,32,primeira_liga
+17,Paços Ferreira,27,8,3,21,25,49,18,2004,32,primeira_liga
+18,Estrela Amadora,17,4,5,23,21,69,18,2004,32,primeira_liga
+1,Porto,79,24,7,2,60,18,18,2004,33,primeira_liga
+2,Benfica,73,22,7,4,62,28,18,2004,33,primeira_liga
+3,Sporting CP,70,22,4,7,58,33,18,2004,33,primeira_liga
+4,Nacional,53,16,5,12,52,35,18,2004,33,primeira_liga
+5,Sporting Braga,51,14,9,10,34,38,18,2004,33,primeira_liga
+6,Marítimo,48,12,12,9,34,31,18,2004,33,primeira_liga
+7,Rio Ave,48,12,12,9,42,33,18,2004,33,primeira_liga
+8,Boavista,44,11,11,11,30,30,18,2004,33,primeira_liga
+9,União de Leiria,44,11,11,11,43,45,18,2004,33,primeira_liga
+10,Moreirense,43,11,10,12,30,32,18,2004,33,primeira_liga
+11,Beira Mar SC,41,11,8,14,36,42,18,2004,33,primeira_liga
+12,Gil Vicente,37,9,10,14,40,40,18,2004,33,primeira_liga
+13,Vitória,37,9,10,14,31,38,18,2004,33,primeira_liga
+14,Belenenses,35,8,11,14,35,52,18,2004,33,primeira_liga
+15,Académica,35,10,5,18,36,41,18,2004,33,primeira_liga
+16,Alverca,35,10,5,18,32,46,18,2004,33,primeira_liga
+17,Paços Ferreira,28,8,4,21,26,50,18,2004,33,primeira_liga
+18,Estrela Amadora,17,4,5,24,21,70,18,2004,33,primeira_liga
+1,Porto,82,25,7,2,63,19,18,2004,34,primeira_liga
+2,Benfica,74,22,8,4,62,28,18,2004,34,primeira_liga
+3,Sporting CP,73,23,4,7,60,33,18,2004,34,primeira_liga
+4,Nacional,56,17,5,12,56,35,18,2004,34,primeira_liga
+5,Sporting Braga,54,15,9,10,36,38,18,2004,34,primeira_liga
+6,Marítimo,48,12,12,10,35,33,18,2004,34,primeira_liga
+7,Rio Ave,48,12,12,10,42,37,18,2004,34,primeira_liga
+8,Boavista,47,12,11,11,32,31,18,2004,34,primeira_liga
+9,Moreirense,46,12,10,12,33,33,18,2004,34,primeira_liga
+10,União de Leiria,45,11,12,11,43,45,18,2004,34,primeira_liga
+11,Beira Mar SC,41,11,8,15,36,45,18,2004,34,primeira_liga
+12,Gil Vicente,40,10,10,14,43,40,18,2004,34,primeira_liga
+13,Académica,38,11,5,18,40,42,18,2004,34,primeira_liga
+14,Vitória,37,9,10,15,31,40,18,2004,34,primeira_liga
+15,Belenenses,35,8,11,15,35,54,18,2004,34,primeira_liga
+16,Alverca,35,10,5,19,33,49,18,2004,34,primeira_liga
+17,Paços Ferreira,28,8,4,22,27,53,18,2004,34,primeira_liga
+18,Estrela Amadora,17,4,5,25,22,74,18,2004,34,primeira_liga

@@ -1,0 +1,760 @@
+1,Barcelona,3,1,0,0,3,0,20,2011,1,primera_division
+2,Sevilla,3,1,0,0,4,1,20,2011,1,primera_division
+3,Valencia,3,1,0,0,3,1,20,2011,1,primera_division
+4,Espanyol,3,1,0,0,3,1,20,2011,1,primera_division
+5,Athletic,3,1,0,0,1,0,20,2011,1,primera_division
+6,Atlético,3,1,0,0,4,0,20,2011,1,primera_division
+7,R. Sociedad,3,1,0,0,1,0,20,2011,1,primera_division
+8,Real Madrid,1,0,1,0,0,0,20,2011,1,primera_division
+9,Real Zaragoza,1,0,1,0,0,0,20,2011,1,primera_division
+10,Almería,1,0,1,0,0,0,20,2011,1,primera_division
+11,Mallorca,1,0,1,0,0,0,20,2011,1,primera_division
+12,Osasuna,1,0,1,0,0,0,20,2011,1,primera_division
+13,Deportivo,1,0,1,0,0,0,20,2011,1,primera_division
+14,Málaga,0,0,0,1,1,3,20,2011,1,primera_division
+15,Villarreal,0,0,0,1,0,1,20,2011,1,primera_division
+16,Levante,0,0,0,1,1,4,20,2011,1,primera_division
+17,Getafe,0,0,0,1,1,3,20,2011,1,primera_division
+18,Real Sporting,0,0,0,1,0,4,20,2011,1,primera_division
+19,Racing,0,0,0,1,0,3,20,2011,1,primera_division
+20,Hércules,0,0,0,1,0,1,20,2011,1,primera_division
+1,Valencia,6,2,0,0,4,1,20,2011,2,primera_division
+2,Atlético,6,2,0,0,6,1,20,2011,2,primera_division
+3,Real Madrid,4,1,1,0,1,0,20,2011,2,primera_division
+4,Sevilla,4,1,1,0,4,1,20,2011,2,primera_division
+5,R. Sociedad,4,1,1,0,3,2,20,2011,2,primera_division
+6,Barcelona,3,1,0,1,3,2,20,2011,2,primera_division
+7,Villarreal,3,1,0,1,4,1,20,2011,2,primera_division
+8,Espanyol,3,1,0,1,3,5,20,2011,2,primera_division
+9,Málaga,3,1,0,1,6,6,20,2011,2,primera_division
+10,Athletic,3,1,0,1,2,2,20,2011,2,primera_division
+11,Real Sporting,3,1,0,1,2,4,20,2011,2,primera_division
+12,Getafe,3,1,0,1,5,4,20,2011,2,primera_division
+13,Hércules,3,1,0,1,2,1,20,2011,2,primera_division
+14,Almería,2,0,2,0,2,2,20,2011,2,primera_division
+15,Deportivo,2,0,2,0,0,0,20,2011,2,primera_division
+16,Mallorca,1,0,1,1,0,2,20,2011,2,primera_division
+17,Osasuna,1,0,1,1,0,1,20,2011,2,primera_division
+18,Real Zaragoza,1,0,1,1,3,5,20,2011,2,primera_division
+19,Levante,0,0,0,2,2,8,20,2011,2,primera_division
+20,Racing,0,0,0,2,0,4,20,2011,2,primera_division
+1,Valencia,9,3,0,0,6,2,20,2011,3,primera_division
+2,Real Madrid,7,2,1,0,3,1,20,2011,3,primera_division
+3,Sevilla,7,2,1,0,6,2,20,2011,3,primera_division
+4,Barcelona,6,2,0,1,5,3,20,2011,3,primera_division
+5,Villarreal,6,2,0,1,6,2,20,2011,3,primera_division
+6,Espanyol,6,2,0,1,4,5,20,2011,3,primera_division
+7,Atlético,6,2,0,1,7,3,20,2011,3,primera_division
+8,R. Sociedad,4,1,1,1,4,4,20,2011,3,primera_division
+9,Athletic,4,1,1,1,4,4,20,2011,3,primera_division
+10,Real Sporting,4,1,1,1,4,6,20,2011,3,primera_division
+11,Mallorca,4,1,1,1,2,2,20,2011,3,primera_division
+12,Getafe,4,1,1,1,7,6,20,2011,3,primera_division
+13,Deportivo,3,0,3,0,2,2,20,2011,3,primera_division
+14,Málaga,3,1,0,2,7,8,20,2011,3,primera_division
+15,Racing,3,1,0,2,2,4,20,2011,3,primera_division
+16,Hércules,3,1,0,2,3,3,20,2011,3,primera_division
+17,Almería,2,0,2,1,2,3,20,2011,3,primera_division
+18,Osasuna,1,0,1,2,0,3,20,2011,3,primera_division
+19,Real Zaragoza,1,0,1,2,3,7,20,2011,3,primera_division
+20,Levante,0,0,0,3,3,10,20,2011,3,primera_division
+1,Real Madrid,10,3,1,0,6,1,20,2011,4,primera_division
+2,Valencia,10,3,1,0,7,3,20,2011,4,primera_division
+3,Barcelona,9,3,0,1,6,3,20,2011,4,primera_division
+4,Villarreal,9,3,0,1,7,2,20,2011,4,primera_division
+5,Sevilla,8,2,2,0,7,3,20,2011,4,primera_division
+6,Athletic,7,2,1,1,7,4,20,2011,4,primera_division
+7,Atlético,7,2,1,1,8,4,20,2011,4,primera_division
+8,Málaga,6,2,0,2,9,8,20,2011,4,primera_division
+9,Espanyol,6,2,0,2,4,8,20,2011,4,primera_division
+10,Real Sporting,4,1,1,2,4,7,20,2011,4,primera_division
+11,Racing,4,1,1,2,3,5,20,2011,4,primera_division
+12,R. Sociedad,4,1,1,2,5,7,20,2011,4,primera_division
+13,Getafe,4,1,1,2,7,8,20,2011,4,primera_division
+14,Osasuna,4,1,1,2,3,4,20,2011,4,primera_division
+15,Mallorca,4,1,1,2,2,5,20,2011,4,primera_division
+16,Hércules,4,1,1,2,3,3,20,2011,4,primera_division
+17,Deportivo,3,0,3,1,2,3,20,2011,4,primera_division
+18,Levante,3,1,0,3,4,10,20,2011,4,primera_division
+19,Real Zaragoza,2,0,2,2,3,7,20,2011,4,primera_division
+20,Almería,2,0,2,2,2,4,20,2011,4,primera_division
+1,Valencia,13,4,1,0,9,3,20,2011,5,primera_division
+2,Barcelona,12,4,0,1,9,4,20,2011,5,primera_division
+3,Villarreal,12,4,0,1,10,4,20,2011,5,primera_division
+4,Real Madrid,11,3,2,0,6,1,20,2011,5,primera_division
+5,Atlético,10,3,1,1,9,4,20,2011,5,primera_division
+6,Espanyol,9,3,0,2,5,8,20,2011,5,primera_division
+7,Sevilla,8,2,2,1,7,5,20,2011,5,primera_division
+8,Athletic,7,2,1,2,8,7,20,2011,5,primera_division
+9,Mallorca,7,2,1,2,4,5,20,2011,5,primera_division
+10,Getafe,7,2,1,2,8,8,20,2011,5,primera_division
+11,Hércules,7,2,1,2,5,3,20,2011,5,primera_division
+12,Málaga,6,2,0,3,11,11,20,2011,5,primera_division
+13,Almería,5,1,2,2,4,4,20,2011,5,primera_division
+14,Levante,4,1,1,3,4,10,20,2011,5,primera_division
+15,R. Sociedad,4,1,1,3,5,9,20,2011,5,primera_division
+16,Osasuna,4,1,1,3,3,5,20,2011,5,primera_division
+17,Real Sporting,4,1,1,3,4,9,20,2011,5,primera_division
+18,Racing,4,1,1,3,3,6,20,2011,5,primera_division
+19,Deportivo,3,0,3,2,2,5,20,2011,5,primera_division
+20,Real Zaragoza,2,0,2,3,3,8,20,2011,5,primera_division
+1,Valencia,16,5,1,0,11,4,20,2011,6,primera_division
+2,Villarreal,15,5,0,1,12,4,20,2011,6,primera_division
+3,Real Madrid,14,4,2,0,12,2,20,2011,6,primera_division
+4,Barcelona,13,4,1,1,10,5,20,2011,6,primera_division
+5,Sevilla,11,3,2,1,10,6,20,2011,6,primera_division
+6,Atlético,10,3,1,2,10,7,20,2011,6,primera_division
+7,Getafe,10,3,1,2,11,8,20,2011,6,primera_division
+8,Espanyol,9,3,0,3,5,9,20,2011,6,primera_division
+9,Mallorca,8,2,2,2,5,6,20,2011,6,primera_division
+10,Athletic,7,2,1,3,9,9,20,2011,6,primera_division
+11,Hércules,7,2,1,3,5,6,20,2011,6,primera_division
+12,Málaga,7,2,1,3,12,12,20,2011,6,primera_division
+13,R. Sociedad,7,2,1,3,6,9,20,2011,6,primera_division
+14,Almería,6,1,3,2,5,5,20,2011,6,primera_division
+15,Levante,5,1,2,3,5,11,20,2011,6,primera_division
+16,Real Sporting,5,1,2,3,6,11,20,2011,6,primera_division
+17,Osasuna,5,1,2,3,4,6,20,2011,6,primera_division
+18,Racing,4,1,1,4,3,8,20,2011,6,primera_division
+19,Real Zaragoza,3,0,3,3,5,10,20,2011,6,primera_division
+20,Deportivo,3,0,3,3,3,11,20,2011,6,primera_division
+1,Real Madrid,17,5,2,0,16,3,20,2011,7,primera_division
+2,Barcelona,16,5,1,1,12,6,20,2011,7,primera_division
+3,Valencia,16,5,1,1,12,6,20,2011,7,primera_division
+4,Villarreal,16,5,1,1,14,6,20,2011,7,primera_division
+5,Atlético,13,4,1,2,12,7,20,2011,7,primera_division
+6,Espanyol,12,4,0,3,6,9,20,2011,7,primera_division
+7,Sevilla,11,3,2,2,10,8,20,2011,7,primera_division
+8,Athletic,10,3,1,3,11,10,20,2011,7,primera_division
+9,Getafe,10,3,1,3,11,10,20,2011,7,primera_division
+10,Real Sporting,8,2,2,3,8,11,20,2011,7,primera_division
+11,Mallorca,8,2,2,3,5,7,20,2011,7,primera_division
+12,Levante,8,2,2,3,7,12,20,2011,7,primera_division
+13,Hércules,8,2,2,3,7,8,20,2011,7,primera_division
+14,Málaga,7,2,1,4,13,16,20,2011,7,primera_division
+15,R. Sociedad,7,2,1,4,7,11,20,2011,7,primera_division
+16,Racing,7,2,1,4,4,8,20,2011,7,primera_division
+17,Almería,6,1,3,3,5,6,20,2011,7,primera_division
+18,Osasuna,6,1,3,3,4,6,20,2011,7,primera_division
+19,Deportivo,4,0,4,3,3,11,20,2011,7,primera_division
+20,Real Zaragoza,3,0,3,4,6,12,20,2011,7,primera_division
+1,Real Madrid,20,6,2,0,22,4,20,2011,8,primera_division
+2,Barcelona,19,6,1,1,14,6,20,2011,8,primera_division
+3,Villarreal,19,6,1,1,16,6,20,2011,8,primera_division
+4,Valencia,16,5,1,2,13,8,20,2011,8,primera_division
+5,Espanyol,15,5,0,3,8,10,20,2011,8,primera_division
+6,Sevilla,14,4,2,2,14,11,20,2011,8,primera_division
+7,Atlético,13,4,1,3,12,9,20,2011,8,primera_division
+8,Getafe,13,4,1,3,14,10,20,2011,8,primera_division
+9,Mallorca,11,3,2,3,7,8,20,2011,8,primera_division
+10,R. Sociedad,10,3,1,4,10,11,20,2011,8,primera_division
+11,Athletic,10,3,1,4,14,14,20,2011,8,primera_division
+12,Osasuna,9,2,3,3,7,6,20,2011,8,primera_division
+13,Hércules,9,2,3,3,8,9,20,2011,8,primera_division
+14,Real Sporting,8,2,2,4,8,14,20,2011,8,primera_division
+15,Levante,8,2,2,4,8,14,20,2011,8,primera_division
+16,Málaga,7,2,1,5,13,19,20,2011,8,primera_division
+17,Racing,7,2,1,5,5,14,20,2011,8,primera_division
+18,Almería,7,1,4,3,6,7,20,2011,8,primera_division
+19,Deportivo,4,0,4,4,3,14,20,2011,8,primera_division
+20,Real Zaragoza,3,0,3,5,6,14,20,2011,8,primera_division
+1,Real Madrid,23,7,2,0,25,5,20,2011,9,primera_division
+2,Barcelona,22,7,1,1,19,6,20,2011,9,primera_division
+3,Villarreal,20,6,2,1,17,7,20,2011,9,primera_division
+4,Valencia,17,5,2,2,14,9,20,2011,9,primera_division
+5,Espanyol,15,5,0,4,8,13,20,2011,9,primera_division
+6,Atlético,14,4,2,3,13,10,20,2011,9,primera_division
+7,Sevilla,14,4,2,3,14,16,20,2011,9,primera_division
+8,Mallorca,14,4,2,3,9,9,20,2011,9,primera_division
+9,R. Sociedad,13,4,1,4,12,12,20,2011,9,primera_division
+10,Athletic,13,4,1,4,17,14,20,2011,9,primera_division
+11,Getafe,13,4,1,4,14,13,20,2011,9,primera_division
+12,Racing,10,3,1,5,9,15,20,2011,9,primera_division
+13,Osasuna,9,2,3,4,8,10,20,2011,9,primera_division
+14,Real Sporting,9,2,3,4,9,15,20,2011,9,primera_division
+15,Hércules,9,2,3,4,9,12,20,2011,9,primera_division
+16,Levante,8,2,2,5,9,16,20,2011,9,primera_division
+17,Almería,8,1,5,3,7,8,20,2011,9,primera_division
+18,Deportivo,7,1,4,4,6,14,20,2011,9,primera_division
+19,Málaga,7,2,1,6,14,21,20,2011,9,primera_division
+20,Real Zaragoza,4,0,4,5,7,15,20,2011,9,primera_division
+1,Real Madrid,26,8,2,0,27,5,20,2011,10,primera_division
+2,Barcelona,25,8,1,1,22,7,20,2011,10,primera_division
+3,Villarreal,23,7,2,1,21,8,20,2011,10,primera_division
+4,Espanyol,18,6,0,4,9,13,20,2011,10,primera_division
+5,Sevilla,17,5,2,3,16,16,20,2011,10,primera_division
+6,Valencia,17,5,2,3,14,11,20,2011,10,primera_division
+7,R. Sociedad,16,5,1,4,13,12,20,2011,10,primera_division
+8,Atlético,14,4,2,4,13,12,20,2011,10,primera_division
+9,Mallorca,14,4,2,4,11,12,20,2011,10,primera_division
+10,Athletic,13,4,1,5,18,18,20,2011,10,primera_division
+11,Getafe,13,4,1,5,15,16,20,2011,10,primera_division
+12,Osasuna,12,3,3,4,11,10,20,2011,10,primera_division
+13,Real Sporting,10,2,4,4,10,16,20,2011,10,primera_division
+14,Deportivo,10,2,4,4,8,15,20,2011,10,primera_division
+15,Racing,10,3,1,6,9,16,20,2011,10,primera_division
+16,Almería,9,1,6,3,8,9,20,2011,10,primera_division
+17,Hércules,9,2,3,5,9,15,20,2011,10,primera_division
+18,Levante,8,2,2,6,10,18,20,2011,10,primera_division
+19,Málaga,7,2,1,7,14,22,20,2011,10,primera_division
+20,Real Zaragoza,7,1,4,5,10,17,20,2011,10,primera_division
+1,Real Madrid,29,9,2,0,28,5,20,2011,11,primera_division
+2,Barcelona,28,9,1,1,25,8,20,2011,11,primera_division
+3,Villarreal,23,7,2,2,22,11,20,2011,11,primera_division
+4,Sevilla,20,6,2,3,18,17,20,2011,11,primera_division
+5,Valencia,20,6,2,3,16,11,20,2011,11,primera_division
+6,Espanyol,19,6,1,4,9,13,20,2011,11,primera_division
+7,Atlético,17,5,2,4,16,12,20,2011,11,primera_division
+8,R. Sociedad,16,5,1,5,14,14,20,2011,11,primera_division
+9,Athletic,16,5,1,5,19,18,20,2011,11,primera_division
+10,Mallorca,15,4,3,4,11,12,20,2011,11,primera_division
+11,Getafe,13,4,1,6,15,18,20,2011,11,primera_division
+12,Osasuna,12,3,3,5,11,13,20,2011,11,primera_division
+13,Hércules,12,3,3,5,11,16,20,2011,11,primera_division
+14,Deportivo,11,2,5,4,8,15,20,2011,11,primera_division
+15,Racing,11,3,2,6,9,16,20,2011,11,primera_division
+16,Málaga,10,3,1,7,15,22,20,2011,11,primera_division
+17,Real Sporting,10,2,4,5,10,17,20,2011,11,primera_division
+18,Almería,9,1,6,4,8,10,20,2011,11,primera_division
+19,Levante,8,2,2,7,10,19,20,2011,11,primera_division
+20,Real Zaragoza,7,1,4,6,11,19,20,2011,11,primera_division
+1,Real Madrid,32,10,2,0,33,6,20,2011,12,primera_division
+2,Barcelona,31,10,1,1,33,8,20,2011,12,primera_division
+3,Villarreal,24,7,3,2,23,12,20,2011,12,primera_division
+4,Espanyol,22,7,1,4,12,13,20,2011,12,primera_division
+5,Valencia,21,6,3,3,17,12,20,2011,12,primera_division
+6,Sevilla,20,6,2,4,19,19,20,2011,12,primera_division
+7,Atlético,20,6,2,4,20,14,20,2011,12,primera_division
+8,Mallorca,18,5,3,4,13,13,20,2011,12,primera_division
+9,R. Sociedad,16,5,1,6,16,18,20,2011,12,primera_division
+10,Athletic,16,5,1,6,20,23,20,2011,12,primera_division
+11,Osasuna,15,4,3,5,12,13,20,2011,12,primera_division
+12,Getafe,14,4,2,6,16,19,20,2011,12,primera_division
+13,Deportivo,14,3,5,4,11,15,20,2011,12,primera_division
+14,Hércules,12,3,3,6,11,19,20,2011,12,primera_division
+15,Levante,11,3,2,7,13,20,20,2011,12,primera_division
+16,Racing,11,3,2,7,10,19,20,2011,12,primera_division
+17,Málaga,10,3,1,8,15,25,20,2011,12,primera_division
+18,Real Sporting,10,2,4,6,10,18,20,2011,12,primera_division
+19,Almería,9,1,6,5,8,18,20,2011,12,primera_division
+20,Real Zaragoza,8,1,5,6,12,20,20,2011,12,primera_division
+1,Barcelona,34,11,1,1,38,8,20,2011,13,primera_division
+2,Real Madrid,32,10,2,1,33,11,20,2011,13,primera_division
+3,Villarreal,27,8,3,2,26,12,20,2011,13,primera_division
+4,Espanyol,25,8,1,4,15,15,20,2011,13,primera_division
+5,Valencia,24,7,3,3,19,13,20,2011,13,primera_division
+6,Mallorca,21,6,3,4,15,13,20,2011,13,primera_division
+7,Sevilla,20,6,2,5,20,22,20,2011,13,primera_division
+8,Atlético,20,6,2,5,22,17,20,2011,13,primera_division
+9,R. Sociedad,19,6,1,6,19,19,20,2011,13,primera_division
+10,Athletic,19,6,1,6,21,23,20,2011,13,primera_division
+11,Getafe,17,5,2,6,19,20,20,2011,13,primera_division
+12,Osasuna,15,4,3,6,12,14,20,2011,13,primera_division
+13,Hércules,15,4,3,6,14,20,20,2011,13,primera_division
+14,Deportivo,14,3,5,5,11,16,20,2011,13,primera_division
+15,Racing,14,4,2,7,11,19,20,2011,13,primera_division
+16,Levante,11,3,2,8,14,23,20,2011,13,primera_division
+17,Málaga,10,3,1,9,15,27,20,2011,13,primera_division
+18,Real Sporting,10,2,4,7,11,21,20,2011,13,primera_division
+19,Almería,9,1,6,6,9,20,20,2011,13,primera_division
+20,Real Zaragoza,8,1,5,7,12,23,20,2011,13,primera_division
+1,Barcelona,37,12,1,1,41,8,20,2011,14,primera_division
+2,Real Madrid,35,11,2,1,35,11,20,2011,14,primera_division
+3,Villarreal,30,9,3,2,27,12,20,2011,14,primera_division
+4,Espanyol,28,9,1,4,16,15,20,2011,14,primera_division
+5,Valencia,24,7,3,4,19,15,20,2011,14,primera_division
+6,R. Sociedad,22,7,1,6,21,19,20,2011,14,primera_division
+7,Mallorca,21,6,3,5,15,16,20,2011,14,primera_division
+8,Getafe,20,6,2,6,22,20,20,2011,14,primera_division
+9,Atlético,20,6,2,6,22,19,20,2011,14,primera_division
+10,Sevilla,20,6,2,6,20,23,20,2011,14,primera_division
+11,Athletic,19,6,1,7,21,25,20,2011,14,primera_division
+12,Deportivo,17,4,5,5,12,16,20,2011,14,primera_division
+13,Osasuna,15,4,3,7,12,17,20,2011,14,primera_division
+14,Hércules,15,4,3,7,14,21,20,2011,14,primera_division
+15,Levante,14,4,2,8,16,23,20,2011,14,primera_division
+16,Racing,14,4,2,8,12,23,20,2011,14,primera_division
+17,Málaga,13,4,1,9,19,28,20,2011,14,primera_division
+18,Real Sporting,10,2,4,8,11,22,20,2011,14,primera_division
+19,Almería,10,1,7,6,10,21,20,2011,14,primera_division
+20,Real Zaragoza,9,1,6,7,13,24,20,2011,14,primera_division
+1,Barcelona,40,13,1,1,46,8,20,2011,15,primera_division
+2,Real Madrid,38,12,2,1,38,12,20,2011,15,primera_division
+3,Villarreal,30,9,3,3,27,13,20,2011,15,primera_division
+4,Espanyol,28,9,1,5,17,17,20,2011,15,primera_division
+5,Valencia,25,7,4,4,22,18,20,2011,15,primera_division
+6,Atlético,23,7,2,6,24,19,20,2011,15,primera_division
+7,Getafe,23,7,2,6,23,20,20,2011,15,primera_division
+8,R. Sociedad,22,7,1,7,21,24,20,2011,15,primera_division
+9,Athletic,22,7,1,7,23,26,20,2011,15,primera_division
+10,Mallorca,21,6,3,6,15,17,20,2011,15,primera_division
+11,Sevilla,20,6,2,7,21,26,20,2011,15,primera_division
+12,Hércules,18,5,3,7,18,22,20,2011,15,primera_division
+13,Deportivo,17,4,5,6,12,18,20,2011,15,primera_division
+14,Racing,17,5,2,8,13,23,20,2011,15,primera_division
+15,Osasuna,16,4,4,7,15,20,20,2011,15,primera_division
+16,Levante,15,4,3,8,17,24,20,2011,15,primera_division
+17,Málaga,13,4,1,10,20,32,20,2011,15,primera_division
+18,Almería,13,2,7,6,13,22,20,2011,15,primera_division
+19,Real Sporting,11,2,5,8,12,23,20,2011,15,primera_division
+20,Real Zaragoza,9,1,6,8,14,27,20,2011,15,primera_division
+1,Barcelona,43,14,1,1,51,9,20,2011,16,primera_division
+2,Real Madrid,41,13,2,1,39,12,20,2011,16,primera_division
+3,Villarreal,33,10,3,3,30,14,20,2011,16,primera_division
+4,Valencia,28,8,4,4,24,19,20,2011,16,primera_division
+5,Espanyol,28,9,1,6,18,22,20,2011,16,primera_division
+6,Atlético,26,8,2,6,27,19,20,2011,16,primera_division
+7,Getafe,26,8,2,6,26,22,20,2011,16,primera_division
+8,Athletic,25,8,1,7,25,27,20,2011,16,primera_division
+9,R. Sociedad,22,7,1,8,22,26,20,2011,16,primera_division
+10,Mallorca,21,6,3,7,16,20,20,2011,16,primera_division
+11,Sevilla,20,6,2,8,21,27,20,2011,16,primera_division
+12,Hércules,19,5,4,7,18,22,20,2011,16,primera_division
+13,Deportivo,18,4,6,6,13,19,20,2011,16,primera_division
+14,Racing,18,5,3,8,13,23,20,2011,16,primera_division
+15,Osasuna,17,4,5,7,15,20,20,2011,16,primera_division
+16,Levante,15,4,3,9,18,26,20,2011,16,primera_division
+17,Málaga,13,4,1,11,20,35,20,2011,16,primera_division
+18,Almería,13,2,7,7,15,25,20,2011,16,primera_division
+19,Real Sporting,12,2,6,8,13,24,20,2011,16,primera_division
+20,Real Zaragoza,10,1,7,8,14,27,20,2011,16,primera_division
+1,Barcelona,46,15,1,1,53,10,20,2011,17,primera_division
+2,Real Madrid,44,14,2,1,42,14,20,2011,17,primera_division
+3,Villarreal,36,11,3,3,32,14,20,2011,17,primera_division
+4,Valencia,31,9,4,4,26,20,20,2011,17,primera_division
+5,Espanyol,28,9,1,7,19,24,20,2011,17,primera_division
+6,Atlético,27,8,3,6,27,19,20,2011,17,primera_division
+7,Getafe,26,8,2,7,28,25,20,2011,17,primera_division
+8,Athletic,25,8,1,8,26,29,20,2011,17,primera_division
+9,Mallorca,24,7,3,7,19,20,20,2011,17,primera_division
+10,Sevilla,23,7,2,8,22,27,20,2011,17,primera_division
+11,R. Sociedad,22,7,1,9,23,28,20,2011,17,primera_division
+12,Deportivo,21,5,6,6,15,20,20,2011,17,primera_division
+13,Racing,19,5,4,8,13,23,20,2011,17,primera_division
+14,Hércules,19,5,4,8,18,25,20,2011,17,primera_division
+15,Osasuna,17,4,5,8,15,21,20,2011,17,primera_division
+16,Málaga,16,5,1,11,22,36,20,2011,17,primera_division
+17,Levante,15,4,3,10,19,28,20,2011,17,primera_division
+18,Real Zaragoza,13,2,7,8,16,28,20,2011,17,primera_division
+19,Almería,13,2,7,8,15,27,20,2011,17,primera_division
+20,Real Sporting,12,2,6,9,14,26,20,2011,17,primera_division
+1,Barcelona,49,16,1,1,57,10,20,2011,18,primera_division
+2,Real Madrid,47,15,2,1,46,16,20,2011,18,primera_division
+3,Villarreal,36,11,3,4,34,18,20,2011,18,primera_division
+4,Valencia,34,10,4,4,27,20,20,2011,18,primera_division
+5,Espanyol,31,10,1,7,23,24,20,2011,18,primera_division
+6,Atlético,27,8,3,7,28,23,20,2011,18,primera_division
+7,Getafe,27,8,3,7,28,25,20,2011,18,primera_division
+8,Mallorca,27,8,3,7,23,21,20,2011,18,primera_division
+9,Athletic,26,8,2,8,27,30,20,2011,18,primera_division
+10,Sevilla,26,8,2,8,25,29,20,2011,18,primera_division
+11,Hércules,22,6,4,8,22,26,20,2011,18,primera_division
+12,R. Sociedad,22,7,1,10,25,31,20,2011,18,primera_division
+13,Deportivo,21,5,6,7,15,24,20,2011,18,primera_division
+14,Racing,20,5,5,8,14,24,20,2011,18,primera_division
+15,Osasuna,18,4,6,8,15,21,20,2011,18,primera_division
+16,Málaga,17,5,2,11,23,37,20,2011,18,primera_division
+17,Levante,15,4,3,11,19,29,20,2011,18,primera_division
+18,Real Sporting,13,2,7,9,15,27,20,2011,18,primera_division
+19,Real Zaragoza,13,2,7,9,16,32,20,2011,18,primera_division
+20,Almería,13,2,7,9,16,31,20,2011,18,primera_division
+1,Barcelona,52,17,1,1,61,11,20,2011,19,primera_division
+2,Real Madrid,48,15,3,1,47,17,20,2011,19,primera_division
+3,Villarreal,39,12,3,4,38,20,20,2011,19,primera_division
+4,Valencia,37,11,4,4,29,20,20,2011,19,primera_division
+5,Espanyol,34,11,1,7,25,25,20,2011,19,primera_division
+6,Atlético,30,9,3,7,31,23,20,2011,19,primera_division
+7,Athletic,29,9,2,8,29,31,20,2011,19,primera_division
+8,Getafe,27,8,3,8,28,29,20,2011,19,primera_division
+9,Mallorca,27,8,3,8,23,24,20,2011,19,primera_division
+10,Sevilla,26,8,2,9,26,31,20,2011,19,primera_division
+11,R. Sociedad,25,8,1,10,29,31,20,2011,19,primera_division
+12,Hércules,22,6,4,9,22,28,20,2011,19,primera_division
+13,Deportivo,21,5,6,8,15,26,20,2011,19,primera_division
+14,Racing,20,5,5,9,15,26,20,2011,19,primera_division
+15,Osasuna,18,4,6,9,17,25,20,2011,19,primera_division
+16,Málaga,17,5,2,12,24,41,20,2011,19,primera_division
+17,Real Sporting,16,3,7,9,17,27,20,2011,19,primera_division
+18,Real Zaragoza,16,3,7,9,17,32,20,2011,19,primera_division
+19,Levante,15,4,3,12,19,30,20,2011,19,primera_division
+20,Almería,14,2,8,9,17,32,20,2011,19,primera_division
+1,Barcelona,55,18,1,1,64,11,20,2011,20,primera_division
+2,Real Madrid,51,16,3,1,48,17,20,2011,20,primera_division
+3,Villarreal,42,13,3,4,40,21,20,2011,20,primera_division
+4,Valencia,40,12,4,4,33,23,20,2011,20,primera_division
+5,Espanyol,37,12,1,7,28,26,20,2011,20,primera_division
+6,Athletic,32,10,2,8,32,31,20,2011,20,primera_division
+7,Atlético,30,9,3,8,31,24,20,2011,20,primera_division
+8,Sevilla,29,9,2,9,30,32,20,2011,20,primera_division
+9,Getafe,27,8,3,9,29,32,20,2011,20,primera_division
+10,Mallorca,27,8,3,9,23,25,20,2011,20,primera_division
+11,R. Sociedad,25,8,1,11,30,33,20,2011,20,primera_division
+12,Hércules,22,6,4,10,22,31,20,2011,20,primera_division
+13,Deportivo,21,5,6,9,15,27,20,2011,20,primera_division
+14,Racing,20,5,5,10,15,29,20,2011,20,primera_division
+15,Real Sporting,19,4,7,9,18,27,20,2011,20,primera_division
+16,Real Zaragoza,19,4,7,9,18,32,20,2011,20,primera_division
+17,Osasuna,18,4,6,10,19,28,20,2011,20,primera_division
+18,Málaga,17,5,2,13,27,45,20,2011,20,primera_division
+19,Almería,17,3,8,9,20,34,20,2011,20,primera_division
+20,Levante,15,4,3,13,20,34,20,2011,20,primera_division
+1,Barcelona,58,19,1,1,67,11,20,2011,21,primera_division
+2,Real Madrid,51,16,3,2,48,18,20,2011,21,primera_division
+3,Villarreal,45,14,3,4,41,21,20,2011,21,primera_division
+4,Valencia,41,12,5,4,34,24,20,2011,21,primera_division
+5,Espanyol,37,12,1,8,28,27,20,2011,21,primera_division
+6,Athletic,35,11,2,8,34,31,20,2011,21,primera_division
+7,Sevilla,30,9,3,9,33,35,20,2011,21,primera_division
+8,Atlético,30,9,3,9,31,26,20,2011,21,primera_division
+9,R. Sociedad,28,9,1,11,32,33,20,2011,21,primera_division
+10,Getafe,27,8,3,10,29,34,20,2011,21,primera_division
+11,Mallorca,27,8,3,10,23,29,20,2011,21,primera_division
+12,Real Sporting,22,5,7,9,22,27,20,2011,21,primera_division
+13,Hércules,22,6,4,11,22,34,20,2011,21,primera_division
+14,Real Zaragoza,22,5,7,9,20,33,20,2011,21,primera_division
+15,Deportivo,22,5,7,9,18,30,20,2011,21,primera_division
+16,Racing,21,5,6,10,16,30,20,2011,21,primera_division
+17,Osasuna,21,5,6,10,20,28,20,2011,21,primera_division
+18,Levante,18,5,3,13,22,34,20,2011,21,primera_division
+19,Málaga,17,5,2,14,28,47,20,2011,21,primera_division
+20,Almería,17,3,8,10,20,36,20,2011,21,primera_division
+1,Barcelona,61,20,1,1,70,11,20,2011,22,primera_division
+2,Real Madrid,54,17,3,2,52,19,20,2011,22,primera_division
+3,Villarreal,45,14,3,5,41,22,20,2011,22,primera_division
+4,Valencia,44,13,5,4,36,24,20,2011,22,primera_division
+5,Athletic,38,12,2,8,37,31,20,2011,22,primera_division
+6,Espanyol,37,12,1,9,30,30,20,2011,22,primera_division
+7,Sevilla,31,9,4,9,33,35,20,2011,22,primera_division
+8,Atlético,30,9,3,10,31,29,20,2011,22,primera_division
+9,Getafe,30,9,3,10,33,35,20,2011,22,primera_division
+10,Mallorca,28,8,4,10,24,30,20,2011,22,primera_division
+11,R. Sociedad,28,9,1,12,33,37,20,2011,22,primera_division
+12,Real Zaragoza,23,5,8,9,21,34,20,2011,22,primera_division
+13,Osasuna,22,5,7,10,21,29,20,2011,22,primera_division
+14,Real Sporting,22,5,7,10,22,30,20,2011,22,primera_division
+15,Racing,22,5,7,10,17,31,20,2011,22,primera_division
+16,Deportivo,22,5,7,10,19,34,20,2011,22,primera_division
+17,Hércules,22,6,4,12,22,36,20,2011,22,primera_division
+18,Levante,21,6,3,13,23,34,20,2011,22,primera_division
+19,Almería,20,4,8,10,23,38,20,2011,22,primera_division
+20,Málaga,18,5,3,14,28,47,20,2011,22,primera_division
+1,Barcelona,62,20,2,1,71,12,20,2011,23,primera_division
+2,Real Madrid,57,18,3,2,53,19,20,2011,23,primera_division
+3,Valencia,47,14,5,4,38,25,20,2011,23,primera_division
+4,Villarreal,45,14,3,6,41,23,20,2011,23,primera_division
+5,Athletic,38,12,2,9,37,32,20,2011,23,primera_division
+6,Espanyol,37,12,1,10,30,31,20,2011,23,primera_division
+7,Getafe,31,9,4,10,35,37,20,2011,23,primera_division
+8,Mallorca,31,9,4,10,25,30,20,2011,23,primera_division
+9,Sevilla,31,9,4,10,35,38,20,2011,23,primera_division
+10,R. Sociedad,31,10,1,12,34,37,20,2011,23,primera_division
+11,Atlético,30,9,3,11,32,31,20,2011,23,primera_division
+12,Racing,25,6,7,10,20,33,20,2011,23,primera_division
+13,Deportivo,25,6,7,10,20,34,20,2011,23,primera_division
+14,Hércules,25,7,4,12,24,37,20,2011,23,primera_division
+15,Levante,24,7,3,13,24,34,20,2011,23,primera_division
+16,Real Sporting,23,5,8,10,23,31,20,2011,23,primera_division
+17,Real Zaragoza,23,5,8,10,22,36,20,2011,23,primera_division
+18,Osasuna,22,5,7,11,21,30,20,2011,23,primera_division
+19,Almería,20,4,8,11,23,39,20,2011,23,primera_division
+20,Málaga,19,5,4,14,30,49,20,2011,23,primera_division
+1,Barcelona,65,21,2,1,73,13,20,2011,24,primera_division
+2,Real Madrid,60,19,3,2,55,19,20,2011,24,primera_division
+3,Valencia,48,14,6,4,38,25,20,2011,24,primera_division
+4,Villarreal,46,14,4,6,42,24,20,2011,24,primera_division
+5,Athletic,38,12,2,10,38,34,20,2011,24,primera_division
+6,Espanyol,37,12,1,11,30,35,20,2011,24,primera_division
+7,Sevilla,34,10,4,10,36,38,20,2011,24,primera_division
+8,R. Sociedad,34,11,1,12,35,37,20,2011,24,primera_division
+9,Atlético,33,10,3,11,33,31,20,2011,24,primera_division
+10,Getafe,31,9,4,11,35,38,20,2011,24,primera_division
+11,Mallorca,31,9,4,11,25,31,20,2011,24,primera_division
+12,Racing,28,7,7,10,21,33,20,2011,24,primera_division
+13,Deportivo,26,6,8,10,21,35,20,2011,24,primera_division
+14,Osasuna,25,6,7,11,25,30,20,2011,24,primera_division
+15,Hércules,25,7,4,13,24,38,20,2011,24,primera_division
+16,Real Sporting,24,5,9,10,23,31,20,2011,24,primera_division
+17,Levante,24,7,3,14,24,36,20,2011,24,primera_division
+18,Real Zaragoza,23,5,8,11,22,37,20,2011,24,primera_division
+19,Almería,21,4,9,11,24,40,20,2011,24,primera_division
+20,Málaga,20,5,5,14,31,50,20,2011,24,primera_division
+1,Barcelona,68,22,2,1,76,13,20,2011,25,primera_division
+2,Real Madrid,61,19,4,2,55,19,20,2011,25,primera_division
+3,Valencia,51,15,6,4,40,26,20,2011,25,primera_division
+4,Villarreal,47,14,5,6,44,26,20,2011,25,primera_division
+5,Espanyol,40,13,1,11,34,36,20,2011,25,primera_division
+6,Athletic,38,12,2,11,39,36,20,2011,25,primera_division
+7,Sevilla,35,10,5,10,38,40,20,2011,25,primera_division
+8,Atlético,34,10,4,11,35,33,20,2011,25,primera_division
+9,R. Sociedad,34,11,1,13,36,41,20,2011,25,primera_division
+10,Getafe,32,9,5,11,35,38,20,2011,25,primera_division
+11,Mallorca,31,9,4,12,25,34,20,2011,25,primera_division
+12,Racing,29,7,8,10,23,35,20,2011,25,primera_division
+13,Levante,27,8,3,14,26,37,20,2011,25,primera_division
+14,Deportivo,27,6,9,10,21,35,20,2011,25,primera_division
+15,Hércules,26,7,5,13,24,38,20,2011,25,primera_division
+16,Osasuna,25,6,7,12,26,32,20,2011,25,primera_division
+17,Real Sporting,25,5,10,10,23,31,20,2011,25,primera_division
+18,Real Zaragoza,24,5,9,11,22,37,20,2011,25,primera_division
+19,Málaga,23,6,5,14,34,51,20,2011,25,primera_division
+20,Almería,21,4,9,12,25,43,20,2011,25,primera_division
+1,Barcelona,71,23,2,1,77,13,20,2011,26,primera_division
+2,Real Madrid,64,20,4,2,62,19,20,2011,26,primera_division
+3,Valencia,51,15,6,5,40,27,20,2011,26,primera_division
+4,Villarreal,50,15,5,6,45,26,20,2011,26,primera_division
+5,Espanyol,40,13,1,12,35,38,20,2011,26,primera_division
+6,Athletic,38,12,2,12,40,38,20,2011,26,primera_division
+7,Sevilla,38,11,5,10,41,40,20,2011,26,primera_division
+8,Atlético,35,10,5,11,36,34,20,2011,26,primera_division
+9,R. Sociedad,35,11,2,13,37,42,20,2011,26,primera_division
+10,Mallorca,34,10,4,12,27,35,20,2011,26,primera_division
+11,Getafe,33,9,6,11,36,39,20,2011,26,primera_division
+12,Racing,30,7,9,10,24,36,20,2011,26,primera_division
+13,Levante,28,8,4,14,27,38,20,2011,26,primera_division
+14,Deportivo,28,6,10,10,21,35,20,2011,26,primera_division
+15,Real Zaragoza,27,6,9,11,24,38,20,2011,26,primera_division
+16,Osasuna,26,6,8,12,26,32,20,2011,26,primera_division
+17,Hércules,26,7,5,14,24,39,20,2011,26,primera_division
+18,Real Sporting,25,5,10,11,23,34,20,2011,26,primera_division
+19,Málaga,23,6,5,15,34,58,20,2011,26,primera_division
+20,Almería,22,4,10,12,26,44,20,2011,26,primera_division
+1,Barcelona,74,24,2,1,78,13,20,2011,27,primera_division
+2,Real Madrid,67,21,4,2,65,20,20,2011,27,primera_division
+3,Valencia,54,16,6,5,42,28,20,2011,27,primera_division
+4,Villarreal,50,15,5,7,46,29,20,2011,27,primera_division
+5,Athletic,41,13,2,12,42,38,20,2011,27,primera_division
+6,Espanyol,40,13,1,13,35,39,20,2011,27,primera_division
+7,Sevilla,38,11,5,11,41,42,20,2011,27,primera_division
+8,Atlético,38,11,5,11,39,35,20,2011,27,primera_division
+9,R. Sociedad,35,11,2,14,38,44,20,2011,27,primera_division
+10,Mallorca,34,10,4,13,28,37,20,2011,27,primera_division
+11,Getafe,33,9,6,12,36,41,20,2011,27,primera_division
+12,Levante,31,9,4,14,28,38,20,2011,27,primera_division
+13,Deportivo,31,7,10,10,23,36,20,2011,27,primera_division
+14,Racing,30,7,9,11,25,39,20,2011,27,primera_division
+15,Osasuna,29,7,8,12,27,32,20,2011,27,primera_division
+16,Real Sporting,28,6,10,11,25,34,20,2011,27,primera_division
+17,Real Zaragoza,27,6,9,12,24,39,20,2011,27,primera_division
+18,Hércules,26,7,5,15,25,41,20,2011,27,primera_division
+19,Almería,25,5,10,12,28,45,20,2011,27,primera_division
+20,Málaga,23,6,5,16,34,59,20,2011,27,primera_division
+1,Barcelona,75,24,3,1,79,14,20,2011,28,primera_division
+2,Real Madrid,70,22,4,2,67,20,20,2011,28,primera_division
+3,Valencia,54,16,6,6,42,32,20,2011,28,primera_division
+4,Villarreal,51,15,6,7,47,30,20,2011,28,primera_division
+5,Espanyol,43,14,1,13,37,39,20,2011,28,primera_division
+6,Athletic,42,13,3,12,44,40,20,2011,28,primera_division
+7,Sevilla,39,11,6,11,42,43,20,2011,28,primera_division
+8,Atlético,39,11,6,11,41,37,20,2011,28,primera_division
+9,Mallorca,35,10,5,13,29,38,20,2011,28,primera_division
+10,R. Sociedad,35,11,2,15,38,46,20,2011,28,primera_division
+11,Getafe,34,9,7,12,38,43,20,2011,28,primera_division
+12,Levante,32,9,5,14,29,39,20,2011,28,primera_division
+13,Osasuna,32,8,8,12,30,33,20,2011,28,primera_division
+14,Deportivo,31,7,10,11,23,38,20,2011,28,primera_division
+15,Racing,30,7,9,12,26,42,20,2011,28,primera_division
+16,Real Zaragoza,30,7,9,12,28,39,20,2011,28,primera_division
+17,Real Sporting,29,6,11,11,26,35,20,2011,28,primera_division
+18,Málaga,26,7,5,16,36,59,20,2011,28,primera_division
+19,Almería,26,5,11,12,30,47,20,2011,28,primera_division
+20,Hércules,26,7,5,16,25,43,20,2011,28,primera_division
+1,Barcelona,78,25,3,1,81,15,20,2011,29,primera_division
+2,Real Madrid,73,23,4,2,69,21,20,2011,29,primera_division
+3,Valencia,54,16,6,7,42,33,20,2011,29,primera_division
+4,Villarreal,54,16,6,7,48,30,20,2011,29,primera_division
+5,Espanyol,43,14,1,14,37,41,20,2011,29,primera_division
+6,Athletic,42,13,3,13,44,41,20,2011,29,primera_division
+7,Sevilla,42,12,6,11,43,43,20,2011,29,primera_division
+8,Atlético,39,11,6,12,42,39,20,2011,29,primera_division
+9,Mallorca,38,11,5,13,30,38,20,2011,29,primera_division
+10,Levante,35,10,5,14,30,39,20,2011,29,primera_division
+11,Osasuna,35,9,8,12,34,33,20,2011,29,primera_division
+12,R. Sociedad,35,11,2,16,39,48,20,2011,29,primera_division
+13,Getafe,34,9,7,13,39,45,20,2011,29,primera_division
+14,Racing,33,8,9,12,28,43,20,2011,29,primera_division
+15,Real Sporting,32,7,11,11,27,35,20,2011,29,primera_division
+16,Deportivo,31,7,10,12,23,39,20,2011,29,primera_division
+17,Real Zaragoza,30,7,9,13,28,40,20,2011,29,primera_division
+18,Málaga,29,8,5,16,38,59,20,2011,29,primera_division
+19,Almería,26,5,11,13,30,48,20,2011,29,primera_division
+20,Hércules,26,7,5,17,25,47,20,2011,29,primera_division
+1,Barcelona,81,26,3,1,82,15,20,2011,30,primera_division
+2,Real Madrid,73,23,4,3,69,22,20,2011,30,primera_division
+3,Valencia,57,17,6,7,46,35,20,2011,30,primera_division
+4,Villarreal,54,16,6,8,48,31,20,2011,30,primera_division
+5,Athletic,45,14,3,13,47,42,20,2011,30,primera_division
+6,Sevilla,45,13,6,11,46,44,20,2011,30,primera_division
+7,Espanyol,43,14,1,15,38,43,20,2011,30,primera_division
+8,Atlético,42,12,6,12,45,41,20,2011,30,primera_division
+9,Mallorca,38,11,5,14,31,40,20,2011,30,primera_division
+10,Levante,38,11,5,14,33,40,20,2011,30,primera_division
+11,Racing,36,9,9,12,30,44,20,2011,30,primera_division
+12,R. Sociedad,35,11,2,17,40,51,20,2011,30,primera_division
+13,Osasuna,35,9,8,13,36,36,20,2011,30,primera_division
+14,Real Sporting,35,8,11,11,28,35,20,2011,30,primera_division
+15,Getafe,34,9,7,14,41,49,20,2011,30,primera_division
+16,Deportivo,34,8,10,12,25,40,20,2011,30,primera_division
+17,Real Zaragoza,30,7,9,14,29,43,20,2011,30,primera_division
+18,Hércules,29,8,5,17,28,48,20,2011,30,primera_division
+19,Málaga,29,8,5,17,39,62,20,2011,30,primera_division
+20,Almería,26,5,11,14,31,51,20,2011,30,primera_division
+1,Barcelona,84,27,3,1,85,16,20,2011,31,primera_division
+2,Real Madrid,76,24,4,3,72,22,20,2011,31,primera_division
+3,Valencia,60,18,6,7,51,35,20,2011,31,primera_division
+4,Villarreal,54,16,6,9,48,36,20,2011,31,primera_division
+5,Sevilla,46,13,7,11,48,46,20,2011,31,primera_division
+6,Athletic,45,14,3,14,47,45,20,2011,31,primera_division
+7,Atlético,45,13,6,12,48,41,20,2011,31,primera_division
+8,Espanyol,44,14,2,15,38,43,20,2011,31,primera_division
+9,Mallorca,39,11,6,14,33,42,20,2011,31,primera_division
+10,Levante,39,11,6,14,34,41,20,2011,31,primera_division
+11,Real Sporting,38,9,11,11,29,35,20,2011,31,primera_division
+12,Racing,37,9,10,12,31,45,20,2011,31,primera_division
+13,R. Sociedad,35,11,2,18,40,54,20,2011,31,primera_division
+14,Osasuna,35,9,8,14,36,37,20,2011,31,primera_division
+15,Deportivo,35,8,11,12,25,40,20,2011,31,primera_division
+16,Getafe,34,9,7,15,42,51,20,2011,31,primera_division
+17,Real Zaragoza,33,8,9,14,31,44,20,2011,31,primera_division
+18,Hércules,30,8,6,17,28,48,20,2011,31,primera_division
+19,Málaga,30,8,6,17,39,62,20,2011,31,primera_division
+20,Almería,26,5,11,15,32,54,20,2011,31,primera_division
+1,Barcelona,85,27,4,1,86,17,20,2011,32,primera_division
+2,Real Madrid,77,24,5,3,73,23,20,2011,32,primera_division
+3,Valencia,63,19,6,7,54,35,20,2011,32,primera_division
+4,Villarreal,57,17,6,9,49,36,20,2011,32,primera_division
+5,Athletic,48,15,3,14,49,46,20,2011,32,primera_division
+6,Sevilla,46,13,7,12,48,47,20,2011,32,primera_division
+7,Atlético,46,13,7,12,50,43,20,2011,32,primera_division
+8,Espanyol,45,14,3,15,40,45,20,2011,32,primera_division
+9,Levante,42,12,6,14,36,42,20,2011,32,primera_division
+10,Mallorca,39,11,6,15,33,45,20,2011,32,primera_division
+11,R. Sociedad,38,12,2,18,42,55,20,2011,32,primera_division
+12,Deportivo,38,9,11,12,27,40,20,2011,32,primera_division
+13,Real Sporting,38,9,11,12,30,37,20,2011,32,primera_division
+14,Getafe,37,10,7,15,43,51,20,2011,32,primera_division
+15,Racing,37,9,10,13,31,47,20,2011,32,primera_division
+16,Osasuna,35,9,8,15,37,39,20,2011,32,primera_division
+17,Málaga,33,9,6,17,42,62,20,2011,32,primera_division
+18,Real Zaragoza,33,8,9,15,31,45,20,2011,32,primera_division
+19,Hércules,30,8,6,18,29,50,20,2011,32,primera_division
+20,Almería,26,5,11,16,32,57,20,2011,32,primera_division
+1,Barcelona,88,28,4,1,88,17,20,2011,33,primera_division
+2,Real Madrid,80,25,5,3,79,26,20,2011,33,primera_division
+3,Valencia,63,19,6,8,57,41,20,2011,33,primera_division
+4,Villarreal,57,17,6,10,51,39,20,2011,33,primera_division
+5,Athletic,51,16,3,14,51,47,20,2011,33,primera_division
+6,Sevilla,49,14,7,12,51,49,20,2011,33,primera_division
+7,Atlético,49,14,7,12,54,44,20,2011,33,primera_division
+8,Espanyol,45,14,3,16,40,46,20,2011,33,primera_division
+9,Mallorca,42,12,6,15,35,45,20,2011,33,primera_division
+10,Levante,42,12,6,15,37,46,20,2011,33,primera_division
+11,Real Sporting,41,10,11,12,31,37,20,2011,33,primera_division
+12,R. Sociedad,38,12,2,19,43,57,20,2011,33,primera_division
+13,Deportivo,38,9,11,13,27,41,20,2011,33,primera_division
+14,Getafe,37,10,7,16,43,53,20,2011,33,primera_division
+15,Racing,37,9,10,14,32,49,20,2011,33,primera_division
+16,Málaga,36,10,6,17,44,63,20,2011,33,primera_division
+17,Real Zaragoza,36,9,9,15,32,45,20,2011,33,primera_division
+18,Osasuna,35,9,8,16,37,41,20,2011,33,primera_division
+19,Hércules,33,9,6,18,30,50,20,2011,33,primera_division
+20,Almería,26,5,11,17,32,58,20,2011,33,primera_division
+1,Barcelona,88,28,4,2,89,19,20,2011,34,primera_division
+2,Real Madrid,80,25,5,4,81,29,20,2011,34,primera_division
+3,Valencia,63,19,6,9,57,42,20,2011,34,primera_division
+4,Villarreal,60,18,6,10,53,40,20,2011,34,primera_division
+5,Sevilla,52,15,7,12,52,49,20,2011,34,primera_division
+6,Atlético,52,15,7,12,55,44,20,2011,34,primera_division
+7,Athletic,51,16,3,15,52,49,20,2011,34,primera_division
+8,Espanyol,48,15,3,16,42,47,20,2011,34,primera_division
+9,Levante,43,12,7,15,37,46,20,2011,34,primera_division
+10,Real Sporting,42,10,12,12,31,37,20,2011,34,primera_division
+11,Mallorca,42,12,6,16,35,47,20,2011,34,primera_division
+12,R. Sociedad,41,13,2,19,45,58,20,2011,34,primera_division
+13,Racing,40,10,10,14,34,49,20,2011,34,primera_division
+14,Málaga,39,11,6,17,47,64,20,2011,34,primera_division
+15,Real Zaragoza,39,10,9,15,35,47,20,2011,34,primera_division
+16,Osasuna,38,10,8,16,38,41,20,2011,34,primera_division
+17,Deportivo,38,9,11,14,27,42,20,2011,34,primera_division
+18,Getafe,37,10,7,17,44,55,20,2011,34,primera_division
+19,Hércules,33,9,6,19,31,53,20,2011,34,primera_division
+20,Almería,26,5,11,18,32,59,20,2011,34,primera_division
+1,Barcelona,91,29,4,2,91,19,20,2011,35,primera_division
+2,Real Madrid,83,26,5,4,87,31,20,2011,35,primera_division
+3,Valencia,66,20,6,9,60,42,20,2011,35,primera_division
+4,Villarreal,61,18,7,10,53,40,20,2011,35,primera_division
+5,Athletic,54,17,3,15,55,51,20,2011,35,primera_division
+6,Sevilla,52,15,7,13,54,55,20,2011,35,primera_division
+7,Atlético,52,15,7,13,55,47,20,2011,35,primera_division
+8,Espanyol,48,15,3,17,42,49,20,2011,35,primera_division
+9,Real Sporting,43,10,13,12,33,39,20,2011,35,primera_division
+10,Racing,43,11,10,14,37,51,20,2011,35,primera_division
+11,Levante,43,12,7,16,39,49,20,2011,35,primera_division
+12,Mallorca,43,12,7,16,35,47,20,2011,35,primera_division
+13,Málaga,42,12,6,17,50,64,20,2011,35,primera_division
+14,Osasuna,41,11,8,16,41,42,20,2011,35,primera_division
+15,R. Sociedad,41,13,2,20,45,61,20,2011,35,primera_division
+16,Getafe,40,11,7,17,46,55,20,2011,35,primera_division
+17,Real Zaragoza,39,10,9,16,36,50,20,2011,35,primera_division
+18,Deportivo,39,9,12,14,29,44,20,2011,35,primera_division
+19,Hércules,33,9,6,20,33,56,20,2011,35,primera_division
+20,Almería,26,5,11,19,32,61,20,2011,35,primera_division
+1,Barcelona,92,29,5,2,92,20,20,2011,36,primera_division
+2,Real Madrid,86,27,5,4,91,31,20,2011,36,primera_division
+3,Valencia,67,20,7,9,62,44,20,2011,36,primera_division
+4,Villarreal,62,18,8,10,53,40,20,2011,36,primera_division
+5,Athletic,54,17,3,16,56,53,20,2011,36,primera_division
+6,Sevilla,52,15,7,14,56,58,20,2011,36,primera_division
+7,Atlético,52,15,7,14,56,49,20,2011,36,primera_division
+8,Espanyol,49,15,4,17,44,51,20,2011,36,primera_division
+9,Racing,46,12,10,14,39,52,20,2011,36,primera_division
+10,Málaga,45,13,6,17,52,64,20,2011,36,primera_division
+11,Mallorca,44,12,8,16,37,49,20,2011,36,primera_division
+12,Levante,44,12,8,16,40,50,20,2011,36,primera_division
+13,R. Sociedad,44,14,2,20,47,62,20,2011,36,primera_division
+14,Osasuna,44,12,8,16,44,44,20,2011,36,primera_division
+15,Real Sporting,43,10,13,13,33,41,20,2011,36,primera_division
+16,Deportivo,42,10,12,14,31,45,20,2011,36,primera_division
+17,Getafe,40,11,7,18,46,59,20,2011,36,primera_division
+18,Real Zaragoza,39,10,9,17,37,52,20,2011,36,primera_division
+19,Hércules,34,9,7,20,35,58,20,2011,36,primera_division
+20,Almería,27,5,12,19,32,61,20,2011,36,primera_division
+1,Barcelona,93,29,6,2,92,20,20,2011,37,primera_division
+2,Real Madrid,89,28,5,4,94,32,20,2011,37,primera_division
+3,Valencia,68,20,8,9,62,44,20,2011,37,primera_division
+4,Villarreal,62,18,8,11,54,43,20,2011,37,primera_division
+5,Sevilla,55,16,7,14,59,59,20,2011,37,primera_division
+6,Athletic,55,17,4,16,57,54,20,2011,37,primera_division
+7,Atlético,55,16,7,14,58,50,20,2011,37,primera_division
+8,Espanyol,49,15,4,18,44,52,20,2011,37,primera_division
+9,Málaga,46,13,7,17,53,65,20,2011,37,primera_division
+10,Real Sporting,46,11,13,13,35,42,20,2011,37,primera_division
+11,Racing,46,12,10,15,40,54,20,2011,37,primera_division
+12,Levante,45,12,9,16,40,50,20,2011,37,primera_division
+13,Mallorca,44,12,8,17,38,52,20,2011,37,primera_division
+14,R. Sociedad,44,14,2,21,48,65,20,2011,37,primera_division
+15,Osasuna,44,12,8,17,44,46,20,2011,37,primera_division
+16,Getafe,43,12,7,18,48,59,20,2011,37,primera_division
+17,Deportivo,43,10,13,14,31,45,20,2011,37,primera_division
+18,Real Zaragoza,42,11,9,17,38,52,20,2011,37,primera_division
+19,Hércules,34,9,7,21,36,60,20,2011,37,primera_division
+20,Almería,30,6,12,19,35,62,20,2011,37,primera_division
+1,Barcelona,96,30,6,2,95,21,20,2011,38,primera_division
+2,Real Madrid,92,29,5,4,102,33,20,2011,38,primera_division
+3,Valencia,71,21,8,9,64,44,20,2011,38,primera_division
+4,Villarreal,62,18,8,12,54,44,20,2011,38,primera_division
+5,Sevilla,58,17,7,14,62,61,20,2011,38,primera_division
+6,Athletic,58,18,4,16,59,55,20,2011,38,primera_division
+7,Atlético,58,17,7,14,62,53,20,2011,38,primera_division
+8,Espanyol,49,15,4,19,46,55,20,2011,38,primera_division
+9,Osasuna,47,13,8,17,45,46,20,2011,38,primera_division
+10,Real Sporting,47,11,14,13,35,42,20,2011,38,primera_division
+11,Málaga,46,13,7,18,54,68,20,2011,38,primera_division
+12,Racing,46,12,10,16,41,56,20,2011,38,primera_division
+13,Real Zaragoza,45,12,9,17,40,53,20,2011,38,primera_division
+14,Levante,45,12,9,17,41,52,20,2011,38,primera_division
+15,R. Sociedad,45,14,3,21,49,66,20,2011,38,primera_division
+16,Getafe,44,12,8,18,49,60,20,2011,38,primera_division
+17,Mallorca,44,12,8,18,41,56,20,2011,38,primera_division
+18,Deportivo,43,10,13,15,31,47,20,2011,38,primera_division
+19,Hércules,35,9,8,21,36,60,20,2011,38,primera_division
+20,Almería,30,6,12,20,36,70,20,2011,38,primera_division

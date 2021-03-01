@@ -26,47 +26,49 @@ def create_database(year_1, year_2, leagues):
     list_standings = ['Position', 'Team', 'Points', 'Win',
                       'Draw', 'Lose', 'Goals_For', 'Goals_Against',
                       'Number_Teams', 'Season', 'Round', 'League']
-    list_results = ['Home_Team', 'Away_Team', 'Result', 'Date',
+    list_results = ['Home_Team', 'Away_Team', 'Result',
                     'Link', 'Season', 'Round', 'League']
     dict_standings = {x: [] for x in list_standings}
     dict_results = {x: [] for x in list_results}
     df_standings = pd.DataFrame(dict_standings)
     df_results = pd.DataFrame(dict_results)
+    ROOT_DIR = "https://www.besoccer.com/"
 
     for league in leagues:
-        df_standings.to_csv(f"./Data/Standings/{league}/"
-                            + f"Standings_{year_1}_{league}.csv",
-                            index=False)
-        df_results.to_csv(f"./Data/Results/{league}/"
-                          + f"Results_{year_1}_{league}.csv",
-                          index=False)
         for year in range(year_1, year_2 + 1):
+            df_standings.to_csv(f"./Data/Standings/{league}/"
+                                + f"Standings_{year}_{league}.csv",
+                                index=False)
+            df_results.to_csv(f"./Data/Results/{league}/"
+                              + f"Results_{year}_{league}.csv",
+                              index=False)
             print(f'Accesing data from year {year} of {league}')
-            driver = accept_cookies(year=year, league=league)
-            num_rounds = extract_rounds(driver)
+            URL = ROOT_DIR + league + str(year)
+            year_url = urlopen(URL)
+            year_bs = BeautifulSoup(year_url.read(), 'html.parser')
+            num_rounds = extract_rounds(year_bs)
             if num_rounds == 0:
                 print(f'No available data for year {year} on {league}')
                 print('Skipping to the next year')
-                driver.quit()
                 continue
-            driver.quit()
 
             for round in range(1, num_rounds + 1):
                 print(f'\tAccesing data from round {round} of year'
                       + f' {year} of {league}')
-                driver = accept_cookies(year, league, round)
-                standings = extract_standing(driver)
-                results = extract_results(driver)
+                URL = (ROOT_DIR + league + str(year)
+                       + "/group1/round" + str(round))
+                round_url = urlopen(URL)
+                round_bs = BeautifulSoup(round_url.read(), 'html.parser')
+                standings = extract_standing(round_bs)
+                results = extract_results(round_bs)
 
                 if standings is None or results is None:
                     print(f'-------------------------------------------------')
                     print(f'!!!\tRound {round} does not'
                           + f'exist on year {year}\t!!!''')
                     print(f'-------------------------------------------------')
-                    driver.quit()
                     continue
 
-                driver.quit()
                 for i, key in enumerate(list_standings[:-3]):
                     dict_standings[key].extend(standings[i])
 
@@ -82,15 +84,15 @@ def create_database(year_1, year_2, leagues):
                 dict_results['League'].extend([league] * len(results[0]))
                 pd.DataFrame(dict_results).to_csv(
                         f"./Data/Results/{league}/"
-                        + f"Results_{year_1}_{league}.csv",
-                        mode='w', header=False, index=False)
+                        + f"Results_{year}_{league}.csv",
+                        mode='a', header=False, index=False)
                 for key in dict_results:
                     dict_results[key].clear()
 
                 pd.DataFrame(dict_standings).to_csv(
                         f"./Data/Standings/{league}/"
-                        + f"Standings_{year_1}_{league}.csv",
-                        mode='w', header=False, index=False)
+                        + f"Standings_{year}_{league}.csv",
+                        mode='a', header=False, index=False)
                 for key in dict_standings:
                     dict_standings[key].clear()
 
@@ -118,37 +120,39 @@ def create_standings_database(year_1, year_2, leagues):
                       'Number_Teams', 'Season', 'Round', 'League']
     dict_standings = {x: [] for x in list_standings}
     df_standings = pd.DataFrame(dict_standings)
+    ROOT_DIR = "https://www.besoccer.com/"
 
     for league in leagues:
-        df_standings.to_csv(f"./Data/Standings/{league}/"
-                            + f"Standings_{year_1}_{league}.csv",
-                            index=False)
         for year in range(year_1, year_2 + 1):
+            df_standings.to_csv(f"./Data/Standings/{league}/"
+                                + f"Standings_{year}_{league}.csv",
+                                index=False)
             print(f'Accesing data from year {year} of {league}')
-            driver = accept_cookies(year=year, league=league)
-            num_rounds = extract_rounds(driver)
+            URL = ROOT_DIR + league + str(year)
+            year_url = urlopen(URL)
+            year_bs = BeautifulSoup(year_url.read(), 'html.parser')
+            num_rounds = extract_rounds(year_bs)
             if num_rounds == 0:
                 print(f'No available data for year {year} on {league}')
                 print('Skipping to the next year')
-                driver.quit()
                 continue
-            driver.quit()
 
             for round in range(1, num_rounds + 1):
-                print(f'Accesing data from round {round} of year'
+                print(f'\tAccesing data from round {round} of year'
                       + f' {year} of {league}')
-                driver = accept_cookies(year, league, round)
-                standings = extract_standing(driver)
+                URL = (ROOT_DIR + league + str(year)
+                       + "/group1/round" + str(round))
+                round_url = urlopen(URL)
+                round_bs = BeautifulSoup(round_url.read(), 'html.parser')
+                standings = extract_standing(round_bs)
 
                 if standings is None:
                     print(f'-------------------------------------------------')
                     print(f'!!!\tRound {round} does not'
                           + f'exist on year {year}\t!!!''')
                     print(f'-------------------------------------------------')
-                    driver.quit()
                     continue
 
-                driver.quit()
                 for i, key in enumerate(list_standings[:-3]):
                     dict_standings[key].extend(standings[i])
 
@@ -159,7 +163,7 @@ def create_standings_database(year_1, year_2, leagues):
                 pd.DataFrame(dict_standings).to_csv(
                         f"./Data/Standings/{league}/"
                         + "Standings_{year_1}_{league}.csv",
-                        mode='w', header=False, index=False)
+                        mode='a', header=False, index=False)
                 for key in dict_standings:
                     dict_standings[key].clear()
 
@@ -182,41 +186,47 @@ def create_results_database(year_1, year_2, leagues):
     for league in leagues:
         os.makedirs(f"./Data/Results/{league}", exist_ok=True)
 
-    list_results = ['Home_Team', 'Away_Team', 'Result', 'Date',
+    list_results = ['Home_Team', 'Away_Team', 'Result',
                     'Link', 'Season', 'Round', 'League']
     dict_results = {x: [] for x in list_results}
     df_results = pd.DataFrame(dict_results)
+    ROOT_DIR = "https://www.besoccer.com/"
 
     for league in leagues:
-        df_results.to_csv(f"./Data/Results/{league}/"
-                          + f"Results_{year_1}_{league}.csv",
-                          index=False)
         for year in range(year_1, year_2 + 1):
+            df_results.to_csv(f"./Data/Results/{league}/"
+                              + f"Results_{year}_{league}.csv",
+                              index=False)
             print(f'Accesing data from year {year} of {league}')
-            driver = accept_cookies(year=year, league=league)
-            num_rounds = extract_rounds(driver)
+            URL = ROOT_DIR + league + str(year)
+            year_url = urlopen(URL)
+            year_bs = BeautifulSoup(year_url.read(), 'html.parser')
+            num_rounds = extract_rounds(year_bs)
             if num_rounds == 0:
                 print(f'No available data for year {year} on {league}')
                 print('Skipping to the next year')
-                driver.quit()
                 continue
-            driver.quit()
 
             for round in range(1, num_rounds + 1):
                 print(f'\tAccesing data from round {round} of year'
                       + f' {year} of {league}')
-                driver = accept_cookies(year, league, round)
-                results = extract_results(driver)
+                URL = (ROOT_DIR + league + str(year)
+                       + "/group1/round" + str(round))
+                while True:
+                    try:
+                        round_url = urlopen(URL)
+                        break
+                    except Exception as inst:
+                        print(inst)
+                round_bs = BeautifulSoup(round_url.read(), 'html.parser')
+                results = extract_results(round_bs)
 
                 if results is None:
                     print(f'-------------------------------------------------')
                     print(f'!!!\tRound {round} does not'
                           + f'exist on year {year}\t!!!''')
                     print(f'-------------------------------------------------')
-                    driver.quit()
                     continue
-
-                driver.quit()
 
                 for i, key in enumerate(list_results[:-3]):
                     dict_results[key].extend(results[i])
@@ -226,7 +236,7 @@ def create_results_database(year_1, year_2, leagues):
                 dict_results['League'].extend([league] * len(results[0]))
                 pd.DataFrame(dict_results).to_csv(
                         f"./Data/Results/{league}/"
-                        + f"Results_{year_1}_{league}.csv",
-                        mode='w', header=False, index=False)
+                        + f"Results_{year}_{league}.csv",
+                        mode='a', header=False, index=False)
                 for key in dict_results:
                     dict_results[key].clear()

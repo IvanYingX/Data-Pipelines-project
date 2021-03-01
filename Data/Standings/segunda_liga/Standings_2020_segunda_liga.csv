@@ -1,0 +1,432 @@
+1,Nacional,3,1,0,0,3,0,18,2020,1,segunda_liga
+2,Farense,3,1,0,0,3,1,18,2020,1,segunda_liga
+3,Academico Viseu,3,1,0,0,2,0,18,2020,1,segunda_liga
+4,Feirense,3,1,0,0,2,0,18,2020,1,segunda_liga
+5,SP. Covilhã,3,1,0,0,2,0,18,2020,1,segunda_liga
+6,Académica,3,1,0,0,3,2,18,2020,1,segunda_liga
+7,Mafra,3,1,0,0,3,2,18,2020,1,segunda_liga
+8,Benfica II,3,1,0,0,2,1,18,2020,1,segunda_liga
+9,UD Oliveirense,1,0,1,0,0,0,18,2020,1,segunda_liga
+10,Varzim,1,0,1,0,0,0,18,2020,1,segunda_liga
+11,Cova Piedade,0,0,0,1,2,3,18,2020,1,segunda_liga
+12,Leixões,0,0,0,1,2,3,18,2020,1,segunda_liga
+13,Estoril,0,0,0,1,1,2,18,2020,1,segunda_liga
+14,Casa Pia,0,0,0,1,1,3,18,2020,1,segunda_liga
+15,Penafiel,0,0,0,1,0,2,18,2020,1,segunda_liga
+16,Porto II,0,0,0,1,0,2,18,2020,1,segunda_liga
+17,Vilafranquense,0,0,0,1,0,2,18,2020,1,segunda_liga
+18,Chaves,0,0,0,1,0,3,18,2020,1,segunda_liga
+1,SP. Covilhã,6,2,0,0,4,0,18,2020,2,segunda_liga
+2,Farense,6,2,0,0,5,2,18,2020,2,segunda_liga
+3,Nacional,4,1,1,0,4,1,18,2020,2,segunda_liga
+4,Academico Viseu,4,1,1,0,2,0,18,2020,2,segunda_liga
+5,Académica,4,1,1,0,3,2,18,2020,2,segunda_liga
+6,Vilafranquense,3,1,0,1,4,2,18,2020,2,segunda_liga
+7,Feirense,3,1,0,1,3,2,18,2020,2,segunda_liga
+8,Cova Piedade,3,1,0,1,4,4,18,2020,2,segunda_liga
+9,Mafra,3,1,0,1,4,4,18,2020,2,segunda_liga
+10,Penafiel,3,1,0,1,2,3,18,2020,2,segunda_liga
+11,Chaves,3,1,0,1,2,4,18,2020,2,segunda_liga
+12,Benfica II,3,1,0,1,2,5,18,2020,2,segunda_liga
+13,Varzim,2,0,2,0,1,1,18,2020,2,segunda_liga
+14,Leixões,1,0,1,1,3,4,18,2020,2,segunda_liga
+15,Porto II,1,0,1,1,1,3,18,2020,2,segunda_liga
+16,UD Oliveirense,1,0,1,1,0,2,18,2020,2,segunda_liga
+17,Estoril,0,0,0,2,2,4,18,2020,2,segunda_liga
+18,Casa Pia,0,0,0,2,2,5,18,2020,2,segunda_liga
+1,SP. Covilhã,9,3,0,0,5,0,18,2020,3,segunda_liga
+2,Penafiel,6,2,0,1,5,3,18,2020,3,segunda_liga
+3,Farense,6,2,0,1,6,5,18,2020,3,segunda_liga
+4,Chaves,6,2,0,1,4,5,18,2020,3,segunda_liga
+5,Benfica II,6,2,0,1,4,6,18,2020,3,segunda_liga
+6,Nacional,5,1,2,0,4,1,18,2020,3,segunda_liga
+7,Academico Viseu,5,1,2,0,2,0,18,2020,3,segunda_liga
+8,Feirense,4,1,1,1,3,2,18,2020,3,segunda_liga
+9,Académica,4,1,1,1,4,4,18,2020,3,segunda_liga
+10,Leixões,4,1,1,1,4,4,18,2020,3,segunda_liga
+11,Mafra,4,1,1,1,4,4,18,2020,3,segunda_liga
+12,Porto II,4,1,1,1,4,4,18,2020,3,segunda_liga
+13,Vilafranquense,3,1,0,2,4,3,18,2020,3,segunda_liga
+14,Estoril,3,1,0,2,3,4,18,2020,3,segunda_liga
+15,Cova Piedade,3,1,0,2,4,7,18,2020,3,segunda_liga
+16,Varzim,2,0,2,1,1,2,18,2020,3,segunda_liga
+17,UD Oliveirense,1,0,1,2,1,4,18,2020,3,segunda_liga
+18,Casa Pia,0,0,0,3,2,6,18,2020,3,segunda_liga
+1,SP. Covilhã,12,4,0,0,8,1,18,2020,4,segunda_liga
+2,Farense,9,3,0,1,7,5,18,2020,4,segunda_liga
+3,Chaves,9,3,0,1,6,6,18,2020,4,segunda_liga
+4,Nacional,8,2,2,0,6,2,18,2020,4,segunda_liga
+5,Mafra,7,2,1,1,5,4,18,2020,4,segunda_liga
+6,Estoril,6,2,0,2,6,5,18,2020,4,segunda_liga
+7,Penafiel,6,2,0,2,6,5,18,2020,4,segunda_liga
+8,Cova Piedade,6,2,0,2,6,7,18,2020,4,segunda_liga
+9,Benfica II,6,2,0,2,4,8,18,2020,4,segunda_liga
+10,Feirense,5,1,2,1,5,4,18,2020,4,segunda_liga
+11,Leixões,5,1,2,1,6,6,18,2020,4,segunda_liga
+12,Porto II,5,1,2,1,4,4,18,2020,4,segunda_liga
+13,Academico Viseu,5,1,2,1,3,3,18,2020,4,segunda_liga
+14,Académica,4,1,1,2,4,5,18,2020,4,segunda_liga
+15,Vilafranquense,3,1,0,3,5,5,18,2020,4,segunda_liga
+16,Varzim,2,0,2,2,2,5,18,2020,4,segunda_liga
+17,Casa Pia,1,0,1,3,2,6,18,2020,4,segunda_liga
+18,UD Oliveirense,1,0,1,3,1,5,18,2020,4,segunda_liga
+1,SP. Covilhã,12,4,0,1,10,4,18,2020,5,segunda_liga
+2,Farense,12,4,0,1,10,5,18,2020,5,segunda_liga
+3,Nacional,11,3,2,0,8,3,18,2020,5,segunda_liga
+4,Estoril,9,3,0,2,8,6,18,2020,5,segunda_liga
+5,Penafiel,9,3,0,2,8,6,18,2020,5,segunda_liga
+6,Chaves,9,3,0,2,6,7,18,2020,5,segunda_liga
+7,Feirense,8,2,2,1,6,4,18,2020,5,segunda_liga
+8,Leixões,8,2,2,1,9,8,18,2020,5,segunda_liga
+9,Mafra,7,2,1,2,6,6,18,2020,5,segunda_liga
+10,Benfica II,7,2,1,2,4,8,18,2020,5,segunda_liga
+11,Academico Viseu,6,1,3,1,3,3,18,2020,5,segunda_liga
+12,Cova Piedade,6,2,0,3,7,9,18,2020,5,segunda_liga
+13,Porto II,5,1,2,2,5,6,18,2020,5,segunda_liga
+14,Varzim,5,1,2,2,4,6,18,2020,5,segunda_liga
+15,Académica,4,1,1,3,5,7,18,2020,5,segunda_liga
+16,UD Oliveirense,4,1,1,3,4,6,18,2020,5,segunda_liga
+17,Vilafranquense,3,1,0,4,5,8,18,2020,5,segunda_liga
+18,Casa Pia,1,0,1,4,3,9,18,2020,5,segunda_liga
+1,SP. Covilhã,15,5,0,1,13,6,18,2020,6,segunda_liga
+2,Nacional,14,4,2,0,10,4,18,2020,6,segunda_liga
+3,Estoril,12,4,0,2,12,7,18,2020,6,segunda_liga
+4,Farense,12,4,0,2,10,6,18,2020,6,segunda_liga
+5,Leixões,11,3,2,1,10,8,18,2020,6,segunda_liga
+6,Feirense,9,2,3,1,7,5,18,2020,6,segunda_liga
+7,Penafiel,9,3,0,3,9,8,18,2020,6,segunda_liga
+8,Academico Viseu,9,2,3,1,4,3,18,2020,6,segunda_liga
+9,Chaves,9,3,0,3,8,10,18,2020,6,segunda_liga
+10,Mafra,8,2,2,2,7,7,18,2020,6,segunda_liga
+11,Benfica II,7,2,1,3,4,9,18,2020,6,segunda_liga
+12,Porto II,6,1,3,2,5,6,18,2020,6,segunda_liga
+13,Varzim,6,1,3,2,5,7,18,2020,6,segunda_liga
+14,Cova Piedade,6,2,0,4,7,10,18,2020,6,segunda_liga
+15,Académica,5,1,2,3,6,8,18,2020,6,segunda_liga
+16,UD Oliveirense,5,1,2,3,4,6,18,2020,6,segunda_liga
+17,Casa Pia,4,1,1,4,4,9,18,2020,6,segunda_liga
+18,Vilafranquense,3,1,0,5,6,12,18,2020,6,segunda_liga
+1,SP. Covilhã,18,6,0,1,14,6,18,2020,7,segunda_liga
+2,Estoril,15,5,0,2,15,7,18,2020,7,segunda_liga
+3,Farense,15,5,0,2,11,6,18,2020,7,segunda_liga
+4,Nacional,14,4,2,1,10,5,18,2020,7,segunda_liga
+5,Academico Viseu,12,3,3,1,7,5,18,2020,7,segunda_liga
+6,Leixões,11,3,2,2,10,9,18,2020,7,segunda_liga
+7,Mafra,11,3,2,2,9,8,18,2020,7,segunda_liga
+8,Penafiel,10,3,1,3,9,8,18,2020,7,segunda_liga
+9,Benfica II,10,3,1,3,5,9,18,2020,7,segunda_liga
+10,Feirense,9,2,3,2,8,7,18,2020,7,segunda_liga
+11,Varzim,9,2,3,2,7,8,18,2020,7,segunda_liga
+12,Chaves,9,3,0,4,9,12,18,2020,7,segunda_liga
+13,Porto II,7,1,4,2,6,7,18,2020,7,segunda_liga
+14,Académica,6,1,3,3,6,8,18,2020,7,segunda_liga
+15,Cova Piedade,6,2,0,5,7,11,18,2020,7,segunda_liga
+16,UD Oliveirense,5,1,2,4,4,9,18,2020,7,segunda_liga
+17,Vilafranquense,4,1,1,5,7,13,18,2020,7,segunda_liga
+18,Casa Pia,4,1,1,5,6,12,18,2020,7,segunda_liga
+1,SP. Covilhã,19,6,1,1,16,8,18,2020,8,segunda_liga
+2,Farense,18,6,0,2,13,6,18,2020,8,segunda_liga
+3,Estoril,15,5,0,3,15,9,18,2020,8,segunda_liga
+4,Nacional,15,4,3,1,11,6,18,2020,8,segunda_liga
+5,Leixões,14,4,2,2,11,9,18,2020,8,segunda_liga
+6,Mafra,12,3,3,2,11,10,18,2020,8,segunda_liga
+7,Academico Viseu,12,3,3,2,7,7,18,2020,8,segunda_liga
+8,Chaves,12,4,0,4,11,12,18,2020,8,segunda_liga
+9,Penafiel,11,3,2,3,9,8,18,2020,8,segunda_liga
+10,Feirense,10,2,4,2,8,7,18,2020,8,segunda_liga
+11,Porto II,10,2,4,2,8,7,18,2020,8,segunda_liga
+12,Varzim,10,2,4,2,8,9,18,2020,8,segunda_liga
+13,Benfica II,10,3,1,4,5,10,18,2020,8,segunda_liga
+14,Académica,9,2,3,3,7,8,18,2020,8,segunda_liga
+15,Vilafranquense,7,2,1,5,10,15,18,2020,8,segunda_liga
+16,Cova Piedade,6,2,0,6,7,13,18,2020,8,segunda_liga
+17,UD Oliveirense,5,1,2,5,6,12,18,2020,8,segunda_liga
+18,Casa Pia,4,1,1,6,6,13,18,2020,8,segunda_liga
+1,Farense,21,7,0,2,15,7,18,2020,9,segunda_liga
+2,SP. Covilhã,19,6,1,1,14,6,18,2020,9,segunda_liga
+3,Estoril,18,6,0,3,18,10,18,2020,9,segunda_liga
+4,Leixões,17,5,2,2,14,10,18,2020,9,segunda_liga
+5,Nacional,16,4,4,1,12,7,18,2020,9,segunda_liga
+6,Chaves,15,5,0,4,14,13,18,2020,9,segunda_liga
+7,Varzim,13,3,4,2,10,10,18,2020,9,segunda_liga
+8,Academico Viseu,12,3,3,3,8,10,18,2020,9,segunda_liga
+9,Penafiel,11,3,2,3,9,8,18,2020,9,segunda_liga
+10,Mafra,11,3,2,3,10,10,18,2020,9,segunda_liga
+11,Feirense,10,2,4,2,9,8,18,2020,9,segunda_liga
+12,Porto II,10,2,4,3,9,10,18,2020,9,segunda_liga
+13,Benfica II,10,3,1,5,6,13,18,2020,9,segunda_liga
+14,Académica,9,2,3,4,8,10,18,2020,9,segunda_liga
+15,UD Oliveirense,8,2,2,5,8,12,18,2020,9,segunda_liga
+16,Vilafranquense,7,2,1,6,12,18,18,2020,9,segunda_liga
+17,Casa Pia,7,2,1,6,9,15,18,2020,9,segunda_liga
+18,Cova Piedade,6,2,0,7,7,15,18,2020,9,segunda_liga
+1,Farense,24,8,0,2,17,8,18,2020,10,segunda_liga
+2,Estoril,21,7,0,3,20,10,18,2020,10,segunda_liga
+3,SP. Covilhã,20,6,2,2,16,9,18,2020,10,segunda_liga
+4,Leixões,20,6,2,2,17,12,18,2020,10,segunda_liga
+5,Nacional,19,5,4,1,13,7,18,2020,10,segunda_liga
+6,Chaves,18,6,0,4,16,13,18,2020,10,segunda_liga
+7,Varzim,16,4,4,2,12,11,18,2020,10,segunda_liga
+8,Mafra,15,4,3,3,15,13,18,2020,10,segunda_liga
+9,Penafiel,13,3,4,3,10,9,18,2020,10,segunda_liga
+10,Academico Viseu,12,3,3,4,8,12,18,2020,10,segunda_liga
+11,Feirense,11,2,5,3,10,10,18,2020,10,segunda_liga
+12,Benfica II,11,3,2,5,7,14,18,2020,10,segunda_liga
+13,Porto II,10,2,4,4,10,13,18,2020,10,segunda_liga
+14,Vilafranquense,10,3,1,6,14,18,18,2020,10,segunda_liga
+15,Académica,9,2,3,5,9,12,18,2020,10,segunda_liga
+16,UD Oliveirense,8,2,2,6,10,15,18,2020,10,segunda_liga
+17,Casa Pia,7,2,1,7,9,17,18,2020,10,segunda_liga
+18,Cova Piedade,6,2,0,8,7,17,18,2020,10,segunda_liga
+1,Farense,27,9,0,2,18,8,18,2020,11,segunda_liga
+2,Estoril,22,7,1,3,21,11,18,2020,11,segunda_liga
+3,Nacional,22,6,4,1,14,7,18,2020,11,segunda_liga
+4,Leixões,21,6,3,2,18,13,18,2020,11,segunda_liga
+5,SP. Covilhã,20,6,2,3,17,11,18,2020,11,segunda_liga
+6,Varzim,19,5,4,2,13,11,18,2020,11,segunda_liga
+7,Chaves,18,6,0,5,16,14,18,2020,11,segunda_liga
+8,Mafra,16,4,4,3,17,15,18,2020,11,segunda_liga
+9,Feirense,14,3,5,3,12,11,18,2020,11,segunda_liga
+10,Porto II,13,3,4,4,14,14,18,2020,11,segunda_liga
+11,Penafiel,13,3,4,4,10,10,18,2020,11,segunda_liga
+12,Vilafranquense,13,4,1,6,17,20,18,2020,11,segunda_liga
+13,Academico Viseu,12,3,3,5,8,14,18,2020,11,segunda_liga
+14,Benfica II,12,3,3,5,9,16,18,2020,11,segunda_liga
+15,UD Oliveirense,11,3,2,6,12,15,18,2020,11,segunda_liga
+16,Académica,9,2,3,6,11,15,18,2020,11,segunda_liga
+17,Casa Pia,7,2,1,8,9,18,18,2020,11,segunda_liga
+18,Cova Piedade,6,2,0,9,8,21,18,2020,11,segunda_liga
+1,Farense,27,9,0,3,18,9,18,2020,12,segunda_liga
+2,Nacional,25,7,4,1,15,7,18,2020,12,segunda_liga
+3,Estoril,22,7,1,4,22,14,18,2020,12,segunda_liga
+4,Varzim,22,6,4,2,14,11,18,2020,12,segunda_liga
+5,Leixões,21,6,3,3,18,14,18,2020,12,segunda_liga
+6,SP. Covilhã,20,6,2,4,17,12,18,2020,12,segunda_liga
+7,Mafra,19,5,4,3,20,16,18,2020,12,segunda_liga
+8,Chaves,18,6,0,6,16,16,18,2020,12,segunda_liga
+9,Feirense,15,3,6,3,13,12,18,2020,12,segunda_liga
+10,Academico Viseu,15,4,3,4,9,12,18,2020,12,segunda_liga
+11,Porto II,14,3,5,4,16,16,18,2020,12,segunda_liga
+12,Penafiel,14,3,5,4,12,12,18,2020,12,segunda_liga
+13,Vilafranquense,14,4,2,6,17,20,18,2020,12,segunda_liga
+14,Benfica II,13,3,4,5,10,17,18,2020,12,segunda_liga
+15,Académica,12,3,3,6,14,16,18,2020,12,segunda_liga
+16,UD Oliveirense,11,3,2,6,12,15,18,2020,12,segunda_liga
+17,Casa Pia,7,2,1,9,10,21,18,2020,12,segunda_liga
+18,Cova Piedade,7,2,1,9,8,21,18,2020,12,segunda_liga
+1,Farense,30,10,0,3,19,9,18,2020,13,segunda_liga
+2,Nacional,28,8,4,1,17,8,18,2020,13,segunda_liga
+3,Varzim,23,6,5,2,17,14,18,2020,13,segunda_liga
+4,Estoril,22,7,1,5,23,16,18,2020,13,segunda_liga
+5,Mafra,22,6,4,3,21,16,18,2020,13,segunda_liga
+6,Leixões,22,6,4,3,19,15,18,2020,13,segunda_liga
+7,SP. Covilhã,20,6,2,5,18,14,18,2020,13,segunda_liga
+8,Chaves,19,6,1,6,17,17,18,2020,13,segunda_liga
+9,Academico Viseu,18,5,3,5,13,15,18,2020,13,segunda_liga
+10,UD Oliveirense,17,5,2,6,16,16,18,2020,13,segunda_liga
+11,Porto II,15,3,6,4,17,17,18,2020,13,segunda_liga
+12,Feirense,15,3,6,4,13,13,18,2020,13,segunda_liga
+13,Académica,15,4,3,6,16,17,18,2020,13,segunda_liga
+14,Vilafranquense,15,4,3,6,18,21,18,2020,13,segunda_liga
+15,Penafiel,14,3,5,5,13,14,18,2020,13,segunda_liga
+16,Benfica II,14,3,5,5,13,20,18,2020,13,segunda_liga
+17,Casa Pia,7,2,1,10,10,22,18,2020,13,segunda_liga
+18,Cova Piedade,7,2,1,10,9,25,18,2020,13,segunda_liga
+1,Farense,33,11,0,3,22,10,18,2020,14,segunda_liga
+2,Nacional,31,9,4,1,21,9,18,2020,14,segunda_liga
+3,Mafra,23,6,5,3,22,17,18,2020,14,segunda_liga
+4,Leixões,23,6,5,3,19,15,18,2020,14,segunda_liga
+5,Varzim,23,6,5,3,18,17,18,2020,14,segunda_liga
+6,Estoril,22,7,1,6,23,17,18,2020,14,segunda_liga
+7,Chaves,22,7,1,6,19,18,18,2020,14,segunda_liga
+8,SP. Covilhã,21,6,3,5,20,16,18,2020,14,segunda_liga
+9,Academico Viseu,19,5,4,5,14,16,18,2020,14,segunda_liga
+10,Académica,18,5,3,6,20,20,18,2020,14,segunda_liga
+11,Penafiel,17,4,5,5,14,14,18,2020,14,segunda_liga
+12,UD Oliveirense,17,5,2,7,19,20,18,2020,14,segunda_liga
+13,Feirense,16,3,7,4,14,14,18,2020,14,segunda_liga
+14,Porto II,15,3,6,5,18,21,18,2020,14,segunda_liga
+15,Vilafranquense,15,4,3,7,19,23,18,2020,14,segunda_liga
+16,Benfica II,15,3,6,5,15,22,18,2020,14,segunda_liga
+17,Casa Pia,8,2,2,10,11,23,18,2020,14,segunda_liga
+18,Cova Piedade,8,2,2,10,9,25,18,2020,14,segunda_liga
+1,Farense,33,11,0,4,22,13,18,2020,15,segunda_liga
+2,Nacional,32,9,5,1,21,9,18,2020,15,segunda_liga
+3,Mafra,26,7,5,3,25,18,18,2020,15,segunda_liga
+4,Varzim,26,7,5,3,21,17,18,2020,15,segunda_liga
+5,Chaves,25,8,1,6,21,18,18,2020,15,segunda_liga
+6,SP. Covilhã,24,7,3,5,24,17,18,2020,15,segunda_liga
+7,Leixões,23,6,5,4,19,16,18,2020,15,segunda_liga
+8,Estoril,22,7,1,7,23,19,18,2020,15,segunda_liga
+9,Académica,21,6,3,6,23,21,18,2020,15,segunda_liga
+10,Penafiel,20,5,5,5,15,14,18,2020,15,segunda_liga
+11,Academico Viseu,20,5,5,5,14,16,18,2020,15,segunda_liga
+12,Feirense,19,4,7,4,16,14,18,2020,15,segunda_liga
+13,Benfica II,18,4,6,5,18,22,18,2020,15,segunda_liga
+14,UD Oliveirense,17,5,2,8,20,23,18,2020,15,segunda_liga
+15,Porto II,15,3,6,6,19,24,18,2020,15,segunda_liga
+16,Vilafranquense,15,4,3,8,19,26,18,2020,15,segunda_liga
+17,Casa Pia,8,2,2,11,12,27,18,2020,15,segunda_liga
+18,Cova Piedade,8,2,2,11,9,27,18,2020,15,segunda_liga
+1,Nacional,33,9,6,1,21,9,18,2020,16,segunda_liga
+2,Farense,33,11,0,5,22,16,18,2020,16,segunda_liga
+3,SP. Covilhã,27,8,3,5,25,17,18,2020,16,segunda_liga
+4,Mafra,27,7,6,3,26,19,18,2020,16,segunda_liga
+5,Varzim,26,7,5,4,22,19,18,2020,16,segunda_liga
+6,Chaves,26,8,2,6,21,18,18,2020,16,segunda_liga
+7,Académica,24,7,3,6,26,21,18,2020,16,segunda_liga
+8,Leixões,24,6,6,4,19,16,18,2020,16,segunda_liga
+9,Penafiel,23,6,5,5,18,14,18,2020,16,segunda_liga
+10,Academico Viseu,23,6,5,5,16,17,18,2020,16,segunda_liga
+11,Estoril,22,7,1,8,23,20,18,2020,16,segunda_liga
+12,Feirense,22,5,7,4,17,14,18,2020,16,segunda_liga
+13,Benfica II,21,5,6,5,22,22,18,2020,16,segunda_liga
+14,UD Oliveirense,18,5,3,8,20,23,18,2020,16,segunda_liga
+15,Vilafranquense,16,4,4,8,20,27,18,2020,16,segunda_liga
+16,Porto II,15,3,6,7,19,25,18,2020,16,segunda_liga
+17,Casa Pia,8,2,2,12,12,31,18,2020,16,segunda_liga
+18,Cova Piedade,8,2,2,12,9,30,18,2020,16,segunda_liga
+1,Farense,34,11,1,5,22,16,18,2020,17,segunda_liga
+2,Nacional,33,9,6,2,22,12,18,2020,17,segunda_liga
+3,Mafra,30,8,6,3,28,19,18,2020,17,segunda_liga
+4,SP. Covilhã,28,8,4,5,25,17,18,2020,17,segunda_liga
+5,Varzim,27,7,6,4,24,21,18,2020,17,segunda_liga
+6,Chaves,27,8,3,6,21,18,18,2020,17,segunda_liga
+7,Estoril,25,8,1,8,24,20,18,2020,17,segunda_liga
+8,Académica,24,7,3,7,26,22,18,2020,17,segunda_liga
+9,Penafiel,24,6,6,5,19,15,18,2020,17,segunda_liga
+10,Leixões,24,6,6,5,19,18,18,2020,17,segunda_liga
+11,Academico Viseu,24,6,6,5,16,17,18,2020,17,segunda_liga
+12,Feirense,23,5,8,4,18,15,18,2020,17,segunda_liga
+13,Benfica II,21,5,6,6,23,24,18,2020,17,segunda_liga
+14,UD Oliveirense,19,5,4,8,21,24,18,2020,17,segunda_liga
+15,Porto II,18,4,6,7,21,26,18,2020,17,segunda_liga
+16,Vilafranquense,17,4,5,8,21,28,18,2020,17,segunda_liga
+17,Cova Piedade,11,3,2,12,12,31,18,2020,17,segunda_liga
+18,Casa Pia,9,2,3,12,14,33,18,2020,17,segunda_liga
+1,Farense,37,12,1,5,24,16,18,2020,18,segunda_liga
+2,Nacional,36,10,6,2,24,12,18,2020,18,segunda_liga
+3,Mafra,31,8,7,3,29,20,18,2020,18,segunda_liga
+4,SP. Covilhã,28,8,4,6,27,21,18,2020,18,segunda_liga
+5,Estoril,28,9,1,8,25,20,18,2020,18,segunda_liga
+6,Chaves,27,8,3,7,21,20,18,2020,18,segunda_liga
+7,Academico Viseu,27,7,6,5,17,17,18,2020,18,segunda_liga
+8,Varzim,27,7,6,5,24,25,18,2020,18,segunda_liga
+9,Académica,25,7,4,7,27,23,18,2020,18,segunda_liga
+10,Leixões,25,6,7,5,20,19,18,2020,18,segunda_liga
+11,Feirense,24,5,9,4,19,16,18,2020,18,segunda_liga
+12,Penafiel,24,6,6,6,19,16,18,2020,18,segunda_liga
+13,UD Oliveirense,22,6,4,8,25,24,18,2020,18,segunda_liga
+14,Benfica II,21,5,6,7,23,25,18,2020,18,segunda_liga
+15,Porto II,21,5,6,7,25,28,18,2020,18,segunda_liga
+16,Vilafranquense,18,4,6,8,22,29,18,2020,18,segunda_liga
+17,Cova Piedade,12,3,3,12,13,32,18,2020,18,segunda_liga
+18,Casa Pia,9,2,3,13,14,35,18,2020,18,segunda_liga
+1,Nacional,39,11,6,2,25,12,18,2020,19,segunda_liga
+2,Farense,37,12,1,6,24,18,18,2020,19,segunda_liga
+3,Mafra,34,9,7,3,30,20,18,2020,19,segunda_liga
+4,SP. Covilhã,31,9,4,6,28,21,18,2020,19,segunda_liga
+5,Estoril,31,10,1,8,27,20,18,2020,19,segunda_liga
+6,Académica,28,8,4,7,29,23,18,2020,19,segunda_liga
+7,Feirense,27,6,9,4,21,17,18,2020,19,segunda_liga
+8,Chaves,27,8,3,8,21,21,18,2020,19,segunda_liga
+9,Academico Viseu,27,7,6,6,17,19,18,2020,19,segunda_liga
+10,Varzim,27,7,6,6,24,27,18,2020,19,segunda_liga
+11,Penafiel,25,6,7,6,20,17,18,2020,19,segunda_liga
+12,Leixões,25,6,7,6,20,20,18,2020,19,segunda_liga
+13,Benfica II,24,6,6,7,27,25,18,2020,19,segunda_liga
+14,Porto II,24,6,6,7,27,28,18,2020,19,segunda_liga
+15,UD Oliveirense,22,6,4,9,25,25,18,2020,19,segunda_liga
+16,Vilafranquense,18,4,6,9,22,33,18,2020,19,segunda_liga
+17,Cova Piedade,12,3,3,13,14,34,18,2020,19,segunda_liga
+18,Casa Pia,10,2,4,13,15,36,18,2020,19,segunda_liga
+1,Nacional,40,11,7,2,26,13,18,2020,20,segunda_liga
+2,Farense,38,12,2,6,25,19,18,2020,20,segunda_liga
+3,Mafra,35,9,8,3,31,21,18,2020,20,segunda_liga
+4,Estoril,34,11,1,8,31,21,18,2020,20,segunda_liga
+5,Académica,31,9,4,7,31,24,18,2020,20,segunda_liga
+6,SP. Covilhã,31,9,4,7,28,22,18,2020,20,segunda_liga
+7,Feirense,30,7,9,4,22,17,18,2020,20,segunda_liga
+8,Leixões,28,7,7,6,21,20,18,2020,20,segunda_liga
+9,Chaves,27,8,3,9,22,23,18,2020,20,segunda_liga
+10,Academico Viseu,27,7,6,7,17,20,18,2020,20,segunda_liga
+11,Varzim,27,7,6,7,24,28,18,2020,20,segunda_liga
+12,Penafiel,26,6,8,6,22,19,18,2020,20,segunda_liga
+13,UD Oliveirense,25,7,4,9,30,25,18,2020,20,segunda_liga
+14,Porto II,25,6,7,7,28,29,18,2020,20,segunda_liga
+15,Benfica II,24,6,6,8,27,30,18,2020,20,segunda_liga
+16,Vilafranquense,21,5,6,9,23,33,18,2020,20,segunda_liga
+17,Cova Piedade,13,3,4,13,16,36,18,2020,20,segunda_liga
+18,Casa Pia,10,2,4,14,16,40,18,2020,20,segunda_liga
+1,Nacional,43,12,7,2,31,14,18,2020,21,segunda_liga
+2,Farense,41,13,2,6,28,20,18,2020,21,segunda_liga
+3,Mafra,36,9,9,3,31,21,18,2020,21,segunda_liga
+4,Estoril,34,11,1,9,31,24,18,2020,21,segunda_liga
+5,Feirense,33,8,9,4,23,17,18,2020,21,segunda_liga
+6,Académica,32,9,5,7,31,24,18,2020,21,segunda_liga
+7,SP. Covilhã,31,9,4,8,28,23,18,2020,21,segunda_liga
+8,Varzim,30,8,6,7,27,28,18,2020,21,segunda_liga
+9,Academico Viseu,30,8,6,7,18,20,18,2020,21,segunda_liga
+10,Porto II,28,7,7,7,31,30,18,2020,21,segunda_liga
+11,Leixões,28,7,7,7,21,21,18,2020,21,segunda_liga
+12,Chaves,28,8,4,9,22,23,18,2020,21,segunda_liga
+13,Penafiel,27,6,9,6,22,19,18,2020,21,segunda_liga
+14,Benfica II,27,7,6,8,29,30,18,2020,21,segunda_liga
+15,UD Oliveirense,25,7,4,10,31,28,18,2020,21,segunda_liga
+16,Vilafranquense,21,5,6,10,24,38,18,2020,21,segunda_liga
+17,Cova Piedade,13,3,4,14,16,38,18,2020,21,segunda_liga
+18,Casa Pia,10,2,4,15,17,43,18,2020,21,segunda_liga
+1,Nacional,46,13,7,2,32,14,18,2020,22,segunda_liga
+2,Farense,44,14,2,6,31,20,18,2020,22,segunda_liga
+3,Mafra,39,10,9,3,32,21,18,2020,22,segunda_liga
+4,Feirense,36,9,9,4,25,18,18,2020,22,segunda_liga
+5,Estoril,35,11,2,9,32,25,18,2020,22,segunda_liga
+6,Varzim,33,9,6,7,29,29,18,2020,22,segunda_liga
+7,Académica,32,9,5,8,31,25,18,2020,22,segunda_liga
+8,SP. Covilhã,32,9,5,8,28,23,18,2020,22,segunda_liga
+9,Academico Viseu,31,8,7,7,19,21,18,2020,22,segunda_liga
+10,Porto II,29,7,8,7,32,31,18,2020,22,segunda_liga
+11,Leixões,29,7,8,7,21,21,18,2020,22,segunda_liga
+12,UD Oliveirense,28,8,4,10,33,29,18,2020,22,segunda_liga
+13,Benfica II,28,7,7,8,30,31,18,2020,22,segunda_liga
+14,Chaves,28,8,4,10,23,25,18,2020,22,segunda_liga
+15,Penafiel,27,6,9,7,22,20,18,2020,22,segunda_liga
+16,Vilafranquense,21,5,6,11,24,41,18,2020,22,segunda_liga
+17,Cova Piedade,13,3,4,15,17,40,18,2020,22,segunda_liga
+18,Casa Pia,10,2,4,16,18,45,18,2020,22,segunda_liga
+1,Nacional,47,13,8,2,33,15,18,2020,23,segunda_liga
+2,Farense,47,15,2,6,34,21,18,2020,23,segunda_liga
+3,Mafra,39,10,9,4,33,23,18,2020,23,segunda_liga
+4,Feirense,39,10,9,4,26,18,18,2020,23,segunda_liga
+5,Estoril,38,12,2,9,34,25,18,2020,23,segunda_liga
+6,Varzim,36,10,6,7,31,30,18,2020,23,segunda_liga
+7,Académica,32,9,5,9,31,26,18,2020,23,segunda_liga
+8,SP. Covilhã,32,9,5,9,28,25,18,2020,23,segunda_liga
+9,Leixões,32,8,8,7,22,21,18,2020,23,segunda_liga
+10,UD Oliveirense,31,9,4,10,35,30,18,2020,23,segunda_liga
+11,Chaves,31,9,4,10,25,25,18,2020,23,segunda_liga
+12,Academico Viseu,31,8,7,8,20,24,18,2020,23,segunda_liga
+13,Porto II,29,7,8,8,33,33,18,2020,23,segunda_liga
+14,Penafiel,28,6,10,7,23,21,18,2020,23,segunda_liga
+15,Benfica II,28,7,7,9,30,32,18,2020,23,segunda_liga
+16,Vilafranquense,21,5,6,12,24,43,18,2020,23,segunda_liga
+17,Cova Piedade,14,3,5,15,18,41,18,2020,23,segunda_liga
+18,Casa Pia,11,2,5,16,19,46,18,2020,23,segunda_liga
+1,Nacional,50,14,8,2,36,16,18,2020,24,segunda_liga
+2,Farense,48,15,3,6,35,22,18,2020,24,segunda_liga
+3,Feirense,42,11,9,4,27,18,18,2020,24,segunda_liga
+4,Estoril,39,12,3,9,35,26,18,2020,24,segunda_liga
+5,Mafra,39,10,9,5,33,24,18,2020,24,segunda_liga
+6,Varzim,37,10,7,7,32,31,18,2020,24,segunda_liga
+7,Académica,35,10,5,9,34,26,18,2020,24,segunda_liga
+8,Academico Viseu,34,9,7,8,21,24,18,2020,24,segunda_liga
+9,Leixões,33,8,9,7,23,22,18,2020,24,segunda_liga
+10,UD Oliveirense,32,9,5,10,36,31,18,2020,24,segunda_liga
+11,SP. Covilhã,32,9,5,10,29,27,18,2020,24,segunda_liga
+12,Chaves,32,9,5,10,26,26,18,2020,24,segunda_liga
+13,Porto II,29,7,8,9,35,36,18,2020,24,segunda_liga
+14,Penafiel,28,6,10,8,23,24,18,2020,24,segunda_liga
+15,Benfica II,28,7,7,10,31,35,18,2020,24,segunda_liga
+16,Vilafranquense,24,6,6,12,27,45,18,2020,24,segunda_liga
+17,Cova Piedade,17,4,5,15,20,42,18,2020,24,segunda_liga
+18,Casa Pia,11,2,5,17,19,47,18,2020,24,segunda_liga
