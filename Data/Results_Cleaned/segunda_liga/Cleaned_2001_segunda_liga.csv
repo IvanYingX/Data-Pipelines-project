@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Uniao Lamas,Nacional,2-1,/match/uniao-lamas/nacional/2001,2001,1,segunda_liga,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+FC Marco,CD Santa Clara,0-2,/match/fc-marco/santa-clara/2001,2001,1,segunda_liga,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Penafiel,Rio Ave,1-0,/match/penafiel/rio-ave/2001,2001,1,segunda_liga,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Espinho,Chaves,1-1,/match/espinho/chaves/2001,2001,1,segunda_liga,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Naval,FC Maia,3-3,/match/naval/fc-maia/2001,2001,1,segunda_liga,18,34,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Académica,FC Felgueiras,2-1,/match/academica/fc-felgueiras/2001,2001,1,segunda_liga,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória Setúbal,Imortal,3-2,/match/vitoria-setubal/imortal/2001,2001,1,segunda_liga,18,34,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Varzim,Leça FC,2-0,/match/varzim/leca/2001,2001,1,segunda_liga,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SC Freamunde,Ovarense,1-2,/match/sc-freamunde/ovarense/2001,2001,1,segunda_liga,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+CD Santa Clara,Penafiel,2-1,/match/santa-clara/penafiel/2001,2001,2,segunda_liga,18,34,0,2,1,7,1,0,0,2,0,L,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Leça FC,SC Freamunde,3-1,/match/leca/sc-freamunde/2001,2001,2,segunda_liga,18,34,0,3,1,16,0,0,1,0,2,W,0,0,0,0,0,17,0,0,1,1,2,L,0,0,0,0,0,,
+FC Felgueiras,Uniao Lamas,2-1,/match/fc-felgueiras/uniao-lamas/2001,2001,2,segunda_liga,18,34,0,2,1,13,0,0,1,1,2,W,0,0,0,0,0,5,1,0,0,2,1,W,0,0,0,0,0,,
+Nacional,FC Marco,3-2,/match/nacional/fc-marco/2001,2001,2,segunda_liga,18,34,0,3,2,15,0,0,1,1,2,W,0,0,0,0,0,18,0,0,1,0,2,L,0,0,0,0,0,,
+Rio Ave,Espinho,0-0,/match/rio-ave/espinho/2001,2001,2,segunda_liga,18,34,1,0,0,12,0,0,1,0,1,W,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
+Chaves,Naval,1-1,/match/chaves/naval/2001,2001,2,segunda_liga,18,34,1,1,1,10,0,1,0,1,1,D,0,0,0,0,0,8,0,1,0,3,3,D,0,0,0,0,0,,
+FC Maia,Vitória Setúbal,1-1,/match/fc-maia/vitoria-setubal/2001,2001,2,segunda_liga,18,34,1,1,1,11,0,1,0,3,3,D,0,0,0,0,0,3,1,0,0,3,2,W,0,0,0,0,0,,
+Ovarense,Académica,3-1,/match/ovarense/academica/2001,2001,2,segunda_liga,18,34,0,3,1,6,1,0,0,2,1,L,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
+Imortal,Varzim,1-1,/match/imortal/varzim/2001,2001,2,segunda_liga,18,34,1,1,1,14,0,0,1,2,3,W,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
+Uniao Lamas,Ovarense,2-1,/match/uniao-lamas/ovarense/2001,2001,3,segunda_liga,18,34,0,2,1,8,1,0,1,3,3,WW,1,0,0,2,1,1,2,0,0,5,2,LW,1,0,0,2,1,W,L
+Académica,Leça FC,2-1,/match/academica/leca/2001,2001,3,segunda_liga,18,34,0,2,1,5,1,0,1,3,4,WW,1,0,0,2,1,9,1,0,1,3,3,WW,0,0,1,0,2,W,W
+Vitória Setúbal,Varzim,0-1,/match/vitoria-setubal/varzim/2001,2001,3,segunda_liga,18,34,2,0,1,3,1,1,0,4,3,WD,1,0,0,3,2,4,1,1,0,3,1,WD,0,1,0,1,1,W,D
+SC Freamunde,Imortal,2-0,/match/sc-freamunde/imortal/2001,2001,3,segunda_liga,18,34,0,2,0,17,0,0,2,2,5,LW,0,0,1,1,2,16,0,1,1,3,4,WD,0,0,1,2,3,L,W
+FC Marco,FC Felgueiras,3-2,/match/fc-marco/fc-felgueiras/2001,2001,3,segunda_liga,18,34,0,3,2,18,0,0,2,2,5,LW,0,0,1,0,2,6,1,0,1,3,3,WW,0,0,1,1,2,L,W
+Penafiel,Nacional,3-1,/match/penafiel/nacional/2001,2001,3,segunda_liga,18,34,0,3,1,7,1,0,1,2,2,WW,1,0,0,1,0,10,1,0,1,4,4,WW,0,0,1,1,2,W,W
+Espinho,CD Santa Clara,2-2,/match/espinho/santa-clara/2001,2001,3,segunda_liga,18,34,1,2,2,13,0,2,0,1,1,DD,0,1,0,1,1,2,2,0,0,4,1,LW,1,0,0,2,0,D,L
+Naval,Rio Ave,2-1,/match/naval/rio-ave/2001,2001,3,segunda_liga,18,34,0,2,1,14,0,2,0,4,4,DD,0,1,0,3,3,15,0,1,1,0,1,WD,0,0,1,0,1,D,W
+FC Maia,Chaves,3-0,/match/fc-maia/chaves/2001,2001,3,segunda_liga,18,34,0,3,0,12,0,2,0,4,4,DD,0,1,0,1,1,11,0,2,0,2,2,DD,0,1,0,1,1,D,D
+CD Santa Clara,Naval,3-1,/match/santa-clara/naval/2001,2001,4,segunda_liga,18,34,0,3,1,7,2,1,0,6,3,LWD,1,0,0,2,1,6,1,2,0,6,5,DDW,0,1,0,1,1,W,D
+Imortal,Académica,0-0,/match/imortal/academica/2001,2001,4,segunda_liga,18,34,1,0,0,18,0,1,2,3,6,WDW,0,1,0,1,1,1,2,0,1,5,5,WWW,0,0,1,1,3,D,W
+Varzim,SC Freamunde,2-0,/match/varzim/sc-freamunde/2001,2001,4,segunda_liga,18,34,0,2,0,5,2,1,0,4,1,WDL,1,0,0,2,0,11,1,0,2,4,5,LWW,0,0,1,1,3,W,W
+Leça FC,Uniao Lamas,1-1,/match/leca/uniao-lamas/2001,2001,4,segunda_liga,18,34,1,1,1,13,1,0,2,4,5,WWW,1,0,0,3,1,3,2,0,1,5,4,WWW,0,0,1,1,2,W,W
+Ovarense,FC Marco,3-1,/match/ovarense/fc-marco/2001,2001,4,segunda_liga,18,34,0,3,1,8,2,0,1,6,4,LWW,1,0,0,3,1,15,1,0,2,5,7,LWW,0,0,1,2,3,W,W
+FC Felgueiras,Penafiel,1-1,/match/fc-felgueiras/penafiel/2001,2001,4,segunda_liga,18,34,1,1,1,14,1,0,2,5,6,WWW,1,0,0,2,1,2,2,0,1,5,3,WWW,0,0,1,1,2,W,W
+Nacional,Espinho,0-3,/match/nacional/espinho/2001,2001,4,segunda_liga,18,34,2,0,3,12,1,0,2,5,7,WWW,1,0,0,3,2,10,0,3,0,3,3,DDD,0,1,0,0,0,W,D
+Rio Ave,FC Maia,4-0,/match/rio-ave/fc-maia/2001,2001,4,segunda_liga,18,34,0,4,0,17,0,1,2,1,3,WDW,0,1,0,0,0,4,1,2,0,7,4,DDW,0,1,0,3,3,D,D
+Chaves,Vitória Setúbal,0-0,/match/chaves/vitoria-setubal/2001,2001,4,segunda_liga,18,34,1,0,0,16,0,2,1,2,5,DDW,0,1,0,1,1,9,1,1,1,4,4,WDL,0,1,0,1,1,D,D
+Chaves,Rio Ave,1-0,/match/chaves/rio-ave/2001,2001,5,segunda_liga,18,34,0,1,0,14,0,3,1,2,5,DDWD,0,2,0,1,1,13,1,1,2,5,3,WDWW,0,0,2,1,3,DD,WW
+Académica,Varzim,0-3,/match/academica/varzim/2001,2001,5,segunda_liga,18,34,2,0,3,4,2,1,1,5,5,WWWD,2,0,0,4,2,2,3,1,0,6,1,WDLW,1,1,0,2,1,WW,DL
+Vitória Setúbal,SC Freamunde,2-1,/match/vitoria-setubal/sc-freamunde/2001,2001,5,segunda_liga,18,34,0,2,1,10,1,2,1,4,4,WDLD,1,0,1,3,3,15,1,0,3,4,7,LWWW,0,0,2,1,5,WL,WW
+Uniao Lamas,Imortal,2-0,/match/uniao-lamas/imortal/2001,2001,5,segunda_liga,18,34,0,2,0,5,2,1,1,6,5,WWWD,2,0,0,4,2,18,0,2,2,3,6,WDWD,0,0,2,2,5,WW,WW
+FC Marco,Leça FC,2-1,/match/fc-marco/leca/2001,2001,5,segunda_liga,18,34,0,2,1,17,1,0,3,6,10,LWWW,1,0,1,3,4,11,1,1,2,5,6,WWWD,0,0,2,1,4,LW,WW
+Penafiel,Ovarense,2-0,/match/penafiel/ovarense/2001,2001,5,segunda_liga,18,34,0,2,0,6,2,1,1,6,4,WWWD,2,0,0,4,1,3,3,0,1,9,5,LWWW,1,0,1,3,3,WW,LW
+Espinho,FC Felgueiras,0-0,/match/espinho/fc-felgueiras/2001,2001,5,segunda_liga,18,34,1,0,0,7,1,3,0,6,3,DDDL,0,2,0,3,3,12,1,1,2,6,7,WWWD,0,0,2,3,5,DD,WW
+Naval,Nacional,0-1,/match/naval/nacional/2001,2001,5,segunda_liga,18,34,2,0,1,8,1,2,1,7,8,DDWW,1,1,0,5,4,16,1,0,3,5,10,WWWL,0,0,2,2,5,DW,WW
+FC Maia,CD Santa Clara,2-1,/match/fc-maia/santa-clara/2001,2001,5,segunda_liga,18,34,0,2,1,9,1,2,1,7,8,DDWW,1,1,0,4,1,1,3,1,0,9,4,LWDW,1,1,0,4,2,DW,LD
+CD Santa Clara,Chaves,2-0,/match/santa-clara/chaves/2001,2001,6,segunda_liga,18,34,0,2,0,4,3,1,1,10,6,LWDWW,2,0,0,5,2,10,1,3,1,3,5,DDWDW,0,1,1,1,4,WW,DW
+Nacional,FC Maia,2-2,/match/nacional/fc-maia/2001,2001,6,segunda_liga,18,34,1,2,2,16,2,0,3,6,10,WWWLL,1,0,1,3,5,5,2,2,1,9,9,DDWWW,0,1,1,3,7,WL,DW
+Rio Ave,Vitória Setúbal,2-1,/match/rio-ave/vitoria-setubal/2001,2001,6,segunda_liga,18,34,0,2,1,15,1,1,3,5,4,WDWWW,1,1,0,4,0,6,2,2,1,6,5,WDLDW,0,2,0,1,1,DW,DD
+SC Freamunde,Académica,1-0,/match/sc-freamunde/academica/2001,2001,6,segunda_liga,18,34,0,1,0,17,1,0,4,5,9,LWWWW,1,0,1,3,2,9,2,1,2,5,8,WWWDL,0,1,1,1,3,LW,WD
+Varzim,Uniao Lamas,2-0,/match/varzim/uniao-lamas/2001,2001,6,segunda_liga,18,34,0,2,0,2,4,1,0,9,1,WDLWL,2,0,0,4,0,3,3,1,1,8,5,WWWDW,0,1,1,2,3,WW,WD
+Imortal,FC Marco,1-1,/match/imortal/fc-marco/2001,2001,6,segunda_liga,18,34,1,1,1,18,0,2,3,3,8,WDWDW,0,2,0,1,1,11,2,0,3,8,11,LWWWW,0,0,2,3,6,DD,WW
+Leça FC,Penafiel,1-0,/match/leca/penafiel/2001,2001,6,segunda_liga,18,34,0,1,0,14,1,1,3,6,8,WWWDW,1,1,0,4,2,1,3,1,1,8,4,WWWDW,0,1,1,2,3,WD,WD
+Ovarense,Espinho,2-1,/match/ovarense/espinho/2001,2001,6,segunda_liga,18,34,0,2,1,7,3,0,2,9,7,LWWWW,2,0,0,6,2,8,1,4,0,6,3,DDDLD,1,1,0,3,0,WW,DL
+FC Felgueiras,Naval,0-1,/match/fc-felgueiras/naval/2001,2001,6,segunda_liga,18,34,2,0,1,13,1,2,2,6,7,WWWDD,1,1,0,3,2,12,1,2,2,7,9,DDWWL,0,1,1,2,4,WD,DW
+Rio Ave,CD Santa Clara,3-3,/match/rio-ave/santa-clara/2001,2001,7,segunda_liga,18,34,1,3,3,8,2,1,3,7,5,WDWWWW,2,1,0,6,1,2,4,1,1,12,6,LWDWWW,1,1,1,5,4,DWW,LDW
+Chaves,Nacional,0-0,/match/chaves/nacional/2001,2001,7,segunda_liga,18,34,1,0,0,11,1,3,2,3,7,DDWDWW,1,2,0,2,1,15,2,1,3,8,12,WWWLLD,1,0,2,3,5,DDW,WWL
+Espinho,Leça FC,4-0,/match/espinho/leca/2001,2001,7,segunda_liga,18,34,0,4,0,14,1,4,1,7,5,DDDLDW,0,3,0,3,3,9,2,1,3,7,8,WWWDWW,0,0,3,2,6,DDD,WWW
+Naval,Ovarense,1-0,/match/naval/ovarense/2001,2001,7,segunda_liga,18,34,0,1,0,10,2,2,2,8,9,DDWWLL,1,1,1,5,5,3,4,0,2,11,8,LWWWWW,1,0,2,3,5,DWL,LWW
+FC Maia,FC Felgueiras,1-0,/match/fc-maia/fc-felgueiras/2001,2001,7,segunda_liga,18,34,0,1,0,6,2,3,1,11,11,DDWWWD,2,1,0,6,2,17,1,2,3,6,8,WWWDDL,0,1,2,3,5,DWW,WWD
+Vitória Setúbal,Académica,1-2,/match/vitoria-setubal/academica/2001,2001,7,segunda_liga,18,34,2,1,2,7,2,2,2,7,7,WDLDWW,2,0,1,5,4,13,2,1,3,5,9,WWWDLW,0,1,2,1,4,WLW,WDW
+Uniao Lamas,SC Freamunde,3-0,/match/uniao-lamas/sc-freamunde/2001,2001,7,segunda_liga,18,34,0,3,0,5,3,1,2,8,7,WWWDWW,3,0,0,6,2,16,2,0,4,6,9,LWWWWW,0,0,3,2,7,WWW,WWW
+FC Marco,Varzim,0-0,/match/fc-marco/varzim/2001,2001,7,segunda_liga,18,34,1,0,0,12,2,1,3,9,12,LWWWWD,2,0,1,5,5,1,5,1,0,11,1,WDLWLW,2,1,0,5,1,LWW,DLL
+Penafiel,Imortal,2-1,/match/penafiel/imortal/2001,2001,7,segunda_liga,18,34,0,2,1,4,3,1,2,8,5,WWWDWW,3,0,0,6,1,18,0,3,3,4,9,WDWDWD,0,0,3,2,7,WWW,WWW
+CD Santa Clara,Vitória Setúbal,1-0,/match/santa-clara/vitoria-setubal/2001,2001,8,segunda_liga,18,34,0,1,0,4,4,2,1,15,9,LWDWWWD,3,0,0,7,2,14,2,2,3,8,9,WDLDWWL,0,2,1,2,3,WWW,DDW
+Imortal,Espinho,2-0,/match/imortal/espinho/2001,2001,8,segunda_liga,18,34,0,2,0,18,0,3,4,5,11,WDWDWDW,0,3,0,2,2,7,2,4,1,11,5,DDDLDWW,1,1,1,4,2,DDD,DLW
+Leça FC,Naval,0-2,/match/leca/naval/2001,2001,8,segunda_liga,18,34,2,0,2,13,2,1,4,7,12,WWWDWWW,2,1,0,5,2,8,3,2,2,9,9,DDWWLLW,1,1,1,3,4,WDW,DWL
+Ovarense,FC Maia,1-3,/match/ovarense/fc-maia/2001,2001,8,segunda_liga,18,34,2,1,3,6,4,0,3,11,9,LWWWWWW,3,0,0,8,3,5,3,3,1,12,11,DDWWWDW,0,2,1,5,9,WWW,DWD
+FC Felgueiras,Chaves,2-2,/match/fc-felgueiras/chaves/2001,2001,8,segunda_liga,18,34,1,2,2,17,1,2,4,6,9,WWWDDLW,1,1,1,3,3,10,1,4,2,3,7,DDWDWWD,0,1,2,1,6,WDL,DWW
+Nacional,Rio Ave,3-0,/match/nacional/rio-ave/2001,2001,8,segunda_liga,18,34,0,3,0,15,2,2,3,8,12,WWWLLDD,1,1,1,5,7,9,2,2,3,10,8,WDWWWWD,0,0,3,1,4,WLD,WWW
+Académica,Uniao Lamas,3-2,/match/academica/uniao-lamas/2001,2001,8,segunda_liga,18,34,0,3,2,12,3,1,3,7,10,WWWDLWL,2,0,1,4,5,3,4,1,2,11,7,WWWDWWW,0,1,2,2,5,WWL,WDW
+SC Freamunde,FC Marco,2-3,/match/sc-freamunde/fc-marco/2001,2001,8,segunda_liga,18,34,2,2,3,16,2,0,5,6,12,LWWWWWW,2,0,1,4,2,11,2,2,3,9,12,LWWWWDD,0,1,2,4,7,LWW,WWD
+Varzim,Penafiel,2-1,/match/varzim/penafiel/2001,2001,8,segunda_liga,18,34,0,2,1,1,5,2,0,11,1,WDLWLWD,3,0,0,6,0,2,4,1,2,10,6,WWWDWWW,0,1,2,2,4,WWW,WDW
+FC Marco,Académica,1-0,/match/fc-marco/academica/2001,2001,9,segunda_liga,18,34,0,1,0,11,3,2,3,12,14,LWWWWDDL,2,1,1,5,5,6,4,1,3,10,12,WWWDLWLW,1,1,2,3,5,LWWD,WDWL
+Vitória Setúbal,Uniao Lamas,4-1,/match/vitoria-setubal/uniao-lamas/2001,2001,9,segunda_liga,18,34,0,4,1,15,2,2,4,8,10,WDLDWWLW,2,0,2,6,6,4,4,1,3,13,10,WWWDWWWW,0,1,3,4,8,WLWL,WDWW
+Espinho,Varzim,0-2,/match/espinho/varzim/2001,2001,9,segunda_liga,18,34,2,0,2,9,2,4,2,11,7,DDDLDWWW,1,3,0,7,3,1,6,2,0,13,2,WDLWLWDW,2,2,0,5,1,DDDW,DLLD
+Naval,Imortal,1-0,/match/naval/imortal/2001,2001,9,segunda_liga,18,34,0,1,0,7,4,2,2,11,9,DDWWLLWL,2,1,1,6,5,16,1,3,4,7,11,WDWDWDWW,0,0,4,3,9,DWLW,WWWW
+FC Maia,Leça FC,4-0,/match/fc-maia/leca/2001,2001,9,segunda_liga,18,34,0,4,0,3,4,3,1,15,12,DDWWWDWL,3,1,0,7,2,14,2,1,5,7,14,WWWDWWWL,0,0,4,2,10,DWWW,WWWW
+Chaves,Ovarense,1-1,/match/chaves/ovarense/2001,2001,9,segunda_liga,18,34,1,1,1,12,1,5,2,5,9,DDWDWWDD,1,3,0,2,1,8,4,0,4,12,12,LWWWWWWL,1,0,3,3,6,DDWD,LWWW
+Rio Ave,FC Felgueiras,1-0,/match/rio-ave/fc-felgueiras/2001,2001,9,segunda_liga,18,34,0,1,0,13,2,2,4,10,11,WDWWWWDW,2,2,0,9,4,17,1,3,4,8,11,WWWDDLWD,0,1,3,3,6,DWWD,WWDW
+CD Santa Clara,Nacional,2-1,/match/santa-clara/nacional/2001,2001,9,segunda_liga,18,34,0,2,1,2,5,2,1,16,9,LWDWWWDW,4,0,0,8,2,10,3,2,3,11,12,WWWLLDDW,1,1,2,3,5,WWWW,WWLD
+Penafiel,SC Freamunde,1-0,/match/penafiel/sc-freamunde/2001,2001,9,segunda_liga,18,34,0,1,0,5,4,1,3,11,8,WWWDWWWW,4,0,0,8,2,18,2,0,6,8,15,LWWWWWWL,0,0,4,2,10,WWWW,WWWW
+Académica,Penafiel,2-3,/match/academica/penafiel/2001,2001,10,segunda_liga,18,34,2,2,3,9,4,1,4,10,13,WWWDLWLWW,3,0,1,7,7,4,5,1,3,12,8,WWWDWWWWW,0,1,3,3,6,WWLW,WDWW
+Uniao Lamas,FC Marco,2-0,/match/uniao-lamas/fc-marco/2001,2001,10,segunda_liga,18,34,0,2,0,6,4,1,4,14,14,WWWDWWWWW,4,0,0,9,2,7,4,2,3,13,14,LWWWWDDLW,1,1,2,7,9,WWWW,WWDL
+SC Freamunde,Espinho,3-1,/match/sc-freamunde/espinho/2001,2001,10,segunda_liga,18,34,0,3,1,18,2,0,7,8,16,LWWWWWWLW,2,0,2,6,5,14,2,4,3,11,9,DDDLDWWWL,1,1,2,4,4,LWWL,DLWW
+Varzim,Naval,4-1,/match/varzim/naval/2001,2001,10,segunda_liga,18,34,0,4,1,1,7,2,0,15,2,WDLWLWDWL,4,0,0,8,1,5,5,2,2,12,9,DDWWLLWLW,2,1,1,5,4,WWWW,DWLL
+Imortal,FC Maia,1-1,/match/imortal/fc-maia/2001,2001,10,segunda_liga,18,34,1,1,1,16,1,3,5,7,12,WDWDWDWWW,1,3,0,4,2,3,5,3,1,19,12,DDWWWDWLW,1,2,1,8,10,DDDW,DWDL
+Leça FC,Chaves,1-0,/match/leca/chaves/2001,2001,10,segunda_liga,18,34,0,1,0,15,2,1,6,7,18,WWWDWWWLW,2,1,1,5,4,12,1,6,2,6,10,DDWDWWDDD,0,2,2,3,8,WDWL,DWWD
+Ovarense,Rio Ave,1-3,/match/ovarense/rio-ave/2001,2001,10,segunda_liga,18,34,2,1,3,10,4,1,4,13,13,LWWWWWWLD,3,0,1,9,6,8,3,2,4,11,11,WDWWWWDWW,0,0,4,1,7,WWWL,WWWW
+FC Felgueiras,CD Santa Clara,4-1,/match/fc-felgueiras/santa-clara/2001,2001,10,segunda_liga,18,34,0,4,1,17,1,3,5,8,12,WWWDDLWDW,1,2,1,5,5,2,6,2,1,18,10,LWDWWWDWW,1,2,1,8,7,WDLD,LDWD
+Nacional,Vitória Setúbal,3-2,/match/nacional/vitoria-setubal/2001,2001,10,segunda_liga,18,34,0,3,2,13,3,2,4,12,14,WWWLLDDWW,2,1,1,8,7,11,3,2,4,12,11,WDLDWWLWW,0,2,2,2,4,WLDW,DDWW
+Nacional,FC Felgueiras,2-0,/match/nacional/fc-felgueiras/2001,2001,11,segunda_liga,18,34,0,2,0,9,4,2,4,15,16,WWWLLDDWWW,3,1,1,11,9,16,2,3,5,12,13,WWWDDLWDWW,0,1,4,3,7,WLDWW,WWDWW
+Espinho,Académica,1-1,/match/espinho/academica/2001,2001,11,segunda_liga,18,34,1,1,1,15,2,4,4,12,12,DDDLDWWWLW,1,3,1,7,5,11,4,1,5,12,16,WWWDLWLWWL,1,1,3,3,6,DDDWL,WDWLW
+Vitória Setúbal,FC Marco,4-2,/match/vitoria-setubal/fc-marco/2001,2001,11,segunda_liga,18,34,0,4,2,12,3,2,5,14,14,WDLDWWLWWW,3,0,2,10,7,8,4,2,4,13,16,LWWWWDDLWW,1,1,3,7,11,WLWLW,WWDLW
+Penafiel,Uniao Lamas,3-1,/match/penafiel/uniao-lamas/2001,2001,11,segunda_liga,18,34,0,3,1,4,6,1,3,15,10,WWWDWWWWWL,5,0,0,9,2,5,5,1,4,16,14,WWWDWWWWWW,0,1,4,5,12,WWWWW,WDWWW
+Naval,SC Freamunde,5-1,/match/naval/sc-freamunde/2001,2001,11,segunda_liga,18,34,0,5,1,6,5,2,3,13,13,DDWWLLWLWW,3,1,1,7,5,18,3,0,7,11,17,LWWWWWWLWW,0,0,5,2,11,DWLWW,WWWWW
+FC Maia,Varzim,0-2,/match/fc-maia/varzim/2001,2001,11,segunda_liga,18,34,2,0,2,3,5,4,1,20,13,DDWWWDWLWD,4,1,0,11,2,1,8,2,0,19,3,WDLWLWDWLW,3,2,0,7,1,DWWWW,DLLDL
+Chaves,Imortal,4-0,/match/chaves/imortal/2001,2001,11,segunda_liga,18,34,0,4,0,13,1,6,3,6,11,DDWDWWDDDW,1,4,0,3,2,17,1,4,5,8,13,WDWDWDWWWD,0,0,5,3,10,DDWDD,WWWWW
+Rio Ave,Leça FC,3-1,/match/rio-ave/leca/2001,2001,11,segunda_liga,18,34,0,3,1,7,4,2,4,14,12,WDWWWWDWWL,3,2,0,10,4,14,3,1,6,8,18,WWWDWWWLWW,0,0,5,2,14,DWWDW,WWWWW
+CD Santa Clara,Ovarense,2-0,/match/santa-clara/ovarense/2001,2001,11,segunda_liga,18,34,0,2,0,2,6,2,2,19,14,LWDWWWDWWW,5,0,0,10,3,10,4,1,5,14,16,LWWWWWWLDL,1,1,3,4,7,WWWWW,LWWWD
+Ovarense,Nacional,0-3,/match/ovarense/nacional/2001,2001,12,segunda_liga,18,34,2,0,3,14,4,1,6,14,18,LWWWWWWLDLW,3,0,2,10,9,8,5,2,4,17,16,WWWLLDDWWWW,1,1,3,4,7,WWWLL,WWLDW
+FC Felgueiras,Vitória Setúbal,0-1,/match/fc-felgueiras/vitoria-setubal/2001,2001,12,segunda_liga,18,34,2,0,1,16,2,3,6,12,15,WWWDDLWDWWW,2,2,1,9,6,9,4,2,5,18,16,WDLDWWLWWWW,0,2,3,4,7,WDLDW,DDWWW
+Académica,Naval,5-1,/match/academica/naval/2001,2001,12,segunda_liga,18,34,0,5,1,12,4,2,5,13,17,WWWDLWLWWLD,3,0,2,9,10,5,6,2,3,18,14,DDWWLLWLWWW,2,1,2,6,8,WWLWL,DWLLW
+FC Marco,Penafiel,2-1,/match/fc-marco/penafiel/2001,2001,12,segunda_liga,18,34,0,2,1,11,4,2,5,15,20,LWWWWDDLWWW,3,1,1,6,5,3,7,1,3,18,11,WWWDWWWWWLW,1,1,3,6,8,LWWDW,WDWWL
+Uniao Lamas,Espinho,2-3,/match/uniao-lamas/espinho/2001,2001,12,segunda_liga,18,34,2,2,3,7,5,1,5,17,17,WWWDWWWWWWW,5,0,0,11,2,13,2,5,4,13,13,DDDLDWWWLWD,1,1,3,5,7,WWWWW,DLWWW
+SC Freamunde,FC Maia,1-2,/match/sc-freamunde/fc-maia/2001,2001,12,segunda_liga,18,34,2,1,2,18,3,0,8,12,22,LWWWWWWLWWW,3,0,2,9,6,4,5,4,2,20,15,DDWWWDWLWDL,1,3,1,9,11,LWWLW,DWDLD
+Varzim,Chaves,1-1,/match/varzim/chaves/2001,2001,12,segunda_liga,18,34,1,1,1,1,9,2,0,21,3,WDLWLWDWLWL,5,0,0,12,2,10,2,6,3,10,11,DDWDWWDDDWW,0,2,3,3,9,WWWWW,DWWDW
+Imortal,Rio Ave,0-2,/match/imortal/rio-ave/2001,2001,12,segunda_liga,18,34,2,0,2,17,1,4,6,8,17,WDWDWDWWWDW,1,4,0,5,3,6,5,2,4,17,13,WDWWWWDWWLW,1,0,4,4,8,DDDWD,WWWWL
+Leça FC,CD Santa Clara,3-1,/match/leca/santa-clara/2001,2001,12,segunda_liga,18,34,0,3,1,15,3,1,7,9,21,WWWDWWWLWWW,3,1,1,6,4,2,7,2,2,21,14,LWDWWWDWWWW,1,2,2,9,11,WDWLW,LDWDW
+Rio Ave,Varzim,2-1,/match/rio-ave/varzim/2001,2001,13,segunda_liga,18,34,0,2,1,5,6,2,4,19,13,WDWWWWDWWLWL,4,2,0,13,5,1,9,3,0,22,4,WDLWLWDWLWLD,4,2,0,9,1,DWWDWW,DLLDLL
+CD Santa Clara,Imortal,3-0,/match/santa-clara/imortal/2001,2001,13,segunda_liga,18,34,0,3,0,2,7,2,3,22,17,LWDWWWDWWWWW,6,0,0,12,3,17,1,4,7,8,19,WDWDWDWWWDWL,0,0,6,3,14,WWWWWW,WWWWWW
+Nacional,Leça FC,2-1,/match/nacional/leca/2001,2001,13,segunda_liga,18,34,0,2,1,7,6,2,4,20,16,WWWLLDDWWWWL,4,1,1,13,9,13,4,1,7,12,22,WWWDWWWLWWWW,0,0,6,3,17,WLDWWW,WWWWWW
+FC Felgueiras,Ovarense,0-4,/match/fc-felgueiras/ovarense/2001,2001,13,segunda_liga,18,34,2,0,4,16,2,3,7,12,16,WWWDDLWDWWWL,2,2,2,9,7,15,4,1,7,14,21,LWWWWWWLDLWL,1,1,4,4,9,WDLDWL,LWWWDW
+Vitória Setúbal,Penafiel,2-1,/match/vitoria-setubal/penafiel/2001,2001,13,segunda_liga,18,34,0,2,1,11,5,2,5,19,16,WDLDWWLWWWWL,4,0,2,14,9,3,7,1,4,19,13,WWWDWWWWWLWW,1,1,4,7,10,WLWLWW,WDWWLW
+Espinho,FC Marco,0-1,/match/espinho/fc-marco/2001,2001,13,segunda_liga,18,34,2,0,1,14,3,5,4,16,15,DDDLDWWWLWDL,1,4,1,8,6,9,5,2,5,17,21,LWWWWDDLWWWW,1,1,4,9,15,DDDWLD,WWDLWW
+Naval,Uniao Lamas,1-2,/match/naval/uniao-lamas/2001,2001,13,segunda_liga,18,34,2,1,2,6,6,2,4,19,19,DDWWLLWLWWWW,4,1,1,12,6,8,5,1,6,19,20,WWWDWWWWWWWL,0,1,5,6,15,DWLWWW,WDWWWW
+FC Maia,Académica,1-2,/match/fc-maia/academica/2001,2001,13,segunda_liga,18,34,2,1,2,4,6,4,2,22,16,DDWWWDWLWDLL,4,1,1,11,4,10,5,2,5,18,18,WWWDLWLWWLDW,1,2,3,4,7,DWWWWL,WDWLWD
+Chaves,SC Freamunde,0-0,/match/chaves/sc-freamunde/2001,2001,13,segunda_liga,18,34,1,0,0,12,2,7,3,11,12,DDWDWWDDDWWD,2,4,0,7,2,18,3,0,9,13,24,LWWWWWWLWWWL,0,0,6,3,16,DDWDDW,WWWWWW
+Académica,Chaves,0-1,/match/academica/chaves/2001,2001,14,segunda_liga,18,34,2,0,1,11,6,2,5,20,19,WWWDLWLWWLDWL,4,0,2,14,11,12,2,8,3,11,12,DDWDWWDDDWWDD,0,3,3,4,10,WWLWLW,DWWDWD
+SC Freamunde,Rio Ave,2-2,/match/sc-freamunde/rio-ave/2001,2001,14,segunda_liga,18,34,1,2,2,17,3,1,9,13,24,LWWWWWWLWWWLD,3,0,3,10,8,3,7,2,4,21,14,WDWWWWDWWLWLW,2,0,4,6,8,LWWLWL,WWWWLL
+Varzim,CD Santa Clara,0-1,/match/varzim/santa-clara/2001,2001,14,segunda_liga,18,34,2,0,1,1,9,3,1,23,6,WDLWLWDWLWLDW,5,1,0,13,3,2,8,2,3,25,17,LWDWWWDWWWWWW,1,2,3,10,14,WWWWWD,LDWDWW
+Imortal,Nacional,1-2,/match/imortal/nacional/2001,2001,14,segunda_liga,18,34,2,1,2,18,1,4,8,8,22,WDWDWDWWWDWLW,1,4,1,5,5,5,7,2,4,22,17,WWWLLDDWWWWLW,2,1,3,7,7,DDDWDL,WWLDWL
+Leça FC,FC Felgueiras,1-1,/match/leca/fc-felgueiras/2001,2001,14,segunda_liga,18,34,1,1,1,13,4,1,8,13,24,WWWDWWWLWWWWW,4,1,1,9,5,16,2,3,8,12,20,WWWDDLWDWWWLL,0,1,5,3,9,WDWLWW,WWDWWW
+Ovarense,Vitória Setúbal,3-1,/match/ovarense/vitoria-setubal/2001,2001,14,segunda_liga,18,34,0,3,1,15,5,1,7,18,21,LWWWWWWLDLWLL,3,0,3,10,12,7,6,2,5,21,17,WDLDWWLWWWWLW,1,2,3,5,7,WWWLLL,DDWWWL
+Penafiel,Espinho,1-1,/match/penafiel/espinho/2001,2001,14,segunda_liga,18,34,1,1,1,4,7,1,5,20,15,WWWDWWWWWLWWW,6,0,0,12,3,14,3,5,5,16,16,DDDLDWWWLWDLL,2,1,3,8,9,WWWWWW,DLWWWL
+FC Marco,Naval,0-3,/match/fc-marco/naval/2001,2001,14,segunda_liga,18,34,2,0,3,10,6,2,5,18,21,LWWWWDDLWWWWL,4,1,1,8,6,8,6,2,5,20,21,DDWWLLWLWWWWL,2,1,3,7,13,LWWDWW,DWLLWW
+Uniao Lamas,FC Maia,1-1,/match/uniao-lamas/fc-maia/2001,2001,14,segunda_liga,18,34,1,1,1,9,6,1,6,21,21,WWWDWWWWWWWLL,5,0,1,13,5,6,6,4,3,23,18,DDWWWDWLWDLLL,2,3,1,11,12,WWWWWL,DWDLDL
+Naval,Penafiel,0-2,/match/naval/penafiel/2001,2001,15,segunda_liga,18,34,2,0,2,7,7,2,5,23,21,DDWWLLWLWWWWLL,4,1,2,13,8,4,7,2,5,21,16,WWWDWWWWWLWWWD,1,1,5,8,12,DWLWWWL,WDWWLWW
+FC Maia,FC Marco,2-1,/match/fc-maia/fc-marco/2001,2001,15,segunda_liga,18,34,0,2,1,6,6,5,3,24,19,DDWWWDWLWDLLLD,4,1,2,12,6,11,6,2,6,18,24,LWWWWDDLWWWWLL,2,1,4,10,15,DWWWWLL,WWDLWWL
+Chaves,Uniao Lamas,1-2,/match/chaves/uniao-lamas/2001,2001,15,segunda_liga,18,34,2,1,2,10,3,8,3,12,12,DDWDWWDDDWWDDL,2,5,0,7,2,8,6,2,6,22,22,WWWDWWWWWWWLLD,1,1,5,8,16,DDWDDWD,WDWWWWL
+CD Santa Clara,SC Freamunde,2-0,/match/santa-clara/sc-freamunde/2001,2001,15,segunda_liga,18,34,0,2,0,1,9,2,3,26,17,LWDWWWDWWWWWWL,7,0,0,15,3,16,3,2,9,15,26,LWWWWWWLWWWLDD,0,1,6,3,16,WWWWWWW,WWWWWWD
+Nacional,Varzim,4-2,/match/nacional/varzim/2001,2001,15,segunda_liga,18,34,0,4,2,5,8,2,4,24,18,WWWLLDDWWWWLWL,5,1,1,15,10,2,9,3,2,23,7,WDLWLWDWLWLDWL,4,2,1,10,3,WLDWWWW,DLLDLLW
+FC Felgueiras,Imortal,0-0,/match/fc-felgueiras/imortal/2001,2001,15,segunda_liga,18,34,1,0,0,17,2,4,8,13,21,WWWDDLWDWWWLLD,2,2,3,9,11,18,1,4,9,9,24,WDWDWDWWWDWLWL,0,0,7,3,17,WDLDWLL,WWWWWWW
+Ovarense,Leça FC,1-2,/match/ovarense/leca/2001,2001,15,segunda_liga,18,34,2,1,2,13,6,1,7,21,22,LWWWWWWLDLWLLW,4,0,3,13,13,14,4,2,8,14,25,WWWDWWWLWWWWWD,0,0,7,4,19,WWWLLLW,WWWWWWW
+Rio Ave,Académica,6-0,/match/rio-ave/academica/2001,2001,15,segunda_liga,18,34,0,6,0,3,7,3,4,23,16,WDWWWWDWWLWLWD,5,2,0,15,6,12,6,2,6,20,20,WWWDLWLWWLDWLL,2,2,3,6,8,DWWDWWW,WDWLWDL
+Vitória Setúbal,Espinho,1-0,/match/vitoria-setubal/espinho/2001,2001,15,segunda_liga,18,34,0,1,0,9,6,2,6,22,20,WDLDWWLWWWWLWW,5,0,2,16,10,15,3,6,5,17,17,DDDLDWWWLWDLLD,2,2,3,9,10,WLWLWWW,DLWWWLD
+Espinho,Naval,1-0,/match/espinho/naval/2001,2001,16,segunda_liga,18,34,0,1,0,15,3,6,6,17,18,DDDLDWWWLWDLLDW,1,4,2,8,7,9,7,2,6,23,23,DDWWLLWLWWWWLLL,3,1,3,10,13,DDDWLDL,DWLLWWL
+Penafiel,FC Maia,0-0,/match/penafiel/fc-maia/2001,2001,16,segunda_liga,18,34,1,0,0,5,8,2,5,23,16,WWWDWWWWWLWWWDL,6,1,0,13,4,6,7,5,3,26,20,DDWWWDWLWDLLLDW,2,4,1,12,13,WWWWWWD,DWDLDLD
+FC Marco,Chaves,0-1,/match/fc-marco/chaves/2001,2001,16,segunda_liga,18,34,2,0,1,10,6,2,7,19,26,LWWWWDDLWWWWLLW,4,1,2,8,9,11,3,8,4,13,14,DDWDWWDDDWWDDLL,1,3,3,5,10,LWWDWWL,DWWDWDL
+Uniao Lamas,Rio Ave,1-1,/match/uniao-lamas/rio-ave/2001,2001,16,segunda_liga,18,34,1,1,1,8,7,2,6,24,23,WWWDWWWWWWWLLDL,5,1,1,14,6,2,8,3,4,29,16,WDWWWWDWWLWLWDW,2,1,4,8,10,WWWWWLD,WWWWLLD
+Académica,CD Santa Clara,1-1,/match/academica/santa-clara/2001,2001,16,segunda_liga,18,34,1,1,1,12,6,2,7,20,26,WWWDLWLWWLDWLLW,4,0,3,14,12,1,10,2,3,28,17,LWDWWWDWWWWWWLW,2,2,3,11,14,WWLWLWL,LDWDWWL
+SC Freamunde,Nacional,2-2,/match/sc-freamunde/nacional/2001,2001,16,segunda_liga,18,34,1,2,2,17,3,2,10,15,28,LWWWWWWLWWWLDDW,3,1,3,12,10,3,9,2,4,28,20,WWWLLDDWWWWLWLW,3,1,3,9,8,LWWLWLD,WWLDWLL
+Varzim,FC Felgueiras,2-1,/match/varzim/fc-felgueiras/2001,2001,16,segunda_liga,18,34,0,2,1,4,9,3,3,25,11,WDLWLWDWLWLDWLW,5,1,1,13,4,16,2,5,8,13,21,WWWDDLWDWWWLLDD,0,2,5,4,10,WWWWWDL,WWDWWWD
+Imortal,Ovarense,1-0,/match/imortal/ovarense/2001,2001,16,segunda_liga,18,34,0,1,0,18,1,5,9,9,24,WDWDWDWWWDWLWLD,1,4,2,6,7,14,6,1,8,22,24,LWWWWWWLDLWLLWL,2,1,4,8,9,DDDWDLL,LWWWDWL
+Vitória Setúbal,Leça FC,1-1,/match/vitoria-setubal/leca/2001,2001,16,segunda_liga,18,34,1,1,1,7,7,2,6,23,20,WDLDWWLWWWWLWWW,6,0,2,17,10,13,5,2,8,16,26,WWWDWWWLWWWWWDL,1,0,7,6,20,WLWLWWWW,WWWWWWWL
+Naval,Vitória Setúbal,2-3,/match/naval/vitoria-setubal/2001,2001,17,segunda_liga,18,34,2,2,3,9,7,2,7,23,24,DDWWLLWLWWWWLLLW,4,1,3,13,10,7,7,3,6,24,21,WDLDWWLWWWWLWWWD,1,2,4,6,10,DWLWWWLL,DDWWWLW
+FC Maia,Espinho,2-1,/match/fc-maia/espinho/2001,2001,17,segunda_liga,18,34,0,2,1,6,7,6,3,26,20,DDWWWDWLWDLLLDWD,5,1,2,14,7,14,4,6,6,18,18,DDDLDWWWLWDLLDWW,2,2,4,9,11,DWWWWLLW,DLWWWLDW
+Chaves,Penafiel,0-1,/match/chaves/penafiel/2001,2001,17,segunda_liga,18,34,2,0,1,10,4,8,4,14,14,DDWDWWDDDWWDDLLL,2,5,1,8,4,5,8,3,5,23,16,WWWDWWWWWLWWWDLD,2,1,5,10,12,DDWDDWDL,WDWWLWWL
+Rio Ave,FC Marco,4-1,/match/rio-ave/fc-marco/2001,2001,17,segunda_liga,18,34,0,4,1,4,8,4,4,30,17,WDWWWWDWWLWLWDWD,6,2,0,21,6,13,6,2,8,19,27,LWWWWDDLWWWWLLWL,2,1,5,11,17,DWWDWWWW,WWDLWWLW
+CD Santa Clara,Uniao Lamas,4-0,/match/santa-clara/uniao-lamas/2001,2001,17,segunda_liga,18,34,0,4,0,1,10,3,3,29,18,LWDWWWDWWWWWWLWD,8,0,0,17,3,8,7,3,6,25,24,WWWDWWWWWWWLLDLD,2,1,5,10,17,WWWWWWWW,WDWWWWLL
+Nacional,Académica,2-1,/match/nacional/academica/2001,2001,17,segunda_liga,18,34,0,2,1,3,9,3,4,30,22,WWWLLDDWWWWLWLWD,6,1,1,19,12,11,6,3,7,21,27,WWWDLWLWWLDWLLWD,2,2,4,6,14,WLDWWWWW,WDWLWDLW
+FC Felgueiras,SC Freamunde,2-0,/match/fc-felgueiras/sc-freamunde/2001,2001,17,segunda_liga,18,34,0,2,0,18,2,5,9,14,23,WWWDDLWDWWWLLDDW,2,3,3,9,11,16,3,3,10,17,30,LWWWWWWLWWWLDDWD,0,1,7,3,18,WDLDWLLD,WWWWWWDW
+Ovarense,Varzim,2-0,/match/ovarense/varzim/2001,2001,17,segunda_liga,18,34,0,2,0,15,6,1,9,22,25,LWWWWWWLDLWLLWLW,4,0,4,14,15,2,10,3,3,27,12,WDLWLWDWLWLDWLWW,4,2,2,12,7,WWWLLLWL,DLLDLLWW
+Leça FC,Imortal,1-0,/match/leca/imortal/2001,2001,17,segunda_liga,18,34,0,1,0,12,5,3,8,17,27,WWWDWWWLWWWWWDLD,4,2,1,10,6,17,2,5,9,10,24,WDWDWDWWWDWLWLDW,0,1,7,3,17,WDWLWWD,WWWWWWWD
+Chaves,Espinho,3-3,/match/chaves/espinho/2001,2001,18,segunda_liga,18,34,1,3,3,11,4,8,5,14,15,DDWDWWDDDWWDDLLLL,2,5,2,8,5,15,4,6,7,19,20,DDDLDWWWLWDLLDWWW,2,2,5,10,13,DDWDDWDLL,DLWWWLDWW
+FC Maia,Naval,1-0,/match/fc-maia/naval/2001,2001,18,segunda_liga,18,34,0,1,0,6,8,6,3,28,21,DDWWWDWLWDLLLDWDW,6,1,2,16,8,12,7,2,8,25,27,DDWWLLWLWWWWLLLWL,3,1,4,10,14,DWWWWLLWW,DWLLWWLW
+Imortal,Vitória Setúbal,1-1,/match/imortal/vitoria-setubal/2001,2001,18,segunda_liga,18,34,1,1,1,18,2,5,10,10,25,WDWDWDWWWDWLWLDWW,2,4,2,7,7,7,8,3,6,27,23,WDLDWWLWWWWLWWWDL,2,2,4,9,12,DDDWDLLW,DDWWWLWL
+Leça FC,Varzim,2-0,/match/leca/varzim/2001,2001,18,segunda_liga,18,34,0,2,0,9,6,3,8,18,27,WWWDWWWLWWWWWDLDW,5,2,1,11,6,4,10,3,4,27,14,WDLWLWDWLWLDWLWWW,4,2,3,12,9,WDWLWWDW,DLLDLLWWW
+Ovarense,SC Freamunde,2-0,/match/ovarense/sc-freamunde/2001,2001,18,segunda_liga,18,34,0,2,0,10,7,1,9,24,25,LWWWWWWLDLWLLWLWW,5,0,4,16,15,17,3,3,11,17,32,LWWWWWWLWWWLDDWDW,0,1,8,3,20,WWWLLLWLW,WWWWWWDWW
+FC Felgueiras,Académica,0-0,/match/fc-felgueiras/academica/2001,2001,18,segunda_liga,18,34,1,0,0,16,3,5,9,16,23,WWWDDLWDWWWLLDDWW,3,3,3,11,11,13,6,3,8,22,29,WWWDLWLWWLDWLLWDW,2,2,5,7,16,WDLDWLLDW,WDWLWDLWW
+Nacional,Uniao Lamas,4-1,/match/nacional/uniao-lamas/2001,2001,18,segunda_liga,18,34,0,4,1,2,10,3,4,32,23,WWWLLDDWWWWLWLWDW,7,1,1,21,13,8,7,3,7,25,28,WWWDWWWWWWWLLDLDW,2,1,6,10,21,WLDWWWWWW,WDWWWWLLW
+CD Santa Clara,FC Marco,5-1,/match/santa-clara/fc-marco/2001,2001,18,segunda_liga,18,34,0,5,1,1,11,3,3,33,18,LWDWWWDWWWWWWLWDW,9,0,0,21,3,14,6,2,9,20,31,LWWWWDDLWWWWLLWLW,2,1,6,12,21,WWWWWWWWW,WWDLWWLWW
+Rio Ave,Penafiel,3-0,/match/rio-ave/penafiel/2001,2001,18,segunda_liga,18,34,0,3,0,3,9,4,4,34,18,WDWWWWDWWLWLWDWDW,7,2,0,25,7,5,9,3,5,24,16,WWWDWWWWWLWWWDLDL,3,1,5,11,12,DWWDWWWWW,WDWWLWWLL
+Académica,Ovarense,3-1,/match/academica/ovarense/2001,2001,19,segunda_liga,18,34,0,3,1,13,6,4,8,22,29,WWWDLWLWWLDWLLWDWD,4,1,3,15,13,9,8,1,9,26,25,LWWWWWWLDLWLLWLWWW,2,1,5,8,10,WWLWLWLD,LWWWDWLW
+Naval,Chaves,1-0,/match/naval/chaves/2001,2001,19,segunda_liga,18,34,0,1,0,12,7,2,9,25,28,DDWWLLWLWWWWLLLWLW,4,1,4,15,13,11,4,9,5,17,18,DDWDWWDDDWWDDLLLLD,2,3,3,6,10,DWLWWWLLL,DWWDWDLL
+Vitória Setúbal,FC Maia,3-2,/match/vitoria-setubal/fc-maia/2001,2001,19,segunda_liga,18,34,0,3,2,7,8,4,6,28,24,WDLDWWLWWWWLWWWDLD,6,1,2,18,11,4,9,6,3,29,21,DDWWWDWLWDLLLDWDWW,2,5,1,12,13,WLWLWWWWD,DWDLDLDD
+Varzim,Imortal,1-0,/match/varzim/imortal/2001,2001,19,segunda_liga,18,34,0,1,0,5,10,3,5,27,16,WDLWLWDWLWLDWLWWWW,6,1,1,15,5,17,2,6,10,11,26,WDWDWDWWWDWLWLDWWD,0,1,8,3,18,WWWWWDLW,WWWWWWWDW
+SC Freamunde,Leça FC,0-1,/match/sc-freamunde/leca/2001,2001,19,segunda_liga,18,34,2,0,1,18,3,3,12,17,34,LWWWWWWLWWWLDDWDWW,3,2,3,14,12,8,7,3,8,20,27,WWWDWWWLWWWWWDLDWW,1,1,7,7,21,LWWLWLDD,WWWWWWWLD
+Uniao Lamas,FC Felgueiras,4-1,/match/uniao-lamas/fc-felgueiras/2001,2001,19,segunda_liga,18,34,0,4,1,10,7,3,8,26,32,WWWDWWWWWWWLLDLDWW,5,2,1,15,7,16,3,6,9,16,23,WWWDDLWDWWWLLDDWWD,0,2,6,5,12,WWWWWLDD,WWDWWWDW
+FC Marco,Nacional,2-2,/match/fc-marco/nacional/2001,2001,19,segunda_liga,18,34,1,2,2,14,6,2,10,21,36,LWWWWDDLWWWWLLWLWW,4,1,3,8,10,3,11,3,4,36,24,WWWLLDDWWWWLWLWDWW,3,2,3,11,10,LWWDWWLL,WWLDWLLD
+Penafiel,CD Santa Clara,2-1,/match/penafiel/santa-clara/2001,2001,19,segunda_liga,18,34,0,2,1,6,9,3,6,24,19,WWWDWWWWWLWWWDLDLW,6,2,0,13,4,1,12,3,3,38,19,LWDWWWDWWWWWWLWDWW,2,3,3,12,15,WWWWWWDD,LDWDWWLD
+Espinho,Rio Ave,0-1,/match/espinho/rio-ave/2001,2001,19,segunda_liga,18,34,2,0,1,15,4,7,7,22,23,DDDLDWWWLWDLLDWWWD,2,4,2,9,7,2,10,4,4,37,18,WDWWWWDWWLWLWDWDWW,2,2,4,9,11,DDDWLDLW,WWWWLLDD
+FC Felgueiras,FC Marco,4-0,/match/fc-felgueiras/fc-marco/2001,2001,20,segunda_liga,18,34,0,4,0,16,3,6,10,17,27,WWWDDLWDWWWLLDDWWDW,3,4,3,11,11,14,6,3,10,23,38,LWWWWDDLWWWWLLWLWWD,2,1,7,13,26,WDLDWLLDWD,WWDLWWLWWW
+Nacional,Penafiel,0-2,/match/nacional/penafiel/2001,2001,20,segunda_liga,18,34,2,0,2,3,11,4,4,38,26,WWWLLDDWWWWLWLWDWWD,8,1,1,25,14,6,10,3,6,26,20,WWWDWWWWWLWWWDLDLWW,3,1,6,11,15,WLDWWWWWWW,WDWWLWWLLW
+CD Santa Clara,Espinho,2-0,/match/santa-clara/espinho/2001,2001,20,segunda_liga,18,34,0,2,0,1,12,3,4,39,21,LWDWWWDWWWWWWLWDWWW,10,0,0,26,4,15,4,7,8,22,24,DDDLDWWWLWDLLDWWWDL,2,3,5,13,16,WWWWWWWWWW,DLWWWLDWWD
+Rio Ave,Naval,1-1,/match/rio-ave/naval/2001,2001,20,segunda_liga,18,34,1,1,1,2,11,4,4,38,18,WDWWWWDWWLWLWDWDWWL,8,2,0,28,7,11,8,2,9,26,28,DDWWLLWLWWWWLLLWLWW,3,1,5,10,15,DWWDWWWWWW,DWLLWWLWW
+Chaves,FC Maia,1-1,/match/chaves/fc-maia/2001,2001,20,segunda_liga,18,34,1,1,1,13,4,9,6,17,19,DDWDWWDDDWWDDLLLLDW,2,6,2,11,8,5,9,6,4,31,24,DDWWWDWLWDLLLDWDWWW,2,5,2,14,16,DDWDDWDLLD,DWDLDLDDW
+Varzim,Vitória Setúbal,1-0,/match/varzim/vitoria-setubal/2001,2001,20,segunda_liga,18,34,0,1,0,4,11,3,5,28,16,WDLWLWDWLWLDWLWWWWW,7,1,1,16,5,7,9,4,6,31,26,WDLDWWLWWWWLWWWDLDW,2,3,4,10,13,WWWWWDLWW,DDWWWLWLD
+Imortal,SC Freamunde,2-0,/match/imortal/sc-freamunde/2001,2001,20,segunda_liga,18,34,0,2,0,17,2,6,11,11,27,WDWDWDWWWDWLWLDWWDW,2,5,2,8,8,18,3,3,13,17,35,LWWWWWWLWWWLDDWDWWL,0,1,9,3,22,DDDWDLLWD,WWWWWWDWWW
+Leça FC,Académica,2-3,/match/leca/academica/2001,2001,20,segunda_liga,18,34,2,2,3,9,8,3,8,21,27,WWWDWWWLWWWWWDLDWWL,6,2,1,13,6,12,7,4,8,25,30,WWWDLWLWWLDWLLWDWDW,2,3,5,7,16,WDWLWWDWW,WDWLWDLWWD
+Ovarense,Uniao Lamas,0-1,/match/ovarense/uniao-lamas/2001,2001,20,segunda_liga,18,34,2,0,1,10,8,1,10,27,28,LWWWWWWLDLWLLWLWWWW,6,0,4,18,15,8,8,3,8,30,33,WWWDWWWWWWWLLDLDWWW,2,1,7,11,25,WWWLLLWLWW,WDWWWWLLWW
+Académica,Imortal,2-1,/match/academica/imortal/2001,2001,21,segunda_liga,18,34,0,2,1,10,8,4,8,28,32,WWWDLWLWWLDWLLWDWDWL,5,1,3,18,14,17,3,6,11,13,27,WDWDWDWWWDWLWLDWWDWW,0,1,9,3,19,WWLWLWLDW,WWWWWWWDWW
+FC Marco,Ovarense,4-0,/match/fc-marco/ovarense/2001,2001,21,segunda_liga,18,34,0,4,0,15,6,3,11,23,42,LWWWWDDLWWWWLLWLWWDW,4,2,3,10,12,13,8,1,11,27,29,LWWWWWWLDLWLLWLWWWWL,2,1,6,9,13,LWWDWWLLD,LWWWDWLWW
+Penafiel,FC Felgueiras,1-1,/match/penafiel/fc-felgueiras/2001,2001,21,segunda_liga,18,34,1,1,1,5,11,3,6,28,20,WWWDWWWWWLWWWDLDLWWL,7,2,0,15,5,14,4,6,10,21,27,WWWDDLWDWWWLLDDWWDWW,0,2,7,6,16,WWWWWWDDW,WWDWWWDWW
+Espinho,Nacional,0-0,/match/espinho/nacional/2001,2001,21,segunda_liga,18,34,1,0,0,16,4,7,9,22,26,DDDLDWWWLWDLLDWWWDLW,2,4,3,9,8,4,11,4,5,38,28,WWWLLDDWWWWLWLWDWWDL,3,3,3,13,12,DDDWLDLWL,WWLDWLLDD
+Naval,CD Santa Clara,5-1,/match/naval/santa-clara/2001,2001,21,segunda_liga,18,34,0,5,1,11,8,3,9,27,29,DDWWLLWLWWWWLLLWLWWD,5,1,4,16,13,1,13,3,4,41,21,LWDWWWDWWWWWWLWDWWWW,2,3,4,13,17,DWLWWWLLLW,LDWDWWLDW
+FC Maia,Rio Ave,1-0,/match/fc-maia/rio-ave/2001,2001,21,segunda_liga,18,34,0,1,0,6,9,7,4,32,25,DDWWWDWLWDLLLDWDWWWD,7,1,2,17,8,2,11,5,4,39,19,WDWWWWDWWLWLWDWDWWLD,3,2,4,10,11,DWWWWLLWWW,WWWWLLDDL
+Vitória Setúbal,Chaves,7-1,/match/vitoria-setubal/chaves/2001,2001,21,segunda_liga,18,34,0,7,1,7,9,4,7,31,27,WDLDWWLWWWWLWWWDLDWW,7,1,2,21,13,12,4,10,6,18,20,DDWDWWDDDWWDDLLLLDWD,2,3,4,6,11,WLWLWWWWDW,DWWDWDLLW
+SC Freamunde,Varzim,1-2,/match/sc-freamunde/varzim/2001,2001,21,segunda_liga,18,34,2,1,2,18,3,3,14,17,37,LWWWWWWLWWWLDDWDWWLW,3,2,4,14,13,3,12,3,5,29,16,WDLWLWDWLWLDWLWWWWWW,4,2,4,12,11,LWWLWLDDL,DLLDLLWWWW
+Uniao Lamas,Leça FC,1-2,/match/uniao-lamas/leca/2001,2001,21,segunda_liga,18,34,2,1,2,8,9,3,8,31,33,WWWDWWWWWWWLLDLDWWWL,6,2,1,19,8,9,8,3,9,23,30,WWWDWWWLWWWWWDLDWWLL,2,1,7,8,21,WWWWWLDDW,WWWWWWWLDL
+Ovarense,Penafiel,0-0,/match/ovarense/penafiel/2001,2001,22,segunda_liga,18,34,1,0,0,13,8,1,12,27,33,LWWWWWWLDLWLLWLWWWWLW,6,0,5,18,16,6,11,4,6,29,21,WWWDWWWWWLWWWDLDLWWLD,4,1,6,13,15,WWWLLLWLWWL,WDWWLWWLLWL
+Rio Ave,Chaves,1-1,/match/rio-ave/chaves/2001,2001,22,segunda_liga,18,34,1,1,1,3,11,5,5,39,20,WDWWWWDWWLWLWDWDWWLDW,8,3,0,29,8,12,4,10,7,19,27,DDWDWWDDDWWDDLLLLDWDW,2,3,5,7,18,DWWDWWWWWWD,DWWDWDLLWW
+Varzim,Académica,5-1,/match/varzim/academica/2001,2001,22,segunda_liga,18,34,0,5,1,2,13,3,5,31,17,WDLWLWDWLWLDWLWWWWWWL,8,1,1,17,5,9,9,4,8,30,33,WWWDLWLWWLDWLLWDWDWLW,3,3,5,10,18,WWWWWDLWWW,WDWLWDLWWDL
+Imortal,Uniao Lamas,1-2,/match/imortal/uniao-lamas/2001,2001,22,segunda_liga,18,34,2,1,2,17,3,6,12,14,29,WDWDWDWWWDWLWLDWWDWWW,3,5,2,10,8,10,9,3,9,32,35,WWWDWWWWWWWLLDLDWWWLL,3,1,7,12,25,DDDWDLLWDW,WDWWWWLLWWL
+Leça FC,FC Marco,2-1,/match/leca/fc-marco/2001,2001,22,segunda_liga,18,34,0,2,1,8,9,3,9,25,31,WWWDWWWLWWWWWDLDWWLLL,6,2,2,15,9,14,7,3,11,27,42,LWWWWDDLWWWWLLWLWWDWW,2,1,8,13,30,WDWLWWDWWL,WWDLWWLWWWW
+FC Felgueiras,Espinho,1-0,/match/fc-felgueiras/espinho/2001,2001,22,segunda_liga,18,34,0,1,0,15,4,7,10,22,28,WWWDDLWDWWWLLDDWWDWWD,4,4,3,15,11,16,4,8,9,22,26,DDDLDWWWLWDLLDWWWDLWD,2,3,6,13,18,WDLDWLLDWDW,DLWWWLDWWDW
+Nacional,Naval,0-4,/match/nacional/naval/2001,2001,22,segunda_liga,18,34,2,0,4,4,11,5,5,38,28,WWWLLDDWWWWLWLWDWWDLD,8,1,2,25,16,11,9,3,9,32,30,DDWWLLWLWWWWLLLWLWWDW,3,2,5,11,16,WLDWWWWWWWL,DWLLWWLWWD
+CD Santa Clara,FC Maia,1-0,/match/santa-clara/fc-maia/2001,2001,22,segunda_liga,18,34,0,1,0,1,13,3,5,42,26,LWDWWWDWWWWWWLWDWWWWW,11,0,0,28,4,5,10,7,4,33,25,DDWWWDWLWDLLLDWDWWWDW,2,6,2,15,17,WWWWWWWWWWW,DWDLDLDDWD
+SC Freamunde,Vitória Setúbal,1-2,/match/sc-freamunde/vitoria-setubal/2001,2001,22,segunda_liga,18,34,2,1,2,18,3,3,15,18,39,LWWWWWWLWWWLDDWDWWLWL,3,2,5,15,15,7,10,4,7,38,28,WDLDWWLWWWWLWWWDLDWWW,2,3,5,10,14,LWWLWLDDLL,DDWWWLWLDW
+Académica,SC Freamunde,0-1,/match/academica/sc-freamunde/2001,2001,23,segunda_liga,18,34,2,0,1,11,9,4,9,31,38,WWWDLWLWWLDWLLWDWDWLWW,6,1,3,20,15,18,3,3,16,19,41,LWWWWWWLWWWLDDWDWWLWLL,0,1,10,3,24,WWLWLWLDWW,WWWWWWDWWWW
+Uniao Lamas,Varzim,0-0,/match/uniao-lamas/varzim/2001,2001,23,segunda_liga,18,34,1,0,0,9,10,3,9,34,36,WWWDWWWWWWWLLDLDWWWLLL,6,2,2,20,10,2,14,3,5,36,18,WDLWLWDWLWLDWLWWWWWWLW,5,2,4,14,12,WWWWWLDDWL,DLLDLLWWWWL
+FC Marco,Imortal,1-1,/match/fc-marco/imortal/2001,2001,23,segunda_liga,18,34,1,1,1,15,7,3,12,28,44,LWWWWDDLWWWWLLWLWWDWWW,5,2,3,14,12,17,3,6,13,15,31,WDWDWDWWWDWLWLDWWDWWWL,0,1,10,4,21,LWWDWWLLDW,WWWWWWWDWWW
+Penafiel,Leça FC,3-0,/match/penafiel/leca/2001,2001,23,segunda_liga,18,34,0,3,0,6,11,5,6,29,21,WWWDWWWWWLWWWDLDLWWLDD,7,3,0,16,6,8,10,3,9,27,32,WWWDWWWLWWWWWDLDWWLLLW,3,1,7,10,22,WWWWWWDDWD,WWWWWWWLDLL
+Espinho,Ovarense,1-1,/match/espinho/ovarense/2001,2001,23,segunda_liga,18,34,1,1,1,16,4,8,10,22,27,DDDLDWWWLWDLLDWWWDLWDW,2,5,3,9,8,12,8,2,12,27,33,LWWWWWWLDLWLLWLWWWWLWD,2,1,7,9,17,DDDWLDLWLD,LWWWDWLWWW
+Naval,FC Felgueiras,5-2,/match/naval/fc-felgueiras/2001,2001,23,segunda_liga,18,34,0,5,2,10,10,3,9,36,30,DDWWLLWLWWWWLLLWLWWDWL,6,1,4,21,14,13,5,7,10,23,28,WWWDDLWDWWWLLDDWWDWWDW,0,3,7,7,17,DWLWWWLLLWW,WWDWWWDWWD
+FC Maia,Nacional,3-1,/match/fc-maia/nacional/2001,2001,23,segunda_liga,18,34,0,3,1,5,10,7,5,33,26,DDWWWDWLWDLLLDWDWWWDWW,8,1,2,18,8,4,11,5,6,38,32,WWWLLDDWWWWLWLWDWWDLDL,3,4,3,13,12,DWWWWLLWWWW,WWLDWLLDDD
+Chaves,CD Santa Clara,0-0,/match/chaves/santa-clara/2001,2001,23,segunda_liga,18,34,1,0,0,14,4,11,7,20,28,DDWDWWDDDWWDDLLLLDWDWD,2,7,2,12,9,1,14,3,5,43,26,LWDWWWDWWWWWWLWDWWWWWW,2,3,5,14,22,DDWDDWDLLDD,LDWDWWLDWW
+Vitória Setúbal,Rio Ave,3-2,/match/vitoria-setubal/rio-ave/2001,2001,23,segunda_liga,18,34,0,3,2,7,11,4,7,40,29,WDLDWWLWWWWLWWWDLDWWWL,8,1,2,28,14,3,11,6,5,40,21,WDWWWWDWWLWLWDWDWWLDWD,3,2,5,10,12,WLWLWWWWDWW,WWWWLLDDLW
+CD Santa Clara,Rio Ave,1-0,/match/santa-clara/rio-ave/2001,2001,24,segunda_liga,18,34,0,1,0,1,14,4,5,43,26,LWDWWWDWWWWWWLWDWWWWWWD,12,0,0,29,4,3,11,6,6,42,24,WDWWWWDWWLWLWDWDWWLDWDW,3,2,6,12,15,WWWWWWWWWWWW,WWWWLLDDLWW
+Académica,Vitória Setúbal,0-1,/match/academica/vitoria-setubal/2001,2001,24,segunda_liga,18,34,2,0,1,11,9,4,10,31,39,WWWDLWLWWLDWLLWDWDWLWWL,6,1,4,20,16,6,12,4,7,43,31,WDLDWWLWWWWLWWWDLDWWWLW,3,3,5,12,15,WWLWLWLDWWL,DDWWWLWLDWL
+SC Freamunde,Uniao Lamas,1-1,/match/sc-freamunde/uniao-lamas/2001,2001,24,segunda_liga,18,34,1,1,1,18,4,3,16,20,41,LWWWWWWLWWWLDDWDWWLWLLL,3,2,6,16,17,9,10,4,9,34,36,WWWDWWWWWWWLLDLDWWWLLLD,4,1,7,14,26,LWWLWLDDLLL,WDWWWWLLWWLL
+Varzim,FC Marco,2-2,/match/varzim/fc-marco/2001,2001,24,segunda_liga,18,34,1,2,2,2,14,4,5,36,18,WDLWLWDWLWLDWLWWWWWWLWD,9,1,1,22,6,15,7,4,12,29,45,LWWWWDDLWWWWLLWLWWDWWWD,2,1,9,14,32,WWWWWDLWWWW,WWDLWWLWWWWW
+Imortal,Penafiel,0-1,/match/imortal/penafiel/2001,2001,24,segunda_liga,18,34,2,0,1,17,3,7,13,16,32,WDWDWDWWWDWLWLDWWDWWWLD,3,5,3,11,10,5,12,5,6,32,21,WWWDWWWWWLWWWDLDLWWLDDW,4,2,6,13,15,DDDWDLLWDWL,WDWWLWWLLWLD
+Leça FC,Espinho,0-3,/match/leca/espinho/2001,2001,24,segunda_liga,18,34,2,0,3,10,10,3,10,27,35,WWWDWWWLWWWWWDLDWWLLLWW,7,2,2,17,10,16,4,9,10,23,28,DDDLDWWWLWDLLDWWWDLWDWD,2,3,7,13,19,WDWLWWDWWLW,DLWWWLDWWDWW
+Ovarense,Naval,1-0,/match/ovarense/naval/2001,2001,24,segunda_liga,18,34,0,1,0,12,8,3,12,28,34,LWWWWWWLDLWLLWLWWWWLWDD,6,1,5,18,16,8,11,3,9,41,32,DDWWLLWLWWWWLLLWLWWDWLW,4,2,5,15,16,WWWLLLWLWWLD,DWLLWWLWWDL
+FC Felgueiras,FC Maia,2-1,/match/fc-felgueiras/fc-maia/2001,2001,24,segunda_liga,18,34,0,2,1,14,5,7,11,25,33,WWWDDLWDWWWLLDDWWDWWDWW,5,4,3,16,11,4,11,7,5,36,27,DDWWWDWLWDLLLDWDWWWDWWW,2,6,3,15,18,WDLDWLLDWDWW,DWDLDLDDWDW
+Nacional,Chaves,2-0,/match/nacional/chaves/2001,2001,24,segunda_liga,18,34,0,2,0,7,11,5,7,39,35,WWWLLDDWWWWLWLWDWWDLDLW,8,1,3,25,20,13,4,12,7,20,28,DDWDWWDDDWWDDLLLLDWDWDD,2,4,5,8,19,WLDWWWWWWWLL,DWWDWDLLWWD
+Chaves,FC Felgueiras,2-1,/match/chaves/fc-felgueiras/2001,2001,25,segunda_liga,18,34,0,2,1,14,4,12,8,20,30,DDWDWWDDDWWDDLLLLDWDWDDW,2,8,2,12,9,13,6,7,11,27,34,WWWDDLWDWWWLLDDWWDWWDWWW,0,3,8,9,22,DDWDDWDLLDDD,WWDWWWDWWDW
+Rio Ave,Nacional,2-0,/match/rio-ave/nacional/2001,2001,25,segunda_liga,18,34,0,2,0,5,11,6,7,42,25,WDWWWWDWWLWLWDWDWWLDWDWW,8,4,0,30,9,7,12,5,7,41,35,WWWLLDDWWWWLWLWDWWDLDLWW,3,4,4,14,15,DWWDWWWWWWDD,WWLDWLLDDDW
+Vitória Setúbal,CD Santa Clara,2-1,/match/vitoria-setubal/santa-clara/2001,2001,25,segunda_liga,18,34,0,2,1,4,13,4,7,44,31,WDLDWWLWWWWLWWWDLDWWWLWL,9,1,2,31,16,1,15,4,5,44,26,LWDWWWDWWWWWWLWDWWWWWWDW,2,4,5,14,22,WLWLWWWWDWWW,LDWDWWLDWWD
+Uniao Lamas,Académica,0-4,/match/uniao-lamas/academica/2001,2001,25,segunda_liga,18,34,2,0,4,9,10,5,9,35,37,WWWDWWWWWWWLLDLDWWWLLLDD,6,3,2,20,10,12,9,4,11,31,40,WWWDLWLWWLDWLLWDWDWLWWLL,3,3,6,11,23,WWWWWLDDWLD,WDWLWDLWWDLW
+FC Marco,SC Freamunde,0-1,/match/fc-marco/sc-freamunde/2001,2001,25,segunda_liga,18,34,2,0,1,15,7,5,12,31,47,LWWWWDDLWWWWLLWLWWDWWWDD,5,3,3,15,13,18,4,4,16,21,42,LWWWWWWLWWWLDDWDWWLWLLLD,1,1,10,4,24,LWWDWWLLDWD,WWWWWWDWWWWL
+Penafiel,Varzim,0-1,/match/penafiel/varzim/2001,2001,25,segunda_liga,18,34,2,0,1,3,13,5,6,33,21,WWWDWWWWWLWWWDLDLWWLDDWL,8,3,0,19,6,2,14,5,5,38,20,WDLWLWDWLWLDWLWWWWWWLWDD,5,3,4,14,12,WWWWWWDDWDW,DLLDLLWWWWLD
+Espinho,Imortal,1-1,/match/espinho/imortal/2001,2001,25,segunda_liga,18,34,1,1,1,16,5,9,10,26,28,DDDLDWWWLWDLLDWWWDLWDWDL,2,6,3,10,9,17,3,7,14,16,33,WDWDWDWWWDWLWLDWWDWWWLDL,0,2,10,5,22,DDDWLDLWLDD,WWWWWWWDWWWD
+Naval,Leça FC,0-2,/match/naval/leca/2001,2001,25,segunda_liga,18,34,2,0,2,8,11,3,10,41,33,DDWWLLWLWWWWLLLWLWWDWLWW,7,1,4,26,16,10,10,3,11,27,38,WWWDWWWLWWWWWDLDWWLLLWWL,3,1,8,10,25,DWLWWWLLLWWW,WWWWWWWLDLLW
+FC Maia,Ovarense,2-1,/match/fc-maia/ovarense/2001,2001,25,segunda_liga,18,34,0,2,1,6,11,7,6,37,29,DDWWWDWLWDLLLDWDWWWDWWWW,9,1,2,21,9,11,9,3,12,29,34,LWWWWWWLDLWLLWLWWWWLWDDW,2,2,7,10,18,DWWWWLLWWWWW,LWWWDWLWWWD
+Académica,FC Marco,4-1,/match/academica/fc-marco/2001,2001,26,segunda_liga,18,34,0,4,1,11,10,4,11,35,40,WWWDLWLWWLDWLLWDWDWLWWLLL,6,1,5,20,17,15,7,5,13,31,48,LWWWWDDLWWWWLLWLWWDWWWDDL,2,2,9,16,34,WWLWLWLDWWLL,WWDLWWLWWWWWD
+Ovarense,Chaves,2-1,/match/ovarense/chaves/2001,2001,26,segunda_liga,18,34,0,2,1,12,9,3,13,30,36,LWWWWWWLDLWLLWLWWWWLWDDWW,7,1,5,19,16,13,5,12,8,22,31,DDWDWWDDDWWDDLLLLDWDWDDWW,2,4,6,8,21,WWWLLLWLWWLDW,DWWDWDLLWWDW
+FC Felgueiras,Rio Ave,2-2,/match/fc-felgueiras/rio-ave/2001,2001,26,segunda_liga,18,34,1,2,2,14,6,7,12,28,36,WWWDDLWDWWWLLDDWWDWWDWWWW,6,4,3,18,12,4,12,6,7,44,25,WDWWWWDWWLWLWDWDWWLDWDWWW,3,2,7,12,16,WDLDWLLDWDWWW,WWWWLLDDLWWW
+Nacional,CD Santa Clara,2-1,/match/nacional/santa-clara/2001,2001,26,segunda_liga,18,34,0,2,1,7,12,5,8,41,37,WWWLLDDWWWWLWLWDWWDLDLWWW,9,1,3,27,20,1,15,4,6,45,28,LWDWWWDWWWWWWLWDWWWWWWDWW,2,4,6,15,24,WLDWWWWWWWLLW,LDWDWWLDWWDW
+Uniao Lamas,Vitória Setúbal,1-1,/match/uniao-lamas/vitoria-setubal/2001,2001,26,segunda_liga,18,34,1,1,1,9,10,5,10,35,41,WWWDWWWWWWWLLDLDWWWLLLDDL,6,3,3,20,14,3,14,4,7,46,32,WDLDWWLWWWWLWWWDLDWWWLWLW,4,3,5,13,15,WWWWWLDDWLDL,DDWWWLWLDWLL
+SC Freamunde,Penafiel,1-4,/match/sc-freamunde/penafiel/2001,2001,26,segunda_liga,18,34,2,1,4,18,5,4,16,22,42,LWWWWWWLWWWLDDWDWWLWLLLDL,3,3,6,17,18,6,13,5,7,33,22,WWWDWWWWWLWWWDLDLWWLDDWLL,5,2,6,14,15,LWWLWLDDLLLD,WDWWLWWLLWLDL
+Varzim,Espinho,1-2,/match/varzim/espinho/2001,2001,26,segunda_liga,18,34,2,1,2,2,15,5,5,39,20,WDLWLWDWLWLDWLWWWWWWLWDDL,9,2,1,24,8,16,5,10,10,27,29,DDDLDWWWLWDLLDWWWDLWDWDLD,3,3,7,16,19,WWWWWDLWWWWD,DLWWWLDWWDWWL
+Imortal,Naval,2-2,/match/imortal/naval/2001,2001,26,segunda_liga,18,34,1,2,2,17,3,8,14,17,34,WDWDWDWWWDWLWLDWWDWWWLDLD,3,5,4,11,11,10,11,3,11,41,35,DDWWLLWLWWWWLLLWLWWDWLWWL,4,2,6,15,17,DDDWDLLWDWLL,DWLLWWLWWDLW
+Leça FC,FC Maia,1-2,/match/leca/fc-maia/2001,2001,26,segunda_liga,18,34,2,1,2,8,11,3,11,29,38,WWWDWWWLWWWWWDLDWWLLLWWLL,7,2,3,17,13,5,12,7,6,39,30,DDWWWDWLWDLLLDWDWWWDWWWWW,2,6,4,16,20,WDWLWWDWWLWL,DWDLDLDDWDWW
+FC Maia,Imortal,1-0,/match/fc-maia/imortal/2001,2001,27,segunda_liga,18,34,0,1,0,4,13,7,6,41,31,DDWWWDWLWDLLLDWDWWWDWWWWWL,10,1,2,23,10,17,3,9,14,19,36,WDWDWDWWWDWLWLDWWDWWWLDLDD,0,3,10,6,23,DWWWWLLWWWWWW,WWWWWWWDWWWDD
+Naval,Varzim,0-0,/match/naval/varzim/2001,2001,27,segunda_liga,18,34,1,0,0,10,11,4,11,43,37,DDWWLLWLWWWWLLLWLWWDWLWWLD,7,1,5,26,18,2,15,5,6,40,22,WDLWLWDWLWLDWLWWWWWWLWDDLL,6,3,4,15,12,DWLWWWLLLWWWL,DLLDLLWWWWLDL
+Chaves,Leça FC,4-1,/match/chaves/leca/2001,2001,27,segunda_liga,18,34,0,4,1,14,5,12,9,23,33,DDWDWWDDDWWDDLLLLDWDWDDWWW,3,8,2,14,10,11,11,3,12,30,40,WWWDWWWLWWWWWDLDWWLLLWWLLL,4,1,8,12,25,DDWDDWDLLDDDW,WWWWWWWLDLLWL
+Rio Ave,Ovarense,4-1,/match/rio-ave/ovarense/2001,2001,27,segunda_liga,18,34,0,4,1,5,12,7,7,46,27,WDWWWWDWWLWLWDWDWWLDWDWWWD,9,4,0,32,9,12,10,3,13,32,37,LWWWWWWLDLWLLWLWWWWLWDDWWW,2,2,8,11,20,DWWDWWWWWWDDW,LWWWDWLWWWDW
+CD Santa Clara,FC Felgueiras,2-1,/match/santa-clara/fc-felgueiras/2001,2001,27,segunda_liga,18,34,0,2,1,1,15,4,7,46,30,LWDWWWDWWWWWWLWDWWWWWWDWWW,13,0,0,30,4,13,6,8,12,30,38,WWWDDLWDWWWLLDDWWDWWDWWWWD,0,3,9,10,24,WWWWWWWWWWWWW,WWDWWWDWWDWW
+Vitória Setúbal,Nacional,2-2,/match/vitoria-setubal/nacional/2001,2001,27,segunda_liga,18,34,1,2,2,3,14,5,7,47,33,WDLDWWLWWWWLWWWDLDWWWLWLWD,10,1,2,33,17,7,13,5,8,43,38,WWWLLDDWWWWLWLWDWWDLDLWWWW,3,4,5,14,17,WLWLWWWWDWWWW,WWLDWLLDDDWW
+FC Marco,Uniao Lamas,3-2,/match/fc-marco/uniao-lamas/2001,2001,27,segunda_liga,18,34,0,3,2,16,7,5,14,32,52,LWWWWDDLWWWWLLWLWWDWWWDDLW,5,3,4,15,14,8,10,6,10,36,42,WWWDWWWWWWWLLDLDWWWLLLDDLD,4,2,7,15,27,LWWDWWLLDWDL,WDWWWWLLWWLLD
+Penafiel,Académica,1-0,/match/penafiel/academica/2001,2001,27,segunda_liga,18,34,0,1,0,6,14,5,7,37,23,WWWDWWWWWLWWWDLDLWWLDDWLLL,8,3,1,19,7,9,11,4,11,39,41,WWWDLWLWWLDWLLWDWDWLWWLLLW,4,3,6,15,23,WWWWWWDDWDWL,WDWLWDLWWDLWL
+Espinho,SC Freamunde,1-1,/match/espinho/sc-freamunde/2001,2001,27,segunda_liga,18,34,1,1,1,15,6,10,10,29,30,DDDLDWWWLWDLLDWWWDLWDWDLDL,2,7,3,11,10,18,5,4,17,23,46,LWWWWWWLWWWLDDWDWWLWLLLDLL,2,1,10,5,24,DDDWLDLWLDDD,WWWWWWDWWWWLL
+Uniao Lamas,Penafiel,0-0,/match/uniao-lamas/penafiel/2001,2001,28,segunda_liga,18,34,1,0,0,9,10,6,11,38,45,WWWDWWWWWWWLLDLDWWWLLLDDLDW,6,4,3,21,15,6,15,5,7,38,23,WWWDWWWWWLWWWDLDLWWLDDWLLLW,6,2,6,18,16,WWWWWLDDWLDLD,WDWWLWWLLWLDLL
+Académica,Espinho,4-1,/match/academica/espinho/2001,2001,28,segunda_liga,18,34,0,4,1,10,11,4,12,39,42,WWWDLWLWWLDWLLWDWDWLWWLLLWW,7,1,5,24,18,16,6,11,10,30,31,DDDLDWWWLWDLLDWWWDLWDWDLDLD,4,3,7,18,20,WWLWLWLDWWLLW,DLWWWLDWWDWWLL
+SC Freamunde,Naval,0-1,/match/sc-freamunde/naval/2001,2001,28,segunda_liga,18,34,2,0,1,18,5,5,17,24,47,LWWWWWWLWWWLDDWDWWLWLLLDLLD,3,3,7,18,22,8,11,5,11,43,37,DDWWLLWLWWWWLLLWLWWDWLWWLDD,4,3,6,17,19,LWWLWLDDLLLDL,DWLLWWLWWDLWD
+Varzim,FC Maia,2-3,/match/varzim/fc-maia/2001,2001,28,segunda_liga,18,34,2,2,3,4,15,6,6,40,22,WDLWLWDWLWLDWLWWWWWWLWDDLLD,9,2,2,25,10,2,14,7,6,42,31,DDWWWDWLWDLLLDWDWWWDWWWWWLW,3,6,4,18,21,WWWWWDLWWWWDL,DWDLDLDDWDWWL
+Imortal,Chaves,3-1,/match/imortal/chaves/2001,2001,28,segunda_liga,18,34,0,3,1,17,3,9,15,19,37,WDWDWDWWWDWLWLDWWDWWWLDLDDW,3,6,4,13,13,13,6,12,9,27,34,DDWDWWDDDWWDDLLLLDWDWDDWWWW,2,4,7,9,23,DDDWDLLWDWLLD,DWWDWDLLWWDWW
+Leça FC,Rio Ave,0-3,/match/leca/rio-ave/2001,2001,28,segunda_liga,18,34,2,0,3,11,11,3,13,31,44,WWWDWWWLWWWWWDLDWWLLLWWLLLW,7,2,4,18,15,3,13,7,7,50,28,WDWWWWDWWLWLWDWDWWLDWDWWWDW,3,3,7,14,18,WDWLWWDWWLWLL,WWWWLLDDLWWWD
+Ovarense,CD Santa Clara,0-0,/match/ovarense/santa-clara/2001,2001,28,segunda_liga,18,34,1,0,0,12,10,3,14,33,41,LWWWWWWLDLWLLWLWWWWLWDDWWWW,8,1,5,21,17,1,16,4,7,48,31,LWDWWWDWWWWWWLWDWWWWWWDWWWW,2,4,7,16,26,WWWLLLWLWWLDWW,LDWDWWLDWWDWW
+FC Felgueiras,Nacional,1-1,/match/fc-felgueiras/nacional/2001,2001,28,segunda_liga,18,34,1,1,1,14,6,8,13,31,40,WWWDDLWDWWWLLDDWWDWWDWWWWDW,6,5,3,20,14,7,13,6,8,45,40,WWWLLDDWWWWLWLWDWWDLDLWWWWD,3,5,5,16,19,WDLDWLLDWDWWWD,WWLDWLLDDDWWD
+FC Marco,Vitória Setúbal,0-0,/match/fc-marco/vitoria-setubal/2001,2001,28,segunda_liga,18,34,1,0,0,15,8,5,14,35,54,LWWWWDDLWWWWLLWLWWDWWWDDLWW,6,3,4,18,16,5,14,6,7,49,35,WDLDWWLWWWWLWWWDLDWWWLWLWDD,4,4,5,14,16,LWWDWWLLDWDLW,DDWWWLWLDWLLD
+CD Santa Clara,Leça FC,2-2,/match/santa-clara/leca/2001,2001,29,segunda_liga,18,34,1,2,2,1,16,5,7,48,31,LWDWWWDWWWWWWLWDWWWWWWDWWWWD,14,0,0,32,5,12,11,3,14,31,47,WWWDWWWLWWWWWDLDWWLLLWWLLLWL,4,1,9,13,29,WWWWWWWWWWWWWW,WWWWWWWLDLLWLW
+Penafiel,FC Marco,2-0,/match/penafiel/fc-marco/2001,2001,29,segunda_liga,18,34,0,2,0,5,15,6,7,38,23,WWWDWWWWWLWWWDLDLWWLDDWLLLWD,9,3,1,20,7,15,8,6,14,35,54,LWWWWDDLWWWWLLWLWWDWWWDDLWWD,2,2,10,17,38,WWWWWWDDWDWLW,WWDLWWLWWWWWDW
+Espinho,Uniao Lamas,1-0,/match/espinho/uniao-lamas/2001,2001,29,segunda_liga,18,34,0,1,0,16,6,11,11,31,35,DDDLDWWWLWDLLDWWWDLWDWDLDLDW,2,8,3,12,11,10,10,7,11,38,45,WWWDWWWWWWWLLDLDWWWLLLDDLDWD,4,2,8,17,30,DDDWLDLWLDDDD,WDWWWWLLWWLLDW
+Naval,Académica,1-1,/match/naval/academica/2001,2001,29,segunda_liga,18,34,1,1,1,9,12,5,11,44,37,DDWWLLWLWWWWLLLWLWWDWLWWLDDL,7,2,5,26,18,8,12,4,12,43,43,WWWDLWLWWLDWLLWDWDWLWWLLLWWW,4,3,7,15,24,DWLWWWLLLWWWLD,WDWLWDLWWDLWLW
+FC Maia,SC Freamunde,1-2,/match/fc-maia/sc-freamunde/2001,2001,29,segunda_liga,18,34,2,1,2,2,15,7,6,45,33,DDWWWDWLWDLLLDWDWWWDWWWWWLWL,11,1,2,24,10,18,5,5,18,24,48,LWWWWWWLWWWLDDWDWWLWLLLDLLDL,2,2,10,6,25,DWWWWLLWWWWWWW,WWWWWWDWWWWLLD
+Chaves,Varzim,2-3,/match/chaves/varzim/2001,2001,29,segunda_liga,18,34,2,2,3,13,6,12,10,28,37,DDWDWWDDDWWDDLLLLDWDWDDWWWWW,4,8,2,18,11,6,15,6,7,42,25,WDLWLWDWLWLDWLWWWWWWLWDDLLDL,6,4,4,15,12,DDWDDWDLLDDDWW,DLLDLLWWWWLDLD
+Rio Ave,Imortal,1-1,/match/rio-ave/imortal/2001,2001,29,segunda_liga,18,34,1,1,1,3,14,7,7,53,28,WDWWWWDWWLWLWDWDWWLDWDWWWDWL,10,4,0,36,10,17,4,9,15,22,38,WDWDWDWWWDWLWLDWWDWWWLDLDDWW,0,3,11,6,24,DWWDWWWWWWDDWW,WWWWWWWDWWWDDW
+Nacional,Ovarense,1-2,/match/nacional/ovarense/2001,2001,29,segunda_liga,18,34,2,1,2,7,13,7,8,46,41,WWWLLDDWWWWLWLWDWWDLDLWWWWDD,10,1,3,29,21,11,10,4,14,33,41,LWWWWWWLDLWLLWLWWWWLWDDWWWWD,2,2,9,12,24,WLDWWWWWWWLLWW,LWWWDWLWWWDWW
+Vitória Setúbal,FC Felgueiras,2-1,/match/vitoria-setubal/fc-felgueiras/2001,2001,29,segunda_liga,18,34,0,2,1,4,14,7,7,49,35,WDLDWWLWWWWLWWWDLDWWWLWLWDDD,10,2,2,35,19,14,6,9,13,32,41,WWWDDLWDWWWLLDDWWDWWDWWWWDWD,0,3,10,11,26,WLWLWWWWDWWWWD,WWDWWWDWWDWWW
+Penafiel,Vitória Setúbal,2-1,/match/penafiel/vitoria-setubal/2001,2001,30,segunda_liga,18,34,0,2,1,4,16,6,7,40,23,WWWDWWWWWLWWWDLDLWWLDDWLLLWDW,10,3,1,22,7,3,15,7,7,51,36,WDLDWWLWWWWLWWWDLDWWWLWLWDDDW,4,5,5,14,16,WWWWWWDDWDWLWW,DDWWWLWLDWLLDD
+FC Marco,Espinho,2-1,/match/fc-marco/espinho/2001,2001,30,segunda_liga,18,34,0,2,1,16,8,6,15,35,56,LWWWWDDLWWWWLLWLWWDWWWDDLWWDW,6,4,4,18,16,15,7,11,11,32,35,DDDLDWWWLWDLLDWWWDLWDWDLDLDWW,4,3,8,19,24,LWWDWWLLDWDLWD,DLWWWLDWWDWWLLW
+Uniao Lamas,Naval,1-0,/match/uniao-lamas/naval/2001,2001,30,segunda_liga,18,34,0,1,0,11,10,7,12,38,46,WWWDWWWWWWWLLDLDWWWLLLDDLDWDW,6,5,3,21,15,8,12,6,11,45,38,DDWWLLWLWWWWLLLWLWWDWLWWLDDLD,5,3,6,18,19,WWWWWLDDWLDLDD,DWLLWWLWWDLWDL
+Académica,FC Maia,2-0,/match/academica/fc-maia/2001,2001,30,segunda_liga,18,34,0,2,0,9,12,5,12,44,44,WWWDLWLWWLDWLLWDWDWLWWLLLWWWD,8,1,5,28,19,5,15,7,7,46,35,DDWWWDWLWDLLLDWDWWWDWWWWWLWLL,4,6,4,21,23,WWLWLWLDWWLLWW,DWDLDLDDWDWWLL
+SC Freamunde,Chaves,0-2,/match/sc-freamunde/chaves/2001,2001,30,segunda_liga,18,34,2,0,2,18,6,5,18,26,49,LWWWWWWLWWWLDDWDWWLWLLLDLLDLL,3,3,8,18,23,13,6,12,11,30,40,DDWDWWDDDWWDDLLLLDWDWDDWWWWWL,2,4,8,10,26,LWWLWLDDLLLDLL,DWWDWDLLWWDWWW
+Varzim,Rio Ave,2-1,/match/varzim/rio-ave/2001,2001,30,segunda_liga,18,34,0,2,1,6,16,6,7,45,27,WDLWLWDWLWLDWLWWWWWWLWDDLLDLL,9,2,3,27,13,2,14,8,7,54,29,WDWWWWDWWLWLWDWDWWLDWDWWWDWLD,4,3,7,17,18,WWWWWDLWWWWDLL,WWWWLLDDLWWWDL
+Imortal,CD Santa Clara,2-2,/match/imortal/santa-clara/2001,2001,30,segunda_liga,18,34,1,2,2,17,4,10,15,23,39,WDWDWDWWWDWLWLDWWDWWWLDLDDWWD,4,6,4,16,14,1,16,6,7,50,33,LWDWWWDWWWWWWLWDWWWWWWDWWWWDD,2,5,7,16,26,DDDWDLLWDWLLDW,LDWDWWLDWWDWWD
+Leça FC,Nacional,1-1,/match/leca/nacional/2001,2001,30,segunda_liga,18,34,1,1,1,12,11,4,14,33,49,WWWDWWWLWWWWWDLDWWLLLWWLLLWLD,7,2,5,18,18,7,13,7,9,47,43,WWWLLDDWWWWLWLWDWWDLDLWWWWDDL,3,6,5,17,20,WDWLWWDWWLWLLL,WWLDWLLDDDWWDD
+Ovarense,FC Felgueiras,3-2,/match/ovarense/fc-felgueiras/2001,2001,30,segunda_liga,18,34,0,3,2,10,11,4,14,35,42,LWWWWWWLDLWLLWLWWWWLWDDWWWWDL,8,2,5,21,17,14,6,9,14,33,43,WWWDDLWDWWWLLDDWWDWWDWWWWDWDW,0,3,11,12,28,WWWLLLWLWWLDWWD,WWDWWWDWWDWWWW
+FC Maia,Uniao Lamas,2-0,/match/fc-maia/uniao-lamas/2001,2001,31,segunda_liga,18,34,0,2,0,6,15,7,8,46,37,DDWWWDWLWDLLLDWDWWWDWWWWWLWLLW,11,1,3,25,12,9,11,7,12,39,46,WWWDWWWWWWWLLDLDWWWLLLDDLDWDWW,4,2,9,17,31,DWWWWLLWWWWWWWL,WDWWWWLLWWLLDWW
+Vitória Setúbal,Ovarense,5-2,/match/vitoria-setubal/ovarense/2001,2001,31,segunda_liga,18,34,0,5,2,5,15,7,8,52,38,WDLDWWLWWWWLWWWDLDWWWLWLWDDDWW,11,2,2,37,20,10,12,4,14,38,44,LWWWWWWLDLWLLWLWWWWLWDDWWWWDLW,3,2,9,14,25,WLWLWWWWDWWWWDW,LWWWDWLWWWDWWL
+Espinho,Penafiel,1-0,/match/espinho/penafiel/2001,2001,31,segunda_liga,18,34,0,1,0,16,7,11,12,33,37,DDDLDWWWLWDLLDWWWDLWDWDLDLDWWW,3,8,3,13,11,2,17,6,7,42,24,WWWDWWWWWLWWWDLDLWWLDDWLLLWDWW,6,3,6,18,16,DDDWLDLWLDDDDW,WDWWLWWLLWLDLLD
+Naval,FC Marco,2-1,/match/naval/fc-marco/2001,2001,31,segunda_liga,18,34,0,2,1,11,12,6,12,45,39,DDWWLLWLWWWWLLLWLWWDWLWWLDDLDW,7,3,5,27,19,14,9,6,15,37,57,LWWWWDDLWWWWLLWLWWDWWWDDLWWDWW,2,2,11,17,40,DWLWWWLLLWWWLDD,WWDLWWLWWWWWDWW
+Chaves,Académica,1-0,/match/chaves/academica/2001,2001,31,segunda_liga,18,34,0,1,0,13,7,12,11,32,40,DDWDWWDDDWWDDLLLLDWDWDDWWWWWLL,4,8,3,20,14,8,13,5,12,46,44,WWWDLWLWWLDWLLWDWDWLWWLLLWWWDW,4,4,7,16,25,DDWDDWDLLDDDWWL,WDWLWDLWWDLWLWD
+Rio Ave,SC Freamunde,6-1,/match/rio-ave/sc-freamunde/2001,2001,31,segunda_liga,18,34,0,6,1,4,14,8,8,55,31,WDWWWWDWWLWLWDWDWWLDWDWWWDWLDW,10,5,0,37,11,18,6,5,19,26,51,LWWWWWWLWWWLDDWDWWLWLLLDLLDLLL,3,2,10,8,26,DWWDWWWWWWDDWWD,WWWWWWDWWWWLLDL
+CD Santa Clara,Varzim,2-0,/match/santa-clara/varzim/2001,2001,31,segunda_liga,18,34,0,2,0,1,16,7,7,52,35,LWDWWWDWWWWWWLWDWWWWWWDWWWWDDD,14,1,0,34,7,3,17,6,7,47,28,WDLWLWDWLWLDWLWWWWWWLWDDLLDLLW,7,4,4,18,14,WWWWWWWWWWWWWWD,DLLDLLWWWWLDLDL
+Nacional,Imortal,2-2,/match/nacional/imortal/2001,2001,31,segunda_liga,18,34,1,2,2,7,13,8,9,48,44,WWWLLDDWWWWLWLWDWWDLDLWWWWDDLD,10,1,4,30,23,17,4,11,15,25,41,WDWDWDWWWDWLWLDWWDWWWLDLDDWWDD,0,4,11,7,25,WLDWWWWWWWLLWWL,WWWWWWWDWWWDDWD
+FC Felgueiras,Leça FC,2-0,/match/fc-felgueiras/leca/2001,2001,31,segunda_liga,18,34,0,2,0,15,6,9,15,35,46,WWWDDLWDWWWLLDDWWDWWDWWWWDWDWW,6,6,3,21,15,12,11,5,14,34,50,WWWDWWWLWWWWWDLDWWLLLWWLLLWLDD,4,2,9,15,31,WDLDWLLDWDWWWDD,WWWWWWWLDLLWLWD
+Académica,Rio Ave,1-1,/match/academica/rio-ave/2001,2001,32,segunda_liga,18,34,1,1,1,9,13,5,13,46,45,WWWDLWLWWLDWLLWDWDWLWWLLLWWWDWW,9,1,5,30,19,3,15,8,8,61,32,WDWWWWDWWLWLWDWDWWLDWDWWWDWLDWW,4,3,8,18,20,WWLWLWLDWWLLWWW,WWWWLLDDLWWWDLW
+Varzim,Nacional,3-2,/match/varzim/nacional/2001,2001,32,segunda_liga,18,34,0,3,2,6,17,6,8,47,30,WDLWLWDWLWLDWLWWWWWWLWDDLLDLLWW,10,2,3,29,14,7,13,9,9,50,46,WWWLLDDWWWWLWLWDWWDLDLWWWWDDLDD,3,7,5,18,21,WWWWWDLWWWWDLLW,WWLDWLLDDDWWDDD
+Imortal,FC Felgueiras,3-0,/match/imortal/fc-felgueiras/2001,2001,32,segunda_liga,18,34,0,3,0,17,4,12,15,27,43,WDWDWDWWWDWLWLDWWDWWWLDLDDWWDDD,4,7,4,18,16,14,7,9,15,37,46,WWWDDLWDWWWLLDDWWDWWDWWWWDWDWWW,0,3,12,14,31,DDDWDLLWDWLLDWD,WWDWWWDWWDWWWWW
+Leça FC,Ovarense,0-0,/match/leca/ovarense/2001,2001,32,segunda_liga,18,34,1,0,0,13,11,5,15,34,52,WWWDWWWLWWWWWDLDWWLLLWWLLLWLDDW,7,3,5,19,19,10,12,4,15,40,49,LWWWWWWLDLWLLWLWWWWLWDDWWWWDLWW,3,2,10,16,30,WDWLWWDWWLWLLLD,LWWWDWLWWWDWWLW
+Espinho,Vitória Setúbal,0-1,/match/espinho/vitoria-setubal/2001,2001,32,segunda_liga,18,34,2,0,1,15,8,11,12,34,37,DDDLDWWWLWDLLDWWWDLWDWDLDLDWWWW,4,8,3,14,11,4,16,7,8,57,40,WDLDWWLWWWWLWWWDLDWWWLWLWDDDWWW,4,5,6,15,18,DDDWLDLWLDDDDWW,DDWWWLWLDWLLDDW
+Penafiel,Naval,0-1,/match/penafiel/naval/2001,2001,32,segunda_liga,18,34,2,0,1,2,17,6,8,42,25,WWWDWWWWWLWWWDLDLWWLDDWLLLWDWWW,11,3,1,24,8,8,13,6,12,47,40,DDWWLLWLWWWWLLLWLWWDWLWWLDDLDWW,5,3,7,18,20,WWWWWWDDWDWLWWW,DWLLWWLWWDLWDLW
+FC Marco,FC Maia,1-4,/match/fc-marco/fc-maia/2001,2001,32,segunda_liga,18,34,2,1,4,16,9,6,16,38,59,LWWWWDDLWWWWLLWLWWDWWWDDLWWDWWW,7,4,4,20,17,5,16,7,8,48,37,DDWWWDWLWDLLLDWDWWWDWWWWWLWLLWW,4,6,5,21,25,LWWDWWLLDWDLWDW,DWDLDLDDWDWWLLW
+Uniao Lamas,Chaves,2-2,/match/uniao-lamas/chaves/2001,2001,32,segunda_liga,18,34,1,2,2,11,11,7,13,39,48,WWWDWWWWWWWLLDLDWWWLLLDDLDWDWWW,7,5,3,22,15,12,8,12,11,33,40,DDWDWWDDDWWDDLLLLDWDWDDWWWWWLLW,3,4,8,12,26,WWWWWLDDWLDLDDW,DWWDWDLLWWDWWWL
+SC Freamunde,CD Santa Clara,1-2,/match/sc-freamunde/santa-clara/2001,2001,32,segunda_liga,18,34,2,1,2,18,6,5,20,27,57,LWWWWWWLWWWLDDWDWWLWLLLDLLDLLLW,3,3,9,18,25,1,17,7,7,54,35,LWDWWWDWWWWWWLWDWWWWWWDWWWWDDDW,2,6,7,18,28,LWWLWLDDLLLDLLL,LDWDWWLDWWDWWDD
+CD Santa Clara,Académica,2-1,/match/santa-clara/academica/2001,2001,33,segunda_liga,18,34,0,2,1,1,18,7,7,56,36,LWDWWWDWWWWWWLWDWWWWWWDWWWWDDDWL,15,1,0,36,7,9,13,6,13,47,46,WWWDLWLWWLDWLLWDWDWLWWLLLWWWDWWD,4,4,8,16,26,WWWWWWWWWWWWWWDW,WDWLWDLWWDLWLWDW
+Nacional,SC Freamunde,3-0,/match/nacional/sc-freamunde/2001,2001,33,segunda_liga,18,34,0,3,0,7,13,9,10,52,49,WWWLLDDWWWWLWLWDWWDLDLWWWWDDLDDW,10,2,4,32,25,18,6,5,21,28,59,LWWWWWWLWWWLDDWDWWLWLLLDLLDLLLWL,3,2,11,9,32,WLDWWWWWWWLLWWLD,WWWWWWDWWWWLLDLW
+FC Felgueiras,Varzim,1-1,/match/fc-felgueiras/varzim/2001,2001,33,segunda_liga,18,34,1,1,1,14,7,9,16,37,49,WWWDDLWDWWWLLDDWWDWWDWWWWDWDWWWW,7,6,3,23,15,5,18,6,8,50,32,WDLWLWDWLWLDWLWWWWWWLWDDLLDLLWWW,7,4,5,18,16,WDLDWLLDWDWWWDDW,DLLDLLWWWWLDLDLW
+Ovarense,Imortal,1-2,/match/ovarense/imortal/2001,2001,33,segunda_liga,18,34,2,1,2,11,12,5,15,40,49,LWWWWWWLDLWLLWLWWWWLWDDWWWWDLWWD,9,2,5,24,19,17,5,12,15,30,43,WDWDWDWWWDWLWLDWWDWWWLDLDDWWDDDW,0,5,11,9,27,WWWLLLWLWWLDWWDW,WWWWWWWDWWWDDWDD
+Leça FC,Vitória Setúbal,0-4,/match/leca/vitoria-setubal/2001,2001,33,segunda_liga,18,34,2,0,4,13,11,6,15,34,52,WWWDWWWLWWWWWDLDWWLLLWWLLLWLDDWD,7,4,5,19,19,2,17,7,8,58,40,WDLDWWLWWWWLWWWDLDWWWLWLWDDDWWWL,5,5,6,16,18,WDWLWWDWWLWLLLDD,DDWWWLWLDWLLDDWL
+Naval,Espinho,0-3,/match/naval/espinho/2001,2001,33,segunda_liga,18,34,2,0,3,8,14,6,12,48,40,DDWWLLWLWWWWLLLWLWWDWLWWLDDLDWWL,8,3,5,29,20,15,8,11,13,34,38,DDDLDWWWLWDLLDWWWDLWDWDLDLDWWWWL,4,3,9,20,26,DWLWWWLLLWWWLDDW,DLWWWLDWWDWWLLWW
+FC Maia,Penafiel,3-1,/match/fc-maia/penafiel/2001,2001,33,segunda_liga,18,34,0,3,1,4,17,7,8,52,38,DDWWWDWLWDLLLDWDWWWDWWWWWLWLLWWL,12,1,3,27,12,6,17,6,9,42,26,WWWDWWWWWLWWWDLDLWWLDDWLLLWDWWWL,6,3,7,18,17,DWWWWLLWWWWWWWLW,WDWWLWWLLWLDLLDW
+Chaves,FC Marco,1-0,/match/chaves/fc-marco/2001,2001,33,segunda_liga,18,34,0,1,0,12,8,13,11,35,42,DDWDWWDDDWWDDLLLLDWDWDDWWWWWLLWD,5,8,3,21,14,16,9,6,17,39,63,LWWWWDDLWWWWLLWLWWDWWWDDLWWDWWWL,2,2,12,18,42,DDWDDWDLLDDDWWLW,WWDLWWLWWWWWDWWW
+Rio Ave,Uniao Lamas,4-2,/match/rio-ave/uniao-lamas/2001,2001,33,segunda_liga,18,34,0,4,2,3,15,9,8,62,33,WDWWWWDWWLWLWDWDWWLDWDWWWDWLDWWD,11,5,0,43,12,10,11,8,13,41,50,WWWDWWWWWWWLLDLDWWWLLLDDLDWDWWWD,4,2,10,17,33,DWWDWWWWWWDDWWDW,WDWWWWLLWWLLDWWW
+Penafiel,Chaves,2-2,/match/penafiel/chaves/2001,2001,34,segunda_liga,18,34,1,2,2,6,17,6,10,43,29,WWWDWWWWWLWWWDLDLWWLDDWLLLWDWWWLW,11,3,2,24,9,10,9,13,11,36,42,DDWDWWDDDWWDDLLLLDWDWDDWWWWWLLWDW,3,5,8,14,28,WWWWWWDDWDWLWWWL,DWWDWDLLWWDWWWLD
+FC Marco,Rio Ave,1-0,/match/fc-marco/rio-ave/2001,2001,34,segunda_liga,18,34,0,1,0,16,9,6,18,39,64,LWWWWDDLWWWWLLWLWWDWWWDDLWWDWWWLW,7,4,5,21,21,2,16,9,8,66,35,WDWWWWDWWLWLWDWDWWLDWDWWWDWLDWWDW,4,4,8,19,21,LWWDWWLLDWDLWDWL,WWWWLLDDLWWWDLWD
+Uniao Lamas,CD Santa Clara,0-2,/match/uniao-lamas/santa-clara/2001,2001,34,segunda_liga,18,34,2,0,2,11,11,8,14,43,54,WWWDWWWWWWWLLDLDWWWLLLDDLDWDWWWDW,7,6,3,24,17,1,19,7,7,58,37,LWDWWWDWWWWWWLWDWWWWWWDWWWWDDDWLW,3,6,7,20,29,WWWWWLDDWLDLDDWD,LDWDWWLDWWDWWDDL
+Académica,Nacional,3-0,/match/academica/nacional/2001,2001,34,segunda_liga,18,34,0,3,0,9,13,6,14,48,48,WWWDLWLWWLDWLLWDWDWLWWLLLWWWDWWDW,9,2,5,31,20,7,14,9,10,55,49,WWWLLDDWWWWLWLWDWWDLDLWWWWDDLDDWW,3,7,6,20,24,WWLWLWLDWWLLWWWD,WWLDWLLDDDWWDDDW
+SC Freamunde,FC Felgueiras,0-2,/match/sc-freamunde/fc-felgueiras/2001,2001,34,segunda_liga,18,34,2,0,2,18,6,5,22,28,62,LWWWWWWLWWWLDDWDWWLWLLLDLLDLLLWLW,3,3,10,19,27,14,7,10,16,38,50,WWWDDLWDWWWLLDDWWDWWDWWWWDWDWWWWD,0,3,13,14,34,LWWLWLDDLLLDLLLL,WWDWWWDWWDWWWWWW
+Varzim,Ovarense,2-1,/match/varzim/ovarense/2001,2001,34,segunda_liga,18,34,0,2,1,5,18,7,8,51,33,WDLWLWDWLWLDWLWWWWWWLWDDLLDLLWWWD,11,2,3,32,16,12,12,5,16,41,51,LWWWWWWLDLWLLWLWWWWLWDDWWWWDLWWDL,3,3,10,16,30,WWWWWDLWWWWDLLWW,LWWWDWLWWWDWWLWD
+Imortal,Leça FC,1-0,/match/imortal/leca/2001,2001,34,segunda_liga,18,34,0,1,0,17,6,12,15,32,44,WDWDWDWWWDWLWLDWWDWWWLDLDDWWDDDWL,5,7,4,21,16,13,11,6,16,34,56,WWWDWWWLWWWWWDLDWWLLLWWLLLWLDDWDL,4,2,10,15,33,DDDWDLLWDWLLDWDW,WWWWWWWLDLLWLWDW
+Vitória Setúbal,Naval,2-1,/match/vitoria-setubal/naval/2001,2001,34,segunda_liga,18,34,0,2,1,4,18,7,8,62,40,WDLDWWLWWWWLWWWDLDWWWLWLWDDDWWWLL,12,2,2,42,22,8,14,6,13,48,43,DDWWLLWLWWWWLLLWLWWDWLWWLDDLDWWLL,6,3,7,19,20,WLWLWWWWDWWWWDWW,DWLLWWLWWDLWDLWL
+Espinho,FC Maia,2-3,/match/espinho/fc-maia/2001,2001,34,segunda_liga,18,34,2,2,3,15,9,11,13,37,38,DDDLDWWWLWDLLDWWWDLWDWDLDLDWWWWLL,4,8,4,14,12,3,18,7,8,55,39,DDWWWDWLWDLLLDWDWWWDWWWWWLWLLWWLW,5,6,5,25,26,DDDWLDLWLDDDDWWL,DWDLDLDDWDWWLLWL

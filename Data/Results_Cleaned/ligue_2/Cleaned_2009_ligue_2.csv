@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Ajaccio,Chateauroux,0-1,/match/ajaccio/berrichonne-chateauroux/2009,2009,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Amiens SC,Boulogne,1-1,/match/amiens-sc/us-boulogne/2009,2009,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Angers SCO,Stade de Reims,3-1,/match/angers-sco/stade-reims/2009,2009,1,ligue_2,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Clermont,Vannes,0-1,/match/clermont-foot/vannes-olympique-club/2009,2009,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Troyes,Bastia,1-2,/match/troyes/bastia/2009,2009,1,ligue_2,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Tours,Sedan,2-1,/match/tours-fc/sedan/2009,2009,1,ligue_2,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Guingamp,Metz,0-1,/match/guingamp/metz/2009,2009,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lens,Dijon FCO,3-1,/match/lens/dijon-fco/2009,2009,1,ligue_2,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nîmes,Stade Brestois,0-1,/match/nimes-olympique/stade-brestois-29/2009,2009,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Strasbourg,Montpellier,1-0,/match/strasbourg/montpellier-hsc/2009,2009,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bastia,Angers SCO,0-0,/match/bastia/angers-sco/2009,2009,2,ligue_2,20,38,1,0,0,8,1,0,0,2,1,L,0,0,0,0,0,4,1,0,0,3,1,W,0,0,0,0,0,,
+Boulogne,Guingamp,2-0,/match/us-boulogne/guingamp/2009,2009,2,ligue_2,20,38,0,2,0,11,0,1,0,1,1,D,0,0,0,0,0,13,0,0,1,0,1,L,0,0,0,0,0,,
+Chateauroux,Troyes,0-1,/match/berrichonne-chateauroux/troyes/2009,2009,2,ligue_2,20,38,2,0,1,10,1,0,0,1,0,L,0,0,0,0,0,19,0,0,1,1,2,L,0,0,0,0,0,,
+Stade de Reims,Ajaccio,1-3,/match/stade-reims/ajaccio/2009,2009,2,ligue_2,20,38,2,1,3,14,0,0,1,1,3,W,0,0,0,0,0,17,0,0,1,0,1,L,0,0,0,0,0,,
+Sedan,Nîmes,2-1,/match/sedan/nimes-olympique/2009,2009,2,ligue_2,20,38,0,2,1,18,0,0,1,1,2,W,0,0,0,0,0,20,0,0,1,0,1,L,0,0,0,0,0,,
+Stade Brestois,Clermont,2-2,/match/stade-brestois-29/clermont-foot/2009,2009,2,ligue_2,20,38,1,2,2,9,1,0,0,1,0,L,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
+Dijon FCO,Strasbourg,1-3,/match/dijon-fco/strasbourg/2009,2009,2,ligue_2,20,38,2,1,3,12,0,0,1,1,3,W,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Metz,Tours,1-0,/match/metz/tours-fc/2009,2009,2,ligue_2,20,38,0,1,0,7,1,0,0,1,0,L,0,0,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,,
+Montpellier,Amiens SC,2-1,/match/montpellier-hsc/amiens-sc/2009,2009,2,ligue_2,20,38,0,2,1,15,0,0,1,0,1,W,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
+Vannes,Lens,2-1,/match/vannes-olympique-club/lens/2009,2009,2,ligue_2,20,38,0,2,1,6,1,0,0,1,0,L,0,0,0,0,0,1,1,0,0,3,1,W,0,0,0,0,0,,
+Ajaccio,Dijon FCO,1-1,/match/ajaccio/dijon-fco/2009,2009,3,ligue_2,20,38,1,1,1,13,1,0,1,3,2,LL,0,0,1,0,1,17,0,0,2,2,6,WL,0,0,1,1,3,L,W
+Angers SCO,Sedan,3-0,/match/angers-sco/sedan/2009,2009,3,ligue_2,20,38,0,3,0,5,1,1,0,3,1,WD,1,0,0,3,1,7,1,0,1,3,3,WW,0,0,1,1,2,W,W
+Troyes,Stade Brestois,1-0,/match/troyes/stade-brestois-29/2009,2009,3,ligue_2,20,38,0,1,0,15,1,0,1,2,2,LL,0,0,1,1,2,10,1,1,0,3,2,LD,1,0,0,1,0,L,L
+Guingamp,Stade de Reims,0-2,/match/guingamp/stade-reims/2009,2009,3,ligue_2,20,38,2,0,2,18,0,0,2,0,3,LW,0,0,1,0,1,19,0,0,2,2,6,WL,0,0,1,1,3,L,W
+Montpellier,Boulogne,0-0,/match/montpellier-hsc/us-boulogne/2009,2009,3,ligue_2,20,38,1,0,0,8,1,0,1,2,2,WW,1,0,0,2,1,4,1,1,0,3,1,DW,0,1,0,1,1,W,D
+Tours,Vannes,1-0,/match/tours-fc/vannes-olympique-club/2009,2009,3,ligue_2,20,38,0,1,0,6,1,0,1,2,2,WW,1,0,0,2,1,2,2,0,0,3,1,LW,1,0,0,1,0,W,L
+Clermont,Nîmes,2-0,/match/clermont-foot/nimes-olympique/2009,2009,3,ligue_2,20,38,0,2,0,16,0,1,1,2,3,LD,0,0,1,0,1,20,0,0,2,1,3,LW,0,0,1,1,2,L,W
+Lens,Chateauroux,1-0,/match/lens/berrichonne-chateauroux/2009,2009,3,ligue_2,20,38,0,1,0,9,1,0,1,4,3,WW,1,0,0,3,1,12,1,0,1,1,1,LL,1,0,0,1,0,W,L
+Strasbourg,Bastia,1-0,/match/strasbourg/bastia/2009,2009,3,ligue_2,20,38,0,1,0,1,2,0,0,4,1,WL,1,0,0,1,0,11,1,1,0,2,1,LD,1,0,0,2,1,W,L
+Amiens SC,Metz,1-1,/match/amiens-sc/metz/2009,2009,3,ligue_2,20,38,1,1,1,14,0,1,1,2,3,DW,0,1,0,1,1,3,2,0,0,2,0,LW,1,0,0,1,0,D,L
+Bastia,Guingamp,2-1,/match/bastia/guingamp/2009,2009,4,ligue_2,20,38,0,2,1,13,1,1,1,2,2,LDW,0,1,0,0,0,19,0,0,3,0,5,LWL,0,0,1,0,2,D,W
+Chateauroux,Amiens SC,1-0,/match/berrichonne-chateauroux/amiens-sc/2009,2009,4,ligue_2,20,38,0,1,0,16,1,0,2,1,2,LLW,0,0,1,0,1,12,0,2,1,3,4,DWD,0,0,1,1,2,L,W
+Clermont,Angers SCO,2-2,/match/clermont-foot/angers-sco/2009,2009,4,ligue_2,20,38,1,2,2,10,1,1,1,4,3,LDW,1,0,1,2,1,2,2,1,0,6,1,WDW,0,1,0,0,0,LW,D
+Dijon FCO,Tours,2-1,/match/dijon-fco/tours-fc/2009,2009,4,ligue_2,20,38,0,2,1,18,0,1,2,3,7,WLD,0,0,1,1,3,3,2,0,1,3,2,WWW,0,0,1,0,1,L,W
+Sedan,Ajaccio,1-1,/match/sedan/ajaccio/2009,2009,4,ligue_2,20,38,1,1,1,15,1,0,2,3,6,WWW,1,0,0,2,1,11,1,1,1,4,3,LLD,1,0,0,3,1,W,L
+Vannes,Troyes,1-0,/match/vannes-olympique-club/troyes/2009,2009,4,ligue_2,20,38,0,1,0,9,2,0,1,3,2,LWW,1,0,0,2,1,8,2,0,1,3,2,LLW,1,0,0,1,0,W,L
+Metz,Boulogne,1-2,/match/metz/us-boulogne/2009,2009,4,ligue_2,20,38,2,1,2,5,2,1,0,3,1,LWD,1,0,0,1,0,6,1,2,0,3,1,DWD,0,2,0,1,1,W,DD
+Stade de Reims,Montpellier,0-4,/match/stade-reims/montpellier-hsc/2009,2009,4,ligue_2,20,38,2,0,4,17,1,0,2,4,6,WLL,0,0,1,1,3,7,1,1,1,2,2,WWD,0,0,1,0,1,L,W
+Stade Brestois,Strasbourg,0-1,/match/stade-brestois-29/strasbourg/2009,2009,4,ligue_2,20,38,2,0,1,14,1,1,1,3,3,LDW,0,1,0,2,2,1,3,0,0,5,1,WLW,1,0,0,3,1,D,L
+Nîmes,Lens,1-2,/match/nimes-olympique/lens/2009,2009,4,ligue_2,20,38,2,1,2,20,0,0,3,1,5,LWW,0,0,1,0,1,4,2,0,1,5,3,WWW,0,0,1,1,2,L,W
+Ajaccio,Vannes,4-0,/match/ajaccio/vannes-olympique-club/2009,2009,5,ligue_2,20,38,0,4,0,15,1,2,1,5,4,LLDD,0,1,1,1,2,3,3,0,1,4,2,LWWW,1,0,1,1,1,LD,LW
+Amiens SC,Stade de Reims,2-0,/match/amiens-sc/stade-reims/2009,2009,5,ligue_2,20,38,0,2,0,17,0,2,2,3,5,DWDW,0,2,0,2,2,18,1,0,3,4,10,WLLL,1,0,1,3,3,DD,WL
+Angers SCO,Stade Brestois,1-2,/match/angers-sco/stade-brestois-29/2009,2009,5,ligue_2,20,38,2,1,2,4,2,2,0,8,3,WDWD,2,0,0,6,1,16,1,1,2,3,4,LDWL,1,0,1,1,1,WW,LW
+Boulogne,Dijon FCO,3-0,/match/us-boulogne/dijon-fco/2009,2009,5,ligue_2,20,38,0,3,0,6,2,2,0,5,2,DWDL,1,0,0,2,0,14,1,1,2,5,8,WLDW,0,1,1,2,4,W,WD
+Guingamp,Sedan,1-1,/match/guingamp/sedan/2009,2009,5,ligue_2,20,38,1,1,1,19,0,0,4,1,7,LWLW,0,0,2,0,3,11,1,1,2,4,7,WWWD,0,0,2,1,5,LL,WW
+Tours,Bastia,0-1,/match/tours-fc/bastia/2009,2009,5,ligue_2,20,38,2,0,1,5,2,0,2,4,4,WWWW,2,0,0,3,1,8,2,1,1,4,3,LDWW,1,0,1,2,2,WW,LW
+Troyes,Nîmes,0-1,/match/troyes/nimes-olympique/2009,2009,5,ligue_2,20,38,2,0,1,12,2,0,2,3,3,LLWW,1,0,1,2,2,20,0,0,4,2,7,LWWL,0,0,2,1,4,LW,WW
+Lens,Clermont,2-1,/match/lens/clermont-foot/2009,2009,5,ligue_2,20,38,0,2,1,2,3,0,1,7,4,WWWL,2,0,0,4,1,10,1,2,1,6,5,LDWD,0,1,0,2,2,WW,D
+Strasbourg,Chateauroux,2-1,/match/strasbourg/berrichonne-chateauroux/2009,2009,5,ligue_2,20,38,0,2,1,1,4,0,0,6,1,WLWL,2,0,0,2,0,13,2,0,2,2,2,LLWW,1,0,1,1,1,WW,LW
+Montpellier,Metz,1-2,/match/montpellier-hsc/metz/2009,2009,5,ligue_2,20,38,2,1,2,7,2,1,1,6,2,WWDL,1,1,0,2,1,9,2,1,1,4,3,LWDL,1,1,0,2,1,WD,LD
+Bastia,Amiens SC,2-2,/match/bastia/amiens-sc/2009,2009,6,ligue_2,20,38,1,2,2,6,3,1,1,5,3,LDWWL,1,1,0,2,1,11,1,2,2,5,5,DWDWW,0,0,2,1,3,DW,WW
+Chateauroux,Guingamp,1-1,/match/berrichonne-chateauroux/guingamp/2009,2009,6,ligue_2,20,38,1,1,1,14,2,0,3,3,4,LLWWW,1,0,1,1,1,19,0,1,4,2,8,LWLWD,0,0,2,1,4,LW,WW
+Dijon FCO,Montpellier,1-0,/match/dijon-fco/montpellier-hsc/2009,2009,6,ligue_2,20,38,0,1,0,17,1,1,3,5,11,WLDWW,1,0,1,3,4,10,2,1,2,7,4,WWDLL,1,0,1,4,1,LW,WL
+Nîmes,Tours,0-1,/match/nimes-olympique/tours-fc/2009,2009,6,ligue_2,20,38,2,0,1,20,1,0,4,3,7,LWWLL,0,0,2,1,3,9,2,0,3,4,5,WWWWL,0,0,2,1,3,LL,WW
+Stade de Reims,Boulogne,1-1,/match/stade-reims/us-boulogne/2009,2009,6,ligue_2,20,38,1,1,1,18,1,0,4,4,12,WLLLW,0,0,2,1,7,3,3,2,0,8,2,DWDLW,1,2,0,3,2,LL,DDL
+Stade Brestois,Ajaccio,1-2,/match/stade-brestois-29/ajaccio/2009,2009,6,ligue_2,20,38,2,1,2,16,2,1,2,5,5,LDWLL,0,1,1,2,3,7,2,2,1,9,4,LLDDW,1,1,0,4,2,DL,LD
+Clermont,Troyes,2-1,/match/clermont-foot/troyes/2009,2009,6,ligue_2,20,38,0,2,1,13,1,2,2,7,7,LDWDW,1,1,1,4,3,15,2,0,3,3,4,LLWWL,1,0,1,1,1,LWD,LW
+Sedan,Strasbourg,2-2,/match/sedan/strasbourg/2009,2009,6,ligue_2,20,38,1,2,2,12,1,2,2,5,8,WWWDD,1,1,0,3,2,1,5,0,0,8,2,WLWLW,2,0,0,4,1,WD,LL
+Vannes,Angers SCO,2-0,/match/vannes-olympique-club/angers-sco/2009,2009,6,ligue_2,20,38,0,2,0,4,3,0,2,4,6,LWWWW,2,0,0,3,1,5,2,2,1,9,5,WDWDL,0,2,0,2,2,WW,DD
+Lens,Metz,0-1,/match/lens/metz/2009,2009,6,ligue_2,20,38,2,0,1,2,4,0,1,9,5,WWWLW,3,0,0,6,2,8,3,1,1,6,4,LWDLL,2,1,0,4,2,WWW,LDL
+Ajaccio,Clermont,5-1,/match/ajaccio/clermont-foot/2009,2009,7,ligue_2,20,38,0,5,1,7,3,2,1,11,5,LLDDWL,1,1,1,5,2,6,2,2,2,9,8,LDWDWW,0,1,1,3,4,LDW,DW
+Amiens SC,Stade Brestois,2-1,/match/amiens-sc/stade-brestois-29/2009,2009,7,ligue_2,20,38,0,2,1,12,1,3,2,7,7,DWDWWD,1,2,0,4,2,17,2,1,3,6,7,LDWLLL,2,0,1,3,2,DDW,LWL
+Angers SCO,Nîmes,2-2,/match/angers-sco/nimes-olympique/2009,2009,7,ligue_2,20,38,1,2,2,9,2,2,2,9,7,WDWDLW,2,0,1,7,3,20,1,0,5,3,8,LWWLLL,1,0,2,2,4,WWL,WWL
+Boulogne,Bastia,1-0,/match/us-boulogne/bastia/2009,2009,7,ligue_2,20,38,0,1,0,4,3,3,0,9,3,DWDLWD,2,0,0,5,0,5,3,2,1,7,5,LDWWLD,2,0,1,3,2,WW,LWL
+Guingamp,Dijon FCO,1-1,/match/guingamp/dijon-fco/2009,2009,7,ligue_2,20,38,1,1,1,19,0,2,4,3,9,LWLWDD,0,1,2,1,4,11,2,1,3,6,11,WLDWWW,0,1,2,2,7,LLD,WDW
+Tours,Chateauroux,3-1,/match/tours-fc/berrichonne-chateauroux/2009,2009,7,ligue_2,20,38,0,3,1,10,3,0,3,5,5,WWWWLL,2,0,1,3,2,14,2,1,3,4,5,LLWWWD,1,0,2,2,3,WWL,LWW
+Metz,Stade de Reims,0-0,/match/metz/stade-reims/2009,2009,7,ligue_2,20,38,1,0,0,8,4,1,1,7,4,LWDLLL,1,0,1,2,2,18,1,1,4,5,13,WLLLWD,1,0,2,3,5,WL,WLW
+Montpellier,Sedan,3-1,/match/montpellier-hsc/sedan/2009,2009,7,ligue_2,20,38,0,3,1,15,2,1,3,7,5,WWDLLW,1,1,1,3,3,13,1,3,2,7,10,WWWDDD,0,1,2,2,6,WDL,WWD
+Strasbourg,Vannes,2-1,/match/strasbourg/vannes-olympique-club/2009,2009,7,ligue_2,20,38,0,2,1,1,5,1,0,10,4,WLWLWD,3,0,0,4,1,2,4,0,2,6,6,LWWWWW,1,0,2,1,5,WWW,LWW
+Troyes,Lens,0-1,/match/troyes/lens/2009,2009,7,ligue_2,20,38,2,0,1,16,2,0,4,4,6,LLWWLW,1,0,2,2,3,3,4,0,2,9,6,WWWLWL,1,0,1,3,3,LWL,WL
+Bastia,Stade de Reims,2-2,/match/bastia/stade-reims/2009,2009,8,ligue_2,20,38,1,2,2,10,3,2,2,7,6,LDWWLDW,1,2,0,4,3,18,1,2,4,5,13,WLLLWDD,1,1,2,3,5,DWD,WLWD
+Nîmes,Ajaccio,2-2,/match/nimes-olympique/ajaccio/2009,2009,8,ligue_2,20,38,1,2,2,20,1,1,5,5,10,LWWLLLD,0,0,3,1,4,4,4,2,1,16,6,LLDDWLW,2,1,0,6,3,LLL,LDL
+Sedan,Amiens SC,0-1,/match/sedan/amiens-sc/2009,2009,8,ligue_2,20,38,2,0,1,14,1,3,3,8,13,WWWDDDW,1,2,0,5,4,8,2,3,2,9,8,DWDWWDW,0,1,2,3,5,WDD,WWD
+Stade Brestois,Boulogne,0-1,/match/stade-brestois-29/us-boulogne/2009,2009,8,ligue_2,20,38,2,0,1,17,2,1,4,7,9,LDWLLLW,0,1,2,3,5,2,4,3,0,10,3,DWDLWDW,1,3,0,4,3,DLL,DDLD
+Chateauroux,Montpellier,1-1,/match/berrichonne-chateauroux/montpellier-hsc/2009,2009,8,ligue_2,20,38,1,1,1,15,2,1,4,5,8,LLWWWDW,1,1,1,2,2,9,3,1,3,10,6,WWDLLWW,1,0,2,4,2,LWD,WLW
+Dijon FCO,Metz,0-1,/match/dijon-fco/metz/2009,2009,8,ligue_2,20,38,2,0,1,13,2,2,3,7,12,WLDWWWD,2,0,1,4,4,7,4,2,1,7,4,LWDLLLD,3,1,0,5,2,LWW,LDLL
+Lens,Angers SCO,3-0,/match/lens/angers-sco/2009,2009,8,ligue_2,20,38,0,3,0,3,5,0,2,10,6,WWWLWLL,3,0,1,6,3,11,2,3,2,11,9,WDWDLWD,0,2,1,2,4,WWWL,DDW
+Vannes,Guingamp,0-0,/match/vannes-olympique-club/guingamp/2009,2009,8,ligue_2,20,38,1,0,0,6,4,0,3,7,8,LWWWWWW,3,0,0,5,1,19,0,3,4,4,10,LWLWDDD,0,1,2,2,5,WWW,WWD
+Troyes,Tours,3-2,/match/troyes/tours-fc/2009,2009,8,ligue_2,20,38,0,3,2,16,2,0,5,4,7,LLWWLWL,1,0,3,2,4,5,4,0,3,8,6,WWWWLLW,1,0,2,2,3,LWLL,WWL
+Clermont,Strasbourg,2-2,/match/clermont-foot/strasbourg/2009,2009,8,ligue_2,20,38,1,2,2,12,2,2,3,10,13,LDWDWWW,2,1,1,6,4,1,6,1,0,12,5,WLWLWDW,2,1,0,6,3,LWDW,LLD
+Ajaccio,Lens,1-2,/match/ajaccio/lens/2009,2009,9,ligue_2,20,38,2,1,2,4,4,3,1,18,8,LLDDWLWD,2,1,1,10,3,2,6,0,2,13,6,WWWLWLLW,2,0,1,4,3,LDWW,WLL
+Amiens SC,Vannes,0-2,/match/amiens-sc/vannes-olympique-club/2009,2009,9,ligue_2,20,38,2,0,2,7,3,3,2,10,8,DWDWWDWL,2,2,0,6,3,5,4,1,3,7,8,LWWWWWWD,1,0,3,2,7,DDWW,LWWW
+Angers SCO,Troyes,0-0,/match/angers-sco/troyes/2009,2009,9,ligue_2,20,38,1,0,0,12,2,3,3,11,12,WDWDLWDW,2,1,1,9,5,15,3,0,5,7,9,LLWWLWLW,1,0,2,2,3,WWLD,LWW
+Guingamp,Clermont,2-1,/match/guingamp/clermont-foot/2009,2009,9,ligue_2,20,38,0,2,1,19,0,4,4,4,10,LWLWDDDD,0,2,2,2,5,10,2,3,3,12,15,LDWDWWWD,0,1,2,4,9,LLDD,DWW
+Stade de Reims,Dijon FCO,1-4,/match/stade-reims/dijon-fco/2009,2009,9,ligue_2,20,38,2,1,4,18,1,3,4,7,15,WLLLWDDD,0,1,2,2,8,13,2,2,4,7,13,WLDWWWDL,0,2,2,3,8,LLD,WDWD
+Tours,Stade Brestois,2-0,/match/tours-fc/stade-brestois-29/2009,2009,9,ligue_2,20,38,0,2,0,8,4,0,4,10,9,WWWWLLWW,3,0,1,6,3,17,2,1,5,7,10,LDWLLLWL,2,0,2,4,4,WWLW,LWLW
+Boulogne,Chateauroux,2-1,/match/us-boulogne/berrichonne-chateauroux/2009,2009,9,ligue_2,20,38,0,2,1,3,5,3,0,11,3,DWDLWDWL,3,0,0,6,0,14,2,2,4,6,9,LLWWWDWD,1,0,3,3,6,WWW,LWWW
+Metz,Sedan,2-0,/match/metz/sedan/2009,2009,9,ligue_2,20,38,0,2,0,6,5,2,1,8,4,LWDLLLDL,1,1,1,2,2,16,1,3,4,8,14,WWWDDDWL,0,1,3,3,9,WLD,WWDW
+Montpellier,Bastia,2-1,/match/montpellier-hsc/bastia/2009,2009,9,ligue_2,20,38,0,2,1,11,3,2,3,11,7,WWDLLWWD,2,1,1,6,4,9,3,3,2,9,8,LDWWLDWD,2,0,2,3,3,WDLW,LWLW
+Strasbourg,Nîmes,5-0,/match/strasbourg/nimes-olympique/2009,2009,9,ligue_2,20,38,0,5,0,1,6,2,0,14,7,WLWLWDWD,4,0,0,6,2,20,1,2,5,7,12,LWWLLLDD,1,1,2,4,6,WWWW,WWLD
+Bastia,Dijon FCO,0-0,/match/bastia/dijon-fco/2009,2009,10,ligue_2,20,38,1,0,0,10,3,3,3,10,10,LDWWLDWDW,1,3,0,6,5,13,3,2,4,11,14,WLDWWWDLL,1,2,2,7,9,DWDD,WDWDL
+Clermont,Tours,0-0,/match/clermont-foot/tours-fc/2009,2009,10,ligue_2,20,38,1,0,0,12,2,3,4,13,17,LDWDWWWDW,2,2,1,8,6,5,5,0,4,12,9,WWWWLLWWW,1,0,3,4,6,LWDWD,WWLW
+Troyes,Ajaccio,2-0,/match/troyes/ajaccio/2009,2009,10,ligue_2,20,38,0,2,0,14,3,1,5,7,9,LLWWLWLWD,2,0,3,5,6,8,4,3,2,19,10,LLDDWLWDL,2,2,0,8,5,LWLLW,LDLD
+Nîmes,Amiens SC,1-1,/match/nimes-olympique/amiens-sc/2009,2009,10,ligue_2,20,38,1,1,1,20,1,2,6,7,17,LWWLLLDDW,0,1,3,3,6,9,3,3,3,10,10,DWDWWDWLL,1,1,2,4,5,LLLD,WWDL
+Sedan,Stade de Reims,1-1,/match/sedan/stade-reims/2009,2009,10,ligue_2,20,38,1,1,1,17,1,3,5,8,16,WWWDDDWLW,1,2,1,5,5,19,1,3,5,8,19,WLLLWDDDL,1,2,2,5,7,WDDL,WLWDD
+Stade Brestois,Montpellier,0-3,/match/stade-brestois-29/montpellier-hsc/2009,2009,10,ligue_2,20,38,2,0,3,18,2,1,6,7,12,LDWLLLWLW,0,1,3,3,6,7,4,2,3,13,8,WWDLLWWDW,1,1,2,5,3,DLLL,WLWD
+Angers SCO,Strasbourg,3-0,/match/angers-sco/strasbourg/2009,2009,10,ligue_2,20,38,0,3,0,11,2,4,3,11,12,WDWDLWDWD,2,2,1,9,5,1,7,2,0,19,7,WLWLWDWDW,2,2,0,8,5,WWLDD,LLDD
+Chateauroux,Metz,1-1,/match/berrichonne-chateauroux/metz/2009,2009,10,ligue_2,20,38,1,1,1,15,2,2,5,7,11,LLWWWDWDW,1,2,1,3,3,4,6,2,1,10,4,LWDLLLDLW,4,1,0,6,2,LWDD,LDLLL
+Vannes,Boulogne,0-0,/match/vannes-olympique-club/us-boulogne/2009,2009,10,ligue_2,20,38,1,0,0,6,5,1,3,9,8,LWWWWWWDL,3,1,0,5,1,2,6,3,0,13,4,DWDLWDWLW,2,3,0,5,3,WWWD,DDLDL
+Lens,Guingamp,1-0,/match/lens/guingamp/2009,2009,10,ligue_2,20,38,0,1,0,3,7,0,2,15,7,WWWLWLLWL,4,0,1,9,3,16,1,4,4,6,11,LWLWDDDDW,0,2,2,2,5,WWWLW,WWDD
+Ajaccio,Angers SCO,0-0,/match/ajaccio/angers-sco/2009,2009,11,ligue_2,20,38,1,0,0,11,4,3,3,19,12,LLDDWLWDLW,2,1,2,11,5,8,3,4,3,14,12,WDWDLWDWDW,0,2,2,2,7,LDWWL,DDWW
+Amiens SC,Clermont,0-0,/match/amiens-sc/clermont-foot/2009,2009,11,ligue_2,20,38,1,0,0,9,3,4,3,11,11,DWDWWDWLLD,2,2,1,6,5,12,2,4,4,13,17,LDWDWWWDWD,0,1,3,5,11,DDWWL,DWWW
+Boulogne,Sedan,0-1,/match/us-boulogne/sedan/2009,2009,11,ligue_2,20,38,2,0,1,3,6,4,0,13,4,DWDLWDWLWD,4,0,0,8,1,16,1,4,5,9,17,WWWDDDWLWD,0,1,4,3,11,WWWW,WWDWW
+Dijon FCO,Chateauroux,2-0,/match/dijon-fco/berrichonne-chateauroux/2009,2009,11,ligue_2,20,38,0,2,0,14,3,3,4,11,14,WLDWWWDLLD,2,0,2,4,5,15,2,3,5,8,12,LLWWWDWDWD,1,0,4,4,8,LWWL,LWWWW
+Guingamp,Nîmes,1-0,/match/guingamp/nimes-olympique/2009,2009,11,ligue_2,20,38,0,1,0,17,1,4,5,6,12,LWLWDDDDWW,1,2,2,4,6,19,1,3,6,8,18,LWWLLLDDWD,1,1,3,4,11,LLDDW,WWLDW
+Stade de Reims,Stade Brestois,0-1,/match/stade-reims/stade-brestois-29/2009,2009,11,ligue_2,20,38,2,0,1,18,1,4,5,9,20,WLLLWDDDLD,0,1,3,3,12,20,2,1,7,7,15,LDWLLLWLWL,2,0,3,4,6,LLDL,LWLWW
+Metz,Bastia,0-0,/match/metz/bastia/2009,2009,11,ligue_2,20,38,1,0,0,4,6,3,1,11,5,LWDLLLDLWD,2,1,1,4,2,10,3,4,3,10,10,LDWWLDWDWD,2,0,3,4,5,WLDW,LWLWW
+Montpellier,Vannes,3-1,/match/montpellier-hsc/vannes-olympique-club/2009,2009,11,ligue_2,20,38,0,3,1,7,5,2,3,16,8,WWDLLWWDWL,3,1,1,8,5,5,5,2,3,9,8,LWWWWWWDLD,2,0,3,4,7,WDLWW,LWWWL
+Strasbourg,Troyes,0-0,/match/strasbourg/troyes/2009,2009,11,ligue_2,20,38,1,0,0,1,7,2,1,19,10,WLWLWDWDWW,5,0,0,11,2,13,4,1,5,9,9,LLWWLWLWDW,1,1,2,2,3,WWWWW,LWWD
+Tours,Lens,3-1,/match/tours-fc/lens/2009,2009,11,ligue_2,20,38,0,3,1,6,5,1,4,12,9,WWWWLLWWWD,4,0,1,8,3,2,8,0,2,16,7,WWWLWLLWLW,3,0,1,6,4,WWLWW,WLLL
+Chateauroux,Bastia,2-0,/match/berrichonne-chateauroux/bastia/2009,2009,12,ligue_2,20,38,0,2,0,17,2,3,6,8,14,LLWWWDWDWDW,1,3,1,4,4,11,3,5,3,10,10,LDWWLDWDWDD,2,1,3,4,5,LWDDD,LWLWWD
+Clermont,Montpellier,2-1,/match/clermont-foot/montpellier-hsc/2009,2009,12,ligue_2,20,38,0,2,1,13,2,5,4,13,17,LDWDWWWDWDD,2,3,1,8,6,5,6,2,3,19,9,WWDLLWWDWLW,2,1,2,8,3,LWDWDD,WLWDL
+Troyes,Guingamp,2-2,/match/troyes/guingamp/2009,2009,12,ligue_2,20,38,1,2,2,14,4,2,5,9,9,LLWWLWLWDWD,3,0,3,7,6,15,2,4,5,7,12,LWLWDDDDWWW,0,2,3,2,6,LWLLWW,WWDDW
+Nîmes,Boulogne,0-1,/match/nimes-olympique/us-boulogne/2009,2009,12,ligue_2,20,38,2,0,1,20,1,3,7,8,19,LWWLLLDDWDW,0,2,3,4,7,3,6,4,1,13,5,DWDLWDWLWDL,2,4,0,5,3,LLLDD,DDLDLD
+Sedan,Dijon FCO,2-1,/match/sedan/dijon-fco/2009,2009,12,ligue_2,20,38,0,2,1,16,2,4,5,10,17,WWWDDDWLWDL,1,3,1,6,6,12,4,3,4,13,14,WLDWWWDLLDW,1,3,2,7,9,WDDLD,WDWDLD
+Vannes,Stade de Reims,1-0,/match/vannes-olympique-club/stade-reims/2009,2009,12,ligue_2,20,38,0,1,0,7,5,2,4,10,11,LWWWWWWDLDW,3,2,0,5,1,19,1,4,6,9,21,WLLLWDDDLDL,1,3,2,6,8,WWWDD,WLWDDD
+Angers SCO,Tours,2-0,/match/angers-sco/tours-fc/2009,2009,12,ligue_2,20,38,0,2,0,8,3,5,3,14,12,WDWDLWDWDWD,3,2,1,12,5,4,6,1,4,15,10,WWWWLLWWWDW,1,1,3,4,6,WWLDDW,WWLWD
+Lens,Amiens SC,2-0,/match/lens/amiens-sc/2009,2009,12,ligue_2,20,38,0,2,0,2,8,0,3,17,10,WWWLWLLWLWW,5,0,1,10,3,10,3,5,3,11,11,DWDWWDWLLDD,1,2,2,5,6,WWWLWW,WWDLD
+Stade Brestois,Metz,2-1,/match/stade-brestois-29/metz/2009,2009,12,ligue_2,20,38,0,2,1,18,3,1,7,8,15,LDWLLLWLWLL,0,1,4,3,9,6,6,4,1,11,5,LWDLLLDLWDD,4,2,0,7,3,DLLLL,LDLLLD
+Ajaccio,Strasbourg,1-1,/match/ajaccio/strasbourg/2009,2009,12,ligue_2,20,38,1,1,1,9,4,4,3,19,12,LLDDWLWDLWD,2,2,2,11,5,1,7,3,1,19,10,WLWLWDWDWWD,2,2,1,8,8,LDWWLD,LLDDW
+Amiens SC,Troyes,1-1,/match/amiens-sc/troyes/2009,2009,13,ligue_2,20,38,1,1,1,12,3,5,4,11,13,DWDWWDWLLDDW,2,3,1,6,5,11,4,3,5,11,11,LLWWLWLWDWDD,1,2,2,2,3,DDWWLD,LWWDD
+Bastia,Sedan,2-0,/match/bastia/sedan/2009,2009,13,ligue_2,20,38,0,2,0,14,3,5,4,10,12,LDWWLDWDWDDW,1,4,0,6,5,13,3,4,5,12,18,WWWDDDWLWDLW,1,1,4,4,11,DWDDD,WWDWWL
+Dijon FCO,Stade Brestois,1-2,/match/dijon-fco/stade-brestois-29/2009,2009,13,ligue_2,20,38,2,1,2,15,4,3,5,14,16,WLDWWWDLLDWW,3,0,2,6,5,18,4,1,7,10,16,LDWLLLWLWLLW,3,0,3,5,6,LWWLW,LWLWWL
+Guingamp,Angers SCO,0-0,/match/guingamp/angers-sco/2009,2009,13,ligue_2,20,38,1,0,0,17,2,5,5,9,14,LWLWDDDDWWWD,2,2,2,5,6,7,4,5,3,16,12,WDWDLWDWDWDW,0,3,2,2,7,LLDDWW,DDWWD
+Stade de Reims,Chateauroux,4-3,/match/stade-reims/berrichonne-chateauroux/2009,2009,13,ligue_2,20,38,0,4,3,19,1,4,7,9,22,WLLLWDDDLDLW,0,1,4,3,13,16,3,3,6,10,14,LLWWWDWDWDWW,1,0,5,4,10,LLDLL,LWWWWW
+Tours,Ajaccio,4-1,/match/tours-fc/ajaccio/2009,2009,13,ligue_2,20,38,0,4,1,5,6,1,5,15,12,WWWWLLWWWDWW,5,0,1,11,4,9,4,5,3,20,13,LLDDWLWDLWDD,2,2,1,8,7,WWLWWW,LDLDW
+Boulogne,Clermont,2-1,/match/us-boulogne/clermont-foot/2009,2009,13,ligue_2,20,38,0,2,1,3,7,4,1,14,5,DWDLWDWLWDLL,4,0,1,8,2,10,3,5,4,15,18,LDWDWWWDWDDW,0,2,3,5,11,WWWWL,DWWWD
+Metz,Vannes,2-0,/match/metz/vannes-olympique-club/2009,2009,13,ligue_2,20,38,0,2,0,8,6,4,2,12,7,LWDLLLDLWDDW,2,2,1,4,2,4,6,2,4,11,11,LWWWWWWDLDWW,2,0,4,5,10,WLDWD,LWWWLW
+Montpellier,Nîmes,1-1,/match/montpellier-hsc/nimes-olympique/2009,2009,13,ligue_2,20,38,1,1,1,6,6,2,4,20,11,WWDLLWWDWLWW,4,1,1,11,6,20,1,3,8,8,20,LWWLLLDDWDWL,1,1,4,4,12,WDLWWW,WWLDWW
+Strasbourg,Lens,1-1,/match/strasbourg/lens/2009,2009,13,ligue_2,20,38,1,1,1,2,7,4,1,20,11,WLWLWDWDWWDD,5,1,0,11,2,1,9,0,3,19,10,WWWLWLLWLWWW,3,0,2,7,7,WWWWWD,WLLLW
+Ajaccio,Guingamp,2-1,/match/ajaccio/guingamp/2009,2009,14,ligue_2,20,38,0,2,1,10,4,5,4,21,17,LLDDWLWDLWDDW,2,3,2,12,6,16,2,6,5,9,14,LWLWDDDDWWWDD,0,3,3,4,8,LDWWLDD,WWDDWD
+Angers SCO,Amiens SC,1-0,/match/angers-sco/amiens-sc/2009,2009,14,ligue_2,20,38,0,1,0,8,4,6,3,16,12,WDWDLWDWDWDWD,4,2,1,14,5,12,3,6,4,12,14,DWDWWDWLLDDWD,1,2,3,5,8,WWLDDWW,WWDLDW
+Chateauroux,Sedan,1-1,/match/berrichonne-chateauroux/sedan/2009,2009,14,ligue_2,20,38,1,1,1,17,3,3,7,13,18,LLWWWDWDWDWWW,2,3,1,6,4,14,3,4,6,12,20,WWWDDDWLWDLWW,1,1,5,4,13,LWDDDW,WWDWWLW
+Nîmes,Stade de Reims,2-2,/match/nimes-olympique/stade-reims/2009,2009,14,ligue_2,20,38,1,2,2,20,1,4,8,9,21,LWWLLLDDWDWLD,0,2,4,4,8,19,2,4,7,13,25,WLLLWDDDLDLWW,1,3,3,6,9,LLLDDL,WLWDDDW
+Stade Brestois,Bastia,4-0,/match/stade-brestois-29/bastia/2009,2009,14,ligue_2,20,38,0,4,0,18,5,1,7,12,17,LDWLLLWLWLLWL,1,1,4,5,10,9,4,5,4,12,12,LDWWLDWDWDDWW,2,1,4,4,7,DLLLLW,LWLWWDW
+Vannes,Dijon FCO,1-1,/match/vannes-olympique-club/dijon-fco/2009,2009,14,ligue_2,20,38,1,1,1,7,6,2,5,11,13,LWWWWWWDLDWWW,4,2,0,6,1,15,4,3,6,15,18,WLDWWWDLLDWWL,1,3,3,8,11,WWWDDW,WDWDLDW
+Clermont,Metz,1-0,/match/clermont-foot/metz/2009,2009,14,ligue_2,20,38,0,1,0,11,3,5,5,16,20,LDWDWWWDWDDWW,3,3,1,10,7,5,7,4,2,14,7,LWDLLLDLWDDWW,4,2,1,8,5,LWDWDDW,LDLLLDW
+Strasbourg,Tours,4-0,/match/strasbourg/tours-fc/2009,2009,14,ligue_2,20,38,0,4,0,2,7,5,1,21,12,WLWLWDWDWWDDD,5,2,0,12,3,4,7,1,5,19,13,WWWWLLWWWDWWW,1,1,4,4,8,WWWWWDD,WWLWDW
+Troyes,Boulogne,1-0,/match/troyes/us-boulogne/2009,2009,14,ligue_2,20,38,0,1,0,13,4,4,5,12,12,LLWWLWLWDWDDD,3,1,3,9,8,3,8,4,1,16,6,DWDLWDWLWDLLW,3,4,0,6,3,LWLLWWD,DDLDLDL
+Lens,Montpellier,0-2,/match/lens/montpellier-hsc/2009,2009,14,ligue_2,20,38,2,0,2,1,9,1,3,20,11,WWWLWLLWLWWWD,6,0,1,12,3,6,6,3,4,21,12,WWDLLWWDWLWWD,2,1,3,9,5,WWWLWWW,WLWDLW
+Amiens SC,Ajaccio,2-0,/match/amiens-sc/ajaccio/2009,2009,15,ligue_2,20,38,0,2,0,13,3,6,5,12,15,DWDWWDWLLDDWDW,2,4,1,7,6,9,5,5,4,23,18,LLDDWLWDLWDDWW,2,2,2,9,11,DDWWLDD,LDLDWW
+Chateauroux,Vannes,1-0,/match/berrichonne-chateauroux/vannes-olympique-club/2009,2009,15,ligue_2,20,38,0,1,0,16,3,4,7,14,19,LLWWWDWDWDWWWD,2,4,1,7,5,8,6,3,5,12,14,LWWWWWWDLDWWWD,2,0,5,5,12,LWDDDWD,LWWWLWW
+Dijon FCO,Nîmes,2-1,/match/dijon-fco/nimes-olympique/2009,2009,15,ligue_2,20,38,0,2,1,15,4,4,6,16,19,WLDWWWDLLDWWLD,3,0,3,7,7,20,1,5,8,11,23,LWWLLLDDWDWLDD,1,2,4,5,13,LWWLWL,WWLDWWD
+Guingamp,Tours,3-1,/match/guingamp/tours-fc/2009,2009,15,ligue_2,20,38,0,3,1,18,2,6,6,10,16,LWLWDDDDWWWDDW,2,3,2,5,6,5,7,1,6,19,17,WWWWLLWWWDWWWW,1,1,5,4,12,LLDDWWD,WWLWDWW
+Stade de Reims,Clermont,1-1,/match/stade-reims/clermont-foot/2009,2009,15,ligue_2,20,38,1,1,1,19,2,5,7,15,27,WLLLWDDDLDLWWD,1,1,4,7,16,10,4,5,5,17,20,LDWDWWWDWDDWWW,0,2,4,6,13,LLDLLW,DWWWDW
+Sedan,Stade Brestois,1-0,/match/sedan/stade-brestois-29/2009,2009,15,ligue_2,20,38,0,1,0,14,3,5,6,13,21,WWWDDDWLWDLWWD,2,3,1,8,7,17,6,1,7,16,17,LDWLLLWLWLLWLW,4,0,3,7,7,WDDLDW,LWLWWLL
+Bastia,Lens,0-1,/match/bastia/lens/2009,2009,15,ligue_2,20,38,2,0,1,12,4,5,5,12,16,LDWWLDWDWDDWWW,2,4,0,8,5,2,9,1,4,20,13,WWWLWLLWLWWWDL,3,1,2,8,8,DWDDDW,WLLLWD
+Boulogne,Angers SCO,2-3,/match/us-boulogne/angers-sco/2009,2009,15,ligue_2,20,38,2,2,3,3,8,4,2,16,7,DWDLWDWLWDLLWW,5,0,1,10,3,4,5,6,3,17,12,WDWDLWDWDWDWDW,0,4,2,2,7,WWWWLW,DDWWDD
+Montpellier,Troyes,3-0,/match/montpellier-hsc/troyes/2009,2009,15,ligue_2,20,38,0,3,0,6,7,3,4,23,12,WWDLLWWDWLWWDL,4,2,1,12,7,11,5,4,5,13,12,LLWWLWLWDWDDDW,1,3,2,3,4,WDLWWWD,LWWDDD
+Metz,Strasbourg,3-2,/match/metz/strasbourg/2009,2009,15,ligue_2,20,38,0,3,2,7,7,4,3,14,8,LWDLLLDLWDDWWW,3,2,1,6,2,1,8,5,1,25,12,WLWLWDWDWWDDDW,2,3,1,9,9,WLDWDW,LLDDWD
+Ajaccio,Boulogne,0-2,/match/ajaccio/us-boulogne/2009,2009,16,ligue_2,20,38,2,0,2,11,5,5,5,23,20,LLDDWLWDLWDDWWW,3,3,2,14,7,4,8,4,3,18,10,DWDLWDWLWDLLWWL,3,4,1,6,4,LDWWLDDW,DDLDLDLW
+Clermont,Dijon FCO,1-1,/match/clermont-foot/dijon-fco/2009,2009,16,ligue_2,20,38,1,1,1,9,4,6,5,18,21,LDWDWWWDWDDWWWD,4,3,1,11,7,14,5,4,6,18,20,WLDWWWDLLDWWLDW,1,4,3,9,12,LWDWDDWW,WDWDLDWD
+Troyes,Stade de Reims,1-0,/match/troyes/stade-reims/2009,2009,16,ligue_2,20,38,0,1,0,12,5,4,6,13,15,LLWWLWLWDWDDDWW,4,1,3,10,8,19,2,6,7,16,28,WLLLWDDDLDLWWDD,1,4,3,8,11,LWLLWWDW,WLWDDDWD
+Stade Brestois,Chateauroux,2-0,/match/stade-brestois-29/berrichonne-chateauroux/2009,2009,16,ligue_2,20,38,0,2,0,18,6,1,8,16,18,LDWLLLWLWLLWLWW,2,1,4,9,10,15,4,4,7,15,19,LLWWWDWDWDWWWDW,1,0,6,7,14,DLLLLWW,LWWWWWW
+Tours,Amiens SC,0-0,/match/tours-fc/amiens-sc/2009,2009,16,ligue_2,20,38,1,0,0,7,7,1,7,20,20,WWWWLLWWWDWWWWW,6,0,1,15,5,10,4,6,5,14,15,DWDWWDWLLDDWDWW,1,2,4,5,9,WWLWWWW,WWDLDWW
+Vannes,Bastia,0-1,/match/vannes-olympique-club/bastia/2009,2009,16,ligue_2,20,38,2,0,1,8,6,3,6,12,15,LWWWWWWDLDWWWDW,4,3,0,7,2,16,4,5,6,12,17,LDWWLDWDWDDWWWL,2,1,5,4,11,WWWDDWD,LWLWWDWW
+Angers SCO,Montpellier,3-3,/match/angers-sco/montpellier-hsc/2009,2009,16,ligue_2,20,38,1,3,3,5,6,6,3,20,14,WDWDLWDWDWDWDWL,5,2,1,15,5,3,8,3,4,26,12,WWDLLWWDWLWWDLW,3,1,3,11,5,WWLDDWWW,WLWDLWL
+Nîmes,Metz,1-1,/match/nimes-olympique/metz/2009,2009,16,ligue_2,20,38,1,1,1,20,1,5,9,12,25,LWWLLLDDWDWLDDW,0,3,4,6,10,6,8,4,3,17,10,LWDLLLDLWDDWWWW,4,2,2,8,6,LLLDDLD,LDLLLDWW
+Strasbourg,Guingamp,0-2,/match/strasbourg/guingamp/2009,2009,16,ligue_2,20,38,2,0,2,1,8,5,2,27,15,WLWLWDWDWWDDDWW,6,2,0,16,3,17,3,6,6,13,17,LWLWDDDDWWWDDWW,0,3,4,5,10,WWWWWDDW,WWDDWDW
+Lens,Sedan,1-3,/match/lens/sedan/2009,2009,16,ligue_2,20,38,2,1,3,2,10,1,4,21,13,WWWLWLLWLWWWDLL,6,0,2,12,5,13,4,5,6,14,21,WWWDDDWLWDLWWDW,1,2,5,5,14,WWWLWWWL,WWDWWLWD
+Bastia,Ajaccio,6-2,/match/bastia/ajaccio/2009,2009,17,ligue_2,20,38,0,6,2,15,5,5,6,13,17,LDWWLDWDWDDWWWLL,2,4,1,8,6,13,5,5,6,23,22,LLDDWLWDLWDDWWWL,2,2,3,9,13,DWDDDWL,LDLDWWW
+Chateauroux,Nîmes,0-0,/match/berrichonne-chateauroux/nimes-olympique/2009,2009,17,ligue_2,20,38,1,0,0,17,4,4,8,15,21,LLWWWDWDWDWWWDWW,3,4,1,8,5,20,1,6,9,13,26,LWWLLLDDWDWLDDWD,1,2,5,6,15,LWDDDWDW,WWLDWWDW
+Dijon FCO,Troyes,1-1,/match/dijon-fco/troyes/2009,2009,17,ligue_2,20,38,1,1,1,14,5,5,6,19,21,WLDWWWDLLDWWLDWD,4,0,3,9,8,9,6,4,6,14,15,LLWWLWLWDWDDDWWW,1,3,3,3,7,LWWLWLW,LWWDDDW
+Montpellier,Guingamp,0-0,/match/montpellier-hsc/guingamp/2009,2009,17,ligue_2,20,38,1,0,0,3,8,4,4,29,15,WWDLLWWDWLWWDLWD,5,2,1,15,7,16,4,6,6,15,17,LWLWDDDDWWWDDWWL,1,3,4,7,10,WDLWWWDW,WWDDWDWL
+Sedan,Clermont,0-1,/match/sedan/clermont-foot/2009,2009,17,ligue_2,20,38,2,0,1,12,5,5,6,17,22,WWWDDDWLWDLWWDWL,3,3,1,9,7,8,4,7,5,19,22,LDWDWWWDWDDWWWDD,0,3,4,7,14,WDDLDWW,DWWWDWD
+Stade Brestois,Vannes,0-1,/match/stade-brestois-29/vannes-olympique-club/2009,2009,17,ligue_2,20,38,2,0,1,18,7,1,8,18,18,LDWLLLWLWLLWLWWW,3,1,4,11,10,10,6,3,7,12,16,LWWWWWWDLDWWWDWL,2,0,6,5,13,DLLLLWWW,LWWWLWWW
+Boulogne,Tours,3-3,/match/us-boulogne/tours-fc/2009,2009,17,ligue_2,20,38,1,3,3,4,9,4,3,20,10,DWDLWDWLWDLLWWLL,5,0,2,12,6,7,7,2,7,20,20,WWWWLLWWWDWWWWWD,1,1,6,5,15,WWWWLWL,WWLWDWWW
+Metz,Angers SCO,0-1,/match/metz/angers-sco/2009,2009,17,ligue_2,20,38,2,0,1,6,8,5,3,18,11,LWDLLLDLWDDWWWWD,4,2,1,9,4,5,6,7,3,23,17,WDWDLWDWDWDWDWLD,1,4,2,5,9,WLDWDWW,DDWWDDL
+Stade de Reims,Lens,1-2,/match/stade-reims/lens/2009,2009,17,ligue_2,20,38,2,1,2,19,2,6,8,16,29,WLLLWDDDLDLWWDDW,1,2,4,8,17,2,10,1,5,22,16,WWWLWLLWLWWWDLLL,4,1,2,9,8,LLDLLWD,WLLLWDL
+Amiens SC,Strasbourg,1-1,/match/amiens-sc/strasbourg/2009,2009,17,ligue_2,20,38,1,1,1,11,4,7,5,14,15,DWDWWDWLLDDWDWWD,3,4,1,9,6,1,8,5,3,27,17,WLWLWDWDWWDDDWWL,2,3,2,11,12,DDWWLDDW,LLDDWDW
+Ajaccio,Montpellier,0-3,/match/ajaccio/montpellier-hsc/2009,2009,18,ligue_2,20,38,2,0,3,14,5,5,7,25,28,LLDDWLWDLWDDWWWLW,3,3,3,14,9,3,8,5,4,29,15,WWDLLWWDWLWWDLWDD,3,2,3,14,8,LDWWLDDWL,WLWDLWLD
+Clermont,Chateauroux,1-3,/match/clermont-foot/berrichonne-chateauroux/2009,2009,18,ligue_2,20,38,2,1,3,8,5,7,5,20,22,LDWDWWWDWDDWWWDDL,4,4,1,12,8,17,4,5,8,15,21,LLWWWDWDWDWWWDWWD,1,0,7,7,16,LWDWDDWWD,LWWWWWWW
+Guingamp,Amiens SC,0-0,/match/guingamp/amiens-sc/2009,2009,18,ligue_2,20,38,1,0,0,16,4,7,6,15,17,LWLWDDDDWWWDDWWLD,3,3,2,8,7,12,4,8,5,15,16,DWDWWDWLLDDWDWWDD,1,3,4,5,9,LLDDWWDW,WWDLDWWD
+Nîmes,Bastia,1-0,/match/nimes-olympique/bastia/2009,2009,18,ligue_2,20,38,0,1,0,20,1,7,9,13,26,LWWLLLDDWDWLDDWDD,0,4,4,7,11,11,6,5,6,19,19,LDWWLDWDWDDWWWLLW,3,1,5,5,11,LLLDDLDD,LWLWWDWWL
+Tours,Stade de Reims,2-1,/match/tours-fc/stade-reims/2009,2009,18,ligue_2,20,38,0,2,1,7,7,3,7,23,23,WWWWLLWWWDWWWWWDD,6,1,1,15,5,19,2,6,9,17,31,WLLLWDDDLDLWWDDWL,1,4,4,8,12,WWLWWWWD,WLWDDDWDW
+Vannes,Sedan,0-0,/match/vannes-olympique-club/sedan/2009,2009,18,ligue_2,20,38,1,0,0,10,7,3,7,13,16,LWWWWWWDLDWWWDWLL,4,3,1,7,3,15,5,5,7,17,23,WWWDDDWLWDLWWDWLL,2,2,5,8,15,WWWDDWDL,WWDWWLWDL
+Angers SCO,Dijon FCO,2-0,/match/angers-sco/dijon-fco/2009,2009,18,ligue_2,20,38,0,2,0,5,7,7,3,24,17,WDWDLWDWDWDWDWLDL,5,3,1,18,8,13,5,6,6,20,22,WLDWWWDLLDWWLDWDD,1,5,3,10,13,WWLDDWWWD,WDWDLDWDD
+Troyes,Metz,3-1,/match/troyes/metz/2009,2009,18,ligue_2,20,38,0,3,1,9,6,5,6,15,16,LLWWLWLWDWDDDWWWD,5,1,3,11,8,6,8,5,4,18,12,LWDLLLDLWDDWWWWDL,4,3,2,9,7,LWLLWWDWW,LDLLLDWWD
+Lens,Stade Brestois,2-0,/match/lens/stade-brestois-29/2009,2009,18,ligue_2,20,38,0,2,0,2,11,1,5,24,17,WWWLWLLWLWWWDLLLL,6,0,3,13,8,18,7,1,9,18,19,LDWLLLWLWLLWLWWWL,4,0,4,7,8,WWWLWWWLL,LWLWWLLW
+Strasbourg,Boulogne,1-0,/match/strasbourg/us-boulogne/2009,2009,18,ligue_2,20,38,0,1,0,1,8,6,3,28,18,WLWLWDWDWWDDDWWLD,6,2,1,16,5,4,9,5,3,23,13,DWDLWDWLWDLLWWLLD,4,4,1,8,4,WWWWWDDWL,DDLDLDLWL
+Boulogne,Lens,3-1,/match/us-boulogne/lens/2009,2009,19,ligue_2,20,38,0,3,1,5,9,5,4,23,14,DWDLWDWLWDLLWWLLDW,5,1,2,15,9,2,12,1,5,26,17,WWWLWLLWLWWWDLLLLW,5,1,2,11,9,WWWWLWLD,WLLLWDLL
+Bastia,Clermont,2-1,/match/bastia/clermont-foot/2009,2009,19,ligue_2,20,38,0,2,1,12,6,5,7,19,20,LDWWLDWDWDDWWWLLWW,3,4,1,14,8,10,5,7,6,21,25,LDWDWWWDWDDWWWDDLL,1,3,4,8,14,DWDDDWLW,DWWWDWDL
+Stade Brestois,Guingamp,1-1,/match/stade-brestois-29/guingamp/2009,2009,19,ligue_2,20,38,1,1,1,18,7,1,10,18,21,LDWLLLWLWLLWLWWWLW,3,1,5,11,11,13,4,8,6,15,17,LWLWDDDDWWWDDWWLDD,1,4,4,7,10,DLLLLWWWL,WWDDWDWLD
+Vannes,Nîmes,1-0,/match/vannes-olympique-club/nimes-olympique/2009,2009,19,ligue_2,20,38,0,1,0,9,7,4,7,13,16,LWWWWWWDLDWWWDWLLD,4,4,1,7,3,19,2,7,9,14,26,LWWLLLDDWDWLDDWDDW,1,3,5,6,15,WWWDDWDLD,WWLDWWDWD
+Montpellier,Tours,1-1,/match/montpellier-hsc/tours-fc/2009,2009,19,ligue_2,20,38,1,1,1,4,9,5,4,32,15,WWDLLWWDWLWWDLWDDL,5,3,1,15,7,6,8,3,7,25,24,WWWWLLWWWDWWWWWDDW,1,2,6,8,18,WDLWWWDWD,WWLWDWWWD
+Stade de Reims,Strasbourg,4-1,/match/stade-reims/strasbourg/2009,2009,19,ligue_2,20,38,0,4,1,20,2,6,10,18,33,WLLLWDDDLDLWWDDWLW,1,2,5,9,19,1,9,6,3,29,18,WLWLWDWDWWDDDWWLDW,2,4,2,12,13,LLDLLWDL,LLDDWDWD
+Chateauroux,Angers SCO,0-1,/match/berrichonne-chateauroux/angers-sco/2009,2009,19,ligue_2,20,38,2,0,1,14,5,5,8,18,22,LLWWWDWDWDWWWDWWDL,3,5,1,8,5,3,8,7,3,26,17,WDWDLWDWDWDWDWLDLW,2,4,2,6,9,LWDDDWDWD,DDWWDDLL
+Dijon FCO,Amiens SC,2-1,/match/dijon-fco/amiens-sc/2009,2009,19,ligue_2,20,38,0,2,1,15,5,6,7,20,24,WLDWWWDLLDWWLDWDDW,4,1,3,10,9,11,4,9,5,15,16,DWDWWDWLLDDWDWWDDD,1,4,4,5,9,LWWLWLWD,WWDLDWWDD
+Sedan,Troyes,2-1,/match/sedan/troyes/2009,2009,19,ligue_2,20,38,0,2,1,16,5,6,7,17,23,WWWDDDWLWDLWWDWLLD,3,3,2,9,8,7,7,5,6,18,17,LLWWLWLWDWDDDWWWDW,1,4,3,4,8,WDDLDWWL,LWWDDDWD
+Metz,Ajaccio,3-2,/match/metz/ajaccio/2009,2009,19,ligue_2,20,38,0,3,2,8,8,5,5,19,15,LWDLLLDLWDDWWWWDLW,4,2,2,9,5,17,5,5,8,25,31,LLDDWLWDLWDDWWWLWL,2,2,4,11,19,WLDWDWWL,LDLDWWWW
+Ajaccio,Stade de Reims,2-1,/match/ajaccio/stade-reims/2009,2009,20,ligue_2,20,38,0,2,1,17,5,5,9,27,34,LLDDWLWDLWDDWWWLWLW,3,3,4,14,12,19,3,6,10,22,34,WLLLWDDDLDLWWDDWLWW,1,4,5,9,14,LDWWLDDWLL,WLWDDDWDWW
+Angers SCO,Bastia,2-0,/match/angers-sco/bastia/2009,2009,20,ligue_2,20,38,0,2,0,2,9,7,3,27,17,WDWDLWDWDWDWDWLDLWL,6,3,1,20,8,10,7,5,7,21,21,LDWWLDWDWDDWWWLLWWW,3,1,6,5,12,WWLDDWWWDW,LWLWWDWWLW
+Clermont,Stade Brestois,2-0,/match/clermont-foot/stade-brestois-29/2009,2009,20,ligue_2,20,38,0,2,0,12,5,7,7,22,27,LDWDWWWDWDDWWWDDLLW,4,4,2,13,11,18,7,2,10,19,22,LDWLLLWLWLLWLWWWLWD,4,0,5,7,10,LWDWDDWWDL,LWLWWLLWW
+Guingamp,Boulogne,3-0,/match/guingamp/us-boulogne/2009,2009,20,ligue_2,20,38,0,3,0,15,4,9,6,16,18,LWLWDDDDWWWDDWWLDDD,3,4,2,8,7,5,10,5,4,26,15,DWDLWDWLWDLLWWLLDWW,4,4,2,8,5,LLDDWWDWD,DDLDLDLWLW
+Nîmes,Sedan,2-1,/match/nimes-olympique/sedan/2009,2009,20,ligue_2,20,38,0,2,1,20,2,7,10,14,27,LWWLLLDDWDWLDDWDDWW,1,4,4,8,11,13,6,6,7,19,24,WWWDDDWLWDLWWDWLLDW,2,3,5,8,15,LLLDDLDDW,WWDWWLWDLD
+Amiens SC,Montpellier,2-0,/match/amiens-sc/montpellier-hsc/2009,2009,20,ligue_2,20,38,0,2,0,14,4,9,6,16,18,DWDWWDWLLDDWDWWDDDW,3,5,1,10,7,4,9,6,4,33,16,WWDLLWWDWLWWDLWDDLD,4,2,3,17,8,DDWWLDDWD,WLWDLWLDL
+Tours,Metz,1-4,/match/tours-fc/metz/2009,2009,20,ligue_2,20,38,2,1,4,6,8,4,7,26,25,WWWWLLWWWDWWWWWDDWD,7,1,1,17,6,7,9,5,5,22,17,LWDLLLDLWDDWWWWDLWW,4,3,3,10,10,WWLWWWWDW,LDLLLDWWDW
+Strasbourg,Dijon FCO,0-0,/match/strasbourg/dijon-fco/2009,2009,20,ligue_2,20,38,1,0,0,1,9,6,4,30,22,WLWLWDWDWWDDDWWLDWW,7,2,1,17,5,11,6,6,7,22,25,WLDWWWDLLDWWLDWDDWW,1,5,4,10,15,WWWWWDDWLW,WDWDLDWDDW
+Troyes,Chateauroux,2-2,/match/troyes/berrichonne-chateauroux/2009,2009,20,ligue_2,20,38,1,2,2,9,7,5,7,19,19,LLWWLWLWDWDDDWWWDWW,6,1,3,14,9,16,5,5,9,18,23,LLWWWDWDWDWWWDWWDLL,2,0,7,10,17,LWLLWWDWWW,LWWWWWWWL
+Lens,Vannes,2-1,/match/lens/vannes-olympique-club/2009,2009,20,ligue_2,20,38,0,2,1,3,12,1,6,27,20,WWWLWLLWLWWWDLLLLWW,7,0,3,15,8,8,8,4,7,14,16,LWWWWWWDLDWWWDWLLDW,3,0,6,6,13,WWWLWWWLLW,LWWWLWWWL
+Bastia,Strasbourg,1-1,/match/bastia/strasbourg/2009,2009,21,ligue_2,20,38,1,1,1,12,7,5,8,21,23,LDWWLDWDWDDWWWLLWWWW,4,4,1,16,9,3,9,7,4,30,22,WLWLWDWDWWDDDWWLDWWD,2,4,3,13,17,DWDDDWLWW,LLDDWDWDW
+Dijon FCO,Ajaccio,2-1,/match/dijon-fco/ajaccio/2009,2009,21,ligue_2,20,38,0,2,1,14,6,7,7,22,25,WLDWWWDLLDWWLDWDDWWD,5,1,3,12,10,16,6,5,9,29,35,LLDDWLWDLWDDWWWLWLWW,2,2,5,13,22,LWWLWLWDW,LDLDWWWWW
+Nîmes,Clermont,1-1,/match/nimes-olympique/clermont-foot/2009,2009,21,ligue_2,20,38,1,1,1,19,3,7,10,16,28,LWWLLLDDWDWLDDWDDWWW,2,4,4,10,12,10,6,7,7,24,27,LDWDWWWDWDDWWWDDLLWW,1,3,5,9,16,LLLDDLDDWW,DWWWDWDLW
+Sedan,Angers SCO,0-0,/match/sedan/angers-sco/2009,2009,21,ligue_2,20,38,1,0,0,15,6,6,8,20,26,WWWDDDWLWDLWWDWLLDWW,4,3,2,11,9,1,10,7,3,29,17,WDWDLWDWDWDWDWLDLWLW,3,4,2,7,9,WDDLDWWLW,DDWWDDLLL
+Stade Brestois,Troyes,4-1,/match/stade-brestois-29/troyes/2009,2009,21,ligue_2,20,38,0,4,1,18,7,2,11,19,24,LDWLLLWLWLLWLWWWLWDW,3,2,5,12,12,9,7,6,7,21,21,LLWWLWLWDWDDDWWWDWWD,1,4,4,5,10,DLLLLWWWLD,LWWDDDWDW
+Vannes,Tours,1-0,/match/vannes-olympique-club/tours-fc/2009,2009,21,ligue_2,20,38,0,1,0,8,8,4,8,15,18,LWWWWWWDLDWWWDWLLDWW,5,4,1,8,3,7,8,4,8,27,29,WWWWLLWWWDWWWWWDDWDL,1,3,6,9,19,WWWDDWDLDW,WWLWDWWWDD
+Chateauroux,Lens,0-0,/match/berrichonne-chateauroux/lens/2009,2009,21,ligue_2,20,38,1,0,0,17,5,6,9,20,25,LLWWWDWDWDWWWDWWDLLD,3,5,2,8,6,2,13,1,6,29,21,WWWLWLLWLWWWDLLLLWWW,5,1,3,12,12,LWDDDWDWDL,WLLLWDLLW
+Metz,Amiens SC,2-1,/match/metz/amiens-sc/2009,2009,21,ligue_2,20,38,0,2,1,6,10,5,5,26,18,LWDLLLDLWDDWWWWDLWWL,5,2,2,12,7,11,5,9,6,18,18,DWDWWDWLLDDWDWWDDDWW,1,4,5,6,11,WLDWDWWLW,WWDLDWWDDW
+Stade de Reims,Guingamp,0-0,/match/stade-reims/guingamp/2009,2009,21,ligue_2,20,38,1,0,0,20,3,6,11,23,36,WLLLWDDDLDLWWDDWLWWW,2,2,5,13,20,13,5,9,6,19,18,LWLWDDDDWWWDDWWLDDDW,1,5,4,8,11,LLDLLWDLW,WWDDWDWLDD
+Boulogne,Montpellier,0-3,/match/us-boulogne/montpellier-hsc/2009,2009,21,ligue_2,20,38,2,0,3,5,10,5,5,26,18,DWDLWDWLWDLLWWLLDWWW,6,1,2,18,10,4,9,6,5,33,18,WWDLLWWDWLWWDLWDDLDW,4,2,4,17,10,WWWWLWLDW,WLWDLWLDLW
+Ajaccio,Sedan,0-2,/match/ajaccio/sedan/2009,2009,22,ligue_2,20,38,2,0,2,17,6,5,10,30,37,LLDDWLWDLWDDWWWLWLWWW,4,3,4,16,13,15,6,7,8,20,26,WWWDDDWLWDLWWDWLLDWWD,2,3,6,9,17,LDWWLDDWLLW,WWDWWLWDLDW
+Amiens SC,Chateauroux,1-1,/match/amiens-sc/berrichonne-chateauroux/2009,2009,22,ligue_2,20,38,1,1,1,13,5,9,7,19,20,DWDWWDWLLDDWDWWDDDWWW,4,5,1,12,7,16,5,7,9,20,25,LLWWWDWDWDWWWDWWDLLDD,2,1,7,12,19,DDWWLDDWDW,LWWWWWWWLD
+Angers SCO,Clermont,4-2,/match/angers-sco/clermont-foot/2009,2009,22,ligue_2,20,38,0,4,2,1,10,8,3,29,17,WDWDLWDWDWDWDWLDLWLWD,7,3,1,22,8,11,6,8,7,25,28,LDWDWWWDWDDWWWDDLLWWD,1,4,5,10,17,WWLDDWWWDWW,DWWWDWDLWD
+Guingamp,Bastia,4-1,/match/guingamp/bastia/2009,2009,22,ligue_2,20,38,0,4,1,14,5,10,6,19,18,LWLWDDDDWWWDDWWLDDDWD,4,4,2,11,7,12,7,6,8,22,24,LDWWLDWDWDDWWWLLWWWWD,3,1,7,5,14,LLDDWWDWDW,LWLWWDWWLWW
+Tours,Dijon FCO,0-0,/match/tours-fc/dijon-fco/2009,2009,22,ligue_2,20,38,1,0,0,8,8,4,9,27,30,WWWWLLWWWDWWWWWDDWDLW,7,1,2,18,10,9,7,7,7,24,26,WLDWWWDLLDWWLDWDDWWDW,1,6,4,10,15,WWLWWWWDWL,WDWDLDWDDWD
+Boulogne,Metz,1-1,/match/us-boulogne/metz/2009,2009,22,ligue_2,20,38,1,1,1,6,10,5,6,26,21,DWDLWDWLWDLLWWLLDWWWL,6,1,3,18,13,4,11,5,5,28,19,LWDLLLDLWDDWWWWDLWWLW,5,3,3,14,11,WWWWLWLDWL,LDLLLDWWDWL
+Lens,Nîmes,1-0,/match/lens/nimes-olympique/2009,2009,22,ligue_2,20,38,0,1,0,2,13,2,6,29,21,WWWLWLLWLWWWDLLLLWWWD,8,0,3,17,9,19,3,8,10,17,29,LWWLLLDDWDWLDDWDDWWWD,1,3,6,6,16,WWWLWWWLLWW,WWLDWWDWDW
+Strasbourg,Stade Brestois,2-2,/match/strasbourg/stade-brestois-29/2009,2009,22,ligue_2,20,38,1,2,2,3,9,8,4,31,23,WLWLWDWDWWDDDWWLDWWDD,7,3,1,17,5,18,8,2,11,23,25,LDWLLLWLWLLWLWWWLWDWW,4,0,6,7,12,WWWWWDDWLWD,LWLWWLLWWW
+Troyes,Vannes,3-0,/match/troyes/vannes-olympique-club/2009,2009,22,ligue_2,20,38,0,3,0,10,7,6,8,22,25,LLWWLWLWDWDDDWWWDWWDW,6,2,3,16,11,7,9,4,8,16,18,LWWWWWWDLDWWWDWLLDWWW,3,0,7,7,15,LWLLWWDWWWD,LWWWLWWWLW
+Montpellier,Stade de Reims,2-2,/match/montpellier-hsc/stade-reims/2009,2009,22,ligue_2,20,38,1,2,2,5,10,6,5,36,18,WWDLLWWDWLWWDLWDDLDWL,5,4,1,16,8,20,3,7,11,23,36,WLLLWDDDLDLWWDDWLWWWD,1,4,6,10,16,WDLWWWDWDD,WLWDDDWDWWW
+Bastia,Tours,2-0,/match/bastia/tours-fc/2009,2009,23,ligue_2,20,38,0,2,0,14,7,6,9,23,28,LDWWLDWDWDDWWWLLWWWWDW,4,5,1,17,10,9,8,5,9,27,30,WWWWLLWWWDWWWWWDDWDLWD,1,3,7,9,20,DWDDDWLWWD,WWLWDWWWDDW
+Chateauroux,Strasbourg,0-1,/match/berrichonne-chateauroux/strasbourg/2009,2009,23,ligue_2,20,38,2,0,1,16,5,8,9,21,26,LLWWWDWDWDWWWDWWDLLDDD,3,6,2,8,6,3,9,9,4,33,25,WLWLWDWDWWDDDWWLDWWDDD,2,5,3,14,18,LWDDDWDWDLD,LLDDWDWDWD
+Nîmes,Troyes,1-0,/match/nimes-olympique/troyes/2009,2009,23,ligue_2,20,38,0,1,0,19,3,8,11,17,30,LWWLLLDDWDWLDDWDDWWWDW,2,5,4,11,13,8,8,6,8,25,25,LLWWLWLWDWDDDWWWDWWDWW,1,4,5,6,14,LLLDDLDDWWD,LWWDDDWDWW
+Stade de Reims,Amiens SC,1-3,/match/stade-reims/amiens-sc/2009,2009,23,ligue_2,20,38,2,1,3,20,3,8,11,25,38,WLLLWDDDLDLWWDDWLWWWDD,2,3,5,13,20,12,5,10,7,20,21,DWDWWDWLLDDWDWWDDDWWWD,1,4,6,7,13,LLDLLWDLWD,WWDLDWWDDWW
+Sedan,Guingamp,1-0,/match/sedan/guingamp/2009,2009,23,ligue_2,20,38,0,1,0,15,7,7,8,22,26,WWWDDDWLWDLWWDWLLDWWDL,4,4,2,11,9,10,6,10,6,23,19,LWLWDDDDWWWDDWWLDDDWDW,1,6,4,8,11,WDDLDWWLWD,WWDDWDWLDDD
+Vannes,Ajaccio,1-1,/match/vannes-olympique-club/ajaccio/2009,2009,23,ligue_2,20,38,1,1,1,7,9,4,9,16,21,LWWWWWWDLDWWWDWLLDWWWW,6,4,1,9,3,18,6,5,11,30,39,LLDDWLWDLWDDWWWLWLWWWL,2,2,6,14,24,WWWDDWDLDWW,LDLDWWWWWW
+Dijon FCO,Boulogne,1-0,/match/dijon-fco/us-boulogne/2009,2009,23,ligue_2,20,38,0,1,0,11,7,8,7,24,26,WLDWWWDLLDWWLDWDDWWDWD,6,1,3,14,11,6,10,6,6,27,22,DWDLWDWLWDLLWWLLDWWWLD,4,4,3,8,8,LWWLWLWDWW,DDLDLDLWLWW
+Metz,Montpellier,3-1,/match/metz/montpellier-hsc/2009,2009,23,ligue_2,20,38,0,3,1,4,11,6,5,29,20,LWDLLLDLWDDWWWWDLWWLWD,6,2,2,14,8,5,10,7,5,38,20,WWDLLWWDWLWWDLWDDLDWLD,5,2,4,20,10,WLDWDWWLWW,WLWDLWLDLWL
+Stade Brestois,Angers SCO,2-1,/match/stade-brestois-29/angers-sco/2009,2009,23,ligue_2,20,38,0,2,1,17,8,3,11,25,27,LDWLLLWLWLLWLWWWLWDWWD,4,2,5,16,13,1,11,8,3,33,19,WDWDLWDWDWDWDWLDLWLWDW,3,5,2,7,9,DLLLLWWWLDW,DDWWDDLLLD
+Clermont,Lens,1-2,/match/clermont-foot/lens/2009,2009,23,ligue_2,20,38,2,1,2,13,6,8,8,27,32,LDWDWWWDWDDWWWDDLLWWDW,5,4,2,15,11,2,14,2,6,30,21,WWWLWLLWLWWWDLLLLWWWDW,5,2,3,12,12,LWDWDDWWDLW,WLLLWDLLWD
+Ajaccio,Stade Brestois,1-1,/match/ajaccio/stade-brestois-29/2009,2009,24,ligue_2,20,38,1,1,1,18,6,6,11,31,40,LLDDWLWDLWDDWWWLWLWWWLD,4,3,5,16,15,16,9,3,11,27,28,LDWLLLWLWLLWLWWWLWDWWDW,4,1,6,9,14,LDWWLDDWLLWL,LWLWWLLWWWD
+Amiens SC,Bastia,0-1,/match/amiens-sc/bastia/2009,2009,24,ligue_2,20,38,2,0,1,14,6,10,7,23,22,DWDWWDWLLDDWDWWDDDWWWDL,4,6,1,13,8,11,8,6,9,25,28,LDWWLDWDWDDWWWLLWWWWDWW,3,1,8,6,18,DDWWLDDWDWD,LWLWWDWWLWWW
+Troyes,Clermont,0-1,/match/troyes/clermont-foot/2009,2009,24,ligue_2,20,38,2,0,1,9,8,6,9,25,26,LLWWLWLWDWDDDWWWDWWDWWW,7,2,3,19,11,15,6,8,9,28,34,LDWDWWWDWDDWWWDDLLWWDWL,1,4,6,12,21,LWLLWWDWWWDW,DWWWDWDLWDW
+Guingamp,Chateauroux,2-1,/match/guingamp/berrichonne-chateauroux/2009,2009,24,ligue_2,20,38,0,2,1,13,6,10,7,23,20,LWLWDDDDWWWDDWWLDDDWDWW,5,4,2,15,8,17,5,8,10,21,27,LLWWWDWDWDWWWDWWDLLDDDL,2,2,7,13,20,LLDDWWDWDWW,LWWWWWWWLDD
+Montpellier,Dijon FCO,4-1,/match/montpellier-hsc/dijon-fco/2009,2009,24,ligue_2,20,38,0,4,1,5,10,7,6,39,23,WWDLLWWDWLWWDLWDDLDWLDW,5,5,1,18,10,8,8,8,7,25,26,WLDWWWDLLDWWLDWDDWWDWDW,1,7,4,10,15,WDLWWWDWDDD,WDWDLDWDDWDD
+Tours,Nîmes,4-1,/match/tours-fc/nimes-olympique/2009,2009,24,ligue_2,20,38,0,4,1,10,8,5,10,27,32,WWWWLLWWWDWWWWWDDWDLWDW,7,2,2,18,10,19,4,8,11,18,30,LWWLLLDDWDWLDDWDDWWWDWW,1,3,7,6,17,WWLWWWWDWLD,WWLDWWDWDWW
+Angers SCO,Vannes,0-1,/match/angers-sco/vannes-olympique-club/2009,2009,24,ligue_2,20,38,2,0,1,2,11,8,4,34,21,WDWDLWDWDWDWDWLDLWLWDWW,8,3,1,26,10,7,9,5,9,17,22,LWWWWWWDLDWWWDWLLDWWWWD,3,0,8,7,18,WWLDDWWWDWWW,LWWWLWWWLWW
+Boulogne,Stade de Reims,0-3,/match/us-boulogne/stade-reims/2009,2009,24,ligue_2,20,38,2,0,3,6,10,6,7,27,23,DWDLWDWLWDLLWWLLDWWWLDW,6,2,3,19,14,20,3,8,12,26,41,WLLLWDDDLDLWWDDWLWWWDDL,1,5,6,12,18,WWWWLWLDWLD,WLWDDDWDWWWD
+Strasbourg,Sedan,1-3,/match/strasbourg/sedan/2009,2009,24,ligue_2,20,38,2,1,3,3,10,9,4,34,25,WLWLWDWDWWDDDWWLDWWDDDL,7,4,1,19,7,12,8,7,8,23,26,WWWDDDWLWDLWWDWLLDWWDLW,3,3,6,11,17,WWWWWDDWLWDD,WWDWWLWDLDWL
+Metz,Lens,1-2,/match/metz/lens/2009,2009,24,ligue_2,20,38,2,1,2,4,12,6,5,32,21,LWDLLLDLWDDWWWWDLWWLWDW,7,2,2,17,9,1,15,2,6,32,22,WWWLWLLWLWWWDLLLLWWWDWL,6,2,3,14,13,WLDWDWWLWWW,WLLLWDLLWDL
+Bastia,Boulogne,1-3,/match/bastia/us-boulogne/2009,2009,25,ligue_2,20,38,2,1,3,11,9,6,9,26,28,LDWWLDWDWDDWWWLLWWWWDWWL,5,5,1,19,10,8,10,6,8,27,26,DWDLWDWLWDLLWWLLDWWWLDWL,4,4,4,8,9,DWDDDWLWWDW,DDLDLDLWLWWW
+Chateauroux,Tours,1-1,/match/berrichonne-chateauroux/tours-fc/2009,2009,25,ligue_2,20,38,1,1,1,18,5,8,11,22,29,LLWWWDWDWDWWWDWWDLLDDDLW,3,6,3,8,7,7,9,5,10,31,33,WWWWLLWWWDWWWWWDDWDLWDWW,1,3,8,9,22,LWDDDWDWDLDL,WWLWDWWWDDWW
+Clermont,Ajaccio,1-1,/match/clermont-foot/ajaccio/2009,2009,25,ligue_2,20,38,1,1,1,15,7,8,9,29,34,LDWDWWWDWDDWWWDDLLWWDWLL,5,4,3,16,13,17,6,7,11,32,41,LLDDWLWDLWDDWWWLWLWWWLDD,2,3,6,15,25,LWDWDDWWDLWL,LDLDWWWWWWD
+Dijon FCO,Guingamp,2-3,/match/dijon-fco/guingamp/2009,2009,25,ligue_2,20,38,2,2,3,12,8,8,8,26,30,WLDWWWDLLDWWLDWDDWWDWDWW,7,1,3,15,11,9,7,10,7,25,21,LWLWDDDDWWWDDWWLDDDWDWWW,1,6,5,8,12,LWWLWLWDWWW,WWDDWDWLDDDW
+Sedan,Montpellier,1-1,/match/sedan/montpellier-hsc/2009,2009,25,ligue_2,20,38,1,1,1,10,9,7,8,26,27,WWWDDDWLWDLWWDWLLDWWDLWL,5,4,2,12,9,5,11,7,6,43,24,WWDLLWWDWLWWDLWDDLDWLDWW,5,2,5,21,13,WDDLDWWLWDW,WLWDLWLDLWLW
+Stade Brestois,Amiens SC,1-2,/match/stade-brestois-29/amiens-sc/2009,2009,25,ligue_2,20,38,2,1,2,16,9,4,11,28,29,LDWLLLWLWLLWLWWWLWDWWDWD,5,2,5,18,14,14,6,10,8,23,23,DWDWWDWLLDDWDWWDDDWWWDLL,2,4,6,10,14,DLLLLWWWLDWW,WWDLDWWDDWWL
+Nîmes,Angers SCO,1-1,/match/nimes-olympique/angers-sco/2009,2009,25,ligue_2,20,38,1,1,1,19,4,8,12,19,34,LWWLLLDDWDWLDDWDDWWWDWWW,3,5,4,12,13,2,11,8,5,34,22,WDWDLWDWDWDWDWLDLWLWDWWL,3,5,3,8,11,LLLDDLDDWWDW,DDWWDDLLLDW
+Stade de Reims,Metz,1-1,/match/stade-reims/metz/2009,2009,25,ligue_2,20,38,1,1,1,20,4,8,12,29,41,WLLLWDDDLDLWWDDWLWWWDDLL,2,3,6,14,23,4,12,6,6,33,23,LWDLLLDLWDDWWWWDLWWLWDWL,5,4,3,15,12,LLDLLWDLWDL,LDLLLDWWDWLD
+Vannes,Strasbourg,2-2,/match/vannes-olympique-club/strasbourg/2009,2009,25,ligue_2,20,38,1,2,2,6,10,5,9,18,22,LWWWWWWDLDWWWDWLLDWWWWDL,6,5,1,10,4,3,10,9,5,35,28,WLWLWDWDWWDDDWWLDWWDDDLL,3,5,3,15,18,WWWDDWDLDWWD,LLDDWDWDWDL
+Lens,Troyes,1-1,/match/lens/troyes/2009,2009,25,ligue_2,20,38,1,1,1,1,16,2,6,34,23,WWWLWLLWLWWWDLLLLWWWDWLL,9,0,3,18,9,13,8,6,10,25,27,LLWWLWLWDWDDDWWWDWWDWWWL,1,4,6,6,15,WWWLWWWLLWWW,LWWDDDWDWWW
+Boulogne,Stade Brestois,0-1,/match/us-boulogne/stade-brestois-29/2009,2009,26,ligue_2,20,38,2,0,1,8,11,6,8,30,27,DWDLWDWLWDLLWWLLDWWWLDWLL,6,2,4,19,17,16,9,4,12,29,31,LDWLLLWLWLLWLWWWLWDWWDWDL,4,2,6,10,15,WWWWLWLDWLDL,LWLWWLLWWWDD
+Guingamp,Vannes,1-1,/match/guingamp/vannes-olympique-club/2009,2009,26,ligue_2,20,38,1,1,1,9,8,10,7,28,23,LWLWDDDDWWWDDWWLDDDWDWWWL,6,4,2,17,9,6,10,6,9,20,24,LWWWWWWDLDWWWDWLLDWWWWDLD,4,0,8,8,18,LLDDWWDWDWWW,LWWWLWWWLWWL
+Stade de Reims,Bastia,2-0,/match/stade-reims/bastia/2009,2009,26,ligue_2,20,38,0,2,0,20,4,9,12,30,42,WLLLWDDDLDLWWDDWLWWWDDLLD,2,4,6,15,24,12,9,6,10,27,31,LDWWLDWDWDDWWWLLWWWWDWWLL,4,1,8,7,18,LLDLLWDLWDLD,LWLWWDWWLWWWL
+Tours,Troyes,4-3,/match/tours-fc/troyes/2009,2009,26,ligue_2,20,38,0,4,3,7,9,6,10,32,34,WWWWLLWWWDWWWWWDDWDLWDWWD,8,2,2,22,11,11,8,7,10,26,28,LLWWLWLWDWDDDWWWDWWDWWWLD,1,5,6,7,16,WWLWWWWDWLDW,LWWDDDWDWWWD
+Metz,Dijon FCO,2-0,/match/metz/dijon-fco/2009,2009,26,ligue_2,20,38,0,2,0,4,12,7,6,34,24,LWDLLLDLWDDWWWWDLWWLWDWLD,7,2,3,18,11,13,8,8,9,28,33,WLDWWWDLLDWWLDWDDWWDWDWWL,1,7,5,11,19,WLDWDWWLWWWL,WDWDLDWDDWDDW
+Montpellier,Chateauroux,3-0,/match/montpellier-hsc/berrichonne-chateauroux/2009,2009,26,ligue_2,20,38,0,3,0,5,11,8,6,44,25,WWDLLWWDWLWWDLWDDLDWLDWWD,6,5,1,22,11,18,5,9,11,23,30,LLWWWDWDWDWWWDWWDLLDDDLWD,2,2,8,14,22,WDLWWWDWDDDW,LWWWWWWWLDDW
+Strasbourg,Clermont,2-0,/match/strasbourg/clermont-foot/2009,2009,26,ligue_2,20,38,0,2,0,3,10,10,5,37,30,WLWLWDWDWWDDDWWLDWWDDDLLD,7,4,2,20,10,15,7,9,9,30,35,LDWDWWWDWDDWWWDDLLWWDWLLD,2,4,6,13,21,WWWWWDDWLWDDL,DWWWDWDLWDWL
+Ajaccio,Nîmes,2-1,/match/ajaccio/nimes-olympique/2009,2009,26,ligue_2,20,38,0,2,1,17,6,8,11,33,42,LLDDWLWDLWDDWWWLWLWWWLDDD,4,4,5,17,16,19,4,9,12,20,35,LWWLLLDDWDWLDDWDDWWWDWWWD,1,3,8,7,21,LDWWLDDWLLWLD,WWLDWWDWDWWW
+Amiens SC,Sedan,0-0,/match/amiens-sc/sedan/2009,2009,26,ligue_2,20,38,1,0,0,14,7,10,8,25,24,DWDWWDWLLDDWDWWDDDWWWDLLL,4,6,2,13,9,10,9,8,8,27,28,WWWDDDWLWDLWWDWLLDWWDLWLD,4,3,6,14,18,DDWWLDDWDWDL,WWDWWLWDLDWLL
+Angers SCO,Lens,2-2,/match/angers-sco/lens/2009,2009,26,ligue_2,20,38,1,2,2,2,11,9,5,35,23,WDWDLWDWDWDWDWLDLWLWDWWLD,8,3,2,26,11,1,16,3,6,35,24,WWWLWLLWLWWWDLLLLWWWDWLLD,7,2,3,16,14,WWLDDWWWDWWWL,WLLLWDLLWDLL
+Bastia,Montpellier,1-0,/match/bastia/montpellier-hsc/2009,2009,27,ligue_2,20,38,0,1,0,14,9,6,11,27,33,LDWWLDWDWDDWWWLLWWWWDWWLLW,5,5,2,20,13,5,12,8,6,47,25,WWDLLWWDWLWWDLWDDLDWLDWWDW,5,3,5,22,14,DWDDDWLWWDWL,WLWDLWLDLWLWD
+Chateauroux,Boulogne,1-0,/match/berrichonne-chateauroux/us-boulogne/2009,2009,27,ligue_2,20,38,0,1,0,18,5,9,12,23,33,LLWWWDWDWDWWWDWWDLLDDDLWDW,3,7,3,9,8,9,11,6,9,30,28,DWDLWDWLWDLLWWLLDWWWLDWLLL,5,4,4,11,10,LWDDDWDWDLDLD,DDLDLDLWLWWWL
+Clermont,Guingamp,1-1,/match/clermont-foot/guingamp/2009,2009,27,ligue_2,20,38,1,1,1,15,7,9,10,30,37,LDWDWWWDWDDWWWDDLLWWDWLLDW,5,5,3,17,14,8,8,11,7,29,24,LWLWDDDDWWWDDWWLDDDWDWWWLD,2,6,5,11,14,LWDWDDWWDLWLD,WWDDWDWLDDDWL
+Dijon FCO,Stade de Reims,1-1,/match/dijon-fco/stade-reims/2009,2009,27,ligue_2,20,38,1,1,1,12,8,8,10,28,35,WLDWWWDLLDWWLDWDDWWDWDWWLW,7,1,4,17,14,20,5,9,12,32,42,WLLLWDDDLDLWWDDWLWWWDDLLDW,2,5,6,15,18,LWWLWLWDWWWL,WLWDDDWDWWWDL
+Stade Brestois,Tours,0-1,/match/stade-brestois-29/tours-fc/2009,2009,27,ligue_2,20,38,2,0,1,16,10,4,12,30,31,LDWLLLWLWLLWLWWWLWDWWDWDLL,5,2,6,19,16,6,10,6,10,36,37,WWWWLLWWWDWWWWWDDWDLWDWWDW,1,4,8,10,23,DLLLLWWWLDWWL,WWLWDWWWDDWWD
+Vannes,Amiens SC,2-1,/match/vannes-olympique-club/amiens-sc/2009,2009,27,ligue_2,20,38,0,2,1,7,10,7,9,21,25,LWWWWWWDLDWWWDWLLDWWWWDLDD,6,6,1,12,6,11,7,11,8,25,24,DWDWWDWLLDDWDWWDDDWWWDLLLD,3,4,6,12,15,WWWDDWDLDWWDD,WWDLDWWDDWWLL
+Troyes,Angers SCO,1-2,/match/troyes/angers-sco/2009,2009,27,ligue_2,20,38,2,1,2,13,8,7,11,29,32,LLWWLWLWDWDDDWWWDWWDWWWLDW,7,2,4,19,12,3,11,10,5,37,25,WDWDLWDWDWDWDWLDLWLWDWWLDD,3,6,3,9,12,LWLLWWDWWWDWL,DDWWDDLLLDWD
+Lens,Ajaccio,0-1,/match/lens/ajaccio/2009,2009,27,ligue_2,20,38,2,0,1,1,16,4,6,37,26,WWWLWLLWLWWWDLLLLWWWDWLLDD,9,1,3,19,10,17,7,8,11,35,43,LLDDWLWDLWDDWWWLWLWWWLDDDW,2,4,6,16,26,WWWLWWWLLWWWD,LDLDWWWWWWDD
+Sedan,Metz,3-2,/match/sedan/metz/2009,2009,27,ligue_2,20,38,0,3,2,10,9,9,8,27,28,WWWDDDWLWDLWWDWLLDWWDLWLDD,5,5,2,13,10,4,13,7,6,36,24,LWDLLLDLWDDWWWWDLWWLWDWLDW,5,5,3,16,13,WDDLDWWLWDWD,LDLLLDWWDWLDD
+Nîmes,Strasbourg,0-2,/match/nimes-olympique/strasbourg/2009,2009,27,ligue_2,20,38,2,0,2,19,4,9,13,21,37,LWWLLLDDWDWLDDWDDWWWDWWWDW,3,6,4,13,14,2,11,10,5,39,30,WLWLWDWDWWDDDWWLDWWDDDLLDW,3,6,3,17,20,LLLDDLDDWWDWD,LLDDWDWDWDLD
+Ajaccio,Troyes,1-1,/match/ajaccio/troyes/2009,2009,28,ligue_2,20,38,1,1,1,16,8,8,11,36,43,LLDDWLWDLWDDWWWLWLWWWLDDDWL,5,4,5,19,17,15,8,7,12,30,34,LLWWLWLWDWDDDWWWDWWDWWWLDWL,1,5,7,10,20,LDWWLDDWLLWLDW,LWWDDDWDWWWDW
+Amiens SC,Nîmes,0-1,/match/amiens-sc/nimes-olympique/2009,2009,28,ligue_2,20,38,2,0,1,14,7,11,9,26,26,DWDWWDWLLDDWDWWDDDWWWDLLLDW,4,7,2,13,9,20,4,9,14,21,39,LWWLLLDDWDWLDDWDDWWWDWWWDWL,1,3,9,8,23,DDWWLDDWDWDLD,WWLDWWDWDWWWW
+Boulogne,Vannes,2-0,/match/us-boulogne/vannes-olympique-club/2009,2009,28,ligue_2,20,38,0,2,0,11,11,6,10,30,29,DWDLWDWLWDLLWWLLDWWWLDWLLLW,6,2,5,19,18,6,11,7,9,23,26,LWWWWWWDLDWWWDWLLDWWWWDLDDW,4,1,8,9,19,WWWWLWLDWLDLL,LWWWLWWWLWWLD
+Dijon FCO,Bastia,2-0,/match/dijon-fco/bastia/2009,2009,28,ligue_2,20,38,0,2,0,12,8,9,10,29,36,WLDWWWDLLDWWLDWDDWWDWDWWLWD,7,2,4,18,15,10,10,6,11,28,33,LDWWLDWDWDDWWWLLWWWWDWWLLWW,4,1,9,7,20,LWWLWLWDWWWLD,LWLWWDWWLWWWLW
+Montpellier,Stade Brestois,3-2,/match/montpellier-hsc/stade-brestois-29/2009,2009,28,ligue_2,20,38,0,3,2,5,12,8,7,47,26,WWDLLWWDWLWWDLWDDLDWLDWWDWW,7,5,1,25,11,17,10,4,13,30,32,LDWLLLWLWLLWLWWWLWDWWDWDLLL,5,2,6,11,15,WDLWWWDWDDDWW,LWLWWLLWWWDDL
+Tours,Clermont,2-0,/match/tours-fc/clermont-foot/2009,2009,28,ligue_2,20,38,0,2,0,7,11,6,10,37,37,WWWWLLWWWDWWWWWDDWDLWDWWDWL,9,2,2,26,14,13,7,10,10,31,38,LDWDWWWDWDDWWWDDLLWWDWLLDWD,2,4,7,13,23,WWLWWWWDWLDWW,DWWWDWDLWDWLW
+Guingamp,Lens,0-0,/match/guingamp/lens/2009,2009,28,ligue_2,20,38,1,0,0,9,8,12,7,30,25,LWLWDDDDWWWDDWWLDDDWDWWWLDD,6,5,2,18,10,1,16,4,7,37,27,WWWLWLLWLWWWDLLLLWWWDWLLDDL,7,3,3,18,16,LLDDWWDWDWWWD,WLLLWDLLWDLLD
+Metz,Chateauroux,1-0,/match/metz/berrichonne-chateauroux/2009,2009,28,ligue_2,20,38,0,1,0,4,13,7,7,38,27,LWDLLLDLWDDWWWWDLWWLWDWLDWW,8,2,3,20,11,18,6,9,12,24,33,LLWWWDWDWDWWWDWWDLLDDDLWDWW,2,2,9,14,25,WLDWDWWLWWWLW,LWWWWWWWLDDWW
+Stade de Reims,Sedan,0-1,/match/stade-reims/sedan/2009,2009,28,ligue_2,20,38,2,0,1,19,5,10,12,33,43,WLLLWDDDLDLWWDDWLWWWDDLLDWD,3,4,6,17,24,8,10,9,8,30,30,WWWDDDWLWDLWWDWLLDWWDLWLDDW,4,4,6,14,18,LLDLLWDLWDLDW,WWDWWLWDLDWLLD
+Strasbourg,Angers SCO,2-0,/match/strasbourg/angers-sco/2009,2009,28,ligue_2,20,38,0,2,0,3,12,10,5,41,30,WLWLWDWDWWDDDWWLDWWDDDLLDWL,8,4,2,22,10,2,12,10,5,39,26,WDWDLWDWDWDWDWLDLWLWDWWLDDL,4,6,3,11,13,WWWWWDDWLWDDLW,DDWWDDLLLDWDL
+Angers SCO,Ajaccio,0-1,/match/angers-sco/ajaccio/2009,2009,29,ligue_2,20,38,2,0,1,5,12,10,6,39,28,WDWDLWDWDWDWDWLDLWLWDWWLDDLW,8,4,2,28,13,16,8,9,11,37,44,LLDDWLWDLWDDWWWLWLWWWLDDDWLD,3,4,6,17,26,WWLDDWWWDWWWLD,LDLDWWWWWWDDL
+Bastia,Metz,1-2,/match/bastia/metz/2009,2009,29,ligue_2,20,38,2,1,2,12,10,6,12,28,35,LDWWLDWDWDDWWWLLWWWWDWWLLWWW,6,5,2,21,13,3,14,7,7,39,27,LWDLLLDLWDDWWWWDLWWLWDWLDWWW,5,5,4,18,16,DWDDDWLWWDWLW,LDLLLDWWDWLDDW
+Chateauroux,Dijon FCO,2-0,/match/berrichonne-chateauroux/dijon-fco/2009,2009,29,ligue_2,20,38,0,2,0,18,6,9,13,24,34,LLWWWDWDWDWWWDWWDLLDDDLWDWWW,4,7,3,10,8,11,9,9,10,31,36,WLDWWWDLLDWWLDWDDWWDWDWWLWDW,1,7,6,11,21,LWDDDWDWDLDLDW,WDWDLDWDDWDDWW
+Clermont,Amiens SC,2-0,/match/clermont-foot/amiens-sc/2009,2009,29,ligue_2,20,38,0,2,0,13,7,10,11,31,40,LDWDWWWDWDDWWWDDLLWWDWLLDWDW,5,6,3,18,15,14,7,11,10,26,27,DWDWWDWLLDDWDWWDDDWWWDLLLDWL,3,4,7,13,17,LWDWDDWWDLWLDD,WWDLDWWDDWWLLW
+Nîmes,Guingamp,1-0,/match/nimes-olympique/guingamp/2009,2009,29,ligue_2,20,38,0,1,0,19,5,9,14,22,39,LWWLLLDDWDWLDDWDDWWWDWWWDWLL,3,6,5,13,16,9,8,13,7,30,25,LWLWDDDDWWWDDWWLDDDWDWWWLDDD,2,7,5,12,15,LLLDDLDDWWDWDL,WWDDWDWLDDDWLD
+Stade Brestois,Stade de Reims,0-0,/match/stade-brestois-29/stade-reims/2009,2009,29,ligue_2,20,38,1,0,0,17,10,4,14,32,35,LDWLLLWLWLLWLWWWLWDWWDWDLLLW,5,2,7,19,17,20,5,10,13,33,44,WLLLWDDDLDLWWDDWLWWWDDLLDWDL,2,6,6,16,19,DLLLLWWWLDWWLL,WLWDDDWDWWWDLD
+Troyes,Strasbourg,1-2,/match/troyes/strasbourg/2009,2009,29,ligue_2,20,38,2,1,2,15,8,8,12,31,35,LLWWLWLWDWDDDWWWDWWDWWWLDWLD,7,2,5,20,14,1,13,10,5,43,30,WLWLWDWDWWDDDWWLDWWDDDLLDWLW,4,6,3,19,20,LWLLWWDWWWDWLL,LLDDWDWDWDLDL
+Sedan,Boulogne,0-1,/match/sedan/us-boulogne/2009,2009,29,ligue_2,20,38,2,0,1,8,11,9,8,31,30,WWWDDDWLWDLWWDWLLDWWDLWLDDWL,6,5,2,16,12,10,12,6,10,32,29,DWDLWDWLWDLLWWLLDWWWLDWLLLWW,5,4,5,11,11,WDDLDWWLWDWDW,DDLDLDLWLWWWLW
+Vannes,Montpellier,1-0,/match/vannes-olympique-club/montpellier-hsc/2009,2009,29,ligue_2,20,38,0,1,0,7,11,7,10,23,28,LWWWWWWDLDWWWDWLLDWWWWDLDDWW,7,6,1,14,7,4,13,8,7,50,28,WWDLLWWDWLWWDLWDDLDWLDWWDWWW,5,3,6,22,15,WWWDDWDLDWWDDW,WLWDLWLDLWLWDW
+Lens,Tours,0-0,/match/lens/tours-fc/2009,2009,29,ligue_2,20,38,1,0,0,2,16,5,7,37,27,WWWLWLLWLWWWDLLLLWWWDWLLDDLD,9,1,4,19,11,6,12,6,10,39,37,WWWWLLWWWDWWWWWDDWDLWDWWDWLW,2,4,8,11,23,WWWLWWWLLWWWDL,WWLWDWWWDDWWDL
+Bastia,Chateauroux,2-1,/match/bastia/berrichonne-chateauroux/2009,2009,30,ligue_2,20,38,0,2,1,13,10,6,13,29,37,LDWWLDWDWDDWWWLLWWWWDWWLLWWWL,6,5,3,22,15,17,7,9,13,26,34,LLWWWDWDWDWWWDWWDLLDDDLWDWWWW,2,2,10,14,26,DWDDDWLWWDWLWL,LWWWWWWWLDDWWW
+Boulogne,Nîmes,2-0,/match/us-boulogne/nimes-olympique/2009,2009,30,ligue_2,20,38,0,2,0,9,13,6,10,33,29,DWDLWDWLWDLLWWLLDWWWLDWLLLWWL,7,2,5,21,18,19,6,9,14,23,39,LWWLLLDDWDWLDDWDDWWWDWWWDWLLW,2,3,9,9,23,WWWWLWLDWLDLLW,WWLDWWDWDWWWWL
+Dijon FCO,Sedan,1-0,/match/dijon-fco/sedan/2009,2009,30,ligue_2,20,38,0,1,0,11,9,9,11,31,38,WLDWWWDLLDWWLDWDDWWDWDWWLWDWW,8,2,4,20,15,8,11,9,9,31,31,WWWDDDWLWDLWWDWLLDWWDLWLDDWLL,5,4,6,15,18,LWWLWLWDWWWLDW,WWDWWLWDLDWLLDL
+Guingamp,Troyes,0-0,/match/guingamp/troyes/2009,2009,30,ligue_2,20,38,1,0,0,10,8,13,8,30,26,LWLWDDDDWWWDDWWLDDDWDWWWLDDDW,6,6,2,18,10,16,8,8,13,32,37,LLWWLWLWDWDDDWWWDWWDWWWLDWLDL,1,6,7,11,21,LLDDWWDWDWWWDD,LWWDDDWDWWWDWD
+Montpellier,Clermont,2-1,/match/montpellier-hsc/clermont-foot/2009,2009,30,ligue_2,20,38,0,2,1,4,13,8,8,50,29,WWDLLWWDWLWWDLWDDLDWLDWWDWWWW,8,5,1,28,13,12,8,10,11,33,40,LDWDWWWDWDDWWWDDLLWWDWLLDWDWW,2,4,8,13,25,WDLWWWDWDDDWWW,DWWWDWDLWDWLWW
+Stade de Reims,Vannes,3-1,/match/stade-reims/vannes-olympique-club/2009,2009,30,ligue_2,20,38,0,3,1,20,5,11,13,33,44,WLLLWDDDLDLWWDDWLWWWDDLLDWDLD,3,4,7,17,25,7,12,7,10,24,28,LWWWWWWDLDWWWDWLLDWWWWDLDDWWW,4,1,9,9,21,LLDLLWDLWDLDWL,LWWWLWWWLWWLDW
+Tours,Angers SCO,3-1,/match/tours-fc/angers-sco/2009,2009,30,ligue_2,20,38,0,3,1,6,12,7,10,39,37,WWWWLLWWWDWWWWWDDWDLWDWWDWLWD,10,2,2,28,14,5,12,10,7,39,29,WDWDLWDWDWDWDWLDLWLWDWWLDDLWL,4,6,4,11,15,WWLWWWWDWLDWWW,DDWWDDLLLDWDLW
+Metz,Stade Brestois,1-0,/match/metz/stade-brestois-29/2009,2009,30,ligue_2,20,38,0,1,0,3,15,7,7,41,28,LWDLLLDLWDDWWWWDLWWLWDWLDWWWL,9,2,3,21,11,18,10,5,14,32,35,LDWLLLWLWLLWLWWWLWDWWDWDLLLWD,5,2,7,13,18,WLDWDWWLWWWLWW,LWLWWLLWWWDDLW
+Strasbourg,Ajaccio,3-1,/match/strasbourg/ajaccio/2009,2009,30,ligue_2,20,38,0,3,1,1,14,10,5,45,31,WLWLWDWDWWDDDWWLDWWDDDLLDWLWL,9,4,2,24,10,14,9,9,11,38,44,LLDDWLWDLWDDWWWLWLWWWLDDDWLDL,4,4,6,18,26,WWWWWDDWLWDDLWW,LDLDWWWWWWDDLL
+Amiens SC,Lens,0-0,/match/amiens-sc/lens/2009,2009,30,ligue_2,20,38,1,0,0,15,7,11,11,26,29,DWDWWDWLLDDWDWWDDDWWWDLLLDWLW,4,7,3,13,10,2,16,6,7,37,27,WWWLWLLWLWWWDLLLLWWWDWLLDDLDD,7,4,3,18,16,DDWWLDDWDWDLDL,WLLLWDLLWDLLDD
+Ajaccio,Tours,0-2,/match/ajaccio/tours-fc/2009,2009,31,ligue_2,20,38,2,0,2,14,9,9,12,39,47,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLW,5,5,5,20,18,5,13,7,10,42,38,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDW,2,5,8,11,23,LDWWLDDWLLWLDWD,WWLWDWWWDDWWDLD
+Chateauroux,Stade de Reims,0-0,/match/berrichonne-chateauroux/stade-reims/2009,2009,31,ligue_2,20,38,1,0,0,17,7,9,14,27,36,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWW,5,7,3,12,8,20,6,11,13,36,45,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDW,2,7,6,16,19,LWDDDWDWDLDLDWW,WLWDDDWDWWWDLDD
+Clermont,Boulogne,2-3,/match/clermont-foot/us-boulogne/2009,2009,31,ligue_2,20,38,2,2,3,13,8,10,12,34,42,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWW,6,6,3,20,15,8,14,6,10,35,29,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLW,6,4,5,12,11,LWDWDDWWDLWLDDW,DDLDLDLWLWWWLWL
+Troyes,Amiens SC,0-1,/match/troyes/amiens-sc/2009,2009,31,ligue_2,20,38,2,0,1,16,8,9,13,32,37,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLD,7,2,6,21,16,15,7,12,11,26,29,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWD,3,4,8,13,19,LWLLWWDWWWDWLLL,WWDLDWWDDWWLLWW
+Sedan,Bastia,1-1,/match/sedan/bastia/2009,2009,31,ligue_2,20,38,1,1,1,11,11,9,10,31,32,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLW,6,5,3,16,13,12,11,6,13,31,38,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLW,4,1,10,7,22,WDDLDWWLWDWDWL,LWLWWDWWLWWWLWW
+Stade Brestois,Dijon FCO,1-2,/match/stade-brestois-29/dijon-fco/2009,2009,31,ligue_2,20,38,2,1,2,18,10,5,15,32,36,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDW,5,3,7,19,17,10,10,9,11,32,38,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWW,1,7,7,11,23,DLLLLWWWLDWWLLD,WDWDLDWDDWDDWWW
+Angers SCO,Guingamp,0-1,/match/angers-sco/guingamp/2009,2009,31,ligue_2,20,38,2,0,1,6,12,10,8,40,32,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLW,8,4,3,28,14,9,8,14,8,30,26,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWD,2,7,6,12,16,WWLDDWWWDWWWLDL,WWDDWDWLDDDWLDW
+Nîmes,Montpellier,2-1,/match/nimes-olympique/montpellier-hsc/2009,2009,31,ligue_2,20,38,0,2,1,19,6,9,15,23,41,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWW,4,6,5,14,16,3,14,8,8,52,30,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWW,5,3,7,22,16,LLLDDLDDWWDWDLW,WLWDLWLDLWLWDWW
+Vannes,Metz,1-1,/match/vannes-olympique-club/metz/2009,2009,31,ligue_2,20,38,1,1,1,7,12,7,11,25,31,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWW,8,6,1,15,7,2,16,7,7,42,28,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLW,6,5,4,20,17,WWWDDWDLDWWDDWW,LDLLLDWWDWLDDWL
+Lens,Strasbourg,4-1,/match/lens/strasbourg/2009,2009,31,ligue_2,20,38,0,4,1,4,16,7,7,37,27,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDD,9,2,4,19,11,1,15,10,5,48,32,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLW,5,6,3,21,21,WWWLWWWLLWWWDLD,LLDDWDWDWDLDLL
+Amiens SC,Angers SCO,1-1,/match/amiens-sc/angers-sco/2009,2009,32,ligue_2,20,38,1,1,1,14,8,12,11,27,29,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWDL,4,8,3,13,10,7,12,10,9,40,33,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLWL,4,6,5,12,18,DDWWLDDWDWDLDLD,DDWWDDLLLDWDLWW
+Bastia,Stade Brestois,0-2,/match/bastia/stade-brestois-29/2009,2009,32,ligue_2,20,38,2,0,2,12,11,7,13,32,39,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLWD,7,5,3,24,16,19,10,5,16,33,38,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDWL,5,2,8,13,19,DWDDDWLWWDWLWLW,LWLWWLLWWWDDLWW
+Boulogne,Troyes,1-0,/match/us-boulogne/troyes/2009,2009,32,ligue_2,20,38,0,1,0,8,15,6,10,38,31,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLWL,8,2,5,23,18,17,8,9,14,32,38,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLDL,1,7,7,11,21,WWWWLWLDWLDLLWW,LWWDDDWDWWWDWDD
+Dijon FCO,Vannes,3-0,/match/dijon-fco/vannes-olympique-club/2009,2009,32,ligue_2,20,38,0,3,0,10,11,9,11,34,39,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWWL,9,2,4,21,15,6,12,8,11,26,32,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWWD,4,1,10,10,24,LWWLWLWDWWWLDWW,LWWWLWWWLWWLDWW
+Guingamp,Ajaccio,0-0,/match/guingamp/ajaccio/2009,2009,32,ligue_2,20,38,1,0,0,9,9,14,8,31,26,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWDL,6,7,2,18,10,15,9,9,13,39,49,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLWL,4,4,7,19,29,LLDDWWDWDWWWDDD,LDLDWWWWWWDDLLW
+Sedan,Chateauroux,3-4,/match/sedan/berrichonne-chateauroux/2009,2009,32,ligue_2,20,38,2,3,4,11,11,10,10,32,33,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLWD,6,6,3,17,14,16,7,10,14,27,36,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWWD,2,2,11,15,28,WDDLDWWLWDWDWLD,LWWWWWWWLDDWWWW
+Metz,Clermont,1-3,/match/metz/clermont-foot/2009,2009,32,ligue_2,20,38,2,1,3,3,16,8,7,43,29,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLWD,10,2,3,22,11,13,8,10,13,36,45,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWWL,2,4,9,14,27,WLDWDWWLWWWLWWW,DWWWDWDLWDWLWWW
+Stade de Reims,Nîmes,2-1,/match/stade-reims/nimes-olympique/2009,2009,32,ligue_2,20,38,0,2,1,20,6,12,13,36,45,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDWD,4,4,7,20,26,18,7,9,15,25,42,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWWW,2,3,10,9,25,LLDLLWDLWDLDWLW,WWLDWWDWDWWWWLW
+Tours,Strasbourg,2-0,/match/tours-fc/strasbourg/2009,2009,32,ligue_2,20,38,0,2,0,5,14,7,10,44,38,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDWL,11,2,2,31,15,1,15,10,6,49,36,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLWW,5,6,4,22,25,WWLWWWWDWLDWWWW,LLDDWDWDWDLDLLW
+Montpellier,Lens,0-1,/match/montpellier-hsc/lens/2009,2009,32,ligue_2,20,38,2,0,1,4,14,8,9,53,32,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWWW,9,5,1,30,14,2,17,7,7,41,28,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDDW,7,5,3,18,16,WDLWWWDWDDDWWWW,WLLLWDLLWDLLDDD
+Ajaccio,Amiens SC,0-2,/match/ajaccio/amiens-sc/2009,2009,33,ligue_2,20,38,2,0,2,16,9,10,13,39,49,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLWLD,5,5,6,20,20,14,8,13,11,28,30,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWDLD,4,4,8,14,19,LDWWLDDWLLWLDWDL,WWDLDWWDDWWLLWWL
+Clermont,Stade de Reims,1-0,/match/clermont-foot/stade-reims/2009,2009,33,ligue_2,20,38,0,1,0,13,9,10,13,39,46,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWWLL,6,6,4,22,18,19,7,12,13,38,46,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDWDW,2,8,6,16,19,LWDWDDWWDLWLDDWL,WLWDDDWDWWWDLDDD
+Nîmes,Dijon FCO,2-1,/match/nimes-olympique/dijon-fco/2009,2009,33,ligue_2,20,38,0,2,1,20,7,9,16,26,44,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWWWW,5,6,5,16,17,9,12,9,11,37,39,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWWLW,2,7,7,13,24,LLLDDLDDWWDWDLWW,WDWDLDWDDWDDWWWL
+Stade Brestois,Sedan,2-2,/match/stade-brestois-29/sedan/2009,2009,33,ligue_2,20,38,1,2,2,18,11,5,16,35,38,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDWLL,5,3,8,20,19,11,11,10,11,35,37,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLWDL,5,4,7,15,19,DLLLLWWWLDWWLLDL,WWDWWLWDLDWLLDLW
+Angers SCO,Boulogne,1-5,/match/angers-sco/us-boulogne/2009,2009,33,ligue_2,20,38,2,1,5,8,12,11,9,41,34,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLWLD,8,4,4,28,15,6,16,6,10,39,31,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLWLW,7,4,5,15,13,WWLDDWWWDWWWLDLL,DDLDLDLWLWWWLWLL
+Troyes,Montpellier,1-2,/match/troyes/montpellier-hsc/2009,2009,33,ligue_2,20,38,2,1,2,17,8,9,15,32,39,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLDLW,7,2,7,21,17,5,14,8,10,53,33,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWWWL,5,3,8,23,18,LWLLWWDWWWDWLLLL,WLWDLWLDLWLWDWWW
+Lens,Bastia,1-0,/match/lens/bastia/2009,2009,33,ligue_2,20,38,0,1,0,1,18,7,7,42,28,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDDWL,10,2,4,23,12,12,11,7,14,32,41,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLWDL,4,2,10,8,23,WWWLWWWLLWWWDLDW,LWLWWDWWLWWWLWWD
+Tours,Guingamp,1-0,/match/tours-fc/guingamp/2009,2009,33,ligue_2,20,38,0,1,0,3,15,7,10,46,38,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDWLW,12,2,2,33,15,10,9,15,8,31,26,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWDLD,3,7,6,13,16,WWLWWWWDWLDWWWWW,WWDDWDWLDDDWLDWL
+Strasbourg,Metz,0-0,/match/strasbourg/metz/2009,2009,33,ligue_2,20,38,1,0,0,2,15,10,7,49,38,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLWWW,10,4,2,27,11,4,16,8,8,44,32,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLWDL,6,6,4,21,18,WWWWWDDWLWDDLWWW,LDLLLDWWDWLDDWLD
+Vannes,Chateauroux,3-0,/match/vannes-olympique-club/berrichonne-chateauroux/2009,2009,33,ligue_2,20,38,0,3,0,7,12,8,12,26,35,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWWDW,8,7,1,16,8,15,8,10,14,31,39,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWWDL,3,2,11,19,31,WWWDDWDLDWWDDWWD,LWWWWWWWLDDWWWWL
+Amiens SC,Tours,0-0,/match/amiens-sc/tours-fc/2009,2009,34,ligue_2,20,38,1,0,0,14,9,13,11,30,30,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWDLDL,4,9,3,14,11,2,16,7,10,47,38,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDWLWW,3,5,8,13,23,DDWWLDDWDWDLDLDD,WWLWDWWWDDWWDLDL
+Bastia,Vannes,3-1,/match/bastia/vannes-olympique-club/2009,2009,34,ligue_2,20,38,0,3,1,13,11,7,15,32,42,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLWDLW,7,5,4,24,18,7,13,8,12,29,35,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWWDWW,4,1,11,10,27,DWDDDWLWWDWLWLWL,LWWWLWWWLWWLDWWW
+Boulogne,Ajaccio,0-1,/match/us-boulogne/ajaccio/2009,2009,34,ligue_2,20,38,2,0,1,6,17,6,10,44,32,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLWLWL,9,2,5,24,18,16,9,10,14,39,51,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLWLDL,4,5,7,19,29,WWWWLWLDWLDLLWWW,LDLDWWWWWWDDLLWD
+Chateauroux,Stade Brestois,5-1,/match/berrichonne-chateauroux/stade-brestois-29/2009,2009,34,ligue_2,20,38,0,5,1,15,8,10,15,31,42,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWWDLW,5,8,3,12,8,18,11,6,16,37,40,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDWLLD,6,2,8,15,19,LWDDDWDWDLDLDWWD,LWLWWLLWWWDDLWWL
+Dijon FCO,Clermont,2-0,/match/dijon-fco/clermont-foot/2009,2009,34,ligue_2,20,38,0,2,0,9,12,9,12,38,41,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWWLWW,10,2,4,24,15,12,10,10,13,40,46,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWWLLW,3,4,9,17,28,LWWLWLWDWWWLDWWW,DWWWDWDLWDWLWWWL
+Stade de Reims,Troyes,0-0,/match/stade-reims/troyes/2009,2009,34,ligue_2,20,38,1,0,0,20,7,12,14,38,47,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDWDWW,5,4,7,22,27,19,8,9,16,33,41,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLDLWL,1,7,8,11,22,LLDLLWDLWDLDWLWW,LWWDDDWDWWWDWDDW
+Guingamp,Strasbourg,1-2,/match/guingamp/strasbourg/2009,2009,34,ligue_2,20,38,2,1,2,10,9,15,9,31,27,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWDLDW,6,8,2,18,10,3,15,11,7,49,38,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLWWWD,5,6,5,22,27,LLDDWWDWDWWWDDDD,LLDDWDWDWDLDLLWW
+Metz,Nîmes,0-0,/match/metz/nimes-olympique/2009,2009,34,ligue_2,20,38,1,0,0,4,16,9,8,44,32,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLWDLD,10,2,4,23,14,17,8,9,16,28,45,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWWWWW,2,3,11,10,27,WLDWDWWLWWWLWWWL,WWLDWWDWDWWWWLWW
+Montpellier,Angers SCO,1-0,/match/montpellier-hsc/angers-sco/2009,2009,34,ligue_2,20,38,0,1,0,5,15,8,10,55,34,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWWWLL,9,5,2,30,15,8,12,11,10,42,39,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLWLDL,4,7,5,13,19,WDLWWWDWDDDWWWWL,DDWWDDLLLDWDLWWD
+Sedan,Lens,2-2,/match/sedan/lens/2009,2009,34,ligue_2,20,38,1,2,2,11,11,11,11,37,39,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLWDLD,6,6,4,20,18,1,19,7,7,43,28,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDDWLW,8,5,3,19,16,WDDLDWWLWDWDWLDL,WLLLWDLLWDLLDDDL
+Ajaccio,Bastia,1-1,/match/ajaccio/bastia/2009,2009,35,ligue_2,20,38,1,1,1,16,10,10,14,40,51,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLWLDLL,5,5,7,20,22,12,12,7,15,35,43,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLWDLWW,4,2,11,8,24,LDWWLDDWLLWLDWDLL,LWLWWDWWLWWWLWWDW
+Clermont,Sedan,3-0,/match/clermont-foot/sedan/2009,2009,35,ligue_2,20,38,0,3,0,13,10,10,14,40,48,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWWLLWW,7,6,4,23,18,10,11,12,11,39,41,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLWDLDD,5,5,7,17,21,LWDWDDWWDLWLDDWLW,WWDWWLWDLDWLLDLWD
+Troyes,Dijon FCO,2-1,/match/troyes/dijon-fco/2009,2009,35,ligue_2,20,38,0,2,1,19,8,10,16,33,41,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLDLWLD,7,2,8,22,19,8,13,9,12,40,41,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWWLWWW,2,7,8,14,26,LWLLWWDWWWDWLLLLL,WDWDLDWDDWDDWWWLW
+Nîmes,Chateauroux,1-0,/match/nimes-olympique/berrichonne-chateauroux/2009,2009,35,ligue_2,20,38,0,1,0,17,8,10,16,28,45,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWWWWWD,6,6,5,18,18,15,9,10,15,36,43,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWWDLWW,3,2,12,19,34,LLLDDLDDWWDWDLWWW,LWWWWWWWLDDWWWWLW
+Vannes,Stade Brestois,0-3,/match/vannes-olympique-club/stade-brestois-29/2009,2009,35,ligue_2,20,38,2,0,3,7,13,8,13,30,38,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWWDWWW,9,7,1,19,8,18,11,6,17,38,45,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDWLLDW,6,2,9,16,24,WWWDDWDLDWWDDWWDW,LWLWWLLWWWDDLWWLW
+Angers SCO,Metz,1-1,/match/angers-sco/metz/2009,2009,35,ligue_2,20,38,1,1,1,9,12,11,11,42,40,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLWLDLW,8,4,5,29,20,4,16,10,8,44,32,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLWDLDD,6,7,4,21,18,WWLDDWWWDWWWLDLLL,LDLLLDWWDWLDDWLDD
+Strasbourg,Amiens SC,2-1,/match/strasbourg/amiens-sc/2009,2009,35,ligue_2,20,38,0,2,1,3,16,11,7,51,39,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLWWWDL,10,5,2,27,11,14,9,14,11,30,30,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWDLDLD,5,4,8,16,19,WWWWWDDWLWDDLWWWD,WWDLDWWDDWWLLWWLL
+Tours,Boulogne,3-1,/match/tours-fc/us-boulogne/2009,2009,35,ligue_2,20,38,0,3,1,2,16,8,10,47,38,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDWLWWD,13,2,2,34,15,6,17,6,11,44,33,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLWLWLL,8,4,5,20,14,WWLWWWWDWLDWWWWWW,DDLDLDLWLWWWLWLLL
+Lens,Stade de Reims,1-0,/match/lens/stade-reims/2009,2009,35,ligue_2,20,38,0,1,0,1,19,8,7,45,30,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDDWLWD,11,2,4,24,12,20,7,13,14,38,47,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDWDWWD,2,8,7,16,20,WWWLWWWLLWWWDLDWW,WLWDDDWDWWWDLDDDW
+Guingamp,Montpellier,0-1,/match/guingamp/montpellier-hsc/2009,2009,35,ligue_2,20,38,2,0,1,11,9,15,10,32,29,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWDLDWL,6,8,3,19,12,5,16,8,10,56,34,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWWWLLW,6,3,8,25,19,LLDDWWDWDWWWDDDDL,WLWDLWLDLWLWDWWWL
+Amiens SC,Guingamp,3-3,/match/amiens-sc/guingamp/2009,2009,36,ligue_2,20,38,1,3,3,14,9,14,12,31,32,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWDLDLDW,4,10,3,14,11,12,9,15,11,32,30,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWDLDWLL,3,7,7,13,17,DDWWLDDWDWDLDLDDD,WWDDWDWLDDDWLDWLW
+Bastia,Nîmes,0-0,/match/bastia/nimes-olympique/2009,2009,36,ligue_2,20,38,1,0,0,11,12,8,15,36,44,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLWDLWWD,8,5,4,27,19,16,9,10,16,29,45,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWWWWWDW,2,4,11,10,27,DWDDDWLWWDWLWLWLW,WWLDWWDWDWWWWLWWD
+Chateauroux,Clermont,1-0,/match/berrichonne-chateauroux/clermont-foot/2009,2009,36,ligue_2,20,38,0,1,0,15,9,10,16,36,44,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWWDLWWW,6,8,3,17,9,10,11,10,14,43,48,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWWLLWWW,3,4,10,17,30,LWDDDWDWDLDLDWWDW,DWWWDWDLWDWLWWWLW
+Dijon FCO,Angers SCO,0-2,/match/dijon-fco/angers-sco/2009,2009,36,ligue_2,20,38,2,0,2,8,13,9,13,41,43,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWWLWWWW,11,2,4,26,15,9,12,12,11,43,41,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLWLDLWD,4,7,6,13,20,LWWLWLWDWWWLDWWWW,DDWWDDLLLDWDLWWDW
+Montpellier,Ajaccio,2-1,/match/montpellier-hsc/ajaccio/2009,2009,36,ligue_2,20,38,0,2,1,4,17,8,10,57,34,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWWWLLWL,10,5,2,31,15,17,10,11,14,41,52,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLWLDLLD,5,5,7,20,29,WDLWWWDWDDDWWWWLW,LDLDWWWWWWDDLLWDL
+Sedan,Vannes,2-3,/match/sedan/vannes-olympique-club/2009,2009,36,ligue_2,20,38,2,2,3,13,11,12,12,39,44,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLWDLDDW,6,7,4,22,20,7,13,8,14,30,41,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWWDWWWL,4,1,12,11,30,WDDLDWWLWDWDWLDLD,LWWWLWWWLWWLDWWWW
+Metz,Troyes,1-1,/match/metz/troyes/2009,2009,36,ligue_2,20,38,1,1,1,5,16,11,8,45,33,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLWDLDDD,10,3,4,23,14,18,9,10,16,35,42,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLDLWLDW,1,8,8,11,22,WLDWDWWLWWWLWWWLD,LWWDDDWDWWWDWDDWD
+Stade de Reims,Tours,0-0,/match/stade-reims/tours-fc/2009,2009,36,ligue_2,20,38,1,0,0,20,7,13,15,38,48,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDWDWWDW,5,5,7,22,27,3,17,8,10,50,39,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDWLWWDW,3,6,8,13,23,LLDLLWDLWDLDWLWWD,WWLWDWWWDDWWDLDLD
+Stade Brestois,Lens,3-1,/match/stade-brestois-29/lens/2009,2009,36,ligue_2,20,38,0,3,1,19,12,6,17,41,45,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDWLLDWL,5,4,8,22,21,1,20,8,7,46,30,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDDWLWDW,8,6,3,21,18,DLLLLWWWLDWWLLDLD,WLLLWDLLWDLLDDDLD
+Boulogne,Strasbourg,1-0,/match/us-boulogne/strasbourg/2009,2009,36,ligue_2,20,38,0,1,0,6,17,6,12,45,36,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLWLWLLW,9,2,6,24,19,2,17,11,7,53,40,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLWWWDLW,6,6,5,24,28,WWWWLWLDWLDLLWWWL,LLDDWDWDWDLDLLWWL
+Ajaccio,Metz,1-0,/match/ajaccio/metz/2009,2009,37,ligue_2,20,38,0,1,0,18,10,11,15,42,54,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLWLDLLDW,5,6,7,21,23,5,16,12,8,46,34,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLWDLDDDD,6,8,4,22,19,LDWWLDDWLLWLDWDLLD,LDLLLDWWDWLDDWLDDD
+Amiens SC,Dijon FCO,1-1,/match/amiens-sc/dijon-fco/2009,2009,37,ligue_2,20,38,1,1,1,14,9,15,12,34,35,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWDLDLDWD,4,11,3,17,14,8,13,9,14,41,45,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWWLWWWWL,2,7,9,15,28,DDWWLDDWDWDLDLDDDD,WDWDLDWDDWDDWWWLWW
+Angers SCO,Chateauroux,1-1,/match/angers-sco/berrichonne-chateauroux/2009,2009,37,ligue_2,20,38,1,1,1,9,13,12,11,45,41,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLWLDLWDL,8,5,5,30,21,15,10,10,16,37,44,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWWDLWWWW,3,2,13,19,35,WWLDDWWWDWWWLDLLLD,LWWWWWWWLDDWWWWLWW
+Clermont,Bastia,2-0,/match/clermont-foot/bastia/2009,2009,37,ligue_2,20,38,0,2,0,11,11,10,15,43,49,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWWLLWWWW,8,6,4,26,18,10,12,9,15,36,44,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLWDLWWDD,4,3,11,9,25,LWDWDDWWDLWLDDWLWW,LWLWWDWWLWWWLWWDWD
+Troyes,Sedan,2-3,/match/troyes/sedan/2009,2009,37,ligue_2,20,38,2,2,3,19,9,11,16,36,43,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLDLWLDWD,8,2,8,24,20,13,11,12,13,41,47,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLWDLDDWL,5,5,8,17,24,LWLLWWDWWWDWLLLLLW,WWDWWLWDLDWLLDLWDW
+Guingamp,Stade Brestois,2-0,/match/guingamp/stade-brestois-29/2009,2009,37,ligue_2,20,38,0,2,0,12,9,16,11,35,33,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWDLDWLLD,6,8,4,19,13,17,13,6,17,44,46,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDWLLDWLW,7,2,9,19,24,LLDDWWDWDWWWDDDDLL,LWLWWLLWWWDDLWWLWL
+Lens,Boulogne,0-1,/match/lens/us-boulogne/2009,2009,37,ligue_2,20,38,2,0,1,1,20,8,8,47,33,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDDWLWDWW,12,2,4,25,12,6,18,6,12,46,36,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLWLWLLWW,8,4,6,21,17,WWWLWWWLLWWWDLDWWW,DDLDLDLWLWWWLWLLLW
+Nîmes,Vannes,1-0,/match/nimes-olympique/vannes-olympique-club/2009,2009,37,ligue_2,20,38,0,1,0,16,9,11,16,29,45,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWWWWWDWD,7,6,5,19,18,7,14,8,14,33,43,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWWDWWWLL,5,1,12,14,32,LLLDDLDDWWDWDLWWWW,LWWWLWWWLWWLDWWWWL
+Strasbourg,Stade de Reims,3-2,/match/strasbourg/stade-reims/2009,2009,37,ligue_2,20,38,0,3,2,3,17,11,8,53,41,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLWWWDLWW,11,5,2,29,12,20,7,14,15,38,48,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDWDWWDWD,2,8,8,16,21,WWWWWDDWLWDDLWWWDW,WLWDDDWDWWWDLDDDWW
+Tours,Montpellier,0-0,/match/tours-fc/montpellier-hsc/2009,2009,37,ligue_2,20,38,1,0,0,2,17,9,10,50,39,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDWLWWDWD,14,2,2,37,16,4,18,8,10,59,35,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWWWLLWLW,7,3,8,26,19,WWLWWWWDWLDWWWWWWW,WLWDLWLDLWLWDWWWLL
+Bastia,Troyes,2-1,/match/bastia/troyes/2009,2009,38,ligue_2,20,38,0,2,1,12,12,9,16,36,46,LDWWLDWDWDDWWWLLWWWWDWWLLWWWLWDLWWDDW,8,6,4,27,19,19,9,11,17,38,46,LLWWLWLWDWDDDWWWDWWDWWWLDWLDLDLWLDWDL,1,9,8,12,23,DWDDDWLWWDWLWLWLWD,LWWDDDWDWWWDWDDWDD
+Boulogne,Amiens SC,4-0,/match/us-boulogne/amiens-sc/2009,2009,38,ligue_2,20,38,0,4,0,6,19,6,12,47,36,DWDLWDWLWDLLWWLLDWWWLDWLLLWWLWLWLLWWL,10,2,6,25,19,14,9,16,12,35,36,DWDWWDWLLDDWDWWDDDWWWDLLLDWLWDLDLDWDD,5,4,9,17,21,WWWWLWLDWLDLLWWWLW,WWDLDWWDDWWLLWWLLW
+Chateauroux,Ajaccio,2-1,/match/berrichonne-chateauroux/ajaccio/2009,2009,38,ligue_2,20,38,0,2,1,15,10,11,16,38,45,LLWWWDWDWDWWWDWWDLLDDDLWDWWWWWDLWWWWD,7,8,3,18,9,17,11,11,15,43,54,LLDDWLWDLWDDWWWLWLWWWLDDDWLDLWLDLLDWW,5,5,8,21,31,LWDDDWDWDLDLDWWDWW,LDLDWWWWWWDDLLWDLW
+Dijon FCO,Lens,1-0,/match/dijon-fco/lens/2009,2009,38,ligue_2,20,38,0,1,0,9,13,10,14,42,46,WLDWWWDLLDWWLDWDDWWDWDWWLWDWWWLWWWWLD,11,2,5,26,17,3,20,8,9,47,34,WWWLWLLWLWWWDLLLLWWWDWLLDDLDDDWLWDWWL,8,6,4,22,21,LWWLWLWDWWWLDWWWWL,WLLLWDLLWDLLDDDLDW
+Metz,Guingamp,2-0,/match/metz/guingamp/2009,2009,38,ligue_2,20,38,0,2,0,5,16,12,9,46,35,LWDLLLDLWDDWWWWDLWWLWDWLDWWWLWDLDDDDW,10,4,4,24,15,10,10,16,11,37,33,LWLWDDDDWWWDDWWLDDDWDWWWLDDDWDLDWLLDW,3,8,7,16,20,WLDWDWWLWWWLWWWLDD,WWDDWDWLDDDWLDWLWD
+Montpellier,Strasbourg,2-1,/match/montpellier-hsc/strasbourg/2009,2009,38,ligue_2,20,38,0,2,1,4,18,9,10,59,35,WWDLLWWDWLWWDLWDDLDWLDWWDWWWWWWLLWLWD,11,5,2,33,16,1,18,11,8,56,43,WLWLWDWDWWDDDWWLDWWDDDLLDWLWLWWWDLWWW,6,6,6,24,29,WDLWWWDWDDDWWWWLWW,LLDDWDWDWDLDLLWWLW
+Stade de Reims,Angers SCO,0-0,/match/stade-reims/angers-sco/2009,2009,38,ligue_2,20,38,1,0,0,20,7,14,16,40,51,WLLLWDDDLDLWWDDWLWWWDDLLDWDLDWDWWDWDW,5,6,7,22,27,8,13,13,11,46,42,WDWDLWDWDWDWDWLDLWLWDWWLDDLWLWLDLWDLD,5,7,6,15,20,LLDLLWDLWDLDWLWWDD,DDWWDDLLLDWDLWWDWL
+Sedan,Tours,2-0,/match/sedan/tours-fc/2009,2009,38,ligue_2,20,38,0,2,0,13,12,12,13,44,49,WWWDDDWLWDLWWDWLLDWWDLWLDDWLLWDLDDWLL,6,7,5,24,23,2,17,10,10,50,39,WWWWLLWWWDWWWWWDDWDLWDWWDWLWDWLWWDWDD,3,7,8,13,23,WDDLDWWLWDWDWLDLDL,WWLWDWWWDDWWDLDLDD
+Stade Brestois,Nîmes,1-2,/match/stade-brestois-29/nimes-olympique/2009,2009,38,ligue_2,20,38,2,1,2,18,13,6,18,44,48,LDWLLLWLWLLWLWWWLWDWWDWDLLLWDWLLDWLWW,6,4,8,25,22,16,10,11,16,30,45,LWWLLLDDWDWLDDWDDWWWDWWWDWLLWWWWWDWDW,2,5,11,10,27,DLLLLWWWLDWWLLDLDW,WWLDWWDWDWWWWLWWDD
+Vannes,Clermont,1-1,/match/vannes-olympique-club/clermont-foot/2009,2009,38,ligue_2,20,38,1,1,1,7,14,8,15,33,44,LWWWWWWDLDWWWDWLLDWWWWDLDDWWWWDWWWLLW,9,7,2,19,11,11,12,10,15,45,49,LDWDWWWDWDDWWWDDLLWWDWLLDWDWWWLLWWWWW,3,4,11,17,31,WWWDDWDLDWWDDWWDWL,DWWWDWDLWDWLWWWLWW

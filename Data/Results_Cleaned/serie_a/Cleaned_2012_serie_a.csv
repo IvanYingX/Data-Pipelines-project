@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Siena,Fiorentina,0-0,/match/siena/fiorentina/2012,2012,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Milan,0-2,/match/cagliari/milan/2012,2012,1,serie_a,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Udinese,Juventus,0-0,/match/udinese/juventus-fc/2012,2012,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Parma,Catania,3-3,/match/parma-fc/catania/2012,2012,1,serie_a,20,38,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Novara,Palermo FC,2-2,/match/novara-calcio/palermo/2012,2012,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Napoli,Genoa,6-1,/match/napoli/genoa/2012,2012,1,serie_a,20,38,0,6,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Chievo,0-0,/match/lazio/chievo/2012,2012,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Lecce,4-1,/match/internazionale/lecce/2012,2012,1,serie_a,20,38,0,4,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bologna,Roma,0-2,/match/bologna/roma/2012,2012,1,serie_a,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Atalanta,Cesena,4-1,/match/atalanta/ac-cesena/2012,2012,1,serie_a,20,38,0,4,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Milan,Lazio,2-2,/match/milan/lazio/2012,2012,2,serie_a,20,38,1,2,2,8,1,0,0,2,0,L,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
+Cesena,Napoli,1-3,/match/ac-cesena/napoli/2012,2012,2,serie_a,20,38,2,1,3,16,0,0,1,1,4,W,0,0,0,0,0,2,1,0,0,6,1,W,0,0,0,0,0,,
+Juventus,Parma,4-1,/match/juventus-fc/parma-fc/2012,2012,2,serie_a,20,38,0,4,1,14,0,1,0,0,0,D,0,0,0,0,0,4,0,1,0,3,3,D,0,0,0,0,0,,
+Lecce,Udinese,0-2,/match/lecce/udinese/2012,2012,2,serie_a,20,38,2,0,2,19,0,0,1,1,4,W,0,0,0,0,0,6,0,1,0,0,0,D,0,0,0,0,0,,
+Catania,Siena,0-0,/match/catania/siena/2012,2012,2,serie_a,20,38,1,0,0,12,0,1,0,3,3,D,0,0,0,0,0,9,0,1,0,0,0,D,0,0,0,0,0,,
+Genoa,Atalanta,2-2,/match/genoa/atalanta/2012,2012,2,serie_a,20,38,1,2,2,20,0,0,1,1,6,W,0,0,0,0,0,1,1,0,0,4,1,W,0,0,0,0,0,,
+Fiorentina,Bologna,2-0,/match/fiorentina/bologna/2012,2012,2,serie_a,20,38,0,2,0,11,0,1,0,0,0,D,0,0,0,0,0,18,0,0,1,0,2,L,0,0,0,0,0,,
+Chievo,Novara,2-2,/match/chievo/novara-calcio/2012,2012,2,serie_a,20,38,1,2,2,13,0,1,0,0,0,D,0,0,0,0,0,7,0,1,0,2,2,D,0,0,0,0,0,,
+Roma,Cagliari,1-2,/match/roma/cagliari/2012,2012,2,serie_a,20,38,2,1,2,10,1,0,0,2,0,L,0,0,0,0,0,17,0,0,1,0,2,L,0,0,0,0,0,,
+Palermo FC,Inter,4-3,/match/palermo/internazionale/2012,2012,2,serie_a,20,38,0,4,3,15,0,1,0,2,2,D,0,0,0,0,0,3,1,0,0,4,1,W,0,0,0,0,0,,
+Cagliari,Novara,2-1,/match/cagliari/novara-calcio/2012,2012,3,serie_a,20,38,0,2,1,16,1,0,1,2,3,LL,0,0,1,0,2,9,0,2,0,4,4,DD,0,1,0,2,2,L,D
+Inter,Roma,0-0,/match/internazionale/roma/2012,2012,3,serie_a,20,38,1,0,0,8,1,0,1,7,5,WW,1,0,0,4,1,14,1,0,1,3,2,LL,1,0,0,2,0,W,L
+Atalanta,Palermo FC,1-0,/match/atalanta/palermo/2012,2012,3,serie_a,20,38,0,1,0,2,1,1,0,6,3,WD,1,0,0,4,1,3,1,1,0,6,5,DW,0,1,0,2,2,W,D
+Siena,Juventus,0-1,/match/siena/juventus-fc/2012,2012,3,serie_a,20,38,2,0,1,10,0,2,0,0,0,DD,0,1,0,0,0,4,1,1,0,4,1,DW,0,1,0,0,0,D,D
+Parma,Chievo,2-1,/match/parma-fc/chievo/2012,2012,3,serie_a,20,38,0,2,1,15,0,1,1,4,7,DW,0,1,0,3,3,13,0,2,0,2,2,DD,0,1,0,0,0,D,D
+Lazio,Genoa,1-2,/match/lazio/genoa/2012,2012,3,serie_a,20,38,2,1,2,11,0,2,0,2,2,DD,0,1,0,0,0,17,0,1,1,3,8,WD,0,0,1,1,6,D,W
+Catania,Cesena,1-0,/match/catania/ac-cesena/2012,2012,3,serie_a,20,38,0,1,0,12,0,2,0,3,3,DD,0,1,0,0,0,18,0,0,2,2,7,WL,0,0,1,1,4,D,W
+Bologna,Lecce,0-2,/match/bologna/lecce/2012,2012,3,serie_a,20,38,2,0,2,19,0,0,2,0,4,LW,0,0,1,0,2,20,0,0,2,1,6,WL,0,0,1,1,4,L,W
+Udinese,Fiorentina,2-0,/match/udinese/fiorentina/2012,2012,3,serie_a,20,38,0,2,0,6,1,1,0,2,0,DL,0,1,0,0,0,5,1,1,0,2,0,DW,0,1,0,0,0,D,D
+Napoli,Milan,3-1,/match/napoli/milan/2012,2012,3,serie_a,20,38,0,3,1,1,2,0,0,9,2,WL,1,0,0,6,1,7,1,1,0,4,2,LD,1,0,0,2,0,W,L
+Novara,Inter,3-1,/match/novara-calcio/internazionale/2012,2012,4,serie_a,20,38,0,3,1,17,0,2,1,5,6,DDW,0,1,0,2,2,6,1,1,1,7,5,WWD,0,0,1,3,4,D,W
+Cesena,Lazio,1-2,/match/ac-cesena/lazio/2012,2012,4,serie_a,20,38,2,1,2,19,0,0,3,2,8,WLW,0,0,1,1,3,14,0,2,1,3,4,DDL,0,1,0,2,2,L,D
+Palermo FC,Cagliari,3-2,/match/palermo/cagliari/2012,2012,4,serie_a,20,38,0,3,2,9,1,1,1,6,6,DWW,1,0,0,4,3,7,2,0,1,4,4,LLW,1,0,0,2,1,W,L
+Milan,Udinese,1-1,/match/milan/udinese/2012,2012,4,serie_a,20,38,1,1,1,11,1,1,1,5,5,LDW,0,1,0,2,2,3,2,1,0,4,0,DLW,1,0,0,2,0,D,L
+Lecce,Atalanta,1-2,/match/lecce/atalanta/2012,2012,4,serie_a,20,38,2,1,2,18,1,0,2,3,6,WLL,0,0,1,0,2,2,2,1,0,7,3,WDW,0,1,0,2,2,L,D
+Juventus,Bologna,1-1,/match/juventus-fc/bologna/2012,2012,4,serie_a,20,38,1,1,1,4,2,1,0,5,1,DWL,1,0,0,4,1,20,0,0,3,0,6,LWL,0,0,1,0,2,W,W
+Genoa,Catania,3-0,/match/genoa/catania/2012,2012,4,serie_a,20,38,0,3,0,12,1,1,1,5,9,WDL,0,1,0,2,2,5,1,2,0,4,3,DDW,0,1,0,3,3,D,D
+Fiorentina,Parma,3-0,/match/fiorentina/parma-fc/2012,2012,4,serie_a,20,38,0,3,0,10,1,1,1,2,2,DWW,1,0,0,2,0,8,1,1,1,6,8,DWW,0,0,1,1,4,W,W
+Chievo,Napoli,1-0,/match/chievo/napoli/2012,2012,4,serie_a,20,38,0,1,0,15,0,2,1,3,4,DDW,0,1,0,2,2,1,3,0,0,12,3,WLW,1,0,0,3,1,D,L
+Roma,Siena,1-1,/match/roma/siena/2012,2012,4,serie_a,20,38,1,1,1,13,1,1,1,3,2,LLD,0,0,1,1,2,16,0,2,1,0,1,DDL,0,1,0,0,0,L,D
+Bologna,Inter,1-3,/match/bologna/internazionale/2012,2012,5,serie_a,20,38,2,1,3,19,0,1,3,1,7,LWLD,0,0,2,0,4,14,1,1,2,8,8,WWDW,0,0,2,4,7,LL,WW
+Napoli,Fiorentina,0-0,/match/napoli/fiorentina/2012,2012,5,serie_a,20,38,1,0,0,2,3,0,1,12,4,WLWW,2,0,0,9,2,6,2,1,1,5,2,DWWW,0,1,1,0,2,WW,DW
+Milan,Cesena,1-0,/match/milan/ac-cesena/2012,2012,5,serie_a,20,38,0,1,0,11,1,2,1,6,6,LDWD,0,2,0,3,3,20,0,0,4,3,10,WLWL,0,0,2,1,5,DD,WW
+Chievo,Genoa,2-1,/match/chievo/genoa/2012,2012,5,serie_a,20,38,0,2,1,10,1,2,1,4,4,DDWW,1,1,0,3,2,7,2,1,1,8,9,WDLW,1,0,1,3,7,DW,WL
+Atalanta,Novara,2-1,/match/atalanta/novara-calcio/2012,2012,5,serie_a,20,38,0,2,1,1,3,1,0,9,4,WDWL,2,0,0,5,1,9,1,2,1,8,7,DDWW,0,1,1,3,4,WW,DW
+Lazio,Palermo FC,0-0,/match/lazio/palermo/2012,2012,5,serie_a,20,38,1,0,0,16,1,2,1,5,5,DDLL,0,1,1,1,2,5,2,1,1,9,8,DWWW,0,1,1,2,3,DL,DW
+Catania,Juventus,1-1,/match/catania/juventus-fc/2012,2012,5,serie_a,20,38,1,1,1,8,1,2,1,4,6,DDWW,1,1,0,1,0,4,2,2,0,6,2,DWLD,1,1,0,1,0,DW,DL
+Cagliari,Udinese,0-0,/match/cagliari/udinese/2012,2012,5,serie_a,20,38,1,0,0,13,2,0,2,6,7,LLWW,1,0,1,2,3,3,2,2,0,5,1,DLWD,1,1,0,3,1,LW,LD
+Siena,Lecce,3-0,/match/siena/lecce/2012,2012,5,serie_a,20,38,0,3,0,17,0,3,1,1,2,DDLD,0,1,1,0,1,18,1,0,3,4,8,WLLL,1,0,1,3,4,DL,WL
+Parma,Roma,0-1,/match/parma-fc/roma/2012,2012,5,serie_a,20,38,2,0,1,12,1,1,2,6,11,DWWW,1,1,0,5,4,15,1,2,1,4,3,LLDD,1,1,0,2,0,DW,LD
+Roma,Atalanta,3-1,/match/roma/atalanta/2012,2012,6,serie_a,20,38,0,3,1,15,2,2,1,5,3,LLDDL,0,1,1,2,3,1,4,1,0,11,5,WDWLW,1,1,0,4,3,LD,DL
+Inter,Napoli,0-3,/match/internazionale/napoli/2012,2012,6,serie_a,20,38,2,0,3,12,2,1,2,11,9,WWDWL,1,1,0,4,1,2,3,1,1,12,4,WLWWD,1,0,1,3,2,WD,LW
+Novara,Catania,3-3,/match/novara-calcio/catania/2012,2012,6,serie_a,20,38,1,3,3,14,1,2,2,9,9,DDWWW,1,1,0,5,3,9,1,3,1,5,7,DDWWD,0,1,1,3,6,DW,DW
+Parma,Genoa,3-1,/match/parma-fc/genoa/2012,2012,6,serie_a,20,38,0,3,1,17,1,1,3,6,12,DWWWL,1,1,1,5,5,10,2,1,2,9,11,WDLWW,1,0,2,4,9,DWL,WLW
+Palermo FC,Siena,2-0,/match/palermo/siena/2012,2012,6,serie_a,20,38,0,2,0,6,2,2,1,9,8,DWWWD,2,0,0,7,5,13,1,3,1,4,2,DDLDW,0,2,0,1,1,WW,DD
+Cesena,Chievo,0-0,/match/ac-cesena/chievo/2012,2012,6,serie_a,20,38,1,0,0,20,0,0,5,3,11,WLWLW,0,0,2,2,5,3,2,2,1,6,5,DDWWW,0,1,1,1,2,LL,DW
+Lecce,Cagliari,0-2,/match/lecce/cagliari/2012,2012,6,serie_a,20,38,2,0,2,18,1,0,4,4,11,WLLLW,0,0,2,1,4,11,2,1,2,6,7,LLWWD,1,0,1,4,4,LL,LW
+Fiorentina,Lazio,1-2,/match/fiorentina/lazio/2012,2012,6,serie_a,20,38,2,1,2,4,2,2,1,5,2,DWWWD,2,0,0,5,0,16,1,3,1,5,5,DDLLD,1,1,0,4,3,WW,DL
+Udinese,Bologna,2-0,/match/udinese/bologna/2012,2012,6,serie_a,20,38,0,2,0,8,2,3,0,5,1,DLWDD,1,1,0,2,0,19,0,1,4,2,10,LWLDL,0,1,1,1,3,DW,WD
+Juventus,Milan,2-0,/match/juventus-fc/milan/2012,2012,6,serie_a,20,38,0,2,0,7,2,3,0,7,3,DWLDD,1,1,0,5,2,5,2,2,1,7,6,LDWDW,1,0,1,3,3,WD,LW
+Catania,Inter,2-1,/match/catania/internazionale/2012,2012,7,serie_a,20,38,0,2,1,10,1,4,1,8,10,DDWWDD,1,2,0,2,1,16,2,1,3,11,12,WWDWLL,1,0,2,7,8,DWD,WWL
+Napoli,Parma,1-2,/match/napoli/parma-fc/2012,2012,7,serie_a,20,38,2,1,2,2,4,1,1,15,4,WLWWDL,2,1,0,9,2,8,2,1,3,9,13,DWWWLW,0,0,2,1,7,WWD,WW
+Milan,Palermo FC,3-0,/match/milan/palermo/2012,2012,7,serie_a,20,38,0,3,0,11,2,2,2,7,8,LDWDWW,1,2,0,4,3,3,3,2,1,11,8,DWWWDW,0,2,1,2,3,DDW,DWD
+Cesena,Fiorentina,0-0,/match/ac-cesena/fiorentina/2012,2012,7,serie_a,20,38,1,0,0,19,0,1,5,3,11,WLWLWD,0,1,2,2,5,12,2,2,2,6,4,DWWWDL,0,2,1,0,2,LLD,DWD
+Atalanta,Udinese,0-0,/match/atalanta/udinese/2012,2012,7,serie_a,20,38,1,0,0,1,4,1,1,12,8,WDWLWW,3,0,0,7,2,5,3,3,0,7,1,DLWDDW,1,2,0,3,1,WWW,LDD
+Genoa,Lecce,0-0,/match/genoa/lecce/2012,2012,7,serie_a,20,38,1,0,0,15,2,1,3,10,14,WDLWWW,1,1,0,5,2,18,1,0,5,4,13,WLLLWL,1,0,2,3,7,DW,WLW
+Chievo,Juventus,0-0,/match/chievo/juventus-fc/2012,2012,7,serie_a,20,38,1,0,0,6,2,3,1,6,5,DDWWWD,2,1,0,5,3,4,3,3,0,9,3,DWLDDW,1,2,0,2,1,DWW,DLD
+Cagliari,Siena,0-0,/match/cagliari/siena/2012,2012,7,serie_a,20,38,1,0,0,9,3,1,2,8,7,LLWWDL,1,1,1,2,3,17,1,3,2,4,4,DDLDWW,0,2,1,1,3,LWD,DDW
+Novara,Bologna,0-2,/match/novara-calcio/bologna/2012,2012,7,serie_a,20,38,2,0,2,13,1,3,2,12,12,DDWWWD,1,2,0,8,6,20,0,1,5,2,12,LWLDLW,0,1,2,1,5,DWD,WDW
+Lazio,Roma,2-1,/match/lazio/roma/2012,2012,7,serie_a,20,38,0,2,1,14,2,3,1,7,6,DDLLDL,0,2,1,1,2,7,3,2,1,8,4,LLDDLW,2,1,0,3,0,DLD,LDL
+Fiorentina,Catania,2-2,/match/fiorentina/catania/2012,2012,8,serie_a,20,38,1,2,2,13,2,3,2,6,4,DWWWDLD,2,0,1,6,2,4,2,4,1,10,11,DDWWDDW,0,2,1,6,9,WWL,DWD
+Juventus,Genoa,2-2,/match/juventus-fc/genoa/2012,2012,8,serie_a,20,38,1,2,2,2,3,4,0,9,3,DWLDDWD,2,1,0,7,2,14,2,2,3,10,14,WDLWWWD,1,0,3,5,12,WDW,WLWW
+Lecce,Milan,3-4,/match/lecce/milan/2012,2012,8,serie_a,20,38,2,3,4,19,1,1,5,4,13,WLLLWLD,0,0,3,1,6,6,3,2,2,10,8,LDWDWWW,1,0,2,3,5,LLL,LWW
+Siena,Cesena,2-0,/match/siena/ac-cesena/2012,2012,8,serie_a,20,38,0,2,0,16,1,4,2,4,4,DDLDWWD,1,1,1,3,1,18,0,2,5,3,11,WLWLWDD,0,0,3,1,6,DLW,WWW
+Roma,Palermo FC,1-0,/match/roma/palermo/2012,2012,8,serie_a,20,38,0,1,0,12,3,2,2,9,6,LLDDLWW,1,1,1,5,4,8,3,2,2,11,11,DWWWDWW,0,2,2,2,6,LDW,DWDW
+Parma,Atalanta,1-2,/match/parma-fc/atalanta/2012,2012,8,serie_a,20,38,2,1,2,10,3,1,3,11,14,DWWWLWL,2,1,1,8,6,1,4,2,1,12,8,WDWLWWD,1,1,1,5,6,DWLW,DLW
+Udinese,Novara,3-0,/match/udinese/novara-calcio/2012,2012,8,serie_a,20,38,0,3,0,3,3,4,0,7,1,DLWDDWD,2,1,0,4,0,15,1,3,3,12,14,DDWWWDL,0,1,2,4,6,DWW,DWW
+Inter,Chievo,1-0,/match/internazionale/chievo/2012,2012,8,serie_a,20,38,0,1,0,17,2,1,4,12,14,WWDWLLW,1,1,1,4,4,7,2,4,1,6,5,DDWWWDD,0,2,1,1,2,WDL,DWD
+Cagliari,Napoli,0-0,/match/cagliari/napoli/2012,2012,8,serie_a,20,38,1,0,0,11,3,2,2,8,7,LLWWDLD,1,2,1,2,3,5,4,1,2,16,6,WLWWDLL,2,0,1,6,2,LWDD,LWL
+Bologna,Lazio,0-2,/match/bologna/lazio/2012,2012,8,serie_a,20,38,2,0,2,20,1,1,5,4,12,LWLDLWL,0,0,3,1,7,9,3,3,1,9,7,DDLLDLW,2,1,0,6,4,LLL,DLL
+Juventus,Fiorentina,2-1,/match/juventus-fc/fiorentina/2012,2012,9,serie_a,20,38,0,2,1,3,3,5,0,11,5,DWLDDWDD,2,2,0,9,4,12,2,4,2,8,6,DWWWDLDD,0,3,1,0,2,WDWD,DWDD
+Atalanta,Inter,1-1,/match/atalanta/internazionale/2012,2012,9,serie_a,20,38,1,1,1,1,5,2,1,14,9,WDWLWWDL,3,1,0,7,2,15,3,1,4,13,14,WWDWLLWW,1,0,3,8,10,WWWD,WWLW
+Novara,Siena,1-1,/match/novara-calcio/siena/2012,2012,9,serie_a,20,38,1,1,1,17,1,3,4,12,17,DDWWWDLW,1,2,1,8,8,13,2,4,2,6,4,DDLDWWDW,0,3,1,1,3,DWDL,DDWD
+Napoli,Udinese,2-0,/match/napoli/udinese/2012,2012,9,serie_a,20,38,0,2,0,7,4,2,2,16,6,WLWWDLLD,2,1,1,10,4,2,4,4,0,10,1,DLWDDWDW,1,3,0,3,1,WWDL,LDDD
+Milan,Parma,4-1,/match/milan/parma-fc/2012,2012,9,serie_a,20,38,0,4,1,4,4,2,2,14,11,LDWDWWWL,2,2,0,7,3,14,3,1,4,12,16,DWWWLWLL,1,0,2,3,8,DDWW,WWL
+Lazio,Catania,1-1,/match/lazio/catania/2012,2012,9,serie_a,20,38,1,1,1,5,4,3,1,11,7,DDLLDLWL,1,2,1,3,3,6,2,5,1,12,13,DDWWDDWD,0,3,1,8,11,DLDW,DWDD
+Genoa,Roma,2-1,/match/genoa/roma/2012,2012,9,serie_a,20,38,0,2,1,16,2,3,3,12,16,WDLWWWDD,1,2,0,5,2,8,4,2,2,10,6,LLDDLWWW,2,1,1,4,2,DWD,LDLW
+Chievo,Bologna,0-1,/match/chievo/bologna/2012,2012,9,serie_a,20,38,2,0,1,11,2,4,2,6,6,DDWWWDDW,2,2,0,5,3,20,1,1,6,4,14,LWLDLWLL,1,1,2,3,5,DWWD,WDWL
+Cesena,Cagliari,1-1,/match/ac-cesena/cagliari/2012,2012,9,serie_a,20,38,1,1,1,18,0,2,6,3,13,WLWLWDDW,0,2,2,2,5,9,3,3,2,8,7,LLWWDLDD,2,0,1,6,4,LLDD,LWL
+Palermo FC,Lecce,2-0,/match/palermo/lecce/2012,2012,9,serie_a,20,38,0,2,0,10,3,2,3,11,12,DWWWDWWW,3,0,0,9,5,19,1,1,6,7,17,WLLLWLDL,1,1,2,3,7,WWW,WLWD
+Catania,Napoli,2-1,/match/catania/napoli/2012,2012,10,serie_a,20,38,0,2,1,8,2,6,1,13,14,DDWWDDWDD,2,2,0,4,2,4,5,2,2,18,6,WLWWDLLDW,2,1,1,6,2,DWDW,LWLD
+Roma,Milan,2-3,/match/roma/milan/2012,2012,10,serie_a,20,38,2,2,3,9,4,2,3,11,8,LLDDLWWWW,2,1,1,6,4,3,5,2,2,18,12,LDWDWWWLW,2,0,2,7,8,LDWW,LWWL
+Inter,Juventus,1-2,/match/internazionale/juventus-fc/2012,2012,10,serie_a,20,38,2,1,2,14,3,2,4,14,15,WWDWLLWWD,2,1,1,5,4,2,4,5,0,13,6,DWLDDWDDW,1,3,0,2,1,WDLW,DLDD
+Siena,Chievo,4-1,/match/siena/chievo/2012,2012,10,serie_a,20,38,0,4,1,12,2,5,2,7,5,DDLDWWDWD,2,1,1,5,1,13,2,4,3,6,7,DDWWWDDWL,0,2,2,1,3,DLWW,DWDW
+Bologna,Atalanta,3-1,/match/bologna/atalanta/2012,2012,10,serie_a,20,38,0,3,1,19,2,1,6,5,14,LWLDLWLLL,0,0,4,1,9,1,5,3,1,15,10,WDWLWWDLD,2,1,1,7,7,LLLL,DLWL
+Parma,Cesena,2-0,/match/parma-fc/ac-cesena/2012,2012,10,serie_a,20,38,0,2,0,16,3,1,5,13,20,DWWWLWLLW,2,1,2,9,8,18,0,3,6,4,14,WLWLWDDWD,0,0,4,1,8,DWLWL,WWWW
+Lecce,Novara,1-1,/match/lecce/novara-calcio/2012,2012,10,serie_a,20,38,1,1,1,20,1,1,7,7,19,WLLLWLDLW,0,0,4,4,10,17,1,4,4,13,18,DDWWWDLWD,0,1,3,4,9,LLLL,DWWW
+Fiorentina,Genoa,1-0,/match/fiorentina/genoa/2012,2012,10,serie_a,20,38,0,1,0,15,2,4,3,9,8,DWWWDLDDW,2,1,1,8,4,11,3,3,3,14,17,WDLWWWDDW,1,1,3,7,14,WWLD,WLWWD
+Udinese,Palermo FC,1-0,/match/udinese/palermo/2012,2012,10,serie_a,20,38,0,1,0,5,4,4,1,10,3,DLWDDWDWW,3,1,0,7,0,6,4,2,3,13,12,DWWWDWWWW,0,2,3,2,7,DWWW,DWDWW
+Cagliari,Lazio,0-3,/match/cagliari/lazio/2012,2012,10,serie_a,20,38,2,0,3,10,3,4,2,9,8,LLWWDLDDD,1,3,1,2,3,7,4,4,1,12,8,DDLLDLWLD,3,1,0,8,4,LWDDD,DLLL
+Palermo FC,Bologna,3-1,/match/palermo/bologna/2012,2012,11,serie_a,20,38,0,3,1,9,4,2,4,13,13,DWWWDWWWWW,4,0,0,11,5,18,3,1,6,8,15,LWLDLWLLLW,2,1,2,4,5,WWWW,WDWLL
+Novara,Roma,0-2,/match/novara-calcio/roma/2012,2012,11,serie_a,20,38,2,0,2,17,1,5,4,14,19,DDWWWDLWDD,1,3,1,9,9,14,4,2,4,13,11,LLDDLWWWWL,2,1,2,5,4,DWDLD,LDLWW
+Atalanta,Cagliari,1-0,/match/atalanta/cagliari/2012,2012,11,serie_a,20,38,0,1,0,4,5,3,2,16,13,WDWLWWDLDW,3,2,0,8,3,13,3,4,3,9,11,LLWWDLDDDL,2,1,1,7,5,WWWDD,LWLD
+Milan,Catania,4-0,/match/milan/catania/2012,2012,11,serie_a,20,38,0,4,0,3,6,2,2,21,14,LDWDWWWLWL,3,2,0,11,4,5,3,6,1,15,15,DDWWDDWDDW,0,4,1,9,12,DDWWW,DWDDD
+Lazio,Parma,1-0,/match/lazio/parma-fc/2012,2012,11,serie_a,20,38,0,1,0,7,5,4,1,15,8,DDLLDLWLDL,1,3,1,4,4,11,4,1,5,15,20,DWWWLWLLWW,1,0,3,4,12,DLDWD,WWLW
+Chievo,Fiorentina,1-0,/match/chievo/fiorentina/2012,2012,11,serie_a,20,38,0,1,0,15,2,4,4,7,11,DDWWWDDWLW,2,2,1,5,4,10,3,4,3,10,8,DWWWDLDDWW,0,3,2,1,4,DWWDL,DWDDW
+Cesena,Lecce,0-1,/match/ac-cesena/lecce/2012,2012,11,serie_a,20,38,2,0,1,19,0,3,7,4,16,WLWLWDDWDW,0,3,2,3,6,20,1,2,7,8,20,WLLLWLDLWD,1,1,3,3,9,LLDDD,WLWDW
+Udinese,Siena,2-1,/match/udinese/siena/2012,2012,11,serie_a,20,38,0,2,1,1,5,4,1,11,3,DLWDDWDWWW,4,1,0,8,0,8,3,5,2,11,6,DDLDWWDWDW,0,4,1,2,4,DWWWW,DDWDD
+Napoli,Juventus,3-3,/match/napoli/juventus-fc/2012,2012,11,serie_a,20,38,1,3,3,6,5,2,3,19,8,WLWWDLLDWW,3,1,1,12,4,2,5,5,0,15,7,DWLDDWDDWL,2,3,0,4,2,WWDLW,DLDDL
+Genoa,Inter,0-1,/match/genoa/internazionale/2012,2012,11,serie_a,20,38,2,0,1,12,3,3,4,14,18,WDLWWWDDWW,2,2,0,7,3,16,3,2,5,15,17,WWDWLLWWDL,1,1,3,9,11,DWDW,WWLWD
+Inter,Cagliari,2-1,/match/internazionale/cagliari/2012,2012,12,serie_a,20,38,0,2,1,16,4,2,5,16,17,WWDWLLWWDLL,2,1,2,6,6,14,3,4,4,9,12,LLWWDLDDDLW,2,1,2,7,6,WDLWL,LWLDW
+Fiorentina,Milan,0-0,/match/fiorentina/milan/2012,2012,12,serie_a,20,38,1,0,0,12,3,4,4,10,9,DWWWDLDDWWW,3,1,1,9,4,2,7,2,2,25,14,LDWDWWWLWLW,3,0,2,10,10,WWLDW,LWWLL
+Napoli,Lazio,0-0,/match/napoli/lazio/2012,2012,12,serie_a,20,38,1,0,0,7,5,3,3,22,11,WLWWDLLDWWD,3,2,1,15,7,5,6,4,1,16,8,DDLLDLWLDLW,4,1,0,11,4,WWDLWD,DLLLL
+Bologna,Cesena,0-1,/match/bologna/ac-cesena/2012,2012,12,serie_a,20,38,2,0,1,18,3,1,7,9,18,LWLDLWLLLWW,1,0,4,4,10,20,0,3,8,4,17,WLWLWDDWDWL,0,0,5,1,10,LLLLW,WWWWW
+Parma,Udinese,2-0,/match/parma-fc/udinese/2012,2012,12,serie_a,20,38,0,2,0,13,4,1,6,15,21,DWWWLWLLWWW,3,1,2,11,8,1,6,4,1,13,4,DLWDDWDWWWW,1,3,1,3,3,DWLWLW,LDDDW
+Juventus,Palermo FC,3-0,/match/juventus-fc/palermo/2012,2012,12,serie_a,20,38,0,3,0,4,5,6,0,18,10,DWLDDWDDWLD,3,2,0,11,5,6,5,2,4,16,14,DWWWDWWWWWW,0,2,4,2,8,WDWDW,DWDWWW
+Genoa,Novara,1-0,/match/genoa/novara-calcio/2012,2012,12,serie_a,20,38,0,1,0,15,3,3,5,14,19,WDLWWWDDWWL,2,2,1,7,4,17,1,5,5,14,21,DDWWWDLWDDL,0,2,3,5,10,DWDWL,DWWWD
+Catania,Chievo,1-2,/match/catania/chievo/2012,2012,12,serie_a,20,38,2,1,2,8,3,6,2,15,19,DDWWDDWDDWW,3,2,0,6,3,10,3,4,4,8,11,DDWWWDDWLWW,0,2,3,2,7,DWDWW,DWDWW
+Siena,Atalanta,2-2,/match/siena/atalanta/2012,2012,12,serie_a,20,38,1,2,2,9,3,5,3,12,8,DDLDWWDWDWW,3,1,1,9,2,3,6,3,2,17,13,WDWLWWDLDWW,2,1,2,8,10,DLWWW,DLWLW
+Roma,Lecce,2-1,/match/roma/lecce/2012,2012,12,serie_a,20,38,0,2,1,11,5,2,4,15,11,LLDDLWWWWLL,2,1,2,8,7,19,2,2,7,9,20,WLLLWLDLWDL,2,1,3,4,9,LDWWL,WLWDWL
+Udinese,Roma,2-0,/match/udinese/roma/2012,2012,13,serie_a,20,38,0,2,0,2,6,4,2,13,6,DLWDDWDWWWWW,5,1,0,10,1,8,6,2,4,17,12,LLDDLWWWWLLW,3,1,2,7,4,DWWWWW,LDLWWL
+Novara,Parma,2-1,/match/novara-calcio/parma-fc/2012,2012,13,serie_a,20,38,0,2,1,17,1,5,6,14,22,DDWWWDLWDDLW,1,3,2,9,11,12,5,1,6,17,21,DWWWLWLLWWWW,1,0,4,4,13,DWDLDL,WWLWW
+Lecce,Catania,0-1,/match/lecce/catania/2012,2012,13,serie_a,20,38,2,0,1,20,2,2,8,10,22,WLLLWLDLWDLW,0,1,4,5,11,11,3,6,3,16,21,DDWWDDWDDWWL,0,4,2,9,16,LLLLD,DWDDDW
+Atalanta,Napoli,1-1,/match/atalanta/napoli/2012,2012,13,serie_a,20,38,1,1,1,4,6,4,2,19,15,WDWLWWDLDWWD,4,2,0,9,3,6,5,4,3,22,11,WLWWDLLDWWDD,2,1,2,7,4,WWWDDW,LWLDW
+Lazio,Juventus,0-1,/match/lazio/juventus-fc/2012,2012,13,serie_a,20,38,2,0,1,5,6,5,1,16,8,DDLLDLWLDLWD,2,3,1,5,4,1,6,6,0,21,10,DWLDDWDDWLDW,2,4,0,7,5,DLDWDW,DLDDLD
+Cesena,Genoa,2-0,/match/ac-cesena/genoa/2012,2012,13,serie_a,20,38,0,2,0,19,1,3,8,5,17,WLWLWDDWDWLL,0,3,3,3,7,14,4,3,5,15,19,WDLWWWDDWWLW,1,1,4,7,15,LLDDDL,WLWWDW
+Cagliari,Bologna,1-1,/match/cagliari/bologna/2012,2012,13,serie_a,20,38,1,1,1,16,3,4,5,10,14,LLWWDLDDDLWW,1,3,2,2,6,18,3,1,8,9,19,LWLDLWLLLWWL,2,1,3,5,8,LWDDDL,WDWLLW
+Palermo FC,Fiorentina,2-0,/match/palermo/fiorentina/2012,2012,13,serie_a,20,38,0,2,0,7,5,2,5,16,17,DWWWDWWWWWWW,5,0,0,14,6,13,3,5,4,10,9,DWWWDLDDWWWD,0,3,3,1,5,WWWWW,DWDDWW
+Siena,Inter,0-1,/match/siena/internazionale/2012,2012,13,serie_a,20,38,2,0,1,9,3,6,3,14,10,DDLDWWDWDWWD,3,2,1,11,4,15,5,2,5,18,18,WWDWLLWWDLLW,2,1,3,10,11,DLWWWD,WWLWDL
+Milan,Chievo,4-0,/match/milan/chievo/2012,2012,13,serie_a,20,38,0,4,0,3,7,3,2,25,14,LDWDWWWLWLWD,4,2,0,15,4,10,4,4,4,10,12,DDWWWDDWLWWL,1,2,3,4,8,DDWWWW,DWDWWL
+Genoa,Milan,0-2,/match/genoa/milan/2012,2012,14,serie_a,20,38,2,0,2,15,4,3,6,15,21,WDLWWWDDWWLWW,3,2,1,8,4,2,8,3,2,29,14,LDWDWWWLWLWDW,3,1,2,10,10,DWDWLW,LWWLLD
+Inter,Udinese,0-1,/match/internazionale/udinese/2012,2012,14,serie_a,20,38,2,0,1,10,6,2,5,19,18,WWDWLLWWDLLWL,3,1,2,8,7,1,7,4,2,15,6,DLWDDWDWWWWWW,1,3,2,3,5,WDLWLW,LDDDWW
+Napoli,Lecce,4-2,/match/napoli/lecce/2012,2012,14,serie_a,20,38,0,4,2,7,5,5,3,23,12,WLWWDLLDWWDDD,3,3,1,15,7,20,2,2,9,10,23,WLLLWLDLWDLWL,2,1,4,5,11,WWDLWDD,WLWDWLW
+Catania,Cagliari,0-1,/match/catania/cagliari/2012,2012,14,serie_a,20,38,2,0,1,8,4,6,3,17,21,DDWWDDWDDWWLL,3,2,1,7,5,16,3,5,5,11,15,LLWWDLDDDLWWD,2,1,3,8,8,DWDWWL,LWLDWW
+Juventus,Cesena,2-0,/match/juventus-fc/ac-cesena/2012,2012,14,serie_a,20,38,0,2,0,3,7,6,0,22,10,DWLDDWDDWLDWL,4,2,0,14,5,18,2,3,8,7,17,WLWLWDDWDWLLW,1,0,5,2,10,WDWDWW,WWWWWL
+Bologna,Siena,1-0,/match/bologna/siena/2012,2012,14,serie_a,20,38,0,1,0,19,3,2,8,10,20,LWLDLWLLLWWLD,1,0,5,4,11,11,3,6,4,14,11,DDLDWWDWDWWDL,0,4,2,3,6,LLLLWL,DDWDDW
+Fiorentina,Roma,3-0,/match/fiorentina/roma/2012,2012,14,serie_a,20,38,0,3,0,14,3,5,5,10,11,DWWWDLDDWWWDW,3,2,1,9,4,9,6,2,5,17,14,LLDDLWWWWLLWW,3,1,3,7,6,WWLDWD,LDLWWLW
+Chievo,Atalanta,0-0,/match/chievo/atalanta/2012,2012,14,serie_a,20,38,1,0,0,12,4,4,5,10,16,DDWWWDDWLWWLW,3,2,1,6,4,4,6,5,2,20,16,WDWLWWDLDWWDD,2,2,2,10,12,DWWDLW,DLWLWD
+Parma,Palermo FC,0-0,/match/parma-fc/palermo/2012,2012,14,serie_a,20,38,1,0,0,13,5,1,7,18,23,DWWWLWLLWWWWW,4,1,2,13,8,5,6,2,5,18,17,DWWWDWWWWWWWW,0,2,5,2,11,DWLWLWW,DWDWWWW
+Lazio,Novara,3-0,/match/lazio/novara-calcio/2012,2012,14,serie_a,20,38,0,3,0,6,6,5,2,16,9,DDLLDLWLDLWDL,2,3,2,5,5,17,2,5,6,16,23,DDWWWDLWDDLWW,0,2,4,5,11,DLDWDWL,DWWWDW
+Siena,Genoa,0-2,/match/siena/genoa/2012,2012,15,serie_a,20,38,2,0,2,14,3,6,5,14,12,DDLDWWDWDWWDLW,3,2,2,11,5,15,4,3,7,15,23,WDLWWWDDWWLWWL,1,1,5,7,17,DLWWWDL,WLWWDWW
+Lecce,Lazio,2-3,/match/lecce/lazio/2012,2012,15,serie_a,20,38,2,2,3,20,2,2,10,12,27,WLLLWLDLWDLWLW,0,1,5,5,12,5,7,5,2,19,9,DDLLDLWLDLWDLW,4,2,0,11,4,LLLLDL,DLLLLD
+Palermo FC,Cesena,0-1,/match/palermo/ac-cesena/2012,2012,15,serie_a,20,38,2,0,1,7,6,3,5,18,17,DWWWDWWWWWWWWD,6,0,0,16,6,19,2,3,9,7,19,WLWLWDDWDWLLWW,1,0,6,2,12,WWWWWW,WWWWWLW
+Inter,Fiorentina,2-0,/match/internazionale/fiorentina/2012,2012,15,serie_a,20,38,0,2,0,13,6,2,6,19,19,WWDWLLWWDLLWLL,3,1,3,8,8,8,4,5,5,13,11,DWWWDLDDWWWDWW,0,3,4,1,7,WDLWLWL,DWDDWWW
+Atalanta,Catania,1-1,/match/atalanta/catania/2012,2012,15,serie_a,20,38,1,1,1,4,6,6,2,20,16,WDWLWWDLDWWDDD,4,3,0,10,4,9,4,6,4,17,22,DDWWDDWDDWWLLL,1,4,2,10,16,WWWDDWD,DWDDDWL
+Udinese,Chievo,2-1,/match/udinese/chievo/2012,2012,15,serie_a,20,38,0,2,1,2,8,4,2,16,6,DLWDDWDWWWWWWL,6,1,0,12,1,10,4,5,5,10,16,DDWWWDDWLWWLWD,1,2,4,4,12,DWWWWWW,DWDWWLW
+Cagliari,Parma,0-0,/match/cagliari/parma-fc/2012,2012,15,serie_a,20,38,1,0,0,16,4,5,5,12,15,LLWWDLDDDLWWDL,1,4,2,3,7,11,5,2,7,18,23,DWWWLWLLWWWWWD,1,0,5,5,15,LWDDDLD,WWLWWW
+Bologna,Milan,2-2,/match/bologna/milan/2012,2012,15,serie_a,20,38,1,2,2,18,4,2,8,11,20,LWLDLWLLLWWLDW,2,0,5,5,11,3,9,3,2,31,14,LDWDWWWLWLWDWL,4,1,2,12,10,LLLLWLW,LWWLLDL
+Novara,Napoli,1-1,/match/novara-calcio/napoli/2012,2012,15,serie_a,20,38,1,1,1,17,2,5,7,16,26,DDWWWDLWDDLWWW,2,3,2,11,12,6,6,5,3,27,14,WLWWDLLDWWDDDW,2,2,2,8,5,DWDLDLW,LWLDWD
+Roma,Juventus,1-1,/match/roma/juventus-fc/2012,2012,15,serie_a,20,38,1,1,1,12,6,2,6,17,17,LLDDLWWWWLLWWW,3,1,2,10,8,1,8,6,0,24,10,DWLDDWDDWLDWLW,3,4,0,8,5,LDWWLW,DLDDLDL
+Chievo,Cagliari,2-0,/match/chievo/cagliari/2012,2012,16,serie_a,20,38,0,2,0,13,4,5,6,11,18,DDWWWDDWLWWLWDW,3,3,1,6,4,15,4,6,5,12,15,LLWWDLDDDLWWDLD,3,1,3,9,8,DWWDLWD,LWLDWWL
+Milan,Siena,2-0,/match/milan/siena/2012,2012,16,serie_a,20,38,0,2,0,3,9,4,2,33,16,LDWDWWWLWLWDWLD,5,2,0,19,4,16,3,6,6,14,14,DDLDWWDWDWWDLWL,0,4,3,3,7,DDWWWWW,DDWDDWW
+Fiorentina,Atalanta,2-2,/match/fiorentina/atalanta/2012,2012,16,serie_a,20,38,1,2,2,12,4,5,6,13,13,DWWWDLDDWWWDWWW,4,2,1,12,4,4,6,7,2,21,17,WDWLWWDLDWWDDDD,2,3,2,10,12,WWLDWDW,DLWLWDD
+Catania,Palermo FC,2-0,/match/catania/palermo/2012,2012,16,serie_a,20,38,0,2,0,11,4,7,4,18,23,DDWWDDWDDWWLLLD,3,2,2,7,6,7,6,3,6,18,18,DWWWDWWWWWWWWDL,0,3,5,2,11,DWDWWLL,DWDWWWWD
+Juventus,Novara,2-0,/match/juventus-fc/novara-calcio/2012,2012,16,serie_a,20,38,0,2,0,2,8,7,0,25,11,DWLDDWDDWLDWLWD,5,2,0,16,5,17,2,6,7,17,27,DDWWWDLWDDLWWWD,0,2,5,5,14,WDWDWWW,DWWWDWW
+Genoa,Bologna,2-1,/match/genoa/bologna/2012,2012,16,serie_a,20,38,0,2,1,14,5,3,7,17,23,WDLWWWDDWWLWWLL,3,2,2,8,6,18,4,3,8,13,22,LWLDLWLLLWWLDWD,2,2,3,6,9,DWDWLWL,WDWLLWD
+Cesena,Inter,0-1,/match/ac-cesena/internazionale/2012,2012,16,serie_a,20,38,2,0,1,19,3,3,9,8,19,WLWLWDDWDWLLWWL,1,3,3,5,7,8,7,2,6,21,19,WWDWLLWWDLLWLLW,3,1,3,11,11,LLDDDLW,WWLWDLL
+Parma,Lecce,3-3,/match/parma-fc/lecce/2012,2012,16,serie_a,20,38,1,3,3,10,5,3,7,18,23,DWWWLWLLWWWWWDD,4,2,2,13,8,20,2,2,11,14,30,WLLLWLDLWDLWLWL,2,1,5,7,15,DWLWLWWD,WLWDWLWW
+Lazio,Udinese,2-2,/match/lazio/udinese/2012,2012,16,serie_a,20,38,1,2,2,5,8,5,2,22,11,DDLLDLWLDLWDLWL,3,3,2,8,5,1,9,4,2,18,7,DLWDDWDWWWWWWLW,2,3,2,4,5,DLDWDWLW,LDDDWWL
+Napoli,Roma,1-3,/match/napoli/roma/2012,2012,16,serie_a,20,38,2,1,3,6,6,6,3,28,15,WLWWDLLDWWDDDWD,4,3,1,19,9,9,6,3,6,18,18,LLDDLWWWWLLWWWD,3,1,4,7,9,WWDLWDDW,LDLWWLWW
+Siena,Lazio,4-0,/match/siena/lazio/2012,2012,17,serie_a,20,38,0,4,0,16,3,6,7,14,16,DDLDWWDWDWWDLWLW,3,2,3,11,7,5,8,6,2,24,13,DDLLDLWLDLWDLWLD,5,2,0,14,6,DLWWWDLL,DLLLLDL
+Inter,Parma,5-0,/match/internazionale/parma-fc/2012,2012,17,serie_a,20,38,0,5,0,7,8,2,6,22,19,WWDWLLWWDLLWLLWL,4,1,3,10,8,12,5,4,7,21,26,DWWWLWLLWWWWWDDD,1,1,5,5,15,WDLWLWLW,WWLWWWD
+Udinese,Cesena,4-1,/match/udinese/ac-cesena/2012,2012,17,serie_a,20,38,0,4,1,2,9,5,2,20,9,DLWDDWDWWWWWWLWD,7,1,0,14,2,19,3,3,10,8,20,WLWLWDDWDWLLWWLL,2,0,6,3,12,DWWWWWWW,WWWWWLWL
+Roma,Chievo,2-0,/match/roma/chievo/2012,2012,17,serie_a,20,38,0,2,0,11,7,3,6,21,19,LLDDLWWWWLLWWWDL,3,2,2,11,9,10,5,5,6,13,18,DDWWWDDWLWWLWDWW,1,2,5,5,14,LDWWLWD,DWDWWLWW
+Novara,Fiorentina,0-3,/match/novara-calcio/fiorentina/2012,2012,17,serie_a,20,38,2,0,3,17,2,6,8,17,29,DDWWWDLWDDLWWWDW,2,4,2,12,13,13,4,6,6,15,15,DWWWDLDDWWWDWWWD,0,3,5,1,9,DWDLDLWD,DWDDWWWW
+Lecce,Juventus,0-1,/match/lecce/juventus-fc/2012,2012,17,serie_a,20,38,2,0,1,20,2,3,11,17,33,WLLLWLDLWDLWLWLD,0,1,6,7,15,1,9,7,0,27,11,DWLDDWDDWLDWLWDW,3,5,0,9,6,LLLLDLL,DLDDLDLD
+Cagliari,Genoa,3-0,/match/cagliari/genoa/2012,2012,17,serie_a,20,38,0,3,0,15,4,6,6,12,17,LLWWDLDDDLWWDLDW,1,5,2,3,7,14,6,3,7,19,24,WDLWWWDDWWLWWLLW,2,1,5,9,17,LWDDDLDD,WLWWDWWL
+Bologna,Catania,2-0,/match/bologna/catania/2012,2012,17,serie_a,20,38,0,2,0,18,4,3,9,14,24,LWLDLWLLLWWLDWDW,2,1,5,7,13,8,5,7,4,20,23,DDWWDDWDDWWLLLDW,1,5,2,11,17,LLLLWLWD,DWDDDWLD
+Atalanta,Milan,0-2,/match/atalanta/milan/2012,2012,17,serie_a,20,38,2,0,2,4,6,8,2,23,19,WDWLWWDLDWWDDDDD,4,4,0,11,5,3,10,4,2,35,16,LDWDWWWLWLWDWLDW,4,2,2,14,12,WWWDDWDD,LWWLLDLD
+Palermo FC,Napoli,1-3,/match/palermo/napoli/2012,2012,17,serie_a,20,38,2,1,3,9,6,3,7,18,20,DWWWDWWWWWWWWDLW,6,0,1,16,7,6,6,6,4,29,18,WLWWDLLDWWDDDWDL,2,3,2,9,6,WWWWWWL,LWLDWDD
+Lazio,Atalanta,2-0,/match/lazio/atalanta/2012,2012,18,serie_a,20,38,0,2,0,5,8,6,3,24,17,DDLLDLWLDLWDLWLDW,3,4,2,10,7,4,6,8,3,23,21,WDWLWWDLDWWDDDDDL,2,4,2,12,14,DLDWDWLWD,DLWLWDDD
+Parma,Siena,3-1,/match/parma-fc/siena/2012,2012,18,serie_a,20,38,0,3,1,13,5,4,8,21,31,DWWWLWLLWWWWWDDDW,4,3,2,16,11,16,4,6,7,18,16,DDLDWWDWDWWDLWLWW,0,4,4,3,9,DWLWLWWDD,DDWDDWWW
+Juventus,Cagliari,1-1,/match/juventus-fc/cagliari/2012,2012,18,serie_a,20,38,1,1,1,2,10,7,0,28,11,DWLDDWDDWLDWLWDWL,6,2,0,18,5,15,5,6,6,15,17,LLWWDLDDDLWWDLDWW,3,1,4,9,10,WDWDWWWW,LWLDWWLW
+Genoa,Udinese,3-2,/match/genoa/udinese/2012,2012,18,serie_a,20,38,0,3,2,14,6,3,8,19,27,WDLWWWDDWWLWWLLWW,4,2,2,10,7,1,10,5,2,24,10,DLWDDWDWWWWWWLWDW,2,4,2,6,7,DWDWLWLW,LDDDWWLD
+Fiorentina,Lecce,0-1,/match/fiorentina/lecce/2012,2012,18,serie_a,20,38,2,0,1,11,5,6,6,18,15,DWWWDLDDWWWDWWWDL,4,3,1,14,6,20,2,3,12,17,34,WLLLWLDLWDLWLWLDL,2,2,5,10,18,WWLDWDWD,WLWDWLWWD
+Chievo,Palermo FC,1-0,/match/chievo/palermo/2012,2012,18,serie_a,20,38,0,1,0,12,5,5,7,13,20,DDWWWDDWLWWLWDWWW,4,3,1,8,4,9,6,3,8,19,23,DWWWDWWWWWWWWDLWL,0,3,6,2,13,DWWDLWDW,DWDWWWWDW
+Cesena,Novara,3-1,/match/ac-cesena/novara-calcio/2012,2012,18,serie_a,20,38,0,3,1,19,3,3,11,9,24,WLWLWDDWDWLLWWLLW,1,3,4,5,8,18,2,6,9,17,32,DDWWWDLWDDLWWWDWL,0,2,6,5,16,LLDDDLWL,DWWWDWWW
+Milan,Inter,0-1,/match/milan/internazionale/2012,2012,18,serie_a,20,38,2,0,1,3,11,4,2,37,16,LDWDWWWLWLWDWLDWL,6,2,0,21,4,7,9,2,6,27,19,WWDWLLWWDLLWLLWLW,4,1,3,12,11,DDWWWWWW,WWLWDLLL
+Napoli,Bologna,1-1,/match/napoli/bologna/2012,2012,18,serie_a,20,38,1,1,1,6,7,6,4,32,19,WLWWDLLDWWDDDWDLL,4,3,2,20,12,17,5,3,9,16,24,LWLDLWLLLWWLDWDWW,2,2,4,7,11,WWDLWDDWL,WDWLLWDW
+Catania,Roma,1-1,/match/catania/roma/2012,2012,18,serie_a,20,38,1,1,1,10,5,7,5,20,25,DDWWDDWDDWWLLLDWW,4,2,2,9,6,8,8,3,6,23,19,LLDDLWWWWLLWWWDLW,4,1,4,10,10,DWDWWLLW,LDLWWLWWL
+Roma,Cesena,5-1,/match/roma/ac-cesena/2012,2012,19,serie_a,20,38,0,5,1,8,8,4,6,24,20,LLDDLWWWWLLWWWDLWD,4,2,2,13,9,19,4,3,11,12,25,WLWLWDDWDWLLWWLLWW,2,0,7,4,16,LDWWLWDW,WWWWWLWLW
+Atalanta,Juventus,0-2,/match/atalanta/juventus-fc/2012,2012,19,serie_a,20,38,2,0,2,7,6,8,4,23,23,WDWLWWDLDWWDDDDDLW,4,4,1,11,7,1,10,8,0,29,12,DWLDDWDDWLDWLWDWLD,4,5,0,10,6,WWWDDWDDL,DLDDLDLDL
+Bologna,Parma,0-0,/match/bologna/parma-fc/2012,2012,19,serie_a,20,38,1,0,0,17,5,4,9,17,25,LWLDLWLLLWWLDWDWWD,3,1,5,9,13,10,6,4,8,24,32,DWWWLWLLWWWWWDDDWW,1,1,6,5,20,LLLLWLWDW,WWLWWWDW
+Siena,Napoli,1-1,/match/siena/napoli/2012,2012,19,serie_a,20,38,1,1,1,16,4,6,8,19,19,DDLDWWDWDWWDLWLWWW,4,2,3,15,7,5,7,7,4,33,20,WLWWDLLDWWDDDWDLLD,3,3,2,12,7,DLWWWDLLW,LWLDWDDL
+Palermo FC,Genoa,5-3,/match/palermo/genoa/2012,2012,19,serie_a,20,38,0,5,3,14,6,3,9,19,24,DWWWDWWWWWWWWDLWLW,6,0,2,17,10,11,7,3,8,22,29,WDLWWWDDWWLWWLLWWW,2,1,6,9,20,WWWWWWLL,WLWWDWWLW
+Novara,Milan,0-3,/match/novara-calcio/milan/2012,2012,19,serie_a,20,38,2,0,3,18,2,6,10,18,35,DDWWWDLWDDLWWWDWLW,2,4,3,12,16,3,11,4,3,37,17,LDWDWWWLWLWDWLDWLL,5,2,2,16,12,DWDLDLWDL,LWWLLDLDL
+Lecce,Chievo,2-2,/match/lecce/chievo/2012,2012,19,serie_a,20,38,1,2,2,20,3,3,12,18,34,WLLLWLDLWDLWLWLDLL,0,1,7,7,16,9,6,5,7,14,20,DDWWWDDWLWWLWDWWWW,1,2,6,5,16,LLLLDLLL,DWDWWLWWW
+Udinese,Catania,2-1,/match/udinese/catania/2012,2012,19,serie_a,20,38,0,2,1,2,10,5,3,26,13,DLWDDWDWWWWWWLWDWW,8,1,0,18,3,12,5,8,5,21,26,DDWWDDWDDWWLLLDWWD,1,5,3,11,19,DWWWWWWWW,DWDDDWLDW
+Cagliari,Fiorentina,0-0,/match/cagliari/fiorentina/2012,2012,19,serie_a,20,38,1,0,0,15,5,7,6,16,18,LLWWDLDDDLWWDLDWWD,2,5,2,6,7,13,5,6,7,18,16,DWWWDLDDWWWDWWWDLL,1,3,5,4,9,LWDDDLDDW,DWDDWWWWL
+Inter,Lazio,2-1,/match/internazionale/lazio/2012,2012,19,serie_a,20,38,0,2,1,6,10,2,6,28,19,WWDWLLWWDLLWLLWLWL,5,1,3,15,8,4,9,6,3,26,17,DDLLDLWLDLWDLWLDWW,5,2,1,14,10,WDLWLWLWW,DLLLLDLW
+Catania,Parma,1-1,/match/catania/parma-fc/2012,2012,20,serie_a,20,38,1,1,1,13,5,8,6,22,28,DDWWDDWDDWWLLLDWWDW,4,3,2,10,7,11,6,5,8,24,32,DWWWLWLLWWWWWDDDWWD,1,2,6,5,20,DWDWWLLWD,WWLWWWDWD
+Juventus,Udinese,2-1,/match/juventus-fc/udinese/2012,2012,20,serie_a,20,38,0,2,1,2,11,8,0,31,12,DWLDDWDDWLDWLWDWLDL,6,3,0,19,6,1,11,5,3,28,14,DLWDDWDWWWWWWLWDWWW,2,4,3,8,10,WDWDWWWWD,LDDDWWLDW
+Fiorentina,Siena,2-1,/match/fiorentina/siena/2012,2012,20,serie_a,20,38,0,2,1,14,5,7,7,18,16,DWWWDLDDWWWDWWWDLLD,4,3,2,14,7,16,4,7,8,20,20,DDLDWWDWDWWDLWLWWWD,0,4,5,4,12,WWLDWDWDL,DDWDDWWWW
+Palermo FC,Novara,2-0,/match/palermo/novara-calcio/2012,2012,20,serie_a,20,38,0,2,0,9,7,3,9,24,27,DWWWDWWWWWWWWDLWLWW,7,0,2,22,13,18,2,6,11,18,38,DDWWWDLWDDLWWWDWLWL,0,2,7,6,19,WWWWWWLLW,DWWWDWWWW
+Genoa,Napoli,3-2,/match/genoa/napoli/2012,2012,20,serie_a,20,38,0,3,2,12,7,3,9,25,34,WDLWWWDDWWLWWLLWWWW,5,2,2,13,9,6,7,8,4,34,21,WLWWDLLDWWDDDWDLLDD,3,4,2,13,8,DWDWLWLWW,LWLDWDDLD
+Chievo,Lazio,0-3,/match/chievo/lazio/2012,2012,20,serie_a,20,38,2,0,3,10,6,6,7,16,22,DDWWWDDWLWWLWDWWWWD,5,3,1,9,4,5,9,6,4,27,19,DDLLDLWLDLWDLWLDWWW,5,2,2,15,12,DWWDLWDWW,DLLLLDLWW
+Lecce,Inter,1-0,/match/lecce/internazionale/2012,2012,20,serie_a,20,38,0,1,0,20,3,4,12,20,36,WLLLWLDLWDLWLWLDLLD,0,2,7,9,18,4,11,2,6,30,20,WWDWLLWWDLLWLLWLWLW,5,1,3,13,11,LLLLDLLLD,WWLWDLLLL
+Roma,Bologna,1-1,/match/roma/bologna/2012,2012,20,serie_a,20,38,1,1,1,7,9,4,6,29,21,LLDDLWWWWLLWWWDLWDW,5,2,2,18,10,17,5,5,9,17,25,LWLDLWLLLWWLDWDWWDD,2,3,4,8,12,LDWWLWDWW,WDWLLWDWD
+Cesena,Atalanta,0-1,/match/ac-cesena/atalanta/2012,2012,20,serie_a,20,38,2,0,1,19,4,3,12,13,30,WLWLWDDWDWLLWWLLWWW,2,3,4,8,9,8,6,8,5,23,25,WDWLWWDLDWWDDDDDLWL,2,4,3,12,16,LLDDDLWLW,DLWLWDDDW
+Milan,Cagliari,3-0,/match/milan/cagliari/2012,2012,20,serie_a,20,38,0,3,0,3,12,4,3,40,17,LDWDWWWLWLWDWLDWLLL,6,2,1,21,5,15,5,8,6,16,18,LLWWDLDDDLWWDLDWWDD,3,2,4,10,11,DDWWWWWWL,LWLDWWLWD
+Cagliari,Roma,4-2,/match/cagliari/roma/2012,2012,21,serie_a,20,38,0,4,2,15,5,8,7,16,21,LLWWDLDDDLWWDLDWWDDW,2,6,2,6,7,6,9,5,6,30,22,LLDDLWWWWLLWWWDLWDWD,4,2,4,11,11,LWDDDLDDWD,LDLWWLWWLD
+Napoli,Cesena,0-0,/match/napoli/ac-cesena/2012,2012,21,serie_a,20,38,1,0,0,8,7,8,5,36,24,WLWWDLLDWWDDDWDLLDDW,4,4,2,21,13,19,4,3,13,13,31,WLWLWDDWDWLLWWLLWWWL,2,0,8,5,21,WWDLWDDWLD,WWWWWLWLWW
+Inter,Palermo FC,4-4,/match/internazionale/palermo/2012,2012,21,serie_a,20,38,1,4,4,5,11,2,7,30,21,WWDWLLWWDLLWLLWLWLWW,6,1,3,17,9,7,8,3,9,26,27,DWWWDWWWWWWWWDLWLWWW,0,3,7,2,14,WDLWLWLWWW,DWDWWWWDWW
+Lazio,Milan,2-0,/match/lazio/milan/2012,2012,21,serie_a,20,38,0,2,0,4,10,6,4,30,19,DDLLDLWLDLWDLWLDWWWL,4,4,2,12,7,3,13,4,3,43,17,LDWDWWWLWLWDWLDWLLLW,6,2,2,19,12,DLDWDWLWDW,LWWLLDLDLL
+Udinese,Lecce,2-1,/match/udinese/lecce/2012,2012,21,serie_a,20,38,0,2,1,2,11,5,4,29,16,DLWDDWDWWWWWWLWDWWWW,9,1,0,20,4,20,4,4,12,21,36,WLLLWLDLWDLWLWLDLLDW,3,2,5,11,18,DWWWWWWWWW,WLWDWLWWDL
+Novara,Chievo,1-2,/match/novara-calcio/chievo/2012,2012,21,serie_a,20,38,2,1,2,18,2,6,12,18,40,DDWWWDLWDDLWWWDWLWLW,2,4,4,12,19,14,6,6,8,16,25,DDWWWDDWLWWLWDWWWWDL,1,3,6,7,18,DWDLDLWDLL,DWDWWLWWWD
+Parma,Juventus,0-0,/match/parma-fc/juventus-fc/2012,2012,21,serie_a,20,38,1,0,0,13,6,6,8,25,33,DWWWLWLLWWWWWDDDWWDD,5,3,2,19,12,1,12,8,0,33,13,DWLDDWDDWLDWLWDWLDLW,5,5,0,12,6,DWLWLWWDDW,DLDDLDLDLL
+Atalanta,Genoa,1-0,/match/atalanta/genoa/2012,2012,21,serie_a,20,38,0,1,0,9,7,8,5,24,25,WDWLWWDLDWWDDDDDLWLL,4,4,2,11,9,10,8,3,9,28,36,WDLWWWDDWWLWWLLWWWWW,2,1,7,12,25,WWWDDWDDLL,WLWWDWWLWW
+Bologna,Fiorentina,2-0,/match/bologna/fiorentina/2012,2012,21,serie_a,20,38,0,2,0,17,5,6,9,18,26,LWLDLWLLLWWLDWDWWDDD,3,2,5,9,13,11,6,7,7,20,17,DWWWDLDDWWWDWWWDLLDW,1,4,5,4,9,LLLLWLWDWD,DWDDWWWWLD
+Siena,Catania,0-1,/match/siena/catania/2012,2012,21,serie_a,20,38,2,0,1,16,4,7,9,21,22,DDLDWWDWDWWDLWLWWWDW,4,3,3,16,8,12,5,9,6,23,29,DDWWDDWDDWWLLLDWWDWD,1,5,4,12,21,DLWWWDLLWD,DWDDDWLDWW
+Genoa,Lazio,3-2,/match/genoa/lazio/2012,2012,22,serie_a,20,38,0,3,2,10,8,3,10,28,37,WDLWWWDDWWLWWLLWWWWWW,6,2,2,16,11,4,11,6,4,32,19,DDLLDLWLDLWDLWLDWWWLW,6,2,2,18,12,DWDWLWLWWW,DLLLLDLWWL
+Juventus,Siena,0-0,/match/juventus-fc/siena/2012,2012,22,serie_a,20,38,1,0,0,1,12,9,0,33,13,DWLDDWDDWLDWLWDWLDLWD,7,3,0,21,7,17,4,7,10,21,23,DDLDWWDWDWWDLWLWWWDWL,0,4,6,5,14,WDWDWWWWDW,DDWDDWWWWW
+Chievo,Parma,1-2,/match/chievo/parma-fc/2012,2012,22,serie_a,20,38,2,1,2,13,7,6,8,18,26,DDWWWDDWLWWLWDWWWWDLL,5,3,2,9,7,12,6,7,8,25,33,DWWWLWLLWWWWWDDDWWDDD,1,3,6,6,21,DWWDLWDWWL,WWLWWWDWDD
+Milan,Napoli,0-0,/match/milan/napoli/2012,2012,22,serie_a,20,38,1,0,0,3,13,4,4,43,19,LDWDWWWLWLWDWLDWLLLWW,7,2,1,24,5,9,7,9,5,36,24,WLWWDLLDWWDDDWDLLDDWD,3,4,3,15,11,DDWWWWWWLW,LWLDWDDLDW
+Palermo FC,Atalanta,2-1,/match/palermo/atalanta/2012,2012,22,serie_a,20,38,0,2,1,8,8,4,9,30,31,DWWWDWWWWWWWWDLWLWWWD,8,0,2,24,13,6,8,8,5,25,25,WDWLWWDLDWWDDDDDLWLLW,3,4,3,13,16,WWWWWWLLWW,DLWLWDDDWL
+Roma,Inter,4-0,/match/roma/internazionale/2012,2012,22,serie_a,20,38,0,4,0,7,9,5,7,32,26,LLDDLWWWWLLWWWDLWDWDW,5,3,2,19,11,5,11,3,7,34,25,WWDWLLWWDLLWLLWLWLWWD,5,1,4,13,12,LDWWLWDWWD,WWLWDLLLLW
+Novara,Cagliari,0-0,/match/novara-calcio/cagliari/2012,2012,22,serie_a,20,38,1,0,0,19,2,6,13,19,42,DDWWWDLWDDLWWWDWLWLWL,2,4,5,13,21,14,6,8,7,20,23,LLWWDLDDDLWWDLDWWDDWW,3,2,5,10,14,DWDLDLWDLLL,LWLDWWLWDW
+Lecce,Bologna,0-0,/match/lecce/bologna/2012,2012,22,serie_a,20,38,1,0,0,20,4,4,13,22,38,WLLLWLDLWDLWLWLDLLDWW,1,2,7,10,18,16,6,6,9,20,26,LWLDLWLLLWWLDWDWWDDDW,2,4,4,9,13,LLLLDLLLDW,WDWLLWDWDD
+Fiorentina,Udinese,3-2,/match/fiorentina/udinese/2012,2012,22,serie_a,20,38,0,3,2,15,6,7,8,20,19,DWWWDLDDWWWDWWWDLLDWW,5,3,2,16,8,2,12,5,4,31,17,DLWDDWDWWWWWWLWDWWWWW,2,4,4,9,12,WWLDWDWDLW,LDDDWWLDWW
+Cesena,Catania,0-0,/match/ac-cesena/catania/2012,2012,22,serie_a,20,38,1,0,0,18,4,4,13,13,31,WLWLWDDWDWLLWWLLWWWLD,2,3,5,8,10,11,6,9,6,24,29,DDWWDDWDDWWLLLDWWDWDL,2,5,4,13,21,LLDDDLWLWL,DWDDDWLDWWL
+Lazio,Cesena,3-2,/match/lazio/ac-cesena/2012,2012,23,serie_a,20,38,0,3,2,4,11,6,5,34,22,DDLLDLWLDLWDLWLDWWWLWW,5,4,2,14,7,18,4,5,13,13,31,WLWLWDDWDWLLWWLLWWWLDD,2,1,8,5,21,DLDWDWLWDWW,WWWWWLWLWWD
+Udinese,Milan,1-2,/match/udinese/milan/2012,2012,23,serie_a,20,38,2,1,2,2,12,5,5,33,20,DLWDDWDWWWWWWLWDWWWWWW,10,1,0,22,5,3,13,5,4,43,19,LDWDWWWLWLWDWLDWLLLWWD,6,2,3,19,14,DWWWWWWWWWW,LWWLLDLDLLW
+Cagliari,Palermo FC,2-1,/match/cagliari/palermo/2012,2012,23,serie_a,20,38,0,2,1,14,6,9,7,20,23,LLWWDLDDDLWWDLDWWDDWWD,3,6,2,10,9,6,9,4,9,32,32,DWWWDWWWWWWWWDLWLWWWDW,0,4,7,6,18,LWDDDLDDWDW,DWDWWWWDWWD
+Inter,Novara,0-1,/match/internazionale/novara-calcio/2012,2012,23,serie_a,20,38,2,0,1,7,11,3,8,34,29,WWDWLLWWDLLWLLWLWLWWDW,6,2,3,21,13,19,2,7,13,19,42,DDWWWDLWDDLWWWDWLWLWLD,0,2,8,6,21,WDLWLWLWWWD,DWWWDWWWWW
+Atalanta,Lecce,0-0,/match/atalanta/lecce/2012,2012,23,serie_a,20,38,1,0,0,8,8,8,6,26,27,WDWLWWDLDWWDDDDDLWLLWW,5,4,2,12,9,20,4,5,13,22,38,WLLLWLDLWDLWLWLDLLDWWD,3,2,6,12,20,WWWDDWDDLLW,WLWDWLWWDLW
+Catania,Genoa,4-0,/match/catania/genoa/2012,2012,23,serie_a,20,38,0,4,0,13,6,10,6,24,29,DDWWDDWDDWWLLLDWWDWDLD,4,4,2,11,8,10,9,3,10,31,39,WDLWWWDDWWLWWLLWWWWWWW,2,1,8,12,26,DWDWWLLWDD,WLWWDWWLWWW
+Napoli,Chievo,2-0,/match/napoli/chievo/2012,2012,23,serie_a,20,38,0,2,0,9,7,10,5,36,24,WLWWDLLDWWDDDWDLLDDWDD,4,5,2,21,13,15,7,6,9,19,28,DDWWWDDWLWWLWDWWWWDLLL,2,3,6,9,19,WWDLWDDWLDD,DWDWWLWWWDL
+Siena,Roma,1-0,/match/siena/roma/2012,2012,23,serie_a,20,38,0,1,0,17,4,8,10,21,23,DDLDWWDWDWWDLWLWWWDWLD,4,3,4,16,9,5,10,5,7,36,26,LLDDLWWWWLLWWWDLWDWDWW,4,2,5,13,15,DLWWWDLLWDL,LDLWWLWWLDW
+Bologna,Juventus,1-1,/match/bologna/juventus-fc/2012,2012,23,serie_a,20,38,1,1,1,16,6,7,9,20,26,LWLDLWLLLWWLDWDWWDDDWD,4,2,5,11,13,1,12,10,0,33,13,DWLDDWDDWLDWLWDWLDLWDD,5,6,0,12,6,LLLLWLWDWDW,DLDDLDLDLLD
+Parma,Fiorentina,2-2,/match/parma-fc/fiorentina/2012,2012,23,serie_a,20,38,1,2,2,12,7,7,8,27,34,DWWWLWLLWWWWWDDDWWDDDL,5,4,2,19,12,11,7,7,8,23,21,DWWWDLDDWWWDWWWDLLDWWW,1,4,6,4,11,DWLWLWWDDWD,DWDDWWWWLDW
+Inter,Bologna,0-3,/match/internazionale/bologna/2012,2012,24,serie_a,20,38,2,0,3,9,11,3,9,34,30,WWDWLLWWDLLWLLWLWLWWDWL,6,2,4,21,14,16,6,8,9,21,27,LWLDLWLLLWWLDWDWWDDDWDD,2,5,4,9,13,WDLWLWLWWWDL,WDWLLWDWDDD
+Fiorentina,Napoli,0-3,/match/fiorentina/napoli/2012,2012,24,serie_a,20,38,2,0,3,12,7,8,8,25,23,DWWWDLDDWWWDWWWDLLDWWWD,6,3,2,19,10,5,8,10,5,38,24,WLWWDLLDWWDDDWDLLDDWDDW,3,5,3,15,11,WWLDWDWDLWW,LWLDWDDLDWD
+Juventus,Catania,3-1,/match/juventus-fc/catania/2012,2012,24,serie_a,20,38,0,3,1,1,12,11,0,34,14,DWLDDWDDWLDWLWDWLDLWDDD,7,4,0,21,7,10,7,10,6,28,29,DDWWDDWDDWWLLLDWWDWDLDW,2,6,4,13,21,WDWDWWWWDWD,DWDDDWLDWWLD
+Lecce,Siena,4-1,/match/lecce/siena/2012,2012,24,serie_a,20,38,0,4,1,20,4,6,13,22,38,WLLLWLDLWDLWLWLDLLDWWDD,1,3,7,10,18,17,5,8,10,22,23,DDLDWWDWDWWDLWLWWWDWLDW,0,5,6,5,14,LLLLDLLLDWD,DDWDDWWWWWD
+Roma,Parma,1-0,/match/roma/parma-fc/2012,2012,24,serie_a,20,38,0,1,0,6,10,5,8,36,27,LLDDLWWWWLLWWWDLWDWDWWW,6,3,2,23,11,13,7,8,8,29,36,DWWWLWLLWWWWWDDDWWDDDLD,2,3,6,8,22,LDWWLWDWWDW,WWLWWWDWDDL
+Cesena,Milan,1-3,/match/ac-cesena/milan/2012,2012,24,serie_a,20,38,2,1,3,19,4,5,14,15,34,WLWLWDDWDWLLWWLLWWWLDDW,2,4,5,8,10,2,14,5,4,45,20,LDWDWWWLWLWDWLDWLLLWWDL,7,2,3,21,15,LLDDDLWLWLD,LWWLLDLDLLWL
+Novara,Atalanta,0-0,/match/novara-calcio/atalanta/2012,2012,24,serie_a,20,38,1,0,0,18,3,7,13,20,42,DDWWWDLWDDLWWWDWLWLWLDL,2,5,5,13,21,8,8,9,6,26,27,WDWLWWDLDWWDDDDDLWLLWWD,3,4,4,14,18,DWDLDLWDLLLD,DLWLWDDDWLW
+Genoa,Chievo,0-1,/match/genoa/chievo/2012,2012,24,serie_a,20,38,2,0,1,14,9,3,11,31,43,WDLWWWDDWWLWWLLWWWWWWWW,7,2,2,19,13,15,7,6,10,19,30,DDWWWDDWLWWLWDWWWWDLLLW,2,3,7,9,21,DWDWLWLWWWW,DWDWWLWWWDLW
+Udinese,Cagliari,0-0,/match/udinese/cagliari/2012,2012,24,serie_a,20,38,1,0,0,3,12,5,6,34,22,DLWDDWDWWWWWWLWDWWWWWWL,10,1,1,23,7,11,7,9,7,22,24,LLWWDLDDDLWWDLDWWDDWWDW,3,3,5,10,14,DWWWWWWWWWWL,LWLDWWLWDWD
+Palermo FC,Lazio,5-1,/match/palermo/lazio/2012,2012,24,serie_a,20,38,0,5,1,7,9,4,10,33,34,DWWWDWWWWWWWWDLWLWWWDWW,9,0,2,26,14,4,12,6,5,37,24,DDLLDLWLDLWDLWLDWWWLWWW,6,2,3,20,15,WWWWWWLLWWW,DLLLLDLWWLW
+Genoa,Parma,2-2,/match/genoa/parma-fc/2012,2012,25,serie_a,20,38,1,2,2,14,9,3,12,31,44,WDLWWWDDWWLWWLLWWWWWWWWL,7,2,3,19,14,13,7,8,9,29,37,DWWWLWLLWWWWWDDDWWDDDLDW,2,3,7,8,23,DWDWLWLWWWWL,WWLWWWDWDDLW
+Milan,Juventus,1-1,/match/milan/juventus-fc/2012,2012,25,serie_a,20,38,1,1,1,2,15,5,4,48,21,LDWDWWWLWLWDWLDWLLLWWDLL,7,3,1,24,5,1,13,11,0,37,15,DWLDDWDDWLDWLWDWLDLWDDDW,5,7,0,13,7,DDWWWWWWLWD,DLDDLDLDLLDD
+Chievo,Cesena,1-0,/match/chievo/ac-cesena/2012,2012,25,serie_a,20,38,0,1,0,15,8,6,10,20,30,DDWWWDDWLWWLWDWWWWDLLLWL,5,3,3,10,9,20,4,5,15,16,37,WLWLWDDWDWLLWWLLWWWLDDWL,2,1,9,7,24,DWWDLWDWWLL,WWWWWLWLWWDW
+Atalanta,Roma,4-1,/match/atalanta/roma/2012,2012,25,serie_a,20,38,0,4,1,8,8,10,6,26,27,WDWLWWDLDWWDDDDDLWLLWWDD,5,5,2,12,9,5,11,5,8,37,27,LLDDLWWWWLLWWWDLWDWDWWWW,4,2,6,13,16,WWWDDWDDLLWD,LDLWWLWWLDWW
+Siena,Palermo FC,4-1,/match/siena/palermo/2012,2012,25,serie_a,20,38,0,4,1,17,5,8,11,23,27,DDLDWWDWDWWDLWLWWWDWLDWW,5,3,4,17,9,6,10,4,10,38,35,DWWWDWWWWWWWWDLWLWWWDWWW,0,4,8,7,20,DLWWWDLLWDLW,DWDWWWWDWWDW
+Catania,Novara,3-1,/match/catania/novara-calcio/2012,2012,25,serie_a,20,38,0,3,1,11,7,10,7,29,32,DDWWDDWDDWWLLLDWWDWDLDWW,5,4,2,15,8,18,3,8,13,20,42,DDWWWDLWDDLWWWDWLWLWLDLD,1,2,8,7,21,DWDWWLLWDDW,DWWWDWWWWWL
+Cagliari,Lecce,1-2,/match/cagliari/lecce/2012,2012,25,serie_a,20,38,2,1,2,10,7,10,7,22,24,LLWWDLDDDLWWDLDWWDDWWDWD,4,6,2,12,10,19,5,6,13,26,39,WLLLWLDLWDLWLWLDLLDWWDDW,3,3,6,12,20,LWDDDLDDWDWW,WLWDWLWWDLWD
+Napoli,Inter,1-0,/match/napoli/internazionale/2012,2012,25,serie_a,20,38,0,1,0,7,9,10,5,41,24,WLWWDLLDWWDDDWDLLDDWDDWL,5,5,2,23,13,9,11,3,10,34,33,WWDWLLWWDLLWLLWLWLWWDWLL,5,1,5,13,16,WWDLWDDWLDDW,WWLWDLLLLWW
+Lazio,Fiorentina,1-0,/match/lazio/fiorentina/2012,2012,25,serie_a,20,38,0,1,0,4,12,6,6,38,29,DDLLDLWLDLWDLWLDWWWLWWWW,6,4,2,17,9,12,7,8,9,25,26,DWWWDLDDWWWDWWWDLLDWWWDL,1,5,6,6,13,DLDWDWLWDWWW,DWDDWWWWLDWD
+Bologna,Udinese,1-3,/match/bologna/udinese/2012,2012,25,serie_a,20,38,2,1,3,16,7,8,9,24,27,LWLDLWLLLWWLDWDWWDDDWDDL,4,3,5,12,14,3,12,6,6,34,22,DLWDDWDWWWWWWLWDWWWWWWLD,2,4,5,11,15,LLLLWLWDWDWD,LDDDWWLDWWW
+Palermo FC,Milan,0-4,/match/palermo/milan/2012,2012,26,serie_a,20,38,2,0,4,8,10,4,11,39,39,DWWWDWWWWWWWWDLWLWWWDWWWW,10,0,2,31,15,2,15,6,4,49,22,LDWDWWWLWLWDWLDWLLLWWDLLD,8,2,3,24,16,WWWWWWLLWWWW,LWWLLDLDLLWLL
+Juventus,Chievo,1-1,/match/juventus-fc/chievo/2012,2012,26,serie_a,20,38,1,1,1,1,13,12,0,38,16,DWLDDWDDWLDWLWDWLDLWDDDWD,8,4,0,24,8,12,9,6,10,21,30,DDWWWDDWLWWLWDWWWWDLLLWLW,3,3,7,10,21,WDWDWWWWDWDW,DWDWWLWWWDLWL
+Parma,Napoli,1-2,/match/parma-fc/napoli/2012,2012,26,serie_a,20,38,2,1,2,14,7,9,9,31,39,DWWWLWLLWWWWWDDDWWDDDLDWD,5,5,2,21,14,5,10,10,5,42,24,WLWWDLLDWWDDDWDLLDDWDDWLW,4,5,3,18,11,DWLWLWWDDWDD,LWLDWDDLDWDL
+Udinese,Atalanta,0-0,/match/udinese/atalanta/2012,2012,26,serie_a,20,38,1,0,0,3,13,6,6,37,23,DLWDDWDWWWWWWLWDWWWWWWLDL,10,2,1,23,7,6,9,10,6,30,28,WDWLWWDLDWWDDDDDLWLLWWDDW,3,5,4,14,18,DWWWWWWWWWWLD,DLWLWDDDWLWD
+Roma,Lazio,1-2,/match/roma/lazio/2012,2012,26,serie_a,20,38,2,1,2,7,11,5,9,38,31,LLDDLWWWWLLWWWDLWDWDWWWWW,7,3,2,24,11,4,13,6,6,39,29,DDLLDLWLDLWDLWLDWWWLWWWWW,6,2,4,21,20,LDWWLWDWWDWW,DLLLLDLWWLWW
+Lecce,Genoa,2-2,/match/lecce/genoa/2012,2012,26,serie_a,20,38,1,2,2,18,6,6,13,28,40,WLLLWLDLWDLWLWLDLLDWWDDWL,2,3,7,14,19,11,9,4,12,33,46,WDLWWWDDWWLWWLLWWWWWWWWLD,2,1,9,12,30,LLLLDLLLDWDW,WLWWDWWLWWWW
+Fiorentina,Cesena,2-0,/match/fiorentina/ac-cesena/2012,2012,26,serie_a,20,38,0,2,0,15,7,8,10,25,27,DWWWDLDDWWWDWWWDLLDWWWDLW,6,3,3,19,13,20,4,5,16,16,38,WLWLWDDWDWLLWWLLWWWLDDWLW,2,1,10,7,25,WWLDWDWDLWWL,WWWWWLWLWWDWW
+Siena,Cagliari,3-0,/match/siena/cagliari/2012,2012,26,serie_a,20,38,0,3,0,16,6,8,11,27,28,DDLDWWDWDWWDLWLWWWDWLDWWW,6,3,4,21,10,13,7,10,8,23,26,LLWWDLDDDLWWDLDWWDDWWDWDL,3,4,5,10,14,DLWWWDLLWDLWW,LWLDWWLWDWDD
+Bologna,Novara,1-0,/match/bologna/novara-calcio/2012,2012,26,serie_a,20,38,0,1,0,17,7,8,10,25,30,LWLDLWLLLWWLDWDWWDDDWDDLL,4,3,6,13,17,19,3,8,14,21,45,DDWWWDLWDDLWWWDWLWLWLDLDW,1,2,9,8,24,LLLLWLWDWDWDL,DWWWDWWWWWLW
+Inter,Catania,2-2,/match/internazionale/catania/2012,2012,26,serie_a,20,38,1,2,2,10,11,3,11,34,34,WWDWLLWWDLLWLLWLWLWWDWLLW,6,2,5,21,17,9,8,10,7,32,33,DDWWDDWDDWWLLLDWWDWDLDWWW,2,6,5,14,24,WDLWLWLWWWDLL,DWDDDWLDWWLDW
+Napoli,Cagliari,6-3,/match/napoli/cagliari/2012,2012,27,serie_a,20,38,0,6,3,5,11,10,5,44,25,WLWWDLLDWWDDDWDLLDDWDDWLWL,6,5,2,24,13,15,7,10,9,23,29,LLWWDLDDDLWWDLDWWDDWWDWDLW,3,4,6,10,17,WWDLWDDWLDDWW,LWLDWWLWDWDDW
+Chievo,Inter,0-2,/match/chievo/internazionale/2012,2012,27,serie_a,20,38,2,0,2,13,9,7,10,22,31,DDWWWDDWLWWLWDWWWWDLLLWLWD,6,3,3,11,9,11,11,4,11,36,36,WWDWLLWWDLLWLLWLWLWWDWLLWD,5,1,6,13,17,DWWDLWDWWLLW,WWLWDLLLLWWW
+Palermo FC,Roma,0-1,/match/palermo/roma/2012,2012,27,serie_a,20,38,2,0,1,8,10,4,12,39,43,DWWWDWWWWWWWWDLWLWWWDWWWWL,10,0,3,31,19,7,11,5,10,39,33,LLDDLWWWWLLWWWDLWDWDWWWWWL,4,2,7,14,20,WWWWWWLLWWWWL,LDLWWLWWLDWWW
+Milan,Lecce,2-0,/match/milan/lecce/2012,2012,27,serie_a,20,38,0,2,0,3,16,6,4,53,22,LDWDWWWLWLWDWLDWLLLWWDLLDL,7,4,1,25,6,18,6,7,13,30,42,WLLLWLDLWDLWLWLDLLDWWDDWLD,4,3,6,14,21,DDWWWWWWLWDD,WLWDWLWWDLWDL
+Catania,Fiorentina,1-0,/match/catania/fiorentina/2012,2012,27,serie_a,20,38,0,1,0,9,8,11,7,34,35,DDWWDDWDDWWLLLDWWDWDLDWWWD,6,4,2,18,9,10,8,8,10,27,27,DWWWDLDDWWWDWWWDLLDWWWDLWW,1,5,7,6,14,DWDWWLLWDDWW,DWDDWWWWLDWDW
+Genoa,Juventus,0-0,/match/genoa/juventus-fc/2012,2012,27,serie_a,20,38,1,0,0,12,9,5,12,35,48,WDLWWWDDWWLWWLLWWWWWWWWLDD,7,3,3,21,16,1,13,13,0,39,17,DWLDDWDDWLDWLWDWLDLWDDDWDD,5,8,0,14,8,DWDWLWLWWWWLD,DLDDLDLDLLDDD
+Cesena,Siena,0-2,/match/ac-cesena/siena/2012,2012,27,serie_a,20,38,2,0,2,20,4,5,17,16,40,WLWLWDDWDWLLWWLLWWWLDDWLWW,2,4,6,9,13,14,7,8,11,30,28,DDLDWWDWDWWDLWLWWWDWLDWWWW,0,5,7,6,18,LLDDDLWLWLDL,DDWDDWWWWWDW
+Atalanta,Parma,1-1,/match/atalanta/parma-fc/2012,2012,27,serie_a,20,38,1,1,1,6,9,11,6,30,28,WDWLWWDLDWWDDDDDLWLLWWDDWD,6,5,2,16,10,16,7,9,10,32,41,DWWWLWLLWWWWWDDDWWDDDLDWDL,2,4,7,10,25,WWWDDWDDLLWDW,WWLWWWDWDDLWD
+Lazio,Bologna,1-3,/match/lazio/bologna/2012,2012,27,serie_a,20,38,2,1,3,4,14,6,6,41,30,DDLLDLWLDLWDLWLDWWWLWWWWWL,7,4,2,18,9,17,8,8,10,26,30,LWLDLWLLLWWLDWDWWDDDWDDLLW,3,5,4,12,13,DLDWDWLWDWWWW,WDWLLWDWDDDL
+Novara,Udinese,1-0,/match/novara-calcio/udinese/2012,2012,27,serie_a,20,38,0,1,0,19,3,8,15,21,46,DDWWWDLWDDLWWWDWLWLWLDLDWW,2,6,5,13,21,2,13,7,6,37,23,DLWDDWDWWWWWWLWDWWWWWWLDLD,3,4,5,14,16,DWDLDLWDLLLDD,LDDDWWLDWWWL
+Parma,Milan,0-2,/match/parma-fc/milan/2012,2012,28,serie_a,20,38,2,0,2,15,7,10,10,33,42,DWWWLWLLWWWWWDDDWWDDDLDWDLD,5,5,3,22,16,2,17,6,4,55,22,LDWDWWWLWLWDWLDWLLLWWDLLDLW,9,2,3,28,16,DWLWLWWDDWDDL,LWWLLDLDLLWLLL
+Fiorentina,Juventus,0-5,/match/fiorentina/juventus-fc/2012,2012,28,serie_a,20,38,2,0,5,12,8,8,11,27,28,DWWWDLDDWWWDWWWDLLDWWWDLWWW,7,3,3,21,13,1,13,14,0,39,17,DWLDDWDDWLDWLWDWLDLWDDDWDDD,5,9,0,14,8,WWLDWDWDLWWLW,DLDDLDLDLLDDDD
+Cagliari,Cesena,3-0,/match/cagliari/ac-cesena/2012,2012,28,serie_a,20,38,0,3,0,17,7,10,10,26,35,LLWWDLDDDLWWDLDWWDDWWDWDLWW,4,6,3,13,12,20,4,5,18,16,42,WLWLWDDWDWLLWWLLWWWLDDWLWWL,2,1,11,7,27,LWDDDLDDWDWWL,WWWWWLWLWWDWWW
+Inter,Atalanta,0-0,/match/internazionale/atalanta/2012,2012,28,serie_a,20,38,1,0,0,10,12,4,11,38,36,WWDWLLWWDLLWLLWLWLWWDWLLWDL,6,3,5,23,19,6,9,12,6,31,29,WDWLWWDLDWWDDDDDLWLLWWDDWDD,3,6,4,14,18,WDLWLWLWWWDLLD,DLWLWDDDWLWDD
+Siena,Novara,0-2,/match/siena/novara-calcio/2012,2012,28,serie_a,20,38,2,0,2,13,8,8,11,32,28,DDLDWWDWDWWDLWLWWWDWLDWWWWL,7,3,4,24,10,18,4,8,15,22,46,DDWWWDLWDDLWWWDWLWLWLDLDWWW,1,2,10,8,25,DLWWWDLLWDLWWW,DWWWDWWWWWLWW
+Catania,Lazio,1-0,/match/catania/lazio/2012,2012,28,serie_a,20,38,0,1,0,7,9,11,7,35,35,DDWWDDWDDWWLLLDWWDWDLDWWWDW,7,4,2,19,9,5,14,6,7,42,33,DDLLDLWLDLWDLWLDWWWLWWWWWLL,7,2,4,23,21,DWDWWLLWDDWWW,DLLLLDLWWLWWL
+Bologna,Chievo,2-2,/match/bologna/chievo/2012,2012,28,serie_a,20,38,1,2,2,16,9,8,10,29,31,LWLDLWLLLWWLDWDWWDDDWDDLLWL,5,3,6,14,17,14,9,7,11,22,33,DDWWWDDWLWWLWDWWWWDLLLWLWDL,3,4,7,11,22,LLLLWLWDWDWDLW,DWDWWLWWWDLWLD
+Lecce,Palermo FC,1-1,/match/lecce/palermo/2012,2012,28,serie_a,20,38,1,1,1,19,6,7,14,30,44,WLLLWLDLWDLWLWLDLLDWWDDWLDW,2,4,7,16,21,9,10,4,13,39,44,DWWWDWWWWWWWWDLWLWWWDWWWWLL,0,4,9,8,24,LLLLDLLLDWDWD,DWDWWWWDWWDWW
+Udinese,Napoli,2-2,/match/udinese/napoli/2012,2012,28,serie_a,20,38,1,2,2,3,13,7,7,37,24,DLWDDWDWWWWWWLWDWWWWWWLDLDW,10,3,1,23,7,4,12,10,5,50,28,WLWWDLLDWWDDDWDLLDDWDDWLWLW,5,5,3,20,12,DWWWWWWWWWWLDD,LWLDWDDLDWDLL
+Roma,Genoa,1-0,/match/roma/genoa/2012,2012,28,serie_a,20,38,0,1,0,8,12,5,10,40,33,LLDDLWWWWLLWWWDLWDWDWWWWWLL,7,3,3,25,13,11,9,6,12,35,48,WDLWWWDDWWLWWLLWWWWWWWWLDDD,2,2,9,14,32,LDWWLWDWWDWWL,WLWWDWWLWWWWD
+Milan,Roma,2-1,/match/milan/roma/2012,2012,29,serie_a,20,38,0,2,1,2,18,6,4,57,22,LDWDWWWLWLWDWLDWLLLWWDLLDLWL,8,4,1,27,6,7,13,5,10,41,33,LLDDLWWWWLLWWWDLWDWDWWWWWLLW,5,2,7,15,20,DDWWWWWWLWDDW,LDLWWLWWLDWWWL
+Palermo FC,Udinese,1-1,/match/palermo/udinese/2012,2012,29,serie_a,20,38,1,1,1,9,10,5,13,40,45,DWWWDWWWWWWWWDLWLWWWDWWWWLLD,10,0,4,31,20,3,13,8,7,39,26,DLWDDWDWWWWWWLWDWWWWWWLDLDWD,3,4,6,14,17,WWWWWWLLWWWWLL,LDDDWWLDWWWLW
+Atalanta,Bologna,2-0,/match/atalanta/bologna/2012,2012,29,serie_a,20,38,0,2,0,8,9,13,6,31,29,WDWLWWDLDWWDDDDDLWLLWWDDWDDD,6,6,2,17,11,15,9,9,10,31,33,LWLDLWLLLWWLDWDWWDDDWDDLLWLD,4,5,4,15,14,WWWDDWDDLLWDWD,WDWLLWDWDDDLL
+Genoa,Fiorentina,2-2,/match/genoa/fiorentina/2012,2012,29,serie_a,20,38,1,2,2,12,9,6,13,35,49,WDLWWWDDWWLWWLLWWWWWWWWLDDDW,7,4,3,21,16,16,8,8,12,27,33,DWWWDLDDWWWDWWWDLLDWWWDLWWWL,1,5,8,6,15,DWDWLWLWWWWLDD,DWDDWWWWLDWDWW
+Napoli,Catania,2-2,/match/napoli/catania/2012,2012,29,serie_a,20,38,1,2,2,4,12,11,5,52,30,WLWWDLLDWWDDDWDLLDDWDDWLWLWD,7,5,2,30,16,6,10,11,7,36,35,DDWWDDWDDWWLLLDWWDWDLDWWWDWW,2,7,5,16,26,WWDLWDDWLDDWWW,DWDDDWLDWWLDWD
+Cesena,Parma,2-2,/match/ac-cesena/parma-fc/2012,2012,29,serie_a,20,38,1,2,2,20,4,5,19,16,45,WLWLWDDWDWLLWWLLWWWLDDWLWWLW,2,4,7,9,15,17,7,10,11,33,44,DWWWLWLLWWWWWDDDWWDDDLDWDLDL,2,5,7,11,26,LLDDDLWLWLDLL,WWLWWWDWDDLWDD
+Lazio,Cagliari,1-0,/match/lazio/cagliari/2012,2012,29,serie_a,20,38,0,1,0,5,14,6,8,42,34,DDLLDLWLDLWDLWLDWWWLWWWWWLLW,7,4,3,19,12,11,8,10,10,29,35,LLWWDLDDDLWWDLDWWDDWWDWDLWWW,3,4,7,13,23,DLDWDWLWDWWWWL,LWLDWWLWDWDDWW
+Chievo,Siena,1-1,/match/chievo/siena/2012,2012,29,serie_a,20,38,1,1,1,14,9,8,11,24,35,DDWWWDDWLWWLWDWWWWDLLLWLWDLD,6,3,4,11,11,13,8,8,12,32,30,DDLDWWDWDWWDLWLWWWDWLDWWWWLL,1,5,7,8,18,DWWDLWDWWLLWL,DDWDDWWWWWDWL
+Novara,Lecce,0-0,/match/novara-calcio/lecce/2012,2012,29,serie_a,20,38,1,0,0,18,5,8,15,24,46,DDWWWDLWDDLWWWDWLWLWLDLDWWWL,3,6,5,14,21,19,6,8,14,31,45,WLLLWLDLWDLWLWLDLLDWWDDWLDWD,4,3,7,14,23,DWDLDLWDLLLDDW,WLWDWLWWDLWDLW
+Juventus,Inter,2-0,/match/juventus-fc/internazionale/2012,2012,29,serie_a,20,38,0,2,0,1,14,14,0,44,17,DWLDDWDDWLDWLWDWLDLWDDDWDDDL,8,5,0,25,9,10,12,5,11,38,36,WWDWLLWWDLLWLLWLWLWWDWLLWDLD,6,1,6,15,17,WDWDWWWWDWDWD,WWLWDLLLLWWWL
+Catania,Milan,1-1,/match/catania/milan/2012,2012,30,serie_a,20,38,1,1,1,7,10,12,7,38,37,DDWWDDWDDWWLLLDWWDWDLDWWWDWWD,8,4,2,20,9,2,19,6,4,59,23,LDWDWWWLWLWDWLDWLLLWWDLLDLWLW,10,2,3,30,16,DWDWWLLWDDWWWW,LWWLLDLDLLWLLLL
+Parma,Lazio,3-1,/match/parma-fc/lazio/2012,2012,30,serie_a,20,38,0,3,1,17,7,11,11,35,46,DWWWLWLLWWWWWDDDWWDDDLDWDLDLD,5,5,4,22,18,5,15,6,8,43,34,DDLLDLWLDLWDLWLDWWWLWWWWWLLWW,7,2,5,23,22,DWLWLWWDDWDDLL,DLLLLDLWWLWWLW
+Roma,Novara,5-2,/match/roma/novara-calcio/2012,2012,30,serie_a,20,38,0,5,2,8,13,5,11,42,35,LLDDLWWWWLLWWWDLWDWDWWWWWLLWW,8,3,3,26,13,18,5,9,15,24,46,DDWWWDLWDDLWWWDWLWLWLDLDWWWLD,2,2,10,10,25,LDWWLWDWWDWWLW,DWWWDWWWWWLWWL
+Bologna,Palermo FC,1-3,/match/bologna/palermo/2012,2012,30,serie_a,20,38,2,1,3,16,9,9,11,31,35,LWLDLWLLLWWLDWDWWDDDWDDLLWLDW,5,4,6,16,19,9,10,6,13,41,46,DWWWDWWWWWWWWDLWLWWWDWWWWLLDD,0,5,9,9,25,LLLLWLWDWDWDLWD,DWDWWWWDWWDWWD
+Cagliari,Atalanta,2-0,/match/cagliari/atalanta/2012,2012,30,serie_a,20,38,0,2,0,14,8,10,11,29,36,LLWWDLDDDLWWDLDWWDDWWDWDLWWWW,5,6,3,16,12,6,10,13,6,33,29,WDWLWWDLDWWDDDDDLWLLWWDDWDDDW,3,7,4,14,18,LWDDDLDDWDWWLW,DLWLWDDDWLWDDD
+Inter,Genoa,5-4,/match/internazionale/genoa/2012,2012,30,serie_a,20,38,0,5,4,10,12,5,12,38,38,WWDWLLWWDLLWLLWLWLWWDWLLWDLDW,6,4,5,23,19,11,9,7,13,37,51,WDLWWWDDWWLWWLLWWWWWWWWLDDDWD,2,2,10,14,33,WDLWLWLWWWDLLDD,WLWWDWWLWWWWDW
+Fiorentina,Chievo,1-2,/match/fiorentina/chievo/2012,2012,30,serie_a,20,38,2,1,2,13,8,9,12,29,35,DWWWDLDDWWWDWWWDLLDWWWDLWWWLD,7,3,4,21,18,12,9,9,11,25,36,DDWWWDDWLWWLWDWWWWDLLLWLWDLDD,3,5,7,13,24,WWLDWDWDLWWLWL,DWDWWLWWWDLWLDD
+Lecce,Cesena,0-0,/match/lecce/ac-cesena/2012,2012,30,serie_a,20,38,1,0,0,19,6,9,14,31,45,WLLLWLDLWDLWLWLDLLDWWDDWLDWDD,2,5,7,17,22,20,4,6,19,18,47,WLWLWDDWDWLLWWLLWWWLDDWLWWLWD,2,1,12,7,30,LLLLDLLLDWDWDD,WWWWWLWLWWDWWWW
+Siena,Udinese,1-0,/match/siena/udinese/2012,2012,30,serie_a,20,38,0,1,0,15,8,9,12,33,31,DDLDWWDWDWWDLWLWWWDWLDWWWWLLD,7,3,5,24,12,3,13,9,7,40,27,DLWDDWDWWWWWWLWDWWWWWWLDLDWDD,3,5,6,15,18,DLWWWDLLWDLWWWL,LDDDWWLDWWWLWD
+Juventus,Napoli,3-0,/match/juventus-fc/napoli/2012,2012,30,serie_a,20,38,0,3,0,1,15,14,0,46,17,DWLDDWDDWLDWLWDWLDLWDDDWDDDLW,9,5,0,27,9,4,12,12,5,54,32,WLWWDLLDWWDDDWDLLDDWDDWLWLWDD,5,6,3,22,14,WDWDWWWWDWDWDW,LWLDWDDLDWDLLD
+Cesena,Bologna,0-0,/match/ac-cesena/bologna/2012,2012,31,serie_a,20,38,1,0,0,20,4,7,19,18,47,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDD,2,5,7,11,17,17,9,9,12,32,38,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWL,4,5,5,15,16,LLDDDLWLWLDLLD,WDWLLWDWDDDLLW
+Lecce,Roma,4-2,/match/lecce/roma/2012,2012,31,serie_a,20,38,0,4,2,19,6,10,14,31,45,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDD,2,6,7,17,22,7,14,5,11,47,37,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWW,5,2,8,16,22,LLLLDLLLDWDWDDD,LDLWWLWWLDWWWLW
+Udinese,Parma,3-1,/match/udinese/parma-fc/2012,2012,31,serie_a,20,38,0,3,1,3,13,9,8,40,28,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDW,10,4,1,25,9,14,8,11,11,38,47,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDW,2,6,7,13,28,DWWWWWWWWWWLDDD,WWLWWWDWDDLWDDD
+Atalanta,Siena,1-2,/match/atalanta/siena/2012,2012,31,serie_a,20,38,2,1,2,8,10,13,7,33,31,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWW,7,6,2,19,11,11,9,9,12,34,31,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDW,1,6,7,9,19,WWWDDWDDLLWDWDW,DDWDDWWWWWDWLD
+Cagliari,Inter,2-2,/match/cagliari/internazionale/2012,2012,31,serie_a,20,38,1,2,2,12,9,10,11,31,36,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWW,6,6,3,18,12,10,13,5,12,43,42,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWW,6,1,7,15,19,LWDDDLDDWDWWLWW,WWLWDLLLLWWWLW
+Novara,Genoa,1-1,/match/novara-calcio/genoa/2012,2012,31,serie_a,20,38,1,1,1,18,5,9,16,26,51,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDW,3,7,5,14,21,15,9,7,14,41,56,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDW,2,2,11,18,38,DWDLDLWDLLLDDWD,WLWWDWWLWWWWDWW
+Milan,Fiorentina,1-2,/match/milan/fiorentina/2012,2012,31,serie_a,20,38,2,1,2,2,19,7,4,60,24,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWD,9,4,1,29,7,16,8,9,13,30,37,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDL,1,6,8,8,17,DDWWWWWWLWDDWW,DWDDWWWWLDWDWWD
+Chievo,Catania,3-2,/match/chievo/catania/2012,2012,31,serie_a,20,38,0,3,2,13,10,9,11,27,37,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDL,6,4,4,12,12,6,10,13,7,39,38,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDD,2,8,5,18,28,DWWDLWDWWLLWLD,DWDDDWLDWWLDWDD
+Palermo FC,Juventus,0-2,/match/palermo/juventus-fc/2012,2012,31,serie_a,20,38,2,0,2,9,11,6,13,44,47,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDL,10,1,4,32,21,1,16,14,0,49,17,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWW,6,9,0,19,8,WWWWWWLLWWWWLLD,DLDDLDLDLLDDDDL
+Lazio,Napoli,3-1,/match/lazio/napoli/2012,2012,31,serie_a,20,38,0,3,1,5,15,6,9,44,37,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWW,8,4,3,20,12,4,12,12,6,54,35,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDW,5,6,4,22,17,DLDWDWLWDWWWWLW,LWLDWDDLDWDLLDW
+Chievo,Milan,0-1,/match/chievo/milan/2012,2012,32,serie_a,20,38,2,0,1,10,11,9,11,30,39,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDLW,7,4,4,15,14,2,19,7,5,61,26,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWDL,10,3,3,31,17,DWWDLWDWWLLWLDW,LWWLLDLDLLWLLLLD
+Inter,Siena,2-1,/match/internazionale/siena/2012,2012,32,serie_a,20,38,0,2,1,9,13,6,12,45,44,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWWD,7,4,5,28,23,12,10,9,12,36,32,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDWL,2,6,7,11,20,WDLWLWLWWWDLLDDW,DDWDDWWWWWDWLDL
+Fiorentina,Palermo FC,0-0,/match/fiorentina/palermo/2012,2012,32,serie_a,20,38,1,0,0,16,9,9,13,32,38,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDLL,7,3,5,22,20,11,11,6,14,44,49,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDLL,1,5,9,12,26,WWLDWDWDLWWLWLL,DWDWWWWDWWDWWDL
+Parma,Novara,2-0,/match/parma-fc/novara-calcio/2012,2012,32,serie_a,20,38,0,2,0,15,8,11,12,39,50,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDWW,6,5,4,25,19,19,5,10,16,27,52,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDWD,2,2,11,12,30,DWLWLWWDDWDDLLW,DWWWDWWWWWLWWLW
+Napoli,Atalanta,1-3,/match/napoli/atalanta/2012,2012,32,serie_a,20,38,2,1,3,5,12,12,7,55,38,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDWW,7,6,2,32,18,8,10,13,8,34,33,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWWL,3,7,5,14,20,WWDLWDDWLDDWWWD,DLWLWDDDWLWDDDW
+Catania,Lecce,1-2,/match/catania/lecce/2012,2012,32,serie_a,20,38,2,1,2,6,10,13,8,41,41,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDDW,8,5,2,21,10,18,7,10,14,35,47,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDDW,4,4,7,14,23,DWDWWLLWDDWWWWD,WLWDWLWWDLWDLWD
+Juventus,Lazio,2-1,/match/juventus-fc/lazio/2012,2012,32,serie_a,20,38,0,2,1,1,17,14,0,51,17,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWWL,10,5,0,30,9,4,16,6,9,47,38,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWWW,7,2,6,24,25,WDWDWWWWDWDWDWW,DLLLLDLWWLWWLWW
+Genoa,Cesena,1-1,/match/genoa/ac-cesena/2012,2012,32,serie_a,20,38,1,1,1,14,9,8,14,42,57,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDWD,7,5,3,23,18,20,4,8,19,18,47,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDDD,2,2,12,7,30,DWDWLWLWWWWLDDD,WWWWWLWLWWDWWWWD
+Roma,Udinese,3-1,/match/roma/udinese/2012,2012,32,serie_a,20,38,0,3,1,7,14,5,12,49,41,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWWW,9,3,3,31,15,3,14,9,8,43,29,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDWW,3,5,7,15,19,LDWWLWDWWDWWLWW,LDDDWWLDWWWLWDW
+Bologna,Cagliari,1-0,/match/bologna/cagliari/2012,2012,32,serie_a,20,38,0,1,0,17,9,10,12,32,38,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWLD,5,4,7,17,22,13,9,11,11,33,38,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWWD,3,4,8,13,24,LLLLWLWDWDWDLWDL,LWLDWWLWDWDDWWW
+Cagliari,Catania,3-0,/match/cagliari/catania/2012,2012,33,serie_a,20,38,0,3,0,13,9,11,12,33,39,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWWDW,6,7,3,20,14,8,10,13,9,42,43,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDDWL,2,8,6,20,31,LWDDDLDDWDWWLWWD,DWDDDWLDWWLDWDDW
+Atalanta,Chievo,1-0,/match/atalanta/chievo/2012,2012,33,serie_a,20,38,0,1,0,7,11,13,8,37,34,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWWLL,7,6,3,20,13,11,11,9,12,30,40,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDLWL,4,5,7,15,25,WWWDDWDDLLWDWDWL,DWDWWLWWWDLWLDDL
+Novara,Lazio,2-1,/match/novara-calcio/lazio/2012,2012,33,serie_a,20,38,0,2,1,19,5,10,17,27,54,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDWDW,3,8,5,15,22,4,16,6,10,48,40,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWWWW,7,2,7,25,27,DWDLDLWDLLLDDWDD,DLLLLDLWWLWWLWWW
+Siena,Bologna,2-0,/match/siena/bologna/2012,2012,33,serie_a,20,38,0,2,0,12,10,9,13,37,34,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDWLW,8,3,5,25,12,17,10,10,12,33,38,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWLDW,4,6,5,15,16,DLWWWDLLWDLWWWLW,WDWLLWDWDDDLLWD
+Lecce,Napoli,0-2,/match/lecce/napoli/2012,2012,33,serie_a,20,38,2,0,2,18,8,10,14,37,48,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDDWL,3,6,7,21,24,6,12,12,8,56,41,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDWWL,5,6,5,23,20,LLLLDLLLDWDWDDDW,LWLDWDDLDWDLLDWW
+Udinese,Inter,1-3,/match/udinese/internazionale/2012,2012,33,serie_a,20,38,2,1,3,3,14,9,9,44,32,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDWWW,11,4,1,28,10,9,14,6,12,47,45,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWWDW,6,2,7,17,21,DWWWWWWWWWWLDDDW,WWLWDLLLLWWWLWD
+Roma,Fiorentina,1-2,/match/roma/fiorentina/2012,2012,33,serie_a,20,38,2,1,2,5,15,5,12,52,42,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWWWW,10,3,3,34,16,16,9,10,13,32,38,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDLLD,2,6,8,10,18,LDWWLWDWWDWWLWWW,DWDDWWWWLDWDWWDL
+Palermo FC,Parma,1-2,/match/palermo/parma-fc/2012,2012,33,serie_a,20,38,2,1,2,10,11,7,14,44,49,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDLLD,10,1,5,32,23,14,9,11,12,41,50,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDWWW,2,6,8,14,31,WWWWWWLLWWWWLLDL,WWLWWWDWDDLWDDDW
+Cesena,Juventus,0-1,/match/ac-cesena/juventus-fc/2012,2012,33,serie_a,20,38,2,0,1,20,4,9,19,19,48,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDDDD,2,6,7,11,17,1,18,14,0,53,18,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWWLW,7,9,0,21,8,LLDDDLWLWLDLLDD,DLDDLDLDLLDDDDLL
+Milan,Genoa,1-0,/match/milan/genoa/2012,2012,33,serie_a,20,38,0,1,0,2,20,7,5,62,26,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWDLL,9,4,2,30,9,15,9,9,14,43,58,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDWDD,2,3,11,19,39,DDWWWWWWLWDDWWL,WLWWDWWLWWWWDWWD
+Chievo,Udinese,0-0,/match/chievo/udinese/2012,2012,34,serie_a,20,38,1,0,0,14,11,9,13,30,41,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDLWLW,7,4,5,15,15,3,14,9,10,45,35,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDWWWL,3,5,8,16,22,DWWDLWDWWLLWLDWL,LDDDWWLDWWWLWDWW
+Parma,Cagliari,3-0,/match/parma-fc/cagliari/2012,2012,34,serie_a,20,38,0,3,0,12,10,11,12,43,51,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDWWWL,7,5,4,27,19,11,10,11,12,36,39,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWWDWW,3,4,9,13,25,DWLWLWWDDWDDLLWW,LWLDWWLWDWDDWWWW
+Napoli,Novara,2-0,/match/napoli/novara-calcio/2012,2012,34,serie_a,20,38,0,2,0,7,13,12,8,58,41,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDWWLL,7,6,3,33,21,19,6,10,17,29,55,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDWDWW,2,2,12,12,32,WWDLWDDWLDDWWWDL,DWWWDWWWWWLWWLWW
+Catania,Atalanta,2-0,/match/catania/atalanta/2012,2012,34,serie_a,20,38,0,2,0,9,10,13,10,42,46,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDDWLW,8,5,3,22,12,5,12,13,8,38,34,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWWLLW,4,7,5,17,21,DWDWWLLWDDWWWWDL,DLWLWDDDWLWDDDWL
+Fiorentina,Inter,0-0,/match/fiorentina/internazionale/2012,2012,34,serie_a,20,38,1,0,0,15,10,10,13,34,39,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDLLDL,7,4,5,22,20,8,15,6,12,50,46,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWWDWL,7,2,7,20,22,WWLDWDWDLWWLWLLD,WWLWDLLLLWWWLWDL
+Lazio,Lecce,1-1,/match/lazio/lecce/2012,2012,34,serie_a,20,38,1,1,1,4,16,6,11,49,42,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWWWWW,9,4,3,23,13,18,8,10,15,37,50,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDDWLL,5,4,7,16,24,DLDWDWLWDWWWWLWW,WLWDWLWWDLWDLWDL
+Milan,Bologna,1-1,/match/milan/bologna/2012,2012,34,serie_a,20,38,1,1,1,2,21,7,5,63,26,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWDLLW,10,4,2,31,9,17,10,10,13,33,40,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWLDWW,4,6,6,15,18,DDWWWWWWLWDDWWLW,WDWLLWDWDDDLLWDW
+Cesena,Palermo FC,2-2,/match/ac-cesena/palermo/2012,2012,34,serie_a,20,38,1,2,2,20,4,9,20,19,49,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDDDDL,2,6,8,11,18,13,11,7,15,45,51,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDLLDL,1,6,9,12,26,LLDDDLWLWLDLLDDL,DWDWWWWDWWDWWDLD
+Genoa,Siena,1-4,/match/genoa/siena/2012,2012,34,serie_a,20,38,2,1,4,16,9,9,15,43,59,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDWDDW,7,6,3,24,19,10,11,9,13,39,34,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDWLWW,2,6,8,12,22,DWDWLWLWWWWLDDDD,DDWDDWWWWWDWLDLW
+Juventus,Roma,4-0,/match/juventus-fc/roma/2012,2012,34,serie_a,20,38,0,4,0,1,19,14,0,54,18,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWWLWL,11,5,0,32,10,6,15,5,13,53,44,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWWWWL,5,2,9,18,26,WDWDWWWWDWDWDWWW,LDLWWLWWLDWWWLWW
+Palermo FC,Catania,1-1,/match/palermo/catania/2012,2012,35,serie_a,20,38,1,1,1,13,11,8,15,47,53,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDLLDLD,10,1,6,33,25,8,11,13,10,44,46,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDDWLWW,2,8,7,20,34,WWWWWWLLWWWWLLDLL,DWDDDWLDWWLDWDDWW
+Cagliari,Chievo,0-0,/match/cagliari/chievo/2012,2012,35,serie_a,20,38,1,0,0,12,10,11,13,36,42,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWWDWWW,7,7,3,23,14,14,11,10,13,30,41,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDLWLWD,4,5,8,15,26,LWDDDLDDWDWWLWWDW,DWDWWLWWWDLWLDDLW
+Roma,Napoli,2-2,/match/roma/napoli/2012,2012,35,serie_a,20,38,1,2,2,7,15,5,14,53,48,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWWWWLW,10,3,4,35,18,5,14,12,8,60,41,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDWWLLW,6,6,5,25,20,LDWWLWDWWDWWLWWWL,LWLDWDDLDWDLLDWWL
+Bologna,Genoa,3-2,/match/bologna/genoa/2012,2012,35,serie_a,20,38,0,3,2,17,10,11,13,34,41,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWLDWWD,6,4,7,18,22,16,9,9,16,44,63,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDWDDWL,2,3,12,19,40,LLLLWLWDWDWDLWDLW,WLWWDWWLWWWWDWWDW
+Siena,Milan,1-4,/match/siena/milan/2012,2012,35,serie_a,20,38,2,1,4,11,12,9,13,43,35,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDWLWWL,9,3,5,27,12,2,21,8,5,64,27,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWDLLWD,11,3,3,32,17,DLWWWDLLWDLWWWLWW,LWWLLDLDLLWLLLLDL
+Novara,Juventus,0-4,/match/novara-calcio/juventus-fc/2012,2012,35,serie_a,20,38,2,0,4,19,6,10,18,29,57,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDWDWWW,4,8,5,17,23,1,20,14,0,58,18,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWWLWLW,8,9,0,22,8,DWDLDLWDLLLDDWDDW,DLDDLDLDLLDDDDLLL
+Atalanta,Fiorentina,2-0,/match/atalanta/fiorentina/2012,2012,35,serie_a,20,38,0,2,0,6,12,13,9,38,36,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWWLLWW,8,6,3,21,13,15,10,11,13,34,39,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDLLDLD,3,6,8,12,19,WWWDDWDDLLWDWDWLW,DWDDWWWWLDWDWWDLL
+Inter,Cesena,2-1,/match/internazionale/ac-cesena/2012,2012,35,serie_a,20,38,0,2,1,9,15,7,12,50,46,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWWDWLD,8,4,5,30,24,20,4,10,20,21,51,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDDDDLD,2,3,12,8,31,WDLWLWLWWWDLLDDWW,WWWWWLWLWWDWWWWDD
+Lecce,Parma,1-2,/match/lecce/parma-fc/2012,2012,35,serie_a,20,38,2,1,2,18,8,11,15,38,51,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDDWLLD,3,6,8,21,26,10,11,11,12,46,51,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDWWWLW,3,6,8,16,32,LLLLDLLLDWDWDDDWL,WWLWWWDWDDLWDDDWL
+Udinese,Lazio,2-0,/match/udinese/lazio/2012,2012,35,serie_a,20,38,0,2,0,3,14,10,10,45,35,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDWWWLD,11,4,2,29,13,4,16,7,11,50,43,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWWWWWD,7,2,8,26,29,DWWWWWWWWWWLDDDWL,DLLLLDLWWLWWLWWWW
+Chievo,Roma,0-0,/match/chievo/roma/2012,2012,36,serie_a,20,38,1,0,0,14,11,11,13,30,41,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDLWLWDD,7,5,5,15,15,8,15,6,14,55,50,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWWWWLWD,5,2,10,18,30,DWWDLWDWWLLWLDWLD,LDLWWLWWLDWWWLWWW
+Napoli,Palermo FC,2-0,/match/napoli/palermo/2012,2012,36,serie_a,20,38,0,2,0,4,14,13,8,62,43,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDWWLLWD,8,6,3,35,21,13,11,9,15,48,54,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDLLDLDD,1,7,9,14,28,WWDLWDDWLDDWWWDLW,DWDWWWWDWWDWWDLDD
+Milan,Atalanta,2-0,/match/milan/atalanta/2012,2012,36,serie_a,20,38,0,2,0,2,22,8,5,68,28,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWDLLWDL,10,5,2,32,10,5,13,13,9,40,36,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWWLLWWW,4,7,6,17,23,DDWWWWWWLWDDWWLWD,DLWLWDDDWLWDDDWLW
+Lazio,Siena,1-1,/match/lazio/siena/2012,2012,36,serie_a,20,38,1,1,1,6,16,7,12,50,45,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWWWWWDW,9,5,3,24,14,12,12,9,14,44,39,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDWLWWLL,3,6,8,16,23,DLDWDWLWDWWWWLWWD,DDWDDWWWWWDWLDLWL
+Fiorentina,Novara,2-2,/match/fiorentina/novara-calcio/2012,2012,36,serie_a,20,38,1,2,2,16,10,11,14,34,41,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDLLDLDW,7,5,5,22,20,19,6,10,19,29,61,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDWDWWWL,2,2,13,12,34,WWLDWDWDLWWLWLLDD,DWWWDWWWWWLWWLWWW
+Juventus,Lecce,1-1,/match/juventus-fc/lecce/2012,2012,36,serie_a,20,38,1,1,1,1,21,14,0,62,18,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWWLWLWL,12,5,0,36,10,18,8,11,16,39,53,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDDWLLDL,5,5,7,17,25,WDWDWWWWDWDWDWWWW,WLWDWLWWDLWDLWDLD
+Parma,Inter,3-1,/match/parma-fc/internazionale/2012,2012,36,serie_a,20,38,0,3,1,10,12,11,12,48,52,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDWWWLWL,8,5,4,30,19,7,16,7,12,52,47,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWWDWLDW,7,3,7,20,22,DWLWLWWDDWDDLLWWW,WWLWDLLLLWWWLWDLD
+Genoa,Cagliari,2-1,/match/genoa/cagliari/2012,2012,36,serie_a,20,38,0,2,1,17,9,9,17,46,66,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDWDDWLW,7,6,4,25,23,11,10,12,13,36,42,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWWDWWWD,3,4,10,13,28,DWDWLWLWWWWLDDDDL,LWLDWWLWDWDDWWWWW
+Catania,Bologna,0-1,/match/catania/bologna/2012,2012,36,serie_a,20,38,2,0,1,9,11,14,10,45,47,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDDWLWWD,9,5,3,24,12,15,11,11,13,37,43,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWLDWWDW,4,7,6,16,19,DWDWWLLWDDWWWWDLW,WDWLLWDWDDDLLWDWD
+Cesena,Udinese,0-1,/match/ac-cesena/udinese/2012,2012,36,serie_a,20,38,2,0,1,20,4,10,21,22,53,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDDDDLDW,2,7,8,13,20,3,15,10,10,47,35,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDWWWLDW,3,6,8,16,22,LLDDDLWLWLDLLDDLD,LDDDWWLDWWWLWDWWD
+Lecce,Fiorentina,0-1,/match/lecce/fiorentina/2012,2012,37,serie_a,20,38,2,0,1,18,8,12,16,40,54,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDDWLLDLD,3,6,9,22,28,16,10,12,14,36,43,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDLLDLDWD,3,6,9,12,21,LLLLDLLLDWDWDDDWLL,DWDDWWWWLDWDWWDLLW
+Roma,Catania,2-2,/match/roma/catania/2012,2012,37,serie_a,20,38,1,2,2,8,15,7,14,55,50,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWWWWLWDD,10,4,4,37,20,10,11,14,11,45,48,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDDWLWWDL,2,9,7,21,35,LDWWLWDWWDWWLWWWLD,DWDDDWLDWWLDWDDWWD
+Siena,Parma,0-2,/match/siena/parma-fc/2012,2012,37,serie_a,20,38,2,0,2,11,12,10,14,45,40,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDWLWWLLD,9,3,6,28,16,9,13,11,12,51,53,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDWWWLWLW,4,6,8,18,33,DLWWWDLLWDLWWWLWWL,WWLWWWDWDDLWDDDWLL
+Palermo FC,Chievo,4-4,/match/palermo/chievo/2012,2012,37,serie_a,20,38,1,4,4,14,11,9,16,48,56,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDLLDLDDW,10,2,6,34,26,12,11,12,13,30,41,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDLWLWDDD,4,6,8,15,26,WWWWWWLLWWWWLLDLLD,DWDWWLWWWDLWLDDLWD
+Udinese,Genoa,2-0,/match/udinese/genoa/2012,2012,37,serie_a,20,38,0,2,0,3,16,10,10,48,35,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDWWWLDWL,12,4,2,31,13,17,10,9,17,48,67,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDWDDWLWW,2,3,13,21,43,DWWWWWWWWWWLDDDWLW,WLWWDWWLWWWWDWWDWW
+Novara,Cesena,3-0,/match/novara-calcio/ac-cesena/2012,2012,37,serie_a,20,38,0,3,0,19,6,11,19,31,63,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDWDWWWLD,4,8,6,17,27,20,4,10,22,22,54,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDDDDLDWL,2,3,13,9,33,DWDLDLWDLLLDDWDDWL,WWWWWLWLWWDWWWWDDW
+Atalanta,Lazio,0-2,/match/atalanta/lazio/2012,2012,37,serie_a,20,38,2,0,2,6,13,13,10,40,38,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWWLLWWWW,9,6,3,23,13,5,16,8,12,51,46,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWWWWWDWD,7,2,9,26,31,WWWDDWDDLLWDWDWLWW,DLLLLDLWWLWWLWWWWW
+Bologna,Napoli,2-0,/match/bologna/napoli/2012,2012,37,serie_a,20,38,0,2,0,15,12,11,13,38,43,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWLDWWDWL,7,4,7,21,24,4,15,13,8,64,43,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDWWLLWDW,6,7,5,27,22,LLLLWLWDWDWDLWDLWW,LWLDWDDLDWDLLDWWLD
+Inter,Milan,4-2,/match/internazionale/milan/2012,2012,37,serie_a,20,38,0,4,2,7,16,7,13,53,50,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWWDWLDWW,9,4,5,32,25,2,23,8,5,70,28,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWDLLWDLW,12,3,3,36,18,WDLWLWLWWWDLLDDWWW,LWWLLDLDLLWLLLLDLL
+Cagliari,Juventus,0-2,/match/cagliari/juventus-fc/2012,2012,37,serie_a,20,38,2,0,2,13,10,12,14,37,44,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWWDWWWDW,7,8,3,23,14,1,21,15,0,63,19,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWWLWLWLD,9,9,0,26,8,LWDDDLDDWDWWLWWDWD,DLDDLDLDLLDDDDLLLL
+Juventus,Atalanta,3-1,/match/juventus-fc/atalanta/2012,2012,38,serie_a,20,38,0,3,1,1,22,15,0,65,19,DWLDDWDDWLDWLWDWLDLWDDDWDDDLWWLWLWLDL,12,6,0,37,11,7,13,13,11,40,40,WDWLWWDLDWWDDDDDLWLLWWDDWDDDWWLLWWWWL,4,7,7,17,25,WDWDWWWWDWDWDWWWWD,DLWLWDDDWLWDDDWLWW
+Milan,Novara,2-1,/match/milan/novara-calcio/2012,2012,38,serie_a,20,38,0,2,1,2,23,8,6,72,32,LDWDWWWLWLWDWLDWLLLWWDLLDLWLWDLLWDLWW,11,5,2,34,10,18,7,11,19,34,63,DDWWWDLWDDLWWWDWLWLWLDLDWWWLDWDWWWLDW,2,3,13,14,36,DDWWWWWWLWDDWWLWDW,DWWWDWWWWWLWWLWWWD
+Fiorentina,Cagliari,0-0,/match/fiorentina/cagliari/2012,2012,38,serie_a,20,38,1,0,0,16,11,12,14,37,43,DWWWDLDDWWWDWWWDLLDWWWDLWWWLDLLDLDWDL,7,6,5,24,22,15,10,12,15,37,46,LLWWDLDDDLWWDLDWWDDWWDWDLWWWWWDWWWDWL,3,4,11,14,30,WWLDWDWDLWWLWLLDDD,LWLDWWLWDWDDWWWWWW
+Parma,Bologna,1-0,/match/parma-fc/bologna/2012,2012,38,serie_a,20,38,0,1,0,9,14,11,12,53,53,DWWWLWLLWWWWWDDDWWDDDLDWDLDLDWWWLWLWL,9,5,4,33,20,11,13,11,13,40,43,LWLDLWLLLWWLDWDWWDDDWDDLLWLDWLDWWDWLW,5,7,6,17,19,DWLWLWWDDWDDLLWWWW,WDWLLWDWDDDLLWDWDL
+Cesena,Roma,2-3,/match/ac-cesena/roma/2012,2012,38,serie_a,20,38,2,2,3,20,4,10,23,22,57,WLWLWDDWDWLLWWLLWWWLDDWLWWLWDDDDLDWLW,2,7,9,13,21,8,15,8,14,57,52,LLDDLWWWWLLWWWDLWDWDWWWWWLLWWWWWLWDDD,5,3,10,18,30,LLDDDLWLWLDLLDDLDL,LDLWWLWWLDWWWLWWWD
+Lazio,Inter,3-1,/match/lazio/internazionale/2012,2012,38,serie_a,20,38,0,3,1,5,17,8,12,53,46,DDLLDLWLDLWDLWLDWWWLWWWWWLLWWWWWWDWDL,9,6,3,25,15,6,17,7,13,57,52,WWDWLLWWDLLWLLWLWLWWDWLLWDLDWWDWLDWWW,7,3,8,21,25,DLDWDWLWDWWWWLWWDD,WWLWDLLLLWWWLWDLDW
+Chievo,Lecce,1-0,/match/chievo/lecce/2012,2012,38,serie_a,20,38,0,1,0,14,11,13,13,34,45,DDWWWDDWLWWLWDWWWWDLLLWLWDLDDLWLWDDDD,7,6,5,15,15,19,8,12,17,40,55,WLLLWLDLWDLWLWLDLLDWWDDWLDWDDDWLLDLDL,5,6,7,18,26,DWWDLWDWWLLWLDWLDD,WLWDWLWWDLWDLWDLDD
+Genoa,Palermo FC,2-0,/match/genoa/palermo/2012,2012,38,serie_a,20,38,0,2,0,17,10,9,18,48,69,WDLWWWDDWWLWWLLWWWWWWWWLDDDWDWDDWLWWW,8,6,4,27,24,12,11,10,16,52,60,DWWWDWWWWWWWWDLWLWWWDWWWWLLDDLLDLDDWD,1,7,10,14,30,DWDWLWLWWWWLDDDDLW,DWDWWWWDWWDWWDLDDW
+Napoli,Siena,2-1,/match/napoli/siena/2012,2012,38,serie_a,20,38,0,2,1,4,15,13,9,64,45,WLWWDLLDWWDDDWDLLDDWDDWLWLWDDWWLLWDWW,9,6,3,37,21,13,12,10,15,45,42,DDLDWWDWDWWDLWLWWWDWLDWWWWLLDWLWWLLDL,3,7,8,17,24,WWDLWDDWLDDWWWDLWW,DDWDDWWWWWDWLDLWLD
+Catania,Udinese,0-2,/match/catania/udinese/2012,2012,38,serie_a,20,38,2,0,2,10,11,15,11,47,50,DDWWDDWDDWWLLLDWWDWDLDWWWDWWDDWLWWDLD,9,5,4,24,13,3,17,10,10,50,35,DLWDDWDWWWWWWLWDWWWWWWLDLDWDDWWWLDWLW,4,6,8,17,22,DWDWWLLWDDWWWWDLWL,LDDDWWLDWWWLWDWWDL

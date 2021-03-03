@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Girondins Bordeaux,Monaco,1-0,/match/bordeaux/monaco/1998,1998,1,ligue_1,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Toulouse,Stade Rennais,1-0,/match/toulouse-fc/stade-rennes/1998,1998,1,ligue_1,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSG,Chateauroux,2-0,/match/paris-saint-germain-fc/berrichonne-chateauroux/1998,1998,1,ligue_1,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Strasbourg,1-1,/match/montpellier-hsc/strasbourg/1998,1998,1,ligue_1,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique,Le Havre,3-1,/match/olympique-marsella/havre-ac/1998,1998,1,ligue_1,18,34,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique Lyonnais,Metz,0-1,/match/olympique-lyonnais/metz/1998,1998,1,ligue_1,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lens,Auxerre,3-0,/match/lens/auxerre/1998,1998,1,ligue_1,18,34,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Guingamp,Cannes,3-1,/match/guingamp/as-cannes/1998,1998,1,ligue_1,18,34,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nantes,Bastia,0-1,/match/nantes/bastia/1998,1998,1,ligue_1,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,PSG,2-3,/match/auxerre/paris-saint-germain-fc/1998,1998,2,ligue_1,18,34,2,2,3,11,0,0,1,0,3,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Stade Rennais,Olympique Lyonnais,0-3,/match/stade-rennes/olympique-lyonnais/1998,1998,2,ligue_1,18,34,2,0,3,15,0,0,1,0,1,W,0,0,0,0,0,12,0,0,1,0,1,L,0,0,0,0,0,,
+Strasbourg,Lens,2-1,/match/strasbourg/lens/1998,1998,2,ligue_1,18,34,0,2,1,10,0,1,0,1,1,D,0,0,0,0,0,4,1,0,0,3,0,W,0,0,0,0,0,,
+Le Havre,Montpellier,4-0,/match/havre-ac/montpellier-hsc/1998,1998,2,ligue_1,18,34,0,4,0,17,0,0,1,1,3,W,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+Olympique,Nantes,1-0,/match/olympique-marsella/nantes/1998,1998,2,ligue_1,18,34,0,1,0,5,1,0,0,3,1,W,1,0,0,3,1,13,0,0,1,0,1,L,0,0,0,0,0,W,
+Metz,Girondins Bordeaux,4-1,/match/metz/bordeaux/1998,1998,2,ligue_1,18,34,0,4,1,8,1,0,0,1,0,L,0,0,0,0,0,6,1,0,0,1,0,W,0,0,0,0,0,,
+Cannes,Toulouse,0-1,/match/as-cannes/toulouse-fc/1998,1998,2,ligue_1,18,34,2,0,1,14,0,0,1,1,3,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Monaco,Chateauroux,2-2,/match/monaco/berrichonne-chateauroux/1998,1998,2,ligue_1,18,34,1,2,2,18,0,0,1,0,1,W,0,0,0,0,0,16,0,0,1,0,2,W,0,0,1,0,2,,W
+Bastia,Guingamp,1-0,/match/bastia/guingamp/1998,1998,2,ligue_1,18,34,0,1,0,9,1,0,0,1,0,L,0,0,0,0,0,1,1,0,0,3,1,W,0,0,0,0,0,,
+Chateauroux,Metz,1-2,/match/berrichonne-chateauroux/metz/1998,1998,3,ligue_1,18,34,2,1,2,14,0,1,1,2,4,WD,0,0,0,0,0,2,2,0,0,5,1,LW,1,0,0,1,0,,L
+Lens,Le Havre,0-0,/match/lens/havre-ac/1998,1998,3,ligue_1,18,34,1,0,0,10,1,0,1,4,2,WW,1,0,0,3,0,7,1,0,1,5,3,WW,0,0,1,1,3,W,W
+Toulouse,Bastia,1-1,/match/toulouse-fc/bastia/1998,1998,3,ligue_1,18,34,1,1,1,4,2,0,0,2,0,WL,1,0,0,1,0,5,2,0,0,2,0,LW,1,0,0,1,0,W,L
+PSG,Cannes,3-1,/match/paris-saint-germain-fc/as-cannes/1998,1998,3,ligue_1,18,34,0,3,1,3,2,0,0,5,2,WL,1,0,0,2,0,17,0,0,2,1,4,WL,0,0,1,1,3,W,W
+Montpellier,Olympique,0-0,/match/montpellier-hsc/olympique-marsella/1998,1998,3,ligue_1,18,34,1,0,0,11,0,1,1,1,5,DW,0,1,0,1,1,1,2,0,0,4,1,WW,0,0,0,0,0,D,
+Olympique Lyonnais,Monaco,0-3,/match/olympique-lyonnais/monaco/1998,1998,3,ligue_1,18,34,2,0,3,12,1,0,1,3,1,LL,0,0,1,0,1,13,0,1,1,2,3,WD,0,0,1,0,1,L,W
+Guingamp,Strasbourg,0-0,/match/guingamp/strasbourg/1998,1998,3,ligue_1,18,34,1,0,0,8,1,0,1,3,2,WW,1,0,0,3,1,6,1,1,0,3,2,DW,0,1,0,1,1,W,D
+Girondins Bordeaux,Stade Rennais,2-2,/match/bordeaux/stade-rennes/1998,1998,3,ligue_1,18,34,1,2,2,9,1,0,1,2,4,WW,1,0,0,1,0,18,0,0,2,0,4,WL,0,0,1,0,1,W,W
+Nantes,Auxerre,0-2,/match/nantes/auxerre/1998,1998,3,ligue_1,18,34,2,0,2,16,0,0,2,0,2,LW,0,0,1,0,1,15,0,0,2,2,6,WL,0,0,1,0,3,L,W
+Strasbourg,Nantes,1-2,/match/strasbourg/nantes/1998,1998,4,ligue_1,18,34,2,1,2,9,1,2,0,3,2,DWD,1,0,0,2,1,17,0,0,3,0,4,LWL,0,0,1,0,1,W,W
+Cannes,Girondins Bordeaux,0-2,/match/as-cannes/bordeaux/1998,1998,4,ligue_1,18,34,2,0,2,18,0,0,3,2,7,WLW,0,0,1,0,1,7,1,1,1,4,6,WWD,0,0,1,1,4,L,W
+Stade Rennais,Monaco,2-1,/match/stade-rennes/monaco/1998,1998,4,ligue_1,18,34,0,2,1,16,0,1,2,2,6,WLD,0,0,1,0,3,12,1,1,1,5,3,WDL,1,0,1,3,1,L,WL
+Montpellier,Toulouse,4-0,/match/montpellier-hsc/toulouse-fc/1998,1998,4,ligue_1,18,34,0,4,0,11,0,2,1,1,5,DWD,0,2,0,1,1,3,2,1,0,3,1,WLD,1,0,0,1,0,DD,L
+Le Havre,Olympique Lyonnais,1-3,/match/havre-ac/olympique-lyonnais/1998,1998,4,ligue_1,18,34,2,1,3,10,1,1,1,5,3,WWD,1,0,0,4,0,13,1,0,2,3,4,LLL,1,0,0,3,0,W,L
+Olympique,Lens,2-3,/match/olympique-marsella/lens/1998,1998,4,ligue_1,18,34,2,2,3,2,2,1,0,4,1,WWD,2,0,0,4,1,8,1,1,1,4,2,WWD,0,0,1,1,2,WW,W
+Metz,PSG,2-1,/match/metz/paris-saint-germain-fc/1998,1998,4,ligue_1,18,34,0,2,1,4,3,0,0,7,2,LWL,1,0,0,4,1,1,3,0,0,8,3,WLW,1,0,0,3,2,W,L
+Auxerre,Guingamp,1-0,/match/auxerre/guingamp/1998,1998,4,ligue_1,18,34,0,1,0,14,1,0,2,4,6,WLL,0,0,1,2,3,6,1,1,1,3,2,WWD,0,0,1,0,1,L,W
+Bastia,Chateauroux,1-1,/match/bastia/berrichonne-chateauroux/1998,1998,4,ligue_1,18,34,1,1,1,5,2,1,0,3,1,LWD,1,0,0,1,0,15,0,1,2,3,6,WDL,0,1,1,2,4,W,WD
+Guingamp,Olympique,1-1,/match/guingamp/olympique-marsella/1998,1998,5,ligue_1,18,34,1,1,1,10,1,1,2,3,3,WWDW,1,1,0,3,1,4,2,1,1,6,4,WWDL,0,1,0,0,0,WD,D
+Monaco,Metz,1-2,/match/monaco/metz/1998,1998,5,ligue_1,18,34,2,1,2,15,1,1,2,6,5,WDLW,0,1,0,2,2,1,4,0,0,9,3,LWLW,2,0,0,3,1,D,LL
+Toulouse,Strasbourg,1-1,/match/toulouse-fc/strasbourg/1998,1998,5,ligue_1,18,34,1,1,1,5,2,1,1,3,5,WLDW,1,1,0,2,1,11,1,2,1,4,4,DWDL,0,2,0,1,1,WD,DD
+Chateauroux,Cannes,1-2,/match/berrichonne-chateauroux/as-cannes/1998,1998,5,ligue_1,18,34,2,1,2,16,0,2,2,4,7,WDLD,0,0,1,1,2,18,0,0,4,2,9,WLWL,0,0,2,2,6,L,WW
+PSG,Stade Rennais,4-1,/match/paris-saint-germain-fc/stade-rennes/1998,1998,5,ligue_1,18,34,0,4,1,2,3,0,1,9,5,WLWW,2,0,0,5,1,12,1,1,2,4,7,WLDW,0,1,1,2,3,WW,WD
+Olympique Lyonnais,Bastia,0-2,/match/olympique-lyonnais/bastia/1998,1998,5,ligue_1,18,34,2,0,2,14,2,0,2,6,5,LLLL,0,0,2,0,4,3,2,2,0,4,2,LWDD,1,1,0,2,1,LL,LD
+Lens,Montpellier,0-0,/match/lens/montpellier-hsc/1998,1998,5,ligue_1,18,34,1,0,0,7,2,1,1,7,4,WWDL,1,1,0,3,0,8,1,2,1,5,5,DWDW,0,0,1,0,4,WD,W
+Girondins Bordeaux,Auxerre,3-2,/match/bordeaux/auxerre/1998,1998,5,ligue_1,18,34,0,3,2,6,2,1,1,6,6,WWDL,1,1,0,3,2,9,2,0,2,5,6,WLLW,1,0,1,2,3,WD,WL
+Nantes,Le Havre,2-0,/match/nantes/havre-ac/1998,1998,5,ligue_1,18,34,0,2,0,17,1,0,3,2,5,LWLL,0,0,2,0,3,13,1,1,2,6,6,WWDL,0,1,1,1,3,LL,WD
+Le Havre,Toulouse,1-1,/match/havre-ac/toulouse-fc/1998,1998,6,ligue_1,18,34,1,1,1,14,1,1,3,6,8,WWDLW,1,0,1,5,3,6,2,2,1,4,6,WLDWD,1,0,1,1,4,WL,LW
+Olympique,Olympique Lyonnais,1-0,/match/olympique-marsella/olympique-lyonnais/1998,1998,6,ligue_1,18,34,0,1,0,5,2,2,1,7,5,WWDLD,2,0,1,6,4,15,2,0,3,6,7,LLLLL,2,0,0,6,1,WWL,LL
+Stade Rennais,Metz,2-2,/match/stade-rennes/metz/1998,1998,6,ligue_1,18,34,1,2,2,13,1,1,3,5,11,WLDWW,1,0,1,2,4,1,5,0,0,11,4,LWLWL,3,0,0,5,2,LW,LLL
+Strasbourg,PSG,0-3,/match/strasbourg/paris-saint-germain-fc/1998,1998,6,ligue_1,18,34,2,0,3,10,1,3,1,5,5,DWDLD,1,0,1,3,3,2,4,0,1,13,6,WLWWW,1,0,1,4,4,WL,LW
+Montpellier,Guingamp,2-3,/match/montpellier-hsc/guingamp/1998,1998,6,ligue_1,18,34,2,2,3,8,1,3,1,5,5,DWDWD,1,2,0,5,1,9,1,2,2,4,4,WWDWD,0,0,2,0,2,DDW,WW
+Auxerre,Chateauroux,5-0,/match/auxerre/berrichonne-chateauroux/1998,1998,6,ligue_1,18,34,0,5,0,11,2,0,3,7,9,WLLWW,1,0,1,3,3,17,0,2,3,5,9,WDLDL,0,2,1,3,5,LW,WDD
+Lens,Nantes,0-0,/match/lens/nantes/1998,1998,6,ligue_1,18,34,1,0,0,7,2,2,1,7,4,WWDLD,1,2,0,3,0,12,2,0,3,4,5,LWLLW,1,0,1,2,2,WDD,WL
+Cannes,Monaco,1-2,/match/as-cannes/monaco/1998,1998,6,ligue_1,18,34,2,1,2,18,1,0,4,4,10,WLWLL,0,0,2,0,3,16,1,1,3,7,7,WDLWL,1,0,2,4,3,LL,WLW
+Bastia,Girondins Bordeaux,4-1,/match/bastia/bordeaux/1998,1998,6,ligue_1,18,34,0,4,1,4,3,2,0,6,2,LWDDL,1,1,0,2,1,3,3,1,1,9,8,WWDLW,1,0,1,3,4,WD,WL
+Guingamp,Lens,2-1,/match/guingamp/lens/1998,1998,7,ligue_1,18,34,0,2,1,8,2,2,2,7,6,WWDWDL,1,2,0,4,2,6,2,3,1,7,4,WWDLDD,1,0,1,4,4,WDD,WL
+Chateauroux,Stade Rennais,1-0,/match/berrichonne-chateauroux/stade-rennes/1998,1998,7,ligue_1,18,34,0,1,0,17,0,2,4,5,14,WDLDLW,0,0,2,2,4,11,1,2,3,7,13,WLDWWD,0,1,2,3,7,LL,WDW
+Toulouse,Auxerre,2-1,/match/toulouse-fc/auxerre/1998,1998,7,ligue_1,18,34,0,2,1,7,2,3,1,5,7,WLDWDD,1,2,0,3,2,9,3,0,3,12,9,WLLWWW,1,0,2,4,6,WDD,WLW
+PSG,Bastia,2-0,/match/paris-saint-germain-fc/bastia/1998,1998,7,ligue_1,18,34,0,2,0,1,5,0,1,16,6,WLWWWL,3,0,0,9,2,3,4,2,0,10,3,LWDDLW,2,1,0,4,1,WWW,LDL
+Metz,Cannes,2-0,/match/metz/as-cannes/1998,1998,7,ligue_1,18,34,0,2,0,2,5,1,0,13,6,LWLWLD,2,0,0,6,2,18,1,0,5,5,12,WLWLLL,1,0,2,4,7,WW,WWL
+Olympique Lyonnais,Strasbourg,3-1,/match/olympique-lyonnais/strasbourg/1998,1998,7,ligue_1,18,34,0,3,1,16,2,0,4,6,8,LLLLLW,0,0,3,0,6,13,1,3,2,5,8,DWDLDL,0,3,0,2,2,LLL,DDD
+Monaco,Olympique,2-0,/match/monaco/olympique-marsella/1998,1998,7,ligue_1,18,34,0,2,0,15,2,1,3,9,8,WDLWLL,0,1,1,3,4,4,3,2,1,8,5,WWDLDW,0,2,0,1,1,DL,DD
+Girondins Bordeaux,Le Havre,2-1,/match/bordeaux/havre-ac/1998,1998,7,ligue_1,18,34,0,2,1,5,3,1,2,10,12,WWDLWW,2,1,0,6,4,12,1,2,3,7,9,WWDLWD,0,1,2,1,5,WDW,WDW
+Nantes,Montpellier,1-1,/match/nantes/montpellier-hsc/1998,1998,7,ligue_1,18,34,1,1,1,14,2,1,3,4,5,LWLLWD,1,0,2,2,3,10,1,3,2,7,8,DWDWDL,0,1,1,0,4,LLW,WD
+Strasbourg,Girondins Bordeaux,0-0,/match/strasbourg/bordeaux/1998,1998,8,ligue_1,18,34,1,0,0,16,1,3,3,6,11,DWDLDLW,1,0,2,3,6,3,4,1,2,12,13,WWDLWWW,1,0,2,4,8,WLL,WLW
+Le Havre,PSG,1-1,/match/havre-ac/paris-saint-germain-fc/1998,1998,8,ligue_1,18,34,1,1,1,15,1,2,4,8,11,WWDLWDW,1,1,1,6,4,1,6,0,1,18,6,WLWWWLW,2,0,1,7,4,WLD,LWL
+Olympique,Chateauroux,2-0,/match/olympique-marsella/berrichonne-chateauroux/1998,1998,8,ligue_1,18,34,0,2,0,6,3,2,2,8,7,WWDLDWW,3,0,1,7,4,17,1,2,4,6,14,WDLDLWW,0,2,2,3,10,WWLW,WDDW
+Auxerre,Olympique Lyonnais,1-2,/match/auxerre/olympique-lyonnais/1998,1998,8,ligue_1,18,34,2,1,2,11,3,0,4,13,11,WLLWWWW,2,0,1,8,3,13,3,0,4,9,9,LLLLLWW,2,0,1,6,2,LWW,LLW
+Lens,Toulouse,2-0,/match/lens/toulouse-fc/1998,1998,8,ligue_1,18,34,0,2,0,8,2,3,2,8,6,WWDLDDW,1,3,0,3,0,5,3,3,1,7,8,WLDWDDW,1,1,1,2,5,WDDD,LWD
+Cannes,Stade Rennais,1-1,/match/as-cannes/stade-rennes/1998,1998,8,ligue_1,18,34,1,1,1,18,1,0,6,5,14,WLWLLLW,0,0,3,1,5,14,1,2,4,7,14,WLDWWDW,0,1,3,3,8,LLL,WDWW
+Guingamp,Nantes,1-0,/match/guingamp/nantes/1998,1998,8,ligue_1,18,34,0,1,0,7,3,2,2,9,7,WWDWDLW,2,2,0,6,3,12,2,2,3,5,6,LWLLWDD,1,1,1,2,2,WDDW,WLD
+Montpellier,Monaco,0-2,/match/montpellier-hsc/monaco/1998,1998,8,ligue_1,18,34,2,0,2,10,1,4,2,8,9,DWDWDLD,1,2,1,7,4,9,3,1,3,11,8,WDLWLLW,2,0,2,6,4,DDWL,WLWL
+Bastia,Metz,0-0,/match/bastia/metz/1998,1998,8,ligue_1,18,34,1,0,0,4,4,2,1,10,5,LWDDLWW,2,1,0,6,2,2,6,1,0,15,6,LWLWLDW,3,1,0,7,4,WDW,LLLD
+Girondins Bordeaux,Olympique,2-0,/match/bordeaux/olympique-marsella/1998,1998,9,ligue_1,18,34,0,2,0,5,4,2,2,12,13,WWDLWWWD,3,1,0,8,5,3,4,2,2,10,7,WWDLDWWW,0,2,1,1,3,WDWW,DDW
+Olympique Lyonnais,Lens,1-3,/match/olympique-lyonnais/lens/1998,1998,9,ligue_1,18,34,2,1,3,10,4,0,4,11,10,LLLLLWWL,1,0,3,3,7,7,3,3,2,10,6,WWDLDDWW,1,0,2,5,6,LLLW,WLW
+Stade Rennais,Bastia,2-0,/match/stade-rennes/bastia/1998,1998,9,ligue_1,18,34,0,2,0,16,1,3,4,8,15,WLDWWDWD,1,1,1,4,6,6,4,3,1,10,5,LWDDLWWD,2,1,1,4,3,LWD,LDLW
+Toulouse,Guingamp,3-0,/match/toulouse-fc/guingamp/1998,1998,9,ligue_1,18,34,0,3,0,8,3,3,2,7,10,WLDWDDWW,2,2,0,5,3,4,4,2,2,10,7,WWDWDLWW,1,0,2,3,4,WDDW,WWL
+PSG,Montpellier,1-1,/match/paris-saint-germain-fc/montpellier-hsc/1998,1998,9,ligue_1,18,34,1,1,1,1,6,1,1,19,7,WLWWWLWD,4,0,0,11,2,11,1,4,3,8,11,DWDWDLDL,0,2,1,1,5,WWWW,WDD
+Metz,Auxerre,3-0,/match/metz/auxerre/1998,1998,9,ligue_1,18,34,0,3,0,2,6,2,0,15,6,LWLWLDWD,3,0,0,8,2,12,3,0,5,14,13,WLLWWWWL,1,0,3,5,8,WWW,WLWW
+Monaco,Strasbourg,3-2,/match/monaco/strasbourg/1998,1998,9,ligue_1,18,34,0,3,2,9,4,1,3,13,8,WDLWLLWL,1,1,1,5,4,15,1,4,3,6,11,DWDLDLWD,0,3,1,3,5,DLW,DDDW
+Nantes,Cannes,1-2,/match/nantes/as-cannes/1998,1998,9,ligue_1,18,34,2,1,2,13,2,2,4,5,7,LWLLWDDW,1,1,2,3,4,18,1,1,6,6,15,WLWLLLWD,1,0,3,4,9,LLWD,WWLW
+Chateauroux,Le Havre,2-1,/match/berrichonne-chateauroux/havre-ac/1998,1998,9,ligue_1,18,34,0,2,1,17,1,2,5,6,16,WDLDLWWW,1,0,2,3,4,14,1,3,4,9,12,WWDLWDWD,0,1,3,2,7,LLW,WDWW
+Montpellier,Girondins Bordeaux,0-1,/match/montpellier-hsc/bordeaux/1998,1998,10,ligue_1,18,34,2,0,1,11,1,5,3,9,12,DWDWDLDLD,1,2,2,7,6,3,5,2,2,14,13,WWDLWWWDW,1,1,2,4,8,DDWLL,WLWD
+Le Havre,Monaco,1-1,/match/havre-ac/monaco/1998,1998,10,ligue_1,18,34,1,1,1,15,1,3,5,10,14,WWDLWDWDW,1,2,1,7,5,9,5,1,3,16,10,WDLWLLWLW,3,0,2,8,4,WLDD,WLWLL
+Auxerre,Stade Rennais,4-0,/match/auxerre/stade-rennes/1998,1998,10,ligue_1,18,34,0,4,0,14,3,0,6,14,16,WLLWWWWLW,2,0,2,9,5,10,2,3,4,10,15,WLDWWDWDW,0,2,3,4,9,LWWL,WDWWD
+Lens,Chateauroux,1-0,/match/lens/berrichonne-chateauroux/1998,1998,10,ligue_1,18,34,0,1,0,7,4,3,2,13,7,WWDLDDWWL,2,3,0,5,0,12,2,2,5,8,17,WDLDLWWWW,0,2,3,3,12,WDDDW,WDDWW
+Guingamp,Olympique Lyonnais,0-1,/match/guingamp/olympique-lyonnais/1998,1998,10,ligue_1,18,34,2,0,1,6,4,2,3,10,10,WWDWDLWWW,3,2,0,7,3,13,4,0,5,12,13,LLLLLWWLL,3,0,1,8,3,WDDWW,LLWL
+Bastia,Cannes,5-1,/match/bastia/as-cannes/1998,1998,10,ligue_1,18,34,0,5,1,8,4,3,2,10,7,LWDDLWWDW,2,2,0,6,2,18,2,1,6,8,16,WLWLLLWDL,2,0,3,6,10,WDWD,WWLWL
+Olympique,Toulouse,2-0,/match/olympique-marsella/toulouse-fc/1998,1998,10,ligue_1,18,34,0,2,0,5,4,2,3,10,9,WWDLDWWWW,4,0,1,9,4,4,4,3,2,10,10,WLDWDDWWW,1,1,2,2,7,WWLWW,LWDW
+Strasbourg,Metz,2-0,/match/strasbourg/metz/1998,1998,10,ligue_1,18,34,0,2,0,16,1,4,4,8,14,DWDLDLWDW,1,1,2,3,6,1,7,2,0,18,6,LWLWLDWDW,3,2,0,7,4,WLLD,LLLDD
+Nantes,PSG,0-0,/match/nantes/paris-saint-germain-fc/1998,1998,10,ligue_1,18,34,1,0,0,17,2,2,5,6,9,LWLLWDDWL,1,1,3,4,6,2,6,2,1,20,8,WLWWWLWDD,2,1,1,8,5,LLWDL,LWLD
+Monaco,Bastia,1-0,/match/monaco/bastia/1998,1998,11,ligue_1,18,34,0,1,0,9,5,2,3,17,11,WDLWLLWLWD,2,1,1,8,6,6,5,3,2,15,8,LWDDLWWDWW,2,1,2,4,5,DLWW,LDLWW
+Cannes,Auxerre,2-3,/match/as-cannes/auxerre/1998,1998,11,ligue_1,18,34,2,2,3,18,2,1,7,9,21,WLWLLLWDLW,0,1,3,2,6,10,4,0,6,18,16,WLLWWWWLWW,1,0,4,5,11,LLLD,WLWWW
+Stade Rennais,Olympique,0-2,/match/stade-rennes/olympique-marsella/1998,1998,11,ligue_1,18,34,2,0,2,13,2,3,5,10,19,WLDWWDWDWW,2,1,1,6,6,4,5,2,3,12,9,WWDLDWWWWW,0,2,2,1,5,LWDW,DDWW
+Toulouse,Nantes,1-0,/match/toulouse-fc/nantes/1998,1998,11,ligue_1,18,34,0,1,0,7,4,3,3,10,12,WLDWDDWWWW,3,2,0,8,3,16,2,3,5,6,9,LWLLWDDWLD,1,1,2,2,3,WDDWW,WLDW
+Chateauroux,Strasbourg,2-0,/match/berrichonne-chateauroux/strasbourg/1998,1998,11,ligue_1,18,34,0,2,0,17,2,2,6,8,18,WDLDLWWWWW,2,0,2,5,5,11,2,4,4,10,14,DWDLDLWDWW,0,3,2,5,8,LLWW,DDDWW
+PSG,Guingamp,4-2,/match/paris-saint-germain-fc/guingamp/1998,1998,11,ligue_1,18,34,0,4,2,2,6,3,1,20,8,WLWWWLWDDD,4,1,0,12,3,8,4,2,4,10,11,WWDWDLWWWL,1,0,3,3,7,WWWWD,WWLW
+Metz,Le Havre,2-0,/match/metz/havre-ac/1998,1998,11,ligue_1,18,34,0,2,0,1,7,2,1,18,8,LWLWLDWDWW,4,0,0,11,2,14,1,4,5,11,15,WWDLWDWDWD,0,1,4,3,9,WWWW,WDWWW
+Olympique Lyonnais,Montpellier,1-2,/match/olympique-lyonnais/montpellier-hsc/1998,1998,11,ligue_1,18,34,2,1,2,12,5,0,5,13,13,LLLLLWWLLL,1,0,4,4,10,15,1,5,4,9,13,DWDWDLDLDL,0,3,1,2,6,LLLWL,WDDD
+Girondins Bordeaux,Lens,3-0,/match/bordeaux/lens/1998,1998,11,ligue_1,18,34,0,3,0,3,6,2,2,15,13,WWDLWWWDWL,4,1,0,10,5,5,5,3,2,14,7,WWDLDDWWLW,2,0,2,8,7,WDWWW,WLWL
+Olympique,Metz,2-0,/match/olympique-marsella/metz/1998,1998,12,ligue_1,18,34,0,2,0,4,6,2,3,14,9,WWDLDWWWWWL,5,0,1,11,4,1,8,2,1,20,8,LWLWLDWDWWW,3,2,1,7,6,WWLWWW,LLLDDW
+Guingamp,Girondins Bordeaux,0-1,/match/guingamp/bordeaux/1998,1998,12,ligue_1,18,34,2,0,1,9,4,2,5,12,15,WWDWDLWWWLW,3,2,1,7,4,3,7,2,2,18,13,WWDLWWWDWLW,2,1,2,5,8,WDDWWL,WLWDL
+Toulouse,PSG,0-2,/match/toulouse-fc/paris-saint-germain-fc/1998,1998,12,ligue_1,18,34,2,0,2,5,5,3,3,11,12,WLDWDDWWWWW,4,2,0,9,3,2,7,3,1,24,10,WLWWWLWDDDW,2,2,1,8,5,WDDWWW,LWLDD
+Strasbourg,Cannes,2-0,/match/strasbourg/as-cannes/1998,1998,12,ligue_1,18,34,0,2,0,12,2,4,5,10,16,DWDLDLWDWWW,2,1,2,5,6,18,2,1,8,11,24,WLWLLLWDLWL,2,0,4,7,15,WLLDW,WWLWLW
+Montpellier,Chateauroux,1-0,/match/montpellier-hsc/berrichonne-chateauroux/1998,1998,12,ligue_1,18,34,0,1,0,13,2,5,4,11,14,DWDWDLDLDLL,1,2,3,7,7,11,3,2,6,10,18,WDLDLWWWWWW,0,2,4,3,13,DDWLLL,WDDWWW
+Le Havre,Stade Rennais,1-1,/match/havre-ac/stade-rennes/1998,1998,12,ligue_1,18,34,1,1,1,16,1,4,6,11,17,WWDLWDWDWDW,1,3,1,8,6,15,2,3,6,10,21,WLDWWDWDWWL,0,2,4,4,13,WLDDD,WDWWDW
+Auxerre,Bastia,2-0,/match/auxerre/bastia/1998,1998,12,ligue_1,18,34,0,2,0,10,5,0,6,21,18,WLLWWWWLWWL,3,0,2,13,5,7,5,3,3,15,9,LWDDLWWDWWW,2,1,3,4,6,LWWLW,LDLWWW
+Lens,Monaco,1-0,/match/lens/monaco/1998,1998,12,ligue_1,18,34,0,1,0,6,5,3,3,14,10,WWDLDDWWLWW,3,3,0,6,0,8,6,2,3,18,11,WDLWLLWLWDW,3,1,2,9,5,WDDDWW,WLWLLD
+Nantes,Olympique Lyonnais,3-2,/match/nantes/olympique-lyonnais/1998,1998,12,ligue_1,18,34,0,3,2,17,2,3,6,6,10,LWLLWDDWLDW,1,2,3,4,6,14,5,0,6,14,15,LLLLLWWLLLL,4,0,1,9,3,LLWDLD,LLWLL
+Stade Rennais,Strasbourg,3-1,/match/stade-rennes/strasbourg/1998,1998,13,ligue_1,18,34,0,3,1,15,2,4,6,11,22,WLDWWDWDWWLD,2,1,2,6,8,11,3,4,5,12,16,DWDLDLWDWWWW,0,3,3,5,10,LWDWL,DDDWWW
+Chateauroux,Guingamp,2-2,/match/berrichonne-chateauroux/guingamp/1998,1998,13,ligue_1,18,34,1,2,2,14,3,2,7,10,19,WDLDLWWWWWWW,3,0,2,7,5,10,4,2,6,12,16,WWDWDLWWWLWL,1,0,4,5,11,LLWWW,WWLWW
+PSG,Lens,2-0,/match/paris-saint-germain-fc/lens/1998,1998,13,ligue_1,18,34,0,2,0,1,8,3,1,26,10,WLWWWLWDDDWL,5,1,0,16,5,5,6,3,3,15,10,WWDLDDWWLWWW,2,0,3,8,10,WWWWDW,WLWLW
+Metz,Montpellier,0-1,/match/metz/montpellier-hsc/1998,1998,13,ligue_1,18,34,2,0,1,3,8,2,2,20,10,LWLWLDWDWWWW,5,0,0,13,2,12,3,5,4,12,14,DWDWDLDLDLLW,1,3,1,4,7,WWWWW,WDDDL
+Olympique Lyonnais,Toulouse,0-0,/match/olympique-lyonnais/toulouse-fc/1998,1998,13,ligue_1,18,34,1,0,0,17,5,0,7,16,18,LLLLLWWLLLLW,1,0,5,5,12,6,5,3,4,11,14,WLDWDDWWWWWL,1,1,3,2,9,LLLWLL,LWDWW
+Cannes,Le Havre,1-1,/match/as-cannes/havre-ac/1998,1998,13,ligue_1,18,34,1,1,1,18,2,1,9,11,26,WLWLLLWDLWLW,0,1,4,4,9,16,1,5,6,12,18,WWDLWDWDWDWD,0,1,5,3,11,LLLDL,WDWWWW
+Bastia,Olympique,1-1,/match/bastia/olympique-marsella/1998,1998,13,ligue_1,18,34,1,1,1,7,5,3,4,15,11,LWDDLWWDWWWW,3,2,0,11,3,4,7,2,3,16,9,WWDLDWWWWWLW,1,2,2,3,5,WDWDW,DDWWL
+Monaco,Auxerre,0-1,/match/monaco/auxerre/1998,1998,13,ligue_1,18,34,2,0,1,8,6,2,4,18,12,WDLWLLWLWDWW,3,1,1,9,6,9,6,0,6,23,18,WLLWWWWLWWLW,2,0,4,8,13,DLWWW,WLWWWL
+Girondins Bordeaux,Nantes,1-1,/match/bordeaux/nantes/1998,1998,13,ligue_1,18,34,1,1,1,2,8,2,2,19,13,WWDLWWWDWLWL,5,1,0,13,5,13,3,3,6,9,12,LWLLWDDWLDWW,1,1,3,2,4,WDWWWW,WLDWW
+Strasbourg,Auxerre,1-1,/match/strasbourg/auxerre/1998,1998,14,ligue_1,18,34,1,1,1,12,3,4,6,13,19,DWDLDLWDWWWWW,3,1,2,7,6,8,7,0,6,24,18,WLLWWWWLWWLWL,3,0,4,9,13,WLLDWW,WLWWWLL
+Le Havre,Bastia,2-1,/match/havre-ac/bastia/1998,1998,14,ligue_1,18,34,0,2,1,16,1,6,6,13,19,WWDLWDWDWDWDD,1,4,1,9,7,7,5,4,4,16,12,LWDDLWWDWWWWD,2,1,4,4,8,WLDDDD,LDLWWWW
+Olympique,Cannes,2-0,/match/olympique-marsella/as-cannes/1998,1998,14,ligue_1,18,34,0,2,0,3,7,3,3,17,10,WWDLDWWWWWLWD,6,0,1,13,4,18,2,2,9,12,27,WLWLLLWDLWLWD,2,0,5,7,17,WWLWWWW,WWLWLWW
+Olympique Lyonnais,PSG,1-0,/match/olympique-lyonnais/paris-saint-germain-fc/1998,1998,14,ligue_1,18,34,0,1,0,17,5,1,7,16,18,LLLLLWWLLLLWD,1,1,5,5,12,1,9,3,1,28,10,WLWWWLWDDDWLW,3,2,1,10,5,LLLWLLD,LWLDDL
+Lens,Metz,1-1,/match/lens/metz/1998,1998,14,ligue_1,18,34,1,1,1,5,6,3,4,15,12,WWDLDDWWLWWWW,4,3,0,7,0,4,8,2,3,20,11,LWLWLDWDWWWWL,3,2,2,7,8,WDDDWWW,LLLDDWW
+Guingamp,Monaco,1-2,/match/guingamp/monaco/1998,1998,14,ligue_1,18,34,2,1,2,11,4,3,6,14,18,WWDWDLWWWLWLD,3,2,2,7,5,9,6,2,5,18,13,WDLWLLWLWDWWL,3,1,3,9,6,WDDWWLL,WLWLLDW
+Nantes,Chateauroux,3-1,/match/nantes/berrichonne-chateauroux/1998,1998,14,ligue_1,18,34,0,3,1,14,3,4,6,10,13,LWLLWDDWLDWWD,2,2,3,7,8,15,3,3,7,12,21,WDLDLWWWWWWWD,0,2,5,3,14,LLWDLDW,WDDWWWW
+Toulouse,Girondins Bordeaux,2-2,/match/toulouse-fc/bordeaux/1998,1998,14,ligue_1,18,34,1,2,2,6,5,4,4,11,14,WLDWDDWWWWWLD,4,2,1,9,5,2,8,3,2,20,14,WWDLWWWDWLWLD,3,1,2,6,8,WDDWWWL,WLWDLL
+Montpellier,Stade Rennais,2-0,/match/montpellier-hsc/stade-rennes/1998,1998,14,ligue_1,18,34,0,2,0,10,4,5,4,13,14,DWDWDLDLDLLWL,2,2,3,8,7,13,3,4,6,14,23,WLDWWDWDWWLDW,0,3,4,5,14,DDWLLLW,WDWWDWD
+Bastia,Strasbourg,2-0,/match/bastia/strasbourg/1998,1998,15,ligue_1,18,34,0,2,0,10,5,4,5,17,14,LWDDLWWDWWWWDW,3,3,0,12,4,13,3,5,6,14,20,DWDLDLWDWWWWWD,0,3,4,6,13,WDWDWD,DDDWWWW
+Stade Rennais,Lens,2-3,/match/stade-rennes/lens/1998,1998,15,ligue_1,18,34,2,2,3,16,3,4,7,14,25,WLDWWDWDWWLDWW,3,1,2,9,9,5,6,4,4,16,13,WWDLDDWWLWWWWD,2,0,4,8,12,LWDWLW,WLWLWW
+Chateauroux,Toulouse,2-1,/match/berrichonne-chateauroux/toulouse-fc/1998,1998,15,ligue_1,18,34,0,2,1,17,3,3,8,13,24,WDLDLWWWWWWWDW,3,1,2,9,7,6,5,5,4,13,16,WLDWDDWWWWWLDD,1,2,3,2,9,LLWWWD,LWDWWD
+Metz,Guingamp,2-1,/match/metz/guingamp/1998,1998,15,ligue_1,18,34,0,2,1,4,8,3,3,21,12,LWLWLDWDWWWWLD,5,0,1,13,3,12,4,3,7,15,20,WWDWDLWWWLWLDL,1,1,4,7,13,WWWWWL,WWLWWD
+Auxerre,Le Havre,0-0,/match/auxerre/havre-ac/1998,1998,15,ligue_1,18,34,1,0,0,9,7,1,6,25,19,WLLWWWWLWWLWLD,4,0,2,15,5,14,2,6,6,15,20,WWDLWDWDWDWDDW,0,2,5,4,12,LWWLWW,WDWWWWD
+Cannes,Montpellier,1-0,/match/as-cannes/montpellier-hsc/1998,1998,15,ligue_1,18,34,0,1,0,18,2,2,10,12,29,WLWLLLWDLWLWDW,0,2,4,5,10,8,5,5,4,15,14,DWDWDLDLDLLWLW,2,3,1,5,7,LLLDLD,WDDDLL
+Girondins Bordeaux,Olympique Lyonnais,0-0,/match/bordeaux/olympique-lyonnais/1998,1998,15,ligue_1,18,34,1,0,0,3,8,4,2,22,16,WWDLWWWDWLWLDD,5,2,0,14,6,15,6,1,7,17,18,LLLLLWWLLLLWDW,4,0,2,11,6,WDWWWWD,LLWLLW
+PSG,Olympique,1-2,/match/paris-saint-germain-fc/olympique-marsella/1998,1998,15,ligue_1,18,34,2,1,2,1,9,3,2,28,11,WLWWWLWDDDWLWW,6,1,0,18,5,2,8,3,3,19,10,WWDLDWWWWWLWDW,1,3,2,4,6,WWWWDWW,DDWWLD
+Monaco,Nantes,3-2,/match/monaco/nantes/1998,1998,15,ligue_1,18,34,0,3,2,7,7,2,5,20,14,WDLWLLWLWDWWLL,3,1,2,9,7,11,4,4,6,13,14,LWLLWDDWLDWWDW,1,2,3,3,5,DLWWWL,WLDWWD
+Olympique Lyonnais,Chateauroux,2-1,/match/olympique-lyonnais/berrichonne-chateauroux/1998,1998,16,ligue_1,18,34,0,2,1,16,6,2,7,17,18,LLLLLWWLLLLWDWD,2,1,5,6,12,12,4,3,8,15,25,WDLDLWWWWWWWDWW,0,2,6,4,17,LLLWLLDW,WDDWWWWW
+Toulouse,Monaco,1-3,/match/toulouse-fc/monaco/1998,1998,16,ligue_1,18,34,2,1,3,8,5,5,5,14,18,WLDWDDWWWWWLDDW,4,3,1,11,7,6,8,2,5,23,16,WDLWLLWLWDWWLLW,4,1,3,11,7,WDDWWWLD,WLWLLDWL
+Montpellier,Bastia,1-1,/match/montpellier-hsc/bastia/1998,1998,16,ligue_1,18,34,1,1,1,10,5,5,5,15,15,DWDWDLDLDLLWLWW,3,2,3,10,7,7,6,4,5,19,14,LWDDLWWDWWWWDWW,2,1,5,5,10,DDWLLLWW,LDLWWWWW
+Olympique,Auxerre,4-0,/match/olympique-marsella/auxerre/1998,1998,16,ligue_1,18,34,0,4,0,1,9,3,3,21,11,WWDLDWWWWWLWDWL,7,0,1,15,4,9,7,2,6,25,19,WLLWWWWLWWLWLDD,3,1,4,10,14,WWLWWWWW,WLWWWLLD
+Girondins Bordeaux,PSG,0-0,/match/bordeaux/paris-saint-germain-fc/1998,1998,16,ligue_1,18,34,1,0,0,3,8,5,2,22,16,WWDLWWWDWLWLDDD,5,3,0,14,6,2,9,3,3,29,13,WLWWWLWDDDWLWWL,3,2,2,10,6,WDWWWWDD,LWLDDLW
+Nantes,Metz,1-1,/match/nantes/metz/1998,1998,16,ligue_1,18,34,1,1,1,11,4,4,7,15,17,LWLLWDDWLDWWDWW,3,2,3,10,9,4,9,3,3,23,13,LWLWLDWDWWWWLDW,3,3,2,8,9,LLWDLDWW,LLLDDWWD
+Lens,Cannes,5-4,/match/lens/as-cannes/1998,1998,16,ligue_1,18,34,0,5,4,5,7,4,4,19,15,WWDLDDWWLWWWWDL,4,4,0,8,1,18,3,2,10,13,29,WLWLLLWDLWLWDWW,2,0,6,7,19,WDDDWWWD,WWLWLWWW
+Guingamp,Stade Rennais,1-0,/match/guingamp/stade-rennes/1998,1998,16,ligue_1,18,34,0,1,0,13,4,3,8,16,22,WWDWDLWWWLWLDLW,3,2,3,8,7,17,3,4,8,16,28,WLDWWDWDWWLDWWL,0,3,5,5,16,WDDWWLLL,WDWWDWDW
+Le Havre,Strasbourg,1-1,/match/havre-ac/strasbourg/1998,1998,16,ligue_1,18,34,1,1,1,15,2,7,6,15,20,WWDLWDWDWDWDDWD,2,4,1,11,8,14,3,5,7,14,22,DWDLDLWDWWWWWDW,0,3,5,6,15,WLDDDDW,DDDWWWWW
+Monaco,PSG,3-0,/match/monaco/paris-saint-germain-fc/1998,1998,17,ligue_1,18,34,0,3,0,6,9,2,5,26,17,WDLWLLWLWDWWLLWL,4,1,2,12,9,3,9,4,3,29,13,WLWWWLWDDDWLWWLD,3,3,2,10,6,DLWWWLW,LWLDDLWD
+Strasbourg,Olympique,2-0,/match/strasbourg/olympique-marsella/1998,1998,17,ligue_1,18,34,0,2,0,16,3,6,7,15,23,DWDLDLWDWWWWWDWD,3,2,2,8,7,1,10,3,3,25,11,WWDLDWWWWWLWDWLW,2,3,2,6,7,WLLDWWD,DDWWLDL
+Auxerre,Montpellier,3-1,/match/auxerre/montpellier-hsc/1998,1998,17,ligue_1,18,34,0,3,1,10,7,2,7,25,23,WLLWWWWLWWLWLDDW,4,1,2,15,5,9,5,6,5,16,16,DWDWDLDLDLLWLWWD,2,3,2,5,8,LWWLWWD,WDDDLLW
+Chateauroux,Girondins Bordeaux,1-0,/match/berrichonne-chateauroux/bordeaux/1998,1998,17,ligue_1,18,34,0,1,0,15,4,3,9,16,27,WDLDLWWWWWWWDWWW,4,1,2,11,8,2,8,6,2,22,16,WWDLWWWDWLWLDDDD,3,2,2,8,10,LLWWWDW,WLWDLLD
+Le Havre,Guingamp,0-0,/match/havre-ac/guingamp/1998,1998,17,ligue_1,18,34,1,0,0,14,2,8,6,16,21,WWDLWDWDWDWDDWDD,2,5,1,12,9,11,5,3,8,17,22,WWDWDLWWWLWLDLWW,1,1,5,8,15,WLDDDDWD,WWLWWDW
+Metz,Toulouse,2-1,/match/metz/toulouse-fc/1998,1998,17,ligue_1,18,34,0,2,1,4,9,4,3,24,14,LWLWLDWDWWWWLDWD,6,0,1,15,4,8,5,5,6,15,21,WLDWDDWWWWWLDDWL,1,2,4,3,11,WWWWWLW,LWDWWDW
+Cannes,Olympique Lyonnais,1-0,/match/as-cannes/olympique-lyonnais/1998,1998,17,ligue_1,18,34,0,1,0,18,3,2,11,17,34,WLWLLLWDLWLWDWWW,1,2,4,6,10,12,7,2,7,19,19,LLLLLWWLLLLWDWDW,4,1,2,11,6,LLLDLDW,LLWLLWD
+Bastia,Lens,1-0,/match/bastia/lens/1998,1998,17,ligue_1,18,34,0,1,0,7,6,5,5,20,15,LWDDLWWDWWWWDWWD,4,3,0,14,4,5,8,4,4,24,19,WWDLDDWWLWWWWDLW,3,0,4,11,14,WDWDWDW,WLWLWWL
+Stade Rennais,Nantes,3-0,/match/stade-rennes/nantes/1998,1998,17,ligue_1,18,34,0,3,0,17,3,4,9,16,29,WLDWWDWDWWLDWWLW,3,1,3,11,12,13,4,5,7,16,18,LWLLWDDWLDWWDWWD,1,2,4,5,8,LWDWLWL,WLDWWDW
+Chateauroux,Monaco,0-2,/match/berrichonne-chateauroux/monaco/1998,1998,18,ligue_1,18,34,2,0,2,12,5,3,9,17,27,WDLDLWWWWWWWDWWWW,5,1,2,12,8,6,10,2,5,29,17,WDLWLLWLWDWWLLWLW,5,1,3,14,8,LLWWWDWW,WLWLLDWLL
+Montpellier,Le Havre,1-1,/match/montpellier-hsc/havre-ac/1998,1998,18,ligue_1,18,34,1,1,1,10,5,6,6,17,19,DWDWDLDLDLLWLWWDW,3,3,3,11,8,15,2,9,6,16,21,WWDLWDWDWDWDDWDDD,0,3,5,4,12,DDWLLLWWD,WDWWWWDD
+Olympique Lyonnais,Stade Rennais,3-1,/match/olympique-lyonnais/stade-rennes/1998,1998,18,ligue_1,18,34,0,3,1,14,7,2,8,19,20,LLLLLWWLLLLWDWDWW,3,1,5,8,13,17,4,4,9,19,29,WLDWWDWDWWLDWWLWW,0,3,6,5,17,LLLWLLDWW,WDWWDWDWW
+Lens,Strasbourg,3-2,/match/lens/strasbourg/1998,1998,18,ligue_1,18,34,0,3,2,5,8,4,5,24,20,WWDLDDWWLWWWWDLWW,5,4,0,13,5,13,4,6,7,17,23,DWDLDLWDWWWWWDWDW,0,4,5,7,16,WDDDWWWDW,DDDWWWWWD
+Guingamp,Bastia,0-0,/match/guingamp/bastia/1998,1998,18,ligue_1,18,34,1,0,0,11,5,4,8,17,22,WWDWDLWWWLWLDLWWD,4,2,3,9,7,7,7,5,5,21,15,LWDDLWWDWWWWDWWDW,2,2,5,6,11,WDDWWLLLW,LDLWWWWWD
+Nantes,Olympique,1-0,/match/nantes/olympique-marsella/1998,1998,18,ligue_1,18,34,0,1,0,16,4,5,8,16,21,LWLLWDDWLDWWDWWDW,3,3,3,11,10,1,10,3,4,25,13,WWDLDWWWWWLWDWLWW,2,3,3,6,9,LLWDLDWWD,DDWWLDLW
+Toulouse,Cannes,1-0,/match/toulouse-fc/as-cannes/1998,1998,18,ligue_1,18,34,0,1,0,9,5,5,7,16,23,WLDWDDWWWWWLDDWLW,4,3,2,12,10,18,4,2,11,18,34,WLWLLLWDLWLWDWWWW,2,0,7,11,24,WDDWWWLDL,WWLWLWWWW
+Girondins Bordeaux,Metz,2-2,/match/bordeaux/metz/1998,1998,18,ligue_1,18,34,1,2,2,3,8,6,3,22,17,WWDLWWWDWLWLDDDDW,5,4,0,14,6,2,10,4,3,26,15,LWLWLDWDWWWWLDWDW,3,4,2,9,10,WDWWWWDDD,LLLDDWWDD
+PSG,Auxerre,1-0,/match/paris-saint-germain-fc/auxerre/1998,1998,18,ligue_1,18,34,0,1,0,4,9,4,4,29,16,WLWWWLWDDDWLWWLDW,6,1,1,19,7,8,8,2,7,28,24,WLLWWWWLWWLWLDDWW,3,1,5,10,18,WWWWDWWL,WLWWWLLDW
+Auxerre,Nantes,3-1,/match/auxerre/nantes/1998,1998,19,ligue_1,18,34,0,3,1,9,8,2,8,28,25,WLLWWWWLWWLWLDDWWW,5,1,2,18,6,13,5,5,8,17,21,LWLLWDDWLDWWDWWDWW,1,2,5,5,11,LWWLWWDW,WLDWWDWW
+Metz,Chateauroux,2-0,/match/metz/berrichonne-chateauroux/1998,1998,19,ligue_1,18,34,0,2,0,3,10,5,3,28,17,LWLWLDWDWWWWLDWDWD,7,0,1,17,5,14,5,3,10,17,29,WDLDLWWWWWWWDWWWWL,0,2,7,5,19,WWWWWLWW,WDDWWWWWW
+Cannes,PSG,0-1,/match/as-cannes/paris-saint-germain-fc/1998,1998,19,ligue_1,18,34,2,0,1,18,4,2,12,18,35,WLWLLLWDLWLWDWWWWW,2,2,4,7,10,2,10,4,4,30,16,WLWWWLWDDDWLWWLDWW,3,3,3,10,9,LLLDLDWW,LWLDDLWDW
+Monaco,Olympique Lyonnais,2-1,/match/monaco/olympique-lyonnais/1998,1998,19,ligue_1,18,34,0,2,1,6,11,2,5,31,17,WDLWLLWLWDWWLLWLWL,5,1,2,15,9,10,8,2,8,22,21,LLLLLWWLLLLWDWDWWW,4,1,3,11,7,DLWWWLWW,LLWLLWDW
+Stade Rennais,Girondins Bordeaux,0-0,/match/stade-rennes/bordeaux/1998,1998,19,ligue_1,18,34,1,0,0,17,4,4,10,20,32,WLDWWDWDWWLDWWLWWW,4,1,3,14,12,4,8,7,3,24,19,WWDLWWWDWLWLDDDDWD,3,2,3,8,11,LWDWLWLW,WLWDLLDW
+Strasbourg,Guingamp,0-1,/match/strasbourg/guingamp/1998,1998,19,ligue_1,18,34,2,0,1,15,4,6,8,19,26,DWDLDLWDWWWWWDWDWW,4,2,2,10,7,12,5,5,8,17,22,WWDWDLWWWLWLDLWWDD,1,2,5,8,15,WLLDWWDW,WWLWWDWD
+Le Havre,Lens,0-1,/match/havre-ac/lens/1998,1998,19,ligue_1,18,34,2,0,1,16,2,10,6,17,22,WWDLWDWDWDWDDWDDDD,2,6,1,12,9,5,9,4,5,27,22,WWDLDDWWLWWWWDLWWW,3,0,5,11,15,WLDDDDWDD,WLWLWWLW
+Olympique,Montpellier,0-0,/match/olympique-marsella/montpellier-hsc/1998,1998,19,ligue_1,18,34,1,0,0,1,10,3,5,25,14,WWDLDWWWWWLWDWLWWW,8,0,1,19,4,11,5,7,6,18,20,DWDWDLDLDLLWLWWDWD,2,3,3,6,11,WWLWWWWWW,WDDDLLWW
+Bastia,Toulouse,0-0,/match/bastia/toulouse-fc/1998,1998,19,ligue_1,18,34,1,0,0,7,7,6,5,21,15,LWDDLWWDWWWWDWWDWD,5,3,0,15,4,8,6,5,7,17,23,WLDWDDWWWWWLDDWLWW,1,2,5,4,13,WDWDWDWW,LWDWWDWW
+Toulouse,Montpellier,1-1,/match/toulouse-fc/montpellier-hsc/1998,1998,20,ligue_1,18,34,1,1,1,9,6,6,7,17,23,WLDWDDWWWWWLDDWLWWD,5,3,2,13,10,11,5,8,6,18,20,DWDWDLDLDLLWLWWDWDD,2,4,3,6,11,WDDWWWLDLW,WDDDLLWWD
+Olympique Lyonnais,Le Havre,0-1,/match/olympique-lyonnais/havre-ac/1998,1998,20,ligue_1,18,34,2,0,1,12,8,2,9,23,23,LLLLLWWLLLLWDWDWWWW,4,1,5,11,14,16,2,10,7,17,23,WWDLWDWDWDWDDWDDDDL,0,4,5,5,13,LLLWLLDWWW,WDWWWWDDD
+Guingamp,Auxerre,1-1,/match/guingamp/auxerre/1998,1998,20,ligue_1,18,34,1,1,1,10,6,5,8,18,22,WWDWDLWWWLWLDLWWDDL,4,3,3,9,7,8,9,2,8,31,26,WLLWWWWLWWLWLDDWWWW,3,1,6,10,19,WDDWWLLLWD,WLWWWLLDWW
+Girondins Bordeaux,Cannes,0-1,/match/bordeaux/as-cannes/1998,1998,20,ligue_1,18,34,2,0,1,5,8,8,3,24,19,WWDLWWWDWLWLDDDDWDD,5,5,0,16,8,18,4,2,13,18,36,WLWLLLWDLWLWDWWWWWL,2,0,8,11,25,WDWWWWDDDD,WWLWLWWWWW
+Nantes,Strasbourg,2-1,/match/nantes/strasbourg/1998,1998,20,ligue_1,18,34,0,2,1,13,5,5,9,18,24,LWLLWDDWLDWWDWWDWWW,4,3,3,12,10,15,4,6,9,19,27,DWDLDLWDWWWWWDWDWWL,0,4,6,9,19,LLWDLDWWDW,DDDWWWWWDW
+Lens,Olympique,0-1,/match/lens/olympique-marsella/1998,1998,20,ligue_1,18,34,2,0,1,4,10,4,5,28,22,WWDLDDWWLWWWWDLWWWL,6,4,0,16,7,2,10,4,5,25,14,WWDLDWWWWWLWDWLWWWD,2,3,4,6,10,WDDDWWWDWW,DDWWLDLWW
+Chateauroux,Bastia,1-1,/match/berrichonne-chateauroux/bastia/1998,1998,20,ligue_1,18,34,1,1,1,14,5,3,11,17,31,WDLDLWWWWWWWDWWWWLW,5,1,3,12,10,7,7,7,5,21,15,LWDDLWWDWWWWDWWDWDD,2,3,5,6,11,LLWWWDWWL,LDLWWWWWDD
+PSG,Metz,1-1,/match/paris-saint-germain-fc/metz/1998,1998,20,ligue_1,18,34,1,1,1,3,11,4,4,31,16,WLWWWLWDDDWLWWLDWWL,7,1,1,20,7,1,11,5,3,30,17,LWLWLDWDWWWWLDWDWDW,3,5,2,11,12,WWWWDWWLW,LLLDDWWDDD
+Monaco,Stade Rennais,1-0,/match/monaco/stade-rennes/1998,1998,20,ligue_1,18,34,0,1,0,6,12,2,5,33,18,WDLWLLWLWDWWLLWLWLW,6,1,2,17,10,17,4,5,10,20,32,WLDWWDWDWWLDWWLWWWD,0,3,7,6,20,DLWWWLWWW,WDWWDWDWWW
+Cannes,Chateauroux,2-2,/match/as-cannes/berrichonne-chateauroux/1998,1998,21,ligue_1,18,34,1,2,2,18,5,2,13,19,36,WLWLLLWDLWLWDWWWWWLL,2,2,5,7,11,14,5,4,11,18,32,WDLDLWWWWWWWDWWWWLWD,0,2,8,5,21,LLLDLDWWL,WDDWWWWWWW
+Stade Rennais,PSG,1-2,/match/stade-rennes/paris-saint-germain-fc/1998,1998,21,ligue_1,18,34,2,1,2,17,4,5,11,20,33,WLDWWDWDWWLDWWLWWWDW,4,2,3,14,12,2,11,5,4,32,17,WLWWWLWDDDWLWWLDWWLD,4,3,3,11,9,LWDWLWLWD,LWLDDLWDWL
+Strasbourg,Toulouse,2-0,/match/strasbourg/toulouse-fc/1998,1998,21,ligue_1,18,34,0,2,0,16,4,6,10,20,29,DWDLDLWDWWWWWDWDWWLW,4,2,3,10,8,9,6,7,7,18,24,WLDWDDWWWWWLDDWLWWDD,1,3,5,4,13,WLLDWWDWL,LWDWWDWWD
+Montpellier,Lens,1-2,/match/montpellier-hsc/lens/1998,1998,21,ligue_1,18,34,2,1,2,12,5,9,6,19,21,DWDWDLDLDLLWLWWDWDDD,3,4,3,12,9,5,10,4,6,28,23,WWDLDDWWLWWWWDLWWWLL,4,0,5,12,15,DDWLLLWWDD,WLWLWWLWL
+Le Havre,Nantes,1-0,/match/havre-ac/nantes/1998,1998,21,ligue_1,18,34,0,1,0,15,3,10,7,18,23,WWDLWDWDWDWDDWDDDDLL,2,6,2,12,10,10,6,5,9,20,25,LWLLWDDWLDWWDWWDWWWW,1,2,6,6,14,WLDDDDWDDL,WLDWWDWWW
+Metz,Monaco,3-0,/match/metz/monaco/1998,1998,21,ligue_1,18,34,0,3,0,1,11,6,3,31,18,LWLWLDWDWWWWLDWDWDWD,8,0,1,19,5,3,13,2,5,34,18,WDLWLLWLWDWWLLWLWLWW,6,1,3,16,8,WWWWWLWWW,WLWLLDWLLL
+Auxerre,Girondins Bordeaux,4-2,/match/auxerre/bordeaux/1998,1998,21,ligue_1,18,34,0,4,2,8,9,3,8,32,27,WLLWWWWLWWLWLDDWWWWD,6,1,2,21,7,6,8,8,4,24,20,WWDLWWWDWLWLDDDDWDDL,3,3,3,8,11,LWWLWWDWW,WLWDLLDWD
+Bastia,Olympique Lyonnais,0-1,/match/bastia/olympique-lyonnais/1998,1998,21,ligue_1,18,34,2,0,1,7,7,8,5,22,16,LWDDLWWDWWWWDWWDWDDD,5,4,0,15,4,13,8,2,10,23,24,LLLLLWWLLLLWDWDWWWWL,4,1,4,12,9,WDWDWDWWD,LLWLLWDWW
+Olympique,Guingamp,3-0,/match/olympique-marsella/guingamp/1998,1998,21,ligue_1,18,34,0,3,0,4,11,4,5,26,14,WWDLDWWWWWLWDWLWWWDL,8,1,1,19,4,11,6,6,8,19,23,WWDWDLWWWLWLDLWWDDLD,2,2,5,9,15,WWLWWWWWWD,WWLWWDWDL
+Toulouse,Le Havre,1-0,/match/toulouse-fc/havre-ac/1998,1998,22,ligue_1,18,34,0,1,0,9,6,7,8,18,26,WLDWDDWWWWWLDDWLWWDDW,5,4,2,14,11,10,4,10,7,19,23,WWDLWDWDWDWDDWDDDDLLW,1,4,5,6,13,WDDWWWLDLWD,WDWWWWDDDL
+Chateauroux,Auxerre,3-2,/match/berrichonne-chateauroux/auxerre/1998,1998,22,ligue_1,18,34,0,3,2,16,5,5,11,20,34,WDLDLWWWWWWWDWWWWLWDD,5,2,3,13,11,7,10,3,8,36,29,WLLWWWWLWWLWLDDWWWWDW,3,2,6,11,20,LLWWWDWWLD,WLWWWLLDWWD
+Metz,Stade Rennais,1-0,/match/metz/stade-rennes/1998,1998,22,ligue_1,18,34,0,1,0,1,12,6,3,34,18,LWLWLDWDWWWWLDWDWDWDW,9,0,1,22,5,17,4,5,12,21,35,WLDWWDWDWWLDWWLWWWDWL,0,3,8,6,21,WWWWWLWWWW,WDWWDWDWWWW
+Olympique Lyonnais,Olympique,2-1,/match/olympique-lyonnais/olympique-marsella/1998,1998,22,ligue_1,18,34,0,2,1,14,9,2,10,24,24,LLLLLWWLLLLWDWDWWWWLL,4,1,6,11,15,2,12,4,5,29,14,WWDLDWWWWWLWDWLWWWDLW,3,3,4,7,10,LLLWLLDWWWL,DDWWLDLWWL
+Guingamp,Montpellier,1-2,/match/guingamp/montpellier-hsc/1998,1998,22,ligue_1,18,34,2,1,2,12,6,6,9,19,26,WWDWDLWWWLWLDLWWDDLDW,4,4,3,10,8,13,5,9,7,20,23,DWDWDLDLDLLWLWWDWDDDL,2,5,3,7,12,WDDWWLLLWDD,WDDDLLWWDD
+Monaco,Cannes,0-1,/match/monaco/as-cannes/1998,1998,22,ligue_1,18,34,2,0,1,4,13,2,6,34,21,WDLWLLWLWDWWLLWLWLWWW,7,1,2,18,10,18,5,3,13,21,38,WLWLLLWDLWLWDWWWWWLLD,3,0,8,12,25,DLWWWLWWWW,WWLWLWWWWWL
+Girondins Bordeaux,Bastia,2-0,/match/bordeaux/bastia/1998,1998,22,ligue_1,18,34,0,2,0,6,8,8,5,26,24,WWDLWWWDWLWLDDDDWDDLW,5,5,1,16,9,8,7,8,6,22,17,LWDDLWWDWWWWDWWDWDDDL,2,4,5,7,12,WDWWWWDDDDL,LDLWWWWWDDD
+PSG,Strasbourg,2-1,/match/paris-saint-germain-fc/strasbourg/1998,1998,22,ligue_1,18,34,0,2,1,3,12,5,4,34,18,WLWWWLWDDDWLWWLDWWLDL,7,2,1,21,8,15,5,6,10,22,29,DWDLDLWDWWWWWDWDWWLWW,0,4,7,10,21,WWWWDWWLWD,DDDWWWWWDWW
+Nantes,Lens,1-0,/match/nantes/lens/1998,1998,22,ligue_1,18,34,0,1,0,11,6,5,10,20,26,LWLLWDDWLDWWDWWDWWWWW,5,3,3,14,11,5,11,4,6,30,24,WWDLDDWWLWWWWDLWWWLLL,5,0,5,14,16,LLWDLDWWDWW,WLWLWWLWLL
+Olympique,Monaco,1-1,/match/olympique-marsella/monaco/1998,1998,23,ligue_1,18,34,1,1,1,3,12,4,6,30,16,WWDLDWWWWWLWDWLWWWDLWW,9,1,1,22,4,4,13,2,7,34,22,WDLWLLWLWDWWLLWLWLWWWL,6,1,4,16,11,WWLWWWWWWDW,WLWLLDWLLLW
+Cannes,Metz,1-1,/match/as-cannes/metz/1998,1998,23,ligue_1,18,34,1,1,1,18,6,3,13,22,38,WLWLLLWDLWLWDWWWWWLLDL,2,3,5,9,13,1,13,6,3,35,18,LWLWLDWDWWWWLDWDWDWDWW,3,6,2,12,13,LLLDLDWWLD,LLLDDWWDDDD
+Stade Rennais,Chateauroux,3-0,/match/stade-rennes/berrichonne-chateauroux/1998,1998,23,ligue_1,18,34,0,3,0,17,4,5,13,21,36,WLDWWDWDWWLDWWLWWWDWLW,4,2,4,15,14,12,6,5,11,23,36,WDLDLWWWWWWWDWWWWLWDDW,0,3,8,7,23,LWDWLWLWDL,WDDWWWWWWWD
+Strasbourg,Olympique Lyonnais,1-2,/match/strasbourg/olympique-lyonnais/1998,1998,23,ligue_1,18,34,2,1,2,16,5,6,11,23,31,DWDLDLWDWWWWWDWDWWLWWW,5,2,3,12,8,11,10,2,10,26,25,LLLLLWWLLLLWDWDWWWWLLW,5,1,4,13,9,WLLDWWDWLW,LLWLLWDWWL
+Montpellier,Nantes,2-0,/match/montpellier-hsc/nantes/1998,1998,23,ligue_1,18,34,0,2,0,13,6,9,7,22,24,DWDWDLDLDLLWLWWDWDDDLL,3,4,4,13,11,10,7,5,10,21,26,LWLLWDDWLDWWDWWDWWWWWW,1,2,7,6,15,DDWLLLWWDDL,WLDWWDWWWW
+Le Havre,Girondins Bordeaux,0-0,/match/havre-ac/bordeaux/1998,1998,23,ligue_1,18,34,1,0,0,14,4,10,8,19,24,WWDLWDWDWDWDDWDDDDLLWW,3,6,2,13,10,5,9,8,5,28,24,WWDLWWWDWLWLDDDDWDDLWW,3,3,4,10,15,WLDDDDWDDLW,WLWDLLDWDW
+Auxerre,Toulouse,3-1,/match/auxerre/toulouse-fc/1998,1998,23,ligue_1,18,34,0,3,1,7,10,3,9,38,32,WLLWWWWLWWLWLDDWWWWDWW,7,1,2,25,9,8,7,7,8,19,26,WLDWDDWWWWWLDDWLWWDDWW,1,3,6,4,15,LWWLWWDWWW,LWDWWDWWDW
+Lens,Guingamp,1-0,/match/lens/guingamp/1998,1998,23,ligue_1,18,34,0,1,0,6,11,4,7,30,25,WWDLDDWWLWWWWDLWWWLLLW,6,4,1,16,8,15,6,6,10,20,28,WWDWDLWWWLWLDLWWDDLDWL,2,2,6,9,18,WDDDWWWDWWL,WWLWWDWDLW
+Bastia,PSG,2-0,/match/bastia/paris-saint-germain-fc/1998,1998,23,ligue_1,18,34,0,2,0,9,7,8,7,22,19,LWDDLWWDWWWWDWWDWDDDLW,5,4,1,15,5,2,13,5,4,36,19,WLWWWLWDDDWLWWLDWWLDLW,5,3,3,13,10,WDWDWDWWDL,LWLDDLWDWLL
+Stade Rennais,Cannes,2-0,/match/stade-rennes/as-cannes/1998,1998,24,ligue_1,18,34,0,2,0,17,5,5,13,24,36,WLDWWDWDWWLDWWLWWWDWLWW,5,2,4,18,14,18,6,4,13,23,39,WLWLLLWDLWLWDWWWWWLLDLD,4,0,8,13,25,LWDWLWLWDLW,WWLWLWWWWWLL
+Toulouse,Lens,1-2,/match/toulouse-fc/lens/1998,1998,24,ligue_1,18,34,2,1,2,9,7,7,9,20,29,WLDWDDWWWWWLDDWLWWDDWWW,6,4,2,15,11,4,12,4,7,31,25,WWDLDDWWLWWWWDLWWWLLLWW,5,0,6,14,17,WDDWWWLDLWDW,WLWLWWLWLLW
+Chateauroux,Olympique,0-3,/match/berrichonne-chateauroux/olympique-marsella/1998,1998,24,ligue_1,18,34,2,0,3,14,6,5,12,23,39,WDLDLWWWWWWWDWWWWLWDDWW,6,2,3,16,13,2,12,5,6,31,17,WWDLDWWWWWLWDWLWWWDLWWD,3,3,5,8,12,LLWWWDWWLDW,DDWWLDLWWLW
+PSG,Le Havre,0-2,/match/paris-saint-germain-fc/havre-ac/1998,1998,24,ligue_1,18,34,2,0,2,3,13,5,5,36,21,WLWWWLWDDDWLWWLDWWLDLWW,8,2,1,23,9,13,4,11,8,19,24,WWDLWDWDWDWDDWDDDDLLWWD,1,4,6,6,14,WWWWDWWLWDW,WDWWWWDDDLW
+Metz,Bastia,0-1,/match/metz/bastia/1998,1998,24,ligue_1,18,34,2,0,1,1,13,7,3,36,19,LWLWLDWDWWWWLDWDWDWDWWD,10,0,1,23,5,8,8,8,7,24,19,LWDDLWWDWWWWDWWDWDDDLWW,2,4,6,7,14,WWWWWLWWWWW,LDLWWWWWDDDW
+Olympique Lyonnais,Auxerre,1-0,/match/olympique-lyonnais/auxerre/1998,1998,24,ligue_1,18,34,0,1,0,11,11,2,10,28,26,LLLLLWWLLLLWDWDWWWWLLWL,5,1,6,13,16,7,11,3,9,41,33,WLLWWWWLWWLWLDDWWWWDWWW,3,2,7,13,23,LLLWLLDWWWLW,WLWWWLLDWWDW
+Monaco,Montpellier,4-0,/match/monaco/montpellier-hsc/1998,1998,24,ligue_1,18,34,0,4,0,5,13,3,7,35,23,WDLWLLWLWDWWLLWLWLWWWLD,7,1,3,18,11,10,7,9,7,24,24,DWDWDLDLDLLWLWWDWDDDLLW,3,5,3,9,13,DLWWWLWWWWL,WDDDLLWWDDL
+Girondins Bordeaux,Strasbourg,4-4,/match/bordeaux/strasbourg/1998,1998,24,ligue_1,18,34,1,4,4,6,9,9,5,28,24,WWDLWWWDWLWLDDDDWDDLWWD,6,5,1,18,9,16,5,6,12,24,33,DWDLDLWDWWWWWDWDWWLWWWL,0,4,8,11,23,WDWWWWDDDDLW,DDDWWWWWDWWW
+Nantes,Guingamp,2-0,/match/nantes/guingamp/1998,1998,24,ligue_1,18,34,0,2,0,12,7,5,11,21,28,LWLLWDDWLDWWDWWDWWWWWWW,6,3,3,15,11,15,6,6,11,20,29,WWDWDLWWWLWLDLWWDDLDWLW,2,2,7,9,19,LLWDLDWWDWWW,WWLWWDWDLWW
+Strasbourg,Monaco,0-0,/match/strasbourg/monaco/1998,1998,25,ligue_1,18,34,1,0,0,17,5,7,12,28,37,DWDLDLWDWWWWWDWDWWLWWWLD,5,2,4,13,10,5,14,3,7,39,23,WDLWLLWLWDWWLLWLWLWWWLDW,6,2,4,17,12,WLLDWWDWLWL,WLWLLDWLLLWD
+Bastia,Stade Rennais,0-0,/match/bastia/stade-rennes/1998,1998,25,ligue_1,18,34,1,0,0,8,9,8,7,25,19,LWDDLWWDWWWWDWWDWDDDLWWL,6,4,1,17,5,15,6,5,13,26,36,WLDWWDWDWWLDWWLWWWDWLWWW,0,3,9,6,22,WDWDWDWWDLW,WDWWDWDWWWWW
+Montpellier,PSG,2-1,/match/montpellier-hsc/paris-saint-germain-fc/1998,1998,25,ligue_1,18,34,0,2,1,12,7,9,8,24,28,DWDWDLDLDLLWLWWDWDDDLLWW,4,4,4,15,11,3,13,5,6,36,23,WLWWWLWDDDWLWWLDWWLDLWWL,5,3,4,13,12,DDWLLLWWDDLW,LWLDDLWDWLLW
+Olympique,Girondins Bordeaux,1-0,/match/olympique-marsella/bordeaux/1998,1998,25,ligue_1,18,34,0,1,0,2,13,5,6,34,17,WWDLDWWWWWLWDWLWWWDLWWDL,9,2,1,23,5,6,9,10,5,32,28,WWDLWWWDWLWLDDDDWDDLWWDD,3,4,4,10,15,WWLWWWWWWDWD,WLWDLLDWDWD
+Auxerre,Metz,0-0,/match/auxerre/metz/1998,1998,25,ligue_1,18,34,1,0,0,7,11,3,10,41,34,WLLWWWWLWWLWLDDWWWWDWWWW,8,1,2,28,10,1,13,7,4,36,20,LWLWLDWDWWWWLDWDWDWDWWDL,3,7,2,13,14,LWWLWWDWWWW,LLLDDWWDDDDD
+Lens,Olympique Lyonnais,3-0,/match/lens/olympique-lyonnais/1998,1998,25,ligue_1,18,34,0,3,0,4,13,4,7,33,26,WWDLDDWWLWWWWDLWWWLLLWWL,7,4,1,17,8,9,12,2,10,29,26,LLLLLWWLLLLWDWDWWWWLLWLW,6,1,4,15,10,WDDDWWWDWWLW,LLWLLWDWWLL
+Guingamp,Toulouse,2-0,/match/guingamp/toulouse-fc/1998,1998,25,ligue_1,18,34,0,2,0,16,6,6,12,20,31,WWDWDLWWWLWLDLWWDDLDWLWW,4,4,4,11,10,11,7,7,10,21,31,WLDWDDWWWWWLDDWLWWDDWWWL,1,3,7,5,18,WDDWWLLLWDDL,LWDWWDWWDWW
+Cannes,Nantes,2-3,/match/as-cannes/nantes/1998,1998,25,ligue_1,18,34,2,2,3,18,6,4,14,23,41,WLWLLLWDLWLWDWWWWWLLDLDW,2,4,5,10,14,10,8,5,11,23,28,LWLLWDDWLDWWDWWDWWWWWWWW,1,2,8,6,17,LLLDLDWWLDD,WLDWWDWWWWW
+Le Havre,Chateauroux,5-0,/match/havre-ac/berrichonne-chateauroux/1998,1998,25,ligue_1,18,34,0,5,0,13,5,11,8,21,24,WWDLWDWDWDWDDWDDDDLLWWDL,3,7,2,13,10,14,6,5,13,23,42,WDLDLWWWWWWWDWWWWLWDDWWL,0,3,9,7,26,WLDDDDWDDLWD,WDDWWWWWWWDW
+Stade Rennais,Auxerre,1-1,/match/stade-rennes/auxerre/1998,1998,26,ligue_1,18,34,1,1,1,15,6,6,13,26,36,WLDWWDWDWWLDWWLWWWDWLWWWD,6,2,4,20,14,7,11,4,10,41,34,WLLWWWWLWWLWLDDWWWWDWWWWD,3,2,8,13,24,LWDWLWLWDLWW,WLWWWLLDWWDWW
+Chateauroux,Lens,2-1,/match/berrichonne-chateauroux/lens/1998,1998,26,ligue_1,18,34,0,2,1,16,6,5,14,23,47,WDLDLWWWWWWWDWWWWLWDDWWLW,6,2,4,16,16,3,14,4,7,36,26,WWDLDDWWLWWWWDLWWWLLLWWLW,6,0,6,16,18,LLWWWDWWLDWL,WLWLWWLWLLWL
+Toulouse,Olympique,0-4,/match/toulouse-fc/olympique-marsella/1998,1998,26,ligue_1,18,34,2,0,4,13,7,7,11,21,33,WLDWDDWWWWWLDDWLWWDDWWWLW,6,4,3,16,13,1,14,5,6,35,17,WWDLDWWWWWLWDWLWWWDLWWDLW,4,3,5,11,12,WDDWWWLDLWDWL,DDWWLDLWWLWL
+PSG,Nantes,0-1,/match/paris-saint-germain-fc/nantes/1998,1998,26,ligue_1,18,34,2,0,1,4,13,5,7,37,25,WLWWWLWDDDWLWWLDWWLDLWWLW,8,2,2,23,11,9,9,5,11,26,30,LWLLWDDWLDWWDWWDWWWWWWWWL,2,2,8,9,19,WWWWDWWLWDWL,WLDWWDWWWWWL
+Metz,Strasbourg,1-0,/match/metz/strasbourg/1998,1998,26,ligue_1,18,34,0,1,0,2,13,8,4,36,20,LWLWLDWDWWWWLDWDWDWDWWDLD,10,0,2,23,6,17,5,8,12,28,37,DWDLDLWDWWWWWDWDWWLWWWLDD,0,5,8,15,27,WWWWWLWWWWWL,DDDWWWWWDWWWD
+Olympique Lyonnais,Guingamp,1-0,/match/olympique-lyonnais/guingamp/1998,1998,26,ligue_1,18,34,0,1,0,10,12,2,11,29,29,LLLLLWWLLLLWDWDWWWWLLWLWW,6,1,6,14,16,14,7,6,12,22,31,WWDWDLWWWLWLDLWWDDLDWLWWW,2,2,8,9,21,LLLWLLDWWWLWW,WWLWWDWDLWWW
+Cannes,Bastia,1-1,/match/as-cannes/bastia/1998,1998,26,ligue_1,18,34,1,1,1,18,6,4,15,25,44,WLWLLLWDLWLWDWWWWWLLDLDWL,2,4,6,12,17,8,9,9,7,25,19,LWDDLWWDWWWWDWWDWDDDLWWLD,3,4,6,8,14,LLLDLDWWLDDL,LDLWWWWWDDDWL
+Monaco,Le Havre,2-0,/match/monaco/havre-ac/1998,1998,26,ligue_1,18,34,0,2,0,5,14,4,7,39,23,WDLWLLWLWDWWLLWLWLWWWLDWD,8,1,3,22,11,12,6,11,8,26,24,WWDLWDWDWDWDDWDDDDLLWWDLW,2,4,6,8,14,DLWWWLWWWWLW,WDWWWWDDDLWL
+Girondins Bordeaux,Montpellier,3-1,/match/bordeaux/montpellier-hsc/1998,1998,26,ligue_1,18,34,0,3,1,6,9,10,6,32,29,WWDLWWWDWLWLDDDDWDDLWWDDW,6,6,1,22,13,11,8,9,8,26,29,DWDWDLDLDLLWLWWDWDDDLLWWW,3,5,4,9,17,WDWWWWDDDDLWD,WDDDLLWWDDLW
+Strasbourg,Chateauroux,2-0,/match/strasbourg/berrichonne-chateauroux/1998,1998,27,ligue_1,18,34,0,2,0,17,5,8,13,28,38,DWDLDLWDWWWWWDWDWWLWWWLDDW,5,3,4,13,10,14,7,5,14,25,48,WDLDLWWWWWWWDWWWWLWDDWWLWW,0,3,10,7,31,WLLDWWDWLWLD,WDDWWWWWWWDWW
+Bastia,Monaco,1-0,/match/bastia/monaco/1998,1998,27,ligue_1,18,34,0,1,0,8,9,10,7,26,20,LWDDLWWDWWWWDWWDWDDDLWWLDD,6,5,1,17,5,3,15,4,7,41,23,WDLWLLWLWDWWLLWLWLWWWLDWDW,6,3,4,17,12,WDWDWDWWDLWD,WLWLLDWLLLWDD
+Le Havre,Metz,2-1,/match/havre-ac/metz/1998,1998,27,ligue_1,18,34,0,2,1,12,6,11,9,26,26,WWDLWDWDWDWDDWDDDDLLWWDLWW,4,7,2,18,10,1,14,8,4,37,20,LWLWLDWDWWWWLDWDWDWDWWDLDW,3,8,2,13,14,WLDDDDWDDLWDW,LLLDDWWDDDDDD
+Lens,Girondins Bordeaux,1-0,/match/lens/bordeaux/1998,1998,27,ligue_1,18,34,0,1,0,4,14,4,8,37,28,WWDLDDWWLWWWWDLWWWLLLWWLWW,8,4,1,20,8,5,10,10,6,35,30,WWDLWWWDWLWLDDDDWDDLWWDDWW,3,4,5,10,16,WDDDWWWDWWLWW,WLWDLLDWDWDW
+Montpellier,Olympique Lyonnais,1-1,/match/montpellier-hsc/olympique-lyonnais/1998,1998,27,ligue_1,18,34,1,1,1,11,8,9,9,27,32,DWDWDLDLDLLWLWWDWDDDLLWWWW,5,4,4,17,12,9,13,2,11,30,29,LLLLLWWLLLLWDWDWWWWLLWLWWW,6,1,5,15,13,DDWLLLWWDDLWW,LLWLLWDWWLLW
+Olympique,Stade Rennais,0-1,/match/olympique-marsella/stade-rennes/1998,1998,27,ligue_1,18,34,2,0,1,2,15,5,6,39,17,WWDLDWWWWWLWDWLWWWDLWWDLWL,10,2,1,24,5,16,6,7,13,27,37,WLDWWDWDWWLDWWLWWWDWLWWWDD,0,4,9,6,22,WWLWWWWWWDWDW,WDWWDWDWWWWWD
+Auxerre,Cannes,1-1,/match/auxerre/as-cannes/1998,1998,27,ligue_1,18,34,1,1,1,7,11,5,10,42,35,WLLWWWWLWWLWLDDWWWWDWWWWDD,8,2,2,28,10,18,6,5,15,26,45,WLWLLLWDLWLWDWWWWWLLDLDWLD,4,0,9,13,27,LWWLWWDWWWWD,WWLWLWWWWWLLW
+Guingamp,PSG,0-0,/match/guingamp/paris-saint-germain-fc/1998,1998,27,ligue_1,18,34,1,0,0,15,7,6,13,22,32,WWDWDLWWWLWLDLWWDDLDWLWWWW,5,4,4,13,10,6,13,5,8,37,26,WLWWWLWDDDWLWWLDWWLDLWWLWL,5,3,5,14,14,WDDWWLLLWDDLW,LWLDDLWDWLLWW
+Nantes,Toulouse,0-1,/match/nantes/toulouse-fc/1998,1998,27,ligue_1,18,34,2,0,1,10,10,5,11,27,30,LWLLWDDWLDWWDWWDWWWWWWWWLL,7,3,3,17,11,13,7,7,12,21,37,WLDWDDWWWWWLDDWLWWDDWWWLWL,1,3,8,5,20,LLWDLDWWDWWWW,LWDWWDWWDWWW
+Stade Rennais,Le Havre,2-2,/match/stade-rennes/havre-ac/1998,1998,28,ligue_1,18,34,1,2,2,15,7,7,13,28,37,WLDWWDWDWWLDWWLWWWDWLWWWDDL,6,3,4,21,15,10,7,11,9,28,27,WWDLWDWDWDWDDWDDDDLLWWDLWWW,2,4,7,8,16,LWDWLWLWDLWWD,WDWWWWDDDLWLW
+Chateauroux,Montpellier,0-1,/match/berrichonne-chateauroux/montpellier-hsc/1998,1998,28,ligue_1,18,34,2,0,1,16,7,5,15,25,50,WDLDLWWWWWWWDWWWWLWDDWWLWWW,7,2,4,18,17,12,8,10,9,28,33,DWDWDLDLDLLWLWWDWDDDLLWWWWD,3,5,5,10,20,LLWWWDWWLDWLW,WDDDLLWWDDLWW
+PSG,Toulouse,1-1,/match/paris-saint-germain-fc/toulouse-fc/1998,1998,28,ligue_1,18,34,1,1,1,6,13,6,8,37,26,WLWWWLWDDDWLWWLDWWLDLWWLWLD,8,2,3,23,12,13,8,7,12,22,37,WLDWDDWWWWWLDDWLWWDDWWWLWLL,2,3,8,6,20,WWWWDWWLWDWLL,LWDWWDWWDWWWL
+Metz,Olympique,3-2,/match/metz/olympique-marsella/1998,1998,28,ligue_1,18,34,0,3,2,1,14,8,5,38,22,LWLWLDWDWWWWLDWDWDWDWWDLDWW,11,0,2,24,6,2,15,5,7,39,18,WWDLDWWWWWLWDWLWWWDLWWDLWLL,5,3,5,15,12,WWWWWLWWWWWLW,DDWWLDLWWLWLL
+Olympique Lyonnais,Nantes,0-0,/match/olympique-lyonnais/nantes/1998,1998,28,ligue_1,18,34,1,0,0,9,13,3,11,31,30,LLLLLWWLLLLWDWDWWWWLLWLWWWD,7,1,6,15,16,11,10,5,12,27,31,LWLLWDDWLDWWDWWDWWWWWWWWLLL,3,2,8,10,19,LLLWLLDWWWLWWW,WLDWWDWWWWWLL
+Cannes,Strasbourg,1-0,/match/as-cannes/strasbourg/1998,1998,28,ligue_1,18,34,0,1,0,18,6,6,15,27,46,WLWLLLWDLWLWDWWWWWLLDLDWLDD,2,5,6,13,18,17,6,8,13,30,38,DWDLDLWDWWWWWDWDWWLWWWLDDWW,0,5,9,15,28,LLLDLDWWLDDLD,DDDWWWWWDWWWDW
+Monaco,Lens,0-1,/match/monaco/lens/1998,1998,28,ligue_1,18,34,2,0,1,4,15,4,8,41,24,WDLWLLWLWDWWLLWLWLWWWLDWDWW,9,1,3,24,11,3,15,4,8,38,28,WWDLDDWWLWWWWDLWWWLLLWWLWWW,6,0,7,17,20,DLWWWLWWWWLWW,WLWLWWLWLLWLW
+Girondins Bordeaux,Guingamp,4-2,/match/bordeaux/guingamp/1998,1998,28,ligue_1,18,34,0,4,2,5,10,10,7,35,31,WWDLWWWDWLWLDDDDWDDLWWDDWWW,7,6,1,25,14,14,7,7,13,22,32,WWDWDLWWWLWLDLWWDDLDWLWWWWD,2,2,9,9,22,WDWWWWDDDDLWDW,WWLWWDWDLWWWW
+Bastia,Auxerre,1-2,/match/bastia/auxerre/1998,1998,28,ligue_1,18,34,2,1,2,7,10,10,7,27,20,LWDDLWWDWWWWDWWDWDDDLWWLDDW,7,5,1,18,5,8,11,6,10,43,36,WLLWWWWLWWLWLDDWWWWDWWWWDDD,3,3,8,14,25,WDWDWDWWDLWDW,WLWWWLLDWWDWWD
+Montpellier,Metz,0-1,/match/montpellier-hsc/metz/1998,1998,29,ligue_1,18,34,2,0,1,10,9,10,9,29,33,DWDWDLDLDLLWLWWDWDDDLLWWWWDL,5,5,4,18,13,1,15,8,5,41,24,LWLWLDWDWWWWLDWDWDWDWWDLDWWW,3,8,3,14,16,DDWLLLWWDDLWWD,LLLDDWWDDDDDDW
+Le Havre,Cannes,2-0,/match/havre-ac/as-cannes/1998,1998,29,ligue_1,18,34,0,2,0,11,7,12,9,30,29,WWDLWDWDWDWDDWDDDDLLWWDLWWWD,5,7,2,20,11,18,7,6,15,28,46,WLWLLLWDLWLWDWWWWWLLDLDWLDDW,4,1,9,14,28,WLDDDDWDDLWDWW,WWLWLWWWWWLLWD
+Auxerre,Monaco,3-1,/match/auxerre/monaco/1998,1998,29,ligue_1,18,34,0,3,1,8,12,6,10,45,37,WLLWWWWLWWLWLDDWWWWDWWWWDDDL,8,3,2,29,11,5,15,4,9,41,25,WDLWLLWLWDWWLLWLWLWWWLDWDWWL,6,3,5,17,13,LWWLWWDWWWWDD,WLWLLDWLLLWDDW
+Guingamp,Chateauroux,0-0,/match/guingamp/berrichonne-chateauroux/1998,1998,29,ligue_1,18,34,1,0,0,15,7,7,14,24,36,WWDWDLWWWLWLDLWWDDLDWLWWWWDW,5,5,4,13,10,16,7,5,16,25,51,WDLDLWWWWWWWDWWWWLWDDWWLWWWL,0,3,11,7,33,WDDWWLLLWDDLWD,WDDWWWWWWWDWWW
+Nantes,Girondins Bordeaux,1-2,/match/nantes/bordeaux/1998,1998,29,ligue_1,18,34,2,1,2,12,10,6,12,27,31,LWLLWDDWLDWWDWWDWWWWWWWWLLLD,7,3,4,17,12,4,11,10,7,39,33,WWDLWWWDWLWLDDDDWDDLWWDDWWWW,3,4,6,10,17,LLWDLDWWDWWWWL,WLWDLLDWDWDWW
+Strasbourg,Stade Rennais,3-1,/match/strasbourg/stade-rennes/1998,1998,29,ligue_1,18,34,0,3,1,17,6,8,14,30,39,DWDLDLWDWWWWWDWDWWLWWWLDDWWW,6,3,4,15,10,14,7,8,13,30,39,WLDWWDWDWWLDWWLWWWDWLWWWDDLD,1,4,9,7,22,WLLDWWDWLWLDW,WDWWDWDWWWWWDL
+Toulouse,Olympique Lyonnais,0-2,/match/toulouse-fc/olympique-lyonnais/1998,1998,29,ligue_1,18,34,2,0,2,13,8,8,12,23,38,WLDWDDWWWWWLDDWLWWDDWWWLWLLD,6,4,4,16,17,9,13,4,11,31,30,LLLLLWWLLLLWDWDWWWWLLWLWWWDD,6,2,5,16,14,WDDWWWLDLWDWLL,LLWLLWDWWLLWD
+Lens,PSG,3-0,/match/lens/paris-saint-germain-fc/1998,1998,29,ligue_1,18,34,0,3,0,2,16,4,8,39,28,WWDLDDWWLWWWWDLWWWLLLWWLWWWL,9,4,1,21,8,6,13,7,8,38,27,WLWWWLWDDDWLWWLDWWLDLWWLWLDD,5,4,5,14,14,WDDDWWWDWWLWWW,LWLDDLWDWLLWWD
+Olympique,Bastia,1-0,/match/olympique-marsella/bastia/1998,1998,29,ligue_1,18,34,0,1,0,3,15,5,8,41,21,WWDLDWWWWWLWDWLWWWDLWWDLWLLW,10,2,2,24,6,7,10,10,8,28,22,LWDDLWWDWWWWDWWDWDDDLWWLDDWL,3,5,6,9,15,WWLWWWWWWDWDWL,LDLWWWWWDDDWLD
+Bastia,Le Havre,2-0,/match/bastia/havre-ac/1998,1998,30,ligue_1,18,34,0,2,0,8,10,10,9,28,23,LWDDLWWDWWWWDWWDWDDDLWWLDDWLW,7,5,2,19,7,10,8,12,9,32,29,WWDLWDWDWDWDDWDDDDLLWWDLWWWDW,2,5,7,10,18,WDWDWDWWDLWDWL,WDWWWWDDDLWLWD
+Girondins Bordeaux,Toulouse,3-1,/match/bordeaux/toulouse-fc/1998,1998,30,ligue_1,18,34,0,3,1,4,12,10,7,41,34,WWDLWWWDWLWLDDDDWDDLWWDDWWWWL,8,6,1,29,16,13,8,8,13,23,40,WLDWDDWWWWWLDDWLWWDDWWWLWLLDL,2,4,8,7,21,WDWWWWDDDDLWDWW,LWDWWDWWDWWWLD
+Monaco,Guingamp,1-0,/match/monaco/guingamp/1998,1998,30,ligue_1,18,34,0,1,0,5,15,4,10,42,28,WDLWLLWLWDWWLLWLWLWWWLDWDWWLW,9,1,4,24,12,16,7,8,14,24,36,WWDWDLWWWLWLDLWWDDLDWLWWWWDWD,2,2,10,11,26,DLWWWLWWWWLWWL,WWLWWDWDLWWWWW
+PSG,Olympique Lyonnais,3-0,/match/paris-saint-germain-fc/olympique-lyonnais/1998,1998,30,ligue_1,18,34,0,3,0,7,13,7,9,38,30,WLWWWLWDDDWLWWLDWWLDLWWLWLDDW,8,3,3,24,13,9,14,4,11,33,30,LLLLLWWLLLLWDWDWWWWLLWLWWWDDL,7,2,5,18,14,WWWWDWWLWDWLLD,LLWLLWDWWLLWDL
+Chateauroux,Nantes,1-2,/match/berrichonne-chateauroux/nantes/1998,1998,30,ligue_1,18,34,2,1,2,17,7,6,16,25,51,WDLDLWWWWWWWDWWWWLWDDWWLWWWLD,7,2,5,18,18,11,10,6,13,28,33,LWLLWDDWLDWWDWWDWWWWWWWWLLLDL,3,3,8,10,19,LLWWWDWWLDWLWL,WLDWWDWWWWWLLD
+Stade Rennais,Montpellier,2-0,/match/stade-rennes/montpellier-hsc/1998,1998,30,ligue_1,18,34,0,2,0,15,7,8,14,31,42,WLDWWDWDWWLDWWLWWWDWLWWWDDLDW,6,4,4,23,17,12,9,10,10,29,34,DWDWDLDLDLLWLWWDWDDDLLWWWWDLL,4,5,5,11,20,LWDWLWLWDLWWDD,WDDDLLWWDDLWWL
+Auxerre,Strasbourg,1-2,/match/auxerre/strasbourg/1998,1998,30,ligue_1,18,34,2,1,2,6,13,6,10,48,38,WLLWWWWLWWLWLDDWWWWDWWWWDDDLW,9,3,2,32,12,14,7,8,14,33,40,DWDLDLWDWWWWWDWDWWLWWWLDDWWWW,0,5,10,15,29,LWWLWWDWWWWDDW,DDDWWWWWDWWWDWW
+Cannes,Olympique,3-3,/match/as-cannes/olympique-marsella/1998,1998,30,ligue_1,18,34,1,3,3,18,7,6,16,28,48,WLWLLLWDLWLWDWWWWWLLDLDWLDDWW,3,5,6,14,18,3,16,5,8,42,21,WWDLDWWWWWLWDWLWWWDLWWDLWLLWW,5,3,6,17,15,LLLDLDWWLDDLDW,DDWWLDLWWLWLLW
+Metz,Lens,0-2,/match/metz/lens/1998,1998,30,ligue_1,18,34,2,0,2,1,16,8,5,42,24,LWLWLDWDWWWWLDWDWDWDWWDLDWWWL,12,0,2,27,8,2,17,4,8,42,28,WWDLDDWWLWWWWDLWWWLLLWWLWWWLW,7,0,7,18,20,WWWWWLWWWWWLWW,WLWLWWLWLLWLWL
+Nantes,Monaco,1-1,/match/nantes/monaco/1998,1998,31,ligue_1,18,34,1,1,1,11,11,6,13,30,34,LWLLWDDWLDWWDWWDWWWWWWWWLLLDLL,7,3,5,18,14,5,16,4,10,43,28,WDLWLLWLWDWWLLWLWLWWWLDWDWWLWW,6,3,6,18,16,LLWDLDWWDWWWWLL,WLWLLDWLLLWDDWW
+Lens,Stade Rennais,3-0,/match/lens/stade-rennes/1998,1998,31,ligue_1,18,34,0,3,0,2,18,4,8,44,28,WWDLDDWWLWWWWDLWWWLLLWWLWWWLWL,10,4,1,24,8,13,8,8,14,33,42,WLDWWDWDWWLDWWLWWWDWLWWWDDLDWW,1,4,10,8,25,WDDDWWWDWWLWWWW,WDWWDWDWWWWWDLW
+Olympique Lyonnais,Girondins Bordeaux,1-1,/match/olympique-lyonnais/bordeaux/1998,1998,31,ligue_1,18,34,1,1,1,9,14,4,12,33,33,LLLLLWWLLLLWDWDWWWWLLWLWWWDDLW,7,2,6,15,16,4,13,10,7,44,35,WWDLWWWDWLWLDDDDWDDLWWDDWWWWLW,4,4,6,12,18,LLLWLLDWWWLWWWD,WLWDLLDWDWDWWL
+Le Havre,Auxerre,2-2,/match/havre-ac/auxerre/1998,1998,31,ligue_1,18,34,1,2,2,10,8,12,10,32,31,WWDLWDWDWDWDDWDDDDLLWWDLWWWDWW,6,7,2,22,11,7,13,6,11,49,40,WLLWWWWLWWLWLDDWWWWDWWWWDDDLWL,4,3,8,16,26,WLDDDDWDDLWDWWW,WLWWWLLDWWDWWDL
+Montpellier,Cannes,1-0,/match/montpellier-hsc/as-cannes/1998,1998,31,ligue_1,18,34,0,1,0,12,9,10,11,29,36,DWDWDLDLDLLWLWWDWDDDLLWWWWDLLW,5,5,5,18,14,18,7,7,16,31,51,WLWLLLWDLWLWDWWWWWLLDLDWLDDWWD,4,1,10,14,30,DDWLLLWWDDLWWDL,WWLWLWWWWWLLWDW
+Strasbourg,Bastia,1-1,/match/strasbourg/bastia/1998,1998,31,ligue_1,18,34,1,1,1,14,8,8,14,35,41,DWDLDLWDWWWWWDWDWWLWWWLDDWWWWL,7,3,4,18,11,8,11,10,9,30,23,LWDDLWWDWWWWDWWDWDDDLWWLDDWLWW,3,5,7,9,16,WLLDWWDWLWLDWW,LDLWWWWWDDDWLDW
+Toulouse,Chateauroux,1-1,/match/toulouse-fc/berrichonne-chateauroux/1998,1998,31,ligue_1,18,34,1,1,1,15,8,8,14,24,43,WLDWDDWWWWWLDDWLWWDDWWWLWLLDLW,6,4,5,16,19,17,7,6,17,26,53,WDLDLWWWWWWWDWWWWLWDDWWLWWWLDL,0,4,11,7,33,WDDWWWLDLWDWLLL,WDDWWWWWWWDWWWD
+Olympique,PSG,0-0,/match/olympique-marsella/paris-saint-germain-fc/1998,1998,31,ligue_1,18,34,1,0,0,3,16,6,8,45,24,WWDLDWWWWWLWDWLWWWDLWWDLWLLWWD,11,2,2,25,6,6,14,7,9,41,30,WLWWWLWDDDWLWWLDWWLDLWWLWLDDWW,5,4,6,14,17,WWLWWWWWWDWDWLW,LWLDDLWDWLLWWDW
+Guingamp,Metz,0-1,/match/guingamp/metz/1998,1998,31,ligue_1,18,34,2,0,1,16,7,8,15,24,37,WWDWDLWWWLWLDLWWDDLDWLWWWWDWDW,5,6,4,13,10,1,16,8,6,42,26,LWLWLDWDWWWWLDWDWDWDWWDLDWWWLL,4,8,3,15,16,WDDWWLLLWDDLWDD,LLLDDWWDDDDDDWL
+Metz,Nantes,3-2,/match/metz/nantes/1998,1998,32,ligue_1,18,34,0,3,2,2,17,8,6,43,26,LWLWLDWDWWWWLDWDWDWDWWDLDWWWLLL,12,0,3,27,10,11,11,7,13,31,35,LWLLWDDWLDWWDWWDWWWWWWWWLLLDLLD,4,3,8,12,20,WWWWWLWWWWWLWWL,WLDWWDWWWWWLLDL
+Cannes,Lens,0-2,/match/as-cannes/lens/1998,1998,32,ligue_1,18,34,2,0,2,18,7,7,17,31,52,WLWLLLWDLWLWDWWWWWLLDLDWLDDWWDW,3,6,6,17,21,1,19,4,8,47,28,WWDLDDWWLWWWWDLWWWLLLWWLWWWLWLW,8,0,7,20,20,LLLDLDWWLDDLDWD,WLWLWWLWLLWLWLL
+Monaco,Toulouse,0-1,/match/monaco/toulouse-fc/1998,1998,32,ligue_1,18,34,2,0,1,5,16,5,10,44,29,WDLWLLWLWDWWLLWLWLWWWLDWDWWLWWD,10,1,4,25,12,15,8,9,14,25,44,WLDWDDWWWWWLDDWLWWDDWWWLWLLDLWD,2,4,9,8,24,DLWWWLWWWWLWWLW,LWDWWDWWDWWWLDW
+Auxerre,Olympique,2-1,/match/auxerre/olympique-marsella/1998,1998,32,ligue_1,18,34,0,2,1,7,13,7,11,51,42,WLLWWWWLWWLWLDDWWWWDWWWWDDDLWLD,9,3,3,33,14,3,16,7,8,45,24,WWDLDWWWWWLWDWLWWWDLWWDLWLLWWDD,5,4,6,20,18,LWWLWWDWWWWDDWL,DDWWLDLWWLWLLWD
+Strasbourg,Le Havre,0-1,/match/strasbourg/havre-ac/1998,1998,32,ligue_1,18,34,2,0,1,13,8,9,14,36,42,DWDLDLWDWWWWWDWDWWLWWWLDDWWWWLD,7,4,4,19,12,10,8,13,10,34,33,WWDLWDWDWDWDDWDDDDLLWWDLWWWDWWD,2,5,8,10,20,WLLDWWDWLWLDWWD,WDWWWWDDDLWLWDW
+PSG,Girondins Bordeaux,0-1,/match/paris-saint-germain-fc/bordeaux/1998,1998,32,ligue_1,18,34,2,0,1,6,14,8,9,41,30,WLWWWLWDDDWLWWLDWWLDLWWLWLDDWWD,9,3,3,27,13,4,13,11,7,45,36,WWDLWWWDWLWLDDDDWDDLWWDDWWWWLWD,4,5,6,13,19,WWWWDWWLWDWLLDW,WLWDLLDWDWDWWLD
+Chateauroux,Olympique Lyonnais,2-3,/match/berrichonne-chateauroux/olympique-lyonnais/1998,1998,32,ligue_1,18,34,2,2,3,17,7,7,17,27,54,WDLDLWWWWWWWDWWWWLWDDWWLWWWLDLD,7,2,6,19,20,9,14,5,12,34,34,LLLLLWWLLLLWDWDWWWWLLWLWWWDDLWD,7,2,6,18,17,LLWWWDWWLDWLWLL,LLWLLWDWWLLWDLW
+Stade Rennais,Guingamp,1-2,/match/stade-rennes/guingamp/1998,1998,32,ligue_1,18,34,2,1,2,14,8,8,15,33,45,WLDWWDWDWWLDWWLWWWDWLWWWDDLDWWW,7,4,4,25,17,16,7,8,16,24,38,WWDWDLWWWLWLDLWWDDLDWLWWWWDWDWL,2,2,11,11,27,LWDWLWLWDLWWDDW,WWLWWDWDLWWWWWW
+Bastia,Montpellier,2-1,/match/bastia/montpellier-hsc/1998,1998,32,ligue_1,18,34,0,2,1,8,11,11,9,31,24,LWDDLWWDWWWWDWWDWDDDLWWLDDWLWWD,8,5,2,21,7,12,10,10,11,30,36,DWDWDLDLDLLWLWWDWDDDLLWWWWDLLWW,4,5,6,11,22,WDWDWDWWDLWDWLW,WDDDLLWWDDLWWLW
+Nantes,Stade Rennais,1-1,/match/nantes/stade-rennes/1998,1998,33,ligue_1,18,34,1,1,1,11,11,7,14,33,38,LWLLWDDWLDWWDWWDWWWWWWWWLLLDLLDW,7,4,5,19,15,15,8,8,16,34,47,WLDWWDWDWWLDWWLWWWDWLWWWDDLDWWWL,1,4,11,8,28,LLWDLDWWDWWWWLLD,WDWWDWDWWWWWDLWW
+Girondins Bordeaux,Chateauroux,1-0,/match/bordeaux/berrichonne-chateauroux/1998,1998,33,ligue_1,18,34,0,1,0,4,14,11,7,46,36,WWDLWWWDWLWLDDDDWDDLWWDDWWWWLWDL,9,6,1,32,17,17,7,7,18,29,57,WDLDLWWWWWWWDWWWWLWDDWWLWWWLDLDL,0,5,11,8,34,WDWWWWDDDDLWDWWW,WDDWWWWWWWDWWWDD
+Guingamp,Le Havre,1-2,/match/guingamp/havre-ac/1998,1998,33,ligue_1,18,34,2,1,2,16,8,8,16,26,39,WWDWDLWWWLWLDLWWDDLDWLWWWWDWDWLL,5,6,5,13,11,10,9,13,10,35,33,WWDLWDWDWDWDDWDDDDLLWWDLWWWDWWDL,3,5,8,11,20,WDDWWLLLWDDLWDDL,WDWWWWDDDLWLWDWL
+Lens,Bastia,5-1,/match/lens/bastia/1998,1998,33,ligue_1,18,34,0,5,1,1,20,4,8,49,28,WWDLDDWWLWWWWDLWWWLLLWWLWWWLWLWL,11,4,1,27,8,7,12,11,9,33,25,LWDDLWWDWWWWDWWDWDDDLWWLDDWLWWDW,3,6,7,10,17,WDDDWWWDWWLWWWWW,LDLWWWWWDDDWLDWD
+Olympique Lyonnais,Cannes,2-0,/match/olympique-lyonnais/as-cannes/1998,1998,33,ligue_1,18,34,0,2,0,9,15,5,12,37,36,LLLLLWWLLLLWDWDWWWWLLWLWWWDDLWDL,7,3,6,16,17,18,7,7,18,31,54,WLWLLLWDLWLWDWWWWWLLDLDWLDDWWDWL,4,1,11,14,31,LLLWLLDWWWLWWWDD,WWLWLWWWWWLLWDWW
+Olympique,Strasbourg,0-0,/match/olympique-marsella/strasbourg/1998,1998,33,ligue_1,18,34,1,0,0,3,16,7,9,46,26,WWDLDWWWWWLWDWLWWWDLWWDLWLLWWDDW,11,3,2,25,6,14,8,9,15,36,43,DWDLDLWDWWWWWDWDWWLWWWLDDWWWWLDL,1,5,10,17,30,WWLWWWWWWDWDWLWD,DDDWWWWWDWWWDWWL
+Montpellier,Auxerre,1-1,/match/montpellier-hsc/auxerre/1998,1998,33,ligue_1,18,34,1,1,1,12,10,10,12,31,38,DWDWDLDLDLLWLWWDWDDDLLWWWWDLLWWW,6,5,5,19,14,6,14,7,11,53,43,WLLWWWWLWWLWLDDWWWWDWWWWDDDLWLDW,4,4,8,18,28,DDWLLLWWDDLWWDLW,WLWWWLLDWWDWWDLD
+PSG,Monaco,1-2,/match/paris-saint-germain-fc/monaco/1998,1998,33,ligue_1,18,34,2,1,2,8,14,8,10,41,31,WLWWWLWDDDWLWWLDWWLDLWWLWLDDWWDL,9,3,4,27,14,5,16,5,11,44,30,WDLWLLWLWDWWLLWLWLWWWLDWDWWLWWDL,6,4,6,19,17,WWWWDWWLWDWLLDWL,WLWLLDWLLLWDDWWD
+Toulouse,Metz,0-1,/match/toulouse-fc/metz/1998,1998,33,ligue_1,18,34,2,0,1,13,9,9,14,26,44,WLDWDDWWWWWLDDWLWWDDWWWLWLLDLWDL,6,5,5,17,20,2,18,8,6,46,28,LWLWLDWDWWWWLDWDWDWDWWDLDWWWLLLW,5,8,3,16,16,WDDWWWLDLWDWLLLD,LLLDDWWDDDDDDWLL
+Bastia,Nantes,2-1,/match/bastia/nantes/1998,1998,34,ligue_1,18,34,0,2,1,7,12,11,10,34,30,LWDDLWWDWWWWDWWDWDDDLWWLDDWLWWDWW,9,5,2,23,8,11,11,8,14,34,39,LWLLWDDWLDWWDWWDWWWWWWWWLLLDLLDWD,4,3,9,14,23,WDWDWDWWDLWDWLWW,WLDWWDWWWWWLLDLW
+Monaco,Girondins Bordeaux,5-2,/match/monaco/bordeaux/1998,1998,34,ligue_1,18,34,0,5,2,5,17,5,11,46,31,WDLWLLWLWDWWLLWLWLWWWLDWDWWLWWDLL,10,1,5,25,13,3,15,11,7,47,36,WWDLWWWDWLWLDDDDWDDLWWDDWWWWLWDLW,5,5,6,14,19,DLWWWLWWWWLWWLWL,WLWDLLDWDWDWWLDL
+Cannes,Guingamp,1-3,/match/as-cannes/guingamp/1998,1998,34,ligue_1,18,34,2,1,3,18,7,7,19,31,56,WLWLLLWDLWLWDWWWWWLLDLDWLDDWWDWLW,3,6,7,17,23,16,8,8,17,27,41,WWDWDLWWWLWLDLWWDDLDWLWWWWDWDWLLL,3,2,11,13,28,LLLDLDWWLDDLDWDL,WWLWWDWDLWWWWWWL
+Auxerre,Lens,1-1,/match/auxerre/lens/1998,1998,34,ligue_1,18,34,1,1,1,6,14,8,11,54,44,WLLWWWWLWWLWLDDWWWWDWWWWDDDLWLDWD,10,3,3,35,15,1,21,4,8,54,29,WWDLDDWWLWWWWDLWWWLLLWWLWWWLWLWLW,9,0,7,22,20,LWWLWWDWWWWDDWLW,WLWLWWLWLLWLWLLL
+Metz,Olympique Lyonnais,1-0,/match/metz/olympique-lyonnais/1998,1998,34,ligue_1,18,34,0,1,0,2,19,8,6,47,28,LWLWLDWDWWWWLDWDWDWDWWDLDWWWLLLWL,13,0,3,30,12,9,16,5,12,39,36,LLLLLWWLLLLWDWDWWWWLLWLWWWDDLWDLW,8,2,6,21,19,WWWWWLWWWWWLWWLW,LLWLLWDWWLLWDLWL
+Le Havre,Olympique,1-1,/match/havre-ac/olympique-marsella/1998,1998,34,ligue_1,18,34,1,1,1,10,10,13,10,37,34,WWDLWDWDWDWDDWDDDDLLWWDLWWWDWWDLL,6,8,2,24,13,4,16,8,9,46,26,WWDLDWWWWWLWDWLWWWDLWWDLWLLWWDDWD,5,4,7,21,20,WLDDDDWDDLWDWWWD,DDWWLDLWWLWLLWDW
+Strasbourg,Montpellier,3-0,/match/strasbourg/montpellier-hsc/1998,1998,34,ligue_1,18,34,0,3,0,14,8,10,15,36,43,DWDLDLWDWWWWWDWDWWLWWWLDDWWWWLDLD,7,4,5,19,13,12,10,11,12,32,39,DWDWDLDLDLLWLWWDWDDDLLWWWWDLLWWWD,4,5,7,12,24,WLLDWWDWLWLDWWDL,WDDDLLWWDDLWWLWW
+Chateauroux,PSG,2-1,/match/berrichonne-chateauroux/paris-saint-germain-fc/1998,1998,34,ligue_1,18,34,0,2,1,17,7,7,19,29,58,WDLDLWWWWWWWDWWWWLWDDWWLWWWLDLDLW,7,2,7,21,23,8,14,8,11,42,33,WLWWWLWDDDWLWWLDWWLDLWWLWLDDWWDLL,5,5,6,14,17,LLWWWDWWLDWLWLLL,LWLDDLWDWLLWWDWD
+Stade Rennais,Toulouse,1-0,/match/stade-rennes/toulouse-fc/1998,1998,34,ligue_1,18,34,0,1,0,15,8,9,16,35,48,WLDWWDWDWWLDWWLWWWDWLWWWDDLDWWWLD,7,4,5,26,19,13,9,9,15,26,45,WLDWDDWWWWWLDDWLWWDDWWWLWLLDLWDLL,3,4,9,9,24,LWDWLWLWDLWWDDWL,LWDWWDWWDWWWLDWL

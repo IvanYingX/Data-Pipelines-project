@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Udinese,Parma,0-1,/match/udinese/parma-fc/1994,1994,1,serie_a,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Juventus,Cremonese,1-0,/match/juventus-fc/us-cremonese/1994,1994,1,serie_a,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Genoa,Roma,2-0,/match/genoa/roma/1994,1994,1,serie_a,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Atalanta,Cagliari,5-2,/match/atalanta/cagliari/1994,1994,1,serie_a,18,34,0,5,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Calcio Foggia,0-0,/match/lazio/us-foggia/1994,1994,1,serie_a,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Napoli,Sampdoria,1-2,/match/napoli/sampdoria/1994,1994,1,serie_a,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lecce,Milan,0-1,/match/lecce/milan/1994,1994,1,serie_a,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Reggiana,2-1,/match/internazionale/ac-reggiana-1919/1994,1994,1,serie_a,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Piacenza,Torino,0-3,/match/piacenza/torino-fc/1994,1994,1,serie_a,18,34,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cremonese,Napoli,2-0,/match/us-cremonese/napoli/1994,1994,2,serie_a,18,34,0,2,0,12,0,0,1,0,1,W,0,0,0,0,0,14,0,0,1,1,2,L,0,0,0,0,0,,
+Torino,Atalanta,2-1,/match/torino-fc/atalanta/1994,1994,2,serie_a,18,34,0,2,1,5,1,0,0,3,0,L,0,0,0,0,0,1,1,0,0,5,2,W,0,0,0,0,0,,
+Parma,Lecce,1-0,/match/parma-fc/lecce/1994,1994,2,serie_a,18,34,0,1,0,8,1,0,0,1,0,L,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
+Calcio Foggia,Inter,1-1,/match/us-foggia/internazionale/1994,1994,2,serie_a,18,34,1,1,1,10,0,1,0,0,0,D,0,0,0,0,0,4,1,0,0,2,1,W,0,0,0,0,0,,
+Cagliari,Udinese,1-2,/match/cagliari/udinese/1994,1994,2,serie_a,18,34,2,1,2,13,0,0,1,2,5,W,0,0,0,0,0,18,0,0,1,0,1,L,0,0,0,0,0,,
+Roma,Juventus,2-1,/match/roma/juventus-fc/1994,1994,2,serie_a,18,34,0,2,1,11,0,0,1,0,2,W,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Reggiana,Lazio,0-0,/match/ac-reggiana-1919/lazio/1994,1994,2,serie_a,18,34,1,0,0,15,0,0,1,1,2,W,0,0,0,0,0,9,0,1,0,0,0,D,0,0,0,0,0,,
+Sampdoria,Piacenza,2-1,/match/sampdoria/piacenza/1994,1994,2,serie_a,18,34,0,2,1,7,1,0,0,2,1,L,0,0,0,0,0,17,0,0,1,0,3,L,0,0,0,0,0,,
+Milan,Genoa,1-0,/match/milan/genoa/1994,1994,2,serie_a,18,34,0,1,0,6,1,0,0,1,0,L,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
+Genoa,Cagliari,1-1,/match/genoa/cagliari/1994,1994,3,serie_a,18,34,1,1,1,10,1,0,1,2,1,WW,1,0,0,2,0,15,0,0,2,3,7,WL,0,0,1,2,5,W,W
+Atalanta,Reggiana,2-1,/match/atalanta/ac-reggiana-1919/1994,1994,3,serie_a,18,34,0,2,1,6,1,0,1,6,4,WW,1,0,0,5,2,13,0,1,1,1,2,WD,0,0,1,1,2,W,W
+Lazio,Parma,2-1,/match/lazio/parma-fc/1994,1994,3,serie_a,18,34,0,2,1,12,0,2,0,0,0,DD,0,1,0,0,0,4,2,0,0,2,0,LW,1,0,0,1,0,D,L
+Napoli,Torino,0-0,/match/napoli/torino-fc/1994,1994,3,serie_a,18,34,1,0,0,16,0,0,2,1,4,LW,0,0,1,1,2,1,2,0,0,5,1,LW,1,0,0,3,0,L,L
+Lecce,Calcio Foggia,0-2,/match/lecce/us-foggia/1994,1994,3,serie_a,18,34,2,0,2,17,0,0,2,0,2,LW,0,0,1,0,1,11,0,2,0,1,1,DD,0,1,0,0,0,L,D
+Inter,Cremonese,2-1,/match/internazionale/us-cremonese/1994,1994,3,serie_a,18,34,0,2,1,5,1,1,0,3,2,WD,1,0,0,2,1,9,1,0,1,2,1,WW,0,0,1,0,1,W,W
+Piacenza,Milan,0-0,/match/piacenza/milan/1994,1994,3,serie_a,18,34,1,0,0,18,0,0,2,1,5,LW,0,0,1,0,3,2,2,0,0,2,0,LW,1,0,0,1,0,L,L
+Udinese,Roma,0-0,/match/udinese/roma/1994,1994,3,serie_a,18,34,1,0,0,14,1,0,1,2,2,LL,0,0,1,0,1,7,1,0,1,2,3,WW,0,0,1,0,2,L,W
+Juventus,Sampdoria,3-1,/match/juventus-fc/sampdoria/1994,1994,3,serie_a,18,34,0,3,1,8,1,0,1,2,2,WW,1,0,0,1,0,3,2,0,0,4,2,LW,1,0,0,2,1,W,L
+Cremonese,Lazio,1-0,/match/us-cremonese/lazio/1994,1994,4,serie_a,18,34,0,1,0,12,1,0,2,3,3,WWW,1,0,0,2,0,5,1,2,0,2,1,DDW,0,1,0,0,0,W,D
+Torino,Udinese,1-0,/match/torino-fc/udinese/1994,1994,4,serie_a,18,34,0,1,0,4,2,1,0,5,1,LWD,1,0,0,2,1,13,1,1,1,2,2,LLD,1,0,0,2,1,W,L
+Parma,Genoa,2-1,/match/parma-fc/genoa/1994,1994,4,serie_a,18,34,0,2,1,8,2,0,1,3,2,LWW,1,0,0,1,0,7,1,1,1,3,2,WWD,0,0,1,0,1,W,W
+Calcio Foggia,Juventus,1-1,/match/us-foggia/juventus-fc/1994,1994,4,serie_a,18,34,1,1,1,11,1,2,0,3,1,DDL,0,1,0,1,1,2,2,0,1,5,3,WWW,0,0,1,1,2,D,W
+Cagliari,Inter,1-0,/match/cagliari/internazionale/1994,1994,4,serie_a,18,34,0,1,0,17,0,1,2,4,8,WLD,0,0,1,1,2,1,2,1,0,5,3,WDW,0,1,0,1,1,L,D
+Roma,Napoli,2-3,/match/roma/napoli/1994,1994,4,serie_a,18,34,2,2,3,10,1,1,1,2,3,WWD,1,0,0,2,1,15,0,1,2,1,4,LWD,0,0,1,0,2,W,W
+Reggiana,Piacenza,1-1,/match/ac-reggiana-1919/piacenza/1994,1994,4,serie_a,18,34,1,1,1,14,0,1,2,2,4,WDW,0,1,0,0,0,16,0,1,2,1,5,LWD,0,0,1,1,2,D,W
+Sampdoria,Lecce,2-1,/match/sampdoria/lecce/1994,1994,4,serie_a,18,34,0,2,1,9,2,0,1,5,5,LWW,1,0,0,2,1,18,0,0,3,0,4,LWL,0,0,1,0,1,W,W
+Milan,Atalanta,2-0,/match/milan/atalanta/1994,1994,4,serie_a,18,34,0,2,0,6,2,1,0,2,0,LWD,1,0,0,1,0,3,2,0,1,8,5,WWW,0,0,1,1,2,W,W
+Genoa,Napoli,0-0,/match/genoa/napoli/1994,1994,5,serie_a,18,34,1,0,0,11,1,1,2,4,4,WWDW,1,1,0,3,1,15,1,1,2,4,6,LWDL,1,0,1,3,4,WD,WL
+Udinese,Sampdoria,0-2,/match/udinese/sampdoria/1994,1994,5,serie_a,18,34,2,0,2,16,1,1,2,2,3,LLDW,0,1,1,0,1,4,3,0,1,7,6,LWWW,1,0,1,3,4,LD,LW
+Juventus,Reggiana,4-0,/match/juventus-fc/ac-reggiana-1919/1994,1994,5,serie_a,18,34,0,4,0,6,2,1,1,6,4,WWWD,2,0,0,4,1,14,0,2,2,3,5,WDWD,0,0,2,2,4,WW,WW
+Piacenza,Lecce,2-1,/match/piacenza/lecce/1994,1994,5,serie_a,18,34,0,2,1,17,0,2,2,2,6,LWDD,0,1,1,0,3,18,0,0,4,1,6,LWLW,0,0,2,1,3,LD,WW
+Lazio,Inter,0-0,/match/lazio/internazionale/1994,1994,5,serie_a,18,34,1,0,0,9,1,2,1,2,2,DDWW,1,1,0,2,1,5,2,1,1,5,4,WDWW,0,1,1,1,2,DW,DW
+Milan,Roma,2-0,/match/milan/roma/1994,1994,5,serie_a,18,34,0,2,0,2,3,1,0,4,0,LWDW,2,0,0,3,0,13,1,1,2,4,6,WWDL,0,1,1,0,2,WW,WD
+Calcio Foggia,Cagliari,0-1,/match/us-foggia/cagliari/1994,1994,5,serie_a,18,34,2,0,1,10,1,3,0,4,2,DDLD,0,2,0,2,2,12,1,1,2,5,8,WLDW,0,1,1,3,6,DD,WD
+Atalanta,Cremonese,0-0,/match/atalanta/us-cremonese/1994,1994,5,serie_a,18,34,1,0,0,7,2,0,2,8,7,WWWW,2,0,0,7,3,8,2,0,2,4,3,WWWW,0,0,2,1,3,WW,WW
+Parma,Torino,3-0,/match/parma-fc/torino-fc/1994,1994,5,serie_a,18,34,0,3,0,3,3,0,1,5,3,LWWW,2,0,0,3,1,1,3,1,0,6,1,LWDW,1,1,0,3,0,WW,LD
+Reggiana,Calcio Foggia,0-0,/match/ac-reggiana-1919/us-foggia/1994,1994,6,serie_a,18,34,1,0,0,16,0,2,3,3,9,WDWDW,0,2,0,1,1,12,1,3,1,4,3,DDLDL,1,1,0,2,0,DD,DL
+Cagliari,Lazio,4-1,/match/cagliari/lazio/1994,1994,6,serie_a,18,34,0,4,1,13,2,1,2,6,8,WLDWL,1,0,1,2,2,9,1,3,1,2,2,DDWWD,0,1,1,0,1,LW,DW
+Inter,Piacenza,2-0,/match/internazionale/piacenza/1994,1994,6,serie_a,18,34,0,2,0,6,2,2,1,5,4,WDWWD,2,0,0,4,2,11,1,2,2,4,7,LWDDW,0,1,1,2,3,WW,WD
+Napoli,Udinese,2-1,/match/napoli/udinese/1994,1994,6,serie_a,18,34,0,2,1,15,1,2,2,4,6,LWDLD,0,1,1,1,2,17,1,1,3,2,5,LLDWL,1,0,1,2,2,LD,LW
+Lecce,Juventus,1-1,/match/lecce/juventus-fc/1994,1994,6,serie_a,18,34,1,1,1,18,0,0,5,2,8,LWLWW,0,0,2,0,3,3,3,1,1,10,4,WWWDW,0,1,1,2,3,LL,WD
+Roma,Atalanta,2-1,/match/roma/atalanta/1994,1994,6,serie_a,18,34,0,2,1,14,1,1,3,4,8,WWDLW,1,0,1,4,4,7,2,1,2,8,7,WWWWD,0,0,2,1,4,WL,WW
+Cremonese,Milan,0-2,/match/us-cremonese/milan/1994,1994,6,serie_a,18,34,2,0,2,8,2,1,2,4,3,WWWWD,2,0,0,3,0,1,4,1,0,6,0,LWDWW,1,1,0,1,0,WW,LD
+Torino,Genoa,2-0,/match/torino-fc/genoa/1994,1994,6,serie_a,18,34,0,2,0,5,3,1,1,6,4,LWDWW,2,0,0,3,1,10,1,2,2,4,4,WWDWD,0,0,2,1,3,WW,WW
+Sampdoria,Parma,1-1,/match/sampdoria/parma-fc/1994,1994,6,serie_a,18,34,1,1,1,4,4,0,1,9,6,LWWWL,2,0,0,4,2,2,4,0,1,8,3,LWWWW,1,0,1,2,2,WW,LW
+Napoli,Inter,0-0,/match/napoli/internazionale/1994,1994,7,serie_a,18,34,1,0,0,11,2,2,2,6,7,LWDLDW,1,1,1,3,3,6,3,2,1,7,4,WDWWDW,0,2,1,1,2,LDW,DWD
+Udinese,Lecce,2-1,/match/udinese/lecce/1994,1994,7,serie_a,18,34,0,2,1,17,1,1,4,3,7,LLDWLW,0,1,2,0,3,18,0,1,5,3,9,LWLWWD,0,0,3,2,5,LDL,WWW
+Roma,Cremonese,1-2,/match/roma/us-cremonese/1994,1994,7,serie_a,18,34,2,1,2,12,2,1,3,6,9,WWDLWW,2,0,1,6,5,9,2,1,3,4,5,WWWWDL,0,1,2,1,3,WLW,WWD
+Piacenza,Cagliari,1-1,/match/piacenza/cagliari/1994,1994,7,serie_a,18,34,1,1,1,15,1,2,3,4,9,LWDDWW,1,1,1,2,4,7,3,1,2,10,9,WLDWLW,1,1,1,4,6,LDW,WDL
+Parma,Calcio Foggia,3-0,/match/parma-fc/us-foggia/1994,1994,7,serie_a,18,34,0,3,0,3,4,1,1,9,4,LWWWWD,3,0,0,6,1,14,1,4,1,4,3,DDLDLD,1,2,0,2,0,WWW,DLD
+Milan,Lazio,0-0,/match/milan/lazio/1994,1994,7,serie_a,18,34,1,0,0,1,5,1,0,8,0,LWDWWL,3,0,0,5,0,10,1,3,2,3,6,DDWWDW,0,1,2,1,5,WWW,DWW
+Genoa,Reggiana,0-0,/match/genoa/ac-reggiana-1919/1994,1994,7,serie_a,18,34,1,0,0,13,1,2,3,4,6,WWDWDW,1,2,0,3,1,16,0,3,3,3,9,WDWDWD,0,0,3,2,8,WDD,WWW
+Atalanta,Sampdoria,1-4,/match/atalanta/sampdoria/1994,1994,7,serie_a,18,34,2,1,4,8,2,1,3,9,9,WWWWDW,2,1,0,7,3,5,4,1,1,10,7,LWWWLD,2,0,1,5,4,WWD,LWL
+Juventus,Torino,3-2,/match/juventus-fc/torino-fc/1994,1994,7,serie_a,18,34,0,3,2,4,3,2,1,11,5,WWWDWD,3,0,0,8,1,2,4,1,1,8,4,LWDWWW,1,1,1,3,3,WWW,LDW
+Lecce,Genoa,0-0,/match/lecce/genoa/1994,1994,8,serie_a,18,34,1,0,0,18,0,1,6,4,11,LWLWWDW,0,1,2,1,4,10,1,3,3,4,6,WWDWDWD,0,0,3,1,5,LLD,WWW
+Inter,Torino,0-0,/match/internazionale/torino-fc/1994,1994,8,serie_a,18,34,1,0,0,5,3,3,1,7,4,WDWWDWD,3,0,0,6,2,6,4,1,2,10,7,LWDWWWW,1,1,2,5,6,WWW,LDWW
+Reggiana,Udinese,1-1,/match/ac-reggiana-1919/udinese/1994,1994,8,serie_a,18,34,1,1,1,17,0,4,3,3,9,WDWDWDD,0,3,0,1,1,16,2,1,4,5,8,LLDWLWW,1,0,2,3,4,DDD,LWW
+Sampdoria,Roma,0-1,/match/sampdoria/roma/1994,1994,8,serie_a,18,34,2,0,1,4,5,1,1,14,8,LWWWLDL,2,1,0,5,3,13,2,1,4,7,11,WWDLWWL,0,1,2,0,4,WWD,WDW
+Juventus,Atalanta,2-1,/match/juventus-fc/atalanta/1994,1994,8,serie_a,18,34,0,2,1,3,4,2,1,14,7,WWWDWDW,4,0,0,11,3,12,2,1,4,10,13,WWWWDWL,0,0,3,2,6,WWWW,WWW
+Cremonese,Parma,0-0,/match/us-cremonese/parma-fc/1994,1994,8,serie_a,18,34,1,0,0,9,3,1,3,6,6,WWWWDLL,2,0,1,3,2,2,5,1,1,12,4,LWWWWDW,1,1,1,3,3,WWL,LWD
+Cagliari,Napoli,1-2,/match/cagliari/napoli/1994,1994,8,serie_a,18,34,2,1,2,7,3,2,2,11,10,WLDWLWD,2,0,1,6,3,8,2,3,2,6,7,LWDLDWD,1,1,1,3,4,LWW,WLD
+Lazio,Piacenza,1-0,/match/lazio/piacenza/1994,1994,8,serie_a,18,34,0,1,0,11,1,4,2,3,6,DDWWDWD,1,2,0,2,1,14,1,3,3,5,10,LWDDWWD,0,1,2,2,5,DWD,WDW
+Calcio Foggia,Milan,1-1,/match/us-foggia/milan/1994,1994,8,serie_a,18,34,1,1,1,15,1,4,2,4,6,DDLDLDW,0,2,1,2,3,1,5,2,0,8,0,LWDWWLD,2,1,0,3,0,DDL,LDL
+Napoli,Lecce,3-1,/match/napoli/lecce/1994,1994,9,serie_a,18,34,0,3,1,8,3,3,2,8,8,LWDLDWDL,1,2,1,3,3,18,0,2,6,4,11,LWLWWDWD,0,0,4,3,7,LDWD,WWWW
+Udinese,Inter,0-1,/match/udinese/internazionale/1994,1994,9,serie_a,18,34,2,0,1,16,2,2,4,6,9,LLDWLWWD,1,1,2,2,4,4,3,4,1,7,4,WDWWDWDD,0,3,1,1,2,LDLW,DWDD
+Milan,Juventus,1-1,/match/milan/juventus-fc/1994,1994,9,serie_a,18,34,1,1,1,2,5,3,0,9,1,LWDWWLDD,3,1,0,5,0,1,5,2,1,16,8,WWWDWDWW,0,2,1,3,4,WWWD,WDD
+Cremonese,Cagliari,3-1,/match/us-cremonese/cagliari/1994,1994,9,serie_a,18,34,0,3,1,9,3,2,3,6,6,WWWWDLLD,2,1,1,3,2,10,3,2,3,12,12,WLDWLWDL,1,2,1,5,7,WWLD,WDLD
+Torino,Sampdoria,2-3,/match/torino-fc/sampdoria/1994,1994,9,serie_a,18,34,2,2,3,6,4,2,2,10,7,LWDWWWWD,3,0,0,5,1,5,5,1,2,14,9,LWWWLDLL,3,0,1,9,5,WWW,LWLL
+Parma,Reggiana,1-0,/match/parma-fc/ac-reggiana-1919/1994,1994,9,serie_a,18,34,0,1,0,3,5,2,1,12,4,LWWWWDWD,4,0,0,9,1,17,0,5,3,4,10,WDWDWDDD,0,1,3,2,8,WWWW,WWWD
+Genoa,Piacenza,0-1,/match/genoa/piacenza/1994,1994,9,serie_a,18,34,2,0,1,12,1,4,3,4,6,WWDWDWDD,1,3,0,3,1,15,1,3,4,5,11,LWDDWWDW,0,1,3,2,6,WDDD,WDWW
+Atalanta,Calcio Foggia,1-1,/match/atalanta/us-foggia/1994,1994,9,serie_a,18,34,1,1,1,13,2,1,5,11,15,WWWWDWLW,2,1,1,8,7,14,1,5,2,5,7,DDLDLDWD,1,2,1,2,3,WWDL,DLDW
+Roma,Lazio,1-1,/match/roma/lazio/1994,1994,9,serie_a,18,34,1,1,1,11,3,1,4,8,11,WWDLWWLL,2,0,2,7,7,7,2,4,2,4,6,DDWWDWDW,0,2,2,1,5,WLWL,DWWD
+Piacenza,Napoli,1-1,/match/piacenza/napoli/1994,1994,10,serie_a,18,34,1,1,1,15,2,3,4,6,11,LWDDWWDWL,1,2,1,3,5,6,4,3,2,11,9,LWDLDWDLW,2,1,1,5,5,LDWD,WLDL
+Sampdoria,Milan,3-2,/match/sampdoria/milan/1994,1994,10,serie_a,18,34,0,3,2,5,6,1,2,17,11,LWWWLDLLL,2,1,1,5,4,3,5,4,0,10,2,LWDWWLDDD,2,2,0,4,1,WWDL,LDLD
+Juventus,Genoa,4-0,/match/juventus-fc/genoa/1994,1994,10,serie_a,18,34,0,4,0,2,5,3,1,17,9,WWWDWDWWD,5,0,0,13,4,13,1,4,4,4,7,WWDWDWDDL,0,1,3,1,5,WWWWW,WWWD
+Calcio Foggia,Cremonese,1-1,/match/us-foggia/us-cremonese/1994,1994,10,serie_a,18,34,1,1,1,14,1,6,2,6,8,DDLDLDWDD,0,3,1,3,4,7,4,2,3,9,7,WWWWDLLDW,1,1,2,3,4,DDLD,WWDL
+Cagliari,Torino,2-1,/match/cagliari/torino-fc/1994,1994,10,serie_a,18,34,0,2,1,12,3,2,4,13,15,WLDWLWDLW,2,0,2,7,5,8,4,2,3,12,10,LWDWWWWDL,1,2,2,5,6,LWWL,LDWWD
+Lazio,Udinese,2-1,/match/lazio/udinese/1994,1994,10,serie_a,18,34,0,2,1,9,2,5,2,5,7,DDWWDWDWD,2,2,0,3,1,16,2,2,5,6,10,LLDWLWWDL,1,1,2,4,5,DWDW,LWWD
+Reggiana,Roma,0-0,/match/ac-reggiana-1919/roma/1994,1994,10,serie_a,18,34,1,0,0,17,0,5,4,4,11,WDWDWDDDW,0,4,0,2,2,10,3,2,4,9,12,WWDLWWLLD,1,1,2,1,4,DDDD,WDWL
+Lecce,Atalanta,5-1,/match/lecce/atalanta/1994,1994,10,serie_a,18,34,0,5,1,18,0,2,7,5,14,LWLWWDWDW,0,2,2,1,4,11,2,2,5,12,16,WWWWDWLWD,0,0,4,3,8,LLDD,WWWW
+Inter,Parma,3-2,/match/internazionale/parma-fc/1994,1994,10,serie_a,18,34,0,3,2,4,4,4,1,8,4,WDWWDWDDL,3,1,0,6,2,1,6,2,1,13,4,LWWWWDWDW,1,2,1,3,3,WWWD,LWDD
+Torino,Reggiana,2-0,/match/torino-fc/ac-reggiana-1919/1994,1994,11,serie_a,18,34,0,2,0,10,4,2,4,13,12,LWDWWWWDLW,3,0,1,7,4,16,0,6,4,4,11,WDWDWDDDWD,0,1,4,2,9,WWWL,WWWDW
+Udinese,Genoa,0-4,/match/udinese/genoa/1994,1994,11,serie_a,18,34,2,0,4,17,2,2,6,7,12,LLDWLWWDLW,1,1,3,2,5,15,1,4,5,4,11,WWDWDWDDLW,0,1,4,1,9,LDLWL,WWWDW
+Roma,Calcio Foggia,0-0,/match/roma/us-foggia/1994,1994,11,serie_a,18,34,1,0,0,11,3,3,4,9,12,WWDLWWLLDD,2,1,2,8,8,12,1,7,2,7,9,DDLDLDWDDD,1,3,1,3,4,WLWLD,DLDWD
+Cremonese,Lecce,2-1,/match/us-cremonese/lecce/1994,1994,11,serie_a,18,34,0,2,1,8,4,3,3,10,8,WWWWDLLDWD,3,1,1,6,3,18,1,2,7,10,15,LWLWWDWDWW,0,0,5,4,10,WWLDW,WWWWW
+Atalanta,Piacenza,0-0,/match/atalanta/piacenza/1994,1994,11,serie_a,18,34,1,0,0,14,2,2,6,13,21,WWWWDWLWDW,2,2,1,9,8,13,2,4,4,7,12,LWDDWWDWLD,1,1,3,3,6,WWDLD,WDWWL
+Inter,Milan,1-2,/match/internazionale/milan/1994,1994,11,serie_a,18,34,2,1,2,3,5,4,1,11,6,WDWWDWDDLW,4,1,0,9,4,4,5,4,1,12,5,LWDWWLDDDW,2,2,1,6,4,WWWDW,LDLDW
+Napoli,Lazio,1-2,/match/napoli/lazio/1994,1994,11,serie_a,18,34,2,1,2,7,4,4,2,12,10,LWDLDWDLWD,2,2,1,6,4,6,3,5,2,7,8,DDWWDWDWDW,0,3,2,2,6,LDWDW,DWWDD
+Sampdoria,Cagliari,1-2,/match/sampdoria/cagliari/1994,1994,11,serie_a,18,34,2,1,2,5,7,1,2,20,13,LWWWLDLLLW,3,1,1,8,6,9,4,2,4,15,16,WLDWLWDLWW,1,2,2,6,10,WWDLW,WDLDW
+Parma,Juventus,2-0,/match/parma-fc/juventus-fc/1994,1994,11,serie_a,18,34,0,2,0,2,6,2,2,15,7,LWWWWDWDWW,5,0,0,10,1,1,6,3,1,21,9,WWWDWDWWDW,0,3,1,4,5,WWWWW,WDDD
+Milan,Napoli,2-1,/match/milan/napoli/1994,1994,12,serie_a,18,34,0,2,1,3,6,4,1,14,6,LWDWWLDDDWL,3,2,0,6,1,10,4,4,3,13,12,LWDLDWDLWDL,2,2,1,6,6,WWWDD,WLDLD
+Calcio Foggia,Sampdoria,1-2,/match/us-foggia/sampdoria/1994,1994,12,serie_a,18,34,2,1,2,12,1,8,2,7,9,DDLDLDWDDDD,0,4,1,4,5,6,7,1,3,21,15,LWWWLDLLLWL,4,0,1,12,7,DDLDD,LWLLL
+Piacenza,Udinese,0-0,/match/piacenza/udinese/1994,1994,12,serie_a,18,34,1,0,0,13,2,5,4,7,12,LWDDWWDWLDD,1,3,1,4,6,17,2,2,7,7,16,LLDWLWWDLWL,1,1,3,5,7,LDWDD,LWWDW
+Lazio,Torino,1-2,/match/lazio/torino-fc/1994,1994,12,serie_a,18,34,2,1,2,7,4,5,2,9,9,DDWWDWDWDWL,3,2,0,5,2,8,5,2,4,15,12,LWDWWWWDLWW,1,2,3,6,8,DWDWW,LDWWDW
+Reggiana,Cremonese,2-0,/match/ac-reggiana-1919/us-cremonese/1994,1994,12,serie_a,18,34,0,2,0,16,0,6,5,4,13,WDWDWDDDWDW,0,5,0,2,2,5,5,3,3,12,9,WWWWDLLDWDW,1,2,2,4,5,DDDDD,WWDLD
+Atalanta,Parma,0-2,/match/atalanta/parma-fc/1994,1994,12,serie_a,18,34,2,0,2,14,2,3,6,13,21,WWWWDWLWDWD,2,3,1,9,8,1,7,2,2,17,7,LWWWWDWDWWW,1,2,2,5,6,WWDLDD,LWDDW
+Juventus,Cagliari,1-1,/match/juventus-fc/cagliari/1994,1994,12,serie_a,18,34,1,1,1,2,6,3,2,21,11,WWWDWDWWDWW,6,0,0,17,4,9,5,2,4,17,17,WLDWLWDLWWL,2,2,2,8,11,WWWWWW,WDLDWL
+Genoa,Inter,1-0,/match/genoa/internazionale/1994,1994,12,serie_a,18,34,0,1,0,15,2,4,5,8,11,WWDWDWDDLWL,1,3,1,3,2,4,5,4,2,12,8,WDWWDWDDLWL,1,3,1,2,2,WDDDL,DWDDL
+Lecce,Roma,0-2,/match/lecce/roma/1994,1994,12,serie_a,18,34,2,0,2,18,1,2,8,11,17,LWLWWDWDWWW,1,2,2,6,5,11,3,4,4,9,12,WWDLWWLLDDD,1,2,2,1,4,LLDDW,WDWLD
+Napoli,Reggiana,5-0,/match/napoli/ac-reggiana-1919/1994,1994,13,serie_a,18,34,0,5,0,11,4,4,4,14,14,LWDLDWDLWDLW,2,2,2,7,6,14,1,6,5,6,13,WDWDWDDDWDWW,0,1,5,2,11,LDWDWL,WWWDWW
+Cagliari,Roma,1-1,/match/cagliari/roma/1994,1994,13,serie_a,18,34,1,1,1,9,5,3,4,18,18,WLDWLWDLWWLD,3,0,2,9,6,10,4,4,4,11,12,WWDLWWLLDDDL,2,2,2,3,4,LWWLW,WDWLDL
+Lazio,Genoa,4-0,/match/lazio/genoa/1994,1994,13,serie_a,18,34,0,4,0,8,4,5,3,10,11,DDWWDWDWDWLL,3,2,1,6,4,12,3,4,5,9,11,WWDWDWDDLWLW,1,1,4,5,9,DWDWWL,WWWDWL
+Torino,Lecce,3-0,/match/torino-fc/lecce/1994,1994,13,serie_a,18,34,0,3,0,7,6,2,4,17,13,LWDWWWWDLWWL,4,0,1,9,4,18,1,2,9,11,19,LWLWWDWDWWWL,0,0,6,5,12,WWWLW,WWWWWW
+Sampdoria,Cremonese,3-1,/match/sampdoria/us-cremonese/1994,1994,13,serie_a,18,34,0,3,1,4,8,1,3,23,16,LWWWLDLLLWLL,3,1,2,9,8,6,5,3,4,12,11,WWWWDLLDWDWW,1,2,3,4,7,WWDLWL,WWDLDW
+Inter,Juventus,2-2,/match/internazionale/juventus-fc/1994,1994,13,serie_a,18,34,1,2,2,5,5,4,3,12,9,WDWWDWDDLWLW,4,1,1,10,6,2,6,4,2,22,12,WWWDWDWWDWWD,0,3,2,4,7,WWWDWL,WDDDW
+Piacenza,Calcio Foggia,5-4,/match/piacenza/us-foggia/1994,1994,13,serie_a,18,34,0,5,4,13,2,6,4,7,12,LWDDWWDWLDDD,1,4,1,4,6,15,1,8,3,8,11,DDLDLDWDDDDL,1,4,1,3,4,LDWDDD,DLDWDD
+Udinese,Atalanta,0-0,/match/udinese/atalanta/1994,1994,13,serie_a,18,34,1,0,0,17,2,3,7,7,16,LLDWLWWDLWLD,1,1,4,2,9,16,2,3,7,13,23,WWWWDWLWDWDL,0,0,5,4,13,LDLWLL,WWWWW
+Parma,Milan,0-0,/match/parma-fc/milan/1994,1994,13,serie_a,18,34,1,0,0,1,8,2,2,19,7,LWWWWDWDWWWL,6,0,0,12,1,3,7,4,1,16,7,LWDWWLDDDWLW,3,2,1,8,5,WWWWWW,LDLDWL
+Cremonese,Piacenza,4-0,/match/us-cremonese/piacenza/1994,1994,14,serie_a,18,34,0,4,0,8,5,3,5,13,14,WWWWDLLDWDWWW,4,1,1,8,4,11,3,6,4,12,16,LWDDWWDWLDDDW,1,2,3,3,6,WWLDWW,WDWWLD
+Genoa,Sampdoria,1-1,/match/genoa/sampdoria/1994,1994,14,serie_a,18,34,1,1,1,13,3,4,6,9,15,WWDWDWDDLWLWW,2,3,1,4,2,4,9,1,3,26,17,LWWWLDLLLWLLW,5,0,1,14,8,WDDDLW,LWLLLL
+Juventus,Napoli,1-0,/match/juventus-fc/napoli/1994,1994,14,serie_a,18,34,0,1,0,2,6,5,2,24,14,WWWDWDWWDWWDD,6,1,0,18,5,9,5,4,4,19,14,LWDLDWDLWDLWW,2,2,2,7,8,WWWWWWD,WLDLDW
+Calcio Foggia,Udinese,2-2,/match/us-foggia/udinese/1994,1994,14,serie_a,18,34,1,2,2,16,1,8,4,12,16,DDLDLDWDDDDLW,0,4,2,5,7,17,2,4,7,7,16,LLDWLWWDLWLDD,1,2,3,5,7,DDLDDL,LWWDWD
+Atalanta,Lazio,1-1,/match/atalanta/lazio/1994,1994,14,serie_a,18,34,1,1,1,15,2,4,7,13,23,WWWWDWLWDWDLD,2,3,2,9,10,7,5,5,3,14,11,DDWWDWDWDWLLW,1,3,2,4,7,WWDLDDL,DWWDDL
+Roma,Parma,2-0,/match/roma/parma-fc/1994,1994,14,serie_a,18,34,0,2,0,12,4,5,4,12,13,WWDLWWLLDDDLD,2,2,2,8,8,1,8,3,2,19,7,LWWWWDWDWWWLD,2,2,2,7,6,WLWLDD,LWDDWL
+Reggiana,Cagliari,3-1,/match/ac-reggiana-1919/cagliari/1994,1994,14,serie_a,18,34,0,3,1,14,1,6,6,6,18,WDWDWDDDWDWWW,1,5,0,4,2,10,5,4,4,19,19,WLDWLWDLWWLDD,2,3,2,9,12,DDDDDW,WDLDWLD
+Lecce,Inter,1-3,/match/lecce/internazionale/1994,1994,14,serie_a,18,34,2,1,3,18,1,2,10,11,22,LWLWWDWDWWWLW,1,2,3,6,7,6,5,5,3,14,11,WDWWDWDDLWLWD,1,3,2,2,3,LLDDWL,DWDDLW
+Milan,Torino,1-0,/match/milan/torino-fc/1994,1994,14,serie_a,18,34,0,1,0,3,7,5,1,16,7,LWDWWLDDDWLWD,4,2,0,8,2,5,7,2,4,20,13,LWDWWWWDLWWLW,2,2,3,8,9,WWWDDW,LDWWDWL
+Torino,Cremonese,1-1,/match/torino-fc/us-cremonese/1994,1994,15,serie_a,18,34,1,1,1,6,7,2,5,20,14,LWDWWWWDLWWLWW,5,0,1,12,4,8,6,3,5,17,14,WWWWDLLDWDWWWW,1,2,4,5,10,WWWLWW,WWDLDWW
+Udinese,Milan,0-0,/match/udinese/milan/1994,1994,15,serie_a,18,34,1,0,0,17,2,5,7,9,18,LLDWLWWDLWLDDD,1,2,4,2,9,2,8,5,1,17,7,LWDWWLDDDWLWDW,3,3,1,8,5,LDLWLLD,LDLDWLD
+Genoa,Calcio Foggia,1-4,/match/genoa/us-foggia/1994,1994,15,serie_a,18,34,2,1,4,13,3,5,6,10,16,WWDWDWDDLWLWWD,2,4,1,5,3,16,1,9,4,14,18,DDLDLDWDDDDLWD,1,4,2,7,9,WDDDLWD,DLDWDDW
+Piacenza,Roma,1-0,/match/piacenza/roma/1994,1994,15,serie_a,18,34,0,1,0,12,3,6,5,12,20,LWDDWWDWLDDDWW,2,4,1,9,10,9,5,5,4,14,13,WWDLWWLLDDDLDW,2,3,2,4,5,LDWDDDW,WDWLDLD
+Lazio,Juventus,3-1,/match/lazio/juventus-fc/1994,1994,15,serie_a,18,34,0,3,1,7,5,6,3,15,12,DDWWDWDWDWLLWD,4,2,1,10,4,1,7,5,2,25,14,WWWDWDWWDWWDDW,0,4,2,6,9,DWDWWLW,WDDDWD
+Napoli,Atalanta,4-0,/match/napoli/atalanta/1994,1994,15,serie_a,18,34,0,4,0,10,5,4,5,19,15,LWDLDWDLWDLWWW,3,2,2,12,6,15,2,5,7,14,24,WWWWDWLWDWDLDD,0,1,5,4,13,LDWDWLW,WWWWWD
+Cagliari,Parma,0-4,/match/cagliari/parma-fc/1994,1994,15,serie_a,18,34,2,0,4,11,5,4,5,20,22,WLDWLWDLWWLDDW,3,1,2,10,7,3,8,3,3,19,9,LWWWWDWDWWWLDW,2,2,3,7,8,LWWLWD,LWDDWLW
+Inter,Sampdoria,3-0,/match/internazionale/sampdoria/1994,1994,15,serie_a,18,34,0,3,0,5,6,5,3,17,12,WDWWDWDDLWLWDL,4,2,1,12,8,4,9,2,3,27,18,LWWWLDLLLWLLWD,5,1,1,15,9,WWWDWLD,LWLLLLD
+Reggiana,Lecce,1-0,/match/ac-reggiana-1919/lecce/1994,1994,15,serie_a,18,34,0,1,0,14,2,6,6,9,19,WDWDWDDDWDWWWW,2,5,0,7,3,18,1,2,11,12,25,LWLWWDWDWWWLWL,0,0,7,5,15,DDDDDWW,WWWWWWW
+Calcio Foggia,Torino,1-0,/match/us-foggia/torino-fc/1994,1994,16,serie_a,18,34,0,1,0,15,2,9,4,18,19,DDLDLDWDDDDLWDL,0,5,2,7,9,7,7,3,5,21,15,LWDWWWWDLWWLWWD,2,2,4,8,10,DDLDDLD,LDWWDWLW
+Sampdoria,Reggiana,1-0,/match/sampdoria/ac-reggiana-1919/1994,1994,16,serie_a,18,34,0,1,0,6,9,2,4,27,21,LWWWLDLLLWLLWDW,4,1,2,12,9,12,3,6,6,10,19,WDWDWDDDWDWWWWW,0,1,6,2,16,WWDLWLW,WWWDWWW
+Roma,Inter,1-1,/match/roma/internazionale/1994,1994,16,serie_a,18,34,1,1,1,11,5,5,5,14,14,WWDLWWLLDDDLDWW,3,2,2,10,8,4,7,5,3,20,12,WDWWDWDDLWLWDLW,2,3,2,5,4,WLWLDDW,DWDDLWL
+Atalanta,Genoa,2-1,/match/atalanta/genoa/1994,1994,16,serie_a,18,34,0,2,1,16,2,5,8,14,28,WWWWDWLWDWDLDDW,2,4,2,10,11,14,3,5,7,11,20,WWDWDWDDLWLWWDL,1,1,5,5,13,WWDLDDLD,WWWDWLW
+Parma,Napoli,1-3,/match/parma-fc/napoli/1994,1994,16,serie_a,18,34,2,1,3,3,9,3,3,23,9,LWWWWDWDWWWLDWL,6,1,0,12,1,9,6,4,5,23,15,LWDLDWDLWDLWWWW,2,2,3,7,9,WWWWWWD,WLDLDWW
+Milan,Cagliari,2-1,/match/milan/cagliari/1994,1994,16,serie_a,18,34,0,2,1,2,8,6,1,17,7,LWDWWLDDDWLWDWD,5,2,0,9,2,13,5,4,6,20,26,WLDWLWDLWWLDDWL,2,3,3,10,15,WWWDDWW,WDLDWLDW
+Cremonese,Udinese,1-1,/match/us-cremonese/udinese/1994,1994,16,serie_a,18,34,1,1,1,8,6,4,5,18,15,WWWWDLLDWDWWWWD,5,1,1,12,4,17,2,6,7,9,18,LLDWLWWDLWLDDDD,1,3,3,7,9,WWLDWWW,LWWDWDD
+Lecce,Lazio,1-2,/match/lecce/lazio/1994,1994,16,serie_a,18,34,2,1,2,18,1,2,12,12,26,LWLWWDWDWWWLWLW,1,2,4,7,10,5,6,6,3,18,13,DDWWDWDWDWLLWDW,1,4,2,5,8,LLDDWLL,DWWDDLD
+Juventus,Piacenza,2-0,/match/juventus-fc/piacenza/1994,1994,16,serie_a,18,34,0,2,0,1,7,5,3,26,17,WWWDWDWWDWWDDWW,7,1,0,19,5,10,4,6,5,13,20,LWDDWWDWLDDDWWW,1,2,4,3,10,WWWWWWDW,WDWWLDW
+Genoa,Cremonese,1-0,/match/genoa/us-cremonese/1994,1994,17,serie_a,18,34,0,1,0,16,3,5,8,12,22,WWDWDWDDLWLWWDLW,2,4,2,6,7,7,6,5,5,19,16,WWWWDLLDWDWWWWDD,1,3,4,6,11,WDDDLWDL,WWDLDWWD
+Piacenza,Parma,1-1,/match/piacenza/parma-fc/1994,1994,17,serie_a,18,34,1,1,1,11,4,6,6,13,22,LWDDWWDWLDDDWWWW,3,4,1,10,10,3,9,3,4,24,12,LWWWWDWDWWWLDWLL,3,2,3,11,8,LDWDDDWW,LWDDWLWL
+Lazio,Sampdoria,1-1,/match/lazio/sampdoria/1994,1994,17,serie_a,18,34,1,1,1,6,7,6,3,20,14,DDWWDWDWDWLLWDWL,5,2,1,13,5,4,10,2,4,28,21,LWWWLDLLLWLLWDWW,5,1,2,15,12,DWDWWLWW,LWLLLLDW
+Napoli,Calcio Foggia,1-1,/match/napoli/us-foggia/1994,1994,17,serie_a,18,34,1,1,1,9,7,4,5,26,16,LWDLDWDLWDLWWWWL,4,2,2,16,6,13,3,9,4,19,19,DDLDLDWDDDDLWDLW,2,4,2,11,10,LDWDWLWW,DLDWDDWL
+Cagliari,Lecce,2-1,/match/cagliari/lecce/1994,1994,17,serie_a,18,34,0,2,1,14,5,4,7,21,28,WLDWLWDLWWLDDWLW,3,1,3,10,11,18,1,2,13,13,28,LWLWWDWDWWWLWLWL,0,0,8,5,16,LWWLWDL,WWWWWWWW
+Inter,Atalanta,1-2,/match/internazionale/atalanta/1994,1994,17,serie_a,18,34,2,1,2,5,7,6,3,21,13,WDWWDWDDLWLWDLWD,5,2,1,15,8,15,3,5,8,16,29,WWWWDWLWDWDLDDWW,0,1,6,4,17,WWWDWLDW,WWWWWDW
+Reggiana,Milan,0-1,/match/ac-reggiana-1919/milan/1994,1994,17,serie_a,18,34,2,0,1,12,3,6,7,10,20,WDWDWDDDWDWWWWWW,3,5,0,8,3,2,9,6,1,19,8,LWDWWLDDDWLWDWDW,3,4,1,8,5,DDDDDWWW,LDLDWLDD
+Torino,Roma,1-1,/match/torino-fc/roma/1994,1994,17,serie_a,18,34,1,1,1,8,7,3,6,21,16,LWDWWWWDLWWLWWDW,5,1,1,13,5,10,5,6,5,15,15,WWDLWWLLDDDLDWWD,2,3,3,4,6,WWWLWWD,WDWLDLDW
+Udinese,Juventus,0-3,/match/udinese/juventus-fc/1994,1994,17,serie_a,18,34,2,0,3,17,2,7,7,10,19,LLDWLWWDLWLDDDDD,1,3,4,2,9,1,8,5,3,28,17,WWWDWDWWDWWDDWWW,0,4,3,7,12,LDLWLLDD,WDDDWDW
+Calcio Foggia,Lazio,4-1,/match/us-foggia/lazio/1994,1994,18,serie_a,18,34,0,4,1,14,3,10,4,20,20,DDLDLDWDDDDLWDLWD,1,5,2,8,9,5,7,7,3,21,15,DDWWDWDWDWLLWDWLD,2,4,2,7,9,DDLDDLDW,DWWDDLDL
+Cagliari,Atalanta,1-1,/match/cagliari/atalanta/1994,1994,18,serie_a,18,34,1,1,1,12,6,4,7,23,29,WLDWLWDLWWLDDWLWW,4,1,3,12,12,15,4,5,8,18,30,WWWWDWLWDWDLDDWWL,1,1,6,6,18,LWWLWDLW,WWWWWDWL
+Roma,Genoa,1-1,/match/roma/genoa/1994,1994,18,serie_a,18,34,1,1,1,11,5,7,5,16,16,WWDLWWLLDDDLDWWDD,3,3,2,11,9,16,4,5,8,13,22,WWDWDWDDLWLWWDLWW,1,1,6,6,15,WLWLDDWD,WWWDWLWW
+Reggiana,Inter,1-0,/match/ac-reggiana-1919/internazionale/1994,1994,18,serie_a,18,34,0,1,0,13,3,6,8,10,21,WDWDWDDDWDWWWWWWL,3,5,1,8,4,6,7,6,4,22,15,WDWWDWDDLWLWDLWDL,2,4,2,6,5,DDDDDWWWL,DWDDLWLD
+Sampdoria,Napoli,4-1,/match/sampdoria/napoli/1994,1994,18,serie_a,18,34,0,4,1,4,10,3,4,29,22,LWWWLDLLLWLLWDWWD,5,1,2,13,9,8,7,5,5,27,17,LWDLDWDLWDLWWWWLD,3,2,3,10,10,WWDLWLWW,WLDLDWWL
+Milan,Lecce,0-0,/match/milan/lecce/1994,1994,18,serie_a,18,34,1,0,0,2,10,6,1,20,8,LWDWWLDDDWLWDWDWL,6,2,0,11,3,18,1,2,14,14,30,LWLWWDWDWWWLWLWLW,0,0,9,6,18,WWWDDWWW,WWWWWWWWW
+Cremonese,Juventus,1-1,/match/us-cremonese/juventus-fc/1994,1994,18,serie_a,18,34,1,1,1,9,6,5,6,19,17,WWWWDLLDWDWWWWDDW,5,2,1,13,5,1,9,5,3,31,17,WWWDWDWWDWWDDWWWL,1,4,3,10,12,WWLDWWWD,WDDDWDWL
+Torino,Piacenza,1-0,/match/torino-fc/piacenza/1994,1994,18,serie_a,18,34,0,1,0,7,7,4,6,22,17,LWDWWWWDLWWLWWDWD,5,2,1,14,6,10,4,7,6,14,23,LWDDWWDWLDDDWWWWD,1,2,5,3,12,WWWLWWDD,WDWWLDWW
+Parma,Udinese,0-1,/match/parma-fc/udinese/1994,1994,18,serie_a,18,34,2,0,1,3,9,4,4,25,13,LWWWWDWDWWWLDWLLD,6,1,1,13,4,17,2,7,8,10,22,LLDWLWWDLWLDDDDDL,1,4,3,8,10,WWWWWWDL,LWWDWDDD
+Inter,Calcio Foggia,3-1,/match/internazionale/us-foggia/1994,1994,19,serie_a,18,34,0,3,1,7,7,6,5,22,16,WDWWDWDDLWLWDLWDLW,5,2,2,16,10,11,4,10,4,24,21,DDLDLDWDDDDLWDLWDW,2,5,2,12,11,WWWDWLDWL,DLDWDDWLD
+Piacenza,Sampdoria,2-1,/match/piacenza/sampdoria/1994,1994,19,serie_a,18,34,0,2,1,14,4,7,7,14,24,LWDDWWDWLDDDWWWWDW,3,5,1,11,11,3,11,3,4,33,23,LWWWLDLLLWLLWDWWDW,5,2,2,16,13,LDWDDDWWD,LWLLLLDWD
+Udinese,Cagliari,1-1,/match/udinese/cagliari/1994,1994,19,serie_a,18,34,1,1,1,17,3,7,8,11,22,LLDWLWWDLWLDDDDDLL,1,3,5,2,12,12,6,5,7,24,30,WLDWLWDLWWLDDWLWWD,2,3,4,11,17,LDLWLLDDL,WDLDWLDWW
+Juventus,Roma,0-0,/match/juventus-fc/roma/1994,1994,19,serie_a,18,34,1,0,0,2,9,6,3,32,18,WWWDWDWWDWWDDWWWLD,8,1,0,21,5,10,5,8,5,17,17,WWDLWWLLDDDLDWWDDD,2,4,3,5,7,WWWWWWDWW,WDWLDLDWD
+Genoa,Milan,0-0,/match/genoa/milan/1994,1994,19,serie_a,18,34,1,0,0,16,4,6,8,14,23,WWDWDWDDLWLWWDLWWD,3,4,2,7,7,1,10,7,1,20,8,LWDWWLDDDWLWDWDWLD,4,4,1,9,5,WDDDLWDLW,LDLDWLDDL
+Atalanta,Torino,2-2,/match/atalanta/torino-fc/1994,1994,19,serie_a,18,34,1,2,2,15,4,6,8,19,31,WWWWDWLWDWDLDDWWLD,3,4,2,12,12,6,8,4,6,23,17,LWDWWWWDLWWLWWDWDW,2,2,5,8,11,WWDLDDLDW,LDWWDWLWW
+Lazio,Reggiana,2-0,/match/lazio/ac-reggiana-1919/1994,1994,19,serie_a,18,34,0,2,0,5,7,7,4,22,19,DDWWDWDWDWLLWDWLDW,5,3,1,14,6,13,4,6,8,11,21,WDWDWDDDWDWWWWWWLW,0,1,7,2,17,DWDWWLWWD,WWWDWWWW
+Napoli,Cremonese,2-1,/match/napoli/us-cremonese/1994,1994,19,serie_a,18,34,0,2,1,9,7,5,6,28,21,LWDLDWDLWDLWWWWLDW,4,3,2,17,7,8,6,6,6,20,18,WWWWDLLDWDWWWWDDWD,1,3,5,6,12,LDWDWLWWD,WWDLDWWDW
+Lecce,Parma,1-1,/match/lecce/parma-fc/1994,1994,19,serie_a,18,34,1,1,1,18,1,3,14,14,30,LWLWWDWDWWWLWLWLWD,1,2,5,8,12,4,9,4,5,25,14,LWWWWDWDWWWLDWLLDL,3,3,3,12,9,LLDDWLLL,LWDDWLWLD
+Reggiana,Atalanta,3-0,/match/ac-reggiana-1919/atalanta/1994,1994,20,serie_a,18,34,0,3,0,13,4,6,9,11,23,WDWDWDDDWDWWWWWWLWW,4,5,1,9,4,15,4,7,8,21,33,WWWWDWLWDWDLDDWWLDD,1,2,6,7,19,DDDDDWWWLW,WWWWWDWLD
+Sampdoria,Juventus,1-1,/match/sampdoria/juventus-fc/1994,1994,20,serie_a,18,34,1,1,1,3,11,3,5,34,25,LWWWLDLLLWLLWDWWDWW,6,1,2,17,10,2,9,7,3,32,18,WWWDWDWWDWWDDWWWLDD,1,5,3,11,13,WWDLWLWWW,WDDDWDWLD
+Milan,Piacenza,2-0,/match/milan/piacenza/1994,1994,20,serie_a,18,34,0,2,0,1,10,8,1,20,8,LWDWWLDDDWLWDWDWLDD,6,3,0,11,3,10,5,7,7,16,25,LWDDWWDWLDDDWWWWDWW,1,2,6,3,13,WWWDDWWWD,WDWWLDWWW
+Cremonese,Inter,1-4,/match/us-cremonese/internazionale/1994,1994,20,serie_a,18,34,2,1,4,9,6,6,7,21,20,WWWWDLLDWDWWWWDDWDW,5,3,1,14,6,6,8,6,5,25,17,WDWWDWDDLWLWDLWDLWW,2,4,3,6,6,WWLDWWWDD,DWDDLWLDW
+Torino,Napoli,1-1,/match/torino-fc/napoli/1994,1994,20,serie_a,18,34,1,1,1,7,8,5,6,25,19,LWDWWWWDLWWLWWDWDWD,6,2,1,15,6,8,8,5,6,30,22,LWDLDWDLWDLWWWWLDWW,3,2,4,11,14,WWWLWWDDW,WLDLDWWLW
+Parma,Lazio,2-0,/match/parma-fc/lazio/1994,1994,20,serie_a,18,34,0,2,0,5,9,5,5,26,15,LWWWWDWDWWWLDWLLDLD,6,1,2,13,5,4,8,7,4,24,19,DDWWDWDWDWLLWDWLDWW,2,4,3,8,13,WWWWWWDLL,DWWDDLDLW
+Calcio Foggia,Lecce,5-0,/match/us-foggia/lecce/1994,1994,20,serie_a,18,34,0,5,0,14,4,10,5,25,24,DDLDLDWDDDDLWDLWDWW,2,5,2,12,10,18,1,4,14,15,31,LWLWWDWDWWWLWLWLWDD,0,1,9,6,18,DDLDDLDWW,WWWWWWWWWD
+Cagliari,Genoa,0-0,/match/cagliari/genoa/1994,1994,20,serie_a,18,34,1,0,0,12,6,6,7,25,31,WLDWLWDLWWLDDWLWWDD,4,2,3,13,13,16,4,7,8,14,23,WWDWDWDDLWLWWDLWWDD,1,2,6,7,16,LWWLWDLWD,WWWDWLWWD
+Roma,Udinese,0-2,/match/roma/udinese/1994,1994,20,serie_a,18,34,2,0,2,11,5,9,5,17,17,WWDLWWLLDDDLDWWDDDD,3,4,2,12,10,17,3,8,8,12,23,LLDWLWWDLWLDDDDDLLD,2,4,3,9,10,WLWLDDWDD,LWWDWDDDL
+Piacenza,Reggiana,3-2,/match/piacenza/ac-reggiana-1919/1994,1994,21,serie_a,18,34,0,3,2,12,5,7,8,16,27,LWDDWWDWLDDDWWWWDWWW,4,5,1,13,12,9,5,6,9,14,23,WDWDWDDDWDWWWWWWLWWW,0,1,8,2,19,LDWDDDWWDW,WWWDWWWWW
+Udinese,Torino,1-1,/match/udinese/torino-fc/1994,1994,21,serie_a,18,34,1,1,1,17,4,8,8,14,23,LLDWLWWDLWLDDDDDLLDL,1,4,5,3,13,7,8,6,6,26,20,LWDWWWWDLWWLWWDWDWDD,2,3,5,10,13,LDLWLLDDLD,LDWWDWLWWD
+Juventus,Calcio Foggia,2-0,/match/juventus-fc/us-foggia/1994,1994,21,serie_a,18,34,0,2,0,2,9,8,3,33,19,WWWDWDWWDWWDDWWWLDDD,8,2,0,21,5,11,5,10,5,30,24,DDLDLDWDDDDLWDLWDWWW,2,5,3,13,14,WWWWWWDWWD,DLDWDDWLDW
+Genoa,Parma,0-4,/match/genoa/parma-fc/1994,1994,21,serie_a,18,34,2,0,4,15,4,8,8,14,23,WWDWDWDDLWLWWDLWWDDD,3,5,2,7,7,4,10,5,5,28,15,LWWWWDWDWWWLDWLLDLDW,3,4,3,13,10,WDDDLWDLWD,LWDDWLWLDD
+Atalanta,Milan,0-1,/match/atalanta/milan/1994,1994,21,serie_a,18,34,2,0,1,16,4,7,9,21,36,WWWWDWLWDWDLDDWWLDDW,3,5,2,14,14,1,11,8,1,22,8,LWDWWLDDDWLWDWDWLDDW,4,5,1,9,5,WWDLDDLDWD,LDLDWLDDLD
+Lazio,Cremonese,4-2,/match/lazio/us-cremonese/1994,1994,21,serie_a,18,34,0,4,2,5,8,7,5,24,21,DDWWDWDWDWLLWDWLDWWW,6,3,1,16,6,10,6,6,8,22,24,WWWWDLLDWDWWWWDDWDWL,1,3,6,7,14,DWDWWLWWDW,WWDLDWWDWW
+Napoli,Roma,1-1,/match/napoli/roma/1994,1994,21,serie_a,18,34,1,1,1,8,8,6,6,31,23,LWDLDWDLWDLWWWWLDWWD,5,3,2,19,8,14,5,9,6,17,19,WWDLWWLLDDDLDWWDDDDL,2,5,3,5,7,LDWDWLWWDW,WDWLDLDWDD
+Lecce,Sampdoria,0-3,/match/lecce/sampdoria/1994,1994,21,serie_a,18,34,2,0,3,18,1,4,15,15,36,LWLWWDWDWWWLWLWLWDDW,1,3,5,9,13,3,11,4,5,35,26,LWWWLDLLLWLLWDWWDWWD,5,2,3,17,15,LLDDWLLLD,LWLLLLDWDW
+Inter,Cagliari,3-3,/match/internazionale/cagliari/1994,1994,21,serie_a,18,34,1,3,3,6,9,6,5,29,18,WDWWDWDDLWLWDLWDLWWL,6,2,2,19,11,13,6,7,7,25,31,WLDWLWDLWWLDDWLWWDDD,2,4,4,12,18,WWWDWLDWLW,WDLDWLDWWD
+Napoli,Genoa,1-1,/match/napoli/genoa/1994,1994,22,serie_a,18,34,1,1,1,8,8,7,6,32,24,LWDLDWDLWDLWWWWLDWWDD,5,4,2,20,9,15,4,8,9,14,27,WWDWDWDDLWLWWDLWWDDDL,1,3,6,7,16,LDWDWLWWDWD,WWWDWLWWDD
+Lecce,Piacenza,1-1,/match/lecce/piacenza/1994,1994,22,serie_a,18,34,1,1,1,18,1,4,16,15,39,LWLWWDWDWWWLWLWLWDDWL,1,3,6,9,16,9,6,7,8,19,29,LWDDWWDWLDDDWWWWDWWWW,1,2,7,3,15,LLDDWLLLDL,WDWWLDWWWW
+Roma,Milan,0-2,/match/roma/milan/1994,1994,22,serie_a,18,34,2,0,2,14,5,10,6,18,20,WWDLWWLLDDDLDWWDDDDLD,3,4,3,12,12,1,12,8,1,23,8,LWDWWLDDDWLWDWDWLDDWL,5,5,1,10,5,WLWLDDWDDL,LDLDWLDDLDL
+Cremonese,Atalanta,2-0,/match/us-cremonese/atalanta/1994,1994,22,serie_a,18,34,0,2,0,11,6,6,9,24,28,WWWWDLLDWDWWWWDDWDWLW,5,3,2,15,10,16,4,7,10,21,37,WWWWDWLWDWDLDDWWLDDWL,1,2,7,7,22,WWLDWWWDDL,WWWWWDWLDW
+Torino,Parma,1-2,/match/torino-fc/parma-fc/1994,1994,22,serie_a,18,34,2,1,2,7,8,7,6,27,21,LWDWWWWDLWWLWWDWDWDDD,6,3,1,16,7,4,11,5,5,32,15,LWWWWDWDWWWLDWLLDLDWL,4,4,3,17,10,WWWLWWDDWD,LWDDWLWLDDL
+Sampdoria,Udinese,6-2,/match/sampdoria/udinese/1994,1994,22,serie_a,18,34,0,6,2,3,12,4,5,38,26,LWWWLDLLLWLLWDWWDWWDL,6,2,2,18,11,17,4,9,8,15,24,LLDWLWWDLWLDDDDDLLDLD,3,4,3,11,10,WWDLWLWWWD,LWWDWDDDLL
+Reggiana,Juventus,0-0,/match/ac-reggiana-1919/juventus-fc/1994,1994,22,serie_a,18,34,1,0,0,13,5,6,10,16,26,WDWDWDDDWDWWWWWWLWWWW,5,5,1,12,4,2,10,8,3,35,19,WWWDWDWWDWWDDWWWLDDDW,1,6,3,12,14,DDDDDWWWLWW,WDDDWDWLDD
+Cagliari,Calcio Foggia,1-1,/match/cagliari/us-foggia/1994,1994,22,serie_a,18,34,1,1,1,10,6,8,7,28,34,WLDWLWDLWWLDDWLWWDDDD,4,3,3,13,13,12,5,10,6,30,26,DDLDLDWDDDDLWDLWDWWWW,2,5,4,13,16,LWWLWDLWDD,DLDWDDWLDWW
+Inter,Lazio,1-2,/match/internazionale/lazio/1994,1994,22,serie_a,18,34,2,1,2,6,9,7,5,32,21,WDWWDWDDLWLWDLWDLWWLD,6,3,2,22,14,5,9,7,5,28,23,DDWWDWDWDWLLWDWLDWWWW,2,4,4,8,15,WWWDWLDWLWD,DWWDDLDLWW
+Calcio Foggia,Reggiana,1-0,/match/us-foggia/ac-reggiana-1919/1994,1994,23,serie_a,18,34,0,1,0,13,5,11,6,31,27,DDLDLDWDDDDLWDLWDWWWWD,3,5,2,17,10,11,5,7,10,16,26,WDWDWDDDWDWWWWWWLWWWWD,0,1,9,4,22,DDLDDLDWWW,WWWDWWWWWW
+Atalanta,Roma,1-1,/match/atalanta/roma/1994,1994,23,serie_a,18,34,1,1,1,16,4,7,11,21,39,WWWWDWLWDWDLDDWWLDDWLW,3,5,3,14,15,14,5,10,7,18,22,WWDLWWLLDDDLDWWDDDDLDL,2,6,3,6,8,WWDLDDLDWDL,WDWLDLDWDDD
+Parma,Sampdoria,2-1,/match/parma-fc/sampdoria/1994,1994,23,serie_a,18,34,0,2,1,4,12,5,5,34,16,LWWWWDWDWWWLDWLLDLDWLL,7,1,2,15,5,3,13,4,5,44,28,LWWWLDLLLWLLWDWWDWWDLW,6,2,3,20,15,WWWWWWDLLW,LWLLLLDWDWL
+Genoa,Torino,1-1,/match/genoa/torino-fc/1994,1994,23,serie_a,18,34,1,1,1,15,4,9,9,15,28,WWDWDWDDLWLWWDLWWDDDLD,3,5,3,7,11,8,8,7,7,28,23,LWDWWWWDLWWLWWDWDWDDDL,2,4,5,11,14,WDDDLWDLWDL,LDWWDWLWWDD
+Udinese,Napoli,3-1,/match/udinese/napoli/1994,1994,23,serie_a,18,34,0,3,1,17,4,9,9,17,30,LLDWLWWDLWLDDDDDLLDLDW,1,5,5,4,14,7,8,8,6,33,25,LWDLDWDLWDLWWWWLDWWDDD,3,3,4,12,15,LDLWLLDDLDD,WLDLDWWLWD
+Juventus,Lecce,5-1,/match/juventus-fc/lecce/1994,1994,23,serie_a,18,34,0,5,1,2,10,9,3,35,19,WWWDWDWWDWWDDWWWLDDDWD,9,2,0,23,5,18,1,5,16,16,40,LWLWWDWDWWWLWLWLWDDWLD,0,1,10,6,23,WWWWWWDWWDW,WWWWWWWWWDW
+Piacenza,Inter,2-1,/match/piacenza/internazionale/1994,1994,23,serie_a,18,34,0,2,1,9,6,8,8,20,30,LWDDWWDWLDDDWWWWDWWWWD,5,5,1,16,14,6,9,7,6,33,23,WDWWDWDDLWLWDLWDLWWLDL,3,4,3,10,7,LDWDDDWWDWW,DWDDLWLDWL
+Lazio,Cagliari,4-0,/match/lazio/cagliari/1994,1994,23,serie_a,18,34,0,4,0,5,10,7,5,30,24,DDWWDWDWDWLLWDWLDWWWWL,7,3,1,20,8,12,6,9,7,29,35,WLDWLWDLWWLDDWLWWDDDDD,2,5,4,15,21,DWDWWLWWDWW,WDLDWLDWWDD
+Milan,Cremonese,1-0,/match/milan/us-cremonese/1994,1994,23,serie_a,18,34,0,1,0,1,13,8,1,25,8,LWDWWLDDDWLWDWDWLDDWLL,7,3,0,13,3,10,7,6,9,26,28,WWWWDLLDWDWWWWDDWDWLWW,1,3,7,9,18,WWWDDWWWDW,WWDLDWWDWWW
+Cremonese,Roma,1-1,/match/us-cremonese/roma/1994,1994,24,serie_a,18,34,1,1,1,11,7,6,10,26,29,WWWWDLLDWDWWWWDDWDWLWWW,6,3,2,17,10,14,5,11,7,19,23,WWDLWWLLDDDLDWWDDDDLDLD,2,7,3,7,9,WWLDWWWDDLW,WDWLDLDWDDDD
+Torino,Juventus,1-1,/match/torino-fc/juventus-fc/1994,1994,24,serie_a,18,34,1,1,1,8,8,8,7,29,24,LWDWWWWDLWWLWWDWDWDDDLD,6,3,2,17,9,2,11,9,3,40,20,WWWDWDWWDWWDDWWWLDDDWDW,1,7,3,12,14,WWWLWWDDWDL,WDDDWDWLDDD
+Sampdoria,Atalanta,3-1,/match/sampdoria/atalanta/1994,1994,24,serie_a,18,34,0,3,1,5,13,4,6,45,30,LWWWLDLLLWLLWDWWDWWDLWW,7,2,2,24,13,16,4,8,11,22,40,WWWWDWLWDWDLDDWWLDDWLWD,1,2,8,7,24,WWDLWLWWWDW,WWWWWDWLDWW
+Calcio Foggia,Parma,3-2,/match/us-foggia/parma-fc/1994,1994,24,serie_a,18,34,0,3,2,10,6,11,6,32,27,DDLDLDWDDDDLWDLWDWWWWDW,4,5,2,18,10,3,13,5,5,36,17,LWWWWDWDWWWLDWLLDLDWLLW,5,4,3,19,11,DDLDDLDWWWW,LWDDWLWLDDLL
+Cagliari,Piacenza,2-0,/match/cagliari/piacenza/1994,1994,24,serie_a,18,34,0,2,0,12,6,9,8,29,39,WLDWLWDLWWLDDWLWWDDDDDW,4,4,3,14,14,9,7,8,8,22,31,LWDDWWDWLDDDWWWWDWWWWDW,1,3,7,4,16,LWWLWDLWDDD,WDWWLDWWWWD
+Lazio,Milan,0-1,/match/lazio/milan/1994,1994,24,serie_a,18,34,2,0,1,4,11,7,5,34,24,DDWWDWDWDWLLWDWLDWWWWLW,8,3,1,24,8,1,14,8,1,26,8,LWDWWLDDDWLWDWDWLDDWLLW,6,5,1,12,5,DWDWWLWWDWWW,LDLDWLDDLDLL
+Reggiana,Genoa,1-1,/match/ac-reggiana-1919/genoa/1994,1994,24,serie_a,18,34,1,1,1,13,5,7,11,16,27,WDWDWDDDWDWWWWWWLWWWWDW,5,6,1,12,4,15,4,10,9,16,29,WWDWDWDDLWLWWDLWWDDDLDD,1,4,6,8,17,DDDDDWWWLWWD,WWWDWLWWDDD
+Lecce,Udinese,1-0,/match/lecce/udinese/1994,1994,24,serie_a,18,34,0,1,0,18,1,5,17,17,45,LWLWWDWDWWWLWLWLWDDWLDW,1,4,6,10,17,17,5,9,9,20,31,LLDWLWWDLWLDDDDDLLDLDWW,3,4,4,13,16,LLDDWLLLDLD,LWWDWDDDLLW
+Inter,Napoli,0-0,/match/internazionale/napoli/1994,1994,24,serie_a,18,34,1,0,0,6,9,7,7,34,25,WDWWDWDDLWLWDLWDLWWLDLW,6,3,3,23,16,7,8,8,7,34,28,LWDLDWDLWDLWWWWLDWWDDDW,3,3,5,13,18,WWWDWLDWLWDL,WLDLDWWLWDW
+Genoa,Lecce,2-0,/match/genoa/lecce/1994,1994,25,serie_a,18,34,0,2,0,15,4,11,9,17,30,WWDWDWDDLWLWWDLWWDDDLDDD,3,6,3,8,12,18,2,5,17,18,45,LWLWWDWDWWWLWLWLWDDWLDWW,0,1,11,7,28,WDDDLWDLWDLD,WWWWWWWWWDWW
+Piacenza,Lazio,1-2,/match/piacenza/lazio/1994,1994,25,serie_a,18,34,2,1,2,10,7,8,9,22,33,LWDDWWDWLDDDWWWWDWWWWDWW,6,5,1,18,15,5,11,7,6,34,25,DDWWDWDWDWLLWDWLDWWWWLWL,3,4,4,10,16,LDWDDDWWDWWW,DWWDDLDLWWL
+Parma,Cremonese,2-1,/match/parma-fc/us-cremonese/1994,1994,25,serie_a,18,34,0,2,1,4,13,5,6,38,20,LWWWWDWDWWWLDWLLDLDWLLWW,8,1,2,17,6,11,7,7,10,27,30,WWWWDLLDWDWWWWDDWDWLWWWD,1,3,8,9,19,WWWWWWDLLWW,WWDLDWWDWWWW
+Napoli,Cagliari,1-2,/match/napoli/cagliari/1994,1994,25,serie_a,18,34,2,1,2,9,8,9,7,34,28,LWDLDWDLWDLWWWWLDWWDDDWD,5,5,2,21,10,12,7,9,8,31,39,WLDWLWDLWWLDDWLWWDDDDDWW,2,5,5,15,25,LDWDWLWWDWDD,WDLDWLDWWDDW
+Atalanta,Juventus,1-3,/match/atalanta/juventus-fc/1994,1994,25,serie_a,18,34,2,1,3,16,4,8,12,23,43,WWWWDWLWDWDLDDWWLDDWLWDW,3,6,3,15,16,2,11,10,3,41,21,WWWDWDWWDWWDDWWWLDDDWDWD,1,8,3,13,15,WWDLDDLDWDLD,WDDDWDWLDDDD
+Roma,Sampdoria,0-1,/match/roma/sampdoria/1994,1994,25,serie_a,18,34,2,0,1,14,5,12,7,20,24,WWDLWWLLDDDLDWWDDDDLDLDD,3,4,4,12,14,3,14,4,6,48,31,LWWWLDLLLWLLWDWWDWWDLWWW,6,2,4,21,17,WLWLDDWDDLL,LWLLLLDWDWLW
+Torino,Inter,2-0,/match/torino-fc/internazionale/1994,1994,25,serie_a,18,34,0,2,0,7,8,9,7,30,25,LWDWWWWDLWWLWWDWDWDDDLDD,6,4,2,18,10,6,9,8,7,34,25,WDWWDWDDLWLWDLWDLWWLDLWD,3,4,4,11,9,WWWLWWDDWDLD,DWDDLWLDWLW
+Udinese,Reggiana,2-1,/match/udinese/ac-reggiana-1919/1994,1994,25,serie_a,18,34,0,2,1,17,5,9,10,20,32,LLDWLWWDLWLDDDDDLLDLDWWW,2,5,5,7,15,13,5,8,11,17,28,WDWDWDDDWDWWWWWWLWWWWDWD,0,1,10,4,23,LDLWLLDDLDDW,WWWDWWWWWWW
+Milan,Calcio Foggia,2-1,/match/milan/us-foggia/1994,1994,25,serie_a,18,34,0,2,1,1,15,8,1,27,8,LWDWWLDDDWLWDWDWLDDWLLWL,8,3,0,14,3,8,7,11,6,35,29,DDLDLDWDDDDLWDLWDWWWWDWW,2,6,4,14,17,WWWDDWWWDWW,DLDWDDWLDWWD
+Lazio,Roma,1-0,/match/lazio/roma/1994,1994,26,serie_a,18,34,0,1,0,5,12,7,6,36,26,DDWWDWDWDWLLWDWLDWWWWLWLL,8,3,2,24,9,15,5,12,8,20,25,WWDLWWLLDDDLDWWDDDDLDLDDL,2,8,3,8,10,DWDWWLWWDWWWL,WDWLDLDWDDDDD
+Reggiana,Parma,2-0,/match/ac-reggiana-1919/parma-fc/1994,1994,26,serie_a,18,34,0,2,0,13,5,8,12,18,30,WDWDWDDDWDWWWWWWLWWWWDWDW,5,7,1,13,5,4,14,5,6,40,21,LWWWWDWDWWWLDWLLDLDWLLWWW,5,4,4,21,14,DDDDDWWWLWWDD,LWDDWLWLDDLLW
+Lecce,Napoli,0-1,/match/lecce/napoli/1994,1994,26,serie_a,18,34,2,0,1,18,2,5,18,18,47,LWLWWDWDWWWLWLWLWDDWLDWWW,2,4,6,11,17,9,8,9,8,35,30,LWDLDWDLWDLWWWWLDWWDDDWDL,3,4,5,13,18,LLDDWLLLDLDW,WLDLDWWLWDWD
+Inter,Udinese,1-0,/match/internazionale/udinese/1994,1994,26,serie_a,18,34,0,1,0,7,9,8,8,34,27,WDWWDWDDLWLWDLWDLWWLDLWDW,6,4,3,23,16,16,6,9,10,22,33,LLDWLWWDLWLDDDDDLLDLDWWWW,3,4,5,13,17,WWWDWLDWLWDLD,LWWDWDDDLLWW
+Piacenza,Genoa,1-1,/match/piacenza/genoa/1994,1994,26,serie_a,18,34,1,1,1,11,7,8,10,23,35,LWDDWWDWLDDDWWWWDWWWWDWWL,6,5,2,19,17,14,5,11,9,19,30,WWDWDWDDLWLWWDLWWDDDLDDDW,1,5,6,9,18,LDWDDDWWDWWWL,WWWDWLWWDDDD
+Sampdoria,Torino,1-0,/match/sampdoria/torino-fc/1994,1994,26,serie_a,18,34,0,1,0,3,15,4,6,49,31,LWWWLDLLLWLLWDWWDWWDLWWWL,8,2,2,27,14,6,9,9,7,32,25,LWDWWWWDLWWLWWDWDWDDDLDDW,2,5,5,12,15,WWDLWLWWWDWW,LDWWDWLWWDDD
+Juventus,Milan,0-1,/match/juventus-fc/milan/1994,1994,26,serie_a,18,34,2,0,1,2,12,10,3,44,22,WWWDWDWWDWWDDWWWLDDDWDWDL,10,2,0,28,6,1,16,8,1,29,9,LWDWWLDDDWLWDWDWLDDWLLWLW,7,5,1,13,5,WWWWWWDWWDWW,LDLDWLDDLDLLL
+Calcio Foggia,Atalanta,1-1,/match/us-foggia/atalanta/1994,1994,26,serie_a,18,34,1,1,1,8,7,11,7,36,31,DDLDLDWDDDDLWDLWDWWWWDWWW,5,5,2,21,12,17,4,8,13,24,46,WWWWDWLWDWDLDDWWLDDWLWDWL,1,2,9,8,27,DDLDDLDWWWWW,WWWWWDWLDWWW
+Cagliari,Cremonese,0-0,/match/cagliari/us-cremonese/1994,1994,26,serie_a,18,34,1,0,0,10,8,9,8,33,40,WLDWLWDLWWLDDWLWWDDDDDWWL,5,4,3,16,14,12,7,7,11,28,32,WWWWDLLDWDWWWWDDWDWLWWWDW,1,3,9,10,21,LWWLWDLWDDDW,WWDLDWWDWWWWW
+Genoa,Juventus,1-1,/match/genoa/juventus-fc/1994,1994,27,serie_a,18,34,1,1,1,14,5,12,9,20,31,WWDWDWDDLWLWWDLWWDDDLDDDWD,4,6,3,10,12,3,12,10,4,44,23,WWWDWDWWDWWDDWWWLDDDWDWDLL,2,8,3,16,16,WDDDLWDLWDLDW,WDDDWDWLDDDDL
+Atalanta,Lecce,3-4,/match/atalanta/lecce/1994,1994,27,serie_a,18,34,2,3,4,17,4,9,13,25,47,WWWWDWLWDWDLDDWWLDDWLWDWLD,3,6,4,16,19,18,2,5,19,18,48,LWLWWDWDWWWLWLWLWDDWLDWWWL,0,1,12,7,30,WWDLDDLDWDLDL,WWWWWWWWWDWWW
+Roma,Reggiana,0-0,/match/roma/ac-reggiana-1919/1994,1994,27,serie_a,18,34,1,0,0,15,5,12,9,20,26,WWDLWWLLDDDLDWWDDDDLDLDDLW,3,4,5,12,15,12,6,8,12,20,30,WDWDWDDDWDWWWWWWLWWWWDWDWW,0,1,11,5,25,WLWLDDWDDLLL,WWWDWWWWWWWW
+Napoli,Piacenza,0-0,/match/napoli/piacenza/1994,1994,27,serie_a,18,34,1,0,0,9,9,9,8,36,30,LWDLDWDLWDLWWWWLDWWDDDWDLL,5,5,3,22,12,10,7,9,10,24,36,LWDDWWDWLDDDWWWWDWWWWDWWLD,1,3,8,4,18,LDWDWLWWDWDDL,WDWWLDWWWWDW
+Udinese,Lazio,2-2,/match/udinese/lazio/1994,1994,27,serie_a,18,34,1,2,2,16,6,9,11,22,34,LLDWLWWDLWLDDDDDLLDLDWWWWW,3,5,5,9,16,4,13,7,6,37,26,DDWWDWDWDWLLWDWLDWWWWLWLLW,4,4,4,12,17,LDLWLLDDLDDWW,DWWDDLDLWWLL
+Milan,Sampdoria,1-0,/match/milan/sampdoria/1994,1994,27,serie_a,18,34,0,1,0,1,17,8,1,30,9,LWDWWLDDDWLWDWDWLDDWLLWLWL,9,3,0,16,4,2,16,4,6,50,31,LWWWLDLLLWLLWDWWDWWDLWWWLW,7,2,4,22,17,WWWDDWWWDWWW,LWLLLLDWDWLWL
+Cremonese,Calcio Foggia,2-0,/match/us-cremonese/us-foggia/1994,1994,27,serie_a,18,34,0,2,0,13,7,8,11,28,32,WWWWDLLDWDWWWWDDWDWLWWWDWD,6,4,2,18,11,8,7,12,7,37,32,DDLDLDWDDDDLWDLWDWWWWDWWWD,2,6,5,15,19,WWLDWWWDDLWD,DLDWDDWLDWWDW
+Torino,Cagliari,2-1,/match/torino-fc/cagliari/1994,1994,27,serie_a,18,34,0,2,1,7,9,9,8,32,26,LWDWWWWDLWWLWWDWDWDDDLDDWW,7,4,2,20,10,11,8,10,8,33,40,WLDWLWDLWWLDDWLWWDDDDDWWLD,3,5,5,17,26,WWWLWWDDWDLDW,WDLDWLDWWDDWL
+Parma,Inter,4-1,/match/parma-fc/internazionale/1994,1994,27,serie_a,18,34,0,4,1,5,14,5,7,40,23,LWWWWDWDWWWLDWLLDLDWLLWWWW,9,1,2,19,7,6,10,8,8,35,27,WDWWDWDDLWLWDLWDLWWLDLWDWW,3,4,5,11,11,WWWWWWDLLWWW,DWDDLWLDWLWW
+Reggiana,Torino,1-0,/match/ac-reggiana-1919/torino-fc/1994,1994,28,serie_a,18,34,0,1,0,13,6,9,12,20,30,WDWDWDDDWDWWWWWWLWWWWDWDWWD,6,7,1,15,5,6,10,9,8,34,27,LWDWWWWDLWWLWWDWDWDDDLDDWWW,2,5,6,12,16,DDDDDWWWLWWDDW,LDWWDWLWWDDDW
+Cagliari,Sampdoria,0-0,/match/cagliari/sampdoria/1994,1994,28,serie_a,18,34,1,0,0,12,8,10,9,34,42,WLDWLWDLWWLDDWLWWDDDDDWWLDW,5,5,3,16,14,3,16,4,7,50,32,LWWWLDLLLWLLWDWWDWWDLWWWLWW,7,2,5,22,18,LWWLWDLWDDDWD,LWLLLLDWDWLWLW
+Juventus,Parma,4-0,/match/juventus-fc/parma-fc/1994,1994,28,serie_a,18,34,0,4,0,2,12,11,4,45,24,WWWDWDWWDWWDDWWWLDDDWDWDLLD,10,2,1,28,7,4,15,5,7,44,24,LWWWWDWDWWWLDWLLDLDWLLWWWWW,5,4,5,21,16,WWWWWWDWWDWWL,LWDDWLWLDDLLWW
+Genoa,Udinese,3-0,/match/genoa/udinese/1994,1994,28,serie_a,18,34,0,3,0,14,5,13,9,21,32,WWDWDWDDLWLWWDLWWDDDLDDDWDD,4,7,3,11,13,16,6,10,11,24,36,LLDWLWWDLWLDDDDDLLDLDWWWWWD,3,4,6,13,18,WDDDLWDLWDLDWD,LWWDWDDDLLWWW
+Lecce,Cremonese,2-4,/match/lecce/us-cremonese/1994,1994,28,serie_a,18,34,2,2,4,18,3,5,19,22,51,LWLWWDWDWWWLWLWLWDDWLDWWWLL,2,4,7,11,18,9,8,8,11,30,32,WWWWDLLDWDWWWWDDWDWLWWWDWDW,1,4,9,10,21,LLDDWLLLDLDWL,WWDLDWWDWWWWWD
+Milan,Inter,2-1,/match/milan/internazionale/1994,1994,28,serie_a,18,34,0,2,1,1,18,8,1,31,9,LWDWWLDDDWLWDWDWLDDWLLWLWLW,10,3,0,17,4,7,10,8,9,36,31,WDWWDWDDLWLWDLWDLWWLDLWDWWW,3,4,6,12,15,WWWDDWWWDWWWW,DWDDLWLDWLWWW
+Calcio Foggia,Roma,1-1,/match/us-foggia/roma/1994,1994,28,serie_a,18,34,1,1,1,11,7,12,8,37,34,DDLDLDWDDDDLWDLWDWWWWDWWWDW,5,6,2,22,13,15,5,13,9,20,26,WWDLWWLLDDDLDWWDDDDLDLDDLWD,2,8,4,8,11,DDLDDLDWWWWWD,WDWLDLDWDDDDDW
+Piacenza,Atalanta,4-0,/match/piacenza/atalanta/1994,1994,28,serie_a,18,34,0,4,0,10,7,10,10,24,36,LWDDWWDWLDDDWWWWDWWWWDWWLDD,6,6,2,20,18,17,4,9,14,28,51,WWWWDWLWDWDLDDWWLDDWLWDWLDL,1,3,9,9,28,LDWDDDWWDWWWLD,WWWWWDWLDWWWD
+Lazio,Napoli,3-0,/match/lazio/napoli/1994,1994,28,serie_a,18,34,0,3,0,5,13,8,6,39,28,DDWWDWDWDWLLWDWLDWWWWLWLLWD,9,3,2,25,9,8,9,10,8,36,30,LWDLDWDLWDLWWWWLDWWDDDWDLLD,4,4,5,14,18,DWDWWLWWDWWWLW,WLDLDWWLWDWDL
+Napoli,Milan,1-0,/match/napoli/milan/1994,1994,29,serie_a,18,34,0,1,0,9,9,10,9,36,33,LWDLDWDLWDLWWWWLDWWDDDWDLLDW,5,6,3,22,12,1,19,8,1,33,10,LWDWWLDDDWLWDWDWLDDWLLWLWLWW,8,5,1,14,5,LDWDWLWWDWDDLD,LDLDWLDDLDLLLL
+Sampdoria,Calcio Foggia,6-0,/match/sampdoria/us-foggia/1994,1994,29,serie_a,18,34,0,6,0,4,16,5,7,50,32,LWWWLDLLLWLLWDWWDWWDLWWWLWWD,9,2,2,28,14,11,7,13,8,38,35,DDLDLDWDDDDLWDLWDWWWWDWWWDWD,2,6,6,15,21,WWDLWLWWWDWWW,DLDWDDWLDWWDWW
+Parma,Atalanta,2-1,/match/parma-fc/atalanta/1994,1994,29,serie_a,18,34,0,2,1,5,15,5,8,44,28,LWWWWDWDWWWLDWLLDLDWLLWWWWWW,10,1,2,23,8,17,4,9,15,28,55,WWWWDWLWDWDLDDWWLDDWLWDWLDLW,1,3,10,9,32,WWWWWWDLLWWWW,WWWWWDWLDWWWDW
+Torino,Lazio,1-1,/match/torino-fc/lazio/1994,1994,29,serie_a,18,34,1,1,1,6,10,9,9,34,28,LWDWWWWDLWWLWWDWDWDDDLDDWWWW,8,4,2,22,11,3,14,8,6,42,28,DDWWDWDWDWLLWDWLDWWWWLWLLWDW,4,5,4,14,19,WWWLWWDDWDLDWW,DWWDDLDLWWLLD
+Udinese,Piacenza,2-2,/match/udinese/piacenza/1994,1994,29,serie_a,18,34,1,2,2,16,6,10,12,24,39,LLDWLWWDLWLDDDDDLLDLDWWWWWDW,3,6,5,11,18,7,8,10,10,28,36,LWDDWWDWLDDDWWWWDWWWWDWWLDDW,1,4,8,4,18,LDLWLLDDLDDWWD,WDWWLDWWWWDWD
+Roma,Lecce,3-0,/match/roma/lecce/1994,1994,29,serie_a,18,34,0,3,0,15,5,14,9,21,27,WWDLWWLLDDDLDWWDDDDLDLDDLWDD,3,5,5,12,15,18,3,5,20,24,55,LWLWWDWDWWWLWLWLWDDWLDWWWLLL,1,1,12,11,33,WLWLDDWDDLLLD,WWWWWWWWWDWWWL
+Cremonese,Reggiana,1-1,/match/us-cremonese/ac-reggiana-1919/1994,1994,29,serie_a,18,34,1,1,1,10,9,8,11,34,34,WWWWDLLDWDWWWWDDWDWLWWWDWDWL,7,4,2,20,11,12,7,9,12,21,30,WDWDWDDDWDWWWWWWLWWWWDWDWWDW,0,2,11,5,25,WWLDWWWDDLWDW,WWWDWWWWWWWWD
+Cagliari,Juventus,0-1,/match/cagliari/juventus-fc/1994,1994,29,serie_a,18,34,2,0,1,13,8,11,9,34,42,WLDWLWDLWWLDDWLWWDDDDDWWLDWD,5,6,3,16,14,2,13,11,4,49,24,WWWDWDWWDWWDDWWWLDDDWDWDLLDW,2,9,3,17,17,LWWLWDLWDDDWDD,WDDDWDWLDDDDLD
+Inter,Genoa,1-3,/match/internazionale/genoa/1994,1994,29,serie_a,18,34,2,1,3,8,10,8,10,37,33,WDWWDWDDLWLWDLWDLWWLDLWDWWWW,7,4,3,24,16,14,6,13,9,24,32,WWDWDWDDLWLWWDLWWDDDLDDDWDDW,1,6,6,10,19,WWWDWLDWLWDLDW,WWWDWLWWDDDDD
+Reggiana,Napoli,1-0,/match/ac-reggiana-1919/napoli/1994,1994,30,serie_a,18,34,0,1,0,11,7,10,12,22,31,WDWDWDDDWDWWWWWWLWWWWDWDWWDWD,7,7,1,16,5,7,10,10,9,37,33,LWDLDWDLWDLWWWWLDWWDDDWDLLDWW,4,4,6,14,21,DDDDDWWWLWWDDWW,WLDLDWWLWDWDLW
+Lecce,Torino,1-2,/match/lecce/torino-fc/1994,1994,30,serie_a,18,34,2,1,2,18,3,5,21,24,58,LWLWWDWDWWWLWLWLWDDWLDWWWLLLW,2,4,8,13,22,6,10,10,9,35,29,LWDWWWWDLWWLWWDWDWDDDLDDWWWWD,2,5,7,12,17,LLDDWLLLDLDWLL,LDWWDWLWWDDDWW
+Milan,Parma,1-1,/match/milan/parma-fc/1994,1994,30,serie_a,18,34,1,1,1,1,19,8,2,33,11,LWDWWLDDDWLWDWDWLDDWLLWLWLWWW,11,3,0,19,5,5,16,5,8,46,29,LWWWWDWDWWWLDWLLDLDWLLWWWWWWW,5,4,6,21,20,WWWDDWWWDWWWWW,LWDDWLWLDDLLWWW
+Cremonese,Sampdoria,0-0,/match/us-cremonese/sampdoria/1994,1994,30,serie_a,18,34,1,0,0,9,9,9,11,35,35,WWWWDLLDWDWWWWDDWDWLWWWDWDWLD,7,5,2,21,12,3,17,5,7,56,32,LWWWLDLLLWLLWDWWDWWDLWWWLWWDW,7,3,5,22,18,WWLDWWWDDLWDWD,LWLLLLDWDWLWLWD
+Genoa,Lazio,1-1,/match/genoa/lazio/1994,1994,30,serie_a,18,34,1,1,1,13,7,13,9,27,33,WWDWDWDDLWLWWDLWWDDDLDDDWDDWL,5,7,3,14,13,4,14,9,6,43,29,DDWWDWDWDWLLWDWLDWWWWLWLLWDWD,4,6,4,15,20,WDDDLWDLWDLDWDW,DWWDDLDLWWLLDD
+Juventus,Inter,1-0,/match/juventus-fc/internazionale/1994,1994,30,serie_a,18,34,0,1,0,2,14,11,4,50,24,WWWDWDWWDWWDDWWWLDDDWDWDLLDWL,11,2,1,32,7,10,10,8,11,38,36,WDWWDWDDLWLWDLWDLWWLDLWDWWWWL,3,4,7,13,17,WWWWWWDWWDWWLW,DWDDLWLDWLWWWW
+Calcio Foggia,Piacenza,1-0,/match/us-foggia/piacenza/1994,1994,30,serie_a,18,34,0,1,0,12,7,13,9,38,41,DDLDLDWDDDDLWDLWDWWWWDWWWDWDW,5,7,2,23,14,8,8,11,10,30,38,LWDDWWDWLDDDWWWWDWWWWDWWLDDWD,1,5,8,6,20,DDLDDLDWWWWWDD,WDWWLDWWWWDWDD
+Atalanta,Udinese,1-1,/match/atalanta/udinese/1994,1994,30,serie_a,18,34,1,1,1,17,4,9,16,29,57,WWWWDWLWDWDLDDWWLDDWLWDWLDLWW,3,6,5,19,23,16,6,11,12,26,41,LLDWLWWDLWLDDDDDLLDLDWWWWWDWD,3,4,7,13,21,WWDLDDLDWDLDLL,LWWDWDDDLLWWWW
+Roma,Cagliari,2-0,/match/roma/cagliari/1994,1994,30,serie_a,18,34,0,2,0,15,6,14,9,24,27,WWDLWWLLDDDLDWWDDDDLDLDDLWDDW,4,5,5,15,15,14,8,11,10,34,43,WLDWLWDLWWLDDWLWWDDDDDWWLDWDL,3,5,6,18,28,WLWLDDWDDLLLDW,WDLDWLDWWDDWLW
+Piacenza,Cremonese,1-1,/match/piacenza/us-cremonese/1994,1994,31,serie_a,18,34,1,1,1,11,8,11,11,30,39,LWDDWWDWLDDDWWWWDWWWWDWWLDDWDW,7,6,2,24,18,9,9,10,11,35,35,WWWWDLLDWDWWWWDDWDWLWWWDWDWLDD,2,4,9,14,23,LDWDDDWWDWWWLDW,WWDLDWWDWWWWWDL
+Udinese,Calcio Foggia,3-0,/match/udinese/us-foggia/1994,1994,31,serie_a,18,34,0,3,0,16,6,12,12,27,42,LLDWLWWDLWLDDDDDLLDLDWWWWWDWDD,3,7,5,13,20,10,8,13,9,39,41,DDLDLDWDDDDLWDLWDWWWWDWWWDWDWW,2,6,7,15,27,LDLWLLDDLDDWWDD,DLDWDDWLDWWDWWW
+Parma,Roma,0-2,/match/parma-fc/roma/1994,1994,31,serie_a,18,34,2,0,2,5,16,6,8,47,30,LWWWWDWDWWWLDWLLDLDWLLWWWWWWWD,11,1,2,25,9,15,7,14,9,26,27,WWDLWWLLDDDLDWWDDDDLDLDDLWDDWW,2,9,4,9,12,WWWWWWDLLWWWWW,WDWLDLDWDDDDDWD
+Napoli,Juventus,0-0,/match/napoli/juventus-fc/1994,1994,31,serie_a,18,34,1,0,0,8,10,10,10,37,34,LWDLDWDLWDLWWWWLDWWDDDWDLLDWWW,6,6,3,23,12,2,15,11,4,51,24,WWWDWDWWDWWDDWWWLDDDWDWDLLDWLW,3,9,3,18,17,LDWDWLWWDWDDLDW,WDDDWDWLDDDDLDL
+Cagliari,Reggiana,3-0,/match/cagliari/ac-reggiana-1919/1994,1994,31,serie_a,18,34,0,3,0,14,8,11,11,34,45,WLDWLWDLWWLDDWLWWDDDDDWWLDWDLW,5,6,4,16,15,7,8,10,12,23,31,WDWDWDDDWDWWWWWWLWWWWDWDWWDWDW,0,3,11,6,26,LWWLWDLWDDDWDDL,WWWDWWWWWWWWDD
+Lazio,Atalanta,3-1,/match/lazio/atalanta/1994,1994,31,serie_a,18,34,0,3,1,4,14,10,6,44,30,DDWWDWDWDWLLWDWLDWWWWLWLLWDWDD,10,3,2,28,9,17,4,10,16,30,58,WWWWDWLWDWDLDDWWLDDWLWDWLDLWWD,1,3,11,10,34,DWDWWLWWDWWWLWW,WWWWWDWLDWWWDWW
+Torino,Milan,0-0,/match/torino-fc/milan/1994,1994,31,serie_a,18,34,1,0,0,6,11,10,9,37,30,LWDWWWWDLWWLWWDWDWDDDLDDWWWWDL,8,5,2,23,12,1,19,9,2,34,12,LWDWWLDDDWLWDWDWLDDWLLWLWLWWWD,8,5,2,14,6,WWWLWWDDWDLDWWD,LDLDWLDDLDLLLLW
+Sampdoria,Genoa,1-1,/match/sampdoria/genoa/1994,1994,31,serie_a,18,34,1,1,1,3,17,6,7,56,32,LWWWLDLLLWLLWDWWDWWDLWWWLWWDWD,10,2,2,34,14,12,7,14,9,28,34,WWDWDWDDLWLWWDLWWDDDLDDDWDDWLD,2,6,6,13,20,WWDLWLWWWDWWWW,WWWDWLWWDDDDDL
+Inter,Lecce,4-1,/match/internazionale/lecce/1994,1994,31,serie_a,18,34,0,4,1,13,10,8,12,38,37,WDWWDWDDLWLWDLWDLWWLDLWDWWWWLW,7,4,4,25,19,18,3,5,22,25,60,LWLWWDWDWWWLWLWLWDDWLDWWWLLLWL,1,1,13,11,36,WWWDWLDWLWDLDWL,WWWWWWWWWDWWWLW
+Atalanta,Napoli,1-1,/match/atalanta/napoli/1994,1994,32,serie_a,18,34,1,1,1,17,4,10,17,31,61,WWWWDWLWDWDLDDWWLDDWLWDWLDLWWDW,3,7,5,20,24,8,10,11,10,37,34,LWDLDWDLWDLWWWWLDWWDDDWDLLDWWWD,4,4,7,14,22,WWDLDDLDWDLDLLD,WLDLDWWLWDWDLWW
+Parma,Cagliari,3-1,/match/parma-fc/cagliari/1994,1994,32,serie_a,18,34,0,3,1,5,16,6,9,47,32,LWWWWDWDWWWLDWLLDLDWLLWWWWWWWDL,11,1,3,25,11,14,9,11,11,37,45,WLDWLWDLWWLDDWLWWDDDDDWWLDWDLWW,3,5,7,18,30,WWWWWWDLLWWWWWL,WDLDWLDWWDDWLWW
+Milan,Udinese,2-2,/match/milan/udinese/1994,1994,32,serie_a,18,34,1,2,2,1,19,10,2,34,12,LWDWWLDDDWLWDWDWLDDWLLWLWLWWWDD,11,4,0,20,6,16,7,12,12,30,42,LLDWLWWDLWLDDDDDLLDLDWWWWWDWDDW,3,5,7,14,22,WWWDDWWWDWWWWWD,LWWDWDDDLLWWWWD
+Cremonese,Torino,1-1,/match/us-cremonese/torino-fc/1994,1994,32,serie_a,18,34,1,1,1,10,9,11,11,36,36,WWWWDLLDWDWWWWDDWDWLWWWDWDWLDDD,7,6,2,21,12,6,11,11,9,37,30,LWDWWWWDLWWLWWDWDWDDDLDDWWWWDLD,3,5,7,14,18,WWLDWWWDDLWDWDD,LDWWDWLWWDDDWWL
+Lecce,Reggiana,2-4,/match/lecce/ac-reggiana-1919/1994,1994,32,serie_a,18,34,2,2,4,18,3,5,23,26,64,LWLWWDWDWWWLWLWLWDDWLDWWWLLLWLW,2,4,9,14,24,9,8,10,13,23,34,WDWDWDDDWDWWWWWWLWWWWDWDWWDWDWW,0,3,12,6,29,LLDDWLLLDLDWLLL,WWWDWWWWWWWWDDW
+Juventus,Lazio,6-1,/match/juventus-fc/lazio/1994,1994,32,serie_a,18,34,0,6,1,2,15,12,4,51,24,WWWDWDWWDWWDDWWWLDDDWDWDLLDWLWD,12,2,1,33,7,3,15,10,6,47,31,DDWWDWDWDWLLWDWLDWWWWLWLLWDWDDW,4,7,4,16,21,WWWWWWDWWDWWLWW,DWWDDLDLWWLLDDD
+Calcio Foggia,Genoa,3-0,/match/us-foggia/genoa/1994,1994,32,serie_a,18,34,0,3,0,12,8,13,10,39,44,DDLDLDWDDDDLWDLWDWWWWDWWWDWDWWW,6,7,2,24,14,13,7,15,9,29,35,WWDWDWDDLWLWWDLWWDDDLDDDWDDWLDD,2,7,6,14,21,DDLDDLDWWWWWDDW,WWWDWLWWDDDDDLD
+Sampdoria,Inter,3-1,/match/sampdoria/internazionale/1994,1994,32,serie_a,18,34,0,3,1,4,17,7,7,57,33,LWWWLDLLLWLLWDWWDWWDLWWWLWWDWDD,10,3,2,35,15,7,11,8,12,42,38,WDWWDWDDLWLWDLWDLWWLDLWDWWWWLWW,3,4,8,13,18,WWDLWLWWWDWWWWD,DWDDLWLDWLWWWWW
+Roma,Piacenza,3-1,/match/roma/piacenza/1994,1994,32,serie_a,18,34,0,3,1,15,8,14,9,28,27,WWDLWWLLDDDLDWWDDDDLDLDDLWDDWWL,5,5,5,17,15,11,8,12,11,31,40,LWDDWWDWLDDDWWWWDWWWWDWWLDDWDWD,1,5,9,6,21,WLWLDDWDDLLLDWW,WDWWLDWWWWDWDDW
+Cagliari,Milan,0-0,/match/cagliari/milan/1994,1994,33,serie_a,18,34,1,0,0,15,9,11,12,38,48,WLDWLWDLWWLDDWLWWDDDDDWWLDWDLWWW,6,6,4,19,15,1,19,11,2,36,14,LWDWWLDDDWLWDWDWLDDWLLWLWLWWWDDD,8,6,2,14,6,LWWLWDLWDDDWDDLW,LDLDWLDDLDLLLLWD
+Inter,Roma,2-2,/match/internazionale/roma/1994,1994,33,serie_a,18,34,1,2,2,11,11,8,13,43,41,WDWWDWDDLWLWDLWDLWWLDLWDWWWWLWWW,8,4,4,29,20,13,9,14,9,31,28,WWDLWWLLDDDLDWWDDDDLDLDDLWDDWWLW,3,9,4,11,12,WWWDWLDWLWDLDWLW,WDWLDLDWDDDDDWDL
+Reggiana,Sampdoria,1-1,/match/ac-reggiana-1919/sampdoria/1994,1994,33,serie_a,18,34,1,1,1,8,9,10,13,27,36,WDWDWDDDWDWWWWWWLWWWWDWDWWDWDWWL,8,7,1,17,5,3,18,7,7,60,34,LWWWLDLLLWLLWDWWDWWDLWWWLWWDWDDW,7,4,5,22,18,DDDDDWWWLWWDDWWW,LWLLLLDWDWLWLWDD
+Torino,Calcio Foggia,1-4,/match/torino-fc/us-foggia/1994,1994,33,serie_a,18,34,2,1,4,6,11,12,9,38,31,LWDWWWWDLWWLWWDWDWDDDLDDWWWWDLDD,8,6,2,23,12,7,9,13,10,42,44,DDLDLDWDDDDLWDLWDWWWWDWWWDWDWWWW,2,6,8,15,30,WWWLWWDDWDLDWWDD,DLDWDDWLDWWDWWWW
+Udinese,Cremonese,3-3,/match/udinese/us-cremonese/1994,1994,33,serie_a,18,34,1,3,3,16,7,13,12,32,44,LLDWLWWDLWLDDDDDLLDLDWWWWWDWDDWD,4,7,5,16,20,9,9,12,11,37,37,WWWWDLLDWDWWWWDDWDWLWWWDWDWLDDDD,2,5,9,15,24,LDLWLLDDLDDWWDDW,WWDLDWWDWWWWWDLD
+Genoa,Atalanta,2-1,/match/genoa/atalanta/1994,1994,33,serie_a,18,34,0,2,1,14,7,15,10,29,38,WWDWDWDDLWLWWDLWWDDDLDDDWDDWLDDW,5,8,3,15,14,17,4,11,17,32,62,WWWWDWLWDWDLDDWWLDDWLWDWLDLWWDWD,1,3,12,11,37,WDDDLWDLWDLDWDWD,WWWWWDWLDWWWDWWW
+Piacenza,Juventus,0-0,/match/piacenza/juventus-fc/1994,1994,33,serie_a,18,34,1,0,0,12,8,12,12,32,43,LWDDWWDWLDDDWWWWDWWWWDWWLDDWDWDW,7,7,2,25,19,2,16,12,4,57,25,WWWDWDWWDWWDDWWWLDDDWDWDLLDWLWDW,3,10,3,18,17,LDWDDDWWDWWWLDWD,WDDDWDWLDDDDLDLD
+Lazio,Lecce,3-0,/match/lazio/lecce/1994,1994,33,serie_a,18,34,0,3,0,4,15,10,7,48,37,DDWWDWDWDWLLWDWLDWWWWLWLLWDWDDWW,11,3,2,31,10,18,3,5,24,28,68,LWLWWDWDWWWLWLWLWDDWLDWWWLLLWLWL,1,1,14,12,40,DWDWWLWWDWWWLWWW,WWWWWWWWWDWWWLWW
+Napoli,Parma,2-0,/match/napoli/parma-fc/1994,1994,33,serie_a,18,34,0,2,0,10,10,12,10,38,35,LWDLDWDLWDLWWWWLDWWDDDWDLLDWWWDD,6,7,3,23,12,5,17,6,9,50,33,LWWWWDWDWWWLDWLLDLDWLLWWWWWWWDLW,5,5,6,22,21,LDWDWLWWDWDDLDWD,LWDDWLWLDDLLWWWD
+Cremonese,Genoa,1-1,/match/us-cremonese/genoa/1994,1994,34,serie_a,18,34,1,1,1,10,9,13,11,40,40,WWWWDLLDWDWWWWDDWDWLWWWDWDWLDDDDD,7,7,2,22,13,13,8,15,10,31,39,WWDWDWDDLWLWWDLWWDDDLDDDWDDWLDDWW,2,7,7,14,24,WWLDWWWDDLWDWDDD,WWWDWLWWDDDDDLDW
+Lecce,Cagliari,0-1,/match/lecce/cagliari/1994,1994,34,serie_a,18,34,2,0,1,18,3,5,25,28,71,LWLWWDWDWWWLWLWLWDDWLDWWWLLLWLWLW,2,4,10,16,28,15,9,12,12,38,48,WLDWLWDLWWLDDWLWWDDDDDWWLDWDLWWWD,3,5,8,19,33,LLDDWLLLDLDWLLLL,WDLDWLDWWDDWLWWW
+Juventus,Udinese,1-0,/match/juventus-fc/udinese/1994,1994,34,serie_a,18,34,0,1,0,2,16,13,4,57,25,WWWDWDWWDWWDDWWWLDDDWDWDLLDWLWDWD,13,2,1,39,8,16,7,14,12,35,47,LLDWLWWDLWLDDDDDLLDLDWWWWWDWDDWDD,3,6,7,16,24,WWWWWWDWWDWWLWWW,LWWDWDDDLLWWWWDD
+Calcio Foggia,Napoli,0-1,/match/us-foggia/napoli/1994,1994,34,serie_a,18,34,2,0,1,8,10,13,10,46,45,DDLDLDWDDDDLWDLWDWWWWDWWWDWDWWWWL,7,7,2,27,14,7,11,12,10,40,35,LWDLDWDLWDLWWWWLDWWDDDWDLLDWWWDDW,4,5,7,15,23,DDLDDLDWWWWWDDWW,WLDLDWWLWDWDLWWD
+Sampdoria,Lazio,3-4,/match/sampdoria/lazio/1994,1994,34,serie_a,18,34,2,3,4,3,18,8,7,61,35,LWWWLDLLLWLLWDWWDWWDLWWWLWWDWDDWD,11,3,2,38,16,4,16,10,7,51,37,DDWWDWDWDWLLWDWLDWWWWLWLLWDWDDWWW,4,7,5,17,27,WWDLWLWWWDWWWWDW,DWWDDLDLWWLLDDDW
+Roma,Torino,2-0,/match/roma/torino-fc/1994,1994,34,serie_a,18,34,0,2,0,14,9,15,9,33,30,WWDLWWLLDDDLDWWDDDDLDLDDLWDDWWLWD,6,5,5,20,16,6,11,12,10,39,35,LWDWWWWDLWWLWWDWDWDDDLDDWWWWDLDDL,3,6,7,15,19,WLWLDDWDDLLLDWWW,LDWWDWLWWDDDWWLD
+Atalanta,Inter,2-1,/match/atalanta/internazionale/1994,1994,34,serie_a,18,34,0,2,1,17,4,11,18,33,64,WWWWDWLWDWDLDDWWLDDWLWDWLDLWWDWDW,3,8,5,21,25,11,11,9,13,45,43,WDWWDWDDLWLWDLWDLWWLDLWDWWWWLWWWD,3,4,9,14,21,WWDLDDLDWDLDLLDD,DWDDLWLDWLWWWWWW
+Parma,Piacenza,0-0,/match/parma-fc/piacenza/1994,1994,34,serie_a,18,34,1,0,0,5,17,6,10,50,35,LWWWWDWDWWWLDWLLDLDWLLWWWWWWWDLWW,12,1,3,28,12,12,8,13,12,32,43,LWDDWWDWLDDDWWWWDWWWWDWWLDDWDWDWD,1,5,10,7,24,WWWWWWDLLWWWWWLW,WDWWLDWWWWDWDDWW
+Milan,Reggiana,0-1,/match/milan/ac-reggiana-1919/1994,1994,34,serie_a,18,34,2,0,1,1,19,12,2,36,14,LWDWWLDDDWLWDWDWLDDWLLWLWLWWWDDDD,11,5,0,22,8,9,9,11,13,28,37,WDWDWDDDWDWWWWWWLWWWWDWDWWDWDWWLD,1,3,12,10,31,WWWDDWWWDWWWWWDD,WWWDWWWWWWWWDDWL

@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Monaco,Toulouse,3-2,/match/monaco/toulouse-fc/2018,2018,1,ligue_1,20,38,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSG,Amiens SC,2-0,/match/paris-saint-germain-fc/amiens-sc/2018,2018,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique Lyonnais,Strasbourg,4-0,/match/olympique-lyonnais/strasbourg/2018,2018,1,ligue_1,20,38,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Saint-Étienne,Nice,1-0,/match/saint-etienne/nice/2018,2018,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Caen,1-0,/match/montpellier-hsc/caen/2018,2018,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Metz,Guingamp,1-3,/match/metz/guingamp/2018,2018,1,ligue_1,20,38,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Troyes,Stade Rennais,1-1,/match/troyes/stade-rennes/2018,2018,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lille,Nantes,3-0,/match/lillestrom/nantes/2018,2018,1,ligue_1,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Angers SCO,Girondins Bordeaux,2-2,/match/angers-sco/bordeaux/2018,2018,1,ligue_1,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique,Dijon FCO,3-0,/match/olympique-marsella/dijon-fco/2018,2018,1,ligue_1,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nice,Troyes,1-2,/match/nice/troyes/2018,2018,2,ligue_1,20,38,2,1,2,15,0,0,1,0,1,W,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
+Stade Rennais,Olympique Lyonnais,1-2,/match/stade-rennes/olympique-lyonnais/2018,2018,2,ligue_1,20,38,2,1,2,12,0,1,0,1,1,D,0,0,0,0,0,5,1,0,0,4,0,W,0,0,0,0,0,,
+Nantes,Olympique,0-1,/match/nantes/olympique-marsella/2018,2018,2,ligue_1,20,38,2,0,1,13,0,0,1,0,3,W,0,0,0,0,0,6,1,0,0,3,0,W,0,0,0,0,0,,
+Amiens SC,Angers SCO,0-2,/match/amiens-sc/angers-sco/2018,2018,2,ligue_1,20,38,2,0,2,14,0,0,1,0,2,W,0,0,0,0,0,9,0,1,0,2,2,D,0,0,0,0,0,,
+Girondins Bordeaux,Metz,2-0,/match/bordeaux/metz/2018,2018,2,ligue_1,20,38,0,2,0,11,0,1,0,2,2,D,0,0,0,0,0,20,0,0,1,1,3,L,0,0,0,0,0,,
+Caen,Saint-Étienne,0-1,/match/caen/saint-etienne/2018,2018,2,ligue_1,20,38,2,0,1,16,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Toulouse,Montpellier,1-0,/match/toulouse-fc/montpellier-hsc/2018,2018,2,ligue_1,20,38,0,1,0,17,0,0,1,2,3,W,0,0,0,0,0,7,1,0,0,1,0,W,0,0,0,0,0,,
+Strasbourg,Lille,3-0,/match/strasbourg/lillestrom/2018,2018,2,ligue_1,20,38,0,3,0,18,0,0,1,0,4,W,0,0,0,0,0,1,1,0,0,3,0,W,0,0,0,0,0,,
+Dijon FCO,Monaco,1-4,/match/dijon-fco/monaco/2018,2018,2,ligue_1,20,38,2,1,4,19,0,0,1,0,3,W,0,0,0,0,0,4,1,0,0,3,2,W,0,0,0,0,0,,
+Guingamp,PSG,0-3,/match/guingamp/paris-saint-germain-fc/2018,2018,2,ligue_1,20,38,2,0,3,10,1,0,0,3,1,L,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Metz,Monaco,0-1,/match/metz/monaco/2018,2018,3,ligue_1,20,38,2,0,1,20,0,0,2,1,5,LW,0,0,1,1,3,3,2,0,0,7,3,WL,1,0,0,4,1,L,L
+Olympique Lyonnais,Girondins Bordeaux,3-3,/match/olympique-lyonnais/bordeaux/2018,2018,3,ligue_1,20,38,1,3,3,4,2,0,0,6,1,WL,1,0,0,4,0,6,1,1,0,4,2,DW,0,1,0,2,2,W,D
+Saint-Étienne,Amiens SC,3-0,/match/saint-etienne/amiens-sc/2018,2018,3,ligue_1,20,38,0,3,0,1,2,0,0,2,0,WL,1,0,0,1,0,16,0,0,2,0,4,WL,0,0,1,0,2,W,W
+Stade Rennais,Dijon FCO,2-2,/match/stade-rennes/dijon-fco/2018,2018,3,ligue_1,20,38,1,2,2,14,0,1,1,2,3,DL,0,0,1,1,2,19,0,0,2,1,7,WL,0,0,1,0,3,L,W
+Nice,Guingamp,2-0,/match/nice/guingamp/2018,2018,3,ligue_1,20,38,0,2,0,17,0,0,2,1,3,WL,0,0,1,1,2,13,1,0,1,3,4,LL,1,0,0,3,1,L,L
+Montpellier,Strasbourg,1-1,/match/montpellier-hsc/strasbourg/2018,2018,3,ligue_1,20,38,1,1,1,12,1,0,1,1,1,WW,1,0,0,1,0,7,1,0,1,3,4,WW,0,0,1,0,4,W,W
+Troyes,Nantes,0-1,/match/troyes/nantes/2018,2018,3,ligue_1,20,38,2,0,1,11,1,1,0,3,2,DL,0,1,0,1,1,15,0,0,2,0,4,WL,0,0,1,0,3,D,W
+Lille,Caen,0-2,/match/lillestrom/caen/2018,2018,3,ligue_1,20,38,2,0,2,9,1,0,1,3,3,WW,1,0,0,3,0,18,0,0,2,0,2,WL,0,0,1,0,1,W,W
+Olympique,Angers SCO,1-1,/match/olympique-marsella/angers-sco/2018,2018,3,ligue_1,20,38,1,1,1,5,2,0,0,4,0,WL,1,0,0,3,0,10,1,1,0,4,2,DL,1,0,0,2,0,W,L
+PSG,Toulouse,6-2,/match/paris-saint-germain-fc/toulouse-fc/2018,2018,3,ligue_1,20,38,0,6,2,2,2,0,0,5,0,WL,1,0,0,2,0,8,1,0,1,3,3,WW,0,0,1,2,3,W,W
+PSG,Saint-Étienne,3-0,/match/paris-saint-germain-fc/saint-etienne/2018,2018,4,ligue_1,20,38,0,3,0,2,3,0,0,11,2,WLW,2,0,0,8,2,1,3,0,0,5,0,WLW,1,0,0,1,0,WW,L
+Nantes,Olympique Lyonnais,0-0,/match/nantes/olympique-lyonnais/2018,2018,4,ligue_1,20,38,1,0,0,16,1,0,2,1,4,WLL,0,0,1,0,1,4,2,1,0,9,4,WLD,1,0,0,2,1,L,L
+Amiens SC,Nice,3-0,/match/amiens-sc/nice/2018,2018,4,ligue_1,20,38,0,3,0,19,0,0,3,0,7,WLW,0,0,1,0,2,10,1,0,2,3,3,WLW,0,0,1,0,1,L,W
+Girondins Bordeaux,Troyes,2-1,/match/bordeaux/troyes/2018,2018,4,ligue_1,20,38,0,2,1,6,1,2,0,7,5,DWD,1,0,0,2,0,11,1,1,1,3,3,DLL,1,0,0,2,1,W,L
+Caen,Metz,1-0,/match/caen/metz/2018,2018,4,ligue_1,20,38,0,1,0,17,1,0,2,2,2,WLL,0,0,1,0,1,20,0,0,3,1,6,LWL,0,0,1,0,2,L,W
+Dijon FCO,Montpellier,2-1,/match/dijon-fco/montpellier-hsc/2018,2018,4,ligue_1,20,38,0,2,1,18,0,1,2,3,9,WLD,0,0,1,1,4,7,1,1,1,2,2,WWD,0,0,1,0,1,L,W
+Toulouse,Stade Rennais,3-2,/match/toulouse-fc/stade-rennes/2018,2018,4,ligue_1,20,38,0,3,2,13,1,0,2,5,9,WWW,1,0,0,1,0,14,0,2,1,4,5,DLD,0,1,0,1,1,W,D
+Guingamp,Strasbourg,2-0,/match/guingamp/strasbourg/2018,2018,4,ligue_1,20,38,0,2,0,15,1,0,2,3,6,LLW,0,0,1,0,3,8,1,1,1,4,5,WWD,0,1,1,1,5,L,WD
+Angers SCO,Lille,1-1,/match/angers-sco/lillestrom/2018,2018,4,ligue_1,20,38,1,1,1,9,1,2,0,5,3,DLD,0,1,0,2,2,12,1,0,2,3,5,WWL,0,0,1,0,3,D,W
+Monaco,Olympique,6-1,/match/monaco/olympique-marsella/2018,2018,4,ligue_1,20,38,0,6,1,3,3,0,0,8,3,WLL,1,0,0,3,2,5,2,1,0,5,1,WLD,1,0,0,1,0,W,L
+Lille,Girondins Bordeaux,0-0,/match/lillestrom/bordeaux/2018,2018,5,ligue_1,20,38,1,0,0,13,1,1,2,4,6,WWLD,1,0,1,3,2,4,2,2,0,9,6,DWDW,0,2,0,5,5,WL,DD
+Metz,PSG,1-5,/match/metz/paris-saint-germain-fc/2018,2018,5,ligue_1,20,38,2,1,5,20,0,0,4,1,7,LWLW,0,0,2,1,4,1,4,0,0,14,2,WLWW,1,0,0,3,0,LL,L
+Nice,Monaco,4-0,/match/nice/monaco/2018,2018,5,ligue_1,20,38,0,4,0,18,1,0,3,3,6,WLWW,1,0,1,3,2,2,4,0,0,14,4,WLLW,2,0,0,5,1,LW,LL
+Strasbourg,Amiens SC,0-1,/match/strasbourg/amiens-sc/2018,2018,5,ligue_1,20,38,2,0,1,12,1,1,2,4,7,WWDW,1,0,0,3,0,15,1,0,3,3,7,WLWW,0,0,2,0,5,W,WW
+Caen,Dijon FCO,2-1,/match/caen/dijon-fco/2018,2018,5,ligue_1,20,38,0,2,1,9,2,0,2,3,2,WLLW,1,0,1,1,1,14,1,1,2,5,10,WLDW,0,1,1,2,5,LW,WD
+Montpellier,Nantes,0-1,/match/montpellier-hsc/nantes/2018,2018,5,ligue_1,20,38,2,0,1,10,1,1,2,3,4,WWDW,1,1,0,2,1,17,1,1,2,1,4,WLLD,1,0,1,1,3,WD,WL
+Troyes,Toulouse,0-0,/match/troyes/toulouse-fc/2018,2018,5,ligue_1,20,38,1,0,0,16,1,1,2,4,5,DLLW,0,1,1,1,2,7,2,0,2,8,11,WWWW,0,0,2,4,9,DL,WW
+Saint-Étienne,Angers SCO,1-1,/match/saint-etienne/angers-sco/2018,2018,5,ligue_1,20,38,1,1,1,3,3,0,1,5,3,WLWW,2,0,0,4,0,8,1,3,0,6,4,DLDD,1,1,0,3,1,WW,LD
+Olympique Lyonnais,Guingamp,2-1,/match/olympique-lyonnais/guingamp/2018,2018,5,ligue_1,20,38,0,2,1,5,2,2,0,9,4,WLDD,1,1,0,7,3,11,2,0,2,5,6,LLWW,1,0,1,3,3,WD,LW
+Olympique,Stade Rennais,1-3,/match/olympique-marsella/stade-rennes/2018,2018,5,ligue_1,20,38,2,1,3,6,2,1,1,6,7,WLDW,1,1,0,4,1,19,0,2,2,6,8,DLDW,0,1,1,3,4,WD,DW
+Toulouse,Girondins Bordeaux,0-1,/match/toulouse-fc/bordeaux/2018,2018,6,ligue_1,20,38,2,0,1,7,2,1,2,8,11,WWWWD,2,0,0,4,2,5,2,3,0,9,6,DWDWD,0,3,0,5,5,WW,DDD
+Monaco,Strasbourg,3-0,/match/monaco/strasbourg/2018,2018,6,ligue_1,20,38,0,3,0,4,4,0,1,14,8,WLLWW,2,0,0,9,3,18,1,1,3,4,8,WWDWL,0,1,2,1,7,WW,WDW
+Dijon FCO,Saint-Étienne,0-1,/match/dijon-fco/saint-etienne/2018,2018,6,ligue_1,20,38,2,0,1,17,1,1,3,6,12,WLDWW,1,0,1,3,5,3,3,1,1,6,4,WLWWD,1,0,1,1,3,LW,LW
+Guingamp,Lille,1-0,/match/guingamp/lillestrom/2018,2018,6,ligue_1,20,38,0,1,0,15,2,0,3,6,8,LLWWW,1,0,1,2,3,11,1,2,2,4,6,WWLDD,0,1,1,1,4,LW,WD
+Nantes,Caen,1-0,/match/nantes/caen/2018,2018,6,ligue_1,20,38,0,1,0,13,2,1,2,2,4,WLLDL,0,1,1,0,1,6,3,0,2,5,3,WLLWW,1,0,1,2,1,LD,WL
+Troyes,Montpellier,0-1,/match/troyes/montpellier-hsc/2018,2018,6,ligue_1,20,38,2,0,1,14,1,2,2,4,5,DLLWD,0,2,1,1,2,16,1,1,3,3,5,WWDWL,0,0,2,1,3,DLD,WW
+Amiens SC,Olympique,0-2,/match/amiens-sc/olympique-marsella/2018,2018,6,ligue_1,20,38,2,0,2,12,2,0,3,4,7,WLWWL,1,0,1,3,2,8,2,1,2,7,10,WLDWL,1,0,1,2,6,LW,LW
+Angers SCO,Metz,0-1,/match/angers-sco/metz/2018,2018,6,ligue_1,20,38,2,0,1,9,1,4,0,7,5,DLDDD,0,2,0,3,3,20,0,0,5,2,12,LWLWL,0,0,2,0,3,DD,WW
+Stade Rennais,Nice,0-1,/match/stade-rennes/nice/2018,2018,6,ligue_1,20,38,2,0,1,19,1,2,2,9,9,DLDWL,0,1,1,3,4,10,2,0,3,7,6,WLWWW,0,0,2,0,4,LD,WW
+PSG,Olympique Lyonnais,2-0,/match/paris-saint-germain-fc/olympique-lyonnais/2018,2018,6,ligue_1,20,38,0,2,0,1,5,0,0,19,3,WLWWL,3,0,0,11,2,2,3,2,0,11,5,WLDDW,1,1,0,2,1,WWW,LD
+Nice,Angers SCO,2-2,/match/nice/angers-sco/2018,2018,7,ligue_1,20,38,1,2,2,9,3,0,3,8,6,WLWWWL,2,0,1,7,2,12,1,4,1,7,6,DLDDDL,1,2,0,4,2,LWW,LDD
+Lille,Monaco,0-4,/match/lillestrom/monaco/2018,2018,7,ligue_1,20,38,2,0,4,14,1,2,3,4,7,WWLDDW,1,1,1,3,2,2,5,0,1,17,8,WLLWWW,2,0,1,5,5,WLD,LLW
+Montpellier,PSG,0-0,/match/montpellier-hsc/paris-saint-germain-fc/2018,2018,7,ligue_1,20,38,1,0,0,13,2,1,3,4,5,WWDWLL,1,1,1,2,2,1,6,0,0,21,3,WLWWLW,2,0,0,8,1,WDL,LL
+Girondins Bordeaux,Guingamp,3-1,/match/bordeaux/guingamp/2018,2018,7,ligue_1,20,38,0,3,1,4,3,3,0,10,6,DWDWDL,2,0,0,4,1,6,3,0,3,7,8,LLWWWW,1,0,2,4,5,WW,LWW
+Caen,Amiens SC,1-0,/match/caen/amiens-sc/2018,2018,7,ligue_1,20,38,0,1,0,7,3,0,3,5,4,WLLWWW,2,0,1,3,2,16,2,0,4,4,9,WLWWLL,1,0,2,1,5,LWW,WWL
+Olympique Lyonnais,Dijon FCO,3-3,/match/olympique-lyonnais/dijon-fco/2018,2018,7,ligue_1,20,38,1,3,3,5,3,2,1,11,7,WLDDWW,2,1,0,9,4,17,1,1,4,6,13,WLDWWL,0,1,2,3,7,WDW,WDW
+Metz,Troyes,0-1,/match/metz/troyes/2018,2018,7,ligue_1,20,38,2,0,1,20,1,0,5,3,12,LWLWLL,0,0,3,2,9,15,1,2,3,4,6,DLLWDL,1,0,1,3,3,LLL,LW
+Saint-Étienne,Stade Rennais,2-2,/match/saint-etienne/stade-rennes/2018,2018,7,ligue_1,20,38,1,2,2,3,4,1,1,7,4,WLWWDL,2,1,0,5,1,19,1,2,3,9,10,DLDWLL,1,1,1,6,5,WWD,DWL
+Strasbourg,Nantes,1-2,/match/strasbourg/nantes/2018,2018,7,ligue_1,20,38,2,1,2,18,1,1,4,4,11,WWDWLW,1,0,1,3,1,10,3,1,2,3,4,WLLDLW,2,0,1,2,3,WL,WLL
+Olympique,Toulouse,2-0,/match/olympique-marsella/toulouse-fc/2018,2018,7,ligue_1,20,38,0,2,0,8,3,1,2,9,10,WLDWLL,1,1,1,5,4,11,2,1,3,8,12,WWWWDL,0,1,2,4,9,WDL,WWD
+Monaco,Montpellier,1-1,/match/monaco/montpellier-hsc/2018,2018,8,ligue_1,20,38,1,1,1,2,6,0,1,21,8,WLLWWWL,3,0,0,12,3,10,2,2,3,4,5,WWDWLLD,1,0,2,2,3,WWW,WWL
+PSG,Girondins Bordeaux,6-2,/match/paris-saint-germain-fc/bordeaux/2018,2018,8,ligue_1,20,38,0,6,2,1,6,1,0,21,3,WLWWLWD,4,0,0,13,2,3,4,3,0,13,7,DWDWDLW,1,3,0,6,5,WWWW,DDDL
+Dijon FCO,Strasbourg,1-1,/match/dijon-fco/strasbourg/2018,2018,8,ligue_1,20,38,1,1,1,17,1,2,4,9,16,WLDWWLD,1,0,2,3,6,19,1,1,5,5,13,WWDWLWL,0,1,3,1,10,LWL,WDWW
+Guingamp,Toulouse,1-1,/match/guingamp/toulouse-fc/2018,2018,8,ligue_1,20,38,1,1,1,11,3,0,4,8,11,LLWWWWW,2,0,1,3,3,12,2,1,4,8,14,WWWWDLW,0,1,3,4,11,LWW,WWDW
+Nantes,Metz,1-0,/match/nantes/metz/2018,2018,8,ligue_1,20,38,0,1,0,9,4,1,2,5,5,WLLDLWL,1,1,1,1,1,20,1,0,6,3,13,LWLWLLL,1,0,2,1,3,LDW,WWL
+Stade Rennais,Caen,0-1,/match/stade-rennes/caen/2018,2018,8,ligue_1,20,38,2,0,1,18,1,3,3,11,12,DLDWLLD,0,1,2,3,5,6,4,0,3,6,4,WLLWWWW,1,0,2,2,2,LDL,WLW
+Troyes,Saint-Étienne,2-1,/match/troyes/saint-etienne/2018,2018,8,ligue_1,20,38,0,2,1,14,2,2,3,5,6,DLLWDLL,0,2,2,1,3,4,4,2,1,9,6,WLWWDLD,2,0,1,2,3,DLDL,LWL
+Angers SCO,Olympique Lyonnais,3-3,/match/angers-sco/olympique-lyonnais/2018,2018,8,ligue_1,20,38,1,3,3,13,1,5,1,9,8,DLDDDLD,0,2,1,3,4,5,3,3,1,14,10,WLDDWWD,1,1,1,2,3,DDL,LDW
+Nice,Olympique,2-4,/match/nice/olympique-marsella/2018,2018,8,ligue_1,20,38,2,2,4,8,3,1,3,10,8,WLWWWLD,2,1,1,9,4,7,4,1,2,11,10,WLDWLLW,2,0,1,4,6,LWWD,LWL
+Amiens SC,Lille,3-0,/match/amiens-sc/lillestrom/2018,2018,8,ligue_1,20,38,0,3,0,16,2,0,5,4,10,WLWWLLW,1,0,2,3,4,15,1,2,4,4,11,WWLDDWL,0,1,2,1,5,LWL,WDW
+Olympique Lyonnais,Monaco,3-2,/match/olympique-lyonnais/monaco/2018,2018,9,ligue_1,20,38,0,3,2,5,3,4,1,17,13,WLDDWWDD,2,2,0,12,7,2,6,1,1,22,9,WLLWWWLD,3,0,1,9,5,WDWD,LLWL
+Dijon FCO,PSG,1-2,/match/dijon-fco/paris-saint-germain-fc/2018,2018,9,ligue_1,20,38,2,1,2,16,1,3,4,10,17,WLDWWLDD,1,1,2,4,7,1,7,1,0,27,5,WLWWLWDW,2,1,0,8,1,LWLD,LLD
+Caen,Angers SCO,0-2,/match/caen/angers-sco/2018,2018,9,ligue_1,20,38,2,0,2,6,5,0,3,7,4,WLLWWWWL,3,0,1,4,2,13,1,6,1,12,11,DLDDDLDD,1,3,0,6,4,LWWW,LDDD
+Guingamp,Stade Rennais,2-0,/match/guingamp/stade-rennes/2018,2018,9,ligue_1,20,38,0,2,0,10,3,1,4,9,12,LLWWWWWD,2,1,1,4,4,18,1,3,4,11,13,DLDWLLDL,1,2,1,8,7,LWWD,DWLD
+Lille,Troyes,2-2,/match/lillestrom/troyes/2018,2018,9,ligue_1,20,38,1,2,2,17,1,2,5,4,14,WWLDDWLW,1,1,2,3,6,9,3,2,3,7,7,DLLWDLLW,2,0,1,4,3,WLDL,LWL
+Saint-Étienne,Metz,3-1,/match/saint-etienne/metz/2018,2018,9,ligue_1,20,38,0,3,1,4,4,2,2,10,8,WLWWDLDW,2,2,0,7,3,20,1,0,7,3,14,LWLWLLLW,1,0,3,1,4,WWDD,WWLW
+Toulouse,Amiens SC,1-0,/match/toulouse-fc/amiens-sc/2018,2018,9,ligue_1,20,38,0,1,0,14,2,2,4,9,15,WWWWDLWD,2,0,1,4,3,15,3,0,5,7,10,WLWWLLWW,1,0,3,1,6,WWL,WWLW
+Girondins Bordeaux,Nantes,1-1,/match/bordeaux/nantes/2018,2018,9,ligue_1,20,38,1,1,1,3,4,3,1,15,13,DWDWDLWW,3,0,0,7,2,8,5,1,2,6,5,WLLDLWLW,3,0,1,4,4,WWW,WLLL
+Montpellier,Nice,2-0,/match/montpellier-hsc/nice/2018,2018,9,ligue_1,20,38,0,2,0,12,2,3,3,5,6,WWDWLLDD,1,2,1,2,2,11,3,1,4,12,12,WLWWWLDL,1,0,2,1,4,WDLD,WWL
+Strasbourg,Olympique,3-3,/match/strasbourg/olympique-marsella/2018,2018,9,ligue_1,20,38,1,3,3,19,1,2,5,6,14,WWDWLWLD,1,0,2,4,3,7,5,1,2,15,12,WLDWLLWL,3,0,1,8,8,WLL,LWLL
+Saint-Étienne,Montpellier,0-1,/match/saint-etienne/montpellier-hsc/2018,2018,10,ligue_1,20,38,2,0,1,2,5,2,2,13,9,WLWWDLDWW,3,2,0,10,4,10,3,3,3,7,6,WWDWLLDDW,1,1,2,3,4,WWDDW,WWLD
+Monaco,Caen,2-0,/match/monaco/caen/2018,2018,10,ligue_1,20,38,0,2,0,4,6,1,2,24,12,WLLWWWLDW,3,1,0,13,4,8,5,0,4,7,6,WLLWWWWLL,2,0,2,3,2,WWWD,WLWL
+Amiens SC,Girondins Bordeaux,1-0,/match/amiens-sc/bordeaux/2018,2018,10,ligue_1,20,38,0,1,0,15,3,0,6,7,11,WLWWLLWWW,2,0,2,6,4,5,4,4,1,16,14,DWDWDLWWD,1,3,1,8,11,LWLW,DDDLW
+Angers SCO,Toulouse,0-1,/match/angers-sco/toulouse-fc/2018,2018,10,ligue_1,20,38,2,0,1,13,2,6,1,14,11,DLDDDLDDL,0,3,1,6,7,11,3,2,4,10,15,WWWWDLWDW,0,2,3,5,12,DDLD,WWDWD
+Metz,Dijon FCO,1-2,/match/metz/dijon-fco/2018,2018,10,ligue_1,20,38,2,1,2,20,1,0,8,4,17,LWLWLLLWW,0,0,4,2,10,17,1,3,5,11,19,WLDWWLDDL,0,2,2,6,10,LLLL,WDWD
+Nantes,Guingamp,2-1,/match/nantes/guingamp/2018,2018,10,ligue_1,20,38,0,2,1,7,5,2,2,7,6,WLLDLWLWD,2,1,1,2,1,9,4,1,4,11,12,LLWWWWWDW,1,0,3,5,8,LDWW,LWWW
+Stade Rennais,Lille,1-0,/match/stade-rennes/lillestrom/2018,2018,10,ligue_1,20,38,0,1,0,19,1,3,5,11,15,DLDWLLDLW,0,1,3,3,6,16,1,3,5,6,16,WWLDDWLWD,0,1,3,1,8,LDLL,WDWW
+Nice,Strasbourg,1-2,/match/nice/strasbourg/2018,2018,10,ligue_1,20,38,2,1,2,14,3,1,5,12,14,WLWWWLDLW,2,1,2,11,8,18,1,3,5,9,17,WWDWLWLDD,0,2,3,2,11,LWWDL,WDWWD
+Troyes,Olympique Lyonnais,0-5,/match/troyes/olympique-lyonnais/2018,2018,10,ligue_1,20,38,2,0,5,12,3,3,3,9,9,DLLWDLLWD,1,2,2,3,4,3,4,4,1,20,15,WLDDWWDDW,1,2,1,5,6,DLDLW,LDWD
+Olympique,PSG,2-2,/match/olympique-marsella/paris-saint-germain-fc/2018,2018,10,ligue_1,20,38,1,2,2,6,5,2,2,18,15,WLDWLLWLD,2,1,1,7,4,1,8,1,0,29,6,WLWWLWDWL,3,1,0,10,2,WDLW,LLDL
+PSG,Nice,3-0,/match/paris-saint-germain-fc/nice/2018,2018,11,ligue_1,20,38,0,3,0,1,8,2,0,31,8,WLWWLWDWLD,5,0,0,19,4,15,3,1,6,13,16,WLWWWLDLWL,1,0,3,1,6,WWWWW,WWLW
+Girondins Bordeaux,Monaco,0-2,/match/bordeaux/monaco/2018,2018,11,ligue_1,20,38,2,0,2,6,4,4,2,16,15,DWDWDLWWDW,3,1,0,8,3,2,7,1,2,26,12,WLLWWWLDWW,3,0,2,11,8,WWWD,LLWLW
+Caen,Troyes,1-0,/match/caen/troyes/2018,2018,11,ligue_1,20,38,0,1,0,11,5,0,5,7,8,WLLWWWWLLW,3,0,2,4,4,13,3,3,4,9,14,DLLWDLLWDL,2,1,1,6,5,LWWWL,LWLD
+Dijon FCO,Nantes,1-0,/match/dijon-fco/nantes/2018,2018,11,ligue_1,20,38,0,1,0,16,2,3,5,13,20,WLDWWLDDLL,1,1,3,5,9,4,6,2,2,9,7,WLLDLWLWDW,3,1,1,5,5,LWLDL,WLLLD
+Guingamp,Amiens SC,1-1,/match/guingamp/amiens-sc/2018,2018,11,ligue_1,20,38,1,1,1,10,4,1,5,12,14,LLWWWWWDWW,3,1,1,6,4,12,4,0,6,8,11,WLWWLLWWWW,1,0,4,1,7,LWWDW,WWLWW
+Montpellier,Stade Rennais,0-1,/match/montpellier-hsc/stade-rennes/2018,2018,11,ligue_1,20,38,2,0,1,8,4,3,3,8,6,WWDWLLDDWL,2,2,1,4,2,18,2,3,5,12,15,DLDWLLDLWW,1,2,2,8,9,WDLDW,DWLDW
+Strasbourg,Angers SCO,2-2,/match/strasbourg/angers-sco/2018,2018,11,ligue_1,20,38,1,2,2,17,2,3,5,11,18,WWDWLWLDDL,1,1,2,7,6,14,2,6,2,14,12,DLDDDLDDLL,2,3,0,8,4,WLLD,LDDDL
+Olympique Lyonnais,Metz,2-0,/match/olympique-lyonnais/metz/2018,2018,11,ligue_1,20,38,0,2,0,3,5,4,1,25,15,WLDDWWDDWL,3,2,0,15,9,20,1,0,9,5,19,LWLWLLLWWL,1,0,4,2,7,WDWDW,WWLWW
+Toulouse,Saint-Étienne,0-0,/match/toulouse-fc/saint-etienne/2018,2018,11,ligue_1,20,38,1,0,0,9,4,2,4,11,15,WWWWDLWDWL,3,0,1,5,3,5,5,2,3,13,10,WLWWDLDWWL,2,0,2,3,5,WWLW,LWLW
+Lille,Olympique,0-1,/match/lillestrom/olympique-marsella/2018,2018,11,ligue_1,20,38,2,0,1,19,1,3,6,6,17,WWLDDWLWDW,1,2,2,5,8,7,5,3,2,20,17,WLDWLLWLDD,3,1,1,11,11,WLDLD,LWLLD
+Stade Rennais,Girondins Bordeaux,1-0,/match/stade-rennes/bordeaux/2018,2018,12,ligue_1,20,38,0,1,0,18,3,3,5,13,15,DLDWLLDLWWL,1,1,3,4,6,8,4,4,3,16,17,DWDWDLWWDWL,1,3,2,8,12,LDLLW,DDDLWW
+Angers SCO,PSG,0-5,/match/angers-sco/paris-saint-germain-fc/2018,2018,12,ligue_1,20,38,2,0,5,13,2,7,2,16,14,DLDDDLDDLLD,0,3,2,6,8,1,9,2,0,34,8,WLWWLWDWLDW,3,2,0,12,4,DDLDL,LLDLD
+Monaco,Guingamp,6-0,/match/monaco/guingamp/2018,2018,12,ligue_1,20,38,0,6,0,3,8,1,2,28,12,WLLWWWLDWWL,4,1,0,15,4,10,4,2,5,13,15,LLWWWWWDWWD,1,0,4,6,10,WWWDW,LWWWW
+Montpellier,Amiens SC,1-1,/match/montpellier-hsc/amiens-sc/2018,2018,12,ligue_1,20,38,1,1,1,11,4,3,4,8,7,WWDWLLDDWLL,2,2,2,4,3,12,4,1,6,9,12,WLWWLLWWWWD,1,1,4,2,8,WDLDWL,WWLWWD
+Nantes,Toulouse,2-1,/match/nantes/toulouse-fc/2018,2018,12,ligue_1,20,38,0,2,1,5,6,2,3,9,8,WLLDLWLWDWW,3,1,1,4,2,9,4,3,4,11,15,WWWWDLWDWLD,1,2,3,6,12,LDWWW,WWDWDL
+Troyes,Strasbourg,3-0,/match/troyes/strasbourg/2018,2018,12,ligue_1,20,38,0,3,0,15,3,3,5,9,15,DLLWDLLWDLW,1,2,3,3,9,17,2,4,5,13,20,WWDWLWLDDLD,1,2,3,4,12,DLDLWL,WDWWDL
+Nice,Dijon FCO,1-0,/match/nice/dijon-fco/2018,2018,12,ligue_1,20,38,0,1,0,16,3,1,7,13,19,WLWWWLDLWLW,2,1,3,12,10,14,3,3,5,14,20,WLDWWLDDLLW,1,2,2,8,11,LWWDLL,WDWDL
+Olympique,Caen,5-0,/match/olympique-marsella/caen/2018,2018,12,ligue_1,20,38,0,5,0,4,6,3,2,21,17,WLDWLLWLDDL,2,2,1,9,6,7,6,0,5,8,8,WLLWWWWLLWW,2,0,3,3,4,WDLWD,WLWLW
+Metz,Lille,0-3,/match/metz/lillestrom/2018,2018,12,ligue_1,20,38,2,0,3,20,1,0,10,5,21,LWLWLLLWWLW,0,0,5,3,12,19,1,3,7,6,18,WWLDDWLWDWL,0,1,4,1,9,LLLLL,WDWWW
+Saint-Étienne,Olympique Lyonnais,0-5,/match/saint-etienne/olympique-lyonnais/2018,2018,12,ligue_1,20,38,2,0,5,6,5,3,3,13,10,WLWWDLDWWLD,3,2,1,10,5,2,6,4,1,27,15,WLDDWWDDWLW,2,2,1,10,6,WWDDWL,LDWDL
+Lille,Saint-Étienne,3-1,/match/lillestrom/saint-etienne/2018,2018,13,ligue_1,20,38,0,3,1,19,2,3,7,9,18,WWLDDWLWDWLL,1,2,3,5,9,6,5,3,4,13,15,WLWWDLDWWLDL,2,1,2,3,5,WLDLDL,LWLWD
+Amiens SC,Monaco,1-1,/match/amiens-sc/monaco/2018,2018,13,ligue_1,20,38,1,1,1,13,4,2,6,10,13,WLWWLLWWWWDD,3,0,2,7,4,2,9,1,2,34,12,WLLWWWLDWWLW,4,0,2,13,8,LWLWW,LLWLWL
+PSG,Nantes,4-1,/match/paris-saint-germain-fc/nantes/2018,2018,13,ligue_1,20,38,0,4,1,1,10,2,0,39,8,WLWWLWDWLDWL,6,0,0,22,4,5,7,2,3,11,9,WLLDLWLWDWWW,3,1,2,5,6,WWWWWW,WLLLDW
+Dijon FCO,Troyes,3-1,/match/dijon-fco/troyes/2018,2018,13,ligue_1,20,38,0,3,1,17,3,3,6,14,21,WLDWWLDDLLWW,2,1,3,6,9,12,4,3,5,12,15,DLLWDLLWDLWW,2,1,2,6,6,LWLDLW,LWLDW
+Guingamp,Angers SCO,1-1,/match/guingamp/angers-sco/2018,2018,13,ligue_1,20,38,1,1,1,11,4,2,6,13,21,LLWWWWWDWWDW,3,2,1,7,5,16,2,7,3,16,19,DLDDDLDDLLDL,2,4,0,10,6,LWWDWD,LDDDLD
+Strasbourg,Stade Rennais,2-1,/match/strasbourg/stade-rennes/2018,2018,13,ligue_1,20,38,0,2,1,18,2,4,6,13,23,WWDWLWLDDLDW,1,2,2,9,8,15,4,3,5,14,15,DLDWLLDLWWLW,2,2,2,9,9,WLLDD,DWLDWL
+Toulouse,Metz,0-0,/match/toulouse-fc/metz/2018,2018,13,ligue_1,20,38,1,0,0,10,4,3,5,12,17,WWWWDLWDWLDW,3,1,1,5,3,20,1,0,11,5,24,LWLWLLLWWLWL,1,0,5,2,9,WWLWD,WWLWWW
+Caen,Nice,1-1,/match/caen/nice/2018,2018,13,ligue_1,20,38,1,1,1,7,6,0,6,8,13,WLLWWWWLLWWW,4,0,2,5,4,14,4,1,7,14,19,WLWWWLDLWLWW,1,0,4,1,9,LWWWLW,WWLWW
+Olympique Lyonnais,Montpellier,0-0,/match/olympique-lyonnais/montpellier-hsc/2018,2018,13,ligue_1,20,38,1,0,0,3,7,4,1,32,15,WLDDWWDDWLWL,4,2,0,17,9,8,4,4,4,9,8,WWDWLLDDWLLD,2,1,2,4,4,WDWDWW,WWLDL
+Girondins Bordeaux,Olympique,1-1,/match/bordeaux/olympique-marsella/2018,2018,13,ligue_1,20,38,1,1,1,9,4,4,4,16,18,DWDWDLWWDWLW,3,1,1,8,5,4,7,3,2,26,17,WLDWLLWLDDLW,4,1,1,12,11,WWWDL,LWLLDL
+Saint-Étienne,Strasbourg,2-2,/match/saint-etienne/strasbourg/2018,2018,14,ligue_1,20,38,1,2,2,7,5,3,5,14,18,WLWWDLDWWLDLW,3,2,2,10,10,17,3,4,6,15,24,WWDWLWLDDLDWW,1,2,4,4,15,WWDDWLL,WDWWDLW
+Stade Rennais,Nantes,2-1,/match/stade-rennes/nantes/2018,2018,14,ligue_1,20,38,0,2,1,16,4,3,6,15,17,DLDWLLDLWWLWW,2,1,3,5,6,5,7,2,4,12,13,WLLDLWLWDWWWW,3,1,3,6,10,LDLLWW,WLLLDWW
+Caen,Girondins Bordeaux,1-0,/match/caen/bordeaux/2018,2018,14,ligue_1,20,38,0,1,0,6,6,1,6,9,14,WLLWWWWLLWWWD,4,1,2,6,5,8,4,5,4,17,19,DWDWDLWWDWLWD,1,3,3,8,13,LWWWLWD,DDDLWWW
+Dijon FCO,Toulouse,3-1,/match/dijon-fco/toulouse-fc/2018,2018,14,ligue_1,20,38,0,3,1,13,4,3,6,17,22,WLDWWLDDLLWWW,3,1,3,9,10,9,4,4,5,12,17,WWWWDLWDWLDWD,1,2,4,7,14,LWLDLWW,WWDWDLW
+Metz,Amiens SC,0-2,/match/metz/amiens-sc/2018,2018,14,ligue_1,20,38,2,0,2,20,1,1,11,5,24,LWLWLLLWWLWLD,0,0,6,3,15,12,4,3,6,11,14,WLWWLLWWWWDDD,1,2,4,3,9,LLLLLL,WWLWWDD
+Montpellier,Lille,3-0,/match/montpellier-hsc/lillestrom/2018,2018,14,ligue_1,20,38,0,3,0,11,4,5,4,9,8,WWDWLLDDWLLDD,2,3,2,5,4,19,3,3,7,12,19,WWLDDWLWDWLLW,1,1,4,4,9,WDLDWLD,WDWWWL
+Troyes,Angers SCO,3-0,/match/troyes/angers-sco/2018,2018,14,ligue_1,20,38,0,3,0,14,4,3,6,13,18,DLLWDLLWDLWWW,2,2,3,6,9,18,2,8,3,17,20,DLDDDLDDLLDLD,2,5,0,11,7,DLDLWLW,LDDDLDD
+Nice,Olympique Lyonnais,0-5,/match/nice/olympique-lyonnais/2018,2018,14,ligue_1,20,38,2,0,5,15,4,2,7,15,20,WLWWWLDLWLWWD,3,1,3,13,10,3,7,5,1,32,15,WLDDWWDDWLWLD,3,2,1,15,6,LWWDLLW,LDWDLL
+Olympique,Guingamp,1-0,/match/olympique-marsella/guingamp/2018,2018,14,ligue_1,20,38,0,1,0,4,7,4,2,27,18,WLDWLLWLDDLWD,3,2,1,14,6,10,4,3,6,14,22,LLWWWWWDWWDWD,1,0,5,6,16,WDLWDW,LWWWWW
+Monaco,PSG,1-2,/match/monaco/paris-saint-germain-fc/2018,2018,14,ligue_1,20,38,2,1,2,2,9,2,2,35,13,WLLWWWLDWWLWD,5,1,0,21,4,1,11,2,0,43,9,WLWWLWDWLDWLW,4,2,0,17,4,WWWDWW,LLDLDL
+Amiens SC,Dijon FCO,2-1,/match/amiens-sc/dijon-fco/2018,2018,15,ligue_1,20,38,0,2,1,14,5,3,6,13,14,WLWWLLWWWWDDDL,3,1,2,8,5,9,5,3,6,20,23,WLDWWLDDLLWWWW,1,2,3,8,12,LWLWWD,WDWDLW
+Strasbourg,Caen,0-0,/match/strasbourg/caen/2018,2018,15,ligue_1,20,38,1,0,0,17,3,5,6,17,26,WWDWLWLDDLDWWD,2,2,2,11,9,5,7,1,6,10,14,WLLWWWWLLWWWDW,2,0,4,3,9,WLLDDW,WLWLWW
+Girondins Bordeaux,Saint-Étienne,3-0,/match/bordeaux/saint-etienne/2018,2018,15,ligue_1,20,38,0,3,0,10,4,5,5,17,20,DWDWDLWWDWLWDW,3,2,1,9,6,8,5,4,5,16,20,WLWWDLDWWLDLWD,2,1,3,4,8,WWWDLD,LWLWDW
+Angers SCO,Stade Rennais,1-2,/match/angers-sco/stade-rennes/2018,2018,15,ligue_1,20,38,2,1,2,18,2,8,4,17,23,DLDDDLDDLLDLDW,0,3,3,6,13,15,5,3,6,17,18,DLDWLLDLWWLWWW,2,2,3,10,11,DDLDLL,DWLDWLW
+Guingamp,Montpellier,0-0,/match/guingamp/montpellier-hsc/2018,2018,15,ligue_1,20,38,1,0,0,13,4,3,7,14,23,LLWWWWWDWWDWDW,3,3,1,8,6,7,5,5,4,12,8,WWDWLLDDWLLDDW,2,2,2,4,4,LWWDWDD,WWLDLD
+Olympique Lyonnais,Lille,1-2,/match/olympique-lyonnais/lillestrom/2018,2018,15,ligue_1,20,38,2,1,2,2,8,5,1,37,15,WLDDWWDDWLWLDL,4,3,0,17,9,19,3,3,8,12,22,WWLDDWLWDWLLWW,1,1,5,4,12,WDWDWWD,WDWWWLW
+Metz,Olympique,0-3,/match/metz/olympique-marsella/2018,2018,15,ligue_1,20,38,2,0,3,20,1,1,12,5,26,LWLWLLLWWLWLDL,0,0,7,3,17,4,8,4,2,28,18,WLDWLLWLDDLWDW,4,2,1,13,12,LLLLLLL,LWLLDLD
+Nantes,Monaco,1-0,/match/nantes/monaco/2018,2018,15,ligue_1,20,38,0,1,0,6,7,2,5,13,15,WLLDLWLWDWWWWW,4,1,1,6,3,3,9,2,3,36,15,WLLWWWLDWWLWDL,4,1,2,14,9,LDWWWW,LLWLWLD
+Toulouse,Nice,1-2,/match/toulouse-fc/nice/2018,2018,15,ligue_1,20,38,2,1,2,12,4,4,6,13,20,WWWWDLWDWLDWDW,3,2,1,5,3,16,4,2,8,15,25,WLWWWLDLWLWWDL,1,1,4,2,10,WWLWDD,WWLWWD
+PSG,Troyes,2-0,/match/paris-saint-germain-fc/troyes/2018,2018,15,ligue_1,20,38,0,2,0,1,12,2,0,45,10,WLWWLWDWLDWLWL,7,0,0,26,5,11,5,3,6,16,18,DLLWDLLWDLWWWW,2,1,3,7,9,WWWWWWW,LWLDWW
+Dijon FCO,Girondins Bordeaux,3-2,/match/dijon-fco/bordeaux/2018,2018,16,ligue_1,20,38,0,3,2,11,5,3,7,21,25,WLDWWLDDLLWWWWW,4,1,3,12,11,8,5,5,5,20,20,DWDWDLWWDWLWDWW,1,3,4,8,14,LWLDLWWW,DDDLWWWW
+Strasbourg,PSG,2-1,/match/strasbourg/paris-saint-germain-fc/2018,2018,16,ligue_1,20,38,0,2,1,17,3,6,6,17,26,WWDWLWLDDLDWWDD,2,3,2,11,9,1,13,2,0,47,10,WLWWLWDWLDWLWLW,5,2,0,19,5,WLLDDWD,LLDLDLL
+Lille,Toulouse,1-0,/match/lillestrom/toulouse-fc/2018,2018,16,ligue_1,20,38,0,1,0,18,4,3,8,14,23,WWLDDWLWDWLLWWL,2,2,3,8,10,15,4,4,7,14,22,WWWWDLWDWLDWDWL,1,2,5,8,17,WLDLDLW,WWDWDLWW
+Monaco,Angers SCO,1-0,/match/monaco/angers-sco/2018,2018,16,ligue_1,20,38,0,1,0,4,9,2,4,36,16,WLLWWWLDWWLWDLW,5,1,1,22,6,19,2,8,5,18,25,DLDDDLDDLLDLDWL,2,5,1,11,10,WWWDWWL,LDDDLDDW
+Nice,Metz,3-1,/match/nice/metz/2018,2018,16,ligue_1,20,38,0,3,1,16,5,2,8,17,26,WLWWWLDLWLWWDLL,3,1,4,13,15,20,1,1,13,5,29,LWLWLLLWWLWLDLL,1,1,5,2,9,LWWDLLWL,WWLWWWD
+Stade Rennais,Amiens SC,2-0,/match/stade-rennes/amiens-sc/2018,2018,16,ligue_1,20,38,0,2,0,12,6,3,6,19,19,DLDWLLDLWWLWWWL,3,1,3,7,7,9,6,3,6,15,15,WLWWLLWWWWDDDLW,2,2,4,5,9,LDLLWWW,WWLWWDDL
+Troyes,Guingamp,0-1,/match/troyes/guingamp/2018,2018,16,ligue_1,20,38,2,0,1,14,5,3,7,16,20,DLLWDLLWDLWWWWW,3,2,3,9,9,13,4,4,7,14,23,LLWWWWWDWWDWDWD,1,0,6,6,17,DLDLWLWW,LWWWWWW
+Saint-Étienne,Nantes,1-1,/match/saint-etienne/nantes/2018,2018,16,ligue_1,20,38,1,1,1,10,5,4,6,16,23,WLWWDLDWWLDLWDW,3,3,2,12,12,5,8,2,5,14,15,WLLDLWLWDWWWWWW,3,1,4,7,12,WWDDWLLD,WLLLDWWW
+Caen,Olympique Lyonnais,1-2,/match/caen/olympique-lyonnais/2018,2018,16,ligue_1,20,38,2,1,2,6,7,2,6,10,14,WLLWWWWLLWWWDWD,5,1,2,7,5,3,8,5,2,38,17,WLDDWWDDWLWLDLL,4,2,1,20,6,LWWWLWDW,LDWDLLL
+Montpellier,Olympique,1-1,/match/montpellier-hsc/olympique-marsella/2018,2018,16,ligue_1,20,38,1,1,1,7,5,6,4,12,8,WWDWLLDDWLLDDWD,3,3,2,8,4,2,9,4,2,31,18,WLDWLLWLDDLWDWL,5,2,1,16,12,WDLDWLDW,LWLLDLDL
+Girondins Bordeaux,Strasbourg,0-3,/match/bordeaux/strasbourg/2018,2018,17,ligue_1,20,38,2,0,3,11,5,5,6,22,23,DWDWDLWWDWLWDWWW,4,2,1,12,6,15,4,6,6,19,27,WWDWLWLDDLDWWDDW,1,3,4,6,17,WWWDLDW,WDWWDLWD
+PSG,Lille,3-1,/match/paris-saint-germain-fc/lillestrom/2018,2018,17,ligue_1,20,38,0,3,1,1,13,2,1,48,12,WLWWLWDWLDWLWLWW,8,0,0,28,5,17,5,3,8,15,23,WWLDDWLWDWLLWWLW,2,1,5,6,13,WWWWWWWW,WDWWWLWL
+Angers SCO,Montpellier,1-1,/match/angers-sco/montpellier-hsc/2018,2018,17,ligue_1,20,38,1,1,1,19,2,8,6,18,26,DLDDDLDDLLDLDWLW,0,3,4,7,15,7,5,7,4,13,9,WWDWLLDDWLLDDWDD,2,3,2,4,4,DDLDLLL,WWLDLDD
+Guingamp,Dijon FCO,4-0,/match/guingamp/dijon-fco/2018,2018,17,ligue_1,20,38,0,4,0,13,5,4,7,15,23,LLWWWWWDWWDWDWDL,3,4,1,8,6,9,6,3,7,24,27,WLDWWLDDLLWWWWWW,1,2,4,9,14,LWWDWDDD,WDWDLWW
+Metz,Stade Rennais,1-1,/match/metz/stade-rennes/2018,2018,17,ligue_1,20,38,1,1,1,20,1,1,14,6,32,LWLWLLLWWLWLDLLW,0,0,8,3,20,8,7,3,6,21,19,DLDWLLDLWWLWWWLW,3,2,3,12,12,LLLLLLLL,DWLDWLWL
+Monaco,Troyes,3-2,/match/monaco/troyes/2018,2018,17,ligue_1,20,38,0,3,2,2,10,2,4,37,16,WLLWWWLDWWLWDLWW,6,1,1,23,6,16,5,3,8,16,21,DLLWDLLWDLWWWWWL,2,1,4,7,11,WWWDWWLW,LWLDWWW
+Toulouse,Caen,2-0,/match/toulouse-fc/caen/2018,2018,17,ligue_1,20,38,0,2,0,18,4,4,8,14,23,WWWWDLWDWLDWDWLW,3,2,2,6,5,6,7,2,7,11,16,WLLWWWWLLWWWDWDL,2,1,4,3,9,WWLWDDL,WLWLWWD
+Amiens SC,Olympique Lyonnais,1-2,/match/amiens-sc/olympique-lyonnais/2018,2018,17,ligue_1,20,38,2,1,2,12,6,3,7,15,17,WLWWLLWWWWDDDLWW,4,1,2,10,6,3,9,5,2,40,18,WLDDWWDDWLWLDLLL,5,2,1,22,7,LWLWWDW,LDWDLLLL
+Nantes,Nice,1-2,/match/nantes/nice/2018,2018,17,ligue_1,20,38,2,1,2,5,8,3,5,15,16,WLLDLWLWDWWWWWWD,5,1,1,7,3,14,6,2,8,20,27,WLWWWLDLWLWWDLLW,2,1,4,4,11,LDWWWWW,WWLWWDL
+Olympique,Saint-Étienne,3-0,/match/olympique-marsella/saint-etienne/2018,2018,17,ligue_1,20,38,0,3,0,4,9,5,2,32,19,WLDWLLWLDDLWDWLD,4,2,1,15,6,10,5,5,6,17,24,WLWWDLDWWLDLWDWD,2,1,4,4,11,WDLWDWW,LWLWDWW
+Saint-Étienne,Monaco,0-4,/match/saint-etienne/monaco/2018,2018,18,ligue_1,20,38,2,0,4,14,5,5,7,17,27,WLWWDLDWWLDLWDWDW,3,4,2,13,13,2,11,2,4,40,18,WLLWWWLDWWLWDLWWW,4,1,3,14,10,WWDDWLLDD,LLWLWLDW
+Stade Rennais,PSG,1-4,/match/stade-rennes/paris-saint-germain-fc/2018,2018,18,ligue_1,20,38,2,1,4,9,7,4,6,22,20,DLDWLLDLWWLWWWLWD,4,1,3,9,7,1,14,2,1,51,13,WLWWLWDWLDWLWLWWW,5,2,1,20,7,LDLLWWWW,LLDLDLLW
+Caen,Guingamp,0-0,/match/caen/guingamp/2018,2018,18,ligue_1,20,38,1,0,0,8,7,2,8,11,18,WLLWWWWLLWWWDWDLW,5,1,3,8,7,6,6,4,7,19,23,LLWWWWWDWWDWDWDLW,2,0,6,7,17,LWWWLWDWL,LWWWWWWL
+Dijon FCO,Lille,3-0,/match/dijon-fco/lillestrom/2018,2018,18,ligue_1,20,38,0,3,0,10,6,3,8,24,31,WLDWWLDDLLWWWWWWW,5,1,3,15,13,18,5,3,9,16,26,WWLDDWLWDWLLWWLWW,2,1,6,7,16,LWLDLWWWW,WDWWWLWLW
+Montpellier,Metz,1-3,/match/montpellier-hsc/metz/2018,2018,18,ligue_1,20,38,2,1,3,7,5,8,4,14,10,WWDWLLDDWLLDDWDDD,3,4,2,9,5,20,1,2,14,7,33,LWLWLLLWWLWLDLLWD,1,1,6,3,12,WDLDWLDWD,WWLWWWDW
+Strasbourg,Toulouse,2-1,/match/strasbourg/toulouse-fc/2018,2018,18,ligue_1,20,38,0,2,1,11,5,6,6,22,27,WWDWLWLDDLDWWDDWL,3,3,2,13,10,16,5,4,8,16,23,WWWWDLWDWLDWDWLWW,1,2,6,8,18,WLLDDWDW,WWDWDLWWW
+Troyes,Amiens SC,1-0,/match/troyes/amiens-sc/2018,2018,18,ligue_1,20,38,0,1,0,17,5,3,9,18,24,DLLWDLLWDLWWWWWLW,3,2,4,9,10,15,6,3,8,16,19,WLWWLLWWWWDDDLWWL,2,2,5,5,11,DLDLWLWWL,WWLWWDDLW
+Nantes,Angers SCO,1-0,/match/nantes/angers-sco/2018,2018,18,ligue_1,20,38,0,1,0,5,8,3,6,16,18,WLLDLWLWDWWWWWWDL,5,1,2,8,5,19,2,9,6,19,27,DLDDDLDDLLDLDWLWD,2,5,2,11,11,LDWWWWWL,LDDDLDDWW
+Nice,Girondins Bordeaux,1-0,/match/nice/bordeaux/2018,2018,18,ligue_1,20,38,0,1,0,12,7,2,8,22,28,WLWWWLDLWLWWDLLWL,4,1,4,16,16,13,5,5,7,22,26,DWDWDLWWDWLWDWWWL,1,3,5,10,17,LWWDLLWLW,DDDLWWWWW
+Olympique Lyonnais,Olympique,2-0,/match/olympique-lyonnais/olympique-marsella/2018,2018,18,ligue_1,20,38,0,2,0,4,10,5,2,42,19,WLDDWWDDWLWLDLLLL,4,3,1,18,11,3,10,5,2,35,19,WLDWLLWLDDLWDWLDW,5,3,1,17,13,WDWDWWDL,LWLLDLDLD
+Amiens SC,Nantes,0-1,/match/amiens-sc/nantes/2018,2018,19,ligue_1,20,38,2,0,1,16,6,3,9,16,20,WLWWLLWWWWDDDLWWLW,4,1,3,11,8,5,9,3,6,17,18,WLLDLWLWDWWWWWWDLW,3,2,4,8,13,LWLWWDWL,WLLLDWWWD
+Angers SCO,Dijon FCO,2-1,/match/angers-sco/dijon-fco/2018,2018,19,ligue_1,20,38,0,2,1,19,2,9,7,19,28,DLDDDLDDLLDLDWLWDW,0,4,4,8,16,6,7,3,8,27,31,WLDWWLDDLLWWWWWWWW,1,2,5,9,18,DDLDLLLD,WDWDLWWW
+Girondins Bordeaux,Montpellier,0-2,/match/bordeaux/montpellier-hsc/2018,2018,19,ligue_1,20,38,2,0,2,13,5,5,8,22,27,DWDWDLWWDWLWDWWWLW,4,2,2,12,9,11,5,8,5,15,13,WWDWLLDDWLLDDWDDDL,2,4,2,5,5,WWWDLDWL,WWLDLDDD
+Guingamp,Saint-Étienne,2-1,/match/guingamp/saint-etienne/2018,2018,19,ligue_1,20,38,0,2,1,10,6,5,7,19,23,LLWWWWWDWWDWDWDLWD,4,4,1,12,6,14,5,5,8,17,31,WLWWDLDWWLDLWDWDWL,2,1,5,4,14,LWWDWDDDW,LWLWDWWW
+Lille,Nice,1-1,/match/lillestrom/nice/2018,2018,19,ligue_1,20,38,1,1,1,18,5,3,10,16,29,WWLDDWLWDWLLWWLWWW,3,2,3,9,10,7,8,2,8,23,28,WLWWWLDLWLWWDLLWLW,3,1,4,6,12,WLDLDLWW,WWLWWDLL
+Olympique,Troyes,3-1,/match/olympique-marsella/troyes/2018,2018,19,ligue_1,20,38,0,3,1,4,10,5,3,35,21,WLDWLLWLDDLWDWLDWW,5,2,1,18,6,15,6,3,9,19,24,DLLWDLLWDLWWWWWLWW,2,1,5,9,14,WDLWDWWW,LWLDWWWW
+Metz,Strasbourg,3-0,/match/metz/strasbourg/2018,2018,19,ligue_1,20,38,0,3,0,20,2,2,14,10,34,LWLWLLLWWLWLDLLWDL,0,1,8,4,21,8,6,6,6,24,28,WWDWLWLDDLDWWDDWLW,2,3,4,9,17,LLLLLLLLD,WDWWDLWDL
+Monaco,Stade Rennais,2-1,/match/monaco/stade-rennes/2018,2018,19,ligue_1,20,38,0,2,1,2,12,2,4,44,18,WLLWWWLDWWLWDLWWWL,7,1,1,26,8,12,7,4,7,23,24,DLDWLLDLWWLWWWLWDL,3,3,3,13,13,WWWDWWLWW,DWLDWLWLD
+PSG,Caen,3-1,/match/paris-saint-germain-fc/caen/2018,2018,19,ligue_1,20,38,0,3,1,1,15,2,1,55,14,WLWWLWDWLDWLWLWWWL,9,0,0,31,6,9,7,3,8,11,18,WLLWWWWLLWWWDWDLWD,2,1,5,3,11,WWWWWWWWW,WLWLWWDW
+Toulouse,Olympique Lyonnais,1-2,/match/toulouse-fc/olympique-lyonnais/2018,2018,19,ligue_1,20,38,2,1,2,17,5,4,9,17,25,WWWWDLWDWLDWDWLWWW,4,2,2,8,5,3,11,5,2,44,19,WLDDWWDDWLWLDLLLLW,6,2,1,24,8,WWLWDDLW,LDWDLLLLL
+Strasbourg,Guingamp,0-2,/match/strasbourg/guingamp/2018,2018,20,ligue_1,20,38,2,0,2,10,6,6,7,24,31,WWDWLWLDDLDWWDDWLWW,4,3,2,15,11,6,7,5,7,21,24,LLWWWWWDWWDWDWDLWDW,2,1,6,7,17,WLLDDWDWW,LWWWWWWLD
+Stade Rennais,Olympique,0-3,/match/stade-rennes/olympique-marsella/2018,2018,20,ligue_1,20,38,2,0,3,12,7,4,8,24,26,DLDWLLDLWWLWWWLWDLW,4,1,4,10,11,4,11,5,3,38,22,WLDWLLWLDDLWDWLDWWW,5,3,2,17,15,LDLLWWWWL,LWLLDLDLDW
+Caen,Lille,0-1,/match/caen/lillestrom/2018,2018,20,ligue_1,20,38,2,0,1,11,7,3,9,12,21,WLLWWWWLLWWWDWDLWDW,5,2,3,8,7,18,5,4,10,17,30,WWLDDWLWDWLLWWLWWWD,2,1,7,7,19,LWWWLWDWLD,WDWWWLWLWW
+Dijon FCO,Metz,1-1,/match/dijon-fco/metz/2018,2018,20,ligue_1,20,38,1,1,1,9,7,3,9,28,33,WLDWWLDDLLWWWWWWWWW,6,1,3,18,13,20,3,2,14,13,34,LWLWLLLWWLWLDLLWDLW,2,1,6,6,13,LWLDLWWWWW,WWLWWWDWL
+Montpellier,Monaco,0-0,/match/montpellier-hsc/monaco/2018,2018,20,ligue_1,20,38,1,0,0,7,6,8,5,17,13,WWDWLLDDWLLDDWDDDLL,3,4,3,10,8,2,13,2,4,46,19,WLLWWWLDWWLWDLWWWLW,5,1,3,18,10,WDLDWLDWDL,LLWLWLDWL
+Nice,Amiens SC,1-0,/match/nice/amiens-sc/2018,2018,20,ligue_1,20,38,0,1,0,8,8,3,8,24,29,WLWWWLDLWLWWDLLWLWD,5,1,4,17,16,16,6,3,10,16,21,WLWWLLWWWWDDDLWWLWL,2,2,6,5,12,LWWDLLWLWW,WWLWWDDLWW
+Troyes,Girondins Bordeaux,0-1,/match/troyes/bordeaux/2018,2018,20,ligue_1,20,38,2,0,1,15,6,3,10,20,27,DLLWDLLWDLWWWWWLWWW,4,2,4,10,10,13,5,5,9,22,29,DWDWDLWWDWLWDWWWLWL,1,3,6,10,18,DLDLWLWWLW,DDDLWWWWWW
+Saint-Étienne,Toulouse,2-0,/match/saint-etienne/toulouse-fc/2018,2018,20,ligue_1,20,38,0,2,0,14,5,5,9,18,33,WLWWDLDWWLDLWDWDWLW,3,4,3,13,17,17,5,4,10,18,27,WWWWDLWDWLDWDWLWWWL,1,2,7,9,20,WWDDWLLDDL,WWDWDLWWWW
+Olympique Lyonnais,Angers SCO,1-1,/match/olympique-lyonnais/angers-sco/2018,2018,20,ligue_1,20,38,1,1,1,3,12,5,2,46,20,WLDDWWDDWLWLDLLLLWL,5,3,1,20,11,19,3,9,7,21,29,DLDDDLDDLLDLDWLWDWW,2,5,3,11,12,WDWDWWDLW,LDDDLDDWWW
+Nantes,PSG,0-1,/match/nantes/paris-saint-germain-fc/2018,2018,20,ligue_1,20,38,2,0,1,5,10,3,6,18,18,WLLDLWLWDWWWWWWDLWL,6,1,2,9,5,1,16,2,1,58,15,WLWWLWDWLDWLWLWWWLW,6,2,1,24,8,LDWWWWWLW,LLDLDLLWL
+Girondins Bordeaux,Caen,0-2,/match/bordeaux/caen/2018,2018,21,ligue_1,20,38,2,0,2,14,6,5,9,23,29,DWDWDLWWDWLWDWWWLWLL,4,2,3,12,11,11,7,3,10,12,22,WLLWWWWLLWWWDWDLWDWL,2,1,6,4,14,WWWDLDWLL,WLWLWWDWW
+Olympique,Strasbourg,2-0,/match/olympique-marsella/strasbourg/2018,2018,21,ligue_1,20,38,0,2,0,4,12,5,3,41,22,WLDWLLWLDDLWDWLDWWWL,6,2,1,21,7,12,6,6,8,24,33,WWDWLWLDDLDWWDDWLWWL,2,3,5,9,20,WDLWDWWWW,WDWWDLWDLW
+Monaco,Nice,2-2,/match/monaco/nice/2018,2018,21,ligue_1,20,38,1,2,2,2,13,3,4,46,19,WLLWWWLDWWLWDLWWWLWD,8,1,1,28,9,7,9,3,8,25,29,WLWWWLDLWLWWDLLWLWDW,3,2,4,7,13,WWWDWWLWWW,WWLWWDLLD
+Amiens SC,Montpellier,1-1,/match/amiens-sc/montpellier-hsc/2018,2018,21,ligue_1,20,38,1,1,1,17,6,3,11,16,22,WLWWLLWWWWDDDLWWLWLW,4,1,4,11,9,8,6,9,5,17,13,WWDWLLDDWLLDDWDDDLLD,3,4,2,7,5,LWLWWDWLL,WWLDLDDDL
+Angers SCO,Troyes,3-1,/match/angers-sco/troyes/2018,2018,21,ligue_1,20,38,0,3,1,19,3,10,7,22,30,DLDDDLDDLLDLDWLWDWWD,1,4,4,10,17,15,6,3,11,20,28,DLLWDLLWDLWWWWWLWWWL,2,1,6,10,17,DDLDLLLDW,LWLDWWWWW
+Guingamp,Olympique Lyonnais,0-2,/match/guingamp/olympique-lyonnais/2018,2018,21,ligue_1,20,38,2,0,2,6,8,5,7,23,24,LLWWWWWDWWDWDWDLWDWL,5,4,1,14,7,3,12,6,2,47,21,WLDDWWDDWLWLDLLLLWLD,7,2,1,26,9,LWWDWDDDWW,LDWDLLLLLL
+Lille,Stade Rennais,1-2,/match/lillestrom/stade-rennes/2018,2018,21,ligue_1,20,38,2,1,2,16,6,4,10,18,30,WWLDDWLWDWLLWWLWWWDL,3,3,3,10,11,13,7,4,9,24,29,DLDWLLDLWWLWWWLWDLWL,3,3,4,14,15,WLDLDLWWD,DWLDWLWLDW
+Metz,Saint-Étienne,3-0,/match/metz/saint-etienne/2018,2018,21,ligue_1,20,38,0,3,0,20,3,3,14,14,35,LWLWLLLWWLWLDLLWDLWD,1,1,8,7,21,10,6,5,9,20,33,WLWWDLDWWLDLWDWDWLWW,2,1,6,5,16,LLLLLLLLDW,LWLWDWWWW
+Toulouse,Nantes,1-1,/match/toulouse-fc/nantes/2018,2018,21,ligue_1,20,38,1,1,1,18,5,4,11,18,29,WWWWDLWDWLDWDWLWWWLW,4,2,3,9,7,5,10,3,7,18,19,WLLDLWLWDWWWWWWDLWLL,4,2,4,9,13,WWLWDDLWL,WLLLDWWWDL
+PSG,Dijon FCO,8-0,/match/paris-saint-germain-fc/dijon-fco/2018,2018,21,ligue_1,20,38,0,8,0,1,17,2,1,59,15,WLWWLWDWLDWLWLWWWLWL,10,0,0,34,7,9,7,4,9,29,34,WLDWWLDDLLWWWWWWWWWD,1,2,6,10,20,WWWWWWWWWW,WDWDLWWWW
+Caen,Olympique,0-2,/match/caen/olympique-marsella/2018,2018,22,ligue_1,20,38,2,0,2,10,8,3,10,14,22,WLLWWWWLLWWWDWDLWDWLL,5,2,4,8,8,3,13,5,3,43,22,WLDWLLWLDDLWDWLDWWWLW,6,3,2,20,15,LWWWLWDWLDL,LWLLDLDLDWL
+Nantes,Girondins Bordeaux,0-1,/match/nantes/bordeaux/2018,2018,22,ligue_1,20,38,2,0,1,5,10,4,7,19,20,WLLDLWLWDWWWWWWDLWLLD,6,1,3,9,6,14,6,5,10,23,31,DWDWDLWWDWLWDWWWLWLLL,2,3,6,11,18,LDWWWWWLWL,DDDLWWWWWWL
+Amiens SC,Guingamp,3-1,/match/amiens-sc/guingamp/2018,2018,22,ligue_1,20,38,0,3,1,15,6,4,11,17,23,WLWWLLWWWWDDDLWWLWLWD,4,2,4,12,10,6,8,5,8,23,26,LLWWWWWDWWDWDWDLWDWLL,3,1,6,9,17,LWLWWDWLLD,LWWWWWWLDL
+Montpellier,Toulouse,2-1,/match/montpellier-hsc/toulouse-fc/2018,2018,22,ligue_1,20,38,0,2,1,8,6,10,5,18,14,WWDWLLDDWLLDDWDDDLLDD,3,5,3,10,8,16,5,5,11,19,30,WWWWDLWDWLDWDWLWWWLWD,1,2,8,9,22,WDLDWLDWDLD,WWDWDLWWWWW
+Stade Rennais,Angers SCO,1-0,/match/stade-rennes/angers-sco/2018,2018,22,ligue_1,20,38,0,1,0,13,8,4,9,26,30,DLDWLLDLWWLWWWLWDLWLL,4,1,5,10,14,17,4,10,7,25,31,DLDDDLDDLLDLDWLWDWWDW,2,6,3,12,13,LDLLWWWWLL,LDDDLDDWWWD
+Strasbourg,Dijon FCO,3-2,/match/strasbourg/dijon-fco/2018,2018,22,ligue_1,20,38,0,3,2,12,6,6,9,24,35,WWDWLWLDDLDWWDDWLWWLW,4,3,3,15,13,9,7,4,10,29,42,WLDWWLDDLLWWWWWWWWWDW,1,2,7,10,28,WLLDDWDWWL,WDWDLWWWWW
+Troyes,Lille,1-0,/match/troyes/lillestrom/2018,2018,22,ligue_1,20,38,0,1,0,18,6,3,12,21,31,DLLWDLLWDLWWWWWLWWWLW,4,2,5,10,11,19,6,4,11,19,32,WWLDDWLWDWLLWWLWWWDLL,3,1,7,8,19,DLDLWLWWLWL,WDWWWLWLWWL
+Nice,Saint-Étienne,1-0,/match/nice/saint-etienne/2018,2018,22,ligue_1,20,38,0,1,0,7,9,4,8,27,31,WLWWWLDLWLWWDLLWLWDWD,6,1,4,18,16,11,6,5,10,20,36,WLWWDLDWWLDLWDWDWLWWW,2,1,7,5,19,LWWDLLWLWWW,LWLWDWWWWW
+Monaco,Metz,3-1,/match/monaco/metz/2018,2018,22,ligue_1,20,38,0,3,1,2,13,4,4,48,21,WLLWWWLDWWLWDLWWWLWDD,8,2,1,30,11,20,4,3,14,17,35,LWLWLLLWWLWLDLLWDLWDW,2,2,6,7,14,WWWDWWLWWWD,WWLWWWDWLD
+Olympique Lyonnais,PSG,2-1,/match/olympique-lyonnais/paris-saint-germain-fc/2018,2018,22,ligue_1,20,38,0,2,1,4,13,6,2,49,21,WLDDWWDDWLWLDLLLLWLDL,5,4,1,21,12,1,18,2,1,67,15,WLWWLWDWLDWLWLWWWLWLW,7,2,1,25,8,WDWDWWDLWD,LLDLDLLWLL
+Dijon FCO,Stade Rennais,2-1,/match/dijon-fco/stade-rennes/2018,2018,23,ligue_1,20,38,0,2,1,11,7,4,11,31,45,WLDWWLDDLLWWWWWWWWWDWW,6,2,3,19,14,10,9,4,9,27,30,DLDWLLDLWWLWWWLWDLWLLW,4,3,4,16,16,LWLDLWWWWWD,DWLDWLWLDWL
+PSG,Montpellier,4-0,/match/paris-saint-germain-fc/montpellier-hsc/2018,2018,23,ligue_1,20,38,0,4,0,1,18,2,2,68,17,WLWWLWDWLDWLWLWWWLWLWW,11,0,0,42,7,7,7,10,5,20,15,WWDWLLDDWLLDDWDDDLLDDW,3,5,2,8,6,WWWWWWWWWWW,WWLDLDDDLD
+Angers SCO,Amiens SC,1-0,/match/angers-sco/amiens-sc/2018,2018,23,ligue_1,20,38,0,1,0,18,4,10,8,25,32,DLDDDLDDLLDLDWLWDWWDWW,2,4,4,13,18,13,7,4,11,20,24,WLWWLLWWWWDDDLWWLWLWDW,2,2,7,5,13,DDLDLLLDWW,WWLWWDDLWWW
+Guingamp,Nantes,0-3,/match/guingamp/nantes/2018,2018,23,ligue_1,20,38,2,0,3,8,8,5,9,24,29,LLWWWWWDWWDWDWDLWDWLLW,5,4,2,14,9,6,10,4,8,19,21,WLLDLWLWDWWWWWWDLWLLDL,4,3,4,10,14,LWWDWDDDWWL,WLLLDWWWDLD
+Metz,Nice,2-1,/match/metz/nice/2018,2018,23,ligue_1,20,38,0,2,1,20,4,3,15,18,38,LWLWLLLWWLWLDLLWDLWDWW,2,1,8,10,21,5,10,4,8,28,31,WLWWWLDLWLWWDLLWLWDWDW,3,3,4,9,15,LLLLLLLLDWW,WWLWWDLLDD
+Saint-Étienne,Caen,2-1,/match/saint-etienne/caen/2018,2018,23,ligue_1,20,38,0,2,1,15,6,5,11,20,37,WLWWDLDWWLDLWDWDWLWWWW,4,4,3,15,17,12,8,3,11,14,24,WLLWWWWLLWWWDWDLWDWLLL,3,1,6,6,14,WWDDWLLDDLW,WLWLWWDWWL
+Toulouse,Troyes,1-0,/match/toulouse-fc/troyes/2018,2018,23,ligue_1,20,38,0,1,0,17,5,5,12,20,32,WWWWDLWDWLDWDWLWWWLWDW,4,3,3,10,8,14,7,3,12,22,31,DLLWDLLWDLWWWWWLWWWLWW,2,1,7,11,20,WWLWDDLWLD,LWLDWWWWWW
+Lille,Strasbourg,2-1,/match/lillestrom/strasbourg/2018,2018,23,ligue_1,20,38,0,2,1,19,6,4,12,19,33,WWLDDWLWDWLLWWLWWWDLLW,3,3,4,11,13,9,7,6,9,27,37,WWDWLWLDDLDWWDDWLWWLWW,2,3,6,9,22,WLDLDLWWDL,WDWWDLWDLWW
+Girondins Bordeaux,Olympique Lyonnais,3-1,/match/bordeaux/olympique-lyonnais/2018,2018,23,ligue_1,20,38,0,3,1,16,7,5,10,24,31,DWDWDLWWDWLWDWWWLWLLLL,4,2,4,12,13,3,14,6,2,51,22,WLDDWWDDWLWLDLLLLWLDLW,8,2,1,28,9,WWWDLDWLLL,LDWDLLLLLLL
+Olympique,Monaco,2-2,/match/olympique-marsella/monaco/2018,2018,23,ligue_1,20,38,1,2,2,4,14,5,3,45,22,WLDWLLWLDDLWDWLDWWWLWL,7,2,1,23,7,2,14,4,4,51,22,WLLWWWLDWWLWDLWWWLWDDW,5,2,3,18,10,WDLWDWWWWW,LLWLWLDWLD
+Olympique,Metz,6-3,/match/olympique-marsella/metz/2018,2018,24,ligue_1,20,38,0,6,3,3,14,6,3,47,24,WLDWLLWLDDLWDWLDWWWLWLD,7,3,1,25,9,20,5,3,15,20,39,LWLWLLLWWLWLDLLWDLWDWWW,2,2,7,8,17,WDLWDWWWWWD,WWLWWWDWLDW
+Lille,PSG,0-3,/match/lillestrom/paris-saint-germain-fc/2018,2018,24,ligue_1,20,38,2,0,3,19,7,4,12,21,34,WWLDDWLWDWLLWWLWWWDLLWW,4,3,4,13,14,1,19,2,2,72,17,WLWWLWDWLDWLWLWWWLWLWWW,7,2,2,26,10,WLDLDLWWDLW,LLDLDLLWLLW
+Amiens SC,Saint-Étienne,0-2,/match/amiens-sc/saint-etienne/2018,2018,24,ligue_1,20,38,2,0,2,15,7,4,12,20,25,WLWWLLWWWWDDDLWWLWLWDWW,5,2,4,15,11,12,7,5,11,22,38,WLWWDLDWWLDLWDWDWLWWWWW,2,1,8,5,20,LWLWWDWLLDW,LWLWDWWWWWW
+Montpellier,Angers SCO,2-1,/match/montpellier-hsc/angers-sco/2018,2018,24,ligue_1,20,38,0,2,1,7,7,10,6,20,19,WWDWLLDDWLLDDWDDDLLDDWW,4,5,3,12,9,17,5,10,8,26,32,DLDDDLDDLLDLDWLWDWWDWWW,2,6,4,12,14,WDLDWLDWDLDW,LDDDLDDWWWDW
+Nice,Toulouse,0-1,/match/nice/toulouse-fc/2018,2018,24,ligue_1,20,38,2,0,1,5,10,4,9,29,33,WLWWWLDLWLWWDLLWLWDWDWW,7,1,4,19,16,16,6,5,12,21,32,WWWWDLWDWLDWDWLWWWLWDWW,1,2,9,10,24,LWWDLLWLWWWW,WWDWDLWWWWWW
+Strasbourg,Girondins Bordeaux,0-2,/match/strasbourg/bordeaux/2018,2018,24,ligue_1,20,38,2,0,2,10,7,6,10,28,39,WWDWLWLDDLDWWDDWLWWLWWW,5,3,3,18,15,13,8,5,10,27,32,DWDWDLWWDWLWDWWWLWLLLLW,3,3,6,12,18,WLLDDWDWWLW,DDDLWWWWWWLL
+Stade Rennais,Guingamp,0-1,/match/stade-rennes/guingamp/2018,2018,24,ligue_1,20,38,2,0,1,11,9,4,10,28,32,DLDWLLDLWWLWWWLWDLWLLWW,5,1,5,11,14,9,8,5,10,24,32,LLWWWWWDWWDWDWDLWDWLLWL,3,1,7,10,20,LDLLWWWWLLW,LWWWWWWLDLW
+Caen,Nantes,3-2,/match/caen/nantes/2018,2018,24,ligue_1,20,38,0,3,2,14,8,3,12,15,26,WLLWWWWLLWWWDWDLWDWLLLW,5,2,5,8,10,6,11,4,8,22,21,WLLDLWLWDWWWWWWDLWLLDLL,5,3,4,13,14,LWWWLWDWLDLL,WLLLDWWWDLDL
+Monaco,Olympique Lyonnais,3-2,/match/monaco/olympique-lyonnais/2018,2018,24,ligue_1,20,38,0,3,2,2,14,5,4,53,24,WLLWWWLDWWLWDLWWWLWDDWD,9,2,1,33,12,4,14,6,3,52,25,WLDDWWDDWLWLDLLLLWLDLWW,8,2,2,29,12,WWWDWWLWWWDW,LDWDLLLLLLLW
+Troyes,Dijon FCO,0-0,/match/troyes/dijon-fco/2018,2018,24,ligue_1,20,38,1,0,0,18,7,3,13,22,32,DLLWDLLWDLWWWWWLWWWLWWW,5,2,5,11,11,8,8,4,11,33,46,WLDWWLDDLLWWWWWWWWWDWWW,1,2,8,12,31,DLDLWLWWLWLW,WDWDLWWWWWW
+Saint-Étienne,Olympique,2-2,/match/saint-etienne/olympique-marsella/2018,2018,25,ligue_1,20,38,1,2,2,12,8,5,11,24,38,WLWWDLDWWLDLWDWDWLWWWWWL,5,4,3,17,18,3,15,6,3,53,27,WLDWLLWLDDLWDWLDWWWLWLDW,7,3,2,22,15,WWDDWLLDDLWW,LWLLDLDLDWLL
+Toulouse,PSG,0-1,/match/toulouse-fc/paris-saint-germain-fc/2018,2018,25,ligue_1,20,38,2,0,1,15,7,5,12,22,32,WWWWDLWDWLDWDWLWWWLWDWWL,5,3,3,11,8,1,20,2,2,75,17,WLWWLWDWLDWLWLWWWLWLWWWL,8,2,2,29,10,WWLWDDLWLDW,LLDLDLLWLLWL
+Angers SCO,Monaco,0-4,/match/angers-sco/monaco/2018,2018,25,ligue_1,20,38,2,0,4,18,5,10,9,27,34,DLDDDLDDLLDLDWLWDWWDWWWW,3,4,4,14,18,2,15,5,4,56,26,WLLWWWLDWWLWDLWWWLWDDWDW,5,3,3,20,12,DDLDLLLDWWW,LLWLWLDWLDD
+Girondins Bordeaux,Amiens SC,3-2,/match/bordeaux/amiens-sc/2018,2018,25,ligue_1,20,38,0,3,2,10,9,5,10,29,32,DWDWDLWWDWLWDWWWLWLLLLWL,5,2,4,15,14,17,7,4,13,20,27,WLWWLLWWWWDDDLWWLWLWDWWL,2,2,8,5,14,WWWDLDWLLLW,WWLWWDDLWWWW
+Dijon FCO,Nice,3-2,/match/dijon-fco/nice/2018,2018,25,ligue_1,20,38,0,3,2,8,8,5,11,33,46,WLDWWLDDLLWWWWWWWWWDWWWD,7,2,3,21,15,6,10,4,10,29,34,WLWWWLDLWLWWDLLWLWDWDWWL,3,3,5,10,17,LWLDLWWWWWDW,WWLWWDLLDDW
+Guingamp,Caen,0-0,/match/guingamp/caen/2018,2018,25,ligue_1,20,38,1,0,0,9,9,5,10,25,32,LLWWWWWDWWDWDWDLWDWLLWLL,5,4,3,14,12,11,9,3,12,18,28,WLLWWWWLLWWWDWDLWDWLLLWW,3,1,7,7,16,LWWDWDDDWWLL,WLWLWWDWWLW
+Metz,Montpellier,0-1,/match/metz/montpellier-hsc/2018,2018,25,ligue_1,20,38,2,0,1,20,5,3,16,23,45,LWLWLLLWWLWLDLLWDLWDWWWW,3,1,8,12,22,5,8,10,6,22,20,WWDWLLDDWLLDDWDDDLLDDWWW,3,5,3,8,10,LLLLLLLLDWWW,WWLDLDDDLDW
+Strasbourg,Troyes,2-1,/match/strasbourg/troyes/2018,2018,25,ligue_1,20,38,0,2,1,14,7,6,11,28,41,WWDWLWLDDLDWWDDWLWWLWWWL,5,3,4,18,17,16,7,4,13,22,32,DLLWDLLWDLWWWWWLWWWLWWWD,2,1,8,11,21,WLLDDWDWWLWL,LWLDWWWWWWW
+Nantes,Lille,2-2,/match/nantes/lillestrom/2018,2018,25,ligue_1,20,38,1,2,2,7,11,4,9,24,24,WLLDLWLWDWWWWWWDLWLLDLLW,6,1,4,9,7,19,7,4,13,21,37,WWLDDWLWDWLLWWLWWWDLLWWL,3,1,8,8,20,LDWWWWWLWLL,WDWWWLWLWWLW
+Olympique Lyonnais,Stade Rennais,0-2,/match/olympique-lyonnais/stade-rennes/2018,2018,25,ligue_1,20,38,2,0,2,4,14,6,4,54,28,WLDDWWDDWLWLDLLLLWLDLWWW,6,4,1,23,13,13,9,4,11,28,33,DLDWLLDLWWLWWWLWDLWLLWWL,4,3,5,17,18,WDWDWWDLWDW,DWLDWLWLDWLW
+Monaco,Dijon FCO,4-0,/match/monaco/dijon-fco/2018,2018,26,ligue_1,20,38,0,4,0,2,16,5,4,60,26,WLLWWWLDWWLWDLWWWLWDDWDWL,10,2,1,36,14,7,9,5,11,36,48,WLDWWLDDLLWWWWWWWWWDWWWDW,1,3,8,12,31,WWWDWWLWWWDWW,WDWDLWWWWWWD
+PSG,Strasbourg,5-2,/match/paris-saint-germain-fc/strasbourg/2018,2018,26,ligue_1,20,38,0,5,2,1,21,2,2,76,17,WLWWLWDWLDWLWLWWWLWLWWWLL,12,0,0,46,7,11,8,6,11,30,42,WWDWLWLDDLDWWDDWLWWLWWWLW,2,3,7,10,24,WWWWWWWWWWWW,WDWWDLWDLWWW
+Amiens SC,Toulouse,0-0,/match/amiens-sc/toulouse-fc/2018,2018,26,ligue_1,20,38,1,0,0,17,7,4,14,22,30,WLWWLLWWWWDDDLWWLWLWDWWLW,5,2,5,15,13,15,7,5,13,22,33,WWWWDLWDWLDWDWLWWWLWDWWLL,2,2,9,11,24,LWLWWDWLLDWL,WWDWDLWWWWWWL
+Angers SCO,Saint-Étienne,0-1,/match/angers-sco/saint-etienne/2018,2018,26,ligue_1,20,38,2,0,1,18,5,10,10,27,38,DLDDDLDDLLDLDWLWDWWDWWWWL,3,4,5,14,22,12,8,6,11,26,40,WLWWDLDWWLDLWDWDWLWWWWWLD,3,1,8,7,20,DDLDLLLDWWWL,LWLWDWWWWWWL
+Caen,Stade Rennais,2-2,/match/caen/stade-rennes/2018,2018,26,ligue_1,20,38,1,2,2,13,9,4,12,18,28,WLLWWWWLLWWWDWDLWDWLLLWWD,6,2,5,11,12,14,10,4,11,30,33,DLDWLLDLWWLWWWLWDLWLLWWLL,5,3,5,19,18,LWWWLWDWLDLLW,DWLDWLWLDWLWL
+Montpellier,Guingamp,1-1,/match/montpellier-hsc/guingamp/2018,2018,26,ligue_1,20,38,1,1,1,5,9,10,6,23,20,WWDWLLDDWLLDDWDDDLLDDWWWL,5,5,3,14,10,9,9,6,10,25,32,LLWWWWWDWWDWDWDLWDWLLWLLD,4,1,7,11,20,WDLDWLDWDLDWW,LWWWWWWLDLWL
+Troyes,Metz,1-0,/match/troyes/metz/2018,2018,26,ligue_1,20,38,0,1,0,16,7,4,14,23,34,DLLWDLLWDLWWWWWLWWWLWWWDW,5,3,5,11,11,20,5,3,17,23,46,LWLWLLLWWLWLDLLWDLWDWWWWL,2,2,8,11,23,DLDLWLWWLWLWD,WWLWWWDWLDWW
+Nice,Nantes,1-1,/match/nice/nantes/2018,2018,26,ligue_1,20,38,1,1,1,8,10,4,11,31,37,WLWWWLDLWLWWDLLWLWDWDWWLW,7,1,5,19,17,6,11,5,9,26,26,WLLDLWLWDWWWWWWDLWLLDLLWD,5,3,5,15,17,LWWDLLWLWWWWL,WLLLDWWWDLDLW
+Lille,Olympique Lyonnais,2-2,/match/lillestrom/olympique-lyonnais/2018,2018,26,ligue_1,20,38,1,2,2,19,7,5,13,23,39,WWLDDWLWDWLLWWLWWWDLLWWLD,4,3,5,13,17,4,14,6,5,54,30,WLDDWWDDWLWLDLLLLWLDLWWWL,8,2,3,31,15,WLDLDLWWDLWL,LDWDLLLLLLLWW
+Olympique,Girondins Bordeaux,1-0,/match/olympique-marsella/bordeaux/2018,2018,26,ligue_1,20,38,0,1,0,3,15,7,3,55,29,WLDWLLWLDDLWDWLDWWWLWLDWD,8,3,1,31,12,10,10,5,10,32,34,DWDWDLWWDWLWDWWWLWLLLLWLW,4,3,6,14,18,WDLWDWWWWWDW,DDDLWWWWWWLLL
+Strasbourg,Montpellier,0-0,/match/strasbourg/montpellier-hsc/2018,2018,27,ligue_1,20,38,1,0,0,13,8,6,12,32,47,WWDWLWLDDLDWWDDWLWWLWWWLWW,6,3,4,20,18,5,9,11,6,24,21,WWDWLLDDWLLDDWDDDLLDDWWWLD,4,5,3,9,10,WLLDDWDWWLWLW,WWLDLDDDLDWL
+Toulouse,Monaco,3-3,/match/toulouse-fc/monaco/2018,2018,27,ligue_1,20,38,1,3,3,16,7,6,13,22,33,WWWWDLWDWLDWDWLWWWLWDWWLLD,5,3,4,11,9,2,17,5,4,64,26,WLLWWWLDWWLWDLWWWLWDDWDWLW,6,3,3,24,12,WWLWDDLWLDWL,LLWLWLDWLDDL
+Dijon FCO,Caen,2-0,/match/dijon-fco/caen/2018,2018,27,ligue_1,20,38,0,2,0,7,9,5,12,36,52,WLDWWLDDLLWWWWWWWWWDWWWDWW,8,2,3,24,17,12,9,5,12,20,30,WLLWWWWLLWWWDWDLWDWLLLWWDD,3,2,7,7,16,LWLDLWWWWWDWW,WLWLWWDWWLWD
+Guingamp,Metz,2-2,/match/guingamp/metz/2018,2018,27,ligue_1,20,38,1,2,2,9,9,7,10,26,33,LLWWWWWDWWDWDWDLWDWLLWLLDD,5,5,3,14,12,20,5,3,18,23,47,LWLWLLLWWLWLDLLWDLWDWWWWLW,2,2,9,11,24,LWWDWDDDWWLLD,WWLWWWDWLDWWW
+Lille,Angers SCO,1-2,/match/lillestrom/angers-sco/2018,2018,27,ligue_1,20,38,2,1,2,18,7,6,13,25,41,WWLDDWLWDWLLWWLWWWDLLWWLDD,4,4,5,15,19,19,5,10,11,27,39,DLDDDLDDLLDLDWLWDWWDWWWWLL,2,6,5,13,16,WLDLDLWWDLWLD,LDDDLDDWWWDWW
+Nantes,Amiens SC,0-1,/match/nantes/amiens-sc/2018,2018,27,ligue_1,20,38,2,0,1,6,11,6,9,27,27,WLLDLWLWDWWWWWWDLWLLDLLWDD,6,2,4,11,9,17,7,5,14,22,30,WLWWLLWWWWDDDLWWLWLWDWWLWD,2,2,9,7,17,LDWWWWWLWLLD,WWLWWDDLWWWWW
+Stade Rennais,Troyes,2-0,/match/stade-rennes/troyes/2018,2018,27,ligue_1,20,38,0,2,0,14,10,5,11,32,35,DLDWLLDLWWLWWWLWDLWLLWWLLD,5,1,6,11,15,15,8,4,14,24,34,DLLWDLLWDLWWWWWLWWWLWWWDWW,2,1,9,12,23,LDLLWWWWLLWL,LWLDWWWWWWWW
+Girondins Bordeaux,Nice,0-0,/match/bordeaux/nice/2018,2018,27,ligue_1,20,38,1,0,0,10,10,5,11,32,35,DWDWDLWWDWLWDWWWLWLLLLWLWW,6,2,4,18,16,8,10,5,11,32,38,WLWWWLDLWLWWDLLWLWDWDWWLWD,3,3,6,12,20,WWWDLDWLLLWW,WWLWWDLLDDWW
+Olympique Lyonnais,Saint-Étienne,1-1,/match/olympique-lyonnais/saint-etienne/2018,2018,27,ligue_1,20,38,1,1,1,4,14,7,5,56,32,WLDDWWDDWLWLDLLLLWLDLWWWLD,6,4,2,23,15,11,9,6,11,27,40,WLWWDLDWWLDLWDWDWLWWWWWLDL,4,1,8,8,20,WDWDWWDLWDWL,LWLWDWWWWWWLL
+PSG,Olympique,3-0,/match/paris-saint-germain-fc/olympique-marsella/2018,2018,27,ligue_1,20,38,0,3,0,1,22,2,2,81,19,WLWWLWDWLDWLWLWWWLWLWWWLLW,13,0,0,51,9,3,16,7,3,56,29,WLDWLLWLDDLWDWLDWWWLWLDWDW,7,4,2,24,17,WWWWWWWWWWWWW,LWLLDLDLDWLLD
+Nice,Lille,2-1,/match/nice/lillestrom/2018,2018,28,ligue_1,20,38,0,2,1,8,10,6,11,32,38,WLWWWLDLWLWWDLLWLWDWDWWLWDD,7,2,5,20,18,18,7,6,14,26,43,WWLDDWLWDWLLWWLWWWDLLWWLDDL,3,2,8,10,22,LWWDLLWLWWWWLD,WDWWWLWLWWLWD
+Monaco,Girondins Bordeaux,2-1,/match/monaco/bordeaux/2018,2018,28,ligue_1,20,38,0,2,1,2,17,6,4,67,29,WLLWWWLDWWLWDLWWWLWDDWDWLWD,11,2,1,40,14,10,10,6,11,32,35,DWDWDLWWDWLWDWWWLWLLLLWLWWD,4,3,7,14,19,WWWDWWLWWWDWWW,DDDLWWWWWWLLLW
+Troyes,PSG,0-2,/match/troyes/paris-saint-germain-fc/2018,2018,28,ligue_1,20,38,2,0,2,15,8,4,15,24,36,DLLWDLLWDLWWWWWLWWWLWWWDWWW,6,3,5,12,11,1,23,2,2,84,19,WLWWLWDWLDWLWLWWWLWLWWWLLWW,9,2,2,30,10,DLDLWLWWLWLWDW,LLDLDLLWLLWLL
+Amiens SC,Stade Rennais,0-2,/match/amiens-sc/stade-rennes/2018,2018,28,ligue_1,20,38,2,0,2,17,8,5,14,23,30,WLWWLLWWWWDDDLWWLWLWDWWLWDL,5,3,5,15,13,11,11,5,11,34,35,DLDWLLDLWWLWWWLWDLWLLWWLLDW,5,4,5,21,20,LWLWWDWLLDWLD,DWLDWLWLDWLWLD
+Angers SCO,Guingamp,3-0,/match/angers-sco/guingamp/2018,2018,28,ligue_1,20,38,0,3,0,19,6,10,11,29,40,DLDDDLDDLLDLDWLWDWWDWWWWLLL,3,4,6,14,23,9,9,8,10,28,35,LLWWWWWDWWDWDWDLWDWLLWLLDDD,4,2,7,12,21,DDLDLLLDWWWLL,LWWWWWWLDLWLD
+Metz,Toulouse,1-1,/match/metz/toulouse-fc/2018,2018,28,ligue_1,20,38,1,1,1,20,5,4,18,25,49,LWLWLLLWWLWLDLLWDLWDWWWWLWD,3,1,9,12,23,16,7,7,13,25,36,WWWWDLWDWLDWDWLWWWLWDWWLLDD,2,3,9,11,24,LLLLLLLLDWWWL,WWDWDLWWWWWWLD
+Saint-Étienne,Dijon FCO,2-2,/match/saint-etienne/dijon-fco/2018,2018,28,ligue_1,20,38,1,2,2,12,9,7,11,28,41,WLWWDLDWWLDLWDWDWLWWWWWLDLD,5,5,3,19,20,6,10,5,12,38,52,WLDWWLDDLLWWWWWWWWWDWWWDWWW,1,3,9,12,35,WWDDWLLDDLWWD,WDWDLWWWWWWDW
+Caen,Strasbourg,2-0,/match/caen/strasbourg/2018,2018,28,ligue_1,20,38,0,2,0,14,9,5,13,20,32,WLLWWWWLLWWWDWDLWDWLLLWWDDW,6,3,5,13,14,13,8,7,12,32,47,WWDWLWLDDLDWWDDWLWWLWWWLWWD,2,3,8,12,29,LWWWLWDWLDLLWD,WDWWDLWDLWWWW
+Montpellier,Olympique Lyonnais,1-1,/match/montpellier-hsc/olympique-lyonnais/2018,2018,28,ligue_1,20,38,1,1,1,5,9,12,6,24,21,WWDWLLDDWLLDDWDDDLLDDWWWLDD,5,6,3,15,11,4,14,8,5,57,33,WLDDWWDDWLWLDLLLLWLDLWWWLDD,8,3,3,33,17,WDLDWLDWDLDWWD,LDWDLLLLLLLWWD
+Olympique,Nantes,1-1,/match/olympique-marsella/nantes/2018,2018,28,ligue_1,20,38,1,1,1,3,16,7,4,56,32,WLDWLLWLDDLWDWLDWWWLWLDWDWW,9,3,1,32,12,7,11,6,10,27,28,WLLDLWLWDWWWWWWDLWLLDLLWDDL,5,4,5,16,18,WDLWDWWWWWDWW,WLLLDWWWDLDLWD
+Strasbourg,Monaco,1-3,/match/strasbourg/monaco/2018,2018,29,ligue_1,20,38,2,1,3,14,8,7,13,32,49,WWDWLWLDDLDWWDDWLWWLWWWLWWDW,6,4,4,20,18,2,18,6,4,69,30,WLLWWWLDWWLWDLWWWLWDDWDWLWDW,6,4,3,27,15,WLLDDWDWWLWLWD,LLWLWLDWLDDLD
+PSG,Metz,5-0,/match/paris-saint-germain-fc/metz/2018,2018,29,ligue_1,20,38,0,5,0,1,24,2,2,86,19,WLWWLWDWLDWLWLWWWLWLWWWLLWWL,14,0,0,54,9,20,5,5,18,26,50,LWLWLLLWWLWLDLLWDLWDWWWWLWDD,2,3,9,13,26,WWWWWWWWWWWWWW,WWLWWWDWLDWWWD
+Girondins Bordeaux,Angers SCO,0-0,/match/bordeaux/angers-sco/2018,2018,29,ligue_1,20,38,1,0,0,13,10,6,12,33,37,DWDWDLWWDWLWDWWWLWLLLLWLWWDW,6,3,4,18,16,16,7,10,11,32,40,DLDDDLDDLLDLDWLWDWWDWWWWLLLW,3,6,5,15,17,WWWDLDWLLLWWD,LDDDLDDWWWDWWL
+Dijon FCO,Amiens SC,1-1,/match/dijon-fco/amiens-sc/2018,2018,29,ligue_1,20,38,1,1,1,6,10,6,12,40,54,WLDWWLDDLLWWWWWWWWWDWWWDWWWD,9,2,3,26,17,18,8,5,15,23,32,WLWWLLWWWWDDDLWWLWLWDWWLWDLL,3,2,9,8,17,LWLDLWWWWWDWWW,WWLWWDDLWWWWWL
+Lille,Montpellier,1-1,/match/lillestrom/montpellier-hsc/2018,2018,29,ligue_1,20,38,1,1,1,19,7,6,15,27,45,WWLDDWLWDWLLWWLWWWDLLWWLDDLW,4,4,6,16,21,5,9,13,6,25,22,WWDWLLDDWLLDDWDDDLLDDWWWLDDD,4,6,3,9,10,WLDLDLWWDLWLDL,WWLDLDDDLDWLD
+Nantes,Troyes,1-0,/match/nantes/troyes/2018,2018,29,ligue_1,20,38,0,1,0,8,11,7,10,28,29,WLLDLWLWDWWWWWWDLWLLDLLWDDLD,6,2,5,11,10,17,8,4,16,24,38,DLLWDLLWDLWWWWWLWWWLWWWDWWWL,2,1,10,12,25,LDWWWWWLWLLDL,LWLDWWWWWWWWW
+Stade Rennais,Saint-Étienne,1-1,/match/stade-rennes/saint-etienne/2018,2018,29,ligue_1,20,38,1,1,1,11,12,5,11,36,35,DLDWLLDLWWLWWWLWDLWLLWWLLDWL,6,1,6,13,15,10,9,8,11,30,43,WLWWDLDWWLDLWDWDWLWWWWWLDLDD,4,2,8,9,21,LDLLWWWWLLWLW,LWLWDWWWWWWLLD
+Guingamp,Nice,2-5,/match/guingamp/nice/2018,2018,29,ligue_1,20,38,2,2,5,12,9,8,11,28,38,LLWWWWWDWWDWDWDLWDWLLWLLDDDW,5,6,3,16,14,7,11,6,11,34,39,WLWWWLDLWLWWDLLWLWDWDWWLWDDW,3,4,6,12,20,LWWDWDDDWWLLDD,WWLWWDLLDDWWD
+Olympique Lyonnais,Caen,1-0,/match/olympique-lyonnais/caen/2018,2018,29,ligue_1,20,38,0,1,0,4,14,9,5,58,34,WLDDWWDDWLWLDLLLLWLDLWWWLDDD,6,5,2,24,16,9,10,5,13,22,32,WLLWWWWLLWWWDWDLWDWLLLWWDDWW,3,2,8,7,18,WDWDWWDLWDWLD,WLWLWWDWWLWDW
+Toulouse,Olympique,1-2,/match/toulouse-fc/olympique-marsella/2018,2018,29,ligue_1,20,38,2,1,2,15,7,8,13,26,37,WWWWDLWDWLDWDWLWWWLWDWWLLDDD,5,4,4,14,12,3,16,8,4,57,33,WLDWLLWLDDLWDWLDWWWLWLDWDWWD,7,4,3,24,20,WWLWDDLWLDWLD,LWLLDLDLDWLLDW
+Monaco,Lille,2-1,/match/monaco/lillestrom/2018,2018,30,ligue_1,20,38,0,2,1,2,19,6,4,72,31,WLLWWWLDWWLWDLWWWLWDDWDWLWDWL,12,2,1,42,15,19,7,7,15,28,46,WWLDDWLWDWLLWWLWWWDLLWWLDDLWD,3,2,9,11,24,WWWDWWLWWWDWWWW,WDWWWLWLWWLWDW
+Girondins Bordeaux,Stade Rennais,0-2,/match/bordeaux/stade-rennes/2018,2018,30,ligue_1,20,38,2,0,2,11,10,7,12,33,37,DWDWDLWWDWLWDWWWLWLLLLWLWWDWD,6,4,4,18,16,9,12,6,11,37,36,DLDWLLDLWWLWWWLWDLWLLWWLLDWLD,6,4,5,23,20,WWWDLDWLLLWWDD,DWLDWLWLDWLWLDL
+Amiens SC,Troyes,1-1,/match/amiens-sc/troyes/2018,2018,30,ligue_1,20,38,1,1,1,18,8,6,15,24,33,WLWWLLWWWWDDDLWWLWLWDWWLWDLLD,5,3,6,15,15,17,8,4,17,24,39,DLLWDLLWDLWWWWWLWWWLWWWDWWWLW,2,1,11,12,26,LWLWWDWLLDWLDL,LWLDWWWWWWWWWW
+Angers SCO,Caen,3-0,/match/angers-sco/caen/2018,2018,30,ligue_1,20,38,0,3,0,15,7,11,11,32,40,DLDDDLDDLLDLDWLWDWWDWWWWLLLWD,4,4,6,17,23,12,10,5,14,22,33,WLLWWWWLLWWWDWDLWDWLLLWWDDWWW,3,2,9,7,19,DDLDLLLDWWWLLW,WLWLWWDWWLWDWW
+Montpellier,Dijon FCO,2-2,/match/montpellier-hsc/dijon-fco/2018,2018,30,ligue_1,20,38,1,2,2,5,9,14,6,26,23,WWDWLLDDWLLDDWDDDLLDDWWWLDDDD,5,7,3,16,12,6,10,7,12,41,55,WLDWWLDDLLWWWWWWWWWDWWWDWWWDD,1,4,9,14,37,WDLDWLDWDLDWWDD,WDWDLWWWWWWDWD
+Toulouse,Strasbourg,2-2,/match/toulouse-fc/strasbourg/2018,2018,30,ligue_1,20,38,1,2,2,16,7,8,14,27,39,WWWWDLWDWLDWDWLWWWLWDWWLLDDDL,5,4,5,15,14,14,8,7,14,33,52,WWDWLWLDDLDWWDDWLWWLWWWLWWDWL,2,3,9,12,31,WWLWDDLWLDWLDL,WDWWDLWDLWWWWW
+Nice,PSG,1-2,/match/nice/paris-saint-germain-fc/2018,2018,30,ligue_1,20,38,2,1,2,7,12,6,11,39,41,WLWWWLDLWLWWDLLWLWDWDWWLWDDWL,8,2,5,22,19,1,25,2,2,91,19,WLWWLWDWLDWLWLWWWLWLWWWLLWWLW,10,2,2,32,10,LWWDLLWLWWWWLDW,LLDLDLLWLLWLLL
+Metz,Nantes,1-1,/match/metz/nantes/2018,2018,30,ligue_1,20,38,1,1,1,20,5,5,19,26,55,LWLWLLLWWLWLDLLWDLWDWWWWLWDDW,3,2,9,13,24,8,12,7,10,29,29,WLLDLWLWDWWWWWWDLWLLDLLWDDLDW,5,5,5,17,19,LLLLLLLLDWWWLD,WLLLDWWWDLDLWDD
+Saint-Étienne,Guingamp,2-0,/match/saint-etienne/guingamp/2018,2018,30,ligue_1,20,38,0,2,0,10,9,9,11,31,44,WLWWDLDWWLDLWDWDWLWWWWWLDLDDD,5,6,3,21,22,13,9,8,12,30,43,LLWWWWWDWWDWDWDLWDWLLWLLDDDWL,4,2,8,12,24,WWDDWLLDDLWWDD,LWWWWWWLDLWLDW
+Olympique,Olympique Lyonnais,2-3,/match/olympique-marsella/olympique-lyonnais/2018,2018,30,ligue_1,20,38,2,2,3,3,17,8,4,59,34,WLDWLLWLDDLWDWLDWWWLWLDWDWWDL,9,4,1,33,13,4,15,9,5,59,34,WLDDWWDDWLWLDLLLLWLDLWWWLDDDW,8,4,3,34,18,WDLWDWWWWWDWWD,LDWDLLLLLLLWWDD
+PSG,Angers SCO,2-1,/match/paris-saint-germain-fc/angers-sco/2018,2018,31,ligue_1,20,38,0,2,1,1,26,2,2,93,20,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWL,15,0,0,59,9,14,8,11,11,35,40,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDW,3,7,5,15,17,WWWWWWWWWWWWWWW,LDDDLDDWWWDWWLD
+Dijon FCO,Olympique,1-3,/match/dijon-fco/olympique-marsella/2018,2018,31,ligue_1,20,38,2,1,3,6,10,8,12,43,57,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDD,9,3,3,27,18,3,17,8,5,61,37,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLL,8,4,3,26,21,LWLDLWWWWWDWWWD,LWLLDLDLDWLLDWL
+Guingamp,Girondins Bordeaux,2-1,/match/guingamp/bordeaux/2018,2018,31,ligue_1,20,38,0,2,1,13,9,8,13,30,45,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLW,5,6,4,18,19,11,10,7,13,33,39,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDL,4,3,8,15,21,LWWDWDDDWWLLDDL,DDDLWWWWWWLLLWW
+Caen,Montpellier,1-3,/match/caen/montpellier-hsc/2018,2018,31,ligue_1,20,38,2,1,3,12,10,5,15,22,36,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWW,7,3,5,15,14,5,9,15,6,28,25,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDD,4,7,3,10,11,LWWWLWDWLDLLWDW,WWLDLDDDLDWLDD
+Lille,Amiens SC,0-1,/match/lillestrom/amiens-sc/2018,2018,31,ligue_1,20,38,2,0,1,19,7,7,16,29,48,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDW,4,5,6,17,22,17,8,7,15,25,34,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDD,3,3,9,9,18,WLDLDLWWDLWLDLD,WWLWWDDLWWWWWLD
+Nantes,Saint-Étienne,0-3,/match/nantes/saint-etienne/2018,2018,31,ligue_1,20,38,2,0,3,8,12,8,10,30,30,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWD,7,2,5,12,10,9,10,9,11,33,44,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDW,4,3,8,10,22,LDWWWWWLWLLDLW,LWLWDWWWWWWLLDD
+Strasbourg,Metz,2-2,/match/strasbourg/metz/2018,2018,31,ligue_1,20,38,1,2,2,15,8,8,14,35,54,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLD,6,4,5,21,21,20,5,6,19,27,56,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWD,2,3,10,13,31,WLLDDWDWWLWLWDL,WWLWWWDWLDWWWDW
+Troyes,Nice,0-2,/match/troyes/nice/2018,2018,31,ligue_1,20,38,2,0,2,18,8,5,17,25,40,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWD,6,3,6,12,13,7,12,6,12,40,43,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLL,4,4,6,17,22,DLDLWLWWLWLWDWL,WWLWWDLLDDWWDL
+Olympique Lyonnais,Toulouse,2-0,/match/olympique-lyonnais/toulouse-fc/2018,2018,31,ligue_1,20,38,0,2,0,4,16,9,5,62,36,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWL,7,5,2,25,16,16,7,9,14,29,41,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLD,2,4,9,12,25,WDWDWWDLWDWLDW,WWDWDLWWWWWWLDD
+Stade Rennais,Monaco,1-1,/match/stade-rennes/monaco/2018,2018,31,ligue_1,20,38,1,1,1,10,13,6,11,39,36,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDL,6,2,6,14,16,2,20,6,4,74,32,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLW,7,4,3,30,16,LDLLWWWWLLWLWD,LLWLWLDWLDDLDL
+Saint-Étienne,PSG,1-1,/match/saint-etienne/paris-saint-germain-fc/2018,2018,32,ligue_1,20,38,1,1,1,8,11,9,11,36,44,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDWL,6,6,3,23,22,1,27,2,2,95,21,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWLW,11,2,2,34,11,WWDDWLLDDLWWDDW,LLDLDLLWLLWLLLL
+Monaco,Nantes,2-1,/match/monaco/nantes/2018,2018,32,ligue_1,20,38,0,2,1,2,20,7,4,75,33,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLWD,13,2,1,44,16,9,12,8,11,30,33,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWDL,5,6,5,18,20,WWWDWWLWWWDWWWWW,WLLLDWWWDLDLWDDD
+Amiens SC,Caen,3-0,/match/amiens-sc/caen/2018,2018,32,ligue_1,20,38,0,3,0,16,9,7,15,26,34,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDDL,5,4,6,16,16,13,10,5,16,23,39,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWWL,3,2,10,7,22,LWLWWDWLLDWLDLD,WLWLWWDWWLWDWWW
+Angers SCO,Strasbourg,1-1,/match/angers-sco/strasbourg/2018,2018,32,ligue_1,20,38,1,1,1,15,8,11,12,36,42,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDWW,5,4,6,20,23,14,8,9,14,37,56,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLDD,2,4,9,14,33,DDLDLLLDWWWLLWW,WDWWDLWDLWWWWWD
+Girondins Bordeaux,Lille,2-1,/match/bordeaux/lillestrom/2018,2018,32,ligue_1,20,38,0,2,1,12,10,7,14,34,41,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDLW,6,4,5,18,18,19,7,7,17,29,49,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDWL,3,2,10,12,26,WWWDLDWLLLWWDDL,WDWWWLWLWWLWDWW
+Guingamp,Troyes,4-0,/match/guingamp/troyes/2018,2018,32,ligue_1,20,38,0,4,0,11,10,8,13,32,46,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLWW,6,6,4,20,20,18,8,5,18,25,42,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWDL,2,2,11,13,27,LWWDWDDDWWLLDDLW,LWLDWWWWWWWWWWD
+Toulouse,Dijon FCO,0-1,/match/toulouse-fc/dijon-fco/2018,2018,32,ligue_1,20,38,2,0,1,17,7,9,15,29,43,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLDW,5,5,5,17,16,7,10,8,13,44,60,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDDL,1,5,9,16,39,WWLWDDLWLDWLDLD,WDWDLWWWWWWDWDD
+Nice,Stade Rennais,1-1,/match/nice/stade-rennes/2018,2018,32,ligue_1,20,38,1,1,1,6,13,6,12,42,43,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLLL,8,2,6,23,21,10,13,7,11,40,37,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDLD,7,4,5,25,20,LWWDLLWLWWWWLDWL,DWLDWLWLDWLWLDLL
+Metz,Olympique Lyonnais,0-5,/match/metz/olympique-lyonnais/2018,2018,32,ligue_1,20,38,2,0,5,20,5,7,19,29,58,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWDD,3,3,9,14,25,4,17,9,5,64,36,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWLW,9,4,3,37,20,LLLLLLLLDWWWLDD,LDWDLLLLLLLWWDDL
+Olympique,Montpellier,0-0,/match/olympique-marsella/montpellier-hsc/2018,2018,32,ligue_1,20,38,1,0,0,3,18,8,5,64,38,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLLL,9,4,2,35,16,5,10,15,6,31,26,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDDL,5,7,3,13,12,WDLWDWWWWWDWWDL,WWLDLDDDLDWLDDL
+Angers SCO,Nice,1-1,/match/angers-sco/nice/2018,2018,33,ligue_1,20,38,1,1,1,14,8,12,12,37,43,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDWWD,5,5,6,21,24,6,13,7,12,43,44,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLLLD,5,4,6,19,22,DDLDLLLDWWWLLWWD,WWLWWDLLDDWWDLL
+Olympique Lyonnais,Amiens SC,3-0,/match/olympique-lyonnais/amiens-sc/2018,2018,33,ligue_1,20,38,0,3,0,4,18,9,5,69,36,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWLWL,8,5,2,27,16,15,10,7,15,29,34,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDDLW,4,3,9,10,18,WDWDWWDLWDWLDWW,WWLWWDDLWWWWWLDL
+Lille,Guingamp,2-2,/match/lillestrom/guingamp/2018,2018,33,ligue_1,20,38,1,2,2,19,7,7,18,30,51,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDWLW,4,5,7,17,23,9,11,8,13,36,46,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLWWW,4,2,9,12,26,WLDLDLWWDLWLDLDL,LWWWWWWLDLWLDWW
+Nantes,Dijon FCO,1-1,/match/nantes/dijon-fco/2018,2018,33,ligue_1,20,38,1,1,1,11,12,8,12,31,35,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWDLW,7,2,6,12,13,7,11,8,13,45,60,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDDLL,2,5,9,17,39,LDWWWWWLWLLDLWL,WDWDLWWWWWWDWDDL
+Stade Rennais,Metz,1-2,/match/stade-rennes/metz/2018,2018,33,ligue_1,20,38,2,1,2,10,13,8,11,41,38,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDLDD,6,3,6,15,17,20,5,7,20,29,63,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWDDL,2,4,10,15,33,LDLLWWWWLLWLWDD,WWLWWWDWLDWWWDWD
+Strasbourg,Saint-Étienne,0-1,/match/strasbourg/saint-etienne/2018,2018,33,ligue_1,20,38,2,0,1,13,8,10,14,38,57,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLDDD,6,5,5,23,23,8,11,10,11,37,45,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDWLD,5,3,8,13,22,WLLDDWDWWLWLWDLD,LWLWDWWWWWWLLDDL
+Montpellier,Girondins Bordeaux,1-3,/match/montpellier-hsc/bordeaux/2018,2018,33,ligue_1,20,38,2,1,3,5,10,16,6,31,26,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDDLD,5,8,3,18,14,12,11,7,14,36,42,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDLWW,4,3,9,16,23,WDLDWLDWDLDWWDDD,DDDLWWWWWWLLLWWW
+Troyes,Olympique,2-3,/match/troyes/olympique-marsella/2018,2018,33,ligue_1,20,38,2,2,3,18,8,5,19,25,46,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWDLW,6,3,7,12,15,3,18,9,5,64,38,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLLLD,9,4,3,29,22,DLDLWLWWLWLWDWLL,LWLLDLDLDWLLDWLL
+PSG,Monaco,7-1,/match/paris-saint-germain-fc/monaco/2018,2018,33,ligue_1,20,38,0,7,1,1,27,3,2,96,22,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWLWD,16,0,0,61,10,2,21,7,4,77,34,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLWDW,7,5,3,31,17,WWWWWWWWWWWWWWWW,LLWLWLDWLDDLDLD
+Caen,Toulouse,0-0,/match/caen/toulouse-fc/2018,2018,33,ligue_1,20,38,1,0,0,16,10,5,17,23,42,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWWLW,7,3,6,16,17,17,7,9,16,29,44,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLDWL,2,4,10,12,27,LWWWLWDWLDLLWDWL,WWDWDLWWWWWWLDDW
+Nantes,Stade Rennais,1-1,/match/nantes/stade-rennes/2018,2018,34,ligue_1,20,38,1,1,1,10,12,9,12,32,36,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWDLWD,7,3,6,13,14,11,13,8,12,42,40,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDLDDL,7,5,5,26,21,LDWWWWWLWLLDLWLD,DWLDWLWLDWLWLDLLD
+Dijon FCO,Olympique Lyonnais,2-5,/match/dijon-fco/olympique-lyonnais/2018,2018,34,ligue_1,20,38,2,2,5,8,11,9,13,46,61,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDDLLD,9,3,4,28,21,4,19,9,5,72,36,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWLWLW,10,4,3,42,20,LWLDLWWWWWDWWWDL,LDWDLLLLLLLWWDDLL
+Olympique,Lille,5-1,/match/olympique-marsella/lillestrom/2018,2018,34,ligue_1,20,38,0,5,1,3,19,9,5,67,40,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLLLDL,9,5,2,35,16,19,7,8,18,32,53,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDWLWD,3,2,11,13,28,WDLWDWWWWWDWWDLD,WDWWWLWLWWLWDWWW
+Amiens SC,Strasbourg,3-1,/match/amiens-sc/strasbourg/2018,2018,34,ligue_1,20,38,0,3,1,16,10,7,16,29,37,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDDLWW,6,4,6,19,16,15,8,10,15,38,58,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLDDDL,2,5,9,15,34,LWLWWDWLLDWLDLDW,WDWWDLWDLWWWWWDD
+Guingamp,Monaco,3-1,/match/guingamp/monaco/2018,2018,34,ligue_1,20,38,0,3,1,9,11,9,13,38,48,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLWWWD,7,6,4,24,20,2,21,7,5,78,41,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLWDWW,7,5,4,32,24,LWWDWDDDWWLLDDLWW,LLWLWLDWLDDLDLDW
+Metz,Caen,1-1,/match/metz/caen/2018,2018,34,ligue_1,20,38,1,1,1,20,6,7,20,31,64,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWDDLL,3,3,10,14,30,14,10,6,17,23,42,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWWLWD,3,2,11,7,25,LLLLLLLLDWWWLDDL,WLWLWWDWWLWDWWWW
+Toulouse,Angers SCO,2-0,/match/toulouse-fc/angers-sco/2018,2018,34,ligue_1,20,38,0,2,0,17,7,10,16,29,44,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLDWLD,5,5,6,17,17,13,8,13,12,38,44,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDWWDD,3,7,6,16,19,WWLWDDLWLDWLDLDL,LDDDLDDWWWDWWLDW
+Nice,Montpellier,1-0,/match/nice/montpellier-hsc/2018,2018,34,ligue_1,20,38,0,1,0,6,13,8,12,44,45,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLLLDD,8,3,6,24,22,5,10,16,7,32,29,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDDLDL,5,8,3,13,12,LWWDLLWLWWWWLDWLD,WWLDLDDDLDWLDDLD
+Saint-Étienne,Troyes,2-1,/match/saint-etienne/troyes/2018,2018,34,ligue_1,20,38,0,2,1,7,12,10,11,38,45,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDWLDL,6,7,3,24,23,18,8,5,20,27,49,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWDLWL,2,2,12,13,31,WWDDWLLDDLWWDDWD,LWLDWWWWWWWWWWDW
+Girondins Bordeaux,PSG,0-1,/match/bordeaux/paris-saint-germain-fc/2018,2018,34,ligue_1,20,38,2,0,1,12,12,7,14,39,43,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDLWWL,7,4,5,20,19,1,28,3,2,103,23,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWLWDW,11,3,2,35,12,WWWDLDWLLLWWDDLW,LLDLDLLWLLWLLLLD
+Montpellier,Saint-Étienne,0-1,/match/montpellier-hsc/saint-etienne/2018,2018,35,ligue_1,20,38,2,0,1,8,10,16,8,32,30,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDDLDLW,5,8,4,19,17,6,13,10,11,40,46,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDWLDLW,6,3,8,14,22,WDLDWLDWDLDWWDDDL,LWLWDWWWWWWLLDDLL
+Olympique Lyonnais,Nantes,2-0,/match/olympique-lyonnais/nantes/2018,2018,35,ligue_1,20,38,0,2,0,4,20,9,5,77,38,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWLWLWL,9,5,2,30,16,10,12,10,12,33,37,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWDLWDD,5,6,6,19,22,WDWDWWDLWDWLDWWW,WLLLDWWWDLDLWDDDW
+Girondins Bordeaux,Dijon FCO,3-1,/match/bordeaux/dijon-fco/2018,2018,35,ligue_1,20,38,0,3,1,12,12,7,15,39,44,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDLWWLL,7,4,6,20,20,9,11,9,14,48,66,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDDLLDL,2,6,9,18,40,WWWDLDWLLLWWDDLWL,WDWDLWWWWWWDWDDLD
+Lille,Metz,3-1,/match/lillestrom/metz/2018,2018,35,ligue_1,20,38,0,3,1,19,7,8,19,33,58,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDWLWDW,4,6,7,19,25,20,6,8,20,32,65,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWDDLLD,3,4,10,17,34,WLDLDLWWDLWLDLDLD,WWLWWWDWLDWWWDWDL
+Monaco,Amiens SC,0-0,/match/monaco/amiens-sc/2018,2018,35,ligue_1,20,38,1,0,0,2,21,7,6,79,44,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLWDWWW,14,2,1,46,17,13,11,7,16,32,38,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDDLWWW,4,3,10,10,21,WWWDWWLWWWDWWWWWW,WWLWWDDLWWWWWLDLW
+Strasbourg,Nice,1-1,/match/strasbourg/nice/2018,2018,35,ligue_1,20,38,1,1,1,16,8,10,16,39,61,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLDDDLW,6,5,6,23,24,5,14,8,12,45,45,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLLLDDW,5,5,6,20,23,WLLDDWDWWLWLWDLDL,WWLWWDLLDDWWDLLD
+Troyes,Caen,3-1,/match/troyes/caen/2018,2018,35,ligue_1,20,38,0,3,1,18,8,5,21,28,51,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWDLWLW,6,3,8,14,18,15,10,7,17,24,43,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWWLWDD,3,3,11,8,26,DLDLWLWWLWLWDWLLL,WLWLWWDWWLWDWWWWD
+Stade Rennais,Toulouse,2-1,/match/stade-rennes/toulouse-fc/2018,2018,35,ligue_1,20,38,0,2,1,11,13,9,12,43,41,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDLDDLD,6,3,7,16,19,17,8,10,16,31,44,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLDWLDW,2,5,10,12,27,LDLLWWWWLLWLWDDL,WWDWDLWWWWWWLDDWD
+Angers SCO,Olympique,1-1,/match/angers-sco/olympique-marsella/2018,2018,35,ligue_1,20,38,1,1,1,14,8,13,13,38,46,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDWWDDW,5,6,6,22,25,3,20,9,5,72,41,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLLLDLW,10,4,3,32,24,DDLDLLLDWWWLLWWDD,LWLLDLDLDWLLDWLLL
+PSG,Guingamp,2-2,/match/paris-saint-germain-fc/guingamp/2018,2018,35,ligue_1,20,38,1,2,2,1,29,3,2,104,23,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWLWDWL,17,0,0,68,11,7,12,9,13,41,49,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLWWWDW,4,3,9,14,28,WWWWWWWWWWWWWWWWW,LWWWWWWLDLWLDWWD
+Amiens SC,PSG,2-2,/match/amiens-sc/paris-saint-germain-fc/2018,2018,36,ligue_1,20,38,1,2,2,13,11,8,16,32,38,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDDLWWWD,7,4,6,22,17,1,29,4,2,106,25,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWLWDWLD,12,3,2,36,12,LWLWWDWLLDWLDLDWW,LLDLDLLWLLWLLLLDL
+Saint-Étienne,Girondins Bordeaux,1-3,/match/saint-etienne/bordeaux/2018,2018,36,ligue_1,20,38,2,1,3,5,14,10,11,41,46,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDWLDLWL,7,7,3,26,24,10,13,7,15,42,45,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDLWWLLW,5,3,9,19,24,WWDDWLLDDLWWDDWDW,DDDLWWWWWWLLLWWWL
+Olympique Lyonnais,Troyes,3-0,/match/olympique-lyonnais/troyes/2018,2018,36,ligue_1,20,38,0,3,0,3,21,9,5,79,38,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWLWLWLW,10,5,2,32,16,18,9,5,21,31,52,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWDLWLWW,2,2,13,14,33,WDWDWWDLWDWLDWWWW,LWLDWWWWWWWWWWDWW
+Caen,Monaco,1-2,/match/caen/monaco/2018,2018,36,ligue_1,20,38,2,1,2,15,10,7,18,25,46,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWWLWDDW,7,4,6,16,17,2,21,8,6,79,44,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLWDWWWD,7,5,5,33,27,LWWWLWDWLDLLWDWLD,LLWLWLDWLDDLDLDWW
+Dijon FCO,Guingamp,3-1,/match/dijon-fco/guingamp/2018,2018,36,ligue_1,20,38,0,3,1,11,11,9,15,49,69,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDDLLDLW,9,3,5,30,26,7,12,10,13,43,51,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLWWWDWD,4,4,9,16,30,LWLDLWWWWWDWWWDLL,LWWWWWWLDLWLDWWDD
+Metz,Angers SCO,1-2,/match/metz/angers-sco/2018,2018,36,ligue_1,20,38,2,1,2,20,6,8,21,33,68,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWDDLLDW,3,4,10,15,31,14,8,14,13,39,47,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDWWDDWD,3,7,7,16,21,LLLLLLLLDWWWLDDLD,LDDDLDDWWWDWWLDWW
+Nantes,Montpellier,0-2,/match/nantes/montpellier-hsc/2018,2018,36,ligue_1,20,38,2,0,2,12,12,10,13,33,39,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWDLWDDW,7,4,6,14,15,9,10,16,9,32,31,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDDLDLWL,5,8,4,13,13,LDWWWWWLWLLDLWLDD,WWLDLDDDLDWLDDLDW
+Stade Rennais,Strasbourg,2-1,/match/stade-rennes/strasbourg/2018,2018,36,ligue_1,20,38,0,2,1,8,14,9,12,45,42,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDLDDLDW,7,3,7,18,20,16,8,11,16,40,62,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLDDDLWD,2,5,10,16,37,LDLLWWWWLLWLWDDLW,WDWWDLWDLWWWWWDDW
+Toulouse,Lille,2-3,/match/toulouse-fc/lillestrom/2018,2018,36,ligue_1,20,38,2,2,3,17,8,10,17,32,46,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLDWLDWW,6,5,6,19,17,19,8,8,19,36,59,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDWLWDWW,3,2,12,14,33,WWLWDDLWLDWLDLDLW,WDWWWLWLWWLWDWWWW
+Olympique,Nice,2-1,/match/olympique-marsella/nice/2018,2018,36,ligue_1,20,38,0,2,1,4,20,10,5,73,42,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLLLDLWD,10,5,2,40,17,6,14,9,12,46,46,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLLLDDWD,5,6,6,21,24,WDLWDWWWWWDWWDLDW,WWLWWDLLDDWWDLLDD
+Guingamp,Olympique,3-3,/match/guingamp/olympique-marsella/2018,2018,37,ligue_1,20,38,1,3,3,10,12,10,14,44,54,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLWWWDWDW,8,6,4,27,21,4,21,10,5,75,43,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLLLDLWDW,10,5,3,33,25,LWWDWDDDWWLLDDLWWW,LWLLDLDLDWLLDWLLLD
+Amiens SC,Metz,2-0,/match/amiens-sc/metz/2018,2018,37,ligue_1,20,38,0,2,0,13,11,9,16,34,40,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDDLWWWDD,7,5,6,24,19,20,6,8,22,34,70,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWDDLLDWL,3,4,11,18,37,LWLWWDWLLDWLDLDWWD,WWLWWWDWLDWWWDWDLW
+Angers SCO,Nantes,0-2,/match/angers-sco/nantes/2018,2018,37,ligue_1,20,38,2,0,2,14,9,14,13,41,48,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDWWDDWDL,5,7,6,23,26,12,12,10,14,33,41,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWDLWDDWL,5,6,7,19,24,DDLDLLLDWWWLLWWDDD,WLLLDWWWDLDLWDDDWW
+Girondins Bordeaux,Toulouse,4-2,/match/bordeaux/toulouse-fc/2018,2018,37,ligue_1,20,38,0,4,2,11,14,7,15,45,46,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDLWWLLWL,8,4,6,23,21,17,8,10,18,34,49,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLDWLDWWL,2,5,11,13,29,WWWDLDWLLLWWDDLWLW,WWDWDLWWWWWWLDDWDW
+Lille,Dijon FCO,2-1,/match/lillestrom/dijon-fco/2018,2018,37,ligue_1,20,38,0,2,1,18,9,8,19,39,61,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDWLWDWWL,5,6,7,22,26,9,12,9,15,52,70,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDDLLDLWW,2,6,10,19,43,WLDLDLWWDLWLDLDLDW,WDWDLWWWWWWDWDDLDW
+Monaco,Saint-Étienne,1-0,/match/monaco/saint-etienne/2018,2018,37,ligue_1,20,38,0,1,0,2,22,8,6,81,45,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLWDWWWDL,14,3,1,46,17,5,14,10,12,42,49,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDWLDLWLL,7,3,8,15,22,WWWDWWLWWWDWWWWWWD,LWLWDWWWWWWLLDDLLL
+Montpellier,Troyes,1-1,/match/montpellier-hsc/troyes/2018,2018,37,ligue_1,20,38,1,1,1,8,11,16,9,34,31,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDDLDLWLL,5,8,5,19,18,19,9,5,22,31,55,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWDLWLWWW,2,2,14,14,36,WDLDWLDWDLDWWDDDLL,LWLDWWWWWWWWWWDWWW
+Nice,Caen,4-1,/match/nice/caen/2018,2018,37,ligue_1,20,38,0,4,1,6,14,9,13,47,48,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLLLDDWDW,9,3,6,25,22,15,10,7,19,26,48,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWWLWDDWL,3,3,12,9,29,LWWDLLWLWWWWLDWLDW,WLWLWWDWWLWDWWWWDW
+PSG,Stade Rennais,0-2,/match/paris-saint-germain-fc/stade-rennes/2018,2018,37,ligue_1,20,38,2,0,2,1,29,5,2,108,27,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWLWDWLDD,17,1,0,70,13,7,15,9,12,47,43,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDLDDLDWW,7,6,5,27,22,WWWWWWWWWWWWWWWWWD,DWLDWLWLDWLWLDLLDD
+Strasbourg,Olympique Lyonnais,3-2,/match/strasbourg/olympique-lyonnais/2018,2018,37,ligue_1,20,38,0,3,2,16,8,11,17,41,64,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLDDDLWDW,6,6,6,24,25,3,22,9,5,82,38,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWLWLWLWW,11,4,3,47,22,WLLDDWDWWLWLWDLDLD,LDWDLLLLLLLWWDDLLL
+Caen,PSG,0-0,/match/caen/paris-saint-germain-fc/2018,2018,38,ligue_1,20,38,1,0,0,17,10,7,20,27,52,WLLWWWWLLWWWDWDLWDWLLLWWDDWWWWLWDDWLW,7,4,7,17,19,1,29,5,3,108,29,WLWWLWDWLDWLWLWWWLWLWWWLLWWLWLWDWLDDL,12,4,2,38,14,LWWWLWDWLDLLWDWLDL,LLDLDLLWLLWLLLLDLD
+Dijon FCO,Angers SCO,2-1,/match/dijon-fco/angers-sco/2018,2018,38,ligue_1,20,38,0,2,1,11,12,9,16,53,72,WLDWWLDDLLWWWWWWWWWDWWWDWWWDDDLLDLWWW,10,3,5,33,27,14,9,14,14,41,50,DLDDDLDDLLDLDWLWDWWDWWWWLLLWDWWDDWDLL,4,7,7,18,22,LWLDLWWWWWDWWWDLLW,LDDDLDDWWWDWWLDWWL
+Olympique Lyonnais,Nice,3-2,/match/olympique-lyonnais/nice/2018,2018,38,ligue_1,20,38,0,3,2,3,22,9,6,84,41,WLDDWWDDWLWLDLLLLWLDLWWWLDDDWLWLWLWWW,11,5,2,35,16,5,15,9,13,51,49,WLWWWLDLWLWWDLLWLWDWDWWLWDDWLLLDDWDWW,5,6,7,22,26,WDWDWWDLWDWLDWWWWW,WWLWWDLLDDWWDLLDDW
+Olympique,Amiens SC,2-1,/match/olympique-marsella/amiens-sc/2018,2018,38,ligue_1,20,38,0,2,1,4,21,11,5,78,46,WLDWLLWLDDLWDWLDWWWLWLDWDWWDLLLDLWDWD,11,5,2,42,18,13,12,9,16,36,40,WLWWLLWWWWDDDLWWLWLWDWWLWDLLDDLWWWDDW,4,4,10,10,21,WDLWDWWWWWDWWDLDWW,WWLWWDDLWWWWWLDLWD
+Metz,Girondins Bordeaux,0-4,/match/metz/bordeaux/2018,2018,38,ligue_1,20,38,2,0,4,20,6,8,23,34,72,LWLWLLLWWLWLDLLWDLWDWWWWLWDDWDDLLDWLW,3,4,11,16,33,7,15,7,15,49,48,DWDWDLWWDWLWDWWWLWLLLLWLWWDWDLWWLLWLW,6,3,9,22,25,LLLLLLLLDWWWLDDLDL,DDDLWWWWWWLLLWWWLL
+Nantes,Strasbourg,1-0,/match/nantes/strasbourg/2018,2018,38,ligue_1,20,38,0,1,0,12,13,10,14,35,41,WLLDLWLWDWWWWWWDLWLLDLLWDDLDWDLWDDWLL,7,4,7,14,17,15,9,11,17,44,66,WWDWLWLDDLDWWDDWLWWLWWWLWWDWLDDDLWDWW,2,5,11,17,39,LDWWWWWLWLLDLWLDDL,WDWWDLWDLWWWWWDDWW
+Stade Rennais,Montpellier,1-1,/match/stade-rennes/montpellier-hsc/2018,2018,38,ligue_1,20,38,1,1,1,6,16,9,12,49,43,DLDWLLDLWWLWWWLWDLWLLWWLLDWLDLDDLDWWL,8,3,7,20,21,9,11,17,9,35,32,WWDWLLDDWLLDDWDDDLLDDWWWLDDDDDLDLWLLD,6,8,4,15,13,LDLLWWWWLLWLWDDLWW,WWLDLDDDLDWLDDLDWL
+Saint-Étienne,Lille,5-0,/match/saint-etienne/lillestrom/2018,2018,38,ligue_1,20,38,0,5,0,8,14,10,13,42,50,WLWWDLDWWLDLWDWDWLWWWWWLDLDDDWLDLWLLW,7,7,4,27,27,16,10,8,19,41,62,WWLDDWLWDWLLWWLWWWDLLWWLDDLWDWLWDWWLW,4,2,12,17,35,WWDDWLLDDLWWDDWDWL,WDWWWLWLWWLWDWWWWL
+Toulouse,Guingamp,2-1,/match/toulouse-fc/guingamp/2018,2018,38,ligue_1,20,38,0,2,1,18,8,10,19,36,53,WWWWDLWDWLDWDWLWWWLWDWWLLDDDLDWLDWWLW,6,5,7,21,20,10,12,11,14,47,57,LLWWWWWDWWDWDWDLWDWLLWLLDDDWLWWWDWDWD,4,4,10,17,33,WWLWDDLWLDWLDLDLWL,LWWWWWWLDLWLDWWDDW
+Troyes,Monaco,0-3,/match/troyes/monaco/2018,2018,38,ligue_1,20,38,2,0,3,19,9,6,22,32,56,DLLWDLLWDLWWWWWLWWWLWWWDWWWLWDLWLWWWD,7,3,8,17,19,2,23,8,6,82,45,WLLWWWLDWWLWDLWWWLWDDWDWLWDWLWDWWWDLW,8,5,5,35,28,DLDLWLWWLWLWDWLLLW,LLWLWLDWLDDLDLDWWL

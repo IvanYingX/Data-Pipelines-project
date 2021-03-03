@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Olympique Lyonnais,Olympique,1-4,/match/olympique-lyonnais/olympique-marsella/1990,1990,1,ligue_1,20,38,2,1,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Cannes,4-1,/match/montpellier-hsc/as-cannes/1990,1990,1,ligue_1,20,38,0,4,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Toulouse,FC Mulhouse,3-0,/match/toulouse-fc/mulhouse/1990,1990,1,ligue_1,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting Toulon,Saint-Étienne,2-0,/match/sporting-toulon/saint-etienne/1990,1990,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nantes,Auxerre,2-1,/match/nantes/auxerre/1990,1990,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lille,Caen,1-0,/match/lillestrom/caen/1990,1990,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sochaux,Stade Brestois,1-0,/match/sochaux/stade-brestois-29/1990,1990,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nice,PSG,3-3,/match/nice/paris-saint-germain-fc/1990,1990,1,ligue_1,20,38,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Metz,Girondins Bordeaux,0-0,/match/metz/bordeaux/1990,1990,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Racing Paris,Monaco,0-0,/match/racing-paris/monaco/1990,1990,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Stade Brestois,Lille,1-0,/match/stade-brestois-29/lillestrom/1990,1990,2,ligue_1,20,38,0,1,0,15,0,0,1,0,1,W,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Girondins Bordeaux,Racing Paris,4-0,/match/bordeaux/racing-paris/1990,1990,2,ligue_1,20,38,0,4,0,11,0,1,0,0,0,D,0,0,0,0,0,9,0,1,0,0,0,D,0,0,0,0,0,,
+Cannes,Sporting Toulon,0-0,/match/as-cannes/sporting-toulon/1990,1990,2,ligue_1,20,38,1,0,0,18,0,0,1,1,4,W,0,0,0,0,0,6,1,0,0,2,0,W,0,0,0,0,0,,
+PSG,Metz,1-0,/match/paris-saint-germain-fc/metz/1990,1990,2,ligue_1,20,38,0,1,0,13,0,1,0,3,3,D,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
+Monaco,Sochaux,2-1,/match/monaco/sochaux/1990,1990,2,ligue_1,20,38,0,2,1,12,0,1,0,0,0,D,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+FC Mulhouse,Montpellier,2-0,/match/mulhouse/montpellier-hsc/1990,1990,2,ligue_1,20,38,0,2,0,20,0,0,1,0,3,W,0,0,0,0,0,3,1,0,0,4,1,W,0,0,0,0,0,,
+Olympique Lyonnais,Toulouse,3-0,/match/olympique-lyonnais/toulouse-fc/1990,1990,2,ligue_1,20,38,0,3,0,19,0,0,1,1,4,L,0,0,1,1,4,2,1,0,0,3,0,W,0,0,0,0,0,L,
+Caen,Saint-Étienne,3-2,/match/caen/saint-etienne/1990,1990,2,ligue_1,20,38,0,3,2,14,0,0,1,0,1,W,0,0,0,0,0,16,0,0,1,0,2,W,0,0,1,0,2,,W
+Auxerre,Nice,1-0,/match/auxerre/nice/1990,1990,2,ligue_1,20,38,0,1,0,17,0,0,1,1,2,W,0,0,0,0,0,10,0,1,0,3,3,D,0,0,0,0,0,,
+Olympique,Nantes,1-0,/match/olympique-marsella/nantes/1990,1990,2,ligue_1,20,38,0,1,0,8,1,0,0,4,1,L,0,0,0,0,0,5,1,0,0,2,1,W,0,0,0,0,0,,
+Lille,Monaco,1-1,/match/lillestrom/monaco/1990,1990,3,ligue_1,20,38,1,1,1,11,1,0,1,1,1,WW,1,0,0,1,0,5,1,1,0,2,1,DW,0,1,0,0,0,W,D
+Montpellier,Girondins Bordeaux,1-2,/match/montpellier-hsc/bordeaux/1990,1990,3,ligue_1,20,38,2,1,2,14,1,0,1,4,3,WW,1,0,0,4,1,2,1,1,0,4,0,DW,0,1,0,0,0,W,D
+Sporting Toulon,Caen,2-0,/match/sporting-toulon/caen/1990,1990,3,ligue_1,20,38,0,2,0,3,1,1,0,2,0,WD,1,0,0,2,0,10,1,0,1,3,3,WW,0,0,1,0,1,W,W
+Toulouse,Olympique,2-1,/match/toulouse-fc/olympique-marsella/1990,1990,3,ligue_1,20,38,0,2,1,6,1,0,1,3,3,WW,1,0,0,3,0,1,2,0,0,5,1,LW,1,0,0,4,1,W,L
+Nantes,Olympique Lyonnais,2-1,/match/nantes/olympique-lyonnais/1990,1990,3,ligue_1,20,38,0,2,1,12,1,0,1,2,2,WW,1,0,0,2,1,7,1,0,1,4,4,LW,0,0,0,0,0,W,
+Sochaux,PSG,1-0,/match/sochaux/paris-saint-germain-fc/1990,1990,3,ligue_1,20,38,0,1,0,13,1,0,1,2,2,WW,1,0,0,1,0,4,1,1,0,4,3,DW,0,1,0,3,3,W,D
+Nice,FC Mulhouse,2-0,/match/nice/mulhouse/1990,1990,3,ligue_1,20,38,0,2,0,16,0,1,1,3,4,DW,0,1,0,3,3,15,1,0,1,2,3,WW,0,0,1,0,3,D,W
+Metz,Auxerre,2-1,/match/metz/auxerre/1990,1990,3,ligue_1,20,38,0,2,1,18,0,1,1,0,1,DW,0,1,0,0,0,8,1,0,1,2,2,WW,0,0,1,1,2,D,W
+Racing Paris,Cannes,3-2,/match/racing-paris/as-cannes/1990,1990,3,ligue_1,20,38,0,3,2,17,0,1,1,0,4,DW,0,1,0,0,0,19,0,1,1,1,4,WD,0,0,1,1,4,D,W
+Saint-Étienne,Stade Brestois,2-0,/match/saint-etienne/stade-brestois-29/1990,1990,3,ligue_1,20,38,0,2,0,20,0,0,2,2,5,WW,0,0,0,0,0,9,1,0,1,1,1,WW,0,0,1,0,1,,W
+Cannes,Lille,3-0,/match/as-cannes/lillestrom/1990,1990,4,ligue_1,20,38,0,3,0,20,0,1,2,3,7,WDW,0,1,0,0,0,10,1,1,1,2,2,WWD,0,0,1,0,1,D,W
+Nantes,Racing Paris,5-1,/match/nantes/racing-paris/1990,1990,4,ligue_1,20,38,0,5,1,4,2,0,1,4,3,WWW,2,0,0,4,2,8,1,1,1,3,6,DWW,0,0,1,0,4,WW,W
+Olympique,Metz,2-1,/match/olympique-marsella/metz/1990,1990,4,ligue_1,20,38,0,2,1,6,2,0,1,6,3,LWW,1,0,0,1,0,7,1,1,1,2,2,DWW,0,0,1,0,1,W,W
+Auxerre,Toulouse,2-2,/match/auxerre/toulouse-fc/1990,1990,4,ligue_1,20,38,1,2,2,15,1,0,2,3,4,WWW,1,0,0,1,0,2,2,0,1,5,4,WWW,0,0,1,0,3,W,W
+PSG,Montpellier,2-1,/match/paris-saint-germain-fc/montpellier-hsc/1990,1990,4,ligue_1,20,38,0,2,1,12,1,1,1,4,4,DWW,1,0,0,1,0,16,1,0,2,5,5,WWL,0,0,1,0,2,W,W
+Monaco,Saint-Étienne,0-0,/match/monaco/saint-etienne/1990,1990,4,ligue_1,20,38,1,0,0,11,1,2,0,3,2,DWD,1,0,0,2,1,19,1,0,2,4,5,WWW,0,0,2,2,5,W,WW
+FC Mulhouse,Sporting Toulon,4-0,/match/mulhouse/sporting-toulon/1990,1990,4,ligue_1,20,38,0,4,0,17,1,0,2,2,5,WWW,1,0,0,2,0,1,2,1,0,4,0,WDW,0,1,0,0,0,W,D
+Olympique Lyonnais,Nice,2-0,/match/olympique-lyonnais/nice/1990,1990,4,ligue_1,20,38,0,2,0,18,1,0,2,5,6,LWW,1,0,1,4,4,9,1,1,1,5,4,DWW,0,0,1,0,1,LW,W
+Stade Brestois,Caen,2-1,/match/stade-brestois-29/caen/1990,1990,4,ligue_1,20,38,0,2,1,14,1,0,2,1,3,WWW,1,0,0,1,0,13,1,0,2,3,5,WWW,0,0,2,0,3,W,WW
+Girondins Bordeaux,Sochaux,1-0,/match/bordeaux/sochaux/1990,1990,4,ligue_1,20,38,0,1,0,5,2,1,0,6,1,DWL,1,0,0,4,0,3,2,0,1,3,2,WWW,0,0,1,1,2,W,W
+Montpellier,Auxerre,1-0,/match/montpellier-hsc/auxerre/1990,1990,5,ligue_1,20,38,0,1,0,20,1,0,3,6,7,WWLW,1,0,1,5,3,15,1,1,2,5,6,WWWD,0,0,2,2,4,WL,WW
+Toulouse,Nantes,1-1,/match/toulouse-fc/nantes/1990,1990,5,ligue_1,20,38,1,1,1,5,2,1,1,7,6,WWWD,2,0,0,5,1,1,3,0,1,9,4,WWWW,0,0,1,0,1,WW,W
+Nice,Olympique,1-1,/match/nice/olympique-marsella/1990,1990,5,ligue_1,20,38,1,1,1,13,1,1,2,5,6,DWWW,1,1,0,5,3,3,3,0,1,8,4,LWWW,1,0,1,5,3,DW,LW
+Saint-Étienne,PSG,1-2,/match/saint-etienne/paris-saint-germain-fc/1990,1990,5,ligue_1,20,38,2,1,2,18,1,1,2,4,5,WWWD,1,0,0,2,0,6,2,1,1,6,5,DWWW,0,1,1,3,4,W,DW
+Sporting Toulon,Stade Brestois,2-0,/match/sporting-toulon/stade-brestois-29/1990,1990,5,ligue_1,20,38,0,2,0,4,2,1,1,4,4,WDWW,2,0,0,4,0,9,2,0,2,3,4,WWWW,0,0,2,0,3,WW,WW
+Sochaux,Cannes,3-0,/match/sochaux/as-cannes/1990,1990,5,ligue_1,20,38,0,3,0,11,2,0,2,3,3,WWWW,2,0,0,2,0,17,1,1,2,6,7,WDWW,0,0,2,3,7,WW,WW
+Metz,Olympique Lyonnais,2-3,/match/metz/olympique-lyonnais/1990,1990,5,ligue_1,20,38,2,2,3,16,1,1,2,3,4,DWWW,1,1,0,2,1,7,2,0,2,7,6,LWWW,0,0,1,1,2,DW,W
+Caen,Monaco,1-1,/match/caen/monaco/1990,1990,5,ligue_1,20,38,1,1,1,19,1,0,3,4,7,WWWW,1,0,0,3,2,10,1,3,0,3,2,DWDD,0,2,0,1,1,W,DD
+Racing Paris,FC Mulhouse,2-1,/match/racing-paris/mulhouse/1990,1990,5,ligue_1,20,38,0,2,1,14,1,1,2,4,11,DWWW,1,1,0,3,2,8,2,0,2,6,5,WWWW,0,0,2,0,5,DW,WW
+Lille,Girondins Bordeaux,0-1,/match/lillestrom/bordeaux/1990,1990,5,ligue_1,20,38,2,0,1,12,1,1,2,2,5,WWDW,1,1,0,2,1,2,3,1,0,7,1,DWLW,1,1,0,2,1,WD,DL
+Olympique,Montpellier,2-0,/match/olympique-marsella/montpellier-hsc/1990,1990,6,ligue_1,20,38,0,2,0,7,3,1,1,9,5,LWWWD,2,0,0,3,1,14,2,0,3,7,7,WWLWW,0,0,2,1,4,WW,WW
+Auxerre,Racing Paris,2-0,/match/auxerre/racing-paris/1990,1990,6,ligue_1,20,38,0,2,0,16,1,1,3,5,7,WWWDW,1,1,0,3,2,9,2,1,2,6,12,DWWWW,0,0,2,1,9,WD,WW
+FC Mulhouse,Metz,2-2,/match/mulhouse/metz/1990,1990,6,ligue_1,20,38,1,2,2,11,2,0,3,7,7,WWWWW,2,0,0,6,0,17,1,1,3,5,7,DWWWL,0,0,2,1,3,WW,WW
+Toulouse,Sporting Toulon,0-0,/match/toulouse-fc/sporting-toulon/1990,1990,6,ligue_1,20,38,1,0,0,5,2,2,1,8,7,WWWDD,2,1,0,6,2,2,3,1,1,6,4,WDWWW,0,1,1,0,4,WWD,DW
+Monaco,Stade Brestois,2-0,/match/monaco/stade-brestois-29/1990,1990,6,ligue_1,20,38,0,2,0,10,1,4,0,4,3,DWDDD,1,1,0,2,1,12,2,0,3,3,6,WWWWW,0,0,3,0,5,WD,WWW
+Nantes,Nice,2-2,/match/nantes/nice/1990,1990,6,ligue_1,20,38,1,2,2,1,3,1,1,10,5,WWWWD,3,0,0,9,3,13,1,2,2,6,7,DWWWD,0,0,2,0,3,WWW,WW
+Olympique Lyonnais,Sochaux,0-4,/match/olympique-lyonnais/sochaux/1990,1990,6,ligue_1,20,38,2,0,4,8,3,0,2,10,8,LWWWL,2,0,1,6,4,4,3,0,2,6,3,WWWWW,0,0,2,1,3,LWW,WW
+PSG,Lille,2-1,/match/paris-saint-germain-fc/lillestrom/1990,1990,6,ligue_1,20,38,0,2,1,6,3,1,1,8,6,DWWWL,2,0,0,3,1,15,1,1,3,2,6,WWDWL,0,0,2,0,4,WW,WW
+Girondins Bordeaux,Saint-Étienne,1-0,/match/bordeaux/saint-etienne/1990,1990,6,ligue_1,20,38,0,1,0,3,4,1,0,8,1,DWLWL,2,0,0,5,0,20,1,1,3,5,7,WWWDL,0,1,2,2,5,WW,WWD
+Cannes,Caen,3-1,/match/as-cannes/caen/1990,1990,6,ligue_1,20,38,0,3,1,18,1,1,3,6,10,WDWWW,1,1,0,3,0,19,1,1,3,5,8,WWWWD,0,0,3,1,5,DW,WWW
+Caen,Girondins Bordeaux,1-0,/match/caen/bordeaux/1990,1990,7,ligue_1,20,38,0,1,0,19,1,1,4,6,11,WWWWDW,1,1,0,4,3,1,5,1,0,9,1,DWLWLW,2,1,0,3,1,WD,DLL
+Montpellier,Olympique Lyonnais,2-0,/match/montpellier-hsc/olympique-lyonnais/1990,1990,7,ligue_1,20,38,0,2,0,16,2,0,4,7,9,WWLWWW,2,0,1,6,3,13,3,0,3,10,12,LWWWLL,1,0,1,4,4,WLW,WL
+Lille,FC Mulhouse,1-1,/match/lillestrom/mulhouse/1990,1990,7,ligue_1,20,38,1,1,1,18,1,1,4,3,8,WWDWLW,1,1,1,2,2,11,2,1,3,9,9,WWWWWD,0,0,3,1,7,WDL,WWW
+Nice,Toulouse,1-1,/match/nice/toulouse-fc/1990,1990,7,ligue_1,20,38,1,1,1,14,1,3,2,8,9,DWWWDD,1,2,0,6,4,7,2,3,1,8,7,WWWDDD,0,1,1,2,5,DWD,WD
+Metz,Nantes,1-1,/match/metz/nantes/1990,1990,7,ligue_1,20,38,1,1,1,17,1,2,3,7,9,DWWWLD,1,1,1,4,4,2,3,2,1,12,7,WWWWDD,0,1,1,1,2,DWL,WD
+Sochaux,Auxerre,0-0,/match/sochaux/auxerre/1990,1990,7,ligue_1,20,38,1,0,0,6,4,0,2,10,3,WWWWWL,3,0,0,5,0,10,2,1,3,7,7,WWWDWW,0,0,3,2,5,WWW,WWW
+Sporting Toulon,Monaco,2-0,/match/sporting-toulon/monaco/1990,1990,7,ligue_1,20,38,0,2,0,5,3,2,1,6,4,WDWWWD,3,0,0,6,0,8,2,4,0,6,3,DWDDDW,0,3,0,2,2,WWW,DDD
+Racing Paris,Olympique,1-1,/match/racing-paris/olympique-marsella/1990,1990,7,ligue_1,20,38,1,1,1,12,2,1,3,6,14,DWWWWW,2,1,0,5,3,4,4,1,1,11,5,LWWWDW,1,1,1,6,4,DWW,LWD
+Stade Brestois,PSG,0-1,/match/stade-brestois-29/paris-saint-germain-fc/1990,1990,7,ligue_1,20,38,2,0,1,15,2,0,4,3,8,WWWWWW,2,0,0,3,1,3,4,1,1,10,7,DWWWLW,1,1,1,5,5,WW,DWL
+Saint-Étienne,Cannes,1-0,/match/saint-etienne/as-cannes/1990,1990,7,ligue_1,20,38,0,1,0,20,1,1,4,5,8,WWWDLW,1,0,1,3,2,9,2,1,3,9,11,WDWWWW,0,0,3,3,10,WL,WWW
+FC Mulhouse,Saint-Étienne,1-2,/match/mulhouse/saint-etienne/1990,1990,8,ligue_1,20,38,2,1,2,12,2,2,3,10,10,WWWWWDD,2,1,0,8,2,18,2,1,4,6,8,WWWDLWW,0,1,3,2,6,WWD,WWDW
+Nice,Lille,1-1,/match/nice/lillestrom/1990,1990,8,ligue_1,20,38,1,1,1,11,1,4,2,9,10,DWWWDDD,1,3,0,7,5,20,1,2,4,4,9,WWDWLWD,0,0,3,1,6,DWDD,WWW
+Auxerre,Caen,3-0,/match/auxerre/caen/1990,1990,8,ligue_1,20,38,0,3,0,13,2,2,3,7,7,WWWDWWD,2,1,0,5,2,16,2,1,4,7,11,WWWWDWW,0,0,4,2,8,WDW,WWWW
+Cannes,Monaco,0-0,/match/as-cannes/monaco/1990,1990,8,ligue_1,20,38,1,0,0,15,2,1,4,9,12,WDWWWWW,2,1,0,6,1,8,2,4,1,6,5,DWDDDWW,0,3,1,2,4,DWW,DDDW
+Toulouse,Metz,2-0,/match/toulouse-fc/metz/1990,1990,8,ligue_1,20,38,0,2,0,7,2,4,1,9,8,WWWDDDD,2,2,0,6,2,17,1,3,3,8,10,DWWWLDD,0,1,2,3,5,WWDD,WWD
+Nantes,Montpellier,1-1,/match/nantes/montpellier-hsc/1990,1990,8,ligue_1,20,38,1,1,1,6,3,3,1,13,8,WWWWDDD,3,1,0,11,5,10,3,0,4,9,9,WWLWWWW,0,0,3,1,6,WWWD,WWW
+PSG,Sporting Toulon,1-1,/match/paris-saint-germain-fc/sporting-toulon/1990,1990,8,ligue_1,20,38,1,1,1,3,5,1,1,11,7,DWWWLWL,3,0,0,5,2,1,4,2,1,8,4,WDWWWDW,0,2,1,0,4,WWW,DWD
+Olympique,Sochaux,6-1,/match/olympique-marsella/sochaux/1990,1990,8,ligue_1,20,38,0,6,1,4,4,2,1,12,6,LWWWDWD,3,0,0,5,1,5,4,1,2,10,3,WWWWWLD,1,0,2,5,3,WWW,WWL
+Girondins Bordeaux,Stade Brestois,3-0,/match/bordeaux/stade-brestois-29/1990,1990,8,ligue_1,20,38,0,3,0,2,5,1,1,9,2,DWLWLWW,3,0,0,6,0,19,2,0,5,3,9,WWWWWWL,0,0,4,0,7,WWW,WWWW
+Olympique Lyonnais,Racing Paris,1-1,/match/olympique-lyonnais/racing-paris/1990,1990,8,ligue_1,20,38,1,1,1,14,3,0,4,10,14,LWWWLLW,2,0,2,6,8,9,2,2,3,7,15,DWWWWWD,0,0,3,1,11,LWWL,WWW
+Caen,Nantes,2-0,/match/caen/nantes/1990,1990,9,ligue_1,20,38,0,2,0,17,2,1,5,7,14,WWWWDWWW,2,1,0,5,3,5,3,4,1,14,9,WWWWDDDD,0,2,1,2,3,WDW,WDD
+Stade Brestois,Cannes,2-0,/match/stade-brestois-29/as-cannes/1990,1990,9,ligue_1,20,38,0,2,0,20,2,0,6,3,12,WWWWWWLW,2,0,1,3,2,14,2,2,4,9,12,WDWWWWWD,0,0,4,3,11,WWL,WWWW
+Metz,Nice,0-0,/match/metz/nice/1990,1990,9,ligue_1,20,38,1,0,0,18,1,3,4,8,12,DWWWLDDW,1,2,1,5,5,10,1,5,2,10,11,DWWWDDDD,0,1,2,2,5,DWLD,WWD
+Lille,Auxerre,2-1,/match/lillestrom/auxerre/1990,1990,9,ligue_1,20,38,0,2,1,19,1,3,4,5,10,WWDWLWDD,1,2,1,3,3,8,3,2,3,10,7,WWWDWWDW,0,1,3,2,5,WDLD,WWWD
+Saint-Étienne,Olympique Lyonnais,1-0,/match/saint-etienne/olympique-lyonnais/1990,1990,9,ligue_1,20,38,0,1,0,16,3,1,4,8,9,WWWDLWWL,2,0,1,4,2,13,3,1,4,11,15,LWWWLLWD,1,0,2,4,6,WLW,WLW
+Montpellier,Toulouse,1-0,/match/montpellier-hsc/toulouse-fc/1990,1990,9,ligue_1,20,38,0,1,0,11,3,1,4,10,10,WWLWWWWD,3,0,1,8,3,6,3,4,1,11,8,WWWDDDDW,0,2,1,3,6,WLWW,WDD
+Sochaux,FC Mulhouse,0-0,/match/sochaux/mulhouse/1990,1990,9,ligue_1,20,38,1,0,0,7,4,1,3,11,9,WWWWWLDW,3,1,0,5,0,15,2,2,4,11,12,WWWWWDDL,0,1,3,2,8,WWWD,WWWD
+Sporting Toulon,Girondins Bordeaux,0-2,/match/sporting-toulon/bordeaux/1990,1990,9,ligue_1,20,38,2,0,2,3,4,3,1,9,5,WDWWWDWD,4,0,0,8,0,1,6,1,1,12,2,DWLWLWWW,2,1,1,3,2,WWWW,DLLW
+Racing Paris,PSG,2-2,/match/racing-paris/paris-saint-germain-fc/1990,1990,9,ligue_1,20,38,1,2,2,12,2,3,3,8,16,DWWWWWDD,2,2,0,6,4,4,5,2,1,12,8,DWWWLWLD,2,1,1,6,5,DWWD,DWLL
+Monaco,Olympique,1-3,/match/monaco/olympique-marsella/1990,1990,9,ligue_1,20,38,2,1,3,9,2,5,1,6,5,DWDDDWWD,2,1,0,4,1,2,5,2,1,18,7,LWWWDWDW,1,2,1,7,5,WDW,LWDD
+Girondins Bordeaux,Cannes,2-0,/match/bordeaux/as-cannes/1990,1990,10,ligue_1,20,38,0,2,0,1,7,1,1,14,2,DWLWLWWWL,4,0,0,9,0,17,2,2,5,9,14,WDWWWWWDW,0,0,5,3,13,WWWW,WWWWW
+Olympique Lyonnais,Lille,2-1,/match/olympique-lyonnais/lillestrom/1990,1990,10,ligue_1,20,38,0,2,1,16,3,1,5,11,16,LWWWLLWDW,2,1,2,7,9,15,2,3,4,7,11,WWDWLWDDW,0,1,3,2,7,LWWLD,WWWD
+FC Mulhouse,Stade Brestois,2-0,/match/mulhouse/stade-brestois-29/1990,1990,10,ligue_1,20,38,0,2,0,18,2,3,4,11,12,WWWWWDDLD,2,1,1,9,4,19,3,0,6,5,12,WWWWWWLWW,0,0,5,0,10,WWDL,WWWWW
+Nice,Montpellier,3-0,/match/nice/montpellier-hsc/1990,1990,10,ligue_1,20,38,0,3,0,13,1,6,2,10,11,DWWWDDDDD,1,4,0,8,6,8,4,1,4,11,10,WWLWWWWDW,0,1,3,2,7,DWDDD,WWWD
+Auxerre,Sporting Toulon,2-0,/match/auxerre/sporting-toulon/1990,1990,10,ligue_1,20,38,0,2,0,9,3,2,4,11,9,WWWDWWDWW,3,1,0,8,2,4,4,3,2,9,7,WDWWWDWDL,0,3,1,1,5,WDWW,DWDD
+Toulouse,Racing Paris,1-0,/match/toulouse-fc/racing-paris/1990,1990,10,ligue_1,20,38,0,1,0,6,3,4,2,11,9,WWWDDDDWW,3,2,0,8,2,10,2,4,3,10,18,DWWWWWDDD,0,1,3,2,12,WWDDW,WWWD
+Nantes,Sochaux,0-1,/match/nantes/sochaux/1990,1990,10,ligue_1,20,38,2,0,1,5,3,4,2,14,11,WWWWDDDDW,3,2,0,12,6,7,4,2,3,11,9,WWWWWLDWD,1,0,3,6,9,WWWDD,WWLW
+Olympique,Saint-Étienne,2-0,/match/olympique-marsella/saint-etienne/1990,1990,10,ligue_1,20,38,0,2,0,2,6,2,1,21,8,LWWWDWDWL,4,0,0,11,2,11,4,1,4,9,9,WWWDLWWLW,1,1,3,4,7,WWWW,WWDWL
+PSG,Monaco,2-1,/match/paris-saint-germain-fc/monaco/1990,1990,10,ligue_1,20,38,0,2,1,3,5,3,1,14,10,DWWWLWLDD,3,1,0,6,3,12,2,5,2,7,8,DWDDDWWDL,0,4,1,2,4,WWWD,DDDWD
+Metz,Caen,0-0,/match/metz/caen/1990,1990,10,ligue_1,20,38,1,0,0,20,1,4,4,8,12,DWWWLDDWD,1,3,1,5,5,14,3,1,5,9,14,WWWWDWWWW,0,0,5,2,11,DWLDD,WWWWW
+Monaco,Girondins Bordeaux,2-0,/match/monaco/bordeaux/1990,1990,11,ligue_1,20,38,0,2,0,16,2,5,3,8,10,DWDDDWWDLW,2,1,1,5,4,1,8,1,1,16,2,DWLWLWWWLW,3,1,1,5,2,WDWL,DLLWL
+Caen,FC Mulhouse,1-0,/match/caen/mulhouse/1990,1990,11,ligue_1,20,38,0,1,0,13,3,2,5,9,14,WWWWDWWWWD,3,1,0,7,3,11,3,3,4,13,12,WWWWWDDLDW,0,2,3,2,8,WDWW,WWWDD
+Racing Paris,Nice,5-1,/match/racing-paris/nice/1990,1990,11,ligue_1,20,38,0,5,1,15,2,4,4,10,19,DWWWWWDDDW,2,3,0,8,6,9,2,6,2,13,11,DWWWDDDDDW,0,2,2,2,5,DWWDD,WWDD
+Lille,Nantes,1-0,/match/lillestrom/nantes/1990,1990,11,ligue_1,20,38,0,1,0,17,2,3,5,8,13,WWDWLWDDWW,2,2,1,5,4,8,3,4,3,14,12,WWWWDDDDWL,0,2,2,2,5,WDLDW,WDDW
+Stade Brestois,Olympique Lyonnais,0-2,/match/stade-brestois-29/olympique-lyonnais/1990,1990,11,ligue_1,20,38,2,0,2,20,3,0,7,5,14,WWWWWWLWWW,3,0,1,5,2,12,4,1,5,13,17,LWWWLLWDWW,1,0,3,4,7,WWLW,WLWW
+Saint-Étienne,Auxerre,4-1,/match/saint-etienne/auxerre/1990,1990,11,ligue_1,20,38,0,4,1,14,4,1,5,9,11,WWWDLWWLWW,3,0,1,5,2,7,4,2,4,13,9,WWWDWWDWWW,0,1,4,3,7,WLWW,WWWDW
+Sochaux,Toulouse,1-0,/match/sochaux/toulouse-fc/1990,1990,11,ligue_1,20,38,0,1,0,5,5,2,3,12,9,WWWWWLDWDL,3,2,0,5,0,4,4,4,2,12,9,WWWDDDDWWW,0,2,2,3,7,WWWDD,WDDW
+Cannes,PSG,3-1,/match/as-cannes/paris-saint-germain-fc/1990,1990,11,ligue_1,20,38,0,3,1,19,2,2,6,9,16,WDWWWWWDWW,2,2,0,6,1,3,6,3,1,16,11,DWWWLWLDDW,2,2,1,8,7,DWWD,DWLLD
+Sporting Toulon,Olympique,0-4,/match/sporting-toulon/olympique-marsella/1990,1990,11,ligue_1,20,38,2,0,4,6,4,3,3,9,9,WDWWWDWDLW,4,0,1,8,2,2,7,2,1,23,8,LWWWDWDWLW,2,2,1,10,6,WWWWL,LWDDL
+Montpellier,Metz,1-2,/match/montpellier-hsc/metz/1990,1990,11,ligue_1,20,38,2,1,2,10,4,1,5,11,13,WWLWWWWDWW,4,0,1,9,3,18,1,5,4,8,12,DWWWLDDWDD,0,1,3,3,7,WLWWW,WWDW
+Olympique,Stade Brestois,1-0,/match/olympique-marsella/stade-brestois-29/1990,1990,12,ligue_1,20,38,0,1,0,1,8,2,1,27,8,LWWWDWDWLWL,5,0,0,13,2,20,3,0,8,5,16,WWWWWWLWWWL,0,0,6,0,12,WWWWW,WWWWWW
+FC Mulhouse,Cannes,1-0,/match/mulhouse/as-cannes/1990,1990,12,ligue_1,20,38,0,1,0,18,3,3,5,13,13,WWWWWDDLDWW,3,1,1,11,4,17,3,2,6,12,17,WDWWWWWDWWW,0,0,6,3,15,WWDLW,WWWWWW
+Metz,Sporting Toulon,0-0,/match/metz/sporting-toulon/1990,1990,12,ligue_1,20,38,1,0,0,19,2,5,4,10,13,DWWWLDDWDDL,1,4,1,5,5,7,4,3,4,9,13,WDWWWDWDLWL,0,3,2,1,7,DWLDDD,DWDDW
+Auxerre,Monaco,0-0,/match/auxerre/monaco/1990,1990,12,ligue_1,20,38,1,0,0,8,4,2,5,14,13,WWWDWWDWWWW,4,1,0,10,2,11,3,5,3,10,10,DWDDDWWDLWW,0,4,2,3,6,WDWWW,DDDWDW
+Nantes,Saint-Étienne,2-0,/match/nantes/saint-etienne/1990,1990,12,ligue_1,20,38,0,2,0,14,3,4,4,14,13,WWWWDDDDWLW,3,2,1,12,7,10,5,1,5,13,12,WWWDLWWLWWW,1,1,4,4,9,WWWDDL,WWDWLW
+Olympique Lyonnais,Caen,2-1,/match/olympique-lyonnais/caen/1990,1990,12,ligue_1,20,38,0,2,1,13,5,1,5,15,17,LWWWLLWDWWL,3,1,2,9,10,6,4,2,5,10,14,WWWWDWWWWDW,0,1,5,2,11,LWWLDW,WWWWWD
+Toulouse,Lille,3-1,/match/toulouse-fc/lillestrom/1990,1990,12,ligue_1,20,38,0,3,1,5,4,4,3,12,10,WWWDDDDWWWW,4,2,0,9,2,16,3,3,5,9,13,WWDWLWDDWWW,0,1,4,3,9,WWDDWW,WWWDW
+Nice,Sochaux,2-4,/match/nice/sochaux/1990,1990,12,ligue_1,20,38,2,2,4,12,2,6,3,14,16,DWWWDDDDDWW,2,4,0,11,6,4,6,2,3,13,9,WWWWWLDWDLW,2,0,3,7,9,DWDDDW,WWLWL
+PSG,Girondins Bordeaux,1-1,/match/paris-saint-germain-fc/bordeaux/1990,1990,12,ligue_1,20,38,1,1,1,3,6,3,2,17,14,DWWWLWLDDWW,4,1,0,8,4,2,8,1,2,16,4,DWLWLWWWLWW,3,1,2,5,4,WWWDW,DLLWLW
+Montpellier,Racing Paris,2-1,/match/montpellier-hsc/racing-paris/1990,1990,12,ligue_1,20,38,0,2,1,15,4,1,6,12,15,WWLWWWWDWWL,4,0,2,10,5,9,3,4,4,15,20,DWWWWWDDDWW,0,1,4,2,13,WLWWWL,WWWDW
+Sporting Toulon,Nice,1-1,/match/sporting-toulon/nice/1990,1990,13,ligue_1,20,38,1,1,1,11,4,4,4,9,13,WDWWWDWDLWLD,4,0,2,8,6,16,2,6,4,16,20,DWWWDDDDDWWL,0,2,3,3,10,WWWWLL,WWDDW
+Stade Brestois,Auxerre,2-1,/match/stade-brestois-29/auxerre/1990,1990,13,ligue_1,20,38,0,2,1,20,3,0,9,5,17,WWWWWWLWWWLW,3,0,2,5,4,8,4,3,5,14,13,WWWDWWDWWWWD,0,1,5,4,11,WWLWL,WWWDWW
+Cannes,Olympique Lyonnais,2-1,/match/as-cannes/olympique-lyonnais/1990,1990,13,ligue_1,20,38,0,2,1,19,3,2,7,12,18,WDWWWWWDWWWW,3,2,0,9,2,6,6,1,5,17,18,LWWWLLWDWWLW,2,0,3,6,7,DWWDW,WLWWL
+Monaco,Nantes,0-0,/match/monaco/nantes/1990,1990,13,ligue_1,20,38,1,0,0,12,3,6,3,10,10,DWDDDWWDLWWD,3,1,1,7,4,7,4,4,4,16,13,WWWWDDDDWLWW,0,2,3,2,6,WDWLW,WDDWW
+Caen,PSG,2-0,/match/caen/paris-saint-germain-fc/1990,1990,13,ligue_1,20,38,0,2,0,15,4,2,6,11,16,WWWWDWWWWDWW,4,1,0,8,3,3,6,4,2,18,15,DWWWLWLDDWWD,2,2,2,9,10,WDWWW,DWLLDW
+Saint-Étienne,Toulouse,0-3,/match/saint-etienne/toulouse-fc/1990,1990,13,ligue_1,20,38,2,0,3,13,5,1,6,13,14,WWWDLWWLWWWW,4,0,1,9,3,5,5,4,3,15,11,WWWDDDDWWWWW,0,2,3,3,8,WLWWW,WDDWW
+Sochaux,Montpellier,3-1,/match/sochaux/montpellier-hsc/1990,1990,13,ligue_1,20,38,0,3,1,4,7,2,3,17,11,WWWWWLDWDLWL,4,2,0,6,0,9,5,1,6,14,16,WWLWWWWDWWLW,0,1,4,2,10,WWWDDW,WWWDW
+Lille,Olympique,2-0,/match/lillestrom/olympique-marsella/1990,1990,13,ligue_1,20,38,0,2,0,17,3,3,6,10,16,WWDWLWDDWWWW,3,2,1,6,4,1,9,2,1,28,8,LWWWDWDWLWLW,3,2,1,14,6,WDLDWW,LWDDLL
+Girondins Bordeaux,FC Mulhouse,1-0,/match/bordeaux/mulhouse/1990,1990,13,ligue_1,20,38,0,1,0,2,8,2,2,17,5,DWLWLWWWLWWD,5,0,0,11,0,10,4,3,5,14,13,WWWWWDDLDWWW,0,2,4,2,9,WWWWW,WWWDDW
+Racing Paris,Metz,1-1,/match/racing-paris/metz/1990,1990,13,ligue_1,20,38,1,1,1,14,3,4,5,16,22,DWWWWWDDDWWW,3,3,0,13,7,18,2,6,4,10,13,DWWWLDDWDDLD,1,1,3,5,8,DWWDDW,WWDWL
+Olympique Lyonnais,Monaco,0-2,/match/olympique-lyonnais/monaco/1990,1990,14,ligue_1,20,38,2,0,2,9,6,1,6,18,20,LWWWLLWDWWLWW,4,1,2,11,11,12,3,7,3,10,10,DWDDDWWDLWWDD,0,5,2,3,6,LWWLDWW,DDDWDWD
+Nice,Saint-Étienne,1-3,/match/nice/saint-etienne/1990,1990,14,ligue_1,20,38,2,1,3,18,2,7,4,17,21,DWWWDDDDDWWLD,2,4,1,13,10,17,5,1,7,13,17,WWWDLWWLWWWWL,1,1,5,4,11,DWDDDWL,WWDWLWW
+Montpellier,Sporting Toulon,3-0,/match/montpellier-hsc/sporting-toulon/1990,1990,14,ligue_1,20,38,0,3,0,10,5,1,7,15,19,WWLWWWWDWWLWW,5,0,2,12,6,8,4,5,4,10,14,WDWWWDWDLWLDD,0,4,2,1,7,WLWWWLW,DWDDWD
+Nantes,Stade Brestois,1-0,/match/nantes/stade-brestois-29/1990,1990,14,ligue_1,20,38,0,1,0,7,4,5,4,16,13,WWWWDDDDWLWWD,4,2,1,14,7,20,4,0,9,7,18,WWWWWWLWWWLWW,0,0,7,0,13,WWWDDLW,WWWWWWW
+FC Mulhouse,PSG,1-0,/match/mulhouse/paris-saint-germain-fc/1990,1990,14,ligue_1,20,38,0,1,0,15,4,3,6,14,14,WWWWWDDLDWWWW,4,1,1,12,4,5,6,4,3,18,17,DWWWLWLDDWWDW,2,2,3,9,12,WWDLWW,DWLLDWW
+Metz,Sochaux,2-0,/match/metz/sochaux/1990,1990,14,ligue_1,20,38,0,2,0,19,2,7,4,11,14,DWWWLDDWDDLDD,1,5,1,5,5,3,8,2,3,20,12,WWWWWLDWDLWLW,3,0,3,11,11,DWLDDDD,WWLWLL
+Toulouse,Caen,2-1,/match/toulouse-fc/caen/1990,1990,14,ligue_1,20,38,0,2,1,4,6,4,3,18,11,WWWDDDDWWWWWL,5,2,0,12,3,6,5,2,6,13,16,WWWWDWWWWDWWW,0,1,6,3,13,WWDDWWW,WWWWWDW
+Olympique,Cannes,1-1,/match/olympique-marsella/as-cannes/1990,1990,14,ligue_1,20,38,1,1,1,1,9,2,2,28,10,LWWWDWDWLWLWW,6,0,0,14,2,16,4,2,7,14,19,WDWWWWWDWWWWW,0,0,7,3,16,WWWWWW,WWWWWWW
+Auxerre,Girondins Bordeaux,1-1,/match/auxerre/bordeaux/1990,1990,14,ligue_1,20,38,1,1,1,11,4,3,6,15,15,WWWDWWDWWWWDW,4,2,0,10,2,2,9,2,2,18,5,DWLWLWWWLWWDW,3,2,2,6,5,WDWWWD,DLLWLWD
+Racing Paris,Lille,2-0,/match/racing-paris/lillestrom/1990,1990,14,ligue_1,20,38,0,2,0,13,3,5,5,17,23,DWWWWWDDDWWWD,3,4,0,14,8,14,4,3,6,12,16,WWDWLWDDWWWWW,0,1,5,4,12,DWWDDWD,WWWDWW
+Girondins Bordeaux,Olympique,3-0,/match/bordeaux/olympique-marsella/1990,1990,15,ligue_1,20,38,0,3,0,2,9,3,2,19,6,DWLWLWWWLWWDWD,6,0,0,12,0,1,9,3,2,29,11,LWWWDWDWLWLWWD,3,2,2,14,8,WWWWWW,LWDDLLW
+Lille,Montpellier,1-0,/match/lillestrom/montpellier-hsc/1990,1990,15,ligue_1,20,38,0,1,0,16,4,3,7,12,18,WWDWLWDDWWWWWW,4,2,1,8,4,8,6,1,7,18,19,WWLWWWWDWWLWWW,0,1,5,3,13,WDLDWWW,WWWDWW
+Cannes,Auxerre,2-2,/match/as-cannes/auxerre/1990,1990,15,ligue_1,20,38,1,2,2,17,4,3,7,15,20,WDWWWWWDWWWWWD,4,2,0,11,3,11,4,4,6,16,16,WWWDWWDWWWWDWD,0,1,6,5,13,DWWDWW,WWWDWWW
+Saint-Étienne,Metz,4-3,/match/saint-etienne/metz/1990,1990,15,ligue_1,20,38,0,4,3,18,6,1,7,16,18,WWWDLWWLWWWWLL,4,0,2,9,6,15,3,7,4,13,14,DWWWLDDWDDLDDW,1,2,3,6,9,WLWWWL,WWDWLD
+PSG,Olympique Lyonnais,0-1,/match/paris-saint-germain-fc/olympique-lyonnais/1990,1990,15,ligue_1,20,38,2,0,1,6,6,4,4,18,18,DWWWLWLDDWWDWW,4,2,0,9,5,13,6,1,7,18,22,LWWWLLWDWWLWWL,2,0,4,7,9,WWWDWD,WLWWLW
+Monaco,FC Mulhouse,0-0,/match/monaco/mulhouse/1990,1990,15,ligue_1,20,38,1,0,0,10,4,7,3,12,10,DWDDDWWDLWWDDL,3,2,1,7,4,9,5,3,6,15,14,WWWWWDDLDWWWWW,0,2,5,2,10,WDWLWD,WWWDDWW
+Sporting Toulon,Nantes,0-0,/match/sporting-toulon/nantes/1990,1990,15,ligue_1,20,38,1,0,0,14,4,5,5,10,17,WDWWWDWDLWLDDW,4,1,2,9,7,5,5,5,4,17,13,WWWWDDDDWLWWDW,0,3,3,2,6,WWWWLLD,WDDWWD
+Stade Brestois,Toulouse,0-0,/match/stade-brestois-29/toulouse-fc/1990,1990,15,ligue_1,20,38,1,0,0,20,4,0,10,7,19,WWWWWWLWWWLWWW,4,0,2,7,5,3,7,4,3,20,12,WWWDDDDWWWWWLW,1,2,3,6,8,WWLWLW,WDDWWL
+Sochaux,Racing Paris,2-0,/match/sochaux/racing-paris/1990,1990,15,ligue_1,20,38,0,2,0,4,8,2,4,20,14,WWWWWLDWDLWLWW,5,2,0,9,1,7,4,5,5,19,23,DWWWWWDDDWWWDW,0,1,5,3,15,WWWDDWW,WWWDWW
+Caen,Nice,1-1,/match/caen/nice/1990,1990,15,ligue_1,20,38,1,1,1,12,5,2,7,14,18,WWWWDWWWWDWWWW,5,1,0,10,3,19,2,7,5,18,24,DWWWDDDDDWWLDL,0,3,3,4,11,WDWWWW,WWDDWD
+Toulouse,Monaco,0-1,/match/toulouse-fc/monaco/1990,1990,16,ligue_1,20,38,2,0,1,4,7,5,3,20,12,WWWDDDDWWWWWLWD,6,2,0,14,4,11,4,8,3,12,10,DWDDDWWDLWWDDLD,1,5,2,5,6,WWDDWWWW,DDDWDWDL
+Olympique,PSG,2-1,/match/olympique-marsella/paris-saint-germain-fc/1990,1990,16,ligue_1,20,38,0,2,1,2,9,3,3,29,14,LWWWDWDWLWLWWDW,6,1,0,15,3,6,6,4,5,18,19,DWWWLWLDDWWDWWL,2,2,4,9,13,WWWWWWD,DWLLDWWW
+Metz,Lille,1-1,/match/metz/lillestrom/1990,1990,16,ligue_1,20,38,1,1,1,18,3,7,5,16,18,DWWWLDDWDDLDDWW,2,5,1,7,5,7,5,3,7,13,18,WWDWLWDDWWWWWWW,0,1,6,4,14,DWLDDDDW,WWWDWWW
+Auxerre,FC Mulhouse,3-1,/match/auxerre/mulhouse/1990,1990,16,ligue_1,20,38,0,3,1,14,4,5,6,18,18,WWWDWWDWWWWDWDD,4,3,0,11,3,10,5,4,6,15,14,WWWWWDDLDWWWWWD,0,3,5,2,10,WDWWWDD,WWWDDWWD
+Racing Paris,Sporting Toulon,0-2,/match/racing-paris/sporting-toulon/1990,1990,16,ligue_1,20,38,2,0,2,8,4,5,6,19,25,DWWWWWDDDWWWDWW,4,4,0,16,8,15,4,6,5,10,17,WDWWWDWDLWLDDWD,0,4,3,1,10,DWWDDWDW,DWDDWDW
+Montpellier,Saint-Étienne,3-3,/match/montpellier-hsc/saint-etienne/1990,1990,16,ligue_1,20,38,1,3,3,9,6,1,8,18,20,WWLWWWWDWWLWWWW,6,0,2,15,6,13,7,1,7,20,21,WWWDLWWLWWWWLLW,2,1,5,7,12,WLWWWLWW,WWDWLWWL
+Nantes,Cannes,1-0,/match/nantes/as-cannes/1990,1990,16,ligue_1,20,38,0,1,0,5,5,6,4,17,13,WWWWDDDDWLWWDWD,5,2,1,15,7,17,4,4,7,17,22,WDWWWWWDWWWWWDD,0,1,7,4,17,WWWDDLWW,WWWWWWWD
+Sochaux,Caen,5-0,/match/sochaux/caen/1990,1990,16,ligue_1,20,38,0,5,0,3,9,2,4,22,14,WWWWWLDWDLWLWWW,6,2,0,11,1,12,5,3,7,15,19,WWWWDWWWWDWWWWD,0,1,7,4,15,WWWDDWWW,WWWWWDWW
+Olympique Lyonnais,Girondins Bordeaux,0-0,/match/olympique-lyonnais/bordeaux/1990,1990,16,ligue_1,20,38,1,0,0,16,7,1,7,19,22,LWWWLLWDWWLWWLL,4,1,3,11,13,1,10,3,2,22,6,DWLWLWWWLWWDWDW,3,3,2,7,6,LWWLDWWL,DLLWLWDD
+Nice,Stade Brestois,0-1,/match/nice/stade-brestois-29/1990,1990,16,ligue_1,20,38,2,0,1,19,2,8,5,19,25,DWWWDDDDDWWLDLD,2,4,2,14,13,20,4,1,10,7,19,WWWWWWLWWWLWWWD,0,0,8,0,14,DWDDDWLL,WWWWWWWW
+Girondins Bordeaux,Nantes,3-0,/match/bordeaux/nantes/1990,1990,17,ligue_1,20,38,0,3,0,1,10,4,2,22,6,DWLWLWWWLWWDWDWD,7,0,0,15,0,5,6,6,4,18,13,WWWWDDDDWLWWDWDW,0,4,3,2,6,WWWWWWW,WDDWWDD
+Caen,Montpellier,3-2,/match/caen/montpellier-hsc/1990,1990,17,ligue_1,20,38,0,3,2,16,5,3,8,15,24,WWWWDWWWWDWWWWDW,5,2,0,11,4,7,6,2,8,21,23,WWLWWWWDWWLWWWWD,0,1,6,3,14,WDWWWWD,WWWDWWW
+Saint-Étienne,Racing Paris,0-1,/match/saint-etienne/racing-paris/1990,1990,17,ligue_1,20,38,2,0,1,10,7,2,7,23,24,WWWDLWWLWWWWLLWD,5,0,2,13,9,14,4,5,7,19,27,DWWWWWDDDWWWDWWL,0,1,6,3,17,WLWWWLW,WWWDWWW
+Sporting Toulon,Olympique Lyonnais,1-1,/match/sporting-toulon/olympique-lyonnais/1990,1990,17,ligue_1,20,38,1,1,1,12,5,6,5,12,17,WDWWWDWDLWLDDWDL,4,2,2,9,7,13,7,2,7,19,22,LWWWLLWDWWLWWLLD,3,0,4,8,9,WWWWLLDD,WLWWLWL
+PSG,Auxerre,1-1,/match/paris-saint-germain-fc/auxerre/1990,1990,17,ligue_1,20,38,1,1,1,11,6,4,6,19,21,DWWWLWLDDWWDWWLW,4,2,1,9,6,6,5,5,6,21,19,WWWDWWDWWWWDWDDW,0,2,6,7,15,WWWDWDL,WWWDWWWD
+Monaco,Nice,1-0,/match/monaco/nice/1990,1990,17,ligue_1,20,38,0,1,0,8,5,8,3,13,10,DWDDDWWDLWWDDLDL,3,3,1,7,4,19,2,8,6,19,26,DWWWDDDDDWWLDLDL,0,4,3,5,12,WDWLWDD,WWDDWDD
+Cannes,Toulouse,2-2,/match/as-cannes/toulouse-fc/1990,1990,17,ligue_1,20,38,1,2,2,18,4,4,8,17,23,WDWWWWWDWWWWWDDW,4,3,0,13,5,4,7,5,4,20,13,WWWDDDDWWWWWLWDL,1,3,3,6,8,DWWDWWD,WDDWWLD
+Lille,Sochaux,5-0,/match/lillestrom/sochaux/1990,1990,17,ligue_1,20,38,0,5,0,9,5,4,7,14,19,WWDWLWDDWWWWWWWD,5,2,1,9,4,2,10,2,4,27,14,WWWWWLDWDLWLWWWW,3,0,4,11,13,WDLDWWWW,WWLWLLW
+FC Mulhouse,Olympique,1-2,/match/mulhouse/olympique-marsella/1990,1990,17,ligue_1,20,38,2,1,2,15,5,4,7,16,17,WWWWWDDLDWWWWWDW,5,1,1,13,4,3,10,3,3,31,15,LWWWDWDWLWLWWDWW,3,2,3,14,11,WWDLWWW,LWDDLLWW
+Stade Brestois,Metz,2-0,/match/stade-brestois-29/metz/1990,1990,17,ligue_1,20,38,0,2,0,20,5,1,10,8,19,WWWWWWLWWWLWWWDL,4,1,2,7,5,17,3,8,5,17,19,DWWWLDDWDDLDDWWD,1,2,4,9,13,WWLWLWD,WWDWLDW
+Toulouse,Girondins Bordeaux,0-1,/match/toulouse-fc/bordeaux/1990,1990,18,ligue_1,20,38,2,0,1,4,7,6,4,22,15,WWWDDDDWWWWWLWDLD,6,2,1,14,5,1,11,4,2,25,6,DWLWLWWWLWWDWDWDW,3,4,2,7,6,WWDDWWWWL,DLLWLWDDD
+Montpellier,Stade Brestois,1-1,/match/montpellier-hsc/stade-brestois-29/1990,1990,18,ligue_1,20,38,1,1,1,14,6,2,9,23,26,WWLWWWWDWWLWWWWDW,6,1,2,18,9,19,6,1,10,10,19,WWWWWWLWWWLWWWDLW,1,0,8,1,14,WLWWWLWWD,WWWWWWWWL
+Racing Paris,Caen,0-0,/match/racing-paris/caen/1990,1990,18,ligue_1,20,38,1,0,0,13,5,5,7,20,27,DWWWWWDDDWWWDWWLL,4,4,1,16,10,9,6,3,8,18,26,WWWWDWWWWDWWWWDWW,0,1,8,4,20,DWWDDWDWL,WWWWWDWWW
+Lille,Sporting Toulon,3-0,/match/lillestrom/sporting-toulon/1990,1990,18,ligue_1,20,38,0,3,0,7,6,4,7,19,19,WWDWLWDDWWWWWWWDW,6,2,1,14,4,10,5,7,5,13,18,WDWWWDWDLWLDDWDLD,1,4,3,3,10,WDLDWWWWW,DWDDWDWL
+Nantes,PSG,0-1,/match/nantes/paris-saint-germain-fc/1990,1990,18,ligue_1,20,38,2,0,1,5,6,6,5,18,16,WWWWDDDDWLWWDWDWW,6,2,1,16,7,11,6,5,6,20,22,DWWWLWLDDWWDWWLWD,2,2,5,10,15,WWWDDLWWW,DWLLDWWWW
+Olympique Lyonnais,FC Mulhouse,3-1,/match/olympique-lyonnais/mulhouse/1990,1990,18,ligue_1,20,38,0,3,1,12,7,3,7,20,23,LWWWLLWDWWLWWLLDD,4,2,3,11,13,16,5,4,8,17,19,WWWWWDDLDWWWWWDWL,0,3,6,3,13,LWWLDWWLD,WWWDDWWDW
+Metz,Monaco,1-0,/match/metz/monaco/1990,1990,18,ligue_1,20,38,0,1,0,18,3,8,6,17,21,DWWWLDDWDDLDDWWDW,2,6,1,8,6,6,6,8,3,14,10,DWDDDWWDLWWDDLDLW,2,5,2,6,6,DWLDDDDWD,DDDWDWDLL
+Sochaux,Saint-Étienne,2-3,/match/sochaux/saint-etienne/1990,1990,18,ligue_1,20,38,2,2,3,3,10,2,5,27,19,WWWWWLDWDLWLWWWWW,7,2,0,16,1,15,7,2,8,23,25,WWWDLWWLWWWWLLWDL,2,2,5,10,15,WWWDDWWWW,WWDWLWWLD
+Olympique,Auxerre,1-1,/match/olympique-marsella/auxerre/1990,1990,18,ligue_1,20,38,1,1,1,2,11,3,3,33,16,LWWWDWDWLWLWWDWWL,7,1,0,17,4,8,5,6,6,22,20,WWWDWWDWWWWDWDDWD,0,3,6,8,16,WWWWWWDW,WWWDWWWDD
+Nice,Cannes,2-0,/match/nice/as-cannes/1990,1990,18,ligue_1,20,38,0,2,0,20,2,8,7,19,27,DWWWDDDDDWWLDLDLW,2,4,3,14,14,17,4,5,8,19,25,WDWWWWWDWWWWWDDWD,0,1,8,4,18,DWDDDWLLL,WWWWWWWDW
+Girondins Bordeaux,Nice,3-0,/match/bordeaux/nice/1990,1990,19,ligue_1,20,38,0,3,0,1,12,4,2,26,6,DWLWLWWWLWWDWDWDWL,8,0,0,18,0,20,3,8,7,21,27,DWWWDDDDDWWLDLDLWW,0,4,4,5,13,WWWWWWWW,WWDDWDDW
+Cannes,Metz,1-0,/match/as-cannes/metz/1990,1990,19,ligue_1,20,38,0,1,0,18,4,5,9,19,27,WDWWWWWDWWWWWDDWDW,4,4,0,15,7,16,4,8,6,18,21,DWWWLDDWDDLDDWWDWW,1,2,5,9,15,DWWDWWDD,WWDWLDWW
+Saint-Étienne,Lille,2-1,/match/saint-etienne/lillestrom/1990,1990,19,ligue_1,20,38,0,2,1,15,8,2,8,26,27,WWWDLWWLWWWWLLWDLL,5,0,3,13,10,5,7,4,7,22,19,WWDWLWDDWWWWWWWDWW,0,2,6,5,15,WLWWWLWL,WWWDWWWD
+FC Mulhouse,Nantes,0-2,/match/mulhouse/nantes/1990,1990,19,ligue_1,20,38,2,0,2,17,5,4,9,18,22,WWWWWDDLDWWWWWDWLW,5,1,2,14,6,6,6,6,6,18,17,WWWWDDDDWLWWDWDWWL,0,4,4,2,9,WWDLWWWL,WDDWWDDW
+Auxerre,Olympique Lyonnais,0-1,/match/auxerre/olympique-lyonnais/1990,1990,19,ligue_1,20,38,2,0,1,11,5,7,6,23,21,WWWDWWDWWWWDWDDWDD,5,3,0,14,4,8,8,3,7,23,24,LWWWLLWDWWLWWLLDDW,3,1,4,9,10,WDWWWDDW,WLWWLWLD
+Monaco,Montpellier,1-0,/match/monaco/montpellier-hsc/1990,1990,19,ligue_1,20,38,0,1,0,7,6,8,4,14,11,DWDDDWWDLWWDDLDLWW,4,3,1,8,4,13,6,3,9,24,27,WWLWWWWDWWLWWWWDWD,0,1,7,5,17,WDWLWDDW,WWWDWWWW
+Sporting Toulon,Sochaux,2-1,/match/sporting-toulon/sochaux/1990,1990,19,ligue_1,20,38,0,2,1,14,5,7,6,13,21,WDWWWDWDLWLDDWDLDW,4,3,2,10,8,3,10,2,6,29,22,WWWWWLDWDLWLWWWWWL,3,0,5,11,18,WWWWLLDDD,WWLWLLWW
+PSG,Toulouse,0-1,/match/paris-saint-germain-fc/toulouse-fc/1990,1990,19,ligue_1,20,38,2,0,1,9,7,5,6,21,22,DWWWLWLDDWWDWWLWDL,4,3,1,10,7,4,7,6,5,22,16,WWWDDDDWWWWWLWDLDL,1,4,3,8,10,WWWDWDLD,WDDWWLDD
+Caen,Olympique,0-2,/match/caen/olympique-marsella/1990,1990,19,ligue_1,20,38,2,0,2,10,6,4,8,18,26,WWWWDWWWWDWWWWDWWD,6,2,0,14,6,2,11,4,3,34,17,LWWWDWDWLWLWWDWWLD,4,2,3,16,12,WDWWWWDW,LWDDLLWWL
+Stade Brestois,Racing Paris,2-0,/match/stade-brestois-29/racing-paris/1990,1990,19,ligue_1,20,38,0,2,0,19,6,2,10,11,20,WWWWWWLWWWLWWWDLWD,5,1,2,9,5,12,5,6,7,20,27,DWWWWWDDDWWWDWWLLD,1,1,6,4,17,WWLWLWDW,WWWDWWWL
+Racing Paris,Girondins Bordeaux,1-3,/match/racing-paris/bordeaux/1990,1990,20,ligue_1,20,38,2,1,3,14,5,6,8,20,29,DWWWWWDDDWWWDWWLLDW,4,5,1,16,10,1,13,4,2,29,6,DWLWLWWWLWWDWDWDWLW,4,4,2,8,6,DWWDDWDWLD,DLLWLWDDDL
+Nice,Auxerre,1-1,/match/nice/auxerre/1990,1990,20,ligue_1,20,38,1,1,1,20,3,8,8,21,30,DWWWDDDDDWWLDLDLWWW,3,4,3,16,14,11,5,7,7,23,22,WWWDWWDWWWWDWDDWDDL,0,4,6,9,17,DWDDDWLLLW,WWWDWWWDDD
+Lille,Stade Brestois,1-2,/match/lillestrom/stade-brestois-29/1990,1990,20,ligue_1,20,38,2,1,2,6,7,4,8,23,21,WWDWLWDDWWWWWWWDWWW,7,2,1,17,4,17,7,2,10,13,20,WWWWWWLWWWLWWWDLWDW,1,1,8,2,15,WDLDWWWWWW,WWWWWWWWLD
+Sporting Toulon,Cannes,0-1,/match/sporting-toulon/as-cannes/1990,1990,20,ligue_1,20,38,2,0,1,10,6,7,6,15,22,WDWWWDWDLWLDDWDLDWW,5,3,2,12,9,16,5,5,9,20,27,WDWWWWWDWWWWWDDWDWW,0,1,9,4,20,WWWWLLDDDW,WWWWWWWDWW
+Metz,PSG,0-1,/match/metz/paris-saint-germain-fc/1990,1990,20,ligue_1,20,38,2,0,1,18,4,8,7,18,22,DWWWLDDWDDLDDWWDWWW,3,6,1,9,6,13,7,5,7,21,23,DWWWLWLDDWWDWWLWDLL,3,2,5,11,15,DWLDDDDWDW,DWLLDWWWWL
+Saint-Étienne,Caen,0-0,/match/saint-etienne/caen/1990,1990,20,ligue_1,20,38,1,0,0,9,9,2,8,28,28,WWWDLWWLWWWWLLWDLLW,6,0,3,15,11,12,6,4,9,18,28,WWWWDWWWWDWWWWDWWDL,0,2,8,4,20,WLWWWLWLW,WWWWWDWWWD
+Toulouse,Olympique Lyonnais,0-0,/match/toulouse-fc/olympique-lyonnais/1990,1990,20,ligue_1,20,38,1,0,0,4,8,6,5,23,16,WWWDDDDWWWWWLWDLDLL,6,2,2,14,6,8,9,3,7,24,24,LWWWLLWDWWLWWLLDDWL,4,1,4,10,10,WWDDWWWWLL,WLWWLWLDL
+Sochaux,Monaco,1-0,/match/sochaux/monaco/1990,1990,20,ligue_1,20,38,0,1,0,3,10,2,7,30,24,WWWWWLDWDLWLWWWWWLW,7,2,1,18,4,5,7,8,4,15,11,DWDDDWWDLWWDDLDLWWW,2,5,3,6,7,WWWDDWWWWL,DDDWDWDLLW
+Nantes,Olympique,0-0,/match/nantes/olympique-marsella/1990,1990,20,ligue_1,20,38,1,0,0,7,7,6,6,20,17,WWWWDDDDWLWWDWDWWLL,6,2,2,16,8,2,12,4,3,36,17,LWWWDWDWLWLWWDWWLDL,5,2,3,18,12,WWWDDLWWWL,LWDDLLWWLL
+Montpellier,FC Mulhouse,3-3,/match/montpellier-hsc/mulhouse/1990,1990,20,ligue_1,20,38,1,3,3,15,6,3,10,24,28,WWLWWWWDWWLWWWWDWDW,6,2,2,19,10,19,5,4,10,18,24,WWWWWDDLDWWWWWDWLWL,0,3,7,4,16,WLWWWLWWDD,WWWDDWWDWW
+Auxerre,Metz,1-1,/match/auxerre/metz/1990,1990,21,ligue_1,20,38,1,1,1,15,5,8,7,24,23,WWWDWWDWWWWDWDDWDDLD,5,3,1,14,5,18,4,8,8,18,23,DWWWLDDWDDLDDWWDWWWL,1,2,6,9,16,WDWWWDDWL,WWDWLDWWW
+PSG,Sochaux,1-0,/match/paris-saint-germain-fc/sochaux/1990,1990,21,ligue_1,20,38,0,1,0,11,8,5,7,22,23,DWWWLWLDDWWDWWLWDLLL,4,3,2,10,8,3,11,2,7,31,24,WWWWWLDWDLWLWWWWWLWW,3,0,6,12,20,WWWDWDLDL,WWLWLLWWW
+FC Mulhouse,Nice,1-0,/match/mulhouse/nice/1990,1990,21,ligue_1,20,38,0,1,0,19,5,5,10,21,27,WWWWWDDLDWWWWWDWLWLD,5,1,3,14,8,20,3,9,8,22,31,DWWWDDDDDWWLDLDLWWWD,0,4,5,5,16,WWDLWWWLL,WWDDWDDWW
+Cannes,Racing Paris,3-1,/match/as-cannes/racing-paris/1990,1990,21,ligue_1,20,38,0,3,1,14,6,5,9,21,27,WDWWWWWDWWWWWDDWDWWL,5,4,0,16,7,17,5,6,9,21,32,DWWWWWDDDWWWDWWLLDWL,1,1,7,4,19,DWWDWWDDW,WWWDWWWLW
+Caen,Sporting Toulon,2-2,/match/caen/sporting-toulon/1990,1990,21,ligue_1,20,38,1,2,2,16,6,5,9,18,28,WWWWDWWWWDWWWWDWWDLD,6,2,1,14,8,10,6,7,7,15,23,WDWWWDWDLWLDDWDLDWWL,1,4,4,3,13,WDWWWWDWL,DWDDWDWLW
+Stade Brestois,Saint-Étienne,0-0,/match/stade-brestois-29/saint-etienne/1990,1990,21,ligue_1,20,38,1,0,0,13,8,2,10,15,21,WWWWWWLWWWLWWWDLWDWL,6,1,2,11,5,9,9,3,8,28,28,WWWDLWWLWWWWLLWDLLWD,3,2,5,13,17,WWLWLWDWW,WWDWLWWLDL
+Monaco,Lille,1-1,/match/monaco/lillestrom/1990,1990,21,ligue_1,20,38,1,1,1,6,7,8,5,15,12,DWDDDWWDLWWDDLDLWWWW,5,3,1,9,4,7,7,4,9,24,23,WWDWLWDDWWWWWWWDWWWL,0,2,7,6,17,WDWLWDDWW,WWWDWWWDW
+Olympique,Toulouse,6-1,/match/olympique-marsella/toulouse-fc/1990,1990,21,ligue_1,20,38,0,6,1,2,12,5,3,36,17,LWWWDWDWLWLWWDWWLDLD,7,2,0,18,5,4,8,7,5,23,16,WWWDDDDWWWWWLWDLDLLD,2,4,3,9,10,WWWWWWDWD,WDDWWLDDL
+Girondins Bordeaux,Montpellier,2-0,/match/bordeaux/montpellier-hsc/1990,1990,21,ligue_1,20,38,0,2,0,1,14,4,2,32,7,DWLWLWWWLWWDWDWDWLWL,9,0,0,21,0,12,6,4,10,27,31,WWLWWWWDWWLWWWWDWDWD,0,1,8,5,18,WWWWWWWWW,WWWDWWWWW
+Olympique Lyonnais,Nantes,0-0,/match/olympique-lyonnais/nantes/1990,1990,21,ligue_1,20,38,1,0,0,8,9,4,7,24,24,LWWWLLWDWWLWWLLDDWLD,5,2,3,14,14,5,7,7,6,20,17,WWWWDDDDWLWWDWDWWLLD,1,4,4,4,9,LWWLDWWLDW,WDDWWDDWL
+Saint-Étienne,Monaco,0-2,/match/saint-etienne/monaco/1990,1990,22,ligue_1,20,38,2,0,2,9,9,4,8,28,28,WWWDLWWLWWWWLLWDLLWDD,6,1,3,15,11,6,7,9,5,16,13,DWDDDWWDLWWDDLDLWWWWD,2,5,4,6,8,WLWWWLWLWD,DDDWDWDLLWW
+Racing Paris,Nantes,2-1,/match/racing-paris/nantes/1990,1990,22,ligue_1,20,38,0,2,1,18,5,6,10,22,35,DWWWWWDDDWWWDWWLLDWLW,4,5,2,17,13,5,7,8,6,20,17,WWWWDDDDWLWWDWDWWLLDD,1,5,4,4,9,DWWDDWDWLDL,WDDWWDDWLD
+Lille,Cannes,2-1,/match/lillestrom/as-cannes/1990,1990,22,ligue_1,20,38,0,2,1,10,7,5,9,25,24,WWDWLWDDWWWWWWWDWWWLD,7,2,2,18,6,11,7,5,9,24,28,WDWWWWWDWWWWWDDWDWWLW,1,1,9,5,20,WDLDWWWWWWL,WWWWWWWDWWL
+Sporting Toulon,FC Mulhouse,2-1,/match/sporting-toulon/mulhouse/1990,1990,22,ligue_1,20,38,0,2,1,12,6,8,7,17,25,WDWWWDWDLWLDDWDLDWWLD,5,3,3,12,10,17,6,5,10,22,27,WWWWWDDLDWWWWWDWLWLDW,0,4,7,7,19,WWWWLLDDDWL,WWWDDWWDWWD
+Nice,Olympique Lyonnais,1-0,/match/nice/olympique-lyonnais/1990,1990,22,ligue_1,20,38,0,1,0,20,3,9,9,22,32,DWWWDDDDDWWLDLDLWWWDW,3,5,3,17,15,7,9,5,7,24,24,LWWWLLWDWWLWWLLDDWLDD,4,2,4,10,10,DWDDDWLLLWD,WLWWLWLDLD
+Montpellier,PSG,2-0,/match/montpellier-hsc/paris-saint-germain-fc/1990,1990,22,ligue_1,20,38,0,2,0,16,6,4,11,27,33,WWLWWWWDWWLWWWWDWDWDW,6,3,2,22,13,8,9,5,7,23,23,DWWWLWLDDWWDWWLWDLLLW,4,2,5,12,15,WLWWWLWWDDD,DWLLDWWWWLL
+Toulouse,Auxerre,1-1,/match/toulouse-fc/auxerre/1990,1990,22,ligue_1,20,38,1,1,1,4,8,7,6,24,22,WWWDDDDWWWWWLWDLDLLDW,6,3,2,14,6,14,5,9,7,25,24,WWWDWWDWWWWDWDDWDDLDD,0,5,6,10,18,WWDDWWWWLLD,WWWDWWWDDDD
+Metz,Olympique,3-2,/match/metz/olympique-marsella/1990,1990,22,ligue_1,20,38,0,3,2,19,4,9,8,19,24,DWWWLDDWDDLDDWWDWWWLD,3,6,2,9,7,2,13,5,3,42,18,LWWWDWDWLWLWWDWWLDLDW,5,3,3,18,12,DWLDDDDWDWL,LWDDLLWWLLD
+Sochaux,Girondins Bordeaux,2-0,/match/sochaux/bordeaux/1990,1990,22,ligue_1,20,38,0,2,0,3,11,2,8,31,25,WWWWWLDWDLWLWWWWWLWWW,8,2,1,19,4,1,15,4,2,34,7,DWLWLWWWLWWDWDWDWLWLW,5,4,2,11,7,WWWDDWWWWLW,DLLWLWDDDLL
+Caen,Stade Brestois,2-1,/match/caen/stade-brestois-29/1990,1990,22,ligue_1,20,38,0,2,1,15,6,6,9,20,30,WWWWDWWWWDWWWWDWWDLDD,6,3,1,16,10,13,8,3,10,15,21,WWWWWWLWWWLWWWDLWDWLD,2,1,8,4,16,WDWWWWDWLD,WWWWWWWWLDL
+Nantes,Toulouse,0-1,/match/nantes/toulouse-fc/1990,1990,23,ligue_1,20,38,2,0,1,8,7,8,7,21,19,WWWWDDDDWLWWDWDWWLLDDW,6,3,2,16,8,4,8,8,6,25,23,WWWDDDDWWWWWLWDLDLLDWD,2,4,4,10,16,WWWDDLWWWLD,WDDWWLDDLW
+Stade Brestois,Sporting Toulon,2-1,/match/stade-brestois-29/sporting-toulon/1990,1990,23,ligue_1,20,38,0,2,1,16,8,3,11,16,23,WWWWWWLWWWLWWWDLWDWLDW,6,2,2,11,5,9,7,8,7,19,26,WDWWWDWDLWLDDWDLDWWLDW,1,5,4,5,15,WWLWLWDWWD,DWDDWDWLWD
+Auxerre,Montpellier,2-1,/match/auxerre/montpellier-hsc/1990,1990,23,ligue_1,20,38,0,2,1,15,5,10,7,26,25,WWWDWWDWWWWDWDDWDDLDDD,5,4,1,15,6,12,7,4,11,29,33,WWLWWWWDWWLWWWWDWDWDWW,0,1,9,5,20,WDWWWDDWLD,WWWDWWWWWW
+Olympique Lyonnais,Metz,0-0,/match/olympique-lyonnais/metz/1990,1990,23,ligue_1,20,38,1,0,0,10,9,5,8,24,25,LWWWLLWDWWLWWLLDDWLDDW,5,3,3,14,14,18,5,9,8,22,26,DWWWLDDWDDLDDWWDWWWLDW,1,3,6,10,17,LWWLDWWLDWD,WWDWLDWWWD
+PSG,Saint-Étienne,2-0,/match/paris-saint-germain-fc/saint-etienne/1990,1990,23,ligue_1,20,38,0,2,0,11,9,5,8,23,25,DWWWLWLDDWWDWWLWDLLLWW,5,3,2,11,8,14,9,4,9,28,30,WWWDLWWLWWWWLLWDLLWDDL,3,3,5,13,17,WWWDWDLDLW,WWDWLWWLDLD
+Monaco,Caen,2-1,/match/monaco/caen/1990,1990,23,ligue_1,20,38,0,2,1,5,8,9,5,18,13,DWDDDWWDLWWDDLDLWWWWDL,5,4,1,10,5,7,7,6,9,22,31,WWWWDWWWWDWWWWDWWDLDDW,0,3,8,4,20,WDWLWDDWWD,WWWWWDWWWDD
+Cannes,Sochaux,1-1,/match/as-cannes/sochaux/1990,1990,23,ligue_1,20,38,1,1,1,13,7,5,10,25,30,WDWWWWWDWWWWWDDWDWWLWW,6,4,0,19,8,3,12,2,8,33,25,WWWWWLDWDLWLWWWWWLWWWW,3,0,7,12,21,DWWDWWDDWW,WWLWLLWWWW
+Olympique,Nice,3-0,/match/olympique-marsella/nice/1990,1990,23,ligue_1,20,38,0,3,0,2,13,5,4,44,21,LWWWDWDWLWLWWDWWLDLDWW,8,2,0,24,6,20,4,9,9,23,32,DWWWDDDDDWWLDLDLWWWDWW,0,4,6,5,17,WWWWWWDWDW,WWDDWDDWWW
+Girondins Bordeaux,Lille,3-1,/match/bordeaux/lillestrom/1990,1990,23,ligue_1,20,38,0,3,1,1,15,4,3,34,9,DWLWLWWWLWWDWDWDWLWLWW,10,0,0,23,0,6,8,5,9,27,25,WWDWLWDDWWWWWWWDWWWLDW,0,3,7,7,18,WWWWWWWWWW,WWWDWWWDWD
+FC Mulhouse,Racing Paris,4-2,/match/mulhouse/racing-paris/1990,1990,23,ligue_1,20,38,0,4,2,19,6,5,11,23,29,WWWWWDDLDWWWWWDWLWLDWW,6,1,3,15,8,17,6,6,10,24,36,DWWWWWDDDWWWDWWLLDWLWW,1,1,8,5,22,WWDLWWWLLW,WWWDWWWLWW
+Saint-Étienne,Girondins Bordeaux,1-1,/match/saint-etienne/bordeaux/1990,1990,24,ligue_1,20,38,1,1,1,16,9,4,10,28,32,WWWDLWWLWWWWLLWDLLWDDLW,6,1,4,15,13,1,16,4,3,37,10,DWLWLWWWLWWDWDWDWLWLWWW,5,4,3,11,9,WLWWWLWLWDL,DLLWLWDDDLLW
+Caen,Cannes,1-0,/match/caen/as-cannes/1990,1990,24,ligue_1,20,38,0,1,0,10,7,6,10,23,33,WWWWDWWWWDWWWWDWWDLDDWW,7,3,1,18,11,13,7,6,10,26,31,WDWWWWWDWWWWWDDWDWWLWWD,1,1,10,6,22,WDWWWWDWLDW,WWWWWWWDWWLW
+Racing Paris,Auxerre,3-1,/match/racing-paris/auxerre/1990,1990,24,ligue_1,20,38,0,3,1,19,6,6,11,26,40,DWWWWWDDDWWWDWWLLDWLWWW,5,5,2,19,14,9,6,10,7,28,26,WWWDWWDWWWWDWDDWDDLDDDW,0,6,6,11,19,DWWDDWDWLDLW,WWWDWWWDDDDD
+Nice,Nantes,1-2,/match/nice/nantes/1990,1990,24,ligue_1,20,38,2,1,2,20,4,9,10,23,35,DWWWDDDDDWWLDLDLWWWDWWW,4,5,3,18,15,11,7,8,8,21,20,WWWWDDDDWLWWDWDWWLLDDWL,1,5,5,5,11,DWDDDWLLLWDW,WDDWWDDWLDW
+Lille,PSG,2-0,/match/lillestrom/paris-saint-germain-fc/1990,1990,24,ligue_1,20,38,0,2,0,7,8,5,10,28,28,WWDWLWDDWWWWWWWDWWWLDWW,8,2,2,20,7,6,10,5,8,25,25,DWWWLWLDDWWDWWLWDLLLWWW,4,2,6,12,17,WDLDWWWWWWLW,DWLLDWWWWLLW
+Sporting Toulon,Toulouse,0-0,/match/sporting-toulon/toulouse-fc/1990,1990,24,ligue_1,20,38,1,0,0,12,7,8,8,20,28,WDWWWDWDLWLDDWDLDWWLDWW,6,3,3,14,11,5,9,8,6,26,23,WWWDDDDWWWWWLWDLDLLDWDL,3,4,4,11,16,WWWWLLDDDWLW,WDDWWLDDLWL
+Stade Brestois,Monaco,1-1,/match/stade-brestois-29/monaco/1990,1990,24,ligue_1,20,38,1,1,1,14,9,3,11,18,24,WWWWWWLWWWLWWWDLWDWLDWW,7,2,2,13,6,4,9,9,5,20,14,DWDDDWWDLWWDDLDLWWWWDLW,3,5,4,8,8,WWLWLWDWWDW,DDDWDWDLLWWL
+Sochaux,Olympique Lyonnais,1-0,/match/sochaux/olympique-lyonnais/1990,1990,24,ligue_1,20,38,0,1,0,3,12,3,8,34,26,WWWWWLDWDLWLWWWWWLWWWWD,9,2,1,21,4,8,9,6,8,24,25,LWWWLLWDWWLWWLLDDWLDDWD,4,2,5,10,11,WWWDDWWWWLWW,WLWWLWLDLDW
+Montpellier,Olympique,1-1,/match/montpellier-hsc/olympique-marsella/1990,1990,24,ligue_1,20,38,1,1,1,15,7,4,12,30,35,WWLWWWWDWWLWWWWDWDWDWWW,7,3,2,24,13,2,14,5,4,47,21,LWWWDWDWLWLWWDWWLDLDWWW,5,3,4,20,15,WLWWWLWWDDDW,LWDDLLWWLLDW
+Metz,FC Mulhouse,1-1,/match/metz/mulhouse/1990,1990,24,ligue_1,20,38,1,1,1,17,5,10,8,22,26,DWWWLDDWDDLDDWWDWWWLDWD,4,6,2,12,9,18,7,5,11,27,31,WWWWWDDLDWWWWWDWLWLDWWW,0,4,8,8,21,DWLDDDDWDWLW,WWWDDWWDWWDW
+Cannes,Saint-Étienne,0-0,/match/as-cannes/saint-etienne/1990,1990,25,ligue_1,20,38,1,0,0,14,7,6,11,26,32,WDWWWWWDWWWWWDDWDWWLWWDW,6,5,0,20,9,16,9,5,10,29,33,WWWDLWWLWWWWLLWDLLWDDLWD,3,3,6,13,19,DWWDWWDDWWD,WWDWLWWLDLDW
+Nantes,Metz,0-0,/match/nantes/metz/1990,1990,25,ligue_1,20,38,1,0,0,11,8,8,8,23,21,WWWWDDDDWLWWDWDWWLLDDWLL,6,3,3,16,9,18,5,11,8,23,27,DWWWLDDWDDLDDWWDWWWLDWDD,1,4,6,10,17,WWWDDLWWWLDL,WWDWLDWWWDD
+Olympique Lyonnais,Montpellier,3-1,/match/olympique-lyonnais/montpellier-hsc/1990,1990,25,ligue_1,20,38,0,3,1,13,9,6,9,24,26,LWWWLLWDWWLWWLLDDWLDDWDW,5,4,3,14,14,15,7,5,12,31,36,WWLWWWWDWWLWWWWDWDWDWWWD,0,1,10,6,22,LWWLDWWLDWDD,WWWDWWWWWWW
+PSG,Stade Brestois,3-1,/match/paris-saint-germain-fc/stade-brestois-29/1990,1990,25,ligue_1,20,38,0,3,1,8,10,5,9,25,27,DWWWLWLDDWWDWWLWDLLLWWWW,6,3,2,13,8,9,9,4,11,19,25,WWWWWWLWWWLWWWDLWDWLDWWD,2,1,9,5,18,WWWDWDLDLWW,WWWWWWWWLDLW
+Toulouse,Nice,0-1,/match/toulouse-fc/nice/1990,1990,25,ligue_1,20,38,2,0,1,5,9,9,6,26,23,WWWDDDDWWWWWLWDLDLLDWDLD,6,4,2,15,7,20,4,9,11,24,37,DWWWDDDDDWWLDLDLWWWDWWWL,0,4,7,5,20,WWDDWWWWLLDD,WWDDWDDWWWW
+Monaco,Sporting Toulon,2-1,/match/monaco/sporting-toulon/1990,1990,25,ligue_1,20,38,0,2,1,4,9,10,5,21,15,DWDDDWWDLWWDDLDLWWWWDLWD,6,4,1,12,6,10,7,9,8,20,28,WDWWWDWDLWLDDWDLDWWLDWWD,1,5,5,6,17,WDWLWDDWWDW,DWDDWDWLWDW
+Auxerre,Sochaux,1-1,/match/auxerre/sochaux/1990,1990,25,ligue_1,20,38,1,1,1,12,6,10,8,29,29,WWWDWWDWWWWDWDDWDDLDDDWW,6,4,1,17,7,3,13,3,8,35,26,WWWWWLDWDLWLWWWWWLWWWWDW,3,1,7,13,22,WDWWWDDWLDW,WWLWLLWWWWD
+Olympique,Racing Paris,4-1,/match/olympique-marsella/racing-paris/1990,1990,25,ligue_1,20,38,0,4,1,2,14,6,4,48,22,LWWWDWDWLWLWWDWWLDLDWWWD,9,2,0,27,6,17,7,6,11,29,41,DWWWWWDDDWWWDWWLLDWLWWWW,1,1,9,7,26,WWWWWWDWDWW,WWWDWWWLWWW
+Girondins Bordeaux,Caen,2-1,/match/bordeaux/caen/1990,1990,25,ligue_1,20,38,0,2,1,1,16,5,3,38,11,DWLWLWWWLWWDWDWDWLWLWWWD,11,0,0,26,1,7,8,6,10,24,33,WWWWDWWWWDWWWWDWWDLDDWWW,0,3,9,5,22,WWWWWWWWWWW,WWWWWDWWWDDW
+FC Mulhouse,Lille,2-1,/match/mulhouse/lillestrom/1990,1990,25,ligue_1,20,38,0,2,1,19,7,6,11,28,32,WWWWWDDLDWWWWWDWLWLDWWWD,7,1,3,19,10,6,9,5,10,30,28,WWDWLWDDWWWWWWWDWWWLDWWW,0,3,8,8,21,WWDLWWWLLWW,WWWDWWWDWDW
+Stade Brestois,Girondins Bordeaux,2-0,/match/stade-brestois-29/bordeaux/1990,1990,26,ligue_1,20,38,0,2,0,13,9,4,12,20,28,WWWWWWLWWWLWWWDLWDWLDWWDW,7,3,2,14,7,1,17,5,3,40,12,DWLWLWWWLWWDWDWDWLWLWWWDW,5,5,3,12,10,WWLWLWDWWDWD,DLLWLWDDDLLWD
+Caen,Auxerre,1-0,/match/caen/auxerre/1990,1990,26,ligue_1,20,38,0,1,0,10,8,6,11,25,35,WWWWDWWWWDWWWWDWWDLDDWWWW,8,3,1,19,11,11,6,11,8,30,30,WWWDWWDWWWWDWDDWDDLDDDWWD,0,6,7,12,22,WDWWWWDWLDWW,WWWDWWWDDDDDW
+Montpellier,Nantes,2-1,/match/montpellier-hsc/nantes/1990,1990,26,ligue_1,20,38,0,2,1,17,7,5,13,32,39,WWLWWWWDWWLWWWWDWDWDWWWDW,7,4,2,25,14,9,8,9,8,23,21,WWWWDDDDWLWWDWDWWLLDDWLLD,2,5,5,7,12,WLWWWLWWDDDWD,WDDWWDDWLDWL
+Lille,Nice,1-1,/match/lillestrom/nice/1990,1990,26,ligue_1,20,38,1,1,1,7,9,5,11,31,30,WWDWLWDDWWWWWWWDWWWLDWWWW,9,2,2,22,7,20,5,9,11,25,37,DWWWDDDDDWWLDLDLWWWDWWWLL,1,4,7,6,20,WDLDWWWWWWLWW,WWDDWDDWWWWL
+Saint-Étienne,FC Mulhouse,3-0,/match/saint-etienne/mulhouse/1990,1990,26,ligue_1,20,38,0,3,0,16,9,6,10,29,33,WWWDLWWLWWWWLLWDLLWDDLWDD,6,2,4,16,14,15,8,6,11,30,33,WWWWWDDLDWWWWWDWLWLDWWWDW,0,5,8,9,22,WLWWWLWLWDLD,WWWDDWWDWWDWD
+Metz,Toulouse,3-0,/match/metz/toulouse-fc/1990,1990,26,ligue_1,20,38,0,3,0,19,5,12,8,23,27,DWWWLDDWDDLDDWWDWWWLDWDDD,4,7,2,13,10,6,9,9,7,26,24,WWWDDDDWWWWWLWDLDLLDWDLDL,3,5,4,11,16,DWLDDDDWDWLWD,WDDWWLDDLWLD
+Racing Paris,Olympique Lyonnais,0-1,/match/racing-paris/olympique-lyonnais/1990,1990,26,ligue_1,20,38,2,0,1,18,7,6,12,30,45,DWWWWWDDDWWWDWWLLDWLWWWWW,6,5,2,22,15,8,10,6,9,27,27,LWWWLLWDWWLWWLLDDWLDDWDWW,4,2,6,10,12,DWWDDWDWLDLWW,WLWWLWLDLDWW
+Sporting Toulon,PSG,0-3,/match/sporting-toulon/paris-saint-germain-fc/1990,1990,26,ligue_1,20,38,2,0,3,12,7,9,9,21,30,WDWWWDWDLWLDDWDLDWWLDWWDW,6,4,3,14,11,5,11,5,9,28,28,DWWWLWLDDWWDWWLWDLLLWWWWW,4,2,7,12,19,WWWWLLDDDWLWD,DWLLDWWWWLLWW
+Monaco,Cannes,0-0,/match/monaco/as-cannes/1990,1990,26,ligue_1,20,38,1,0,0,4,10,10,5,23,16,DWDDDWWDLWWDDLDLWWWWDLWDW,7,4,1,14,7,14,7,7,11,26,32,WDWWWWWDWWWWWDDWDWWLWWDWD,1,1,11,6,23,WDWLWDDWWDWW,WWWWWWWDWWLWW
+Sochaux,Olympique,0-2,/match/sochaux/olympique-marsella/1990,1990,26,ligue_1,20,38,2,0,2,3,13,4,8,36,27,WWWWWLDWDLWLWWWWWLWWWWDWD,10,2,1,22,4,2,15,6,4,52,23,LWWWDWDWLWLWWDWWLDLDWWWDW,5,4,4,21,16,WWWDDWWWWLWWW,LWDDLLWWLLDWD
+Girondins Bordeaux,Sporting Toulon,2-1,/match/bordeaux/sporting-toulon/1990,1990,27,ligue_1,20,38,0,2,1,1,17,5,4,40,14,DWLWLWWWLWWDWDWDWLWLWWWDWW,12,0,0,28,2,18,7,9,10,21,33,WDWWWDWDLWLDDWDLDWWLDWWDWL,1,5,6,7,19,WWWWWWWWWWWW,DWDDWDWLWDWW
+Nice,Metz,0-0,/match/nice/metz/1990,1990,27,ligue_1,20,38,1,0,0,20,5,10,11,26,38,DWWWDDDDDWWLDLDLWWWDWWWLLD,4,5,4,19,17,13,6,12,8,26,27,DWWWLDDWDDLDDWWDWWWLDWDDDW,1,5,6,10,17,DWDDDWLLLWDWL,WWDWLDWWWDDD
+Nantes,Caen,0-0,/match/nantes/caen/1990,1990,27,ligue_1,20,38,1,0,0,12,8,9,9,24,23,WWWWDDDDWLWWDWDWWLLDDWLLDW,6,4,3,16,9,7,9,6,11,26,35,WWWWDWWWWDWWWWDWWDLDDWWWWW,0,3,10,6,24,WWWDDLWWWLDLD,WWWWWDWWWDDWW
+Auxerre,Lille,3-0,/match/auxerre/lillestrom/1990,1990,27,ligue_1,20,38,0,3,0,15,6,11,9,30,31,WWWDWWDWWWWDWDDWDDLDDDWWDW,6,5,1,18,8,6,9,6,11,32,31,WWDWLWDDWWWWWWWDWWWLDWWWWD,0,3,9,9,23,WDWWWDDWLDWD,WWWDWWWDWDWW
+Toulouse,Montpellier,0-0,/match/toulouse-fc/montpellier-hsc/1990,1990,27,ligue_1,20,38,1,0,0,9,9,9,8,26,27,WWWDDDDWWWWWLWDLDLLDWDLDLW,6,4,3,15,8,14,8,5,13,34,40,WWLWWWWDWWLWWWWDWDWDWWWDWW,0,1,11,7,25,WWDDWWWWLLDDL,WWWDWWWWWWWW
+Olympique Lyonnais,Saint-Étienne,0-0,/match/olympique-lyonnais/saint-etienne/1990,1990,27,ligue_1,20,38,1,0,0,8,11,6,9,28,27,LWWWLLWDWWLWWLLDDWLDDWDWWL,6,4,3,17,15,11,10,6,10,32,33,WWWDLWWLWWWWLLWDLLWDDLWDDW,3,4,6,13,19,LWWLDWWLDWDDW,WWDWLWWLDLDWD
+PSG,Racing Paris,1-2,/match/paris-saint-germain-fc/racing-paris/1990,1990,27,ligue_1,20,38,2,1,2,5,12,5,9,31,28,DWWWLWLDDWWDWWLWDLLLWWWWWL,7,3,2,16,9,19,7,6,13,30,46,DWWWWWDDDWWWDWWLLDWLWWWWWL,1,1,10,8,30,WWWDWDLDLWWW,WWWDWWWLWWWW
+FC Mulhouse,Sochaux,1-2,/match/mulhouse/sochaux/1990,1990,27,ligue_1,20,38,2,1,2,17,8,6,12,30,36,WWWWWDDLDWWWWWDWLWLDWWWDWW,8,1,3,21,11,3,13,4,9,36,29,WWWWWLDWDLWLWWWWWLWWWWDWDL,3,2,7,14,23,WWDLWWWLLWWW,WWLWLLWWWWDD
+Olympique,Monaco,2-2,/match/olympique-marsella/monaco/1990,1990,27,ligue_1,20,38,1,2,2,2,16,6,4,54,23,LWWWDWDWLWLWWDWWLDLDWWWDWL,10,2,0,31,7,4,10,11,5,23,16,DWDDDWWDLWWDDLDLWWWWDLWDWD,3,6,4,9,9,WWWWWWDWDWWW,DDDWDWDLLWWLD
+Cannes,Stade Brestois,1-1,/match/as-cannes/stade-brestois-29/1990,1990,27,ligue_1,20,38,1,1,1,16,7,8,11,26,32,WDWWWWWDWWWWWDDWDWWLWWDWDD,6,6,0,20,9,10,10,4,12,22,28,WWWWWWLWWWLWWWDLWDWLDWWDWW,2,1,10,6,21,DWWDWWDDWWDD,WWWWWWWWLDLWW
+Monaco,PSG,2-0,/match/monaco/paris-saint-germain-fc/1990,1990,28,ligue_1,20,38,0,2,0,4,10,12,5,25,18,DWDDDWWDLWWDDLDLWWWWDLWDWDD,7,5,1,14,7,5,12,5,10,32,30,DWWWLWLDDWWDWWLWDLLLWWWWWLL,5,2,7,15,19,WDWLWDDWWDWWD,DWLLDWWWWLLWWL
+Montpellier,Nice,1-0,/match/montpellier-hsc/nice/1990,1990,28,ligue_1,20,38,0,1,0,15,8,6,13,34,40,WWLWWWWDWWLWWWWDWDWDWWWDWWD,8,4,2,27,15,20,5,11,11,26,38,DWWWDDDDDWWLDLDLWWWDWWWLLDD,1,5,7,7,21,WLWWWLWWDDDWDW,WWDDWDDWWWWLD
+Sporting Toulon,Auxerre,1-0,/match/sporting-toulon/auxerre/1990,1990,28,ligue_1,20,38,0,1,0,18,7,9,11,22,35,WDWWWDWDLWLDDWDLDWWLDWWDWLW,6,4,4,14,14,10,7,11,9,33,31,WWWDWWDWWWWDWDDWDDLDDDWWDWW,0,6,8,12,23,WWWWLLDDDWLWDL,WWWDWWWDDDDDWW
+Caen,Metz,1-0,/match/caen/metz/1990,1990,28,ligue_1,20,38,0,1,0,6,9,7,11,26,35,WWWWDWWWWDWWWWDWWDLDDWWWWWD,9,3,1,20,11,14,6,13,8,26,27,DWWWLDDWDDLDDWWDWWWLDWDDDWD,1,6,6,10,17,WDWWWWDWLDWWW,WWDWLDWWWDDDD
+Stade Brestois,FC Mulhouse,2-0,/match/stade-brestois-29/mulhouse/1990,1990,28,ligue_1,20,38,0,2,0,11,10,5,12,23,29,WWWWWWLWWWLWWWDLWDWLDWWDWWD,8,3,2,16,7,17,8,6,13,31,38,WWWWWDDLDWWWWWDWLWLDWWWDWWL,0,5,9,9,25,WWLWLWDWWDWDW,WWWDDWWDWWDWDW
+Lille,Olympique Lyonnais,0-0,/match/lillestrom/olympique-lyonnais/1990,1990,28,ligue_1,20,38,1,0,0,8,9,6,12,32,34,WWDWLWDDWWWWWWWDWWWLDWWWWDW,9,3,2,23,8,7,11,7,9,28,27,LWWWLLWDWWLWWLLDDWLDDWDWWLD,5,2,6,11,12,WDLDWWWWWWLWWD,WLWWLWLDLDWWL
+Sochaux,Nantes,1-3,/match/sochaux/nantes/1990,1990,28,ligue_1,20,38,2,1,3,3,14,4,9,38,30,WWWWWLDWDLWLWWWWWLWWWWDWDLL,10,2,2,22,6,13,8,10,9,24,23,WWWWDDDDWLWWDWDWWLLDDWLLDWD,2,5,6,8,14,WWWDDWWWWLWWWL,WDDWWDDWLDWLW
+Cannes,Girondins Bordeaux,3-0,/match/as-cannes/bordeaux/1990,1990,28,ligue_1,20,38,0,3,0,16,7,9,11,27,33,WDWWWWWDWWWWWDDWDWWLWWDWDDD,6,7,0,21,10,1,18,5,4,42,15,DWLWLWWWLWWDWDWDWLWLWWWDWWW,5,5,4,12,12,DWWDWWDDWWDDD,DLLWLWDDDLLWDW
+Racing Paris,Toulouse,1-0,/match/racing-paris/toulouse-fc/1990,1990,28,ligue_1,20,38,0,1,0,19,8,6,13,32,47,DWWWWWDDDWWWDWWLLDWLWWWWWLL,6,5,3,22,16,9,9,10,8,26,27,WWWDDDDWWWWWLWDLDLLDWDLDLWD,3,5,5,11,19,DWWDDWDWLDLWWL,WDDWWLDDLWLDW
+Saint-Étienne,Olympique,0-0,/match/saint-etienne/olympique-marsella/1990,1990,28,ligue_1,20,38,1,0,0,12,10,7,10,32,33,WWWDLWWLWWWWLLWDLLWDDLWDDWD,7,2,4,19,14,2,16,7,4,56,25,LWWWDWDWLWLWWDWWLDLDWWWDWLD,6,4,4,23,16,WLWWWLWLWDLDW,LWDDLLWWLLDWDL
+Girondins Bordeaux,Monaco,0-0,/match/bordeaux/monaco/1990,1990,29,ligue_1,20,38,1,0,0,1,18,5,5,42,18,DWLWLWWWLWWDWDWDWLWLWWWDWWWW,13,0,0,30,3,3,11,12,5,27,18,DWDDDWWDLWWDDLDLWWWWDLWDWDDW,3,7,4,11,11,WWWWWWWWWWWWW,DDDWDWDLLWWLDD
+Auxerre,Saint-Étienne,2-1,/match/auxerre/saint-etienne/1990,1990,29,ligue_1,20,38,0,2,1,15,7,11,10,33,32,WWWDWWDWWWWDWDDWDDLDDDWWDWWW,7,5,1,21,8,13,10,8,10,32,33,WWWDLWWLWWWWLLWDLLWDDLWDDWDD,3,5,6,13,19,WDWWWDDWLDWDW,WWDWLWWLDLDWDD
+Metz,Montpellier,1-0,/match/metz/montpellier-hsc/1990,1990,29,ligue_1,20,38,0,1,0,18,6,13,9,26,28,DWWWLDDWDDLDDWWDWWWLDWDDDWDW,5,7,2,16,10,10,9,6,13,35,40,WWLWWWWDWWLWWWWDWDWDWWWDWWDW,0,2,11,7,25,DWLDDDDWDWLWDW,WWWDWWWWWWWWD
+FC Mulhouse,Caen,0-0,/match/mulhouse/caen/1990,1990,29,ligue_1,20,38,1,0,0,19,8,6,14,31,40,WWWWWDDLDWWWWWDWLWLDWWWDWWLW,8,1,4,22,13,5,10,7,11,27,35,WWWWDWWWWDWWWWDWWDLDDWWWWWDW,0,4,10,6,24,WWDLWWWLLWWWL,WWWWWDWWWDDWWD
+Nantes,Lille,1-0,/match/nantes/lillestrom/1990,1990,29,ligue_1,20,38,0,1,0,14,9,10,9,27,24,WWWWDDDDWLWWDWDWWLLDDWLLDWDL,6,5,3,16,9,8,9,7,12,32,34,WWDWLWDDWWWWWWWDWWWLDWWWWDWD,0,3,10,9,26,WWWDDLWWWLDLDD,WWWDWWWDWDWWW
+PSG,Cannes,5-1,/match/paris-saint-germain-fc/as-cannes/1990,1990,29,ligue_1,20,38,0,5,1,9,12,5,11,32,32,DWWWLWLDDWWDWWLWDLLLWWWWWLLW,7,3,3,17,11,11,8,9,11,30,33,WDWWWWWDWWWWWDDWDWWLWWDWDDDW,1,2,11,6,23,WWWDWDLDLWWWL,WWWWWWWDWWLWWD
+Olympique Lyonnais,Stade Brestois,4-0,/match/olympique-lyonnais/stade-brestois-29/1990,1990,29,ligue_1,20,38,0,4,0,7,11,8,9,28,27,LWWWLLWDWWLWWLLDDWLDDWDWWLDD,6,5,3,17,15,6,11,5,12,25,29,WWWWWWLWWWLWWWDLWDWLDWWDWWDW,2,2,10,7,22,LWWLDWWLDWDDWD,WWWWWWWWLDLWWD
+Toulouse,Sochaux,0-0,/match/toulouse-fc/sochaux/1990,1990,29,ligue_1,20,38,1,0,0,12,9,10,9,26,28,WWWDDDDWWWWWLWDLDLLDWDLDLWDW,6,5,3,15,8,4,14,4,10,39,33,WWWWWLDWDLWLWWWWWLWWWWDWDLLL,4,2,7,16,24,WWDDWWWWLLDDLD,WWLWLLWWWWDDL
+Olympique,Sporting Toulon,3-0,/match/olympique-marsella/sporting-toulon/1990,1990,29,ligue_1,20,38,0,3,0,2,16,8,4,56,25,LWWWDWDWLWLWWDWWLDLDWWWDWLDD,10,3,0,33,9,16,8,9,11,23,35,WDWWWDWDLWLDDWDLDWWLDWWDWLWW,1,5,7,8,21,WWWWWWDWDWWWD,DWDDWDWLWDWWW
+Nice,Racing Paris,2-0,/match/nice/racing-paris/1990,1990,29,ligue_1,20,38,0,2,0,20,5,11,12,26,39,DWWWDDDDDWWLDLDLWWWDWWWLLDDW,4,6,4,19,17,17,9,6,13,33,47,DWWWWWDDDWWWDWWLLDWLWWWWWLLW,2,1,10,10,31,DWDDDWLLLWDWLD,WWWDWWWLWWWWL
+Girondins Bordeaux,PSG,3-0,/match/bordeaux/paris-saint-germain-fc/1990,1990,30,ligue_1,20,38,0,3,0,1,18,6,5,42,18,DWLWLWWWLWWDWDWDWLWLWWWDWWWWD,13,1,0,30,3,7,13,5,11,37,33,DWWWLWLDDWWDWWLWDLLLWWWWWLLWW,5,2,8,15,21,WWWWWWWWWWWWWD,DWLLDWWWWLLWWLW
+Cannes,FC Mulhouse,4-1,/match/as-cannes/mulhouse/1990,1990,30,ligue_1,20,38,0,4,1,14,8,9,12,31,38,WDWWWWWDWWWWWDDWDWWLWWDWDDDWW,7,7,0,24,10,19,8,7,14,31,40,WWWWWDDLDWWWWWDWLWLDWWWDWWLWD,0,5,10,9,27,DWWDWWDDWWDDDW,WWWDDWWDWWDWDWW
+Sporting Toulon,Metz,1-1,/match/sporting-toulon/metz/1990,1990,30,ligue_1,20,38,1,1,1,17,8,9,12,23,38,WDWWWDWDLWLDDWDLDWWLDWWDWLWWW,7,4,4,15,14,13,7,13,9,27,28,DWWWLDDWDDLDDWWDWWWLDWDDDWDWW,1,6,7,10,18,WWWWLLDDDWLWDLW,WWDWLDWWWDDDDW
+Lille,Toulouse,3-0,/match/lillestrom/toulouse-fc/1990,1990,30,ligue_1,20,38,0,3,0,11,9,7,13,32,35,WWDWLWDDWWWWWWWDWWWLDWWWWDWDW,9,4,2,23,8,12,9,11,9,26,28,WWWDDDDWWWWWLWDLDLLDWDLDLWDWD,3,5,6,11,20,WDLDWWWWWWLWWDD,WDDWWLDDLWLDWW
+Saint-Étienne,Nantes,0-0,/match/saint-etienne/nantes/1990,1990,30,ligue_1,20,38,1,0,0,16,10,8,11,33,35,WWWDLWWLWWWWLLWDLLWDDLWDDWDDW,7,3,4,19,14,8,10,10,9,28,24,WWWWDDDDWLWWDWDWWLLDDWLLDWDLW,3,5,6,11,15,WLWWWLWLWDLDWD,WDDWWDDWLDWLWL
+Caen,Olympique Lyonnais,1-1,/match/caen/olympique-lyonnais/1990,1990,30,ligue_1,20,38,1,1,1,5,10,8,11,27,35,WWWWDWWWWDWWWWDWWDLDDWWWWWDWD,10,3,1,21,11,6,12,8,9,32,27,LWWWLLWDWWLWWLLDDWLDDWDWWLDDW,5,3,6,11,12,WDWWWWDWLDWWWW,WLWWLWLDLDWWLD
+Sochaux,Nice,1-1,/match/sochaux/nice/1990,1990,30,ligue_1,20,38,1,1,1,4,14,5,10,39,33,WWWWWLDWDLWLWWWWWLWWWWDWDLLLD,10,2,3,23,9,20,6,11,12,28,39,DWWWDDDDDWWLDLDLWWWDWWWLLDDWW,1,5,8,7,22,WWWDDWWWWLWWWLL,WWDDWDDWWWWLDW
+Monaco,Auxerre,2-4,/match/monaco/auxerre/1990,1990,30,ligue_1,20,38,2,2,4,3,11,13,5,27,18,DWDDDWWDLWWDDLDLWWWWDLWDWDDWD,8,5,1,16,7,10,8,11,10,35,33,WWWDWWDWWWWDWDDWDDLDDDWWDWWWW,0,6,9,12,24,WDWLWDDWWDWWDW,WWWDWWWDDDDDWWW
+Stade Brestois,Olympique,2-1,/match/stade-brestois-29/olympique-marsella/1990,1990,30,ligue_1,20,38,0,2,1,9,11,5,13,25,33,WWWWWWLWWWLWWWDLWDWLDWWDWWDWW,9,3,2,18,7,2,17,8,4,59,25,LWWWDWDWLWLWWDWWLDLDWWWDWLDDW,6,5,4,23,16,WWLWLWDWWDWDWW,LWDDLLWWLLDWDLD
+Racing Paris,Montpellier,0-0,/match/racing-paris/montpellier-hsc/1990,1990,30,ligue_1,20,38,1,0,0,18,9,6,14,33,49,DWWWWWDDDWWWDWWLLDWLWWWWWLLWW,7,5,3,23,16,15,9,6,14,35,41,WWLWWWWDWWLWWWWDWDWDWWWDWWDWW,0,2,12,7,26,DWWDDWDWLDLWWLW,WWWDWWWWWWWWDW
+FC Mulhouse,Girondins Bordeaux,0-0,/match/mulhouse/bordeaux/1990,1990,31,ligue_1,20,38,1,0,0,19,8,7,15,32,44,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDW,8,2,4,22,13,1,19,6,5,45,18,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDW,5,5,5,12,15,WWDLWWWLLWWWLD,DLLWLWDDDLLWDWW
+Metz,Racing Paris,0-0,/match/metz/racing-paris/1990,1990,31,ligue_1,20,38,1,0,0,14,7,14,9,28,29,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWD,6,7,2,17,10,18,9,7,14,33,49,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWD,2,1,11,10,33,DWLDDDDWDWLWDWW,WWWDWWWLWWWWLW
+Toulouse,Saint-Étienne,1-1,/match/toulouse-fc/saint-etienne/1990,1990,31,ligue_1,20,38,1,1,1,13,9,11,10,26,31,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDW,6,6,3,15,8,16,10,9,11,33,35,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWD,3,5,7,14,21,WWDDWWWWLLDDLDD,WWDWLWWLDLDWDDW
+Auxerre,Stade Brestois,3-1,/match/auxerre/stade-brestois-29/1990,1990,31,ligue_1,20,38,0,3,1,10,9,11,10,39,35,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWL,8,5,1,23,9,6,12,5,13,27,34,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWW,2,2,11,7,26,WDWWWDDWLDWDWW,WWWWWWWWLDLWWDW
+PSG,Caen,3-1,/match/paris-saint-germain-fc/caen/1990,1990,31,ligue_1,20,38,0,3,1,11,13,5,12,37,36,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWW,8,3,3,22,12,5,10,9,11,28,36,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDD,0,5,10,6,24,WWWDWDLDLWWWLW,WWWWWDWWWDDWWDD
+Olympique Lyonnais,Cannes,0-1,/match/olympique-lyonnais/as-cannes/1990,1990,31,ligue_1,20,38,2,0,1,7,12,9,9,33,28,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWD,7,5,3,21,15,12,9,9,12,35,39,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWW,1,2,12,7,28,LWWLDWWLDWDDWDW,WWWWWWWDWWLWWDW
+Montpellier,Sochaux,2-0,/match/montpellier-hsc/sochaux/1990,1990,31,ligue_1,20,38,0,2,0,15,9,7,14,35,41,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWD,9,4,2,28,15,3,14,6,10,40,34,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDD,4,3,7,16,24,WLWWWLWWDDDWDWW,WWLWLLWWWWDDLD
+Nantes,Monaco,0-0,/match/nantes/monaco/1990,1990,31,ligue_1,20,38,1,0,0,9,10,11,9,28,24,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWD,7,5,3,17,9,4,11,13,6,29,22,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDL,3,8,4,11,11,WWWDDLWWWLDLDDW,DDDWDWDLLWWLDDD
+Olympique,Lille,4-1,/match/olympique-marsella/lillestrom/1990,1990,31,ligue_1,20,38,0,4,1,2,17,8,5,60,27,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWW,11,3,0,36,9,8,10,7,13,35,35,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWW,0,3,11,9,27,WWWWWWDWDWWWDW,WWWDWWWDWDWWWW
+Nice,Sporting Toulon,1-2,/match/nice/sporting-toulon/1990,1990,31,ligue_1,20,38,2,1,2,20,6,12,12,29,40,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWD,5,6,4,21,17,17,8,10,12,24,39,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWD,1,5,8,8,24,DWDDDWLLLWDWLDW,DWDDWDWLWDWWWW
+Stade Brestois,Nantes,3-2,/match/stade-brestois-29/nantes/1990,1990,32,ligue_1,20,38,0,3,2,10,12,5,14,28,37,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWWW,10,3,2,20,8,9,10,12,9,28,24,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWDD,3,6,6,11,15,WWLWLWDWWDWDWWW,WDDWWDDWLDWLWLD
+PSG,FC Mulhouse,1-0,/match/paris-saint-germain-fc/mulhouse/1990,1990,32,ligue_1,20,38,0,1,0,6,14,5,12,40,37,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWWW,9,3,3,25,13,19,8,8,15,32,44,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDWD,0,5,11,10,31,WWWDWDLDLWWWLWW,WWWDDWWDWWDWDWWW
+Monaco,Olympique Lyonnais,1-0,/match/monaco/olympique-lyonnais/1990,1990,32,ligue_1,20,38,0,1,0,4,11,14,6,29,22,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDLD,8,5,2,18,11,8,12,9,10,33,29,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWDL,5,4,6,12,13,WDWLWDDWWDWWDWL,WLWWLWLDLDWWLDD
+Cannes,Olympique,2-2,/match/as-cannes/olympique-marsella/1990,1990,32,ligue_1,20,38,1,2,2,11,10,9,12,36,39,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWWL,8,7,0,28,11,2,18,8,5,64,28,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWWW,6,5,5,24,18,DWWDWWDDWWDDDWW,LWDDLLWWLLDWDLDW
+Girondins Bordeaux,Auxerre,0-1,/match/bordeaux/auxerre/1990,1990,32,ligue_1,20,38,2,0,1,1,19,7,5,45,18,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDWD,14,1,0,33,3,5,10,11,10,42,36,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWLW,1,6,9,16,26,WWWWWWWWWWWWWDW,WWWDWWWDDDDDWWWL
+Lille,Racing Paris,2-1,/match/lillestrom/racing-paris/1990,1990,32,ligue_1,20,38,0,2,1,12,10,7,14,36,39,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWWW,10,4,2,26,8,18,9,8,14,33,49,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWDD,2,2,11,10,33,WDLDWWWWWWLWWDDW,WWWDWWWLWWWWLWD
+Sporting Toulon,Montpellier,3-0,/match/sporting-toulon/montpellier-hsc/1990,1990,32,ligue_1,20,38,0,3,0,17,9,10,12,26,40,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWDL,7,5,4,16,15,13,10,7,14,37,41,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWDW,0,3,12,7,26,WWWWLLDDDWLWDLWD,WWWDWWWWWWWWDWD
+Saint-Étienne,Nice,0-0,/match/saint-etienne/nice/1990,1990,32,ligue_1,20,38,1,0,0,16,10,10,11,34,36,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWDD,7,4,4,19,14,20,6,12,13,30,42,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWDL,1,6,8,8,23,WLWWWLWLWDLDWDD,WWDDWDDWWWWLDWD
+Caen,Toulouse,0-1,/match/caen/toulouse-fc/1990,1990,32,ligue_1,20,38,2,0,1,7,10,9,12,29,39,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDDW,10,4,1,22,12,14,9,12,10,27,32,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDWD,3,5,7,11,23,WDWWWWDWLDWWWWD,WDDWWLDDLWLDWWW
+Sochaux,Metz,0-0,/match/sochaux/metz/1990,1990,32,ligue_1,20,38,1,0,0,3,14,6,11,40,36,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDDW,10,3,3,24,10,15,7,15,9,28,29,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWDD,1,7,7,11,19,WWWDDWWWWLWWWLLD,WWDWLDWWWDDDDWD
+Olympique,Girondins Bordeaux,2-0,/match/olympique-marsella/bordeaux/1990,1990,33,ligue_1,20,38,0,2,0,2,18,9,5,66,30,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWWWD,12,3,0,40,10,1,19,7,6,45,19,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDWDL,5,6,5,12,15,WWWWWWDWDWWWDWW,DLLWLWDDDLLWDWWD
+Nice,Caen,1-0,/match/nice/caen/1990,1990,33,ligue_1,20,38,0,1,0,20,6,13,13,30,42,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWDLD,5,6,5,22,19,10,10,9,13,29,40,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDDWL,0,5,11,7,27,DWDDDWLLLWDWLDWL,WWWWWDWWWDDWWDDW
+Montpellier,Lille,5-0,/match/montpellier-hsc/lillestrom/1990,1990,33,ligue_1,20,38,0,5,0,13,10,7,15,37,44,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWDWW,10,4,2,30,15,8,11,7,14,38,40,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWWWW,0,3,12,10,31,WLWWWLWWDDDWDWWW,WWWDWWWDWDWWWWW
+Metz,Saint-Étienne,1-0,/match/metz/saint-etienne/1990,1990,33,ligue_1,20,38,0,1,0,16,7,16,9,28,29,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWDDD,6,8,2,17,10,17,10,11,11,34,36,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWDDD,3,6,7,15,22,DWLDDDDWDWLWDWWD,WWDWLWWLDLDWDDWD
+Toulouse,Stade Brestois,2-1,/match/toulouse-fc/stade-brestois-29/1990,1990,33,ligue_1,20,38,0,2,1,14,10,12,10,28,32,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDWDL,6,7,3,16,9,6,13,5,14,31,39,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWWWW,2,2,12,8,29,WWDDWWWWLLDDLDDD,WWWWWWWWLDLWWDWW
+Nantes,Sporting Toulon,4-0,/match/nantes/sporting-toulon/1990,1990,33,ligue_1,20,38,0,4,0,11,10,12,10,30,27,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWDDW,7,6,3,17,9,15,10,10,12,29,40,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWDLW,2,5,8,10,25,WWWDDLWWWLDLDDWD,DWDDWDWLWDWWWWL
+Auxerre,Cannes,1-0,/match/auxerre/as-cannes/1990,1990,33,ligue_1,20,38,0,1,0,7,11,11,10,43,36,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWLWL,9,5,1,26,10,9,10,10,12,38,41,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWWLD,2,2,12,8,28,WDWWWDDWLDWDWWW,WWWWWWWDWWLWWDWL
+Racing Paris,Sochaux,1-1,/match/racing-paris/sochaux/1990,1990,33,ligue_1,20,38,1,1,1,18,9,8,15,34,51,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWDDW,7,6,3,23,16,4,14,7,11,40,36,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDDWD,4,3,8,16,26,DWWDDWDWLDLWWLWD,WWLWLLWWWWDDLDW
+Olympique Lyonnais,PSG,1-2,/match/olympique-lyonnais/paris-saint-germain-fc/1990,1990,33,ligue_1,20,38,2,1,2,12,12,9,11,33,30,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWDLW,7,5,4,21,16,5,15,5,12,41,37,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWWWW,5,2,9,15,24,LWWLDWWLDWDDWDWL,DWLLDWWWWLLWWLWW
+FC Mulhouse,Monaco,1-1,/match/mulhouse/monaco/1990,1990,33,ligue_1,20,38,1,1,1,19,8,8,16,32,45,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDWDW,8,3,4,22,13,3,12,14,6,30,22,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDLDW,3,9,4,11,11,WWDLWWWLLWWWLDD,DDDWDWDLLWWLDDDD
+Girondins Bordeaux,Olympique Lyonnais,2-0,/match/bordeaux/olympique-lyonnais/1990,1990,34,ligue_1,20,38,0,2,0,2,19,7,7,45,21,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDWDLW,14,1,1,33,4,15,12,9,12,34,32,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWDLWL,5,4,7,12,14,WWWWWWWWWWWWWDWL,WLWWLWLDLDWWLDDW
+Saint-Étienne,Montpellier,1-0,/match/saint-etienne/montpellier-hsc/1990,1990,34,ligue_1,20,38,0,1,0,17,10,11,12,34,37,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWDDDW,7,5,4,19,14,10,11,7,15,42,44,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWDWWW,0,3,13,7,29,WLWWWLWLWDLDWDDD,WWWDWWWWWWWWDWDW
+Lille,Metz,2-1,/match/lillestrom/metz/1990,1990,34,ligue_1,20,38,0,2,1,9,11,7,15,38,45,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWWWWW,11,4,2,28,9,13,8,16,9,29,29,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWDDDW,1,8,7,11,19,WDLDWWWWWWLWWDDWW,WWDWLDWWWDDDDWDD
+Stade Brestois,Nice,3-0,/match/stade-brestois-29/nice/1990,1990,34,ligue_1,20,38,0,3,0,8,13,5,15,32,41,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWWWWW,11,3,2,23,10,20,7,13,13,31,42,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWDLDW,1,7,8,8,23,WWLWLWDWWDWDWWWW,WWDDWDDWWWWLDWDD
+Cannes,Nantes,2-1,/match/as-cannes/nantes/1990,1990,34,ligue_1,20,38,0,2,1,12,10,10,13,38,42,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWWLDW,8,8,0,30,13,7,11,12,10,34,27,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWDDWW,3,6,7,13,18,DWWDWWDDWWDDDWWD,WDDWWDDWLDWLWLDW
+Caen,Sochaux,1-1,/match/caen/sochaux/1990,1990,34,ligue_1,20,38,1,1,1,14,10,9,14,29,41,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDDWLW,10,4,2,22,13,5,14,8,11,41,37,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDDWDD,4,4,8,17,27,WDWWWWDWLDWWWWDL,WWLWLLWWWWDDLDWD
+FC Mulhouse,Auxerre,1-2,/match/mulhouse/auxerre/1990,1990,34,ligue_1,20,38,2,1,2,19,8,9,16,33,46,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDWDWD,8,4,4,23,14,4,12,11,10,44,36,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWLWLW,2,6,9,17,26,WWDLWWWLLWWWLDDD,WWWDWWWDDDDDWWWLL
+Monaco,Toulouse,2-0,/match/monaco/toulouse-fc/1990,1990,34,ligue_1,20,38,0,2,0,3,12,15,6,31,23,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDLDWD,9,5,2,19,11,11,11,12,10,30,33,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDWDLW,4,5,7,12,23,WDWLWDDWWDWWDWLW,WDDWWLDDLWLDWWWL
+PSG,Olympique,2-1,/match/paris-saint-germain-fc/olympique-marsella/1990,1990,34,ligue_1,20,38,0,2,1,6,16,5,12,43,38,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWWWWL,10,3,3,26,13,1,19,9,5,68,30,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWWWDW,6,6,5,26,20,WWWDWDLDLWWWLWWW,LWDDLLWWLLDWDLDWD
+Sporting Toulon,Racing Paris,1-0,/match/sporting-toulon/racing-paris/1990,1990,34,ligue_1,20,38,0,1,0,16,10,10,13,29,44,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWDLWW,8,5,4,19,15,18,9,9,15,35,52,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWDDWD,2,2,12,11,35,WWWWLLDDDWLWDLWDW,WWWDWWWLWWWWLWDW
+Olympique,FC Mulhouse,3-1,/match/olympique-marsella/mulhouse/1990,1990,35,ligue_1,20,38,0,3,1,2,19,9,6,69,32,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWWWDWW,13,3,0,42,10,19,8,9,17,34,48,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDWDWDL,0,5,12,10,32,WWWWWWDWDWWWDWWW,WWWDDWWDWWDWDWWWW
+Racing Paris,Saint-Étienne,3-0,/match/racing-paris/saint-etienne/1990,1990,35,ligue_1,20,38,0,3,0,18,9,9,16,35,53,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWDDWDW,7,7,3,24,17,16,11,11,12,35,37,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWDDDWW,3,6,8,15,23,DWWDDWDWLDLWWLWDD,WWDWLWWLDLDWDDWDW
+Metz,Stade Brestois,1-1,/match/metz/stade-brestois-29/1990,1990,35,ligue_1,20,38,1,1,1,15,8,16,10,30,31,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWDDDWW,7,8,2,18,10,7,14,5,15,35,41,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWWWWWW,2,2,13,9,31,DWLDDDDWDWLWDWWDW,WWWWWWWWLDLWWDWWW
+Olympique Lyonnais,Sporting Toulon,3-2,/match/olympique-lyonnais/sporting-toulon/1990,1990,35,ligue_1,20,38,0,3,2,17,12,9,13,34,34,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWDLWLW,7,5,5,22,18,12,11,10,13,30,44,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWDLWWW,2,5,9,10,29,LWWLDWWLDWDDWDWLL,DWDDWDWLWDWWWWLW
+Toulouse,Cannes,4-0,/match/toulouse-fc/as-cannes/1990,1990,35,ligue_1,20,38,0,4,0,13,11,12,11,30,35,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDWDLWW,7,7,3,18,10,9,11,10,13,40,43,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWWLDWW,2,2,13,8,29,WWDDWWWWLLDDLDDDW,WWWWWWWDWWLWWDWLW
+Sochaux,Lille,1-0,/match/sochaux/lillestrom/1990,1990,35,ligue_1,20,38,0,1,0,6,14,9,11,42,38,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDDWDDD,10,4,3,24,10,8,12,7,15,40,46,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWWWWWW,0,3,13,10,36,WWWDDWWWWLWWWLLDD,WWWDWWWDWDWWWWWW
+Auxerre,PSG,2-0,/match/auxerre/paris-saint-germain-fc/1990,1990,35,ligue_1,20,38,0,2,0,5,13,11,10,46,37,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWLWLWL,10,5,1,27,10,4,17,5,12,45,39,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWWWWLW,6,2,9,17,25,WDWWWDDWLDWDWWWW,DWLLDWWWWLLWWLWWL
+Nice,Monaco,1-0,/match/nice/monaco/1990,1990,35,ligue_1,20,38,0,1,0,20,7,13,14,31,45,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWDLDWW,6,6,5,23,19,3,13,15,6,33,23,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDLDWDW,3,10,4,12,12,DWDDDWLLLWDWLDWLW,DDDWDWDLLWWLDDDDD
+Nantes,Girondins Bordeaux,2-1,/match/nantes/bordeaux/1990,1990,35,ligue_1,20,38,0,2,1,10,11,12,11,35,29,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWDDWWW,8,6,3,21,9,1,20,7,7,47,21,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDWDLWW,5,6,6,12,17,WWWDDLWWWLDLDDWDW,DLLWLWDDDLLWDWWDW
+Montpellier,Caen,5-1,/match/montpellier-hsc/caen/1990,1990,35,ligue_1,20,38,0,5,1,14,11,7,16,42,45,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWDWWWW,11,4,2,35,15,11,10,10,14,30,42,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDDWLWD,0,5,12,7,28,WLWWWLWWDDDWDWWWW,WWWWWDWWWDDWWDDWW
+Auxerre,Olympique,0-2,/match/auxerre/olympique-marsella/1990,1990,36,ligue_1,20,38,2,0,2,4,14,11,10,48,37,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWLWLWLW,11,5,1,29,10,1,20,9,6,72,33,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWWWDWWW,6,6,6,27,22,WDWWWDDWLDWDWWWWW,LWDDLLWWLLDWDLDWDW
+Sporting Toulon,Lille,1-1,/match/sporting-toulon/lillestrom/1990,1990,36,ligue_1,20,38,1,1,1,16,11,10,14,32,47,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWDLWWWW,9,5,4,20,15,9,12,7,16,40,47,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWWWWWWW,0,3,14,10,37,WWWWLLDDDWLWDLWDWW,WWWDWWWDWDWWWWWWW
+Cannes,Nice,1-0,/match/as-cannes/nice/1990,1990,36,ligue_1,20,38,0,1,0,12,11,10,14,40,47,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWWLDWWW,9,8,0,32,14,19,8,13,14,32,45,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWDLDWWW,1,7,9,8,26,DWWDWWDDWWDDDWWDW,WWDDWDDWWWWLDWDDW
+Stade Brestois,Montpellier,1-1,/match/stade-brestois-29/montpellier-hsc/1990,1990,36,ligue_1,20,38,1,1,1,7,14,6,15,36,42,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWWWWWWD,12,3,2,26,10,11,12,7,16,47,46,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWDWWWWW,0,3,14,7,30,WWLWLWDWWDWDWWWWW,WWWDWWWWWWWWDWDWW
+FC Mulhouse,Olympique Lyonnais,4-4,/match/mulhouse/olympique-lyonnais/1990,1990,36,ligue_1,20,38,1,4,4,20,8,9,18,35,51,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDWDWDLW,8,4,5,24,16,14,13,9,13,37,36,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWDLWLWW,5,4,8,12,16,WWDLWWWLLWWWLDDDL,WLWWLWLDLDWWLDDWW
+PSG,Nantes,2-2,/match/paris-saint-germain-fc/nantes/1990,1990,36,ligue_1,20,38,1,2,2,6,17,5,13,45,41,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWWWWLWW,11,3,3,28,14,8,12,12,11,37,30,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWDDWWWW,3,6,8,14,20,WWWDWDLDLWWWLWWWW,WDDWWDDWLDWLWLDWW
+Saint-Étienne,Sochaux,0-2,/match/saint-etienne/sochaux/1990,1990,36,ligue_1,20,38,2,0,2,17,11,11,13,35,40,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWDDDWWW,8,5,4,20,14,5,15,9,11,43,38,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDDWDDDW,4,5,8,18,28,WLWWWLWLWDLDWDDDW,WWLWLLWWWWDDLDWDD
+Monaco,Metz,1-0,/match/monaco/metz/1990,1990,36,ligue_1,20,38,0,1,0,3,13,15,7,33,24,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDLDWDWW,10,5,2,21,11,13,8,17,10,31,32,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWDDDWWD,1,8,8,12,21,WDWLWDDWWDWWDWLWW,WWDWLDWWWDDDDWDDW
+Girondins Bordeaux,Toulouse,2-1,/match/bordeaux/toulouse-fc/1990,1990,36,ligue_1,20,38,0,2,1,2,20,7,8,48,23,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDWDLWWW,15,1,1,35,4,10,12,12,11,34,35,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDWDLWWW,4,5,8,12,25,WWWWWWWWWWWWWDWLW,WDDWWLDDLWLDWWWLW
+Caen,Racing Paris,1-0,/match/caen/racing-paris/1990,1990,36,ligue_1,20,38,0,1,0,15,10,10,15,31,47,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDDWLWDW,10,5,2,23,14,18,10,9,16,38,53,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWDDWDWW,2,2,13,11,36,WDWWWWDWLDWWWWDLD,WWWDWWWLWWWWLWDWW
+Olympique,Caen,1-0,/match/olympique-marsella/caen/1990,1990,37,ligue_1,20,38,0,1,0,1,21,9,6,74,33,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWWWDWWWL,14,3,0,45,11,13,11,10,15,32,47,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDDWLWDWW,0,5,13,8,33,WWWWWWDWDWWWDWWWW,WWWWWDWWWDDWWDDWWW
+Metz,Cannes,2-2,/match/metz/as-cannes/1990,1990,37,ligue_1,20,38,1,2,2,16,8,17,11,31,33,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWDDDWWDW,7,9,2,19,11,8,12,10,14,41,47,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWWLDWWWW,2,2,14,8,33,DWLDDDDWDWLWDWWDWD,WWWWWWWDWWLWWDWLWW
+Racing Paris,Stade Brestois,1-1,/match/racing-paris/stade-brestois-29/1990,1990,37,ligue_1,20,38,1,1,1,18,10,9,17,38,54,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWDDWDWWW,8,7,3,27,17,7,14,7,15,37,43,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWWWWWWDD,2,3,13,10,32,DWWDDWDWLDLWWLWDDW,WWWWWWWWLDLWWDWWWD
+Nantes,FC Mulhouse,3-2,/match/nantes/mulhouse/1990,1990,37,ligue_1,20,38,0,3,2,9,12,13,11,39,32,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWDDWWWWD,9,6,3,23,10,20,8,10,18,39,55,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDWDWDLWD,0,5,13,11,35,WWWDDLWWWLDLDDWDWW,WWWDDWWDWWDWDWWWWW
+Toulouse,PSG,4-1,/match/toulouse-fc/paris-saint-germain-fc/1990,1990,37,ligue_1,20,38,0,4,1,12,12,12,12,35,37,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDWDLWWWW,8,7,3,22,10,6,17,6,13,47,43,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWWWWLWWD,6,2,10,17,27,WWDDWWWWLLDDLDDDWW,DWLLDWWWWLLWWLWWLW
+Olympique Lyonnais,Auxerre,1-1,/match/olympique-lyonnais/auxerre/1990,1990,37,ligue_1,20,38,1,1,1,14,13,10,13,41,40,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWDLWLWWD,8,5,5,25,20,5,14,11,11,48,39,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWLWLWLWL,3,6,9,19,27,LWWLDWWLDWDDWDWLLW,WWWDWWWDDDDDWWWLLL
+Sochaux,Sporting Toulon,1-0,/match/sochaux/sporting-toulon/1990,1990,37,ligue_1,20,38,0,1,0,4,16,9,11,45,38,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDDWDDDWL,11,4,3,25,10,15,11,11,14,33,48,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWDLWWWWD,2,5,10,12,32,WWWDDWWWWLWWWLLDDW,DWDDWDWLWDWWWWLWW
+Montpellier,Monaco,0-0,/match/montpellier-hsc/monaco/1990,1990,37,ligue_1,20,38,1,0,0,10,12,8,16,48,47,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWDWWWWWD,12,4,2,40,16,3,14,15,7,34,24,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDLDWDWWW,3,10,5,12,13,WLWWWLWWDDDWDWWWWW,DDDWDWDLLWWLDDDDDW
+Nice,Girondins Bordeaux,1-0,/match/nice/bordeaux/1990,1990,37,ligue_1,20,38,0,1,0,19,8,13,15,32,46,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWDLDWWWW,7,6,5,24,19,2,21,7,8,50,24,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDWDLWWWW,5,6,7,13,19,DWDDDWLLLWDWLDWLWW,DLLWLWDDDLLWDWWDWW
+Lille,Saint-Étienne,2-2,/match/lillestrom/saint-etienne/1990,1990,37,ligue_1,20,38,1,2,2,11,12,8,16,41,48,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWWWWWWWD,12,4,2,30,10,17,11,11,14,35,42,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWDDDWWWL,3,6,9,15,26,WDLDWWWWWWLWWDDWWW,WWDWLWWLDLDWDDWDWW
+Olympique,Olympique Lyonnais,0-1,/match/olympique-marsella/olympique-lyonnais/1990,1990,38,ligue_1,20,38,2,0,1,1,22,9,6,75,33,LWWWDWDWLWLWWDWWLDLDWWWDWLDDWWWDWWWLW,15,3,0,46,11,14,13,11,13,42,41,LWWWLLWDWWLWWLLDDWLDDWDWWLDDWDLWLWWDD,5,5,8,16,20,WWWWWWDWDWWWDWWWWW,WLWWLWLDLDWWLDDWWD
+Saint-Étienne,Sporting Toulon,1-2,/match/saint-etienne/sporting-toulon/1990,1990,38,ligue_1,20,38,2,1,2,17,11,12,14,37,44,WWWDLWWLWWWWLLWDLLWDDLWDDWDDWDDDWWWLD,8,5,5,20,16,16,11,11,15,33,49,WDWWWDWDLWLDDWDLDWWLDWWDWLWWWDLWWWWDW,2,5,11,12,33,WLWWWLWLWDLDWDDDWL,DWDDWDWLWDWWWWLWWW
+Cannes,Montpellier,1-1,/match/as-cannes/montpellier-hsc/1990,1990,38,ligue_1,20,38,1,1,1,9,12,11,14,43,49,WDWWWWWDWWWWWDDWDWWLWWDWDDDWWWLDWWWWD,10,8,0,33,14,12,12,9,16,48,47,WWLWWWWDWWLWWWWDWDWDWWWDWWDWWDWWWWWDD,0,4,14,8,31,DWWDWWDDWWDDDWWDWW,WWWDWWWWWWWWDWDWWD
+FC Mulhouse,Toulouse,1-0,/match/mulhouse/toulouse-fc/1990,1990,38,ligue_1,20,38,0,1,0,20,8,10,19,41,58,WWWWWDDLDWWWWWDWLWLDWWWDWWLWDWDWDLWDW,8,5,5,28,20,10,13,12,12,39,38,WWWDDDDWWWWWLWDLDLLDWDLDLWDWDWDLWWWWW,4,5,9,13,27,WWDLWWWLLWWWLDDDLD,WDDWWLDDLWLDWWWLWW
+Auxerre,Nantes,0-0,/match/auxerre/nantes/1990,1990,38,ligue_1,20,38,1,0,0,5,14,12,11,49,40,WWWDWWDWWWWDWDDWDDLDDDWWDWWWWLWLWLWLD,11,5,2,29,12,7,13,13,11,42,34,WWWWDDDDWLWWDWDWWLLDDWLLDWDLWDDWWWWDW,3,7,8,16,22,WDWWWDDWLDWDWWWWWL,WDDWWDDWLDWLWLDWWD
+PSG,Nice,2-1,/match/paris-saint-germain-fc/nice/1990,1990,38,ligue_1,20,38,0,2,1,6,17,6,14,48,47,DWWWLWLDDWWDWWLWDLLLWWWWWLLWWWWWLWWDW,11,4,3,30,16,19,9,13,15,33,46,DWWWDDDDDWWLDLDLWWWDWWWLLDDWWDLDWWWWW,1,7,10,8,27,WWWDWDLDLWWWLWWWWD,WWDDWDDWWWWLDWDDWW
+Stade Brestois,Sochaux,1-0,/match/stade-brestois-29/sochaux/1990,1990,38,ligue_1,20,38,0,1,0,8,14,8,15,38,44,WWWWWWLWWWLWWWDLWDWLDWWDWWDWWWWWWWDDD,12,4,2,27,11,4,17,9,11,46,38,WWWWWLDWDLWLWWWWWLWWWWDWDLLLDDWDDDWLW,5,5,8,20,28,WWLWLWDWWDWDWWWWWD,WWLWLLWWWWDDLDWDDL
+Monaco,Racing Paris,4-0,/match/monaco/racing-paris/1990,1990,38,ligue_1,20,38,0,4,0,3,14,16,7,34,24,DWDDDWWDLWWDDLDLWWWWDLWDWDDWDLDWDWWWD,11,5,2,22,11,18,10,10,17,39,55,DWWWWWDDDWWWDWWLLDWLWWWWWLLWWDDWDWWWD,2,2,14,11,37,WDWLWDDWWDWWDWLWWW,WWWDWWWLWWWWLWDWWW
+Girondins Bordeaux,Metz,1-0,/match/bordeaux/metz/1990,1990,38,ligue_1,20,38,0,1,0,2,21,7,9,50,25,DWLWLWWWLWWDWDWDWLWLWWWDWWWWDWDLWWWWW,16,1,1,37,5,15,8,18,11,33,35,DWWWLDDWDDLDDWWDWWWLDWDDDWDWWDDDWWDWD,1,8,9,12,22,WWWWWWWWWWWWWDWLWW,WWDWLDWWWDDDDWDDWW
+Caen,Lille,2-0,/match/caen/lillestrom/1990,1990,38,ligue_1,20,38,0,2,0,13,11,10,16,32,48,WWWWDWWWWDWWWWDWWDLDDWWWWWDWDDWLWDWWW,11,5,2,24,14,11,12,9,16,43,50,WWDWLWDDWWWWWWWDWWWLDWWWWDWDWWWWWWWDD,0,4,14,11,38,WDWWWWDWLDWWWWDLDW,WWWDWWWDWDWWWWWWWD

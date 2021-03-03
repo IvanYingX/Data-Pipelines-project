@@ -1,0 +1,343 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Brescia,Perugia,1-1,/match/brescia/perugia/2019,2019,1,serie_b,19,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cremonese,Pescara,1-1,/match/us-cremonese/pescara-calcio/2019,2019,1,serie_b,19,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Salernitana,Palermo FC,0-0,/match/salernitana-calcio-1919/palermo/2019,2019,1,serie_b,19,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Venezia,Spezia,1-0,/match/venezia/asd-spezia/2019,2019,1,serie_b,19,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Hellas Verona,Padova,1-1,/match/hellas-verona-fc/calcio-padova/2019,2019,1,serie_b,19,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ascoli,Nuova Cosenza,1-1,/match/ascoli/nuova-cosenza/2019,2019,1,serie_b,19,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cittadella,Crotone,3-0,/match/as-cittadella/fc-crotone/2019,2019,1,serie_b,19,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Calcio Foggia,Carpi,4-2,/match/us-foggia/carpi/2019,2019,1,serie_b,19,38,0,4,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Benevento,Lecce,3-3,/match/benevento-calcio/lecce/2019,2019,1,serie_b,19,38,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Cremonese,2-2,/match/palermo/us-cremonese/2019,2019,2,serie_b,19,38,1,2,2,11,0,1,0,0,0,D,0,0,0,0,0,4,0,1,0,1,1,D,0,0,0,0,0,,
+Carpi,Cittadella,0-1,/match/carpi/as-cittadella/2019,2019,2,serie_b,19,38,2,0,1,16,0,0,1,2,4,W,0,0,0,0,0,3,1,0,0,3,0,W,0,0,0,0,0,,
+Nuova Cosenza,Hellas Verona,0-3,/match/nuova-cosenza/hellas-verona-fc/2019,2019,2,serie_b,19,38,2,0,3,12,0,1,0,1,1,D,0,0,0,0,0,6,0,1,0,1,1,D,0,0,0,0,0,,
+Padova,Venezia,1-0,/match/calcio-padova/venezia/2019,2019,2,serie_b,19,38,0,1,0,10,0,1,0,1,1,D,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Spezia,Brescia,3-2,/match/asd-spezia/brescia/2019,2019,2,serie_b,19,38,0,3,2,19,0,0,1,0,1,W,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+Pescara,Livorno,2-1,/match/pescara-calcio/livorno/2019,2019,2,serie_b,19,38,0,2,1,13,0,1,0,1,1,D,0,0,0,0,0,18,0,0,0,0,0,,0,0,0,0,0,,
+Crotone,Calcio Foggia,4-1,/match/fc-crotone/us-foggia/2019,2019,2,serie_b,19,38,0,4,1,17,0,0,1,0,3,W,0,0,0,0,0,2,1,0,0,4,2,W,0,0,0,0,0,,
+Lecce,Salernitana,2-2,/match/lecce/salernitana-calcio-1919/2019,2019,2,serie_b,19,38,1,2,2,15,0,1,0,3,3,D,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
+Perugia,Ascoli,2-0,/match/perugia/ascoli/2019,2019,2,serie_b,19,38,0,2,0,14,0,1,0,1,1,D,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
+Venezia,Benevento,2-3,/match/venezia/benevento-calcio/2019,2019,3,serie_b,19,38,2,2,3,7,1,0,1,1,1,WW,1,0,0,1,0,14,0,1,0,3,3,D,0,0,0,0,0,W,
+Ascoli,Lecce,1-0,/match/ascoli/lecce/2019,2019,3,serie_b,19,38,0,1,0,16,0,1,1,1,3,DW,0,1,0,1,1,12,0,2,0,5,5,DD,0,1,0,3,3,D,D
+Brescia,Pescara,1-1,/match/brescia/pescara-calcio/2019,2019,3,serie_b,19,38,1,1,1,15,0,1,1,3,4,DW,0,1,0,1,1,4,1,1,0,3,2,DW,0,1,0,1,1,D,D
+Cittadella,Nuova Cosenza,2-0,/match/as-cittadella/nuova-cosenza/2019,2019,3,serie_b,19,38,0,2,0,1,2,0,0,4,0,WL,1,0,0,3,0,17,0,1,1,1,4,DL,0,1,0,1,1,W,D
+Cremonese,Spezia,2-0,/match/us-cremonese/asd-spezia/2019,2019,3,serie_b,19,38,0,2,0,13,0,2,0,3,3,DD,0,1,0,1,1,9,1,0,1,3,3,WW,0,0,1,0,1,D,W
+Hellas Verona,Carpi,4-1,/match/hellas-verona-fc/carpi/2019,2019,3,serie_b,19,38,0,4,1,8,1,1,0,4,1,DL,0,1,0,1,1,18,0,0,2,2,5,WL,0,0,1,2,4,D,W
+Salernitana,Padova,3-0,/match/salernitana-calcio-1919/calcio-padova/2019,2019,3,serie_b,19,38,0,3,0,10,0,2,0,2,2,DD,0,1,0,0,0,2,1,1,0,2,1,DW,0,1,0,1,1,D,D
+Calcio Foggia,Palermo FC,1-2,/match/us-foggia/palermo/2019,2019,3,serie_b,19,38,2,1,2,5,1,0,1,5,6,WW,1,0,0,4,2,11,0,2,0,2,2,DD,0,1,0,0,0,W,D
+Livorno,Crotone,0-1,/match/livorno/fc-crotone/2019,2019,3,serie_b,19,38,2,0,1,19,0,0,1,1,2,W,0,0,0,0,0,6,1,0,1,4,4,WW,0,0,1,0,3,,W
+Benevento,Salernitana,4-0,/match/benevento-calcio/salernitana-calcio-1919/2019,2019,4,serie_b,19,38,0,4,0,14,1,1,0,6,5,DL,0,1,0,3,3,4,1,2,0,5,2,DDW,0,1,0,2,2,D,D
+Carpi,Brescia,1-1,/match/carpi/brescia/2019,2019,4,serie_b,19,38,1,1,1,18,0,0,3,3,9,WLW,0,0,1,0,1,15,0,2,1,4,5,DWD,0,0,1,2,3,L,W
+Crotone,Hellas Verona,1-2,/match/fc-crotone/hellas-verona-fc/2019,2019,4,serie_b,19,38,2,1,2,5,2,0,1,5,4,WWL,1,0,0,4,1,2,2,1,0,8,2,DLW,1,0,0,3,0,W,L
+Lecce,Venezia,2-1,/match/lecce/venezia/2019,2019,4,serie_b,19,38,0,2,1,16,0,2,1,5,6,DDW,0,1,0,2,2,12,1,0,2,3,4,WWL,0,0,1,0,1,D,W
+Palermo FC,Perugia,4-1,/match/palermo/perugia/2019,2019,4,serie_b,19,38,0,4,1,9,1,2,0,4,3,DDL,0,1,0,2,2,10,1,1,0,3,1,DW,0,1,0,1,1,D,D
+Pescara,Calcio Foggia,1-0,/match/pescara-calcio/us-foggia/2019,2019,4,serie_b,19,38,0,1,0,6,1,2,0,4,3,DWD,1,0,0,2,1,11,1,0,2,6,8,WWL,0,0,1,1,4,W,W
+Spezia,Cittadella,1-0,/match/asd-spezia/as-cittadella/2019,2019,4,serie_b,19,38,0,1,0,13,1,0,2,3,5,WWW,1,0,0,3,2,1,3,0,0,6,0,WLW,1,0,0,1,0,W,L
+Nuova Cosenza,Livorno,1-1,/match/nuova-cosenza/livorno/2019,2019,4,serie_b,19,38,1,1,1,17,0,1,2,1,6,DLW,0,0,1,0,3,19,0,0,2,1,3,WL,0,0,1,1,2,L,W
+Padova,Cremonese,1-1,/match/calcio-padova/us-cremonese/2019,2019,4,serie_b,19,38,1,1,1,8,1,1,1,2,4,DWW,1,0,0,1,0,3,1,2,0,5,3,DDW,0,1,0,2,2,W,D
+Brescia,Palermo FC,2-1,/match/brescia/palermo/2019,2019,5,serie_b,19,38,0,2,1,13,0,3,1,5,6,DWDD,0,2,0,2,2,4,2,2,0,8,4,DDLW,1,1,0,2,1,DD,DL
+Cittadella,Benevento,0-1,/match/as-cittadella/benevento-calcio/2019,2019,5,serie_b,19,38,2,0,1,1,3,0,1,6,1,WLWW,2,0,0,5,0,5,2,1,0,10,5,DLW,1,0,0,3,2,WW,L
+Hellas Verona,Spezia,2-1,/match/hellas-verona-fc/asd-spezia/2019,2019,5,serie_b,19,38,0,2,1,3,3,1,0,10,3,DLWL,1,1,0,5,2,7,2,0,2,4,5,WWWW,0,0,2,0,3,DW,WW
+Livorno,Lecce,0-3,/match/livorno/lecce/2019,2019,5,serie_b,19,38,2,0,3,19,0,1,2,2,4,WLD,0,0,1,0,1,10,1,2,1,7,7,DDWW,0,1,1,3,4,L,DW
+Perugia,Carpi,0-1,/match/perugia/carpi/2019,2019,5,serie_b,19,38,2,0,1,14,1,1,1,4,5,DWW,1,0,0,2,0,18,0,1,3,4,10,WLWD,0,0,2,3,8,W,WW
+Pescara,Crotone,2-1,/match/pescara-calcio/fc-crotone/2019,2019,5,serie_b,19,38,0,2,1,2,2,2,0,5,3,DWDW,2,0,0,3,1,11,2,0,2,6,6,WWLL,1,0,1,1,3,WW,WL
+Salernitana,Ascoli,1-1,/match/salernitana-calcio-1919/ascoli/2019,2019,5,serie_b,19,38,1,1,1,8,1,2,1,5,6,DDWW,1,1,0,3,0,12,1,1,1,2,3,DWW,0,0,1,0,2,DW,W
+Cremonese,Nuova Cosenza,2-0,/match/us-cremonese/nuova-cosenza/2019,2019,5,serie_b,19,38,0,2,0,6,1,3,0,6,4,DDWD,1,1,0,3,1,17,0,2,2,2,7,DLWD,0,1,1,1,3,DW,DW
+Calcio Foggia,Padova,2-1,/match/us-foggia/calcio-padova/2019,2019,5,serie_b,19,38,0,2,1,16,1,0,3,6,9,WWLW,1,0,1,5,4,9,1,2,1,3,5,DWWD,0,1,1,1,4,WL,DW
+Crotone,Brescia,2-2,/match/fc-crotone/brescia/2019,2019,6,serie_b,19,38,1,2,2,14,2,0,3,7,8,WWLLW,1,0,1,5,3,7,1,3,1,7,7,DWDDW,0,1,1,3,4,WL,WD
+Lecce,Cittadella,1-1,/match/lecce/as-cittadella/2019,2019,6,serie_b,19,38,1,1,1,8,2,2,1,10,7,DDWWL,1,1,0,4,3,4,3,0,2,6,2,WLWWL,1,0,1,1,1,DW,LW
+Salernitana,Hellas Verona,1-0,/match/salernitana-calcio-1919/hellas-verona-fc/2019,2019,6,serie_b,19,38,0,1,0,6,1,3,1,6,7,DDWWD,1,2,0,4,1,1,4,1,0,12,4,DLWLW,2,0,0,5,1,DWD,LL
+Spezia,Carpi,2-1,/match/asd-spezia/carpi/2019,2019,6,serie_b,19,38,0,2,1,10,2,0,3,5,7,WWWWW,2,0,0,4,2,17,1,1,3,5,10,WLWDL,1,0,2,4,8,WW,WWL
+Venezia,Livorno,1-1,/match/venezia/livorno/2019,2019,6,serie_b,19,38,1,1,1,16,1,0,3,4,6,WWLW,1,0,1,3,3,19,0,1,3,2,7,WLDL,0,1,1,2,3,WL,WD
+Ascoli,Cremonese,0-0,/match/ascoli/us-cremonese/2019,2019,6,serie_b,19,38,1,0,0,13,1,2,1,3,4,DWWD,1,1,0,2,1,3,2,3,0,8,4,DDWDW,0,2,0,3,3,DW,DD
+Nuova Cosenza,Perugia,1-1,/match/nuova-cosenza/perugia/2019,2019,6,serie_b,19,38,1,1,1,18,0,2,3,2,9,DLWDW,0,1,1,1,4,15,1,1,2,4,6,DWWL,0,1,1,2,5,LD,DW
+Benevento,Calcio Foggia,1-3,/match/benevento-calcio/us-foggia/2019,2019,6,serie_b,19,38,2,1,3,5,3,1,0,11,5,DLWL,1,1,0,7,3,11,2,0,3,8,10,WWLWW,0,0,2,1,5,DW,WW
+Padova,Pescara,2-2,/match/calcio-padova/pescara-calcio/2019,2019,6,serie_b,19,38,1,2,2,12,1,2,2,4,7,DWWDW,1,1,0,2,1,2,3,2,0,7,4,DWDWW,0,2,0,2,2,WD,DD
+Hellas Verona,Lecce,0-2,/match/hellas-verona-fc/lecce/2019,2019,7,serie_b,19,38,2,0,2,2,4,1,1,12,5,DLWLWW,2,1,0,7,3,6,2,3,1,11,8,DDWWLD,1,1,1,6,4,DWW,DWL
+Carpi,Nuova Cosenza,1-1,/match/carpi/nuova-cosenza/2019,2019,7,serie_b,19,38,1,1,1,18,1,1,4,6,12,WLWDLW,0,1,1,1,2,17,0,3,3,3,10,DLWDWD,0,1,2,1,5,LD,DWW
+Cremonese,Salernitana,0-0,/match/us-cremonese/salernitana-calcio-1919/2019,2019,7,serie_b,19,38,1,0,0,4,2,4,0,8,4,DDWDWD,2,1,0,5,1,3,2,3,1,7,7,DDWWDW,0,1,1,2,6,DWW,DW
+Calcio Foggia,Ascoli,3-2,/match/us-foggia/ascoli/2019,2019,7,serie_b,19,38,0,3,2,10,3,0,3,11,11,WWLWWL,2,0,1,7,5,13,1,3,1,3,4,DWWDD,0,1,1,1,3,WLW,WD
+Pescara,Benevento,2-1,/match/pescara-calcio/benevento-calcio/2019,2019,7,serie_b,19,38,0,2,1,1,3,3,0,9,6,DWDWWD,3,0,0,5,2,8,3,1,1,12,8,DLWLL,2,0,0,4,2,WWW,LL
+Perugia,Venezia,1-0,/match/perugia/venezia/2019,2019,7,serie_b,19,38,0,1,0,15,1,2,2,5,7,DWWLD,1,0,1,2,1,16,1,1,3,5,7,WWLWD,0,0,2,1,3,WL,WW
+Brescia,Padova,4-1,/match/brescia/calcio-padova/2019,2019,7,serie_b,19,38,0,4,1,9,1,4,1,9,9,DWDDWD,1,2,0,4,3,12,1,3,2,6,9,DWWDWD,0,1,2,2,6,DDW,DWW
+Livorno,Spezia,1-3,/match/livorno/asd-spezia/2019,2019,7,serie_b,19,38,2,1,3,19,0,2,3,3,8,WLDLD,0,0,2,0,4,5,3,0,3,7,8,WWWWWW,0,0,3,1,5,LL,WWW
+Palermo FC,Crotone,1-0,/match/palermo/fc-crotone/2019,2019,7,serie_b,19,38,0,1,0,11,2,2,1,9,6,DDLWW,1,1,0,6,3,14,2,1,3,9,10,WWLLWD,1,0,2,2,5,DW,WLW
+Spezia,Pescara,1-3,/match/asd-spezia/pescara-calcio/2019,2019,8,serie_b,19,38,2,1,3,6,4,0,3,10,9,WWWWWWL,3,0,0,6,3,1,4,3,0,11,7,DWDWWDW,0,3,0,4,4,WWW,DDD
+Ascoli,Carpi,1-0,/match/ascoli/carpi/2019,2019,8,serie_b,19,38,0,1,0,14,1,3,2,5,7,DWWDDW,1,2,0,2,1,18,1,2,4,7,13,WLWDLWD,1,0,3,5,10,DWD,WWLW
+Cittadella,Brescia,2-2,/match/as-cittadella/brescia/2019,2019,8,serie_b,19,38,1,2,2,10,3,1,2,7,3,WLWWLD,2,0,1,5,1,3,2,4,1,13,10,DWDDWDW,0,2,1,5,6,WWL,WDD
+Nuova Cosenza,Calcio Foggia,2-0,/match/nuova-cosenza/us-foggia/2019,2019,8,serie_b,19,38,0,2,0,17,0,4,3,4,11,DLWDWDD,0,2,1,2,5,5,4,0,3,14,13,WWLWWLW,1,0,2,4,6,LDD,WWL
+Crotone,Padova,2-1,/match/fc-crotone/calcio-padova/2019,2019,8,serie_b,19,38,0,2,1,15,2,1,4,9,11,WWLLWDW,1,1,1,7,5,13,1,3,3,7,13,DWWDWDW,0,1,3,3,10,WLD,DWWW
+Salernitana,Perugia,2-1,/match/salernitana-calcio-1919/perugia/2019,2019,8,serie_b,19,38,0,2,1,7,2,4,1,7,7,DDWWDWD,2,2,0,5,1,12,2,2,2,6,7,DWWLDW,0,2,1,3,6,DWDW,DWD
+Venezia,Hellas Verona,1-1,/match/venezia/hellas-verona-fc/2019,2019,8,serie_b,19,38,1,1,1,16,1,1,4,5,8,WWLWDW,1,1,1,4,4,4,4,1,2,12,7,DLWLWWL,2,0,1,5,2,WLD,LLW
+Lecce,Palermo FC,1-2,/match/lecce/palermo/2019,2019,8,serie_b,19,38,2,1,2,8,3,3,1,13,8,DDWWLDL,1,2,0,5,4,9,3,2,1,10,6,DDLWWW,1,1,1,3,3,DWD,DLW
+Benevento,Livorno,1-0,/match/benevento-calcio/livorno/2019,2019,8,serie_b,19,38,0,1,0,11,3,1,2,13,10,DLWLLW,1,1,1,8,6,19,0,2,4,4,11,WLDLDL,0,2,1,3,4,DWL,WDD
+Palermo FC,Venezia,1-1,/match/palermo/venezia/2019,2019,9,serie_b,19,38,1,1,1,5,4,2,1,12,7,DDLWWWL,2,1,0,7,3,17,1,2,4,6,9,WWLWDWD,0,0,3,1,4,DWW,WWW
+Benevento,Cremonese,2-1,/match/benevento-calcio/us-cremonese/2019,2019,9,serie_b,19,38,0,2,1,7,4,1,2,14,10,DLWLLWW,2,1,1,9,6,6,2,5,0,8,4,DDWDWDD,0,3,0,3,3,DWLW,DDD
+Brescia,Nuova Cosenza,1-0,/match/brescia/nuova-cosenza/2019,2019,9,serie_b,19,38,0,1,0,3,2,5,1,15,12,DWDDWDWD,2,2,0,8,4,15,1,4,3,6,11,DLWDWDDW,0,2,2,2,6,DDWW,DWWD
+Calcio Foggia,Lecce,2-2,/match/us-foggia/lecce/2019,2019,9,serie_b,19,38,1,2,2,8,4,0,4,14,15,WWLWWLWW,3,0,1,10,7,12,3,3,2,14,10,DDWWLDLL,2,1,1,8,4,WLWW,DWLL
+Livorno,Ascoli,1-0,/match/livorno/ascoli/2019,2019,9,serie_b,19,38,0,1,0,19,0,2,5,4,12,WLDLDLW,0,0,3,1,7,10,2,3,2,6,7,DWWDDWW,0,1,2,3,6,LLL,WDW
+Padova,Spezia,0-0,/match/calcio-padova/asd-spezia/2019,2019,9,serie_b,19,38,1,0,0,16,1,3,4,8,15,DWWDWDWW,1,2,0,4,3,9,4,0,4,11,12,WWWWWWLL,1,0,3,4,6,WDD,WWWL
+Pescara,Cittadella,0-1,/match/pescara-calcio/as-cittadella/2019,2019,9,serie_b,19,38,2,0,1,1,5,3,0,14,8,DWDWWDWL,4,0,0,7,3,11,3,2,2,9,5,WLWWLDD,1,1,1,2,2,WWWW,LWD
+Hellas Verona,Perugia,2-1,/match/hellas-verona-fc/perugia/2019,2019,9,serie_b,19,38,0,2,1,4,4,2,2,13,8,DLWLWWLD,2,1,1,7,5,14,2,2,3,7,9,DWWLDWW,0,2,2,4,8,DWWL,DWDW
+Crotone,Salernitana,1-1,/match/fc-crotone/salernitana-calcio-1919/2019,2019,9,serie_b,19,38,1,1,1,13,3,1,4,11,12,WWLLWDWW,2,1,1,9,6,2,3,4,1,9,8,DDWWDWDW,0,2,1,2,6,WLDW,DWD
+Ascoli,Hellas Verona,1-0,/match/ascoli/hellas-verona-fc/2019,2019,10,serie_b,19,38,0,1,0,13,2,3,3,6,8,DWWDDWWW,2,2,0,3,1,3,5,2,2,15,9,DLWLWWLDW,2,1,1,6,3,DWDW,LLWD
+Carpi,Palermo FC,0-3,/match/carpi/palermo/2019,2019,10,serie_b,19,38,2,0,3,18,1,2,5,7,14,WLWDLWDW,0,2,1,2,3,6,4,3,1,13,8,DDLWWWLD,2,1,1,5,4,LDD,DLWL
+Cittadella,Calcio Foggia,1-1,/match/as-cittadella/us-foggia/2019,2019,10,serie_b,19,38,1,1,1,10,4,2,2,10,5,WLWWLDDL,2,1,1,7,3,7,4,1,4,16,17,WWLWWLWWD,1,0,3,4,8,WWLD,WWLW
+Nuova Cosenza,Pescara,1-1,/match/nuova-cosenza/pescara-calcio/2019,2019,10,serie_b,19,38,1,1,1,16,1,4,4,6,12,DLWDWDDWW,1,2,1,4,5,1,5,3,1,14,9,DWDWWDWLL,1,3,0,7,5,LDDW,DDDL
+Cremonese,Venezia,0-1,/match/us-cremonese/venezia/2019,2019,10,serie_b,19,38,2,0,1,8,2,5,1,9,6,DDWDWDDW,2,2,0,5,1,17,1,3,4,7,10,WWLWDWDD,0,1,3,2,5,DWWD,WWWD
+Perugia,Padova,3-2,/match/perugia/calcio-padova/2019,2019,10,serie_b,19,38,0,3,2,15,2,2,4,8,11,DWWLDWWW,2,0,1,3,1,14,1,4,4,8,15,DWWDWDWWD,0,1,4,4,12,WLW,DWWWW
+Salernitana,Livorno,3-1,/match/salernitana-calcio-1919/livorno/2019,2019,10,serie_b,19,38,0,3,1,4,3,5,1,10,9,DDWWDWDWD,3,2,0,7,2,19,1,2,5,5,12,WLDLDLWW,0,2,2,3,5,DWDWW,WDDW
+Lecce,Crotone,1-0,/match/lecce/fc-crotone/2019,2019,10,serie_b,19,38,0,1,0,12,3,4,2,16,12,DDWWLDLLD,1,2,1,6,6,11,3,2,4,12,13,WWLLWDWWD,1,0,3,2,6,DWDL,WLWW
+Spezia,Benevento,3-1,/match/asd-spezia/benevento-calcio/2019,2019,10,serie_b,19,38,0,3,1,9,4,1,4,11,12,WWWWWWLLD,3,0,1,7,6,5,5,1,2,16,11,DLWLLWWW,2,0,1,5,4,WWWL,LLW
+Hellas Verona,Cremonese,1-1,/match/hellas-verona-fc/us-cremonese/2019,2019,11,serie_b,19,38,1,1,1,4,5,2,3,15,10,DLWLWWLDWW,3,1,1,9,6,12,2,5,2,9,7,DDWDWDDWL,0,3,1,4,5,DWWLW,DDDW
+Calcio Foggia,Brescia,2-2,/match/us-foggia/brescia/2019,2019,11,serie_b,19,38,1,2,2,11,4,2,4,17,18,WWLWWLWWDD,3,1,1,12,9,3,3,5,1,16,12,DWDDWDWDW,0,3,1,7,8,WLWWD,WDDD
+Padova,Cittadella,0-0,/match/calcio-padova/as-cittadella/2019,2019,11,serie_b,19,38,1,0,0,16,1,4,5,10,18,DWWDWDWWDW,1,3,0,4,3,10,4,3,2,11,6,WLWWLDDLD,2,1,1,3,2,WDDD,LWDL
+Palermo FC,Nuova Cosenza,2-1,/match/palermo/nuova-cosenza/2019,2019,11,serie_b,19,38,0,2,1,5,5,3,1,16,8,DDLWWWLDL,2,2,0,8,4,15,1,5,4,7,13,DLWDWDDWWD,0,2,3,2,7,DWWD,DWWDW
+Benevento,Ascoli,1-2,/match/benevento-calcio/ascoli/2019,2019,11,serie_b,19,38,2,1,2,7,5,1,3,17,14,DLWLLWWWW,3,1,1,11,7,9,3,3,3,7,8,DWWDDWWWW,0,1,3,3,7,DWLWW,WDWW
+Crotone,Carpi,1-1,/match/fc-crotone/carpi/2019,2019,11,serie_b,19,38,1,1,1,13,3,2,5,12,14,WWLLWDWWDW,2,2,1,10,7,18,1,2,6,7,17,WLWDLWDWL,1,0,4,5,11,WLDWD,WWLWW
+Venezia,Salernitana,1-0,/match/venezia/salernitana-calcio-1919/2019,2019,11,serie_b,19,38,0,1,0,17,2,3,4,8,10,WWLWDWDDL,1,2,1,5,5,1,4,5,1,13,10,DDWWDWDWDW,0,3,1,3,7,WLDD,DWDD
+Livorno,Perugia,2-3,/match/livorno/perugia/2019,2019,11,serie_b,19,38,2,2,3,19,1,2,6,6,15,WLDLDLWWW,1,0,3,2,7,14,3,2,4,11,13,DWWLDWWWW,0,2,3,5,10,LLLW,DWDWW
+Pescara,Lecce,4-2,/match/pescara-calcio/lecce/2019,2019,11,serie_b,19,38,0,4,2,2,5,4,1,15,10,DWDWWDWLLD,4,0,1,7,4,8,4,4,2,17,12,DDWWLDLLDW,2,2,1,10,6,WWWWL,DWLLD
+Perugia,Crotone,2-1,/match/perugia/fc-crotone/2019,2019,12,serie_b,19,38,0,2,1,14,4,2,4,14,15,DWWLDWWWWL,3,0,1,6,3,13,3,3,5,13,15,WWLLWDWWDWD,1,0,4,2,7,WLWW,WLWWW
+Ascoli,Padova,2-3,/match/ascoli/calcio-padova/2019,2019,12,serie_b,19,38,2,2,3,6,4,3,3,9,9,DWWDDWWWWL,3,2,0,4,1,16,1,5,5,10,18,DWWDWDWWDWD,0,1,5,6,15,DWDWW,DWWWWW
+Carpi,Benevento,2-2,/match/carpi/benevento-calcio/2019,2019,12,serie_b,19,38,1,2,2,18,1,3,6,8,18,WLWDLWDWLD,0,2,2,2,6,11,5,1,4,18,16,DLWLLWWWWL,2,0,2,6,7,LDDL,LLWW
+Cremonese,Livorno,1-0,/match/us-cremonese/livorno/2019,2019,12,serie_b,19,38,0,1,0,12,2,6,2,10,8,DDWDWDDWLD,2,2,1,5,2,19,1,2,7,8,18,WLDLDLWWWL,0,2,3,4,8,DWWDL,WDDWW
+Salernitana,Spezia,1-0,/match/salernitana-calcio-1919/asd-spezia/2019,2019,12,serie_b,19,38,0,1,0,2,4,5,2,13,11,DDWWDWDWDWW,4,2,0,10,3,7,5,1,4,14,13,WWWWWWLLDW,1,1,3,4,6,DWDWWW,WWWLD
+Nuova Cosenza,Lecce,2-3,/match/nuova-cosenza/lecce/2019,2019,12,serie_b,19,38,2,2,3,17,1,5,5,8,15,DLWDWDDWWDW,1,3,1,5,6,10,4,4,3,19,16,DDWWLDLLDWW,2,2,2,12,10,LDDWD,DWLLDW
+Brescia,Hellas Verona,4-2,/match/brescia/hellas-verona-fc/2019,2019,12,serie_b,19,38,0,4,2,5,3,6,1,18,14,DWDDWDWDWD,3,2,0,9,4,4,5,3,3,16,11,DLWLWWLDWWD,2,1,2,6,4,DDWWW,LLWDW
+Cittadella,Venezia,3-2,/match/as-cittadella/venezia/2019,2019,12,serie_b,19,38,0,3,2,9,4,4,2,11,6,WLWWLDDLDD,2,2,1,8,4,15,3,3,4,9,10,WWLWDWDDLW,1,1,3,3,5,WWLDD,WWWDL
+Palermo FC,Pescara,3-0,/match/palermo/pescara-calcio/2019,2019,12,serie_b,19,38,0,3,0,3,6,3,1,18,9,DDLWWWLDLW,3,2,0,10,5,1,6,4,1,19,12,DWDWWDWLLDW,1,4,0,8,6,DWWDW,DDDLD
+Hellas Verona,Palermo FC,1-1,/match/hellas-verona-fc/palermo/2019,2019,13,serie_b,19,38,1,1,1,6,5,3,4,18,15,DLWLWWLDWWDW,3,2,1,10,7,1,7,3,1,21,9,DDLWWWLDLWW,3,1,1,8,4,DWWLWD,DLWLL
+Livorno,Cittadella,0-0,/match/livorno/as-cittadella/2019,2019,13,serie_b,19,38,1,0,0,19,1,2,8,8,19,WLDLDLWWWLW,1,0,4,4,10,5,5,4,2,14,8,WLWWLDDLDDW,2,2,1,3,2,LLLWL,LWDLD
+Padova,Carpi,0-1,/match/calcio-padova/carpi/2019,2019,13,serie_b,19,38,2,0,1,16,2,5,5,13,20,DWWDWDWWDWDL,1,4,0,4,3,18,1,4,6,10,20,WLWDLWDWLDD,1,1,4,6,12,WDDDD,WWLWWD
+Venezia,Brescia,2-1,/match/venezia/brescia/2019,2019,13,serie_b,19,38,0,2,1,15,3,3,5,11,13,WWLWDWDDLWW,2,2,1,6,5,4,4,6,1,22,16,DWDDWDWDWDW,0,4,1,9,10,WLDDW,WDDDD
+Benevento,Perugia,2-1,/match/benevento-calcio/perugia/2019,2019,13,serie_b,19,38,0,2,1,11,5,2,4,20,18,DLWLLWWWWLD,3,1,2,12,9,7,5,2,4,16,16,DWWLDWWWWLW,1,2,3,8,12,DWLWWL,DWDWWL
+Pescara,Ascoli,1-1,/match/pescara-calcio/ascoli/2019,2019,13,serie_b,19,38,1,1,1,3,6,4,2,19,15,DWDWWDWLLDWW,5,0,1,11,6,13,4,3,4,11,12,DWWDDWWWWLL,1,1,3,5,8,WWWWLW,WDWWL
+Spezia,Calcio Foggia,0-0,/match/asd-spezia/us-foggia/2019,2019,13,serie_b,19,38,1,0,0,12,5,1,5,14,14,WWWWWWLLDWW,4,0,1,10,7,10,4,3,4,19,20,WWLWWLWWDDD,1,1,3,5,9,WWWLW,WWLWD
+Lecce,Cremonese,2-0,/match/lecce/us-cremonese/2019,2019,13,serie_b,19,38,0,2,0,9,5,4,3,22,18,DDWWLDLLDWWL,2,2,1,7,6,8,3,6,2,11,8,DDWDWDDWLDW,0,4,1,5,6,DWDLW,DDDWD
+Crotone,Nuova Cosenza,0-1,/match/fc-crotone/nuova-cosenza/2019,2019,13,serie_b,19,38,2,0,1,14,3,3,6,14,17,WWLLWDWWDWDW,2,3,1,11,8,17,1,5,6,10,18,DLWDWDDWWDWL,0,2,4,3,9,WLDWDD,DWWDWW
+Palermo FC,Benevento,0-0,/match/palermo/benevento-calcio/2019,2019,14,serie_b,19,38,1,0,0,1,7,4,1,22,10,DDLWWWLDLWWD,4,2,0,13,5,6,6,2,4,22,19,DLWLLWWWWLDW,2,1,2,8,9,DWWDWW,LLWWD
+Cittadella,Salernitana,3-1,/match/as-cittadella/salernitana-calcio-1919/2019,2019,14,serie_b,19,38,0,3,1,7,5,5,2,14,8,WLWWLDDLDDWD,3,2,1,11,6,3,5,5,2,14,11,DDWWDWDWDWWW,0,3,2,3,8,WWLDDW,DWDDW
+Nuova Cosenza,Padova,2-1,/match/nuova-cosenza/calcio-padova/2019,2019,14,serie_b,19,38,0,2,1,17,2,5,6,11,18,DLWDWDDWWDWLL,1,3,2,7,9,16,2,5,6,13,21,DWWDWDWWDWDLL,1,1,5,9,17,LDDWDL,DWWWWWL
+Cremonese,Crotone,1-0,/match/us-cremonese/fc-crotone/2019,2019,14,serie_b,19,38,0,1,0,12,3,6,3,11,10,DDWDWDDWLDWW,3,2,1,6,2,15,3,3,7,14,18,WWLLWDWWDWDWL,1,0,5,3,9,DWWDLW,WLWWWW
+Ascoli,Spezia,3-1,/match/ascoli/asd-spezia/2019,2019,14,serie_b,19,38,0,3,1,10,4,4,4,12,13,DWWDDWWWWLLD,3,2,1,6,4,9,5,2,5,14,14,WWWWWWLLDWWD,1,1,4,4,7,DWDWWL,WWWLDW
+Brescia,Livorno,2-0,/match/brescia/livorno/2019,2019,14,serie_b,19,38,0,2,0,4,4,6,2,23,18,DWDDWDWDWDWW,4,2,0,13,6,19,1,3,8,8,19,WLDLDLWWWLWD,0,2,4,4,9,DDWWWW,WDDWWW
+Carpi,Lecce,0-1,/match/carpi/lecce/2019,2019,14,serie_b,19,38,2,0,1,18,2,4,6,11,20,WLWDLWDWLDDL,0,3,2,4,8,5,6,4,3,24,18,DDWWLDLLDWWLW,3,2,2,15,12,LDDLD,DWLLDWL
+Perugia,Pescara,2-1,/match/perugia/pescara-calcio/2019,2019,14,serie_b,19,38,0,2,1,13,5,2,5,17,18,DWWLDWWWWLWW,4,0,1,8,4,2,6,5,2,20,16,DWDWWDWLLDWWD,1,4,1,8,9,WLWWW,DDDLDW
+Calcio Foggia,Venezia,1-1,/match/us-foggia/venezia/2019,2019,14,serie_b,19,38,1,1,1,11,4,4,4,19,20,WWLWWLWWDDDD,3,2,1,14,11,14,4,3,5,13,14,WWLWDWDDLWWW,1,1,4,5,8,WLWWDD,WWWDLW
+Pescara,Carpi,2-0,/match/pescara-calcio/carpi/2019,2019,15,serie_b,19,38,0,2,0,2,6,5,3,21,18,DWDWWDWLLDWWDW,5,1,1,12,7,18,2,4,7,11,21,WLWDLWDWLDDLL,2,1,4,7,12,WWWWLWD,WWLWWDL
+Padova,Palermo FC,1-3,/match/calcio-padova/palermo/2019,2019,15,serie_b,19,38,2,1,3,17,2,5,7,14,23,DWWDWDWWDWDLLW,1,4,1,4,4,1,7,5,1,22,10,DDLWWWLDLWWDD,3,2,1,9,5,WDDDDL,DLWLLD
+Lecce,Perugia,0-0,/match/lecce/perugia/2019,2019,15,serie_b,19,38,1,0,0,6,7,4,3,25,18,DDWWLDLLDWWLWL,3,2,1,9,6,7,6,2,5,19,19,DWWLDWWWWLWWW,1,2,4,9,14,DWDLWW,DWDWWLW
+Spezia,Nuova Cosenza,4-0,/match/asd-spezia/nuova-cosenza/2019,2019,15,serie_b,19,38,0,4,0,13,5,2,6,15,17,WWWWWWLLDWWDW,4,1,1,10,7,15,3,5,6,13,19,DLWDWDDWWDWLLW,1,2,4,4,9,WWWLWD,DWWDWWL
+Venezia,Ascoli,1-0,/match/venezia/ascoli/2019,2019,15,serie_b,19,38,0,1,0,14,4,4,5,14,15,WWLWDWDDLWWWD,3,2,1,8,6,9,5,4,4,15,14,DWWDDWWWWLLDW,1,2,3,6,9,WLDDWW,WDWWLD
+Cremonese,Cittadella,0-0,/match/us-cremonese/as-cittadella/2019,2019,15,serie_b,19,38,1,0,0,8,4,6,3,12,10,DDWDWDDWLDWWW,4,2,1,7,2,5,6,5,2,17,9,WLWWLDDLDDWDW,2,3,1,3,2,DWWDLWW,LWDLDD
+Livorno,Calcio Foggia,3-1,/match/livorno/us-foggia/2019,2019,15,serie_b,19,38,0,3,1,19,1,3,9,8,21,WLDLDLWWWLWDW,1,1,4,4,10,12,4,5,4,20,21,WWLWWLWWDDDDD,1,2,3,5,9,LLLWLD,WWLWDD
+Benevento,Hellas Verona,0-1,/match/benevento-calcio/hellas-verona-fc/2019,2019,15,serie_b,19,38,2,0,1,10,6,3,4,22,19,DLWLLWWWWLDWD,4,1,2,14,10,11,5,4,4,19,16,DLWLWWLDWWDWD,2,1,3,8,8,DWLWWLW,LLWDWW
+Salernitana,Brescia,1-3,/match/salernitana-calcio-1919/brescia/2019,2019,15,serie_b,19,38,2,1,3,4,5,5,3,15,14,DDWWDWDWDWWWW,5,2,0,11,3,3,5,6,2,25,18,DWDDWDWDWDWWW,0,4,2,10,12,DWDWWWW,WDDDDW
+Calcio Foggia,Cremonese,3-1,/match/us-foggia/us-cremonese/2019,2019,16,serie_b,19,38,0,3,1,14,4,5,5,21,24,WWLWWLWWDDDDDW,3,3,1,15,12,7,4,7,3,12,10,DDWDWDDWLDWWWD,0,4,2,5,8,WLWWDDD,DDDWDW
+Ascoli,Cittadella,1-1,/match/ascoli/as-cittadella/2019,2019,16,serie_b,19,38,1,1,1,13,5,4,5,15,15,DWWDDWWWWLLDWW,4,2,1,9,5,4,6,6,2,17,9,WLWWLDDLDDWDWD,2,4,1,3,2,DWDWWLW,LWDLDDD
+Palermo FC,Livorno,1-1,/match/palermo/livorno/2019,2019,16,serie_b,19,38,1,1,1,1,8,5,1,25,11,DDLWWWLDLWWDDL,4,3,0,13,5,18,2,3,9,11,22,WLDLDLWWWLWDWW,0,2,5,4,11,DWWDWWD,WDDWWWW
+Perugia,Spezia,1-1,/match/perugia/asd-spezia/2019,2019,16,serie_b,19,38,1,1,1,9,6,3,5,19,19,DWWLDWWWWLWWWD,5,0,1,10,5,8,6,2,6,19,17,WWWWWWLLDWWDWW,1,1,5,5,10,WLWWWW,WWWLDWW
+Carpi,Salernitana,3-2,/match/carpi/salernitana-calcio-1919/2019,2019,16,serie_b,19,38,0,3,2,19,2,4,8,11,23,WLWDLWDWLDDLLW,0,3,3,4,9,6,5,5,4,16,17,DDWWDWDWDWWWWL,0,3,3,4,11,LDDLDL,DWDDWW
+Crotone,Venezia,1-1,/match/fc-crotone/venezia/2019,2019,16,serie_b,19,38,1,1,1,16,3,3,8,14,19,WWLLWDWWDWDWLW,2,3,2,11,9,11,5,4,5,15,15,WWLWDWDDLWWWDW,1,2,4,6,9,WLDWDDL,WWWDLWD
+Nuova Cosenza,Benevento,0-0,/match/nuova-cosenza/benevento-calcio/2019,2019,16,serie_b,19,38,1,0,0,15,3,5,7,13,23,DLWDWDDWWDWLLWW,2,3,2,9,10,12,6,3,5,22,20,DLWLLWWWWLDWDL,2,2,2,8,9,LDDWDLW,LLWWDD
+Brescia,Lecce,2-1,/match/brescia/lecce/2019,2019,16,serie_b,19,38,0,2,1,3,6,6,2,28,19,DWDDWDWDWDWWWL,5,2,0,15,6,5,7,5,3,25,18,DDWWLDLLDWWLWLD,4,2,2,16,12,DDWWWWW,DWLLDWLL
+Hellas Verona,Pescara,3-1,/match/hellas-verona-fc/pescara-calcio/2019,2019,16,serie_b,19,38,0,3,1,10,6,4,4,20,16,DLWLWWLDWWDWDL,3,3,1,11,8,2,7,5,3,23,18,DWDWWDWLLDWWDWW,1,4,2,9,11,DWWLWDD,DDDLDWW
+Ascoli,Brescia,1-1,/match/ascoli/brescia/2019,2019,17,serie_b,19,38,1,1,1,11,5,5,5,16,16,DWWDDWWWWLLDWWD,4,3,1,10,6,2,7,6,2,30,20,DWDDWDWDWDWWWLW,1,4,2,13,13,DWDWWLWD,WDDDDWL
+Cremonese,Carpi,1-2,/match/us-cremonese/carpi/2019,2019,17,serie_b,19,38,2,1,2,9,4,7,4,13,13,DDWDWDDWLDWWWDW,4,3,1,7,2,18,3,4,8,14,25,WLWDLWDWLDDLLWW,2,1,5,7,14,DWWDLWWD,WWLWWDLW
+Livorno,Hellas Verona,0-0,/match/livorno/hellas-verona-fc/2019,2019,17,serie_b,19,38,1,0,0,19,2,4,9,12,23,WLDLDLWWWLWDWWD,2,1,4,7,11,4,7,4,4,23,17,DLWLWWLDWWDWDLW,3,1,3,9,8,LLLWLDW,LLWDWWL
+Salernitana,Calcio Foggia,1-0,/match/salernitana-calcio-1919/us-foggia/2019,2019,17,serie_b,19,38,0,1,0,7,5,5,5,18,20,DDWWDWDWDWWWWLW,5,2,1,12,6,12,5,5,5,24,25,WWLWWLWWDDDDDWW,1,2,4,6,12,DWDWWWWL,WWLWDDW
+Cittadella,Perugia,2-2,/match/as-cittadella/perugia/2019,2019,17,serie_b,19,38,1,2,2,5,6,7,2,18,10,WLWWLDDLDDWDWDD,4,2,1,14,7,8,6,4,5,20,20,DWWLDWWWWLWWWDD,1,3,4,9,14,WWLDDWW,DWDWWLWD
+Lecce,Padova,3-2,/match/lecce/calcio-padova/2019,2019,17,serie_b,19,38,0,3,2,6,7,5,4,26,20,DDWWLDLLDWWLWLDW,3,3,1,9,6,17,2,5,8,15,26,DWWDWDWWDWDLLWL,1,1,6,10,19,DWDLWWD,DWWWWWLW
+Venezia,Nuova Cosenza,0-1,/match/venezia/nuova-cosenza/2019,2019,17,serie_b,19,38,2,0,1,13,5,5,5,16,16,WWLWDWDDLWWWDWD,4,2,1,9,6,15,3,6,7,13,23,DLWDWDDWWDWLLWWD,1,2,5,4,13,WLDDWWW,DWWDWWLW
+Spezia,Palermo FC,1-1,/match/asd-spezia/palermo/2019,2019,17,serie_b,19,38,1,1,1,10,6,3,6,20,18,WWWWWWLLDWWDWWD,5,1,1,14,7,1,8,6,1,26,12,DDLWWWLDLWWDDLD,4,2,1,12,6,WWWLWDW,DLWLLDL
+Benevento,Crotone,3-0,/match/benevento-calcio/fc-crotone/2019,2019,17,serie_b,19,38,0,3,0,14,6,4,5,22,20,DLWLLWWWWLDWDLD,4,1,3,14,11,16,3,4,8,15,20,WWLLWDWWDWDWLWD,1,0,6,3,10,DWLWWLWL,WLWWWWW
+Brescia,Cremonese,3-2,/match/brescia/us-cremonese/2019,2019,18,serie_b,19,38,0,3,2,2,7,7,2,31,21,DWDDWDWDWDWWWLWD,6,2,0,17,7,12,4,7,5,14,15,DDWDWDDWLDWWWDWL,0,4,3,6,11,DDWWWWWW,DDDWDWW
+Carpi,Livorno,1-4,/match/carpi/livorno/2019,2019,18,serie_b,19,38,2,1,4,17,4,4,8,16,26,WLWDLWDWLDDLLWWL,1,3,3,7,11,19,2,5,9,12,23,WLDLDLWWWLWDWWDD,0,3,5,5,12,LDDLDLW,WDDWWWWD
+Pescara,Venezia,1-0,/match/pescara-calcio/venezia/2019,2019,18,serie_b,19,38,0,1,0,3,7,5,4,24,21,DWDWWDWLLDWWDWWW,6,1,1,14,7,14,5,5,6,16,17,WWLWDWDDLWWWDWDL,1,3,4,7,10,WWWWLWDW,WWWDLWDD
+Nuova Cosenza,Salernitana,0-0,/match/nuova-cosenza/salernitana-calcio-1919/2019,2019,18,serie_b,19,38,1,0,0,15,4,6,7,14,23,DLWDWDDWWDWLLWWDL,2,4,2,9,10,6,6,5,5,19,20,DDWWDWDWDWWWWLWW,0,3,4,6,14,LDDWDLWD,DWDDWWW
+Crotone,Spezia,0-3,/match/fc-crotone/asd-spezia/2019,2019,18,serie_b,19,38,2,0,3,16,3,4,9,15,23,WWLLWDWWDWDWLWDW,2,4,2,12,10,10,6,4,6,21,19,WWWWWWLLDWWDWWDD,1,2,5,6,11,WLDWDDLD,WWWLDWWD
+Hellas Verona,Cittadella,4-0,/match/hellas-verona-fc/as-cittadella/2019,2019,18,serie_b,19,38,0,4,0,7,7,5,4,23,17,DLWLWWLDWWDWDLWD,4,3,1,14,9,5,6,8,2,20,12,WLWWLDDLDDWDWDDD,2,5,1,4,3,DWWLWDDW,LWDLDDDD
+Padova,Benevento,0-1,/match/calcio-padova/benevento-calcio/2019,2019,18,serie_b,19,38,2,0,1,18,2,5,9,17,29,DWWDWDWWDWDLLWLW,1,4,2,5,7,8,7,4,5,25,20,DLWLLWWWWLDWDLDW,2,3,2,8,9,WDDDDLL,LLWWDDD
+Palermo FC,Ascoli,3-0,/match/palermo/ascoli/2019,2019,18,serie_b,19,38,0,3,0,1,8,7,1,27,13,DDLWWWLDLWWDDLDD,4,4,0,14,6,9,5,6,5,17,17,DWWDDWWWWLLDWWDD,1,2,4,6,10,DWWDWWDD,WDWWLDW
+Perugia,Calcio Foggia,3-0,/match/perugia/us-foggia/2019,2019,18,serie_b,19,38,0,3,0,11,6,5,5,22,22,DWWLDWWWWLWWWDDD,5,1,1,11,6,13,5,5,6,24,26,WWLWWLWWDDDDDWWW,1,2,5,6,13,WLWWWWD,WWLWDDWW
+Calcio Foggia,Hellas Verona,2-2,/match/us-foggia/hellas-verona-fc/2019,2019,19,serie_b,19,38,1,2,2,13,5,5,7,24,29,WWLWWLWWDDDDDWWWW,4,3,1,18,13,4,8,5,4,27,17,DLWLWWLDWWDWDLWDW,3,2,3,9,8,WLWWDDDW,LLWDWWLD
+Ascoli,Crotone,3-2,/match/ascoli/fc-crotone/2019,2019,19,serie_b,19,38,0,3,2,11,5,6,6,17,20,DWWDDWWWWLLDWWDDW,4,4,1,11,7,16,3,4,10,15,26,WWLLWDWWDWDWLWDWL,1,0,7,3,13,DWDWWLWDD,WLWWWWWW
+Cittadella,Palermo FC,0-1,/match/as-cittadella/palermo/2019,2019,19,serie_b,19,38,2,0,1,8,6,8,3,20,16,WLWWLDDLDDWDWDDDW,4,3,1,16,9,1,9,7,1,30,13,DDLWWWLDLWWDDLDDW,4,3,1,13,7,WWLDDWWD,DLWLLDLD
+Cremonese,Perugia,4-0,/match/us-cremonese/perugia/2019,2019,19,serie_b,19,38,0,4,0,12,4,7,6,16,18,DDWDWDDWLDWWWDWLW,4,3,2,8,4,7,7,5,5,25,22,DWWLDWWWWLWWWDDDW,1,4,4,11,16,DWWDLWWDL,DWDWWLWDD
+Salernitana,Pescara,2-4,/match/salernitana-calcio-1919/pescara-calcio/2019,2019,19,serie_b,19,38,2,2,4,6,6,6,5,19,20,DDWWDWDWDWWWWLWWD,6,2,1,13,6,3,8,5,4,25,21,DWDWWDWLLDWWDWWWW,1,4,3,10,14,DWDWWWWLW,DDDLDWWW
+Venezia,Carpi,1-1,/match/venezia/carpi/2019,2019,19,serie_b,19,38,1,1,1,14,5,5,7,16,18,WWLWDWDDLWWWDWDLW,4,2,2,9,7,17,4,4,9,17,30,WLWDLWDWLDDLLWWLL,3,1,5,9,15,WLDDWWWL,WWLWWDLWL
+Benevento,Brescia,1-1,/match/benevento-calcio/brescia/2019,2019,19,serie_b,19,38,1,1,1,9,8,4,5,26,20,DLWLLWWWWLDWDLDWL,5,1,3,17,11,2,8,7,2,34,23,DWDDWDWDWDWWWLWDW,1,5,2,14,14,DWLWWLWLW,WDDDDWLD
+Livorno,Padova,1-1,/match/livorno/calcio-padova/2019,2019,19,serie_b,19,38,1,1,1,18,3,5,9,16,24,WLDLDLWWWLWDWWDDL,2,2,4,7,11,19,2,5,10,17,30,DWWDWDWWDWDLLWLWL,1,1,7,12,22,LLLWLDWD,DWWWWWLWW
+Spezia,Lecce,1-1,/match/asd-spezia/lecce/2019,2019,19,serie_b,19,38,1,1,1,10,7,4,6,24,19,WWWWWWLLDWWDWWDDL,5,2,1,15,8,5,8,5,4,29,22,DDWWLDLLDWWLWLDWW,4,2,3,17,14,WWWLWDWD,DWLLDWLLW
+Palermo FC,Salernitana,1-2,/match/palermo/salernitana-calcio-1919/2019,2019,20,serie_b,19,38,2,1,2,1,10,7,1,31,13,DDLWWWLDLWWDDLDDWL,5,4,0,17,6,10,6,6,6,21,24,DDWWDWDWDWWWWLWWDL,0,4,4,6,14,DWWDWWDDW,DWDDWWWD
+Lecce,Benevento,1-1,/match/lecce/benevento-calcio/2019,2019,20,serie_b,19,38,1,1,1,6,8,6,4,30,23,DDWWLDLLDWWLWLDWWD,4,3,1,12,8,5,8,5,5,27,21,DLWLLWWWWLDWDLDWLD,3,3,2,9,9,DWDLWWDW,LLWWDDDL
+Crotone,Cittadella,0-0,/match/fc-crotone/as-cittadella/2019,2019,20,serie_b,19,38,1,0,0,17,3,4,11,17,29,WWLLWDWWDWDWLWDWLW,2,4,3,12,13,11,6,8,4,20,17,WLWWLDDLDDWDWDDDWL,2,5,2,4,7,WLDWDDLDL,LWDLDDDDW
+Carpi,Calcio Foggia,0-2,/match/carpi/us-foggia/2019,2019,20,serie_b,19,38,2,0,2,18,4,5,9,18,31,WLWDLWDWLDDLLWWLLD,1,3,4,8,15,13,5,6,7,26,31,WWLWWLWWDDDDDWWWWD,1,2,6,6,16,LDDLDLWL,WWLWDDWWW
+Perugia,Brescia,0-2,/match/perugia/brescia/2019,2019,20,serie_b,19,38,2,0,2,9,7,5,6,25,26,DWWLDWWWWLWWWDDDWW,6,1,1,14,6,2,8,8,2,35,24,DWDDWDWDWDWWWLWDWD,1,6,2,15,15,WLWWWWDW,WDDDDWLDD
+Nuova Cosenza,Ascoli,0-0,/match/nuova-cosenza/ascoli/2019,2019,20,serie_b,19,38,1,0,0,15,4,7,7,14,23,DLWDWDDWWDWLLWWDLD,2,5,2,9,10,7,6,6,6,20,22,DWWDDWWWWLLDWWDDWW,1,2,5,6,13,LDDWDLWDD,WDWWLDWW
+Padova,Hellas Verona,3-0,/match/calcio-padova/hellas-verona-fc/2019,2019,20,serie_b,19,38,0,3,0,19,2,6,10,18,31,DWWDWDWWDWDLLWLWLD,1,4,3,5,8,4,8,6,4,29,19,DLWLWWLDWWDWDLWDWD,3,3,3,11,10,WDDDDLLL,LLWDWWLDD
+Pescara,Cremonese,0-0,/match/pescara-calcio/us-cremonese/2019,2019,20,serie_b,19,38,1,0,0,3,9,5,4,29,23,DWDWWDWLLDWWDWWWWL,7,1,1,15,7,12,5,7,6,20,18,DDWDWDDWLDWWWDWLWW,0,4,4,8,14,WWWWLWDWW,DDDWDWWW
+Spezia,Venezia,1-1,/match/asd-spezia/venezia/2019,2019,20,serie_b,19,38,1,1,1,8,7,5,6,25,20,WWWWWWLLDWWDWWDDLD,5,3,1,16,9,14,5,6,7,17,19,WWLWDWDDLWWWDWDLWD,1,3,5,7,11,WWWLWDWDD,WWWDLWDDW
+Calcio Foggia,Crotone,0-2,/match/us-foggia/fc-crotone/2019,2019,21,serie_b,19,38,2,0,2,13,6,6,7,28,31,WWLWWLWWDDDDDWWWWDL,4,4,1,20,15,16,3,5,11,17,29,WWLLWDWWDWDWLWDWLWD,1,0,8,5,16,WLWWDDDWD,WLWWWWWWW
+Cittadella,Carpi,3-1,/match/as-cittadella/carpi/2019,2019,21,serie_b,19,38,0,3,1,11,6,9,4,20,17,WLWWLDDLDDWDWDDDWLD,4,3,2,16,10,19,4,5,10,18,33,WLWDLWDWLDDLLWWLLDL,3,2,5,10,16,WWLDDWWDL,WWLWWDLWLD
+Cremonese,Palermo FC,2-0,/match/us-cremonese/palermo/2019,2019,21,serie_b,19,38,0,2,0,12,5,8,6,20,18,DDWDWDDWLDWWWDWLWWD,5,3,2,12,4,2,10,7,2,32,15,DDLWWWLDLWWDDLDDWLL,5,3,1,14,7,DWWDLWWDLW,DLWLLDLDL
+Ascoli,Perugia,0-3,/match/ascoli/perugia/2019,2019,21,serie_b,19,38,2,0,3,9,6,7,6,20,22,DWWDDWWWWLLDWWDDWWD,5,4,1,14,9,10,7,5,7,25,28,DWWLDWWWWLWWWDDDWWL,1,4,5,11,20,DWDWWLWDDW,DWDWWLWDDW
+Salernitana,Lecce,1-2,/match/salernitana-calcio-1919/lecce/2019,2019,21,serie_b,19,38,2,1,2,7,7,6,6,23,25,DDWWDWDWDWWWWLWWDLL,6,2,2,15,10,5,8,7,4,31,24,DDWWLDLLDWWLWLDWWDD,4,3,3,18,15,DWDWWWWLWL,DWLLDWLLWD
+Venezia,Padova,2-1,/match/venezia/calcio-padova/2019,2019,21,serie_b,19,38,0,2,1,14,5,7,7,18,20,WWLWDWDDLWWWDWDLWDD,4,3,2,10,8,17,3,6,10,21,31,DWWDWDWWDWDLLWLWLDW,1,2,7,13,23,WLDDWWWLD,DWWWWWLWWD
+Livorno,Pescara,0-0,/match/livorno/pescara-calcio/2019,2019,21,serie_b,19,38,1,0,0,18,3,6,9,17,25,WLDLDLWWWLWDWWDDLD,2,3,4,8,12,3,9,6,4,29,23,DWDWWDWLLDWWDWWWWLD,2,4,3,14,16,LLLWLDWDD,DDDLDWWWL
+Brescia,Spezia,4-4,/match/brescia/asd-spezia/2019,2019,21,serie_b,19,38,1,4,4,1,9,8,2,37,24,DWDDWDWDWDWWWLWDWDL,7,2,0,20,9,6,7,6,6,26,21,WWWWWWLLDWWDWWDDLDD,2,2,5,9,11,DDWWWWWWW,WWWLDWWDL
+Hellas Verona,Nuova Cosenza,2-2,/match/hellas-verona-fc/nuova-cosenza/2019,2019,21,serie_b,19,38,1,2,2,4,8,6,5,29,22,DLWLWWLDWWDWDLWDWDW,5,3,1,18,9,15,4,8,7,14,23,DLWDWDDWWDWLLWWDLDD,2,2,5,5,13,DWWLWDDWW,DWWDWWLWL
+Nuova Cosenza,Cittadella,2-0,/match/nuova-cosenza/as-cittadella/2019,2019,22,serie_b,19,38,0,2,0,15,4,9,7,16,25,DLWDWDDWWDWLLWWDLDDD,2,6,2,9,10,6,7,9,4,23,18,WLWWLDDLDDWDWDDDWLDW,2,6,2,4,7,LDDWDLWDDD,LWDLDDDDWD
+Carpi,Hellas Verona,1-1,/match/carpi/hellas-verona-fc/2019,2019,22,serie_b,19,38,1,1,1,19,4,5,11,19,36,WLWDLWDWLDDLLWWLLDLW,1,3,5,8,17,4,8,7,5,31,24,DLWLWWLDWWDWDLWDWDWD,3,3,4,11,13,LDDLDLWLL,LLWDWWLDDW
+Padova,Salernitana,0-0,/match/calcio-padova/salernitana-calcio-1919/2019,2019,22,serie_b,19,38,1,0,0,18,3,6,11,22,33,DWWDWDWWDWDLLWLWLDWW,2,4,3,8,8,11,7,6,7,24,27,DDWWDWDWDWWWWLWWDLLL,1,4,4,8,15,WDDDDLLLW,DWDDWWWDL
+Spezia,Cremonese,2-0,/match/asd-spezia/us-cremonese/2019,2019,22,serie_b,19,38,0,2,0,7,7,7,6,30,25,WWWWWWLLDWWDWWDDLDDD,5,4,1,17,10,8,6,8,6,22,18,DDWDWDDWLDWWWDWLWWDW,0,5,4,8,14,WWWLWDWDDD,DDDWDWWWD
+Crotone,Livorno,1-1,/match/fc-crotone/livorno/2019,2019,22,serie_b,19,38,1,1,1,16,4,5,11,19,29,WWLLWDWWDWDWLWDWLWDL,2,5,3,12,13,17,3,7,9,17,25,WLDLDLWWWLWDWWDDLDD,1,3,5,9,13,WLDWDDLDLD,WDDWWWWDL
+Benevento,Venezia,3-0,/match/benevento-calcio/venezia/2019,2019,22,serie_b,19,38,0,3,0,10,8,6,5,28,22,DLWLLWWWWLDWDLDWLDD,5,2,3,18,12,13,6,7,7,20,21,WWLWDWDDLWWWDWDLWDDW,1,4,5,8,12,DWLWWLWLWD,WWWDLWDDWD
+Pescara,Brescia,1-5,/match/pescara-calcio/brescia/2019,2019,22,serie_b,19,38,2,1,5,3,9,7,4,29,23,DWDWWDWLLDWWDWWWWLDD,7,2,1,15,7,1,9,9,2,41,28,DWDDWDWDWDWWWLWDWDLD,2,6,2,17,15,WWWWLWDWWD,WDDDDWLDDL
+Palermo FC,Calcio Foggia,0-0,/match/palermo/us-foggia/2019,2019,22,serie_b,19,38,1,0,0,2,10,7,3,32,17,DDLWWWLDLWWDDLDDWLLW,5,4,1,18,8,14,6,6,8,28,33,WWLWWLWWDDDDDWWWWDLL,2,2,6,8,16,DWWDWWDDWL,WWLWDDWWWL
+Lecce,Ascoli,7-0,/match/lecce/ascoli/2019,2019,22,serie_b,19,38,0,7,0,5,9,7,4,33,25,DDWWLDLLDWWLWLDWWDDL,4,4,1,13,9,12,6,7,7,20,25,DWWDDWWWWLLDWWDDWWDL,1,3,5,6,13,DWDLWWDWD,WDWWLDWWD
+Salernitana,Benevento,0-1,/match/salernitana-calcio-1919/benevento-calcio/2019,2019,23,serie_b,19,38,2,0,1,10,7,7,7,24,27,DDWWDWDWDWWWWLWWDLLLD,6,2,3,16,12,6,9,6,5,31,22,DLWLLWWWWLDWDLDWLDDW,3,4,2,10,10,DWDWWWWLWLL,LLWWDDDLD
+Cremonese,Padova,0-0,/match/us-cremonese/calcio-padova/2019,2019,23,serie_b,19,38,1,0,0,9,6,8,7,22,20,DDWDWDDWLDWWWDWLWWDWW,6,3,2,14,4,18,3,7,11,22,33,DWWDWDWWDWDLLWLWLDWWD,1,2,8,14,25,DWWDLWWDLWW,DWWWWWLWWDW
+Perugia,Palermo FC,1-2,/match/perugia/palermo/2019,2019,23,serie_b,19,38,2,1,2,11,8,5,7,28,28,DWWLDWWWWLWWWDDDWWLL,6,1,2,14,8,2,10,8,3,32,17,DDLWWWLDLWWDDLDDWLLWD,5,3,2,14,9,WLWWWWDWL,DLWLLDLDLW
+Cittadella,Spezia,0-1,/match/as-cittadella/asd-spezia/2019,2019,23,serie_b,19,38,2,0,1,8,7,9,5,23,20,WLWWLDDLDDWDWDDDWLDWW,5,3,2,19,11,5,8,7,6,32,25,WWWWWWLLDWWDWWDDLDDDW,2,3,5,13,15,WWLDDWWDLW,WWWLDWWDLD
+Brescia,Carpi,3-1,/match/brescia/carpi/2019,2019,23,serie_b,19,38,0,3,1,1,10,9,2,46,29,DWDDWDWDWDWWWLWDWDLDL,7,3,0,24,13,19,4,6,11,20,37,WLWDLWDWLDDLLWWLLDLWD,3,2,6,11,19,DDWWWWWWWD,WWLWWDLWLDW
+Livorno,Nuova Cosenza,2-0,/match/livorno/nuova-cosenza/2019,2019,23,serie_b,19,38,0,2,0,17,3,8,9,18,26,WLDLDLWWWLWDWWDDLDDD,2,4,4,8,12,15,5,9,7,18,25,DLWDWDDWWDWLLWWDLDDDW,2,3,5,7,15,LLLWLDWDDD,DWWDWWLWLD
+Calcio Foggia,Pescara,1-1,/match/us-foggia/pescara-calcio/2019,2019,23,serie_b,19,38,1,1,1,14,6,7,8,28,33,WWLWWLWWDDDDDWWWWDLLD,4,4,2,20,17,3,9,7,5,30,28,DWDWWDWLLDWWDWWWWLDDL,2,5,3,14,16,WLWWDDDWDL,DDDLDWWWLD
+Hellas Verona,Crotone,1-1,/match/hellas-verona-fc/fc-crotone/2019,2019,23,serie_b,19,38,1,1,1,7,8,8,5,32,25,DLWLWWLDWWDWDLWDWDWDD,5,4,1,20,11,16,4,6,11,20,30,WWLLWDWWDWDWLWDWLWDLD,2,0,8,7,16,DWWLWDDWWD,WLWWWWWWWL
+Venezia,Lecce,1-1,/match/venezia/lecce/2019,2019,23,serie_b,19,38,1,1,1,13,6,7,8,20,24,WWLWDWDDLWWWDWDLWDDWW,5,3,2,12,9,4,10,7,4,40,25,DDWWLDLLDWWLWLDWWDDLW,5,3,3,20,16,WLDDWWWLDW,DWLLDWLLWDL
+Palermo FC,Brescia,1-1,/match/palermo/brescia/2019,2019,24,serie_b,19,38,1,1,1,2,11,8,3,34,18,DDLWWWLDLWWDDLDDWLLWDL,5,5,1,18,8,1,11,9,2,49,30,DWDDWDWDWDWWWLWDWDLDLW,3,6,2,22,16,DWWDWWDDWLD,WDDDDWLDDLL
+Benevento,Cittadella,1-0,/match/benevento-calcio/as-cittadella/2019,2019,24,serie_b,19,38,0,1,0,6,10,6,5,32,22,DLWLLWWWWLDWDLDWLDDWL,6,2,3,21,12,9,7,9,6,23,21,WLWWLDDLDDWDWDDDWLDWWL,2,6,3,4,9,DWLWWLWLWDW,LWDLDDDDWDW
+Padova,Calcio Foggia,1-1,/match/calcio-padova/us-foggia/2019,2019,24,serie_b,19,38,1,1,1,18,3,8,11,22,33,DWWDWDWWDWDLLWLWLDWWDD,2,5,3,8,8,14,6,8,8,29,34,WWLWWLWWDDDDDWWWWDLLDD,2,3,6,8,16,WDDDDLLLWD,WWLWDDWWWLD
+Carpi,Perugia,0-1,/match/carpi/perugia/2019,2019,24,serie_b,19,38,2,0,1,19,4,6,12,21,40,WLWDLWDWLDDLLWWLLDLWDW,1,4,5,9,18,11,8,5,8,29,30,DWWLDWWWWLWWWDDDWWLLL,2,4,5,14,20,LDDLDLWLLD,DWDWWLWDDWL
+Ascoli,Salernitana,2-4,/match/ascoli/salernitana-calcio-1919/2019,2019,24,serie_b,19,38,2,2,4,13,6,7,8,20,32,DWWDDWWWWLLDWWDDWWDLW,5,4,2,14,12,10,7,7,8,24,28,DDWWDWDWDWWWWLWWDLLLDL,1,5,4,8,15,DWDWWLWDDWL,DWDDWWWDLD
+Nuova Cosenza,Cremonese,2-0,/match/nuova-cosenza/us-cremonese/2019,2019,24,serie_b,19,38,0,2,0,15,5,9,8,18,27,DLWDWDDWWDWLLWWDLDDDWW,3,6,2,11,10,8,6,9,7,22,20,DDWDWDDWLDWWWDWLWWDWWD,0,5,5,8,16,LDDWDLWDDDW,DDDWDWWWDW
+Lecce,Livorno,3-2,/match/lecce/livorno/2019,2019,24,serie_b,19,38,0,3,2,4,10,8,4,41,26,DDWWLDLLDWWLWLDWWDDLWD,5,4,1,20,9,16,4,8,9,20,26,WLDLDLWWWLWDWWDDLDDDW,1,4,5,10,14,DWDLWWDWDW,WDDWWWWDLD
+Spezia,Hellas Verona,1-2,/match/asd-spezia/hellas-verona-fc/2019,2019,24,serie_b,19,38,2,1,2,5,9,7,6,33,25,WWWWWWLLDWWDWWDDLDDDWL,6,4,1,19,10,7,8,9,5,33,26,DLWLWWLDWWDWDLWDWDWDDD,3,4,4,12,14,WWWLWDWDDDW,LLWDWWLDDWD
+Crotone,Pescara,0-2,/match/fc-crotone/pescara-calcio/2019,2019,24,serie_b,19,38,2,0,2,17,4,7,11,21,31,WWLLWDWWDWDWLWDWLWDLDD,2,6,3,13,14,3,9,8,5,31,29,DWDWWDWLLDWWDWWWWLDDLD,2,6,3,15,17,WLDWDDLDLDD,DDDLDWWWLDD
+Hellas Verona,Salernitana,1-0,/match/hellas-verona-fc/salernitana-calcio-1919/2019,2019,25,serie_b,19,38,0,1,0,6,9,9,5,35,27,DLWLWWLDWWDWDLWDWDWDDDL,5,5,1,21,12,8,8,7,8,28,30,DDWWDWDWDWWWWLWWDLLLDLL,2,5,4,12,17,DWWLWDDWWDD,DWDDWWWDLDL
+Cremonese,Ascoli,0-1,/match/us-cremonese/ascoli/2019,2019,25,serie_b,19,38,2,0,1,9,6,9,8,22,22,DDWDWDDWLDWWWDWLWWDWWDW,6,4,2,14,4,15,6,7,9,22,36,DWWDDWWWWLLDWWDDWWDLWL,1,3,6,6,20,DWWDLWWDLWWD,WDWWLDWWDW
+Perugia,Nuova Cosenza,0-1,/match/perugia/nuova-cosenza/2019,2019,25,serie_b,19,38,2,0,1,11,9,5,8,30,30,DWWLDWWWWLWWWDDDWWLLLL,6,1,3,15,10,12,6,9,8,20,27,DLWDWDDWWDWLLWWDLDDDWWW,2,3,6,7,17,WLWWWWDWLL,DWWDWWLWLDW
+Brescia,Crotone,2-0,/match/brescia/fc-crotone/2019,2019,25,serie_b,19,38,0,2,0,1,11,10,2,50,31,DWDDWDWDWDWWWLWDWDLDLWD,8,3,0,27,14,17,4,7,12,21,33,WWLLWDWWDWDWLWDWLWDLDDL,2,1,8,8,17,DDWWWWWWWDW,WLWWWWWWWLD
+Cittadella,Lecce,4-1,/match/as-cittadella/lecce/2019,2019,25,serie_b,19,38,0,4,1,10,7,9,7,23,22,WLWWLDDLDDWDWDDDWLDWWLW,5,3,3,19,12,3,11,8,4,44,28,DDWWLDLLDWWLWLDWWDDLWDW,5,4,3,21,17,WWLDDWWDLWL,DWLLDWLLWDLD
+Pescara,Padova,2-0,/match/pescara-calcio/calcio-padova/2019,2019,25,serie_b,19,38,0,2,0,4,10,8,5,33,29,DWDWWDWLLDWWDWWWWLDDLDL,7,2,2,16,12,18,3,9,11,23,34,DWWDWDWWDWDLLWLWLDWWDDD,1,3,8,14,25,WWWWLWDWWDL,DWWWWWLWWDWD
+Carpi,Spezia,3-2,/match/carpi/asd-spezia/2019,2019,25,serie_b,19,38,0,3,2,19,4,6,13,21,41,WLWDLWDWLDDLLWWLLDLWDWL,1,4,6,9,19,7,9,7,7,34,27,WWWWWWLLDWWDWWDDLDDDWLL,3,3,5,14,15,LDDLDLWLLDL,WWWLDWWDLDL
+Calcio Foggia,Benevento,1-1,/match/us-foggia/benevento-calcio/2019,2019,25,serie_b,19,38,1,1,1,14,6,9,8,30,35,WWLWWLWWDDDDDWWWWDLLDDD,4,5,2,21,18,5,11,6,5,33,22,DLWLLWWWWLDWDLDWLDDWLW,4,4,2,11,10,WLWWDDDWDLD,LLWWDDDLDL
+Livorno,Venezia,1-0,/match/livorno/venezia/2019,2019,25,serie_b,19,38,0,1,0,16,4,8,10,22,29,WLDLDLWWWLWDWWDDLDDDWW,3,4,4,10,12,13,6,8,8,21,25,WWLWDWDDLWWWDWDLWDDWWD,1,4,6,8,15,LLLWLDWDDDW,WWWDLWDDWDW
+Benevento,Pescara,2-1,/match/benevento-calcio/pescara-calcio/2019,2019,26,serie_b,19,38,0,2,1,6,11,7,5,34,23,DLWLLWWWWLDWDLDWLDDWLWD,7,2,3,22,12,2,11,8,5,35,29,DWDWWDWLLDWWDWWWWLDDLDLW,3,6,3,17,17,DWLWWLWLWDWW,DDDLDWWWLDDL
+Padova,Brescia,1-1,/match/calcio-padova/brescia/2019,2019,26,serie_b,19,38,1,1,1,18,3,9,12,23,36,DWWDWDWWDWDLLWLWLDWWDDDW,2,6,3,9,9,1,12,10,2,52,31,DWDDWDWDWDWWWLWDWDLDLWDW,3,7,2,23,17,WDDDDLLLWDD,WDDDDWLDDLLD
+Nuova Cosenza,Carpi,1-0,/match/nuova-cosenza/carpi/2019,2019,26,serie_b,19,38,0,1,0,11,7,9,8,21,27,DLWDWDDWWDWLLWWDLDDDWWWL,4,6,2,13,10,19,5,6,13,24,43,WLWDLWDWLDDLLWWLLDLWDWLW,3,2,7,12,22,LDDWDLWDDDWW,WWLWWDLWLDWW
+Salernitana,Cremonese,2-0,/match/salernitana-calcio-1919/us-cremonese/2019,2019,26,serie_b,19,38,0,2,0,10,8,7,9,28,31,DDWWDWDWDWWWWLWWDLLLDLLW,6,2,4,16,13,9,6,9,9,22,23,DDWDWDDWLDWWWDWLWWDWWDWL,0,5,6,8,18,DWDWWWWLWLLL,DDDWDWWWDWW
+Ascoli,Calcio Foggia,2-2,/match/ascoli/us-foggia/2019,2019,26,serie_b,19,38,1,2,2,14,7,7,9,23,36,DWWDDWWWWLLDWWDDWWDLWLL,5,4,3,16,16,13,6,10,8,31,36,WWLWWLWWDDDDDWWWWDLLDDDD,2,4,6,9,17,DWDWWLWDDWLL,WWLWDDWWWLDD
+Lecce,Hellas Verona,2-1,/match/lecce/hellas-verona-fc/2019,2019,26,serie_b,19,38,0,2,1,4,11,8,5,45,32,DDWWLDLLDWWLWLDWWDDLWDWW,6,4,1,23,11,5,10,9,5,36,27,DLWLWWLDWWDWDLWDWDWDDDLW,4,4,4,14,15,DWDLWWDWDWW,LLWDWWLDDWDL
+Crotone,Palermo FC,3-0,/match/fc-crotone/palermo/2019,2019,26,serie_b,19,38,0,3,0,17,4,7,13,21,35,WWLLWDWWDWDWLWDWLWDLDDLW,2,6,4,13,16,3,11,9,3,35,19,DDLWWWLDLWWDDLDDWLLWDLD,6,3,2,16,10,WLDWDDLDLDDL,DLWLLDLDLWL
+Venezia,Perugia,2-3,/match/venezia/perugia/2019,2019,26,serie_b,19,38,2,2,3,15,6,8,9,21,26,WWLWDWDDLWWWDWDLWDDWWDW,5,4,2,13,10,12,9,5,9,30,31,DWWLDWWWWLWWWDDDWWLLLLL,3,4,5,15,20,WLDDWWWLDWD,DWDWWLWDDWLL
+Spezia,Livorno,3-0,/match/asd-spezia/livorno/2019,2019,26,serie_b,19,38,0,3,0,7,9,7,8,36,30,WWWWWWLLDWWDWWDDLDDDWLLW,6,4,2,20,12,16,5,8,10,23,29,WLDLDLWWWLWDWWDDLDDDWWW,1,4,6,12,17,WWWLWDWDDDWL,WDDWWWWDLDW
+Calcio Foggia,Nuova Cosenza,1-0,/match/us-foggia/nuova-cosenza/2019,2019,27,serie_b,19,38,0,1,0,13,6,11,8,33,38,WWLWWLWWDDDDDWWWWDLLDDDDD,4,6,2,22,19,8,8,9,8,22,27,DLWDWDDWWDWLLWWDLDDDWWWLW,3,3,6,8,17,WLWWDDDWDLDD,DWWDWWLWLDWL
+Carpi,Ascoli,1-1,/match/carpi/ascoli/2019,2019,27,serie_b,19,38,1,1,1,19,5,6,14,24,44,WLWDLWDWLDDLLWWLLDLWDWLWW,2,4,6,12,21,14,7,8,9,25,38,DWWDDWWWWLLDWWDDWWDLWLLD,2,3,6,7,20,LDDLDLWLLDLW,WDWWLDWWDWL
+Brescia,Cittadella,0-1,/match/brescia/as-cittadella/2019,2019,27,serie_b,19,38,2,0,1,1,12,11,2,53,32,DWDDWDWDWDWWWLWDWDLDLWDWD,9,3,0,29,14,10,8,9,7,27,23,WLWWLDDLDDWDWDDDWLDWWLWW,2,6,4,4,10,DDWWWWWWWDWW,LWDLDDDDWDWW
+Padova,Crotone,0-0,/match/calcio-padova/fc-crotone/2019,2019,27,serie_b,19,38,1,0,0,18,3,10,12,24,37,DWWDWDWWDWDLLWLWLDWWDDDWD,2,7,3,10,10,17,5,7,13,24,35,WWLLWDWWDWDWLWDWLWDLDDLWW,2,1,9,8,19,WDDDDLLLWDDD,WLWWWWWWWLDW
+Palermo FC,Lecce,2-1,/match/palermo/lecce/2019,2019,27,serie_b,19,38,0,2,1,5,11,9,4,35,22,DDLWWWLDLWWDDLDDWLLWDLDW,5,6,1,19,9,2,12,8,5,47,33,DDWWLDLLDWWLWLDWWDDLWDWWW,5,4,4,22,21,DWWDWWDDWLDD,DWLLDWLLWDLDW
+Perugia,Salernitana,3-1,/match/perugia/salernitana-calcio-1919/2019,2019,27,serie_b,19,38,0,3,1,11,10,5,9,33,33,DWWLDWWWWLWWWDDDWWLLLLLL,6,1,4,15,11,9,9,7,9,30,31,DDWWDWDWDWWWWLWWDLLLDLLWW,2,5,5,12,18,WLWWWWDWLLL,DWDDWWWDLDLW
+Pescara,Spezia,2-0,/match/pescara-calcio/asd-spezia/2019,2019,27,serie_b,19,38,0,2,0,4,11,8,6,36,31,DWDWWDWLLDWWDWWWWLDDLDLWW,8,2,2,18,12,7,10,7,8,39,30,WWWWWWLLDWWDWWDDLDDDWLLWW,3,3,6,16,18,WWWWLWDWWDLW,WWWLDWWDLDLW
+Hellas Verona,Venezia,1-0,/match/hellas-verona-fc/venezia/2019,2019,27,serie_b,19,38,0,1,0,6,10,9,6,37,29,DLWLWWLDWWDWDLWDWDWDDDLWW,6,5,1,22,12,15,6,8,10,23,29,WWLWDWDDLWWWDWDLWDDWWDWL,1,4,7,8,16,DWWLWDDWWDDW,WWWDLWDDWDWW
+Livorno,Benevento,2-0,/match/livorno/benevento-calcio/2019,2019,27,serie_b,19,38,0,2,0,16,5,8,11,23,32,WLDLDLWWWLWDWWDDLDDDWWWW,4,4,4,11,12,3,12,7,5,36,24,DLWLLWWWWLDWDLDWLDDWLWDW,4,5,2,12,11,LLLWLDWDDDWW,LLWWDDDLDLD
+Perugia,Hellas Verona,1-2,/match/perugia/hellas-verona-fc/2019,2019,28,serie_b,19,38,2,1,2,8,11,5,9,36,34,DWWLDWWWWLWWWDDDWWLLLLLLW,7,1,4,18,12,5,11,9,6,38,29,DLWLWWLDWWDWDLWDWDWDDDLWWW,4,4,5,15,17,WLWWWWDWLLLW,LLWDWWLDDWDLW
+Nuova Cosenza,Brescia,2-3,/match/nuova-cosenza/brescia/2019,2019,28,serie_b,19,38,2,2,3,11,8,9,9,22,28,DLWDWDDWWDWLLWWDLDDDWWWLWW,5,6,2,14,10,1,12,11,3,53,33,DWDDWDWDWDWWWLWDWDLDLWDWDL,3,8,2,24,18,LDDWDLWDDDWWW,WDDDDWLDDLLDD
+Lecce,Calcio Foggia,1-0,/match/lecce/us-foggia/2019,2019,28,serie_b,19,38,0,1,0,4,12,8,6,48,35,DDWWLDLLDWWLWLDWWDDLWDWWWW,7,4,1,25,12,12,7,11,8,34,38,WWLWWLWWDDDDDWWWWDLLDDDDDW,2,5,6,11,19,DWDLWWDWDWWW,WWLWDDWWWLDDD
+Cittadella,Pescara,4-1,/match/as-cittadella/pescara-calcio/2019,2019,28,serie_b,19,38,0,4,1,9,9,9,7,28,23,WLWWLDDLDDWDWDDDWLDWWLWWL,6,3,3,23,13,2,12,8,6,38,31,DWDWWDWLLDWWDWWWWLDDLDLWWW,3,6,4,18,19,WWLDDWWDLWLW,DDDLDWWWLDDLW
+Spezia,Padova,0-2,/match/asd-spezia/calcio-padova/2019,2019,28,serie_b,19,38,2,0,2,7,10,7,9,39,32,WWWWWWLLDWWDWWDDLDDDWLLWWW,7,4,2,23,12,18,3,11,12,24,37,DWWDWDWWDWDLLWLWLDWWDDDWDD,1,3,9,14,27,WWWLWDWDDDWLW,DWWWWWLWWDWDW
+Cremonese,Benevento,1-0,/match/us-cremonese/benevento-calcio/2019,2019,28,serie_b,19,38,0,1,0,14,6,9,10,22,25,DDWDWDDWLDWWWDWLWWDWWDWLW,6,4,3,14,5,6,12,7,6,36,26,DLWLLWWWWLDWDLDWLDDWLWDWW,4,5,3,12,13,DWWDLWWDLWWDL,LLWWDDDLDLDW
+Ascoli,Livorno,1-1,/match/ascoli/livorno/2019,2019,28,serie_b,19,38,1,1,1,13,7,9,9,26,39,DWWDDWWWWLLDWWDDWWDLWLLDD,5,5,3,18,18,16,6,8,11,25,32,WLDLDLWWWLWDWWDDLDDDWWWWW,1,4,7,12,20,DWDWWLWDDWLLD,WDDWWWWDLDWW
+Salernitana,Crotone,0-2,/match/salernitana-calcio-1919/fc-crotone/2019,2019,28,serie_b,19,38,2,0,2,10,9,7,10,31,34,DDWWDWDWDWWWWLWWDLLLDLLWWW,7,2,4,18,13,17,5,8,13,24,35,WWLLWDWWDWDWLWDWLWDLDDLWWD,2,2,9,8,19,DWDWWWWLWLLLW,WLWWWWWWWLDWD
+Venezia,Palermo FC,1-1,/match/venezia/palermo/2019,2019,28,serie_b,19,38,1,1,1,15,6,8,11,23,30,WWLWDWDDLWWWDWDLWDDWWDWLW,5,4,3,15,13,3,12,9,4,37,23,DDLWWWLDLWWDDLDDWLLWDLDWW,6,3,3,16,13,WLDDWWWLDWDL,DLWLLDLDLWLW
+Pescara,Nuova Cosenza,1-1,/match/pescara-calcio/nuova-cosenza/2019,2019,29,serie_b,19,38,1,1,1,5,12,8,7,39,35,DWDWWDWLLDWWDWWWWLDDLDLWWWW,9,2,2,20,12,13,8,9,10,24,31,DLWDWDDWWDWLLWWDLDDDWWWLWWL,3,3,7,8,18,WWWWLWDWWDLWW,DWWDWWLWLDWLW
+Calcio Foggia,Cittadella,1-1,/match/us-foggia/as-cittadella/2019,2019,29,serie_b,19,38,1,1,1,10,7,11,9,34,39,WWLWWLWWDDDDDWWWWDLLDDDDDWW,5,6,2,23,19,7,10,9,7,32,24,WLWWLDDLDDWDWDDDWLDWWLWWLW,3,6,4,5,10,WLWWDDDWDLDDW,LWDLDDDDWDWWL
+Padova,Perugia,0-1,/match/calcio-padova/perugia/2019,2019,29,serie_b,19,38,2,0,1,18,4,11,12,26,37,DWWDWDWWDWDLLWLWLDWWDDDWDDL,2,8,3,10,10,9,11,5,10,37,36,DWWLDWWWWLWWWDDDWWLLLLLLWL,4,4,5,18,22,WDDDDLLLWDDDD,DWDWWLWDDWLLL
+Livorno,Salernitana,1-0,/match/livorno/salernitana-calcio-1919/2019,2019,29,serie_b,19,38,0,1,0,16,6,9,11,26,33,WLDLDLWWWLWDWWDDLDDDWWWWWD,5,4,4,13,12,12,9,7,11,31,36,DDWWDWDWDWWWWLWWDLLLDLLWWWL,2,5,6,13,21,LLLWLDWDDDWWW,DWDDWWWDLDLWW
+Benevento,Spezia,2-3,/match/benevento-calcio/asd-spezia/2019,2019,29,serie_b,19,38,2,2,3,6,12,7,7,36,27,DLWLLWWWWLDWDLDWLDDWLWDWWW,8,2,3,24,13,8,10,7,10,39,34,WWWWWWLLDWWDWWDDLDDDWLLWWWL,3,3,7,16,20,DWLWWLWLWDWWW,WWWLDWWDLDLWW
+Hellas Verona,Ascoli,1-1,/match/hellas-verona-fc/ascoli/2019,2019,29,serie_b,19,38,1,1,1,4,12,9,6,40,30,DLWLWWLDWWDWDLWDWDWDDDLWWWL,7,5,1,23,12,14,7,10,9,27,40,DWWDDWWWWLLDWWDDWWDLWLLDDD,2,4,6,8,21,DWWLWDDWWDDWW,WDWWLDWWDWLD
+Palermo FC,Carpi,4-1,/match/palermo/carpi/2019,2019,29,serie_b,19,38,0,4,1,3,12,10,4,38,24,DDLWWWLDLWWDDLDDWLLWDLDWWD,6,6,1,21,10,19,5,7,14,25,45,WLWDLWDWLDDLLWWLLDLWDWLWWD,3,2,8,12,23,DWWDWWDDWLDDW,WWLWWDLWLDWWW
+Venezia,Cremonese,1-1,/match/venezia/us-cremonese/2019,2019,29,serie_b,19,38,1,1,1,15,6,9,11,24,31,WWLWDWDDLWWWDWDLWDDWWDWLWD,5,5,3,16,14,11,7,9,10,23,25,DDWDWDDWLDWWWDWLWWDWWDWLWW,0,5,7,8,20,WLDDWWWLDWDLD,DDDWDWWWDWWW
+Crotone,Lecce,2-2,/match/fc-crotone/lecce/2019,2019,29,serie_b,19,38,1,2,2,17,6,8,13,26,35,WWLLWDWWDWDWLWDWLWDLDDLWWDL,3,6,4,16,16,2,13,8,6,49,35,DDWWLDLLDWWLWLDWWDDLWDWWWWW,5,4,5,23,23,WLDWDDLDLDDLW,DWLLDWLLWDLDWW
+Cremonese,Hellas Verona,1-1,/match/us-cremonese/hellas-verona-fc/2019,2019,30,serie_b,19,38,1,1,1,11,7,10,10,24,26,DDWDWDDWLDWWWDWLWWDWWDWLWWD,7,4,3,15,5,4,12,10,6,41,31,DLWLWWLDWWDWDLWDWDWDDDLWWWLD,5,4,5,17,18,DWWDLWWDLWWDLW,LLWDWWLDDWDLWL
+Ascoli,Benevento,2-2,/match/ascoli/benevento-calcio/2019,2019,30,serie_b,19,38,1,2,2,14,7,11,9,28,41,DWWDDWWWWLLDWWDDWWDLWLLDDDD,5,6,3,19,19,6,12,7,8,38,30,DLWLLWWWWLDWDLDWLDDWLWDWWWL,4,5,4,12,14,DWDWWLWDDWLLDD,LLWWDDDLDLDWW
+Carpi,Crotone,1-2,/match/carpi/fc-crotone/2019,2019,30,serie_b,19,38,2,1,2,19,5,7,15,26,49,WLWDLWDWLDDLLWWLLDLWDWLWWDW,2,5,6,13,22,17,6,9,13,28,37,WWLLWDWWDWDWLWDWLWDLDDLWWDLD,3,2,9,10,19,LDDLDLWLLDLWD,WLWWWWWWWLDWDL
+Perugia,Livorno,3-1,/match/perugia/livorno/2019,2019,30,serie_b,19,38,0,3,1,9,12,5,10,38,36,DWWLDWWWWLWWWDDDWWLLLLLLWLL,7,1,5,19,14,15,7,9,11,27,33,WLDLDLWWWLWDWWDDLDDDWWWWWDW,1,5,7,13,21,WLWWWWDWLLLWL,WDDWWWWDLDWWD
+Cittadella,Padova,1-1,/match/as-cittadella/calcio-padova/2019,2019,30,serie_b,19,38,1,1,1,7,10,10,7,33,25,WLWWLDDLDDWDWDDDWLDWWLWWLWD,7,3,3,27,14,18,4,11,13,26,38,DWWDWDWWDWDLLWLWLDWWDDDWDDLL,2,3,9,16,27,WWLDDWWDLWLWW,DWWWWWLWWDWDWL
+Nuova Cosenza,Palermo FC,1-1,/match/nuova-cosenza/palermo/2019,2019,30,serie_b,19,38,1,1,1,12,8,10,10,25,32,DLWDWDDWWDWLLWWDLDDDWWWLWWLD,5,6,3,16,13,2,13,10,4,42,25,DDLWWWLDLWWDDLDDWLLWDLDWWDW,6,4,3,17,14,LDDWDLWDDDWWWL,DLWLLDLDLWLWD
+Salernitana,Venezia,1-1,/match/salernitana-calcio-1919/venezia/2019,2019,30,serie_b,19,38,1,1,1,13,9,7,12,31,37,DDWWDWDWDWWWWLWWDLLLDLLWWWLW,7,2,5,18,15,16,6,10,11,25,32,WWLWDWDDLWWWDWDLWDDWWDWLWDD,1,4,8,8,17,DWDWWWWLWLLLWL,WWWDLWDDWDWWW
+Brescia,Calcio Foggia,2-1,/match/brescia/us-foggia/2019,2019,30,serie_b,19,38,0,2,1,1,13,11,3,56,35,DWDDWDWDWDWWWLWDWDLDLWDWDLL,9,3,1,29,15,10,7,12,9,35,40,WWLWWLWWDDDDDWWWWDLLDDDDDWWD,2,5,7,11,20,DDWWWWWWWDWWL,WWLWDDWWWLDDDW
+Lecce,Pescara,2-0,/match/lecce/pescara-calcio/2019,2019,30,serie_b,19,38,0,2,0,3,13,9,6,51,37,DDWWLDLLDWWLWLDWWDDLWDWWWWWD,8,4,1,26,12,5,12,9,7,40,36,DWDWWDWLLDWWDWWWWLDDLDLWWWWD,3,6,5,19,23,DWDLWWDWDWWWW,DDDLDWWWLDDLWW
+Padova,Ascoli,1-2,/match/calcio-padova/ascoli/2019,2019,31,serie_b,19,38,2,1,2,18,4,12,13,27,39,DWWDWDWWDWDLLWLWLDWWDDDWDDLLD,2,8,4,10,11,12,7,12,9,30,43,DWWDDWWWWLLDWWDDWWDLWLLDDDDD,2,5,6,9,22,WDDDDLLLWDDDDL,WDWWLDWWDWLDD
+Hellas Verona,Brescia,2-2,/match/hellas-verona-fc/brescia/2019,2019,31,serie_b,19,38,1,2,2,4,12,11,6,42,32,DLWLWWLDWWDWDLWDWDWDDDLWWWLDD,7,6,1,24,13,1,14,11,3,58,36,DWDDWDWDWDWWWLWDWDLDLWDWDLLW,4,8,2,27,20,DWWLWDDWWDDWWD,WDDDDWLDDLLDDL
+Benevento,Carpi,3-1,/match/benevento-calcio/carpi/2019,2019,31,serie_b,19,38,0,3,1,6,12,8,8,40,32,DLWLLWWWWLDWDLDWLDDWLWDWWWLD,8,2,4,26,16,19,5,7,16,27,51,WLWDLWDWLDDLLWWLLDLWDWLWWDWL,3,2,9,13,27,DWLWWLWLWDWWWL,WWLWWDLWLDWWWW
+Venezia,Cittadella,1-1,/match/venezia/as-cittadella/2019,2019,31,serie_b,19,38,1,1,1,16,6,11,11,26,33,WWLWDWDDLWWWDWDLWDDWWDWLWDDD,5,6,3,17,15,7,10,11,7,34,26,WLWWLDDLDDWDWDDDWLDWWLWWLWDD,3,7,4,6,11,WLDDWWWLDWDLDD,LWDLDDDDWDWWLD
+Livorno,Cremonese,1-3,/match/livorno/us-cremonese/2019,2019,31,serie_b,19,38,2,1,3,15,7,9,12,28,36,WLDLDLWWWLWDWWDDLDDDWWWWWDWW,6,4,4,14,12,10,7,11,10,25,27,DDWDWDDWLDWWWDWLWWDWWDWLWWDD,0,6,7,9,21,LLLWLDWDDDWWWW,DDDWDWWWDWWWD
+Crotone,Perugia,2-0,/match/fc-crotone/perugia/2019,2019,31,serie_b,19,38,0,2,0,17,7,9,13,30,38,WWLLWDWWDWDWLWDWLWDLDDLWWDLDL,3,7,4,18,18,8,13,5,10,41,37,DWWLDWWWWLWWWDDDWWLLLLLLWLLW,5,4,5,19,22,WLDWDDLDLDDLWD,DWDWWLWDDWLLLL
+Spezia,Salernitana,2-1,/match/asd-spezia/salernitana-calcio-1919/2019,2019,31,serie_b,19,38,0,2,1,9,11,7,10,42,36,WWWWWWLLDWWDWWDDLDDDWLLWWWLL,7,4,3,23,14,14,9,8,12,32,38,DDWWDWDWDWWWWLWWDLLLDLLWWWLWD,2,5,7,13,22,WWWLWDWDDDWLWL,DWDDWWWDLDLWWW
+Lecce,Nuova Cosenza,3-1,/match/lecce/nuova-cosenza/2019,2019,31,serie_b,19,38,0,3,1,2,14,9,6,53,37,DDWWLDLLDWWLWLDWWDDLWDWWWWWDW,9,4,1,28,12,11,8,11,10,26,33,DLWDWDDWWDWLLWWDLDDDWWWLWWLDD,3,4,7,9,19,DWDLWWDWDWWWWW,DWWDWWLWLDWLWD
+Pescara,Palermo FC,3-2,/match/pescara-calcio/palermo/2019,2019,31,serie_b,19,38,0,3,2,5,12,9,8,40,38,DWDWWDWLLDWWDWWWWLDDLDLWWWWDW,9,3,2,21,13,3,13,11,4,43,26,DDLWWWLDLWWDDLDDWLLWDLDWWDWD,6,5,3,18,15,WWWWLWDWWDLWWD,DLWLLDLDLWLWDD
+Brescia,Venezia,2-0,/match/brescia/venezia/2019,2019,32,serie_b,19,38,0,2,0,1,14,12,3,60,38,DWDDWDWDWDWWWLWDWDLDLWDWDLLWD,10,3,1,31,16,15,6,12,11,27,34,WWLWDWDDLWWWDWDLWDDWWDWLWDDDD,1,5,8,9,18,DDWWWWWWWDWWLW,WWWDLWDDWDWWWD
+Cittadella,Livorno,4-0,/match/as-cittadella/livorno/2019,2019,32,serie_b,19,38,0,4,0,8,10,12,7,35,27,WLWWLDDLDDWDWDDDWLDWWLWWLWDDD,7,4,3,28,15,17,7,9,13,29,39,WLDLDLWWWLWDWWDDLDDDWWWWWDWWL,1,5,8,14,24,WWLDDWWDLWLWWD,WDDWWWWDLDWWDW
+Carpi,Padova,2-1,/match/carpi/calcio-padova/2019,2019,32,serie_b,19,38,0,2,1,19,5,7,17,28,54,WLWDLWDWLDDLLWWLLDLWDWLWWDWLW,2,5,7,14,24,18,4,12,14,28,41,DWWDWDWWDWDLLWLWLDWWDDDWDDLLDL,2,4,9,17,28,LDDLDLWLLDLWDL,DWWWWWLWWDWDWLD
+Calcio Foggia,Spezia,1-0,/match/us-foggia/asd-spezia/2019,2019,32,serie_b,19,38,0,1,0,13,7,12,10,36,42,WWLWWLWWDDDDDWWWWDLLDDDDDWWDW,5,7,2,24,20,7,12,7,10,44,37,WWWWWWLLDWWDWWDDLDDDWLLWWWLLW,4,3,7,19,22,WLWWDDDWDLDDWD,WWWLDWWDLDLWWL
+Perugia,Benevento,2-4,/match/perugia/benevento-calcio/2019,2019,32,serie_b,19,38,2,2,4,9,13,5,11,41,39,DWWLDWWWWLWWWDDDWWLLLLLLWLLWW,8,1,5,22,15,6,13,8,8,43,33,DLWLLWWWWLDWDLDWLDDWLWDWWWLDW,4,6,4,14,16,WLWWWWDWLLLWLW,LLWWDDDLDLDWWD
+Cremonese,Lecce,2-0,/match/us-cremonese/lecce/2019,2019,32,serie_b,19,38,0,2,0,10,8,11,10,28,28,DDWDWDDWLDWWWDWLWWDWWDWLWWDDL,7,5,3,16,6,2,15,9,6,56,38,DDWWLDLLDWWLWLDWWDDLWDWWWWWDWW,5,5,5,25,25,DWWDLWWDLWWDLWD,DWLLDWLLWDLDWWD
+Ascoli,Pescara,2-1,/match/ascoli/pescara-calcio/2019,2019,32,serie_b,19,38,0,2,1,11,8,12,9,32,44,DWWDDWWWWLLDWWDDWWDLWLLDDDDDL,5,7,3,21,21,3,13,9,8,43,40,DWDWWDWLLDWWDWWWWLDDLDLWWWWDWW,3,6,6,19,25,DWDWWLWDDWLLDDD,DDDLDWWWLDDLWWW
+Nuova Cosenza,Crotone,1-0,/match/nuova-cosenza/fc-crotone/2019,2019,32,serie_b,19,38,0,1,0,12,8,11,11,27,36,DLWDWDDWWDWLLWWDLDDDWWWLWWLDDW,5,7,3,17,14,16,8,9,13,32,38,WWLLWDWWDWDWLWDWLWDLDDLWWDLDLW,4,2,9,12,20,LDDWDLWDDDWWWLD,WLWWWWWWWLDWDLL
+Palermo FC,Hellas Verona,1-0,/match/palermo/hellas-verona-fc/2019,2019,32,serie_b,19,38,0,1,0,4,13,11,5,45,29,DDLWWWLDLWWDDLDDWLLWDLDWWDWDW,7,6,1,25,11,5,12,12,6,44,34,DLWLWWLDWWDWDLWDWDWDDDLWWWLDDD,5,5,5,18,19,DWWDWWDDWLDDWW,LLWDWWLDDWDLWLD
+Pescara,Perugia,1-1,/match/pescara-calcio/perugia/2019,2019,33,serie_b,19,38,1,1,1,4,13,9,9,44,42,DWDWWDWLLDWWDWWWWLDDLDLWWWWDWWW,10,3,2,24,15,11,13,5,12,43,43,DWWLDWWWWLWWWDDDWWLLLLLLWLLWWL,5,4,6,19,24,WWWWLWDWWDLWWDW,DWDWWLWDDWLLLLW
+Lecce,Carpi,4-1,/match/lecce/carpi/2019,2019,33,serie_b,19,38,0,4,1,2,15,9,7,56,40,DDWWLDLLDWWLWLDWWDDLWDWWWWWDWWW,10,4,1,31,13,19,6,7,17,30,55,WLWDLWDWLDDLLWWLLDLWDWLWWDWLWW,3,2,10,14,30,DWDLWWDWDWWWWWW,WWLWWDLWLDWWWWW
+Salernitana,Cittadella,4-2,/match/salernitana-calcio-1919/as-cittadella/2019,2019,33,serie_b,19,38,0,4,2,14,9,8,13,33,40,DDWWDWDWDWWWWLWWDLLLDLLWWWLWDW,7,3,5,19,16,7,11,12,7,39,27,WLWWLDDLDDWDWDDDWLDWWLWWLWDDDW,3,8,4,7,12,DWDWWWWLWLLLWLD,LWDLDDDDWDWWLDD
+Crotone,Cremonese,0-0,/match/fc-crotone/us-cremonese/2019,2019,33,serie_b,19,38,1,0,0,16,8,9,14,32,39,WWLLWDWWDWDWLWDWLWDLDDLWWDLDLWW,4,7,4,20,18,9,9,11,10,30,28,DDWDWDDWLDWWWDWLWWDWWDWLWWDDLW,1,6,7,12,22,WLDWDDLDLDDLWDW,DDDWDWWWDWWWDL
+Venezia,Calcio Foggia,1-0,/match/venezia/us-foggia/2019,2019,33,serie_b,19,38,0,1,0,15,6,12,12,27,36,WWLWDWDDLWWWDWDLWDDWWDWLWDDDDW,5,7,3,18,16,13,8,12,10,37,42,WWLWWLWWDDDDDWWWWDLLDDDDDWWDWW,2,5,8,12,22,WLDDWWWLDWDLDDD,WWLWDDWWWLDDDWW
+Spezia,Ascoli,3-2,/match/asd-spezia/ascoli/2019,2019,33,serie_b,19,38,0,3,2,8,12,7,11,44,38,WWWWWWLLDWWDWWDDLDDDWLLWWWLLWW,8,4,3,25,15,10,9,12,9,34,45,DWWDDWWWWLLDWWDDWWDLWLLDDDDDLW,3,5,6,11,23,WWWLWDWDDDWLWLW,WDWWLDWWDWLDDL
+Padova,Nuova Cosenza,0-0,/match/calcio-padova/nuova-cosenza/2019,2019,33,serie_b,19,38,1,0,0,18,4,12,15,29,43,DWWDWDWWDWDLLWLWLDWWDDDWDDLLDLW,2,8,5,11,13,12,9,11,11,28,36,DLWDWDDWWDWLLWWDLDDDWWWLWWLDDWW,3,4,8,10,22,WDDDDLLLWDDDDLL,DWWDWWLWLDWLWDW
+Benevento,Palermo FC,1-2,/match/benevento-calcio/palermo/2019,2019,33,serie_b,19,38,2,1,2,6,14,8,8,47,35,DLWLLWWWWLDWDLDWLDDWLWDWWWLDWL,9,2,4,29,17,3,14,11,5,46,29,DDLWWWLDLWWDDLDDWLLWDLDWWDWDWW,6,5,4,20,18,DWLWWLWLWDWWWLW,DLWLLDLDLWLWDDW
+Livorno,Brescia,0-1,/match/livorno/brescia/2019,2019,33,serie_b,19,38,2,0,1,17,7,9,14,29,43,WLDLDLWWWLWDWWDDLDDDWWWWWDWWLW,6,4,5,15,15,1,15,12,3,62,38,DWDDWDWDWDWWWLWDWDLDLWDWDLLWDW,4,9,2,29,22,LLLWLDWDDDWWWWL,WDDDDWLDDLLDDLD
+Hellas Verona,Benevento,0-3,/match/hellas-verona-fc/benevento-calcio/2019,2019,34,serie_b,19,38,2,0,3,5,12,12,7,44,35,DLWLWWLDWWDWDLWDWDWDDDLWWWLDDDW,7,7,1,26,15,6,14,8,9,48,37,DLWLLWWWWLDWDLDWLDDWLWDWWWLDWLL,5,6,4,18,18,DWWLWDDWWDDWWDD,LLWWDDDLDLDWWDL
+Brescia,Salernitana,3-0,/match/brescia/salernitana-calcio-1919/2019,2019,34,serie_b,19,38,0,3,0,1,16,12,3,63,38,DWDDWDWDWDWWWLWDWDLDLWDWDLLWDWL,11,3,1,33,16,14,10,8,13,37,42,DDWWDWDWDWWWWLWWDLLLDLLWWWLWDWW,2,5,8,14,24,DDWWWWWWWDWWLWW,DWDDWWWDLDLWWWW
+Cittadella,Cremonese,1-3,/match/as-cittadella/us-cremonese/2019,2019,34,serie_b,19,38,2,1,3,8,11,12,8,41,31,WLWWLDDLDDWDWDDDWLDWWLWWLWDDDWW,8,4,3,32,15,9,9,12,10,30,28,DDWDWDDWLDWWWDWLWWDWWDWLWWDDLWD,1,7,7,12,22,WWLDDWWDLWLWWDW,DDDWDWWWDWWWDLD
+Perugia,Lecce,1-2,/match/perugia/lecce/2019,2019,34,serie_b,19,38,2,1,2,12,13,6,12,44,44,DWWLDWWWWLWWWDDDWWLLLLLLWLLWWLD,8,1,6,24,19,2,16,9,7,60,41,DDWWLDLLDWWLWLDWWDDLWDWWWWWDWWWW,5,5,6,25,27,WLWWWWDWLLLWLWL,DWLLDWLLWDLDWWDW
+Calcio Foggia,Livorno,2-2,/match/us-foggia/livorno/2019,2019,34,serie_b,19,38,1,2,2,13,8,12,11,37,43,WWLWWLWWDDDDDWWWWDLLDDDDDWWDWWW,6,7,2,25,20,17,7,9,15,29,44,WLDLDLWWWLWDWWDDLDDDWWWWWDWWLWL,1,5,9,14,28,WLWWDDDWDLDDWDW,WDDWWWWDLDWWDWW
+Palermo FC,Padova,1-1,/match/palermo/calcio-padova/2019,2019,34,serie_b,19,38,1,1,1,3,15,11,5,48,30,DDLWWWLDLWWDDLDDWLLWDLDWWDWDWWL,8,6,1,26,11,18,4,13,15,29,43,DWWDWDWWDWDLLWLWLDWWDDDWDDLLDLWD,2,4,10,18,30,DWWDWWDDWLDDWWW,DWWWWWLWWDWDWLDW
+Carpi,Pescara,0-0,/match/carpi/pescara-calcio/2019,2019,34,serie_b,19,38,1,0,0,19,6,7,18,31,59,WLWDLWDWLDDLLWWLLDLWDWLWWDWLWWW,3,5,7,16,25,4,13,10,9,45,43,DWDWWDWLLDWWDWWWWLDDLDLWWWWDWWWD,3,6,7,20,27,LDDLDLWLLDLWDLW,DDDLDWWWLDDLWWWW
+Nuova Cosenza,Spezia,1-0,/match/nuova-cosenza/asd-spezia/2019,2019,34,serie_b,19,38,0,1,0,10,9,12,11,28,36,DLWDWDDWWDWLLWWDLDDDWWWLWWLDDWWD,6,7,3,18,14,7,13,7,11,47,40,WWWWWWLLDWWDWWDDLDDDWLLWWWLLWWW,4,3,8,19,23,LDDWDLWDDDWWWLDW,WWWLDWWDLDLWWLW
+Ascoli,Venezia,1-0,/match/ascoli/venezia/2019,2019,34,serie_b,19,38,0,1,0,11,9,12,10,36,48,DWWDDWWWWLLDWWDDWWDLWLLDDDDDLWW,6,7,3,23,22,15,7,12,12,28,36,WWLWDWDDLWWWDWDLWDDWWDWLWDDDDWW,1,5,9,9,20,DWDWWLWDDWLLDDDW,WWWDLWDDWDWWWDW
+Benevento,Nuova Cosenza,4-2,/match/benevento-calcio/nuova-cosenza/2019,2019,35,serie_b,19,38,0,4,2,5,15,8,9,51,37,DLWLLWWWWLDWDLDWLDDWLWDWWWLDWLLL,9,2,5,30,19,10,10,12,11,29,36,DLWDWDDWWDWLLWWDLDDDWWWLWWLDDWWDW,3,5,8,10,22,DWLWWLWLWDWWWLWL,DWWDWWLWLDWLWDWD
+Salernitana,Carpi,2-5,/match/salernitana-calcio-1919/carpi/2019,2019,35,serie_b,19,38,2,2,5,14,10,8,14,37,45,DDWWDWDWDWWWWLWWDLLLDLLWWWLWDWWW,8,3,5,23,18,19,6,8,18,31,59,WLWDLWDWLDDLLWWLLDLWDWLWWDWLWWWD,3,2,11,15,34,DWDWWWWLWLLLWLDW,WWLWWDLWLDWWWWWW
+Venezia,Crotone,1-4,/match/venezia/fc-crotone/2019,2019,35,serie_b,19,38,2,1,4,15,7,12,13,28,37,WWLWDWDDLWWWDWDLWDDWWDWLWDDDDWWW,6,7,3,19,16,16,8,10,14,32,39,WWLLWDWWDWDWLWDWLWDLDDLWWDLDLWWD,4,2,10,12,21,WLDDWWWLDWDLDDDW,WLWWWWWWWLDWDLLW
+Pescara,Hellas Verona,1-1,/match/pescara-calcio/hellas-verona-fc/2019,2019,35,serie_b,19,38,1,1,1,4,13,11,9,45,43,DWDWWDWLLDWWDWWWWLDDLDLWWWWDWWWDD,10,4,2,25,16,6,12,12,8,44,38,DLWLWWLDWWDWDLWDWDWDDDLWWWLDDDWL,5,5,6,18,20,WWWWLWDWWDLWWDWD,LLWDWWLDDWDLWLDW
+Livorno,Palermo FC,2-2,/match/livorno/palermo/2019,2019,35,serie_b,19,38,1,2,2,17,7,10,15,31,46,WLDLDLWWWLWDWWDDLDDDWWWWWDWWLWLD,6,4,6,15,16,3,15,12,5,49,31,DDLWWWLDLWWDDLDDWLLWDLDWWDWDWWLD,7,5,4,22,19,LLLWLDWDDDWWWWLL,DLWLLDLDLWLWDDWL
+Spezia,Perugia,1-1,/match/asd-spezia/perugia/2019,2019,35,serie_b,19,38,1,1,1,7,13,7,12,47,41,WWWWWWLLDWWDWWDDLDDDWLLWWWLLWWWW,9,4,3,28,17,12,13,6,13,45,46,DWWLDWWWWLWWWDDDWWLLLLLLWLLWWLDL,5,5,6,20,25,WWWLWDWDDDWLWLWW,DWDWWLWDDWLLLLWD
+Cittadella,Ascoli,2-2,/match/as-cittadella/ascoli/2019,2019,35,serie_b,19,38,1,2,2,8,11,12,9,42,34,WLWWLDDLDDWDWDDDWLDWWLWWLWDDDWWL,8,4,4,33,18,9,10,12,10,37,48,DWWDDWWWWLLDWWDDWWDLWLLDDDDDLWWW,3,5,7,13,26,WWLDDWWDLWLWWDWL,WDWWLDWWDWLDDLW
+Cremonese,Calcio Foggia,1-0,/match/us-cremonese/us-foggia/2019,2019,35,serie_b,19,38,0,1,0,11,10,12,10,33,29,DDWDWDDWLDWWWDWLWWDWWDWLWWDDLWDL,8,5,3,18,6,13,8,13,11,39,45,WWLWWLWWDDDDDWWWWDLLDDDDDWWDWWWD,2,5,9,12,23,DWWDLWWDLWWDLWDW,WWLWDDWWWLDDDWWW
+Lecce,Brescia,1-0,/match/lecce/brescia/2019,2019,35,serie_b,19,38,0,1,0,2,17,9,7,62,42,DDWWLDLLDWWLWLDWWDDLWDWWWWWDWWWWL,11,4,1,35,14,1,17,12,3,66,38,DWDDWDWDWDWWWLWDWDLDLWDWDLLWDWLW,5,9,2,30,22,DWDLWWDWDWWWWWWW,WDDDDWLDDLLDDLDL
+Palermo FC,Spezia,2-2,/match/palermo/asd-spezia/2019,2019,36,serie_b,19,38,1,2,2,3,15,13,5,51,33,DDLWWWLDLWWDDLDDWLLWDLDWWDWDWWLDD,8,7,1,27,12,8,13,8,12,48,42,WWWWWWLLDWWDWWDDLDDDWLLWWWLLWWWWD,4,3,9,19,24,DWWDWWDDWLDDWWWD,WWWLDWWDLDLWWLWW
+Crotone,Benevento,1-0,/match/fc-crotone/benevento-calcio/2019,2019,36,serie_b,19,38,0,1,0,16,9,10,14,36,40,WWLLWDWWDWDWLWDWLWDLDDLWWDLDLWWDL,4,8,4,20,18,5,16,8,9,55,39,DLWLLWWWWLDWDLDWLDDWLWDWWWLDWLLLW,6,6,4,21,18,WLDWDDLDLDDLWDWD,LLWWDDDLDLDWWDLL
+Perugia,Cittadella,0-0,/match/perugia/as-cittadella/2019,2019,36,serie_b,19,38,1,0,0,12,13,7,13,46,47,DWWLDWWWWLWWWDDDWWLLLLLLWLLWWLDLD,8,1,7,25,21,9,11,13,9,44,36,WLWWLDDLDDWDWDDDWLDWWLWWLWDDDWWLD,3,8,5,9,16,WLWWWWDWLLLWLWLL,LWDLDDDDWDWWLDDW
+Carpi,Cremonese,1-2,/match/carpi/us-cremonese/2019,2019,36,serie_b,19,38,2,1,2,19,7,8,18,36,61,WLWDLWDWLDDLLWWLLDLWDWLWWDWLWWWDL,3,6,7,16,25,7,11,12,10,34,29,DDWDWDDWLDWWWDWLWWDWWDWLWWDDLWDLW,2,7,7,15,23,LDDLDLWLLDLWDLWD,DDDWDWWWDWWWDLDL
+Padova,Lecce,2-1,/match/calcio-padova/lecce/2019,2019,36,serie_b,19,38,0,2,1,18,4,14,15,30,44,DWWDWDWWDWDLLWLWLDWWDDDWDDLLDLWDD,2,9,5,11,13,2,18,9,7,63,42,DDWWLDLLDWWLWLDWWDDLWDWWWWWDWWWWLW,6,5,6,27,28,WDDDDLLLWDDDDLLD,DWLLDWLLWDLDWWDWL
+Hellas Verona,Livorno,2-3,/match/hellas-verona-fc/livorno/2019,2019,36,serie_b,19,38,2,2,3,6,12,13,8,45,39,DLWLWWLDWWDWDLWDWDWDDDLWWWLDDDWLD,7,7,2,26,18,17,7,11,15,33,48,WLDLDLWWWLWDWWDDLDDDWWWWWDWWLWLDD,1,6,9,16,30,DWWLWDDWWDDWWDDL,WDDWWWWDLDWWDWWD
+Calcio Foggia,Salernitana,3-1,/match/us-foggia/salernitana-calcio-1919/2019,2019,36,serie_b,19,38,0,3,1,13,8,13,12,39,46,WWLWWLWWDDDDDWWWWDLLDDDDDWWDWWWDW,6,8,2,27,22,14,10,8,15,39,50,DDWWDWDWDWWWWLWWDLLLDLLWWWLWDWWWL,2,5,9,14,27,WLWWDDDWDLDDWDWD,DWDDWWWDLDLWWWWW
+Nuova Cosenza,Venezia,1-1,/match/nuova-cosenza/venezia/2019,2019,36,serie_b,19,38,1,1,1,11,10,12,12,31,40,DLWDWDDWWDWLLWWDLDDDWWWLWWLDDWWDWW,7,7,3,19,14,15,7,12,14,29,41,WWLWDWDDLWWWDWDLWDDWWDWLWDDDDWWWL,1,5,10,9,21,LDDWDLWDDDWWWLDWW,WWWDLWDDWDWWWDWW
+Brescia,Ascoli,1-0,/match/brescia/ascoli/2019,2019,36,serie_b,19,38,0,1,0,1,17,12,4,66,39,DWDDWDWDWDWWWLWDWDLDLWDWDLLWDWLWW,12,3,1,36,16,10,10,13,10,39,50,DWWDDWWWWLLDWWDDWWDLWLLDDDDDLWWWD,3,6,7,15,28,DDWWWWWWWDWWLWWW,WDWWLDWWDWLDDLWD
+Cremonese,Brescia,0-0,/match/us-cremonese/brescia/2019,2019,37,serie_b,19,38,1,0,0,6,12,12,10,36,30,DDWDWDDWLDWWWDWLWWDWWDWLWWDDLWDLWL,9,5,3,19,6,1,18,12,4,67,39,DWDDWDWDWDWWWLWDWDLDLWDWDLLWDWLWWW,5,9,3,30,23,DWWDLWWDLWWDLWDWW,WDDDDWLDDLLDDLDLW
+Spezia,Crotone,2-0,/match/asd-spezia/fc-crotone/2019,2019,37,serie_b,19,38,0,2,0,8,13,9,12,50,44,WWWWWWLLDWWDWWDDLDDDWLLWWWLLWWWWDD,9,5,3,29,18,14,10,10,14,37,40,WWLLWDWWDWDWLWDWLWDLDDLWWDLDLWWDLW,5,2,10,16,22,WWWLWDWDDDWLWLWWD,WLWWWWWWWLDWDLLWL
+Ascoli,Palermo FC,1-2,/match/ascoli/palermo/2019,2019,37,serie_b,19,38,2,1,2,11,10,13,11,39,51,DWWDDWWWWLLDWWDDWWDLWLLDDDDDLWWWDW,7,7,3,24,22,3,15,14,5,53,35,DDLWWWLDLWWDDLDDWLLWDLDWWDWDWWLDDD,7,6,4,24,21,DWDWWLWDDWLLDDDWW,DLWLLDLDLWLWDDWLD
+Venezia,Pescara,2-2,/match/venezia/pescara-calcio/2019,2019,37,serie_b,19,38,1,2,2,16,7,13,14,30,42,WWLWDWDDLWWWDWDLWDDWWDWLWDDDDWWWLD,6,7,4,20,20,4,13,12,9,46,44,DWDWWDWLLDWWDWWWWLDDLDLWWWWDWWWDDD,3,7,7,20,27,WLDDWWWLDWDLDDDWL,DDDLDWWWLDDLWWWWD
+Cittadella,Hellas Verona,3-0,/match/as-cittadella/hellas-verona-fc/2019,2019,37,serie_b,19,38,0,3,0,9,11,14,9,44,36,WLWWLDDLDDWDWDDDWLDWWLWWLWDDDWWLDD,8,5,4,35,20,7,12,13,9,47,42,DLWLWWLDWWDWDLWDWDWDDDLWWWLDDDWLDL,5,6,6,19,21,WWLDDWWDLWLWWDWLD,LLWDWWLDDWDLWLDWD
+Livorno,Carpi,1-0,/match/livorno/carpi/2019,2019,37,serie_b,19,38,0,1,0,17,8,11,15,36,50,WLDLDLWWWLWDWWDDLDDDWWWWWDWWLWLDDL,6,5,6,17,18,19,7,8,19,37,63,WLWDLWDWLDDLLWWLLDLWDWLWWDWLWWWDLL,4,2,11,20,36,LLLWLDWDDDWWWWLLD,WWLWWDLWLDWWWWWWL
+Benevento,Padova,3-3,/match/benevento-calcio/calcio-padova/2019,2019,37,serie_b,19,38,1,3,3,5,16,8,10,55,40,DLWLLWWWWLDWDLDWLDDWLWDWWWLDWLLLWW,10,2,5,34,21,18,5,14,15,32,45,DWWDWDWWDWDLLWLWLDWWDDDWDDLLDLWDDW,2,5,10,19,31,DWLWWLWLWDWWWLWLW,DWWWWWLWWDWDWLDWD
+Salernitana,Nuova Cosenza,1-2,/match/salernitana-calcio-1919/nuova-cosenza/2019,2019,37,serie_b,19,38,2,1,2,15,10,8,16,40,53,DDWWDWDWDWWWWLWWDLLLDLLWWWLWDWWWLW,8,3,6,25,23,10,10,13,12,32,41,DLWDWDDWWDWLLWWDLDDDWWWLWWLDDWWDWWD,3,5,9,12,26,DWDWWWWLWLLLWLDWL,DWWDWWLWLDWLWDWDW
+Calcio Foggia,Perugia,1-0,/match/us-foggia/perugia/2019,2019,37,serie_b,19,38,0,1,0,12,9,13,12,42,47,WWLWWLWWDDDDDWWWWDLLDDDDDWWDWWWDWW,7,8,2,30,23,13,13,8,13,46,47,DWWLDWWWWLWWWDDDWWLLLLLLWLLWWLDLDD,5,6,6,21,26,WLWWDDDWDLDDWDWDW,DWDWWLWDDWLLLLWDD
+Crotone,Ascoli,3-0,/match/fc-crotone/ascoli/2019,2019,38,serie_b,19,38,0,3,0,14,10,10,15,37,42,WWLLWDWWDWDWLWDWLWDLDDLWWDLDLWWDLWW,5,8,4,21,18,12,10,13,12,40,53,DWWDDWWWWLLDWWDDWWDLWLLDDDDDLWWWDWL,3,6,8,15,29,WLDWDDLDLDDLWDWDW,WDWWLDWWDWLDDLWDW
+Brescia,Benevento,2-3,/match/brescia/benevento-calcio/2019,2019,38,serie_b,19,38,2,2,3,1,18,13,4,67,39,DWDDWDWDWDWWWLWDWDLDLWDWDLLWDWLWWWD,13,3,1,37,16,5,16,9,10,58,43,DLWLLWWWWLDWDLDWLDDWLWDWWWLDWLLLWWD,6,6,5,21,19,DDWWWWWWWDWWLWWWW,LLWWDDDLDLDWWDLLW
+Palermo FC,Cittadella,2-2,/match/palermo/as-cittadella/2019,2019,38,serie_b,19,38,1,2,2,3,16,14,5,55,36,DDLWWWLDLWWDDLDDWLLWDLDWWDWDWWLDDDL,8,8,1,29,14,8,12,14,9,47,36,WLWWLDDLDDWDWDDDWLDWWLWWLWDDDWWLDDW,3,9,5,9,16,DWWDWWDDWLDDWWWDD,LWDLDDDDWDWWLDDWD
+Perugia,Cremonese,3-1,/match/perugia/us-cremonese/2019,2019,38,serie_b,19,38,0,3,1,13,13,8,14,46,48,DWWLDWWWWLWWWDDDWWLLLLLLWLLWWLDLDDW,8,2,7,25,21,7,12,13,10,36,30,DDWDWDDWLDWWWDWLWWDWWDWLWWDDLWDLWLD,3,7,7,17,24,WLWWWWDWLLLWLWLLD,DDDWDWWWDWWWDLDLL
+Hellas Verona,Calcio Foggia,2-1,/match/hellas-verona-fc/us-foggia/2019,2019,38,serie_b,19,38,0,2,1,9,12,13,10,47,45,DLWLWWLDWWDWDLWDWDWDDDLWWWLDDDWLDLW,7,7,3,28,21,10,10,13,12,43,47,WWLWWLWWDDDDDWWWWDLLDDDDDWWDWWWDWWW,2,5,10,12,24,DWWLWDDWWDDWWDDLL,WWLWDDWWWLDDDWWWW
+Padova,Livorno,1-1,/match/calcio-padova/livorno/2019,2019,38,serie_b,19,38,1,1,1,18,5,15,15,35,48,DWWDWDWWDWDLLWLWLDWWDDDWDDLLDLWDDWD,3,9,5,13,14,16,9,11,15,37,50,WLDLDLWWWLWDWWDDLDDDWWWWWDWWLWLDDLW,2,6,9,19,32,WDDDDLLLWDDDDLLDW,WDDWWWWDLDWWDWWDL
+Pescara,Salernitana,2-0,/match/pescara-calcio/salernitana-calcio-1919/2019,2019,38,serie_b,19,38,0,2,0,4,13,13,9,48,46,DWDWWDWLLDWWDWWWWLDDLDLWWWWDWWWDDDD,10,5,2,26,17,17,10,8,17,41,55,DDWWDWDWDWWWWLWWDLLLDLLWWWLWDWWWLWL,2,5,10,15,30,WWWWLWDWWDLWWDWDD,DWDDWWWDLDLWWWWWW
+Lecce,Spezia,2-1,/match/lecce/asd-spezia/2019,2019,38,serie_b,19,38,0,2,1,2,18,9,8,64,44,DDWWLDLLDWWLWLDWWDDLWDWWWWWDWWWWLWW,12,4,1,36,14,6,14,9,12,52,44,WWWWWWLLDWWDWWDDLDDDWLLWWWLLWWWWDDW,4,4,9,21,26,DWDLWWDWDWWWWWWWW,WWWLDWWDLDLWWLWWD
+Carpi,Venezia,2-3,/match/carpi/venezia/2019,2019,38,serie_b,19,38,2,2,3,19,7,8,20,37,64,WLWDLWDWLDDLLWWLLDLWDWLWWDWLWWWDLLW,3,6,8,17,27,15,7,14,14,32,44,WWLWDWDDLWWWDWDLWDDWWDWLWDDDDWWWLDD,1,6,10,10,22,LDDLDLWLLDLWDLWDL,WWWDLWDDWDWWWDWWD

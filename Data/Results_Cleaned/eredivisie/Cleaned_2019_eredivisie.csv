@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+PEC Zwolle,Heerenveen,2-3,/match/fc-zwolle/heerenveen/2019,2019,1,eredivisie,18,34,2,2,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Willem II,VVV Venlo,0-1,/match/willem-ii/vvv/2019,2019,1,eredivisie,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ajax,Heracles,1-1,/match/ajax/heracles/2019,2019,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSV,Utrecht,4-0,/match/psv/fc-utrecht/2019,2019,1,eredivisie,18,34,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Excelsior,Fortuna Sittard,1-1,/match/excelsior/fortuna-sittard/2019,2019,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+ADO Den Haag,Emmen,1-2,/match/ado-den-haag/emmen/2019,2019,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+De Graafschap,Feyenoord,2-0,/match/graafschap/feyenoord/2019,2019,1,eredivisie,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitesse,Groningen,5-1,/match/vitesse/fc-groningen/2019,2019,1,eredivisie,18,34,0,5,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+AZ Alkmaar,NAC Breda,5-0,/match/az/nac-breda/2019,2019,1,eredivisie,18,34,0,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Groningen,Willem II,0-1,/match/fc-groningen/willem-ii/2019,2019,2,eredivisie,18,34,2,0,1,12,0,0,1,1,5,W,0,0,0,0,0,18,0,0,1,0,1,L,0,0,0,0,0,,
+NAC Breda,De Graafschap,3-0,/match/nac-breda/graafschap/2019,2019,2,eredivisie,18,34,0,3,0,16,0,0,1,0,5,W,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
+VVV Venlo,Ajax,0-1,/match/vvv/ajax/2019,2019,2,eredivisie,18,34,2,0,1,9,1,0,0,1,0,L,0,0,0,0,0,6,0,1,0,1,1,D,0,0,0,0,0,,
+Fortuna Sittard,PSV,1-2,/match/fortuna-sittard/psv/2019,2019,2,eredivisie,18,34,2,1,2,10,0,1,0,1,1,D,0,0,0,0,0,2,1,0,0,4,0,W,0,0,0,0,0,,
+Heracles,ADO Den Haag,4-2,/match/heracles/ado-den-haag/2019,2019,2,eredivisie,18,34,0,4,2,11,0,1,0,1,1,D,0,0,0,0,0,14,0,0,1,1,2,L,0,0,0,0,0,,
+Utrecht,PEC Zwolle,2-0,/match/fc-utrecht/fc-zwolle/2019,2019,2,eredivisie,18,34,0,2,0,15,0,0,1,0,4,W,0,0,0,0,0,13,0,0,1,2,3,L,0,0,0,0,0,,
+Feyenoord,Excelsior,3-0,/match/feyenoord/excelsior/2019,2019,2,eredivisie,18,34,0,3,0,17,0,0,1,0,2,W,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
+Emmen,AZ Alkmaar,1-4,/match/emmen/az/2019,2019,2,eredivisie,18,34,2,1,4,7,1,0,0,2,1,L,0,0,0,0,0,4,1,0,0,5,0,W,0,0,0,0,0,,
+Heerenveen,Vitesse,1-1,/match/heerenveen/vitesse/2019,2019,2,eredivisie,18,34,1,1,1,8,1,0,0,3,2,L,0,0,0,0,0,3,1,0,0,5,1,W,0,0,0,0,0,,
+ADO Den Haag,Fortuna Sittard,3-1,/match/ado-den-haag/fortuna-sittard/2019,2019,3,eredivisie,18,34,0,3,1,18,0,0,2,3,6,LW,0,0,1,1,2,15,0,1,1,2,3,DL,0,1,0,1,1,L,D
+Ajax,Emmen,5-0,/match/ajax/emmen/2019,2019,3,eredivisie,18,34,0,5,0,7,1,1,0,2,1,DL,0,1,0,1,1,13,1,0,1,3,5,LL,1,0,0,2,1,D,L
+De Graafschap,Groningen,0-1,/match/graafschap/fc-groningen/2019,2019,3,eredivisie,18,34,2,0,1,5,1,0,1,2,3,WW,1,0,0,2,0,16,0,0,2,1,6,WL,0,0,1,1,5,W,W
+NAC Breda,Excelsior,0-2,/match/nac-breda/excelsior/2019,2019,3,eredivisie,18,34,2,0,2,8,1,0,1,3,5,WW,1,0,0,3,0,14,0,1,1,1,4,DW,0,0,1,0,3,W,W
+PEC Zwolle,PSV,1-2,/match/fc-zwolle/psv/2019,2019,3,eredivisie,18,34,2,1,2,17,0,0,2,2,5,LW,0,0,1,2,3,2,2,0,0,6,1,WL,1,0,0,2,1,L,L
+Willem II,Heracles,5-0,/match/willem-ii/heracles/2019,2019,3,eredivisie,18,34,0,5,0,11,1,0,1,1,1,LL,0,0,1,0,1,3,1,1,0,5,3,DW,0,1,0,1,1,L,D
+Heerenveen,Feyenoord,3-5,/match/heerenveen/feyenoord/2019,2019,3,eredivisie,18,34,2,3,5,9,1,1,0,4,3,LD,0,1,0,1,1,6,1,0,1,3,2,WW,0,0,1,0,2,D,W
+Utrecht,VVV Venlo,1-1,/match/fc-utrecht/vvv/2019,2019,3,eredivisie,18,34,1,1,1,10,1,0,1,2,4,WW,1,0,0,2,0,12,1,0,1,1,1,LL,1,0,0,1,0,W,L
+AZ Alkmaar,Vitesse,0-0,/match/az/vitesse/2019,2019,3,eredivisie,18,34,1,0,0,1,2,0,0,9,1,WL,1,0,0,5,0,4,1,1,0,6,2,WD,0,1,0,1,1,W,D
+Emmen,De Graafschap,1-1,/match/emmen/graafschap/2019,2019,4,eredivisie,18,34,1,1,1,15,1,0,2,3,10,LLW,0,0,1,1,4,9,1,0,2,2,4,WWL,0,0,1,0,3,L,W
+VVV Venlo,Heerenveen,1-1,/match/vvv/heerenveen/2019,2019,4,eredivisie,18,34,1,1,1,14,1,1,1,2,2,LLD,0,0,1,0,1,11,1,1,1,7,8,LDL,1,0,0,3,2,L,L
+PSV,Willem II,6-1,/match/psv/willem-ii/2019,2019,4,eredivisie,18,34,0,6,1,2,3,0,0,8,2,WLL,1,0,0,4,0,5,2,0,1,6,1,LLW,1,0,0,1,0,W,L
+Excelsior,ADO Den Haag,2-4,/match/excelsior/ado-den-haag/2019,2019,4,eredivisie,18,34,2,2,4,12,1,1,1,3,4,DWL,0,1,0,1,1,13,1,0,2,6,7,LWW,0,0,1,2,4,D,W
+Fortuna Sittard,Utrecht,1-1,/match/fortuna-sittard/fc-utrecht/2019,2019,4,eredivisie,18,34,1,1,1,17,0,1,2,3,6,DLW,0,0,1,1,2,6,1,1,1,3,5,WWD,0,0,1,0,4,L,W
+Groningen,PEC Zwolle,0-1,/match/fc-groningen/fc-zwolle/2019,2019,4,eredivisie,18,34,2,0,1,16,1,0,2,2,6,WLL,0,0,1,0,1,18,0,0,3,3,7,LWL,0,0,1,0,2,L,W
+Heracles,AZ Alkmaar,3-2,/match/heracles/az/2019,2019,4,eredivisie,18,34,0,3,2,8,1,1,1,5,8,DWW,1,0,0,4,2,1,2,1,0,9,1,WLD,1,0,0,4,1,W,L
+Vitesse,Ajax,0-4,/match/vitesse/ajax/2019,2019,4,eredivisie,18,34,2,0,4,7,1,2,0,6,2,WDD,1,0,0,5,1,3,2,1,0,7,1,DLW,1,0,0,1,0,W,L
+Feyenoord,NAC Breda,4-2,/match/feyenoord/nac-breda/2019,2019,4,eredivisie,18,34,0,4,2,4,2,0,1,8,5,WWL,1,0,0,3,0,10,1,0,2,3,7,WWL,0,0,1,0,5,W,W
+De Graafschap,VVV Venlo,1-2,/match/graafschap/vvv/2019,2019,5,eredivisie,18,34,2,1,2,11,1,1,2,3,5,WWLD,1,0,1,2,1,10,1,2,1,3,3,LLDD,1,1,0,2,1,WL,LD
+ADO Den Haag,PSV,0-7,/match/ado-den-haag/psv/2019,2019,5,eredivisie,18,34,2,0,7,9,2,0,2,10,9,LWWL,1,0,1,4,3,1,4,0,0,14,3,WLLW,2,0,0,4,2,LW,LL
+Willem II,Excelsior,2-2,/match/willem-ii/excelsior/2019,2019,5,eredivisie,18,34,1,2,2,7,2,0,2,7,7,LLWW,1,0,1,5,1,15,1,1,2,5,8,DWLL,1,0,1,2,3,LW,WL
+Ajax,Groningen,3-0,/match/ajax/fc-groningen/2019,2019,5,eredivisie,18,34,0,3,0,2,3,1,0,11,1,DLWL,1,1,0,6,1,17,1,0,3,2,7,WLLL,1,0,1,2,5,DW,WL
+AZ Alkmaar,Feyenoord,1-1,/match/az/feyenoord/2019,2019,5,eredivisie,18,34,1,1,1,5,2,1,1,11,4,WLDW,1,1,0,5,0,3,3,0,1,12,7,WWLW,1,0,1,5,5,WD,WL
+Heerenveen,Heracles,3-5,/match/heerenveen/heracles/2019,2019,5,eredivisie,18,34,2,3,5,12,1,2,1,8,9,LDLD,0,1,1,4,6,4,2,1,1,8,10,DWWW,0,1,1,1,6,DL,DW
+Utrecht,Emmen,1-2,/match/fc-utrecht/emmen/2019,2019,5,eredivisie,18,34,2,1,2,6,1,2,1,4,6,WWDD,1,1,0,3,1,13,1,1,2,4,11,LLWD,1,0,1,2,6,WD,LW
+NAC Breda,Fortuna Sittard,2-3,/match/nac-breda/fortuna-sittard/2019,2019,5,eredivisie,18,34,2,2,3,14,1,0,3,5,11,WWLW,1,0,1,3,2,16,0,2,2,4,7,DLWD,0,1,1,2,4,WL,DW
+PEC Zwolle,Vitesse,0-2,/match/fc-zwolle/vitesse/2019,2019,5,eredivisie,18,34,2,0,2,18,1,0,3,4,7,LWLL,0,0,2,3,5,8,1,2,1,6,6,WDDL,0,2,0,1,1,LL,DD
+Heracles,De Graafschap,4-0,/match/heracles/graafschap/2019,2019,6,eredivisie,18,34,0,4,0,4,3,1,1,13,13,DWWWL,2,0,0,7,4,12,1,1,3,4,7,WWLDL,0,1,1,1,4,WW,WD
+Fortuna Sittard,Willem II,4-4,/match/fortuna-sittard/willem-ii/2019,2019,6,eredivisie,18,34,1,4,4,15,1,2,2,7,9,DLWDL,0,1,1,2,3,7,2,1,2,9,9,LLWWD,1,0,1,2,6,LD,LW
+Excelsior,Heerenveen,3-3,/match/excelsior/heerenveen/2019,2019,6,eredivisie,18,34,1,3,3,14,1,2,2,7,10,DWLLD,0,1,1,3,5,13,1,2,2,11,14,LDLDL,1,1,0,4,3,DL,LD
+VVV Venlo,NAC Breda,3-0,/match/vvv/nac-breda/2019,2019,6,eredivisie,18,34,0,3,0,8,2,2,1,5,4,LLDDL,0,1,1,1,2,16,1,0,4,7,14,WWLWL,0,0,2,2,9,LD,WW
+Vitesse,ADO Den Haag,1-1,/match/vitesse/ado-den-haag/2019,2019,6,eredivisie,18,34,1,1,1,6,2,2,1,8,6,WDDLL,1,0,1,5,5,10,2,0,3,10,16,LWWLL,1,0,1,6,6,WL,WL
+Feyenoord,Utrecht,1-0,/match/feyenoord/fc-utrecht/2019,2019,6,eredivisie,18,34,0,1,0,3,3,1,1,13,8,WWLWD,2,0,0,7,2,9,1,2,2,5,8,WWDDL,0,1,1,1,5,WW,WD
+Emmen,PEC Zwolle,0-1,/match/emmen/fc-zwolle/2019,2019,6,eredivisie,18,34,2,0,1,11,2,1,2,6,12,LLWDL,0,1,1,2,5,18,1,0,4,4,9,LWLLL,1,0,1,1,2,LD,WL
+Groningen,AZ Alkmaar,1-3,/match/fc-groningen/az/2019,2019,6,eredivisie,18,34,2,1,3,17,1,0,4,2,10,WLLLW,0,0,2,0,2,5,2,2,1,12,5,WLDWD,1,0,1,6,4,LL,LW
+PSV,Ajax,3-0,/match/psv/ajax/2019,2019,6,eredivisie,18,34,0,3,0,1,5,0,0,21,3,WLLWL,2,0,0,10,1,2,4,1,0,14,1,DLWLW,2,0,0,5,0,WW,LL
+Heerenveen,ADO Den Haag,1-1,/match/heerenveen/ado-den-haag/2019,2019,7,eredivisie,18,34,1,1,1,13,1,3,2,14,17,LDLDLD,0,1,2,7,11,11,2,1,3,11,17,LWWLLD,1,1,1,7,7,DLL,WLD
+NAC Breda,PSV,0-2,/match/nac-breda/psv/2019,2019,7,eredivisie,18,34,2,0,2,16,1,0,5,7,17,WWLWLW,1,0,2,5,5,1,6,0,0,24,3,WLLWLW,3,0,0,11,2,WLL,LLL
+Fortuna Sittard,Ajax,0-2,/match/fortuna-sittard/ajax/2019,2019,7,eredivisie,18,34,2,0,2,10,1,3,2,11,13,DLWDLD,0,2,1,6,7,4,4,1,1,14,4,DLWLWW,2,0,1,5,3,LDD,LLW
+Excelsior,VVV Venlo,1-0,/match/excelsior/vvv/2019,2019,7,eredivisie,18,34,0,1,0,9,1,3,2,10,13,DWLLDD,0,2,1,6,8,6,3,2,1,8,4,LLDDLW,2,1,0,4,2,DLD,LDL
+Heracles,Emmen,2-1,/match/heracles/emmen/2019,2019,7,eredivisie,18,34,0,2,1,3,4,1,1,17,13,DWWWLW,3,0,0,11,4,14,2,1,3,6,13,LLWDLL,2,0,1,4,7,WWW,LWL
+De Graafschap,Willem II,2-1,/match/graafschap/willem-ii/2019,2019,7,eredivisie,18,34,0,2,1,15,1,1,4,4,11,WWLDLW,1,0,2,3,3,8,2,2,2,13,13,LLWWDD,1,1,1,6,10,WLL,LWD
+AZ Alkmaar,PEC Zwolle,2-2,/match/az/fc-zwolle/2019,2019,7,eredivisie,18,34,1,2,2,5,3,2,1,15,6,WLDWDL,1,2,0,6,1,17,2,0,4,5,9,LWLLLL,2,0,1,2,2,WDD,WLL
+Groningen,Utrecht,1-1,/match/fc-groningen/fc-utrecht/2019,2019,7,eredivisie,18,34,1,1,1,18,1,0,5,3,13,WLLLWL,0,0,3,1,5,12,1,2,3,5,9,WWDDLW,0,1,2,1,6,LLL,WDW
+Feyenoord,Vitesse,2-1,/match/feyenoord/vitesse/2019,2019,7,eredivisie,18,34,0,2,1,2,4,1,1,14,8,WWLWDW,3,0,0,8,2,7,2,3,1,9,7,WDDLLD,1,2,0,3,1,WWW,DDL
+Utrecht,NAC Breda,2-1,/match/fc-utrecht/nac-breda/2019,2019,8,eredivisie,18,34,0,2,1,12,1,3,3,6,10,WWDDLWD,1,1,1,4,3,17,1,0,6,7,19,WWLWLWL,0,0,3,2,12,WDL,WWW
+ADO Den Haag,Groningen,1-0,/match/ado-den-haag/fc-groningen/2019,2019,8,eredivisie,18,34,0,1,0,11,2,2,3,12,18,LWWLLDD,1,0,2,4,10,18,1,1,5,4,14,WLLLWLD,1,0,2,2,8,LWL,WLW
+PEC Zwolle,Excelsior,2-0,/match/fc-zwolle/excelsior/2019,2019,8,eredivisie,18,34,0,2,0,16,2,1,4,7,11,LWLLLLD,0,0,3,3,7,7,2,3,2,11,13,DWLLDDW,1,1,1,4,5,LLL,WLD
+PSV,VVV Venlo,4-0,/match/psv/vvv/2019,2019,8,eredivisie,18,34,0,4,0,1,7,0,0,26,3,WLLWLWL,3,0,0,13,1,6,3,2,2,8,5,LLDDLWW,2,1,1,4,3,WWW,LDLW
+De Graafschap,Heerenveen,0-5,/match/graafschap/heerenveen/2019,2019,8,eredivisie,18,34,2,0,5,9,2,1,4,6,12,WWLDLWW,2,0,2,5,4,13,1,4,2,15,18,LDLDLDD,1,2,0,7,6,WLLW,LDD
+Emmen,Fortuna Sittard,3-3,/match/emmen/fortuna-sittard/2019,2019,8,eredivisie,18,34,1,3,3,15,2,1,4,7,15,LLWDLLW,0,1,2,2,6,14,1,3,3,11,15,DLWDLDL,1,1,1,5,6,LDL,DWL
+Willem II,Feyenoord,1-1,/match/willem-ii/feyenoord/2019,2019,8,eredivisie,18,34,1,1,1,10,2,2,3,14,15,LLWWDDW,1,1,1,7,3,3,5,1,1,16,9,WWLWDWW,1,1,1,6,6,LWD,WLD
+Vitesse,Heracles,4-0,/match/vitesse/heracles/2019,2019,8,eredivisie,18,34,0,4,0,8,2,3,2,10,9,WDDLLDW,1,1,1,6,6,2,5,1,1,19,14,DWWWLWW,1,1,1,6,9,WLD,DWL
+Ajax,AZ Alkmaar,5-0,/match/ajax/az/2019,2019,8,eredivisie,18,34,0,5,0,4,5,1,1,16,4,DLWLWWL,2,1,0,9,1,5,3,3,1,17,8,WLDWDLD,2,0,1,9,5,DWW,LWL
+PSV,Emmen,6-0,/match/psv/emmen/2019,2019,9,eredivisie,18,34,0,6,0,1,8,0,0,30,3,WLLWLWLW,4,0,0,17,1,16,2,2,4,10,18,LLWDLLWD,2,0,2,5,9,WWWW,LWLW
+Excelsior,Vitesse,2-0,/match/excelsior/vitesse/2019,2019,9,eredivisie,18,34,0,2,0,10,2,3,3,11,15,DWLLDDWW,1,2,1,7,8,6,3,3,2,14,9,WDDLLDWW,1,2,1,4,3,DLDW,DDLW
+Heerenveen,Ajax,0-4,/match/heerenveen/ajax/2019,2019,9,eredivisie,18,34,2,0,4,12,2,4,2,20,18,LDLDLDDL,0,2,2,8,12,3,6,1,1,21,4,DLWLWWLW,3,0,1,7,3,DLLD,LLWL
+Utrecht,AZ Alkmaar,2-1,/match/fc-utrecht/az/2019,2019,9,eredivisie,18,34,0,2,1,7,2,3,3,8,11,WWDDLWDW,2,1,1,6,4,5,3,3,2,17,13,WLDWDLDW,2,0,2,9,10,WDLW,LWLW
+NAC Breda,Willem II,2-2,/match/nac-breda/willem-ii/2019,2019,9,eredivisie,18,34,1,2,2,17,1,0,7,8,21,WWLWLWLW,1,0,3,5,7,9,2,3,3,15,16,LLWWDDWD,1,1,2,7,12,WLLL,LWDW
+Heracles,Groningen,4-1,/match/heracles/fc-groningen/2019,2019,9,eredivisie,18,34,0,4,1,4,5,1,2,19,18,DWWWLWWW,4,0,0,13,5,18,1,1,6,4,15,WLLLWLDW,1,0,3,2,9,WWWW,WLWW
+Feyenoord,PEC Zwolle,3-0,/match/feyenoord/fc-zwolle/2019,2019,9,eredivisie,18,34,0,3,0,2,5,2,1,17,10,WWLWDWWD,4,0,0,10,3,14,3,1,4,9,11,LWLLLLDW,2,1,1,4,4,WWWW,WLLD
+VVV Venlo,ADO Den Haag,2-0,/match/vvv/ado-den-haag/2019,2019,9,eredivisie,18,34,0,2,0,11,3,2,3,8,9,LLDDLWWW,1,1,1,4,2,8,3,2,3,13,18,LWWLLDDW,1,2,1,8,8,LDW,WLDD
+Fortuna Sittard,De Graafschap,3-1,/match/fortuna-sittard/graafschap/2019,2019,9,eredivisie,18,34,0,3,1,15,1,4,3,14,18,DLWDLDLD,0,2,2,6,9,13,2,1,5,6,17,WWLDLWWL,0,1,2,1,8,LDDL,WDW
+Emmen,VVV Venlo,1-1,/match/emmen/vvv/2019,2019,10,eredivisie,18,34,1,1,1,16,2,2,5,10,24,LLWDLLWDW,0,2,2,5,9,6,4,2,3,10,9,LLDDLWWWW,2,1,2,4,7,LDLD,LDLWW
+ADO Den Haag,NAC Breda,1-1,/match/ado-den-haag/nac-breda/2019,2019,10,eredivisie,18,34,1,1,1,10,3,2,4,13,20,LWWLLDDWW,2,0,2,5,10,17,1,1,7,10,23,WWLWLWLWD,0,0,4,3,14,LWLW,WWWW
+De Graafschap,Excelsior,4-1,/match/graafschap/excelsior/2019,2019,10,eredivisie,18,34,0,4,1,14,2,1,6,7,20,WWLDLWWLW,2,0,3,5,9,7,3,3,3,13,15,DWLLDDWWW,1,1,2,4,7,WLLWL,WLDW
+Groningen,PSV,1-2,/match/fc-groningen/psv/2019,2019,10,eredivisie,18,34,2,1,2,18,1,1,7,5,19,WLLLWLDWW,0,1,3,2,6,1,9,0,0,36,3,WLLWLWLWW,4,0,0,13,2,LLLD,LLLL
+PEC Zwolle,Heracles,1-1,/match/fc-zwolle/heracles/2019,2019,10,eredivisie,18,34,1,1,1,15,3,1,5,9,14,LWLLLLDWW,1,0,3,5,7,3,6,1,2,23,19,DWWWLWWWW,1,1,2,6,13,LLLW,DWLW
+Vitesse,Fortuna Sittard,2-1,/match/vitesse/fortuna-sittard/2019,2019,10,eredivisie,18,34,0,2,1,8,3,3,3,14,11,WDDLLDWWW,2,1,1,10,6,12,2,4,3,17,19,DLWDLDLDW,1,2,1,8,9,WLDW,DWLD
+Willem II,Utrecht,0-1,/match/willem-ii/fc-utrecht/2019,2019,10,eredivisie,18,34,2,0,1,11,2,4,3,17,18,LLWWDDWDD,1,2,1,8,4,5,3,3,3,10,12,WWDDLWDWW,0,2,2,2,7,LWDD,WDWD
+Ajax,Feyenoord,3-0,/match/ajax/feyenoord/2019,2019,10,eredivisie,18,34,0,3,0,4,7,1,1,25,4,DLWLWWLWL,3,1,0,14,1,2,6,2,1,20,10,WWLWDWWDW,1,2,1,7,7,DWWW,WLDD
+AZ Alkmaar,Heerenveen,2-3,/match/az/heerenveen/2019,2019,10,eredivisie,18,34,2,2,3,9,3,3,3,18,15,WLDWDLDWW,1,3,0,8,3,13,2,4,3,20,22,LDLDLDDLL,2,2,0,12,6,WDDD,LDDL
+Excelsior,Groningen,2-4,/match/excelsior/fc-groningen/2019,2019,11,eredivisie,18,34,2,2,4,8,3,3,4,14,19,DWLLDDWWWW,2,2,1,9,8,18,1,1,8,6,21,WLLLWLDWWL,1,0,4,3,13,DLDWW,WLWWW
+NAC Breda,Heracles,2-1,/match/nac-breda/heracles/2019,2019,11,eredivisie,18,34,0,2,1,17,1,2,7,11,24,WWLWLWLWDD,1,1,3,7,9,4,6,2,2,24,20,DWWWLWWWWD,1,2,2,7,14,WLLLD,DWLWD
+PSV,Vitesse,1-0,/match/psv/vitesse/2019,2019,11,eredivisie,18,34,0,1,0,1,10,0,0,38,4,WLLWLWLWWL,5,0,0,23,1,6,4,3,3,16,12,WDDLLDWWWW,1,2,2,4,5,WWWWW,DDLWW
+Ajax,Willem II,2-0,/match/ajax/willem-ii/2019,2019,11,eredivisie,18,34,0,2,0,2,8,1,1,28,4,DLWLWWLWLW,4,1,0,17,1,12,2,4,4,17,19,LLWWDDWDDL,1,2,2,9,14,DWWWW,LWDWD
+AZ Alkmaar,De Graafschap,1-0,/match/az/graafschap/2019,2019,11,eredivisie,18,34,0,1,0,10,3,3,4,20,18,WLDWDLDWWL,1,3,1,10,6,11,3,1,6,11,21,WWLDLWWLWW,0,1,3,2,11,WDDDL,WDWW
+Heerenveen,Emmen,1-1,/match/heerenveen/emmen/2019,2019,11,eredivisie,18,34,1,1,1,14,3,4,3,23,24,LDLDLDDLLL,0,2,3,8,16,16,2,3,5,11,25,LLWDLLWDWD,2,0,3,5,15,DLLDL,LWLWW
+Utrecht,ADO Den Haag,3-0,/match/fc-utrecht/ado-den-haag/2019,2019,11,eredivisie,18,34,0,3,0,5,4,3,3,11,12,WWDDLWDWWL,3,1,1,8,5,9,3,3,4,14,21,LWWLLDDWWD,1,2,2,8,10,WDLWW,WLDDW
+Fortuna Sittard,PEC Zwolle,3-0,/match/fortuna-sittard/fc-zwolle/2019,2019,11,eredivisie,18,34,0,3,0,13,2,4,4,18,21,DLWDLDLDWW,1,2,2,9,10,15,3,2,5,10,15,LWLLLLDWWD,2,1,2,4,7,LDDLW,WLLDW
+Feyenoord,VVV Venlo,4-1,/match/feyenoord/vvv/2019,2019,11,eredivisie,18,34,0,4,1,3,6,2,2,20,13,WWLWDWWDWW,5,0,0,13,3,7,4,3,3,11,10,LLDDLWWWWD,2,2,2,5,8,WWWWW,LDLWWD
+PEC Zwolle,Willem II,2-3,/match/fc-zwolle/willem-ii/2019,2019,12,eredivisie,18,34,2,2,3,15,3,2,6,10,18,LWLLLLDWWDW,1,1,3,6,8,14,2,4,5,17,21,LLWWDDWDDLW,1,2,3,9,16,LLLWD,LWDWDW
+Emmen,NAC Breda,2-0,/match/emmen/nac-breda/2019,2019,12,eredivisie,18,34,0,2,0,16,2,4,5,12,26,LLWDLLWDWDD,0,3,2,6,10,17,2,2,7,13,25,WWLWLWLWDDW,0,1,4,4,15,LDLDD,WWWWD
+De Graafschap,PSV,1-4,/match/graafschap/psv/2019,2019,12,eredivisie,18,34,2,1,4,13,3,1,7,11,22,WWLDLWWLWWW,3,0,3,9,10,1,11,0,0,39,4,WLLWLWLWWLW,5,0,0,15,3,WLLWLW,LLLLL
+Vitesse,Utrecht,2-1,/match/vitesse/fc-utrecht/2019,2019,12,eredivisie,18,34,0,2,1,7,4,3,4,16,13,WDDLLDWWWWW,3,1,1,12,7,5,5,3,3,14,12,WWDDLWDWWLW,1,2,2,3,7,WLDWW,WDWDL
+VVV Venlo,Fortuna Sittard,3-2,/match/vvv/fortuna-sittard/2019,2019,12,eredivisie,18,34,0,3,2,8,4,3,4,12,14,LLDDLWWWWDW,2,1,1,6,2,9,3,4,4,21,21,DLWDLDLDWWW,1,2,2,9,11,LDWW,DWLDW
+Groningen,Heerenveen,2-0,/match/fc-groningen/heerenveen/2019,2019,12,eredivisie,18,34,0,2,0,18,2,1,8,10,23,WLLLWLDWWLL,0,1,4,3,8,12,3,5,3,24,25,LDLDLDDLLLD,3,2,0,15,8,LLLDL,LDDLL
+Excelsior,Ajax,1-7,/match/excelsior/ajax/2019,2019,12,eredivisie,18,34,2,1,7,10,3,3,5,16,23,DWLLDDWWWWL,2,2,2,11,12,2,9,1,1,30,4,DLWLWWLWLWW,4,0,1,11,3,DLDWWL,LLWLL
+ADO Den Haag,AZ Alkmaar,0-1,/match/ado-den-haag/az/2019,2019,12,eredivisie,18,34,2,0,1,11,3,3,5,14,24,LWWLLDDWWDW,2,1,2,6,11,6,4,3,4,21,18,WLDWDLDWWLW,2,0,3,10,12,LWLWD,LWLWW
+Heracles,Feyenoord,0-2,/match/heracles/feyenoord/2019,2019,12,eredivisie,18,34,2,0,2,4,6,2,3,25,22,DWWWLWWWWDW,5,0,0,17,6,3,7,2,2,24,14,WWLWDWWDWWW,1,2,2,7,10,WWWWW,WLDDW
+PEC Zwolle,ADO Den Haag,2-3,/match/fc-zwolle/ado-den-haag/2019,2019,13,eredivisie,18,34,2,2,3,16,3,2,7,12,21,LWLLLLDWWDWL,1,1,4,8,11,14,3,3,6,14,25,LWWLLDDWWDWL,1,2,3,8,13,LLLWDL,WLDDWW
+NAC Breda,Ajax,0-3,/match/nac-breda/ajax/2019,2019,13,eredivisie,18,34,2,0,3,17,2,2,8,13,27,WWLWLWLWDDWW,2,1,3,9,10,2,10,1,1,37,5,DLWLWWLWLWWL,5,0,1,18,4,WLLLDW,LLWLLL
+PSV,Heerenveen,3-0,/match/psv/heerenveen/2019,2019,13,eredivisie,18,34,0,3,0,1,12,0,0,43,5,WLLWLWLWWLWL,6,0,0,24,1,12,3,5,4,24,27,LDLDLDDLLLDW,3,2,1,15,10,WWWWWW,LDDLLW
+Fortuna Sittard,Heracles,3-0,/match/fortuna-sittard/heracles/2019,2019,13,eredivisie,18,34,0,3,0,9,3,4,5,23,24,DLWDLDLDWWWW,2,2,2,12,10,4,6,2,4,25,24,DWWWLWWWWDWL,1,2,3,8,16,LDDLWW,DWLWDW
+Emmen,Excelsior,1-2,/match/emmen/excelsior/2019,2019,13,eredivisie,18,34,2,1,2,10,3,4,5,14,26,LLWDLLWDWDDW,1,3,2,8,10,11,3,3,6,17,30,DWLLDDWWWWLL,1,1,3,5,11,LDLDDW,WLDWW
+Utrecht,De Graafschap,5-0,/match/fc-utrecht/graafschap/2019,2019,13,eredivisie,18,34,0,5,0,5,5,3,4,15,14,WWDDLWDWWLWW,4,1,1,11,5,15,3,1,8,12,26,WWLDLWWLWWWL,0,1,4,2,12,WDLWWW,WDWWW
+Feyenoord,Groningen,1-0,/match/feyenoord/fc-groningen/2019,2019,13,eredivisie,18,34,0,1,0,3,8,2,2,26,14,WWLWDWWDWWWL,6,0,0,17,4,18,3,1,8,12,23,WLLLWLDWWLLW,2,0,4,7,15,WWWWWW,WLWWWL
+Willem II,Vitesse,1-3,/match/willem-ii/vitesse/2019,2019,13,eredivisie,18,34,2,1,3,13,3,4,5,20,23,LLWWDDWDDLWL,1,2,2,8,5,6,5,3,4,18,14,WDDLLDWWWWWW,1,2,3,4,6,LWDDL,DDLWWW
+VVV Venlo,AZ Alkmaar,2-2,/match/vvv/az/2019,2019,13,eredivisie,18,34,1,2,2,8,5,3,4,15,16,LLDDLWWWWDWW,3,1,1,9,4,7,5,3,4,22,18,WLDWDLDWWLWL,3,0,3,11,12,LDWWW,LWLWWL
+Excelsior,Utrecht,3-3,/match/excelsior/fc-utrecht/2019,2019,14,eredivisie,18,34,1,3,3,10,4,3,6,19,31,DWLLDDWWWWLLL,2,2,3,12,19,4,6,3,4,20,14,WWDDLWDWWLWWW,1,2,3,4,9,DLDWWLL,WDWDLW
+Vitesse,Emmen,1-1,/match/vitesse/emmen/2019,2019,14,eredivisie,18,34,1,1,1,6,6,3,4,21,15,WDDLLDWWWWWWL,4,1,1,14,8,12,3,4,6,15,28,LLWDLLWDWDDWL,2,1,3,6,16,WLDWWW,LWLWWD
+AZ Alkmaar,Willem II,0-2,/match/az/willem-ii/2019,2019,14,eredivisie,18,34,2,0,2,8,5,4,4,24,20,WLDWDLDWWLWLD,2,3,1,11,6,13,3,4,6,21,26,LLWWDDWDDLWLL,2,2,3,12,18,WDDDLW,LWDWDWL
+De Graafschap,PEC Zwolle,0-2,/match/graafschap/fc-zwolle/2019,2019,14,eredivisie,18,34,2,0,2,15,3,1,9,12,31,WWLDLWWLWWWLW,3,0,4,10,14,16,3,2,8,14,24,LWLLLLDWWDWLL,2,1,3,4,10,WLLWLWL,WLLDWW
+Heerenveen,Fortuna Sittard,3-1,/match/heerenveen/fortuna-sittard/2019,2019,14,eredivisie,18,34,0,3,1,14,3,5,5,24,30,LDLDLDDLLLDWW,0,3,3,9,17,9,4,4,5,26,24,DLWDLDLDWWWWW,1,2,3,11,14,DLLDLD,DWLDWW
+Ajax,ADO Den Haag,5-1,/match/ajax/ado-den-haag/2019,2019,14,eredivisie,18,34,0,5,1,3,11,1,1,40,5,DLWLWWLWLWWLL,5,1,0,19,1,11,4,3,6,17,27,LWWLLDDWWDWLL,2,2,3,11,15,DWWWWW,WLDDWWL
+Feyenoord,PSV,2-1,/match/feyenoord/psv/2019,2019,14,eredivisie,18,34,0,2,1,2,9,2,2,27,14,WWLWDWWDWWWLW,7,0,0,18,4,1,13,0,0,46,5,WLLWLWLWWLWLW,6,0,0,19,4,WWWWWWW,LLLLLL
+Heracles,VVV Venlo,4-1,/match/heracles/vvv/2019,2019,14,eredivisie,18,34,0,4,1,5,6,2,5,25,27,DWWWLWWWWDWLW,5,0,1,17,8,7,5,4,4,17,18,LLDDLWWWWDWWD,2,2,3,6,12,WWWWWL,LDLWWDW
+Groningen,NAC Breda,5-2,/match/fc-groningen/nac-breda/2019,2019,14,eredivisie,18,34,0,5,2,18,3,1,9,12,24,WLLLWLDWWLLWW,1,1,4,5,8,17,2,2,9,13,30,WWLWLWLWDDWWL,0,1,5,4,17,LLLDLW,WWWWDW
+Fortuna Sittard,AZ Alkmaar,0-3,/match/fortuna-sittard/az/2019,2019,15,eredivisie,18,34,2,0,3,9,4,4,6,27,27,DLWDLDLDWWWWWW,3,2,2,15,10,8,5,4,5,24,22,WLDWDLDWWLWLDL,3,1,3,13,14,LDDLWWW,LWLWWLD
+PSV,Excelsior,6-0,/match/psv/excelsior/2019,2019,15,eredivisie,18,34,0,6,0,1,13,0,1,47,7,WLLWLWLWWLWLWW,7,0,0,27,1,10,4,4,6,22,34,DWLLDDWWWWLLLD,2,1,3,7,12,WWWWWWW,WLDWWL
+Willem II,Heerenveen,1-5,/match/willem-ii/heerenveen/2019,2019,15,eredivisie,18,34,2,1,5,14,4,4,6,23,26,LLWWDDWDDLWLLL,1,2,3,9,8,11,4,5,5,27,31,LDLDLDDLLLDWWW,3,2,2,15,13,LWDDLL,LDDLLWW
+PEC Zwolle,Ajax,1-4,/match/fc-zwolle/ajax/2019,2019,15,eredivisie,18,34,2,1,4,17,4,2,8,16,24,LWLLLLDWWDWLLL,1,1,5,10,14,3,12,1,1,45,6,DLWLWWLWLWWLLW,6,0,1,21,4,LLLWDLL,LLWLLLL
+ADO Den Haag,De Graafschap,0-0,/match/ado-den-haag/graafschap/2019,2019,15,eredivisie,18,34,1,0,0,12,4,3,7,18,32,LWWLLDDWWDWLLW,2,1,3,6,12,16,3,1,10,12,33,WWLDLWWLWWWLWL,0,1,5,2,17,LWLWDL,WDWWWW
+Utrecht,Heracles,3-1,/match/fc-utrecht/heracles/2019,2019,15,eredivisie,18,34,0,3,1,5,6,4,4,23,17,WWDDLWDWWLWWWD,5,1,1,16,5,4,7,2,5,29,28,DWWWLWWWWDWLWW,1,2,4,8,19,WDLWWWW,DWLWDWW
+VVV Venlo,Groningen,0-0,/match/vvv/fc-groningen/2019,2019,15,eredivisie,18,34,1,0,0,7,5,4,5,18,22,LLDDLWWWWDWWDW,3,2,1,11,6,15,4,1,9,17,26,WLLLWLDWWLLWWW,2,0,5,7,16,LDWWWD,WLWWWLW
+Emmen,Feyenoord,1-4,/match/emmen/feyenoord/2019,2019,15,eredivisie,18,34,2,1,4,13,3,5,6,16,29,LLWDLLWDWDDWLD,1,3,3,9,12,2,10,2,2,29,15,WWLWDWWDWWWLWW,2,2,2,9,10,LDLDDWL,WLDDWL
+NAC Breda,Vitesse,2-1,/match/nac-breda/vitesse/2019,2019,15,eredivisie,18,34,0,2,1,18,2,2,10,15,35,WWLWLWLWDDWWLW,2,1,4,9,13,6,6,4,4,22,16,WDDLLDWWWWWWLD,2,2,3,7,7,WLLLDWL,DDLWWWL
+Willem II,ADO Den Haag,0-3,/match/willem-ii/ado-den-haag/2019,2019,16,eredivisie,18,34,2,0,3,14,4,4,7,24,31,LLWWDDWDDLWLLLL,1,2,4,10,13,12,4,4,7,18,32,LWWLLDDWWDWLLWD,2,2,4,12,20,LWDDLLL,WLDDWWLW
+PEC Zwolle,NAC Breda,0-0,/match/fc-zwolle/nac-breda/2019,2019,16,eredivisie,18,34,1,0,0,18,4,2,9,17,28,LWLLLLDWWDWLLLL,1,1,6,11,18,16,3,2,10,17,36,WWLWLWLWDDWWLWW,0,1,6,6,22,LLLWDLLL,WWWWDWW
+AZ Alkmaar,Excelsior,2-1,/match/az/excelsior/2019,2019,16,eredivisie,18,34,0,2,1,8,6,4,5,27,22,WLDWDLDWWLWLDLL,2,3,2,11,8,11,4,4,7,22,40,DWLLDDWWWWLLLDW,2,1,4,7,18,WDDDLWL,WLDWWLW
+Heracles,PSV,0-4,/match/heracles/psv/2019,2019,16,eredivisie,18,34,2,0,4,5,7,2,6,30,31,DWWWLWWWWDWLWWW,6,0,1,21,9,1,14,0,1,53,7,WLLWLWLWWLWLWWW,6,0,1,20,6,WWWWWLW,LLLLLLW
+Vitesse,VVV Venlo,2-1,/match/vitesse/vvv/2019,2019,16,eredivisie,18,34,0,2,1,6,6,4,5,23,18,WDDLLDWWWWWWLDW,4,2,1,15,9,7,5,5,5,18,22,LLDDLWWWWDWWDWD,2,2,4,7,16,WLDWWWD,LDLWWDWW
+Heerenveen,Utrecht,2-3,/match/heerenveen/fc-utrecht/2019,2019,16,eredivisie,18,34,2,2,3,9,5,5,5,32,32,LDLDLDDLLLDWWWL,1,3,3,12,18,4,7,4,4,26,18,WWDDLWDWWLWWWDW,1,3,3,7,12,DLLDLDW,WDWDLWD
+Ajax,De Graafschap,8-0,/match/ajax/graafschap/2019,2019,16,eredivisie,18,34,0,8,0,2,13,1,1,49,7,DLWLWWLWLWWLLWL,6,1,0,24,2,17,3,2,10,12,33,WWLDLWWLWWWLWLD,0,2,5,2,17,DWWWWWW,WDWWWWD
+Groningen,Emmen,1-2,/match/fc-groningen/emmen/2019,2019,16,eredivisie,18,34,2,1,2,15,4,2,9,17,26,WLLLWLDWWLLWWWD,2,1,4,10,10,13,3,5,7,17,33,LLWDLLWDWDDWLDL,2,2,3,7,17,LLLDLWW,LWLWWDD
+Feyenoord,Fortuna Sittard,0-2,/match/feyenoord/fortuna-sittard/2019,2019,16,eredivisie,18,34,2,0,2,3,11,2,2,33,16,WWLWDWWDWWWLWWL,8,0,0,20,5,10,4,4,7,27,30,DLWDLDLDWWWWWWL,1,2,4,12,17,WWWWWWWW,DWLDWWW
+VVV Venlo,PEC Zwolle,2-0,/match/vvv/fc-zwolle/2019,2019,17,eredivisie,18,34,0,2,0,8,5,5,6,19,24,LLDDLWWWWDWWDWDW,3,3,1,11,6,17,4,3,9,17,28,LWLLLLDWWDWLLLLD,3,1,3,6,10,LDWWWDD,WLLDWWL
+Fortuna Sittard,Groningen,0-0,/match/fortuna-sittard/fc-groningen/2019,2019,17,eredivisie,18,34,1,0,0,9,5,4,7,29,30,DLWDLDLDWWWWWWLL,3,2,3,15,13,16,4,2,10,18,28,WLLLWLDWWLLWWWDL,2,1,5,7,16,LDDLWWWL,WLWWWLWD
+NAC Breda,Heerenveen,4-2,/match/nac-breda/heerenveen/2019,2019,17,eredivisie,18,34,0,4,2,15,3,3,10,17,36,WWLWLWLWDDWWLWWD,3,1,4,11,14,10,5,5,6,34,35,LDLDLDDLLLDWWWLL,4,2,2,20,14,WLLLDWLW,LDDLLWWL
+PSV,AZ Alkmaar,3-1,/match/psv/az/2019,2019,17,eredivisie,18,34,0,3,1,1,15,0,1,57,7,WLLWLWLWWLWLWWWL,8,0,0,33,1,7,7,4,5,29,23,WLDWDLDWWLWLDLLW,4,1,3,16,14,WWWWWWWW,LWLWWLDL
+Excelsior,Heracles,0-3,/match/excelsior/heracles/2019,2019,17,eredivisie,18,34,2,0,3,12,4,4,8,23,42,DWLLDDWWWWLLLDWW,2,3,3,15,22,6,7,2,7,30,35,DWWWLWWWWDWLWWWL,1,2,5,9,22,DLDWWLLD,DWLWDWWW
+Utrecht,Ajax,1-3,/match/fc-utrecht/ajax/2019,2019,17,eredivisie,18,34,2,1,3,4,8,4,4,29,20,WWDDLWDWWLWWWDWL,6,1,1,19,6,2,14,1,1,57,7,DLWLWWLWLWWLLWLW,7,0,1,25,5,WDLWWWWW,LLWLLLLL
+De Graafschap,Vitesse,2-2,/match/graafschap/vitesse/2019,2019,17,eredivisie,18,34,1,2,2,18,3,2,11,12,41,WWLDLWWLWWWLWLDW,3,0,5,10,16,5,7,4,5,25,19,WDDLLDWWWWWWLDWW,2,2,4,8,9,WLLWLWLL,DDLWWWLW
+ADO Den Haag,Feyenoord,2-2,/match/ado-den-haag/feyenoord/2019,2019,17,eredivisie,18,34,1,2,2,11,5,4,7,21,32,LWWLLDDWWDWLLWDL,2,2,3,6,12,3,11,2,3,33,18,WWLWDWWDWWWLWWLL,3,2,2,13,11,LWLWDLD,WLDDWLL
+Emmen,Willem II,0-2,/match/emmen/willem-ii/2019,2019,17,eredivisie,18,34,2,0,2,13,4,5,7,19,34,LLWDLLWDWDDWLDLL,1,3,4,10,16,14,4,4,8,24,34,LLWWDDWDDLWLLLLL,3,2,3,14,18,LDLDDWLL,LWDWDWLL
+Vitesse,Excelsior,3-2,/match/vitesse/excelsior/2019,2019,18,eredivisie,18,34,0,3,2,5,7,5,5,27,21,WDDLLDWWWWWWLDWWD,5,2,1,17,10,13,4,4,9,23,45,DWLLDDWWWWLLLDWWL,2,1,5,8,20,WLDWWWDW,WLDWWLWW
+AZ Alkmaar,Utrecht,3-0,/match/az/fc-utrecht/2019,2019,18,eredivisie,18,34,0,3,0,8,7,4,6,30,26,WLDWDLDWWLWLDLLWW,3,3,2,13,9,4,8,4,5,30,23,WWDDLWDWWLWWWDWLL,2,3,3,10,14,WDDDLWLW,WDWDLWDL
+PEC Zwolle,Feyenoord,3-1,/match/fc-zwolle/feyenoord/2019,2019,18,eredivisie,18,34,0,3,1,18,4,3,10,17,30,LWLLLLDWWDWLLLLDW,1,2,6,11,18,3,11,3,3,35,20,WWLWDWWDWWWLWWLLD,3,3,2,15,13,LLLWDLLLD,WLDDWLLD
+ADO Den Haag,VVV Venlo,2-4,/match/ado-den-haag/vvv/2019,2019,18,eredivisie,18,34,2,2,4,10,5,5,7,23,34,LWWLLDDWWDWLLWDLD,2,3,3,8,14,7,6,5,6,21,24,LLDDLWWWWDWWDWDWW,2,2,5,8,18,LWLWDLDD,LDLWWDWWW
+Groningen,Heracles,3-0,/match/fc-groningen/heracles/2019,2019,18,eredivisie,18,34,0,3,0,16,4,3,10,18,28,WLLLWLDWWLLWWWDLD,2,1,5,11,12,6,8,2,7,33,35,DWWWLWWWWDWLWWWLL,2,2,5,12,22,LLLDLWWL,DWLWDWWWL
+Willem II,NAC Breda,2-0,/match/willem-ii/nac-breda/2019,2019,18,eredivisie,18,34,0,2,0,15,5,4,8,26,34,LLWWDDWDDLWLLLLLL,1,2,5,10,16,11,4,3,10,21,38,WWLWLWLWDDWWLWWDW,0,2,6,6,22,LWDDLLLL,WWWWDWWD
+De Graafschap,Fortuna Sittard,5-1,/match/graafschap/fortuna-sittard/2019,2019,18,eredivisie,18,34,0,5,1,17,3,3,11,14,43,WWLDLWWLWWWLWLDWD,3,1,5,12,18,9,5,5,7,29,30,DLWDLDLDWWWWWWLLD,2,2,4,14,17,WLLWLWLLD,DWLDWWWL
+Emmen,PSV,2-2,/match/emmen/psv/2019,2019,18,eredivisie,18,34,1,2,2,14,4,5,8,19,36,LLWDLLWDWDDWLDLLL,1,3,5,10,18,1,16,0,1,60,8,WLLWLWLWWLWLWWWLW,7,0,1,24,6,LDLDDWLLL,LLLLLLWL
+Ajax,Heerenveen,4-4,/match/ajax/heerenveen/2019,2019,18,eredivisie,18,34,1,4,4,2,15,1,1,60,8,DLWLWWLWLWWLLWLWL,7,1,0,32,2,12,5,5,7,36,39,LDLDLDDLLLDWWWLLW,4,2,3,22,18,DWWWWWWW,LDDLLWWLW
+NAC Breda,ADO Den Haag,1-1,/match/nac-breda/ado-den-haag/2019,2019,19,eredivisie,18,34,1,1,1,14,4,3,11,21,40,WWLWLWLWDDWWLWWDWW,4,1,4,15,16,11,5,5,8,25,38,LWWLLDDWWDWLLWDLDL,3,2,4,15,20,WLLLDWLWW,WLDDWWLWL
+Heracles,PEC Zwolle,0-2,/match/heracles/fc-zwolle/2019,2019,19,eredivisie,18,34,2,0,2,7,8,2,8,33,38,DWWWLWWWWDWLWWWLLW,6,0,2,21,13,18,5,3,10,20,31,LWLLLLDWWDWLLLLDWW,3,1,4,6,12,WWWWWLWL,WLLDWWLW
+Excelsior,De Graafschap,2-0,/match/excelsior/graafschap/2019,2019,19,eredivisie,18,34,0,2,0,17,4,4,10,25,48,DWLLDDWWWWLLLDWWLW,2,3,4,15,25,16,4,3,11,19,44,WWLDLWWLWWWLWLDWDW,0,2,6,2,25,DLDWWLLDL,WDWWWWDW
+PSV,Groningen,2-1,/match/psv/fc-groningen/2019,2019,19,eredivisie,18,34,0,2,1,1,16,1,1,62,10,WLLWLWLWWLWLWWWLWD,9,0,0,36,2,15,5,3,10,21,28,WLLLWLDWWLLWWWDLDW,2,2,5,7,16,WWWWWWWWW,WLWWWLWDD
+VVV Venlo,Emmen,2-3,/match/vvv/emmen/2019,2019,19,eredivisie,18,34,2,2,3,8,7,5,6,25,26,LLDDLWWWWDWWDWDWWL,4,3,1,13,6,13,4,6,8,21,38,LLWDLLWDWDDWLDLLLD,3,2,3,9,18,LDWWWDDW,LWLWWDDL
+Fortuna Sittard,Vitesse,2-1,/match/fortuna-sittard/vitesse/2019,2019,19,eredivisie,18,34,0,2,1,9,5,5,8,30,35,DLWDLDLDWWWWWWLLDW,3,3,3,15,13,4,8,5,5,30,23,WDDLLDWWWWWWLDWWDW,2,3,4,10,11,LDDLWWWLD,DDLWWWLWD
+Utrecht,Willem II,0-1,/match/fc-utrecht/willem-ii/2019,2019,19,eredivisie,18,34,2,0,1,5,8,4,6,30,26,WWDDLWDWWLWWWDWLLW,6,1,2,20,9,10,6,4,8,28,34,LLWWDDWDDLWLLLLLLW,4,2,3,16,18,WDLWWWWWL,LWDWDWLLL
+Feyenoord,Ajax,6-2,/match/feyenoord/ajax/2019,2019,19,eredivisie,18,34,0,6,2,3,11,3,4,36,23,WWLWDWWDWWWLWWLLDW,8,0,1,20,7,2,15,2,1,64,12,DLWLWWLWLWWLLWLWLD,8,0,1,28,6,WWWWWWWWL,LLWLLLLLL
+Heerenveen,AZ Alkmaar,0-2,/match/heerenveen/az/2019,2019,19,eredivisie,18,34,2,0,2,12,5,6,7,40,43,LDLDLDDLLLDWWWLLWD,1,3,4,14,21,6,8,4,6,33,26,WLDWDLDWWLWLDLLWWW,4,1,4,17,17,DLLDLDWL,LWLWWLDLW
+De Graafschap,NAC Breda,3-0,/match/graafschap/nac-breda/2019,2019,20,eredivisie,18,34,0,3,0,18,4,3,12,19,46,WWLDLWWLWWWLWLDWDWW,4,1,5,17,19,14,4,4,11,22,41,WWLWLWLWDDWWLWWDWWD,0,2,7,6,24,WLLWLWLLDW,WWWWDWWDW
+Vitesse,Heerenveen,2-2,/match/vitesse/heerenveen/2019,2019,20,eredivisie,18,34,1,2,2,4,8,5,6,31,25,WDDLLDWWWWWWLDWWDWW,6,2,1,20,12,15,5,6,8,40,45,LDLDLDDLLLDWWWLLWDL,4,3,3,26,22,WLDWWWDWW,LDDLLWWLWD
+Willem II,Groningen,1-2,/match/willem-ii/fc-groningen/2019,2019,20,eredivisie,18,34,2,1,2,10,7,4,8,29,34,LLWWDDWDDLWLLLLLLWL,2,2,5,12,16,17,5,3,11,22,30,WLLLWLDWWLLWWWDLDWW,2,2,6,8,18,LWDDLLLLW,WLWWWLWDDW
+Ajax,VVV Venlo,6-0,/match/ajax/vvv/2019,2019,20,eredivisie,18,34,0,6,0,2,15,2,2,66,18,DLWLWWLWLWWLLWLWLDW,7,2,0,36,6,8,7,5,7,27,29,LLDDLWWWWDWWDWDWWLL,3,2,5,12,20,DWWWWWWWD,LDLWWDWWWL
+AZ Alkmaar,Emmen,5-0,/match/az/emmen/2019,2019,20,eredivisie,18,34,0,5,0,6,9,4,6,35,26,WLDWDLDWWLWLDLLWWWL,4,3,2,16,9,13,5,6,8,24,40,LLWDLLWDWDDWLDLLLDL,4,2,3,12,20,WDDDLWLWW,LWLWWDDLL
+Excelsior,Feyenoord,2-1,/match/excelsior/feyenoord/2019,2019,20,eredivisie,18,34,0,2,1,12,5,4,10,27,48,DWLLDDWWWWLLLDWWLWW,3,3,4,17,25,3,12,3,4,42,25,WWLWDWWDWWWLWWLLDWW,3,3,3,16,16,DLDWWLLDLW,WLDDWLLDW
+PEC Zwolle,Utrecht,4-3,/match/fc-zwolle/fc-utrecht/2019,2019,20,eredivisie,18,34,0,4,3,16,6,3,10,22,31,LWLLLLDWWDWLLLLDWWL,2,2,6,14,19,5,8,4,7,30,27,WWDDLWDWWLWWWDWLLWL,2,3,4,10,17,LLLWDLLLDW,WDWDLWDLW
+PSV,Fortuna Sittard,5-0,/match/psv/fortuna-sittard/2019,2019,20,eredivisie,18,34,0,5,0,1,17,1,1,64,11,WLLWLWLWWLWLWWWLWDW,10,0,0,38,3,9,6,5,8,32,36,DLWDLDLDWWWWWWLLDWW,2,2,5,15,22,WWWWWWWWWW,DWLDWWWLW
+ADO Den Haag,Heracles,2-0,/match/ado-den-haag/heracles/2019,2019,20,eredivisie,18,34,0,2,0,11,5,6,8,26,39,LWWLLDDWWDWLLWDLDLD,2,3,4,10,18,7,8,2,9,33,40,DWWWLWWWWDWLWWWLLWL,2,2,6,12,25,LWLWDLDDL,DWLWDWWWLW
+NAC Breda,AZ Alkmaar,0-3,/match/nac-breda/az/2019,2019,21,eredivisie,18,34,2,0,3,15,4,4,12,22,44,WWLWLWLWDDWWLWWDWWDW,4,2,4,16,17,5,10,4,6,40,26,WLDWDLDWWLWLDLLWWWLW,5,1,4,19,17,WLLLDWLWWD,LWLWWLDLWL
+Heracles,Ajax,1-0,/match/heracles/ajax/2019,2019,21,eredivisie,18,34,0,1,0,7,8,2,10,33,42,DWWWLWWWWDWLWWWLLWLW,6,0,3,21,15,2,16,2,2,72,18,DLWLWWLWLWWLLWLWLDWW,8,0,2,30,12,WWWWWLWLL,LLWLLLLLLW
+Heerenveen,PEC Zwolle,1-1,/match/heerenveen/fc-zwolle/2019,2019,21,eredivisie,18,34,1,1,1,16,5,7,8,42,47,LDLDLDDLLLDWWWLLWDLD,1,3,5,14,23,12,7,3,10,26,34,LWLLLLDWWDWLLLLDWWLW,4,1,4,8,12,DLLDLDWLL,WLLDWWLWL
+VVV Venlo,Willem II,2-1,/match/vvv/willem-ii/2019,2019,21,eredivisie,18,34,0,2,1,8,7,5,8,27,35,LLDDLWWWWDWWDWDWWLLW,4,3,2,15,9,13,7,4,9,30,36,LLWWDDWDDLWLLLLLLWLL,5,2,3,17,18,LDWWWDDWL,LWDWDWLLLL
+Feyenoord,De Graafschap,4-0,/match/feyenoord/graafschap/2019,2019,21,eredivisie,18,34,0,4,0,3,12,3,5,43,27,WWLWDWWDWWWLWWLLDWWW,9,0,1,26,9,14,5,3,12,22,46,WWLDLWWLWWWLWLDWDWWW,0,2,7,2,27,WWWWWWWWLW,WDWWWWDWW
+Fortuna Sittard,Excelsior,4-1,/match/fortuna-sittard/excelsior/2019,2019,21,eredivisie,18,34,0,4,1,9,6,5,9,32,41,DLWDLDLDWWWWWWLLDWWW,4,3,3,17,14,11,6,4,10,29,49,DWLLDDWWWWLLLDWWLWWW,2,1,6,10,23,LDDLWWWLDW,WLDWWLWWW
+Groningen,Vitesse,2-1,/match/fc-groningen/vitesse/2019,2019,21,eredivisie,18,34,0,2,1,18,6,3,11,24,31,WLLLWLDWWLLWWWDLDWWL,3,1,5,14,12,4,8,6,6,33,27,WDDLLDWWWWWWLDWWDWWD,2,3,5,11,13,LLLDLWWLW,DDLWWWLWDW
+Emmen,ADO Den Haag,3-2,/match/emmen/ado-den-haag/2019,2019,21,eredivisie,18,34,0,3,2,17,5,6,9,24,45,LLWDLLWDWDDWLDLLLDLW,1,4,5,12,20,10,6,6,8,28,39,LWWLLDDWWDWLLWDLDLDW,3,3,4,16,21,LDLDDWLLLD,WLDDWWLWLD
+Utrecht,PSV,2-2,/match/fc-utrecht/psv/2019,2019,21,eredivisie,18,34,1,2,2,6,8,4,8,33,31,WWDDLWDWWLWWWDWLLWLW,6,1,3,20,10,1,18,1,1,69,11,WLLWLWLWWLWLWWWLWDWW,7,1,1,26,8,WDLWWWWWLL,LLLLLLWLD
+ADO Den Haag,PEC Zwolle,1-0,/match/ado-den-haag/fc-zwolle/2019,2019,22,eredivisie,18,34,0,1,0,11,6,6,9,30,42,LWWLLDDWWDWLLWDLDLDWW,3,3,4,12,18,12,7,4,10,27,35,LWLLLLDWWDWLLLLDWWLWD,4,2,4,9,13,LWLWDLDDLW,WLLDWWLWLD
+AZ Alkmaar,VVV Venlo,3-0,/match/az/vvv/2019,2019,22,eredivisie,18,34,0,3,0,4,11,4,6,43,26,WLDWDLDWWLWLDLLWWWLWL,5,3,2,21,9,8,8,5,8,29,36,LLDDLWWWWDWWDWDWWLLWW,3,2,6,12,26,WDDDLWLWWW,LDLWWDWWWLW
+Heerenveen,PSV,2-2,/match/heerenveen/psv/2019,2019,22,eredivisie,18,34,1,2,2,17,5,8,8,43,48,LDLDLDDLLLDWWWLLWDLDD,1,4,5,15,24,1,18,2,1,71,13,WLLWLWLWWLWLWWWLWDWWD,7,2,1,28,10,DLLDLDWLLD,LLLLLLWLDD
+Heracles,Fortuna Sittard,6-0,/match/heracles/fortuna-sittard/2019,2019,22,eredivisie,18,34,0,6,0,7,9,2,10,34,42,DWWWLWWWWDWLWWWLLWLWW,7,0,3,22,15,9,7,5,9,36,42,DLWDLDLDWWWWWWLLDWWWW,2,2,6,15,27,WWWWWLWLLW,DWLDWWWLWW
+Vitesse,Willem II,3-2,/match/vitesse/willem-ii/2019,2019,22,eredivisie,18,34,0,3,2,5,8,6,7,34,29,WDDLLDWWWWWWLDWWDWWDW,6,3,1,22,14,15,7,4,10,31,38,LLWWDDWDDLWLLLLLLWLLW,5,2,4,18,20,WLDWWWDWWD,LWDWDWLLLLW
+Ajax,NAC Breda,5-0,/match/ajax/nac-breda/2019,2019,22,eredivisie,18,34,0,5,0,2,16,2,3,72,19,DLWLWWLWLWWLLWLWLDWWW,8,2,0,42,6,18,4,4,13,22,47,WWLWLWLWDDWWLWWDWWDWL,0,2,8,6,27,DWWWWWWWDW,WWWWDWWDWW
+Excelsior,Emmen,2-1,/match/excelsior/emmen/2019,2019,22,eredivisie,18,34,0,2,1,10,6,4,11,30,53,DWLLDDWWWWLLLDWWLWWWW,4,3,4,19,26,13,6,6,9,27,47,LLWDLLWDWDDWLDLLLDLWW,4,2,4,12,25,DLDWWLLDLWW,LWLWWDDLLW
+Groningen,Feyenoord,1-0,/match/fc-groningen/feyenoord/2019,2019,22,eredivisie,18,34,0,1,0,14,7,3,11,26,32,WLLLWLDWWLLWWWDLDWWLW,4,1,5,16,13,3,13,3,5,47,27,WWLWDWWDWWWLWWLLDWWWW,3,3,4,17,18,LLLDLWWLWW,WLDDWLLDWW
+De Graafschap,Utrecht,0-1,/match/graafschap/fc-utrecht/2019,2019,22,eredivisie,18,34,2,0,1,16,5,3,13,22,50,WWLDLWWLWWWLWLDWDWWWW,5,1,5,20,19,6,8,5,8,35,33,WWDDLWDWWLWWWDWLLWLWD,2,3,5,13,21,WLLWLWLLDWW,WDWDLWDLWW
+VVV Venlo,Heracles,0-1,/match/vvv/heracles/2019,2019,23,eredivisie,18,34,2,0,1,8,8,5,9,29,39,LLDDLWWWWDWWDWDWWLLWWW,5,3,2,17,10,6,10,2,10,40,42,DWWWLWWWWDWLWWWLLWLWWW,2,2,7,12,27,LDWWWDDWLW,DWLWDWWWLWW
+Utrecht,Excelsior,0-0,/match/fc-utrecht/excelsior/2019,2019,23,eredivisie,18,34,1,0,0,7,9,5,8,36,33,WWDDLWDWWLWWWDWLLWLWDL,6,2,3,22,12,11,7,4,11,32,54,DWLLDDWWWWLLLDWWLWWWWW,2,1,7,11,27,WDLWWWWWLLD,WLDWWLWWWW
+PEC Zwolle,De Graafschap,0-3,/match/fc-zwolle/graafschap/2019,2019,23,eredivisie,18,34,2,0,3,13,7,4,11,27,36,LWLLLLDWWDWLLLLDWWLWDW,3,2,6,18,22,17,5,3,14,22,51,WWLDLWWLWWWLWLDWDWWWWL,0,2,8,2,31,LLLWDLLLDWW,WDWWWWDWWW
+Fortuna Sittard,Heerenveen,2-4,/match/fortuna-sittard/heerenveen/2019,2019,23,eredivisie,18,34,2,2,4,9,7,5,10,36,48,DLWDLDLDWWWWWWLLDWWWWW,5,3,3,21,15,15,5,9,8,45,50,LDLDLDDLLLDWWWLLWDLDDD,4,4,3,28,24,LDDLWWWLDWW,LDDLLWWLWDD
+NAC Breda,Groningen,0-0,/match/nac-breda/fc-groningen/2019,2019,23,eredivisie,18,34,1,0,0,18,4,4,14,22,52,WWLWLWLWDDWWLWWDWWDWLW,4,2,5,16,20,12,8,3,11,27,32,WLLLWLDWWLLWWWDLDWWLWW,3,2,6,10,19,WLLLDWLWWDL,WLWWWLWDDWL
+ADO Den Haag,Ajax,1-5,/match/ado-den-haag/ajax/2019,2019,23,eredivisie,18,34,2,1,5,10,7,6,9,31,42,LWWLLDDWWDWLLWDLDLDWWW,4,3,4,13,18,2,17,2,3,77,19,DLWLWWLWLWWLLWLWLDWWWW,8,0,3,30,13,LWLWDLDDLWW,LLWLLLLLLWW
+PSV,Feyenoord,1-1,/match/psv/feyenoord/2019,2019,23,eredivisie,18,34,1,1,1,1,18,3,1,73,15,WLLWLWLWWLWLWWWLWDWWDD,11,0,0,43,3,3,13,3,6,47,28,WWLWDWWDWWWLWWLLDWWWWW,3,3,5,17,19,WWWWWWWWWWW,WLDDWLLDWWW
+Emmen,Vitesse,0-3,/match/emmen/vitesse/2019,2019,23,eredivisie,18,34,2,0,3,14,6,6,10,28,49,LLWDLLWDWDDWLDLLLDLWWW,2,4,5,15,22,5,9,6,7,37,31,WDDLLDWWWWWWLDWWDWWDWW,2,3,6,12,15,LDLDDWLLLDW,DDLWWWLWDWW
+Willem II,AZ Alkmaar,2-1,/match/willem-ii/az/2019,2019,23,eredivisie,18,34,0,2,1,16,7,4,11,33,41,LLWWDDWDDLWLLLLLLWLLWW,2,2,6,13,18,4,12,4,6,46,26,WLDWDLDWWLWLDLLWWWLWLW,6,1,4,22,17,LWDDLLLLWL,LWLWWLDLWLL
+De Graafschap,ADO Den Haag,1-1,/match/graafschap/ado-den-haag/2019,2019,24,eredivisie,18,34,1,1,1,17,6,3,14,25,51,WWLDLWWLWWWLWLDWDWWWWLL,5,1,6,20,20,12,7,6,10,32,47,LWWLLDDWWDWLLWDLDLDWWWL,3,3,5,18,24,WLLWLWLLDWWL,WLDDWWLWLDW
+Heracles,Utrecht,1-5,/match/heracles/fc-utrecht/2019,2019,24,eredivisie,18,34,2,1,5,6,11,2,10,41,42,DWWWLWWWWDWLWWWLLWLWWWL,8,0,3,28,15,7,9,6,8,36,33,WWDDLWDWWLWWWDWLLWLWDLD,3,3,5,14,21,WWWWWLWLLWW,WDWDLWDLWWL
+Excelsior,PSV,0-2,/match/excelsior/psv/2019,2019,24,eredivisie,18,34,2,0,2,10,7,5,11,32,54,DWLLDDWWWWLLLDWWLWWWWWD,5,3,4,21,27,1,18,4,1,74,16,WLLWLWLWWLWLWWWLWDWWDDD,7,3,1,30,12,DLDWWLLDLWWW,LLLLLLWLDDD
+Vitesse,NAC Breda,4-1,/match/vitesse/nac-breda/2019,2019,24,eredivisie,18,34,0,4,1,5,10,6,7,40,31,WDDLLDWWWWWWLDWWDWWDWWL,7,3,1,25,16,18,4,5,14,22,52,WWLWLWLWDDWWLWWDWWDWLWD,0,2,9,6,32,WLDWWWDWWDW,WWWWDWWDWWW
+Heerenveen,Willem II,4-2,/match/heerenveen/willem-ii/2019,2019,24,eredivisie,18,34,0,4,2,13,6,9,8,49,52,LDLDLDDLLLDWWWLLWDLDDDL,1,5,5,17,26,14,8,4,11,35,42,LLWWDDWDDLWLLLLLLWLLWWW,5,2,5,20,23,DLLDLDWLLDD,LWDWDWLLLLWW
+Groningen,VVV Venlo,3-2,/match/fc-groningen/vvv/2019,2019,24,eredivisie,18,34,0,3,2,11,8,4,11,27,32,WLLLWLDWWLLWWWDLDWWLWWD,5,1,5,17,13,8,8,5,10,29,40,LLDDLWWWWDWWDWDWWLLWWWL,3,2,7,12,29,LLLDLWWLWWW,LDLWWDWWWLWW
+AZ Alkmaar,Fortuna Sittard,4-2,/match/az/fortuna-sittard/2019,2019,24,eredivisie,18,34,0,4,2,4,12,4,7,47,28,WLDWDLDWWLWLDLLWWWLWLWW,6,3,2,24,9,9,7,5,11,38,52,DLWDLDLDWWWWWWLLDWWWWWL,2,2,7,15,33,WDDDLWLWWWW,DWLDWWWLWWW
+Feyenoord,Emmen,4-0,/match/feyenoord/emmen/2019,2019,24,eredivisie,18,34,0,4,0,3,13,4,6,48,29,WWLWDWWDWWWLWWLLDWWWWWD,10,0,1,30,9,16,6,6,11,28,52,LLWDLLWDWDDWLDLLLDLWWWL,4,2,5,13,27,WWWWWWWWLWW,LWLWWDDLLWW
+Ajax,PEC Zwolle,2-1,/match/ajax/fc-zwolle/2019,2019,24,eredivisie,18,34,0,2,1,2,18,2,3,82,20,DLWLWWLWLWWLLWLWLDWWWWL,9,2,0,47,6,15,7,4,12,27,39,LWLLLLDWWDWLLLLDWWLWDWL,4,2,5,9,14,DWWWWWWWDWW,WLLDWWLWLDW
+Utrecht,Groningen,0-0,/match/fc-utrecht/fc-groningen/2019,2019,25,eredivisie,18,34,1,0,0,6,10,6,8,41,34,WWDDLWDWWLWWWDWLLWLWDLDL,6,3,3,22,12,8,9,4,11,30,34,WLLLWLDWWLLWWWDLDWWLWWDW,3,3,6,10,19,WDLWWWWWLLDD,WLWWWLWDDWLD
+VVV Venlo,Excelsior,1-0,/match/vvv/excelsior/2019,2019,25,eredivisie,18,34,0,1,0,9,8,5,11,31,43,LLDDLWWWWDWWDWDWWLLWWWLW,5,3,3,17,11,12,7,5,12,32,56,DWLLDDWWWWLLLDWWLWWWWWDL,2,2,7,11,27,LDWWWDDWLWL,WLDWWLWWWWD
+PSV,NAC Breda,2-0,/match/psv/nac-breda/2019,2019,25,eredivisie,18,34,0,2,0,1,19,4,1,76,16,WLLWLWLWWLWLWWWLWDWWDDDL,11,1,0,44,4,18,4,5,15,23,56,WWLWLWLWDDWWLWWDWWDWLWDW,0,2,10,7,36,WWWWWWWWWWWD,WWWWDWWDWWWW
+ADO Den Haag,Heerenveen,2-3,/match/ado-den-haag/heerenveen/2019,2019,25,eredivisie,18,34,2,2,3,10,7,7,10,33,48,LWWLLDDWWDWLLWDLDLDWWWLD,4,3,5,14,23,11,7,9,8,53,54,LDLDLDDLLLDWWWLLWDLDDDLW,5,4,3,32,26,LWLWDLDDLWWL,LDDLLWWLWDDL
+Willem II,De Graafschap,3-2,/match/willem-ii/graafschap/2019,2019,25,eredivisie,18,34,0,3,2,14,8,4,12,37,46,LLWWDDWDDLWLLLLLLWLLWWWW,3,2,6,15,19,15,6,4,14,26,52,WWLDLWWLWWWLWLDWDWWWWLLD,1,2,8,5,31,LWDDLLLLWLW,WDWWWWDWWWL
+PEC Zwolle,AZ Alkmaar,0-0,/match/fc-zwolle/az/2019,2019,25,eredivisie,18,34,1,0,0,16,7,4,13,28,41,LWLLLLDWWDWLLLLDWWLWDWLW,3,2,7,18,25,4,13,4,7,51,30,WLDWDLDWWLWLDLLWWWLWLWWW,6,1,5,23,19,LLLWDLLLDWWL,LWLWWLDLWLLW
+Vitesse,Feyenoord,1-1,/match/vitesse/feyenoord/2019,2019,25,eredivisie,18,34,1,1,1,5,11,6,7,44,32,WDDLLDWWWWWWLDWWDWWDWWLW,8,3,1,29,17,3,14,4,6,52,29,WWLWDWWDWWWLWWLLDWWWWWDW,3,4,5,18,20,WLDWWWDWWDWW,WLDDWLLDWWWD
+Emmen,Heracles,1-1,/match/emmen/heracles/2019,2019,25,eredivisie,18,34,1,1,1,17,6,6,12,28,56,LLWDLLWDWDDWLDLLLDLWWWLW,2,4,6,15,25,7,11,2,11,42,47,DWWWLWWWWDWLWWWLLWLWWWLL,3,2,7,13,27,LDLDDWLLLDWL,DWLWDWWWLWWL
+Ajax,Fortuna Sittard,4-0,/match/ajax/fortuna-sittard/2019,2019,25,eredivisie,18,34,0,4,0,2,19,2,3,84,21,DLWLWWLWLWWLLWLWLDWWWWLW,10,2,0,49,7,13,7,5,12,40,56,DLWDLDLDWWWWWWLLDWWWWWLW,2,2,8,17,37,DWWWWWWWDWWW,DWLDWWWLWWWW
+Fortuna Sittard,Emmen,3-1,/match/fortuna-sittard/emmen/2019,2019,26,eredivisie,18,34,0,3,1,11,7,5,13,40,60,DLWDLDLDWWWWWWLLDWWWWWLWW,5,3,4,23,19,17,6,7,12,29,57,LLWDLLWDWDDWLDLLLDLWWWLWD,4,2,6,13,31,LDDLWWWLDWWL,LWLWWDDLLWWW
+Heerenveen,De Graafschap,0-3,/match/heerenveen/graafschap/2019,2019,26,eredivisie,18,34,2,0,3,10,8,9,8,56,56,LDLDLDDLLLDWWWLLWDLDDDLWL,2,5,5,21,28,15,6,4,15,28,55,WWLDLWWLWWWLWLDWDWWWWLLDW,1,2,9,7,34,DLLDLDWLLDDW,WDWWWWDWWWLW
+Feyenoord,Willem II,2-3,/match/feyenoord/willem-ii/2019,2019,26,eredivisie,18,34,2,2,3,3,14,5,6,53,30,WWLWDWWDWWWLWWLLDWWWWWDWD,11,0,1,34,9,12,9,4,12,40,48,LLWWDDWDDLWLLLLLLWLLWWWWW,5,2,6,22,27,WWWWWWWWLWWW,LWDWDWLLLLWWW
+NAC Breda,Utrecht,0-4,/match/nac-breda/fc-utrecht/2019,2019,26,eredivisie,18,34,2,0,4,18,4,5,16,23,58,WWLWLWLWDDWWLWWDWWDWLWDWW,4,3,5,16,20,6,10,7,8,41,34,WWDDLWDWWLWWWDWLLWLWDLDLD,4,3,5,19,22,WLLLDWLWWDLD,WDWDLWDLWWLL
+Heracles,Vitesse,3-2,/match/heracles/vitesse/2019,2019,26,eredivisie,18,34,0,3,2,7,11,3,11,43,48,DWWWLWWWWDWLWWWLLWLWWWLLD,8,0,4,29,20,4,11,7,7,45,33,WDDLLDWWWWWWLDWWDWWDWWLWD,3,3,6,15,15,WWWWWLWLLWWL,DDLWWWLWDWWL
+VVV Venlo,PSV,0-1,/match/vvv/psv/2019,2019,26,eredivisie,18,34,2,0,1,8,9,5,11,32,43,LLDDLWWWWDWWDWDWWLLWWWLWW,6,3,3,18,11,1,20,4,1,78,16,WLLWLWLWWLWLWWWLWDWWDDDLW,8,3,1,32,12,LDWWWDDWLWLW,LLLLLLWLDDDL
+AZ Alkmaar,Ajax,1-0,/match/az/ajax/2019,2019,26,eredivisie,18,34,0,1,0,5,13,5,7,51,30,WLDWDLDWWLWLDLLWWWLWLWWWD,7,3,2,28,11,2,20,2,3,88,21,DLWLWWLWLWWLLWLWLDWWWWLWW,9,0,3,35,14,WDDDLWLWWWWW,LLWLLLLLLWWL
+Groningen,ADO Den Haag,1-0,/match/fc-groningen/ado-den-haag/2019,2019,26,eredivisie,18,34,0,1,0,9,9,5,11,30,34,WLLLWLDWWLLWWWDLDWWLWWDWD,6,1,5,20,15,13,7,7,11,35,51,LWWLLDDWWDWLLWDLDLDWWWLDL,3,4,5,19,25,LLLDLWWLWWWW,WLDDWWLWLDWD
+Excelsior,PEC Zwolle,0-2,/match/excelsior/fc-zwolle/2019,2019,26,eredivisie,18,34,2,0,2,14,7,5,13,32,57,DWLLDDWWWWLLLDWWLWWWWWDLW,5,3,5,21,29,16,7,5,13,28,41,LWLLLLDWWDWLLLLDWWLWDWLWD,4,2,6,10,16,DLDWWLLDLWWWL,WLLDWWLWLDWW
+Willem II,Fortuna Sittard,3-2,/match/willem-ii/fortuna-sittard/2019,2019,27,eredivisie,18,34,0,3,2,11,10,4,12,43,50,LLWWDDWDDLWLLLLLLWLLWWWWWL,4,2,6,18,21,10,8,5,13,43,61,DLWDLDLDWWWWWWLLDWWWWWLWWW,2,2,9,17,41,LWDDLLLLWLWW,DWLDWWWLWWWWW
+ADO Den Haag,Vitesse,3-3,/match/ado-den-haag/vitesse/2019,2019,27,eredivisie,18,34,1,3,3,13,7,7,12,35,52,LWWLLDDWWDWLLWDLDLDWWWLDLW,4,3,6,16,26,5,11,7,8,47,36,WDDLLDWWWWWWLDWWDWWDWWLWDW,3,3,7,17,18,LWLWDLDDLWWLL,DDLWWWLWDWWLW
+De Graafschap,Heracles,1-2,/match/graafschap/heracles/2019,2019,27,eredivisie,18,34,2,1,2,15,7,4,15,31,55,WWLDLWWLWWWLWLDWDWWWWLLDWL,5,2,6,21,21,7,12,3,11,46,50,DWWWLWWWWDWLWWWLLWLWWWLLDW,3,3,7,14,28,WLLWLWLLDWWLD,DWLWDWWWLWWLD
+Heerenveen,Excelsior,1-0,/match/heerenveen/excelsior/2019,2019,27,eredivisie,18,34,0,1,0,12,8,9,9,56,59,LDLDLDDLLLDWWWLLWDLDDDLWLL,2,5,6,21,31,14,7,5,14,32,59,DWLLDDWWWWLLLDWWLWWWWWDLWL,2,2,8,11,28,DLLDLDWLLDDWL,WLDWWLWWWWDW
+AZ Alkmaar,Groningen,1-0,/match/az/fc-groningen/2019,2019,27,eredivisie,18,34,0,1,0,4,14,5,7,52,30,WLDWDLDWWLWLDLLWWWLWLWWWDW,8,3,2,29,11,8,10,5,11,31,34,WLLLWLDWWLLWWWDLDWWLWWDWDW,3,4,6,10,19,WDDDLWLWWWWWW,WLWWWLWDDWLDD
+NAC Breda,VVV Venlo,1-1,/match/nac-breda/vvv/2019,2019,27,eredivisie,18,34,1,1,1,18,4,5,17,23,62,WWLWLWLWDDWWLWWDWWDWLWDWWL,4,3,6,16,24,9,9,5,12,32,44,LLDDLWWWWDWWDWDWWLLWWWLWWL,3,2,8,14,32,WLLLDWLWWDLDL,LDLWWDWWWLWWW
+Utrecht,Feyenoord,3-2,/match/fc-utrecht/feyenoord/2019,2019,27,eredivisie,18,34,0,3,2,6,11,7,8,45,34,WWDDLWDWWLWWWDWLLWLWDLDLDL,6,4,3,22,12,3,14,5,7,55,33,WWLWDWWDWWWLWWLLDWWWWWDWDL,3,5,5,19,21,WDLWWWWWLLDDD,WLDDWLLDWWWDD
+PEC Zwolle,Emmen,3-0,/match/fc-zwolle/emmen/2019,2019,27,eredivisie,18,34,0,3,0,16,8,5,13,30,41,LWLLLLDWWDWLLLLDWWLWDWLWDL,3,3,7,18,25,17,6,7,13,30,60,LLWDLLWDWDDWLDLLLDLWWWLWDW,4,2,7,14,34,LLLWDLLLDWWLD,LWLWWDDLLWWWW
+Ajax,PSV,3-1,/match/ajax/psv/2019,2019,27,eredivisie,18,34,0,3,1,2,20,2,4,88,22,DLWLWWLWLWWLLWLWLDWWWWLWWW,11,2,0,53,7,1,21,4,1,79,16,WLLWLWLWWLWLWWWLWDWWDDDLWL,9,3,1,33,12,DWWWWWWWDWWWW,LLLLLLWLDDDLL
+Vitesse,AZ Alkmaar,2-2,/match/vitesse/az/2019,2019,28,eredivisie,18,34,1,2,2,5,11,8,8,50,39,WDDLLDWWWWWWLDWWDWWDWWLWDWD,8,4,1,30,18,3,15,5,7,53,30,WLDWDLDWWLWLDLLWWWLWLWWWDWW,6,2,5,23,19,WLDWWWDWWDWWD,LWLWWLDLWLLWD
+Heracles,Willem II,3-4,/match/heracles/willem-ii/2019,2019,28,eredivisie,18,34,2,3,4,7,13,3,11,48,51,DWWWLWWWWDWLWWWLLWLWWWLLDWL,9,0,4,32,22,11,11,4,12,46,52,LLWWDDWDDLWLLLLLLWLLWWWWWLW,6,2,6,25,29,WWWWWLWLLWWLW,LWDWDWLLLLWWWL
+Groningen,De Graafschap,1-0,/match/fc-groningen/graafschap/2019,2019,28,eredivisie,18,34,0,1,0,8,10,5,12,31,35,WLLLWLDWWLLWWWDLDWWLWWDWDWW,7,1,5,21,15,16,7,4,16,32,57,WWLDLWWLWWWLWLDWDWWWWLLDWLL,2,2,9,10,34,LLLDLWWLWWWWW,WDWWWWDWWWLWL
+VVV Venlo,Utrecht,2-6,/match/vvv/fc-utrecht/2019,2019,28,eredivisie,18,34,2,2,6,9,9,6,12,33,45,LLDDLWWWWDWWDWDWWLLWWWLWWLD,6,3,4,18,12,6,12,7,8,48,36,WWDDLWDWWLWWWDWLLWLWDLDLDLW,5,3,5,23,22,LDWWWDDWLWLWL,WDWDLWDLWWLLL
+Excelsior,NAC Breda,1-2,/match/excelsior/nac-breda/2019,2019,28,eredivisie,18,34,2,1,2,15,7,5,15,32,60,DWLLDDWWWWLLLDWWLWWWWWDLWLW,5,3,6,21,31,18,4,6,17,24,63,WWLWLWLWDDWWLWWDWWDWLWDWWLD,0,2,11,7,38,DLDWWLLDLWWWLL,WWWWDWWDWWWWW
+Fortuna Sittard,ADO Den Haag,0-0,/match/fortuna-sittard/ado-den-haag/2019,2019,28,eredivisie,18,34,1,0,0,12,8,5,14,45,64,DLWDLDLDWWWWWWLLDWWWWWLWWWW,6,3,4,26,20,13,7,8,12,38,55,LWWLLDDWWDWLLWDLDLDWWWLDLWD,3,4,6,19,26,LDDLWWWLDWWLW,WLDDWWLWLDWDW
+Emmen,Ajax,2-5,/match/emmen/ajax/2019,2019,28,eredivisie,18,34,2,2,5,17,6,7,14,30,63,LLWDLLWDWDDWLDLLLDLWWWLWDWW,2,5,6,16,26,2,21,2,4,91,23,DLWLWWLWLWWLLWLWLDWWWWLWWWW,9,0,4,35,15,LDLDDWLLLDWLD,LLWLLLLLLWWLW
+PSV,PEC Zwolle,4-0,/match/psv/fc-zwolle/2019,2019,28,eredivisie,18,34,0,4,0,1,21,4,2,80,19,WLLWLWLWWLWLWWWLWDWWDDDLWLW,12,1,0,46,4,14,9,5,13,33,41,LWLLLLDWWDWLLLLDWWLWDWLWDLW,5,2,6,12,16,WWWWWWWWWWWDW,WLLDWWLWLDWWL
+Feyenoord,Heerenveen,3-0,/match/feyenoord/heerenveen/2019,2019,28,eredivisie,18,34,0,3,0,4,14,5,8,57,36,WWLWDWWDWWWLWWLLDWWWWWDWDLW,11,0,2,36,12,10,9,9,9,57,59,LDLDLDDLLLDWWWLLWDLDDDLWLLW,6,4,3,35,28,WWWWWWWWLWWWL,LDDLLWWLWDDLL
+Willem II,Ajax,1-4,/match/willem-ii/ajax/2019,2019,29,eredivisie,18,34,2,1,4,9,12,4,12,50,55,LLWWDDWDDLWLLLLLLWLLWWWWWLWL,5,2,6,21,23,2,22,2,4,96,25,DLWLWWLWLWWLLWLWLDWWWWLWWWWL,10,0,4,40,17,LWDDLLLLWLWWW,LLWLLLLLLWWLWL
+ADO Den Haag,Utrecht,5-0,/match/ado-den-haag/fc-utrecht/2019,2019,29,eredivisie,18,34,0,5,0,13,7,9,12,38,55,LWWLLDDWWDWLLWDLDLDWWWLDLWDD,4,4,6,19,29,6,13,7,8,54,38,WWDDLWDWWLWWWDWLLWLWDLDLDLWL,6,3,5,29,24,LWLWDLDDLWWLLD,WDWDLWDLWWLLLL
+Groningen,Excelsior,1-0,/match/fc-groningen/excelsior/2019,2019,29,eredivisie,18,34,0,1,0,8,11,5,12,32,35,WLLLWLDWWLLWWWDLDWWLWWDWDWWW,8,1,5,22,15,15,7,5,16,33,62,DWLLDDWWWWLLLDWWLWWWWWDLWLWL,2,2,9,11,29,LLLDLWWLWWWWWW,WLDWWLWWWWDWW
+De Graafschap,AZ Alkmaar,1-1,/match/graafschap/az/2019,2019,29,eredivisie,18,34,1,1,1,16,7,4,17,32,58,WWLDLWWLWWWLWLDWDWWWWLLDWLLW,5,2,7,22,23,4,15,6,7,55,32,WLDWDLDWWLWLDLLWWWLWLWWWDWWD,6,3,5,25,21,WLLWLWLLDWWLDL,LWLWWLDLWLLWDD
+Heracles,NAC Breda,1-0,/match/heracles/nac-breda/2019,2019,29,eredivisie,18,34,0,1,0,7,13,3,12,51,55,DWWWLWWWWDWLWWWLLWLWWWLLDWLL,9,0,5,35,26,18,5,6,17,26,64,WWLWLWLWDDWWLWWDWWDWLWDWWLDL,1,2,11,9,39,WWWWWLWLLWWLWL,WWWWDWWDWWWWWL
+Emmen,Heerenveen,2-0,/match/emmen/heerenveen/2019,2019,29,eredivisie,18,34,0,2,0,17,6,7,15,32,68,LLWDLLWDWDDWLDLLLDLWWWLWDWWL,2,5,7,18,31,12,9,9,10,57,62,LDLDLDDLLLDWWWLLWDLDDDLWLLWW,6,4,4,35,31,LDLDDWLLLDWLDL,LDDLLWWLWDDLLW
+PEC Zwolle,Fortuna Sittard,5-0,/match/fc-zwolle/fortuna-sittard/2019,2019,29,eredivisie,18,34,0,5,0,14,9,5,14,33,45,LWLLLLDWWDWLLLLDWWLWDWLWDLWW,4,3,7,21,25,11,8,6,14,45,64,DLWDLDLDWWWWWWLLDWWWWWLWWWWD,2,2,10,19,44,LLLWDLLLDWWLDW,DWLDWWWLWWWWWW
+VVV Venlo,Feyenoord,0-3,/match/vvv/feyenoord/2019,2019,29,eredivisie,18,34,2,0,3,10,9,6,13,35,51,LLDDLWWWWDWWDWDWWLLWWWLWWLDL,6,3,5,20,18,3,15,5,8,60,36,WWLWDWWDWWWLWWLLDWWWWWDWDLWW,3,5,6,21,24,LDWWWDDWLWLWLL,WLDDWLLDWWWDDW
+Vitesse,PSV,3-3,/match/vitesse/psv/2019,2019,29,eredivisie,18,34,1,3,3,5,11,9,8,52,41,WDDLLDWWWWWWLDWWDWWDWWLWDWDD,8,5,1,32,20,1,22,4,2,84,19,WLLWLWLWWLWLWWWLWDWWDDDLWLWW,9,3,2,34,15,WLDWWWDWWDWWDD,LLLLLLWLDDDLLW
+NAC Breda,Emmen,1-1,/match/nac-breda/emmen/2019,2019,30,eredivisie,18,34,1,1,1,18,5,6,18,26,65,WWLWLWLWDDWWLWWDWWDWLWDWWLDLW,4,4,6,17,25,17,7,7,15,34,68,LLWDLLWDWDDWLDLLLDLWWWLWDWWLW,4,2,8,14,37,WLLLDWLWWDLDLD,LWLWWDDLLWWWWW
+AZ Alkmaar,ADO Den Haag,2-3,/match/az/ado-den-haag/2019,2019,30,eredivisie,18,34,2,2,3,4,15,7,7,56,33,WLDWDLDWWLWLDLLWWWLWLWWWDWWDD,9,3,2,30,11,10,8,9,12,43,55,LWWLLDDWWDWLLWDLDLDWWWLDLWDDW,3,5,6,19,26,WDDDLWLWWWWWWW,WLDDWWLWLDWDWD
+Ajax,Excelsior,6-2,/match/ajax/excelsior/2019,2019,30,eredivisie,18,34,0,6,2,2,23,2,4,100,26,DLWLWWLWLWWLLWLWLDWWWWLWWWWLL,12,2,0,56,8,15,7,5,17,33,63,DWLLDDWWWWLLLDWWLWWWWWDLWLWLW,2,2,10,11,30,DWWWWWWWDWWWWW,WLDWWLWWWWDWWW
+Feyenoord,Heracles,2-1,/match/feyenoord/heracles/2019,2019,30,eredivisie,18,34,0,2,1,3,16,5,8,63,36,WWLWDWWDWWWLWWLLDWWWWWDWDLWWL,12,0,2,39,12,7,14,3,12,52,55,DWWWLWWWWDWLWWWLLWLWWWLLDWLLW,4,3,7,16,29,WWWWWWWWLWWWLW,DWLWDWWWLWWLDL
+Fortuna Sittard,VVV Venlo,1-1,/match/fortuna-sittard/vvv/2019,2019,30,eredivisie,18,34,1,1,1,13,8,6,15,45,69,DLWDLDLDWWWWWWLLDWWWWWLWWWWDW,6,4,4,26,20,11,9,6,14,35,54,LLDDLWWWWDWWDWDWWLLWWWLWWLDLL,3,3,8,15,33,LDDLWWWLDWWLWD,LDLWWDWWWLWWWD
+PSV,De Graafschap,2-1,/match/psv/graafschap/2019,2019,30,eredivisie,18,34,0,2,1,1,22,5,2,87,22,WLLWLWLWWLWLWWWLWDWWDDDLWLWWD,13,1,0,50,4,16,7,5,17,33,59,WWLDLWWLWWWLWLDWDWWWWLLDWLLWD,2,2,10,10,35,WWWWWWWWWWWDWW,WDWWWWDWWWLWLW
+Willem II,PEC Zwolle,2-0,/match/willem-ii/fc-zwolle/2019,2019,30,eredivisie,18,34,0,2,0,9,12,4,13,51,59,LLWWDDWDDLWLLLLLLWLLWWWWWLWLL,5,2,7,22,27,14,10,5,14,38,45,LWLLLLDWWDWLLLLDWWLWDWLWDLWWW,5,2,7,12,20,LWDDLLLLWLWWWL,WLLDWWLWLDWWLW
+Heerenveen,Groningen,1-1,/match/heerenveen/fc-groningen/2019,2019,30,eredivisie,18,34,1,1,1,12,9,9,11,57,64,LDLDLDDLLLDWWWLLWDLDDDLWLLWWW,3,5,6,22,31,8,12,5,12,33,35,WLLLWLDWWLLWWWDLDWWLWWDWDWWWW,3,4,7,10,20,DLLDLDWLLDDWLW,WLWWWLWDDWLDDW
+Utrecht,Vitesse,0-0,/match/fc-utrecht/vitesse/2019,2019,30,eredivisie,18,34,1,0,0,6,13,7,9,54,43,WWDDLWDWWLWWWDWLLWLWDLDLDLWLW,7,4,3,25,14,5,11,10,8,55,44,WDDLLDWWWWWWLDWWDWWDWWLWDWDDD,3,4,7,20,21,WDLWWWWWLLDDDW,DDLWWWLWDWWLWD
+Heracles,Heerenveen,2-1,/match/heracles/heerenveen/2019,2019,31,eredivisie,18,34,0,2,1,7,14,3,13,53,57,DWWWLWWWWDWLWWWLLWLWWWLLDWLLWW,10,0,5,36,26,12,9,10,11,58,65,LDLDLDDLLLDWWWLLWDLDDDLWLLWWWD,6,4,5,35,33,WWWWWLWLLWWLWLW,LDDLLWWLWDDLLWW
+Emmen,Utrecht,2-0,/match/emmen/fc-utrecht/2019,2019,31,eredivisie,18,34,0,2,0,15,7,8,15,35,69,LLWDLLWDWDDWLDLLLDLWWWLWDWWLWD,3,5,7,20,31,6,13,8,9,54,43,WWDDLWDWWLWWWDWLLWLWDLDLDLWLWD,6,3,6,29,29,LDLDDWLLLDWLDLW,WDWDLWDLWWLLLLW
+Groningen,Ajax,0-1,/match/fc-groningen/ajax/2019,2019,31,eredivisie,18,34,2,0,1,8,12,6,12,34,36,WLLLWLDWWLLWWWDLDWWLWWDWDWWWWD,9,1,5,23,15,2,24,2,4,106,28,DLWLWWLWLWWLLWLWLDWWWWLWWWWLLW,11,0,4,44,18,LLLDLWWLWWWWWWW,LLWLLLLLLWWLWLL
+Vitesse,PEC Zwolle,4-1,/match/vitesse/fc-zwolle/2019,2019,31,eredivisie,18,34,0,4,1,5,11,11,8,55,44,WDDLLDWWWWWWLDWWDWWDWWLWDWDDDD,8,6,1,35,23,14,10,5,15,38,47,LWLLLLDWWDWLLLLDWWLWDWLWDLWWWW,5,2,8,12,22,WLDWWWDWWDWWDDD,WLLDWWLWLDWWLWW
+Feyenoord,AZ Alkmaar,2-1,/match/feyenoord/az/2019,2019,31,eredivisie,18,34,0,2,1,3,17,5,8,65,37,WWLWDWWDWWWLWWLLDWWWWWDWDLWWLW,13,0,2,41,13,4,15,7,8,58,36,WLDWDLDWWLWLDLLWWWLWLWWWDWWDDL,6,4,5,26,22,WWWWWWWWLWWWLWW,LWLWWLDLWLLWDDD
+VVV Venlo,De Graafschap,4-1,/match/vvv/graafschap/2019,2019,31,eredivisie,18,34,0,4,1,11,9,7,14,36,55,LLDDLWWWWDWWDWDWWLLWWWLWWLDLLD,6,3,6,20,21,17,7,5,18,34,61,WWLDLWWLWWWLWLDWDWWWWLLDWLLWDW,2,2,11,11,37,LDWWWDDWLWLWLLL,WDWWWWDWWWLWLWW
+Excelsior,Willem II,1-1,/match/excelsior/willem-ii/2019,2019,31,eredivisie,18,34,1,1,1,16,7,5,18,35,69,DWLLDDWWWWLLLDWWLWWWWWDLWLWLWW,5,3,7,22,33,9,13,4,13,53,59,LLWWDDWDDLWLLLLLLWLLWWWWWLWLLW,7,2,6,29,32,DLDWWLLDLWWWLLL,LWDWDWLLLLWWWLL
+Fortuna Sittard,NAC Breda,2-1,/match/fortuna-sittard/nac-breda/2019,2019,31,eredivisie,18,34,0,2,1,13,8,7,15,46,70,DLWDLDLDWWWWWWLLDWWWWWLWWWWDWD,6,5,4,27,21,18,5,7,18,27,66,WWLWLWLWDDWWLWWDWWDWLWDWWLDLWD,1,2,12,9,40,LDDLWWWLDWWLWDD,WWWWDWWDWWWWWLW
+PSV,ADO Den Haag,3-1,/match/psv/ado-den-haag/2019,2019,31,eredivisie,18,34,0,3,1,1,23,5,2,89,23,WLLWLWLWWLWLWWWLWDWWDDDLWLWWDW,14,1,0,52,5,10,9,9,12,46,57,LWWLLDDWWDWLLWDLDLDWWWLDLWDDWL,4,5,6,22,28,WWWWWWWWWWWDWWW,WLDDWWLWLDWDWDL
+De Graafschap,Emmen,1-0,/match/graafschap/emmen/2019,2019,32,eredivisie,18,34,0,1,0,17,7,5,19,35,65,WWLDLWWLWWWLWLDWDWWWWLLDWLLWDWW,5,3,7,23,24,15,8,8,15,37,69,LLWDLLWDWDDWLDLLLDLWWWLWDWWLWDW,4,3,8,15,38,WLLWLWLLDWWLDLD,LWLWWDDLLWWWWWD
+Heerenveen,VVV Venlo,2-2,/match/heerenveen/vvv/2019,2019,32,eredivisie,18,34,1,2,2,13,9,10,12,59,67,LDLDLDDLLLDWWWLLWDLDDDLWLLWWWDW,3,6,6,23,32,11,10,7,14,40,56,LLDDLWWWWDWWDWDWWLLWWWLWWLDLLDW,3,4,8,16,34,DLLDLDWLLDDWLWD,LDLWWDWWWLWWWDD
+AZ Alkmaar,Heracles,2-1,/match/az/heracles/2019,2019,32,eredivisie,18,34,0,2,1,5,15,7,9,59,38,WLDWDLDWWLWLDLLWWWLWLWWWDWWDDLW,9,3,3,32,14,6,15,3,13,55,58,DWWWLWWWWDWLWWWLLWLWWWLLDWLLWWW,4,3,8,17,31,WDDDLWLWWWWWWWL,DWLWDWWWLWWLDLW
+Ajax,Vitesse,4-2,/match/ajax/vitesse/2019,2019,32,eredivisie,18,34,0,4,2,2,25,2,4,107,28,DLWLWWLWLWWLLWLWLDWWWWLWWWWLLWL,13,2,0,62,10,4,12,11,8,59,45,WDDLLDWWWWWWLDWWDWWDWWLWDWDDDDW,3,5,7,20,21,DWWWWWWWDWWWWWW,DDLWWWLWDWWLWDD
+Utrecht,Fortuna Sittard,2-1,/match/fc-utrecht/fortuna-sittard/2019,2019,32,eredivisie,18,34,0,2,1,7,13,8,10,54,45,WWDDLWDWWLWWWDWLLWLWDLDLDLWLWDW,7,5,3,25,14,10,9,7,15,48,71,DLWDLDLDWWWWWWLLDWWWWWLWWWWDWDW,2,2,11,19,49,WDLWWWWWLLDDDWD,DWLDWWWLWWWWWWW
+NAC Breda,Feyenoord,0-4,/match/nac-breda/feyenoord/2019,2019,32,eredivisie,18,34,2,0,4,18,5,7,19,28,68,WWLWLWLWDDWWLWWDWWDWLWDWWLDLWDW,4,5,6,18,26,3,18,5,8,67,38,WWLWDWWDWWWLWWLLDWWWWWDWDLWWLWW,4,5,6,24,24,WLLLDWLWWDLDLDD,WLDDWLLDWWWDDWL
+ADO Den Haag,Excelsior,3-1,/match/ado-den-haag/excelsior/2019,2019,32,eredivisie,18,34,0,3,1,12,9,9,13,47,60,LWWLLDDWWDWLLWDLDLDWWWLDLWDDWLW,5,4,6,24,29,16,7,6,18,36,70,DWLLDDWWWWLLLDWWLWWWWWDLWLWLWWD,2,2,11,13,36,LWLWDLDDLWWLLDW,WLDWWLWWWWDWWWW
+Willem II,PSV,0-3,/match/willem-ii/psv/2019,2019,32,eredivisie,18,34,2,0,3,9,13,5,13,54,60,LLWWDDWDDLWLLLLLLWLLWWWWWLWLLWD,6,2,7,24,27,1,24,5,2,92,24,WLLWLWLWWLWLWWWLWDWWDDDLWLWWDWW,9,4,2,37,18,LWDDLLLLWLWWWLW,LLLLLLWLDDDLLWD
+PEC Zwolle,Groningen,3-2,/match/fc-zwolle/fc-groningen/2019,2019,32,eredivisie,18,34,0,3,2,14,10,5,16,39,51,LWLLLLDWWDWLLLLDWWLWDWLWDLWWWWW,5,3,7,26,25,8,12,6,13,34,37,WLLLWLDWWLLWWWDLDWWLWWDWDWWWWDL,3,5,7,11,21,LLLWDLLLDWWLDWW,WLWWWLWDDWLDDWD
+Utrecht,Heerenveen,3-1,/match/fc-utrecht/heerenveen/2019,2019,33,eredivisie,18,34,0,3,1,6,14,8,10,56,46,WWDDLWDWWLWWWDWLLWLWDLDLDLWLWDWW,8,5,3,27,15,13,9,11,12,61,69,LDLDLDDLLLDWWWLLWDLDDDLWLLWWWDWD,6,4,6,36,35,WDLWWWWWLLDDDWDW,LDDLLWWLWDDLLWWW
+NAC Breda,PEC Zwolle,0-0,/match/nac-breda/fc-zwolle/2019,2019,33,eredivisie,18,34,1,0,0,18,5,7,20,28,72,WWLWLWLWDDWWLWWDWWDWLWDWWLDLWDWL,4,5,7,18,30,14,11,5,16,42,53,LWLLLLDWWDWLLLLDWWLWDWLWDLWWWWWW,5,2,9,13,26,WLLLDWLWWDLDLDDL,WLLDWWLWLDWWLWWW
+PSV,Heracles,3-1,/match/psv/heracles/2019,2019,33,eredivisie,18,34,0,3,1,1,25,5,2,95,24,WLLWLWLWWLWLWWWLWDWWDDDLWLWWDWWL,15,1,0,55,6,7,15,3,14,56,60,DWWWLWWWWDWLWWWLLWLWWWLLDWLLWWWW,4,3,9,18,33,WWWWWWWWWWWDWWWW,DWLWDWWWLWWLDLWW
+Fortuna Sittard,Feyenoord,1-4,/match/fortuna-sittard/feyenoord/2019,2019,33,eredivisie,18,34,2,1,4,12,9,7,16,49,73,DLWDLDLDWWWWWWLLDWWWWWLWWWWDWDWW,7,5,4,29,22,3,19,5,8,71,38,WWLWDWWDWWWLWWLLDWWWWWDWDLWWLWWL,5,5,6,28,24,LDDLWWWLDWWLWDDW,WLDDWLLDWWWDDWLL
+Excelsior,AZ Alkmaar,4-2,/match/excelsior/az/2019,2019,33,eredivisie,18,34,0,4,2,17,7,6,19,37,73,DWLLDDWWWWLLLDWWLWWWWWDLWLWLWWDW,5,4,7,23,34,4,16,7,9,61,39,WLDWDLDWWLWLDLLWWWLWLWWWDWWDDLWW,6,4,6,27,24,DLDWWLLDLWWWLLLD,LWLWWLDLWLLWDDDW
+De Graafschap,Ajax,1-4,/match/graafschap/ajax/2019,2019,33,eredivisie,18,34,2,1,4,16,8,5,19,36,65,WWLDLWWLWWWLWLDWDWWWWLLDWLLWDWWW,6,3,7,24,24,2,26,2,4,111,30,DLWLWWLWLWWLLWLWLDWWWWLWWWWLLWLW,12,0,4,45,18,WLLWLWLLDWWLDLDW,LLWLLLLLLWWLWLLL
+VVV Venlo,Vitesse,1-3,/match/vvv/vitesse/2019,2019,33,eredivisie,18,34,2,1,3,11,10,8,14,42,58,LLDDLWWWWDWWDWDWWLLWWWLWWLDLLDWD,7,3,6,24,22,5,12,11,9,61,49,WDDLLDWWWWWWLDWWDWWDWWLWDWDDDDWW,3,5,8,22,25,LDWWWDDWLWLWLLLW,DDLWWWLWDWWLWDDW
+ADO Den Haag,Willem II,6-2,/match/ado-den-haag/willem-ii/2019,2019,33,eredivisie,18,34,0,6,2,9,10,9,13,50,61,LWWLLDDWWDWLLWDLDLDWWWLDLWDDWLWW,6,4,6,27,30,10,13,5,14,54,63,LLWWDDWDDLWLLLLLLWLLWWWWWLWLLWDL,7,3,6,30,33,LWLWDLDDLWWLLDWW,LWDWDWLLLLWWWLLD
+Emmen,Groningen,1-0,/match/emmen/fc-groningen/2019,2019,33,eredivisie,18,34,0,1,0,15,8,8,16,37,70,LLWDLLWDWDDWLDLLLDLWWWLWDWWLWDWW,4,5,7,22,31,8,12,6,14,36,40,WLLLWLDWWLLWWWDLDWWLWWDWDWWWWDLW,3,5,8,13,24,LDLDDWLLLDWLDLWW,WLWWWLWDDWLDDWDW
+Heerenveen,NAC Breda,2-1,/match/heerenveen/nac-breda/2019,2019,34,eredivisie,18,34,0,2,1,14,9,11,13,62,72,LDLDLDDLLLDWWWLLWDLDDDLWLLWWWDWDW,3,7,6,25,34,18,5,8,20,28,72,WWLWLWLWDDWWLWWDWWDWLWDWWLDLWDWLD,1,2,13,10,42,DLLDLDWLLDDWLWDD,WWWWDWWDWWWWWLWW
+Feyenoord,ADO Den Haag,0-2,/match/feyenoord/ado-den-haag/2019,2019,34,eredivisie,18,34,2,0,2,3,20,5,8,75,39,WWLWDWWDWWWLWWLLDWWWWWDWDLWWLWWLL,14,0,2,43,14,9,11,9,13,56,63,LWWLLDDWWDWLLWDLDLDWWWLDLWDDWLWWW,4,5,7,23,31,WWWWWWWWLWWWLWWW,WLDDWWLWLDWDWDLW
+AZ Alkmaar,PSV,1-0,/match/az/psv/2019,2019,34,eredivisie,18,34,0,1,0,4,16,7,10,63,43,WLDWDLDWWLWLDLLWWWLWLWWWDWWDDLWWW,10,3,3,34,15,1,26,5,2,98,25,WLLWLWLWWLWLWWWLWDWWDDDLWLWWDWWLW,10,4,2,40,18,WDDDLWLWWWWWWWLW,LLLLLLWLDDDLLWDL
+Willem II,Emmen,2-3,/match/willem-ii/emmen/2019,2019,34,eredivisie,18,34,2,2,3,11,13,5,15,56,69,LLWWDDWDDLWLLLLLLWLLWWWWWLWLLWDLW,6,2,8,24,30,15,9,8,16,38,70,LLWDLLWDWDDWLDLLLDLWWWLWDWWLWDWWW,4,3,9,15,39,LWDDLLLLWLWWWLWL,LWLWWDDLLWWWWWDW
+PEC Zwolle,VVV Venlo,2-4,/match/fc-zwolle/vvv/2019,2019,34,eredivisie,18,34,2,2,4,13,11,6,16,42,53,LWLLLLDWWDWLLLLDWWLWDWLWDLWWWWWWD,6,3,7,29,27,10,10,8,15,43,61,LLDDLWWWWDWWDWDWWLLWWWLWWLDLLDWDL,3,5,8,18,36,LLLWDLLLDWWLDWWW,LDLWWDWWWLWWWDDD
+Ajax,Utrecht,4-1,/match/ajax/fc-utrecht/2019,2019,34,eredivisie,18,34,0,4,1,2,27,2,4,115,31,DLWLWWLWLWWLLWLWLDWWWWLWWWWLLWLWL,14,2,0,66,12,6,15,8,10,59,47,WWDDLWDWWLWWWDWLLWLWDLDLDLWLWDWWW,6,3,7,29,31,DWWWWWWWDWWWWWWW,WDWDLWDLWWLLLLWW
+Heracles,Excelsior,4-5,/match/heracles/excelsior/2019,2019,34,eredivisie,18,34,2,4,5,7,15,3,15,57,63,DWWWLWWWWDWLWWWLLWLWWWLLDWLLWWWWW,11,0,5,38,27,16,8,6,19,41,75,DWLLDDWWWWLLLDWWLWWWWWDLWLWLWWDWW,2,2,12,14,39,WWWWWLWLLWWLWLWW,WLDWWLWWWWDWWWWW
+Vitesse,De Graafschap,6-1,/match/vitesse/graafschap/2019,2019,34,eredivisie,18,34,0,6,1,5,13,11,9,64,50,WDDLLDWWWWWWLDWWDWWDWWLWDWDDDDWWL,9,6,1,39,24,17,8,5,20,37,69,WWLDLWWLWWWLWLDWDWWWWLLDWLLWDWWWL,2,2,12,12,41,WLDWWWDWWDWWDDDW,WDWWWWDWWWLWLWWW
+Groningen,Fortuna Sittard,3-0,/match/fc-groningen/fortuna-sittard/2019,2019,34,eredivisie,18,34,0,3,0,8,12,6,15,36,41,WLLLWLDWWLLWWWDLDWWLWWDWDWWWWDLWW,9,1,6,23,16,12,9,7,17,50,77,DLWDLDLDWWWWWWLLDWWWWWLWWWWDWDWWL,2,2,12,20,51,LLLDLWWLWWWWWWWL,DWLDWWWLWWWWWWWW

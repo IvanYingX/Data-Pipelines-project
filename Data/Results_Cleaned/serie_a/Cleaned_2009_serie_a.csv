@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Udinese,Palermo FC,3-1,/match/udinese/palermo/2009,2009,1,serie_a,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Inter,1-1,/match/sampdoria/internazionale/2009,2009,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Atalanta,Siena,1-0,/match/atalanta/siena/2009,2009,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chievo,Reggina,2-1,/match/chievo/reggina/2009,2009,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Roma,Napoli,1-1,/match/roma/napoli/2009,2009,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Lazio,1-4,/match/cagliari/lazio/2009,2009,1,serie_a,20,38,2,1,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Catania,Genoa,1-0,/match/catania/genoa/2009,2009,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Torino,Lecce,3-0,/match/torino-fc/lecce/2009,2009,1,serie_a,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Milan,Bologna,1-2,/match/milan/bologna/2009,2009,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Fiorentina,Juventus,1-1,/match/fiorentina/juventus-fc/2009,2009,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Roma,3-1,/match/palermo/roma/2009,2009,2,serie_a,20,38,0,3,1,14,0,0,1,1,3,W,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
+Inter,Catania,2-1,/match/internazionale/catania/2009,2009,2,serie_a,20,38,0,2,1,12,0,1,0,1,1,D,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Reggina,Torino,1-1,/match/reggina/torino-fc/2009,2009,2,serie_a,20,38,1,1,1,20,0,0,1,1,2,W,0,0,0,0,0,1,1,0,0,3,0,W,0,0,0,0,0,,
+Lecce,Chievo,2-0,/match/lecce/chievo/2009,2009,2,serie_a,20,38,0,2,0,19,0,0,1,0,3,W,0,0,0,0,0,5,1,0,0,2,1,W,0,0,0,0,0,,
+Genoa,Milan,2-0,/match/genoa/milan/2009,2009,2,serie_a,20,38,0,2,0,17,0,0,1,0,1,W,0,0,0,0,0,15,0,0,1,1,2,L,0,0,0,0,0,,
+Lazio,Sampdoria,2-0,/match/lazio/sampdoria/2009,2009,2,serie_a,20,38,0,2,0,6,1,0,0,4,1,L,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
+Napoli,Fiorentina,2-1,/match/napoli/fiorentina/2009,2009,2,serie_a,20,38,0,2,1,13,0,1,0,1,1,D,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+Siena,Cagliari,2-0,/match/siena/cagliari/2009,2009,2,serie_a,20,38,0,2,0,16,0,0,1,0,1,W,0,0,0,0,0,18,0,0,1,1,4,L,0,0,0,0,0,,
+Bologna,Atalanta,0-1,/match/bologna/atalanta/2009,2009,2,serie_a,20,38,2,0,1,10,1,0,0,2,1,L,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Juventus,Udinese,1-0,/match/juventus-fc/udinese/2009,2009,2,serie_a,20,38,0,1,0,11,0,1,0,1,1,D,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
+Catania,Atalanta,1-0,/match/catania/atalanta/2009,2009,3,serie_a,20,38,0,1,0,9,1,0,1,2,2,WW,1,0,0,1,0,2,2,0,0,2,0,WL,1,0,0,1,0,W,L
+Roma,Reggina,3-0,/match/roma/reggina/2009,2009,3,serie_a,20,38,0,3,0,16,0,1,1,2,4,DW,0,1,0,1,1,18,0,1,1,2,3,WD,0,0,1,1,2,D,W
+Sampdoria,Chievo,1-1,/match/sampdoria/chievo/2009,2009,3,serie_a,20,38,1,1,1,15,0,1,1,1,3,DW,0,1,0,1,1,8,1,0,1,2,3,WW,0,0,1,0,2,D,W
+Palermo FC,Genoa,2-1,/match/palermo/genoa/2009,2009,3,serie_a,20,38,0,2,1,10,1,0,1,4,4,WW,1,0,0,3,1,12,1,0,1,2,1,WW,0,0,1,0,1,W,W
+Torino,Inter,1-3,/match/torino-fc/internazionale/2009,2009,3,serie_a,20,38,2,1,3,3,1,1,0,4,1,WD,1,0,0,3,0,5,1,1,0,3,2,DW,0,1,0,1,1,W,D
+Cagliari,Juventus,0-1,/match/cagliari/juventus-fc/2009,2009,3,serie_a,20,38,2,0,1,20,0,0,2,1,6,LW,0,0,1,1,4,6,1,1,0,2,1,DW,0,1,0,1,1,L,D
+Lecce,Siena,1-1,/match/lecce/siena/2009,2009,3,serie_a,20,38,1,1,1,13,1,0,1,2,3,WW,1,0,0,2,0,11,1,0,1,2,1,WW,0,0,1,0,1,W,W
+Udinese,Napoli,0-0,/match/udinese/napoli/2009,2009,3,serie_a,20,38,1,0,0,7,1,0,1,3,2,WW,1,0,0,3,1,4,1,1,0,3,2,DW,0,1,0,1,1,W,D
+Fiorentina,Bologna,1-0,/match/fiorentina/bologna/2009,2009,3,serie_a,20,38,0,1,0,14,0,1,1,2,3,DW,0,1,0,1,1,17,1,0,1,2,2,LL,1,0,0,2,1,D,L
+Milan,Lazio,4-1,/match/milan/lazio/2009,2009,3,serie_a,20,38,0,4,1,19,0,0,2,1,4,LW,0,0,1,1,2,1,2,0,0,6,1,LW,1,0,0,4,1,L,L
+Siena,Sampdoria,0-0,/match/siena/sampdoria/2009,2009,4,serie_a,20,38,1,0,0,12,1,1,1,3,2,WWD,1,0,0,2,0,16,0,2,1,2,4,DWD,0,0,1,0,2,W,W
+Inter,Lecce,1-0,/match/internazionale/lecce/2009,2009,4,serie_a,20,38,0,1,0,3,2,1,0,6,3,DWL,1,0,0,2,1,6,1,1,1,3,4,WWD,0,0,1,0,3,W,W
+Napoli,Palermo FC,2-1,/match/napoli/palermo/2009,2009,4,serie_a,20,38,0,2,1,8,1,2,0,3,2,DWD,1,0,0,2,1,2,2,0,1,6,5,WWW,0,0,1,1,3,W,W
+Chievo,Torino,1-1,/match/chievo/torino-fc/2009,2009,4,serie_a,20,38,1,1,1,13,1,1,1,3,4,WWD,1,0,0,2,1,14,1,1,1,5,4,WDL,0,1,0,1,1,W,D
+Juventus,Catania,1-1,/match/juventus-fc/catania/2009,2009,4,serie_a,20,38,1,1,1,4,2,1,0,3,1,DWL,1,0,0,1,0,1,2,0,1,3,2,WWW,0,0,1,1,2,W,W
+Reggina,Milan,1-2,/match/reggina/milan/2009,2009,4,serie_a,20,38,2,1,2,19,0,1,2,2,6,WDW,0,1,0,1,1,17,1,0,2,5,5,LWW,0,0,1,0,2,D,W
+Atalanta,Cagliari,1-0,/match/atalanta/cagliari/2009,2009,4,serie_a,20,38,0,1,0,11,2,0,1,2,1,WLW,1,0,0,1,0,20,0,0,3,1,7,LWL,0,0,1,0,2,W,W
+Genoa,Roma,3-1,/match/genoa/roma/2009,2009,4,serie_a,20,38,0,3,1,15,1,0,2,3,3,WWW,1,0,0,2,0,7,1,1,1,5,4,DWW,0,0,1,1,3,W,W
+Lazio,Fiorentina,3-0,/match/lazio/fiorentina/2009,2009,4,serie_a,20,38,0,3,0,5,2,0,1,7,5,LWW,1,0,0,2,0,10,1,1,1,3,3,DWW,0,0,1,1,2,W,W
+Bologna,Udinese,0-3,/match/bologna/udinese/2009,2009,4,serie_a,20,38,2,0,3,18,1,0,2,2,3,LLW,0,0,1,0,1,9,1,1,1,3,2,WWD,0,0,1,0,1,L,W
+Sampdoria,Juventus,0-0,/match/sampdoria/juventus-fc/2009,2009,5,serie_a,20,38,1,0,0,17,0,3,1,2,4,DWDD,0,2,0,2,2,6,2,2,0,4,2,DWLD,1,1,0,2,1,DD,DL
+Fiorentina,Genoa,1-0,/match/fiorentina/genoa/2009,2009,5,serie_a,20,38,0,1,0,14,1,1,2,3,6,DWWW,1,1,0,2,1,9,2,0,2,6,4,WWWW,0,0,2,1,3,DW,WW
+Palermo FC,Reggina,1-0,/match/palermo/reggina/2009,2009,5,serie_a,20,38,0,1,0,8,2,0,2,7,7,WWWW,2,0,0,5,2,19,0,1,3,3,8,WDWL,0,0,2,1,5,WW,WW
+Torino,Lazio,1-3,/match/torino-fc/lazio/2009,2009,5,serie_a,20,38,2,1,3,15,1,2,1,6,5,WDLD,1,0,1,4,3,3,3,0,1,10,5,LWWW,1,0,1,5,5,WL,LW
+Lecce,Cagliari,2-0,/match/lecce/cagliari/2009,2009,5,serie_a,20,38,0,2,0,12,1,1,2,3,5,WWDW,1,1,0,3,1,20,0,0,4,1,8,LWLW,0,0,2,0,3,WD,WW
+Roma,Atalanta,2-0,/match/roma/atalanta/2009,2009,5,serie_a,20,38,0,2,0,13,1,1,2,6,7,DWWW,1,1,0,4,1,2,3,0,1,3,1,WLWW,1,0,1,1,1,DW,LW
+Udinese,Siena,2-1,/match/udinese/siena/2009,2009,5,serie_a,20,38,0,2,1,7,2,1,1,6,2,WWDL,1,1,0,3,1,10,1,2,1,3,2,WWDD,0,1,1,1,2,WD,WD
+Catania,Chievo,1-0,/match/catania/chievo/2009,2009,5,serie_a,20,38,0,1,0,5,2,1,1,4,3,WWWD,2,0,0,2,0,11,1,2,1,4,5,WWDD,0,1,1,1,3,WW,WD
+Bologna,Napoli,0-1,/match/bologna/napoli/2009,2009,5,serie_a,20,38,2,0,1,18,1,0,3,2,6,LLWL,0,0,2,0,4,4,2,2,0,5,3,DWDW,0,2,0,1,1,LL,DD
+Milan,Inter,1-0,/match/milan/internazionale/2009,2009,5,serie_a,20,38,0,1,0,16,2,0,2,7,6,LWWL,1,0,1,5,3,1,3,1,0,7,3,DWLW,1,1,0,4,2,LW,DL
+Lazio,Lecce,1-1,/match/lazio/lecce/2009,2009,6,serie_a,20,38,1,1,1,2,4,0,1,13,6,LWWWL,2,0,0,5,0,10,2,1,2,5,5,WWDWW,0,0,2,0,4,WW,WW
+Inter,Bologna,2-1,/match/internazionale/bologna/2009,2009,6,serie_a,20,38,0,2,1,6,3,1,1,7,4,DWLWW,2,0,0,3,1,18,1,0,4,2,7,LLWLL,1,0,1,2,2,WW,LW
+Reggina,Catania,1-1,/match/reggina/catania/2009,2009,6,serie_a,20,38,1,1,1,19,0,1,4,3,9,WDWLW,0,1,1,2,3,1,3,1,1,5,3,WWWDW,0,1,1,2,3,DL,WD
+Chievo,Fiorentina,0-2,/match/chievo/fiorentina/2009,2009,6,serie_a,20,38,2,0,2,15,1,2,2,4,6,WWDDW,1,1,0,3,2,12,2,1,2,4,6,DWWWW,0,0,2,1,5,WD,WW
+Juventus,Palermo FC,1-2,/match/juventus-fc/palermo/2009,2009,6,serie_a,20,38,2,1,2,8,2,3,0,4,2,DWLDD,1,1,0,2,1,5,3,0,2,8,7,WWWWW,0,0,2,2,5,WD,WW
+Siena,Roma,1-0,/match/siena/roma/2009,2009,6,serie_a,20,38,0,1,0,16,1,2,2,4,4,WWDDW,1,1,0,2,0,11,2,1,2,8,7,DWWWW,0,0,2,2,6,WD,WW
+Atalanta,Sampdoria,4-2,/match/atalanta/sampdoria/2009,2009,6,serie_a,20,38,0,4,2,9,3,0,2,3,3,WLWWW,2,0,0,2,0,14,0,4,1,2,4,DWDDD,0,1,1,0,2,WW,WD
+Genoa,Napoli,3-2,/match/genoa/napoli/2009,2009,6,serie_a,20,38,0,3,2,13,2,0,3,6,5,WWWWW,2,0,0,5,1,3,3,2,0,6,3,DWDWL,1,2,0,2,1,WW,DDL
+Udinese,Torino,2-0,/match/udinese/torino-fc/2009,2009,6,serie_a,20,38,0,2,0,4,3,1,1,8,3,WWDLW,2,1,0,5,2,17,1,2,2,7,8,WDLDL,0,2,0,2,2,WDW,DD
+Cagliari,Milan,0-0,/match/cagliari/milan/2009,2009,6,serie_a,20,38,1,0,0,20,0,0,5,1,10,LWLWW,0,0,2,1,5,7,3,0,2,8,6,LWWLW,1,0,1,2,3,LL,WL
+Fiorentina,Reggina,3-0,/match/fiorentina/reggina/2009,2009,7,serie_a,20,38,0,3,0,9,3,1,2,6,6,DWWWWL,2,1,0,3,1,18,0,2,4,4,10,WDWLWD,0,0,3,1,6,DWW,WWW
+Napoli,Juventus,2-1,/match/napoli/juventus-fc/2009,2009,7,serie_a,20,38,0,2,1,8,3,2,1,8,6,DWDWLW,2,0,0,4,2,14,2,3,1,5,4,DWLDDL,1,2,0,2,1,WW,DLD
+Bologna,Lazio,3-1,/match/bologna/lazio/2009,2009,7,serie_a,20,38,0,3,1,19,1,0,5,3,9,LLWLLW,0,0,3,0,5,6,4,1,1,14,7,LWWWLD,2,0,1,8,6,LLL,LWL
+Milan,Sampdoria,3-0,/match/milan/sampdoria/2009,2009,7,serie_a,20,38,0,3,0,10,3,1,2,8,6,LWWLWD,2,0,1,6,3,15,0,4,2,4,8,DWDDDW,0,1,2,2,6,LWW,WDW
+Torino,Cagliari,0-1,/match/torino-fc/cagliari/2009,2009,7,serie_a,20,38,2,0,1,17,1,2,3,7,10,WDLDLW,1,0,2,5,6,20,0,1,5,1,10,LWLWWD,0,0,3,0,5,WLL,WWW
+Catania,Palermo FC,2-0,/match/catania/palermo/2009,2009,7,serie_a,20,38,0,2,0,3,3,2,1,6,4,WWWDWD,3,0,0,3,0,4,4,0,2,10,8,WWWWWL,1,0,2,4,6,WWW,WWL
+Genoa,Siena,1-0,/match/genoa/siena/2009,2009,7,serie_a,20,38,0,1,0,7,3,0,3,9,7,WWWWWW,3,0,0,8,3,11,2,2,2,5,4,WWDDWW,0,1,2,2,4,WWW,WDW
+Chievo,Atalanta,1-1,/match/chievo/atalanta/2009,2009,7,serie_a,20,38,1,1,1,16,1,2,3,4,8,WWDDWL,1,1,1,3,4,5,4,0,2,7,5,WLWWWW,1,0,2,1,3,WDL,LWW
+Lecce,Udinese,2-2,/match/lecce/udinese/2009,2009,7,serie_a,20,38,1,2,2,12,2,2,2,6,6,WWDWWD,2,1,0,5,1,1,4,1,1,10,3,WWDLWW,1,0,1,3,1,WDW,WL
+Roma,Inter,0-4,/match/roma/internazionale/2009,2009,7,serie_a,20,38,2,0,4,13,2,1,3,8,8,DWWWWW,2,1,0,6,1,2,4,1,1,9,5,DWLWWW,1,1,1,4,3,DWW,DLW
+Siena,Catania,1-1,/match/siena/catania/2009,2009,8,serie_a,20,38,1,1,1,12,2,2,3,5,5,WWDDWWW,2,1,0,3,0,1,4,2,1,8,4,WWWDWDW,0,2,1,3,4,WDW,WDD
+Juventus,Torino,1-0,/match/juventus-fc/torino-fc/2009,2009,8,serie_a,20,38,0,1,0,14,2,3,2,6,6,DWLDDLW,1,1,1,3,3,17,1,2,4,7,11,WDLDLWL,0,2,1,2,4,WDL,DDW
+Lazio,Napoli,0-1,/match/lazio/napoli/2009,2009,8,serie_a,20,38,2,0,1,10,4,1,2,15,10,LWWWLDW,2,1,0,6,1,5,4,2,1,10,7,DWDWLWW,1,2,1,4,4,WWD,DDLW
+Inter,Genoa,0-0,/match/internazionale/genoa/2009,2009,8,serie_a,20,38,1,0,0,3,5,1,1,13,5,DWLWWWL,3,0,0,5,2,4,4,0,3,10,7,WWWWWWW,0,0,3,1,4,WWW,WWW
+Atalanta,Milan,0-1,/match/atalanta/milan/2009,2009,8,serie_a,20,38,2,0,1,7,4,1,2,8,6,WLWWWWD,3,0,0,6,2,8,4,1,2,11,6,LWWLWDW,1,1,1,2,3,WWW,WLD
+Reggina,Lecce,2-0,/match/reggina/lecce/2009,2009,8,serie_a,20,38,0,2,0,19,0,2,5,4,13,WDWLWDW,0,2,1,3,4,11,2,3,2,8,8,WWDWWDD,0,1,2,1,5,DLD,WWD
+Udinese,Roma,3-1,/match/udinese/roma/2009,2009,8,serie_a,20,38,0,3,1,2,4,2,1,12,5,WWDLWWD,3,1,0,7,2,13,2,1,4,8,12,DWWWWWL,0,0,3,2,7,WDWW,WWW
+Cagliari,Chievo,2-0,/match/cagliari/chievo/2009,2009,8,serie_a,20,38,0,2,0,20,1,1,5,2,10,LWLWWDL,0,1,2,1,5,15,1,3,3,5,9,WWDDWLD,0,1,2,1,4,LLD,WDW
+Sampdoria,Bologna,2-0,/match/sampdoria/bologna/2009,2009,8,serie_a,20,38,0,2,0,16,0,4,3,4,11,DWDDDWW,0,3,0,2,2,18,2,0,5,6,10,LLWLLWW,1,0,2,3,4,DDD,LWW
+Palermo FC,Fiorentina,1-3,/match/palermo/fiorentina/2009,2009,8,serie_a,20,38,2,1,3,9,4,0,3,10,10,WWWWWLW,3,0,0,6,2,6,4,1,2,9,6,DWWWWLW,1,0,2,3,5,WWW,WWL
+Bologna,Juventus,1-2,/match/bologna/juventus-fc/2009,2009,9,serie_a,20,38,2,1,2,20,2,0,6,6,12,LLWLLWWW,1,0,3,3,6,9,3,3,2,7,6,DWLDDLWW,1,2,1,3,3,LLLW,DLDW
+Fiorentina,Inter,0-0,/match/fiorentina/internazionale/2009,2009,9,serie_a,20,38,1,0,0,5,5,1,2,12,7,DWWWWLWL,3,1,0,6,1,3,5,2,1,13,5,DWLWWWLD,2,1,1,8,3,DWWW,DLWL
+Milan,Siena,2-1,/match/milan/siena/2009,2009,9,serie_a,20,38,0,2,1,7,5,1,2,12,6,LWWLWDWL,3,0,1,9,3,13,2,3,3,6,6,WWDDWWWD,0,1,3,2,5,LWWW,WDWW
+Torino,Atalanta,2-1,/match/torino-fc/atalanta/2009,2009,9,serie_a,20,38,0,2,1,19,1,2,5,7,12,WDLDLWLW,1,0,3,5,7,8,4,1,3,8,7,WLWWWWDL,1,1,2,2,4,WLLL,LWWD
+Catania,Udinese,0-2,/match/catania/udinese/2009,2009,9,serie_a,20,38,2,0,2,2,4,3,1,9,5,WWWDWDWD,4,0,0,5,0,1,5,2,1,15,6,WWDLWWDW,1,1,1,5,3,WWWW,WLD
+Genoa,Cagliari,2-1,/match/genoa/cagliari/2009,2009,9,serie_a,20,38,0,2,1,6,4,1,3,10,7,WWWWWWWD,4,0,0,9,3,18,2,1,5,4,10,LWLWWDLW,1,0,3,1,5,WWWW,WWWL
+Napoli,Reggina,3-0,/match/napoli/reggina/2009,2009,9,serie_a,20,38,0,3,0,4,5,2,1,11,7,DWDWLWWL,3,0,0,6,3,17,1,2,5,6,13,WDWLWDWW,0,0,4,1,9,WWW,WWWW
+Chievo,Lazio,1-2,/match/chievo/lazio/2009,2009,9,serie_a,20,38,2,1,2,16,1,3,4,5,11,WWDDWLDW,1,2,1,4,5,11,4,1,3,15,11,LWWWLDWL,2,0,2,9,9,WDLD,LWLW
+Lecce,Palermo FC,1-1,/match/lecce/palermo/2009,2009,9,serie_a,20,38,1,1,1,12,2,3,3,8,10,WWDWWDDW,2,2,0,7,3,10,4,0,4,11,13,WWWWWLWL,1,0,3,4,8,WDWD,WWLW
+Roma,Sampdoria,2-0,/match/roma/sampdoria/2009,2009,9,serie_a,20,38,0,2,0,15,2,1,5,9,15,DWWWWWLW,2,1,1,6,5,14,1,4,3,6,11,DWDDDWWW,0,1,3,2,9,DWWL,WDWW
+Reggina,Inter,2-3,/match/reggina/internazionale/2009,2009,10,serie_a,20,38,2,2,3,18,1,2,6,6,16,WDWLWDWWW,1,2,1,5,4,5,5,3,1,13,5,DWLWWWLDD,2,2,1,8,3,DLDW,DLWLD
+Juventus,Roma,2-0,/match/juventus-fc/roma/2009,2009,10,serie_a,20,38,0,2,0,8,4,3,2,9,7,DWLDDLWWL,2,1,1,4,3,13,3,1,5,11,15,DWWWWWLWW,0,0,4,3,10,WDLW,WWWW
+Sampdoria,Torino,1-0,/match/sampdoria/torino-fc/2009,2009,10,serie_a,20,38,0,1,0,15,1,4,4,6,13,DWDDDWWWW,1,3,0,4,2,16,2,2,5,9,13,WDLDLWLWW,0,2,2,2,5,DDDW,DDWW
+Palermo FC,Chievo,3-0,/match/palermo/chievo/2009,2009,10,serie_a,20,38,0,3,0,10,4,1,4,12,14,WWWWWLWLD,3,0,1,7,5,17,1,3,5,6,13,WWDDWLDWL,0,1,3,1,6,WWWL,WDWW
+Siena,Fiorentina,1-0,/match/siena/fiorentina/2009,2009,10,serie_a,20,38,0,1,0,14,2,3,4,7,8,WWDDWWWDW,2,2,0,4,1,6,5,2,2,12,7,DWWWWLWLD,2,0,2,6,6,WDWD,WWLL
+Atalanta,Lecce,0-0,/match/atalanta/lecce/2009,2009,10,serie_a,20,38,1,0,0,11,4,1,4,9,9,WLWWWWDLW,3,0,1,6,3,12,2,4,3,9,11,WWDWWDDWD,0,1,3,1,7,WWWL,WWDW
+Lazio,Catania,1-0,/match/lazio/catania/2009,2009,10,serie_a,20,38,0,1,0,9,5,1,3,17,12,LWWWLDWLL,2,1,1,6,2,7,4,3,2,9,7,WWWDWDWDL,0,3,1,4,5,WWDL,WDDD
+Udinese,Genoa,2-2,/match/udinese/genoa/2009,2009,10,serie_a,20,38,1,2,2,1,6,2,1,17,6,WWDLWWDWL,4,1,0,10,3,3,5,1,3,12,8,WWWWWWWDW,0,1,3,1,4,WDWWW,WWWD
+Cagliari,Bologna,5-1,/match/cagliari/bologna/2009,2009,10,serie_a,20,38,0,5,1,19,2,1,6,5,12,LWLWWDLWW,1,1,2,3,5,20,2,0,7,7,14,LLWLLWWWL,1,0,3,3,6,LLDW,LWWW
+Milan,Napoli,1-0,/match/milan/napoli/2009,2009,10,serie_a,20,38,0,1,0,4,6,1,2,14,7,LWWLWDWLW,4,0,1,11,4,2,6,2,1,14,7,DWDWLWWLW,2,2,1,5,4,LWWWW,DDLWL
+Torino,Palermo FC,1-0,/match/torino-fc/palermo/2009,2009,11,serie_a,20,38,0,1,0,17,2,2,6,9,14,WDLDLWLWWW,2,0,3,7,8,10,5,1,4,15,14,WWWWWLWLDW,1,1,3,5,9,WLLLW,WWLWD
+Bologna,Roma,1-1,/match/bologna/roma/2009,2009,11,serie_a,20,38,1,1,1,20,2,0,8,8,19,LLWLLWWWLW,1,0,4,4,8,15,3,1,6,11,17,DWWWWWLWWW,0,0,5,3,12,LLLWL,WWWWW
+Fiorentina,Atalanta,2-1,/match/fiorentina/atalanta/2009,2009,11,serie_a,20,38,0,2,1,6,5,2,3,12,8,DWWWWLWLDW,3,2,0,6,1,12,4,2,4,9,9,WLWWWWDLWD,1,1,3,3,6,DWWWD,LWWDW
+Napoli,Sampdoria,2-0,/match/napoli/sampdoria/2009,2009,11,serie_a,20,38,0,2,0,5,6,2,2,14,8,DWDWLWWLWW,4,0,0,9,3,14,2,4,4,7,13,DWDDDWWWWW,0,1,4,2,11,WWWW,WDWWW
+Inter,Udinese,1-0,/match/internazionale/udinese/2009,2009,11,serie_a,20,38,0,1,0,4,6,3,1,16,7,DWLWWWLDDL,3,1,0,5,2,1,6,3,1,19,8,WWDLWWDWLD,2,1,1,7,3,WWWD,WLDL
+Lazio,Siena,3-0,/match/lazio/siena/2009,2009,11,serie_a,20,38,0,3,0,8,6,1,3,18,12,LWWWLDWLLW,3,1,1,7,2,11,3,3,4,8,8,WWDDWWWDWW,0,1,4,3,7,WWDLW,WDWWW
+Genoa,Reggina,4-0,/match/genoa/reggina/2009,2009,11,serie_a,20,38,0,4,0,3,5,2,3,14,10,WWWWWWWDWD,5,0,0,11,4,19,1,2,7,8,19,WDWLWDWWWL,0,0,5,1,12,WWWWW,WWWWW
+Catania,Cagliari,2-1,/match/catania/cagliari/2009,2009,11,serie_a,20,38,0,2,1,9,4,3,3,9,8,WWWDWDWDLW,4,0,1,5,2,16,3,1,6,10,13,LWLWWDLWWW,1,0,4,2,7,WWWWL,WWWLW
+Chievo,Juventus,0-2,/match/chievo/juventus-fc/2009,2009,11,serie_a,20,38,2,0,2,18,1,3,6,6,16,WWDDWLDWLW,1,2,2,5,7,7,5,3,2,11,7,DWLDDLWWLW,2,2,1,5,4,WDLDL,DLDWL
+Lecce,Milan,1-1,/match/lecce/milan/2009,2009,11,serie_a,20,38,1,1,1,13,2,5,3,9,11,WWDWWDDWDD,2,3,0,8,4,2,7,1,2,15,7,LWWLWDWLWW,2,1,1,3,3,WDWDD,WLDL
+Juventus,Genoa,4-1,/match/juventus-fc/genoa/2009,2009,12,serie_a,20,38,0,4,1,9,6,3,2,13,7,DWLDDLWWLWL,3,1,1,6,3,1,6,2,3,18,10,WWWWWWWDWDW,0,2,3,3,6,WDLWW,WWWDD
+Palermo FC,Inter,0-2,/match/palermo/internazionale/2009,2009,12,serie_a,20,38,2,0,2,10,5,1,5,15,15,WWWWWLWLDWW,4,0,1,10,5,2,7,3,1,17,7,DWLWWWLDDLW,3,2,1,11,5,WWWLW,DLWLDL
+Catania,Torino,3-2,/match/catania/torino-fc/2009,2009,12,serie_a,20,38,0,3,2,8,5,3,3,11,9,WWWDWDWDLWW,5,0,1,7,3,16,3,2,6,10,14,WDLDLWLWWWW,0,2,3,2,6,WWWWLW,DDWWW
+Atalanta,Napoli,3-1,/match/atalanta/napoli/2009,2009,12,serie_a,20,38,0,3,1,13,4,2,5,10,11,WLWWWWDLWDW,3,1,1,6,3,3,7,2,2,16,8,DWDWLWWLWWW,2,2,2,5,5,WWWLD,DDLWLW
+Sampdoria,Lecce,3-2,/match/sampdoria/lecce/2009,2009,12,serie_a,20,38,0,3,2,14,2,4,5,7,15,DWDDDWWWWWW,2,3,0,5,2,11,2,6,3,10,12,WWDWWDDWDDD,0,2,3,1,7,DDDWW,WWDWD
+Udinese,Reggina,0-1,/match/udinese/reggina/2009,2009,12,serie_a,20,38,2,0,1,5,6,3,2,19,9,WWDLWWDWLDW,4,2,0,12,5,19,1,2,8,8,23,WDWLWDWWWLW,0,0,6,1,16,WDWWWD,WWWWWW
+Cagliari,Fiorentina,1-0,/match/cagliari/fiorentina/2009,2009,12,serie_a,20,38,0,1,0,17,3,1,7,11,15,LWLWWDLWWWW,2,1,2,8,6,6,6,2,3,14,9,DWWWWLWLDWW,2,0,3,6,7,LLDWW,WWLLW
+Milan,Chievo,1-0,/match/milan/chievo/2009,2009,12,serie_a,20,38,0,1,0,4,7,2,2,16,8,LWWLWDWLWWD,5,0,1,12,4,18,1,3,7,6,18,WWDDWLDWLWL,0,1,4,1,9,LWWWWW,WDWWW
+Siena,Bologna,1-1,/match/siena/bologna/2009,2009,12,serie_a,20,38,1,1,1,12,3,3,5,8,11,WWDDWWWDWWW,3,2,0,5,1,20,2,1,8,9,20,LLWLLWWWLWD,1,0,4,4,11,WDWDW,LWWWW
+Roma,Lazio,1-0,/match/roma/lazio/2009,2009,12,serie_a,20,38,0,1,0,15,3,2,6,12,18,DWWWWWLWWWD,3,1,1,8,5,7,7,1,3,21,12,LWWWLDWLLWW,3,0,2,11,10,DWWLW,LWLWL
+Fiorentina,Udinese,4-2,/match/fiorentina/udinese/2009,2009,13,serie_a,20,38,0,4,2,8,6,2,4,14,10,DWWWWLWLDWWW,4,2,0,8,2,7,6,3,3,19,10,WWDLWWDWLDWL,2,1,2,7,4,DWWWDW,WLDLW
+Inter,Juventus,1-0,/match/internazionale/juventus-fc/2009,2009,13,serie_a,20,38,0,1,0,2,8,3,1,19,7,DWLWWWLDDLWL,4,1,0,6,2,6,7,3,2,17,8,DWLDDLWWLWLW,3,2,1,7,4,WWWDW,DLDWLL
+Bologna,Palermo FC,1-1,/match/bologna/palermo/2009,2009,13,serie_a,20,38,1,1,1,20,2,2,8,10,21,LLWLLWWWLWDD,1,1,4,5,9,12,5,1,6,15,17,WWWWWLWLDWWL,1,1,4,5,10,LLLWLD,WWLWDW
+Lazio,Genoa,1-1,/match/lazio/genoa/2009,2009,13,serie_a,20,38,1,1,1,9,7,1,4,21,13,LWWWLDWLLWWW,4,1,1,10,2,4,6,2,4,19,14,WWWWWWWDWDWW,0,2,4,4,10,WWDLWW,WWWDDW
+Reggina,Atalanta,3-1,/match/reggina/atalanta/2009,2009,13,serie_a,20,38,0,3,1,18,2,2,8,9,23,WDWLWDWWWLWL,1,2,2,7,7,10,5,2,5,13,12,WLWWWWDLWDWW,1,1,4,4,8,DLDWL,LWWDWW
+Lecce,Roma,0-3,/match/lecce/roma/2009,2009,13,serie_a,20,38,2,0,3,15,2,6,4,12,15,WWDWWDDWDDDW,2,4,0,9,5,11,4,2,6,13,18,DWWWWWLWWWDW,0,1,5,4,13,WDWDDD,WWWWWD
+Sampdoria,Catania,3-0,/match/sampdoria/catania/2009,2009,13,serie_a,20,38,0,3,0,14,3,4,5,10,17,DWDDDWWWWWWW,3,3,0,8,4,3,6,3,3,14,11,WWWDWDWDLWWW,0,3,2,4,6,DDDWWW,WDDDW
+Chievo,Siena,0-2,/match/chievo/siena/2009,2009,13,serie_a,20,38,2,0,2,19,1,3,8,6,19,WWDDWLDWLWLW,1,2,3,5,9,13,3,4,5,9,12,WWDDWWWDWWWD,0,1,5,3,10,WDLDLL,WDWWWW
+Napoli,Cagliari,2-2,/match/napoli/cagliari/2009,2009,13,serie_a,20,38,1,2,2,5,7,2,3,17,11,DWDWLWWLWWWW,5,0,0,11,3,16,4,1,7,12,15,LWLWWDLWWWWW,1,0,5,3,9,WWWWW,WWWLWW
+Torino,Milan,2-2,/match/torino-fc/milan/2009,2009,13,serie_a,20,38,1,2,2,17,3,2,7,12,17,WDLDLWLWWWWW,3,0,3,8,8,1,8,2,2,17,8,LWWLWDWLWWDW,2,2,1,4,4,WLLLWW,WLDLD
+Catania,Lecce,1-1,/match/catania/lecce/2009,2009,14,serie_a,20,38,1,1,1,5,6,3,4,14,14,WWWDWDWDLWWWW,6,0,1,10,5,15,2,6,5,12,18,WWDWWDDWDDDWL,0,2,4,3,10,WWWWLWW,WWDWDW
+Juventus,Reggina,4-0,/match/juventus-fc/reggina/2009,2009,14,serie_a,20,38,0,4,0,7,7,3,3,17,9,DWLDDLWWLWLWW,4,1,1,10,4,18,3,2,8,12,24,WDWLWDWWWLWLW,1,0,6,2,16,WDLWWW,WWWWWWL
+Siena,Torino,1-0,/match/siena/torino-fc/2009,2009,14,serie_a,20,38,0,1,0,11,4,4,5,11,12,WWDDWWWDWWWDL,3,3,0,6,2,17,3,3,7,14,19,WDLDLWLWWWWWD,0,2,4,4,9,WDWDWD,DDWWWW
+Atalanta,Lazio,2-0,/match/atalanta/lazio/2009,2009,14,serie_a,20,38,0,2,0,13,5,2,6,14,15,WLWWWWDLWDWWW,4,1,1,9,4,8,7,2,4,22,14,LWWWLDWLLWWWD,3,0,3,11,11,WWWLDW,LWLWLW
+Udinese,Chievo,0-1,/match/udinese/chievo/2009,2009,14,serie_a,20,38,2,0,1,9,6,3,4,21,14,WWDLWWDWLDWLW,4,2,1,12,6,20,1,3,9,6,21,WWDDWLDWLWLWL,0,1,5,1,10,WDWWWDL,WDWWWW
+Cagliari,Sampdoria,1-0,/match/cagliari/sampdoria/2009,2009,14,serie_a,20,38,0,1,0,16,4,2,7,14,17,LWLWWDLWWWWWD,3,1,2,9,6,10,4,4,5,13,17,DWDDDWWWWWWWW,0,1,5,2,13,LLDWWW,WDWWWW
+Inter,Napoli,2-1,/match/internazionale/napoli/2009,2009,14,serie_a,20,38,0,2,1,1,9,3,1,20,7,DWLWWWLDDLWLW,5,1,0,7,2,3,7,3,3,19,13,DWDWLWWLWWWWD,2,2,3,6,8,WWWDWW,DDLWLWW
+Roma,Fiorentina,1-0,/match/roma/fiorentina/2009,2009,14,serie_a,20,38,0,1,0,12,5,2,6,16,18,DWWWWWLWWWDWL,4,1,1,9,5,4,7,2,4,18,12,DWWWWLWLDWWWW,2,0,4,6,8,DWWLWW,WWLLWW
+Genoa,Bologna,1-1,/match/genoa/bologna/2009,2009,14,serie_a,20,38,1,1,1,6,6,3,4,20,15,WWWWWWWDWDWWD,6,0,0,15,4,19,2,3,8,11,22,LLWLLWWWLWDDD,1,1,4,5,12,WWWWWW,LWWWWD
+Palermo FC,Milan,3-1,/match/palermo/milan/2009,2009,14,serie_a,20,38,0,3,1,14,5,2,6,16,18,WWWWWLWLDWWLD,4,0,2,10,7,2,8,3,2,19,10,LWWLWDWLWWDWD,2,3,1,6,6,WWWLWL,WLDLDD
+Chievo,Roma,0-1,/match/chievo/roma/2009,2009,15,serie_a,20,38,2,0,1,20,2,3,9,7,21,WWDDWLDWLWLWLL,1,2,4,5,11,10,6,2,6,17,18,DWWWWWLWWWDWLW,1,1,5,7,13,WDLDLLL,WWWWWDL
+Lazio,Inter,0-3,/match/lazio/internazionale/2009,2009,15,serie_a,20,38,2,0,3,8,7,2,5,22,16,LWWWLDWLLWWWDW,4,2,1,11,3,1,10,3,1,22,8,DWLWWWLDDLWLWW,4,2,1,13,5,WWDLWWD,DLWLDLL
+Atalanta,Udinese,3-0,/match/atalanta/udinese/2009,2009,15,serie_a,20,38,0,3,0,9,6,2,6,16,15,WLWWWWDLWDWWWW,5,1,1,11,4,12,6,3,5,21,15,WWDLWWDWLDWLWL,2,1,3,9,8,WWWLDWW,WLDLWW
+Lecce,Juventus,1-2,/match/lecce/juventus-fc/2009,2009,15,serie_a,20,38,2,1,2,16,2,7,5,13,19,WWDWWDDWDDDWLD,2,4,1,9,8,3,8,3,3,21,9,DWLDDLWWLWLWWW,3,2,2,7,5,WDWDDDL,DLDWLLW
+Cagliari,Palermo FC,1-0,/match/cagliari/palermo/2009,2009,15,serie_a,20,38,0,1,0,15,5,2,7,15,17,LWLWWDLWWWWWDW,4,1,2,10,6,13,6,2,6,19,19,WWWWWLWLDWWLDW,1,2,4,6,11,LLDWWWW,WWLWDWD
+Milan,Catania,1-0,/match/milan/catania/2009,2009,15,serie_a,20,38,0,1,0,2,8,3,3,20,13,LWWLWDWLWWDWDW,6,0,1,13,4,4,6,4,4,15,15,WWWDWDWDLWWWWD,0,3,3,4,9,LWWWWWW,WDDDWW
+Reggina,Bologna,2-2,/match/reggina/bologna/2009,2009,15,serie_a,20,38,1,2,2,18,3,2,9,12,28,WDWLWDWWWLWLWW,2,2,2,10,8,19,2,4,8,12,23,LLWLLWWWLWDDDD,1,2,4,6,13,DLDWLW,LWWWWDD
+Napoli,Siena,2-0,/match/napoli/siena/2009,2009,15,serie_a,20,38,0,2,0,6,7,3,4,20,15,DWDWLWWLWWWWDW,5,1,0,13,5,11,5,4,5,12,12,WWDDWWWDWWWDLW,1,1,5,5,10,WWWWWD,WDWWWWL
+Torino,Fiorentina,1-4,/match/torino-fc/fiorentina/2009,2009,15,serie_a,20,38,2,1,4,17,3,3,8,14,20,WDLDLWLWWWWWDW,3,1,3,10,10,7,7,2,5,18,13,DWWWWLWLDWWWWW,2,0,5,6,9,WLLLWWD,WWLLWWW
+Sampdoria,Genoa,0-1,/match/sampdoria/genoa/2009,2009,15,serie_a,20,38,2,0,1,14,4,4,6,13,18,DWDDDWWWWWWWWW,4,3,0,11,4,5,6,4,4,21,16,WWWWWWWDWDWWDD,0,3,4,5,11,DDDWWWW,WWWDDWD
+Bologna,Torino,5-2,/match/bologna/torino-fc/2009,2009,16,serie_a,20,38,0,5,2,19,2,5,8,14,25,LLWLLWWWLWDDDDD,1,2,4,6,10,17,3,3,9,15,24,WDLDLWLWWWWWDWL,0,2,5,4,10,LLLWLDD,DDWWWWW
+Napoli,Lecce,3-0,/match/napoli/lecce/2009,2009,16,serie_a,20,38,0,3,0,4,8,3,4,22,15,DWDWLWWLWWWWDWW,6,1,0,15,5,16,2,7,6,14,21,WWDWWDDWDDDWLDL,0,3,4,4,11,WWWWWDW,WWDWDWD
+Genoa,Atalanta,1-1,/match/genoa/atalanta/2009,2009,16,serie_a,20,38,1,1,1,5,7,4,4,22,16,WWWWWWWDWDWWDDL,6,1,0,16,5,8,7,2,6,19,15,WLWWWWDLWDWWWWW,1,1,5,5,11,WWWWWWD,LWWDWWW
+Udinese,Lazio,3-3,/match/udinese/lazio/2009,2009,16,serie_a,20,38,1,3,3,13,6,3,6,21,18,WWDLWWDWLDWLWLW,4,2,2,12,7,10,7,2,6,22,19,LWWWLDWLLWWWDWL,3,0,4,11,13,WDWWWDLL,LWLWLWW
+Fiorentina,Catania,2-0,/match/fiorentina/catania/2009,2009,16,serie_a,20,38,0,2,0,6,8,2,5,22,14,DWWWWLWLDWWWWWL,5,2,0,12,4,7,6,4,5,15,16,WWWDWDWDLWWWWDW,0,3,4,4,10,DWWWDWW,WDDDWWW
+Inter,Chievo,4-2,/match/internazionale/chievo/2009,2009,16,serie_a,20,38,0,4,2,1,11,3,1,25,8,DWLWWWLDDLWLWWL,6,1,0,9,3,20,2,3,10,7,22,WWDDWLDWLWLWLLL,1,1,5,2,10,WWWDWWW,WDWWWWL
+Palermo FC,Siena,2-0,/match/palermo/siena/2009,2009,16,serie_a,20,38,0,2,0,14,6,2,7,19,20,WWWWWLWLDWWLDWW,5,0,2,13,8,12,5,4,6,12,14,WWDDWWWDWWWDLWW,1,1,6,5,12,WWWLWLW,WDWWWWLW
+Roma,Cagliari,3-2,/match/roma/cagliari/2009,2009,16,serie_a,20,38,0,3,2,9,7,2,6,18,18,DWWWWWLWWWDWLWL,5,1,1,10,5,11,6,2,7,16,17,LWLWWDLWWWWWDWW,1,1,5,5,11,DWWLWWW,WWWLWWD
+Reggina,Sampdoria,0-2,/match/reggina/sampdoria/2009,2009,16,serie_a,20,38,2,0,2,18,3,3,9,14,30,WDWLWDWWWLWLWWD,2,3,2,12,10,15,4,4,7,13,19,DWDDDWWWWWWWWWL,0,1,6,2,14,DLDWLWD,WDWWWWW
+Juventus,Milan,4-2,/match/juventus-fc/milan/2009,2009,16,serie_a,20,38,0,4,2,3,9,3,3,23,10,DWLDDLWWLWLWWWL,5,1,1,14,4,2,9,3,3,21,13,LWWLWDWLWWDWDWW,2,3,2,7,9,WDLWWWW,WLDLDDW
+Lazio,Palermo FC,1-0,/match/lazio/palermo/2009,2009,17,serie_a,20,38,0,1,0,11,7,3,6,25,22,LWWWLDWLLWWWDWLD,4,2,2,11,6,10,7,2,7,21,20,WWWWWLWLDWWLDWWW,1,2,5,6,12,WWDLWWDL,WWLWDWDW
+Siena,Inter,1-2,/match/siena/internazionale/2009,2009,17,serie_a,20,38,2,1,2,15,5,4,7,12,16,WWDDWWWDWWWDLWWW,4,3,0,7,2,1,12,3,1,29,10,DWLWWWLDDLWLWWLW,5,2,1,16,5,WDWDWDW,DLWLDLLL
+Sampdoria,Fiorentina,0-1,/match/sampdoria/fiorentina/2009,2009,17,serie_a,20,38,2,0,1,13,5,4,7,15,19,DWDDDWWWWWWWWWLL,4,3,1,11,5,5,9,2,5,24,14,DWWWWLWLDWWWWWLW,3,0,5,10,10,DDDWWWWL,WWLLWWWL
+Catania,Roma,3-2,/match/catania/roma/2009,2009,17,serie_a,20,38,0,3,2,9,6,4,6,15,18,WWWDWDWDLWWWWDWW,6,1,1,11,6,7,8,2,6,21,20,DWWWWWLWWWDWLWLW,2,1,5,8,13,WWWWLWWD,WWWWWDLL
+Atalanta,Juventus,1-3,/match/atalanta/juventus-fc/2009,2009,17,serie_a,20,38,2,1,3,8,7,3,6,20,16,WLWWWWDLWDWWWWWD,6,1,1,14,4,2,10,3,3,27,12,DWLDDLWWLWLWWWLW,4,2,2,9,6,WWWLDWWW,DLDWLLWL
+Chievo,Genoa,0-1,/match/chievo/genoa/2009,2009,17,serie_a,20,38,2,0,1,20,2,3,11,9,26,WWDDWLDWLWLWLLLW,1,2,5,5,12,6,7,5,4,23,17,WWWWWWWDWDWWDDLD,1,3,4,6,11,WDLDLLLL,WWWDDWDL
+Torino,Napoli,1-0,/match/torino-fc/napoli/2009,2009,17,serie_a,20,38,0,1,0,18,3,3,10,17,29,WDLDLWLWWWWWDWLW,3,1,4,11,14,3,9,3,4,25,15,DWDWLWWLWWWWDWWW,2,2,4,7,10,WLLLWWDL,DDLWLWWW
+Cagliari,Reggina,1-1,/match/cagliari/reggina/2009,2009,17,serie_a,20,38,1,1,1,14,6,2,8,18,20,LWLWWDLWWWWWDWWW,5,1,2,11,6,19,3,3,10,14,32,WDWLWDWWWLWLWWDL,1,0,7,2,20,LLDWWWWW,WWWWWWLW
+Lecce,Bologna,0-0,/match/lecce/bologna/2009,2009,17,serie_a,20,38,1,0,0,16,2,7,7,14,24,WWDWWDDWDDDWLDLW,2,4,2,10,10,17,3,5,8,19,27,LLWLLWWWLWDDDDDW,1,3,4,8,15,WDWDDDLL,LWWWWDDD
+Milan,Udinese,5-1,/match/milan/udinese/2009,2009,17,serie_a,20,38,0,5,1,4,9,3,4,23,17,LWWLWDWLWWDWDWWW,7,0,1,14,4,12,6,4,6,24,21,WWDLWWDWLDWLWLWD,2,1,4,9,11,LWWWWWWW,WLDLWWW
+Genoa,Torino,3-0,/match/genoa/torino-fc/2009,2009,18,serie_a,20,38,0,3,0,6,8,5,4,24,17,WWWWWWWDWDWWDDLDL,6,2,0,17,6,17,4,3,10,18,29,WDLDLWLWWWWWDWLWW,0,2,6,6,15,WWWWWWDD,DDWWWWWW
+Inter,Cagliari,1-1,/match/internazionale/cagliari/2009,2009,18,serie_a,20,38,1,1,1,1,13,3,1,31,11,DWLWWWLDDLWLWWLWL,7,1,0,13,5,13,6,3,8,19,21,LWLWWDLWWWWWDWWWD,1,1,6,7,14,WWWDWWWW,WWWLWWDW
+Napoli,Catania,1-0,/match/napoli/catania/2009,2009,18,serie_a,20,38,0,1,0,4,9,3,5,25,16,DWDWLWWLWWWWDWWWW,7,1,0,18,5,7,7,4,6,18,20,WWWDWDWDLWWWWDWWW,0,3,5,4,12,WWWWWDWW,WDDDWWWW
+Udinese,Sampdoria,1-1,/match/udinese/sampdoria/2009,2009,18,serie_a,20,38,1,1,1,12,6,4,7,25,26,WWDLWWDWLDWLWLWDW,4,3,2,15,10,14,5,4,8,15,20,DWDDDWWWWWWWWWLLL,1,1,6,4,14,WDWWWDLLD,WDWWWWWL
+Palermo FC,Atalanta,3-2,/match/palermo/atalanta/2009,2009,18,serie_a,20,38,0,3,2,11,7,2,8,21,21,WWWWWLWLDWWLDWWWW,6,0,2,15,8,10,7,3,7,21,19,WLWWWWDLWDWWWWWDL,1,2,5,6,12,WWWLWLWW,LWWDWWWD
+Juventus,Siena,1-0,/match/juventus-fc/siena/2009,2009,18,serie_a,20,38,0,1,0,3,11,3,3,30,13,DWLDDLWWLWLWWWLWL,6,1,1,18,6,15,5,4,8,13,18,WWDDWWWDWWWDLWWWL,1,1,7,5,14,WDLWWWWW,WDWWWWLWW
+Reggina,Lazio,2-3,/match/reggina/lazio/2009,2009,18,serie_a,20,38,2,2,3,19,3,4,10,15,33,WDWLWDWWWLWLWWDLD,2,3,3,12,12,8,8,3,6,26,22,LWWWLDWLLWWWDWLDW,3,1,4,14,16,DLDWLWDL,LWLWLWWD
+Fiorentina,Lecce,1-2,/match/fiorentina/lecce/2009,2009,18,serie_a,20,38,2,1,2,5,10,2,5,25,14,DWWWWLWLDWWWWWLWL,6,2,0,14,4,16,2,8,7,14,24,WWDWWDDWDDDWLDLWD,0,3,5,4,14,DWWWDWWW,WWDWDWDW
+Bologna,Chievo,1-1,/match/bologna/chievo/2009,2009,18,serie_a,20,38,1,1,1,18,3,6,8,19,27,LLWLLWWWLWDDDDDWD,2,2,4,11,12,20,2,3,12,9,27,WWDDWLDWLWLWLLLWL,1,1,6,4,14,LLLWLDDW,WDWWWWLW
+Roma,Milan,2-2,/match/roma/milan/2009,2009,18,serie_a,20,38,1,2,2,9,8,2,7,23,23,DWWWWWLWWWDWLWLWW,6,1,1,13,7,2,10,3,4,28,18,LWWLWDWLWWDWDWWWW,2,3,3,9,13,DWWLWWWW,WLDLDDWW
+Siena,Reggina,1-0,/match/siena/reggina/2009,2009,19,serie_a,20,38,0,1,0,15,5,4,9,13,19,WWDDWWWDWWWDLWWWLW,4,3,1,8,4,19,3,4,11,17,36,WDWLWDWWWLWLWWDLDL,1,1,7,3,21,WDWDWDWL,WWWWWWLWD
+Milan,Fiorentina,1-0,/match/milan/fiorentina/2009,2009,19,serie_a,20,38,0,1,0,3,10,4,4,30,20,LWWLWDWLWWDWDWWWWD,8,0,1,19,5,6,10,2,6,26,16,DWWWWLWLDWWWWWLWLL,4,0,5,11,10,LWWWWWWWW,WWLLWWWLL
+Sampdoria,Palermo FC,0-2,/match/sampdoria/palermo/2009,2009,19,serie_a,20,38,2,0,2,14,5,5,8,16,21,DWDDDWWWWWWWWWLLLD,4,3,2,11,6,10,8,2,8,24,23,WWWWWLWLDWWLDWWWWW,1,2,6,6,13,DDDWWWWLL,WWLWDWDWW
+Lecce,Genoa,0-2,/match/lecce/genoa/2009,2009,19,serie_a,20,38,2,0,2,16,3,8,7,16,25,WWDWWDDWDDDWLDLWDL,2,5,2,10,10,5,9,5,4,27,17,WWWWWWWDWDWWDDLDLW,2,3,4,7,11,WDWDDDLLD,WWWDDWDLL
+Atalanta,Inter,3-1,/match/atalanta/internazionale/2009,2009,19,serie_a,20,38,0,3,1,11,7,3,8,23,22,WLWWWWDLWDWWWWWDLW,6,1,2,15,7,1,13,4,1,32,12,DWLWWWLDDLWLWWLWLD,6,2,1,18,6,WWWLDWWWL,DLWLDLLLL
+Chievo,Napoli,2-1,/match/chievo/napoli/2009,2009,19,serie_a,20,38,0,2,1,20,2,4,12,10,28,WWDDWLDWLWLWLLLWLD,1,2,6,5,13,4,10,3,5,26,16,DWDWLWWLWWWWDWWWWW,2,2,5,7,11,WDLDLLLLL,DDLWLWWWW
+Torino,Roma,0-1,/match/torino-fc/roma/2009,2009,19,serie_a,20,38,2,0,1,17,4,3,11,18,32,WDLDLWLWWWWWDWLWWW,4,1,4,12,14,9,8,3,7,25,25,DWWWWWLWWWDWLWLWWD,2,1,6,10,16,WLLLWWDLW,WWWWWDLLW
+Cagliari,Udinese,2-0,/match/cagliari/udinese/2009,2009,19,serie_a,20,38,0,2,0,13,6,4,8,20,22,LWLWWDLWWWWWDWWWDD,5,2,2,12,7,12,6,5,7,26,27,WWDLWWDWLDWLWLWDWD,2,1,5,10,16,LLDWWWWWD,WLDLWWWW
+Catania,Bologna,1-2,/match/catania/bologna/2009,2009,19,serie_a,20,38,2,1,2,7,7,4,7,18,21,WWWDWDWDLWWWWDWWWW,7,1,1,14,8,18,3,7,8,20,28,LLWLLWWWLWDDDDDWDD,1,4,4,8,15,WWWWLWWDW,LWWWWDDDD
+Lazio,Juventus,1-1,/match/lazio/juventus-fc/2009,2009,19,serie_a,20,38,1,1,1,8,9,3,6,29,24,LWWWLDWLLWWWDWLDWL,5,2,2,12,6,2,12,3,3,31,13,DWLDDLWWLWLWWWLWLW,5,2,2,12,7,WWDLWWDLW,DLDWLLWLL
+Reggina,Chievo,0-1,/match/reggina/chievo/2009,2009,20,serie_a,20,38,2,0,1,19,3,4,12,17,37,WDWLWDWWWLWLWWDLDLW,2,3,4,14,15,20,3,4,12,12,29,WWDDWLDWLWLWLLLWLDW,1,2,6,5,15,DLDWLWDLL,WDWWWWLWD
+Juventus,Fiorentina,1-0,/match/juventus-fc/fiorentina/2009,2009,20,serie_a,20,38,0,1,0,3,12,4,3,32,14,DWLDDLWWLWLWWWLWLWD,7,1,1,19,6,6,10,2,7,26,17,DWWWWLWLDWWWWWLWLLW,4,0,6,11,11,WDLWWWWWW,WWLLWWWLLW
+Palermo FC,Udinese,3-2,/match/palermo/udinese/2009,2009,20,serie_a,20,38,0,3,2,9,9,2,8,26,23,WWWWWLWLDWWLDWWWWWL,7,0,2,18,10,13,6,5,8,26,29,WWDLWWDWLDWLWLWDWDW,2,1,6,10,18,WWWLWLWWW,WLDLWWWWW
+Lazio,Cagliari,1-4,/match/lazio/cagliari/2009,2009,20,serie_a,20,38,2,1,4,7,9,4,6,30,25,LWWWLDWLLWWWDWLDWLD,5,3,2,13,7,12,7,4,8,22,22,LWLWWDLWWWWWDWWWDDW,1,2,6,8,15,WWDLWWDLWD,WWWLWWDWD
+Genoa,Catania,1-1,/match/genoa/catania/2009,2009,20,serie_a,20,38,1,1,1,4,10,5,4,29,17,WWWWWWWDWDWWDDLDLWL,7,2,0,20,6,11,7,4,8,19,23,WWWDWDWDLWWWWDWWWWL,0,3,6,4,13,WWWWWWDDW,WDDDWWWWW
+Lecce,Torino,3-3,/match/lecce/torino-fc/2009,2009,20,serie_a,20,38,1,3,3,16,3,8,8,16,27,WWDWWDDWDDDWLDLWDLL,2,5,3,10,12,18,4,3,12,18,33,WDLDLWLWWWWWDWLWWWL,0,2,7,6,18,WDWDDDLLDL,DDWWWWWWW
+Siena,Atalanta,1-0,/match/siena/atalanta/2009,2009,20,serie_a,20,38,0,1,0,14,6,4,9,14,19,WWDDWWWDWWWDLWWWLWW,5,3,1,9,4,10,8,3,8,26,23,WLWWWWDLWDWWWWWDLWW,1,2,6,8,15,WDWDWDWLW,LWWDWWWDW
+Napoli,Roma,0-3,/match/napoli/roma/2009,2009,20,serie_a,20,38,2,0,3,5,10,3,6,27,18,DWDWLWWLWWWWDWWWWWW,8,1,0,19,5,8,9,3,7,26,25,DWWWWWLWWWDWLWLWWDL,3,1,6,11,16,WWWWWDWWW,WWWWWDLLWL
+Bologna,Milan,1-4,/match/bologna/milan/2009,2009,20,serie_a,20,38,2,1,4,17,4,7,8,22,29,LLWLLWWWLWDDDDDWDDL,2,3,4,12,13,2,11,4,4,31,20,LWWLWDWLWWDWDWWWWDW,2,4,3,11,15,LLLWLDDWD,WLDLDDWWD
+Inter,Sampdoria,1-0,/match/internazionale/sampdoria/2009,2009,20,serie_a,20,38,0,1,0,1,13,4,2,33,15,DWLWWWLDDLWLWWLWLDW,7,2,0,14,6,15,5,5,9,16,23,DWDDDWWWWWWWWWLLLDL,1,2,6,5,15,WWWDWWWWD,WDWWWWWLD
+Chievo,Lecce,1-1,/match/chievo/lecce/2009,2009,21,serie_a,20,38,1,1,1,19,4,4,12,13,29,WWDDWLDWLWLWLLLWLDWL,2,2,6,7,14,16,3,9,8,19,30,WWDWWDDWDDDWLDLWDLLD,1,3,5,6,15,WDLDLLLLLW,WWDWDWDWL
+Torino,Reggina,0-0,/match/torino-fc/reggina/2009,2009,21,serie_a,20,38,1,0,0,18,4,4,12,21,36,WDLDLWLWWWWWDWLWWWLD,4,1,5,12,15,20,3,4,13,17,38,WDWLWDWWWLWLWWDLDLWL,1,1,8,3,22,WLLLWWDLWL,WWWWWWLWDW
+Udinese,Juventus,2-1,/match/udinese/juventus-fc/2009,2009,21,serie_a,20,38,0,2,1,14,6,5,9,28,32,WWDLWWDWLDWLWLWDWDWW,4,4,2,16,11,2,13,4,3,33,14,DWLDDLWWLWLWWWLWLWDW,5,3,2,13,8,WDWWWDLLDD,DLDWLLWLLD
+Fiorentina,Napoli,2-1,/match/fiorentina/napoli/2009,2009,21,serie_a,20,38,0,2,1,8,10,2,8,26,18,DWWWWLWLDWWWWWLWLLWW,6,2,1,15,6,5,10,3,7,27,21,DWDWLWWLWWWWDWWWWWWL,2,2,6,8,13,DWWWDWWWL,DDLWLWWWWW
+Cagliari,Siena,1-0,/match/cagliari/siena/2009,2009,21,serie_a,20,38,0,1,0,10,8,4,8,26,23,LWLWWDLWWWWWDWWWDDWL,6,2,2,14,7,13,7,4,9,15,19,WWDDWWWDWWWDLWWWLWWW,1,1,8,5,15,LLDWWWWWDW,WDWWWWLWWW
+Milan,Genoa,1-1,/match/milan/genoa/2009,2009,21,serie_a,20,38,1,1,1,3,12,4,4,35,21,LWWLWDWLWWDWDWWWWDWL,9,0,1,20,5,4,10,6,4,30,18,WWWWWWWDWDWWDDLDLWLD,3,3,4,9,11,LWWWWWWWWW,WWWDDWDLLL
+Sampdoria,Lazio,3-1,/match/sampdoria/lazio/2009,2009,21,serie_a,20,38,0,3,1,15,5,5,10,16,24,DWDDDWWWWWWWWWLLLDLW,4,3,3,11,8,9,9,4,7,31,29,LWWWLDWLLWWWDWLDWLDL,4,1,4,17,18,DDDWWWWLLL,LWLWLWWDL
+Roma,Palermo FC,2-1,/match/roma/palermo/2009,2009,21,serie_a,20,38,0,2,1,7,10,3,7,29,25,DWWWWWLWWWDWLWLWWDLL,6,2,1,15,9,6,10,2,8,29,25,WWWWWLWLDWWLDWWWWWLW,2,2,6,8,13,DWWLWWWWD,WWLWDWDWWL
+Catania,Inter,0-2,/match/catania/internazionale/2009,2009,21,serie_a,20,38,2,0,2,11,7,5,8,20,24,WWWDWDWDLWWWWDWWWWLD,7,1,2,15,10,1,14,4,2,34,15,DWLWWWLDDLWLWWLWLDWW,6,2,2,19,9,WWWWLWWDWL,DLWLDLLLLW
+Atalanta,Bologna,0-1,/match/atalanta/bologna/2009,2009,21,serie_a,20,38,2,0,1,12,8,3,9,26,24,WLWWWWDLWDWWWWWDLWWW,7,1,2,18,8,17,4,7,9,23,33,LLWLLWWWLWDDDDDWDDLL,2,4,4,10,16,WWWLDWWWLW,LWWWWDDDDL
+Napoli,Udinese,2-2,/match/napoli/udinese/2009,2009,22,serie_a,20,38,1,2,2,6,10,3,8,28,23,DWDWLWWLWWWWDWWWWWWLW,8,1,1,19,8,14,7,5,9,30,33,WWDLWWDWLDWLWLWDWDWWW,2,1,7,12,21,WWWWWDWWWL,WLDLWWWWWW
+Juventus,Cagliari,2-3,/match/juventus-fc/cagliari/2009,2009,22,serie_a,20,38,2,2,3,3,13,4,4,34,16,DWLDDLWWLWLWWWLWLWDWW,8,1,1,20,6,9,9,4,8,27,23,LWLWWDLWWWWWDWWWDDWLW,2,2,6,12,16,WDLWWWWWWW,WWWLWWDWDL
+Atalanta,Catania,1-0,/match/atalanta/catania/2009,2009,22,serie_a,20,38,0,1,0,11,8,3,10,26,25,WLWWWWDLWDWWWWWDLWWWL,7,1,3,18,9,12,7,5,9,20,26,WWWDWDWDLWWWWDWWWWLDL,0,4,6,5,14,WWWLDWWWLWL,WDDDWWWWWD
+Chievo,Sampdoria,1-1,/match/chievo/sampdoria/2009,2009,22,serie_a,20,38,1,1,1,19,4,5,12,14,30,WWDDWLDWLWLWLLLWLDWLD,2,3,6,8,15,15,6,5,10,19,25,DWDDDWWWWWWWWWLLLDLWW,1,2,7,5,16,WDLDLLLLLWD,WDWWWWWLDW
+Genoa,Palermo FC,1-0,/match/genoa/palermo/2009,2009,22,serie_a,20,38,0,1,0,4,10,7,4,31,19,WWWWWWWDWDWWDDLDLWLDD,7,3,0,21,7,8,10,2,9,30,27,WWWWWLWLDWWLDWWWWWLWW,2,2,7,9,15,WWWWWWDDWD,WWLWDWDWWLW
+Inter,Torino,1-1,/match/internazionale/torino-fc/2009,2009,22,serie_a,20,38,1,1,1,1,15,4,2,36,15,DWLWWWLDDLWLWWLWLDWWL,8,2,0,15,6,18,4,5,12,21,36,WDLDLWLWWWWWDWLWWWLDD,0,3,7,9,21,WWWDWWWWDW,DDWWWWWWWD
+Siena,Lecce,1-2,/match/siena/lecce/2009,2009,22,serie_a,20,38,2,1,2,13,7,4,10,15,20,WWDDWWWDWWWDLWWWLWWWW,6,3,1,10,4,16,3,10,8,20,31,WWDWWDDWDDDWLDLWDLLDD,1,4,5,7,16,WDWDWDWLWW,WWDWDWDWLD
+Reggina,Roma,2-2,/match/reggina/roma/2009,2009,22,serie_a,20,38,1,2,2,20,3,5,13,17,38,WDWLWDWWWLWLWWDLDLWLD,2,3,5,14,16,5,11,3,7,31,26,DWWWWWLWWWDWLWLWWDLLW,4,1,6,14,16,DLDWLWDLLL,WWWWWDLLWLL
+Lazio,Milan,0-3,/match/lazio/milan/2009,2009,22,serie_a,20,38,2,0,3,10,9,4,8,32,32,LWWWLDWLLWWWDWLDWLDLW,5,3,3,14,11,2,12,5,4,36,22,LWWLWDWLWWDWDWWWWDWLD,3,4,3,15,16,WWDLWWDLWDL,WLDLDDWWDL
+Bologna,Fiorentina,1-3,/match/bologna/fiorentina/2009,2009,22,serie_a,20,38,2,1,3,17,5,7,9,24,33,LLWLLWWWLWDDDDDWDDLLL,2,3,5,13,17,7,11,2,8,28,19,DWWWWLWLDWWWWWLWLLWWW,4,0,7,11,12,LLLWLDDWDL,WWLLWWWLLWW
+Lecce,Inter,0-3,/match/lecce/internazionale/2009,2009,23,serie_a,20,38,2,0,3,16,4,10,8,22,32,WWDWWDDWDDDWLDLWDLLDDL,2,6,3,13,15,1,15,5,2,37,16,DWLWWWLDDLWLWWLWLDWWLD,7,2,2,21,9,WDWDDDLLDLD,DLWLDLLLLWL
+Milan,Reggina,1-1,/match/milan/reggina/2009,2009,23,serie_a,20,38,1,1,1,2,13,5,4,39,22,LWWLWDWLWWDWDWWWWDWLDL,9,1,1,21,6,20,3,6,13,19,40,WDWLWDWWWLWLWWDLDLWLDD,1,2,8,3,22,LWWWWWWWWWD,WWWWWWLWDWD
+Cagliari,Atalanta,0-1,/match/cagliari/atalanta/2009,2009,23,serie_a,20,38,2,0,1,8,10,4,8,30,25,LWLWWDLWWWWWDWWWDDWLWL,7,2,2,15,7,9,9,3,10,27,25,WLWWWWDLWDWWWWWDLWWWLW,1,2,7,8,16,LLDWWWWWDWW,LWWDWWWDWW
+Roma,Genoa,3-0,/match/roma/genoa/2009,2009,23,serie_a,20,38,0,3,0,5,11,4,7,33,28,DWWWWWLWWWDWLWLWWDLLWD,7,2,1,17,10,3,11,7,4,32,19,WWWWWWWDWDWWDDLDLWLDDW,3,4,4,10,12,DWWLWWWWDW,WWWDDWDLLLD
+Fiorentina,Lazio,1-0,/match/fiorentina/lazio/2009,2009,23,serie_a,20,38,0,1,0,7,12,2,8,31,20,DWWWWLWLDWWWWWLWLLWWWL,7,2,1,17,7,11,9,4,9,32,35,LWWWLDWLLWWWDWLDWLDLWL,4,1,5,18,21,DWWWDWWWLW,LWLWLWWDLW
+Sampdoria,Siena,2-2,/match/sampdoria/siena/2009,2009,23,serie_a,20,38,1,2,2,15,6,6,10,20,26,DWDDDWWWWWWWWWLLLDLWWD,5,3,3,14,9,14,7,4,11,16,22,WWDDWWWDWWWDLWWWLWWWWL,1,1,9,5,16,DDDWWWWLLLW,WDWWWWLWWWW
+Torino,Chievo,1-1,/match/torino-fc/chievo/2009,2009,23,serie_a,20,38,1,1,1,18,4,6,12,22,37,WDLDLWLWWWWWDWLWWWLDDD,4,2,5,12,15,19,4,6,12,15,31,WWDDWLDWLWLWLLLWLDWLDD,2,2,6,6,15,WLLLWWDLWLD,WDWWWWLWDL
+Catania,Juventus,1-2,/match/catania/juventus-fc/2009,2009,23,serie_a,20,38,2,1,2,12,7,5,10,20,27,WWWDWDWDLWWWWDWWWWLDLW,7,1,3,15,12,4,13,4,5,36,19,DWLDDLWWLWLWWWLWLWDWWL,5,3,3,14,10,WWWWLWWDWLL,DLDWLLWLLDW
+Udinese,Bologna,1-0,/match/udinese/bologna/2009,2009,23,serie_a,20,38,0,1,0,13,7,6,9,32,35,WWDLWWDWLDWLWLWDWDWWWD,5,4,2,18,12,17,5,7,10,25,36,LLWLLWWWLWDDDDDWDDLLLL,3,4,4,11,16,WDWWWDLLDDW,LWWWWDDDDLL
+Palermo FC,Napoli,2-1,/match/palermo/napoli/2009,2009,23,serie_a,20,38,0,2,1,10,10,2,10,30,28,WWWWWLWLDWWLDWWWWWLWWW,8,0,2,21,12,6,10,4,8,30,25,DWDWLWWLWWWWDWWWWWWLWD,2,2,7,9,15,WWWLWLWWWW,DDLWLWWWWWW
+Lazio,Torino,1-1,/match/lazio/torino-fc/2009,2009,24,serie_a,20,38,1,1,1,12,9,4,10,32,36,LWWWLDWLLWWWDWLDWLDLWLW,5,3,4,14,14,17,4,7,12,23,38,WDLDLWLWWWWWDWLWWWLDDDD,0,4,7,10,22,WWDLWWDLWDLL,DDWWWWWWWDD
+Napoli,Bologna,1-1,/match/napoli/bologna/2009,2009,24,serie_a,20,38,1,1,1,7,10,4,9,31,27,DWDWLWWLWWWWDWWWWWWLWDW,8,2,1,21,10,18,5,7,11,25,37,LLWLLWWWLWDDDDDWDDLLLLW,3,4,5,11,17,WWWWWDWWWLD,LWWWWDDDDLLW
+Genoa,Fiorentina,3-3,/match/genoa/fiorentina/2009,2009,24,serie_a,20,38,1,3,3,4,11,7,5,32,22,WWWWWWWDWDWWDDLDLWLDDWW,8,3,0,22,7,6,13,2,8,32,20,DWWWWLWLDWWWWWLWLLWWWLW,5,0,7,14,13,WWWWWWDDWDW,WWLLWWWLLWWL
+Juventus,Sampdoria,1-1,/match/juventus-fc/sampdoria/2009,2009,24,serie_a,20,38,1,1,1,3,14,4,5,38,20,DWLDDLWWLWLWWWLWLWDWWLL,8,1,2,22,9,15,6,7,10,22,28,DWDDDWWWWWWWWWLLLDLWWDD,1,3,7,6,17,WDLWWWWWWWL,WDWWWWWLDWD
+Reggina,Palermo FC,0-0,/match/reggina/palermo/2009,2009,24,serie_a,20,38,1,0,0,20,3,7,13,20,41,WDWLWDWWWLWLWWDLDLWLDDD,2,4,5,16,18,8,11,2,10,32,29,WWWWWLWLDWWLDWWWWWLWWWW,2,2,8,9,16,DLDWLWDLLLD,WWLWDWDWWLWW
+Siena,Udinese,1-1,/match/siena/udinese/2009,2009,24,serie_a,20,38,1,1,1,14,7,5,11,18,24,WWDDWWWDWWWDLWWWLWWWWLD,6,3,2,11,6,11,8,6,9,33,35,WWDLWWDWLDWLWLWDWDWWWDW,2,2,7,14,23,WDWDWDWLWWL,WLDLWWWWWWD
+Atalanta,Roma,3-0,/match/atalanta/roma/2009,2009,24,serie_a,20,38,0,3,0,10,10,3,10,28,25,WLWWWWDLWDWWWWWDLWWWLWL,8,1,3,19,9,5,12,4,7,36,28,DWWWWWLWWWDWLWLWWDLLWDW,4,2,6,16,18,WWWLDWWWLWLW,WWWWWDLLWLLD
+Cagliari,Lecce,2-0,/match/cagliari/lecce/2009,2009,24,serie_a,20,38,0,2,0,9,10,4,9,30,26,LWLWWDLWWWWWDWWWDDWLWLL,7,2,3,15,8,16,4,10,9,22,35,WWDWWDDWDDDWLDLWDLLDDLL,2,4,5,9,17,LLDWWWWWDWWL,WWDWDWDWLDL
+Chievo,Catania,1-1,/match/chievo/catania/2009,2009,24,serie_a,20,38,1,1,1,19,4,7,12,16,32,WWDDWLDWLWLWLLLWLDWLDDD,2,4,6,9,16,13,7,5,11,21,29,WWWDWDWDLWWWWDWWWWLDLWL,0,4,7,5,15,WDLDLLLLLWDD,WDDDWWWWWDW
+Inter,Milan,2-1,/match/internazionale/milan/2009,2009,24,serie_a,20,38,0,2,1,1,16,5,2,40,16,DWLWWWLDDLWLWWLWLDWWLDL,8,3,0,16,7,2,13,6,4,40,23,LWWLWDWLWWDWDWWWWDWLDLD,4,4,3,18,16,WWWDWWWWDWD,WLDLDDWWDLL
+Bologna,Inter,1-2,/match/bologna/internazionale/2009,2009,25,serie_a,20,38,2,1,2,18,5,8,11,26,38,LLWLLWWWLWDDDDDWDDLLLLWD,2,3,6,14,20,1,17,5,2,42,17,DWLWWWLDDLWLWWLWLDWWLDLW,8,2,2,24,9,LLLWLDDWDLL,DLWLDLLLLWLL
+Roma,Siena,1-0,/match/roma/siena/2009,2009,25,serie_a,20,38,0,1,0,6,12,4,8,36,31,DWWWWWLWWWDWLWLWWDLLWDWW,8,2,1,20,10,13,7,6,11,19,25,WWDDWWWDWWWDLWWWLWWWWLDD,1,2,9,7,18,DWWLWWWWDWW,WDWWWWLWWWWD
+Palermo FC,Juventus,0-2,/match/palermo/juventus-fc/2009,2009,25,serie_a,20,38,2,0,2,10,11,3,10,32,29,WWWWWLWLDWWLDWWWWWLWWWWD,9,0,2,23,13,3,14,5,5,39,21,DWLDDLWWLWLWWWLWLWDWWLLD,6,3,3,16,11,WWWLWLWWWWW,DLDWLLWLLDWL
+Fiorentina,Chievo,2-1,/match/fiorentina/chievo/2009,2009,25,serie_a,20,38,0,2,1,5,13,3,8,35,23,DWWWWLWLDWWWWWLWLLWWWLWD,8,2,1,18,7,19,4,8,12,17,33,WWDDWLDWLWLWLLLWLDWLDDDD,2,3,6,7,16,DWWWDWWWLWW,WDWWWWLWDLD
+Catania,Reggina,2-0,/match/catania/reggina/2009,2009,25,serie_a,20,38,0,2,0,14,7,6,11,22,30,WWWDWDWDLWWWWDWWWWLDLWLD,7,1,4,16,14,20,3,8,13,20,41,WDWLWDWWWLWLWWDLDLWLDDDD,1,3,8,4,23,WWWWLWWDWLLL,WWWWWWLWDWDD
+Milan,Cagliari,1-0,/match/milan/cagliari/2009,2009,25,serie_a,20,38,0,1,0,2,13,6,5,41,25,LWWLWDWLWWDWDWWWWDWLDLDW,9,2,1,22,7,8,11,4,9,32,26,LWLWWDLWWWWWDWWWDDWLWLLW,3,2,6,15,18,LWWWWWWWWWDD,WWWLWWDWDLL
+Lecce,Lazio,0-2,/match/lecce/lazio/2009,2009,25,serie_a,20,38,2,0,2,16,4,10,10,22,37,WWDWWDDWDDDWLDLWDLLDDLLW,2,6,4,13,18,12,9,5,10,33,37,LWWWLDWLLWWWDWLDWLDLWLWD,4,1,6,18,22,WDWDDDLLDLDL,LWLWLWWDLWW
+Napoli,Genoa,0-1,/match/napoli/genoa/2009,2009,25,serie_a,20,38,2,0,1,7,10,5,9,32,28,DWDWLWWLWWWWDWWWWWWLWDWD,8,3,1,22,11,4,11,8,5,35,25,WWWWWWWDWDWWDDLDLWLDDWWD,3,4,5,10,15,WWWWWDWWWLDD,WWWDDWDLLLDW
+Sampdoria,Atalanta,1-0,/match/sampdoria/atalanta/2009,2009,25,serie_a,20,38,0,1,0,15,6,8,10,23,29,DWDDDWWWWWWWWWLLLDLWWDDD,5,4,3,16,11,9,11,3,10,31,25,WLWWWWDLWDWWWWWDLWWWLWLW,2,2,7,9,16,DDDWWWWLLLWD,LWWDWWWDWWL
+Torino,Udinese,1-0,/match/torino-fc/udinese/2009,2009,25,serie_a,20,38,0,1,0,17,4,8,12,24,39,WDLDLWLWWWWWDWLWWWLDDDDD,4,3,5,13,16,11,8,7,9,34,36,WWDLWWDWLDWLWLWDWDWWWDWD,2,3,7,15,24,WLLLWWDLWLDD,WLDLWWWWWWDD
+Lazio,Bologna,2-0,/match/lazio/bologna/2009,2009,26,serie_a,20,38,0,2,0,13,10,5,10,35,37,LWWWLDWLLWWWDWLDWLDLWLWDL,5,4,4,15,15,18,5,8,12,27,40,LLWLLWWWLWDDDDDWDDLLLLWDL,3,5,5,12,18,WWDLWWDLWDLLD,LWWWWDDDDLLWD
+Juventus,Napoli,1-0,/match/juventus-fc/napoli/2009,2009,26,serie_a,20,38,0,1,0,3,15,5,5,41,21,DWLDDLWWLWLWWWLWLWDWWLLDL,8,2,2,23,10,7,10,5,10,32,29,DWDWLWWLWWWWDWWWWWWLWDWDL,2,2,8,10,17,WDLWWWWWWWLD,DDLWLWWWWWWW
+Palermo FC,Catania,0-4,/match/palermo/catania/2009,2009,26,serie_a,20,38,2,0,4,10,11,3,11,32,31,WWWWWLWLDWWLDWWWWWLWWWWDL,9,0,3,23,15,11,8,6,11,24,30,WWWDWDWDLWWWWDWWWWLDLWLDW,0,5,7,6,16,WWWLWLWWWWWL,WDDDWWWWWDWD
+Cagliari,Torino,0-0,/match/cagliari/torino-fc/2009,2009,26,serie_a,20,38,1,0,0,8,11,4,10,32,27,LWLWWDLWWWWWDWWWDDWLWLLWW,8,2,3,17,8,16,5,8,12,25,39,WDLDLWLWWWWWDWLWWWLDDDDDW,0,5,7,11,23,LLDWWWWWDWWLW,DDWWWWWWWDDD
+Sampdoria,Milan,2-1,/match/sampdoria/milan/2009,2009,26,serie_a,20,38,0,2,1,14,7,8,10,24,29,DWDDDWWWWWWWWWLLLDLWWDDDW,6,4,3,17,11,2,14,6,5,42,25,LWWLWDWLWWDWDWWWWDWLDLDWW,4,4,4,19,18,DDDWWWWLLLWDW,WLDLDDWWDLLW
+Siena,Genoa,0-0,/match/siena/genoa/2009,2009,26,serie_a,20,38,1,0,0,15,7,6,12,19,26,WWDDWWWDWWWDLWWWLWWWWLDDW,6,4,2,12,7,4,12,8,5,36,25,WWWWWWWDWDWWDDLDLWLDDWWDL,4,4,5,11,15,WDWDWDWLWWLD,WWWDDWDLLLDWL
+Udinese,Lecce,2-0,/match/udinese/lecce/2009,2009,26,serie_a,20,38,0,2,0,12,8,7,10,34,37,WWDLWWDWLDWLWLWDWDWWWDWDW,6,4,2,19,12,17,4,10,11,22,39,WWDWWDDWDDDWLDLWDLLDDLLWL,2,4,6,9,19,WDWWWDLLDDWW,WWDWDWDWLDLW
+Atalanta,Chievo,0-2,/match/atalanta/chievo/2009,2009,26,serie_a,20,38,2,0,2,9,11,3,11,31,26,WLWWWWDLWDWWWWWDLWWWLWLWW,9,1,3,22,9,19,4,8,13,18,35,WWDDWLDWLWLWLLLWLDWLDDDDW,2,3,7,8,18,WWWLDWWWLWLWW,WDWWWWLWDLDW
+Reggina,Fiorentina,1-1,/match/reggina/fiorentina/2009,2009,26,serie_a,20,38,1,1,1,20,3,8,14,20,43,WDWLWDWWWLWLWWDLDLWLDDDDW,2,5,5,16,18,5,14,3,8,37,24,DWWWWLWLDWWWWWLWLLWWWLWDW,5,1,7,17,16,DLDWLWDLLLDD,WWLLWWWLLWWLD
+Inter,Roma,3-3,/match/internazionale/roma/2009,2009,26,serie_a,20,38,1,3,3,1,18,5,2,44,18,DWLWWWLDDLWLWWLWLDWWLDLWL,9,3,0,18,8,6,13,4,8,37,31,DWWWWWLWWWDWLWLWWDLLWDWWW,4,2,7,16,21,WWWDWWWWDWDW,WWWWWDLLWLLDW
+Roma,Udinese,1-1,/match/roma/udinese/2009,2009,27,serie_a,20,38,1,1,1,6,13,5,8,40,34,DWWWWWLWWWDWLWLWWDLLWDWWWD,9,2,1,21,10,11,9,7,10,36,37,WWDLWWDWLDWLWLWDWDWWWDWDWW,2,3,8,15,25,DWWLWWWWDWWW,WLDLWWWWWWDDW
+Genoa,Inter,0-2,/match/genoa/internazionale/2009,2009,27,serie_a,20,38,2,0,2,4,12,9,5,36,25,WWWWWWWDWDWWDDLDLWLDDWWDLD,8,4,0,25,10,1,18,6,2,47,21,DWLWWWLDDLWLWWLWLDWWLDLWLD,9,2,2,26,10,WWWWWWDDWDWD,DLWLDLLLLWLLL
+Torino,Juventus,0-1,/match/torino-fc/juventus-fc/2009,2009,27,serie_a,20,38,2,0,1,16,5,9,12,25,39,WDLDLWLWWWWWDWLWWWLDDDDDWD,5,3,5,14,16,2,16,5,5,42,21,DWLDDLWWLWLWWWLWLWDWWLLDLW,7,3,3,18,11,WLLLWWDLWLDDW,DLDWLLWLLDWLL
+Lecce,Reggina,0-0,/match/lecce/reggina/2009,2009,27,serie_a,20,38,1,0,0,17,4,10,12,22,41,WWDWWDDWDDDWLDLWDLLDDLLWLW,2,6,5,13,20,20,3,9,14,21,44,WDWLWDWWWLWLWWDLDLWLDDDDWD,1,3,9,4,25,WDWDDDLLDLDLL,WWWWWWLWDWDDW
+Chievo,Cagliari,1-1,/match/chievo/cagliari/2009,2009,27,serie_a,20,38,1,1,1,18,5,8,13,20,35,WWDDWLDWLWLWLLLWLDWLDDDDWL,2,5,6,10,17,7,11,5,10,32,27,LWLWWDLWWWWWDWWWDDWLWLLWWD,3,2,7,15,19,WDLDLLLLLWDDD,WWWLWWDWDLLW
+Fiorentina,Palermo FC,0-2,/match/fiorentina/palermo/2009,2009,27,serie_a,20,38,2,0,2,5,14,4,8,38,25,DWWWWLWLDWWWWWLWLLWWWLWDWD,9,2,1,20,8,10,11,3,12,32,35,WWWWWLWLDWWLDWWWWWLWWWWDLL,2,3,8,9,16,DWWWDWWWLWWW,WWLWDWDWWLWWD
+Catania,Siena,0-3,/match/catania/siena/2009,2009,27,serie_a,20,38,2,0,3,14,9,6,11,28,30,WWWDWDWDLWWWWDWWWWLDLWLDWL,8,1,4,18,14,15,7,7,12,19,26,WWDDWWWDWWWDLWWWLWWWWLDDWD,1,2,10,7,19,WWWWLWWDWLLLW,WDWWWWLWWWWDW
+Napoli,Lazio,0-2,/match/napoli/lazio/2009,2009,27,serie_a,20,38,2,0,2,8,10,5,11,32,30,DWDWLWWLWWWWDWWWWWWLWDWDLW,8,3,2,22,12,12,11,5,10,37,37,LWWWLDWLLWWWDWLDWLDLWLWDLW,5,1,6,20,22,WWWWWDWWWLDDL,LWLWLWWDLWWL
+Milan,Atalanta,3-0,/match/milan/atalanta/2009,2009,27,serie_a,20,38,0,3,0,3,14,6,6,43,27,LWWLWDWLWWDWDWWWWDWLDLDWWW,10,2,1,23,7,9,11,3,12,31,28,WLWWWWDLWDWWWWWDLWWWLWLWWL,2,2,8,9,17,LWWWWWWWWWDDW,LWWDWWWDWWLW
+Bologna,Sampdoria,3-0,/match/bologna/sampdoria/2009,2009,27,serie_a,20,38,0,3,0,19,5,8,13,27,42,LLWLLWWWLWDDDDDWDDLLLLWDLW,2,3,7,15,22,13,8,8,10,26,30,DWDDDWWWWWWWWWLLLDLWWDDDWW,1,4,7,7,18,LLLWLDDWDLLL,WDWWWWWLDWDD
+Cagliari,Genoa,0-1,/match/cagliari/genoa/2009,2009,28,serie_a,20,38,2,0,1,7,11,6,10,33,28,LWLWWDLWWWWWDWWWDDWLWLLWWDD,8,3,3,17,8,4,12,9,6,36,27,WWWWWWWDWDWWDDLDLWLDDWWDLDL,4,5,5,11,15,LLDWWWWWDWWLWD,WWWDDWDLLLDWLD
+Juventus,Bologna,4-1,/match/juventus-fc/bologna/2009,2009,28,serie_a,20,38,0,4,1,3,17,5,5,43,21,DWLDDLWWLWLWWWLWLWDWWLLDLWL,9,2,2,24,10,19,6,8,13,30,42,LLWLLWWWLWDDDDDWDDLLLLWDLWW,3,5,6,12,20,WDLWWWWWWWLDW,LWWWWDDDDLLWDW
+Lazio,Chievo,0-3,/match/lazio/chievo/2009,2009,28,serie_a,20,38,2,0,3,9,12,5,10,39,37,LWWWLDWLLWWWDWLDWLDLWLWDLWL,6,4,4,17,15,18,5,9,13,21,36,WWDDWLDWLWLWLLLWLDWLDDDDWLD,3,3,7,10,18,WWDLWWDLWDLLDW,WDWWWWLWDLDWL
+Palermo FC,Lecce,5-2,/match/palermo/lecce/2009,2009,28,serie_a,20,38,0,5,2,8,12,3,12,34,35,WWWWWLWLDWWLDWWWWWLWWWWDLLL,9,0,4,23,19,17,4,11,12,22,41,WWDWWDDWDDDWLDLWDLLDDLLWLWD,2,4,7,9,21,WWWLWLWWWWWLL,WWDWDWDWLDLWW
+Sampdoria,Roma,2-2,/match/sampdoria/roma/2009,2009,28,serie_a,20,38,1,2,2,13,8,8,11,26,33,DWDDDWWWWWWWWWLLLDLWWDDDWWW,7,4,3,19,12,5,13,6,8,41,35,DWWWWWLWWWDWLWLWWDLLWDWWWDD,4,3,7,19,24,DDDWWWWLLLWDWW,WWWWWDLLWLLDWD
+Reggina,Napoli,1-1,/match/reggina/napoli/2009,2009,28,serie_a,20,38,1,1,1,20,3,10,14,21,44,WDWLWDWWWLWLWWDLDLWLDDDDWDD,2,6,5,17,19,12,10,5,12,32,32,DWDWLWWLWWWWDWWWWWWLWDWDLWL,2,2,9,10,18,DLDWLWDLLLDDD,DDLWLWWWWWWWW
+Siena,Milan,1-5,/match/siena/milan/2009,2009,28,serie_a,20,38,2,1,5,15,8,7,12,22,26,WWDDWWWDWWWDLWWWLWWWWLDDWDL,6,5,2,12,7,2,15,6,6,46,27,LWWLWDWLWWDWDWWWWDWLDLDWWWW,4,4,5,20,20,WDWDWDWLWWLDD,WLDLDDWWDLLWW
+Atalanta,Torino,2-0,/match/atalanta/torino-fc/2009,2009,28,serie_a,20,38,0,2,0,11,11,3,13,31,31,WLWWWWDLWDWWWWWDLWWWLWLWWLW,9,1,4,22,11,16,5,9,13,25,40,WDLDLWLWWWWWDWLWWWLDDDDDWDL,0,6,7,11,23,WWWLDWWWLWLWWL,DDWWWWWWWDDDD
+Udinese,Catania,1-1,/match/udinese/catania/2009,2009,28,serie_a,20,38,1,1,1,10,9,8,10,37,38,WWDLWWDWLDWLWLWDWDWWWDWDWWD,7,4,2,21,12,14,9,6,12,28,33,WWWDWDWDLWWWWDWWWWLDLWLDWLL,1,5,7,10,16,WDWWWDLLDDWWW,WDDDWWWWWDWDL
+Inter,Fiorentina,2-0,/match/internazionale/fiorentina/2009,2009,28,serie_a,20,38,0,2,0,1,19,6,2,49,21,DWLWWWLDDLWLWWLWLDWWLDLWLDL,9,4,0,21,11,6,14,4,9,38,27,DWWWWLWLDWWWWWLWLLWWWLWDWDL,5,2,7,18,17,WWWDWWWWDWDWD,WWLLWWWLLWWLDD
+Catania,Lazio,1-0,/match/catania/lazio/2009,2009,29,serie_a,20,38,0,1,0,14,9,7,12,29,34,WWWDWDWDLWWWWDWWWWLDLWLDWLLD,8,1,5,18,17,11,12,5,11,39,40,LWWWLDWLLWWWDWLDWLDLWLWDLWLL,6,1,6,22,22,WWWWLWWDWLLLWL,LWLWLWWDLWWLL
+Roma,Juventus,1-4,/match/roma/juventus-fc/2009,2009,29,serie_a,20,38,2,1,4,5,13,7,8,43,37,DWWWWWLWWWDWLWLWWDLLWDWWWDDD,9,3,1,22,11,2,18,5,5,47,22,DWLDDLWWLWLWWWLWLWDWWLLDLWLW,8,3,3,19,11,DWWLWWWWDWWWD,DLDWLLWLLDWLLL
+Genoa,Udinese,2-0,/match/genoa/udinese/2009,2009,29,serie_a,20,38,0,2,0,4,13,9,6,37,27,WWWWWWWDWDWWDDLDLWLDDWWDLDLL,8,4,1,25,12,10,9,9,10,38,39,WWDLWWDWLDWLWLWDWDWWWDWDWWDD,2,4,8,16,26,WWWWWWDDWDWDL,WLDLWWWWWWDDWD
+Torino,Sampdoria,1-3,/match/torino-fc/sampdoria/2009,2009,29,serie_a,20,38,2,1,3,16,5,9,14,25,42,WDLDLWLWWWWWDWLWWWLDDDDDWDLW,5,3,6,14,17,13,8,9,11,28,35,DWDDDWWWWWWWWWLLLDLWWDDDWWWD,1,4,8,7,21,WLLLWWDLWLDDWL,WDWWWWWLDWDDW
+Chievo,Palermo FC,1-0,/match/chievo/palermo/2009,2009,29,serie_a,20,38,0,1,0,17,6,9,13,24,36,WWDDWLDWLWLWLLLWLDWLDDDDWLDL,2,6,6,11,18,7,13,3,12,39,37,WWWWWLWLDWWLDWWWWWLWWWWDLLLW,3,3,8,11,16,WDLDLLLLLWDDDD,WWLWDWDWWLWWDL
+Fiorentina,Siena,1-0,/match/fiorentina/siena/2009,2009,29,serie_a,20,38,0,1,0,6,14,4,10,38,29,DWWWWLWLDWWWWWLWLLWWWLWDWDLW,9,2,2,20,10,15,8,7,13,23,31,WWDDWWWDWWWDLWWWLWWWWLDDWDLL,2,2,10,10,19,DWWWDWWWLWWWL,WDWWWWLWWWWDWL
+Lecce,Atalanta,2-2,/match/lecce/atalanta/2009,2009,29,serie_a,20,38,1,2,2,18,4,11,13,24,46,WWDWWDDWDDDWLDLWDLLDDLLWLWDW,2,7,5,13,20,8,12,3,13,33,31,WLWWWWDLWDWWWWWDLWWWLWLWWLWW,2,2,9,9,20,WDWDDDLLDLDLLD,LWWDWWWDWWLWW
+Inter,Reggina,3-0,/match/internazionale/reggina/2009,2009,29,serie_a,20,38,0,3,0,1,20,6,2,51,21,DWLWWWLDDLWLWWLWLDWWLDLWLDLW,10,4,0,23,11,20,3,11,14,22,45,WDWLWDWWWLWLWWDLDLWLDDDDWDDD,1,4,9,4,25,WWWDWWWWDWDWDW,WWWWWWLWDWDDWD
+Bologna,Cagliari,0-1,/match/bologna/cagliari/2009,2009,29,serie_a,20,38,2,0,1,19,6,8,14,31,46,LLWLLWWWLWDDDDDWDDLLLLWDLWWW,3,3,7,18,22,9,11,6,11,33,29,LWLWWDLWWWWWDWWWDDWLWLLWWDDL,3,3,7,16,20,LLLWLDDWDLLLW,WWWLWWDWDLLWD
+Napoli,Milan,0-0,/match/napoli/milan/2009,2009,29,serie_a,20,38,1,0,0,12,10,6,12,33,33,DWDWLWWLWWWWDWWWWWWLWDWDLWLD,8,3,3,22,14,3,16,6,6,51,28,LWWLWDWLWWDWDWWWWDWLDLDWWWWL,5,4,5,25,21,WWWWWDWWWLDDLL,WLDLDDWWDLLWWL
+Atalanta,Fiorentina,1-2,/match/atalanta/fiorentina/2009,2009,30,serie_a,20,38,2,1,2,8,12,4,13,35,33,WLWWWWDLWDWWWWWDLWWWLWLWWLWWD,10,1,4,24,11,5,15,4,10,39,29,DWWWWLWLDWWWWWLWLLWWWLWDWDLWW,5,2,8,18,19,WWWLDWWWLWLWWLW,WWLLWWWLLWWLDDW
+Sampdoria,Napoli,2-2,/match/sampdoria/napoli/2009,2009,30,serie_a,20,38,1,2,2,13,9,9,11,31,36,DWDDDWWWWWWWWWLLLDLWWDDDWWWDL,7,5,3,21,14,10,10,7,12,33,33,DWDWLWWLWWWWDWWWWWWLWDWDLWLDD,2,3,9,11,19,DDDWWWWLLLWDWWD,DDLWLWWWWWWWWD
+Siena,Lazio,2-0,/match/siena/lazio/2009,2009,30,serie_a,20,38,0,2,0,15,8,7,14,23,32,WWDDWWWDWWWDLWWWLWWWWLDDWDLLW,6,5,3,13,12,14,12,5,12,39,41,LWWWLDWLLWWWDWLDWLDLWLWDLWLLW,6,1,7,22,23,WDWDWDWLWWLDDL,LWLWLWWDLWWLLW
+Palermo FC,Torino,1-0,/match/palermo/torino-fc/2009,2009,30,serie_a,20,38,0,1,0,7,13,3,13,39,38,WWWWWLWLDWWLDWWWWWLWWWWDLLLWW,10,0,4,28,21,17,5,9,15,26,45,WDLDLWLWWWWWDWLWWWLDDDDDWDLWL,0,6,8,11,25,WWWLWLWWWWWLLW,DDWWWWWWWDDDDW
+Cagliari,Catania,1-0,/match/cagliari/catania/2009,2009,30,serie_a,20,38,0,1,0,9,12,6,11,34,29,LWLWWDLWWWWWDWWWDDWLWLLWWDDLL,8,3,4,17,9,11,10,7,12,30,34,WWWDWDWDLWWWWDWWWWLDLWLDWLLDW,1,6,7,11,17,LLDWWWWWDWWLWDL,WDDDWWWWWDWDLD
+Reggina,Genoa,0-1,/match/reggina/genoa/2009,2009,30,serie_a,20,38,2,0,1,20,3,11,15,22,48,WDWLWDWWWLWLWWDLDLWLDDDDWDDDW,2,7,5,18,20,4,14,9,6,39,27,WWWWWWWDWDWWDDLDLWLDDWWDLDLLW,5,5,5,12,15,DLDWLWDLLLDDDD,WWWDDWDLLLDWLDL
+Juventus,Chievo,3-3,/match/juventus-fc/chievo/2009,2009,30,serie_a,20,38,1,3,3,2,19,5,5,51,23,DWLDDLWWLWLWWWLWLWDWWLLDLWLWL,10,2,2,28,11,16,7,9,13,25,36,WWDDWLDWLWLWLLLWLDWLDDDDWLDLW,4,3,7,13,18,WDLWWWWWWWLDWW,WDWWWWLWDLDWLL
+Roma,Bologna,2-1,/match/roma/bologna/2009,2009,30,serie_a,20,38,0,2,1,6,13,7,9,44,41,DWWWWWLWWWDWLWLWWDLLWDWWWDDDL,9,3,2,23,15,19,6,8,15,31,47,LLWLLWWWLWDDDDDWDDLLLLWDLWWWL,3,5,7,13,24,DWWLWWWWDWWWDL,LWWWWDDDDLLWDWW
+Udinese,Inter,0-1,/match/udinese/internazionale/2009,2009,30,serie_a,20,38,2,0,1,12,9,9,11,38,41,WWDLWWDWLDWLWLWDWDWWWDWDWWDDW,7,5,2,22,13,1,21,6,2,54,21,DWLWWWLDDLWLWWLWLDWWLDLWLDLWW,10,2,2,28,10,WDWWWDLLDDWWWD,DLWLDLLLLWLLLL
+Milan,Lecce,2-0,/match/milan/lecce/2009,2009,30,serie_a,20,38,0,2,0,3,16,7,6,51,28,LWWLWDWLWWDWDWWWWDWLDLDWWWWLD,11,2,1,26,7,18,4,12,13,26,48,WWDWWDDWDDDWLDLWDLLDDLLWLWDWD,2,4,8,11,26,LWWWWWWWWWDDWW,WWDWDWDWLDLWWW
+Fiorentina,Cagliari,2-1,/match/fiorentina/cagliari/2009,2009,31,serie_a,20,38,0,2,1,5,16,4,10,41,30,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWL,10,2,2,21,10,8,13,6,11,35,29,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLW,4,3,7,17,20,DWWWDWWWLWWWLW,WWWLWWDWDLLWDL
+Chievo,Milan,0-1,/match/chievo/milan/2009,2009,31,serie_a,20,38,2,0,1,16,7,10,13,28,39,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWD,3,6,6,12,18,2,17,7,6,53,28,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDW,5,5,5,25,21,WDLDLLLLLWDDDDW,WLDLDDWWDLLWWLD
+Lecce,Sampdoria,1-3,/match/lecce/sampdoria/2009,2009,31,serie_a,20,38,2,1,3,18,4,12,14,26,50,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDW,2,8,5,15,22,10,9,10,11,33,38,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLD,2,4,8,10,22,WDWDDDLLDLDLLDD,WDWWWWWLDWDDWL
+Torino,Catania,2-1,/match/torino-fc/catania/2009,2009,31,serie_a,20,38,0,2,1,17,5,9,16,26,46,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLW,5,3,7,15,20,12,10,7,13,30,35,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWW,1,6,8,11,18,WLLLWWDLWLDDWLL,WDDDWWWWWDWDLDW
+Inter,Palermo FC,2-2,/match/internazionale/palermo/2009,2009,31,serie_a,20,38,1,2,2,1,22,6,2,55,21,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWL,11,4,0,26,11,7,14,3,13,40,38,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWW,3,3,9,11,17,WWWDWWWWDWDWDWW,WWLWDWDWWLWWDLW
+Napoli,Atalanta,0-0,/match/napoli/atalanta/2009,2009,31,serie_a,20,38,1,0,0,11,10,8,12,35,35,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDD,8,4,3,22,14,9,12,4,14,36,35,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDL,2,3,9,11,22,WWWWWDWWWLDDLLD,LWWDWWWDWWLWWD
+Lazio,Roma,4-2,/match/lazio/roma/2009,2009,31,serie_a,20,38,0,4,2,14,12,5,13,39,43,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWW,6,4,5,17,18,6,14,7,9,46,42,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLW,4,4,7,21,26,WWDLWWDLWDLLDWL,WWWWWDLLWLLDWDD
+Bologna,Siena,1-4,/match/bologna/siena/2009,2009,31,serie_a,20,38,2,1,4,19,6,8,16,32,49,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLW,3,3,8,18,23,15,9,7,14,25,32,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWW,2,2,11,10,20,LLLWLDDWDLLLWL,WDWWWWLWWWWDWLW
+Genoa,Juventus,3-2,/match/genoa/juventus-fc/2009,2009,31,serie_a,20,38,0,3,2,4,15,9,6,40,27,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWL,9,4,1,27,12,3,19,6,5,54,26,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLD,9,3,3,23,12,WWWWWWDDWDWDLW,DLDWLLWLLDWLLLL
+Reggina,Udinese,0-2,/match/reggina/udinese/2009,2009,31,serie_a,20,38,2,0,2,20,3,11,16,22,49,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWL,2,7,6,18,21,13,9,9,12,38,42,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWL,2,4,9,16,28,DLDWLWDLLLDDDDL,WLDLWWWWWWDDWDW
+Genoa,Lazio,0-1,/match/genoa/lazio/2009,2009,32,serie_a,20,38,2,0,1,4,16,9,6,43,29,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWLW,10,4,1,30,14,12,13,5,13,43,45,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWWW,6,1,8,22,25,WWWWWWDDWDWDLWW,LWLWLWWDLWWLLWW
+Juventus,Inter,1-1,/match/juventus-fc/internazionale/2009,2009,32,serie_a,20,38,1,1,1,3,19,6,6,56,29,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLDW,10,3,2,31,14,1,22,7,2,57,23,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWLD,11,2,2,29,10,WDLWWWWWWWLDWWD,DLWLDLLLLWLLLLL
+Catania,Sampdoria,2-0,/match/catania/sampdoria/2009,2009,32,serie_a,20,38,0,2,0,14,10,7,14,31,37,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWWW,9,1,5,19,17,9,10,10,11,36,39,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLDL,3,4,8,13,23,WWWWLWWDWLLLWLW,WDWWWWWLDWDDWLL
+Cagliari,Napoli,2-0,/match/cagliari/napoli/2009,2009,32,serie_a,20,38,0,2,0,8,13,6,12,36,31,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLWW,9,3,4,18,9,10,10,9,12,35,35,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDDD,2,4,9,13,21,LLDWWWWWDWWLWDLW,DDLWLWWWWWWWWDD
+Siena,Chievo,0-2,/match/siena/chievo/2009,2009,32,serie_a,20,38,2,0,2,15,10,7,14,29,33,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWWL,7,5,3,15,12,16,7,10,14,28,40,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWDL,4,4,7,16,21,WDWDWDWLWWLDDLW,WDWWWWLWDLDWLLD
+Atalanta,Reggina,0-1,/match/atalanta/reggina/2009,2009,32,serie_a,20,38,2,0,1,11,12,5,14,36,35,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDLD,10,1,5,25,13,20,3,11,17,22,51,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWLL,1,4,10,4,28,WWWLDWWWLWLWWLWL,WWWWWWLWDWDDWDW
+Udinese,Fiorentina,3-1,/match/udinese/fiorentina/2009,2009,32,serie_a,20,38,0,3,1,13,10,9,12,40,42,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWLL,7,5,3,22,14,5,17,4,10,43,31,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWLW,6,2,8,20,20,WDWWWDLLDDWWWDL,WWLLWWWLLWWLDDWL
+Roma,Lecce,3-2,/match/roma/lecce/2009,2009,32,serie_a,20,38,0,3,2,6,14,7,10,48,46,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLWW,10,3,2,25,16,18,4,12,15,27,53,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDWL,2,4,9,11,28,DWWLWWWWDWWWDLW,WWDWDWDWLDLWWWW
+Palermo FC,Bologna,4-1,/match/palermo/bologna/2009,2009,32,serie_a,20,38,0,4,1,7,14,4,13,42,40,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWWD,11,0,4,29,21,19,6,8,17,33,53,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLWL,3,5,8,14,26,WWWLWLWWWWWLLWW,LWWWWDDDDLLWDWWW
+Milan,Torino,5-1,/match/milan/torino-fc/2009,2009,32,serie_a,20,38,0,5,1,2,18,7,6,54,28,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDWL,12,2,1,28,7,17,6,9,16,28,47,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLWW,0,6,9,11,26,LWWWWWWWWWDDWWW,DDWWWWWWWDDDDWW
+Chievo,Udinese,1-2,/match/chievo/udinese/2009,2009,33,serie_a,20,38,2,1,2,16,8,10,14,30,40,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWDLL,3,6,7,12,19,9,11,9,12,43,43,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWLLW,3,4,9,18,28,WDLDLLLLLWDDDDWL,WLDLWWWWWWDDWDWL
+Fiorentina,Roma,4-1,/match/fiorentina/roma/2009,2009,33,serie_a,20,38,0,4,1,5,17,4,11,44,34,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWLWW,11,2,2,23,11,6,15,7,10,51,48,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLWWW,4,4,8,23,30,DWWWDWWWLWWWLWW,WWWWWDLLWLLDWDDW
+Lecce,Catania,2-1,/match/lecce/catania/2009,2009,33,serie_a,20,38,0,2,1,18,4,12,16,29,56,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDWLW,2,8,6,16,25,11,11,7,14,33,37,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWWWW,1,6,9,12,20,WDWDDDLLDLDLLDDL,WDDDWWWWWDWDLDWW
+Reggina,Juventus,2-2,/match/reggina/juventus-fc/2009,2009,33,serie_a,20,38,1,2,2,19,4,11,17,23,51,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWLLL,2,7,7,18,23,3,19,7,6,57,30,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLDWD,9,3,4,25,15,DLDWLWDLLLDDDDLL,DLDWLLWLLDWLLLLW
+Torino,Siena,1-0,/match/torino-fc/siena/2009,2009,33,serie_a,20,38,0,1,0,17,6,9,17,29,52,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLWWW,6,3,7,17,21,15,10,7,15,29,35,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWWLL,3,2,11,14,21,WLLLWWDLWLDDWLLW,WDWWWWLWWWWDWLWL
+Lazio,Atalanta,0-1,/match/lazio/atalanta/2009,2009,33,serie_a,20,38,2,0,1,10,14,5,13,44,45,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWWWL,7,4,5,21,20,12,12,5,15,36,36,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDLDL,2,4,9,11,22,WWDLWWDLWDLLDWLW,LWWDWWWDWWLWWDD
+Milan,Palermo FC,3-0,/match/milan/palermo/2009,2009,33,serie_a,20,38,0,3,0,2,19,7,6,59,29,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDWLW,13,2,1,33,8,7,15,4,13,46,41,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWWDW,3,4,9,13,19,LWWWWWWWWWDDWWWW,WWLWDWDWWLWWDLWD
+Sampdoria,Cagliari,3-3,/match/sampdoria/cagliari/2009,2009,33,serie_a,20,38,1,3,3,14,10,10,12,36,41,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLDLW,7,6,3,23,16,8,14,6,12,38,31,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLWWW,4,3,8,18,22,DDDWWWWLLLWDWWDD,WWWLWWDWDLLWDLW
+Bologna,Genoa,2-0,/match/bologna/genoa/2009,2009,33,serie_a,20,38,0,2,0,20,6,8,18,34,57,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLWLW,3,3,9,19,27,4,16,9,7,43,30,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWLWL,6,5,5,13,15,LLLWLDDWDLLLWLL,WWWDDWDLLLDWLDLL
+Napoli,Inter,1-0,/match/napoli/internazionale/2009,2009,33,serie_a,20,38,0,1,0,13,10,9,13,35,37,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDDDW,8,5,3,22,14,1,22,8,2,58,24,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWLDD,11,3,2,30,11,WWWWWDWWWLDDLLDD,DLWLDLLLLWLLLLLD
+Bologna,Reggina,1-2,/match/bologna/reggina/2009,2009,34,serie_a,20,38,2,1,2,19,7,8,18,36,57,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLWLWW,4,3,9,21,27,20,4,12,17,25,53,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWLLLD,2,4,10,5,28,LLLWLDDWDLLLWLLW,WWWWWWLWDWDDWDWL
+Inter,Lazio,2-0,/match/internazionale/lazio/2009,2009,34,serie_a,20,38,0,2,0,1,22,8,3,58,25,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWLDDW,11,5,0,28,13,13,14,5,14,44,46,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWWWLL,7,1,8,23,25,WWWDWWWWDWDWDWWD,LWLWLWWDLWWLLWWL
+Catania,Milan,0-2,/match/catania/milan/2009,2009,34,serie_a,20,38,2,0,2,14,11,7,15,34,39,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWWWWW,10,1,5,21,17,2,20,7,6,62,29,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDWLWW,6,5,5,26,21,WWWWLWWDWLLLWLWW,WLDLDDWWDLLWWLDL
+Roma,Chievo,0-0,/match/roma/chievo/2009,2009,34,serie_a,20,38,1,0,0,6,15,7,11,52,52,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLWWWW,11,3,2,28,18,17,8,10,15,31,42,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWDLLL,5,4,7,18,21,DWWLWWWWDWWWDLWW,WDWWWWLWDLDWLLDL
+Udinese,Atalanta,3-0,/match/udinese/atalanta/2009,2009,34,serie_a,20,38,0,3,0,9,12,9,12,45,44,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWLLWL,8,5,3,25,15,12,13,5,15,37,36,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDLDLL,3,4,9,12,22,WDWWWDLLDDWWWDLW,LWWDWWWDWWLWWDDL
+Palermo FC,Cagliari,5-1,/match/palermo/cagliari/2009,2009,34,serie_a,20,38,0,5,1,7,15,4,14,46,44,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWWDWW,12,0,4,33,22,8,14,7,12,41,34,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLWWWD,4,4,8,21,25,WWWLWLWWWWWLLWWW,WWWLWWDWDLLWDLWD
+Fiorentina,Torino,1-0,/match/fiorentina/torino-fc/2009,2009,34,serie_a,20,38,0,1,0,4,18,4,11,48,35,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWLWWW,12,2,2,27,12,16,7,9,17,30,52,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLWWWW,0,6,10,12,31,DWWWDWWWLWWWLWWW,DDWWWWWWWDDDDWWW
+Siena,Napoli,2-1,/match/siena/napoli/2009,2009,34,serie_a,20,38,0,2,1,15,10,7,16,29,36,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWWLLW,7,5,4,15,14,10,11,9,13,36,37,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDDDWW,2,4,10,13,23,WDWDWDWLWWLDDLWL,DDLWLWWWWWWWWDDW
+Juventus,Lecce,2-2,/match/juventus-fc/lecce/2009,2009,34,serie_a,20,38,1,2,2,3,19,8,6,59,32,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLDWDD,10,4,2,32,15,18,5,12,16,31,57,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDWLWW,2,4,10,13,31,WDLWWWWWWWLDWWDD,WWDWDWDWLDLWWWWW
+Genoa,Sampdoria,3-1,/match/genoa/sampdoria/2009,2009,34,serie_a,20,38,0,3,1,5,16,9,8,43,32,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWLWLW,10,4,2,30,15,11,10,11,12,39,44,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLDLWD,3,4,9,13,25,WWWWWWDDWDWDLWWL,WDWWWWWLDWDDWLLW
+Sampdoria,Reggina,5-0,/match/sampdoria/reggina/2009,2009,35,serie_a,20,38,0,5,0,12,10,11,13,40,47,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLDLWDW,7,7,3,26,19,19,5,12,17,27,54,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWLLLDL,3,4,10,7,29,DDDWWWWLLLWDWWDDD,WWWWWWLWDWDDWDWLL
+Lazio,Udinese,1-3,/match/lazio/udinese/2009,2009,35,serie_a,20,38,2,1,3,13,14,5,15,44,48,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWWWLLW,7,4,6,21,21,9,13,9,12,48,44,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWLLWLW,4,4,9,20,29,WWDLWWDLWDLLDWLWL,WLDLWWWWWWDDWDWLL
+Atalanta,Genoa,1-1,/match/atalanta/genoa/2009,2009,35,serie_a,20,38,1,1,1,11,13,5,16,37,39,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDLDLLW,10,1,6,25,14,5,17,9,8,46,33,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWLWLWW,6,5,6,13,17,WWWLDWWWLWLWWLWLL,WWWDDWDLLLDWLDLLW
+Lecce,Napoli,1-1,/match/lecce/napoli/2009,2009,35,serie_a,20,38,1,1,1,18,5,13,16,33,59,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDWLWWD,3,8,6,18,26,10,11,9,14,37,39,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDDDWWW,2,4,11,14,25,WDWDDDLLDLDLLDDLW,DDLWLWWWWWWWWDDWW
+Cagliari,Roma,2-2,/match/cagliari/roma/2009,2009,35,serie_a,20,38,1,2,2,8,14,7,13,42,39,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLWWWDW,10,3,4,20,9,6,15,8,11,52,52,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLWWWWD,4,4,9,24,34,LLDWWWWWDWWLWDLWW,WWWWWDLLWLLDWDDWW
+Chievo,Inter,2-2,/match/chievo/internazionale/2009,2009,35,serie_a,20,38,1,2,2,17,8,11,15,31,42,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWDLLLD,3,6,8,13,21,1,23,8,3,60,25,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWLDDWW,11,3,3,30,12,WDLDLLLLLWDDDDWLL,DLWLDLLLLWLLLLLDW
+Siena,Palermo FC,1-0,/match/siena/palermo/2009,2009,35,serie_a,20,38,0,1,0,15,11,7,16,31,37,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWWLLWW,8,5,4,17,15,7,16,4,14,51,45,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWWDWWW,3,4,10,13,22,WDWDWDWLWWLDDLWLW,WWLWDWDWWLWWDLWDW
+Catania,Fiorentina,0-2,/match/catania/fiorentina/2009,2009,35,serie_a,20,38,2,0,2,14,11,7,16,34,41,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWWWWWL,10,1,6,21,19,4,19,4,11,49,35,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWLWWWW,6,2,9,21,23,WWWWLWWDWLLLWLWWL,WWLLWWWLLWWLDDWLW
+Torino,Bologna,1-1,/match/torino-fc/bologna/2009,2009,35,serie_a,20,38,1,1,1,16,7,9,18,30,53,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLWWWWW,7,3,7,18,21,20,7,8,19,37,59,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLWLWWL,3,5,9,15,30,WLLLWWDLWLDDWLLWW,LWWWWDDDDLLWDWWWW
+Milan,Juventus,1-1,/match/milan/juventus-fc/2009,2009,35,serie_a,20,38,1,1,1,2,21,7,6,64,29,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDWLWWL,14,2,1,36,8,3,19,9,6,61,34,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLDWDDD,9,4,4,27,17,LWWWWWWWWWDDWWWWW,DLDWLLWLLDWLLLLWD
+Roma,Catania,4-3,/match/roma/catania/2009,2009,36,serie_a,20,38,0,4,3,6,15,9,11,54,54,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLWWWWDD,11,4,2,28,18,15,11,7,17,34,43,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWWWWWLL,1,6,10,13,22,DWWLWWWWDWWWDLWWD,WDDDWWWWWDWDLDWWW
+Udinese,Milan,2-1,/match/udinese/milan/2009,2009,36,serie_a,20,38,0,2,1,9,14,9,12,51,45,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWLLWLWL,9,5,3,28,15,2,21,8,6,65,30,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDWLWWLD,7,5,5,28,21,WDWWWDLLDDWWWDLWW,WLDLDDWWDLLWWLDLL
+Reggina,Cagliari,2-1,/match/reggina/cagliari/2009,2009,36,serie_a,20,38,0,2,1,19,5,12,18,27,59,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWLLLDLW,2,8,7,20,25,8,14,8,13,44,41,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLWWWDWD,4,4,9,22,30,DLDWLWDLLLDDDDLLD,WWWLWWDWDLLWDLWDW
+Palermo FC,Lazio,2-0,/match/palermo/lazio/2009,2009,36,serie_a,20,38,0,2,0,7,16,4,15,51,46,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWWDWWWW,13,0,4,38,23,14,14,5,16,45,51,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWWWLLWL,7,1,9,23,27,WWWLWLWWWWWLLWWWW,LWLWLWWDLWWLLWWLW
+Fiorentina,Sampdoria,1-0,/match/fiorentina/sampdoria/2009,2009,36,serie_a,20,38,0,1,0,4,20,4,11,51,35,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWLWWWWL,13,2,2,28,12,10,11,11,13,45,47,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLDLWDWW,3,4,10,14,28,DWWWDWWWLWWWLWWWW,WDWWWWWLDWDDWLLWW
+Napoli,Torino,1-2,/match/napoli/torino-fc/2009,2009,36,serie_a,20,38,2,1,2,11,11,10,14,38,40,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDDDWWWD,9,5,3,23,14,16,7,10,18,31,54,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLWWWWWD,0,6,11,12,32,WWWWWDWWWLDDLLDDW,DDWWWWWWWDDDDWWWW
+Juventus,Atalanta,2-2,/match/juventus-fc/atalanta/2009,2009,36,serie_a,20,38,1,2,2,3,19,10,6,62,35,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLDWDDDD,10,5,2,34,17,13,13,6,16,38,40,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDLDLLWD,3,4,10,12,25,WDLWWWWWWWLDWWDDD,LWWDWWWDWWLWWDDLW
+Genoa,Chievo,2-2,/match/genoa/chievo/2009,2009,36,serie_a,20,38,1,2,2,5,17,10,8,47,34,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWLWLWWD,11,4,2,33,16,17,8,12,15,33,44,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWDLLLDD,5,5,7,18,21,WWWWWWDDWDWDLWWLW,WDWWWWLWDLDWLLDLD
+Bologna,Lecce,2-1,/match/bologna/lecce/2009,2009,36,serie_a,20,38,0,2,1,20,7,9,19,38,60,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLWLWWLD,4,3,10,22,29,18,5,14,16,34,60,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDWLWWDD,2,5,10,15,33,LLLWLDDWDLLLWLLWL,WWDWDWDWLDLWWWWWD
+Inter,Siena,3-0,/match/internazionale/siena/2009,2009,36,serie_a,20,38,0,3,0,1,23,9,3,62,27,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWLDDWWD,12,5,0,30,13,12,12,7,16,32,37,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWWLLWWW,3,2,12,14,22,WWWDWWWWDWDWDWWDW,WDWWWWLWWWWDWLWLW
+Lazio,Reggina,1-0,/match/lazio/reggina/2009,2009,37,serie_a,20,38,0,1,0,14,14,5,17,45,53,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWWWLLWLW,7,4,7,22,24,19,6,12,18,29,60,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWLLLDLWW,3,4,11,7,34,WWDLWWDLWDLLDWLWLL,WWWWWWLWDWDDWDWLLW
+Catania,Napoli,3-1,/match/catania/napoli/2009,2009,37,serie_a,20,38,0,3,1,15,11,7,18,37,47,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWWWWWLLW,10,1,7,21,21,12,11,10,15,39,42,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDDDWWWDL,2,5,11,15,26,WWWWLWWDWLLLWLWWLL,DDLWLWWWWWWWWDDWWD
+Milan,Roma,2-3,/match/milan/roma/2009,2009,37,serie_a,20,38,2,2,3,2,21,8,7,66,32,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDWLWWLDW,14,3,1,37,9,6,16,9,11,58,57,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLWWWWDDW,4,5,9,26,36,LWWWWWWWWWDDWWWWWD,WWWWWDLLWLLDWDDWWD
+Cagliari,Inter,2-1,/match/cagliari/internazionale/2009,2009,37,serie_a,20,38,0,2,1,9,14,8,14,45,43,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLWWWDWDW,10,4,4,22,11,1,24,9,3,65,27,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWLDDWWDW,11,4,3,32,14,LLDWWWWWDWWLWDLWWD,DLWLDLLLLWLLLLLDWD
+Atalanta,Palermo FC,2-2,/match/atalanta/palermo/2009,2009,37,serie_a,20,38,1,2,2,11,13,7,16,40,42,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDLDLLWDD,10,2,6,26,15,7,17,4,15,53,46,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWWDWWWWW,3,4,11,13,23,WWWLDWWWLWLWWLWLLD,WWLWDWDWWLWWDLWDWW
+Sampdoria,Udinese,2-2,/match/sampdoria/udinese/2009,2009,37,serie_a,20,38,1,2,2,10,11,11,14,45,48,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLDLWDWWW,8,7,3,31,19,8,15,9,12,53,46,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWLLWLWLW,5,4,9,23,30,DDDWWWWLLLWDWWDDDW,WLDLWWWWWWDDWDWLLL
+Lecce,Fiorentina,1-1,/match/lecce/fiorentina/2009,2009,37,serie_a,20,38,1,1,1,18,5,14,17,35,62,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDWLWWDDW,3,9,6,19,27,3,21,4,11,52,35,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWLWWWWLW,7,2,9,23,23,WDWDDDLLDLDLLDDLWD,WWLLWWWLLWWLDDWLWL
+Siena,Juventus,0-3,/match/siena/juventus-fc/2009,2009,37,serie_a,20,38,2,0,3,13,12,7,17,32,40,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWWLLWWWW,9,5,4,18,15,4,19,11,6,64,37,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLDWDDDDD,9,5,4,28,18,WDWDWDWLWWLDDLWLWW,DLDWLLWLLDWLLLLWDD
+Torino,Genoa,2-3,/match/torino-fc/genoa/2009,2009,37,serie_a,20,38,2,2,3,16,8,10,18,33,55,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLWWWWWDL,7,4,7,19,22,5,17,11,8,49,36,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWLWLWWDD,6,6,6,14,18,WLLLWWDLWLDDWLLWWD,WWWDDWDLLLDWLDLLWD
+Chievo,Bologna,0-0,/match/chievo/bologna/2009,2009,37,serie_a,20,38,1,0,0,17,8,13,15,35,46,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWDLLLDDD,3,7,8,15,23,20,8,9,19,40,61,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLWLWWLDW,3,6,9,16,31,WDLDLLLLLWDDDDWLLD,LWWWWDDDDLLWDWWWWD
+Roma,Torino,3-2,/match/roma/torino-fc/2009,2009,38,serie_a,20,38,0,3,2,6,17,9,11,61,59,DWWWWWLWWWDWLWLWWDLLWDWWWDDDLWWWWDDWL,12,4,2,32,21,16,8,10,19,35,58,WDLDLWLWWWWWDWLWWWLDDDDDWDLWLWWWWWDLL,1,6,11,14,33,DWWLWWWWDWWWDLWWDW,DDWWWWWWWDDDDWWWWL
+Udinese,Cagliari,6-2,/match/udinese/cagliari/2009,2009,38,serie_a,20,38,0,6,2,8,15,10,12,55,48,WWDLWWDWLDWLWLWDWDWWWDWDWWDDWLLWLWLWD,10,5,3,30,16,9,15,8,14,47,44,LWLWWDLWWWWWDWWWDDWLWLLWWDDLLWWWDWDWW,4,4,10,23,32,WDWWWDLLDDWWWDLWWW,WWWLWWDWDLLWDLWDWW
+Juventus,Lazio,2-0,/match/juventus-fc/lazio/2009,2009,38,serie_a,20,38,0,2,0,4,20,11,6,67,37,DWLDDLWWLWLWWWLWLWDWWLLDLWLWLDWDDDDDL,10,6,2,36,19,13,15,5,17,46,53,LWWWLDWLLWWWDWLDWLDLWLWDLWLLWWWLLWLWW,7,1,10,23,29,WDLWWWWWWWLDWWDDDD,LWLWLWWDLWWLLWWLWW
+Palermo FC,Sampdoria,2-2,/match/palermo/sampdoria/2009,2009,38,serie_a,20,38,1,2,2,7,17,5,15,55,48,WWWWWLWLDWWLDWWWWWLWWWWDLLLWWWDWWWWWD,14,0,4,40,23,10,11,12,14,47,50,DWDDDWWWWWWWWWLLLDLWWDDDWWWDLDLWDWWWD,3,4,11,14,29,WWWLWLWWWWWLLWWWWW,WDWWWWWLDWDDWLLWWW
+Genoa,Lecce,4-1,/match/genoa/lecce/2009,2009,38,serie_a,20,38,0,4,1,5,18,11,8,52,38,WWWWWWWDWDWWDDLDLWLDDWWDLDLLWLWLWWDDL,11,5,2,35,18,18,5,15,17,36,63,WWDWWDDWDDDWLDLWDLLDDLLWLWDWDWLWWDDWD,2,5,11,16,35,WWWWWWDDWDWDLWWLWD,WWDWDWDWLDLWWWWWDW
+Reggina,Siena,1-1,/match/reggina/siena/2009,2009,38,serie_a,20,38,1,1,1,20,6,12,19,29,61,WDWLWDWWWLWLWWDLDLWLDDDDWDDDWLLLDLWWW,3,8,7,22,26,14,12,7,18,32,43,WWDDWWWDWWWDLWWWLWWWWLDDWDLLWWLLWWWWL,3,2,13,14,25,DLDWLWDLLLDDDDLLDW,WDWWWWLWWWWDWLWLWW
+Inter,Atalanta,4-3,/match/internazionale/atalanta/2009,2009,38,serie_a,20,38,0,4,3,1,24,9,4,66,29,DWLWWWLDDLWLWWLWLDWWLDLWLDLWWLDDWWDWW,13,5,0,33,13,11,13,8,16,42,44,WLWWWWDLWDWWWWWDLWWWLWLWWLWWDLDLLWDDD,3,5,10,14,27,WWWDWWWWDWDWDWWDWW,LWWDWWWDWWLWWDDLWD
+Napoli,Chievo,3-0,/match/napoli/chievo/2009,2009,38,serie_a,20,38,0,3,0,12,11,10,16,40,45,DWDWLWWLWWWWDWWWWWWLWDWDLWLDDDDWWWDLW,9,5,4,24,16,17,8,14,15,35,46,WWDDWLDWLWLWLLLWLDWLDDDDWLDLWDLLLDDDD,5,6,7,20,23,WWWWWDWWWLDDLLDDWL,WDWWWWLWDLDWLLDLDD
+Fiorentina,Milan,0-2,/match/fiorentina/milan/2009,2009,38,serie_a,20,38,2,0,2,3,21,5,11,53,36,DWWWWLWLDWWWWWLWLLWWWLWDWDLWWLWWWWLWD,14,2,2,29,12,2,21,8,8,68,35,LWWLWDWLWWDWDWWWWDWLDLDWWWWLDWLWWLDWL,7,5,6,29,23,DWWWDWWWLWWWLWWWWW,WLDLDDWWDLLWWLDLLW
+Bologna,Catania,3-1,/match/bologna/catania/2009,2009,38,serie_a,20,38,0,3,1,19,8,10,19,40,61,LLWLLWWWLWDDDDDWDDLLLLWDLWWWLWLWWLDWD,5,3,10,24,30,15,12,7,18,40,48,WWWDWDWDLWWWWDWWWWLDLWLDWLLDWWWWWLLWW,1,6,11,16,26,LLLWLDDWDLLLWLLWLW,WDDDWWWWWDWDLDWWWW

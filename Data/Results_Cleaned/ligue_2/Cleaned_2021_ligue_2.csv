@@ -1,0 +1,270 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Toulouse,Dunkerque,0-1,/match/toulouse-fc/dunkerque/2021,2021,1,ligue_2,20,27,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ajaccio,Chateauroux,0-1,/match/ajaccio/berrichonne-chateauroux/2021,2021,1,ligue_2,20,27,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Amiens SC,Nancy,1-0,/match/amiens-sc/nancy/2021,2021,1,ligue_2,20,27,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,Sochaux,0-2,/match/auxerre/sochaux/2021,2021,1,ligue_2,20,27,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chambly,Paris FC,0-3,/match/chambly/paris-sg/2021,2021,1,ligue_2,20,27,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Clermont,Caen,0-0,/match/clermont-foot/caen/2021,2021,1,ligue_2,20,27,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Guingamp,Niort,0-1,/match/guingamp/chamois-niortais/2021,2021,1,ligue_2,20,27,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Rodez,Grenoble,1-0,/match/rodez/grenoble-foot-38/2021,2021,1,ligue_2,20,27,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Valenciennes,Pau FC,3-0,/match/valenciennes-afc/pau/2021,2021,1,ligue_2,20,27,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Troyes,Le Havre,2-0,/match/troyes/havre-ac/2021,2021,1,ligue_2,20,27,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Caen,Ajaccio,1-0,/match/caen/ajaccio/2021,2021,2,ligue_2,20,27,0,1,0,11,0,1,0,0,0,D,0,0,0,0,0,14,0,0,1,0,1,L,0,0,0,0,0,,
+Nancy,Guingamp,2-2,/match/nancy/guingamp/2021,2021,2,ligue_2,20,27,1,2,2,19,0,0,1,0,1,W,0,0,0,0,0,18,0,0,1,0,1,L,0,0,0,0,0,,
+Chateauroux,Auxerre,1-2,/match/berrichonne-chateauroux/auxerre/2021,2021,2,ligue_2,20,27,2,1,2,5,1,0,0,1,0,L,0,0,0,0,0,17,0,0,1,0,2,L,0,0,0,0,0,,
+Dunkerque,Clermont,1-1,/match/dunkerque/clermont-foot/2021,2021,2,ligue_2,20,27,1,1,1,10,1,0,0,1,0,L,0,0,0,0,0,9,0,1,0,0,0,D,0,0,0,0,0,,
+Grenoble,Toulouse,5-3,/match/grenoble-foot-38/toulouse-fc/2021,2021,2,ligue_2,20,27,0,5,3,13,0,0,1,0,1,W,0,0,0,0,0,20,0,0,1,0,1,L,0,0,0,0,0,,
+Le Havre,Amiens SC,1-0,/match/havre-ac/amiens-sc/2021,2021,2,ligue_2,20,27,0,1,0,15,0,0,1,0,2,W,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Niort,Chambly,1-1,/match/chamois-niortais/chambly/2021,2021,2,ligue_2,20,27,1,1,1,7,1,0,0,1,0,L,0,0,0,0,0,16,0,0,1,0,3,L,0,0,0,0,0,,
+Paris FC,Valenciennes,1-0,/match/paris-sg/valenciennes-afc/2021,2021,2,ligue_2,20,27,0,1,0,6,1,0,0,3,0,L,0,0,0,0,0,4,1,0,0,3,0,W,0,0,0,0,0,,
+Pau FC,Rodez,1-1,/match/pau/rodez/2021,2021,2,ligue_2,20,27,1,1,1,12,0,0,1,0,3,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Sochaux,Troyes,2-1,/match/sochaux/troyes/2021,2021,2,ligue_2,20,27,0,2,1,8,1,0,0,2,0,L,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Guingamp,Le Havre,1-3,/match/guingamp/havre-ac/2021,2021,3,ligue_2,20,27,2,1,3,18,0,1,1,2,3,LD,0,0,1,0,1,5,1,0,1,1,2,WW,0,0,1,0,2,L,W
+Amiens SC,Paris FC,1-2,/match/amiens-sc/paris-sg/2021,2021,3,ligue_2,20,27,2,1,2,8,1,0,1,1,1,WW,1,0,0,1,0,2,2,0,0,4,0,LW,1,0,0,3,0,W,L
+Auxerre,Clermont,0-1,/match/auxerre/clermont-foot/2021,2021,3,ligue_2,20,27,2,0,1,15,1,0,1,2,3,LL,0,0,1,0,2,12,0,2,0,1,1,DD,0,1,0,1,1,L,D
+Chambly,Grenoble,1-2,/match/chambly/grenoble-foot-38/2021,2021,3,ligue_2,20,27,2,1,2,17,0,1,1,1,4,LD,0,0,1,0,3,6,1,0,1,5,4,WW,0,0,1,0,1,L,W
+Niort,Nancy,1-0,/match/chamois-niortais/nancy/2021,2021,3,ligue_2,20,27,0,1,0,9,1,1,0,2,1,LD,0,1,0,1,1,16,0,1,1,2,3,WD,0,0,1,0,1,D,W
+Rodez,Caen,0-3,/match/rodez/caen/2021,2021,3,ligue_2,20,27,2,0,3,4,1,1,0,2,1,WD,1,0,0,1,0,3,1,1,0,1,0,DW,0,1,0,0,0,W,D
+Troyes,Pau FC,2-0,/match/troyes/pau/2021,2021,3,ligue_2,20,27,0,2,0,11,1,0,1,3,2,WW,1,0,0,2,0,14,0,1,1,1,4,WD,0,0,1,0,3,W,W
+Valenciennes,Chateauroux,1-0,/match/valenciennes-afc/berrichonne-chateauroux/2021,2021,3,ligue_2,20,27,0,1,0,10,1,0,1,3,1,WW,1,0,0,3,0,13,1,0,1,2,2,LL,1,0,0,1,0,W,L
+Toulouse,Sochaux,0-0,/match/toulouse-fc/sochaux/2021,2021,3,ligue_2,20,27,1,0,0,20,0,0,2,3,6,LW,0,0,1,0,1,1,2,0,0,4,1,LW,1,0,0,2,0,L,L
+Ajaccio,Dunkerque,1-0,/match/ajaccio/dunkerque/2021,2021,3,ligue_2,20,27,0,1,0,19,0,0,2,0,2,LW,0,0,1,0,1,7,1,1,0,2,1,LD,1,0,0,1,0,L,L
+Clermont,Toulouse,1-1,/match/clermont-foot/toulouse-fc/2021,2021,4,ligue_2,20,27,1,1,1,10,1,2,0,2,1,DDL,0,1,0,0,0,18,0,1,2,3,6,LWD,0,0,1,3,5,D,W
+Caen,Chambly,0-0,/match/caen/chambly/2021,2021,4,ligue_2,20,27,1,0,0,6,2,1,0,4,0,DWL,1,0,0,1,0,19,0,1,2,2,6,LDL,0,1,0,1,1,W,D
+Chateauroux,Amiens SC,0-0,/match/berrichonne-chateauroux/amiens-sc/2021,2021,4,ligue_2,20,27,1,0,0,14,1,0,2,2,3,LLW,0,0,1,1,2,12,1,0,2,2,3,WWL,0,0,1,0,1,L,W
+Dunkerque,Valenciennes,1-0,/match/dunkerque/valenciennes-afc/2021,2021,4,ligue_2,20,27,0,1,0,11,1,1,1,2,2,LDW,0,1,0,1,1,4,2,0,1,4,1,WWW,0,0,1,0,1,D,W
+Grenoble,Ajaccio,2-0,/match/grenoble-foot-38/ajaccio/2021,2021,4,ligue_2,20,27,0,2,0,7,2,0,1,7,5,WWL,1,0,0,5,3,13,1,0,2,1,2,LWW,0,0,1,0,1,W,W
+Le Havre,Niort,0-1,/match/havre-ac/chamois-niortais/2021,2021,4,ligue_2,20,27,2,0,1,8,2,0,1,4,3,WWL,1,0,0,1,0,2,2,1,0,3,1,LDW,1,0,0,1,0,W,L
+Paris FC,Nancy,0-2,/match/paris-sg/nancy/2021,2021,4,ligue_2,20,27,2,0,2,3,3,0,0,6,1,LWL,1,0,0,1,0,17,0,1,2,2,4,WDW,0,0,2,0,2,W,WW
+Pau FC,Guingamp,0-1,/match/pau/guingamp/2021,2021,4,ligue_2,20,27,2,0,1,15,0,1,2,1,6,WDW,0,1,0,1,1,20,0,1,2,3,6,LDL,0,1,0,2,2,D,D
+Sochaux,Rodez,2-2,/match/sochaux/rodez/2021,2021,4,ligue_2,20,27,1,2,2,5,2,1,0,4,1,LWD,1,0,0,2,1,9,1,1,1,2,4,WDL,0,1,0,1,1,W,D
+Auxerre,Troyes,2-1,/match/auxerre/troyes/2021,2021,4,ligue_2,20,27,0,2,1,16,1,0,2,2,4,LLL,0,0,2,0,3,1,2,0,1,5,2,WWW,0,0,1,1,2,LL,W
+Toulouse,Auxerre,3-1,/match/toulouse-fc/auxerre/2021,2021,5,ligue_2,20,27,0,3,1,17,0,2,2,4,7,LWDD,0,1,1,0,1,12,2,0,2,4,5,LLLW,1,0,0,2,1,LD,L
+Ajaccio,Sochaux,1-1,/match/ajaccio/sochaux/2021,2021,5,ligue_2,20,27,1,1,1,14,1,0,3,1,4,LWWW,1,0,1,1,1,4,2,2,0,6,3,LWDD,1,1,0,2,0,LW,LD
+Amiens SC,Pau FC,0-0,/match/amiens-sc/pau/2021,2021,5,ligue_2,20,27,1,0,0,13,1,1,2,2,3,WWLD,1,0,1,2,2,19,0,1,3,1,7,WDWL,0,0,2,0,5,WL,WW
+Chambly,Chateauroux,2-1,/match/chambly/berrichonne-chateauroux/2021,2021,5,ligue_2,20,27,0,2,1,20,0,2,2,2,6,LDLD,0,0,2,1,5,15,1,1,2,2,3,LLWD,1,0,1,1,1,LL,LW
+Guingamp,Grenoble,1-0,/match/guingamp/grenoble-foot-38/2021,2021,5,ligue_2,20,27,0,1,0,18,1,1,2,4,6,LDLL,0,0,2,1,4,2,3,0,1,9,5,WWLW,1,0,1,2,2,LL,WL
+Nancy,Le Havre,0-1,/match/nancy/havre-ac/2021,2021,5,ligue_2,20,27,2,0,1,16,1,1,2,4,4,WDWL,0,1,0,2,2,10,2,0,2,4,4,WWLL,1,0,1,3,3,D,WL
+Niort,Paris FC,2-2,/match/chamois-niortais/paris-sg/2021,2021,5,ligue_2,20,27,1,2,2,1,3,1,0,4,1,LDWL,1,1,0,2,1,8,3,0,1,6,3,LWLL,2,0,0,5,1,DW,LL
+Rodez,Dunkerque,2-1,/match/rodez/dunkerque/2021,2021,5,ligue_2,20,27,0,2,1,11,1,2,1,4,6,WDLD,1,0,1,1,3,6,2,1,1,3,2,LDWW,1,0,1,1,1,WL,LW
+Valenciennes,Caen,1-0,/match/valenciennes-afc/caen/2021,2021,5,ligue_2,20,27,0,1,0,7,2,0,2,4,2,WWWW,2,0,0,4,0,3,2,2,0,4,0,DWLD,1,1,0,3,0,WW,DL
+Troyes,Clermont,1-0,/match/troyes/clermont-foot/2021,2021,5,ligue_2,20,27,0,1,0,5,2,0,2,6,4,WWWW,2,0,0,4,0,9,1,3,0,3,2,DDLD,1,1,0,2,1,WW,DL
+Toulouse,Troyes,0-0,/match/toulouse-fc/troyes/2021,2021,6,ligue_2,20,27,1,0,0,13,1,2,2,7,8,LWDDW,1,1,1,3,2,2,3,0,2,7,4,WWWWW,0,0,2,2,4,LDW,WW
+Caen,Amiens SC,1-0,/match/caen/amiens-sc/2021,2021,6,ligue_2,20,27,0,1,0,8,2,2,1,4,1,DWLDW,1,1,0,1,0,12,1,2,2,2,3,WWLDD,0,1,1,0,1,WD,WD
+Auxerre,Ajaccio,5-1,/match/auxerre/ajaccio/2021,2021,6,ligue_2,20,27,0,5,1,15,2,0,3,5,8,LLLWW,1,0,2,2,4,16,1,1,3,2,5,LWWWD,0,0,2,0,3,LLW,WW
+Chateauroux,Niort,2-0,/match/berrichonne-chateauroux/chamois-niortais/2021,2021,6,ligue_2,20,27,0,2,0,18,1,1,3,3,5,LLWDW,0,1,1,1,2,1,3,2,0,6,3,LDWLD,2,0,0,2,0,LD,LL
+Clermont,Rodez,3-0,/match/clermont-foot/rodez/2021,2021,6,ligue_2,20,27,0,3,0,11,1,3,1,3,3,DDLDW,0,2,0,1,1,5,2,2,1,6,7,WDLDW,0,2,0,3,3,DD,DD
+Dunkerque,Guingamp,1-0,/match/dunkerque/guingamp/2021,2021,6,ligue_2,20,27,0,1,0,9,2,1,2,4,4,LDWWW,1,1,0,2,1,14,2,1,2,5,6,LDLLW,1,1,0,3,2,DW,DL
+Grenoble,Valenciennes,2-0,/match/grenoble-foot-38/valenciennes-afc/2021,2021,6,ligue_2,20,27,0,2,0,4,3,0,2,9,6,WWLWW,2,0,0,7,3,3,3,0,2,5,2,WWWWW,0,0,2,0,2,WW,WW
+Paris FC,Le Havre,3-0,/match/paris-sg/havre-ac/2021,2021,6,ligue_2,20,27,0,3,0,7,3,1,1,8,5,LWLLD,1,0,1,1,2,10,3,0,2,5,4,WWLLL,2,0,1,4,3,WL,WLL
+Pau FC,Nancy,1-1,/match/pau/nancy/2021,2021,6,ligue_2,20,27,1,1,1,20,0,2,3,1,7,WDWLD,0,1,1,1,2,19,1,1,3,4,5,WDWLL,1,0,2,2,2,DL,WWL
+Sochaux,Chambly,3-2,/match/sochaux/chambly/2021,2021,6,ligue_2,20,27,0,3,2,6,2,3,0,7,4,LWDDD,1,1,0,4,3,17,1,2,2,4,7,LDLDW,0,2,0,1,1,WD,DD
+Chambly,Clermont,0-3,/match/chambly/clermont-foot/2021,2021,7,ligue_2,20,27,2,0,3,18,1,2,3,6,10,LDLDWW,1,0,2,3,6,9,2,3,1,6,3,DDLDWW,1,1,1,2,2,LLW,DLW
+Valenciennes,Sochaux,0-0,/match/valenciennes-afc/sochaux/2021,2021,7,ligue_2,20,27,1,0,0,8,3,0,3,5,4,WWWWWW,3,0,0,5,0,2,3,3,0,10,6,LWDDDW,1,2,0,3,1,WWW,LDD
+Ajaccio,Toulouse,0-1,/match/ajaccio/toulouse-fc/2021,2021,7,ligue_2,20,27,2,0,1,17,1,1,4,3,10,LWWWDW,1,1,1,2,2,12,1,3,2,7,8,LWDDWD,0,1,1,4,6,LWD,WD
+Amiens SC,Grenoble,1-0,/match/amiens-sc/grenoble-foot-38/2021,2021,7,ligue_2,20,27,0,1,0,15,1,2,3,2,4,WWLDDW,1,1,1,2,2,1,4,0,2,11,6,WWLWWW,1,0,2,2,3,WLD,WLW
+Le Havre,Chateauroux,1-1,/match/havre-ac/berrichonne-chateauroux/2021,2021,7,ligue_2,20,27,1,1,1,13,3,0,3,5,7,WWLLLW,1,0,1,1,1,14,2,1,3,5,5,LLWDWW,1,0,2,2,3,WL,LWW
+Nancy,Dunkerque,2-1,/match/nancy/dunkerque/2021,2021,7,ligue_2,20,27,0,2,1,19,1,2,3,5,6,WDWLLD,0,1,1,2,3,7,3,1,2,5,4,LDWWWW,1,0,2,2,3,DL,LWW
+Niort,Caen,3-0,/match/chamois-niortais/caen/2021,2021,7,ligue_2,20,27,0,3,0,6,3,2,1,6,5,LDWLDW,1,2,0,4,3,5,3,2,1,5,1,DWLDWW,1,1,1,3,1,DWD,DLW
+Paris FC,Pau FC,1-0,/match/paris-sg/pau/2021,2021,7,ligue_2,20,27,0,1,0,4,4,1,1,11,5,LWLLDW,2,0,1,4,2,20,0,3,3,2,8,WDWLDD,0,1,2,0,5,WLW,WWD
+Rodez,Troyes,0-1,/match/rodez/troyes/2021,2021,7,ligue_2,20,27,2,0,1,10,2,2,2,6,10,WDLDWW,2,0,1,3,4,3,3,1,2,7,4,WWWWWD,0,1,2,2,4,WLW,WWD
+Guingamp,Auxerre,2-0,/match/guingamp/auxerre/2021,2021,7,ligue_2,20,27,0,2,0,16,2,1,3,5,7,LDLLWW,1,0,2,2,4,11,3,0,3,10,9,LLLWWW,1,0,1,3,4,LLW,LW
+Caen,Guingamp,1-0,/match/caen/guingamp/2021,2021,8,ligue_2,20,27,0,1,0,7,3,2,2,5,4,DWLDWWW,2,1,0,2,0,11,3,1,3,7,7,LDLLWWW,1,1,1,3,3,WDW,DLW
+Auxerre,Chambly,4-0,/match/auxerre/chambly/2021,2021,8,ligue_2,20,27,0,4,0,13,3,0,4,10,11,LLLWWWW,2,0,2,7,5,19,1,2,4,6,13,LDLDWWL,0,2,1,3,4,LLWW,DDW
+Chateauroux,Paris FC,1-2,/match/berrichonne-chateauroux/paris-sg/2021,2021,8,ligue_2,20,27,2,1,2,16,2,2,3,6,6,LLWDWWD,1,1,1,3,2,1,5,1,1,12,5,LWLLDWW,2,1,0,7,3,LDW,LLD
+Clermont,Ajaccio,0-2,/match/clermont-foot/ajaccio/2021,2021,8,ligue_2,20,27,2,0,2,8,3,3,1,9,3,DDLDWWL,1,2,0,4,1,18,1,1,5,3,11,LWWWDWL,0,0,3,1,8,DDW,WWW
+Dunkerque,Le Havre,0-1,/match/dunkerque/havre-ac/2021,2021,8,ligue_2,20,27,2,0,1,9,3,1,3,6,6,LDWWWWW,2,1,0,3,1,14,3,1,3,6,8,WWLLLWD,2,0,2,4,6,DWW,WLLW
+Pau FC,Niort,4-1,/match/pau/chamois-niortais/2021,2021,8,ligue_2,20,27,0,4,1,20,0,3,4,2,9,WDWLDDW,0,2,1,2,3,2,4,2,1,9,5,LDWLDWW,2,0,1,2,2,DLD,LLW
+Toulouse,Rodez,3-0,/match/toulouse-fc/rodez/2021,2021,8,ligue_2,20,27,0,3,0,12,2,3,2,8,8,LWDDWDL,1,2,1,3,2,15,2,2,3,6,11,WDLDWWL,0,2,1,3,6,LDWD,DDW
+Troyes,Valenciennes,1-1,/match/troyes/valenciennes-afc/2021,2021,8,ligue_2,20,27,1,1,1,3,4,1,2,8,4,WWWWWDL,3,0,0,5,0,6,3,1,3,5,4,WWWWWWD,0,0,3,0,4,WWW,WWW
+Sochaux,Amiens SC,0-2,/match/sochaux/amiens-sc/2021,2021,8,ligue_2,20,27,2,0,2,4,3,4,0,10,6,LWDDDWD,2,1,0,7,5,10,2,2,3,3,4,WWLDDWW,0,1,2,0,2,WDW,WDW
+Grenoble,Nancy,1-0,/match/grenoble-foot-38/nancy/2021,2021,8,ligue_2,20,27,0,1,0,5,4,0,3,11,7,WWLWWWW,3,0,0,9,3,17,2,2,3,7,7,WDWLLDW,1,1,2,3,3,WWW,WWLD
+Paris FC,Caen,3-1,/match/paris-sg/caen/2021,2021,9,ligue_2,20,27,0,3,1,1,6,1,1,14,6,LWLLDWWL,3,0,1,5,2,4,4,2,2,6,4,DWLDWWWW,1,1,2,3,4,WLWW,DLWW
+Ajaccio,Troyes,0-4,/match/ajaccio/troyes/2021,2021,9,ligue_2,20,27,2,0,4,19,2,1,5,5,11,LWWWDWLL,1,1,2,2,3,3,4,2,2,9,5,WWWWWDLD,1,1,2,3,4,LWDL,WWDL
+Chambly,Dunkerque,0-1,/match/chambly/dunkerque/2021,2021,9,ligue_2,20,27,2,0,1,20,1,2,5,6,17,LDLDWWLW,1,0,3,3,9,13,3,1,4,6,7,LDWWWWWL,1,0,3,3,5,LLWL,LWWW
+Guingamp,Sochaux,0-0,/match/guingamp/sochaux/2021,2021,9,ligue_2,20,27,1,0,0,14,3,1,4,7,8,LDLLWWWW,2,0,2,4,4,6,3,4,1,10,8,LWDDDWDL,1,3,0,3,1,LLWW,LDDD
+Le Havre,Pau FC,1-0,/match/havre-ac/pau/2021,2021,9,ligue_2,20,27,0,1,0,12,4,1,3,7,8,WWLLLWDL,1,1,1,2,2,18,1,3,4,6,10,WDWLDDWW,0,1,3,0,6,WLD,WWDW
+Nancy,Chateauroux,2-1,/match/nancy/berrichonne-chateauroux/2021,2021,9,ligue_2,20,27,0,2,1,17,2,2,4,7,8,WDWLLDWW,1,1,1,4,4,16,2,2,4,7,8,LLWDWWDL,1,1,2,3,4,DLW,LWWD
+Rodez,Auxerre,2-2,/match/rodez/auxerre/2021,2021,9,ligue_2,20,27,1,2,2,15,2,2,4,6,14,WDLDWWLW,2,0,2,3,5,9,4,0,4,14,11,LLLWWWWW,1,0,2,3,6,WLWL,LWW
+Valenciennes,Clermont,1-3,/match/valenciennes-afc/clermont-foot/2021,2021,9,ligue_2,20,27,2,1,3,7,3,2,3,6,5,WWWWWWDD,3,1,0,5,0,10,3,3,2,9,5,DDLDWWLL,2,1,1,5,2,WWWD,DLWL
+Amiens SC,Toulouse,0-1,/match/amiens-sc/toulouse-fc/2021,2021,9,ligue_2,20,27,2,0,1,11,3,2,3,5,4,WWLDDWWL,2,1,1,3,2,8,3,3,2,11,8,LWDDWDLW,1,1,1,5,6,WLDW,WDL
+Niort,Grenoble,0-0,/match/chamois-niortais/grenoble-foot-38/2021,2021,9,ligue_2,20,27,1,0,0,5,4,2,2,10,9,LDWLDWWW,2,2,0,7,3,2,5,0,3,12,7,WWLWWWWW,1,0,3,2,4,DWDW,WLWW
+Clermont,Guingamp,0-0,/match/clermont-foot/guingamp/2021,2021,10,ligue_2,20,27,1,0,0,11,4,3,2,12,6,DDLDWWLLL,1,2,1,4,3,15,3,2,4,7,8,LDLLWWWWD,1,1,2,3,4,DDWL,DLWW
+Grenoble,Le Havre,2-1,/match/grenoble-foot-38/havre-ac/2021,2021,10,ligue_2,20,27,0,2,1,3,5,1,3,12,7,WWLWWWWWD,4,0,0,10,3,8,5,1,3,8,8,WWLLLWDLW,3,0,2,5,6,WWWW,WLLWL
+Auxerre,Amiens SC,2-1,/match/auxerre/amiens-sc/2021,2021,10,ligue_2,20,27,0,2,1,10,4,1,4,16,13,LLLWWWWWD,3,0,2,11,5,14,3,2,4,5,5,WWLDDWWLL,1,1,2,2,2,LLWWW,WDWL
+Caen,Nancy,2-1,/match/caen/nancy/2021,2021,10,ligue_2,20,27,0,2,1,5,4,2,3,7,7,DWLDWWWWW,3,1,0,3,0,13,3,2,4,9,9,WDWLLDWWW,1,1,3,3,4,WDWW,WWLDW
+Chateauroux,Pau FC,0-3,/match/berrichonne-chateauroux/pau/2021,2021,10,ligue_2,20,27,2,0,3,17,2,2,5,8,10,LLWDWWDLW,1,1,2,4,4,18,1,3,5,6,11,WDWLDDWWW,0,1,4,0,7,LDWL,WWDWW
+Dunkerque,Paris FC,0-1,/match/dunkerque/paris-sg/2021,2021,10,ligue_2,20,27,2,0,1,12,4,1,4,7,7,LDWWWWWLL,2,1,1,3,2,1,7,1,1,17,7,LWLLDWWLW,3,1,0,9,4,DWWL,LLDL
+Rodez,Ajaccio,0-1,/match/rodez/ajaccio/2021,2021,10,ligue_2,20,27,2,0,1,16,2,3,4,8,16,WDLDWWLWD,2,1,2,5,7,19,2,1,6,5,15,LWWWDWLLL,1,0,3,3,8,WLWLD,WWWL
+Sochaux,Niort,3-4,/match/sochaux/chamois-niortais/2021,2021,10,ligue_2,20,27,2,3,4,7,3,5,1,10,8,LWDDDWDLD,2,1,1,7,7,4,4,3,2,10,9,LDWLDWWWD,2,0,2,3,6,WDWL,LLWW
+Toulouse,Valenciennes,4-5,/match/toulouse-fc/valenciennes-afc/2021,2021,10,ligue_2,20,27,2,4,5,6,4,3,2,12,8,LWDDWDLWL,2,2,1,6,2,9,3,2,4,7,8,WWWWWWDDL,0,1,3,1,5,LDWDW,WWWD
+Troyes,Chambly,2-2,/match/troyes/chambly/2021,2021,10,ligue_2,20,27,1,2,2,2,5,2,2,13,5,WWWWWDLDL,3,1,0,6,1,20,1,2,6,6,18,LDLDWWLWL,0,2,2,3,8,WWWD,DDWW
+Le Havre,Caen,1-2,/match/havre-ac/caen/2021,2021,11,ligue_2,20,27,2,1,2,10,5,1,4,9,10,WWLLLWDLWW,2,1,1,3,2,3,5,2,3,9,8,DWLDWWWWWW,1,1,3,4,7,WLDW,DLWWW
+Amiens SC,Clermont,1-1,/match/amiens-sc/clermont-foot/2021,2021,11,ligue_2,20,27,1,1,1,15,3,2,5,6,7,WWLDDWWLLW,2,1,2,3,3,8,4,4,2,12,6,DDLDWWLLLD,3,1,1,8,3,WLDWL,DLWLL
+Chambly,Toulouse,1-1,/match/chambly/toulouse-fc/2021,2021,11,ligue_2,20,27,1,1,1,20,1,3,6,8,20,LDLDWWLWLD,1,0,4,3,10,9,4,3,3,16,13,LWDDWDLWLL,2,1,1,6,6,LLWLL,WDLL
+Chateauroux,Sochaux,2-1,/match/berrichonne-chateauroux/sochaux/2021,2021,11,ligue_2,20,27,0,2,1,19,2,2,6,8,13,LLWDWWDLWL,1,1,3,4,7,11,3,5,2,13,12,LWDDDWDLDL,1,4,0,3,1,LDWLL,LDDDD
+Niort,Dunkerque,1-2,/match/chamois-niortais/dunkerque/2021,2021,11,ligue_2,20,27,2,1,2,5,5,3,2,14,12,LDWLDWWWDL,2,3,0,7,3,12,4,1,5,7,8,LDWWWWWLLL,2,0,3,4,5,DWDWD,LWWWL
+Paris FC,Auxerre,0-3,/match/paris-sg/auxerre/2021,2021,11,ligue_2,20,27,2,0,3,1,8,1,1,18,7,LWLLDWWLWL,4,0,1,8,3,6,5,1,4,18,14,LLLWWWWWDW,1,1,2,5,8,WLWWW,LWWD
+Pau FC,Grenoble,0-2,/match/pau/grenoble-foot-38/2021,2021,11,ligue_2,20,27,2,0,2,17,2,3,5,9,11,WDWLDDWWWL,1,2,1,6,4,2,6,1,3,14,8,WWLWWWWWDW,1,1,3,2,4,DLDW,WLWWD
+Valenciennes,Rodez,1-1,/match/valenciennes-afc/rodez/2021,2021,11,ligue_2,20,27,1,1,1,7,4,2,4,12,12,WWWWWWDDLL,3,1,1,6,3,16,2,3,5,8,17,WDLDWWLWDL,0,2,2,3,9,WWWDL,DDWW
+Guingamp,Ajaccio,2-2,/match/guingamp/ajaccio/2021,2021,11,ligue_2,20,27,1,2,2,13,3,3,4,7,8,LDLLWWWWDD,2,1,2,4,4,18,3,1,6,6,15,LWWWDWLLLL,2,0,3,4,8,LLWWD,WWWLL
+Nancy,Troyes,2-3,/match/nancy/troyes/2021,2021,11,ligue_2,20,27,2,2,3,14,3,2,5,10,11,WDWLLDWWWW,2,1,1,6,5,4,5,3,2,15,7,WWWWWDLDLD,2,1,2,7,4,DLWW,WWDLL
+Grenoble,Paris FC,0-0,/match/grenoble-foot-38/paris-sg/2021,2021,12,ligue_2,20,27,1,0,0,2,7,1,3,16,8,WWLWWWWWDWL,5,0,0,12,4,1,8,1,2,18,10,LWLLDWWLWLL,4,1,0,10,4,WWWWW,LLDLL
+Toulouse,Niort,2-1,/match/toulouse-fc/chamois-niortais/2021,2021,12,ligue_2,20,27,0,2,1,9,4,4,3,17,14,LWDDWDLWLLD,2,2,2,10,7,6,5,3,3,15,14,LDWLDWWWDLL,3,0,2,7,9,LDWDWL,LLWWL
+Ajaccio,Chambly,0-0,/match/ajaccio/chambly/2021,2021,12,ligue_2,20,27,1,0,0,19,3,2,6,8,17,LWWWDWLLLLD,1,1,3,2,7,20,1,4,6,9,21,LDLDWWLWLDD,0,3,2,5,10,LWDLL,DDWWD
+Auxerre,Valenciennes,1-1,/match/auxerre/valenciennes-afc/2021,2021,12,ligue_2,20,27,1,1,1,5,6,1,4,21,14,LLLWWWWWDWL,4,0,2,13,6,7,4,3,4,13,13,WWWWWWDDLLD,1,1,3,6,9,LLWWWW,WWWDL
+Caen,Chateauroux,1-1,/match/caen/berrichonne-chateauroux/2021,2021,12,ligue_2,20,27,1,1,1,3,6,2,3,11,9,DWLDWWWWWWL,4,1,0,5,1,17,3,2,6,10,14,LLWDWWDLWLW,1,1,3,4,6,WDWWW,LWWDW
+Clermont,Nancy,2-0,/match/clermont-foot/nancy/2021,2021,12,ligue_2,20,27,0,2,0,8,4,5,2,13,7,DDLDWWLLLDD,1,3,1,4,3,15,3,2,6,12,14,WDWLLDWWWWL,1,1,4,4,6,DDWLD,WWLDWW
+Dunkerque,Pau FC,2-2,/match/dunkerque/pau/2021,2021,12,ligue_2,20,27,1,2,2,10,5,1,5,9,9,LDWWWWWLLLL,2,1,2,3,3,18,2,3,6,9,13,WDWLDDWWWLL,1,1,4,3,7,DWWLL,WWDWWL
+Rodez,Guingamp,1-1,/match/rodez/guingamp/2021,2021,12,ligue_2,20,27,1,1,1,16,2,4,5,9,18,WDLDWWLWDLD,2,1,3,5,8,11,3,4,4,9,10,LDLLWWWWDDD,1,2,2,3,4,WLWLDL,DLWWD
+Sochaux,Le Havre,4-0,/match/sochaux/havre-ac/2021,2021,12,ligue_2,20,27,0,4,0,12,3,5,3,14,14,LWDDDWDLDLW,2,1,2,10,11,13,5,1,5,10,12,WWLLLWDLWWL,3,0,3,6,8,WDWLL,WLLWLW
+Troyes,Amiens SC,2-1,/match/troyes/amiens-sc/2021,2021,12,ligue_2,20,27,0,2,1,4,6,3,2,18,9,WWWWWDLDLDL,3,2,0,8,3,14,3,3,5,7,8,WWLDDWWLLWD,1,1,3,3,4,WWWDD,WDWLW
+Amiens SC,Dunkerque,1-0,/match/amiens-sc/dunkerque/2021,2021,13,ligue_2,20,27,0,1,0,14,3,3,6,8,10,WWLDDWWLLWDW,2,2,2,4,4,11,5,2,5,11,11,LDWWWWWLLLLD,3,0,3,6,6,WLDWLD,LWWWLL
+Chambly,Rodez,1-0,/match/chambly/rodez/2021,2021,13,ligue_2,20,27,0,1,0,20,1,5,6,9,21,LDLDWWLWLDDD,1,1,4,4,11,15,2,5,5,10,19,WDLDWWLWDLDD,0,3,2,4,10,LLWLLD,DDWWD
+Chateauroux,Grenoble,0-1,/match/berrichonne-chateauroux/grenoble-foot-38/2021,2021,13,ligue_2,20,27,2,0,1,16,3,3,6,11,15,LLWDWWDLWLWD,2,1,3,6,8,2,7,2,3,16,8,WWLWWWWWDWLD,2,1,3,4,4,LDWLLW,WLWWDL
+Guingamp,Troyes,1-2,/match/guingamp/troyes/2021,2021,13,ligue_2,20,27,2,1,2,12,3,5,4,10,11,LDLLWWWWDDDD,2,2,2,6,6,1,7,3,2,20,10,WWWWWDLDLDLW,3,1,2,10,6,LLWWDD,WWDLLL
+Le Havre,Auxerre,1-1,/match/havre-ac/auxerre/2021,2021,13,ligue_2,20,27,1,1,1,13,5,1,6,10,16,WWLLLWDLWWLW,2,1,2,4,4,5,6,2,4,22,15,LLLWWWWWDWLD,2,1,2,8,8,WLDWL,LWWDL
+Nancy,Toulouse,1-3,/match/nancy/toulouse-fc/2021,2021,13,ligue_2,20,27,2,1,3,17,3,2,7,12,16,WDWLLDWWWWLW,2,1,2,8,8,7,5,4,3,19,15,LWDDWDLWLLDW,2,2,1,7,7,DLWWL,WDLLD
+Niort,Clermont,1-0,/match/chamois-niortais/clermont-foot/2021,2021,13,ligue_2,20,27,0,1,0,9,5,3,4,16,16,LDWLDWWWDLLW,2,3,1,8,5,6,5,5,2,15,7,DDLDWWLLLDDW,3,2,1,9,4,DWDWDL,DLWLLD
+Paris FC,Sochaux,0-0,/match/paris-sg/sochaux/2021,2021,13,ligue_2,20,27,1,0,0,3,8,2,2,18,10,LWLLDWWLWLLD,4,0,2,8,6,8,4,5,3,18,14,LWDDDWDLDLWW,1,4,1,4,3,WLWWWL,LDDDDW
+Pau FC,Caen,1-0,/match/pau/caen/2021,2021,13,ligue_2,20,27,0,1,0,19,2,4,6,11,15,WDWLDDWWWLLD,1,2,2,6,6,4,6,3,3,12,10,DWLDWWWWWWLD,2,1,3,6,8,DLDWL,DLWWWL
+Valenciennes,Ajaccio,1-1,/match/valenciennes-afc/ajaccio/2021,2021,13,ligue_2,20,27,1,1,1,10,4,4,4,14,14,WWWWWWDDLLDD,3,2,1,7,4,18,3,3,6,8,17,LWWWDWLLLLDD,2,1,3,6,10,WWWDLD,WWWLLD
+Troyes,Paris FC,2-1,/match/troyes/paris-sg/2021,2021,14,ligue_2,20,27,0,2,1,1,8,3,2,22,11,WWWWWDLDLDLWL,4,2,0,10,4,3,8,3,2,18,10,LWLLDWWLWLLDD,4,2,0,10,4,WWWDDW,LLDLLD
+Auxerre,Niort,6-0,/match/auxerre/chamois-niortais/2021,2021,14,ligue_2,20,27,0,6,0,5,6,3,4,23,16,LLLWWWWWDWLDD,4,1,2,14,7,7,6,3,4,17,16,LDWLDWWWDLLWW,3,0,3,8,11,LLWWWWD,LLWWLW
+Caen,Grenoble,1-1,/match/caen/grenoble-foot-38/2021,2021,14,ligue_2,20,27,1,1,1,4,6,3,4,12,11,DWLDWWWWWWLDW,4,2,0,6,2,2,8,2,3,17,8,WWLWWWWWDWLDL,3,1,3,5,4,WDWWWD,WLWWDLL
+Chambly,Valenciennes,1-2,/match/chambly/valenciennes-afc/2021,2021,14,ligue_2,20,27,2,1,2,19,2,5,6,10,21,LDLDWWLWLDDDW,2,1,4,5,11,9,4,5,4,15,15,WWWWWWDDLLDDD,1,2,3,7,10,LLWLLDW,WWWDLD
+Clermont,Pau FC,3-0,/match/clermont-foot/pau/2021,2021,14,ligue_2,20,27,0,3,0,8,5,5,3,15,8,DDLDWWLLLDDWW,2,3,1,6,3,15,3,4,6,12,15,WDWLDDWWWLLDW,1,2,4,5,9,DDWLDW,WWDWWLD
+Dunkerque,Chateauroux,2-0,/match/dunkerque/berrichonne-chateauroux/2021,2021,14,ligue_2,20,27,0,2,0,13,5,2,6,11,12,LDWWWWWLLLLDW,2,2,2,5,5,17,3,3,7,11,16,LLWDWWDLWLWDL,1,2,3,5,7,DWWLLD,LWWDWD
+Rodez,Amiens SC,1-2,/match/rodez/amiens-sc/2021,2021,14,ligue_2,20,27,2,1,2,16,2,5,6,10,20,WDLDWWLWDLDDW,2,2,3,6,9,11,4,3,6,9,10,WWLDDWWLLWDWW,1,1,4,4,6,WLWLDLD,WDWLWW
+Sochaux,Nancy,1-1,/match/sochaux/nancy/2021,2021,14,ligue_2,20,27,1,1,1,10,4,6,3,18,14,LWDDDWDLDLWWD,3,1,2,14,11,20,3,2,8,13,19,WDWLLDWWWWLWL,1,1,5,4,8,WDWLLW,WWLDWWW
+Toulouse,Guingamp,2-2,/match/toulouse-fc/guingamp/2021,2021,14,ligue_2,20,27,1,2,2,6,6,4,3,22,16,LWDDWDLWLLDWL,3,2,2,12,8,14,3,5,5,11,13,LDLLWWWWDDDDL,1,3,2,4,5,LDWDWLW,DLWWDD
+Ajaccio,Le Havre,1-1,/match/ajaccio/havre-ac/2021,2021,14,ligue_2,20,27,1,1,1,18,3,4,6,9,18,LWWWDWLLLLDDD,1,2,3,2,7,12,5,2,6,11,17,WWLLLWDLWWLWD,3,0,4,6,12,LWDLLD,WLLWLWW
+Caen,Troyes,0-0,/match/caen/troyes/2021,2021,15,ligue_2,20,27,1,0,0,5,6,4,4,13,12,DWLDWWWWWWLDWD,4,3,0,7,3,1,9,3,2,24,12,WWWWWDLDLDLWLW,4,1,2,12,7,WDWWWDD,WWDLLLL
+Amiens SC,Chambly,1-1,/match/amiens-sc/chambly/2021,2021,15,ligue_2,20,27,1,1,1,12,5,3,6,11,11,WWLDDWWLLWDWWL,3,2,2,5,4,19,2,5,7,11,23,LDLDWWLWLDDDWL,0,4,2,5,10,WLDWLDW,DDWWDD
+Chateauroux,Toulouse,0-3,/match/berrichonne-chateauroux/toulouse-fc/2021,2021,15,ligue_2,20,27,2,0,3,18,3,3,8,11,18,LLWDWWDLWLWDLW,2,1,4,6,9,6,6,5,3,24,18,LWDDWDLWLLDWLD,3,2,1,10,8,LDWLLWL,WDLLDL
+Grenoble,Dunkerque,4-0,/match/grenoble-foot-38/dunkerque/2021,2021,15,ligue_2,20,27,0,4,0,2,8,3,3,18,9,WWLWWWWWDWLDLD,5,1,0,12,4,11,6,2,6,13,12,LDWWWWWLLLLDWW,3,0,4,6,7,WWWWWD,LWWWLLW
+Guingamp,Valenciennes,1-1,/match/guingamp/valenciennes-afc/2021,2021,15,ligue_2,20,27,1,1,1,14,3,6,5,13,15,LDLLWWWWDDDDLD,2,2,3,7,8,9,5,5,4,17,16,WWWWWWDDLLDDDL,2,2,3,9,11,LLWWDDL,WWWDLDL
+Nancy,Auxerre,2-2,/match/nancy/auxerre/2021,2021,15,ligue_2,20,27,1,2,2,20,3,3,8,14,20,WDWLLDWWWWLWLD,2,1,3,9,11,4,7,3,4,29,16,LLLWWWWWDWLDDW,2,2,2,9,9,DLWWLL,LWWDLD
+Niort,Ajaccio,2-0,/match/chamois-niortais/ajaccio/2021,2021,15,ligue_2,20,27,0,2,0,8,6,3,5,17,22,LDWLDWWWDLLWWW,3,3,1,9,5,16,3,5,6,10,19,LWWWDWLLLLDDDD,2,2,3,7,11,DWDWDLW,WWWLLDD
+Paris FC,Rodez,1-1,/match/paris-sg/rodez/2021,2021,15,ligue_2,20,27,1,1,1,3,8,3,3,19,12,LWLLDWWLWLLDDW,4,1,2,8,6,17,2,5,7,11,22,WDLDWWLWDLDDWL,0,3,3,4,11,WLWWWLD,DDWWDW
+Le Havre,Clermont,0-0,/match/havre-ac/clermont-foot/2021,2021,15,ligue_2,20,27,1,0,0,13,5,3,6,12,18,WWLLLWDLWWLWDD,2,2,2,5,5,7,6,5,3,18,8,DDLDWWLLLDDWWW,3,2,2,9,5,WLDWLD,DLWLLDW
+Pau FC,Sochaux,0-0,/match/pau/sochaux/2021,2021,15,ligue_2,20,27,1,0,0,15,3,4,7,12,18,WDWLDDWWWLLDWW,2,2,2,7,6,10,4,7,3,19,15,LWDDDWDLDLWWDD,1,5,1,4,3,DLDWLW,LDDDDWD
+Ajaccio,Nancy,1-0,/match/ajaccio/nancy/2021,2021,16,ligue_2,20,27,0,1,0,16,3,5,7,10,21,LWWWDWLLLLDDDDW,1,3,3,3,8,18,3,4,8,16,22,WDWLLDWWWWLWLDD,1,2,5,5,9,LWDLLDD,WWLDWWWD
+Auxerre,Pau FC,2-1,/match/auxerre/pau/2021,2021,16,ligue_2,20,27,0,2,1,4,7,4,4,31,18,LLLWWWWWDWLDDWD,5,1,2,20,7,15,3,5,7,12,18,WDWLDDWWWLLDWWD,1,2,5,5,12,LLWWWWDW,WWDWWLDW
+Chambly,Guingamp,3-0,/match/chambly/guingamp/2021,2021,16,ligue_2,20,27,0,3,0,19,2,6,7,12,24,LDLDWWLWLDDDWLD,2,1,5,6,13,14,3,7,5,14,16,LDLLWWWWDDDDLDD,1,4,2,6,7,LLWLLDWL,DLWWDDD
+Dunkerque,Caen,2-3,/match/dunkerque/caen/2021,2021,16,ligue_2,20,27,2,2,3,12,6,2,7,13,16,LDWWWWWLLLLDWWW,3,2,2,7,5,5,6,5,4,13,12,DWLDWWWWWWLDWDD,2,1,4,6,9,DWWLLDW,DLWWWLW
+Rodez,Chateauroux,1-1,/match/rodez/berrichonne-chateauroux/2021,2021,16,ligue_2,20,27,1,1,1,17,2,6,7,12,23,WDLDWWLWDLDDWLD,2,2,4,7,11,20,3,3,9,11,21,LLWDWWDLWLWDLWL,1,2,4,5,9,WLWLDLDL,LWWDWDW
+Sochaux,Grenoble,1-1,/match/sochaux/grenoble-foot-38/2021,2021,16,ligue_2,20,27,1,1,1,10,4,8,3,19,15,LWDDDWDLDLWWDDD,3,2,2,15,12,2,9,3,3,22,9,WWLWWWWWDWLDLDW,3,2,3,6,5,WDWLLWD,WLWWDLLD
+Troyes,Niort,1-0,/match/troyes/chamois-niortais/2021,2021,16,ligue_2,20,27,0,1,0,1,9,4,2,24,12,WWWWWDLDLDLWLWD,5,2,0,12,5,7,7,3,5,19,22,LDWLDWWWDLLWWWW,3,0,4,8,17,WWWDDWW,LLWWLWW
+Valenciennes,Amiens SC,0-2,/match/valenciennes-afc/amiens-sc/2021,2021,16,ligue_2,20,27,2,0,2,9,5,6,4,18,17,WWWWWWDDLLDDDLD,3,3,1,8,5,11,5,4,6,12,12,WWLDDWWLLWDWWLD,2,1,4,6,7,WWWDLDD,WDWLWWL
+Clermont,Paris FC,3-2,/match/clermont-foot/paris-sg/2021,2021,16,ligue_2,20,27,0,3,2,8,6,6,3,18,8,DDLDWWLLLDDWWWD,3,3,1,9,3,3,8,4,3,20,13,LWLLDWWLWLLDDWD,4,2,1,11,6,DDWLDWW,LLDLLDW
+Toulouse,Le Havre,4-3,/match/toulouse-fc/havre-ac/2021,2021,16,ligue_2,20,27,0,4,3,6,7,5,3,27,18,LWDDWDLWLLDWLDL,3,3,2,14,10,13,5,4,6,12,18,WWLLLWDLWWLWDDD,3,1,4,7,13,LDWDWLWD,WLLWLWWD
+Amiens SC,Ajaccio,0-0,/match/amiens-sc/ajaccio/2021,2021,17,ligue_2,20,27,1,0,0,10,6,4,6,14,12,WWLDDWWLLWDWWLDL,3,3,2,6,5,15,4,5,7,11,21,LWWWDWLLLLDDDDWW,2,2,4,7,13,WLDWLDWD,WWWLLDDW
+Caen,Sochaux,1-4,/match/caen/sochaux/2021,2021,17,ligue_2,20,27,2,1,4,5,7,5,4,16,14,DWLDWWWWWWLDWDDL,4,4,0,7,3,9,4,9,3,20,16,LWDDDWDLDLWWDDDD,1,6,1,4,3,WDWWWDDD,LDDDDWDD
+Chateauroux,Clermont,0-1,/match/berrichonne-chateauroux/clermont-foot/2021,2021,17,ligue_2,20,27,2,0,1,20,3,4,9,12,22,LLWDWWDLWLWDLWLD,2,1,5,6,12,6,7,6,3,21,10,DDLDWWLLLDDWWWDW,3,3,2,9,5,LDWLLWLL,DLWLLDWD
+Dunkerque,Auxerre,0-1,/match/dunkerque/auxerre/2021,2021,17,ligue_2,20,27,2,0,1,12,6,2,8,15,19,LDWWWWWLLLLDWWWL,3,2,3,9,8,3,8,4,4,33,19,LLLWWWWWDWLDDWDW,2,3,2,11,11,DWWLLDWL,LWWDLDD
+Grenoble,Troyes,2-0,/match/grenoble-foot-38/troyes/2021,2021,17,ligue_2,20,27,0,2,0,2,9,4,3,23,10,WWLWWWWWDWLDLDWD,6,1,0,16,4,1,10,4,2,25,12,WWWWWDLDLDLWLWDW,4,2,2,12,7,WWWWWDW,WWDLLLLD
+Le Havre,Rodez,1-1,/match/havre-ac/rodez/2021,2021,17,ligue_2,20,27,1,1,1,13,5,4,7,15,22,WWLLLWDLWWLWDDDW,2,3,2,5,5,18,2,7,7,13,24,WDLDWWLWDLDDWLDD,0,4,3,5,12,WLDWLDD,DDWWDWD
+Nancy,Chambly,3-3,/match/nancy/chambly/2021,2021,17,ligue_2,20,27,1,3,3,19,3,4,9,16,23,WDWLLDWWWWLWLDDW,2,2,3,11,13,16,3,6,7,15,24,LDLDWWLWLDDDWLDW,0,5,2,6,11,DLWWLLD,DDWWDDD
+Paris FC,Guingamp,3-2,/match/paris-sg/guingamp/2021,2021,17,ligue_2,20,27,0,3,2,7,8,4,4,22,16,LWLLDWWLWLLDDWDW,4,2,2,9,7,14,3,7,6,14,19,LDLLWWWWDDDDLDDW,1,4,3,6,10,WLWWWLDD,DLWWDDDW
+Pau FC,Toulouse,0-3,/match/pau/toulouse-fc/2021,2021,17,ligue_2,20,27,2,0,3,17,3,5,8,13,20,WDWLDDWWWLLDWWDW,2,3,2,7,6,4,8,5,3,31,21,LWDDWDLWLLDWLDLW,4,2,1,13,8,DLDWLWD,WDLLDLL
+Ajaccio,Pau FC,4-1,/match/ajaccio/pau/2021,2021,18,ligue_2,20,27,0,4,1,14,4,6,7,11,21,LWWWDWLLLLDDDDWWD,2,3,3,4,8,18,3,5,9,13,23,WDWLDDWWWLLDWWDWL,1,2,6,6,14,LWDLLDDW,WWDWWLDWW
+Auxerre,Caen,1-1,/match/auxerre/caen/2021,2021,18,ligue_2,20,27,1,1,1,3,9,4,4,34,19,LLLWWWWWDWLDDWDWL,6,1,2,22,8,7,7,5,5,17,18,DWLDWWWWWWLDWDDLL,3,1,4,9,11,LLWWWWDWW,DLWWWLWL
+Chambly,Le Havre,0-1,/match/chambly/havre-ac/2021,2021,18,ligue_2,20,27,2,0,1,16,3,7,7,18,27,LDLDWWLWLDDDWLDWD,3,1,5,9,13,12,5,5,7,16,23,WWLLLWDLWWLWDDDWD,3,1,5,10,17,LLWLLDWLW,WLLWLWWDW
+Clermont,Grenoble,3-0,/match/clermont-foot/grenoble-foot-38/2021,2021,18,ligue_2,20,27,0,3,0,6,8,6,3,22,10,DDLDWWLLLDDWWWDWL,4,3,1,12,5,1,10,4,3,25,10,WWLWWWWWDWLDLDWDW,3,3,3,7,6,DDWLDWWW,WLWWDLLDD
+Guingamp,Amiens SC,2-2,/match/guingamp/amiens-sc/2021,2021,18,ligue_2,20,27,1,2,2,15,3,7,7,16,22,LDLLWWWWDDDDLDDWW,2,3,3,8,9,10,6,5,6,14,12,WWLDDWWLLWDWWLDLD,3,1,4,8,7,LLWWDDLD,WDWLWWLL
+Rodez,Niort,1-1,/match/rodez/chamois-niortais/2021,2021,18,ligue_2,20,27,1,1,1,17,2,8,7,14,25,WDLDWWLWDLDDWLDDD,2,3,4,8,12,8,7,3,6,19,23,LDWLDWWWDLLWWWWW,3,0,5,8,18,WLWLDLDLD,LLWWLWWW
+Sochaux,Dunkerque,1-0,/match/sochaux/dunkerque/2021,2021,18,ligue_2,20,27,0,1,0,9,5,9,3,24,17,LWDDDWDLDLWWDDDDL,3,3,2,16,13,13,6,2,9,15,20,LDWWWWWLLLLDWWWLL,3,0,5,6,11,WDWLLWDD,LWWWLLWW
+Toulouse,Paris FC,1-0,/match/toulouse-fc/paris-sg/2021,2021,18,ligue_2,20,27,0,1,0,4,9,5,3,34,21,LWDDWDLWLLDWLDLWL,4,3,2,18,13,5,9,4,4,25,18,LWLLDWWLWLLDDWDWW,4,2,2,13,9,LDWDWLWDW,LLDLLDWW
+Troyes,Chateauroux,2-0,/match/troyes/berrichonne-chateauroux/2021,2021,18,ligue_2,20,27,0,2,0,2,10,4,3,25,14,WWWWWDLDLDLWLWDWW,6,2,0,13,5,20,3,4,10,12,23,LLWDWWDLWLWDLWLDL,1,3,4,6,10,WWWDDWWW,LWWDWDWD
+Valenciennes,Nancy,2-3,/match/valenciennes-afc/nancy/2021,2021,18,ligue_2,20,27,2,2,3,11,5,6,5,18,19,WWWWWWDDLLDDDLDL,3,3,2,8,7,19,3,5,9,19,26,WDWLLDWWWWLWLDDWD,1,2,6,5,10,WWWDLDDL,WWLDWWWDW
+Chateauroux,Guingamp,2-3,/match/berrichonne-chateauroux/guingamp/2021,2021,19,ligue_2,20,27,2,2,3,20,3,4,11,12,25,LLWDWWDLWLWDLWLDLW,2,1,6,6,13,15,3,8,7,18,24,LDLLWWWWDDDDLDDWWD,1,4,4,8,13,LDWLLWLLL,DLWWDDDWW
+Dunkerque,Troyes,0-0,/match/dunkerque/troyes/2021,2021,19,ligue_2,20,27,1,0,0,14,6,2,10,15,21,LDWWWWWLLLLDWWWLLW,3,2,4,9,9,1,11,4,3,27,14,WWWWWDLDLDLWLWDWWW,4,2,3,12,9,DWWLLDWLL,WWDLLLLDW
+Le Havre,Valenciennes,0-2,/match/havre-ac/valenciennes-afc/2021,2021,19,ligue_2,20,27,2,0,2,13,6,5,7,17,23,WWLLLWDLWWLWDDDWDL,2,4,2,6,6,12,5,6,6,20,22,WWWWWWDDLLDDDLDLL,2,3,3,10,12,WLDWLDDD,WWWDLDLD
+Nancy,Rodez,2-2,/match/nancy/rodez/2021,2021,19,ligue_2,20,27,1,2,2,18,4,5,9,22,28,WDWLLDWWWWLWLDDWDL,2,3,3,14,16,16,2,9,7,15,26,WDLDWWLWDLDDWLDDDD,0,5,3,6,13,DLWWLLDD,DDWWDWDD
+Niort,Amiens SC,0-2,/match/chamois-niortais/amiens-sc/2021,2021,19,ligue_2,20,27,2,0,2,9,7,4,6,20,24,LDWLDWWWDLLWWWWWD,4,3,1,11,5,10,6,6,6,16,14,WWLDDWWLLWDWWLDLDD,3,2,4,10,9,DWDWDLWW,WDWLWWLLD
+Paris FC,Ajaccio,1-1,/match/paris-sg/ajaccio/2021,2021,19,ligue_2,20,27,1,1,1,6,9,4,5,25,19,LWLLDWWLWLLDDWDWWW,5,2,2,12,9,11,5,6,7,15,22,LWWWDWLLLLDDDDWWDW,2,3,4,7,13,WLWWWLDDW,WWWLLDDWD
+Pau FC,Chambly,1-3,/match/pau/chambly/2021,2021,19,ligue_2,20,27,2,1,3,19,3,5,10,14,27,WDWLDDWWWLLDWWDWLW,2,3,3,7,9,17,3,7,8,18,28,LDLDWWLWLDDDWLDWDL,0,6,2,9,14,DLDWLWDL,DDWWDDDD
+Sochaux,Clermont,0-0,/match/sochaux/clermont-foot/2021,2021,19,ligue_2,20,27,1,0,0,8,6,9,3,25,17,LWDDDWDLDLWWDDDDLW,4,3,2,17,13,5,9,6,3,25,10,DDLDWWLLLDDWWWDWLW,4,3,2,10,5,WDWLLWDDW,DLWLLDWDL
+Grenoble,Auxerre,2-2,/match/grenoble-foot-38/auxerre/2021,2021,19,ligue_2,20,27,1,2,2,2,10,4,4,25,13,WWLWWWWWDWLDLDWDWW,7,1,0,18,4,4,9,5,4,35,20,LLLWWWWWDWLDDWDWLD,3,3,2,12,11,WWWWWDWW,LWWDLDDL
+Caen,Toulouse,2-2,/match/caen/toulouse-fc/2021,2021,19,ligue_2,20,27,1,2,2,7,7,6,5,18,19,DWLDWWWWWWLDWDDLLD,4,4,1,8,7,3,10,5,3,35,21,LWDDWDLWLLDWLDLWLW,5,2,1,16,8,WDWWWDDDL,WDLLDLLL
+Toulouse,Grenoble,2-0,/match/toulouse-fc/grenoble-foot-38/2021,2021,20,ligue_2,20,27,0,2,0,3,10,6,3,37,23,LWDDWDLWLLDWLDLWLWD,5,3,2,19,13,2,10,5,4,27,15,WWLWWWWWDWLDLDWDWWD,3,3,4,7,9,LDWDWLWDWW,WLWWDLLDDW
+Troyes,Sochaux,2-1,/match/troyes/sochaux/2021,2021,20,ligue_2,20,27,0,2,1,1,11,5,3,27,14,WWWWWDLDLDLWLWDWWWD,7,2,0,15,5,8,6,10,3,25,17,LWDDDWDLDLWWDDDDLWD,2,6,1,8,4,WWWDDWWWW,LDDDDWDDL
+Ajaccio,Caen,1-0,/match/ajaccio/caen/2021,2021,20,ligue_2,20,27,0,1,0,12,5,7,7,16,23,LWWWDWLLLLDDDDWWDWD,3,3,3,8,9,7,7,7,5,20,21,DWLDWWWWWWLDWDDLLDD,3,2,4,10,12,LWDLLDDWW,DLWWWLWLD
+Amiens SC,Le Havre,0-0,/match/amiens-sc/havre-ac/2021,2021,20,ligue_2,20,27,1,0,0,9,7,6,6,18,14,WWLDDWWLLWDWWLDLDDL,3,4,2,6,5,13,6,5,8,17,25,WWLLLWDLWWLWDDDWDLL,4,1,5,11,17,WLDWLDWDD,WLLWLWWDWL
+Auxerre,Chateauroux,4-1,/match/auxerre/berrichonne-chateauroux/2021,2021,20,ligue_2,20,27,0,4,1,4,9,6,4,37,22,LLLWWWWWDWLDDWDWLDD,6,2,2,23,9,20,3,4,12,14,28,LLWDWWDLWLWDLWLDLWL,1,3,5,6,12,LLWWWWDWWD,LWWDWDWDW
+Clermont,Dunkerque,5-0,/match/clermont-foot/dunkerque/2021,2021,20,ligue_2,20,27,0,5,0,5,9,7,3,25,10,DDLDWWLLLDDWWWDWLWD,5,3,1,15,5,14,6,3,10,15,21,LDWWWWWLLLLDWWWLLWD,3,0,6,6,12,DDWLDWWWW,LWWWLLWWW
+Guingamp,Nancy,0-0,/match/guingamp/nancy/2021,2021,20,ligue_2,20,27,1,0,0,15,4,8,7,21,26,LDLLWWWWDDDDLDDWWDL,2,4,3,10,11,18,4,6,9,24,30,WDWLLDWWWWLWLDDWDLD,2,2,6,8,12,LLWWDDLDD,WWLDWWWDWL
+Rodez,Pau FC,1-0,/match/rodez/pau/2021,2021,20,ligue_2,20,27,0,1,0,16,2,10,7,17,28,WDLDWWLWDLDDWLDDDDD,2,4,4,9,13,19,3,5,11,15,30,WDWLDDWWWLLDWWDWLWL,1,2,7,7,18,WLWLDLDLDD,WWDWWLDWWW
+Valenciennes,Paris FC,2-0,/match/valenciennes-afc/paris-sg/2021,2021,20,ligue_2,20,27,0,2,0,11,6,6,6,22,22,WWWWWWDDLLDDDLDLLL,3,3,3,10,10,6,9,5,5,26,20,LWLLDWWLWLLDDWDWWWD,4,2,3,13,10,WWWDLDDLL,LLDLLDWWW
+Chambly,Niort,1-1,/match/chambly/chamois-niortais/2021,2021,20,ligue_2,20,27,1,1,1,17,4,7,8,21,29,LDLDWWLWLDDDWLDWDLL,3,1,6,9,14,10,7,4,7,20,26,LDWLDWWWDLLWWWWWDL,3,1,5,9,19,LLWLLDWLWL,LLWWLWWWD
+Clermont,Auxerre,1-0,/match/clermont-foot/auxerre/2021,2021,21,ligue_2,20,27,0,1,0,4,10,7,3,30,10,DDLDWWLLLDDWWWDWLWDW,6,3,1,20,5,3,10,6,4,41,23,LLLWWWWWDWLDDWDWLDDW,3,4,2,14,13,DDWLDWWWWW,LWWDLDDLD
+Caen,Rodez,1-2,/match/caen/rodez/2021,2021,21,ligue_2,20,27,2,1,2,7,7,7,6,20,22,DWLDWWWWWWLDWDDLLDDW,4,5,1,10,9,15,3,10,7,18,28,WDLDWWLWDLDDWLDDDDDW,0,6,3,8,15,WDWWWDDDLD,DDWWDWDDD
+Chateauroux,Valenciennes,3-3,/match/berrichonne-chateauroux/valenciennes-afc/2021,2021,21,ligue_2,20,27,1,3,3,20,3,4,13,15,32,LLWDWWDLWLWDLWLDLWLW,2,1,7,8,16,10,7,6,6,24,22,WWWWWWDDLLDDDLDLLLW,3,3,3,12,12,LDWLLWLLLL,WWWDLDLDL
+Dunkerque,Ajaccio,3-1,/match/dunkerque/ajaccio/2021,2021,21,ligue_2,20,27,0,3,1,16,6,3,11,15,26,LDWWWWWLLLLDWWWLLWDW,3,3,4,9,9,12,6,7,7,17,23,LWWWDWLLLLDDDDWWDWDW,2,4,4,8,14,DWWLLDWLLD,WWWLLDDWDD
+Grenoble,Chambly,2-0,/match/grenoble-foot-38/chambly/2021,2021,21,ligue_2,20,27,0,2,0,5,10,5,5,27,17,WWLWWWWWDWLDLDWDWWDW,7,2,0,20,6,17,4,8,8,22,30,LDLDWWLWLDDDWLDWDLLD,1,6,2,12,15,WWWWWDWWD,DDWWDDDDL
+Le Havre,Guingamp,1-1,/match/havre-ac/guingamp/2021,2021,21,ligue_2,20,27,1,1,1,13,6,6,8,17,25,WWLLLWDLWWLWDDDWDLLD,2,4,3,6,8,14,4,9,7,21,26,LDLLWWWWDDDDLDDWWDLD,2,4,4,11,15,WLDWLDDDL,DLWWDDDWWL
+Nancy,Niort,2-2,/match/nancy/chamois-niortais/2021,2021,21,ligue_2,20,27,1,2,2,18,4,7,9,24,30,WDWLLDWWWWLWLDDWDLDD,2,4,3,16,18,11,7,5,7,21,27,LDWLDWWWDLLWWWWWDLD,3,2,5,10,20,DLWWLLDDD,LLWWLWWWDD
+Paris FC,Amiens SC,4-2,/match/paris-sg/amiens-sc/2021,2021,21,ligue_2,20,27,0,4,2,6,9,5,6,26,22,LWLLDWWLWLLDDWDWWWDW,5,3,2,13,10,9,7,7,6,18,14,WWLDDWWLLWDWWLDLDDLD,4,2,4,12,9,WLWWWLDDWD,WDWLWWLLDL
+Pau FC,Troyes,0-1,/match/pau/troyes/2021,2021,21,ligue_2,20,27,2,0,1,19,3,5,12,15,31,WDWLDDWWWLLDWWDWLWLW,2,3,4,8,12,1,12,5,3,29,15,WWWWWDLDLDLWLWDWWWDW,4,3,3,12,9,DLDWLWDLL,WWDLLLLDWD
+Sochaux,Toulouse,0-1,/match/sochaux/toulouse-fc/2021,2021,21,ligue_2,20,27,2,0,1,8,6,10,4,26,19,LWDDDWDLDLWWDDDDLWDW,4,4,2,17,13,2,11,6,3,39,23,LWDDWDLWLLDWLDLWLWDW,5,3,1,18,10,WDWLLWDDWD,WDLLDLLLD
+Toulouse,Clermont,3-2,/match/toulouse-fc/clermont-foot/2021,2021,22,ligue_2,20,27,0,3,2,3,12,6,3,40,23,LWDDWDLWLLDWLDLWLWDWL,6,3,2,21,13,2,11,7,3,31,10,DDLDWWLLLDDWWWDWLWDWW,4,4,2,10,5,LDWDWLWDWWW,DLWLLDWDLD
+Troyes,Auxerre,3-1,/match/troyes/auxerre/2021,2021,22,ligue_2,20,27,0,3,1,1,13,5,3,30,15,WWWWWDLDLDLWLWDWWWDWL,8,2,0,17,6,5,10,6,5,41,24,LLLWWWWWDWLDDWDWLDDWW,3,4,3,14,14,WWWDDWWWWW,LWWDLDDLDW
+Ajaccio,Grenoble,2-1,/match/ajaccio/grenoble-foot-38/2021,2021,22,ligue_2,20,27,0,2,1,12,6,7,8,18,26,LWWWDWLLLLDDDDWWDWDWW,4,3,3,9,9,4,11,5,5,29,17,WWLWWWWWDWLDLDWDWWDWW,3,3,5,7,11,LWDLLDDWWW,WLWWDLLDDWW
+Amiens SC,Chateauroux,1-0,/match/amiens-sc/berrichonne-chateauroux/2021,2021,22,ligue_2,20,27,0,1,0,9,7,7,7,20,18,WWLDDWWLLWDWWLDLDDLDW,3,5,2,6,5,20,3,5,13,18,35,LLWDWWDLWLWDLWLDLWLWD,1,3,6,7,16,WLDWLDWDDD,LWWDWDWDWW
+Chambly,Caen,4-2,/match/chambly/caen/2021,2021,22,ligue_2,20,27,0,4,2,18,4,8,9,22,32,LDLDWWLWLDDDWLDWDLLDW,3,2,6,10,15,7,7,7,7,21,24,DWLDWWWWWWLDWDDLLDDWL,3,2,5,10,13,LLWLLDWLWLD,DLWWWLWLDW
+Guingamp,Pau FC,2-3,/match/guingamp/pau/2021,2021,22,ligue_2,20,27,2,2,3,16,4,10,7,22,27,LDLLWWWWDDDDLDDWWDLDD,2,5,3,10,11,19,3,5,13,15,32,WDWLDDWWWLLDWWDWLWLWL,1,2,8,7,19,LLWWDDLDDD,WWDWWLDWWWW
+Nancy,Paris FC,1-1,/match/nancy/paris-sg/2021,2021,22,ligue_2,20,27,1,1,1,17,4,8,9,26,32,WDWLLDWWWWLWLDDWDLDDD,2,5,3,18,20,6,10,5,6,30,24,LWLLDWWLWLLDDWDWWWDWW,4,2,4,13,12,DLWWLLDDDD,LLDLLDWWWW
+Niort,Le Havre,0-0,/match/chamois-niortais/havre-ac/2021,2021,22,ligue_2,20,27,1,0,0,11,7,6,7,23,29,LDWLDWWWDLLWWWWWDLDD,4,3,2,11,7,13,6,7,8,18,26,WWLLLWDLWWLWDDDWDLLDD,4,2,5,11,17,DWDWDLWWL,WLLWLWWDWLD
+Rodez,Sochaux,1-1,/match/rodez/sochaux/2021,2021,22,ligue_2,20,27,1,1,1,14,4,10,7,20,29,WDLDWWLWDLDDWLDDDDDWL,3,4,4,10,13,8,6,10,5,26,20,LWDDDWDLDLWWDDDDLWDWL,2,6,2,9,6,WLWLDLDLDDW,LDDDDWDDLW
+Valenciennes,Dunkerque,1-0,/match/valenciennes-afc/dunkerque/2021,2021,22,ligue_2,20,27,0,1,0,10,7,7,6,27,25,WWWWWWDDLLDDDLDLLLWD,4,3,3,12,10,15,7,3,11,18,27,LDWWWWWLLLLDWWWLLWDWW,3,0,7,6,17,WWWDLDDLLW,LWWWLLWWWW
+Auxerre,Toulouse,3-1,/match/auxerre/toulouse-fc/2021,2021,23,ligue_2,20,27,0,3,1,5,10,6,6,42,27,LLLWWWWWDWLDDWDWLDDWWW,7,2,2,27,10,2,13,6,3,43,25,LWDDWDLWLLDWLDLWLWDWLW,6,3,1,19,10,LLWWWWDWWDW,WDLLDLLLDL
+Caen,Valenciennes,1-1,/match/caen/valenciennes-afc/2021,2021,23,ligue_2,20,27,1,1,1,11,7,7,8,23,28,DWLDWWWWWWLDWDDLLDDWLW,4,5,2,11,11,8,8,7,6,28,25,WWWWWWDDLLDDDLDLLLWDW,3,4,3,15,15,WDWWWDDDLDL,WWWDLDLDLD
+Chateauroux,Chambly,4-0,/match/berrichonne-chateauroux/chambly/2021,2021,23,ligue_2,20,27,0,4,0,20,3,5,14,18,36,LLWDWWDLWLWDLWLDLWLWDW,2,2,7,11,19,16,5,8,9,26,34,LDLDWWLWLDDDWLDWDLLDWW,1,6,3,12,17,LDWLLWLLLLD,DDWWDDDDLW
+Clermont,Troyes,2-1,/match/clermont-foot/troyes/2021,2021,23,ligue_2,20,27,0,2,1,3,11,7,4,33,13,DDLDWWLLLDDWWWDWLWDWWW,7,3,1,21,5,1,14,5,3,33,16,WWWWWDLDLDLWLWDWWWDWLW,5,3,3,13,9,DDWLDWWWWWW,WWDLLLLDWDL
+Dunkerque,Rodez,0-0,/match/dunkerque/rodez/2021,2021,23,ligue_2,20,27,1,0,0,15,7,3,12,18,28,LDWWWWWLLLLDWWWLLWDWWW,4,3,4,12,10,13,4,11,7,21,30,WDLDWWLWDLDDWLDDDDDWLD,1,6,3,10,16,DWWLLDWLLDW,DDWWDWDDDL
+Grenoble,Guingamp,2-1,/match/grenoble-foot-38/guingamp/2021,2021,23,ligue_2,20,27,0,2,1,4,11,5,6,30,19,WWLWWWWWDWLDLDWDWWDWWW,8,2,0,22,6,17,4,10,8,24,30,LDLLWWWWDDDDLDDWWDLDDL,2,5,4,12,16,WWWWWDWWDW,DLWWDDDWWLD
+Le Havre,Nancy,1-1,/match/havre-ac/nancy/2021,2021,23,ligue_2,20,27,1,1,1,14,6,8,8,18,26,WWLLLWDLWWLWDDDWDLLDDD,2,5,3,7,9,18,4,9,9,27,33,WDWLLDWWWWLWLDDWDLDDDD,2,3,6,8,12,WLDWLDDDLD,WWLDWWWDWLD
+Paris FC,Niort,3-3,/match/paris-sg/chamois-niortais/2021,2021,23,ligue_2,20,27,1,3,3,6,10,6,6,31,25,LWLLDWWLWLLDDWDWWWDWWD,6,3,2,17,12,12,7,7,7,23,29,LDWLDWWWDLLWWWWWDLDDD,3,3,5,12,22,WLWWWLDDWDW,LLWWLWWWDDD
+Pau FC,Amiens SC,2-0,/match/pau/amiens-sc/2021,2021,23,ligue_2,20,27,0,2,0,19,4,5,13,18,34,WDWLDDWWWLLDWWDWLWLWLL,2,3,5,8,13,7,8,7,7,21,18,WWLDDWWLLWDWWLDLDDLDWW,4,2,5,14,13,DLDWLWDLLL,WDWLWWLLDLW
+Sochaux,Ajaccio,0-2,/match/sochaux/ajaccio/2021,2021,23,ligue_2,20,27,2,0,2,9,6,11,5,27,21,LWDDDWDLDLWWDDDDLWDWLD,4,4,3,17,14,10,7,7,8,20,27,LWWWDWLLLLDDDDWWDWDWWW,2,4,5,9,17,WDWLLWDDWDL,WWWLLDDWDDW
+Ajaccio,Auxerre,0-0,/match/ajaccio/auxerre/2021,2021,24,ligue_2,20,27,1,0,0,8,8,7,8,22,27,LWWWDWLLLLDDDDWWDWDWWWL,5,3,3,11,10,5,11,6,6,45,28,LLLWWWWWDWLDDWDWLDDWWWW,3,4,4,15,17,LWDLLDDWWWW,LWWDLDDLDWW
+Amiens SC,Caen,0-0,/match/amiens-sc/caen/2021,2021,24,ligue_2,20,27,1,0,0,10,8,7,8,21,20,WWLDDWWLLWDWWLDLDDLDWWW,4,5,2,7,5,9,7,8,8,24,29,DWLDWWWWWWLDWDDLLDDWLWD,3,2,6,12,17,WLDWLDWDDDW,DLWWWLWLDWW
+Chambly,Sochaux,1-4,/match/chambly/sochaux/2021,2021,24,ligue_2,20,27,2,1,4,16,5,8,10,26,38,LDLDWWLWLDDDWLDWDLLDWWW,4,2,6,14,17,11,6,11,6,27,23,LWDDDWDLDLWWDDDDLWDWLDL,2,7,2,10,7,LLWLLDWLWLDW,LDDDDWDDLWD
+Guingamp,Dunkerque,0-0,/match/guingamp/dunkerque/2021,2021,24,ligue_2,20,27,1,0,0,18,4,10,9,25,32,LDLLWWWWDDDDLDDWWDLDDLW,2,5,4,12,14,15,7,4,12,18,28,LDWWWWWLLLLDWWWLLWDWWWD,3,0,8,6,18,LLWWDDLDDDL,LWWWLLWWWWW
+Nancy,Pau FC,1-0,/match/nancy/pau/2021,2021,24,ligue_2,20,27,0,1,0,17,4,10,9,28,34,WDWLLDWWWWLWLDDWDLDDDDD,2,6,3,19,21,19,5,5,13,20,34,WDWLDDWWWLLDWWDWLWLWLLW,2,2,8,10,21,DLWWLLDDDDD,WWDWWLDWWWWL
+Niort,Chateauroux,1-1,/match/chamois-niortais/berrichonne-chateauroux/2021,2021,24,ligue_2,20,27,1,1,1,12,7,8,7,26,32,LDWLDWWWDLLWWWWWDLDDDD,4,4,2,11,7,20,4,5,14,22,36,LLWDWWDLWLWDLWLDLWLWDWW,1,3,7,7,17,DWDWDLWWLD,LWWDWDWDWWW
+Rodez,Clermont,2-0,/match/rodez/clermont-foot/2021,2021,24,ligue_2,20,27,0,2,0,13,4,12,7,21,30,WDLDWWLWDLDDWLDDDDDWLDD,3,5,4,11,14,2,12,7,4,35,14,DDLDWWLLLDDWWWDWLWDWWWW,4,4,3,12,8,WLWLDLDLDDWD,DLWLLDWDLDW
+Valenciennes,Grenoble,0-1,/match/valenciennes-afc/grenoble-foot-38/2021,2021,24,ligue_2,20,27,2,0,1,7,8,8,6,29,26,WWWWWWDDLLDDDLDLLLWDWD,5,3,3,13,10,3,12,5,6,32,20,WWLWWWWWDWLDLDWDWWDWWWW,3,3,6,8,13,WWWDLDDLLWW,WLWWDLLDDWWW
+Le Havre,Paris FC,1-0,/match/havre-ac/paris-sg/2021,2021,24,ligue_2,20,27,0,1,0,14,6,9,8,19,27,WWLLLWDLWWLWDDDWDLLDDDD,2,6,3,8,10,6,10,7,6,34,28,LWLLDWWLWLLDDWDWWWDWWDD,4,3,4,14,13,WLDWLDDDLDD,LLDLLDWWWWD
+Troyes,Toulouse,1-1,/match/troyes/toulouse-fc/2021,2021,24,ligue_2,20,27,1,1,1,1,14,5,4,34,18,WWWWWDLDLDLWLWDWWWDWLWW,9,2,0,20,7,4,13,6,4,44,28,LWDDWDLWLLDWLDLWLWDWLWW,6,3,2,20,13,WWWDDWWWWWW,WDLLDLLLDLW
+Auxerre,Guingamp,1-1,/match/auxerre/guingamp/2021,2021,25,ligue_2,20,27,1,1,1,5,11,7,6,45,28,LLLWWWWWDWLDDWDWLDDWWWWD,8,2,2,30,11,17,4,11,9,25,32,LDLLWWWWDDDDLDDWWDLDDLWD,2,5,5,13,18,LLWWWWDWWDWW,DLWWDDDWWLDW
+Caen,Niort,1-0,/match/caen/chamois-niortais/2021,2021,25,ligue_2,20,27,0,1,0,10,7,9,8,24,29,DWLDWWWWWWLDWDDLLDDWLWDD,4,6,2,12,12,12,7,9,7,27,33,LDWLDWWWDLLWWWWWDLDDDDD,3,4,5,15,25,WDWWWDDDLDLD,LLWWLWWWDDDD
+Chateauroux,Le Havre,0-1,/match/berrichonne-chateauroux/havre-ac/2021,2021,25,ligue_2,20,27,2,0,1,20,4,6,14,23,37,LLWDWWDLWLWDLWLDLWLWDWWD,3,2,7,15,19,14,7,9,8,20,27,WWLLLWDLWWLWDDDWDLLDDDDW,4,3,5,11,17,LDWLLWLLLLDW,WLLWLWWDWLDD
+Clermont,Chambly,1-0,/match/clermont-foot/chambly/2021,2021,25,ligue_2,20,27,0,1,0,4,12,7,5,35,16,DDLDWWLLLDDWWWDWLWDWWWWW,8,3,1,23,6,18,5,8,11,27,42,LDLDWWLWLDDDWLDWDLLDWWWL,1,6,4,12,21,DDWLDWWWWWWW,DDWWDDDDLWW
+Dunkerque,Nancy,1-2,/match/dunkerque/nancy/2021,2021,25,ligue_2,20,27,2,1,2,16,7,5,12,18,28,LDWWWWWLLLLDWWWLLWDWWWDD,4,4,4,12,10,15,5,10,9,29,34,WDWLLDWWWWLWLDDWDLDDDDDW,2,4,6,9,13,DWWLLDWLLDWD,WWLDWWWDWLDD
+Grenoble,Amiens SC,0-0,/match/grenoble-foot-38/amiens-sc/2021,2021,25,ligue_2,20,27,1,0,0,2,13,5,6,33,20,WWLWWWWWDWLDLDWDWWDWWWWL,9,2,0,24,7,7,8,8,8,21,20,WWLDDWWLLWDWWLDLDDLDWWWD,4,2,6,14,15,WWWWWDWWDWW,WDWLWWLLDLWW
+Pau FC,Paris FC,1-1,/match/pau/paris-sg/2021,2021,25,ligue_2,20,27,1,1,1,19,5,5,14,20,35,WDWLDDWWWLLDWWDWLWLWLLWW,3,3,5,10,13,6,10,7,7,34,29,LWLLDWWLWLLDDWDWWWDWWDDW,4,3,5,14,14,DLDWLWDLLLW,LLDLLDWWWWDW
+Troyes,Rodez,2-1,/match/troyes/rodez/2021,2021,25,ligue_2,20,27,0,2,1,1,14,6,4,35,19,WWWWWDLDLDLWLWDWWWDWLWWD,9,3,0,21,8,13,5,12,7,23,30,WDLDWWLWDLDDWLDDDDDWLDDW,1,7,3,10,16,WWWDDWWWWWWD,DDWWDWDDDLD
+Sochaux,Valenciennes,2-0,/match/sochaux/valenciennes-afc/2021,2021,25,ligue_2,20,27,0,2,0,9,7,11,6,31,24,LWDDDWDLDLWWDDDDLWDWLDLL,4,4,4,17,16,11,8,8,7,29,27,WWWWWWDDLLDDDLDLLLWDWDL,3,5,3,16,16,WDWLLWDDWDLL,WWWDLDLDLDD
+Toulouse,Ajaccio,3-0,/match/toulouse-fc/ajaccio/2021,2021,25,ligue_2,20,27,0,3,0,3,13,7,4,45,29,LWDDWDLWLLDWLDLWLWDWLWWD,7,3,2,24,15,8,8,8,8,22,27,LWWWDWLLLLDDDDWWDWDWWWLD,3,4,5,11,17,LDWDWLWDWWWW,WWWLLDDWDDWL
+Valenciennes,Troyes,2-2,/match/valenciennes-afc/troyes/2021,2021,26,ligue_2,20,27,1,2,2,12,8,8,8,29,29,WWWWWWDDLLDDDLDLLLWDWDLW,5,3,4,13,11,1,15,6,4,37,20,WWWWWDLDLDLWLWDWWWDWLWWDW,5,3,4,14,11,WWWDLDDLLWWL,WWDLLLLDWDLW
+Ajaccio,Clermont,0-2,/match/ajaccio/clermont-foot/2021,2021,26,ligue_2,20,27,2,0,2,10,8,8,9,22,30,LWWWDWLLLLDDDDWWDWDWWWLDW,5,4,3,11,10,3,13,7,5,36,16,DDLDWWLLLDDWWWDWLWDWWWWWW,4,4,4,12,10,LWDLLDDWWWWD,DLWLLDWDLDWW
+Amiens SC,Sochaux,0-1,/match/amiens-sc/sochaux/2021,2021,26,ligue_2,20,27,2,0,1,9,8,9,8,21,20,WWLDDWWLLWDWWLDLDDLDWWWDD,4,6,2,7,5,7,8,11,6,33,24,LWDDDWDLDLWWDDDDLWDWLDLLW,3,7,2,14,8,WLDWLDWDDDWD,LDDDDWDDLWDL
+Chambly,Auxerre,0-1,/match/chambly/auxerre/2021,2021,26,ligue_2,20,27,2,0,1,18,5,8,12,27,43,LDLDWWLWLDDDWLDWDLLDWWWLW,4,2,7,15,21,5,11,8,6,46,29,LLLWWWWWDWLDDWDWLDDWWWWDD,3,5,4,15,17,LLWLLDWLWLDWL,LWWDLDDLDWWD
+Le Havre,Dunkerque,1-1,/match/havre-ac/dunkerque/2021,2021,26,ligue_2,20,27,1,1,1,11,8,9,8,21,27,WWLLLWDLWWLWDDDWDLLDDDDWL,3,6,3,9,10,16,7,5,13,19,30,LDWWWWWLLLLDWWWLLWDWWWDDL,3,1,8,6,18,WLDWLDDDLDDW,LWWWLLWWWWWD
+Nancy,Grenoble,1-2,/match/nancy/grenoble-foot-38/2021,2021,26,ligue_2,20,27,2,1,2,15,6,10,9,31,35,WDWLLDWWWWLWLDDWDLDDDDDWL,3,6,3,20,21,4,13,6,6,33,20,WWLWWWWWDWLDLDWDWWDWWWWLD,4,3,6,9,13,DLWWLLDDDDDW,WLWWDLLDDWWWL
+Niort,Pau FC,2-1,/match/chamois-niortais/pau/2021,2021,26,ligue_2,20,27,0,2,1,13,7,9,8,27,34,LDWLDWWWDLLWWWWWDLDDDDDW,4,5,2,12,8,19,5,6,14,21,36,WDWLDDWWWLLDWWDWLWLWLLWWD,2,2,9,10,22,DWDWDLWWLDD,WWDWWLDWWWWLW
+Paris FC,Chateauroux,1-0,/match/paris-sg/berrichonne-chateauroux/2021,2021,26,ligue_2,20,27,0,1,0,6,10,8,7,35,30,LWLLDWWLWLLDDWDWWWDWWDDWD,6,4,2,20,15,20,4,6,15,23,38,LLWDWWDLWLWDLWLDLWLWDWWDL,1,4,7,8,18,WLWWWLDDWDWD,LWWDWDWDWWWD
+Rodez,Toulouse,1-0,/match/rodez/toulouse-fc/2021,2021,26,ligue_2,20,27,0,1,0,14,5,12,8,24,32,WDLDWWLWDLDDWLDDDDDWLDDWW,4,5,4,13,14,2,14,7,4,48,29,LWDDWDLWLLDWLDLWLWDWLWWDW,6,4,2,21,14,WLWLDLDLDDWDW,WDLLDLLLDLWD
+Guingamp,Caen,2-2,/match/guingamp/caen/2021,2021,26,ligue_2,20,27,1,2,2,17,4,12,9,26,33,LDLLWWWWDDDDLDDWWDLDDLWDD,2,6,4,12,14,8,8,9,8,25,29,DWLDWWWWWWLDWDDLLDDWLWDDW,3,3,6,12,17,LLWWDDLDDDLD,DLWWWLWLDWWD
+Toulouse,Amiens SC,3-0,/match/toulouse-fc/amiens-sc/2021,2021,27,ligue_2,20,27,0,3,0,4,14,7,5,48,30,LWDDWDLWLLDWLDLWLWDWLWWDWW,8,3,2,27,15,13,8,9,9,21,21,WWLDDWWLLWDWWLDLDDLDWWWDDL,4,3,6,14,15,LDWDWLWDWWWWW,WDWLWWLLDLWWD
+Troyes,Ajaccio,1-0,/match/troyes/ajaccio/2021,2021,27,ligue_2,20,27,0,1,0,1,15,7,4,39,22,WWWWWDLDLDLWLWDWWWDWLWWDWD,10,3,0,23,9,14,8,8,10,22,32,LWWWDWLLLLDDDDWWDWDWWWLDWL,3,4,6,11,20,WWWDDWWWWWWDW,WWWLLDDWDDWLW
+Auxerre,Rodez,0-1,/match/auxerre/rodez/2021,2021,27,ligue_2,20,27,2,0,1,5,12,8,6,47,29,LLLWWWWWDWLDDWDWLDDWWWWDDL,8,3,2,31,12,11,6,12,8,25,32,WDLDWWLWDLDDWLDDDDDWLDDWWW,1,7,4,11,18,LLWWWWDWWDWWD,DDWWDWDDDLDW
+Caen,Paris FC,0-2,/match/caen/paris-sg/2021,2021,27,ligue_2,20,27,2,0,2,8,8,10,8,27,31,DWLDWWWWWWLDWDDLLDDWLWDDWD,5,6,2,13,12,6,11,8,7,36,30,LWLLDWWLWLLDDWDWWWDWWDDWDW,4,4,5,15,15,WDWWWDDDLDLDW,LLDLLDWWWWDWD
+Chateauroux,Nancy,1-4,/match/berrichonne-chateauroux/nancy/2021,2021,27,ligue_2,20,27,2,1,4,20,4,6,16,23,39,LLWDWWDLWLWDLWLDLWLWDWWDLW,3,2,8,15,20,15,6,10,10,32,37,WDWLLDWWWWLWLDDWDLDDDDDWLL,3,4,6,11,14,LDWLLWLLLLDWL,WWLDWWWDWLDDL
+Clermont,Valenciennes,4-0,/match/clermont-foot/valenciennes-afc/2021,2021,27,ligue_2,20,27,0,4,0,2,14,7,5,38,16,DDLDWWLLLDDWWWDWLWDWWWWWWL,9,3,1,24,6,10,8,9,8,31,31,WWWWWWDDLLDDDLDLLLWDWDLWD,3,5,4,16,18,DDWLDWWWWWWWW,WWWDLDLDLDDW
+Dunkerque,Chambly,1-1,/match/dunkerque/chambly/2021,2021,27,ligue_2,20,27,1,1,1,16,7,6,13,20,31,LDWWWWWLLLLDWWWLLWDWWWDDLD,4,4,5,13,12,18,5,8,13,27,44,LDLDWWLWLDDDWLDWDLLDWWWLWL,1,6,5,12,22,DWWLLDWLLDWDL,DDWWDDDDLWWW
+Grenoble,Niort,1-1,/match/grenoble-foot-38/chamois-niortais/2021,2021,27,ligue_2,20,27,1,1,1,3,14,6,6,35,21,WWLWWWWWDWLDLDWDWWDWWWWLDL,9,3,0,24,7,9,8,9,8,29,35,LDWLDWWWDLLWWWWWDLDDDDDWW,3,4,6,15,26,WWWWWDWWDWWD,LLWWLWWWDDDDW
+Pau FC,Le Havre,2-0,/match/pau/havre-ac/2021,2021,27,ligue_2,20,27,0,2,0,19,5,6,15,22,38,WDWLDDWWWLLDWWDWLWLWLLWWDW,3,4,5,11,14,12,8,10,8,22,28,WWLLLWDLWWLWDDDWDLLDDDDWLD,5,3,5,12,17,DLDWLWDLLLWD,WLLWLWWDWLDDL
+Sochaux,Guingamp,0-0,/match/sochaux/guingamp/2021,2021,27,ligue_2,20,27,1,0,0,7,9,11,6,34,24,LWDDDWDLDLWWDDDDLWDWLDLLWL,5,4,4,19,16,17,4,13,9,28,35,LDLLWWWWDDDDLDDWWDLDDLWDDD,2,6,5,14,19,WDWLLWDDWDLLW,DLWWDDDWWLDWD

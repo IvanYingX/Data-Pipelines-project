@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Pisa,Benevento,0-0,/match/pisa-calcio/benevento-calcio/2020,2020,1,serie_b,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Crotone,Nuova Cosenza,0-0,/match/fc-crotone/nuova-cosenza/2020,2020,1,serie_b,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Salernitana,Pescara,3-1,/match/salernitana-calcio-1919/pescara-calcio/2020,2020,1,serie_b,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ascoli,Trapani,3-1,/match/ascoli/trapani/2020,2020,1,serie_b,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cittadella,Spezia,0-3,/match/as-cittadella/asd-spezia/2020,2020,1,serie_b,20,38,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Venezia,Cremonese,1-2,/match/venezia/us-cremonese/2020,2020,1,serie_b,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Virtus Entella,Livorno,1-0,/match/virtus-entella/livorno/2020,2020,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Empoli,Juve Stabia,2-1,/match/empoli-fc/ss-juve-stabia/2020,2020,1,serie_b,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Perugia,Chievo,2-1,/match/perugia/chievo/2020,2020,1,serie_b,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Pordenone,Frosinone,3-0,/match/pordenone/frosinone-calcio/2020,2020,1,serie_b,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chievo,Empoli,1-1,/match/chievo/empoli-fc/2020,2020,2,serie_b,20,38,1,1,1,20,0,0,1,1,2,W,0,0,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,,
+Benevento,Cittadella,4-1,/match/benevento-calcio/as-cittadella/2020,2020,2,serie_b,20,38,0,4,1,12,0,1,0,0,0,D,0,0,0,0,0,13,0,0,1,0,3,L,0,0,0,0,0,,
+Spezia,Crotone,1-2,/match/asd-spezia/fc-crotone/2020,2020,2,serie_b,20,38,2,1,2,8,1,0,0,3,0,L,0,0,0,0,0,10,0,1,0,0,0,D,0,0,0,0,0,,
+Nuova Cosenza,Salernitana,0-1,/match/nuova-cosenza/salernitana-calcio-1919/2020,2020,2,serie_b,20,38,2,0,1,11,0,1,0,0,0,D,0,0,0,0,0,4,1,0,0,3,1,W,0,0,0,0,0,,
+Cremonese,Virtus Entella,0-1,/match/us-cremonese/virtus-entella/2020,2020,2,serie_b,20,38,2,0,1,9,1,0,0,2,1,L,0,0,0,0,0,6,1,0,0,1,0,W,0,0,0,0,0,,
+Livorno,Perugia,0-1,/match/livorno/perugia/2020,2020,2,serie_b,20,38,2,0,1,15,0,0,1,0,1,W,0,0,0,0,0,3,1,0,0,2,1,W,0,0,0,0,0,,
+Trapani,Venezia,0-1,/match/trapani/venezia/2020,2020,2,serie_b,20,38,2,0,1,19,0,0,1,1,3,W,0,0,0,0,0,17,0,0,1,1,2,L,0,0,0,0,0,,
+Juve Stabia,Pisa,0-2,/match/ss-juve-stabia/pisa-calcio/2020,2020,2,serie_b,20,38,2,0,2,14,0,0,1,1,2,W,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
+Pescara,Pordenone,4-2,/match/pescara-calcio/pordenone/2020,2020,2,serie_b,20,38,0,4,2,18,0,0,1,1,3,W,0,0,0,0,0,1,1,0,0,3,0,W,0,0,0,0,0,,
+Frosinone,Ascoli,2-1,/match/frosinone-calcio/ascoli/2020,2020,2,serie_b,20,38,0,2,1,16,0,0,1,0,3,W,0,0,0,0,0,5,1,0,0,3,1,W,0,0,0,0,0,,
+Pordenone,Spezia,1-0,/match/pordenone/asd-spezia/2020,2020,3,serie_b,20,38,0,1,0,6,1,0,1,5,4,WW,1,0,0,3,0,15,1,0,1,4,2,LL,1,0,0,3,0,W,L
+Ascoli,Livorno,2-0,/match/ascoli/livorno/2020,2020,3,serie_b,20,38,0,2,0,8,1,0,1,4,3,WW,1,0,0,3,1,18,0,0,2,0,2,WL,0,0,1,0,1,W,W
+Cittadella,Trapani,2-0,/match/as-cittadella/trapani/2020,2020,3,serie_b,20,38,0,2,0,19,0,0,2,1,7,LW,0,0,1,0,3,20,0,0,2,1,4,WL,0,0,1,1,3,L,W
+Perugia,Juve Stabia,0-0,/match/perugia/ss-juve-stabia/2020,2020,3,serie_b,20,38,1,0,0,1,2,0,0,3,1,WL,1,0,0,2,1,17,0,0,2,1,4,WL,0,0,1,1,2,W,W
+Virtus Entella,Frosinone,1-0,/match/virtus-entella/frosinone-calcio/2020,2020,3,serie_b,20,38,0,1,0,3,2,0,0,2,0,WL,1,0,0,1,0,7,1,0,1,2,4,WW,0,0,1,0,3,W,W
+Venezia,Chievo,0-2,/match/venezia/chievo/2020,2020,3,serie_b,20,38,2,0,2,12,1,0,1,2,2,LL,0,0,1,1,2,13,0,1,1,2,3,WD,0,0,1,1,2,L,W
+Nuova Cosenza,Pescara,1-2,/match/nuova-cosenza/pescara-calcio/2020,2020,3,serie_b,20,38,2,1,2,16,0,1,1,0,1,DL,0,0,1,0,1,10,1,0,1,5,5,WW,0,0,1,1,3,L,W
+Crotone,Empoli,0-0,/match/fc-crotone/empoli-fc/2020,2020,3,serie_b,20,38,1,0,0,11,1,1,0,2,1,DL,0,1,0,0,0,4,1,1,0,3,2,WD,0,1,0,1,1,D,D
+Pisa,Cremonese,4-1,/match/pisa-calcio/us-cremonese/2020,2020,3,serie_b,20,38,0,4,1,9,1,1,0,2,0,DL,0,1,0,0,0,14,1,0,1,2,2,LL,1,0,0,2,1,D,L
+Salernitana,Benevento,0-2,/match/salernitana-calcio-1919/benevento-calcio/2020,2020,3,serie_b,20,38,2,0,2,2,2,0,0,4,1,WL,1,0,0,3,1,5,1,1,0,4,1,DW,0,1,0,0,0,W,D
+Frosinone,Venezia,1-1,/match/frosinone-calcio/venezia/2020,2020,4,serie_b,20,38,1,1,1,11,1,0,2,2,5,WWW,1,0,0,2,1,14,1,0,2,2,4,LLL,1,0,0,1,0,W,L
+Benevento,Nuova Cosenza,1-0,/match/benevento-calcio/nuova-cosenza/2020,2020,4,serie_b,20,38,0,1,0,6,2,1,0,6,1,DWL,1,0,0,4,1,17,0,1,2,1,3,DLL,0,1,0,0,0,W,D
+Cremonese,Crotone,2-1,/match/us-cremonese/fc-crotone/2020,2020,4,serie_b,20,38,0,2,1,15,1,0,2,3,6,LLW,0,0,1,0,1,9,1,2,0,2,1,DLD,1,0,0,2,1,L,L
+Empoli,Cittadella,1-0,/match/empoli-fc/as-cittadella/2020,2020,4,serie_b,20,38,0,1,0,10,1,2,0,3,2,WDD,1,0,0,2,1,13,1,0,2,3,7,LWW,0,0,1,1,4,W,W
+Juve Stabia,Ascoli,1-5,/match/ss-juve-stabia/ascoli/2020,2020,4,serie_b,20,38,2,1,5,18,0,1,2,1,4,WLD,0,0,1,0,2,5,2,0,1,6,3,WWW,0,0,1,1,2,L,W
+Livorno,Pordenone,2-1,/match/livorno/pordenone/2020,2020,4,serie_b,20,38,0,2,1,19,0,0,3,0,4,WLW,0,0,1,0,1,4,2,0,1,6,4,WWW,0,0,1,2,4,L,W
+Pescara,Virtus Entella,1-1,/match/pescara-calcio/virtus-entella/2020,2020,4,serie_b,20,38,1,1,1,8,2,0,1,7,6,WWL,1,0,0,4,2,1,3,0,0,3,0,WLW,1,0,0,1,0,W,L
+Spezia,Perugia,2-2,/match/asd-spezia/perugia/2020,2020,4,serie_b,20,38,1,2,2,16,1,0,2,4,3,LLW,0,0,1,1,2,2,2,1,0,3,1,WLD,1,0,0,1,0,L,L
+Chievo,Pisa,2-2,/match/chievo/pisa-calcio/2020,2020,4,serie_b,20,38,1,2,2,12,1,1,1,4,3,WDL,0,1,0,1,1,3,2,1,0,6,1,DLW,1,0,0,2,0,D,L
+Trapani,Salernitana,0-1,/match/trapani/salernitana-calcio-1919/2020,2020,4,serie_b,20,38,2,0,1,20,0,0,3,1,6,WLW,0,0,1,0,1,7,2,0,1,4,3,WLL,1,0,0,1,0,L,L
+Ascoli,Spezia,3-0,/match/ascoli/asd-spezia/2020,2020,5,serie_b,20,38,0,3,0,3,3,0,1,11,4,WWWL,2,0,0,5,1,15,1,1,2,6,5,LLWD,1,0,1,3,1,WW,LW
+Cittadella,Pescara,2-1,/match/as-cittadella/pescara-calcio/2020,2020,5,serie_b,20,38,0,2,1,14,1,0,3,3,8,LWWW,1,0,1,2,3,9,2,1,1,8,7,WWLD,1,0,1,3,4,LW,WL
+Nuova Cosenza,Livorno,1-1,/match/nuova-cosenza/livorno/2020,2020,5,serie_b,20,38,1,1,1,18,0,1,3,1,4,DLLW,0,0,2,1,3,16,1,0,3,2,5,WLWW,0,0,2,0,3,LL,WW
+Crotone,Juve Stabia,2-0,/match/fc-crotone/ss-juve-stabia/2020,2020,5,serie_b,20,38,0,2,0,13,1,2,1,3,3,DLDW,0,2,0,0,0,19,0,1,3,2,9,WLDL,0,1,1,1,2,DD,WD
+Perugia,Frosinone,3-1,/match/perugia/frosinone-calcio/2020,2020,5,serie_b,20,38,0,3,1,6,2,2,0,5,3,WLDD,1,1,0,2,1,12,1,1,2,3,6,WWWD,0,0,2,0,4,WD,WW
+Pisa,Empoli,2-3,/match/pisa-calcio/empoli-fc/2020,2020,5,serie_b,20,38,2,2,3,5,2,2,0,8,3,DLWD,1,1,0,4,1,4,2,2,0,4,2,WDDW,0,2,0,1,1,DW,DD
+Pordenone,Benevento,1-1,/match/pordenone/benevento-calcio/2020,2020,5,serie_b,20,38,1,1,1,7,2,0,2,7,6,WWWW,2,0,0,4,0,2,3,1,0,7,1,DWLW,1,1,0,2,0,WW,DL
+Virtus Entella,Venezia,0-2,/match/virtus-entella/venezia/2020,2020,5,serie_b,20,38,2,0,2,1,3,1,0,4,1,WLWD,2,0,0,2,0,17,1,1,2,3,5,LLLD,1,1,0,2,1,WW,LD
+Trapani,Cremonese,0-0,/match/trapani/us-cremonese/2020,2020,5,serie_b,20,38,1,0,0,20,0,0,4,1,7,WLWL,0,0,2,0,2,11,2,0,2,5,7,LLWW,1,0,1,3,5,LL,LW
+Salernitana,Chievo,1-1,/match/salernitana-calcio-1919/chievo/2020,2020,5,serie_b,20,38,1,1,1,8,3,0,1,5,3,WLLL,1,0,1,3,3,10,1,2,1,6,5,WDLD,1,0,1,3,2,WL,WL
+Pescara,Crotone,0-3,/match/pescara-calcio/fc-crotone/2020,2020,6,serie_b,20,38,2,0,3,10,2,1,2,9,9,WWLDW,1,1,0,5,3,6,2,2,1,5,3,DLDWW,1,0,1,3,3,WD,LW
+Frosinone,Nuova Cosenza,1-1,/match/frosinone-calcio/nuova-cosenza/2020,2020,6,serie_b,20,38,1,1,1,14,1,1,3,4,9,WWWDW,1,1,0,3,2,18,0,2,3,2,5,DLLWD,0,1,1,0,1,WD,DW
+Juve Stabia,Cittadella,0-1,/match/ss-juve-stabia/as-cittadella/2020,2020,6,serie_b,20,38,2,0,1,20,0,1,4,2,11,WLDLW,0,0,2,1,7,11,2,0,3,5,9,LWWWW,0,0,2,1,5,LL,WW
+Venezia,Pisa,1-1,/match/venezia/pisa-calcio/2020,2020,6,serie_b,20,38,1,1,1,16,2,1,2,5,5,LLLDL,0,0,2,1,4,9,2,2,1,10,6,DLWDL,1,1,0,4,2,LL,LD
+Empoli,Perugia,3-0,/match/empoli-fc/perugia/2020,2020,6,serie_b,20,38,0,3,0,3,3,2,0,7,4,WDDWL,2,0,0,3,1,2,3,2,0,8,4,WLDDW,1,1,0,3,2,WW,LD
+Benevento,Virtus Entella,1-1,/match/benevento-calcio/virtus-entella/2020,2020,6,serie_b,20,38,1,1,1,4,3,2,0,8,2,DWLWD,2,0,0,5,1,5,3,1,1,4,3,WLWDL,1,1,0,2,1,WW,LD
+Chievo,Pordenone,1-1,/match/chievo/pordenone/2020,2020,6,serie_b,20,38,1,1,1,13,1,3,1,7,6,WDLDD,0,2,0,3,3,7,2,1,2,8,7,WWWWD,0,0,2,3,6,DD,WW
+Spezia,Trapani,2-4,/match/asd-spezia/trapani/2020,2020,6,serie_b,20,38,2,2,4,17,1,1,3,6,8,LLWDW,0,1,1,3,4,19,0,1,4,1,7,WLWLD,0,0,2,1,5,LD,WW
+Livorno,Salernitana,2-3,/match/livorno/salernitana-calcio-1919/2020,2020,6,serie_b,20,38,2,2,3,15,1,1,3,3,6,WLWWD,1,0,1,2,2,8,3,1,1,6,4,WLLLD,2,0,0,2,0,LW,LL
+Cremonese,Ascoli,1-0,/match/us-cremonese/ascoli/2020,2020,6,serie_b,20,38,0,1,0,12,2,1,2,5,7,LLWWD,1,0,1,2,2,1,4,0,1,14,4,WWWLW,1,0,1,6,3,LW,WL
+Perugia,Pisa,1-0,/match/perugia/pisa-calcio/2020,2020,7,serie_b,20,38,0,1,0,4,3,2,1,8,7,WLDDWW,2,1,0,5,2,11,2,3,1,11,7,DLWDLD,1,2,0,5,3,WDW,LDD
+Nuova Cosenza,Venezia,1-1,/match/nuova-cosenza/venezia/2020,2020,7,serie_b,20,38,1,1,1,18,0,3,3,3,6,DLLWDD,0,1,2,2,4,15,2,2,2,6,6,LLLDLD,2,1,0,4,1,LLD,LDL
+Crotone,Virtus Entella,3-1,/match/fc-crotone/virtus-entella/2020,2020,7,serie_b,20,38,0,3,1,6,3,2,1,8,3,DLDWWL,1,2,0,2,0,5,3,2,1,5,4,WLWDLD,1,2,0,3,2,DDW,LDD
+Livorno,Chievo,3-4,/match/livorno/chievo/2020,2020,7,serie_b,20,38,2,3,4,16,1,1,4,5,9,WLWWDL,1,0,2,4,5,12,1,4,1,8,7,WDLDDD,1,1,1,4,3,LWL,WLD
+Pordenone,Empoli,2-0,/match/pordenone/empoli-fc/2020,2020,7,serie_b,20,38,0,2,0,8,2,2,2,9,8,WWWWDD,2,1,0,5,1,1,4,2,0,10,4,WDDWLW,1,2,0,4,3,WWD,DDL
+Spezia,Benevento,0-1,/match/asd-spezia/benevento-calcio/2020,2020,7,serie_b,20,38,2,0,1,17,1,1,4,8,12,LLWDWL,0,1,2,5,8,3,3,3,0,9,3,DWLWDD,1,2,0,3,1,LDL,DLD
+Trapani,Juve Stabia,1-2,/match/trapani/ss-juve-stabia/2020,2020,7,serie_b,20,38,2,1,2,19,1,1,4,5,9,WLWLDL,0,1,2,0,2,20,0,1,5,2,12,WLDLWL,0,1,2,1,4,LLD,WDW
+Cremonese,Cittadella,0-2,/match/us-cremonese/as-cittadella/2020,2020,7,serie_b,20,38,2,0,2,9,3,1,2,6,7,LLWWDW,2,0,1,3,2,10,3,0,3,6,9,LWWWWL,1,0,2,2,5,LWW,WWL
+Salernitana,Frosinone,1-1,/match/salernitana-calcio-1919/frosinone-calcio/2020,2020,7,serie_b,20,38,1,1,1,7,4,1,1,9,6,WLLLDL,1,1,1,4,4,14,1,2,3,5,10,WWWDWD,0,0,3,1,7,WLD,WWW
+Ascoli,Pescara,0-2,/match/ascoli/pescara-calcio/2020,2020,7,serie_b,20,38,2,0,2,2,4,0,2,14,5,WWWLWW,3,0,0,8,1,13,2,1,3,9,12,WWLDWL,1,0,2,4,6,WWW,WLW
+Cittadella,Nuova Cosenza,1-3,/match/as-cittadella/nuova-cosenza/2020,2020,8,serie_b,20,38,2,1,3,9,4,0,3,8,9,LWWWWLL,2,0,1,4,4,16,0,4,3,4,7,DLLWDDD,0,2,1,1,2,LWW,DWD
+Juve Stabia,Pordenone,4-2,/match/ss-juve-stabia/pordenone/2020,2020,8,serie_b,20,38,0,4,2,20,1,1,5,4,13,WLDLWLL,0,0,3,1,8,5,3,2,2,11,8,WWWWDDW,0,1,2,4,7,LLL,WWD
+Pescara,Spezia,1-2,/match/pescara-calcio/asd-spezia/2020,2020,8,serie_b,20,38,2,1,2,12,3,1,3,11,12,WWLDWLL,1,1,1,5,6,18,1,1,5,8,13,LLWDWLL,1,0,2,3,4,WDL,LWW
+Venezia,Salernitana,1-0,/match/venezia/salernitana-calcio-1919/2020,2020,8,serie_b,20,38,0,1,0,15,2,3,2,7,7,LLLDLDD,0,1,2,2,5,6,4,2,1,10,7,WLLLDLD,3,0,0,5,2,LLD,LLL
+Virtus Entella,Trapani,1-1,/match/virtus-entella/trapani/2020,2020,8,serie_b,20,38,1,1,1,8,3,2,2,6,7,WLWDLDW,2,0,1,2,2,19,1,1,5,6,11,WLWLDLL,1,0,2,5,7,WWL,WWL
+Benevento,Perugia,1-0,/match/benevento-calcio/perugia/2020,2020,8,serie_b,20,38,0,1,0,3,4,3,0,10,3,DWLWDDL,2,1,0,6,2,1,4,2,1,9,7,WLDDWWW,1,1,1,3,5,WWD,LDW
+Chievo,Ascoli,2-0,/match/chievo/ascoli/2020,2020,8,serie_b,20,38,0,2,0,11,2,4,1,12,10,WDLDDDL,0,3,0,4,4,7,4,0,3,14,7,WWWLWWL,1,0,2,6,4,DDD,WLW
+Pisa,Crotone,1-1,/match/pisa-calcio/fc-crotone/2020,2020,8,serie_b,20,38,1,1,1,13,2,3,2,11,8,DLWDLDW,1,1,1,6,4,4,4,2,1,11,4,DLDWWLW,2,0,1,6,3,DWL,LWL
+Empoli,Cremonese,1-1,/match/empoli-fc/us-cremonese/2020,2020,8,serie_b,20,38,1,1,1,2,4,2,1,10,6,WDDWLWW,3,0,0,6,1,10,3,1,3,6,9,LLWWDWL,1,1,1,3,5,WWW,LWD
+Frosinone,Livorno,1-0,/match/frosinone-calcio/livorno/2020,2020,8,serie_b,20,38,0,1,0,14,1,3,3,6,11,WWWDWDD,1,2,0,4,3,17,1,1,5,8,13,WLWWDLL,0,1,2,1,4,WDD,WWD
+Ascoli,Virtus Entella,2-1,/match/ascoli/virtus-entella/2020,2020,9,serie_b,20,38,0,2,1,8,4,0,4,14,9,WWWLWWLW,3,0,1,8,3,9,3,3,2,7,8,WLWDLDWD,1,2,1,4,5,WWWL,LDDW
+Nuova Cosenza,Chievo,1-1,/match/nuova-cosenza/chievo/2020,2020,9,serie_b,20,38,1,1,1,16,1,4,3,7,8,DLLWDDDL,0,2,2,3,5,5,3,4,1,14,10,WDLDDDLW,2,1,1,8,6,LLDD,WLDL
+Crotone,Venezia,3-2,/match/fc-crotone/venezia/2020,2020,9,serie_b,20,38,0,3,2,4,4,3,1,12,5,DLDWWLWD,2,2,0,5,1,14,3,3,2,8,7,LLLDLDDW,2,2,0,5,2,DDWW,LDLD
+Pescara,Benevento,4-0,/match/pescara-calcio/benevento-calcio/2020,2020,9,serie_b,20,38,0,4,0,15,3,1,4,12,14,WWLDWLLL,1,1,2,6,8,1,5,3,0,11,3,DWLWDDLW,2,2,0,4,1,WDLL,DLDL
+Pordenone,Cittadella,0-0,/match/pordenone/as-cittadella/2020,2020,9,serie_b,20,38,1,0,0,6,3,2,3,13,12,WWWWDDWW,3,1,0,7,1,11,4,0,4,9,12,LWWWWLLL,2,0,2,4,5,WWDW,WWLL
+Salernitana,Perugia,1-1,/match/salernitana-calcio-1919/perugia/2020,2020,9,serie_b,20,38,1,1,1,7,4,2,2,10,8,WLLLDLDW,1,2,1,5,5,3,4,2,2,9,8,WLDDWWWW,1,1,2,3,6,WLDD,LDWW
+Spezia,Juve Stabia,2-0,/match/asd-spezia/ss-juve-stabia/2020,2020,9,serie_b,20,38,0,2,0,18,2,1,5,10,14,LLWDWLLL,0,1,3,5,9,17,2,1,5,8,15,WLDLWLLW,1,1,2,3,5,LDLL,WDWL
+Trapani,Empoli,2-2,/match/trapani/empoli-fc/2020,2020,9,serie_b,20,38,1,2,2,20,1,2,5,7,12,WLWLDLLD,0,1,3,1,4,2,4,3,1,11,7,WDDWLWWD,1,2,1,4,5,LLDL,DDLW
+Livorno,Pisa,1-0,/match/livorno/pisa-calcio/2020,2020,9,serie_b,20,38,0,1,0,19,1,1,6,8,14,WLWWDLLW,1,0,3,7,9,13,2,4,2,12,9,DLWDLDWD,1,2,1,5,4,LWLL,LDDW
+Cremonese,Frosinone,1-1,/match/us-cremonese/frosinone-calcio/2020,2020,9,serie_b,20,38,1,1,1,12,3,2,3,7,10,LLWWDWLD,2,0,2,3,4,10,2,3,3,7,11,WWWDWDDW,0,1,3,2,8,LWWL,WWWD
+Chievo,Crotone,2-1,/match/chievo/fc-crotone/2020,2020,10,serie_b,20,38,0,2,1,7,3,5,1,15,11,WDLDDDLWD,1,3,0,6,4,1,5,3,1,15,7,DLDWWLWDW,2,1,1,7,4,DDDW,LWLD
+Cittadella,Livorno,1-0,/match/as-cittadella/livorno/2020,2020,10,serie_b,20,38,0,1,0,13,4,1,4,9,12,LWWWWLLLD,2,0,2,5,7,18,2,1,6,9,14,WLWWDLLWW,0,1,3,1,5,LWWL,WWDW
+Empoli,Spezia,1-1,/match/empoli-fc/asd-spezia/2020,2020,10,serie_b,20,38,1,1,1,3,4,4,1,13,9,WDDWLWWDD,3,1,0,7,2,17,3,1,5,12,14,LLWDWLLLW,2,0,2,5,5,WWWD,LWWL
+Juve Stabia,Pescara,2-1,/match/ss-juve-stabia/pescara-calcio/2020,2020,10,serie_b,20,38,0,2,1,19,2,1,6,8,17,WLDLWLLWW,1,0,3,5,10,9,4,1,4,16,14,WWLDWLLLW,2,0,2,6,6,LLLW,WLWL
+Perugia,Ascoli,1-1,/match/perugia/ascoli/2020,2020,10,serie_b,20,38,1,1,1,4,4,3,2,10,9,WLDDWWWWD,3,1,0,6,2,5,5,0,4,16,10,WWWLWWLWW,1,0,3,6,6,WDWW,WLWW
+Pisa,Salernitana,2-1,/match/pisa-calcio/salernitana-calcio-1919/2020,2020,10,serie_b,20,38,0,2,1,15,2,4,3,12,10,DLWDLDWDW,1,2,1,7,5,8,4,3,2,11,9,WLLLDLDWD,3,0,1,5,3,DWLD,LLLW
+Venezia,Pordenone,1-2,/match/venezia/pordenone/2020,2020,10,serie_b,20,38,2,1,2,14,3,3,3,10,10,LLLDLDDWW,1,1,2,3,5,6,3,3,3,13,12,WWWWDDWWD,0,1,3,6,11,LLDW,WWDW
+Virtus Entella,Nuova Cosenza,1-0,/match/virtus-entella/nuova-cosenza/2020,2020,10,serie_b,20,38,0,1,0,10,3,3,3,8,10,WLWDLDWDW,2,1,1,3,3,16,1,5,3,8,9,DLLWDDDLD,1,2,1,4,3,WWLD,DWDL
+Benevento,Cremonese,2-0,/match/benevento-calcio/us-cremonese/2020,2020,10,serie_b,20,38,0,2,0,2,5,3,1,11,7,DWLWDDLWW,3,1,0,7,2,12,3,3,3,8,11,LLWWDWLDD,1,2,1,4,6,WWDW,LWDD
+Frosinone,Trapani,3-0,/match/frosinone-calcio/trapani/2020,2020,10,serie_b,20,38,0,3,0,11,2,4,3,8,12,WWWDWDDWD,2,2,0,5,3,20,1,3,5,9,14,WLWLDLLDD,1,1,2,6,8,WDDW,WWLD
+Spezia,Chievo,0-0,/match/asd-spezia/chievo/2020,2020,11,serie_b,20,38,1,0,0,16,3,2,5,13,15,LLWDWLLLWD,1,1,3,7,9,5,4,5,1,17,12,WDLDDDLWDW,2,2,1,9,7,LDLLW,WLDLD
+Ascoli,Venezia,1-1,/match/ascoli/venezia/2020,2020,11,serie_b,20,38,1,1,1,6,5,1,4,17,11,WWWLWWLWWD,4,0,1,10,4,15,3,3,4,11,12,LLLDLDDWWL,2,2,1,7,5,WWWLW,LDLDW
+Crotone,Perugia,2-3,/match/fc-crotone/perugia/2020,2020,11,serie_b,20,38,2,2,3,2,5,3,2,16,9,DLDWWLWDWW,3,2,0,8,3,4,4,4,2,11,10,WLDDWWWWDD,1,2,2,4,7,DDWWW,LDWWD
+Livorno,Juve Stabia,2-1,/match/livorno/ss-juve-stabia/2020,2020,11,serie_b,20,38,0,2,1,19,2,1,7,9,15,WLWWDLLWWW,2,0,3,8,9,17,3,1,6,10,18,WLDLWLLWWW,1,1,3,3,7,LWLLW,WDWLW
+Pescara,Pisa,3-0,/match/pescara-calcio/pisa-calcio/2020,2020,11,serie_b,20,38,0,3,0,13,4,1,5,17,16,WWLDWLLLWW,2,1,2,10,8,12,3,4,3,14,11,DLWDLDWDWW,1,2,2,5,5,WDLLW,LDDWW
+Salernitana,Virtus Entella,2-1,/match/salernitana-calcio-1919/virtus-entella/2020,2020,11,serie_b,20,38,0,2,1,11,4,3,3,12,11,WLLLDLDWDW,1,3,1,6,6,8,4,3,3,9,10,WLWDLDWDWW,1,2,2,5,7,WLDDD,LDDWW
+Cittadella,Frosinone,0-0,/match/as-cittadella/frosinone-calcio/2020,2020,11,serie_b,20,38,1,0,0,10,5,1,4,10,12,LWWWWLLLDW,3,0,2,6,7,9,3,4,3,11,12,WWWDWDDWDW,0,2,3,3,9,LWWLW,WWWDD
+Pordenone,Trapani,2-1,/match/pordenone/trapani/2020,2020,11,serie_b,20,38,0,2,1,7,4,3,3,15,13,WWWWDDWWDL,3,2,0,7,1,20,1,3,6,9,17,WLWLDLLDDW,1,1,3,6,11,WWDWD,WWLDW
+Benevento,Empoli,2-0,/match/benevento-calcio/empoli-fc/2020,2020,11,serie_b,20,38,0,2,0,1,6,3,1,13,7,DWLWDDLWWW,4,1,0,9,2,3,4,5,1,14,10,WDDWLWWDDD,1,3,1,6,7,WWDWW,DDLWD
+Nuova Cosenza,Cremonese,2-0,/match/nuova-cosenza/us-cremonese/2020,2020,11,serie_b,20,38,0,2,0,18,1,5,4,8,10,DLLWDDDLDW,0,3,2,4,6,14,3,3,4,8,13,LLWWDWLDDW,1,2,2,4,8,LLDDD,LWDDW
+Crotone,Ascoli,3-1,/match/fc-crotone/ascoli/2020,2020,12,serie_b,20,38,0,3,1,4,5,3,3,18,12,DLDWWLWDWWL,3,2,1,10,6,7,5,2,4,18,12,WWWLWWLWWDD,1,1,3,7,7,DDWWWL,WLWWD
+Juve Stabia,Benevento,1-1,/match/ss-juve-stabia/benevento-calcio/2020,2020,12,serie_b,20,38,1,1,1,19,3,1,7,11,20,WLDLWLLWWWW,2,0,3,7,11,1,7,3,1,15,7,DWLWDDLWWWW,2,2,1,4,5,LLLWW,DLDLW
+Perugia,Cittadella,0-2,/match/perugia/as-cittadella/2020,2020,12,serie_b,20,38,2,0,2,3,5,4,2,14,12,WLDDWWWWDDL,3,2,0,7,3,10,5,2,4,10,12,LWWWWLLLDWD,2,1,2,4,5,WDWWD,WWLLD
+Pisa,Spezia,3-2,/match/pisa-calcio/asd-spezia/2020,2020,12,serie_b,20,38,0,3,2,13,3,4,4,14,14,DLWDLDWDWWW,2,2,1,9,6,17,3,3,5,13,15,LLWDWLLLWDD,2,1,2,6,6,DWLDW,LWWLD
+Venezia,Livorno,1-0,/match/venezia/livorno/2020,2020,12,serie_b,20,38,0,1,0,16,3,4,4,12,13,LLLDLDDWWLD,1,1,3,4,7,18,3,1,7,11,16,WLWWDLLWWWW,0,1,4,1,6,LLDWL,WWDWW
+Virtus Entella,Pordenone,1-1,/match/virtus-entella/pordenone/2020,2020,12,serie_b,20,38,1,1,1,11,4,3,4,10,12,WLWDLDWDWWW,3,1,1,4,3,2,5,3,3,17,14,WWWWDDWWDLW,1,1,3,8,12,WWLDW,WWDWL
+Empoli,Pescara,1-2,/match/empoli-fc/pescara-calcio/2020,2020,12,serie_b,20,38,2,1,2,5,4,5,2,14,12,WDDWLWWDDDW,3,2,0,8,3,12,5,1,5,20,16,WWLDWLLLWWW,2,0,3,7,8,WWWDD,WLWLW
+Cremonese,Salernitana,1-0,/match/us-cremonese/salernitana-calcio-1919/2020,2020,12,serie_b,20,38,0,1,0,14,3,3,5,8,15,LLWWDWLDDWW,2,1,2,4,5,8,5,3,3,14,12,WLLLDLDWDWW,3,0,2,6,5,LWWLD,LLLWW
+Trapani,Nuova Cosenza,2-2,/match/trapani/nuova-cosenza/2020,2020,12,serie_b,20,38,1,2,2,20,1,3,7,10,19,WLWLDLLDDWW,0,2,3,3,6,15,2,5,4,10,10,DLLWDDDLDWW,1,2,2,4,4,LLDLD,DWDLW
+Frosinone,Chievo,2-0,/match/frosinone-calcio/chievo/2020,2020,12,serie_b,20,38,0,2,0,9,3,5,3,11,12,WWWDWDDWDWD,3,2,0,8,3,6,4,6,1,17,12,WDLDDDLWDWD,2,3,1,9,7,WDDWW,WLDLDD
+Pescara,Cremonese,1-1,/match/pescara-calcio/us-cremonese/2020,2020,13,serie_b,20,38,1,1,1,10,6,1,5,22,17,WWLDWLLLWWWL,3,1,2,13,8,14,4,3,5,9,15,LLWWDWLDDWWW,1,2,3,4,10,WDLLWW,LWDDWW
+Benevento,Crotone,2-0,/match/benevento-calcio/fc-crotone/2020,2020,13,serie_b,20,38,0,2,0,1,7,4,1,16,8,DWLWDDLWWWWD,5,1,0,11,2,2,6,3,3,21,13,DLDWWLWDWWLW,2,1,2,8,6,WWDWWW,LWLDW
+Juve Stabia,Salernitana,2-0,/match/ss-juve-stabia/salernitana-calcio-1919/2020,2020,13,serie_b,20,38,0,2,0,19,3,2,7,12,21,WLDLWLLWWWWD,2,1,3,8,12,13,5,3,4,14,13,WLLLDLDWDWWW,3,0,3,6,6,LLLWWD,LLLWWW
+Livorno,Trapani,1-2,/match/livorno/trapani/2020,2020,13,serie_b,20,38,2,1,2,18,3,1,8,11,17,WLWWDLLWWWWW,3,0,3,10,10,20,1,4,7,12,21,WLWLDLLDDWWD,1,1,4,7,13,LWLLWW,WWLDWW
+Pordenone,Perugia,3-0,/match/pordenone/perugia/2020,2020,13,serie_b,20,38,0,3,0,3,5,4,3,18,15,WWWWDDWWDLWD,4,2,0,9,2,5,5,4,3,14,14,WLDDWWWWDDLL,2,2,2,7,9,WWDWDW,LDWWDL
+Empoli,Venezia,1-1,/match/empoli-fc/venezia/2020,2020,13,serie_b,20,38,1,1,1,6,4,5,3,15,14,WDDWLWWDDDWL,3,2,1,9,5,15,4,4,4,13,13,LLLDLDDWWLDW,2,3,1,8,6,WWWDDL,LDLDWD
+Ascoli,Nuova Cosenza,3-2,/match/ascoli/nuova-cosenza/2020,2020,13,serie_b,20,38,0,3,2,8,5,2,5,19,15,WWWLWWLWWDDW,4,1,1,11,5,16,2,6,4,12,12,DLLWDDDLDWWD,1,3,2,6,6,WWWLWD,DWDLWD
+Cittadella,Pisa,1-1,/match/as-cittadella/pisa-calcio/2020,2020,13,serie_b,20,38,1,1,1,9,6,2,4,12,12,LWWWWLLLDWDL,3,1,2,6,7,11,4,4,4,17,16,DLWDLDWDWWWW,1,2,3,5,8,LWWLWD,LDDWWW
+Spezia,Frosinone,2-0,/match/asd-spezia/frosinone-calcio/2020,2020,13,serie_b,20,38,0,2,0,17,3,3,6,15,18,LLWDWLLLWDDW,1,2,3,7,9,4,4,5,3,13,12,WWWDWDDWDWDW,0,3,3,3,9,LDLLWD,WWWDDD
+Chievo,Virtus Entella,2-1,/match/chievo/virtus-entella/2020,2020,13,serie_b,20,38,0,2,1,7,4,6,2,17,14,WDLDDDLWDWDW,2,3,0,8,5,12,4,4,4,11,13,WLWDLDWDWWWD,1,2,3,6,9,DDDWW,LDDWWW
+Nuova Cosenza,Spezia,1-1,/match/nuova-cosenza/asd-spezia/2020,2020,14,serie_b,20,38,1,1,1,18,2,6,5,14,15,DLLWDDDLDWWDW,1,3,2,6,6,16,4,3,6,17,18,LLWDWLLLWDDWW,2,1,3,8,9,LLDDDW,LWWLDW
+Cremonese,Livorno,0-0,/match/us-cremonese/livorno/2020,2020,14,serie_b,20,38,1,0,0,14,4,4,5,10,16,LLWWDWLDDWWWD,3,1,2,5,5,19,3,1,9,12,19,WLWWDLLWWWWWL,0,1,5,1,7,LWWLDW,WWDWWW
+Crotone,Cittadella,1-1,/match/fc-crotone/as-cittadella/2020,2020,14,serie_b,20,38,1,1,1,3,6,3,4,21,15,DLDWWLWDWWLWW,4,2,1,13,7,8,6,3,4,13,13,LWWWWLLLDWDLD,3,1,2,6,5,DDWWWLW,WWLLDL
+Frosinone,Empoli,4-0,/match/frosinone-calcio/empoli-fc/2020,2020,14,serie_b,20,38,0,4,0,6,4,5,4,13,14,WWWDWDDWDWDWW,4,2,0,10,3,7,4,6,3,16,15,WDDWLWWDDDWLD,1,3,2,6,9,WDDWWW,DDLWDW
+Venezia,Benevento,0-2,/match/venezia/benevento-calcio/2020,2020,14,serie_b,20,38,2,0,2,15,4,5,4,14,14,LLLDLDDWWLDWD,2,1,3,5,7,1,8,4,1,18,8,DWLWDDLWWWWDW,2,3,1,5,6,LLDWLW,DLDLWD
+Salernitana,Ascoli,1-1,/match/salernitana-calcio-1919/ascoli/2020,2020,14,serie_b,20,38,1,1,1,13,5,3,5,14,15,WLLLDLDWDWWWW,2,3,1,8,7,5,6,2,5,22,17,WWWLWWLWWDDWW,1,1,4,8,10,WLDDDW,WLWWDW
+Trapani,Chievo,1-0,/match/trapani/chievo/2020,2020,14,serie_b,20,38,0,1,0,20,2,4,7,14,22,WLWLDLLDDWWDL,0,3,3,5,8,4,5,6,2,19,15,WDLDDDLWDWDWW,2,3,2,9,9,LLDLDD,WLDLDDW
+Virtus Entella,Juve Stabia,2-0,/match/virtus-entella/ss-juve-stabia/2020,2020,14,serie_b,20,38,0,2,0,12,4,4,5,12,15,WLWDLDWDWWWDW,3,2,1,5,4,17,4,2,7,14,21,WLDLWLLWWWWDW,1,1,4,4,9,WWLDWD,WDWLWW
+Perugia,Pescara,3-1,/match/perugia/pescara-calcio/2020,2020,14,serie_b,20,38,0,3,1,9,5,4,4,14,17,WLDDWWWWDDLLW,3,2,1,7,5,10,6,2,5,23,18,WWLDWLLLWWWLD,3,0,3,9,9,WDWWDL,WLWLWL
+Pisa,Pordenone,2-0,/match/pisa-calcio/pordenone/2020,2020,14,serie_b,20,38,0,2,0,11,4,5,4,18,17,DLWDLDWDWWWWD,3,2,1,12,8,2,6,4,3,21,15,WWWWDDWWDLWDW,1,2,3,9,13,DWLDWW,WWDWLD
+Benevento,Trapani,5-0,/match/benevento-calcio/trapani/2020,2020,15,serie_b,20,38,0,5,0,1,9,4,1,20,8,DWLWDDLWWWWDWL,6,1,0,13,2,19,3,4,7,15,22,WLWLDLLDDWWDLW,2,1,4,9,14,WWDWWWW,WWLDWWL
+Cittadella,Salernitana,4-3,/match/as-cittadella/salernitana-calcio-1919/2020,2020,15,serie_b,20,38,0,4,3,9,6,4,4,14,14,LWWWWLLLDWDLDD,3,2,2,7,8,13,5,4,5,15,16,WLLLDLDWDWWWWD,3,0,4,6,8,LWWLWDD,LLLWWWW
+Empoli,Ascoli,2-1,/match/empoli-fc/ascoli/2020,2020,15,serie_b,20,38,0,2,1,11,4,6,4,16,19,WDDWLWWDDDWLDW,3,3,1,10,6,6,6,3,5,23,18,WWWLWWLWWDDWWD,1,2,4,9,11,WWWDDLD,WLWWDWD
+Pescara,Venezia,2-2,/match/pescara-calcio/venezia/2020,2020,15,serie_b,20,38,1,2,2,12,6,2,6,24,21,WWLDWLLLWWWLDW,3,2,2,14,9,15,4,5,5,14,16,LLLDLDDWWLDWDL,2,4,1,9,7,WDLLWWD,LDLDWDD
+Spezia,Livorno,2-0,/match/asd-spezia/livorno/2020,2020,15,serie_b,20,38,0,2,0,16,4,4,6,18,19,LLWDWLLLWDDWWD,2,2,3,9,9,20,3,2,9,12,19,WLWWDLLWWWWWLD,0,2,5,1,7,LDLLWDW,WWDWWWD
+Chievo,Cremonese,1-0,/match/chievo/us-cremonese/2020,2020,15,serie_b,20,38,0,1,0,8,5,6,3,19,16,WDLDDDLWDWDWWW,3,3,0,10,6,14,4,5,5,10,16,LLWWDWLDDWWWDD,1,3,3,5,11,DDDWWW,LWDDWWD
+Juve Stabia,Frosinone,0-2,/match/ss-juve-stabia/frosinone-calcio/2020,2020,15,serie_b,20,38,2,0,2,17,4,2,8,14,23,WLDLWLLWWWWDWW,3,1,3,10,12,4,5,5,4,17,14,WWWDWDDWDWDWWW,0,3,4,3,11,LLLWWDW,WWWDDDW
+Pisa,Virtus Entella,0-2,/match/pisa-calcio/virtus-entella/2020,2020,15,serie_b,20,38,2,0,2,7,5,5,4,20,17,DLWDLDWDWWWWDW,4,2,1,14,8,10,5,4,5,14,15,WLWDLDWDWWWDWW,1,2,4,7,11,DWLDWWW,LDDWWWW
+Pordenone,Crotone,1-0,/match/pordenone/fc-crotone/2020,2020,15,serie_b,20,38,0,1,0,2,6,4,4,21,17,WWWWDDWWDLWDWW,5,2,0,12,2,3,6,4,4,22,16,DLDWWLWDWWLWWD,2,1,3,8,8,WWDWDWW,LWLDWW
+Perugia,Nuova Cosenza,2-2,/match/perugia/nuova-cosenza/2020,2020,15,serie_b,20,38,1,2,2,5,6,4,4,17,18,WLDDWWWWDDLLWW,4,2,1,10,6,18,2,7,5,15,16,DLLWDDDLDWWDWD,1,3,3,8,9,WDWWDLW,DWDLWDW
+Chievo,Juve Stabia,2-3,/match/chievo/ss-juve-stabia/2020,2020,16,serie_b,20,38,2,2,3,3,6,6,3,20,16,WDLDDDLWDWDWWWW,4,3,0,11,6,18,4,2,9,14,25,WLDLWLLWWWWDWWL,1,1,5,4,11,DDDWWWW,WDWLWWW
+Ascoli,Cittadella,1-0,/match/ascoli/as-cittadella/2020,2020,16,serie_b,20,38,0,1,0,9,6,3,6,24,20,WWWLWWLWWDDWWDW,5,1,1,14,7,6,7,4,4,18,17,LWWWWLLLDWDLDDW,3,2,2,7,6,WWWLWDW,WWLLDLD
+Frosinone,Pescara,2-0,/match/frosinone-calcio/pescara-calcio/2020,2020,16,serie_b,20,38,0,2,0,4,6,5,4,19,14,WWWDWDDWDWDWWWL,5,2,0,14,3,12,6,3,6,26,23,WWLDWLLLWWWLDWD,3,0,4,10,12,WDDWWWW,WLWLWLW
+Venezia,Spezia,0-0,/match/venezia/asd-spezia/2020,2020,16,serie_b,20,38,1,0,0,16,4,6,5,16,18,LLLDLDDWWLDWDLD,2,1,4,5,9,14,5,4,6,20,19,LLWDWLLLWDDWWDW,2,2,3,9,10,LLDWLWL,LWWLDWD
+Virtus Entella,Empoli,2-0,/match/virtus-entella/empoli-fc/2020,2020,16,serie_b,20,38,0,2,0,10,6,4,5,16,15,WLWDLDWDWWWDWWL,4,2,1,7,4,7,5,6,4,18,20,WDDWLWWDDDWLDWW,1,3,3,6,13,WWLDWDW,DDLWDWW
+Livorno,Benevento,0-2,/match/livorno/benevento-calcio/2020,2020,16,serie_b,20,38,2,0,2,20,3,2,10,12,21,WLWWDLLWWWWWLDW,3,0,4,11,12,1,10,4,1,25,8,DWLWDDLWWWWDWLW,3,3,1,7,6,LWLLWWL,DLDLWDL
+Nuova Cosenza,Pordenone,1-2,/match/nuova-cosenza/pordenone/2020,2020,16,serie_b,20,38,2,1,2,17,2,8,5,17,18,DLLWDDDLDWWDWDD,1,4,2,7,7,2,7,4,4,22,17,WWWWDDWWDLWDWWW,1,2,4,9,15,LLDDDWD,WWDWLDW
+Cremonese,Perugia,2-1,/match/us-cremonese/perugia/2020,2020,16,serie_b,20,38,0,2,1,15,4,5,6,10,17,LLWWDWLDDWWWDDW,3,2,2,5,5,5,6,5,4,19,20,WLDDWWWWDDLLWWD,2,2,3,7,12,LWWLDWD,LDWWDLW
+Salernitana,Crotone,3-2,/match/salernitana-calcio-1919/fc-crotone/2020,2020,16,serie_b,20,38,0,3,2,13,5,4,6,18,20,WLLLDLDWDWWWWDW,2,4,1,9,8,8,6,4,5,22,17,DLDWWLWDWWLWWDW,2,1,4,8,9,WLDDDWD,LWLDWWW
+Trapani,Pisa,1-3,/match/trapani/pisa-calcio/2020,2020,16,serie_b,20,38,2,1,3,19,3,4,8,15,27,WLWLDLLDDWWDLWW,1,3,3,6,8,11,5,5,5,20,19,DLWDLDWDWWWWDWL,1,3,3,6,9,LLDLDDW,LDDWWWD
+Spezia,Cremonese,3-2,/match/asd-spezia/us-cremonese/2020,2020,17,serie_b,20,38,0,3,2,15,5,5,6,20,19,LLWDWLLLWDDWWDWD,3,2,3,11,9,13,5,5,6,12,18,LLWWDWLDDWWWDDWW,1,3,4,5,12,LDLLWDWW,LWDDWWDW
+Cittadella,Chievo,1-1,/match/as-cittadella/chievo/2020,2020,17,serie_b,20,38,1,1,1,8,7,4,5,18,18,LWWWWLLLDWDLDDWW,4,2,2,11,11,6,6,6,4,22,19,WDLDDDLWDWDWWWWL,2,3,3,9,10,LWWLWDDW,WLDLDDWW
+Crotone,Livorno,2-1,/match/fc-crotone/livorno/2020,2020,17,serie_b,20,38,0,2,1,10,6,4,6,24,20,DLDWWLWDWWLWWDWW,4,3,1,14,8,20,3,2,11,12,23,WLWWDLLWWWWWLDWL,0,2,6,1,9,DDWWWLWD,WWDWWWDW
+Empoli,Salernitana,1-1,/match/empoli-fc/salernitana-calcio-1919/2020,2020,17,serie_b,20,38,1,1,1,11,5,6,5,18,22,WDDWLWWDDDWLDWWW,4,3,1,12,7,12,6,4,6,21,22,WLLLDLDWDWWWWDWW,3,0,5,9,12,WWWDDLDW,LLLWWWWW
+Juve Stabia,Venezia,2-0,/match/ss-juve-stabia/venezia/2020,2020,17,serie_b,20,38,0,2,0,17,5,2,9,17,27,WLDLWLLWWWWDWWLL,3,1,4,10,14,16,4,7,5,16,18,LLLDLDDWWLDWDLDD,2,5,1,11,9,LLLWWDWL,LDLDWDDD
+Perugia,Virtus Entella,2-0,/match/perugia/virtus-entella/2020,2020,17,serie_b,20,38,0,2,0,7,6,5,5,20,22,WLDDWWWWDDLLWWDW,4,3,1,12,8,5,7,4,5,18,15,WLWDLDWDWWWDWWLW,2,2,4,9,11,WDWWDLWD,LDDWWWWL
+Benevento,Frosinone,1-0,/match/benevento-calcio/frosinone-calcio/2020,2020,17,serie_b,20,38,0,1,0,1,11,4,1,27,8,DWLWDDLWWWWDWLWL,7,1,0,18,2,3,7,5,4,21,14,WWWDWDDWDWDWWWLW,1,3,4,5,11,WWDWWWWW,WWWDDDWL
+Pescara,Trapani,1-1,/match/pescara-calcio/trapani/2020,2020,17,serie_b,20,38,1,1,1,14,6,3,7,26,25,WWLDWLLLWWWLDWDW,3,3,2,16,11,19,3,4,9,16,30,WLWLDLLDDWWDLWWL,2,1,5,9,19,WDLLWWDD,WWLDWWLW
+Pisa,Nuova Cosenza,1-3,/match/pisa-calcio/nuova-cosenza/2020,2020,17,serie_b,20,38,2,1,3,9,6,5,5,23,20,DLWDLDWDWWWWDWLL,4,2,2,14,10,18,2,8,6,18,20,DLLWDDDLDWWDWDDL,1,4,3,10,11,DWLDWWWL,DWDLWDWD
+Pordenone,Ascoli,2-1,/match/pordenone/ascoli/2020,2020,17,serie_b,20,38,0,2,1,2,8,4,4,24,18,WWWWDDWWDLWDWWWL,6,2,0,13,2,4,7,3,6,25,20,WWWLWWLWWDDWWDWW,1,2,5,10,13,WWDWDWWW,WLWWDWDW
+Nuova Cosenza,Empoli,1-0,/match/nuova-cosenza/empoli-fc/2020,2020,18,serie_b,20,38,0,1,0,18,3,8,6,21,21,DLLWDDDLDWWDWDDLL,1,4,3,8,9,10,5,7,5,19,23,WDDWLWWDDDWLDWWWD,1,3,4,6,15,LLDDDWDL,DDLWDWWW
+Chievo,Benevento,1-2,/match/chievo/benevento-calcio/2020,2020,18,serie_b,20,38,2,1,2,8,6,7,4,23,20,WDLDDDLWDWDWWWWLD,4,3,1,13,9,1,12,4,1,28,8,DWLWDDLWWWWDWLWLW,4,3,1,9,6,DDDWWWWL,DLDLWDLL
+Cremonese,Juve Stabia,1-1,/match/us-cremonese/ss-juve-stabia/2020,2020,18,serie_b,20,38,1,1,1,15,5,5,7,14,21,LLWWDWLDDWWWDDWWW,4,2,2,7,6,16,6,2,9,19,27,WLDLWLLWWWWDWWLLW,2,1,5,7,13,LWWLDWDW,WDWLWWWL
+Frosinone,Crotone,1-2,/match/frosinone-calcio/fc-crotone/2020,2020,18,serie_b,20,38,2,1,2,3,7,5,5,21,15,WWWDWDDWDWDWWWLWW,6,2,0,16,3,5,7,4,6,26,21,DLDWWLWDWWLWWDWWW,2,1,5,10,12,WDDWWWWW,LWLDWWWW
+Livorno,Pescara,0-2,/match/livorno/pescara-calcio/2020,2020,18,serie_b,20,38,2,0,2,20,3,2,12,13,25,WLWWDLLWWWWWLDWLW,3,0,5,11,14,14,6,4,7,27,26,WWLDWLLLWWWLDWDWD,3,0,5,10,14,LWLLWWLL,WLWLWLWW
+Salernitana,Pordenone,4-0,/match/salernitana-calcio-1919/pordenone/2020,2020,18,serie_b,20,38,0,4,0,12,6,5,6,22,23,WLLLDLDWDWWWWDWWD,3,4,1,12,10,2,9,4,4,26,19,WWWWDDWWDLWDWWWLW,2,2,4,11,16,WLDDDWDW,WWDWLDWL
+Trapani,Perugia,2-2,/match/trapani/perugia/2020,2020,18,serie_b,20,38,1,2,2,19,3,5,9,17,31,WLWLDLLDDWWDLWWLD,1,3,4,7,11,4,7,5,5,22,22,WLDDWWWWDDLLWWDWW,2,2,4,8,14,LLDLDDWL,LDWWDLWW
+Venezia,Cittadella,1-2,/match/venezia/as-cittadella/2020,2020,18,serie_b,20,38,2,1,2,17,4,7,6,16,20,LLLDLDDWWLDWDLDDW,2,2,4,5,9,9,7,5,5,19,19,LWWWWLLLDWDLDDWWD,3,2,3,7,7,LLDWLWLD,WWLLDLDW
+Ascoli,Pisa,1-0,/match/ascoli/pisa-calcio/2020,2020,18,serie_b,20,38,0,1,0,6,7,3,7,26,22,WWWLWWLWWDDWWDWWW,6,1,1,15,7,11,6,5,6,24,23,DLWDLDWDWWWWDWLLL,2,3,3,9,10,WWWLWDWW,LDDWWWDL
+Virtus Entella,Spezia,0-0,/match/virtus-entella/asd-spezia/2020,2020,18,serie_b,20,38,1,0,0,7,7,4,6,18,17,WLWDLDWDWWWDWWLWW,5,2,1,9,4,13,6,5,6,23,21,LLWDWLLLWDDWWDWDW,2,3,3,9,10,WWLDWDWW,LWWLDWDD
+Pescara,Chievo,0-0,/match/pescara-calcio/chievo/2020,2020,19,serie_b,20,38,1,0,0,13,7,4,7,29,26,WWLDWLLLWWWLDWDWDL,3,4,2,17,12,10,6,7,5,24,22,WDLDDDLWDWDWWWWLDL,2,4,3,10,11,WDLLWWDDD,WLDLDDWWD
+Cittadella,Virtus Entella,1-3,/match/as-cittadella/virtus-entella/2020,2020,19,serie_b,20,38,2,1,3,8,8,5,5,21,20,LWWWWLLLDWDLDDWWDL,4,3,2,12,12,7,7,5,6,18,17,WLWDLDWDWWWDWWLWWD,2,2,5,9,13,LWWLWDDWD,LDDWWWWLW
+Crotone,Trapani,3-0,/match/fc-crotone/trapani/2020,2020,19,serie_b,20,38,0,3,0,6,8,4,6,28,22,DLDWWLWDWWLWWDWWWL,5,3,1,16,9,19,3,6,9,19,33,WLWLDLLDDWWDLWWLDD,2,2,5,10,20,DDWWWLWDW,WWLDWWLWD
+Juve Stabia,Nuova Cosenza,1-0,/match/ss-juve-stabia/nuova-cosenza/2020,2020,19,serie_b,20,38,0,1,0,16,6,3,9,20,28,WLDLWLLWWWWDWWLLWD,4,1,4,12,14,17,4,8,6,22,21,DLLWDDDLDWWDWDDLLW,2,4,3,13,12,LLLWWDWLW,DWDLWDWDL
+Perugia,Venezia,0-1,/match/perugia/venezia/2020,2020,19,serie_b,20,38,2,0,1,5,7,6,5,24,24,WLDDWWWWDDLLWWDWWD,5,3,1,14,8,18,4,7,7,17,22,LLLDLDDWWLDWDLDDWL,2,5,2,11,11,WDWWDLWDW,LDLDWDDDW
+Pisa,Frosinone,0-0,/match/pisa-calcio/frosinone-calcio/2020,2020,19,serie_b,20,38,1,0,0,15,6,5,7,24,24,DLWDLDWDWWWWDWLLLW,4,2,3,15,13,4,7,5,6,22,17,WWWDWDDWDWDWWWLWWL,1,3,5,5,12,DWLDWWWLL,WWWDDDWLW
+Pordenone,Cremonese,1-0,/match/pordenone/us-cremonese/2020,2020,19,serie_b,20,38,0,1,0,2,9,4,5,26,23,WWWWDDWWDLWDWWWLWW,7,2,0,15,3,14,5,6,7,15,22,LLWWDWLDDWWWDDWWWD,1,3,5,7,15,WWDWDWWWW,LWDDWWDWW
+Spezia,Salernitana,2-1,/match/asd-spezia/salernitana-calcio-1919/2020,2020,19,serie_b,20,38,0,2,1,12,6,6,6,23,21,LLWDWLLLWDDWWDWDWD,4,2,3,14,11,9,7,5,6,26,23,WLLLDLDWDWWWWDWWDW,3,1,5,10,13,LDLLWDWWW,LLLWWWWWD
+Benevento,Ascoli,4-0,/match/benevento-calcio/ascoli/2020,2020,19,serie_b,20,38,0,4,0,1,13,4,1,30,9,DWLWDDLWWWWDWLWLWL,8,1,0,19,2,3,8,3,7,27,22,WWWLWWLWWDDWWDWWWW,1,2,6,11,15,WWDWWWWWW,WLWWDWDWW
+Empoli,Livorno,1-1,/match/empoli-fc/livorno/2020,2020,19,serie_b,20,38,1,1,1,11,5,7,6,19,24,WDDWLWWDDDWLDWWWDW,4,4,1,13,8,20,3,2,13,13,27,WLWWDLLWWWWWLDWLWL,0,2,7,2,11,WWWDDLDWD,WWDWWWDWW
+Frosinone,Pordenone,2-2,/match/frosinone-calcio/pordenone/2020,2020,20,serie_b,20,38,1,2,2,5,7,6,6,22,17,WWWDWDDWDWDWWWLWWLD,6,2,1,17,5,2,10,4,5,27,23,WWWWDDWWDLWDWWWLWWW,2,2,5,11,20,WDDWWWWWL,WWDWLDWLW
+Trapani,Ascoli,3-1,/match/trapani/ascoli/2020,2020,20,serie_b,20,38,0,3,1,19,3,6,10,19,36,WLWLDLLDDWWDLWWLDDW,1,4,4,9,13,4,8,3,8,27,26,WWWLWWLWWDDWWDWWWWW,1,2,7,11,19,LLDLDDWLD,WLWWDWDWWW
+Juve Stabia,Empoli,1-0,/match/ss-juve-stabia/empoli-fc/2020,2020,20,serie_b,20,38,0,1,0,15,7,3,9,21,28,WLDLWLLWWWWDWWLLWDW,5,1,4,13,14,10,5,8,6,20,25,WDDWLWWDDDWLDWWWDWD,1,3,5,6,16,LLLWWDWLWW,DDLWDWWWW
+Cremonese,Venezia,0-0,/match/us-cremonese/venezia/2020,2020,20,serie_b,20,38,1,0,0,16,5,6,8,15,23,LLWWDWLDDWWWDDWWWDW,4,3,2,8,7,18,5,7,7,18,22,LLLDLDDWWLDWDLDDWLL,3,5,2,12,11,LWWLDWDWD,LDLDWDDDWL
+Livorno,Virtus Entella,4-4,/match/livorno/virtus-entella/2020,2020,20,serie_b,20,38,1,4,4,20,3,3,13,14,28,WLWWDLLWWWWWLDWLWLD,3,0,6,11,16,6,8,5,6,21,18,WLWDLDWDWWWDWWLWWDL,3,2,5,12,14,LWLLWWLLL,LDDWWWWLWL
+Chievo,Perugia,2-0,/match/chievo/perugia/2020,2020,20,serie_b,20,38,0,2,0,11,6,8,5,24,22,WDLDDDLWDWDWWWWLDLD,4,3,2,14,11,7,7,6,6,24,25,WLDDWWWWDDLLWWDWWDL,2,3,4,10,16,DDDWWWWLL,LDWWDLWWD
+Spezia,Cittadella,1-1,/match/asd-spezia/as-cittadella/2020,2020,20,serie_b,20,38,1,1,1,9,7,6,6,25,22,LLWDWLLLWDDWWDWDWDW,5,2,3,16,12,8,8,5,6,22,23,LWWWWLLLDWDLDDWWDLL,4,2,3,9,8,LDLLWDWWWW,WWLLDLDWL
+Pescara,Salernitana,1-2,/match/pescara-calcio/salernitana-calcio-1919/2020,2020,20,serie_b,20,38,2,1,2,13,7,5,7,29,26,WWLDWLLLWWWLDWDWDLD,3,5,2,17,12,12,7,5,7,27,25,WLLLDLDWDWWWWDWWDWW,3,1,6,11,15,WDLLWWDDDD,LLLWWWWWDW
+Benevento,Pisa,1-1,/match/benevento-calcio/pisa-calcio/2020,2020,20,serie_b,20,38,1,1,1,1,14,4,1,34,9,DWLWDDLWWWWDWLWLWLW,9,1,0,23,2,14,6,6,7,24,24,DLWDLDWDWWWWDWLLLWD,2,3,4,9,11,WWDWWWWWWW,LDDWWWDLW
+Nuova Cosenza,Crotone,0-1,/match/nuova-cosenza/fc-crotone/2020,2020,20,serie_b,20,38,2,0,1,17,4,8,7,22,22,DLLWDDDLDWWDWDDLLWW,2,4,3,9,9,3,9,4,6,31,22,DLDWWLWDWWLWWDWWWLW,3,1,5,12,13,LLDDDWDLW,LWLDWWWWL
+Empoli,Chievo,1-1,/match/empoli-fc/chievo/2020,2020,21,serie_b,20,38,1,1,1,13,5,8,7,20,26,WDDWLWWDDDWLDWWWDWDW,4,5,1,14,9,6,7,8,5,26,22,WDLDDDLWDWDWWWWLDLDW,2,5,3,10,11,WWWDDLDWDD,WLDLDDWWDD
+Cittadella,Benevento,1-2,/match/as-cittadella/benevento-calcio/2020,2020,21,serie_b,20,38,2,1,2,10,8,6,6,23,24,LWWWWLLLDWDLDDWWDLLD,4,3,3,13,15,1,14,5,1,35,10,DWLWDDLWWWWDWLWLWLWD,5,3,1,11,7,LWWLWDDWDL,DLDLWDLLL
+Virtus Entella,Cremonese,1-1,/match/virtus-entella/us-cremonese/2020,2020,21,serie_b,20,38,1,1,1,5,8,6,6,25,22,WLWDLDWDWWWDWWLWWDLD,5,3,1,9,4,16,5,7,8,15,23,LLWWDWLDDWWWDDWWWDWD,1,3,6,7,16,WWLDWDWWD,LWDDWWDWWW
+Pisa,Juve Stabia,1-1,/match/pisa-calcio/ss-juve-stabia/2020,2020,21,serie_b,20,38,1,1,1,15,6,7,7,25,25,DLWDLDWDWWWWDWLLLWDD,4,3,3,15,13,12,8,3,9,22,28,WLDLWLLWWWWDWWLLWDWW,2,2,5,8,14,DWLDWWWLLD,WDWLWWWLD
+Pordenone,Pescara,0-2,/match/pordenone/pescara-calcio/2020,2020,21,serie_b,20,38,2,0,2,2,10,5,5,29,25,WWWWDDWWDLWDWWWLWWWD,8,2,0,16,3,14,7,5,8,30,28,WWLDWLLLWWWLDWDWDLDL,4,0,5,12,14,WWDWDWWWWW,WLWLWLWWL
+Salernitana,Nuova Cosenza,2-1,/match/salernitana-calcio-1919/nuova-cosenza/2020,2020,21,serie_b,20,38,0,2,1,11,8,5,7,29,26,WLLLDLDWDWWWWDWWDWWL,4,4,1,16,10,17,4,8,8,22,23,DLLWDDDLDWWDWDDLLWWL,2,4,4,13,13,WLDDDWDWW,DWDLWDWDLW
+Crotone,Spezia,1-2,/match/fc-crotone/asd-spezia/2020,2020,21,serie_b,20,38,2,1,2,3,10,4,6,32,22,DLDWWLWDWWLWWDWWWLWL,6,3,1,19,9,7,7,7,6,26,23,LLWDWLLLWDDWWDWDWDWD,2,4,3,9,10,DDWWWLWDWW,LWWLDWDDD
+Venezia,Trapani,1-1,/match/venezia/trapani/2020,2020,21,serie_b,20,38,1,1,1,18,5,8,7,18,22,LLLDLDDWWLDWDLDDWLLD,2,2,5,6,11,19,4,6,10,22,37,WLWLDLLDDWWDLWWLDDWW,2,2,6,10,23,LLDWLWLDL,WWLDWWLWDW
+Ascoli,Frosinone,0-1,/match/ascoli/frosinone-calcio/2020,2020,21,serie_b,20,38,2,0,1,8,8,3,9,28,29,WWWLWWLWWDDWWDWWWWWW,7,1,1,16,7,4,7,7,6,24,19,WWWDWDDWDWDWWWLWWLDD,1,4,5,5,12,WWWLWDWWW,WWWDDDWLWD
+Perugia,Livorno,1-0,/match/perugia/livorno/2020,2020,21,serie_b,20,38,0,1,0,9,7,6,7,24,27,WLDDWWWWDDLLWWDWWDLW,5,3,2,14,9,20,3,4,13,18,32,WLWWDLLWWWWWLDWLWLDD,0,3,7,3,12,WDWWDLWDWL,WWDWWWDWWD
+Cremonese,Pisa,3-4,/match/us-cremonese/pisa-calcio/2020,2020,22,serie_b,20,38,2,3,4,16,5,8,8,16,24,LLWWDWLDDWWWDDWWWDWDD,4,4,2,8,7,15,6,8,7,26,26,DLWDLDWDWWWWDWLLLWDDD,2,4,4,10,12,LWWLDWDWDD,LDDWWWDLWD
+Livorno,Ascoli,0-3,/match/livorno/ascoli/2020,2020,22,serie_b,20,38,2,0,3,20,3,4,14,18,33,WLWWDLLWWWWWLDWLWLDDW,3,1,6,15,20,10,8,3,10,28,30,WWWLWWLWWDDWWDWWWWWWL,1,2,8,12,22,LWLLWWLLLD,WLWWDWDWWWW
+Trapani,Cittadella,0-3,/match/trapani/as-cittadella/2020,2020,22,serie_b,20,38,2,0,3,19,4,7,10,23,38,WLWLDLLDDWWDLWWLDDWWD,2,4,4,12,14,11,8,6,7,24,26,LWWWWLLLDWDLDDWWDLLDL,4,3,3,10,9,LLDLDDWLDW,WWLLDLDWLD
+Spezia,Pordenone,1-0,/match/asd-spezia/pordenone/2020,2020,22,serie_b,20,38,0,1,0,8,8,7,6,28,24,LLWDWLLLWDDWWDWDWDWDL,5,3,3,17,13,2,10,5,6,29,27,WWWWDDWWDLWDWWWLWWWDL,2,3,5,13,22,LDLLWDWWWWD,WWDWLDWLWD
+Frosinone,Virtus Entella,1-0,/match/frosinone-calcio/virtus-entella/2020,2020,22,serie_b,20,38,0,1,0,4,8,7,6,25,19,WWWDWDDWDWDWWWLWWLDDL,6,3,1,19,7,7,8,7,6,26,23,WLWDLDWDWWWDWWLWWDLDD,3,3,5,16,18,WDDWWWWWLD,LDDWWWWLWLD
+Empoli,Crotone,3-1,/match/empoli-fc/fc-crotone/2020,2020,22,serie_b,20,38,0,3,1,13,5,9,7,21,27,WDDWLWWDDDWLDWWWDWDWD,4,6,1,15,10,3,10,4,7,33,24,DLDWWLWDWWLWWDWWWLWLL,4,1,5,13,13,WWWDDLDWDDD,LWLDWWWWLL
+Juve Stabia,Perugia,1-2,/match/ss-juve-stabia/perugia/2020,2020,22,serie_b,20,38,2,1,2,12,8,4,9,23,29,WLDLWLLWWWWDWWLLWDWWD,6,1,4,14,14,5,8,6,7,25,27,WLDDWWWWDDLLWWDWWDLWW,2,3,5,10,18,LLLWWDWLWWW,LDWWDLWWDW
+Chievo,Venezia,0-1,/match/chievo/venezia/2020,2020,22,serie_b,20,38,2,0,1,9,7,9,5,27,23,WDLDDDLWDWDWWWWLDLDWD,5,3,2,16,11,17,5,9,7,19,23,LLLDLDDWWLDWDLDDWLLDD,3,6,2,12,11,DDDWWWWLLW,LDLDWDDDWLD
+Benevento,Salernitana,1-1,/match/benevento-calcio/salernitana-calcio-1919/2020,2020,22,serie_b,20,38,1,1,1,1,15,5,1,37,11,DWLWDDLWWWWDWLWLWLWDL,9,2,0,24,3,6,9,5,7,31,27,WLLLDLDWDWWWWDWWDWWLW,4,1,6,13,16,WWDWWWWWWWD,LLLWWWWWDWL
+Pescara,Nuova Cosenza,2-1,/match/pescara-calcio/nuova-cosenza/2020,2020,22,serie_b,20,38,0,2,1,14,8,5,8,32,28,WWLDWLLLWWWLDWDWDLDLL,3,5,3,18,14,18,4,8,9,23,25,DLLWDDDLDWWDWDDLLWWLW,2,4,5,14,15,WDLLWWDDDDL,DWDLWDWDLWW
+Ascoli,Juve Stabia,2-2,/match/ascoli/ss-juve-stabia/2020,2020,23,serie_b,20,38,1,2,2,11,9,3,10,31,30,WWWLWWLWWDDWWDWWWWWWLL,7,1,2,16,8,15,8,4,10,24,31,WLDLWLLWWWWDWWLLWDWWDL,2,3,5,9,15,WWWLWDWWWL,WDWLWWWLDD
+Crotone,Cremonese,1-0,/match/fc-crotone/us-cremonese/2020,2020,23,serie_b,20,38,0,1,0,5,10,4,8,34,27,DLDWWLWDWWLWWDWWWLWLLW,6,3,2,20,11,16,5,8,9,19,28,LLWWDWLDDWWWDDWWWDWDDL,1,4,6,8,17,DDWWWLWDWWL,LWDDWWDWWWD
+Cittadella,Empoli,1-2,/match/as-cittadella/empoli-fc/2020,2020,23,serie_b,20,38,2,1,2,13,9,6,7,27,26,LWWWWLLLDWDLDDWWDLLDLL,4,3,4,14,17,8,6,9,7,24,28,WDDWLWWDDDWLDWWWDWDWDW,1,3,6,6,17,LWWLWDDWDLL,DDLWDWWWWW
+Venezia,Frosinone,0-1,/match/venezia/frosinone-calcio/2020,2020,23,serie_b,20,38,2,0,1,17,6,9,7,20,23,LLLDLDDWWLDWDLDDWLLDDL,2,3,5,7,12,3,9,7,6,26,19,WWWDWDDWDWDWWWLWWLDDLW,2,4,5,6,12,LLDWLWLDLD,WWWDDDWLWDL
+Pordenone,Livorno,2-2,/match/pordenone/livorno/2020,2020,23,serie_b,20,38,1,2,2,2,10,5,7,29,28,WWWWDDWWDLWDWWWLWWWDLW,8,2,1,16,5,20,3,4,15,18,36,WLWWDLLWWWWWLDWLWLDDWL,0,3,8,3,13,WWDWDWWWWWL,WWDWWWDWWDW
+Perugia,Spezia,0-3,/match/perugia/asd-spezia/2020,2020,23,serie_b,20,38,2,0,3,6,9,6,7,27,28,WLDDWWWWDDLLWWDWWDLWWL,6,3,2,15,9,4,9,7,6,29,24,LLWDWLLLWDDWWDWDWDWDLW,3,4,3,11,11,WDWWDLWDWLW,LWWLDWDDDL
+Pisa,Chievo,1-1,/match/pisa-calcio/chievo/2020,2020,23,serie_b,20,38,1,1,1,14,7,8,7,30,29,DLWDLDWDWWWWDWLLLWDDDL,4,4,3,16,14,10,7,9,6,27,24,WDLDDDLWDWDWWWWLDLDWDL,2,6,3,11,12,DWLDWWWLLDD,WLDLDDWWDDD
+Virtus Entella,Pescara,2-0,/match/virtus-entella/pescara-calcio/2020,2020,23,serie_b,20,38,0,2,0,9,8,7,7,26,24,WLWDLDWDWWWDWWLWWDLDDW,5,4,1,10,5,12,9,5,8,34,29,WWLDWLLLWWWLDWDWDLDLLW,5,0,5,14,14,WWLDWDWWDD,WLWLWLWWLL
+Nuova Cosenza,Benevento,0-1,/match/nuova-cosenza/benevento-calcio/2020,2020,23,serie_b,20,38,2,0,1,18,4,8,10,24,27,DLLWDDDLDWWDWDDLLWWLWW,2,4,4,9,10,1,15,6,1,38,12,DWLWDDLWWWWDWLWLWLWDLD,6,3,1,13,8,LLDDDWDLWL,DLDLWDLLLL
+Salernitana,Trapani,1-0,/match/salernitana-calcio-1919/trapani/2020,2020,23,serie_b,20,38,0,1,0,7,9,6,7,32,28,WLLLDLDWDWWWWDWWDWWLWD,5,4,1,18,11,19,4,7,11,23,41,WLWLDLLDDWWDLWWLDDWWDL,2,3,6,11,24,WLDDDWDWWW,WWLDWWLWDWD
+Pescara,Cittadella,1-2,/match/pescara-calcio/as-cittadella/2020,2020,24,serie_b,20,38,2,1,2,12,9,5,9,34,31,WWLDWLLLWWWLDWDWDLDLLWW,4,5,3,20,15,14,9,6,8,28,28,LWWWWLLLDWDLDDWWDLLDLLL,5,3,3,13,9,WDLLWWDDDDLW,WWLLDLDWLDL
+Livorno,Nuova Cosenza,0-3,/match/livorno/nuova-cosenza/2020,2020,24,serie_b,20,38,2,0,3,20,3,5,15,20,38,WLWWDLLWWWWWLDWLWLDDWLD,3,1,7,15,23,18,4,8,11,24,28,DLLWDDDLDWWDWDDLLWWLWWL,2,4,6,15,17,LWLLWWLLLDL,DWDLWDWDLWWW
+Juve Stabia,Crotone,3-2,/match/ss-juve-stabia/fc-crotone/2020,2020,24,serie_b,20,38,0,3,2,15,8,5,10,26,33,WLDLWLLWWWWDWWLLWDWWDLD,6,1,5,15,16,4,11,4,8,35,27,DLDWWLWDWWLWWDWWWLWLLWW,4,1,6,14,16,LLLWWDWLWWWL,LWLDWWWWLLW
+Benevento,Pordenone,2-1,/match/benevento-calcio/pordenone/2020,2020,24,serie_b,20,38,0,2,1,1,16,6,1,39,12,DWLWDDLWWWWDWLWLWLWDLDL,9,3,0,25,4,2,10,6,7,31,30,WWWWDDWWDLWDWWWLWWWDLWD,2,3,6,13,23,WWDWWWWWWWDD,WWDWLDWLWDW
+Venezia,Virtus Entella,2-2,/match/venezia/virtus-entella/2020,2020,24,serie_b,20,38,1,2,2,17,6,9,8,20,24,LLLDLDDWWLDWDLDDWLLDDLL,2,3,6,7,13,7,9,7,7,28,24,WLWDLDWDWWWDWWLWWDLDDWW,3,3,6,16,19,LLDWLWLDLDL,LDDWWWWLWLDW
+Spezia,Ascoli,3-1,/match/asd-spezia/ascoli/2020,2020,24,serie_b,20,38,0,3,1,5,10,7,6,32,24,LLWDWLLLWDDWWDWDWDWDLWL,6,3,3,18,13,10,9,4,10,33,32,WWWLWWLWWDDWWDWWWWWWLLD,2,2,8,15,22,LDLLWDWWWWDW,WLWWDWDWWWWL
+Frosinone,Perugia,1-0,/match/frosinone-calcio/perugia/2020,2020,24,serie_b,20,38,0,1,0,3,10,7,6,27,19,WWWDWDDWDWDWWWLWWLDDLWL,7,3,1,20,7,8,9,6,8,27,31,WLDDWWWWDDLLWWDWWDLWWLL,3,3,5,12,19,WDDWWWWWLDW,LDWWDLWWDWL
+Cremonese,Trapani,5-0,/match/us-cremonese/trapani/2020,2020,24,serie_b,20,38,0,5,0,16,5,8,10,19,29,LLWWDWLDDWWWDDWWWDWDDLW,4,4,3,11,11,19,4,7,12,23,42,WLWLDLLDDWWDLWWLDDWWDLW,2,3,7,11,25,LWWLDWDWDDL,WWLDWWLWDWDW
+Empoli,Pisa,2-1,/match/empoli-fc/pisa-calcio/2020,2020,24,serie_b,20,38,0,2,1,9,7,9,7,26,29,WDDWLWWDDDWLDWWWDWDWDWL,5,6,1,18,11,13,7,9,7,31,30,DLWDLDWDWWWWDWLLLWDDDLD,3,4,4,14,15,WWWDDLDWDDDW,LDDWWWDLWDL
+Chievo,Salernitana,2-0,/match/chievo/salernitana-calcio-1919/2020,2020,24,serie_b,20,38,0,2,0,11,7,10,6,28,25,WDLDDDLWDWDWWWWLDLDWDLD,5,3,3,16,12,6,10,6,7,33,28,WLLLDLDWDWWWWDWWDWWLWDW,4,2,6,14,17,DDDWWWWLLWL,LLLWWWWWDWLD
+Nuova Cosenza,Frosinone,0-2,/match/nuova-cosenza/frosinone-calcio/2020,2020,25,serie_b,20,38,2,0,2,18,5,8,11,27,28,DLLWDDDLDWWDWDDLLWWLWWLL,2,4,5,9,11,2,11,7,6,28,19,WWWDWDDWDWDWWWLWWLDDLWLW,3,4,5,7,12,LLDDDWDLWLL,WWWDDDWLWDLL
+Virtus Entella,Benevento,0-4,/match/virtus-entella/benevento-calcio/2020,2020,25,serie_b,20,38,2,0,4,8,9,8,7,30,26,WLWDLDWDWWWDWWLWWDLDDWWD,6,4,1,12,5,1,17,6,1,41,13,DWLWDDLWWWWDWLWLWLWDLDLW,7,3,1,14,8,WWLDWDWWDDW,DLDLWDLLLLL
+Cittadella,Juve Stabia,3-0,/match/as-cittadella/ss-juve-stabia/2020,2020,25,serie_b,20,38,0,3,0,13,10,6,8,30,29,LWWWWLLLDWDLDDWWDLLDLLLL,4,3,5,15,19,12,9,5,10,29,35,WLDLWLLWWWWDWWLLWDWWDLDW,2,4,5,11,17,LWWLWDDWDLLL,WDWLWWWLDDD
+Trapani,Spezia,1-1,/match/trapani/asd-spezia/2020,2020,25,serie_b,20,38,1,1,1,19,4,7,13,23,47,WLWLDLLDDWWDLWWLDDWWDLWW,2,4,5,12,17,3,11,7,6,35,25,LLWDWLLLWDDWWDWDWDWDLWLW,4,4,3,14,11,LLDLDDWLDWL,LWWLDWDDDLL
+Pisa,Venezia,1-2,/match/pisa-calcio/venezia/2020,2020,25,serie_b,20,38,2,1,2,15,7,9,8,32,32,DLWDLDWDWWWWDWLLLWDDDLDW,4,5,3,17,15,17,6,10,8,22,26,LLLDLDDWWLDWDLDDWLLDDLLD,4,6,2,13,11,DWLDWWWLLDDD,LDLDWDDDWLDL
+Pordenone,Chievo,0-1,/match/pordenone/chievo/2020,2020,25,serie_b,20,38,2,0,1,4,10,6,8,32,32,WWWWDDWWDLWDWWWLWWWDLWDW,8,3,1,18,7,9,8,10,6,30,25,WDLDDDLWDWDWWWWLDLDWDLDW,2,7,3,12,13,WWDWDWWWWWLD,WLDLDDWWDDDD
+Salernitana,Livorno,1-0,/match/salernitana-calcio-1919/livorno/2020,2020,25,serie_b,20,38,0,1,0,7,10,6,8,33,30,WLLLDLDWDWWWWDWWDWWLWDWW,6,4,1,19,11,20,3,5,16,20,41,WLWWDLLWWWWWLDWLWLDDWLDL,0,4,8,5,15,WLDDDWDWWWW,WWDWWWDWWDWD
+Crotone,Pescara,4-1,/match/fc-crotone/pescara-calcio/2020,2020,25,serie_b,20,38,0,4,1,6,11,4,9,37,30,DLDWWLWDWWLWWDWWWLWLLWWW,7,3,2,21,11,14,9,5,10,35,33,WWLDWLLLWWWLDWDWDLDLLWWL,5,0,6,14,16,DDWWWLWDWWLW,WLWLWLWWLLW
+Perugia,Empoli,0-1,/match/perugia/empoli-fc/2020,2020,25,serie_b,20,38,2,0,1,10,9,6,9,27,32,WLDDWWWWDDLLWWDWWDLWWLLW,6,3,3,15,12,5,8,9,7,28,30,WDDWLWWDDDWLDWWWDWDWDWLW,2,3,6,8,18,WDWWDLWDWLWL,DDLWDWWWWWL
+Ascoli,Cremonese,1-3,/match/ascoli/us-cremonese/2020,2020,25,serie_b,20,38,2,1,3,11,9,4,11,34,35,WWWLWWLWWDDWWDWWWWWWLLDW,7,2,2,18,10,16,6,8,10,24,29,LLWWDWLDDWWWDDWWWDWDDLWW,1,4,7,8,18,WWWLWDWWWLD,LWDDWWDWWWDW
+Virtus Entella,Crotone,1-2,/match/virtus-entella/fc-crotone/2020,2020,26,serie_b,20,38,2,1,2,9,9,8,8,30,30,WLWDLDWDWWWDWWLWWDLDDWWDL,6,4,2,12,9,4,12,4,9,41,31,DLDWWLWDWWLWWDWWWLWLLWWWW,4,1,7,16,19,WWLDWDWWDDWL,LWLDWWWWLLWW
+Venezia,Nuova Cosenza,1-1,/match/venezia/nuova-cosenza/2020,2020,26,serie_b,20,38,1,1,1,17,7,10,8,24,27,LLLDLDDWWLDWDLDDWLLDDLLDL,2,4,6,9,15,18,5,8,12,27,30,DLLWDDDLDWWDWDDLLWWLWWLLL,3,4,6,18,17,LLDWLWLDLDLD,DWDLWDWDLWWWL
+Cittadella,Cremonese,0-0,/match/as-cittadella/us-cremonese/2020,2020,26,serie_b,20,38,1,0,0,10,11,6,8,33,29,LWWWWLLLDWDLDDWWDLLDLLLLW,5,3,5,18,19,16,7,8,10,27,30,LLWWDWLDDWWWDDWWWDWDDLWWL,2,4,7,11,19,LWWLWDDWDLLLW,LWDDWWDWWWDWL
+Pisa,Perugia,1-0,/match/pisa-calcio/perugia/2020,2020,26,serie_b,20,38,0,1,0,15,7,9,9,33,34,DLWDLDWDWWWWDWLLLWDDDLDWL,4,5,4,18,17,11,9,6,10,27,33,WLDDWWWWDDLLWWDWWDLWWLLWL,3,3,6,12,20,DWLDWWWLLDDDL,LDWWDLWWDWLW
+Empoli,Pordenone,0-1,/match/empoli-fc/pordenone/2020,2020,26,serie_b,20,38,2,0,1,7,9,9,7,29,30,WDDWLWWDDDWLDWWWDWDWDWLWL,6,6,1,20,12,6,10,6,9,32,33,WWWWDDWWDLWDWWWLWWWDLWDWL,2,3,7,14,25,WWWDDLDWDDDWW,WWDWLDWLWDWW
+Benevento,Spezia,3-1,/match/benevento-calcio/asd-spezia/2020,2020,26,serie_b,20,38,0,3,1,1,18,6,1,45,13,DWLWDDLWWWWDWLWLWLWDLDLWL,10,3,0,27,5,3,11,8,6,36,26,LLWDWLLLWDDWWDWDWDWDLWLWD,4,5,3,15,12,WWDWWWWWWWDDW,LWWLDWDDDLLD
+Juve Stabia,Trapani,2-2,/match/ss-juve-stabia/trapani/2020,2020,26,serie_b,20,38,1,2,2,13,9,5,11,29,38,WLDLWLLWWWWDWWLLWDWWDLDWW,7,1,5,18,18,19,4,8,13,24,48,WLWLDLLDDWWDLWWLDDWWDLWWD,2,3,8,11,30,LLLWWDWLWWWLW,WWLDWWLWDWDWW
+Chievo,Livorno,0-1,/match/chievo/livorno/2020,2020,26,serie_b,20,38,2,0,1,8,9,10,6,31,25,WDLDDDLWDWDWWWWLDLDWDLDWL,6,3,3,18,12,20,3,5,17,20,42,WLWWDLLWWWWWLDWLWLDDWLDLW,0,4,9,5,16,DDDWWWWLLWLW,WWDWWWDWWDWDW
+Frosinone,Salernitana,1-0,/match/frosinone-calcio/salernitana-calcio-1919/2020,2020,26,serie_b,20,38,0,1,0,2,12,7,6,30,19,WWWDWDDWDWDWWWLWWLDDLWLWL,8,3,1,21,7,5,11,6,8,34,30,WLLLDLDWDWWWWDWWDWWLWDWWW,4,2,7,14,19,WDDWWWWWLDWW,LLLWWWWWDWLDW
+Pescara,Ascoli,2-1,/match/pescara-calcio/ascoli/2020,2020,26,serie_b,20,38,0,2,1,14,9,5,11,36,37,WWLDWLLLWWWLDWDWDLDLLWWLW,4,5,4,21,17,12,9,4,12,35,38,WWWLWWLWWDDWWDWWWWWWLLDWL,2,2,9,16,25,WDLLWWDDDDLWL,WLWWDWDWWWWLW
+Perugia,Benevento,1-2,/match/perugia/benevento-calcio/2020,2020,27,serie_b,20,38,2,1,2,14,9,6,11,27,34,WLDDWWWWDDLLWWDWWDLWWLLWLW,6,3,4,15,13,1,19,6,1,48,14,DWLWDDLWWWWDWLWLWLWDLDLWLW,8,3,1,18,8,WDWWDLWDWLWLL,DLDLWDLLLLLL
+Nuova Cosenza,Cittadella,1-2,/match/nuova-cosenza/as-cittadella/2020,2020,27,serie_b,20,38,2,1,2,18,5,9,12,28,31,DLLWDDDLDWWDWDDLLWWLWWLLLD,2,4,6,9,13,9,11,7,8,33,29,LWWWWLLLDWDLDDWWDLLDLLLLWD,6,3,3,15,10,LLDDDWDLWLLL,WWLLDLDWLDLL
+Cremonese,Empoli,2-3,/match/us-cremonese/empoli-fc/2020,2020,27,serie_b,20,38,2,2,3,16,7,9,10,27,30,LLWWDWLDDWWWDDWWWDWDDLWWLD,5,4,3,16,11,7,9,9,8,29,31,WDDWLWWDDDWLDWWWDWDWDWLWLL,3,3,6,9,18,LWWLDWDWDDLW,DDLWDWWWWWLL
+Livorno,Frosinone,2-2,/match/livorno/frosinone-calcio/2020,2020,27,serie_b,20,38,1,2,2,20,4,5,17,21,42,WLWWDLLWWWWWLDWLWLDDWLDLWL,3,1,8,15,26,2,13,7,6,31,19,WWWDWDDWDWDWWWLWWLDDLWLWLW,4,4,5,9,12,LWLLWWLLLDLL,WWWDDDWLWDLLL
+Pordenone,Juve Stabia,2-1,/match/pordenone/ss-juve-stabia/2020,2020,27,serie_b,20,38,0,2,1,5,11,6,9,33,33,WWWWDDWWDLWDWWWLWWWDLWDWLL,8,3,2,18,8,13,9,6,11,31,40,WLDLWLLWWWWDWWLLWDWWDLDWWD,2,4,6,11,20,WWDWDWWWWWLDL,WDWLWWWLDDDW
+Crotone,Pisa,1-0,/match/fc-crotone/pisa-calcio/2020,2020,27,serie_b,20,38,0,1,0,3,13,4,9,43,32,DLDWWLWDWWLWWDWWWLWLLWWWWL,8,3,2,25,12,12,8,9,9,34,34,DLWDLDWDWWWWDWLLLWDDDLDWLW,3,4,5,15,17,DDWWWLWDWWLWW,LDDWWWDLWDLW
+Salernitana,Venezia,2-0,/match/salernitana-calcio-1919/venezia/2020,2020,27,serie_b,20,38,0,2,0,6,11,6,9,34,31,WLLLDLDWDWWWWDWWDWWLWDWWWW,7,4,1,20,11,17,7,11,8,25,28,LLLDLDDWWLDWDLDDWLLDDLLDLD,5,6,2,15,12,WLDDDWDWWWWW,LDLDWDDDWLDLL
+Trapani,Virtus Entella,4-1,/match/trapani/virtus-entella/2020,2020,27,serie_b,20,38,0,4,1,19,4,9,13,26,50,WLWLDLLDDWWDLWWLDDWWDLWWDD,2,5,5,13,18,10,9,8,9,31,32,WLWDLDWDWWWDWWLWWDLDDWWDLL,3,4,6,18,21,LLDLDDWLDWLD,LDDWWWWLWLDWD
+Ascoli,Chievo,1-1,/match/ascoli/chievo/2020,2020,27,serie_b,20,38,1,1,1,15,9,4,13,36,40,WWWLWWLWWDDWWDWWWWWWLLDWLW,7,2,3,19,13,8,9,10,7,31,26,WDLDDDLWDWDWWWWLDLDWDLDWLL,3,7,3,13,13,WWWLWDWWWLDL,WLDLDDWWDDDDL
+Spezia,Pescara,2-0,/match/asd-spezia/pescara-calcio/2020,2020,27,serie_b,20,38,0,2,0,4,11,8,7,37,29,LLWDWLLLWDDWWDWDWDWDLWLWDW,7,3,3,21,14,11,10,5,11,38,38,WWLDWLLLWWWLDWDWDLDLLWWLWW,5,0,7,15,20,LDLLWDWWWWDWW,WLWLWLWWLLWW
+Cittadella,Pordenone,0-2,/match/as-cittadella/pordenone/2020,2020,28,serie_b,20,38,2,0,2,8,12,7,8,35,30,LWWWWLLLDWDLDDWWDLLDLLLLWDL,5,4,5,18,19,5,12,6,9,35,34,WWWWDDWWDLWDWWWLWWWDLWDWLLW,3,3,7,15,25,LWWLWDDWDLLLWD,WWDWLDWLWDWWL
+Frosinone,Cremonese,0-2,/match/frosinone-calcio/us-cremonese/2020,2020,28,serie_b,20,38,2,0,2,2,13,8,6,33,21,WWWDWDDWDWDWWWLWWLDDLWLWLWD,9,3,1,22,7,16,7,9,11,29,33,LLWWDWLDDWWWDDWWWDWDDLWWLDL,2,5,7,11,19,WDDWWWWWLDWWW,LWDDWWDWWWDWLD
+Venezia,Crotone,1-3,/match/venezia/fc-crotone/2020,2020,28,serie_b,20,38,2,1,3,17,7,11,9,25,30,LLLDLDDWWLDWDLDDWLLDDLLDLDW,2,5,6,10,16,3,14,4,9,44,32,DLDWWLWDWWLWWDWWWLWLLWWWWLW,5,1,7,18,20,LLDWLWLDLDLDD,LWLDWWWWLLWWL
+Perugia,Salernitana,1-0,/match/perugia/salernitana-calcio-1919/2020,2020,28,serie_b,20,38,0,1,0,15,9,6,12,28,36,WLDDWWWWDDLLWWDWWDLWWLLWLWL,6,3,5,16,15,6,12,6,9,36,31,WLLLDLDWDWWWWDWWDWWLWDWWWWW,4,2,8,14,20,WDWWDLWDWLWLLL,LLLWWWWWDWLDWW
+Empoli,Trapani,1-1,/match/empoli-fc/trapani/2020,2020,28,serie_b,20,38,1,1,1,7,10,9,8,32,33,WDDWLWWDDDWLDWWWDWDWDWLWLLL,6,6,2,20,13,18,5,9,13,30,51,WLWLDLLDDWWDLWWLDDWWDLWWDDW,2,4,8,13,32,WWWDDLDWDDDWWL,WWLDWWLWDWDWWD
+Pisa,Livorno,1-0,/match/pisa-calcio/livorno/2020,2020,28,serie_b,20,38,0,1,0,14,8,9,10,34,35,DLWDLDWDWWWWDWLLLWDDDLDWLWW,5,5,4,19,17,20,4,6,17,23,44,WLWWDLLWWWWWLDWLWLDDWLDLWLD,1,4,9,6,16,DWLDWWWLLDDDLW,WWDWWWDWWDWDWL
+Virtus Entella,Ascoli,3-0,/match/virtus-entella/ascoli/2020,2020,28,serie_b,20,38,0,3,0,10,9,8,10,32,36,WLWDLDWDWWWDWWLWWDLDDWWDLLW,6,4,3,13,11,12,9,5,13,37,41,WWWLWWLWWDDWWDWWWWWWLLDWLWD,2,2,10,17,27,WWLDWDWWDDWLL,WLWWDWDWWWWLWW
+Juve Stabia,Spezia,3-1,/match/ss-juve-stabia/asd-spezia/2020,2020,28,serie_b,20,38,0,3,1,11,9,6,12,32,42,WLDLWLLWWWWDWWLLWDWWDLDWWDW,7,2,5,20,20,4,12,8,7,39,29,LLWDWLLLWDDWWDWDWDWDLWLWDWW,4,5,4,16,15,LLLWWDWLWWWLWD,LWWLDWDDDLLDW
+Benevento,Pescara,4-0,/match/benevento-calcio/pescara-calcio/2020,2020,28,serie_b,20,38,0,4,0,1,20,6,1,50,15,DWLWDDLWWWWDWLWLWLWDLDLWLWL,11,3,0,30,6,13,10,5,12,38,40,WWLDWLLLWWWLDWDWDLDLLWWLWWW,5,0,8,15,22,WWDWWWWWWWDDWW,WLWLWLWWLLWWW
+Chievo,Nuova Cosenza,2-0,/match/chievo/nuova-cosenza/2020,2020,28,serie_b,20,38,0,2,0,9,9,11,7,32,27,WDLDDDLWDWDWWWWLDLDWDLDWLLD,6,3,4,18,13,19,5,9,13,29,33,DLLWDDDLDWWDWDDLLWWLWWLLLDL,3,5,6,19,18,DDDWWWWLLWLWL,DWDLWDWDLWWWLD
+Spezia,Empoli,1-0,/match/asd-spezia/empoli-fc/2020,2020,29,serie_b,20,38,0,1,0,5,12,8,8,40,32,LLWDWLLLWDDWWDWDWDWDLWLWDWWW,8,3,3,23,14,7,10,10,8,33,34,WDDWLWWDDDWLDWWWDWDWDWLWLLLD,4,3,6,12,20,LDLLWDWWWWDWWW,DDLWDWWWWWLLL
+Crotone,Chievo,1-1,/match/fc-crotone/chievo/2020,2020,29,serie_b,20,38,1,1,1,2,15,4,9,47,33,DLDWWLWDWWLWWDWWWLWLLWWWWLWL,9,3,2,26,12,8,10,11,7,34,27,WDLDDDLWDWDWWWWLDLDWDLDWLLDW,3,8,3,14,14,DDWWWLWDWWLWWW,WLDLDDWWDDDDLD
+Livorno,Cittadella,0-2,/match/livorno/as-cittadella/2020,2020,29,serie_b,20,38,2,0,2,20,4,6,18,23,45,WLWWDLLWWWWWLDWLWLDDWLDLWLDW,3,2,8,17,28,10,12,7,9,35,32,LWWWWLLLDWDLDDWWDLLDLLLLWDLL,7,3,3,17,11,LWLLWWLLLDLLD,WWLLDLDWLDLLL
+Trapani,Frosinone,0-0,/match/trapani/frosinone-calcio/2020,2020,29,serie_b,20,38,1,0,0,18,5,10,13,31,52,WLWLDLLDDWWDLWWLDDWWDLWWDDWD,3,5,5,17,19,3,13,8,7,33,23,WWWDWDDWDWDWWWLWWLDDLWLWLWDL,4,5,5,11,14,LLDLDDWLDWLDW,WWWDDDWLWDLLLD
+Pescara,Juve Stabia,3-1,/match/pescara-calcio/ss-juve-stabia/2020,2020,29,serie_b,20,38,0,3,1,14,10,5,13,38,44,WWLDWLLLWWWLDWDWDLDLLWWLWWWW,5,5,4,23,18,12,10,6,12,35,43,WLDLWLLWWWWDWWLLWDWWDLDWWDWW,2,4,7,12,22,WDLLWWDDDDLWLW,WDWLWWWLDDDWW
+Salernitana,Pisa,1-1,/match/salernitana-calcio-1919/pisa-calcio/2020,2020,29,serie_b,20,38,1,1,1,6,12,6,10,36,32,WLLLDLDWDWWWWDWWDWWLWDWWWWWW,8,4,1,22,11,11,9,9,10,35,35,DLWDLDWDWWWWDWLLLWDDDLDWLWWW,3,4,6,15,18,WLDDDWDWWWWWW,LDDWWWDLWDLWW
+Nuova Cosenza,Virtus Entella,2-1,/match/nuova-cosenza/virtus-entella/2020,2020,29,serie_b,20,38,0,2,1,19,5,9,14,29,35,DLLWDDDLDWWDWDDLLWWLWWLLLDLW,2,4,7,10,15,9,10,8,10,35,36,WLWDLDWDWWWDWWLWWDLDDWWDLLWW,3,4,7,19,25,LLDDDWDLWLLLL,LDDWWWWLWLDWDW
+Pordenone,Venezia,0-0,/match/pordenone/venezia/2020,2020,29,serie_b,20,38,1,0,0,4,13,6,9,37,34,WWWWDDWWDLWDWWWLWWWDLWDWLLWL,9,3,2,20,9,17,7,11,10,26,33,LLLDLDDWWLDWDLDDWLLDDLLDLDWL,5,6,3,15,14,WWDWDWWWWWLDLW,LDLDWDDDWLDLLW
+Cremonese,Benevento,0-1,/match/us-cremonese/benevento-calcio/2020,2020,29,serie_b,20,38,2,0,1,16,8,9,11,31,33,LLWWDWLDDWWWDDWWWDWDDLWWLDLL,5,4,4,18,14,1,21,6,1,54,15,DWLWDDLWWWWDWLWLWLWDLDLWLWLW,9,3,1,20,9,LWWLDWDWDDLWL,DLDLWDLLLLLLL
+Ascoli,Perugia,0-1,/match/ascoli/perugia/2020,2020,29,serie_b,20,38,2,0,1,15,9,5,14,37,44,WWWLWWLWWDDWWDWWWWWWLLDWLWDW,7,3,3,20,14,13,10,6,12,29,36,WLDDWWWWDDLLWWDWWDLWWLLWLWLW,3,3,7,12,21,WWWLWDWWWLDLD,LDWWDLWWDWLWW
+Trapani,Pordenone,3-0,/match/trapani/pordenone/2020,2020,30,serie_b,20,38,0,3,0,18,5,11,13,31,52,WLWLDLLDDWWDLWWLDDWWDLWWDDWDD,3,6,5,17,19,4,13,7,9,37,34,WWWWDDWWDLWDWWWLWWWDLWDWLLWLD,4,3,7,17,25,LLDLDDWLDWLDWD,WWDWLDWLWDWWLL
+Venezia,Ascoli,2-1,/match/venezia/ascoli/2020,2020,30,serie_b,20,38,0,2,1,17,7,12,10,26,33,LLLDLDDWWLDWDLDDWLLDDLLDLDWLD,2,5,7,11,19,15,9,5,15,37,45,WWWLWWLWWDDWWDWWWWWWLLDWLWDWL,2,2,11,17,30,LLDWLWLDLDLDDL,WLWWDWDWWWWLWWW
+Empoli,Benevento,0-0,/match/empoli-fc/benevento-calcio/2020,2020,30,serie_b,20,38,1,0,0,7,10,10,9,33,35,WDDWLWWDDDWLDWWWDWDWDWLWLLLDW,6,7,2,21,14,1,22,6,1,55,15,DWLWDDLWWWWDWLWLWLWDLDLWLWLWL,10,3,1,21,9,WWWDDLDWDDDWWLD,DLDLWDLLLLLLLL
+Frosinone,Cittadella,0-2,/match/frosinone-calcio/as-cittadella/2020,2020,30,serie_b,20,38,2,0,2,3,13,9,7,33,23,WWWDWDDWDWDWWWLWWLDDLWLWLWDLD,9,3,2,22,9,9,13,7,9,37,32,LWWWWLLLDWDLDDWWDLLDLLLLWDLLL,8,3,3,19,11,WDDWWWWWLDWWWL,WWLLDLDWLDLLLL
+Cremonese,Nuova Cosenza,0-2,/match/us-cremonese/nuova-cosenza/2020,2020,30,serie_b,20,38,2,0,2,16,8,9,12,31,34,LLWWDWLDDWWWDDWWWDWDDLWWLDLLL,5,4,5,18,15,19,6,9,14,31,36,DLLWDDDLDWWDWDDLLWWLWWLLLDLWW,3,5,7,19,20,LWWLDWDWDDLWLL,DWDLWDWDLWWWLDW
+Perugia,Crotone,0-0,/match/perugia/fc-crotone/2020,2020,30,serie_b,20,38,1,0,0,11,11,6,12,30,36,WLDDWWWWDDLLWWDWWDLWWLLWLWLWL,7,3,5,17,15,2,15,5,9,48,34,DLDWWLWDWWLWWDWWWLWLLWWWWLWLD,6,1,7,21,21,WDWWDLWDWLWLLLW,LWLDWWWWLLWWLL
+Juve Stabia,Livorno,2-3,/match/ss-juve-stabia/livorno/2020,2020,30,serie_b,20,38,2,2,3,13,10,6,13,36,46,WLDLWLLWWWWDWWLLWDWWDLDWWDWWW,8,2,5,23,21,20,4,6,19,23,47,WLWWDLLWWWWWLDWLWLDDWLDLWLDWL,1,4,10,6,17,LLLWWDWLWWWLWDW,WWDWWWDWWDWDWLW
+Pisa,Pescara,2-1,/match/pisa-calcio/pescara-calcio/2020,2020,30,serie_b,20,38,0,2,1,12,9,10,10,36,36,DLWDLDWDWWWWDWLLLWDDDLDWLWWWD,6,5,4,20,17,14,11,5,13,41,45,WWLDWLLLWWWLDWDWDLDLLWWLWWWWW,5,0,9,15,26,DWLDWWWLLDDDLWW,WLWLWLWWLLWWWW
+Virtus Entella,Salernitana,1-0,/match/virtus-entella/salernitana-calcio-1919/2020,2020,30,serie_b,20,38,0,1,0,10,10,8,11,36,38,WLWDLDWDWWWDWWLWWDLDDWWDLLWWW,7,4,3,16,11,6,12,7,10,37,33,WLLLDLDWDWWWWDWWDWWLWDWWWWWWD,4,2,9,14,21,WWLDWDWWDDWLLW,LLLWWWWWDWLDWWW
+Chievo,Spezia,1-3,/match/chievo/asd-spezia/2020,2020,30,serie_b,20,38,2,1,3,8,10,12,7,35,28,WDLDDDLWDWDWWWWLDLDWDLDWLLDWD,7,3,4,20,13,5,13,8,8,41,32,LLWDWLLLWDDWWDWDWDWDLWLWDWWWW,4,5,5,17,18,DDDWWWWLLWLWLW,LWWLDWDDDLLDWW
+Salernitana,Cremonese,3-3,/match/salernitana-calcio-1919/us-cremonese/2020,2020,31,serie_b,20,38,1,3,3,6,12,7,11,37,34,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDW,8,5,1,23,12,16,8,9,13,31,36,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLL,3,5,7,13,19,WLDDDWDWWWWWWD,LWDDWWDWWWDWLDL
+Ascoli,Crotone,1-1,/match/ascoli/fc-crotone/2020,2020,31,serie_b,20,38,1,1,1,15,9,5,16,38,47,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLW,7,3,4,20,15,2,15,6,9,48,34,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDD,6,2,7,21,21,WWWLWDWWWLDLDL,LWLDWWWWLLWWLLD
+Pescara,Empoli,1-1,/match/pescara-calcio/empoli-fc/2020,2020,31,serie_b,20,38,1,1,1,14,11,5,14,42,47,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWW,6,5,4,26,19,7,10,11,9,33,35,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWD,4,3,7,12,21,WDLLWWDDDDLWLWW,DDLWDWWWWWLLLW
+Chievo,Frosinone,2-0,/match/chievo/frosinone-calcio/2020,2020,31,serie_b,20,38,0,2,0,10,10,12,8,36,31,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDL,7,3,5,21,16,4,13,9,8,33,25,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDL,4,6,5,11,14,DDDWWWWLLWLWLWL,WWWDDDWLWDLLLDD
+Benevento,Juve Stabia,1-0,/match/benevento-calcio/ss-juve-stabia/2020,2020,31,serie_b,20,38,0,1,0,1,22,7,1,55,15,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLD,12,3,0,34,6,13,10,6,14,38,49,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWL,2,4,8,13,25,WWDWWWWWWWDDWWW,WDWLWWWLDDDWWW
+Cittadella,Perugia,2-0,/match/as-cittadella/perugia/2020,2020,31,serie_b,20,38,0,2,0,11,14,7,9,39,32,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLL,5,4,6,18,21,12,11,7,12,30,36,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLD,4,3,7,13,21,LWWLWDDWDLLLWDL,LDWWDLWWDWLWWL
+Spezia,Pisa,1-2,/match/asd-spezia/pisa-calcio/2020,2020,31,serie_b,20,38,2,1,2,3,14,8,8,44,33,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWL,9,3,3,24,14,9,10,10,10,38,37,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDW,3,5,6,16,19,LDLLWDWWWWDWWWW,LDDWWWDLWDLWWD
+Nuova Cosenza,Trapani,2-2,/match/nuova-cosenza/trapani/2020,2020,31,serie_b,20,38,1,2,2,19,7,9,14,33,36,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWL,3,4,7,12,16,18,6,11,13,34,52,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDW,2,5,8,14,33,LLDDDWDLWLLLLW,WWLDWWLWDWDWWDD
+Livorno,Venezia,0-2,/match/livorno/venezia/2020,2020,31,serie_b,20,38,2,0,2,20,5,6,19,26,49,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLL,3,2,9,17,30,17,8,12,10,28,34,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDW,5,7,3,15,14,LWLLWWLLLDLLDL,LDLDWDDDWLDLLWD
+Pordenone,Virtus Entella,2-0,/match/pordenone/virtus-entella/2020,2020,31,serie_b,20,38,0,2,0,5,13,7,10,37,37,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDW,9,4,2,20,9,8,11,8,11,37,38,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWW,3,4,8,20,27,WWDWDWWWWWLDLWD,LDDWWWWLWLDWDWW
+Pisa,Cittadella,2-0,/match/pisa-calcio/as-cittadella/2020,2020,32,serie_b,20,38,0,2,0,10,11,10,10,40,38,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDWL,7,5,4,22,18,8,15,7,9,41,32,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLLW,9,3,3,21,11,DWLDWWWLLDDDLWWW,WWLLDLDWLDLLLLL
+Nuova Cosenza,Ascoli,0-1,/match/nuova-cosenza/ascoli/2020,2020,32,serie_b,20,38,2,0,1,19,7,10,14,35,38,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWLD,3,5,7,14,18,15,9,6,16,39,48,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLWD,2,2,12,18,32,LLDDDWDLWLLLLWD,WLWWDWDWWWWLWWWW
+Crotone,Benevento,3-0,/match/fc-crotone/benevento-calcio/2020,2020,32,serie_b,20,38,0,3,0,3,15,7,9,49,35,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDDD,9,4,2,27,13,1,23,7,1,56,15,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLDW,10,4,1,21,9,DDWWWLWDWWLWWWD,DLDLWDLLLLLLLLD
+Virtus Entella,Chievo,1-1,/match/virtus-entella/chievo/2020,2020,32,serie_b,20,38,1,1,1,11,11,8,12,37,40,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWWW,8,4,3,17,11,7,11,12,8,38,31,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDLW,3,9,3,15,15,WWLDWDWWDDWLLWW,WLDLDDWWDDDDLDD
+Venezia,Empoli,0-2,/match/venezia/empoli-fc/2020,2020,32,serie_b,20,38,2,0,2,16,9,12,10,30,34,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDWL,3,5,7,13,20,9,10,12,9,34,36,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWDD,4,4,7,13,22,LLDWLWLDLDLDDLW,DDLWDWWWWWLLLWD
+Salernitana,Juve Stabia,2-1,/match/salernitana-calcio-1919/ss-juve-stabia/2020,2020,32,serie_b,20,38,0,2,1,6,12,8,11,40,37,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDWD,8,6,1,26,15,14,10,6,15,38,50,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWLW,2,4,9,13,26,WLDDDWDWWWWWWDD,WDWLWWWLDDDWWWW
+Trapani,Livorno,2-1,/match/trapani/livorno/2020,2020,32,serie_b,20,38,0,2,1,18,6,12,13,36,54,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDWD,4,6,5,20,19,20,5,6,20,26,51,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLLL,2,4,10,9,19,LLDLDDWLDWLDWDW,WWDWWWDWWDWDWLWL
+Cremonese,Pescara,1-0,/match/us-cremonese/pescara-calcio/2020,2020,32,serie_b,20,38,0,1,0,17,8,10,13,34,39,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLLD,5,4,6,18,17,13,11,6,14,43,48,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWWD,5,0,10,16,28,LWWLDWDWDDLWLLL,WLWLWLWWLLWWWWW
+Perugia,Pordenone,1-2,/match/perugia/pordenone/2020,2020,32,serie_b,20,38,2,1,2,12,11,7,13,30,38,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLDW,7,4,5,17,15,2,14,7,10,39,37,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDWW,4,3,8,17,28,WDWWDLWDWLWLLLWD,WWDWLDWLWDWWLLW
+Frosinone,Spezia,2-1,/match/frosinone-calcio/asd-spezia/2020,2020,32,serie_b,20,38,0,2,1,5,13,9,9,33,27,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDLW,9,3,3,22,11,4,14,8,9,45,35,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWLL,5,5,5,20,19,WDDWWWWWLDWWWLL,LWWLDWDDDLLDWWL
+Juve Stabia,Virtus Entella,1-1,/match/ss-juve-stabia/virtus-entella/2020,2020,33,serie_b,20,38,1,1,1,14,10,6,16,39,52,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWLWW,8,2,6,25,24,11,11,9,12,38,41,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWWWD,3,4,9,20,29,LLLWWDWLWWWLWDWL,LDDWWWWLWLDWDWWW
+Spezia,Nuova Cosenza,5-1,/match/asd-spezia/nuova-cosenza/2020,2020,33,serie_b,20,38,0,5,1,6,14,8,10,46,37,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWLLW,9,3,4,25,16,19,7,10,15,35,39,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWLDL,4,5,7,21,20,LDLLWDWWWWDWWWWL,DWDLWDWDLWWWLDWL
+Livorno,Cremonese,1-2,/match/livorno/us-cremonese/2020,2020,33,serie_b,20,38,2,1,2,20,5,6,21,27,53,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLLLW,3,2,10,17,32,16,9,10,13,35,39,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLLDW,3,6,7,16,22,LWLLWWLLLDLLDLL,LWDDWWDWWWDWLDLD
+Cittadella,Crotone,1-3,/match/as-cittadella/fc-crotone/2020,2020,33,serie_b,20,38,2,1,3,10,15,7,10,41,34,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLLWW,6,4,6,20,21,2,16,7,9,52,35,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDDDW,6,3,7,22,22,LWWLWDDWDLLLWDLW,LWLDWWWWLLWWLLDD
+Empoli,Frosinone,2-0,/match/empoli-fc/frosinone-calcio/2020,2020,33,serie_b,20,38,0,2,0,9,11,12,9,36,36,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWDDL,6,8,2,21,14,4,14,9,9,35,28,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDLWW,4,6,6,11,16,WWWDDLDWDDDWWLDD,WWWDDDWLWDLLLDDW
+Pescara,Perugia,2-2,/match/pescara-calcio/perugia/2020,2020,33,serie_b,20,38,1,2,2,13,11,6,15,43,49,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWWDW,6,6,4,27,20,12,11,7,14,31,40,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLDWL,4,3,8,13,23,WDLLWWDDDDLWLWWD,LDWWDLWWDWLWWLW
+Pordenone,Pisa,1-0,/match/pordenone/pisa-calcio/2020,2020,33,serie_b,20,38,0,1,0,3,15,7,10,41,38,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDWWL,10,4,2,22,9,7,12,10,10,42,38,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDWLW,4,5,6,18,20,WWDWDWWWWWLDLWDW,LDDWWWDLWDLWWDL
+Ascoli,Salernitana,3-2,/match/ascoli/salernitana-calcio-1919/2020,2020,33,serie_b,20,38,0,3,2,15,10,6,16,40,48,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLWDL,7,4,4,21,16,5,13,8,11,42,38,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDWDW,4,2,10,14,22,WWWLWDWWWLDLDLD,LLLWWWWWDWLDWWWW
+Chievo,Trapani,1-1,/match/chievo/trapani/2020,2020,33,serie_b,20,38,1,1,1,8,11,13,8,39,32,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDLWD,8,3,5,23,16,17,7,12,13,38,55,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDWDW,2,6,8,16,35,DDDWWWWLLWLWLWLW,WWLDWWLWDWDWWDDD
+Benevento,Venezia,1-1,/match/benevento-calcio/venezia/2020,2020,33,serie_b,20,38,1,1,1,1,23,7,2,56,18,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLDWW,13,3,0,35,6,18,9,12,11,30,36,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDWLL,6,7,3,17,14,WWDWWWWWWWDDWWWW,LDLDWDDDWLDLLWDL
+Nuova Cosenza,Perugia,2-1,/match/nuova-cosenza/perugia/2020,2020,34,serie_b,20,38,0,2,1,19,7,10,16,36,44,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWLDLW,3,5,8,14,19,12,11,8,14,33,42,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLDWLD,4,4,8,15,25,LLDDDWDLWLLLLWDL,LDWWDLWWDWLWWLWD
+Trapani,Benevento,2-0,/match/trapani/benevento-calcio/2020,2020,34,serie_b,20,38,0,2,0,17,7,13,13,39,56,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDWDWD,5,6,5,22,20,1,23,8,2,57,19,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLDWWD,10,4,2,21,12,LLDLDDWLDWLDWDWW,DLDLWDLLLLLLLLDW
+Cremonese,Chievo,1-0,/match/us-cremonese/chievo/2020,2020,34,serie_b,20,38,0,1,0,16,10,10,13,37,40,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLLDWL,6,4,6,19,17,8,11,14,8,40,33,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDLWDD,3,10,3,16,16,LWWLDWDWDDLWLLLW,WLDLDDWWDDDDLDDD
+Salernitana,Cittadella,4-1,/match/salernitana-calcio-1919/as-cittadella/2020,2020,34,serie_b,20,38,0,4,1,6,13,8,12,44,41,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDWDWW,9,6,1,28,16,11,15,7,11,42,37,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLLWWL,9,3,4,21,13,WLDDDWDWWWWWWDDW,WWLLDLDWLDLLLLLW
+Ascoli,Empoli,1-0,/match/ascoli/empoli-fc/2020,2020,34,serie_b,20,38,0,1,0,14,11,6,16,43,50,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLWDLW,8,4,4,24,18,7,12,12,9,38,36,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWDDLW,5,4,7,15,22,WWWLWDWWWLDLDLDW,DDLWDWWWWWLLLWDL
+Frosinone,Juve Stabia,2-2,/match/frosinone-calcio/ss-juve-stabia/2020,2020,34,serie_b,20,38,1,2,2,5,14,9,10,35,30,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDLWWW,10,3,3,24,12,15,10,7,16,40,53,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWLWWD,2,4,10,14,28,WDDWWWWWLDWWWLLW,WDWLWWWLDDDWWWWW
+Venezia,Pescara,1-1,/match/venezia/pescara-calcio/2020,2020,34,serie_b,20,38,1,1,1,18,9,13,11,31,37,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDWLLD,3,5,8,13,22,13,11,7,15,45,51,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWWDWD,5,0,11,16,29,LLDWLWLDLDLDDLWL,WLWLWLWWLLWWWWWW
+Virtus Entella,Pisa,1-1,/match/virtus-entella/pisa-calcio/2020,2020,34,serie_b,20,38,1,1,1,10,11,10,12,39,42,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWWWDD,8,5,3,18,12,9,12,10,11,42,39,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDWLWW,4,5,7,18,21,WWLDWDWWDDWLLWWD,LDDWWWDLWDLWWDLW
+Crotone,Pordenone,1-0,/match/fc-crotone/pordenone/2020,2020,34,serie_b,20,38,0,1,0,2,17,7,9,55,36,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDDDWL,10,4,2,30,13,3,16,7,10,42,38,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDWWLW,5,3,8,19,29,DDWWWLWDWWLWWWDW,WWDWLDWLWDWWLLWL
+Livorno,Spezia,0-1,/match/livorno/asd-spezia/2020,2020,34,serie_b,20,38,2,0,1,20,5,6,22,28,55,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLLLWL,3,2,11,18,34,4,15,8,10,51,38,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWLLWW,5,5,6,21,21,LWLLWWLLLDLLDLLL,LWWLDWDDDLLDWWLW
+Pescara,Frosinone,1-1,/match/pescara-calcio/frosinone-calcio/2020,2020,35,serie_b,20,38,1,1,1,14,11,8,15,46,52,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWWDWDD,6,7,4,29,22,5,14,10,10,37,32,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDLWWWD,4,6,7,11,18,WDLLWWDDDDLWLWWDD,WWWDDDWLWDLLLDDWW
+Cittadella,Ascoli,1-2,/match/as-cittadella/ascoli/2020,2020,35,serie_b,20,38,2,1,2,11,15,7,12,43,41,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLLWWLW,6,4,7,21,24,12,12,6,16,44,50,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLWDLWW,3,2,12,19,32,LWWLWDDWDLLLWDLWL,WLWWDWDWWWWLWWWWL
+Juve Stabia,Chievo,3-2,/match/ss-juve-stabia/chievo/2020,2020,35,serie_b,20,38,0,3,2,16,10,8,16,42,55,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWLWWDD,8,3,6,26,25,8,11,14,9,40,34,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDLWDDW,3,10,4,16,17,LLLWWDWLWWWLWDWLD,WLDLDDWWDDDDLDDDW
+Pordenone,Nuova Cosenza,1-2,/match/pordenone/nuova-cosenza/2020,2020,35,serie_b,20,38,2,1,2,3,16,7,11,42,39,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDWWLWW,11,4,2,23,9,19,8,10,16,38,45,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWLDLWW,4,5,8,22,25,WWDWDWWWWWLDLWDWW,DWDLWDWDLWWWLDWLW
+Perugia,Cremonese,0-0,/match/perugia/us-cremonese/2020,2020,35,serie_b,20,38,1,0,0,15,11,8,15,34,44,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLDWLDW,7,4,6,18,17,13,11,10,13,38,40,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLLDWLW,4,6,7,18,23,WDWWDLWDWLWLLLWDL,LWDDWWDWWWDWLDLDL
+Benevento,Livorno,3-1,/match/benevento-calcio/livorno/2020,2020,35,serie_b,20,38,0,3,1,1,23,8,3,57,21,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLDWWDW,13,4,0,36,7,20,5,6,23,28,56,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLLLWLL,2,4,11,10,21,WWDWWWWWWWDDWWWWD,WWDWWWDWWDWDWLWLW
+Crotone,Salernitana,1-1,/match/fc-crotone/salernitana-calcio-1919/2020,2020,35,serie_b,20,38,1,1,1,2,18,7,9,56,36,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDDDWLW,11,4,2,31,13,6,14,8,12,48,42,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDWDWWW,4,2,11,16,25,DDWWWLWDWWLWWWDWW,LLLWWWWWDWLDWWWWW
+Pisa,Trapani,3-2,/match/pisa-calcio/trapani/2020,2020,35,serie_b,20,38,0,3,2,9,12,11,11,43,40,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDWLWWD,8,5,4,24,18,17,8,13,13,41,56,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDWDWDW,2,7,8,17,36,DWLDWWWLLDDDLWWWW,WWLDWWLWDWDWWDDDD
+Spezia,Venezia,0-1,/match/asd-spezia/venezia/2020,2020,35,serie_b,20,38,2,0,1,4,16,8,10,52,38,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWLLWWL,10,3,4,30,17,18,9,14,11,32,38,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDWLLDD,6,8,3,18,15,LDLLWDWWWWDWWWWLW,LDLDWDDDWLDLLWDLD
+Empoli,Virtus Entella,2-4,/match/empoli-fc/virtus-entella/2020,2020,35,serie_b,20,38,2,2,4,7,12,12,10,38,37,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWDDLWW,7,8,2,23,14,10,11,11,12,40,43,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWWWDDD,3,5,9,21,30,WWWDDLDWDDDWWLDDW,LDDWWWWLWLDWDWWWD
+Livorno,Crotone,1-5,/match/livorno/fc-crotone/2020,2020,36,serie_b,20,38,2,1,5,20,5,6,24,29,59,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLLLWLLW,3,2,12,18,35,2,18,8,9,57,37,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDDDWLWD,7,3,7,25,23,LWLLWWLLLDLLDLLLL,LWLDWWWWLLWWLLDDL
+Frosinone,Benevento,2-3,/match/frosinone-calcio/benevento-calcio/2020,2020,36,serie_b,20,38,2,2,3,5,14,11,10,38,33,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDLWWWDD,10,4,3,26,14,1,24,8,3,60,22,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLDWWDWW,10,4,3,21,14,WDDWWWWWLDWWWLLWD,DLDLWDLLLLLLLLDWW
+Chievo,Cittadella,4-1,/match/chievo/as-cittadella/2020,2020,36,serie_b,20,38,0,4,1,10,11,14,10,42,37,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDLWDDWW,8,4,5,24,17,12,15,7,13,44,43,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLLWWLWL,9,3,5,22,17,DDDWWWWLLWLWLWLWD,WWLLDLDWLDLLLLLWW
+Salernitana,Empoli,2-4,/match/salernitana-calcio-1919/empoli-fc/2020,2020,36,serie_b,20,38,2,2,4,6,14,9,12,49,43,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDWDWWWD,10,6,1,32,17,8,12,12,11,40,41,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWDDLWWL,5,4,8,15,23,WLDDDWDWWWWWWDDWW,DDLWDWWWWWLLLWDLW
+Venezia,Juve Stabia,1-0,/match/venezia/ss-juve-stabia/2020,2020,36,serie_b,20,38,0,1,0,18,10,14,11,33,38,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDWLLDDL,3,6,8,14,23,15,11,8,16,45,57,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWLWWDDW,2,5,10,16,30,LLDWLWLDLDLDDLWLD,WDWLWWWLDDDWWWWWD
+Virtus Entella,Perugia,0-2,/match/virtus-entella/perugia/2020,2020,36,serie_b,20,38,2,0,2,9,12,11,12,44,45,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWWWDDDL,8,6,3,19,13,16,11,9,15,34,44,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLDWLDWD,4,4,9,16,27,WWLDWDWWDDWLLWWDD,LDWWDLWWDWLWWLWDW
+Trapani,Pescara,1-0,/match/trapani/pescara-calcio/2020,2020,36,serie_b,20,38,0,1,0,17,8,13,14,43,59,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDWDWDWW,6,6,5,24,20,14,11,9,15,47,53,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWWDWDDD,5,1,11,17,30,LLDLDDWLDWLDWDWWW,WLWLWLWWLLWWWWWWD
+Nuova Cosenza,Pisa,2-1,/match/nuova-cosenza/pisa-calcio/2020,2020,36,serie_b,20,38,0,2,1,19,9,10,16,40,46,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWLDLWWL,4,5,8,16,20,7,13,11,11,46,42,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDWLWWDW,4,6,7,19,22,LLDDDWDLWLLLLWDLW,LDDWWWDLWDLWWDLWD
+Ascoli,Pordenone,2-2,/match/ascoli/pordenone/2020,2020,36,serie_b,20,38,1,2,2,11,13,6,16,46,51,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLWDLWWL,9,4,4,25,18,3,16,7,12,43,41,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDWWLWWL,5,3,9,19,30,WWWLWDWWWLDLDLDWW,WWDWLDWLWDWWLLWLW
+Cremonese,Spezia,0-0,/match/us-cremonese/asd-spezia/2020,2020,36,serie_b,20,38,1,0,0,13,11,11,13,38,40,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLLDWLWD,7,4,6,20,17,4,16,8,11,52,39,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWLLWWLL,6,5,6,22,21,LWWLDWDWDDLWLLLWW,LWWLDWDDDLLDWWLWL
+Pisa,Ascoli,1-0,/match/pisa-calcio/ascoli/2020,2020,37,serie_b,20,38,0,1,0,7,13,11,12,47,44,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDWLWWDWW,9,5,4,27,20,11,13,7,16,48,53,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLWDLWWLD,4,2,12,21,33,DWLDWWWLLDDDLWWWWW,WLWWDWDWWWWLWWWWLL
+Benevento,Chievo,0-1,/match/benevento-calcio/chievo/2020,2020,37,serie_b,20,38,2,0,1,1,25,8,3,63,24,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLDWWDWWL,14,4,0,39,8,9,12,14,10,46,38,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDLWDDWWW,3,10,5,18,20,WWDWWWWWWWDDWWWWDW,WLDLDDWWDDDDLDDDWW
+Empoli,Nuova Cosenza,1-5,/match/empoli-fc/nuova-cosenza/2020,2020,37,serie_b,20,38,2,1,5,8,13,12,11,44,43,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWDDLWWLL,7,8,3,25,18,19,10,10,16,42,47,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWLDLWWLW,5,5,8,24,26,WWWDDLDWDDDWWLDDWL,DWDLWDWDLWWWLDWLWL
+Juve Stabia,Cremonese,1-2,/match/ss-juve-stabia/us-cremonese/2020,2020,37,serie_b,20,38,2,1,2,16,11,8,17,45,58,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWLWWDDWW,9,3,6,29,27,13,11,12,13,38,40,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLLDWLWDD,4,7,7,18,23,LLLWWDWLWWWLWDWLDW,LWDDWWDWWWDWLDLDLD
+Crotone,Frosinone,1-0,/match/fc-crotone/frosinone-calcio/2020,2020,37,serie_b,20,38,0,1,0,2,19,8,9,62,38,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDDDWLWDL,11,5,2,32,14,5,14,11,11,40,36,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDLWWWDDL,4,7,7,12,19,DDWWWLWDWWLWWWDWWD,WWWDDDWLWDLLLDDWWD
+Pescara,Livorno,1-0,/match/pescara-calcio/livorno/2020,2020,37,serie_b,20,38,0,1,0,15,11,9,16,47,54,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWWDWDDDW,6,8,4,30,23,20,5,6,25,30,64,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLLLWLLWL,2,4,12,11,24,WDLLWWDDDDLWLWWDDD,WWDWWWDWWDWDWLWLWW
+Pordenone,Salernitana,1-1,/match/pordenone/salernitana-calcio-1919/2020,2020,37,serie_b,20,38,1,1,1,3,16,8,12,45,43,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDWWLWWLD,11,4,3,24,11,6,14,9,13,51,47,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDWDWWWDL,4,3,11,17,26,WWDWDWWWWWLDLWDWWL,LLLWWWWWDWLDWWWWWD
+Perugia,Trapani,1-2,/match/perugia/trapani/2020,2020,37,serie_b,20,38,2,1,2,14,12,9,15,36,44,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLDWLDWDL,7,5,6,18,17,17,9,13,14,44,59,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDWDWDWWW,2,7,9,19,39,WDWWDLWDWLWLLLWDLD,WWLDWWLWDWDWWDDDDW
+Cittadella,Venezia,1-0,/match/as-cittadella/venezia/2020,2020,37,serie_b,20,38,0,1,0,12,15,7,14,45,47,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLLWWLWLW,6,4,8,22,26,18,11,14,11,34,38,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDWLLDDLW,7,8,3,19,15,LWWLWDDWDLLLWDLWLL,LDLDWDDDWLDLLWDLDL
+Spezia,Virtus Entella,0-0,/match/asd-spezia/virtus-entella/2020,2020,37,serie_b,20,38,1,0,0,4,16,9,11,52,39,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWLLWWLLD,10,3,5,30,18,10,12,11,13,44,47,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWWWDDDLL,4,5,9,25,32,LDLLWDWWWWDWWWWLWL,LDDWWWWLWLDWDWWWDL
+Ascoli,Benevento,2-4,/match/ascoli/benevento-calcio/2020,2020,38,serie_b,20,38,2,2,4,12,13,7,17,48,54,WWWLWWLWWDDWWDWWWWWWLLDWLWDWLWDLWWLDW,9,5,4,27,20,1,25,8,4,63,25,DWLWDDLWWWWDWLWLWLWDLDLWLWLWLDWWDWWLL,11,4,3,24,16,WWWLWDWWWLDLDLDWWD,DLDLWDLLLLLLLLDWWL
+Virtus Entella,Cittadella,2-3,/match/virtus-entella/as-cittadella/2020,2020,38,serie_b,20,38,2,2,3,10,12,12,13,44,47,WLWDLDWDWWWDWWLWWDLDDWWDLLWWWWWDDDLLD,8,6,4,19,15,11,16,7,14,46,47,LWWWWLLLDWDLDDWWDLLDLLLLWDLLLLWWLWLWW,9,3,6,23,21,WWLDWDWWDDWLLWWDDL,WWLLDLDWLDLLLLLWWW
+Trapani,Crotone,2-0,/match/trapani/fc-crotone/2020,2020,38,serie_b,20,38,0,2,0,15,10,13,14,46,60,WLWLDLLDDWWDLWWLDDWWDLWWDDWDDWDWDWWWL,7,6,5,25,20,2,20,8,9,63,38,DLDWWLWDWWLWWDWWWLWLLWWWWLWLDDDWLWDLW,8,3,7,30,24,LLDLDDWLDWLDWDWWWW,LWLDWWWWLLWWLLDDLL
+Livorno,Empoli,0-2,/match/livorno/empoli-fc/2020,2020,38,serie_b,20,38,2,0,2,20,5,6,26,30,65,WLWWDLLWWWWWLDWLWLDDWLDLWLDWLLLWLLWLW,3,2,13,19,40,9,13,12,12,45,48,WDDWLWWDDDWLDWWWDWDWDWLWLLLDWDDLWWLLL,6,4,8,19,25,LWLLWWLLLDLLDLLLLL,DDLWDWWWWWLLLWDLWL
+Nuova Cosenza,Juve Stabia,3-1,/match/nuova-cosenza/ss-juve-stabia/2020,2020,38,serie_b,20,38,0,3,1,19,11,10,16,47,48,DLLWDDDLDWWDWDDLLWWLWWLLLDLWWLDLWWLWL,5,5,8,18,21,17,11,8,18,46,60,WLDLWLLWWWWDWWLLWDWWDLDWWDWWWLWWDDWWL,2,5,11,16,31,LLDDDWDLWLLLLWDLWW,WDWLWWWLDDDWWWWWDW
+Venezia,Perugia,3-1,/match/venezia/perugia/2020,2020,38,serie_b,20,38,0,3,1,18,11,14,12,34,39,LLLDLDDWWLDWDLDDWLLDDLLDLDWLDWLLDDLWW,4,6,8,15,23,16,12,9,16,37,46,WLDDWWWWDDLLWWDWWDLWWLLWLWLWLDWLDWDLL,5,4,9,18,27,LLDWLWLDLDLDDLWLDW,LDWWDLWWDWLWWLWDWL
+Chievo,Pescara,1-0,/match/chievo/pescara-calcio/2020,2020,38,serie_b,20,38,0,1,0,8,13,14,10,47,38,WDLDDDLWDWDWWWWLDLDWDLDWLLDWDLWDDWWWL,9,4,5,28,18,14,12,9,16,48,54,WWLDWLLLWWWLDWDWDLDLLWWLWWWWWWDWDDDWW,5,1,12,17,31,DDDWWWWLLWLWLWLWDW,WLWLWLWWLLWWWWWWDW
+Frosinone,Pisa,1-1,/match/frosinone-calcio/pisa-calcio/2020,2020,38,serie_b,20,38,1,1,1,7,14,11,12,40,37,WWWDWDDWDWDWWWLWWLDDLWLWLWDLDLWWWDDLW,10,4,4,28,17,6,14,11,12,48,44,DLWDLDWDWWWWDWLLLWDDDLDWLWWWDWLWWDWWW,4,6,8,20,24,WDDWWWWWLDWWWLLWDL,LDDWWWDLWDLWWDLWDW
+Cremonese,Pordenone,2-2,/match/us-cremonese/pordenone/2020,2020,38,serie_b,20,38,1,2,2,13,12,12,13,40,41,LLWWDWLDDWWWDDWWWDWDDLWWLDLLLLDWLWDDL,7,5,6,20,17,3,16,9,12,46,44,WWWWDDWWDLWDWWWLWWWDLWDWLLWLDWWLWWLDD,5,4,9,21,32,LWWLDWDWDDLWLLLWWD,WWDWLDWLWDWWLLWLWD
+Salernitana,Spezia,1-2,/match/salernitana-calcio-1919/asd-spezia/2020,2020,38,serie_b,20,38,2,1,2,5,14,10,13,52,48,WLLLDLDWDWWWWDWWDWWLWDWWWWWWDWDWWWDLD,10,6,2,34,21,4,16,10,11,52,39,LLWDWLLLWDDWWDWDWDWDLWLWDWWWWLLWWLLDD,6,6,6,22,21,WLDDDWDWWWWWWDDWWL,LWWLDWDDDLLDWWLWLD

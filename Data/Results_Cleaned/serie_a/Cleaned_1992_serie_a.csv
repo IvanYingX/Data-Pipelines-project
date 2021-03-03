@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Hellas Verona,Roma,0-1,/match/hellas-verona-fc/roma/1992,1992,1,serie_a,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ascoli,Milan,0-1,/match/ascoli/milan/1992,1992,1,serie_a,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Juventus,Fiorentina,1-0,/match/juventus-fc/fiorentina/1992,1992,1,serie_a,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Genoa,Cremonese,2-0,/match/genoa/us-cremonese/1992,1992,1,serie_a,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SSC Bari,Torino,1-1,/match/as-bari/torino-fc/1992,1992,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Napoli,Atalanta,1-0,/match/napoli/atalanta/1992,1992,1,serie_a,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Sampdoria,3-2,/match/cagliari/sampdoria/1992,1992,1,serie_a,18,34,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Calcio Foggia,1-1,/match/internazionale/us-foggia/1992,1992,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Parma,1-1,/match/lazio/parma-fc/1992,1992,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Atalanta,Ascoli,1-1,/match/atalanta/ascoli/1992,1992,2,serie_a,18,34,1,1,1,18,0,0,1,0,1,W,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
+Fiorentina,Genoa,3-1,/match/fiorentina/genoa/1992,1992,2,serie_a,18,34,0,3,1,17,0,0,1,0,1,W,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
+Cremonese,Napoli,0-0,/match/us-cremonese/napoli/1992,1992,2,serie_a,18,34,1,0,0,13,0,0,1,0,2,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Calcio Foggia,Juventus,0-1,/match/us-foggia/juventus-fc/1992,1992,2,serie_a,18,34,2,0,1,12,0,1,0,1,1,D,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Parma,SSC Bari,1-0,/match/parma-fc/as-bari/1992,1992,2,serie_a,18,34,0,1,0,10,0,1,0,1,1,D,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
+Milan,Cagliari,1-0,/match/milan/cagliari/1992,1992,2,serie_a,18,34,0,1,0,7,1,0,0,1,0,L,0,0,0,0,0,3,1,0,0,3,2,W,0,0,0,0,0,,
+Roma,Inter,0-1,/match/roma/internazionale/1992,1992,2,serie_a,18,34,2,0,1,6,1,0,0,1,0,L,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
+Torino,Lazio,0-1,/match/torino-fc/lazio/1992,1992,2,serie_a,18,34,2,0,1,11,0,1,0,1,1,D,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
+Sampdoria,Hellas Verona,2-0,/match/sampdoria/hellas-verona-fc/1992,1992,2,serie_a,18,34,0,2,0,15,0,0,1,2,3,W,0,0,0,0,0,14,0,0,1,0,1,L,0,0,0,0,0,,
+Napoli,Parma,2-2,/match/napoli/parma-fc/1992,1992,3,serie_a,18,34,1,2,2,4,1,1,0,1,0,WD,1,0,0,1,0,3,1,1,0,2,1,DW,0,1,0,1,1,W,D
+Cremonese,Torino,0-2,/match/us-cremonese/torino-fc/1992,1992,3,serie_a,18,34,2,0,2,13,0,1,1,0,2,WD,0,1,0,0,0,15,0,1,1,1,2,DL,0,1,0,1,1,D,D
+Inter,Hellas Verona,2-0,/match/internazionale/hellas-verona-fc/1992,1992,3,serie_a,18,34,0,2,0,5,1,1,0,2,1,DL,0,1,0,1,1,18,0,0,2,0,3,LW,0,0,1,0,2,D,W
+Juventus,Milan,1-1,/match/juventus-fc/milan/1992,1992,3,serie_a,18,34,1,1,1,1,2,0,0,2,0,WL,1,0,0,1,0,2,2,0,0,2,0,LW,1,0,0,1,0,W,L
+Fiorentina,Calcio Foggia,1-2,/match/fiorentina/us-foggia/1992,1992,3,serie_a,18,34,2,1,2,6,1,0,1,3,2,WW,1,0,0,3,1,16,0,1,1,1,2,DL,0,1,0,1,1,W,D
+Lazio,Atalanta,1-1,/match/lazio/atalanta/1992,1992,3,serie_a,18,34,1,1,1,9,1,1,0,2,1,DL,0,1,0,1,1,14,0,1,1,1,2,WD,0,0,1,0,1,D,W
+Cagliari,Roma,0-1,/match/cagliari/roma/1992,1992,3,serie_a,18,34,2,0,1,10,1,0,1,3,3,WW,1,0,0,3,2,12,1,0,1,1,1,LL,1,0,0,1,0,W,L
+SSC Bari,Sampdoria,1-1,/match/as-bari/sampdoria/1992,1992,3,serie_a,18,34,1,1,1,11,0,1,1,1,2,DW,0,1,0,1,1,7,1,0,1,4,3,WW,0,0,1,2,3,D,W
+Genoa,Ascoli,1-0,/match/genoa/ascoli/1992,1992,3,serie_a,18,34,0,1,0,8,1,0,1,3,3,WW,1,0,0,2,0,17,0,1,1,1,2,LD,0,1,0,1,1,W,D
+Sampdoria,Inter,4-0,/match/sampdoria/internazionale/1992,1992,4,serie_a,18,34,0,4,0,8,1,1,1,5,4,WWD,1,0,0,2,0,2,2,1,0,4,1,DLW,1,0,0,1,0,W,L
+Roma,Genoa,0-0,/match/roma/genoa/1992,1992,4,serie_a,18,34,1,0,0,10,2,0,1,2,1,LLL,0,0,1,0,1,3,2,0,1,4,3,WWW,0,0,1,1,3,L,W
+Torino,Napoli,0-0,/match/torino-fc/napoli/1992,1992,4,serie_a,18,34,1,0,0,14,1,1,1,3,2,DLL,0,0,1,0,1,4,1,2,0,3,2,WDD,0,1,0,0,0,L,D
+Parma,Cremonese,1-1,/match/parma-fc/us-cremonese/1992,1992,4,serie_a,18,34,1,1,1,6,1,2,0,4,3,DWD,1,0,0,1,0,16,0,1,2,0,4,WDL,0,0,1,0,2,W,W
+Hellas Verona,SSC Bari,2-1,/match/hellas-verona-fc/as-bari/1992,1992,4,serie_a,18,34,0,2,1,18,0,0,3,0,5,LWW,0,0,1,0,1,9,0,2,1,2,3,DWD,0,0,1,0,1,L,W
+Ascoli,Lazio,1-4,/match/ascoli/lazio/1992,1992,4,serie_a,18,34,2,1,4,17,0,1,2,1,3,LDW,0,0,1,0,1,7,1,2,0,3,2,DLD,1,0,0,1,0,L,L
+Milan,Fiorentina,1-1,/match/milan/fiorentina/1992,1992,4,serie_a,18,34,1,1,1,5,2,1,0,3,1,LWD,1,0,0,1,0,12,1,0,2,4,4,WWL,0,0,1,0,1,W,W
+Atalanta,Juventus,0-0,/match/atalanta/juventus-fc/1992,1992,4,serie_a,18,34,1,0,0,13,0,2,1,2,3,WDD,0,1,0,1,1,1,2,1,0,3,1,WLD,1,0,0,1,0,D,L
+Calcio Foggia,Cagliari,3-1,/match/us-foggia/cagliari/1992,1992,4,serie_a,18,34,0,3,1,15,1,1,1,3,3,DLL,0,0,1,0,1,11,1,0,2,3,4,WWL,0,0,1,0,1,L,W
+Fiorentina,Roma,0-1,/match/fiorentina/roma/1992,1992,5,serie_a,18,34,2,0,1,11,1,1,2,5,5,WWLD,1,0,1,4,3,10,2,1,1,2,1,LLLD,2,0,0,2,0,WL,LL
+Cagliari,Torino,0-1,/match/cagliari/torino-fc/1992,1992,5,serie_a,18,34,2,0,1,14,1,0,3,4,7,WWLW,1,0,1,3,3,13,1,2,1,3,2,DLLD,1,1,0,3,1,WL,DL
+Cremonese,Atalanta,1-2,/match/us-cremonese/atalanta/1992,1992,5,serie_a,18,34,2,1,2,17,0,2,2,1,5,WDLD,0,1,1,0,2,12,0,3,1,2,3,WDDD,0,1,1,1,2,DL,WD
+Lazio,Inter,0-1,/match/lazio/internazionale/1992,1992,5,serie_a,18,34,2,0,1,8,2,2,0,7,3,DLDL,0,2,0,2,2,5,2,1,1,4,5,DLWW,1,0,1,1,4,DD,LW
+Juventus,SSC Bari,2-0,/match/juventus-fc/as-bari/1992,1992,5,serie_a,18,34,0,2,0,1,2,2,0,3,1,WLDD,1,1,0,2,1,15,0,2,2,3,5,DWDW,0,0,2,1,3,WD,WW
+Calcio Foggia,Parma,1-1,/match/us-foggia/parma-fc/1992,1992,5,serie_a,18,34,1,1,1,9,2,1,1,6,4,DLLW,1,0,1,3,2,7,1,3,0,5,4,DWDD,0,2,0,3,3,LW,DD
+Napoli,Hellas Verona,3-1,/match/napoli/hellas-verona-fc/1992,1992,5,serie_a,18,34,0,3,1,6,1,3,0,3,2,WDDD,1,1,0,3,2,16,1,0,3,2,6,LWWW,0,0,2,0,4,WD,WW
+Milan,Genoa,1-1,/match/milan/genoa/1992,1992,5,serie_a,18,34,1,1,1,3,2,2,0,4,2,LWDD,1,1,0,2,1,2,2,1,1,4,3,WWWD,0,1,1,1,3,WD,WD
+Sampdoria,Ascoli,4-0,/match/sampdoria/ascoli/1992,1992,5,serie_a,18,34,0,4,0,4,2,1,1,9,4,WWDW,2,0,0,6,0,18,0,1,3,2,7,LDWL,0,1,1,1,2,WW,DW
+Genoa,Juventus,2-1,/match/genoa/juventus-fc/1992,1992,6,serie_a,18,34,0,2,1,6,2,2,1,5,4,WWWDD,2,0,0,3,0,1,3,2,0,5,1,WLDDW,1,1,0,1,0,WW,LD
+SSC Bari,Cremonese,0-0,/match/as-bari/us-cremonese/1992,1992,6,serie_a,18,34,1,0,0,15,0,2,3,3,7,DWDWW,0,2,0,2,2,17,0,2,3,2,7,WDLDL,0,1,1,1,3,DD,WD
+Hellas Verona,Cagliari,2-0,/match/hellas-verona-fc/cagliari/1992,1992,6,serie_a,18,34,0,2,0,16,1,0,4,3,9,LWWWW,1,0,1,2,2,14,1,0,4,4,8,WWLWL,0,0,2,1,4,LW,WW
+Ascoli,Napoli,1-4,/match/ascoli/napoli/1992,1992,6,serie_a,18,34,2,1,4,18,0,1,4,2,11,LDWLW,0,0,2,1,5,3,2,3,0,6,3,WDDDW,0,2,0,0,0,LL,DD
+Atalanta,Milan,0-2,/match/atalanta/milan/1992,1992,6,serie_a,18,34,2,0,2,11,1,3,1,4,4,WDDDL,0,2,0,1,1,4,2,3,0,5,3,LWDDD,1,1,0,2,1,DD,LD
+Inter,Fiorentina,1-1,/match/internazionale/fiorentina/1992,1992,6,serie_a,18,34,1,1,1,5,3,1,1,5,5,DLWWL,1,1,0,3,1,13,1,1,3,5,6,WWLDL,0,1,1,1,2,DW,WD
+Roma,Lazio,1-1,/match/roma/lazio/1992,1992,6,serie_a,18,34,1,1,1,9,3,1,1,3,1,LLLDL,0,1,1,0,1,10,2,2,1,7,4,DLDLL,2,0,0,5,1,LD,LL
+Torino,Calcio Foggia,3-1,/match/torino-fc/us-foggia/1992,1992,6,serie_a,18,34,0,3,1,12,2,2,1,4,2,DLLDL,0,1,1,0,1,7,2,2,1,7,5,DLLWD,1,1,0,3,2,LD,DL
+Parma,Sampdoria,2-1,/match/parma-fc/sampdoria/1992,1992,6,serie_a,18,34,0,2,1,8,1,4,0,6,5,DWDDD,1,1,0,2,1,2,3,1,1,13,4,WWDWW,0,1,1,3,4,WD,WD
+Lazio,Genoa,1-1,/match/lazio/genoa/1992,1992,7,serie_a,18,34,1,1,1,10,2,3,1,8,5,DLDLLD,0,2,1,2,3,2,3,2,1,7,5,WWWDDW,0,2,1,2,4,DDL,WDD
+Fiorentina,SSC Bari,2-0,/match/fiorentina/as-bari/1992,1992,7,serie_a,18,34,0,2,0,14,1,2,3,6,7,WWLDLD,1,0,2,4,4,15,0,3,3,3,7,DWDWWD,0,0,3,1,5,WLL,WWW
+Cagliari,Inter,1-1,/match/cagliari/internazionale/1992,1992,7,serie_a,18,34,1,1,1,16,1,0,5,4,10,WWLWLW,1,0,2,3,4,7,3,2,1,6,6,DLWWLD,2,0,1,2,4,WLL,LWL
+Cremonese,Hellas Verona,3-0,/match/us-cremonese/hellas-verona-fc/1992,1992,7,serie_a,18,34,0,3,0,17,0,3,3,2,7,WDLDLD,0,1,2,1,4,12,2,0,4,5,9,LWWWWW,0,0,3,1,7,DLL,WWW
+Calcio Foggia,Ascoli,1-0,/match/us-foggia/ascoli/1992,1992,7,serie_a,18,34,0,1,0,11,2,2,2,8,8,DLLWDW,1,1,1,4,3,18,0,1,5,3,15,LDWLWL,0,1,2,1,6,LWD,DWW
+Sampdoria,Atalanta,0-2,/match/sampdoria/atalanta/1992,1992,7,serie_a,18,34,2,0,2,4,3,1,2,14,6,WWDWWW,3,0,0,10,0,13,1,3,2,4,6,WDDDLL,1,1,1,3,3,WWW,WDL
+Torino,Roma,1-1,/match/torino-fc/roma/1992,1992,7,serie_a,18,34,1,1,1,8,3,2,1,7,3,DLLDLW,1,1,1,3,2,9,3,2,1,4,2,LLLDLD,3,0,0,3,0,LDW,LLL
+Milan,Parma,2-0,/match/milan/parma-fc/1992,1992,7,serie_a,18,34,0,2,0,5,3,3,0,7,3,LWDDDL,1,2,0,3,2,6,2,4,0,8,6,DWDDDW,0,3,0,4,4,WDD,DDD
+Napoli,Juventus,0-1,/match/napoli/juventus-fc/1992,1992,7,serie_a,18,34,2,0,1,1,3,3,0,10,4,WDDDWL,2,1,0,6,3,3,3,2,1,6,3,WLDDWW,1,1,1,2,2,WDW,LDW
+Genoa,Sampdoria,0-0,/match/genoa/sampdoria/1992,1992,8,serie_a,18,34,1,0,0,2,3,3,1,8,6,WWWDDWD,3,0,0,5,1,5,3,1,3,14,8,WWDWWWL,0,1,2,4,6,WWW,WDW
+SSC Bari,Milan,0-1,/match/as-bari/milan/1992,1992,8,serie_a,18,34,2,0,1,16,0,3,4,3,9,DWDWWDW,0,3,0,2,2,1,4,3,0,9,3,LWDDDLW,2,1,0,4,1,DDD,LDL
+Hellas Verona,Lazio,0-2,/match/hellas-verona-fc/lazio/1992,1992,8,serie_a,18,34,2,0,2,14,2,0,5,5,12,LWWWWWW,2,0,1,4,2,10,2,4,1,9,6,DLDLLDD,2,1,0,6,2,LWW,LLD
+Ascoli,Fiorentina,0-0,/match/ascoli/fiorentina/1992,1992,8,serie_a,18,34,1,0,0,18,0,1,6,3,16,LDWLWLW,0,0,3,2,9,12,2,2,3,8,7,WWLDLDW,0,2,1,2,3,LLL,WDD
+Atalanta,Cagliari,0-1,/match/atalanta/cagliari/1992,1992,8,serie_a,18,34,2,0,1,13,2,3,2,6,6,WDDDLLL,0,2,1,1,3,17,1,1,5,5,11,WWLWLWD,0,0,3,1,6,DDL,WWW
+Inter,Napoli,0-0,/match/internazionale/napoli/1992,1992,8,serie_a,18,34,1,0,0,7,3,3,1,7,7,DLWWLDD,1,2,0,4,2,4,3,3,1,10,5,WDDDWLL,1,2,0,4,1,DWD,DDL
+Roma,Calcio Foggia,1-1,/match/roma/us-foggia/1992,1992,8,serie_a,18,34,1,1,1,11,3,3,1,5,3,LLLDLDD,0,2,1,1,2,9,3,2,2,9,8,DLLWDWW,1,1,1,4,5,LDD,DLW
+Juventus,Cremonese,2-0,/match/juventus-fc/us-cremonese/1992,1992,8,serie_a,18,34,0,2,0,3,4,2,1,7,3,WLDDWWL,2,1,0,4,1,15,1,3,3,5,7,WDLDLDW,0,2,1,1,3,WDW,WDD
+Parma,Torino,0-0,/match/parma-fc/torino-fc/1992,1992,8,serie_a,18,34,1,0,0,6,2,4,1,8,8,DWDDDWW,2,1,0,4,2,8,3,3,1,8,4,DLLDLWD,2,1,0,4,1,WDW,DLL
+Lazio,Juventus,1-1,/match/lazio/juventus-fc/1992,1992,9,serie_a,18,34,1,1,1,11,3,4,1,11,6,DLDLLDDL,0,3,1,3,4,2,5,2,1,9,3,WLDDWWLW,2,1,1,3,2,DDLD,LDWL
+Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/1992,1992,9,serie_a,18,34,0,1,0,12,2,3,3,8,7,WWLDLDWD,2,0,2,6,4,16,2,1,5,6,11,WWLWLWDL,1,0,3,2,6,WLLW,WWWL
+Ascoli,Cremonese,1-0,/match/ascoli/us-cremonese/1992,1992,9,serie_a,18,34,0,1,0,18,0,2,6,3,16,LDWLWLWD,0,1,3,2,9,15,1,3,4,5,9,WDLDLDWW,0,2,2,1,5,LLLD,WDDW
+Calcio Foggia,SSC Bari,4-1,/match/us-foggia/as-bari/1992,1992,9,serie_a,18,34,0,4,1,9,3,3,2,10,9,DLLWDWWD,2,1,1,5,3,17,0,3,5,3,10,DWDWWDWL,0,0,4,1,7,LWDW,WWWW
+Torino,Inter,0-0,/match/torino-fc/internazionale/1992,1992,9,serie_a,18,34,1,0,0,8,3,4,1,8,4,DLLDLWDD,1,2,1,4,3,6,3,4,1,7,7,DLWWLDDD,2,1,1,3,5,LDWD,LWLD
+Parma,Hellas Verona,1-1,/match/parma-fc/hellas-verona-fc/1992,1992,9,serie_a,18,34,1,1,1,5,2,5,1,8,8,DWDDDWWD,2,2,0,4,2,14,2,0,6,5,14,LWWWWWWL,0,0,4,1,10,WDWD,WWWW
+Milan,Roma,4-1,/match/milan/roma/1992,1992,9,serie_a,18,34,0,4,1,1,5,3,0,10,3,LWDDDLWL,2,2,0,5,2,10,3,4,1,6,4,LLLDLDDD,3,1,0,4,1,WDDW,LLLD
+Napoli,Sampdoria,2-1,/match/napoli/sampdoria/1992,1992,9,serie_a,18,34,0,2,1,4,3,4,1,10,5,WDDDWLLD,2,1,1,6,4,7,3,2,3,14,8,WWDWWWLD,0,2,2,4,6,WDWL,WDWD
+Genoa,Atalanta,0-2,/match/genoa/atalanta/1992,1992,9,serie_a,18,34,2,0,2,3,3,4,1,8,6,WWWDDWDD,3,1,0,5,1,13,2,3,3,6,7,WDDDLLLL,2,1,1,5,3,WWWD,WDLL
+Cagliari,Parma,0-0,/match/cagliari/parma-fc/1992,1992,10,serie_a,18,34,1,0,0,16,2,1,6,6,12,WWLWLWDLW,1,1,2,4,5,6,2,6,1,9,9,DWDDDWWDD,0,3,1,4,6,WLLD,DDDW
+SSC Bari,Lazio,1-2,/match/as-bari/lazio/1992,1992,10,serie_a,18,34,2,1,2,18,0,3,6,4,14,DWDWWDWLW,0,3,1,2,3,10,3,5,1,12,7,DLDLLDDLD,3,1,0,8,2,DDDL,LLDL
+Cremonese,Calcio Foggia,0-2,/match/us-cremonese/us-foggia/1992,1992,10,serie_a,18,34,2,0,2,15,1,3,5,5,10,WDLDLDWWW,1,1,2,4,4,4,4,3,2,14,10,DLLWDWWDW,1,2,1,5,6,DLLW,DLWD
+Hellas Verona,Genoa,2-1,/match/hellas-verona-fc/genoa/1992,1992,10,serie_a,18,34,0,2,1,14,2,1,6,6,15,LWWWWWWLD,2,0,2,4,4,5,3,4,2,8,8,WWWDDWDDL,0,3,1,3,5,LWWL,WDDD
+Atalanta,Fiorentina,1-0,/match/atalanta/fiorentina/1992,1992,10,serie_a,18,34,0,1,0,13,3,3,3,8,7,WDDDLLLLL,0,2,2,1,4,9,3,3,3,9,7,WWLDLDWDW,0,3,1,2,3,DDLL,WDDD
+Inter,Ascoli,2-1,/match/internazionale/ascoli/1992,1992,10,serie_a,18,34,0,2,1,7,3,5,1,7,7,DLWWLDDDD,1,3,0,4,2,17,1,2,6,4,16,LDWLWLWDW,0,1,3,1,7,DWDD,DWWW
+Roma,Napoli,1-1,/match/roma/napoli/1992,1992,10,serie_a,18,34,1,1,1,12,3,4,2,7,8,LLLDLDDDW,0,3,1,2,3,3,4,4,1,12,6,WDDDWLLDW,1,3,0,4,1,LDDD,DDLD
+Juventus,Torino,1-0,/match/juventus-fc/torino-fc/1992,1992,10,serie_a,18,34,0,1,0,2,5,3,1,10,4,WLDDWWLWD,3,1,0,6,1,8,3,5,1,8,4,DLLDLWDDD,2,2,0,4,1,WDWW,DLLD
+Sampdoria,Milan,0-2,/match/sampdoria/milan/1992,1992,10,serie_a,18,34,2,0,2,11,3,2,4,15,10,WWDWWWLDW,3,0,1,10,2,1,6,3,0,14,4,LWDDDLWLW,3,1,0,5,1,WWWL,LDLL
+Calcio Foggia,Atalanta,2-3,/match/us-foggia/atalanta/1992,1992,11,serie_a,18,34,2,2,3,5,5,3,2,16,10,DLLWDWWDWL,3,1,1,9,4,12,4,3,3,9,7,WDDDLLLLLW,3,1,1,7,3,LWDWW,WDLLL
+Fiorentina,Lazio,1-1,/match/fiorentina/lazio/1992,1992,11,serie_a,18,34,1,1,1,10,3,3,4,9,8,WWLDLDWDWW,3,0,2,7,4,7,4,5,1,14,8,DLDLLDDLDL,4,1,0,10,3,WLLWW,LLDLL
+Genoa,Cagliari,2-2,/match/genoa/cagliari/1992,1992,11,serie_a,18,34,1,2,2,8,3,4,3,9,10,WWWDDWDDLW,3,1,1,5,3,15,2,2,6,6,12,WWLWLWDLWD,1,0,4,2,7,WWWDL,WWWLW
+Ascoli,Juventus,0-2,/match/ascoli/juventus-fc/1992,1992,11,serie_a,18,34,2,0,2,17,1,2,7,5,18,LDWLWLWDWW,1,1,3,3,9,2,6,3,1,11,4,WLDDWWLWDW,2,2,1,4,3,LLLDW,LDWLD
+Parma,Inter,1-1,/match/parma-fc/internazionale/1992,1992,11,serie_a,18,34,1,1,1,6,2,7,1,9,9,DWDDDWWDDD,2,3,0,5,3,3,4,5,1,9,8,DLWWLDDDDW,2,2,1,3,5,WDWDD,LWLDD
+Roma,Sampdoria,2-0,/match/roma/sampdoria/1992,1992,11,serie_a,18,34,0,2,0,11,3,5,2,8,9,LLLDLDDDWD,0,4,1,3,4,13,3,2,5,15,12,WWDWWWLDWL,0,2,3,5,8,LDDDD,WDWDW
+Torino,Hellas Verona,0-0,/match/torino-fc/hellas-verona-fc/1992,1992,11,serie_a,18,34,1,0,0,9,3,5,2,8,5,DLLDLWDDDW,1,3,1,4,3,14,3,1,6,8,16,LWWWWWWLDW,0,1,4,2,11,LDWDD,WWWWD
+Milan,Cremonese,3-1,/match/milan/us-cremonese/1992,1992,11,serie_a,18,34,0,3,1,1,7,3,0,16,4,LWDDDLWLWL,3,2,0,9,3,16,1,3,6,5,12,WDLDLDWWWL,0,2,3,1,6,WDDWW,WDDWW
+Napoli,SSC Bari,1-0,/match/napoli/as-bari/1992,1992,11,serie_a,18,34,0,1,0,4,4,5,1,13,7,WDDDWLLDWD,3,1,1,8,5,18,0,3,7,5,16,DWDWWDWLWL,0,0,5,2,11,WDWLW,WWWWW
+Cagliari,Ascoli,2-0,/match/cagliari/ascoli/1992,1992,12,serie_a,18,34,0,2,0,15,2,3,6,8,14,WWLWLWDLWDD,1,2,2,4,5,17,1,2,8,5,20,LDWLWLWDWWL,0,1,4,2,9,WLLDD,DWWWW
+SSC Bari,Genoa,1-2,/match/as-bari/genoa/1992,1992,12,serie_a,18,34,2,1,2,18,0,3,8,5,17,DWDWWDWLWLW,0,3,2,3,5,7,3,5,3,11,12,WWWDDWDDLWD,0,3,2,4,7,DDDLL,WDDDW
+Hellas Verona,Calcio Foggia,1-0,/match/hellas-verona-fc/us-foggia/1992,1992,12,serie_a,18,34,0,1,0,14,3,2,6,8,16,LWWWWWWLDWD,3,0,2,6,5,5,5,3,3,18,13,DLLWDWWDWLL,2,2,1,7,6,LWWLW,DLWDL
+Cremonese,Fiorentina,1-3,/match/us-cremonese/fiorentina/1992,1992,12,serie_a,18,34,2,1,3,16,1,3,7,6,15,WDLDLDWWWLW,1,1,3,4,6,12,3,4,4,10,9,WWLDLDWDWWD,0,3,2,2,4,DLLWL,WDDDW
+Atalanta,Parma,0-1,/match/atalanta/parma-fc/1992,1992,12,serie_a,18,34,2,0,1,11,5,3,3,12,9,WDDDLLLLLWL,1,2,2,2,4,6,2,8,1,10,10,DWDDDWWDDDD,0,4,1,4,6,DDLLW,DDDWD
+Lazio,Napoli,3-3,/match/lazio/napoli/1992,1992,12,serie_a,18,34,1,3,3,9,4,6,1,15,9,DLDLLDDLDLD,0,4,1,4,5,3,5,5,1,14,7,WDDDWLLDWDW,1,4,0,5,2,DDLDD,DDLDD
+Sampdoria,Torino,0-0,/match/sampdoria/torino-fc/1992,1992,12,serie_a,18,34,1,0,0,13,3,2,6,15,14,WWDWWWLDWLW,3,0,2,10,4,10,3,6,2,8,5,DLLDLWDDDWD,2,2,1,4,2,WWWLL,DLLDW
+Juventus,Roma,2-1,/match/juventus-fc/roma/1992,1992,12,serie_a,18,34,0,2,1,2,7,3,1,13,4,WLDDWWLWDWL,4,1,0,7,1,8,4,5,2,10,9,LLLDLDDDWDW,3,1,1,5,5,WDWWW,LLLDW
+Inter,Milan,1-1,/match/internazionale/milan/1992,1992,12,serie_a,18,34,1,1,1,4,4,6,1,10,9,DLWWLDDDDWD,2,3,0,6,3,1,8,3,0,19,5,LWDDDLWLWLW,4,1,0,7,1,DWDDW,LDLLL
+Fiorentina,Hellas Verona,4-1,/match/fiorentina/hellas-verona-fc/1992,1992,13,serie_a,18,34,0,4,1,9,4,4,4,13,10,WWLDLDWDWWDL,3,1,2,8,5,12,4,2,6,9,16,LWWWWWWLDWDW,0,2,4,2,11,WLLWWD,WWWWDD
+Genoa,Parma,2-0,/match/genoa/parma-fc/1992,1992,13,serie_a,18,34,0,2,0,6,4,5,3,13,13,WWWDDWDDLWDL,3,2,1,7,5,5,3,8,1,11,10,DWDDDWWDDDDL,1,4,1,5,6,WWWDLD,DDDWDL
+Cremonese,Lazio,2-0,/match/us-cremonese/lazio/1992,1992,13,serie_a,18,34,0,2,0,16,1,3,8,7,18,WDLDLDWWWLWL,1,1,4,5,9,8,4,7,1,18,12,DLDLLDDLDLDD,4,2,0,11,4,DLLWLL,LLDLLD
+Ascoli,SSC Bari,2-2,/match/ascoli/as-bari/1992,1992,13,serie_a,18,34,1,2,2,17,1,2,9,5,22,LDWLWLWDWWLW,1,1,4,3,11,18,0,3,9,6,19,DWDWWDWLWLWL,0,0,6,2,12,LLLDWL,WWWWWW
+Calcio Foggia,Sampdoria,0-0,/match/us-foggia/sampdoria/1992,1992,13,serie_a,18,34,1,0,0,7,5,3,4,18,14,DLLWDWWDWLLW,3,1,2,11,7,14,3,3,6,15,14,WWDWWWLDWLWD,0,2,4,5,10,LWDWWL,WDWDWW
+Roma,Atalanta,1-1,/match/roma/atalanta/1992,1992,13,serie_a,18,34,1,1,1,11,4,5,3,11,11,LLLDLDDDWDWW,1,4,1,5,4,13,5,3,4,12,10,WDDDLLLLLWLL,4,1,1,10,5,LDDDDW,WDLLLL
+Juventus,Inter,2-1,/match/juventus-fc/internazionale/1992,1992,13,serie_a,18,34,0,2,1,2,8,3,1,15,5,WLDDWWLWDWLW,5,1,0,9,2,4,4,7,1,11,10,DLWWLDDDDWDD,2,3,1,4,6,WDWWWW,LWLDDD
+Milan,Torino,2-0,/match/milan/torino-fc/1992,1992,13,serie_a,18,34,0,2,0,1,8,4,0,20,6,LWDDDLWLWLWD,4,2,0,12,4,10,3,7,2,8,5,DLLDLWDDDWDD,2,3,1,4,2,WDDWWW,DLLDWD
+Napoli,Cagliari,4-0,/match/napoli/cagliari/1992,1992,13,serie_a,18,34,0,4,0,3,5,6,1,17,10,WDDDWLLDWDWD,4,1,1,9,5,15,3,3,6,10,14,WWLWLWDLWDDW,1,1,4,4,9,WDWLWW,WWWLWD
+Lazio,Milan,1-1,/match/lazio/milan/1992,1992,14,serie_a,18,34,1,1,1,10,4,7,2,18,14,DLDLLDDLDLDDW,0,5,1,7,8,1,9,4,0,22,6,LWDDDLWLWLWDW,4,2,0,8,2,DDLDDD,LDLLLD
+Cagliari,Cremonese,0-0,/match/cagliari/us-cremonese/1992,1992,14,serie_a,18,34,1,0,0,15,3,3,7,10,18,WWLWLWDLWDDWW,2,2,2,6,5,16,2,3,8,9,18,WDLDLDWWWLWLW,0,2,4,2,9,WLLDDW,WDDWWW
+SSC Bari,Atalanta,0-0,/match/as-bari/atalanta/1992,1992,14,serie_a,18,34,1,0,0,18,0,4,9,8,21,DWDWWDWLWLWLD,0,3,3,4,7,13,5,4,4,13,11,WDDDLLLLLWLLD,4,2,1,11,6,DDDLLL,WDLLLLD
+Hellas Verona,Ascoli,1-0,/match/hellas-verona-fc/ascoli/1992,1992,14,serie_a,18,34,0,1,0,12,4,2,7,10,20,LWWWWWWLDWDWW,4,0,2,7,5,17,1,3,9,7,24,LDWLWLWDWWLWD,0,1,5,2,11,LWWLWW,DWWWWW
+Inter,Genoa,2-2,/match/internazionale/genoa/1992,1992,14,serie_a,18,34,1,2,2,5,4,7,2,12,12,DLWWLDDDDWDDW,2,4,0,7,4,4,5,5,3,15,13,WWWDDWDDLWDLW,1,3,2,6,8,DWDDWD,WDDDWL
+Parma,Roma,3-1,/match/parma-fc/roma/1992,1992,14,serie_a,18,34,0,3,1,7,3,8,2,11,12,DWDDDWWDDDDLW,2,4,0,6,4,9,4,6,3,12,12,LLLDLDDDWDWWD,3,1,2,6,7,WDWDDD,LLLDWW
+Napoli,Calcio Foggia,3-3,/match/napoli/us-foggia/1992,1992,14,serie_a,18,34,1,3,3,3,6,6,1,21,10,WDDDWLLDWDWDW,5,1,1,13,5,8,5,4,4,18,14,DLLWDWWDWLLWD,2,2,2,7,7,WDWLWWW,DLWDLW
+Torino,Fiorentina,2-0,/match/torino-fc/fiorentina/1992,1992,14,serie_a,18,34,0,2,0,11,3,7,3,8,7,DLLDLWDDDWDDW,1,4,1,4,3,6,5,4,4,17,11,WWLDLDWDWWDLW,1,3,2,5,5,LDWDDD,WDDDWL
+Sampdoria,Juventus,1-0,/match/sampdoria/juventus-fc/1992,1992,14,serie_a,18,34,0,1,0,14,3,4,6,15,14,WWDWWWLDWLWDD,3,1,2,10,4,2,9,3,1,17,6,WLDDWWLWDWLWW,3,2,1,6,3,WWWLLD,LDWLDL
+Genoa,Torino,1-1,/match/genoa/torino-fc/1992,1992,15,serie_a,18,34,1,1,1,4,5,6,3,17,15,WWWDDWDDLWDLWD,4,2,1,9,5,7,4,7,3,10,7,DLLDLWDDDWDDWW,2,3,2,4,4,WWWDLDW,DLLDWDW
+SSC Bari,Cagliari,1-0,/match/as-bari/cagliari/1992,1992,15,serie_a,18,34,0,1,0,18,0,5,9,8,21,DWDWWDWLWLWLDD,0,4,3,4,7,15,3,4,7,10,18,WWLWLWDLWDDWWD,1,1,5,4,13,DDDLLLD,WWWLWDW
+Cremonese,Inter,0-1,/match/us-cremonese/internazionale/1992,1992,15,serie_a,18,34,2,0,1,16,2,4,8,9,18,WDLDLDWWWLWLWD,2,1,4,7,9,6,4,8,2,14,14,DLWWLDDDDWDDWD,2,3,2,5,8,DLLWLLW,LWLDDDW
+Ascoli,Roma,1-1,/match/ascoli/roma/1992,1992,15,serie_a,18,34,1,1,1,17,1,3,10,7,25,LDWLWLWDWWLWDW,1,2,4,5,13,12,4,6,4,13,15,LLLDLDDDWDWWDW,3,1,3,7,10,LLLDWLD,LLLDWWW
+Fiorentina,Sampdoria,1-2,/match/fiorentina/sampdoria/1992,1992,15,serie_a,18,34,2,1,2,8,5,4,5,17,13,WWLDLDWDWWDLWW,4,1,2,12,6,13,4,4,6,16,14,WWDWWWLDWLWDDW,0,3,4,5,10,WLLWWDW,WDWDWWD
+Atalanta,Hellas Verona,0-0,/match/atalanta/hellas-verona-fc/1992,1992,15,serie_a,18,34,1,0,0,14,5,5,4,13,11,WDDDLLLLLWLLDD,1,2,3,2,5,10,5,2,7,11,20,LWWWWWWLDWDWWW,0,2,5,3,15,DDLLWL,WWWWDDW
+Juventus,Parma,1-0,/match/juventus-fc/parma-fc/1992,1992,15,serie_a,18,34,0,1,0,2,9,3,2,17,7,WLDDWWLWDWLWWW,6,1,0,11,3,5,4,8,2,14,13,DWDDDWWDDDDLWW,1,4,2,5,8,WDWWWWW,DDDWDLW
+Milan,Napoli,5-0,/match/milan/napoli/1992,1992,15,serie_a,18,34,0,5,0,1,9,5,0,23,7,LWDDDLWLWLWDWD,5,2,0,14,4,3,6,7,1,24,13,WDDDWLLDWDWDWD,1,5,0,8,5,WDDWWWW,DDLDDD
+Lazio,Calcio Foggia,5-2,/match/lazio/us-foggia/1992,1992,15,serie_a,18,34,0,5,2,11,4,8,2,19,15,DLDLLDDLDLDDWD,0,6,1,8,9,9,5,5,4,21,17,DLLWDWWDWLLWDD,2,3,2,10,10,DDLDDDD,DLWDLWD
+Inter,SSC Bari,1-0,/match/internazionale/as-bari/1992,1992,16,serie_a,18,34,0,1,0,5,5,8,2,15,14,DLWWLDDDDWDDWDL,2,5,0,9,6,17,1,5,9,9,21,DWDWWDWLWLWLDDW,0,1,6,4,14,DWDDWDD,WWWWWWD
+Calcio Foggia,Genoa,1-0,/match/us-foggia/genoa/1992,1992,16,serie_a,18,34,0,1,0,11,5,5,5,23,22,DLLWDWWDWLLWDDW,3,2,2,11,7,4,5,7,3,18,16,WWWDDWDDLWDLWDD,1,4,2,8,10,LWDWWLD,WDDDWLD
+Cagliari,Juventus,1-1,/match/cagliari/juventus-fc/1992,1992,16,serie_a,18,34,1,1,1,15,3,4,8,10,19,WWLWLWDLWDDWWDW,2,3,2,6,5,2,10,3,2,18,7,WLDDWWLWDWLWWWW,3,2,2,6,4,WLLDDWD,LDWLDLW
+Hellas Verona,Milan,0-1,/match/hellas-verona-fc/milan/1992,1992,16,serie_a,18,34,2,0,1,10,5,3,7,11,20,LWWWWWWLDWDWWWD,5,0,2,8,5,1,10,5,0,28,7,LWDDDLWLWLWDWDW,4,3,0,9,3,LWWLWWW,LDLLLDD
+Parma,Ascoli,2-0,/match/parma-fc/ascoli/1992,1992,16,serie_a,18,34,0,2,0,6,4,8,3,14,14,DWDDDWWDDDDLWWW,3,4,0,9,5,18,1,4,10,8,26,LDWLWLWDWWLWDWD,0,1,6,2,12,WDWDDDW,DWWWWWW
+Sampdoria,Lazio,1-0,/match/sampdoria/lazio/1992,1992,16,serie_a,18,34,0,1,0,9,5,4,6,18,15,WWDWWWLDWLWDDWL,4,1,2,11,4,7,5,8,2,24,17,DLDLLDDLDLDDWDW,4,2,1,11,6,WWWLLDW,LLDLLDW
+Napoli,Fiorentina,1-0,/match/napoli/fiorentina/1992,1992,16,serie_a,18,34,0,1,0,3,6,7,2,24,18,WDDDWLLDWDWDWDW,5,2,1,16,8,12,5,4,6,18,15,WWLDLDWDWWDLWWL,1,3,3,5,7,WDWLWWWD,WDDDWLW
+Torino,Atalanta,1-1,/match/torino-fc/atalanta/1992,1992,16,serie_a,18,34,1,1,1,8,4,8,3,11,8,DLLDLWDDDWDDWWD,2,4,1,6,3,14,5,6,4,13,11,WDDDLLLLLWLLDDD,4,3,1,11,6,LDWDDDW,WDLLLLDD
+Roma,Cremonese,3-0,/match/roma/us-cremonese/1992,1992,16,serie_a,18,34,0,3,0,13,4,7,4,14,16,LLLDLDDDWDWWDWD,1,5,1,6,5,16,2,4,9,9,19,WDLDLDWWWLWLWDL,0,3,4,2,9,LDDDDWD,WDDWWWD
+Genoa,Napoli,3-4,/match/genoa/napoli/1992,1992,17,serie_a,18,34,2,3,4,6,5,7,4,18,17,WWWDDWDDLWDLWDDW,4,3,1,10,6,3,7,7,2,25,18,WDDDWLLDWDWDWDWW,1,5,1,8,10,WWWDLDWD,DDLDDDW
+SSC Bari,Roma,2-1,/match/as-bari/roma/1992,1992,17,serie_a,18,34,0,2,1,17,1,5,10,9,22,DWDWWDWLWLWLDDWW,1,4,3,5,7,9,5,7,4,17,16,LLLDLDDDWDWWDWDW,3,2,3,8,11,DDDLLLDW,LLLDWWWD
+Cremonese,Sampdoria,0-1,/match/us-cremonese/sampdoria/1992,1992,17,serie_a,18,34,2,0,1,16,2,4,10,9,22,WDLDLDWWWLWLWDLW,2,1,5,7,10,7,6,4,6,19,15,WWDWWWLDWLWDDWLW,1,3,4,7,11,DLLWLLWL,WDWDWWDL
+Fiorentina,Parma,1-1,/match/fiorentina/parma-fc/1992,1992,17,serie_a,18,34,1,1,1,13,5,4,7,18,16,WWLDLDWDWWDLWWLW,4,1,3,13,8,5,5,8,3,16,14,DWDDDWWDDDDLWWWW,1,4,3,5,9,WLLWWDWL,DDDWDLWW
+Ascoli,Torino,0-4,/match/ascoli/torino-fc/1992,1992,17,serie_a,18,34,2,0,4,18,1,4,11,8,28,LDWLWLWDWWLWDWDW,1,3,4,6,14,11,4,9,3,12,9,DLLDLWDDDWDDWWDD,2,4,2,5,5,LLLDWLDD,DLLDWDWD
+Atalanta,Inter,1-0,/match/atalanta/internazionale/1992,1992,17,serie_a,18,34,0,1,0,14,5,7,4,14,12,WDDDLLLLLWLLDDDD,1,3,3,2,5,4,6,8,2,16,14,DLWWLDDDDWDDWDLW,3,3,2,6,8,DDLLWLD,LWLDDDWL
+Juventus,Hellas Verona,2-0,/match/juventus-fc/hellas-verona-fc/1992,1992,17,serie_a,18,34,0,2,0,2,10,4,2,19,8,WLDDWWLWDWLWWWWD,7,1,0,12,3,12,5,3,8,11,21,LWWWWWWLDWDWWWDL,0,3,5,3,15,WDWWWWWW,WWWWDDWD
+Milan,Calcio Foggia,3-1,/match/milan/us-foggia/1992,1992,17,serie_a,18,34,0,3,1,1,11,5,0,29,7,LWDDDLWLWLWDWDWL,6,2,0,19,4,8,6,5,5,24,22,DLLWDWWDWLLWDDWW,2,3,3,12,15,WDDWWWWW,DLWDLWDW
+Lazio,Cagliari,2-1,/match/lazio/cagliari/1992,1992,17,serie_a,18,34,0,2,1,10,5,8,3,24,18,DLDLLDDLDLDDWDWW,1,6,1,13,11,15,3,5,8,11,20,WWLWLWDLWDDWWDWD,1,1,6,4,14,DDLDDDDW,WWWLWDWW
+Atalanta,Napoli,1-1,/match/atalanta/napoli/1992,1992,18,serie_a,18,34,1,1,1,12,6,7,4,15,12,WDDDLLLLLWLLDDDDW,2,3,3,3,5,3,8,7,2,29,21,WDDDWLLDWDWDWDWWL,2,5,1,12,13,DDLLWLDW,DDLDDDWL
+Fiorentina,Juventus,2-0,/match/fiorentina/juventus-fc/1992,1992,18,serie_a,18,34,0,2,0,13,5,5,7,19,17,WWLDLDWDWWDLWWLWD,4,2,3,14,9,2,11,4,2,21,8,WLDDWWLWDWLWWWWDW,3,3,2,7,5,WLLWWDWLD,LDWLDLWD
+Cremonese,Genoa,2-1,/match/us-cremonese/genoa/1992,1992,18,serie_a,18,34,0,2,1,17,2,4,11,9,23,WDLDLDWWWLWLWDLWL,2,1,6,7,11,8,5,7,5,21,21,WWWDDWDDLWDLWDDWL,1,4,3,8,11,DLLWLLWLL,WDDDWLDW
+Calcio Foggia,Inter,2-2,/match/us-foggia/internazionale/1992,1992,18,serie_a,18,34,1,2,2,10,6,5,6,25,25,DLLWDWWDWLLWDDWWW,4,2,2,12,7,4,6,8,3,16,15,DLWWLDDDDWDDWDLWW,3,3,3,6,9,LWDWWLDW,LWLDDDWLW
+Parma,Lazio,1-0,/match/parma-fc/lazio/1992,1992,18,serie_a,18,34,0,1,0,5,5,9,3,17,15,DWDDDWWDDDDLWWWWD,4,4,0,11,5,6,6,8,3,26,19,DLDLLDDLDLDDWDWWW,4,2,2,11,7,WDWDDDWW,LLDLLDWW
+Milan,Ascoli,4-1,/match/milan/ascoli/1992,1992,18,serie_a,18,34,0,4,1,1,12,5,0,32,8,LWDDDLWLWLWDWDWLW,7,2,0,22,5,18,1,4,12,8,32,LDWLWLWDWWLWDWDWL,0,1,7,2,14,WDDWWWWWW,DWWWWWWW
+Roma,Hellas Verona,1-0,/match/roma/hellas-verona-fc/1992,1992,18,serie_a,18,34,0,1,0,11,5,7,5,18,18,LLLDLDDDWDWWDWDWW,2,5,1,9,5,14,5,3,9,11,23,LWWWWWWLDWDWWWDLW,0,3,6,3,17,LDDDDWDW,WWWWDDWDW
+Torino,SSC Bari,1-0,/match/torino-fc/as-bari/1992,1992,18,serie_a,18,34,0,1,0,9,5,9,3,16,9,DLLDLWDDDWDDWWDDL,2,5,1,7,4,16,2,5,10,11,23,DWDWWDWLWLWLDDWWW,0,1,7,4,15,LDWDDDWD,WWWWWWDW
+Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/1992,1992,18,serie_a,18,34,1,1,1,7,7,4,6,20,15,WWDWWWLDWLWDDWLWL,5,1,2,12,4,15,3,5,9,12,22,WWLWLWDLWDDWWDWDW,1,1,7,5,16,WWWLLDWW,WWWLWDWWW
+Genoa,Fiorentina,3-2,/match/genoa/fiorentina/1992,1992,19,serie_a,18,34,0,3,2,13,5,7,6,22,23,WWWDDWDDLWDLWDDWLW,4,3,2,13,10,10,6,5,7,21,17,WWLDLDWDWWDLWWLWDW,1,3,4,5,8,WWWDLDWDL,WDDDWLWW
+SSC Bari,Parma,1-1,/match/as-bari/parma-fc/1992,1992,19,serie_a,18,34,1,1,1,16,2,5,11,11,24,DWDWWDWLWLWLDDWWWW,2,4,3,7,8,4,6,9,3,18,15,DWDDDWWDDDDLWWWWDW,1,5,3,6,10,DDDLLLDWW,DDDWDLWWD
+Hellas Verona,Sampdoria,0-0,/match/hellas-verona-fc/sampdoria/1992,1992,19,serie_a,18,34,1,0,0,14,5,3,10,11,24,LWWWWWWLDWDWWWDLWW,5,0,3,8,6,7,7,5,6,21,16,WWDWWWLDWLWDDWLWLD,2,3,4,8,11,LWWLWWWL,WDWDWWDLL
+Cagliari,Milan,1-4,/match/cagliari/milan/1992,1992,19,serie_a,18,34,2,1,4,15,3,6,9,13,23,WWLWLWDLWDDWWDWDWD,2,4,2,7,6,1,13,5,0,36,9,LWDDDLWLWLWDWDWLWW,5,3,0,10,3,WLLDDWDD,LDLLLDDL
+Ascoli,Atalanta,1-0,/match/ascoli/atalanta/1992,1992,19,serie_a,18,34,0,1,0,18,1,4,13,9,36,LDWLWLWDWWLWDWDWLW,1,3,5,6,18,12,6,8,4,16,13,WDDDLLLLLWLLDDDDWD,4,4,1,12,7,LLLDWLDDL,WDLLLLDDD
+Lazio,Torino,2-1,/match/lazio/torino-fc/1992,1992,19,serie_a,18,34,0,2,1,9,6,8,4,26,20,DLDLLDDLDLDDWDWWWW,2,6,1,15,12,6,6,9,3,17,9,DLLDLWDDDWDDWWDDLW,3,4,2,9,5,DDLDDDDWW,DLLDWDWDL
+Napoli,Cremonese,3-0,/match/napoli/us-cremonese/1992,1992,19,serie_a,18,34,0,3,0,3,8,8,2,30,22,WDDDWLLDWDWDWDWWLD,6,2,1,17,8,17,3,4,11,11,24,WDLDLDWWWLWLWDLWLW,0,3,5,2,12,WDWLWWWDW,WDDWWWDW
+Juventus,Calcio Foggia,4-1,/match/juventus-fc/us-foggia/1992,1992,19,serie_a,18,34,0,4,1,2,11,4,3,21,10,WLDDWWLWDWLWWWWDWW,8,1,0,14,3,11,6,6,6,27,27,DLLWDWWDWLLWDDWWWD,2,3,4,13,18,WDWWWWWWW,DLWDLWDWW
+Inter,Roma,0-0,/match/internazionale/roma/1992,1992,19,serie_a,18,34,1,0,0,5,6,9,3,18,17,DLWWLDDDDWDDWDLWWD,3,5,0,10,6,8,6,7,5,19,18,LLLDLDDDWDWWDWDWWW,3,2,4,9,13,DWDDWDDW,LLLDWWWDW
+Calcio Foggia,Fiorentina,3-3,/match/us-foggia/fiorentina/1992,1992,20,serie_a,18,34,1,3,3,12,6,6,7,28,31,DLLWDWWDWLLWDDWWWDW,4,3,2,14,9,11,6,5,8,23,20,WWLDLDWDWWDLWWLWDWW,1,3,5,7,11,LWDWWLDWD,WDDDWLWWW
+Atalanta,Lazio,1-0,/match/atalanta/lazio/1992,1992,20,serie_a,18,34,0,1,0,13,6,8,5,16,14,WDDDLLLLLWLLDDDDWDW,2,4,3,4,6,6,7,8,4,28,21,DLDLLDDLDLDDWDWWWWW,4,2,3,11,8,DDLLWLDWD,LLDLLDWWW
+Hellas Verona,Inter,1-0,/match/hellas-verona-fc/internazionale/1992,1992,20,serie_a,18,34,0,1,0,14,5,4,10,11,24,LWWWWWWLDWDWWWDLWWD,5,1,3,8,6,5,6,10,3,18,17,DLWWLDDDDWDDWDLWWDD,3,4,3,8,11,LWWLWWWLD,LWLDDDWLWD
+Parma,Napoli,2-1,/match/parma-fc/napoli/1992,1992,20,serie_a,18,34,0,2,1,4,6,10,3,19,16,DWDDDWWDDDDLWWWWDWD,5,4,0,12,5,3,9,8,2,33,22,WDDDWLLDWDWDWDWWLDW,2,6,1,13,14,WDWDDDWWW,DDLDDDWLD
+Ascoli,Genoa,0-2,/match/ascoli/genoa/1992,1992,20,serie_a,18,34,2,0,2,18,2,4,13,10,36,LDWLWLWDWWLWDWDWLWW,2,3,5,7,18,7,6,7,6,25,25,WWWDDWDDLWDLWDDWLWW,1,4,4,9,13,LLLDWLDDLW,WDDDWLDWW
+Sampdoria,SSC Bari,1-1,/match/sampdoria/as-bari/1992,1992,20,serie_a,18,34,1,1,1,9,7,6,6,21,16,WWDWWWLDWLWDDWLWLDD,5,2,2,13,5,16,2,6,11,12,25,DWDWWDWLWLWLDDWWWWD,0,1,8,4,16,WWWLLDWWD,WWWWWWDWW
+Torino,Cremonese,2-0,/match/torino-fc/us-cremonese/1992,1992,20,serie_a,18,34,0,2,0,8,6,9,4,18,11,DLLDLWDDDWDDWWDDLWW,3,5,1,8,4,17,3,4,12,11,27,WDLDLDWWWLWLWDLWLWW,0,3,6,2,15,LDWDDDWDW,WDDWWWDWW
+Milan,Juventus,1-1,/match/milan/juventus-fc/1992,1992,20,serie_a,18,34,1,1,1,1,14,5,0,40,10,LWDDDLWLWLWDWDWLWWL,8,2,0,26,6,2,12,4,3,25,11,WLDDWWLWDWLWWWWDWWW,3,3,3,7,7,WDDWWWWWWW,LDWLDLWDW
+Roma,Cagliari,0-0,/match/roma/cagliari/1992,1992,20,serie_a,18,34,1,0,0,10,6,8,5,19,18,LLLDLDDDWDWWDWDWWWD,3,5,1,10,5,15,3,6,10,14,27,WWLWLWDLWDDWWDWDWDL,1,2,7,6,17,LDDDDWDWW,WWWLWDWWWD
+Cagliari,Calcio Foggia,2-2,/match/cagliari/us-foggia/1992,1992,21,serie_a,18,34,1,2,2,15,3,7,10,14,27,WWLWLWDLWDDWWDWDWDLD,2,4,3,8,10,12,6,7,7,31,34,DLLWDWWDWLLWDDWWWDWD,2,3,5,14,22,WLLDDWDDL,DLWDLWDWWW
+Genoa,Roma,1-1,/match/genoa/roma/1992,1992,21,serie_a,18,34,1,1,1,8,7,7,6,27,25,WWWDDWDDLWDLWDDWLWWL,5,3,2,16,12,10,6,9,5,19,18,LLLDLDDDWDWWDWDWWWDD,3,3,4,9,13,WWWDLDWDLW,LLLDWWWDWD
+SSC Bari,Hellas Verona,2-1,/match/as-bari/hellas-verona-fc/1992,1992,21,serie_a,18,34,0,2,1,16,2,7,11,13,26,DWDWWDWLWLWLDDWWWWDD,2,5,3,8,9,14,6,4,10,12,24,LWWWWWWLDWDWWWDLWWDW,0,3,7,3,18,DDDLLLDWWD,WWWWDDWDWW
+Cremonese,Parma,0-1,/match/us-cremonese/parma-fc/1992,1992,21,serie_a,18,34,2,0,1,17,3,4,13,11,29,WDLDLDWWWLWLWDLWLWWW,3,1,6,9,12,4,7,10,3,21,17,DWDDDWWDDDDLWWWWDWDW,1,6,3,7,11,DLLWLLWLLW,DDDWDLWWDD
+Fiorentina,Milan,0-0,/match/fiorentina/milan/1992,1992,21,serie_a,18,34,1,0,0,13,6,6,8,26,23,WWLDLDWDWWDLWWLWDWWD,5,2,3,16,9,1,14,6,0,41,11,LWDDDLWLWLWDWDWLWWLD,6,3,0,14,4,WLLWWDWLDW,LDLLLDDLL
+Lazio,Ascoli,1-1,/match/lazio/ascoli/1992,1992,21,serie_a,18,34,1,1,1,7,7,8,5,28,22,DLDLLDDLDLDDWDWWWWWW,3,6,1,17,13,18,2,4,14,10,38,LDWLWLWDWWLWDWDWLWWL,0,1,8,3,18,DDLDDDDWWW,DWWWWWWWW
+Napoli,Torino,0-1,/match/napoli/torino-fc/1992,1992,21,serie_a,18,34,2,0,1,3,9,8,3,34,24,WDDDWLLDWDWDWDWWLDWW,7,2,1,20,8,5,7,9,4,20,11,DLLDLWDDDWDDWWDDLWWW,3,4,3,10,7,WDWLWWWDWW,DLLDWDWDLW
+Juventus,Atalanta,2-1,/match/juventus-fc/atalanta/1992,1992,21,serie_a,18,34,0,2,1,2,12,5,3,26,12,WLDDWWLWDWLWWWWDWWWD,9,1,0,18,4,11,7,8,5,17,14,WDDDLLLLLWLLDDDDWDWW,4,4,2,12,8,WDWWWWWWWW,WDLLLLDDDW
+Inter,Sampdoria,0-0,/match/internazionale/sampdoria/1992,1992,21,serie_a,18,34,1,0,0,6,6,10,4,18,18,DLWWLDDDDWDDWDLWWDDW,3,6,0,10,6,9,7,7,6,22,17,WWDWWWLDWLWDDWLWLDDD,2,4,4,8,11,DWDDWDDWD,WDWDWWDLLD
+SSC Bari,Juventus,0-0,/match/as-bari/juventus-fc/1992,1992,22,serie_a,18,34,1,0,0,15,3,7,11,15,27,DWDWWDWLWLWLDDWWWWDDW,3,5,3,10,10,2,13,5,3,28,13,WLDDWWLWDWLWWWWDWWWDW,3,4,3,8,8,DDDLLLDWWDW,LDWLDLWDWD
+Hellas Verona,Napoli,0-1,/match/hellas-verona-fc/napoli/1992,1992,22,serie_a,18,34,2,0,1,14,6,4,11,13,26,LWWWWWWLDWDWWWDLWWDWW,6,1,3,9,6,3,9,8,4,34,25,WDDDWLLDWDWDWDWWLDWWL,2,6,2,14,16,LWWLWWWLDW,DDLDDDWLDW
+Ascoli,Sampdoria,0-1,/match/ascoli/sampdoria/1992,1992,22,serie_a,18,34,2,0,1,18,2,5,14,11,39,LDWLWLWDWWLWDWDWLWWLD,2,3,6,7,20,9,7,8,6,22,17,WWDWWWLDWLWDDWLWLDDDD,2,5,4,8,11,LLLDWLDDLWL,WDWDWWDLLDD
+Genoa,Milan,0-0,/match/genoa/milan/1992,1992,22,serie_a,18,34,1,0,0,8,7,8,6,28,26,WWWDDWDDLWDLWDDWLWWLD,5,4,2,17,13,1,14,7,0,41,11,LWDDDLWLWLWDWDWLWWLDD,6,4,0,14,4,WWWDLDWDLWD,LDLLLDDLLD
+Torino,Cagliari,1-0,/match/torino-fc/cagliari/1992,1992,22,serie_a,18,34,0,1,0,5,8,9,4,21,11,DLLDLWDDDWDDWWDDLWWWL,4,5,1,10,4,16,3,8,10,16,29,WWLWLWDLWDDWWDWDWDLDD,1,3,7,6,17,LDWDDDWDWW,WWWLWDWWWDD
+Atalanta,Cremonese,1-1,/match/atalanta/us-cremonese/1992,1992,22,serie_a,18,34,1,1,1,11,7,8,6,18,16,WDDDLLLLLWLLDDDDWDWWW,3,4,3,5,6,17,3,4,14,11,30,WDLDLDWWWLWLWDLWLWWWL,0,3,7,2,17,DDLLWLDWDW,WDDWWWDWWW
+Parma,Calcio Foggia,2-0,/match/parma-fc/us-foggia/1992,1992,22,serie_a,18,34,0,2,0,4,8,10,3,22,17,DWDDDWWDDDDLWWWWDWDWL,6,4,0,14,6,12,6,8,7,33,36,DLLWDWWDWLLWDDWWWDWDD,2,4,5,16,24,WDWDDDWWWW,DLWDLWDWWWD
+Roma,Fiorentina,1-3,/match/roma/fiorentina/1992,1992,22,serie_a,18,34,2,1,3,10,6,10,5,20,19,LLLDLDDDWDWWDWDWWWDDD,3,6,1,10,5,13,6,7,8,26,23,WWLDLDWDWWDLWWLWDWWDD,1,4,5,10,14,LDDDDWDWWD,WDDDWLWWWD
+Inter,Lazio,1-0,/match/internazionale/lazio/1992,1992,22,serie_a,18,34,0,1,0,6,6,11,4,18,18,DLWWLDDDDWDDWDLWWDDWD,3,7,0,10,6,7,7,9,5,29,23,DLDLLDDLDLDDWDWWWWWWD,4,2,4,11,9,DWDDWDDWDD,LLDLLDWWWW
+Lazio,Roma,1-1,/match/lazio/roma/1992,1992,23,serie_a,18,34,1,1,1,9,7,9,6,29,24,DLDLLDDLDLDDWDWWWWWWDW,3,7,1,18,14,11,6,10,6,21,22,LLLDLDDDWDWWDWDWWWDDDL,3,4,4,10,14,DDLDDDDWWWD,LLLDWWWDWDD
+Fiorentina,Inter,1-1,/match/fiorentina/internazionale/1992,1992,23,serie_a,18,34,1,1,1,10,7,7,8,29,24,WWLDLDWDWWDLWWLWDWWDDL,5,3,3,16,9,6,7,11,4,19,18,DLWWLDDDDWDDWDLWWDDWDW,3,4,4,8,12,WLLWWDWLDWD,LWLDDDWLWDW
+Cagliari,Hellas Verona,4-0,/match/cagliari/hellas-verona-fc/1992,1992,23,serie_a,18,34,0,4,0,16,3,8,11,16,30,WWLWLWDLWDDWWDWDWDLDDW,2,5,3,10,12,14,6,4,12,13,27,LWWWWWWLDWDWWWDLWWDWWL,0,3,8,4,20,WLLDDWDDLD,WWWWDDWDWWW
+Cremonese,SSC Bari,1-1,/match/us-cremonese/as-bari/1992,1992,23,serie_a,18,34,1,1,1,17,3,5,14,12,31,WDLDLDWWWLWLWDLWLWWWLD,3,1,7,9,13,15,3,8,11,15,27,DWDWWDWLWLWLDDWWWWDDWD,0,2,8,5,17,DLLWLLWLLWL,WWWWWWDWWD
+Calcio Foggia,Torino,1-1,/match/us-foggia/torino-fc/1992,1992,23,serie_a,18,34,1,1,1,13,6,8,8,33,38,DLLWDWWDWLLWDDWWWDWDDW,4,4,2,17,12,5,9,9,4,22,11,DLLDLWDDDWDDWWDDLWWWLW,4,4,3,11,7,LWDWWLDWDD,DLLDWDWDLWL
+Sampdoria,Parma,2-0,/match/sampdoria/parma-fc/1992,1992,23,serie_a,18,34,0,2,0,8,8,8,6,23,17,WWDWWWLDWLWDDWLWLDDDDL,5,3,2,14,6,3,9,10,3,24,17,DWDDDWWDDDDLWWWWDWDWLW,2,6,3,8,11,WWWLLDWWDD,DDDWDLWWDDL
+Juventus,Genoa,3-0,/match/juventus-fc/genoa/1992,1992,23,serie_a,18,34,0,3,0,2,13,6,3,28,13,WLDDWWLWDWLWWWWDWWWDWD,10,1,0,20,5,7,7,9,6,28,26,WWWDDWDDLWDLWDDWLWWLDD,2,4,4,11,13,WDWWWWWWWWW,WDDDWLDWWL
+Milan,Atalanta,3-1,/match/milan/atalanta/1992,1992,23,serie_a,18,34,0,3,1,1,14,8,0,41,11,LWDDDLWLWLWDWDWLWWLDDD,8,3,0,27,7,12,7,9,6,19,17,WDDDLLLLLWLLDDDDWDWWWD,4,4,3,13,10,WDDWWWWWWWD,WDLLLLDDDWW
+Napoli,Ascoli,5-1,/match/napoli/ascoli/1992,1992,23,serie_a,18,34,0,5,1,4,10,8,4,35,25,WDDDWLLDWDWDWDWWLDWWLL,7,2,2,20,9,18,2,5,15,11,40,LDWLWLWDWWLWDWDWLWWLDL,0,2,8,4,19,WDWLWWWDWWL,DWWWWWWWWD
+Genoa,Lazio,1-0,/match/genoa/lazio/1992,1992,24,serie_a,18,34,0,1,0,8,7,9,7,28,29,WWWDDWDDLWDLWDDWLWWLDDW,5,5,2,17,13,9,7,10,6,30,25,DLDLLDDLDLDDWDWWWWWWDWD,4,2,5,11,10,WWWDLDWDLWDD,LLDLLDWWWWW
+SSC Bari,Fiorentina,1-0,/match/as-bari/fiorentina/1992,1992,24,serie_a,18,34,0,1,0,15,3,9,11,16,28,DWDWWDWLWLWLDDWWWWDDWDD,3,6,3,10,10,10,7,8,8,30,25,WWLDLDWDWWDLWWLWDWWDDLD,2,4,5,13,15,DDDLLLDWWDWD,WDDDWLWWWDL
+Hellas Verona,Cremonese,2-2,/match/hellas-verona-fc/us-cremonese/1992,1992,24,serie_a,18,34,1,2,2,14,6,4,13,13,31,LWWWWWWLDWDWWWDLWWDWWLW,6,1,4,9,7,17,3,6,14,13,32,WDLDLDWWWLWLWDLWLWWWLDD,0,4,7,3,18,LWWLWWWLDWL,WDDWWWDWWWD
+Ascoli,Calcio Foggia,2-1,/match/ascoli/us-foggia/1992,1992,24,serie_a,18,34,0,2,1,18,2,5,16,12,45,LDWLWLWDWWLWDWDWLWWLDLW,2,3,7,7,21,13,6,9,8,34,39,DLLWDWWDWLLWDDWWWDWDDWD,2,4,6,16,26,LLLDWLDDLWLL,DLWDLWDWWWDW
+Atalanta,Sampdoria,0-0,/match/atalanta/sampdoria/1992,1992,24,serie_a,18,34,1,0,0,12,7,9,7,20,20,WDDDLLLLLWLLDDDDWDWWWDW,3,5,3,6,7,7,9,8,6,25,17,WWDWWWLDWLWDDWLWLDDDDLW,3,5,4,9,11,DDLLWLDWDWD,WDWDWWDLLDDL
+Inter,Cagliari,0-0,/match/internazionale/cagliari/1992,1992,24,serie_a,18,34,1,0,0,6,7,12,4,20,19,DLWWLDDDDWDDWDLWWDDWDWD,4,7,0,11,6,16,4,8,11,20,30,WWLWLWDLWDDWWDWDWDLDDWW,1,3,8,6,18,DWDDWDDWDDW,WWWLWDWWWDDW
+Roma,Torino,1-0,/match/roma/torino-fc/1992,1992,24,serie_a,18,34,0,1,0,11,6,11,6,22,23,LLLDLDDDWDWWDWDWWWDDDLD,3,6,2,11,8,5,9,10,4,23,12,DLLDLWDDDWDDWWDDLWWWLWD,4,5,3,12,8,LDDDDWDWWDL,DLLDWDWDLWLD
+Juventus,Napoli,3-1,/match/juventus-fc/napoli/1992,1992,24,serie_a,18,34,0,3,1,2,14,6,3,31,13,WLDDWWLWDWLWWWWDWWWDWDW,11,1,0,23,5,3,11,8,4,40,26,WDDDWLLDWDWDWDWWLDWWLLW,3,6,2,15,16,WDWWWWWWWWWW,DDLDDDWLDWL
+Parma,Milan,1-3,/match/parma-fc/milan/1992,1992,24,serie_a,18,34,2,1,3,4,9,10,4,24,19,DWDDDWWDDDDLWWWWDWDWLWW,7,4,0,16,6,1,15,8,0,44,12,LWDDDLWLWLWDWDWLWWLDDDW,6,5,0,14,4,WDWDDDWWWWW,LDLLLDDLLDD
+Lazio,Hellas Verona,2-0,/match/lazio/hellas-verona-fc/1992,1992,25,serie_a,18,34,0,2,0,10,7,10,7,30,26,DLDLLDDLDLDDWDWWWWWWDWDW,3,8,1,19,15,14,6,5,13,15,33,LWWWWWWLDWDWWWDLWWDWWLWD,0,3,9,4,24,DDLDDDDWWWDD,WWWWDDWDWWWW
+Fiorentina,Ascoli,1-2,/match/fiorentina/ascoli/1992,1992,25,serie_a,18,34,2,1,2,12,7,8,9,30,26,WWLDLDWDWWDLWWLWDWWDDLDW,5,4,3,17,10,18,3,5,16,14,46,LDWLWLWDWWLWDWDWLWWLDLWW,0,2,9,5,24,WLLWWDWLDWDD,DWWWWWWWWDW
+Cagliari,Atalanta,0-0,/match/cagliari/atalanta/1992,1992,25,serie_a,18,34,1,0,0,16,4,9,11,20,30,WWLWLWDLWDDWWDWDWDLDDWWD,3,5,3,14,12,11,7,10,7,20,20,WDDDLLLLLWLLDDDDWDWWWDWD,4,4,4,14,13,WLLDDWDDLDW,WDLLLLDDDWWW
+Cremonese,Juventus,0-2,/match/us-cremonese/juventus-fc/1992,1992,25,serie_a,18,34,2,0,2,17,3,7,14,15,34,WDLDLDWWWLWLWDLWLWWWLDDD,3,2,7,10,14,2,15,6,3,34,14,WLDDWWLWDWLWWWWDWWWDWDWW,3,5,3,8,8,DLLWLLWLLWLD,LDWLDLWDWDD
+Calcio Foggia,Roma,1-2,/match/us-foggia/roma/1992,1992,25,serie_a,18,34,2,1,2,13,6,9,9,35,41,DLLWDWWDWLLWDDWWWDWDDWDW,4,5,2,18,13,9,7,11,6,23,23,LLLDLDDDWDWWDWDWWWDDDLDW,3,5,4,11,15,LWDWWLDWDDD,LLLDWWWDWDDD
+Sampdoria,Genoa,2-2,/match/sampdoria/genoa/1992,1992,25,serie_a,18,34,1,2,2,7,9,9,6,25,17,WWDWWWLDWLWDDWLWLDDDDLWD,6,3,2,16,6,8,8,9,7,29,29,WWWDDWDDLWDLWDDWLWWLDDWW,2,4,5,11,16,WWWLLDWWDDW,WDDDWLDWWLW
+Torino,Parma,0-0,/match/torino-fc/parma-fc/1992,1992,25,serie_a,18,34,1,0,0,5,9,10,5,23,13,DLLDLWDDDWDDWWDDLWWWLWDW,5,5,1,11,4,4,9,10,5,25,22,DWDDDWWDDDDLWWWWDWDWLWWL,2,6,4,8,13,LDWDDDWDWWW,DDDWDLWWDDLW
+Milan,SSC Bari,2-0,/match/milan/as-bari/1992,1992,25,serie_a,18,34,0,2,0,1,16,8,0,47,13,LWDDDLWLWLWDWDWLWWLDDDWL,9,3,0,30,8,15,4,9,11,17,28,DWDWWDWLWLWLDDWWWWDDWDDW,0,3,8,6,18,WDDWWWWWWWDW,WWWWWWDWWDD
+Napoli,Inter,1-1,/match/napoli/internazionale/1992,1992,25,serie_a,18,34,1,1,1,3,11,8,5,41,29,WDDDWLLDWDWDWDWWLDWWLLWW,8,2,2,25,10,6,7,13,4,20,19,DLWWLDDDDWDDWDLWWDDWDWDD,3,5,4,9,13,WDWLWWWDWWLW,LWLDDDWLWDWD
+Roma,Milan,1-1,/match/roma/milan/1992,1992,26,serie_a,18,34,1,1,1,10,8,11,6,25,24,LLLDLDDDWDWWDWDWWWDDDLDWL,4,6,2,12,8,1,17,8,0,49,13,LWDDDLWLWLWDWDWLWWLDDDWLW,7,5,0,17,5,LDDDDWDWWDLW,LDLLLDDLLDDL
+SSC Bari,Calcio Foggia,1-3,/match/as-bari/us-foggia/1992,1992,26,serie_a,18,34,2,1,3,15,4,9,12,17,30,DWDWWDWLWLWLDDWWWWDDWDDWW,4,6,3,11,10,13,6,9,10,36,43,DLLWDWWDWLLWDDWWWDWDDWDWL,2,4,7,17,28,DDDLLLDWWDWDW,DLWDLWDWWWDWW
+Hellas Verona,Parma,1-0,/match/hellas-verona-fc/parma-fc/1992,1992,26,serie_a,18,34,0,1,0,14,6,5,14,15,35,LWWWWWWLDWDWWWDLWWDWWLWDW,6,2,4,11,9,4,9,11,5,25,22,DWDDDWWDDDDLWWWWDWDWLWWLD,2,7,4,8,13,LWWLWWWLDWLD,DDDWDLWWDDLWD
+Cremonese,Ascoli,3-1,/match/us-cremonese/ascoli/1992,1992,26,serie_a,18,34,0,3,1,18,3,7,15,15,36,WDLDLDWWWLWLWDLWLWWWLDDDL,3,2,8,10,16,17,4,5,16,16,47,LDWLWLWDWWLWDWDWLWWLDLWWL,1,2,9,7,25,DLLWLLWLLWLDL,DWWWWWWWWDWL
+Cagliari,Fiorentina,4-0,/match/cagliari/fiorentina/1992,1992,26,serie_a,18,34,0,4,0,16,4,10,11,20,30,WWLWLWDLWDDWWDWDWDLDDWWDD,3,6,3,14,12,12,7,8,10,31,28,WWLDLDWDWWDLWWLWDWWDDLDWL,2,4,6,13,16,WLLDDWDDLDWD,WDDDWLWWWDLW
+Sampdoria,Napoli,1-1,/match/sampdoria/napoli/1992,1992,26,serie_a,18,34,1,1,1,7,9,10,6,27,19,WWDWWWLDWLWDDWLWLDDDDLWDD,6,4,2,18,8,3,11,9,5,42,30,WDDDWLLDWDWDWDWWLDWWLLWWD,3,6,3,16,19,WWWLLDWWDDWD,DDLDDDWLDWLW
+Juventus,Lazio,1-1,/match/juventus-fc/lazio/1992,1992,26,serie_a,18,34,1,1,1,2,16,6,3,36,14,WLDDWWLWDWLWWWWDWWWDWDWWL,12,1,0,26,6,9,8,10,7,32,26,DLDLLDDLDLDDWDWWWWWWDWDWW,4,2,6,11,11,WDWWWWWWWWWWW,LLDLLDWWWWWW
+Atalanta,Genoa,1-0,/match/atalanta/genoa/1992,1992,26,serie_a,18,34,0,1,0,11,7,11,7,20,20,WDDDLLLLLWLLDDDDWDWWWDWDD,3,6,3,6,7,8,8,10,7,31,31,WWWDDWDDLWDLWDDWLWWLDDWWD,2,5,5,13,18,DDLLWLDWDWDD,WDDDWLDWWLWD
+Inter,Torino,0-0,/match/internazionale/torino-fc/1992,1992,26,serie_a,18,34,1,0,0,6,7,14,4,21,20,DLWWLDDDDWDDWDLWWDDWDWDDD,4,8,0,11,6,5,9,11,5,23,13,DLLDLWDDDWDDWWDDLWWWLWDWD,4,5,4,12,9,DWDDWDDWDDWD,DLLDWDWDLWLDW
+Fiorentina,Atalanta,3-0,/match/fiorentina/atalanta/1992,1992,27,serie_a,18,34,0,3,0,12,7,8,11,31,32,WWLDLDWDWWDLWWLWDWWDDLDWLW,5,4,4,18,12,11,8,11,7,21,20,WDDDLLLLLWLLDDDDWDWWWDWDDW,4,5,4,14,13,WLLWWDWLDWDDL,WDLLLLDDDWWWD
+Genoa,Hellas Verona,1-0,/match/genoa/hellas-verona-fc/1992,1992,27,serie_a,18,34,0,1,0,10,8,10,8,31,32,WWWDDWDDLWDLWDDWLWWLDDWWDW,6,5,2,18,13,14,7,5,14,16,35,LWWWWWWLDWDWWWDLWWDWWLWDWW,0,3,10,4,26,WWWDLDWDLWDDW,WWWWDDWDWWWWW
+Ascoli,Inter,1-2,/match/ascoli/internazionale/1992,1992,27,serie_a,18,34,2,1,2,18,4,5,17,17,50,LDWLWLWDWWLWDWDWLWWLDLWWLW,3,3,7,9,22,6,7,15,4,21,20,DLWWLDDDDWDDWDLWWDDWDWDDDD,3,6,4,10,14,LLLDWLDDLWLLW,LWLDDDWLWDWDD
+Lazio,SSC Bari,3-1,/match/lazio/as-bari/1992,1992,27,serie_a,18,34,0,3,1,8,8,11,7,33,27,DLDLLDDLDLDDWDWWWWWWDWDWWD,4,8,1,21,15,16,4,9,13,18,33,DWDWWDWLWLWLDDWWWWDDWDDWWL,0,3,9,6,20,DDLDDDDWWWDDW,WWWWWWDWWDDW
+Calcio Foggia,Cremonese,2-0,/match/us-foggia/us-cremonese/1992,1992,27,serie_a,18,34,0,2,0,13,7,9,10,39,44,DLLWDWWDWLLWDDWWWDWDDWDWLL,4,5,3,19,15,17,4,7,15,18,37,WDLDLDWWWLWLWDLWLWWWLDDDLW,0,5,7,5,20,LWDWWLDWDDDL,WDDWWWDWWWDD
+Milan,Sampdoria,5-1,/match/milan/sampdoria/1992,1992,27,serie_a,18,34,0,5,1,1,17,9,0,50,14,LWDDDLWLWLWDWDWLWWLDDDWLWD,10,3,0,32,8,7,9,11,6,28,20,WWDWWWLDWLWDDWLWLDDDDLWDDD,3,6,4,9,11,WDDWWWWWWWDWW,WDWDWWDLLDDLD
+Napoli,Roma,3-2,/match/napoli/roma/1992,1992,27,serie_a,18,34,0,3,2,3,11,10,5,43,31,WDDDWLLDWDWDWDWWLDWWLLWWDD,8,3,2,26,11,9,8,12,6,26,25,LLLDLDDDWDWWDWDWWWDDDLDWLD,4,5,4,13,16,WDWLWWWDWWLWD,LLLDWWWDWDDDL
+Torino,Juventus,2-0,/match/torino-fc/juventus-fc/1992,1992,27,serie_a,18,34,0,2,0,5,9,12,5,23,13,DLLDLWDDDWDDWWDDLWWWLWDWDD,5,6,1,11,4,2,16,7,3,37,15,WLDDWWLWDWLWWWWDWWWDWDWWLD,4,5,3,10,8,LDWDDDWDWWWD,LDWLDLWDWDDL
+Parma,Cagliari,1-1,/match/parma-fc/cagliari/1992,1992,27,serie_a,18,34,1,1,1,4,9,11,6,25,23,DWDDDWWDDDDLWWWWDWDWLWWLDW,7,4,1,17,9,15,5,10,11,24,30,WWLWLWDLWDDWWDWDWDLDDWWDDW,1,4,8,6,18,WDWDDDWWWWWL,WWWLWDWWWDDWD
+Cremonese,Milan,1-1,/match/us-cremonese/milan/1992,1992,28,serie_a,18,34,1,1,1,17,4,7,16,18,39,WDLDLDWWWLWLWDLWLWWWLDDDLWW,4,2,8,13,17,1,18,9,0,55,15,LWDDDLWLWLWDWDWLWWLDDDWLWDW,7,6,0,18,6,DLLWLLWLLWLDLW,LDLLLDDLLDDLD
+SSC Bari,Napoli,1-3,/match/as-bari/napoli/1992,1992,28,serie_a,18,34,2,1,3,16,4,9,14,19,36,DWDWWDWLWLWLDDWWWWDDWDDWWLW,4,6,4,12,13,3,12,10,5,46,33,WDDDWLLDWDWDWDWWLDWWLLWWDDW,3,7,3,17,20,DDDLLLDWWDWDWL,DDLDDDWLDWLWD
+Hellas Verona,Torino,1-2,/match/hellas-verona-fc/torino-fc/1992,1992,28,serie_a,18,34,2,1,2,14,7,5,15,16,36,LWWWWWWLDWDWWWDLWWDWWLWDWWW,7,2,4,12,9,4,10,12,5,25,13,DLLDLWDDDWDDWWDDLWWWLWDWDDW,4,6,4,12,9,LWWLWWWLDWLDW,DLLDWDWDLWLDWD
+Cagliari,Genoa,1-1,/match/cagliari/genoa/1992,1992,28,serie_a,18,34,1,1,1,15,5,11,11,25,31,WWLWLWDLWDDWWDWDWDLDDWWDDWD,4,6,3,18,12,8,9,10,8,32,32,WWWDDWDDLWDLWDDWLWWLDDWWDWW,2,5,6,13,19,WLLDDWDDLDWDW,WDDDWLDWWLWDW
+Atalanta,Calcio Foggia,4-4,/match/atalanta/us-foggia/1992,1992,28,serie_a,18,34,1,4,4,11,8,11,8,21,23,WDDDLLLLLWLLDDDDWDWWWDWDDWW,4,6,3,7,7,13,8,9,10,41,44,DLLWDWWDWLLWDDWWWDWDDWDWLLW,3,4,7,20,29,DDLLWLDWDWDDW,DLWDLWDWWWDWWL
+Juventus,Ascoli,1-0,/match/juventus-fc/ascoli/1992,1992,28,serie_a,18,34,0,1,0,2,16,7,4,37,17,WLDDWWLWDWLWWWWDWWWDWDWWLDW,12,2,0,27,7,18,4,5,18,18,52,LDWLWLWDWWLWDWDWLWWLDLWWLWL,1,2,10,8,28,WDWWWWWWWWWWWD,DWWWWWWWWDWLW
+Inter,Parma,0-0,/match/internazionale/parma-fc/1992,1992,28,serie_a,18,34,1,0,0,6,8,15,4,23,21,DLWWLDDDDWDDWDLWWDDWDWDDDDL,4,9,0,11,6,5,9,12,6,26,24,DWDDDWWDDDDLWWWWDWDWLWWLDWD,2,7,5,8,14,DWDDWDDWDDWDD,DDDWDLWWDDLWDW
+Sampdoria,Roma,1-1,/match/sampdoria/roma/1992,1992,28,serie_a,18,34,1,1,1,9,9,11,7,29,25,WWDWWWLDWLWDDWLWLDDDDLWDDDW,6,5,2,19,9,10,8,12,7,28,28,LLLDLDDDWDWWDWDWWWDDDLDWLDW,4,5,5,15,19,WWWLLDWWDDWDD,LLLDWWWDWDDDLW
+Lazio,Fiorentina,1-1,/match/lazio/fiorentina/1992,1992,28,serie_a,18,34,1,1,1,7,9,11,7,36,28,DLDLLDDLDLDDWDWWWWWWDWDWWDW,5,8,1,24,16,12,8,8,11,34,32,WWLDLDWDWWDLWWLWDWWDDLDWLWW,2,4,7,13,20,DDLDDDDWWWDDWW,WDDDWLWWWDLWW
+Fiorentina,Cremonese,1-1,/match/fiorentina/us-cremonese/1992,1992,29,serie_a,18,34,1,1,1,12,8,9,11,35,33,WWLDLDWDWWDLWWLWDWWDDLDWLWWD,6,4,4,21,12,17,4,8,16,19,40,WDLDLDWWWLWLWDLWLWWWLDDDLWWD,0,5,8,5,22,WLLWWDWLDWDDLW,WDDWWWDWWWDDW
+Genoa,SSC Bari,1-3,/match/genoa/as-bari/1992,1992,29,serie_a,18,34,2,1,3,8,9,11,8,33,33,WWWDDWDDLWDLWDDWLWWLDDWWDWWD,7,5,2,19,13,16,4,9,15,20,39,DWDWWDWLWLWLDDWWWWDDWDDWWLWL,0,3,10,7,23,WWWDLDWDLWDDWW,WWWWWWDWWDDWW
+Ascoli,Cagliari,1-3,/match/ascoli/cagliari/1992,1992,29,serie_a,18,34,2,1,3,18,4,5,19,18,53,LDWLWLWDWWLWDWDWLWWLDLWWLWLW,3,3,8,10,24,14,5,12,11,26,32,WWLWLWDLWDDWWDWDWDLDDWWDDWDD,1,5,8,7,19,LLLDWLDDLWLLWL,WWWLWDWWWDDWDD
+Calcio Foggia,Hellas Verona,5-0,/match/us-foggia/hellas-verona-fc/1992,1992,29,serie_a,18,34,0,5,0,13,8,10,10,45,48,DLLWDWWDWLLWDDWWWDWDDWDWLLWD,5,5,3,21,15,15,7,5,16,17,38,LWWWWWWLDWDWWWDLWWDWWLWDWWWL,0,3,11,4,27,LWDWWLDWDDDLW,WWWWDDWDWWWWWW
+Parma,Atalanta,0-0,/match/parma-fc/atalanta/1992,1992,29,serie_a,18,34,1,0,0,5,9,13,6,26,24,DWDDDWWDDDDLWWWWDWDWLWWLDWDD,7,5,1,18,10,11,8,12,8,25,27,WDDDLLLLLWLLDDDDWDWWWDWDDWWD,4,5,5,14,16,WDWDDDWWWWWLD,WDLLLLDDDWWWDW
+Milan,Inter,1-0,/match/milan/internazionale/1992,1992,29,serie_a,18,34,0,1,0,1,18,10,0,56,16,LWDDDLWLWLWDWDWLWWLDDDWLWDWD,11,3,0,37,9,6,8,16,4,23,21,DLWWLDDDDWDDWDLWWDDWDWDDDDLD,4,6,4,12,15,WDDWWWWWWWDWWW,LWLDDDWLWDWDDL
+Napoli,Lazio,3-0,/match/napoli/lazio/1992,1992,29,serie_a,18,34,0,3,0,3,13,10,5,49,34,WDDDWLLDWDWDWDWWLDWWLLWWDDWL,9,3,2,29,13,7,9,12,7,37,29,DLDLLDDLDLDDWDWWWWWWDWDWWDWD,4,3,6,12,12,WDWLWWWDWWLWDW,LLDLLDWWWWWWD
+Torino,Sampdoria,1-1,/match/torino-fc/sampdoria/1992,1992,29,serie_a,18,34,1,1,1,4,11,12,5,27,14,DLLDLWDDDWDDWWDDLWWWLWDWDDWL,6,6,1,13,4,9,9,12,7,30,26,WWDWWWLDWLWDDWLWLDDDDLWDDDWD,3,6,5,10,16,LDWDDDWDWWWDW,WDWDWWDLLDDLDW
+Roma,Juventus,1-1,/match/roma/juventus-fc/1992,1992,29,serie_a,18,34,1,1,1,10,8,13,7,29,29,LLLDLDDDWDWWDWDWWWDDDLDWLDWD,4,7,2,13,9,2,17,7,4,38,17,WLDDWWLWDWLWWWWDWWWDWDWWLDWW,4,5,4,10,10,LDDDDWDWWDLWD,LDWLDLWDWDDLW
+Atalanta,Roma,0-1,/match/atalanta/roma/1992,1992,30,serie_a,18,34,2,0,1,12,8,13,8,25,27,WDDDLLLLLWLLDDDDWDWWWDWDDWWDD,4,7,3,11,11,10,8,14,7,30,30,LLLDLDDDWDWWDWDWWWDDDLDWLDWDD,4,6,5,16,20,DDLLWLDWDWDDWD,LLLDWWWDWDDDLWD
+Cagliari,Napoli,0-0,/match/cagliari/napoli/1992,1992,30,serie_a,18,34,1,0,0,14,6,12,11,29,33,WWLWLWDLWDDWWDWDWDLDDWWDDWDDL,4,7,3,19,13,3,14,10,5,52,34,WDDDWLLDWDWDWDWWLDWWLLWWDDWLW,4,7,3,20,21,WLLDDWDDLDWDWD,DDLDDDWLDWLWDL
+Lazio,Cremonese,3-2,/match/lazio/us-cremonese/1992,1992,30,serie_a,18,34,0,3,2,7,9,12,8,37,32,DLDLLDDLDLDDWDWWWWWWDWDWWDWDW,5,9,1,25,17,17,4,9,16,20,41,WDLDLDWWWLWLWDLWLWWWLDDDLWWDD,0,6,8,6,23,DDLDDDDWWWDDWWD,WDDWWWDWWWDDWD
+Hellas Verona,Fiorentina,2-3,/match/hellas-verona-fc/fiorentina/1992,1992,30,serie_a,18,34,2,2,3,15,7,5,17,17,43,LWWWWWWLDWDWWWDLWWDWWLWDWWWLW,7,2,5,13,11,13,8,10,11,36,34,WWLDLDWDWWDLWWLWDWWDDLDWLWWDD,2,5,7,14,21,LWWLWWWLDWLDWL,WDDDWLWWWDLWWD
+SSC Bari,Ascoli,2-1,/match/as-bari/ascoli/1992,1992,30,serie_a,18,34,0,2,1,16,5,9,15,23,40,DWDWWDWLWLWLDDWWWWDDWDDWWLWLL,4,6,5,13,16,18,4,5,20,19,56,LDWLWLWDWWLWDWDWLWWLDLWWLWLWL,1,2,11,8,29,DDDLLLDWWDWDWLL,DWWWWWWWWDWLWW
+Inter,Juventus,1-3,/match/internazionale/juventus-fc/1992,1992,30,serie_a,18,34,2,1,3,6,8,16,5,23,22,DLWWLDDDDWDDWDLWWDDWDWDDDDLDW,4,10,0,11,6,2,17,8,4,39,18,WLDDWWLWDWLWWWWDWWWDWDWWLDWWD,4,6,4,11,11,DWDDWDDWDDWDDD,LDWLDLWDWDDLWD
+Sampdoria,Calcio Foggia,1-1,/match/sampdoria/us-foggia/1992,1992,30,serie_a,18,34,1,1,1,8,9,13,7,31,27,WWDWWWLDWLWDDWLWLDDDDLWDDDWDD,6,6,2,20,10,11,9,10,10,50,48,DLLWDWWDWLLWDDWWWDWDDWDWLLWDW,3,5,7,24,33,WWWLLDWWDDWDDD,DLWDLWDWWWDWWLD
+Torino,Milan,2-2,/match/torino-fc/milan/1992,1992,30,serie_a,18,34,1,2,2,4,11,13,5,28,15,DLLDLWDDDWDDWWDDLWWWLWDWDDWLD,6,7,1,14,5,1,19,10,0,57,16,LWDDDLWLWLWDWDWLWWLDDDWLWDWDW,7,7,0,19,7,LDWDDDWDWWWDWD,LDLLLDDLLDDLDD
+Parma,Genoa,2-0,/match/parma-fc/genoa/1992,1992,30,serie_a,18,34,0,2,0,5,9,14,6,26,24,DWDDDWWDDDDLWWWWDWDWLWWLDWDDD,7,6,1,18,10,9,9,11,9,34,36,WWWDDWDDLWDLWDDWLWWLDDWWDWWDL,2,6,6,14,20,WDWDDDWWWWWLDD,WDDDWLDWWLWDWD
+Genoa,Inter,1-2,/match/genoa/internazionale/1992,1992,31,serie_a,18,34,2,1,2,10,9,11,10,34,38,WWWDDWDDLWDLWDDWLWWLDDWWDWWDLW,7,5,3,20,16,8,8,16,6,24,25,DLWWLDDDDWDDWDLWWDDWDWDDDDLDWL,4,6,5,12,16,WWWDLDWDLWDDWWL,LWLDDDWLWDWDDLW
+Cremonese,Cagliari,0-1,/match/us-cremonese/cagliari/1992,1992,31,serie_a,18,34,2,0,1,17,4,9,17,22,44,WDLDLDWWWLWLWDLWLWWWLDDDLWWDDW,4,3,8,14,18,14,6,13,11,29,33,WWLWLWDLWDDWWDWDWDLDDWWDDWDDLD,2,5,8,10,20,DLLWLLWLLWLDLWD,WWWLWDWWWDDWDDL
+Ascoli,Hellas Verona,1-1,/match/ascoli/hellas-verona-fc/1992,1992,31,serie_a,18,34,1,1,1,18,4,5,21,20,58,LDWLWLWDWWLWDWDWLWWLDLWWLWLWLW,3,3,9,11,27,16,7,5,18,19,46,LWWWWWWLDWDWWWDLWWDWWLWDWWWLWL,0,3,12,4,32,LLLDWLDDLWLLWLL,WWWWDDWDWWWWWWW
+Fiorentina,Torino,0-0,/match/fiorentina/torino-fc/1992,1992,31,serie_a,18,34,1,0,0,12,9,10,11,39,36,WWLDLDWDWWDLWWLWDWWDDLDWLWWDDL,6,5,4,22,13,4,11,14,5,30,17,DLLDLWDDDWDDWWDDLWWWLWDWDDWLDD,5,6,4,14,10,WLLWWDWLDWDDLWD,DLLDWDWDLWLDWDL
+Atalanta,SSC Bari,2-1,/match/atalanta/as-bari/1992,1992,31,serie_a,18,34,0,2,1,13,8,13,9,25,28,WDDDLLLLLWLLDDDDWDWWWDWDDWWDDL,4,7,4,11,12,15,6,9,15,25,41,DWDWWDWLWLWLDDWWWWDDWDDWWLWLLW,1,3,10,10,24,DDLLWLDWDWDDWDL,WWWWWWDWWDDWWL
+Milan,Lazio,2-0,/match/milan/lazio/1992,1992,31,serie_a,18,34,0,2,0,1,19,11,0,59,18,LWDDDLWLWLWDWDWLWWLDDDWLWDWDWD,12,3,0,38,9,6,10,12,8,40,34,DLDLLDDLDLDDWDWWWWWWDWDWWDWDWW,4,3,7,12,15,WDDWWWWWWWDWWWW,LLDLLDWWWWWWDW
+Roma,Parma,1-0,/match/roma/parma-fc/1992,1992,31,serie_a,18,34,0,1,0,9,9,14,7,31,30,LLLDLDDDWDWWDWDWWWDDDLDWLDWDDL,4,8,2,14,10,5,10,14,6,28,24,DWDDDWWDDDDLWWWWDWDWLWWLDWDDDW,2,8,5,8,14,LDDDDWDWWDLWDD,DDDWDLWWDDLWDWD
+Juventus,Sampdoria,0-0,/match/juventus-fc/sampdoria/1992,1992,31,serie_a,18,34,1,0,0,2,18,8,4,42,19,WLDDWWLWDWLWWWWDWWWDWDWWLDWWDL,13,2,0,28,7,7,9,14,7,32,28,WWDWWWLDWLWDDWLWLDDDDLWDDDWDDD,3,7,5,11,17,WDWWWWWWWWWWWDW,WDWDWWDLLDDLDWD
+Calcio Foggia,Napoli,1-0,/match/us-foggia/napoli/1992,1992,31,serie_a,18,34,0,1,0,11,9,11,10,51,49,DLLWDWWDWLLWDDWWWDWDDWDWLLWDWD,6,5,3,26,15,3,14,11,5,52,34,WDDDWLLDWDWDWDWWLDWWLLWWDDWLWD,4,8,3,20,21,LWDWWLDWDDDLWW,DDLDDDWLDWLWDLD
+Sampdoria,Fiorentina,2-0,/match/sampdoria/fiorentina/1992,1992,32,serie_a,18,34,0,2,0,7,9,15,7,32,28,WWDWWWLDWLWDDWLWLDDDDLWDDDWDDDD,6,7,2,21,11,13,9,11,11,39,36,WWLDLDWDWWDLWWLWDWWDDLDWLWWDDLD,3,5,7,17,23,WWWLLDWWDDWDDDD,WDDDWLWWWDLWWDL
+Cagliari,SSC Bari,0-0,/match/cagliari/as-bari/1992,1992,32,serie_a,18,34,1,0,0,14,7,13,11,30,33,WWLWLWDLWDDWWDWDWDLDDWWDDWDDLDL,4,8,3,19,13,15,6,9,16,26,43,DWDWWDWLWLWLDDWWWWDDWDDWWLWLLWW,1,3,11,11,26,WLLDDWDDLDWDWDD,WWWWWWDWWDDWWLW
+Hellas Verona,Atalanta,1-3,/match/hellas-verona-fc/atalanta/1992,1992,32,serie_a,18,34,2,1,3,16,7,6,18,20,47,LWWWWWWLDWDWWWDLWWDWWLWDWWWLWLD,7,2,6,15,14,11,9,13,9,27,29,WDDDLLLLLWLLDDDDWDWWWDWDDWWDDLW,4,6,5,14,16,LWWLWWWLDWLDWLL,WDLLLLDDDWWWDWD
+Inter,Cremonese,0-2,/match/internazionale/us-cremonese/1992,1992,32,serie_a,18,34,2,0,2,8,9,16,6,26,26,DLWWLDDDDWDDWDLWWDDWDWDDDDLDWLL,4,10,1,12,9,17,4,9,18,22,45,WDLDLDWWWLWLWDLWLWWWLDDDLWWDDWL,0,6,9,8,26,DWDDWDDWDDWDDDL,WDDWWWDWWWDDWDW
+Calcio Foggia,Lazio,2-1,/match/us-foggia/lazio/1992,1992,32,serie_a,18,34,0,2,1,10,10,11,10,52,49,DLLWDWWDWLLWDDWWWDWDDWDWLLWDWDW,7,5,3,27,15,6,10,12,9,40,36,DLDLLDDLDLDDWDWWWWWWDWDWWDWDWWW,4,3,8,12,17,LWDWWLDWDDDLWWW,LLDLLDWWWWWWDWW
+Parma,Juventus,0-0,/match/parma-fc/juventus-fc/1992,1992,32,serie_a,18,34,1,0,0,5,10,14,7,28,25,DWDDDWWDDDDLWWWWDWDWLWWLDWDDDWW,8,6,1,20,10,2,18,9,4,42,19,WLDDWWLWDWLWWWWDWWWDWDWWLDWWDLD,5,6,4,14,12,WDWDDDWWWWWLDDW,LDWLDLWDWDDLWDL
+Napoli,Milan,1-1,/match/napoli/milan/1992,1992,32,serie_a,18,34,1,1,1,3,14,11,6,52,35,WDDDWLLDWDWDWDWWLDWWLLWWDDWLWDW,10,3,2,32,13,1,20,11,0,61,18,LWDDDLWLWLWDWDWLWWLDDDWLWDWDWDW,7,8,0,21,9,WDWLWWWDWWLWDWW,LDLLLDDLLDDLDDD
+Torino,Genoa,4-0,/match/torino-fc/genoa/1992,1992,32,serie_a,18,34,0,4,0,4,11,15,5,30,17,DLLDLWDDDWDDWWDDLWWWLWDWDDWLDDD,6,8,1,16,7,12,9,11,11,35,40,WWWDDWDDLWDLWDDWLWWLDDWWDWWDLWL,2,6,7,14,22,LDWDDDWDWWWDWDD,WDDDWLDWWLWDWDW
+Roma,Ascoli,1-0,/match/roma/ascoli/1992,1992,32,serie_a,18,34,0,1,0,9,10,14,7,32,30,LLLDLDDDWDWWDWDWWWDDDLDWLDWDDLW,5,8,2,15,10,18,4,6,21,21,59,LDWLWLWDWWLWDWDWLWWLDLWWLWLWLWD,1,2,12,9,31,LDDDDWDWWDLWDDW,DWWWWWWWWDWLWWW
+Genoa,Calcio Foggia,0-2,/match/genoa/us-foggia/1992,1992,33,serie_a,18,34,2,0,2,12,9,11,12,35,44,WWWDDWDDLWDLWDDWLWWLDDWWDWWDLWLW,7,5,4,21,18,8,11,11,10,54,50,DLLWDWWDWLLWDDWWWDWDDWDWLLWDWDWW,3,6,7,25,34,WWWDLDWDLWDDWWLL,DLWDLWDWWWDWWLDD
+Cremonese,Roma,1-2,/match/us-cremonese/roma/1992,1992,33,serie_a,18,34,2,1,2,17,5,9,18,24,45,WDLDLDWWWLWLWDLWLWWWLDDDLWWDDWLL,4,3,9,14,19,6,11,14,7,33,30,LLLDLDDDWDWWDWDWWWDDDLDWLDWDDLWW,5,6,5,17,20,DLLWLLWLLWLDLWDL,LLLDWWWDWDDDLWDL
+Ascoli,Parma,2-3,/match/ascoli/parma-fc/1992,1992,33,serie_a,18,34,2,2,3,18,4,6,22,21,60,LDWLWLWDWWLWDWDWLWWLDLWWLWLWLWDW,3,4,9,12,28,5,10,15,7,28,25,DWDDDWWDDDDLWWWWDWDWLWWLDWDDDWWD,2,8,6,8,15,LLLDWLDDLWLLWLLD,DDDWDLWWDDLWDWDW
+Fiorentina,Napoli,4-2,/match/fiorentina/napoli/1992,1992,33,serie_a,18,34,0,4,2,13,9,11,12,39,38,WWLDLDWDWWDLWWLWDWWDDLDWLWWDDLDW,6,6,4,22,13,3,14,12,6,53,36,WDDDWLLDWDWDWDWWLDWWLLWWDDWLWDWD,4,8,4,20,22,WLLWWDWLDWDDLWDD,DDLDDDWLDWLWDLDW
+SSC Bari,Inter,0-2,/match/as-bari/internazionale/1992,1992,33,serie_a,18,34,2,0,2,15,6,10,16,26,43,DWDWWDWLWLWLDDWWWWDDWDDWWLWLLWWD,5,6,5,15,17,10,9,16,7,26,28,DLWWLDDDDWDDWDLWWDDWDWDDDDLDWLLL,5,6,5,14,17,DDDLLLDWWDWDWLLW,LWLDDDWLWDWDDLWL
+Atalanta,Torino,1-3,/match/atalanta/torino-fc/1992,1992,33,serie_a,18,34,2,1,3,11,10,13,9,30,30,WDDDLLLLLWLLDDDDWDWWWDWDDWWDDLWL,5,7,4,13,13,4,12,15,5,34,17,DLLDLWDDDWDDWWDDLWWWLWDWDDWLDDDW,5,7,4,14,10,DDLLWLDWDWDDWDLW,DLLDWDWDLWLDWDLD
+Juventus,Cagliari,0-0,/match/juventus-fc/cagliari/1992,1992,33,serie_a,18,34,1,0,0,2,18,10,4,42,19,WLDDWWLWDWLWWWWDWWWDWDWWLDWWDLDD,13,3,0,28,7,14,7,14,11,30,33,WWLWLWDLWDDWWDWDWDLDDWWDDWDDLDLD,3,5,8,11,20,WDWWWWWWWWWWWDWD,WWWLWDWWWDDWDDLL
+Milan,Hellas Verona,4-0,/match/milan/hellas-verona-fc/1992,1992,33,serie_a,18,34,0,4,0,1,20,12,0,62,19,LWDDDLWLWLWDWDWLWWLDDDWLWDWDWDWD,13,3,0,40,9,16,7,6,19,21,50,LWWWWWWLDWDWWWDLWWDWWLWDWWWLWLDL,0,4,12,5,33,WDDWWWWWWWDWWWWW,WWWWDDWDWWWWWWWD
+Lazio,Sampdoria,1-2,/match/lazio/sampdoria/1992,1992,33,serie_a,18,34,2,1,2,9,10,12,10,41,38,DLDLLDDLDLDDWDWWWWWWDWDWWDWDWWWW,6,9,1,28,19,7,10,15,7,34,28,WWDWWWLDWLWDDWLWLDDDDLWDDDWDDDDW,3,8,5,11,17,DDLDDDDWWWDDWWDW,WDWDWWDLLDDLDWDD
+Calcio Foggia,Milan,2-8,/match/us-foggia/milan/1992,1992,34,serie_a,18,34,2,2,8,8,12,11,10,56,50,DLLWDWWDWLLWDDWWWDWDDWDWLLWDWDWWL,8,5,3,29,16,1,21,12,0,66,19,LWDDDLWLWLWDWDWLWWLDDDWLWDWDWDWDW,7,9,0,22,10,LWDWWLDWDDDLWWWW,LDLLLDDLLDDLDDDD
+Cagliari,Lazio,0-1,/match/cagliari/lazio/1992,1992,34,serie_a,18,34,2,0,1,14,7,15,11,30,33,WWLWLWDLWDDWWDWDWDLDDWWDDWDDLDLDD,4,9,3,19,13,10,10,12,11,42,40,DLDLLDDLDLDDWDWWWWWWDWDWWDWDWWWWL,4,3,9,13,19,WLLDDWDDLDWDWDDD,LLDLLDWWWWWWDWWW
+Hellas Verona,Juventus,3-3,/match/hellas-verona-fc/juventus-fc/1992,1992,34,serie_a,18,34,1,3,3,16,7,6,20,21,54,LWWWWWWLDWDWWWDLWWDWWLWDWWWLWLDLW,7,2,7,16,17,2,18,11,4,42,19,WLDDWWLWDWLWWWWDWWWDWDWWLDWWDLDDD,5,7,4,14,12,LWWLWWWLDWLDWLLL,LDWLDLWDWDDLWDLD
+Inter,Atalanta,0-0,/match/internazionale/atalanta/1992,1992,34,serie_a,18,34,1,0,0,9,10,16,7,28,28,DLWWLDDDDWDDWDLWWDDWDWDDDDLDWLLLL,4,10,2,12,11,12,10,13,10,31,33,WDDDLLLLLWLLDDDDWDWWWDWDDWWDDLWLL,5,6,5,17,17,DWDDWDDWDDWDDDLL,WDLLLLDDDWWWDWDL
+Roma,SSC Bari,2-0,/match/roma/as-bari/1992,1992,34,serie_a,18,34,0,2,0,6,12,14,7,35,31,LLLDLDDDWDWWDWDWWWDDDLDWLDWDDLWWL,6,8,2,16,10,15,6,10,17,26,45,DWDWWDWLWLWLDDWWWWDDWDDWWLWLLWWDL,1,4,11,11,26,LDDDDWDWWDLWDDWW,WWWWWWDWWDDWWLWD
+Torino,Ascoli,5-2,/match/torino-fc/ascoli/1992,1992,34,serie_a,18,34,0,5,2,4,13,15,5,37,18,DLLDLWDDDWDDWWDDLWWWLWDWDDWLDDDWL,7,8,1,20,7,18,4,6,23,23,63,LDWLWLWDWWLWDWDWLWWLDLWWLWLWLWDWL,1,2,13,9,32,LDWDDDWDWWWDWDDW,DWWWWWWWWDWLWWWW
+Napoli,Genoa,1-0,/match/napoli/genoa/1992,1992,34,serie_a,18,34,0,1,0,3,14,12,7,55,40,WDDDWLLDWDWDWDWWLDWWLLWWDDWLWDWDW,10,4,2,33,14,13,9,11,13,35,46,WWWDDWDDLWDLWDDWLWWLDDWWDWWDLWLWL,2,6,8,14,26,WDWLWWWDWWLWDWWD,WDDDWLDWWLWDWDWW
+Sampdoria,Cremonese,2-2,/match/sampdoria/us-cremonese/1992,1992,34,serie_a,18,34,1,2,2,7,11,15,7,36,29,WWDWWWLDWLWDDWLWLDDDDLWDDDWDDDDWL,7,7,2,23,11,17,5,9,19,25,47,WDLDLDWWWLWLWDLWLWWWLDDDLWWDDWLLL,1,6,9,10,26,WWWLLDWWDDWDDDDW,WDDWWWDWWWDDWDWL
+Parma,Fiorentina,1-1,/match/parma-fc/fiorentina/1992,1992,34,serie_a,18,34,1,1,1,5,11,15,7,31,27,DWDDDWWDDDDLWWWWDWDWLWWLDWDDDWWDL,8,7,1,20,10,11,10,11,12,43,40,WWLDLDWDWWDLWWLWDWWDDLDWLWWDDLDWW,3,5,8,17,25,WDWDDDWWWWWLDDWD,WDDDWLWWWDLWWDLW

@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Girondins Bordeaux,Nantes,2-0,/match/bordeaux/nantes/2002,2002,1,ligue_1,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSG,Lille,0-0,/match/paris-saint-germain-fc/lillestrom/2002,2002,1,ligue_1,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lorient,Metz,1-0,/match/lorient/metz/2002,2002,1,ligue_1,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Troyes,Guingamp,3-0,/match/troyes/guingamp/2002,2002,1,ligue_1,18,34,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Olympique,1-1,/match/montpellier-hsc/olympique-marsella/2002,2002,1,ligue_1,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Stade Rennais,Auxerre,0-5,/match/stade-rennes/auxerre/2002,2002,1,ligue_1,18,34,2,0,5,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lens,Olympique Lyonnais,2-0,/match/lens/olympique-lyonnais/2002,2002,1,ligue_1,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bastia,Sedan,1-1,/match/bastia/sedan/2002,2002,1,ligue_1,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Monaco,Sochaux,0-1,/match/monaco/sochaux/2002,2002,1,ligue_1,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique,Girondins Bordeaux,0-0,/match/olympique-marsella/bordeaux/2002,2002,2,ligue_1,18,34,1,0,0,12,0,1,0,1,1,D,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Nantes,Lens,1-2,/match/nantes/lens/2002,2002,2,ligue_1,18,34,2,1,2,16,0,0,1,0,2,W,0,0,0,0,0,4,1,0,0,2,0,W,0,0,0,0,0,,
+Lille,Lorient,3-1,/match/lillestrom/lorient/2002,2002,2,ligue_1,18,34,0,3,1,11,0,1,0,0,0,D,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Monaco,Montpellier,0-0,/match/monaco/montpellier-hsc/2002,2002,2,ligue_1,18,34,1,0,0,18,0,0,1,0,1,L,0,0,1,0,1,9,0,1,0,1,1,D,0,0,0,0,0,L,
+Auxerre,PSG,1-1,/match/auxerre/paris-saint-germain-fc/2002,2002,2,ligue_1,18,34,1,1,1,7,1,0,0,5,0,L,0,0,0,0,0,6,0,1,0,0,0,D,0,0,0,0,0,,
+Metz,Troyes,2-1,/match/metz/troyes/2002,2002,2,ligue_1,18,34,0,2,1,13,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,3,0,W,0,0,0,0,0,,
+Olympique Lyonnais,Sedan,2-0,/match/olympique-lyonnais/sedan/2002,2002,2,ligue_1,18,34,0,2,0,17,0,0,1,0,2,W,0,0,0,0,0,10,0,1,0,1,1,D,0,1,0,1,1,,D
+Sochaux,Stade Rennais,4-3,/match/sochaux/stade-rennes/2002,2002,2,ligue_1,18,34,0,4,3,8,1,0,0,1,0,L,0,0,0,0,0,14,0,0,1,0,5,L,0,0,0,0,0,,
+Guingamp,Bastia,1-0,/match/guingamp/bastia/2002,2002,2,ligue_1,18,34,0,1,0,15,0,0,1,0,3,W,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
+Stade Rennais,Monaco,3-0,/match/stade-rennes/monaco/2002,2002,3,ligue_1,18,34,0,3,0,17,0,0,2,3,9,LW,0,0,1,0,5,14,0,1,1,0,1,LD,0,0,0,0,0,L,
+Troyes,Nantes,0-0,/match/troyes/nantes/2002,2002,3,ligue_1,18,34,1,0,0,9,1,0,1,4,2,WW,1,0,0,3,0,18,0,0,2,1,4,WL,0,0,1,0,2,W,W
+Sedan,Guingamp,1-1,/match/sedan/guingamp/2002,2002,3,ligue_1,18,34,1,1,1,16,0,1,1,1,3,DW,0,0,0,0,0,6,1,0,1,1,3,WW,0,0,1,0,3,,W
+Montpellier,Metz,3-0,/match/montpellier-hsc/metz/2002,2002,3,ligue_1,18,34,0,3,0,12,0,2,0,1,1,DD,0,1,0,1,1,10,1,0,1,2,2,WW,0,0,1,0,1,D,W
+Lens,Olympique,2-0,/match/lens/olympique-marsella/2002,2002,3,ligue_1,18,34,0,2,0,1,2,0,0,4,1,WL,1,0,0,2,0,13,0,2,0,1,1,DD,0,1,0,1,1,W,D
+Girondins Bordeaux,Lille,0-0,/match/bordeaux/lillestrom/2002,2002,3,ligue_1,18,34,1,0,0,3,1,1,0,2,0,WD,1,0,0,2,0,4,1,1,0,3,1,DW,0,1,0,0,0,W,D
+PSG,Sochaux,1-0,/match/paris-saint-germain-fc/sochaux/2002,2002,3,ligue_1,18,34,0,1,0,11,0,2,0,1,1,DD,0,1,0,0,0,2,2,0,0,5,3,LW,1,0,0,1,0,D,L
+Lorient,Auxerre,0-1,/match/lorient/auxerre/2002,2002,3,ligue_1,18,34,2,0,1,5,1,0,1,2,3,WW,1,0,0,1,0,8,1,1,0,6,1,LD,1,0,0,5,0,W,L
+Bastia,Olympique Lyonnais,1-2,/match/bastia/olympique-lyonnais/2002,2002,3,ligue_1,18,34,2,1,2,15,0,1,1,1,2,DW,0,1,0,1,1,7,1,0,1,2,2,WW,0,0,1,0,2,D,W
+Monaco,PSG,2-2,/match/monaco/paris-saint-germain-fc/2002,2002,4,ligue_1,18,34,1,2,2,16,0,1,2,0,4,LDW,0,1,1,0,1,4,1,2,0,2,1,DDW,0,1,0,1,1,LD,D
+Sochaux,Lorient,2-2,/match/sochaux/lorient/2002,2002,4,ligue_1,18,34,1,2,2,9,2,0,1,5,4,LWW,1,0,0,4,3,13,1,0,2,2,4,WWL,0,0,1,1,3,W,W
+Stade Rennais,Girondins Bordeaux,1-0,/match/stade-rennes/bordeaux/2002,2002,4,ligue_1,18,34,0,1,0,11,1,0,2,6,9,LWW,1,0,1,3,5,3,1,2,0,2,0,WDD,0,1,0,0,0,LW,D
+Olympique,Troyes,0-1,/match/olympique-marsella/troyes/2002,2002,4,ligue_1,18,34,2,0,1,14,0,2,1,1,3,DDW,0,1,0,0,0,8,1,1,1,4,2,WWD,0,0,1,1,2,D,W
+Nantes,Bastia,1-2,/match/nantes/bastia/2002,2002,4,ligue_1,18,34,2,1,2,18,0,1,2,1,4,WLD,0,0,1,1,2,17,0,1,2,2,4,DWL,0,0,1,0,1,L,W
+Olympique Lyonnais,Guingamp,3-0,/match/olympique-lyonnais/guingamp/2002,2002,4,ligue_1,18,34,0,3,0,6,2,0,1,4,3,WWL,1,0,0,2,0,10,1,1,1,2,4,WWD,0,1,1,1,4,W,WD
+Metz,Lens,0-1,/match/metz/lens/2002,2002,4,ligue_1,18,34,2,0,1,12,1,0,2,2,5,WWW,1,0,0,2,1,1,3,0,0,6,1,WLW,1,0,0,2,1,W,L
+Lille,Montpellier,2-1,/match/lillestrom/montpellier-hsc/2002,2002,4,ligue_1,18,34,0,2,1,5,1,2,0,3,1,DWD,1,0,0,3,1,2,1,2,0,4,1,DDW,0,1,0,0,0,W,D
+Auxerre,Sedan,2-1,/match/auxerre/sedan/2002,2002,4,ligue_1,18,34,0,2,1,7,2,1,0,7,1,LDL,0,1,0,1,1,15,0,2,1,2,4,DWD,0,1,1,1,3,D,DW
+Girondins Bordeaux,Auxerre,1-1,/match/bordeaux/auxerre/2002,2002,5,ligue_1,18,34,1,1,1,9,1,2,1,2,1,WDDW,1,1,0,2,0,4,3,1,0,9,2,LDLW,2,0,0,6,0,WD,LL
+Guingamp,Nantes,1-0,/match/guingamp/nantes/2002,2002,5,ligue_1,18,34,0,1,0,12,1,1,2,2,7,WWDW,1,0,0,1,0,18,0,1,3,2,6,WLDL,0,1,1,0,2,W,WD
+Lorient,Monaco,2-0,/match/lorient/monaco/2002,2002,5,ligue_1,18,34,0,2,0,11,1,1,2,4,6,WWLD,1,0,1,1,1,14,0,2,2,2,6,LDWD,0,0,1,0,3,WL,W
+Troyes,Olympique Lyonnais,0-2,/match/troyes/olympique-lyonnais/2002,2002,5,ligue_1,18,34,2,0,2,6,2,1,1,5,2,WWDL,1,1,0,3,0,3,3,0,1,7,3,WWLW,1,0,1,2,3,WD,WL
+Sedan,Metz,2-0,/match/sedan/metz/2002,2002,5,ligue_1,18,34,0,2,0,17,0,2,2,3,6,DWDW,0,1,0,1,1,13,1,0,3,2,6,WWWL,0,0,2,0,4,D,WW
+Montpellier,Sochaux,0-0,/match/montpellier-hsc/sochaux/2002,2002,5,ligue_1,18,34,1,0,0,10,1,2,1,5,3,DDWW,1,1,0,4,1,7,2,1,1,7,6,LWWD,1,0,1,1,1,DW,LW
+Bastia,Olympique,1-0,/match/bastia/olympique-marsella/2002,2002,5,ligue_1,18,34,0,1,0,15,1,1,2,4,5,DWLL,0,1,1,2,3,16,0,2,2,1,4,DDWL,0,1,1,1,3,DL,DW
+PSG,Stade Rennais,3-0,/match/paris-saint-germain-fc/stade-rennes/2002,2002,5,ligue_1,18,34,0,3,0,5,1,3,0,4,3,DDWD,1,1,0,1,0,8,2,0,2,7,9,LWWW,0,0,1,3,4,DW,W
+Lens,Lille,1-1,/match/lens/lillestrom/2002,2002,5,ligue_1,18,34,1,1,1,1,4,0,0,7,1,WLWL,2,0,0,4,0,2,2,2,0,5,2,DWDW,0,2,0,0,0,WW,DD
+Olympique,Olympique Lyonnais,0-0,/match/olympique-marsella/olympique-lyonnais/2002,2002,6,ligue_1,18,34,1,0,0,17,0,2,3,1,5,DDWLW,0,1,1,0,1,2,4,0,1,9,3,WWLWL,2,0,1,4,3,DL,WLL
+Lille,Guingamp,1-0,/match/lillestrom/guingamp/2002,2002,6,ligue_1,18,34,0,1,0,5,2,3,0,6,3,DWDWD,2,0,0,5,2,7,2,1,2,3,7,WWDWW,0,1,2,1,7,WW,WDW
+Stade Rennais,Lorient,1-1,/match/stade-rennes/lorient/2002,2002,6,ligue_1,18,34,1,1,1,11,2,0,3,7,12,LWWWW,2,0,1,4,5,8,2,1,2,6,6,WWLDW,0,1,1,3,5,LWW,WD
+Nantes,Sedan,1-1,/match/nantes/sedan/2002,2002,6,ligue_1,18,34,1,1,1,18,0,1,4,2,7,WLDLW,0,0,2,2,4,14,1,2,2,5,6,DWDWW,0,1,2,2,5,LL,DWW
+Metz,Bastia,0-1,/match/metz/bastia/2002,2002,6,ligue_1,18,34,2,0,1,15,1,0,4,2,8,WWWLW,1,0,1,2,2,13,2,1,2,5,5,DWLLW,1,0,1,2,2,WL,WL
+Auxerre,Montpellier,1-0,/match/auxerre/montpellier-hsc/2002,2002,6,ligue_1,18,34,0,1,0,4,3,2,0,10,3,LDLWD,1,1,0,3,2,9,1,3,1,5,3,DDWWD,0,1,1,1,2,DW,DW
+Monaco,Troyes,2-0,/match/monaco/troyes/2002,2002,6,ligue_1,18,34,0,2,0,16,0,2,3,2,8,LDWDW,0,2,1,2,3,12,2,1,2,5,4,WWDLL,1,0,1,2,2,LDD,WL
+PSG,Lens,2-2,/match/paris-saint-germain-fc/lens/2002,2002,6,ligue_1,18,34,1,2,2,3,2,3,0,7,3,DDWDW,2,1,0,4,0,1,4,1,0,8,2,WLWLD,2,0,0,3,1,DWW,LL
+Sochaux,Girondins Bordeaux,2-0,/match/sochaux/bordeaux/2002,2002,6,ligue_1,18,34,0,2,0,10,2,2,1,7,6,LWWDD,1,1,0,6,5,6,1,3,1,3,2,WDDWD,0,1,1,0,1,WD,DW
+Olympique Lyonnais,Nantes,4-1,/match/olympique-lyonnais/nantes/2002,2002,7,ligue_1,18,34,0,4,1,5,4,1,1,9,3,WWLWLD,2,0,0,5,0,18,0,2,4,3,8,WLDLWD,0,1,2,0,3,WW,WDW
+Guingamp,Metz,0-2,/match/guingamp/metz/2002,2002,7,ligue_1,18,34,2,0,2,10,2,1,3,3,8,WWDWWW,2,0,0,2,0,17,1,0,5,2,9,WWWLWL,0,0,3,0,6,WW,WWW
+Lorient,PSG,1-1,/match/lorient/paris-saint-germain-fc/2002,2002,7,ligue_1,18,34,1,1,1,7,2,2,2,7,7,WWLDWD,2,0,1,3,1,4,2,4,0,9,5,DDWDWD,0,2,0,3,3,WLW,DD
+Troyes,Lille,0-1,/match/troyes/lillestrom/2002,2002,7,ligue_1,18,34,2,0,1,13,2,1,3,5,6,WWDLLW,1,1,1,3,2,3,3,3,0,7,3,DWDWDW,0,3,0,1,1,WDL,DDD
+Montpellier,Stade Rennais,0-0,/match/montpellier-hsc/stade-rennes/2002,2002,7,ligue_1,18,34,1,0,0,11,1,3,2,5,4,DDWWDW,1,2,0,4,1,8,2,1,3,8,13,LWWWWD,0,0,2,3,7,DWD,WW
+Lens,Sochaux,3-0,/match/lens/sochaux/2002,2002,7,ligue_1,18,34,0,3,0,1,4,2,0,10,4,WLWLDD,2,1,0,5,1,6,3,2,1,9,6,LWWDDW,1,1,1,1,1,WWD,LWD
+Bastia,Auxerre,0-1,/match/bastia/auxerre/2002,2002,7,ligue_1,18,34,2,0,1,9,3,1,2,6,5,DWLLWL,1,1,1,3,3,2,4,2,0,11,3,LDLWDW,2,1,0,7,1,DLW,LLD
+Girondins Bordeaux,Monaco,0-0,/match/bordeaux/monaco/2002,2002,7,ligue_1,18,34,1,0,0,12,1,3,2,3,4,WDDWDW,1,2,0,3,1,15,1,2,3,4,8,LDWDWW,0,0,2,0,5,WDD,WW
+Sedan,Olympique,1-1,/match/sedan/olympique-marsella/2002,2002,7,ligue_1,18,34,1,1,1,14,1,3,2,6,7,DWDWWD,1,1,0,3,1,16,0,3,3,1,5,DDWLWD,0,1,2,1,4,DW,DWW
+PSG,Montpellier,0-0,/match/paris-saint-germain-fc/montpellier-hsc/2002,2002,8,ligue_1,18,34,1,0,0,5,2,5,0,10,6,DDWDWDD,2,2,0,6,2,9,1,4,2,5,4,DDWWDWD,0,1,2,1,3,DWWD,DWW
+Monaco,Lens,3-0,/match/monaco/lens/2002,2002,8,ligue_1,18,34,0,3,0,13,1,3,3,4,8,LDWDWWD,1,2,1,4,3,1,5,2,0,13,4,WLWLDDW,2,1,0,5,3,LDDW,LLD
+Lille,Bastia,2-1,/match/lillestrom/bastia/2002,2002,8,ligue_1,18,34,0,2,1,2,4,3,0,8,3,DWDWDWL,3,0,0,6,2,12,3,1,3,6,6,DWLLWLL,2,0,1,3,2,WWW,WLL
+Stade Rennais,Troyes,0-1,/match/stade-rennes/troyes/2002,2002,8,ligue_1,18,34,2,0,1,8,2,2,3,8,13,LWWWWDD,2,1,1,5,6,15,2,1,4,5,7,WWDLLWL,1,0,2,2,4,LWWD,WLW
+Olympique,Nantes,2-0,/match/olympique-marsella/nantes/2002,2002,8,ligue_1,18,34,0,2,0,16,0,4,3,2,6,DDWLWDD,0,2,1,0,1,18,0,2,5,4,12,WLDLWDW,0,1,3,1,7,DLD,WDWW
+Metz,Olympique Lyonnais,2-0,/match/metz/olympique-lyonnais/2002,2002,8,ligue_1,18,34,0,2,0,17,2,0,5,4,9,WWWLWLL,1,0,2,2,3,3,5,1,1,13,4,WWLWLDW,2,1,1,4,3,WLL,WLLD
+Auxerre,Guingamp,2-2,/match/auxerre/guingamp/2002,2002,8,ligue_1,18,34,1,2,2,4,5,2,0,12,3,LDLWDWL,2,1,0,4,2,14,2,1,4,3,10,WWDWWWL,0,1,3,1,8,DWW,WDWW
+Sochaux,Sedan,3-0,/match/sochaux/sedan/2002,2002,8,ligue_1,18,34,0,3,0,6,3,2,2,9,9,LWWDDWW,2,1,0,8,5,11,1,4,2,7,8,DWDWWDD,0,2,2,3,6,WDW,DWWD
+Lorient,Girondins Bordeaux,0-2,/match/lorient/bordeaux/2002,2002,8,ligue_1,18,34,2,0,2,7,2,3,2,8,8,WWLDWDD,2,1,1,4,2,10,1,4,2,3,4,WDDWDWD,0,1,2,0,3,WLWD,DWW
+Guingamp,Olympique,1-0,/match/guingamp/olympique-marsella/2002,2002,9,ligue_1,18,34,0,1,0,14,2,2,4,5,12,WWDWWWLD,2,0,1,2,2,16,1,4,3,4,6,DDWLWDDW,0,2,2,2,5,WWL,DWWD
+Montpellier,Lorient,1-3,/match/montpellier-hsc/lorient/2002,2002,9,ligue_1,18,34,2,1,3,9,1,5,2,5,4,DDWWDWDD,1,3,0,4,1,10,2,3,3,8,10,WWLDWDDL,0,2,1,4,6,DWDD,WDD
+Lens,Auxerre,1-1,/match/lens/auxerre/2002,2002,9,ligue_1,18,34,1,1,1,2,5,2,1,13,7,WLWLDDWW,3,1,0,8,1,3,5,3,0,14,5,LDLWDWLD,3,1,0,8,1,WWDW,LLDL
+Nantes,Metz,0-0,/match/nantes/metz/2002,2002,9,ligue_1,18,34,1,0,0,18,0,2,6,4,14,WLDLWDWW,0,1,2,3,5,17,3,0,5,6,9,WWWLWLLW,1,0,3,2,6,LLD,WWWL
+Bastia,Monaco,1-0,/match/bastia/monaco/2002,2002,9,ligue_1,18,34,0,1,0,13,3,1,4,7,8,DWLLWLLW,1,1,2,3,4,7,2,3,3,7,8,LDWDWWDW,0,1,2,0,5,DLWL,WWD
+Olympique Lyonnais,Stade Rennais,4-0,/match/olympique-lyonnais/stade-rennes/2002,2002,9,ligue_1,18,34,0,4,0,4,5,1,2,13,6,WWLWLDWW,3,0,0,9,1,11,2,2,4,8,14,LWWWWDDL,0,1,2,3,7,WWW,WWD
+Troyes,Sochaux,2-2,/match/troyes/sochaux/2002,2002,9,ligue_1,18,34,1,2,2,15,3,1,4,6,7,WWDLLWLL,1,1,2,3,3,6,4,2,2,12,9,LWWDDWWW,1,1,2,1,4,WDLL,LWDW
+Sedan,Lille,1-1,/match/sedan/lillestrom/2002,2002,9,ligue_1,18,34,1,1,1,12,1,4,3,7,11,DWDWWDDW,1,2,0,4,2,1,5,3,0,10,4,DWDWDWLW,1,3,0,2,1,DWD,DDDL
+Girondins Bordeaux,PSG,1-0,/match/bordeaux/paris-saint-germain-fc/2002,2002,9,ligue_1,18,34,0,1,0,8,2,4,2,5,4,WDDWDWDL,1,3,0,3,1,5,2,6,0,10,6,DDWDWDDD,0,3,0,4,4,WDDD,DDD
+Metz,Olympique,0-2,/match/metz/olympique-marsella/2002,2002,10,ligue_1,18,34,2,0,2,16,3,1,5,6,9,WWWLWLLWD,2,0,2,4,3,17,1,4,4,4,7,DDWLWDDWW,0,2,3,2,6,WLLW,DWWDW
+Lille,Nantes,1-0,/match/lillestrom/nantes/2002,2002,10,ligue_1,18,34,0,1,0,1,5,4,0,11,5,DWDWDWLWD,4,0,0,8,3,18,0,3,6,4,14,WLDLWDWWD,0,1,4,1,9,WWWW,WDWWW
+Sochaux,Bastia,4-1,/match/sochaux/bastia/2002,2002,10,ligue_1,18,34,0,4,1,5,4,3,2,14,11,LWWDDWWWD,3,1,0,11,5,9,4,1,4,8,8,DWLLWLLWW,2,0,2,4,4,WDWW,WLLW
+Lorient,Lens,2-3,/match/lorient/lens/2002,2002,10,ligue_1,18,34,2,2,3,10,3,3,3,11,11,WWLDWDDLL,2,1,2,4,4,2,5,3,1,14,8,WLWLDDWWD,2,1,1,5,6,WLWDL,LLDW
+Montpellier,Girondins Bordeaux,0-0,/match/montpellier-hsc/bordeaux/2002,2002,10,ligue_1,18,34,1,0,0,13,1,5,3,6,7,DDWWDWDDL,1,3,1,5,4,7,3,4,2,6,4,WDDWDWDLW,1,1,2,2,3,DWDDL,DWWL
+Stade Rennais,Guingamp,2-1,/match/stade-rennes/guingamp/2002,2002,10,ligue_1,18,34,0,2,1,15,2,2,5,8,18,LWWWWDDLW,2,1,2,5,7,8,3,2,4,6,12,WWDWWWLDW,0,2,3,3,10,LWWDL,WDWWD
+Auxerre,Troyes,1-3,/match/auxerre/troyes/2002,2002,10,ligue_1,18,34,2,1,3,4,5,4,0,15,6,LDLWDWLDD,2,2,0,6,4,14,3,2,4,8,9,WWDLLWLLD,2,0,2,3,4,DWWD,WLWL
+Monaco,Sedan,2-0,/match/monaco/sedan/2002,2002,10,ligue_1,18,34,0,2,0,11,2,3,4,7,9,LDWDWWDWW,2,2,1,7,3,12,1,5,3,8,12,DWDWWDDWD,0,2,3,3,9,LDDWW,DWWDW
+PSG,Olympique Lyonnais,2-2,/match/paris-saint-germain-fc/olympique-lyonnais/2002,2002,10,ligue_1,18,34,1,2,2,6,2,6,1,10,7,DDWDWDDDW,2,3,0,6,2,3,6,1,2,17,6,WWLWLDWWW,2,1,2,4,5,DWWDD,WLLDW
+Olympique Lyonnais,Sochaux,1-1,/match/olympique-lyonnais/sochaux/2002,2002,11,ligue_1,18,34,1,1,1,3,6,2,2,19,8,WWLWLDWWWD,4,0,0,13,1,4,5,3,2,18,12,LWWDDWWWDW,1,2,2,3,6,WWWW,LWDWD
+Guingamp,Monaco,2-1,/match/guingamp/monaco/2002,2002,11,ligue_1,18,34,0,2,1,14,3,2,5,7,14,WWDWWWLDWW,3,0,1,3,2,8,3,3,4,9,9,LDWDWWDWWW,0,1,3,0,6,WWLW,WWDW
+Lens,Montpellier,2-0,/match/lens/montpellier-hsc/2002,2002,11,ligue_1,18,34,0,2,0,2,6,3,1,17,10,WLWLDDWWDL,3,2,0,9,2,10,1,6,3,6,7,DDWWDWDDLD,0,2,2,1,3,WWDWD,DWWD
+Olympique,Lille,0-0,/match/olympique-marsella/lillestrom/2002,2002,11,ligue_1,18,34,1,0,0,16,2,4,4,6,7,DDWLWDDWWL,1,2,1,2,1,1,6,4,0,12,5,DWDWDWLWDW,1,4,0,3,2,DLDW,DDDLD
+Nantes,Auxerre,2-2,/match/nantes/auxerre/2002,2002,11,ligue_1,18,34,1,2,2,18,0,3,7,4,15,WLDLWDWWDW,0,2,2,3,5,5,5,4,1,16,9,LDLWDWLDDL,3,2,0,9,2,LLDD,LLDLD
+Bastia,Stade Rennais,1-2,/match/bastia/stade-rennes/2002,2002,11,ligue_1,18,34,2,1,2,13,4,1,5,9,12,DWLLWLLWWW,2,1,2,4,4,9,3,2,5,10,19,LWWWWDDLWW,0,1,3,3,11,DLWLW,WWDW
+Troyes,Lorient,4-2,/match/troyes/lorient/2002,2002,11,ligue_1,18,34,0,4,2,11,4,2,4,11,10,WWDLLWLLDL,1,2,2,5,5,12,3,3,4,13,14,WWLDWDDLLL,1,2,1,7,7,WDLLD,WDDL
+Girondins Bordeaux,Metz,1-0,/match/bordeaux/metz/2002,2002,11,ligue_1,18,34,0,1,0,7,3,5,2,6,4,WDDWDWDLWD,2,3,0,4,1,17,3,1,6,6,11,WWWLWLLWDL,1,1,3,2,6,WDDDW,WWWLD
+Sedan,PSG,1-2,/match/sedan/paris-saint-germain-fc/2002,2002,11,ligue_1,18,34,2,1,2,15,1,5,4,8,14,DWDWWDDWDW,1,3,0,5,3,6,2,7,1,12,9,DDWDWDDDWD,0,3,1,4,5,DWDD,DDDW
+Auxerre,Olympique,2-0,/match/auxerre/olympique-marsella/2002,2002,12,ligue_1,18,34,0,2,0,6,5,5,1,18,11,LDLWDWLDDLD,2,2,1,7,7,12,2,5,4,6,7,DDWLWDDWWLD,1,2,3,4,6,DWWDL,DWWDWL
+Stade Rennais,Lens,1-2,/match/stade-rennes/lens/2002,2002,12,ligue_1,18,34,2,1,2,11,4,2,5,12,20,LWWWWDDLWWL,3,1,2,7,8,2,7,3,1,19,10,WLWLDDWWDLW,3,1,1,8,8,LWWDLW,LLDWL
+Lille,Metz,2-0,/match/lillestrom/metz/2002,2002,12,ligue_1,18,34,0,2,0,1,6,5,0,12,5,DWDWDWLWDWD,5,0,0,9,3,17,3,1,7,6,12,WWWLWLLWDLW,1,1,4,2,7,WWWWW,WWWLDW
+Sochaux,Nantes,0-1,/match/sochaux/nantes/2002,2002,12,ligue_1,18,34,2,0,1,4,5,4,2,19,13,LWWDDWWWDWD,4,1,0,15,6,18,0,4,7,6,17,WLDLWDWWDWD,0,1,5,1,10,WDWWW,WDWWWW
+Lorient,Guingamp,6-2,/match/lorient/guingamp/2002,2002,12,ligue_1,18,34,0,6,2,15,3,3,5,15,18,WWLDWDDLLLW,2,1,3,6,7,8,4,2,5,9,15,WWDWWWLDWWW,0,2,4,4,12,WLWDLL,WDWWDW
+Montpellier,Troyes,2-0,/match/montpellier-hsc/troyes/2002,2002,12,ligue_1,18,34,0,2,0,13,1,6,4,6,9,DDWWDWDDLDW,1,4,1,5,4,9,5,2,4,15,12,WWDLLWLLDLW,3,0,2,6,5,DWDDLD,WLWLL
+Girondins Bordeaux,Sedan,2-1,/match/bordeaux/sedan/2002,2002,12,ligue_1,18,34,0,2,1,5,4,5,2,7,4,WDDWDWDLWDW,3,3,0,5,1,16,1,5,5,9,16,DWDWWDDWDWL,0,2,4,3,11,WDDDWW,DWWDWW
+Monaco,Olympique Lyonnais,2-1,/match/monaco/olympique-lyonnais/2002,2002,12,ligue_1,18,34,0,2,1,10,3,3,5,10,11,LDWDWWDWWWW,3,2,1,9,3,3,6,3,2,20,9,WWLWLDWWWDD,2,2,2,6,7,LDDWWW,WLLDWD
+PSG,Bastia,1-0,/match/paris-saint-germain-fc/bastia/2002,2002,12,ligue_1,18,34,0,1,0,7,3,7,1,14,10,DDWDWDDDWDL,2,4,0,8,4,14,4,1,6,10,14,DWLLWLLWWWL,2,0,3,5,8,DWWDDD,WLLWW
+Nantes,Monaco,2-1,/match/nantes/monaco/2002,2002,13,ligue_1,18,34,0,2,1,18,1,4,7,7,17,WLDLWDWWDWDL,0,3,2,5,7,8,4,3,5,12,12,LDWDWWDWWWWW,0,1,4,1,8,LLDDD,WWDWW
+Guingamp,Sochaux,0-0,/match/guingamp/sochaux/2002,2002,13,ligue_1,18,34,1,0,0,10,4,2,6,11,21,WWDWWWLDWWWW,4,0,1,5,3,7,5,4,3,19,14,LWWDDWWWDWDL,1,3,2,4,7,WWLWW,LWDWDD
+Sedan,Montpellier,2-0,/match/sedan/montpellier-hsc/2002,2002,13,ligue_1,18,34,0,2,0,16,1,5,6,10,18,DWDWWDDWDWLW,1,3,1,6,5,11,2,6,4,8,9,DDWWDWDDLDWW,0,2,3,1,5,DWDDL,DWWDW
+Olympique,Stade Rennais,2-1,/match/olympique-marsella/stade-rennes/2002,2002,13,ligue_1,18,34,0,2,1,14,2,5,5,6,9,DDWLWDDWWLDW,1,3,1,2,1,13,4,2,6,13,22,LWWWWDDLWWLL,1,1,3,5,12,DLDWD,WWDWL
+Bastia,Lorient,3-1,/match/bastia/lorient/2002,2002,13,ligue_1,18,34,0,3,1,15,4,1,7,10,15,DWLLWLLWWWLW,2,1,3,5,6,12,4,3,5,21,20,WWLDWDDLLLWW,1,2,2,9,11,DLWLWL,WDDLW
+Lens,Girondins Bordeaux,0-0,/match/lens/bordeaux/2002,2002,13,ligue_1,18,34,1,0,0,2,8,3,1,21,11,WLWLDDWWDLWL,4,2,0,11,2,3,5,5,2,9,5,WDDWDWDLWDWW,1,2,2,2,3,WWDWDW,DWWLD
+Troyes,PSG,1-0,/match/troyes/paris-saint-germain-fc/2002,2002,13,ligue_1,18,34,0,1,0,9,5,2,5,15,14,WWDLLWLLDLWW,2,2,2,9,7,5,4,7,1,15,10,DDWDWDDDWDLW,1,3,1,6,6,WDLLDW,DDDWL
+Metz,Auxerre,2-0,/match/metz/auxerre/2002,2002,13,ligue_1,18,34,0,2,0,17,3,1,8,6,14,WWWLWLLWDLWW,2,0,3,4,5,4,6,5,1,20,11,LDLWDWLDDLDW,3,3,0,11,4,WLLWL,LLDLDD
+Olympique Lyonnais,Lille,4-2,/match/olympique-lyonnais/lillestrom/2002,2002,13,ligue_1,18,34,0,4,2,6,6,3,3,21,11,WWLWLDWWWDDW,4,1,0,14,2,1,7,5,0,14,5,DWDWDWLWDWDW,1,5,0,3,2,WWWWD,DDDLDD
+Monaco,Olympique,1-1,/match/monaco/olympique-marsella/2002,2002,14,ligue_1,18,34,1,1,1,9,4,3,6,13,14,LDWDWWDWWWWWW,4,2,1,11,4,13,3,5,5,8,10,DDWLWDDWWLDWW,1,2,4,4,8,LDDWWWW,DWWDWLW
+Stade Rennais,Nantes,2-0,/match/stade-rennes/nantes/2002,2002,14,ligue_1,18,34,0,2,0,15,4,2,7,14,24,LWWWWDDLWWLLW,3,1,3,8,10,18,2,4,7,9,18,WLDLWDWWDWDLW,1,1,5,2,10,LWWDLWL,WDWWWWL
+Sochaux,Metz,2-0,/match/sochaux/metz/2002,2002,14,ligue_1,18,34,0,2,0,7,5,5,3,19,14,LWWDDWWWDWDLD,4,1,1,15,7,17,4,1,8,8,14,WWWLWLLWDLWWW,1,1,5,2,9,WDWWWL,WWWLDWW
+Lorient,Olympique Lyonnais,0-3,/match/lorient/olympique-lyonnais/2002,2002,14,ligue_1,18,34,2,0,3,12,4,3,6,22,23,WWLDWDDLLLWWW,3,1,3,12,9,3,7,3,3,25,13,WWLWLDWWWDDWW,2,2,3,7,9,WLWDLLW,WLLDWDW
+Montpellier,Bastia,2-1,/match/montpellier-hsc/bastia/2002,2002,14,ligue_1,18,34,0,2,1,11,2,6,5,8,11,DDWWDWDDLDWWW,2,4,1,7,4,14,5,1,7,13,16,DWLLWLLWWWLWW,2,0,4,5,9,DWDDLDW,WLLWWW
+Lens,Sedan,1-0,/match/lens/sedan/2002,2002,14,ligue_1,18,34,0,1,0,2,8,4,1,21,11,WLWLDDWWDLWLD,4,3,0,11,2,16,2,5,6,12,18,DWDWWDDWDWLWW,0,2,5,4,13,WWDWDWD,DWWDWWW
+Girondins Bordeaux,Troyes,2-3,/match/bordeaux/troyes/2002,2002,14,ligue_1,18,34,2,2,3,4,5,6,2,9,5,WDDWDWDLWDWWD,4,3,0,7,2,8,6,2,5,16,14,WWDLLWLLDLWWW,3,0,3,6,7,WDDDWWW,WLWLLW
+Auxerre,Lille,2-1,/match/auxerre/lillestrom/2002,2002,14,ligue_1,18,34,0,2,1,5,6,5,2,20,13,LDLWDWLDDLDWW,3,2,1,9,7,1,7,5,1,16,9,DWDWDWLWDWDWW,1,5,1,5,6,DWWDLW,DDDLDDW
+PSG,Guingamp,1-1,/match/paris-saint-germain-fc/guingamp/2002,2002,14,ligue_1,18,34,1,1,1,6,4,7,2,15,11,DDWDWDDDWDLWW,3,4,0,9,4,10,4,3,6,11,21,WWDWWWLDWWWWD,0,2,5,6,18,DWWDDDW,WDWWDWW
+Olympique,Sochaux,4-2,/match/olympique-marsella/sochaux/2002,2002,15,ligue_1,18,34,0,4,2,13,3,6,5,9,11,DDWLWDDWWLDWWD,2,3,1,4,2,5,6,5,3,21,14,LWWDDWWWDWDLDW,1,4,2,4,7,DLDWDW,LWDWDDD
+Guingamp,Montpellier,2-2,/match/guingamp/montpellier-hsc/2002,2002,15,ligue_1,18,34,1,2,2,12,4,4,6,12,22,WWDWWWLDWWWWDD,4,1,1,5,3,10,3,6,5,10,12,DDWWDWDDLDWWWW,0,2,4,1,7,WWLWWD,DWWDWW
+Troyes,Lens,1-1,/match/troyes/lens/2002,2002,15,ligue_1,18,34,1,1,1,8,7,2,5,19,16,WWDLLWLLDLWWWL,3,2,2,10,7,1,9,4,1,22,11,WLWLDDWWDLWLDW,4,1,1,10,9,WDLLDWW,LLDWLL
+Sedan,Lorient,5-0,/match/sedan/lorient/2002,2002,15,ligue_1,18,34,0,5,0,16,2,5,7,12,19,DWDWWDDWDWLWWW,2,3,1,8,5,15,4,3,7,22,26,WWLDWDDLLLWWWL,1,2,3,10,14,DWDDLW,WDDLWW
+Bastia,Girondins Bordeaux,1-2,/match/bastia/bordeaux/2002,2002,15,ligue_1,18,34,2,1,2,14,5,1,8,14,18,DWLLWLLWWWLWWW,3,1,3,8,7,6,5,6,3,11,8,WDDWDWDLWDWWDL,1,3,2,2,3,DLWLWLW,DWWLDD
+Metz,Monaco,1-0,/match/metz/monaco/2002,2002,15,ligue_1,18,34,0,1,0,17,4,1,9,8,16,WWWLWLLWDLWWWW,3,0,3,6,5,9,4,4,6,14,15,LDWDWWDWWWWWWD,0,1,5,2,10,WLLWLW,WWDWWW
+Lille,Stade Rennais,1-0,/match/lillestrom/stade-rennes/2002,2002,15,ligue_1,18,34,0,1,0,2,7,5,2,17,11,DWDWDWLWDWDWWW,6,0,0,11,3,11,5,2,7,16,24,LWWWWDDLWWLLWW,1,1,4,6,14,WWWWWW,WWDWLW
+Olympique Lyonnais,Auxerre,3-0,/match/olympique-lyonnais/auxerre/2002,2002,15,ligue_1,18,34,0,3,0,3,8,3,3,28,13,WWLWLDWWWDDWWL,5,1,0,18,4,4,7,5,2,22,14,LDLWDWLDDLDWWW,3,3,1,11,6,WWWWDW,LLDLDDW
+Nantes,PSG,1-2,/match/nantes/paris-saint-germain-fc/2002,2002,15,ligue_1,18,34,2,1,2,18,2,4,8,9,20,WLDLWDWWDWDLWW,1,3,2,7,8,7,4,8,2,16,12,DDWDWDDDWDLWWD,1,3,2,6,7,LLDDDW,DDDWLW
+Montpellier,Olympique Lyonnais,3-0,/match/montpellier-hsc/olympique-lyonnais/2002,2002,16,ligue_1,18,34,0,3,0,11,3,7,5,12,14,DDWWDWDDLDWWWWD,3,4,1,9,5,3,9,3,3,31,13,WWLWLDWWWDDWWLW,3,2,3,10,9,DWDDLDWW,WLLDWDWL
+Sochaux,Auxerre,1-2,/match/sochaux/auxerre/2002,2002,16,ligue_1,18,34,2,1,2,7,6,5,4,23,18,LWWDDWWWDWDLDWW,5,1,1,17,7,4,7,5,3,22,17,LDLWDWLDDLDWWWW,3,3,2,11,9,WDWWWLW,LLDLDDWW
+Lorient,Nantes,1-2,/match/lorient/nantes/2002,2002,16,ligue_1,18,34,2,1,2,17,4,3,8,22,31,WWLDWDDLLLWWWLW,3,1,4,12,12,18,2,4,9,10,22,WLDLWDWWDWDLWWL,1,1,6,2,12,WLWDLLWL,WDWWWWLW
+Troyes,Sedan,1-1,/match/troyes/sedan/2002,2002,16,ligue_1,18,34,1,1,1,8,7,3,5,20,17,WWDLLWLLDLWWWLD,3,3,2,11,8,14,3,5,7,17,19,DWDWWDDWDWLWWWW,0,2,6,4,14,WDLLDWWD,DWWDWWWW
+Stade Rennais,Metz,0-0,/match/stade-rennes/metz/2002,2002,16,ligue_1,18,34,1,0,0,13,5,2,8,16,25,LWWWWDDLWWLLWWW,4,1,3,10,10,15,5,1,9,9,16,WWWLWLLWDLWWWWW,1,1,6,2,11,LWWDLWLW,WWWLDWWW
+Lens,Bastia,7-0,/match/lens/bastia/2002,2002,16,ligue_1,18,34,0,7,0,1,9,5,1,23,12,WLWLDDWWDLWLDWD,5,3,0,12,2,16,5,1,9,15,20,DWLLWLLWWWLWWWL,2,0,5,6,11,WWDWDWDW,WLLWWWW
+Girondins Bordeaux,Guingamp,2-0,/match/bordeaux/guingamp/2002,2002,16,ligue_1,18,34,0,2,0,5,6,6,3,13,9,WDDWDWDLWDWWDLL,4,3,1,9,5,9,4,5,6,14,24,WWDWWWLDWWWWDDD,0,3,5,7,19,WDDDWWWL,WDWWDWWD
+Monaco,Lille,2-2,/match/monaco/lillestrom/2002,2002,16,ligue_1,18,34,1,2,2,12,4,4,7,14,16,LDWDWWDWWWWWWDW,4,3,1,12,5,2,8,5,2,18,11,DWDWDWLWDWDWWWW,1,5,2,6,8,LDDWWWWD,DDDLDDWW
+PSG,Olympique,0-0,/match/paris-saint-germain-fc/olympique-marsella/2002,2002,16,ligue_1,18,34,1,0,0,6,5,8,2,18,13,DDWDWDDDWDLWWDL,3,5,0,10,5,10,4,6,5,13,13,DDWLWDDWWLDWWDW,1,3,4,5,9,DWWDDDWD,DWWDWLWD
+Auxerre,Monaco,2-0,/match/auxerre/monaco/2002,2002,17,ligue_1,18,34,0,2,0,5,8,5,3,24,18,LDLWDWLDDLDWWWWL,4,2,1,11,8,10,4,5,7,16,18,LDWDWWDWWWWWWDWD,0,1,6,2,11,DWWDLWW,WWDWWWW
+Guingamp,Lens,1-0,/match/guingamp/lens/2002,2002,17,ligue_1,18,34,0,1,0,12,4,5,7,14,26,WWDWWWLDWWWWDDDW,4,2,1,7,5,1,10,5,1,30,12,WLWLDDWWDLWLDWDW,4,2,1,11,10,WWLWWDD,LLDWLLD
+Sedan,Stade Rennais,0-0,/match/sedan/stade-rennes/2002,2002,17,ligue_1,18,34,1,0,0,14,3,6,7,18,20,DWDWWDDWDWLWWWWD,3,3,1,13,5,13,5,3,8,16,25,LWWWWDDLWWLLWWWD,1,1,5,6,15,DWDDLWW,WWDWLWW
+Olympique,Lorient,3-2,/match/olympique-marsella/lorient/2002,2002,17,ligue_1,18,34,0,3,2,11,4,7,5,13,13,DDWLWDDWWLDWWDWD,3,3,1,8,4,17,4,3,9,23,33,WWLDWDDLLLWWWLWL,1,2,4,10,19,DLDWDWW,WDDLWWW
+Nantes,Montpellier,1-2,/match/nantes/montpellier-hsc/2002,2002,17,ligue_1,18,34,2,1,2,18,3,4,9,12,23,WLDLWDWWDWDLWWLL,1,3,3,8,10,9,4,7,5,15,14,DDWWDWDDLDWWWWDW,0,3,4,3,9,LLDDDWL,DWWDWWD
+Bastia,Troyes,2-0,/match/bastia/troyes/2002,2002,17,ligue_1,18,34,0,2,0,16,5,1,10,15,27,DWLLWLLWWWLWWWLW,3,1,4,9,9,8,7,4,5,21,18,WWDLLWLLDLWWWLDD,4,0,3,9,9,DLWLWLWL,WLWLLWL
+Lille,Sochaux,1-2,/match/lillestrom/sochaux/2002,2002,17,ligue_1,18,34,2,1,2,2,8,6,2,20,13,DWDWDWLWDWDWWWWD,7,0,0,12,3,7,6,5,5,24,20,LWWDDWWWDWDLDWWL,1,4,3,6,11,WWWWWWW,LWDWDDDW
+Metz,PSG,0-2,/match/metz/paris-saint-germain-fc/2002,2002,17,ligue_1,18,34,2,0,2,15,5,2,9,9,16,WWWLWLLWDLWWWWWD,4,0,3,7,5,6,5,9,2,18,13,DDWDWDDDWDLWWDLD,2,3,2,8,8,WLLWLWW,DDDWLWL
+Olympique Lyonnais,Girondins Bordeaux,1-0,/match/olympique-lyonnais/bordeaux/2002,2002,17,ligue_1,18,34,0,1,0,3,9,3,4,31,16,WWLWLDWWWDDWWLWW,6,1,0,21,4,4,7,6,3,15,9,WDDWDWDLWDWWDLLW,2,3,2,4,4,WWWWDWW,DWWLDDL
+Lens,Nantes,3-0,/match/lens/nantes/2002,2002,18,ligue_1,18,34,0,3,0,1,10,5,2,30,13,WLWLDDWWDLWLDWDWW,6,3,0,19,2,18,3,4,10,13,25,WLDLWDWWDWDLWWLLL,2,1,6,4,13,WWDWDWDWW,WDWWWWLWL
+Girondins Bordeaux,Olympique,0-0,/match/bordeaux/olympique-marsella/2002,2002,18,ligue_1,18,34,1,0,0,5,7,6,4,15,10,WDDWDWDLWDWWDLLWW,5,3,1,11,5,10,5,7,5,16,15,DDWLWDDWWLDWWDWDW,1,4,4,5,9,WDDDWWWLW,DWWDWLWDD
+Lorient,Lille,2-4,/match/lorient/lillestrom/2002,2002,18,ligue_1,18,34,2,2,4,17,4,3,10,25,36,WWLDWDDLLLWWWLWLW,3,1,5,13,14,3,8,6,3,21,15,DWDWDWLWDWDWWWWDL,1,6,2,8,10,WLWDLLWLL,DDDLDDWWD
+Sedan,Olympique Lyonnais,2-1,/match/sedan/olympique-lyonnais/2002,2002,18,ligue_1,18,34,0,2,1,14,3,7,7,18,20,DWDWWDDWDWLWWWWDD,3,4,1,13,5,2,10,3,4,32,16,WWLWLDWWWDDWWLWWW,3,2,4,10,12,DWDDLWWD,WLLDWDWLW
+Stade Rennais,Sochaux,1-1,/match/stade-rennes/sochaux/2002,2002,18,ligue_1,18,34,1,1,1,13,5,4,8,16,25,LWWWWDDLWWLLWWWDD,4,2,3,10,10,7,7,5,5,26,21,LWWDDWWWDWDLDWWLL,2,4,3,8,12,LWWDLWLWD,LWDWDDDWL
+Bastia,Guingamp,3-0,/match/bastia/guingamp/2002,2002,18,ligue_1,18,34,0,3,0,15,6,1,10,17,27,DWLLWLLWWWLWWWLWW,4,1,4,11,9,11,5,5,7,15,26,WWDWWWLDWWWWDDDWW,0,3,6,7,21,DLWLWLWLW,WDWWDWWDW
+PSG,Auxerre,0-0,/match/paris-saint-germain-fc/auxerre/2002,2002,18,ligue_1,18,34,1,0,0,6,6,9,2,20,13,DDWDWDDDWDLWWDLDL,3,6,0,10,5,4,9,5,3,26,18,LDLWDWLDDLDWWWWLW,4,3,2,13,10,DWWDDDWDD,LLDLDDWWL
+Troyes,Metz,2-0,/match/troyes/metz/2002,2002,18,ligue_1,18,34,0,2,0,9,7,4,6,21,20,WWDLLWLLDLWWWLDDW,3,4,2,12,9,16,5,2,10,9,18,WWWLWLLWDLWWWWWDL,1,2,6,2,11,WDLLDWWDD,WWWLDWWWD
+Montpellier,Monaco,1-1,/match/montpellier-hsc/monaco/2002,2002,18,ligue_1,18,34,1,1,1,8,5,7,5,17,15,DDWWDWDDLDWWWWDWL,4,4,1,12,5,12,4,5,8,16,20,LDWDWWDWWWWWWDWDW,0,1,7,2,13,DWDDLDWWW,WWDWWWWW
+Olympique,Lens,1-2,/match/olympique-marsella/lens/2002,2002,19,ligue_1,18,34,2,1,2,10,5,8,5,16,15,DDWLWDDWWLDWWDWDWD,4,3,1,11,6,1,11,5,2,33,13,WLWLDDWWDLWLDWDWWW,4,2,2,11,11,DLDWDWWW,LLDWLLDW
+Sochaux,PSG,0-2,/match/sochaux/paris-saint-germain-fc/2002,2002,19,ligue_1,18,34,2,0,2,8,7,6,5,27,22,LWWDDWWWDWDLDWWLLD,5,1,2,18,9,6,6,10,2,20,13,DDWDWDDDWDLWWDLDLD,3,3,2,10,8,WDWWWLWL,DDDWLWLL
+Guingamp,Sedan,1-2,/match/guingamp/sedan/2002,2002,19,ligue_1,18,34,2,1,2,11,5,5,8,15,29,WWDWWWLDWWWWDDDWWW,5,2,1,8,5,12,4,7,7,20,21,DWDWWDDWDWLWWWWDDW,0,3,6,5,15,WWLWWDDW,DWWDWWWWD
+Nantes,Troyes,1-0,/match/nantes/troyes/2002,2002,19,ligue_1,18,34,0,1,0,18,3,4,11,13,28,WLDLWDWWDWDLWWLLLW,1,3,4,9,12,7,8,4,6,23,20,WWDLLWLLDLWWWLDDWW,4,0,4,9,11,LLDDDWLL,WLWLLWLW
+Monaco,Stade Rennais,3-1,/match/monaco/stade-rennes/2002,2002,19,ligue_1,18,34,0,3,1,13,4,6,8,17,21,LDWDWWDWWWWWWDWDWD,4,4,1,14,7,14,5,5,8,17,26,LWWWWDDLWWLLWWWDDD,1,2,5,6,15,LDDWWWWDD,WWDWLWWD
+Lille,Girondins Bordeaux,2-2,/match/lillestrom/bordeaux/2002,2002,19,ligue_1,18,34,1,2,2,3,9,6,3,25,17,DWDWDWLWDWDWWWWDLL,7,0,1,13,5,5,7,7,4,15,10,WDDWDWDLWDWWDLLWWD,2,3,3,4,5,WWWWWWWL,DWWLDDLW
+Olympique Lyonnais,Bastia,0-0,/match/olympique-lyonnais/bastia/2002,2002,19,ligue_1,18,34,1,0,0,2,10,3,5,33,18,WWLWLDWWWDDWWLWWWW,7,1,0,22,4,15,7,1,10,20,27,DWLLWLLWWWLWWWLWWW,2,0,6,6,18,WWWWDWWW,WLLWWWWW
+Auxerre,Lorient,2-2,/match/auxerre/lorient/2002,2002,19,ligue_1,18,34,1,2,2,4,9,6,3,26,18,LDLWDWLDDLDWWWWLWD,5,2,1,13,8,17,4,3,11,27,40,WWLDWDDLLLWWWLWLWL,1,2,5,12,22,DWWDLWWW,WDDLWWWW
+Metz,Montpellier,0-0,/match/metz/montpellier-hsc/2002,2002,19,ligue_1,18,34,1,0,0,16,5,2,11,9,20,WWWLWLLWDLWWWWWDLW,4,0,4,7,7,9,5,8,5,18,16,DDWWDWDDLDWWWWDWLD,1,3,4,5,10,WLLWLWWL,DWWDWWDL
+Guingamp,Olympique Lyonnais,2-4,/match/guingamp/olympique-lyonnais/2002,2002,20,ligue_1,18,34,2,2,4,13,5,5,9,16,31,WWDWWWLDWWWWDDDWWWL,5,2,2,9,7,3,10,4,5,33,18,WWLWLDWWWDDWWLWWWWD,3,2,5,11,14,WWLWWDDWL,WLLDWDWLWW
+Lorient,Sochaux,1-1,/match/lorient/sochaux/2002,2002,20,ligue_1,18,34,1,1,1,17,4,4,11,29,42,WWLDWDDLLLWWWLWLWLD,3,1,6,15,18,9,7,6,6,27,24,LWWDDWWWDWDLDWWLLDL,2,5,3,9,13,WLWDLLWLLL,LWDWDDDWLD
+Montpellier,Lille,2-0,/match/montpellier-hsc/lillestrom/2002,2002,20,ligue_1,18,34,0,2,0,8,5,9,5,18,16,DDWWDWDDLDWWWWDWLDD,4,5,1,13,6,2,9,7,3,27,19,DWDWDWLWDWDWWWWDLLD,2,6,2,12,12,DWDDLDWWWD,DDDLDDWWDL
+Bastia,Nantes,0-2,/match/bastia/nantes/2002,2002,20,ligue_1,18,34,2,0,2,14,7,2,10,20,27,DWLLWLLWWWLWWWLWWWD,5,1,4,14,9,18,4,4,11,14,28,WLDLWDWWDWDLWWLLLWW,2,1,7,4,16,DLWLWLWLWW,WDWWWWLWLW
+Girondins Bordeaux,Stade Rennais,2-1,/match/bordeaux/stade-rennes/2002,2002,20,ligue_1,18,34,0,2,1,6,7,8,4,17,12,WDDWDWDLWDWWDLLWWDD,5,4,1,11,5,15,5,5,9,18,29,LWWWWDDLWWLLWWWDDDW,1,2,6,7,18,WDDDWWWLWD,WWDWLWWDW
+PSG,Monaco,1-2,/match/paris-saint-germain-fc/monaco/2002,2002,20,ligue_1,18,34,2,1,2,5,7,10,2,22,13,DDWDWDDDWDLWWDLDLDL,3,7,0,10,5,10,5,6,8,20,22,LDWDWWDWWWWWWDWDWDW,0,2,7,3,14,DWWDDDWDDD,WWDWWWWWD
+Troyes,Olympique,1-0,/match/troyes/olympique-marsella/2002,2002,20,ligue_1,18,34,0,1,0,7,8,4,7,23,21,WWDLLWLLDLWWWLDDWWW,4,4,2,14,9,12,5,8,6,17,17,DDWLWDDWWLDWWDWDWDL,1,5,4,5,9,WDLLDWWDDW,DWWDWLWDDD
+Lens,Metz,2-2,/match/lens/metz/2002,2002,20,ligue_1,18,34,1,2,2,1,12,5,2,35,14,WLWLDDWWDLWLDWDWWWL,7,3,0,22,2,16,5,3,11,9,20,WWWLWLLWDLWWWWWDLWD,1,2,7,2,13,WWDWDWDWWW,WWWLDWWWDW
+Sedan,Auxerre,3-3,/match/sedan/auxerre/2002,2002,20,ligue_1,18,34,1,3,3,11,5,7,7,22,22,DWDWWDDWDWLWWWWDDWL,4,4,1,15,6,4,9,7,3,28,20,LDLWDWLDDLDWWWWLWDD,4,4,2,13,10,DWDDLWWDW,LLDLDDWWLD
+Lille,Lens,0-1,/match/lillestrom/lens/2002,2002,21,ligue_1,18,34,2,0,1,3,9,7,4,27,21,DWDWDWLWDWDWWWWDLLDW,7,1,1,15,7,1,12,6,2,37,16,WLWLDDWWDLWLDWDWWWLD,5,2,2,13,12,WWWWWWWLD,LLDWLLDWL
+Stade Rennais,PSG,1-2,/match/stade-rennes/paris-saint-germain-fc/2002,2002,21,ligue_1,18,34,2,1,2,15,5,5,10,19,31,LWWWWDDLWWLLWWWDDDWW,4,3,3,11,11,6,7,10,3,23,15,DDWDWDDDWDLWWDLDLDLL,4,3,2,12,8,LWWDLWLWDD,DDDWLWLLL
+Sochaux,Montpellier,0-1,/match/sochaux/montpellier-hsc/2002,2002,21,ligue_1,18,34,2,0,1,10,7,7,6,28,25,LWWDDWWWDWDLDWWLLDLD,5,1,3,18,11,8,6,9,5,20,16,DDWWDWDDLDWWWWDWLDDW,1,4,4,5,10,WDWWWLWLL,DWWDWWDLD
+Olympique,Bastia,2-2,/match/olympique-marsella/bastia/2002,2002,21,ligue_1,18,34,1,2,2,12,5,8,7,17,18,DDWLWDDWWLDWWDWDWDLW,4,3,2,12,8,14,7,2,11,20,29,DWLLWLLWWWLWWWLWWWDL,2,1,6,6,18,DLDWDWWWL,WLLWWWWWD
+Nantes,Guingamp,2-0,/match/nantes/guingamp/2002,2002,21,ligue_1,18,34,0,2,0,18,5,4,11,16,28,WLDLWDWWDWDLWWLLLWWL,2,3,4,10,12,13,5,5,10,18,35,WWDWWWLDWWWWDDDWWWLL,0,3,7,7,24,LLDDDWLLW,WDWWDWWDWW
+Monaco,Lorient,1-0,/match/monaco/lorient/2002,2002,21,ligue_1,18,34,0,1,0,9,6,6,8,22,23,LDWDWWDWWWWWWDWDWDWL,5,4,1,17,8,17,4,5,11,30,43,WWLDWDDLLLWWWLWLWLDD,1,3,5,14,24,LDDWWWWDDW,WDDLWWWWD
+Olympique Lyonnais,Troyes,3-1,/match/olympique-lyonnais/troyes/2002,2002,21,ligue_1,18,34,0,3,1,2,11,4,5,37,20,WWLWLDWWWDDWWLWWWWDL,7,2,0,22,4,7,9,4,7,24,21,WWDLLWLLDLWWWLDDWWWW,4,0,5,9,12,WWWWDWWWD,WLWLLWLWW
+Auxerre,Girondins Bordeaux,0-1,/match/auxerre/bordeaux/2002,2002,21,ligue_1,18,34,2,0,1,5,9,8,3,31,23,LDLWDWLDDLDWWWWLWDDD,5,3,1,15,10,4,8,8,4,19,13,WDDWDWDLWDWWDLLWWDDW,2,4,3,6,7,DWWDLWWWD,DWWLDDLWD
+Metz,Sedan,2-3,/match/metz/sedan/2002,2002,21,ligue_1,18,34,2,2,3,16,5,4,11,11,22,WWWLWLLWDLWWWWWDLWDD,4,1,4,7,7,11,5,8,7,25,25,DWDWWDDWDWLWWWWDDWLD,1,3,6,7,16,WLLWLWWLD,DWWDWWWWDL
+Girondins Bordeaux,Sochaux,0-1,/match/bordeaux/sochaux/2002,2002,22,ligue_1,18,34,2,0,1,3,9,8,4,20,13,WDDWDWDLWDWWDLLWWDDWL,6,4,1,13,6,11,7,7,7,28,26,LWWDDWWWDWDLDWWLLDLDL,2,6,3,10,14,WDDDWWWLWDW,LWDWDDDWLDD
+Guingamp,Lille,0-0,/match/guingamp/lillestrom/2002,2002,22,ligue_1,18,34,1,0,0,14,5,5,11,18,37,WWDWWWLDWWWWDDDWWWLLW,5,2,3,11,11,4,9,7,5,27,22,DWDWDWLWDWDWWWWDLLDWL,2,6,3,12,14,WWLWWDDWLL,DDDLDDWWDLW
+Lorient,Stade Rennais,2-0,/match/lorient/stade-rennes/2002,2002,22,ligue_1,18,34,0,2,0,18,4,5,12,30,44,WWLDWDDLLLWWWLWLWLDDW,3,2,6,16,19,15,5,5,11,20,33,LWWWWDDLWWLLWWWDDDWWL,1,2,7,8,20,WLWDLLWLLLD,WWDWLWWDWW
+Troyes,Monaco,3-0,/match/troyes/monaco/2002,2002,22,ligue_1,18,34,0,3,0,8,9,4,8,25,24,WWDLLWLLDLWWWLDDWWWWW,5,4,2,15,9,9,7,6,8,23,23,LDWDWWDWWWWWWDWDWDWLW,1,2,7,5,15,WDLLDWWDDWW,WWDWWWWWDL
+Sedan,Nantes,0-0,/match/sedan/nantes/2002,2002,22,ligue_1,18,34,1,0,0,10,6,8,7,28,27,DWDWWDDWDWLWWWWDDWLDL,4,5,1,18,9,16,6,4,11,18,28,WLDLWDWWDWDLWWLLLWWLW,3,1,7,6,16,DWDDLWWDWD,WDWWWWLWLWL
+Montpellier,Auxerre,0-0,/match/montpellier-hsc/auxerre/2002,2002,22,ligue_1,18,34,1,0,0,7,7,9,5,21,16,DDWWDWDDLDWWWWDWLDDWL,5,5,1,15,6,5,9,8,4,31,24,LDLWDWLDDLDWWWWLWDDDL,4,5,2,16,13,DWDDLDWWWDW,LLDLDDWWLDD
+Bastia,Metz,1-2,/match/bastia/metz/2002,2002,22,ligue_1,18,34,2,1,2,13,7,3,11,22,31,DWLLWLLWWWLWWWLWWWDLD,5,1,5,14,11,17,5,4,12,13,25,WWWLWLLWDLWWWWWDLWDDL,1,3,7,4,15,DLWLWLWLWWL,WWWLDWWWDWD
+Olympique Lyonnais,Olympique,4-0,/match/olympique-lyonnais/olympique-marsella/2002,2002,22,ligue_1,18,34,0,4,0,2,12,4,5,40,21,WWLWLDWWWDDWWLWWWWDLW,8,2,0,25,5,12,5,9,7,19,20,DDWLWDDWWLDWWDWDWDLWD,1,5,5,5,10,WWWWDWWWDW,DWWDWLWDDDW
+Lens,PSG,1-1,/match/lens/paris-saint-germain-fc/2002,2002,22,ligue_1,18,34,1,1,1,1,13,6,2,38,16,WLWLDDWWDLWLDWDWWWLDL,7,4,0,24,4,6,8,10,3,25,16,DDWDWDDDWDLWWDLDLDLLL,5,3,2,14,9,WWDWDWDWWWD,DDDWLWLLLL
+Nantes,Olympique Lyonnais,3-0,/match/nantes/olympique-lyonnais/2002,2002,23,ligue_1,18,34,0,3,0,16,6,5,11,18,28,WLDLWDWWDWDLWWLLLWWLWD,3,3,4,12,12,2,13,4,5,44,21,WWLWLDWWWDDWWLWWWWDLWW,4,2,5,15,16,LLDDDWLLWW,WLLDWDWLWWL
+Monaco,Girondins Bordeaux,3-1,/match/monaco/bordeaux/2002,2002,23,ligue_1,18,34,0,3,1,9,7,6,9,23,26,LDWDWWDWWWWWWDWDWDWLWW,6,4,1,18,8,3,9,8,5,20,14,WDDWDWDLWDWWDLLWWDDWLL,3,4,3,7,7,LDDWWWWDDWW,DWWLDDLWDL
+Sochaux,Lens,0-2,/match/sochaux/lens/2002,2002,23,ligue_1,18,34,2,0,2,11,8,7,7,29,26,LWWDDWWWDWDLDWWLLDLDLL,5,1,4,18,12,1,13,7,2,39,17,WLWLDDWWDLWLDWDWWWLDLD,6,2,2,14,12,WDWWWLWLLL,LLDWLLDWLL
+Stade Rennais,Montpellier,2-0,/match/stade-rennes/montpellier-hsc/2002,2002,23,ligue_1,18,34,0,2,0,15,5,5,12,20,35,LWWWWDDLWWLLWWWDDDWWLW,4,3,4,12,13,7,7,10,5,21,16,DDWWDWDDLDWWWWDWLDDWLD,2,4,4,6,10,LWWDLWLWDDL,DWWDWWDLDL
+Olympique,Sedan,2-1,/match/olympique-marsella/sedan/2002,2002,23,ligue_1,18,34,0,2,1,12,5,9,8,19,24,DDWLWDDWWLDWWDWDWDLWDW,4,4,2,14,10,10,6,9,7,28,27,DWDWWDDWDWLWWWWDDWLDLD,2,3,6,10,18,DLDWDWWWLD,DWWDWWWWDLL
+Metz,Guingamp,2-4,/match/metz/guingamp/2002,2002,23,ligue_1,18,34,2,2,4,17,6,4,12,15,26,WWWLWLLWDLWWWWWDLWDDLL,4,1,5,9,10,13,5,6,11,18,37,WWDWWWLDWWWWDDDWWWLLWD,0,3,8,7,26,WLLWLWWLDL,WDWWDWWDWWW
+Auxerre,Bastia,1-0,/match/auxerre/bastia/2002,2002,23,ligue_1,18,34,0,1,0,5,9,9,4,31,24,LDLWDWLDDLDWWWWLWDDDLD,5,3,2,15,11,14,7,3,12,23,33,DWLLWLLWWWLWWWLWWWDLDL,2,2,6,8,20,DWWDLWWWDL,WLLWWWWWDD
+PSG,Lorient,5-0,/match/paris-saint-germain-fc/lorient/2002,2002,23,ligue_1,18,34,0,5,0,6,8,11,3,26,17,DDWDWDDDWDLWWDLDLDLLLD,3,7,1,11,7,18,5,5,12,32,44,WWLDWDDLLLWWWLWLWLDDWW,1,3,6,14,25,DWWDDDWDDDL,WDDLWWWWDW
+Lille,Troyes,1-0,/match/lillestrom/troyes/2002,2002,23,ligue_1,18,34,0,1,0,4,9,8,5,27,22,DWDWDWLWDWDWWWWDLLDWLD,7,1,2,15,8,8,10,4,8,28,24,WWDLLWLLDLWWWLDDWWWWWW,4,0,6,10,15,WWWWWWWLDL,WLWLLWLWWW
+Montpellier,PSG,0-0,/match/montpellier-hsc/paris-saint-germain-fc/2002,2002,24,ligue_1,18,34,1,0,0,7,7,10,6,21,18,DDWWDWDDLDWWWWDWLDDWLDW,5,6,1,15,6,5,9,11,3,31,17,DDWDWDDDWDLWWDLDLDLLLDW,5,4,2,15,10,DWDDLDWWWDWD,DDDWLWLLLLD
+Guingamp,Auxerre,0-0,/match/guingamp/auxerre/2002,2002,24,ligue_1,18,34,1,0,0,13,6,6,11,22,39,WWDWWWLDWWWWDDDWWWLLWDL,5,3,3,11,11,4,10,9,4,32,24,LDLWDWLDDLDWWWWLWDDDLDW,4,6,2,16,13,WWLWWDDWLLD,LLDLDDWWLDDD
+Troyes,Stade Rennais,1-1,/match/troyes/stade-rennes/2002,2002,24,ligue_1,18,34,1,1,1,8,10,4,9,28,25,WWDLLWLLDLWWWLDDWWWWWWW,6,4,2,18,9,14,6,5,12,22,35,LWWWWDDLWWLLWWWDDDWWLWW,1,2,8,8,22,WDLLDWWDDWWW,WWDWLWWDWWW
+Sedan,Sochaux,2-1,/match/sedan/sochaux/2002,2002,24,ligue_1,18,34,0,2,1,11,6,9,8,29,29,DWDWWDDWDWLWWWWDDWLDLDW,4,6,1,18,9,12,8,7,8,29,28,LWWDDWWWDWDLDWWLLDLDLLL,3,6,3,11,14,DWDDLWWDWDD,LWDWDDDWLDDL
+Lens,Monaco,1-0,/match/lens/monaco/2002,2002,24,ligue_1,18,34,0,1,0,1,14,7,2,41,17,WLWLDDWWDLWLDWDWWWLDLDL,7,5,0,25,5,9,8,6,9,26,27,LDWDWWDWWWWWWDWDWDWLWWW,1,2,8,5,18,WWDWDWDWWWDD,WWDWWWWWDLW
+Bastia,Lille,1-0,/match/bastia/lillestrom/2002,2002,24,ligue_1,18,34,0,1,0,16,7,3,13,23,34,DWLLWLLWWWLWWWLWWWDLDLW,5,1,6,15,13,3,10,8,5,28,22,DWDWDWLWDWDWWWWDLLDWLDW,2,7,3,12,14,DLWLWLWLWWLL,DDDLDDWWDLWD
+Olympique Lyonnais,Metz,4-1,/match/olympique-lyonnais/metz/2002,2002,24,ligue_1,18,34,0,4,1,2,13,4,6,44,24,WWLWLDWWWDDWWLWWWWDLWWW,9,2,0,29,5,17,6,4,13,17,30,WWWLWLLWDLWWWWWDLWDDLLL,2,3,7,6,16,WWWWDWWWDWW,WWWLDWWWDWDL
+Girondins Bordeaux,Lorient,2-1,/match/bordeaux/lorient/2002,2002,24,ligue_1,18,34,0,2,1,6,9,8,6,21,17,WDDWDWDLWDWWDLLWWDDWLLW,6,4,2,13,7,18,5,5,13,32,49,WWLDWDDLLLWWWLWLWLDDWWW,1,3,7,14,30,WDDDWWWLWDWL,WDDLWWWWDWW
+Nantes,Olympique,3-1,/match/nantes/olympique-marsella/2002,2002,24,ligue_1,18,34,0,3,1,15,7,5,11,21,28,WLDLWDWWDWDLWWLLLWWLWDW,4,3,4,15,12,10,6,9,8,21,25,DDWLWDDWWLDWWDWDWDLWDWW,1,5,6,5,14,LLDDDWLLWWW,DWWDWLWDDDWW
+Stade Rennais,Olympique Lyonnais,2-2,/match/stade-rennes/olympique-lyonnais/2002,2002,25,ligue_1,18,34,1,2,2,16,6,6,12,23,36,LWWWWDDLWWLLWWWDDDWWLWWD,5,3,4,14,13,2,14,4,6,48,25,WWLWLDWWWDDWWLWWWWDLWWWW,4,2,6,15,19,LWWDLWLWDDLW,WLLDWDWLWWLW
+Lorient,Montpellier,1-0,/match/lorient/montpellier-hsc/2002,2002,25,ligue_1,18,34,0,1,0,18,5,5,14,33,51,WWLDWDDLLLWWWLWLWLDDWWWW,4,2,6,18,19,7,7,11,6,21,18,DDWWDWDDLDWWWWDWLDDWLDWD,2,4,5,6,12,WLWDLLWLLLDW,DWWDWWDLDLW
+Olympique,Guingamp,2-1,/match/olympique-marsella/guingamp/2002,2002,25,ligue_1,18,34,0,2,1,11,6,9,9,22,28,DDWLWDDWWLDWWDWDWDLWDWWW,5,4,2,16,11,14,6,7,11,22,39,WWDWWWLDWWWWDDDWWWLLWDLD,1,3,8,11,28,DLDWDWWWLDW,WDWWDWWDWWWL
+Metz,Nantes,2-0,/match/metz/nantes/2002,2002,25,ligue_1,18,34,0,2,0,17,6,4,14,18,34,WWWLWLLWDLWWWWWDLWDDLLLW,4,1,6,11,14,13,8,5,11,24,29,WLDLWDWWDWDLWWLLLWWLWDWW,3,2,7,6,16,WLLWLWWLDLL,WDWWWWLWLWLD
+Auxerre,Lens,1-0,/match/auxerre/lens/2002,2002,25,ligue_1,18,34,0,1,0,5,10,10,4,32,24,LDLWDWLDDLDWWWWLWDDDLDWD,6,3,2,16,11,1,15,7,2,42,17,WLWLDDWWDLWLDWDWWWLDLDLW,7,2,2,16,12,DWWDLWWWDLW,LLDWLLDWLLL
+Monaco,Bastia,1-1,/match/monaco/bastia/2002,2002,25,ligue_1,18,34,1,1,1,9,8,6,10,26,28,LDWDWWDWWWWWWDWDWDWLWWWW,7,4,1,21,9,15,8,3,13,24,34,DWLLWLLWWWLWWWLWWWDLDLWW,2,2,7,8,21,LDDWWWWDDWWW,WLLWWWWWDDW
+Sochaux,Troyes,2-2,/match/sochaux/troyes/2002,2002,25,ligue_1,18,34,1,2,2,12,8,7,9,30,30,LWWDDWWWDWDLDWWLLDLDLLLW,5,1,5,18,14,8,10,5,9,29,26,WWDLLWLLDLWWWLDDWWWWWWWD,4,0,7,10,16,WDWWWLWLLLL,WLWLLWLWWWW
+Lille,Sedan,1-1,/match/lillestrom/sedan/2002,2002,25,ligue_1,18,34,1,1,1,4,10,8,6,28,23,DWDWDWLWDWDWWWWDLLDWLDWW,8,1,2,16,8,10,7,9,8,31,30,DWDWWDDWDWLWWWWDDWLDLDWW,2,3,7,11,20,WWWWWWWLDLW,DWWDWWWWDLLW
+PSG,Girondins Bordeaux,1-0,/match/paris-saint-germain-fc/bordeaux/2002,2002,25,ligue_1,18,34,0,1,0,6,9,12,3,31,17,DDWDWDDDWDLWWDLDLDLLLDWD,4,7,1,16,7,3,10,8,6,23,18,WDDWDWDLWDWWDLLWWDDWLLWW,3,4,4,8,10,DWWDDDWDDDLW,DWWLDDLWDLW
+Nantes,Lille,0-1,/match/nantes/lillestrom/2002,2002,26,ligue_1,18,34,2,0,1,13,8,5,12,24,31,WLDLWDWWDWDLWWLLLWWLWDWWW,5,3,4,18,13,5,10,9,6,29,24,DWDWDWLWDWDWWWWDLLDWLDWWD,2,7,4,12,15,LLDDDWLLWWWW,DDDLDDWWDLWDW
+Girondins Bordeaux,Montpellier,3-1,/match/bordeaux/montpellier-hsc/2002,2002,26,ligue_1,18,34,0,3,1,6,10,8,7,23,19,WDDWDWDLWDWWDLLWWDDWLLWWW,7,4,2,15,8,8,7,11,7,21,19,DDWWDWDDLDWWWWDWLDDWLDWDW,2,4,6,6,13,WDDDWWWLWDWLW,DWWDWWDLDLWW
+Bastia,Sochaux,3-0,/match/bastia/sochaux/2002,2002,26,ligue_1,18,34,0,3,0,15,8,4,13,25,35,DWLLWLLWWWLWWWLWWWDLDLWWD,6,1,6,16,13,12,8,8,9,32,32,LWWDDWWWDWDLDWWLLDLDLLLWD,3,6,4,12,16,DLWLWLWLWWLLW,LWDWDDDWLDDLW
+Lens,Lorient,1-1,/match/lens/lorient/2002,2002,26,ligue_1,18,34,1,1,1,1,15,7,3,42,18,WLWLDDWWDLWLDWDWWWLDLDLWW,8,5,0,26,5,18,6,5,14,34,51,WWLDWDDLLLWWWLWLWLDDWWWWW,1,3,8,15,32,WWDWDWDWWWDDW,WDDLWWWWDWWW
+Sedan,Monaco,0-0,/match/sedan/monaco/2002,2002,26,ligue_1,18,34,1,0,0,10,7,10,8,32,31,DWDWWDDWDWLWWWWDDWLDLDWWD,5,6,1,20,10,9,8,7,10,27,29,LDWDWWDWWWWWWDWDWDWLWWWWD,1,2,9,5,19,DWDDLWWDWDDW,WWDWWWWWDLWW
+Troyes,Auxerre,1-2,/match/troyes/auxerre/2002,2002,26,ligue_1,18,34,2,1,2,7,10,6,9,31,28,WWDLLWLLDLWWWLDDWWWWWWWDD,6,5,2,19,10,3,11,10,4,33,24,LDLWDWLDDLDWWWWLWDDDLDWDW,4,7,2,16,13,WDLLDWWDDWWWD,LLDLDDWWLDDDD
+Guingamp,Stade Rennais,1-1,/match/guingamp/stade-rennes/2002,2002,26,ligue_1,18,34,1,1,1,14,6,7,12,23,41,WWDWWWLDWWWWDDDWWWLLWDLDW,5,4,3,11,11,16,6,7,12,25,38,LWWWWDDLWWLLWWWDDDWWLWWDD,1,3,8,9,23,WWLWWDDWLLDD,WWDWLWWDWWWD
+Olympique,Metz,1-0,/match/olympique-marsella/metz/2002,2002,26,ligue_1,18,34,0,1,0,11,7,9,9,24,29,DDWLWDDWWLDWWDWDWDLWDWWWW,6,4,2,18,12,17,7,4,14,20,34,WWWLWLLWDLWWWWWDLWDDLLLWW,2,3,8,7,20,DLDWDWWWLDWW,WWWLDWWWDWDLW
+Olympique Lyonnais,PSG,3-0,/match/olympique-lyonnais/paris-saint-germain-fc/2002,2002,26,ligue_1,18,34,0,3,0,2,14,5,6,50,27,WWLWLDWWWDDWWLWWWWDLWWWWD,10,2,0,33,6,4,10,12,3,32,17,DDWDWDDDWDLWWDLDLDLLLDWDW,5,5,2,15,10,WWWWDWWWDWWW,DDDWLWLLLLDD
+Montpellier,Lens,1-2,/match/montpellier-hsc/lens/2002,2002,27,ligue_1,18,34,2,1,2,11,7,11,8,22,22,DDWWDWDDLDWWWWDWLDDWLDWDWW,5,7,1,15,6,1,15,8,3,43,19,WLWLDDWWDLWLDWDWWWLDLDLWWD,7,2,3,16,13,DWDDLDWWWDWDD,LLDWLLDWLLLW
+PSG,Sedan,3-0,/match/paris-saint-germain-fc/sedan/2002,2002,27,ligue_1,18,34,0,3,0,5,10,12,4,32,20,DDWDWDDDWDLWWDLDLDLLLDWDWW,5,7,1,17,7,10,7,11,8,32,31,DWDWWDDWDWLWWWWDDWLDLDWWDD,2,4,7,12,21,DWWDDDWDDDLWW,DWWDWWWWDLLWD
+Monaco,Guingamp,3-1,/match/monaco/guingamp/2002,2002,27,ligue_1,18,34,0,3,1,9,8,8,10,27,29,LDWDWWDWWWWWWDWDWDWLWWWWDD,7,5,1,22,10,14,6,8,12,24,42,WWDWWWLDWWWWDDDWWWLLWDLDWD,1,3,9,12,30,LDDWWWWDDWWWD,WDWWDWWDWWWLW
+Auxerre,Nantes,2-1,/match/auxerre/nantes/2002,2002,27,ligue_1,18,34,0,2,1,3,12,10,4,35,25,LDLWDWLDDLDWWWWLWDDDLDWDWL,7,3,2,17,11,15,8,5,13,24,32,WLDLWDWWDWDLWWLLLWWLWDWWWL,3,2,8,6,18,DWWDLWWWDLWW,WDWWWWLWLWLDW
+Metz,Girondins Bordeaux,1-2,/match/metz/bordeaux/2002,2002,27,ligue_1,18,34,2,1,2,18,7,4,15,20,35,WWWLWLLWDLWWWWWDLWDDLLLWWW,5,1,6,13,14,4,11,8,7,26,20,WDDWDWDLWDWWDLLWWDDWLLWWWW,3,4,5,8,11,WLLWLWWLDLLW,DWWLDDLWDLWW
+Stade Rennais,Bastia,2-1,/match/stade-rennes/bastia/2002,2002,27,ligue_1,18,34,0,2,1,16,6,8,12,26,39,LWWWWDDLWWLLWWWDDDWWLWWDDD,5,4,4,16,15,12,9,4,13,28,35,DWLLWLLWWWLWWWLWWWDLDLWWDW,2,3,7,9,22,LWWDLWLWDDLWD,WLLWWWWWDDWD
+Lorient,Troyes,1-0,/match/lorient/troyes/2002,2002,27,ligue_1,18,34,0,1,0,17,6,6,14,35,52,WWLDWDDLLLWWWLWLWLDDWWWWWD,5,2,6,19,19,7,10,6,10,32,30,WWDLLWLLDLWWWLDDWWWWWWWDDL,4,1,7,12,18,WLWDLLWLLLDWW,WLWLLWLWWWWD
+Sochaux,Olympique Lyonnais,2-1,/match/sochaux/olympique-lyonnais/2002,2002,27,ligue_1,18,34,0,2,1,13,8,8,10,32,35,LWWDDWWWDWDLDWWLLDLDLLLWDW,5,2,5,20,16,2,15,5,6,53,27,WWLWLDWWWDDWWLWWWWDLWWWWDW,4,3,6,17,21,WDWWWLWLLLLD,WLLDWDWLWWLWD
+Lille,Olympique,2-0,/match/lillestrom/olympique-marsella/2002,2002,27,ligue_1,18,34,0,2,0,6,11,9,6,30,24,DWDWDWLWDWDWWWWDLLDWLDWWDL,8,2,2,17,9,8,8,9,9,25,29,DDWLWDDWWLDWWDWDWDLWDWWWWW,1,5,7,6,17,WWWWWWWLDLWD,DWWDWLWDDDWWW
+Bastia,PSG,0-1,/match/bastia/paris-saint-germain-fc/2002,2002,28,ligue_1,18,34,2,0,1,14,9,4,14,29,37,DWLLWLLWWWLWWWLWWWDLDLWWDWW,7,1,6,19,13,4,11,12,4,35,20,DDWDWDDDWDLWWDLDLDLLLDWDWWW,5,5,3,15,13,DLWLWLWLWWLLWW,DDDWLWLLLLDDW
+Metz,Lille,0-1,/match/metz/lillestrom/2002,2002,28,ligue_1,18,34,2,0,1,18,7,4,16,21,37,WWWLWLLWDLWWWWWDLWDDLLLWWWL,5,1,7,14,16,5,12,9,6,32,24,DWDWDWLWDWDWWWWDLLDWLDWWDLW,3,7,4,13,15,WLLWLWWLDLLWL,DDDLDDWWDLWDWL
+Olympique Lyonnais,Monaco,1-0,/match/olympique-lyonnais/monaco/2002,2002,28,ligue_1,18,34,0,1,0,2,15,5,7,54,29,WWLWLDWWWDDWWLWWWWDLWWWWDWW,11,2,0,36,6,7,9,8,10,30,30,LDWDWWDWWWWWWDWDWDWLWWWWDDW,1,3,9,5,19,WWWWDWWWDWWWW,WWDWWWWWDLWWD
+Nantes,Sochaux,0-0,/match/nantes/sochaux/2002,2002,28,ligue_1,18,34,1,0,0,16,8,5,14,25,34,WLDLWDWWDWDLWWLLLWWLWDWWWLW,5,3,5,18,14,12,9,8,10,34,36,LWWDDWWWDWDLDWWLLDLDLLLWDWW,3,6,5,12,19,LLDDDWLLWWWWL,LWDWDDDWLDDLWW
+Lens,Stade Rennais,2-0,/match/lens/stade-rennes/2002,2002,28,ligue_1,18,34,0,2,0,1,16,8,3,45,20,WLWLDDWWDLWLDWDWWWLDLDLWWDL,8,6,0,27,6,13,7,8,12,28,40,LWWWWDDLWWLLWWWDDDWWLWWDDDW,1,4,8,10,24,WWDWDWDWWWDDWD,WWDWLWWDWWWDD
+Sedan,Girondins Bordeaux,1-0,/match/sedan/bordeaux/2002,2002,28,ligue_1,18,34,0,1,0,11,7,11,9,32,34,DWDWWDDWDWLWWWWDDWLDLDWWDDW,5,7,1,20,10,6,12,8,7,28,21,WDDWDWDLWDWWDLLWWDDWLLWWWWL,4,4,5,10,12,DWDDLWWDWDDWD,DWWLDDLWDLWWL
+Troyes,Montpellier,2-0,/match/troyes/montpellier-hsc/2002,2002,28,ligue_1,18,34,0,2,0,8,10,6,11,32,31,WWDLLWLLDLWWWLDDWWWWWWWDDLW,6,5,3,20,12,10,7,11,9,23,24,DDWWDWDDLDWWWWDWLDDWLDWDWWL,2,4,7,7,16,WDLLDWWDDWWWDL,DWWDWWDLDLWWW
+Guingamp,Lorient,4-3,/match/guingamp/lorient/2002,2002,28,ligue_1,18,34,0,4,3,15,6,8,13,25,45,WWDWWWLDWWWWDDDWWWLLWDLDWDW,5,5,3,12,12,17,7,6,14,36,52,WWLDWDDLLLWWWLWLWLDDWWWWWDW,1,4,8,16,33,WWLWWDDWLLDDD,WDDLWWWWDWWWD
+Olympique,Auxerre,3-0,/match/olympique-marsella/auxerre/2002,2002,28,ligue_1,18,34,0,3,0,9,8,9,10,25,31,DDWLWDDWWLDWWDWDWDLWDWWWWWW,7,4,2,19,12,3,13,10,4,37,26,LDLWDWLDDLDWWWWLWDDDLDWDWLW,5,7,2,18,14,DLDWDWWWLDWWW,LLDLDDWWLDDDDL
+Stade Rennais,Olympique,2-1,/match/stade-rennes/olympique-marsella/2002,2002,29,ligue_1,18,34,0,2,1,14,7,8,13,28,42,LWWWWDDLWWLLWWWDDDWWLWWDDDWW,6,4,4,18,16,9,9,9,10,28,31,DDWLWDDWWLDWWDWDWDLWDWWWWWWW,1,5,8,6,19,LWWDLWLWDDLWDW,DWWDWLWDDDWWWW
+PSG,Troyes,3-1,/match/paris-saint-germain-fc/troyes/2002,2002,29,ligue_1,18,34,0,3,1,4,12,12,4,36,20,DDWDWDDDWDLWWDLDLDLLLDWDWWWL,6,7,1,20,7,8,11,6,11,34,31,WWDLLWLLDLWWWLDDWWWWWWWDDLWW,4,1,8,12,19,DWWDDDWDDDLWWW,WLWLLWLWWWWDW
+Monaco,Nantes,1-2,/match/monaco/nantes/2002,2002,29,ligue_1,18,34,2,1,2,7,9,8,11,30,31,LDWDWWDWWWWWWDWDWDWLWWWWDDWW,8,5,1,25,11,16,8,6,14,25,34,WLDLWDWWDWDLWWLLLWWLWDWWWLWD,3,2,9,7,20,LDDWWWWDDWWWDW,WDWWWWLWLWLDWW
+Auxerre,Metz,3-2,/match/auxerre/metz/2002,2002,29,ligue_1,18,34,0,3,2,3,13,10,5,37,29,LDLWDWLDDLDWWWWLWDDDLDWDWLWW,8,3,2,19,12,18,7,4,17,21,38,WWWLWLLWDLWWWWWDLWDDLLLWWWLL,2,3,9,7,21,DWWDLWWWDLWWW,WWWLDWWWDWDLWW
+Montpellier,Sedan,0-0,/match/montpellier-hsc/sedan/2002,2002,29,ligue_1,18,34,1,0,0,11,7,11,10,23,26,DDWWDWDDLDWWWWDWLDDWLDWDWWLW,5,7,2,16,8,10,8,11,9,33,34,DWDWWDDWDWLWWWWDDWLDLDWWDDWW,2,4,8,12,24,DWDDLDWWWDWDDL,DWWDWWWWDLLWDW
+Lorient,Bastia,0-0,/match/lorient/bastia/2002,2002,29,ligue_1,18,34,1,0,0,17,7,6,15,39,56,WWLDWDDLLLWWWLWLWLDDWWWWWDWW,6,2,6,20,19,15,9,4,15,29,38,DWLLWLLWWWLWWWLWWWDLDLWWDWWL,2,3,8,10,24,WLWDLLWLLLDWWW,WLLWWWWWDDWDW
+Sochaux,Guingamp,1-0,/match/sochaux/guingamp/2002,2002,29,ligue_1,18,34,0,1,0,12,9,9,10,34,36,LWWDDWWWDWDLDWWLLDLDLLLWDWWD,6,2,5,22,17,13,7,8,13,29,48,WWDWWWLDWWWWDDDWWWLLWDLDWDWW,1,3,10,13,33,WDWWWLWLLLLDW,WDWWDWWDWWWLWW
+Lille,Olympique Lyonnais,2-0,/match/lillestrom/olympique-lyonnais/2002,2002,29,ligue_1,18,34,0,2,0,5,13,9,6,33,24,DWDWDWLWDWDWWWWDLLDWLDWWDLWL,9,2,2,19,9,2,16,5,7,55,29,WWLWLDWWWDDWWLWWWWDLWWWWDWWW,4,3,7,18,23,WWWWWWWLDLWDW,WLLDWDWLWWLWDW
+Girondins Bordeaux,Lens,2-1,/match/bordeaux/lens/2002,2002,29,ligue_1,18,34,0,2,1,6,12,8,8,28,22,WDDWDWDLWDWWDLLWWDDWLLWWWWLW,8,4,2,18,9,1,17,8,3,47,20,WLWLDDWWDLWLDWDWWWLDLDLWWDLW,8,2,3,18,14,WDDDWWWLWDWLWW,LLDWLLDWLLLWL
+Guingamp,PSG,0-1,/match/guingamp/paris-saint-germain-fc/2002,2002,30,ligue_1,18,34,2,0,1,14,7,8,14,29,49,WWDWWWLDWWWWDDDWWWLLWDLDWDWWW,6,5,3,16,15,4,13,12,4,39,21,DDWDWDDDWDLWWDLDLDLLLDWDWWWLW,6,5,3,16,13,WWLWWDDWLLDDDW,DDDWLWLLLLDDWL
+Metz,Sochaux,2-0,/match/metz/sochaux/2002,2002,30,ligue_1,18,34,0,2,0,18,7,4,18,23,41,WWWLWLLWDLWWWWWDLWDDLLLWWWLLW,5,1,8,14,17,11,10,9,10,35,36,LWWDDWWWDWDLDWWLLDLDLLLWDWWDW,3,7,5,12,19,WLLWLWWLDLLWLL,LWDWDDDWLDDLWWD
+Olympique Lyonnais,Lorient,2-0,/match/olympique-lyonnais/lorient/2002,2002,30,ligue_1,18,34,0,2,0,2,16,5,8,55,31,WWLWLDWWWDDWWLWWWWDLWWWWDWWWW,12,2,0,37,6,17,7,7,15,39,56,WWLDWDDLLLWWWLWLWLDDWWWWWDWWD,1,4,9,19,37,WWWWDWWWDWWWWW,WDDLWWWWDWWWDW
+Bastia,Montpellier,3-0,/match/bastia/montpellier-hsc/2002,2002,30,ligue_1,18,34,0,3,0,15,9,5,15,29,38,DWLLWLLWWWLWWWLWWWDLDLWWDWWLD,7,1,7,19,14,12,7,12,10,23,26,DDWWDWDDLDWWWWDWLDDWLDWDWWLWD,2,4,8,7,18,DLWLWLWLWWLLWWL,DWWDWWDLDLWWWW
+Nantes,Stade Rennais,3-1,/match/nantes/stade-rennes/2002,2002,30,ligue_1,18,34,0,3,1,16,9,6,14,27,35,WLDLWDWWDWDLWWLLLWWLWDWWWLWDL,5,4,5,18,14,13,8,8,13,30,43,LWWWWDDLWWLLWWWDDDWWLWWDDDWWW,1,4,9,10,26,LLDDDWLLWWWWLD,WWDWLWWDWWWDDW
+Sedan,Lens,1-1,/match/sedan/lens/2002,2002,30,ligue_1,18,34,1,1,1,8,8,12,9,33,34,DWDWWDDWDWLWWWWDDWLDLDWWDDWWD,6,7,1,21,10,1,17,8,4,48,22,WLWLDDWWDLWLDWDWWWLDLDLWWDLWW,8,2,4,19,16,DWDDLWWDWDDWDW,LLDWLLDWLLLWLW
+Troyes,Girondins Bordeaux,2-0,/match/troyes/bordeaux/2002,2002,30,ligue_1,18,34,0,2,0,9,11,6,12,35,34,WWDLLWLLDLWWWLDDWWWWWWWDDLWWW,7,5,3,22,12,6,13,8,8,30,23,WDDWDWDLWDWWDLLWWDDWLLWWWWLWW,4,4,6,10,13,WDLLDWWDDWWWDLW,DWWLDDLWDLWWLW
+Lille,Auxerre,2-3,/match/lillestrom/auxerre/2002,2002,30,ligue_1,18,34,2,2,3,5,14,9,6,35,24,DWDWDWLWDWDWWWWDLLDWLDWWDLWLW,10,2,2,21,9,3,14,10,5,40,31,LDLWDWLDDLDWWWWLWDDDLDWDWLWWW,5,7,3,18,17,WWWWWWWLDLWDWW,LLDLDDWWLDDDDLW
+Olympique,Monaco,1-1,/match/olympique-marsella/monaco/2002,2002,30,ligue_1,18,34,1,1,1,7,9,9,11,29,33,DDWLWDDWWLDWWDWDWDLWDWWWWWWWW,8,4,2,22,12,10,9,8,12,31,33,LDWDWWDWWWWWWDWDWDWLWWWWDDWWL,1,3,10,5,20,DLDWDWWWLDWWWW,WWDWWWWWDLWWDW
+Lens,Troyes,0-0,/match/lens/troyes/2002,2002,31,ligue_1,18,34,1,0,0,1,17,9,4,49,23,WLWLDDWWDLWLDWDWWWLDLDLWWDLWWD,9,6,0,29,6,7,12,6,12,37,34,WWDLLWLLDLWWWLDDWWWWWWWDDLWWWW,4,1,9,13,22,WWDWDWDWWWDDWDW,WLWLLWLWWWWDWW
+PSG,Nantes,1-1,/match/paris-saint-germain-fc/nantes/2002,2002,31,ligue_1,18,34,1,1,1,4,14,12,4,40,21,DDWDWDDDWDLWWDLDLDLLLDWDWWWLWL,7,7,1,23,8,15,10,6,14,30,36,WLDLWDWWDWDLWWLLLWWLWDWWWLWDLW,4,2,9,9,21,DWWDDDWDDDLWWWW,WDWWWWLWLWLDWWL
+Monaco,Metz,2-2,/match/monaco/metz/2002,2002,31,ligue_1,18,34,1,2,2,10,9,9,12,32,34,LDWDWWDWWWWWWDWDWDWLWWWWDDWWLD,8,5,2,26,13,18,8,4,18,25,41,WWWLWLLWDLWWWWWDLWDDLLLWWWLLWW,2,3,10,9,24,LDDWWWWDDWWWDWL,WWWLDWWWDWDLWWW
+Girondins Bordeaux,Bastia,2-1,/match/bordeaux/bastia/2002,2002,31,ligue_1,18,34,0,2,1,6,13,8,9,30,25,WDDWDWDLWDWWDLLWWDDWLLWWWWLWWW,9,4,2,20,10,14,10,5,15,32,38,DWLLWLLWWWLWWWLWWWDLDLWWDWWLDW,2,4,8,10,24,WDDDWWWLWDWLWWW,WLLWWWWWDDWDWD
+Stade Rennais,Lille,4-0,/match/stade-rennes/lillestrom/2002,2002,31,ligue_1,18,34,0,4,0,13,8,8,14,31,46,LWWWWDDLWWLLWWWDDDWWLWWDDDWWWW,7,4,4,20,17,5,14,9,7,37,27,DWDWDWLWDWDWWWWDLLDWLDWWDLWLWL,4,7,4,14,15,LWWDLWLWDDLWDWW,DDDLDDWWDLWDWLL
+Montpellier,Guingamp,2-1,/match/montpellier-hsc/guingamp/2002,2002,31,ligue_1,18,34,0,2,1,12,7,12,11,23,29,DDWWDWDDLDWWWWDWLDDWLDWDWWLWDW,5,8,2,16,8,16,7,8,15,29,50,WWDWWWLDWWWWDDDWWWLLWDLDWDWWWL,1,3,11,13,34,DWDDLDWWWDWDDLD,WDWWDWWDWWWLWWW
+Lorient,Sedan,1-1,/match/lorient/sedan/2002,2002,31,ligue_1,18,34,1,1,1,17,7,7,16,39,58,WWLDWDDLLLWWWLWLWLDDWWWWWDWWDW,6,3,6,20,19,9,8,13,9,34,35,DWDWWDDWDWLWWWWDDWLDLDWWDDWWDD,2,5,8,12,24,WLWDLLWLLLDWWWD,DWWDWWWWDLLWDWD
+Sochaux,Olympique,3-0,/match/sochaux/olympique-marsella/2002,2002,31,ligue_1,18,34,0,3,0,11,10,9,11,35,38,LWWDDWWWDWDLDWWLLDLDLLLWDWWDWW,7,2,5,23,17,8,9,10,11,30,34,DDWLWDDWWLDWWDWDWDLWDWWWWWWWWD,1,5,9,7,21,WDWWWLWLLLLDWW,DWWDWLWDDDWWWWW
+Auxerre,Olympique Lyonnais,0-1,/match/auxerre/olympique-lyonnais/2002,2002,31,ligue_1,18,34,2,0,1,3,15,10,5,43,33,LDLWDWLDDLDWWWWLWDDDLDWDWLWWWL,9,3,2,22,14,2,17,5,8,57,31,WWLWLDWWWDDWWLWWWWDLWWWWDWWWWW,4,3,8,18,25,DWWDLWWWDLWWWW,WLLDWDWLWWLWDWW
+Olympique,PSG,1-0,/match/olympique-marsella/paris-saint-germain-fc/2002,2002,32,ligue_1,18,34,0,1,0,10,9,10,12,30,37,DDWLWDDWWLDWWDWDWDLWDWWWWWWWWDW,8,5,2,23,13,3,14,13,4,41,22,DDWDWDDDWDLWWDLDLDLLLDWDWWWLWLD,7,5,3,17,13,DLDWDWWWLDWWWWD,DDDWLWLLLLDDWLL
+Auxerre,Sochaux,2-0,/match/auxerre/sochaux/2002,2002,32,ligue_1,18,34,0,2,0,4,15,10,6,43,34,LDLWDWLDDLDWWWWLWDDDLDWDWLWWWLL,9,3,3,22,15,11,11,9,11,38,38,LWWDDWWWDWDLDWWLLDLDLLLWDWWDWWW,3,7,6,12,21,DWWDLWWWDLWWWWL,LWDWDDDWLDDLWWDW
+Metz,Stade Rennais,3-1,/match/metz/stade-rennes/2002,2002,32,ligue_1,18,34,0,3,1,18,8,5,18,27,43,WWWLWLLWDLWWWWWDLWDDLLLWWWLLWWD,6,1,8,16,17,13,9,8,14,35,46,LWWWWDDLWWLLWWWDDDWWLWWDDDWWWWW,1,4,10,11,29,WLLWLWWLDLLWLLW,WWDWLWWDWWWDDWW
+Olympique Lyonnais,Montpellier,0-0,/match/olympique-lyonnais/montpellier-hsc/2002,2002,32,ligue_1,18,34,1,0,0,2,18,5,8,58,31,WWLWLDWWWDDWWLWWWWDLWWWWDWWWWWL,13,2,0,39,6,12,8,12,11,25,30,DDWWDWDDLDWWWWDWLDDWLDWDWWLWDWW,2,4,9,7,21,WWWWDWWWDWWWWWW,DWWDWWDLDLWWWWW
+Bastia,Lens,3-1,/match/bastia/lens/2002,2002,32,ligue_1,18,34,0,3,1,15,10,5,16,33,40,DWLLWLLWWWLWWWLWWWDLDLWWDWWLDWW,8,1,7,22,14,1,17,10,4,49,23,WLWLDDWWDLWLDWDWWWLDLDLWWDLWWDD,8,3,4,20,17,DLWLWLWLWWLLWWLW,LLDWLLDWLLLWLWD
+Nantes,Lorient,2-0,/match/nantes/lorient/2002,2002,32,ligue_1,18,34,0,2,0,14,10,7,14,31,37,WLDLWDWWDWDLWWLLLWWLWDWWWLWDLWD,6,4,5,21,15,17,7,8,16,40,59,WWLDWDDLLLWWWLWLWLDDWWWWWDWWDWD,1,4,10,19,39,LLDDDWLLWWWWLDW,WDDLWWWWDWWWDWW
+Sedan,Troyes,0-0,/match/sedan/troyes/2002,2002,32,ligue_1,18,34,1,0,0,8,8,14,9,35,36,DWDWWDDWDWLWWWWDDWLDLDWWDDWWDDD,6,8,1,22,11,7,12,7,12,37,34,WWDLLWLLDLWWWLDDWWWWWWWDDLWWWWD,4,2,9,13,22,DWDDLWWDWDDWDWD,WLWLLWLWWWWDWWD
+Guingamp,Girondins Bordeaux,2-1,/match/guingamp/bordeaux/2002,2002,32,ligue_1,18,34,0,2,1,16,7,8,16,30,52,WWDWWWLDWWWWDDDWWWLLWDLDWDWWWLW,6,5,4,16,16,5,14,8,9,32,26,WDDWDWDLWDWWDLLWWDDWLLWWWWLWWWW,4,4,7,10,15,WWLWWDDWLLDDDWL,DWWLDDLWDLWWLWW
+Lille,Monaco,1-1,/match/lillestrom/monaco/2002,2002,32,ligue_1,18,34,1,1,1,6,14,9,8,37,31,DWDWDWLWDWDWWWWDLLDWLDWWDLWLWLW,10,2,3,23,12,9,9,10,12,34,36,LDWDWWDWWWWWWDWDWDWLWWWWDDWWLDD,1,4,10,6,21,WWWWWWWLDLWDWWL,WWDWWWWWDLWWDWD
+PSG,Metz,2-0,/match/paris-saint-germain-fc/metz/2002,2002,33,ligue_1,18,34,0,2,0,4,14,13,5,41,23,DDWDWDDDWDLWWDLDLDLLLDWDWWWLWLDW,7,8,1,24,9,18,9,5,18,30,44,WWWLWLLWDLWWWWWDLWDDLLLWWWLLWWDW,2,4,10,11,26,DWWDDDWDDDLWWWWD,WWWLDWWWDWDLWWWD
+Monaco,Auxerre,1-1,/match/monaco/auxerre/2002,2002,33,ligue_1,18,34,1,1,1,10,9,11,12,35,37,LDWDWWDWWWWWWDWDWDWLWWWWDDWWLDDD,8,6,2,28,15,3,16,10,6,45,34,LDLWDWLDDLDWWWWLWDDDLDWDWLWWWLLW,6,7,3,21,19,LDDWWWWDDWWWDWLD,LLDLDDWWLDDDDLWL
+Girondins Bordeaux,Olympique Lyonnais,0-1,/match/bordeaux/olympique-lyonnais/2002,2002,33,ligue_1,18,34,2,0,1,6,14,8,10,33,28,WDDWDWDLWDWWDLLWWDDWLLWWWWLWWWWW,10,4,2,22,11,1,18,6,8,58,31,WWLWLDWWWDDWWLWWWWDLWWWWDWWWWWLD,5,3,8,19,25,WDDDWWWLWDWLWWWW,WLLDWDWLWWLWDWWL
+Lens,Guingamp,4-1,/match/lens/guingamp/2002,2002,33,ligue_1,18,34,0,4,1,2,17,10,5,50,26,WLWLDDWWDLWLDWDWWWLDLDLWWDLWWDDW,9,7,0,29,6,16,8,8,16,32,53,WWDWWWLDWWWWDDDWWWLLWDLDWDWWWLWW,1,3,12,14,36,WWDWDWDWWWDDWDWD,WDWWDWWDWWWLWWWW
+Stade Rennais,Sedan,1-0,/match/stade-rennes/sedan/2002,2002,33,ligue_1,18,34,0,1,0,14,9,8,15,36,49,LWWWWDDLWWLLWWWDDDWWLWWDDDWWWWWW,8,4,4,24,17,9,8,15,9,35,36,DWDWWDDWDWLWWWWDDWLDLDWWDDWWDDDD,2,6,8,13,25,LWWDLWLWDDLWDWWW,DWWDWWWWDLLWDWDD
+Montpellier,Nantes,3-0,/match/montpellier-hsc/nantes/2002,2002,33,ligue_1,18,34,0,3,0,12,8,13,11,25,30,DDWWDWDDLDWWWWDWLDDWLDWDWWLWDWWD,6,8,2,18,9,13,11,7,14,33,37,WLDLWDWWDWDLWWLLLWWLWDWWWLWDLWDW,4,3,9,10,22,DWDDLDWWWDWDDLDW,WDWWWWLWLWLDWWLD
+Troyes,Bastia,3-0,/match/troyes/bastia/2002,2002,33,ligue_1,18,34,0,3,0,8,12,8,12,37,34,WWDLLWLLDLWWWLDDWWWWWWWDDLWWWWDD,8,5,3,24,12,15,11,5,16,36,41,DWLLWLLWWWLWWWLWWWDLDLWWDWWLDWWW,2,4,9,11,26,WDLLDWWDDWWWDLWW,WLLWWWWWDDWDWDW
+Lorient,Olympique,2-2,/match/lorient/olympique-marsella/2002,2002,33,ligue_1,18,34,1,2,2,17,7,8,17,40,61,WWLDWDDLLLWWWLWLWLDDWWWWWDWWDWDW,6,4,6,21,20,7,10,10,12,31,37,DDWLWDDWWLDWWDWDWDLWDWWWWWWWWDWW,1,5,10,7,24,WLWDLLWLLLDWWWDD,DWWDWLWDDDWWWWWW
+Sochaux,Lille,0-0,/match/sochaux/lillestrom/2002,2002,33,ligue_1,18,34,1,0,0,11,11,9,12,38,40,LWWDDWWWDWDLDWWLLDLDLLLWDWWDWWWW,8,2,5,26,17,5,14,10,8,38,32,DWDWDWLWDWDWWWWDLLDWLDWWDLWLWLWD,4,7,5,14,19,WDWWWLWLLLLDWWW,DDDLDDWWDLWDWLLW
+Auxerre,Stade Rennais,2-3,/match/auxerre/stade-rennes/2002,2002,34,ligue_1,18,34,2,2,3,4,16,11,6,46,35,LDLWDWLDDLDWWWWLWDDDLDWDWLWWWLLWD,10,3,3,24,15,13,10,8,15,37,49,LWWWWDDLWWLLWWWDDDWWLWWDDDWWWWWWW,1,4,11,12,32,DWWDLWWWDLWWWWLW,WWDWLWWDWWWDDWWW
+Metz,Lorient,1-1,/match/metz/lorient/2002,2002,34,ligue_1,18,34,1,1,1,18,9,5,19,30,46,WWWLWLLWDLWWWWWDLWDDLLLWWWLLWWDWW,7,1,8,19,18,17,7,9,17,42,63,WWLDWDDLLLWWWLWLWLDDWWWWWDWWDWDWD,1,4,11,19,41,WLLWLWWLDLLWLLWW,WDDLWWWWDWWWDWWW
+Olympique Lyonnais,Lens,3-1,/match/olympique-lyonnais/lens/2002,2002,34,ligue_1,18,34,0,3,1,1,19,6,8,59,31,WWLWLDWWWDDWWLWWWWDLWWWWDWWWWWLDL,13,3,0,39,6,2,18,10,5,54,27,WLWLDDWWDLWLDWDWWWLDLDLWWDLWWDDWW,8,3,5,21,20,WWWWDWWWDWWWWWWD,LLDWLLDWLLLWLWDW
+Nantes,Girondins Bordeaux,2-1,/match/nantes/bordeaux/2002,2002,34,ligue_1,18,34,0,2,1,14,11,7,15,33,40,WLDLWDWWDWDLWWLLLWWLWDWWWLWDLWDWW,7,4,5,23,15,6,14,8,11,33,29,WDDWDWDLWDWWDLLWWDDWLLWWWWLWWWWWL,4,4,8,11,17,LLDDDWLLWWWWLDWW,DWWLDDLWDLWWLWWW
+Olympique,Montpellier,1-0,/match/olympique-marsella/montpellier-hsc/2002,2002,34,ligue_1,18,34,0,1,0,8,10,11,12,33,39,DDWLWDDWWLDWWDWDWDLWDWWWWWWWWDWWD,9,5,2,24,13,9,9,13,11,28,30,DDWWDWDDLDWWWWDWLDDWLDWDWWLWDWWDW,2,5,9,7,21,DLDWDWWWLDWWWWDW,DWWDWWDLDLWWWWWD
+Sedan,Bastia,0-2,/match/sedan/bastia/2002,2002,34,ligue_1,18,34,2,0,2,11,8,15,10,35,37,DWDWWDDWDWLWWWWDDWLDLDWWDDWWDDDDW,6,9,1,22,11,15,11,5,17,36,44,DWLLWLLWWWLWWWLWWWDLDLWWDWWLDWWWW,2,4,10,11,29,DWDDLWWDWDDWDWDD,WLLWWWWWDDWDWDWW
+Sochaux,Monaco,3-0,/match/sochaux/monaco/2002,2002,34,ligue_1,18,34,0,3,0,12,11,10,12,38,40,LWWDDWWWDWDLDWWLLDLDLLLWDWWDWWWWD,8,3,5,26,17,10,9,12,12,36,38,LDWDWWDWWWWWWDWDWDWLWWWWDDWWLDDDD,1,5,10,7,22,WDWWWLWLLLLDWWWD,WWDWWWWWDLWWDWDD
+Guingamp,Troyes,1-0,/match/guingamp/troyes/2002,2002,34,ligue_1,18,34,0,1,0,16,8,8,17,33,57,WWDWWWLDWWWWDDDWWWLLWDLDWDWWWLWWW,7,5,4,18,17,7,13,8,12,40,34,WWDLLWLLDLWWWLDDWWWWWWWDDLWWWWDDW,4,3,9,13,22,WWLWWDDWLLDDDWLW,WLWLLWLWWWWDWWDD
+Lille,PSG,1-0,/match/lillestrom/paris-saint-germain-fc/2002,2002,34,ligue_1,18,34,0,1,0,5,14,11,8,38,32,DWDWDWLWDWDWWWWDLLDWLDWWDLWLWLWDD,10,3,3,24,13,3,15,13,5,43,23,DDWDWDDDWDLWWDLDLDLLLDWDWWWLWLDWW,7,5,4,17,14,WWWWWWWLDLWDWWLD,DDDWLWLLLLDDWLLW

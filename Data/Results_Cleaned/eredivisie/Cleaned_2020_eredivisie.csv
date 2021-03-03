@@ -1,0 +1,233 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+PEC Zwolle,Willem II,1-3,/match/fc-zwolle/willem-ii/2020,2020,1,eredivisie,18,26,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitesse,Ajax,2-2,/match/vitesse/ajax/2020,2020,1,eredivisie,18,26,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Emmen,Groningen,0-1,/match/emmen/fc-groningen/2020,2020,1,eredivisie,18,26,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+VVV Venlo,RKC Waalwijk,3-1,/match/vvv/rkc-waalwijk/2020,2020,1,eredivisie,18,26,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Twente 1965,PSV,1-1,/match/fc-twente-1965/psv/2020,2020,1,eredivisie,18,26,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Heracles,Heerenveen,0-4,/match/heracles/heerenveen/2020,2020,1,eredivisie,18,26,2,0,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Feyenoord,Sparta Rotterdam,2-2,/match/feyenoord/sparta-rotterdam/2020,2020,1,eredivisie,18,26,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+ADO Den Haag,Utrecht,2-4,/match/ado-den-haag/fc-utrecht/2020,2020,1,eredivisie,18,26,2,2,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+AZ Alkmaar,Fortuna Sittard,4-0,/match/az/fortuna-sittard/2020,2020,1,eredivisie,18,26,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sparta Rotterdam,VVV Venlo,4-1,/match/sparta-rotterdam/vvv/2020,2020,2,eredivisie,18,26,0,4,1,11,0,1,0,2,2,D,0,0,0,0,0,1,1,0,0,3,1,W,0,0,0,0,0,,
+Groningen,Twente 1965,1-3,/match/fc-groningen/fc-twente-1965/2020,2020,2,eredivisie,18,26,2,1,3,3,1,0,0,1,0,L,0,0,0,0,0,4,0,1,0,1,1,D,0,0,0,0,0,,
+Ajax,Emmen,5-0,/match/ajax/emmen/2020,2020,2,eredivisie,18,26,0,5,0,12,0,1,0,2,2,D,0,0,0,0,0,18,0,0,1,0,1,L,0,0,0,0,0,,
+Willem II,Vitesse,0-2,/match/willem-ii/vitesse/2020,2020,2,eredivisie,18,26,2,0,2,8,1,0,0,3,1,L,0,0,0,0,0,5,0,1,0,2,2,D,0,0,0,0,0,,
+Fortuna Sittard,Heracles,1-1,/match/fortuna-sittard/heracles/2020,2020,2,eredivisie,18,26,1,1,1,17,0,0,1,0,4,W,0,0,0,0,0,15,0,0,1,0,4,L,0,0,0,0,0,,
+Heerenveen,Feyenoord,1-1,/match/heerenveen/feyenoord/2020,2020,2,eredivisie,18,26,1,1,1,6,1,0,0,4,0,L,0,0,0,0,0,7,0,1,0,2,2,D,0,0,0,0,0,,
+RKC Waalwijk,AZ Alkmaar,0-2,/match/rkc-waalwijk/az/2020,2020,2,eredivisie,18,26,2,0,2,14,0,0,1,1,3,W,0,0,0,0,0,2,1,0,0,4,0,W,0,0,0,0,0,,
+Utrecht,PEC Zwolle,3-1,/match/fc-utrecht/fc-zwolle/2020,2020,2,eredivisie,18,26,0,3,1,9,1,0,0,4,2,L,0,0,0,0,0,16,0,0,1,1,3,L,0,0,0,0,0,,
+PSV,ADO Den Haag,3-1,/match/psv/ado-den-haag/2020,2020,2,eredivisie,18,26,0,3,1,10,0,1,0,1,1,D,0,0,0,0,0,13,0,0,1,2,4,L,0,0,0,0,0,,
+Vitesse,PEC Zwolle,3-0,/match/vitesse/fc-zwolle/2020,2020,3,eredivisie,18,26,0,3,0,8,1,1,0,4,2,DL,0,1,0,2,2,17,0,0,2,2,6,LW,0,0,1,1,3,D,W
+VVV Venlo,Ajax,1-4,/match/vvv/ajax/2020,2020,3,eredivisie,18,26,2,1,4,6,1,0,1,4,5,WW,1,0,0,3,1,4,1,1,0,7,2,DW,0,1,0,2,2,W,D
+ADO Den Haag,Sparta Rotterdam,1-2,/match/ado-den-haag/sparta-rotterdam/2020,2020,3,eredivisie,18,26,2,1,2,15,0,0,2,3,7,LW,0,0,1,2,4,5,1,1,0,6,3,DW,0,1,0,2,2,L,D
+Emmen,Heerenveen,2-0,/match/emmen/heerenveen/2020,2020,3,eredivisie,18,26,0,2,0,18,0,0,2,0,6,LW,0,0,1,0,1,7,1,1,0,5,1,LD,1,0,0,4,0,L,L
+Fortuna Sittard,Willem II,2-3,/match/fortuna-sittard/willem-ii/2020,2020,3,eredivisie,18,26,2,2,3,13,0,1,1,1,5,WD,0,1,0,1,1,11,1,0,1,3,3,LL,1,0,0,3,1,D,L
+Twente 1965,RKC Waalwijk,3-3,/match/fc-twente-1965/rkc-waalwijk/2020,2020,3,eredivisie,18,26,1,3,3,9,1,1,0,4,2,DL,0,1,0,1,1,16,0,0,2,1,5,WL,0,0,1,1,3,D,W
+Feyenoord,Utrecht,1-1,/match/feyenoord/fc-utrecht/2020,2020,3,eredivisie,18,26,1,1,1,10,0,2,0,3,3,DD,0,1,0,2,2,1,2,0,0,7,3,LW,1,0,0,4,2,D,L
+AZ Alkmaar,Groningen,0-0,/match/az/fc-groningen/2020,2020,3,eredivisie,18,26,1,0,0,2,2,0,0,6,0,WL,1,0,0,4,0,12,1,0,1,2,3,LL,1,0,0,1,0,W,L
+Heracles,PSV,0-2,/match/heracles/psv/2020,2020,3,eredivisie,18,26,2,0,2,14,0,1,1,1,5,LD,0,0,1,0,4,3,1,1,0,4,2,DW,0,1,0,1,1,L,D
+Willem II,Emmen,2-1,/match/willem-ii/emmen/2020,2020,4,eredivisie,18,26,0,2,1,11,2,0,1,6,5,LLL,0,0,1,0,2,12,1,0,2,2,6,LWW,0,0,1,0,5,L,W
+Heracles,Vitesse,1-1,/match/heracles/vitesse/2020,2020,4,eredivisie,18,26,1,1,1,15,0,1,2,1,7,LDL,0,0,2,0,6,1,2,1,0,7,2,DLW,1,0,0,2,0,LL,L
+Heerenveen,Twente 1965,0-0,/match/heerenveen/fc-twente-1965/2020,2020,4,eredivisie,18,26,1,0,0,9,1,1,1,5,3,LDW,0,1,0,1,1,7,1,2,0,7,5,DLD,1,0,0,3,1,D,L
+RKC Waalwijk,ADO Den Haag,0-3,/match/rkc-waalwijk/ado-den-haag/2020,2020,4,eredivisie,18,26,2,0,3,16,0,1,2,4,8,WLD,0,0,1,0,2,17,0,0,3,4,9,LWL,0,0,1,1,3,L,W
+Utrecht,VVV Venlo,1-2,/match/fc-utrecht/vvv/2020,2020,4,eredivisie,18,26,2,1,2,3,2,1,0,8,4,LWD,1,0,0,3,1,10,1,0,2,5,9,WWL,0,0,1,1,4,W,W
+PEC Zwolle,Sparta Rotterdam,2-2,/match/fc-zwolle/sparta-rotterdam/2020,2020,4,eredivisie,18,26,1,2,2,18,0,0,3,2,9,LWW,0,0,1,1,3,6,2,1,0,8,4,DWL,1,1,0,4,3,L,DL
+PSV,Groningen,3-1,/match/psv/fc-groningen/2020,2020,4,eredivisie,18,26,0,3,1,4,2,1,0,6,2,DWL,1,0,0,3,1,13,1,1,1,2,3,LLD,1,1,0,1,0,W,LD
+Ajax,Fortuna Sittard,5-0,/match/ajax/fortuna-sittard/2020,2020,4,eredivisie,18,26,0,5,0,5,2,1,0,11,3,DWL,1,0,0,5,0,14,0,1,2,3,8,WDL,0,0,1,0,4,W,W
+Feyenoord,AZ Alkmaar,0-3,/match/feyenoord/az/2020,2020,4,eredivisie,18,26,2,0,3,8,0,3,0,4,4,DDD,0,2,0,3,3,2,2,1,0,6,0,WLD,1,0,0,2,0,DD,L
+Emmen,PEC Zwolle,1-3,/match/emmen/fc-zwolle/2020,2020,5,eredivisie,18,26,2,1,3,12,1,0,3,3,8,LWWW,1,0,1,2,1,17,0,1,3,4,11,LWWD,0,0,2,1,6,LW,WW
+Heerenveen,Fortuna Sittard,1-1,/match/heerenveen/fortuna-sittard/2020,2020,5,eredivisie,18,26,1,1,1,10,1,2,1,5,3,LDWD,0,2,0,1,1,15,0,1,3,3,13,WDLW,0,0,2,0,9,DD,WW
+Groningen,Heracles,1-2,/match/fc-groningen/heracles/2020,2020,5,eredivisie,18,26,2,1,2,13,1,1,2,3,6,LLDW,0,0,1,1,3,14,0,2,2,2,8,LDLD,0,1,0,1,1,L,D
+ADO Den Haag,VVV Venlo,1-0,/match/ado-den-haag/vvv/2020,2020,5,eredivisie,18,26,0,1,0,16,1,0,3,7,9,LWLL,0,0,2,3,6,9,2,0,2,7,10,WWLL,1,0,1,3,5,LL,WL
+Twente 1965,Utrecht,3-1,/match/fc-twente-1965/fc-utrecht/2020,2020,5,eredivisie,18,26,0,3,1,8,1,3,0,7,5,DLDD,0,2,0,4,4,7,2,1,1,9,6,LWDL,1,1,0,5,3,DD,LD
+Sparta Rotterdam,Ajax,1-4,/match/sparta-rotterdam/ajax/2020,2020,5,eredivisie,18,26,2,1,4,5,2,2,0,10,6,DWLD,1,0,0,4,1,2,3,1,0,16,3,DWLW,1,1,0,6,3,W,DL
+Willem II,Feyenoord,0-1,/match/willem-ii/feyenoord/2020,2020,5,eredivisie,18,26,2,0,1,6,3,0,1,8,6,LLLW,1,0,1,2,3,11,0,3,1,4,7,DDDL,0,1,0,1,1,LW,D
+Vitesse,AZ Alkmaar,2-1,/match/vitesse/az/2020,2020,5,eredivisie,18,26,0,2,1,4,2,2,0,8,3,DLWD,1,1,0,5,2,3,3,1,0,9,0,WLDL,2,0,0,5,0,DW,LL
+RKC Waalwijk,PSV,1-3,/match/rkc-waalwijk/psv/2020,2020,5,eredivisie,18,26,2,1,3,18,0,1,3,4,11,WLDL,0,0,2,0,5,1,3,1,0,9,3,DWLW,1,1,0,3,1,LL,DL
+AZ Alkmaar,Sparta Rotterdam,5-1,/match/az/sparta-rotterdam/2020,2020,6,eredivisie,18,26,0,5,1,5,3,1,1,10,2,WLDLW,1,1,0,4,0,8,2,2,1,11,10,DWLDL,1,2,0,6,5,WD,DLD
+Ajax,Heerenveen,4-1,/match/ajax/heerenveen/2020,2020,6,eredivisie,18,26,0,4,1,3,4,1,0,20,4,DWLWL,2,0,0,10,0,6,1,3,1,6,4,LDWDD,1,0,1,4,2,WW,LW
+VVV Venlo,Groningen,2-1,/match/vvv/fc-groningen/2020,2020,6,eredivisie,18,26,0,2,1,11,2,0,3,7,11,WWLLW,1,0,1,4,5,16,1,1,3,4,8,LLDWL,1,1,1,2,3,WL,LDW
+PSV,Vitesse,5-0,/match/psv/vitesse/2020,2020,6,eredivisie,18,26,0,5,0,1,4,1,0,12,4,DWLWL,2,0,0,6,2,2,3,2,0,10,4,DLWDW,1,1,0,3,1,WW,LD
+Utrecht,Emmen,3-1,/match/fc-utrecht/emmen/2020,2020,6,eredivisie,18,26,0,3,1,9,2,1,2,10,9,LWDLW,1,0,1,4,3,14,1,0,4,4,11,LWWWL,0,0,2,1,7,WL,WW
+PEC Zwolle,RKC Waalwijk,6-2,/match/fc-zwolle/rkc-waalwijk/2020,2020,6,eredivisie,18,26,0,6,2,15,1,1,3,7,12,LWWDL,0,1,1,3,5,18,0,1,4,5,14,WLDLL,0,1,1,4,6,LD,WD
+Feyenoord,ADO Den Haag,3-2,/match/feyenoord/ado-den-haag/2020,2020,6,eredivisie,18,26,0,3,2,10,1,3,1,5,7,DDDLL,0,2,1,3,6,12,2,0,3,8,9,LWLLW,1,0,1,4,3,DDL,WL
+Heracles,Willem II,4-1,/match/heracles/willem-ii/2020,2020,6,eredivisie,18,26,0,4,1,13,1,2,2,4,9,LDLDL,0,1,2,1,7,7,3,0,2,8,7,LLLWL,2,0,0,6,3,LLD,LL
+Fortuna Sittard,Twente 1965,2-3,/match/fortuna-sittard/fc-twente-1965/2020,2020,6,eredivisie,18,26,2,2,3,17,0,2,3,4,14,WDLWD,0,1,1,3,4,4,2,3,0,10,6,DLDDW,1,1,0,3,1,DL,LD
+Twente 1965,Heracles,2-3,/match/fc-twente-1965/heracles/2020,2020,7,eredivisie,18,26,2,2,3,4,3,3,0,13,8,DLDDWL,1,2,0,7,5,9,2,2,2,8,10,LDLDLW,1,1,0,3,2,DDW,DL
+Sparta Rotterdam,RKC Waalwijk,4-0,/match/sparta-rotterdam/rkc-waalwijk/2020,2020,7,eredivisie,18,26,0,4,0,10,2,2,2,12,15,DWLDLW,1,0,1,5,5,18,0,1,5,7,20,WLDLLW,0,1,2,6,12,WL,WDW
+Willem II,VVV Venlo,1-0,/match/willem-ii/vvv/2020,2020,7,eredivisie,18,26,0,1,0,11,3,0,3,9,11,LLLWLW,1,0,2,2,4,8,3,0,3,9,12,WWLLWW,1,0,2,3,6,LWL,WLW
+Groningen,PEC Zwolle,2-0,/match/fc-groningen/fc-zwolle/2020,2020,7,eredivisie,18,26,0,2,0,16,1,1,4,5,10,LLDWLW,0,0,2,2,5,13,2,1,3,13,14,LWWDLW,1,0,2,4,7,LL,WWL
+Vitesse,Fortuna Sittard,4-2,/match/vitesse/fortuna-sittard/2020,2020,7,eredivisie,18,26,0,4,2,5,3,2,1,10,9,DLWDWW,2,1,0,7,3,17,0,2,4,6,17,WDLWDL,0,1,2,1,10,DWW,WWD
+Heerenveen,Utrecht,1-1,/match/heerenveen/fc-utrecht/2020,2020,7,eredivisie,18,26,1,1,1,12,1,3,2,7,8,LDWDDW,0,3,0,2,2,6,3,1,2,13,10,LWDLWW,1,1,1,6,6,DDD,LDW
+Emmen,Feyenoord,3-3,/match/emmen/feyenoord/2020,2020,7,eredivisie,18,26,1,3,3,15,1,0,5,5,14,LWWWLW,1,0,2,3,4,7,2,3,1,8,9,DDDLLW,1,1,0,2,1,LWL,DL
+ADO Den Haag,AZ Alkmaar,0-1,/match/ado-den-haag/az/2020,2020,7,eredivisie,18,26,2,0,1,14,2,0,4,10,12,LWLLWW,1,0,2,4,6,3,4,1,1,15,3,WLDLWW,2,0,1,6,2,LLW,LLW
+PSV,Ajax,1-1,/match/psv/ajax/2020,2020,7,eredivisie,18,26,1,1,1,1,5,1,0,17,4,DWLWLW,3,0,0,11,2,2,5,1,0,24,5,DWLWLW,2,1,0,10,4,WWW,DLL
+Emmen,ADO Den Haag,3-0,/match/emmen/ado-den-haag/2020,2020,8,eredivisie,18,26,0,3,0,16,1,1,5,8,17,LWWWLWD,1,1,2,6,7,15,2,0,5,10,13,LWLLWWL,1,0,2,6,6,LWLD,WLW
+VVV Venlo,Heerenveen,0-3,/match/vvv/heerenveen/2020,2020,8,eredivisie,18,26,2,0,3,11,3,0,4,9,13,WWLLWWW,2,0,1,6,6,12,1,4,2,8,9,LDWDDWD,1,0,2,5,6,WLW,LWW
+Ajax,Groningen,2-0,/match/ajax/fc-groningen/2020,2020,8,eredivisie,18,26,0,2,0,2,5,2,0,25,6,DWLWLWD,3,0,0,14,1,14,2,1,4,7,10,LLDWLWW,1,1,2,3,5,WWW,LDWW
+Fortuna Sittard,Sparta Rotterdam,0-0,/match/fortuna-sittard/sparta-rotterdam/2020,2020,8,eredivisie,18,26,1,0,0,17,0,2,5,8,21,WDLWDLW,0,1,2,5,7,7,3,2,2,16,15,DWLDLWW,1,2,1,7,10,DLL,DLDW
+RKC Waalwijk,Vitesse,1-2,/match/rkc-waalwijk/vitesse/2020,2020,8,eredivisie,18,26,2,1,2,18,0,1,6,7,24,WLDLLWW,0,0,3,1,8,3,4,2,1,14,11,DLWDWWW,1,1,1,3,6,LLL,LDW
+PEC Zwolle,PSV,0-4,/match/fc-zwolle/psv/2020,2020,8,eredivisie,18,26,2,0,4,13,2,1,4,13,16,LWWDLWW,1,1,1,9,7,1,5,2,0,18,5,DWLWLWD,2,1,0,6,2,LDW,DLL
+Utrecht,Willem II,2-0,/match/fc-utrecht/willem-ii/2020,2020,8,eredivisie,18,26,0,2,0,9,3,2,2,14,11,LWDLWWD,2,0,1,7,4,6,4,0,3,10,11,LLLWLWW,2,0,1,7,7,WLW,LLW
+AZ Alkmaar,Heracles,2-0,/match/az/heracles/2020,2020,8,eredivisie,18,26,0,2,0,4,5,1,1,16,3,WLDLWWL,2,1,0,9,1,10,3,2,2,11,12,LDLDLWL,2,1,0,6,4,WDW,DLL
+Feyenoord,Twente 1965,5-1,/match/feyenoord/fc-twente-1965/2020,2020,8,eredivisie,18,26,0,5,1,8,2,4,1,11,12,DDDLLWD,1,2,1,6,8,5,3,3,1,15,11,DLDDWLL,2,1,0,6,3,DDLW,LDL
+Groningen,RKC Waalwijk,3-0,/match/fc-groningen/rkc-waalwijk/2020,2020,9,eredivisie,18,26,0,3,0,15,2,1,5,7,12,LLDWLWWW,1,0,2,4,5,18,0,1,7,8,26,WLDLLWWL,0,1,3,6,16,LLW,WDWW
+Heracles,Emmen,2-0,/match/heracles/emmen/2020,2020,9,eredivisie,18,26,0,2,0,11,3,2,3,11,14,LDLDLWLW,1,1,2,5,8,13,2,1,5,11,17,LWWWLWDW,0,0,3,2,10,LLDW,WWW
+Sparta Rotterdam,Twente 1965,2-1,/match/sparta-rotterdam/fc-twente-1965/2020,2020,9,eredivisie,18,26,0,2,1,8,3,3,2,16,15,DWLDLWWD,2,0,1,9,5,7,3,3,2,16,16,DLDDWLLW,2,1,1,7,8,WLW,LDLW
+Vitesse,Utrecht,2-1,/match/vitesse/fc-utrecht/2020,2020,9,eredivisie,18,26,0,2,1,4,5,2,1,16,12,DLWDWWWL,3,1,0,11,5,6,4,2,2,16,11,LWDLWWDW,1,2,1,7,7,DWWW,LDWD
+Heerenveen,PEC Zwolle,1-0,/match/heerenveen/fc-zwolle/2020,2020,9,eredivisie,18,26,0,1,0,9,2,4,2,11,9,LDWDDWDL,0,4,0,3,3,14,2,1,5,13,20,LWWDLWWL,1,0,3,4,9,DDDD,WWLW
+ADO Den Haag,Ajax,0-2,/match/ado-den-haag/ajax/2020,2020,9,eredivisie,18,26,2,0,2,16,2,0,6,10,16,LWLLWWLW,1,0,3,4,7,1,6,2,0,27,6,DWLWLWDW,2,2,0,11,5,LLWL,DLLD
+Fortuna Sittard,Feyenoord,4-2,/match/fortuna-sittard/feyenoord/2020,2020,9,eredivisie,18,26,0,4,2,17,0,3,5,8,21,WDLWDLWD,0,2,2,5,7,5,3,4,1,16,13,DDDLLWDW,1,2,0,5,4,DLLD,DLD
+PSV,VVV Venlo,4-1,/match/psv/vvv/2020,2020,9,eredivisie,18,26,0,4,1,2,6,2,0,22,5,DWLWLWDL,3,1,0,12,3,12,3,0,5,9,16,WWLLWWWL,1,0,3,3,7,WWWD,WLWW
+Willem II,AZ Alkmaar,1-1,/match/willem-ii/az/2020,2020,9,eredivisie,18,26,1,1,1,10,4,0,4,10,13,LLLWLWWW,2,0,2,3,4,3,6,1,1,18,3,WLDLWWLW,3,0,1,7,2,LWLW,LLWL
+AZ Alkmaar,Heerenveen,2-4,/match/az/heerenveen/2020,2020,10,eredivisie,18,26,2,2,4,4,6,2,1,19,4,WLDLWWLWD,3,1,0,11,1,8,3,4,2,12,9,LDWDDWDLW,2,0,2,8,6,WDWW,LWWL
+RKC Waalwijk,Ajax,1-2,/match/rkc-waalwijk/ajax/2020,2020,10,eredivisie,18,26,2,1,2,18,0,1,8,8,29,WLDLLWWLW,0,0,4,2,10,2,7,2,0,29,6,DWLWLWDWL,3,2,0,13,5,LLLL,DLLDL
+Twente 1965,Willem II,0-1,/match/fc-twente-1965/willem-ii/2020,2020,10,eredivisie,18,26,2,0,1,11,3,3,3,17,18,DLDDWLLWW,1,2,1,9,8,10,4,1,4,11,14,LLLWLWWWD,2,0,2,7,9,DDWL,LLWW
+Utrecht,PSV,3-0,/match/fc-utrecht/psv/2020,2020,10,eredivisie,18,26,0,3,0,7,4,2,3,17,13,LWDLWWDWW,3,0,1,9,4,1,7,2,0,26,6,DWLWLWDLW,3,1,0,10,2,WLWW,DLLL
+VVV Venlo,Vitesse,0-4,/match/vvv/vitesse/2020,2020,10,eredivisie,18,26,2,0,4,13,3,0,6,10,20,WWLLWWWLW,2,0,2,6,9,3,6,2,1,18,13,DLWDWWWLW,2,1,1,5,7,WLWL,LDWL
+PEC Zwolle,ADO Den Haag,3-1,/match/fc-zwolle/ado-den-haag/2020,2020,10,eredivisie,18,26,0,3,1,16,2,1,6,13,21,LWWDLWWLW,1,1,2,9,11,17,2,0,7,10,18,LWLLWWLWL,1,0,3,6,9,LDWL,WLWW
+Emmen,Fortuna Sittard,2-1,/match/emmen/fortuna-sittard/2020,2020,10,eredivisie,18,26,0,2,1,14,2,1,6,11,19,LWWWLWDWW,2,1,2,9,7,15,1,3,5,12,23,WDLWDLWDW,0,1,3,3,14,LWLDW,WWDW
+Groningen,Sparta Rotterdam,2-0,/match/fc-groningen/sparta-rotterdam/2020,2020,10,eredivisie,18,26,0,2,0,12,3,1,5,10,12,LLDWLWWWW,2,0,2,7,5,5,4,3,2,18,16,DWLDLWWDW,1,3,1,7,10,LLWW,DLDWD
+Feyenoord,Heracles,1-1,/match/feyenoord/heracles/2020,2020,10,eredivisie,18,26,1,1,1,6,3,4,2,18,17,DDDLLWDWW,2,2,1,11,9,9,4,2,3,13,14,LDLDLWLWW,2,1,1,6,6,DDLWW,DLLW
+Twente 1965,Emmen,4-1,/match/fc-twente-1965/emmen/2020,2020,11,eredivisie,18,26,0,4,1,13,3,3,4,17,19,DLDDWLLWWL,1,2,2,9,9,12,3,1,6,13,20,LWWWLWDWWW,0,0,4,2,12,DDWLL,WWWW
+Willem II,RKC Waalwijk,2-1,/match/willem-ii/rkc-waalwijk/2020,2020,11,eredivisie,18,26,0,2,1,9,5,1,4,12,14,LLLWLWWWDL,2,1,2,4,5,18,0,1,9,9,31,WLDLLWWLWL,0,1,4,6,19,LWLWD,WDWWW
+Vitesse,ADO Den Haag,0-2,/match/vitesse/ado-den-haag/2020,2020,11,eredivisie,18,26,2,0,2,3,7,2,1,22,13,DLWDWWWLWL,4,1,0,13,6,17,2,0,8,11,21,LWLLWWLWLW,1,0,4,7,12,DWWWW,WLWWW
+Fortuna Sittard,VVV Venlo,4-1,/match/fortuna-sittard/vvv/2020,2020,11,eredivisie,18,26,0,4,1,16,1,3,6,13,25,WDLWDLWDWW,1,2,2,9,9,15,3,0,7,10,24,WWLLWWWLWL,1,0,4,4,11,DLLDW,WLWWW
+Heracles,PEC Zwolle,4-0,/match/heracles/fc-zwolle/2020,2020,11,eredivisie,18,26,0,4,0,10,4,3,3,14,15,LDLDLWLWWD,2,1,2,7,8,14,3,1,6,16,22,LWWDLWWLWW,1,0,4,4,10,LLDWW,WWLWW
+Heerenveen,Groningen,1-1,/match/heerenveen/fc-groningen/2020,2020,11,eredivisie,18,26,1,1,1,7,4,4,2,16,11,LDWDDWDLWL,1,4,0,4,3,11,4,1,5,12,12,LLDWLWWWWW,1,1,3,3,7,DDDDW,LDWWW
+Sparta Rotterdam,Utrecht,1-2,/match/sparta-rotterdam/fc-utrecht/2020,2020,11,eredivisie,18,26,2,1,2,8,4,3,3,18,18,DWLDLWWDWW,3,0,1,11,6,5,5,2,3,20,13,LWDLWWDWWW,1,2,2,8,9,WLWW,LDWDW
+PSV,AZ Alkmaar,0-4,/match/psv/az/2020,2020,11,eredivisie,18,26,2,0,4,2,7,2,1,26,9,DWLWLWDLWW,4,1,0,16,4,4,6,2,2,21,8,WLDLWWLWDL,3,1,1,8,3,WWWDW,LLWLD
+Ajax,Feyenoord,4-0,/match/ajax/feyenoord/2020,2020,11,eredivisie,18,26,0,4,0,1,8,2,0,31,7,DWLWLWDWLL,4,0,0,16,1,6,3,5,2,19,18,DDDLLWDWWD,1,2,1,7,8,WWWW,DLDW
+PEC Zwolle,Ajax,2-4,/match/fc-zwolle/ajax/2020,2020,12,eredivisie,18,26,2,2,4,15,3,1,7,16,26,LWWDLWWLWWW,2,1,2,12,12,1,9,2,0,35,7,DWLWLWDWLLW,4,2,0,15,6,LDWLW,DLLDLL
+RKC Waalwijk,Heracles,2-0,/match/rkc-waalwijk/heracles/2020,2020,12,eredivisie,18,26,0,2,0,18,0,1,10,10,33,WLDLLWWLWLW,0,0,5,3,12,7,5,3,3,18,15,LDLDLWLWWDW,2,2,1,7,7,LLLLL,DLLWD
+Sparta Rotterdam,PSV,2-2,/match/sparta-rotterdam/psv/2020,2020,12,eredivisie,18,26,1,2,2,10,4,3,4,19,20,DWLDLWWDWWL,3,0,2,12,8,3,7,2,2,26,13,DWLWLWDLWWL,3,1,1,10,5,WLWWL,DLLLW
+AZ Alkmaar,Twente 1965,3-0,/match/az/fc-twente-1965/2020,2020,12,eredivisie,18,26,0,3,0,4,7,2,2,25,8,WLDLWWLWDLL,3,1,1,13,5,11,4,3,4,21,20,DLDDWLLWWLW,2,1,2,8,10,WDWWL,LDLWW
+Emmen,Vitesse,2-1,/match/emmen/vitesse/2020,2020,12,eredivisie,18,26,0,2,1,13,3,1,7,14,24,LWWWLWDWWWW,3,1,2,11,8,2,7,2,2,22,15,DLWDWWWLWLL,3,1,1,9,7,LWLDWW,LDWLL
+Utrecht,Fortuna Sittard,6-0,/match/fc-utrecht/fortuna-sittard/2020,2020,12,eredivisie,18,26,0,6,0,5,6,2,3,22,14,LWDLWWDWWWL,4,0,1,12,4,14,2,3,6,17,26,WDLWDLWDWWW,0,1,4,4,16,WLWWW,WWDWW
+VVV Venlo,Feyenoord,0-3,/match/vvv/feyenoord/2020,2020,12,eredivisie,18,26,2,0,3,16,3,0,8,11,28,WWLLWWWLWLW,2,0,3,6,13,9,3,5,3,19,22,DDDLLWDWWDW,1,2,2,7,12,WLWLL,DLDWW
+Groningen,Willem II,2-0,/match/fc-groningen/willem-ii/2020,2020,12,eredivisie,18,26,0,2,0,12,4,2,5,13,13,LLDWLWWWWWD,3,0,2,9,5,6,6,1,4,14,15,LLLWLWWWDLW,3,0,2,8,9,LLWWW,LLWWL
+ADO Den Haag,Heerenveen,1-1,/match/ado-den-haag/heerenveen/2020,2020,12,eredivisie,18,26,1,1,1,17,3,0,8,13,21,LWLLWWLWLWL,1,0,4,4,9,8,4,5,2,17,12,LDWDDWDLWLD,3,0,2,12,8,LLWLL,LWWLL
+Vitesse,Groningen,1-2,/match/vitesse/fc-groningen/2020,2020,13,eredivisie,18,26,2,1,2,5,7,2,3,23,17,DLWDWWWLWLLW,4,1,1,13,8,7,5,2,5,15,13,LLDWLWWWWWDW,1,2,3,4,8,DWWWWL,LDWWWD
+Heerenveen,Sparta Rotterdam,2-1,/match/heerenveen/sparta-rotterdam/2020,2020,13,eredivisie,18,26,0,2,1,6,4,6,2,18,13,LDWDDWDLWLDD,1,5,0,5,4,11,4,4,4,21,22,DWLDLWWDWWLD,1,3,2,7,12,DDDDWD,DLDWDW
+Fortuna Sittard,ADO Den Haag,1-0,/match/fortuna-sittard/ado-den-haag/2020,2020,13,eredivisie,18,26,0,1,0,14,2,3,7,17,32,WDLWDLWDWWWW,2,2,2,13,10,17,3,1,8,14,22,LWLLWWLWLWLD,2,0,4,9,12,DLLDWW,WLWWWL
+Heracles,VVV Venlo,6-1,/match/heracles/vvv/2020,2020,13,eredivisie,18,26,0,6,1,9,5,3,4,18,17,LDLDLWLWWDWW,3,1,2,11,8,16,3,0,9,11,31,WWLLWWWLWLWL,1,0,5,5,15,LLDWWW,WLWWWW
+Ajax,Utrecht,4-0,/match/ajax/fc-utrecht/2020,2020,13,eredivisie,18,26,0,4,0,1,10,2,0,39,9,DWLWLWDWLLWL,5,0,0,20,1,4,7,2,3,28,14,LWDLWWDWWWLW,2,2,2,10,10,WWWWW,LDWDWL
+Willem II,PSV,2-1,/match/willem-ii/psv/2020,2020,13,eredivisie,18,26,0,2,1,8,6,1,5,14,17,LLLWLWWWDLWW,3,1,2,6,6,3,7,3,2,28,15,DWLWLWDLWWLD,3,2,1,12,7,LWLWDW,DLLLWD
+Twente 1965,PEC Zwolle,2-1,/match/fc-twente-1965/fc-zwolle/2020,2020,13,eredivisie,18,26,0,2,1,13,4,3,5,21,23,DLDDWLLWWLWW,2,2,2,13,10,15,3,1,8,18,30,LWWDLWWLWWWL,1,0,5,4,14,DDWLLW,WWLWWW
+Feyenoord,RKC Waalwijk,3-2,/match/feyenoord/rkc-waalwijk/2020,2020,13,eredivisie,18,26,0,3,2,10,4,5,3,22,22,DDDLLWDWWDWL,2,3,1,12,10,18,1,1,10,12,33,WLDLLWWLWLWW,0,1,5,7,21,DDLWWD,WDWWWW
+AZ Alkmaar,Emmen,3-0,/match/az/emmen/2020,2020,13,eredivisie,18,26,0,3,0,2,8,2,2,28,8,WLDLWWLWDLLW,4,1,1,16,5,12,4,1,7,16,25,LWWWLWDWWWWW,0,0,5,3,16,WDWWLW,WWWWW
+Utrecht,AZ Alkmaar,0-3,/match/fc-utrecht/az/2020,2020,14,eredivisie,18,26,2,0,3,4,7,2,4,28,18,LWDLWWDWWWLWW,5,0,1,18,4,2,9,2,2,31,8,WLDLWWLWDLLWW,4,1,1,12,3,WLWWWW,LLWLDL
+PEC Zwolle,Fortuna Sittard,3-1,/match/fc-zwolle/fortuna-sittard/2020,2020,14,eredivisie,18,26,0,3,1,15,3,1,9,19,32,LWWDLWWLWWWLW,2,1,3,14,16,14,3,3,7,18,32,WDLWDLWDWWWWW,0,1,5,4,22,LDWLWL,WWDWWW
+Ajax,Heracles,4-1,/match/ajax/heracles/2020,2020,14,eredivisie,18,26,0,4,1,1,11,2,0,43,9,DWLWLWDWLLWLW,6,0,0,24,1,7,6,3,4,24,18,LDLDLWLWWDWWW,2,2,2,7,9,WWWWWW,DLLWDW
+ADO Den Haag,Willem II,3-3,/match/ado-den-haag/willem-ii/2020,2020,14,eredivisie,18,26,1,3,3,17,3,1,9,14,23,LWLLWWLWLWLDW,1,1,4,5,10,9,7,1,5,16,18,LLLWLWWWDLWWW,3,0,3,8,11,LLWLLD,LLWWLW
+Groningen,Feyenoord,1-1,/match/fc-groningen/feyenoord/2020,2020,14,eredivisie,18,26,1,1,1,10,6,2,5,17,14,LLDWLWWWWWDWL,4,0,2,11,5,8,5,5,3,25,24,DDDLLWDWWDWLW,2,2,2,10,12,LLWWWW,DLDWWL
+PSV,Heerenveen,2-1,/match/psv/heerenveen/2020,2020,14,eredivisie,18,26,0,2,1,3,7,3,3,29,17,DWLWLWDLWWLDW,4,1,1,16,8,6,5,6,2,20,14,LDWDDWDLWLDDW,3,1,2,13,9,WWWDWL,LWWLLD
+RKC Waalwijk,Emmen,1-1,/match/rkc-waalwijk/emmen/2020,2020,14,eredivisie,18,26,1,1,1,18,1,1,11,14,36,WLDLLWWLWLWWW,1,0,5,5,12,13,4,1,8,16,28,LWWWLWDWWWWWW,0,0,6,3,19,LLLLLW,WWWWWW
+VVV Venlo,Twente 1965,2-1,/match/vvv/fc-twente-1965/2020,2020,14,eredivisie,18,26,0,2,1,16,3,0,10,12,37,WWLLWWWLWLWLW,2,0,4,6,16,11,5,3,5,23,24,DLDDWLLWWLWWW,2,1,3,8,13,WLWLLL,LDLWWW
+Sparta Rotterdam,Vitesse,2-0,/match/sparta-rotterdam/vitesse/2020,2020,14,eredivisie,18,26,0,2,0,12,4,4,5,22,24,DWLDLWWDWWLDW,3,1,2,14,10,5,7,2,4,24,19,DLWDWWWLWLLWL,3,1,2,10,9,WLWWLD,LDWLLW
+Heerenveen,Vitesse,3-2,/match/heerenveen/vitesse/2020,2020,15,eredivisie,18,26,0,3,2,7,5,6,3,21,16,LDWDDWDLWLDDWW,2,5,0,7,5,6,7,2,5,24,21,DLWDWWWLWLLWLW,3,1,3,10,11,DDDDWDW,LDWLLWW
+Willem II,Sparta Rotterdam,4-0,/match/willem-ii/sparta-rotterdam/2020,2020,15,eredivisie,18,26,0,4,0,5,7,2,5,19,21,LLLWLWWWDLWWWD,4,1,2,8,7,11,5,4,5,24,24,DWLDLWWDWWLDWW,1,3,3,8,14,LWLWDWW,DLDWDWW
+Fortuna Sittard,Groningen,1-0,/match/fortuna-sittard/fc-groningen/2020,2020,15,eredivisie,18,26,0,1,0,14,3,3,8,19,35,WDLWDLWDWWWWWW,3,2,2,14,10,9,6,3,5,18,15,LLDWLWWWWWDWLD,2,2,3,6,9,DLLDWWW,LDWWWDL
+Heracles,ADO Den Haag,4-0,/match/heracles/ado-den-haag/2020,2020,15,eredivisie,18,26,0,4,0,10,6,3,5,25,22,LDLDLWLWWDWWWW,4,1,2,17,9,17,3,2,9,17,26,LWLLWWLWLWLDWD,2,0,5,9,13,LLDWWWW,WLWWWLW
+Twente 1965,Ajax,2-5,/match/fc-twente-1965/ajax/2020,2020,15,eredivisie,18,26,2,2,5,12,5,3,6,24,26,DLDDWLLWWLWWWW,3,2,2,15,11,1,12,2,0,47,10,DWLWLWDWLLWLWW,5,2,0,19,8,DDWLLWW,DLLDLLL
+Utrecht,RKC Waalwijk,0-1,/match/fc-utrecht/rkc-waalwijk/2020,2020,15,eredivisie,18,26,2,0,1,4,7,2,5,28,21,LWDLWWDWWWLWWL,5,0,2,18,7,18,1,2,11,15,37,WLDLLWWLWLWWWD,0,1,6,9,24,WLWWWWL,WDWWWWW
+Feyenoord,PEC Zwolle,1-0,/match/feyenoord/fc-zwolle/2020,2020,15,eredivisie,18,26,0,1,0,8,5,6,3,26,25,DDDLLWDWWDWLWD,3,3,1,15,12,15,4,1,9,22,33,LWWDLWWLWWWLWW,1,0,6,5,16,DDLWWDW,WWLWWWW
+AZ Alkmaar,VVV Venlo,1-0,/match/az/vvv/2020,2020,15,eredivisie,18,26,0,1,0,2,10,2,2,34,8,WLDLWWLWDLLWWL,5,1,1,19,5,16,4,0,10,14,38,WWLLWWWLWLWLWW,1,0,6,6,21,WDWWLWW,WLWWWWW
+Emmen,PSV,1-1,/match/emmen/psv/2020,2020,15,eredivisie,18,26,1,1,1,13,4,2,8,17,29,LWWWLWDWWWWWWD,4,1,2,13,9,3,8,3,3,31,18,DWLWLWDLWWLDWW,3,2,2,13,9,LWLDWWW,DLLLWDW
+Ajax,Willem II,0-2,/match/ajax/willem-ii/2020,2020,16,eredivisie,18,26,2,0,2,1,13,2,0,52,12,DWLWLWDWLLWLWWL,7,0,0,28,2,5,8,2,5,23,21,LLLWLWWWDLWWWDW,3,1,3,11,14,WWWWWWW,LLWWLWD
+ADO Den Haag,Twente 1965,0-0,/match/ado-den-haag/fc-twente-1965/2020,2020,16,eredivisie,18,26,1,0,0,17,3,2,10,17,30,LWLLWWLWLWLDWDW,1,2,4,8,13,12,5,3,7,26,31,DLDDWLLWWLWWWWL,2,1,4,9,15,LLWLLDD,LDLWWWW
+PSV,Fortuna Sittard,5-0,/match/psv/fortuna-sittard/2020,2020,16,eredivisie,18,26,0,5,0,3,8,4,3,32,19,DWLWLWDLWWLDWWD,5,1,1,18,9,14,4,3,8,20,35,WDLWDLWDWWWWWWW,0,1,6,5,25,WWWDWLW,WWDWWWW
+VVV Venlo,Emmen,2-0,/match/vvv/emmen/2020,2020,16,eredivisie,18,26,0,2,0,16,4,0,11,14,39,WWLLWWWLWLWLWWW,3,0,4,8,17,13,4,3,8,18,30,LWWWLWDWWWWWWDD,0,1,6,4,20,WLWLLLW,WWWWWWD
+PEC Zwolle,AZ Alkmaar,0-3,/match/fc-zwolle/az/2020,2020,16,eredivisie,18,26,2,0,3,15,4,1,10,22,34,LWWDLWWLWWWLWWW,3,1,3,17,17,2,11,2,2,35,8,WLDLWWLWDLLWWLW,5,1,1,15,3,LDWLWLW,LLWLDLL
+Vitesse,Feyenoord,0-0,/match/vitesse/feyenoord/2020,2020,16,eredivisie,18,26,1,0,0,9,7,2,6,26,24,DLWDWWWLWLLWLWW,4,1,2,14,10,6,6,6,3,27,25,DDDLLWDWWDWLWDW,2,3,2,11,13,DWWWWLL,DLDWWLD
+RKC Waalwijk,Heerenveen,1-3,/match/rkc-waalwijk/heerenveen/2020,2020,16,eredivisie,18,26,2,1,3,18,2,2,11,16,37,WLDLLWWLWLWWWDL,1,1,5,6,13,4,6,6,3,24,18,LDWDDWDLWLDDWWW,3,1,3,14,11,LLLLLWD,LWWLLDW
+Groningen,Utrecht,0-1,/match/fc-groningen/fc-utrecht/2020,2020,16,eredivisie,18,26,2,0,1,10,6,3,6,18,16,LLDWLWWWWWDWLDW,4,1,2,12,6,8,7,2,6,28,22,LWDLWWDWWWLWWLL,2,2,3,10,14,LLWWWWD,LDWDWLW
+Sparta Rotterdam,Heracles,0-0,/match/sparta-rotterdam/heracles/2020,2020,16,eredivisie,18,26,1,0,0,11,5,4,6,24,28,DWLDLWWDWWLDWWW,4,1,2,16,10,7,7,3,5,29,22,LDLDLWLWWDWWWWW,2,2,3,8,13,WLWWLDW,DLLWDWW
+Heerenveen,Willem II,1-2,/match/heerenveen/willem-ii/2020,2020,17,eredivisie,18,26,2,1,2,4,7,6,3,27,19,LDWDDWDLWLDDWWWL,3,5,0,10,7,5,9,2,5,25,21,LLLWLWWWDLWWWDWL,4,1,3,13,14,DDDDWDWW,LLWWLWDL
+ADO Den Haag,Groningen,1-1,/match/ado-den-haag/fc-groningen/2020,2020,17,eredivisie,18,26,1,1,1,17,3,3,10,17,30,LWLLWWLWLWLDWDWD,1,3,4,8,13,11,6,3,7,18,17,LLDWLWWWWWDWLDWL,2,2,4,6,10,LLWLLDDD,LDWWWDLW
+Fortuna Sittard,RKC Waalwijk,3-2,/match/fortuna-sittard/rkc-waalwijk/2020,2020,17,eredivisie,18,26,0,3,2,14,4,3,9,20,40,WDLWDLWDWWWWWWWW,4,2,2,15,10,18,2,2,12,17,40,WLDLLWWLWLWWWDLL,1,1,6,10,24,DLLDWWWW,WDWWWWWL
+VVV Venlo,PEC Zwolle,1-2,/match/vvv/fc-zwolle/2020,2020,17,eredivisie,18,26,2,1,2,15,5,0,11,16,39,WWLLWWWLWLWLWWWW,4,0,4,10,17,16,4,1,11,22,37,LWWDLWWLWWWLWWWL,1,0,7,5,17,WLWLLLWW,WWLWWWWW
+Twente 1965,Vitesse,0-3,/match/fc-twente-1965/vitesse/2020,2020,17,eredivisie,18,26,2,0,3,12,5,4,7,26,31,DLDDWLLWWLWWWWLD,3,2,3,17,16,9,7,3,6,26,24,DLWDWWWLWLLWLWWD,3,1,4,12,14,DDWLLWWL,LDWLLWWW
+Emmen,Sparta Rotterdam,2-0,/match/emmen/sparta-rotterdam/2020,2020,17,eredivisie,18,26,0,2,0,13,4,3,9,18,32,LWWWLWDWWWWWWDDW,4,2,2,14,10,10,5,5,6,24,28,DWLDLWWDWWLDWWWD,1,3,4,8,18,LWLDWWWD,DLDWDWWW
+Feyenoord,PSV,3-1,/match/feyenoord/psv/2020,2020,17,eredivisie,18,26,0,3,1,6,6,7,3,27,25,DDDLLWDWWDWLWDWD,4,3,1,16,12,3,9,4,3,37,19,DWLWLWDLWWLDWWDW,3,3,2,14,10,DDLWWDWW,DLLLWDWD
+AZ Alkmaar,Ajax,1-0,/match/az/ajax/2020,2020,17,eredivisie,18,26,0,1,0,2,12,2,2,38,8,WLDLWWLWDLLWWLWL,6,1,1,20,5,1,13,2,1,52,14,DWLWLWDWLLWLWWLL,6,2,0,24,10,WDWWLWWW,DLLDLLLL
+Heracles,Utrecht,1-3,/match/heracles/fc-utrecht/2020,2020,17,eredivisie,18,26,2,1,3,7,7,4,5,29,22,LDLDLWLWWDWWWWWD,5,1,2,21,9,8,8,2,6,29,22,LWDLWWDWWWLWWLLL,3,2,3,11,14,LLDWWWWW,LDWDWLWL
+RKC Waalwijk,Twente 1965,3-0,/match/rkc-waalwijk/fc-twente-1965/2020,2020,18,eredivisie,18,26,0,3,0,18,2,2,13,19,43,WLDLLWWLWLWWWDLLW,1,1,6,7,16,14,5,4,8,26,34,DLDDWLLWWLWWWWLDL,2,2,4,9,15,LLLLLWDL,LDLWWWWD
+Heerenveen,Heracles,1-1,/match/heerenveen/heracles/2020,2020,18,eredivisie,18,26,1,1,1,6,7,6,4,28,21,LDWDDWDLWLDDWWWLL,3,5,1,11,9,8,7,4,6,30,25,LDLDLWLWWDWWWWWDL,2,3,3,8,13,DDDDWDWWL,DLLWDWWD
+Sparta Rotterdam,AZ Alkmaar,3-0,/match/sparta-rotterdam/az/2020,2020,18,eredivisie,18,26,0,3,0,12,5,5,7,24,30,DWLDLWWDWWLDWWWDW,4,2,2,16,10,1,13,2,2,39,8,WLDLWWLWDLLWWLWLW,6,1,1,18,3,WLWWLDWD,LLWLDLLL
+PSV,PEC Zwolle,4-1,/match/psv/fc-zwolle/2020,2020,18,eredivisie,18,26,0,4,1,3,9,4,4,38,22,DWLWLWDLWWLDWWDWW,6,1,1,23,9,16,5,1,11,24,38,LWWDLWWLWWWLWWWLL,2,0,7,7,18,WWWDWLWW,WWLWWWWWL
+Willem II,Fortuna Sittard,0-0,/match/willem-ii/fortuna-sittard/2020,2020,18,eredivisie,18,26,1,0,0,5,10,2,5,27,22,LLLWLWWWDLWWWDWLL,5,1,2,12,7,11,5,3,9,23,42,WDLWDLWDWWWWWWWWW,0,1,7,5,30,LWLWDWWW,WWDWWWWW
+Ajax,ADO Den Haag,6-1,/match/ajax/ado-den-haag/2020,2020,18,eredivisie,18,26,0,6,1,2,13,2,2,52,15,DWLWLWDWLLWLWWLLW,7,0,1,28,4,17,3,4,10,18,31,LWLLWWLWLWLDWDWDD,2,0,6,9,17,WWWWWWWL,WLWWWLWW
+Utrecht,Feyenoord,1-2,/match/fc-utrecht/feyenoord/2020,2020,18,eredivisie,18,26,2,1,2,7,9,2,6,32,23,LWDLWWDWWWLWWLLLL,5,0,3,18,8,4,7,7,3,30,26,DDDLLWDWWDWLWDWDW,2,4,2,11,13,WLWWWWLL,DLDWWLDD
+Groningen,Emmen,2-0,/match/fc-groningen/emmen/2020,2020,18,eredivisie,18,26,0,2,0,13,6,4,7,19,18,LLDWLWWWWWDWLDWLD,4,1,3,12,7,10,5,3,9,20,32,LWWWLWDWWWWWWDDWW,0,1,7,4,22,LLWWWWDL,WWWWWWDW
+Vitesse,VVV Venlo,3-0,/match/vitesse/vvv/2020,2020,18,eredivisie,18,26,0,3,0,9,8,3,6,29,24,DLWDWWWLWLLWLWWDL,4,2,2,14,10,15,5,0,12,17,41,WWLLWWWLWLWLWWWWL,1,0,7,6,22,DWWWWLLD,WLWWWWWW
+PEC Zwolle,Utrecht,3-3,/match/fc-zwolle/fc-utrecht/2020,2020,19,eredivisie,18,26,1,3,3,16,5,1,12,25,42,LWWDLWWLWWWLWWWLLW,3,1,4,17,20,8,9,2,7,33,25,LWDLWWDWWWLWWLLLLL,4,2,3,14,15,LDWLWLWL,LDWDWLWLL
+Fortuna Sittard,Vitesse,1-3,/match/fortuna-sittard/vitesse/2020,2020,19,eredivisie,18,26,2,1,3,12,5,4,9,23,42,WDLWDLWDWWWWWWWWWD,5,2,2,18,12,7,9,3,6,32,24,DLWDWWWLWLLWLWWDLW,4,1,4,15,14,DLLDWWWWW,LDWLLWWWL
+Twente 1965,Groningen,0-0,/match/fc-twente-1965/fc-groningen/2020,2020,19,eredivisie,18,26,1,0,0,14,5,4,9,26,37,DLDDWLLWWLWWWWLDLW,3,2,4,17,19,10,7,4,7,21,18,LLDWLWWWWWDWLDWLDW,2,3,4,7,11,DDWLLWWLL,LDWWWDLWD
+Feyenoord,Heerenveen,3-1,/match/feyenoord/heerenveen/2020,2020,19,eredivisie,18,26,0,3,1,4,8,7,3,32,27,DDDLLWDWWDWLWDWDWL,5,3,1,19,13,6,7,7,4,29,22,LDWDDWDLWLDDWWWLLD,4,1,3,17,12,DDLWWDWWW,LWWLLDWL
+AZ Alkmaar,Willem II,1-3,/match/az/willem-ii/2020,2020,19,eredivisie,18,26,2,1,3,2,13,2,3,39,11,WLDLWWLWDLLWWLWLWW,7,1,1,21,5,5,10,3,5,27,22,LLLWLWWWDLWWWDWLLD,5,1,3,15,15,WDWWLWWWW,LLWWLWDLL
+VVV Venlo,PSV,1-1,/match/vvv/psv/2020,2020,19,eredivisie,18,26,1,1,1,15,5,0,13,17,44,WWLLWWWLWLWLWWWWLW,4,0,5,11,19,3,10,4,4,42,23,DWLWLWDLWWLDWWDWWW,3,3,3,15,13,WLWLLLWWL,DLLLWDWDW
+Ajax,Sparta Rotterdam,2-1,/match/ajax/sparta-rotterdam/2020,2020,19,eredivisie,18,26,0,2,1,1,14,2,2,58,16,DWLWLWDWLLWLWWLLWW,8,0,1,34,5,11,6,5,7,27,30,DWLDLWWDWWLDWWWDWW,1,3,5,8,20,WWWWWWWLW,DLDWDWWWW
+Emmen,Heracles,1-0,/match/emmen/heracles/2020,2020,19,eredivisie,18,26,0,1,0,13,5,3,10,20,34,LWWWLWDWWWWWWDDWWW,5,2,2,16,10,9,7,5,6,31,26,LDLDLWLWWDWWWWWDLD,2,4,3,9,14,LWLDWWWDW,DLLWDWWDD
+ADO Den Haag,RKC Waalwijk,2-0,/match/ado-den-haag/rkc-waalwijk/2020,2020,19,eredivisie,18,26,0,2,0,17,3,4,11,19,37,LWLLWWLWLWLDWDWDDW,1,4,4,9,14,18,3,2,13,22,43,WLDLLWWLWLWWWDLLWW,1,1,7,12,27,LLWLLDDDD,WDWWWWWLW
+Utrecht,ADO Den Haag,4-0,/match/fc-utrecht/ado-den-haag/2020,2020,20,eredivisie,18,26,0,4,0,8,9,3,7,36,28,LWDLWWDWWWLWWLLLLLD,5,0,4,19,10,17,4,4,11,21,37,LWLLWWLWLWLDWDWDDWW,2,0,7,10,23,WLWWWWLLL,WLWWWLWWW
+Heerenveen,AZ Alkmaar,1-2,/match/heerenveen/az/2020,2020,20,eredivisie,18,26,2,1,2,7,7,7,5,30,25,LDWDDWDLWLDDWWWLLDW,3,6,1,12,10,2,13,2,4,40,14,WLDLWWLWDLLWWLWLWWL,6,1,2,18,6,DDDDWDWWLD,LLWLDLLLW
+RKC Waalwijk,VVV Venlo,1-2,/match/rkc-waalwijk/vvv/2020,2020,20,eredivisie,18,26,2,1,2,18,3,2,14,22,45,WLDLLWWLWLWWWDLLWWW,2,1,6,10,16,15,5,1,13,18,45,WWLLWWWLWLWLWWWWLWD,1,0,8,6,25,LLLLLWDLW,WLWWWWWWW
+Heracles,Feyenoord,2-3,/match/heracles/feyenoord/2020,2020,20,eredivisie,18,26,2,2,3,10,7,5,7,31,27,LDLDLWLWWDWWWWWDLDW,5,1,3,22,12,4,9,7,3,35,28,DDDLLWDWWDWLWDWDWLW,3,4,2,13,14,LLDWWWWWL,DLDWWLDDL
+Sparta Rotterdam,Fortuna Sittard,1-1,/match/sparta-rotterdam/fortuna-sittard/2020,2020,20,eredivisie,18,26,1,1,1,11,6,5,8,28,32,DWLDLWWDWWLDWWWDWWW,5,2,2,19,10,13,5,4,10,24,45,WDLWDLWDWWWWWWWWWDL,0,2,7,5,30,WLWWLDWDW,WWDWWWWWD
+Vitesse,Emmen,1-1,/match/vitesse/emmen/2020,2020,20,eredivisie,18,26,1,1,1,6,10,3,6,35,25,DLWDWWWLWLLWLWWDLWL,5,2,2,17,10,12,6,3,10,21,34,LWWWLWDWWWWWWDDWWWW,0,1,8,4,24,DWWWWLLDW,WWWWWWDWW
+Groningen,Ajax,2-1,/match/fc-groningen/ajax/2020,2020,20,eredivisie,18,26,0,2,1,9,7,5,7,21,18,LLDWLWWWWWDWLDWLDWD,5,1,3,14,7,1,15,2,2,60,17,DWLWLWDWLLWLWWLLWWW,6,2,1,24,11,LLWWWWDLW,DLLDLLLLW
+Willem II,PEC Zwolle,0-0,/match/willem-ii/fc-zwolle/2020,2020,20,eredivisie,18,26,1,0,0,5,11,3,5,30,23,LLLWLWWWDLWWWDWLLDL,5,2,2,12,7,16,5,2,12,28,45,LWWDLWWLWWWLWWWLLWD,2,0,8,8,22,LWLWDWWWD,WWLWWWWWLW
+PSV,Twente 1965,1-1,/match/psv/fc-twente-1965/2020,2020,20,eredivisie,18,26,1,1,1,3,10,5,4,43,24,DWLWLWDLWWLDWWDWWWD,7,1,1,27,10,14,5,5,9,26,37,DLDDWLLWWLWWWWLDLWD,2,2,5,9,18,WWWDWLWWW,LDLWWWWDW
+AZ Alkmaar,RKC Waalwijk,4-0,/match/az/rkc-waalwijk/2020,2020,21,eredivisie,18,26,0,4,0,2,14,2,4,42,15,WLDLWWLWDLLWWLWLWWLL,7,1,2,22,8,18,3,2,15,23,47,WLDLLWWLWLWWWDLLWWWL,1,1,8,12,29,WDWWLWWWWL,WDWWWWWLWW
+ADO Den Haag,Vitesse,0-0,/match/ado-den-haag/vitesse/2020,2020,21,eredivisie,18,26,1,0,0,17,4,4,12,21,41,LWLLWWLWLWLDWDWDDWWW,2,4,4,11,14,6,10,4,6,36,26,DLWDWWWLWLLWLWWDLWLD,5,1,4,18,15,LLWLLDDDDW,LDWLLWWWLL
+Feyenoord,Emmen,3-0,/match/feyenoord/emmen/2020,2020,21,eredivisie,18,26,0,3,0,4,10,7,3,38,30,DDDLLWDWWDWLWDWDWLWL,6,3,1,22,14,11,6,4,10,22,35,LWWWLWDWWWWWWDDWWWWD,0,2,8,5,25,DDLWWDWWWW,WWWWWWDWWD
+Twente 1965,Sparta Rotterdam,2-0,/match/fc-twente-1965/sparta-rotterdam/2020,2020,21,eredivisie,18,26,0,2,0,14,5,6,9,27,38,DLDDWLLWWLWWWWLDLWDD,3,3,4,17,19,10,6,6,8,29,33,DWLDLWWDWWLDWWWDWWWD,1,3,6,9,22,DDWLLWWLLD,DLDWDWWWWW
+PEC Zwolle,Groningen,1-0,/match/fc-zwolle/fc-groningen/2020,2020,21,eredivisie,18,26,0,1,0,16,5,3,12,28,45,LWWDLWWLWWWLWWWLLWDD,3,2,4,20,23,8,8,5,7,23,19,LLDWLWWWWWDWLDWLDWDW,2,4,4,7,11,LDWLWLWLD,LDWWWDLWDD
+Willem II,Heracles,1-0,/match/willem-ii/heracles/2020,2020,21,eredivisie,18,26,0,1,0,5,11,4,5,30,23,LLLWLWWWDLWWWDWLLDLD,5,3,2,12,7,12,7,5,8,33,30,LDLDLWLWWDWWWWWDLDWL,2,4,4,9,15,LWLWDWWWDD,DLLWDWWDDW
+Fortuna Sittard,Heerenveen,2-1,/match/fortuna-sittard/heerenveen/2020,2020,21,eredivisie,18,26,0,2,1,13,5,5,10,25,46,WDLWDLWDWWWWWWWWWDLD,5,2,3,19,15,9,7,7,6,31,27,LDWDDWDLWLDDWWWLLDWL,4,1,4,18,15,DLLDWWWWWL,LWWLLDWLW
+VVV Venlo,Utrecht,1-1,/match/vvv/fc-utrecht/2020,2020,21,eredivisie,18,26,1,1,1,15,6,1,13,20,46,WWLLWWWLWLWLWWWWLWDL,4,1,5,12,20,7,10,3,7,40,28,LWDLWWDWWWLWWLLLLLDW,4,3,3,17,18,WLWLLLWWLD,LDWDWLWLLD
+Ajax,PSV,1-0,/match/ajax/psv/2020,2020,21,eredivisie,18,26,0,1,0,1,15,2,3,61,19,DWLWLWDWLLWLWWLLWWWW,9,0,1,36,6,3,10,6,4,44,25,DWLWLWDLWWLDWWDWWWDD,3,4,3,16,14,WWWWWWWLWW,DLLLWDWDWD
+Heracles,Fortuna Sittard,2-0,/match/heracles/fortuna-sittard/2020,2020,22,eredivisie,18,26,0,2,0,12,7,5,9,33,31,LDLDLWLWWDWWWWWDLDWLW,5,1,4,24,15,10,6,5,10,27,47,WDLWDLWDWWWWWWWWWDLDW,0,3,7,6,31,LLDWWWWWLL,WWDWWWWWDD
+Groningen,Vitesse,1-0,/match/fc-groningen/vitesse/2020,2020,22,eredivisie,18,26,0,1,0,8,8,5,8,23,20,LLDWLWWWWWDWLDWLDWDWW,6,1,3,16,8,6,10,5,6,36,26,DLWDWWWLWLLWLWWDLWLDD,5,2,4,18,15,LLWWWWDLWW,LDWLLWWWLLD
+PSV,Willem II,3-0,/match/psv/willem-ii/2020,2020,22,eredivisie,18,26,0,3,0,5,10,6,5,44,26,DWLWLWDLWWLDWWDWWWDDW,7,2,1,28,11,4,12,4,5,31,23,LLLWLWWWDLWWWDWLLDLDW,6,1,3,18,16,WWWDWLWWWD,LLWWLWDLLL
+Heerenveen,VVV Venlo,1-1,/match/heerenveen/vvv/2020,2020,22,eredivisie,18,26,1,1,1,9,7,7,7,32,29,LDWDDWDLWLDDWWWLLDWLW,3,6,2,13,12,16,6,2,13,21,47,WWLLWWWLWLWLWWWWLWDLD,2,0,8,8,26,DDDDWDWWLDL,WLWWWWWWWL
+RKC Waalwijk,PEC Zwolle,0-0,/match/rkc-waalwijk/fc-zwolle/2020,2020,22,eredivisie,18,26,1,0,0,18,3,2,16,23,51,WLDLLWWLWLWWWDLLWWWLW,2,1,7,11,18,15,6,3,12,29,45,LWWDLWWLWWWLWWWLLWDDW,2,1,8,8,22,LLLLLWDLWL,WWLWWWWWLWD
+Emmen,Twente 1965,2-0,/match/emmen/fc-twente-1965/2020,2020,22,eredivisie,18,26,0,2,0,13,6,4,11,22,38,LWWWLWDWWWWWWDDWWWWDW,6,2,2,17,10,14,6,6,9,29,38,DLDDWLLWWLWWWWLDLWDDW,2,3,5,10,19,LWLDWWWDWW,LDLWWWWDWD
+Sparta Rotterdam,ADO Den Haag,4-2,/match/sparta-rotterdam/ado-den-haag/2020,2020,22,eredivisie,18,26,0,4,2,11,6,6,9,29,35,DWLDLWWDWWLDWWWDWWWDW,5,3,2,20,11,17,4,5,12,21,41,LWLLWWLWLWLDWDWDDWWWD,2,0,8,10,27,WLWWLDWDWD,WLWWWLWWWW
+VVV Venlo,Heracles,1-0,/match/vvv/heracles/2020,2020,23,eredivisie,18,26,0,1,0,16,6,3,13,22,48,WWLLWWWLWLWLWWWWLWDLDD,4,2,5,13,21,12,8,5,9,35,31,LDLDLWLWWDWWWWWDLDWLWW,2,4,5,9,16,WLWLLLWWLDD,DLLWDWWDDWW
+Twente 1965,AZ Alkmaar,2-0,/match/fc-twente-1965/az/2020,2020,23,eredivisie,18,26,0,2,0,14,6,6,10,29,40,DLDDWLLWWLWWWWLDLWDDWW,4,3,4,19,19,2,15,2,4,46,15,WLDLWWLWDLLWWLWLWWLLW,7,1,2,20,7,DDWLLWWLLDW,LLWLDLLLWL
+ADO Den Haag,PSV,0-3,/match/ado-den-haag/psv/2020,2020,23,eredivisie,18,26,2,0,3,17,4,5,13,23,45,LWLLWWLWLWLDWDWDDWWWDW,2,5,4,11,14,4,11,6,5,47,26,DWLWLWDLWWLDWWDWWWDDWW,3,4,4,16,15,LLWLLDDDDWD,DLLLWDWDWDW
+Fortuna Sittard,Emmen,0-0,/match/fortuna-sittard/emmen/2020,2020,23,eredivisie,18,26,1,0,0,13,6,5,11,27,49,WDLWDLWDWWWWWWWWWDLDWW,6,2,3,21,16,11,7,4,11,24,38,LWWWLWDWWWWWWDDWWWWDWW,0,2,9,5,28,DLLDWWWWWLW,WWWWWWDWWDW
+Vitesse,Heerenveen,4-2,/match/vitesse/heerenveen/2020,2020,23,eredivisie,18,26,0,4,2,6,10,5,7,36,27,DLWDWWWLWLLWLWWDLWLDDW,5,3,2,18,11,9,7,8,7,33,30,LDWDDWDLWLDDWWWLLDWLWD,4,1,5,19,17,DWWWWLLDWD,LWWLLDWLWW
+Sparta Rotterdam,Groningen,1-2,/match/sparta-rotterdam/fc-groningen/2020,2020,23,eredivisie,18,26,2,1,2,10,7,6,9,33,37,DWLDLWWDWWLDWWWDWWWDWW,6,3,2,24,13,7,9,5,8,24,20,LLDWLWWWWWDWLDWLDWDWWW,2,4,5,7,12,WLWWLDWDWDW,LDWWWDLWDDW
+Ajax,RKC Waalwijk,3-0,/match/ajax/rkc-waalwijk/2020,2020,23,eredivisie,18,26,0,3,0,1,16,2,3,62,19,DWLWLWDWLLWLWWLLWWWWW,10,0,1,37,6,18,3,3,16,23,51,WLDLLWWLWLWWWDLLWWWLWD,1,1,9,12,33,WWWWWWWLWWW,WDWWWWWLWWW
+Willem II,Utrecht,1-1,/match/willem-ii/fc-utrecht/2020,2020,23,eredivisie,18,26,1,1,1,5,12,4,6,31,26,LLLWLWWWDLWWWDWLLDLDWW,6,3,2,13,7,8,10,4,7,41,29,LWDLWWDWWWLWWLLLLLDWD,4,4,3,18,19,LWLWDWWWDDW,LDWDWLWLLDD
+PEC Zwolle,Feyenoord,3-4,/match/fc-zwolle/feyenoord/2020,2020,23,eredivisie,18,26,2,3,4,15,6,4,12,29,45,LWWDLWWLWWWLWWWLLWDDWD,4,2,4,21,23,3,11,7,3,41,30,DDDLLWDWWDWLWDWDWLWLW,4,4,2,16,16,LDWLWLWLDW,DLDWWLDDLL
+RKC Waalwijk,Sparta Rotterdam,0-1,/match/rkc-waalwijk/sparta-rotterdam/2020,2020,24,eredivisie,18,26,2,0,1,18,3,3,17,23,54,WLDLLWWLWLWWWDLLWWWLWDW,2,2,7,11,18,10,7,6,10,34,39,DWLDLWWDWWLDWWWDWWWDWWL,1,3,7,9,24,LLLLLWDLWLD,DLDWDWWWWWW
+Emmen,Willem II,4-2,/match/emmen/willem-ii/2020,2020,24,eredivisie,18,26,0,4,2,9,7,5,11,24,38,LWWWLWDWWWWWWDDWWWWDWWD,7,2,2,19,10,5,12,5,6,32,27,LLLWLWWWDLWWWDWLLDLDWWD,6,1,4,18,19,LWLDWWWDWWW,LLWWLWDLLLW
+Feyenoord,Fortuna Sittard,2-1,/match/feyenoord/fortuna-sittard/2020,2020,24,eredivisie,18,26,0,2,1,3,12,7,3,45,33,DDDLLWDWWDWLWDWDWLWLWL,7,3,1,25,14,13,6,6,11,27,49,WDLWDLWDWWWWWWWWWDLDWWD,0,3,8,6,33,DDLWWDWWWWW,WWDWWWWWDDW
+Heerenveen,ADO Den Haag,2-2,/match/heerenveen/ado-den-haag/2020,2020,24,eredivisie,18,26,1,2,2,11,7,8,8,35,34,LDWDDWDLWLDDWWWLLDWLWDW,3,7,2,14,13,17,4,5,14,23,48,LWLLWWLWLWLDWDWDDWWWDWL,2,0,9,12,31,DDDDWDWWLDLD,WLWWWLWWWWW
+Groningen,VVV Venlo,0-1,/match/fc-groningen/vvv/2020,2020,24,eredivisie,18,26,2,0,1,7,10,5,8,26,21,LLDWLWWWWWDWLDWLDWDWWWL,7,1,3,17,8,15,7,3,13,23,48,WWLLWWWLWLWLWWWWLWDLDDW,2,1,8,9,27,LLWWWWDLWWW,WLWWWWWWWLD
+Utrecht,Twente 1965,2-1,/match/fc-utrecht/fc-twente-1965/2020,2020,24,eredivisie,18,26,0,2,1,8,10,5,7,42,30,LWDLWWDWWWLWWLLLLLDWDD,6,0,4,23,10,14,7,6,10,31,40,DLDDWLLWWLWWWWLDLWDDWWW,2,3,6,10,21,WLWWWWLLLW,LDLWWWWDWDW
+AZ Alkmaar,PEC Zwolle,2-0,/match/az/fc-zwolle/2020,2020,24,eredivisie,18,26,0,2,0,2,15,2,5,46,17,WLDLWWLWDLLWWLWLWWLLWW,8,1,2,26,8,16,6,4,13,32,49,LWWDLWWLWWWLWWWLLWDDWDL,2,2,8,8,22,WDWWLWWWWLW,WWLWWWWWLWDD
+Vitesse,PSV,1-2,/match/vitesse/psv/2020,2020,24,eredivisie,18,26,2,1,2,6,11,5,7,40,29,DLWDWWWLWLLWLWWDLWLDDWW,6,3,2,22,13,4,12,6,5,50,26,DWLWLWDLWWLDWWDWWWDDWWL,4,4,4,19,15,DWWWWLLDWDW,DLLLWDWDWDWL
+Heracles,Ajax,1-0,/match/heracles/ajax/2020,2020,24,eredivisie,18,26,0,1,0,12,8,5,10,35,32,LDLDLWLWWDWWWWWDLDWLWWW,6,1,4,26,15,1,17,2,3,65,19,DWLWLWDWLLWLWWLLWWWWWW,6,2,2,25,13,LLDWWWWWLLW,DLLDLLLLWW
+Willem II,Groningen,3-1,/match/willem-ii/fc-groningen/2020,2020,25,eredivisie,18,26,0,3,1,5,12,5,7,34,31,LLLWLWWWDLWWWDWLLDLDWWDW,6,4,2,14,8,8,10,5,9,26,22,LLDWLWWWWWDWLDWLDWDWWWLL,3,4,5,9,13,LWLWDWWWDDWD,LDWWWDLWDDWL
+ADO Den Haag,Heracles,0-0,/match/ado-den-haag/heracles/2020,2020,25,eredivisie,18,26,1,0,0,17,4,6,14,25,50,LWLLWWLWLWLDWDWDDWWWDWLD,2,5,5,11,17,10,9,5,10,36,32,LDLDLWLWWDWWWWWDLDWLWWWW,2,4,6,9,17,LLWLLDDDDWDL,DLLWDWWDDWWW
+VVV Venlo,Fortuna Sittard,0-0,/match/vvv/fortuna-sittard/2020,2020,25,eredivisie,18,26,1,0,0,15,8,3,13,24,48,WWLLWWWLWLWLWWWWLWDLDDWL,5,2,5,14,21,13,6,6,12,28,51,WDLWDLWDWWWWWWWWWDLDWWDW,0,3,9,7,35,WLWLLLWWLDDW,WWDWWWWWDDWW
+PEC Zwolle,Vitesse,4-3,/match/fc-zwolle/vitesse/2020,2020,25,eredivisie,18,26,0,4,3,16,6,4,14,32,51,LWWDLWWLWWWLWWWLLWDDWDLW,4,2,5,24,27,6,11,5,8,41,31,DLWDWWWLWLLWLWWDLWLDDWWL,5,2,5,18,16,LDWLWLWLDWL,LDWLLWWWLLDW
+Twente 1965,Heerenveen,2-3,/match/fc-twente-1965/heerenveen/2020,2020,25,eredivisie,18,26,2,2,3,14,7,6,11,32,42,DLDDWLLWWLWWWWLDLWDDWWWW,5,3,4,21,19,12,7,9,8,37,36,LDWDDWDLWLDDWWWLLDWLWDWD,4,1,6,21,21,DDWLLWWLLDWW,LWWLLDWLWWW
+RKC Waalwijk,Utrecht,2-1,/match/rkc-waalwijk/fc-utrecht/2020,2020,25,eredivisie,18,26,0,2,1,18,3,3,18,23,55,WLDLLWWLWLWWWDLLWWWLWDWL,2,2,8,11,19,7,11,5,7,44,31,LWDLWWDWWWLWWLLLLLDWDDW,4,5,3,19,20,LLLLLWDLWLDL,LDWDWLWLLDDD
+PSV,Feyenoord,1-1,/match/psv/feyenoord/2020,2020,25,eredivisie,18,26,1,1,1,4,13,6,5,52,27,DWLWLWDLWWLDWWDWWWDDWWLL,8,2,1,31,11,3,13,7,3,47,34,DDDLLWDWWDWLWDWDWLWLWLW,5,4,2,20,19,WWWDWLWWWDW,DLDWWLDDLLL
+Sparta Rotterdam,Emmen,5-1,/match/sparta-rotterdam/emmen/2020,2020,25,eredivisie,18,26,0,5,1,11,8,6,10,35,39,DWLDLWWDWWLDWWWDWWWDWWLL,6,3,3,25,15,9,8,5,11,28,40,LWWWLWDWWWWWWDDWWWWDWWDW,0,3,9,5,28,WLWWLDWDWDWL,WWWWWWDWWDWD
+Ajax,AZ Alkmaar,0-2,/match/ajax/az/2020,2020,25,eredivisie,18,26,2,0,2,1,17,2,4,65,20,DWLWLWDWLLWLWWLLWWWWWWW,11,0,1,40,6,2,16,2,5,48,17,WLDLWWLWDLLWWLWLWWLLWWW,7,1,3,20,9,WWWWWWWLWWWW,LLWLDLLLWLW
+Fortuna Sittard,PEC Zwolle,1-1,/match/fortuna-sittard/fc-zwolle/2020,2020,26,eredivisie,18,26,1,1,1,13,6,7,12,28,51,WDLWDLWDWWWWWWWWWDLDWWDWD,6,3,3,21,16,16,7,4,14,36,54,LWWDLWWLWWWLWWWLLWDDWDLWW,2,2,9,8,24,DLLDWWWWWLWD,WWLWWWWWLWDDW
+AZ Alkmaar,ADO Den Haag,4-0,/match/az/ado-den-haag/2020,2020,26,eredivisie,18,26,0,4,0,2,17,2,5,50,17,WLDLWWLWDLLWWLWLWWLLWWWL,9,1,2,28,8,17,4,7,14,25,50,LWLLWWLWLWLDWDWDDWWWDWLDD,2,1,9,14,33,WDWWLWWWWLWW,WLWWWLWWWWWD
+Emmen,VVV Venlo,3-0,/match/emmen/vvv/2020,2020,26,eredivisie,18,26,0,3,0,12,8,5,12,29,45,LWWWLWDWWWWWWDDWWWWDWWDWW,8,2,2,23,12,15,8,4,13,24,48,WWLLWWWLWLWLWWWWLWDLDDWLD,3,1,8,10,27,LWLDWWWDWWWW,WLWWWWWWWLDL
+Vitesse,Twente 1965,1-0,/match/vitesse/fc-twente-1965/2020,2020,26,eredivisie,18,26,0,1,0,6,11,5,9,44,35,DLWDWWWLWLLWLWWDLWLDDWWLW,6,3,3,23,15,14,7,6,12,34,45,DLDDWLLWWLWWWWLDLWDDWWWWL,2,3,7,11,23,DWWWWLLDWDWL,LDLWWWWDWDWW
+Heerenveen,Ajax,1-3,/match/heerenveen/ajax/2020,2020,26,eredivisie,18,26,2,1,3,10,8,9,8,40,38,LDWDDWDLWLDDWWWLLDWLWDWDL,3,8,2,16,15,1,17,2,5,65,22,DWLWLWDWLLWLWWLLWWWWWWWL,6,2,3,25,14,DDDDWDWWLDLDD,DLLDLLLLWWW
+Utrecht,Sparta Rotterdam,5-1,/match/fc-utrecht/sparta-rotterdam/2020,2020,26,eredivisie,18,26,0,5,1,8,11,5,8,45,33,LWDLWWDWWWLWWLLLLLDWDDWW,7,0,4,25,11,7,9,6,10,40,40,DWLDLWWDWWLDWWWDWWWDWWLLW,2,3,7,10,24,WLWWWWLLLWW,DLDWDWWWWWWL
+Heracles,RKC Waalwijk,4-2,/match/heracles/rkc-waalwijk/2020,2020,26,eredivisie,18,26,0,4,2,11,9,6,10,36,32,LDLDLWLWWDWWWWWDLDWLWWWWD,7,1,4,27,15,18,4,3,18,25,56,WLDLLWWLWLWWWDLLWWWLWDWLW,1,1,10,12,36,LLDWWWWWLLWW,WDWWWWWLWWWW
+Feyenoord,Willem II,2-0,/match/feyenoord/willem-ii/2020,2020,26,eredivisie,18,26,0,2,0,3,13,8,3,48,35,DDDLLWDWWDWLWDWDWLWLWLWD,8,3,1,27,15,5,13,5,7,37,32,LLLWLWWWDLWWWDWLLDLDWWDWW,6,1,5,20,23,DDLWWDWWWWWW,LLWWLWDLLLWW
+Groningen,PSV,0-1,/match/fc-groningen/psv/2020,2020,26,eredivisie,18,26,2,0,1,9,10,5,10,27,25,LLDWLWWWWWDWLDWLDWDWWWLLW,7,1,4,17,9,4,13,7,5,53,28,DWLWLWDLWWLDWWDWWWDDWWLLD,5,4,4,21,16,LLWWWWDLWWWL,DLLLWDWDWDWLL

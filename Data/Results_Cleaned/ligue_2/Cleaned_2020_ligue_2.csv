@@ -1,0 +1,281 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Ajaccio,Le Havre,2-2,/match/ajaccio/havre-ac/2020,2020,1,ligue_2,20,28,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chambly,Valenciennes,1-0,/match/chambly/valenciennes-afc/2020,2020,1,ligue_2,20,28,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Clermont,Chateauroux,3-0,/match/clermont-foot/berrichonne-chateauroux/2020,2020,1,ligue_2,20,28,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Guingamp,Grenoble,3-3,/match/guingamp/grenoble-foot-38/2020,2020,1,ligue_2,20,28,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nancy,Orléans,0-0,/match/nancy/orleans/2020,2020,1,ligue_2,20,28,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Niort,Troyes,0-2,/match/chamois-niortais/troyes/2020,2020,1,ligue_2,20,28,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Rodez,Auxerre,2-0,/match/rodez/auxerre/2020,2020,1,ligue_2,20,28,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sochaux,Caen,0-0,/match/sochaux/caen/2020,2020,1,ligue_2,20,28,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Le Mans,Lens,1-2,/match/mans-uc-72/lens/2020,2020,1,ligue_2,20,28,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lorient,Paris FC,3-0,/match/lorient/paris-sg/2020,2020,1,ligue_2,20,28,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,Le Mans,2-0,/match/auxerre/mans-uc-72/2020,2020,2,ligue_2,20,28,0,2,0,16,0,0,1,0,2,W,0,0,0,0,0,18,0,0,1,1,2,L,0,0,0,0,0,,
+Chateauroux,Rodez,0-0,/match/berrichonne-chateauroux/rodez/2020,2020,2,ligue_2,20,28,1,0,0,15,0,0,1,0,3,W,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
+Grenoble,Ajaccio,0-1,/match/grenoble-foot-38/ajaccio/2020,2020,2,ligue_2,20,28,2,0,1,13,0,1,0,3,3,D,0,0,0,0,0,10,0,1,0,2,2,D,0,0,0,0,0,,
+Le Havre,Niort,1-1,/match/havre-ac/chamois-niortais/2020,2020,2,ligue_2,20,28,1,1,1,12,0,1,0,2,2,D,0,0,0,0,0,17,0,0,1,0,2,L,0,0,0,0,0,,
+Orléans,Chambly,0-1,/match/orleans/chambly/2020,2020,2,ligue_2,20,28,2,0,1,14,0,1,0,0,0,D,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Paris FC,Sochaux,1-1,/match/paris-sg/sochaux/2020,2020,2,ligue_2,20,28,1,1,1,20,0,0,1,0,3,W,0,0,0,0,0,6,0,1,0,0,0,D,0,0,0,0,0,,
+Troyes,Clermont,1-2,/match/troyes/clermont-foot/2020,2020,2,ligue_2,20,28,2,1,2,5,1,0,0,2,0,L,0,0,0,0,0,2,1,0,0,3,0,W,0,0,0,0,0,,
+Valenciennes,Nancy,1-1,/match/valenciennes-afc/nancy/2020,2020,2,ligue_2,20,28,1,1,1,19,0,0,1,0,1,W,0,0,0,0,0,9,0,1,0,0,0,D,0,0,0,0,0,,
+Lens,Guingamp,2-0,/match/lens/guingamp/2020,2020,2,ligue_2,20,28,0,2,0,7,1,0,0,2,1,L,0,0,0,0,0,8,0,1,0,3,3,D,0,0,0,0,0,,
+Caen,Lorient,1-2,/match/caen/lorient/2020,2020,2,ligue_2,20,28,2,1,2,11,0,1,0,0,0,D,0,0,0,0,0,3,1,0,0,3,0,W,0,0,0,0,0,,
+Ajaccio,Caen,1-2,/match/ajaccio/caen/2020,2020,3,ligue_2,20,28,2,1,2,7,1,1,0,3,2,DL,0,1,0,2,2,19,0,1,1,1,2,DL,0,1,0,0,0,D,D
+Chambly,Grenoble,0-0,/match/chambly/grenoble-foot-38/2020,2020,3,ligue_2,20,28,1,0,0,2,2,0,0,2,0,WL,1,0,0,1,0,17,0,1,1,3,4,DL,0,1,0,3,3,W,D
+Guingamp,Orléans,1-0,/match/guingamp/orleans/2020,2020,3,ligue_2,20,28,0,1,0,14,0,1,1,3,5,DW,0,1,0,3,3,16,0,1,1,0,1,DL,0,1,0,0,0,D,D
+Le Mans,Valenciennes,1-2,/match/mans-uc-72/valenciennes-afc/2020,2020,3,ligue_2,20,28,2,1,2,20,0,0,2,1,4,LW,0,0,1,1,2,12,0,1,1,1,2,WD,0,0,1,0,1,L,W
+Nancy,Lorient,1-1,/match/nancy/lorient/2020,2020,3,ligue_2,20,28,1,1,1,9,0,2,0,1,1,DD,0,1,0,0,0,1,2,0,0,5,1,WL,1,0,0,2,1,D,L
+Niort,Chateauroux,3-0,/match/chamois-niortais/berrichonne-chateauroux/2020,2020,3,ligue_2,20,28,0,3,0,18,0,1,1,1,3,LD,0,0,1,0,2,11,0,1,1,0,3,WD,0,0,1,0,3,L,W
+Rodez,Paris FC,2-1,/match/rodez/paris-sg/2020,2020,3,ligue_2,20,28,0,2,1,5,1,1,0,2,0,WD,1,0,0,2,0,13,0,1,1,1,4,WD,0,0,1,0,3,W,W
+Sochaux,Auxerre,1-0,/match/sochaux/auxerre/2020,2020,3,ligue_2,20,28,0,1,0,8,0,2,0,1,1,DD,0,1,0,0,0,6,1,0,1,2,2,WW,0,0,1,0,2,D,W
+Troyes,Le Havre,1-2,/match/troyes/havre-ac/2020,2020,3,ligue_2,20,28,2,1,2,15,1,0,1,3,2,LL,0,0,1,1,2,10,0,2,0,3,3,DD,0,1,0,2,2,L,D
+Clermont,Lens,1-1,/match/clermont-foot/lens/2020,2020,3,ligue_2,20,28,1,1,1,4,2,0,0,5,1,WL,1,0,0,3,0,3,2,0,0,4,1,LW,1,0,0,2,1,W,L
+Caen,Chambly,0-0,/match/caen/chambly/2020,2020,4,ligue_2,20,28,1,0,0,14,1,1,1,3,3,DLL,0,0,1,1,2,3,2,1,0,2,0,WLD,1,0,0,1,0,L,L
+Chateauroux,Ajaccio,0-1,/match/berrichonne-chateauroux/ajaccio/2020,2020,4,ligue_2,20,28,2,0,1,16,0,1,2,0,6,WDW,0,1,0,0,0,12,1,1,1,4,4,DLL,1,0,0,1,0,D,L
+Grenoble,Troyes,1-1,/match/grenoble-foot-38/troyes/2020,2020,4,ligue_2,20,28,1,1,1,15,0,2,1,3,4,DLD,0,0,1,0,1,17,1,0,2,4,4,LLL,1,0,0,2,0,L,L
+Lorient,Sochaux,1-0,/match/lorient/sochaux/2020,2020,4,ligue_2,20,28,0,1,0,4,2,1,0,6,2,WLD,1,0,0,3,0,6,1,2,0,2,1,DDW,0,1,0,1,1,W,D
+Nancy,Le Mans,2-1,/match/nancy/mans-uc-72/2020,2020,4,ligue_2,20,28,0,2,1,8,0,3,0,2,2,DDD,0,2,0,1,1,20,0,0,3,2,6,LWL,0,0,1,0,2,DD,W
+Orléans,Clermont,0-1,/match/orleans/clermont-foot/2020,2020,4,ligue_2,20,28,2,0,1,19,0,1,2,0,2,DLW,0,0,1,0,1,2,2,1,0,6,2,WLD,1,0,0,2,1,L,L
+Paris FC,Niort,0-1,/match/paris-sg/chamois-niortais/2020,2020,4,ligue_2,20,28,2,0,1,18,0,1,2,2,6,WDW,0,1,0,1,1,10,1,1,1,4,3,LDW,0,1,0,1,1,D,D
+Valenciennes,Rodez,1-0,/match/valenciennes-afc/rodez/2020,2020,4,ligue_2,20,28,0,1,0,13,1,1,1,3,3,WDL,0,1,0,1,1,1,2,1,0,4,1,WDW,0,1,0,0,0,D,D
+Lens,Le Havre,1-3,/match/lens/havre-ac/2020,2020,4,ligue_2,20,28,2,1,3,5,2,1,0,5,2,LWD,1,0,0,2,0,9,1,2,0,5,4,DDL,1,1,0,4,3,W,DL
+Auxerre,Guingamp,2-2,/match/auxerre/guingamp/2020,2020,4,ligue_2,20,28,1,2,2,11,1,0,2,2,3,WWW,1,0,0,2,0,7,1,1,1,4,5,DWW,0,0,1,0,2,W,W
+Ajaccio,Paris FC,1-0,/match/ajaccio/paris-sg/2020,2020,5,ligue_2,20,28,0,1,0,13,2,1,1,5,4,DLLL,0,1,1,3,4,18,0,1,3,2,7,WDWL,0,0,2,1,5,DL,WW
+Chambly,Chateauroux,0-0,/match/chambly/berrichonne-chateauroux/2020,2020,5,ligue_2,20,28,1,0,0,4,2,2,0,2,0,WLDD,1,1,0,1,0,17,0,1,3,0,7,WDWL,0,0,2,0,6,WD,WW
+Clermont,Auxerre,1-1,/match/clermont-foot/auxerre/2020,2020,5,ligue_2,20,28,1,1,1,2,3,1,0,7,2,WLDL,1,1,0,4,1,12,1,1,2,4,5,WWWD,0,0,2,0,3,WD,WW
+Le Havre,Grenoble,3-1,/match/havre-ac/grenoble-foot-38/2020,2020,5,ligue_2,20,28,0,3,1,10,2,2,0,8,5,DDLL,0,1,0,1,1,15,0,3,1,4,5,DLDD,0,2,0,3,3,D,DD
+Le Mans,Lorient,1-2,/match/mans-uc-72/lorient/2020,2020,5,ligue_2,20,28,2,1,2,20,0,0,4,3,8,LWLW,0,0,2,2,4,1,3,1,0,7,2,WLDW,1,1,0,3,2,LL,LD
+Niort,Caen,1-1,/match/chamois-niortais/caen/2020,2020,5,ligue_2,20,28,1,1,1,11,2,1,1,5,3,LDWL,1,0,1,3,2,14,1,2,1,3,3,DLLD,1,1,0,2,1,LW,DL
+Rodez,Orléans,3-3,/match/rodez/orleans/2020,2020,5,ligue_2,20,28,1,3,3,3,2,1,1,4,2,WDWW,2,0,0,4,1,19,0,1,3,0,3,DLWL,0,1,1,0,1,WW,DW
+Sochaux,Nancy,3-0,/match/sochaux/nancy/2020,2020,5,ligue_2,20,28,0,3,0,8,1,2,1,2,2,DDWW,1,1,0,1,0,5,1,3,0,4,3,DDDW,0,1,0,1,1,DW,D
+Troyes,Lens,2-0,/match/troyes/lens/2020,2020,5,ligue_2,20,28,0,2,0,16,1,1,2,5,5,LLLD,0,0,2,2,4,7,2,1,1,6,5,LWDL,1,1,0,3,2,LL,LD
+Guingamp,Valenciennes,0-1,/match/guingamp/valenciennes-afc/2020,2020,5,ligue_2,20,28,2,0,1,9,1,2,1,6,7,DWWD,1,1,0,4,3,6,2,1,1,4,3,WDLW,1,0,1,2,2,DW,WL
+Auxerre,Ajaccio,3-1,/match/auxerre/ajaccio/2020,2020,6,ligue_2,20,28,0,3,1,13,1,2,2,5,6,WWWDD,1,1,0,4,2,7,3,1,1,6,4,DLLLW,2,0,0,2,0,WD,LL
+Caen,Le Havre,0-3,/match/caen/havre-ac/2020,2020,6,ligue_2,20,28,2,0,3,15,1,3,1,4,4,DLLDD,0,1,1,1,2,3,3,2,0,11,6,DDLLW,2,1,0,7,4,LD,DLL
+Chateauroux,Troyes,0-1,/match/berrichonne-chateauroux/troyes/2020,2020,6,ligue_2,20,28,2,0,1,17,0,2,3,0,7,WDWLD,0,1,1,0,1,14,2,1,2,7,5,LLLDW,1,1,0,3,1,DL,LD
+Le Mans,Sochaux,2-0,/match/mans-uc-72/sochaux/2020,2020,6,ligue_2,20,28,0,2,0,20,0,0,5,4,10,LWLWL,0,0,3,3,6,6,2,2,1,5,2,DDWWW,0,1,1,1,2,LLL,DW
+Nancy,Rodez,1-1,/match/nancy/rodez/2020,2020,6,ligue_2,20,28,1,1,1,10,1,3,1,4,6,DDDWW,1,2,0,3,2,4,2,2,1,7,5,WDWWD,0,1,1,0,1,DDW,DW
+Orléans,Niort,0-1,/match/orleans/chamois-niortais/2020,2020,6,ligue_2,20,28,2,0,1,19,0,2,3,3,6,DLWLD,0,0,2,0,2,9,2,2,1,6,4,LDWLD,1,1,0,2,1,LL,DL
+Valenciennes,Clermont,1-0,/match/valenciennes-afc/clermont-foot/2020,2020,6,ligue_2,20,28,0,1,0,8,3,1,1,5,3,WDLWL,1,1,0,2,1,2,3,2,0,8,3,WLDLD,2,0,0,3,1,DW,LL
+Lorient,Guingamp,0-1,/match/lorient/guingamp/2020,2020,6,ligue_2,20,28,2,0,1,1,4,1,0,9,3,WLDWL,2,0,0,4,0,11,1,2,2,6,8,DWWDL,0,1,1,2,4,WW,WD
+Paris FC,Chambly,0-3,/match/paris-sg/chambly/2020,2020,6,ligue_2,20,28,2,0,3,18,0,1,4,2,8,WDWLW,0,1,1,1,2,5,2,3,0,2,0,WLDDD,1,1,0,1,0,DL,LD
+Grenoble,Lens,2-2,/match/grenoble-foot-38/lens/2020,2020,6,ligue_2,20,28,1,2,2,16,0,3,2,5,8,DLDDW,0,1,1,1,2,12,2,1,2,6,7,LWDLW,1,1,1,3,4,LD,LDW
+Ajaccio,Orléans,0-0,/match/ajaccio/orleans/2020,2020,7,ligue_2,20,28,1,0,0,11,3,1,2,7,7,DLLLWW,1,1,1,4,4,20,0,2,4,3,7,DLWLDL,0,2,1,3,4,DLW,DWD
+Chambly,Auxerre,1-4,/match/chambly/auxerre/2020,2020,7,ligue_2,20,28,2,1,4,4,3,3,0,5,0,WLDDDL,1,2,0,1,0,7,2,2,2,8,7,WWWDDW,0,1,2,1,4,WDD,WWD
+Guingamp,Nancy,1-1,/match/guingamp/nancy/2020,2020,7,ligue_2,20,28,1,1,1,13,2,2,2,7,8,DWWDLL,1,1,1,4,4,10,1,4,1,5,7,DDDWWD,0,1,1,1,4,DWL,DW
+Le Havre,Paris FC,0-0,/match/havre-ac/paris-sg/2020,2020,7,ligue_2,20,28,1,0,0,3,4,2,0,14,6,DDLLWL,1,1,0,4,2,19,0,1,5,2,11,WDWLWL,0,0,3,1,6,DW,WWW
+Niort,Grenoble,0-1,/match/chamois-niortais/grenoble-foot-38/2020,2020,7,ligue_2,20,28,2,0,1,9,3,2,1,7,4,LDWLDL,1,1,1,4,3,16,0,4,2,7,10,DLDDWD,0,2,1,4,6,LWD,DDW
+Rodez,Le Mans,4-1,/match/rodez/mans-uc-72/2020,2020,7,ligue_2,20,28,0,4,1,5,2,3,1,8,6,WDWWDD,2,1,0,7,4,17,1,0,5,6,10,LWLWLW,0,0,2,1,4,WWD,WW
+Sochaux,Valenciennes,0-0,/match/sochaux/valenciennes-afc/2020,2020,7,ligue_2,20,28,1,0,0,8,2,2,2,5,4,DDWWWW,2,1,0,4,0,1,4,1,1,6,3,WDLWLW,2,0,1,3,2,DWW,WLL
+Troyes,Caen,2-1,/match/troyes/caen/2020,2020,7,ligue_2,20,28,0,2,1,12,3,1,2,8,5,LLLDWL,1,0,2,4,4,15,1,3,2,4,7,DLLDDL,1,2,0,3,2,LLW,DLD
+Clermont,Lorient,0-2,/match/clermont-foot/lorient/2020,2020,7,ligue_2,20,28,2,0,2,6,3,2,1,8,4,WLDLDW,1,2,0,5,2,2,4,1,1,9,4,WLDWLL,2,1,0,5,3,WDD,LDL
+Lens,Chateauroux,1-0,/match/lens/berrichonne-chateauroux/2020,2020,7,ligue_2,20,28,0,1,0,14,2,2,2,8,9,LWDLWD,1,0,1,3,3,18,0,2,4,0,8,WDWLDL,0,1,2,0,6,WL,WWD
+Auxerre,Troyes,1-2,/match/auxerre/troyes/2020,2020,8,ligue_2,20,28,2,1,2,6,3,2,2,12,8,WWWDDWL,2,1,0,7,3,8,4,1,2,10,6,LLLDWLW,2,1,0,4,1,WDW,LDL
+Chateauroux,Grenoble,1-1,/match/berrichonne-chateauroux/grenoble-foot-38/2020,2020,8,ligue_2,20,28,1,1,1,18,0,2,5,0,9,WDWLDLW,0,1,2,0,2,15,1,4,2,8,10,DLDDWDL,1,2,1,5,6,DLL,DDWL
+Le Mans,Ajaccio,2-4,/match/mans-uc-72/ajaccio/2020,2020,8,ligue_2,20,28,2,2,4,17,1,0,6,7,14,LWLWLWW,1,0,3,5,6,10,3,2,2,7,7,DLLLWWD,2,0,1,3,3,LLLW,LLW
+Nancy,Chambly,3-0,/match/nancy/chambly/2020,2020,8,ligue_2,20,28,0,3,0,11,1,5,1,6,8,DDDWWDD,1,3,0,4,3,5,3,3,1,6,4,WLDDDLL,2,1,0,4,0,DDWD,LDL
+Orléans,Le Havre,2-2,/match/orleans/havre-ac/2020,2020,8,ligue_2,20,28,1,2,2,20,0,3,4,3,7,DLWLDLD,0,0,3,0,3,4,4,3,0,14,6,DDLLWLD,3,1,0,10,4,LLL,DLLL
+Paris FC,Clermont,0-2,/match/paris-sg/clermont-foot/2020,2020,8,ligue_2,20,28,2,0,2,19,0,2,5,2,11,WDWLWLD,0,1,2,1,5,12,3,2,2,8,6,WLDLDWL,2,0,1,3,2,DLL,LLW
+Sochaux,Guingamp,3-1,/match/sochaux/guingamp/2020,2020,8,ligue_2,20,28,0,3,1,7,2,3,2,5,4,DDWWWWD,2,2,0,4,0,14,2,3,2,8,9,DWWDLLD,1,1,1,3,4,DWWD,WDL
+Valenciennes,Niort,1-1,/match/valenciennes-afc/chamois-niortais/2020,2020,8,ligue_2,20,28,1,1,1,2,4,2,1,6,3,WDLWLWD,2,1,0,3,1,13,3,2,2,7,5,LDWLDLL,2,1,0,3,1,DWW,DLL
+Caen,Lens,0-2,/match/caen/lens/2020,2020,8,ligue_2,20,28,2,0,2,16,1,3,3,5,9,DLLDDLW,0,1,2,1,5,9,3,2,2,9,9,LWDLWDW,1,2,1,5,6,LDL,LDWD
+Lorient,Rodez,2-1,/match/lorient/rodez/2020,2020,8,ligue_2,20,28,0,2,1,3,5,1,1,11,4,WLDWLLL,2,0,1,4,1,1,3,3,1,12,7,WDWWDDW,0,2,1,1,2,WWL,DWD
+Ajaccio,Valenciennes,2-0,/match/ajaccio/valenciennes-afc/2020,2020,9,ligue_2,20,28,0,2,0,9,4,2,2,11,9,DLLLWWDL,1,2,1,4,4,3,4,3,1,7,4,WDLWLWDD,2,1,1,3,2,DLWD,WLLD
+Chambly,Lorient,0-1,/match/chambly/lorient/2020,2020,9,ligue_2,20,28,2,0,1,12,3,3,2,6,7,WLDDDLLW,1,2,1,2,4,1,6,1,1,13,5,WLDWLLLW,3,1,0,7,3,WDDL,LDLL
+Clermont,Nancy,2-2,/match/clermont-foot/nancy/2020,2020,9,ligue_2,20,28,1,2,2,10,4,2,2,10,6,WLDLDWLL,1,2,1,5,4,5,2,5,1,9,8,DDDWWDDW,0,2,1,2,5,WDDL,DWD
+Grenoble,Caen,1-0,/match/grenoble-foot-38/caen/2020,2020,9,ligue_2,20,28,0,1,0,15,1,5,2,9,11,DLDDWDLD,0,2,1,3,4,16,1,3,4,5,11,DLLDDLWL,1,2,1,4,4,LDD,DLDW
+Le Havre,Chateauroux,0-1,/match/havre-ac/berrichonne-chateauroux/2020,2020,9,ligue_2,20,28,2,0,1,6,4,4,0,16,8,DDLLWLDD,1,2,0,4,2,17,0,3,5,1,10,WDWLDLWD,0,1,3,0,7,DWD,WWDW
+Niort,Auxerre,2-2,/match/chamois-niortais/auxerre/2020,2020,9,ligue_2,20,28,1,2,2,13,3,3,2,8,6,LDWLDLLD,1,1,2,4,4,11,3,2,3,13,10,WWWDDWLL,1,1,2,5,5,LWDL,WWDL
+Rodez,Sochaux,0-2,/match/rodez/sochaux/2020,2020,9,ligue_2,20,28,2,0,2,4,3,3,2,13,9,WDWWDDWW,3,1,0,11,5,2,3,3,2,8,5,DDWWWWDW,0,1,2,1,4,WWDW,DWW
+Troyes,Orléans,1-2,/match/troyes/orleans/2020,2020,9,ligue_2,20,28,2,1,2,7,5,1,2,12,7,LLLDWLWL,2,0,2,6,5,18,0,4,4,5,9,DLWLDLDD,0,3,1,3,4,LLWW,DWDD
+Lens,Paris FC,2-1,/match/lens/paris-sg/2020,2020,9,ligue_2,20,28,0,2,1,8,4,2,2,11,9,LWDLWDWL,2,0,1,4,3,20,0,2,6,2,13,WDWLWLDL,0,1,3,1,6,WLW,WWWD
+Guingamp,Le Mans,3-0,/match/guingamp/mans-uc-72/2020,2020,9,ligue_2,20,28,0,3,0,14,2,3,3,9,12,DWWDLLDW,1,2,1,5,5,19,1,0,7,9,18,LWLWLWWL,0,0,3,2,8,DWLD,WWW
+Caen,Chateauroux,1-1,/match/caen/berrichonne-chateauroux/2020,2020,10,ligue_2,20,28,1,1,1,18,1,3,5,5,12,DLLDDLWLW,0,1,3,1,7,16,1,3,5,2,10,WDWLDLWDL,1,1,3,1,7,LDLL,WWDWL
+Guingamp,Rodez,4-1,/match/guingamp/rodez/2020,2020,10,ligue_2,20,28,0,4,1,11,3,3,3,12,12,DWWDLLDWW,2,2,1,8,5,7,3,3,3,13,11,WDWWDDWWL,0,2,2,2,4,DWLDW,DWDW
+Le Mans,Chambly,1-0,/match/mans-uc-72/chambly/2020,2020,10,ligue_2,20,28,0,1,0,19,1,0,8,9,21,LWLWLWWLW,1,0,4,7,10,14,3,3,3,6,8,WLDDDLLWL,2,1,1,4,3,LLLWL,LDLW
+Lorient,Ajaccio,0-0,/match/lorient/ajaccio/2020,2020,10,ligue_2,20,28,1,0,0,1,7,1,1,14,5,WLDWLLLWL,3,0,1,6,2,4,5,2,2,13,9,DLLLWWDLW,3,0,1,7,5,WWLW,LLWL
+Nancy,Niort,2-1,/match/nancy/chamois-niortais/2020,2020,10,ligue_2,20,28,0,2,1,6,2,6,1,11,10,DDDWWDDWD,2,3,0,7,3,12,3,4,2,10,8,LDWLDLLDD,2,2,0,4,2,DDWDW,DLLD
+Paris FC,Troyes,1-0,/match/paris-sg/troyes/2020,2020,10,ligue_2,20,28,0,1,0,20,0,2,7,3,15,WDWLWLDLW,0,1,3,1,7,10,5,1,3,13,9,LLLDWLWLL,3,1,0,6,2,DLLL,LDLL
+Sochaux,Clermont,4-0,/match/sochaux/clermont-foot/2020,2020,10,ligue_2,20,28,0,4,0,2,4,3,2,10,5,DDWWWWDWL,3,2,0,7,1,9,4,3,2,12,8,WLDLDWLLD,3,0,1,5,2,DWWDW,LLWL
+Valenciennes,Grenoble,0-2,/match/valenciennes-afc/grenoble-foot-38/2020,2020,10,ligue_2,20,28,2,0,2,5,4,3,2,7,6,WDLWLWDDW,2,2,0,4,2,15,2,5,2,10,11,DLDDWDLDW,1,3,1,6,7,DWWD,DDWLD
+Auxerre,Le Havre,2-0,/match/auxerre/havre-ac/2020,2020,10,ligue_2,20,28,0,2,0,13,3,3,3,15,12,WWWDDWLLD,2,1,1,8,5,8,4,4,1,16,9,DDLLWLDDL,3,2,0,12,6,WDWL,DLLLD
+Orléans,Lens,1-4,/match/orleans/lens/2020,2020,10,ligue_2,20,28,2,1,4,17,1,4,4,7,10,DLWLDLDDL,0,1,3,2,5,3,5,2,2,13,10,LWDLWDWLW,2,2,1,7,6,LLLD,LDWDL
+Ajaccio,Nancy,0-0,/match/ajaccio/nancy/2020,2020,11,ligue_2,20,28,1,0,0,6,5,3,2,13,9,DLLLWWDLWD,2,2,1,6,4,3,3,6,1,13,11,DDDWWDDWDW,0,3,1,4,7,DLWDW,DWDD
+Caen,Valenciennes,0-0,/match/caen/valenciennes-afc/2020,2020,11,ligue_2,20,28,1,0,0,17,1,4,5,6,13,DLLDDLWLWD,0,2,3,2,8,8,4,3,3,7,8,WDLWLWDDWL,2,1,2,3,4,LDLLD,WLLDW
+Chambly,Sochaux,0-0,/match/chambly/sochaux/2020,2020,11,ligue_2,20,28,1,0,0,15,3,3,4,6,9,WLDDDLLWLW,1,2,2,2,5,2,5,3,2,14,5,DDWWWWDWLW,1,1,2,3,4,WDDLL,DWWL
+Chateauroux,Paris FC,0-1,/match/berrichonne-chateauroux/paris-sg/2020,2020,11,ligue_2,20,28,2,0,1,16,1,4,5,3,11,WDWLDLWDLD,0,2,2,1,3,20,1,2,7,4,15,WDWLWLDLWW,0,1,4,2,8,DLLD,WWWDW
+Clermont,Rodez,0-1,/match/clermont-foot/rodez/2020,2020,11,ligue_2,20,28,2,0,1,11,4,3,3,12,12,WLDLDWLLDW,1,3,1,7,6,9,3,3,4,14,15,WDWWDDWWLW,0,2,3,3,8,WDDLD,DWDWW
+Grenoble,Orléans,0-0,/match/grenoble-foot-38/orleans/2020,2020,11,ligue_2,20,28,1,0,0,13,3,5,2,12,11,DLDDWDLDWL,1,2,1,4,4,19,1,4,5,8,14,DLWLDLDDLL,1,3,1,5,5,LDDW,DWDDL
+Niort,Guingamp,0-0,/match/chamois-niortais/guingamp/2020,2020,11,ligue_2,20,28,1,0,0,14,3,4,3,11,10,LDWLDLLDDW,1,2,2,6,6,5,4,3,3,16,13,DWWDLLDWWW,1,1,2,4,7,LWDLD,WDLW
+Troyes,Le Mans,2-1,/match/troyes/mans-uc-72/2020,2020,11,ligue_2,20,28,0,2,1,12,5,1,4,13,10,LLLDWLWLLW,2,0,3,7,7,18,2,0,8,10,21,LWLWLWWLWW,0,0,4,2,11,LLWWL,WWWW
+Le Havre,Lorient,2-2,/match/havre-ac/lorient/2020,2020,11,ligue_2,20,28,1,2,2,10,4,4,2,16,11,DDLLWLDDLW,1,2,1,4,3,1,7,2,1,14,5,WLDWLLLWLD,4,1,0,8,3,DWDL,LDLLL
+Lens,Auxerre,0-0,/match/lens/auxerre/2020,2020,11,ligue_2,20,28,1,0,0,4,6,2,2,17,11,LWDLWDWLWL,3,0,1,6,4,7,4,3,3,17,12,WWWDDWLLDW,1,2,2,7,7,WLWW,WWDLD
+Auxerre,Grenoble,0-1,/match/auxerre/grenoble-foot-38/2020,2020,12,ligue_2,20,28,2,0,1,7,4,4,3,17,12,WWWDDWLLDWD,3,1,1,10,5,12,3,6,2,12,11,DLDDWDLDWLD,2,3,1,8,7,WDWLW,DDWLDL
+Guingamp,Clermont,1-2,/match/guingamp/clermont-foot/2020,2020,12,ligue_2,20,28,2,1,2,6,4,4,3,16,13,DWWDLLDWWWD,3,2,1,12,6,14,4,3,4,12,13,WLDLDWLLDWL,3,0,2,5,6,DWLDWW,LLWLW
+Le Mans,Niort,1-0,/match/mans-uc-72/chamois-niortais/2020,2020,12,ligue_2,20,28,0,1,0,19,2,0,9,11,23,LWLWLWWLWWW,2,0,4,8,10,13,3,5,3,11,10,LDWLDLLDDWD,2,2,1,5,4,LLLWLW,DLLDW
+Nancy,Lens,0-0,/match/nancy/lens/2020,2020,12,ligue_2,20,28,1,0,0,3,3,7,1,13,11,DDDWWDDWDWD,3,3,0,9,4,4,6,3,2,17,11,LWDLWDWLWLD,3,2,1,11,7,DDWDWW,LDWDLL
+Orléans,Chateauroux,1-1,/match/orleans/berrichonne-chateauroux/2020,2020,12,ligue_2,20,28,1,1,1,20,1,5,5,8,14,DLWLDLDDLLD,0,1,4,3,9,18,1,4,6,3,12,WDWLDLWDLDL,1,2,3,2,8,LLLDL,WWDWLD
+Paris FC,Caen,2-4,/match/paris-sg/caen/2020,2020,12,ligue_2,20,28,2,2,4,17,2,2,7,5,15,WDWLWLDLWWL,1,1,3,2,7,16,1,5,5,6,13,DLLDDLWLWDD,1,2,2,4,5,DLLLW,DLDWW
+Rodez,Chambly,2-0,/match/rodez/chambly/2020,2020,12,ligue_2,20,28,0,2,0,10,4,3,4,15,15,WDWWDDWWLWL,3,1,1,11,7,15,3,4,4,6,9,WLDDDLLWLWD,2,1,2,4,4,WWDWL,LDLWW
+Sochaux,Ajaccio,0-2,/match/sochaux/ajaccio/2020,2020,12,ligue_2,20,28,2,0,2,2,5,4,2,14,5,DDWWWWDWLWD,4,2,0,11,1,5,5,4,2,13,9,DLLLWWDLWDD,3,1,1,7,5,DWWDWW,LLWLD
+Lorient,Troyes,0-1,/match/lorient/troyes/2020,2020,12,ligue_2,20,28,2,0,1,1,7,3,1,16,7,WLDWLLLWLDD,3,1,1,6,2,8,6,1,4,15,11,LLLDWLWLLWW,3,1,1,6,3,WWLWD,LDLLW
+Valenciennes,Le Havre,0-0,/match/valenciennes-afc/havre-ac/2020,2020,12,ligue_2,20,28,1,0,0,9,4,4,3,7,8,WDLWLWDDWLD,2,2,1,4,4,11,4,5,2,18,13,DDLLWLDDLWD,3,2,1,12,8,DWWDL,DLLLDW
+Ajaccio,Rodez,1-0,/match/ajaccio/rodez/2020,2020,13,ligue_2,20,28,0,1,0,5,6,4,2,15,9,DLLLWWDLWDDL,2,3,1,6,4,6,5,3,4,17,15,WDWWDDWWLWLW,1,2,3,4,8,DLWDWD,DWDWWL
+Caen,Orléans,2-1,/match/caen/orleans/2020,2020,13,ligue_2,20,28,0,2,1,16,2,5,5,10,15,DLLDDLWLWDDL,0,3,3,2,8,18,1,6,5,9,15,DLWLDLDDLLDD,1,4,1,5,5,LDLLDD,DWDDLD
+Chambly,Guingamp,1-5,/match/chambly/guingamp/2020,2020,13,ligue_2,20,28,2,1,5,15,3,4,5,6,11,WLDDDLLWLWDW,1,3,2,2,5,8,4,4,4,17,15,DWWDLLDWWWDL,1,2,2,4,7,WDDLLD,WDLWD
+Chateauroux,Auxerre,1-0,/match/berrichonne-chateauroux/auxerre/2020,2020,13,ligue_2,20,28,0,1,0,20,1,5,6,4,13,WDWLDLWDLDLD,0,2,3,1,4,12,4,4,4,17,13,WWWDDWLLDWDL,1,3,2,7,7,DLLDL,WWDLDD
+Troyes,Valenciennes,1-0,/match/troyes/valenciennes-afc/2020,2020,13,ligue_2,20,28,0,1,0,7,7,1,4,16,11,LLLDWLWLLWWL,3,0,3,9,8,9,4,5,3,7,8,WDLWLWDDWLDD,2,2,2,3,4,LLWWLW,WLLDWD
+Clermont,Le Mans,0-1,/match/clermont-foot/mans-uc-72/2020,2020,13,ligue_2,20,28,2,0,1,13,5,3,4,14,14,WLDLDWLLDWLL,1,3,2,7,7,17,3,0,9,12,23,LWLWLWWLWWWW,0,0,5,3,13,WDDLDL,WWWWW
+Grenoble,Paris FC,0-0,/match/grenoble-foot-38/paris-sg/2020,2020,13,ligue_2,20,28,1,0,0,10,4,6,2,13,11,DLDDWDLDWLDL,1,3,1,4,4,19,2,2,8,7,19,WDWLWLDLWWLL,1,1,4,3,8,LDDWD,WWWDWL
+Lens,Lorient,1-0,/match/lens/lorient/2020,2020,13,ligue_2,20,28,0,1,0,4,6,4,2,17,11,LWDLWDWLWLDD,3,1,1,6,4,1,7,3,2,16,8,WLDWLLLWLDDL,4,2,0,10,5,WLWWD,LDLLLD
+Niort,Sochaux,0-2,/match/chamois-niortais/sochaux/2020,2020,13,ligue_2,20,28,2,0,2,14,3,5,4,11,11,LDWLDLLDDWDW,1,3,2,6,6,2,5,4,3,14,7,DDWWWWDWLWDL,1,2,2,3,4,LWDLDD,DWWLD
+Le Havre,Nancy,1-1,/match/havre-ac/nancy/2020,2020,13,ligue_2,20,28,1,1,1,11,4,6,2,18,13,DDLLWLDDLWDD,1,3,1,6,5,3,3,8,1,13,11,DDDWWDDWDWDD,0,4,1,4,7,DWDLD,DWDDD
+Auxerre,Caen,1-1,/match/auxerre/caen/2020,2020,14,ligue_2,20,28,1,1,1,12,4,4,5,17,14,WWWDDWLLDWDLW,3,1,2,10,6,15,3,5,5,12,16,DLLDDLWLWDDLW,2,2,2,8,7,WDWLWL,DLDWWL
+Chambly,Clermont,0-1,/match/chambly/clermont-foot/2020,2020,14,ligue_2,20,28,2,0,1,16,3,4,6,7,16,WLDDDLLWLWDWL,1,3,3,3,10,13,5,3,5,14,15,WLDLDWLLDWLLL,4,0,2,7,7,WDDLLDL,LLWLWL
+Le Mans,Grenoble,0-0,/match/mans-uc-72/grenoble-foot-38/2020,2020,14,ligue_2,20,28,1,0,0,17,4,0,9,13,23,LWLWLWWLWWWWL,3,0,4,9,10,9,4,7,2,13,11,DLDDWDLDWLDLD,3,3,1,9,7,LLLWLWW,DDWLDLL
+Lorient,Niort,4-1,/match/lorient/chamois-niortais/2020,2020,14,ligue_2,20,28,0,4,1,6,7,3,3,16,9,WLDWLLLWLDDLW,3,1,2,6,3,14,3,5,5,11,13,LDWLDLLDDWDWL,2,2,2,5,5,WWLWDL,DLLDWW
+Nancy,Troyes,0-0,/match/nancy/troyes/2020,2020,14,ligue_2,20,28,1,0,0,4,3,9,1,14,12,DDDWWDDWDWDDD,3,4,0,9,4,5,8,1,4,17,11,LLLDWLWLLWWLW,4,1,1,7,3,DDWDWWD,LDLLWL
+Orléans,Paris FC,0-1,/match/orleans/paris-sg/2020,2020,14,ligue_2,20,28,2,0,1,19,1,6,6,10,17,DLWLDLDDLLDDW,0,2,4,4,10,20,2,3,8,7,19,WDWLWLDLWWLLD,1,2,4,3,8,LLLDLD,WWWDWLD
+Sochaux,Le Havre,2-0,/match/sochaux/havre-ac/2020,2020,14,ligue_2,20,28,0,2,0,3,6,4,3,16,7,DDWWWWDWLWDLL,4,2,1,11,3,10,4,7,2,19,14,DDLLWLDDLWDDD,3,3,1,12,8,DWWDWWL,DLLLDWD
+Valenciennes,Chateauroux,0-1,/match/valenciennes-afc/berrichonne-chateauroux/2020,2020,14,ligue_2,20,28,2,0,1,11,4,5,4,7,9,WDLWLWDDWLDDW,2,3,1,4,4,18,2,5,6,5,13,WDWLDLWDLDLDW,1,3,3,3,9,DWWDLD,WWDWLDD
+Guingamp,Ajaccio,1-1,/match/guingamp/ajaccio/2020,2020,14,ligue_2,20,28,1,1,1,8,5,4,4,22,16,DWWDLLDWWWDLL,3,2,2,13,8,2,7,4,2,16,9,DLLLWWDLWDDLW,4,1,1,9,5,DWLDWWL,LLWLDL
+Rodez,Lens,1-2,/match/rodez/lens/2020,2020,14,ligue_2,20,28,2,1,2,7,5,3,5,17,16,WDWWDDWWLWLWW,4,1,1,13,7,1,7,4,2,18,11,LWDLWDWLWLDDW,3,3,1,11,7,WWDWLW,LDWDLLD
+Ajaccio,Clermont,1-1,/match/ajaccio/clermont-foot/2020,2020,15,ligue_2,20,28,1,1,1,4,7,5,2,17,10,DLLLWWDLWDDLWD,3,3,1,7,4,12,6,3,5,15,15,WLDLDWLLDWLLLL,5,0,2,8,7,DLWDWDW,LLWLWLL
+Caen,Le Mans,3-3,/match/caen/mans-uc-72/2020,2020,15,ligue_2,20,28,1,3,3,14,3,6,5,13,17,DLLDDLWLWDDLWD,1,3,3,4,9,16,4,1,9,13,23,LWLWLWWLWWWWLD,1,0,5,4,13,LDLLDDW,WWWWWL
+Chateauroux,Lorient,1-3,/match/berrichonne-chateauroux/lorient/2020,2020,15,ligue_2,20,28,2,1,3,18,3,5,6,6,13,WDWLDLWDLDLDWL,1,2,3,2,4,3,8,3,3,20,10,WLDWLLLWLDDLWW,4,2,1,10,6,DLLDLW,LDLLLDW
+Grenoble,Nancy,1-1,/match/grenoble-foot-38/nancy/2020,2020,15,ligue_2,20,28,1,1,1,9,4,8,2,13,11,DLDDWDLDWLDLDD,1,4,1,4,4,5,3,10,1,14,12,DDDWWDDWDWDDDD,0,5,1,5,8,LDDWDD,DWDDDD
+Niort,Rodez,2-1,/match/chamois-niortais/rodez/2020,2020,15,ligue_2,20,28,0,2,1,15,3,5,6,12,17,LDWLDLLDDWDWLW,1,3,3,6,8,8,5,3,6,18,18,WDWWDDWWLWLWWL,1,2,4,4,9,LWDLDDL,DWDWWLW
+Orléans,Valenciennes,0-1,/match/orleans/valenciennes-afc/2020,2020,15,ligue_2,20,28,2,0,1,20,1,6,7,10,18,DLWLDLDDLLDDWL,0,2,5,4,11,13,4,5,5,7,10,WDLWLWDDWLDDWL,2,2,3,3,5,LLLDLDL,WLLDWDW
+Paris FC,Auxerre,2-0,/match/paris-sg/auxerre/2020,2020,15,ligue_2,20,28,0,2,0,19,3,3,8,8,19,WDWLWLDLWWLLDL,1,1,4,4,11,11,4,5,5,18,15,WWWDDWLLDWDLWD,1,3,3,7,8,DLLLWL,WWDLDDW
+Troyes,Chambly,0-4,/match/troyes/chambly/2020,2020,15,ligue_2,20,28,2,0,4,6,8,2,4,17,11,LLLDWLWLLWWLWD,4,0,3,10,8,17,3,4,7,7,17,WLDDDLLWLWDWLL,2,1,3,4,6,LLWWLWW,LDLWWW
+Lens,Sochaux,4-0,/match/lens/sochaux/2020,2020,15,ligue_2,20,28,0,4,0,2,8,4,2,20,12,LWDLWDWLWLDDWL,4,1,1,7,4,1,7,4,3,18,7,DDWWWWDWLWDLLW,2,2,2,5,4,WLWWDW,DWWLDL
+Le Havre,Guingamp,4-0,/match/havre-ac/guingamp/2020,2020,15,ligue_2,20,28,0,4,0,10,4,7,3,19,16,DDLLWLDDLWDDDW,1,4,1,7,6,7,5,5,4,23,17,DWWDLLDWWWDLLD,2,2,2,9,8,DWDLDD,WDLWDL
+Auxerre,Orléans,2-2,/match/auxerre/orleans/2020,2020,16,ligue_2,20,28,1,2,2,12,4,5,6,18,17,WWWDDWLLDWDLWDW,3,2,2,11,7,20,1,6,8,10,19,DLWLDLDDLLDDWLL,1,4,2,6,7,WDWLWLD,DWDDLDW
+Chambly,Ajaccio,0-2,/match/chambly/ajaccio/2020,2020,16,ligue_2,20,28,2,0,2,17,4,4,7,11,17,WLDDDLLWLWDWLLL,1,3,4,3,11,4,7,6,2,18,11,DLLLWWDLWDDLWDD,4,2,1,10,6,WDDLLDLL,LLWLDLD
+Clermont,Niort,1-0,/match/clermont-foot/chamois-niortais/2020,2020,16,ligue_2,20,28,0,1,0,13,6,4,5,16,16,WLDLDWLLDWLLLLD,1,3,3,7,8,14,4,5,6,14,18,LDWLDLLDDWDWLWW,2,2,3,6,9,WDDLDLL,DLLDWWW
+Guingamp,Caen,1-1,/match/guingamp/caen/2020,2020,16,ligue_2,20,28,1,1,1,8,5,5,5,23,21,DWWDLLDWWWDLLDW,3,3,2,14,9,15,3,7,5,16,20,DLLDDLWLWDDLWDD,2,3,2,9,8,DWLDWWLD,DLDWWLD
+Le Mans,Chateauroux,1-2,/match/mans-uc-72/berrichonne-chateauroux/2020,2020,16,ligue_2,20,28,2,1,2,16,4,2,9,16,26,LWLWLWWLWWWWLDD,3,1,4,9,10,19,3,5,7,7,16,WDWLDLWDLDLDWLL,2,3,3,4,9,LLLWLWWD,WWDWLDDL
+Lorient,Grenoble,2-1,/match/lorient/grenoble-foot-38/2020,2020,16,ligue_2,20,28,0,2,1,3,9,3,3,23,11,WLDWLLLWLDDLWWL,4,1,2,10,4,9,4,9,2,14,12,DLDDWDLDWLDLDDD,3,4,1,9,7,WWLWDLW,DDWLDLLD
+Nancy,Paris FC,2-0,/match/nancy/paris-sg/2020,2020,16,ligue_2,20,28,0,2,0,5,3,11,1,15,13,DDDWWDDWDWDDDDD,3,5,0,9,4,18,4,3,8,10,19,WDWLWLDLWWLLDLW,2,2,4,4,8,DDWDWWDD,WWWDWLDL
+Rodez,Le Havre,1-2,/match/rodez/havre-ac/2020,2020,16,ligue_2,20,28,2,1,2,11,5,3,7,19,20,WDWWDDWWLWLWWLW,4,1,2,14,9,7,5,7,3,23,16,DDLLWLDDLWDDDWW,3,3,2,12,10,WWDWLWL,DLLLDWDW
+Valenciennes,Lens,2-0,/match/valenciennes-afc/lens/2020,2020,16,ligue_2,20,28,0,2,0,10,5,5,5,8,10,WDLWLWDDWLDDWLL,2,3,2,4,5,1,9,4,2,24,12,LWDLWDWLWLDDWLW,4,3,1,13,8,DWWDLDL,LDWDLLDL
+Sochaux,Troyes,0-1,/match/sochaux/troyes/2020,2020,16,ligue_2,20,28,2,0,1,2,7,4,4,18,11,DDWWWWDWLWDLLWW,5,2,1,13,3,6,8,2,5,17,15,LLLDWLWLLWWLWDL,4,2,1,7,3,DWWDWWLW,LDLLWLD
+Caen,Nancy,1-0,/match/caen/nancy/2020,2020,17,ligue_2,20,28,0,1,0,15,3,8,5,17,21,DLLDDLWLWDDLWDDD,1,4,3,7,12,4,4,11,1,17,13,DDDWWDDWDWDDDDDW,0,6,1,6,9,LDLLDDWD,DWDDDDD
+Auxerre,Valenciennes,1-1,/match/auxerre/valenciennes-afc/2020,2020,17,ligue_2,20,28,1,1,1,12,4,6,6,20,19,WWWDDWLLDWDLWDWD,3,3,2,13,9,9,6,5,5,10,10,WDLWLWDDWLDDWLLW,3,2,3,4,5,WDWLWLDD,WLLDWDWL
+Chateauroux,Sochaux,1-1,/match/berrichonne-chateauroux/sochaux/2020,2020,17,ligue_2,20,28,1,1,1,18,4,5,7,9,17,WDWLDLWDLDLDWLLL,1,2,4,3,7,5,7,4,5,18,12,DDWWWWDWLWDLLWWL,2,2,3,5,8,DLLDLWL,DWWLDLW
+Grenoble,Clermont,1-1,/match/grenoble-foot-38/clermont-foot/2020,2020,17,ligue_2,20,28,1,1,1,11,4,9,3,15,14,DLDDWDLDWLDLDDDW,1,5,1,5,5,10,7,4,5,17,16,WLDLDWLLDWLLLLDW,5,1,2,9,8,LDDWDDD,LLWLWLLD
+Le Havre,Le Mans,2-0,/match/havre-ac/mans-uc-72/2020,2020,17,ligue_2,20,28,0,2,0,7,6,7,3,25,17,DDLLWLDDLWDDDWWL,2,4,1,11,6,16,4,2,10,17,28,LWLWLWWLWWWWLDDL,1,1,5,7,16,DWDLDDW,WWWWWLD
+Lens,Chambly,3-0,/match/lens/chambly/2020,2020,17,ligue_2,20,28,0,3,0,2,9,4,3,24,14,LWDLWDWLWLDDWLWW,5,1,1,11,4,17,4,4,8,11,19,WLDDDLLWLWDWLLLL,3,1,3,8,6,WLWWDWW,LDLWWWL
+Niort,Ajaccio,0-1,/match/chamois-niortais/ajaccio/2020,2020,17,ligue_2,20,28,2,0,1,14,4,5,7,14,19,LDWLDLLDDWDWLWWW,2,3,3,8,9,3,8,6,2,20,11,DLLLWWDLWDDLWDDL,5,2,1,12,6,LWDLDDLW,LLWLDLDL
+Orléans,Lorient,0-4,/match/orleans/lorient/2020,2020,17,ligue_2,20,28,2,0,4,20,1,7,8,12,21,DLWLDLDDLLDDWLLD,0,2,6,4,12,1,10,3,3,25,12,WLDWLLLWLDDLWWLW,5,2,1,13,7,LLLDLDLL,LDLLLDWL
+Paris FC,Guingamp,0-3,/match/paris-sg/guingamp/2020,2020,17,ligue_2,20,28,2,0,3,19,4,3,9,10,21,WDWLWLDLWWLLDLWW,2,1,4,6,11,8,5,6,5,24,22,DWWDLLDWWWDLLDWD,2,2,3,9,12,DLLLWLW,WDLWDLW
+Troyes,Rodez,1-0,/match/troyes/rodez/2020,2020,17,ligue_2,20,28,0,1,0,6,9,2,5,18,15,LLLDWLWLLWWLWDLL,4,0,4,10,12,13,5,3,8,20,22,WDWWDDWWLWLWWLWL,1,2,5,5,11,LLWWLWWL,DWDWWLWW
+Clermont,Le Havre,2-1,/match/clermont-foot/havre-ac/2020,2020,18,ligue_2,20,28,0,2,1,11,7,5,5,18,17,WLDLDWLLDWLLLLDWD,2,3,3,8,8,7,7,7,3,27,17,DDLLWLDDLWDDDWWLW,4,3,2,14,11,WDDLDLLW,DLLLDWDWL
+Le Mans,Orléans,3-2,/match/mans-uc-72/orleans/2020,2020,18,ligue_2,20,28,0,3,2,17,4,2,11,17,30,LWLWLWWLWWWWLDDLW,3,1,5,10,12,20,1,7,9,12,25,DLWLDLDDLLDDWLLDL,1,5,2,8,9,LLLWLWWDL,DWDDLDWD
+Lorient,Auxerre,1-0,/match/lorient/auxerre/2020,2020,18,ligue_2,20,28,0,1,0,2,11,3,3,29,12,WLDWLLLWLDDLWWLWL,5,1,2,12,5,12,4,7,6,21,20,WWWDDWLLDWDLWDWDD,1,3,4,7,10,WWLWDLWW,WWDLDDWW
+Nancy,Chateauroux,2-1,/match/nancy/berrichonne-chateauroux/2020,2020,18,ligue_2,20,28,0,2,1,4,4,11,2,17,14,DDDWWDDWDWDDDDDWW,4,5,0,11,4,16,4,6,7,10,18,WDWLDLWDLDLDWLLLD,3,3,3,6,10,DDWDWWDDW,WWDWLDDLL
+Rodez,Caen,2-1,/match/rodez/caen/2020,2020,18,ligue_2,20,28,0,2,1,14,5,3,9,20,23,WDWWDDWWLWLWWLWLW,4,1,3,15,11,13,4,8,5,18,21,DLLDDLWLWDDLWDDDW,2,4,2,10,9,WWDWLWLL,DLDWWLDD
+Sochaux,Grenoble,1-1,/match/sochaux/grenoble-foot-38/2020,2020,18,ligue_2,20,28,1,1,1,6,7,5,5,19,13,DDWWWWDWLWDLLWWLD,5,2,2,13,4,10,4,10,3,16,15,DLDDWDLDWLDLDDDWD,3,4,2,10,9,DWWDWWLWL,DDWLDLLDW
+Valenciennes,Paris FC,1-0,/match/valenciennes-afc/paris-sg/2020,2020,18,ligue_2,20,28,0,1,0,9,6,6,5,11,11,WDLWLWDDWLDDWLLWD,3,3,2,6,5,19,4,3,10,10,24,WDWLWLDLWWLLDLWWL,2,2,5,4,10,DWWDLDLW,WWWDWLDLW
+Chambly,Niort,3-2,/match/chambly/chamois-niortais/2020,2020,18,ligue_2,20,28,0,3,2,18,4,4,9,11,22,WLDDDLLWLWDWLLLLW,1,3,5,3,13,15,4,5,8,14,20,LDWLDLLDDWDWLWWWL,2,2,4,6,10,WDDLLDLLL,DLLDWWWW
+Ajaccio,Lens,1-2,/match/ajaccio/lens/2020,2020,18,ligue_2,20,28,2,1,2,3,9,6,2,21,11,DLLLWWDLWDDLWDDLL,3,4,1,8,5,1,10,4,3,27,14,LWDLWDWLWLDDWLWWW,4,3,2,13,10,DLWDWDWD,LDWDLLDLW
+Guingamp,Troyes,0-1,/match/guingamp/troyes/2020,2020,18,ligue_2,20,28,2,0,1,8,6,6,5,27,22,DWWDLLDWWWDLLDWDL,3,4,2,15,10,5,10,2,5,19,15,LLLDWLWLLWWLWDLLW,5,2,1,8,3,DWLDWWLDD,LDLLWLDL
+Auxerre,Nancy,0-0,/match/auxerre/nancy/2020,2020,19,ligue_2,20,28,1,0,0,13,4,7,7,21,21,WWWDDWLLDWDLWDWDDW,3,4,2,14,10,3,5,11,2,19,15,DDDWWDDWDWDDDDDWWW,0,6,2,6,10,WDWLWLDDD,DWDDDDDW
+Caen,Clermont,0-0,/match/caen/clermont-foot/2020,2020,19,ligue_2,20,28,1,0,0,14,4,8,6,19,23,DLLDDLWLWDDLWDDDWW,2,4,3,8,12,9,8,5,5,20,18,WLDLDWLLDWLLLLDWDW,5,2,2,10,9,LDLLDDWDW,LLWLWLLDD
+Chateauroux,Guingamp,1-5,/match/berrichonne-chateauroux/guingamp/2020,2020,19,ligue_2,20,28,2,1,5,18,4,6,8,11,20,WDWLDLWDLDLDWLLLDW,1,3,4,4,8,10,6,6,6,27,23,DWWDLLDWWWDLLDWDLL,3,2,3,12,12,DLLDLWLD,WDLWDLWL
+Grenoble,Rodez,2-1,/match/grenoble-foot-38/rodez/2020,2020,19,ligue_2,20,28,0,2,1,11,4,11,3,17,16,DLDDWDLDWLDLDDDWDD,1,6,1,6,6,12,6,3,9,22,24,WDWWDDWWLWLWWLWLWW,1,2,6,5,12,LDDWDDDD,DWDWWLWWW
+Le Havre,Chambly,1-1,/match/havre-ac/chambly/2020,2020,19,ligue_2,20,28,1,1,1,8,7,7,4,28,19,DDLLWLDDLWDDDWWLWW,3,4,1,13,6,16,5,4,9,14,24,WLDDDLLWLWDWLLLLWW,3,1,4,8,9,DWDLDDWW,LDLWWWLW
+Orléans,Sochaux,1-0,/match/orleans/sochaux/2020,2020,19,ligue_2,20,28,0,1,0,20,1,7,10,14,28,DLWLDLDDLLDDWLLDLW,0,2,7,4,16,6,7,6,5,20,14,DDWWWWDWLWDLLWWLDD,2,3,3,6,9,LLLDLDLLL,DWWLDLWD
+Valenciennes,Lorient,3-0,/match/valenciennes-afc/lorient/2020,2020,19,ligue_2,20,28,0,3,0,7,7,6,5,12,11,WDLWLWDDWLDDWLLWDW,4,3,2,7,5,1,12,3,3,30,12,WLDWLLLWLDDLWWLWLW,6,2,1,17,7,DWWDLDLWW,LDLLLDWLL
+Lens,Niort,1-0,/match/lens/chamois-niortais/2020,2020,19,ligue_2,20,28,0,1,0,2,11,4,3,29,15,LWDLWDWLWLDDWLWWWL,6,1,1,14,4,17,4,5,9,16,23,LDWLDLLDDWDWLWWWLW,2,2,5,8,13,WLWWDWWW,DLLDWWWWW
+Paris FC,Le Mans,0-3,/match/paris-sg/mans-uc-72/2020,2020,19,ligue_2,20,28,2,0,3,19,4,3,11,10,25,WDWLWLDLWWLLDLWWLW,2,1,5,6,14,15,5,2,11,20,32,LWLWLWWLWWWWLDDLWW,1,1,6,7,18,DLLLWLWL,WWWWWLDW
+Troyes,Ajaccio,2-1,/match/troyes/ajaccio/2020,2020,19,ligue_2,20,28,0,2,1,5,11,2,5,20,15,LLLDWLWLLWWLWDLLWL,5,0,4,11,12,4,9,6,3,22,13,DLLLWWDLWDDLWDDLLL,6,2,1,13,6,LLWWLWWLW,LLWLDLDLL
+Ajaccio,Grenoble,3-1,/match/ajaccio/grenoble-foot-38/2020,2020,20,ligue_2,20,28,0,3,1,6,9,6,4,23,15,DLLLWWDLWDDLWDDLLLW,3,4,2,9,7,9,5,11,3,19,17,DLDDWDLDWLDLDDDWDDW,3,5,2,11,10,DLWDWDWDL,DDWLDLLDWD
+Chambly,Orléans,1-0,/match/chambly/orleans/2020,2020,20,ligue_2,20,28,0,1,0,16,5,5,9,15,25,WLDDDLLWLWDWLLLLWWD,2,3,5,6,15,20,2,7,10,15,28,DLWLDLDDLLDDWLLDLWW,1,5,3,10,12,WDDLLDLLLW,DWDDLDWDW
+Clermont,Troyes,3-2,/match/clermont-foot/troyes/2020,2020,20,ligue_2,20,28,0,3,2,10,8,6,5,20,18,WLDLDWLLDWLLLLDWDWD,3,3,3,10,9,3,12,2,5,22,16,LLLDWLWLLWWLWDLLWLW,6,2,1,9,3,WDDLDLLWW,LDLLWLDLL
+Le Mans,Auxerre,0-1,/match/mans-uc-72/auxerre/2020,2020,20,ligue_2,20,28,2,0,1,15,6,2,11,23,32,LWLWLWWLWWWWLDDLWWL,4,1,5,13,14,12,4,8,7,21,21,WWWDDWLLDWDLWDWDDWD,1,3,5,7,11,LLLWLWWDLW,WWDLDDWWW
+Nancy,Valenciennes,1-0,/match/nancy/valenciennes-afc/2020,2020,20,ligue_2,20,28,0,1,0,4,5,12,2,19,15,DDDWWDDWDWDDDDDWWWD,5,5,0,13,5,5,8,6,5,15,11,WDLWLWDDWLDDWLLWDWW,3,3,3,5,6,DDWDWWDDWW,WLLDWDWLD
+Niort,Le Havre,0-1,/match/chamois-niortais/havre-ac/2020,2020,20,ligue_2,20,28,2,0,1,17,4,5,10,16,24,LDWLDLLDDWDWLWWWLWW,2,3,4,8,10,8,7,8,4,29,20,DDLLWLDDLWDDDWWLWWD,4,3,3,15,13,LWDLDDLWL,DLLLDWDWLW
+Rodez,Chateauroux,1-2,/match/rodez/berrichonne-chateauroux/2020,2020,20,ligue_2,20,28,2,1,2,13,6,3,10,23,26,WDWWDDWWLWLWWLWLWWW,5,1,3,17,12,18,4,6,9,12,25,WDWLDLWDLDLDWLLLDWL,3,3,4,7,12,WWDWLWLLW,WWDWLDDLLW
+Sochaux,Paris FC,1-1,/match/sochaux/paris-sg/2020,2020,20,ligue_2,20,28,1,1,1,7,7,6,6,20,15,DDWWWWDWLWDLLWWLDDW,5,3,2,14,5,19,4,3,12,10,28,WDWLWLDLWWLLDLWWLWL,2,2,6,4,11,DWWDWWLWLD,WWWDWLDLWW
+Lorient,Caen,2-1,/match/lorient/caen/2020,2020,20,ligue_2,20,28,0,2,1,2,12,3,4,30,15,WLDWLLLWLDDLWWLWLWW,6,1,2,13,5,14,4,9,6,19,23,DLLDDLWLWDDLWDDDWWD,2,4,3,11,11,WWLWDLWWW,DLDWWLDDW
+Guingamp,Lens,1-1,/match/guingamp/lens/2020,2020,20,ligue_2,20,28,1,1,1,11,7,6,6,32,24,DWWDLLDWWWDLLDWDLLL,3,4,3,15,11,1,12,4,3,30,15,LWDLWDWLWLDDWLWWWLW,5,3,2,15,11,DWLDWWLDDL,LDWDLLDLWL
+Auxerre,Sochaux,2-1,/match/auxerre/sochaux/2020,2020,21,ligue_2,20,28,0,2,1,12,5,8,7,22,21,WWWDDWLLDWDLWDWDDWDL,3,5,2,14,10,8,7,7,6,21,16,DDWWWWDWLWDLLWWLDDWD,2,3,4,6,10,WDWLWLDDDD,DWWLDLWDW
+Caen,Ajaccio,0-1,/match/caen/ajaccio/2020,2020,21,ligue_2,20,28,2,0,1,14,4,9,7,20,25,DLLDDLWLWDDLWDDDWWDW,2,5,3,8,12,5,10,6,4,26,16,DLLLWWDLWDDLWDDLLLWW,6,2,2,14,8,LDLLDDWDWD,LLWLDLDLLW
+Chateauroux,Niort,1-1,/match/berrichonne-chateauroux/chamois-niortais/2020,2020,21,ligue_2,20,28,1,1,1,17,5,6,9,14,26,WDWLDLWDLDLDWLLLDWLL,1,3,5,5,13,18,4,5,11,16,25,LDWLDLLDDWDWLWWWLWWL,2,2,6,8,14,DLLDLWLDL,DLLDWWWWWW
+Grenoble,Chambly,0-0,/match/grenoble-foot-38/chambly/2020,2020,21,ligue_2,20,28,1,0,0,11,5,11,4,20,20,DLDDWDLDWLDLDDDWDDWW,2,6,1,8,7,15,6,5,9,16,25,WLDDDLLWLWDWLLLLWWDW,3,2,4,9,10,LDDWDDDDW,LDLWWWLWD
+Lorient,Nancy,2-1,/match/lorient/nancy/2020,2020,21,ligue_2,20,28,0,2,1,2,13,3,4,32,16,WLDWLLLWLDDLWWLWLWWW,7,1,2,15,6,3,6,12,2,20,15,DDDWWDDWDWDDDDDWWWDW,0,7,2,6,10,WWLWDLWWWW,DWDDDDDWD
+Orléans,Guingamp,2-0,/match/orleans/guingamp/2020,2020,21,ligue_2,20,28,0,2,0,20,2,7,11,15,29,DLWLDLDDLLDDWLLDLWWW,1,2,7,5,16,10,7,7,6,33,25,DWWDLLDWWWDLLDWDLLLD,4,2,3,17,13,LLLDLDLLLW,WDLWDLWLL
+Paris FC,Rodez,0-0,/match/paris-sg/rodez/2020,2020,21,ligue_2,20,28,1,0,0,19,4,4,12,11,29,WDWLWLDLWWLLDLWWLWLD,2,1,6,6,17,13,6,3,11,24,28,WDWWDDWWLWLWWLWLWWWL,1,2,7,6,14,DLLLWLWLL,DWDWWLWWWW
+Valenciennes,Le Mans,1-0,/match/valenciennes-afc/mans-uc-72/2020,2020,21,ligue_2,20,28,0,1,0,7,8,6,6,15,12,WDLWLWDDWLDDWLLWDWWW,5,3,2,10,5,16,6,2,12,23,33,LWLWLWWLWWWWLDDLWWLL,2,1,6,10,18,DWWDLDLWWW,WWWWWLDWL
+Lens,Clermont,1-1,/match/lens/clermont-foot/2020,2020,21,ligue_2,20,28,1,1,1,1,12,5,3,31,16,LWDLWDWLWLDDWLWWWLWD,7,1,1,15,4,6,9,6,5,23,20,WLDLDWLLDWLLLLDWDWDW,5,3,2,10,9,WLWWDWWWW,LLWLWLLDDD
+Le Havre,Troyes,1-0,/match/havre-ac/troyes/2020,2020,21,ligue_2,20,28,0,1,0,9,8,8,4,30,20,DDLLWLDDLWDDDWWLWWDL,3,5,1,14,7,4,12,2,6,24,19,LLLDWLWLLWWLWDLLWLWW,6,2,2,11,6,DWDLDDWWD,LDLLWLDLLW
+Ajaccio,Chateauroux,0-1,/match/ajaccio/berrichonne-chateauroux/2020,2020,22,ligue_2,20,28,2,0,1,4,11,6,4,27,16,DLLLWWDLWDDLWDDLLLWWL,4,4,2,12,8,17,5,7,9,15,27,WDWLDLWDLDLDWLLLDWLLD,4,3,4,9,13,DLWDWDWDLW,WWDWLDDLLWL
+Chambly,Caen,0-1,/match/chambly/caen/2020,2020,22,ligue_2,20,28,2,0,1,14,6,6,9,16,25,WLDDDLLWLWDWLLLLWWDWD,3,3,5,7,15,15,4,9,8,20,26,DLLDDLWLWDDLWDDDWWDWL,2,4,4,12,13,WDDLLDLLLWW,DLDWWLDDWW
+Clermont,Orléans,3-1,/match/clermont-foot/orleans/2020,2020,22,ligue_2,20,28,0,3,1,8,9,7,5,24,21,WLDLDWLLDWLLLLDWDWDWD,4,3,3,13,11,20,3,7,11,17,29,DLWLDLDDLLDDWLLDLWWWW,1,5,4,10,13,WDDLDLLWWW,DWDDLDWDWW
+Guingamp,Auxerre,1-0,/match/guingamp/auxerre/2020,2020,22,ligue_2,20,28,0,1,0,12,7,7,7,33,27,DWWDLLDWWWDLLDWDLLLDW,3,5,3,16,12,10,6,8,7,24,22,WWWDDWLLDWDLWDWDDWDLW,2,3,5,8,11,DWLDWWLDDLD,WWDLDDWWWL
+Le Havre,Lens,0-0,/match/havre-ac/lens/2020,2020,22,ligue_2,20,28,1,0,0,6,9,8,4,31,20,DDLLWLDDLWDDDWWLWWDLW,4,5,1,15,7,2,12,6,3,32,17,LWDLWDWLWLDDWLWWWLWDD,5,4,2,16,12,DWDLDDWWDW,LDWDLLDLWLD
+Le Mans,Nancy,1-1,/match/mans-uc-72/nancy/2020,2020,22,ligue_2,20,28,1,1,1,16,6,2,13,23,34,LWLWLWWLWWWWLDDLWWLLW,4,1,6,13,15,3,6,12,3,21,17,DDDWWDDWDWDDDDDWWWDWW,0,7,3,7,12,LLLWLWWDLWL,DWDDDDDWDW
+Niort,Paris FC,4-4,/match/chamois-niortais/paris-sg/2020,2020,22,ligue_2,20,28,1,4,4,18,4,6,11,17,26,LDWLDLLDDWDWLWWWLWWLD,2,3,5,8,11,19,4,5,12,11,29,WDWLWLDLWWLLDLWWLWLDD,2,3,6,5,12,LWDLDDLWLL,WWWDWLDLWWD
+Rodez,Valenciennes,1-1,/match/rodez/valenciennes-afc/2020,2020,22,ligue_2,20,28,1,1,1,13,6,4,11,24,28,WDWWDDWWLWLWWLWLWWWLD,5,1,4,18,14,5,9,6,6,16,12,WDLWLWDDWLDDWLLWDWWWW,3,3,4,5,7,WWDWLWLLWL,WLLDWDWLDW
+Troyes,Grenoble,1-2,/match/troyes/grenoble-foot-38/2020,2020,22,ligue_2,20,28,2,1,2,7,12,2,7,24,20,LLLDWLWLLWWLWDLLWLWWW,6,0,4,13,13,11,5,12,4,20,20,DLDDWDLDWLDLDDDWDDWWD,3,5,3,12,13,LLWWLWWLWW,DDWLDLLDWDW
+Sochaux,Lorient,0-4,/match/sochaux/lorient/2020,2020,22,ligue_2,20,28,2,0,4,9,7,7,7,22,18,DDWWWWDWLWDLLWWLDDWDW,5,4,2,15,6,1,14,3,4,34,17,WLDWLLLWLDDLWWLWLWWWW,6,2,2,17,10,DWWDWWLWLDD,LDLLLDWLLW
+Grenoble,Le Havre,1-1,/match/grenoble-foot-38/havre-ac/2020,2020,23,ligue_2,20,28,1,1,1,10,6,12,4,22,21,DLDDWDLDWLDLDDDWDDWWDL,2,7,1,8,7,4,9,9,4,31,20,DDLLWLDDLWDDDWWLWWDLWD,5,3,3,16,13,LDDWDDDDWD,DLLLDWDWLWL
+Auxerre,Clermont,0-0,/match/auxerre/clermont-foot/2020,2020,23,ligue_2,20,28,1,0,0,12,6,8,8,24,23,WWWDDWLLDWDLWDWDDWDLWW,4,5,2,16,11,7,10,7,5,27,22,WLDLDWLLDWLLLLDWDWDWDW,5,4,2,11,10,WDWLWLDDDDW,LLWLWLLDDDD
+Caen,Niort,4-3,/match/caen/chamois-niortais/2020,2020,23,ligue_2,20,28,0,4,3,14,5,9,8,21,26,DLLDDLWLWDDLWDDDWWDWLL,2,5,4,8,13,18,4,7,11,21,30,LDWLDLLDDWDWLWWWLWWLDD,2,3,6,9,15,LDLLDDWDWDL,DLLDWWWWWWD
+Chateauroux,Chambly,0-3,/match/berrichonne-chateauroux/chambly/2020,2020,23,ligue_2,20,28,2,0,3,17,6,7,9,16,27,WDWLDLWDLDLDWLLLDWLLDL,1,4,5,6,14,15,6,6,10,16,26,WLDDDLLWLWDWLLLLWWDWDL,3,3,4,9,10,DLLDLWLDLD,LDLWWWLWDD
+Lens,Troyes,1-0,/match/lens/troyes/2020,2020,23,ligue_2,20,28,0,1,0,2,12,7,3,32,17,LWDLWDWLWLDDWLWWWLWDDD,7,2,1,16,5,8,12,2,8,25,22,LLLDWLWLLWWLWDLLWLWWWL,6,2,3,11,7,WLWWDWWWWD,LDLLWLDLLWW
+Lorient,Le Mans,4-2,/match/lorient/mans-uc-72/2020,2020,23,ligue_2,20,28,0,4,2,1,15,3,4,38,17,WLDWLLLWLDDLWWLWLWWWWL,8,1,2,17,7,16,6,3,13,24,35,LWLWLWWLWWWWLDDLWWLLWD,2,1,7,10,19,WWLWDLWWWWW,WWWWWLDWLW
+Nancy,Sochaux,1-1,/match/nancy/sochaux/2020,2020,23,ligue_2,20,28,1,1,1,3,6,13,3,22,18,DDDWWDDWDWDDDDDWWWDWWD,6,5,0,14,5,11,7,7,8,22,22,DDWWWWDWLWDLLWWLDDWDWL,2,3,5,7,12,DDWDWWDDWWW,DWWLDLWDWW
+Orléans,Rodez,1-2,/match/orleans/rodez/2020,2020,23,ligue_2,20,28,2,1,2,20,3,7,12,18,32,DLWLDLDDLLDDWLLDLWWWWW,2,2,7,7,16,13,6,5,11,25,29,WDWWDDWWLWLWWLWLWWWLDD,1,3,7,6,14,LLLDLDLLLWW,DWDWWLWWWWD
+Paris FC,Ajaccio,2-3,/match/paris-sg/ajaccio/2020,2020,23,ligue_2,20,28,2,2,3,19,4,6,12,15,33,WDWLWLDLWWLLDLWWLWLDDD,2,2,6,6,17,5,11,6,5,27,17,DLLLWWDLWDDLWDDLLLWWLL,7,2,2,15,8,DLLLWLWLLD,LLWLDLDLLWL
+Valenciennes,Guingamp,0-0,/match/valenciennes-afc/guingamp/2020,2020,23,ligue_2,20,28,1,0,0,6,9,7,6,17,13,WDLWLWDDWLDDWLLWDWWWWD,6,3,2,11,5,9,8,7,7,34,27,DWWDLLDWWWDLLDWDLLLDWW,4,2,4,17,15,DWWDLDLWWWW,WDLWDLWLLW
+Ajaccio,Auxerre,2-3,/match/ajaccio/auxerre/2020,2020,24,ligue_2,20,28,2,2,3,5,12,6,5,30,19,DLLLWWDLWDDLWDDLLLWWLLL,4,4,3,12,9,12,6,9,8,24,23,WWWDDWLLDWDLWDWDDWDLWWD,2,3,6,8,12,DLWDWDWDLWL,WWDLDDWWWLW
+Chambly,Paris FC,1-2,/match/chambly/paris-sg/2020,2020,24,ligue_2,20,28,2,1,2,15,7,6,10,19,26,WLDDDLLWLWDWLLLLWWDWDLL,3,3,6,7,16,19,4,6,13,17,36,WDWLWLDLWWLLDLWWLWLDDDL,2,4,6,9,16,WDDLLDLLLWWL,WWWDWLDLWWDD
+Clermont,Valenciennes,3-1,/match/clermont-foot/valenciennes-afc/2020,2020,24,ligue_2,20,28,0,3,1,7,10,8,5,27,22,WLDLDWLLDWLLLLDWDWDWDWD,5,3,3,16,12,6,9,8,6,17,13,WDLWLWDDWLDDWLLWDWWWWDD,3,4,4,6,8,WDDLDLLWWWW,WLLDWDWLDWD
+Le Havre,Caen,1-1,/match/havre-ac/caen/2020,2020,24,ligue_2,20,28,1,1,1,4,9,10,4,32,21,DDLLWLDDLWDDDWWLWWDLWDD,4,6,1,15,7,13,6,9,8,25,29,DLLDDLWLWDDLWDDDWWDWLLW,3,4,4,13,13,DWDLDDWWDWD,DLDWWLDDWWL
+Niort,Orléans,2-0,/match/chamois-niortais/orleans/2020,2020,24,ligue_2,20,28,0,2,0,18,4,7,12,24,34,LDWLDLLDDWDWLWWWLWWLDDW,2,4,5,12,15,20,3,7,13,19,34,DLWLDLDDLLDDWLLDLWWWWWL,1,5,5,11,16,LWDLDDLWLLD,DWDDLDWDWWW
+Rodez,Nancy,1-1,/match/rodez/nancy/2020,2020,24,ligue_2,20,28,1,1,1,14,7,5,11,27,30,WDWWDDWWLWLWWLWLWWWLDDL,5,2,4,19,15,3,6,14,3,23,19,DDDWWDDWDWDDDDDWWWDWWDD,0,8,3,8,13,WWDWLWLLWLD,DWDDDDDWDWD
+Sochaux,Le Mans,1-0,/match/sochaux/mans-uc-72/2020,2020,24,ligue_2,20,28,0,1,0,11,7,8,8,23,23,DDWWWWDWLWDLLWWLDDWDWLD,5,4,3,15,10,16,6,3,14,26,39,LWLWLWWLWWWWLDDLWWLLWDW,2,1,8,12,23,DWWDWWLWLDDL,WWWWWLDWLWW
+Troyes,Chateauroux,2-0,/match/troyes/berrichonne-chateauroux/2020,2020,24,ligue_2,20,28,0,2,0,8,12,2,9,25,23,LLLDWLWLLWWLWDLLWLWWWLW,6,0,5,14,15,17,6,7,10,16,30,WDWLDLWDLDLDWLLLDWLLDLL,5,3,4,10,13,LLWWLWWLWWL,WWDWLDDLLWLL
+Guingamp,Lorient,2-1,/match/guingamp/lorient/2020,2020,24,ligue_2,20,28,0,2,1,9,8,8,7,34,27,DWWDLLDWWWDLLDWDLLLDWWD,4,5,3,17,12,1,16,3,4,42,19,WLDWLLLWLDDLWWLWLWWWWLW,7,2,2,21,10,DWLDWWLDDLDW,LDLLLDWLLWL
+Lens,Grenoble,0-0,/match/lens/grenoble-foot-38/2020,2020,24,ligue_2,20,28,1,0,0,2,13,7,3,33,17,LWDLWDWLWLDDWLWWWLWDDDW,8,2,1,17,5,10,6,13,4,23,22,DLDDWDLDWLDLDDDWDDWWDLD,4,5,3,14,14,WLWWDWWWWDW,DDWLDLLDWDWL
+Auxerre,Chambly,0-0,/match/auxerre/chambly/2020,2020,25,ligue_2,20,28,1,0,0,12,7,9,8,27,25,WWWDDWLLDWDLWDWDDWDLWWDL,4,6,2,16,11,15,7,6,11,20,28,WLDDDLLWLWDWLLLLWWDWDLLL,4,3,4,12,10,WDWLWLDDDDWD,LDLWWWLWDDL
+Caen,Troyes,0-1,/match/caen/troyes/2020,2020,25,ligue_2,20,28,2,0,1,13,6,10,8,26,30,DLLDDLWLWDDLWDDDWWDWLLWD,3,5,4,12,16,8,13,2,9,27,23,LLLDWLWLLWWLWDLLWLWWWLWW,6,2,4,11,8,LDLLDDWDWDLW,LDLLWLDLLWWW
+Grenoble,Niort,3-1,/match/grenoble-foot-38/chamois-niortais/2020,2020,25,ligue_2,20,28,0,3,1,11,6,14,4,23,22,DLDDWDLDWLDLDDDWDDWWDLDD,2,8,1,9,8,16,5,7,12,26,34,LDWLDLLDDWDWLWWWLWWLDDWW,2,3,7,12,19,LDDWDDDDWDD,DLLDWWWWWWDW
+Le Mans,Rodez,0-0,/match/mans-uc-72/rodez/2020,2020,25,ligue_2,20,28,1,0,0,17,6,3,15,26,40,LWLWLWWLWWWWLDDLWWLLWDWW,4,2,6,14,16,14,7,6,11,28,31,WDWWDDWWLWLWWLWLWWWLDDLD,2,3,7,8,15,LLLWLWWDLWLD,DWDWWLWWWWDL
+Orléans,Ajaccio,0-3,/match/orleans/ajaccio/2020,2020,25,ligue_2,20,28,2,0,3,20,3,7,14,19,36,DLWLDLDDLLDDWLLDLWWWWWLW,2,2,8,8,18,6,12,6,6,32,22,DLLLWWDLWDDLWDDLLLWWLLLL,8,2,2,18,10,LLLDLDLLLWWL,LLWLDLDLLWLL
+Paris FC,Le Havre,1-0,/match/paris-sg/havre-ac/2020,2020,25,ligue_2,20,28,0,1,0,19,5,6,13,19,37,WDWLWLDLWWLLDLWWLWLDDDLL,2,2,7,8,20,5,9,11,4,33,22,DDLLWLDDLWDDDWWLWWDLWDDD,5,4,3,17,14,DLLLWLWLLDL,DLLLDWDWLWLD
+Valenciennes,Sochaux,3-2,/match/valenciennes-afc/sochaux/2020,2020,25,ligue_2,20,28,0,3,2,7,9,8,7,18,16,WDLWLWDDWLDDWLLWDWWWWDDW,6,4,2,11,5,10,8,8,8,24,23,DDWWWWDWLWDLLWWLDDWDWLDW,2,4,5,8,13,DWWDLDLWWWWD,DWWLDLWDWWD
+Lorient,Clermont,0-1,/match/lorient/clermont-foot/2020,2020,25,ligue_2,20,28,2,0,1,1,16,3,5,43,21,WLDWLLLWLDDLWWLWLWWWWLWW,9,1,2,21,9,4,11,8,5,30,23,WLDLDWLLDWLLLLDWDWDWDWDW,5,5,2,11,10,WWLWDLWWWWWW,LLWLWLLDDDDD
+Nancy,Guingamp,0-1,/match/nancy/guingamp/2020,2020,25,ligue_2,20,28,2,0,1,3,6,15,3,24,20,DDDWWDDWDWDDDDDWWWDWWDDD,6,6,0,15,6,9,9,8,7,36,28,DWWDLLDWWWDLLDWDLLLDWWDW,4,3,4,17,15,DDWDWWDDWWWD,WDLWDLWLLWD
+Chateauroux,Lens,3-2,/match/berrichonne-chateauroux/lens/2020,2020,25,ligue_2,20,28,0,3,2,18,6,7,11,16,32,WDWLDLWDLDLDWLLLDWLLDLLW,1,4,6,6,17,2,13,8,3,33,17,LWDLWDWLWLDDWLWWWLWDDDWD,5,5,2,16,12,DLLDLWLDLDL,LDWDLLDLWLDD
+Ajaccio,Le Mans,2-0,/match/ajaccio/mans-uc-72/2020,2020,26,ligue_2,20,28,0,2,0,7,13,6,6,35,22,DLLLWWDLWDDLWDDLLLWWLLLLL,4,4,4,14,12,18,6,4,15,26,40,LWLWLWWLWWWWLDDLWWLLWDWWD,2,1,9,12,24,DLWDWDWDLWLL,WWWWWLDWLWWW
+Chambly,Nancy,2-1,/match/chambly/nancy/2020,2020,26,ligue_2,20,28,0,2,1,15,7,7,11,20,28,WLDDDLLWLWDWLLLLWWDWDLLLD,3,3,7,8,18,5,6,15,4,24,21,DDDWWDDWDWDDDDDWWWDWWDDDL,0,9,3,9,14,WDDLLDLLLWWLL,DWDDDDDWDWDD
+Clermont,Paris FC,0-1,/match/clermont-foot/paris-sg/2020,2020,26,ligue_2,20,28,2,0,1,3,12,8,5,31,23,WLDLDWLLDWLLLLDWDWDWDWDWL,6,3,3,19,13,19,6,6,13,20,37,WDWLWLDLWWLLDLWWLWLDDDLLW,3,4,6,11,17,WDDLDLLWWWWW,WWWDWLDLWWDDL
+Grenoble,Chateauroux,0-1,/match/grenoble-foot-38/berrichonne-chateauroux/2020,2020,26,ligue_2,20,28,2,0,1,10,7,14,4,26,23,DLDDWDLDWLDLDDDWDDWWDLDDW,3,8,1,12,9,16,7,7,11,19,34,WDWLDLWDLDLDWLLLDWLLDLLWW,5,3,5,10,15,LDDWDDDDWDDW,WWDWLDDLLWLLW
+Guingamp,Sochaux,1-1,/match/guingamp/sochaux/2020,2020,26,ligue_2,20,28,1,1,1,9,10,8,7,37,28,DWWDLLDWWWDLLDWDLLLDWWDWL,5,5,3,19,13,11,8,8,9,26,26,DDWWWWDWLWDLLWWLDDWDWLDWW,2,4,6,10,16,DWLDWWLDDLDWW,DWWLDLWDWWDW
+Le Havre,Orléans,1-2,/match/havre-ac/orleans/2020,2020,26,ligue_2,20,28,2,1,2,6,9,11,5,33,23,DDLLWLDDLWDDDWWLWWDLWDDDW,4,7,1,16,8,20,3,7,15,19,39,DLWLDLDDLLDDWLLDLWWWWWLWL,1,5,6,11,18,DWDLDDWWDWDD,DWDDLDWDWWWW
+Niort,Valenciennes,1-0,/match/chamois-niortais/valenciennes-afc/2020,2020,26,ligue_2,20,28,0,1,0,17,5,7,13,27,37,LDWLDLLDDWDWLWWWLWWLDDWWW,3,4,5,14,15,4,10,8,7,21,18,WDLWLWDDWLDDWLLWDWWWWDDWW,3,4,5,7,11,LWDLDDLWLLDW,WLLDWDWLDWDW
+Rodez,Lorient,0-1,/match/rodez/lorient/2020,2020,26,ligue_2,20,28,2,0,1,13,7,7,11,28,31,WDWWDDWWLWLWWLWLWWWLDDLDD,5,3,4,20,16,1,16,3,6,43,22,WLDWLLLWLDDLWWLWLWWWWLWWL,7,2,3,22,12,WWDWLWLLWLDD,LDLLLDWLLWLW
+Lens,Caen,1-4,/match/lens/caen/2020,2020,26,ligue_2,20,28,2,1,4,2,13,8,4,35,20,LWDLWDWLWLDDWLWWWLWDDDWDW,8,3,1,17,5,14,6,10,9,26,31,DLLDDLWLWDDLWDDDWWDWLLWDL,3,5,4,14,14,WLWWDWWWWDWD,DLDWWLDDWWLD
+Troyes,Auxerre,3-1,/match/troyes/auxerre/2020,2020,26,ligue_2,20,28,0,3,1,8,14,2,9,28,23,LLLDWLWLLWWLWDLLWLWWWLWWL,7,0,5,16,15,12,7,10,8,27,25,WWWDDWLLDWDLWDWDDWDLWWDLD,3,3,6,11,14,LLWWLWWLWWLW,WWDLDDWWWLWL
+Auxerre,Niort,3-1,/match/auxerre/chamois-niortais/2020,2020,27,ligue_2,20,28,0,3,1,12,7,10,9,28,28,WWWDDWLLDWDLWDWDDWDLWWDLDW,4,7,2,16,11,17,6,7,13,28,37,LDWLDLLDDWDWLWWWLWWLDDWWWW,2,3,8,13,22,WDWLWLDDDDWDD,DLLDWWWWWWDWW
+Caen,Grenoble,2-0,/match/caen/grenoble-foot-38/2020,2020,27,ligue_2,20,28,0,2,0,13,7,10,9,30,32,DLLDDLWLWDDLWDDDWWDWLLWDLL,3,5,5,12,17,10,7,14,5,26,24,DLDDWDLDWLDLDDDWDDWWDLDDWL,4,6,3,14,14,LDLLDDWDWDLWL,DDWLDLLDWDWLD
+Chateauroux,Le Havre,0-3,/match/berrichonne-chateauroux/havre-ac/2020,2020,27,ligue_2,20,28,2,0,3,16,8,7,11,20,34,WDWLDLWDLDLDWLLLDWLLDLLWWL,2,4,6,9,19,9,9,11,6,34,25,DDLLWLDDLWDDDWWLWWDLWDDDWL,5,4,4,17,15,DLLDLWLDLDLW,DLLLDWDWLWLDW
+Le Mans,Guingamp,2-1,/match/mans-uc-72/guingamp/2020,2020,27,ligue_2,20,28,0,2,1,19,6,4,16,26,42,LWLWLWWLWWWWLDDLWWLLWDWWDW,4,3,6,14,16,8,10,9,7,38,29,DWWDLLDWWWDLLDWDLLLDWWDWLD,5,3,4,18,15,LLLWLWWDLWLDD,WDLWDLWLLWDL
+Nancy,Clermont,1-2,/match/nancy/clermont-foot/2020,2020,27,ligue_2,20,28,2,1,2,7,6,15,5,25,23,DDDWWDDWDWDDDDDWWWDWWDDDLW,6,6,1,15,7,5,12,8,6,31,24,WLDLDWLLDWLLLLDWDWDWDWDWLL,6,5,2,12,10,DDWDWWDDWWWDL,LLWLWLLDDDDDL
+Orléans,Troyes,0-2,/match/orleans/troyes/2020,2020,27,ligue_2,20,28,2,0,2,20,4,7,15,21,40,DLWLDLDDLLDDWLLDLWWWWWLWLL,2,2,9,8,21,4,15,2,9,31,24,LLLDWLWLLWWLWDLLWLWWWLWWLW,7,2,4,12,8,LLLDLDLLLWWLL,LDLLWLDLLWWWL
+Sochaux,Rodez,1-1,/match/sochaux/rodez/2020,2020,27,ligue_2,20,28,1,1,1,11,8,9,9,27,27,DDWWWWDWLWDLLWWLDDWDWLDWWD,6,4,3,16,10,14,7,7,12,28,32,WDWWDDWWLWLWWLWLWWWLDDLDDL,2,4,7,8,15,DWWDWWLWLDDLW,DWDWWLWWWWDLD
+Valenciennes,Ajaccio,0-0,/match/valenciennes-afc/ajaccio/2020,2020,27,ligue_2,20,28,1,0,0,6,10,8,8,21,19,WDLWLWDDWLDDWLLWDWWWWDDWWW,7,4,2,14,7,3,14,6,6,37,22,DLLLWWDLWDDLWDDLLLWWLLLLLW,9,2,2,21,10,DWWDLDLWWWWDW,LLWLDLDLLWLLL
+Lorient,Chambly,1-2,/match/lorient/chambly/2020,2020,27,ligue_2,20,28,2,1,2,1,17,3,6,44,22,WLDWLLLWLDDLWWLWLWWWWLWWLL,9,1,3,21,10,15,8,7,11,22,29,WLDDDLLWLWDWLLLLWWDWDLLLDW,4,4,4,12,10,WWLWDLWWWWWWL,LDLWWWLWDDLD
+Paris FC,Lens,0-2,/match/paris-sg/lens/2020,2020,27,ligue_2,20,28,2,0,2,18,7,6,13,21,37,WDWLWLDLWWLLDLWWLWLDDDLLWL,3,2,7,9,20,2,13,8,5,36,24,LWDLWDWLWLDDWLWWWLWDDDWDWL,5,5,3,18,15,DLLLWLWLLDLW,LDWDLLDLWLDDW
+Chambly,Le Mans,2-2,/match/chambly/mans-uc-72/2020,2020,28,ligue_2,20,28,1,2,2,14,9,7,11,24,30,WLDDDLLWLWDWLLLLWWDWDLLLDWL,4,3,7,10,19,18,7,4,16,28,43,LWLWLWWLWWWWLDDLWWLLWDWWDWW,2,1,10,12,26,WDDLLDLLLWWLLW,WWWWWLDWLWWWW
+Chateauroux,Caen,2-1,/match/berrichonne-chateauroux/caen/2020,2020,28,ligue_2,20,28,0,2,1,16,8,7,12,20,37,WDWLDLWDLDLDWLLLDWLLDLLWWLL,2,4,7,9,22,13,8,10,9,32,32,DLLDDLWLWDDLWDDDWWDWLLWDLLW,4,5,4,18,15,DLLDLWLDLDLWL,DLDWWLDDWWLDL
+Clermont,Sochaux,2-0,/match/clermont-foot/sochaux/2020,2020,28,ligue_2,20,28,0,2,0,5,13,8,6,33,25,WLDLDWLLDWLLLLDWDWDWDWDWLLL,6,3,4,19,14,11,8,10,9,28,28,DDWWWWDWLWDLLWWLDDWDWLDWWDD,2,5,6,11,17,WDDLDLLWWWWWL,DWWLDLWDWWDWD
+Grenoble,Valenciennes,1-3,/match/grenoble-foot-38/valenciennes-afc/2020,2020,28,ligue_2,20,28,2,1,3,12,7,14,6,26,26,DLDDWDLDWLDLDDDWDDWWDLDDWLW,3,8,2,12,10,6,10,9,8,21,19,WDLWLWDDWLDDWLLWDWWWWDDWWWD,3,4,6,7,12,LDDWDDDDWDDWL,WLLDWDWLDWDWW
+Le Havre,Auxerre,1-0,/match/havre-ac/auxerre/2020,2020,28,ligue_2,20,28,0,1,0,7,10,11,6,37,25,DDLLWLDDLWDDDWWLWWDLWDDDWLL,4,7,2,17,10,10,8,10,9,31,29,WWWDDWLLDWDLWDWDDWDLWWDLDWW,3,3,7,12,17,DWDLDDWWDWDDL,WWDLDDWWWLWLW
+Niort,Nancy,1-1,/match/chamois-niortais/nancy/2020,2020,28,ligue_2,20,28,1,1,1,17,6,7,14,29,40,LDWLDLLDDWDWLWWWLWWLDDWWWWW,4,4,5,15,15,8,6,15,6,26,25,DDDWWDDWDWDDDDDWWWDWWDDDLWL,0,9,4,10,16,LWDLDDLWLLDWW,DWDDDDDWDWDDW
+Rodez,Guingamp,2-1,/match/rodez/guingamp/2020,2020,28,ligue_2,20,28,0,2,1,15,7,8,12,29,33,WDWWDDWWLWLWWLWLWWWLDDLDDLD,5,3,5,20,17,9,10,9,8,39,31,DWWDLLDWWWDLLDWDLLLDWWDWLDW,5,3,5,19,17,WWDWLWLLWLDDL,WDLWDLWLLWDLW
+Troyes,Paris FC,1-1,/match/troyes/paris-sg/2020,2020,28,ligue_2,20,28,1,1,1,3,16,2,9,33,24,LLLDWLWLLWWLWDLLWLWWWLWWLWL,8,0,5,19,16,19,7,6,14,21,39,WDWLWLDLWWLLDLWWLWLDDDLLWLL,4,4,6,12,17,LLWWLWWLWWLWW,WWWDWLDLWWDDLL
+Ajaccio,Lorient,1-0,/match/ajaccio/lorient/2020,2020,28,ligue_2,20,28,0,1,0,4,14,7,6,37,22,DLLLWWDLWDDLWDDLLLWWLLLLLWD,5,4,4,16,12,1,17,3,7,45,24,WLDWLLLWLDDLWWLWLWWWWLWWLLL,8,2,3,23,12,DLWDWDWDLWLLW,LDLLLDWLLWLWL
+Lens,Orléans,1-0,/match/lens/orleans/2020,2020,28,ligue_2,20,28,0,1,0,2,14,8,5,38,24,LWDLWDWLWLDDWLWWWLWDDDWDWLL,8,3,2,18,9,20,4,7,16,21,42,DLWLDLDDLLDDWLLDLWWWWWLWLLL,2,5,6,13,19,WLWWDWWWWDWDL,DWDDLDWDWWWWL

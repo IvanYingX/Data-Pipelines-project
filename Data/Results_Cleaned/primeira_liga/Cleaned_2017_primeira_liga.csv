@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Rio Ave,Porto,1-3,/match/rio-ave/fc-porto/2017,2017,1,primeira_liga,18,34,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Moreirense,Paços Ferreira,1-1,/match/moreirense-fc/pacos-ferreira/2017,2017,1,primeira_liga,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting CP,Marítimo,2-0,/match/sporting-lisbon/maritimo/2017,2017,1,primeira_liga,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Tondela,Benfica,0-2,/match/tondela/benfica/2017,2017,1,primeira_liga,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Boavista,Arouca,2-0,/match/boavista/arouca/2017,2017,1,primeira_liga,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória Setúbal,Belenenses,2-0,/match/vitoria-setubal/belenenses/2017,2017,1,primeira_liga,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória,Sporting Braga,0-1,/match/vitoria-guimaraes/sporting-braga/2017,2017,1,primeira_liga,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Estoril,Feirense,0-2,/match/estoril/feirense/2017,2017,1,primeira_liga,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nacional,Chaves,0-1,/match/nacional/chaves/2017,2017,1,primeira_liga,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Belenenses,Boavista,0-0,/match/belenenses/boavista/2017,2017,2,primeira_liga,18,34,1,0,0,12,0,0,1,0,2,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Marítimo,Vitória,0-2,/match/maritimo/vitoria-guimaraes/2017,2017,2,primeira_liga,18,34,2,0,2,16,0,0,1,0,2,W,0,0,0,0,0,14,0,0,1,0,1,L,0,0,0,0,0,,
+Chaves,Tondela,1-1,/match/chaves/tondela/2017,2017,2,primeira_liga,18,34,1,1,1,7,1,0,0,1,0,L,0,0,0,0,0,17,0,0,1,0,2,L,0,0,0,0,0,,
+Paços Ferreira,Sporting CP,0-1,/match/pacos-ferreira/sporting-lisbon/2017,2017,2,primeira_liga,18,34,2,0,1,10,0,1,0,1,1,D,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
+Porto,Estoril,1-0,/match/fc-porto/estoril/2017,2017,2,primeira_liga,18,34,0,1,0,5,1,0,0,3,1,L,0,0,0,0,0,18,0,0,1,0,2,L,0,0,0,0,0,,
+Feirense,Moreirense,0-3,/match/feirense/moreirense-fc/2017,2017,2,primeira_liga,18,34,2,0,3,6,1,0,0,2,0,L,0,0,0,0,0,4,0,1,0,1,1,D,0,0,0,0,0,,
+Arouca,Nacional,2-0,/match/arouca/nacional/2017,2017,2,primeira_liga,18,34,0,2,0,11,0,0,1,0,2,W,0,0,0,0,0,15,0,0,1,0,1,L,0,0,0,0,0,,
+Benfica,Vitória Setúbal,1-1,/match/benfica/vitoria-setubal/2017,2017,2,primeira_liga,18,34,1,1,1,8,1,0,0,2,0,L,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
+Sporting Braga,Rio Ave,1-1,/match/sporting-braga/rio-ave/2017,2017,2,primeira_liga,18,34,1,1,1,9,1,0,0,1,0,L,0,0,0,0,0,13,0,0,1,1,3,L,0,0,0,0,0,,
+Vitória,Paços Ferreira,5-3,/match/vitoria-guimaraes/pacos-ferreira/2017,2017,3,primeira_liga,18,34,0,5,3,10,1,0,1,2,1,LL,0,0,1,0,1,14,0,1,1,1,2,DL,0,1,0,1,1,L,D
+Tondela,Belenenses,0-1,/match/tondela/belenenses/2017,2017,3,primeira_liga,18,34,2,0,1,13,0,1,1,1,3,LD,0,0,1,0,2,12,0,1,1,0,2,WD,0,0,1,0,2,L,W
+Estoril,Sporting Braga,1-3,/match/estoril/sporting-braga/2017,2017,3,primeira_liga,18,34,2,1,3,18,0,0,2,0,3,LW,0,0,1,0,2,8,1,1,0,2,1,LD,1,0,0,1,0,L,L
+Nacional,Benfica,1-3,/match/nacional/benfica/2017,2017,3,primeira_liga,18,34,2,1,3,16,0,0,2,0,3,LW,0,0,1,0,1,7,1,1,0,3,1,LD,1,0,0,2,0,L,L
+Boavista,Chaves,2-2,/match/boavista/chaves/2017,2017,3,primeira_liga,18,34,1,2,2,3,1,1,0,2,0,WD,1,0,0,2,0,6,1,1,0,2,1,LD,1,0,0,1,0,W,L
+Moreirense,Marítimo,0-1,/match/moreirense-fc/maritimo/2017,2017,3,primeira_liga,18,34,2,0,1,5,1,1,0,4,1,DL,0,1,0,1,1,17,0,0,2,0,4,WL,0,0,1,0,2,D,W
+Sporting CP,Porto,2-1,/match/sporting-lisbon/fc-porto/2017,2017,3,primeira_liga,18,34,0,2,1,1,2,0,0,3,0,WL,1,0,0,2,0,2,2,0,0,4,1,LW,1,0,0,3,1,W,L
+Rio Ave,Feirense,1-0,/match/rio-ave/feirense/2017,2017,3,primeira_liga,18,34,0,1,0,15,0,1,1,2,4,LD,0,0,1,1,3,11,1,0,1,2,3,LL,1,0,0,2,0,L,L
+Vitória Setúbal,Arouca,2-0,/match/vitoria-setubal/arouca/2017,2017,3,primeira_liga,18,34,0,2,0,4,1,1,0,3,1,WD,1,0,0,2,0,9,1,0,1,2,2,WW,0,0,1,0,2,W,W
+Arouca,Benfica,1-2,/match/arouca/benfica/2017,2017,4,primeira_liga,18,34,2,1,2,10,1,0,2,2,4,WWW,1,0,0,2,0,4,2,1,0,6,2,LDL,2,0,0,5,1,W,LL
+Belenenses,Nacional,2-1,/match/belenenses/nacional/2017,2017,4,primeira_liga,18,34,0,2,1,12,1,1,1,1,2,WDL,0,1,0,0,0,17,0,0,3,1,6,LWL,0,0,1,0,2,D,W
+Sporting CP,Moreirense,3-0,/match/sporting-lisbon/moreirense-fc/2017,2017,4,primeira_liga,18,34,0,3,0,1,3,0,0,5,1,WLW,2,0,0,4,1,11,1,1,1,4,2,DLL,1,0,0,3,0,WW,L
+Porto,Vitória,3-0,/match/fc-porto/vitoria-guimaraes/2017,2017,4,primeira_liga,18,34,0,3,0,5,2,0,1,5,3,LWW,1,0,0,1,0,7,2,0,1,7,4,LLW,1,0,0,2,0,W,L
+Paços Ferreira,Estoril,0-0,/match/pacos-ferreira/estoril/2017,2017,4,primeira_liga,18,34,1,0,0,16,0,1,2,4,7,DLW,0,0,1,0,1,18,0,0,3,1,6,LWL,0,0,1,0,1,L,W
+Marítimo,Rio Ave,0-1,/match/maritimo/rio-ave/2017,2017,4,primeira_liga,18,34,2,0,1,14,1,0,2,1,4,WLL,0,0,1,0,2,9,1,1,1,3,4,LDW,0,1,0,1,1,L,D
+Sporting Braga,Boavista,3-0,/match/sporting-braga/boavista/2017,2017,4,primeira_liga,18,34,0,3,0,6,2,1,0,5,2,LDL,0,1,0,1,1,3,1,2,0,4,2,WDD,0,1,0,0,0,D,D
+Chaves,Vitória Setúbal,0-0,/match/chaves/vitoria-setubal/2017,2017,4,primeira_liga,18,34,1,0,0,8,1,2,0,4,3,LDD,0,1,0,1,1,2,2,1,0,5,1,WDW,0,1,0,1,1,D,D
+Feirense,Tondela,2-1,/match/feirense/tondela/2017,2017,4,primeira_liga,18,34,0,2,1,13,1,0,2,2,4,LLW,0,0,1,0,3,15,0,1,2,1,4,LDL,0,1,0,1,1,L,D
+Nacional,Marítimo,2-0,/match/nacional/maritimo/2017,2017,5,primeira_liga,18,34,0,2,0,18,0,0,4,2,8,LWLW,0,0,2,1,4,15,1,0,3,1,5,WLLL,1,0,1,1,2,LL,WL
+Estoril,Moreirense,2-0,/match/estoril/moreirense-fc/2017,2017,5,primeira_liga,18,34,0,2,0,17,0,1,3,1,6,LWLD,0,0,2,1,5,13,1,1,2,4,5,DLLW,1,0,1,3,3,LL,LW
+Vitória Setúbal,Paços Ferreira,1-4,/match/vitoria-setubal/pacos-ferreira/2017,2017,5,primeira_liga,18,34,2,1,4,4,2,2,0,5,1,WDWD,2,0,0,4,0,14,0,2,2,4,7,DLWD,0,1,1,4,6,WW,DW
+Vitória,Belenenses,1-1,/match/vitoria-guimaraes/belenenses/2017,2017,5,primeira_liga,18,34,1,1,1,10,2,0,2,7,7,LLWW,1,0,1,5,4,5,2,1,1,3,3,WDLW,1,0,1,1,2,LW,WL
+Arouca,Chaves,0-1,/match/arouca/chaves/2017,2017,5,primeira_liga,18,34,2,0,1,12,1,0,3,3,6,WWWL,1,0,1,3,2,8,1,3,0,4,3,LDDD,1,1,0,3,2,WL,LD
+Boavista,Feirense,1-2,/match/boavista/feirense/2017,2017,5,primeira_liga,18,34,2,1,2,7,1,2,1,4,5,WDDW,1,1,0,4,2,11,2,0,2,4,5,LLWW,1,0,1,2,1,WD,LW
+Tondela,Porto,0-0,/match/tondela/fc-porto/2017,2017,5,primeira_liga,18,34,1,0,0,16,0,1,3,2,6,LDLW,0,0,2,0,3,2,3,0,1,8,3,LWWW,1,0,1,4,3,LL,LW
+Rio Ave,Sporting CP,3-1,/match/rio-ave/sporting-lisbon/2017,2017,5,primeira_liga,18,34,0,3,1,9,2,1,1,4,4,LDWL,1,0,1,2,3,1,4,0,0,8,1,WLWW,1,0,0,1,0,LW,L
+Benfica,Sporting Braga,3-1,/match/benfica/sporting-braga/2017,2017,5,primeira_liga,18,34,0,3,1,6,3,1,0,8,3,LDLL,0,1,0,1,1,3,3,1,0,8,2,LDLW,2,0,0,4,1,D,LL
+Porto,Boavista,3-1,/match/fc-porto/boavista/2017,2017,6,primeira_liga,18,34,0,3,1,3,3,1,1,8,3,LWWWD,2,0,0,4,0,11,1,2,2,5,7,WDDWL,0,1,1,0,3,WW,DW
+Sporting CP,Estoril,4-2,/match/sporting-lisbon/estoril/2017,2017,6,primeira_liga,18,34,0,4,2,1,4,0,1,9,4,WLWWW,3,0,0,7,1,13,1,1,3,3,6,LWLDW,0,1,1,0,1,WWW,WD
+Feirense,Nacional,0-3,/match/feirense/nacional/2017,2017,6,primeira_liga,18,34,2,0,3,9,3,0,2,6,6,LLWWL,1,0,1,2,4,16,1,0,4,4,8,LWLWW,0,0,2,1,4,LW,WW
+Chaves,Benfica,0-2,/match/chaves/benfica/2017,2017,6,primeira_liga,18,34,2,0,2,8,2,3,0,5,3,LDDDL,0,2,0,1,1,2,4,1,0,11,4,LDLLW,3,0,0,7,2,DD,LLL
+Sporting Braga,Vitória Setúbal,2-1,/match/sporting-braga/vitoria-setubal/2017,2017,6,primeira_liga,18,34,0,2,1,5,3,1,1,9,5,LDLWW,1,1,0,4,1,6,2,2,1,6,5,WDWDL,0,2,0,1,1,DW,DD
+Marítimo,Tondela,2-0,/match/maritimo/tondela/2017,2017,6,primeira_liga,18,34,0,2,0,18,1,0,4,1,7,WLLLW,0,0,2,0,3,17,0,2,3,2,6,LDLWD,0,1,1,2,3,LL,DW
+Paços Ferreira,Rio Ave,2-1,/match/pacos-ferreira/rio-ave/2017,2017,6,primeira_liga,18,34,0,2,1,12,1,2,2,8,8,DLWDL,0,1,1,0,1,4,3,1,1,7,5,LDWLW,1,1,0,2,1,LD,DL
+Moreirense,Vitória,0-1,/match/moreirense-fc/vitoria-guimaraes/2017,2017,6,primeira_liga,18,34,2,0,1,15,1,1,3,4,7,DLLWW,0,1,1,1,2,10,2,1,2,8,8,LLWWD,1,0,1,2,3,DL,LW
+Belenenses,Arouca,1-1,/match/belenenses/arouca/2017,2017,6,primeira_liga,18,34,1,1,1,7,2,2,1,4,4,WDLWD,1,1,0,2,1,14,1,0,4,3,7,WWWLL,0,0,2,0,4,DW,WW
+Tondela,Paços Ferreira,2-1,/match/tondela/pacos-ferreira/2017,2017,7,primeira_liga,18,34,0,2,1,18,0,2,4,2,8,LDLWDW,0,1,2,0,3,10,2,2,2,10,9,DLWDLW,1,1,1,8,7,LLD,DWL
+Rio Ave,Estoril,1-2,/match/rio-ave/estoril/2017,2017,7,primeira_liga,18,34,2,1,2,6,3,1,2,8,7,LDWLWW,2,0,1,5,4,15,1,1,4,5,10,LWLDWW,0,1,2,2,5,LWW,WDW
+Chaves,Belenenses,3-1,/match/chaves/belenenses/2017,2017,7,primeira_liga,18,34,0,3,1,9,2,3,1,5,5,LDDDLL,0,2,1,1,3,5,2,3,1,5,5,WDLWDD,1,1,1,2,3,DDL,WLD
+Vitória,Sporting CP,3-3,/match/vitoria-guimaraes/sporting-lisbon/2017,2017,7,primeira_liga,18,34,1,3,3,7,3,1,2,9,8,LLWWDL,1,1,1,6,5,1,5,0,1,13,6,WLWWWW,1,0,1,2,3,LWD,LW
+Nacional,Porto,0-4,/match/nacional/fc-porto/2017,2017,7,primeira_liga,18,34,2,0,4,13,2,0,4,7,8,LWLWWL,1,0,2,3,4,2,4,1,1,11,4,LWWWDW,1,1,1,4,3,LLW,LWD
+Benfica,Feirense,4-0,/match/benfica/feirense/2017,2017,7,primeira_liga,18,34,0,4,0,4,5,1,0,13,4,LDLLWL,1,1,0,4,2,11,3,0,3,6,9,LLWWLL,2,0,1,4,2,DW,LWL
+Vitória Setúbal,Marítimo,0-1,/match/vitoria-setubal/maritimo/2017,2017,7,primeira_liga,18,34,2,0,1,8,2,2,2,7,7,WDWDLW,2,0,1,5,4,14,2,0,4,3,7,WLLLWW,1,0,2,1,4,WWL,WLW
+Boavista,Moreirense,2-0,/match/boavista/moreirense-fc/2017,2017,7,primeira_liga,18,34,0,2,0,12,1,2,3,6,10,WDDWLW,1,1,1,5,4,17,1,1,4,4,8,DLLWWL,1,0,2,3,5,WDL,LWW
+Arouca,Sporting Braga,1-1,/match/arouca/sporting-braga/2017,2017,7,primeira_liga,18,34,1,1,1,16,1,1,4,4,8,WWWLLD,1,0,2,3,3,3,4,1,1,11,6,LDLWWW,2,0,1,5,4,WLL,LLW
+Paços Ferreira,Nacional,1-1,/match/pacos-ferreira/nacional/2017,2017,8,primeira_liga,18,34,1,1,1,11,2,2,3,11,11,DLWDLWW,1,1,1,2,2,17,2,0,5,7,12,LWLWWLL,1,0,2,4,4,LDW,WWL
+Marítimo,Boavista,1-1,/match/maritimo/boavista/2017,2017,8,primeira_liga,18,34,1,1,1,13,3,0,4,4,7,WLLLWWL,1,0,2,2,3,7,2,2,3,8,10,WDDWLWW,0,1,2,1,6,LLW,DWW
+Feirense,Vitória Setúbal,1-1,/match/feirense/vitoria-setubal/2017,2017,8,primeira_liga,18,34,1,1,1,12,3,0,4,6,13,LLWWLLW,1,0,2,2,7,10,2,2,3,7,8,WDWDLWL,0,2,1,2,3,LWL,DDW
+Sporting CP,Tondela,1-1,/match/sporting-lisbon/tondela/2017,2017,8,primeira_liga,18,34,1,1,1,1,5,1,1,16,9,WLWWWWD,4,0,0,11,3,16,1,2,4,4,9,LDLWDWW,0,1,2,2,5,WWWW,DWW
+Porto,Arouca,3-0,/match/fc-porto/arouca/2017,2017,8,primeira_liga,18,34,0,3,0,3,5,1,1,15,4,LWWWDWL,3,0,0,7,1,15,1,2,4,5,9,WWWLLDD,0,1,2,1,5,WWW,WWD
+Moreirense,Rio Ave,1-1,/match/moreirense-fc/rio-ave/2017,2017,8,primeira_liga,18,34,1,1,1,18,1,1,5,4,10,DLLWWLW,0,1,2,1,3,9,3,1,3,9,9,LDWLWWL,1,1,1,3,3,DLL,DLW
+Estoril,Vitória,0-2,/match/estoril/vitoria-guimaraes/2017,2017,8,primeira_liga,18,34,2,0,2,14,2,1,4,7,11,LWLDWWL,1,0,2,3,5,6,3,2,2,12,11,LLWWDLD,2,0,1,3,3,LLW,LWL
+Belenenses,Benfica,0-2,/match/belenenses/benfica/2017,2017,8,primeira_liga,18,34,2,0,2,8,2,3,2,6,8,WDLWDDW,1,2,0,3,2,2,6,1,0,17,4,LDLLWLW,4,0,0,9,2,DWD,LLLL
+Sporting Braga,Chaves,1-0,/match/sporting-braga/chaves/2017,2017,8,primeira_liga,18,34,0,1,0,4,4,2,1,12,7,LDLWWWD,2,1,0,6,2,5,3,3,1,8,6,LDDDLLW,2,1,0,4,2,DWW,LDL
+Benfica,Paços Ferreira,3-0,/match/benfica/pacos-ferreira/2017,2017,9,primeira_liga,18,34,0,3,0,3,7,1,0,19,4,LDLLWLWL,2,1,0,8,2,9,2,3,3,12,12,DLWDLWWD,1,1,2,9,9,DWW,DWLW
+Nacional,Sporting CP,0-0,/match/nacional/sporting-lisbon/2017,2017,9,primeira_liga,18,34,1,0,0,17,2,1,5,8,13,LWLWWLLD,1,0,3,3,8,1,5,2,1,17,10,WLWWWWDD,1,1,1,5,6,LLWL,LWD
+Tondela,Moreirense,1-2,/match/tondela/moreirense-fc/2017,2017,9,primeira_liga,18,34,2,1,2,14,1,3,4,5,10,LDLWDWWD,1,1,2,2,4,18,1,2,5,5,11,DLLWWLWD,1,0,3,3,7,LLDW,LWWW
+Vitória Setúbal,Porto,0-0,/match/vitoria-setubal/fc-porto/2017,2017,9,primeira_liga,18,34,1,0,0,10,2,3,3,8,9,WDWDLWLD,2,0,2,5,5,2,6,1,1,18,4,LWWWDWLW,2,1,1,8,3,WWLL,LWDL
+Boavista,Estoril,0-0,/match/boavista/estoril/2017,2017,9,primeira_liga,18,34,1,0,0,7,2,3,3,9,11,WDDWLWWD,2,1,1,7,4,15,2,1,5,7,13,LWLDWWLL,1,1,2,4,6,WDLW,WDWL
+Arouca,Marítimo,1-0,/match/arouca/maritimo/2017,2017,9,primeira_liga,18,34,0,1,0,16,1,2,5,5,12,WWWLLDDW,1,1,2,4,4,13,3,1,4,5,8,WLLLWWLD,2,0,2,2,4,WLLD,WLWL
+Rio Ave,Vitória,0-3,/match/rio-ave/vitoria-guimaraes/2017,2017,9,primeira_liga,18,34,2,0,3,8,3,2,3,10,10,LDWLWWLD,2,0,2,6,6,5,4,2,2,14,11,LLWWDLDL,3,0,1,5,3,LWWL,LWLL
+Sporting Braga,Belenenses,2-1,/match/sporting-braga/belenenses/2017,2017,9,primeira_liga,18,34,0,2,1,4,5,2,1,13,7,LDLWWWDW,3,1,0,7,2,11,2,3,3,6,10,WDLWDDWL,1,1,2,3,6,DWWW,WLDW
+Chaves,Feirense,1-1,/match/chaves/feirense/2017,2017,9,primeira_liga,18,34,1,1,1,6,3,3,2,8,7,LDDDLLWW,1,2,1,4,4,12,3,1,4,7,14,LLWWLLWD,2,0,2,4,6,DDLW,LWLW
+Vitória,Nacional,2-1,/match/vitoria-guimaraes/nacional/2017,2017,10,primeira_liga,18,34,0,2,1,5,5,2,2,17,11,LLWWDLDLL,1,2,1,9,8,15,2,2,5,8,13,LWLWWLLDD,1,1,2,5,5,LWDD,WWLD
+Estoril,Tondela,2-0,/match/estoril/tondela/2017,2017,10,primeira_liga,18,34,0,2,0,17,2,2,5,7,13,LWLDWWLLD,1,0,3,3,7,16,1,3,5,6,12,LDLWDWWDL,0,2,2,3,6,LLWL,DWWD
+Paços Ferreira,Chaves,1-1,/match/pacos-ferreira/chaves/2017,2017,10,primeira_liga,18,34,1,1,1,10,2,3,4,12,15,DLWDLWWDW,1,2,1,3,3,6,3,4,2,9,8,LDDDLLWWD,2,1,1,4,3,LDWD,LDLW
+Feirense,Belenenses,0-1,/match/feirense/belenenses/2017,2017,10,primeira_liga,18,34,2,0,1,12,3,2,4,8,15,LLWWLLWDD,1,1,2,3,8,11,2,3,4,7,12,WDLWDDWLW,1,1,3,4,8,LWLD,WLDWW
+Rio Ave,Boavista,1-2,/match/rio-ave/boavista/2017,2017,10,primeira_liga,18,34,2,1,2,9,3,2,4,10,13,LDWLWWLDL,2,0,3,6,9,7,2,4,3,9,11,WDDWLWWDD,0,2,2,2,7,LWWLL,DWWD
+Moreirense,Vitória Setúbal,1-2,/match/moreirense-fc/vitoria-setubal/2017,2017,10,primeira_liga,18,34,2,1,2,18,2,2,5,7,12,DLLWWLWDL,0,2,2,2,4,8,2,4,3,8,9,WDWDLWLDD,0,3,1,3,4,DLLD,DDWD
+Porto,Benfica,1-1,/match/fc-porto/benfica/2017,2017,10,primeira_liga,18,34,1,1,1,4,6,2,1,18,4,LWWWDWLWD,4,0,0,10,1,1,8,1,0,22,4,LDLLWLWLW,5,0,0,11,2,WWWW,LLLLL
+Sporting CP,Arouca,3-0,/match/sporting-lisbon/arouca/2017,2017,10,primeira_liga,18,34,0,3,0,3,5,3,1,17,10,WLWWWWDDD,4,1,0,12,4,13,2,2,5,6,12,WWWLLDDWW,0,1,3,1,8,WWWWD,WWDW
+Marítimo,Sporting Braga,1-0,/match/maritimo/sporting-braga/2017,2017,10,primeira_liga,18,34,0,1,0,14,3,1,5,5,9,WLLLWWLDW,1,1,2,3,4,2,6,2,1,15,8,LDLWWWDWW,2,1,1,6,5,LLWD,LLWD
+Vitória Setúbal,Rio Ave,0-1,/match/vitoria-setubal/rio-ave/2017,2017,11,primeira_liga,18,34,2,0,1,8,3,4,3,10,10,WDWDLWLDDL,2,1,2,5,5,12,3,2,5,11,15,LDWLWWLDLL,1,2,1,4,4,WWLLD,DLWD
+Chaves,Marítimo,0-0,/match/chaves/maritimo/2017,2017,11,primeira_liga,18,34,1,0,0,6,3,5,2,10,9,LDDDLLWWDD,1,3,1,5,5,9,4,1,5,6,9,WLLLWWLDWW,2,0,3,2,5,DDLWD,WLWLW
+Nacional,Estoril,0-1,/match/nacional/estoril/2017,2017,11,primeira_liga,18,34,2,0,1,16,2,2,6,9,15,LWLWWLLDDW,1,1,3,3,8,13,3,2,5,9,13,LWLDWWLLDW,1,2,2,4,6,LLWLD,WDWLD
+Boavista,Sporting CP,0-1,/match/boavista/sporting-lisbon/2017,2017,11,primeira_liga,18,34,2,0,1,7,3,4,3,11,12,WDDWLWWDDL,2,2,1,7,4,1,6,3,1,20,10,WLWWWWDDDW,1,2,1,5,6,WDLWD,LWDD
+Belenenses,Porto,0-0,/match/belenenses/fc-porto/2017,2017,11,primeira_liga,18,34,1,0,0,10,3,3,4,8,12,WDLWDDWLWL,1,2,1,3,4,3,6,3,1,19,5,LWWWDWLWDD,2,2,1,8,3,DWDL,LWDLD
+Arouca,Paços Ferreira,1-0,/match/arouca/pacos-ferreira/2017,2017,11,primeira_liga,18,34,0,1,0,15,2,2,6,6,15,WWWLLDDWWW,2,1,2,5,4,11,2,4,4,13,16,DLWDLWWDWD,1,1,3,9,12,WLLDW,DWLWW
+Benfica,Moreirense,3-0,/match/benfica/moreirense-fc/2017,2017,11,primeira_liga,18,34,0,3,0,2,8,2,0,23,5,LDLLWLWLWD,3,1,0,11,2,18,2,2,6,8,14,DLLWWLWDLL,2,0,3,5,8,DWWW,LWWWL
+Tondela,Vitória,2-1,/match/tondela/vitoria-guimaraes/2017,2017,11,primeira_liga,18,34,0,2,1,17,1,3,6,6,14,LDLWDWWDLW,1,1,3,3,6,5,6,2,2,19,12,LLWWDLDLLW,4,0,1,8,3,LLDWL,LWLLL
+Sporting Braga,Feirense,6-2,/match/sporting-braga/feirense/2017,2017,11,primeira_liga,18,34,0,6,2,4,6,2,2,15,9,LDLWWWDWWW,4,1,0,9,3,14,3,2,5,8,16,LLWWLLWDDL,2,1,2,5,7,DWWWW,LWLWD
+Marítimo,Benfica,2-1,/match/maritimo/benfica/2017,2017,12,primeira_liga,18,34,0,2,1,10,4,2,5,6,9,WLLLWWLDWWD,2,1,2,4,4,1,9,2,0,26,5,LDLLWLWLWDW,5,1,0,12,3,LLWDW,LLLLLD
+Rio Ave,Tondela,3-1,/match/rio-ave/tondela/2017,2017,12,primeira_liga,18,34,0,3,1,12,4,2,5,12,15,LDWLWWLDLLL,2,0,4,7,11,15,2,3,6,8,15,LDLWDWWDLWW,0,2,3,3,8,LWWLLL,DWWDW
+Sporting CP,Vitória Setúbal,2-0,/match/sporting-lisbon/vitoria-setubal/2017,2017,12,primeira_liga,18,34,0,2,0,2,7,3,1,21,10,WLWWWWDDDWL,5,1,0,15,4,11,3,4,4,10,11,WDWDLWLDDLL,1,3,1,5,5,WWWWDW,DDWDL
+Porto,Sporting Braga,1-0,/match/fc-porto/sporting-braga/2017,2017,12,primeira_liga,18,34,0,1,0,4,6,4,1,19,5,LWWWDWLWDDD,4,1,0,11,2,3,7,2,2,21,11,LDLWWWDWWWW,2,1,2,6,6,WWWWD,LLWDW
+Feirense,Arouca,0-2,/match/feirense/arouca/2017,2017,12,primeira_liga,18,34,2,0,2,16,3,2,6,10,22,LLWWLLWDDLW,1,1,3,3,9,8,3,2,6,7,15,WWWLLDDWWWW,0,1,4,1,11,LWLDL,WWDWW
+Moreirense,Nacional,3-1,/match/moreirense-fc/nacional/2017,2017,12,primeira_liga,18,34,0,3,1,18,2,2,7,8,17,DLLWWLWDLLW,0,2,3,3,6,17,2,2,7,9,16,LWLWWLLDDWL,1,1,3,6,7,DLLDL,WWLDW
+Estoril,Belenenses,1-1,/match/estoril/belenenses/2017,2017,12,primeira_liga,18,34,1,1,1,13,4,2,5,10,13,LWLDWWLLDWL,2,0,3,5,7,9,3,4,4,8,12,WDLWDDWLWLD,2,1,3,5,8,LLWLW,WLDWWL
+Vitória,Chaves,1-1,/match/vitoria-guimaraes/chaves/2017,2017,12,primeira_liga,18,34,1,1,1,5,6,2,3,20,14,LLWWDLDLLWW,2,2,1,11,9,6,3,6,2,10,9,LDDDLLWWDDD,2,2,1,5,4,LWDDW,LDLWD
+Paços Ferreira,Boavista,2-1,/match/pacos-ferreira/boavista/2017,2017,12,primeira_liga,18,34,0,2,1,14,2,4,5,13,17,DLWDLWWDWDW,1,3,1,4,4,7,3,4,4,11,13,WDDWLWWDDLL,1,2,2,4,8,LDWDD,DWWDL
+Vitória Setúbal,Estoril,2-0,/match/vitoria-setubal/estoril/2017,2017,13,primeira_liga,18,34,0,2,0,14,3,4,5,10,13,WDWDLWLDDLLW,2,1,3,5,6,13,4,3,5,11,14,LWLDWWLLDWLD,2,2,2,5,6,WWLLDL,WDWLDL
+Belenenses,Marítimo,1-0,/match/belenenses/maritimo/2017,2017,13,primeira_liga,18,34,0,1,0,12,3,5,4,9,13,WDLWDDWLWLDD,1,3,1,3,4,6,5,2,5,8,10,WLLLWWLDWWDW,2,1,3,2,5,DWDLD,WLWLWD
+Chaves,Moreirense,2-1,/match/chaves/moreirense-fc/2017,2017,13,primeira_liga,18,34,0,2,1,7,3,7,2,11,10,LDDDLLWWDDDD,1,4,1,5,5,16,3,2,7,11,18,DLLWWLWDLLWW,2,0,4,5,11,DDLWDD,LWWWLW
+Boavista,Vitória,1-2,/match/boavista/vitoria-guimaraes/2017,2017,13,primeira_liga,18,34,2,1,2,11,3,4,5,12,15,WDDWLWWDDLLW,2,2,2,7,5,5,6,3,3,21,15,LLWWDLDLLWWD,4,0,2,9,5,WDLWDL,LWLLLW
+Feirense,Porto,0-4,/match/feirense/fc-porto/2017,2017,13,primeira_liga,18,34,2,0,4,17,3,2,7,10,24,LLWWLLWDDLWL,1,1,4,3,11,3,7,4,1,20,5,LWWWDWLWDDDW,2,3,1,8,3,LWLDLL,LWDLDD
+Nacional,Tondela,3-2,/match/nacional/tondela/2017,2017,13,primeira_liga,18,34,0,3,2,18,2,2,8,10,19,LWLWWLLDDWLW,1,1,4,3,9,15,2,3,7,9,18,LDLWDWWDLWWW,0,2,4,4,11,LLWLDL,DWWDWW
+Benfica,Sporting CP,2-1,/match/benfica/sporting-lisbon/2017,2017,13,primeira_liga,18,34,0,2,1,2,9,2,1,27,7,LDLLWLWLWDWW,4,1,0,14,2,1,8,3,1,23,10,WLWWWWDDDWLW,2,2,1,6,6,DWWWW,LWDDL
+Sporting Braga,Paços Ferreira,3-0,/match/sporting-braga/pacos-ferreira/2017,2017,13,primeira_liga,18,34,0,3,0,4,7,2,3,21,12,LDLWWWDWWWWW,5,1,0,15,5,10,3,4,5,15,18,DLWDLWWDWDWW,1,1,4,9,13,DWWWWW,DWLWWW
+Arouca,Rio Ave,0-2,/match/arouca/rio-ave/2017,2017,13,primeira_liga,18,34,2,0,2,9,4,2,6,9,15,WWWLLDDWWWWL,3,1,2,6,4,8,5,2,5,15,16,LDWLWWLDLLLW,2,2,1,5,4,WLLDWW,DLWDL
+Paços Ferreira,Belenenses,1-0,/match/pacos-ferreira/belenenses/2017,2017,14,primeira_liga,18,34,0,1,0,11,3,4,6,15,21,DLWDLWWDWDWWW,2,3,1,6,5,7,4,5,4,10,13,WDLWDDWLWLDDW,2,2,3,6,9,LDWDDW,WLDWWLD
+Moreirense,Arouca,1-4,/match/moreirense-fc/arouca/2017,2017,14,primeira_liga,18,34,2,1,4,17,3,2,8,12,20,DLLWWLWDLLWWW,1,2,3,6,7,12,4,2,7,9,17,WWWLLDDWWWWLL,1,1,4,3,11,DLLDLW,WWDWWL
+Estoril,Benfica,0-1,/match/estoril/benfica/2017,2017,14,primeira_liga,18,34,2,0,1,14,4,3,6,11,16,LWLDWWLLDWLDW,2,1,3,6,8,1,10,2,1,29,8,LDLLWLWLWDWWW,5,1,1,13,5,LLWLWD,LLLLLDW
+Rio Ave,Nacional,2-1,/match/rio-ave/nacional/2017,2017,14,primeira_liga,18,34,0,2,1,8,6,2,5,17,16,LDWLWWLDLLLWL,3,0,4,10,12,15,3,2,8,13,21,LWLWWLLDDWLWW,1,1,4,7,10,LWWLLLW,WWLDWW
+Tondela,Boavista,1-1,/match/tondela/boavista/2017,2017,14,primeira_liga,18,34,1,1,1,16,2,3,8,11,21,LDLWDWWDLWWWW,2,1,3,5,7,13,3,4,6,13,17,WDDWLWWDDLLWL,1,2,3,5,10,LLDWLW,DWWDLW
+Vitória,Vitória Setúbal,3-1,/match/vitoria-guimaraes/vitoria-setubal/2017,2017,14,primeira_liga,18,34,0,3,1,5,7,3,3,23,16,LLWWDLDLLWWDL,2,3,1,12,10,10,4,4,5,12,13,WDWDLWLDDLLWW,1,3,2,5,7,LWDDWD,DDWDLW
+Sporting CP,Sporting Braga,0-1,/match/sporting-lisbon/sporting-braga/2017,2017,14,primeira_liga,18,34,2,0,1,2,8,3,2,24,12,WLWWWWDDDWLWW,6,1,0,17,4,4,8,2,3,24,12,LDLWWWDWWWWWW,2,1,3,6,7,WWWWDWW,LLWDWW
+Marítimo,Feirense,2-0,/match/maritimo/feirense/2017,2017,14,primeira_liga,18,34,0,2,0,9,5,2,6,8,11,WLLLWWLDWWDWW,3,1,2,6,5,18,3,2,8,10,28,LLWWLLWDDLWLL,2,1,3,7,13,LLWDWW,LWLWDW
+Porto,Chaves,2-1,/match/fc-porto/chaves/2017,2017,14,primeira_liga,18,34,0,2,1,3,8,4,1,24,5,LWWWDWLWDDDWL,5,1,0,12,2,6,4,7,2,13,11,LDDDLLWWDDDDW,2,3,1,6,5,WWWWDW,LDLWDD
+Porto,Marítimo,2-1,/match/fc-porto/maritimo/2017,2017,15,primeira_liga,18,34,0,2,1,2,9,4,1,26,6,LWWWDWLWDDDWLW,6,1,0,14,3,8,6,2,6,10,11,WLLLWWLDWWDWWW,2,1,4,2,6,WWWWDWW,WLWLWDW
+Benfica,Rio Ave,2-0,/match/benfica/rio-ave/2017,2017,15,primeira_liga,18,34,0,2,0,1,11,2,1,30,8,LDLLWLWLWDWWWL,5,1,0,16,3,6,7,2,5,19,17,LDWLWWLDLLLWLW,3,2,1,7,4,DWWWWW,DLWDLL
+Nacional,Boavista,0-2,/match/nacional/boavista/2017,2017,15,primeira_liga,18,34,2,0,2,16,3,2,9,14,23,LWLWWLLDDWLWWW,2,1,4,6,11,13,3,5,6,14,18,WDDWLWWDDLLWLD,1,3,3,6,11,LLWLDLW,DWWDLWD
+Sporting Braga,Moreirense,2-1,/match/sporting-braga/moreirense-fc/2017,2017,15,primeira_liga,18,34,0,2,1,3,9,2,3,25,12,LDLWWWDWWWWWWL,6,1,0,18,5,17,3,2,9,13,24,DLLWWLWDLLWWWL,2,0,5,6,13,DWWWWWW,LWWWLWW
+Feirense,Paços Ferreira,2-0,/match/feirense/pacos-ferreira/2017,2017,15,primeira_liga,18,34,0,2,0,18,3,2,9,10,30,LLWWLLWDDLWLLW,1,1,5,3,15,9,4,4,6,16,21,DLWDLWWDWDWWWW,1,1,5,9,16,LWLDLLL,DWLWWWW
+Belenenses,Sporting CP,0-1,/match/belenenses/sporting-lisbon/2017,2017,15,primeira_liga,18,34,2,0,1,10,4,5,5,10,14,WDLWDDWLWLDDWW,2,3,1,4,4,4,8,3,3,24,13,WLWWWWDDDWLWWL,2,2,2,7,8,DWDLDW,LWDDLW
+Chaves,Estoril,1-0,/match/chaves/estoril/2017,2017,15,primeira_liga,18,34,0,1,0,7,4,7,3,14,13,LDDDLLWWDDDDWW,2,4,1,7,6,14,4,3,7,11,17,LWLDWWLLDWLDWL,2,2,3,5,8,DDLWDDW,WDWLDLW
+Vitória Setúbal,Tondela,3-0,/match/vitoria-setubal/tondela/2017,2017,15,primeira_liga,18,34,0,3,0,12,4,4,6,13,16,WDWDLWLDDLLWWW,3,1,3,7,6,15,2,4,8,12,22,LDLWDWWDLWWWWD,0,2,5,6,14,WWLLDLW,DWWDWWW
+Arouca,Vitória,0-1,/match/arouca/vitoria-guimaraes/2017,2017,15,primeira_liga,18,34,2,0,1,11,5,2,7,13,18,WWWLLDDWWWWLLL,3,1,3,6,6,5,8,3,3,26,17,LLWWDLDLLWWDLW,5,0,2,11,6,WLLDWWL,LWLLLWL
+Nacional,Sporting Braga,0-0,/match/nacional/sporting-braga/2017,2017,16,primeira_liga,18,34,1,0,0,17,3,2,10,14,25,LWLWWLLDDWLWWWL,2,1,5,6,13,3,10,2,3,27,13,LDLWWWDWWWWWWLW,3,1,3,7,7,LLWLDLWL,LLWDWWL
+Estoril,Marítimo,0-1,/match/estoril/maritimo/2017,2017,16,primeira_liga,18,34,2,0,1,14,4,3,8,11,18,LWLDWWLLDWLDWLW,2,1,4,6,9,9,6,2,7,11,13,WLLLWWLDWWDWWWW,2,1,5,3,8,LLWLWDL,WLWLWDWW
+Vitória,Benfica,0-2,/match/vitoria-guimaraes/benfica/2017,2017,16,primeira_liga,18,34,2,0,2,5,9,3,3,27,17,LLWWDLDLLWWDLWL,3,3,1,15,11,1,12,2,1,32,8,LDLLWLWLWDWWWLW,6,1,1,14,5,LWDDWDW,LLLLLDWL
+Paços Ferreira,Porto,0-0,/match/pacos-ferreira/fc-porto/2017,2017,16,primeira_liga,18,34,1,0,0,10,4,4,7,16,23,DLWDLWWDWDWWWWW,3,3,1,7,5,2,10,4,1,28,7,LWWWDWLWDDDWLWW,3,3,1,12,3,LDWDDWW,LWDLDDL
+Rio Ave,Chaves,2-2,/match/rio-ave/chaves/2017,2017,16,primeira_liga,18,34,1,2,2,7,7,2,6,19,19,LDWLWWLDLLLWLWW,4,0,4,12,13,6,5,7,3,15,13,LDDDLLWWDDDDWWW,2,3,2,7,7,LWWLLLWW,LDLWDDW
+Tondela,Arouca,1-2,/match/tondela/arouca/2017,2017,16,primeira_liga,18,34,2,1,2,16,2,4,9,12,25,LDLWDWWDLWWWWDW,2,2,3,6,8,12,5,2,8,13,19,WWWLLDDWWWWLLLL,2,1,4,7,12,LLDWLWD,WWDWWLL
+Boavista,Vitória Setúbal,1-0,/match/boavista/vitoria-setubal/2017,2017,16,primeira_liga,18,34,0,1,0,13,4,5,6,16,18,WDDWLWWDDLLWLDL,2,2,3,8,7,8,5,4,6,16,16,WDWDLWLDDLLWWWW,1,3,3,6,10,WDLWDLL,DDWDLWW
+Sporting CP,Feirense,2-1,/match/sporting-lisbon/feirense/2017,2017,16,primeira_liga,18,34,0,2,1,4,9,3,3,25,13,WLWWWWDDDWLWWLL,6,1,1,17,5,15,4,2,9,12,30,LLWWLLWDDLWLLWW,2,1,4,7,15,WWWWDWWL,LWLWDWW
+Moreirense,Belenenses,1-0,/match/moreirense-fc/belenenses/2017,2017,16,primeira_liga,18,34,0,1,0,18,3,2,10,14,26,DLLWWLWDLLWWWLW,1,2,4,7,11,11,4,5,6,10,15,WDLWDDWLWLDDWWL,2,2,4,6,10,DLLDLWL,WLDWWLDW
+Arouca,Estoril,2-1,/match/arouca/estoril/2017,2017,17,primeira_liga,18,34,0,2,1,12,6,2,8,15,20,WWWLLDDWWWWLLLLL,3,1,4,6,7,14,4,3,9,11,19,LWLDWWLLDWLDWLWL,2,2,4,5,9,WLLDWWLL,WDWLDLWW
+Benfica,Boavista,3-3,/match/benfica/boavista/2017,2017,17,primeira_liga,18,34,1,3,3,1,13,2,1,34,8,LDLLWLWLWDWWWLWL,6,1,0,18,3,9,5,5,6,17,18,WDDWLWWDDLLWLDLW,2,3,3,8,11,DWWWWWW,DWWDLWDL
+Vitória Setúbal,Nacional,1-0,/match/vitoria-setubal/nacional/2017,2017,17,primeira_liga,18,34,0,1,0,11,5,4,7,16,17,WDWDLWLDDLLWWWWW,4,1,3,10,6,17,3,3,10,14,25,LWLWWLLDDWLWWWLD,1,1,5,8,12,WWLLDLWW,WWLDWWW
+Chaves,Sporting CP,2-2,/match/chaves/sporting-lisbon/2017,2017,17,primeira_liga,18,34,1,2,2,6,5,8,3,17,15,LDDDLLWWDDDDWWWD,3,4,1,8,6,4,10,3,3,27,14,WLWWWWDDDWLWWLLW,3,2,2,8,8,DDLWDDWW,LWDDLWL
+Feirense,Vitória,0-0,/match/feirense/vitoria-guimaraes/2017,2017,17,primeira_liga,18,34,1,0,0,16,4,2,10,13,32,LLWWLLWDDLWLLWWW,2,1,5,5,15,5,9,3,4,27,19,LLWWDLDLLWWDLWLL,6,0,2,12,6,LWLDLLLW,LWLLLWLL
+Marítimo,Paços Ferreira,3-1,/match/maritimo/pacos-ferreira/2017,2017,17,primeira_liga,18,34,0,3,1,8,7,2,7,12,13,WLLLWWLDWWDWWWWL,4,1,2,8,5,10,4,5,7,16,23,DLWDLWWDWDWWWWWD,1,1,6,9,18,LLWDWWW,DWLWWWWW
+Porto,Moreirense,3-0,/match/fc-porto/moreirense-fc/2017,2017,17,primeira_liga,18,34,0,3,0,2,10,5,1,28,7,LWWWDWLWDDDWLWWD,7,1,0,16,4,15,4,2,10,15,26,DLLWWLWDLLWWWLWW,2,0,6,7,15,WWWWDWWW,LWWWLWWW
+Belenenses,Rio Ave,1-0,/match/belenenses/rio-ave/2017,2017,17,primeira_liga,18,34,0,1,0,13,4,5,7,10,16,WDLWDDWLWLDDWWLW,2,3,2,4,5,7,7,3,6,21,21,LDWLWWLDLLLWLWWD,3,2,2,7,6,DWDLDWL,DLWDLLW
+Sporting Braga,Tondela,2-0,/match/sporting-braga/tondela/2017,2017,17,primeira_liga,18,34,0,2,0,3,10,3,3,27,13,LDLWWWDWWWWWWLWD,7,1,0,20,6,18,2,4,10,13,27,LDLWDWWDLWWWWDWL,0,2,6,6,17,DWWWWWWW,DWWDWWWW
+Paços Ferreira,Moreirense,0-2,/match/pacos-ferreira/moreirense-fc/2017,2017,18,primeira_liga,18,34,2,0,2,13,4,5,8,17,26,DLWDLWWDWDWWWWWDW,3,4,1,7,5,16,4,2,11,15,29,DLLWWLWDLLWWWLWWW,2,0,7,7,18,LDWDDWWD,LWWWLWWWW
+Porto,Rio Ave,4-2,/match/fc-porto/rio-ave/2017,2017,18,primeira_liga,18,34,0,4,2,1,11,5,1,31,7,LWWWDWLWDDDWLWWDW,8,1,0,19,4,9,7,3,7,21,22,LDWLWWLDLLLWLWWDW,3,2,3,7,7,WWWWDWWWW,DLWDLLWW
+Marítimo,Sporting CP,2-2,/match/maritimo/sporting-lisbon/2017,2017,18,primeira_liga,18,34,1,2,2,7,8,2,7,15,14,WLLLWWLDWWDWWWWLW,5,1,2,11,6,4,10,4,3,29,16,WLWWWWDDDWLWWLLWD,3,3,2,10,10,LLWDWWWW,LWDDLWLD
+Arouca,Boavista,1-2,/match/arouca/boavista/2017,2017,18,primeira_liga,18,34,2,1,2,10,7,2,8,17,21,WWWLLDDWWWWLLLLLW,4,1,4,8,8,12,5,6,6,20,21,WDDWLWWDDLLWLDLWD,2,4,3,11,14,WLLDWWLLW,DWWDLWDLD
+Benfica,Tondela,4-0,/match/benfica/tondela/2017,2017,18,primeira_liga,18,34,0,4,0,2,13,3,1,37,11,LDLLWLWLWDWWWLWLD,6,2,0,21,6,18,2,4,11,13,29,LDLWDWWDLWWWWDWLW,0,2,7,6,19,DWWWWWWD,DWWDWWWWW
+Feirense,Estoril,1-0,/match/feirense/estoril/2017,2017,18,primeira_liga,18,34,0,1,0,14,4,3,10,13,32,LLWWLLWDDLWLLWWWD,2,2,5,5,15,15,4,3,10,12,21,LWLDWWLLDWLDWLWLW,2,2,5,6,11,LWLDLLLWD,WDWLDLWWW
+Belenenses,Vitória Setúbal,1-2,/match/belenenses/vitoria-setubal/2017,2017,18,primeira_liga,18,34,2,1,2,11,5,5,7,11,16,WDLWDDWLWLDDWWLWW,3,3,2,5,5,8,6,4,7,17,17,WDWDLWLDDLLWWWWWW,1,3,4,6,11,DWDLDWLW,DDWDLWWW
+Sporting Braga,Vitória,1-2,/match/sporting-braga/vitoria-guimaraes/2017,2017,18,primeira_liga,18,34,2,1,2,3,11,3,3,29,13,LDLWWWDWWWWWWLWDW,8,1,0,22,6,5,9,4,4,27,19,LLWWDLDLLWWDLWLLD,6,1,2,12,6,DWWWWWWWW,LWLLLWLLD
+Chaves,Nacional,2-0,/match/chaves/nacional/2017,2017,18,primeira_liga,18,34,0,2,0,6,5,9,3,19,17,LDDDLLWWDDDDWWWDD,3,5,1,10,8,17,3,3,11,14,26,LWLWWLLDDWLWWWLDW,1,1,6,8,13,DDLWDDWWD,WWLDWWWW
+Boavista,Belenenses,0-1,/match/boavista/belenenses/2017,2017,19,primeira_liga,18,34,2,0,1,9,6,6,6,22,22,WDDWLWWDDLLWLDLWDL,3,2,3,9,7,12,5,5,8,12,18,WDLWDDWLWLDDWWLWWL,2,2,5,6,11,WDLWDLLW,WLDWWLDWW
+Tondela,Chaves,2-0,/match/tondela/chaves/2017,2017,19,primeira_liga,18,34,0,2,0,18,2,4,12,13,33,LDLWDWWDLWWWWDWLWW,2,2,4,7,10,5,6,9,3,21,17,LDDDLLWWDDDDWWWDDW,2,4,2,9,9,LLDWLWDL,LDLWDDWD
+Vitória,Marítimo,0-0,/match/vitoria-guimaraes/maritimo/2017,2017,19,primeira_liga,18,34,1,0,0,6,10,4,4,29,20,LLWWDLDLLWWDLWLLDL,3,3,2,15,13,7,8,3,7,17,16,WLLLWWLDWWDWWWWLWD,3,1,5,4,8,LWDDWDWL,WLWLWDWWL
+Nacional,Arouca,1-1,/match/nacional/arouca/2017,2017,19,primeira_liga,18,34,1,1,1,17,3,3,12,14,28,LWLWWLLDDWLWWWLDWW,2,2,5,6,13,11,7,2,9,18,23,WWWLLDDWWWWLLLLLWL,3,1,4,9,13,LLWLDLWLD,WWDWWLLL
+Estoril,Porto,1-2,/match/estoril/fc-porto/2017,2017,19,primeira_liga,18,34,2,1,2,16,4,3,11,12,22,LWLDWWLLDWLDWLWLWW,2,1,5,6,10,1,12,5,1,35,9,LWWWDWLWDDDWLWWDWW,3,4,1,12,3,LLWLWDLL,LWDLDDLD
+Sporting CP,Paços Ferreira,4-2,/match/sporting-lisbon/pacos-ferreira/2017,2017,19,primeira_liga,18,34,0,4,2,4,10,5,3,31,18,WLWWWWDDDWLWWLLWDD,7,1,1,19,6,13,4,5,9,17,28,DLWDLWWDWDWWWWWDWL,1,1,7,10,21,WWWWDWWLW,DWLWWWWWW
+Vitória Setúbal,Benfica,1-0,/match/vitoria-setubal/benfica/2017,2017,19,primeira_liga,18,34,0,1,0,8,7,4,7,19,18,WDWDLWLDDLLWWWWWWL,5,1,3,11,6,2,14,3,1,41,11,LDLLWLWLWDWWWLWLDW,7,1,1,16,5,WWLLDLWWW,LLLLLDWLL
+Moreirense,Feirense,1-1,/match/moreirense-fc/feirense/2017,2017,19,primeira_liga,18,34,1,1,1,15,5,2,11,17,29,DLLWWLWDLLWWWLWWWL,2,2,4,8,11,14,5,3,10,14,32,LLWWLLWDDLWLLWWWDW,2,1,5,8,17,DLLDLWLW,LWLWDWWW
+Rio Ave,Sporting Braga,1-0,/match/rio-ave/sporting-braga/2017,2017,19,primeira_liga,18,34,0,1,0,10,7,3,8,23,26,LDWLWWLDLLLWLWWDWW,4,1,4,14,15,3,11,3,4,30,15,LDLWWWDWWWWWWLWDWL,3,2,3,7,7,LWWLLLWWD,LLWDWWLD
+Paços Ferreira,Vitória,2-0,/match/pacos-ferreira/vitoria-guimaraes/2017,2017,20,primeira_liga,18,34,0,2,0,13,4,5,10,19,32,DLWDLWWDWDWWWWWDWLW,3,4,2,7,7,5,10,5,4,29,20,LLWWDLDLLWWDLWLLDLD,7,1,2,14,7,LDWDDWWDL,LWLLLWLLDL
+Chaves,Boavista,0-0,/match/chaves/boavista/2017,2017,20,primeira_liga,18,34,1,0,0,6,6,9,4,21,19,LDDDLLWWDDDDWWWDDWW,4,5,1,12,8,10,6,6,7,22,23,WDDWLWWDDLLWLDLWDLL,3,4,3,13,15,DDLWDDWWDW,DWWDLWDLDL
+Porto,Sporting CP,2-1,/match/fc-porto/sporting-lisbon/2017,2017,20,primeira_liga,18,34,0,2,1,1,13,5,1,37,10,LWWWDWLWDDDWLWWDWWL,9,1,0,23,6,3,11,5,3,35,20,WLWWWWDDDWLWWLLWDDW,3,4,2,12,12,WWWWDWWWWW,LWDDLWLDD
+Arouca,Vitória Setúbal,2-1,/match/arouca/vitoria-setubal/2017,2017,20,primeira_liga,18,34,0,2,1,11,7,3,9,19,24,WWWLLDDWWWWLLLLLWLD,4,1,5,9,10,7,8,4,7,20,18,WDWDLWLDDLLWWWWWWLW,2,3,4,8,12,WLLDWWLLWL,DDWDLWWWL
+Benfica,Nacional,3-0,/match/benfica/nacional/2017,2017,20,primeira_liga,18,34,0,3,0,2,14,3,2,41,12,LDLLWLWLWDWWWLWLDWW,7,2,0,25,6,17,3,4,12,15,29,LWLWWLLDDWLWWWLDWWD,1,1,7,8,15,DWWWWWWDW,WWLDWWWWW
+Belenenses,Tondela,0-0,/match/belenenses/tondela/2017,2017,20,primeira_liga,18,34,1,0,0,12,6,5,8,13,18,WDLWDDWLWLDDWWLWWLL,3,3,3,6,7,16,3,4,12,15,33,LDLWDWWDLWWWWDWLWWW,0,2,8,6,23,DWDLDWLWL,DWWDWWWWWW
+Marítimo,Moreirense,1-0,/match/maritimo/moreirense-fc/2017,2017,20,primeira_liga,18,34,0,1,0,8,8,4,7,17,16,WLLLWWLDWWDWWWWLWDD,5,2,2,13,8,15,5,3,11,18,30,DLLWWLWDLLWWWLWWWLD,3,0,7,9,18,LLWDWWWWD,LWWWLWWWWL
+Sporting Braga,Estoril,1-1,/match/sporting-braga/estoril/2017,2017,20,primeira_liga,18,34,1,1,1,4,11,3,5,30,16,LDLWWWDWWWWWWLWDWLW,8,1,1,23,8,18,4,3,12,13,24,LWLDWWLLDWLDWLWLWWL,2,2,6,6,12,DWWWWWWWWL,WDWLDLWWWW
+Feirense,Rio Ave,2-1,/match/feirense/rio-ave/2017,2017,20,primeira_liga,18,34,0,2,1,14,5,4,10,15,33,LLWWLLWDDLWLLWWWDWD,3,2,5,6,15,9,8,3,8,24,26,LDWLWWLDLLLWLWWDWWW,3,2,4,9,11,LWLDLLLWDW,DLWDLLWWW
+Benfica,Arouca,3-0,/match/benfica/arouca/2017,2017,21,primeira_liga,18,34,0,3,0,2,15,3,2,44,12,LDLLWLWLWDWWWLWLDWWW,8,2,0,28,6,10,8,3,9,21,25,WWWLLDDWWWWLLLLLWLDW,3,2,4,10,14,DWWWWWWDWW,WWDWWLLLD
+Tondela,Feirense,0-1,/match/tondela/feirense/2017,2017,21,primeira_liga,18,34,2,0,1,16,3,5,12,15,33,LDLWDWWDLWWWWDWLWWWD,3,2,4,9,10,14,6,4,10,17,34,LLWWLLWDDLWLLWWWDWDW,2,2,5,9,18,LLDWLWDLW,LWLWDWWWD
+Vitória Setúbal,Chaves,0-0,/match/vitoria-setubal/chaves/2017,2017,21,primeira_liga,18,34,1,0,0,8,8,4,8,21,20,WDWDLWLDDLLWWWWWWLWW,6,1,3,12,6,5,6,10,4,21,19,LDDDLLWWDDDDWWWDDWWD,2,4,3,9,11,WWLLDLWWWW,LDLWDDWDW
+Estoril,Paços Ferreira,2-1,/match/estoril/pacos-ferreira/2017,2017,21,primeira_liga,18,34,0,2,1,18,4,4,12,14,25,LWLDWWLLDWLDWLWLWWLD,2,1,6,7,12,12,5,5,10,21,32,DLWDLWWDWDWWWWWDWLWW,1,1,8,12,25,LLWLWDLLL,DWLWWWWWWW
+Vitória,Porto,0-2,/match/vitoria-guimaraes/fc-porto/2017,2017,21,primeira_liga,18,34,2,0,2,7,10,5,5,29,22,LLWWDLDLLWWDLWLLDLDW,3,4,2,15,13,1,14,5,1,39,11,LWWWDWLWDDDWLWWDWWLW,4,4,1,14,4,LWDDWDWLD,LWDLDDLDL
+Nacional,Belenenses,1-1,/match/nacional/belenenses/2017,2017,21,primeira_liga,18,34,1,1,1,17,3,4,13,15,32,LWLWWLLDDWLWWWLDWWDW,2,3,5,7,14,11,6,6,8,13,18,WDLWDDWLWLDDWWLWWLLD,3,2,5,7,11,LLWLDLWLDD,WLDWWLDWWL
+Moreirense,Sporting CP,2-3,/match/moreirense-fc/sporting-lisbon/2017,2017,21,primeira_liga,18,34,2,2,3,15,5,3,12,18,31,DLLWWLWDLLWWWLWWWLDW,2,3,4,9,12,3,11,5,4,36,22,WLWWWWDDDWLWWLLWDDWW,3,4,3,13,14,DLLDLWLWD,LWDDLWLDDW
+Boavista,Sporting Braga,1-1,/match/boavista/sporting-braga/2017,2017,21,primeira_liga,18,34,1,1,1,13,6,7,7,22,23,WDDWLWWDDLLWLDLWDLLD,3,2,4,9,8,4,11,4,5,31,17,LDLWWWDWWWWWWLWDWLWD,3,2,4,7,8,WDLWDLLWL,LLWDWWLDW
+Rio Ave,Marítimo,0-0,/match/rio-ave/maritimo/2017,2017,21,primeira_liga,18,34,1,0,0,9,8,3,9,25,28,LDWLWWLDLLLWLWWDWWWW,5,1,4,15,15,6,9,4,7,18,16,WLLLWWLDWWDWWWWLWDDW,3,2,5,4,8,LWWLLLWWDW,WLWLWDWWLD
+Porto,Tondela,4-0,/match/fc-porto/tondela/2017,2017,22,primeira_liga,18,34,0,4,0,1,15,5,1,41,11,LWWWDWLWDDDWLWWDWWLWL,10,1,0,25,7,17,3,5,13,15,34,LDLWDWWDLWWWWDWLWWWDL,0,3,8,6,23,WWWWDWWWWWW,DWWDWWWWWWD
+Chaves,Arouca,2-0,/match/chaves/arouca/2017,2017,22,primeira_liga,18,34,0,2,0,5,6,11,4,21,19,LDDDLLWWDDDDWWWDDWWDD,4,6,1,12,8,10,8,3,10,21,28,WWWLLDDWWWWLLLLLWLDWW,3,2,5,10,17,DDLWDDWWDWD,WWDWWLLLDW
+Moreirense,Estoril,1-1,/match/moreirense-fc/estoril/2017,2017,22,primeira_liga,18,34,1,1,1,16,5,3,13,20,34,DLLWWLWDLLWWWLWWWLDWL,2,3,5,11,15,15,5,4,12,16,26,LWLDWWLLDWLDWLWLWWLDW,2,3,6,7,13,DLLDLWLWDL,WDWLDLWWWWD
+Feirense,Boavista,0-1,/match/feirense/boavista/2017,2017,22,primeira_liga,18,34,2,0,1,13,7,4,10,18,34,LLWWLLWDDLWLLWWWDWDWL,4,2,5,8,16,12,6,8,7,23,24,WDDWLWWDDLLWLDLWDLLDD,3,5,3,13,15,LWLDLLLWDWW,DWWDLWDLDLD
+Sporting CP,Rio Ave,1-0,/match/sporting-lisbon/rio-ave/2017,2017,22,primeira_liga,18,34,0,1,0,3,12,5,4,39,24,WLWWWWDDDWLWWLLWDDWWL,8,1,1,23,8,9,8,4,9,25,28,LDWLWWLDLLLWLWWDWWWWD,3,2,5,10,13,WWWWDWWLWW,DLWDLLWWWW
+Paços Ferreira,Vitória Setúbal,2-1,/match/pacos-ferreira/vitoria-setubal/2017,2017,22,primeira_liga,18,34,0,2,1,14,5,5,11,22,34,DLWDLWWDWDWWWWWDWLWWW,4,4,2,9,7,8,8,5,8,21,20,WDWDLWLDDLLWWWWWWLWWD,2,3,5,9,14,LDWDDWWDLW,DDWDLWWWLW
+Belenenses,Vitória,1-1,/match/belenenses/vitoria-guimaraes/2017,2017,22,primeira_liga,18,34,1,1,1,11,6,7,8,14,19,WDLWDDWLWLDDWWLWWLLDD,3,4,3,6,7,7,10,5,6,29,24,LLWWDLDLLWWDLWLLDLDWL,7,1,3,14,9,DWDLDWLWLD,LWLLLWLLDLW
+Sporting Braga,Benfica,0-1,/match/sporting-braga/benfica/2017,2017,22,primeira_liga,18,34,2,0,1,4,11,5,5,32,18,LDLWWWDWWWWWWLWDWLWDD,8,2,1,24,9,2,16,3,2,47,12,LDLLWLWLWDWWWLWLDWWWW,7,1,2,16,6,DWWWWWWWWLD,LLLLLDWLLW
+Marítimo,Nacional,0-0,/match/maritimo/nacional/2017,2017,22,primeira_liga,18,34,1,0,0,6,9,5,7,18,16,WLLLWWLDWWDWWWWLWDDWD,6,2,2,14,8,18,3,5,13,16,33,LWLWWLLDDWLWWWLDWWDWD,1,1,8,8,18,LLWDWWWWDW,WWLDWWWWWW
+Vitória,Moreirense,1-0,/match/vitoria-guimaraes/moreirense-fc/2017,2017,23,primeira_liga,18,34,0,1,0,7,10,6,6,30,25,LLWWDLDLLWWDLWLLDLDWLD,3,4,3,15,15,16,5,4,13,21,35,DLLWWLWDLLWWWLWWWLDWLD,3,0,8,9,19,LWDDWDWLDL,LWWWLWWWWLW
+Benfica,Chaves,3-1,/match/benfica/chaves/2017,2017,23,primeira_liga,18,34,0,3,1,2,17,3,2,48,12,LDLLWLWLWDWWWLWLDWWWWL,9,2,0,31,6,5,7,11,4,23,19,LDDDLLWWDDDDWWWDDWWDDW,2,5,3,9,11,DWWWWWWDWWW,LDLWDDWDWD
+Tondela,Marítimo,1-1,/match/tondela/maritimo/2017,2017,23,primeira_liga,18,34,1,1,1,18,3,5,14,15,38,LDLWDWWDLWWWWDWLWWWDLW,3,2,5,9,11,6,9,6,7,18,16,WLLLWWLDWWDWWWWLWDDWDD,3,3,5,4,8,LLDWLWDLWL,WLWLWDWWLDD
+Estoril,Sporting CP,0-2,/match/estoril/sporting-lisbon/2017,2017,23,primeira_liga,18,34,2,0,2,15,5,5,12,17,27,LWLDWWLLDWLDWLWLWWLDWD,3,1,6,9,13,3,13,5,4,40,24,WLWWWWDDDWLWWLLWDDWWLW,4,4,3,16,16,LLWLWDLLLW,LWDDLWLDDWL
+Rio Ave,Paços Ferreira,0-0,/match/rio-ave/pacos-ferreira/2017,2017,23,primeira_liga,18,34,1,0,0,9,8,4,10,25,29,LDWLWWLDLLLWLWWDWWWWDW,5,2,4,15,15,10,6,5,11,24,35,DLWDLWWDWDWWWWWDWLWWWW,1,1,9,13,27,LWWLLLWWDWD,DWLWWWWWWWW
+Nacional,Feirense,0-0,/match/nacional/feirense/2017,2017,23,primeira_liga,18,34,1,0,0,17,3,6,13,16,33,LWLWWLLDDWLWWWLDWWDWDD,2,4,5,8,15,14,7,4,11,18,35,LLWWLLWDDLWLLWWWDWDWLL,3,2,5,10,18,LLWLDLWLDDD,LWLWDWWWDL
+Vitória Setúbal,Sporting Braga,1-1,/match/vitoria-setubal/sporting-braga/2017,2017,23,primeira_liga,18,34,1,1,1,8,8,5,9,22,22,WDWDLWLDDLLWWWWWWLWWDW,6,2,3,12,6,4,11,5,6,32,19,LDLWWWDWWWWWWLWDWLWDDL,3,3,4,8,9,WWLLDLWWWWD,LLWDWWLDWD
+Boavista,Porto,0-1,/match/boavista/fc-porto/2017,2017,23,primeira_liga,18,34,2,0,1,12,7,8,7,24,24,WDDWLWWDDLLWLDLWDLLDDL,3,3,4,10,9,1,16,5,1,45,11,LWWWDWLWDDDWLWWDWWLWLW,5,4,1,16,4,WDLWDLLWLD,LWDLDDLDLL
+Arouca,Belenenses,1-2,/match/arouca/belenenses/2017,2017,23,primeira_liga,18,34,2,1,2,13,8,3,11,21,30,WWWLLDDWWWWLLLLLWLDWWW,5,1,5,11,11,11,6,8,8,15,20,WDLWDDWLWLDDWWLWWLLDDD,3,3,5,8,12,WLLDWWLLWLW,WLDWWLDWWLD
+Moreirense,Boavista,0-0,/match/moreirense-fc/boavista/2017,2017,24,primeira_liga,18,34,1,0,0,16,5,4,14,21,36,DLLWWLWDLLWWWLWWWLDWLDW,2,4,5,12,16,12,7,8,8,24,25,WDDWLWWDDLLWLDLWDLLDDLL,4,5,3,14,15,DLLDLWLWDLD,DWWDLWDLDLDL
+Sporting Braga,Arouca,3-1,/match/sporting-braga/arouca/2017,2017,24,primeira_liga,18,34,0,3,1,4,11,6,6,33,20,LDLWWWDWWWWWWLWDWLWDDLD,8,2,2,24,10,13,8,3,12,22,32,WWWLLDDWWWWLLLLLWLDWWWL,3,2,6,10,19,DWWWWWWWWLDL,WWDWWLLLDWW
+Porto,Nacional,7-0,/match/fc-porto/nacional/2017,2017,24,primeira_liga,18,34,0,7,0,1,17,5,1,46,11,LWWWDWLWDDDWLWWDWWLWLWL,11,1,0,29,7,17,3,7,13,16,33,LWLWWLLDDWLWWWLDWWDWDDD,1,2,8,8,18,WWWWDWWWWWWW,WWLDWWWWWWD
+Feirense,Benfica,0-1,/match/feirense/benfica/2017,2017,24,primeira_liga,18,34,2,0,1,14,7,5,11,18,35,LLWWLLWDDLWLLWWWDWDWLLD,4,2,6,8,17,2,18,3,2,51,13,LDLLWLWLWDWWWLWLDWWWWLW,8,1,2,17,6,LWLDLLLWDWWL,LLLLLDWLLWL
+Paços Ferreira,Tondela,0-0,/match/pacos-ferreira/tondela/2017,2017,24,primeira_liga,18,34,1,0,0,11,6,6,11,24,35,DLWDLWWDWDWWWWWDWLWWWWD,5,4,2,11,8,18,3,6,14,16,39,LDLWDWWDLWWWWDWLWWWDLWD,0,3,9,6,27,LDWDDWWDLWW,DWWDWWWWWWDW
+Marítimo,Vitória Setúbal,1-0,/match/maritimo/vitoria-setubal/2017,2017,24,primeira_liga,18,34,0,1,0,6,9,7,7,19,17,WLLLWWLDWWDWWWWLWDDWDDD,6,3,2,14,8,8,8,6,9,23,23,WDWDLWLDDLLWWWWWWLWWDWD,2,3,6,10,16,LLWDWWWWDWD,DDWDLWWWLWW
+Belenenses,Chaves,2-1,/match/belenenses/chaves/2017,2017,24,primeira_liga,18,34,0,2,1,10,7,8,8,17,21,WDLWDDWLWLDDWWLWWLLDDDL,3,5,3,7,8,5,7,11,5,24,22,LDDDLLWWDDDDWWWDDWWDDWW,2,5,4,10,14,DWDLDWLWLDD,LDLWDDWDWDW
+Sporting CP,Vitória,1-1,/match/sporting-lisbon/vitoria-guimaraes/2017,2017,24,primeira_liga,18,34,1,1,1,3,14,5,4,42,24,WLWWWWDDDWLWWLLWDDWWLWL,9,1,1,24,8,7,11,6,6,31,25,LLWWDLDLLWWDLWLLDLDWLDW,7,2,3,15,10,WWWWDWWLWWW,LWLLLWLLDLWD
+Estoril,Rio Ave,0-2,/match/estoril/rio-ave/2017,2017,24,primeira_liga,18,34,2,0,2,15,5,5,13,17,29,LWLDWWLLDWLDWLWLWWLDWDL,3,1,7,9,15,9,8,5,10,25,29,LDWLWWLDLLLWLWWDWWWWDWD,3,2,6,10,14,LLWLWDLLLWL,DLWDLLWWWWW
+Arouca,Porto,0-4,/match/arouca/fc-porto/2017,2017,25,primeira_liga,18,34,2,0,4,13,8,3,13,23,35,WWWLLDDWWWWLLLLLWLDWWWLW,5,1,6,12,13,1,18,5,1,53,11,LWWWDWLWDDDWLWWDWWLWLWLW,6,4,1,17,4,WLLDWWLLWLWL,LWDLDDLDLLL
+Vitória Setúbal,Feirense,1-2,/match/vitoria-setubal/feirense/2017,2017,25,primeira_liga,18,34,2,1,2,9,8,6,10,23,24,WDWDLWLDDLLWWWWWWLWWDWDW,6,3,3,13,7,14,7,5,12,18,36,LLWWLLWDDLWLLWWWDWDWLLDL,3,3,5,10,18,WWLLDLWWWWDD,LWLWDWWWDLD
+Chaves,Sporting Braga,0-0,/match/chaves/sporting-braga/2017,2017,25,primeira_liga,18,34,1,0,0,6,7,11,6,25,24,LDDDLLWWDDDDWWWDDWWDDWWW,5,6,1,14,8,4,12,6,6,36,21,LDLWWWDWWWWWWLWDWLWDDLDW,3,4,4,9,10,DDLWDDWWDWDW,LLWDWWLDWDD
+Tondela,Sporting CP,1-4,/match/tondela/sporting-lisbon/2017,2017,25,primeira_liga,18,34,2,1,4,18,3,7,14,16,39,LDLWDWWDLWWWWDWLWWWDLWDD,3,3,5,10,12,3,14,6,4,43,25,WLWWWWDDDWLWWLLWDDWWLWLD,5,4,3,18,16,LLDWLWDLWLD,LWDDLWLDDWLL
+Boavista,Marítimo,3-0,/match/boavista/maritimo/2017,2017,25,primeira_liga,18,34,0,3,0,12,7,9,8,24,25,WDDWLWWDDLLWLDLWDLLDDLLD,3,3,5,10,10,5,10,7,7,20,17,WLLLWWLDWWDWWWWLWDDWDDDW,3,4,5,5,9,WDLWDLLWLDL,WLWLWDWWLDDD
+Rio Ave,Moreirense,3-2,/match/rio-ave/moreirense-fc/2017,2017,25,primeira_liga,18,34,0,3,2,10,9,5,10,27,29,LDWLWWLDLLLWLWWDWWWWDWDL,5,3,4,15,15,15,5,5,14,21,36,DLLWWLWDLLWWWLWWWLDWLDWD,3,0,9,9,20,LWWLLLWWDWDD,LWWWLWWWWLWW
+Vitória,Estoril,3-3,/match/vitoria-guimaraes/estoril/2017,2017,25,primeira_liga,18,34,1,3,3,7,11,7,6,32,26,LLWWDLDLLWWDLWLLDLDWLDWD,4,4,3,16,15,16,5,5,14,17,31,LWLDWWLLDWLDWLWLWWLDWDLL,2,4,6,8,14,LWDDWDWLDLW,WDWLDLWWWWDD
+Nacional,Paços Ferreira,1-1,/match/nacional/pacos-ferreira/2017,2017,25,primeira_liga,18,34,1,1,1,17,3,7,14,16,40,LWLWWLLDDWLWWWLDWWDWDDDW,2,5,5,8,15,11,6,7,11,24,35,DLWDLWWDWDWWWWWDWLWWWWDD,1,2,9,13,27,LLWLDLWLDDDD,DWLWWWWWWWWD
+Benfica,Belenenses,4-0,/match/benfica/belenenses/2017,2017,25,primeira_liga,18,34,0,4,0,2,19,3,2,52,13,LDLLWLWLWDWWWLWLDWWWWLWL,10,2,0,34,7,8,8,8,8,19,22,WDLWDDWLWLDDWWLWWLLDDDLW,4,3,5,10,13,DWWWWWWDWWWW,WLDWWLDWWLDL
+Estoril,Boavista,0-0,/match/estoril/boavista/2017,2017,26,primeira_liga,18,34,1,0,0,17,5,6,14,20,34,LWLDWWLLDWLDWLWLWWLDWDLLD,3,1,8,9,17,11,8,9,8,27,25,WDDWLWWDDLLWLDLWDLLDDLLDW,4,6,3,14,15,LLWLWDLLLWLL,DWWDLWDLDLDLD
+Belenenses,Sporting Braga,1-2,/match/belenenses/sporting-braga/2017,2017,26,primeira_liga,18,34,2,1,2,10,8,8,9,19,26,WDLWDDWLWLDDWWLWWLLDDDLWW,4,5,3,9,9,4,12,7,6,36,21,LDLWWWDWWWWWWLWDWLWDDLDWD,3,5,4,9,10,DWDLDWLWLDDW,LLWDWWLDWDDD
+Moreirense,Tondela,1-1,/match/moreirense-fc/tondela/2017,2017,26,primeira_liga,18,34,1,1,1,15,5,5,15,23,39,DLLWWLWDLLWWWLWWWLDWLDWDW,2,5,5,12,16,18,3,7,15,17,43,LDLWDWWDLWWWWDWLWWWDLWDDL,0,4,9,6,27,DLLDLWLWDLDD,DWWDWWWWWWDWD
+Sporting CP,Nacional,2-0,/match/sporting-lisbon/nacional/2017,2017,26,primeira_liga,18,34,0,2,0,3,15,6,4,47,26,WLWWWWDDDWLWWLLWDDWWLWLDL,9,2,1,25,9,16,3,8,14,17,41,LWLWWLLDDWLWWWLDWWDWDDDWD,1,2,9,8,25,WWWWDWWLWWWD,WWLDWWWWWWDW
+Paços Ferreira,Benfica,0-0,/match/pacos-ferreira/benfica/2017,2017,26,primeira_liga,18,34,1,0,0,12,6,8,11,25,36,DLWDLWWDWDWWWWWDWLWWWWDDD,5,5,2,11,8,2,20,3,2,56,13,LDLLWLWLWDWWWLWLDWWWWLWLW,9,1,2,18,6,LDWDDWWDLWWD,LLLLLDWLLWLL
+Feirense,Chaves,3-2,/match/feirense/chaves/2017,2017,26,primeira_liga,18,34,0,3,2,13,8,5,12,20,37,LLWWLLWDDLWLLWWWDWDWLLDLL,4,2,7,8,18,6,7,12,6,25,24,LDDDLLWWDDDDWWWDDWWDDWWWD,2,5,5,11,16,LWLDLLLWDWWLL,LDLWDDWDWDWW
+Marítimo,Arouca,3-1,/match/maritimo/arouca/2017,2017,26,primeira_liga,18,34,0,3,1,5,10,7,8,20,20,WLLLWWLDWWDWWWWLWDDWDDDWW,7,3,2,15,8,14,8,3,14,23,39,WWWLLDDWWWWLLLLLWLDWWWLWL,3,2,7,11,22,LLWDWWWWDWDW,WWDWWLLLDWWW
+Porto,Vitória Setúbal,1-1,/match/fc-porto/vitoria-setubal/2017,2017,26,primeira_liga,18,34,1,1,1,1,19,5,1,57,11,LWWWDWLWDDDWLWWDWWLWLWLWL,12,1,0,36,7,9,8,6,11,24,26,WDWDLWLDDLLWWWWWWLWWDWDWL,2,3,7,10,17,WWWWDWWWWWWWW,DDWDLWWWLWWW
+Vitória,Rio Ave,3-0,/match/vitoria-guimaraes/rio-ave/2017,2017,26,primeira_liga,18,34,0,3,0,7,11,8,6,35,29,LLWWDLDLLWWDLWLLDLDWLDWDD,4,5,3,19,18,8,10,5,10,30,31,LDWLWWLDLLLWLWWDWWWWDWDLW,4,2,6,12,14,LWDDWDWLDLWD,DLWDLLWWWWWL
+Chaves,Paços Ferreira,1-0,/match/chaves/pacos-ferreira/2017,2017,27,primeira_liga,18,34,0,1,0,7,7,12,7,27,27,LDDDLLWWDDDDWWWDDWWDDWWWDW,5,7,1,14,8,10,6,9,11,25,36,DLWDLWWDWDWWWWWDWLWWWWDDDD,1,3,9,14,28,DDLWDDWWDWDWD,DWLWWWWWWWWDD
+Nacional,Vitória,1-2,/match/nacional/vitoria-guimaraes/2017,2017,27,primeira_liga,18,34,2,1,2,17,3,8,15,17,43,LWLWWLLDDWLWWWLDWWDWDDDWDW,2,6,5,9,16,6,12,8,6,38,29,LLWWDLDLLWWDLWLLDLDWLDWDDW,7,3,3,16,11,LLWLDLWLDDDDD,LWLLLWLLDLWDD
+Tondela,Estoril,0-2,/match/tondela/estoril/2017,2017,27,primeira_liga,18,34,2,0,2,18,3,8,15,18,44,LDLWDWWDLWWWWDWLWWWDLWDDLD,3,3,6,11,16,16,5,7,14,20,34,LWLDWWLLDWLDWLWLWWLDWDLLDD,2,5,6,11,17,LLDWLWDLWLDL,WDWLDLWWWWDDD
+Boavista,Rio Ave,0-1,/match/boavista/rio-ave/2017,2017,27,primeira_liga,18,34,2,0,1,12,8,10,8,27,25,WDDWLWWDDLLWLDLWDLLDDLLDWD,4,3,5,13,10,8,10,5,11,30,34,LDWLWWLDLLLWLWWDWWWWDWDLWW,4,2,7,12,17,WDLWDLLWLDLW,DLWDLLWWWWWLW
+Benfica,Porto,1-1,/match/benfica/fc-porto/2017,2017,27,primeira_liga,18,34,1,1,1,2,20,4,2,56,13,LDLLWLWLWDWWWLWLDWWWWLWLWD,11,2,0,38,7,1,19,6,1,58,12,LWWWDWLWDDDWLWWDWWLWLWLWLD,7,4,1,21,4,DWWWWWWDWWWWW,LWDLDDLDLLLL
+Belenenses,Feirense,1-2,/match/belenenses/feirense/2017,2017,27,primeira_liga,18,34,2,1,2,11,8,8,10,20,28,WDLWDDWLWLDDWWLWWLLDDDLWWL,4,5,4,10,11,13,9,5,12,23,39,LLWWLLWDDLWLLWWWDWDWLLDLLW,4,3,5,12,19,DWDLDWLWLDDWL,LWLWDWWWDLDL
+Vitória Setúbal,Moreirense,2-0,/match/vitoria-setubal/moreirense-fc/2017,2017,27,primeira_liga,18,34,0,2,0,9,8,7,11,25,27,WDWDLWLDDLLWWWWWWLWWDWDWLD,6,3,4,14,9,15,5,6,15,24,40,DLLWWLWDLLWWWLWWWLDWLDWDWD,3,0,10,11,23,WWLLDLWWWWDDL,LWWWLWWWWLWWW
+Arouca,Sporting CP,1-2,/match/arouca/sporting-lisbon/2017,2017,27,primeira_liga,18,34,2,1,2,14,8,3,15,24,42,WWWLLDDWWWWLLLLLWLDWWWLWLW,5,1,7,12,17,3,16,6,4,49,26,WLWWWWDDDWLWWLLWDDWWLWLDLW,6,4,3,22,17,WLLDWWLLWLWLL,LWDDLWLDDWLLL
+Sporting Braga,Marítimo,3-3,/match/sporting-braga/maritimo/2017,2017,27,primeira_liga,18,34,1,3,3,4,13,7,6,38,22,LDLWWWDWWWWWWLWDWLWDDLDWDL,9,2,2,27,11,5,11,7,8,23,21,WLLLWWLDWWDWWWWLWDDWDDDWWW,3,4,6,5,12,DWWWWWWWWLDLW,WLWLWDWWLDDDW
+Feirense,Sporting Braga,0-1,/match/feirense/sporting-braga/2017,2017,28,primeira_liga,18,34,2,0,1,11,10,5,12,25,40,LLWWLLWDDLWLLWWWDWDWLLDLLWL,5,2,7,11,20,4,13,8,6,41,25,LDLWWWDWWWWWWLWDWLWDDLDWDLD,4,5,4,11,11,LWLDLLLWDWWLLW,LLWDWWLDWDDDL
+Paços Ferreira,Arouca,1-1,/match/pacos-ferreira/arouca/2017,2017,28,primeira_liga,18,34,1,1,1,12,6,9,12,25,37,DLWDLWWDWDWWWWWDWLWWWWDDDDW,5,6,2,11,8,14,8,3,16,25,44,WWWLLDDWWWWLLLLLWLDWWWLWLWL,3,2,8,12,25,LDWDDWWDLWWDD,WWDWWLLLDWWWW
+Porto,Belenenses,3-0,/match/fc-porto/belenenses/2017,2017,28,primeira_liga,18,34,0,3,0,1,19,7,1,59,13,LWWWDWLWDDDWLWWDWWLWLWLWLDD,12,2,0,37,8,13,8,8,11,21,30,WDLWDDWLWLDDWWLWWLLDDDLWWLL,4,3,6,10,17,WWWWDWWWWWWWWD,WLDWWLDWWLDLW
+Sporting CP,Boavista,4-0,/match/sporting-lisbon/boavista/2017,2017,28,primeira_liga,18,34,0,4,0,3,17,6,4,51,27,WLWWWWDDDWLWWLLWDDWWLWLDLWL,10,2,1,27,9,10,8,10,9,27,26,WDDWLWWDDLLWLDLWDLLDDLLDWDL,4,7,3,14,15,WWWWDWWLWWWDW,DWWDLWDLDLDLDD
+Estoril,Nacional,0-1,/match/estoril/nacional/2017,2017,28,primeira_liga,18,34,2,0,1,15,6,7,14,22,34,LWLDWWLLDWLDWLWLWWLDWDLLDDL,3,2,8,9,17,17,3,8,16,18,45,LWLWWLLDDWLWWWLDWWDWDDDWDWL,1,2,10,8,27,LLWLWDLLLWLLD,WWLDWWWWWWDWW
+Rio Ave,Vitória Setúbal,0-0,/match/rio-ave/vitoria-setubal/2017,2017,28,primeira_liga,18,34,1,0,0,8,11,5,11,31,34,LDWLWWLDLLLWLWWDWWWWDWDLWWL,6,3,4,18,17,9,9,7,11,27,27,WDWDLWLDDLLWWWWWWLWWDWDWLDW,2,4,7,11,18,LWWLLLWWDWDDW,DDWDLWWWLWWWD
+Vitória,Tondela,2-1,/match/vitoria-guimaraes/tondela/2017,2017,28,primeira_liga,18,34,0,2,1,6,13,8,6,40,30,LLWWDLDLLWWDLWLLDLDWLDWDDWL,5,5,3,22,18,18,3,8,16,18,46,LDLWDWWDLWWWWDWLWWWDLWDDLDL,0,5,9,7,28,LWDDWDWLDLWDW,DWWDWWWWWWDWDD
+Moreirense,Benfica,0-1,/match/moreirense-fc/benfica/2017,2017,28,primeira_liga,18,34,2,0,1,16,5,6,16,24,42,DLLWWLWDLLWWWLWWWLDWLDWDWDW,2,6,5,13,17,2,20,5,2,57,14,LDLLWLWLWDWWWLWLDWWWWLWLWDD,9,2,2,18,6,DLLDLWLWDLDDD,LLLLLDWLLWLLD
+Marítimo,Chaves,2-1,/match/maritimo/chaves/2017,2017,28,primeira_liga,18,34,0,2,1,5,11,8,8,26,24,WLLLWWLDWWDWWWWLWDDWDDDWWWD,8,3,2,18,9,7,8,12,7,28,27,LDDDLLWWDDDDWWWDDWWDDWWWDWW,2,5,6,13,19,LLWDWWWWDWDWW,LDLWDDWDWDWWW
+Belenenses,Estoril,1-3,/match/belenenses/estoril/2017,2017,29,primeira_liga,18,34,2,1,3,11,8,8,12,21,33,WDLWDDWLWLDDWWLWWLLDDDLWWLLW,4,5,5,11,13,15,6,7,15,22,35,LWLDWWLLDWLDWLWLWWLDWDLLDDLL,3,5,6,13,17,DWDLDWLWLDDWLL,WDWLDLWWWWDDDL
+Boavista,Paços Ferreira,0-0,/match/boavista/pacos-ferreira/2017,2017,29,primeira_liga,18,34,1,0,0,12,8,10,10,27,30,WDDWLWWDDLLWLDLWDLLDDLLDWDLW,4,3,6,13,11,10,6,10,12,26,38,DLWDLWWDWDWWWWWDWLWWWWDDDDWD,1,3,10,14,29,WDLWDLLWLDLWL,DWLWWWWWWWWDDW
+Benfica,Marítimo,3-0,/match/benfica/maritimo/2017,2017,29,primeira_liga,18,34,0,3,0,2,21,5,2,58,14,LDLLWLWLWDWWWLWLDWWWWLWLWDDL,11,3,0,39,8,5,12,8,8,28,25,WLLLWWLDWWDWWWWLWDDWDDDWWWDW,3,5,6,8,15,DWWWWWWDWWWWWD,WLWLWDWWLDDDWD
+Vitória Setúbal,Sporting CP,0-3,/match/vitoria-setubal/sporting-lisbon/2017,2017,29,primeira_liga,18,34,2,0,3,9,9,8,11,27,27,WDWDLWLDDLLWWWWWWLWWDWDWLDWD,7,3,4,16,9,3,18,6,4,55,27,WLWWWWDDDWLWWLLWDDWWLWLDLWLW,7,4,3,24,18,WWLLDLWWWWDDLW,LWDDLWLDDWLLLL
+Arouca,Feirense,2-0,/match/arouca/feirense/2017,2017,29,primeira_liga,18,34,0,2,0,14,8,4,16,26,45,WWWLLDDWWWWLLLLLWLDWWWLWLWLD,5,1,8,13,19,13,10,5,13,25,41,LLWWLLWDDLWLLWWWDWDWLLDLLWLL,5,3,5,14,20,WLLDWWLLWLWLLL,LWLWDWWWDLDLL
+Chaves,Vitória,2-3,/match/chaves/vitoria-guimaraes/2017,2017,29,primeira_liga,18,34,2,2,3,7,8,12,8,29,29,LDDDLLWWDDDDWWWDDWWDDWWWDWWW,6,7,1,15,8,6,14,8,6,42,31,LLWWDLDLLWWDLWLLDLDWLDWDDWLW,8,3,3,18,12,DDLWDDWWDWDWDW,LWLLLWLLDLWDDL
+Tondela,Rio Ave,2-1,/match/tondela/rio-ave/2017,2017,29,primeira_liga,18,34,0,2,1,18,3,8,17,19,48,LDLWDWWDLWWWWDWLWWWDLWDDLDLW,3,3,7,11,18,8,11,6,11,31,34,LDWLWWLDLLLWLWWDWWWWDWDLWWLD,5,2,7,13,17,LLDWLWDLWLDLL,DLWDLLWWWWWLWL
+Sporting Braga,Porto,1-1,/match/sporting-braga/fc-porto/2017,2017,29,primeira_liga,18,34,1,1,1,4,14,8,6,42,25,LDLWWWDWWWWWWLWDWLWDDLDWDLDL,9,3,2,30,14,1,20,7,1,62,13,LWWWDWLWDDDWLWWDWWLWLWLWLDDW,7,5,1,22,5,DWWWWWWWWLDLWD,LWDLDDLDLLLLD
+Nacional,Moreirense,0-1,/match/nacional/moreirense-fc/2017,2017,29,primeira_liga,18,34,2,0,1,17,4,8,16,19,45,LWLWWLLDDWLWWWLDWWDWDDDWDWLL,2,6,6,10,18,16,5,6,17,24,43,DLLWWLWDLLWWWLWWWLDWLDWDWDWL,3,0,11,11,25,LLWLDLWLDDDDDL,LWWWLWWWWLWWWW
+Rio Ave,Arouca,3-0,/match/rio-ave/arouca/2017,2017,30,primeira_liga,18,34,0,3,0,8,11,6,12,32,36,LDWLWWLDLLLWLWWDWWWWDWDLWWLDW,6,4,4,18,17,14,9,4,16,28,45,WWWLLDDWWWWLLLLLWLDWWWLWLWLDW,3,3,8,13,26,LWWLLLWWDWDDWD,WWDWWLLLDWWWWD
+Marítimo,Belenenses,3-0,/match/maritimo/belenenses/2017,2017,30,primeira_liga,18,34,0,3,0,6,12,8,9,28,28,WLLLWWLDWWDWWWWLWDDWDDDWWWDWW,9,3,2,20,10,12,8,8,13,22,36,WDLWDDWLWLDDWWLWWLLDDDLWWLLWL,4,3,7,10,20,LLWDWWWWDWDWWW,WLDWWLDWWLDLWW
+Tondela,Nacional,2-0,/match/tondela/nacional/2017,2017,30,primeira_liga,18,34,0,2,0,17,4,8,17,21,49,LDLWDWWDLWWWWDWLWWWDLWDDLDLWW,4,3,7,13,19,18,4,8,17,19,46,LWLWWLLDDWLWWWLDWWDWDDDWDWLLL,2,2,10,9,27,LLDWLWDLWLDLLW,WWLDWWWWWWDWWL
+Estoril,Vitória Setúbal,3-0,/match/estoril/vitoria-setubal/2017,2017,30,primeira_liga,18,34,0,3,0,15,7,7,15,25,36,LWLDWWLLDWLDWLWLWWLDWDLLDDLLL,3,2,9,9,18,9,9,8,12,27,30,WDWDLWLDDLLWWWWWWLWWDWDWLDWDL,2,5,7,11,18,LLWLWDLLLWLLDL,DDWDLWWWLWWWDD
+Sporting CP,Benfica,1-1,/match/sporting-lisbon/benfica/2017,2017,30,primeira_liga,18,34,1,1,1,3,19,6,4,58,27,WLWWWWDDDWLWWLLWDDWWLWLDLWLWL,11,2,1,31,9,2,22,5,2,61,14,LDLLWLWLWDWWWLWLDWWWWLWLWDDLW,10,2,2,19,6,WWWWDWWLWWWDWW,LLLLLDWLLWLLDL
+Paços Ferreira,Sporting Braga,3-1,/match/pacos-ferreira/sporting-braga/2017,2017,30,primeira_liga,18,34,0,3,1,10,6,11,12,26,38,DLWDLWWDWDWWWWWDWLWWWWDDDDWDD,5,7,2,12,9,4,14,9,6,43,26,LDLWWWDWWWWWWLWDWLWDDLDWDLDLD,5,5,4,12,11,LDWDDWWDLWWDDD,LLWDWWLDWDDDLL
+Vitória,Boavista,2-0,/match/vitoria-guimaraes/boavista/2017,2017,30,primeira_liga,18,34,0,2,0,5,15,8,6,45,33,LLWWDLDLLWWDLWLLDLDWLDWDDWLWL,6,5,3,24,19,11,8,11,10,27,30,WDDWLWWDDLLWLDLWDLLDDLLDWDLWD,4,7,4,14,19,LWDDWDWLDLWDWW,DWWDLWDLDLDLDDW
+Porto,Feirense,0-0,/match/fc-porto/feirense/2017,2017,30,primeira_liga,18,34,1,0,0,1,20,8,1,63,14,LWWWDWLWDDDWLWWDWWLWLWLWLDDWD,13,2,0,40,8,13,10,5,14,25,43,LLWWLLWDDLWLLWWWDWDWLLDLLWLLW,5,3,6,14,22,WWWWDWWWWWWWWDW,LWLWDWWWDLDLLW
+Moreirense,Chaves,0-0,/match/moreirense-fc/chaves/2017,2017,30,primeira_liga,18,34,1,0,0,16,6,6,17,25,43,DLLWWLWDLLWWWLWWWLDWLDWDWDWLL,2,6,6,13,18,7,8,12,9,31,32,LDDDLLWWDDDDWWWDDWWDDWWWDWWWL,2,5,7,14,21,DLLDLWLWDLDDDL,LDLWDDWDWDWWWW
+Vitória Setúbal,Vitória,0-2,/match/vitoria-setubal/vitoria-guimaraes/2017,2017,31,primeira_liga,18,34,2,0,2,10,9,8,13,27,33,WDWDLWLDDLLWWWWWWLWWDWDWLDWDLW,7,3,5,16,12,5,16,8,6,47,33,LLWWDLDLLWWDLWLLDLDWLDWDDWLWLW,9,3,3,21,14,WWLLDLWWWWDDLWL,LWLLLWLLDLWDDLL
+Boavista,Tondela,1-0,/match/boavista/tondela/2017,2017,31,primeira_liga,18,34,0,1,0,11,8,11,11,27,32,WDDWLWWDDLLWLDLWDLLDDLLDWDLWDW,4,4,6,13,11,16,5,8,17,23,49,LDLWDWWDLWWWWDWLWWWDLWDDLDLWWW,0,5,10,8,30,WDLWDLLWLDLWLD,DWWDWWWWWWDWDDW
+Nacional,Rio Ave,0-2,/match/nacional/rio-ave/2017,2017,31,primeira_liga,18,34,2,0,2,18,4,8,18,19,48,LWLWWLLDDWLWWWLDWWDWDDDWDWLLLW,2,6,7,10,19,8,12,6,12,35,36,LDWLWWLDLLLWLWWDWWWWDWDLWWLDWW,5,2,8,14,19,LLWLDLWLDDDDDLL,DLWDLLWWWWWLWLW
+Benfica,Estoril,2-1,/match/benfica/estoril/2017,2017,31,primeira_liga,18,34,0,2,1,2,22,6,2,62,15,LDLLWLWLWDWWWLWLDWWWWLWLWDDLWD,12,3,0,42,8,15,8,7,15,28,36,LWLDWWLLDWLDWLWLWWLDWDLLDDLLLW,4,5,6,16,18,DWWWWWWDWWWWWDW,WDWLDLWWWWDDDLL
+Chaves,Porto,0-2,/match/chaves/fc-porto/2017,2017,31,primeira_liga,18,34,2,0,2,7,8,13,9,31,32,LDDDLLWWDDDDWWWDDWWDDWWWDWWWLD,6,7,2,17,11,1,20,9,1,63,14,LWWWDWLWDDDWLWWDWWLWLWLWLDDWDD,7,6,1,23,6,DDLWDDWWDWDWDWL,LWDLDDLDLLLLDD
+Arouca,Moreirense,2-2,/match/arouca/moreirense-fc/2017,2017,31,primeira_liga,18,34,1,2,2,14,9,4,17,28,48,WWWLLDDWWWWLLLLLWLDWWWLWLWLDWW,6,1,8,15,19,17,6,7,17,25,43,DLLWWLWDLLWWWLWWWLDWLDWDWDWLLD,4,0,11,12,25,WLLDWWLLWLWLLLW,LWWWLWWWWLWWWWL
+Feirense,Marítimo,2-1,/match/feirense/maritimo/2017,2017,31,primeira_liga,18,34,0,2,1,12,10,6,14,25,43,LLWWLLWDDLWLLWWWDWDWLLDLLWLLWD,5,2,8,11,21,6,13,8,9,31,28,WLLLWWLDWWDWWWWLWDDWDDDWWWDWWW,3,5,7,8,18,LWLDLLLWDWWLLWL,WLWLWDWWLDDDWDW
+Sporting Braga,Sporting CP,2-3,/match/sporting-braga/sporting-lisbon/2017,2017,31,primeira_liga,18,34,2,2,3,4,14,9,7,44,29,LDLWWWDWWWWWWLWDWLWDDLDWDLDLDW,9,4,2,31,15,3,19,7,4,59,28,WLWWWWDDDWLWWLLWDDWWLWLDLWLWLD,8,4,3,27,18,DWWWWWWWWLDLWDD,LWDDLWLDDWLLLLL
+Belenenses,Paços Ferreira,1-2,/match/belenenses/pacos-ferreira/2017,2017,31,primeira_liga,18,34,2,1,2,13,8,8,14,22,39,WDLWDDWLWLDDWWLWWLLDDDLWWLLWLW,4,5,6,12,16,9,7,11,12,29,39,DLWDLWWDWDWWWWWDWLWWWWDDDDWDDW,1,4,10,14,29,DWDLDWLWLDDWLLL,DWLWWWWWWWWDDWD
+Moreirense,Sporting Braga,2-1,/match/moreirense-fc/sporting-braga/2017,2017,32,primeira_liga,18,34,0,2,1,17,6,8,17,27,45,DLLWWLWDLLWWWLWWWLDWLDWDWDWLLDD,2,7,6,13,18,5,14,9,8,46,32,LDLWWWDWWWWWWLWDWLWDDLDWDLDLDWL,5,5,5,13,14,DLLDLWLWDLDDDLD,LLWDWWLDWDDDLLW
+Boavista,Nacional,2-2,/match/boavista/nacional/2017,2017,32,primeira_liga,18,34,1,2,2,10,9,11,11,28,32,WDDWLWWDDLLWLDLWDLLDDLLDWDLWDWW,5,4,6,14,11,18,4,8,19,19,50,LWLWWLLDDWLWWWLDWWDWDDDWDWLLLWL,2,2,11,9,29,WDLWDLLWLDLWLDW,WWLDWWWWWWDWWLW
+Paços Ferreira,Feirense,0-1,/match/pacos-ferreira/feirense/2017,2017,32,primeira_liga,18,34,2,0,1,9,8,11,12,31,40,DLWDLWWDWDWWWWWDWLWWWWDDDDWDDWL,6,7,2,15,10,12,11,6,14,27,44,LLWWLLWDDLWLLWWWDWDWLLDLLWLLWDW,5,4,6,14,22,LDWDDWWDLWWDDDW,LWLWDWWWDLDLLWD
+Marítimo,Porto,1-1,/match/maritimo/fc-porto/2017,2017,32,primeira_liga,18,34,1,1,1,6,13,8,10,32,30,WLLLWWLDWWDWWWWLWDDWDDDWWWDWWWW,10,3,2,23,10,2,21,9,1,65,14,LWWWDWLWDDDWLWWDWWLWLWLWLDDWDDL,8,6,1,25,6,LLWDWWWWDWDWWWW,LWDLDDLDLLLLDDL
+Sporting CP,Belenenses,1-3,/match/sporting-lisbon/belenenses/2017,2017,32,primeira_liga,18,34,2,1,3,3,20,7,4,62,30,WLWWWWDDDWLWWLLWDDWWLWLDLWLWLDL,11,3,1,32,10,13,8,8,15,23,41,WDLWDDWLWLDDWWLWWLLDDDLWWLLWLWL,4,3,8,10,23,WWWWDWWLWWWDWWD,WLDWWLDWWLDLWWW
+Tondela,Vitória Setúbal,2-1,/match/tondela/vitoria-setubal/2017,2017,32,primeira_liga,18,34,0,2,1,16,5,8,18,23,50,LDLWDWWDLWWWWDWLWWWDLWDDLDLWWWW,5,3,7,15,19,11,9,8,14,27,35,WDWDLWLDDLLWWWWWWLWWDWDWLDWDLWL,2,5,8,11,21,LLDWLWDLWLDLLWW,DDWDLWWWLWWWDDW
+Vitória,Arouca,1-0,/match/vitoria-guimaraes/arouca/2017,2017,32,primeira_liga,18,34,0,1,0,4,17,8,6,49,33,LLWWDLDLLWWDLWLLDLDWLDWDDWLWLWL,7,5,3,26,19,14,9,5,17,30,50,WWWLLDDWWWWLLLLLWLDWWWLWLWLDWWD,3,3,9,13,29,LWDDWDWLDLWDWWW,WWDWWLLLDWWWWDW
+Rio Ave,Benfica,0-1,/match/rio-ave/benfica/2017,2017,32,primeira_liga,18,34,2,0,1,7,13,6,12,37,36,LDWLWWLDLLLWLWWDWWWWDWDLWWLDWWL,7,4,4,21,17,1,23,6,2,64,16,LDLLWLWLWDWWWLWLDWWWWLWLWDDLWDW,10,3,2,20,7,LWWLLLWWDWDDWDW,LLLLLDWLLWLLDLD
+Estoril,Chaves,2-1,/match/estoril/chaves/2017,2017,32,primeira_liga,18,34,0,2,1,15,8,7,16,29,38,LWLDWWLLDWLDWLWLWWLDWDLLDDLLLWW,4,2,9,12,18,8,8,13,10,31,34,LDDDLLWWDDDDWWWDDWWDDWWWDWWWLDL,2,6,7,14,21,LLWLWDLLLWLLDLW,LDLWDDWDWDWWWWD
+Belenenses,Moreirense,1-1,/match/belenenses/moreirense-fc/2017,2017,33,primeira_liga,18,34,1,1,1,13,9,8,15,26,42,WDLWDDWLWLDDWWLWWLLDDDLWWLLWLWLL,4,5,7,13,18,17,7,8,17,29,46,DLLWWLWDLLWWWLWWWLDWLDWDWDWLLDDW,4,1,11,14,27,DWDLDWLWLDDWLLLL,LWWWLWWWWLWWWWLD
+Arouca,Tondela,1-2,/match/arouca/tondela/2017,2017,33,primeira_liga,18,34,2,1,2,14,9,5,18,30,51,WWWLLDDWWWWLLLLLWLDWWWLWLWLDWWDW,6,2,8,17,21,16,6,8,18,25,51,LDLWDWWDLWWWWDWLWWWDLWDDLDLWWWWW,0,5,11,8,31,WLLDWWLLWLWLLLWD,DWWDWWWWWWDWDDWW
+Benfica,Vitória,5-0,/match/benfica/vitoria-guimaraes/2017,2017,33,primeira_liga,18,34,0,5,0,1,24,6,2,65,16,LDLLWLWLWDWWWLWLDWWWWLWLWDDLWDWL,13,3,0,44,9,4,18,8,6,50,33,LLWWDLDLLWWDLWLLDLDWLDWDDWLWLWLW,10,3,3,23,14,DWWWWWWDWWWWWDWW,LWLLLWLLDLWDDLLL
+Feirense,Sporting CP,2-1,/match/feirense/sporting-lisbon/2017,2017,33,primeira_liga,18,34,0,2,1,11,12,6,14,28,44,LLWWLLWDDLWLLWWWDWDWLLDLLWLLWDWL,6,2,8,13,22,3,20,7,5,63,33,WLWWWWDDDWLWWLLWDDWWLWLDLWLWLDLL,9,4,3,30,20,LWLDLLLWDWWLLWLW,LWDDLWLDDWLLLLLL
+Chaves,Rio Ave,2-2,/match/chaves/rio-ave/2017,2017,33,primeira_liga,18,34,1,2,2,8,8,13,11,32,36,LDDDLLWWDDDDWWWDDWWDDWWWDWWWLDLW,6,7,3,17,13,7,13,6,13,37,37,LDWLWWLDLLLWLWWDWWWWDWDLWWLDWWLL,6,2,8,16,19,DDLWDDWWDWDWDWLL,DLWDLLWWWWWLWLWL
+Marítimo,Estoril,1-1,/match/maritimo/estoril/2017,2017,33,primeira_liga,18,34,1,1,1,6,13,9,10,33,31,WLLLWWLDWWDWWWWLWDDWDDDWWWDWWWWD,10,4,2,24,11,15,9,7,16,31,39,LWLDWWLLDWLDWLWLWWLDWDLLDDLLLWWW,4,5,7,17,20,LLWDWWWWDWDWWWWD,WDWLDLWWWWDDDLLW
+Porto,Paços Ferreira,4-1,/match/fc-porto/pacos-ferreira/2017,2017,33,primeira_liga,18,34,0,4,1,2,21,10,1,66,15,LWWWDWLWDDDWLWWDWWLWLWLWLDDWDDLD,13,3,0,40,8,9,8,11,13,31,41,DLWDLWWDWDWWWWWDWLWWWWDDDDWDDWLL,2,4,10,16,30,WWWWDWWWWWWWWDWD,DWLWWWWWWWWDDWDL
+Sporting Braga,Nacional,4-0,/match/sporting-braga/nacional/2017,2017,33,primeira_liga,18,34,0,4,0,5,14,9,9,47,34,LDLWWWDWWWWWWLWDWLWDDLDWDLDLDWLW,9,4,3,33,18,18,4,9,19,21,52,LWLWWLLDDWLWWWLDWWDWDDDWDWLLLWLD,2,3,11,11,31,DWWWWWWWWLDLWDDL,WWLDWWWWWWDWWLWD
+Vitória Setúbal,Boavista,0-1,/match/vitoria-setubal/boavista/2017,2017,33,primeira_liga,18,34,2,0,1,12,9,8,15,28,37,WDWDLWLDDLLWWWWWWLWWDWDWLDWDLWLW,7,3,6,16,14,10,9,12,11,30,34,WDDWLWWDDLLWLDLWDLLDDLLDWDLWDWWD,4,7,5,14,21,WWLLDLWWWWDDLWLL,DWWDLWDLDLDLDDWW
+Paços Ferreira,Marítimo,0-0,/match/pacos-ferreira/maritimo/2017,2017,34,primeira_liga,18,34,1,0,0,11,8,11,14,32,45,DLWDLWWDWDWWWWWDWLWWWWDDDDWDDWLLW,6,7,3,15,11,6,13,10,10,34,32,WLLLWWLDWWDWWWWLWDDWDDDWWWDWWWWDD,3,5,8,9,20,LDWDDWWDLWWDDDWL,WLWLWDWWLDDDWDWW
+Nacional,Vitória Setúbal,1-2,/match/nacional/vitoria-setubal/2017,2017,34,primeira_liga,18,34,2,1,2,18,4,9,20,21,56,LWLWWLLDDWLWWWLDWWDWDDDWDWLLLWLDW,2,6,8,10,21,12,9,8,16,28,38,WDWDLWLDDLLWWWWWWLWWDWDWLDWDLWLWL,2,5,9,12,23,LLWLDLWLDDDDDLLL,DDWDLWWWLWWWDDWW
+Rio Ave,Belenenses,2-0,/match/rio-ave/belenenses/2017,2017,34,primeira_liga,18,34,0,2,0,7,13,7,13,39,39,LDWLWWLDLLLWLWWDWWWWDWDLWWLDWWLLD,7,4,5,21,18,13,9,9,15,27,43,WDLWDDWLWLDDWWLWWLLDDDLWWLLWLWLLD,5,3,8,13,24,LWWLLLWWDWDDWDWL,WLDWWLDWWLDLWWWL
+Vitória,Feirense,0-1,/match/vitoria-guimaraes/feirense/2017,2017,34,primeira_liga,18,34,2,0,1,4,18,8,7,50,38,LLWWDLDLLWWDLWLLDLDWLDWDDWLWLWLWW,8,5,3,27,19,9,13,6,14,30,45,LLWWLLWDDLWLLWWWDWDWLLDLLWLLWDWLW,6,4,6,15,22,LWDDWDWLDLWDWWWW,LWLWDWWWDLDLLWDL
+Boavista,Benfica,2-2,/match/boavista/benfica/2017,2017,34,primeira_liga,18,34,1,2,2,10,10,12,11,31,34,WDDWLWWDDLLWLDLWDLLDDLLDWDLWDWWDL,5,5,6,16,13,1,25,6,2,70,16,LDLLWLWLWDWWWLWLDWWWWLWLWDDLWDWLW,11,3,2,21,7,WDLWDLLWLDLWLDWD,LLLLLDWLLWLLDLDL
+Estoril,Arouca,4-2,/match/estoril/arouca/2017,2017,34,primeira_liga,18,34,0,4,2,14,9,8,16,32,40,LWLDWWLLDWLDWLWLWWLDWDLLDDLLLWWWD,5,2,9,14,19,15,9,5,19,31,53,WWWLLDDWWWWLLLLLWLDWWWLWLWLDWWDWL,3,3,10,13,30,LLWLWDLLLWLLDLWW,WWDWWLLLDWWWWDWW
+Moreirense,Porto,3-1,/match/moreirense-fc/fc-porto/2017,2017,34,primeira_liga,18,34,0,3,1,17,7,9,17,30,47,DLLWWLWDLLWWWLWWWLDWLDWDWDWLLDDWD,3,7,6,15,19,2,22,10,1,70,16,LWWWDWLWDDDWLWWDWWLWLWLWLDDWDDLDW,8,7,1,26,7,DLLDLWLWDLDDDLDW,LWDLDDLDLLLLDDLD
+Tondela,Sporting Braga,2-0,/match/tondela/sporting-braga/2017,2017,34,primeira_liga,18,34,0,2,0,16,7,8,18,27,52,LDLWDWWDLWWWWDWLWWWDLWDDLDLWWWWWL,6,3,7,17,20,5,15,9,9,51,34,LDLWWWDWWWWWWLWDWLWDDLDWDLDLDWLWW,5,5,6,14,16,LLDWLWDLWLDLLWWW,LLWDWWLDWDDDLLWW
+Sporting CP,Chaves,4-1,/match/sporting-lisbon/chaves/2017,2017,34,primeira_liga,18,34,0,4,1,3,20,7,6,64,35,WLWWWWDDDWLWWLLWDDWWLWLDLWLWLDLLW,11,3,2,33,13,8,8,14,11,34,38,LDDDLLWWDDDDWWWDDWWDDWWWDWWWLDLWD,2,6,8,15,23,WWWWDWWLWWWDWWDL,LDLWDDWDWDWWWWDW

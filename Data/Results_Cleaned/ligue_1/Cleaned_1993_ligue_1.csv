@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Lens,Auxerre,0-3,/match/lens/auxerre/1993,1993,1,ligue_1,20,38,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nantes,Metz,0-0,/match/nantes/metz/1993,1993,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Girondins Bordeaux,Olympique Lyonnais,0-0,/match/bordeaux/olympique-lyonnais/1993,1993,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sochaux,Valenciennes,2-1,/match/sochaux/valenciennes-afc/1993,1993,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Saint-Étienne,PSG,1-2,/match/saint-etienne/paris-saint-germain-fc/1993,1993,1,ligue_1,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique,Toulouse,2-1,/match/olympique-marsella/toulouse-fc/1993,1993,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Strasbourg,Lille,2-0,/match/strasbourg/lillestrom/1993,1993,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Caen,2-0,/match/montpellier-hsc/caen/1993,1993,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Le Havre,Nîmes,2-0,/match/havre-ac/nimes-olympique/1993,1993,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Monaco,Sporting Toulon,4-0,/match/monaco/sporting-toulon/1993,1993,1,ligue_1,20,38,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Le Havre,Girondins Bordeaux,0-1,/match/havre-ac/bordeaux/1993,1993,2,ligue_1,20,38,2,0,1,6,1,0,0,2,0,W,1,0,0,2,0,7,0,1,0,0,0,D,0,0,0,0,0,W,
+Lille,Caen,1-0,/match/lillestrom/caen/1993,1993,2,ligue_1,20,38,0,1,0,16,0,0,1,0,2,W,0,0,0,0,0,13,0,0,1,0,2,W,0,0,1,0,2,,W
+Nîmes,Lens,1-1,/match/nimes-olympique/lens/1993,1993,2,ligue_1,20,38,1,1,1,14,0,0,1,0,2,W,0,0,0,0,0,20,0,0,1,0,3,L,0,0,0,0,0,,
+Metz,Saint-Étienne,2-2,/match/metz/saint-etienne/1993,1993,2,ligue_1,20,38,1,2,2,12,0,1,0,0,0,D,0,0,0,0,0,17,0,0,1,1,2,L,0,0,0,0,0,,
+Olympique Lyonnais,Nantes,0-2,/match/olympique-lyonnais/nantes/1993,1993,2,ligue_1,20,38,2,0,2,11,0,1,0,0,0,D,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
+Valenciennes,Strasbourg,1-2,/match/valenciennes-afc/strasbourg/1993,1993,2,ligue_1,20,38,2,1,2,15,0,0,1,1,2,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+PSG,Sochaux,2-0,/match/paris-saint-germain-fc/sochaux/1993,1993,2,ligue_1,20,38,0,2,0,10,1,0,0,2,1,L,0,0,0,0,0,5,1,0,0,2,1,W,0,0,0,0,0,,
+Toulouse,Montpellier,1-3,/match/toulouse-fc/montpellier-hsc/1993,1993,2,ligue_1,20,38,2,1,3,19,0,0,1,1,2,W,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
+Auxerre,Monaco,4-1,/match/auxerre/monaco/1993,1993,2,ligue_1,20,38,0,4,1,9,1,0,0,3,0,L,0,0,0,0,0,1,1,0,0,4,0,W,0,0,0,0,0,,
+Sporting Toulon,Olympique,0-0,/match/sporting-toulon/olympique-marsella/1993,1993,2,ligue_1,20,38,1,0,0,18,0,0,1,0,4,W,0,0,0,0,0,4,1,0,0,2,1,W,0,0,0,0,0,,
+Nantes,Auxerre,2-1,/match/nantes/auxerre/1993,1993,3,ligue_1,20,38,0,2,1,11,1,1,0,2,0,DL,0,1,0,0,0,2,2,0,0,7,1,LW,1,0,0,3,0,D,L
+Caen,Valenciennes,3-0,/match/caen/valenciennes-afc/1993,1993,3,ligue_1,20,38,0,3,0,19,0,0,2,0,3,WW,0,0,0,0,0,18,0,0,2,2,4,WL,0,0,1,1,2,,W
+Saint-Étienne,Toulouse,3-2,/match/saint-etienne/toulouse-fc/1993,1993,3,ligue_1,20,38,0,3,2,15,0,1,1,3,4,LD,0,0,1,1,2,20,0,0,2,2,5,WL,0,0,1,1,2,L,W
+Lens,Le Havre,0-0,/match/lens/havre-ac/1993,1993,3,ligue_1,20,38,1,0,0,17,0,1,1,1,4,LD,0,0,1,0,3,9,1,0,1,2,1,WL,0,0,0,0,0,L,
+Sochaux,Olympique Lyonnais,1-0,/match/sochaux/olympique-lyonnais/1993,1993,3,ligue_1,20,38,0,1,0,8,1,0,1,2,3,WW,1,0,0,2,1,16,0,1,1,0,2,DL,0,1,0,0,0,W,D
+Monaco,Nîmes,3-1,/match/monaco/nimes-olympique/1993,1993,3,ligue_1,20,38,0,3,1,6,1,0,1,5,4,WW,1,0,0,4,0,14,0,1,1,1,3,WD,0,0,1,0,2,W,W
+Olympique,Metz,3-2,/match/olympique-marsella/metz/1993,1993,3,ligue_1,20,38,0,3,2,5,1,1,0,2,1,WD,1,0,0,2,1,12,0,2,0,2,2,DD,0,1,0,0,0,W,D
+Strasbourg,PSG,0-4,/match/strasbourg/paris-saint-germain-fc/1993,1993,3,ligue_1,20,38,2,0,4,1,2,0,0,4,1,WL,1,0,0,2,0,3,2,0,0,4,1,LW,1,0,0,2,1,W,L
+Montpellier,Lille,3-0,/match/montpellier-hsc/lillestrom/1993,1993,3,ligue_1,20,38,0,3,0,4,2,0,0,5,1,WL,1,0,0,2,0,7,1,0,1,1,2,WW,0,0,1,0,2,W,W
+Girondins Bordeaux,Sporting Toulon,1-1,/match/bordeaux/sporting-toulon/1993,1993,3,ligue_1,20,38,1,1,1,10,1,1,0,1,0,DL,0,1,0,0,0,13,0,1,1,0,4,WD,0,0,1,0,4,D,W
+PSG,Caen,2-0,/match/paris-saint-germain-fc/caen/1993,1993,4,ligue_1,20,38,0,2,0,4,3,0,0,8,1,LWL,1,0,0,2,0,13,1,0,2,3,3,WWW,0,0,2,0,3,W,WW
+Valenciennes,Lille,0-1,/match/valenciennes-afc/lillestrom/1993,1993,4,ligue_1,20,38,2,0,1,19,0,0,3,2,7,WLW,0,0,1,1,2,12,1,0,2,1,5,WWW,0,0,2,0,5,L,WW
+Lens,Saint-Étienne,1-1,/match/lens/saint-etienne/1993,1993,4,ligue_1,20,38,1,1,1,16,0,2,1,1,4,LDD,0,1,1,0,3,11,1,1,1,6,6,LDW,0,1,0,2,2,LD,D
+Metz,Sochaux,5-1,/match/metz/sochaux/1993,1993,4,ligue_1,20,38,0,5,1,14,0,2,1,4,5,DDW,0,1,0,2,2,6,2,0,1,3,3,WWW,0,0,1,0,2,D,W
+Toulouse,Strasbourg,1-1,/match/toulouse-fc/strasbourg/1993,1993,4,ligue_1,20,38,1,1,1,20,0,0,3,4,8,WLW,0,0,1,1,3,9,2,0,1,4,5,WLL,1,0,0,2,1,L,L
+Le Havre,Monaco,0-0,/match/havre-ac/monaco/1993,1993,4,ligue_1,20,38,1,0,0,10,1,1,1,2,1,WLD,1,0,1,2,1,5,2,0,1,8,5,WWW,0,0,1,1,4,WL,W
+Olympique Lyonnais,Olympique,2-2,/match/olympique-lyonnais/olympique-marsella/1993,1993,4,ligue_1,20,38,1,2,2,18,0,1,2,0,3,DLW,0,0,1,0,2,2,2,1,0,5,3,WDW,0,1,0,0,0,L,D
+Nîmes,Nantes,1-1,/match/nimes-olympique/nantes/1993,1993,4,ligue_1,20,38,1,1,1,17,0,1,2,2,6,WDW,0,1,0,1,1,3,2,1,0,4,1,DLW,1,0,0,2,0,D,L
+Auxerre,Girondins Bordeaux,1-0,/match/auxerre/bordeaux/1993,1993,4,ligue_1,20,38,0,1,0,8,2,0,1,8,3,LWW,1,0,0,4,1,7,1,2,0,2,1,DLD,1,0,0,1,0,W,L
+Sporting Toulon,Montpellier,1-0,/match/sporting-toulon/montpellier-hsc/1993,1993,4,ligue_1,20,38,0,1,0,15,0,2,1,1,5,WDD,0,1,0,0,0,1,3,0,0,8,1,WLW,1,0,0,3,1,D,L
+Lille,PSG,0-0,/match/lillestrom/paris-saint-germain-fc/1993,1993,5,ligue_1,20,38,1,0,0,13,2,0,2,2,5,WWWL,1,0,0,1,0,1,4,0,0,10,1,LWLW,2,0,0,6,1,W,LL
+Saint-Étienne,Sporting Toulon,2-0,/match/saint-etienne/sporting-toulon/1993,1993,5,ligue_1,20,38,0,2,0,12,1,2,1,7,7,LDWD,1,0,1,4,4,9,1,2,1,2,5,WDDW,0,1,1,1,5,LW,WD
+Caen,Olympique Lyonnais,3-2,/match/caen/olympique-lyonnais/1993,1993,5,ligue_1,20,38,0,3,2,16,1,0,3,3,5,WWWW,1,0,0,3,0,18,0,2,2,2,5,DLWD,0,1,1,0,1,W,DW
+Sochaux,Toulouse,1-0,/match/sochaux/toulouse-fc/1993,1993,5,ligue_1,20,38,0,1,0,7,2,0,2,4,8,WWWW,2,0,0,3,1,19,0,1,3,5,9,WLWD,0,0,2,3,5,WW,WW
+Strasbourg,Metz,1-1,/match/strasbourg/metz/1993,1993,5,ligue_1,20,38,1,1,1,10,2,1,1,5,6,WLLD,1,0,1,2,4,8,1,2,1,9,6,DDWW,0,1,1,2,3,WL,DW
+Montpellier,Valenciennes,1-3,/match/montpellier-hsc/valenciennes-afc/1993,1993,5,ligue_1,20,38,2,1,3,2,3,0,1,8,2,WLWW,2,0,0,5,0,20,0,0,4,2,8,WLWL,0,0,2,1,5,WW,WW
+Monaco,Lens,2-1,/match/monaco/lens/1993,1993,5,ligue_1,20,38,0,2,1,6,2,1,1,8,5,WWWD,2,0,0,7,1,15,0,3,1,2,5,LDDD,0,1,0,1,1,WW,D
+Olympique,Auxerre,2-0,/match/olympique-marsella/auxerre/1993,1993,5,ligue_1,20,38,0,2,0,4,2,2,0,7,5,WDWD,2,0,0,5,3,3,3,0,1,9,3,LWWW,1,0,1,4,2,WW,LW
+Nantes,Le Havre,5-2,/match/nantes/havre-ac/1993,1993,5,ligue_1,20,38,0,5,2,5,2,2,0,5,2,DLWD,1,1,0,2,1,11,1,2,1,2,1,WLDD,0,1,0,0,0,DW,D
+Girondins Bordeaux,Nîmes,1-1,/match/bordeaux/nimes-olympique/1993,1993,5,ligue_1,20,38,1,1,1,14,1,2,1,2,2,DLDW,0,2,0,1,1,17,0,2,2,3,7,WDWD,0,0,2,1,5,DD,WW
+Metz,Caen,1-0,/match/metz/caen/1993,1993,6,ligue_1,20,38,0,1,0,11,1,3,1,10,7,DDWWD,1,1,0,7,3,12,2,0,3,6,7,WWWWW,0,0,3,0,5,DW,WWW
+Toulouse,Lille,0-0,/match/toulouse-fc/lillestrom/1993,1993,6,ligue_1,20,38,1,0,0,19,0,1,4,5,10,WLWDW,0,1,1,2,4,13,2,1,2,2,5,WWWLD,1,0,2,1,5,LD,WWL
+Le Havre,Sochaux,0-0,/match/havre-ac/sochaux/1993,1993,6,ligue_1,20,38,1,0,0,14,1,2,2,4,6,WLDDW,1,1,1,2,1,5,3,0,2,5,8,WWWWW,0,0,2,1,7,WLD,WW
+Olympique Lyonnais,Strasbourg,2-2,/match/olympique-lyonnais/strasbourg/1993,1993,6,ligue_1,20,38,1,2,2,18,0,2,3,4,8,DLWDW,0,1,1,2,4,9,2,2,1,6,7,WLLDD,1,1,0,3,2,LD,LD
+Lens,Girondins Bordeaux,1-2,/match/lens/bordeaux/1993,1993,6,ligue_1,20,38,2,1,2,16,0,3,2,3,7,LDDDW,0,2,1,1,4,10,1,3,1,3,3,DLDWD,1,0,1,1,1,LDD,LW
+Monaco,Montpellier,0-0,/match/monaco/montpellier-hsc/1993,1993,6,ligue_1,20,38,1,0,0,4,3,1,1,10,6,WWWDW,3,0,0,9,2,7,3,0,2,9,5,WLWWL,1,0,1,3,2,WWW,LW
+Auxerre,Saint-Étienne,1-0,/match/auxerre/saint-etienne/1993,1993,6,ligue_1,20,38,0,1,0,6,3,0,2,9,5,LWWWW,2,0,0,5,1,8,2,2,1,9,7,LDWDW,0,2,0,3,3,WW,DD
+Nîmes,Olympique,1-3,/match/nimes-olympique/olympique-marsella/1993,1993,6,ligue_1,20,38,2,1,3,17,0,3,2,4,8,WDWDD,0,2,0,2,2,1,3,2,0,9,5,WDWDW,0,2,0,2,2,DD,DD
+PSG,Valenciennes,2-0,/match/paris-saint-germain-fc/valenciennes-afc/1993,1993,6,ligue_1,20,38,0,2,0,2,4,1,0,10,1,LWLWD,2,0,0,4,0,20,1,0,4,5,9,WLWLL,1,0,2,4,6,WW,WWL
+Sporting Toulon,Nantes,1-3,/match/sporting-toulon/nantes/1993,1993,6,ligue_1,20,38,2,1,3,15,1,2,2,2,7,WDDWW,1,1,0,1,0,3,3,2,0,10,4,DLWDW,1,1,0,3,1,DW,LD
+Montpellier,PSG,0-0,/match/montpellier-hsc/paris-saint-germain-fc/1993,1993,7,ligue_1,20,38,1,0,0,8,3,1,2,9,5,WLWWLD,2,0,1,6,3,1,5,1,0,12,1,LWLWDW,2,1,0,6,1,WWL,LLD
+Valenciennes,Olympique Lyonnais,0-0,/match/valenciennes-afc/olympique-lyonnais/1993,1993,7,ligue_1,20,38,1,0,0,20,1,0,5,5,11,WLWLLW,0,0,2,1,3,18,0,3,3,6,10,DLWDWD,0,1,2,2,4,LL,DWW
+Caen,Toulouse,4-1,/match/caen/toulouse-fc/1993,1993,7,ligue_1,20,38,0,4,1,14,2,0,4,6,8,WWWWWW,2,0,0,6,2,19,0,2,4,5,10,WLWDWD,0,0,3,3,6,WW,WWW
+Saint-Étienne,Nîmes,1-0,/match/saint-etienne/nimes-olympique/1993,1993,7,ligue_1,20,38,0,1,0,9,2,2,2,9,8,LDWDWW,2,0,1,6,4,17,0,3,3,5,11,WDWDDL,0,1,2,2,6,LWW,WWD
+Lille,Metz,1-1,/match/lillestrom/metz/1993,1993,7,ligue_1,20,38,1,1,1,12,2,2,2,2,5,WWWLDD,1,1,0,1,0,7,2,3,1,11,7,DDWWDW,0,2,1,3,4,WD,DWD
+Girondins Bordeaux,Monaco,1-0,/match/bordeaux/monaco/1993,1993,7,ligue_1,20,38,0,1,0,11,2,3,1,5,4,DLDWDL,0,3,0,2,2,4,3,2,1,10,6,WWWDWD,0,1,1,1,4,DDD,WD
+Sochaux,Auxerre,0-3,/match/sochaux/auxerre/1993,1993,7,ligue_1,20,38,2,0,3,6,3,1,2,5,8,WWWWWD,3,0,0,4,1,5,4,0,2,10,5,LWWWWW,1,0,2,4,4,WWW,LWW
+Olympique,Le Havre,1-1,/match/olympique-marsella/havre-ac/1993,1993,7,ligue_1,20,38,1,1,1,2,4,2,0,12,6,WDWDWL,3,0,0,7,3,13,1,3,2,4,6,WLDDWD,0,1,1,2,5,WWW,DW
+Nantes,Lens,3-2,/match/nantes/lens/1993,1993,7,ligue_1,20,38,0,3,2,3,4,2,0,13,5,DLWDWL,2,1,0,7,3,16,0,3,3,4,9,LDDDWL,0,1,1,2,3,DWW,DW
+Strasbourg,Sporting Toulon,1-1,/match/strasbourg/sporting-toulon/1993,1993,7,ligue_1,20,38,1,1,1,10,2,3,1,8,9,WLLDDD,1,1,1,3,5,15,1,2,3,3,10,WDDWWL,0,1,2,1,7,WLD,WDW
+Auxerre,Lille,2-0,/match/auxerre/lillestrom/1993,1993,8,ligue_1,20,38,0,2,0,4,5,0,2,13,5,LWWWWWL,3,0,0,6,1,13,2,3,2,3,6,WWWLDDD,1,1,2,1,5,WWW,WWLD
+Lens,Olympique,2-2,/match/lens/olympique-marsella/1993,1993,8,ligue_1,20,38,1,2,2,17,0,3,4,6,12,LDDDWLW,0,2,2,2,6,3,4,3,0,13,7,WDWDWLD,1,2,0,5,3,LDDL,DDL
+Nîmes,Sochaux,1-1,/match/nimes-olympique/sochaux/1993,1993,8,ligue_1,20,38,1,1,1,18,0,3,4,5,12,WDWDDLW,0,2,1,3,5,10,3,1,3,5,11,WWWWWDL,0,1,2,1,7,DDL,WWD
+Olympique Lyonnais,Montpellier,2-1,/match/olympique-lyonnais/montpellier-hsc/1993,1993,8,ligue_1,20,38,0,2,1,16,0,4,3,6,10,DLWDWDD,0,2,1,4,6,8,3,2,2,9,5,WLWWLDD,1,1,1,3,2,LDD,LWD
+Metz,Valenciennes,0-0,/match/metz/valenciennes-afc/1993,1993,8,ligue_1,20,38,1,0,0,9,2,4,1,12,8,DDWWDWD,2,1,0,8,3,20,1,1,5,5,11,WLWLLWD,1,0,3,4,8,DWW,WWLW
+Girondins Bordeaux,Strasbourg,1-1,/match/bordeaux/strasbourg/1993,1993,8,ligue_1,20,38,1,1,1,7,3,3,1,6,4,DLDWDLW,1,3,0,3,2,11,2,4,1,9,10,WLLDDDD,1,2,0,5,4,DDDW,LDD
+Le Havre,Saint-Étienne,0-1,/match/havre-ac/saint-etienne/1993,1993,8,ligue_1,20,38,2,0,1,14,1,4,2,5,7,WLDDWDD,1,2,1,2,1,6,3,2,2,10,8,LDWDWWW,0,2,1,3,4,WLDD,DDW
+Monaco,Nantes,3-1,/match/monaco/nantes/1993,1993,8,ligue_1,20,38,0,3,1,5,3,2,2,10,7,WWWDWDW,3,1,0,9,2,1,5,2,0,16,7,DLWDWLW,2,1,0,6,2,WWWD,LDL
+Toulouse,PSG,2-2,/match/toulouse-fc/paris-saint-germain-fc/1993,1993,8,ligue_1,20,38,1,2,2,19,0,2,5,6,14,WLWDWDW,0,2,1,2,4,2,5,2,0,12,1,LWLWDWD,2,2,0,6,1,LDD,LLDD
+Sporting Toulon,Caen,1-1,/match/sporting-toulon/caen/1993,1993,8,ligue_1,20,38,1,1,1,15,1,3,3,4,11,WDDWWLD,1,1,1,2,3,12,3,0,4,10,9,WWWWWWW,0,0,4,0,6,DWL,WWWW
+Nantes,Girondins Bordeaux,1-0,/match/nantes/bordeaux/1993,1993,9,ligue_1,20,38,0,1,0,2,5,2,1,17,10,DLWDWLWW,3,1,0,10,5,7,3,4,1,7,5,DLDWDLWD,2,0,1,3,2,DWWW,LWL
+Sochaux,Sporting Toulon,2-1,/match/sochaux/sporting-toulon/1993,1993,9,ligue_1,20,38,0,2,1,9,3,2,3,6,12,WWWWWDLD,3,0,1,4,4,15,1,4,3,5,12,WDDWWLDD,0,2,2,2,8,WWWL,WDWD
+Valenciennes,Toulouse,1-1,/match/valenciennes-afc/toulouse-fc/1993,1993,9,ligue_1,20,38,1,1,1,20,1,2,5,5,11,WLWLLWDD,0,1,2,1,3,19,0,3,5,8,16,WLWDWDWD,0,0,4,4,10,LLD,WWWW
+Lille,Lens,0-0,/match/lillestrom/lens/1993,1993,9,ligue_1,20,38,1,0,0,13,2,3,3,3,8,WWWLDDDW,1,2,0,2,1,17,0,4,4,8,14,LDDDWLWD,0,1,2,4,6,WDD,DWW
+Strasbourg,Nîmes,1-1,/match/strasbourg/nimes-olympique/1993,1993,9,ligue_1,20,38,1,1,1,11,2,5,1,10,11,WLLDDDDD,1,2,1,4,6,18,0,4,4,6,13,WDWDDLWD,0,1,3,2,7,WLDD,WWDW
+Saint-Étienne,Olympique Lyonnais,0-0,/match/saint-etienne/olympique-lyonnais/1993,1993,9,ligue_1,20,38,1,0,0,6,4,2,2,11,8,LDWDWWWL,3,0,1,7,4,16,1,4,3,8,11,DLWDWDDW,0,2,2,2,4,LWWW,DWWD
+Montpellier,Auxerre,1-0,/match/montpellier-hsc/auxerre/1993,1993,9,ligue_1,20,38,0,1,0,12,3,2,3,10,7,WLWWLDDW,2,1,1,6,3,1,6,0,2,15,5,LWWWWWLW,2,0,2,7,4,WWLD,LWWL
+Olympique,Monaco,1-0,/match/olympique-marsella/monaco/1993,1993,9,ligue_1,20,38,0,1,0,4,4,4,0,15,9,WDWDWLDD,3,1,0,8,4,5,4,2,2,13,8,WWWDWDWW,0,1,2,1,5,WWWD,WDW
+PSG,Metz,5-1,/match/paris-saint-germain-fc/metz/1993,1993,9,ligue_1,20,38,0,5,1,3,5,3,0,14,3,LWLWDWDD,3,0,0,6,0,8,2,5,1,12,8,DDWWDWDD,0,3,1,4,5,WWW,DWDD
+Caen,Le Havre,3-3,/match/caen/havre-ac/1993,1993,9,ligue_1,20,38,1,3,3,10,3,1,4,11,10,WWWWWWWD,3,0,0,10,3,14,1,4,3,5,8,WLDDWDDL,0,2,1,3,6,WWW,DWD
+Nîmes,Montpellier,0-0,/match/nimes-olympique/montpellier-hsc/1993,1993,10,ligue_1,20,38,1,0,0,18,0,5,4,7,14,WDWDDLWDD,0,3,1,4,6,8,4,2,3,11,7,WLWWLDDWW,1,1,2,4,4,DDLD,LWDW
+Le Havre,Strasbourg,3-0,/match/havre-ac/strasbourg/1993,1993,10,ligue_1,20,38,0,3,0,14,1,5,3,8,11,WLDDWDDLD,1,2,2,2,2,10,2,6,1,11,12,WLLDDDDDD,1,3,0,6,5,WLDDL,LDDD
+Metz,Toulouse,1-1,/match/metz/toulouse-fc/1993,1993,10,ligue_1,20,38,1,1,1,12,2,5,2,13,13,DDWWDWDDW,2,2,0,8,3,19,0,4,5,9,17,WLWDWDWDD,0,1,4,5,11,DWWD,WWWWD
+Lens,Sochaux,0-0,/match/lens/sochaux/1993,1993,10,ligue_1,20,38,1,0,0,17,0,5,4,8,14,LDDDWLWDD,0,3,2,4,8,7,4,2,3,8,13,WWWWWDLDW,0,2,2,2,8,LDDLD,WWDD
+Monaco,Saint-Étienne,1-0,/match/monaco/saint-etienne/1993,1993,10,ligue_1,20,38,0,1,0,5,4,2,3,13,9,WWWDWDWWW,4,1,0,12,3,6,4,3,2,11,8,LDWDWWWLD,1,2,1,4,4,WWWDW,DDWL
+Girondins Bordeaux,Olympique,1-0,/match/bordeaux/olympique-marsella/1993,1993,10,ligue_1,20,38,0,1,0,9,3,4,2,7,6,DLDWDLWDW,1,4,0,4,3,3,5,4,0,16,9,WDWDWLDDW,1,3,0,7,5,DDDWD,DDLD
+Auxerre,Caen,3-2,/match/auxerre/caen/1993,1993,10,ligue_1,20,38,0,3,2,4,6,0,3,15,6,LWWWWWLWW,4,0,0,8,1,11,3,2,4,14,13,WWWWWWWDD,0,1,4,1,7,WWWW,WWWWD
+Nantes,Lille,4-0,/match/nantes/lillestrom/1993,1993,10,ligue_1,20,38,0,4,0,1,6,2,1,18,10,DLWDWLWWW,4,1,0,11,5,13,2,4,3,3,8,WWWLDDDWD,1,1,3,1,7,DWWWW,WWLDW
+Olympique Lyonnais,PSG,1-1,/match/olympique-lyonnais/paris-saint-germain-fc/1993,1993,10,ligue_1,20,38,1,1,1,15,1,5,3,8,11,DLWDWDDWD,1,2,1,6,7,2,6,3,0,19,4,LWLWDWDDW,2,3,0,8,3,LDDW,LLDDD
+Sporting Toulon,Valenciennes,1-2,/match/sporting-toulon/valenciennes-afc/1993,1993,10,ligue_1,20,38,2,1,2,16,1,4,4,6,14,WDDWWLDDW,1,2,1,3,4,20,1,3,5,6,12,WLWLLWDDD,1,1,3,4,8,DWLD,WWLWD
+Olympique,Nantes,0-1,/match/olympique-marsella/nantes/1993,1993,11,ligue_1,20,38,2,0,1,4,5,4,1,16,10,WDWDWLDDWW,4,1,0,9,4,1,7,2,1,22,10,DLWDWLWWWW,2,1,1,7,5,WWWDW,LDLW
+Toulouse,Olympique Lyonnais,0-0,/match/toulouse-fc/olympique-lyonnais/1993,1993,11,ligue_1,20,38,1,0,0,20,0,5,5,10,18,WLWDWDWDDD,0,3,1,4,6,15,1,6,3,9,12,DLWDWDDWDD,0,3,2,2,4,LDDD,DWWDD
+Valenciennes,Le Havre,4-1,/match/valenciennes-afc/havre-ac/1993,1993,11,ligue_1,20,38,0,4,1,19,2,3,5,8,13,WLWLLWDDDL,0,2,2,2,4,11,2,5,3,11,11,WLDDWDDLDW,0,3,1,6,9,LLDD,DWDD
+Caen,Nîmes,2-2,/match/caen/nimes-olympique/1993,1993,11,ligue_1,20,38,1,2,2,12,3,2,5,16,16,WWWWWWWDDW,3,1,0,13,6,18,0,6,4,7,14,WDWDDLWDDD,0,2,3,3,8,WWWD,WWDWD
+Saint-Étienne,Girondins Bordeaux,2-1,/match/saint-etienne/bordeaux/1993,1993,11,ligue_1,20,38,0,2,1,8,4,3,3,11,9,LDWDWWWLDW,3,1,1,7,4,6,4,4,2,8,6,DLDWDLWDWW,2,0,2,3,3,LWWWD,LWLW
+Montpellier,Metz,1-0,/match/montpellier-hsc/metz/1993,1993,11,ligue_1,20,38,0,1,0,9,4,3,3,11,7,WLWWLDDWWD,3,1,1,7,3,10,2,6,2,14,14,DDWWDWDDWD,0,3,2,5,10,WWLDW,DWDDW
+Sochaux,Monaco,1-2,/match/sochaux/monaco/1993,1993,11,ligue_1,20,38,2,1,2,7,4,3,3,8,13,WWWWWDLDWD,4,0,1,6,5,5,5,2,3,14,9,WWWDWDWWWW,0,1,3,1,6,WWWLW,WDWW
+Strasbourg,Auxerre,1-1,/match/strasbourg/auxerre/1993,1993,11,ligue_1,20,38,1,1,1,13,2,6,2,11,15,WLLDDDDDDW,1,3,1,5,7,2,7,0,3,18,8,LWWWWWLWWW,2,0,3,7,5,WLDDD,LWWLW
+PSG,Lens,1-1,/match/paris-saint-germain-fc/lens/1993,1993,11,ligue_1,20,38,1,1,1,3,6,4,0,20,5,LWLWDWDDWD,4,0,0,11,1,17,0,6,4,8,14,LDDDWLWDDD,0,2,2,4,6,WWWW,DWWD
+Lille,Sporting Toulon,1-0,/match/lillestrom/sporting-toulon/1993,1993,11,ligue_1,20,38,0,1,0,14,2,4,4,3,12,WWWLDDDWDW,1,3,0,2,1,16,1,4,5,7,16,WDDWWLDDWL,0,2,3,3,10,WDDD,WDWDW
+Nantes,Montpellier,6-0,/match/nantes/montpellier-hsc/1993,1993,12,ligue_1,20,38,0,6,0,1,8,2,1,23,10,DLWDWLWWWWL,5,1,0,15,5,7,5,3,3,12,7,WLWWLDDWWDW,1,2,2,4,4,DWWWWW,LWDWD
+Nîmes,Valenciennes,2-1,/match/nimes-olympique/valenciennes-afc/1993,1993,12,ligue_1,20,38,0,2,1,18,0,7,4,9,16,WDWDDLWDDDD,0,4,1,4,6,16,3,3,5,12,14,WLWLLWDDDLW,2,1,3,6,9,DDLDD,WWLWDL
+Le Havre,Lille,1-0,/match/havre-ac/lillestrom/1993,1993,12,ligue_1,20,38,0,1,0,14,2,5,4,12,15,WLDDWDDLDWW,2,2,2,5,2,10,3,4,4,4,12,WWWLDDDWDWW,1,1,4,1,11,WLDDLW,WWLDWW
+Olympique Lyonnais,Metz,1-1,/match/olympique-lyonnais/metz/1993,1993,12,ligue_1,20,38,1,1,1,15,1,7,3,9,12,DLWDWDDWDDD,1,3,1,7,8,11,2,6,3,14,15,DDWWDWDDWDW,0,3,3,5,11,LDDWD,DWDDWW
+Lens,Caen,0-3,/match/lens/caen/1993,1993,12,ligue_1,20,38,2,0,3,17,0,7,4,9,15,LDDDWLWDDDD,0,4,2,4,8,12,3,3,5,18,18,WWWWWWWDDWD,0,1,5,3,10,LDDLDD,WWWWDW
+Girondins Bordeaux,Sochaux,3-0,/match/bordeaux/sochaux/1993,1993,12,ligue_1,20,38,0,3,0,8,4,4,3,9,8,DLDWDLWDWWW,2,4,0,5,3,9,4,3,4,9,15,WWWWWDLDWDL,0,3,2,2,8,DDDWDW,WWDDD
+Olympique,Saint-Étienne,1-0,/match/olympique-marsella/saint-etienne/1993,1993,12,ligue_1,20,38,0,1,0,5,5,4,2,16,11,WDWDWLDDWWL,4,1,1,9,5,6,5,3,3,13,10,LDWDWWWLDWW,1,2,2,4,5,WWWDWL,DDWLW
+Monaco,Strasbourg,2-1,/match/monaco/strasbourg/1993,1993,12,ligue_1,20,38,0,2,1,3,6,2,3,16,10,WWWDWDWWWWL,5,1,0,13,3,13,2,7,2,12,16,WLLDDDDDDWD,1,3,1,6,8,WWWDWW,LDDDW
+Auxerre,Toulouse,0-0,/match/auxerre/toulouse-fc/1993,1993,12,ligue_1,20,38,1,0,0,4,7,1,3,19,9,LWWWWWLWWWD,5,0,0,11,3,20,0,6,5,10,18,WLWDWDWDDDD,0,2,4,6,12,WWWWW,WWWWDD
+Sporting Toulon,PSG,0-2,/match/sporting-toulon/paris-saint-germain-fc/1993,1993,12,ligue_1,20,38,2,0,2,19,1,4,6,7,17,WDDWWLDDWLW,1,2,2,4,6,2,6,5,0,21,6,LWLWDWDDWDD,2,4,0,9,4,DWLDL,LLDDDD
+Saint-Étienne,Nantes,1-0,/match/saint-etienne/nantes/1993,1993,13,ligue_1,20,38,0,1,0,7,5,3,4,13,11,LDWDWWWLDWWW,4,1,1,9,5,1,9,2,1,29,10,DLWDWLWWWWLW,3,1,1,8,5,LWWWDW,LDLWL
+Lille,Olympique Lyonnais,1-1,/match/lillestrom/olympique-lyonnais/1993,1993,13,ligue_1,20,38,1,1,1,14,3,4,5,4,13,WWWLDDDWDWWW,2,3,0,3,1,15,1,8,3,10,13,DLWDWDDWDDDD,0,4,2,2,4,WDDDW,DWWDDD
+Toulouse,Le Havre,1-0,/match/toulouse-fc/havre-ac/1993,1993,13,ligue_1,20,38,0,1,0,19,0,7,5,10,18,WLWDWDWDDDDD,0,4,1,4,6,11,3,5,4,13,15,WLDDWDDLDWWW,0,3,2,7,13,LDDDD,DWDDW
+Strasbourg,Lens,4-1,/match/strasbourg/lens/1993,1993,13,ligue_1,20,38,0,4,1,13,2,7,3,13,18,WLLDDDDDDWDW,1,4,1,6,8,18,0,7,5,9,18,LDDDWLWDDDDL,0,3,2,5,7,WLDDDD,DWWDD
+Montpellier,Girondins Bordeaux,2-0,/match/montpellier-hsc/bordeaux/1993,1993,13,ligue_1,20,38,0,2,0,8,5,3,4,12,13,WLWWLDDWWDWW,4,1,1,8,3,6,5,4,3,12,8,DLDWDLWDWWWW,2,0,3,4,5,WWLDWW,LWLWW
+Caen,Monaco,1-0,/match/caen/monaco/1993,1993,13,ligue_1,20,38,0,1,0,9,4,3,5,21,18,WWWWWWWDDWDL,3,2,0,15,8,2,7,2,3,18,11,WWWDWDWWWWLW,1,1,3,3,7,WWWDD,WDWWL
+Sochaux,Olympique,2-2,/match/sochaux/olympique-marsella/1993,1993,13,ligue_1,20,38,1,2,2,10,4,3,5,9,18,WWWWWDLDWDLW,4,0,2,7,7,5,6,4,2,17,11,WDWDWLDDWWLW,1,3,1,7,6,WWWLWL,DDLDW
+Valenciennes,Auxerre,3-3,/match/valenciennes-afc/auxerre/1993,1993,13,ligue_1,20,38,1,3,3,17,3,3,6,13,16,WLWLLWDDDLWW,1,2,2,6,5,4,7,2,3,19,9,LWWWWWLWWWDD,2,1,3,8,6,LLDDW,LWWLWD
+PSG,Nîmes,2-3,/match/paris-saint-germain-fc/nimes-olympique/1993,1993,13,ligue_1,20,38,2,2,3,3,7,5,0,23,6,LWLWDWDDWDDL,4,1,0,12,2,16,1,7,4,11,17,WDWDDLWDDDDW,0,3,3,5,10,WWWWD,WWDWDD
+Metz,Sporting Toulon,0-0,/match/metz/sporting-toulon/1993,1993,13,ligue_1,20,38,1,0,0,12,2,7,3,15,16,DDWWDWDDWDWD,2,3,0,9,4,20,1,4,7,7,19,WDDWWLDDWLWL,0,2,4,3,11,DWWDD,WDWDWW
+Nantes,Sochaux,1-1,/match/nantes/sochaux/1993,1993,14,ligue_1,20,38,1,1,1,1,9,2,2,29,11,DLWDWLWWWWLWW,6,1,0,21,5,10,4,4,5,11,20,WWWWWDLDWDLWD,0,3,3,2,11,DWWWWWW,WWDDDW
+Lens,Valenciennes,2-1,/match/lens/valenciennes-afc/1993,1993,14,ligue_1,20,38,0,2,1,19,0,7,6,10,22,LDDDWLWDDDDLW,0,4,3,4,11,17,3,4,6,16,19,WLWLLWDDDLWWD,2,1,4,7,11,LDDLDDL,WWLWDLW
+Nîmes,Toulouse,1-1,/match/nimes-olympique/toulouse-fc/1993,1993,14,ligue_1,20,38,1,1,1,16,2,7,4,14,19,WDWDDLWDDDDWL,1,4,1,6,7,18,1,7,5,11,18,WLWDWDWDDDDDW,0,3,4,6,12,DDLDDW,WWWWDDD
+Saint-Étienne,Strasbourg,1-2,/match/saint-etienne/strasbourg/1993,1993,14,ligue_1,20,38,2,1,2,6,6,3,4,14,11,LDWDWWWLDWWWW,5,1,1,10,5,11,3,7,3,17,19,WLLDDDDDDWDWW,1,3,2,7,10,LWWWDWW,LDDDWW
+Girondins Bordeaux,Caen,2-0,/match/bordeaux/caen/1993,1993,14,ligue_1,20,38,0,2,0,8,5,4,4,12,10,DLDWDLWDWWWWW,3,4,0,8,3,9,5,3,5,22,18,WWWWWWWDDWDLW,1,1,5,6,10,DDDWDWW,WWWWDWL
+Olympique,Montpellier,1-1,/match/olympique-marsella/montpellier-hsc/1993,1993,14,ligue_1,20,38,1,1,1,5,6,5,2,19,13,WDWDWLDDWWLWD,5,1,1,10,5,7,6,3,4,14,13,WLWWLDDWWDWWW,1,2,3,4,10,WWWDWLW,LWDWDW
+Monaco,Lille,3-0,/match/monaco/lillestrom/1993,1993,14,ligue_1,20,38,0,3,0,2,7,2,4,18,12,WWWDWDWWWWLWW,6,1,0,15,4,13,3,5,5,5,14,WWWLDDDWDWWWD,1,1,5,1,12,WWWDWWW,WWLDWWW
+Auxerre,Metz,4-0,/match/auxerre/metz/1993,1993,14,ligue_1,20,38,0,4,0,4,7,3,3,22,12,LWWWWWLWWWDDD,5,1,0,11,3,12,2,8,3,15,16,DDWWDWDDWDWDD,0,4,3,6,12,WWWWWD,DWDDWWD
+Le Havre,PSG,1-1,/match/havre-ac/paris-saint-germain-fc/1993,1993,14,ligue_1,20,38,1,1,1,14,3,5,5,13,16,WLDDWDDLDWWWW,3,2,2,6,2,3,7,5,1,25,9,LWLWDWDDWDDLL,3,4,0,11,4,WLDDLWW,LLDDDDL
+Sporting Toulon,Olympique Lyonnais,0-0,/match/sporting-toulon/olympique-lyonnais/1993,1993,14,ligue_1,20,38,1,0,0,20,1,5,7,7,19,WDDWWLDDWLWLD,1,2,3,4,8,15,1,9,3,11,14,DLWDWDDWDDDDD,0,5,2,3,5,DWLDLL,DWWDDDD
+PSG,Auxerre,2-0,/match/paris-saint-germain-fc/auxerre/1993,1993,15,ligue_1,20,38,0,2,0,5,7,6,1,26,10,LWLWDWDDWDDLLD,4,1,1,14,5,3,8,3,3,26,12,LWWWWWLWWWDDDW,2,2,3,11,9,WWWWDL,LWWLWDD
+Valenciennes,Monaco,1-1,/match/valenciennes-afc/monaco/1993,1993,15,ligue_1,20,38,1,1,1,18,3,4,7,17,21,WLWLLWDDDLWWDW,1,3,2,9,8,2,8,2,4,21,12,WWWDWDWWWWLWWW,1,1,4,3,8,LLDDWD,WDWWLW
+Olympique Lyonnais,Le Havre,1-1,/match/olympique-lyonnais/havre-ac/1993,1993,15,ligue_1,20,38,1,1,1,16,1,10,3,11,14,DLWDWDDWDDDDDD,1,4,1,8,9,12,3,6,5,14,17,WLDDWDDLDWWWWD,0,3,3,7,14,LDDWDD,DWDDWW
+Metz,Nîmes,3-0,/match/metz/nimes-olympique/1993,1993,15,ligue_1,20,38,0,3,0,13,2,8,4,15,20,DDWWDWDDWDWDDW,2,4,0,9,4,15,2,8,4,15,20,WDWDDLWDDDDWLD,1,3,3,8,12,DWWDDD,WWDWDDL
+Sochaux,Saint-Étienne,1-0,/match/sochaux/saint-etienne/1993,1993,15,ligue_1,20,38,0,1,0,11,4,5,5,12,21,WWWWWDLDWDLWDD,4,1,2,9,9,8,6,3,5,15,13,LDWDWWWLDWWWWL,1,2,3,4,6,WWWLWLD,DDWLWW
+Montpellier,Lens,1-2,/match/montpellier-hsc/lens/1993,1993,15,ligue_1,20,38,2,1,2,7,6,4,4,15,14,WLWWLDDWWDWWWD,5,1,1,10,3,19,1,7,6,12,23,LDDDWLWDDDDLWW,0,3,3,6,11,WWLDWWW,DWWDDW
+Lille,Girondins Bordeaux,0-2,/match/lillestrom/bordeaux/1993,1993,15,ligue_1,20,38,2,0,2,14,3,5,6,5,17,WWWLDDDWDWWWDW,2,4,0,4,2,6,6,4,4,14,10,DLDWDLWDWWWWWW,2,0,4,4,7,WDDDWD,LWLWWW
+Caen,Nantes,1-1,/match/caen/nantes/1993,1993,15,ligue_1,20,38,1,1,1,10,5,3,6,22,20,WWWWWWWDDWDLWW,4,2,0,16,8,1,9,3,2,30,12,DLWDWLWWWWLWWD,3,1,2,8,6,WWWDDW,LDLWLW
+Strasbourg,Olympique,2-2,/match/strasbourg/olympique-marsella/1993,1993,15,ligue_1,20,38,1,2,2,9,4,7,3,19,20,WLLDDDDDDWDWWL,2,4,1,10,9,4,6,6,2,20,14,WDWDWLDDWWLWDD,1,4,1,9,8,WLDDDDW,DDLDWD
+Toulouse,Sporting Toulon,1-1,/match/toulouse-fc/sporting-toulon/1993,1993,15,ligue_1,20,38,1,1,1,17,1,8,5,12,19,WLWDWDWDDDDDWD,1,4,1,5,6,20,1,6,7,7,19,WDDWWLDDWLWLDD,0,3,4,3,11,LDDDDW,WDWDWWD
+Nantes,Strasbourg,2-2,/match/nantes/strasbourg/1993,1993,16,ligue_1,20,38,1,2,2,1,9,4,2,31,13,DLWDWLWWWWLWWDD,6,2,0,22,6,10,4,8,3,21,22,WLLDDDDDDWDWWLD,2,3,2,9,11,DWWWWWWD,LDDDWWL
+Lens,Toulouse,0-2,/match/lens/toulouse-fc/1993,1993,16,ligue_1,20,38,2,0,2,19,2,7,6,14,24,LDDDWLWDDDDLWWL,1,4,3,6,12,17,1,9,5,13,20,WLWDWDWDDDDDWDD,0,4,4,7,13,LDDLDDLW,WWWWDDDD
+Nîmes,Olympique Lyonnais,2-3,/match/nimes-olympique/olympique-lyonnais/1993,1993,16,ligue_1,20,38,2,2,3,16,2,8,5,15,23,WDWDDLWDDDDWLDW,1,5,1,7,8,14,1,11,3,12,15,DLWDWDDWDDDDDDD,0,6,2,3,5,DDLDDWD,DWWDDDDD
+Le Havre,Metz,2-1,/match/havre-ac/metz/1993,1993,16,ligue_1,20,38,0,2,1,13,3,7,5,15,18,WLDDWDDLDWWWWDD,3,3,2,7,3,12,3,8,4,18,20,DDWWDWDDWDWDDWW,0,4,4,6,16,WLDDLWWD,DWDDWWDW
+Sochaux,Lille,1-0,/match/sochaux/lillestrom/1993,1993,16,ligue_1,20,38,0,1,0,8,5,5,5,13,21,WWWWWDLDWDLWDDW,5,1,2,10,9,15,3,5,7,5,19,WWWLDDDWDWWWDWL,1,1,6,1,15,WWWLWLDW,WWLDWWWW
+Saint-Étienne,Montpellier,1-0,/match/saint-etienne/montpellier-hsc/1993,1993,16,ligue_1,20,38,0,1,0,9,6,3,6,15,14,LDWDWWWLDWWWWLW,5,1,2,11,7,7,6,4,5,16,16,WLWWLDDWWDWWWDL,1,3,3,5,11,LWWWDWWL,LWDWDWD
+Girondins Bordeaux,Valenciennes,3-0,/match/bordeaux/valenciennes-afc/1993,1993,16,ligue_1,20,38,0,3,0,6,7,4,4,16,10,DLDWDLWDWWWWWWL,4,4,0,10,3,18,3,5,7,18,22,WLWLLWDDDLWWDWD,2,1,5,8,13,DDDWDWWW,WWLWDLWW
+Olympique,Caen,2-1,/match/olympique-marsella/caen/1993,1993,16,ligue_1,20,38,0,2,1,5,6,7,2,22,16,WDWDWLDDWWLWDDD,5,2,1,11,6,11,5,4,6,23,21,WWWWWWWDDWDLWWD,1,1,6,6,12,WWWDWLWD,WWWWDWLW
+Monaco,PSG,3-1,/match/monaco/paris-saint-germain-fc/1993,1993,16,ligue_1,20,38,0,3,1,2,8,3,4,22,13,WWWDWDWWWWLWWWD,7,1,0,18,4,3,8,6,1,28,10,LWLWDWDDWDDLLDW,3,5,0,12,5,WWWDWWWW,LLDDDDLD
+Auxerre,Sporting Toulon,2-1,/match/auxerre/sporting-toulon/1993,1993,16,ligue_1,20,38,0,2,1,4,8,3,4,26,14,LWWWWWLWWWDDDWW,6,1,0,15,3,20,1,7,7,8,20,WDDWWLDDWLWLDDD,0,4,4,4,12,WWWWWDW,WDWDWWDD
+Olympique Lyonnais,Auxerre,1-1,/match/olympique-lyonnais/auxerre/1993,1993,17,ligue_1,20,38,1,1,1,14,2,11,3,15,17,DLWDWDDWDDDDDDDL,1,5,1,9,10,3,9,3,4,28,15,LWWWWWLWWWDDDWWW,2,2,4,11,11,LDDWDDD,LWWLWDDW
+Lille,Olympique,2-0,/match/lillestrom/olympique-marsella/1993,1993,17,ligue_1,20,38,0,2,0,16,3,5,8,5,20,WWWLDDDWDWWWDWLW,2,4,1,4,4,4,7,7,2,24,17,WDWDWLDDWWLWDDDW,1,5,1,11,10,WDDDWDL,DDLDWDD
+Metz,Lens,1-2,/match/metz/lens/1993,1993,17,ligue_1,20,38,2,1,2,13,3,8,5,19,22,DDWWDWDDWDWDDWWW,3,4,0,12,4,19,2,7,7,14,26,LDDDWLWDDDDLWWLL,1,3,3,8,12,DWWDDDW,DWWDDWL
+Montpellier,Le Havre,2-0,/match/montpellier-hsc/havre-ac/1993,1993,17,ligue_1,20,38,0,2,0,9,6,4,6,16,17,WLWWLDDWWDWWWDLW,5,1,2,11,5,10,4,7,5,17,19,WLDDWDDLDWWWWDDW,0,4,3,8,15,WWLDWWWL,DWDDWWD
+Caen,Saint-Étienne,0-0,/match/caen/saint-etienne/1993,1993,17,ligue_1,20,38,1,0,0,12,5,4,7,24,23,WWWWWWWDDWDLWWDW,4,3,0,17,9,8,7,3,6,16,14,LDWDWWWLDWWWWLWW,1,2,4,4,7,WWWDDWD,DDWLWWW
+Strasbourg,Sochaux,6-1,/match/strasbourg/sochaux/1993,1993,17,ligue_1,20,38,0,6,1,11,4,9,3,23,24,WLLDDDDDDWDWWLDD,2,5,1,12,11,7,6,5,5,14,21,WWWWWDLDWDLWDDWW,0,4,3,3,12,WLDDDDWD,WWDDDWD
+Toulouse,Monaco,0-2,/match/toulouse-fc/monaco/1993,1993,17,ligue_1,20,38,2,0,2,15,2,9,5,15,20,WLWDWDWDDDDDWDDL,1,5,1,6,7,2,9,3,4,25,14,WWWDWDWWWWLWWWDW,1,2,4,4,9,LDDDDWD,WDWWLWD
+Valenciennes,Nantes,1-1,/match/valenciennes-afc/nantes/1993,1993,17,ligue_1,20,38,1,1,1,18,3,5,8,18,25,WLWLLWDDDLWWDWDW,1,4,2,10,9,1,9,5,2,33,15,DLWDWLWWWWLWWDDD,3,2,2,9,7,LLDDWDD,LDLWLWD
+PSG,Girondins Bordeaux,5-0,/match/paris-saint-germain-fc/bordeaux/1993,1993,17,ligue_1,20,38,0,5,0,6,8,6,2,29,13,LWLWDWDDWDDLLDWW,5,1,1,16,5,5,8,4,4,19,10,DLDWDLWDWWWWWWLW,3,0,4,6,7,WWWWDLW,LWLWWWL
+Sporting Toulon,Nîmes,1-0,/match/sporting-toulon/nimes-olympique/1993,1993,17,ligue_1,20,38,0,1,0,20,1,7,8,9,22,WDDWWLDDWLWLDDDW,1,3,3,4,8,17,2,8,6,17,26,WDWDDLWDDDDWLDWL,1,3,4,8,15,DWLDLLD,WWDWDDLW
+Nantes,PSG,1-0,/match/nantes/paris-saint-germain-fc/1993,1993,18,ligue_1,20,38,0,1,0,2,9,6,2,34,16,DLWDWLWWWWLWWDDDD,6,3,0,24,8,4,9,6,2,34,13,LWLWDWDDWDDLLDWWW,3,5,1,13,8,DWWWWWWDD,LLDDDDLDW
+Le Havre,Sporting Toulon,2-1,/match/havre-ac/sporting-toulon/1993,1993,18,ligue_1,20,38,0,2,1,12,4,7,6,17,21,WLDDWDDLDWWWWDDWW,4,3,2,9,4,20,2,7,8,10,22,WDDWWLDDWLWLDDDWW,0,4,5,5,14,WLDDLWWDW,WDWDWWDDW
+Lens,Olympique Lyonnais,0-3,/match/lens/olympique-lyonnais/1993,1993,18,ligue_1,20,38,2,0,3,19,3,7,7,16,27,LDDDWLWDDDDLWWLLL,1,4,4,6,14,14,2,12,3,16,18,DLWDWDDWDDDDDDDLD,1,6,2,6,7,LDDLDDLWL,DWWDDDDDL
+Sochaux,Caen,1-0,/match/sochaux/caen/1993,1993,18,ligue_1,20,38,0,1,0,10,6,5,6,15,27,WWWWWDLDWDLWDDWWW,6,1,2,11,9,11,5,5,7,24,23,WWWWWWWDDWDLWWDWD,1,1,7,7,14,WWWLWLDWW,WWWWDWLWW
+Saint-Étienne,Lille,0-0,/match/saint-etienne/lillestrom/1993,1993,18,ligue_1,20,38,1,0,0,8,7,4,6,16,14,LDWDWWWLDWWWWLWWD,6,1,2,12,7,15,4,5,8,7,20,WWWLDDDWDWWWDWLWW,1,1,7,1,16,LWWWDWWLW,WWLDWWWWW
+Strasbourg,Montpellier,3-1,/match/strasbourg/montpellier-hsc/1993,1993,18,ligue_1,20,38,0,3,1,9,5,9,3,29,25,WLLDDDDDDWDWWLDDW,3,5,1,18,12,7,7,4,6,18,17,WLWWLDDWWDWWWDLWW,1,3,4,5,12,WLDDDDWDW,LWDWDWDW
+Olympique,Valenciennes,2-1,/match/olympique-marsella/valenciennes-afc/1993,1993,18,ligue_1,20,38,0,2,1,5,7,7,3,24,19,WDWDWLDDWWLWDDDWW,6,2,1,13,7,18,3,6,8,19,26,WLWLLWDDDLWWDWDWD,2,1,6,8,16,WWWDWLWDW,WWLWDLWWW
+Nîmes,Auxerre,1-2,/match/nimes-olympique/auxerre/1993,1993,18,ligue_1,20,38,2,1,2,17,2,8,7,17,27,WDWDDLWDDDDWLDWLW,1,5,2,9,11,3,9,4,4,29,16,LWWWWWLWWWDDDWWWD,2,3,4,12,12,DDLDDWDL,LWWLWDDWD
+Monaco,Metz,2-0,/match/monaco/metz/1993,1993,18,ligue_1,20,38,0,2,0,1,10,3,4,27,14,WWWDWDWWWWLWWWDWL,8,1,0,21,5,13,3,8,6,20,24,DDWWDWDDWDWDDWWWL,0,4,5,7,18,WWWDWWWWW,DWDDWWDWW
+Girondins Bordeaux,Toulouse,2-0,/match/bordeaux/toulouse-fc/1993,1993,18,ligue_1,20,38,0,2,0,6,8,4,5,19,15,DLDWDLWDWWWWWWLWW,5,4,0,13,3,16,2,9,6,15,22,WLWDWDWDDDDDWDDLL,1,4,4,9,13,DDDWDWWWW,WWWWDDDDL
+PSG,Olympique,0-1,/match/paris-saint-germain-fc/olympique-marsella/1993,1993,19,ligue_1,20,38,2,0,1,6,9,6,3,34,14,LWLWDWDDWDDLLDWWWW,6,1,1,21,5,4,8,7,3,26,20,WDWDWLDDWWLWDDDWWW,1,5,2,11,12,WWWWDLWW,DDLDWDDW
+Lille,Nîmes,2-2,/match/lillestrom/nimes-olympique/1993,1993,19,ligue_1,20,38,1,2,2,15,4,6,8,7,20,WWWLDDDWDWWWDWLWWD,3,4,1,6,4,17,2,8,8,18,29,WDWDDLWDDDDWLDWLWL,1,3,5,8,16,WDDDWDLW,WWDWDDLWW
+Montpellier,Sochaux,1-0,/match/montpellier-hsc/sochaux/1993,1993,19,ligue_1,20,38,0,1,0,10,7,4,7,19,20,WLWWLDDWWDWWWDLWWW,6,1,2,13,5,8,7,5,6,16,27,WWWWWDLDWDLWDDWWWW,0,4,4,4,18,WWLDWWWLW,WWDDDWDW
+Valenciennes,Saint-Étienne,0-0,/match/valenciennes-afc/saint-etienne/1993,1993,19,ligue_1,20,38,1,0,0,18,3,6,9,20,28,WLWLLWDDDLWWDWDWDW,1,5,2,11,10,9,7,5,6,16,14,LDWDWWWLDWWWWLWWDD,1,3,4,4,7,LLDDWDDD,DDWLWWWD
+Caen,Strasbourg,3-0,/match/caen/strasbourg/1993,1993,19,ligue_1,20,38,0,3,0,12,5,5,8,24,24,WWWWWWWDDWDLWWDWDW,4,4,0,17,9,7,6,9,3,32,26,WLLDDDDDDWDWWLDDWW,2,4,2,11,13,WWWDDWDD,LDDDWWLD
+Metz,Girondins Bordeaux,1-1,/match/metz/bordeaux/1993,1993,19,ligue_1,20,38,1,1,1,14,3,8,7,20,26,DDWWDWDDWDWDDWWWLW,3,4,1,13,6,5,9,4,5,21,15,DLDWDLWDWWWWWWLWWW,3,0,5,6,12,DWWDDDWL,LWLWWWLW
+Olympique Lyonnais,Monaco,0-0,/match/olympique-lyonnais/monaco/1993,1993,19,ligue_1,20,38,1,0,0,13,3,12,3,19,18,DLWDWDDWDDDDDDDLDL,1,6,1,10,11,1,11,3,4,29,14,WWWDWDWWWWLWWWDWLW,2,2,4,6,9,LDDWDDDD,WDWWLWDL
+Auxerre,Le Havre,4-1,/match/auxerre/havre-ac/1993,1993,19,ligue_1,20,38,0,4,1,3,10,4,4,31,17,LWWWWWLWWWDDDWWWDL,7,1,0,17,4,11,5,7,6,19,22,WLDDWDDLDWWWWDDWWW,0,4,4,8,17,WWWWWDWW,DWDDWWDW
+Toulouse,Nantes,2-0,/match/toulouse-fc/nantes/1993,1993,19,ligue_1,20,38,0,2,0,16,2,9,7,15,24,WLWDWDWDDDDDWDDLLW,1,5,2,6,9,2,10,6,2,35,16,DLWDWLWWWWLWWDDDDW,3,3,2,10,8,LDDDDWDL,LDLWLWDD
+Sporting Toulon,Lens,2-2,/match/sporting-toulon/lens/1993,1993,19,ligue_1,20,38,1,2,2,20,2,7,9,11,24,WDDWWLDDWLWLDDDWWW,2,3,3,5,8,19,3,7,8,16,30,LDDDWLWDDDDLWWLLLL,2,3,3,10,13,DWLDLLDW,DWWDDWLL
+Monaco,Auxerre,4-0,/match/monaco/auxerre/1993,1993,20,ligue_1,20,38,0,4,0,1,11,4,4,29,14,WWWDWDWWWWLWWWDWLWD,9,1,0,23,5,2,11,4,4,35,18,LWWWWWLWWWDDDWWWDLW,3,3,4,14,13,WWWDWWWWWW,LWWLWDDWDL
+Lens,Nîmes,0-0,/match/lens/nimes-olympique/1993,1993,20,ligue_1,20,38,1,0,0,19,3,8,8,18,32,LDDDWLWDDDDLWWLLLLD,1,4,5,6,17,18,2,9,8,20,31,WDWDDLWDDDDWLDWLWLD,1,4,5,10,18,LDDLDDLWLL,WWDWDDLWWD
+Caen,Lille,4-3,/match/caen/lillestrom/1993,1993,20,ligue_1,20,38,0,4,3,11,6,5,8,27,24,WWWWWWWDDWDLWWDWDWW,5,4,0,20,9,15,4,7,8,9,22,WWWLDDDWDWWWDWLWWDD,1,2,7,1,16,WWWDDWDDW,WWLDWWWWWD
+Montpellier,Toulouse,0-1,/match/montpellier-hsc/toulouse-fc/1993,1993,20,ligue_1,20,38,2,0,1,7,8,4,7,20,20,WLWWLDDWWDWWWDLWWWW,7,1,2,14,5,16,3,9,7,17,24,WLWDWDWDDDDDWDDLLWW,1,4,5,9,15,WWLDWWWLWW,WWWWDDDDLW
+Strasbourg,Valenciennes,0-0,/match/strasbourg/valenciennes-afc/1993,1993,20,ligue_1,20,38,1,0,0,8,6,9,4,32,29,WLLDDDDDDWDWWLDDWWW,4,5,1,21,13,17,3,7,9,20,28,WLWLLWDDDLWWDWDWDWD,2,1,7,9,18,WLDDDDWDWW,WWLWDLWWWW
+Saint-Étienne,Metz,2-0,/match/saint-etienne/metz/1993,1993,20,ligue_1,20,38,0,2,0,10,7,6,6,16,14,LDWDWWWLDWWWWLWWDDD,6,2,2,12,7,14,3,9,7,21,27,DDWWDWDDWDWDDWWWLWD,0,4,6,7,20,LWWWDWWLWD,DWDDWWDWWW
+Girondins Bordeaux,Le Havre,3-0,/match/bordeaux/havre-ac/1993,1993,20,ligue_1,20,38,0,3,0,5,9,5,5,22,16,DLDWDLWDWWWWWWLWWWD,6,4,0,15,3,12,5,7,7,20,26,WLDDWDDLDWWWWDDWWWW,0,4,5,9,21,DDDWDWWWWW,DWDDWWDWW
+Sochaux,PSG,1-3,/match/sochaux/paris-saint-germain-fc/1993,1993,20,ligue_1,20,38,2,1,3,9,7,5,7,16,28,WWWWWDLDWDLWDDWWWWW,7,1,2,12,9,6,9,6,4,34,15,LWLWDWDDWDDLLDWWWWL,3,5,2,13,9,WWWLWLDWWW,LLDDDDLDWW
+Nantes,Olympique Lyonnais,1-0,/match/nantes/olympique-lyonnais/1993,1993,20,ligue_1,20,38,0,1,0,3,10,6,3,35,18,DLWDWLWWWWLWWDDDDWW,7,3,0,25,8,13,3,13,3,19,18,DLWDWDDWDDDDDDDLDLD,2,6,2,9,7,DWWWWWWDDW,DWWDDDDDLL
+Olympique,Sporting Toulon,5-2,/match/olympique-marsella/sporting-toulon/1993,1993,20,ligue_1,20,38,0,5,2,4,9,7,3,27,20,WDWDWLDDWWLWDDDWWWL,7,2,1,15,8,20,2,8,9,13,26,WDDWWLDDWLWLDDDWWWD,0,4,6,6,16,WWWDWLWDWW,WDWDWWDDWW
+Nîmes,Monaco,0-1,/match/nimes-olympique/monaco/1993,1993,21,ligue_1,20,38,2,0,1,19,2,10,8,20,31,WDWDDLWDDDDWLDWLWLDD,1,5,3,10,13,1,12,4,4,33,14,WWWDWDWWWWLWWWDWLWDW,2,3,4,6,9,DDLDDWDLL,WDWWLWDLD
+Le Havre,Lens,0-1,/match/havre-ac/lens/1993,1993,21,ligue_1,20,38,2,0,1,12,5,7,8,20,29,WLDDWDDLDWWWWDDWWWWW,5,3,2,11,5,18,3,9,8,18,32,LDDDWLWDDDDLWWLLLLDD,2,4,3,12,15,WLDDLWWDWW,DWWDDWLLD
+Valenciennes,Caen,3-2,/match/valenciennes-afc/caen/1993,1993,21,ligue_1,20,38,0,3,2,17,3,8,9,20,28,WLWLLWDDDLWWDWDWDWDD,1,6,2,11,10,9,7,5,8,31,27,WWWWWWWDDWDLWWDWDWWW,1,1,8,7,15,LLDDWDDDD,WWWWDWLWWW
+Lille,Montpellier,0-0,/match/lillestrom/montpellier-hsc/1993,1993,21,ligue_1,20,38,1,0,0,15,4,7,9,12,26,WWWLDDDWDWWWDWLWWDDW,3,5,1,8,6,10,8,4,8,20,21,WLWWLDDWWDWWWDLWWWWL,1,3,5,6,15,WDDDWDLWD,LWDWDWDWW
+Olympique Lyonnais,Sochaux,3-1,/match/olympique-lyonnais/sochaux/1993,1993,21,ligue_1,20,38,0,3,1,13,3,13,4,19,19,DLWDWDDWDDDDDDDLDLDW,1,7,1,10,11,11,7,5,8,17,31,WWWWWDLDWDLWDDWWWWWL,0,4,5,4,19,LDDWDDDDD,WWDDDWDWW
+Toulouse,Saint-Étienne,0-0,/match/toulouse-fc/saint-etienne/1993,1993,21,ligue_1,20,38,1,0,0,16,4,9,7,18,24,WLWDWDWDDDDDWDDLLWWL,2,5,2,8,9,7,8,6,6,18,14,LDWDWWWLDWWWWLWWDDDW,1,4,4,4,7,LDDDDWDLW,DDWLWWWDD
+Metz,Olympique,2-1,/match/metz/olympique-marsella/1993,1993,21,ligue_1,20,38,0,2,1,14,3,9,8,21,29,DDWWDWDDWDWDDWWWLWDW,3,5,1,14,7,3,10,7,3,32,22,WDWDWLDDWWLWDDDWWWLW,2,5,2,12,12,DWWDDDWLD,DDLDWDDWL
+PSG,Strasbourg,1-1,/match/paris-saint-germain-fc/strasbourg/1993,1993,21,ligue_1,20,38,1,1,1,6,10,6,4,37,16,LWLWDWDDWDDLLDWWWWLL,6,1,2,21,6,8,6,10,4,32,29,WLLDDDDDDWDWWLDDWWWD,2,4,3,11,16,WWWWDLWWL,LDDDWWLDW
+Auxerre,Nantes,1-1,/match/auxerre/nantes/1993,1993,21,ligue_1,20,38,1,1,1,5,11,4,5,35,22,LWWWWWLWWWDDDWWWDLWW,8,1,0,21,5,2,11,6,3,36,18,DLWDWLWWWWLWWDDDDWWW,3,3,3,10,10,WWWWWDWWW,LDLWLWDDW
+Sporting Toulon,Girondins Bordeaux,0-0,/match/sporting-toulon/bordeaux/1993,1993,21,ligue_1,20,38,1,0,0,20,2,8,10,15,31,WDDWWLDDWLWLDDDWWWDW,2,4,3,7,10,4,10,5,5,25,16,DLDWDLWDWWWWWWLWWWDW,3,1,5,7,13,DWLDLLDWD,LWLWWWLWD
+Caen,PSG,0-2,/match/caen/paris-saint-germain-fc/1993,1993,22,ligue_1,20,38,2,0,2,10,7,5,9,33,30,WWWWWWWDDWDLWWDWDWWWW,6,4,0,24,12,6,10,7,4,38,17,LWLWDWDDWDDLLDWWWWLLD,4,5,2,16,10,WWWDDWDDWW,LLDDDDLDWWL
+Lille,Valenciennes,1-2,/match/lillestrom/valenciennes-afc/1993,1993,22,ligue_1,20,38,2,1,2,15,4,8,9,12,26,WWWLDDDWDWWWDWLWWDDWD,3,6,1,8,6,17,4,8,9,23,30,WLWLLWDDDLWWDWDWDWDDW,2,2,7,9,18,WDDDWDLWDD,WWLWDLWWWWD
+Sochaux,Metz,2-0,/match/sochaux/metz/1993,1993,22,ligue_1,20,38,0,2,0,11,7,5,9,18,34,WWWWWDLDWDLWDDWWWWWLW,7,1,3,13,12,14,4,9,8,23,30,DDWWDWDDWDWDDWWWLWDWW,0,4,7,7,22,WWWLWLDWWWL,DWDDWWDWWWW
+Strasbourg,Toulouse,0-0,/match/strasbourg/toulouse-fc/1993,1993,22,ligue_1,20,38,1,0,0,8,6,11,4,33,30,WLLDDDDDDWDWWLDDWWWDD,4,6,1,21,13,16,4,10,7,18,24,WLWDWDWDDDDDWDDLLWWLD,2,4,5,10,15,WLDDDDWDWWD,WWWWDDDDLWL
+Saint-Étienne,Lens,0-0,/match/saint-etienne/lens/1993,1993,22,ligue_1,20,38,1,0,0,7,8,7,6,18,14,LDWDWWWLDWWWWLWWDDDWD,7,2,2,14,7,18,4,9,8,19,32,LDDDWLWDDDDLWWLLLLDDL,3,4,3,13,15,LWWWDWWLWDW,DWWDDWLLDL
+Girondins Bordeaux,Auxerre,1-0,/match/bordeaux/auxerre/1993,1993,22,ligue_1,20,38,0,1,0,5,10,6,5,25,16,DLDWDLWDWWWWWWLWWWDWD,7,4,0,18,3,4,11,5,5,36,23,LWWWWWLWWWDDDWWWDLWWD,3,3,5,14,17,DDDWDWWWWWW,LWWLWDDWDLW
+Olympique,Olympique Lyonnais,2-1,/match/olympique-marsella/olympique-lyonnais/1993,1993,22,ligue_1,20,38,0,2,1,3,10,7,4,33,24,WDWDWLDDWWLWDDDWWWLWW,8,2,1,20,10,12,4,13,4,22,20,DLWDWDDWDDDDDDDLDLDWW,2,6,3,9,8,WWWDWLWDWWW,DWWDDDDDLLW
+Nantes,Nîmes,2-0,/match/nantes/nimes-olympique/1993,1993,22,ligue_1,20,38,0,2,0,2,11,7,3,37,19,DLWDWLWWWWLWWDDDDWWWD,8,3,0,26,8,20,2,10,9,20,32,WDWDDLWDDDDWLDWLWLDDL,1,5,5,10,18,DWWWWWWDDWW,WWDWDDLWWDD
+Monaco,Le Havre,2-0,/match/monaco/havre-ac/1993,1993,22,ligue_1,20,38,0,2,0,1,13,4,4,34,14,WWWDWDWWWWLWWWDWLWDWL,10,1,0,27,5,13,5,7,9,20,30,WLDDWDDLDWWWWDDWWWWWL,0,4,6,9,24,WWWDWWWWWWW,DWDDWWDWWW
+Montpellier,Sporting Toulon,1-1,/match/montpellier-hsc/sporting-toulon/1993,1993,22,ligue_1,20,38,1,1,1,9,8,5,8,20,21,WLWWLDDWWDWWWDLWWWWLD,7,1,3,14,6,19,2,9,10,15,31,WDDWWLDDWLWLDDDWWWDWD,0,4,7,8,21,WWLDWWWLWWL,WDWDWWDDWWW
+Metz,Strasbourg,3-0,/match/metz/strasbourg/1993,1993,23,ligue_1,20,38,0,3,0,14,4,9,9,23,32,DDWWDWDDWDWDDWWWLWDWWW,4,5,1,16,8,8,6,12,4,33,30,WLLDDDDDDWDWWLDDWWWDDD,2,5,3,12,17,DWWDDDWLDW,LDDDWWLDWD
+Toulouse,Sochaux,1-0,/match/toulouse-fc/sochaux/1993,1993,23,ligue_1,20,38,0,1,0,15,4,11,7,18,24,WLWDWDWDDDDDWDDLLWWLDD,2,6,2,8,9,9,8,5,9,20,34,WWWWWDLDWDLWDDWWWWWLWW,0,4,6,5,22,LDDDDWDLWD,WWDDDWDWWW
+Olympique Lyonnais,Caen,1-0,/match/olympique-lyonnais/caen/1993,1993,23,ligue_1,20,38,0,1,0,12,4,13,5,23,22,DLWDWDDWDDDDDDDLDLDWWW,2,7,1,13,12,11,7,5,10,33,32,WWWWWWWDDWDLWWDWDWWWWL,1,1,9,9,18,LDDWDDDDDW,WWWWDWLWWWW
+Valenciennes,Montpellier,1-3,/match/valenciennes-afc/montpellier-hsc/1993,1993,23,ligue_1,20,38,2,1,3,17,5,8,9,25,31,WLWLLWDDDLWWDWDWDWDDWL,2,6,2,14,12,10,8,6,8,21,22,WLWWLDDWWDWWWDLWWWWLDD,1,4,5,6,15,LLDDWDDDDW,LWDWDWDWWD
+Nîmes,Girondins Bordeaux,0-0,/match/nimes-olympique/bordeaux/1993,1993,23,ligue_1,20,38,1,0,0,20,2,10,10,20,34,WDWDDLWDDDDWLDWLWLDDLW,1,5,4,10,14,4,11,6,5,26,16,DLDWDLWDWWWWWWLWWWDWDW,3,2,5,7,13,DDLDDWDLLL,LWLWWWLWDD
+Auxerre,Olympique,0-2,/match/auxerre/olympique-marsella/1993,1993,23,ligue_1,20,38,2,0,2,5,11,5,6,36,24,LWWWWWLWWWDDDWWWDLWWDW,8,2,0,22,6,3,11,7,4,35,25,WDWDWLDDWWLWDDDWWWLWWW,2,5,3,13,14,WWWWWDWWWD,DDLDWDDWLW
+Le Havre,Nantes,2-0,/match/havre-ac/nantes/1993,1993,23,ligue_1,20,38,0,2,0,13,5,7,10,20,32,WLDDWDDLDWWWWDDWWWWWLW,5,3,3,11,6,2,12,7,3,39,19,DLWDWLWWWWLWWDDDDWWWDW,3,4,3,11,11,WLDDLWWDWWL,LDLWLWDDWD
+PSG,Lille,3-0,/match/paris-saint-germain-fc/lillestrom/1993,1993,23,ligue_1,20,38,0,3,0,6,11,7,4,40,17,LWLWDWDDWDDLLDWWWWLLDL,6,2,2,22,7,16,4,8,10,13,28,WWWLDDDWDWWWDWLWWDDWDL,1,2,8,4,20,WWWWDLWWLD,WWLDWWWWWDW
+Lens,Monaco,0-0,/match/lens/monaco/1993,1993,23,ligue_1,20,38,1,0,0,18,4,10,8,19,32,LDDDWLWDDDDLWWLLLLDDLD,1,5,5,6,17,1,14,4,4,36,14,WWWDWDWWWWLWWWDWLWDWLW,3,3,4,7,9,LDDLDDLWLLD,WDWWLWDLDL
+Sporting Toulon,Saint-Étienne,0-0,/match/sporting-toulon/saint-etienne/1993,1993,23,ligue_1,20,38,1,0,0,19,2,10,10,16,32,WDDWWLDDWLWLDDDWWWDWDD,2,5,3,7,10,7,8,8,6,18,14,LDWDWWWLDWWWWLWWDDDWDD,1,5,4,4,7,DWLDLLDWDD,DDWLWWWDDD
+Girondins Bordeaux,Lens,0-0,/match/bordeaux/lens/1993,1993,24,ligue_1,20,38,1,0,0,4,11,7,5,26,16,DLDWDLWDWWWWWWLWWWDWDWD,8,4,0,19,3,18,4,11,8,19,32,LDDDWLWDDDDLWWLLLLDDLDD,3,5,3,13,15,DDDWDWWWWWWW,DWWDDWLLDLD
+Caen,Metz,0-1,/match/caen/metz/1993,1993,24,ligue_1,20,38,2,0,1,12,7,5,11,33,33,WWWWWWWDDWDLWWDWDWWWWLW,6,4,1,24,14,14,5,9,9,26,32,DDWWDWDDWDWDDWWWLWDWWWW,0,4,8,7,24,WWWDDWDDWWL,DWDDWWDWWWWW
+Lille,Toulouse,2-2,/match/lillestrom/toulouse-fc/1993,1993,24,ligue_1,20,38,1,2,2,16,4,8,11,13,31,WWWLDDDWDWWWDWLWWDDWDLW,3,6,2,9,8,15,5,11,7,19,24,WLWDWDWDDDDDWDDLLWWLDDW,2,5,5,10,15,WDDDWDLWDDL,WWWWDDDDLWLD
+Sochaux,Le Havre,3-2,/match/sochaux/havre-ac/1993,1993,24,ligue_1,20,38,0,3,2,10,8,5,10,20,35,WWWWWDLDWDLWDDWWWWWLWWW,8,1,3,15,12,13,6,7,10,22,32,WLDDWDDLDWWWWDDWWWWWLWW,0,4,7,9,26,WWWLWLDWWWLW,DWDDWWDWWWW
+Strasbourg,Olympique Lyonnais,2-1,/match/strasbourg/olympique-lyonnais/1993,1993,24,ligue_1,20,38,0,2,1,9,6,12,5,33,33,WLLDDDDDDWDWWLDDWWWDDDW,4,7,1,21,13,11,5,13,5,24,22,DLWDWDDWDDDDDDDLDLDWWWW,2,6,4,10,10,WLDDDDWDWWDD,DWWDDDDDLLWW
+Saint-Étienne,Auxerre,1-0,/match/saint-etienne/auxerre/1993,1993,24,ligue_1,20,38,0,1,0,7,8,9,6,18,14,LDWDWWWLDWWWWLWWDDDWDDD,7,3,2,14,7,6,11,5,7,36,26,LWWWWWLWWWDDDWWWDLWWDWL,3,3,6,14,18,LWWWDWWLWDWD,LWWLWDDWDLWW
+Valenciennes,PSG,1-1,/match/valenciennes-afc/paris-saint-germain-fc/1993,1993,24,ligue_1,20,38,1,1,1,17,5,8,10,26,34,WLWLLWDDDLWWDWDWDWDDWLL,2,6,3,15,15,5,12,7,4,43,17,LWLWDWDDWDDLLDWWWWLLDLW,5,5,2,18,10,LLDDWDDDDWL,LLDDDDLDWWLL
+Olympique,Nîmes,6-1,/match/olympique-marsella/nimes-olympique/1993,1993,24,ligue_1,20,38,0,6,1,3,12,7,4,37,25,WDWDWLDDWWLWDDDWWWLWWWL,9,2,1,22,11,20,2,11,10,20,34,WDWDDLWDDDDWLDWLWLDDLWD,1,5,6,10,20,WWWDWLWDWWWW,WWDWDDLWWDDW
+Montpellier,Monaco,0-0,/match/montpellier-hsc/monaco/1993,1993,24,ligue_1,20,38,1,0,0,8,9,6,8,24,23,WLWWLDDWWDWWWDLWWWWLDDL,7,2,3,15,7,1,14,5,4,36,14,WWWDWDWWWWLWWWDWLWDWLWD,3,4,4,7,9,WWLDWWWLWWLD,WDWWLWDLDLD
+Nantes,Sporting Toulon,0-0,/match/nantes/sporting-toulon/1993,1993,24,ligue_1,20,38,1,0,0,2,12,7,4,39,21,DLWDWLWWWWLWWDDDDWWWDWW,9,3,0,28,8,19,2,11,10,16,32,WDDWWLDDWLWLDDDWWWDWDDD,0,5,7,9,22,DWWWWWWDDWWW,WDWDWWDDWWWD
+Monaco,Girondins Bordeaux,0-0,/match/monaco/bordeaux/1993,1993,25,ligue_1,20,38,1,0,0,1,14,6,4,36,14,WWWDWDWWWWLWWWDWLWDWLWDD,11,1,0,29,5,4,11,8,5,26,16,DLDWDLWDWWWWWWLWWWDWDWDD,3,3,5,7,13,WWWDWWWWWWWW,LWLWWWLWDDD
+Metz,Lille,0-0,/match/metz/lillestrom/1993,1993,25,ligue_1,20,38,1,0,0,11,6,9,9,27,32,DDWWDWDDWDWDDWWWLWDWWWWL,5,5,1,19,8,16,4,9,11,15,33,WWWLDDDWDWWWDWLWWDDWDLWD,1,2,9,4,23,DWWDDDWLDWW,WWLDWWWWWDWW
+Toulouse,Caen,1-1,/match/toulouse-fc/caen/1993,1993,25,ligue_1,20,38,1,1,1,15,5,12,7,21,26,WLWDWDWDDDDDWDDLLWWLDDWD,3,6,2,9,9,13,7,5,12,33,34,WWWWWWWDDWDLWWDWDWWWWLWL,1,1,10,9,19,LDDDDWDLWDW,WWWWDWLWWWWW
+Olympique Lyonnais,Valenciennes,2-1,/match/olympique-lyonnais/valenciennes-afc/1993,1993,25,ligue_1,20,38,0,2,1,12,5,13,6,25,24,DLWDWDDWDDDDDDDLDLDWWWWW,3,7,1,14,12,17,5,9,10,27,35,WLWLLWDDDLWWDWDWDWDDWLLD,3,2,7,11,19,LDDWDDDDDWW,WWLWDLWWWWDL
+Auxerre,Sochaux,0-3,/match/auxerre/sochaux/1993,1993,25,ligue_1,20,38,2,0,3,7,11,5,8,36,27,LWWWWWLWWWDDDWWWDLWWDWLW,8,2,1,22,8,10,9,5,10,23,37,WWWWWDLDWDLWDDWWWWWLWWWW,0,4,7,5,23,WWWWWDWWWDL,WWDDDWDWWWW
+Nîmes,Saint-Étienne,1-1,/match/nimes-olympique/saint-etienne/1993,1993,25,ligue_1,20,38,1,1,1,20,2,11,11,21,40,WDWDDLWDDDDWLDWLWLDDLWDW,1,6,4,10,14,6,9,9,6,19,14,LDWDWWWLDWWWWLWWDDDWDDDW,1,6,4,4,7,DDLDDWDLLLD,DDWLWWWDDDD
+Lens,Nantes,1-0,/match/lens/nantes/1993,1993,25,ligue_1,20,38,0,1,0,18,4,12,8,19,32,LDDDWLWDDDDLWWLLLLDDLDDD,1,6,5,6,17,3,12,8,4,39,21,DLWDWLWWWWLWWDDDDWWWDWWD,3,4,4,11,13,LDDLDDLWLLDD,LDLWLWDDWDW
+PSG,Montpellier,1-0,/match/paris-saint-germain-fc/montpellier-hsc/1993,1993,25,ligue_1,20,38,0,1,0,5,12,8,4,44,18,LWLWDWDDWDDLLDWWWWLLDLWD,7,2,2,25,7,9,9,7,8,24,23,WLWWLDDWWDWWWDLWWWWLDDLD,2,4,5,9,16,WWWWDLWWLDW,LWDWDWDWWDL
+Le Havre,Olympique,1-3,/match/havre-ac/olympique-marsella/1993,1993,25,ligue_1,20,38,2,1,3,14,6,7,11,24,35,WLDDWDDLDWWWWDDWWWWWLWWW,6,3,3,13,6,2,13,7,4,43,26,WDWDWLDDWWLWDDDWWWLWWWLW,3,5,3,15,14,WLDDLWWDWWLW,DDLDWDDWLWL
+Sporting Toulon,Strasbourg,0-2,/match/sporting-toulon/strasbourg/1993,1993,25,ligue_1,20,38,2,0,2,19,2,12,10,16,32,WDDWWLDDWLWLDDDWWWDWDDDD,2,6,3,7,10,8,7,12,5,35,34,WLLDDDDDDWDWWLDDWWWDDDWW,2,5,4,12,20,DWLDLLDWDDD,LDDDWWLDWDW
+Olympique,Lens,2-0,/match/olympique-marsella/lens/1993,1993,26,ligue_1,20,38,0,2,0,2,14,7,4,46,27,WDWDWLDDWWLWDDDWWWLWWWLWL,10,2,1,28,12,16,5,12,8,20,32,LDDDWLWDDDDLWWLLLLDDLDDDW,3,6,3,13,15,WWWDWLWDWWWWW,DWWDDWLLDLDD
+Valenciennes,Metz,0-2,/match/valenciennes-afc/metz/1993,1993,26,ligue_1,20,38,2,0,2,18,5,9,11,28,37,WLWLLWDDDLWWDWDWDWDDWLLDW,2,7,3,16,16,12,6,10,9,27,32,DDWWDWDDWDWDDWWWLWDWWWWLD,1,4,8,8,24,LLDDWDDDDWLD,DWDDWWDWWWWWL
+Sochaux,Nîmes,1-1,/match/sochaux/nimes-olympique/1993,1993,26,ligue_1,20,38,1,1,1,9,10,5,10,26,37,WWWWWDLDWDLWDDWWWWWLWWWWL,9,1,3,18,14,20,2,12,11,22,41,WDWDDLWDDDDWLDWLWLDDLWDWD,1,5,7,11,26,WWWLWLDWWWLWW,WWDWDDLWWDDWW
+Montpellier,Olympique Lyonnais,0-2,/match/montpellier-hsc/olympique-lyonnais/1993,1993,26,ligue_1,20,38,2,0,2,10,9,7,9,24,24,WLWWLDDWWDWWWDLWWWWLDDLDW,7,3,3,15,7,11,6,13,6,27,25,DLWDWDDWDDDDDDDLDLDWWWWWW,2,6,5,11,12,WWLDWWWLWWLDD,DWWDDDDDLLWWW
+Lille,Auxerre,1-0,/match/lillestrom/auxerre/1993,1993,26,ligue_1,20,38,0,1,0,17,4,10,11,15,33,WWWLDDDWDWWWDWLWWDDWDLWDD,3,7,2,11,10,7,11,5,9,36,30,LWWWWWLWWWDDDWWWDLWWDWLWL,3,3,7,14,19,WDDDWDLWDDLD,LWWLWDDWDLWWW
+Saint-Étienne,Le Havre,0-0,/match/saint-etienne/havre-ac/1993,1993,26,ligue_1,20,38,1,0,0,6,9,10,6,20,15,LDWDWWWLDWWWWLWWDDDWDDDWD,8,3,2,15,7,15,6,7,12,25,38,WLDDWDDLDWWWWDDWWWWWLWWWL,0,4,8,11,29,LWWWDWWLWDWDW,DWDDWWDWWWWW
+Strasbourg,Girondins Bordeaux,0-1,/match/strasbourg/bordeaux/1993,1993,26,ligue_1,20,38,2,0,1,8,8,12,5,37,34,WLLDDDDDDWDWWLDDWWWDDDWWL,5,7,1,23,14,4,11,9,5,26,16,DLDWDLWDWWWWWWLWWWDWDWDDD,3,4,5,7,13,WLDDDDWDWWDDW,LWLWWWLWDDDD
+Nantes,Monaco,1-0,/match/nantes/monaco/1993,1993,26,ligue_1,20,38,0,1,0,3,12,8,5,39,22,DLWDWLWWWWLWWDDDDWWWDWWDW,9,4,0,28,8,1,14,7,4,36,14,WWWDWDWWWWLWWWDWLWDWLWDDD,3,5,4,7,9,DWWWWWWDDWWWD,WDWWLWDLDLDD
+PSG,Toulouse,0-0,/match/paris-saint-germain-fc/toulouse-fc/1993,1993,26,ligue_1,20,38,1,0,0,5,13,8,4,45,18,LWLWDWDDWDDLLDWWWWLLDLWDW,8,2,2,26,7,14,5,13,7,22,27,WLWDWDWDDDDDWDDLLWWLDDWDD,2,6,5,12,17,WWWWDLWWLDWW,WWWWDDDDLWLDD
+Caen,Sporting Toulon,2-1,/match/caen/sporting-toulon/1993,1993,26,ligue_1,20,38,0,2,1,13,7,6,12,34,35,WWWWWWWDDWDLWWDWDWWWWLWLD,6,4,2,24,15,19,2,12,11,16,34,WDDWWLDDWLWLDDDWWWDWDDDDL,0,6,7,9,22,WWWDDWDDWWLL,WDWDWWDDWWWDD
+Monaco,Olympique,1-0,/match/monaco/olympique-marsella/1993,1993,27,ligue_1,20,38,0,1,0,2,14,7,5,36,15,WWWDWDWWWWLWWWDWLWDWLWDDDW,11,2,0,29,5,1,15,7,4,48,27,WDWDWLDDWWLWDDDWWWLWWWLWLW,4,5,3,18,15,WWWDWWWWWWWWD,DDLDWDDWLWLL
+Toulouse,Valenciennes,1-2,/match/toulouse-fc/valenciennes-afc/1993,1993,27,ligue_1,20,38,2,1,2,14,5,14,7,22,27,WLWDWDWDDDDDWDDLLWWLDDWDDD,3,7,2,10,10,18,5,9,12,28,39,WLWLLWDDDLWWDWDWDWDDWLLDWL,3,2,8,12,21,LDDDDWDLWDWD,WWLWDLWWWWDLW
+Lens,Lille,0-0,/match/lens/lillestrom/1993,1993,27,ligue_1,20,38,1,0,0,17,5,12,9,20,34,LDDDWLWDDDDLWWLLLLDDLDDDWW,2,6,5,7,17,16,5,10,11,16,33,WWWLDDDWDWWWDWLWWDDWDLWDDW,1,3,9,4,23,LDDLDDLWLLDDW,WWLDWWWWWDWWD
+Le Havre,Caen,2-3,/match/havre-ac/caen/1993,1993,27,ligue_1,20,38,2,2,3,15,6,8,12,25,38,WLDDWDDLDWWWWDDWWWWWLWWWLD,6,3,4,14,9,13,8,6,12,36,36,WWWWWWWDDWDLWWDWDWWWWLWLDW,1,2,10,10,20,WLDDLWWDWWLWL,WWWWDWLWWWWWD
+Auxerre,Montpellier,2-0,/match/auxerre/montpellier-hsc/1993,1993,27,ligue_1,20,38,0,2,0,8,11,5,10,36,31,LWWWWWLWWWDDDWWWDLWWDWLWLW,8,2,2,22,11,11,9,7,10,24,26,WLWWLDDWWDWWWDLWWWWLDDLDWL,2,4,6,9,17,WWWWWDWWWDLL,LWDWDWDWWDLW
+Nîmes,Strasbourg,2-6,/match/nimes-olympique/strasbourg/1993,1993,27,ligue_1,20,38,2,2,6,20,2,13,11,23,42,WDWDDLWDDDDWLDWLWLDDLWDWDD,1,7,4,11,15,9,8,12,6,37,35,WLLDDDDDDWDWWLDDWWWDDDWWLL,3,5,4,14,20,DDLDDWDLLLDD,LDDDWWLDWDWL
+Olympique Lyonnais,Saint-Étienne,0-2,/match/olympique-lyonnais/saint-etienne/1993,1993,27,ligue_1,20,38,2,0,2,10,7,13,6,29,25,DLWDWDDWDDDDDDDLDLDWWWWWWL,4,7,1,16,13,6,9,11,6,20,15,LDWDWWWLDWWWWLWWDDDWDDDWDD,1,7,4,5,8,LDDWDDDDDWWW,DDWLWWWDDDDD
+Girondins Bordeaux,Nantes,3-0,/match/bordeaux/nantes/1993,1993,27,ligue_1,20,38,0,3,0,4,12,9,5,27,16,DLDWDLWDWWWWWWLWWWDWDWDDDL,8,5,0,19,3,3,13,8,5,40,22,DLWDWLWWWWLWWDDDDWWWDWWDWW,3,4,5,11,14,DDDWDWWWWWWWD,LDLWLWDDWDWW
+Metz,PSG,2-1,/match/metz/paris-saint-germain-fc/1993,1993,27,ligue_1,20,38,0,2,1,12,7,10,9,29,32,DDWWDWDDWDWDDWWWLWDWWWWLDL,5,6,1,19,8,5,13,9,4,45,18,LWLWDWDDWDDLLDWWWWLLDLWDWD,5,6,2,19,11,DWWDDDWLDWWD,LLDDDDLDWWLLD
+Sporting Toulon,Sochaux,0-4,/match/sporting-toulon/sochaux/1993,1993,27,ligue_1,20,38,2,0,4,19,2,12,12,17,36,WDDWWLDDWLWLDDDWWWDWDDDDLW,2,6,4,7,12,7,10,6,10,27,38,WWWWWDLDWDLWDDWWWWWLWWWWLD,1,4,7,8,23,DWLDLLDWDDDL,WWDDDWDWWWWL
+Caen,Auxerre,2-1,/match/caen/auxerre/1993,1993,28,ligue_1,20,38,0,2,1,11,9,6,12,39,38,WWWWWWWDDWDLWWDWDWWWWLWLDWL,7,4,2,26,16,7,12,5,10,38,31,LWWWWWLWWWDDDWWWDLWWDWLWLWW,3,3,8,14,20,WWWDDWDDWWLLW,LWWLWDDWDLWWWW
+Toulouse,Metz,0-0,/match/toulouse-fc/metz/1993,1993,28,ligue_1,20,38,1,0,0,14,5,14,8,23,29,WLWDWDWDDDDDWDDLLWWLDDWDDDL,3,7,3,11,12,10,8,10,9,31,33,DDWWDWDDWDWDDWWWLWDWWWWLDLW,2,4,8,10,24,LDDDDWDLWDWDL,DWDDWWDWWWWWLL
+Montpellier,Nîmes,1-0,/match/montpellier-hsc/nimes-olympique/1993,1993,28,ligue_1,20,38,0,1,0,12,9,7,11,24,28,WLWWLDDWWDWWWDLWWWWLDDLDWLW,7,3,4,15,9,20,2,13,12,25,48,WDWDDLWDDDDWLDWLWLDDLWDWDDL,1,6,7,12,27,WWLDWWWLWWLDDL,WWDWDDLWWDDWWD
+Sochaux,Lens,1-1,/match/sochaux/lens/1993,1993,28,ligue_1,20,38,1,1,1,8,11,6,10,31,38,WWWWWDLDWDLWDDWWWWWLWWWWLDL,9,2,3,19,15,17,5,13,9,20,34,LDDDWLWDDDDLWWLLLLDDLDDDWWD,3,6,4,13,17,WWWLWLDWWWLWWD,DWWDDWLLDLDDW
+Strasbourg,Le Havre,3-1,/match/strasbourg/havre-ac/1993,1993,28,ligue_1,20,38,0,3,1,9,9,12,6,43,37,WLLDDDDDDWDWWLDDWWWDDDWWLLL,5,7,2,23,15,16,6,8,13,27,41,WLDDWDDLDWWWWDDWWWWWLWWWLDL,0,5,8,11,29,WLDDDDWDWWDDWL,DWDDWWDWWWWWD
+Lille,Nantes,1-1,/match/lillestrom/nantes/1993,1993,28,ligue_1,20,38,1,1,1,15,5,11,11,16,33,WWWLDDDWDWWWDWLWWDDWDLWDDWD,4,7,2,12,10,3,13,8,6,40,25,DLWDWLWWWWLWWDDDDWWWDWWDWWW,3,4,6,11,17,WDDDWDLWDDLDW,LDLWLWDDWDWWW
+PSG,Olympique Lyonnais,1-1,/match/paris-saint-germain-fc/olympique-lyonnais/1993,1993,28,ligue_1,20,38,1,1,1,5,13,9,5,46,20,LWLWDWDDWDDLLDWWWWLLDLWDWDW,8,3,2,26,7,13,7,13,7,29,27,DLWDWDDWDDDDDDDLDLDWWWWWWLL,3,6,5,13,12,WWWWDLWWLDWWD,DWWDDDDDLLWWWL
+Olympique,Girondins Bordeaux,0-0,/match/olympique-marsella/bordeaux/1993,1993,28,ligue_1,20,38,1,0,0,2,15,7,5,48,28,WDWDWLDDWWLWDDDWWWLWWWLWLWW,11,2,1,30,12,4,13,9,5,30,16,DLDWDLWDWWWWWWLWWWDWDWDDDLW,4,4,5,8,13,WWWDWLWDWWWWWW,LWLWWWLWDDDDL
+Saint-Étienne,Monaco,0-0,/match/saint-etienne/monaco/1993,1993,28,ligue_1,20,38,1,0,0,6,10,11,6,22,15,LDWDWWWLDWWWWLWWDDDWDDDWDDL,8,4,2,15,7,1,15,7,5,37,15,WWWDWDWWWWLWWWDWLWDWLWDDDWW,3,5,5,7,10,LWWWDWWLWDWDWD,WDWWLWDLDLDDW
+Valenciennes,Sporting Toulon,3-1,/match/valenciennes-afc/sporting-toulon/1993,1993,28,ligue_1,20,38,0,3,1,18,6,9,12,30,40,WLWLLWDDDLWWDWDWDWDDWLLDWLL,2,7,4,16,18,19,2,12,13,17,40,WDDWWLDDWLWLDDDWWWDWDDDDLWL,0,6,8,10,24,LLDDWDDDDWLDL,WDWDWWDDWWWDDW
+Monaco,Sochaux,1-0,/match/monaco/sochaux/1993,1993,29,ligue_1,20,38,0,1,0,1,15,8,5,37,15,WWWDWDWWWWLWWWDWLWDWLWDDDWWD,12,2,0,30,5,8,11,7,10,32,39,WWWWWDLDWDLWDDWWWWWLWWWWLDLD,2,4,7,12,23,WWWDWWWWWWWWDW,WWDDDWDWWWWLL
+Sporting Toulon,Lille,1-0,/match/sporting-toulon/lillestrom/1993,1993,29,ligue_1,20,38,0,1,0,19,2,12,14,18,43,WDDWWLDDWLWLDDDWWWDWDDDDLWLW,2,6,5,7,16,15,5,12,11,17,34,WWWLDDDWDWWWDWLWWDDWDLWDDWDD,1,4,9,4,23,DWLDLLDWDDDLL,WWLDWWWWWDWWDD
+Le Havre,Valenciennes,0-0,/match/havre-ac/valenciennes-afc/1993,1993,29,ligue_1,20,38,1,0,0,17,6,8,14,28,44,WLDDWDDLDWWWWDDWWWWWLWWWLDLW,6,3,5,16,12,16,7,9,12,33,41,WLWLLWDDDLWWDWDWDWDDWLLDWLLW,4,2,8,14,22,WLDDLWWDWWLWLL,WWLWDLWWWWDLWL
+Auxerre,Strasbourg,2-0,/match/auxerre/strasbourg/1993,1993,29,ligue_1,20,38,0,2,0,9,12,5,11,39,33,LWWWWWLWWWDDDWWWDLWWDWLWLWWW,9,2,2,24,11,7,10,12,6,46,38,WLLDDDDDDWDWWLDDWWWDDDWWLLLW,4,5,4,20,22,WWWWWDWWWDLLW,LDDDWWLDWDWLL
+Olympique Lyonnais,Toulouse,1-0,/match/olympique-lyonnais/toulouse-fc/1993,1993,29,ligue_1,20,38,0,1,0,13,7,14,7,30,28,DLWDWDDWDDDDDDDLDLDWWWWWWLLD,4,7,2,16,15,14,5,15,8,23,29,WLWDWDWDDDDDWDDLLWWLDDWDDDLD,2,7,5,12,17,LDDWDDDDDWWWL,WWWWDDDDLWLDDD
+Girondins Bordeaux,Saint-Étienne,0-0,/match/bordeaux/saint-etienne/1993,1993,29,ligue_1,20,38,1,0,0,4,13,10,5,30,16,DLDWDLWDWWWWWWLWWWDWDWDDDLWD,9,5,0,22,3,6,10,12,6,22,15,LDWDWWWLDWWWWLWWDDDWDDDWDDLD,2,7,4,7,8,DDDWDWWWWWWWDW,DDWLWWWDDDDDL
+Nantes,Olympique,0-2,/match/nantes/olympique-marsella/1993,1993,29,ligue_1,20,38,2,0,2,3,13,9,6,41,26,DLWDWLWWWWLWWDDDDWWWDWWDWWWD,10,4,0,29,8,2,15,8,5,48,28,WDWDWLDDWWLWDDDWWWLWWWLWLWWD,4,5,4,18,16,DWWWWWWDDWWWDW,DDLDWDDWLWLLW
+Lens,PSG,2-1,/match/lens/paris-saint-germain-fc/1993,1993,29,ligue_1,20,38,0,2,1,18,5,14,9,21,35,LDDDWLWDDDDLWWLLLLDDLDDDWWDD,2,7,5,7,17,5,13,10,5,47,21,LWLWDWDDWDDLLDWWWWLLDLWDWDWD,5,6,3,20,13,LDDLDDLWLLDDWD,LLDDDDLDWWLLDW
+Metz,Montpellier,1-1,/match/metz/montpellier-hsc/1993,1993,29,ligue_1,20,38,1,1,1,12,8,11,9,31,33,DDWWDWDDWDWDDWWWLWDWWWWLDLWD,6,6,1,21,9,10,10,7,11,25,28,WLWWLDDWWDWWWDLWWWWLDDLDWLWW,2,4,7,9,19,DWWDDDWLDWWDW,LWDWDWDWWDLWW
+Nîmes,Caen,1-2,/match/nimes-olympique/caen/1993,1993,29,ligue_1,20,38,2,1,2,20,2,13,13,25,49,WDWDDLWDDDDWLDWLWLDDLWDWDDLW,1,7,5,13,21,11,10,6,12,41,39,WWWWWWWDDWDLWWDWDWWWWLWLDWLW,2,2,10,13,22,DDLDDWDLLLDDL,WWWWDWLWWWWWDL
+Saint-Étienne,Olympique,0-2,/match/saint-etienne/olympique-marsella/1993,1993,30,ligue_1,20,38,2,0,2,6,10,13,6,22,15,LDWDWWWLDWWWWLWWDDDWDDDWDDLDD,8,5,2,15,7,2,16,8,5,50,28,WDWDWLDDWWLWDDDWWWLWWWLWLWWDL,5,5,4,20,16,LWWWDWWLWDWDWDD,DDLDWDDWLWLLWL
+Lille,Le Havre,2-1,/match/lillestrom/havre-ac/1993,1993,30,ligue_1,20,38,0,2,1,16,5,12,12,17,35,WWWLDDDWDWWWDWLWWDDWDLWDDWDDW,4,8,2,13,11,18,6,9,14,28,44,WLDDWDDLDWWWWDDWWWWWLWWWLDLWD,0,5,9,12,32,WDDDWDLWDDLDWD,DWDDWWDWWWWWDW
+Valenciennes,Nîmes,1-1,/match/valenciennes-afc/nimes-olympique/1993,1993,30,ligue_1,20,38,1,1,1,17,7,10,12,33,41,WLWLLWDDDLWWDWDWDWDDWLLDWLLWD,3,7,4,19,19,20,2,13,14,26,51,WDWDDLWDDDDWLDWLWLDDLWDWDDLWL,1,6,8,12,28,LLDDWDDDDWLDLW,WWDWDDLWWDDWWDW
+Caen,Lens,0-1,/match/caen/lens/1993,1993,30,ligue_1,20,38,2,0,1,10,11,6,12,43,40,WWWWWWWDDWDLWWDWDWWWWLWLDWLWL,8,4,2,28,17,15,6,14,9,23,36,LDDDWLWDDDDLWWLLLLDDLDDDWWDDW,3,7,4,14,18,WWWDDWDDWWLLWW,DWWDDWLLDLDDWD
+Metz,Olympique Lyonnais,2-0,/match/metz/olympique-lyonnais/1993,1993,30,ligue_1,20,38,0,2,0,12,8,12,9,32,34,DDWWDWDDWDWDDWWWLWDWWWWLDLWDD,6,7,1,22,10,13,8,14,7,31,28,DLWDWDDWDDDDDDDLDLDWWWWWWLLDW,3,7,5,14,13,DWWDDDWLDWWDWD,DWWDDDDDLLWWWLD
+Toulouse,Auxerre,2-1,/match/toulouse-fc/auxerre/1993,1993,30,ligue_1,20,38,0,2,1,14,5,15,9,23,30,WLWDWDWDDDDDWDDLLWWLDDWDDDLDW,3,8,3,11,12,7,13,5,11,41,33,LWWWWWLWWWDDDWWWDLWWDWLWLWWWW,3,3,9,15,22,LDDDDWDLWDWDLD,LWWLWDDWDLWWWWW
+Montpellier,Nantes,1-0,/match/montpellier-hsc/nantes/1993,1993,30,ligue_1,20,38,0,1,0,11,10,8,11,26,29,WLWWLDDWWDWWWDLWWWWLDDLDWLWWD,8,3,4,16,9,4,13,9,7,41,28,DLWDWLWWWWLWWDDDDWWWDWWDWWWDL,3,5,6,12,18,WWLDWWWLWWLDDLW,LDLWLWDDWDWWWD
+Sochaux,Girondins Bordeaux,0-1,/match/sochaux/bordeaux/1993,1993,30,ligue_1,20,38,2,0,1,9,11,7,11,32,40,WWWWWDLDWDLWDDWWWWWLWWWWLDLDW,9,3,3,20,16,3,13,11,5,30,16,DLDWDLWDWWWWWWLWWWDWDWDDDLWDD,4,5,5,8,13,WWWLWLDWWWLWWDD,LWLWWWLWDDDDLD
+Strasbourg,Monaco,3-0,/match/strasbourg/monaco/1993,1993,30,ligue_1,20,38,0,3,0,8,10,12,7,46,40,WLLDDDDDDWDWWLDDWWWDDDWWLLLWW,6,7,2,26,16,1,16,8,5,38,15,WWWDWDWWWWLWWWDWLWDWLWDDDWWDW,3,6,5,7,10,WLDDDDWDWWDDWLW,WDWWLWDLDLDDWD
+PSG,Sporting Toulon,2-0,/match/paris-saint-germain-fc/sporting-toulon/1993,1993,30,ligue_1,20,38,0,2,0,5,13,10,6,48,23,LWLWDWDDWDDLLDWWWWLLDLWDWDWDW,8,4,2,27,8,19,3,12,14,19,43,WDDWWLDDWLWLDDDWWWDWDDDDLWLWW,0,6,9,11,27,WWWWDLWWLDWWDD,WDWDWWDDWWWDDWW
+Olympique,Sochaux,2-0,/match/olympique-marsella/sochaux/1993,1993,31,ligue_1,20,38,0,2,0,2,17,8,5,52,28,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLL,11,3,1,30,12,11,11,7,12,32,41,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWL,2,4,8,12,24,WWWDWLWDWWWWWWD,WWDDDWDWWWWLLW
+Le Havre,Toulouse,3-2,/match/havre-ac/toulouse-fc/1993,1993,31,ligue_1,20,38,0,3,2,18,6,9,15,29,46,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDW,6,4,5,16,12,14,6,15,9,25,31,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWW,2,7,6,12,18,WLDDLWWDWWLWLLD,WWWWDDDDLWLDDDW
+Olympique Lyonnais,Lille,1-3,/match/olympique-lyonnais/lillestrom/1993,1993,31,ligue_1,20,38,2,1,3,13,8,14,8,31,30,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWW,5,7,2,17,15,15,6,12,12,19,36,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWW,1,4,10,4,24,LDDWDDDDDWWWLW,WWLDWWWWWDWWDDW
+Auxerre,Valenciennes,3-2,/match/auxerre/valenciennes-afc/1993,1993,31,ligue_1,20,38,0,3,2,8,13,5,12,42,35,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWW,10,2,2,26,11,17,7,11,12,34,42,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDD,4,3,8,14,22,WWWWWDWWWDLLWW,WWLWDLWWWWDLWLD
+Lens,Strasbourg,2-0,/match/lens/strasbourg/1993,1993,31,ligue_1,20,38,0,2,0,16,7,14,9,24,36,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWL,3,7,5,9,18,6,11,12,7,49,40,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWW,4,5,5,20,24,LDDLDDLWLLDDWDW,LDDDWWLDWDWLLW
+Nantes,Saint-Étienne,0-0,/match/nantes/saint-etienne/1993,1993,31,ligue_1,20,38,1,0,0,5,13,9,8,41,29,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLW,10,4,1,29,10,7,10,13,7,22,17,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDL,2,8,4,7,8,DWWWWWWDDWWWDWL,DDWLWWWDDDDDLD
+Nîmes,PSG,0-1,/match/nimes-olympique/paris-saint-germain-fc/1993,1993,31,ligue_1,20,38,2,0,1,20,2,14,14,27,52,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLD,1,7,6,14,23,4,14,10,6,50,23,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWW,5,6,4,21,15,DDLDDWDLLLDDLL,LLDDDDLDWWLLDWW
+Girondins Bordeaux,Montpellier,2-1,/match/bordeaux/montpellier-hsc/1993,1993,31,ligue_1,20,38,0,2,1,3,14,11,5,31,16,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDL,9,6,0,22,3,10,11,8,11,27,29,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDW,2,5,7,10,20,DDDWDWWWWWWWDWD,LWDWDWDWWDLWWD
+Monaco,Caen,4-2,/match/monaco/caen/1993,1993,31,ligue_1,20,38,0,4,2,1,16,8,6,38,18,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWW,13,2,0,31,5,12,11,6,13,43,41,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLL,3,2,10,15,23,WWWDWWWWWWWWDWW,WWWWDWLWWWWWDLL
+Sporting Toulon,Metz,1-0,/match/sporting-toulon/metz/1993,1993,31,ligue_1,20,38,0,1,0,19,3,12,15,19,45,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWW,3,6,5,8,16,9,9,12,9,34,34,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDW,2,5,8,10,24,DWLDLLDWDDDLLW,DWDDWWDWWWWWLLD
+Montpellier,Olympique,1-1,/match/montpellier-hsc/olympique-marsella/1993,1993,32,ligue_1,20,38,1,1,1,10,11,8,12,28,31,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDWW,9,3,4,17,9,2,18,8,5,54,28,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLLW,6,5,4,22,16,WWLDWWWLWWLDDLWW,DDLDWDDWLWLLWLL
+Olympique Lyonnais,Sporting Toulon,1-1,/match/olympique-lyonnais/sporting-toulon/1993,1993,32,ligue_1,20,38,1,1,1,13,8,14,9,32,33,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWWL,5,7,3,18,18,19,4,12,15,20,45,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWWW,0,6,10,11,29,LDDWDDDDDWWWLWL,WDWDWWDDWWWDDWWW
+Valenciennes,Lens,0-2,/match/valenciennes-afc/lens/1993,1993,32,ligue_1,20,38,2,0,2,18,7,11,13,36,45,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDDW,3,8,4,20,20,14,8,14,9,26,36,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWLW,4,7,4,15,18,LLDDWDDDDWLDLWD,DWWDDWLLDLDDWDL
+Strasbourg,Saint-Étienne,2-2,/match/strasbourg/saint-etienne/1993,1993,32,ligue_1,20,38,1,2,2,7,11,12,8,49,42,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWWW,7,7,2,29,16,8,10,14,7,22,17,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDLD,2,9,4,7,8,WLDDDDWDWWDDWLWW,DDWLWWWDDDDDLDD
+Metz,Auxerre,0-1,/match/metz/auxerre/1993,1993,32,ligue_1,20,38,2,0,1,9,9,12,10,34,35,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDWW,7,7,1,24,10,6,14,5,12,45,37,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWWW,3,3,10,16,24,DWWDDDWLDWWDWDW,LWWLWDDWDLWWWWWW
+Caen,Girondins Bordeaux,1-0,/match/caen/bordeaux/1993,1993,32,ligue_1,20,38,0,1,0,12,11,6,14,45,45,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLLW,8,4,3,28,18,3,15,11,5,33,17,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDLW,5,5,5,9,13,WWWDDWDDWWLLWWL,LWLWWWLWDDDDLDL
+PSG,Le Havre,1-0,/match/paris-saint-germain-fc/havre-ac/1993,1993,32,ligue_1,20,38,0,1,0,4,15,10,6,51,23,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWWL,9,4,2,29,8,17,7,9,15,32,48,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDWW,0,5,10,13,34,WWWWDLWWLDWWDDW,DWDDWWDWWWWWDWW
+Lille,Monaco,1-1,/match/lillestrom/monaco/1993,1993,32,ligue_1,20,38,1,1,1,15,7,12,12,22,37,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWWL,5,8,2,15,12,1,17,8,6,42,20,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWWW,3,6,6,7,13,WDDDWDLWDDLDWDW,WDWWLWDLDLDDWDW
+Sochaux,Nantes,0-1,/match/sochaux/nantes/1993,1993,32,ligue_1,20,38,2,0,1,11,11,7,13,32,43,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWLW,9,3,4,20,17,5,13,10,8,41,29,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLWD,3,5,7,12,19,WWWLWLDWWWLWWDDL,LDLWLWDDWDWWWDW
+Toulouse,Nîmes,3-0,/match/toulouse-fc/nimes-olympique/1993,1993,32,ligue_1,20,38,0,3,0,16,6,15,10,27,34,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWWW,4,8,3,13,13,20,2,14,15,27,53,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLDL,1,7,8,13,29,LDDDDWDLWDWDLDW,WWDWDDLWWDDWWDWD
+Olympique,Strasbourg,5-0,/match/olympique-marsella/strasbourg/1993,1993,33,ligue_1,20,38,0,5,0,2,18,9,5,55,29,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLLWD,12,3,1,32,12,7,11,13,8,51,44,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWWWD,4,5,6,20,26,WWWDWLWDWWWWWWDW,LDDDWWLDWDWLLWW
+Nîmes,Metz,2-2,/match/nimes-olympique/metz/1993,1993,33,ligue_1,20,38,1,2,2,20,2,14,16,27,56,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLDLW,1,7,7,14,24,11,9,12,11,34,36,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDWWL,2,5,9,10,25,DDLDDWDLLLDDLLL,DWDDWWDWWWWWLLDW
+Le Havre,Olympique Lyonnais,2-0,/match/havre-ac/olympique-lyonnais/1993,1993,33,ligue_1,20,38,0,2,0,17,7,9,16,32,49,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDWWW,7,4,5,19,14,13,8,15,9,33,34,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWWLD,3,7,6,14,15,WLDDLWWDWWLWLLDW,DWWDDDDDLLWWWLDW
+Lens,Montpellier,2-0,/match/lens/montpellier-hsc/1993,1993,33,ligue_1,20,38,0,2,0,14,9,14,9,28,36,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWLWL,4,7,5,11,18,9,11,9,12,29,32,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDWWD,2,5,8,11,22,LDDLDDLWLLDDWDWW,LWDWDWDWWDLWWDW
+Saint-Étienne,Sochaux,2-0,/match/saint-etienne/sochaux/1993,1993,33,ligue_1,20,38,0,2,0,8,10,15,7,24,19,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDLDD,8,5,3,15,9,12,11,7,14,32,44,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWLWL,2,4,9,12,26,LWWWDWWLWDWDWDDL,WWDDDWDWWWWLLWW
+Nantes,Caen,1-1,/match/nantes/caen/1993,1993,33,ligue_1,20,38,1,1,1,5,14,10,8,42,29,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLWDL,10,5,1,29,10,10,12,6,14,46,45,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLLWW,3,2,11,17,27,DWWWWWWDDWWWDWLD,WWWWDWLWWWWWDLLW
+Girondins Bordeaux,Lille,3-0,/match/bordeaux/lillestrom/1993,1993,33,ligue_1,20,38,0,3,0,3,15,11,6,33,18,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDLWW,10,6,0,24,4,16,7,13,12,23,38,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWWLD,2,4,10,7,25,DDDWDWWWWWWWDWDW,WWLDWWWWWDWWDDWL
+Auxerre,PSG,1-2,/match/auxerre/paris-saint-germain-fc/1993,1993,33,ligue_1,20,38,2,1,2,6,15,5,12,46,37,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWWWL,11,2,2,29,13,4,16,10,6,52,23,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWWLW,6,6,4,22,15,WWWWWDWWWDLLWWW,LLDDDDLDWWLLDWWL
+Monaco,Valenciennes,2-1,/match/monaco/valenciennes-afc/1993,1993,33,ligue_1,20,38,0,2,1,1,17,9,6,43,21,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWWWD,14,2,0,35,7,18,7,11,14,36,47,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDDWL,4,3,9,16,25,WWWDWWWWWWWWDWWW,WWLWDLWWWWDLWLDW
+Sporting Toulon,Toulouse,2-0,/match/sporting-toulon/toulouse-fc/1993,1993,33,ligue_1,20,38,0,2,0,19,4,13,15,21,46,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWWWD,4,6,5,9,16,15,7,15,10,30,34,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWWWW,2,7,7,14,21,DWLDLLDWDDDLLWW,WWWWDDDDLWLDDDWW
+Caen,Olympique,2-3,/match/caen/olympique-marsella/1993,1993,34,ligue_1,20,38,2,2,3,10,12,7,14,47,46,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLLWWD,9,4,3,29,18,2,19,9,5,60,29,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLLWDW,6,6,4,23,17,WWWDDWDDWWLLWWLW,DDLDWDDWLWLLWLLD
+Lille,Sochaux,0-0,/match/lillestrom/sochaux/1993,1993,34,ligue_1,20,38,1,0,0,16,7,13,13,23,41,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWWLDW,5,9,2,16,13,13,11,7,15,32,46,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWLWLW,2,4,10,12,28,WDDDWDLWDDLDWDWD,WWDDDWDWWWWLLWWW
+Olympique Lyonnais,Nîmes,0-1,/match/olympique-lyonnais/nimes-olympique/1993,1993,34,ligue_1,20,38,2,0,1,14,8,15,10,33,36,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWWLDW,5,8,3,19,19,20,2,15,16,29,58,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLDLWD,1,7,9,13,32,LDDWDDDDDWWWLWLD,WWDWDDLWWDDWWDWDW
+Metz,Le Havre,2-3,/match/metz/havre-ac/1993,1993,34,ligue_1,20,38,2,2,3,11,9,13,11,36,38,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDWWLD,7,7,2,24,11,17,8,9,16,34,49,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDWWWW,0,5,11,13,35,DWWDDDWLDWWDWDWL,DWDDWWDWWWWWDWWW
+Toulouse,Lens,0-0,/match/toulouse-fc/lens/1993,1993,34,ligue_1,20,38,1,0,0,15,7,15,11,30,36,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWWWWW,5,8,3,16,13,12,10,14,9,30,36,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWLWLW,5,7,4,17,18,LDDDDWDLWDWDLDWW,DWWDDWLLDLDDWDLL
+Montpellier,Saint-Étienne,1-2,/match/montpellier-hsc/saint-etienne/1993,1993,34,ligue_1,20,38,2,1,2,9,11,9,13,29,34,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDWWDW,9,4,4,18,10,6,11,15,7,26,19,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDLDDW,2,10,4,9,10,WWLDWWWLWWLDDLWWD,DDWLWWWDDDDDLDDD
+Strasbourg,Nantes,2-4,/match/strasbourg/nantes/1993,1993,34,ligue_1,20,38,2,2,4,8,11,13,9,51,49,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWWWDW,7,8,2,31,18,5,14,11,8,43,30,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLWDLD,4,5,7,13,19,WLDDDDWDWWDDWLWWD,LDLWLWDDWDWWWDWL
+Valenciennes,Girondins Bordeaux,1-0,/match/valenciennes-afc/bordeaux/1993,1993,34,ligue_1,20,38,0,1,0,18,7,11,15,37,49,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDDWLW,3,8,5,20,22,3,16,11,6,36,18,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDLWWW,5,5,6,9,14,LLDDWDDDDWLDLWDL,LWLWWWLWDDDDLDLW
+PSG,Monaco,1-0,/match/paris-saint-germain-fc/monaco/1993,1993,34,ligue_1,20,38,0,1,0,4,17,10,6,54,24,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWWLWL,10,4,2,30,8,1,18,9,6,45,22,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWWWDW,3,7,6,8,14,WWWWDLWWLDWWDDWW,WDWWLWDLDLDDWDWD
+Sporting Toulon,Auxerre,1-2,/match/sporting-toulon/auxerre/1993,1993,34,ligue_1,20,38,2,1,2,19,5,13,15,23,46,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWWWDW,5,6,5,11,16,7,15,5,13,47,39,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWWWLL,4,3,10,17,24,DWLDLLDWDDDLLWWW,LWWLWDDWDLWWWWWWL
+Girondins Bordeaux,PSG,1-1,/match/bordeaux/paris-saint-germain-fc/1993,1993,35,ligue_1,20,38,1,1,1,4,16,11,7,36,19,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDLWWWW,11,6,0,27,4,3,18,10,6,55,24,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWWLWLW,7,6,4,24,16,DDDWDWWWWWWWDWDWW,LLDDDDLDWWLLDWWLL
+Le Havre,Montpellier,1-1,/match/havre-ac/montpellier-hsc/1993,1993,35,ligue_1,20,38,1,1,1,17,9,9,16,37,51,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDWWWWL,8,4,5,21,14,9,11,9,14,30,36,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDWWDWL,2,5,9,11,24,WLDDLWWDWWLWLLDWW,LWDWDWDWWDLWWDWW
+Sochaux,Strasbourg,0-0,/match/sochaux/strasbourg/1993,1993,35,ligue_1,20,38,1,0,0,13,11,8,15,32,46,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWLWLWD,9,3,5,20,18,8,11,13,10,53,53,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWWWDWL,4,5,7,20,31,WWWLWLDWWWLWWDDLL,LDDDWWLDWDWLLWWW
+Lens,Metz,2-0,/match/lens/metz/1993,1993,35,ligue_1,20,38,0,2,0,11,10,15,9,30,36,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWLWLWD,5,7,5,13,18,12,9,13,12,38,41,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDWWLDL,2,6,9,12,27,LDDLDDLWLLDDWDWWW,DWDDWWDWWWWWLLDWD
+Auxerre,Olympique Lyonnais,2-1,/match/auxerre/olympique-lyonnais/1993,1993,35,ligue_1,20,38,0,2,1,7,16,5,13,49,40,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWWWLLL,11,2,3,30,15,14,8,15,11,33,37,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWWLDWL,3,7,7,14,17,WWWWWDWWWDLLWWWL,DWWDDDDDLLWWWLDWW
+Saint-Étienne,Caen,1-1,/match/saint-etienne/caen/1993,1993,35,ligue_1,20,38,1,1,1,6,12,15,7,28,20,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDLDDWL,9,5,3,17,9,10,12,7,15,49,49,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLLWWDL,3,3,11,18,28,LWWWDWWLWDWDWDDLW,WWWWDWLWWWWWDLLWD
+Nantes,Valenciennes,3-1,/match/nantes/valenciennes-afc/1993,1993,35,ligue_1,20,38,0,3,1,5,15,11,8,47,32,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLWDLDL,10,6,1,30,11,18,8,11,15,38,49,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDDWLWW,4,3,10,17,27,DWWWWWWDDWWWDWLDD,WWLWDLWWWWDLWLDWW
+Monaco,Toulouse,4-0,/match/monaco/toulouse-fc/1993,1993,35,ligue_1,20,38,0,4,0,2,18,9,7,45,23,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWWWDWW,15,2,0,37,8,15,7,16,11,30,36,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWWWWWD,2,7,8,14,23,WWWDWWWWWWWWDWWWW,WWWWDDDDLWLDDDWWW
+Olympique,Lille,4-1,/match/olympique-marsella/lillestrom/1993,1993,35,ligue_1,20,38,0,4,1,1,20,9,5,63,31,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLLWDWL,13,3,1,37,12,16,7,14,13,23,41,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWWLDWD,2,4,11,7,28,WWWDWLWDWWWWWWDWW,WWLDWWWWWDWWDDWLW
+Nîmes,Sporting Toulon,0-1,/match/nimes-olympique/sporting-toulon/1993,1993,35,ligue_1,20,38,2,0,1,20,3,15,16,30,58,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLDLWDL,1,8,7,16,26,19,5,13,16,24,48,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWWWDWL,0,7,10,12,30,DDLDDWDLLLDDLLLD,WDWDWWDDWWWDDWWWD
+Valenciennes,Olympique,0-1,/match/valenciennes-afc/olympique-marsella/1993,1993,36,ligue_1,20,38,2,0,1,18,8,11,16,39,52,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDDWLWWW,4,8,5,21,22,1,21,9,5,67,32,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLLWDWLW,7,6,4,26,19,LLDDWDDDDWLDLWDLW,DDLDWDDWLWLLWLLDL
+Caen,Sochaux,2-0,/match/caen/sochaux/1993,1993,36,ligue_1,20,38,0,2,0,10,12,8,15,50,50,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLLWWDLD,9,4,4,31,21,12,11,9,15,32,46,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWLWLWDD,2,5,10,12,28,WWWDDWDDWWLLWWLWL,WWDDDWDWWWWLLWWWD
+Olympique Lyonnais,Lens,3-1,/match/olympique-lyonnais/lens/1993,1993,36,ligue_1,20,38,0,3,1,14,8,15,12,34,39,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWWLDWLW,5,8,4,19,20,9,11,15,9,32,36,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWLWLWDW,5,8,4,17,18,LDDWDDDDDWWWLWLDL,DWWDDWLLDLDDWDLLD
+Montpellier,Strasbourg,1-1,/match/montpellier-hsc/strasbourg/1993,1993,36,ligue_1,20,38,1,1,1,11,11,10,14,31,37,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDWWDWLD,9,4,5,19,12,8,11,14,10,53,53,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWWWDWLD,4,6,7,20,31,WWLDWWWLWWLDDLWWDL,LDDDWWLDWDWLLWWWD
+Lille,Saint-Étienne,0-0,/match/lillestrom/saint-etienne/1993,1993,36,ligue_1,20,38,1,0,0,17,7,14,14,24,45,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWWLDWDW,5,10,2,16,13,7,12,16,7,29,21,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDLDDWLD,3,10,4,11,11,WDDDWDLWDDLDWDWDD,DDWLWWWDDDDDLDDDL
+Auxerre,Nîmes,5-2,/match/auxerre/nimes-olympique/1993,1993,36,ligue_1,20,38,0,5,2,6,17,5,13,51,41,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWWWLLLW,12,2,3,32,16,20,3,15,17,30,59,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLDLWDLL,2,7,9,14,32,WWWWWDWWWDLLWWWLW,WWDWDDLWWDDWWDWDWL
+Toulouse,Girondins Bordeaux,2-0,/match/toulouse-fc/bordeaux/1993,1993,36,ligue_1,20,38,0,2,0,15,7,16,12,30,40,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWWWWWDW,5,9,3,16,13,4,16,12,7,37,20,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDLWWWWD,5,5,7,9,15,LDDDDWDLWDWDLDWWD,LWLWWWLWDDDDLDLWW
+Metz,Monaco,1-0,/match/metz/monaco/1993,1993,36,ligue_1,20,38,0,1,0,13,9,13,13,38,43,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDWWLDLW,7,7,3,26,14,2,19,9,7,49,23,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWWWDWWW,3,7,7,8,15,DWWDDDWLDWWDWDWLL,WDWWLWDLDLDDWDWDW
+PSG,Nantes,1-0,/match/paris-saint-germain-fc/nantes/1993,1993,36,ligue_1,20,38,0,1,0,3,18,11,6,56,25,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWWLWLWD,11,4,2,31,8,5,16,11,8,50,33,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLWDLDLW,5,5,7,17,21,WWWWDLWWLDWWDDWWW,LDLWLWDDWDWWWDWLL
+Sporting Toulon,Le Havre,1-2,/match/sporting-toulon/havre-ac/1993,1993,36,ligue_1,20,38,2,1,2,19,6,13,16,25,48,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWWWDWLL,5,6,6,12,18,16,9,10,16,38,52,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDWWWWLD,1,5,11,16,37,DWLDLLDWDDDLLWWWL,DWDDWWDWWWWWDWWWL
+Olympique,PSG,3-1,/match/olympique-marsella/paris-saint-germain-fc/1993,1993,37,ligue_1,20,38,0,3,1,1,22,9,5,68,32,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLLWDWLWL,14,3,1,41,13,3,19,11,6,57,25,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWWLWLWDW,7,7,4,25,17,WWWDWLWDWWWWWWDWWW,LLDDDDLDWWLLDWWLLD
+Nîmes,Lille,0-0,/match/nimes-olympique/lillestrom/1993,1993,37,ligue_1,20,38,1,0,0,20,3,15,18,32,64,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLDLWDLLW,1,8,8,16,27,17,7,15,14,24,45,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWWLDWDWD,2,4,12,8,32,DDLDDWDLLLDDLLLDL,WWLDWWWWWDWWDDWLWW
+Sochaux,Montpellier,1-1,/match/sochaux/montpellier-hsc/1993,1993,37,ligue_1,20,38,1,1,1,13,11,9,16,32,48,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWLWLWDDW,9,4,5,20,18,11,11,11,14,32,38,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDWWDWLDD,2,6,9,12,25,WWWLWLDWWWLWWDDLLD,LWDWDWDWWDLWWDWWD
+Strasbourg,Caen,1-1,/match/strasbourg/caen/1993,1993,37,ligue_1,20,38,1,1,1,8,11,15,10,54,54,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWWWDWLDD,7,8,3,33,22,9,13,8,15,52,50,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLLWWDLDW,3,4,11,19,29,WLDDDDWDWWDDWLWWDL,WWWWDWLWWWWWDLLWDD
+Le Havre,Auxerre,0-0,/match/havre-ac/auxerre/1993,1993,37,ligue_1,20,38,1,0,0,16,10,10,16,40,53,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDWWWWLDL,8,5,5,22,15,6,18,5,13,56,43,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWWWLLLWW,5,3,10,19,25,WLDDLWWDWWLWLLDWWD,LWWLWDDWDLWWWWWWLL
+Saint-Étienne,Valenciennes,4-2,/match/saint-etienne/valenciennes-afc/1993,1993,37,ligue_1,20,38,0,4,2,7,12,17,7,29,21,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDLDDWLDD,9,6,3,18,10,18,8,11,17,39,53,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDDWLWWWL,4,3,11,18,30,LWWWDWWLWDWDWDDLWD,WWLWDLWWWWDLWLDWWW
+Nantes,Toulouse,4-1,/match/nantes/toulouse-fc/1993,1993,37,ligue_1,20,38,0,4,1,5,16,11,9,50,34,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLWDLDLWW,11,6,1,33,12,15,8,16,12,32,40,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWWWWWDWW,2,7,9,14,27,DWWWWWWDDWWWDWLDDW,WWWWDDDDLWLDDDWWWW
+Girondins Bordeaux,Metz,2-1,/match/bordeaux/metz/1993,1993,37,ligue_1,20,38,0,2,1,4,16,12,8,37,22,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDLWWWWDW,11,7,0,28,5,10,10,13,13,39,43,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDWWLDLWW,2,6,10,12,29,DDDWDWWWWWWWDWDWWD,DWDDWWDWWWWWLLDWDW
+Monaco,Olympique Lyonnais,2-1,/match/monaco/olympique-lyonnais/1993,1993,37,ligue_1,20,38,0,2,1,2,19,9,8,49,24,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWWWDWWWW,16,2,0,41,8,14,9,15,12,37,40,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWWLDWLWW,3,7,8,15,19,WWWDWWWWWWWWDWWWWW,DWWDDDDDLLWWWLDWWW
+Lens,Sporting Toulon,2-1,/match/lens/sporting-toulon/1993,1993,37,ligue_1,20,38,0,2,1,12,11,15,10,33,39,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWLWLWDWW,6,7,5,15,18,19,6,13,17,26,50,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWWWDWLLL,1,7,10,13,30,LDDLDDLWLLDDWDWWWW,WDWDWWDDWWWDDWWWDL
+Toulouse,Olympique,3-1,/match/toulouse-fc/olympique-marsella/1993,1993,38,ligue_1,20,38,0,3,1,15,8,16,13,33,44,WLWDWDWDDDDDWDDLLWWLDDWDDDLDWWWWWDWWW,6,9,3,18,13,1,23,9,5,71,33,WDWDWLDDWWLWDDDWWWLWWWLWLWWDLLWDWLWLW,8,6,4,27,19,LDDDDWDLWDWDLDWWDW,DDLDWDDWLWLLWLLDLL
+Valenciennes,Sochaux,1-0,/match/valenciennes-afc/sochaux/1993,1993,38,ligue_1,20,38,0,1,0,18,8,11,18,41,57,WLWLLWDDDLWWDWDWDWDDWLLDWLLWDDWLWWWLW,4,8,6,21,23,13,11,10,16,33,49,WWWWWDLDWDLWDDWWWWWLWWWWLDLDWLWLWDDWD,2,5,11,12,30,LLDDWDDDDWLDLWDLWL,WWDDDWDWWWWLLWWWDW
+Nîmes,Le Havre,0-2,/match/nimes-olympique/havre-ac/1993,1993,38,ligue_1,20,38,2,0,2,20,3,16,18,32,64,WDWDDLWDDDDWLDWLWLDDLWDWDDLWLDLWDLLWD,1,9,8,16,27,16,10,11,16,40,53,WLDDWDDLDWWWWDDWWWWWLWWWLDLWDWWWWLDLD,2,5,11,18,38,DDLDDWDLLLDDLLLDLD,DWDDWWDWWWWWDWWWLL
+Caen,Montpellier,2-3,/match/caen/montpellier-hsc/1993,1993,38,ligue_1,20,38,2,2,3,10,13,9,15,53,51,WWWWWWWDDWDLWWDWDWWWWLWLDWLWLLWWDLDWD,10,4,4,33,21,11,11,12,14,33,39,WLWWLDDWWDWWWDLWWWWLDDLDWLWWDWWDWLDDD,2,7,9,13,26,WWWDDWDDWWLLWWLWLW,LWDWDWDWWDLWWDWWDD
+Lille,Strasbourg,2-3,/match/lillestrom/strasbourg/1993,1993,38,ligue_1,20,38,2,2,3,17,7,16,14,24,45,WWWLDDDWDWWWDWLWWDDWDLWDDWDDWWLDWDWDD,5,11,2,16,13,8,11,16,10,55,55,WLLDDDDDDWDWWLDDWWWDDDWWLLLWWWWDWLDDD,4,7,7,21,32,WDDDWDLWDDLDWDWDDD,LDDDWWLDWDWLLWWWDD
+Auxerre,Lens,1-1,/match/auxerre/lens/1993,1993,38,ligue_1,20,38,1,1,1,6,18,6,13,56,43,LWWWWWLWWWDDDWWWDLWWDWLWLWWWWWWLLLWWD,13,2,3,37,18,9,12,15,10,35,40,LDDDWLWDDDDLWWLLLLDDLDDDWWDDWLWLWDWWW,5,8,5,18,21,WWWWWDWWWDLLWWWLWW,DWWDDWLLDLDDWDLLDW
+Metz,Nantes,4-0,/match/metz/nantes/1993,1993,38,ligue_1,20,38,0,4,0,12,10,13,14,40,45,DDWWDWDDWDWDDWWWLWDWWWWLDLWDDWWLDLWWW,8,7,3,27,14,5,17,11,9,54,35,DLWDWLWWWWLWWDDDDWWWDWWDWWWDLWDLDLWWW,5,5,8,17,22,DWWDDDWLDWWDWDWLLW,LDLWLWDDWDWWWDWLLW
+Olympique Lyonnais,Girondins Bordeaux,2-3,/match/olympique-lyonnais/bordeaux/1993,1993,38,ligue_1,20,38,2,2,3,14,9,15,13,38,42,DLWDWDDWDDDDDDDLDLDWWWWWWLLDWWLDWLWWW,6,8,4,22,21,4,17,12,8,39,23,DLDWDLWDWWWWWWLWWWDWDWDDDLWDDLWWWWDWW,5,5,8,9,17,LDDWDDDDDWWWLWLDLW,LWLWWWLWDDDDLDLWWW
+PSG,Saint-Étienne,3-1,/match/paris-saint-germain-fc/saint-etienne/1993,1993,38,ligue_1,20,38,0,3,1,3,19,11,7,58,28,LWLWDWDDWDDLLDWWWWLLDLWDWDWDWWLWLWDWW,12,4,2,32,8,7,13,17,7,33,23,LDWDWWWLDWWWWLWWDDDWDDDWDDLDDLDDWLDDW,3,11,4,11,11,WWWWDLWWLDWWDDWWWW,DDWLWWWDDDDDLDDDLD
+Sporting Toulon,Monaco,4-5,/match/sporting-toulon/monaco/1993,1993,38,ligue_1,20,38,2,4,5,19,6,13,18,27,52,WDDWWLDDWLWLDDDWWWDWDDDDLWLWWWWDWLLLW,5,6,7,13,20,2,20,9,8,51,25,WWWDWDWWWWLWWWDWLWDWLWDDDWWDWWWDWWWWW,3,7,8,8,16,DWLDLLDWDDDLLWWWLL,WDWWLWDLDLDDWDWDWW

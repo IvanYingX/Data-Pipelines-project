@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Bologna,Atalanta,1-0,/match/bologna/atalanta/2002,2002,1,serie_a,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Udinese,Torino,2-2,/match/udinese/torino-fc/2002,2002,1,serie_a,18,34,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lecce,Parma,1-1,/match/lecce/parma-fc/2002,2002,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Brescia,Milan,2-2,/match/brescia/milan/2002,2002,1,serie_a,18,34,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Juventus,Venezia,4-0,/match/juventus-fc/venezia/2002,2002,1,serie_a,18,34,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Fiorentina,Chievo,0-2,/match/fiorentina/chievo/2002,2002,1,serie_a,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Perugia,4-1,/match/internazionale/perugia/2002,2002,1,serie_a,18,34,0,4,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Piacenza,1-1,/match/lazio/piacenza/2002,2002,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Hellas Verona,Roma,1-1,/match/hellas-verona-fc/roma/2002,2002,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Perugia,Lazio,0-0,/match/perugia/lazio/2002,2002,2,serie_a,18,34,1,0,0,17,0,0,1,1,4,W,0,0,0,0,0,6,0,1,0,1,1,D,0,0,0,0,0,,
+Roma,Udinese,1-1,/match/roma/udinese/2002,2002,2,serie_a,18,34,1,1,1,12,0,1,0,1,1,D,0,0,0,0,0,8,0,1,0,2,2,D,0,0,0,0,0,,
+Chievo,Bologna,2-0,/match/chievo/bologna/2002,2002,2,serie_a,18,34,0,2,0,4,1,0,0,2,0,L,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Torino,Brescia,1-3,/match/torino-fc/brescia/2002,2002,2,serie_a,18,34,2,1,3,10,0,1,0,2,2,D,0,0,0,0,0,9,0,1,0,2,2,D,0,0,0,0,0,,
+Venezia,Hellas Verona,0-1,/match/venezia/hellas-verona-fc/2002,2002,2,serie_a,18,34,2,0,1,18,0,0,1,0,4,W,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+Parma,Inter,2-2,/match/parma-fc/internazionale/2002,2002,2,serie_a,18,34,1,2,2,11,0,1,0,1,1,D,0,0,0,0,0,1,1,0,0,4,1,W,0,0,0,0,0,,
+Piacenza,Lecce,1-2,/match/piacenza/lecce/2002,2002,2,serie_a,18,34,2,1,2,13,0,1,0,1,1,D,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
+Atalanta,Juventus,0-2,/match/atalanta/juventus-fc/2002,2002,2,serie_a,18,34,2,0,2,16,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,4,0,W,0,0,0,0,0,,
+Milan,Fiorentina,5-2,/match/milan/fiorentina/2002,2002,2,serie_a,18,34,0,5,2,14,0,1,0,2,2,D,0,0,0,0,0,15,0,0,1,0,2,L,0,0,0,0,0,,
+Juventus,Chievo,3-2,/match/juventus-fc/chievo/2002,2002,3,serie_a,18,34,0,3,2,2,2,0,0,6,0,WL,1,0,0,4,0,1,2,0,0,4,0,LW,1,0,0,2,0,W,L
+Brescia,Lecce,1-1,/match/brescia/lecce/2002,2002,3,serie_a,18,34,1,1,1,8,1,1,0,5,3,DL,0,1,0,2,2,6,1,1,0,3,2,DL,1,0,0,2,1,D,L
+Hellas Verona,Perugia,1-1,/match/hellas-verona-fc/perugia/2002,2002,3,serie_a,18,34,1,1,1,7,1,1,0,2,1,DL,0,1,0,1,1,13,0,1,1,1,4,WD,0,0,1,1,4,D,W
+Piacenza,Roma,2-0,/match/piacenza/roma/2002,2002,3,serie_a,18,34,0,2,0,15,0,1,1,2,3,DL,0,0,1,1,2,12,0,2,0,2,2,DD,0,1,0,1,1,L,D
+Fiorentina,Atalanta,3-1,/match/fiorentina/atalanta/2002,2002,3,serie_a,18,34,0,3,1,16,0,0,2,2,7,LW,0,0,1,0,2,17,0,0,2,0,3,WL,0,0,1,0,1,L,W
+Inter,Venezia,2-1,/match/internazionale/venezia/2002,2002,3,serie_a,18,34,0,2,1,3,1,1,0,6,3,WD,1,0,0,4,1,18,0,0,2,0,5,WL,0,0,1,0,4,W,W
+Lazio,Torino,0-0,/match/lazio/torino-fc/2002,2002,3,serie_a,18,34,1,0,0,9,0,2,0,1,1,DD,0,1,0,1,1,14,0,1,1,3,5,DL,0,1,0,2,2,D,D
+Bologna,Parma,1-0,/match/bologna/parma-fc/2002,2002,3,serie_a,18,34,0,1,0,5,1,0,1,1,2,WW,1,0,0,1,0,11,0,2,0,3,3,DD,0,1,0,1,1,W,D
+Udinese,Milan,1-2,/match/udinese/milan/2002,2002,3,serie_a,18,34,2,1,2,10,0,2,0,3,3,DD,0,1,0,2,2,4,1,1,0,7,4,DW,0,1,0,2,2,D,D
+Lecce,Juventus,0-0,/match/lecce/juventus-fc/2002,2002,4,serie_a,18,34,1,0,0,8,1,2,0,4,3,DLD,0,1,0,1,1,1,3,0,0,9,2,WLW,1,0,0,2,0,D,L
+Torino,Inter,0-1,/match/torino-fc/internazionale/2002,2002,4,serie_a,18,34,2,0,1,16,0,2,1,3,5,DLD,0,0,1,1,3,2,2,1,0,8,4,WDW,0,1,0,2,2,L,D
+Chievo,Piacenza,4-2,/match/chievo/piacenza/2002,2002,4,serie_a,18,34,0,4,2,5,2,0,1,6,3,LWW,1,0,0,2,0,10,1,1,1,4,3,DLW,0,1,0,1,1,W,D
+Perugia,Udinese,1-2,/match/perugia/udinese/2002,2002,4,serie_a,18,34,2,1,2,12,0,2,1,2,5,WDD,0,1,0,0,0,13,0,2,1,4,5,DDL,0,1,0,1,1,D,D
+Venezia,Bologna,0-1,/match/venezia/bologna/2002,2002,4,serie_a,18,34,2,0,1,18,0,0,3,1,7,WLW,0,0,1,0,1,3,2,0,1,2,2,WWW,0,0,1,0,2,L,W
+Roma,Fiorentina,2-1,/match/roma/fiorentina/2002,2002,4,serie_a,18,34,0,2,1,14,0,2,1,2,4,DDW,0,1,0,1,1,11,1,0,2,5,8,LWW,0,0,1,2,5,D,W
+Parma,Brescia,1-0,/match/parma-fc/brescia/2002,2002,4,serie_a,18,34,0,1,0,15,0,2,1,3,4,DDW,0,1,0,2,2,7,1,2,0,6,4,DLD,1,0,0,3,1,D,L
+Atalanta,Hellas Verona,1-0,/match/atalanta/hellas-verona-fc/2002,2002,4,serie_a,18,34,0,1,0,17,0,0,3,1,6,WLW,0,0,1,0,2,6,1,2,0,3,2,DLD,1,0,0,1,0,L,L
+Milan,Lazio,2-0,/match/milan/lazio/2002,2002,4,serie_a,18,34,0,2,0,4,2,1,0,9,5,DWL,1,0,0,5,2,9,0,3,0,1,1,DDD,0,1,0,0,0,W,D
+Juventus,Roma,0-2,/match/juventus-fc/roma/2002,2002,5,serie_a,18,34,2,0,2,1,3,1,0,9,2,WLWD,2,0,0,7,2,8,1,2,1,4,5,DDWW,0,1,1,1,3,WW,DW
+Hellas Verona,Lecce,2-1,/match/hellas-verona-fc/lecce/2002,2002,5,serie_a,18,34,0,2,1,9,1,2,1,3,3,DLDW,0,2,0,2,2,6,1,3,0,4,3,DLDD,1,1,0,3,2,DD,LD
+Perugia,Milan,3-1,/match/perugia/milan/2002,2002,5,serie_a,18,34,0,3,1,16,0,2,2,3,7,WDDL,0,1,1,1,2,2,3,1,0,11,5,DWLW,1,1,0,4,3,DL,DL
+Udinese,Chievo,1-2,/match/udinese/chievo/2002,2002,5,serie_a,18,34,2,1,2,11,1,2,1,6,6,DDLL,0,1,1,3,4,5,3,0,1,10,5,LWWW,1,0,1,4,3,DL,LW
+Piacenza,Torino,3-1,/match/piacenza/torino-fc/2002,2002,5,serie_a,18,34,0,3,1,12,1,1,2,6,7,DLWW,1,0,1,3,2,17,0,2,2,3,6,DLDL,0,2,0,2,2,LW,DD
+Brescia,Atalanta,3-3,/match/brescia/atalanta/2002,2002,5,serie_a,18,34,1,3,3,10,1,2,1,6,5,DLDW,0,2,0,3,3,15,1,0,3,2,6,WLWW,0,0,2,1,4,DD,WW
+Fiorentina,Venezia,3-1,/match/fiorentina/venezia/2002,2002,5,serie_a,18,34,0,3,1,14,1,0,3,6,10,LWWW,1,0,1,3,3,18,0,0,4,1,8,WLWL,0,0,2,1,6,LW,WW
+Inter,Bologna,1-0,/match/internazionale/bologna/2002,2002,5,serie_a,18,34,0,1,0,3,3,1,0,9,4,WDWL,2,0,0,6,2,4,3,0,1,3,2,WWWL,1,0,1,1,2,WW,WL
+Lazio,Parma,0-0,/match/lazio/parma-fc/2002,2002,5,serie_a,18,34,1,0,0,13,0,3,1,1,3,DDDW,0,2,0,1,1,7,1,2,1,4,4,DDWW,0,1,1,1,2,DD,DW
+Torino,Parma,1-0,/match/torino-fc/parma-fc/2002,2002,6,serie_a,18,34,0,1,0,17,0,2,3,4,9,DLDLW,0,0,2,1,4,11,1,3,1,4,4,DDWWD,0,2,1,1,2,LL,DWD
+Venezia,Piacenza,2-3,/match/venezia/piacenza/2002,2002,6,serie_a,18,34,2,2,3,18,0,0,5,2,11,WLWLW,0,0,2,0,2,7,2,1,2,9,8,DLWWW,0,1,1,3,5,LL,DW
+Lecce,Perugia,2-3,/match/lecce/perugia/2002,2002,6,serie_a,18,34,2,2,3,13,1,3,1,5,5,DLDDW,0,2,0,1,1,14,1,2,2,6,8,WDDLW,0,1,1,2,5,DD,WD
+Roma,Brescia,0-0,/match/roma/brescia/2002,2002,6,serie_a,18,34,1,0,0,8,2,2,1,6,5,DDWWL,1,1,0,3,2,10,1,3,1,9,8,DLDWD,1,0,1,3,2,DW,LW
+Fiorentina,Juventus,1-1,/match/fiorentina/juventus-fc/2002,2002,6,serie_a,18,34,1,1,1,9,2,0,3,9,11,LWWWW,2,0,1,6,4,3,3,1,1,9,4,WLWDL,1,1,0,2,0,LWW,LD
+Inter,Hellas Verona,3-0,/match/internazionale/hellas-verona-fc/2002,2002,6,serie_a,18,34,0,3,0,1,4,1,0,10,4,WDWLW,3,0,0,7,2,6,2,2,1,5,4,DLDWW,1,0,1,1,1,WWW,LW
+Bologna,Udinese,0-1,/match/bologna/udinese/2002,2002,6,serie_a,18,34,2,0,1,5,3,0,2,3,3,WWWLW,2,0,0,2,0,15,1,2,2,7,8,DDLLL,1,1,0,3,2,WW,DL
+Atalanta,Milan,1-1,/match/atalanta/milan/2002,2002,6,serie_a,18,34,1,1,1,16,1,1,3,5,9,WLWWD,1,0,1,1,2,4,3,1,1,12,8,DWLWW,1,1,1,5,6,LW,DLW
+Chievo,Lazio,3-1,/match/chievo/lazio/2002,2002,6,serie_a,18,34,0,3,1,2,4,0,1,12,6,LWWWL,2,0,0,6,2,12,0,4,1,1,3,DDDWD,0,1,1,0,2,WW,DW
+Lazio,Atalanta,2-0,/match/lazio/atalanta/2002,2002,7,serie_a,18,34,0,2,0,13,0,4,2,2,6,DDDWDW,0,3,0,1,1,16,1,2,3,6,10,WLWWDD,0,1,2,4,7,DDD,WWD
+Perugia,Roma,0-0,/match/perugia/roma/2002,2002,7,serie_a,18,34,1,0,0,10,2,2,2,9,10,WDDLWL,1,1,1,4,3,6,2,3,1,6,5,DDWWLD,1,1,1,3,3,DLW,DWL
+Hellas Verona,Bologna,0-1,/match/hellas-verona-fc/bologna/2002,2002,7,serie_a,18,34,2,0,1,8,2,2,2,5,7,DLDWWW,1,2,0,4,3,7,3,0,3,3,4,WWWLWL,1,0,2,1,3,DDW,WLW
+Milan,Venezia,1-1,/match/milan/venezia/2002,2002,7,serie_a,18,34,1,1,1,4,3,2,1,13,9,DWLWWD,2,0,0,7,2,18,0,0,6,4,14,WLWLWL,0,0,3,2,9,WW,WWW
+Lecce,Fiorentina,4-1,/match/lecce/fiorentina/2002,2002,7,serie_a,18,34,0,4,1,14,1,3,2,7,8,DLDDWL,0,2,1,3,4,9,2,1,3,10,12,LWWWWD,0,0,2,3,7,DDL,WW
+Parma,Piacenza,2-2,/match/parma-fc/piacenza/2002,2002,7,serie_a,18,34,1,2,2,12,1,3,2,4,5,DDWWDW,1,1,0,3,2,5,3,1,2,12,10,DLWWWL,1,1,1,6,7,DW,DWL
+Brescia,Chievo,2-2,/match/brescia/chievo/2002,2002,7,serie_a,18,34,1,2,2,11,1,4,1,9,8,DLDWDD,0,3,0,6,6,2,5,0,1,15,7,LWWWLW,2,0,1,6,4,DDD,LWL
+Juventus,Torino,3-3,/match/juventus-fc/torino-fc/2002,2002,7,serie_a,18,34,1,3,3,3,3,2,1,10,5,WLWDLD,2,0,1,7,4,17,1,2,3,5,9,DLDLWW,0,2,1,3,5,WWL,DDW
+Udinese,Inter,1-1,/match/udinese/internazionale/2002,2002,7,serie_a,18,34,1,1,1,15,2,2,2,8,8,DDLLLL,0,1,2,4,6,1,5,1,0,13,4,WDWLWW,1,1,0,3,2,DLL,DL
+Bologna,Juventus,0-0,/match/bologna/juventus-fc/2002,2002,8,serie_a,18,34,1,0,0,7,4,0,3,4,4,WWWLWLL,2,0,1,2,1,3,3,3,1,13,8,WLWDLDD,1,2,0,3,1,WWL,LDD
+Chievo,Parma,1-0,/match/chievo/parma-fc/2002,2002,8,serie_a,18,34,0,1,0,2,5,1,1,17,9,LWWWLWD,3,0,0,9,3,12,1,4,2,6,7,DDWWDWD,0,2,2,1,3,WWW,DWDW
+Torino,Perugia,1-0,/match/torino-fc/perugia/2002,2002,8,serie_a,18,34,0,1,0,17,1,3,3,8,12,DLDLWWD,1,0,2,2,4,11,2,3,2,9,10,WDDLWLD,1,1,1,5,7,LLW,WDL
+Venezia,Lazio,0-0,/match/venezia/lazio/2002,2002,8,serie_a,18,34,1,0,0,18,0,1,6,5,15,WLWLWLD,0,0,3,2,5,10,1,4,2,4,6,DDDWDWW,0,1,2,1,5,LLL,DWW
+Roma,Lecce,5-1,/match/roma/lecce/2002,2002,8,serie_a,18,34,0,5,1,6,2,4,1,6,5,DDWWLDD,1,2,0,3,2,9,2,3,2,11,9,DLDDWLW,1,1,1,4,4,DWD,LDW
+Piacenza,Brescia,0-1,/match/piacenza/brescia/2002,2002,8,serie_a,18,34,2,0,1,5,3,2,2,14,12,DLWWWLD,2,0,1,6,3,8,1,5,1,11,10,DLDWDDD,1,1,1,3,2,LWW,LWD
+Fiorentina,Hellas Verona,0-2,/match/fiorentina/hellas-verona-fc/2002,2002,8,serie_a,18,34,2,0,2,13,2,1,4,11,16,LWWWWDW,2,1,1,7,5,14,2,2,3,5,8,DLDWWWL,1,0,2,1,4,LWWD,LWW
+Atalanta,Udinese,1-5,/match/atalanta/udinese/2002,2002,8,serie_a,18,34,2,1,5,16,1,2,4,6,12,WLWWDDW,1,1,1,2,3,15,2,3,2,9,9,DDLLLLD,2,1,0,4,2,LWD,DLL
+Inter,Milan,2-4,/match/internazionale/milan/2002,2002,8,serie_a,18,34,2,2,4,1,5,2,0,14,5,WDWLWWD,4,0,0,10,2,4,3,3,1,14,10,DWLWWDD,1,2,1,6,7,WWWW,DLWD
+Roma,Lazio,2-0,/match/roma/lazio/2002,2002,9,serie_a,18,34,0,2,0,4,3,4,1,11,6,DDWWLDDW,2,2,0,8,3,9,1,5,2,4,6,DDDWDWWD,0,2,2,1,5,DWDW,DWWD
+Juventus,Inter,0-0,/match/juventus-fc/internazionale/2002,2002,9,serie_a,18,34,1,0,0,5,3,4,1,13,8,WLWDLDDD,2,1,1,10,7,2,5,2,1,16,9,WDWLWWDL,1,2,0,4,3,WWLD,DLD
+Chievo,Torino,3-0,/match/chievo/torino-fc/2002,2002,9,serie_a,18,34,0,3,0,1,6,1,1,18,9,LWWWLWDW,4,0,0,10,3,14,2,3,3,9,12,DLDLWWDW,0,3,1,6,8,WWWW,DDWD
+Perugia,Piacenza,1-0,/match/perugia/piacenza/2002,2002,9,serie_a,18,34,0,1,0,12,2,3,3,9,11,WDDLWLDW,1,2,1,4,3,10,3,2,3,14,13,DLWWWLDL,1,2,1,8,9,DLWD,DWLD
+Milan,Bologna,0-0,/match/milan/bologna/2002,2002,9,serie_a,18,34,1,0,0,3,4,3,1,18,12,DWLWWDDL,2,1,0,8,3,6,4,1,3,4,4,WWWLWLLD,2,0,2,2,3,WWD,WLWL
+Udinese,Fiorentina,1-2,/match/udinese/fiorentina/2002,2002,9,serie_a,18,34,2,1,2,13,3,3,2,14,10,DDLLLLDL,0,2,2,5,7,16,2,1,5,11,18,LWWWWDWL,0,0,3,4,11,DLLD,WWW
+Lecce,Atalanta,0-2,/match/lecce/atalanta/2002,2002,9,serie_a,18,34,2,0,2,11,2,3,3,12,14,DLDDWLWW,1,2,1,7,5,17,1,2,5,7,17,WLWWDDWL,0,1,3,4,9,DDLW,WWDW
+Parma,Hellas Verona,2-2,/match/parma-fc/hellas-verona-fc/2002,2002,9,serie_a,18,34,1,2,2,15,1,4,3,6,8,DDWWDWDW,1,2,0,5,4,8,3,2,3,7,8,DLDWWWLL,2,0,2,3,4,DWD,LWWL
+Brescia,Venezia,3-2,/match/brescia/venezia/2002,2002,9,serie_a,18,34,0,3,2,7,2,5,1,12,10,DLDWDDDL,0,4,0,8,8,18,0,2,6,5,15,WLWLWLDD,0,1,3,3,10,DDDD,WWWD
+Venezia,Chievo,0-0,/match/venezia/chievo/2002,2002,10,serie_a,18,34,1,0,0,18,0,2,7,7,18,WLWLWLDDW,0,1,3,2,5,1,7,1,1,21,9,LWWWLWDWW,2,1,1,8,6,LLLD,LWLD
+Hellas Verona,Juventus,2-2,/match/hellas-verona-fc/juventus-fc/2002,2002,10,serie_a,18,34,1,2,2,9,3,3,3,9,10,DLDWWWLLD,1,2,1,4,4,5,3,5,1,13,8,WLWDLDDDD,1,3,0,3,1,DDWL,LDDD
+Parma,Perugia,2-1,/match/parma-fc/perugia/2002,2002,10,serie_a,18,34,0,2,1,11,1,5,3,8,10,DDWWDWDWD,1,3,0,7,6,7,3,3,3,10,11,WDDLWLDWW,1,1,2,5,8,DWDD,WDLW
+Piacenza,Udinese,1-2,/match/piacenza/udinese/2002,2002,10,serie_a,18,34,2,1,2,12,3,2,4,14,14,DLWWWLDLW,2,0,2,6,4,14,3,3,3,15,12,DDLLLLDLL,3,1,0,9,3,LWWL,DLLL
+Inter,Lecce,2-0,/match/internazionale/lecce/2002,2002,10,serie_a,18,34,0,2,0,2,5,3,1,16,9,WDWLWWDLD,4,0,1,12,6,16,2,3,4,12,16,DLDDWLWWL,1,1,2,5,9,WWWWL,LDWW
+Lazio,Brescia,5-0,/match/lazio/brescia/2002,2002,10,serie_a,18,34,0,5,0,13,1,5,3,4,8,DDDWDWWDW,1,3,0,3,1,6,3,5,1,15,12,DLDWDDDLW,2,1,1,4,2,DDDW,LWDL
+Bologna,Fiorentina,3-2,/match/bologna/fiorentina/2002,2002,10,serie_a,18,34,0,3,2,8,4,2,3,4,4,WWWLWLLDD,2,1,1,2,1,10,3,1,5,13,19,LWWWWDWLL,1,0,3,6,12,WWLD,WWWL
+Atalanta,Roma,1-1,/match/atalanta/roma/2002,2002,10,serie_a,18,34,1,1,1,17,2,2,5,9,17,WLWWDDWLL,1,1,2,3,8,3,4,4,1,13,6,DDWWLDDWW,1,2,1,3,3,LWDL,DWLD
+Torino,Milan,1-0,/match/torino-fc/milan/2002,2002,10,serie_a,18,34,0,1,0,15,2,3,4,9,15,DLDLWWDWW,2,0,2,3,4,4,4,4,1,18,12,DWLWWDDLD,2,2,1,10,9,LLWW,DLWDL
+Roma,Inter,0-0,/match/roma/internazionale/2002,2002,11,serie_a,18,34,1,0,0,3,4,5,1,14,7,DDWWLDDWWD,3,2,0,10,3,2,6,3,1,18,9,WDWLWWDLDW,1,3,0,4,3,DWDWW,DLDD
+Perugia,Brescia,1-1,/match/perugia/brescia/2002,2002,11,serie_a,18,34,1,1,1,10,3,3,4,11,13,WDDLWLDWWW,2,2,1,5,3,7,3,5,2,15,17,DLDWDDDLWW,2,1,2,4,7,DLWDW,LWDLW
+Milan,Piacenza,0-0,/match/milan/piacenza/2002,2002,11,serie_a,18,34,1,0,0,5,4,4,2,18,13,DWLWWDDLDW,2,2,0,8,3,15,3,2,5,15,16,DLWWWLDLWL,1,2,2,8,10,WWDD,DWLDW
+Udinese,Lazio,1-4,/match/udinese/lazio/2002,2002,11,serie_a,18,34,2,1,4,13,4,3,3,17,13,DDLLLLDLLL,0,2,3,6,9,9,2,5,3,9,8,DDDWDWWDWW,0,2,3,1,7,DLLDL,DWWDW
+Lecce,Bologna,1-0,/match/lecce/bologna/2002,2002,11,serie_a,18,34,0,1,0,16,2,3,5,12,18,DLDDWLWWLW,1,2,2,7,7,4,5,2,3,7,6,WWWLWLLDDW,2,1,2,2,3,DDLWL,WLWLD
+Juventus,Parma,3-1,/match/juventus-fc/parma-fc/2002,2002,11,serie_a,18,34,0,3,1,6,3,6,1,15,10,WLWDLDDDDD,2,2,1,10,7,8,2,5,3,10,11,DDWWDWDWDW,0,2,3,1,4,WWLDD,DWDWW
+Fiorentina,Torino,0-0,/match/fiorentina/torino-fc/2002,2002,11,serie_a,18,34,1,0,0,14,3,1,6,15,22,LWWWWDWLLW,2,1,2,7,7,12,3,3,4,10,15,DLDLWWDWWW,0,3,2,6,11,LWWDL,DDWDW
+Atalanta,Venezia,1-0,/match/atalanta/venezia/2002,2002,11,serie_a,18,34,0,1,0,17,2,3,5,10,18,WLWWDDWLLD,1,2,2,4,9,18,0,3,7,7,18,WLWLWLDDWD,0,1,4,5,13,LWDLD,WWWDW
+Hellas Verona,Chievo,3-2,/match/hellas-verona-fc/chievo/2002,2002,11,serie_a,18,34,0,3,2,11,3,4,3,11,12,DLDWWWLLDD,1,3,1,6,6,1,7,2,1,21,9,LWWWLWDWWD,2,2,1,8,6,DDWLD,LWLDD
+Lazio,Juventus,1-0,/match/lazio/juventus-fc/2002,2002,12,serie_a,18,34,0,1,0,9,3,5,3,13,9,DDDWDWWDWWL,2,3,0,8,1,4,4,6,1,18,11,WLWDLDDDDDW,1,4,0,5,3,DDDWW,LDDDD
+Chievo,Perugia,2-0,/match/chievo/perugia/2002,2002,12,serie_a,18,34,0,2,0,1,7,2,2,23,12,LWWWLWDWWDW,5,0,0,13,3,10,3,4,4,12,14,WDDLWLDWWWD,1,1,3,6,10,WWWWW,WDLWW
+Torino,Hellas Verona,5-1,/match/torino-fc/hellas-verona-fc/2002,2002,12,serie_a,18,34,0,5,1,12,3,4,4,10,15,DLDLWWDWWWD,3,0,2,4,4,7,4,4,3,14,14,DLDWWWLLDDW,2,1,2,5,6,LLWWW,LWWLD
+Venezia,Lecce,1-1,/match/venezia/lecce/2002,2002,12,serie_a,18,34,1,1,1,18,0,3,8,7,19,WLWLWLDDWDW,0,2,3,2,5,13,3,3,5,13,18,DLDDWLWWLWW,1,1,3,5,11,LLLDD,LDWWW
+Parma,Milan,0-1,/match/parma-fc/milan/2002,2002,12,serie_a,18,34,2,0,1,11,2,5,4,11,14,DDWWDWDWDWW,2,3,0,9,7,5,4,5,2,18,13,DWLWWDDLDWD,2,2,2,10,10,DWDDW,DLWDLW
+Piacenza,Atalanta,1-2,/match/piacenza/atalanta/2002,2002,12,serie_a,18,34,2,1,2,17,3,3,5,15,16,DLWWWLDLWLD,2,0,3,7,6,14,3,3,5,11,18,WLWWDDWLLDW,1,1,3,6,9,LWWLL,WWDWL
+Brescia,Udinese,2-0,/match/brescia/udinese/2002,2002,12,serie_a,18,34,0,2,0,8,3,6,2,16,18,DLDWDDDLWWD,1,4,0,11,10,16,4,3,4,18,17,DDLLLLDLLLL,4,1,0,11,4,DDDDW,DLLLL
+Bologna,Roma,1-3,/match/bologna/roma/2002,2002,12,serie_a,18,34,2,1,3,6,5,2,4,7,7,WWWLWLLDDWW,3,1,1,5,3,3,4,6,1,14,7,DDWWLDDWWDD,1,3,1,4,4,WWLDW,DWLDD
+Inter,Fiorentina,2-0,/match/internazionale/fiorentina/2002,2002,12,serie_a,18,34,0,2,0,2,6,4,1,18,9,WDWLWWDLDWD,5,0,1,14,6,15,3,2,6,15,22,LWWWWDWLLWD,1,0,4,8,15,WWWWLW,WWWLW
+Juventus,Perugia,2-0,/match/juventus-fc/perugia/2002,2002,13,serie_a,18,34,0,2,0,4,4,6,2,18,12,WLWDLDDDDDWW,3,2,1,13,8,12,3,4,5,12,16,WDDLWLDWWWDW,1,1,4,6,12,WWLDDW,WDLWWW
+Hellas Verona,Brescia,2-0,/match/hellas-verona-fc/brescia/2002,2002,13,serie_a,18,34,0,2,0,10,4,4,4,15,19,DLDWWWLLDDWW,2,3,1,9,8,6,4,6,2,18,18,DLDWDDDLWWDW,2,2,2,5,8,DDWLDW,LWDLWD
+Milan,Chievo,3-2,/match/milan/chievo/2002,2002,13,serie_a,18,34,0,3,2,5,5,5,2,19,13,DWLWWDDLDWDL,2,3,0,8,3,1,8,2,2,25,12,LWWWLWDWWDWW,2,2,2,10,9,WWDDD,LWLDDW
+Udinese,Parma,3-2,/match/udinese/parma-fc/2002,2002,13,serie_a,18,34,0,3,2,16,4,3,5,18,19,DDLLLLDLLLLW,0,2,4,7,13,14,2,5,5,11,15,DDWWDWDWDWWL,0,2,4,2,7,DLLDLL,DWDWWW
+Lecce,Lazio,1-2,/match/lecce/lazio/2002,2002,13,serie_a,18,34,2,1,2,13,3,4,5,14,19,DLDDWLWWLWWD,2,2,2,8,7,7,4,5,3,14,9,DDDWDWWDWWLW,1,2,3,5,8,DDLWLW,DWWDWL
+Roma,Venezia,1-0,/match/roma/venezia/2002,2002,13,serie_a,18,34,0,1,0,3,5,6,1,17,8,DDWWLDDWWDDL,3,3,0,10,3,18,0,4,8,8,20,WLWLWLDDWDWD,0,1,5,5,14,DWDWWD,WWWDWW
+Fiorentina,Piacenza,1-3,/match/fiorentina/piacenza/2002,2002,13,serie_a,18,34,2,1,3,15,3,2,7,15,24,LWWWWDWLLWDW,2,2,2,7,7,17,3,3,6,16,18,DLWWWLDLWLDL,1,3,2,8,10,LWWDLD,DWLDWD
+Atalanta,Inter,2-4,/match/atalanta/internazionale/2002,2002,13,serie_a,18,34,2,2,4,11,4,3,5,13,19,WLWWDDWLLDWL,2,2,2,5,9,2,7,4,1,20,9,WDWLWWDLDWDW,1,4,0,4,3,LWDLDW,DLDDD
+Bologna,Torino,1-0,/match/bologna/torino-fc/2002,2002,13,serie_a,18,34,0,1,0,9,5,2,5,8,10,WWWLWLLDDWWL,3,1,2,6,6,8,4,4,4,15,16,DLDLWWDWWWDW,0,4,2,6,11,WWLDWL,DDWDWD
+Piacenza,Bologna,2-0,/match/piacenza/bologna/2002,2002,14,serie_a,18,34,0,2,0,16,4,3,6,19,19,DLWWWLDLWLDLL,2,0,4,8,8,7,6,2,5,9,10,WWWLWLLDDWWLW,2,1,3,2,4,LWWLLL,WLWLDW
+Chievo,Lecce,2-1,/match/chievo/lecce/2002,2002,14,serie_a,18,34,0,2,1,2,8,2,3,27,15,LWWWLWDWWDWWW,6,0,0,15,3,14,3,4,6,15,21,DLDDWLWWLWWDL,1,2,3,6,12,WWWWWW,LDWWWD
+Torino,Atalanta,1-2,/match/torino-fc/atalanta/2002,2002,14,serie_a,18,34,2,1,2,10,4,4,5,15,17,DLDLWWDWWWDWW,4,0,2,9,5,11,4,3,6,15,23,WLWWDDWLLDWLL,2,1,3,8,10,LLWWWW,WWDWLL
+Perugia,Venezia,2-0,/match/perugia/venezia/2002,2002,14,serie_a,18,34,0,2,0,12,3,4,6,12,18,WDDLWLDWWWDWW,2,3,1,6,4,18,0,4,9,8,21,WLWLWLDDWDWDW,0,1,6,5,15,DLWDWD,WWWDWWW
+Udinese,Hellas Verona,2-1,/match/udinese/hellas-verona-fc/2002,2002,14,serie_a,18,34,0,2,1,13,5,3,5,21,21,DDLLLLDLLLLWW,1,2,4,10,15,8,5,4,4,17,19,DLDWWWLLDDWWW,2,1,3,6,11,DLLDLLW,LWWLDW
+Parma,Roma,1-2,/match/parma-fc/roma/2002,2002,14,serie_a,18,34,2,1,2,15,2,5,6,13,18,DDWWDWDWDWWLW,2,3,1,9,8,3,6,6,1,18,8,DDWWLDDWWDDLW,2,3,1,7,5,DWDDWL,DWLDDL
+Brescia,Inter,1-3,/match/brescia/internazionale/2002,2002,14,serie_a,18,34,2,1,3,9,4,6,3,18,20,DLDWDDDLWWDWW,2,4,0,13,10,1,8,4,1,24,11,WDWLWWDLDWDWL,2,4,0,8,5,DDDDWW,DLDDDL
+Lazio,Fiorentina,3-0,/match/lazio/fiorentina/2002,2002,14,serie_a,18,34,0,3,0,6,5,5,3,16,10,DDDWDWWDWWLWL,3,3,0,9,1,17,3,2,8,16,27,LWWWWDWLLWDWL,1,0,5,8,17,DDDWWW,WWWLWW
+Milan,Juventus,1-1,/match/milan/juventus-fc/2002,2002,14,serie_a,18,34,1,1,1,5,6,5,2,22,15,DWLWWDDLDWDLW,3,3,0,11,5,4,5,6,2,20,12,WLWDLDDDDDWWW,1,4,1,5,4,WWDDDW,LDDDDW
+Inter,Chievo,1-2,/match/internazionale/chievo/2002,2002,15,serie_a,18,34,2,1,2,1,9,4,1,27,12,WDWLWWDLDWDWLL,6,0,1,16,6,2,9,2,3,29,16,LWWWLWDWWDWWWW,2,2,3,12,12,WWWWLWW,LWLDDWW
+Hellas Verona,Lazio,3-1,/match/hellas-verona-fc/lazio/2002,2002,15,serie_a,18,34,0,3,1,8,5,4,5,18,21,DLDWWWLLDDWWWW,3,3,1,11,8,5,6,5,3,19,10,DDDWDWWDWWLWLW,2,2,3,7,9,DDWLDWW,DWWDWLL
+Venezia,Udinese,2-1,/match/venezia/udinese/2002,2002,15,serie_a,18,34,0,2,1,18,0,4,10,8,23,WLWLWLDDWDWDWW,0,3,3,3,6,11,6,3,5,23,22,DDLLLLDLLLLWWW,4,1,1,11,6,LLLDDD,DLLLLW
+Lecce,Torino,1-1,/match/lecce/torino-fc/2002,2002,15,serie_a,18,34,1,1,1,15,3,4,7,16,23,DLDDWLWWLWWDLW,2,2,3,9,9,12,4,4,6,16,19,DLDLWWDWWWDWWL,0,4,3,6,12,DDLWLWL,DDWDWDW
+Juventus,Piacenza,2-0,/match/juventus-fc/piacenza/2002,2002,15,serie_a,18,34,0,2,0,6,5,7,2,21,13,WLWDLDDDDDWWWD,4,2,1,15,8,14,5,3,6,21,19,DLWWWLDLWLDLLW,2,3,2,11,11,WWLDDWW,DWLDWDL
+Fiorentina,Brescia,1-0,/match/fiorentina/brescia/2002,2002,15,serie_a,18,34,0,1,0,17,3,2,9,16,30,LWWWWDWLLWDWLW,2,2,3,8,10,9,4,6,4,19,23,DLDWDDDLWWDWWL,2,2,3,5,10,LWWDLDL,LWDLWDW
+Bologna,Perugia,2-1,/match/bologna/perugia/2002,2002,15,serie_a,18,34,0,2,1,7,6,2,6,9,12,WWWLWLLDDWWLWW,4,1,2,7,6,10,4,4,6,14,18,WDDLWLDWWWDWWW,1,1,5,6,14,WWLDWLW,WDLWWWW
+Atalanta,Parma,4-1,/match/atalanta/parma-fc/2002,2002,15,serie_a,18,34,0,4,1,13,5,3,6,17,24,WLWWDDWLLDWLLL,2,2,3,7,13,16,2,5,7,14,20,DDWWDWDWDWWLWL,0,2,5,4,10,LWDLDWL,DWDWWWW
+Roma,Milan,1-0,/match/roma/milan/2002,2002,15,serie_a,18,34,0,1,0,3,7,6,1,20,9,DDWWLDDWWDDLWL,4,3,0,11,3,4,6,6,2,23,16,DWLWWDDLDWDLWD,3,2,2,11,10,DWDWWDW,DLWDLWL
+Chievo,Roma,0-3,/match/chievo/roma/2002,2002,16,serie_a,18,34,2,0,3,1,10,2,3,31,17,LWWWLWDWWDWWWWL,7,0,0,17,4,2,8,6,1,21,9,DDWWLDDWWDDLWLW,3,3,1,9,6,WWWWWWW,DWLDDLL
+Lazio,Bologna,2-2,/match/lazio/bologna/2002,2002,16,serie_a,18,34,1,2,2,6,6,5,4,20,13,DDDWDWWDWWLWLWW,4,3,0,12,1,7,7,2,6,11,13,WWWLWLLDDWWLWWW,2,1,4,2,6,DDDWWWW,WLWLDWW
+Parma,Fiorentina,2-0,/match/parma-fc/fiorentina/2002,2002,16,serie_a,18,34,0,2,0,17,2,5,8,15,24,DDWWDWDWDWWLWLW,2,3,2,10,10,16,4,2,9,17,30,LWWWWDWLLWDWLWW,1,0,6,8,20,DWDDWLL,WWWLWWW
+Torino,Venezia,1-2,/match/torino-fc/venezia/2002,2002,16,serie_a,18,34,2,1,2,11,4,5,6,17,20,DLDLWWDWWWDWWLD,4,0,3,10,7,18,1,4,10,10,24,WLWLWLDDWDWDWWW,0,1,7,5,17,LLWWWWL,WWWDWWWW
+Perugia,Atalanta,2-0,/match/perugia/atalanta/2002,2002,16,serie_a,18,34,0,2,0,12,4,4,7,15,20,WDDLWLDWWWDWWWW,3,3,1,8,4,9,6,3,6,21,25,WLWWDDWLLDWLLLW,3,1,3,10,11,DLWDWDW,WWDWLLL
+Milan,Hellas Verona,2-1,/match/milan/hellas-verona-fc/2002,2002,16,serie_a,18,34,0,2,1,5,6,6,3,23,17,DWLWWDDLDWDLWDW,3,4,0,12,6,8,6,4,5,21,22,DLDWWWLLDDWWWWW,2,1,4,7,13,WWDDDWD,LWWLDWW
+Udinese,Lecce,0-1,/match/udinese/lecce/2002,2002,16,serie_a,18,34,2,0,1,13,6,3,6,24,24,DDLLLLDLLLLWWWW,2,2,4,12,16,15,3,5,7,17,24,DLDDWLWWLWWDLWD,1,2,4,7,14,DLLDLLWW,LDWWWDW
+Piacenza,Inter,2-3,/match/piacenza/internazionale/2002,2002,16,serie_a,18,34,2,2,3,14,5,3,7,21,21,DLWWWLDLWLDLLWW,3,0,4,10,8,3,9,4,2,28,14,WDWLWWDLDWDWLLL,3,4,0,11,6,LWWLLLW,DLDDDLL
+Brescia,Juventus,0-4,/match/brescia/juventus-fc/2002,2002,16,serie_a,18,34,2,0,4,10,4,6,5,19,24,DLDWDDDLWWDWWLW,2,4,1,14,13,4,6,7,2,23,13,WLWDLDDDDDWWWDW,1,5,1,6,5,DDDDWWL,LDDDDWD
+Lecce,Milan,0-1,/match/lecce/milan/2002,2002,17,serie_a,18,34,2,0,1,14,4,5,7,18,24,DLDDWLWWLWWDLWDL,2,3,3,10,10,5,7,6,3,25,18,DWLWWDDLDWDLWDWW,3,2,3,11,11,DDLWLWLD,DLWDLWLW
+Hellas Verona,Piacenza,1-0,/match/hellas-verona-fc/piacenza/2002,2002,17,serie_a,18,34,0,1,0,8,6,4,6,22,24,DLDWWWLLDDWWWWWW,4,3,1,14,9,16,5,3,8,23,24,DLWWWLDLWLDLLWWL,2,3,3,11,13,DDWLDWWW,DWLDWDLW
+Venezia,Parma,3-4,/match/venezia/parma-fc/2002,2002,17,serie_a,18,34,2,3,4,18,2,4,10,12,25,WLWLWLDDWDWDWWWL,1,3,3,5,7,15,3,5,8,17,24,DDWWDWDWDWWLWLWW,0,2,6,5,14,LLLDDDW,DWDWWWWW
+Roma,Torino,1-0,/match/roma/torino-fc/2002,2002,17,serie_a,18,34,0,1,0,1,9,6,1,24,9,DDWWLDDWWDDLWLWL,5,3,0,12,3,12,4,5,7,18,22,DLDLWWDWWWDWWLDL,0,5,3,7,13,DWDWWDWW,DDWDWDWD
+Juventus,Udinese,3-0,/match/juventus-fc/udinese/2002,2002,17,serie_a,18,34,0,3,0,4,7,7,2,27,13,WLWDLDDDDDWWWDWL,5,2,1,17,8,13,6,3,7,24,25,DDLLLLDLLLLWWWWL,4,1,2,12,8,WWLDDWWW,DLLLLWW
+Fiorentina,Perugia,1-3,/match/fiorentina/perugia/2002,2002,17,serie_a,18,34,2,1,3,17,4,2,10,17,32,LWWWWDWLLWDWLWWW,3,2,3,9,10,9,5,4,7,17,20,WDDLWLDWWWDWWWWW,1,1,6,7,16,LWWDLDLW,WDLWWWWW
+Bologna,Brescia,2-1,/match/bologna/brescia/2002,2002,17,serie_a,18,34,0,2,1,7,7,3,6,13,15,WWWLWLLDDWWLWWWD,5,1,2,9,7,11,4,6,6,19,28,DLDWDDDLWWDWWLWL,2,2,4,5,11,WWLDWLWW,LWDLWDWW
+Atalanta,Chievo,1-2,/match/atalanta/chievo/2002,2002,17,serie_a,18,34,2,1,2,10,6,3,7,21,27,WLWWDDWLLDWLLLWW,3,2,3,11,14,2,10,2,4,31,20,LWWWLWDWWDWWWWLL,3,2,3,14,13,LWDLDWLW,LWLDDWWL
+Inter,Lazio,0-0,/match/internazionale/lazio/2002,2002,17,serie_a,18,34,1,0,0,3,10,4,2,31,16,WDWLWWDLDWDWLLLL,6,0,2,17,8,6,6,6,4,22,15,DDDWDWWDWWLWLWWD,2,2,4,8,12,WWWWLWWL,DWWDWLLW
+Roma,Hellas Verona,3-2,/match/roma/hellas-verona-fc/2002,2002,18,serie_a,18,34,0,3,2,1,10,6,1,25,9,DDWWLDDWWDDLWLWLW,6,3,0,13,3,8,7,4,6,23,24,DLDWWWLLDDWWWWWWW,2,1,5,8,15,DWDWWDWWW,LWWLDWWW
+Torino,Udinese,3-1,/match/torino-fc/udinese/2002,2002,18,serie_a,18,34,0,3,1,13,4,5,8,18,23,DLDLWWDWWWDWWLDLW,4,0,4,11,9,14,6,3,8,24,28,DDLLLLDLLLLWWWWLW,4,1,3,12,11,LLWWWWLL,DLLLLWWW
+Parma,Lecce,1-1,/match/parma-fc/lecce/2002,2002,18,serie_a,18,34,1,1,1,12,4,5,8,21,27,DDWWDWDWDWWLWLWWL,3,3,2,12,10,15,4,5,8,18,25,DLDDWLWWLWWDLWDLL,2,2,4,8,14,DWDDWLLW,LDWWWDWL
+Milan,Brescia,0-0,/match/milan/brescia/2002,2002,18,serie_a,18,34,1,0,0,5,8,6,3,26,18,DWLWWDDLDWDLWDWWL,4,4,0,14,7,11,4,6,7,20,30,DLDWDDDLWWDWWLWLW,2,2,5,6,13,WWDDDWDW,LWDLWDWWW
+Venezia,Juventus,1-2,/match/venezia/juventus-fc/2002,2002,18,serie_a,18,34,2,1,2,18,2,4,11,15,29,WLWLWLDDWDWDWWWLL,1,3,4,8,11,4,8,7,2,30,13,WLWDLDDDDDWWWDWLW,2,5,1,10,5,LLLDDDWL,LDDDDWDL
+Chievo,Fiorentina,2-2,/match/chievo/fiorentina/2002,2002,18,serie_a,18,34,1,2,2,2,11,2,4,33,21,LWWWLWDWWDWWWWLLL,7,0,1,17,7,17,4,2,11,18,35,LWWWWDWLLWDWLWWWL,1,0,7,8,22,WWWWWWWL,WWWLWWWW
+Piacenza,Lazio,1-0,/match/piacenza/lazio/2002,2002,18,serie_a,18,34,0,1,0,16,5,3,9,23,25,DLWWWLDLWLDLLWWLW,3,0,5,12,11,7,6,7,4,22,15,DDDWDWWDWWLWLWWDD,2,3,4,8,12,LWWLLLWL,DWWDWLLWD
+Atalanta,Bologna,2-2,/match/atalanta/bologna/2002,2002,18,serie_a,18,34,1,2,2,10,6,3,8,22,29,WLWWDDWLLDWLLLWWL,3,2,4,12,16,6,8,3,6,15,16,WWWLWLLDDWWLWWWDW,2,2,4,4,8,LWDLDWLWL,WLWLDWWD
+Perugia,Inter,0-2,/match/perugia/internazionale/2002,2002,18,serie_a,18,34,2,0,2,9,6,4,7,20,21,WDDLWLDWWWDWWWWWL,4,3,1,10,4,3,10,5,2,31,16,WDWLWWDLDWDWLLLLD,4,4,0,14,8,DLWDWDWW,DLDDDLLL
+Brescia,Torino,1-2,/match/brescia/torino-fc/2002,2002,19,serie_a,18,34,2,1,2,13,4,7,7,20,30,DLDWDDDLWWDWWLWLWD,2,4,2,14,17,10,5,5,8,21,24,DLDLWWDWWWDWWLDLWW,0,5,4,7,14,DDDDWWLL,DDWDWDWDW
+Bologna,Chievo,3-1,/match/bologna/chievo/2002,2002,19,serie_a,18,34,0,3,1,6,8,4,6,17,18,WWWLWLLDDWWLWWWDWD,6,1,2,11,8,3,11,3,4,35,23,LWWWLWDWWDWWWWLLLD,4,2,3,16,14,WWLDWLWWW,LWLDDWWLL
+Lazio,Perugia,5-0,/match/lazio/perugia/2002,2002,19,serie_a,18,34,0,5,0,7,6,7,5,22,16,DDDWDWWDWWLWLWWDDW,4,4,0,14,3,9,6,4,8,20,23,WDDLWLDWWWDWWWWWLL,2,1,6,10,17,DDDWWWWD,WDLWWWWWL
+Hellas Verona,Venezia,1-0,/match/hellas-verona-fc/venezia/2002,2002,19,serie_a,18,34,0,1,0,8,7,4,7,25,27,DLDWWWLLDDWWWWWWWW,5,3,1,15,9,18,2,4,12,16,31,WLWLWLDDWDWDWWWLLL,1,1,7,7,18,DDWLDWWWW,WWWDWWWWL
+Udinese,Roma,1-1,/match/udinese/roma/2002,2002,19,serie_a,18,34,1,1,1,15,6,3,9,25,31,DDLLLLDLLLLWWWWLWW,2,2,5,12,17,1,11,6,1,28,11,DDWWLDDWWDDLWLWLWW,4,3,1,12,6,DLLDLLWWL,DWLDDLLL
+Inter,Parma,2-0,/match/internazionale/parma-fc/2002,2002,19,serie_a,18,34,0,2,0,2,11,5,2,33,16,WDWLWWDLDWDWLLLLDL,6,1,2,17,8,12,4,6,8,22,28,DDWWDWDWDWWLWLWWLD,1,2,6,9,17,WWWWLWWLD,DWDWWWWWL
+Lecce,Piacenza,0-0,/match/lecce/piacenza/2002,2002,19,serie_a,18,34,1,0,0,16,4,6,8,19,26,DLDDWLWWLWWDLWDLLD,2,3,4,10,11,14,6,3,9,24,25,DLWWWLDLWLDLLWWLWW,2,3,4,11,14,DDLWLWLDL,DWLDWDLWW
+Juventus,Atalanta,3-0,/match/juventus-fc/atalanta/2002,2002,19,serie_a,18,34,0,3,0,4,9,7,2,32,14,WLWDLDDDDDWWWDWLWL,6,2,1,20,8,11,6,4,8,24,31,WLWWDDWLLDWLLLWWLD,3,1,4,10,13,WWLDDWWWW,WWDWLLLW
+Fiorentina,Milan,1-1,/match/fiorentina/milan/2002,2002,19,serie_a,18,34,1,1,1,17,4,3,11,20,37,LWWWWDWLLWDWLWWWLD,3,2,4,10,13,5,8,7,3,26,18,DWLWWDDLDWDLWDWWLD,4,2,3,12,11,LWWDLDLWL,DLWDLWLWL
+Parma,Bologna,2-1,/match/parma-fc/bologna/2002,2002,20,serie_a,18,34,0,2,1,12,4,6,9,22,30,DDWWDWDWDWWLWLWWLDW,3,4,2,13,11,6,9,4,6,20,19,WWWLWLLDDWWLWWWDWDW,2,3,4,6,10,DWDDWLLWD,WLWLDWWDD
+Perugia,Hellas Verona,3-1,/match/perugia/hellas-verona-fc/2002,2002,20,serie_a,18,34,0,3,1,10,6,4,9,20,28,WDDLWLDWWWDWWWWWLLW,4,3,2,10,6,8,8,4,7,26,27,DLDWWWLLDDWWWWWWWWW,2,1,6,10,18,DLWDWDWWL,LWWLDWWWW
+Milan,Udinese,2-3,/match/milan/udinese/2002,2002,20,serie_a,18,34,2,2,3,5,8,8,3,27,19,DWLWWDDLDWDLWDWWLDD,4,5,0,14,7,15,6,4,9,26,32,DDLLLLDLLLLWWWWLWWD,4,1,4,13,14,WWDDDWDWD,DLLLLWWWW
+Roma,Piacenza,2-0,/match/roma/piacenza/2002,2002,20,serie_a,18,34,0,2,0,1,11,7,1,29,12,DDWWLDDWWDDLWLWLWWD,7,3,0,16,5,13,6,4,9,24,25,DLWWWLDLWLDLLWWLWWD,2,4,4,11,14,DWDWWDWWWW,DWLDWDLWWD
+Lecce,Brescia,1-3,/match/lecce/brescia/2002,2002,20,serie_a,18,34,2,1,3,16,4,7,8,19,26,DLDDWLWWLWWDLWDLLDD,2,4,4,10,11,14,4,7,8,21,32,DLDWDDDLWWDWWLWLWDL,2,3,5,6,13,DDLWLWLDLD,LWDLWDWWWD
+Atalanta,Fiorentina,2-0,/match/atalanta/fiorentina/2002,2002,20,serie_a,18,34,0,2,0,11,6,4,9,24,34,WLWWDDWLLDWLLLWWLDW,3,3,4,14,18,17,4,4,11,21,38,LWWWWDWLLWDWLWWWLDD,1,1,7,10,24,LWDLDWLWLD,WWWLWWWWD
+Venezia,Inter,1-1,/match/venezia/internazionale/2002,2002,20,serie_a,18,34,1,1,1,18,2,4,13,16,32,WLWLWLDDWDWDWWWLLLW,1,3,5,9,13,2,12,5,2,35,16,WDWLWWDLDWDWLLLLDLW,5,4,0,16,8,LLLDDDWLL,DLDDDLLLL
+Torino,Lazio,1-0,/match/torino-fc/lazio/2002,2002,20,serie_a,18,34,0,1,0,9,6,5,8,23,25,DLDLWWDWWWDWWLDLWWL,5,0,4,14,10,7,7,7,5,27,16,DDDWDWWDWWLWLWWDDWW,2,3,5,8,13,LLWWWWLLW,DWWDWLLWDW
+Chievo,Juventus,1-3,/match/chievo/juventus-fc/2002,2002,20,serie_a,18,34,2,1,3,4,11,3,5,36,26,LWWWLWDWWDWWWWLLLDW,7,1,1,19,9,3,10,7,2,35,14,WLWDLDDDDDWWWDWLWLW,3,5,1,12,6,WWWWWWWLD,LDDDDWDLL
+Inter,Torino,0-0,/match/internazionale/torino-fc/2002,2002,21,serie_a,18,34,1,0,0,2,12,6,2,36,17,WDWLWWDLDWDWLLLLDLWD,7,1,2,19,8,10,7,5,8,24,25,DLDLWWDWWWDWWLDLWWLW,1,5,4,9,15,WWWWLWWLDW,DDWDWDWDWL
+Piacenza,Chievo,2-2,/match/piacenza/chievo/2002,2002,21,serie_a,18,34,1,2,2,15,6,4,10,24,27,DLWWWLDLWLDLLWWLWWDW,4,0,5,13,11,4,11,3,6,37,29,LWWWLWDWWDWWWWLLLDWL,4,2,4,17,17,LWWLLLWLW,LWLDDWWLLW
+Udinese,Perugia,0-0,/match/udinese/perugia/2002,2002,21,serie_a,18,34,1,0,0,14,7,4,9,29,34,DDLLLLDLLLLWWWWLWWDL,2,3,5,13,18,9,7,4,9,23,29,WDDLWLDWWWDWWWWWLLWW,2,1,7,10,22,DLLDLLWWLD,WDLWWWWWLW
+Bologna,Venezia,1-1,/match/bologna/venezia/2002,2002,21,serie_a,18,34,1,1,1,6,9,4,7,21,21,WWWLWLLDDWWLWWWDWDWW,7,1,2,14,9,18,2,5,13,17,33,WLWLWLDDWDWDWWWLLLWD,1,1,8,7,19,WWLDWLWWWW,WWWDWWWWLW
+Juventus,Lecce,3-0,/match/juventus-fc/lecce/2002,2002,21,serie_a,18,34,0,3,0,3,11,7,2,38,15,WLWDLDDDDDWWWDWLWLWL,7,2,1,23,8,16,4,7,9,20,29,DLDDWLWWLWWDLWDLLDDL,2,3,4,9,15,WWLDDWWWWW,LDWWWDWLD
+Fiorentina,Roma,2-2,/match/fiorentina/roma/2002,2002,21,serie_a,18,34,1,2,2,17,4,4,12,21,40,LWWWWDWLLWDWLWWWLDDW,3,3,4,11,14,1,12,7,1,31,12,DDWWLDDWWDDLWLWLWWDW,4,4,1,13,7,LWWDLDLWLD,DWLDDLLLD
+Brescia,Parma,1-4,/match/brescia/parma-fc/2002,2002,21,serie_a,18,34,2,1,4,13,5,7,8,24,33,DLDWDDDLWWDWWLWLWDLL,2,4,3,15,19,12,5,6,9,24,31,DDWWDWDWDWWLWLWWLDWW,1,2,7,9,19,DDDDWWLLL,DWDWWWWWLW
+Hellas Verona,Atalanta,3-1,/match/hellas-verona-fc/atalanta/2002,2002,21,serie_a,18,34,0,3,1,8,8,4,8,27,30,DLDWWWLLDDWWWWWWWWWW,6,3,1,16,9,11,7,4,9,26,34,WLWWDDWLLDWLLLWWLDWW,3,1,5,10,16,DDWLDWWWWW,WWDWLLLWW
+Lazio,Milan,1-1,/match/lazio/milan/2002,2002,21,serie_a,18,34,1,1,1,7,7,7,6,27,17,DDDWDWWDWWLWLWWDDWWW,5,4,0,19,3,5,8,8,4,29,22,DWLWWDDLDWDLWDWWLDDL,4,3,3,13,12,DDDWWWWDW,DLWDLWLWLD
+Chievo,Udinese,1-2,/match/chievo/udinese/2002,2002,22,serie_a,18,34,2,1,2,4,11,4,6,39,31,LWWWLWDWWDWWWWLLLDWLD,7,1,2,20,12,13,7,5,9,29,34,DDLLLLDLLLLWWWWLWWDLD,5,1,4,16,16,WWWWWWWLDL,DLLLLWWWWL
+Lecce,Hellas Verona,1-1,/match/lecce/hellas-verona-fc/2002,2002,22,serie_a,18,34,1,1,1,16,4,7,10,20,32,DLDDWLWWLWWDLWDLLDDLW,2,4,5,11,14,6,9,4,8,30,31,DLDWWWLLDDWWWWWWWWWWW,2,1,7,11,21,DDLWLWLDLDL,LWWLDWWWWW
+Milan,Perugia,1-1,/match/milan/perugia/2002,2002,22,serie_a,18,34,1,1,1,7,8,9,4,30,23,DWLWWDDLDWDLWDWWLDDLD,4,5,1,16,10,10,7,5,9,23,29,WDDLWLDWWWDWWWWWLLWWD,2,2,7,10,22,WWDDDWDWDL,WDLWWWWWLWD
+Torino,Piacenza,1-1,/match/torino-fc/piacenza/2002,2002,22,serie_a,18,34,1,1,1,9,7,6,8,24,25,DLDLWWDWWWDWWLDLWWLWD,6,0,4,15,10,14,6,5,10,26,29,DLWWWLDLWLDLLWWLWWDWD,2,4,5,11,16,LLWWWWLLWW,DWLDWDLWWDW
+Atalanta,Brescia,0-0,/match/atalanta/brescia/2002,2002,22,serie_a,18,34,1,0,0,12,7,4,10,27,37,WLWWDDWLLDWLLLWWLDWWW,4,3,4,16,18,15,5,7,9,25,37,DLDWDDDLWWDWWLWLWDLLL,3,3,5,9,14,LWDLDWLWLDW,LWDLWDWWWDL
+Venezia,Fiorentina,2-0,/match/venezia/fiorentina/2002,2002,22,serie_a,18,34,0,2,0,18,2,6,13,18,34,WLWLWLDDWDWDWWWLLLWDD,1,4,5,10,14,17,4,5,12,23,42,LWWWWDWLLWDWLWWWLDDWD,1,1,8,10,26,LLLDDDWLLD,WWWLWWWWDW
+Bologna,Inter,2-1,/match/bologna/internazionale/2002,2002,22,serie_a,18,34,0,2,1,5,9,5,7,22,22,WWWLWLLDDWWLWWWDWDWWD,7,2,2,15,10,3,12,7,2,36,17,WDWLWWDLDWDWLLLLDLWDD,5,5,0,17,9,WWLDWLWWWWD,DLDDDLLLLD
+Parma,Lazio,1-0,/match/parma-fc/lazio/2002,2002,22,serie_a,18,34,0,1,0,11,6,6,9,28,32,DDWWDWDWDWWLWLWWLDWWL,4,4,2,15,12,8,7,8,6,28,18,DDDWDWWDWWLWLWWDDWWWD,2,3,6,8,14,DWDDWLLWDW,DWWDWLLWDWW
+Roma,Juventus,0-0,/match/roma/juventus-fc/2002,2002,22,serie_a,18,34,1,0,0,1,12,8,1,33,14,DDWWLDDWWDDLWLWLWWDWD,8,3,0,18,5,2,12,7,2,41,15,WLWDLDDDDDWWWDWLWLWLW,4,5,1,15,7,DWDWWDWWWWW,LDDDDWDLLL
+Juventus,Fiorentina,2-1,/match/juventus-fc/fiorentina/2002,2002,23,serie_a,18,34,0,2,1,2,12,8,2,41,15,WLWDLDDDDDWWWDWLWLWLWD,8,2,1,26,8,17,4,5,13,23,44,LWWWWDWLLWDWLWWWLDDWDW,1,1,9,10,28,WWLDDWWWWWW,WWWLWWWWDWW
+Milan,Atalanta,0-0,/match/milan/atalanta/2002,2002,23,serie_a,18,34,1,0,0,7,8,10,4,31,24,DWLWWDDLDWDLWDWWLDDLDD,4,6,1,17,11,12,7,5,10,27,37,WLWWDDWLLDWLLLWWLDWWWD,3,1,6,11,19,WWDDDWDWDLD,WWDWLLLWWW
+Parma,Torino,0-1,/match/parma-fc/torino-fc/2002,2002,23,serie_a,18,34,2,0,1,9,7,6,9,29,32,DDWWDWDWDWWLWLWWLDWWLW,5,4,2,16,12,10,7,7,8,25,26,DLDLWWDWWWDWWLDLWWLWDD,1,6,4,9,15,DWDDWLLWDWW,DDWDWDWDWLD
+Piacenza,Venezia,5-0,/match/piacenza/venezia/2002,2002,23,serie_a,18,34,0,5,0,14,6,6,10,27,30,DLWWWLDLWLDLLWWLWWDWDD,4,1,5,15,13,18,3,6,13,20,34,WLWLWLDDWDWDWWWLLLWDDW,1,2,8,8,20,LWWLLLWLWD,WWWDWWWWLWD
+Perugia,Lecce,2-1,/match/perugia/lecce/2002,2002,23,serie_a,18,34,0,2,1,11,7,6,9,24,30,WDDLWLDWWWDWWWWWLLWWDD,5,3,2,13,7,16,4,8,10,21,33,DLDDWLWWLWWDLWDLLDDLWD,2,3,5,9,18,DLWDWDWWLW,LDWWWDWLDW
+Brescia,Roma,0-0,/match/brescia/roma/2002,2002,23,serie_a,18,34,1,0,0,15,5,8,9,25,37,DLDWDDDLWWDWWLWLWDLLLD,2,4,4,16,23,1,12,9,1,33,14,DDWWLDDWWDDLWLWLWWDWDD,4,5,1,15,9,DDDDWWLLLL,DWLDDLLLDD
+Hellas Verona,Inter,0-3,/match/hellas-verona-fc/internazionale/2002,2002,23,serie_a,18,34,2,0,3,6,9,5,8,31,32,DLDWWWLLDDWWWWWWWWWWWD,7,3,1,19,10,3,12,7,3,37,19,WDWLWWDLDWDWLLLLDLWDDW,5,5,1,18,11,DDWLDWWWWWW,DLDDDLLLLDW
+Udinese,Bologna,0-1,/match/udinese/bologna/2002,2002,23,serie_a,18,34,2,0,1,13,8,5,9,31,35,DDLLLLDLLLLWWWWLWWDLDL,2,4,5,13,18,4,10,5,7,24,23,WWWLWLLDDWWLWWWDWDWWDW,2,3,5,7,12,DLLDLLWWLDD,WLWLDWWDDW
+Lazio,Chievo,1-1,/match/lazio/chievo/2002,2002,23,serie_a,18,34,1,1,1,8,7,8,7,28,19,DDDWDWWDWWLWLWWDDWWWDW,5,5,0,20,4,5,11,4,7,40,33,LWWWLWDWWDWWWWLLLDWLDL,4,3,4,19,19,DDDWWWWDWD,LWLDDWWLLWD
+Roma,Perugia,1-0,/match/roma/perugia/2002,2002,24,serie_a,18,34,0,1,0,1,12,10,1,33,14,DDWWLDDWWDDLWLWLWWDWDDD,8,4,0,18,5,9,8,6,9,26,31,WDDLWLDWWWDWWWWWLLWWDDW,2,3,7,11,23,DWDWWDWWWWWD,WDLWWWWWLWDD
+Bologna,Hellas Verona,2-1,/match/bologna/hellas-verona-fc/2002,2002,24,serie_a,18,34,0,2,1,4,11,5,7,25,23,WWWLWLLDDWWLWWWDWDWWDWL,8,2,2,17,11,7,9,5,9,31,35,DLDWWWLLDDWWWWWWWWWWWDL,2,2,7,12,22,WWLDWLWWWWDW,LWWLDWWWWWD
+Venezia,Milan,1-4,/match/venezia/milan/2002,2002,24,serie_a,18,34,2,1,4,18,3,6,14,20,39,WLWLWLDDWDWDWWWLLLWDDWW,2,4,5,12,14,6,8,11,4,31,24,DWLWWDDLDWDLWDWWLDDLDDD,4,4,3,14,13,LLLDDDWLLDW,DLWDLWLWLDD
+Inter,Udinese,3-2,/match/internazionale/udinese/2002,2002,24,serie_a,18,34,0,3,2,3,13,7,3,40,19,WDWLWWDLDWDWLLLLDLWDDWL,7,2,2,19,8,14,8,5,10,31,36,DDLLLLDLLLLWWWWLWWDLDLL,6,1,4,18,17,WWWWLWWLDWD,DLLLLWWWWLL
+Fiorentina,Lecce,1-2,/match/fiorentina/lecce/2002,2002,24,serie_a,18,34,2,1,2,17,4,5,14,24,46,LWWWWDWLLWDWLWWWLDDWDWW,3,4,4,13,16,16,4,8,11,22,35,DLDDWLWWLWWDLWDLLDDLWDW,2,3,6,10,20,LWWDLDLWLDD,LDWWWDWLDWW
+Piacenza,Parma,2-3,/match/piacenza/parma-fc/2002,2002,24,serie_a,18,34,2,2,3,13,7,6,10,32,30,DLWWWLDLWLDLLWWLWWDWDDW,5,1,5,20,13,11,7,6,10,29,33,DDWWDWDWDWWLWLWWLDWWLWL,2,2,7,13,20,LWWLLLWLWDW,DWDWWWWWLWL
+Chievo,Brescia,1-1,/match/chievo/brescia/2002,2002,24,serie_a,18,34,1,1,1,5,11,5,7,41,34,LWWWLWDWWDWWWWLLLDWLDLD,7,1,3,21,14,15,5,9,9,25,37,DLDWDDDLWWDWWLWLWDLLLDD,3,4,5,9,14,WWWWWWWLDLL,LWDLWDWWWDLD
+Atalanta,Lazio,0-1,/match/atalanta/lazio/2002,2002,24,serie_a,18,34,2,0,1,12,7,6,10,27,37,WLWWDDWLLDWLLLWWLDWWWDD,4,4,4,16,18,8,7,9,7,29,20,DDDWDWWDWWLWLWWDDWWWDWD,2,3,7,8,15,LWDLDWLWLDWD,DWWDWLLWDWWW
+Torino,Juventus,2-2,/match/torino-fc/juventus-fc/2002,2002,24,serie_a,18,34,1,2,2,10,8,7,8,26,26,DLDLWWDWWWDWWLDLWWLWDDL,6,1,4,16,11,2,13,8,2,43,16,WLWDLDDDDDWWWDWLWLWLWDW,4,6,1,15,7,LLWWWWLLWWD,LDDDDWDLLLD
+Perugia,Torino,2-0,/match/perugia/torino-fc/2002,2002,25,serie_a,18,34,0,2,0,10,8,6,10,26,32,WDDLWLDWWWDWWWWWLLWWDDWW,6,3,2,15,8,9,8,8,8,28,28,DLDLWWDWWWDWWLDLWWLWDDLD,2,6,4,10,15,DLWDWDWWLWW,DDWDWDWDWLDL
+Lazio,Venezia,4-2,/match/lazio/venezia/2002,2002,25,serie_a,18,34,0,4,2,7,8,9,7,30,20,DDDWDWWDWWLWLWWDDWWWDWDL,5,6,0,21,5,18,3,6,15,21,43,WLWLWLDDWDWDWWWLLLWDDWWL,1,2,9,8,25,DDDWWWWDWDD,WWWDWWWWLWDW
+Lecce,Roma,1-1,/match/lecce/roma/2002,2002,25,serie_a,18,34,1,1,1,16,5,8,11,24,36,DLDDWLWWLWWDLWDLLDDLWDWL,2,5,5,12,15,1,13,10,1,34,14,DDWWLDDWWDDLWLWLWWDWDDDW,4,6,1,15,9,DDLWLWLDLDLD,DWLDDLLLDDD
+Brescia,Piacenza,2-2,/match/brescia/piacenza/2002,2002,25,serie_a,18,34,1,2,2,15,5,10,9,26,38,DLDWDDDLWWDWWLWLWDLLLDDD,2,5,4,16,23,13,7,6,11,34,33,DLWWWLDLWLDLLWWLWWDWDDWL,2,5,5,12,17,DDDDWWLLLLD,DWLDWDLWWDWD
+Hellas Verona,Fiorentina,1-2,/match/hellas-verona-fc/fiorentina/2002,2002,25,serie_a,18,34,2,1,2,8,9,5,10,32,37,DLDWWWLLDDWWWWWWWWWWWDLW,7,3,2,19,13,17,4,5,15,25,48,LWWWWDWLLWDWLWWWLDDWDWWL,1,1,10,11,30,DDWLDWWWWWWL,WWWLWWWWDWWW
+Udinese,Atalanta,1-2,/match/udinese/atalanta/2002,2002,25,serie_a,18,34,2,1,2,14,8,5,11,33,39,DDLLLLDLLLLWWWWLWWDLDLLW,2,4,6,13,19,12,7,6,11,27,38,WLWWDDWLLDWLLLWWLDWWWDDL,3,2,6,11,19,DLLDLLWWLDDL,WWDWLLLWWWD
+Juventus,Bologna,2-1,/match/juventus-fc/bologna/2002,2002,25,serie_a,18,34,0,2,1,2,13,9,2,45,18,WLWDLDDDDDWWWDWLWLWLWDWD,9,2,1,28,9,4,12,5,7,27,24,WWWLWLLDDWWLWWWDWDWWDWLW,3,3,5,8,12,WWLDDWWWWWWW,WLWLDWWDDWL
+Milan,Inter,0-1,/match/milan/internazionale/2002,2002,25,serie_a,18,34,2,0,1,6,9,11,4,35,25,DWLWWDDLDWDLWDWWLDDLDDDL,4,7,1,17,11,3,14,7,3,43,21,WDWLWWDLDWDWLLLLDLWDDWLW,6,5,1,21,11,WWDDDWDWDLDD,DLDDDLLLLDWL
+Parma,Chievo,0-0,/match/parma-fc/chievo/2002,2002,25,serie_a,18,34,1,0,0,11,8,6,10,32,35,DDWWDWDWDWWLWLWWLDWWLWLL,5,4,3,16,13,5,11,6,7,42,35,LWWWLWDWWDWWWWLLLDWLDLDD,4,4,4,20,20,DWDDWLLWDWWL,LWLDDWWLLWDD
+Inter,Juventus,2-2,/match/internazionale/juventus-fc/2002,2002,26,serie_a,18,34,1,2,2,3,15,7,3,44,21,WDWLWWDLDWDWLLLLDLWDDWLWL,8,2,2,22,10,2,14,9,2,47,19,WLWDLDDDDDWWWDWLWLWLWDWDW,4,7,1,17,9,WWWWLWWLDWDW,LDDDDWDLLLDD
+Hellas Verona,Parma,1-0,/match/hellas-verona-fc/parma-fc/2002,2002,26,serie_a,18,34,0,1,0,9,9,5,11,33,39,DLDWWWLLDDWWWWWWWWWWWDLWL,7,3,3,20,15,11,8,7,10,32,35,DDWWDWDWDWWLWLWWLDWWLWLLD,3,2,7,16,22,DDWLDWWWWWWLL,DWDWWWWWLWLL
+Venezia,Brescia,1-2,/match/venezia/brescia/2002,2002,26,serie_a,18,34,2,1,2,18,3,6,16,23,47,WLWLWLDDWDWDWWWLLLWDDWWLW,2,4,6,13,18,14,5,11,9,28,40,DLDWDDDLWWDWWLWLWDLLLDDDD,3,5,5,10,15,LLLDDDWLLDWL,LWDLWDWWWDLDD
+Atalanta,Lecce,2-1,/match/atalanta/lecce/2002,2002,26,serie_a,18,34,0,2,1,12,8,6,11,29,39,WLWWDDWLLDWLLLWWLDWWWDDLL,4,4,5,16,19,16,5,9,11,25,37,DLDDWLWWLWWDLWDLLDDLWDWLD,3,3,6,12,21,LWDLDWLWLDWDL,LDWWWDWLDWWL
+Fiorentina,Udinese,0-0,/match/fiorentina/udinese/2002,2002,26,serie_a,18,34,1,0,0,17,5,5,15,27,49,LWWWWDWLLWDWLWWWLDDWDWWLL,3,4,5,14,18,15,8,5,12,34,41,DDLLLLDLLLLWWWWLWWDLDLLWL,6,1,5,20,20,LWWDLDLWLDDL,DLLLLWWWWLLW
+Bologna,Milan,2-0,/match/bologna/milan/2002,2002,26,serie_a,18,34,0,2,0,4,12,5,8,28,26,WWWLWLLDDWWLWWWDWDWWDWLWW,9,2,2,19,12,7,9,11,5,35,26,DWLWWDDLDWDLWDWWLDDLDDDLL,5,4,3,18,14,WWLDWLWWWWDWW,DLWDLWLWLDDL
+Piacenza,Perugia,2-0,/match/piacenza/perugia/2002,2002,26,serie_a,18,34,0,2,0,13,7,7,11,36,35,DLWWWLDLWLDLLWWLWWDWDDWLD,5,1,6,22,16,8,9,6,10,28,32,WDDLWLDWWWDWWWWWLLWWDDWWW,2,3,8,11,24,LWWLLLWLWDWL,WDLWWWWWLWDDW
+Torino,Chievo,2-2,/match/torino-fc/chievo/2002,2002,26,serie_a,18,34,1,2,2,10,8,8,9,28,30,DLDLWWDWWWDWWLDLWWLWDDLDW,6,2,4,18,13,5,11,7,7,42,35,LWWWLWDWWDWWWWLLLDWLDLDDD,4,5,4,20,20,LLWWWWLLWWDD,LWLDDWWLLWDDD
+Lazio,Roma,1-5,/match/lazio/roma/2002,2002,26,serie_a,18,34,2,1,5,6,9,9,7,34,22,DDDWDWWDWWLWLWWDDWWWDWDLW,6,6,0,25,7,1,13,11,1,35,15,DDWWLDDWWDDLWLWLWWDWDDDWD,4,7,1,16,10,DDDWWWWDWDDW,DWLDDLLLDDDD
+Roma,Atalanta,3-1,/match/roma/atalanta/2002,2002,27,serie_a,18,34,0,3,1,1,14,11,1,40,16,DDWWLDDWWDDLWLWLWWDWDDDWDL,9,4,0,19,5,12,9,6,11,31,40,WLWWDDWLLDWLLLWWLDWWWDDLLW,4,2,6,13,20,DWDWWDWWWWWDW,WWDWLLLWWWDL
+Fiorentina,Bologna,1-1,/match/fiorentina/bologna/2002,2002,27,serie_a,18,34,1,1,1,17,5,6,15,27,49,LWWWWDWLLWDWLWWWLDDWDWWLLD,3,5,5,14,18,4,13,5,8,30,26,WWWLWLLDDWWLWWWDWDWWDWLWWW,3,3,6,9,14,LWWDLDLWLDDLD,WLWLDWWDDWLW
+Brescia,Lazio,1-1,/match/brescia/lazio/2002,2002,27,serie_a,18,34,1,1,1,14,6,11,9,30,41,DLDWDDDLWWDWWLWLWDLLLDDDDL,2,6,4,18,25,6,9,9,8,35,27,DDDWDWWDWWLWLWWDDWWWDWDLWL,3,3,7,9,15,DDDDWWLLLLDD,DWWDWLLWDWWWL
+Lecce,Inter,1-2,/match/lecce/internazionale/2002,2002,27,serie_a,18,34,2,1,2,16,5,9,12,26,39,DLDDWLWWLWWDLWDLLDDLWDWLDW,2,6,5,13,16,3,15,8,3,46,23,WDWLWWDLDWDWLLLLDLWDDWLWLD,7,5,1,22,11,DDLWLWLDLDLDD,DLDDDLLLLDWLL
+Udinese,Piacenza,1-1,/match/udinese/piacenza/2002,2002,27,serie_a,18,34,1,1,1,15,8,6,12,34,41,DDLLLLDLLLLWWWWLWWDLDLLWLD,2,4,7,14,21,13,8,7,11,38,35,DLWWWLDLWLDLLWWLWWDWDDWLDW,2,6,5,14,19,DLLDLLWWLDDLL,DWLDWDLWWDWDD
+Perugia,Parma,2-1,/match/perugia/parma-fc/2002,2002,27,serie_a,18,34,0,2,1,9,9,6,11,28,34,WDDLWLDWWWDWWWWWLLWWDDWWWW,7,3,2,17,8,11,8,7,11,32,36,DDWWDWDWDWWLWLWWLDWWLWLLDW,3,2,8,16,23,DLWDWDWWLWWW,DWDWWWWWLWLLW
+Chievo,Venezia,1-1,/match/chievo/venezia/2002,2002,27,serie_a,18,34,1,1,1,5,11,8,7,44,37,LWWWLWDWWDWWWWLLLDWLDLDDDD,7,2,3,22,15,18,3,6,17,24,49,WLWLWLDDWDWDWWWLLLWDDWWLWL,1,2,10,10,29,WWWWWWWLDLLD,WWWDWWWWLWDWW
+Juventus,Hellas Verona,1-0,/match/juventus-fc/hellas-verona-fc/2002,2002,27,serie_a,18,34,0,1,0,2,14,10,2,49,21,WLWDLDDDDDWWWDWLWLWLWDWDWD,10,2,1,30,10,8,10,5,11,34,39,DLDWWWLLDDWWWWWWWWWWWDLWLW,2,2,8,13,24,WWLDDWWWWWWWW,LWWLDWWWWWDW
+Milan,Torino,2-1,/match/milan/torino-fc/2002,2002,27,serie_a,18,34,0,2,1,7,9,11,6,35,28,DWLWWDDLDWDLWDWWLDDLDDDLLW,4,7,2,17,12,10,8,9,9,30,32,DLDLWWDWWWDWWLDLWWLWDDLDWD,2,6,5,10,17,WWDDDWDWDLDDL,DDWDWDWDWLDLW
+Parma,Juventus,1-0,/match/parma-fc/juventus-fc/2002,2002,28,serie_a,18,34,0,1,0,11,8,7,12,33,38,DDWWDWDWDWWLWLWWLDWWLWLLDWW,5,5,3,16,13,2,15,10,2,50,21,WLWDLDDDDDWWWDWLWLWLWDWDWDW,4,8,1,19,11,DWDDWLLWDWWLD,LDDDDWDLLLDDD
+Venezia,Atalanta,0-1,/match/venezia/atalanta/2002,2002,28,serie_a,18,34,2,0,1,18,3,7,17,25,50,WLWLWLDDWDWDWWWLLLWDDWWLWLD,2,4,7,14,20,12,9,6,12,32,43,WLWWDDWLLDWLLLWWLDWWWDDLLWW,4,2,7,14,23,LLLDDDWLLDWLL,WWDWLLLWWWDLW
+Torino,Fiorentina,1-0,/match/torino-fc/fiorentina/2002,2002,28,serie_a,18,34,0,1,0,10,8,9,10,31,34,DLDLWWDWWWDWWLDLWWLWDDLDWDW,6,3,4,20,15,17,5,7,15,28,50,LWWWWDWLLWDWLWWWLDDWDWWLLDD,2,1,10,13,31,LLWWWWLLWWDDD,WWWLWWWWDWWWL
+Bologna,Lecce,4-3,/match/bologna/lecce/2002,2002,28,serie_a,18,34,0,4,3,4,13,6,8,31,27,WWWLWLLDDWWLWWWDWDWWDWLWWWD,10,2,2,21,12,16,5,9,13,27,41,DLDDWLWWLWWDLWDLLDDLWDWLDWL,3,3,7,13,23,WWLDWLWWWWDWWW,LDWWWDWLDWWLW
+Lazio,Udinese,2-0,/match/lazio/udinese/2002,2002,28,serie_a,18,34,0,2,0,7,9,10,8,36,28,DDDWDWWDWWLWLWWDDWWWDWDLWLD,6,6,1,26,12,15,8,7,12,35,42,DDLLLLDLLLLWWWWLWWDLDLLWLDD,6,2,5,20,20,DDDWWWWDWDDWL,DLLLLWWWWLLWD
+Piacenza,Milan,0-1,/match/piacenza/milan/2002,2002,28,serie_a,18,34,2,0,1,13,8,8,11,39,36,DLWWWLDLWLDLLWWLWWDWDDWLDWD,6,1,6,24,16,6,10,11,6,37,29,DWLWWDDLDWDLWDWWLDDLDDDLLWW,5,4,4,18,16,LWWLLLWLWDWLW,DLWDLWLWLDDLW
+Brescia,Perugia,3-0,/match/brescia/perugia/2002,2002,28,serie_a,18,34,0,3,0,14,6,12,9,31,42,DLDWDDDLWWDWWLWLWDLLLDDDDLD,2,7,4,19,26,8,10,6,11,30,35,WDDLWLDWWWDWWWWWLLWWDDWWWWW,2,3,9,11,26,DDDDWWLLLLDDD,WDLWWWWWLWDDWW
+Chievo,Hellas Verona,2-1,/match/chievo/hellas-verona-fc/2002,2002,28,serie_a,18,34,0,2,1,5,11,9,7,45,38,LWWWLWDWWDWWWWLLLDWLDLDDDDD,7,3,3,23,16,9,10,5,12,34,40,DLDWWWLLDDWWWWWWWWWWWDLWLWW,2,2,9,13,25,WWWWWWWLDLLDD,LWWLDWWWWWDWW
+Inter,Roma,3-1,/match/internazionale/roma/2002,2002,28,serie_a,18,34,0,3,1,3,16,8,3,48,24,WDWLWWDLDWDWLLLLDLWDDWLWLDL,8,3,2,24,12,1,15,11,1,43,17,DDWWLDDWWDDLWLWLWWDWDDDWDLW,5,7,1,21,11,WWWWLWWLDWDWD,DWLDDLLLDDDDL
+Roma,Bologna,3-1,/match/roma/bologna/2002,2002,29,serie_a,18,34,0,3,1,1,15,11,2,44,20,DDWWLDDWWDDLWLWLWWDWDDDWDLWW,10,4,0,22,6,4,14,6,8,35,30,WWWLWLLDDWWLWWWDWDWWDWLWWWDW,3,4,6,10,15,DWDWWDWWWWWDWW,WLWLDWWDDWLWD
+Fiorentina,Inter,0-1,/match/fiorentina/internazionale/2002,2002,29,serie_a,18,34,2,0,1,17,5,7,16,28,51,LWWWWDWLLWDWLWWWLDDWDWWLLDDW,3,6,5,15,19,3,17,8,3,51,25,WDWLWWDLDWDWLLLLDLWDDWLWLDLW,8,5,1,24,12,LWWDLDLWLDDLDD,DLDDDLLLLDWLLL
+Udinese,Brescia,3-2,/match/udinese/brescia/2002,2002,29,serie_a,18,34,0,3,2,15,8,7,13,35,44,DDLLLLDLLLLWWWWLWWDLDLLWLDDW,2,5,7,15,22,13,7,12,9,34,42,DLDWDDDLWWDWWLWLWDLLLDDDDLDW,4,5,5,12,16,DLLDLLWWLDDLLD,LWDLWDWWWDLDDL
+Atalanta,Piacenza,1-1,/match/atalanta/piacenza/2002,2002,29,serie_a,18,34,1,1,1,12,10,6,12,33,43,WLWWDDWLLDWLLLWWLDWWWDDLLWWL,5,4,5,18,20,14,8,8,12,39,37,DLWWWLDLWLDLLWWLWWDWDDWLDWDL,2,7,5,15,20,LWDLDWLWLDWDLW,DWLDWDLWWDWDDD
+Milan,Parma,3-1,/match/milan/parma-fc/2002,2002,29,serie_a,18,34,0,3,1,6,11,11,6,38,29,DWLWWDDLDWDLWDWWLDDLDDDLLWWL,5,7,2,19,13,11,9,7,12,34,38,DDWWDWDWDWWLWLWWLDWWLWLLDWWW,3,2,9,17,25,WWDDDWDWDLDDLW,DWDWWWWWLWLLWW
+Lecce,Venezia,2-1,/match/lecce/venezia/2002,2002,29,serie_a,18,34,0,2,1,16,5,9,14,30,45,DLDDWLWWLWWDLWDLLDDLWDWLDWLW,2,6,6,14,18,18,3,7,18,25,51,WLWLWLDDWDWDWWWLLLWDDWWLWLDL,1,3,10,11,30,DDLWLWLDLDLDDL,WWWDWWWWLWDWWD
+Hellas Verona,Torino,0-1,/match/hellas-verona-fc/torino-fc/2002,2002,29,serie_a,18,34,2,0,1,10,10,5,13,35,42,DLDWWWLLDDWWWWWWWWWWWDLWLWWW,8,3,3,21,15,9,9,9,10,32,34,DLDLWWDWWWDWWLDLWWLWDDLDWDWW,2,6,6,11,19,DDWLDWWWWWWLLW,DDWDWDWDWLDLWW
+Perugia,Chievo,2-2,/match/perugia/chievo/2002,2002,29,serie_a,18,34,1,2,2,8,10,6,12,30,38,WDDLWLDWWWDWWWWWLLWWDDWWWWWW,8,3,2,19,9,5,12,9,7,47,39,LWWWLWDWWDWWWWLLLDWLDLDDDDDW,4,6,4,22,22,DLWDWDWWLWWWW,LWLDDWWLLWDDDD
+Juventus,Lazio,1-1,/match/juventus-fc/lazio/2002,2002,29,serie_a,18,34,1,1,1,2,15,10,3,50,22,WLWDLDDDDDWWWDWLWLWLWDWDWDWW,11,2,1,31,10,7,10,10,8,38,28,DDDWDWWDWWLWLWWDDWWWDWDLWLDW,3,4,7,10,16,WWLDDWWWWWWWWW,DWWDWLLWDWWWLD
+Torino,Bologna,1-1,/match/torino-fc/bologna/2002,2002,30,serie_a,18,34,1,1,1,9,10,9,10,33,34,DLDLWWDWWWDWWLDLWWLWDDLDWDWWL,7,3,4,21,15,4,14,6,9,36,33,WWWLWLLDDWWLWWWDWDWWDWLWWWDWW,3,4,7,11,18,LLWWWWLLWWDDDW,WLWLDWWDDWLWDW
+Inter,Atalanta,1-2,/match/internazionale/atalanta/2002,2002,30,serie_a,18,34,2,1,2,3,18,8,3,52,25,WDWLWWDLDWDWLLLLDLWDDWLWLDLWL,9,3,2,27,13,12,10,7,12,34,44,WLWWDDWLLDWLLLWWLDWWWDDLLWWLD,5,2,7,15,23,WWWWLWWLDWDWDW,WWDWLLLWWWDLWL
+Piacenza,Fiorentina,3-0,/match/piacenza/fiorentina/2002,2002,30,serie_a,18,34,0,3,0,14,8,9,12,40,38,DLWWWLDLWLDLLWWLWWDWDDWLDWDLD,6,1,7,24,17,17,5,7,17,28,52,LWWWWDWLLWDWLWWWLDDWDWWLLDDWL,2,1,11,13,32,LWWLLLWLWDWLWL,WWWLWWWWDWWWLW
+Perugia,Juventus,0-4,/match/perugia/juventus-fc/2002,2002,30,serie_a,18,34,2,0,4,8,10,7,12,32,40,WDDLWLDWWWDWWWWWLLWWDDWWWWWWD,8,4,2,21,11,2,15,11,3,51,23,WLWDLDDDDDWWWDWLWLWLWDWDWDWWD,4,8,2,19,12,DLWDWDWWLWWWWD,LDDDDWDLLLDDDW
+Venezia,Roma,2-2,/match/venezia/roma/2002,2002,30,serie_a,18,34,1,2,2,18,3,7,19,26,53,WLWLWLDDWDWDWWWLLLWDDWWLWLDLW,2,4,8,14,21,1,16,11,2,47,21,DDWWLDDWWDDLWLWLWWDWDDDWDLWWW,5,7,2,22,14,LLLDDDWLLDWLLL,DWLDDLLLDDDDLW
+Parma,Udinese,2-0,/match/parma-fc/udinese/2002,2002,30,serie_a,18,34,0,2,0,11,9,7,13,35,41,DDWWDWDWDWWLWLWWLDWWLWLLDWWWW,6,5,3,17,13,15,9,7,13,38,46,DDLLLLDLLLLWWWWLWWDLDLLWLDDWW,6,2,6,20,22,DWDDWLLWDWWLDW,DLLLLWWWWLLWDW
+Chievo,Milan,1-1,/match/chievo/milan/2002,2002,30,serie_a,18,34,1,1,1,6,12,10,7,49,41,LWWWLWDWWDWWWWLLLDWLDLDDDDDWD,8,3,3,25,17,5,12,11,6,41,30,DWLWWDDLDWDLWDWWLDDLDDDLLWWLW,6,4,4,19,16,WWWWWWWLDLLDDW,DLWDLWLWLDDLWL
+Brescia,Hellas Verona,0-0,/match/brescia/hellas-verona-fc/2002,2002,30,serie_a,18,34,1,0,0,13,7,12,10,36,45,DLDWDDDLWWDWWLWLWDLLLDDDDLDWW,3,7,4,22,26,10,10,5,14,35,43,DLDWWWLLDDWWWWWWWWWWWDLWLWWWL,2,2,10,14,27,DDDDWWLLLLDDDW,LWWLDWWWWWDWWW
+Lazio,Lecce,1-0,/match/lazio/lecce/2002,2002,30,serie_a,18,34,0,1,0,7,10,11,8,39,29,DDDWDWWDWWLWLWWDDWWWDWDLWLDWD,7,6,1,28,12,16,6,9,14,32,46,DLDDWLWWLWWDLWDLLDDLWDWLDWLWW,3,3,8,16,27,DDDWWWWDWDDWLW,LDWWWDWLDWWLWW
+Fiorentina,Lazio,0-1,/match/fiorentina/lazio/2002,2002,31,serie_a,18,34,2,0,1,17,5,7,18,28,55,LWWWWDWLLWDWLWWWLDDWDWWLLDDWLW,3,6,6,15,20,7,11,11,8,40,29,DDDWDWWDWWLWLWWDDWWWDWDLWLDWDW,3,5,7,11,17,LWWDLDLWLDDLDDL,DWWDWLLWDWWWLDD
+Inter,Brescia,2-1,/match/internazionale/brescia/2002,2002,31,serie_a,18,34,0,2,1,3,18,8,4,53,27,WDWLWWDLDWDWLLLLDLWDDWLWLDLWLL,9,3,3,28,15,14,7,13,10,36,45,DLDWDDDLWWDWWLWLWDLLLDDDDLDWWD,4,5,6,14,19,WWWWLWWLDWDWDWL,LWDLWDWWWDLDDLW
+Bologna,Piacenza,1-2,/match/bologna/piacenza/2002,2002,31,serie_a,18,34,2,1,2,4,14,7,9,37,34,WWWLWLLDDWWLWWWDWDWWDWLWWWDWWD,11,2,2,25,15,13,9,9,12,43,38,DLWWWLDLWLDLLWWLWWDWDDWLDWDLDW,2,8,5,16,21,WWLDWLWWWWDWWWW,DWLDWDLWWDWDDDD
+Roma,Parma,3-1,/match/roma/parma-fc/2002,2002,31,serie_a,18,34,0,3,1,1,16,12,2,49,23,DDWWLDDWWDDLWLWLWWDWDDDWDLWWWD,11,4,0,25,7,10,10,7,13,37,41,DDWWDWDWDWWLWLWWLDWWLWLLDWWWWW,3,2,10,18,28,DWDWWDWWWWWDWWW,DWDWWWWWLWLLWWW
+Hellas Verona,Udinese,1-0,/match/hellas-verona-fc/udinese/2002,2002,31,serie_a,18,34,0,1,0,11,10,6,14,35,43,DLDWWWLLDDWWWWWWWWWWWDLWLWWWLD,8,3,4,21,16,15,9,7,14,38,48,DDLLLLDLLLLWWWWLWWDLDLLWLDDWWW,6,2,7,20,24,DDWLDWWWWWWLLWL,DLLLLWWWWLLWDWW
+Juventus,Milan,1-0,/match/juventus-fc/milan/2002,2002,31,serie_a,18,34,0,1,0,2,16,11,3,55,23,WLWDLDDDDDWWWDWLWLWLWDWDWDWWDL,11,3,1,32,11,5,12,12,6,42,31,DWLWWDDLDWDLWDWWLDDLDDDLLWWLWD,6,5,4,20,17,WWLDDWWWWWWWWWD,DLWDLWLWLDDLWLD
+Venezia,Perugia,0-2,/match/venezia/perugia/2002,2002,31,serie_a,18,34,2,0,2,18,3,8,19,28,55,WLWLWLDDWDWDWWWLLLWDDWWLWLDLWD,2,5,8,16,23,9,10,7,13,32,44,WDDLWLDWWWDWWWWWLLWWDDWWWWWWDL,2,3,10,11,29,LLLDDDWLLDWLLLD,WDLWWWWWLWDDWWW
+Atalanta,Torino,1-1,/match/atalanta/torino-fc/2002,2002,31,serie_a,18,34,1,1,1,12,11,7,12,36,45,WLWWDDWLLDWLLLWWLDWWWDDLLWWLDL,5,5,5,19,21,8,10,10,10,34,35,DLDLWWDWWWDWWLDLWWLWDDLDWDWWLD,3,6,6,12,19,LWDLDWLWLDWDLWD,DDWDWDWDWLDLWWL
+Lecce,Chievo,2-3,/match/lecce/chievo/2002,2002,31,serie_a,18,34,2,2,3,16,6,9,15,32,47,DLDDWLWWLWWDLWDLLDDLWDWLDWLWWW,3,6,6,16,19,6,12,11,7,50,42,LWWWLWDWWDWWWWLLLDWLDLDDDDDWDD,4,7,4,24,24,DDLWLWLDLDLDDLW,LWLDDWWLLWDDDDD
+Parma,Atalanta,1-1,/match/parma-fc/atalanta/2002,2002,32,serie_a,18,34,1,1,1,12,10,7,14,38,44,DDWWDWDWDWWLWLWWLDWWLWLLDWWWWWW,7,5,3,19,13,11,11,8,12,37,46,WLWWDDWLLDWLLLWWLDWWWDDLLWWLDLD,6,2,7,17,24,DWDDWLLWDWWLDWW,WWDWLLLWWWDLWLL
+Perugia,Bologna,1-0,/match/perugia/bologna/2002,2002,32,serie_a,18,34,0,1,0,9,11,7,13,34,44,WDDLWLDWWWDWWWWWLLWWDDWWWWWWDLL,8,4,3,21,15,4,14,7,10,38,36,WWWLWLLDDWWLWWWDWDWWDWLWWWDWWDL,3,5,7,12,19,DLWDWDWWLWWWWDL,WLWLDWWDDWLWDWD
+Chievo,Inter,2-2,/match/chievo/internazionale/2002,2002,32,serie_a,18,34,1,2,2,5,13,11,7,53,44,LWWWLWDWWDWWWWLLLDWLDLDDDDDWDDL,8,4,3,26,18,3,19,8,4,55,28,WDWLWWDLDWDWLLLLDLWDDWLWLDLWLLW,9,5,1,25,12,WWWWWWWLDLLDDWD,DLDDDLLLLDWLLLL
+Brescia,Fiorentina,3-0,/match/brescia/fiorentina/2002,2002,32,serie_a,18,34,0,3,0,14,7,13,11,37,47,DLDWDDDLWWDWWLWLWDLLLDDDDLDWWDW,3,8,4,22,26,17,5,7,19,28,56,LWWWWDWLLWDWLWWWLDDWDWWLLDDWLWL,2,1,12,13,35,DDDDWWLLLLDDDWD,WWWLWWWWDWWWLWW
+Piacenza,Juventus,0-1,/match/piacenza/juventus-fc/2002,2002,32,serie_a,18,34,2,0,1,13,10,9,12,45,39,DLWWWLDLWLDLLWWLWWDWDDWLDWDLDWL,7,1,7,27,17,2,17,11,3,56,23,WLWDLDDDDDWWWDWLWLWLWDWDWDWWDLW,5,8,2,23,12,LWWLLLWLWDWLWLW,LDDDDWDLLLDDDWL
+Milan,Roma,0-0,/match/milan/roma/2002,2002,32,serie_a,18,34,1,0,0,7,12,12,7,42,32,DWLWWDDLDWDLWDWWLDDLDDDLLWWLWDW,6,7,2,22,14,1,17,12,2,52,24,DDWWLDDWWDDLWLWLWWDWDDDWDLWWWDW,5,8,2,24,16,WWDDDWDWDLDDLWW,DWLDDLLLDDDDLWD
+Torino,Lecce,1-1,/match/torino-fc/lecce/2002,2002,32,serie_a,18,34,1,1,1,8,10,11,10,35,36,DLDLWWDWWWDWWLDLWWLWDDLDWDWWLDD,7,4,4,22,16,16,6,9,16,34,50,DLDDWLWWLWWDLWDLLDDLWDWLDWLWWWL,3,3,9,16,28,LLWWWWLLWWDDDWD,LDWWWDWLDWWLWWW
+Udinese,Venezia,1-0,/match/udinese/venezia/2002,2002,32,serie_a,18,34,0,1,0,15,9,7,15,38,49,DDLLLLDLLLLWWWWLWWDLDLLWLDDWWWW,3,5,7,18,24,18,3,8,20,28,57,WLWLWLDDWDWDWWWLLLWDDWWLWLDLWDL,1,3,11,12,32,DLLDLLWWLDDLLDW,WWWDWWWWLWDWWDW
+Lazio,Hellas Verona,5-4,/match/lazio/hellas-verona-fc/2002,2002,32,serie_a,18,34,0,5,4,6,12,11,8,41,29,DDDWDWWDWWLWLWWDDWWWDWDLWLDWDWL,8,6,1,29,12,10,11,6,14,36,43,DLDWWWLLDDWWWWWWWWWWWDLWLWWWLDW,2,3,10,14,27,DDDWWWWDWDDWLWW,LWWLDWWWWWDWWWD
+Bologna,Lazio,2-0,/match/bologna/lazio/2002,2002,33,serie_a,18,34,0,2,0,5,14,7,11,38,37,WWWLWLLDDWWLWWWDWDWWDWLWWWDWWDLW,11,2,3,26,17,4,13,11,8,46,33,DDDWDWWDWWLWLWWDDWWWDWDLWLDWDWLW,4,5,7,12,17,WWLDWLWWWWDWWWWL,DWWDWLLWDWWWLDDL
+Juventus,Brescia,5-0,/match/juventus-fc/brescia/2002,2002,33,serie_a,18,34,0,5,0,2,18,11,3,57,23,WLWDLDDDDDWWWDWLWLWLWDWDWDWWDLWL,12,3,1,33,11,13,8,13,11,40,47,DLDWDDDLWWDWWLWLWDLLLDDDDLDWWDWW,4,5,7,15,21,WWLDDWWWWWWWWWDW,LWDLWDWWWDLDDLWW
+Inter,Piacenza,3-1,/match/internazionale/piacenza/2002,2002,33,serie_a,18,34,0,3,1,3,19,9,4,57,30,WDWLWWDLDWDWLLLLDLWDDWLWLDLWLLWD,10,3,3,30,16,14,10,9,13,45,40,DLWWWLDLWLDLLWWLWWDWDDWLDWDLDWLL,3,8,5,18,22,WWWWLWWLDWDWDWLW,DWLDWDLWWDWDDDDL
+Lecce,Udinese,1-2,/match/lecce/udinese/2002,2002,33,serie_a,18,34,2,1,2,16,6,10,16,35,51,DLDDWLWWLWWDLWDLLDDLWDWLDWLWWWLD,3,6,7,18,22,15,10,7,15,39,49,DDLLLLDLLLLWWWWLWWDLDLLWLDDWWWWW,6,2,8,20,25,DDLWLWLDLDLDDLWL,DLLLLWWWWLLWDWWW
+Hellas Verona,Milan,1-2,/match/hellas-verona-fc/milan/2002,2002,33,serie_a,18,34,2,1,2,10,11,6,15,40,48,DLDWWWLLDDWWWWWWWWWWWDLWLWWWLDWW,9,3,4,22,16,7,12,13,7,42,32,DWLWWDDLDWDLWDWWLDDLDDDLLWWLWDWD,6,5,5,20,18,DDWLDWWWWWWLLWLW,DLWDLWLWLDDLWLDW
+Atalanta,Perugia,2-1,/match/atalanta/perugia/2002,2002,33,serie_a,18,34,0,2,1,12,11,9,12,38,47,WLWWDDWLLDWLLLWWLDWWWDDLLWWLDLDD,5,6,5,20,22,8,12,7,13,35,44,WDDLWLDWWWDWWWWWLLWWDDWWWWWWDLLW,3,3,10,13,29,LWDLDWLWLDWDLWDD,WDLWWWWWLWDDWWWL
+Venezia,Torino,1-1,/match/venezia/torino-fc/2002,2002,33,serie_a,18,34,1,1,1,18,3,8,21,28,58,WLWLWLDDWDWDWWWLLLWDDWWLWLDLWDLW,2,5,9,16,25,9,10,12,10,36,37,DLDLWWDWWWDWWLDLWWLWDDLDWDWWLDDD,3,7,6,13,20,LLLDDDWLLDWLLLDL,DDWDWDWDWLDLWWLD
+Roma,Chievo,5-0,/match/roma/chievo/2002,2002,33,serie_a,18,34,0,5,0,1,17,13,2,52,24,DDWWLDDWWDDLWLWLWWDWDDDWDLWWWDWD,12,4,0,28,8,6,13,12,7,55,46,LWWWLWDWWDWWWWLLLDWLDLDDDDDWDDLD,5,7,4,27,26,DWDWWDWWWWWDWWWW,LWLDDWWLLWDDDDDL
+Fiorentina,Parma,1-2,/match/fiorentina/parma-fc/2002,2002,33,serie_a,18,34,2,1,2,17,5,7,20,28,59,LWWWWDWLLWDWLWWWLDDWDWWLLDDWLWLW,3,6,7,15,21,11,10,8,14,39,45,DDWWDWDWDWWLWLWWLDWWLWLLDWWWWWWD,3,2,11,19,31,LWWDLDLWLDDLDDLL,DWDWWWWWLWLLWWWW
+Chievo,Atalanta,2-1,/match/chievo/atalanta/2002,2002,34,serie_a,18,34,0,2,1,6,13,12,8,55,51,LWWWLWDWWDWWWWLLLDWLDLDDDDDWDDLDW,8,5,3,28,20,10,12,9,12,40,48,WLWWDDWLLDWLLLWWLDWWWDDLLWWLDLDDW,6,3,7,18,25,WWWWWWWLDLLDDWDD,WWDWLLLWWWDLWLLD
+Brescia,Bologna,3-0,/match/brescia/bologna/2002,2002,34,serie_a,18,34,0,3,0,13,8,13,12,40,52,DLDWDDDLWWDWWLWLWDLLLDDDDLDWWDWWW,4,8,4,25,26,4,15,7,11,40,37,WWWLWLLDDWWLWWWDWDWWDWLWWWDWWDLWW,3,5,8,12,20,DDDDWWLLLLDDDWDW,WLWLDWWDDWLWDWDW
+Lazio,Inter,4-2,/match/lazio/internazionale/2002,2002,34,serie_a,18,34,0,4,2,5,13,11,9,46,35,DDDWDWWDWWLWLWWDDWWWDWDLWLDWDWLWW,9,6,1,34,16,3,20,9,4,60,31,WDWLWWDLDWDWLLLLDLWDDWLWLDLWLLWDW,9,6,1,27,14,DDDWWWWDWDDWLWWW,DLDDDLLLLDWLLLLD
+Perugia,Fiorentina,2-0,/match/perugia/fiorentina/2002,2002,34,serie_a,18,34,0,2,0,8,12,7,14,36,46,WDDLWLDWWWDWWWWWLLWWDDWWWWWWDLLWW,9,4,3,22,15,17,5,7,21,29,61,LWWWWDWLLWDWLWWWLDDWDWWLLDDWLWLWL,2,1,13,13,38,DLWDWDWWLWWWWDLW,WWWLWWWWDWWWLWWW
+Udinese,Juventus,0-2,/match/udinese/juventus-fc/2002,2002,34,serie_a,18,34,2,0,2,15,11,7,15,41,50,DDLLLLDLLLLWWWWLWWDLDLLWLDDWWWWWL,4,5,7,19,24,2,19,11,3,62,23,WLWDLDDDDDWWWDWLWLWLWDWDWDWWDLWLW,6,8,2,24,12,DLLDLLWWLDDLLDWW,LDDDDWDLLLDDDWLL
+Torino,Roma,0-1,/match/torino-fc/roma/2002,2002,34,serie_a,18,34,2,0,1,9,10,13,10,37,38,DLDLWWDWWWDWWLDLWWLWDDLDWDWWLDDDD,7,5,4,23,17,1,18,13,2,57,24,DDWWLDDWWDDLWLWLWWDWDDDWDLWWWDWDW,5,9,2,24,16,LLWWWWLLWWDDDWDD,DWLDDLLLDDDDLWDD
+Milan,Lecce,3-0,/match/milan/lecce/2002,2002,34,serie_a,18,34,0,3,0,7,13,13,7,44,33,DWLWWDDLDWDLWDWWLDDLDDDLLWWLWDWDL,6,8,2,22,14,16,6,10,17,36,53,DLDDWLWWLWWDLWDLLDDLWDWLDWLWWWLDL,3,4,9,17,29,WWDDDWDWDLDDLWWD,LDWWWDWLDWWLWWWD
+Parma,Venezia,2-1,/match/parma-fc/venezia/2002,2002,34,serie_a,18,34,0,2,1,11,11,8,14,41,46,DDWWDWDWDWWLWLWWLDWWLWLLDWWWWWWDL,7,6,3,20,14,18,3,9,21,29,59,WLWLWLDDWDWDWWWLLLWDDWWLWLDLWDLWD,1,3,12,12,33,DWDDWLLWDWWLDWWD,WWWDWWWWLWDWWDWW
+Piacenza,Hellas Verona,3-0,/match/piacenza/hellas-verona-fc/2002,2002,34,serie_a,18,34,0,3,0,14,10,9,14,46,43,DLWWWLDLWLDLLWWLWWDWDDWLDWDLDWLLW,7,1,8,27,18,12,11,6,16,41,50,DLDWWWLLDDWWWWWWWWWWWDLWLWWWLDWWL,2,3,11,18,32,LWWLLLWLWDWLWLWL,LWWLDWWWWWDWWWDW

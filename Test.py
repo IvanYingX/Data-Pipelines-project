@@ -7,6 +7,8 @@ from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
 from Create_Database import create_standings_database
 import numpy as np
+import progressbar
+pd.options.mode.chained_assignment = None
 
 
 def get_result(x):
@@ -29,7 +31,7 @@ def get_result(x):
         Number of goals for of the away team
     '''
     result = x.split('-')
-    if len(result) > 1:
+    if len(x) == 3:
         if result[0] > result[1]:
             return 0, int(result[0]), int(result[1])
         elif result[0] == result[1]:
@@ -45,22 +47,50 @@ def get_col_name(row):
     return b.index[b.argmax()]
 
 
+umlauts = {'Ã€': 'À', 'Ã‚': 'Â', 'Ã„': 'Ä',
+           'Ã…': 'Å', 'Ã†': 'Æ', 'Ã‡': 'Ç', 'Ãˆ': 'È', 'Ã‰': 'É',
+           'ÃŠ': 'Ê', 'Ã‹': 'Ë', 'ÃŒ': 'Ì', 'ÃŽ': 'Î',
+           'Ã‘': 'Ñ', 'Ã’': 'Ò', 'Ã“': 'Ó',
+           'Ã”': 'Ô', 'Ã•': 'Õ', 'Ã–': 'Ö', 'Ã—': '×', 'Ã˜': 'Ø',
+           'Ã™': 'Ù', 'Ãš': 'Ú', 'Ã›': 'Û', 'Ãœ': 'Ü',
+           'Ãž': 'Þ', 'ÃŸ': 'ß', 'Ã ': 'à', 'Ã¡': 'á', 'Ã¢': 'â',
+           'Ã£': 'ã', 'Ã¤': 'ä', 'Ã¥': 'å', 'Ã¦': 'æ', 'Ã§': 'ç',
+           'Ã¨': 'è', 'Ã©': 'é', 'Ãª': 'ê', 'Ã«': 'ë', 'Ã¬': 'ì',
+           'Ã®': 'î', 'Ã¯': 'ï', 'Ã°': 'ð', 'Ã±': 'ñ',
+           'Ã²': 'ò', 'Ã³': 'ó', 'Ã´': 'ô', 'Ãµ': 'õ', 'Ã¶': 'ö',
+           'Ã·': '÷', 'Ã¸': 'ø', 'Ã¹': 'ù', 'Ãº': 'ú', 'Ã»': 'û',
+           'Ã¼': 'ü', 'Ã½': 'ý', 'Ã¾': 'þ', 'Ã¿': 'ÿ'}
+
+
+def clean_names(x):
+    if any(map(x.__contains__, umlauts.keys())):
+        for word, initial in umlauts.items():
+            x = x.replace(word, initial)
+    return x
+
+
 leagues = [x.split('\\')[1] for x in glob.glob('./Data/Results/*')]
-for league in leagues[:1]:
+for league in leagues[1:2]:
     os.makedirs(f"./Data/Results_Cleaned/{league}", exist_ok=True)
     seasons = glob.glob(f'./Data/Results/{league}/*')
     for season in seasons:
         # Load the data
         df = pd.read_csv(season)
+        if len(df) == 0:
+            print(f'No available data for season {season} of {league}')
+            continue
         filename = f'Cleaned_{df.loc[0]["Season"]}_{df.loc[0]["League"]}.csv'
         if os.path.exists(f"./Data/Results_Cleaned/{league}/{filename}"):
+            # TODO Read filename and check its length to compare with df
             continue
         print(f'Getting info about \tSeason: {df.loc[0]["Season"]}'
               + f'\n\t\t\tLeague: {df.loc[0]["League"]}')
         # Get the teams that were playing that season and the number of teams
         # so we use the value to normalize certain values eventually
+        df.loc[:, 'Home_Team'] = df['Home_Team'].map(clean_names)
+        df.loc[:, 'Away_Team'] = df['Away_Team'].map(clean_names)
         teams = list(set(df['Home_Team'].unique())
-                     & set(df['Away_Team'].unique()))
+                     | set(df['Away_Team'].unique()))
         df['Number_Teams'] = len(teams)
 
         # Get the number of rounds in the season, so we can use this value
@@ -70,7 +100,7 @@ for league in leagues[:1]:
         # Get the result, the goals for and the goals against
         df['Label'], df['Goals_For_Home'], df['Goals_For_Away'] = \
             zip(*df['Result'].map(get_result))
-
+        df = df[df['Label'].notna()]
         # Create a dataframe to accumulates the results during the season
         # throughout the rounds
         list_standings = ['Team', 'Position', 'Points', 'Win',
@@ -86,7 +116,7 @@ for league in leagues[:1]:
         df_standings.iloc[:, 1:-3] = 0
         df_standings.iloc[:, -3:] = ''
 
-        # Add new columns that can potentially increase the performance of
+        # Add new columns that can potentially increase the performan5ce of
         # a model
         new_cols = ['Position_Home', 'Total_Wins_Home', 'Total_Draw_Home',
                     'Total_Lose_Home', 'Total_Goals_For_Home_Team',
@@ -118,7 +148,11 @@ for league in leagues[:1]:
         # We can extract the streak as a series of character, where 'W'
         # means wins, 'D' is Draw, and 'L' is lose.
         dict_streak = {0: 'W', 1: 'D', 2: 'L'}
-
+        bar = progressbar.ProgressBar(
+            maxval=n_rounds,
+            widgets=[progressbar.Bar('=', '[', ']'),
+                     ' ', progressbar.Percentage()])
+        bar.start()
         for r in range(n_rounds):
             cur_round = df[df['Round'] == (r + 1)]
             for _, row in df_standings.iterrows():
@@ -164,7 +198,7 @@ for league in leagues[:1]:
 
                 # Let's write the performance of the Away team when
                 # it plays Away
-                else:
+                elif (cur_round['Away_Team'] == team).sum() == 1:
                     idx = cur_round.loc[cur_round['Away_Team']
                                         == team].index.values[0]
 
@@ -197,11 +231,13 @@ for league in leagues[:1]:
                     # played at Away
                     cur_round.loc[idx, 'Streak_When_Away'] = \
                         row['Streak_When_Away']
+                else:
+                    print(f'\n{team} did not play on round {r}\n')
             df.loc[cur_round.index] = cur_round
-            print(f'\t\t\tWorking on round {r}')
             for _, rows in cur_round.iterrows():
                 # If a team wins it adds 3 points, 1 point if it draws and
                 # 0 points if it loses
+
                 df_standings.loc[df_standings['Team']
                                  == rows['Home_Team'],
                                  'Points'] += dict_points_home[rows['Label']]
@@ -257,7 +293,7 @@ for league in leagues[:1]:
                 # We can extract the streak as a series of character, where 'W'
                 # means wins, 'D' is Draw, and 'L' is lose. The characters are
                 # added to the right, so the leftmost character corresponds to
-                # the first round, or the first round where the team was at 
+                # the first round, or the first round where the team was at
                 # home if we are in the Streak_Home column
                 # Let's see the Home_Team
                 df_standings.loc[df_standings['Team']
@@ -314,6 +350,8 @@ for league in leagues[:1]:
                     by='Points',
                     ascending=False).reset_index(drop=True)
             df_standings['Position'] = np.array(df_standings.index) + 1
-            print(f'\t\t\tFinished round {r}')
+            bar.update(r + 1)
+        bar.finish()
+        print('\n')
         df.to_csv(f"./Data/Results_Cleaned/{league}/{filename}",
                   index=False)

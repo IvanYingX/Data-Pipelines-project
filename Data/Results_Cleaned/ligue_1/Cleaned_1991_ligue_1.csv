@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Cannes,Montpellier,2-1,/match/as-cannes/montpellier-hsc/1991,1991,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Saint-Étienne,Stade Rennais,0-0,/match/saint-etienne/stade-rennes/1991,1991,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nantes,Caen,0-0,/match/nantes/caen/1991,1991,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Girondins Bordeaux,Olympique Lyonnais,0-0,/match/bordeaux/olympique-lyonnais/1991,1991,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Toulouse,Auxerre,0-0,/match/toulouse-fc/auxerre/1991,1991,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sochaux,Stade Brestois,1-1,/match/sochaux/stade-brestois-29/1991,1991,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Metz,Lille,2-2,/match/metz/lillestrom/1991,1991,1,ligue_1,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique,Nice,1-0,/match/olympique-marsella/nice/1991,1991,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSG,Nancy,2-1,/match/paris-saint-germain-fc/nancy/1991,1991,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Monaco,Sporting Toulon,2-1,/match/monaco/sporting-toulon/1991,1991,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Metz,Olympique,0-2,/match/metz/olympique-marsella/1991,1991,2,ligue_1,20,38,2,0,2,9,0,1,0,2,2,D,0,1,0,2,2,4,1,0,0,1,0,W,0,0,0,0,0,D,
+Nice,Toulouse,1-1,/match/nice/toulouse-fc/1991,1991,2,ligue_1,20,38,1,1,1,18,0,0,1,0,1,W,0,0,0,0,0,6,0,1,0,0,0,D,0,0,0,0,0,,
+Nancy,Stade Brestois,0-0,/match/nancy/stade-brestois-29/1991,1991,2,ligue_1,20,38,1,0,0,20,0,0,1,1,2,W,0,0,0,0,0,13,0,1,0,1,1,D,0,1,0,1,1,,D
+Lille,Nantes,1-1,/match/lillestrom/nantes/1991,1991,2,ligue_1,20,38,1,1,1,12,0,1,0,2,2,D,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
+Montpellier,Sochaux,2-0,/match/montpellier-hsc/sochaux/1991,1991,2,ligue_1,20,38,0,2,0,19,0,0,1,1,2,W,0,0,0,0,0,10,0,1,0,1,1,D,0,0,0,0,0,,
+Olympique Lyonnais,Cannes,1-0,/match/olympique-lyonnais/as-cannes/1991,1991,2,ligue_1,20,38,0,1,0,16,0,1,0,0,0,D,0,0,0,0,0,3,1,0,0,2,1,W,0,0,0,0,0,,
+Stade Rennais,PSG,2-1,/match/stade-rennes/paris-saint-germain-fc/1991,1991,2,ligue_1,20,38,0,2,1,11,0,1,0,0,0,D,0,0,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,,
+Caen,Girondins Bordeaux,2-0,/match/caen/bordeaux/1991,1991,2,ligue_1,20,38,0,2,0,14,0,1,0,0,0,D,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
+Auxerre,Monaco,0-1,/match/auxerre/monaco/1991,1991,2,ligue_1,20,38,2,0,1,15,0,1,0,0,0,D,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
+Sporting Toulon,Saint-Étienne,3-0,/match/sporting-toulon/saint-etienne/1991,1991,2,ligue_1,20,38,0,3,0,17,0,0,1,1,2,W,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
+Monaco,Montpellier,3-1,/match/monaco/montpellier-hsc/1991,1991,3,ligue_1,20,38,0,3,1,1,2,0,0,3,1,WL,1,0,0,2,1,9,1,0,1,3,2,WW,0,0,1,1,2,W,W
+Saint-Étienne,Nice,1-0,/match/saint-etienne/nice/1991,1991,3,ligue_1,20,38,0,1,0,13,0,1,1,0,3,DW,0,1,0,0,0,18,0,1,1,1,2,WD,0,0,1,0,1,D,W
+Sochaux,Nancy,1-0,/match/sochaux/nancy/1991,1991,3,ligue_1,20,38,0,1,0,16,0,1,1,1,3,DW,0,1,0,1,1,19,0,1,1,1,2,WD,0,0,1,1,2,D,W
+Nantes,Metz,1-1,/match/nantes/metz/1991,1991,3,ligue_1,20,38,1,1,1,12,0,2,0,1,1,DD,0,1,0,0,0,15,0,1,1,2,4,DL,0,0,0,0,0,D,
+Girondins Bordeaux,Lille,1-1,/match/bordeaux/lillestrom/1991,1991,3,ligue_1,20,38,1,1,1,14,0,1,1,0,2,DW,0,1,0,0,0,11,0,2,0,3,3,DD,0,1,0,2,2,D,D
+Cannes,Auxerre,0-3,/match/as-cannes/auxerre/1991,1991,3,ligue_1,20,38,2,0,3,7,1,0,1,2,2,WW,1,0,0,2,1,20,0,1,1,0,1,DL,0,1,0,0,0,W,D
+Stade Brestois,Stade Rennais,0-0,/match/stade-brestois-29/stade-rennes/1991,1991,3,ligue_1,20,38,1,0,0,17,0,2,0,1,1,DD,0,0,0,0,0,5,1,1,0,2,1,DW,0,1,0,0,0,,D
+Toulouse,Olympique Lyonnais,3-1,/match/toulouse-fc/olympique-lyonnais/1991,1991,3,ligue_1,20,38,0,3,1,10,0,2,0,1,1,DD,0,1,0,0,0,4,1,1,0,1,0,DW,0,1,0,0,0,D,D
+Olympique,Caen,2-1,/match/olympique-marsella/caen/1991,1991,3,ligue_1,20,38,0,2,1,2,2,0,0,3,0,WL,1,0,0,1,0,3,1,1,0,2,0,DW,0,1,0,0,0,W,D
+PSG,Sporting Toulon,4-0,/match/paris-saint-germain-fc/sporting-toulon/1991,1991,3,ligue_1,20,38,0,4,0,6,1,0,1,3,3,WW,1,0,0,2,1,8,1,0,1,4,2,WW,0,0,1,1,2,W,W
+Montpellier,PSG,4-0,/match/montpellier-hsc/paris-saint-germain-fc/1991,1991,4,ligue_1,20,38,0,4,0,14,1,0,2,4,5,WWW,1,0,0,2,0,3,2,0,1,7,3,WWW,0,0,1,1,2,W,W
+Nice,Cannes,0-0,/match/nice/as-cannes/1991,1991,4,ligue_1,20,38,1,0,0,19,0,1,2,1,3,WDW,0,1,0,1,1,16,1,0,2,2,5,WWL,0,0,1,0,1,D,W
+Metz,Girondins Bordeaux,1-0,/match/metz/bordeaux/1991,1991,4,ligue_1,20,38,0,1,0,17,0,2,1,3,5,DLD,0,1,1,2,4,12,0,2,1,1,3,DWD,0,0,1,0,2,DL,W
+Caen,Sochaux,2-0,/match/caen/sochaux/1991,1991,4,ligue_1,20,38,0,2,0,8,1,1,1,3,2,DWW,1,0,0,2,0,7,1,1,1,2,3,DWW,0,0,1,0,2,W,W
+Lille,Toulouse,3-0,/match/lillestrom/toulouse-fc/1991,1991,4,ligue_1,20,38,0,3,0,13,0,3,0,4,4,DDD,0,1,0,1,1,4,1,2,0,4,2,DDW,0,1,0,1,1,D,D
+Auxerre,Saint-Étienne,2-0,/match/auxerre/saint-etienne/1991,1991,4,ligue_1,20,38,0,2,0,18,1,1,1,3,1,DLL,0,0,1,0,1,5,1,1,1,1,3,DWW,0,0,1,0,3,L,W
+Stade Rennais,Nancy,1-0,/match/stade-rennes/nancy/1991,1991,4,ligue_1,20,38,0,1,0,6,1,2,0,2,1,DWD,1,0,0,2,1,20,0,1,2,1,3,WDW,0,0,2,1,3,W,WW
+Nantes,Monaco,3-1,/match/nantes/monaco/1991,1991,4,ligue_1,20,38,0,3,1,10,0,3,0,2,2,DDD,0,2,0,1,1,1,3,0,0,6,2,WLW,1,0,0,1,0,DD,L
+Olympique Lyonnais,Olympique,2-2,/match/olympique-lyonnais/olympique-marsella/1991,1991,4,ligue_1,20,38,1,2,2,9,1,1,1,2,3,DWW,1,0,0,1,0,2,3,0,0,5,1,WLW,1,0,0,2,0,W,L
+Sporting Toulon,Stade Brestois,1-2,/match/sporting-toulon/stade-brestois-29/1991,1991,4,ligue_1,20,38,2,1,2,15,1,0,2,4,6,WWW,1,0,0,3,0,11,0,3,0,1,1,DDD,0,2,0,1,1,W,DD
+Olympique,Lille,2-0,/match/olympique-marsella/lillestrom/1991,1991,5,ligue_1,20,38,0,2,0,1,3,1,0,7,3,WLWD,2,0,0,3,1,6,1,3,0,7,4,DDDW,0,2,0,3,3,WW,DD
+Saint-Étienne,Montpellier,1-0,/match/saint-etienne/montpellier-hsc/1991,1991,5,ligue_1,20,38,0,1,0,15,1,1,2,1,5,DWWW,1,1,0,1,0,8,2,0,2,8,5,WWWW,0,0,2,2,5,DW,WW
+Girondins Bordeaux,Nantes,2-0,/match/bordeaux/nantes/1991,1991,5,ligue_1,20,38,0,2,0,17,0,2,2,1,4,DWDW,0,2,0,1,1,5,1,3,0,5,3,DDDW,0,1,0,1,1,DD,D
+Sochaux,Stade Rennais,4-0,/match/sochaux/stade-rennes/1991,1991,5,ligue_1,20,38,0,4,0,14,1,1,2,2,5,DWWW,1,1,0,2,1,3,2,2,0,3,1,DWDW,0,2,0,0,0,DW,DD
+Toulouse,Metz,2-1,/match/toulouse-fc/metz/1991,1991,5,ligue_1,20,38,0,2,1,9,1,2,1,4,5,DDWW,1,1,0,3,1,11,1,2,1,4,5,DLDW,0,1,0,1,1,DW,D
+Cannes,Caen,1-1,/match/as-cannes/caen/1991,1991,5,ligue_1,20,38,1,1,1,16,1,1,2,2,5,WWLD,1,0,1,2,4,4,2,1,1,5,2,DWWW,0,1,1,1,2,WL,DW
+PSG,Auxerre,1-1,/match/paris-saint-germain-fc/auxerre/1991,1991,5,ligue_1,20,38,1,1,1,7,2,0,2,7,7,WWWW,2,0,0,6,1,10,2,1,1,5,1,DLLW,1,1,0,3,0,WW,DL
+Monaco,Olympique Lyonnais,0-0,/match/monaco/olympique-lyonnais/1991,1991,5,ligue_1,20,38,1,0,0,2,3,0,1,7,5,WLWW,2,0,0,5,2,12,1,2,1,4,5,DWWD,0,1,1,1,3,WW,DW
+Stade Brestois,Nice,4-0,/match/stade-brestois-29/nice/1991,1991,5,ligue_1,20,38,0,4,0,13,1,3,0,3,2,DDDL,0,1,0,0,0,19,0,2,2,1,3,WDWD,0,0,2,0,2,D,WW
+Nancy,Sporting Toulon,2-1,/match/nancy/sporting-toulon/1991,1991,5,ligue_1,20,38,0,2,1,20,0,1,3,1,4,WDWW,0,1,0,0,0,18,1,0,3,5,8,WWWL,0,0,2,1,6,D,WW
+Girondins Bordeaux,Monaco,0-0,/match/bordeaux/monaco/1991,1991,6,ligue_1,20,38,1,0,0,11,1,2,2,3,4,DWDWW,1,2,0,3,1,2,3,1,1,7,5,WLWWD,1,0,1,2,3,DDW,LW
+Lille,Cannes,0-2,/match/lillestrom/as-cannes/1991,1991,6,ligue_1,20,38,2,0,2,12,1,3,1,7,6,DDDWW,1,1,0,4,1,17,1,2,2,3,6,WWLDD,0,1,1,0,1,DW,WD
+Metz,Saint-Étienne,3-1,/match/metz/saint-etienne/1991,1991,6,ligue_1,20,38,0,3,1,16,1,2,2,5,7,DLDWW,1,1,1,3,4,9,2,1,2,2,5,DWWWW,0,0,2,0,5,DLW,WW
+Nice,PSG,1-1,/match/nice/paris-saint-germain-fc/1991,1991,6,ligue_1,20,38,1,1,1,20,0,2,3,1,7,WDWDW,0,2,0,1,1,6,2,1,2,8,8,WWWWD,0,0,2,1,6,DD,WW
+Montpellier,Nancy,5-0,/match/montpellier-hsc/nancy/1991,1991,6,ligue_1,20,38,0,5,0,13,2,0,3,8,6,WWWWW,2,0,0,6,0,18,1,1,3,3,5,WDWWW,0,0,3,1,4,WW,WWW
+Olympique Lyonnais,Sochaux,1-0,/match/olympique-lyonnais/sochaux/1991,1991,6,ligue_1,20,38,0,1,0,15,1,3,1,4,5,DWWDD,1,1,0,3,2,8,2,1,2,6,5,DWWWW,0,0,2,0,4,WD,WW
+Caen,Toulouse,2-0,/match/caen/toulouse-fc/1991,1991,6,ligue_1,20,38,0,2,0,5,2,2,1,6,3,DWWWD,2,0,0,4,0,3,2,2,1,6,6,DDWWW,0,1,1,1,4,WW,DW
+Auxerre,Stade Brestois,2-2,/match/auxerre/stade-brestois-29/1991,1991,6,ligue_1,20,38,1,2,2,14,2,2,1,6,2,DLLWD,1,0,1,2,1,7,2,3,0,7,2,DDDLW,1,2,0,3,2,LW,DDL
+Nantes,Olympique,1-1,/match/nantes/olympique-marsella/1991,1991,6,ligue_1,20,38,1,1,1,10,1,3,1,5,5,DDDWW,1,2,0,4,2,1,4,1,0,9,3,WLWDW,1,1,0,4,2,DDW,LD
+Sporting Toulon,Stade Rennais,1-0,/match/sporting-toulon/stade-rennes/1991,1991,6,ligue_1,20,38,0,1,0,19,1,0,4,6,10,WWWLW,1,0,1,4,2,4,2,2,1,3,5,DWDWW,0,2,1,0,4,WL,DDW
+Olympique,Girondins Bordeaux,2-0,/match/olympique-marsella/bordeaux/1991,1991,7,ligue_1,20,38,0,2,0,1,4,2,0,10,4,WLWDWD,3,0,0,5,1,12,1,3,2,3,4,DWDWWD,0,0,2,0,3,WWW,WW
+Stade Rennais,Nice,0-3,/match/stade-rennes/nice/1991,1991,7,ligue_1,20,38,2,0,3,15,2,2,2,3,6,DWDWWW,2,0,0,3,1,20,0,3,3,2,8,WDWDWD,0,0,3,0,6,WW,WWW
+Toulouse,Nantes,2-0,/match/toulouse-fc/nantes/1991,1991,7,ligue_1,20,38,0,2,0,6,2,2,2,6,8,DDWWWW,2,1,0,5,2,10,1,4,1,6,6,DDDWWD,0,1,1,1,3,DWW,DW
+Cannes,Metz,0-1,/match/as-cannes/metz/1991,1991,7,ligue_1,20,38,2,0,1,16,2,2,2,5,6,WWLDDL,1,1,1,3,5,7,2,2,2,8,8,DLDWWW,0,1,1,2,3,WLD,DW
+PSG,Olympique Lyonnais,3-0,/match/paris-saint-germain-fc/olympique-lyonnais/1991,1991,7,ligue_1,20,38,0,3,0,8,2,2,2,9,9,WWWWDD,2,1,0,7,2,5,2,3,1,5,5,DWWDDW,0,2,1,1,3,WWD,DWD
+Nancy,Auxerre,1-1,/match/nancy/auxerre/1991,1991,7,ligue_1,20,38,1,1,1,19,1,1,4,3,10,WDWWWW,1,1,0,2,1,11,2,3,1,8,4,DLLWDD,1,2,0,4,1,DW,DLD
+Monaco,Lille,1-1,/match/monaco/lillestrom/1991,1991,7,ligue_1,20,38,1,1,1,3,3,2,1,7,5,WLWWDD,2,1,0,5,2,17,1,3,2,7,8,DDDWWL,0,2,1,3,5,WWD,DDW
+Saint-Étienne,Caen,0-0,/match/saint-etienne/caen/1991,1991,7,ligue_1,20,38,1,0,0,13,2,1,3,3,8,DWWWWW,2,1,0,2,0,2,3,2,1,8,3,DWWWDW,0,2,1,2,3,DWW,DWD
+Stade Brestois,Montpellier,1-1,/match/stade-brestois-29/montpellier-hsc/1991,1991,7,ligue_1,20,38,1,1,1,9,2,4,0,9,4,DDDLWD,1,1,0,4,0,4,3,0,3,13,6,WWWWWW,0,0,3,2,6,DW,WWW
+Sochaux,Sporting Toulon,0-0,/match/sochaux/sporting-toulon/1991,1991,7,ligue_1,20,38,1,0,0,14,2,1,3,6,6,DWWWWW,2,1,0,6,1,18,2,0,4,7,10,WWWLWW,0,0,3,2,8,DWW,WWW
+Olympique,PSG,2-1,/match/olympique-marsella/paris-saint-germain-fc/1991,1991,8,ligue_1,20,38,0,2,1,1,5,2,0,12,4,WLWDWDW,4,0,0,7,1,4,3,2,2,12,9,WWWWDDW,0,1,2,2,7,WWWW,WWD
+Nice,Sochaux,3-0,/match/nice/sochaux/1991,1991,8,ligue_1,20,38,0,3,0,20,1,3,3,5,8,WDWDWDL,0,3,0,2,2,11,2,2,3,6,6,DWWWWWD,0,0,3,0,5,DDD,WWW
+Nantes,Cannes,1-0,/match/nantes/as-cannes/1991,1991,8,ligue_1,20,38,0,1,0,13,1,4,2,6,8,DDDWWDW,1,3,0,5,3,16,2,2,3,5,7,WWLDDLL,1,1,1,2,1,DDWD,WDL
+Girondins Bordeaux,Toulouse,2-1,/match/bordeaux/toulouse-fc/1991,1991,8,ligue_1,20,38,0,2,1,14,1,3,3,3,6,DWDWWDW,1,3,0,3,1,3,3,2,2,8,8,DDWWWWW,0,1,2,1,6,DDWD,DWW
+Lille,Saint-Étienne,3-2,/match/lillestrom/saint-etienne/1991,1991,8,ligue_1,20,38,0,3,2,17,1,4,2,8,9,DDDWWLD,1,1,1,4,3,9,2,2,3,3,8,DWWWWWD,0,0,3,1,8,DWL,WWW
+Olympique Lyonnais,Stade Brestois,2-0,/match/olympique-lyonnais/stade-brestois-29/1991,1991,8,ligue_1,20,38,0,2,0,10,2,3,2,5,8,DWWDDWW,2,1,0,4,2,8,2,5,0,10,5,DDDLWDD,1,3,0,5,4,WDW,DDLD
+Metz,Monaco,1-1,/match/metz/monaco/1991,1991,8,ligue_1,20,38,1,1,1,7,3,2,2,9,8,DLDWWWL,2,1,1,6,5,2,3,3,1,8,6,WLWWDDD,1,1,1,2,3,DLWW,LWD
+Auxerre,Stade Rennais,4-0,/match/auxerre/stade-rennes/1991,1991,8,ligue_1,20,38,0,4,0,12,2,4,1,9,5,DLLWDDD,1,1,1,4,3,15,2,2,3,3,9,DWDWWWL,0,2,2,0,5,LWD,DDWW
+Caen,Nancy,4-1,/match/caen/nancy/1991,1991,8,ligue_1,20,38,0,4,1,5,3,3,1,8,3,DWWWDWD,3,0,0,6,0,19,1,2,4,4,11,WDWWWWD,0,0,4,1,9,WWW,WWWW
+Montpellier,Sporting Toulon,0-0,/match/montpellier-hsc/sporting-toulon/1991,1991,8,ligue_1,20,38,1,0,0,6,3,1,3,14,7,WWWWWWD,3,0,0,11,0,18,2,1,4,7,10,WWWLWWD,0,1,3,2,8,WWW,WWWD
+Nice,Monaco,0-0,/match/nice/monaco/1991,1991,9,ligue_1,20,38,1,0,0,16,2,3,3,8,8,WDWDWDLW,1,3,0,5,2,4,3,4,1,9,7,WLWWDDDD,1,2,1,3,4,DDDW,LWDD
+Cannes,Girondins Bordeaux,1-1,/match/as-cannes/bordeaux/1991,1991,9,ligue_1,20,38,1,1,1,19,2,2,4,5,8,WWLDDLLW,1,1,2,3,6,11,2,3,3,5,7,DWDWWDWW,0,0,3,0,5,WLDL,WWW
+Nancy,Nantes,3-2,/match/nancy/nantes/1991,1991,9,ligue_1,20,38,0,3,2,20,1,2,5,5,15,WDWWWWDW,1,2,0,3,2,10,2,4,2,7,8,DDDWWDWW,0,1,2,1,5,DWD,DWW
+Stade Rennais,Montpellier,1-2,/match/stade-rennes/montpellier-hsc/1991,1991,9,ligue_1,20,38,2,1,2,17,2,2,4,3,13,DWDWWWLW,2,0,1,3,4,7,3,2,3,14,7,WWWWWWDD,0,1,3,3,7,WWL,WWWD
+Saint-Étienne,Olympique Lyonnais,0-1,/match/saint-etienne/olympique-lyonnais/1991,1991,9,ligue_1,20,38,2,0,1,15,2,2,4,5,11,DWWWWWDW,2,2,0,2,0,3,3,3,2,7,8,DWWDDWWW,0,2,2,1,6,DWWD,DWDW
+Stade Brestois,Metz,1-0,/match/stade-brestois-29/metz/1991,1991,9,ligue_1,20,38,0,1,0,12,2,5,1,10,7,DDDLWDDW,1,2,0,5,1,8,3,3,2,10,9,DLDWWWLD,1,1,1,3,3,DWD,DWL
+PSG,Caen,3-2,/match/paris-saint-germain-fc/caen/1991,1991,9,ligue_1,20,38,0,3,2,6,3,2,3,13,11,WWWWDDWW,3,1,0,10,2,2,4,3,1,12,4,DWWWDWDW,0,3,1,2,3,WWDW,DWDD
+Sochaux,Auxerre,0-1,/match/sochaux/auxerre/1991,1991,9,ligue_1,20,38,2,0,1,14,2,2,4,6,9,DWWWWWDW,2,2,0,6,1,9,3,4,1,13,5,DLLWDDDW,1,3,0,5,2,DWWD,DLDD
+Toulouse,Olympique,0-2,/match/toulouse-fc/olympique-marsella/1991,1991,9,ligue_1,20,38,2,0,2,5,3,2,3,9,10,DDWWWWWW,3,1,0,7,2,1,6,2,0,14,5,WLWDWDWW,1,2,0,5,3,DWWW,LDD
+Sporting Toulon,Lille,0-0,/match/sporting-toulon/lillestrom/1991,1991,9,ligue_1,20,38,1,0,0,18,2,2,4,7,10,WWWLWWDD,2,0,1,5,2,13,2,4,2,11,11,DDDWWLDW,0,3,1,4,6,WLW,DDWD
+Olympique,Cannes,0-1,/match/olympique-marsella/as-cannes/1991,1991,10,ligue_1,20,38,2,0,1,1,7,2,0,16,5,WLWDWDWWL,5,0,0,9,2,19,2,3,4,6,9,WWLDDLLWD,1,1,2,2,2,WWWWW,WDLW
+Nice,Sporting Toulon,0-0,/match/nice/sporting-toulon/1991,1991,10,ligue_1,20,38,1,0,0,14,2,4,3,8,8,WDWDWDLWD,1,4,0,5,2,17,2,3,4,7,10,WWWLWWDDD,0,2,3,2,8,DDDWD,WWWDD
+Toulouse,Nancy,0-0,/match/toulouse-fc/nancy/1991,1991,10,ligue_1,20,38,1,0,0,12,3,2,4,9,12,DDWWWWWWL,3,1,1,7,4,18,2,2,5,8,17,WDWWWWDWW,0,0,5,2,13,DWWWL,WWWWW
+Girondins Bordeaux,Sochaux,1-0,/match/bordeaux/sochaux/1991,1991,10,ligue_1,20,38,0,1,0,10,2,4,3,6,8,DWDWWDWWD,2,3,0,5,2,15,2,2,5,6,10,DWWWWWDWL,0,0,4,0,8,DDWDW,WWWW
+Nantes,Saint-Étienne,2-1,/match/nantes/saint-etienne/1991,1991,10,ligue_1,20,38,0,2,1,9,2,4,3,9,11,DDDWWDWWW,2,3,0,6,3,16,2,2,5,5,12,DWWWWWDWL,0,0,4,3,11,DDWDW,WWWW
+Lille,Stade Brestois,1-0,/match/lillestrom/stade-brestois-29/1991,1991,10,ligue_1,20,38,0,1,0,13,2,5,2,11,11,DDDWWLDWD,2,1,1,7,5,6,3,5,1,11,7,DDDLWDDWW,1,3,1,5,6,DWLW,DDLDW
+Metz,PSG,2-2,/match/metz/paris-saint-germain-fc/1991,1991,10,ligue_1,20,38,1,2,2,11,3,3,3,10,10,DLDWWWLDW,2,2,1,7,6,2,4,2,3,16,13,WWWWDDWWW,0,1,3,3,9,DLWWD,WWDW
+Olympique Lyonnais,Stade Rennais,0-0,/match/olympique-lyonnais/stade-rennes/1991,1991,10,ligue_1,20,38,1,0,0,4,4,3,2,8,8,DWWDDWWWL,3,1,0,6,2,20,2,2,5,4,15,DWDWWWLWL,0,2,3,0,9,WDWW,DDWWW
+Caen,Monaco,0-2,/match/caen/monaco/1991,1991,10,ligue_1,20,38,2,0,2,3,4,3,2,14,7,DWWWDWDWW,4,0,0,10,1,5,3,5,1,9,7,WLWWDDDDD,1,3,1,3,4,WWWW,LWDDD
+Auxerre,Montpellier,3-2,/match/auxerre/montpellier-hsc/1991,1991,10,ligue_1,20,38,0,3,2,8,4,4,1,14,5,DLLWDDDWL,2,1,1,8,3,7,4,2,3,16,8,WWWWWWDDL,1,1,3,5,8,LWDW,WWWDL
+Monaco,Olympique,1-3,/match/monaco/olympique-marsella/1991,1991,11,ligue_1,20,38,2,1,3,6,4,5,1,11,7,WLWWDDDDDL,2,2,0,6,3,1,7,2,1,16,6,WLWDWDWWLL,2,2,0,7,3,WWDD,LDDL
+Cannes,Toulouse,0-0,/match/as-cannes/toulouse-fc/1991,1991,11,ligue_1,20,38,1,0,0,17,3,3,4,7,9,WWLDDLLWDL,1,2,2,4,7,10,3,3,4,9,12,DDWWWWWWLD,0,1,3,2,8,WLDLD,DWWW
+Saint-Étienne,Girondins Bordeaux,0-0,/match/saint-etienne/bordeaux/1991,1991,11,ligue_1,20,38,1,0,0,19,2,2,6,6,14,DWWWWWDWLW,2,2,1,2,1,8,3,4,3,7,8,DWDWWDWWDW,0,1,3,1,6,DWWDL,WWWD
+Nancy,Olympique Lyonnais,2-0,/match/nancy/olympique-lyonnais/1991,1991,11,ligue_1,20,38,0,2,0,16,2,3,5,8,17,WDWWWWDWWD,2,2,0,6,4,4,4,4,2,8,8,DWWDDWWWLD,1,2,2,2,6,DWDW,DWDWL
+Sochaux,Lille,0-0,/match/sochaux/lillestrom/1991,1991,11,ligue_1,20,38,1,0,0,18,2,2,6,6,11,DWWWWWDWLW,2,2,1,6,2,9,3,5,2,12,11,DDDWWLDWDW,0,4,1,4,6,DWWDL,DDWDD
+Stade Rennais,Metz,0-2,/match/stade-rennes/metz/1991,1991,11,ligue_1,20,38,2,0,2,20,2,3,5,4,15,DWDWWWLWLD,2,0,2,4,6,11,3,4,3,12,12,DLDWWWLDWD,1,1,2,3,4,WWLL,DWLW
+PSG,Nantes,1-1,/match/paris-saint-germain-fc/nantes/1991,1991,11,ligue_1,20,38,1,1,1,3,4,3,3,18,15,WWWWDDWWWD,4,1,0,13,4,7,3,4,3,11,12,DDDWWDWWWW,0,1,3,3,8,WWDWW,DWWW
+Montpellier,Nice,3-0,/match/montpellier-hsc/nice/1991,1991,11,ligue_1,20,38,0,3,0,12,4,2,4,18,11,WWWWWWDDLW,3,1,0,11,0,14,2,5,3,8,8,WDWDWDLWDD,1,0,3,3,6,WWWD,WWWL
+Stade Brestois,Caen,5-0,/match/stade-brestois-29/caen/1991,1991,11,ligue_1,20,38,0,5,0,13,3,5,2,11,8,DDDLWDDWWW,2,2,0,6,1,5,4,3,3,14,9,DWWWDWDWWL,0,3,2,4,6,DWDW,DWDDW
+Sporting Toulon,Auxerre,2-3,/match/sporting-toulon/auxerre/1991,1991,11,ligue_1,20,38,2,2,3,15,2,4,4,7,10,WWWLWWDDDD,2,1,1,5,2,2,5,4,1,17,7,DLLWDDDWLW,2,3,0,6,2,WLWD,DLDDL
+Nantes,Stade Brestois,1-0,/match/nantes/stade-brestois-29/1991,1991,12,ligue_1,20,38,0,1,0,7,3,5,3,12,13,DDDWWDWWWWD,3,3,0,8,4,4,4,5,2,16,8,DDDLWDDWWWW,1,3,2,5,7,DDWDWW,DDLDWW
+Lille,Stade Rennais,1-1,/match/lillestrom/stade-rennes/1991,1991,12,ligue_1,20,38,1,1,1,10,3,6,2,12,11,DDDWWLDWDWD,3,1,1,8,5,20,2,3,6,4,17,DWDWWWLWLDL,0,3,3,0,9,DWLWW,DDWWWD
+Girondins Bordeaux,PSG,3-0,/match/bordeaux/paris-saint-germain-fc/1991,1991,12,ligue_1,20,38,0,3,0,8,3,5,3,7,8,DWDWWDWWDWD,3,3,0,6,2,3,4,4,3,19,16,WWWWDDWWWDD,0,2,3,5,11,DDWDWW,WWDWD
+Caen,Sporting Toulon,2-0,/match/caen/sporting-toulon/1991,1991,12,ligue_1,20,38,0,2,0,12,4,3,4,14,14,DWWWDWDWWLW,4,0,1,10,3,19,2,4,5,9,13,WWWLWWDDDDL,0,3,3,2,8,WWWWL,WWWDDD
+Olympique Lyonnais,Montpellier,3-3,/match/olympique-lyonnais/montpellier-hsc/1991,1991,12,ligue_1,20,38,1,3,3,6,4,4,3,8,10,DWWDDWWWLDW,3,2,0,6,2,5,5,2,4,21,11,WWWWWWDDLWW,1,1,4,7,11,WDWWD,WWWDLW
+Metz,Nancy,4-0,/match/metz/nancy/1991,1991,12,ligue_1,20,38,0,4,0,9,4,4,3,14,12,DLDWWWLDWDL,2,3,1,9,8,14,3,3,5,10,17,WDWWWWDWWDW,0,1,5,2,13,DLWWDD,WWWWWD
+Cannes,Monaco,1-2,/match/as-cannes/monaco/1991,1991,12,ligue_1,20,38,2,1,2,16,3,4,4,7,9,WWLDDLLWDLD,1,3,2,4,7,11,4,5,2,12,10,WLWWDDDDDLL,2,3,1,5,4,WLDLDD,LWDDDL
+Nice,Auxerre,1-1,/match/nice/auxerre/1991,1991,12,ligue_1,20,38,1,1,1,15,2,5,4,8,11,WDWDWDLWDDW,1,5,0,5,2,2,6,4,1,20,9,DLLWDDDWLWL,3,3,0,9,4,DDDWDD,DLDDLL
+Olympique,Saint-Étienne,3-1,/match/olympique-marsella/saint-etienne/1991,1991,12,ligue_1,20,38,0,3,1,1,8,2,1,19,7,WLWDWDWWLLL,5,0,1,9,3,18,2,3,6,6,14,DWWWWWDWLWD,0,0,5,4,13,WWWWWL,WWWWW
+Toulouse,Sochaux,0-0,/match/toulouse-fc/sochaux/1991,1991,12,ligue_1,20,38,1,0,0,13,3,4,4,9,12,DDWWWWWWLDD,3,2,1,7,4,17,2,3,6,6,11,DWWWWWDWLWD,0,0,5,0,9,DWWWLD,WWWWW
+Monaco,Toulouse,2-1,/match/monaco/toulouse-fc/1991,1991,13,ligue_1,20,38,0,2,1,10,5,5,2,14,11,WLWWDDDDDLLL,2,2,1,7,6,13,3,5,4,9,12,DDWWWWWWLDDD,0,2,3,2,8,WWDDL,DWWWD
+Stade Brestois,Girondins Bordeaux,4-0,/match/stade-brestois-29/bordeaux/1991,1991,13,ligue_1,20,38,0,4,0,12,4,5,3,16,9,DDDLWDDWWWWW,3,2,0,11,1,4,4,5,3,10,8,DWDWWDWWDWDW,0,2,3,1,6,DWDWW,WWWDD
+Saint-Étienne,Cannes,1-0,/match/saint-etienne/as-cannes/1991,1991,13,ligue_1,20,38,0,1,0,18,2,3,7,7,17,DWWWWWDWLWDW,2,3,1,2,1,16,3,4,5,8,11,WWLDDLLWDLDL,2,1,2,3,2,DWWDLD,WDLWL
+Nancy,Nice,2-1,/match/nancy/nice/1991,1991,13,ligue_1,20,38,0,2,1,15,3,3,6,10,21,WDWWWWDWWDWW,3,2,0,8,4,14,2,6,4,9,12,WDWDWDLWDDWD,1,0,4,3,9,DWDWW,WWWLW
+Stade Rennais,Caen,1-1,/match/stade-rennes/caen/1991,1991,13,ligue_1,20,38,1,1,1,20,2,4,6,5,18,DWDWWWLWLDLD,2,0,3,4,8,5,5,3,4,16,14,DWWWDWDWWLWW,0,3,3,4,11,WWLLL,DWDDWW
+PSG,Lille,2-0,/match/paris-saint-germain-fc/lillestrom/1991,1991,13,ligue_1,20,38,0,2,0,7,4,4,4,19,19,WWWWDDWWWDDW,4,2,0,14,5,11,3,7,2,13,12,DDDWWLDWDWDD,0,5,1,4,6,WWDWWD,DDWDDD
+Montpellier,Metz,5-2,/match/montpellier-hsc/metz/1991,1991,13,ligue_1,20,38,0,5,2,8,5,3,4,24,14,WWWWWWDDLWWD,4,1,0,14,0,6,5,4,3,18,12,DLDWWWLDWDLW,2,1,2,5,4,WWWDW,DWLWL
+Auxerre,Olympique Lyonnais,1-0,/match/auxerre/olympique-lyonnais/1991,1991,13,ligue_1,20,38,0,1,0,2,6,5,1,21,10,DLLWDDDWLWLD,3,1,1,11,5,9,4,5,3,11,13,DWWDDWWWLDWD,1,2,3,2,8,LWDWW,DWDWLW
+Sochaux,Olympique,2-1,/match/sochaux/olympique-marsella/1991,1991,13,ligue_1,20,38,0,2,1,17,2,4,6,6,11,DWWWWWDWLWDD,2,3,1,6,2,1,9,2,1,22,8,WLWDWDWWLLLW,3,2,0,10,4,DWWDLD,LDDLL
+Sporting Toulon,Nantes,3-1,/match/sporting-toulon/nantes/1991,1991,13,ligue_1,20,38,0,3,1,19,2,4,6,9,15,WWWLWWDDDDLW,2,1,2,7,5,3,4,5,3,13,13,DDDWWDWWWWDW,0,2,3,4,9,WLWDL,DWWWD
+Caen,Auxerre,0-1,/match/caen/auxerre/1991,1991,14,ligue_1,20,38,2,0,1,9,5,4,4,17,15,DWWWDWDWWLWWD,5,0,1,12,3,2,7,5,1,22,10,DLLWDDDWLWLDW,3,4,0,10,5,WWWWLW,DLDDLLD
+Metz,Sporting Toulon,0-0,/match/metz/sporting-toulon/1991,1991,14,ligue_1,20,38,1,0,0,10,5,4,4,20,17,DLDWWWLDWDLWW,3,3,1,13,8,18,3,4,6,12,16,WWWLWWDDDDLWW,0,3,4,2,10,DLWWDDW,WWWDDDW
+Cannes,Sochaux,1-1,/match/as-cannes/sochaux/1991,1991,14,ligue_1,20,38,1,1,1,19,3,4,6,8,12,WWLDDLLWDLDLW,1,3,3,5,9,15,3,4,6,8,12,DWWWWWDWLWDDW,0,1,5,0,9,WLDLDDL,WWWWWD
+Toulouse,Saint-Étienne,0-0,/match/toulouse-fc/saint-etienne/1991,1991,14,ligue_1,20,38,1,0,0,14,3,5,5,10,14,DDWWWWWWLDDDW,3,3,1,7,4,17,3,3,7,8,17,DWWWWWDWLWDWW,0,0,6,5,16,DWWWLDD,WWWWWW
+Olympique Lyonnais,Nice,1-0,/match/olympique-lyonnais/nice/1991,1991,14,ligue_1,20,38,0,1,0,11,4,5,4,11,14,DWWDDWWWLDWDW,3,3,0,9,5,16,2,6,5,10,14,WDWDWDLWDDWDW,1,0,5,4,11,WDWWDD,WWWLWW
+Lille,Montpellier,1-0,/match/lillestrom/montpellier-hsc/1991,1991,14,ligue_1,20,38,0,1,0,13,3,7,3,13,14,DDDWWLDWDWDDW,3,2,1,9,6,4,6,3,4,29,16,WWWWWWDDLWWDW,1,2,4,10,14,DWLWWD,WWWDLWD
+Nantes,Stade Rennais,2-0,/match/nantes/stade-rennes/1991,1991,14,ligue_1,20,38,0,2,0,7,4,5,4,14,16,DDDWWDWWWWDWW,4,3,0,9,4,20,2,5,6,6,19,DWDWWWLWLDLDD,0,4,3,1,10,DDWDWWW,DDWWWDD
+Girondins Bordeaux,Nancy,5-0,/match/bordeaux/nancy/1991,1991,14,ligue_1,20,38,0,5,0,8,4,5,4,10,12,DWDWWDWWDWDWW,4,3,0,9,2,12,4,3,6,12,22,WDWWWWDWWDWWW,0,1,6,2,17,DDWDWWW,WWWWWDW
+Monaco,PSG,2-0,/match/monaco/paris-saint-germain-fc/1991,1991,14,ligue_1,20,38,0,2,0,5,6,5,2,16,12,WLWWDDDDDLLLW,3,2,1,9,7,3,5,4,4,21,19,WWWWDDWWWDDWW,0,2,4,5,14,WWDDLW,WWDWDW
+Olympique,Stade Brestois,3-1,/match/olympique-marsella/stade-brestois-29/1991,1991,14,ligue_1,20,38,0,3,1,1,9,2,2,23,10,WLWDWDWWLLLWW,6,0,1,12,4,6,5,5,3,20,9,DDDLWDDWWWWWW,1,3,3,5,8,WWWWWLW,DDLDWWW
+Stade Rennais,Girondins Bordeaux,2-1,/match/stade-rennes/bordeaux/1991,1991,15,ligue_1,20,38,0,2,1,20,2,5,7,6,21,DWDWWWLWLDLDDW,2,1,3,5,9,5,5,5,4,15,12,DWDWWDWWDWDWWW,0,2,4,1,10,WWLLLD,WWWDDW
+Montpellier,Caen,0-0,/match/montpellier-hsc/caen/1991,1991,15,ligue_1,20,38,1,0,0,7,6,3,5,29,17,WWWWWWDDLWWDWW,5,1,0,19,2,12,5,4,5,17,16,DWWWDWDWWLWWDL,0,4,3,5,12,WWWDWW,DWDDWWD
+PSG,Cannes,0-0,/match/paris-saint-germain-fc/as-cannes/1991,1991,15,ligue_1,20,38,1,0,0,8,5,4,5,21,21,WWWWDDWWWDDWWW,5,2,0,16,5,19,3,5,6,9,13,WWLDDLLWDLDLWD,2,1,3,3,3,WWDWWDW,WDLWLW
+Sochaux,Nantes,1-1,/match/sochaux/nantes/1991,1991,15,ligue_1,20,38,1,1,1,15,3,5,6,9,13,DWWWWWDWLWDDWD,3,3,1,8,3,4,5,5,4,16,16,DDDWWDWWWWDWWW,0,2,4,5,12,DWWDLDW,DWWWDW
+Stade Brestois,Toulouse,0-0,/match/stade-brestois-29/toulouse-fc/1991,1991,15,ligue_1,20,38,1,0,0,9,5,5,4,21,12,DDDLWDDWWWWWWW,4,2,0,15,1,13,3,6,5,10,14,DDWWWWWWLDDDWD,0,2,4,3,10,DWDWWW,DWWWDW
+Nice,Metz,1-2,/match/nice/metz/1991,1991,15,ligue_1,20,38,2,1,2,17,2,6,6,10,15,WDWDWDLWDDWDWW,1,6,0,6,3,10,5,5,4,20,17,DLDWWWLDWDLWWD,2,1,3,7,9,DDDWDDD,DWLWLW
+Saint-Étienne,Monaco,1-0,/match/saint-etienne/monaco/1991,1991,15,ligue_1,20,38,0,1,0,16,3,4,7,8,17,DWWWWWDWLWDWWD,3,3,1,3,1,3,7,5,2,18,12,WLWWDDDDDLLLWW,3,3,1,7,5,DWWDLDW,LWDDDLL
+Nancy,Olympique,2-0,/match/nancy/olympique-marsella/1991,1991,15,ligue_1,20,38,0,2,0,14,4,3,7,12,27,WDWWWWDWWDWWWW,4,2,0,10,5,1,10,2,2,26,11,WLWDWDWWLLLWWW,3,2,1,11,6,DWDWWW,LDDLLW
+Auxerre,Lille,3-2,/match/auxerre/lillestrom/1991,1991,15,ligue_1,20,38,0,3,2,2,8,5,1,23,10,DLLWDDDWLWLDWL,4,1,1,12,5,11,4,7,3,14,14,DDDWWLDWDWDDWW,0,5,2,4,8,LWDWWW,DDWDDDW
+Sporting Toulon,Olympique Lyonnais,1-0,/match/sporting-toulon/olympique-lyonnais/1991,1991,15,ligue_1,20,38,0,1,0,18,3,5,6,12,16,WWWLWWDDDDLWWD,3,1,2,10,6,6,5,5,4,12,14,DWWDDWWWLDWDWW,1,2,4,2,9,WLWDLW,DWDWLWW
+Monaco,Sochaux,1-0,/match/monaco/sochaux/1991,1991,16,ligue_1,20,38,0,1,0,3,7,5,3,18,13,WLWWDDDDDLLLWWW,4,2,1,11,7,16,3,6,6,10,14,DWWWWWDWLWDDWDD,0,2,5,1,10,WWDDLWW,WWWWWDD
+Girondins Bordeaux,Sporting Toulon,0-1,/match/bordeaux/sporting-toulon/1991,1991,16,ligue_1,20,38,2,0,1,5,5,5,5,16,14,DWDWWDWWDWDWWWW,5,3,0,14,2,17,4,5,6,13,16,WWWLWWDDDDLWWDW,0,4,4,2,10,DDWDWWWW,WWWDDDWD
+Metz,Auxerre,1-0,/match/metz/auxerre/1991,1991,16,ligue_1,20,38,0,1,0,9,6,5,4,22,18,DLDWWWLDWDLWWDL,3,4,1,13,8,2,9,5,1,26,12,DLLWDDDWLWLDWLW,4,4,0,11,5,DLWWDDWD,DLDDLLDL
+Saint-Étienne,Nancy,4-1,/match/saint-etienne/nancy/1991,1991,16,ligue_1,20,38,0,4,1,15,4,4,7,9,17,DWWWWWDWLWDWWDW,4,3,1,4,1,11,5,3,7,14,27,WDWWWWDWWDWWWWW,0,1,7,2,22,DWWDLDWW,WWWWWDWW
+Toulouse,PSG,2-1,/match/toulouse-fc/paris-saint-germain-fc/1991,1991,16,ligue_1,20,38,0,2,1,14,3,7,5,10,14,DDWWWWWWLDDDWDD,3,4,1,7,4,7,5,5,5,21,21,WWWWDDWWWDDWWWD,0,2,5,5,16,DWWWLDDD,WWDWDWW
+Lille,Nice,0-0,/match/lillestrom/nice/1991,1991,16,ligue_1,20,38,1,0,0,12,4,7,4,16,17,DDDWWLDWDWDDWWW,4,2,1,10,6,18,2,6,7,11,17,WDWDWDLWDDWDWWL,1,0,6,4,12,DWLWWDW,WWWLWWW
+Nantes,Montpellier,1-1,/match/nantes/montpellier-hsc/1991,1991,16,ligue_1,20,38,1,1,1,4,5,6,4,17,17,DDDWWDWWWWDWWWD,5,3,0,11,4,6,6,4,5,29,17,WWWWWWDDLWWDWWD,1,2,5,10,15,DDWDWWWW,WWWDLWDW
+Caen,Olympique Lyonnais,1-0,/match/caen/olympique-lyonnais/1991,1991,16,ligue_1,20,38,0,1,0,13,5,5,5,17,16,DWWWDWDWWLWWDLD,5,0,2,12,4,10,5,5,5,12,15,DWWDDWWWLDWDWWW,1,2,5,2,10,WWWWLWL,DWDWLWWW
+Cannes,Stade Brestois,0-0,/match/as-cannes/stade-brestois-29/1991,1991,16,ligue_1,20,38,1,0,0,19,3,6,6,9,13,WWLDDLLWDLDLWDD,1,4,3,6,10,8,5,6,4,21,12,DDDLWDDWWWWWWWD,1,3,4,6,11,WLDLDDLD,DDLDWWWW
+Olympique,Stade Rennais,4-1,/match/olympique-marsella/stade-rennes/1991,1991,16,ligue_1,20,38,0,4,1,1,10,2,3,26,13,WLWDWDWWLLLWWWW,7,0,1,15,5,20,3,5,7,8,22,DWDWWWLWLDLDDWW,0,4,4,1,12,WWWWWLWW,DDWWWDDW
+Stade Brestois,Monaco,1-2,/match/stade-brestois-29/monaco/1991,1991,17,ligue_1,20,38,2,1,2,10,5,7,4,21,12,DDDLWDDWWWWWWWDD,4,3,0,15,1,3,8,5,3,19,13,WLWWDDDDDLLLWWWW,3,3,2,7,6,DWDWWWD,LWDDDLLW
+Nancy,Cannes,2-0,/match/nancy/as-cannes/1991,1991,17,ligue_1,20,38,0,2,0,15,5,3,8,15,31,WDWWWWDWWDWWWWWW,5,2,0,12,5,18,3,7,6,9,13,WWLDDLLWDLDLWDDD,2,2,3,3,3,DWDWWWW,WDLWLWD
+Stade Rennais,Toulouse,2-0,/match/stade-rennes/toulouse-fc/1991,1991,17,ligue_1,20,38,0,2,0,20,3,5,8,9,26,DWDWWWLWLDLDDWWW,3,1,3,7,10,13,4,7,5,12,15,DDWWWWWWLDDDWDDW,0,3,4,3,10,WWLLLDW,DWWWDWD
+Olympique Lyonnais,Lille,2-1,/match/olympique-lyonnais/lillestrom/1991,1991,17,ligue_1,20,38,0,2,1,14,5,5,6,12,16,DWWDDWWWLDWDWWWW,4,3,0,10,5,12,4,8,4,16,17,DDDWWLDWDWDDWWWD,0,5,3,6,11,WDWWDDW,DDWDDDWW
+PSG,Saint-Étienne,4-2,/match/paris-saint-germain-fc/saint-etienne/1991,1991,17,ligue_1,20,38,0,4,2,9,5,5,6,22,23,WWWWDDWWWDDWWWDW,5,3,0,16,5,11,5,4,7,13,18,DWWWWWDWLWDWWDWW,0,1,6,5,16,WWDWWDWD,WWWWWWD
+Nice,Caen,0-0,/match/nice/caen/1991,1991,17,ligue_1,20,38,1,0,0,19,2,7,7,11,17,WDWDWDLWDDWDWWLD,1,6,1,7,5,7,6,5,5,18,16,DWWWDWDWWLWWDLDW,0,5,3,5,12,DDDWDDDL,DWDDWWDD
+Montpellier,Girondins Bordeaux,2-1,/match/montpellier-hsc/bordeaux/1991,1991,17,ligue_1,20,38,0,2,1,6,6,5,5,30,18,WWWWWWDDLWWDWWDD,5,2,0,19,2,8,5,5,6,16,15,DWDWWDWWDWDWWWWL,0,2,5,2,12,WWWDWWD,WWWDDWW
+Sochaux,Metz,1-1,/match/sochaux/metz/1991,1991,17,ligue_1,20,38,1,1,1,17,3,6,7,10,15,DWWWWWDWLWDDWDDW,3,4,1,9,4,5,7,5,4,23,18,DLDWWWLDWDLWWDLW,3,1,3,9,10,DWWDLDWD,DWLWLWL
+Auxerre,Nantes,0-2,/match/auxerre/nantes/1991,1991,17,ligue_1,20,38,2,0,2,2,9,5,2,26,13,DLLWDDDWLWLDWLWW,5,1,1,15,7,4,5,7,4,18,18,DDDWWDWWWWDWWWDD,0,3,4,6,13,LWDWWWW,DWWWDWD
+Sporting Toulon,Olympique,0-1,/match/sporting-toulon/olympique-marsella/1991,1991,17,ligue_1,20,38,2,0,1,16,5,5,6,14,16,WWWLWWDDDDLWWDWL,4,1,2,11,6,1,11,2,3,30,14,WLWDWDWWLLLWWWWW,3,2,2,11,8,WLWDLWW,LDDLLWW
+Olympique,Montpellier,2-0,/match/olympique-marsella/montpellier-hsc/1991,1991,18,ligue_1,20,38,0,2,0,1,12,2,3,31,14,WLWDWDWWLLLWWWWWL,8,0,1,19,6,5,7,5,5,32,19,WWWWWWDDLWWDWWDDW,1,3,5,11,16,WWWWWLWWW,WWWDLWDWD
+Cannes,Stade Rennais,1-0,/match/as-cannes/stade-rennes/1991,1991,18,ligue_1,20,38,0,1,0,20,3,7,7,9,15,WWLDDLLWDLDLWDDDW,1,5,3,6,10,18,4,5,8,11,26,DWDWWWLWLDLDDWWWW,0,4,5,2,16,WLDLDDLDD,DDWWWDDWW
+PSG,Sochaux,0-2,/match/paris-saint-germain-fc/sochaux/1991,1991,18,ligue_1,20,38,2,0,2,7,6,5,6,26,25,WWWWDDWWWDDWWWDWW,6,3,0,20,7,17,3,7,7,11,16,DWWWWWDWLWDDWDDWD,0,2,6,1,11,WWDWWDWDW,WWWWWDDW
+Saint-Étienne,Stade Brestois,6-1,/match/saint-etienne/stade-brestois-29/1991,1991,18,ligue_1,20,38,0,6,1,13,5,4,8,15,22,DWWWWWDWLWDWWDWWW,5,3,1,8,2,12,5,7,5,22,14,DDDLWDDWWWWWWWDDL,1,4,4,6,11,DWWDLDWWW,DDLDWWWWD
+Lille,Caen,1-0,/match/lillestrom/caen/1991,1991,18,ligue_1,20,38,0,1,0,15,4,8,5,17,19,DDDWWLDWDWDDWWWDW,4,3,1,10,6,9,6,6,5,18,16,DWWWDWDWWLWWDLDWD,0,6,3,5,12,DWLWWDWD,DWDDWWDDD
+Nantes,Nice,2-2,/match/nantes/nice/1991,1991,18,ligue_1,20,38,1,2,2,4,6,7,4,20,18,DDDWWDWWWWDWWWDDL,5,4,0,12,5,19,2,8,7,11,17,WDWDWDLWDDWDWWLDD,1,1,6,4,12,DDWDWWWWD,WWWLWWWD
+Metz,Olympique Lyonnais,1-2,/match/metz/olympique-lyonnais/1991,1991,18,ligue_1,20,38,2,1,2,6,7,6,4,24,19,DLDWWWLDWDLWWDLWD,4,4,1,14,8,8,6,5,6,14,17,DWWDDWWWLDWDWWWWW,1,2,6,2,11,DLWWDDWDW,DWDWLWWWW
+Monaco,Nancy,2-2,/match/monaco/nancy/1991,1991,18,ligue_1,20,38,1,2,2,2,9,5,3,21,14,WLWWDDDDDLLLWWWWL,5,2,1,12,7,10,6,3,8,17,31,WDWWWWDWWDWWWWWWW,0,1,8,3,26,WWDDLWWW,WWWWWDWWW
+Girondins Bordeaux,Auxerre,1-1,/match/bordeaux/auxerre/1991,1991,18,ligue_1,20,38,1,1,1,11,5,5,7,17,17,DWDWWDWWDWDWWWWLW,5,3,1,14,3,3,9,5,3,26,15,DLLWDDDWLWLDWLWWL,4,4,1,11,6,DDWDWWWWL,DLDDLLDLW
+Toulouse,Sporting Toulon,1-1,/match/toulouse-fc/sporting-toulon/1991,1991,18,ligue_1,20,38,1,1,1,14,4,7,6,12,17,DDWWWWWWLDDDWDDWW,4,4,1,9,5,16,5,5,7,14,17,WWWLWWDDDDLWWDWLL,1,4,4,3,10,DWWWLDDDW,WWWDDDWDL
+Stade Rennais,Monaco,1-1,/match/stade-rennes/monaco/1991,1991,19,ligue_1,20,38,1,1,1,19,4,5,9,11,27,DWDWWWLWLDLDDWWWWW,4,1,3,9,10,2,9,6,3,23,16,WLWWDDDDDLLLWWWWLD,4,3,2,9,7,WWLLLDWW,LWDDDLLWL
+Nice,Girondins Bordeaux,0-0,/match/nice/bordeaux/1991,1991,19,ligue_1,20,38,1,0,0,20,2,9,7,13,19,WDWDWDLWDDWDWWLDDD,1,7,1,7,5,11,5,6,7,18,18,DWDWWDWWDWDWWWWLWD,0,2,6,3,14,DDDWDDDLD,WWWDDWWW
+Sporting Toulon,Cannes,0-0,/match/sporting-toulon/as-cannes/1991,1991,19,ligue_1,20,38,1,0,0,17,5,6,7,15,18,WWWLWWDDDDLWWDWLLD,4,1,3,11,7,18,4,7,7,10,15,WWLDDLLWDLDLWDDDWW,2,2,4,3,5,WLWDLWWL,WDLWLWDW
+Sochaux,Saint-Étienne,2-0,/match/sochaux/saint-etienne/1991,1991,19,ligue_1,20,38,0,2,0,16,4,7,7,13,16,DWWWWWDWLWDDWDDWDL,3,5,1,10,5,10,6,4,8,21,23,DWWWWWDWLWDWWDWWWW,0,1,7,7,20,DWWDLDWDD,WWWWWWDW
+Nancy,Lille,1-1,/match/nancy/lillestrom/1991,1991,19,ligue_1,20,38,1,1,1,12,6,4,8,19,33,WDWWWWDWWDWWWWWWWD,6,2,0,14,5,9,5,8,5,18,19,DDDWWLDWDWDDWWWDWW,0,5,4,7,13,DWDWWWWW,DDWDDDWWW
+Caen,Metz,4-1,/match/caen/metz/1991,1991,19,ligue_1,20,38,0,4,1,13,6,6,6,18,17,DWWWDWDWWLWWDLDWDW,6,0,2,13,4,6,7,6,5,25,21,DLDWWWLDWDLWWDLWDL,3,2,3,10,11,WWWWLWLW,DWLWLWLD
+Montpellier,Toulouse,2-0,/match/montpellier-hsc/toulouse-fc/1991,1991,19,ligue_1,20,38,0,2,0,5,7,5,6,32,21,WWWWWWDDLWWDWWDDWW,6,2,0,21,3,14,4,8,6,13,18,DDWWWWWWLDDDWDDWWD,0,3,5,3,12,WWWDWWDW,DWWWDWDW
+Auxerre,Olympique,4-0,/match/auxerre/olympique-marsella/1991,1991,19,ligue_1,20,38,0,4,0,3,9,6,3,27,16,DLLWDDDWLWLDWLWWLD,5,1,2,15,9,1,13,2,3,33,14,WLWDWDWWLLLWWWWWLW,4,2,2,12,8,LWDWWWWL,LDDLLWWL
+Stade Brestois,PSG,0-0,/match/stade-brestois-29/paris-saint-germain-fc/1991,1991,19,ligue_1,20,38,1,0,0,15,5,7,6,23,20,DDDLWDDWWWWWWWDDLW,4,3,1,16,3,7,6,5,7,26,27,WWWWDDWWWDDWWWDWWL,0,2,6,6,18,DWDWWWDL,WWDWDWWW
+Olympique Lyonnais,Nantes,2-0,/match/olympique-lyonnais/nantes/1991,1991,19,ligue_1,20,38,0,2,0,8,7,5,6,16,18,DWWDDWWWLDWDWWWWWL,5,3,0,12,6,4,6,8,4,22,20,DDDWWDWWWWDWWWDDLD,1,3,4,8,13,WDWWDDWW,DWWWDWDL
+Olympique,Metz,3-0,/match/olympique-marsella/metz/1991,1991,20,ligue_1,20,38,0,3,0,1,13,2,4,33,18,WLWDWDWWLLLWWWWWLWW,9,0,1,21,6,10,7,6,6,26,25,DLDWWWLDWDLWWDLWDLW,3,2,4,11,15,WWWWWLWWWW,DWLWLWLDW
+Toulouse,Nice,1-2,/match/toulouse-fc/nice/1991,1991,20,ligue_1,20,38,2,1,2,16,4,8,7,13,20,DDWWWWWWLDDDWDDWWDW,4,5,1,10,6,20,2,10,7,13,19,WDWDWDLWDDWDWWLDDDD,1,2,6,6,14,DWWWLDDDWD,WWWLWWWDD
+PSG,Stade Rennais,1-1,/match/paris-saint-germain-fc/stade-rennes/1991,1991,20,ligue_1,20,38,1,1,1,8,6,6,7,26,27,WWWWDDWWWDDWWWDWWLD,6,3,1,20,9,19,4,6,9,12,28,DWDWWWLWLDLDDWWWWWD,0,4,6,2,17,WWDWWDWDWL,DDWWWDDWWW
+Stade Brestois,Nancy,3-3,/match/stade-brestois-29/nancy/1991,1991,20,ligue_1,20,38,1,3,3,14,5,8,6,23,20,DDDLWDDWWWWWWWDDLWD,4,4,1,16,3,9,6,5,8,20,34,WDWWWWDWWDWWWWWWWDD,0,2,8,5,28,DWDWWWDLD,WWWWWDWWWD
+Cannes,Olympique Lyonnais,3-2,/match/as-cannes/olympique-lyonnais/1991,1991,20,ligue_1,20,38,0,3,2,18,4,8,7,10,15,WWLDDLLWDLDLWDDDWWD,2,5,3,7,10,5,8,5,6,18,18,DWWDDWWWLDWDWWWWWLW,2,2,6,4,12,WLDLDDLDDW,DWDWLWWWWL
+Nantes,Lille,0-0,/match/nantes/lillestrom/1991,1991,20,ligue_1,20,38,1,0,0,6,6,8,5,22,22,DDDWWDWWWWDWWWDDLDW,5,5,0,14,7,11,5,9,5,19,20,DDDWWLDWDWDDWWWDWWD,0,6,4,8,14,DDWDWWWWDD,DDWDDDWWWD
+Girondins Bordeaux,Caen,1-1,/match/bordeaux/caen/1991,1991,20,ligue_1,20,38,1,1,1,12,5,7,7,18,18,DWDWWDWWDWDWWWWLWDD,5,4,1,15,4,7,7,6,6,22,18,DWWWDWDWWLWWDLDWDWW,0,6,4,5,13,DDWDWWWWLD,DWDDWWDDDW
+Monaco,Auxerre,0-0,/match/monaco/auxerre/1991,1991,20,ligue_1,20,38,1,0,0,3,9,7,3,24,17,WLWWDDDDDLLLWWWWLDD,5,3,1,14,9,2,10,6,3,31,16,DLLWDDDWLWLDWLWWLDW,4,5,1,12,7,WWDDLWWWD,DLDDLLDLWD
+Sochaux,Montpellier,0-0,/match/sochaux/montpellier-hsc/1991,1991,20,ligue_1,20,38,1,0,0,15,5,7,7,15,16,DWWWWWDWLWDDWDDWDLW,4,5,1,12,5,4,8,5,6,34,21,WWWWWWDDLWWDWWDDWWW,1,3,6,11,18,DWWDLDWDDW,WWWDLWDWDW
+Saint-Étienne,Sporting Toulon,3-0,/match/saint-etienne/sporting-toulon/1991,1991,20,ligue_1,20,38,0,3,0,13,6,4,9,21,25,DWWWWWDWLWDWWDWWWWW,6,3,1,14,3,17,5,7,7,15,18,WWWLWWDDDDLWWDWLLDD,1,5,4,4,11,DWWDLDWWWW,WWWDDDWDLD
+Auxerre,Cannes,0-3,/match/auxerre/as-cannes/1991,1991,21,ligue_1,20,38,2,0,3,2,10,7,3,31,16,DLLWDDDWLWLDWLWWLDWD,6,1,2,19,9,17,5,8,7,13,17,WWLDDLLWDLDLWDDDWWDW,2,3,4,3,5,LWDWWWWLW,WDLWLWDWD
+Sporting Toulon,PSG,0-0,/match/sporting-toulon/paris-saint-germain-fc/1991,1991,21,ligue_1,20,38,1,0,0,18,5,7,8,15,21,WWWLWWDDDDLWWDWLLDDW,4,2,3,11,7,8,6,7,7,27,28,WWWWDDWWWDDWWWDWWLDD,0,3,6,6,18,WLWDLWWLD,WWDWDWWWD
+Nice,Saint-Étienne,2-0,/match/nice/saint-etienne/1991,1991,21,ligue_1,20,38,0,2,0,19,3,10,7,15,20,WDWDWDLWDDWDWWLDDDDL,1,8,1,7,5,9,7,4,9,24,25,DWWWWWDWLWDWWDWWWWWW,0,1,8,7,22,DDDWDDDLDD,WWWWWWDWW
+Stade Rennais,Stade Brestois,3-0,/match/stade-rennes/stade-brestois-29/1991,1991,21,ligue_1,20,38,0,3,0,20,4,7,9,13,29,DWDWWWLWLDLDDWWWWWDD,4,2,3,10,11,14,5,9,6,26,23,DDDLWDDWWWWWWWDDLWDD,1,4,5,7,17,WWLLLDWWD,DDLDWWWWDW
+Lille,Girondins Bordeaux,0-0,/match/lillestrom/bordeaux/1991,1991,21,ligue_1,20,38,1,0,0,11,5,10,5,19,20,DDDWWLDWDWDDWWWDWWDD,5,3,1,11,6,10,5,8,7,19,19,DWDWWDWWDWDWWWWLWDDD,0,3,6,3,14,DWLWWDWDW,WWWDDWWWD
+Olympique Lyonnais,Toulouse,4-1,/match/olympique-lyonnais/toulouse-fc/1991,1991,21,ligue_1,20,38,0,4,1,6,8,5,7,20,21,DWWDDWWWLDWDWWWWWLWW,6,3,0,14,6,16,4,8,8,14,22,DDWWWWWWLDDDWDDWWDWL,0,3,6,3,14,WDWWDDWWW,DWWWDWDWW
+Montpellier,Monaco,2-1,/match/montpellier-hsc/monaco/1991,1991,21,ligue_1,20,38,0,2,1,4,8,6,6,34,21,WWWWWWDDLWWDWWDDWWWD,7,2,0,23,3,3,9,8,3,24,17,WLWWDDDDDLLLWWWWLDDD,4,4,2,10,8,WWWDWWDWW,LWDDDLLWLD
+Caen,Olympique,0-0,/match/caen/olympique-marsella/1991,1991,21,ligue_1,20,38,1,0,0,7,7,7,6,23,19,DWWWDWDWWLWWDLDWDWWD,7,0,2,17,5,1,14,2,4,36,18,WLWDWDWWLLLWWWWWLWWW,4,2,3,12,12,WWWWLWLWW,LDDLLWWLW
+Metz,Nantes,2-0,/match/metz/nantes/1991,1991,21,ligue_1,20,38,0,2,0,13,7,6,7,26,28,DLDWWWLDWDLWWDLWDLWW,4,4,2,15,10,5,6,9,5,22,22,DDDWWDWWWWDWWWDDLDWD,1,3,5,8,15,DLWWDDWDWL,DWWWDWDLW
+Nancy,Sochaux,2-0,/match/nancy/sochaux/1991,1991,21,ligue_1,20,38,0,2,0,12,6,6,8,23,37,WDWWWWDWWDWWWWWWWDDD,6,3,0,15,6,15,5,8,7,15,16,DWWWWWDWLWDDWDDWDLWD,1,2,6,3,11,DWDWWWWWD,WWWWWDDWL
+Olympique,Olympique Lyonnais,7-0,/match/olympique-marsella/olympique-lyonnais/1991,1991,22,ligue_1,20,38,0,7,0,1,14,3,4,36,18,WLWDWDWWLLLWWWWWLWWWD,10,0,1,24,6,5,9,5,7,24,22,DWWDDWWWLDWDWWWWWLWWW,2,2,7,6,15,WWWWWLWWWWW,DWDWLWWWWLW
+Nancy,Stade Rennais,0-0,/match/nancy/stade-rennes/1991,1991,22,ligue_1,20,38,1,0,0,8,7,6,8,25,37,WDWWWWDWWDWWWWWWWDDDW,7,3,0,17,6,20,5,7,9,16,29,DWDWWWLWLDLDDWWWWWDDW,0,5,6,3,18,DWDWWWWWDW,DDWWWDDWWWD
+Girondins Bordeaux,Metz,1-1,/match/bordeaux/metz/1991,1991,22,ligue_1,20,38,1,1,1,13,5,9,7,19,19,DWDWWDWWDWDWWWWLWDDDD,5,5,1,16,5,10,8,6,7,28,28,DLDWWWLDWDLWWDLWDLWWW,3,2,5,11,18,DDWDWWWWLDD,DWLWLWLDWW
+Toulouse,Lille,2-2,/match/toulouse-fc/lillestrom/1991,1991,22,ligue_1,20,38,1,2,2,18,4,8,9,15,26,DDWWWWWWLDDDWDDWWDWLW,4,5,2,11,8,11,5,11,5,19,20,DDDWWLDWDWDDWWWDWWDDD,0,7,4,8,14,DWWWLDDDWDL,DDWDDDWWWDD
+Cannes,Nice,2-1,/match/as-cannes/nice/1991,1991,22,ligue_1,20,38,0,2,1,16,6,8,7,16,17,WWLDDLLWDLDLWDDDWWDWL,3,5,3,10,12,17,4,10,7,17,20,WDWDWDLWDDWDWWLDDDDLW,2,2,6,8,15,WLDLDDLDDWW,WWWLWWWDDL
+Sochaux,Caen,1-0,/match/sochaux/caen/1991,1991,22,ligue_1,20,38,0,1,0,15,5,8,8,15,18,DWWWWWDWLWDDWDDWDLWDW,4,6,1,12,5,7,7,8,6,23,19,DWWWDWDWWLWWDLDWDWWDD,0,7,4,6,14,DWWDLDWDDWD,DWDDWWDDDWD
+PSG,Montpellier,2-0,/match/paris-saint-germain-fc/montpellier-hsc/1991,1991,22,ligue_1,20,38,0,2,0,9,6,8,7,27,28,WWWWDDWWWDDWWWDWWLDDD,6,4,1,21,10,2,9,6,6,36,22,WWWWWWDDLWWDWWDDWWWDW,1,4,6,11,18,WWDWWDWDWLD,WWWDLWDWDWD
+Saint-Étienne,Auxerre,2-1,/match/saint-etienne/auxerre/1991,1991,22,ligue_1,20,38,0,2,1,12,7,4,10,24,27,DWWWWWDWLWDWWDWWWWWWW,7,3,1,17,3,3,10,7,4,31,19,DLLWDDDWLWLDWLWWLDWDL,4,6,1,12,7,DWWDLDWWWWW,DLDDLLDLWDD
+Monaco,Nantes,2-1,/match/monaco/nantes/1991,1991,22,ligue_1,20,38,0,2,1,4,9,8,4,25,19,WLWWDDDDDLLLWWWWLDDDW,5,4,1,14,9,6,6,9,6,22,24,DDDWWDWWWWDWWWDDLDWDW,1,3,6,8,17,WWDDLWWWDD,DWWWDWDLWW
+Stade Brestois,Sporting Toulon,2-2,/match/stade-brestois-29/sporting-toulon/1991,1991,22,ligue_1,20,38,1,2,2,14,5,9,7,26,26,DDDLWDDWWWWWWWDDLWDDW,4,5,1,19,6,19,5,8,8,15,21,WWWLWWDDDDLWWDWLLDDWD,1,5,5,4,14,DWDWWWDLDD,WWWDDDWDLDW
+Olympique Lyonnais,Monaco,1-0,/match/olympique-lyonnais/monaco/1991,1991,23,ligue_1,20,38,0,1,0,5,9,5,8,24,29,DWWDDWWWLDWDWWWWWLWWWW,7,3,0,18,7,2,10,8,4,27,20,WLWWDDDDDLLLWWWWLDDDWW,4,4,3,11,10,WDWWDDWWWW,LWDDDLLWLDW
+Nantes,Girondins Bordeaux,0-0,/match/nantes/bordeaux/1991,1991,23,ligue_1,20,38,1,0,0,9,6,9,7,23,26,DDDWWDWWWWDWWWDDLDWDWW,5,6,0,14,7,14,5,10,7,20,20,DWDWWDWWDWDWWWWLWDDDDD,0,4,6,3,14,DDWDWWWWDDD,WWWDDWWWDD
+Nice,Stade Brestois,2-0,/match/nice/stade-brestois-29/1991,1991,23,ligue_1,20,38,0,2,0,18,4,10,8,18,22,WDWDWDLWDDWDWWLDDDDLWW,2,8,1,9,5,16,5,10,7,28,28,DDDLWDDWWWWWWWDDLWDDWD,1,4,6,7,20,DDDWDDDLDDW,DDLDWWWWDWW
+Stade Rennais,Sochaux,1-1,/match/stade-rennes/sochaux/1991,1991,23,ligue_1,20,38,1,1,1,20,5,8,9,16,29,DWDWWWLWLDLDDWWWWWDDWD,5,2,3,13,11,12,6,8,8,16,18,DWWWWWDWLWDDWDDWDLWDWW,1,2,7,3,13,WWLLLDWWDW,WWWWWDDWLW
+Metz,Toulouse,2-1,/match/metz/toulouse-fc/1991,1991,23,ligue_1,20,38,0,2,1,11,8,7,7,29,29,DLDWWWLDWDLWWDLWDLWWWD,5,4,2,17,10,17,4,9,9,17,28,DDWWWWWWLDDDWDDWWDWLWD,0,3,7,4,18,DLWWDDWDWLW,DWWWDWDWWW
+Caen,Cannes,0-1,/match/caen/as-cannes/1991,1991,23,ligue_1,20,38,2,0,1,10,7,8,7,23,20,DWWWDWDWWLWWDLDWDWWDDW,7,1,2,17,5,15,7,8,7,18,18,WWLDDLLWDLDLWDDDWWDWLW,3,3,4,6,5,WWWWLWLWWD,WDLWLWDWDL
+Montpellier,Saint-Étienne,0-0,/match/montpellier-hsc/saint-etienne/1991,1991,23,ligue_1,20,38,1,0,0,3,9,6,7,36,24,WWWWWWDDLWWDWWDDWWWDWW,8,2,0,25,4,8,8,4,10,26,28,DWWWWWDWLWDWWDWWWWWWWW,0,1,9,7,24,WWWDWWDWWW,WWWWWWDWWW
+Auxerre,PSG,0-1,/match/auxerre/paris-saint-germain-fc/1991,1991,23,ligue_1,20,38,2,0,1,4,10,7,5,32,21,DLLWDDDWLWLDWLWWLDWDLW,6,1,3,19,12,6,7,8,7,29,28,WWWWDDWWWDDWWWDWWLDDDW,0,4,6,6,18,LWDWWWWLWL,WWDWDWWWDD
+Lille,Olympique,1-0,/match/lillestrom/olympique-marsella/1991,1991,23,ligue_1,20,38,0,1,0,13,5,12,5,21,22,DDDWWLDWDWDDWWWDWWDDDD,5,4,1,11,6,1,15,3,4,43,18,WLWDWDWWLLLWWWWWLWWWDW,4,3,3,12,12,DWLWWDWDWD,LDDLLWWLWD
+Sporting Toulon,Nancy,2-0,/match/sporting-toulon/nancy/1991,1991,23,ligue_1,20,38,0,2,0,19,5,9,8,17,23,WWWLWWDDDDLWWDWLLDDWDD,4,3,3,11,7,7,7,7,8,25,37,WDWWWWDWWDWWWWWWWDDDWD,0,3,8,8,31,WLWDLWWLDD,WWWWWDWWWDD
+Toulouse,Caen,3-2,/match/toulouse-fc/caen/1991,1991,24,ligue_1,20,38,0,3,2,20,4,9,10,18,30,DDWWWWWWLDDDWDDWWDWLWDW,4,6,2,13,10,12,7,8,8,23,21,DWWWDWDWWLWWDLDWDWWDDWL,0,7,5,6,15,DWWWLDDDWDLD,DWDDWWDDDWDW
+PSG,Nice,0-2,/match/paris-saint-germain-fc/nice/1991,1991,24,ligue_1,20,38,2,0,2,5,8,8,7,30,28,WWWWDDWWWDDWWWDWWLDDDWL,7,4,1,23,10,17,5,10,8,20,22,WDWDWDLWDDWDWWLDDDDLWWW,2,2,7,9,17,WWDWWDWDWLDW,WWWLWWWDDLW
+Sochaux,Olympique Lyonnais,1-2,/match/sochaux/olympique-lyonnais/1991,1991,24,ligue_1,20,38,2,1,2,13,6,9,8,17,19,DWWWWWDWLWDDWDDWDLWDWWD,5,6,1,13,5,4,10,5,8,25,29,DWWDDWWWLDWDWWWWWLWWWWW,2,2,8,6,22,DWWDLDWDDWDW,DWDWLWWWWLWW
+Saint-Étienne,Metz,2-1,/match/saint-etienne/metz/1991,1991,24,ligue_1,20,38,0,2,1,7,8,5,10,26,28,DWWWWWDWLWDWWDWWWWWWWWD,8,3,1,19,4,6,9,7,7,31,30,DLDWWWLDWDLWWDLWDLWWWDW,3,3,5,12,19,DWWDLDWWWWWW,DWLWLWLDWWD
+Cannes,Lille,2-1,/match/as-cannes/lillestrom/1991,1991,24,ligue_1,20,38,0,2,1,15,8,8,7,19,18,WWLDDLLWDLDLWDDDWWDWLWL,4,5,3,12,13,9,6,12,5,22,22,DDDWWLDWDWDDWWWDWWDDDDW,0,8,4,10,16,WLDLDDLDDWWW,DDWDDDWWWDDD
+Nancy,Montpellier,1-1,/match/nancy/montpellier-hsc/1991,1991,24,ligue_1,20,38,1,1,1,10,7,7,9,25,39,WDWWWWDWWDWWWWWWWDDDWDW,7,4,0,17,6,2,9,7,7,36,24,WWWWWWDDLWWDWWDDWWWDWWD,1,4,7,11,20,DWDWWWWWDWD,WWWDLWDWDWDW
+Stade Brestois,Auxerre,1-3,/match/stade-brestois-29/auxerre/1991,1991,24,ligue_1,20,38,2,1,3,16,5,10,8,28,30,DDDLWDDWWWWWWWDDLWDDWDW,4,6,1,21,8,8,10,7,6,32,22,DLLWDDDWLWLDWLWWLDWDLWL,4,6,2,13,9,DWDWWWDLDDD,DLDDLLDLWDDW
+Monaco,Girondins Bordeaux,2-0,/match/monaco/bordeaux/1991,1991,24,ligue_1,20,38,0,2,0,3,10,8,5,27,21,WLWWDDDDDLLLWWWWLDDDWWW,6,4,1,16,10,14,5,11,7,20,20,DWDWWDWWDWDWWWWLWDDDDDD,0,5,6,3,14,WWDDLWWWDDW,WWWDDWWWDDD
+Olympique,Nantes,6-0,/match/olympique-marsella/nantes/1991,1991,24,ligue_1,20,38,0,6,0,1,15,3,5,43,19,WLWDWDWWLLLWWWWWLWWWDWW,11,0,1,31,6,11,6,10,7,23,26,DDDWWDWWWWDWWWDDLDWDWWD,1,3,7,9,19,WWWWWLWWWWWW,DWWWDWDLWWW
+Stade Rennais,Sporting Toulon,0-0,/match/stade-rennes/sporting-toulon/1991,1991,24,ligue_1,20,38,1,0,0,19,5,9,9,17,30,DWDWWWLWLDLDDWWWWWDDWDD,5,3,3,14,12,18,6,9,8,19,23,WWWLWWDDDDLWWDWLLDDWDDW,1,6,5,6,16,WWLLLDWWDWD,WWWDDDWDLDWD
+Girondins Bordeaux,Olympique,1-1,/match/bordeaux/olympique-marsella/1991,1991,25,ligue_1,20,38,1,1,1,14,5,11,8,20,22,DWDWWDWWDWDWWWWLWDDDDDDW,5,6,1,17,6,1,16,3,5,49,19,WLWDWDWWLLLWWWWWLWWWDWWW,4,3,4,12,13,DDWDWWWWLDDD,LDDLLWWLWDW
+Caen,Saint-Étienne,1-0,/match/caen/saint-etienne/1991,1991,25,ligue_1,20,38,0,1,0,15,7,8,9,25,24,DWWWDWDWWLWWDLDWDWWDDWLW,7,1,3,17,6,5,9,5,10,28,29,DWWWWWDWLWDWWDWWWWWWWWDW,0,2,9,7,24,WWWWLWLWWDL,WWWWWWDWWWD
+Nantes,Toulouse,0-0,/match/nantes/toulouse-fc/1991,1991,25,ligue_1,20,38,1,0,0,12,6,10,8,23,32,DDDWWDWWWWDWWWDDLDWDWWDW,5,7,0,14,7,18,5,9,10,21,32,DDWWWWWWLDDDWDDWWDWLWDWW,0,3,8,5,20,DDWDWWWWDDDD,DWWWDWDWWWW
+Nice,Stade Rennais,2-2,/match/nice/stade-rennes/1991,1991,25,ligue_1,20,38,1,2,2,16,6,10,8,22,22,WDWDWDLWDDWDWWLDDDDLWWWL,3,8,1,11,5,20,5,10,9,17,30,DWDWWWLWLDLDDWWWWWDDWDDD,0,6,6,3,18,DDDWDDDLDDWW,DDWWWDDWWWDD
+Metz,Cannes,0-0,/match/metz/as-cannes/1991,1991,25,ligue_1,20,38,1,0,0,9,9,7,8,32,32,DLDWWWLDWDLWWDLWDLWWWDWW,6,4,2,19,11,8,9,8,7,21,19,WWLDDLLWDLDLWDDDWWDWLWLW,4,3,4,7,5,DLWWDDWDWLWW,WDLWLWDWDLL
+Olympique Lyonnais,PSG,0-0,/match/olympique-lyonnais/paris-saint-germain-fc/1991,1991,25,ligue_1,20,38,1,0,0,3,11,5,8,27,30,DWWDDWWWLDWDWWWWWLWWWWWL,8,3,0,19,7,6,8,8,8,30,30,WWWWDDWWWDDWWWDWWLDDDWLL,1,4,6,7,18,WDWWDDWWWWW,WWDWDWWWDDL
+Montpellier,Stade Brestois,1-0,/match/montpellier-hsc/stade-brestois-29/1991,1991,25,ligue_1,20,38,0,1,0,4,9,8,7,37,25,WWWWWWDDLWWDWWDDWWWDWWDD,8,3,0,25,4,19,5,10,9,29,33,DDDLWDDWWWWWWWDDLWDDWDWL,1,4,7,7,22,WWWDWWDWWWD,DDLDWWWWDWWW
+Auxerre,Nancy,1-1,/match/auxerre/nancy/1991,1991,25,ligue_1,20,38,1,1,1,7,11,7,6,35,23,DLLWDDDWLWLDWLWWLDWDLWLL,6,1,4,19,13,10,7,8,9,26,40,WDWWWWDWWDWWWWWWWDDDWDWD,0,3,9,8,33,LWDWWWWLWLL,WWWWWDWWWDDW
+Lille,Monaco,0-0,/match/lillestrom/monaco/1991,1991,25,ligue_1,20,38,1,0,0,11,6,12,6,23,24,DDDWWLDWDWDDWWWDWWDDDDWW,6,4,1,12,6,2,11,8,5,29,21,WLWWDDDDDLLLWWWWLDDDWWWW,4,4,4,11,11,DWLWWDWDWDW,LWDDDLLWLDWW
+Sporting Toulon,Sochaux,1-0,/match/sporting-toulon/sochaux/1991,1991,25,ligue_1,20,38,0,1,0,17,6,10,8,19,23,WWWLWWDDDDLWWDWLLDDWDDWD,5,3,3,13,7,13,6,9,9,18,21,DWWWWWDWLWDDWDDWDLWDWWDL,1,3,7,4,14,WLWDLWWLDDW,WWWWWDDWLWD
+Sporting Toulon,Montpellier,1-1,/match/sporting-toulon/montpellier-hsc/1991,1991,26,ligue_1,20,38,1,1,1,15,7,10,8,20,23,WWWLWWDDDDLWWDWLLDDWDDWDW,6,3,3,14,7,2,10,8,7,38,25,WWWWWWDDLWWDWWDDWWWDWWDDW,1,5,7,12,21,WLWDLWWLDDWW,WWWDLWDWDWDWD
+Monaco,Metz,2-0,/match/monaco/metz/1991,1991,26,ligue_1,20,38,0,2,0,3,11,9,5,29,21,WLWWDDDDDLLLWWWWLDDDWWWWD,7,4,1,18,10,8,9,8,8,32,32,DLDWWWLDWDLWWDLWDLWWWDWWD,3,3,6,13,21,WWDDLWWWDDWW,DWLWLWLDWWDW
+Toulouse,Girondins Bordeaux,0-0,/match/toulouse-fc/bordeaux/1991,1991,26,ligue_1,20,38,1,0,0,18,5,10,10,21,32,DDWWWWWWLDDDWDDWWDWLWDWWD,5,6,2,16,12,14,5,12,8,21,23,DWDWWDWWDWDWWWWLWDDDDDDWD,0,5,7,3,16,DWWWLDDDWDLDW,WWWDDWWWDDDW
+Saint-Étienne,Lille,0-0,/match/saint-etienne/lillestrom/1991,1991,26,ligue_1,20,38,1,0,0,5,9,5,11,28,30,DWWWWWDWLWDWWDWWWWWWWWDWW,9,3,1,21,5,10,6,13,6,23,24,DDDWWLDWDWDDWWWDWWDDDDWWD,0,8,5,11,18,DWWDLDWWWWWWW,DDWDDDWWWDDDW
+Cannes,Nantes,2-1,/match/as-cannes/nantes/1991,1991,26,ligue_1,20,38,0,2,1,11,9,9,7,21,19,WWLDDLLWDLDLWDDDWWDWLWLWD,5,5,3,14,14,12,6,11,8,23,32,DDDWWDWWWWDWWWDDLDWDWWDWD,1,3,8,9,25,WLDLDDLDDWWWW,DWWWDWDLWWWW
+Stade Rennais,Auxerre,2-2,/match/stade-rennes/auxerre/1991,1991,26,ligue_1,20,38,1,2,2,19,5,11,9,19,32,DWDWWWLWLDLDDWWWWWDDWDDDD,5,4,3,14,12,6,11,8,6,36,24,DLLWDDDWLWLDWLWWLDWDLWLLD,5,6,2,16,10,WWLLLDWWDWDD,DLDDLLDLWDDWL
+PSG,Olympique,0-1,/match/paris-saint-germain-fc/olympique-marsella/1991,1991,26,ligue_1,20,38,2,0,1,7,8,9,8,30,30,WWWWDDWWWDDWWWDWWLDDDWLLD,7,4,2,23,12,1,16,4,5,50,20,WLWDWDWWLLLWWWWWLWWWDWWWD,4,4,4,13,14,WWDWWDWDWLDWL,LDDLLWWLWDWD
+Stade Brestois,Olympique Lyonnais,3-0,/match/stade-brestois-29/olympique-lyonnais/1991,1991,26,ligue_1,20,38,0,3,0,20,5,10,10,29,34,DDDLWDDWWWWWWWDDLWDDWDWLW,4,6,2,22,11,4,11,6,8,27,30,DWWDDWWWLDWDWWWWWLWWWWWLD,3,2,8,8,23,DWDWWWDLDDDL,DWDWLWWWWLWWL
+Sochaux,Nice,0-0,/match/sochaux/nice/1991,1991,26,ligue_1,20,38,1,0,0,17,6,9,10,18,22,DWWWWWDWLWDDWDDWDLWDWWDLW,5,6,2,14,7,16,6,11,8,24,24,WDWDWDLWDDWDWWLDDDDLWWWLD,3,2,7,11,17,DWWDLDWDDWDWL,WWWLWWWDDLWL
+Nancy,Caen,0-0,/match/nancy/caen/1991,1991,26,ligue_1,20,38,1,0,0,9,7,9,9,27,41,WDWWWWDWWDWWWWWWWDDDWDWDD,7,5,0,18,7,13,8,8,9,26,24,DWWWDWDWWLWWDLDWDWWDDWLWW,0,7,6,8,18,DWDWWWWWDWDD,DWDDWWDDDWDWW
+Olympique,Toulouse,1-0,/match/olympique-marsella/toulouse-fc/1991,1991,27,ligue_1,20,38,0,1,0,1,17,4,5,51,20,WLWDWDWWLLLWWWWWLWWWDWWWDL,12,0,1,37,6,18,5,11,10,21,32,DDWWWWWWLDDDWDDWWDWLWDWWDD,0,4,8,5,20,WWWWWLWWWWWWW,DWWWDWDWWWWD
+Monaco,Nice,2-1,/match/monaco/nice/1991,1991,27,ligue_1,20,38,0,2,1,2,12,9,5,31,21,WLWWDDDDDLLLWWWWLDDDWWWWDW,8,4,1,20,10,16,6,12,8,24,24,WDWDWDLWDDWDWWLDDDDLWWWLDD,3,3,7,11,17,WWDDLWWWDDWWW,WWWLWWWDDLWLD
+Montpellier,Stade Rennais,1-0,/match/montpellier-hsc/stade-rennes/1991,1991,27,ligue_1,20,38,0,1,0,3,10,9,7,39,26,WWWWWWDDLWWDWWDDWWWDWWDDWD,9,3,0,26,4,20,5,12,9,21,34,DWDWWWLWLDLDDWWWWWDDWDDDDD,0,7,6,5,20,WWWDWWDWWWDW,DDWWWDDWWWDDD
+Girondins Bordeaux,Cannes,1-1,/match/bordeaux/as-cannes/1991,1991,27,ligue_1,20,38,1,1,1,15,5,13,8,21,23,DWDWWDWWDWDWWWWLWDDDDDDWDD,5,7,1,18,7,5,10,9,7,23,20,WWLDDLLWDLDLWDDDWWDWLWLWDW,4,4,4,7,5,DDWDWWWWLDDDD,WDLWLWDWDLLD
+Caen,PSG,2-0,/match/caen/paris-saint-germain-fc/1991,1991,27,ligue_1,20,38,0,2,0,12,8,9,9,26,24,DWWWDWDWWLWWDLDWDWWDDWLWWD,8,1,3,18,6,9,8,9,9,30,31,WWWWDDWWWDDWWWDWWLDDDWLLDL,1,5,6,7,18,WWWWLWLWWDLW,WWDWDWWWDDLD
+Lille,Sporting Toulon,4-1,/match/lillestrom/sporting-toulon/1991,1991,27,ligue_1,20,38,0,4,1,11,6,14,6,23,24,DDDWWLDWDWDDWWWDWWDDDDWWDD,6,5,1,12,6,14,7,11,8,21,24,WWWLWWDDDDLWWDWLLDDWDDWDWD,1,7,5,6,16,DWLWWDWDWDWD,WWWDDDWDLDWDD
+Nantes,Nancy,1-0,/match/nantes/nancy/1991,1991,27,ligue_1,20,38,0,1,0,13,6,11,9,24,34,DDDWWDWWWWDWWWDDLDWDWWDWDW,5,8,0,14,7,8,7,10,9,27,41,WDWWWWDWWDWWWWWWWDDDWDWDDD,0,4,9,9,34,DDWDWWWWDDDDD,WWWWWDWWWDDWD
+Auxerre,Sochaux,4-1,/match/auxerre/sochaux/1991,1991,27,ligue_1,20,38,0,4,1,7,11,9,6,38,26,DLLWDDDWLWLDWLWWLDWDLWLLDD,6,2,4,20,14,17,6,10,10,18,22,DWWWWWDWLWDDWDDWDLWDWWDLWD,1,3,8,4,15,LWDWWWWLWLLD,WWWWWDDWLWDW
+Metz,Stade Brestois,0-0,/match/metz/stade-brestois-29/1991,1991,27,ligue_1,20,38,1,0,0,10,9,8,9,32,34,DLDWWWLDWDLWWDLWDLWWWDWWDW,6,5,2,19,11,19,6,10,10,32,34,DDDLWDDWWWWWWWDDLWDDWDWLWW,1,4,8,7,23,DLWWDDWDWLWWD,DDLDWWWWDWWWW
+Olympique Lyonnais,Saint-Étienne,1-1,/match/olympique-lyonnais/saint-etienne/1991,1991,27,ligue_1,20,38,1,1,1,4,11,6,9,27,33,DWWDDWWWLDWDWWWWWLWWWWWLDW,8,4,0,19,7,6,9,6,11,28,30,DWWWWWDWLWDWWDWWWWWWWWDWWD,0,2,10,7,25,WDWWDDWWWWWD,WWWWWWDWWWDW
+Montpellier,Auxerre,1-2,/match/montpellier-hsc/auxerre/1991,1991,28,ligue_1,20,38,2,1,2,3,11,9,7,40,26,WWWWWWDDLWWDWWDDWWWDWWDDWDW,10,3,0,27,4,5,12,9,6,42,27,DLLWDDDWLWLDWLWWLDWDLWLLDDW,5,7,2,18,12,WWWDWWDWWWDWW,DLDDLLDLWDDWLD
+Nancy,Toulouse,1-1,/match/nancy/toulouse-fc/1991,1991,28,ligue_1,20,38,1,1,1,12,7,10,10,27,42,WDWWWWDWWDWWWWWWWDDDWDWDDDW,7,6,0,18,7,19,5,11,11,21,33,DDWWWWWWLDDDWDDWWDWLWDWWDDW,0,4,9,5,21,DWDWWWWWDWDDD,DWWWDWDWWWWDW
+Sochaux,Girondins Bordeaux,1-0,/match/sochaux/bordeaux/1991,1991,28,ligue_1,20,38,0,1,0,17,6,10,11,19,26,DWWWWWDWLWDDWDDWDLWDWWDLWDW,5,7,2,14,7,14,5,14,8,22,24,DWDWWDWWDWDWWWWLWDDDDDDWDDD,0,6,7,3,16,DWWDLDWDDWDWLD,WWWDDWWWDDDWD
+Saint-Étienne,Nantes,1-3,/match/saint-etienne/nantes/1991,1991,28,ligue_1,20,38,2,1,3,7,9,7,11,29,31,DWWWWWDWLWDWWDWWWWWWWWDWWDD,9,4,1,21,5,11,7,11,9,25,34,DDDWWDWWWWDWWWDDLDWDWWDWDWW,1,3,9,10,27,DWWDLDWWWWWWWD,DWWWDWDLWWWWW
+Stade Brestois,Lille,1-0,/match/stade-brestois-29/lillestrom/1991,1991,28,ligue_1,20,38,0,1,0,18,6,11,10,32,34,DDDLWDDWWWWWWWDDLWDDWDWLWWD,5,6,2,25,11,6,7,14,6,27,25,DDDWWLDWDWDDWWWDWWDDDDWWDDW,0,9,5,11,18,DWDWWWDLDDDLW,DDWDDDWWWDDDWD
+PSG,Metz,2-1,/match/paris-saint-germain-fc/metz/1991,1991,28,ligue_1,20,38,0,2,1,13,8,9,10,30,33,WWWWDDWWWDDWWWDWWLDDDWLLDLW,7,4,3,23,13,10,9,9,9,32,34,DLDWWWLDWDLWWDLWDLWWWDWWDWD,3,3,7,13,23,WWDWWDWDWLDWLL,DWLWLWLDWWDWW
+Stade Rennais,Olympique Lyonnais,2-0,/match/stade-rennes/olympique-lyonnais/1991,1991,28,ligue_1,20,38,0,2,0,20,5,12,10,21,35,DWDWWWLWLDLDDWWWWWDDWDDDDDW,5,5,3,16,14,4,11,7,9,28,34,DWWDDWWWLDWDWWWWWLWWWWWLDWD,3,2,9,8,26,WWLLLDWWDWDDD,DWDWLWWWWLWWLW
+Monaco,Caen,2-0,/match/monaco/caen/1991,1991,28,ligue_1,20,38,0,2,0,2,13,9,5,33,22,WLWWDDDDDLLLWWWWLDDDWWWWDWW,9,4,1,22,11,9,9,9,9,28,24,DWWWDWDWWLWWDLDWDWWDDWLWWDW,0,8,6,8,18,WWDDLWWWDDWWWW,DWDDWWDDDWDWWD
+Cannes,Olympique,0-0,/match/as-cannes/olympique-marsella/1991,1991,28,ligue_1,20,38,1,0,0,8,10,10,7,24,21,WWLDDLLWDLDLWDDDWWDWLWLWDWD,6,5,3,16,15,1,18,4,5,52,20,WLWDWDWWLLLWWWWWLWWWDWWWDLW,5,4,4,14,14,WLDLDDLDDWWWWW,LDDLLWWLWDWDL
+Sporting Toulon,Nice,1-2,/match/sporting-toulon/nice/1991,1991,28,ligue_1,20,38,2,1,2,15,7,11,9,22,28,WWWLWWDDDDLWWDWLLDDWDDWDWDW,6,4,3,15,8,16,6,12,9,25,26,WDWDWDLWDDWDWWLDDDDLWWWLDDW,3,3,8,12,19,WLWDLWWLDDWWD,WWWLWWWDDLWLDW
+Olympique,Monaco,1-0,/match/olympique-marsella/monaco/1991,1991,29,ligue_1,20,38,0,1,0,1,18,5,5,52,20,WLWDWDWWLLLWWWWWLWWWDWWWDLWD,13,0,1,38,6,2,14,9,5,35,22,WLWWDDDDDLLLWWWWLDDDWWWWDWWW,4,5,4,11,11,WWWWWLWWWWWWWW,LWDDDLLWLDWWD
+Nice,Montpellier,2-0,/match/nice/montpellier-hsc/1991,1991,29,ligue_1,20,38,0,2,0,18,7,12,9,27,27,WDWDWDLWDDWDWWLDDDDLWWWLDDWL,3,9,1,13,7,3,11,9,8,41,28,WWWWWWDDLWWDWWDDWWWDWWDDWDWL,1,6,7,13,22,DDDWDDDLDDWWD,WWWDLWDWDWDWDD
+Girondins Bordeaux,Saint-Étienne,2-1,/match/bordeaux/saint-etienne/1991,1991,29,ligue_1,20,38,0,2,1,16,5,14,9,22,25,DWDWWDWWDWDWWWWLWDDDDDDWDDDW,5,8,1,19,8,9,9,7,12,30,34,DWWWWWDWLWDWWDWWWWWWWWDWWDDL,0,3,10,8,26,DDWDWWWWLDDDDD,WWWWWWDWWWDWD
+Caen,Stade Brestois,1-2,/match/caen/stade-brestois-29/1991,1991,29,ligue_1,20,38,2,1,2,11,9,9,10,28,26,DWWWDWDWWLWWDLDWDWWDDWLWWDWW,9,1,3,20,6,15,7,11,10,33,34,DDDLWDDWWWWWWWDDLWDDWDWLWWDW,1,5,8,7,23,WWWWLWLWWDLWW,DDLDWWWWDWWWWD
+Olympique Lyonnais,Nancy,0-1,/match/olympique-lyonnais/nancy/1991,1991,29,ligue_1,20,38,2,0,1,5,11,7,10,28,36,DWWDDWWWLDWDWWWWWLWWWWWLDWDW,8,5,0,20,8,12,7,11,10,28,43,WDWWWWDWWDWWWWWWWDDDWDWDDDWD,0,4,10,9,35,WDWWDDWWWWWDD,WWWWWDWWWDDWDW
+Metz,Stade Rennais,2-0,/match/metz/stade-rennes/1991,1991,29,ligue_1,20,38,0,2,0,13,9,9,10,33,36,DLDWWWLDWDLWWDLWDLWWWDWWDWDW,6,6,2,19,11,19,6,12,10,23,35,DWDWWWLWLDLDDWWWWWDDWDDDDDWW,0,7,7,5,21,DLWWDDWDWLWWDD,DDWWWDDWWWDDDW
+Lille,Sochaux,0-1,/match/lillestrom/sochaux/1991,1991,29,ligue_1,20,38,2,0,1,10,7,14,7,27,26,DDDWWLDWDWDDWWWDWWDDDDWWDDWW,7,5,1,16,7,14,7,10,11,20,26,DWWWWWDWLWDDWDDWDLWDWWDLWDWW,1,3,9,5,19,DWLWWDWDWDWDW,WWWWWDDWLWDWW
+Nantes,PSG,2-0,/match/nantes/paris-saint-germain-fc/1991,1991,29,ligue_1,20,38,0,2,0,8,8,11,9,28,35,DDDWWDWWWWDWWWDDLDWDWWDWDWWL,6,8,0,15,7,7,9,9,10,32,34,WWWWDDWWWDDWWWDWWLDDDWLLDLWW,1,5,7,7,20,DDWDWWWWDDDDDW,WWDWDWWWDDLDW
+Toulouse,Cannes,2-2,/match/toulouse-fc/as-cannes/1991,1991,29,ligue_1,20,38,1,2,2,20,5,12,11,22,34,DDWWWWWWLDDDWDDWWDWLWDWWDDWD,5,7,2,16,12,6,10,11,7,24,21,WWLDDLLWDLDLWDDDWWDWLWLWDWDD,4,5,4,8,6,DWWWLDDDWDLDWD,WDLWLWDWDLLDD
+Auxerre,Sporting Toulon,3-0,/match/auxerre/sporting-toulon/1991,1991,29,ligue_1,20,38,0,3,0,4,13,9,6,44,28,DLLWDDDWLWLDWLWWLDWDLWLLDDWL,7,2,4,24,15,17,7,11,10,23,30,WWWLWWDDDDLWWDWLLDDWDDWDWDWL,1,7,6,7,20,LWDWWWWLWLLDW,WWWDDDWDLDWDDW
+Montpellier,Olympique Lyonnais,1-0,/match/montpellier-hsc/olympique-lyonnais/1991,1991,30,ligue_1,20,38,0,1,0,4,11,9,9,41,30,WWWWWWDDLWWDWWDDWWWDWWDDWDWLW,10,3,1,28,6,6,11,7,11,28,37,DWWDDWWWLDWDWWWWWLWWWWWLDWDWL,3,2,10,8,28,WWWDWWDWWWDWWL,DWDWLWWWWLWWLWW
+Saint-Étienne,Olympique,1-1,/match/saint-etienne/olympique-marsella/1991,1991,30,ligue_1,20,38,1,1,1,11,9,7,13,31,36,DWWWWWDWLWDWWDWWWWWWWWDWWDDLW,9,4,2,22,8,1,19,5,5,53,20,WLWDWDWWLLLWWWWWLWWWDWWWDLWDW,5,5,4,14,14,DWWDLDWWWWWWWDL,LDDLLWWLWDWDLD
+Nancy,Metz,0-1,/match/nancy/metz/1991,1991,30,ligue_1,20,38,2,0,1,9,8,11,10,29,43,WDWWWWDWWDWWWWWWWDDDWDWDDDWDL,7,7,0,19,8,8,10,9,10,35,36,DLDWWWLDWDLWWDLWDLWWWDWWDWDWW,3,3,8,14,25,DWDWWWWWDWDDDD,DWLWLWLDWWDWWW
+Auxerre,Nice,5-1,/match/auxerre/nice/1991,1991,30,ligue_1,20,38,0,5,1,3,14,9,6,47,28,DLLWDDDWLWLDWLWWLDWDLWLLDDWLW,8,2,4,27,15,17,8,12,9,29,27,WDWDWDLWDDWDWWLDDDDLWWWLDDWLW,4,3,8,14,20,LWDWWWWLWLLDWW,WWWLWWWDDLWLDWL
+Monaco,Cannes,0-0,/match/monaco/as-cannes/1991,1991,30,ligue_1,20,38,1,0,0,2,14,9,6,35,23,WLWWDDDDDLLLWWWWLDDDWWWWDWWWW,10,4,1,24,11,7,10,12,7,26,23,WWLDDLLWDLDLWDDDWWDWLWLWDWDDD,4,6,4,10,8,WWDDLWWWDDWWWWW,WDLWLWDWDLLDDD
+Sochaux,Toulouse,0-1,/match/sochaux/toulouse-fc/1991,1991,30,ligue_1,20,38,2,0,1,16,8,10,11,21,26,DWWWWWDWLWDDWDDWDLWDWWDLWDWWL,6,7,2,15,7,20,5,13,11,24,36,DDWWWWWWLDDDWDDWWDWLWDWWDDWDD,0,5,9,6,22,DWWDLDWDDWDWLDW,DWWWDWDWWWWDWD
+PSG,Girondins Bordeaux,1-0,/match/paris-saint-germain-fc/bordeaux/1991,1991,30,ligue_1,20,38,0,1,0,10,9,9,11,32,36,WWWWDDWWWDDWWWDWWLDDDWLLDLWWW,8,4,3,25,14,13,6,14,9,24,26,DWDWWDWWDWDWWWWLWDDDDDDWDDDWW,0,6,8,3,17,WWDWWDWDWLDWLLW,WWWDDWWWDDDWDW
+Stade Brestois,Nantes,1-0,/match/stade-brestois-29/nantes/1991,1991,30,ligue_1,20,38,0,1,0,15,8,11,10,35,35,DDDLWDDWWWWWWWDDLWDDWDWLWWDWL,6,6,2,26,11,5,9,11,9,30,35,DDDWWDWWWWDWWWDDLDWDWWDWDWWLW,2,3,9,13,28,DWDWWWDLDDDLWW,DWWWDWDLWWWWWL
+Stade Rennais,Lille,1-3,/match/stade-rennes/lillestrom/1991,1991,30,ligue_1,20,38,2,1,3,19,6,12,11,23,37,DWDWWWLWLDLDDWWWWWDDWDDDDDWWW,6,5,3,18,14,12,7,14,8,27,27,DDDWWLDWDWDDWWWDWWDDDDWWDDWWL,0,9,6,11,19,WWLLLDWWDWDDDW,DDWDDDWWWDDDWDW
+Sporting Toulon,Caen,0-0,/match/sporting-toulon/caen/1991,1991,30,ligue_1,20,38,1,0,0,18,7,11,11,23,33,WWWLWWDDDDLWWDWLLDDWDDWDWDWLW,6,4,4,16,10,14,9,9,11,29,28,DWWWDWDWWLWWDLDWDWWDDWLWWDWWL,0,8,7,8,20,WLWDLWWLDDWWDL,DWDDWWDDDWDWWDW
+Nice,Nancy,3-0,/match/nice/nancy/1991,1991,31,ligue_1,20,38,0,3,0,17,8,12,10,30,32,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWW,4,9,1,15,7,13,8,11,11,29,44,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLL,1,4,10,10,35,DDDWDDDLDDWWDW,WWWWWDWWWDDWDWL
+Caen,Stade Rennais,2-0,/match/caen/stade-rennes/1991,1991,31,ligue_1,20,38,0,2,0,14,9,10,11,29,28,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLD,9,1,4,21,8,20,6,12,12,24,40,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWL,0,7,8,5,23,WWWWLWLWWDLWWL,DDWWWDDWWWDDDWW
+Lille,PSG,0-0,/match/lillestrom/paris-saint-germain-fc/1991,1991,31,ligue_1,20,38,1,0,0,10,8,14,8,30,28,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLL,7,5,2,16,8,8,10,9,11,33,36,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWW,1,5,8,7,22,DWLWWDWDWDWDWL,WWDWDWWWDDLDWW
+Girondins Bordeaux,Stade Brestois,1-4,/match/bordeaux/stade-brestois-29/1991,1991,31,ligue_1,20,38,2,1,4,15,6,14,10,24,27,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWW,6,8,1,21,9,11,9,11,10,36,35,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLW,2,5,8,9,24,DDWDWWWWLDDDDDW,DDLDWWWWDWWWWDL
+Cannes,Saint-Étienne,0-1,/match/as-cannes/saint-etienne/1991,1991,31,ligue_1,20,38,2,0,1,6,10,13,7,26,23,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDD,6,6,3,16,15,12,9,8,13,32,37,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWD,0,3,11,9,28,WLDLDDLDDWWWWWD,WWWWWWDWWWDWDW
+Metz,Montpellier,0-0,/match/metz/montpellier-hsc/1991,1991,31,ligue_1,20,38,1,0,0,7,11,9,10,36,36,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWL,7,6,2,21,11,4,12,9,9,42,30,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWW,1,6,8,13,24,DLWWDDWDWLWWDDW,WWWDLWDWDWDWDDW
+Olympique Lyonnais,Auxerre,1-0,/match/olympique-lyonnais/auxerre/1991,1991,31,ligue_1,20,38,0,1,0,9,11,7,12,28,38,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLW,8,5,1,20,9,3,15,9,6,52,29,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWW,6,7,2,20,13,WDWWDDWWWWWDDL,DLDDLLDLWDDWLDL
+Toulouse,Monaco,1-2,/match/toulouse-fc/monaco/1991,1991,31,ligue_1,20,38,2,1,2,19,6,13,11,25,36,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDL,5,8,2,18,14,2,14,10,6,35,23,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWD,4,5,5,11,12,DWWWLDDDWDLDWDD,LWDDDLLWLDWWDW
+Olympique,Sochaux,0-0,/match/olympique-marsella/sochaux/1991,1991,31,ligue_1,20,38,1,0,0,1,19,6,5,54,21,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWD,14,0,1,39,6,16,8,10,12,21,27,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLL,2,3,9,6,19,WWWWWLWWWWWWWWW,WWWWWDDWLWDWWL
+Nantes,Sporting Toulon,0-0,/match/nantes/sporting-toulon/1991,1991,31,ligue_1,20,38,1,0,0,5,9,11,10,30,36,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWW,7,8,0,17,7,18,7,12,11,23,33,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWD,1,7,7,7,23,DDWDWWWWDDDDDWW,WWWDDDWDLDWDDWW
+PSG,Monaco,0-2,/match/paris-saint-germain-fc/monaco/1991,1991,32,ligue_1,20,38,2,0,2,8,10,10,11,33,36,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWWD,9,4,3,26,14,2,15,10,6,37,24,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWDL,5,5,5,13,13,WWDWWDWDWLDWLLWW,LWDDDLLWLDWWDWL
+Sporting Toulon,Metz,2-1,/match/sporting-toulon/metz/1991,1991,32,ligue_1,20,38,0,2,1,18,7,13,11,23,33,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWDD,6,5,4,16,10,7,11,10,10,36,36,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWLD,4,3,8,15,25,WLWDLWWLDDWWDLD,DWLWLWLDWWDWWWL
+Saint-Étienne,Toulouse,1-4,/match/saint-etienne/toulouse-fc/1991,1991,32,ligue_1,20,38,2,1,4,10,10,8,13,33,37,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWDL,9,5,2,23,9,19,6,13,12,26,38,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDLL,1,5,9,7,22,DWWDLDWWWWWWWDLD,DWWWDWDWWWWDWDL
+Nancy,Girondins Bordeaux,0-2,/match/nancy/bordeaux/1991,1991,32,ligue_1,20,38,2,0,2,15,8,11,12,29,47,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLLW,7,7,1,19,9,16,6,14,11,25,31,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWWL,0,6,9,3,18,DWDWWWWWDWDDDDL,WWWDDWWWDDDWDWW
+Stade Rennais,Nantes,2-0,/match/stade-rennes/nantes/1991,1991,32,ligue_1,20,38,0,2,0,20,6,12,13,24,42,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWLW,6,5,4,19,17,6,9,12,10,30,36,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWWD,2,3,10,13,29,WWLLLDWWDWDDDWL,DWWWDWDLWWWWWLW
+Nice,Olympique Lyonnais,1-1,/match/nice/olympique-lyonnais/1991,1991,32,ligue_1,20,38,1,1,1,14,9,12,10,33,32,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWWW,5,9,1,18,7,5,12,7,12,29,38,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLWW,3,2,11,8,29,DDDWDDDLDDWWDWW,DWDWLWWWWLWWLWWW
+Sochaux,Cannes,0-0,/match/sochaux/as-cannes/1991,1991,32,ligue_1,20,38,1,0,0,17,8,11,12,21,27,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLLD,6,7,3,15,8,13,10,13,8,26,24,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDDL,4,7,4,10,8,DWWDLDWDDWDWLDWL,WDLWLWDWDLLDDDD
+Montpellier,Lille,1-2,/match/montpellier-hsc/lillestrom/1991,1991,32,ligue_1,20,38,2,1,2,4,12,10,9,42,30,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWWD,11,3,1,29,6,12,8,15,8,30,28,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLLD,1,9,6,14,20,WWWDWWDWWWDWWLW,DDWDDDWWWDDDWDWL
+Auxerre,Caen,3-0,/match/auxerre/caen/1991,1991,32,ligue_1,20,38,0,3,0,3,15,9,7,52,30,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWWW,9,2,4,32,16,9,10,10,11,31,28,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLDW,0,9,7,8,20,LWDWWWWLWLLDWWW,DWDDWWDDDWDWWDWD
+Stade Brestois,Olympique,1-1,/match/stade-brestois-29/olympique-marsella/1991,1991,32,ligue_1,20,38,1,1,1,11,10,11,10,40,36,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLWL,7,6,2,27,11,1,19,7,5,54,21,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWDD,5,6,4,15,15,DWDWWWDLDDDLWWW,LDDLLWWLWDWDLDD
+Lille,Auxerre,1-0,/match/lillestrom/auxerre/1991,1991,33,ligue_1,20,38,0,1,0,6,9,15,8,32,29,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLLDL,7,6,2,16,8,3,16,9,7,55,30,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWWWW,6,7,3,20,14,DWLWWDWDWDWDWLD,DLDDLLDLWDDWLDLW
+Nantes,Sochaux,0-0,/match/nantes/sochaux/1991,1991,33,ligue_1,20,38,1,0,0,9,9,12,11,30,38,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWWDW,7,9,0,17,7,17,8,12,12,21,27,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLLDD,2,4,9,6,19,DDWDWWWWDDDDDWWD,WWWWWDDWLWDWWLD
+Olympique Lyonnais,Sporting Toulon,1-1,/match/olympique-lyonnais/sporting-toulon/1991,1991,33,ligue_1,20,38,1,1,1,5,12,8,12,30,39,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLWWD,9,5,1,21,9,18,8,13,11,25,34,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWDDW,1,8,7,7,23,WDWWDDWWWWWDDLW,WWWDDDWDLDWDDWWD
+Toulouse,Stade Brestois,0-0,/match/toulouse-fc/stade-brestois-29/1991,1991,33,ligue_1,20,38,1,0,0,19,7,13,12,30,39,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDLLL,5,8,3,19,16,7,10,12,10,41,37,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLWLD,3,5,8,13,25,DWWWLDDDWDLDWDDL,DDLDWWWWDWWWWDLL
+Metz,Nice,1-0,/match/metz/nice/1991,1991,33,ligue_1,20,38,0,1,0,8,11,10,11,37,38,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWLDW,7,7,2,21,11,14,9,13,10,34,33,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWWWD,4,3,9,15,25,DLWWDDWDWLWWDDWD,WWWLWWWDDLWLDWLW
+Caen,Montpellier,1-0,/match/caen/montpellier-hsc/1991,1991,33,ligue_1,20,38,0,1,0,12,10,10,12,31,31,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLDWW,10,1,4,23,8,4,12,10,10,43,32,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWWDL,1,7,8,13,24,WWWWLWLWWDLWWLW,WWWDLWDWDWDWDDWD
+Cannes,PSG,2-0,/match/as-cannes/paris-saint-germain-fc/1991,1991,33,ligue_1,20,38,0,2,0,11,10,14,8,26,24,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDDLD,6,6,4,16,16,10,10,10,12,33,38,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWWDL,1,6,8,7,22,WLDLDDLDDWWWWWDL,WWDWDWWWDDLDWWD
+Monaco,Saint-Étienne,2-0,/match/monaco/saint-etienne/1991,1991,33,ligue_1,20,38,0,2,0,2,16,10,6,39,24,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWDLL,10,5,1,24,11,13,10,8,14,34,41,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWDLL,1,3,11,10,28,WWDDLWWWDDWWWWWD,WWWWWWDWWWDWDWL
+Olympique,Nancy,6-2,/match/olympique-marsella/nancy/1991,1991,33,ligue_1,20,38,0,6,2,1,19,8,5,55,22,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWDDD,14,1,1,39,6,15,8,11,13,29,49,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLLWL,1,4,11,10,38,WWWWWLWWWWWWWWWD,WWWWWDWWWDDWDWLW
+Girondins Bordeaux,Stade Rennais,1-0,/match/bordeaux/stade-rennes/1991,1991,33,ligue_1,20,38,0,1,0,16,7,14,11,27,31,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWWLL,6,8,2,22,13,20,7,12,13,26,42,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWLWW,0,7,9,5,25,DDWDWWWWLDDDDDWL,DDWWWDDWWWDDDWWW
+Stade Rennais,Olympique,1-1,/match/stade-rennes/olympique-marsella/1991,1991,34,ligue_1,20,38,1,1,1,20,7,12,14,26,43,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWLWWW,7,5,4,21,17,1,20,8,5,61,24,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWDDDW,5,7,4,16,16,WWLLLDWWDWDDDWLW,LDDLLWWLWDWDLDDD
+Sochaux,Monaco,0-2,/match/sochaux/monaco/1991,1991,34,ligue_1,20,38,2,0,2,16,8,13,12,21,27,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLLDDD,6,8,3,15,8,2,17,10,6,41,24,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWDLLW,6,5,5,15,13,DWWDLDWDDWDWLDWLD,LWDDDLLWLDWWDWLL
+PSG,Toulouse,3-0,/match/paris-saint-germain-fc/toulouse-fc/1991,1991,34,ligue_1,20,38,0,3,0,12,10,10,13,33,40,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWWDLW,9,4,4,26,16,19,7,14,12,30,39,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDLLLD,2,5,9,11,23,WWDWWDWDWLDWLLWWL,DWWWDWDWWWWDWDLL
+Sporting Toulon,Girondins Bordeaux,0-2,/match/sporting-toulon/bordeaux/1991,1991,34,ligue_1,20,38,2,0,2,17,8,14,11,26,35,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWDDWD,7,5,4,18,11,13,8,14,11,28,31,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWWLLW,1,6,9,5,18,WLWDLWWLDDWWDLDW,WWWDDWWWDDDWDWWL
+Olympique Lyonnais,Caen,3-2,/match/olympique-lyonnais/caen/1991,1991,34,ligue_1,20,38,0,3,2,6,12,9,12,31,40,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLWWDD,9,6,1,22,10,10,11,10,12,32,31,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLDWWW,0,9,8,8,23,WDWWDDWWWWWDDLWD,DWDDWWDDDWDWWDWDW
+Nice,Lille,4-1,/match/nice/lillestrom/1991,1991,34,ligue_1,20,38,0,4,1,15,9,13,11,34,34,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWWWDW,5,10,1,19,8,7,10,15,8,33,29,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLLDLW,2,9,6,16,21,DDDWDDDLDDWWDWWD,DDWDDDWWWDDDWDWLL
+Montpellier,Nantes,1-1,/match/montpellier-hsc/nantes/1991,1991,34,ligue_1,20,38,1,1,1,4,12,10,11,43,33,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWWDLW,11,3,2,30,8,9,9,13,11,30,38,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWWDWD,2,3,11,13,31,WWWDWWDWWWDWWLWL,DWWWDWDLWWWWWLWW
+Stade Brestois,Cannes,3-2,/match/stade-brestois-29/as-cannes/1991,1991,34,ligue_1,20,38,0,3,2,11,10,13,10,41,37,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLWLDD,7,7,2,28,12,8,11,14,8,28,24,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDDLDW,4,8,4,10,8,DWDWWWDLDDDLWWWD,WDLWLWDWDLLDDDDD
+Auxerre,Metz,3-1,/match/auxerre/metz/1991,1991,34,ligue_1,20,38,0,3,1,3,16,9,8,55,31,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWWWWW,10,2,4,35,16,5,12,10,11,38,38,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWLDWW,4,3,9,16,27,LWDWWWWLWLLDWWWW,DWLWLWLDWWDWWWLW
+Nancy,Saint-Étienne,1-0,/match/nancy/saint-etienne/1991,1991,34,ligue_1,20,38,0,1,0,18,8,11,14,31,55,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLLWLW,7,7,2,19,11,14,10,8,15,34,43,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWDLLW,1,3,12,10,30,DWDWWWWWDWDDDDLL,WWWWWWDWWWDWDWLW
+Cannes,Nancy,1-0,/match/as-cannes/nancy/1991,1991,35,ligue_1,20,38,0,1,0,9,11,14,9,30,27,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDDLDWW,7,6,4,18,16,15,9,11,14,32,55,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLLWLWW,1,4,12,12,44,WLDLDDLDDWWWWWDLW,WWWWWDWWWDDWDWLWW
+Saint-Étienne,PSG,1-1,/match/saint-etienne/paris-saint-germain-fc/1991,1991,35,ligue_1,20,38,1,1,1,16,10,8,16,34,44,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWDLLWW,9,5,3,24,13,11,11,10,13,36,40,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWWDLWW,1,6,9,7,24,DWWDLDWWWWWWWDLDL,WWDWDWWWDDLDWWDW
+Caen,Nice,2-1,/match/caen/nice/1991,1991,35,ligue_1,20,38,0,2,1,12,11,10,13,34,34,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLDWWWW,11,1,4,24,8,13,10,13,11,38,35,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWWWDWW,4,3,10,15,26,WWWWLWLWWDLWWLWW,WWWLWWWDDLWLDWLWW
+Metz,Sochaux,2-2,/match/metz/sochaux/1991,1991,35,ligue_1,20,38,1,2,2,8,12,10,12,39,41,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWLDWWW,8,7,2,22,11,17,8,13,13,21,29,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLLDDDL,2,5,9,6,19,DLWWDDWDWLWWDDWDW,WWWWWDDWLWDWWLDD
+Girondins Bordeaux,Montpellier,1-0,/match/bordeaux/montpellier-hsc/1991,1991,35,ligue_1,20,38,0,1,0,14,9,14,11,30,31,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWWLLWL,7,8,2,23,13,5,12,11,11,44,34,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWWDLWD,1,7,9,13,25,DDWDWWWWLDDDDDWLW,WWWDLWDWDWDWDDWDW
+Lille,Olympique Lyonnais,1-1,/match/lillestrom/olympique-lyonnais/1991,1991,35,ligue_1,20,38,1,1,1,7,10,15,9,34,33,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLLDLWW,8,6,2,17,8,4,13,9,12,34,42,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLWWDDW,3,3,11,9,30,DWLWWDWDWDWDWLDW,DWDWLWWWWLWWLWWWD
+Nantes,Auxerre,2-3,/match/nantes/auxerre/1991,1991,35,ligue_1,20,38,2,2,3,10,9,14,11,31,39,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWWDWDD,7,10,0,17,7,3,17,9,8,58,32,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWWWWWW,6,7,4,20,15,DDWDWWWWDDDDDWWDD,DLDDLLDLWDDWLDLWW
+Monaco,Stade Brestois,5-0,/match/monaco/stade-brestois-29/1991,1991,35,ligue_1,20,38,0,5,0,2,18,10,6,43,24,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWDLLWL,11,5,1,26,11,6,11,13,10,44,39,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLWLDDW,3,6,8,13,25,WWDDLWWWDDWWWWWDW,DDLDWWWWDWWWWDLLD
+Olympique,Sporting Toulon,3-3,/match/olympique-marsella/sporting-toulon/1991,1991,35,ligue_1,20,38,1,3,3,1,20,9,5,62,25,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWDDDWD,15,1,1,45,8,18,8,14,12,26,37,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWDDWDL,1,9,7,8,24,WWWWWLWWWWWWWWWDW,WWWDDDWDLDWDDWWDD
+Toulouse,Stade Rennais,2-0,/match/toulouse-fc/stade-rennes/1991,1991,35,ligue_1,20,38,0,2,0,19,7,14,13,30,42,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDLLLDW,5,9,3,19,16,20,7,13,14,27,44,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWLWWWD,0,7,10,5,26,DWWWLDDDWDLDWDDLD,DDWWWDDWWWDDDWWWW
+Montpellier,Olympique,0-0,/match/montpellier-hsc/olympique-marsella/1991,1991,36,ligue_1,20,38,1,0,0,5,12,11,12,44,35,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWWDLWDW,11,4,2,31,9,1,20,10,5,65,28,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWDDDWDD,5,8,4,17,17,WWWDWWDWWWDWWLWLD,LDDLLWWLWDWDLDDDD
+Sochaux,PSG,0-0,/match/sochaux/paris-saint-germain-fc/1991,1991,36,ligue_1,20,38,1,0,0,18,8,14,13,23,31,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLLDDDLD,6,8,4,15,10,12,11,11,13,37,41,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWWDLWWD,1,7,9,8,25,DWWDLDWDDWDWLDWLDL,WWDWDWWWDDLDWWDWD
+Nice,Nantes,1-1,/match/nice/nantes/1991,1991,36,ligue_1,20,38,1,1,1,14,10,13,12,39,37,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWWWDWWW,6,10,1,23,9,13,9,14,12,33,42,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWWDWDDL,2,4,11,14,32,DDDWDDDLDDWWDWWDW,DWWWDWDLWWWWWLWWD
+Stade Brestois,Saint-Étienne,0-1,/match/stade-brestois-29/saint-etienne/1991,1991,36,ligue_1,20,38,2,0,1,10,11,13,11,44,44,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLWLDDWW,8,7,2,31,14,15,10,9,16,35,45,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWDLLWWD,1,3,13,10,31,DWDWWWDLDDDLWWWDW,WWWWWWDWWWDWDWLWW
+Caen,Lille,0-0,/match/caen/lillestrom/1991,1991,36,ligue_1,20,38,1,0,0,7,12,10,13,36,35,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLDWWWWW,12,1,4,26,9,8,10,16,9,35,34,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLLDLWWD,2,9,7,17,25,WWWWLWLWWDLWWLWWW,DDWDDDWWWDDDWDWLLW
+Olympique Lyonnais,Metz,3-1,/match/olympique-lyonnais/metz/1991,1991,36,ligue_1,20,38,0,3,1,4,13,10,12,35,43,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLWWDDWD,10,6,1,25,12,9,12,11,12,41,43,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWLDWWWD,4,3,10,17,30,WDWWDDWWWWWDDLWDW,DWLWLWLDWWDWWWLWW
+Stade Rennais,Cannes,1-1,/match/stade-rennes/as-cannes/1991,1991,36,ligue_1,20,38,1,1,1,20,7,13,15,27,46,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWLWWWDW,7,6,4,22,18,6,12,14,9,31,27,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDDLDWWW,4,8,5,12,11,WWLLLDWWDWDDDWLWD,WDLWLWDWDLLDDDDDW
+Auxerre,Girondins Bordeaux,0-0,/match/auxerre/bordeaux/1991,1991,36,ligue_1,20,38,1,0,0,3,18,9,8,61,34,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWWWWWWL,11,2,4,38,17,11,10,14,11,31,31,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWWLLWLW,2,6,9,7,18,LWDWWWWLWLLDWWWWW,WWWDDWWWDDDWDWWLL
+Nancy,Monaco,4-0,/match/nancy/monaco/1991,1991,36,ligue_1,20,38,0,4,0,16,9,11,15,32,56,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLLWLWWW,8,7,2,20,11,2,19,10,6,48,24,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWDLLWLW,7,5,5,17,13,DWDWWWWWDWDDDDLLW,LWDDDLLWLDWWDWLLL
+Sporting Toulon,Toulouse,1-0,/match/sporting-toulon/toulouse-fc/1991,1991,36,ligue_1,20,38,0,1,0,19,8,15,12,29,40,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWDDWDLD,7,5,5,18,13,17,8,14,13,32,42,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDLLLDWW,2,5,10,11,26,WLWDLWWLDDWWDLDWL,DWWWDWDWWWWDWDLLW
+Olympique,Auxerre,1-0,/match/olympique-marsella/auxerre/1991,1991,37,ligue_1,20,38,0,1,0,1,20,11,5,65,28,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWDDDWDDD,15,2,1,48,11,3,18,10,8,61,34,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWWWWWWLD,7,7,4,23,17,WWWWWLWWWWWWWWWDWD,DLDDLLDLWDDWLDLWWL
+PSG,Stade Brestois,1-1,/match/paris-saint-germain-fc/stade-brestois-29/1991,1991,37,ligue_1,20,38,1,1,1,12,11,12,13,37,41,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWWDLWWDD,10,4,4,29,16,11,11,13,12,44,45,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLWLDDWWL,3,6,9,13,30,WWDWWDWDWLDWLLWWLW,DDLDWWWWDWWWWDLLDW
+Metz,Caen,1-1,/match/metz/caen/1991,1991,37,ligue_1,20,38,1,1,1,10,12,11,13,42,46,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWLDWWWDW,8,8,2,24,13,7,12,11,13,36,35,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLDWWWWWD,0,9,9,10,26,DLWWDDWDWLWWDDWDWD,DWDDWWDDDWDWWDWDWW
+Lille,Nancy,0-2,/match/lillestrom/nancy/1991,1991,37,ligue_1,20,38,2,0,2,8,10,17,9,35,34,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLLDLWWDD,8,7,2,18,9,15,10,11,15,36,56,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLLWLWWWW,1,4,13,12,45,DWLWWDWDWDWDWLDWD,WWWWWDWWWDDWDWLWWW
+Girondins Bordeaux,Nice,3-0,/match/bordeaux/nice/1991,1991,37,ligue_1,20,38,0,3,0,9,10,15,11,31,31,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWWLLWLWD,8,8,2,24,13,14,10,14,12,40,38,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWWWDWWWD,4,3,11,16,28,DDWDWWWWLDDDDDWLWW,WWWLWWWDDLWLDWLWWW
+Toulouse,Montpellier,0-0,/match/toulouse-fc/montpellier-hsc/1991,1991,37,ligue_1,20,38,1,0,0,19,8,14,14,32,43,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDLLLDWWW,6,9,3,21,16,5,12,12,12,44,35,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWWDLWDWD,1,7,10,13,26,DWWWLDDDWDLDWDDLDW,WWWDLWDWDWDWDDWDWW
+Nantes,Olympique Lyonnais,0-0,/match/nantes/olympique-lyonnais/1991,1991,37,ligue_1,20,38,1,0,0,13,9,15,12,34,43,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWWDWDDLD,7,10,1,19,10,4,14,10,12,38,44,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLWWDDWDW,3,4,11,10,31,DDWDWWWWDDDDDWWDDL,DWDWLWWWWLWWLWWWDD
+Cannes,Sporting Toulon,0-0,/match/as-cannes/sporting-toulon/1991,1991,37,ligue_1,20,38,1,0,0,6,12,15,9,32,28,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDDLDWWWD,8,6,4,19,16,17,9,15,12,30,40,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWDDWDLDW,1,10,7,11,27,WLDLDDLDDWWWWWDLWW,WWWDDDWDLDWDDWWDDD
+Monaco,Stade Rennais,2-1,/match/monaco/stade-rennes/1991,1991,37,ligue_1,20,38,0,2,1,2,19,10,7,48,28,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWDLLWLWW,12,5,1,31,11,20,7,14,15,28,47,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWLWWWDWD,0,7,11,5,28,WWDDLWWWDDWWWWWDWW,DDWWWDDWWWDDDWWWWW
+Saint-Étienne,Sochaux,2-1,/match/saint-etienne/sochaux/1991,1991,37,ligue_1,20,38,0,2,1,16,11,9,16,36,45,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWDLLWWDL,9,6,3,25,14,18,8,15,13,23,31,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLLDDDLDD,2,6,9,8,21,DWWDLDWWWWWWWDLDLD,WWWWWDDWLWDWWLDDD
+Nice,Olympique,0-1,/match/nice/olympique-marsella/1991,1991,38,ligue_1,20,38,2,0,1,16,10,14,13,40,41,WDWDWDLWDDWDWWLDDDDLWWWLDDWLWWWDWWWDW,6,11,1,24,10,1,21,11,5,66,28,WLWDWDWWLLLWWWWWLWWWDWWWDLWDWDDDWDDDW,5,9,4,17,17,DDDWDDDLDDWWDWWDWD,LDDLLWWLWDWDLDDDDD
+Nancy,PSG,0-2,/match/nancy/paris-saint-germain-fc/1991,1991,38,ligue_1,20,38,2,0,2,15,11,11,15,38,56,WDWWWWDWWDWWWWWWWDDDWDWDDDWDLLWLWWWWL,9,7,2,24,11,11,11,13,13,38,42,WWWWDDWWWDDWWWDWWLDDDWLLDLWWWWDLWWDDD,1,8,9,8,25,DWDWWWWWDWDDDDLLWW,WWDWDWWWDDLDWWDWDD
+Stade Brestois,Sochaux,0-0,/match/stade-brestois-29/sochaux/1991,1991,38,ligue_1,20,38,1,0,0,13,11,14,12,45,46,DDDLWDDWWWWWWWDDLWDDWDWLWWDWLWLDDWWLD,8,7,3,31,15,19,8,15,14,24,33,DWWWWWDWLWDDWDDWDLWDWWDLWDWWLLDDDLDDW,2,6,10,9,23,DWDWWWDLDDDLWWWDWL,WWWWWDDWLWDWWLDDDW
+Caen,Nantes,1-0,/match/caen/nantes/1991,1991,38,ligue_1,20,38,0,1,0,8,12,12,13,37,36,DWWWDWDWWLWWDLDWDWWDDWLWWDWWLDWWWWWDD,12,2,4,26,9,14,9,16,12,34,43,DDDWWDWWWWDWWWDDLDWDWWDWDWWLWWDWDDLDD,2,5,11,15,33,WWWWLWLWWDLWWLWWWD,DWWWDWDLWWWWWLWWDD
+Lille,Metz,4-1,/match/lillestrom/metz/1991,1991,38,ligue_1,20,38,0,4,1,10,10,17,10,35,36,DDDWWLDWDWDDWWWDWWDDDDWWDDWWLLDLWWDDL,8,7,3,18,11,9,12,12,13,43,47,DLDWWWLDWDLWWDLWDLWWWDWWDWDWWLDWWWDWD,4,3,11,18,33,DWLWWDWDWDWDWLDWDL,DWLWLWLDWWDWWWLWWW
+Olympique Lyonnais,Girondins Bordeaux,1-0,/match/olympique-lyonnais/bordeaux/1991,1991,38,ligue_1,20,38,0,1,0,4,14,11,12,38,44,DWWDDWWWLDWDWWWWWLWWWWWLDWDWLWWDDWDWD,11,6,1,28,13,7,11,15,11,34,31,DWDWWDWWDWDWWWWLWDDDDDDWDDDWWWLLWLWDW,2,7,9,7,18,WDWWDDWWWWWDDLWDWW,WWWDDWWWDDDWDWWLLD
+Montpellier,Cannes,0-0,/match/montpellier-hsc/as-cannes/1991,1991,38,ligue_1,20,38,1,0,0,5,12,13,12,44,35,WWWWWWDDLWWDWWDDWWWDWWDDWDWLWWDLWDWDD,11,5,2,31,9,6,12,16,9,32,28,WWLDDLLWDLDLWDDDWWDWLWLWDWDDDDLDWWWDD,4,9,5,13,12,WWWDWWDWWWDWWLWLDD,WDLWLWDWDLLDDDDDWD
+Auxerre,Toulouse,2-1,/match/auxerre/toulouse-fc/1991,1991,38,ligue_1,20,38,0,2,1,3,18,10,9,61,35,DLLWDDDWLWLDWLWWLDWDLWLLDDWLWWWWWWLDW,11,3,4,38,17,18,8,15,14,32,43,DDWWWWWWLDDDWDDWWDWLWDWWDDWDDLLLDWWWD,2,5,11,11,27,LWDWWWWLWLLDWWWWWD,DWWWDWDWWWWDWDLLWW
+Sporting Toulon,Monaco,1-1,/match/sporting-toulon/monaco/1991,1991,38,ligue_1,20,38,1,1,1,17,9,16,12,30,40,WWWLWWDDDDLWWDWLLDDWDDWDWDWLWDDWDLDWD,8,5,5,19,13,2,20,10,7,50,29,WLWWDDDDDLLLWWWWLDDDWWWWDWWWWDLLWLWWW,7,5,6,17,17,WLWDLWWLDDWWDLDWLW,LWDDDLLWLDWWDWLLLW
+Stade Rennais,Saint-Étienne,0-2,/match/stade-rennes/saint-etienne/1991,1991,38,ligue_1,20,38,2,0,2,20,7,14,16,29,49,DWDWWWLWLDLDDWWWWWDDWDDDDDWWWLWWWDWDW,7,7,4,23,19,12,12,9,16,38,46,DWWWWWDWLWDWWDWWWWWWWWDWWDDLWDLLWWDLW,2,3,13,11,31,WWLLLDWWDWDDDWLWDD,WWWWWWDWWWDWDWLWWL

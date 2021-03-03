@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Vannes,Troyes,1-0,/match/vannes-olympique-club/troyes/2011,2011,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Tours,Sedan,4-3,/match/tours-fc/sedan/2011,2011,1,ligue_2,20,38,0,4,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Stade de Reims,Stade Lavallois,1-1,/match/stade-reims/stade-lavallois/2011,2011,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Metz,Evian Thonon Gail.,0-2,/match/metz/evian-thonon-gaillard/2011,2011,1,ligue_2,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Grenoble,Le Havre,1-0,/match/grenoble-foot-38/havre-ac/2011,2011,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Dijon FCO,Angers SCO,0-0,/match/dijon-fco/angers-sco/2011,2011,1,ligue_2,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chateauroux,Istres,0-0,/match/berrichonne-chateauroux/istres/2011,2011,1,ligue_2,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Boulogne,Clermont,1-1,/match/us-boulogne/clermont-foot/2011,2011,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ajaccio,Nîmes,1-0,/match/ajaccio/nimes-olympique/2011,2011,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nantes,Le Mans,0-2,/match/nantes/mans-uc-72/2011,2011,1,ligue_2,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Troyes,Nantes,0-2,/match/troyes/nantes/2011,2011,2,ligue_2,20,38,2,0,2,18,0,0,1,0,1,W,0,0,0,0,0,19,0,0,1,0,2,L,0,0,0,0,0,,
+Nîmes,Chateauroux,1-1,/match/nimes-olympique/berrichonne-chateauroux/2011,2011,2,ligue_2,20,38,1,1,1,17,0,0,1,0,1,W,0,0,0,0,0,10,0,1,0,0,0,D,0,0,0,0,0,,
+Le Mans,Stade de Reims,2-2,/match/mans-uc-72/stade-reims/2011,2011,2,ligue_2,20,38,1,2,2,5,1,0,0,2,0,L,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
+Le Havre,Ajaccio,2-0,/match/havre-ac/ajaccio/2011,2011,2,ligue_2,20,38,0,2,0,20,0,0,1,0,1,W,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Stade Lavallois,Metz,1-0,/match/stade-lavallois/metz/2011,2011,2,ligue_2,20,38,0,1,0,14,0,1,0,1,1,D,0,0,0,0,0,15,0,0,1,0,2,L,0,0,0,0,0,,
+Istres,Tours,1-0,/match/istres/tours-fc/2011,2011,2,ligue_2,20,38,0,1,0,11,0,1,0,0,0,D,0,0,0,0,0,1,1,0,0,4,3,W,0,0,0,0,0,,
+Evian Thonon Gail.,Vannes,4-0,/match/evian-thonon-gaillard/vannes-olympique-club/2011,2011,2,ligue_2,20,38,0,4,0,6,1,0,0,2,0,L,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Clermont,Dijon FCO,2-2,/match/clermont-foot/dijon-fco/2011,2011,2,ligue_2,20,38,1,2,2,12,0,1,0,1,1,D,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
+Angers SCO,Boulogne,0-0,/match/angers-sco/us-boulogne/2011,2011,2,ligue_2,20,38,1,0,0,13,0,1,0,0,0,D,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
+Sedan,Grenoble,1-0,/match/sedan/grenoble-foot-38/2011,2011,2,ligue_2,20,38,0,1,0,16,0,0,1,3,4,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Metz,Troyes,0-1,/match/metz/troyes/2011,2011,3,ligue_2,20,38,2,0,1,19,0,0,2,0,3,LW,0,0,1,0,2,20,0,0,2,0,3,WL,0,0,1,0,1,L,W
+Vannes,Stade Lavallois,2-1,/match/vannes-olympique-club/stade-lavallois/2011,2011,3,ligue_2,20,38,0,2,1,9,1,0,1,1,4,WW,1,0,0,1,0,3,1,1,0,2,1,DW,0,1,0,1,1,W,D
+Tours,Clermont,3-2,/match/tours-fc/clermont-foot/2011,2011,3,ligue_2,20,38,0,3,2,6,1,0,1,4,4,WW,1,0,0,4,3,15,0,2,0,3,3,DD,0,1,0,1,1,W,D
+Stade de Reims,Istres,0-0,/match/stade-reims/istres/2011,2011,3,ligue_2,20,38,1,0,0,12,0,2,0,3,3,DD,0,1,0,1,1,2,1,1,0,1,0,DW,0,1,0,0,0,D,D
+Nantes,Evian Thonon Gail.,0-1,/match/nantes/evian-thonon-gaillard/2011,2011,3,ligue_2,20,38,2,0,1,18,1,0,1,2,2,LL,0,0,1,0,2,1,2,0,0,6,0,LW,1,0,0,2,0,L,L
+Grenoble,Angers SCO,0-2,/match/grenoble-foot-38/angers-sco/2011,2011,3,ligue_2,20,38,2,0,2,5,1,0,1,1,1,WW,1,0,0,1,0,16,0,2,0,0,0,DD,0,1,0,0,0,W,D
+Dijon FCO,Sedan,1-1,/match/dijon-fco/sedan/2011,2011,3,ligue_2,20,38,1,1,1,11,0,2,0,2,2,DD,0,1,0,0,0,4,1,0,1,4,4,WW,0,0,1,3,4,D,W
+Chateauroux,Le Havre,2-1,/match/berrichonne-chateauroux/havre-ac/2011,2011,3,ligue_2,20,38,0,2,1,14,0,2,0,1,1,DD,0,1,0,0,0,10,1,0,1,2,1,WW,0,0,1,0,1,D,W
+Boulogne,Nîmes,2-1,/match/us-boulogne/nimes-olympique/2011,2011,3,ligue_2,20,38,0,2,1,13,0,2,0,1,1,DD,0,1,0,1,1,17,0,1,1,1,2,WD,0,0,1,0,1,D,W
+Ajaccio,Le Mans,0-0,/match/ajaccio/mans-uc-72/2011,2011,3,ligue_2,20,38,1,0,0,8,1,0,1,1,2,WW,1,0,0,1,0,7,1,1,0,4,2,LD,1,0,0,2,0,W,L
+Troyes,Ajaccio,3-0,/match/troyes/ajaccio/2011,2011,4,ligue_2,20,38,0,3,0,19,1,0,2,1,3,WLL,0,0,1,0,2,7,1,1,1,1,2,WWD,0,0,1,0,2,L,W
+Sedan,Boulogne,1-1,/match/sedan/us-boulogne/2011,2011,4,ligue_2,20,38,1,1,1,12,1,1,1,5,5,WWD,1,0,0,1,0,5,1,2,0,3,2,DDW,0,1,0,0,0,W,D
+Nîmes,Grenoble,1-0,/match/nimes-olympique/grenoble-foot-38/2011,2011,4,ligue_2,20,38,0,1,0,17,0,1,2,2,4,WDW,0,1,0,1,1,15,1,0,2,1,3,WWL,0,0,1,0,1,D,W
+Metz,Vannes,1-0,/match/metz/vannes-olympique-club/2011,2011,4,ligue_2,20,38,0,1,0,20,0,0,3,0,4,LWL,0,0,2,0,3,3,2,0,1,3,5,WWW,0,0,1,0,4,LL,W
+Le Mans,Chateauroux,0-2,/match/mans-uc-72/berrichonne-chateauroux/2011,2011,4,ligue_2,20,38,2,0,2,11,1,2,0,4,2,LDD,0,1,0,2,2,4,1,2,0,3,2,DDW,0,1,0,1,1,D,D
+Le Havre,Stade de Reims,2-1,/match/havre-ac/stade-reims/2011,2011,4,ligue_2,20,38,0,2,1,14,1,0,2,3,3,WWW,1,0,0,2,0,9,0,3,0,3,3,DDD,0,1,0,2,2,W,D
+Istres,Dijon FCO,1-1,/match/istres/dijon-fco/2011,2011,4,ligue_2,20,38,1,1,1,6,1,2,0,1,0,DWD,1,0,0,1,0,10,0,3,0,3,3,DDD,0,1,0,2,2,W,D
+Evian Thonon Gail.,Tours,1-2,/match/evian-thonon-gaillard/tours-fc/2011,2011,4,ligue_2,20,38,2,1,2,1,3,0,0,7,0,LWL,1,0,0,4,0,2,2,0,1,7,6,WWW,0,0,1,0,1,W,W
+Clermont,Angers SCO,1-2,/match/clermont-foot/angers-sco/2011,2011,4,ligue_2,20,38,2,1,2,16,0,2,1,5,6,DDW,0,1,0,2,2,8,1,2,0,2,0,DDL,1,1,0,2,0,D,DL
+Stade Lavallois,Nantes,0-0,/match/stade-lavallois/nantes/2011,2011,4,ligue_2,20,38,1,0,0,13,1,1,1,3,3,DWW,1,0,0,1,0,18,1,0,2,2,3,LLL,1,0,0,2,0,W,L
+Tours,Stade Lavallois,2-0,/match/tours-fc/stade-lavallois/2011,2011,5,ligue_2,20,38,0,2,0,1,3,0,1,9,7,WWWL,2,0,0,7,5,10,1,2,1,3,3,DWWD,0,1,1,2,3,WW,DW
+Stade de Reims,Troyes,0-1,/match/stade-reims/troyes/2011,2011,5,ligue_2,20,38,2,0,1,16,0,3,1,4,5,DDDW,0,2,0,1,1,13,2,0,2,4,3,WLLW,1,0,1,1,1,DD,WL
+Nantes,Vannes,2-0,/match/nantes/vannes-olympique-club/2011,2011,5,ligue_2,20,38,0,2,0,20,1,1,2,2,3,LLLD,0,0,2,0,3,4,2,0,2,3,6,WWWW,0,0,2,0,5,LL,WW
+Dijon FCO,Nîmes,1-0,/match/dijon-fco/nimes-olympique/2011,2011,5,ligue_2,20,38,0,1,0,14,0,4,0,4,4,DDDD,0,2,0,1,1,11,1,1,2,3,4,WDWW,0,0,2,1,3,DD,WW
+Clermont,Le Havre,2-1,/match/clermont-foot/havre-ac/2011,2011,5,ligue_2,20,38,0,2,1,19,0,2,2,6,8,DDWL,0,1,1,3,4,7,2,0,2,5,4,WWWW,0,0,2,1,3,DL,WW
+Boulogne,Istres,2-0,/match/us-boulogne/istres/2011,2011,5,ligue_2,20,38,0,2,0,5,1,3,0,4,3,DDWD,1,1,0,3,2,6,1,3,0,2,1,DWDD,0,2,0,0,0,DW,DD
+Angers SCO,Sedan,0-3,/match/angers-sco/sedan/2011,2011,5,ligue_2,20,38,2,0,3,8,2,2,0,4,1,DDLL,0,1,0,0,0,9,1,2,1,6,6,WWDD,0,1,1,4,5,D,WD
+Ajaccio,Metz,0-0,/match/ajaccio/metz/2011,2011,5,ligue_2,20,38,1,0,0,12,1,1,2,1,5,WWDW,1,1,0,1,0,18,1,0,3,1,4,LWLW,0,0,1,0,1,WD,W
+Chateauroux,Evian Thonon Gail.,0-1,/match/berrichonne-chateauroux/evian-thonon-gaillard/2011,2011,5,ligue_2,20,38,2,0,1,2,2,2,0,5,2,DDWL,1,1,0,2,1,3,3,0,1,8,2,LWLL,2,0,0,3,0,DW,LL
+Grenoble,Le Mans,0-1,/match/grenoble-foot-38/mans-uc-72/2011,2011,5,ligue_2,20,38,2,0,1,17,1,0,3,1,4,WWLW,1,0,1,1,2,15,1,2,1,4,4,LDDL,1,1,0,2,0,WL,LD
+Vannes,Stade de Reims,4-1,/match/vannes-olympique-club/stade-reims/2011,2011,6,ligue_2,20,38,0,4,1,7,2,0,3,3,8,WWWWW,2,0,0,3,1,18,0,3,2,4,6,DDDWL,0,1,1,3,4,WW,DW
+Troyes,Tours,1-2,/match/troyes/tours-fc/2011,2011,6,ligue_2,20,38,2,1,2,11,3,0,2,5,3,WLLWL,1,0,1,3,2,1,4,0,1,11,7,WWWLW,1,0,1,2,2,LW,WL
+Sedan,Clermont,4-0,/match/sedan/clermont-foot/2011,2011,6,ligue_2,20,38,0,4,0,5,2,2,1,9,6,WWDDL,1,1,0,2,1,12,1,2,2,8,9,DDWLW,0,1,1,3,4,WD,DW
+Nîmes,Angers SCO,2-0,/match/nimes-olympique/angers-sco/2011,2011,6,ligue_2,20,38,0,2,0,17,1,1,3,3,5,WDWWW,1,1,0,2,1,16,2,2,1,4,4,DDLLL,2,1,0,4,1,DW,DLL
+Metz,Nantes,1-1,/match/metz/nantes/2011,2011,6,ligue_2,20,38,1,1,1,19,1,1,3,1,4,LWLWD,1,0,2,1,3,14,2,1,2,4,3,LLLDW,1,1,0,2,0,LLW,LD
+Le Mans,Boulogne,1-1,/match/mans-uc-72/us-boulogne/2011,2011,6,ligue_2,20,38,1,1,1,13,2,2,1,5,4,LDDLL,0,1,1,2,4,2,2,3,0,6,3,DDWDW,0,2,0,1,1,DL,DD
+Le Havre,Dijon FCO,2-1,/match/havre-ac/dijon-fco/2011,2011,6,ligue_2,20,38,0,2,1,9,2,0,3,6,6,WWWWW,2,0,0,4,1,3,1,4,0,5,4,DDDDW,0,2,0,3,3,WW,DD
+Stade Lavallois,Chateauroux,1-1,/match/stade-lavallois/berrichonne-chateauroux/2011,2011,6,ligue_2,20,38,1,1,1,15,1,2,2,3,5,DWWDW,1,1,0,1,0,6,2,2,1,5,3,DDWLL,1,1,0,3,1,WD,DL
+Istres,Grenoble,0-1,/match/istres/grenoble-foot-38/2011,2011,6,ligue_2,20,38,2,0,1,8,1,3,1,2,3,DWDDW,1,1,0,2,1,20,1,0,4,1,5,WWLWL,0,0,2,0,2,WD,WW
+Evian Thonon Gail.,Ajaccio,1-1,/match/evian-thonon-gaillard/ajaccio/2011,2011,6,ligue_2,20,38,1,1,1,4,4,0,1,9,2,LWLLL,1,0,1,5,2,10,1,2,2,1,5,WWDWD,0,0,2,0,5,WL,WW
+Tours,Le Havre,0-0,/match/tours-fc/havre-ac/2011,2011,7,ligue_2,20,38,1,0,0,1,5,0,1,13,8,WWWLWL,3,0,0,9,5,6,3,0,3,8,7,WWWWWW,0,0,3,2,5,WWW,WWW
+Sedan,Le Mans,2-1,/match/sedan/mans-uc-72/2011,2011,7,ligue_2,20,38,0,2,1,2,3,2,1,13,6,WWDDLW,2,1,0,6,1,12,2,3,1,6,5,LDDLLD,2,1,0,3,0,WDW,LDL
+Grenoble,Troyes,0-2,/match/grenoble-foot-38/troyes/2011,2011,7,ligue_2,20,38,2,0,2,19,2,0,4,2,5,WWLWLL,1,0,2,1,3,14,3,0,3,6,5,WLLWLL,2,0,1,2,1,WLL,WLL
+Dijon FCO,Evian Thonon Gail.,5-1,/match/dijon-fco/evian-thonon-gaillard/2011,2011,7,ligue_2,20,38,0,5,1,7,1,4,1,6,6,DDDDWW,1,2,0,2,1,4,4,1,1,10,3,LWLLLD,3,0,0,4,0,DDW,LLL
+Clermont,Nîmes,2-0,/match/clermont-foot/nimes-olympique/2011,2011,7,ligue_2,20,38,0,2,0,16,1,2,3,8,13,DDWLWW,1,1,1,5,5,9,2,1,3,5,5,WDWWWW,0,0,3,1,4,DLW,WWW
+Chateauroux,Metz,1-0,/match/berrichonne-chateauroux/metz/2011,2011,7,ligue_2,20,38,0,1,0,8,2,3,1,6,4,DDWLLD,1,1,1,2,2,18,1,2,3,2,5,LWLWDD,0,1,1,0,1,DWL,WD
+Boulogne,Stade Lavallois,0-0,/match/us-boulogne/stade-lavallois/2011,2011,7,ligue_2,20,38,1,0,0,3,2,4,0,7,4,DDWDWD,2,1,0,5,2,11,1,3,2,4,6,DWWDWD,0,1,2,2,5,DWW,DWW
+Ajaccio,Vannes,3-0,/match/ajaccio/vannes-olympique-club/2011,2011,7,ligue_2,20,38,0,3,0,10,1,3,2,2,6,WWDWDD,1,2,0,1,0,5,3,0,3,7,9,WWWWWW,0,0,3,0,7,WDD,WWW
+Angers SCO,Istres,1-1,/match/angers-sco/istres/2011,2011,7,ligue_2,20,38,1,1,1,17,2,2,2,4,6,DDLLLW,0,1,1,0,3,15,1,3,2,2,4,DWDDWL,0,2,1,0,2,DL,DDW
+Stade de Reims,Nantes,2-1,/match/stade-reims/nantes/2011,2011,7,ligue_2,20,38,0,2,1,20,0,3,3,5,10,DDDWLW,0,2,1,1,2,13,2,2,2,5,4,LLLDWD,1,2,0,3,1,DDL,LDD
+Vannes,Tours,0-0,/match/vannes-olympique-club/tours-fc/2011,2011,8,ligue_2,20,38,1,0,0,9,3,0,4,7,12,WWWWWWW,3,0,0,7,2,1,5,1,1,13,8,WWWLWLD,2,0,1,4,3,WWW,WLL
+Troyes,Chateauroux,3-1,/match/troyes/berrichonne-chateauroux/2011,2011,8,ligue_2,20,38,0,3,1,11,4,0,3,8,5,WLLWLLL,1,0,2,4,4,5,3,3,1,7,4,DDWLLDW,1,2,0,4,2,LWL,DLD
+Nîmes,Sedan,2-0,/match/nimes-olympique/sedan/2011,2011,8,ligue_2,20,38,0,2,0,13,2,1,4,5,7,WDWWWWW,2,1,0,4,1,2,4,2,1,15,7,WWDDLWW,1,1,1,7,5,DWW,WDL
+Nantes,Grenoble,2-1,/match/nantes/grenoble-foot-38/2011,2011,8,ligue_2,20,38,0,2,1,18,2,2,3,6,6,LLLDWDW,1,0,2,2,3,20,2,0,5,2,7,WWLWLLL,1,0,2,1,2,LLW,WWL
+Metz,Stade de Reims,0-0,/match/metz/stade-reims/2011,2011,8,ligue_2,20,38,1,0,0,19,1,2,4,2,6,LWLWDDW,1,1,2,2,4,17,1,3,3,7,11,DDDWLWW,0,1,2,4,8,LLWD,DWW
+Le Mans,Dijon FCO,2-2,/match/mans-uc-72/dijon-fco/2011,2011,8,ligue_2,20,38,1,2,2,14,2,3,2,7,7,LDDLLDW,0,2,1,3,5,4,2,4,1,11,7,DDDDWWW,0,2,1,4,5,DLD,DDW
+Le Havre,Angers SCO,1-0,/match/havre-ac/angers-sco/2011,2011,8,ligue_2,20,38,0,1,0,6,3,1,3,8,7,WWWWWWD,3,0,0,6,2,16,2,3,2,5,7,DDLLLWD,2,1,1,4,3,WWW,DLLW
+Stade Lavallois,Ajaccio,0-0,/match/stade-lavallois/ajaccio/2011,2011,8,ligue_2,20,38,1,0,0,12,1,4,2,4,6,DWWDWDD,1,2,0,2,1,7,2,3,2,5,6,WWDWDDW,0,1,2,1,6,WDD,WWD
+Istres,Clermont,2-2,/match/istres/clermont-foot/2011,2011,8,ligue_2,20,38,1,2,2,15,1,4,2,3,5,DWDDWLD,1,1,1,2,2,10,2,2,3,10,13,DDWLWWW,0,1,2,3,8,WDL,DWW
+Evian Thonon Gail.,Boulogne,0-0,/match/evian-thonon-gaillard/us-boulogne/2011,2011,8,ligue_2,20,38,1,0,0,8,4,1,2,11,8,LWLLLDW,1,1,1,6,3,3,2,5,0,7,4,DDWDWDD,0,3,0,2,2,WLD,DDD
+Sedan,Istres,5-1,/match/sedan/istres/2011,2011,9,ligue_2,20,38,0,5,1,3,4,2,2,15,9,WWDDLWWW,3,1,0,8,2,16,1,5,2,5,7,DWDDWLDD,0,3,1,1,3,WDWW,DDWD
+Nîmes,Le Mans,1-2,/match/nimes-olympique/mans-uc-72/2011,2011,9,ligue_2,20,38,2,1,2,7,3,1,4,7,7,WDWWWWWW,3,1,0,6,1,15,2,4,2,9,9,LDDLLDWD,2,1,1,4,2,DWWW,LDLW
+Grenoble,Vannes,1-2,/match/grenoble-foot-38/vannes-olympique-club/2011,2011,9,ligue_2,20,38,2,1,2,20,2,0,6,3,9,WWLWLLLW,1,0,3,1,5,6,3,1,4,7,12,WWWWWWWD,0,0,4,0,10,WLLL,WWWW
+Dijon FCO,Troyes,0-1,/match/dijon-fco/troyes/2011,2011,9,ligue_2,20,38,2,0,1,5,2,5,1,13,9,DDDDWWWD,2,2,0,7,2,8,5,0,3,11,6,WLLWLLLW,3,0,1,4,1,DDWW,WLLL
+Clermont,Evian Thonon Gail.,3-3,/match/clermont-foot/evian-thonon-gaillard/2011,2011,9,ligue_2,20,38,1,3,3,12,2,3,3,12,15,DDWLWWWD,2,1,1,7,5,9,4,2,2,11,8,LWLLLDWD,3,0,1,5,5,DLWW,LLLW
+Chateauroux,Stade de Reims,2-0,/match/berrichonne-chateauroux/stade-reims/2011,2011,9,ligue_2,20,38,0,2,0,11,3,3,2,8,7,DDWLLDWW,2,1,1,3,2,17,1,4,3,7,11,DDDWLWWD,0,2,2,4,8,DWLW,DWWD
+Boulogne,Le Havre,1-1,/match/us-boulogne/havre-ac/2011,2011,9,ligue_2,20,38,1,1,1,4,2,6,0,7,4,DDWDWDDD,2,2,0,5,2,2,4,1,3,9,7,WWWWWWDW,0,1,3,2,5,DWWD,WWWD
+Angers SCO,Stade Lavallois,2-0,/match/angers-sco/stade-lavallois/2011,2011,9,ligue_2,20,38,0,2,0,18,2,3,3,5,8,DDLLLWDW,0,2,1,1,4,13,1,5,2,4,6,DWWDWDDD,0,2,2,2,5,DLD,DWWD
+Ajaccio,Nantes,2-3,/match/ajaccio/nantes/2011,2011,9,ligue_2,20,38,2,2,3,10,2,4,2,5,6,WWDWDDWD,2,2,0,4,0,14,3,2,3,8,7,LLLDWDWW,1,2,1,4,3,WDDW,LDDW
+Tours,Metz,2-2,/match/tours-fc/metz/2011,2011,9,ligue_2,20,38,1,2,2,1,5,2,1,13,8,WWWLWLDD,3,1,0,9,5,19,1,3,4,2,6,LWLWDDWD,0,1,2,0,2,WWWD,WDW
+Vannes,Chateauroux,0-1,/match/vannes-olympique-club/berrichonne-chateauroux/2011,2011,10,ligue_2,20,38,2,0,1,6,4,1,4,9,13,WWWWWWWDL,3,1,0,7,2,4,4,3,2,10,7,DDWLLDWWW,1,2,1,5,5,WWWD,DLDW
+Troyes,Boulogne,1-1,/match/troyes/us-boulogne/2011,2011,10,ligue_2,20,38,1,1,1,7,6,0,3,12,6,WLLWLLLWL,2,0,2,7,5,5,2,7,0,8,5,DDWDWDDDD,0,4,0,2,2,LWLW,DDDD
+Stade de Reims,Ajaccio,1-1,/match/stade-reims/ajaccio/2011,2011,10,ligue_2,20,38,1,1,1,18,1,4,4,7,13,DDDWLWWDW,1,2,1,3,3,11,2,4,3,7,9,WWDWDDWDL,0,2,2,1,6,DDLW,WWDD
+Metz,Dijon FCO,3-1,/match/metz/dijon-fco/2011,2011,10,ligue_2,20,38,0,3,1,19,1,4,4,4,8,LWLWDDWDD,1,2,2,2,4,8,2,5,2,13,10,DDDDWWWDL,0,3,1,6,7,LLWDD,DDWD
+Le Mans,Clermont,2-0,/match/mans-uc-72/clermont-foot/2011,2011,10,ligue_2,20,38,0,2,0,14,3,4,2,11,10,LDDLLDWDL,0,3,1,5,7,12,2,4,3,15,18,DDWLWWWDD,0,2,2,5,10,DLDD,DWWD
+Le Havre,Sedan,1-1,/match/havre-ac/sedan/2011,2011,10,ligue_2,20,38,1,1,1,3,4,2,3,10,8,WWWWWWDWD,4,0,0,7,2,2,5,2,2,20,10,WWDDLWWWW,1,1,2,7,7,WWWW,WDLW
+Stade Lavallois,Grenoble,3-0,/match/stade-lavallois/grenoble-foot-38/2011,2011,10,ligue_2,20,38,0,3,0,16,1,5,3,4,8,DWWDWDDDW,1,3,0,2,1,20,2,0,7,4,11,WWLWLLLWL,1,0,3,2,4,WDDD,WWLW
+Istres,Nîmes,0-0,/match/istres/nimes-olympique/2011,2011,10,ligue_2,20,38,1,0,0,17,1,5,3,6,12,DWDDWLDDW,1,2,1,4,4,10,3,1,5,8,9,WDWWWWWWL,0,0,4,1,6,WDLD,WWWW
+Evian Thonon Gail.,Angers SCO,0-0,/match/evian-thonon-gaillard/angers-sco/2011,2011,10,ligue_2,20,38,1,0,0,9,4,3,2,14,11,LWLLLDWDD,1,2,1,6,3,15,3,3,3,7,8,DDLLLWDWW,2,1,2,4,4,WLDD,DLLWW
+Nantes,Tours,0-0,/match/nantes/tours-fc/2011,2011,10,ligue_2,20,38,1,0,0,13,4,2,3,11,9,LLLDWDWWL,2,0,2,4,4,1,5,3,1,15,10,WWWLWLDDD,2,1,1,4,3,LLWW,WLLD
+Boulogne,Nantes,0-0,/match/us-boulogne/nantes/2011,2011,11,ligue_2,20,38,1,0,0,5,2,8,0,9,6,DDWDWDDDDD,2,3,0,6,3,9,4,3,3,11,9,LLLDWDWWLD,2,2,1,7,5,DWWDD,LDDWL
+Tours,Stade de Reims,2-1,/match/tours-fc/stade-reims/2011,2011,11,ligue_2,20,38,0,2,1,1,5,4,1,15,10,WWWLWLDDDD,3,2,0,11,7,19,1,5,4,8,14,DDDWLWWDWD,0,2,3,4,10,WWWDD,DWWDW
+Sedan,Troyes,1-1,/match/sedan/troyes/2011,2011,11,ligue_2,20,38,1,1,1,2,5,3,2,21,11,WWDDLWWWWD,4,1,0,13,3,6,6,1,3,13,7,WLLWLLLWLD,4,0,1,5,1,WDWWW,WLLLL
+Nîmes,Evian Thonon Gail.,1-3,/match/nimes-olympique/evian-thonon-gaillard/2011,2011,11,ligue_2,20,38,2,1,3,13,3,2,5,8,9,WDWWWWWWLD,3,1,1,7,3,7,4,4,2,14,11,LWLLLDWDDD,3,1,1,8,8,DWWWL,LLLWD
+Istres,Le Havre,0-2,/match/istres/havre-ac/2011,2011,11,ligue_2,20,38,2,0,2,18,1,6,3,6,12,DWDDWLDDWD,1,3,1,4,4,3,4,3,3,11,9,WWWWWWDWDD,0,2,3,3,6,WDLDD,WWWDD
+Grenoble,Metz,1-0,/match/grenoble-foot-38/metz/2011,2011,11,ligue_2,20,38,0,1,0,20,2,0,8,4,14,WWLWLLLWLW,1,0,4,2,7,17,2,4,4,7,9,LWLWDDWDDW,0,2,2,2,4,WLLLL,WDWD
+Dijon FCO,Vannes,4-1,/match/dijon-fco/vannes-olympique-club/2011,2011,11,ligue_2,20,38,0,4,1,14,2,5,3,14,13,DDDDWWWDLW,2,2,1,7,3,10,4,1,5,9,14,WWWWWWWDLL,1,0,4,2,11,DDWWL,WWWWL
+Clermont,Stade Lavallois,2-0,/match/clermont-foot/stade-lavallois/2011,2011,11,ligue_2,20,38,0,2,0,15,2,4,4,15,20,DDWLWWWDDW,2,2,1,10,8,11,2,5,3,7,8,DWWDWDDDWW,0,2,3,2,7,DLWWD,DWWDW
+Chateauroux,Ajaccio,1-2,/match/berrichonne-chateauroux/ajaccio/2011,2011,11,ligue_2,20,38,2,1,2,4,5,3,2,11,7,DDWLLDWWWL,3,1,1,5,2,12,2,5,3,8,10,WWDWDDWDLD,0,3,2,2,7,DWLWW,WWDDD
+Angers SCO,Le Mans,1-3,/match/angers-sco/mans-uc-72/2011,2011,11,ligue_2,20,38,2,1,3,16,3,4,3,7,8,DDLLLWDWWD,1,2,1,3,4,8,4,4,2,13,10,LDDLLDWDLW,3,1,1,6,3,DLDW,LDLWL
+Vannes,Boulogne,0-0,/match/vannes-olympique-club/us-boulogne/2011,2011,12,ligue_2,20,38,1,0,0,14,4,1,6,10,18,WWWWWWWDLLW,3,1,1,7,3,4,2,9,0,9,6,DDWDWDDDDDD,0,5,0,3,3,WWWDL,DDDDD
+Troyes,Clermont,1-1,/match/troyes/clermont-foot/2011,2011,12,ligue_2,20,38,1,1,1,7,6,2,3,14,8,WLLWLLLWLDD,2,1,2,8,6,10,3,4,4,17,20,DDWLWWWDDWW,0,2,3,5,12,LWLWD,DWWDW
+Stade de Reims,Grenoble,4-1,/match/stade-reims/grenoble-foot-38/2011,2011,12,ligue_2,20,38,0,4,1,19,1,5,5,9,16,DDDWLWWDWDW,1,3,1,4,4,20,3,0,8,5,14,WWLWLLLWLWW,1,0,4,2,7,DDLWD,WWLWW
+Nantes,Chateauroux,1-1,/match/nantes/berrichonne-chateauroux/2011,2011,12,ligue_2,20,38,1,1,1,11,4,4,3,11,9,LLLDWDWWLDD,2,1,2,4,4,5,5,3,3,12,9,DDWLLDWWWLL,2,2,1,6,5,LLWWD,DLDWL
+Metz,Angers SCO,1-1,/match/metz/angers-sco/2011,2011,12,ligue_2,20,38,1,1,1,17,2,4,5,7,10,LWLWDDWDDWW,2,2,2,5,5,16,3,4,4,8,11,DDLLLWDWWDL,2,2,2,4,4,LLWDDW,DLLWWD
+Le Mans,Istres,1-0,/match/mans-uc-72/istres/2011,2011,12,ligue_2,20,38,0,1,0,9,5,4,2,16,11,LDDLLDWDLWL,1,3,1,7,7,18,1,6,4,6,14,DWDDWLDDWDL,0,3,2,2,8,DLDDW,DDWDW
+Stade Lavallois,Dijon FCO,2-0,/match/stade-lavallois/dijon-fco/2011,2011,12,ligue_2,20,38,0,2,0,13,2,5,4,7,10,DWWDWDDDWWW,2,3,0,5,1,6,3,5,3,18,14,DDDDWWWDLWW,0,3,2,7,10,WDDDW,DDWDW
+Ajaccio,Tours,2-0,/match/ajaccio/tours-fc/2011,2011,12,ligue_2,20,38,0,2,0,12,3,5,3,10,11,WWDWDDWDLDL,2,2,1,6,3,1,6,4,1,17,11,WWWLWLDDDDW,2,2,1,4,3,WDDWL,WLLDD
+Evian Thonon Gail.,Sedan,2-2,/match/evian-thonon-gaillard/sedan/2011,2011,12,ligue_2,20,38,1,2,2,8,5,4,2,17,12,LWLLLDWDDDL,1,3,1,6,3,2,5,4,2,22,12,WWDDLWWWWDD,1,2,2,8,8,WLDDD,WDLWD
+Le Havre,Nîmes,0-0,/match/havre-ac/nimes-olympique/2011,2011,12,ligue_2,20,38,1,0,0,3,5,3,3,13,9,WWWWWWDWDDL,4,1,0,8,3,15,3,2,6,9,12,WDWWWWWWLDL,0,1,4,1,6,WWWWD,WWWWD
+Sedan,Vannes,4-0,/match/sedan/vannes-olympique-club/2011,2011,13,ligue_2,20,38,0,4,0,2,5,5,2,24,14,WWDDLWWWWDDD,4,2,0,14,4,14,4,2,6,10,18,WWWWWWWDLLWD,1,0,5,3,15,WDWWWD,WWWWLW
+Nîmes,Stade Lavallois,0-0,/match/nimes-olympique/stade-lavallois/2011,2011,13,ligue_2,20,38,1,0,0,15,3,3,6,9,12,WDWWWWWWLDLD,3,1,2,8,6,10,3,5,4,9,10,DWWDWDDDWWWW,0,2,4,2,9,DWWWLL,DWWDWW
+Le Havre,Le Mans,1-1,/match/havre-ac/mans-uc-72/2011,2011,13,ligue_2,20,38,1,1,1,3,5,4,3,13,9,WWWWWWDWDDLD,4,2,0,8,3,4,6,4,2,17,11,LDDLLDWDLWLW,4,1,1,9,4,WWWWDD,LDLWLL
+Istres,Evian Thonon Gail.,1-1,/match/istres/evian-thonon-gaillard/2011,2011,13,ligue_2,20,38,1,1,1,19,1,6,5,6,15,DWDDWLDDWDLW,1,3,2,4,6,8,5,5,2,19,14,LWLLLDWDDDLD,4,1,1,11,9,WDLDDL,LLLWDL
+Grenoble,Ajaccio,1-1,/match/grenoble-foot-38/ajaccio/2011,2011,13,ligue_2,20,38,1,1,1,20,3,0,9,6,18,WWLWLLLWLWWW,2,0,4,3,7,9,4,5,3,12,11,WWDWDDWDLDLW,1,3,2,4,8,WLLLLW,WWDDDL
+Dijon FCO,Nantes,0-0,/match/dijon-fco/nantes/2011,2011,13,ligue_2,20,38,1,0,0,13,3,5,4,18,16,DDDDWWWDLWWW,3,2,1,11,4,11,4,5,3,12,10,LLLDWDWWLDDD,2,3,1,7,5,DDWWLW,LDDWLD
+Clermont,Metz,1-1,/match/clermont-foot/metz/2011,2011,13,ligue_2,20,38,1,1,1,12,3,5,4,18,21,DDWLWWWDDWWD,3,2,1,12,8,16,2,5,5,8,11,LWLWDDWDDWWD,0,2,3,2,5,DLWWDW,WDWDW
+Boulogne,Stade de Reims,1-0,/match/us-boulogne/stade-reims/2011,2011,13,ligue_2,20,38,0,1,0,5,2,10,0,9,6,DDWDWDDDDDDD,2,4,0,6,3,17,2,5,5,13,17,DDDWLWWDWDWW,0,2,4,5,12,DWWDDD,DWWDWW
+Angers SCO,Troyes,3-0,/match/angers-sco/troyes/2011,2011,13,ligue_2,20,38,0,3,0,18,3,5,4,9,12,DDLLLWDWWDLD,1,2,2,4,7,7,6,3,3,15,9,WLLWLLLWLDDD,4,1,1,6,2,DLDWL,WLLLLD
+Tours,Chateauroux,2-0,/match/tours-fc/berrichonne-chateauroux/2011,2011,13,ligue_2,20,38,0,2,0,1,6,4,2,17,13,WWWLWLDDDDWW,4,2,0,13,8,6,5,4,3,13,10,DDWLLDWWWLLD,2,3,1,7,6,WWWDDW,DLDWLD
+Vannes,Clermont,1-1,/match/vannes-olympique-club/clermont-foot/2011,2011,14,ligue_2,20,38,1,1,1,15,4,2,7,10,22,WWWWWWWDLLWDW,3,2,1,7,3,12,3,6,4,19,22,DDWLWWWDDWWDD,0,3,3,6,13,WWWDLD,DWWDWD
+Troyes,Istres,0-1,/match/troyes/istres/2011,2011,14,ligue_2,20,38,2,0,1,10,6,3,4,15,12,WLLWLLLWLDDDW,2,2,2,9,7,19,1,7,5,7,16,DWDDWLDDWDLWD,0,3,3,2,9,LWLWDD,DDWDWW
+Stade de Reims,Angers SCO,2-0,/match/stade-reims/angers-sco/2011,2011,14,ligue_2,20,38,0,2,0,18,2,5,6,13,18,DDDWLWWDWDWWW,2,3,1,8,5,14,4,5,4,12,12,DDLLLWDWWDLDW,2,3,2,5,5,DDLWDW,DLLWWDD
+Nantes,Nîmes,2-1,/match/nantes/nimes-olympique/2011,2011,14,ligue_2,20,38,0,2,1,13,4,6,3,12,10,LLLDWDWWLDDDD,2,2,2,5,5,16,3,4,6,9,12,WDWWWWWWLDLDD,0,2,4,1,6,LLWWDD,WWWWDD
+Metz,Le Mans,0-1,/match/metz/mans-uc-72/2011,2011,14,ligue_2,20,38,2,0,1,17,2,6,5,9,12,LWLWDDWDDWWDD,2,3,2,6,6,5,6,5,2,18,12,LDDLLDWDLWLWD,4,2,1,10,5,LLWDDWD,LDLWLLD
+Stade Lavallois,Sedan,3-0,/match/stade-lavallois/sedan/2011,2011,14,ligue_2,20,38,0,3,0,11,3,6,4,9,10,DWWDWDDDWWWWD,3,3,0,7,1,2,6,5,2,28,14,WWDDLWWWWDDDW,1,3,2,10,10,WDDDWW,WDLWDD
+Evian Thonon Gail.,Le Havre,1-1,/match/evian-thonon-gaillard/havre-ac/2011,2011,14,ligue_2,20,38,1,1,1,6,5,6,2,20,15,LWLLLDWDDDLDD,1,4,1,8,5,3,5,5,3,14,10,WWWWWWDWDDLDD,1,2,3,5,6,WLDDDD,WWWDDL
+Chateauroux,Grenoble,4-3,/match/berrichonne-chateauroux/grenoble-foot-38/2011,2011,14,ligue_2,20,38,0,4,3,9,5,4,4,13,12,DDWLLDWWWLLDW,3,1,2,6,4,20,3,1,9,7,19,WWLWLLLWLWWWD,1,0,5,3,11,DWLWWL,WWLWWW
+Ajaccio,Dijon FCO,1-0,/match/ajaccio/dijon-fco/2011,2011,14,ligue_2,20,38,0,1,0,7,4,6,3,13,12,WWDWDDWDLDLWD,3,2,1,8,3,8,3,6,4,18,16,DDDDWWWDLWWWD,0,3,3,7,12,WDDWLW,DDWDWW
+Tours,Boulogne,2-0,/match/tours-fc/us-boulogne/2011,2011,14,ligue_2,20,38,0,2,0,1,7,4,2,19,13,WWWLWLDDDDWWW,5,2,0,15,8,4,3,10,0,10,6,DDWDWDDDDDDDW,0,6,0,3,3,WWWDDWW,DDDDDD
+Nîmes,Troyes,1-0,/match/nimes-olympique/troyes/2011,2011,15,ligue_2,20,38,0,1,0,17,3,4,7,10,14,WDWWWWWWLDLDDW,3,2,2,8,6,13,6,3,5,15,13,WLLWLLLWLDDDWL,4,1,2,6,5,DWWWLLD,WLLLLDW
+Le Havre,Stade Lavallois,1-0,/match/havre-ac/stade-lavallois/2011,2011,15,ligue_2,20,38,0,1,0,3,5,6,3,15,11,WWWWWWDWDDLDDD,4,3,0,9,4,8,4,6,4,12,10,DWWDWDDDWWWWDW,0,3,4,2,9,WWWWDDD,DWWDWWD
+Istres,Vannes,3-0,/match/istres/vannes-olympique-club/2011,2011,15,ligue_2,20,38,0,3,0,19,2,7,5,8,16,DWDDWLDDWDLWDL,1,4,2,5,7,14,4,3,7,11,23,WWWWWWWDLLWDWD,1,0,6,3,19,WDLDDLD,WWWWLWW
+Grenoble,Tours,2-2,/match/grenoble-foot-38/tours-fc/2011,2011,15,ligue_2,20,38,1,2,2,20,3,1,10,10,23,WWLWLLLWLWWWDW,2,1,4,4,8,1,8,4,2,21,13,WWWLWLDDDDWWWW,2,2,2,4,5,WLLLLWD,WLLDDW
+Dijon FCO,Stade de Reims,3-2,/match/dijon-fco/stade-reims/2011,2011,15,ligue_2,20,38,0,3,2,12,3,6,5,18,17,DDDDWWWDLWWWDW,3,3,1,11,4,15,3,5,6,15,18,DDDWLWWDWDWWWW,0,2,5,5,13,DDWWLWD,DWWDWWW
+Clermont,Chateauroux,0-1,/match/clermont-foot/berrichonne-chateauroux/2011,2011,15,ligue_2,20,38,2,0,1,11,3,7,4,20,23,DDWLWWWDDWWDDD,3,3,1,13,9,7,6,4,4,17,15,DDWLLDWWWLLDWW,2,3,2,7,8,DLWWDWD,DLDWLDW
+Angers SCO,Nantes,1-1,/match/angers-sco/nantes/2011,2011,15,ligue_2,20,38,1,1,1,16,4,5,5,12,14,DDLLLWDWWDLDWW,2,2,2,7,7,10,5,6,3,14,11,LLLDWDWWLDDDDW,2,4,1,7,5,DLDWLW,LDDWLDD
+Le Mans,Evian Thonon Gail.,1-3,/match/mans-uc-72/evian-thonon-gaillard/2011,2011,15,ligue_2,20,38,2,1,3,5,7,5,2,19,12,LDDLLDWDLWLWDL,2,3,1,8,7,9,5,7,2,21,16,LWLLLDWDDDLDDD,4,2,1,12,10,DLDDWW,LLLWDLD
+Sedan,Ajaccio,4-1,/match/sedan/ajaccio/2011,2011,15,ligue_2,20,38,0,4,1,2,6,5,3,28,17,WWDDLWWWWDDDWW,5,2,0,18,4,6,5,6,3,14,12,WWDWDDWDLDLWDW,1,4,2,5,9,WDWWWDW,WWDDDLD
+Boulogne,Metz,0-2,/match/us-boulogne/metz/2011,2011,15,ligue_2,20,38,2,0,2,4,3,10,1,10,8,DDWDWDDDDDDDWW,3,4,0,7,3,18,2,6,6,9,13,LWLWDDWDDWWDDL,0,3,3,3,6,DWWDDDW,WDWDWD
+Vannes,Angers SCO,0-0,/match/vannes-olympique-club/angers-sco/2011,2011,16,ligue_2,20,38,1,0,0,17,4,3,8,11,26,WWWWWWWDLLWDWDW,3,3,1,8,4,14,4,6,5,13,15,DDLLLWDWWDLDWWD,2,3,3,5,7,WWWDLDD,DLLWWDDW
+Troyes,Le Havre,0-0,/match/troyes/havre-ac/2011,2011,16,ligue_2,20,38,1,0,0,15,6,3,6,15,14,WLLWLLLWLDDDWLW,2,2,3,9,8,3,6,6,3,16,11,WWWWWWDWDDLDDDW,1,3,3,6,7,LWLWDDL,WWWDDLD
+Stade de Reims,Nîmes,1-1,/match/stade-reims/nimes-olympique/2011,2011,16,ligue_2,20,38,1,1,1,18,3,5,7,17,21,DDDWLWWDWDWWWWW,3,3,1,10,5,12,4,4,7,11,14,WDWWWWWWLDLDDWW,0,2,5,2,8,DDLWDWW,WWWWDDW
+Nantes,Clermont,2-0,/match/nantes/clermont-foot/2011,2011,16,ligue_2,20,38,0,2,0,10,5,7,3,15,12,LLLDWDWWLDDDDWD,3,2,2,7,6,13,3,7,5,20,24,DDWLWWWDDWWDDDL,0,4,3,7,14,LLWWDDW,DWWDWDD
+Metz,Sedan,0-0,/match/metz/sedan/2011,2011,16,ligue_2,20,38,1,0,0,19,3,6,6,11,13,LWLWDDWDDWWDDLL,2,3,3,6,7,2,7,5,3,32,18,WWDDLWWWWDDDWWW,1,3,3,10,13,LLWDDWDL,WDLWDDW
+Stade Lavallois,Istres,0-0,/match/stade-lavallois/istres/2011,2011,16,ligue_2,20,38,1,0,0,9,4,6,5,12,11,DWWDWDDDWWWWDWW,4,3,0,10,1,16,3,7,5,11,16,DWDDWLDDWDLWDLW,1,3,3,3,9,WDDDWWW,DDWDWWL
+Evian Thonon Gail.,Grenoble,2-0,/match/evian-thonon-gaillard/grenoble-foot-38/2011,2011,16,ligue_2,20,38,0,2,0,8,6,7,2,24,17,LWLLLDWDDDLDDDL,1,5,1,9,6,20,3,2,10,12,25,WWLWLLLWLWWWDWD,1,0,6,6,15,WLDDDDD,WWLWWWW
+Chateauroux,Dijon FCO,0-3,/match/berrichonne-chateauroux/dijon-fco/2011,2011,16,ligue_2,20,38,2,0,3,4,7,4,4,18,15,DDWLLDWWWLLDWWL,4,1,2,10,7,11,4,6,5,21,19,DDDDWWWDLWWWDWW,0,3,4,7,13,DWLWWLW,DDWDWWW
+Ajaccio,Boulogne,2-0,/match/ajaccio/us-boulogne/2011,2011,16,ligue_2,20,38,0,2,0,7,5,6,4,15,16,WWDWDDWDLDLWDWW,4,2,1,9,3,5,3,10,2,10,10,DDWDWDDDDDDDWWL,0,6,1,3,5,WDDWLWW,DDDDDDW
+Tours,Le Mans,0-1,/match/tours-fc/mans-uc-72/2011,2011,16,ligue_2,20,38,2,0,1,1,8,5,2,23,15,WWWLWLDDDDWWWWD,6,2,0,17,8,6,7,5,3,20,15,LDDLLDWDLWLWDLL,5,2,1,11,5,WWWDDWWW,LDLWLLDL
+Sedan,Stade de Reims,0-0,/match/sedan/stade-reims/2011,2011,17,ligue_2,20,38,1,0,0,2,7,6,3,32,18,WWDDLWWWWDDDWWWD,6,2,0,22,5,18,3,6,7,18,22,DDDWLWWDWDWWWWWD,0,2,6,7,16,WDWWWDWW,DWWDWWWW
+Nîmes,Vannes,2-1,/match/nimes-olympique/vannes-olympique-club/2011,2011,17,ligue_2,20,38,0,2,1,12,4,5,7,12,15,WDWWWWWWLDLDDWWD,4,2,2,9,6,17,4,4,8,11,26,WWWWWWWDLLWDWDWD,1,0,7,3,22,DWWWLLDW,WWWWLWWW
+Le Havre,Metz,2-1,/match/havre-ac/metz/2011,2011,17,ligue_2,20,38,0,2,1,3,6,7,3,16,11,WWWWWWDWDDLDDDWD,5,3,0,10,4,19,3,7,6,11,13,LWLWDDWDDWWDDLLD,1,3,3,5,6,WWWWDDDW,WDWDWDL
+Istres,Nantes,2-1,/match/istres/nantes/2011,2011,17,ligue_2,20,38,0,2,1,16,3,8,5,11,16,DWDDWLDDWDLWDLWD,2,4,2,8,7,6,6,7,3,17,12,LLLDWDWWLDDDDWDW,2,5,1,8,6,WDLDDLDW,LDDWLDDD
+Dijon FCO,Tours,3-2,/match/dijon-fco/tours-fc/2011,2011,17,ligue_2,20,38,0,3,2,9,5,6,5,24,19,DDDDWWWDLWWWDWWL,4,3,1,14,6,1,8,5,3,23,16,WWWLWLDDDDWWWWDL,2,3,2,6,7,DDWWLWDW,WLLDDWD
+Boulogne,Grenoble,2-0,/match/us-boulogne/grenoble-foot-38/2011,2011,17,ligue_2,20,38,0,2,0,11,3,10,3,10,12,DDWDWDDDDDDDWWLW,3,4,1,7,5,20,3,2,11,12,27,WWLWLLLWLWWWDWDW,1,0,7,6,17,DWWDDDWL,WWLWWWWW
+Angers SCO,Chateauroux,2-1,/match/angers-sco/berrichonne-chateauroux/2011,2011,17,ligue_2,20,38,0,2,1,15,4,7,5,13,15,DDLLLWDWWDLDWWDD,2,3,2,8,8,10,7,4,5,18,18,DDWLLDWWWLLDWWLL,3,3,2,8,8,DLDWLWD,DLDWLDWL
+Le Mans,Troyes,1-0,/match/mans-uc-72/troyes/2011,2011,17,ligue_2,20,38,0,1,0,7,8,5,3,21,15,LDDLLDWDLWLWDLLL,2,3,2,9,10,13,6,4,6,15,14,WLLWLLLWLDDDWLWD,4,1,3,6,6,DLDDWWL,WLLLLDWW
+Clermont,Ajaccio,2-0,/match/clermont-foot/ajaccio/2011,2011,17,ligue_2,20,38,0,2,0,14,3,7,6,20,26,DDWLWWWDDWWDDDLW,3,3,2,13,10,4,6,6,4,17,16,WWDWDDWDLDLWDWWW,1,4,3,6,13,DLWWDWDL,WWDDDLDW
+Evian Thonon Gail.,Stade Lavallois,3-0,/match/evian-thonon-gaillard/stade-lavallois/2011,2011,17,ligue_2,20,38,0,3,0,5,7,7,2,26,17,LWLLLDWDDDLDDDLW,2,5,1,11,6,8,4,7,5,12,11,DWWDWDDDWWWWDWWD,0,3,5,2,10,WLDDDDDW,DWWDWWDW
+Vannes,Le Havre,1-1,/match/vannes-olympique-club/havre-ac/2011,2011,18,ligue_2,20,38,1,1,1,18,4,4,9,12,28,WWWWWWWDLLWDWDWDW,3,4,1,8,4,1,7,7,3,18,12,WWWWWWDWDDLDDDWDW,1,4,3,6,7,WWWDLDDD,WWWDDLDD
+Troyes,Evian Thonon Gail.,1-1,/match/troyes/evian-thonon-gaillard/2011,2011,18,ligue_2,20,38,1,1,1,16,6,4,7,15,15,WLLWLLLWLDDDWLWDW,2,3,3,9,8,4,8,7,2,29,17,LWLLLDWDDDLDDDLWW,5,2,1,15,11,LWLWDDLD,LLLWDLDL
+Tours,Nîmes,0-2,/match/tours-fc/nimes-olympique/2011,2011,18,ligue_2,20,38,2,0,2,3,8,5,4,25,19,WWWLWLDDDDWWWWDLW,6,2,1,17,9,12,5,5,7,14,16,WDWWWWWWLDLDDWWDW,0,3,5,3,9,WWWDDWWWL,WWWWDDWD
+Stade de Reims,Clermont,1-3,/match/stade-reims/clermont-foot/2011,2011,18,ligue_2,20,38,2,1,3,17,3,7,7,18,22,DDDWLWWDWDWWWWWDD,3,4,1,11,6,13,4,7,6,22,26,DDWLWWWDDWWDDDLWW,0,4,4,7,16,DDLWDWWD,DWWDWDDW
+Grenoble,Dijon FCO,3-1,/match/grenoble-foot-38/dijon-fco/2011,2011,18,ligue_2,20,38,0,3,1,20,3,2,12,12,29,WWLWLLLWLWWWDWDWW,2,2,4,6,10,6,6,6,5,27,21,DDDDWWWDLWWWDWWLW,1,3,4,10,13,WLLLLWDD,DDWDWWWL
+Chateauroux,Boulogne,1-1,/match/berrichonne-chateauroux/us-boulogne/2011,2011,18,ligue_2,20,38,1,1,1,11,7,4,6,19,20,DDWLLDWWWLLDWWLLW,4,1,3,10,10,7,4,10,3,12,12,DDWDWDDDDDDDWWLWW,0,6,2,3,7,DWLWWLWL,DDDDDDWW
+Ajaccio,Angers SCO,1-0,/match/ajaccio/angers-sco/2011,2011,18,ligue_2,20,38,0,1,0,8,6,6,5,17,18,WWDWDDWDLDLWDWWWW,5,2,1,11,3,14,5,7,5,15,16,DDLLLWDWWDLDWWDDW,2,4,3,5,7,WDDWLWWW,DLLWWDDWD
+Nantes,Sedan,0-0,/match/nantes/sedan/2011,2011,18,ligue_2,20,38,1,0,0,9,6,7,4,18,14,LLLDWDWWLDDDDWDWW,4,2,2,9,6,2,7,7,3,32,18,WWDDLWWWWDDDWWWDD,1,4,3,10,13,LLWWDDWW,WDLWDDWD
+Metz,Istres,0-0,/match/metz/istres/2011,2011,18,ligue_2,20,38,1,0,0,19,3,7,7,12,15,LWLWDDWDDWWDDLLDW,2,4,3,6,7,15,4,8,5,13,17,DWDDWLDDWDLWDLWDW,1,4,3,3,9,LLWDDWDLD,DDWDWWLD
+Stade Lavallois,Le Mans,2-1,/match/stade-lavallois/mans-uc-72/2011,2011,18,ligue_2,20,38,0,2,1,10,4,7,6,12,14,DWWDWDDDWWWWDWWDW,4,4,0,10,1,5,9,5,3,22,15,LDDLLDWDLWLWDLLLW,6,2,1,12,5,WDDDWWWD,LDLWLLDLL
+Le Havre,Nantes,0-1,/match/havre-ac/nantes/2011,2011,19,ligue_2,20,38,2,0,1,1,7,8,3,19,13,WWWWWWDWDDLDDDWDWD,6,3,0,12,5,9,6,8,4,18,14,LLLDWDWWLDDDDWDWWD,2,5,2,9,8,WWWWDDDWW,LDDWLDDDW
+Nîmes,Metz,2-0,/match/nimes-olympique/metz/2011,2011,19,ligue_2,20,38,0,2,0,11,6,5,7,16,16,WDWWWWWWLDLDDWWDWL,5,2,2,11,7,19,3,8,7,12,15,LWLWDDWDDWWDDLLDWD,1,3,4,6,8,DWWWLLDWW,WDWDWDLW
+Le Mans,Vannes,0-1,/match/mans-uc-72/vannes-olympique-club/2011,2011,19,ligue_2,20,38,2,0,1,6,9,5,4,23,17,LDDLLDWDLWLWDLLLWW,3,3,2,10,10,17,4,5,9,13,29,WWWWWWWDLLWDWDWDWD,1,0,8,4,24,DLDDWWLW,WWWWLWWWW
+Stade Lavallois,Troyes,0-0,/match/stade-lavallois/troyes/2011,2011,19,ligue_2,20,38,1,0,0,10,5,7,6,14,15,DWWDWDDDWWWWDWWDWW,5,4,0,12,2,16,6,5,7,16,16,WLLWLLLWLDDDWLWDWD,4,1,4,6,7,WDDDWWWDW,WLLLLDWWW
+Istres,Ajaccio,2-2,/match/istres/ajaccio/2011,2011,19,ligue_2,20,38,1,2,2,14,4,9,5,13,17,DWDDWLDDWDLWDLWDWD,3,4,2,10,8,5,7,6,5,18,18,WWDWDDWDLDLWDWWWWW,1,4,4,6,15,WDLDDLDWW,WWDDDLDWW
+Evian Thonon Gail.,Stade de Reims,1-2,/match/evian-thonon-gaillard/stade-reims/2011,2011,19,ligue_2,20,38,2,1,2,4,8,8,2,30,18,LWLLLDWDDDLDDDLWWD,3,5,1,14,6,18,3,7,8,19,25,DDDWLWWDWDWWWWWDDL,0,3,6,7,16,WLDDDDDWW,DWWDWWWWD
+Clermont,Grenoble,2-2,/match/clermont-foot/grenoble-foot-38/2011,2011,19,ligue_2,20,38,1,2,2,13,5,7,6,25,27,DDWLWWWDDWWDDDLWWL,4,3,2,15,10,20,4,2,12,15,30,WWLWLLLWLWWWDWDWWW,1,0,8,6,19,DLWWDWDLW,WWLWWWWWW
+Boulogne,Dijon FCO,0-1,/match/us-boulogne/dijon-fco/2011,2011,19,ligue_2,20,38,2,0,1,8,4,11,3,13,13,DDWDWDDDDDDDWWLWWD,4,4,1,9,5,7,6,6,6,28,24,DDDDWWWDLWWWDWWLWW,1,3,5,11,16,DWWDDDWLW,DDWDWWWLW
+Angers SCO,Tours,2-2,/match/angers-sco/tours-fc/2011,2011,19,ligue_2,20,38,1,2,2,15,5,7,6,15,17,DDLLLWDWWDLDWWDDWW,3,3,2,10,9,3,8,5,5,25,21,WWWLWLDDDDWWWWDLWL,2,3,3,8,10,DLDWLWDW,WLLDDWDW
+Sedan,Chateauroux,2-0,/match/sedan/berrichonne-chateauroux/2011,2011,19,ligue_2,20,38,0,2,0,2,7,8,3,32,18,WWDDLWWWWDDDWWWDDD,6,3,0,22,5,12,7,5,6,20,21,DDWLLDWWWLLDWWLLWD,3,3,3,9,10,WDWWWDWWD,DLDWLDWLW
+Vannes,Evian Thonon Gail.,2-2,/match/vannes-olympique-club/evian-thonon-gaillard/2011,2011,20,ligue_2,20,38,1,2,2,17,5,5,9,14,29,WWWWWWWDLLWDWDWDWDL,3,5,1,9,5,4,8,8,3,31,20,LWLLLDWDDDLDDDLWWDL,5,3,1,16,12,WWWDLDDDD,LLLWDLDLD
+Tours,Istres,2-3,/match/tours-fc/istres/2011,2011,20,ligue_2,20,38,2,2,3,3,8,6,5,27,23,WWWLWLDDDDWWWWDLWLD,6,2,2,17,11,14,4,10,5,15,19,DWDDWLDDWDLWDLWDWDD,1,5,3,3,9,WWWDDWWWLL,DDWDWWLDD
+Stade de Reims,Le Mans,3-0,/match/stade-reims/mans-uc-72/2011,2011,20,ligue_2,20,38,0,3,0,18,4,7,8,21,26,DDDWLWWDWDWWWWWDDLL,3,4,2,12,9,10,9,5,5,23,18,LDDLLDWDLWLWDLLLWWL,6,2,2,13,7,DDLWDWWDL,LDLWLLDLLW
+Metz,Stade Lavallois,4-0,/match/metz/stade-lavallois/2011,2011,20,ligue_2,20,38,0,4,0,19,3,8,8,12,17,LWLWDDWDDWWDDLLDWDW,2,5,3,6,7,7,5,8,6,14,15,DWWDWDDDWWWWDWWDWWD,0,3,6,2,13,LLWDDWDLDD,DWWDWWDWW
+Grenoble,Sedan,1-1,/match/grenoble-foot-38/sedan/2011,2011,20,ligue_2,20,38,1,1,1,20,4,3,12,17,32,WWLWLLLWLWWWDWDWWWD,3,2,4,9,11,1,8,8,3,34,18,WWDDLWWWWDDDWWWDDDW,1,5,3,10,13,WLLLLWDDW,WDLWDDWDD
+Dijon FCO,Clermont,0-1,/match/dijon-fco/clermont-foot/2011,2011,20,ligue_2,20,38,2,0,1,9,7,6,6,29,24,DDDDWWWDLWWWDWWLWWL,5,3,1,17,8,12,5,8,6,27,29,DDWLWWWDDWWDDDLWWLD,1,4,4,10,17,DDWWLWDWW,DWWDWDDWL
+Chateauroux,Nîmes,1-1,/match/berrichonne-chateauroux/nimes-olympique/2011,2011,20,ligue_2,20,38,1,1,1,13,7,5,7,20,23,DDWLLDWWWLLDWWLLWDW,4,2,3,11,11,8,7,5,7,18,16,WDWWWWWWLDLDDWWDWLW,1,3,5,5,9,DWLWWLWLD,WWWWDDWDL
+Boulogne,Angers SCO,2-1,/match/us-boulogne/angers-sco/2011,2011,20,ligue_2,20,38,0,2,1,11,4,11,4,13,14,DDWDWDDDDDDDWWLWWDL,4,4,2,9,6,15,5,8,6,17,19,DDLLLWDWWDLDWWDDWWD,2,4,4,5,8,DWWDDDWLWL,DLLWWDDWDW
+Ajaccio,Le Havre,2-1,/match/ajaccio/havre-ac/2011,2011,20,ligue_2,20,38,0,2,1,5,7,7,5,20,20,WWDWDDWDLDLWDWWWWWD,6,2,1,12,3,2,7,8,4,19,14,WWWWWWDWDDLDDDWDWDL,1,5,3,7,8,WDDWLWWWW,WWWDDLDDD
+Nantes,Troyes,0-1,/match/nantes/troyes/2011,2011,20,ligue_2,20,38,2,0,1,6,7,8,4,19,14,LLLDWDWWLDDDDWDWWDL,4,3,2,9,6,16,6,6,7,16,16,WLLWLLLWLDDDWLWDWDD,4,2,4,6,7,LLWWDDWWD,WLLLLDWWWD
+Troyes,Metz,2-1,/match/troyes/metz/2011,2011,21,ligue_2,20,38,0,2,1,17,7,6,7,17,16,WLLWLLLWLDDDWLWDWDDL,2,4,3,10,9,19,4,8,8,16,17,LWLWDDWDDWWDDLLDWDWW,1,3,5,6,10,LWLWDDLDD,WDWDWDLWW
+Sedan,Dijon FCO,0-0,/match/sedan/dijon-fco/2011,2011,21,ligue_2,20,38,1,0,0,1,8,9,3,35,19,WWDDLWWWWDDDWWWDDDWD,7,3,0,24,5,9,7,6,7,29,25,DDDDWWWDLWWWDWWLWWLL,2,3,5,12,16,WDWWWDWWDW,DDWDWWWLWL
+Nîmes,Boulogne,0-1,/match/nimes-olympique/us-boulogne/2011,2011,21,ligue_2,20,38,2,0,1,7,7,6,7,19,17,WDWWWWWWLDLDDWWDWLWD,6,2,2,13,7,6,5,11,4,15,15,DDWDWDDDDDDDWWLWWDLW,0,7,2,4,8,DWWWLLDWWW,DDDDDDWWD
+Stade Lavallois,Vannes,1-0,/match/stade-lavallois/vannes-olympique-club/2011,2011,21,ligue_2,20,38,0,1,0,8,5,8,7,14,19,DWWDWDDDWWWWDWWDWWDW,5,5,0,12,2,18,5,6,9,16,31,WWWWWWWDLLWDWDWDWDLD,2,0,8,5,24,WDDDWWWDWD,WWWWLWWWWL
+Istres,Stade de Reims,2-0,/match/istres/stade-reims/2011,2011,21,ligue_2,20,38,0,2,0,14,5,10,5,18,21,DWDDWLDDWDLWDLWDWDDL,3,5,2,12,10,15,5,7,8,24,26,DDDWLWWDWDWWWWWDDLLW,1,3,6,9,17,WDLDDLDWWD,DWWDWWWWDL
+Evian Thonon Gail.,Nantes,3-0,/match/evian-thonon-gaillard/nantes/2011,2011,21,ligue_2,20,38,0,3,0,5,8,9,3,33,22,LWLLLDWDDDLDDDLWWDLD,3,5,2,15,8,10,7,8,5,19,15,LLLDWDWWLDDDDWDWWDLL,3,5,2,10,8,WLDDDDDWWL,LDDWLDDDWL
+Clermont,Tours,3-1,/match/clermont-foot/tours-fc/2011,2011,21,ligue_2,20,38,0,3,1,12,6,8,6,28,29,DDWLWWWDDWWDDDLWWLDL,4,4,2,17,12,4,8,6,6,29,26,WWWLWLDDDDWWWWDLWLDL,2,4,3,10,12,DLWWDWDLWD,WLLDDWDWD
+Angers SCO,Grenoble,2-2,/match/angers-sco/grenoble-foot-38/2011,2011,21,ligue_2,20,38,1,2,2,16,5,8,7,18,21,DDLLLWDWWDLDWWDDWWDW,3,4,2,12,11,20,4,4,12,18,33,WWLWLLLWLWWWDWDWWWDD,1,1,8,8,21,DLDWLWDWD,WWLWWWWWWD
+Le Mans,Ajaccio,3-0,/match/mans-uc-72/ajaccio/2011,2011,21,ligue_2,20,38,0,3,0,11,9,5,6,23,21,LDDLLDWDLWLWDLLLWWLW,3,3,3,10,11,2,8,7,5,22,21,WWDWDDWDLDLWDWWWWWDW,1,5,4,8,17,DLDDWWLWL,WWDDDLDWWD
+Le Havre,Chateauroux,1-0,/match/havre-ac/berrichonne-chateauroux/2011,2011,21,ligue_2,20,38,0,1,0,3,7,8,5,20,16,WWWWWWDWDDLDDDWDWDLW,6,3,1,12,6,13,7,6,7,21,24,DDWLLDWWWLLDWWLLWDWD,3,3,4,9,12,WWWWDDDWWL,DLDWLDWLWW
+Vannes,Metz,1-2,/match/vannes-olympique-club/metz/2011,2011,22,ligue_2,20,38,2,1,2,18,5,6,10,16,32,WWWWWWWDLLWDWDWDWDLDW,3,6,1,11,7,19,4,8,9,17,19,LWLWDDWDDWWDDLLDWDWWW,1,3,6,7,12,WWWDLDDDDD,WDWDWDLWWW
+Stade de Reims,Le Havre,2-1,/match/stade-reims/havre-ac/2011,2011,22,ligue_2,20,38,0,2,1,17,5,7,9,24,28,DDDWLWWDWDWWWWWDDLLWW,4,4,2,15,9,2,8,8,5,21,16,WWWWWWDWDDLDDDWDWDLWW,1,5,4,8,10,DDLWDWWDLW,WWWDDLDDDW
+Nantes,Stade Lavallois,1-1,/match/nantes/stade-lavallois/2011,2011,22,ligue_2,20,38,1,1,1,13,7,8,6,19,18,LLLDWDWWLDDDDWDWWDLLW,4,3,3,9,7,5,6,8,7,15,19,DWWDWDDDWWWWDWWDWWDWW,0,3,7,2,17,LLWWDDWWDL,DWWDWWDWWW
+Grenoble,Nîmes,1-0,/match/grenoble-foot-38/nimes-olympique/2011,2011,22,ligue_2,20,38,0,1,0,20,4,5,12,20,35,WWLWLLLWLWWWDWDWWWDDD,3,3,4,10,12,12,7,6,8,19,18,WDWWWWWWLDLDDWWDWLWDL,1,4,5,6,10,WLLLLWDDWD,WWWWDDWDLD
+Dijon FCO,Istres,0-1,/match/dijon-fco/istres/2011,2011,22,ligue_2,20,38,2,0,1,11,7,7,7,29,25,DDDDWWWDLWWWDWWLWWLLD,5,3,2,17,9,10,6,10,5,20,21,DWDDWLDDWDLWDLWDWDDLW,2,5,3,6,11,DDWWLWDWWL,DDWDWWLDDL
+Chateauroux,Le Mans,1-2,/match/berrichonne-chateauroux/mans-uc-72/2011,2011,22,ligue_2,20,38,2,1,2,15,7,6,8,21,25,DDWLLDWWWLLDWWLLWDWDW,4,3,3,12,12,8,10,5,6,26,21,LDDLLDWDLWLWDLLLWWLWW,6,2,3,13,10,DWLWWLWLDD,LDLWLLDLLWW
+Boulogne,Sedan,1-0,/match/us-boulogne/sedan/2011,2011,22,ligue_2,20,38,0,1,0,6,6,11,4,16,15,DDWDWDDDDDDDWWLWWDLWL,5,4,2,11,7,1,8,10,3,35,19,WWDDLWWWWDDDWWWDDDWDD,1,6,3,11,14,DWWDDDWLWLW,WDLWDDWDDD
+Angers SCO,Clermont,1-0,/match/angers-sco/clermont-foot/2011,2011,22,ligue_2,20,38,0,1,0,16,5,9,7,20,23,DDLLLWDWWDLDWWDDWWDWD,3,5,2,14,13,7,7,8,6,31,30,DDWLWWWDDWWDDDLWWLDLW,2,4,4,11,17,DLDWLWDWDD,DWWDWDDWLL
+Ajaccio,Troyes,3-0,/match/ajaccio/troyes/2011,2011,22,ligue_2,20,38,0,3,0,4,8,7,6,22,24,WWDWDDWDLDLWDWWWWWDWW,7,2,1,14,4,14,8,6,7,19,17,WLLWLLLWLDDDWLWDWDDLW,5,2,4,7,7,WDDWLWWWWW,WLLLLDWWWDL
+Tours,Evian Thonon Gail.,1-0,/match/tours-fc/evian-thonon-gaillard/2011,2011,22,ligue_2,20,38,0,1,0,9,8,6,7,30,29,WWWLWLDDDDWWWWDLWLDLW,6,2,3,19,14,3,9,9,3,36,22,LWLLLDWDDDLDDDLWWDLDW,5,4,1,18,14,WWWDDWWWLLL,LLLWDLDLDD
+Vannes,Nantes,1-0,/match/vannes-olympique-club/nantes/2011,2011,23,ligue_2,20,38,0,1,0,19,5,6,11,17,34,WWWWWWWDLLWDWDWDWDLDWL,3,6,2,12,9,11,7,9,6,20,19,LLLDWDWWLDDDDWDWWDLLWD,3,5,3,10,11,WWWDLDDDDDL,LDDWLDDDWLW
+Troyes,Stade de Reims,3-2,/match/troyes/stade-reims/2011,2011,23,ligue_2,20,38,0,3,2,16,8,6,8,19,20,WLLWLLLWLDDDWLWDWDDLWW,3,4,3,12,10,15,6,7,9,26,29,DDDWLWWDWDWWWWWDDLLWWW,1,3,7,9,19,LWLWDDLDDW,DWWDWWWWDLW
+Sedan,Angers SCO,0-1,/match/sedan/angers-sco/2011,2011,23,ligue_2,20,38,2,0,1,1,8,10,4,35,20,WWDDLWWWWDDDWWWDDDWDDW,7,4,0,24,5,12,6,9,7,21,23,DDLLLWDWWDLDWWDDWWDWDW,2,4,5,6,10,WDWWWDWWDWD,DLLWWDDWDWW
+Nîmes,Dijon FCO,0-2,/match/nimes-olympique/dijon-fco/2011,2011,23,ligue_2,20,38,2,0,2,14,7,6,9,19,19,WDWWWWWWLDLDDWWDWLWDLW,6,2,3,13,8,13,7,7,8,29,26,DDDDWWWDLWWWDWWLWWLLDL,2,4,5,12,16,DWWWLLDWWWL,DDWDWWWLWLD
+Le Mans,Grenoble,1-0,/match/mans-uc-72/grenoble-foot-38/2011,2011,23,ligue_2,20,38,0,1,0,8,11,5,6,28,22,LDDLLDWDLWLWDLLLWWLWWL,4,3,3,13,11,20,5,5,12,21,35,WWLWLLLWLWWWDWDWWWDDDW,1,2,8,10,23,DLDDWWLWLW,WWLWWWWWWDD
+Le Havre,Clermont,1-0,/match/havre-ac/clermont-foot/2011,2011,23,ligue_2,20,38,0,1,0,4,8,8,6,22,18,WWWWWWDWDDLDDDWDWDLWWW,7,3,1,13,6,10,7,8,7,31,31,DDWLWWWDDWWDDDLWWLDLWW,2,4,5,11,18,WWWWDDDWWLW,DWWDWDDWLLW
+Stade Lavallois,Tours,2-2,/match/stade-lavallois/tours-fc/2011,2011,23,ligue_2,20,38,1,2,2,7,6,9,7,16,20,DWWDWDDDWWWWDWWDWWDWWD,6,5,0,13,2,6,9,6,7,31,29,WWWLWLDDDDWWWWDLWLDLWW,2,4,4,11,15,WDDDWWWDWDW,WLLDDWDWDW
+Istres,Boulogne,0-1,/match/istres/us-boulogne/2011,2011,23,ligue_2,20,38,2,0,1,9,7,10,5,21,21,DWDDWLDDWDLWDLWDWDDLWL,4,5,2,14,10,3,7,11,4,17,15,DDWDWDDDDDDDWWLWWDLWLW,1,7,2,5,8,WDLDDLDWWDW,DDDDDDWWDL
+Evian Thonon Gail.,Chateauroux,1-0,/match/evian-thonon-gaillard/berrichonne-chateauroux/2011,2011,23,ligue_2,20,38,0,1,0,5,9,9,4,36,23,LWLLLDWDDDLDDDLWWDLDWW,4,5,2,18,8,17,7,6,9,22,27,DDWLLDWWWLLDWWLLWDWDWL,3,3,5,9,13,WLDDDDDWWLW,DLDWLDWLWWW
+Metz,Ajaccio,2-2,/match/metz/ajaccio/2011,2011,23,ligue_2,20,38,1,2,2,18,5,8,9,19,20,LWLWDDWDDWWDDLLDWDWWWL,3,5,3,10,7,2,9,7,6,25,24,WWDWDDWDLDLWDWWWWWDWWW,1,5,5,8,20,LLWDDWDLDDW,WWDDDLDWWDW
+Tours,Troyes,1-0,/match/tours-fc/troyes/2011,2011,24,ligue_2,20,38,0,1,0,7,9,7,7,33,31,WWWLWLDDDDWWWWDLWLDLWWD,7,2,3,20,14,10,9,6,8,22,22,WLLWLLLWLDDDWLWDWDDLWWW,5,2,5,7,10,WWWDDWWWLLLW,WLLLLDWWWDLW
+Stade de Reims,Vannes,3-1,/match/stade-reims/vannes-olympique-club/2011,2011,24,ligue_2,20,38,0,3,1,16,6,7,10,28,32,DDDWLWWDWDWWWWWDDLLWWWW,5,4,2,17,10,17,6,6,11,18,34,WWWWWWWDLLWDWDWDWDLDWLW,2,0,9,5,25,DDLWDWWDLWW,WWWWLWWWWLW
+Nantes,Metz,0-0,/match/nantes/metz/2011,2011,24,ligue_2,20,38,1,0,0,14,7,9,7,20,20,LLLDWDWWLDDDDWDWWDLLWDW,4,4,3,10,8,19,5,9,9,21,22,LWLWDDWDDWWDDLLDWDWWWLD,2,3,6,9,13,LLWWDDWWDLD,WDWDWDLWWWL
+Grenoble,Istres,0-2,/match/grenoble-foot-38/istres/2011,2011,24,ligue_2,20,38,2,0,2,20,5,5,13,21,36,WWLWLLLWLWWWDWDWWWDDDWW,4,3,4,11,12,9,7,10,6,21,22,DWDDWLDDWDLWDLWDWDDLWLL,3,5,3,7,11,WLLLLWDDWDW,DDWDWWLDDLL
+Dijon FCO,Le Havre,0-0,/match/dijon-fco/havre-ac/2011,2011,24,ligue_2,20,38,1,0,0,13,8,7,8,31,26,DDDDWWWDLWWWDWWLWWLLDLL,5,3,3,17,10,1,9,8,6,23,18,WWWWWWDWDDLDDDWDWDLWWWW,1,5,5,9,12,DDWWLWDWWLL,WWWDDLDDDWW
+Clermont,Sedan,1-1,/match/clermont-foot/sedan/2011,2011,24,ligue_2,20,38,1,1,1,11,7,8,8,31,32,DDWLWWWDDWWDDDLWWLDLWWW,5,4,2,20,13,2,8,10,5,35,21,WWDDLWWWWDDDWWWDDDWDDWL,1,6,4,11,15,DLWWDWDLWDW,WDLWDDWDDDW
+Chateauroux,Stade Lavallois,1-0,/match/berrichonne-chateauroux/stade-lavallois/2011,2011,24,ligue_2,20,38,0,1,0,18,7,6,10,22,28,DDWLLDWWWLLDWWLLWDWDWLW,4,3,4,13,14,8,6,10,7,18,22,DWWDWDDDWWWWDWWDWWDWWDD,0,4,7,3,18,DWLWWLWLDDL,DWWDWWDWWWD
+Angers SCO,Nîmes,2-0,/match/angers-sco/nimes-olympique/2011,2011,24,ligue_2,20,38,0,2,0,12,7,9,7,22,23,DDLLLWDWWDLDWWDDWWDWDWL,4,5,2,15,13,15,7,6,10,19,21,WDWWWWWWLDLDDWWDWLWDLWL,1,4,6,6,11,DLDWLWDWDDW,WWWWDDWDLDW
+Ajaccio,Evian Thonon Gail.,1-0,/match/ajaccio/evian-thonon-gaillard/2011,2011,24,ligue_2,20,38,0,1,0,4,9,8,6,27,26,WWDWDDWDLDLWDWWWWWDWWWD,8,2,1,17,4,3,10,9,4,37,23,LWLLLDWDDDLDDDLWWDLDWWW,5,4,2,18,15,WDDWLWWWWWW,LLLWDLDLDDW
+Boulogne,Le Mans,1-0,/match/us-boulogne/mans-uc-72/2011,2011,24,ligue_2,20,38,0,1,0,5,8,11,4,18,15,DDWDWDDDDDDDWWLWWDLWLWL,6,4,2,12,7,6,12,5,6,29,22,LDDLLDWDLWLWDLLLWWLWWLW,7,2,3,15,11,DWWDDDWLWLWW,LDLWLLDLLWWL
+Vannes,Ajaccio,0-1,/match/vannes-olympique-club/ajaccio/2011,2011,25,ligue_2,20,38,2,0,1,18,6,6,12,19,37,WWWWWWWDLLWDWDWDWDLDWLWW,4,6,2,13,9,1,10,8,6,28,26,WWDWDDWDLDLWDWWWWWDWWWDW,1,6,5,10,22,WWWDLDDDDDLW,WWDDDLDWWDWD
+Troyes,Grenoble,2-0,/match/troyes/grenoble-foot-38/2011,2011,25,ligue_2,20,38,0,2,0,15,9,6,9,22,23,WLLWLLLWLDDDWLWDWDDLWWWW,4,4,3,15,12,20,5,5,14,21,38,WWLWLLLWLWWWDWDWWWDDDWWL,1,2,9,10,24,LWLWDDLDDWW,WWLWWWWWWDDW
+Nîmes,Clermont,1-2,/match/nimes-olympique/clermont-foot/2011,2011,25,ligue_2,20,38,2,1,2,17,7,6,11,19,23,WDWWWWWWLDLDDWWDWLWDLWLW,6,2,4,13,10,12,7,9,8,32,33,DDWLWWWDDWWDDDLWWLDLWWWD,2,4,6,11,19,DWWWLLDWWWLL,DWWDWDDWLLWW
+Nantes,Stade de Reims,1-1,/match/nantes/stade-reims/2011,2011,25,ligue_2,20,38,1,1,1,13,7,10,7,20,20,LLLDWDWWLDDDDWDWWDLLWDWD,4,5,3,10,8,14,7,7,10,31,33,DDDWLWWDWDWWWWWDDLLWWWWW,1,3,8,11,22,LLWWDDWWDLDD,DWWDWWWWDLWW
+Metz,Chateauroux,0-0,/match/metz/berrichonne-chateauroux/2011,2011,25,ligue_2,20,38,1,0,0,19,5,10,9,21,22,LWLWDDWDDWWDDLLDWDWWWLDD,3,6,3,12,9,16,8,6,10,23,28,DDWLLDWWWLLDWWLLWDWDWLWW,3,3,6,9,14,LLWDDWDLDDWD,DLDWLDWLWWWW
+Le Mans,Sedan,1-1,/match/mans-uc-72/sedan/2011,2011,25,ligue_2,20,38,1,1,1,7,12,5,7,29,23,LDDLLDWDLWLWDLLLWWLWWLWW,5,3,3,14,11,5,8,11,5,36,22,WWDDLWWWWDDDWWWDDDWDDWLD,1,7,4,12,16,DLDDWWLWLWW,WDLWDDWDDDWD
+Stade Lavallois,Boulogne,4-0,/match/stade-lavallois/us-boulogne/2011,2011,25,ligue_2,20,38,0,4,0,9,6,10,8,18,23,DWWDWDDDWWWWDWWDWWDWWDDW,6,6,0,15,4,2,9,11,4,19,15,DDWDWDDDDDDDWWLWWDLWLWLW,2,7,2,6,8,WDDDWWWDWDWD,DDDDDDWWDLL
+Istres,Angers SCO,1-1,/match/istres/angers-sco/2011,2011,25,ligue_2,20,38,1,1,1,10,8,10,6,23,22,DWDDWLDDWDLWDLWDWDDLWLLL,4,5,3,14,11,8,8,9,7,24,23,DDLLLWDWWDLDWWDDWWDWDWLW,3,4,5,7,10,WDLDDLDWWDWL,DLLWWDDWDWWL
+Evian Thonon Gail.,Dijon FCO,0-2,/match/evian-thonon-gaillard/dijon-fco/2011,2011,25,ligue_2,20,38,2,0,2,6,10,9,5,37,24,LWLLLDWDDDLDDDLWWDLDWWWW,5,5,2,19,8,11,8,8,8,31,26,DDDDWWWDLWWWDWWLWWLLDLLD,3,4,5,14,16,WLDDDDDWWLWW,DDWDWWWLWLDL
+Le Havre,Tours,4-3,/match/havre-ac/tours-fc/2011,2011,25,ligue_2,20,38,0,4,3,3,9,9,6,23,18,WWWWWWDWDDLDDDWDWDLWWWWD,8,3,1,14,6,4,10,7,7,34,31,WWWLWLDDDDWWWWDLWLDLWWDW,2,5,4,13,17,WWWWDDDWWLWW,WLLDDWDWDWD
+Stade de Reims,Metz,2-2,/match/stade-reims/metz/2011,2011,26,ligue_2,20,38,1,2,2,15,7,8,10,32,34,DDDWLWWDWDWWWWWDDLLWWWWWD,6,4,2,20,11,18,5,11,9,21,22,LWLWDDWDDWWDDLLDWDWWWLDDD,2,4,6,9,13,DDLWDWWDLWWW,WDWDWDLWWWLD
+Grenoble,Nantes,2-0,/match/grenoble-foot-38/nantes/2011,2011,26,ligue_2,20,38,0,2,0,20,5,5,15,21,40,WWLWLLLWLWWWDWDWWWDDDWWLW,4,3,5,11,14,14,7,11,7,21,21,LLLDWDWWLDDDDWDWWDLLWDWDD,3,5,4,10,12,WLLLLWDDWDWL,LDDWLDDDWLWW
+Clermont,Istres,2-0,/match/clermont-foot/istres/2011,2011,26,ligue_2,20,38,0,2,0,13,8,9,8,34,34,DDWLWWWDDWWDDDLWWLDLWWWDL,5,5,2,21,14,10,8,11,6,24,23,DWDDWLDDWDLWDLWDWDDLWLLLD,4,5,3,9,11,DLWWDWDLWDWD,DDWDWWLDDLLL
+Chateauroux,Troyes,1-0,/match/berrichonne-chateauroux/troyes/2011,2011,26,ligue_2,20,38,0,1,0,16,8,7,10,23,28,DDWLLDWWWLLDWWLLWDWDWLWWD,5,3,4,14,14,11,10,6,9,24,23,WLLWLLLWLDDDWLWDWDDLWWWWW,5,2,6,7,11,DWLWWLWLDDLW,WLLLLDWWWDLWW
+Ajaccio,Stade Lavallois,1-1,/match/ajaccio/stade-lavallois/2011,2011,26,ligue_2,20,38,1,1,1,1,11,8,6,29,26,WWDWDDWDLDLWDWWWWWDWWWDWL,9,2,1,18,4,8,7,10,8,22,23,DWWDWDDDWWWWDWWDWWDWWDDWW,0,4,8,3,19,WDDWLWWWWWWW,DWWDWWDWWWDW
+Sedan,Nîmes,1-0,/match/sedan/nimes-olympique/2011,2011,26,ligue_2,20,38,0,1,0,4,8,12,5,37,23,WWDDLWWWWDDDWWWDDDWDDWLDD,7,4,1,24,6,17,7,6,12,20,25,WDWWWWWWLDLDDWWDWLWDLWLWL,1,4,7,6,13,WDWWWDWWDWDL,WWWWDDWDLDWW
+Tours,Vannes,2-0,/match/tours-fc/vannes-olympique-club/2011,2011,26,ligue_2,20,38,0,2,0,5,10,7,8,37,35,WWWLWLDDDDWWWWDLWLDLWWDWW,8,2,3,21,14,19,6,6,13,19,38,WWWWWWWDLLWDWDWDWDLDWLWWL,2,0,10,6,28,WWWDDWWWLLLWW,WWWWLWWWWLWW
+Angers SCO,Le Havre,0-0,/match/angers-sco/havre-ac/2011,2011,26,ligue_2,20,38,1,0,0,9,8,10,7,25,24,DDLLLWDWWDLDWWDDWWDWDWLWD,5,5,2,17,13,2,10,9,6,27,21,WWWWWWDWDDLDDDWDWDLWWWWDW,1,6,5,9,12,DLDWLWDWDDWW,WWWDDLDDDWWD
+Dijon FCO,Le Mans,3-2,/match/dijon-fco/mans-uc-72/2011,2011,26,ligue_2,20,38,0,3,2,12,9,8,8,33,26,DDDDWWWDLWWWDWWLWWLLDLLDL,5,4,3,17,10,7,12,6,7,30,24,LDDLLDWDLWLWDLLLWWLWWLWWD,7,2,4,15,12,DDWWLWDWWLLD,LDLWLLDLLWWLW
+Boulogne,Evian Thonon Gail.,1-2,/match/us-boulogne/evian-thonon-gaillard/2011,2011,26,ligue_2,20,38,2,1,2,3,9,11,5,19,19,DDWDWDDDDDDDWWLWWDLWLWLWW,7,4,2,13,7,6,10,9,6,37,26,LWLLLDWDDDLDDDLWWDLDWWWWL,5,4,3,18,16,DWWDDDWLWLWWW,LLLWDLDLDDWW
+Evian Thonon Gail.,Clermont,1-1,/match/evian-thonon-gaillard/clermont-foot/2011,2011,27,ligue_2,20,38,1,1,1,6,11,9,6,39,27,LWLLLDWDDDLDDDLWWDLDWWWWLL,5,5,3,19,10,10,9,9,8,36,34,DDWLWWWDDWWDDDLWWLDLWWWDLW,3,4,6,13,20,WLDDDDDWWLWWL,DWWDWDDWLLWWL
+Istres,Sedan,5-3,/match/istres/sedan/2011,2011,27,ligue_2,20,38,0,5,3,12,8,11,7,24,25,DWDDWLDDWDLWDLWDWDDLWLLLDW,4,6,3,15,12,3,9,12,5,38,23,WWDDLWWWWDDDWWWDDDWDDWLDDW,1,8,4,13,17,WDLDDLDWWDWLD,WDLWDDWDDDWDD
+Stade Lavallois,Angers SCO,1-1,/match/stade-lavallois/angers-sco/2011,2011,27,ligue_2,20,38,1,1,1,7,7,11,8,23,24,DWWDWDDDWWWWDWWDWWDWWDDWWD,7,6,0,19,4,11,8,11,7,25,24,DDLLLWDWWDLDWWDDWWDWDWLWDD,3,5,5,8,11,WDDDWWWDWDWDW,DLLWWDDWDWWLD
+Le Havre,Boulogne,2-0,/match/havre-ac/us-boulogne/2011,2011,27,ligue_2,20,38,0,2,0,2,10,10,6,27,21,WWWWWWDWDDLDDDWDWDLWWWWDWD,9,3,1,18,9,5,9,11,6,20,21,DDWDWDDDDDDDWWLWWDLWLWLWWL,2,7,3,6,12,WWWWDDDWWLWWW,DDDDDDWWDLLW
+Metz,Tours,1-0,/match/metz/tours-fc/2011,2011,27,ligue_2,20,38,0,1,0,17,5,12,9,23,24,LWLWDDWDDWWDDLLDWDWWWLDDDD,3,7,3,12,9,4,11,7,8,39,35,WWWLWLDDDDWWWWDLWLDLWWDWWW,2,5,5,16,21,LLWDDWDLDDWDD,WLLDDWDWDWDW
+Nantes,Ajaccio,2-0,/match/nantes/ajaccio/2011,2011,27,ligue_2,20,38,0,2,0,16,7,11,8,21,23,LLLDWDWWLDDDDWDWWDLLWDWDDW,4,6,3,11,9,1,11,9,6,30,27,WWDWDDWDLDLWDWWWWWDWWWDWLD,2,6,5,11,22,LLWWDDWWDLDDD,WWDDDLDWWDWDL
+Stade de Reims,Chateauroux,1-1,/match/stade-reims/berrichonne-chateauroux/2011,2011,27,ligue_2,20,38,1,1,1,13,7,9,10,34,36,DDDWLWWDWDWWWWWDDLLWWWWWDD,6,5,2,22,13,14,9,7,10,24,28,DDWLLDWWWLLDWWLLWDWDWLWWDW,3,4,6,9,14,DDLWDWWDLWWWD,DLDWLDWLWWWWD
+Troyes,Dijon FCO,2-0,/match/troyes/dijon-fco/2011,2011,27,ligue_2,20,38,0,2,0,15,10,6,10,24,24,WLLWLLLWLDDDWLWDWDDLWWWWWW,5,4,3,17,12,9,10,8,8,36,28,DDDDWWWDLWWWDWWLWWLLDLLDLW,4,4,5,16,16,LWLWDDLDDWWW,DDWDWWWLWLDLL
+Vannes,Grenoble,1-1,/match/vannes-olympique-club/grenoble-foot-38/2011,2011,27,ligue_2,20,38,1,1,1,19,6,6,14,19,40,WWWWWWWDLLWDWDWDWDLDWLWWLW,4,6,3,13,10,20,6,5,15,23,40,WWLWLLLWLWWWDWDWWWDDDWWLWW,1,2,10,10,26,WWWDLDDDDDLWL,WWLWWWWWWDDWW
+Le Mans,Nîmes,1-1,/match/mans-uc-72/nimes-olympique/2011,2011,27,ligue_2,20,38,1,1,1,8,12,6,8,32,27,LDDLLDWDLWLWDLLLWWLWWLWWDW,5,4,3,15,12,18,7,6,13,20,26,WDWWWWWWLDLDDWWDWLWDLWLWLW,1,4,8,6,14,DLDDWWLWLWWD,WWWWDDWDLDWWW
+Ajaccio,Stade de Reims,3-0,/match/ajaccio/stade-reims/2011,2011,28,ligue_2,20,38,0,3,0,2,11,9,7,30,29,WWDWDDWDLDLWDWWWWWDWWWDWLDW,9,3,1,19,5,15,7,10,10,35,37,DDDWLWWDWDWWWWWDDLLWWWWWDDD,1,4,8,12,23,WDDWLWWWWWWWD,DWWDWWWWDLWWD
+Angers SCO,Evian Thonon Gail.,3-0,/match/angers-sco/evian-thonon-gaillard/2011,2011,28,ligue_2,20,38,0,3,0,12,8,12,7,26,25,DDLLLWDWWDLDWWDDWWDWDWLWDDD,5,6,2,17,13,5,11,10,6,40,28,LWLLLDWDDDLDDDLWWDLDWWWWLLD,6,4,3,20,17,DLDWLWDWDDWWD,LLLWDLDLDDWWL
+Boulogne,Troyes,2-0,/match/us-boulogne/troyes/2011,2011,28,ligue_2,20,38,0,2,0,6,9,11,7,20,23,DDWDWDDDDDDDWWLWWDLWLWLWWLW,7,4,3,14,9,11,11,6,10,26,24,WLLWLLLWLDDDWLWDWDDLWWWWWWW,5,2,7,7,12,DWWDDDWLWLWWWL,WLLLLDWWWDLWWW
+Chateauroux,Vannes,0-2,/match/berrichonne-chateauroux/vannes-olympique-club/2011,2011,28,ligue_2,20,38,2,0,2,16,9,8,10,25,29,DDWLLDWWWLLDWWLLWDWDWLWWDWD,6,3,4,15,14,19,6,7,14,20,41,WWWWWWWDLLWDWDWDWDLDWLWWLWD,2,0,11,6,30,DWLWWLWLDDLWW,WWWWLWWWWLWWW
+Clermont,Le Mans,0-0,/match/clermont-foot/mans-uc-72/2011,2011,28,ligue_2,20,38,1,0,0,10,9,10,8,37,35,DDWLWWWDDWWDDDLWWLDLWWWDLWD,6,5,2,23,14,8,12,7,8,33,28,LDDLLDWDLWLWDLLLWWLWWLWWDWD,7,2,5,17,15,DLWWDWDLWDWDW,LDLWLLDLLWWLWW
+Dijon FCO,Metz,2-1,/match/dijon-fco/metz/2011,2011,28,ligue_2,20,38,0,2,1,13,10,8,9,36,30,DDDDWWWDLWWWDWWLWWLLDLLDLWW,6,4,3,20,12,17,6,12,9,24,24,LWLWDDWDDWWDDLLDWDWWWLDDDDW,2,5,6,11,15,DDWWLWDWWLLDW,WDWDWDLWWWLDD
+Grenoble,Stade Lavallois,1-2,/match/grenoble-foot-38/stade-lavallois/2011,2011,28,ligue_2,20,38,2,1,2,20,6,6,15,24,41,WWLWLLLWLWWWDWDWWWDDDWWLWWD,5,3,5,13,14,7,7,12,8,24,25,DWWDWDDDWWWWDWWDWWDWWDDWWDD,0,5,8,4,20,WLLLLWDDWDWLW,DWWDWWDWWWDWD
+Nîmes,Istres,2-0,/match/nimes-olympique/istres/2011,2011,28,ligue_2,20,38,0,2,0,18,7,7,13,21,27,WDWWWWWWLDLDDWWDWLWDLWLWLWD,6,2,5,14,12,9,9,11,7,29,28,DWDDWLDDWDLWDLWDWDDLWLLLDWW,4,5,4,9,13,DWWWLLDWWWLLL,DDWDWWLDDLLLW
+Sedan,Le Havre,1-1,/match/sedan/havre-ac/2011,2011,28,ligue_2,20,38,1,1,1,3,9,12,6,41,28,WWDDLWWWWDDDWWWDDDWDDWLDDWW,8,4,1,25,6,1,11,10,6,29,21,WWWWWWDWDDLDDDWDWDLWWWWDWDW,1,7,5,9,12,WDWWWDWWDWDLW,WWWDDLDDDWWDD
+Tours,Nantes,2-1,/match/tours-fc/nantes/2011,2011,28,ligue_2,20,38,0,2,1,4,11,7,9,39,36,WWWLWLDDDDWWWWDLWLDLWWDWWWW,9,2,3,23,14,14,8,11,8,23,23,LLLDWDWWLDDDDWDWWDLLWDWDDWW,3,5,5,10,14,WWWDDWWWLLLWWW,LDDWLDDDWLWWW
+Ajaccio,Chateauroux,1-1,/match/ajaccio/berrichonne-chateauroux/2011,2011,29,ligue_2,20,38,1,1,1,2,12,9,7,33,29,WWDWDDWDLDLWDWWWWWDWWWDWLDWW,10,3,1,22,5,16,9,8,11,25,31,DDWLLDWWWLLDWWLLWDWDWLWWDWDL,3,5,6,10,15,WDDWLWWWWWWWDW,DLDWLDWLWWWWDD
+Evian Thonon Gail.,Nîmes,1-0,/match/evian-thonon-gaillard/nimes-olympique/2011,2011,29,ligue_2,20,38,0,1,0,8,11,10,7,40,31,LWLLLDWDDDLDDDLWWDLDWWWWLLDW,5,6,3,20,11,18,8,7,13,23,27,WDWWWWWWLDLDDWWDWLWDLWLWLWDW,1,5,8,7,15,WLDDDDDWWLWWLD,WWWWDDWDLDWWWD
+Stade Lavallois,Clermont,1-1,/match/stade-lavallois/clermont-foot/2011,2011,29,ligue_2,20,38,1,1,1,6,8,12,8,26,26,DWWDWDDDWWWWDWWDWWDWWDDWWDDL,7,7,0,20,5,11,9,11,8,37,35,DDWLWWWDDWWDDDLWWLDLWWWDLWDD,3,5,6,14,21,WDDDWWWDWDWDWD,DWWDWDDWLLWWLD
+Le Havre,Istres,1-2,/match/havre-ac/istres/2011,2011,29,ligue_2,20,38,2,1,2,1,11,11,6,30,22,WWWWWWDWDDLDDDWDWDLWWWWDWDWD,10,3,1,20,9,12,9,11,8,29,30,DWDDWLDDWDLWDLWDWDDLWLLLDWWW,4,5,5,9,15,WWWWDDDWWLWWWW,DDWDWWLDDLLLWW
+Le Mans,Angers SCO,0-0,/match/mans-uc-72/angers-sco/2011,2011,29,ligue_2,20,38,1,0,0,10,12,8,8,33,28,LDDLLDWDLWLWDLLLWWLWWLWWDWDD,5,5,3,16,13,9,9,12,7,29,25,DDLLLWDWWDLDWWDDWWDWDWLWDDDW,3,6,5,9,12,DLDDWWLWLWWDD,DLLWWDDWDWWLDD
+Metz,Grenoble,0-1,/match/metz/grenoble-foot-38/2011,2011,29,ligue_2,20,38,2,0,1,17,6,12,10,25,26,LWLWDDWDDWWDDLLDWDWWWLDDDDWW,4,7,3,13,9,20,6,6,16,25,43,WWLWLLLWLWWWDWDWWWDDDWWLWWDL,1,3,10,11,27,LLWDDWDLDDWDDW,WWLWWWWWWDDWWD
+Stade de Reims,Tours,4-1,/match/stade-reims/tours-fc/2011,2011,29,ligue_2,20,38,0,4,1,15,7,10,11,35,40,DDDWLWWDWDWWWWWDDLLWWWWWDDDW,6,6,2,23,14,3,12,7,9,41,37,WWWLWLDDDDWWWWDLWLDLWWDWWWWW,2,5,6,16,22,DDLWDWWDLWWWDD,WLLDDWDWDWDWW
+Troyes,Sedan,0-2,/match/troyes/sedan/2011,2011,29,ligue_2,20,38,2,0,2,13,11,6,11,26,26,WLLWLLLWLDDDWLWDWDDLWWWWWWWW,6,4,3,19,12,4,9,13,6,42,29,WWDDLWWWWDDDWWWDDDWDDWLDDWWD,1,8,5,16,22,LWLWDDLDDWWWW,WDLWDDWDDDWDDW
+Vannes,Dijon FCO,2-4,/match/vannes-olympique-club/dijon-fco/2011,2011,29,ligue_2,20,38,2,2,4,19,7,7,14,22,41,WWWWWWWDLLWDWDWDWDLDWLWWLWDL,4,7,3,14,11,7,11,8,9,38,31,DDDDWWWDLWWWDWWLWWLLDLLDLWWW,4,4,6,16,18,WWWDLDDDDDLWLD,DDWDWWWLWLDLLW
+Nantes,Boulogne,1-2,/match/nantes/us-boulogne/2011,2011,29,ligue_2,20,38,2,1,2,14,8,11,9,24,25,LLLDWDWWLDDDDWDWWDLLWDWDDWWW,5,6,3,13,9,5,10,11,7,22,23,DDWDWDDDDDDDWWLWWDLWLWLWWLWW,2,7,4,6,14,LLWWDDWWDLDDDW,DDDDDDWWDLLWW
+Angers SCO,Metz,0-0,/match/angers-sco/metz/2011,2011,30,ligue_2,20,38,1,0,0,9,9,13,7,29,25,DDLLLWDWWDLDWWDDWWDWDWLWDDDWD,6,6,2,20,13,17,6,12,11,25,27,LWLWDDWDDWWDDLLDWDWWWLDDDDWWL,2,5,7,12,17,DLDWLWDWDDWWDW,WDWDWDLWWWLDDW
+Boulogne,Vannes,0-1,/match/us-boulogne/vannes-olympique-club/2011,2011,30,ligue_2,20,38,2,0,1,5,11,11,7,24,24,DDWDWDDDDDDDWWLWWDLWLWLWWLWWL,8,4,3,16,9,19,7,7,15,24,45,WWWWWWWDLLWDWDWDWDLDWLWWLWDLL,3,0,11,8,30,DWWDDDWLWLWWWLW,WWWWLWWWWLWWWL
+Chateauroux,Nantes,0-0,/match/berrichonne-chateauroux/nantes/2011,2011,30,ligue_2,20,38,1,0,0,16,9,9,11,26,32,DDWLLDWWWLLDWWLLWDWDWLWWDWDLD,6,3,5,15,16,15,8,11,10,25,27,LLLDWDWWLDDDDWDWWDLLWDWDDWWWL,3,5,6,11,16,DWLWWLWLDDLWWL,LDDWLDDDWLWWWW
+Clermont,Troyes,2-2,/match/clermont-foot/troyes/2011,2011,30,ligue_2,20,38,1,2,2,11,9,12,8,38,36,DDWLWWWDDWWDDDLWWLDLWWWDLWDDD,6,6,2,23,14,14,11,6,12,26,28,WLLWLLLWLDDDWLWDWDDLWWWWWWWWL,5,2,8,7,14,DLWWDWDLWDWDWD,WLLLLDWWWDLWWWW
+Dijon FCO,Stade Lavallois,2-0,/match/dijon-fco/stade-lavallois/2011,2011,30,ligue_2,20,38,0,2,0,8,12,8,9,42,33,DDDDWWWDLWWWDWWLWWLLDLLDLWWWL,7,4,3,22,13,7,8,13,8,27,27,DWWDWDDDWWWWDWWDWWDWWDDWWDDLD,1,5,8,6,21,DDWWLWDWWLLDWW,DWWDWWDWWWDWDL
+Grenoble,Stade de Reims,1-1,/match/grenoble-foot-38/stade-reims/2011,2011,30,ligue_2,20,38,1,1,1,20,7,6,16,26,43,WWLWLLLWLWWWDWDWWWDDDWWLWWDLL,5,3,6,14,16,13,8,10,11,39,41,DDDWLWWDWDWWWWWDDLLWWWWWDDDWW,1,4,9,12,26,WLLLLWDDWDWLWL,DWWDWWWWDLWWDW
+Istres,Le Mans,0-0,/match/istres/mans-uc-72/2011,2011,30,ligue_2,20,38,1,0,0,12,10,11,8,31,31,DWDDWLDDWDLWDLWDWDDLWLLLDWWWL,5,6,3,20,15,10,12,9,8,33,28,LDDLLDWDLWLWDLLLWWLWWLWWDWDDD,7,3,5,17,15,WDLDDLDWWDWLDW,LDLWLLDLLWWLWWD
+Nîmes,Le Havre,1-1,/match/nimes-olympique/havre-ac/2011,2011,30,ligue_2,20,38,1,1,1,18,8,7,14,23,28,WDWWWWWWLDLDDWWDWLWDLWLWLWDWW,7,2,5,16,12,2,11,11,7,31,24,WWWWWWDWDDLDDDWDWDLWWWWDWDWDL,1,8,5,10,13,DWWWLLDWWWLLLW,WWWDDLDDDWWDDD
+Sedan,Evian Thonon Gail.,1-4,/match/sedan/evian-thonon-gaillard/2011,2011,30,ligue_2,20,38,2,1,4,3,10,13,6,44,29,WWDDLWWWWDDDWWWDDDWDDWLDDWWDL,8,5,1,26,7,6,12,10,7,41,31,LWLLLDWDDDLDDDLWWDLDWWWWLLDWW,6,4,4,20,20,WDWWWDWWDWDLWD,LLLWDLDLDDWWLW
+Tours,Ajaccio,2-2,/match/tours-fc/ajaccio/2011,2011,30,ligue_2,20,38,1,2,2,4,12,7,10,42,41,WWWLWLDDDDWWWWDLWLDLWWDWWWWWW,10,2,3,25,15,1,12,10,7,34,30,WWDWDDWDLDLWDWWWWWDWWWDWLDWWD,2,6,6,11,24,WWWDDWWWLLLWWWW,WWDDDLDWWDWDLW
+Ajaccio,Grenoble,1-0,/match/ajaccio/grenoble-foot-38/2011,2011,31,ligue_2,20,38,0,1,0,1,12,11,7,36,32,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDD,10,4,1,23,6,20,7,7,16,27,44,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLD,2,3,10,12,27,WDDWLWWWWWWWDWD,WWLWWWWWWDDWWDL
+Chateauroux,Tours,3-0,/match/berrichonne-chateauroux/tours-fc/2011,2011,31,ligue_2,20,38,0,3,0,16,9,10,11,26,32,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDD,6,4,5,15,16,3,12,8,10,44,43,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWD,2,5,7,17,26,DWLWWLWLDDLWWLD,WLLDDWDWDWDWWW
+Evian Thonon Gail.,Istres,3-2,/match/evian-thonon-gaillard/istres/2011,2011,31,ligue_2,20,38,0,3,2,5,13,10,7,45,32,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWL,6,6,3,21,11,12,10,12,8,31,31,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLD,5,5,5,11,16,WLDDDDDWWLWWLDW,DDWDWWLDDLLLWWL
+Stade Lavallois,Nîmes,1-0,/match/stade-lavallois/nimes-olympique/2011,2011,31,ligue_2,20,38,0,1,0,8,8,13,9,27,29,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDW,7,8,0,21,6,17,8,8,14,24,29,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWD,1,5,9,7,16,WDDDWWWDWDWDWDD,WWWWDDWDLDWWWDW
+Metz,Clermont,3-3,/match/metz/clermont-foot/2011,2011,31,ligue_2,20,38,1,3,3,18,6,13,11,25,27,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLD,4,7,4,13,10,10,9,13,8,40,38,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDD,3,6,6,15,22,LLWDDWDLDDWDDWL,DWWDWDDWLLWWLDD
+Nantes,Dijon FCO,1-1,/match/nantes/dijon-fco/2011,2011,31,ligue_2,20,38,1,1,1,15,8,12,10,25,27,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLD,5,6,4,14,11,6,13,8,9,44,33,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLW,5,4,6,20,20,LLWWDDWWDLDDDWL,DDWDWWWLWLDLLWL
+Stade de Reims,Boulogne,4-1,/match/stade-reims/us-boulogne/2011,2011,31,ligue_2,20,38,0,4,1,13,8,11,11,40,42,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWD,7,6,2,27,15,7,11,11,8,24,25,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLL,3,7,4,8,15,DDLWDWWDLWWWDDW,DDDDDDWWDLLWWL
+Troyes,Angers SCO,1-2,/match/troyes/angers-sco/2011,2011,31,ligue_2,20,38,2,1,2,14,11,7,12,28,30,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLD,6,4,4,19,14,9,9,14,7,29,25,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDD,3,7,5,9,12,LWLWDDLDDWWWWL,DLLWWDDWDWWLDDD
+Vannes,Sedan,0-3,/match/vannes-olympique-club/sedan/2011,2011,31,ligue_2,20,38,2,0,3,19,8,7,15,25,45,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLL,4,7,4,16,15,4,10,13,7,45,33,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLL,2,8,5,18,22,WWWDLDDDDDLWLDL,WDLWDDWDDDWDDWL
+Le Mans,Le Havre,1-0,/match/mans-uc-72/havre-ac/2011,2011,31,ligue_2,20,38,0,1,0,11,12,10,8,33,28,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDD,5,6,3,16,13,2,11,12,7,32,25,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLD,1,9,5,11,14,DLDDWWLWLWWDDD,WWWDDLDDDWWDDDD
+Boulogne,Tours,3-2,/match/us-boulogne/tours-fc/2011,2011,32,ligue_2,20,38,0,3,2,10,11,11,9,25,29,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLLW,8,4,4,16,10,6,12,8,11,44,46,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWDW,2,5,8,17,29,DWWDDDWLWLWWWLWL,WLLDDWDWDWDWWWW
+Clermont,Vannes,1-0,/match/clermont-foot/vannes-olympique-club/2011,2011,32,ligue_2,20,38,0,1,0,11,9,14,8,43,41,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDDD,6,7,2,25,16,19,8,7,16,25,48,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLLL,4,0,11,9,30,DLWWDWDLWDWDWDD,WWWWLWWWWLWWWLL
+Grenoble,Chateauroux,1-1,/match/grenoble-foot-38/berrichonne-chateauroux/2011,2011,32,ligue_2,20,38,1,1,1,20,7,7,17,27,45,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLDW,5,4,6,15,17,14,10,10,11,29,32,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDDW,3,6,6,11,16,WLLLLWDDWDWLWLD,DLDWLDWLWWWWDDD
+Istres,Troyes,2-0,/match/istres/troyes/2011,2011,32,ligue_2,20,38,0,2,0,13,10,12,9,33,34,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLDW,5,7,3,20,15,16,11,7,13,29,32,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLDL,5,3,8,9,16,WDLDDLDWWDWLDWD,WLLLLDWWWDLWWWWD
+Le Havre,Evian Thonon Gail.,0-0,/match/havre-ac/evian-thonon-gaillard/2011,2011,32,ligue_2,20,38,1,0,0,3,11,12,8,32,26,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLDW,10,3,2,21,11,2,14,10,7,48,34,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWLW,7,4,4,24,21,WWWWDDDWWLWWWWL,LLLWDLDLDDWWLWL
+Le Mans,Metz,0-0,/match/mans-uc-72/metz/2011,2011,32,ligue_2,20,38,1,0,0,8,13,10,8,34,28,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDDW,6,6,3,17,13,17,6,14,11,28,30,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLDD,2,6,7,12,17,DLDDWWLWLWWDDDW,WDWDWDLWWWLDDWD
+Nîmes,Nantes,2-2,/match/nimes-olympique/nantes/2011,2011,32,ligue_2,20,38,1,2,2,18,8,8,15,24,30,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWDW,7,3,5,17,13,15,8,13,10,26,28,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLDD,3,6,6,11,16,DWWWLLDWWWLLLWD,LDDWLDDDWLWWWWD
+Sedan,Stade Lavallois,2-0,/match/sedan/stade-lavallois/2011,2011,32,ligue_2,20,38,0,2,0,4,11,13,7,48,33,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLLL,8,5,2,27,11,5,9,13,9,28,29,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDWW,1,5,9,6,23,WDWWWDWWDWDLWDL,DWWDWWDWWWDWDLW
+Angers SCO,Stade de Reims,0-1,/match/angers-sco/stade-reims/2011,2011,32,ligue_2,20,38,2,0,1,9,10,14,7,31,26,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDDL,6,7,2,20,13,12,9,11,11,44,43,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWDW,1,5,9,13,27,DLDWLWDWDDWWDWD,DWWDWWWWDLWWDWD
+Dijon FCO,Ajaccio,1-1,/match/dijon-fco/ajaccio/2011,2011,32,ligue_2,20,38,1,1,1,7,13,9,9,45,34,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLWD,8,4,3,24,13,1,13,11,7,37,32,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDDW,2,7,6,13,26,DDWWLWDWWLLDWWW,WWDDDLDWWDWDLWD
+Ajaccio,Sedan,0-0,/match/ajaccio/sedan/2011,2011,33,ligue_2,20,38,1,0,0,1,13,12,7,38,33,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDDWD,11,4,1,24,6,2,12,13,7,50,33,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLLLW,3,8,5,21,22,WDDWLWWWWWWWDWDW,WDLWDDWDDDWDDWLL
+Chateauroux,Clermont,3-1,/match/berrichonne-chateauroux/clermont-foot/2011,2011,33,ligue_2,20,38,0,3,1,14,10,11,11,30,33,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDDWD,7,4,5,18,16,8,10,14,8,44,41,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDDDW,3,7,6,18,25,DWLWWLWLDDLWWLDW,DWWDWDDWLLWWLDDD
+Stade Lavallois,Le Havre,2-1,/match/stade-lavallois/havre-ac/2011,2011,33,ligue_2,20,38,0,2,1,10,9,13,10,28,31,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDWWW,8,8,0,22,6,3,11,13,8,32,26,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLDWD,1,9,6,11,15,WDDDWWWDWDWDWDDW,WWWDDLDDDWWDDDDW
+Metz,Boulogne,3-1,/match/metz/us-boulogne/2011,2011,33,ligue_2,20,38,0,3,1,17,6,15,11,28,30,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLDDD,4,8,4,16,13,5,12,11,9,28,31,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLLWW,3,7,5,9,19,LLWDDWDLDDWDDWLD,DDDDDDWWDLLWWLW
+Nantes,Angers SCO,2-0,/match/nantes/angers-sco/2011,2011,33,ligue_2,20,38,0,2,0,15,8,14,10,28,30,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLDDD,5,7,4,15,12,11,10,14,8,31,27,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDDLL,4,7,5,11,13,LLWWDDWWDLDDDWLD,DLLWWDDWDWWLDDDL
+Stade de Reims,Dijon FCO,1-2,/match/stade-reims/dijon-fco/2011,2011,33,ligue_2,20,38,2,1,2,12,10,11,11,45,43,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWDWL,8,6,2,31,16,6,13,10,9,46,35,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLWDD,5,5,6,21,21,DDLWDWWDLWWWDDWW,DDWDWWWLWLDLLWLD
+Tours,Grenoble,2-2,/match/tours-fc/grenoble-foot-38/2011,2011,33,ligue_2,20,38,1,2,2,9,12,8,12,46,49,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWDWW,10,3,3,27,17,20,7,8,17,28,46,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLDWD,2,3,11,12,28,WWWDDWWWLLLWWWWD,WWLWWWWWWDDWWDLW
+Troyes,Nîmes,1-3,/match/troyes/nimes-olympique/2011,2011,33,ligue_2,20,38,2,1,3,16,11,7,14,29,34,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLDLW,6,4,5,20,16,18,8,9,15,26,32,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWDWD,1,5,10,7,17,LWLWDDLDDWWWWLL,WWWWDDWDLDWWWDWW
+Vannes,Istres,2-2,/match/vannes-olympique-club/istres/2011,2011,33,ligue_2,20,38,1,2,2,19,8,7,17,25,49,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLLLW,4,7,5,16,18,13,11,12,9,35,34,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLDWW,5,5,6,13,19,WWWDLDDDDDLWLDLL,DDWDWWLDDLLLWWLW
+Evian Thonon Gail.,Le Mans,3-0,/match/evian-thonon-gaillard/mans-uc-72/2011,2011,33,ligue_2,20,38,0,3,0,4,14,11,7,48,34,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWLWD,7,6,3,24,13,7,13,11,8,34,28,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDDWD,7,4,5,17,15,WLDDDDDWWLWWLDWW,LDLWLLDLLWWLWWDD
+Angers SCO,Vannes,3-0,/match/angers-sco/vannes-olympique-club/2011,2011,34,ligue_2,20,38,0,3,0,13,10,14,9,31,29,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDDLLW,6,7,3,20,14,19,8,8,17,27,51,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLLLWD,4,0,12,9,31,DLDWLWDWDDWWDWDL,WWWWLWWWWLWWWLLW
+Clermont,Nantes,2-1,/match/clermont-foot/nantes/2011,2011,34,ligue_2,20,38,0,2,1,10,10,14,9,45,44,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDDDWW,7,7,2,26,16,15,9,14,10,30,30,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLDDDW,3,7,6,13,18,DLWWDWDLWDWDWDDW,LDDWLDDDWLWWWWDD
+Dijon FCO,Chateauroux,3-1,/match/dijon-fco/berrichonne-chateauroux/2011,2011,34,ligue_2,20,38,0,3,1,5,14,10,9,48,36,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLWDDL,8,5,3,25,14,12,11,11,11,33,34,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDDWDW,3,7,6,12,17,DDWWLWDWWLLDWWWD,DLDWLDWLWWWWDDDD
+Grenoble,Evian Thonon Gail.,1-1,/match/grenoble-foot-38/evian-thonon-gaillard/2011,2011,34,ligue_2,20,38,1,1,1,20,7,9,17,30,48,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLDWDD,5,5,6,16,18,2,15,11,7,51,34,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWLWDW,7,5,4,24,21,WLLLLWDDWDWLWLDD,LLLWDLDLDDWWLWLD
+Istres,Stade Lavallois,0-1,/match/istres/stade-lavallois/2011,2011,34,ligue_2,20,38,2,0,1,11,11,13,9,37,36,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLDWWD,6,7,3,22,15,6,10,13,10,30,32,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDWWWW,1,5,10,6,25,WDLDDLDWWDWLDWDW,DWWDWWDWWWDWDLWW
+Le Havre,Troyes,1-2,/match/havre-ac/troyes/2011,2011,34,ligue_2,20,38,2,1,2,4,11,13,9,33,28,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLDWDW,10,4,2,21,11,17,11,7,15,30,37,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLDLWL,5,3,9,9,18,WWWWDDDWWLWWWWLD,WLLLLDWWWDLWWWWDW
+Le Mans,Tours,3-0,/match/mans-uc-72/tours-fc/2011,2011,34,ligue_2,20,38,0,3,0,9,13,11,9,34,31,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDDWDW,6,7,3,17,13,8,12,9,12,48,51,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWDWWD,2,5,9,19,32,DLDDWWLWLWWDDDWD,WLLDDWDWDWDWWWWW
+Nîmes,Stade de Reims,2-2,/match/nimes-olympique/stade-reims/2011,2011,34,ligue_2,20,38,1,2,2,18,9,9,15,29,33,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWDWDL,7,4,5,19,15,14,10,11,12,46,45,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWDWLL,2,5,9,14,27,DWWWLLDWWWLLLWDD,DWWDWWWWDLWWDWDL
+Sedan,Metz,3-1,/match/sedan/metz/2011,2011,34,ligue_2,20,38,0,3,1,3,12,14,7,50,33,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLLLWD,9,5,2,29,11,16,7,15,11,31,31,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLDDDW,2,7,7,12,17,WDWWWDWWDWDLWDLW,WDWDWDLWWWLDDWDD
+Boulogne,Ajaccio,0-1,/match/us-boulogne/ajaccio/2011,2011,34,ligue_2,20,38,2,0,1,7,12,11,10,29,34,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLLWWW,9,4,4,19,12,1,13,13,7,38,33,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDDWDD,2,8,6,14,27,DWWDDDWLWLWWWLWLW,WWDDDLDWWDWDLWDD
+Stade Lavallois,Evian Thonon Gail.,2-2,/match/stade-lavallois/evian-thonon-gaillard/2011,2011,35,ligue_2,20,38,1,2,2,5,11,13,10,31,32,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDWWWWL,9,8,0,24,7,3,15,12,7,52,35,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWLWDWD,7,6,4,25,22,WDDDWWWDWDWDWDDWW,LLLWDLDLDDWWLWLDD
+Ajaccio,Clermont,1-0,/match/ajaccio/clermont-foot/2011,2011,35,ligue_2,20,38,0,1,0,1,14,13,7,39,33,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDDWDDL,11,5,1,24,6,8,11,14,9,47,45,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDDDWWW,3,7,7,19,28,WDDWLWWWWWWWDWDWD,DWWDWDDWLLWWLDDDW
+Chateauroux,Angers SCO,1-2,/match/berrichonne-chateauroux/angers-sco/2011,2011,35,ligue_2,20,38,2,1,2,14,11,11,12,34,37,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDDWDWW,8,4,5,21,17,9,11,14,9,34,29,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDDLLWW,4,7,6,11,15,DWLWWLWLDDLWWLDWW,DLLWWDDWDWWLDDDLW
+Grenoble,Boulogne,2-2,/match/grenoble-foot-38/us-boulogne/2011,2011,35,ligue_2,20,38,1,2,2,20,7,10,17,31,49,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLDWDDD,5,6,6,17,19,10,12,11,11,29,35,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLLWWWL,3,7,6,10,22,WLLLLWDDWDWLWLDDD,DDDDDDWWDLLWWLWW
+Metz,Le Havre,2-0,/match/metz/havre-ac/2011,2011,35,ligue_2,20,38,0,2,0,16,7,15,12,32,34,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLDDDWW,5,8,4,19,14,7,11,13,10,34,30,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLDWDWL,1,9,7,12,17,LLWDDWDLDDWDDWLDW,WWWDDLDDDWWDDDDWW
+Nantes,Istres,2-1,/match/nantes/istres/2011,2011,35,ligue_2,20,38,0,2,1,15,9,14,11,31,32,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLDDDWW,6,7,4,17,12,13,11,13,10,37,37,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLDWWDL,5,6,6,15,21,LLWWDDWWDLDDDWLDW,DDWDWWLDDLLLWWLWD
+Stade de Reims,Sedan,1-0,/match/stade-reims/sedan/2011,2011,35,ligue_2,20,38,0,1,0,12,10,12,12,48,47,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWDWLLD,8,6,3,32,18,2,13,14,7,53,34,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLLLWDW,3,9,5,21,22,DDLWDWWDLWWWDDWWL,WDLWDDWDDDWDDWLLD
+Tours,Dijon FCO,0-1,/match/tours-fc/dijon-fco/2011,2011,35,ligue_2,20,38,2,0,1,11,12,9,13,48,54,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWDWWDW,10,4,3,29,19,4,15,10,9,51,37,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLWDDLW,6,5,6,23,22,WWWDDWWWLLLWWWWDD,DDWDWWWLWLDLLWLDL
+Troyes,Le Mans,0-1,/match/troyes/mans-uc-72/2011,2011,35,ligue_2,20,38,2,0,1,17,12,7,15,32,38,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLDLWLL,6,4,6,21,19,6,14,11,9,37,31,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDDWDWW,7,4,6,17,18,LWLWDDLDDWWWWLLL,LDLWLLDLLWWLWWDDW
+Vannes,Nîmes,3-1,/match/vannes-olympique-club/nimes-olympique/2011,2011,35,ligue_2,20,38,0,3,1,19,8,8,18,27,54,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLLLWDW,4,8,5,18,20,18,9,10,15,31,35,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWDWDLD,2,5,10,10,18,WWWDLDDDDDLWLDLLD,WWWWDDWDLDWWWDWWL
+Angers SCO,Ajaccio,3-1,/match/angers-sco/ajaccio/2011,2011,36,ligue_2,20,38,0,3,1,9,12,14,9,36,30,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDDLLWWL,7,7,3,23,14,1,15,13,7,40,33,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDDWDDLW,3,8,6,15,27,DLDWLWDWDDWWDWDLW,WWDDDLDWWDWDLWDDL
+Boulogne,Chateauroux,3-2,/match/us-boulogne/berrichonne-chateauroux/2011,2011,36,ligue_2,20,38,0,3,2,11,12,12,11,31,37,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLLWWWLD,9,4,5,19,13,15,11,11,13,35,39,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDDWDWWL,3,7,7,13,20,DWWDDDWLWLWWWLWLWL,DLDWLDWLWWWWDDDDW
+Clermont,Stade de Reims,1-1,/match/clermont-foot/stade-reims/2011,2011,36,ligue_2,20,38,1,1,1,8,11,14,10,47,46,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDDDWWWW,8,7,2,28,17,10,11,12,12,49,47,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWDWLLDW,2,6,9,16,29,DLWWDWDLWDWDWDDWW,DWWDWWWWDLWWDWDLD
+Evian Thonon Gail.,Troyes,3-0,/match/evian-thonon-gaillard/troyes/2011,2011,36,ligue_2,20,38,0,3,0,2,15,13,7,54,37,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWLWDWDD,8,6,3,27,13,17,12,7,16,32,39,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLDLWLLL,6,3,9,11,19,WLDDDDDWWLWWLDWWW,WLLLLDWWWDLWWWWDWL
+Istres,Metz,2-3,/match/istres/metz/2011,2011,36,ligue_2,20,38,2,2,3,14,11,13,11,38,39,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLDWWDLW,6,7,4,22,16,16,8,15,12,34,34,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLDDDWWW,2,7,8,13,20,WDLDDLDWWDWLDWDWL,WDWDWDLWWWLDDWDDW
+Le Havre,Vannes,3-4,/match/havre-ac/vannes-olympique-club/2011,2011,36,ligue_2,20,38,2,3,4,7,11,13,11,34,32,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLDWDWLW,10,4,3,22,13,19,9,8,18,30,55,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLLLWDWW,4,0,13,9,34,WWWWDDDWWLWWWWLDL,WWWWLWWWWLWWWLLWW
+Nîmes,Tours,2-3,/match/nimes-olympique/tours-fc/2011,2011,36,ligue_2,20,38,2,2,3,18,9,10,16,32,38,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWDWDLDW,7,5,5,21,17,12,12,9,14,48,55,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWDWWDWL,2,5,10,19,35,DWWWLLDWWWLLLWDDD,WLLDDWDWDWDWWWWWW
+Sedan,Nantes,3-1,/match/sedan/nantes/2011,2011,36,ligue_2,20,38,0,3,1,4,13,14,8,53,35,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLLLWDWW,10,5,2,32,12,13,10,14,11,33,33,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLDDDWWW,3,7,7,14,20,WDWWWDWWDWDLWDLWW,LDDWLDDDWLWWWWDDW
+Le Mans,Stade Lavallois,4-0,/match/mans-uc-72/stade-lavallois/2011,2011,36,ligue_2,20,38,0,4,0,6,15,11,9,38,31,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDDWDWWL,7,7,3,20,13,5,11,14,10,33,34,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDWWWWLD,2,5,10,7,25,DLDDWWLWLWWDDDWDW,DWWDWWDWWWDWDLWWL
+Dijon FCO,Grenoble,2-1,/match/dijon-fco/grenoble-foot-38/2011,2011,36,ligue_2,20,38,0,2,1,3,16,10,9,52,37,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLWDDLWL,9,5,3,28,15,20,7,11,17,33,51,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLDWDDDD,2,4,11,14,30,DDWWLWDWWLLDWWWDW,WWLWWWWWWDDWWDLWD
+Ajaccio,Istres,2-0,/match/ajaccio/istres/2011,2011,37,ligue_2,20,38,0,2,0,1,15,13,8,41,36,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDDWDDLWW,12,5,1,25,6,14,11,13,12,40,42,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLDWWDLWL,5,6,7,16,23,WDDWLWWWWWWWDWDWDW,DDWDWWLDDLLLWWLWDW
+Chateauroux,Sedan,1-0,/match/berrichonne-chateauroux/sedan/2011,2011,37,ligue_2,20,38,0,1,0,15,11,11,14,37,42,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDDWDWWLW,8,4,6,22,19,3,14,14,8,56,36,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLLLWDWWW,3,9,6,21,23,DWLWWLWLDDLWWLDWWL,WDLWDDWDDDWDDWLLDW
+Dijon FCO,Boulogne,1-1,/match/dijon-fco/us-boulogne/2011,2011,37,ligue_2,20,38,1,1,1,2,17,10,9,54,38,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLWDDLWLW,10,5,3,30,16,8,13,12,11,34,39,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLLWWWLDW,3,8,6,12,24,DDWWLWDWWLLDWWWDWW,DDDDDDWWDLLWWLWWD
+Grenoble,Clermont,2-2,/match/grenoble-foot-38/clermont-foot/2011,2011,37,ligue_2,20,38,1,2,2,20,7,11,18,34,53,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLDWDDDDW,5,7,6,19,21,9,11,15,10,48,47,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDDDWWWWD,3,7,8,19,29,WLLLLWDDWDWLWLDDDD,DWWDWDDWLLWWLDDDWW
+Metz,Nîmes,3-0,/match/metz/nimes-olympique/2011,2011,37,ligue_2,20,38,0,3,0,16,9,15,12,37,36,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLDDDWWWL,6,8,4,21,14,18,9,10,17,34,41,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWDWDLDWL,2,5,11,11,21,LLWDDWDLDDWDDWLDWW,WWWWDDWDLDWWWDWWLW
+Nantes,Le Havre,2-1,/match/nantes/havre-ac/2011,2011,37,ligue_2,20,38,0,2,1,13,10,14,12,34,36,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLDDDWWWW,7,7,4,19,13,11,11,13,12,37,36,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLDWDWLWL,1,9,8,12,19,LLWWDDWWDLDDDWLDWW,WWWDDLDDDWWDDDDWWW
+Stade de Reims,Evian Thonon Gail.,1-2,/match/stade-reims/evian-thonon-gaillard/2011,2011,37,ligue_2,20,38,2,1,2,10,11,13,12,50,48,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWDWLLDWD,9,6,3,33,18,4,16,13,7,57,37,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWLWDWDDW,7,7,4,27,24,DDLWDWWDLWWWDDWWLW,LLLWDLDLDDWWLWLDDD
+Tours,Angers SCO,1-1,/match/tours-fc/angers-sco/2011,2011,37,ligue_2,20,38,1,1,1,12,13,9,14,51,57,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWDWWDWLL,10,4,4,29,20,6,13,14,9,39,31,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDDLLWWLW,5,7,6,13,16,WWWDDWWWLLLWWWWDDL,DLLWWDDWDWWLDDDLWL
+Troyes,Stade Lavallois,3-2,/match/troyes/stade-lavallois/2011,2011,37,ligue_2,20,38,0,3,2,17,12,7,17,32,42,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLDLWLLLW,6,4,7,21,20,7,11,14,11,33,38,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDWWWWLDW,2,5,11,7,29,LWLWDDLDDWWWWLLLL,DWWDWWDWWWDWDLWWLW
+Vannes,Le Mans,4-3,/match/vannes-olympique-club/mans-uc-72/2011,2011,37,ligue_2,20,38,0,4,3,19,10,8,18,34,58,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLLLWDWWL,5,8,5,21,21,5,16,11,9,42,31,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDDWDWWLW,8,4,6,18,18,WWWDLDDDDDLWLDLLDW,LDLWLLDLLWWLWWDDWL
+Angers SCO,Dijon FCO,1-0,/match/angers-sco/dijon-fco/2011,2011,38,ligue_2,20,38,0,1,0,6,13,15,9,40,32,DDLLLWDWWDLDWWDDWWDWDWLWDDDWDDLLWWLWD,8,7,3,26,15,3,17,11,9,55,39,DDDDWWWDLWWWDWWLWWLLDLLDLWWWLWDDLWLWD,7,5,6,24,22,DLDWLWDWDDWWDWDLWW,DDWDWWWLWLDLLWLDLL
+Clermont,Boulogne,1-0,/match/clermont-foot/us-boulogne/2011,2011,38,ligue_2,20,38,0,1,0,9,11,16,10,50,49,DDWLWWWDDWWDDDLWWLDLWWWDLWDDDDDWWWWDD,8,8,2,29,18,8,13,13,11,35,40,DDWDWDDDDDDDWWLWWDLWLWLWWLWWLLWWWLDWD,3,9,6,13,25,DLWWDWDLWDWDWDDWWD,DDDDDDWWDLLWWLWWDD
+Evian Thonon Gail.,Metz,4-3,/match/evian-thonon-gaillard/metz/2011,2011,38,ligue_2,20,38,0,4,3,2,17,13,7,59,38,LWLLLDWDDDLDDDLWWDLDWWWWLLDWWLWDWDDWL,9,6,3,30,13,15,10,15,12,40,36,LWLWDDWDDWWDDLLDWDWWWLDDDDWWLDDDWWWLW,3,7,8,16,22,WLDDDDDWWLWWLDWWWW,WDWDWDLWWWLDDWDDWL
+Istres,Chateauroux,5-3,/match/istres/berrichonne-chateauroux/2011,2011,38,ligue_2,20,38,0,5,3,16,11,13,13,40,44,DWDDWLDDWDLWDLWDWDDLWLLLDWWWLDWWDLWLW,6,7,5,24,19,14,12,11,14,38,42,DDWLLDWWWLLDWWLLWDWDWLWWDWDLDDWDWWLWW,3,7,8,15,23,WDLDDLDWWDWLDWDWLL,DLDWLDWLWWWWDDDDWW
+Stade Lavallois,Stade de Reims,1-2,/match/stade-lavallois/stade-reims/2011,2011,38,ligue_2,20,38,2,1,2,7,11,14,12,35,41,DWWDWDDDWWWWDWWDWWDWWDDWWDDLDWWWWLDWW,9,9,0,26,9,13,11,13,13,51,50,DDDWLWWDWDWWWWWDDLLWWWWWDDDWWDWLLDWDL,2,7,9,17,30,WDDDWWWDWDWDWDDWWD,DWWDWWWWDLWWDWDLDD
+Le Havre,Grenoble,5-0,/match/havre-ac/grenoble-foot-38/2011,2011,38,ligue_2,20,38,0,5,0,12,11,13,13,38,38,WWWWWWDWDDLDDDWDWDLWWWWDWDWDLDWDWLWLW,10,4,4,25,17,20,7,12,18,36,55,WWLWLLLWLWWWDWDWWWDDDWWLWWDLLDWDDDDWD,2,4,12,15,32,WWWWDDDWWLWWWWLDLL,WWLWWWWWWDDWWDLWDW
+Le Mans,Nantes,3-2,/match/mans-uc-72/nantes/2011,2011,38,ligue_2,20,38,0,3,2,5,16,11,10,45,35,LDDLLDWDLWLWDLLLWWLWWLWWDWDDDDWDWWLWW,8,7,3,24,13,11,11,14,12,36,37,LLLDWDWWLDDDDWDWWDLLWDWDDWWWLDDDWWWWW,3,7,8,15,23,DLDDWWLWLWWDDDWDWW,LDDWLDDDWLWWWWDDWW
+Nîmes,Ajaccio,1-2,/match/nimes-olympique/ajaccio/2011,2011,38,ligue_2,20,38,2,1,2,19,9,10,18,34,44,WDWWWWWWLDLDDWWDWLWDLWLWLWDWWDWDLDWLW,7,5,6,23,20,1,16,13,8,43,36,WWDWDDWDLDLWDWWWWWDWWWDWLDWWDDWDDLWWW,3,8,7,16,30,DWWWLLDWWWLLLWDDDL,WWDDDLDWWDWDLWDDLW
+Sedan,Tours,1-0,/match/sedan/tours-fc/2011,2011,38,ligue_2,20,38,0,1,0,4,14,14,9,56,37,WWDDLWWWWDDDWWWDDDWDDWLDDWWDLLLWDWWWW,11,5,2,35,13,10,13,10,14,52,58,WWWLWLDDDDWWWWDLWLDLWWDWWWWWWDWWDWLLD,3,5,10,22,37,WDWWWDWWDWDLWDLWWW,WLLDDWDWDWDWWWWWWL
+Troyes,Vannes,0-1,/match/troyes/vannes-olympique-club/2011,2011,38,ligue_2,20,38,2,0,1,17,13,7,17,35,44,WLLWLLLWLDDDWLWDWDDLWWWWWWWWLDLWLLLWW,7,4,7,24,22,18,11,8,18,38,61,WWWWWWWDLLWDWDWDWDLDWLWWLWDLLLLWDWWLW,5,0,13,13,37,LWLWDDLDDWWWWLLLLW,WWWWLWWWWLWWWLLWWL

@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Torino,Ancona,0-2,/match/torino-fc/ancona/2001,2001,1,serie_b,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cosenza Calcio,Pescara,1-0,/match/fortitudo-cosenza/pescara-calcio/2001,2001,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cittadella,Piacenza,0-2,/match/as-cittadella/piacenza/2001,2001,1,serie_b,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chievo,Genoa,1-0,/match/chievo/genoa/2001,2001,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Crotone,4-0,/match/cagliari/fc-crotone/2001,2001,1,serie_b,20,38,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Siena,Treviso,2-0,/match/siena/treviso/2001,2001,1,serie_b,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Ternana Calcio,2-1,/match/sampdoria/ternana-calcio/2001,2001,1,serie_b,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ravenna FC,Salernitana,1-1,/match/ravenna-calcio/salernitana-calcio-1919/2001,2001,1,serie_b,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+AC Monza,Venezia,2-3,/match/ac-monza-brianza-1912/venezia/2001,2001,1,serie_b,20,38,2,2,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Empoli,Pistoiese,0-2,/match/empoli-fc/pistoiese/2001,2001,1,serie_b,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Pistoiese,Torino,1-1,/match/pistoiese/torino-fc/2001,2001,2,serie_b,20,38,1,1,1,7,1,0,0,2,0,L,0,0,0,0,0,14,0,0,1,0,2,L,0,0,0,0,0,,
+Piacenza,Cosenza Calcio,2-0,/match/piacenza/fortitudo-cosenza/2001,2001,2,serie_b,20,38,0,2,0,9,1,0,0,2,0,L,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Pescara,Empoli,1-3,/match/pescara-calcio/empoli-fc/2001,2001,2,serie_b,20,38,2,1,3,18,0,0,1,0,1,W,0,0,0,0,0,13,0,0,1,0,2,L,0,0,0,0,0,,
+Genoa,Siena,1-1,/match/genoa/siena/2001,2001,2,serie_b,20,38,1,1,1,19,0,0,1,0,1,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Crotone,Ravenna FC,2-1,/match/fc-crotone/ravenna-calcio/2001,2001,2,serie_b,20,38,0,2,1,20,0,0,1,0,4,W,0,0,0,0,0,6,0,1,0,1,1,D,0,0,0,0,0,,
+Ancona,AC Monza,1-0,/match/ancona/ac-monza-brianza-1912/2001,2001,2,serie_b,20,38,0,1,0,10,1,0,0,2,0,L,0,0,0,0,0,17,0,0,1,2,3,L,0,0,0,0,0,,
+Venezia,Cittadella,2-2,/match/venezia/as-cittadella/2001,2001,2,serie_b,20,38,1,2,2,8,1,0,0,3,2,L,0,0,0,0,0,16,0,0,1,0,2,L,0,0,0,0,0,,
+Treviso,Cagliari,2-3,/match/treviso/cagliari/2001,2001,2,serie_b,20,38,2,2,3,15,0,0,1,0,2,W,0,0,0,0,0,5,1,0,0,4,0,W,0,0,0,0,0,,
+Ternana Calcio,Chievo,1-0,/match/ternana-calcio/chievo/2001,2001,2,serie_b,20,38,0,1,0,12,0,0,1,1,2,W,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Salernitana,Sampdoria,2-3,/match/salernitana-calcio-1919/sampdoria/2001,2001,2,serie_b,20,38,2,2,3,11,0,1,0,1,1,D,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
+Chievo,Treviso,2-1,/match/chievo/treviso/2001,2001,3,serie_b,20,38,0,2,1,11,1,0,1,1,1,WW,1,0,0,1,0,18,0,0,2,2,5,WL,0,0,1,0,2,W,W
+Siena,Ancona,4-1,/match/siena/ancona/2001,2001,3,serie_b,20,38,0,4,1,5,1,1,0,3,1,WD,1,0,0,2,0,4,2,0,0,3,0,LW,1,0,0,2,0,W,L
+Empoli,Genoa,0-0,/match/empoli-fc/genoa/2001,2001,3,serie_b,20,38,1,0,0,13,1,0,1,3,3,LL,0,0,1,0,2,14,0,1,1,1,2,WD,0,0,1,0,1,L,W
+Cosenza Calcio,Crotone,3-0,/match/fortitudo-cosenza/fc-crotone/2001,2001,3,serie_b,20,38,0,3,0,7,1,0,1,1,2,WW,1,0,0,1,0,8,1,0,1,2,5,WW,0,0,1,0,4,W,W
+Cittadella,Ternana Calcio,3-1,/match/as-cittadella/ternana-calcio/2001,2001,3,serie_b,20,38,0,3,1,16,0,1,1,2,4,LD,0,0,1,0,2,6,1,0,1,2,2,WW,0,0,1,1,2,L,W
+Cagliari,Pescara,2-1,/match/cagliari/pescara-calcio/2001,2001,3,serie_b,20,38,0,2,1,3,2,0,0,7,2,WL,1,0,0,4,0,20,0,0,2,1,4,WL,0,0,1,0,1,W,W
+Ravenna FC,Piacenza,0-2,/match/ravenna-calcio/piacenza/2001,2001,3,serie_b,20,38,2,0,2,12,0,1,1,2,3,DW,0,1,0,1,1,2,2,0,0,4,0,LW,1,0,0,2,0,D,L
+AC Monza,Salernitana,1-0,/match/ac-monza-brianza-1912/salernitana-calcio-1919/2001,2001,3,serie_b,20,38,0,1,0,19,0,0,2,2,4,LW,0,0,1,2,3,17,0,1,1,3,4,DL,0,1,0,1,1,L,D
+Torino,Venezia,0-1,/match/torino-fc/venezia/2001,2001,3,serie_b,20,38,2,0,1,15,0,1,1,1,3,LD,0,0,1,0,2,9,1,1,0,5,4,LD,1,0,0,3,2,L,L
+Sampdoria,Pistoiese,2-2,/match/sampdoria/pistoiese/2001,2001,3,serie_b,20,38,1,2,2,1,2,0,0,5,3,WL,1,0,0,2,1,10,1,1,0,3,1,LD,1,0,0,2,0,W,L
+Ternana Calcio,Empoli,2-0,/match/ternana-calcio/empoli-fc/2001,2001,4,serie_b,20,38,0,2,0,11,1,0,2,3,5,WWW,1,0,0,1,0,13,1,1,1,3,3,LLD,1,0,0,3,1,W,L
+Pistoiese,Cittadella,0-0,/match/pistoiese/as-cittadella/2001,2001,4,serie_b,20,38,1,0,0,9,1,2,0,5,3,LDD,0,1,0,1,1,10,1,1,1,5,5,LDW,0,1,0,2,2,D,D
+Pescara,AC Monza,1-2,/match/pescara-calcio/ac-monza-brianza-1912/2001,2001,4,serie_b,20,38,2,1,2,20,0,0,3,2,6,WLW,0,0,1,1,3,14,1,0,2,3,4,LWW,0,0,1,0,1,L,W
+Crotone,Chievo,0-2,/match/fc-crotone/chievo/2001,2001,4,serie_b,20,38,2,0,2,12,1,0,2,2,8,WWW,1,0,0,2,1,6,2,0,1,3,2,WWW,0,0,1,0,1,W,W
+Genoa,Ravenna FC,1-1,/match/genoa/ravenna-calcio/2001,2001,4,serie_b,20,38,1,1,1,15,0,2,1,1,2,WDD,0,1,0,1,1,16,0,1,2,2,5,DWL,0,0,1,1,2,D,W
+Salernitana,Cagliari,2-1,/match/salernitana-calcio-1919/cagliari/2001,2001,4,serie_b,20,38,0,2,1,18,0,1,2,3,5,DLW,0,0,1,2,3,1,3,0,0,9,3,WLW,1,0,0,3,2,L,L
+Venezia,Cosenza Calcio,2-2,/match/venezia/fortitudo-cosenza/2001,2001,4,serie_b,20,38,1,2,2,7,2,1,0,6,4,LDL,0,1,0,2,2,4,2,0,1,4,2,WWW,0,0,1,0,2,D,W
+Piacenza,Siena,2-3,/match/piacenza/siena/2001,2001,4,serie_b,20,38,2,2,3,5,3,0,0,6,0,LWL,1,0,0,2,0,2,2,1,0,7,2,WDW,0,1,0,1,1,W,D
+Ancona,Sampdoria,0-0,/match/ancona/sampdoria/2001,2001,4,serie_b,20,38,1,0,0,8,2,0,1,4,4,LWW,1,0,0,1,0,3,2,1,0,7,5,WLD,1,0,0,3,2,W,L
+Treviso,Torino,1-1,/match/treviso/torino-fc/2001,2001,4,serie_b,20,38,1,1,1,19,0,0,3,3,7,WLW,0,0,1,2,3,17,0,1,2,1,4,LDL,0,1,0,1,1,L,D
+Siena,Ternana Calcio,0-0,/match/siena/ternana-calcio/2001,2001,5,serie_b,20,38,1,0,0,1,3,1,0,10,4,WDWL,2,0,0,6,1,7,2,0,2,5,5,WWWW,0,0,2,2,5,WW,WW
+Ravenna FC,Pistoiese,1-4,/match/ravenna-calcio/pistoiese/2001,2001,5,serie_b,20,38,2,1,4,17,0,2,2,3,6,DWLD,0,1,1,1,3,10,1,3,0,5,3,LDDD,1,1,0,4,2,DL,LD
+Genoa,Salernitana,1-2,/match/genoa/salernitana-calcio-1919/2001,2001,5,serie_b,20,38,2,1,2,13,0,3,1,2,3,WDDD,0,2,0,2,2,14,1,1,2,5,6,DLWW,0,1,1,1,2,DD,DW
+Empoli,Piacenza,1-0,/match/empoli-fc/piacenza/2001,2001,5,serie_b,20,38,0,1,0,16,1,1,2,3,5,LLDW,0,1,1,0,2,9,3,0,1,8,3,LWLL,2,0,0,4,0,LD,LL
+Cosenza Calcio,AC Monza,1-0,/match/fortitudo-cosenza/ac-monza-brianza-1912/2001,2001,5,serie_b,20,38,0,1,0,5,2,1,1,6,4,WWWD,2,0,0,4,0,12,2,0,2,5,5,LWWL,1,0,1,2,2,WW,WL
+Cittadella,Pescara,1-1,/match/as-cittadella/pescara-calcio/2001,2001,5,serie_b,20,38,1,1,1,11,1,2,1,5,5,LDWD,1,0,1,3,3,20,0,0,4,3,8,WLWL,0,0,2,1,3,LW,WW
+Cagliari,Chievo,1-1,/match/cagliari/chievo/2001,2001,5,serie_b,20,38,1,1,1,2,3,0,1,10,5,WLWW,2,0,0,6,1,3,3,0,1,5,2,WWWL,1,0,1,2,1,WW,WL
+Ancona,Venezia,0-0,/match/ancona/venezia/2001,2001,5,serie_b,20,38,1,0,0,6,2,1,1,4,4,LWWD,1,1,0,1,0,8,2,2,0,8,6,LDLD,2,0,0,4,2,WD,LL
+Treviso,Crotone,3-2,/match/treviso/fc-crotone/2001,2001,5,serie_b,20,38,0,3,2,19,0,1,3,4,8,WLWD,0,1,1,3,4,15,1,0,3,2,10,WWWL,0,0,2,0,7,LD,WW
+Torino,Sampdoria,1-0,/match/torino-fc/sampdoria/2001,2001,5,serie_b,20,38,0,1,0,18,0,2,2,2,5,LDLD,0,0,2,0,3,4,2,2,0,7,5,WLDD,1,1,0,3,2,LL,LD
+Piacenza,Cagliari,0-0,/match/piacenza/cagliari/2001,2001,6,serie_b,20,38,1,0,0,12,3,0,2,8,4,LWLLW,1,0,1,4,3,3,3,1,1,11,6,WLWWD,1,0,1,4,4,WL,LW
+Venezia,Crotone,1-1,/match/venezia/fc-crotone/2001,2001,6,serie_b,20,38,1,1,1,8,2,3,0,8,6,LDLDD,0,2,0,4,4,18,1,0,4,4,13,WWWLW,0,0,3,2,10,DD,WWW
+Sampdoria,Empoli,0-1,/match/sampdoria/empoli-fc/2001,2001,6,serie_b,20,38,2,0,1,6,2,2,1,7,6,WLDDW,1,1,0,4,3,10,2,1,2,4,5,LLDWW,1,0,1,3,3,WD,LW
+Salernitana,Siena,3-0,/match/salernitana-calcio-1919/siena/2001,2001,6,serie_b,20,38,0,3,0,13,2,1,2,7,7,DLWWL,1,0,1,4,4,1,3,2,0,10,4,WDWLD,1,1,0,4,3,LW,DL
+Pistoiese,Treviso,0-1,/match/pistoiese/treviso/2001,2001,6,serie_b,20,38,2,0,1,9,2,3,0,9,4,LDDDL,0,2,0,1,1,16,1,1,3,7,10,WLWDW,0,0,2,1,4,DD,WW
+Pescara,Ravenna FC,1-1,/match/pescara-calcio/ravenna-calcio/2001,2001,6,serie_b,20,38,1,1,1,20,0,1,4,4,9,WLWLD,0,0,2,2,5,19,0,2,3,4,10,DWLDL,0,1,1,2,3,LL,WD
+AC Monza,Torino,2-3,/match/ac-monza-brianza-1912/torino-fc/2001,2001,6,serie_b,20,38,2,2,3,14,2,0,3,5,6,LWWLW,1,0,1,3,3,15,1,2,2,3,5,LDLDW,0,2,0,2,2,LW,DD
+Cosenza Calcio,Ancona,3-2,/match/fortitudo-cosenza/ancona/2001,2001,6,serie_b,20,38,0,3,2,2,3,1,1,7,4,WWWDW,3,0,0,5,0,5,2,2,1,4,4,LWWDD,1,0,1,3,4,WWW,LW
+Chievo,Cittadella,2-2,/match/chievo/as-cittadella/2001,2001,6,serie_b,20,38,1,2,2,4,3,1,1,6,3,WWWLD,2,0,0,3,1,11,1,3,1,6,6,LDWDD,0,2,0,2,2,WW,DD
+Ternana Calcio,Genoa,1-0,/match/ternana-calcio/genoa/2001,2001,6,serie_b,20,38,0,1,0,7,2,1,2,5,5,WWWWD,2,0,0,3,0,17,0,3,2,3,5,WDDDL,0,1,1,0,1,WW,WD
+Siena,Pescara,0-0,/match/siena/pescara-calcio/2001,2001,7,serie_b,20,38,1,0,0,2,3,2,1,10,7,WDWLDW,2,1,0,6,1,20,0,2,4,5,10,WLWLDD,0,1,2,2,4,WWD,WWD
+Torino,Ternana Calcio,1-1,/match/torino-fc/ternana-calcio/2001,2001,7,serie_b,20,38,1,1,1,14,2,2,2,6,7,LDLDWL,1,0,2,1,3,5,3,1,2,6,5,WWWWDW,0,1,2,2,5,LLW,WWD
+Ravenna FC,Chievo,0-0,/match/ravenna-calcio/chievo/2001,2001,7,serie_b,20,38,1,0,0,19,0,3,3,5,11,DWLDLD,0,1,2,2,7,4,3,2,1,8,5,WWWLDD,1,1,1,3,2,DLL,WLD
+Genoa,Venezia,1-1,/match/genoa/venezia/2001,2001,7,serie_b,20,38,1,1,1,17,0,3,3,3,6,WDDDLW,0,2,1,3,4,7,2,4,0,9,7,LDLDDD,2,1,0,4,2,DDL,LLD
+Empoli,Cosenza Calcio,0-1,/match/empoli-fc/fortitudo-cosenza/2001,2001,7,serie_b,20,38,2,0,1,10,3,1,2,5,5,LLDWWL,1,1,1,1,2,1,4,1,1,10,6,WWWDWW,0,1,1,2,4,LDW,WD
+Crotone,Piacenza,2-0,/match/fc-crotone/piacenza/2001,2001,7,serie_b,20,38,0,2,0,18,1,1,4,5,14,WWWLWD,1,0,1,2,3,9,3,1,2,8,4,LWLLWD,2,0,1,4,1,WL,LLW
+Cittadella,Sampdoria,2-2,/match/as-cittadella/sampdoria/2001,2001,7,serie_b,20,38,1,2,2,11,1,4,1,8,8,LDWDDD,1,1,1,4,4,13,2,2,2,7,7,WLDDWL,1,1,1,3,3,LWD,LDW
+Cagliari,AC Monza,2-1,/match/cagliari/ac-monza-brianza-1912/2001,2001,7,serie_b,20,38,0,2,1,3,3,2,1,11,6,WLWWDD,2,1,0,7,2,16,2,0,4,7,9,LWWLWL,1,0,2,2,3,WWD,WLW
+Ancona,Pistoiese,2-1,/match/ancona/pistoiese/2001,2001,7,serie_b,20,38,0,2,1,8,2,2,2,6,7,LWWDDW,1,2,0,1,0,12,2,3,1,9,5,LDDDLL,2,1,0,8,3,WDD,LDL
+Treviso,Salernitana,1-0,/match/treviso/salernitana-calcio-1919/2001,2001,7,serie_b,20,38,0,1,0,15,2,1,3,8,10,WLWDWL,1,1,1,6,6,6,3,1,2,10,7,DLWWLW,1,1,1,3,3,LDW,DWL
+Empoli,Ravenna FC,3-2,/match/empoli-fc/ravenna-calcio/2001,2001,8,serie_b,20,38,0,3,2,11,3,1,3,5,6,LLDWWLL,1,1,2,1,3,19,0,4,3,5,11,DWLDLDD,0,2,1,3,4,LDWL,WDD
+Venezia,Treviso,3-0,/match/venezia/treviso/2001,2001,8,serie_b,20,38,0,3,0,8,2,5,0,10,8,LDLDDDD,0,3,0,5,5,7,3,1,3,9,10,WLWDWLW,1,0,2,2,4,DDD,WWL
+Ternana Calcio,Salernitana,0-0,/match/ternana-calcio/salernitana-calcio-1919/2001,2001,8,serie_b,20,38,1,0,0,5,3,2,2,7,6,WWWWDWD,3,0,0,4,0,10,3,1,3,10,8,DLWWLWW,1,1,2,3,4,WWW,DWLW
+Sampdoria,Cagliari,2-1,/match/sampdoria/cagliari/2001,2001,8,serie_b,20,38,0,2,1,13,2,3,2,9,9,WLDDWLD,1,1,1,4,4,2,4,2,1,13,7,WLWWDDW,1,1,1,4,4,WDL,LWD
+Pistoiese,Crotone,0-4,/match/pistoiese/fc-crotone/2001,2001,8,serie_b,20,38,2,0,4,15,2,3,2,10,7,LDDDLLW,0,2,1,1,2,16,2,1,4,7,14,WWWLWDW,0,1,3,3,11,DDL,WWWD
+Piacenza,Torino,3-1,/match/piacenza/torino-fc/2001,2001,8,serie_b,20,38,0,3,1,12,3,1,3,8,6,LWLLWDW,1,1,1,4,3,14,2,3,2,7,8,LDLDWLD,1,2,0,5,4,WLD,DDL
+Pescara,Genoa,1-1,/match/pescara-calcio/genoa/2001,2001,8,serie_b,20,38,1,1,1,20,0,3,4,5,10,WLWLDDD,0,1,2,3,6,17,0,4,3,4,7,WDDDLWD,0,1,2,0,2,LLD,WDW
+AC Monza,Cittadella,1-0,/match/ac-monza-brianza-1912/as-cittadella/2001,2001,8,serie_b,20,38,0,1,0,18,2,0,5,8,11,LWWLWLW,1,0,2,5,6,9,1,5,1,10,10,LDWDDDD,0,3,0,4,4,LWL,DDD
+Cosenza Calcio,Siena,3-1,/match/fortitudo-cosenza/siena/2001,2001,8,serie_b,20,38,0,3,1,1,5,1,1,11,6,WWWDWWL,4,0,0,8,2,3,3,3,1,10,7,WDWLDWD,1,1,1,4,6,WWWW,DLW
+Chievo,Ancona,1-0,/match/chievo/ancona/2001,2001,8,serie_b,20,38,0,1,0,4,3,3,1,8,5,WWWLDDD,2,1,0,5,3,6,3,2,2,8,8,LWWDDWW,1,0,2,5,7,WWD,LWW
+Treviso,Ravenna FC,0-0,/match/treviso/ravenna-calcio/2001,2001,9,serie_b,20,38,1,0,0,12,3,1,4,9,13,WLWDWLWW,2,1,1,7,6,19,0,4,4,7,14,DWLDLDDW,0,2,2,5,7,LDWW,WDDW
+Ternana Calcio,AC Monza,4-1,/match/ternana-calcio/ac-monza-brianza-1912/2001,2001,9,serie_b,20,38,0,4,1,4,3,3,2,7,6,WWWWDWDD,3,1,0,4,0,16,3,0,5,9,11,LWWLWLWW,1,0,3,3,5,WWWD,WLWW
+Siena,Venezia,1-3,/match/siena/venezia/2001,2001,9,serie_b,20,38,2,1,3,6,3,3,2,11,10,WDWLDWDW,2,2,0,6,1,5,3,5,0,13,8,LDLDDDDW,2,2,0,5,3,WWDD,LLDD
+Salernitana,Piacenza,3-0,/match/salernitana-calcio-1919/piacenza/2001,2001,9,serie_b,20,38,0,3,0,11,3,2,3,10,8,DLWWLWWD,2,0,1,7,4,8,4,1,3,11,7,LWLLWDWW,2,0,2,4,3,LWW,LLWW
+Pescara,Ancona,2-3,/match/pescara-calcio/ancona/2001,2001,9,serie_b,20,38,2,2,3,20,0,4,4,6,11,WLWLDDDD,0,2,2,4,7,10,3,2,3,8,9,LWWDDWWW,1,0,3,5,8,LLDD,LWWW
+Genoa,Cosenza Calcio,2-1,/match/genoa/fortitudo-cosenza/2001,2001,9,serie_b,20,38,0,2,1,18,0,5,3,5,8,WDDDLWDD,0,3,1,4,5,1,6,1,1,14,7,WWWDWWLW,1,1,1,3,4,DDLD,WDL
+Crotone,Sampdoria,1-1,/match/fc-crotone/sampdoria/2001,2001,9,serie_b,20,38,1,1,1,14,3,1,4,11,14,WWWLWDWL,2,0,1,4,3,7,3,3,2,11,10,WLDDWLDW,1,2,1,5,5,WLW,LDWD
+Cittadella,Torino,2-1,/match/as-cittadella/torino-fc/2001,2001,9,serie_b,20,38,0,2,1,13,1,5,2,10,11,LDWDDDDW,1,2,1,6,6,15,2,3,3,8,11,LDLDWLDW,1,2,1,6,7,LWDD,DDLW
+Chievo,Empoli,1-0,/match/chievo/empoli-fc/2001,2001,9,serie_b,20,38,0,1,0,2,4,3,1,9,5,WWWLDDDW,3,1,0,6,3,9,4,1,3,8,8,LLDWWLLW,2,0,1,4,3,WWDW,LWL
+Cagliari,Pistoiese,0-0,/match/cagliari/pistoiese/2001,2001,9,serie_b,20,38,1,0,0,3,4,2,2,14,9,WLWWDDWW,3,1,0,9,3,17,2,3,3,10,11,LDDDLLWL,2,1,1,9,5,WWDW,LDLW
+Ancona,Salernitana,4-1,/match/ancona/salernitana-calcio-1919/2001,2001,10,serie_b,20,38,0,4,1,6,4,2,3,11,11,LWWDDWWWL,2,2,0,3,1,7,4,2,3,13,8,DLWWLWWDW,1,2,2,3,4,WDDW,DWLWD
+Venezia,Pescara,1-1,/match/venezia/pescara-calcio/2001,2001,10,serie_b,20,38,1,1,1,5,4,5,0,16,9,LDLDDDDWL,1,3,0,8,5,20,0,4,5,8,14,WLWLDDDDL,0,2,2,2,4,DDDW,WWDD
+Torino,Siena,1-1,/match/torino-fc/siena/2001,2001,10,serie_b,20,38,1,1,1,16,2,3,4,9,13,LDLDWLDWW,1,1,2,2,4,9,3,3,3,12,13,WDWLDWDWL,1,1,2,5,9,LLWD,DLWW
+Ravenna FC,Cagliari,2-4,/match/ravenna-calcio/cagliari/2001,2001,10,serie_b,20,38,2,2,4,19,0,5,4,7,14,DWLDLDDWD,0,2,2,2,7,4,4,3,2,14,9,WLWWDDWWD,1,1,2,5,6,DLLD,LWDW
+Pistoiese,Chievo,1-0,/match/pistoiese/chievo/2001,2001,10,serie_b,20,38,0,1,0,18,2,4,3,10,11,LDDDLLWLD,0,2,2,1,6,2,5,3,1,10,5,WWWLDDDWW,1,2,1,3,2,DDLL,WLDD
+Piacenza,Ternana Calcio,3-0,/match/piacenza/ternana-calcio/2001,2001,10,serie_b,20,38,0,3,0,11,4,1,4,11,10,LWLLWDWWW,2,1,1,7,4,3,4,3,2,11,7,WWWWDWDDW,0,2,2,3,6,WLDW,WWDD
+AC Monza,Crotone,0-1,/match/ac-monza-brianza-1912/fc-crotone/2001,2001,10,serie_b,20,38,2,0,1,17,3,0,6,10,15,LWWLWLWWW,2,0,2,6,6,14,3,2,4,12,15,WWWLWDWLD,1,1,3,7,11,LWLW,WWWDL
+Empoli,Treviso,2-1,/match/empoli-fc/treviso/2001,2001,10,serie_b,20,38,0,2,1,12,4,1,4,8,9,LLDWWLLWW,2,1,2,4,5,13,3,2,4,9,13,WLWDWLWWD,1,0,3,2,7,LDWLW,WWLW
+Cosenza Calcio,Cittadella,1-0,/match/fortitudo-cosenza/as-cittadella/2001,2001,10,serie_b,20,38,0,1,0,1,6,1,2,15,9,WWWDWWLWW,5,0,0,11,3,10,2,5,2,12,12,LDWDDDDWW,0,3,1,4,5,WWWWW,DDDW
+Sampdoria,Genoa,2-0,/match/sampdoria/genoa/2001,2001,10,serie_b,20,38,0,2,0,8,3,4,2,12,11,WLDDWLDWD,2,1,1,6,5,15,1,5,3,7,9,WDDDLWDDW,0,2,2,1,3,WDLW,WDWD
+Salernitana,Venezia,0-1,/match/salernitana-calcio-1919/venezia/2001,2001,11,serie_b,20,38,2,0,1,11,4,2,4,14,12,DLWWLWWDWW,3,0,1,10,4,5,4,6,0,17,10,LDLDDDDWLD,3,2,0,8,4,LWWW,LLDDL
+Treviso,Sampdoria,0-2,/match/treviso/sampdoria/2001,2001,11,serie_b,20,38,2,0,2,14,3,2,5,10,15,WLWDWLWWDW,2,2,1,7,6,7,4,4,2,14,11,WLDDWLDWDW,1,3,1,6,6,LDWWD,LDWDD
+Ternana Calcio,Pistoiese,3-2,/match/ternana-calcio/pistoiese/2001,2001,11,serie_b,20,38,0,3,2,4,4,3,3,11,10,WWWWDWDDWW,4,1,0,8,1,15,3,4,3,11,11,LDDDLLWLDW,2,2,1,9,5,WWWDW,LDLWD
+Siena,Ravenna FC,5-1,/match/siena/ravenna-calcio/2001,2001,11,serie_b,20,38,0,5,1,10,3,4,3,13,14,WDWLDWDWLD,2,2,1,7,4,19,0,5,5,9,18,DWLDLDDWDL,0,3,2,5,7,WWDDL,WDDWD
+Pescara,Piacenza,0-0,/match/pescara-calcio/piacenza/2001,2001,11,serie_b,20,38,1,0,0,20,0,5,5,9,15,WLWLDDDDLD,0,2,3,6,10,9,5,1,4,14,10,LWLLWDWWWW,2,0,3,4,6,LLDDL,LLWWW
+Genoa,AC Monza,3-1,/match/genoa/ac-monza-brianza-1912/2001,2001,11,serie_b,20,38,0,3,1,16,1,5,4,7,11,WDDDLWDDWW,1,3,1,6,6,18,3,0,7,10,16,LWWLWLWWWL,1,0,4,4,9,DDLDW,WLWWW
+Crotone,Ancona,1-0,/match/fc-crotone/ancona/2001,2001,11,serie_b,20,38,0,1,0,13,4,2,4,13,15,WWWLWDWLDL,2,1,1,5,4,6,5,2,3,15,12,LWWDDWWWLW,2,0,3,8,10,WLWD,LWWWL
+Cittadella,Empoli,2-2,/match/as-cittadella/empoli-fc/2001,2001,11,serie_b,20,38,1,2,2,12,2,5,3,12,13,LDWDDDDWWW,2,2,1,8,7,8,5,1,4,10,10,LLDWWLLWWW,2,0,2,4,4,LWDDW,LWLW
+Chievo,Torino,4-2,/match/chievo/torino-fc/2001,2001,11,serie_b,20,38,0,4,2,2,5,3,2,10,6,WWWLDDDWWW,4,1,0,7,3,17,2,4,4,10,14,LDLDWLDWWD,1,2,2,7,9,WWDWW,DDLWW
+Cagliari,Cosenza Calcio,1-1,/match/cagliari/fortitudo-cosenza/2001,2001,11,serie_b,20,38,1,1,1,3,5,3,2,18,11,WLWWDDWWDL,3,2,0,9,3,1,7,1,2,16,9,WWWDWWLWWW,1,1,2,4,6,WWDWD,WDLW
+Empoli,Siena,2-0,/match/empoli-fc/siena/2001,2001,12,serie_b,20,38,0,2,0,9,5,2,4,12,12,LLDWWLLWWWD,3,1,2,6,6,8,4,4,3,18,15,WDWLDWDWLDW,1,2,2,6,10,LDWLWW,DLWWD
+Ancona,Genoa,1-0,/match/ancona/genoa/2001,2001,12,serie_b,20,38,0,1,0,7,5,2,4,15,13,LWWDDWWWLWW,3,2,0,7,2,13,2,5,4,10,12,WDDDLWDDWWW,0,2,3,1,5,WDDWW,WDWDW
+Venezia,Cagliari,2-2,/match/venezia/cagliari/2001,2001,12,serie_b,20,38,1,2,2,5,5,6,0,18,10,LDLDDDDWLDL,1,4,0,9,6,4,5,4,2,19,12,WLWWDDWWDLD,2,1,2,9,8,DDDWD,LWDWL
+Torino,Crotone,1-0,/match/torino-fc/fc-crotone/2001,2001,12,serie_b,20,38,0,1,0,17,2,4,5,12,18,LDLDWLDWWDW,1,2,2,3,5,11,5,2,4,14,15,WWWLWDWLDLW,2,1,3,8,11,LLWDD,WWWDLL
+Sampdoria,Chievo,1-1,/match/sampdoria/chievo/2001,2001,12,serie_b,20,38,1,1,1,6,5,4,2,16,11,WLDDWLDWDWL,3,1,1,8,5,2,6,3,2,14,8,WWWLDDDWWWW,1,2,2,3,3,WDLWW,WLDDW
+Ravenna FC,Ternana Calcio,2-2,/match/ravenna-calcio/ternana-calcio/2001,2001,12,serie_b,20,38,1,2,2,20,0,5,6,10,23,DWLDLDDWDLW,0,2,3,4,11,3,5,3,3,14,12,WWWWDWDDWWW,0,2,3,3,9,DLLDL,WWDDW
+Pistoiese,Pescara,1-0,/match/pistoiese/pescara-calcio/2001,2001,12,serie_b,20,38,0,1,0,15,3,4,4,13,14,LDDDLLWLDWW,1,2,2,2,6,19,0,6,5,9,15,WLWLDDDDLDD,0,3,2,3,5,DDLLW,WWDDD
+Cosenza Calcio,Salernitana,1-0,/match/fortitudo-cosenza/salernitana-calcio-1919/2001,2001,12,serie_b,20,38,0,1,0,1,7,2,2,17,10,WWWDWWLWWWD,6,0,0,12,3,14,4,2,5,14,13,DLWWLWWDWWL,1,2,3,4,8,WWWWWW,DWLWDW
+Cittadella,Treviso,2-2,/match/as-cittadella/treviso/2001,2001,12,serie_b,20,38,1,2,2,12,2,6,3,14,15,LDWDDDDWWWD,2,3,1,10,9,16,3,2,6,10,17,WLWDWLWWDWL,1,0,4,3,9,LWDDWD,WWLWW
+AC Monza,Piacenza,1-1,/match/ac-monza-brianza-1912/piacenza/2001,2001,12,serie_b,20,38,1,1,1,18,3,0,8,11,19,LWWLWLWWWLW,2,0,3,6,7,10,5,2,4,14,10,LWLLWDWWWWD,2,1,3,4,6,LWLWL,LLWWWD
+Genoa,Torino,2-1,/match/genoa/torino-fc/2001,2001,13,serie_b,20,38,0,2,1,14,2,5,5,10,13,WDDDLWDDWWWW,2,3,1,9,7,16,3,4,5,13,18,LDLDWLDWWDWW,1,2,3,9,13,DDLDWW,DDLWWW
+Chievo,Pescara,0-2,/match/chievo/pescara-calcio/2001,2001,13,serie_b,20,38,2,0,2,2,6,4,2,15,9,WWWLDDDWWWWD,5,1,0,11,5,19,0,6,6,9,16,WLWLDDDDLDDW,0,3,3,3,6,WWDWWW,WWDDDW
+Cagliari,Cittadella,3-0,/match/cagliari/as-cittadella/2001,2001,13,serie_b,20,38,0,3,0,4,5,5,2,21,14,WLWWDDWWDLDD,3,3,0,10,4,11,2,7,3,16,17,LDWDDDDWWWDD,0,3,2,4,6,WWDWDD,DDDWW
+Treviso,Cosenza Calcio,1-1,/match/treviso/fortitudo-cosenza/2001,2001,13,serie_b,20,38,1,1,1,17,3,3,6,12,19,WLWDWLWWDWLD,2,2,2,7,8,1,8,2,2,18,10,WWWDWWLWWWDW,1,2,2,5,7,LDWWDL,WDLWD
+Ternana Calcio,Venezia,3-1,/match/ternana-calcio/venezia/2001,2001,13,serie_b,20,38,0,3,1,3,5,4,3,16,14,WWWWDWDDWWWD,5,1,0,11,3,5,5,7,0,20,12,LDLDDDDWLDLD,4,2,0,9,4,WWWDWW,LLDDLL
+Siena,AC Monza,3-1,/match/siena/ac-monza-brianza-1912/2001,2001,13,serie_b,20,38,0,3,1,9,4,4,4,18,17,WDWLDWDWLDWW,3,2,1,12,5,18,3,1,8,12,20,LWWLWLWWWLWD,1,0,5,5,12,WWDDLW,WLWWWW
+Piacenza,Ancona,1-1,/match/piacenza/ancona/2001,2001,13,serie_b,20,38,1,1,1,10,5,3,4,15,11,LWLLWDWWWWDD,3,1,1,10,4,6,6,2,4,16,13,LWWDDWWWLWWW,2,0,4,8,11,WLDWW,LWWWLW
+Crotone,Empoli,3-1,/match/fc-crotone/empoli-fc/2001,2001,13,serie_b,20,38,0,3,1,12,5,2,5,14,16,WWWLWDWLDLWW,3,1,1,6,4,8,6,2,4,14,12,LLDWWLLWWWDW,2,1,2,6,6,WLWDW,LWLWD
+Ravenna FC,Sampdoria,0-0,/match/ravenna-calcio/sampdoria/2001,2001,13,serie_b,20,38,1,0,0,20,0,6,6,12,25,DWLDLDDWDLWD,0,3,3,6,13,7,5,5,2,17,12,WLDDWLDWDWLD,2,3,1,8,6,DLLDLD,LDWDDL
+Salernitana,Pistoiese,1-0,/match/salernitana-calcio-1919/pistoiese/2001,2001,13,serie_b,20,38,0,1,0,15,4,2,6,14,14,DLWWLWWDWWLW,3,0,2,10,5,13,4,4,4,14,14,LDDDLLWLDWWW,2,2,2,11,8,LWWWL,LDLWDW
+Pescara,Salernitana,2-2,/match/pescara-calcio/salernitana-calcio-1919/2001,2001,14,serie_b,20,38,1,2,2,19,1,6,6,11,16,WLWLDDDDLDDWL,0,3,3,6,10,13,5,2,6,15,14,DLWWLWWDWWLWW,1,2,4,4,9,LLDDLD,DWLWDWW
+Empoli,Cagliari,0-3,/match/empoli-fc/cagliari/2001,2001,14,serie_b,20,38,2,0,3,9,6,2,5,15,15,LLDWWLLWWWDWW,4,1,2,8,6,3,6,5,2,24,14,WLWWDDWWDLDDW,2,2,2,11,10,LDWLWWW,LWDWLD
+Cittadella,Crotone,2-0,/match/as-cittadella/fc-crotone/2001,2001,14,serie_b,20,38,0,2,0,14,2,7,4,16,20,LDWDDDDWWWDDW,2,4,1,12,11,10,6,2,5,17,17,WWWLWDWLDLWWW,2,1,4,8,12,LWDDWDD,WWWDLLW
+Ancona,Ternana Calcio,3-1,/match/ancona/ternana-calcio/2001,2001,14,serie_b,20,38,0,3,1,5,6,3,4,17,14,LWWDDWWWLWWWD,4,2,0,8,2,2,6,4,3,19,15,WWWWDWDDWWWDW,0,3,3,5,11,WDDWWW,WWDDWD
+Venezia,Piacenza,1-0,/match/venezia/piacenza/2001,2001,14,serie_b,20,38,0,1,0,6,5,7,1,21,15,LDLDDDDWLDLDW,1,5,0,11,8,11,5,4,4,16,12,LWLLWDWWWWDDD,2,2,3,5,7,DDDWDD,LLWWWDD
+Torino,Ravenna FC,2-1,/match/torino-fc/ravenna-calcio/2001,2001,14,serie_b,20,38,0,2,1,17,3,4,6,14,20,LDLDWLDWWDWWW,2,2,2,4,5,20,0,7,6,12,25,DWLDLDDWDLWDD,0,3,3,6,12,LLWDDW,WDDWDW
+Sampdoria,Siena,1-1,/match/sampdoria/siena/2001,2001,14,serie_b,20,38,1,1,1,7,5,6,2,17,12,WLDDWLDWDWLDD,3,2,1,9,6,8,5,4,4,21,18,WDWLDWDWLDWWW,1,2,3,6,12,WDLWWD,DLWWDW
+Pistoiese,Genoa,3-3,/match/pistoiese/genoa/2001,2001,14,serie_b,20,38,1,3,3,15,4,4,5,14,15,LDDDLLWLDWWWW,2,2,2,3,6,12,3,5,5,12,14,WDDDLWDDWWWWW,0,2,4,1,6,DDLLWW,WDWDWW
+AC Monza,Treviso,1-1,/match/ac-monza-brianza-1912/treviso/2001,2001,14,serie_b,20,38,1,1,1,18,3,1,9,13,23,LWWLWLWWWLWDW,2,1,3,7,8,16,3,4,6,13,20,WLWDWLWWDWLDD,1,1,4,5,11,LWLWLD,WWLWWD
+Cosenza Calcio,Chievo,1-2,/match/fortitudo-cosenza/chievo/2001,2001,14,serie_b,20,38,2,1,2,1,8,3,2,19,11,WWWDWWLWWWDWD,7,0,0,13,3,4,6,4,3,15,11,WWWLDDDWWWWDL,1,3,2,4,4,WWWWWWW,WLDDWD
+Cagliari,Torino,0-1,/match/cagliari/torino-fc/2001,2001,15,serie_b,20,38,2,0,1,2,7,5,2,27,14,WLWWDDWWDLDDWL,4,3,0,13,4,16,4,4,6,16,21,LDLDWLDWWDWWWW,1,2,4,10,15,WWDWDDW,DDLWWWW
+Pistoiese,Venezia,1-2,/match/pistoiese/venezia/2001,2001,15,serie_b,20,38,2,1,2,15,4,5,5,17,18,LDDDLLWLDWWWWD,2,3,2,6,9,6,6,7,1,22,15,LDLDDDDWLDLDWW,4,2,1,10,7,DDLLWWD,LLDDLLW
+Piacenza,Genoa,2-1,/match/piacenza/genoa/2001,2001,15,serie_b,20,38,0,2,1,12,5,4,5,16,13,LWLLWDWWWWDDDW,3,2,1,11,5,14,3,6,5,15,17,WDDDLWDDWWWWWD,0,3,4,4,9,WLDWWD,WDWDWWD
+Crotone,Siena,2-2,/match/fc-crotone/siena/2001,2001,15,serie_b,20,38,1,2,2,11,6,2,6,17,19,WWWLWDWLDLWWWW,4,1,1,9,5,8,5,5,4,22,19,WDWLDWDWLDWWWD,1,3,3,7,13,WLWDWW,DLWWDWD
+Chievo,AC Monza,5-1,/match/chievo/ac-monza-brianza-1912/2001,2001,15,serie_b,20,38,0,5,1,3,7,4,3,17,12,WWWLDDDWWWWDLL,5,1,1,11,7,18,3,2,9,14,24,LWWLWLWWWLWDWD,1,0,6,6,15,WWDWWWL,WLWWWWW
+Treviso,Ancona,0-0,/match/treviso/ancona/2001,2001,15,serie_b,20,38,1,0,0,17,3,5,6,14,21,WLWDWLWWDWLDDD,2,3,2,8,9,4,7,3,4,20,15,LWWDDWWWLWWWDW,2,1,4,9,12,LDWWDLD,LWWWLWD
+Ternana Calcio,Pescara,3-0,/match/ternana-calcio/pescara-calcio/2001,2001,15,serie_b,20,38,0,3,0,5,6,4,4,20,18,WWWWDWDDWWWDWW,6,1,0,14,4,19,1,7,6,13,18,WLWLDDDDLDDWLD,1,3,3,5,6,WWWDWWW,WWDDDWL
+Salernitana,Empoli,0-0,/match/salernitana-calcio-1919/empoli-fc/2001,2001,15,serie_b,20,38,1,0,0,13,5,3,6,17,16,DLWWLWWDWWLWWD,4,0,2,11,5,10,6,2,6,15,18,LLDWWLLWWWDWWL,2,1,3,7,9,LWWWLW,LWLWDW
+Ravenna FC,Cittadella,0-0,/match/ravenna-calcio/as-cittadella/2001,2001,15,serie_b,20,38,1,0,0,20,0,7,7,13,27,DWLDLDDWDLWDDW,0,4,3,6,13,9,3,7,4,18,20,LDWDDDDWWWDDWW,0,3,3,4,9,DLLDLDD,DDDWWW
+Sampdoria,Cosenza Calcio,1-0,/match/sampdoria/fortitudo-cosenza/2001,2001,15,serie_b,20,38,0,1,0,7,5,7,2,18,13,WLDDWLDWDWLDDD,3,3,1,10,7,1,8,3,3,20,13,WWWDWWLWWWDWDL,1,3,2,6,8,WDLWWDD,WDLWDD
+Piacenza,Chievo,1-0,/match/piacenza/chievo/2001,2001,16,serie_b,20,38,0,1,0,9,6,4,5,18,14,LWLLWDWWWWDDDWW,4,2,1,13,6,2,8,4,3,22,13,WWWLDDDWWWWDLLW,2,3,2,6,5,WLDWWDW,WLDDWDL
+AC Monza,Ravenna FC,0-1,/match/ac-monza-brianza-1912/ravenna-calcio/2001,2001,16,serie_b,20,38,2,0,1,18,3,2,10,15,29,LWWLWLWWWLWDWDW,2,2,3,8,9,20,0,8,7,13,27,DWLDLDDWDLWDDWD,0,3,4,7,14,LWLWLDD,WDDWDWW
+Genoa,Cittadella,3-1,/match/genoa/as-cittadella/2001,2001,16,serie_b,20,38,0,3,1,15,3,6,6,16,19,WDDDLWDDWWWWWDW,3,3,1,11,8,12,3,8,4,18,20,LDWDDDDWWWDDWWD,0,4,3,4,9,DDLDWWW,DDDWWWD
+Cosenza Calcio,Ternana Calcio,0-0,/match/fortitudo-cosenza/ternana-calcio/2001,2001,16,serie_b,20,38,1,0,0,1,8,3,4,20,14,WWWDWWLWWWDWDLW,7,0,1,14,5,3,7,4,4,23,18,WWWWDWDDWWWDWWW,0,3,4,6,14,WWWWWWWL,WWDDWDW
+Ancona,Cagliari,1-1,/match/ancona/cagliari/2001,2001,16,serie_b,20,38,1,1,1,5,7,4,4,20,15,LWWDDWWWLWWWDWD,5,2,0,11,3,4,7,5,3,27,15,WLWWDDWWDLDDWLL,3,2,2,14,10,WDDWWWW,LWDWLDL
+Torino,Empoli,1-0,/match/torino-fc/empoli-fc/2001,2001,16,serie_b,20,38,0,1,0,14,5,4,6,17,21,LDLDWLDWWDWWWWL,3,2,2,6,6,11,6,3,6,15,18,LLDWWLLWWWDWWLD,2,2,3,7,9,LLWDDWW,LWLWDWD
+Siena,Pistoiese,1-0,/match/siena/pistoiese/2001,2001,16,serie_b,20,38,0,1,0,8,5,6,4,24,21,WDWLDWDWLDWWWDD,4,2,1,15,6,16,4,5,6,18,20,LDDDLLWLDWWWWDL,2,2,3,11,9,WWDDLWW,LDLWDWW
+Salernitana,Crotone,0-1,/match/salernitana-calcio-1919/fc-crotone/2001,2001,16,serie_b,20,38,2,0,1,13,5,4,6,17,16,DLWWLWWDWWLWWDD,4,1,2,11,5,10,6,3,6,19,21,WWWLWDWLDLWWWWD,2,1,5,8,14,LWWWLWD,WWWDLLWW
+Pescara,Treviso,0-3,/match/pescara-calcio/treviso/2001,2001,16,serie_b,20,38,2,0,3,19,1,7,7,13,21,WLWLDDDDLDDWLDW,0,4,3,8,12,17,3,6,6,14,21,WLWDWLWWDWLDDDD,1,2,4,6,12,LLDDLDD,WWLWWDD
+Venezia,Sampdoria,2-2,/match/venezia/sampdoria/2001,2001,16,serie_b,20,38,1,2,2,6,7,7,1,24,16,LDLDDDDWLDLDWWL,2,5,0,12,8,7,6,7,2,19,13,WLDDWLDWDWLDDDW,2,4,1,8,6,DDDWDDW,LDWDDLD
+Empoli,AC Monza,4-2,/match/empoli-fc/ac-monza-brianza-1912/2001,2001,17,serie_b,20,38,0,4,2,13,6,3,7,15,19,LLDWWLLWWWDWWLDW,4,1,3,8,9,19,3,2,11,15,30,LWWLWLWWWLWDWDWL,1,0,7,7,20,LDWLWWWL,WLWWWWWW
+Crotone,Genoa,0-0,/match/fc-crotone/genoa/2001,2001,17,serie_b,20,38,1,0,0,10,7,3,6,20,21,WWWLWDWLDLWWWWDL,4,2,1,11,7,12,4,6,6,19,20,WDDDLWDDWWWWWDWW,0,3,5,5,11,WLWDWWD,WDWDWWDW
+Cittadella,Salernitana,1-1,/match/as-cittadella/salernitana-calcio-1919/2001,2001,17,serie_b,20,38,1,1,1,14,3,8,5,19,23,LDWDDDDWWWDDWWDW,3,4,1,14,11,15,5,4,7,17,17,DLWWLWWDWWLWWDDL,1,3,4,6,11,LWDDWDDW,DWLWDWWD
+Chievo,Venezia,2-1,/match/chievo/venezia/2001,2001,17,serie_b,20,38,0,2,1,3,8,4,4,22,14,WWWLDDDWWWWDLLWW,6,1,1,16,8,5,7,8,1,26,18,LDLDDDDWLDLDWWLD,5,2,1,12,8,WWDWWWLW,LLDDLLWL
+Cagliari,Siena,0-0,/match/cagliari/siena/2001,2001,17,serie_b,20,38,1,0,0,6,7,6,3,28,16,WLWWDDWWDLDDWLLD,4,3,1,13,5,8,6,6,4,25,21,WDWLDWDWLDWWWDDW,1,4,3,9,15,WWDWDDWL,DLWWDWDD
+Treviso,Ternana Calcio,1-1,/match/treviso/ternana-calcio/2001,2001,17,serie_b,20,38,1,1,1,16,4,6,6,17,21,WLWDWLWWDWLDDDDL,2,4,2,8,9,2,7,5,4,23,18,WWWWDWDDWWWDWWWD,0,4,4,6,14,LDWWDLDD,WWDDWDWD
+Torino,Pescara,1-0,/match/torino-fc/pescara-calcio/2001,2001,17,serie_b,20,38,0,1,0,11,6,4,6,18,21,LDLDWLDWWDWWWWLW,4,2,2,7,6,20,1,7,8,13,24,WLWLDDDDLDDWLDWL,1,3,4,5,9,LLWDDWWW,WWDDDWLW
+Sampdoria,Piacenza,0-1,/match/sampdoria/piacenza/2001,2001,17,serie_b,20,38,2,0,1,7,6,8,2,21,15,WLDDWLDWDWLDDDWD,4,3,1,11,7,9,7,4,5,19,14,LWLLWDWWWWDDDWWW,2,2,4,5,8,WDLWWDDW,LLWWWDDW
+Ravenna FC,Ancona,1-0,/match/ravenna-calcio/ancona/2001,2001,17,serie_b,20,38,0,1,0,18,1,8,7,14,27,DWLDLDDWDLWDDWDL,0,5,3,6,13,4,7,5,4,21,16,LWWDDWWWLWWWDWDD,2,2,4,9,12,DLLDLDDD,LWWWLWDD
+Pistoiese,Cosenza Calcio,1-1,/match/pistoiese/fortitudo-cosenza/2001,2001,17,serie_b,20,38,1,1,1,17,4,5,7,18,21,LDDDLLWLDWWWWDLW,2,3,3,7,11,1,8,4,4,20,14,WWWDWWLWWWDWDLWD,1,3,3,6,9,DDLLWWDL,WDLWDDW
+Ternana Calcio,Cagliari,1-0,/match/ternana-calcio/cagliari/2001,2001,18,serie_b,20,38,0,1,0,3,7,6,4,24,19,WWWWDWDDWWWDWWWDD,7,1,0,17,4,4,7,7,3,28,16,WLWWDDWWDLDDWLLDD,3,3,2,15,11,WWWDWWWW,LWDWLDLD
+Piacenza,Pistoiese,1-0,/match/piacenza/pistoiese/2001,2001,18,serie_b,20,38,0,1,0,7,8,4,5,20,14,LWLLWDWWWWDDDWWWL,5,2,1,14,6,17,4,6,7,19,22,LDDDLLWLDWWWWDLWD,2,2,4,11,10,WLDWWDWW,LDLWDWWW
+Pescara,Crotone,1-2,/match/pescara-calcio/fc-crotone/2001,2001,18,serie_b,20,38,2,1,2,20,1,7,9,13,25,WLWLDDDDLDDWLDWLW,0,4,4,8,15,11,7,4,6,20,21,WWWLWDWLDLWWWWDLD,3,1,5,9,14,LLDDLDDL,WWWDLLWWL
+AC Monza,Sampdoria,0-4,/match/ac-monza-brianza-1912/sampdoria/2001,2001,18,serie_b,20,38,2,0,4,19,3,2,12,17,34,LWWLWLWWWLWDWDWLW,2,2,4,8,10,8,6,8,3,21,16,WLDDWLDWDWLDDDWDL,2,5,1,10,8,LWLWLDDL,LDWDDLDD
+Genoa,Treviso,0-0,/match/genoa/treviso/2001,2001,18,serie_b,20,38,1,0,0,13,4,7,6,19,20,WDDDLWDDWWWWWDWWD,4,3,1,14,9,16,4,7,6,18,22,WLWDWLWWDWLDDDDLD,2,2,4,9,12,DDLDWWWW,WWLWWDDL
+Cosenza Calcio,Torino,0-2,/match/fortitudo-cosenza/torino-fc/2001,2001,18,serie_b,20,38,2,0,2,2,8,5,4,21,15,WWWDWWLWWWDWDLWDD,7,1,1,14,5,10,7,4,6,19,21,LDLDWLDWWDWWWWLWW,2,2,4,11,15,WWWWWWWLD,DDLWWWWL
+Venezia,Ravenna FC,0-0,/match/venezia/ravenna-calcio/2001,2001,18,serie_b,20,38,1,0,0,6,7,8,2,27,20,LDLDDDDWLDLDWWLDW,2,6,0,14,10,18,2,8,7,15,27,DWLDLDDWDLWDDWDLW,1,3,4,8,14,DDDWDDWD,WDDWDWWL
+Siena,Cittadella,1-1,/match/siena/as-cittadella/2001,2001,18,serie_b,20,38,1,1,1,9,6,7,4,25,21,WDWLDWDWLDWWWDDWD,5,2,1,16,6,14,3,9,5,20,24,LDWDDDDWWWDDWWDWD,0,4,4,5,12,WWDDLWWW,DDDWWWDW
+Salernitana,Chievo,1-1,/match/salernitana-calcio-1919/chievo/2001,2001,18,serie_b,20,38,1,1,1,15,5,5,7,18,18,DLWWLWWDWWLWWDDLD,4,1,3,11,6,1,9,4,4,24,15,WWWLDDDWWWWDLLWWW,2,3,3,6,6,LWWWLWDL,WLDDWDLW
+Ancona,Empoli,1-0,/match/ancona/empoli-fc/2001,2001,18,serie_b,20,38,0,1,0,5,7,5,5,21,17,LWWDDWWWLWWWDWDDW,5,3,0,12,4,12,7,3,7,19,21,LLDWWLLWWWDWWLDWW,2,2,4,7,10,WDDWWWWD,LWLWDWDW
+Torino,Salernitana,2-0,/match/torino-fc/salernitana-calcio-1919/2001,2001,19,serie_b,20,38,0,2,0,10,8,4,6,21,21,LDLDWLDWWDWWWWLWWL,5,2,2,8,6,15,5,6,7,19,19,DLWWLWWDWWLWWDDLDD,1,4,4,7,12,LLWDDWWWW,DWLWDWWDD
+Ravenna FC,Cosenza Calcio,0-1,/match/ravenna-calcio/fortitudo-cosenza/2001,2001,19,serie_b,20,38,2,0,1,18,2,9,7,15,27,DWLDLDDWDLWDDWDLWD,1,5,3,7,13,3,8,5,5,21,17,WWWDWWLWWWDWDLWDDL,1,4,3,7,10,DLLDLDDDW,WDLWDDWD
+Pistoiese,AC Monza,3-1,/match/pistoiese/ac-monza-brianza-1912/2001,2001,19,serie_b,20,38,0,3,1,17,4,6,8,19,23,LDDDLLWLDWWWWDLWDW,2,4,3,8,12,19,3,2,13,17,38,LWWLWLWWWLWDWDWLWL,1,0,8,9,24,DDLLWWDLD,WLWWWWWWW
+Empoli,Venezia,2-3,/match/empoli-fc/venezia/2001,2001,19,serie_b,20,38,2,2,3,12,7,3,8,19,22,LLDWWLLWWWDWWLDWWW,5,1,3,12,11,6,7,9,2,27,20,LDLDDDDWLDLDWWLDWD,5,2,2,13,10,LDWLWWWLW,LLDDLLWLW
+Cittadella,Ancona,2-0,/match/as-cittadella/ancona/2001,2001,19,serie_b,20,38,0,2,0,14,3,10,5,21,25,LDWDDDDWWWDDWWDWDD,3,5,1,15,12,4,8,5,5,22,17,LWWDDWWWLWWWDWDDWW,2,2,5,9,13,LWDDWDDWD,LWWWLWDDW
+Chievo,Siena,2-1,/match/chievo/siena/2001,2001,19,serie_b,20,38,0,2,1,2,9,5,4,25,16,WWWLDDDWWWWDLLWWWD,7,1,1,18,9,9,6,8,4,26,22,WDWLDWDWLDWWWDDWDD,1,5,3,9,15,WWDWWWLWW,DLWWDWDDD
+Cagliari,Genoa,3-0,/match/cagliari/genoa/2001,2001,19,serie_b,20,38,0,3,0,7,7,7,4,28,17,WLWWDDWWDLDDWLLDDW,4,4,1,13,5,13,4,8,6,19,20,WDDDLWDDWWWWWDWWDD,0,4,5,5,11,WWDWDDWLD,WDWDWWDWD
+Treviso,Piacenza,0-3,/match/treviso/piacenza/2001,2001,19,serie_b,20,38,2,0,3,16,4,8,6,18,22,WLWDWLWWDWLDDDDLDD,2,5,2,9,10,5,9,4,5,21,14,LWLLWDWWWWDDDWWWLW,3,2,4,6,8,LDWWDLDDD,LLWWWDDWL
+Sampdoria,Pescara,1-1,/match/sampdoria/pescara-calcio/2001,2001,19,serie_b,20,38,1,1,1,8,7,8,3,25,16,WLDDWLDWDWLDDDWDLL,4,3,2,11,8,20,1,7,10,14,27,WLWLDDDDLDDWLDWLWL,1,3,5,5,10,WDLWWDDWL,WWDDDWLWW
+Crotone,Ternana Calcio,0-2,/match/fc-crotone/ternana-calcio/2001,2001,19,serie_b,20,38,2,0,2,11,8,4,6,22,22,WWWLWDWLDLWWWWDLDL,4,3,1,11,7,1,8,6,4,25,19,WWWWDWDDWWWDWWWDDW,0,5,4,7,15,WLWDWWDD,WWDDWDWDD
+Genoa,Chievo,0-1,/match/genoa/chievo/2001,2001,20,serie_b,20,38,2,0,1,13,4,8,7,19,23,WDDDLWDDWWWWWDWWDDW,4,4,1,14,9,1,10,5,4,27,17,WWWLDDDWWWWDLLWWWDW,2,4,3,7,7,DDLDWWWWD,WLDDWDLWD
+Ternana Calcio,Sampdoria,1-1,/match/ternana-calcio/sampdoria/2001,2001,20,serie_b,20,38,1,1,1,2,9,6,4,27,19,WWWWDWDDWWWDWWWDDWL,8,1,0,18,4,9,7,9,3,26,17,WLDDWLDWDWLDDDWDLLD,3,5,1,14,8,WWWDWWWWW,LDWDDLDDL
+Salernitana,Ravenna FC,1-0,/match/salernitana-calcio-1919/ravenna-calcio/2001,2001,20,serie_b,20,38,0,1,0,15,5,6,8,19,21,DLWWLWWDWWLWWDDLDDW,4,2,3,12,7,18,2,9,8,15,28,DWLDLDDWDLWDDWDLWDL,1,4,4,8,14,LWWWLWDLD,WDDWDWWLD
+Venezia,AC Monza,4-1,/match/venezia/ac-monza-brianza-1912/2001,2001,20,serie_b,20,38,0,4,1,7,8,9,2,30,22,LDLDDDDWLDLDWWLDWDL,2,7,0,14,10,19,3,2,14,18,41,LWWLWLWWWLWDWDWLWLW,1,0,9,10,27,DDDWDDWDD,WLWWWWWWWW
+Pescara,Cosenza Calcio,0-0,/match/pescara-calcio/fortitudo-cosenza/2001,2001,20,serie_b,20,38,1,0,0,20,1,8,10,15,28,WLWLDDDDLDDWLDWLWLD,0,4,5,9,17,3,9,5,5,22,17,WWWDWWLWWWDWDLWDDLL,2,4,3,8,10,LLDDLDDLL,WDLWDDWDL
+Piacenza,Cittadella,3-0,/match/piacenza/as-cittadella/2001,2001,20,serie_b,20,38,0,3,0,4,10,4,5,24,14,LWLLWDWWWWDDDWWWLWL,6,2,1,15,6,11,4,10,5,23,25,LDWDDDDWWWDDWWDWDDW,0,5,4,6,13,WLDWWDWWW,DDDWWWDWD
+Crotone,Cagliari,2-1,/match/fc-crotone/cagliari/2001,2001,20,serie_b,20,38,0,2,1,12,8,4,7,22,24,WWWLWDWLDLWWWWDLDLL,4,3,2,11,9,5,8,7,4,31,17,WLWWDDWWDLDDWLLDDWW,3,3,3,15,12,WLWDWWDDL,LWDWLDLDW
+Ancona,Torino,1-2,/match/ancona/torino-fc/2001,2001,20,serie_b,20,38,2,1,2,6,8,5,6,22,19,LWWDDWWWLWWWDWDDWWW,6,3,0,13,4,8,9,4,6,23,21,LDLDWLDWWDWWWWLWWLW,3,2,4,13,15,WDDWWWWDW,DDLWWWWLL
+Treviso,Siena,1-0,/match/treviso/siena/2001,2001,20,serie_b,20,38,0,1,0,17,4,8,7,18,25,WLWDWLWWDWLDDDDLDDL,2,5,3,9,13,10,6,8,5,27,24,WDWLDWDWLDWWWDDWDDW,1,5,4,10,17,LDWWDLDDDL,DLWWDWDDDW
+Pistoiese,Empoli,1-2,/match/pistoiese/empoli-fc/2001,2001,20,serie_b,20,38,2,1,2,16,5,6,8,22,24,LDDDLLWLDWWWWDLWDWW,3,4,3,11,13,14,7,3,9,21,25,LLDWWLLWWWDWWLDWWWL,2,2,5,7,11,DDLLWWDLDW,LWLWDWDWW
+Cosenza Calcio,Piacenza,2-1,/match/fortitudo-cosenza/piacenza/2001,2001,21,serie_b,20,38,0,2,1,5,9,6,5,22,17,WWWDWWLWWWDWDLWDDLLD,7,1,2,14,7,3,11,4,5,27,14,LWLLWDWWWWDDDWWWLWLW,4,2,4,9,8,WWWWWWWLDL,LLWWWDDWLL
+Cagliari,Treviso,3-2,/match/cagliari/treviso/2001,2001,21,serie_b,20,38,0,3,2,7,8,7,5,32,19,WLWWDDWWDLDDWLLDDWWW,5,4,1,16,5,15,5,8,7,19,25,WLWDWLWWDWLDDDDLDDLW,2,3,4,9,12,WWDWDDWLDW,WWLWWDDLD
+Chievo,Ternana Calcio,2-1,/match/chievo/ternana-calcio/2001,2001,21,serie_b,20,38,0,2,1,1,11,5,4,28,17,WWWLDDDWWWWDLLWWWDWL,8,1,1,20,10,2,9,7,4,28,20,WWWWDWDDWWWDWWWDDWLD,1,5,4,9,15,WWDWWWLWWW,WWDDWDWDDL
+Torino,Pistoiese,2-0,/match/torino-fc/pistoiese/2001,2001,21,serie_b,20,38,0,2,0,6,10,4,6,25,22,LDLDWLDWWDWWWWLWWLWL,6,2,2,10,6,17,5,6,9,23,26,LDDDLLWLDWWWWDLWDWWL,2,2,5,11,11,LLWDDWWWWW,LDLWDWWWW
+Empoli,Pescara,2-1,/match/empoli-fc/pescara-calcio/2001,2001,21,serie_b,20,38,0,2,1,13,8,3,9,23,26,LLDWWLLWWWDWWLDWWWLL,5,1,4,14,14,19,1,9,10,15,28,WLWLDDDDLDDWLDWLWLDD,1,4,5,6,11,LDWLWWWLWL,WWDDDWLWWD
+Siena,Genoa,1-0,/match/siena/genoa/2001,2001,21,serie_b,20,38,0,1,0,11,6,8,6,27,25,WDWLDWDWLDWWWDDWDDWW,5,3,1,17,7,16,4,8,8,19,24,WDDDLWDDWWWWWDWWDDWL,0,4,6,5,14,WWDDLWWWD,WDWDWWDWDW
+Ravenna FC,Crotone,1-2,/match/ravenna-calcio/fc-crotone/2001,2001,21,serie_b,20,38,2,1,2,18,2,9,9,15,29,DWLDLDDWDLWDDWDLWDLW,1,5,4,7,14,10,9,4,7,24,25,WWWLWDWLDLWWWWDLDLLW,4,1,5,11,15,DLLDLDDDWL,WWWDLLWWLL
+AC Monza,Ancona,1-1,/match/ac-monza-brianza-1912/ancona/2001,2001,21,serie_b,20,38,1,1,1,20,3,2,15,19,45,LWWLWLWWWLWDWDWLWLWW,2,2,5,8,14,8,8,5,7,23,21,LWWDDWWWLWWWDWDDWWWL,2,2,6,9,15,LWLWLDDLL,LWWWLWDDWW
+Cittadella,Venezia,2-1,/match/as-cittadella/venezia/2001,2001,21,serie_b,20,38,0,2,1,12,4,10,6,23,28,LDWDDDDWWWDDWWDWDDWW,4,5,1,17,12,4,9,9,2,34,23,LDLDDDDWLDLDWWLDWDLW,6,2,2,16,12,LWDDWDDWDW,LLDDLLWLWL
+Sampdoria,Salernitana,2-0,/match/sampdoria/salernitana-calcio-1919/2001,2001,21,serie_b,20,38,0,2,0,9,7,10,3,27,18,WLDDWLDWDWLDDDWDLLDD,4,4,2,12,9,14,6,6,8,20,21,DLWWLWWDWWLWWDDLDDWW,1,4,5,7,14,WDLWWDDWLD,DWLWDWWDDW
+Pescara,Cagliari,0-0,/match/pescara-calcio/cagliari/2001,2001,22,serie_b,20,38,1,0,0,19,1,9,11,16,30,WLWLDDDDLDDWLDWLWLDDW,0,5,5,9,17,6,9,7,5,35,21,WLWWDDWWDLDDWLLDDWWWW,3,3,4,16,14,LLDDLDDLLD,LWDWLDLDWW
+Ancona,Siena,2-1,/match/ancona/siena/2001,2001,22,serie_b,20,38,0,2,1,11,8,6,7,24,22,LWWDDWWWLWWWDWDDWWWLD,6,3,1,14,6,10,7,8,6,28,25,WDWLDWDWLDWWWDDWDDWWW,1,5,5,10,18,WDDWWWWDWL,DLWWDWDDDWW
+Pistoiese,Sampdoria,3-1,/match/pistoiese/sampdoria/2001,2001,22,serie_b,20,38,0,3,1,17,5,6,10,23,28,LDDDLLWLDWWWWDLWDWWLW,3,4,4,12,15,8,8,10,3,29,18,WLDDWLDWDWLDDDWDLLDDW,3,6,1,15,9,DDLLWWDLDWL,LDWDDLDDLD
+Piacenza,Ravenna FC,1-0,/match/piacenza/ravenna-calcio/2001,2001,22,serie_b,20,38,0,1,0,4,11,4,6,28,16,LWLLWDWWWWDDDWWWLWLWW,7,2,1,18,6,18,2,9,10,16,31,DWLDLDDWDLWDDWDLWDLWL,1,4,5,8,15,WLDWWDWWWW,WDDWDWWLDW
+Salernitana,AC Monza,2-0,/match/salernitana-calcio-1919/ac-monza-brianza-1912/2001,2001,22,serie_b,20,38,0,2,0,14,6,6,9,20,23,DLWWLWWDWWLWWDDLDDWWW,5,2,3,13,7,20,3,3,15,20,46,LWWLWLWWWLWDWDWLWLWWD,1,0,10,11,31,LWWWLWDLDW,WLWWWWWWWWW
+Genoa,Empoli,1-2,/match/genoa/empoli-fc/2001,2001,22,serie_b,20,38,2,1,2,16,4,8,9,19,25,WDDDLWDDWWWWWDWWDDWLW,4,4,2,14,10,13,9,3,9,25,27,LLDWWLLWWWDWWLDWWWLLW,3,2,5,9,12,DDLDWWWWDL,LWLWDWDWWL
+Crotone,Cosenza Calcio,1-2,/match/fc-crotone/fortitudo-cosenza/2001,2001,22,serie_b,20,38,2,1,2,9,10,4,7,26,26,WWWLWDWLDLWWWWDLDLLWL,5,3,2,13,10,2,10,6,5,24,18,WWWDWWLWWWDWDLWDDLLDW,2,5,3,8,10,WLWDWWDDLW,WDLWDDWDLD
+Ternana Calcio,Cittadella,4-1,/match/ternana-calcio/as-cittadella/2001,2001,22,serie_b,20,38,0,4,1,3,9,7,5,29,22,WWWWDWDDWWWDWWWDDWLDW,8,2,0,19,5,12,5,10,6,25,29,LDWDDDDWWWDDWWDWDDWWW,0,5,5,6,16,WWWDWWWWWD,DDDWWWDWDW
+Treviso,Chievo,0-2,/match/treviso/chievo/2001,2001,22,serie_b,20,38,2,0,2,15,5,8,8,21,28,WLWDWLWWDWLDDDDLDDLWW,3,5,3,10,13,1,12,5,4,30,18,WWWLDDDWWWWDLLWWWDWLW,3,4,3,8,7,LDWWDLDDDLW,WLDDWDLWDL
+Venezia,Torino,1-0,/match/venezia/torino-fc/2001,2001,22,serie_b,20,38,0,1,0,7,9,9,3,35,25,LDLDDDDWLDLDWWLDWDLWW,3,7,0,18,11,5,11,4,6,27,22,LDLDWLDWWDWWWWLWWLWLW,4,2,4,15,16,DDDWDDWDDW,DDLWWWWLLL
+AC Monza,Pescara,1-0,/match/ac-monza-brianza-1912/pescara-calcio/2001,2001,23,serie_b,20,38,0,1,0,20,3,3,16,20,48,LWWLWLWWWLWDWDWLWLWWDW,2,3,5,9,15,19,1,10,11,16,30,WLWLDDDDLDDWLDWLWLDDWD,1,4,6,7,13,LWLWLDDLLD,WWDDDWLWWDW
+Cosenza Calcio,Venezia,1-0,/match/fortitudo-cosenza/venezia/2001,2001,23,serie_b,20,38,0,1,0,4,11,6,5,26,19,WWWDWWLWWWDWDLWDDLLDWL,8,1,2,16,8,5,10,9,3,36,25,LDLDDDDWLDLDWWLDWDLWWW,6,2,3,17,14,WWWWWWWLDLW,LLDDLLWLWLW
+Torino,Treviso,1-0,/match/torino-fc/treviso/2001,2001,23,serie_b,20,38,0,1,0,6,11,4,7,27,23,LDLDWLDWWDWWWWLWWLWLWW,7,2,2,12,6,16,5,8,9,21,30,WLWDWLWWDWLDDDDLDDLWWL,2,3,5,11,15,LLWDDWWWWWW,WWLWWDDLDW
+Cagliari,Salernitana,1-1,/match/cagliari/salernitana-calcio-1919/2001,2001,23,serie_b,20,38,1,1,1,7,9,8,5,35,21,WLWWDDWWDLDDWLLDDWWWWD,6,4,1,19,7,14,7,6,9,22,23,DLWWLWWDWWLWWDDLDDWWWW,1,4,6,7,16,WWDWDDWLDWW,DWLWDWWDDWW
+Cittadella,Pistoiese,2-1,/match/as-cittadella/pistoiese/2001,2001,23,serie_b,20,38,0,2,1,13,5,10,7,26,33,LDWDDDDWWWDDWWDWDDWWWW,5,5,1,19,13,15,6,6,10,26,29,LDDDLLWLDWWWWDLWDWWLWW,2,2,6,11,13,LWDDWDDWDWW,LDLWDWWWWW
+Siena,Piacenza,0-0,/match/siena/piacenza/2001,2001,23,serie_b,20,38,1,0,0,11,7,8,7,29,27,WDWLDWDWLDWWWDDWDDWWWW,6,3,1,18,7,3,12,4,6,29,16,LWLLWDWWWWDDDWWWLWLWWW,4,2,5,10,10,WWDDLWWWDW,LLWWWDDWLLW
+Ravenna FC,Genoa,1-1,/match/ravenna-calcio/genoa/2001,2001,23,serie_b,20,38,1,1,1,18,2,9,11,16,32,DWLDLDDWDLWDDWDLWDLWLW,1,5,5,8,16,17,4,8,10,20,27,WDDDLWDDWWWWWDWWDDWLWL,0,4,7,5,15,DLLDLDDDWLL,WDWDWWDWDWW
+Chievo,Crotone,3-1,/match/chievo/fc-crotone/2001,2001,23,serie_b,20,38,0,3,1,1,13,5,4,32,18,WWWLDDDWWWWDLLWWWDWLWL,9,1,1,22,11,10,10,4,8,27,28,WWWLWDWLDLWWWWDLDLLWLL,5,1,5,13,16,WWDWWWLWWWW,WWWDLLWWLLL
+Sampdoria,Ancona,3-1,/match/sampdoria/ancona/2001,2001,23,serie_b,20,38,0,3,1,9,8,10,4,30,21,WLDDWLDWDWLDDDWDLLDDWW,5,4,2,14,9,8,9,6,7,26,23,LWWDDWWWLWWWDWDDWWWLDW,2,3,6,10,16,WDLWWDDWLDW,LWWWLWDDWWD
+Empoli,Ternana Calcio,0-0,/match/empoli-fc/ternana-calcio/2001,2001,23,serie_b,20,38,1,0,0,12,10,3,9,27,28,LLDWWLLWWWDWWLDWWWLLWL,6,1,4,16,15,2,10,7,5,33,23,WWWWDWDDWWWDWWWDDWLDWW,1,5,5,10,17,LDWLWWWLWLW,WWDDWDWDDLW
+Venezia,Ancona,2-1,/match/venezia/ancona/2001,2001,24,serie_b,20,38,0,2,1,6,10,9,4,36,26,LDLDDDDWLDLDWWLDWDLWWWW,4,7,0,19,11,9,9,6,8,27,26,LWWDDWWWLWWWDWDDWWWLDWW,2,3,7,11,19,DDDWDDWDDWW,LWWWLWDDWWDW
+Crotone,Treviso,4-3,/match/fc-crotone/treviso/2001,2001,24,serie_b,20,38,0,4,3,13,10,4,9,28,31,WWWLWDWLDLWWWWDLDLLWLLW,5,3,3,14,12,16,5,8,10,21,31,WLWDWLWWDWLDDDDLDDLWWLW,2,3,6,11,16,WLWDWWDDLWL,WWLWWDDLDWW
+Sampdoria,Torino,2-0,/match/sampdoria/torino-fc/2001,2001,24,serie_b,20,38,0,2,0,8,9,10,4,33,22,WLDDWLDWDWLDDDWDLLDDWWW,6,4,2,17,10,5,12,4,7,28,23,LDLDWLDWWDWWWWLWWLWLWWW,4,2,5,15,17,WDLWWDDWLDWW,DDLWWWWLLLW
+Ternana Calcio,Siena,4-0,/match/ternana-calcio/siena/2001,2001,24,serie_b,20,38,0,4,0,3,10,8,5,33,23,WWWWDWDDWWWDWWWDDWLDWWD,9,2,0,23,6,11,7,9,7,29,27,WDWLDWDWLDWWWDDWDDWWWWD,1,5,6,11,20,WWWDWWWWWDW,DLWWDWDDDWWW
+Pistoiese,Ravenna FC,2-2,/match/pistoiese/ravenna-calcio/2001,2001,24,serie_b,20,38,1,2,2,15,6,6,11,27,31,LDDDLLWLDWWWWDLWDWWLWWW,4,4,4,15,16,18,2,10,11,17,33,DWLDLDDWDLWDDWDLWDLWLWD,1,4,6,8,16,DDLLWWDLDWLW,WDDWDWWLDWW
+Piacenza,Empoli,2-0,/match/piacenza/empoli-fc/2001,2001,24,serie_b,20,38,0,2,0,4,12,5,6,29,16,LWLLWDWWWWDDDWWWLWLWWWD,8,2,1,19,6,12,10,4,9,27,28,LLDWWLLWWWDWWLDWWWLLWLD,4,2,5,11,13,WLDWWDWWWWW,LWLWDWDWWLL
+AC Monza,Cosenza Calcio,4-2,/match/ac-monza-brianza-1912/fortitudo-cosenza/2001,2001,24,serie_b,20,38,0,4,2,19,4,3,16,21,48,LWWLWLWWWLWDWDWLWLWWDWW,3,3,5,10,15,2,12,6,5,27,19,WWWDWWLWWWDWDLWDDLLDWLW,3,5,3,10,11,LWLWLDDLLDW,WDLWDDWDLDL
+Pescara,Cittadella,2-0,/match/pescara-calcio/as-cittadella/2001,2001,24,serie_b,20,38,0,2,0,20,1,10,12,16,31,WLWLDDDDLDDWLDWLWLDDWDW,0,6,5,9,17,10,6,10,7,28,34,LDWDDDDWWWDDWWDWDDWWWWW,0,5,6,7,20,LLDDLDDLLDD,DDDWWWDWDWW
+Chievo,Cagliari,2-1,/match/chievo/cagliari/2001,2001,24,serie_b,20,38,0,2,1,1,14,5,4,35,19,WWWLDDDWWWWDLLWWWDWLWLW,10,1,1,25,12,7,9,9,5,36,22,WLWWDDWWDLDDWLLDDWWWWDD,3,4,4,16,14,WWDWWWLWWWWW,LWDWLDLDWWD
+Salernitana,Genoa,0-1,/match/salernitana-calcio-1919/genoa/2001,2001,24,serie_b,20,38,2,0,1,14,7,7,9,23,24,DLWWLWWDWWLWWDDLDDWWWWD,6,2,3,15,7,17,4,9,10,21,28,WDDDLWDDWWWWWDWWDDWLWLD,0,5,7,6,16,LWWWLWDLDWW,WDWDWWDWDWWD
+Empoli,Sampdoria,0-0,/match/empoli-fc/sampdoria/2001,2001,25,serie_b,20,38,1,0,0,13,10,4,10,27,30,LLDWWLLWWWDWWLDWWWLLWLDW,6,2,4,16,15,6,10,10,4,35,22,WLDDWLDWDWLDDDWDLLDDWWWW,3,6,2,16,12,LDWLWWWLWLWD,LDWDDLDDLDW
+Crotone,Venezia,2-2,/match/fc-crotone/venezia/2001,2001,25,serie_b,20,38,1,2,2,10,11,4,9,32,34,WWWLWDWLDLWWWWDLDLLWLLWW,6,3,3,18,15,5,11,9,4,38,27,LDLDDDDWLDLDWWLDWDLWWWWW,6,2,4,17,15,WLWDWWDDLWLW,LLDDLLWLWLWW
+Genoa,Ternana Calcio,2-2,/match/genoa/ternana-calcio/2001,2001,25,serie_b,20,38,1,2,2,16,5,9,10,22,28,WDDDLWDDWWWWWDWWDDWLWLDL,4,4,3,15,12,2,11,8,5,37,23,WWWWDWDDWWWDWWWDDWLDWWDW,1,6,5,10,17,DDLDWWWWDLL,WWDDWDWDDLWD
+Siena,Salernitana,0-0,/match/siena/salernitana-calcio-1919/2001,2001,25,serie_b,20,38,1,0,0,11,7,9,8,29,31,WDWLDWDWLDWWWDDWDDWWWWDW,6,4,1,18,7,14,7,7,10,23,25,DLWWLWWDWWLWWDDLDDWWWWDL,1,5,6,8,17,WWDDLWWWDWD,DWLWDWWDDWWD
+Treviso,Pistoiese,1-2,/match/treviso/pistoiese/2001,2001,25,serie_b,20,38,2,1,2,17,5,8,11,24,35,WLWDWLWWDWLDDDDLDDLWWLWW,3,5,4,10,15,15,6,7,11,29,33,LDDDLLWLDWWWWDLWDWWLWWWD,2,2,7,12,15,LDWWDLDDDLWL,LDLWDWWWWWW
+Cagliari,Piacenza,0-0,/match/cagliari/piacenza/2001,2001,25,serie_b,20,38,1,0,0,8,9,9,6,37,24,WLWWDDWWDLDDWLLDDWWWWDDW,6,5,1,20,8,3,13,5,6,31,16,LWLLWDWWWWDDDWWWLWLWWWDW,4,3,5,10,10,WWDWDDWLDWWD,LLWWWDDWLLWD
+Ravenna FC,Pescara,2-3,/match/ravenna-calcio/pescara-calcio/2001,2001,25,serie_b,20,38,2,2,3,19,2,11,11,19,35,DWLDLDDWDLWDDWDLWDLWLWDD,1,6,5,9,17,20,2,10,12,18,31,WLWLDDDDLDDWLDWLWLDDWDWW,1,4,7,7,14,DLLDLDDDWLLD,WWDDDWLWWDWW
+Torino,AC Monza,2-1,/match/torino-fc/ac-monza-brianza-1912/2001,2001,25,serie_b,20,38,0,2,1,7,12,4,8,28,25,LDLDWLDWWDWWWWLWWLWLWWWW,8,2,2,13,6,18,5,3,16,25,50,LWWLWLWWWLWDWDWLWLWWDWWW,1,0,11,11,33,LLWDDWWWWWWW,WLWWWWWWWWWW
+Ancona,Cosenza Calcio,3-1,/match/ancona/fortitudo-cosenza/2001,2001,25,serie_b,20,38,0,3,1,9,9,6,9,28,28,LWWDDWWWLWWWDWDDWWWLDWWW,7,3,1,16,7,4,12,6,6,29,23,WWWDWWLWWWDWDLWDDLLDWLWW,3,5,4,12,15,WDDWWWWDWLW,WDLWDDWDLDLW
+Cittadella,Chievo,0-0,/match/as-cittadella/chievo/2001,2001,25,serie_b,20,38,1,0,0,12,6,10,8,28,36,LDWDDDDWWWDDWWDWDDWWWWWW,6,5,1,21,14,1,15,5,4,37,20,WWWLDDDWWWWDLLWWWDWLWLWW,4,4,3,10,7,LWDDWDDWDWWW,WLDDWDLWDLL
+Piacenza,Crotone,1-2,/match/piacenza/fc-crotone/2001,2001,26,serie_b,20,38,2,1,2,3,13,6,6,31,16,LWLLWDWWWWDDDWWWLWLWWWDWD,9,2,1,21,6,10,11,5,9,34,36,WWWLWDWLDLWWWWDLDLLWLLWWD,5,1,6,14,19,WLDWWDWWWWWW,WWWDLLWWLLLW
+Salernitana,Treviso,0-1,/match/salernitana-calcio-1919/treviso/2001,2001,26,serie_b,20,38,2,0,1,14,7,8,10,23,25,DLWWLWWDWWLWWDDLDDWWWWDLD,6,2,4,15,8,17,5,8,12,25,37,WLWDWLWWDWLDDDDLDDLWWLWWL,2,3,7,14,20,LWWWLWDLDWWL,WWLWWDDLDWWW
+Pescara,Siena,0-0,/match/pescara-calcio/siena/2001,2001,26,serie_b,20,38,1,0,0,19,3,10,12,21,33,WLWLDDDDLDDWLDWLWLDDWDWWL,1,6,5,11,17,12,7,10,8,29,31,WDWLDWDWLDWWWDDWDDWWWWDWD,1,5,7,11,24,LLDDLDDLLDDW,DLWWDWDDDWWWW
+Chievo,Ravenna FC,0-0,/match/chievo/ravenna-calcio/2001,2001,26,serie_b,20,38,1,0,0,1,15,6,4,37,20,WWWLDDDWWWWDLLWWWDWLWLWWD,11,1,1,27,13,20,2,11,12,21,38,DWLDLDDWDLWDDWDLWDLWLWDDL,1,5,6,10,18,WWDWWWLWWWWWW,WDDWDWWLDWWD
+Venezia,Genoa,1-1,/match/venezia/genoa/2001,2001,26,serie_b,20,38,1,1,1,6,11,10,4,40,29,LDLDDDDWLDLDWWLDWDLWWWWWD,5,7,0,21,12,16,5,10,10,24,30,WDDDLWDDWWWWWDWWDDWLWLDLD,1,5,7,7,16,DDDWDDWDDWWW,WDWDWWDWDWWDL
+Cosenza Calcio,Empoli,1-1,/match/fortitudo-cosenza/empoli-fc/2001,2001,26,serie_b,20,38,1,1,1,5,12,6,7,30,26,WWWDWWLWWWDWDLWDDLLDWLWWW,9,1,2,17,8,13,10,5,10,27,30,LLDWWLLWWWDWWLDWWWLLWLDWD,4,2,6,11,15,WWWWWWWLDLWW,LWLWDWDWWLLW
+Sampdoria,Cittadella,2-0,/match/sampdoria/as-cittadella/2001,2001,26,serie_b,20,38,0,2,0,7,10,11,4,35,22,WLDDWLDWDWLDDDWDLLDDWWWWD,7,4,2,19,10,11,6,11,8,28,36,LDWDDDDWWWDDWWDWDDWWWWWWD,0,5,7,7,22,WDLWWDDWLDWWW,DDDWWWDWDWWW
+AC Monza,Cagliari,1-0,/match/ac-monza-brianza-1912/cagliari/2001,2001,26,serie_b,20,38,0,1,0,18,5,3,17,26,52,LWWLWLWWWLWDWDWLWLWWDWWWW,4,3,5,14,17,8,9,10,6,37,24,WLWWDDWWDLDDWLLDDWWWWDDWD,3,4,5,17,16,LWLWLDDLLDWW,LWDWLDLDWWDW
+Pistoiese,Ancona,1-1,/match/pistoiese/ancona/2001,2001,26,serie_b,20,38,1,1,1,15,7,7,11,31,34,LDDDLLWLDWWWWDLWDWWLWWWDL,4,5,4,17,18,9,10,6,9,31,29,LWWDDWWWLWWWDWDDWWWLDWWWW,2,3,8,12,21,DDLLWWDLDWLWD,LWWWLWDDWWDWW
+Ternana Calcio,Torino,0-1,/match/ternana-calcio/torino-fc/2001,2001,26,serie_b,20,38,2,0,1,2,11,9,5,39,25,WWWWDWDDWWWDWWWDDWLDWWDWD,10,2,0,27,6,4,13,4,8,30,26,LDLDWLDWWDWWWWLWWLWLWWWWW,4,2,6,15,19,WWWDWWWWWDWW,DDLWWWWLLLWW
+Treviso,Venezia,0-1,/match/treviso/venezia/2001,2001,27,serie_b,20,38,2,0,1,17,6,8,12,26,37,WLWDWLWWDWLDDDDLDDLWWLWWLL,3,5,5,11,17,7,11,11,4,41,30,LDLDDDDWLDLDWWLDWDLWWWWWDD,6,3,4,19,17,LDWWDLDDDLWLL,LLDDLLWLWLWWD
+Salernitana,Ternana Calcio,0-0,/match/salernitana-calcio-1919/ternana-calcio/2001,2001,27,serie_b,20,38,1,0,0,14,7,8,11,23,26,DLWWLWWDWWLWWDDLDDWWWWDLDL,6,2,5,15,9,3,11,9,6,39,26,WWWWDWDDWWWDWWWDDWLDWWDWDL,1,7,5,12,19,LWWWLWDLDWWLL,WWDDWDWDDLWDD
+Cagliari,Sampdoria,1-1,/match/cagliari/sampdoria/2001,2001,27,serie_b,20,38,1,1,1,8,9,10,7,37,25,WLWWDDWWDLDDWLLDDWWWWDDWDW,6,6,1,20,8,2,11,11,4,37,22,WLDDWLDWDWLDDDWDLLDDWWWWDW,3,7,2,16,12,WWDWDDWLDWWDD,LDWDDLDDLDWD
+Crotone,Pistoiese,1-0,/match/fc-crotone/pistoiese/2001,2001,27,serie_b,20,38,0,1,0,10,12,5,9,36,37,WWWLWDWLDLWWWWDLDLLWLLWWDL,6,4,3,20,17,15,7,8,11,32,35,LDDDLLWLDWWWWDLWDWWLWWWDLD,3,2,7,14,16,WLWDWWDDLWLWD,LDLWDWWWWWWL
+Torino,Piacenza,1-0,/match/torino-fc/piacenza/2001,2001,27,serie_b,20,38,0,1,0,5,14,4,8,31,26,LDLDWLDWWDWWWWLWWLWLWWWWWL,9,2,2,15,7,4,13,6,7,32,18,LWLLWDWWWWDDDWWWLWLWWWDWDL,4,4,5,10,10,LLWDDWWWWWWWW,LLWWWDDWLLWDD
+Genoa,Pescara,0-0,/match/genoa/pescara-calcio/2001,2001,27,serie_b,20,38,1,0,0,16,5,11,10,25,31,WDDDLWDDWWWWWDWWDDWLWLDLDD,4,5,3,17,14,19,3,11,12,21,33,WLWLDDDDLDDWLDWLWLDDWDWWLD,2,4,7,10,16,DDLDWWWWDLLD,WWDDDWLWWDWWL
+Cittadella,AC Monza,0-1,/match/as-cittadella/ac-monza-brianza-1912/2001,2001,27,serie_b,20,38,2,0,1,13,6,11,9,28,38,LDWDDDDWWWDDWWDWDDWWWWWWDW,6,6,1,21,14,18,6,3,17,27,52,LWWLWLWWWLWDWDWLWLWWDWWWWW,1,0,12,12,35,LWDDWDDWDWWWD,WLWWWWWWWWWWW
+Ravenna FC,Empoli,0-2,/match/ravenna-calcio/empoli-fc/2001,2001,27,serie_b,20,38,2,0,2,20,2,12,12,21,38,DWLDLDDWDLWDDWDLWDLWLWDDLD,1,6,6,11,20,12,10,6,10,28,31,LLDWWLLWWWDWWLDWWWLLWLDWDD,4,3,6,12,16,DLLDLDDDWLLDL,LWLWDWDWWLLWD
+Ancona,Chievo,5-2,/match/ancona/chievo/2001,2001,27,serie_b,20,38,0,5,2,9,10,7,9,32,30,LWWDDWWWLWWWDWDDWWWLDWWWWD,8,3,1,19,8,1,15,7,4,37,20,WWWLDDDWWWWDLLWWWDWLWLWWDD,4,5,3,10,7,WDDWWWWDWLWW,WLDDWDLWDLLD
+Siena,Cosenza Calcio,1-0,/match/siena/fortitudo-cosenza/2001,2001,27,serie_b,20,38,0,1,0,11,7,11,8,29,31,WDWLDWDWLDWWWDDWDDWWWWDWDD,6,5,1,18,7,6,12,7,7,31,27,WWWDWWLWWWDWDLWDDLLDWLWWWD,3,5,5,13,18,WWDDLWWWDWDD,WDLWDDWDLDLWW
+AC Monza,Ternana Calcio,1-1,/match/ac-monza-brianza-1912/ternana-calcio/2001,2001,28,serie_b,20,38,1,1,1,18,7,3,17,28,52,LWWLWLWWWLWDWDWLWLWWDWWWWWL,5,3,5,15,17,4,11,10,6,39,26,WWWWDWDDWWWDWWWDDWLDWWDWDLD,1,8,5,12,19,LWLWLDDLLDWWW,WWDDWDWDDLWDDD
+Pistoiese,Cagliari,4-2,/match/pistoiese/cagliari/2001,2001,28,serie_b,20,38,0,4,2,15,7,8,12,32,36,LDDDLLWLDWWWWDLWDWWLWWWDLDW,4,6,4,18,19,10,9,11,7,38,26,WLWWDDWWDLDDWLLDDWWWWDDWDWD,3,4,6,17,17,DDLLWWDLDWLWDD,LWDWLDLDWWDWW
+Ravenna FC,Treviso,1-1,/match/ravenna-calcio/treviso/2001,2001,28,serie_b,20,38,1,1,1,20,2,12,13,21,40,DWLDLDDWDLWDDWDLWDLWLWDDLDL,1,6,7,11,22,17,6,8,13,26,38,WLWDWLWWDWLDDDDLDDLWWLWWLLL,3,3,7,15,20,DLLDLDDDWLLDLL,WWLWWDDLDWWWL
+Venezia,Siena,3-0,/match/venezia/siena/2001,2001,28,serie_b,20,38,0,3,0,5,12,11,4,42,30,LDLDDDDWLDLDWWLDWDLWWWWWDDL,5,8,0,22,13,11,8,11,8,30,31,WDWLDWDWLDWWWDDWDDWWWWDWDDW,1,6,7,11,24,DDDWDDWDDWWWD,DLWWDWDDDWWWWD
+Piacenza,Salernitana,3-1,/match/piacenza/salernitana-calcio-1919/2001,2001,28,serie_b,20,38,0,3,1,6,13,6,8,32,19,LWLLWDWWWWDDDWWWLWLWWWDWDLW,9,2,2,22,8,14,7,9,11,23,26,DLWWLWWDWWLWWDDLDDWWWWDLDLD,1,6,6,8,17,WLDWWDWWWWWWL,DWLWDWWDDWWDD
+Ancona,Pescara,3-2,/match/ancona/pescara-calcio/2001,2001,28,serie_b,20,38,0,3,2,8,11,7,9,37,32,LWWDDWWWLWWWDWDDWWWLDWWWWDW,9,3,1,24,10,19,3,12,12,21,33,WLWLDDDDLDDWLDWLWLDDWDWWLDD,2,5,7,10,16,WDDWWWWDWLWWW,WWDDDWLWWDWWLD
+Cosenza Calcio,Genoa,1-0,/match/fortitudo-cosenza/genoa/2001,2001,28,serie_b,20,38,0,1,0,7,12,7,8,31,28,WWWDWWLWWWDWDLWDDLLDWLWWWDW,9,2,2,18,9,16,5,12,10,25,31,WDDDLWDDWWWWWDWWDDWLWLDLDDD,1,6,7,8,17,WWWWWWWLDLWWD,WDWDWWDWDWWDLD
+Sampdoria,Crotone,2-1,/match/sampdoria/fc-crotone/2001,2001,28,serie_b,20,38,0,2,1,3,11,12,4,38,23,WLDDWLDWDWLDDDWDLLDDWWWWDWD,8,4,2,21,10,9,13,5,9,37,37,WWWLWDWLDLWWWWDLDLLWLLWWDLW,6,1,6,16,20,WDLWWDDWLDWWWW,WWWDLLWWLLLWL
+Torino,Cittadella,2-2,/match/torino-fc/as-cittadella/2001,2001,28,serie_b,20,38,1,2,2,2,15,4,8,32,26,LDLDWLDWWDWWWWLWWLWLWWWWWLW,10,2,2,16,7,13,6,11,10,28,39,LDWDDDDWWWDDWWDWDDWWWWWWDWL,0,5,8,7,24,LLWDDWWWWWWWWW,DDDWWWDWDWWWW
+Empoli,Chievo,1-1,/match/empoli-fc/chievo/2001,2001,28,serie_b,20,38,1,1,1,12,11,6,10,30,31,LLDWWLLWWWDWWLDWWWLLWLDWDDL,6,3,4,16,15,1,15,7,5,39,25,WWWLDDDWWWWDLLWWWDWLWLWWDDW,4,5,4,12,12,LDWLWWWLWLWDD,WLDDWDLWDLLDW
+Cittadella,Cosenza Calcio,0-1,/match/as-cittadella/fortitudo-cosenza/2001,2001,29,serie_b,20,38,2,0,1,13,6,12,10,30,41,LDWDDDDWWWDDWWDWDDWWWWWWDWLD,6,6,2,21,15,7,13,7,8,32,28,WWWDWWLWWWDWDLWDDLLDWLWWWDWW,3,5,6,13,19,LWDDWDDWDWWWDL,WDLWDDWDLDLWWW
+Crotone,AC Monza,2-1,/match/fc-crotone/ac-monza-brianza-1912/2001,2001,29,serie_b,20,38,0,2,1,9,13,5,10,38,39,WWWLWDWLDLWWWWDLDLLWLLWWDLWW,7,4,3,21,17,18,7,4,17,29,53,LWWLWLWWWLWDWDWLWLWWDWWWWWLD,2,0,12,13,35,WLWDWWDDLWLWDW,WLWWWWWWWWWWWL
+Salernitana,Ancona,4-2,/match/salernitana-calcio-1919/ancona/2001,2001,29,serie_b,20,38,0,4,2,15,7,9,12,24,29,DLWWLWWDWWLWWDDLDDWWWWDLDLDW,6,3,5,15,9,8,12,7,9,40,34,LWWDDWWWLWWWDWDDWWWLDWWWWDWW,2,4,8,13,22,LWWWLWDLDWWLLD,LWWWLWDDWWDWWD
+Pescara,Venezia,2-3,/match/pescara-calcio/venezia/2001,2001,29,serie_b,20,38,2,2,3,19,3,12,13,23,36,WLWLDDDDLDDWLDWLWLDDWDWWLDDW,1,7,5,11,17,4,13,11,4,45,30,LDLDDDDWLDLDWWLDWDLWWWWWDDLW,7,3,4,20,17,LLDDLDDLLDDWD,LLDDLLWLWLWWDL
+Siena,Torino,0-2,/match/siena/torino-fc/2001,2001,29,serie_b,20,38,2,0,2,11,8,11,9,30,34,WDWLDWDWLDWWWDDWDDWWWWDWDDWW,7,5,1,19,7,2,15,5,8,34,28,LDLDWLDWWDWWWWLWWLWLWWWWWLWD,5,2,6,16,19,WWDDLWWWDWDDW,DDLWWWWLLLWWL
+Cagliari,Ravenna FC,2-0,/match/cagliari/ravenna-calcio/2001,2001,29,serie_b,20,38,0,2,0,10,9,11,8,40,30,WLWWDDWWDLDDWLLDDWWWWDDWDWDW,6,7,1,21,9,20,2,13,13,22,41,DWLDLDDWDLWDDWDLWDLWLWDDLDLD,1,6,6,10,18,WWDWDDWLDWWDDD,WDDWDWWLDWWDD
+Chievo,Pistoiese,1-1,/match/chievo/pistoiese/2001,2001,29,serie_b,20,38,1,1,1,1,15,8,5,40,26,WWWLDDDWWWWDLLWWWDWLWLWWDDWD,11,2,1,27,13,14,8,8,12,36,38,LDDDLLWLDWWWWDLWDWWLWWWDLDWW,3,2,8,14,17,WWDWWWLWWWWWWD,LDLWDWWWWWWLW
+Ternana Calcio,Piacenza,0-1,/match/ternana-calcio/piacenza/2001,2001,29,serie_b,20,38,2,0,1,6,11,11,6,40,27,WWWWDWDDWWWDWWWDDWLDWWDWDLDD,10,2,1,27,7,5,14,6,8,35,20,LWLLWDWWWWDDDWWWLWLWWWDWDLWW,4,4,6,10,11,WWWDWWWWWDWWL,LLWWWDDWLLWDDW
+Genoa,Sampdoria,2-0,/match/genoa/sampdoria/2001,2001,29,serie_b,20,38,0,2,0,16,5,12,11,25,32,WDDDLWDDWWWWWDWWDDWLWLDLDDDW,4,6,3,17,14,3,12,12,4,40,24,WLDDWLDWDWLDDDWDLLDDWWWWDWDW,3,8,2,17,13,DDLDWWWWDLLDD,LDWDDLDDLDWDD
+Treviso,Empoli,1-1,/match/treviso/empoli-fc/2001,2001,29,serie_b,20,38,1,1,1,17,6,9,13,27,39,WLWDWLWWDWLDDDDLDDLWWLWWLLLD,3,5,6,11,18,12,11,7,10,31,32,LLDWWLLWWWDWWLDWWWLLWLDWDDLD,5,3,6,14,16,LDWWDLDDDLWLLL,LWLWDWDWWLLWDL
+Torino,Chievo,0-0,/match/torino-fc/chievo/2001,2001,30,serie_b,20,38,1,0,0,2,16,5,8,36,28,LDLDWLDWWDWWWWLWWLWLWWWWWLWDL,10,3,2,18,9,1,15,9,5,41,27,WWWLDDDWWWWDLLWWWDWLWLWWDDWDD,4,6,4,13,13,LLWDDWWWWWWWWWD,WLDDWDLWDLLDWD
+Ancona,Crotone,2-0,/match/ancona/fc-crotone/2001,2001,30,serie_b,20,38,0,2,0,8,12,7,10,42,38,LWWDDWWWLWWWDWDDWWWLDWWWWDWWW,10,3,1,27,12,9,14,5,10,40,40,WWWLWDWLDLWWWWDLDLLWLLWWDLWWW,6,1,7,17,22,WDDWWWWDWLWWWW,WWWDLLWWLLLWLW
+Empoli,Cittadella,2-0,/match/empoli-fc/as-cittadella/2001,2001,30,serie_b,20,38,0,2,0,11,11,8,10,32,33,LLDWWLLWWWDWWLDWWWLLWLDWDDLDD,6,4,4,17,16,13,6,12,11,30,42,LDWDDDDWWWDDWWDWDDWWWWWWDWLDL,0,6,8,9,26,LDWLWWWLWLWDDD,DDDWWWDWDWWWWD
+Cosenza Calcio,Cagliari,1-3,/match/fortitudo-cosenza/cagliari/2001,2001,30,serie_b,20,38,2,1,3,6,14,7,8,33,28,WWWDWWLWWWDWDLWDDLLDWLWWWDWWL,10,2,2,19,9,10,10,11,8,42,30,WLWWDDWWDLDDWLLDDWWWWDDWDWDWW,3,4,7,19,21,WWWWWWWLDLWWDW,LWDWLDLDWWDWWW
+Sampdoria,Treviso,2-0,/match/sampdoria/treviso/2001,2001,30,serie_b,20,38,0,2,0,4,12,12,5,40,26,WLDDWLDWDWLDDDWDLLDDWWWWDWDWW,9,4,2,23,11,17,6,10,13,28,40,WLWDWLWWDWLDDDDLDDLWWLWWLLLDD,3,4,7,16,21,WDLWWDDWLDWWWWW,WWLWWDDLDWWWLD
+Pistoiese,Ternana Calcio,2-3,/match/pistoiese/ternana-calcio/2001,2001,30,serie_b,20,38,2,2,3,15,8,9,12,37,39,LDDDLLWLDWWWWDLWDWWLWWWDLDWWD,5,6,4,22,21,7,11,11,7,40,28,WWWWDWDDWWWDWWWDDWLDWWDWDLDDL,1,9,5,13,20,DDLLWWDLDWLWDDW,WWDDWDWDDLWDDDD
+Ravenna FC,Siena,2-1,/match/ravenna-calcio/siena/2001,2001,30,serie_b,20,38,0,2,1,20,2,13,14,22,43,DWLDLDDWDLWDDWDLWDLWLWDDLDLDW,1,7,7,12,23,12,8,11,10,30,36,WDWLDWDWLDWWWDDWDDWWWWDWDDWWL,1,6,8,11,27,DLLDLDDDWLLDLLD,DLWWDWDDDWWWWDW
+Venezia,Salernitana,2-0,/match/venezia/salernitana-calcio-1919/2001,2001,30,serie_b,20,38,0,2,0,3,14,11,4,48,32,LDLDDDDWLDLDWWLDWDLWWWWWDDLWL,6,8,0,25,13,14,8,9,12,28,31,DLWWLWWDWWLWWDDLDDWWWWDLDLDWW,1,6,7,9,20,DDDWDDWDDWWWDW,DWLWDWWDDWWDDW
+AC Monza,Genoa,1-5,/match/ac-monza-brianza-1912/genoa/2001,2001,30,serie_b,20,38,2,1,5,18,7,4,18,30,55,LWWLWLWWWLWDWDWLWLWWDWWWWWLDW,5,4,5,16,18,16,6,12,11,27,32,WDDDLWDDWWWWWDWWDDWLWLDLDDDWW,1,6,8,8,18,LWLWLDDLLDWWWD,WDWDWWDWDWWDLDW
+Piacenza,Pescara,2-1,/match/piacenza/pescara-calcio/2001,2001,30,serie_b,20,38,0,2,1,5,15,6,8,36,20,LWLLWDWWWWDDDWWWLWLWWWDWDLWWL,10,2,2,25,9,19,3,12,14,25,39,WLWLDDDDLDDWLDWLWLDDWDWWLDDWL,2,5,8,12,19,WLDWWDWWWWWWLW,WWDDDWLWWDWWLDW
+Piacenza,AC Monza,1-0,/match/piacenza/ac-monza-brianza-1912/2001,2001,31,serie_b,20,38,0,1,0,5,16,6,8,38,21,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLW,11,2,2,27,10,18,7,4,19,31,60,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWL,2,0,13,14,37,WLDWWDWWWWWWLWW,WLWWWWWWWWWWWLW
+Siena,Empoli,1-1,/match/siena/empoli-fc/2001,2001,31,serie_b,20,38,1,1,1,12,8,11,11,31,38,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLW,7,5,2,19,9,11,12,8,10,34,33,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDW,5,4,6,15,17,WWDDLWWWDWDDWL,LWLWDWDWWLLWDLD
+Salernitana,Cosenza Calcio,0-1,/match/salernitana-calcio-1919/fortitudo-cosenza/2001,2001,31,serie_b,20,38,2,0,1,14,8,9,13,28,33,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWW,7,3,5,19,11,7,14,7,9,34,31,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLL,4,5,6,14,19,LWWWLWDLDWWLLDW,WDLWDDWDLDLWWWL
+Treviso,Cittadella,1-2,/match/treviso/as-cittadella/2001,2001,31,serie_b,20,38,2,1,2,17,6,10,14,28,42,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDW,3,6,6,12,19,13,6,12,12,30,44,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLW,0,6,9,9,28,LDWWDLDDDLWLLLD,DDDWWWDWDWWWWDW
+Genoa,Ancona,3-1,/match/genoa/ancona/2001,2001,31,serie_b,20,38,0,3,1,15,7,12,11,32,33,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWL,5,6,3,19,14,6,13,7,10,44,38,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWW,2,4,9,15,26,DDLDWWWWDLLDDW,LWWWLWDDWWDWWDW
+Cagliari,Venezia,2-1,/match/cagliari/venezia/2001,2001,31,serie_b,20,38,0,2,1,9,11,11,8,45,31,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWL,7,7,1,23,9,2,15,11,4,50,32,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLW,8,3,4,23,19,WWDWDDWLDWWDDDW,LLDDLLWLWLWWDLL
+Crotone,Torino,0-1,/match/fc-crotone/torino-fc/2001,2001,31,serie_b,20,38,2,0,1,10,14,5,11,40,42,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWW,8,4,3,23,18,3,16,6,8,36,28,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLD,6,2,6,18,19,WLWDWWDDLWLWDWW,DDLWWWWLLLWWLL
+Chievo,Sampdoria,1-1,/match/chievo/sampdoria/2001,2001,31,serie_b,20,38,1,1,1,1,15,10,5,41,27,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDD,11,3,1,28,14,4,13,12,5,42,26,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWW,3,8,3,17,15,WWDWWWLWWWWWWDD,LDWDDLDDLDWDDW
+Ternana Calcio,Ravenna FC,4-0,/match/ternana-calcio/ravenna-calcio/2001,2001,31,serie_b,20,38,0,4,0,8,12,11,7,43,30,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLL,10,2,2,27,8,19,3,13,14,24,44,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWW,1,6,7,10,20,WWWDWWWWWDWWLL,WDDWDWWLDWWDDW
+Pescara,Pistoiese,0-1,/match/pescara-calcio/pistoiese/2001,2001,31,serie_b,20,38,2,0,1,20,3,12,15,26,41,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLW,1,7,6,13,20,16,8,9,13,39,42,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDL,3,3,8,15,18,LLDDLDDLLDDWDL,LDLWDWWWWWWLWD
+Empoli,Crotone,4-2,/match/empoli-fc/fc-crotone/2001,2001,32,serie_b,20,38,0,4,2,11,12,9,10,35,34,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDWD,7,4,4,19,16,10,14,5,12,40,43,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWWL,6,1,8,17,24,LDWLWWWLWLWDDDW,WWWDLLWWLLLWLWW
+Sampdoria,Ravenna FC,2-0,/match/sampdoria/ravenna-calcio/2001,2001,32,serie_b,20,38,0,2,0,5,13,13,5,43,27,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWWD,10,4,2,25,11,19,3,13,15,24,48,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWWW,1,6,8,10,24,WDLWWDDWLDWWWWWW,WDDWDWWLDWWDDWW
+Ancona,Piacenza,0-2,/match/ancona/piacenza/2001,2001,32,serie_b,20,38,2,0,2,8,13,7,11,45,41,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWWW,11,3,1,29,12,2,17,6,8,39,21,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLWW,5,4,6,11,11,WDDWWWWDWLWWWWW,LLWWWDDWLLWDDWL
+Torino,Genoa,1-1,/match/torino-fc/genoa/2001,2001,32,serie_b,20,38,1,1,1,3,17,6,8,37,28,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLDL,10,4,2,18,9,13,8,12,11,35,34,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWLW,2,6,8,13,19,LLWDDWWWWWWWWWDD,WDWDWWDWDWWDLDWL
+Pescara,Chievo,0-2,/match/pescara-calcio/chievo/2001,2001,32,serie_b,20,38,2,0,2,20,3,12,16,26,42,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLWL,1,7,7,13,21,1,15,11,5,42,28,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDDD,4,7,4,13,13,LLDDLDDLLDDWDLL,WLDDWDLWDLLDWDD
+Cittadella,Cagliari,2-0,/match/as-cittadella/cagliari/2001,2001,32,serie_b,20,38,0,2,0,14,7,12,12,32,45,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLWL,6,6,3,21,16,9,12,11,8,47,32,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWLW,4,4,7,22,22,LWDDWDDWDWWWDLL,LWDWLDLDWWDWWWL
+Cosenza Calcio,Treviso,3-2,/match/fortitudo-cosenza/treviso/2001,2001,32,serie_b,20,38,0,3,2,7,15,7,9,35,31,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLLL,10,2,3,20,12,17,6,10,15,29,44,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDWL,3,4,8,16,23,WWWWWWWLDLWWDWL,WWLWWDDLDWWWLDW
+AC Monza,Siena,1-2,/match/ac-monza-brianza-1912/siena/2001,2001,32,serie_b,20,38,2,1,2,18,7,4,20,31,61,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWLW,5,4,6,17,23,12,8,12,11,32,39,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLWD,1,6,9,12,29,LWLWLDDLLDWWWDL,DLWWDWDDDWWWWDWW
+Pistoiese,Salernitana,1-1,/match/pistoiese/salernitana-calcio-1919/2001,2001,32,serie_b,20,38,1,1,1,15,9,9,13,40,42,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDLL,5,6,5,24,24,16,8,9,14,28,34,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWWL,1,6,8,9,22,DDLLWWDLDWLWDDWL,DWLWDWWDDWWDDWW
+Venezia,Ternana Calcio,2-1,/match/venezia/ternana-calcio/2001,2001,32,serie_b,20,38,0,2,1,4,15,11,5,51,34,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLWW,7,8,0,27,13,6,13,11,7,47,30,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLLW,2,9,5,16,22,DDDWDDWDDWWWDWW,WWDDWDWDDLWDDDDL
+Cagliari,Empoli,2-3,/match/cagliari/empoli-fc/2001,2001,33,serie_b,20,38,2,2,3,9,12,11,9,47,34,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWLWW,8,7,1,25,10,10,13,9,10,39,36,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDWDW,5,5,6,16,18,WWDWDDWLDWWDDDWW,LWLWDWDWWLLWDLDD
+Salernitana,Pescara,3-1,/match/salernitana-calcio-1919/pescara-calcio/2001,2001,33,serie_b,20,38,0,3,1,16,8,10,14,29,35,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWWLD,7,3,6,19,12,20,3,12,17,26,44,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLWLL,2,5,9,13,21,LWWWLWDLDWWLLDWL,WWDDDWLWWDWWLDWW
+Treviso,AC Monza,3-0,/match/treviso/ac-monza-brianza-1912/2001,2001,33,serie_b,20,38,0,3,0,17,6,10,16,31,47,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDWLW,3,6,7,13,21,18,7,4,21,32,63,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWLWL,2,0,14,14,38,LDWWDLDDDLWLLLDL,WLWWWWWWWWWWWLWW
+Chievo,Cosenza Calcio,2-1,/match/chievo/fortitudo-cosenza/2001,2001,33,serie_b,20,38,0,2,1,1,16,11,5,44,28,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDDDL,11,4,1,29,15,6,16,7,9,38,33,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLLLW,5,5,6,15,19,WWDWWWLWWWWWWDDD,WDLWDDWDLDLWWWLL
+Crotone,Cittadella,2-2,/match/fc-crotone/as-cittadella/2001,2001,33,serie_b,20,38,1,2,2,11,14,5,13,42,47,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWWLW,8,4,4,23,19,13,8,12,12,34,45,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLWLW,1,6,9,11,29,WLWDWWDDLWLWDWWL,DDDWWWDWDWWWWDWL
+Ternana Calcio,Ancona,3-2,/match/ternana-calcio/ancona/2001,2001,33,serie_b,20,38,0,3,2,7,13,11,8,48,32,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLLWW,11,2,2,31,8,8,13,7,12,45,43,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWWWL,2,4,10,16,29,WWWDWWWWWDWWLLW,LWWWLWDDWWDWWDWW
+Piacenza,Venezia,1-0,/match/piacenza/venezia/2001,2001,33,serie_b,20,38,0,1,0,2,18,6,8,41,21,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLWWL,12,2,2,28,10,3,16,11,5,53,35,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLWWW,8,3,5,24,21,WLDWWDWWWWWWLWWW,LLDDLLWLWLWWDLLW
+Ravenna FC,Torino,1-2,/match/ravenna-calcio/torino-fc/2001,2001,33,serie_b,20,38,2,1,2,19,3,13,16,24,50,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWWWW,2,7,7,14,24,5,17,7,8,38,29,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLDLD,7,2,6,19,19,DLLDLDDDWLLDLLDW,DDLWWWWLLLWWLLL
+Genoa,Pistoiese,0-0,/match/genoa/pistoiese/2001,2001,33,serie_b,20,38,1,0,0,14,8,13,11,36,35,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWLWD,6,6,3,22,15,15,9,10,13,41,43,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDLLD,4,3,8,16,18,DDLDWWWWDLLDDWW,LDLWDWWWWWWLWDL
+Siena,Sampdoria,0-0,/match/siena/sampdoria/2001,2001,33,serie_b,20,38,1,0,0,12,9,12,11,34,40,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLWDL,7,6,2,20,10,4,14,13,5,45,27,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWWDW,3,9,3,18,16,WWDDLWWWDWDDWLD,LDWDDLDDLDWDDWD
+Torino,Cagliari,2-0,/match/torino-fc/cagliari/2001,2001,34,serie_b,20,38,0,2,0,4,18,7,8,40,30,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLDLDL,10,5,2,19,10,9,12,11,10,49,37,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWLWWL,4,4,8,22,24,LLWDDWWWWWWWWWDDD,LWDWLDLDWWDWWWLW
+Cittadella,Ravenna FC,1-0,/match/as-cittadella/ravenna-calcio/2001,2001,34,serie_b,20,38,0,1,0,13,8,13,12,36,47,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLWLWD,7,6,3,23,16,19,3,13,17,25,52,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWWWWL,1,6,9,10,26,LWDDWDDWDWWWDLLW,WDDWDWWLDWWDDWWW
+Venezia,Pistoiese,1-0,/match/venezia/pistoiese/2001,2001,34,serie_b,20,38,0,1,0,5,16,11,6,53,36,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLWWWW,8,8,0,29,14,16,9,11,13,41,43,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDLLDD,4,4,8,16,18,DDDWDDWDDWWWDWWW,LDLWDWWWWWWLWDLD
+Genoa,Piacenza,1-1,/match/genoa/piacenza/2001,2001,34,serie_b,20,38,1,1,1,14,8,14,11,36,35,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWLWDD,6,7,3,22,15,2,19,6,8,42,21,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLWWLW,6,4,6,13,11,DDLDWWWWDLLDDWWD,LLWWWDDWLLWDDWLL
+Siena,Crotone,1-1,/match/siena/fc-crotone/2001,2001,34,serie_b,20,38,1,1,1,12,9,13,11,34,40,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLWDLD,7,7,2,20,10,11,14,6,13,44,49,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWWLWD,6,1,9,19,28,WWDDLWWWDWDDWLDD,WWWDLLWWLLLWLWWW
+AC Monza,Chievo,1-3,/match/ac-monza-brianza-1912/chievo/2001,2001,34,serie_b,20,38,2,1,3,18,7,4,22,32,66,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWLWLW,5,4,7,18,25,1,17,11,5,46,29,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDDDLW,5,7,4,15,13,LWLWLDDLLDWWWDLL,WLDDWDLWDLLDWDDL
+Ancona,Treviso,3-1,/match/ancona/treviso/2001,2001,34,serie_b,20,38,0,3,1,8,13,7,13,47,46,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWWWLW,11,3,2,29,14,17,7,10,16,34,47,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDWLWW,3,4,9,18,26,WDDWWWWDWLWWWWWL,WWLWWDDLDWWWLDWW
+Pescara,Ternana Calcio,1-3,/match/pescara-calcio/ternana-calcio/2001,2001,34,serie_b,20,38,2,1,3,20,3,12,18,27,47,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLWLLW,1,7,8,13,23,6,14,11,8,51,34,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLLWWW,2,9,6,17,24,LLDDLDDLLDDWDLLL,WWDDWDWDDLWDDDDLW
+Cosenza Calcio,Sampdoria,4-4,/match/fortitudo-cosenza/sampdoria/2001,2001,34,serie_b,20,38,1,4,4,7,16,7,10,39,35,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLLLWW,11,2,3,23,14,3,14,14,5,45,27,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWWDWD,3,10,3,18,16,WWWWWWWLDLWWDWLW,LDWDDLDDLDWDDWDD
+Empoli,Salernitana,2-1,/match/empoli-fc/salernitana-calcio-1919/2001,2001,34,serie_b,20,38,0,2,1,10,14,9,10,42,38,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDWDWL,8,4,4,23,18,15,9,10,14,32,36,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWWLDW,1,7,8,10,23,LDWLWWWLWLWDDDWW,DWLWDWWDDWWDDWWD
+Crotone,Salernitana,0-1,/match/fc-crotone/salernitana-calcio-1919/2001,2001,35,serie_b,20,38,2,0,1,11,14,7,13,45,50,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWWLWDD,8,5,4,25,21,15,9,10,15,33,38,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWWLDWW,1,7,9,11,25,WLWDWWDDLWLWDWWLD,DWLWDWWDDWWDDWWDW
+Chievo,Piacenza,1-1,/match/chievo/piacenza/2001,2001,35,serie_b,20,38,1,1,1,1,18,11,5,49,30,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDDDLWL,12,4,1,31,16,2,19,7,8,43,22,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLWWLWD,6,5,6,14,12,WWDWWWLWWWWWWDDDW,LLWWWDDWLLWDDWLLD
+Treviso,Pescara,1-0,/match/treviso/pescara-calcio/2001,2001,35,serie_b,20,38,0,1,0,17,7,10,17,35,50,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDWLWWW,4,6,7,16,21,20,3,12,19,28,50,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLWLLWL,2,5,10,14,24,LDWWDLDDDLWLLLDLW,WWDDDWLWWDWWLDWWW
+Ravenna FC,AC Monza,2-3,/match/ravenna-calcio/ac-monza-brianza-1912/2001,2001,35,serie_b,20,38,2,2,3,19,3,13,18,25,53,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWWWWLW,2,7,8,15,26,18,7,4,23,33,69,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWLWLWL,2,0,15,14,41,DLLDLDDDWLLDLLDWL,WLWWWWWWWWWWWLWWW
+Cittadella,Genoa,1-1,/match/as-cittadella/genoa/2001,2001,35,serie_b,20,38,1,1,1,13,9,13,12,37,47,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLWLWDW,8,6,3,24,16,14,8,15,11,37,36,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWLWDDD,2,7,8,14,20,LWDDWDDWDWWWDLLWW,WDWDWWDWDWWDLDWLD
+Ternana Calcio,Cosenza Calcio,1-1,/match/ternana-calcio/fortitudo-cosenza/2001,2001,35,serie_b,20,38,1,1,1,6,15,11,8,54,35,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLLWWWL,12,2,2,34,10,7,16,8,10,43,39,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLLLWWD,5,5,7,16,21,WWWDWWWWWDWWLLWW,WDLWDDWDLDLWWWLLW
+Cagliari,Ancona,2-2,/match/cagliari/ancona/2001,2001,35,serie_b,20,38,1,2,2,10,12,11,11,49,39,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWLWWLW,8,7,2,27,13,8,14,7,13,50,47,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWWWLWW,2,4,11,18,32,WWDWDDWLDWWDDDWWL,LWWWLWDDWWDWWDWWW
+Sampdoria,Venezia,4-1,/match/sampdoria/venezia/2001,2001,35,serie_b,20,38,0,4,1,5,14,15,5,49,31,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWWDWDD,11,4,2,27,11,4,17,11,6,54,36,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLWWWWW,8,3,6,24,22,WDLWWDDWLDWWWWWWW,LLDDLLWLWLWWDLLWW
+Empoli,Torino,2-1,/match/empoli-fc/torino-fc/2001,2001,35,serie_b,20,38,0,2,1,9,15,9,10,44,39,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDWDWLW,9,4,4,25,19,3,19,7,8,42,30,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLDLDLW,8,2,6,21,20,LDWLWWWLWLWDDDWWW,DDLWWWWLLLWWLLLL
+Pistoiese,Siena,0-1,/match/pistoiese/siena/2001,2001,35,serie_b,20,38,2,0,1,16,9,11,14,41,44,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDLLDDW,5,7,5,25,25,12,9,14,11,35,41,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLWDLDD,2,6,9,14,30,DDLLWWDLDWLWDDWLD,DLWWDWDDDWWWWDWWL
+Ancona,Ravenna FC,2-5,/match/ancona/ravenna-calcio/2001,2001,36,serie_b,20,38,2,2,5,9,14,8,13,52,49,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWWWLWWD,12,3,2,32,15,19,3,13,19,27,56,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWWWWLWL,1,6,10,10,27,WDDWWWWDWLWWWWWLW,WDDWDWWLDWWDDWWWW
+Cosenza Calcio,Pistoiese,1-3,/match/fortitudo-cosenza/pistoiese/2001,2001,36,serie_b,20,38,2,1,3,7,16,9,10,44,40,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLLLWWDD,11,3,3,27,18,16,9,11,15,41,45,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDLLDDWL,4,4,9,16,19,WWWWWWWLDLWWDWLWD,LDLWDWWWWWWLWDLDW
+AC Monza,Empoli,0-1,/match/ac-monza-brianza-1912/empoli-fc/2001,2001,36,serie_b,20,38,2,0,1,18,8,4,23,36,71,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWLWLWLL,5,4,8,19,28,8,16,9,10,46,40,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDWDWLWW,6,5,6,19,20,LWLWLDDLLDWWWDLLL,LWLWDWDWWLLWDLDDL
+Genoa,Crotone,2-0,/match/genoa/fc-crotone/2001,2001,36,serie_b,20,38,0,2,0,14,8,16,11,38,37,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWLWDDDD,6,8,3,23,16,12,14,7,14,45,51,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWWLWDDL,6,2,9,20,29,DDLDWWWWDLLDDWWDD,WWWDLLWWLLLWLWWWD
+Salernitana,Cittadella,3-0,/match/salernitana-calcio-1919/as-cittadella/2001,2001,36,serie_b,20,38,0,3,0,15,10,10,15,34,38,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWWLDWWL,8,3,6,22,13,13,9,14,12,38,48,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLWLWDWD,1,7,9,13,31,LWWWLWDLDWWLLDWLW,DDDWWWDWDWWWWDWLD
+Venezia,Chievo,2-1,/match/venezia/chievo/2001,2001,36,serie_b,20,38,0,2,1,5,17,11,7,55,40,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLWWWWWW,9,8,0,30,14,1,18,12,5,50,31,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDDDLWLD,6,7,4,18,14,DDDWDDWDDWWWDWWWW,WLDDWDLWDLLDWDDLL
+Siena,Cagliari,1-1,/match/siena/cagliari/2001,2001,36,serie_b,20,38,1,1,1,11,10,14,11,36,41,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLWDLDDL,7,8,2,21,11,10,12,12,11,51,41,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWLWWLWD,4,4,9,22,26,WWDDLWWWDWDDWLDDD,LWDWLDLDWWDWWWLWW
+Ternana Calcio,Treviso,3-1,/match/ternana-calcio/treviso/2001,2001,36,serie_b,20,38,0,3,1,6,15,12,8,55,36,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLLWWWLD,12,3,2,35,11,17,8,10,17,36,50,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDWLWWWW,3,4,10,19,29,WWWDWWWWWDWWLLWWD,WWLWWDDLDWWWLDWWW
+Pescara,Torino,0-1,/match/pescara-calcio/torino-fc/2001,2001,36,serie_b,20,38,2,0,1,20,3,12,20,28,51,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLWLLWLW,1,7,9,14,26,4,19,7,9,43,32,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLDLDLWW,8,2,7,22,22,LLDDLDDLLDDWDLLLL,DDLWWWWLLLWWLLLLW
+Piacenza,Sampdoria,2-1,/match/piacenza/sampdoria/2001,2001,36,serie_b,20,38,0,2,1,2,19,8,8,44,23,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLWWLWDD,13,2,2,29,10,3,15,15,5,53,32,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWWDWDDW,3,11,3,22,20,WLDWWDWWWWWWLWWWW,LDWDDLDDLDWDDWDDD
+Cagliari,Ternana Calcio,1-1,/match/cagliari/ternana-calcio/2001,2001,37,serie_b,20,38,1,1,1,10,12,13,11,52,42,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWLWWLWDD,8,8,2,29,15,6,16,12,8,58,37,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLLWWWLDW,3,9,6,20,25,WWDWDDWLDWWDDDWWLD,WWDDWDWDDLWDDDDLWL
+Chievo,Salernitana,2-0,/match/chievo/salernitana-calcio-1919/2001,2001,37,serie_b,20,38,0,2,0,2,18,12,6,51,33,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDDDLWLDW,12,5,1,32,17,15,11,10,15,37,38,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWWLDWWLW,2,7,9,12,25,WWDWWWLWWWWWWDDDWD,DWLWDWWDDWWDDWWDWL
+Pistoiese,Piacenza,1-1,/match/pistoiese/piacenza/2001,2001,37,serie_b,20,38,1,1,1,16,10,11,15,44,46,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDLLDDWLL,5,7,6,25,26,1,20,8,8,46,24,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLWWLWDDW,6,6,6,15,13,DDLLWWDLDWLWDDWLDL,LLWWWDDWLLWDDWLLDD
+Crotone,Pescara,2-0,/match/fc-crotone/pescara-calcio/2001,2001,37,serie_b,20,38,0,2,0,12,14,7,15,45,53,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWWLWDDLW,8,5,5,25,22,20,3,12,21,28,52,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLWLLWLWL,2,5,11,14,25,WLWDWWDDLWLWDWWLDL,WWDDDWLWWDWWLDWWWW
+Sampdoria,AC Monza,4-2,/match/sampdoria/ac-monza-brianza-1912/2001,2001,37,serie_b,20,38,0,4,2,5,15,15,6,54,34,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWWDWDDWW,12,4,2,31,12,18,8,4,24,36,72,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWLWLWLLL,3,0,15,17,43,WDLWWDDWLDWWWWWWWW,WLWWWWWWWWWWWLWWWL
+Treviso,Genoa,2-2,/match/treviso/genoa/2001,2001,37,serie_b,20,38,1,2,2,17,8,10,18,37,53,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDWLWWWWW,5,6,7,17,21,13,9,16,11,40,37,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWLWDDDDW,2,8,8,15,21,LDWWDLDDDLWLLLDLWW,WDWDWWDWDWWDLDWLDD
+Torino,Cosenza Calcio,2-1,/match/torino-fc/fortitudo-cosenza/2001,2001,37,serie_b,20,38,0,2,1,4,20,7,9,44,32,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLDLDLWWL,11,5,2,21,10,8,16,9,11,45,43,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLLLWWDDL,5,6,7,17,22,LLWDDWWWWWWWWWDDDW,WDLWDDWDLDLWWWLLWD
+Empoli,Ancona,3-1,/match/empoli-fc/ancona/2001,2001,37,serie_b,20,38,0,3,1,7,17,9,10,47,40,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDWDWLWWL,10,4,4,27,20,9,14,8,14,54,54,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWWWLWWDL,2,5,11,20,34,LDWLWWWLWLWDDDWWWW,LWWWLWDDWWDWWDWWWD
+Ravenna FC,Venezia,0-3,/match/ravenna-calcio/venezia/2001,2001,37,serie_b,20,38,2,0,3,19,4,13,19,32,58,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWWWWLWLL,2,7,9,17,29,3,18,11,7,57,41,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLWWWWWWW,8,3,7,25,26,DLLDLDDDWLLDLLDWLL,LLDDLLWLWLWWDLLWWW
+Cittadella,Siena,0-0,/match/as-cittadella/siena/2001,2001,37,serie_b,20,38,1,0,0,14,9,14,13,38,51,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLWLWDWDW,8,7,3,25,17,11,10,15,11,37,42,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLWDLDDLD,3,6,9,15,30,LWDDWDDWDWWWDLLWWD,DLWWDWDDDWWWWDWWLL
+Salernitana,Torino,0-2,/match/salernitana-calcio-1919/torino-fc/2001,2001,38,serie_b,20,38,2,0,2,15,11,10,16,37,40,DLWWLWWDWWLWWDDLDDWWWWDLDLDWWWLDWWLWW,9,3,6,25,13,3,21,7,9,46,33,LDLDWLDWWDWWWWLWWLWLWWWWWLWDLDLDLWWLW,9,2,7,23,22,LWWWLWDLDWWLLDWLWW,DDLWWWWLLLWWLLLLWL
+Pescara,Sampdoria,2-2,/match/pescara-calcio/sampdoria/2001,2001,38,serie_b,20,38,1,2,2,20,3,12,22,28,54,WLWLDDDDLDDWLDWLWLDDWDWWLDDWLWLLWLWLW,1,7,10,14,27,5,16,15,6,58,36,WLDDWLDWDWLDDDWDLLDDWWWWDWDWWWDWDDWWW,3,11,4,23,22,LLDDLDDLLDDWDLLLLL,LDWDDLDDLDWDDWDDDW
+Cosenza Calcio,Ravenna FC,3-1,/match/fortitudo-cosenza/ravenna-calcio/2001,2001,38,serie_b,20,38,0,3,1,8,16,9,12,46,45,WWWDWWLWWWDWDLWDDLLDWLWWWDWWLLLWWDDLW,11,3,4,28,21,19,4,13,20,32,61,DWLDLDDWDLWDDWDLWDLWLWDDLDLDWWWWLWLLL,2,6,10,15,29,WWWWWWWLDLWWDWLWDL,WDDWDWWLDWWDDWWWWL
+AC Monza,Pistoiese,3-1,/match/ac-monza-brianza-1912/pistoiese/2001,2001,38,serie_b,20,38,0,3,1,18,8,4,25,38,76,LWWLWLWWWLWDWDWLWLWWDWWWWWLDWLWLWLLLW,5,4,9,19,29,16,10,12,15,45,47,LDDDLLWLDWWWWDLWDWWLWWWDLDWWDLLDDWLLD,5,4,9,19,20,LWLWLDDLLDWWWDLLLL,LDLWDWWWWWWLWDLDWL
+Venezia,Empoli,2-2,/match/venezia/empoli-fc/2001,2001,38,serie_b,20,38,1,2,2,4,19,11,7,60,41,LDLDDDDWLDLDWWLDWDLWWWWWDDLWLWWWWWWWL,10,8,0,32,15,7,18,9,10,50,41,LLDWWLLWWWDWWLDWWWLLWLDWDDLDDWDWLWWLW,7,5,6,20,20,DDDWDDWDDWWWDWWWWW,LWLWDWDWWLLWDLDDLL
+Ternana Calcio,Crotone,0-0,/match/ternana-calcio/fc-crotone/2001,2001,38,serie_b,20,38,1,0,0,6,16,13,8,59,38,WWWWDWDDWWWDWWWDDWLDWWDWDLDDLLWWWLDWD,13,3,2,38,12,11,15,7,15,47,53,WWWLWDWLDLWWWWDLDLLWLLWWDLWWWWLWDDLWW,6,2,10,20,31,WWWDWWWWWDWWLLWWDW,WWWDLLWWLLLWLWWWDW
+Ancona,Cittadella,1-1,/match/ancona/as-cittadella/2001,2001,38,serie_b,20,38,1,1,1,9,14,8,15,55,57,LWWDDWWWLWWWDWDDWWWLDWWWWDWWWWWLWWDLW,12,3,3,34,20,14,9,15,13,38,51,LDWDDDDWWWDDWWDWDDWWWWWWDWLDLWLWDWDWD,1,7,10,13,34,WDDWWWWDWLWWWWWLWL,DDDWWWDWDWWWWDWLDW
+Siena,Chievo,1-1,/match/siena/chievo/2001,2001,38,serie_b,20,38,1,1,1,12,10,16,11,37,42,WDWLDWDWLDWWWDDWDDWWWWDWDDWWLWDLDDLDD,7,9,2,22,12,1,19,12,6,53,33,WWWLDDDWWWWDLLWWWDWLWLWWDDWDDDDLWLDWW,6,7,5,19,16,WWDDLWWWDWDDWLDDDD,WLDDWDLWDLLDWDDLLW
+Genoa,Cagliari,2-0,/match/genoa/cagliari/2001,2001,38,serie_b,20,38,0,2,0,13,9,17,11,42,39,WDDDLWDDWWWWWDWWDDWLWLDLDDDWWLWDDDDWD,7,8,3,25,16,10,12,14,11,53,43,WLWWDDWWDLDDWLLDDWWWWDDWDWDWWLWWLWDDD,4,5,9,23,27,DDLDWWWWDLLDDWWDDW,LWDWLDLDWWDWWWLWWD
+Piacenza,Treviso,1-1,/match/piacenza/treviso/2001,2001,38,serie_b,20,38,1,1,1,2,20,9,8,47,25,LWLLWDWWWWDDDWWWLWLWWWDWDLWWLWWLWDDWD,14,2,2,31,11,17,8,11,18,39,55,WLWDWLWWDWLDDDDLDDLWWLWWLLLDDWLWWWWWD,3,4,11,20,32,WLDWWDWWWWWWLWWWWW,WWLWWDDLDWWWLDWWWW

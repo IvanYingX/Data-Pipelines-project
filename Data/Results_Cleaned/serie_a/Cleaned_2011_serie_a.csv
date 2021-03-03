@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Udinese,Genoa,0-1,/match/udinese/genoa/2011,2011,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Roma,Cesena,0-0,/match/roma/ac-cesena/2011,2011,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SSC Bari,Juventus,1-0,/match/as-bari/juventus-fc/2011,2011,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Cagliari,0-0,/match/palermo/cagliari/2011,2011,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Lazio,2-0,/match/sampdoria/lazio/2011,2011,1,serie_a,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Parma,Brescia,2-0,/match/parma-fc/brescia/2011,2011,1,serie_a,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Milan,Lecce,4-0,/match/milan/lecce/2011,2011,1,serie_a,20,38,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chievo,Catania,2-1,/match/chievo/catania/2011,2011,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Fiorentina,Napoli,1-1,/match/fiorentina/napoli/2011,2011,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bologna,Inter,0-0,/match/bologna/internazionale/2011,2011,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Udinese,2-1,/match/internazionale/udinese/2011,2011,2,serie_a,20,38,0,2,1,12,0,1,0,0,0,D,0,0,0,0,0,15,0,0,1,0,1,L,0,0,0,0,0,,
+Cagliari,Roma,5-1,/match/cagliari/roma/2011,2011,2,serie_a,20,38,0,5,1,13,0,1,0,0,0,D,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
+Cesena,Milan,2-0,/match/ac-cesena/milan/2011,2011,2,serie_a,20,38,0,2,0,11,0,1,0,0,0,D,0,0,0,0,0,2,1,0,0,4,0,W,0,0,0,0,0,,
+Brescia,Palermo FC,3-2,/match/brescia/palermo/2011,2011,2,serie_a,20,38,0,3,2,19,0,0,1,0,2,W,0,0,0,0,0,9,0,1,0,0,0,D,0,0,0,0,0,,
+Genoa,Chievo,1-3,/match/genoa/chievo/2011,2011,2,serie_a,20,38,2,1,3,8,1,0,0,1,0,L,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
+Catania,Parma,2-1,/match/catania/parma-fc/2011,2011,2,serie_a,20,38,0,2,1,18,0,0,1,1,2,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Juventus,Sampdoria,3-3,/match/juventus-fc/sampdoria/2011,2011,2,serie_a,20,38,1,3,3,17,0,0,1,0,1,W,0,0,0,0,0,4,1,0,0,2,0,W,0,0,0,0,0,,
+Lazio,Bologna,3-1,/match/lazio/bologna/2011,2011,2,serie_a,20,38,0,3,1,16,0,0,1,0,2,W,0,0,0,0,0,6,0,1,0,0,0,D,0,0,0,0,0,,
+Lecce,Fiorentina,1-0,/match/lecce/fiorentina/2011,2011,2,serie_a,20,38,0,1,0,20,0,0,1,0,4,W,0,0,0,0,0,10,0,1,0,1,1,D,0,0,0,0,0,,
+Napoli,SSC Bari,2-2,/match/napoli/as-bari/2011,2011,2,serie_a,20,38,1,2,2,14,0,1,0,1,1,D,0,0,0,0,0,5,1,0,0,1,0,W,0,0,0,0,0,,
+Fiorentina,Lazio,1-2,/match/fiorentina/lazio/2011,2011,3,serie_a,20,38,2,1,2,18,0,1,1,1,2,DW,0,1,0,1,1,9,1,0,1,3,3,WW,0,0,1,0,2,D,W
+Milan,Catania,1-1,/match/milan/catania/2011,2011,3,serie_a,20,38,1,1,1,7,1,0,1,4,2,WW,1,0,0,4,0,10,1,0,1,3,3,WW,0,0,1,1,2,W,W
+SSC Bari,Cagliari,0-0,/match/as-bari/cagliari/2011,2011,3,serie_a,20,38,1,0,0,2,1,1,0,3,2,WD,1,0,0,1,0,3,1,1,0,5,1,DW,0,1,0,0,0,W,D
+Cesena,Lecce,1-0,/match/ac-cesena/lecce/2011,2011,3,serie_a,20,38,0,1,0,5,1,1,0,2,0,DW,1,0,0,2,0,12,1,0,1,1,4,WW,0,0,1,0,4,W,W
+Parma,Genoa,1-1,/match/parma-fc/genoa/2011,2011,3,serie_a,20,38,1,1,1,8,1,0,1,3,2,WW,1,0,0,2,0,16,1,0,1,2,3,LL,1,0,0,1,0,W,L
+Chievo,Brescia,0-1,/match/chievo/brescia/2011,2011,3,serie_a,20,38,2,0,1,1,2,0,0,5,2,WL,1,0,0,2,1,11,1,0,1,3,4,WW,0,0,1,0,2,W,W
+Udinese,Juventus,0-4,/match/udinese/juventus-fc/2011,2011,3,serie_a,20,38,2,0,4,20,0,0,2,1,3,LW,0,0,1,0,1,19,0,1,1,3,4,WD,0,0,1,0,1,L,W
+Palermo FC,Inter,1-2,/match/palermo/internazionale/2011,2011,3,serie_a,20,38,2,1,2,17,0,1,1,2,3,DW,0,1,0,0,0,4,1,1,0,2,1,DW,0,1,0,0,0,D,D
+Roma,Bologna,2-2,/match/roma/bologna/2011,2011,3,serie_a,20,38,1,2,2,15,0,1,1,1,5,DW,0,1,0,0,0,14,0,1,1,1,3,DW,0,0,1,1,3,D,W
+Sampdoria,Napoli,1-2,/match/sampdoria/napoli/2011,2011,3,serie_a,20,38,2,1,2,6,1,1,0,5,3,WD,1,0,0,2,0,13,0,2,0,3,3,DD,0,1,0,1,1,W,D
+Brescia,Roma,2-1,/match/brescia/roma/2011,2011,4,serie_a,20,38,0,2,1,7,2,0,1,4,4,WWL,1,0,0,3,2,14,0,2,1,3,7,DWD,0,0,1,1,5,W,W
+Bologna,Udinese,2-1,/match/bologna/udinese/2011,2011,4,serie_a,20,38,0,2,1,16,0,2,1,3,5,DWD,0,1,0,0,0,20,0,0,3,1,7,LWL,0,0,1,1,2,D,W
+Lecce,Parma,1-1,/match/lecce/parma-fc/2011,2011,4,serie_a,20,38,1,1,1,13,1,0,2,1,5,WWW,1,0,0,1,0,5,1,1,1,4,3,WWD,0,0,1,1,2,W,W
+Lazio,Milan,1-1,/match/lazio/milan/2011,2011,4,serie_a,20,38,1,1,1,6,2,0,1,5,4,WWL,1,0,0,3,1,8,1,1,1,5,3,WWD,0,0,1,0,2,W,W
+Napoli,Chievo,1-3,/match/napoli/chievo/2011,2011,4,serie_a,20,38,2,1,3,12,1,2,0,5,4,DDL,0,1,0,2,2,4,2,0,1,5,3,WLL,1,0,0,3,1,D,L
+Inter,SSC Bari,4-0,/match/internazionale/as-bari/2011,2011,4,serie_a,20,38,0,4,0,3,2,1,0,4,2,DWL,1,0,0,2,1,2,1,2,0,3,2,WDD,0,1,0,2,2,W,D
+Genoa,Fiorentina,1-1,/match/genoa/fiorentina/2011,2011,4,serie_a,20,38,1,1,1,17,1,1,1,3,4,LLD,0,0,1,1,3,19,0,1,2,2,4,DWL,0,0,1,0,1,L,W
+Catania,Cesena,2-0,/match/catania/ac-cesena/2011,2011,4,serie_a,20,38,0,2,0,11,1,1,1,4,4,WWD,1,0,0,2,1,1,2,1,0,3,0,DWW,0,1,0,0,0,W,D
+Cagliari,Sampdoria,0-0,/match/cagliari/sampdoria/2011,2011,4,serie_a,20,38,1,0,0,9,1,2,0,5,1,DWD,1,0,0,5,1,10,1,1,1,6,5,WDL,0,1,0,3,3,W,D
+Juventus,Palermo FC,1-3,/match/juventus-fc/palermo/2011,2011,4,serie_a,20,38,2,1,3,15,1,1,1,7,4,WDL,0,1,0,3,3,18,0,1,2,3,5,DWL,0,0,1,2,3,D,W
+Milan,Genoa,1-0,/match/milan/genoa/2011,2011,5,serie_a,20,38,0,1,0,9,1,2,1,6,4,WWDD,1,1,0,5,1,15,1,2,1,4,5,LLDD,1,1,0,2,1,WD,LD
+Roma,Inter,1-0,/match/roma/internazionale/2011,2011,5,serie_a,20,38,0,1,0,16,0,2,2,4,9,DWDW,0,2,0,2,2,1,3,1,0,8,2,DWLW,1,1,0,2,1,DD,DL
+Cesena,Napoli,1-4,/match/ac-cesena/napoli/2011,2011,5,serie_a,20,38,2,1,4,3,2,1,1,3,2,DWWW,2,0,0,3,0,14,1,2,1,6,7,DDLL,1,1,0,3,2,WW,DL
+Palermo FC,Lecce,2-2,/match/palermo/lecce/2011,2011,5,serie_a,20,38,1,2,2,18,1,1,2,6,6,DWLL,0,1,1,1,2,13,1,1,2,2,6,WWWD,0,0,2,0,5,DL,WW
+Sampdoria,Udinese,0-0,/match/sampdoria/udinese/2011,2011,5,serie_a,20,38,1,0,0,12,1,2,1,6,5,WDLD,1,0,1,3,2,20,0,0,4,2,9,LWLW,0,0,2,2,4,WL,WW
+SSC Bari,Brescia,2-1,/match/as-bari/brescia/2011,2011,5,serie_a,20,38,0,2,1,10,1,2,1,3,6,WDDW,1,1,0,1,0,2,3,0,1,6,5,WWLW,1,0,1,1,2,WD,WL
+Catania,Bologna,1-1,/match/catania/bologna/2011,2011,5,serie_a,20,38,1,1,1,4,2,1,1,6,4,WWDW,2,0,0,4,1,11,1,2,1,5,6,DWDW,0,1,1,3,5,WW,WD
+Chievo,Lazio,0-1,/match/chievo/lazio/2011,2011,5,serie_a,20,38,2,0,1,6,3,0,1,8,4,WLLL,1,0,1,2,2,5,2,1,1,6,5,WWLD,1,0,1,2,3,WL,WL
+Fiorentina,Parma,2-0,/match/fiorentina/parma-fc/2011,2011,5,serie_a,20,38,0,2,0,19,0,2,2,3,5,DWLD,0,1,1,2,3,8,1,2,1,5,4,WWDD,0,1,1,2,3,DL,WD
+Juventus,Cagliari,4-2,/match/juventus-fc/cagliari/2011,2011,5,serie_a,20,38,0,4,2,17,1,1,2,8,7,WDLL,0,1,1,4,6,7,1,3,0,5,1,DWDD,0,2,0,0,0,DL,DD
+Udinese,Cesena,1-0,/match/udinese/ac-cesena/2011,2011,6,serie_a,20,38,0,1,0,20,0,1,4,2,9,LWLWD,0,0,2,0,5,7,2,1,2,4,6,DWWWL,0,1,1,0,2,LL,DW
+Parma,Milan,0-1,/match/parma-fc/milan/2011,2011,6,serie_a,20,38,2,0,1,14,1,2,2,5,6,WWDDW,1,1,0,3,1,3,2,2,1,7,4,WWDDW,0,1,1,1,3,WD,WD
+Lecce,Catania,1-0,/match/lecce/catania/2011,2011,6,serie_a,20,38,0,1,0,15,1,2,2,4,8,WWWDD,1,1,0,2,1,2,2,2,1,7,5,WWDWD,0,1,1,2,3,WD,WD
+Fiorentina,Palermo FC,1-2,/match/fiorentina/palermo/2011,2011,6,serie_a,20,38,2,1,2,17,1,2,2,5,5,DWLDW,1,1,1,4,3,18,1,2,2,8,8,DWLLD,1,0,1,5,4,DLW,WL
+Bologna,Sampdoria,1-1,/match/bologna/sampdoria/2011,2011,6,serie_a,20,38,1,1,1,11,1,3,1,6,7,DWDWD,1,1,0,2,1,10,1,3,1,6,5,WDLDD,0,2,0,3,3,DW,DD
+Chievo,Cagliari,0-0,/match/chievo/cagliari/2011,2011,6,serie_a,20,38,1,0,0,13,3,0,2,8,5,WLLLL,1,0,2,2,3,12,1,3,1,7,5,DWDDW,0,2,1,2,4,WLL,DDW
+Lazio,Brescia,1-0,/match/lazio/brescia/2011,2011,6,serie_a,20,38,0,1,0,6,3,1,1,7,5,WWLDL,1,1,0,4,2,5,3,0,2,7,7,WWLWW,1,0,2,2,4,WD,WLW
+Genoa,SSC Bari,2-1,/match/genoa/as-bari/2011,2011,6,serie_a,20,38,0,2,1,19,1,2,2,4,6,LLDDW,0,1,1,2,4,4,2,2,1,5,7,WDDWW,0,1,1,2,6,LD,DW
+Napoli,Roma,2-0,/match/napoli/roma/2011,2011,6,serie_a,20,38,0,2,0,16,2,2,1,10,8,DDLLL,0,1,1,3,5,9,1,2,2,5,9,DWDWW,0,0,2,2,7,DL,WW
+Inter,Juventus,0-0,/match/internazionale/juventus-fc/2011,2011,6,serie_a,20,38,1,0,0,1,3,1,1,8,3,DWLWW,2,0,0,6,1,8,2,1,2,12,9,WDLLW,1,0,1,4,1,WW,WL
+Milan,Chievo,3-1,/match/milan/chievo/2011,2011,7,serie_a,20,38,0,3,1,3,3,2,1,8,4,WWDDWL,2,1,0,6,1,8,3,1,2,8,5,WLLLLD,2,0,0,6,2,WDW,LL
+Roma,Genoa,2-1,/match/roma/genoa/2011,2011,7,serie_a,20,38,0,2,1,16,1,2,3,5,11,DWDWWW,1,2,0,3,2,15,2,2,2,6,7,LLDDWW,1,1,1,2,2,DDW,LDW
+Cagliari,Inter,0-1,/match/cagliari/internazionale/2011,2011,7,serie_a,20,38,2,0,1,12,1,4,1,7,5,DWDDWD,1,1,0,5,1,2,3,2,1,8,3,DWLWWD,1,1,1,2,2,WD,DLW
+Sampdoria,Fiorentina,2-1,/match/sampdoria/fiorentina/2011,2011,7,serie_a,20,38,0,2,1,11,1,4,1,7,6,WDLDDD,1,1,1,3,2,19,1,2,3,6,7,DWLDWL,0,1,1,1,2,WLD,WD
+Palermo FC,Bologna,4-1,/match/palermo/bologna/2011,2011,7,serie_a,20,38,0,4,1,17,2,2,2,10,9,DWLLDL,0,2,1,3,4,9,1,4,1,7,8,DWDWDD,0,2,1,4,6,DLD,WDD
+Juventus,Lecce,4-0,/match/juventus-fc/lecce/2011,2011,7,serie_a,20,38,0,4,0,13,2,2,2,12,9,WDLLWD,1,1,1,8,8,7,2,2,2,5,8,WWWDDW,0,1,2,2,7,DLW,WWD
+Cesena,Parma,1-1,/match/ac-cesena/parma-fc/2011,2011,7,serie_a,20,38,1,1,1,14,2,1,3,4,7,DWWWLW,2,0,1,4,4,18,1,2,3,5,7,WWDDWL,0,1,2,2,5,WWL,WDW
+Catania,Napoli,1-1,/match/catania/napoli/2011,2011,7,serie_a,20,38,1,1,1,4,2,2,2,7,6,WWDWDW,2,1,0,5,2,6,3,2,1,12,8,DDLLLW,2,1,0,7,3,WWD,DLL
+Brescia,Udinese,0-1,/match/brescia/udinese/2011,2011,7,serie_a,20,38,2,0,1,10,3,0,3,7,8,WWLWWW,2,0,0,5,3,20,1,1,4,3,9,LWLWDW,0,1,2,2,4,WW,WWD
+SSC Bari,Lazio,0-2,/match/as-bari/lazio/2011,2011,7,serie_a,20,38,2,0,2,5,2,2,2,6,9,WDDWWW,2,1,0,3,1,1,4,1,1,8,5,WWLDLW,2,0,1,3,3,WDW,WLL
+Fiorentina,SSC Bari,2-1,/match/fiorentina/as-bari/2011,2011,8,serie_a,20,38,0,2,1,19,1,2,4,7,9,DWLDWLW,1,1,2,5,5,11,2,2,3,6,11,WDDWWWL,0,1,2,3,8,DLWL,DWW
+Parma,Roma,0-0,/match/parma-fc/roma/2011,2011,8,serie_a,20,38,1,0,0,18,1,3,3,6,8,WWDDWLD,1,1,1,3,2,8,2,2,3,7,12,DWDWWWW,0,0,3,2,9,WDL,WWW
+Bologna,Juventus,0-0,/match/bologna/juventus-fc/2011,2011,8,serie_a,20,38,1,0,0,14,1,4,2,8,12,DWDWDDW,1,2,0,3,2,4,3,2,2,16,9,WDLLWDW,1,1,1,4,1,DWD,WLD
+Lecce,Brescia,2-1,/match/lecce/brescia/2011,2011,8,serie_a,20,38,0,2,1,10,2,2,3,5,12,WWWDDWW,2,1,0,3,1,15,3,0,4,7,9,WWLWWWL,1,0,3,2,5,WDW,WLWW
+Lazio,Cagliari,2-1,/match/lazio/cagliari/2011,2011,8,serie_a,20,38,0,2,1,2,5,1,1,10,5,WWLDLWL,2,1,0,5,2,16,1,4,2,7,6,DWDDWDL,0,3,1,2,4,WDW,DDWD
+Genoa,Catania,1-0,/match/genoa/catania/2011,2011,8,serie_a,20,38,0,1,0,17,2,2,3,7,9,LLDDWWW,1,1,1,4,5,6,2,3,2,8,7,WWDWDWD,0,1,2,2,4,LDW,WDW
+Chievo,Cesena,2-1,/match/chievo/ac-cesena/2011,2011,8,serie_a,20,38,0,2,1,13,3,1,3,9,8,WLLLLDW,1,1,2,2,3,12,2,2,3,5,8,DWWWLWD,0,1,2,0,3,WLLD,DWW
+Udinese,Palermo FC,2-1,/match/udinese/palermo/2011,2011,8,serie_a,20,38,0,2,1,20,2,1,4,4,9,LWLWDWL,1,0,2,1,5,9,3,2,2,14,10,DWLLDLW,2,0,1,7,5,LLW,WLL
+Inter,Sampdoria,1-1,/match/internazionale/sampdoria/2011,2011,8,serie_a,20,38,1,1,1,3,4,2,1,9,3,DWLWWDL,2,1,0,6,1,5,2,4,1,9,7,WDLDDDW,0,3,0,4,4,WWD,DDD
+Napoli,Milan,1-2,/match/napoli/milan/2011,2011,8,serie_a,20,38,2,1,2,7,3,3,1,13,9,DDLLLWD,1,1,1,5,5,1,4,2,1,11,5,WWDDWLW,1,1,1,2,3,DLW,WDL
+Genoa,Inter,0-1,/match/genoa/internazionale/2011,2011,9,serie_a,20,38,2,0,1,8,3,2,3,8,9,LLDDWWWW,2,1,1,5,5,3,4,3,1,10,4,DWLWWDLD,2,1,1,3,2,LDWW,DLWL
+Roma,Lecce,2-0,/match/roma/lecce/2011,2011,9,serie_a,20,38,0,2,0,10,2,3,3,7,12,DWDWWWWD,2,2,0,5,3,4,3,2,3,7,13,WWWDDWWW,0,1,3,2,11,DDWW,WWDW
+Milan,Juventus,1-2,/match/milan/juventus-fc/2011,2011,9,serie_a,20,38,2,1,2,2,5,2,1,13,6,WWDDWLWL,3,1,0,9,2,5,3,3,2,16,9,WDLLWDWD,1,2,1,4,1,WDWW,WLDD
+Palermo FC,Lazio,0-1,/match/palermo/lazio/2011,2011,9,serie_a,20,38,2,0,1,12,3,2,3,15,12,DWLLDLWW,1,2,1,7,5,1,6,1,1,12,6,WWLDLWLW,3,0,1,5,3,DLDW,WLLL
+Cesena,Sampdoria,0-1,/match/ac-cesena/sampdoria/2011,2011,9,serie_a,20,38,2,0,1,16,2,2,4,6,10,DWWWLWDW,2,1,1,5,5,6,2,5,1,10,8,WDLDDDWD,0,4,0,5,5,WWLD,DDDD
+Cagliari,Bologna,2-0,/match/cagliari/bologna/2011,2011,9,serie_a,20,38,0,2,0,20,1,4,3,8,8,DWDDWDLW,1,1,1,5,2,13,1,5,2,8,12,DWDWDDWD,0,2,2,5,10,WDL,WDDW
+Parma,Chievo,0-0,/match/parma-fc/chievo/2011,2011,9,serie_a,20,38,1,0,0,19,1,4,3,6,8,WWDDWLDD,1,2,1,3,2,7,4,1,3,11,9,WLLLLDWW,2,0,1,7,5,WDLD,LLW
+Brescia,Napoli,0-1,/match/brescia/napoli/2011,2011,9,serie_a,20,38,2,0,1,18,3,0,5,8,11,WWLWWWLW,2,0,1,5,4,11,3,3,2,14,11,DDLLLWDL,2,2,0,8,4,WWL,DLLD
+SSC Bari,Udinese,0-2,/match/as-bari/udinese/2011,2011,9,serie_a,20,38,2,0,2,15,2,2,4,7,13,WDDWWWLW,2,1,1,3,3,17,3,1,4,6,10,LWLWDWLW,1,1,2,3,4,WDWL,WWDL
+Catania,Fiorentina,0-0,/match/catania/fiorentina/2011,2011,9,serie_a,20,38,1,0,0,9,2,3,3,8,8,WWDWDWDW,2,2,0,6,3,14,2,2,4,9,10,DWLDWLWW,0,1,2,2,4,WWDD,WDW
+Bologna,Lecce,2-0,/match/bologna/lecce/2011,2011,10,serie_a,20,38,0,2,0,15,1,5,3,8,14,DWDWDDWDW,1,3,0,3,2,7,3,2,4,7,15,WWWDDWWWW,0,1,4,2,13,DWDD,WWDWW
+Inter,Brescia,1-1,/match/internazionale/brescia/2011,2011,10,serie_a,20,38,1,1,1,2,5,3,1,11,4,DWLWWDLDL,2,2,0,7,2,20,3,0,6,8,12,WWLWWWLWL,1,0,4,3,7,WWDD,WLWWW
+Fiorentina,Chievo,1-0,/match/fiorentina/chievo/2011,2011,10,serie_a,20,38,0,1,0,16,2,3,4,9,10,DWLDWLWWD,2,1,2,7,6,8,4,2,3,11,9,WLLLLDWWD,2,1,1,7,5,DLWLW,LLWD
+SSC Bari,Milan,2-3,/match/as-bari/milan/2011,2011,10,serie_a,20,38,2,2,3,18,2,2,5,7,15,WDDWWWLWL,2,1,2,3,5,3,5,2,2,14,8,WWDDWLWLL,2,1,1,4,4,WDWLL,WDLL
+Udinese,Cagliari,1-1,/match/udinese/cagliari/2011,2011,10,serie_a,20,38,1,1,1,12,4,1,4,8,10,LWLWDWLWL,2,0,2,3,6,13,2,4,3,10,8,DWDDWDLWW,0,3,2,3,6,LLWW,DDWDW
+Sampdoria,Catania,0-0,/match/sampdoria/catania/2011,2011,10,serie_a,20,38,1,0,0,6,3,5,1,11,8,WDLDDDWDL,2,1,1,5,3,9,2,4,3,8,8,WWDWDWDWD,0,1,3,2,5,WLDW,WDWW
+Lazio,Roma,0-2,/match/lazio/roma/2011,2011,10,serie_a,20,38,2,0,2,1,7,1,1,13,6,WWLDLWLWL,3,1,0,7,3,4,3,3,3,9,12,DWDWWWWDW,0,1,3,2,9,WDWW,WWWD
+Juventus,Cesena,3-1,/match/juventus-fc/ac-cesena/2011,2011,10,serie_a,20,38,0,3,1,5,4,3,2,18,10,WDLLWDWDL,2,1,1,12,8,19,2,2,5,6,11,DWWWLWDWL,0,1,3,1,5,DLWW,DWWW
+Napoli,Parma,2-0,/match/napoli/parma-fc/2011,2011,10,serie_a,20,38,0,2,0,10,4,3,2,15,11,DDLLLWDLL,1,1,2,6,7,17,1,5,3,6,8,WWDDWLDDD,0,2,2,3,6,DLWL,WDWD
+Palermo FC,Genoa,1-0,/match/palermo/genoa/2011,2011,10,serie_a,20,38,0,1,0,14,3,2,4,15,13,DWLLDLWWL,1,2,2,7,6,11,3,2,4,8,10,LLDDWWWWL,1,1,2,3,4,DLDWL,LDWW
+Brescia,Juventus,1-1,/match/brescia/juventus-fc/2011,2011,11,serie_a,20,38,1,1,1,20,3,1,6,9,13,WWLWWWLWLD,2,0,2,5,5,4,5,3,2,21,11,WDLLWDWDLW,2,2,1,6,2,WWLL,WLDDL
+Milan,Palermo FC,3-1,/match/milan/palermo/2011,2011,11,serie_a,20,38,0,3,1,2,6,2,2,17,10,WWDDWLWLLL,3,1,1,10,4,10,4,2,4,16,13,DWLLDLWWLW,2,0,2,8,7,WDWWL,WLLW
+Lecce,Inter,1-1,/match/lecce/internazionale/2011,2011,11,serie_a,20,38,1,1,1,12,3,2,5,7,17,WWWDDWWWWW,3,1,0,5,2,3,5,4,1,12,5,DWLWWDLDLD,3,1,1,4,2,WDWW,DLWLL
+Genoa,Bologna,1-0,/match/genoa/bologna/2011,2011,11,serie_a,20,38,0,1,0,16,3,2,5,8,11,LLDDWWWWLW,2,1,2,5,6,11,2,5,3,10,14,DWDWDDWDWW,0,2,3,5,12,LDWWL,WDDWW
+Chievo,SSC Bari,0-0,/match/chievo/as-bari/2011,2011,11,serie_a,20,38,1,0,0,13,4,2,4,11,10,WLLLLDWWDW,2,1,2,4,4,18,2,2,6,9,18,WDDWWWLWLL,0,1,3,4,10,WLLDW,DWWW
+Cesena,Lazio,1-0,/match/ac-cesena/lazio/2011,2011,11,serie_a,20,38,0,1,0,19,2,2,6,7,14,DWWWLWDWLW,2,1,2,5,6,1,7,1,2,13,8,WWLDLWLWLL,4,0,1,6,3,WWLDL,WLLLL
+Catania,Udinese,1-0,/match/catania/udinese/2011,2011,11,serie_a,20,38,0,1,0,9,2,5,3,8,8,WWDWDWDWDD,2,3,0,6,3,14,4,2,4,9,11,LWLWDWLWLD,2,1,2,5,4,WWDDD,WWDLL
+Cagliari,Napoli,0-1,/match/cagliari/napoli/2011,2011,11,serie_a,20,38,2,0,1,15,2,5,3,11,9,DWDDWDLWWD,2,1,1,7,2,7,5,3,2,17,11,DDLLLWDLLW,3,2,0,9,4,WDLW,DLLDL
+Roma,Fiorentina,3-2,/match/roma/fiorentina/2011,2011,11,serie_a,20,38,0,3,2,5,4,3,3,11,12,DWDWWWWDWL,3,2,0,7,3,8,3,3,4,10,10,DWLDWLWWDW,0,2,2,2,4,DDWWW,WDWD
+Parma,Sampdoria,1-0,/match/parma-fc/sampdoria/2011,2011,11,serie_a,20,38,0,1,0,17,1,5,4,6,10,WWDDWLDDDW,1,3,1,3,2,6,3,6,1,11,8,WDLDDDWDLD,1,4,0,6,5,WDLDD,DDDDL
+Fiorentina,Cesena,1-0,/match/fiorentina/ac-cesena/2011,2011,12,serie_a,20,38,0,1,0,15,3,3,5,12,13,DWLDWLWWDWW,3,1,2,8,6,17,3,2,6,8,14,DWWWLWDWLWW,0,1,4,2,8,DLWLWW,DWWWW
+Juventus,Roma,1-1,/match/juventus-fc/roma/2011,2011,12,serie_a,20,38,1,1,1,5,5,4,2,22,12,WDLLWDWDLWD,3,1,1,15,9,2,5,3,3,14,14,DWDWWWWDWLW,1,1,3,4,9,DLWWW,WWWDL
+Lazio,Napoli,2-0,/match/lazio/napoli/2011,2011,12,serie_a,20,38,0,2,0,3,7,1,3,13,9,WWLDLWLWLLW,3,1,1,7,5,6,6,3,2,18,11,DDLLLWDLLWL,4,2,0,10,4,WDWWL,DLLDLL
+Sampdoria,Chievo,0-0,/match/sampdoria/chievo/2011,2011,12,serie_a,20,38,1,0,0,8,3,6,2,11,9,WDLDDDWDLDW,2,2,1,5,3,9,4,3,4,11,10,WLLLLDWWDWD,2,1,2,7,6,WLDWD,LLWDW
+Palermo FC,Catania,3-1,/match/palermo/catania/2011,2011,12,serie_a,20,38,0,3,1,14,4,2,5,17,16,DWLLDLWWLWW,2,2,2,8,6,7,3,5,3,9,8,WWDWDWDWDDW,0,2,3,2,5,DLDWLW,WDWWD
+SSC Bari,Parma,0-1,/match/as-bari/parma-fc/2011,2011,12,serie_a,20,38,2,0,1,20,2,3,6,9,18,WDDWWWLWLLD,2,1,3,5,8,12,2,5,4,7,10,WWDDWLDDDWW,0,2,3,3,8,WDWLLL,WDWDW
+Cagliari,Genoa,0-1,/match/cagliari/genoa/2011,2011,12,serie_a,20,38,2,0,1,18,2,5,4,11,10,DWDDWDLWWDL,2,1,2,7,3,10,4,2,5,9,11,LLDDWWWWLWW,1,1,3,3,5,WDLWL,LDWWW
+Bologna,Brescia,1-0,/match/bologna/brescia/2011,2011,12,serie_a,20,38,0,1,0,13,2,5,4,10,15,DWDWDDWDWWW,2,3,0,5,2,19,3,2,6,10,14,WWLWWWLWLDD,1,1,4,4,8,DWDDW,WLWWWD
+Udinese,Lecce,4-0,/match/udinese/lecce/2011,2011,12,serie_a,20,38,0,4,0,16,4,2,5,9,12,LWLWDWLWLDW,2,1,2,4,7,11,3,3,5,8,18,WWWDDWWWWWD,0,1,5,2,15,LLWWD,WWDWWW
+Inter,Milan,0-1,/match/internazionale/milan/2011,2011,12,serie_a,20,38,2,0,1,4,5,5,1,13,6,DWLWWDLDLDD,2,3,0,8,3,1,7,2,2,20,11,WWDDWLWLLLW,3,1,1,7,6,WWDDD,WDLLL
+Roma,Udinese,2-0,/match/roma/udinese/2011,2011,13,serie_a,20,38,0,2,0,3,5,4,3,15,15,DWDWWWWDWLWD,4,2,0,10,5,12,5,2,5,13,12,LWLWDWLWLDWW,2,1,3,5,5,DDWWWW,WWDLLW
+Milan,Fiorentina,1-0,/match/milan/fiorentina/2011,2011,13,serie_a,20,38,0,1,0,1,8,2,2,21,11,WWDDWLWLLLWL,4,1,1,13,5,11,4,3,5,13,13,DWLDWLWWDWWW,0,2,3,4,7,WDWWLW,WDWDW
+Genoa,Juventus,0-2,/match/genoa/juventus-fc/2011,2011,13,serie_a,20,38,2,0,2,13,5,2,5,10,11,LLDDWWWWLWWL,3,1,2,6,6,4,5,5,2,23,13,WDLLWDWDLWDD,2,3,1,7,3,LDWWLW,WLDDLD
+Parma,Lazio,1-1,/match/parma-fc/lazio/2011,2011,13,serie_a,20,38,1,1,1,15,3,5,4,8,10,WWDDWLDDDWWL,2,3,1,4,2,2,8,1,3,15,9,WWLDLWLWLLWW,4,0,2,6,4,WDLDDW,WLLLLW
+Lecce,Sampdoria,2-3,/match/lecce/sampdoria/2011,2011,13,serie_a,20,38,2,2,3,16,3,3,6,8,22,WWWDDWWWWWDW,3,2,0,6,3,8,3,7,2,11,9,WDLDDDWDLDWD,1,4,1,6,6,WDWWD,DDDDLW
+Chievo,Inter,2-1,/match/chievo/internazionale/2011,2011,13,serie_a,20,38,0,2,1,14,4,4,4,11,10,WLLLLDWWDWDD,2,2,2,4,4,5,5,5,2,13,7,DWLWWDLDLDDL,3,2,1,5,3,WLLDWD,DLWLLD
+Cesena,Palermo FC,1-2,/match/ac-cesena/palermo/2011,2011,13,serie_a,20,38,2,1,2,17,3,2,7,8,15,DWWWLWDWLWWW,3,1,2,6,6,10,5,2,5,20,17,DWLLDLWWLWWW,2,0,3,9,10,WWLDLW,WLLWW
+Catania,SSC Bari,1-0,/match/catania/as-bari/2011,2011,13,serie_a,20,38,0,1,0,7,3,5,4,10,11,WWDWDWDWDDWW,3,3,0,7,3,20,2,3,7,9,19,WDDWWWLWLLDL,0,2,3,4,10,WWDDDW,DWWWD
+Brescia,Cagliari,1-2,/match/brescia/cagliari/2011,2011,13,serie_a,20,38,2,1,2,19,3,2,7,10,15,WWLWWWLWLDDW,2,1,2,6,6,18,2,5,5,11,11,DWDDWDLWWDLL,0,4,2,4,7,WWLLD,DDWDWD
+Napoli,Bologna,4-1,/match/napoli/bologna/2011,2011,13,serie_a,20,38,0,4,1,6,6,3,3,18,13,DDLLLWDLLWLW,2,1,2,8,7,9,3,5,4,11,15,DWDWDDWDWWWW,0,2,4,5,13,DLWLW,WDDWWW
+Sampdoria,Milan,1-1,/match/sampdoria/milan/2011,2011,14,serie_a,20,38,1,1,1,9,4,7,2,14,11,WDLDDDWDLDWDL,2,3,1,5,3,1,9,2,2,22,11,WWDDWLWLLLWLW,4,1,1,8,6,WLDWDD,WDLLLL
+Juventus,Fiorentina,1-1,/match/juventus-fc/fiorentina/2011,2011,14,serie_a,20,38,1,1,1,4,6,5,2,25,13,WDLLWDWDLWDDL,3,2,1,16,10,12,4,3,6,13,14,DWLDWLWWDWWWW,0,2,4,4,8,DLWWWD,WDWDWW
+Inter,Parma,5-2,/match/internazionale/parma-fc/2011,2011,14,serie_a,20,38,0,5,2,8,5,5,3,14,9,DWLWWDLDLDDLW,2,3,1,8,4,11,3,6,4,9,11,WWDDWLDDDWWLD,1,2,3,4,8,WWDDDL,WDWDWL
+Lazio,Catania,1-1,/match/lazio/catania/2011,2011,14,serie_a,20,38,1,1,1,3,8,2,3,16,10,WWLDLWLWLLWWD,4,1,1,9,5,6,4,5,4,11,11,WWDWDWDWDDWWW,0,2,4,3,8,WDWWLW,WDWWDW
+SSC Bari,Cesena,1-1,/match/as-bari/ac-cesena/2011,2011,14,serie_a,20,38,1,1,1,20,2,3,8,9,20,WDDWWWLWLLDLW,2,1,4,5,9,18,3,2,8,9,17,DWWWLWDWLWWWL,0,1,5,2,9,WDWLLLL,DWWWWW
+Cagliari,Lecce,3-2,/match/cagliari/lecce/2011,2011,14,serie_a,20,38,0,3,2,17,3,5,5,13,12,DWDDWDLWWDLLL,2,1,3,7,4,16,3,3,7,10,25,WWWDDWWWWWDWL,0,1,6,2,19,WDLWLL,WWDWWWW
+Brescia,Genoa,0-0,/match/brescia/genoa/2011,2011,14,serie_a,20,38,1,0,0,19,3,2,8,11,17,WWLWWWLWLDDWL,2,1,3,7,8,14,5,2,6,10,13,LLDDWWWWLWWLL,2,1,3,4,5,WWLLDL,LDWWWL
+Udinese,Napoli,3-1,/match/udinese/napoli/2011,2011,14,serie_a,20,38,0,3,1,15,5,2,6,13,14,LWLWDWLWLDWWW,3,1,2,8,7,5,7,3,3,22,14,DDLLLWDLLWLWW,4,2,1,10,6,LLWWDW,DLLDLLW
+Palermo FC,Roma,3-1,/match/palermo/roma/2011,2011,14,serie_a,20,38,0,3,1,10,6,2,5,22,18,DWLLDLWWLWWWL,3,2,2,11,7,2,6,4,3,17,15,DWDWWWWDWLWDW,1,2,3,5,10,DLDWLWW,WWWDLD
+Bologna,Chievo,2-1,/match/bologna/chievo/2011,2011,14,serie_a,20,38,0,2,1,13,3,5,5,12,19,DWDWDDWDWWWWW,3,3,0,6,2,7,5,4,4,13,11,WLLLLDWWDWDDW,2,2,2,7,6,DWDDWW,LLWDWD
+Lazio,Inter,3-1,/match/lazio/internazionale/2011,2011,15,serie_a,20,38,0,3,1,2,8,3,3,17,11,WWLDLWLWLLWWDD,4,2,1,10,6,5,6,5,3,19,11,DWLWWDLDLDDLWW,3,2,2,6,5,WDWWLWD,DLWLLDW
+Chievo,Roma,2-2,/match/chievo/roma/2011,2011,15,serie_a,20,38,1,2,2,12,5,4,5,14,13,WLLLLDWWDWDDWW,3,2,2,6,5,3,6,4,4,18,18,DWDWWWWDWLWDWW,1,2,4,6,13,WLLDWDW,WWWDLDW
+Milan,Brescia,3-0,/match/milan/brescia/2011,2011,15,serie_a,20,38,0,3,0,1,9,3,2,23,12,WWDDWLWLLLWLWD,5,1,1,14,5,19,3,3,8,11,17,WWLWWWLWLDDWLD,1,1,5,4,9,WDWWLWW,WLWWWDW
+Sampdoria,SSC Bari,3-0,/match/sampdoria/as-bari/2011,2011,15,serie_a,20,38,0,3,0,9,4,8,2,15,12,WDLDDDWDLDWDLD,2,4,1,6,4,20,2,4,8,10,21,WDDWWWLWLLDLWD,0,2,4,4,11,WLDWDDD,DWWWDW
+Parma,Udinese,2-1,/match/parma-fc/udinese/2011,2011,15,serie_a,20,38,0,2,1,15,3,6,5,11,16,WWDDWLDDDWWLDW,2,4,1,5,3,11,6,2,6,16,15,LWLWDWLWLDWWWW,2,1,4,5,7,WDLDDWD,WWDLLWW
+Lecce,Genoa,1-3,/match/lecce/genoa/2011,2011,15,serie_a,20,38,2,1,3,17,3,3,8,12,28,WWWDDWWWWWDWLW,3,2,1,8,6,16,5,3,6,10,13,LLDDWWWWLWWLLD,2,2,3,4,5,WDWWDL,LDWWWLD
+Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/2011,2011,15,serie_a,20,38,0,1,0,13,4,4,6,14,15,DWLDWLWWDWWWWD,4,1,2,9,6,14,4,5,5,16,14,DWDDWDLWWDLLLW,1,4,2,6,8,DLWLWWW,DDWDWDL
+Cesena,Bologna,0-2,/match/ac-cesena/bologna/2011,2011,15,serie_a,20,38,2,0,2,18,3,3,8,10,18,DWWWLWDWLWWWLD,3,1,3,7,8,10,4,5,5,14,20,DWDWDDWDWWWWWW,0,2,5,6,17,WWLDLWL,WDDWWWW
+Catania,Juventus,1-3,/match/catania/juventus-fc/2011,2011,15,serie_a,20,38,2,1,3,7,4,6,4,12,12,WWDWDWDWDDWWWD,4,3,0,8,3,4,6,6,2,26,14,WDLLWDWDLWDDLD,3,3,1,9,3,WWDDDWW,WLDDLDL
+Napoli,Palermo FC,1-0,/match/napoli/palermo/2011,2011,15,serie_a,20,38,0,1,0,8,7,3,4,23,17,DDLLLWDLLWLWWW,3,1,2,12,8,6,7,2,5,25,19,DWLLDLWWLWWWLW,3,0,3,11,11,DLWLWW,WLLWWL
+Udinese,Fiorentina,2-1,/match/udinese/fiorentina/2011,2011,16,serie_a,20,38,0,2,1,14,6,2,7,17,17,LWLWDWLWLDWWWWW,4,1,2,11,8,11,5,4,6,15,15,DWLDWLWWDWWWWDW,0,3,4,5,9,LLWWDWW,WDWDWWD
+Palermo FC,Parma,3-1,/match/palermo/parma-fc/2011,2011,16,serie_a,20,38,0,3,1,8,7,2,6,25,20,DWLLDLWWLWWWLWW,4,2,2,14,8,12,4,6,5,13,17,WWDDWLDDDWWLDWW,1,2,4,6,13,DLDWLWWW,WDWDWLW
+Genoa,Napoli,0-1,/match/genoa/napoli/2011,2011,16,serie_a,20,38,2,0,1,15,6,3,6,13,14,LLDDWWWWLWWLLDL,3,1,3,6,8,5,8,3,4,24,17,DDLLLWDLLWLWWWW,4,2,2,11,9,LDWWLWL,DLLDLLWW
+Bologna,Milan,0-3,/match/bologna/milan/2011,2011,16,serie_a,20,38,2,0,3,9,5,5,5,16,20,DWDWDDWDWWWWWWL,4,3,0,8,3,1,10,3,2,26,12,WWDDWLWLLLWLWDW,4,2,1,9,7,DWDDWWW,WDLLLLD
+Cagliari,Catania,3-0,/match/cagliari/catania/2011,2011,16,serie_a,20,38,0,3,0,16,4,5,6,16,15,DWDDWDLWWDLLLWW,3,1,3,10,6,10,4,6,5,13,15,WWDWDWDWDDWWWDL,0,3,4,4,9,WDLWLLW,WDWWDWD
+Lecce,Chievo,3-2,/match/lecce/chievo/2011,2011,16,serie_a,20,38,0,3,2,17,3,3,9,13,31,WWWDDWWWWWDWLWL,3,2,2,9,9,13,5,5,5,16,15,WLLLLDWWDWDDWWD,2,2,3,8,8,WDWWDLL,LLWDWDW
+Brescia,Sampdoria,1-0,/match/brescia/sampdoria/2011,2011,16,serie_a,20,38,0,1,0,19,3,3,9,11,20,WWLWWWLWLDDWLDW,2,2,3,7,8,6,5,8,2,18,12,WDLDDDWDLDWDLDW,2,4,1,9,8,WWLLDLD,DDDDLWL
+Roma,SSC Bari,1-0,/match/roma/as-bari/2011,2011,16,serie_a,20,38,0,1,0,3,6,5,4,20,20,DWDWWWWDWLWDWWD,5,2,0,12,5,20,2,4,9,10,24,WDDWWWLWLLDLWDW,0,2,5,4,14,DDWWWWW,DWWWDWW
+Juventus,Lazio,2-1,/match/juventus-fc/lazio/2011,2011,16,serie_a,20,38,0,2,1,4,7,6,2,29,15,WDLLWDWDLWDDLDL,3,3,1,17,11,2,9,3,3,20,12,WWLDLWLWLLWWDDW,4,1,2,7,5,DLWWWDD,WLLLLWD
+Inter,Cesena,3-2,/match/internazionale/ac-cesena/2011,2011,16,serie_a,20,38,0,3,2,7,6,5,4,20,14,DWLWWDLDLDDLWWW,3,3,1,13,6,18,3,3,9,10,20,DWWWLWDWLWWWLDL,0,2,5,3,10,WWDDDLW,DWWWWWD
+Cesena,Cagliari,1-0,/match/ac-cesena/cagliari/2011,2011,17,serie_a,20,38,0,1,0,19,3,3,10,12,23,DWWWLWDWLWWWLDLW,3,1,4,7,10,15,5,5,6,19,15,DWDDWDLWWDLLLWWW,1,4,3,6,9,WWLDLWLL,DDWDWDLW
+Milan,Roma,0-1,/match/milan/roma/2011,2011,17,serie_a,20,38,2,0,1,1,11,3,2,29,12,WWDDWLWLLLWLWDWL,6,1,1,17,5,3,7,5,4,21,20,DWDWWWWDWLWDWWDW,1,3,4,8,15,WDWWLWWW,WWWDLDWD
+Lazio,Udinese,3-2,/match/lazio/udinese/2011,2011,17,serie_a,20,38,0,3,2,2,9,3,4,21,14,WWLDLWLWLLWWDDWW,5,2,1,13,7,9,7,2,7,19,18,LWLWDWLWLDWWWWWW,2,1,5,6,9,WDWWLWDW,WWDLLWWW
+Parma,Bologna,0-0,/match/parma-fc/bologna/2011,2011,17,serie_a,20,38,1,0,0,13,4,6,6,14,20,WWDDWLDDDWWLDWWW,3,4,1,7,4,10,5,5,6,16,23,DWDWDDWDWWWWWWLL,1,2,5,8,17,WDLDDWDW,WDDWWWWL
+SSC Bari,Palermo FC,1-1,/match/as-bari/palermo/2011,2011,17,serie_a,20,38,1,1,1,20,2,4,10,10,25,WDDWWWLWLLDLWDWW,2,2,4,6,10,7,8,2,6,28,21,DWLLDLWWLWWWLWWW,3,0,4,11,12,WDWLLLLD,WLLWWLW
+Catania,Brescia,1-0,/match/catania/brescia/2011,2011,17,serie_a,20,38,0,1,0,12,4,6,6,13,18,WWDWDWDWDDWWWDLW,4,3,1,9,6,18,4,3,9,12,20,WWLWWWLWLDDWLDWW,1,1,6,4,12,WWDDDWWL,WLWWWDWW
+Chievo,Juventus,1-1,/match/chievo/juventus-fc/2011,2011,17,serie_a,20,38,1,1,1,14,5,5,6,18,18,WLLLLDWWDWDDWWDW,3,3,2,8,7,4,8,6,2,31,16,WDLLWDWDLWDDLDLW,4,3,1,12,4,WLLDWDWD,WLDDLDLL
+Napoli,Lecce,1-0,/match/napoli/lecce/2011,2011,17,serie_a,20,38,0,1,0,5,9,3,4,25,17,DDLLLWDLLWLWWWWL,4,1,2,13,8,17,4,3,9,16,33,WWWDDWWWWWDWLWLW,0,1,7,4,22,DLWLWWW,WWDWWWWW
+Sampdoria,Genoa,0-1,/match/sampdoria/genoa/2011,2011,17,serie_a,20,38,2,0,1,8,5,8,3,18,13,WDLDDDWDLDWDLDWW,3,4,1,9,4,16,6,3,7,13,15,LLDDWWWWLWWLLDLL,3,2,3,7,6,WLDWDDDW,LDWWWLDL
+Fiorentina,Inter,1-2,/match/fiorentina/internazionale/2011,2011,17,serie_a,20,38,2,1,2,11,5,4,7,16,17,DWLDWLWWDWWWWDWW,5,1,2,10,6,6,7,5,4,23,16,DWLWWDLDLDDLWWWW,3,2,3,7,8,DLWLWWWW,DLWLLDWW
+Juventus,Parma,1-4,/match/juventus-fc/parma-fc/2011,2011,18,serie_a,20,38,2,1,4,4,8,7,2,32,17,WDLLWDWDLWDDLDLWD,4,3,1,19,12,13,4,7,6,14,20,WWDDWLDDDWWLDWWWD,1,2,5,7,16,DLWWWDDW,WDWDWLWW
+Brescia,Cesena,1-2,/match/brescia/ac-cesena/2011,2011,18,serie_a,20,38,2,1,2,19,4,3,10,12,21,WWLWWWLWLDDWLDWWW,3,2,3,8,8,18,4,3,10,13,23,DWWWLWDWLWWWLDLWW,0,2,6,5,13,WWLLDLDW,DWWWWWDW
+Bologna,Fiorentina,1-1,/match/bologna/fiorentina/2011,2011,18,serie_a,20,38,1,1,1,11,5,6,6,16,23,DWDWDDWDWWWWWWLLD,4,3,1,8,6,14,5,4,8,17,19,DWLDWLWWDWWWWDWWL,0,3,5,6,11,DWDDWWWL,WDWDWWDW
+Udinese,Chievo,2-0,/match/udinese/chievo/2011,2011,18,serie_a,20,38,0,2,0,10,7,2,8,21,21,LWLWDWLWLDWWWWWWW,5,1,2,13,9,12,5,6,6,19,19,WLLLLDWWDWDDWWDWD,2,2,4,10,11,LLWWDWWW,LLWDWDWW
+Roma,Catania,4-2,/match/roma/catania/2011,2011,18,serie_a,20,38,0,4,2,3,8,5,4,22,20,DWDWWWWDWLWDWWDWL,6,2,0,13,5,8,5,6,6,14,18,WWDWDWDWDDWWWDLWW,0,3,5,4,12,DDWWWWWW,WDWWDWDW
+Lecce,SSC Bari,0-1,/match/lecce/as-bari/2011,2011,18,serie_a,20,38,2,0,1,17,4,3,10,16,34,WWWDDWWWWWDWLWLWW,4,2,2,12,11,20,2,5,10,11,26,WDDWWWLWLLDLWDWWD,0,2,6,4,15,WDWWDLLW,DWWWDWWW
+Genoa,Lazio,0-0,/match/genoa/lazio/2011,2011,18,serie_a,20,38,1,0,0,16,7,3,7,14,15,LLDDWWWWLWWLLDLLL,3,1,4,6,9,2,10,3,4,24,16,WWLDLWLWLLWWDDWWW,4,1,3,8,7,LDWWLWLL,WLLLLWDW
+Cagliari,Milan,0-1,/match/cagliari/milan/2011,2011,18,serie_a,20,38,2,0,1,15,5,5,7,19,16,DWDDWDLWWDLLLWWWW,4,1,3,13,6,1,11,3,3,29,13,WWDDWLWLLLWLWDWLL,5,2,1,12,7,WDLWLLWW,WDLLLLDL
+Palermo FC,Sampdoria,3-0,/match/palermo/sampdoria/2011,2011,18,serie_a,20,38,0,3,0,7,8,3,6,29,22,DWLLDLWWLWWWLWWWD,5,2,2,17,9,9,5,8,4,18,14,WDLDDDWDLDWDLDWWL,2,4,2,9,9,DLDWLWWWW,DDDDLWLW
+Inter,Napoli,3-1,/match/internazionale/napoli/2011,2011,18,serie_a,20,38,0,3,1,6,8,5,4,25,17,DWLWWDLDLDDLWWWWL,4,3,1,16,8,5,10,3,4,26,17,DDLLLWDLLWLWWWWLW,5,2,2,12,9,WWDDDLWW,DLLDLLWWL
+Sampdoria,Roma,2-1,/match/sampdoria/roma/2011,2011,19,serie_a,20,38,0,2,1,11,5,8,5,18,17,WDLDDDWDLDWDLDWWLW,3,4,2,9,5,2,9,5,4,26,22,DWDWWWWDWLWDWWDWLW,2,3,4,9,15,WLDWDDDWL,WWWDLDWDL
+SSC Bari,Bologna,0-2,/match/as-bari/bologna/2011,2011,19,serie_a,20,38,2,0,2,20,3,5,10,12,26,WDDWWWLWLLDLWDWWDL,2,3,4,7,11,9,5,7,6,17,24,DWDWDDWDWWWWWWLLDD,1,3,5,8,17,WDWLLLLDD,WDDWWWWLD
+Parma,Cagliari,1-2,/match/parma-fc/cagliari/2011,2011,19,serie_a,20,38,2,1,2,12,5,7,6,18,21,WWDDWLDDDWWLDWWWDL,3,5,1,7,4,16,5,5,8,19,17,DWDDWDLWWDLLLWWWWL,1,4,4,6,10,WDLDDWDWD,DDWDWDLWW
+Milan,Udinese,4-4,/match/milan/udinese/2011,2011,19,serie_a,20,38,1,4,4,1,12,3,3,30,13,WWDDWLWLLLWLWDWLLL,6,1,2,17,6,8,8,2,8,23,21,LWLWDWLWLDWWWWWWWW,2,1,6,8,12,WDWWLWWWL,WWDLLWWWW
+Lazio,Lecce,1-2,/match/lazio/lecce/2011,2011,19,serie_a,20,38,2,1,2,3,10,4,4,24,16,WWLDLWLWLLWWDDWWWD,6,2,1,16,9,18,4,3,11,16,35,WWWDDWWWWWDWLWLWWL,0,1,8,4,23,WDWWLWDWW,WWDWWWWWW
+Fiorentina,Brescia,3-2,/match/fiorentina/brescia/2011,2011,19,serie_a,20,38,0,3,2,14,5,5,8,18,20,DWLDWLWWDWWWWDWWLD,5,1,3,11,8,19,4,3,11,13,23,WWLWWWLWLDDWLDWWWL,1,1,7,4,13,DLWLWWWWL,WLWWWDWWW
+Cesena,Genoa,0-0,/match/ac-cesena/genoa/2011,2011,19,serie_a,20,38,1,0,0,17,5,3,10,15,24,DWWWLWDWLWWWLDLWWL,4,1,4,8,10,15,7,4,7,14,15,LLDDWWWWLWWLLDLLLD,4,2,3,8,6,WWLDLWLLW,LDWWWLDLL
+Catania,Inter,1-2,/match/catania/internazionale/2011,2011,19,serie_a,20,38,2,1,2,10,5,6,7,16,22,WWDWDWDWDDWWWDLWWW,5,3,1,10,6,4,9,5,4,28,18,DWLWWDLDLDDLWWWWLW,4,2,3,9,9,WWDDDWWLW,DLWLLDWWL
+Chievo,Palermo FC,0-0,/match/chievo/palermo/2011,2011,19,serie_a,20,38,1,0,0,13,5,6,7,19,21,WLLLLDWWDWDDWWDWDW,3,4,2,9,8,5,9,3,6,32,22,DWLLDLWWLWWWLWWWDW,3,1,4,12,13,WLLDWDWDD,WLLWWLWD
+Napoli,Juventus,3-0,/match/napoli/juventus-fc/2011,2011,19,serie_a,20,38,0,3,0,7,10,3,5,27,20,DDLLLWDLLWLWWWWLWW,5,1,2,14,8,6,8,7,3,33,21,WDLLWDWDLWDDLDLWDL,4,4,1,13,5,DLWLWWWW,WLDDLDLLD
+Napoli,Fiorentina,0-0,/match/napoli/fiorentina/2011,2011,20,serie_a,20,38,1,0,0,5,11,3,5,30,20,DDLLLWDLLWLWWWWLWWW,6,1,2,17,8,11,6,5,8,21,22,DWLDWLWWDWWWWDWWLDW,0,4,5,7,12,DLWLWWWWW,WDWDWWDWD
+Inter,Bologna,4-1,/match/internazionale/bologna/2011,2011,20,serie_a,20,38,0,4,1,4,10,5,4,30,19,DWLWWDLDLDDLWWWWLWL,5,3,1,19,9,10,6,7,6,19,24,DWDWDDWDWWWWWWLLDDL,2,3,5,10,17,WWDDDLWWW,WDDWWWWLDL
+Cagliari,Palermo FC,3-1,/match/cagliari/palermo/2011,2011,20,serie_a,20,38,0,3,1,16,6,5,8,21,18,DWDDWDLWWDLLLWWWWLL,4,1,4,13,7,6,9,4,6,32,22,DWLLDLWWLWWWLWWWDWD,3,2,4,12,13,WDLWLLWWL,WLLWWLWDD
+Genoa,Udinese,2-4,/match/genoa/udinese/2011,2011,20,serie_a,20,38,2,2,4,15,7,5,7,14,15,LLDDWWWWLWWLLDLLLDD,3,2,4,6,9,9,8,3,8,27,25,LWLWDWLWLDWWWWWWWWD,2,2,6,12,16,LDWWLWLLD,WWDLLWWWWD
+Lazio,Sampdoria,1-0,/match/lazio/sampdoria/2011,2011,20,serie_a,20,38,0,1,0,3,10,4,5,25,18,WWLDLWLWLLWWDDWWWDL,6,2,2,17,11,8,6,8,5,20,18,WDLDDDWDLDWDLDWWLWW,2,4,3,9,12,WDWWLWDWWL,DDDDLWLWW
+Cesena,Roma,0-1,/match/ac-cesena/roma/2011,2011,20,serie_a,20,38,2,0,1,17,5,4,10,15,24,DWWWLWDWLWWWLDLWWLD,4,2,4,8,10,2,9,5,5,27,24,DWDWWWWDWLWDWWDWLWW,2,3,5,10,17,WWLDLWLLWD,WWWDLDWDLW
+Brescia,Parma,2-0,/match/brescia/parma-fc/2011,2011,20,serie_a,20,38,0,2,0,19,4,3,12,15,26,WWLWWWLWLDDWLDWWWLW,3,2,4,9,10,13,5,7,7,19,23,WWDDWLDDDWWLDWWWDLL,2,2,5,11,17,WWLLDLDWL,WDWDWLWWL
+Catania,Chievo,1-1,/match/catania/chievo/2011,2011,20,serie_a,20,38,1,1,1,12,5,6,8,17,24,WWDWDWDWDDWWWDLWWWL,5,3,2,11,8,14,5,7,7,19,21,WLLLLDWWDWDDWWDWDWD,2,2,5,10,13,WWDDDWWLWL,LLWDWDWWW
+Juventus,SSC Bari,2-1,/match/juventus-fc/as-bari/2011,2011,20,serie_a,20,38,0,2,1,7,8,7,4,33,24,WDLLWDWDLWDDLDLWDLW,4,3,2,20,16,20,3,5,11,12,28,WDDWWWLWLLDLWDWWDLL,1,2,6,5,15,DLWWWDDWL,DWWWDWWWL
+Lecce,Milan,1-1,/match/lecce/milan/2011,2011,20,serie_a,20,38,1,1,1,18,5,3,11,18,36,WWWDDWWWWWDWLWLWWLL,4,2,3,12,12,1,12,4,3,34,17,WWDDWLWLLLWLWDWLLLD,6,2,1,13,7,WDWWDLLWL,WDLLLLDLL
+Palermo FC,Brescia,1-0,/match/palermo/brescia/2011,2011,21,serie_a,20,38,0,1,0,7,9,4,7,33,25,DWLLDLWWLWWWLWWWDWDW,6,2,2,20,9,19,5,3,12,17,26,WWLWWWLWLDDWLDWWWLWW,1,1,8,6,16,DLDWLWWWWW,WLWWWDWWWW
+Parma,Catania,2-0,/match/parma-fc/catania/2011,2011,21,serie_a,20,38,0,2,0,15,5,7,8,19,25,WWDDWLDDDWWLDWWWDLLW,3,5,2,8,6,10,5,7,8,18,25,WWDWDWDWDDWWWDLWWWLD,0,3,6,6,16,WDLDDWDWDL,WDWWDWDWW
+Roma,Cagliari,3-0,/match/roma/cagliari/2011,2011,21,serie_a,20,38,0,3,0,4,10,5,5,28,24,DWDWWWWDWLWDWWDWLWWL,7,2,0,17,7,13,7,5,8,24,19,DWDDWDLWWDLLLWWWWLLW,2,4,4,8,11,DDWWWWWWW,DDWDWDLWWL
+Udinese,Inter,3-1,/match/udinese/internazionale/2011,2011,21,serie_a,20,38,0,3,1,8,9,3,8,31,27,LWLWDWLWLDWWWWWWWWDL,6,1,2,15,9,3,11,5,4,34,20,DWLWWDLDLDDLWWWWLWLW,5,2,3,11,10,LLWWDWWWW,DLWLLDWWLL
+Chievo,Genoa,0-0,/match/chievo/genoa/2011,2011,21,serie_a,20,38,1,0,0,14,5,8,7,20,22,WLLLLDWWDWDDWWDWDWDD,3,5,2,9,8,16,7,5,8,16,19,LLDDWWWWLWWLLDLLLDDL,4,3,3,8,6,WLLDWDWDDD,LDWWWLDLLD
+Sampdoria,Juventus,0-0,/match/sampdoria/juventus-fc/2011,2011,21,serie_a,20,38,1,0,0,9,6,8,6,20,19,WDLDDDWDLDWDLDWWLWWW,4,4,2,11,6,6,9,7,4,35,25,WDLLWDWDLWDDLDLWDLWW,4,4,2,13,8,WLDWDDDWLW,WLDDLDLLDW
+Bologna,Lazio,3-1,/match/bologna/lazio/2011,2011,21,serie_a,20,38,0,3,1,12,6,7,7,20,28,DWDWDDWDWWWWWWLLDDLW,4,4,1,9,7,2,11,4,5,26,18,WWLDLWLWLLWWDDWWWDLW,4,2,3,8,7,DWDDWWWLD,WLLLLWDWD
+Fiorentina,Lecce,1-1,/match/fiorentina/lecce/2011,2011,21,serie_a,20,38,1,1,1,11,6,6,8,21,22,DWLDWLWWDWWWWDWWLDWD,6,1,3,14,10,17,5,4,11,19,37,WWWDDWWWWWDWLWLWWLLD,1,1,8,6,24,DLWLWWWWLW,WWDWWWWWWL
+SSC Bari,Napoli,0-2,/match/as-bari/napoli/2011,2011,21,serie_a,20,38,2,0,2,20,3,5,12,13,30,WDDWWWLWLLDLWDWWDLLW,2,3,5,7,13,5,11,4,5,30,20,DDLLLWDLLWLWWWWLWWWD,5,2,3,13,12,WDWLLLLDDL,DLLDLLWWLW
+Milan,Cesena,2-0,/match/milan/ac-cesena/2011,2011,21,serie_a,20,38,0,2,0,1,12,5,3,35,18,WWDDWLWLLLWLWDWLLLDD,6,2,2,21,10,18,5,4,11,15,25,DWWWLWDWLWWWLDLWWLDL,1,2,6,7,14,WDWWLWWWLD,DWWWWWDWL
+Lazio,Fiorentina,2-0,/match/lazio/fiorentina/2011,2011,22,serie_a,20,38,0,2,0,3,11,4,6,27,21,WWLDLWLWLLWWDDWWWDLWW,7,2,2,18,11,11,6,7,8,22,23,DWLDWLWWDWWWWDWWLDWDD,0,5,5,7,12,WDWWLWDWWLW,WDWDWWDWDD
+Catania,Milan,0-2,/match/catania/milan/2011,2011,22,serie_a,20,38,2,0,2,13,5,7,9,18,27,WWDWDWDWDDWWWDLWWWLDW,5,4,2,12,9,1,13,5,3,37,18,WWDDWLWLLLWLWDWLLLDDW,6,3,1,14,8,WWDDDWWLWLD,WDLLLLDLLD
+Brescia,Chievo,0-3,/match/brescia/chievo/2011,2011,22,serie_a,20,38,2,0,3,19,5,3,13,17,27,WWLWWWLWLDDWLDWWWLWWW,4,2,4,11,10,14,5,9,7,20,22,WLLLLDWWDWDDWWDWDWDDD,2,3,5,11,14,WWLLDLDWLW,LLWDWDWWWD
+Inter,Palermo FC,3-2,/match/internazionale/palermo/2011,2011,22,serie_a,20,38,0,3,2,4,11,5,5,35,23,DWLWWDLDLDDLWWWWLWLWW,6,3,1,23,10,6,10,4,7,34,25,DWLLDLWWLWWWLWWWDWDWW,3,2,5,13,16,WWDDDLWWWW,WLLWWLWDDW
+Napoli,Sampdoria,4-0,/match/napoli/sampdoria/2011,2011,22,serie_a,20,38,0,4,0,5,12,4,5,32,20,DDLLLWDLLWLWWWWLWWWDL,6,2,2,17,8,10,6,9,6,20,19,WDLDDDWDLDWDLDWWLWWWD,2,4,4,9,13,DLWLWWWWWD,DDDDLWLWWW
+Cagliari,SSC Bari,2-1,/match/cagliari/as-bari/2011,2011,22,serie_a,20,38,0,2,1,15,7,5,9,24,22,DWDDWDLWWDLLLWWWWLLWW,5,1,4,16,8,20,3,5,13,13,32,WDDWWWLWLLDLWDWWDLLWL,1,2,7,6,17,WDLWLLWWLW,DWWWDWWWLW
+Genoa,Parma,3-1,/match/genoa/parma-fc/2011,2011,22,serie_a,20,38,0,3,1,16,7,6,8,16,19,LLDDWWWWLWWLLDLLLDDLD,3,2,5,8,13,12,6,7,8,21,25,WWDDWLDDDWWLDWWWDLLWW,2,2,6,11,19,LDWWLWLLDL,WDWDWLWWLW
+Lecce,Cesena,1-1,/match/lecce/ac-cesena/2011,2011,22,serie_a,20,38,1,1,1,17,5,5,11,20,38,WWWDDWWWWWDWLWLWWLLDD,4,3,3,13,13,18,5,4,12,15,27,DWWWLWDWLWWWLDLWWLDLW,1,2,7,7,16,WDWWDLLWLD,DWWWWWDWLW
+Juventus,Udinese,1-2,/match/juventus-fc/udinese/2011,2011,22,serie_a,20,38,2,1,2,7,9,8,4,35,25,WDLLWDWDLWDDLDLWDLWWD,5,3,2,22,17,8,10,3,8,34,28,LWLWDWLWLDWWWWWWWWDLW,3,2,6,16,18,DLWWWDDWLW,WWDLLWWWWDL
+Bologna,Roma,0-1,/match/bologna/roma/2011,2011,22,serie_a,20,38,2,0,1,9,7,7,7,23,29,DWDWDDWDWWWWWWLLDDLWW,5,4,1,12,8,2,11,5,5,31,24,DWDWWWWDWLWDWWDWLWWLW,3,3,5,11,17,DWDDWWWLDW,WWWDLDWDLWL
+Milan,Lazio,0-0,/match/milan/lazio/2011,2011,23,serie_a,20,38,1,0,0,1,14,5,3,39,18,WWDDWLWLLLWLWDWLLLDDWL,7,2,2,23,10,3,12,4,6,29,21,WWLDLWLWLLWWDDWWWDLWWW,4,2,4,9,10,WDWWLWWWLDW,WLLLLWDWDW
+Roma,Brescia,1-1,/match/roma/brescia/2011,2011,23,serie_a,20,38,1,1,1,2,12,5,5,32,24,DWDWWWWDWLWDWWDWLWWLWL,8,2,0,20,7,19,5,3,14,17,30,WWLWWWLWLDDWLDWWWLWWWL,1,1,9,6,17,DDWWWWWWWW,WLWWWDWWWWW
+Udinese,Bologna,1-1,/match/udinese/bologna/2011,2011,23,serie_a,20,38,1,1,1,7,11,3,8,36,29,LWLWDWLWLDWWWWWWWWDLWL,7,1,2,18,10,9,7,7,8,23,30,DWDWDDWDWWWWWWLLDDLWWL,2,3,6,11,21,LLWWDWWWWW,WDDWWWWLDLW
+Parma,Lecce,0-1,/match/parma-fc/lecce/2011,2011,23,serie_a,20,38,2,0,1,14,6,7,9,22,28,WWDDWLDDDWWLDWWWDLLWWW,4,5,2,10,6,17,5,6,11,21,39,WWWDDWWWWWDWLWLWWLLDDD,1,2,8,7,25,WDLDDWDWDLW,WWDWWWWWWLD
+Palermo FC,Juventus,2-1,/match/palermo/juventus-fc/2011,2011,23,serie_a,20,38,0,2,1,6,10,4,8,36,28,DWLLDLWWLWWWLWWWDWDWWW,7,2,2,21,9,8,9,8,5,36,27,WDLLWDWDLWDDLDLWDLWWDL,4,5,2,13,8,DLDWLWWWWWW,WLDDLDLLDWD
+Fiorentina,Genoa,1-0,/match/fiorentina/genoa/2011,2011,23,serie_a,20,38,0,1,0,13,6,7,9,22,25,DWLDWLWWDWWWWDWWLDWDDW,6,2,3,15,11,15,8,6,8,19,20,LLDDWWWWLWWLLDLLLDDLDW,4,4,3,8,6,DLWLWWWWLWD,LDWWWLDLLDD
+Cesena,Catania,1-1,/match/ac-cesena/catania/2011,2011,23,serie_a,20,38,1,1,1,18,5,5,12,16,28,DWWWLWDWLWWWLDLWWLDLWD,4,2,5,8,11,16,5,7,10,18,29,WWDWDWDWDDWWWDLWWWLDWL,0,3,7,6,18,WWLDLWLLWDL,WDWWDWDWWW
+Sampdoria,Cagliari,0-1,/match/sampdoria/cagliari/2011,2011,23,serie_a,20,38,2,0,1,10,6,9,7,20,23,WDLDDDWDLDWDLDWWLWWWDW,4,5,2,11,6,11,8,5,9,26,23,DWDDWDLWWDLLLWWWWLLWWW,2,4,5,8,14,WLDWDDDWLWD,DDWDWDLWWLW
+Chievo,Napoli,2-0,/match/chievo/napoli/2011,2011,23,serie_a,20,38,0,2,0,12,6,9,7,23,22,WLLLLDWWDWDDWWDWDWDDDL,3,6,2,9,8,5,13,4,5,36,20,DDLLLWDLLWLWWWWLWWWDLW,6,2,3,15,12,WLLDWDWDDDD,DLLDLLWWLWL
+SSC Bari,Inter,0-3,/match/as-bari/internazionale/2011,2011,23,serie_a,20,38,2,0,3,20,3,5,14,14,34,WDDWWWLWLLDLWDWWDLLWLW,2,3,6,7,15,4,12,5,5,38,25,DWLWWDLDLDDLWWWWLWLWWW,5,2,4,12,13,WDWLLLLDDLL,DLWLLDWWLLW
+Udinese,Sampdoria,2-0,/match/udinese/sampdoria/2011,2011,24,serie_a,20,38,0,2,0,7,11,4,8,37,30,LWLWDWLWLDWWWWWWWWDLWLD,7,2,2,19,11,13,6,9,8,20,24,WDLDDDWDLDWDLDWWLWWWDWL,2,4,5,9,17,LLWWDWWWWWD,DDDDLWLWWWW
+Cagliari,Juventus,1-3,/match/cagliari/juventus-fc/2011,2011,24,serie_a,20,38,2,1,3,11,9,5,9,27,23,DWDDWDLWWDLLLWWWWLLWWWL,6,1,4,18,9,8,9,8,6,37,29,WDLLWDWDLWDDLDLWDLWWDLW,4,5,3,14,10,WDLWLLWWLWW,WLDDLDLLDWDW
+Bologna,Catania,1-0,/match/bologna/catania/2011,2011,24,serie_a,20,38,0,1,0,12,7,8,8,24,31,DWDWDDWDWWWWWWLLDDLWWLD,5,4,2,12,9,16,5,8,10,19,30,WWDWDWDWDDWWWDLWWWLDWLD,0,4,7,7,19,DWDDWWWLDWL,WDWWDWDWWWD
+Brescia,SSC Bari,2-0,/match/brescia/as-bari/2011,2011,24,serie_a,20,38,0,2,0,19,5,4,14,18,31,WWLWWWLWLDDWLDWWWLWWWLD,4,2,5,11,13,20,3,5,15,14,37,WDDWWWLWLLDLWDWWDLLWLWL,1,2,8,7,19,WWLLDLDWLWL,DWWWDWWWLWW
+Lecce,Palermo FC,2-4,/match/lecce/palermo/2011,2011,24,serie_a,20,38,2,2,4,17,6,6,11,22,39,WWWDDWWWWWDWLWLWWLLDDDL,4,4,3,14,14,6,11,4,8,38,29,DWLLDLWWLWWWLWWWDWDWWWW,3,2,6,15,19,WDWWDLLWLDD,WLLWWLWDDWW
+Genoa,Milan,1-1,/match/genoa/milan/2011,2011,24,serie_a,20,38,1,1,1,15,8,6,9,19,21,LLDDWWWWLWWLLDLLLDDLDWW,4,2,5,11,14,1,14,6,3,39,18,WWDDWLWLLLWLWDWLLLDDWLD,7,3,1,16,8,LDWWLWLLDLW,WDLLLLDLLDL
+Napoli,Cesena,2-0,/match/napoli/ac-cesena/2011,2011,24,serie_a,20,38,0,2,0,5,13,4,6,36,22,DDLLLWDLLWLWWWWLWWWDLWW,7,2,2,21,8,18,5,6,12,17,29,DWWWLWDWLWWWLDLWWLDLWDD,1,3,7,8,17,DLWLWWWWWDW,DWWWWWDWLWD
+Lazio,Chievo,1-1,/match/lazio/chievo/2011,2011,24,serie_a,20,38,1,1,1,4,12,5,6,29,21,WWLDLWLWLLWWDDWWWDLWWWD,8,2,2,20,11,10,7,9,7,25,22,WLLLLDWWDWDDWWDWDWDDDLW,3,3,5,14,14,WDWWLWDWWLWW,LLWDWDWWWDL
+Parma,Fiorentina,1-1,/match/parma-fc/fiorentina/2011,2011,24,serie_a,20,38,1,1,1,14,6,7,10,22,29,WWDDWLDDDWWLDWWWDLLWWWL,4,5,3,10,7,9,7,7,9,23,25,DWLDWLWWDWWWWDWWLDWDDWW,0,5,6,7,14,WDLDDWDWDLWL,WDWDWWDWDDW
+Inter,Roma,5-3,/match/internazionale/roma/2011,2011,24,serie_a,20,38,0,5,3,3,13,5,5,41,25,DWLWWDLDLDDLWWWWLWLWWWL,7,3,1,26,12,2,12,6,5,33,25,DWDWWWWDWLWDWWDWLWWLWLD,4,3,5,12,17,WWDDDLWWWWW,WWWDLDWDLWLL
+Milan,Parma,4-0,/match/milan/parma-fc/2011,2011,25,serie_a,20,38,0,4,0,1,14,7,3,40,19,WWDDWLWLLLWLWDWLLLDDWLDD,7,3,2,23,10,14,6,8,10,23,30,WWDDWLDDDWWLDWWWDLLWWWLD,2,2,7,12,22,WDWWLWWWLDWD,WDWDWLWWLWW
+Roma,Napoli,0-2,/match/roma/napoli/2011,2011,25,serie_a,20,38,2,0,2,5,12,6,6,36,30,DWDWWWWDWLWDWWDWLWWLWLDW,8,3,0,21,8,3,14,4,6,38,22,DDLLLWDLLWLWWWWLWWWDLWWW,6,2,4,15,14,DDWWWWWWWWD,DLLDLLWWLWLW
+Palermo FC,Fiorentina,2-4,/match/palermo/fiorentina/2011,2011,25,serie_a,20,38,2,2,4,6,12,4,8,42,31,DWLLDLWWLWWWLWWWDWDWWWWL,8,2,2,23,10,10,7,8,9,24,26,DWLDWLWWDWWWWDWWLDWDDWWD,0,6,6,8,15,DLDWLWWWWWWW,WDWDWWDWDDWD
+Brescia,Lazio,0-2,/match/brescia/lazio/2011,2011,25,serie_a,20,38,2,0,2,18,6,4,14,20,31,WWLWWWLWLDDWLDWWWLWWWLDW,5,2,5,13,13,4,12,6,6,30,22,WWLDLWLWLLWWDDWWWDLWWWDD,4,3,4,9,10,WWLLDLDWLWLW,WLLLLWDWDWD
+Catania,Lecce,3-2,/match/catania/lecce/2011,2011,25,serie_a,20,38,0,3,2,16,5,8,11,19,31,WWDWDWDWDDWWWDLWWWLDWLDW,5,4,3,12,11,17,6,6,12,24,43,WWWDDWWWWWDWLWLWWLLDDDLL,2,2,8,8,25,WWDDDWWLWLDL,WWDWWWWWWLDL
+SSC Bari,Genoa,0-0,/match/as-bari/genoa/2011,2011,25,serie_a,20,38,1,0,0,20,3,5,16,14,39,WDDWWWLWLLDLWDWWDLLWLWLW,2,3,7,7,18,15,8,7,9,20,22,LLDDWWWWLWWLLDLLLDDLDWWD,4,4,4,8,7,WDWLLLLDDLLL,LDWWWLDLLDDW
+Cesena,Udinese,0-3,/match/ac-cesena/udinese/2011,2011,25,serie_a,20,38,2,0,3,19,5,6,13,17,31,DWWWLWDWLWWWLDLWWLDLWDDW,4,3,5,9,12,7,12,4,8,39,30,LWLWDWLWLDWWWWWWWWDLWLDW,4,2,6,18,19,WWLDLWLLWDLD,WWDLLWWWWDLL
+Sampdoria,Bologna,3-1,/match/sampdoria/bologna/2011,2011,25,serie_a,20,38,0,3,1,13,6,9,9,20,26,WDLDDDWDLDWDLDWWLWWWDWLW,4,5,3,11,7,9,8,8,8,25,31,DWDWDDWDWWWWWWLLDDLWWLDW,2,4,6,12,22,WLDWDDDWLWDL,WDDWWWWLDLWD
+Cagliari,Chievo,4-1,/match/cagliari/chievo/2011,2011,25,serie_a,20,38,0,4,1,12,9,5,10,28,26,DWDDWDLWWDLLLWWWWLLWWWLL,6,1,5,19,12,11,7,10,7,26,23,WLLLLDWWDWDDWWDWDWDDDLWD,3,4,5,15,15,WDLWLLWWLWWL,LLWDWDWWWDLD
+Juventus,Inter,1-0,/match/juventus-fc/internazionale/2011,2011,25,serie_a,20,38,0,1,0,8,10,8,6,40,30,WDLLWDWDLWDDLDLWDLWWDLWL,5,3,3,23,19,2,14,5,5,46,28,DWLWWDLDLDDLWWWWLWLWWWLW,6,2,4,15,13,DLWWWDDWLWL,DLWLLDWWLLWL
+Bologna,Palermo FC,1-0,/match/bologna/palermo/2011,2011,26,serie_a,20,38,0,1,0,9,8,8,9,26,34,DWDWDDWDWWWWWWLLDDLWWLDWW,6,4,2,13,9,7,12,4,9,44,35,DWLLDLWWLWWWLWWWDWDWWWWLL,4,2,6,19,21,DWDDWWWLDWLW,WLLWWLWDDWWL
+Inter,Cagliari,1-0,/match/internazionale/cagliari/2011,2011,26,serie_a,20,38,0,1,0,3,14,5,6,46,29,DWLWWDLDLDDLWWWWLWLWWWLWW,8,3,1,31,15,11,10,5,10,32,27,DWDDWDLWWDLLLWWWWLLWWWLLW,3,4,5,9,14,WWDDDLWWWWWW,DDWDWDLWWLWL
+Lecce,Juventus,2-0,/match/lecce/juventus-fc/2011,2011,26,serie_a,20,38,0,2,0,17,6,6,13,26,46,WWWDDWWWWWDWLWLWWLLDDDLLW,4,4,4,16,18,8,11,8,6,41,30,WDLLWDWDLWDDLDLWDLWWDLWLW,5,5,3,17,11,WDWWDLLWLDDL,WLDDLDLLDWDWL
+Genoa,Roma,4-3,/match/genoa/roma/2011,2011,26,serie_a,20,38,0,4,3,15,8,8,9,20,22,LLDDWWWWLWWLLDLLLDDLDWWDD,4,3,5,12,15,5,12,6,7,36,32,DWDWWWWDWLWDWWDWLWWLWLDWL,4,3,6,15,22,LDWWLWLLDLWD,WWWDLDWDLWLLW
+Chievo,Milan,1-2,/match/chievo/milan/2011,2011,26,serie_a,20,38,2,1,2,13,7,10,8,27,27,WLLLLDWWDWDDWWDWDWDDDLWDW,4,6,2,11,8,1,15,7,3,44,19,WWDDWLWLLLWLWDWLLLDDWLDDW,7,4,1,17,9,WLLDWDWDDDDW,WDLLLLDLLDLD
+Lazio,SSC Bari,1-0,/match/lazio/as-bari/2011,2011,26,serie_a,20,38,0,1,0,4,13,6,6,32,22,WWLDLWLWLLWWDDWWWDLWWWDDL,8,3,2,21,12,20,3,6,16,14,39,WDDWWWLWLLDLWDWWDLLWLWLWD,1,2,9,7,21,WDWWLWDWWLWWD,DWWWDWWWLWWW
+Parma,Cesena,2-2,/match/parma-fc/ac-cesena/2011,2011,26,serie_a,20,38,1,2,2,16,6,8,11,23,34,WWDDWLDDDWWLDWWWDLLWWWLDW,4,6,3,11,8,19,5,6,14,17,34,DWWWLWDWLWWWLDLWWLDLWDDWL,1,3,8,8,19,WDLDDWDWDLWLD,DWWWWWDWLWDW
+Udinese,Brescia,0-0,/match/udinese/brescia/2011,2011,26,serie_a,20,38,1,0,0,6,13,4,8,42,30,LWLWDWLWLDWWWWWWWWDLWLDWL,8,2,2,21,11,18,6,4,15,20,33,WWLWWWLWLDDWLDWWWLWWWLDWL,1,2,9,7,18,LLWWDWWWWWDW,WLWWWDWWWWWD
+Fiorentina,Sampdoria,0-0,/match/fiorentina/sampdoria/2011,2011,26,serie_a,20,38,1,0,0,10,8,8,9,28,28,DWLDWLWWDWWWWDWWLDWDDWWDL,7,2,3,16,11,12,7,9,9,23,27,WDLDDDWDLDWDLDWWLWWWDWLWW,2,4,6,9,19,DLWLWWWWLWDW,DDDDLWLWWWWW
+Napoli,Catania,1-0,/match/napoli/catania/2011,2011,26,serie_a,20,38,0,1,0,2,15,4,6,40,22,DDLLLWDLLWLWWWWLWWWDLWWWL,8,2,2,23,8,14,6,8,11,22,33,WWDWDWDWDDWWWDLWWWLDWLDWW,0,4,8,7,20,DLWLWWWWWDWW,WDWWDWDWWWDW
+Juventus,Bologna,0-2,/match/juventus-fc/bologna/2011,2011,27,serie_a,20,38,2,0,2,8,11,8,7,41,32,WDLLWDWDLWDDLDLWDLWWDLWLWW,6,3,3,24,19,9,9,8,9,27,34,DWDWDDWDWWWWWWLLDDLWWLDWWW,2,4,7,13,25,DLWWWDDWLWLW,WDDWWWWLDLWDW
+Catania,Genoa,2-1,/match/catania/genoa/2011,2011,27,serie_a,20,38,0,2,1,15,6,8,12,22,34,WWDWDWDWDDWWWDLWWWLDWLDWWW,6,4,3,15,13,13,9,8,9,24,25,LLDDWWWWLWWLLDLLLDDLDWWDDW,4,5,4,8,7,WWDDDWWLWLDLW,LDWWWLDLLDDWD
+Roma,Parma,2-2,/match/roma/parma-fc/2011,2011,27,serie_a,20,38,1,2,2,6,12,6,8,39,36,DWDWWWWDWLWDWWDWLWWLWLDWLW,8,3,1,21,10,16,6,9,11,25,36,WWDDWLDDDWWLDWWWDLLWWWLDWD,2,2,8,12,26,DDWWWWWWWWDL,WDWDWLWWLWWW
+Brescia,Lecce,2-2,/match/brescia/lecce/2011,2011,27,serie_a,20,38,1,2,2,18,6,5,15,20,33,WWLWWWLWLDDWLDWWWLWWWLDWLD,5,2,6,13,15,17,7,6,13,28,46,WWWDDWWWWWDWLWLWWLLDDDLLWW,2,2,9,10,28,WWLLDLDWLWLWL,WWDWWWWWWLDLW
+Cagliari,Lazio,1-0,/match/cagliari/lazio/2011,2011,27,serie_a,20,38,0,1,0,11,10,5,11,32,28,DWDDWDLWWDLLLWWWWLLWWWLLWW,7,1,5,23,13,4,14,6,6,33,22,WWLDLWLWLLWWDDWWWDLWWWDDLW,5,3,4,11,10,WDLWLLWWLWWLW,WLLLLWDWDWDL
+SSC Bari,Fiorentina,1-1,/match/as-bari/fiorentina/2011,2011,27,serie_a,20,38,1,1,1,20,3,6,17,14,40,WDDWWWLWLLDLWDWWDLLWLWLWDW,2,4,7,7,18,10,8,9,9,28,28,DWLDWLWWDWWWWDWWLDWDDWWDLD,1,6,6,12,17,WDWLLLLDDLLLD,WDWDWWDWDDWDL
+Cesena,Chievo,1-0,/match/ac-cesena/chievo/2011,2011,27,serie_a,20,38,0,1,0,19,5,7,14,19,36,DWWWLWDWLWWWLDLWWLDLWDDWLD,4,3,6,9,15,14,7,10,9,28,29,WLLLLDWWDWDDWWDWDWDDDLWDWL,3,4,6,16,19,WWLDLWLLWDLDL,LLWDWDWWWDLDW
+Palermo FC,Udinese,0-7,/match/palermo/udinese/2011,2011,27,serie_a,20,38,2,0,7,7,12,4,10,44,36,DWLLDLWWLWWWLWWWDWDWWWWLLW,8,2,3,25,14,5,13,5,8,42,30,LWLWDWLWLDWWWWWWWWDLWLDWLD,5,2,6,21,19,DLDWLWWWWWWWL,WWDLLWWWWDLLL
+Sampdoria,Inter,0-2,/match/sampdoria/internazionale/2011,2011,27,serie_a,20,38,2,0,2,12,7,10,9,23,27,WDLDDDWDLDWDLDWWLWWWDWLWWD,5,5,3,14,8,3,15,5,6,47,29,DWLWWDLDLDDLWWWWLWLWWWLWWW,6,2,5,15,14,WLDWDDDWLWDLW,DLWLLDWWLLWLW
+Milan,Napoli,3-0,/match/milan/napoli/2011,2011,27,serie_a,20,38,0,3,0,1,16,7,3,46,20,WWDDWLWLLLWLWDWLLLDDWLDDWL,8,3,2,27,10,2,16,4,6,41,22,DDLLLWDLLWLWWWWLWWWDLWWWLW,7,2,4,17,14,WDWWLWWWLDWDW,DLLDLLWWLWLWL
+Lecce,Roma,1-2,/match/lecce/roma/2011,2011,28,serie_a,20,38,2,1,2,17,7,7,13,30,48,WWWDDWWWWWDWLWLWWLLDDDLLWWD,5,4,4,18,18,6,12,7,8,41,38,DWDWWWWDWLWDWWDWLWWLWLDWLWD,4,3,7,18,26,WDWWDLLWLDDLW,WWWDLDWDLWLLWW
+Juventus,Milan,0-1,/match/juventus-fc/milan/2011,2011,28,serie_a,20,38,2,0,1,9,11,8,8,41,34,WDLLWDWDLWDDLDLWDLWWDLWLWWL,6,3,4,24,21,1,17,7,3,49,20,WWDDWLWLLLWLWDWLLLDDWLDDWLW,8,4,1,19,10,DLWWWDDWLWLWL,WDLLLLDLLDLDL
+Sampdoria,Cesena,2-3,/match/sampdoria/ac-cesena/2011,2011,28,serie_a,20,38,2,2,3,13,7,10,10,23,29,WDLDDDWDLDWDLDWWLWWWDWLWWDL,5,5,4,14,10,18,6,7,14,20,36,DWWWLWDWLWWWLDLWWLDLWDDWLDW,1,4,8,10,21,WLDWDDDWLWDLWL,DWWWWWDWLWDWD
+Udinese,SSC Bari,1-0,/match/udinese/as-bari/2011,2011,28,serie_a,20,38,0,1,0,5,14,5,8,49,30,LWLWDWLWLDWWWWWWWWDLWLDWLDL,8,3,2,21,11,20,3,7,17,15,41,WDDWWWLWLLDLWDWWDLLWLWLWDWD,1,2,10,7,22,LLWWDWWWWWDWD,DWWWDWWWLWWWW
+Chievo,Parma,0-0,/match/chievo/parma-fc/2011,2011,28,serie_a,20,38,1,0,0,15,7,10,10,28,30,WLLLLDWWDWDDWWDWDWDDDLWDWLW,4,6,3,12,10,16,6,10,11,27,38,WWDDWLDDDWWLDWWWDLLWWWLDWDD,2,3,8,14,28,WLLDWDWDDDDWL,WDWDWLWWLWWWD
+Inter,Genoa,5-2,/match/internazionale/genoa/2011,2011,28,serie_a,20,38,0,5,2,2,16,5,6,49,29,DWLWWDLDLDDLWWWWLWLWWWLWWWL,9,3,1,32,15,14,9,8,10,25,27,LLDDWWWWLWWLLDLLLDDLDWWDDWW,4,5,5,9,9,WWDDDLWWWWWWW,LDWWWLDLLDDWDW
+Fiorentina,Catania,3-0,/match/fiorentina/catania/2011,2011,28,serie_a,20,38,0,3,0,11,8,10,9,29,29,DWLDWLWWDWWWWDWWLDWDDWWDLDD,7,3,3,16,11,12,7,8,12,24,35,WWDWDWDWDDWWWDLWWWLDWLDWWWW,0,4,9,7,21,DLWLWWWWLWDWD,WDWWDWDWWWDWW
+Bologna,Cagliari,2-2,/match/bologna/cagliari/2011,2011,28,serie_a,20,38,1,2,2,8,10,8,9,29,34,DWDWDDWDWWWWWWLLDDLWWLDWWWL,7,4,2,14,9,10,11,5,11,33,28,DWDDWDLWWDLLLWWWWLLWWWLLWWW,3,4,6,9,15,DWDDWWWLDWLWW,DDWDWDLWWLWLW
+Napoli,Brescia,0-0,/match/napoli/brescia/2011,2011,28,serie_a,20,38,1,0,0,3,16,4,7,41,25,DDLLLWDLLWLWWWWLWWWDLWWWLWW,9,2,2,24,8,19,6,6,15,22,35,WWLWWWLWLDDWLDWWWLWWWLDWLDD,1,3,9,7,18,DLWLWWWWWDWWW,WLWWWDWWWWWDD
+Lazio,Palermo FC,2-0,/match/lazio/palermo/2011,2011,28,serie_a,20,38,0,2,0,4,14,6,7,33,23,WWLDLWLWLLWWDDWWWDLWWWDDLWW,9,3,2,22,12,7,12,4,11,44,43,DWLLDLWWLWWWLWWWDWDWWWWLLWL,4,2,7,19,22,WDWWLWDWWLWWDW,WLLWWLWDDWWLW
+Brescia,Inter,1-1,/match/brescia/internazionale/2011,2011,29,serie_a,20,38,1,1,1,19,6,7,15,22,35,WWLWWWLWLDDWLDWWWLWWWLDWLDDD,5,3,6,15,17,2,17,5,6,54,31,DWLWWDLDLDDLWWWWLWLWWWLWWWLW,7,2,5,17,14,WWLLDLDWLWLWLD,DLWLLDWWLLWLWL
+Cesena,Juventus,2-2,/match/ac-cesena/juventus-fc/2011,2011,29,serie_a,20,38,1,2,2,18,7,7,14,23,38,DWWWLWDWLWWWLDLWWLDLWDDWLDWL,5,3,6,10,15,10,11,8,9,41,35,WDLLWDWDLWDDLDLWDLWWDLWLWWLL,5,5,4,17,13,WWLDLWLLWDLDLW,WLDDLDLLDWDWLW
+Milan,SSC Bari,1-1,/match/milan/as-bari/2011,2011,29,serie_a,20,38,1,1,1,1,18,7,3,50,20,WWDDWLWLLLWLWDWLLLDDWLDDWLWL,9,3,2,30,10,20,3,7,18,15,42,WDDWWWLWLLDLWDWWDLLWLWLWDWDW,1,2,11,7,23,WDWWLWWWLDWDWW,DWWWDWWWLWWWWW
+Chievo,Fiorentina,0-1,/match/chievo/fiorentina/2011,2011,29,serie_a,20,38,2,0,1,13,7,11,10,28,30,WLLLLDWWDWDDWWDWDWDDDLWDWLWD,4,7,3,12,10,8,9,10,9,32,29,DWLDWLWWDWWWWDWWLDWDDWWDLDDW,1,7,6,13,18,WLLDWDWDDDDWLD,WDWDWWDWDDWDLD
+Lecce,Bologna,0-1,/match/lecce/bologna/2011,2011,29,serie_a,20,38,2,0,1,17,7,7,14,31,50,WWWDDWWWWWDWLWLWWLLDDDLLWWDL,5,4,5,19,20,7,10,9,9,31,36,DWDWDDWDWWWWWWLLDDLWWLDWWWLD,3,4,7,15,25,WDWWDLLWLDDLWL,WDDWWWWLDLWDWL
+Genoa,Palermo FC,1-0,/match/genoa/palermo/2011,2011,29,serie_a,20,38,0,1,0,15,9,8,11,27,32,LLDDWWWWLWWLLDLLLDDLDWWDDWWW,5,3,5,16,18,9,12,4,12,44,45,DWLLDLWWLWWWLWWWDWDWWWWLLWLW,4,2,8,19,24,LDWWLWLLDLWDW,WLLWWLWDDWWLWW
+Cagliari,Udinese,0-4,/match/cagliari/udinese/2011,2011,29,serie_a,20,38,2,0,4,11,11,6,11,35,30,DWDDWDLWWDLLLWWWWLLWWWLLWWWD,8,1,5,24,13,5,15,5,8,50,30,LWLWDWLWLDWWWWWWWWDLWLDWLDLW,6,2,6,28,19,WDLWLLWWLWWLWW,WWDLLWWWWDLLLL
+Catania,Sampdoria,1-0,/match/catania/sampdoria/2011,2011,29,serie_a,20,38,0,1,0,12,7,8,13,24,38,WWDWDWDWDDWWWDLWWWLDWLDWWWWW,7,4,3,17,14,14,7,10,11,25,32,WDLDDDWDLDWDLDWWLWWWDWLWWDLL,2,5,6,9,19,WWDDDWWLWLDLWW,DDDDLWLWWWWWD
+Roma,Lazio,2-0,/match/roma/lazio/2011,2011,29,serie_a,20,38,0,2,0,6,13,7,8,43,39,DWDWWWWDWLWDWWDWLWWLWLDWLWDL,8,4,1,23,12,3,15,6,7,35,23,WWLDLWLWLLWWDDWWWDLWWWDDLWWW,5,3,5,11,11,DDWWWWWWWWDLD,WLLLLWDWDWDLW
+Parma,Napoli,1-3,/match/parma-fc/napoli/2011,2011,29,serie_a,20,38,2,1,3,16,6,11,11,27,38,WWDDWLDDDWWLDWWWDLLWWWLDWDDD,4,7,3,13,10,4,16,5,7,41,25,DDLLLWDLLWLWWWWLWWWDLWWWLWWD,7,2,5,17,17,WDLDDWDWDLWLDD,DLLDLLWWLWLWLW
+Lazio,Cesena,1-0,/match/lazio/ac-cesena/2011,2011,30,serie_a,20,38,0,1,0,4,15,6,8,35,25,WWLDLWLWLLWWDDWWWDLWWWDDLWWWW,10,3,2,24,12,17,7,8,14,25,40,DWWWLWDWLWWWLDLWWLDLWDDWLDWLD,2,4,8,13,23,WDWWLWDWWLWWDWW,DWWWWWDWLWDWDL
+Palermo FC,Milan,1-0,/match/palermo/milan/2011,2011,30,serie_a,20,38,0,1,0,9,12,4,13,44,46,DWLLDLWWLWWWLWWWDWDWWWWLLWLWW,8,2,4,25,21,1,18,8,3,51,21,WWDDWLWLLLWLWDWLLLDDWLDDWLWLD,9,4,1,20,10,DLDWLWWWWWWWLL,WDLLLLDLLDLDLL
+Fiorentina,Roma,2-2,/match/fiorentina/roma/2011,2011,30,serie_a,20,38,1,2,2,8,10,10,9,33,29,DWLDWLWWDWWWWDWWLDWDDWWDLDDWL,8,3,3,19,11,6,14,7,8,45,39,DWDWWWWDWLWDWWDWLWWLWLDWLWDLW,5,3,7,20,27,DLWLWWWWLWDWDW,WWWDLDWDLWLLWWL
+Sampdoria,Parma,0-1,/match/sampdoria/parma-fc/2011,2011,30,serie_a,20,38,2,0,1,15,7,10,12,25,33,WDLDDDWDLDWDLDWWLWWWDWLWWDLLW,5,5,5,16,13,16,6,11,12,28,41,WWDDWLDDDWWLDWWWDLLWWWLDWDDDL,2,4,8,14,28,WLDWDDDWLWDLWLL,WDWDWLWWLWWWDD
+Inter,Lecce,1-0,/match/internazionale/lecce/2011,2011,30,serie_a,20,38,0,1,0,2,17,6,6,55,32,DWLWWDLDLDDLWWWWLWLWWWLWWWLWD,10,3,1,37,17,18,7,7,15,31,51,WWWDDWWWWWDWLWLWWLLDDDLLWWDLL,2,3,9,12,30,WWDDDLWWWWWWWW,WWDWWWWWWLDLWD
+Bologna,Genoa,1-1,/match/bologna/genoa/2011,2011,30,serie_a,20,38,1,1,1,7,11,9,9,32,36,DWDWDDWDWWWWWWLLDDLWWLDWWWLDL,7,5,2,16,11,13,10,8,11,28,32,LLDDWWWWLWWLLDLLLDDLDWWDDWWWW,4,5,6,11,14,DWDDWWWLDWLWWD,LDWWWLDLLDDWDWW
+SSC Bari,Chievo,1-2,/match/as-bari/chievo/2011,2011,30,serie_a,20,38,2,1,2,20,3,8,18,16,43,WDDWWWLWLLDLWDWWDLLWLWLWDWDWD,2,5,7,8,19,14,7,11,11,28,31,WLLLLDWWDWDDWWDWDWDDDLWDWLWDL,3,4,7,16,20,WDWLLLLDDLLLDD,LLWDWDWWWDLDWW
+Udinese,Catania,2-0,/match/udinese/catania/2011,2011,30,serie_a,20,38,0,2,0,5,16,5,8,54,30,LWLWDWLWLDWWWWWWWWDLWLDWLDLWL,9,3,2,22,11,12,8,8,13,25,38,WWDWDWDWDDWWWDLWWWLDWLDWWWWWW,0,4,10,7,24,LLWWDWWWWWDWDW,WDWWDWDWWWDWWW
+Juventus,Brescia,2-1,/match/juventus-fc/brescia/2011,2011,30,serie_a,20,38,0,2,1,10,11,9,9,43,37,WDLLWDWDLWDDLDLWDLWWDLWLWWLLD,6,3,5,24,22,19,6,8,15,23,36,WWLWWWLWLDDWLDWWWLWWWLDWLDDDD,1,4,9,7,18,DLWWWDDWLWLWLL,WLWWWDWWWWWDDD
+Napoli,Cagliari,2-1,/match/napoli/cagliari/2011,2011,30,serie_a,20,38,0,2,1,3,17,5,7,44,26,DDLLLWDLLWLWWWWLWWWDLWWWLWWDL,9,3,2,24,8,11,11,6,12,35,34,DWDDWDLWWDLLLWWWWLLWWWLLWWWDL,3,5,6,11,17,DLWLWWWWWDWWWD,DDWDWDLWWLWLWD
+Brescia,Bologna,3-1,/match/brescia/bologna/2011,2011,31,serie_a,20,38,0,3,1,19,6,8,16,24,38,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDW,5,4,6,16,18,7,11,10,9,33,37,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLD,4,4,7,16,25,WWLLDLDWLWLWLDD,WDDWWWWLDLWDWLL
+Milan,Inter,3-0,/match/milan/internazionale/2011,2011,31,serie_a,20,38,0,3,0,2,18,8,4,51,22,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDW,9,4,2,31,11,1,18,6,6,56,32,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDW,7,3,5,18,15,WDWWLWWWLDWDWWD,DLWLLDWWLLWLWLD
+Napoli,Lazio,4-3,/match/napoli/lazio/2011,2011,31,serie_a,20,38,0,4,3,3,18,5,7,46,27,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLW,10,3,2,26,9,4,16,6,8,36,25,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWW,5,3,6,11,13,DLWLWWWWWDWWWDW,WLLLLWDWDWDLWW
+Parma,SSC Bari,1-2,/match/parma-fc/as-bari/2011,2011,31,serie_a,20,38,2,1,2,15,7,11,12,29,41,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLL,4,7,4,14,13,20,3,8,19,17,45,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDL,1,3,11,8,24,WDLDDWDWDLWLDDL,DWWWDWWWLWWWWWD
+Chievo,Sampdoria,0-0,/match/chievo/sampdoria/2011,2011,31,serie_a,20,38,1,0,0,14,8,11,11,30,32,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLL,4,7,4,12,11,16,7,10,13,25,34,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWL,2,5,7,9,20,WLLDWDWDDDDWLDL,DDDDLWLWWWWWDW
+Catania,Palermo FC,4-0,/match/catania/palermo/2011,2011,31,serie_a,20,38,0,4,0,12,8,8,14,25,40,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWW,8,4,3,18,14,9,13,4,13,45,46,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWW,4,2,9,19,25,WWDDDWWLWLDLWWW,WLLWWLWDDWWLWWW
+Lecce,Udinese,2-0,/match/lecce/udinese/2011,2011,31,serie_a,20,38,0,2,0,18,7,7,16,31,52,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLW,5,4,6,19,21,5,17,5,8,56,30,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLW,7,2,6,32,19,WDWWDLLWLDDLWLL,WWDLLWWWWDLLLLL
+Cesena,Fiorentina,2-2,/match/ac-cesena/fiorentina/2011,2011,31,serie_a,20,38,1,2,2,17,7,8,15,25,41,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDW,5,4,6,12,17,8,10,11,9,35,31,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLD,2,7,6,14,18,WWLDLWLLWDLDLWD,WDWDWWDWDDWDLDL
+Genoa,Cagliari,0-1,/match/genoa/cagliari/2011,2011,31,serie_a,20,38,2,0,1,13,10,9,11,29,33,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWD,6,3,5,17,18,11,11,6,13,36,36,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLW,3,5,7,12,19,LDWWLWLLDLWDWW,DDWDWDLWWLWLWDW
+Roma,Juventus,0-2,/match/roma/juventus-fc/2011,2011,31,serie_a,20,38,2,0,2,6,14,8,8,47,41,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWD,9,4,1,25,12,10,12,9,9,45,38,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDW,5,6,4,19,15,DDWWWWWWWWDLDW,WLDDLDLLDWDWLWD
+Inter,Chievo,2-0,/match/internazionale/chievo/2011,2011,32,serie_a,20,38,0,2,0,3,18,6,7,56,35,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDWW,11,3,1,38,17,14,8,12,11,30,32,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLLD,4,4,7,18,21,WWDDDLWWWWWWWWW,LLWDWDWWWDLDWWL
+Udinese,Roma,1-2,/match/udinese/roma/2011,2011,32,serie_a,20,38,2,1,2,5,17,5,9,56,32,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLWW,10,3,2,24,11,6,14,8,9,47,43,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWDL,5,4,7,22,29,LLWWDWWWWWDWDWW,WWWDLDWDLWLLWWLD
+Juventus,Genoa,3-2,/match/juventus-fc/genoa/2011,2011,32,serie_a,20,38,0,3,2,9,13,9,9,47,38,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDWL,7,3,5,26,23,13,10,9,12,29,34,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWDL,4,6,6,12,15,DLWWWDDWLWLWLLW,LDWWWLDLLDDWDWWD
+Lazio,Parma,2-0,/match/lazio/parma-fc/2011,2011,32,serie_a,20,38,0,2,0,4,16,6,9,39,29,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWWW,11,3,2,25,12,15,7,11,13,30,43,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLLL,3,4,8,15,28,WDWWLWDWWLWWDWWW,WDWDWLWWLWWWDDL
+Bologna,Napoli,0-2,/match/bologna/napoli/2011,2011,32,serie_a,20,38,2,0,2,7,11,10,10,34,40,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLDW,7,6,2,17,12,2,19,5,7,50,30,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLWW,8,2,5,20,18,DWDDWWWLDWLWWDD,DLLDLLWWLWLWLWL
+Sampdoria,Lecce,1-2,/match/sampdoria/lecce/2011,2011,32,serie_a,20,38,2,1,2,16,7,11,13,25,34,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWLD,5,5,6,16,14,17,8,7,16,33,52,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLWW,2,3,10,12,31,WLDWDDDWLWDLWLLL,WWDWWWWWWLDLWDW
+Palermo FC,Cesena,2-2,/match/palermo/ac-cesena/2011,2011,32,serie_a,20,38,1,2,2,10,13,4,14,45,50,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWWW,9,2,4,26,21,18,7,9,15,27,43,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDWD,2,4,9,13,24,DLDWLWWWWWWWLLW,DWWWWWDWLWDWDLW
+SSC Bari,Catania,1-1,/match/as-bari/catania/2011,2011,32,serie_a,20,38,1,1,1,20,4,8,19,19,46,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDLL,2,5,8,9,21,11,9,8,14,29,40,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWWW,0,4,11,7,26,WDWLLLLDDLLLDDL,WDWWDWDWWWDWWWW
+Cagliari,Brescia,1-1,/match/cagliari/brescia/2011,2011,32,serie_a,20,38,1,1,1,12,12,6,13,37,36,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLWL,8,1,6,24,17,19,7,8,16,27,39,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDWW,1,4,10,8,20,WDLWLLWWLWWLWWL,WLWWWDWWWWWDDDW
+Fiorentina,Milan,1-2,/match/fiorentina/milan/2011,2011,32,serie_a,20,38,2,1,2,8,10,12,9,37,33,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLDD,8,4,3,21,13,1,19,8,4,54,22,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDWW,9,4,2,20,11,DLWLWWWWLWDWDWD,WDLLLLDLLDLDLLW
+Roma,Palermo FC,2-3,/match/roma/palermo/2011,2011,33,serie_a,20,38,2,2,3,6,15,8,9,49,44,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWDLL,9,4,2,25,14,10,13,5,14,47,52,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWWWD,4,2,10,19,29,DDWWWWWWWWDLDWL,WLLWWLWDDWWLWWWW
+Milan,Sampdoria,3-0,/match/milan/sampdoria/2011,2011,33,serie_a,20,38,0,3,0,1,20,8,4,56,23,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDWWL,10,4,2,34,11,17,7,11,14,26,36,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWLDL,2,6,7,9,20,WDWWLWWWLDWDWWDW,DDDDLWLWWWWWDWD
+Parma,Inter,2-0,/match/parma-fc/internazionale/2011,2011,33,serie_a,20,38,0,2,0,16,7,11,14,30,45,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLLLW,4,7,5,15,15,2,19,6,7,58,35,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDWWW,7,3,6,18,18,WDLDDWDWDLWLDDLL,DLWLLDWWLLWLWLDW
+Cesena,SSC Bari,1-0,/match/ac-cesena/as-bari/2011,2011,33,serie_a,20,38,0,1,0,18,7,10,15,29,45,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDWDD,5,5,6,14,19,20,4,9,19,20,47,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDLLD,2,3,11,10,25,WWLDLWLLWDLDLWDD,DWWWDWWWLWWWWWDL
+Catania,Lazio,1-4,/match/catania/lazio/2011,2011,33,serie_a,20,38,2,1,4,12,9,9,14,30,41,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWWWD,9,4,3,22,14,4,17,6,9,41,29,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWWWW,5,3,7,14,17,WWDDDWWLWLDLWWWW,WLLLLWDWDWDLWWW
+Fiorentina,Juventus,0-0,/match/fiorentina/juventus-fc/2011,2011,33,serie_a,20,38,1,0,0,9,10,12,10,38,35,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLDDL,8,4,4,22,15,7,14,9,9,50,40,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDWLW,6,6,4,21,15,DLWLWWWWLWDWDWDL,WLDDLDLLDWDWLWDL
+Lecce,Cagliari,3-3,/match/lecce/cagliari/2011,2011,33,serie_a,20,38,1,3,3,15,9,7,16,35,53,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLWWL,6,4,6,21,21,11,12,7,13,38,37,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLWLD,4,5,7,13,19,WDWWDLLWLDDLWLLW,DDWDWDLWWLWLWDWL
+Genoa,Brescia,3-0,/match/genoa/brescia/2011,2011,33,serie_a,20,38,0,3,0,13,10,9,13,31,37,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWDLW,6,3,6,17,19,19,7,9,16,28,40,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDWWD,1,5,10,9,21,LDWWLWLLDLWDWWL,WLWWWDWWWWWDDDWD
+Chievo,Bologna,2-0,/match/chievo/bologna/2011,2011,33,serie_a,20,38,0,2,0,14,8,12,12,30,34,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLLDW,4,8,4,12,11,8,11,10,11,34,42,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLDWL,4,4,8,17,28,WLLDWDWDDDDWLDLD,WDDWWWWLDLWDWLLW
+Napoli,Udinese,1-2,/match/napoli/udinese/2011,2011,33,serie_a,20,38,2,1,2,3,20,5,7,52,30,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLWWL,11,3,2,30,12,5,17,5,10,57,34,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLWWL,7,2,7,32,21,DLWLWWWWWDWWWDWW,WWDLLWWWWDLLLLLW
+Roma,Chievo,1-0,/match/roma/chievo/2011,2011,34,serie_a,20,38,0,1,0,6,15,8,10,51,47,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWDLLL,9,4,3,27,17,14,9,12,12,32,34,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLLDWW,4,4,8,18,23,DDWWWWWWWWDLDWLL,LLWDWDWWWDLDWWLW
+SSC Bari,Sampdoria,0-1,/match/as-bari/sampdoria/2011,2011,34,serie_a,20,38,2,0,1,20,4,9,20,20,48,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDLLDW,2,6,8,10,22,18,7,11,15,26,39,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWLDLW,2,6,8,9,23,WDWLLLLDDLLLDDLD,DDDDLWLWWWWWDWDW
+Udinese,Parma,0-2,/match/udinese/parma-fc/2011,2011,34,serie_a,20,38,2,0,2,5,18,5,10,59,35,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLWWLL,10,3,3,25,13,15,8,11,14,32,45,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLLLWW,3,4,9,15,30,LLWWDWWWWWDWDWWL,WDWDWLWWLWWWDDLW
+Palermo FC,Napoli,2-1,/match/palermo/napoli/2011,2011,34,serie_a,20,38,0,2,1,9,14,5,14,50,54,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWWWDL,9,3,4,28,23,3,20,5,8,53,32,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLWWLL,9,2,5,22,18,DLDWLWWWWWWWLLWD,DLLDLLWWLWLWLWLL
+Genoa,Lecce,4-2,/match/genoa/lecce/2011,2011,34,serie_a,20,38,0,4,2,13,11,9,13,34,37,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWDLWW,7,3,6,20,19,16,9,8,16,38,56,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLWWLD,3,3,10,14,32,LDWWLWLLDLWDWWLW,WWDWWWWWWLDLWDWL
+Inter,Lazio,2-1,/match/internazionale/lazio/2011,2011,34,serie_a,20,38,0,2,1,2,19,6,8,58,37,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDWWWW,12,3,1,40,17,4,18,6,9,45,30,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWWWWL,6,3,7,18,18,WWDDDLWWWWWWWWWW,WLLLLWDWDWDLWWWL
+Cagliari,Fiorentina,1-2,/match/cagliari/fiorentina/2011,2011,34,serie_a,20,38,2,1,2,11,12,8,13,41,40,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLWLDD,8,2,6,25,18,8,10,13,10,38,35,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLDDLD,2,8,6,16,20,WDLWLLWWLWWLWWLD,WDWDWWDWDDWDLDLD
+Bologna,Cesena,0-2,/match/bologna/ac-cesena/2011,2011,34,serie_a,20,38,2,0,2,10,11,10,12,34,44,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLDWLW,7,6,3,17,14,17,8,10,15,30,45,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDWDDW,2,5,9,15,26,DWDDWWWLDWLWWDDL,DWWWWWDWLWDWDLWD
+Brescia,Milan,0-1,/match/brescia/milan/2011,2011,34,serie_a,20,38,2,0,1,19,7,9,17,28,43,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDWWDW,6,4,6,19,19,1,21,8,4,59,23,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDWWLW,10,4,2,22,12,WWLLDLDWLWLWLDDW,WDLLLLDLLDLDLLWL
+Juventus,Catania,2-2,/match/juventus-fc/catania/2011,2011,34,serie_a,20,38,1,2,2,7,14,10,9,50,40,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDWLWD,8,3,5,29,25,12,9,9,15,31,45,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWWWDL,0,5,11,8,27,DLWWWDDWLWLWLLWW,WDWWDWDWWWDWWWWD
+Cesena,Inter,1-2,/match/ac-cesena/internazionale/2011,2011,35,serie_a,20,38,2,1,2,16,9,10,15,32,45,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDWDDWL,6,5,6,15,19,2,20,6,8,60,38,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDWWWWW,7,3,7,18,20,WWLDLWLLWDLDLWDDW,DLWLLDWWLLWLWLDWW
+Napoli,Genoa,1-0,/match/napoli/genoa/2011,2011,35,serie_a,20,38,0,1,0,3,20,5,9,54,34,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLWWLLW,11,3,3,31,14,10,12,9,13,38,39,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWDLWWW,4,6,7,14,18,DLWLWWWWWDWWWDWWL,LDWWWLDLLDDWDWWDW
+Milan,Bologna,1-0,/match/milan/bologna/2011,2011,35,serie_a,20,38,0,1,0,1,22,8,4,60,23,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDWWLWL,11,4,2,37,11,11,11,10,13,34,46,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLDWLWL,4,4,9,17,30,WDWWLWWWLDWDWWDWW,WDDWWWWLDLWDWLLWW
+Parma,Palermo FC,3-1,/match/parma-fc/palermo/2011,2011,35,serie_a,20,38,0,3,1,15,9,11,14,34,45,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLLLWWL,5,7,5,17,15,8,15,5,14,52,55,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWWWDLW,5,2,10,22,31,WDLDDWDWDLWLDDLLW,WLLWWLWDDWWLWWWWL
+Chievo,Lecce,1-0,/match/chievo/lecce/2011,2011,35,serie_a,20,38,0,1,0,14,9,12,13,32,35,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLLDWWW,5,8,4,14,11,17,9,8,17,40,60,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLWWLDW,3,3,11,16,36,WLLDWDWDDDDWLDLDW,WWDWWWWWWLDLWDWLW
+Fiorentina,Udinese,5-2,/match/fiorentina/udinese/2011,2011,35,serie_a,20,38,0,5,2,9,11,13,10,40,36,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLDDLDL,8,5,4,22,15,5,18,5,11,59,37,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLWWLLL,8,2,7,34,22,DLWLWWWWLWDWDWDLD,WWDLLWWWWDLLLLLWL
+Catania,Cagliari,2-0,/match/catania/cagliari/2011,2011,35,serie_a,20,38,0,2,0,13,9,10,15,33,47,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWWWDLD,9,4,4,23,18,12,12,8,14,42,42,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLWLDDL,4,6,7,16,22,WWDDDWWLWLDLWWWWL,DDWDWDLWWLWLWDWLD
+Sampdoria,Brescia,3-3,/match/sampdoria/brescia/2011,2011,35,serie_a,20,38,1,3,3,18,8,11,15,27,39,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWLDLWL,5,5,7,17,16,19,7,9,18,28,44,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDWWDWL,1,5,11,9,24,WLDWDDDWLWDLWLLLL,WLWWWDWWWWWDDDWDW
+SSC Bari,Roma,2-3,/match/as-bari/roma/2011,2011,35,serie_a,20,38,2,2,3,20,4,9,21,20,49,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDLLDWL,2,6,9,10,23,6,16,8,10,52,47,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWDLLLW,6,4,7,24,30,WDWLLLLDDLLLDDLDL,WWWDLDWDLWLLWWLDL
+Lazio,Juventus,0-1,/match/lazio/juventus-fc/2011,2011,35,serie_a,20,38,2,0,1,4,18,6,10,46,32,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWWWWLW,12,3,2,27,12,7,14,11,9,52,42,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDWLWDD,6,7,4,21,15,WDWWLWDWWLWWDWWWW,WLDDLDLLDWDWLWDLD
+Palermo FC,SSC Bari,2-1,/match/palermo/as-bari/2011,2011,36,serie_a,20,38,0,2,1,9,15,5,15,53,58,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWWWDLWW,10,3,4,30,24,20,4,9,22,22,52,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDLLDWLL,2,3,12,10,26,DLDWLWWWWWWWLLWDW,DWWWDWWWLWWWWWDLW
+Roma,Milan,0-0,/match/roma/milan/2011,2011,36,serie_a,20,38,1,0,0,5,17,8,10,55,49,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWDLLLWL,10,4,3,28,17,1,23,8,4,61,23,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDWWLWLW,11,4,2,23,12,DDWWWWWWWWDLDWLLW,WDLLLLDLLDLDLLWLL
+Brescia,Catania,1-2,/match/brescia/catania/2011,2011,36,serie_a,20,38,2,1,2,19,7,10,18,31,47,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDWWDWLD,6,4,7,19,20,10,10,10,15,35,47,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWWWDLDW,0,6,11,10,29,WWLLDLDWLWLWLDDWL,WDWWDWDWWWDWWWWDD
+Cagliari,Cesena,0-2,/match/cagliari/ac-cesena/2011,2011,36,serie_a,20,38,2,0,2,14,12,8,15,42,44,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLWLDDLW,8,2,7,26,20,16,9,10,16,33,47,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDWDDWLL,3,5,9,17,26,WDLWLLWWLWWLWWLDL,DWWWWWDWLWDWDLWDL
+Udinese,Lazio,2-1,/match/udinese/lazio/2011,2011,36,serie_a,20,38,0,2,1,6,18,5,12,61,42,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLWWLLLW,10,3,4,25,15,4,18,6,11,46,33,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWWWWLWL,6,3,8,19,20,LLWWDWWWWWDWDWWLL,WLLLLWDWDWDLWWWLW
+Bologna,Parma,0-0,/match/bologna/parma-fc/2011,2011,36,serie_a,20,38,1,0,0,12,11,10,14,34,47,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLDWLWLW,7,6,4,17,16,15,10,11,14,37,46,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLLLWWLW,4,4,9,17,30,DWDDWWWLDWLWWDDLL,WDWDWLWWLWWWDDLWL
+Inter,Fiorentina,3-1,/match/internazionale/fiorentina/2011,2011,36,serie_a,20,38,0,3,1,2,21,6,8,62,39,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDWWWWWL,13,3,1,42,18,8,12,13,10,45,38,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLDDLDLW,3,8,6,18,21,WWDDDLWWWWWWWWWWW,WDWDWWDWDDWDLDLDL
+Lecce,Napoli,2-1,/match/lecce/napoli/2011,2011,36,serie_a,20,38,0,2,1,18,9,8,18,40,61,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLWWLDWW,6,5,6,24,24,3,21,5,9,55,34,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLWWLLWW,9,2,6,23,20,WDWWDLLWLDDLWLLWD,DLLDLLWWLWLWLWLLW
+Genoa,Sampdoria,2-1,/match/genoa/sampdoria/2011,2011,36,serie_a,20,38,0,2,1,13,12,9,14,38,40,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWDLWWWW,8,3,6,24,21,17,8,12,15,30,42,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWLDLWLD,3,6,8,10,23,LDWWLWLLDLWDWWLWW,DDDDLWLWWWWWDWDWL
+Juventus,Chievo,2-2,/match/juventus-fc/chievo/2011,2011,36,serie_a,20,38,1,2,2,7,15,11,9,53,42,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDWLWDDL,8,4,5,31,27,11,10,12,13,33,35,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLLDWWWW,4,4,9,18,24,DLWWWDDWLWLWLLWWD,LLWDWDWWWDLDWWLWW
+Lazio,Genoa,4-2,/match/lazio/genoa/2011,2011,37,serie_a,20,38,0,4,2,4,18,6,12,47,35,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWWWWLWLW,12,3,3,27,13,10,13,9,14,40,41,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWDLWWWWW,4,6,8,14,19,WDWWLWDWWLWWDWWWWL,LDWWWLDLLDDWDWWDWW
+Milan,Cagliari,4-1,/match/milan/cagliari/2011,2011,37,serie_a,20,38,0,4,1,1,23,9,4,61,23,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDWWLWLWD,12,4,2,38,11,15,12,8,16,42,46,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLWLDDLWL,4,6,8,16,24,WDWWLWWWLDWDWWDWWW,DDWDWDLWWLWLWDWLDW
+Fiorentina,Bologna,1-1,/match/fiorentina/bologna/2011,2011,37,serie_a,20,38,1,1,1,9,12,13,11,46,41,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLDDLDLWW,9,5,4,27,17,12,11,11,14,34,47,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLDWLWLWD,4,4,10,17,31,DLWLWWWWLWDWDWDLDW,WDDWWWWLDLWDWLLWWW
+Cesena,Brescia,1-0,/match/ac-cesena/brescia/2011,2011,37,serie_a,20,38,0,1,0,16,10,10,16,35,47,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDWDDWLLL,6,5,7,16,21,19,7,10,19,32,49,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDWWDWLDL,1,6,11,12,27,WWLDLWLLWDLDLWDDWL,WLWWWDWWWWWDDDWDWD
+Chievo,Udinese,0-2,/match/chievo/udinese/2011,2011,37,serie_a,20,38,2,0,2,13,10,13,13,35,37,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLLDWWWWD,6,8,4,15,11,6,19,5,12,63,43,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLWWLLLWW,8,2,8,36,27,WLLDWDWDDDDWLDLDWW,WWDLLWWWWDLLLLLWLW
+Catania,Roma,2-1,/match/catania/roma/2011,2011,37,serie_a,20,38,0,2,1,11,11,10,15,37,48,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWWWDLDWL,10,4,4,25,18,5,17,9,10,55,49,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWDLLLWLD,7,4,7,27,32,WWDDDWWLWLDLWWWWLW,WWWDLDWDLWLLWWLDLL
+SSC Bari,Lecce,0-2,/match/as-bari/lecce/2011,2011,37,serie_a,20,38,2,0,2,20,4,9,23,23,54,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDLLDWLLW,2,6,10,12,26,17,10,8,18,42,62,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLWWLDWWW,3,3,12,16,37,WDWLLLLDDLLLDDLDLL,WWDWWWWWWLDLWDWLWW
+Parma,Juventus,1-0,/match/parma-fc/juventus-fc/2011,2011,37,serie_a,20,38,0,1,0,14,10,12,14,37,46,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLLLWWLWD,6,7,5,20,16,7,15,12,9,55,44,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDWLWDDLD,7,7,4,22,15,WDLDDWDWDLWLDDLLWW,WLDDLDLLDWDWLWDLDL
+Sampdoria,Palermo FC,1-2,/match/sampdoria/palermo/2011,2011,37,serie_a,20,38,2,1,2,18,8,12,16,31,44,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWLDLWLDW,5,6,7,20,19,8,16,5,15,55,59,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWWWDLWWW,5,2,11,23,34,WLDWDDDWLWDLWLLLLD,WLLWWLWDDWWLWWWWLW
+Napoli,Inter,1-1,/match/napoli/internazionale/2011,2011,37,serie_a,20,38,1,1,1,3,21,5,10,56,36,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLWWLLWWW,12,3,3,32,14,2,22,6,8,65,40,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDWWWWWLW,8,3,7,20,21,DLWLWWWWWDWWWDWWLW,DLWLLDWWLLWLWLDWWL
+Bologna,SSC Bari,0-4,/match/bologna/as-bari/2011,2011,38,serie_a,20,38,2,0,4,12,11,12,14,35,48,DWDWDDWDWWWWWWLLDDLWWLDWWWLDLDWLWLWDD,7,7,4,17,16,20,4,9,24,23,56,WDDWWWLWLLDLWDWWDLLWLWLWDWDWDLLDWLLWL,2,3,13,11,28,DWDDWWWLDWLWWDDLLD,DWWWDWWWLWWWWWDLWW
+Palermo FC,Chievo,1-3,/match/palermo/chievo/2011,2011,38,serie_a,20,38,2,1,3,7,17,5,15,57,60,DWLLDLWWLWWWLWWWDWDWWWWLLWLWWWWDLWWWL,11,3,4,32,25,14,10,13,14,35,39,WLLLLDWWDWDDWWDWDWDDDLWDWLWDLLDWWWWDL,4,5,9,20,26,DLDWLWWWWWWWLLWDWW,LLWDWDWWWDLDWWLWWD
+Inter,Catania,3-1,/match/internazionale/catania/2011,2011,38,serie_a,20,38,0,3,1,2,22,7,8,66,41,DWLWWDLDLDDLWWWWLWLWWWLWWWLWDWWWWWLWD,14,3,1,45,19,10,12,10,15,39,49,WWDWDWDWDDWWWDLWWWLDWLDWWWWWWWWDLDWLW,1,6,11,12,30,WWDDDLWWWWWWWWWWWW,WDWWDWDWWWDWWWWDDL
+Genoa,Cesena,3-2,/match/genoa/ac-cesena/2011,2011,38,serie_a,20,38,0,3,2,11,13,9,15,42,45,LLDDWWWWLWWLLDLLLDDLDWWDDWWWWDLWWWWWW,9,3,6,26,22,15,11,10,16,36,47,DWWWLWDWLWWWLDLWWLDLWDDWLDWLDWDDWLLLW,4,5,9,19,26,LDWWLWLLDLWDWWLWWW,DWWWWWDWLWDWDLWDLL
+Brescia,Fiorentina,2-2,/match/brescia/fiorentina/2011,2011,38,serie_a,20,38,1,2,2,19,7,10,20,32,50,WWLWWWLWLDDWLDWWWLWWWLDWLDDDDWWDWLDLW,6,4,8,20,22,9,12,14,11,47,42,DWLDWLWWDWWWWDWWLDWDDWWDLDDWLDDLDLWWD,3,8,7,19,24,WWLLDLDWLWLWLDDWLL,WDWDWWDWDDWDLDLDLW
+Cagliari,Parma,1-1,/match/cagliari/parma-fc/2011,2011,38,serie_a,20,38,1,1,1,16,12,8,17,43,50,DWDDWDLWWDLLLWWWWLLWWWLLWWWDLWLDDLWLW,8,2,8,26,22,13,11,12,14,38,46,WWDDWLDDDWWLDWWWDLLWWWLDWDDDLLLWWLWDW,4,5,9,17,30,WDLWLLWWLWWLWWLDLL,WDWDWLWWLWWWDDLWLD
+Roma,Sampdoria,3-1,/match/roma/sampdoria/2011,2011,38,serie_a,20,38,0,3,1,6,17,9,11,56,51,DWDWWWWDWLWDWWDWLWWLWLDWLWDLWDLLLWLDW,10,5,3,28,17,18,8,12,17,32,46,WDLDDDWDLDWDLDWWLWWWDWLWWDLLWLDLWLDWL,3,6,9,11,25,DDWWWWWWWWDLDWLLWD,DDDDLWLWWWWWDWDWLW
+Udinese,Milan,0-0,/match/udinese/milan/2011,2011,38,serie_a,20,38,1,0,0,5,20,5,12,65,43,LWLWDWLWLDWWWWWWWWDLWLDWLDLWLWWLLLWWL,11,3,4,27,16,1,24,9,4,65,24,WWDDWLWLLLWLWDWLLLDDWLDDWLWLDWWLWLWDW,11,5,2,23,12,LLWWDWWWWWDWDWWLLW,WDLLLLDLLDLDLLWLLD
+Lecce,Lazio,2-4,/match/lecce/lazio/2011,2011,38,serie_a,20,38,2,2,4,17,11,8,18,44,62,WWWDDWWWWWDWLWLWWLLDDDLLWWDLLWWLDWWWL,7,5,6,26,25,4,19,6,12,51,37,WWLDLWLWLLWWDDWWWDLWWWDDLWWWWWWWLWLWW,6,3,9,20,22,WDWWDLLWLDDLWLLWDW,WLLLLWDWDWDLWWWLWW
+Juventus,Napoli,2-2,/match/juventus-fc/napoli/2011,2011,38,serie_a,20,38,1,2,2,8,15,12,10,55,45,WDLLWDWDLWDDLDLWDLWWDLWLWWLLDWLWDDLDW,8,5,5,33,29,3,21,6,10,57,37,DDLLLWDLLWLWWWWLWWWDLWWWLWWDLWWLLWWWD,9,2,7,24,22,DLWWWDDWLWLWLLWWDD,DLLDLLWWLWLWLWLLWW

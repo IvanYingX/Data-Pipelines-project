@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Auxerre,Nantes,2-1,/match/auxerre/nantes/2009,2009,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Girondins Bordeaux,Caen,2-1,/match/bordeaux/caen/2009,2009,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Le Havre,Nice,1-0,/match/havre-ac/nice/2009,2009,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Le Mans,Lorient,0-1,/match/mans-uc-72/lorient/2009,2009,1,ligue_1,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Monaco,PSG,1-0,/match/monaco/paris-saint-germain-fc/2009,2009,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nancy,Lille,0-0,/match/nancy/lillestrom/2009,2009,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Stade Rennais,Olympique,4-4,/match/stade-rennes/olympique-marsella/2009,2009,1,ligue_1,20,38,1,4,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sochaux,Grenoble,1-2,/match/sochaux/grenoble-foot-38/2009,2009,1,ligue_1,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Valenciennes,Saint-Étienne,1-0,/match/valenciennes-afc/saint-etienne/2009,2009,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique Lyonnais,Toulouse,3-0,/match/olympique-lyonnais/toulouse-fc/2009,2009,1,ligue_1,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Caen,Valenciennes,3-1,/match/caen/valenciennes-afc/2009,2009,2,ligue_1,20,38,0,3,1,17,0,0,1,1,2,W,0,0,0,0,0,6,1,0,0,1,0,W,0,0,0,0,0,,
+Lille,Le Mans,1-3,/match/lillestrom/mans-uc-72/2009,2009,2,ligue_1,20,38,2,1,3,11,0,1,0,0,0,D,0,0,0,0,0,20,0,0,1,0,1,L,0,0,0,0,0,,
+Nantes,Monaco,1-1,/match/nantes/monaco/2009,2009,2,ligue_1,20,38,1,1,1,14,0,0,1,1,2,W,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Nice,Nancy,2-1,/match/nice/nancy/2009,2009,2,ligue_1,20,38,0,2,1,16,0,0,1,0,1,W,0,0,0,0,0,10,0,1,0,0,0,D,0,0,0,0,0,,
+Saint-Étienne,Sochaux,2-1,/match/saint-etienne/sochaux/2009,2009,2,ligue_1,20,38,0,2,1,18,0,0,1,0,1,W,0,0,0,0,0,13,0,0,1,1,2,L,0,0,0,0,0,,
+Toulouse,Le Havre,2-1,/match/toulouse-fc/havre-ac/2009,2009,2,ligue_1,20,38,0,2,1,19,0,0,1,0,3,W,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+PSG,Girondins Bordeaux,1-0,/match/paris-saint-germain-fc/bordeaux/2009,2009,2,ligue_1,20,38,0,1,0,15,0,0,1,0,1,W,0,0,0,0,0,5,1,0,0,2,1,W,0,0,0,0,0,,
+Grenoble,Stade Rennais,1-0,/match/grenoble-foot-38/stade-rennes/2009,2009,2,ligue_1,20,38,0,1,0,8,1,0,0,2,1,L,0,0,0,0,0,9,0,1,0,4,4,D,0,0,0,0,0,,
+Lorient,Olympique Lyonnais,0-0,/match/lorient/olympique-lyonnais/2009,2009,2,ligue_1,20,38,1,0,0,7,1,0,0,1,0,L,0,0,0,0,0,2,1,0,0,3,0,W,0,0,0,0,0,,
+Olympique,Auxerre,4-0,/match/olympique-marsella/auxerre/2009,2009,2,ligue_1,20,38,0,4,0,12,0,1,0,4,4,D,0,0,0,0,0,3,1,0,0,2,1,W,0,0,0,0,0,,
+Le Havre,Olympique,0-1,/match/havre-ac/olympique-marsella/2009,2009,3,ligue_1,20,38,2,0,1,7,1,0,1,2,2,WW,1,0,0,1,0,4,1,1,0,8,4,DW,0,1,0,4,4,W,D
+Le Mans,Saint-Étienne,1-0,/match/mans-uc-72/saint-etienne/2009,2009,3,ligue_1,20,38,0,1,0,15,1,0,1,3,2,LL,0,0,1,0,1,12,1,0,1,2,2,WW,0,0,1,0,1,L,W
+Monaco,Caen,1-1,/match/monaco/caen/2009,2009,3,ligue_1,20,38,1,1,1,2,1,1,0,2,1,WD,1,0,0,1,0,13,1,0,1,4,3,WW,0,0,1,1,2,W,W
+Nancy,Toulouse,0-0,/match/nancy/toulouse-fc/2009,2009,3,ligue_1,20,38,1,0,0,17,0,1,1,1,2,DW,0,1,0,0,0,11,1,0,1,2,4,WW,0,0,1,0,3,D,W
+Sochaux,PSG,1-1,/match/sochaux/paris-saint-germain-fc/2009,2009,3,ligue_1,20,38,1,1,1,20,0,0,2,2,4,LW,0,0,1,1,2,5,1,0,1,1,1,WW,0,0,1,0,1,L,W
+Valenciennes,Lorient,3-1,/match/valenciennes-afc/lorient/2009,2009,3,ligue_1,20,38,0,3,1,9,1,0,1,2,3,WW,1,0,0,1,0,10,1,1,0,1,0,LD,1,0,0,1,0,W,L
+Olympique Lyonnais,Grenoble,2-0,/match/olympique-lyonnais/grenoble-foot-38/2009,2009,3,ligue_1,20,38,0,2,0,3,1,1,0,3,0,WD,1,0,0,3,0,1,2,0,0,3,1,LW,1,0,0,2,1,W,L
+Auxerre,Nice,0-1,/match/auxerre/nice/2009,2009,3,ligue_1,20,38,2,0,1,6,1,0,1,2,5,WW,1,0,0,2,1,14,1,0,1,2,2,WW,0,0,1,0,1,W,W
+Stade Rennais,Lille,2-1,/match/stade-rennes/lillestrom/2009,2009,3,ligue_1,20,38,0,2,1,18,0,1,1,4,5,DW,0,1,0,4,4,19,0,1,1,1,3,DL,0,1,0,0,0,D,D
+Girondins Bordeaux,Nantes,2-0,/match/bordeaux/nantes/2009,2009,3,ligue_1,20,38,0,2,0,8,1,0,1,2,2,WW,1,0,0,2,1,16,0,1,1,2,3,WD,0,0,1,1,2,W,W
+Caen,PSG,0-1,/match/caen/paris-saint-germain-fc/2009,2009,4,ligue_1,20,38,2,0,1,10,1,1,1,5,4,WWD,1,0,0,3,1,12,1,1,1,2,2,WWD,0,1,1,1,2,W,WD
+Grenoble,Monaco,1-0,/match/grenoble-foot-38/monaco/2009,2009,4,ligue_1,20,38,0,1,0,6,2,0,1,3,3,LWW,1,0,0,1,0,4,1,2,0,3,2,WDD,0,1,0,1,1,W,D
+Lorient,Auxerre,0-2,/match/lorient/auxerre/2009,2009,4,ligue_1,20,38,2,0,2,14,1,1,1,2,3,LDW,0,1,0,0,0,16,1,0,2,2,6,WWL,0,0,1,0,4,D,W
+Nancy,Le Havre,2-1,/match/nancy/havre-ac/2009,2009,4,ligue_1,20,38,0,2,1,17,0,2,1,1,2,DWD,0,2,0,0,0,15,1,0,2,2,3,WWL,0,0,1,1,2,DD,W
+Nantes,Le Mans,1-4,/match/nantes/mans-uc-72/2009,2009,4,ligue_1,20,38,2,1,4,18,0,1,2,2,5,WDW,0,1,0,1,1,8,2,0,1,4,2,LLW,1,0,0,3,1,D,L
+Nice,Valenciennes,2-0,/match/nice/valenciennes-afc/2009,2009,4,ligue_1,20,38,0,2,0,9,2,0,1,3,2,WWL,1,0,0,2,1,3,2,0,1,5,4,WWW,0,0,1,1,3,W,W
+Olympique,Sochaux,2-1,/match/olympique-marsella/sochaux/2009,2009,4,ligue_1,20,38,0,2,1,5,2,1,0,9,4,DWL,1,0,0,4,0,19,0,1,2,3,5,LWD,0,0,1,1,2,W,W
+Lille,Girondins Bordeaux,2-1,/match/lillestrom/bordeaux/2009,2009,4,ligue_1,20,38,0,2,1,20,0,1,2,2,5,DLW,0,0,1,1,3,2,2,0,1,4,2,WWW,0,0,1,0,1,L,W
+Toulouse,Stade Rennais,0-0,/match/toulouse-fc/stade-rennes/2009,2009,4,ligue_1,20,38,1,0,0,11,1,1,1,2,4,WWD,1,0,0,2,1,7,1,1,1,6,6,DWW,0,0,1,0,1,W,W
+Saint-Étienne,Olympique Lyonnais,0-1,/match/saint-etienne/olympique-lyonnais/2009,2009,4,ligue_1,20,38,2,0,1,13,1,0,2,2,3,WWW,1,0,0,2,1,1,2,1,0,5,0,WDW,0,1,0,0,0,W,D
+Auxerre,Nancy,1-1,/match/auxerre/nancy/2009,2009,5,ligue_1,20,38,1,1,1,13,2,0,2,4,6,WWLL,1,0,1,2,2,7,1,2,1,3,3,DWDW,0,0,1,1,2,WL,W
+Le Mans,Toulouse,1-2,/match/mans-uc-72/toulouse-fc/2009,2009,5,ligue_1,20,38,2,1,2,8,3,0,1,8,3,LLWL,1,0,1,1,1,10,1,2,1,2,4,WWDD,0,1,1,0,3,LW,WD
+Olympique Lyonnais,Nice,3-2,/match/olympique-lyonnais/nice/2009,2009,5,ligue_1,20,38,0,3,2,1,3,1,0,6,0,WDWL,2,0,0,5,0,4,3,0,1,5,2,WWLW,1,0,1,1,1,WW,WL
+Monaco,Lorient,2-0,/match/monaco/lorient/2009,2009,5,ligue_1,20,38,0,2,0,12,1,2,1,3,3,WDDW,1,1,0,2,1,17,1,1,2,2,5,LDWL,1,0,1,2,3,WD,LW
+Stade Rennais,Le Havre,1-1,/match/stade-rennes/havre-ac/2009,2009,5,ligue_1,20,38,1,1,1,11,1,2,1,6,6,DWWD,1,1,0,6,5,18,1,0,3,3,5,WWLW,0,0,2,2,4,DW,WW
+Valenciennes,Grenoble,1-1,/match/valenciennes-afc/grenoble-foot-38/2009,2009,5,ligue_1,20,38,1,1,1,6,2,0,2,5,6,WWWW,2,0,0,4,1,3,3,0,1,4,3,LWWW,1,0,1,2,3,WW,LW
+Girondins Bordeaux,Olympique,1-1,/match/bordeaux/olympique-marsella/2009,2009,5,ligue_1,20,38,1,1,1,5,2,0,2,5,4,WWWW,2,0,0,4,1,2,3,1,0,11,5,DWLW,1,1,0,5,4,WW,DL
+Caen,Saint-Étienne,2-0,/match/caen/saint-etienne/2009,2009,5,ligue_1,20,38,0,2,0,14,1,1,2,5,5,WWDL,1,0,1,3,2,16,1,0,3,2,4,WWWL,0,0,2,0,2,WL,WW
+Sochaux,Lille,1-1,/match/sochaux/lillestrom/2009,2009,5,ligue_1,20,38,1,1,1,20,0,1,3,4,7,LWDW,0,1,1,2,3,15,1,1,2,4,6,DLWW,0,1,1,1,2,LD,DW
+PSG,Nantes,1-0,/match/paris-saint-germain-fc/nantes/2009,2009,5,ligue_1,20,38,0,1,0,9,2,1,1,3,2,WWDL,1,0,0,1,0,19,0,1,3,3,9,WDWL,0,0,2,1,4,W,WW
+Grenoble,Girondins Bordeaux,0-1,/match/grenoble-foot-38/bordeaux/2009,2009,6,ligue_1,20,38,2,0,1,3,3,1,1,5,4,LWWWD,2,0,0,2,0,7,2,1,2,6,5,WWWWD,0,0,2,1,3,WW,WW
+Le Havre,Olympique Lyonnais,0-1,/match/havre-ac/olympique-lyonnais/2009,2009,6,ligue_1,20,38,2,0,1,16,1,1,3,4,6,WWLWD,1,0,1,1,1,1,4,1,0,9,2,WDWLW,1,1,0,1,0,WL,DL
+Lille,Auxerre,3-2,/match/lillestrom/auxerre/2009,2009,6,ligue_1,20,38,0,3,2,15,1,2,2,5,7,DLWWD,1,0,1,3,4,14,2,1,2,5,7,WWLLD,1,0,1,2,4,LW,WL
+Lorient,Caen,1-1,/match/lorient/caen/2009,2009,6,ligue_1,20,38,1,1,1,18,1,1,3,2,7,LDWLW,0,1,1,0,2,9,2,1,2,7,5,WWDLW,0,1,1,2,3,DL,WD
+Nantes,Valenciennes,2-0,/match/nantes/valenciennes-afc/2009,2009,6,ligue_1,20,38,0,2,0,20,0,1,4,3,10,WDWLW,0,1,1,2,5,8,2,1,2,6,7,WWWWD,0,0,2,1,5,DL,WW
+Toulouse,Sochaux,2-1,/match/toulouse-fc/sochaux/2009,2009,6,ligue_1,20,38,0,2,1,11,2,2,1,4,5,WWDDL,1,1,0,2,1,19,0,2,3,5,8,LWDWD,0,0,2,2,4,WD,WW
+Nice,Le Mans,2-2,/match/nice/mans-uc-72/2009,2009,6,ligue_1,20,38,1,2,2,6,3,0,2,7,5,WWLWW,2,0,0,4,1,13,3,0,2,9,5,LLWLL,2,0,0,7,2,WW,LL
+Nancy,Stade Rennais,0-0,/match/nancy/stade-rennes/2009,2009,6,ligue_1,20,38,1,0,0,12,1,3,1,4,4,DWDWD,1,2,0,2,1,10,1,3,1,7,7,DWWDD,0,1,1,0,1,DDW,WD
+Saint-Étienne,PSG,1-0,/match/saint-etienne/paris-saint-germain-fc/2009,2009,6,ligue_1,20,38,0,1,0,17,1,0,4,2,6,WWWLW,1,0,1,2,2,5,3,1,1,4,2,WWDLW,1,1,1,2,2,WL,WDL
+Olympique,Monaco,0-0,/match/olympique-marsella/monaco/2009,2009,6,ligue_1,20,38,1,0,0,2,3,2,0,12,6,DWLWD,2,0,0,6,1,4,2,2,1,5,3,WDDWW,0,1,1,1,2,WW,DW
+Auxerre,Le Havre,3-0,/match/auxerre/havre-ac/2009,2009,7,ligue_1,20,38,0,3,0,15,2,1,3,7,10,WWLLDW,1,1,1,3,3,19,1,1,4,4,7,WWLWDL,0,1,2,3,5,WLD,WWD
+Caen,Nantes,3-0,/match/caen/nantes/2009,2009,7,ligue_1,20,38,0,3,0,11,2,2,2,8,6,WWDLWD,2,0,1,5,2,18,1,1,4,5,10,WDWLWW,0,0,3,1,5,WLW,WWW
+Le Mans,Olympique,1-1,/match/mans-uc-72/olympique-marsella/2009,2009,7,ligue_1,20,38,1,1,1,14,3,1,2,11,7,LLWLLD,1,0,2,2,3,2,3,3,0,12,6,DWLWDD,1,2,0,6,5,LWL,DLD
+Olympique Lyonnais,Nancy,2-1,/match/olympique-lyonnais/nancy/2009,2009,7,ligue_1,20,38,0,2,1,1,5,1,0,10,2,WDWLWL,3,0,0,8,2,9,1,4,1,4,4,DWDWDD,0,1,1,2,3,WWW,WD
+Stade Rennais,Nice,1-0,/match/stade-rennes/nice/2009,2009,7,ligue_1,20,38,0,1,0,10,1,4,1,7,7,DWWDDD,1,2,0,7,6,5,3,1,2,9,7,WWLWWD,1,0,2,3,4,DWD,WLW
+Sochaux,Lorient,1-1,/match/sochaux/lorient/2009,2009,7,ligue_1,20,38,1,1,1,20,0,2,4,6,10,LWDWDW,0,2,1,3,4,17,1,2,3,3,8,LDWLWD,1,0,2,2,5,LDD,LWW
+PSG,Grenoble,0-1,/match/paris-saint-germain-fc/grenoble-foot-38/2009,2009,7,ligue_1,20,38,2,0,1,8,3,1,2,4,3,WWDLWW,2,0,0,2,0,7,3,1,2,5,5,LWWWDL,1,1,1,3,4,WW,LWD
+Monaco,Lille,0-2,/match/monaco/lillestrom/2009,2009,7,ligue_1,20,38,2,0,2,4,2,3,1,5,3,WDDWWD,2,1,0,4,1,13,2,2,2,8,9,DLWWDW,0,2,1,2,3,WDW,DWD
+Valenciennes,Toulouse,0-1,/match/valenciennes-afc/toulouse-fc/2009,2009,7,ligue_1,20,38,2,0,1,12,2,1,3,6,9,WWWWDW,2,1,0,5,2,3,3,2,1,6,6,WWDDLW,1,1,1,2,4,WWD,WDL
+Girondins Bordeaux,Saint-Étienne,1-1,/match/bordeaux/saint-etienne/2009,2009,7,ligue_1,20,38,1,1,1,6,3,1,2,7,5,WWWWDL,2,1,0,5,2,16,2,0,4,3,6,WWWLWW,0,0,3,0,4,WWD,WWW
+Grenoble,Nantes,0-1,/match/grenoble-foot-38/nantes/2009,2009,8,ligue_1,20,38,2,0,1,7,4,1,2,6,5,LWWWDLL,2,0,1,2,1,18,1,1,5,5,13,WDWLWWW,0,0,4,1,8,WWL,WWWW
+Le Havre,Le Mans,1-2,/match/havre-ac/mans-uc-72/2009,2009,8,ligue_1,20,38,2,1,2,20,1,1,5,4,10,WWLWDLW,1,0,2,1,2,14,3,2,2,12,8,LLWLLDD,2,1,0,9,4,WLL,LLD
+Lorient,Girondins Bordeaux,1-2,/match/lorient/bordeaux/2009,2009,8,ligue_1,20,38,2,1,2,17,1,3,3,4,9,LDWLWDD,0,2,1,1,3,4,3,2,2,8,6,WWWWDLD,1,0,2,2,3,DLD,WWL
+Olympique,Caen,2-1,/match/olympique-marsella/caen/2009,2009,8,ligue_1,20,38,0,2,1,3,3,4,0,13,7,DWLWDDD,2,1,0,6,1,6,3,2,2,11,6,WWDLWDW,0,2,1,3,4,WWD,WDD
+Nice,Sochaux,1-1,/match/nice/sochaux/2009,2009,8,ligue_1,20,38,1,1,1,8,3,1,3,9,8,WWLWWDW,2,1,0,6,3,19,0,3,4,7,11,LWDWDWD,0,0,3,3,6,WWD,WWW
+Toulouse,Auxerre,1-0,/match/toulouse-fc/auxerre/2009,2009,8,ligue_1,20,38,0,1,0,2,4,2,1,7,6,WWDDLWL,2,1,0,4,2,11,3,1,3,10,10,WWLLDWW,1,0,2,4,7,WDW,WLW
+Lille,Valenciennes,1-0,/match/lillestrom/valenciennes-afc/2009,2009,8,ligue_1,20,38,0,1,0,10,3,2,2,10,9,DLWWDWL,2,0,1,6,6,15,2,1,4,6,10,WWWWDWL,0,0,3,1,7,LWW,WWW
+Saint-Étienne,Monaco,2-0,/match/saint-etienne/monaco/2009,2009,8,ligue_1,20,38,0,2,0,16,2,1,4,4,7,WWWLWWD,2,0,1,3,2,9,2,3,2,5,5,WDDWWDL,0,2,1,1,2,WLW,DWD
+Stade Rennais,Olympique Lyonnais,3-0,/match/stade-rennes/olympique-lyonnais/2009,2009,8,ligue_1,20,38,0,3,0,5,2,4,1,8,7,DWWDDDW,2,2,0,8,6,1,6,1,0,12,3,WDWLWLW,2,1,0,2,0,DWDW,DLL
+Nancy,PSG,1-1,/match/nancy/paris-saint-germain-fc/2009,2009,8,ligue_1,20,38,1,1,1,13,1,4,2,5,6,DWDWDDW,1,3,0,2,1,12,3,1,3,4,4,WWDLWWL,1,1,2,2,3,DDWD,WDLW
+Girondins Bordeaux,Toulouse,2-1,/match/bordeaux/toulouse-fc/2009,2009,9,ligue_1,20,38,0,2,1,5,4,2,2,10,7,WWWWDLDL,2,2,0,6,3,3,5,2,1,8,6,WWDDLWLW,2,1,1,3,4,WWDD,WDLL
+Caen,Grenoble,2-2,/match/caen/grenoble-foot-38/2009,2009,9,ligue_1,20,38,1,2,2,7,3,2,3,12,8,WWDLWDWW,3,0,1,8,2,10,4,1,3,6,6,LWWWDLLL,2,1,1,4,4,WLWW,LWDL
+Monaco,Nice,1-2,/match/monaco/nice/2009,2009,9,ligue_1,20,38,2,1,2,15,2,3,3,5,7,WDDWWDLW,2,1,1,4,3,8,3,2,3,10,9,WWLWWDWD,1,0,3,3,5,WDWL,WLWW
+Nantes,Saint-Étienne,1-0,/match/nantes/saint-etienne/2009,2009,9,ligue_1,20,38,0,1,0,17,2,1,5,6,13,WDWLWWWL,1,1,1,4,5,11,3,1,4,6,7,WWWLWWDW,0,1,3,1,5,DLW,WWWD
+PSG,Lorient,3-2,/match/paris-saint-germain-fc/lorient/2009,2009,9,ligue_1,20,38,0,3,2,14,3,2,3,5,5,WWDLWWLD,2,0,1,2,1,18,1,3,4,5,11,LDWLWDDL,1,1,2,3,6,WWL,LWWD
+Sochaux,Le Havre,1-1,/match/sochaux/havre-ac/2009,2009,9,ligue_1,20,38,1,1,1,19,0,4,4,8,12,LWDWDWDD,0,3,1,4,5,20,1,1,6,5,12,WWLWDLWL,0,1,3,3,8,LDDD,WWDW
+Olympique Lyonnais,Lille,2-2,/match/olympique-lyonnais/lillestrom/2009,2009,9,ligue_1,20,38,1,2,2,1,6,1,1,12,6,WDWLWLWW,4,0,0,10,3,6,4,2,2,11,9,DLWWDWLW,1,2,1,4,3,WWWW,DWDL
+Auxerre,Stade Rennais,0-0,/match/auxerre/stade-rennes/2009,2009,9,ligue_1,20,38,1,0,0,13,3,1,4,10,11,WWLLDWWW,2,1,1,6,3,4,3,4,1,11,7,DWWDDDWW,0,2,1,0,1,WLDW,WDD
+Le Mans,Nancy,2-0,/match/mans-uc-72/nancy/2009,2009,9,ligue_1,20,38,0,2,0,12,4,2,2,14,9,LLWLLDDL,1,1,2,3,4,9,1,5,2,6,7,DWDWDDWD,0,1,2,3,5,LWLD,WDW
+Valenciennes,Olympique,1-3,/match/valenciennes-afc/olympique-marsella/2009,2009,9,ligue_1,20,38,2,1,3,16,2,1,5,6,11,WWWWDWLW,2,1,1,5,3,2,4,4,0,15,8,DWLWDDDW,1,3,0,7,6,WWDL,DLDD
+Auxerre,Olympique Lyonnais,0-0,/match/auxerre/olympique-lyonnais/2009,2009,10,ligue_1,20,38,1,0,0,11,3,2,4,10,11,WWLLDWWWD,2,2,1,6,3,1,6,2,1,14,8,WDWLWLWWD,2,1,1,2,3,WLDWD,DLLW
+Le Havre,Valenciennes,2-1,/match/havre-ac/valenciennes-afc/2009,2009,10,ligue_1,20,38,0,2,1,20,1,2,6,6,13,WWLWDLWLD,1,0,3,2,4,17,2,1,6,7,14,WWWWDWLWL,0,0,4,1,8,WLLL,WWWW
+Lille,Caen,2-2,/match/lillestrom/caen/2009,2009,10,ligue_1,20,38,1,2,2,6,4,3,2,13,11,DLWWDWLWD,3,0,1,7,6,8,3,3,3,14,10,WWDLWDWWD,0,2,2,4,6,LWWW,WDDW
+Lorient,Nantes,3-0,/match/lorient/nantes/2009,2009,10,ligue_1,20,38,0,3,0,19,1,3,5,7,14,LDWLWDDLW,0,2,2,2,5,16,3,1,5,7,13,WDWLWWWLW,1,0,4,2,8,DLDL,WWWWL
+Nice,Girondins Bordeaux,2-2,/match/nice/bordeaux/2009,2009,10,ligue_1,20,38,1,2,2,9,4,2,3,12,10,WWLWWDWDL,2,2,0,7,4,3,5,2,2,12,8,WWWWDLDLW,2,0,2,4,4,WWDD,WWLL
+Stade Rennais,Le Mans,2-2,/match/stade-rennes/mans-uc-72/2009,2009,10,ligue_1,20,38,1,2,2,5,3,5,1,11,7,DWWDDDWWD,3,2,0,11,6,7,5,2,2,16,9,LLWLLDDLW,3,1,0,11,5,DWDWW,LLDL
+Toulouse,Monaco,0-0,/match/toulouse-fc/monaco/2009,2009,10,ligue_1,20,38,1,0,0,4,5,2,2,9,8,WWDDLWLWW,3,1,0,5,2,15,2,3,4,6,9,WDDWWDLWL,0,2,2,1,4,WDWW,DWDW
+Nancy,Sochaux,1-1,/match/nancy/sochaux/2009,2009,10,ligue_1,20,38,1,1,1,14,1,5,3,6,9,DWDWDDWDW,1,4,0,3,2,18,0,5,4,9,13,LWDWDWDDD,0,1,3,4,7,DDWDD,WWWD
+Saint-Étienne,Grenoble,0-2,/match/saint-etienne/grenoble-foot-38/2009,2009,10,ligue_1,20,38,2,0,2,13,3,1,5,6,8,WWWLWWDWW,3,0,1,5,2,12,4,2,3,8,8,LWWWDLLLD,2,2,1,6,6,WLWW,LWDLD
+Olympique,PSG,2-4,/match/olympique-marsella/paris-saint-germain-fc/2009,2009,10,ligue_1,20,38,2,2,4,2,5,4,0,18,9,DWLWDDDWL,3,1,0,8,2,10,4,2,3,8,7,WWDLWWLDW,1,2,2,3,4,WWDW,WDLWD
+Girondins Bordeaux,Le Havre,4-0,/match/bordeaux/havre-ac/2009,2009,11,ligue_1,20,38,0,4,0,2,5,3,2,14,10,WWWWDLDLWD,3,2,0,8,4,20,2,2,6,8,14,WWLWDLWLDW,0,2,3,4,9,WWDDW,WWDWD
+Caen,Nice,1-1,/match/caen/nice/2009,2009,11,ligue_1,20,38,1,1,1,10,3,4,3,16,12,WWDLWDWWDD,3,1,1,10,4,8,4,3,3,14,12,WWLWWDWDLD,2,0,3,5,6,WLWWD,WLWWL
+Grenoble,Lille,0-0,/match/grenoble-foot-38/lillestrom/2009,2009,11,ligue_1,20,38,1,0,0,11,5,2,3,10,8,LWWWDLLLDL,2,0,2,2,2,6,4,4,2,15,13,DLWWDWLWDD,1,3,1,6,5,WWLL,DWDLD
+Le Mans,Auxerre,0-2,/match/mans-uc-72/auxerre/2009,2009,11,ligue_1,20,38,2,0,2,7,5,3,2,18,11,LLWLLDDLWD,2,1,2,5,4,12,3,3,4,10,11,WWLLDWWWDD,1,0,3,4,8,LWLDW,WLWW
+Monaco,Nancy,3-1,/match/monaco/nancy/2009,2009,11,ligue_1,20,38,0,3,1,15,2,4,4,6,9,WDDWWDLWLD,2,1,2,5,5,13,1,6,3,7,10,DWDWDDWDWD,0,1,3,3,7,WDWLL,WDWW
+Nantes,Olympique,1-1,/match/nantes/olympique-marsella/2009,2009,11,ligue_1,20,38,1,1,1,16,3,1,6,7,16,WDWLWWWLWW,2,1,1,5,5,5,5,4,1,20,13,DWLWDDDWLL,2,3,0,10,7,DLWW,DLDDL
+PSG,Toulouse,0-1,/match/paris-saint-germain-fc/toulouse-fc/2009,2009,11,ligue_1,20,38,2,0,1,9,5,2,3,12,9,WWDLWWLDWL,3,0,1,5,3,3,5,3,2,9,8,WWDDLWLWWD,2,1,2,4,6,WWLW,WDLLW
+Sochaux,Olympique Lyonnais,0-2,/match/sochaux/olympique-lyonnais/2009,2009,11,ligue_1,20,38,2,0,2,19,0,6,4,10,14,LWDWDWDDDD,0,4,1,5,6,1,6,3,1,14,8,WDWLWLWWDD,2,2,1,2,3,LDDDD,DLLWD
+Valenciennes,Stade Rennais,0-0,/match/valenciennes-afc/stade-rennes/2009,2009,11,ligue_1,20,38,1,0,0,18,2,1,7,8,16,WWWWDWLWLW,2,1,2,6,6,4,3,6,1,13,9,DWWDDDWWDD,0,3,1,0,1,WWDLL,WDDD
+Saint-Étienne,Lorient,1-4,/match/saint-etienne/lorient/2009,2009,11,ligue_1,20,38,2,1,4,14,3,1,6,6,10,WWWLWWDWWL,3,0,2,5,4,17,2,3,5,10,14,LDWLWDDLWW,1,1,3,5,9,WLWWL,LWWDW
+Auxerre,Valenciennes,0-0,/match/auxerre/valenciennes-afc/2009,2009,12,ligue_1,20,38,1,0,0,9,4,3,4,12,11,WWLLDWWWDDL,2,3,1,6,3,18,2,2,7,8,16,WWWWDWLWLWD,0,0,5,2,10,WLDWDD,WWWWW
+Lille,Nantes,2-0,/match/lillestrom/nantes/2009,2009,12,ligue_1,20,38,0,2,0,6,4,5,2,15,13,DLWWDWLWDDD,3,1,1,9,8,15,3,2,6,8,17,WDWLWWWLWWD,1,0,5,2,11,LWWWD,WWWWLW
+Lorient,Grenoble,1-1,/match/lorient/grenoble-foot-38/2009,2009,12,ligue_1,20,38,1,1,1,17,3,3,5,14,15,LDWLWDDLWWL,1,2,2,5,5,10,5,3,3,10,8,LWWWDLLLDLD,3,2,1,8,6,DLDLW,LWDLDL
+Nancy,Girondins Bordeaux,1-0,/match/nancy/bordeaux/2009,2009,12,ligue_1,20,38,0,1,0,14,1,6,4,8,13,DWDWDDWDWDW,1,5,0,4,3,2,6,3,2,18,10,WWWWDLDLWDW,2,1,2,6,6,DDWDDD,WWLLD
+Nice,PSG,1-0,/match/nice/paris-saint-germain-fc/2009,2009,12,ligue_1,20,38,0,1,0,8,4,4,3,15,13,WWLWWDWDLDD,2,3,0,9,6,11,5,2,4,12,10,WWDLWWLDWLL,2,2,2,7,6,WWDDD,WDLWDL
+Toulouse,Caen,0-1,/match/toulouse-fc/caen/2009,2009,12,ligue_1,20,38,2,0,1,3,6,3,2,10,8,WWDDLWLWWDL,3,2,0,5,2,7,3,5,3,17,13,WWDLWDWWDDD,0,3,2,6,8,WDWWD,WDDWD
+Olympique,Saint-Étienne,3-1,/match/olympique-marsella/saint-etienne/2009,2009,12,ligue_1,20,38,0,3,1,5,5,5,1,21,14,DWLWDDDWLLD,3,1,1,10,6,16,3,1,7,7,14,WWWLWWDWWLL,0,1,4,1,6,WWDWL,WWWDW
+Le Havre,Monaco,2-3,/match/havre-ac/monaco/2009,2009,12,ligue_1,20,38,2,2,3,20,2,2,7,8,18,WWLWDLWLDWW,2,0,3,4,5,13,3,4,4,9,10,WDDWWDLWLDW,0,3,2,1,4,WLLLW,DWDWD
+Stade Rennais,Sochaux,1-0,/match/stade-rennes/sochaux/2009,2009,12,ligue_1,20,38,0,1,0,4,3,7,1,13,9,DWWDDDWWDDD,3,3,0,13,8,19,0,6,5,10,16,LWDWDWDDDDL,0,2,3,5,8,DWDWWD,WWWDD
+Olympique Lyonnais,Le Mans,2-0,/match/olympique-lyonnais/mans-uc-72/2009,2009,12,ligue_1,20,38,0,2,0,1,7,3,1,16,8,WDWLWLWWDDL,4,1,0,12,5,12,5,3,3,18,13,LLWLLDDLWDL,3,2,0,13,7,WWWWD,LLDLD
+Girondins Bordeaux,Auxerre,2-0,/match/bordeaux/auxerre/2009,2009,13,ligue_1,20,38,0,2,0,4,6,3,3,18,11,WWWWDLDLWDWW,4,2,0,12,4,9,4,4,4,12,11,WWLLDWWWDDLD,2,0,3,6,8,WWDDWW,WLWWL
+Caen,Le Havre,0-1,/match/caen/havre-ac/2009,2009,13,ligue_1,20,38,2,0,1,8,4,5,3,18,13,WWDLWDWWDDDL,3,2,1,11,5,20,2,2,8,10,21,WWLWDLWLDWWL,0,2,4,4,13,WLWWDD,WWDWDW
+Grenoble,Olympique,0-3,/match/grenoble-foot-38/olympique-marsella/2009,2009,13,ligue_1,20,38,2,0,3,11,5,4,3,11,9,LWWWDLLLDLDD,2,1,2,2,2,3,6,5,1,24,15,DWLWDDDWLLDW,2,4,0,11,8,WWLLD,DLDDLD
+Lorient,Nice,0-1,/match/lorient/nice/2009,2009,13,ligue_1,20,38,2,0,1,15,3,4,5,15,16,LDWLWDDLWWLD,1,3,2,6,6,7,5,4,3,16,13,WWLWWDWDLDDW,2,1,3,6,7,DLDLWD,WLWWLD
+Monaco,Olympique Lyonnais,0-1,/match/monaco/olympique-lyonnais/2009,2009,13,ligue_1,20,38,2,0,1,10,4,4,4,12,12,WDDWWDLWLDWL,3,1,2,8,6,1,8,3,1,18,8,WDWLWLWWDDLW,3,2,1,4,3,WDWLLW,DLLWDL
+Sochaux,Le Mans,2-1,/match/sochaux/mans-uc-72/2009,2009,13,ligue_1,20,38,0,2,1,19,0,6,6,10,17,LWDWDWDDDDLW,0,4,2,5,8,14,5,3,4,18,15,LLWLLDDLWDLW,3,2,1,13,9,LDDDDL,LLDLDW
+Nantes,Toulouse,1-1,/match/nantes/toulouse-fc/2009,2009,13,ligue_1,20,38,1,1,1,16,3,2,7,8,19,WDWLWWWLWWDW,2,2,1,6,6,6,6,3,3,10,9,WWDDLWLWWDLL,3,1,2,5,6,DLWWD,WDLLWL
+Saint-Étienne,Stade Rennais,0-3,/match/saint-etienne/stade-rennes/2009,2009,13,ligue_1,20,38,2,0,3,17,3,1,8,8,17,WWWLWWDWWLLW,3,0,3,6,8,2,4,7,1,14,9,DWWDDDWWDDDW,0,4,1,0,1,WLWWLL,WDDDD
+Valenciennes,Nancy,0-1,/match/valenciennes-afc/nancy/2009,2009,13,ligue_1,20,38,2,0,1,18,2,3,7,8,16,WWWWDWLWLWDD,2,2,2,6,6,12,2,6,4,9,13,DWDWDDWDWDWW,0,1,4,4,10,WWDLLD,WDWWW
+PSG,Lille,1-0,/match/paris-saint-germain-fc/lillestrom/2009,2009,13,ligue_1,20,38,0,1,0,13,5,2,5,12,11,WWDLWWLDWLLW,3,0,2,5,4,5,5,5,2,17,13,DLWWDWLWDDDW,1,4,1,6,5,WWLWL,DWDLDD
+Auxerre,Sochaux,1-0,/match/auxerre/sochaux/2009,2009,14,ligue_1,20,38,0,1,0,11,4,4,5,12,13,WWLLDWWWDDLDW,2,4,1,6,3,17,1,6,6,12,18,LWDWDWDDDDLWW,0,2,4,5,9,WLDWDDD,WWWDDW
+Le Havre,PSG,1-3,/match/havre-ac/paris-saint-germain-fc/2009,2009,14,ligue_1,20,38,2,1,3,20,3,2,8,11,21,WWLWDLWLDWWLL,2,0,4,6,8,8,6,2,5,13,11,WWDLWWLDWLLWW,2,2,3,7,7,WLLLWL,WDLWDLW
+Le Mans,Valenciennes,1-0,/match/mans-uc-72/valenciennes-afc/2009,2009,14,ligue_1,20,38,0,1,0,14,5,3,5,19,17,LLWLLDDLWDLWW,2,1,3,5,6,19,2,3,8,8,17,WWWWDWLWLWDDL,0,1,5,2,10,LWLDWL,WWWWWD
+Olympique,Lorient,2-3,/match/olympique-marsella/lorient/2009,2009,14,ligue_1,20,38,2,2,3,3,7,5,1,27,15,DWLWDDDWLLDWL,4,1,1,13,7,16,3,4,6,15,17,LDWLWDDLWWLDL,2,1,3,9,10,WWDWLW,LWWDWL
+Nancy,Caen,1-1,/match/nancy/caen/2009,2009,14,ligue_1,20,38,1,1,1,9,3,6,4,10,13,DWDWDDWDWDWWL,2,5,0,5,3,10,4,5,4,18,14,WWDLWDWWDDDLL,1,3,2,7,8,DDWDDDW,WDDWDL
+Toulouse,Grenoble,2-0,/match/toulouse-fc/grenoble-foot-38/2009,2009,14,ligue_1,20,38,0,2,0,7,6,4,3,11,10,WWDDLWLWWDLLD,3,2,1,5,3,12,5,4,4,11,12,LWWWDLLLDLDDL,3,3,1,9,7,WDWWDL,LWDLDLD
+Lille,Saint-Étienne,3-0,/match/lillestrom/saint-etienne/2009,2009,14,ligue_1,20,38,0,3,0,6,5,5,3,17,14,DLWWDWLWDDDWW,4,1,1,11,8,18,3,1,9,8,20,WWWLWWDWWLLWL,0,1,5,2,9,LWWWDW,WWWDWW
+Nice,Nantes,2-1,/match/nice/nantes/2009,2009,14,ligue_1,20,38,0,2,1,5,6,4,3,17,13,WWLWWDWDLDDWL,3,3,0,10,6,15,3,3,7,9,20,WDWLWWWLWWDWD,1,0,6,2,13,WWDDDW,WWWWLWW
+Stade Rennais,Monaco,2-1,/match/stade-rennes/monaco/2009,2009,14,ligue_1,20,38,0,2,1,4,5,7,1,17,9,DWWDDDWWDDDWL,4,3,0,14,8,13,4,4,5,12,13,WDDWWDLWLDWLL,1,3,2,4,6,DWDWWDW,DWDWDL
+Olympique Lyonnais,Girondins Bordeaux,2-1,/match/olympique-lyonnais/bordeaux/2009,2009,14,ligue_1,20,38,0,2,1,1,9,3,1,19,8,WDWLWLWWDDLWL,5,1,0,14,5,2,7,3,3,20,11,WWWWDLDLWDWWW,2,1,3,6,7,WWWWDW,WWLLDW
+Girondins Bordeaux,Stade Rennais,1-1,/match/bordeaux/stade-rennes/2009,2009,15,ligue_1,20,38,1,1,1,3,7,3,4,21,13,WWWWDLDLWDWWWW,5,2,0,14,4,2,6,7,1,19,10,DWWDDDWWDDDWLW,1,4,1,3,1,WWDDWWW,WDDDDL
+Caen,Auxerre,1-0,/match/caen/auxerre/2009,2009,15,ligue_1,20,38,0,1,0,11,4,6,4,19,15,WWDLWDWWDDDLLD,3,2,2,11,6,8,5,4,5,13,13,WWLLDWWWDDLDWW,2,0,4,6,10,WLWWDDL,WLWWLW
+Grenoble,Le Havre,0-0,/match/grenoble-foot-38/havre-ac/2009,2009,15,ligue_1,20,38,1,0,0,13,5,4,5,11,14,LWWWDLLLDLDDLW,2,1,3,2,5,20,3,2,9,12,24,WWLWDLWLDWWLLL,1,2,4,5,13,WWLLDL,WWDWDWL
+Lorient,Toulouse,1-0,/match/lorient/toulouse-fc/2009,2009,15,ligue_1,20,38,0,1,0,15,4,4,6,18,19,LDWLWDDLWWLDLL,1,3,3,6,7,7,7,4,3,13,10,WWDDLWLWWDLLDW,3,2,2,6,7,DLDLWDL,WDLLWLD
+Saint-Étienne,Nice,0-1,/match/saint-etienne/nice/2009,2009,15,ligue_1,20,38,2,0,1,18,3,1,10,8,23,WWWLWWDWWLLWLW,3,0,4,6,11,4,7,4,3,19,14,WWLWWDWDLDDWLW,3,1,3,7,7,WLWWLLL,WLWWLDL
+Valenciennes,Sochaux,2-2,/match/valenciennes-afc/sochaux/2009,2009,15,ligue_1,20,38,1,2,2,19,2,3,9,8,18,WWWWDWLWLWDDLW,2,2,3,6,7,17,1,6,7,12,19,LWDWDWDDDDLWWW,0,2,5,5,10,WWDLLDL,WWWDDWW
+PSG,Olympique Lyonnais,1-0,/match/paris-saint-germain-fc/olympique-lyonnais/2009,2009,15,ligue_1,20,38,0,1,0,9,7,2,5,16,12,WWDLWWLDWLLWWL,4,0,2,6,4,1,10,3,1,21,9,WDWLWLWWDDLWLW,4,2,1,5,3,WWLWLW,DLLWDLL
+Monaco,Le Mans,3-0,/match/monaco/mans-uc-72/2009,2009,15,ligue_1,20,38,0,3,0,14,4,4,6,13,15,WDDWWDLWLDWLLW,3,1,3,8,7,12,6,3,5,20,17,LLWLLDDLWDLWWW,3,2,2,14,11,WDWLLWL,LLDLDWW
+Nantes,Nancy,0-1,/match/nantes/nancy/2009,2009,15,ligue_1,20,38,2,0,1,16,3,3,8,10,22,WDWLWWWLWWDWDW,2,3,1,7,7,10,3,7,4,11,14,DWDWDDWDWDWWLD,1,1,4,5,10,DLWWDD,WDWWWL
+Olympique,Lille,2-2,/match/olympique-marsella/lillestrom/2009,2009,15,ligue_1,20,38,1,2,2,5,7,5,2,29,18,DWLWDDDWLLDWLL,4,1,2,15,10,6,6,5,3,20,14,DLWWDWLWDDDWWW,1,4,2,6,6,WWDWLWL,DWDLDDW
+Auxerre,Monaco,0-1,/match/auxerre/monaco/2009,2009,16,ligue_1,20,38,2,0,1,11,5,4,6,13,14,WWLLDWWWDDLDWWW,3,4,1,7,3,12,5,4,6,16,15,WDDWWDLWLDWLLWW,1,3,3,5,8,WLDWDDDW,DWDWDLW
+Le Havre,Nantes,0-2,/match/havre-ac/nantes/2009,2009,16,ligue_1,20,38,2,0,2,20,3,3,9,12,24,WWLWDLWLDWWLLLD,2,0,5,7,11,16,3,3,9,10,23,WDWLWWWLWWDWDWL,1,0,7,3,15,WLLLWLL,WWWWLWWW
+Le Mans,Caen,2-0,/match/mans-uc-72/caen/2009,2009,16,ligue_1,20,38,0,2,0,13,6,3,6,20,20,LLWLLDDLWDLWWWW,3,1,3,6,6,9,5,6,4,20,15,WWDLWDWWDDDLLDW,1,4,2,8,9,LWLDWLW,WDDWDLD
+Lille,Lorient,1-1,/match/lillestrom/lorient/2009,2009,16,ligue_1,20,38,1,1,1,6,6,6,3,22,16,DLWWDWLWDDDWWWD,5,1,1,14,8,15,5,4,6,19,19,LDWLWDDLWWLDLLW,3,1,3,12,12,LWWWDWW,LWWDWLL
+Olympique Lyonnais,Valenciennes,0-0,/match/olympique-lyonnais/valenciennes-afc/2009,2009,16,ligue_1,20,38,1,0,0,1,10,3,2,21,10,WDWLWLWWDDLWLWW,6,1,0,16,6,18,2,4,9,10,20,WWWWDWLWLWDDLWD,0,1,6,2,11,WWWWDWW,WWWWWDW
+Sochaux,Girondins Bordeaux,0-0,/match/sochaux/bordeaux/2009,2009,16,ligue_1,20,38,1,0,0,17,1,7,7,14,21,LWDWDWDDDDLWWWD,1,4,2,7,9,3,7,4,4,22,14,WWWWDLDLWDWWWWD,2,1,4,7,9,LDDDDLW,WWLLDWW
+Nancy,Saint-Étienne,1-2,/match/nancy/saint-etienne/2009,2009,16,ligue_1,20,38,2,1,2,10,4,7,4,12,14,DWDWDDWDWDWWLDL,2,6,0,6,4,19,3,1,11,8,24,WWWLWWDWWLLWLWL,0,1,6,2,12,DDWDDDWD,WWWDWWW
+Toulouse,Olympique,0-0,/match/toulouse-fc/olympique-marsella/2009,2009,16,ligue_1,20,38,1,0,0,8,7,4,4,13,11,WWDDLWLWWDLLDWW,4,2,1,7,3,5,7,6,2,31,20,DWLWDDDWLLDWLLD,3,4,0,14,8,WDWWDLW,DLDDLDL
+Stade Rennais,PSG,1-0,/match/stade-rennes/paris-saint-germain-fc/2009,2009,16,ligue_1,20,38,0,1,0,2,6,8,1,20,11,DWWDDDWWDDDWLWD,5,3,0,16,9,7,8,2,5,17,12,WWDLWWLDWLLWWLW,3,2,3,10,8,DWDWWDWW,WDLWDLWL
+Nice,Grenoble,0-0,/match/nice/grenoble-foot-38/2009,2009,16,ligue_1,20,38,1,0,0,4,8,4,3,20,14,WWLWWDWDLDDWLWL,4,3,0,12,7,14,5,5,5,11,14,LWWWDLLLDLDDLWD,3,3,2,9,9,WWDDDWW,LWDLDLDW
+Girondins Bordeaux,Valenciennes,2-1,/match/bordeaux/valenciennes-afc/2009,2009,17,ligue_1,20,38,0,2,1,4,7,5,4,22,14,WWWWDLDLWDWWWWDD,5,3,0,15,5,18,2,5,9,10,20,WWWWDWLWLWDDLWDD,0,2,6,2,11,WWDDWWWD,WWWWWDWD
+Caen,Stade Rennais,1-1,/match/caen/stade-rennes/2009,2009,17,ligue_1,20,38,1,1,1,10,5,6,5,20,17,WWDLWDWWDDDLLDWW,4,2,2,12,6,2,7,8,1,21,11,DWWDDDWWDDDWLWDW,1,5,1,4,2,WLWWDDLW,WDDDDLD
+Lille,Toulouse,1-1,/match/lillestrom/toulouse-fc/2009,2009,17,ligue_1,20,38,1,1,1,6,6,7,3,23,17,DLWWDWLWDDDWWWDD,5,2,1,15,9,7,7,5,4,13,11,WWDDLWLWWDLLDWWD,3,2,3,6,8,LWWWDWWD,WDLLWLDW
+Olympique,Nice,2-1,/match/olympique-marsella/nice/2009,2009,17,ligue_1,20,38,0,2,1,5,7,7,2,31,20,DWLWDDDWLLDWLLDD,4,2,2,17,12,3,8,5,3,20,14,WWLWWDWDLDDWLWLD,4,1,3,8,7,WWDWLWLD,WLWWLDLL
+Saint-Étienne,Le Havre,2-0,/match/saint-etienne/havre-ac/2009,2009,17,ligue_1,20,38,0,2,0,19,4,1,11,10,25,WWWLWWDWWLLWLWLL,3,0,5,6,12,20,3,3,10,12,26,WWLWDLWLDWWLLLDL,1,3,4,5,13,WLWWLLLL,WWDWDWLD
+Nantes,Olympique Lyonnais,2-1,/match/nantes/olympique-lyonnais/2009,2009,17,ligue_1,20,38,0,2,1,16,4,3,9,12,23,WDWLWWWLWWDWDWLL,2,3,2,7,8,1,10,4,2,21,10,WDWLWLWWDDLWLWWD,4,2,2,5,4,DLWWDDL,DLLWDLLW
+Grenoble,Auxerre,0-0,/match/grenoble-foot-38/auxerre/2009,2009,17,ligue_1,20,38,1,0,0,14,5,6,5,11,14,LWWWDLLLDLDDLWDD,2,2,3,2,5,13,5,4,7,13,15,WWLLDWWWDDLDWWWL,2,0,5,6,11,WWLLDLD,WLWWLWW
+Lorient,Nancy,1-0,/match/lorient/nancy/2009,2009,17,ligue_1,20,38,0,1,0,15,5,5,6,20,20,LDWLWDDLWWLDLLWD,2,3,3,7,7,11,4,7,5,13,16,DWDWDDWDWDWWLDLL,2,1,4,6,10,DLDLWDLW,WDWWWLL
+Monaco,Sochaux,1-1,/match/monaco/sochaux/2009,2009,17,ligue_1,20,38,1,1,1,12,6,4,6,17,15,WDDWWDLWLDWLLWWL,4,1,3,11,7,17,1,8,7,14,21,LWDWDWDDDDLWWWDD,0,3,5,7,12,WDWLLWLW,WWWDDWWD
+PSG,Le Mans,3-1,/match/paris-saint-germain-fc/mans-uc-72/2009,2009,17,ligue_1,20,38,0,3,1,8,8,2,6,17,13,WWDLWWLDWLLWWLWW,5,0,2,7,4,9,7,3,6,22,20,LLWLLDDLWDLWWWWW,3,2,3,14,14,WWLWLWW,LLDLDWWW
+Auxerre,PSG,1-2,/match/auxerre/paris-saint-germain-fc/2009,2009,18,ligue_1,20,38,2,1,2,14,5,5,7,13,15,WWLLDWWWDDLDWWWLD,3,4,2,7,4,7,9,2,6,20,14,WWDLWWLDWLLWWLWWW,3,2,4,10,9,WLDWDDDWL,WDLWDLWLW
+Le Mans,Girondins Bordeaux,1-3,/match/mans-uc-72/bordeaux/2009,2009,18,ligue_1,20,38,2,1,3,12,7,3,7,23,23,LLWLLDDLWDLWWWWWW,4,1,3,8,6,3,8,5,4,24,15,WWWWDLDLWDWWWWDDW,2,2,4,7,9,LWLDWLWW,WWLLDWWD
+Nancy,Grenoble,2-0,/match/nancy/grenoble-foot-38/2009,2009,18,ligue_1,20,38,0,2,0,13,4,7,6,13,17,DWDWDDWDWDWWLDLLW,2,6,1,7,6,15,5,7,5,11,14,LWWWDLLLDLDDLWDDD,3,4,2,9,9,DDWDDDWDL,LWDLDLDWD
+Sochaux,Caen,2-2,/match/sochaux/caen/2009,2009,18,ligue_1,20,38,1,2,2,18,1,9,7,15,22,LWDWDWDDDDLWWWDDD,1,5,2,7,9,9,5,7,5,21,18,WWDLWDWWDDDLLDWWD,1,4,3,8,11,LDDDDLWD,WDDWDLDW
+Toulouse,Saint-Étienne,3-1,/match/toulouse-fc/saint-etienne/2009,2009,18,ligue_1,20,38,0,3,1,8,7,6,4,14,12,WWDDLWLWWDLLDWWDD,4,3,1,7,3,17,5,1,11,12,25,WWWLWWDWWLLWLWLLW,1,1,6,4,13,WDWWDLWD,WWWDWWWL
+Valenciennes,Monaco,3-1,/match/valenciennes-afc/monaco/2009,2009,18,ligue_1,20,38,0,3,1,19,2,5,10,11,22,WWWWDWLWLWDDLWDDW,2,3,3,8,9,10,6,5,6,18,16,WDDWWDLWLDWLLWWLD,2,3,3,6,8,WWDLLDLD,DWDWDLWL
+Stade Rennais,Nantes,0-0,/match/stade-rennes/nantes/2009,2009,18,ligue_1,20,38,1,0,0,2,7,9,1,22,12,DWWDDDWWDDDWLWDWD,6,3,0,17,9,16,5,3,9,14,24,WDWLWWWLWWDWDWLLW,2,0,7,5,15,DWDWWDWWW,WWWWLWWWL
+Le Havre,Lorient,1-3,/match/havre-ac/lorient/2009,2009,18,ligue_1,20,38,2,1,3,20,3,3,11,12,28,WWLWDLWLDWWLLLDLW,2,0,6,7,13,11,6,5,6,21,20,LDWLWDDLWWLDLLWDW,3,2,3,13,13,WLLLWLLL,LWWDWLLD
+Nice,Lille,0-1,/match/nice/lillestrom/2009,2009,18,ligue_1,20,38,2,0,1,5,8,5,4,21,16,WWLWWDWDLDDWLWLDW,4,4,0,12,7,6,6,8,3,24,18,DLWWDWLWDDDWWWDDD,1,5,2,8,8,WWDDDWWD,DWDLDDWD
+Olympique Lyonnais,Olympique,0-0,/match/olympique-lyonnais/olympique-marsella/2009,2009,18,ligue_1,20,38,1,0,0,1,10,4,3,22,12,WDWLWLWWDDLWLWWDW,6,2,0,16,6,4,8,7,2,33,21,DWLWDDDWLLDWLLDDW,3,5,0,14,8,WWWWDWWD,DLDDLDLD
+Grenoble,Le Mans,2-1,/match/grenoble-foot-38/mans-uc-72/2009,2009,19,ligue_1,20,38,0,2,1,15,5,7,6,11,16,LWWWDLLLDLDDLWDDDW,2,3,3,2,5,13,7,3,8,24,26,LLWLLDDLWDLWWWWWWL,3,2,4,15,17,WWLLDLDD,LLDLDWWWW
+Lille,Le Havre,3-1,/match/lillestrom/havre-ac/2009,2009,19,ligue_1,20,38,0,3,1,5,7,8,3,25,18,DLWWDWLWDDDWWWDDDL,5,3,1,16,10,20,3,3,12,13,31,WWLWDLWLDWWLLLDLWL,1,3,5,5,15,LWWWDWWDD,WWDWDWLDW
+Lorient,Stade Rennais,1-2,/match/lorient/stade-rennes/2009,2009,19,ligue_1,20,38,2,1,2,11,7,5,6,24,21,LDWLWDDLWWLDLLWDWL,3,3,3,8,7,2,7,10,1,22,12,DWWDDDWWDDDWLWDWDD,1,6,1,5,3,DLDLWDLWW,WDDDDLDD
+Nantes,Sochaux,1-1,/match/nantes/sochaux/2009,2009,19,ligue_1,20,38,1,1,1,16,5,4,9,14,24,WDWLWWWLWWDWDWLLWD,3,3,2,9,9,17,1,10,7,17,24,LWDWDWDDDDLWWWDDDD,0,4,5,8,13,DLWWDDLW,WWWDDWWDD
+Saint-Étienne,Auxerre,2-0,/match/saint-etienne/auxerre/2009,2009,19,ligue_1,20,38,0,2,0,19,5,1,12,13,28,WWWLWWDWWLLWLWLLWW,4,0,5,8,12,14,5,5,8,14,17,WWLLDWWWDDLDWWWLDL,2,1,5,6,11,WLWWLLLLW,WLWWLWWD
+Toulouse,Nice,2-2,/match/toulouse-fc/nice/2009,2009,19,ligue_1,20,38,1,2,2,6,8,6,4,17,13,WWDDLWLWWDLLDWWDDW,5,3,1,10,4,8,8,5,5,21,17,WWLWWDWDLDDWLWLDWL,4,1,4,9,9,WDWWDLWDW,WLWWLDLLW
+Caen,Olympique Lyonnais,0-1,/match/caen/olympique-lyonnais/2009,2009,19,ligue_1,20,38,2,0,1,9,5,8,5,23,20,WWDLWDWWDDDLLDWWDD,4,3,2,13,7,1,10,5,3,22,12,WDWLWLWWDDLWLWWDWD,4,2,3,6,6,WLWWDDLWD,DLLWDLLWW
+Olympique,Nancy,0-3,/match/olympique-marsella/nancy/2009,2009,19,ligue_1,20,38,2,0,3,4,8,8,2,33,21,DWLWDDDWLLDWLLDDWD,5,2,2,19,13,10,5,7,6,15,17,DWDWDDWDWDWWLDLLWW,2,1,5,6,11,WWDWLWLDW,WDWWWLLW
+PSG,Valenciennes,2-2,/match/paris-saint-germain-fc/valenciennes-afc/2009,2009,19,ligue_1,20,38,1,2,2,7,10,2,6,22,15,WWDLWWLDWLLWWLWWWL,6,0,2,10,5,18,3,5,10,14,23,WWWWDWLWLWDDLWDDWW,0,2,7,3,13,WWLWLWWW,WWWWWDWDW
+Monaco,Girondins Bordeaux,3-4,/match/monaco/bordeaux/2009,2009,19,ligue_1,20,38,2,3,4,12,6,5,7,19,19,WDDWWDLWLDWLLWWLDW,4,2,3,12,8,3,9,5,4,27,16,WWWWDLDLWDWWWWDDWL,3,2,4,10,10,WDWLLWLWD,WWLLDWWDL
+Auxerre,Olympique,0-2,/match/auxerre/olympique-marsella/2009,2009,20,ligue_1,20,38,2,0,2,15,5,5,9,14,19,WWLLDWWWDDLDWWWLDLW,3,4,3,8,6,6,8,8,3,33,24,DWLWDDDWLLDWLLDDWDL,3,6,0,14,8,WLDWDDDWLL,DLDDLDLDD
+Le Havre,Toulouse,0-1,/match/havre-ac/toulouse-fc/2009,2009,20,ligue_1,20,38,2,0,1,20,3,3,13,14,34,WWLWDLWLDWWLLLDLWLW,2,0,7,8,16,5,8,7,4,19,15,WWDDLWLWWDLLDWWDDWD,3,3,3,7,9,WLLLWLLLL,WDLLWLDWD
+Olympique Lyonnais,Lorient,1-1,/match/olympique-lyonnais/lorient/2009,2009,20,ligue_1,20,38,1,1,1,1,11,5,3,23,12,WDWLWLWWDDLWLWWDWDL,6,3,0,16,6,12,7,5,7,25,23,LDWLWDDLWWLDLLWDWLL,4,2,3,16,14,WWWWDWWDD,LWWDWLLDL
+Monaco,Nantes,1-2,/match/monaco/nantes/2009,2009,20,ligue_1,20,38,2,1,2,13,6,5,8,22,23,WDDWWDLWLDWLLWWLDWL,4,2,4,15,12,16,5,5,9,15,25,WDWLWWWLWWDWDWLLWDD,2,1,7,5,15,WDWLLWLWDL,WWWWLWWWLD
+Stade Rennais,Grenoble,1-0,/match/stade-rennes/grenoble-foot-38/2009,2009,20,ligue_1,20,38,0,1,0,2,8,10,1,24,13,DWWDDDWWDDDWLWDWDDL,6,4,0,17,9,11,6,7,6,13,17,LWWWDLLLDLDDLWDDDWW,3,4,3,9,11,DWDWWDWWWD,LWDLDLDWDW
+Sochaux,Saint-Étienne,1-0,/match/sochaux/saint-etienne/2009,2009,20,ligue_1,20,38,0,1,0,18,1,11,7,18,25,LWDWDWDDDDLWWWDDDDD,1,6,2,9,11,17,6,1,12,15,28,WWWLWWDWWLLWLWLLWWW,1,1,7,5,16,LDDDDLWDD,WWWDWWWLW
+Girondins Bordeaux,PSG,4-0,/match/bordeaux/paris-saint-germain-fc/2009,2009,20,ligue_1,20,38,0,4,0,3,10,5,4,31,19,WWWWDLDLWDWWWWDDWLL,6,3,0,17,6,7,10,3,6,24,17,WWDLWWLDWLLWWLWWWLD,4,2,4,12,10,WWDDWWWDW,WDLWDLWLWL
+Le Mans,Lille,0-0,/match/mans-uc-72/lillestrom/2009,2009,20,ligue_1,20,38,1,0,0,14,7,3,9,25,28,LLWLLDDLWDLWWWWWWLW,4,1,4,9,9,4,8,8,3,28,19,DLWWDWLWDDDWWWDDDLW,2,5,2,9,8,LWLDWLWWL,DWDLDDWDL
+Nancy,Nice,1-2,/match/nancy/nice/2009,2009,20,ligue_1,20,38,2,1,2,9,6,7,6,18,17,DWDWDDWDWDWWLDLLWWL,3,6,1,9,6,8,8,6,5,23,19,WWLWWDWDLDDWLWLDWLD,4,2,4,11,11,DDWDDDWDLW,WLWWLDLLWD
+Valenciennes,Caen,2-0,/match/valenciennes-afc/caen/2009,2009,20,ligue_1,20,38,0,2,0,19,3,6,10,16,25,WWWWDWLWLWDDLWDDWWD,3,3,3,11,10,10,5,8,6,23,21,WWDLWDWWDDDLLDWWDDL,1,5,3,10,13,WWDLLDLDW,WDDWDLDWD
+Grenoble,Olympique Lyonnais,0-2,/match/grenoble-foot-38/olympique-lyonnais/2009,2009,21,ligue_1,20,38,2,0,2,13,6,7,7,13,18,LWWWDLLLDLDDLWDDDWWW,3,3,3,4,6,2,11,6,3,24,13,WDWLWLWWDDLWLWWDWDLD,5,2,3,7,6,WWLLDLDDW,DLLWDLLWWL
+Lorient,Valenciennes,1-1,/match/lorient/valenciennes-afc/2009,2009,21,ligue_1,20,38,1,1,1,11,7,6,7,26,24,LDWLWDDLWWLDLLWDWLLD,3,3,4,9,9,18,4,6,10,18,25,WWWWDWLWLWDDLWDDWWDW,0,3,7,5,15,DLDLWDLWWL,WWWWWDWDWD
+Olympique,Le Havre,2-0,/match/olympique-marsella/havre-ac/2009,2009,21,ligue_1,20,38,0,2,0,6,9,8,3,35,24,DWLWDDDWLLDWLLDDWDLL,5,2,3,19,16,20,3,3,14,14,35,WWLWDLWLDWWLLLDLWLWL,1,3,6,6,18,WWDWLWLDWL,WWDWDWLDWW
+Nice,Auxerre,2-0,/match/nice/auxerre/2009,2009,21,ligue_1,20,38,0,2,0,8,9,6,5,25,20,WWLWWDWDLDDWLWLDWLDL,4,4,1,12,8,16,5,5,10,14,21,WWLLDWWWDDLDWWWLDLWL,2,1,6,6,13,WWDDDWWDL,WLWWLWWDW
+Saint-Étienne,Le Mans,1-1,/match/saint-etienne/mans-uc-72/2009,2009,21,ligue_1,20,38,1,1,1,19,6,1,13,15,29,WWWLWWDWWLLWLWLLWWWW,5,0,5,10,12,12,7,4,9,25,28,LLWLLDDLWDLWWWWWWLWD,3,2,5,16,19,WLWWLLLLWW,LLDLDWWWWW
+Toulouse,Nancy,3-0,/match/toulouse-fc/nancy/2009,2009,21,ligue_1,20,38,0,3,0,5,9,7,4,20,15,WWDDLWLWWDLLDWWDDWDL,5,4,1,12,6,9,6,7,7,19,19,DWDWDDWDWDWWLDLLWWLL,3,1,5,9,11,WDWWDLWDWD,WDWWWLLWL
+Nantes,Girondins Bordeaux,1-2,/match/nantes/bordeaux/2009,2009,21,ligue_1,20,38,2,1,2,15,6,5,9,17,26,WDWLWWWLWWDWDWLLWDDL,3,4,2,10,10,3,11,5,4,35,19,WWWWDLDLWDWWWWDDWLLW,4,2,4,14,13,DLWWDDLWD,WWLLDWWDLL
+Caen,Monaco,2-2,/match/caen/monaco/2009,2009,21,ligue_1,20,38,1,2,2,10,5,8,7,23,23,WWDLWDWWDDDLLDWWDDLW,4,3,3,13,8,14,6,5,9,23,25,WDDWWDLWLDWLLWWLDWLL,2,3,4,7,11,WLWWDDLWDL,DWDWDLWLW
+PSG,Sochaux,2-1,/match/paris-saint-germain-fc/sochaux/2009,2009,21,ligue_1,20,38,0,2,1,7,10,3,7,24,21,WWDLWWLDWLLWWLWWWLDW,6,1,2,12,7,17,2,11,7,19,25,LWDWDWDDDDLWWWDDDDDW,0,5,5,9,14,WWLWLWWWD,WWWDDWWDDD
+Lille,Stade Rennais,1-0,/match/lillestrom/stade-rennes/2009,2009,21,ligue_1,20,38,0,1,0,4,8,9,3,28,19,DLWWDWLWDDDWWWDDDLWD,6,3,1,19,11,1,9,10,1,25,13,DWWDDDWWDDDWLWDWDDLW,2,6,1,7,4,LWWWDWWDDW,WDDDDLDDL
+Auxerre,Lorient,0-0,/match/auxerre/lorient/2009,2009,22,ligue_1,20,38,1,0,0,17,5,5,11,14,23,WWLLDWWWDDLDWWWLDLWLW,3,4,4,8,8,10,7,7,7,27,25,LDWLWDDLWWLDLLWDWLLDD,4,3,3,17,15,WLDWDDDWLLL,LWWDWLLDLD
+Le Havre,Nancy,2-3,/match/havre-ac/nancy/2009,2009,22,ligue_1,20,38,2,2,3,20,3,3,15,14,37,WWLWDLWLDWWLLLDLWLWLW,2,0,8,8,17,11,6,7,8,19,22,DWDWDDWDWDWWLDLLWWLLW,3,1,6,9,14,WLLLWLLLLL,WDWWWLLWLW
+Le Mans,Nantes,0-2,/match/mans-uc-72/nantes/2009,2009,22,ligue_1,20,38,2,0,2,12,7,5,9,26,29,LLWLLDDLWDLWWWWWWLWDD,4,2,4,9,9,15,6,5,10,18,28,WDWLWWWLWWDWDWLLWDDLL,3,1,7,7,16,LWLDWLWWLD,WWWWLWWWLDL
+Monaco,Grenoble,1-0,/match/monaco/grenoble-foot-38/2009,2009,22,ligue_1,20,38,0,1,0,14,6,6,9,25,27,WDDWWDLWLDWLLWWLDWLLD,4,2,5,16,14,13,6,7,8,13,20,LWWWDLLLDLDDLWDDDWWWL,3,4,4,9,12,WDWLLWLWDLL,LWDLDLDWDWW
+PSG,Caen,2-0,/match/paris-saint-germain-fc/caen/2009,2009,22,ligue_1,20,38,0,2,0,7,11,3,7,26,22,WWDLWWLDWLLWWLWWWLDWW,7,1,2,14,8,9,5,9,7,25,25,WWDLWDWWDDDLLDWWDDLWD,1,5,4,10,15,WWLWLWWWDW,WDDWDLDWDW
+Valenciennes,Nice,1-0,/match/valenciennes-afc/nice/2009,2009,22,ligue_1,20,38,0,1,0,16,4,7,10,19,26,WWWWDWLWLWDDLWDDWWDWD,4,3,3,13,10,8,10,6,5,27,20,WWLWWDWDLDDWLWLDWLDLW,5,2,4,13,12,WWDLLDLDWW,WLWWLDLLWDL
+Stade Rennais,Toulouse,0-0,/match/stade-rennes/toulouse-fc/2009,2009,22,ligue_1,20,38,1,0,0,1,9,10,2,25,14,DWWDDDWWDDDWLWDWDDLWW,7,4,0,18,9,5,10,7,4,23,15,WWDDLWLWWDLLDWWDDWDLW,4,3,3,8,9,DWDWWDWWWDW,WDLLWLDWDL
+Girondins Bordeaux,Lille,2-2,/match/bordeaux/lillestrom/2009,2009,22,ligue_1,20,38,1,2,2,2,12,5,4,37,20,WWWWDLDLWDWWWWDDWLLWL,7,3,0,21,6,4,9,9,3,29,19,DLWWDWLWDDDWWWDDDLWDW,2,6,2,9,8,WWDDWWWDWW,DWDLDDWDLD
+Sochaux,Olympique,1-0,/match/sochaux/olympique-marsella/2009,2009,22,ligue_1,20,38,0,1,0,18,2,11,8,20,27,LWDWDWDDDDLWWWDDDDDWW,2,6,2,10,11,6,10,8,3,37,24,DWLWDDDWLLDWLLDDWDLLW,4,6,0,16,8,LDDDDLWDDW,DLDDLDLDDL
+Olympique Lyonnais,Saint-Étienne,1-1,/match/olympique-lyonnais/saint-etienne/2009,2009,22,ligue_1,20,38,1,1,1,3,12,6,3,26,13,WDWLWLWWDDLWLWWDWDLDL,6,4,0,17,7,19,6,2,13,16,30,WWWLWWDWWLLWLWLLWWWWD,1,1,8,5,17,WWWWDWWDDD,WWWDWWWLWW
+Le Havre,Stade Rennais,1-0,/match/havre-ac/stade-rennes/2009,2009,23,ligue_1,20,38,0,1,0,20,3,3,16,16,40,WWLWDLWLDWWLLLDLWLWLWL,2,0,9,10,20,1,9,11,2,25,14,DWWDDDWWDDDWLWDWDDLWWD,2,6,2,7,5,WLLLWLLLLLL,WDDDDLDDLW
+Lorient,Monaco,1-1,/match/lorient/monaco/2009,2009,23,ligue_1,20,38,1,1,1,10,7,8,7,27,25,LDWLWDDLWWLDLLWDWLLDDD,3,4,4,10,10,11,7,6,9,26,27,WDDWWDLWLDWLLWWLDWLLDW,2,4,4,9,13,DLDLWDLWWLD,DWDWDLWLWD
+Nancy,Auxerre,0-2,/match/nancy/auxerre/2009,2009,23,ligue_1,20,38,2,0,2,9,7,7,8,22,24,DWDWDDWDWDWWLDLLWWLLWL,3,6,2,10,8,18,5,6,11,14,23,WWLLDWWWDDLDWWWLDLWLWD,2,1,7,6,15,DDWDDDWDLWL,WLWWLWWDWW
+Nantes,PSG,1-4,/match/nantes/paris-saint-germain-fc/2009,2009,23,ligue_1,20,38,2,1,4,15,7,5,10,20,28,WDWLWWWLWWDWDWLLWDDLLL,3,4,3,11,12,6,12,3,7,28,22,WWDLWWLDWLLWWLWWWLDWWW,4,2,5,12,14,DLWWDDLWDL,WDLWDLWLWLW
+Saint-Étienne,Caen,3-2,/match/saint-etienne/caen/2009,2009,23,ligue_1,20,38,0,3,2,19,6,3,13,17,31,WWWLWWDWWLLWLWLLWWWWDD,5,1,5,11,13,12,5,9,8,25,27,WWDLWDWWDDDLLDWWDDLWDW,1,5,5,10,17,WLWWLLLLWWD,WDDWDLDWDWW
+Toulouse,Le Mans,2-0,/match/toulouse-fc/mans-uc-72/2009,2009,23,ligue_1,20,38,0,2,0,5,10,8,4,23,15,WWDDLWLWWDLLDWWDDWDLWD,6,4,1,15,6,14,7,5,10,26,31,LLWLLDDLWDLWWWWWWLWDDL,3,3,5,17,20,WDWWDLWDWDW,LLDLDWWWWWD
+Lille,Sochaux,3-2,/match/lillestrom/sochaux/2009,2009,23,ligue_1,20,38,0,3,2,4,9,10,3,31,21,DLWWDWLWDDDWWWDDDLWDWD,7,3,1,20,11,16,3,11,8,21,27,LWDWDWDDDDLWWWDDDDDWWW,0,5,6,10,16,LWWWDWWDDWW,WWWDDWWDDDW
+Grenoble,Valenciennes,0-0,/match/grenoble-foot-38/valenciennes-afc/2009,2009,23,ligue_1,20,38,1,0,0,17,6,7,9,13,21,LWWWDLLLDLDDLWDDDWWWLW,3,3,4,4,8,13,5,7,10,20,26,WWWWDWLWLWDDLWDDWWDWDW,0,4,7,6,16,WWLLDLDDWL,WWWWWDWDWDD
+Nice,Olympique Lyonnais,1-3,/match/nice/olympique-lyonnais/2009,2009,23,ligue_1,20,38,2,1,3,8,10,6,6,27,21,WWLWWDWDLDDWLWLDWLDLWW,5,4,1,14,8,3,12,7,3,27,14,WDWLWLWWDDLWLWWDWDLDLD,6,2,3,9,6,WWDDDWWDLW,DLLWDLLWWLL
+Olympique,Girondins Bordeaux,1-0,/match/olympique-marsella/bordeaux/2009,2009,23,ligue_1,20,38,0,1,0,7,10,8,4,37,25,DWLWDDDWLLDWLLDDWDLLWW,6,2,3,21,16,2,12,6,4,39,22,WWWWDLDLWDWWWWDDWLLWLD,5,2,4,16,14,WWDWLWLDWLW,WWLLDWWDLLL
+Auxerre,Lille,2-0,/match/auxerre/lillestrom/2009,2009,24,ligue_1,20,38,0,2,0,19,6,6,11,16,23,WWLLDWWWDDLDWWWLDLWLWDL,3,5,4,8,8,2,10,10,3,34,23,DLWWDWLWDDDWWWDDDLWDWDW,2,7,2,11,10,WLDWDDDWLLLD,DWDLDDWDLDD
+Girondins Bordeaux,Grenoble,1-1,/match/bordeaux/grenoble-foot-38/2009,2009,24,ligue_1,20,38,1,1,1,5,12,6,5,39,23,WWWWDLDLWDWWWWDDWLLWLDW,7,4,0,23,8,14,6,8,9,13,21,LWWWDLLLDLDDLWDDDWWWLWD,3,4,5,9,13,WWDDWWWDWWD,LWDLDLDWDWWW
+Caen,Lorient,1-1,/match/caen/lorient/2009,2009,24,ligue_1,20,38,1,1,1,12,5,9,9,27,30,WWDLWDWWDDDLLDWWDDLWDWW,4,4,3,15,10,9,7,9,7,28,26,LDWLWDDLWWLDLLWDWLLDDDD,4,4,3,17,15,WLWWDDLWDLD,LWWDWLLDLDD
+Le Mans,Nice,1-2,/match/mans-uc-72/nice/2009,2009,24,ligue_1,20,38,2,1,2,16,7,5,11,26,33,LLWLLDDLWDLWWWWWWLWDDLW,4,2,5,9,11,8,10,6,7,28,24,WWLWWDWDLDDWLWLDWLDLWWL,5,2,5,13,13,LWLDWLWWLDL,WLWWLDLLWDLW
+Stade Rennais,Nancy,1-1,/match/stade-rennes/nancy/2009,2009,24,ligue_1,20,38,1,1,1,3,9,11,3,25,15,DWWDDDWWDDDWLWDWDDLWWDW,7,5,0,18,9,11,7,7,9,22,26,DWDWDDWDWDWWLDLLWWLLWLL,4,1,6,12,16,DWDWWDWWWDWD,WDWWWLLWLWL
+Valenciennes,Nantes,1-1,/match/valenciennes-afc/nantes/2009,2009,24,ligue_1,20,38,1,1,1,13,5,8,10,20,26,WWWWDWLWLWDDLWDDWWDWDWD,5,3,3,14,10,17,7,5,11,21,32,WDWLWWWLWWDWDWLLWDDLLLL,4,1,7,9,16,WWDLLDLDWWW,WWWWLWWWLDLL
+PSG,Saint-Étienne,2-1,/match/paris-saint-germain-fc/saint-etienne/2009,2009,24,ligue_1,20,38,0,2,1,6,13,3,7,32,23,WWDLWWLDWLLWWLWWWLDWWWL,8,1,2,16,8,15,7,3,13,20,33,WWWLWWDWWLLWLWLLWWWWDDW,1,2,8,6,18,WWLWLWWWDWW,WWWDWWWLWWD
+Olympique Lyonnais,Le Havre,3-1,/match/olympique-lyonnais/havre-ac/2009,2009,24,ligue_1,20,38,0,3,1,1,13,7,3,30,15,WDWLWLWWDDLWLWWDWDLDLDL,6,5,0,18,8,20,4,3,16,17,40,WWLWDLWLDWWLLLDLWLWLWLW,1,3,7,6,20,WWWWDWWDDDD,WWDWDWLDWWW
+Sochaux,Toulouse,1-2,/match/sochaux/toulouse-fc/2009,2009,24,ligue_1,20,38,2,1,2,18,3,11,9,23,30,LWDWDWDDDDLWWWDDDDDWWWW,3,6,2,11,11,4,11,8,4,25,15,WWDDLWLWWDLLDWWDDWDLWDW,4,4,3,8,9,LDDDDLWDDWW,WDLLWLDWDLD
+Monaco,Olympique,0-1,/match/monaco/olympique-marsella/2009,2009,24,ligue_1,20,38,2,0,1,10,7,7,9,27,28,WDDWWDLWLDWLLWWLDWLLDWD,5,2,5,17,14,7,11,8,4,38,25,DWLWDDDWLLDWLLDDWDLLWWW,4,6,1,16,9,WDWLLWLWDLLW,DLDDLDLDDLW
+Grenoble,PSG,0-0,/match/grenoble-foot-38/paris-saint-germain-fc/2009,2009,25,ligue_1,20,38,1,0,0,15,6,9,9,14,22,LWWWDLLLDLDDLWDDDWWWLWDD,3,4,4,4,8,5,14,3,7,34,24,WWDLWWLDWLLWWLWWWLDWWWLW,5,2,5,16,15,WWLLDLDDWLD,WDLWDLWLWLWL
+Le Havre,Auxerre,1-2,/match/havre-ac/auxerre/2009,2009,25,ligue_1,20,38,2,1,2,20,4,3,17,18,43,WWLWDLWLDWWLLLDLWLWLWLWW,3,0,9,11,20,14,7,6,11,18,23,WWLLDWWWDDLDWWWLDLWLWDLW,3,1,7,8,15,WLLLWLLLLLLW,WLWWLWWDWWL
+Lorient,Sochaux,1-2,/match/lorient/sochaux/2009,2009,25,ligue_1,20,38,2,1,2,9,7,10,7,29,27,LDWLWDDLWWLDLLWDWLLDDDDD,3,5,4,11,11,19,3,11,10,24,32,LWDWDWDDDDLWWWDDDDDWWWWL,0,5,7,12,19,DLDLWDLWWLDD,WWWDDWWDDDWW
+Nancy,Olympique Lyonnais,0-2,/match/nancy/olympique-lyonnais/2009,2009,25,ligue_1,20,38,2,0,2,10,7,8,9,23,27,DWDWDDWDWDWWLDLLWWLLWLLD,3,6,3,10,10,1,14,7,3,33,16,WDWLWLWWDDLWLWWDWDLDLDLW,7,2,3,12,7,DDWDDDWDLWLL,DLLWDLLWWLLL
+Nantes,Caen,1-1,/match/nantes/caen/2009,2009,25,ligue_1,20,38,1,1,1,17,7,6,11,22,33,WDWLWWWLWWDWDWLLWDDLLLLD,3,4,4,12,16,12,5,10,9,28,31,WWDLWDWWDDDLLDWWDDLWDWWD,1,5,6,12,20,DLWWDDLWDLL,WDDWDLDWDWWW
+Toulouse,Valenciennes,0-0,/match/toulouse-fc/valenciennes-afc/2009,2009,25,ligue_1,20,38,1,0,0,3,12,8,4,27,16,WWDDLWLWWDLLDWWDDWDLWDWL,7,4,1,17,6,13,5,9,10,21,27,WWWWDWLWLWDDLWDDWWDWDWDD,0,5,7,6,16,WDWWDLWDWDWW,WWWWWDWDWDDD
+Nice,Stade Rennais,0-1,/match/nice/stade-rennes/2009,2009,25,ligue_1,20,38,2,0,1,8,11,6,7,30,25,WWLWWDWDLDDWLWLDWLDLWWLL,5,4,2,15,11,2,9,12,3,26,16,DWWDDDWWDDDWLWDWDDLWWDWD,2,6,3,7,6,WWDDDWWDLWL,WDDDDLDDLWW
+Olympique,Le Mans,0-0,/match/olympique-marsella/mans-uc-72/2009,2009,25,ligue_1,20,38,1,0,0,7,12,8,4,39,25,DWLWDDDWLLDWLLDDWDLLWWWL,7,2,3,22,16,18,7,5,12,27,35,LLWLLDDLWDLWWWWWWLWDDLWL,3,3,6,17,22,WWDWLWLDWLWW,LLDLDWWWWWDW
+Saint-Étienne,Girondins Bordeaux,1-1,/match/saint-etienne/bordeaux/2009,2009,25,ligue_1,20,38,1,1,1,16,7,3,14,21,35,WWWLWWDWWLLWLWLLWWWWDDWW,6,1,5,14,15,4,12,7,5,40,24,WWWWDLDLWDWWWWDDWLLWLDWD,5,2,5,16,15,WLWWLLLLWWDW,WWLLDWWDLLLW
+Lille,Monaco,2-1,/match/lillestrom/monaco/2009,2009,25,ligue_1,20,38,0,2,1,6,10,10,4,34,25,DLWWDWLWDDDWWWDDDLWDWDWW,8,3,1,23,13,11,7,7,10,27,29,WDDWWDLWLDWLLWWLDWLLDWDL,2,5,4,10,14,LWWWDWWDDWWW,DWDWDLWLWDD
+Le Mans,Le Havre,2-0,/match/mans-uc-72/havre-ac/2009,2009,26,ligue_1,20,38,0,2,0,19,7,6,12,27,35,LLWLLDDLWDLWWWWWWLWDDLWLD,4,2,6,10,13,20,4,3,18,19,45,WWLWDLWLDWWLLLDLWLWLWLWWL,1,3,8,7,23,LWLDWLWWLDLL,WWDWDWLDWWWW
+Nantes,Grenoble,1-1,/match/nantes/grenoble-foot-38/2009,2009,26,ligue_1,20,38,1,1,1,17,7,7,11,23,34,WDWLWWWLWWDWDWLLWDDLLLLDD,3,5,4,13,17,14,6,10,9,14,22,LWWWDLLLDLDDLWDDDWWWLWDDD,3,5,5,10,14,DLWWDDLWDLLD,LWDLDLDWDWWWD
+Sochaux,Nice,1-0,/match/sochaux/nice/2009,2009,26,ligue_1,20,38,0,1,0,18,4,11,10,26,33,LWDWDWDDDDLWWWDDDDDWWWWLL,3,6,3,12,13,8,11,6,8,30,26,WWLWWDWDLDDWLWLDWLDLWWLLL,6,2,5,15,14,LDDDDLWDDWWL,WLWWLDLLWDLWL
+Valenciennes,Lille,2-0,/match/valenciennes-afc/lillestrom/2009,2009,26,ligue_1,20,38,0,2,0,13,5,10,10,21,27,WWWWDWLWLWDDLWDDWWDWDWDDD,5,4,3,15,11,2,11,10,4,36,26,DLWWDWLWDDDWWWDDDLWDWDWWW,2,7,3,11,12,WWDLLDLDWWWD,DWDLDDWDLDDW
+Auxerre,Toulouse,1-1,/match/auxerre/toulouse-fc/2009,2009,26,ligue_1,20,38,1,1,1,10,8,6,11,20,24,WWLLDWWWDDLDWWWLDLWLWDLWL,4,5,4,10,8,3,12,9,4,27,16,WWDDLWLWWDLLDWWDDWDLWDWLD,5,4,3,10,10,WLDWDDDWLLLDW,WDLLWLDWDLDL
+Girondins Bordeaux,Lorient,1-0,/match/bordeaux/lorient/2009,2009,26,ligue_1,20,38,0,1,0,5,12,8,5,41,25,WWWWDLDLWDWWWWDDWLLWLDWDD,7,5,0,24,9,9,7,10,8,30,29,LDWLWDDLWWLDLLWDWLLDDDDDL,4,5,3,18,16,WWDDWWWDWWDD,LWWDWLLDLDDD
+Caen,Olympique,0-1,/match/caen/olympique-marsella/2009,2009,26,ligue_1,20,38,2,0,1,12,5,11,9,29,32,WWDLWDWWDDDLLDWWDDLWDWWDD,4,5,3,16,11,7,12,9,4,39,25,DWLWDDDWLLDWLLDDWDLLWWWLD,5,6,1,17,9,WLWWDDLWDLDD,DLDDLDLDDLWL
+Monaco,Saint-Étienne,2-2,/match/monaco/saint-etienne/2009,2009,26,ligue_1,20,38,1,2,2,15,7,7,11,28,31,WDDWWDLWLDWLLWWLDWLLDWDLW,5,2,6,17,15,16,7,4,14,22,36,WWWLWWDWWLLWLWLLWWWWDDWWD,1,2,9,7,20,WDWLLWLWDLLWL,WWWDWWWLWWDW
+PSG,Nancy,4-1,/match/paris-saint-germain-fc/nancy/2009,2009,26,ligue_1,20,38,0,4,1,6,14,4,7,34,24,WWDLWWLDWLLWWLWWWLDWWWLWD,9,1,2,18,9,11,7,8,10,23,29,DWDWDDWDWDWWLDLLWWLLWLLDL,4,2,6,13,17,WWLWLWWWDWWW,WDWWWLLWLWLD
+Olympique Lyonnais,Stade Rennais,1-1,/match/olympique-lyonnais/stade-rennes/2009,2009,26,ligue_1,20,38,1,1,1,1,15,7,3,35,16,WDWLWLWWDDLWLWWDWDLDLDLWL,7,5,0,21,9,4,10,12,3,27,16,DWWDDDWWDDDWLWDWDDLWWDWDL,3,6,3,8,6,WWWWDWWDDDDW,WDDDDLDDLWWL
+Grenoble,Caen,2-1,/match/grenoble-foot-38/caen/2009,2009,27,ligue_1,20,38,0,2,1,17,6,11,9,15,23,LWWWDLLLDLDDLWDDDWWWLWDDDD,3,5,4,4,8,18,5,11,10,29,33,WWDLWDWWDDDLLDWWDDLWDWWDDL,1,6,6,13,21,WWLLDLDDWLDD,WDDWDLDWDWWWD
+Lorient,PSG,0-1,/match/lorient/paris-saint-germain-fc/2009,2009,27,ligue_1,20,38,2,0,1,11,7,10,9,30,30,LDWLWDDLWWLDLLWDWLLDDDDDLW,3,5,5,12,13,3,15,4,7,38,25,WWDLWWLDWLLWWLWWWLDWWWLWDW,5,3,5,16,15,DLDLWDLWWLDDL,WDLWDLWLWLWLD
+Olympique,Valenciennes,0-0,/match/olympique-marsella/valenciennes-afc/2009,2009,27,ligue_1,20,38,1,0,0,7,13,9,4,40,25,DWLWDDDWLLDWLLDDWDLLWWWLDL,7,3,3,22,16,9,6,10,10,23,27,WWWWDWLWLWDDLWDDWWDWDWDDDW,0,6,7,6,16,WWDWLWLDWLWWD,WWWWWDWDWDDDD
+Nancy,Le Mans,2-2,/match/nancy/mans-uc-72/2009,2009,27,ligue_1,20,38,1,2,2,16,7,8,11,24,33,DWDWDDWDWDWWLDLLWWLLWLLDLW,3,6,4,10,12,15,8,6,12,29,35,LLWLLDDLWDLWWWWWWLWDDLWLDW,3,4,6,17,22,DDWDDDWDLWLLL,LLDLDWWWWWDWD
+Nice,Monaco,0-0,/match/nice/monaco/2009,2009,27,ligue_1,20,38,1,0,0,8,11,6,9,30,27,WWLWWDWDLDDWLWLDWLDLWWLLLW,5,4,3,15,12,13,7,8,11,30,33,WDDWWDLWLDWLLWWLDWLLDWDLWD,2,5,5,11,16,WWDDDWWDLWLL,DWDWDLWLWDDW
+Toulouse,Girondins Bordeaux,3-0,/match/toulouse-fc/bordeaux/2009,2009,27,ligue_1,20,38,0,3,0,4,12,10,4,28,17,WWDDLWLWWDLLDWWDDWDLWDWLDD,7,5,1,17,6,2,13,8,5,42,25,WWWWDLDLWDWWWWDDWLLWLDWDDW,5,3,5,17,16,WDWWDLWDWDWWD,WWLLDWWDLLLWD
+Lille,Olympique Lyonnais,2-0,/match/lillestrom/olympique-lyonnais/2009,2009,27,ligue_1,20,38,0,2,0,6,11,10,5,36,28,DLWWDWLWDDDWWWDDDLWDWDWWWW,9,3,1,25,14,1,15,8,3,36,17,WDWLWLWWDDLWLWWDWDLDLDLWLD,8,2,3,14,7,LWWWDWWDDWWWW,DLLWDLLWWLLLL
+Le Havre,Sochaux,2-1,/match/havre-ac/sochaux/2009,2009,27,ligue_1,20,38,0,2,1,20,4,3,19,19,47,WWLWDLWLDWWLLLDLWLWLWLWWLW,3,0,10,12,22,12,5,11,10,27,33,LWDWDWDDDDLWWWDDDDDWWWWLLW,1,5,7,14,20,WLLLWLLLLLLWL,WWWDDWWDDDWWL
+Stade Rennais,Auxerre,2-0,/match/stade-rennes/auxerre/2009,2009,27,ligue_1,20,38,0,2,0,5,10,13,3,28,17,DWWDDDWWDDDWLWDWDDLWWDWDLD,7,6,0,19,10,10,8,7,11,21,25,WWLLDWWWDDLDWWWLDLWLWDLWLD,4,1,7,10,16,DWDWWDWWWDWDD,WLWWLWWDWWLL
+Saint-Étienne,Nantes,2-1,/match/saint-etienne/nantes/2009,2009,27,ligue_1,20,38,0,2,1,19,7,5,14,24,38,WWWLWWDWWLLWLWLLWWWWDDWWDD,6,2,5,15,16,14,7,8,11,24,35,WDWLWWWLWWDWDWLLWDDLLLLDDD,4,2,7,10,17,WLWWLLLLWWDWD,WWWWLWWWLDLLD
+Caen,Lille,0-1,/match/caen/lillestrom/2009,2009,28,ligue_1,20,38,2,0,1,19,5,11,11,30,35,WWDLWDWWDDDLLDWWDDLWDWWDDLW,4,5,4,16,12,5,12,10,5,38,28,DLWWDWLWDDDWWWDDDLWDWDWWWWW,2,7,4,11,14,WLWWDDLWDLDDL,DWDLDDWDLDDWW
+Le Mans,Stade Rennais,2-2,/match/mans-uc-72/stade-rennes/2009,2009,28,ligue_1,20,38,1,2,2,16,8,7,12,31,37,LLWLLDDLWDLWWWWWWLWDDLWLDWD,5,2,6,12,13,4,11,13,3,30,17,DWWDDDWWDDDWLWDWDDLWWDWDLDW,3,7,3,9,7,LWLDWLWWLDLLW,WDDDDLDDLWWLD
+Monaco,Toulouse,3-2,/match/monaco/toulouse-fc/2009,2009,28,ligue_1,20,38,0,3,2,14,7,9,11,30,33,WDDWWDLWLDWLLWWLDWLLDWDLWDD,5,3,6,19,17,3,13,10,4,31,17,WWDDLWLWWDLLDWWDDWDLWDWLDDW,5,5,3,11,11,WDWLLWLWDLLWLD,WDLLWLDWDLDLD
+Nantes,Lorient,1-1,/match/nantes/lorient/2009,2009,28,ligue_1,20,38,1,1,1,18,7,8,12,25,37,WDWLWWWLWWDWDWLLWDDLLLLDDDW,3,6,4,14,18,15,7,10,10,30,31,LDWLWDDLWWLDLLWDWLLDDDDDLWL,4,5,4,18,17,DLWWDDLWDLLDD,LWWDWLLDLDDDW
+Sochaux,Nancy,2-1,/match/sochaux/nancy/2009,2009,28,ligue_1,20,38,0,2,1,17,5,11,11,28,35,LWDWDWDDDDLWWWDDDDDWWWWLLWW,4,6,3,13,13,13,7,9,11,26,35,DWDWDDWDWDWWLDLLWWLLWLLDLWD,4,2,7,14,21,LDDDDLWDDWWLW,WDWWWLLWLWLDW
+Valenciennes,Le Havre,3-2,/match/valenciennes-afc/havre-ac/2009,2009,28,ligue_1,20,38,0,3,2,9,6,11,10,23,27,WWWWDWLWLWDDLWDDWWDWDWDDDWD,6,4,3,17,11,20,5,3,19,21,48,WWLWDLWLDWWLLLDLWLWLWLWWLWW,1,3,9,7,25,WWDLLDLDWWWDW,WWDWDWLDWWWWW
+Girondins Bordeaux,Nice,2-1,/match/bordeaux/nice/2009,2009,28,ligue_1,20,38,0,2,1,6,13,8,6,42,28,WWWWDLDLWDWWWWDDWLLWLDWDDWW,8,5,0,25,9,8,11,7,9,30,27,WWLWWDWDLDDWLWLDWLDLWWLLLWD,6,2,6,15,15,WWDDWWWDWWDDW,WLWWLDLLWDLWLW
+Grenoble,Saint-Étienne,1-0,/match/grenoble-foot-38/saint-etienne/2009,2009,28,ligue_1,20,38,0,1,0,10,7,11,9,17,24,LWWWDLLLDLDDLWDDDWWWLWDDDDW,4,5,4,6,9,12,8,5,14,26,39,WWWLWWDWWLLWLWLLWWWWDDWWDDW,1,3,9,9,22,WWLLDLDDWLDDW,WWWDWWWLWWDWD
+Olympique Lyonnais,Auxerre,0-2,/match/olympique-lyonnais/auxerre/2009,2009,28,ligue_1,20,38,2,0,2,1,15,8,4,36,19,WDWLWLWWDDLWLWWDWDLDLDLWLDW,7,6,0,22,10,11,8,7,12,21,27,WWLLDWWWDDLDWWWLDLWLWDLWLDW,4,1,8,10,18,WWWWDWWDDDDWD,WLWWLWWDWWLLW
+PSG,Olympique,1-3,/match/paris-saint-germain-fc/olympique-marsella/2009,2009,28,ligue_1,20,38,2,1,3,2,16,4,7,39,25,WWDLWWLDWLLWWLWWWLDWWWLWDWL,10,1,2,22,10,7,13,10,4,40,25,DWLWDDDWLLDWLLDDWDLLWWWLDLD,6,6,1,18,9,WWLWLWWWDWWWW,DLDDLDLDDLWLL
+Auxerre,Le Mans,2-0,/match/auxerre/mans-uc-72/2009,2009,29,ligue_1,20,38,0,2,0,13,9,7,12,23,27,WWLLDWWWDDLDWWWLDLWLWDLWLDWL,4,6,4,11,9,14,8,8,12,33,39,LLWLLDDLWDLWWWWWWLWDDLWLDWDD,3,5,6,19,24,WLDWDDDWLLLDWD,LLDLDWWWWWDWDD
+Le Havre,Girondins Bordeaux,0-3,/match/havre-ac/bordeaux/2009,2009,29,ligue_1,20,38,2,0,3,20,5,3,20,23,51,WWLWDLWLDWWLLLDLWLWLWLWWLWWW,4,0,10,14,23,2,14,8,6,44,29,WWWWDLDLWDWWWWDDWLLWLDWDDWWW,5,3,6,17,19,WLLLWLLLLLLWLW,WWLLDWWDLLLWDW
+Lille,Grenoble,2-1,/match/lillestrom/grenoble-foot-38/2009,2009,29,ligue_1,20,38,0,2,1,1,13,10,5,39,28,DLWWDWLWDDDWWWDDDLWDWDWWWWWL,10,3,1,27,14,10,8,11,9,18,24,LWWWDLLLDLDDLWDDDWWWLWDDDDWW,3,6,5,11,15,LWWWDWWDDWWWWW,LWDLDLDWDWWWDD
+Nancy,Monaco,0-1,/match/nancy/monaco/2009,2009,29,ligue_1,20,38,2,0,1,16,7,9,12,27,37,DWDWDDWDWDWWLDLLWWLLWLLDLWDW,3,7,4,12,14,11,8,9,11,33,35,WDDWWDLWLDWLLWWLDWLLDWDLWDDW,2,6,5,11,16,DDWDDDWDLWLLLD,DWDWDLWLWDDWD
+Nice,Caen,2-2,/match/nice/caen/2009,2009,29,ligue_1,20,38,1,2,2,8,11,7,10,31,29,WWLWWDWDLDDWLWLDWLDLWWLLLWDW,5,5,3,15,12,19,5,11,12,30,36,WWDLWDWWDDDLLDWWDDLWDWWDDLWL,1,6,7,14,23,WWDDDWWDLWLLD,WDDWDLDWDWWWDW
+Stade Rennais,Valenciennes,0-0,/match/stade-rennes/valenciennes-afc/2009,2009,29,ligue_1,20,38,1,0,0,4,11,14,3,32,19,DWWDDDWWDDDWLWDWDDLWWDWDLDWD,8,6,0,21,10,9,7,11,10,26,29,WWWWDWLWLWDDLWDDWWDWDWDDDWDW,0,7,7,6,16,DWDWWDWWWDWDDW,WWWWWDWDWDDDDD
+Olympique,Nantes,2-0,/match/olympique-marsella/nantes/2009,2009,29,ligue_1,20,38,0,2,0,7,14,10,4,43,26,DWLWDDDWLLDWLLDDWDLLWWWLDLDL,7,4,3,22,16,18,7,9,12,26,38,WDWLWWWLWWDWDWLLWDDLLLLDDDWD,4,2,8,11,19,WWDWLWLDWLWWDD,WWWWLWWWLDLLDW
+Lorient,Saint-Étienne,3-1,/match/lorient/saint-etienne/2009,2009,29,ligue_1,20,38,0,3,1,17,7,11,10,31,32,LDWLWDDLWWLDLLWDWLLDDDDDLWLD,3,5,6,12,14,15,8,5,15,26,40,WWWLWWDWWLLWLWLLWWWWDDWWDDWW,1,3,10,9,23,DLDLWDLWWLDDLL,WWWDWWWLWWDWDW
+Olympique Lyonnais,Sochaux,2-0,/match/olympique-lyonnais/sochaux/2009,2009,29,ligue_1,20,38,0,2,0,3,15,8,5,36,21,WDWLWLWWDDLWLWWDWDLDLDLWLDWL,7,6,1,22,12,12,6,11,11,30,36,LWDWDWDDDDLWWWDDDDDWWWWLLWWW,1,5,8,15,22,WWWWDWWDDDDWDL,WWWDDWWDDDWWLW
+Toulouse,PSG,4-1,/match/toulouse-fc/paris-saint-germain-fc/2009,2009,29,ligue_1,20,38,0,4,1,5,13,10,5,33,20,WWDDLWLWWDLLDWWDDWDLWDWLDDWW,8,5,1,20,6,6,16,4,8,40,28,WWDLWWLDWLLWWLWWWLDWWWLWDWLL,6,3,5,17,15,WDWWDLWDWDWWDW,WDLWDLWLWLWLDL
+Girondins Bordeaux,Nancy,1-0,/match/bordeaux/nancy/2009,2009,30,ligue_1,20,38,0,1,0,3,15,8,6,47,29,WWWWDLDLWDWWWWDDWLLWLDWDDWWWL,9,5,0,27,10,17,7,9,13,27,38,DWDWDDWDWDWWLDLLWWLLWLLDLWDWL,4,2,8,15,23,WWDDWWWDWWDDWW,WDWWWLLWLWLDWW
+Grenoble,Lorient,1-3,/match/grenoble-foot-38/lorient/2009,2009,30,ligue_1,20,38,2,1,3,12,8,11,10,19,26,LWWWDLLLDLDDLWDDDWWWLWDDDDWWW,5,5,4,7,9,13,8,11,10,34,33,LDWLWDDLWWLDLLWDWLLDDDDDLWLDW,4,6,4,19,18,WWLLDLDDWLDDWW,LWWDWLLDLDDDWD
+Le Mans,Olympique Lyonnais,1-3,/match/mans-uc-72/olympique-lyonnais/2009,2009,30,ligue_1,20,38,2,1,3,15,8,8,13,33,41,LLWLLDDLWDLWWWWWWLWDDLWLDWDDW,5,3,6,14,15,2,16,8,5,38,21,WDWLWLWWDDLWLWWDWDLDLDLWLDWLW,8,2,4,14,9,LWLDWLWWLDLLWD,DLLWDLLWWLLLLW
+Monaco,Le Havre,0-1,/match/monaco/havre-ac/2009,2009,30,ligue_1,20,38,2,0,1,11,9,9,11,34,35,WDDWWDLWLDWLLWWLDWLLDWDLWDDWL,6,3,6,22,19,20,5,3,21,23,54,WWLWDLWLDWWLLLDLWLWLWLWWLWWWL,1,3,10,9,28,WDWLLWLWDLLWLDW,WWDWDWLDWWWWWW
+Nantes,Lille,0-2,/match/nantes/lillestrom/2009,2009,30,ligue_1,20,38,2,0,2,18,7,9,13,26,40,WDWLWWWLWWDWDWLLWDDLLLLDDDWDW,3,7,4,15,19,1,14,10,5,41,29,DLWWDWLWDDDWWWDDDLWDWDWWWWWLW,3,7,4,12,14,DLWWDDLWDLLDDD,DWDLDDWDLDDWWL
+Valenciennes,Auxerre,2-0,/match/valenciennes-afc/auxerre/2009,2009,30,ligue_1,20,38,0,2,0,9,7,12,10,26,29,WWWWDWLWLWDDLWDDWWDWDWDDDWDWD,7,4,3,20,13,10,10,7,12,25,27,WWLLDWWWDDLDWWWLDLWLWDLWLDWLW,5,1,8,12,18,WWDLLDLDWWWDWW,WLWWLWWDWWLLWL
+Caen,Toulouse,0-0,/match/caen/toulouse-fc/2009,2009,30,ligue_1,20,38,1,0,0,19,5,12,12,32,38,WWDLWDWWDDDLLDWWDDLWDWWDDLWLD,4,5,5,16,13,4,14,10,5,37,21,WWDDLWLWWDLLDWWDDWDLWDWLDDWWW,5,5,4,13,14,WLWWDDLWDLDDLL,WDLLWLDWDLDLDW
+PSG,Nice,2-1,/match/paris-saint-germain-fc/nice/2009,2009,30,ligue_1,20,38,0,2,1,7,16,4,9,41,32,WWDLWWLDWLLWWLWWWLDWWWLWDWLLW,10,1,3,23,13,8,11,8,10,33,31,WWLWWDWDLDDWLWLDWLDLWWLLLWDWD,6,2,7,16,17,WWLWLWWWDWWWWL,WLWWLDLLWDLWLWW
+Sochaux,Stade Rennais,3-0,/match/sochaux/stade-rennes/2009,2009,30,ligue_1,20,38,0,3,0,14,6,11,12,30,38,LWDWDWDDDDLWWWDDDDDWWWWLLWWWW,5,6,3,15,14,5,11,15,3,32,19,DWWDDDWWDDDWLWDWDDLWWDWDLDWDD,3,8,3,11,9,LDDDDLWDDWWLWW,WDDDDLDDLWWLDD
+Saint-Étienne,Olympique,0-3,/match/saint-etienne/olympique-marsella/2009,2009,30,ligue_1,20,38,2,0,3,16,8,5,16,27,43,WWWLWWDWWLLWLWLLWWWWDDWWDDWWW,7,2,5,17,17,6,15,10,4,45,26,DWLWDDDWLLDWLLDDWDLLWWWLDLDLW,7,6,1,21,10,WLWWLLLLWWDWDW,DLDDLDLDDLWLLL
+Auxerre,Girondins Bordeaux,0-2,/match/auxerre/bordeaux/2009,2009,31,ligue_1,20,38,2,0,2,10,10,7,13,25,29,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWW,5,6,4,13,9,2,16,8,6,48,29,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLW,6,3,6,20,19,WLDWDDDWLLLDWDW,WWLLDWWDLLLWDWL
+Le Havre,Caen,1-2,/match/havre-ac/caen/2009,2009,31,ligue_1,20,38,2,1,2,20,6,3,21,24,54,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLL,4,0,11,14,26,17,5,13,12,32,38,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDD,1,7,7,16,25,WLLLWLLLLLLWLWL,WDDWDLDWDWWWDWD
+Le Mans,Sochaux,2-0,/match/mans-uc-72/sochaux/2009,2009,31,ligue_1,20,38,0,2,0,15,8,8,14,34,44,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWL,5,3,7,15,18,11,7,11,12,33,38,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWW,1,5,9,15,24,LWLDWLWWLDLLWDL,WWWDDWWDDDWWLWW
+Nancy,Valenciennes,2-0,/match/nancy/valenciennes-afc/2009,2009,31,ligue_1,20,38,0,2,0,18,7,9,14,27,39,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLW,3,7,5,12,15,8,8,12,10,28,29,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDW,0,8,7,6,16,DDWDDDWDLWLLLDL,WWWWWDWDWDDDDDD
+Nice,Lorient,2-0,/match/nice/lorient/2009,2009,31,ligue_1,20,38,0,2,0,9,11,8,11,34,33,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDW,5,6,3,17,14,12,9,11,10,37,34,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWL,5,6,4,22,19,WWDDDWWDLWLLDD,LWWDWLLDLDDDWDL
+Toulouse,Nantes,1-0,/match/toulouse-fc/nantes/2009,2009,31,ligue_1,20,38,0,1,0,4,14,11,5,37,21,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWD,9,5,1,24,7,19,7,9,14,26,42,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWL,4,2,9,11,21,WDWWDLWDWDWWDWW,WWWWLWWWLDLLDWW
+Stade Rennais,Saint-Étienne,1-0,/match/stade-rennes/saint-etienne/2009,2009,31,ligue_1,20,38,0,1,0,7,11,15,4,32,22,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDW,8,7,0,21,10,16,8,5,17,27,46,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWL,1,3,11,10,26,DWDWWDWWWDWDDWD,WWWDWWWLWWDWDWW
+Olympique,Grenoble,4-1,/match/olympique-marsella/grenoble-foot-38/2009,2009,31,ligue_1,20,38,0,4,1,5,16,10,4,48,26,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWL,8,4,3,24,16,14,8,11,11,20,29,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWL,3,6,6,12,17,WWDWLWLDWLWWDDW,LWDLDLDWDWWWDDW
+Lille,PSG,0-0,/match/lillestrom/paris-saint-germain-fc/2009,2009,31,ligue_1,20,38,1,0,0,1,15,10,5,43,29,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWL,11,3,1,29,15,6,17,4,9,43,33,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWW,6,3,6,18,19,LWWWDWWDDWWWWWW,WDLWDLWLWLWLDLW
+Olympique Lyonnais,Monaco,2-2,/match/olympique-lyonnais/monaco/2009,2009,31,ligue_1,20,38,1,2,2,3,17,8,5,41,22,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWL,8,6,1,24,12,13,9,9,12,34,36,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLL,3,6,5,12,16,WWWWDWWDDDDWDLW,DWDWDLWLWDDWDL
+Grenoble,Toulouse,1-0,/match/grenoble-foot-38/toulouse-fc/2009,2009,32,ligue_1,20,38,0,1,0,14,8,11,12,21,33,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWLW,5,5,5,8,12,4,15,11,5,38,21,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWDW,5,6,4,13,14,WWLLDLDDWLDDWWL,WDLLWLDWDLDLDWD
+Caen,Nancy,1-2,/match/caen/nancy/2009,2009,32,ligue_1,20,38,2,1,2,17,6,13,12,34,39,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDDL,4,6,5,16,13,16,8,9,14,29,39,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLWW,4,2,9,15,24,WLWWDDLWDLDDLLD,WDWWWLLWLWLDWWW
+Monaco,Stade Rennais,3-1,/match/monaco/stade-rennes/2009,2009,32,ligue_1,20,38,0,3,1,10,9,10,12,36,38,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLLD,6,3,7,22,20,6,12,15,4,33,22,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDWW,3,8,4,11,12,WDWLLWLWDLLWLDWL,WDDDDLDDLWWLDDW
+Nantes,Nice,2-0,/match/nantes/nice/2009,2009,32,ligue_1,20,38,0,2,0,19,7,9,15,26,43,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWLW,3,7,5,15,21,8,12,8,11,36,33,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDWW,6,2,8,17,19,DLWWDDLWDLLDDDL,WLWWLDLLWDLWLWWW
+Sochaux,Auxerre,0-1,/match/sochaux/auxerre/2009,2009,32,ligue_1,20,38,2,0,1,11,7,11,13,33,40,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWWW,6,6,3,18,14,12,10,7,14,25,31,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWWL,5,1,9,12,20,LDDDDLWDDWWLWWW,WLWWLWWDWWLLWLW
+Valenciennes,Le Mans,0-2,/match/valenciennes-afc/mans-uc-72/2009,2009,32,ligue_1,20,38,2,0,2,9,8,12,11,28,31,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDWW,8,4,3,22,13,15,9,8,14,36,44,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWLW,3,5,7,19,26,WWDLLDLDWWWDWWW,LLDLDWWWWWDWDDW
+Saint-Étienne,Lille,2-1,/match/saint-etienne/lillestrom/2009,2009,32,ligue_1,20,38,0,2,1,18,8,5,18,27,47,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWLW,7,2,6,17,20,1,15,11,5,43,29,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWLD,4,7,4,14,14,WLWWLLLLWWDWDWL,DWDLDDWDLDDWWLL
+Lorient,Olympique,1-2,/match/lorient/olympique-marsella/2009,2009,32,ligue_1,20,38,2,1,2,13,9,11,11,37,36,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWLW,4,5,6,15,15,5,17,10,4,52,27,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWLW,8,6,1,24,10,DLDLWDLWWLDDLLW,DLDDLDLDDLWLLLL
+PSG,Le Havre,3-0,/match/paris-saint-germain-fc/havre-ac/2009,2009,32,ligue_1,20,38,0,3,0,7,17,5,9,43,33,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWWD,11,1,3,25,14,20,6,3,22,25,56,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLLL,2,3,10,10,28,WWLWLWWWDWWWWLW,WWDWDWLDWWWWWWL
+Girondins Bordeaux,Olympique Lyonnais,1-0,/match/bordeaux/olympique-lyonnais/2009,2009,32,ligue_1,20,38,0,1,0,2,17,8,6,50,29,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLWL,10,5,0,28,10,3,17,9,5,43,24,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWLD,9,2,4,17,10,WWDDWWWDWWDDWWW,DLLWDLLWWLLLLWL
+Olympique Lyonnais,PSG,0-0,/match/olympique-lyonnais/paris-saint-germain-fc/2009,2009,33,ligue_1,20,38,1,0,0,4,17,9,6,43,25,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWLDW,8,7,1,26,14,6,18,5,9,46,33,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWWDW,6,4,6,18,19,WWWWDWWDDDDWDLWD,WDLWDLWLWLWLDLWD
+Sochaux,Valenciennes,1-1,/match/sochaux/valenciennes-afc/2009,2009,33,ligue_1,20,38,1,1,1,14,7,11,14,33,41,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWWWL,6,6,4,18,15,9,8,12,12,28,33,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDWWL,0,8,8,6,18,LDDDDLWDDWWLWWWL,WWWWWDWDWDDDDDDW
+Auxerre,Caen,2-1,/match/auxerre/caen/2009,2009,33,ligue_1,20,38,0,2,1,12,11,7,14,26,31,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWWLL,5,6,5,13,11,19,6,13,13,35,41,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDDLL,2,7,7,18,26,WLDWDDDWLLLDWDWL,WDDWDLDWDWWWDWDL
+Le Havre,Grenoble,0-1,/match/havre-ac/grenoble-foot-38/2009,2009,33,ligue_1,20,38,2,0,1,20,6,3,23,25,59,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLLLW,4,0,12,15,28,11,9,11,12,22,33,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWLWW,3,6,7,13,21,WLLLWLLLLLLWLWLL,LWDLDLDWDWWWDDWW
+Le Mans,Monaco,0-1,/match/mans-uc-72/monaco/2009,2009,33,ligue_1,20,38,2,0,1,13,10,8,14,38,44,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWLWL,6,3,7,17,18,10,10,10,12,39,39,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLLDW,3,7,5,14,18,LWLDWLWWLDLLWDLW,DWDWDLWLWDDWDLD
+Nancy,Nantes,2-0,/match/nancy/nantes/2009,2009,33,ligue_1,20,38,0,2,0,16,9,9,14,31,40,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLWWL,4,7,5,14,15,18,8,9,15,28,43,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWLWW,4,2,10,11,22,DDWDDDWDLWLLLDLW,WWWWLWWWLDLLDWWW
+Nice,Saint-Étienne,3-1,/match/nice/saint-etienne/2009,2009,33,ligue_1,20,38,0,3,1,8,12,8,12,36,35,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDWWW,6,6,3,19,14,17,9,5,18,29,48,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWLWW,1,3,12,10,27,WWDDDWWDLWLLDDW,WWWDWWWLWWDWDWWW
+Toulouse,Lorient,1-1,/match/toulouse-fc/lorient/2009,2009,33,ligue_1,20,38,1,1,1,5,15,11,6,38,22,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWDWW,10,5,1,25,7,15,9,11,12,38,38,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWLWL,5,6,5,22,21,WDWWDLWDWDWWDWWW,LWWDWLLDLDDDWDLW
+Lille,Olympique,1-2,/match/lillestrom/olympique-marsella/2009,2009,33,ligue_1,20,38,2,1,2,3,15,11,6,44,31,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWLDW,11,4,1,29,15,2,18,10,4,54,28,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWLWL,9,6,1,26,11,LWWWDWWDDWWWWWWD,DLDDLDLDDLWLLLLL
+Stade Rennais,Girondins Bordeaux,2-3,/match/stade-rennes/bordeaux/2009,2009,33,ligue_1,20,38,2,2,3,7,12,15,5,34,25,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDWWW,9,7,0,22,10,1,18,8,6,51,29,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLWLW,7,3,6,22,19,DWDWWDWWWDWDDWDW,WWLLDWWDLLLWDWLL
+Caen,Le Mans,3-1,/match/caen/mans-uc-72/2009,2009,34,ligue_1,20,38,0,3,1,19,6,13,14,36,43,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDDLLW,4,6,6,17,15,15,10,8,15,38,45,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWLWLL,4,5,7,21,26,WLWWDDLWDLDDLLDL,LLDLDWWWWWDWDDWL
+Valenciennes,Olympique Lyonnais,2-0,/match/valenciennes-afc/olympique-lyonnais/2009,2009,34,ligue_1,20,38,0,2,0,10,8,13,12,29,34,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDWWLD,8,4,4,22,15,3,17,10,6,43,25,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWLDWD,9,2,5,17,11,WWDLLDLDWWWDWWWL,DLLWDLLWWLLLLWLW
+Saint-Étienne,Nancy,0-0,/match/saint-etienne/nancy/2009,2009,34,ligue_1,20,38,1,0,0,17,9,5,19,30,51,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWLWWW,8,2,6,19,21,13,10,9,14,33,40,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLWWLW,5,2,9,17,25,WLWWLLLLWWDWDWLW,WDWWWLLWLWLDWWWL
+Monaco,Auxerre,0-1,/match/monaco/auxerre/2009,2009,34,ligue_1,20,38,2,0,1,11,11,10,12,40,39,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLLDWL,7,3,7,25,21,9,12,7,14,28,32,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWWLLW,6,1,9,13,20,WDWLLWLWDLLWLDWLW,WLWWLWWDWWLLWLWL
+Lorient,Lille,3-1,/match/lorient/lillestrom/2009,2009,34,ligue_1,20,38,0,3,1,16,9,12,12,39,39,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWLWLD,4,5,7,16,17,5,15,11,7,45,33,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWLDWL,4,7,5,15,16,DLDLWDLWWLDDLLWL,DWDLDDWDLDDWWLLW
+Grenoble,Nice,0-0,/match/grenoble-foot-38/nice/2009,2009,34,ligue_1,20,38,1,0,0,12,10,11,12,23,33,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWLWWL,6,5,5,9,12,8,13,8,12,39,36,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDWWWW,6,2,9,17,21,WWLLDLDDWLDDWWLW,WLWWLDLLWDLWLWWWW
+Olympique,Toulouse,2-2,/match/olympique-marsella/toulouse-fc/2009,2009,34,ligue_1,20,38,1,2,2,2,19,10,4,56,29,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWLWLL,9,4,3,28,17,4,15,12,6,39,23,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWDWWD,5,6,5,13,15,WWDWLWLDWLWWDDWW,WDLLWLDWDLDLDWDW
+Nantes,Le Havre,1-2,/match/nantes/havre-ac/2009,2009,34,ligue_1,20,38,2,1,2,18,8,9,16,28,45,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWLWWW,4,7,5,17,21,20,6,3,24,25,60,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLLLWL,2,3,11,10,31,DLWWDDLWDLLDDDLW,WWDWDWLDWWWWWWLW
+PSG,Stade Rennais,0-1,/match/paris-saint-germain-fc/stade-rennes/2009,2009,34,ligue_1,20,38,2,0,1,6,18,6,9,46,33,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWWDWD,12,1,3,28,14,7,12,15,6,36,28,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDWWWL,3,8,5,12,15,WWLWLWWWDWWWWLWW,WDDDDLDDLWWLDDWW
+Girondins Bordeaux,Sochaux,3-0,/match/bordeaux/sochaux/2009,2009,34,ligue_1,20,38,0,3,0,1,19,8,6,54,31,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLWLWL,11,5,0,29,10,14,7,12,14,34,42,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWWWLD,1,5,10,15,26,WWDDWWWDWWDDWWWW,WWWDDWWDDDWWLWWW
+Olympique Lyonnais,Nantes,3-0,/match/olympique-lyonnais/nantes/2009,2009,35,ligue_1,20,38,0,3,0,4,17,10,7,43,27,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWLDWDW,8,8,1,26,14,19,8,9,17,29,47,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWLWWWL,4,2,11,11,24,WWWWDWWDDDDWDLWDD,WWWWLWWWLDLLDWWWW
+Toulouse,Lille,0-0,/match/toulouse-fc/lillestrom/2009,2009,35,ligue_1,20,38,1,0,0,3,15,13,6,41,25,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWDWWDD,10,6,1,26,8,5,15,11,8,46,36,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWLDWLW,4,7,6,16,19,WDWWDLWDWDWWDWWWD,DWDLDDWDLDDWWLLWW
+Sochaux,Monaco,3-0,/match/sochaux/monaco/2009,2009,35,ligue_1,20,38,0,3,0,15,7,12,15,34,45,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWWWLDW,6,7,4,19,16,12,11,10,13,40,40,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLLDWLL,4,7,5,15,18,LDDDDLWDDWWLWWWLD,DWDWDLWLWDDWDLDL
+Stade Rennais,Caen,1-0,/match/stade-rennes/caen/2009,2009,35,ligue_1,20,38,0,1,0,7,13,15,6,37,28,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDWWWLL,9,7,1,24,13,18,7,13,14,39,44,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDDLLWW,2,7,8,19,28,DWDWWDWWWDWDDWDWL,WDDWDLDWDWWWDWDLW
+Nice,Olympique,0-2,/match/nice/olympique-marsella/2009,2009,35,ligue_1,20,38,2,0,2,8,13,9,12,39,36,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDWWWWD,7,6,3,22,15,2,19,11,4,58,31,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWLWLLD,10,6,1,28,12,WWDDDWWDLWLLDDWW,DLDDLDLDDLWLLLLLL
+Nancy,Lorient,2-2,/match/nancy/lorient/2009,2009,35,ligue_1,20,38,1,2,2,13,10,10,14,33,40,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLWWLWD,5,7,5,16,15,14,10,12,12,42,40,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWLWLDW,5,7,5,23,22,DDWDDDWDLWLLLDLWW,LWWDWLLDLDDDWDLWD
+Le Mans,PSG,0-1,/match/mans-uc-72/paris-saint-germain-fc/2009,2009,35,ligue_1,20,38,2,0,1,16,10,8,16,39,48,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWLWLLW,6,3,8,17,19,6,18,6,10,46,34,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWWDWDL,6,5,6,18,19,LWLDWLWWLDLLWDLWL,WDLWDLWLWLWLDLWDD
+Le Havre,Saint-Étienne,2-4,/match/havre-ac/saint-etienne/2009,2009,35,ligue_1,20,38,2,2,4,20,7,3,24,27,61,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLLLWLL,4,0,13,15,29,17,9,6,19,30,51,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWLWWWD,1,3,13,11,30,WLLLWLLLLLLWLWLLL,WWWDWWWLWWDWDWWWW
+Auxerre,Grenoble,2-0,/match/auxerre/grenoble-foot-38/2009,2009,35,ligue_1,20,38,0,2,0,10,13,7,14,29,32,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWWLLWL,6,6,5,15,12,11,10,12,12,23,33,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWLWWLD,4,6,7,14,21,WLDWDDDWLLLDWDWLW,LWDLDLDWDWWWDDWWL
+Valenciennes,Girondins Bordeaux,1-2,/match/valenciennes-afc/bordeaux/2009,2009,35,ligue_1,20,38,2,1,2,9,9,13,12,31,34,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDWWLDW,9,4,4,24,15,1,20,8,6,57,31,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLWLWLW,8,3,6,25,21,WWDLLDLDWWWDWWWLW,WWLLDWWDLLLWDWLLL
+Girondins Bordeaux,Le Mans,3-2,/match/bordeaux/mans-uc-72/2009,2009,36,ligue_1,20,38,0,3,2,1,21,8,6,59,32,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLWLWLWL,12,5,0,32,10,17,10,8,17,39,49,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWLWLLWL,4,5,8,22,29,WWDDWWWDWWDDWWWWW,LLDLDWWWWWDWDDWLW
+Saint-Étienne,Toulouse,2-2,/match/saint-etienne/toulouse-fc/2009,2009,36,ligue_1,20,38,1,2,2,16,10,6,19,34,53,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWLWWWDL,8,3,6,19,21,4,15,14,6,41,25,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWDWWDDD,5,7,5,15,17,WLWWLLLLWWDWDWLWD,WDLLWLDWDLDLDWDWD
+Monaco,Valenciennes,1-1,/match/monaco/valenciennes-afc/2009,2009,36,ligue_1,20,38,1,1,1,12,11,10,14,40,43,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLLDWLLW,7,3,8,25,22,10,9,13,13,32,36,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDWWLDWL,0,9,8,7,19,WDWLLWLWDLLWLDWLWL,WWWWWDWDWDDDDDDWD
+Lorient,Le Havre,1-1,/match/lorient/havre-ac/2009,2009,36,ligue_1,20,38,1,1,1,15,10,13,12,44,42,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWLWLDWD,5,5,7,19,18,20,7,3,25,29,65,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLLLWLLL,3,3,11,12,32,DLDLWDLWWLDDLLWLW,WWDWDWLDWWWWWWLWL
+Grenoble,Nancy,0-0,/match/grenoble-foot-38/nancy/2009,2009,36,ligue_1,20,38,1,0,0,11,10,12,13,23,35,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWLWWLDW,6,6,5,9,12,13,10,11,14,35,42,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLWWLWDD,5,3,9,17,25,WWLLDLDDWLDDWWLWD,WDWWWLLWLWLDWWWLD
+Caen,Sochaux,2-0,/match/caen/sochaux/2009,2009,36,ligue_1,20,38,0,2,0,18,7,13,15,39,45,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDDLLWWW,5,6,6,20,16,14,8,12,15,37,45,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWWWLDWW,1,5,11,15,29,WLWWDDLWDLDDLLDLW,WWWDDWWDDDWWLWWWW
+PSG,Auxerre,1-2,/match/paris-saint-germain-fc/auxerre/2009,2009,36,ligue_1,20,38,2,1,2,6,19,6,10,47,34,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWWDWDLL,12,1,4,28,15,9,14,7,14,31,32,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWWLLWLW,7,1,9,14,20,WWLWLWWWDWWWWLWWL,WLWWLWWDWWLLWLWLL
+Lille,Nice,1-1,/match/lillestrom/nice/2009,2009,36,ligue_1,20,38,1,1,1,7,15,12,8,46,36,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWLDWLWD,11,4,2,30,17,8,13,9,13,39,38,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDWWWWDL,6,3,9,17,21,LWWWDWWDDWWWWWWDL,WLWWLDLLWDLWLWWWWD
+Nantes,Stade Rennais,1-1,/match/nantes/stade-rennes/2009,2009,36,ligue_1,20,38,1,1,1,19,8,9,18,29,50,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWLWWWLW,4,7,6,18,23,5,14,15,6,38,28,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDWWWLLW,4,8,5,13,15,DLWWDDLWDLLDDDLWL,WDDDDLDDLWWLDDWWL
+Olympique,Olympique Lyonnais,1-3,/match/olympique-marsella/olympique-lyonnais/2009,2009,36,ligue_1,20,38,2,1,3,2,20,11,4,60,31,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWLWLLDL,9,5,3,30,19,3,18,10,7,46,27,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWLDWDWW,9,2,6,17,13,WWDWLWLDWLWWDDWWD,DLLWDLLWWLLLLWLWW
+Auxerre,Saint-Étienne,1-0,/match/auxerre/saint-etienne/2009,2009,37,ligue_1,20,38,0,1,0,8,15,7,14,33,33,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWWLLWLWL,7,6,5,17,12,16,10,7,19,36,55,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWLWWWDLD,2,3,13,15,32,WLDWDDDWLLLDWDWLWW,WWWDWWWLWWDWDWWWWL
+Sochaux,Nantes,2-1,/match/sochaux/nantes/2009,2009,37,ligue_1,20,38,0,2,1,15,8,12,16,37,47,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWWWLDWWW,7,7,4,22,16,19,8,10,18,30,51,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWLWWWLWD,4,2,12,11,27,LDDDDLWDDWWLWWWLDW,WWWWLWWWLDLLDWWWWW
+Stade Rennais,Lorient,3-1,/match/stade-rennes/lorient/2009,2009,37,ligue_1,20,38,0,3,1,5,14,16,6,39,29,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDWWWLLWD,10,7,1,25,13,14,10,14,12,45,43,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWLWLDWDD,5,8,5,25,24,DWDWWDWWWDWDDWDWLW,LWWDWLLDLDDDWDLWDD
+Nice,Toulouse,0-2,/match/nice/toulouse-fc/2009,2009,37,ligue_1,20,38,2,0,2,9,13,10,13,40,39,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDWWWWDLD,7,6,4,22,17,4,15,15,6,43,27,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWDWWDDDD,5,8,5,17,19,WWDDDWWDLWLLDDWWL,WDLLWLDWDLDLDWDWDD
+Nancy,Olympique,1-2,/match/nancy/olympique-marsella/2009,2009,37,ligue_1,20,38,2,1,2,13,10,12,14,35,42,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLWWLWDDD,5,8,5,18,17,2,20,11,5,61,34,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWLWLLDLL,11,6,1,30,12,DDWDDDWDLWLLLDLWWD,DLDDLDLDDLWLLLLLLL
+Olympique Lyonnais,Caen,3-1,/match/olympique-lyonnais/caen/2009,2009,37,ligue_1,20,38,0,3,1,3,19,10,7,49,28,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWLDWDWWL,9,8,1,29,14,17,8,13,15,41,45,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDDLLWWWW,2,7,9,19,29,WWWWDWWDDDDWDLWDDW,WDDWDLDWDWWWDWDLWW
+Le Mans,Grenoble,1-1,/match/mans-uc-72/grenoble-foot-38/2009,2009,37,ligue_1,20,38,1,1,1,18,10,8,18,41,52,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWLWLLWLW,6,3,9,17,20,11,10,13,13,23,35,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWLWWLDWD,4,6,8,14,23,LWLDWLWWLDLLWDLWLL,LWDLDLDWDWWWDDWWLW
+Le Havre,Lille,0-1,/match/havre-ac/lillestrom/2009,2009,37,ligue_1,20,38,2,0,1,20,7,4,25,30,66,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLLLWLLLD,4,0,14,17,33,6,15,13,8,47,37,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWLDWLWDD,4,8,6,16,19,WLLLWLLLLLLWLWLLLL,DWDLDDWDLDDWWLLWWD
+Girondins Bordeaux,Monaco,1-0,/match/bordeaux/monaco/2009,2009,37,ligue_1,20,38,0,1,0,1,22,8,6,62,34,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLWLWLWLW,13,5,0,35,12,12,11,11,14,41,44,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLLDWLLWD,4,7,6,15,21,WWDDWWWDWWDDWWWWWW,DWDWDLWLWDDWDLDLW
+Valenciennes,PSG,2-1,/match/valenciennes-afc/paris-saint-germain-fc/2009,2009,37,ligue_1,20,38,0,2,1,10,9,14,13,33,37,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDWWLDWLD,9,4,5,25,17,7,19,6,11,48,36,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWWDWDLLL,7,5,6,19,19,WWDLLDLDWWWDWWWLWL,WDLWDLWLWLWLDLWDDL
+Caen,Girondins Bordeaux,0-1,/match/caen/bordeaux/2009,2009,38,ligue_1,20,38,2,0,1,17,8,13,16,42,48,WWDLWDWWDDDLLDWWDDLWDWWDDLWLDDLLWWWWW,6,6,6,22,16,1,23,8,6,63,34,WWWWDLDLWDWWWWDDWLLWLDWDDWWWLWLWLWLWW,9,3,6,27,22,WLWWDDLWDLDDLLDLWW,WWLLDWWDLLLWDWLLLL
+Saint-Étienne,Valenciennes,4-0,/match/saint-etienne/valenciennes-afc/2009,2009,38,ligue_1,20,38,0,4,0,16,10,7,20,36,56,WWWLWWDWWLLWLWLLWWWWDDWWDDWWWLWWWDLDW,8,4,6,21,23,9,10,14,13,35,38,WWWWDWLWLWDDLWDDWWDWDWDDDWDWDWWLDWLDW,0,10,8,8,20,WLWWLLLLWWDWDWLWDD,WWWWWDWDWDDDDDDWDD
+PSG,Monaco,0-0,/match/paris-saint-germain-fc/monaco/2009,2009,38,ligue_1,20,38,1,0,0,7,19,6,12,49,38,WWDLWWLDWLLWWLWWWLDWWWLWDWLLWWDWDLLLW,12,1,5,29,17,13,11,11,15,41,45,WDDWWDLWLDWLLWWLDWLLDWDLWDDWLLDWLLWDW,4,7,7,15,22,WWLWLWWWDWWWWLWWLL,DWDWDLWLWDDWDLDLWW
+Nice,Le Havre,0-0,/match/nice/havre-ac/2009,2009,38,ligue_1,20,38,1,0,0,10,13,10,14,40,41,WWLWWDWDLDDWLWLDWLDLWWLLLWDWDWWWWDLDL,7,6,5,22,19,20,7,4,26,30,67,WWLWDLWLDWWLLLDLWLWLWLWWLWWWLLLWLLLDL,3,4,11,13,33,WWDDDWWDLWLLDDWWLL,WWDWDWLDWWWWWWLWLD
+Nantes,Auxerre,2-1,/match/nantes/auxerre/2009,2009,38,ligue_1,20,38,0,2,1,19,8,10,19,31,53,WDWLWWWLWWDWDWLLWDDLLLLDDDWDWLWWWLWDW,4,8,6,19,24,8,16,7,14,34,33,WWLLDWWWDDLDWWWLDLWLWDLWLDWLWWLLWLWLW,8,1,9,16,21,DLWWDDLWDLLDDDLWLD,WLWWLWWDWWLLWLWLLL
+Olympique,Stade Rennais,4-0,/match/olympique-marsella/stade-rennes/2009,2009,38,ligue_1,20,38,0,4,0,3,21,11,5,63,35,DWLWDDDWLLDWLLDDWDLLWWWLDLDLWLWLLDLLL,9,5,4,31,22,4,15,16,6,42,30,DWWDDDWWDDDWLWDWDDLWWDWDLDWDDWWWLLWDW,4,9,5,14,16,WWDWLWLDWLWWDDWWDL,WDDDDLDDLWWLDDWWLD
+Lorient,Le Mans,1-1,/match/lorient/mans-uc-72/2009,2009,38,ligue_1,20,38,1,1,1,15,10,14,13,46,46,LDWLWDDLWWLDLLWDWLLDDDDDLWLDWLWLDWDDW,5,6,7,20,19,18,10,9,18,42,53,LLWLLDDLWDLWWWWWWLWDDLWLDWDDWLWLLWLWD,4,5,9,24,32,DLDLWDLWWLDDLLWLWD,LLDLDWWWWWDWDDWLWW
+Lille,Nancy,3-2,/match/lillestrom/nancy/2009,2009,38,ligue_1,20,38,0,3,2,6,16,13,8,48,37,DLWWDWLWDDDWWWDDDLWDWDWWWWWLWLDWLWDDL,11,5,2,31,18,14,10,12,15,36,44,DWDWDDWDWDWWLDLLWWLLWLLDLWDWLWWLWDDDL,5,4,9,17,25,LWWWDWWDDWWWWWWDLD,WDWWWLLWLWLDWWWLDD
+Grenoble,Sochaux,0-1,/match/grenoble-foot-38/sochaux/2009,2009,38,ligue_1,20,38,2,0,1,12,10,14,13,24,36,LWWWDLLLDLDDLWDDDWWWLWDDDDWWWLWWLDWDD,6,7,5,9,12,11,9,12,16,39,48,LWDWDWDDDDLWWWDDDDDWWWWLLWWWWWWLDWWWW,1,5,12,15,31,WWLLDLDDWLDDWWLWDD,WWWDDWWDDDWWLWWWWW
+Toulouse,Olympique Lyonnais,0-0,/match/toulouse-fc/olympique-lyonnais/2009,2009,38,ligue_1,20,38,1,0,0,5,16,15,6,45,27,WWDDLWLWWDLLDWWDDWDLWDWLDDWWWDWWDDDDL,10,7,1,26,8,2,20,10,7,52,29,WDWLWLWWDDLWLWWDWDLDLDLWLDWLWLDWDWWLW,10,2,6,20,14,WDWWDLWDWDWWDWWWDD,DLLWDLLWWLLLLWLWWL

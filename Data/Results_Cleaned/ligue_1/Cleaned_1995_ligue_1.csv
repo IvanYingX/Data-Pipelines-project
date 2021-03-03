@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Girondins Bordeaux,Nice,1-0,/match/bordeaux/nice/1995,1995,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sochaux,Caen,2-0,/match/sochaux/caen/1995,1995,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Monaco,Metz,0-1,/match/monaco/metz/1995,1995,1,ligue_1,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cannes,Bastia,0-0,/match/as-cannes/bastia/1995,1995,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nantes,Olympique Lyonnais,1-1,/match/nantes/olympique-lyonnais/1995,1995,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Strasbourg,Auxerre,1-1,/match/strasbourg/auxerre/1995,1995,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Le Havre,PSG,0-0,/match/havre-ac/paris-saint-germain-fc/1995,1995,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Saint-Étienne,Stade Rennais,1-1,/match/saint-etienne/stade-rennes/1995,1995,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lens,Lille,1-1,/match/lens/lillestrom/1995,1995,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,FC Martigues,0-1,/match/montpellier-hsc/fc-martigues/1995,1995,1,ligue_1,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,Nantes,1-2,/match/auxerre/nantes/1995,1995,2,ligue_1,20,38,2,1,2,15,0,1,0,1,1,D,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+Caen,Cannes,0-1,/match/caen/as-cannes/1995,1995,2,ligue_1,20,38,2,0,1,19,0,0,1,0,2,W,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
+FC Martigues,Saint-Étienne,1-1,/match/fc-martigues/saint-etienne/1995,1995,2,ligue_1,20,38,1,1,1,8,1,0,0,1,0,L,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
+Stade Rennais,Le Havre,0-0,/match/stade-rennes/havre-ac/1995,1995,2,ligue_1,20,38,1,0,0,13,0,1,0,1,1,D,0,0,0,0,0,6,0,1,0,0,0,D,0,0,0,0,0,,
+Nice,Sochaux,1-0,/match/nice/sochaux/1995,1995,2,ligue_1,20,38,0,1,0,17,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
+Lille,Strasbourg,1-0,/match/lillestrom/strasbourg/1995,1995,2,ligue_1,20,38,0,1,0,11,0,1,0,1,1,D,0,0,0,0,0,4,0,1,0,1,1,D,0,0,0,0,0,,
+Olympique Lyonnais,Monaco,3-1,/match/olympique-lyonnais/monaco/1995,1995,2,ligue_1,20,38,0,3,1,12,0,1,0,1,1,D,0,0,0,0,0,20,0,0,1,0,1,L,0,0,0,0,0,,
+Metz,Bastia,1-2,/match/metz/bastia/1995,1995,2,ligue_1,20,38,2,1,2,10,1,0,0,1,0,L,0,0,0,0,0,14,0,1,0,0,0,D,0,1,0,0,0,,D
+Montpellier,Girondins Bordeaux,0-1,/match/montpellier-hsc/bordeaux/1995,1995,2,ligue_1,20,38,2,0,1,18,0,0,1,0,1,L,0,0,1,0,1,1,1,0,0,1,0,W,0,0,0,0,0,L,
+PSG,Lens,1-0,/match/paris-saint-germain-fc/lens/1995,1995,2,ligue_1,20,38,0,1,0,16,0,1,0,0,0,D,0,0,0,0,0,3,0,1,0,1,1,D,0,0,0,0,0,,
+Lens,Stade Rennais,5-0,/match/lens/stade-rennes/1995,1995,3,ligue_1,20,38,0,5,0,16,0,1,1,1,2,DW,0,1,0,1,1,12,0,2,0,1,1,DD,0,1,0,1,1,D,D
+Cannes,Metz,1-0,/match/as-cannes/metz/1995,1995,3,ligue_1,20,38,0,1,0,5,1,1,0,1,0,DL,0,1,0,0,0,14,1,0,1,2,2,LL,1,0,0,1,0,D,L
+Monaco,Auxerre,0-0,/match/monaco/auxerre/1995,1995,3,ligue_1,20,38,1,0,0,20,0,0,2,1,4,LW,0,0,1,0,1,17,0,1,1,2,3,DL,0,1,0,1,1,L,D
+Nantes,Caen,2-1,/match/nantes/caen/1995,1995,3,ligue_1,20,38,0,2,1,6,1,1,0,3,2,DL,0,1,0,1,1,19,0,0,2,0,3,WL,0,0,1,0,2,D,W
+Le Havre,Nice,1-1,/match/havre-ac/nice/1995,1995,3,ligue_1,20,38,1,1,1,10,0,2,0,0,0,DD,0,1,0,0,0,9,1,0,1,1,1,WW,0,0,1,0,1,D,W
+Girondins Bordeaux,FC Martigues,1-1,/match/bordeaux/fc-martigues/1995,1995,3,ligue_1,20,38,1,1,1,1,2,0,0,2,0,WL,1,0,0,1,0,7,1,1,0,2,1,LD,1,0,0,1,0,W,L
+Saint-Étienne,Montpellier,4-0,/match/saint-etienne/montpellier-hsc/1995,1995,3,ligue_1,20,38,0,4,0,11,0,2,0,2,2,DD,0,1,0,1,1,18,0,0,2,0,2,LL,0,0,0,0,0,D,
+Sochaux,Lille,3-0,/match/sochaux/lillestrom/1995,1995,3,ligue_1,20,38,0,3,0,8,1,0,1,2,1,WW,1,0,0,2,0,4,1,1,0,2,1,DW,0,1,0,1,1,W,D
+Strasbourg,PSG,2-0,/match/strasbourg/paris-saint-germain-fc/1995,1995,3,ligue_1,20,38,0,2,0,15,0,1,1,1,2,DW,0,1,0,1,1,3,1,1,0,1,0,DW,0,1,0,0,0,D,D
+Bastia,Olympique Lyonnais,0-1,/match/bastia/olympique-lyonnais/1995,1995,3,ligue_1,20,38,2,0,1,13,1,1,0,2,1,DL,0,0,0,0,0,2,1,1,0,4,2,DW,0,1,0,1,1,,D
+Caen,Monaco,0-1,/match/caen/monaco/1995,1995,4,ligue_1,20,38,2,0,1,20,0,0,3,1,5,WLW,0,0,1,0,1,18,0,1,2,1,4,LWD,0,0,1,1,3,L,W
+Olympique Lyonnais,Metz,1-0,/match/olympique-lyonnais/metz/1995,1995,4,ligue_1,20,38,0,1,0,5,2,1,0,5,2,DWL,1,0,0,3,1,16,1,0,2,2,3,LLW,1,0,1,1,1,W,LW
+FC Martigues,Le Havre,2-1,/match/fc-martigues/havre-ac/1995,1995,4,ligue_1,20,38,0,2,1,9,1,2,0,3,2,LDD,0,1,0,1,1,12,0,3,0,1,1,DDD,0,1,0,0,0,D,D
+Stade Rennais,Girondins Bordeaux,2-0,/match/stade-rennes/bordeaux/1995,1995,4,ligue_1,20,38,0,2,0,14,0,2,1,1,6,DDW,0,1,0,0,0,1,2,1,0,3,1,WLD,1,0,0,1,0,D,L
+Nice,Cannes,2-1,/match/nice/as-cannes/1995,1995,4,ligue_1,20,38,0,2,1,11,1,1,1,2,2,WWD,1,0,0,1,0,4,2,1,0,2,0,DLW,1,0,0,1,0,W,L
+PSG,Sochaux,1-1,/match/paris-saint-germain-fc/sochaux/1995,1995,4,ligue_1,20,38,1,1,1,13,1,1,1,1,2,DWW,1,0,0,1,0,3,2,0,1,5,1,WWW,0,0,1,0,1,W,W
+Auxerre,Bastia,2-1,/match/auxerre/bastia/1995,1995,4,ligue_1,20,38,0,2,1,17,0,2,1,2,3,DLD,0,0,1,1,2,15,1,1,1,2,2,DLL,1,1,0,2,1,L,DL
+Saint-Étienne,Strasbourg,2-0,/match/saint-etienne/strasbourg/1995,1995,4,ligue_1,20,38,0,2,0,6,1,2,0,6,2,DDW,1,1,0,5,1,7,1,1,1,3,2,DWW,0,0,1,0,1,DW,W
+Montpellier,Lens,1-2,/match/montpellier-hsc/lens/1995,1995,4,ligue_1,20,38,2,1,2,19,0,0,3,0,6,LLW,0,0,2,0,2,8,1,1,1,6,2,DWW,0,0,1,0,1,LL,W
+Lille,Nantes,1-2,/match/lillestrom/nantes/1995,1995,4,ligue_1,20,38,2,1,2,10,1,1,1,2,4,DWW,1,0,0,1,0,2,2,1,0,5,3,DLW,1,0,0,2,1,W,L
+Nantes,PSG,1-0,/match/nantes/paris-saint-germain-fc/1995,1995,5,ligue_1,20,38,0,1,0,3,3,1,0,7,4,DLWL,1,1,0,3,2,10,1,2,1,2,3,DWWD,0,1,1,0,2,DW,DW
+Lens,FC Martigues,2-1,/match/lens/fc-martigues/1995,1995,5,ligue_1,20,38,0,2,1,7,2,1,1,8,3,DWWL,1,1,0,6,1,6,2,2,0,5,3,LDDW,1,1,0,2,1,DW,LD
+Cannes,Olympique Lyonnais,5-1,/match/as-cannes/olympique-lyonnais/1995,1995,5,ligue_1,20,38,0,5,1,9,2,1,1,3,2,DLWW,1,1,0,1,0,1,3,1,0,6,2,DWLW,1,1,0,2,1,DW,DL
+Sochaux,Stade Rennais,1-3,/match/sochaux/stade-rennes/1995,1995,5,ligue_1,20,38,2,1,3,5,2,1,1,6,2,WWWD,2,0,0,5,0,11,1,2,1,3,6,DDWW,0,1,1,1,6,WW,DW
+Strasbourg,Nice,3-2,/match/strasbourg/nice/1995,1995,5,ligue_1,20,38,0,3,2,12,1,1,2,3,4,DWWW,1,1,0,3,1,4,2,1,1,4,3,WWDW,0,1,1,1,2,DW,WD
+Girondins Bordeaux,Saint-Étienne,2-1,/match/bordeaux/saint-etienne/1995,1995,5,ligue_1,20,38,0,2,1,8,2,1,1,3,3,WLDW,1,1,0,2,1,2,2,2,0,8,2,DDWW,0,1,0,1,1,WD,D
+Le Havre,Montpellier,1-2,/match/havre-ac/montpellier-hsc/1995,1995,5,ligue_1,20,38,2,1,2,15,0,3,1,2,3,DDDW,0,2,0,1,1,19,0,0,4,1,8,LLWL,0,0,1,0,4,DD,W
+Metz,Auxerre,1-1,/match/metz/auxerre/1995,1995,5,ligue_1,20,38,1,1,1,18,1,0,3,2,4,LLWW,0,0,1,1,2,13,1,2,1,4,4,DLDW,0,2,0,1,1,L,DD
+Bastia,Caen,1-0,/match/bastia/caen/1995,1995,5,ligue_1,20,38,0,1,0,17,1,1,2,3,4,DLLW,0,0,1,0,1,20,0,0,4,1,6,WLWL,0,0,2,1,4,L,WW
+Monaco,Lille,2-0,/match/monaco/lillestrom/1995,1995,5,ligue_1,20,38,0,2,0,16,1,1,2,2,4,LWDL,0,1,1,0,1,14,1,1,2,3,6,DWWL,0,1,1,1,4,LD,DW
+Stade Rennais,Strasbourg,1-1,/match/stade-rennes/strasbourg/1995,1995,6,ligue_1,20,38,1,1,1,8,2,2,1,6,7,DDWWL,1,1,0,2,0,7,2,1,2,6,6,DWWWW,0,0,2,0,3,DW,WW
+Nice,Lens,1-1,/match/nice/lens/1995,1995,6,ligue_1,20,38,1,1,1,11,2,1,2,6,6,WWDWW,2,0,0,3,1,4,3,1,1,10,4,DWWLW,1,0,1,2,2,WW,WL
+FC Martigues,Sochaux,2-0,/match/fc-martigues/sochaux/1995,1995,6,ligue_1,20,38,0,2,0,9,2,2,1,6,5,LDDWW,1,1,0,3,2,10,2,1,2,7,5,WWWDL,0,1,1,1,2,DW,WD
+PSG,Monaco,1-0,/match/paris-saint-germain-fc/monaco/1995,1995,6,ligue_1,20,38,0,1,0,13,1,2,2,2,4,DWWDW,1,1,0,2,1,12,2,1,2,4,4,LWDLW,1,0,1,2,3,WD,WL
+Lille,Bastia,3-0,/match/lillestrom/bastia/1995,1995,6,ligue_1,20,38,0,3,0,16,1,1,3,3,8,DWWLW,1,0,1,2,2,15,2,1,2,4,4,DLLWW,1,1,1,3,3,WL,DLW
+Caen,Metz,2-0,/match/caen/metz/1995,1995,6,ligue_1,20,38,0,2,0,20,0,0,5,1,7,WLWLW,0,0,2,0,2,18,1,1,3,3,5,LLWWD,1,0,2,1,2,LL,LWW
+Girondins Bordeaux,Cannes,0-2,/match/bordeaux/as-cannes/1995,1995,6,ligue_1,20,38,2,0,2,2,3,1,1,5,4,WLDWW,2,1,0,4,2,3,3,1,1,8,3,DLWWW,1,0,1,2,2,WDW,LW
+Saint-Étienne,Le Havre,4-1,/match/saint-etienne/havre-ac/1995,1995,6,ligue_1,20,38,0,4,1,6,2,2,1,9,4,DDWWW,2,1,0,7,1,17,0,3,2,3,5,DDDWL,0,1,1,1,2,DWW,DW
+Montpellier,Nantes,2-2,/match/montpellier-hsc/nantes/1995,1995,6,ligue_1,20,38,1,2,2,19,1,0,4,3,9,LLWLL,0,0,3,1,4,1,4,1,0,8,4,DLWLW,2,0,0,4,2,LLL,LL
+Auxerre,Olympique Lyonnais,0-0,/match/auxerre/olympique-lyonnais/1995,1995,6,ligue_1,20,38,1,0,0,14,1,3,1,5,5,DLDWD,1,0,1,3,3,5,3,1,1,7,7,DWLWW,1,1,1,3,6,LW,DLW
+Cannes,Auxerre,3-1,/match/as-cannes/auxerre/1995,1995,7,ligue_1,20,38,0,3,1,3,4,1,1,10,3,DLWWWL,2,1,0,6,1,13,1,4,1,5,5,DLDWDD,0,3,0,2,2,DWW,DDD
+Le Havre,Girondins Bordeaux,1-1,/match/havre-ac/bordeaux/1995,1995,7,ligue_1,20,38,1,1,1,17,0,3,3,4,9,DDDWLW,0,2,1,2,3,7,3,1,2,5,6,WLDWWL,1,0,1,1,2,DDL,LW
+Monaco,Nice,0-2,/match/monaco/nice/1995,1995,7,ligue_1,20,38,2,0,2,15,2,1,3,4,5,LWDLWW,1,1,1,2,1,9,2,2,2,7,7,WWDWWD,0,1,2,3,5,LDW,WDW
+Nantes,Stade Rennais,2-0,/match/nantes/stade-rennes/1995,1995,7,ligue_1,20,38,0,2,0,1,4,2,0,10,6,DLWLWD,2,1,0,4,2,10,2,3,1,7,8,DDWWLD,1,1,1,4,7,DWW,DWL
+Strasbourg,FC Martigues,5-0,/match/strasbourg/fc-martigues/1995,1995,7,ligue_1,20,38,0,5,0,11,2,2,2,7,7,DWWWWD,2,1,0,6,3,4,3,2,1,8,5,LDDWWW,1,1,1,3,3,DWW,LDW
+Lens,Saint-Étienne,0-0,/match/lens/saint-etienne/1995,1995,7,ligue_1,20,38,1,0,0,5,3,2,1,11,5,DWWLWD,2,1,0,8,2,2,3,2,1,13,5,DDWWWW,0,1,1,2,3,DWW,DW
+Olympique Lyonnais,Caen,1-0,/match/olympique-lyonnais/caen/1995,1995,7,ligue_1,20,38,0,1,0,6,3,2,1,7,7,DWLWWD,2,0,0,4,1,20,1,0,5,3,7,WLWLWW,0,0,3,1,5,WW,WWW
+Metz,Lille,1-1,/match/metz/lillestrom/1995,1995,7,ligue_1,20,38,1,1,1,18,1,1,4,3,7,LLWWDW,0,1,1,2,3,14,2,1,3,6,8,DWWLWW,0,1,2,1,6,LD,DWW
+Bastia,PSG,1-2,/match/bastia/paris-saint-germain-fc/1995,1995,7,ligue_1,20,38,2,1,2,16,2,1,3,4,7,DLLWWW,1,0,1,1,1,8,2,2,2,3,4,DWWDWW,0,1,2,0,3,LW,DWW
+Sochaux,Montpellier,2-0,/match/sochaux/montpellier-hsc/1995,1995,7,ligue_1,20,38,0,2,0,12,2,1,3,7,7,WWWDLW,2,0,1,6,3,19,1,1,4,5,11,LLWLLD,1,0,1,2,5,WWL,WL
+Stade Rennais,Cannes,3-1,/match/stade-rennes/as-cannes/1995,1995,8,ligue_1,20,38,0,3,1,12,2,3,2,7,10,DDWWLDW,1,2,0,3,1,2,5,1,1,13,4,DLWWWLW,2,0,1,4,2,DWD,LWL
+Caen,Auxerre,1-5,/match/caen/auxerre/1995,1995,8,ligue_1,20,38,2,1,5,20,1,0,6,3,8,WLWLWWW,1,0,2,2,2,14,1,4,2,6,8,DLDWDDW,0,3,1,3,5,LLW,DDDW
+Nice,Bastia,1-2,/match/nice/bastia/1995,1995,8,ligue_1,20,38,2,1,2,9,3,2,2,9,7,WWDWWDL,2,1,0,4,2,16,2,1,4,5,9,DLLWWWL,1,1,2,3,6,WWD,DLWW
+FC Martigues,Nantes,3-3,/match/fc-martigues/nantes/1995,1995,8,ligue_1,20,38,1,3,3,10,3,2,2,8,10,LDDWWWW,2,1,0,5,2,1,5,2,0,12,6,DLWLWDW,2,1,0,6,4,DWW,LLD
+PSG,Metz,3-0,/match/paris-saint-germain-fc/metz/1995,1995,8,ligue_1,20,38,0,3,0,8,3,2,2,5,5,DWWDWWL,2,1,0,3,1,18,1,2,4,4,8,LLWWDWD,1,0,3,1,4,WDW,LWWW
+Lille,Olympique Lyonnais,1-4,/match/lillestrom/olympique-lyonnais/1995,1995,8,ligue_1,20,38,2,1,4,13,2,2,3,7,9,DWWLWWD,2,0,1,5,2,3,4,2,1,8,7,DWLWWDW,1,2,1,3,6,WLW,DLWD
+Girondins Bordeaux,Lens,1-2,/match/bordeaux/lens/1995,1995,8,ligue_1,20,38,2,1,2,7,3,2,2,6,7,WLDWWLD,2,1,1,4,4,6,3,3,1,11,5,DWWLWDD,1,1,1,3,3,WDWL,WLD
+Saint-Étienne,Sochaux,4-0,/match/saint-etienne/sochaux/1995,1995,8,ligue_1,20,38,0,4,0,4,3,3,1,13,5,DDWWWWD,3,1,0,11,2,11,3,1,3,9,7,WWWDLWW,0,1,2,1,4,DWWW,WDW
+Montpellier,Strasbourg,1-1,/match/montpellier-hsc/strasbourg/1995,1995,8,ligue_1,20,38,1,1,1,19,1,1,5,5,13,LLWLLDW,0,1,3,3,6,5,3,2,2,12,7,DWWWWDW,0,1,2,1,4,LLLD,WWD
+Le Havre,Monaco,1-0,/match/havre-ac/monaco/1995,1995,8,ligue_1,20,38,0,1,0,17,0,4,3,5,10,DDDWLWD,0,3,1,3,4,15,2,1,4,4,7,LWDLWWL,1,0,2,2,4,DDLD,WLW
+Strasbourg,Caen,1-0,/match/strasbourg/caen/1995,1995,9,ligue_1,20,38,0,1,0,7,3,3,2,13,8,DWWWWDWD,3,1,0,11,3,20,1,0,7,4,13,WLWLWWWL,0,0,4,1,6,DWWW,WWWW
+Cannes,FC Martigues,0-1,/match/as-cannes/fc-martigues/1995,1995,9,ligue_1,20,38,2,0,1,4,5,1,2,14,7,DLWWWLWW,3,1,0,9,2,8,3,3,2,11,13,LDDWWWWD,1,1,2,3,8,DWWW,LDWW
+Bastia,Montpellier,1-1,/match/bastia/montpellier-hsc/1995,1995,9,ligue_1,20,38,1,1,1,16,3,1,4,7,10,DLLWWWLL,1,0,2,2,3,19,1,2,5,6,14,LLWLLDWD,1,0,2,2,7,LWL,WLW
+Nantes,Saint-Étienne,3-0,/match/nantes/saint-etienne/1995,1995,9,ligue_1,20,38,0,3,0,1,5,3,0,15,9,DLWLWDWD,3,1,0,6,2,2,4,3,1,17,5,DDWWWWDW,0,2,1,2,3,DWWW,DWD
+Sochaux,Girondins Bordeaux,1-4,/match/sochaux/bordeaux/1995,1995,9,ligue_1,20,38,2,1,4,10,3,1,4,9,11,WWWDLWWW,3,0,1,8,3,12,3,2,3,7,9,WLDWWLDL,1,1,1,2,3,WWLW,LWD
+Lens,Le Havre,1-1,/match/lens/havre-ac/1995,1995,9,ligue_1,20,38,1,1,1,5,4,3,1,13,6,DWWLWDDL,2,2,0,8,2,14,1,4,3,6,10,DDDWLWDW,0,1,2,2,6,DWWD,DWW
+Metz,Nice,0-0,/match/metz/nice/1995,1995,9,ligue_1,20,38,1,0,0,18,1,2,5,4,11,LLWWDWDW,0,2,1,3,4,11,3,2,3,10,9,WWDWWDLL,1,1,2,5,5,LDD,WDWL
+Monaco,Stade Rennais,0-0,/match/monaco/stade-rennes/1995,1995,9,ligue_1,20,38,1,0,0,17,2,1,5,4,8,LWDLWWLW,1,1,2,2,3,9,3,3,2,10,11,DDWWLDWW,1,1,2,4,9,LDWL,DWLW
+Auxerre,Lille,2-0,/match/auxerre/lillestrom/1995,1995,9,ligue_1,20,38,0,2,0,13,2,4,2,11,9,DLDWDDWL,1,1,1,3,3,15,2,2,4,8,13,DWWLWWDL,0,2,2,2,7,LWD,DWWD
+Olympique Lyonnais,PSG,2-0,/match/olympique-lyonnais/paris-saint-germain-fc/1995,1995,9,ligue_1,20,38,0,2,0,3,5,2,1,12,8,DWLWWDWL,3,0,0,5,1,6,4,2,2,8,5,DWWDWWLW,1,1,2,2,4,WWW,DWWL
+Montpellier,Monaco,2-2,/match/montpellier-hsc/monaco/1995,1995,10,ligue_1,20,38,1,2,2,19,1,3,5,7,15,LLWLLDWDD,0,2,3,4,7,17,2,2,5,4,8,LWDLWWLWD,1,0,3,2,5,LLLDD,WLWW
+Le Havre,Sochaux,2-0,/match/havre-ac/sochaux/1995,1995,10,ligue_1,20,38,0,2,0,14,1,5,3,7,11,DDDWLWDWD,1,3,1,4,4,13,3,1,5,10,15,WWWDLWWWL,0,1,3,1,8,DDLDW,WDWW
+Stade Rennais,Metz,1-2,/match/stade-rennes/metz/1995,1995,10,ligue_1,20,38,2,1,2,9,3,4,2,10,11,DDWWLDWWD,2,2,0,6,2,18,1,3,5,4,11,LLWWDWDWD,1,0,4,1,7,DWDW,LWWWW
+Nice,Nantes,1-3,/match/nice/nantes/1995,1995,10,ligue_1,20,38,2,1,3,12,3,3,3,10,9,WWDWWDLLD,2,1,1,5,4,1,6,3,0,18,9,DLWLWDWDW,2,2,0,9,7,WWDL,LLDD
+PSG,Auxerre,1-1,/match/paris-saint-germain-fc/auxerre/1995,1995,10,ligue_1,20,38,1,1,1,7,4,2,3,8,7,DWWDWWLWW,3,1,0,6,1,11,3,4,2,13,9,DLDWDDWLW,1,3,1,8,6,WDWW,DDDWL
+FC Martigues,Bastia,5-2,/match/fc-martigues/bastia/1995,1995,10,ligue_1,20,38,0,5,2,8,4,3,2,12,13,LDDWWWWDL,2,2,0,8,5,15,3,2,4,8,11,DLLWWWLLD,2,1,2,5,7,DWWD,DLWWL
+Girondins Bordeaux,Strasbourg,2-0,/match/bordeaux/strasbourg/1995,1995,10,ligue_1,20,38,0,2,0,10,4,2,3,11,10,WLDWWLDLL,2,1,2,5,6,3,4,3,2,14,8,DWWWWDWDW,0,2,2,2,5,WDWLL,WWDD
+Saint-Étienne,Olympique Lyonnais,1-1,/match/saint-etienne/olympique-lyonnais/1995,1995,10,ligue_1,20,38,1,1,1,4,4,3,2,17,8,DDWWWWDWW,4,1,0,15,2,2,6,2,1,14,8,DWLWWDWLW,2,2,1,7,7,DWWWW,DLWDL
+Lens,Cannes,0-2,/match/lens/as-cannes/1995,1995,10,ligue_1,20,38,2,0,2,5,4,4,1,14,7,DWWLWDDLD,2,3,0,9,3,6,5,1,3,14,8,DLWWWLWWL,2,0,2,5,5,DWWDD,LWLW
+Lille,Caen,1-1,/match/lillestrom/caen/1995,1995,10,ligue_1,20,38,1,1,1,16,2,2,5,8,15,DWWLWWDLW,2,0,2,6,6,20,1,0,8,4,14,WLWLWWWLW,0,0,5,1,7,WLWL,WWWWW
+Caen,PSG,1-2,/match/caen/paris-saint-germain-fc/1995,1995,11,ligue_1,20,38,2,1,2,20,1,1,8,5,15,WLWLWWWLWD,1,0,3,3,7,8,4,3,3,9,8,DWWDWWLWWD,1,1,3,2,6,LLWL,DWWLW
+Cannes,Lille,0-0,/match/as-cannes/lillestrom/1995,1995,11,ligue_1,20,38,1,0,0,6,6,1,3,16,8,DLWWWLWWLL,3,1,1,9,3,15,2,3,5,9,16,DWWLWWDLWD,0,2,3,2,9,DWWWL,DWWDW
+Monaco,FC Martigues,1-0,/match/monaco/fc-martigues/1995,1995,11,ligue_1,20,38,0,1,0,17,2,3,5,6,10,LWDLWWLWDD,1,2,2,2,3,4,5,3,2,17,15,LDDWWWWDLW,2,1,2,4,8,LDWLD,LDWWL
+Nantes,Girondins Bordeaux,3-3,/match/nantes/bordeaux/1995,1995,11,ligue_1,20,38,1,3,3,1,7,3,0,21,10,DLWLWDWDWL,4,1,0,9,2,9,5,2,3,13,10,WLDWWLDLLW,2,1,1,6,4,DWWWW,LWDL
+Sochaux,Lens,1-1,/match/sochaux/lens/1995,1995,11,ligue_1,20,38,1,1,1,14,3,1,6,10,17,WWWDLWWWLW,3,0,2,9,7,7,4,4,2,14,9,DWWLWDDLDL,2,1,1,5,4,WWLWL,WLDL
+Olympique Lyonnais,Nice,1-1,/match/olympique-lyonnais/nice/1995,1995,11,ligue_1,20,38,1,1,1,2,6,3,1,15,9,DWLWWDWLWD,4,0,0,7,1,13,3,3,4,11,12,WWDWWDLLDL,1,2,2,5,5,WWWW,WDWLD
+Metz,Montpellier,0-0,/match/metz/montpellier-hsc/1995,1995,11,ligue_1,20,38,1,0,0,18,2,3,5,6,12,LLWWDWDWDL,0,3,1,3,4,19,1,4,5,9,17,LLWLLDWDDD,1,1,2,3,8,LDDD,WLWD
+Bastia,Stade Rennais,1-2,/match/bastia/stade-rennes/1995,1995,11,ligue_1,20,38,2,1,2,16,3,2,5,10,16,DLLWWWLLDW,1,1,2,3,4,12,3,4,3,11,13,DDWWLDWWDL,1,2,2,4,9,LWLD,DWLWD
+Strasbourg,Le Havre,3-0,/match/strasbourg/havre-ac/1995,1995,11,ligue_1,20,38,0,3,0,5,4,3,3,14,10,DWWWWDWDWW,4,1,0,12,3,10,2,5,3,9,11,DDDWLWDWDW,0,2,2,3,7,DWWWW,DWWD
+Auxerre,Saint-Étienne,3-0,/match/auxerre/saint-etienne/1995,1995,11,ligue_1,20,38,0,3,0,11,3,5,2,14,10,DLDWDDWLWD,2,1,1,5,3,3,4,4,2,18,9,DDWWWWDWWD,0,2,2,2,6,LWDW,DWDW
+Lens,Strasbourg,1-0,/match/lens/strasbourg/1995,1995,12,ligue_1,20,38,0,1,0,10,4,5,2,15,10,DWWLWDDLDLD,2,3,1,9,5,3,5,3,3,17,10,DWWWWDWDWWW,0,2,3,2,7,DWWDDL,WWDDW
+Sochaux,Cannes,2-1,/match/sochaux/as-cannes/1995,1995,12,ligue_1,20,38,0,2,1,14,3,2,6,11,18,WWWDLWWWLWD,3,1,2,10,8,5,6,2,3,16,8,DLWWWLWWLLD,3,0,2,7,5,WWLWLD,LWLWL
+PSG,Lille,3-0,/match/paris-saint-germain-fc/lillestrom/1995,1995,12,ligue_1,20,38,0,3,0,7,5,3,3,11,9,DWWDWWLWWDL,3,2,0,7,2,16,2,4,5,9,16,DWWLWWDLWDD,0,3,3,2,9,WDWWD,DWWDWD
+Nice,Caen,0-1,/match/nice/caen/1995,1995,12,ligue_1,20,38,2,0,1,13,3,4,4,12,13,WWDWWDLLDLD,2,1,2,6,7,20,1,1,9,6,17,WLWLWWWLWDL,0,1,5,2,8,WWDLL,WWWWWD
+FC Martigues,Metz,1-1,/match/fc-martigues/metz/1995,1995,12,ligue_1,20,38,1,1,1,6,5,3,3,17,16,LDDWWWWDLWW,3,2,0,13,7,17,2,4,5,6,12,LLWWDWDWDLD,2,0,4,3,8,DWWDW,LWWWWL
+Girondins Bordeaux,Monaco,0-3,/match/bordeaux/monaco/1995,1995,12,ligue_1,20,38,2,0,3,8,5,3,3,16,13,WLDWWLDLLWD,3,1,2,7,6,15,3,3,5,7,10,LWDLWWLWDDW,1,1,3,4,7,WDWLLW,WLWWD
+Saint-Étienne,Bastia,1-2,/match/saint-etienne/bastia/1995,1995,12,ligue_1,20,38,2,1,2,4,4,4,3,18,12,DDWWWWDWWDW,4,2,0,16,3,18,3,2,6,11,18,DLLWWWLLDWL,2,1,3,7,12,DWWWWD,DLWWLW
+Montpellier,Olympique Lyonnais,2-2,/match/montpellier-hsc/olympique-lyonnais/1995,1995,12,ligue_1,20,38,1,2,2,19,1,5,5,9,17,LLWLLDWDDDD,0,3,3,6,9,2,6,4,1,16,10,DWLWWDWLWDD,2,3,1,8,8,LLLDDD,DLWDLD
+Stade Rennais,Auxerre,2-2,/match/stade-rennes/auxerre/1995,1995,12,ligue_1,20,38,1,2,2,11,4,4,3,13,14,DDWWLDWWDLL,2,2,1,7,4,9,4,5,2,17,10,DLDWDDWLWDW,1,4,1,9,7,DWDWL,DDDWLD
+Le Havre,Nantes,0-0,/match/havre-ac/nantes/1995,1995,12,ligue_1,20,38,1,0,0,12,2,5,4,9,14,DDDWLWDWDWW,2,3,1,6,4,1,7,4,0,24,13,DLWLWDWDWLD,3,2,0,12,8,DDLDWW,LLDDL
+Auxerre,FC Martigues,3-0,/match/auxerre/fc-martigues/1995,1995,13,ligue_1,20,38,0,3,0,9,4,6,2,19,12,DLDWDDWLWDWD,3,1,1,8,3,6,5,4,3,18,17,LDDWWWWDLWWD,2,1,3,4,9,LWDWW,LDWWLW
+Cannes,PSG,3-2,/match/as-cannes/paris-saint-germain-fc/1995,1995,13,ligue_1,20,38,0,3,2,8,6,2,4,17,10,DLWWWLWWLLDW,3,2,1,9,3,3,6,3,3,14,9,DWWDWWLWWDLW,2,1,3,4,7,DWWWLD,DWWLWL
+Nantes,Lens,3-0,/match/nantes/lens/1995,1995,13,ligue_1,20,38,0,3,0,1,7,5,0,24,13,DLWLWDWDWLDD,4,2,0,12,5,4,5,5,2,16,10,DWWLWDDLDLDW,2,2,1,6,5,DWWWWD,WLDLD
+Strasbourg,Sochaux,3-2,/match/strasbourg/sochaux/1995,1995,13,ligue_1,20,38,0,3,2,5,5,3,4,17,11,DWWWWDWDWWWW,5,1,0,15,3,12,4,2,6,13,19,WWWDLWWWLWDW,0,1,4,1,10,DWWWWW,WDWWW
+Caen,Montpellier,1-0,/match/caen/montpellier-hsc/1995,1995,13,ligue_1,20,38,0,1,0,20,2,1,9,7,17,WLWLWWWLWDLL,1,0,4,4,9,19,1,6,5,11,19,LLWLLDWDDDDD,1,2,2,3,8,LLWLL,WLWDD
+Olympique Lyonnais,Stade Rennais,3-0,/match/olympique-lyonnais/stade-rennes/1995,1995,13,ligue_1,20,38,0,3,0,2,6,5,1,18,12,DWLWWDWLWDDD,4,1,0,8,2,10,4,5,3,15,16,DDWWLDWWDLLD,2,2,2,6,10,WWWWD,DWLWDL
+Metz,Le Havre,2-1,/match/metz/havre-ac/1995,1995,13,ligue_1,20,38,0,2,1,17,2,5,5,7,13,LLWWDWDWDLDD,0,4,1,3,4,13,2,6,4,9,14,DDDWLWDWDWWD,0,2,3,3,10,LDDDD,DWWDW
+Bastia,Girondins Bordeaux,0-0,/match/bastia/bordeaux/1995,1995,13,ligue_1,20,38,1,0,0,18,4,2,6,13,19,DLLWWWLLDWLL,1,1,3,4,6,11,5,3,4,16,16,WLDWWLDLLWDL,2,2,1,9,7,LWLDL,LWDLD
+Lille,Nice,1-0,/match/lillestrom/nice/1995,1995,13,ligue_1,20,38,0,1,0,16,2,4,6,9,19,DWWLWWDLWDDW,2,1,2,7,7,15,3,4,5,12,14,WWDWWDLLDLDL,1,3,2,6,6,WLWLD,WDWLDD
+Monaco,Saint-Étienne,0-0,/match/monaco/saint-etienne/1995,1995,13,ligue_1,20,38,1,0,0,14,4,3,5,10,10,LWDLWWLWDDWL,2,2,2,3,3,7,4,4,4,19,14,DDWWWWDWWDWL,0,2,3,2,9,LDWLDW,DWDWW
+Nice,PSG,0-4,/match/nice/paris-saint-germain-fc/1995,1995,14,ligue_1,20,38,2,0,4,17,3,4,6,12,15,WWDWWDLLDLDLW,2,1,3,6,8,5,6,3,4,16,12,DWWDWWLWWDLWW,2,1,4,6,10,WWDLLL,DWWLWLW
+Lens,Olympique Lyonnais,4-0,/match/lens/olympique-lyonnais/1995,1995,14,ligue_1,20,38,0,4,0,7,5,5,3,16,13,DWWLWDDLDLDWW,3,3,1,10,5,2,7,5,1,21,12,DWLWWDWLWDDDW,2,4,1,10,10,DWWDDLW,DLWDLDD
+FC Martigues,Caen,4-1,/match/fc-martigues/caen/1995,1995,14,ligue_1,20,38,0,4,1,8,5,4,4,18,20,LDDWWWWDLWWDW,3,3,0,14,8,20,3,1,9,8,17,WLWLWWWLWDLLW,1,1,5,3,8,DWWDWD,WWWWWDL
+Stade Rennais,Lille,1-0,/match/stade-rennes/lillestrom/1995,1995,14,ligue_1,20,38,0,1,0,11,4,5,4,15,19,DDWWLDWWDLLDW,2,3,1,9,6,15,3,4,6,10,19,DWWLWWDLWDDWW,0,3,4,2,12,DWDWLD,DWWDWDW
+Sochaux,Nantes,0-0,/match/sochaux/nantes/1995,1995,14,ligue_1,20,38,1,0,0,12,4,2,7,15,22,WWWDLWWWLWDWW,4,1,2,12,9,1,8,5,0,27,13,DLWLWDWDWLDDW,3,3,0,12,8,WWLWLDW,LLDDLD
+Saint-Étienne,Cannes,1-0,/match/saint-etienne/as-cannes/1995,1995,14,ligue_1,20,38,0,1,0,9,4,5,4,19,14,DDWWWWDWWDWLD,4,2,1,17,5,4,7,2,4,20,12,DLWWWLWWLLDWW,3,0,3,8,7,DWWWWDL,LWLWLW
+Le Havre,Bastia,2-2,/match/havre-ac/bastia/1995,1995,14,ligue_1,20,38,1,2,2,14,2,6,5,10,16,DDDWLWDWDWWDW,2,4,1,6,4,18,4,3,6,13,19,DLLWWWLLDWLLD,3,1,3,9,13,DDLDWWD,DLWWLWL
+Girondins Bordeaux,Metz,4-2,/match/bordeaux/metz/1995,1995,14,ligue_1,20,38,0,4,2,10,5,4,4,16,16,WLDWWLDLLWDLD,3,1,3,7,9,16,3,5,5,9,14,LLWWDWDWDLDDW,2,1,4,4,9,WDWLLWL,LWWWWLD
+Strasbourg,Monaco,1-0,/match/strasbourg/monaco/1995,1995,14,ligue_1,20,38,0,1,0,3,6,3,4,20,13,DWWWWDWDWWWWW,6,1,0,18,5,13,4,4,5,10,10,LWDLWWLWDDWLD,2,1,3,7,7,DWWWWWW,WLWWDL
+Montpellier,Auxerre,1-1,/match/montpellier-hsc/auxerre/1995,1995,14,ligue_1,20,38,1,1,1,19,1,6,6,11,20,LLWLLDWDDDDDW,0,4,3,8,11,6,5,6,2,22,12,DLDWDDWLWDWDW,1,5,1,11,9,LLLDDDD,DDDWLDD
+Olympique Lyonnais,Girondins Bordeaux,1-1,/match/olympique-lyonnais/bordeaux/1995,1995,15,ligue_1,20,38,1,1,1,3,7,5,2,21,16,DWLWWDWLWDDDWW,5,1,0,11,2,10,6,4,4,20,18,WLDWWLDLLWDLDW,2,3,1,9,7,WWWWDW,LWDLDD
+Caen,Stade Rennais,5-1,/match/caen/stade-rennes/1995,1995,15,ligue_1,20,38,0,5,1,20,3,1,10,9,21,WLWLWWWLWDLLWW,2,0,4,5,9,11,5,5,4,16,19,DDWWLDWWDLLDWW,2,2,3,6,13,LLWLLW,DWLWDLW
+Cannes,Le Havre,2-2,/match/as-cannes/havre-ac/1995,1995,15,ligue_1,20,38,1,2,2,8,7,2,5,20,13,DLWWWLWWLLDWWW,4,2,1,12,5,13,2,7,5,12,18,DDDWLWDWDWWDWD,0,2,4,4,12,DWWWLDW,DWWDWW
+Monaco,Sochaux,3-1,/match/monaco/sochaux/1995,1995,15,ligue_1,20,38,0,3,1,14,4,4,6,10,11,LWDLWWLWDDWLDW,2,3,2,3,3,12,4,3,7,15,22,WWWDLWWWLWDWWD,0,1,5,3,13,LDWLDWD,WDWWWW
+Nantes,Strasbourg,3-0,/match/nantes/strasbourg/1995,1995,15,ligue_1,20,38,0,3,0,1,8,6,0,27,13,DLWLWDWDWLDDWD,5,2,0,15,5,2,7,3,4,21,13,DWWWWDWDWWWWWW,0,2,4,2,8,DWWWWDW,WWDDWW
+Lille,FC Martigues,1-0,/match/lillestrom/fc-martigues/1995,1995,15,ligue_1,20,38,0,1,0,15,3,4,7,10,20,DWWLWWDLWDDWWW,3,1,2,8,7,6,6,4,4,22,21,LDDWWWWDLWWDWW,2,1,4,4,12,WLWLDW,LDWWLWW
+Auxerre,Nice,3-0,/match/auxerre/nice/1995,1995,15,ligue_1,20,38,0,3,0,9,5,7,2,23,13,DLDWDDWLWDWDWD,4,1,1,11,3,18,3,4,7,12,19,WWDWWDLLDLDLWL,1,3,3,6,7,LWDWWW,WDWLDDW
+Metz,Saint-Étienne,1-0,/match/metz/saint-etienne/1995,1995,15,ligue_1,20,38,0,1,0,16,3,5,6,11,18,LLWWDWDWDLDDWW,1,4,1,5,5,7,5,5,4,20,14,DDWWWWDWWDWLDW,0,3,3,2,9,LDDDDW,DWDWWD
+Bastia,Lens,1-3,/match/bastia/lens/1995,1995,15,ligue_1,20,38,2,1,3,17,4,4,6,15,21,DLLWWWLLDWLLDD,1,2,3,4,6,4,6,5,3,20,13,DWWLWDDLDLDWWW,2,2,2,6,8,LWLDLD,WLDLDW
+PSG,Montpellier,3-1,/match/paris-saint-germain-fc/montpellier-hsc/1995,1995,15,ligue_1,20,38,0,3,1,5,7,3,4,20,12,DWWDWWLWWDLWWL,4,2,0,10,2,19,1,7,6,12,21,LLWLLDWDDDDDWD,1,2,3,3,9,WDWWDW,WLWDDW
+Nantes,Metz,3-1,/match/nantes/metz/1995,1995,16,ligue_1,20,38,0,3,1,1,9,6,0,30,13,DLWLWDWDWLDDWDW,6,2,0,18,5,16,4,5,6,12,18,LLWWDWDWDLDDWWW,2,1,5,6,13,DWWWWDWW,LWWWWLDW
+FC Martigues,PSG,1-1,/match/fc-martigues/paris-saint-germain-fc/1995,1995,16,ligue_1,20,38,1,1,1,8,6,4,5,22,22,LDDWWWWDLWWDWWW,4,3,0,18,9,4,8,3,4,23,13,DWWDWWLWWDLWWLW,3,1,4,10,10,DWWDWDW,DWWLWLWL
+Saint-Étienne,Caen,2-0,/match/saint-etienne/caen/1995,1995,16,ligue_1,20,38,0,2,0,9,5,5,5,20,15,DDWWWWDWWDWLDWW,5,2,1,18,5,19,4,1,10,14,22,WLWLWWWLWDLLWWW,1,1,6,4,12,DWWWWDLW,WWWWWDLW
+Stade Rennais,Nice,3-1,/match/stade-rennes/nice/1995,1995,16,ligue_1,20,38,0,3,1,11,5,5,5,17,24,DDWWLDWWDLLDWWW,3,3,1,10,6,18,3,4,8,12,22,WWDWWDLLDLDLWLW,1,3,4,6,10,DWDWLDW,WDWLDDWW
+Sochaux,Bastia,1-3,/match/sochaux/bastia/1995,1995,16,ligue_1,20,38,2,1,3,13,4,3,8,16,25,WWWDLWWWLWDWWDW,4,2,2,12,9,17,4,4,7,16,24,DLLWWWLLDWLLDDL,3,2,3,11,15,WWLWLDWD,DLWWLWLD
+Le Havre,Olympique Lyonnais,2-0,/match/havre-ac/olympique-lyonnais/1995,1995,16,ligue_1,20,38,0,2,0,14,2,8,5,14,20,DDDWLWDWDWWDWDD,2,5,1,8,6,3,7,6,2,22,17,DWLWWDWLWDDDWWD,2,4,2,10,14,DDLDWWDD,DLWDLDDW
+Montpellier,Lille,1-0,/match/montpellier-hsc/lillestrom/1995,1995,16,ligue_1,20,38,0,1,0,20,1,7,7,13,24,LLWLLDWDDDDDWDW,0,5,3,9,12,15,4,4,7,11,20,DWWLWWDLWDDWWWW,0,3,5,2,13,LLLDDDDD,DWWDWDWW
+Lens,Monaco,0-0,/match/lens/monaco/1995,1995,16,ligue_1,20,38,1,0,0,5,7,5,3,23,14,DWWLWDDLDLDWWWL,4,3,1,14,5,12,5,4,6,13,12,LWDLWWLWDDWLDWW,2,1,4,7,8,DWWDDLWW,WLWWDLW
+Strasbourg,Cannes,1-2,/match/strasbourg/as-cannes/1995,1995,16,ligue_1,20,38,2,1,2,2,7,3,5,21,16,DWWWWDWDWWWWWWW,7,1,0,19,5,7,7,3,5,22,15,DLWWWLWWLLDWWWD,3,0,4,8,8,DWWWWWWW,LWLWLWW
+Girondins Bordeaux,Auxerre,3-1,/match/bordeaux/auxerre/1995,1995,16,ligue_1,20,38,0,3,1,10,6,5,4,21,19,WLDWWLDLLWDLDWD,4,1,3,11,11,6,6,7,2,26,13,DLDWDDWLWDWDWDW,1,6,1,12,10,WDWLLWLW,DDDWLDDD
+Lille,Saint-Étienne,1-0,/match/lillestrom/saint-etienne/1995,1995,17,ligue_1,20,38,0,1,0,15,4,4,8,11,21,DWWLWWDLWDDWWWWW,4,1,2,9,7,6,6,5,5,22,15,DDWWWWDWWDWLDWWW,0,3,4,2,10,WLWLDWW,DWDWWDW
+Auxerre,Le Havre,1-1,/match/auxerre/havre-ac/1995,1995,17,ligue_1,20,38,1,1,1,7,6,7,3,27,16,DLDWDDWLWDWDWDWW,5,1,1,14,3,12,3,8,5,16,20,DDDWLWDWDWWDWDDW,0,3,4,6,14,LWDWWWW,DWWDWWD
+Caen,Girondins Bordeaux,4-2,/match/caen/bordeaux/1995,1995,17,ligue_1,20,38,0,4,2,20,4,1,11,14,24,WLWLWWWLWDLLWWWW,3,0,4,10,10,9,7,5,4,24,20,WLDWWLDLLWDLDWDW,2,4,1,10,8,LLWLLWW,LWDLDDD
+Olympique Lyonnais,Sochaux,4-0,/match/olympique-lyonnais/sochaux/1995,1995,17,ligue_1,20,38,0,4,0,3,7,6,3,22,19,DWLWWDWLWDDDWWDW,5,2,0,12,3,14,4,3,9,17,28,WWWDLWWWLWDWWDWL,0,1,6,4,16,WWWWDWD,WDWWWWW
+Metz,Lens,3-1,/match/metz/lens/1995,1995,17,ligue_1,20,38,0,3,1,16,4,5,7,13,21,LLWWDWDWDLDDWWWW,2,4,1,6,5,5,7,6,3,23,14,DWWLWDDLDLDWWWLD,3,2,2,9,9,LDDDDWW,WLDLDWL
+Bastia,Strasbourg,0-1,/match/bastia/strasbourg/1995,1995,17,ligue_1,20,38,2,0,1,17,5,4,7,19,25,DLLWWWLLDWLLDDLL,1,2,4,5,9,2,7,3,6,22,18,DWWWWDWDWWWWWWWL,0,2,5,2,11,LWLDLDL,WWDDWWW
+PSG,Stade Rennais,2-1,/match/paris-saint-germain-fc/stade-rennes/1995,1995,17,ligue_1,20,38,0,2,1,4,8,4,4,24,14,DWWDWWLWWDLWWLWD,5,2,0,13,3,11,6,5,5,20,25,DDWWLDWWDLLDWWWW,2,2,4,7,18,WDWWDWW,DWLWDLWW
+Monaco,Nantes,2-2,/match/monaco/nantes/1995,1995,17,ligue_1,20,38,1,2,2,13,5,5,6,13,12,LWDLWWLWDDWLDWWD,3,3,2,6,4,1,10,6,0,33,14,DLWLWDWDWLDDWDWW,3,4,0,12,8,LDWLDWDW,LLDDLDD
+Nice,FC Martigues,1-1,/match/nice/fc-martigues/1995,1995,17,ligue_1,20,38,1,1,1,19,3,4,9,13,25,WWDWWDLLDLDLWLWW,2,1,4,6,12,10,6,5,5,23,23,LDDWWWWDLWWDWWWD,2,1,5,4,13,WWDLLLL,LDWWLWWW
+Cannes,Montpellier,3-0,/match/as-cannes/montpellier-hsc/1995,1995,17,ligue_1,20,38,0,3,0,8,8,3,5,24,16,DLWWWLWWLLDWWWDL,4,3,1,14,7,18,2,7,7,14,24,LLWLLDWDDDDDWDWW,1,2,4,4,12,DWWWLDWD,WLWDDWW
+Saint-Étienne,PSG,1-3,/match/saint-etienne/paris-saint-germain-fc/1995,1995,18,ligue_1,20,38,2,1,3,8,6,5,6,22,16,DDWWWWDWWDWLDWWWW,6,2,1,20,5,3,9,4,4,26,15,DWWDWWLWWDLWWLWDW,3,2,4,11,11,DWWWWDLWW,DWWLWLWLD
+Nantes,Bastia,0-0,/match/nantes/bastia/1995,1995,18,ligue_1,20,38,1,0,0,1,10,7,0,35,16,DLWLWDWDWLDDWDWWD,7,2,0,21,6,18,5,4,8,19,26,DLLWWWLLDWLLDDLLL,4,2,3,14,16,DWWWWDWWW,DLWWLWLDL
+FC Martigues,Stade Rennais,1-0,/match/fc-martigues/stade-rennes/1995,1995,18,ligue_1,20,38,0,1,0,10,6,6,5,24,24,LDDWWWWDLWWDWWWDD,4,4,0,19,10,11,6,5,6,21,27,DDWWLDWWDLLDWWWWW,2,2,5,8,20,DWWDWDWD,DWLWDLWWW
+Monaco,Cannes,0-0,/match/monaco/as-cannes/1995,1995,18,ligue_1,20,38,1,0,0,13,5,6,6,15,14,LWDLWWLWDDWLDWWDD,3,4,2,8,6,5,9,3,5,27,16,DLWWWLWWLLDWWWDLW,4,0,4,10,9,LDWLDWDWD,LWLWLWWL
+Sochaux,Metz,4-2,/match/sochaux/metz/1995,1995,18,ligue_1,20,38,0,4,2,16,4,3,10,17,32,WWWDLWWWLWDWWDWLW,4,2,3,13,12,15,5,5,7,16,22,LLWWDWDWDLDDWWWWW,2,1,6,7,16,WWLWLDWDL,LWWWWLDWW
+Lens,Auxerre,1-1,/match/lens/auxerre/1995,1995,18,ligue_1,20,38,1,1,1,6,7,6,4,24,17,DWWLWDDLDLDWWWLDW,4,4,1,14,5,7,6,8,3,28,17,DLDWDDWLWDWDWDWWD,1,6,2,13,13,DWWDDLWWD,DDDWLDDDW
+Girondins Bordeaux,Lille,1-0,/match/bordeaux/lillestrom/1995,1995,18,ligue_1,20,38,0,1,0,9,7,5,5,26,24,WLDWWLDLLWDLDWDWW,5,1,3,14,12,14,5,4,8,12,21,DWWLWWDLWDDWWWWWW,0,3,6,2,14,WDWLLWLWW,DWWDWDWWW
+Montpellier,Nice,0-0,/match/montpellier-hsc/nice/1995,1995,18,ligue_1,20,38,1,0,0,19,2,7,8,14,27,LLWLLDWDDDDDWDWWW,1,5,3,10,12,20,3,5,9,14,26,WWDWWDLLDLDLWLWWD,1,3,5,7,13,LLLDDDDDW,WDWLDDWWW
+Le Havre,Caen,1-1,/match/havre-ac/caen/1995,1995,18,ligue_1,20,38,1,1,1,12,3,9,5,17,21,DDDWLWDWDWWDWDDWD,3,5,1,10,6,17,5,1,11,18,26,WLWLWWWLWDLLWWWWW,1,1,7,4,14,DDLDWWDDW,WWWWWDLWW
+Strasbourg,Olympique Lyonnais,1-0,/match/strasbourg/olympique-lyonnais/1995,1995,18,ligue_1,20,38,0,1,0,4,8,3,6,23,18,DWWWWDWDWWWWWWWLL,7,1,1,20,7,2,8,6,3,26,19,DWLWWDWLWDDDWWDWW,2,4,3,10,16,DWWWWWWWL,DLWDLDDWW
+Bastia,Monaco,0-2,/match/bastia/monaco/1995,1995,19,ligue_1,20,38,2,0,2,19,5,5,8,19,26,DLLWWWLLDWLLDDLLLD,1,2,5,5,10,11,5,7,6,15,14,LWDLWWLWDDWLDWWDDD,2,2,4,7,8,LWLDLDLL,WLWWDLWD
+Metz,Strasbourg,3-2,/match/metz/strasbourg/1995,1995,19,ligue_1,20,38,0,3,2,15,5,5,8,18,26,LLWWDWDWDLDDWWWWWW,3,4,1,9,6,3,9,3,6,24,18,DWWWWDWDWWWWWWWLLW,1,2,5,3,11,LDDDDWWW,WWDDWWWL
+Olympique Lyonnais,FC Martigues,3-0,/match/olympique-lyonnais/fc-martigues/1995,1995,19,ligue_1,20,38,0,3,0,4,8,6,4,26,20,DWLWWDWLWDDDWWDWWW,6,2,0,16,3,8,7,6,5,25,24,LDDWWWWDLWWDWWWDDW,2,2,5,5,14,WWWWDWDW,LDWWLWWWD
+Auxerre,Sochaux,4-0,/match/auxerre/sochaux/1995,1995,19,ligue_1,20,38,0,4,0,9,6,9,3,29,18,DLDWDDWLWDWDWDWWDD,5,2,1,15,4,16,5,3,10,21,34,WWWDLWWWLWDWWDWLWW,0,1,7,4,20,LWDWWWWD,WDWWWWWW
+Caen,Lens,0-0,/match/caen/lens/1995,1995,19,ligue_1,20,38,1,0,0,17,5,2,11,19,27,WLWLWWWLWDLLWWWWWD,4,0,4,14,12,6,7,7,4,25,18,DWWLWDDLDLDWWWLDWD,3,2,3,10,12,LLWLLWWW,WLDLDWLW
+Lille,Le Havre,1-1,/match/lillestrom/havre-ac/1995,1995,19,ligue_1,20,38,1,1,1,14,5,4,9,12,22,DWWLWWDLWDDWWWWWWW,5,1,2,10,7,13,3,10,5,18,22,DDDWLWDWDWWDWDDWDD,0,4,4,7,15,WLWLDWWW,DWWDWWDD
+PSG,Girondins Bordeaux,0-0,/match/paris-saint-germain-fc/bordeaux/1995,1995,19,ligue_1,20,38,1,0,0,2,10,4,4,29,16,DWWDWWLWWDLWWLWDWL,6,2,0,15,4,7,8,5,5,27,24,WLDWWLDLLWDLDWDWWW,2,4,2,12,12,WDWWDWWW,LWDLDDDW
+Nice,Saint-Étienne,3-0,/match/nice/saint-etienne/1995,1995,19,ligue_1,20,38,0,3,0,20,3,6,9,14,26,WWDWWDLLDLDLWLWWDD,2,2,4,7,13,10,6,5,7,23,19,DDWWWWDWWDWLDWWWWL,0,3,5,2,11,WWDLLLLD,DWDWWDWW
+Stade Rennais,Montpellier,2-2,/match/stade-rennes/montpellier-hsc/1995,1995,19,ligue_1,20,38,1,2,2,12,6,5,7,21,28,DDWWLDWWDLLDWWWWWW,4,3,1,13,7,18,2,8,8,14,27,LLWLLDWDDDDDWDWWWD,1,2,5,4,15,DWDWLDWW,WLWDDWWW
+Cannes,Nantes,0-1,/match/as-cannes/nantes/1995,1995,19,ligue_1,20,38,2,0,1,5,9,4,5,27,16,DLWWWLWWLLDWWWDLWD,5,3,1,17,7,1,10,8,0,35,16,DLWLWDWDWLDDWDWWDD,3,5,0,14,10,DWWWLDWDW,LLDDLDDD
+Saint-Étienne,FC Martigues,3-0,/match/saint-etienne/fc-martigues/1995,1995,20,ligue_1,20,38,0,3,0,10,6,5,8,23,22,DDWWWWDWWDWLDWWWWLW,6,2,2,21,8,9,7,6,6,25,27,LDDWWWWDLWWDWWWDDWW,2,2,6,5,17,DWWWWDLWWL,LDWWLWWWDW
+Girondins Bordeaux,Montpellier,2-0,/match/bordeaux/montpellier-hsc/1995,1995,20,ligue_1,20,38,0,2,0,8,8,6,5,27,24,WLDWWLDLLWDLDWDWWWD,6,1,3,15,12,19,2,9,8,16,29,LLWLLDWDDDDDWDWWWDD,1,3,5,6,17,WDWLLWLWWW,WLWDDWWWD
+Monaco,Olympique Lyonnais,1-1,/match/monaco/olympique-lyonnais/1995,1995,20,ligue_1,20,38,1,1,1,12,6,7,6,17,14,LWDLWWLWDDWLDWWDDDL,3,5,2,8,6,2,9,6,4,29,20,DWLWWDWLWDDDWWDWWWW,2,4,4,10,17,LDWLDWDWDD,DLWDLDDWWW
+Nantes,Auxerre,0-0,/match/nantes/auxerre/1995,1995,20,ligue_1,20,38,1,0,0,1,11,8,0,36,16,DLWLWDWDWLDDWDWWDDL,7,3,0,21,6,5,7,9,3,33,18,DLDWDDWLWDWDWDWWDDW,1,7,2,14,14,DWWWWDWWWD,DDDWLDDDWD
+Cannes,Caen,1-0,/match/as-cannes/caen/1995,1995,20,ligue_1,20,38,0,1,0,6,9,4,6,27,17,DLWWWLWWLLDWWWDLWDL,5,3,2,17,8,17,5,3,11,19,27,WLWLWWWLWDLLWWWWWDD,1,2,7,5,15,DWWWLDWDWL,WWWWWDLWWD
+Strasbourg,Lille,1-1,/match/strasbourg/lillestrom/1995,1995,20,ligue_1,20,38,1,1,1,4,9,3,7,26,21,DWWWWDWDWWWWWWWLLWW,8,1,1,21,7,15,5,5,9,13,23,DWWLWWDLWDDWWWWWWWD,0,3,7,2,15,DWWWWWWWLW,DWWDWDWWWW
+Lens,PSG,1-2,/match/lens/paris-saint-germain-fc/1995,1995,20,ligue_1,20,38,2,1,2,7,7,8,4,25,18,DWWLWDDLDLDWWWLDWDD,4,5,1,15,6,3,10,5,4,29,16,DWWDWWLWWDLWWLWDWLD,4,2,4,14,12,DWWDDLWWDD,DWWLWLWLDL
+Sochaux,Nice,0-1,/match/sochaux/nice/1995,1995,20,ligue_1,20,38,2,0,1,16,5,3,11,21,38,WWWDLWWWLWDWWDWLWWW,5,2,3,17,14,18,4,6,9,17,26,WWDWWDLLDLDLWLWWDDW,1,4,5,7,13,WWLWLDWDLW,WDWLDDWWWD
+Le Havre,Stade Rennais,4-0,/match/havre-ac/stade-rennes/1995,1995,20,ligue_1,20,38,0,4,0,13,3,11,5,19,23,DDDWLWDWDWWDWDDWDDD,3,6,1,11,7,11,6,6,7,23,30,DDWWLDWWDLLDWWWWWWD,2,2,6,8,21,DDLDWWDDWD,DWLWDLWWWW
+Bastia,Metz,0-3,/match/bastia/metz/1995,1995,20,ligue_1,20,38,2,0,3,20,5,5,9,19,28,DLLWWWLLDWLLDDLLLDL,1,2,6,5,12,14,6,5,8,21,28,LLWWDWDWDLDDWWWWWWW,2,1,7,9,20,LWLDLDLLL,LWWWWLDWWW
+Caen,Nantes,0-2,/match/caen/nantes/1995,1995,21,ligue_1,20,38,2,0,2,18,5,3,12,19,28,WLWLWWWLWDLLWWWWWDDW,4,1,4,14,12,1,11,9,0,36,16,DLWLWDWDWLDDWDWWDDLD,4,5,0,15,10,LLWLLWWWD,LLDDLDDDL
+Metz,Cannes,3-2,/match/metz/as-cannes/1995,1995,21,ligue_1,20,38,0,3,2,13,7,5,8,24,28,LLWWDWDWDLDDWWWWWWWL,4,4,1,12,8,5,10,4,6,28,17,DLWWWLWWLLDWWWDLWDLW,4,1,4,10,9,LDDDDWWWW,LWLWLWWLD
+Auxerre,Monaco,2-2,/match/auxerre/monaco/1995,1995,21,ligue_1,20,38,1,2,2,7,7,10,3,33,18,DLDWDDWLWDWDWDWWDDWD,6,2,1,19,4,12,6,8,6,18,15,LWDLWWLWDDWLDWWDDDLD,3,2,4,9,8,LWDWWWWDW,WLWWDLWDL
+PSG,Strasbourg,1-0,/match/paris-saint-germain-fc/strasbourg/1995,1995,21,ligue_1,20,38,0,1,0,2,11,5,4,31,17,DWWDWWLWWDLWWLWDWLDL,6,3,0,15,4,4,9,4,7,27,22,DWWWWDWDWWWWWWWLLWWD,1,2,6,5,14,WDWWDWWWD,WWDDWWWLW
+Nice,Le Havre,0-2,/match/nice/havre-ac/1995,1995,21,ligue_1,20,38,2,0,2,17,5,6,9,18,26,WWDWWDLLDLDLWLWWDDWL,3,2,4,10,13,11,4,11,5,23,23,DDDWLWDWDWWDWDDWDDDW,0,5,4,8,16,WWDLLLLDW,DWWDWWDDD
+Olympique Lyonnais,Bastia,0-0,/match/olympique-lyonnais/bastia/1995,1995,21,ligue_1,20,38,1,0,0,3,9,7,4,30,21,DWLWWDWLWDDDWWDWWWWD,7,2,0,19,3,20,5,5,10,19,31,DLLWWWLLDWLLDDLLLDLL,4,3,3,14,16,WWWWDWDWW,DLWWLWLDLD
+FC Martigues,Girondins Bordeaux,1-0,/match/fc-martigues/bordeaux/1995,1995,21,ligue_1,20,38,0,1,0,10,7,6,7,25,30,LDDWWWWDLWWDWWWDDWWW,5,4,0,20,10,6,9,6,5,29,24,WLDWWLDLLWDLDWDWWWDW,2,5,2,12,12,DWWDWDWDW,LWDLDDDWD
+Montpellier,Saint-Étienne,3-2,/match/montpellier-hsc/saint-etienne/1995,1995,21,ligue_1,20,38,0,3,2,19,2,9,9,16,31,LLWLLDWDDDDDWDWWWDDW,1,6,3,10,12,9,7,5,8,26,22,DDWWWWDWWDWLDWWWWLWW,0,3,6,2,14,LLLDDDDDWD,DWDWWDWWW
+Stade Rennais,Lens,0-1,/match/stade-rennes/lens/1995,1995,21,ligue_1,20,38,2,0,1,14,6,6,8,23,34,DDWWLDWWDLLDWWWWWWDW,4,4,1,15,9,8,7,8,5,26,20,DWWLWDDLDLDWWWLDWDDL,3,3,3,10,12,DWDWLDWWD,WLDLDWLWD
+Lille,Sochaux,1-0,/match/lillestrom/sochaux/1995,1995,21,ligue_1,20,38,0,1,0,15,5,6,9,14,24,DWWLWWDLWDDWWWWWWWDD,5,2,2,11,8,16,5,3,12,21,39,WWWDLWWWLWDWWDWLWWWL,0,1,8,4,24,WLWLDWWWD,WDWWWWWWW
+Bastia,Auxerre,0-1,/match/bastia/auxerre/1995,1995,22,ligue_1,20,38,2,0,1,20,5,6,10,19,31,DLLWWWLLDWLLDDLLLDLLD,1,2,7,5,15,5,7,11,3,35,20,DLDWDDWLWDWDWDWWDDWDD,1,8,2,14,14,LWLDLDLLLL,DDDWLDDDWDD
+Le Havre,FC Martigues,1-0,/match/havre-ac/fc-martigues/1995,1995,22,ligue_1,20,38,0,1,0,11,5,11,5,25,23,DDDWLWDWDWWDWDDWDDDWL,4,6,1,15,7,8,8,6,7,26,30,LDDWWWWDLWWDWWWDDWWWW,2,2,7,5,20,DDLDWWDDWDW,LDWWLWWWDWW
+Girondins Bordeaux,Stade Rennais,2-1,/match/bordeaux/stade-rennes/1995,1995,22,ligue_1,20,38,0,2,1,7,9,6,6,29,25,WLDWWLDLLWDLDWDWWWDWW,7,1,3,17,12,15,6,6,9,23,35,DDWWLDWWDLLDWWWWWWDWL,2,2,7,8,25,WDWLLWLWWWW,DWLWDLWWWWW
+Cannes,Nice,2-0,/match/as-cannes/nice/1995,1995,22,ligue_1,20,38,0,2,0,6,10,4,7,30,20,DLWWWLWWLLDWWWDLWDLWW,6,3,2,18,8,18,5,6,10,18,28,WWDWWDLLDLDLWLWWDDWLL,2,4,5,8,13,DWWWLDWDWLW,WDWLDDWWWDL
+Monaco,Caen,3-0,/match/monaco/caen/1995,1995,22,ligue_1,20,38,0,3,0,13,6,9,6,20,17,LWDLWWLWDDWLDWWDDDLDD,3,6,2,9,7,19,5,3,13,19,30,WLWLWWWLWDLLWWWWWDDWL,1,2,8,5,16,LDWLDWDWDDD,WWWWWDLWWDW
+Strasbourg,Saint-Étienne,1-1,/match/strasbourg/saint-etienne/1995,1995,22,ligue_1,20,38,1,1,1,4,9,4,8,27,23,DWWWWDWDWWWWWWWLLWWDW,8,2,1,22,8,12,7,5,9,28,25,DDWWWWDWWDWLDWWWWLWWW,0,3,7,4,17,DWWWWWWWLWD,DWDWWDWWWW
+Lens,Montpellier,1-1,/match/lens/montpellier-hsc/1995,1995,22,ligue_1,20,38,1,1,1,9,8,8,5,27,20,DWWLWDDLDLDWWWLDWDDLL,4,5,2,16,8,17,3,9,9,19,33,LLWLLDWDDDDDWDWWWDDWW,1,3,6,6,19,DWWDDLWWDDL,WLWDDWWWDW
+Nantes,Lille,3-0,/match/nantes/lillestrom/1995,1995,22,ligue_1,20,38,0,3,0,1,12,9,0,38,16,DLWLWDWDWLDDWDWWDDLDL,7,4,0,21,6,14,6,6,9,15,24,DWWLWWDLWDDWWWWWWWDDW,0,4,7,3,16,DWWWWDWWWDD,DWWDWDWWWWD
+Sochaux,PSG,1-2,/match/sochaux/paris-saint-germain-fc/1995,1995,22,ligue_1,20,38,2,1,2,16,5,3,13,21,40,WWWDLWWWLWDWWDWLWWWLW,5,2,4,17,15,2,12,5,4,32,17,DWWDWWLWWDLWWLWDWLDLW,5,2,4,16,13,WWLWLDWDLWL,DWWLWLWLDLL
+Metz,Olympique Lyonnais,2-1,/match/metz/olympique-lyonnais/1995,1995,22,ligue_1,20,38,0,2,1,10,8,5,8,27,30,LLWWDWDWDLDDWWWWWWWLW,5,4,1,15,10,3,9,8,4,30,21,DWLWWDWLWDDDWWDWWWWDD,2,5,4,11,18,LDDDDWWWWW,DLWDLDDWWWD
+PSG,Nantes,0-3,/match/paris-saint-germain-fc/nantes/1995,1995,23,ligue_1,20,38,2,0,3,2,13,5,4,34,18,DWWDWWLWWDLWWLWDWLDLWL,7,3,0,16,4,1,13,9,0,41,16,DLWLWDWDWLDDWDWWDDLDLW,5,5,0,17,10,WDWWDWWWDW,LLDDLDDDLL
+Nice,Strasbourg,3-4,/match/nice/strasbourg/1995,1995,23,ligue_1,20,38,2,3,4,18,5,6,11,18,30,WWDWWDLLDLDLWLWWDDWLLW,3,2,5,10,15,6,9,5,8,28,24,DWWWWDWDWWWWWWWLLWWDWD,1,2,7,5,15,WWDLLLLDWL,WWDDWWWLWW
+Saint-Étienne,Girondins Bordeaux,2-1,/match/saint-etienne/bordeaux/1995,1995,23,ligue_1,20,38,0,2,1,13,7,6,9,29,26,DDWWWWDWWDWLDWWWWLWWWD,7,2,2,24,8,5,10,6,6,31,26,WLDWWLDLLWDLDWDWWWDWWW,2,5,3,12,13,DWWWWDLWWLW,LWDLDDDWDW
+FC Martigues,Lens,0-0,/match/fc-martigues/lens/1995,1995,23,ligue_1,20,38,1,0,0,11,8,6,8,26,31,LDDWWWWDLWWDWWWDDWWWWW,6,4,0,21,10,10,8,9,5,28,21,DWWLWDDLDLDWWWLDWDDLLD,4,3,3,11,12,DWWDWDWDWW,WLDLDWLWDL
+Olympique Lyonnais,Cannes,3-1,/match/olympique-lyonnais/as-cannes/1995,1995,23,ligue_1,20,38,0,3,1,3,9,8,5,31,23,DWLWWDWLWDDDWWDWWWWDDW,7,3,0,19,3,4,11,4,7,32,20,DLWWWLWWLLDWWWDLWDLWWW,4,1,5,12,12,WWWWDWDWWD,LWLWLWWLDW
+Auxerre,Metz,1-1,/match/auxerre/metz/1995,1995,23,ligue_1,20,38,1,1,1,7,8,11,3,36,20,DLDWDDWLWDWDWDWWDDWDDL,6,3,1,21,6,8,9,5,8,29,31,LLWWDWDWDLDDWWWWWWWLWW,3,1,7,12,20,LWDWWWWDWD,LWWWWLDWWWL
+Lille,Monaco,1-0,/match/lillestrom/monaco/1995,1995,23,ligue_1,20,38,0,1,0,14,6,6,10,15,27,DWWLWWDLWDDWWWWWWWDDWW,6,2,2,12,8,12,7,9,6,23,17,LWDLWWLWDDWLDWWDDDLDDW,3,3,4,11,10,WLWLDWWWDW,WLWWDLWDLD
+Montpellier,Le Havre,2-1,/match/montpellier-hsc/havre-ac/1995,1995,23,ligue_1,20,38,0,2,1,16,3,10,9,20,34,LLWLLDWDDDDDWDWWWDDWWD,2,6,3,13,14,9,6,11,5,26,23,DDDWLWDWDWWDWDDWDDDWLW,1,5,4,10,16,LLLDDDDDWDW,DWWDWWDDDL
+Caen,Bastia,2-1,/match/caen/bastia/1995,1995,23,ligue_1,20,38,0,2,1,19,5,3,14,19,33,WLWLWWWLWDLLWWWWWDDWLW,4,1,5,14,14,20,5,6,11,19,32,DLLWWWLLDWLLDDLLLDLLDL,4,4,3,14,16,LLWLLWWWDL,DLWWLWLDLDD
+Stade Rennais,Sochaux,2-1,/match/stade-rennes/sochaux/1995,1995,23,ligue_1,20,38,0,2,1,15,6,6,10,24,37,DDWWLDWWDLLDWWWWWWDWLW,4,4,2,15,10,17,5,3,14,22,42,WWWDLWWWLWDWWDWLWWWLWL,0,1,9,4,25,DWDWLDWWDL,WDWWWWWWWW
+Metz,Caen,4-0,/match/metz/caen/1995,1995,24,ligue_1,20,38,0,4,0,11,9,6,8,30,32,LLWWDWDWDLDDWWWWWWWLWWD,6,4,1,17,11,17,6,3,14,21,34,WLWLWWWLWDLLWWWWWDDWLWW,1,2,9,5,19,LDDDDWWWWWW,WWWWWDLWWDWW
+Cannes,Girondins Bordeaux,2-0,/match/as-cannes/bordeaux/1995,1995,24,ligue_1,20,38,0,2,0,6,11,4,8,33,23,DLWWWLWWLLDWWWDLWDLWWWW,7,3,2,20,8,7,10,6,7,32,28,WLDWWLDLLWDLDWDWWWDWWWW,2,5,4,13,15,DWWWLDWDWLWW,LWDLDDDWDWW
+Olympique Lyonnais,Auxerre,3-0,/match/olympique-lyonnais/auxerre/1995,1995,24,ligue_1,20,38,0,3,0,3,10,8,5,34,24,DWLWWDWLWDDDWWDWWWWDDWW,8,3,0,22,4,5,8,12,3,37,21,DLDWDDWLWDWDWDWWDDWDDLD,2,8,2,15,14,WWWWDWDWWDW,DDDWLDDDWDDL
+Sochaux,FC Martigues,1-1,/match/sochaux/fc-martigues/1995,1995,24,ligue_1,20,38,1,1,1,18,5,3,15,23,44,WWWDLWWWLWDWWDWLWWWLWLW,5,2,5,18,17,10,8,7,8,26,31,LDDWWWWDLWWDWWWDDWWWWWD,2,2,8,5,21,WWLWLDWDLWLL,LDWWLWWWDWWW
+Strasbourg,Stade Rennais,2-2,/match/strasbourg/stade-rennes/1995,1995,24,ligue_1,20,38,1,2,2,4,10,5,8,32,27,DWWWWDWDWWWWWWWLLWWDWDL,8,3,1,23,9,15,7,6,10,26,38,DDWWLDWWDLLDWWWWWWDWLWW,2,2,8,9,27,DWWWWWWWLWDD,DWLWDLWWWWWW
+Lens,Nice,2-1,/match/lens/nice/1995,1995,24,ligue_1,20,38,0,2,1,8,8,10,5,28,21,DWWLWDDLDLDWWWLDWDDLLDD,4,6,2,17,9,19,5,6,12,21,34,WWDWWDLLDLDLWLWWDDWLLWL,2,4,6,8,15,DWWDDLWWDDLD,WDWLDDWWWDLW
+Bastia,Lille,3-1,/match/bastia/lillestrom/1995,1995,24,ligue_1,20,38,0,3,1,20,5,6,12,20,34,DLLWWWLLDWLLDDLLLDLLDLW,1,2,8,5,16,14,7,6,10,16,27,DWWLWWDLWDDWWWWWWWDDWWW,0,4,8,3,19,LWLDLDLLLLL,DWWDWDWWWWDW
+Monaco,PSG,2-1,/match/monaco/paris-saint-germain-fc/1995,1995,24,ligue_1,20,38,0,2,1,13,7,9,7,23,18,LWDLWWLWDDWLDWWDDDLDDWW,4,6,2,12,7,2,13,5,5,34,21,DWWDWWLWWDLWWLWDWLDLWLL,6,2,4,18,14,LDWLDWDWDDDW,DWWLWLWLDLLL
+Le Havre,Saint-Étienne,2-0,/match/havre-ac/saint-etienne/1995,1995,24,ligue_1,20,38,0,2,0,12,6,11,6,27,25,DDDWLWDWDWWDWDDWDDDWLWW,5,6,1,16,7,9,8,6,9,31,27,DDWWWWDWWDWLDWWWWLWWWDW,0,4,7,5,18,DDLDWWDDWDWW,DWDWWDWWWWD
+Nantes,Montpellier,3-2,/match/nantes/montpellier-hsc/1995,1995,24,ligue_1,20,38,0,3,2,1,14,9,0,44,16,DLWLWDWDWLDDWDWWDDLDLWL,8,4,0,24,6,16,4,10,9,22,35,LLWLLDWDDDDDWDWWWDDWWDW,1,4,6,7,20,DWWWWDWWWDDW,WLWDDWWWDWD
+Nice,Monaco,3-1,/match/nice/monaco/1995,1995,25,ligue_1,20,38,0,3,1,19,5,6,13,22,36,WWDWWDLLDLDLWLWWDDWLLWLW,3,2,6,13,19,12,8,9,7,25,19,LWDLWWLWDDWLDWWDDDLDDWWW,3,3,5,11,11,WWDLLLLDWLL,WLWWDLWDLDW
+Girondins Bordeaux,Le Havre,0-1,/match/bordeaux/havre-ac/1995,1995,25,ligue_1,20,38,2,0,1,9,10,6,8,32,30,WLDWWLDLLWDLDWDWWWDWWWWW,8,1,3,19,13,10,7,11,6,29,25,DDDWLWDWDWWDWDDWDDDWLWWW,1,5,5,11,18,WDWLLWLWWWWW,DWWDWWDDDLW
+Auxerre,Cannes,3-0,/match/auxerre/as-cannes/1995,1995,25,ligue_1,20,38,0,3,0,8,8,12,4,37,24,DLDWDDWLWDWDWDWWDDWDDLDW,6,4,1,22,7,4,12,4,8,35,23,DLWWWLWWLLDWWWDLWDLWWWWW,4,1,6,13,15,LWDWWWWDWDD,LWLWLWWLDWW
+Stade Rennais,Nantes,1-1,/match/stade-rennes/nantes/1995,1995,25,ligue_1,20,38,1,1,1,15,7,7,10,28,40,DDWWLDWWDLLDWWWWWWDWLWWD,5,4,2,17,11,1,15,9,0,47,18,DLWLWDWDWLDDWDWWDDLDLWLW,6,5,0,20,10,DWDWLDWWDLW,LLDDLDDDLLL
+FC Martigues,Strasbourg,0-0,/match/fc-martigues/strasbourg/1995,1995,25,ligue_1,20,38,1,0,0,11,8,8,8,27,32,LDDWWWWDLWWDWWWDDWWWWWDD,6,5,0,21,10,5,10,6,8,34,29,DWWWWDWDWWWWWWWLLWWDWDLD,2,2,7,9,18,DWWDWDWDWWD,WWDDWWWLWWL
+Caen,Olympique Lyonnais,0-1,/match/caen/olympique-lyonnais/1995,1995,25,ligue_1,20,38,2,0,1,18,6,3,15,21,38,WLWLWWWLWDLLWWWWWDDWLWWW,5,1,5,16,15,2,11,8,5,37,24,DWLWWDWLWDDDWWDWWWWDDWWW,2,5,5,12,20,LLWLLWWWDLW,DLWDLDDWWWDW
+Lille,Metz,1-0,/match/lillestrom/metz/1995,1995,25,ligue_1,20,38,0,1,0,14,7,6,11,17,30,DWWLWWDLWDDWWWWWWWDDWWWW,7,2,2,13,8,7,10,6,8,34,32,LLWWDWDWDLDDWWWWWWWLWWDW,3,2,7,13,21,WLWLDWWWDWW,LWWWWLDWWWLD
+PSG,Bastia,3-0,/match/paris-saint-germain-fc/bastia/1995,1995,25,ligue_1,20,38,0,3,0,3,13,5,6,35,23,DWWDWWLWWDLWWLWDWLDLWLLW,7,3,1,16,7,20,6,6,12,23,35,DLLWWWLLDWLLDDLLLDLLDLWW,4,4,4,15,18,WDWWDWWWDWL,DLWWLWLDLDDW
+Montpellier,Sochaux,1-0,/match/montpellier-hsc/sochaux/1995,1995,25,ligue_1,20,38,0,1,0,16,4,10,10,24,38,LLWLLDWDDDDDWDWWWDDWWDWW,3,6,3,15,15,17,5,4,15,24,45,WWWDLWWWLWDWWDWLWWWLWLWD,0,1,10,5,27,LLLDDDDDWDWW,WDWWWWWWWWW
+Saint-Étienne,Lens,1-2,/match/saint-etienne/lens/1995,1995,25,ligue_1,20,38,2,1,2,13,8,6,10,31,29,DDWWWWDWWDWLDWWWWLWWWDWW,8,2,2,26,9,6,9,10,5,30,22,DWWLWDDLDLDWWWLDWDDLLDDW,4,4,3,11,12,DWWWWDLWWLWW,WLDLDWLWDLD
+Strasbourg,Montpellier,0-0,/match/strasbourg/montpellier-hsc/1995,1995,26,ligue_1,20,38,1,0,0,6,10,7,8,34,29,DWWWWDWDWWWWWWWLLWWDWDLDD,8,4,1,25,11,16,5,10,10,25,38,LLWLLDWDDDDDWDWWWDDWWDWWW,1,4,7,9,23,DWWWWWWWLWDDD,WLWDDWWWDWDW
+Metz,PSG,2-0,/match/metz/paris-saint-germain-fc/1995,1995,26,ligue_1,20,38,0,2,0,9,10,6,9,34,33,LLWWDWDWDLDDWWWWWWWLWWDWW,7,4,1,21,11,3,14,5,6,38,23,DWWDWWLWWDLWWLWDWLDLWLLWW,6,2,5,19,16,LDDDDWWWWWWW,DWWLWLWLDLLLW
+Bastia,Nice,1-1,/match/bastia/nice/1995,1995,26,ligue_1,20,38,1,1,1,20,6,6,13,23,38,DLLWWWLLDWLLDDLLLDLLDLWWW,2,2,8,8,17,17,6,6,13,25,37,WWDWWDLLDLDLWLWWDDWLLWLWW,2,4,7,9,17,LWLDLDLLLLLW,WDWLDDWWWDLWW
+Olympique Lyonnais,Lille,3-1,/match/olympique-lyonnais/lillestrom/1995,1995,26,ligue_1,20,38,0,3,1,2,12,8,5,38,24,DWLWWDWLWDDDWWDWWWWDDWWWL,9,3,0,25,4,14,8,6,11,18,30,DWWLWWDLWDDWWWWWWWDDWWWWW,0,4,9,4,22,WWWWDWDWWDWW,DWWDWDWWWWDWW
+Auxerre,Caen,1-1,/match/auxerre/caen/1995,1995,26,ligue_1,20,38,1,1,1,4,9,12,4,40,24,DLDWDDWLWDWDWDWWDDWDDLDWW,7,4,1,25,7,19,6,3,16,21,39,WLWLWWWLWDLLWWWWWDDWLWWWL,1,2,10,5,23,LWDWWWWDWDDW,WWWWWDLWWDWWW
+Monaco,Le Havre,1-2,/match/monaco/havre-ac/1995,1995,26,ligue_1,20,38,2,1,2,12,8,9,8,26,22,LWDLWWLWDDWLDWWDDDLDDWWWW,5,6,2,14,8,8,8,11,6,30,25,DDDWLWDWDWWDWDDWDDDWLWWWL,2,5,5,12,18,LDWLDWDWDDDWW,DWWDWWDDDLWL
+Sochaux,Saint-Étienne,2-0,/match/sochaux/saint-etienne/1995,1995,26,ligue_1,20,38,0,2,0,18,5,4,16,24,46,WWWDLWWWLWDWWDWLWWWLWLWDW,5,3,5,19,18,13,8,6,11,32,31,DDWWWWDWWDWLDWWWWLWWWDWWL,0,4,8,5,20,WWLWLDWDLWLLD,DWDWWDWWWWDW
+Cannes,Stade Rennais,0-1,/match/as-cannes/stade-rennes/1995,1995,26,ligue_1,20,38,2,0,1,5,12,4,9,35,26,DLWWWLWWLLDWWWDLWDLWWWWWW,8,3,2,22,8,15,7,8,10,29,41,DDWWLDWWDLLDWWWWWWDWLWWDD,2,3,8,11,29,DWWWLDWDWLWWW,DWLWDLWWWWWWD
+Lens,Girondins Bordeaux,2-1,/match/lens/bordeaux/1995,1995,26,ligue_1,20,38,0,2,1,7,10,10,5,32,23,DWWLWDDLDLDWWWLDWDDLLDDWL,5,6,2,19,10,11,10,6,9,32,31,WLDWWLDLLWDLDWDWWWDWWWWWL,2,5,5,13,17,DWWDDLWWDDLDW,LWDLDDDWDWWW
+Nantes,FC Martigues,3-0,/match/nantes/fc-martigues/1995,1995,26,ligue_1,20,38,0,3,0,1,15,10,0,48,19,DLWLWDWDWLDDWDWWDDLDLWLWD,9,4,0,27,8,10,8,9,8,27,32,LDDWWWWDLWWDWWWDDWWWWWDDD,2,3,8,6,22,DWWWWDWWWDDWW,LDWWLWWWDWWWD
+PSG,Olympique Lyonnais,4-1,/match/paris-saint-germain-fc/olympique-lyonnais/1995,1995,27,ligue_1,20,38,0,4,1,3,14,5,7,38,25,DWWDWWLWWDLWWLWDWLDLWLLWWW,8,3,1,19,7,2,13,8,5,41,25,DWLWWDWLWDDDWWDWWWWDDWWWLW,3,5,5,13,20,WDWWDWWWDWLW,DLWDLDDWWWDWL
+Saint-Étienne,Nantes,1-1,/match/saint-etienne/nantes/1995,1995,27,ligue_1,20,38,1,1,1,13,8,6,12,32,33,DDWWWWDWWDWLDWWWWLWWWDWWLW,8,2,3,27,11,1,16,10,0,51,19,DLWLWDWDWLDDWDWWDDLDLWLWDW,6,6,0,21,11,DWWWWDLWWLWWL,LLDDLDDDLLLD
+Caen,Strasbourg,4-0,/match/caen/strasbourg/1995,1995,27,ligue_1,20,38,0,4,0,19,6,4,16,22,40,WLWLWWWLWDLLWWWWWDDWLWWWLD,5,1,6,16,16,6,10,8,8,34,29,DWWWWDWDWWWWWWWLLWWDWDLDDD,2,3,7,9,18,LLWLLWWWDLWL,WWDDWWWLWWLD
+Montpellier,Bastia,0-0,/match/montpellier-hsc/bastia/1995,1995,27,ligue_1,20,38,1,0,0,16,5,11,10,25,38,LLWLLDWDDDDDWDWWWDDWWDWWWD,4,6,3,16,15,20,6,7,13,24,39,DLLWWWLLDWLLDDLLLDLLDLWWWD,4,4,5,15,21,LLLDDDDDWDWWW,DLWWLWLDLDDWW
+FC Martigues,Cannes,0-0,/match/fc-martigues/as-cannes/1995,1995,27,ligue_1,20,38,1,0,0,11,8,9,9,27,35,LDDWWWWDLWWDWWWDDWWWWWDDDW,6,6,0,21,10,8,12,4,10,35,27,DLWWWLWWLLDWWWDLWDLWWWWWWL,4,1,7,13,18,DWWDWDWDWWDD,LWLWLWWLDWWW
+Stade Rennais,Monaco,1-3,/match/stade-rennes/monaco/1995,1995,27,ligue_1,20,38,2,1,3,15,8,8,10,30,41,DDWWLDWWDLLDWWWWWWDWLWWDDL,5,5,2,18,12,12,8,9,9,27,24,LWDLWWLWDDWLDWWDDDLDDWWWWL,3,3,6,12,14,DWDWLDWWDLWD,WLWWDLWDLDWW
+Le Havre,Lens,2-3,/match/havre-ac/lens/1995,1995,27,ligue_1,20,38,2,2,3,9,9,11,6,32,26,DDDWLWDWDWWDWDDWDDDWLWWWLL,6,6,1,18,7,5,11,10,5,34,24,DWWLWDDLDLDWWWLDWDDLLDDWLW,5,4,3,13,13,DDLDWWDDWDWWW,WLDLDWLWDLDL
+Nice,Metz,1-0,/match/nice/metz/1995,1995,27,ligue_1,20,38,0,1,0,18,6,7,13,26,38,WWDWWDLLDLDLWLWWDDWLLWLWWD,4,2,6,16,20,7,11,6,9,36,33,LLWWDWDWDLDDWWWWWWWLWWDWWW,3,2,8,13,22,WWDLLLLDWLLW,LWWWWLDWWWLDW
+Girondins Bordeaux,Sochaux,2-1,/match/bordeaux/sochaux/1995,1995,27,ligue_1,20,38,0,2,1,10,10,6,10,33,33,WLDWWLDLLWDLDWDWWWDWWWWWLW,8,1,4,19,14,17,6,4,16,26,46,WWWDLWWWLWDWWDWLWWWLWLWDWW,0,1,11,5,28,WDWLLWLWWWWWL,WDWWWWWWWWWW
+Lille,Auxerre,0-0,/match/lillestrom/auxerre/1995,1995,27,ligue_1,20,38,1,0,0,14,8,6,12,19,33,DWWLWWDLWDDWWWWWWWDDWWWWWW,8,2,2,14,8,4,9,13,4,41,25,DLDWDDWLWDWDWDWWDDWDDLDWWD,2,8,3,15,17,WLWLDWWWDWWW,DDDWLDDDWDDLW
+Olympique Lyonnais,Saint-Étienne,1-0,/match/olympique-lyonnais/saint-etienne/1995,1995,28,ligue_1,20,38,0,1,0,2,13,8,6,42,29,DWLWWDWLWDDDWWDWWWWDDWWWLWW,10,3,0,28,5,13,8,7,12,33,34,DDWWWWDWWDWLDWWWWLWWWDWWLWD,0,4,9,5,22,WWWWDWDWWDWWW,DWDWWDWWWWDWW
+Caen,Lille,2-0,/match/caen/lillestrom/1995,1995,28,ligue_1,20,38,0,2,0,19,7,4,16,26,40,WLWLWWWLWDLLWWWWWDDWLWWWLDW,6,1,6,20,16,14,8,7,12,19,33,DWWLWWDLWDDWWWWWWWDDWWWWWWD,0,4,10,5,25,LLWLLWWWDLWLW,DWWDWDWWWWDWWW
+Bastia,FC Martigues,2-0,/match/bastia/fc-martigues/1995,1995,28,ligue_1,20,38,0,2,0,20,6,8,13,24,39,DLLWWWLLDWLLDDLLLDLLDLWWWDD,2,3,8,9,18,11,8,10,9,27,35,LDDWWWWDLWWDWWWDDWWWWWDDDWD,2,3,9,6,25,LWLDLDLLLLLWD,LDWWLWWWDWWWDW
+Nantes,Nice,2-1,/match/nantes/nice/1995,1995,28,ligue_1,20,38,0,2,1,1,16,11,0,52,20,DLWLWDWDWLDDWDWWDDLDLWLWDWD,10,4,0,30,8,17,7,7,13,27,38,WWDWWDLLDLDLWLWWDDWLLWLWWDW,2,5,7,10,18,DWWWWDWWWDDWWW,WDWLDDWWWDLWWD
+Cannes,Lens,2-0,/match/as-cannes/lens/1995,1995,28,ligue_1,20,38,0,2,0,8,12,5,10,35,27,DLWWWLWWLLDWWWDLWDLWWWWWWLD,8,3,3,22,9,4,12,10,5,37,26,DWWLWDDLDLDWWWLDWDDLLDDWLWL,6,4,3,16,15,DWWWLDWDWLWWWL,WLDLDWLWDLDLL
+Sochaux,Le Havre,0-1,/match/sochaux/havre-ac/1995,1995,28,ligue_1,20,38,2,0,1,18,6,4,17,27,48,WWWDLWWWLWDWWDWLWWWLWLWDWWW,6,3,5,21,18,9,9,11,7,34,29,DDDWLWDWDWWDWDDWDDDWLWWWLLL,3,5,5,14,19,WWLWLDWDLWLLDW,DWWDWWDDDLWLL
+Strasbourg,Girondins Bordeaux,1-1,/match/strasbourg/bordeaux/1995,1995,28,ligue_1,20,38,1,1,1,6,10,8,9,34,33,DWWWWDWDWWWWWWWLLWWDWDLDDDW,8,5,1,25,11,10,11,6,10,35,34,WLDWWLDLLWDLDWDWWWDWWWWWLWW,2,5,6,14,19,DWWWWWWWLWDDDD,LWDLDDDWDWWWW
+Monaco,Montpellier,2-0,/match/monaco/montpellier-hsc/1995,1995,28,ligue_1,20,38,0,2,0,12,9,9,9,30,25,LWDLWWLWDDWLDWWDDDLDDWWWWLL,5,6,3,15,10,16,5,12,10,25,38,LLWLLDWDDDDDWDWWWDDWWDWWWDD,1,5,7,9,23,LDWLDWDWDDDWWL,WLWDDWWWDWDWD
+Metz,Stade Rennais,1-0,/match/metz/stade-rennes/1995,1995,28,ligue_1,20,38,0,1,0,7,11,6,10,36,34,LLWWDWDWDLDDWWWWWWWLWWDWWWW,8,4,1,23,11,15,8,8,11,31,44,DDWWLDWWDLLDWWWWWWDWLWWDDLL,3,3,8,12,29,LDDDDWWWWWWWW,DWLWDLWWWWWWDL
+Auxerre,PSG,1-1,/match/auxerre/paris-saint-germain-fc/1995,1995,28,ligue_1,20,38,1,1,1,5,9,14,4,41,25,DLDWDDWLWDWDWDWWDDWDDLDWWDD,7,5,1,26,8,3,15,5,7,42,26,DWWDWWLWWDLWWLWDWLDLWLLWWWW,6,2,6,19,18,LWDWWWWDWDDWD,DWWLWLWLDLLLWW
+Nice,Olympique Lyonnais,1-2,/match/nice/olympique-lyonnais/1995,1995,29,ligue_1,20,38,2,1,2,18,7,7,14,28,40,WWDWWDLLDLDLWLWWDDWLLWLWWDWW,5,2,6,17,20,2,14,8,6,43,29,DWLWWDWLWDDDWWDWWWWDDWWWLWWW,3,5,6,14,24,WWDLLLLDWLLWW,DLWDLDDWWWDWLW
+Lens,Sochaux,1-0,/match/lens/sochaux/1995,1995,29,ligue_1,20,38,0,1,0,5,12,10,6,37,28,DWWLWDDLDLDWWWLDWDDLLDDWLWLW,6,6,2,21,11,19,6,4,18,27,49,WWWDLWWWLWDWWDWLWWWLWLWDWWWL,0,1,12,6,30,DWWDDLWWDDLDWW,WDWWWWWWWWWWW
+Lille,Cannes,0-3,/match/lillestrom/as-cannes/1995,1995,29,ligue_1,20,38,2,0,3,14,8,7,13,19,35,DWWLWWDLWDDWWWWWWWDDWWWWWWDW,8,3,2,14,8,7,13,5,10,37,27,DLWWWLWWLLDWWWDLWDLWWWWWWLDW,4,2,7,13,18,WLWLDWWWDWWWD,LWLWLWWLDWWWD
+Saint-Étienne,Auxerre,1-1,/match/saint-etienne/auxerre/1995,1995,29,ligue_1,20,38,1,1,1,13,8,7,13,33,35,DDWWWWDWWDWLDWWWWLWWWDWWLWDW,8,3,3,28,12,4,9,15,4,42,26,DLDWDDWLWDWDWDWWDDWDDLDWWDDD,2,9,3,15,17,DWWWWDLWWLWWLD,DDDWLDDDWDDLWD
+Stade Rennais,Bastia,2-2,/match/stade-rennes/bastia/1995,1995,29,ligue_1,20,38,1,2,2,15,8,8,12,31,45,DDWWLDWWDLLDWWWWWWDWLWWDDLLW,5,5,3,19,15,20,7,8,13,26,39,DLLWWWLLDWLLDDLLLDLLDLWWWDDW,4,5,5,15,21,DWDWLDWWDLWDL,DLWWLWLDLDDWWD
+FC Martigues,Monaco,1-1,/match/fc-martigues/monaco/1995,1995,29,ligue_1,20,38,1,1,1,12,8,10,10,27,37,LDDWWWWDLWWDWWWDDWWWWWDDDWDW,6,7,0,21,10,11,10,9,9,32,25,LWDLWWLWDDWLDWWDDDLDDWWWWLLW,4,3,6,15,15,DWWDWDWDWWDDD,WLWWDLWDLDWWL
+Montpellier,Metz,2-0,/match/montpellier-hsc/metz/1995,1995,29,ligue_1,20,38,0,2,0,16,5,12,11,25,40,LLWLLDWDDDDDWDWWWDDWWDWWWDDW,4,7,3,16,15,6,12,6,10,37,34,LLWWDWDWDLDDWWWWWWWLWWDWWWWW,3,2,9,13,23,LLLDDDDDWDWWWD,LWWWWLDWWWLDWW
+Girondins Bordeaux,Nantes,1-1,/match/bordeaux/nantes/1995,1995,29,ligue_1,20,38,1,1,1,10,11,7,10,36,35,WLDWWLDLLWDLDWDWWWDWWWWWLWWD,9,1,4,21,15,1,17,11,0,54,21,DLWLWDWDWLDDWDWWDDLDLWLWDWDW,6,7,0,22,12,WDWLLWLWWWWWLW,LLDDLDDDLLLDD
+Le Havre,Strasbourg,1-0,/match/havre-ac/strasbourg/1995,1995,29,ligue_1,20,38,0,1,0,9,10,11,7,35,29,DDDWLWDWDWWDWDDWDDDWLWWWLLLL,6,6,2,20,10,8,10,9,9,35,34,DWWWWDWDWWWWWWWLLWWDWDLDDDWD,2,3,8,9,22,DDLDWWDDWDWWWL,WWDDWWWLWWLDW
+PSG,Caen,2-0,/match/paris-saint-germain-fc/caen/1995,1995,29,ligue_1,20,38,0,2,0,3,15,6,7,43,27,DWWDWWLWWDLWWLWDWLDLWLLWWWWD,9,3,1,23,8,17,8,4,16,28,40,WLWLWWWLWDLLWWWWWDDWLWWWLDWW,1,3,10,6,24,WDWWDWWWDWLWW,WWWWWDLWWDWWWD
+Auxerre,Stade Rennais,2-2,/match/auxerre/stade-rennes/1995,1995,30,ligue_1,20,38,1,2,2,5,9,16,4,43,27,DLDWDDWLWDWDWDWWDDWDDLDWWDDDD,7,6,1,27,9,15,8,9,12,33,47,DDWWLDWWDLLDWWWWWWDWLWWDDLLWD,3,3,9,12,30,LWDWWWWDWDDWDD,DWLWDLWWWWWWDLW
+Caen,Nice,0-0,/match/caen/nice/1995,1995,30,ligue_1,20,38,1,0,0,17,8,4,17,28,42,WLWLWWWLWDLLWWWWWDDWLWWWLDWWW,7,1,6,22,16,18,7,7,15,29,42,WWDWWDLLDLDLWLWWDDWLLWLWWDWWL,2,5,8,11,20,LLWLLWWWDLWLWW,WDWLDDWWWDLWWDW
+Bastia,Saint-Étienne,2-1,/match/bastia/saint-etienne/1995,1995,30,ligue_1,20,38,0,2,1,19,7,9,13,28,41,DLLWWWLLDWLLDDLLLDLLDLWWWDDWD,3,3,8,11,18,13,8,8,13,34,36,DDWWWWDWWDWLDWWWWLWWWDWWLWDWD,0,4,10,5,23,LWLDLDLLLLLWDW,DWDWWDWWWWDWWW
+Monaco,Girondins Bordeaux,6-3,/match/monaco/bordeaux/1995,1995,30,ligue_1,20,38,0,6,3,11,10,10,9,33,26,LWDLWWLWDDWLDWWDDDLDDWWWWLLWD,6,6,3,17,10,10,11,8,10,37,36,WLDWWLDLLWDLDWDWWWDWWWWWLWWDD,2,6,6,15,20,LDWLDWDWDDDWWLW,LWDLDDDWDWWWWD
+Nantes,Le Havre,3-2,/match/nantes/havre-ac/1995,1995,30,ligue_1,20,38,0,3,2,1,17,12,0,55,22,DLWLWDWDWLDDWDWWDDLDLWLWDWDWD,11,4,0,32,9,7,11,11,7,36,29,DDDWLWDWDWWDWDDWDDDWLWWWLLLLW,4,5,5,15,19,DWWWWDWWWDDWWWW,DWWDWWDDDLWLLL
+Cannes,Sochaux,0-0,/match/as-cannes/sochaux/1995,1995,30,ligue_1,20,38,1,0,0,6,14,5,10,40,27,DLWWWLWWLLDWWWDLWDLWWWWWWLDWL,9,3,3,24,9,20,6,4,19,27,50,WWWDLWWWLWDWWDWLWWWLWLWDWWWLW,0,1,13,6,31,DWWWLDWDWLWWWLW,WDWWWWWWWWWWWW
+Olympique Lyonnais,Montpellier,2-1,/match/olympique-lyonnais/montpellier-hsc/1995,1995,30,ligue_1,20,38,0,2,1,2,15,8,6,45,30,DWLWWDWLWDDDWWDWWWWDDWWWLWWWL,11,3,0,29,5,16,6,12,11,27,40,LLWLLDWDDDDDWDWWWDDWWDWWWDDWW,1,5,8,9,25,WWWWDWDWWDWWWW,WLWDDWWWDWDWDW
+Metz,FC Martigues,0-0,/match/metz/fc-martigues/1995,1995,30,ligue_1,20,38,1,0,0,8,12,6,11,37,36,LLWWDWDWDLDDWWWWWWWLWWDWWWWWW,9,4,1,24,11,12,8,11,10,28,38,LDDWWWWDLWWDWWWDDWWWWWDDDWDWD,2,3,10,6,27,LDDDDWWWWWWWWW,LDWWLWWWDWWWDWW
+Lille,PSG,1-0,/match/lillestrom/paris-saint-germain-fc/1995,1995,30,ligue_1,20,38,0,1,0,14,8,7,14,19,38,DWWLWWDLWDDWWWWWWWDDWWWWWWDWL,8,3,3,14,11,3,16,6,7,45,27,DWWDWWLWWDLWWLWDWLDLWLLWWWWDW,6,3,6,20,19,WLWLDWWWDWWWDL,DWWLWLWLDLLLWWD
+Strasbourg,Lens,0-0,/match/strasbourg/lens/1995,1995,30,ligue_1,20,38,1,0,0,9,10,9,10,35,35,DWWWWDWDWWWWWWWLLWWDWDLDDDWDW,8,6,1,26,12,4,13,10,6,38,28,DWWLWDDLDLDWWWLDWDDLLDDWLWLWW,6,4,4,16,17,DWWWWWWWLWDDDDD,WLDLDWLWDLDLLW
+Le Havre,Metz,0-3,/match/havre-ac/metz/1995,1995,31,ligue_1,20,38,2,0,3,8,11,11,8,38,32,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWW,7,6,2,21,10,7,12,7,11,37,36,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWD,3,2,10,13,25,DDLDWWDDWDWWWLW,LWWWWLDWWWLDWWW
+PSG,Cannes,2-1,/match/paris-saint-germain-fc/as-cannes/1995,1995,31,ligue_1,20,38,0,2,1,3,16,6,8,45,28,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWW,10,3,1,25,8,6,14,6,10,40,27,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLD,5,2,7,16,18,WDWWDWWWDWLWWW,LWLWLWWLDWWWDL
+Saint-Étienne,Monaco,1-0,/match/saint-etienne/monaco/1995,1995,31,ligue_1,20,38,0,1,0,14,8,8,14,35,38,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDW,8,4,3,29,13,10,11,10,9,39,29,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDW,4,4,6,16,16,DWWWWDLWWLWWLDD,WLWWDLWDLDWWLD
+Nice,Lille,1-0,/match/nice/lillestrom/1995,1995,31,ligue_1,20,38,0,1,0,19,7,8,15,29,42,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLD,5,2,7,18,22,13,9,7,14,20,38,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLW,0,4,11,5,27,WWDLLLLDWLLWWL,DWWDWDWWWWDWWWW
+Montpellier,Caen,3-2,/match/montpellier-hsc/caen/1995,1995,31,ligue_1,20,38,0,3,2,16,6,12,12,28,42,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWW,5,7,3,18,15,17,8,5,17,28,42,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWD,1,3,11,6,26,LLLDDDDDWDWWWDW,WWWWWDLWWDWWWDW
+Stade Rennais,Olympique Lyonnais,1-1,/match/stade-rennes/olympique-lyonnais/1995,1995,31,ligue_1,20,38,1,1,1,15,8,10,12,35,49,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDD,5,6,3,21,17,2,16,8,6,47,31,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLW,4,5,6,16,25,DWDWLDWWDLWDLD,DLWDLDDWWWDWLWL
+Girondins Bordeaux,Bastia,1-0,/match/bordeaux/bastia/1995,1995,31,ligue_1,20,38,0,1,0,11,11,8,11,40,42,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDW,9,2,4,22,16,18,8,9,13,30,42,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDW,4,6,5,17,23,WDWLLWLWWWWWLWD,DLWWLWLDLDDWWDD
+FC Martigues,Auxerre,2-1,/match/fc-martigues/auxerre/1995,1995,31,ligue_1,20,38,0,2,1,12,8,12,10,28,38,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDD,6,8,0,22,11,5,9,17,4,45,29,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDD,2,10,3,16,18,DWWDWDWDWWDDDD,DDDWLDDDWDDLWDD
+Sochaux,Strasbourg,0-1,/match/sochaux/strasbourg/1995,1995,31,ligue_1,20,38,2,0,1,20,6,5,19,27,50,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWD,6,3,6,21,19,9,10,10,10,35,35,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWD,2,3,9,9,23,WWLWLDWDLWLLDWL,WWDDWWWLWWLDWW
+Lens,Nantes,1-1,/match/lens/nantes/1995,1995,31,ligue_1,20,38,1,1,1,4,13,11,6,38,28,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWD,7,6,2,22,11,1,18,12,0,58,24,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDW,6,8,0,23,13,DWWDDLWWDDLDWWW,LLDDLDDDLLLDDD
+Olympique Lyonnais,Lens,1-1,/match/olympique-lyonnais/lens/1995,1995,32,ligue_1,20,38,1,1,1,2,16,9,6,48,32,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLWD,12,3,0,31,6,4,13,12,6,39,29,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWDD,6,5,4,16,17,WWWWDWDWWDWWWWW,WLDLDWLWDLDLLWD
+PSG,Nice,2-3,/match/paris-saint-germain-fc/nice/1995,1995,32,ligue_1,20,38,2,2,3,3,17,6,8,47,29,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWWW,11,3,1,27,9,17,8,8,15,30,42,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLDW,2,6,8,11,20,WDWWDWWWDWLWWWW,WDWLDDWWWDLWWDWD
+Caen,FC Martigues,0-1,/match/caen/fc-martigues/1995,1995,32,ligue_1,20,38,2,0,1,18,8,5,18,30,45,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWDW,7,2,6,22,16,12,9,12,10,30,39,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDDW,2,4,10,6,27,LLWLLWWWDLWLWWD,LDWWLWWWDWWWDWWD
+Lille,Stade Rennais,1-0,/match/lillestrom/stade-rennes/1995,1995,32,ligue_1,20,38,0,1,0,14,9,7,15,20,39,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLWW,9,3,3,15,11,16,8,11,12,36,50,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDDD,3,4,9,14,32,WLWLDWWWDWWWDLW,DWLWDLWWWWWWDLWD
+Nantes,Sochaux,2-0,/match/nantes/sochaux/1995,1995,32,ligue_1,20,38,0,2,0,1,18,13,0,59,25,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDWD,12,4,0,35,11,20,6,5,20,27,51,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWDL,0,2,13,6,31,DWWWWDWWWDDWWWWW,WDWWWWWWWWWWWWD
+Bastia,Le Havre,3-2,/match/bastia/havre-ac/1995,1995,32,ligue_1,20,38,0,3,2,19,8,9,14,30,43,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDWW,4,3,8,13,19,10,11,11,9,38,35,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWWL,4,5,6,17,22,LWLDLDLLLLLWDWW,DWWDWWDDDLWLLLW
+Metz,Girondins Bordeaux,2-3,/match/metz/bordeaux/1995,1995,32,ligue_1,20,38,2,2,3,7,13,7,11,40,36,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWDL,9,5,1,24,11,9,12,8,11,41,42,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDWW,2,6,7,18,26,LDDDDWWWWWWWWWD,LWDLDDDWDWWWWDW
+Cannes,Saint-Étienne,4-1,/match/as-cannes/saint-etienne/1995,1995,32,ligue_1,20,38,0,4,1,6,14,6,11,41,29,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLDW,9,4,3,24,9,13,9,8,14,36,38,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDWW,0,4,11,6,25,DWWWLDWDWLWWWLWD,DWDWWDWWWWDWWWW
+Auxerre,Montpellier,0-1,/match/auxerre/montpellier-hsc/1995,1995,32,ligue_1,20,38,2,0,1,5,9,17,5,46,31,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDDW,7,7,1,29,11,15,7,12,12,31,44,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWWW,1,5,9,10,27,LWDWWWWDWDDWDDD,WLWDDWWWDWDWDWW
+Monaco,Strasbourg,3-1,/match/monaco/strasbourg/1995,1995,32,ligue_1,20,38,0,3,1,11,11,10,10,39,30,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDWW,7,6,3,23,13,8,11,10,10,36,35,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWDL,3,3,9,10,23,LDWLDWDWDDDWWLWW,WWDDWWWLWWLDWWL
+Le Havre,Cannes,1-0,/match/havre-ac/as-cannes/1995,1995,33,ligue_1,20,38,0,1,0,12,11,11,10,40,38,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWWLW,7,6,3,21,13,5,15,6,11,45,30,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLDWW,5,2,8,17,20,DDLDWWDDWDWWWLWL,LWLWLWWLDWWWDLW
+Lens,Bastia,3-0,/match/lens/bastia/1995,1995,33,ligue_1,20,38,0,3,0,4,13,13,6,40,30,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWDDD,7,7,2,23,12,18,9,9,14,33,45,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDWWW,4,6,6,17,24,DWWDDLWWDDLDWWWD,DLWWLWLDLDDWWDDW
+Stade Rennais,Caen,5-0,/match/stade-rennes/caen/1995,1995,33,ligue_1,20,38,0,5,0,16,8,11,13,36,51,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDDDW,5,7,3,22,18,19,8,5,19,30,46,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWDWL,1,3,12,8,29,DWDWLDWWDLWDLDD,WWWWWDLWWDWWWDWW
+Sochaux,Monaco,0-5,/match/sochaux/monaco/1995,1995,33,ligue_1,20,38,2,0,5,20,6,5,21,27,53,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWDLW,6,3,7,21,20,7,12,10,10,42,31,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDWWW,4,4,7,16,17,WWLWLDWDLWLLDWLL,WLWWDLWDLDWWLDW
+Strasbourg,Nantes,2-0,/match/strasbourg/nantes/1995,1995,33,ligue_1,20,38,0,2,0,10,11,10,11,37,38,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWDLW,8,7,1,26,12,1,19,13,0,61,25,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDWDW,6,9,0,24,14,DWWWWWWWLWDDDDDD,LLDDLDDDLLLDDDD
+Saint-Étienne,Metz,0-1,/match/saint-etienne/metz/1995,1995,33,ligue_1,20,38,2,0,1,14,9,8,15,37,42,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDWWW,9,4,3,30,13,8,13,7,12,42,39,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWDLL,4,2,10,16,25,DWWWWDLWWLWWLDDW,LWWWWLDWWWLDWWWL
+FC Martigues,Lille,1-0,/match/fc-martigues/lillestrom/1995,1995,33,ligue_1,20,38,0,1,0,11,10,12,10,31,39,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDDWL,7,8,0,24,12,13,10,7,15,21,39,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLWWW,0,4,12,5,28,DWWDWDWDWWDDDDW,DWWDWDWWWWDWWWWW
+Nice,Auxerre,1-3,/match/nice/auxerre/1995,1995,33,ligue_1,20,38,2,1,3,17,9,8,15,33,44,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLDWL,6,2,7,19,22,9,9,17,6,46,32,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDDWL,2,10,4,17,20,WWDLLLLDWLLWWLW,DDDWLDDDWDDLWDDW
+Girondins Bordeaux,Olympique Lyonnais,1-1,/match/bordeaux/olympique-lyonnais/1995,1995,33,ligue_1,20,38,1,1,1,6,13,8,11,44,44,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDWWL,10,2,4,23,16,2,16,10,6,49,33,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLWDD,4,6,6,17,26,WDWLLWLWWWWWLWDW,DLWDLDDWWWDWLWLD
+Montpellier,PSG,0-3,/match/montpellier-hsc/paris-saint-germain-fc/1995,1995,33,ligue_1,20,38,2,0,3,15,8,12,12,32,44,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWWWL,6,7,3,21,17,3,17,6,9,49,32,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWWWL,6,3,7,20,20,LLLDDDDDWDWWWDWW,DWWLWLWLDLLLWWDW
+Bastia,Sochaux,1-0,/match/bastia/sochaux/1995,1995,34,ligue_1,20,38,0,1,0,18,9,9,15,33,48,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDWWWW,5,3,8,16,21,20,6,5,22,27,58,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWDLWL,0,2,14,6,33,LWLDLDLLLLLWDWWW,WDWWWWWWWWWWWWDW
+PSG,FC Martigues,3-0,/match/paris-saint-germain-fc/fc-martigues/1995,1995,34,ligue_1,20,38,0,3,0,3,18,6,9,52,32,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWWWLL,11,3,2,29,12,8,11,12,10,32,39,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDDWLW,3,4,10,7,27,WDWWDWWWDWLWWWWL,LDWWLWWWDWWWDWWDL
+Cannes,Strasbourg,2-2,/match/as-cannes/strasbourg/1995,1995,34,ligue_1,20,38,1,2,2,5,15,6,12,45,31,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLDWWW,10,4,3,28,10,6,12,10,11,39,38,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWDLWW,3,3,10,11,26,DWWWLDWDWLWWWLWDW,WWDDWWWLWWLDWWLW
+Nice,Stade Rennais,1-0,/match/nice/stade-rennes/1995,1995,34,ligue_1,20,38,0,1,0,17,9,8,16,34,47,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLDWLL,6,2,8,20,25,15,9,11,13,41,51,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDDDWW,3,4,10,14,33,WWDLLLLDWLLWWLWL,DWLWDLWWWWWWDLWDW
+Monaco,Lens,6-0,/match/monaco/lens/1995,1995,34,ligue_1,20,38,0,6,0,10,13,10,10,47,31,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDWWWL,8,6,3,26,14,4,14,13,6,43,30,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWDDDW,6,6,4,17,18,LDWLDWDWDDDWWLWWW,WLDLDWLWDLDLLWDD
+Lille,Montpellier,0-0,/match/lillestrom/montpellier-hsc/1995,1995,34,ligue_1,20,38,1,0,0,13,10,7,16,21,40,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLWWWW,10,3,3,16,11,16,8,12,13,32,47,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWWWLL,2,5,9,11,27,WLWLDWWWDWWWDLWW,WLWDDWWWDWDWDWWL
+Metz,Nantes,0-2,/match/metz/nantes/1995,1995,34,ligue_1,20,38,2,0,2,9,14,7,12,43,39,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWDLLL,9,5,2,26,14,1,19,13,1,61,27,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDWDWW,6,9,1,24,16,LDDDDWWWWWWWWWDL,LLDDLDDDLLLDDDDW
+Olympique Lyonnais,Le Havre,2-0,/match/olympique-lyonnais/havre-ac/1995,1995,34,ligue_1,20,38,0,2,0,2,16,11,6,50,34,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLWDDD,12,4,0,32,7,12,12,11,10,41,38,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWWLWW,4,5,7,19,25,WWWWDWDWWDWWWWWD,DWWDWWDDDLWLLLWW
+Caen,Saint-Étienne,3-0,/match/caen/saint-etienne/1995,1995,34,ligue_1,20,38,0,3,0,19,8,5,20,30,51,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWDWLW,7,2,7,22,17,14,9,8,16,37,43,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDWWWL,0,4,12,7,29,LLWLLWWWDLWLWWDL,DWDWWDWWWWDWWWWW
+Auxerre,Girondins Bordeaux,1-0,/match/auxerre/bordeaux/1995,1995,34,ligue_1,20,38,0,1,0,7,10,17,6,49,33,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDDWLL,7,7,2,29,12,11,13,9,11,45,45,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDWWLD,3,6,7,21,28,LWDWWWWDWDDWDDDL,LWDLDDDWDWWWWDWL
+Nantes,Monaco,3-3,/match/nantes/monaco/1995,1995,35,ligue_1,20,38,1,3,3,1,20,13,1,63,27,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDWDWWL,13,4,0,37,11,5,14,10,10,53,31,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDWWWLW,5,4,7,21,17,DWWWWDWWWDDWWWWWW,WLWWDLWDLDWWLDWL
+Strasbourg,Bastia,1-1,/match/strasbourg/bastia/1995,1995,35,ligue_1,20,38,1,1,1,8,12,11,11,41,40,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWDLWWD,9,7,1,28,12,18,10,9,15,34,48,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDWWWWW,4,6,7,17,27,DWWWWWWWLWDDDDDDW,DLWWLWLDLDDWWDDWW
+Lens,Metz,2-2,/match/lens/metz/1995,1995,35,ligue_1,20,38,1,2,2,4,14,13,7,43,36,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWDDDWW,8,7,2,26,12,10,14,7,13,43,41,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWDLLLL,5,2,10,17,25,DWWDDLWWDDLDWWWDW,LWWWWLDWWWLDWWWLL
+Sochaux,Olympique Lyonnais,1-2,/match/sochaux/olympique-lyonnais/1995,1995,35,ligue_1,20,38,2,1,2,20,6,5,23,27,59,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWDLWLW,6,3,8,21,25,2,17,11,6,52,34,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLWDDDW,4,7,6,18,27,WWLWLDWDLWLLDWLLL,DLWDLDDWWWDWLWLDD
+Le Havre,Auxerre,1-4,/match/havre-ac/auxerre/1995,1995,35,ligue_1,20,38,2,1,4,12,12,11,11,41,40,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWWLWWW,8,6,3,22,13,7,11,17,6,50,33,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDDWLLW,3,10,4,20,21,DDLDWWDDWDWWWLWLW,DDDWLDDDWDDLWDDWL
+Stade Rennais,PSG,4-0,/match/stade-rennes/paris-saint-germain-fc/1995,1995,35,ligue_1,20,38,0,4,0,15,9,11,14,41,52,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDDDWWW,6,7,3,27,18,3,19,6,9,55,32,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWWWLLW,7,3,7,23,20,DWDWLDWWDLWDLDDW,DWWLWLWLDLLLWWDWL
+Montpellier,Cannes,5-3,/match/montpellier-hsc/as-cannes/1995,1995,35,ligue_1,20,38,0,5,3,16,8,13,13,32,47,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWWWLLD,6,7,4,21,20,6,15,7,12,47,33,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLDWWWD,5,2,9,17,21,LLLDDDDDWDWWWDWWL,LWLWLWWLDWWWDLWW
+Saint-Étienne,Lille,3-3,/match/saint-etienne/lillestrom/1995,1995,35,ligue_1,20,38,1,3,3,14,9,8,17,37,46,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDWWWLW,9,4,4,30,14,13,10,8,16,21,40,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLWWWWD,0,4,13,5,29,DWWWWDLWWLWWLDDWL,DWWDWDWWWWDWWWWWW
+Girondins Bordeaux,Caen,2-0,/match/bordeaux/caen/1995,1995,35,ligue_1,20,38,0,2,0,9,13,9,12,45,46,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDWWLDW,10,3,4,24,17,19,9,5,20,33,51,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWDWLWW,1,3,13,8,34,WDWLLWLWWWWWLWDWD,WWWWWDLWWDWWWDWWW
+FC Martigues,Nice,0-1,/match/fc-martigues/nice/1995,1995,35,ligue_1,20,38,2,0,1,11,11,12,11,32,42,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDDWLWW,8,8,0,25,12,17,10,8,16,35,47,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLDWLLW,3,6,8,14,22,DWWDWDWDWWDDDDWW,WDWLDDWWWDLWWDWDL
+Bastia,Nantes,2-2,/match/bastia/nantes/1995,1995,36,ligue_1,20,38,1,2,2,18,10,10,15,35,49,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDWWWWWD,6,3,8,17,21,1,20,14,1,66,30,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDWDWWLD,7,9,1,26,16,LWLDLDLLLLLWDWWWW,LLDDLDDDLLLDDDDWL
+Nice,Montpellier,0-0,/match/nice/montpellier-hsc/1995,1995,36,ligue_1,20,38,1,0,0,17,11,8,16,36,47,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLDWLLWL,7,2,8,21,25,15,9,13,13,37,50,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWWWLLDW,2,6,9,11,27,WWDLLLLDWLLWWLWLW,WLWDDWWWDWDWDWWLD
+PSG,Saint-Étienne,1-0,/match/paris-saint-germain-fc/saint-etienne/1995,1995,36,ligue_1,20,38,0,1,0,3,19,6,10,55,36,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWWWLLWW,12,3,2,32,12,16,9,9,17,40,49,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDWWWLWD,0,4,13,7,32,WDWWDWWWDWLWWWWLW,DWDWWDWWWWDWWWWWW
+Lille,Girondins Bordeaux,1-0,/match/lillestrom/bordeaux/1995,1995,36,ligue_1,20,38,0,1,0,13,10,9,16,24,43,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLWWWWDD,10,4,3,16,11,9,14,9,12,47,46,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDWWLDWW,3,6,8,21,29,WLWLDWWWDWWWDLWWD,LWDLDDDWDWWWWDWLW
+Olympique Lyonnais,Strasbourg,1-0,/match/olympique-lyonnais/strasbourg/1995,1995,36,ligue_1,20,38,0,1,0,2,18,11,6,54,35,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLWDDDWL,13,4,0,34,7,8,12,12,11,42,41,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWDLWWDD,3,4,10,13,28,WWWWDWDWWDWWWWWDW,WWDDWWWLWWLDWWLWD
+Cannes,Monaco,2-2,/match/as-cannes/monaco/1995,1995,36,ligue_1,20,38,1,2,2,7,15,7,13,50,38,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLDWWWDW,10,5,3,30,12,6,14,11,10,56,34,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDWWWLWD,5,5,7,24,20,DWWWLDWDWLWWWLWDWD,WLWWDLWDLDWWLDWLD
+Stade Rennais,FC Martigues,5-1,/match/stade-rennes/fc-martigues/1995,1995,36,ligue_1,20,38,0,5,1,14,10,11,14,45,52,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDDDWWWW,7,7,3,31,18,11,11,12,12,32,43,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDDWLWWL,3,4,11,7,30,DWDWLDWWDLWDLDDWW,LDWWLWWWDWWWDWWDLW
+Auxerre,Lens,3-0,/match/auxerre/lens/1995,1995,36,ligue_1,20,38,0,3,0,5,12,17,6,54,34,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDDWLLWL,8,7,2,30,12,4,14,14,7,45,38,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWDDDWWD,6,6,5,17,24,LWDWWWWDWDDWDDDLW,WLDLDWLWDLDLLWDDW
+Caen,Le Havre,2-2,/match/caen/havre-ac/1995,1995,36,ligue_1,20,38,1,2,2,19,9,5,21,33,53,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWDWLWWW,8,2,7,25,17,12,12,11,12,42,44,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWWLWWWL,4,5,8,19,27,LLWLLWWWDLWLWWDLW,DWWDWWDDDLWLLLWWW
+Metz,Sochaux,3-0,/match/metz/sochaux/1995,1995,36,ligue_1,20,38,0,3,0,10,14,8,13,45,43,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWDLLLLD,9,5,3,26,16,20,6,5,24,28,61,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWDLWLWL,0,2,15,6,34,LDDDDWWWWWWWWWDLL,WDWWWWWWWWWWWWDWW
+Lens,Caen,2-0,/match/lens/caen/1995,1995,37,ligue_1,20,38,0,2,0,5,14,14,8,45,41,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWDDDWWDW,8,8,2,28,14,19,9,6,21,35,55,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWDWLWWWD,1,3,14,8,36,DWWDDLWWDDLDWWWDWD,WWWWWDLWWDWWWDWWWW
+Monaco,Bastia,2-1,/match/monaco/bastia/1995,1995,37,ligue_1,20,38,0,2,1,6,14,12,10,58,36,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDWWWLWDD,9,6,3,32,14,18,10,11,15,37,51,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDWWWWWDD,4,7,7,18,28,LDWLDWDWDDDWWLWWWW,DLWWLWLDLDDWWDDWWD
+Strasbourg,Metz,1-0,/match/strasbourg/metz/1995,1995,37,ligue_1,20,38,0,1,0,9,12,12,12,42,42,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWDLWWDDW,9,8,1,29,13,8,15,8,13,48,43,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWDLLLLDW,5,3,10,19,27,DWWWWWWWLWDDDDDDWD,LWWWWLDWWWLDWWWLLD
+FC Martigues,Olympique Lyonnais,2-0,/match/fc-martigues/olympique-lyonnais/1995,1995,37,ligue_1,20,38,0,2,0,12,11,12,13,33,48,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDDWLWWLW,8,8,1,25,13,2,19,11,6,55,35,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLWDDDWLW,5,7,6,20,28,DWWDWDWDWWDDDDWWL,DLWDLDDWWWDWLWLDDL
+Sochaux,Auxerre,0-1,/match/sochaux/auxerre/1995,1995,37,ligue_1,20,38,2,0,1,20,6,5,25,28,64,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWDLWLWLW,6,3,9,22,27,4,13,17,6,57,34,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDDWLLWLW,4,10,4,24,22,WWLWLDWDLWLLDWLLLL,DDDWLDDDWDDLWDDWLL
+Nantes,Cannes,2-1,/match/nantes/as-cannes/1995,1995,37,ligue_1,20,38,0,2,1,1,20,15,1,68,32,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDWDWWLDD,13,5,0,40,14,7,15,8,13,52,40,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLDWWWDWD,5,2,10,20,26,DWWWWDWWWDDWWWWWWD,LWLWLWWLDWWWDLWWW
+Le Havre,Lille,0-1,/match/havre-ac/lillestrom/1995,1995,37,ligue_1,20,38,2,0,1,11,12,12,12,44,46,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWWLWWWLD,8,6,4,23,17,13,11,9,16,25,43,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLWWWWDDW,0,5,13,8,32,DDLDWWDDWDWWWLWLWL,DWWDWDWWWWDWWWWWWD
+Saint-Étienne,Nice,3-3,/match/saint-etienne/nice/1995,1995,37,ligue_1,20,38,1,3,3,16,9,9,18,40,50,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDWWWLWDW,9,5,4,33,17,17,11,9,16,36,47,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLDWLLWLD,4,6,8,15,22,DWWWWDLWWLWWLDDWLD,WDWLDDWWWDLWWDWDLL
+Montpellier,Stade Rennais,0-1,/match/montpellier-hsc/stade-rennes/1995,1995,37,ligue_1,20,38,2,0,1,15,9,14,13,37,50,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWWWLLDWD,7,7,4,26,23,14,11,11,14,50,53,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDDDWWWWW,3,4,11,14,34,LLLDDDDDWDWWWDWWLW,DWLWDLWWWWWWDLWDWW
+Girondins Bordeaux,PSG,3-0,/match/bordeaux/paris-saint-germain-fc/1995,1995,37,ligue_1,20,38,0,3,0,10,14,9,13,47,47,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDWWLDWWW,11,3,4,26,17,3,20,6,10,56,36,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWWWLLWWW,7,3,8,23,24,WDWLLWLWWWWWLWDWDW,DWWLWLWLDLLLWWDWLW
+Bastia,Cannes,6-3,/match/bastia/as-cannes/1995,1995,38,ligue_1,20,38,0,6,3,18,10,11,16,38,53,DLLWWWLLDWLLDDLLLDLLDLWWWDDWDWWWWWDDW,6,4,8,19,23,9,15,8,14,53,42,DLWWWLWWLLDWWWDLWDLWWWWWWLDWLDWWWDWDW,5,2,11,21,28,LWLDLDLLLLLWDWWWWD,LWLWLWWLDWWWDLWWWW
+Stade Rennais,Saint-Étienne,2-2,/match/stade-rennes/saint-etienne/1995,1995,38,ligue_1,20,38,1,2,2,13,12,11,14,51,53,DDWWLDWWDLLDWWWWWWDWLWWDDLLWDDDWWWWWL,8,7,3,36,19,16,9,10,18,43,53,DDWWWWDWWDWLDWWWWLWWWDWWLWDWDWWWLWDWD,0,4,14,7,33,DWDWLDWWDLWDLDDWWW,DWDWWDWWWWDWWWWWWW
+FC Martigues,Montpellier,2-1,/match/fc-martigues/montpellier-hsc/1995,1995,38,ligue_1,20,38,0,2,1,11,12,12,13,35,48,LDDWWWWDLWWDWWWDDWWWWWDDDWDWDDWLWWLWW,9,8,1,27,13,15,9,14,14,37,51,LLWLLDWDDDDDWDWWWDDWWDWWWDDWWWWLLDWDL,2,7,9,11,27,DWWDWDWDWWDDDDWWLW,WLWDDWWWDWDWDWWLDD
+Nice,Girondins Bordeaux,0-2,/match/nice/bordeaux/1995,1995,38,ligue_1,20,38,2,0,2,17,11,10,16,39,50,WWDWWDLLDLDLWLWWDDWLLWLWWDWWLDWLLWLDD,7,3,8,21,25,8,15,9,13,50,47,WLDWWLDLLWDLDWDWWWDWWWWWLWWDDWWLDWWWW,3,6,9,21,30,WWDLLLLDWLLWWLWLWD,LWDLDDDWDWWWWDWLWW
+PSG,Le Havre,2-2,/match/paris-saint-germain-fc/havre-ac/1995,1995,38,ligue_1,20,38,1,2,2,3,20,6,11,56,39,DWWDWWLWWDLWWLWDWLDLWLLWWWWDWWWLLWWWW,13,3,2,33,12,14,12,12,13,44,47,DDDWLWDWDWWDWDDWDDDWLWWWLLLLWWLWWWLDL,4,6,8,21,29,WDWWDWWWDWLWWWWLWW,DWWDWWDDDLWLLLWWWD
+Auxerre,Strasbourg,1-0,/match/auxerre/strasbourg/1995,1995,38,ligue_1,20,38,0,1,0,4,14,17,6,58,34,DLDWDDWLWDWDWDWWDDWDDLDWWDDDDDWLLWLWL,9,7,2,33,12,7,13,12,12,43,42,DWWWWDWDWWWWWWWLLWWDWDLDDDWDWDLWWDDWW,3,4,11,13,29,LWDWWWWDWDDWDDDLWW,WWDDWWWLWWLDWWLWDW
+Olympique Lyonnais,Nantes,1-1,/match/olympique-lyonnais/nantes/1995,1995,38,ligue_1,20,38,1,1,1,2,19,11,7,55,37,DWLWWDWLWDDDWWDWWWWDDWWWLWWWLWDDDWLWW,14,4,0,35,7,1,21,15,1,70,33,DLWLWDWDWLDDWDWWDDLDLWLWDWDWDWDWWLDDW,7,10,1,28,18,WWWWDWDWWDWWWWWDWW,LLDDLDDDLLLDDDDWLD
+Caen,Sochaux,3-1,/match/caen/sochaux/1995,1995,38,ligue_1,20,38,0,3,1,19,9,6,22,35,57,WLWLWWWLWDLLWWWWWDDWLWWWLDWWWDWLWWWDW,8,3,7,27,19,20,6,5,26,28,65,WWWDLWWWLWDWWDWLWWWLWLWDWWWLWDLWLWLWL,0,2,16,6,37,LLWLLWWWDLWLWWDLWD,WDWWWWWWWWWWWWDWWW
+Metz,Monaco,2-0,/match/metz/monaco/1995,1995,38,ligue_1,20,38,0,2,0,10,15,8,14,48,44,LLWWDWDWDLDDWWWWWWWLWWDWWWWWWDLLLLDWW,10,5,3,29,16,6,15,12,10,60,37,LWDLWWLWDDWLDWWDDDLDDWWWWLLWDWWWLWDDW,5,6,7,26,22,LDDDDWWWWWWWWWDLLW,WLWWDLWDLDWWLDWLDD
+Lille,Lens,3-1,/match/lillestrom/lens/1995,1995,38,ligue_1,20,38,0,3,1,12,12,9,16,26,43,DWWLWWDLWDDWWWWWWWDDWWWWWWDWLWWWWDDWL,11,4,3,17,11,5,15,14,8,47,41,DWWLWDDLDLDWWWLDWDDLLDDWLWLWWDDDWWDWW,6,6,6,17,27,WLWLDWWWDWWWDLWWDW,WLDLDWLWDLDLLWDDWW

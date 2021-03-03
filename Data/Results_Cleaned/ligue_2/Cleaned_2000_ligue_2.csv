@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Nîmes,Sochaux,2-1,/match/nimes-olympique/sochaux/2000,2000,1,ligue_2,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Stade Lavallois,Lille,0-1,/match/stade-lavallois/lillestrom/2000,2000,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Guingamp,Amiens SC,2-3,/match/guingamp/amiens-sc/2000,2000,1,ligue_2,20,38,2,2,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Creteil,Niort,1-1,/match/creteil-lusitanos/chamois-niortais/2000,2000,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+ES Wasquehal,Le Mans,1-2,/match/waquehal/mans-uc-72/2000,2000,1,ligue_2,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Toulouse,Caen,0-1,/match/toulouse-fc/caen/2000,2000,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Louhans Cuiseaux,Cannes,0-1,/match/lohuans-cuiseaux/as-cannes/2000,2000,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chateauroux,Valence,3-3,/match/berrichonne-chateauroux/valence/2000,2000,1,ligue_2,20,38,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ajaccio,Lorient,0-1,/match/ajaccio/lorient/2000,2000,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nice,FC Gueugnon,1-1,/match/nice/fc-gueugnon/2000,2000,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lorient,Chateauroux,1-1,/match/lorient/berrichonne-chateauroux/2000,2000,2,ligue_2,20,38,1,1,1,2,1,0,0,1,0,L,0,0,0,0,0,6,0,1,0,3,3,D,0,0,0,0,0,,
+Valence,Louhans Cuiseaux,3-0,/match/valence/lohuans-cuiseaux/2000,2000,2,ligue_2,20,38,0,3,0,12,0,1,0,3,3,D,0,0,0,0,0,14,0,0,1,0,1,L,0,0,0,0,0,,
+Cannes,Toulouse,0-2,/match/as-cannes/toulouse-fc/2000,2000,2,ligue_2,20,38,2,0,2,4,1,0,0,1,0,L,0,0,0,0,0,20,0,0,1,0,1,L,0,0,0,0,0,,
+Caen,ES Wasquehal,0-0,/match/caen/waquehal/2000,2000,2,ligue_2,20,38,1,0,0,5,1,0,0,1,0,L,0,0,0,0,0,15,0,0,1,1,2,L,0,0,0,0,0,,
+Le Mans,Niort,2-2,/match/mans-uc-72/chamois-niortais/2000,2000,2,ligue_2,20,38,1,2,2,10,1,0,0,2,1,L,0,0,0,0,0,13,0,1,0,1,1,D,0,1,0,1,1,,D
+Guingamp,Creteil,0-2,/match/guingamp/creteil-lusitanos/2000,2000,2,ligue_2,20,38,2,0,2,19,0,0,1,2,3,L,0,0,1,2,3,8,0,1,0,1,1,D,0,0,0,0,0,L,
+Amiens SC,Stade Lavallois,1-1,/match/amiens-sc/stade-lavallois/2000,2000,2,ligue_2,20,38,1,1,1,3,1,0,0,3,2,L,0,0,0,0,0,18,0,0,1,0,1,L,0,0,0,0,0,,
+Lille,Nîmes,1-0,/match/lillestrom/nimes-olympique/2000,2000,2,ligue_2,20,38,0,1,0,9,1,0,0,1,0,L,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
+Sochaux,Nice,2-1,/match/sochaux/nice/2000,2000,2,ligue_2,20,38,0,2,1,17,0,0,1,1,2,W,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+FC Gueugnon,Ajaccio,2-2,/match/fc-gueugnon/ajaccio/2000,2000,2,ligue_2,20,38,1,2,2,11,0,1,0,1,1,D,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
+Toulouse,Valence,2-0,/match/toulouse-fc/valence/2000,2000,3,ligue_2,20,38,0,2,0,15,1,0,1,2,1,LL,0,0,1,0,1,2,1,1,0,6,3,DW,0,1,0,3,3,L,D
+Louhans Cuiseaux,Lorient,0-1,/match/lohuans-cuiseaux/lorient/2000,2000,3,ligue_2,20,38,2,0,1,19,0,0,2,0,4,LW,0,0,1,0,1,8,1,1,0,2,1,LD,1,0,0,1,0,L,L
+Chateauroux,FC Gueugnon,0-1,/match/berrichonne-chateauroux/fc-gueugnon/2000,2000,3,ligue_2,20,38,2,0,1,11,0,2,0,4,4,DD,0,1,0,3,3,10,0,2,0,3,3,DD,0,1,0,1,1,D,D
+Ajaccio,Sochaux,0-2,/match/ajaccio/sochaux/2000,2000,3,ligue_2,20,38,2,0,2,17,0,1,1,2,3,LD,0,0,1,0,1,6,1,0,1,3,3,WW,0,0,1,1,2,L,W
+Nîmes,Amiens SC,2-2,/match/nimes-olympique/amiens-sc/2000,2000,3,ligue_2,20,38,1,2,2,3,1,0,1,2,2,WW,1,0,0,2,1,5,1,1,0,4,3,LD,1,0,0,3,2,W,L
+Stade Lavallois,Guingamp,0-2,/match/stade-lavallois/guingamp/2000,2000,3,ligue_2,20,38,2,0,2,18,0,1,1,1,2,LD,0,0,1,0,1,20,0,0,2,2,5,LL,0,0,0,0,0,L,
+Niort,Caen,0-0,/match/chamois-niortais/caen/2000,2000,3,ligue_2,20,38,1,0,0,13,0,2,0,3,3,DD,0,0,0,0,0,7,1,1,0,1,0,LD,1,0,0,1,0,,L
+Creteil,Le Mans,1-1,/match/creteil-lusitanos/mans-uc-72/2000,2000,3,ligue_2,20,38,1,1,1,9,1,1,0,3,1,DL,0,1,0,1,1,4,1,1,0,4,3,LD,1,0,0,2,1,D,L
+ES Wasquehal,Cannes,0-2,/match/waquehal/as-cannes/2000,2000,3,ligue_2,20,38,2,0,2,16,0,1,1,1,2,LD,0,0,1,1,2,14,1,0,1,1,2,LL,1,0,0,1,0,L,L
+Nice,Lille,0-0,/match/nice/lillestrom/2000,2000,3,ligue_2,20,38,1,0,0,12,0,1,1,2,3,DW,0,1,0,1,1,1,2,0,0,2,0,LW,1,0,0,1,0,D,L
+FC Gueugnon,Louhans Cuiseaux,0-1,/match/fc-gueugnon/lohuans-cuiseaux/2000,2000,4,ligue_2,20,38,2,0,1,10,1,2,0,4,3,DDL,0,1,0,2,2,20,0,0,3,0,5,LWL,0,0,1,0,3,D,W
+Lorient,Toulouse,1-1,/match/lorient/toulouse-fc/2000,2000,4,ligue_2,20,38,1,1,1,5,2,1,0,3,1,LDL,0,1,0,1,1,2,2,0,1,4,1,LLW,1,0,0,2,0,D,L
+Valence,ES Wasquehal,1-0,/match/valence/waquehal/2000,2000,4,ligue_2,20,38,0,1,0,11,1,1,1,6,5,DWW,1,0,0,3,0,17,0,1,2,1,4,LDL,0,1,0,0,0,W,D
+Cannes,Niort,2-1,/match/as-cannes/chamois-niortais/2000,2000,4,ligue_2,20,38,0,2,1,14,2,0,1,3,2,LLL,0,0,1,0,2,13,0,3,0,3,3,DDD,0,2,0,3,3,L,DD
+Caen,Le Mans,1-1,/match/caen/mans-uc-72/2000,2000,4,ligue_2,20,38,1,1,1,9,1,2,0,1,0,LDD,0,1,0,0,0,7,1,2,0,5,4,LDD,1,1,0,3,2,D,LD
+Stade Lavallois,Creteil,1-0,/match/stade-lavallois/creteil-lusitanos/2000,2000,4,ligue_2,20,38,0,1,0,19,0,1,2,1,4,LDL,0,0,2,0,3,6,1,2,0,4,2,DLD,1,0,0,2,0,LL,L
+Guingamp,Nîmes,1-0,/match/guingamp/nimes-olympique/2000,2000,4,ligue_2,20,38,0,1,0,16,1,0,2,4,5,LLL,0,0,2,2,5,3,1,1,1,4,4,WWD,0,0,1,0,1,LL,W
+Amiens SC,Nice,4-1,/match/amiens-sc/nice/2000,2000,4,ligue_2,20,38,0,4,1,8,1,2,0,6,5,LDD,0,1,0,1,1,12,0,2,1,2,3,DWD,0,0,1,1,2,D,W
+Lille,Ajaccio,4-2,/match/lillestrom/ajaccio/2000,2000,4,ligue_2,20,38,0,4,2,1,2,1,0,2,0,LWD,1,0,0,1,0,18,0,1,2,2,5,LDL,0,1,0,2,2,W,D
+Sochaux,Chateauroux,1-2,/match/sochaux/berrichonne-chateauroux/2000,2000,4,ligue_2,20,38,2,1,2,4,2,0,1,5,3,WWL,1,0,0,2,1,15,0,2,1,4,5,DDL,0,1,0,1,1,W,D
+Nice,Guingamp,0-0,/match/nice/guingamp/2000,2000,5,ligue_2,20,38,1,0,0,16,0,2,2,3,7,DWDW,0,2,0,1,1,9,2,0,2,5,5,LLLW,1,0,0,2,0,DD,L
+Toulouse,FC Gueugnon,2-0,/match/toulouse-fc/fc-gueugnon/2000,2000,5,ligue_2,20,38,0,2,0,7,2,1,1,5,2,LLWD,1,0,1,2,1,13,1,2,1,4,4,DDLL,1,1,0,2,1,LW,DL
+Louhans Cuiseaux,Sochaux,2-2,/match/lohuans-cuiseaux/sochaux/2000,2000,5,ligue_2,20,38,1,2,2,18,1,0,3,1,5,LWLL,0,0,2,0,2,8,2,0,2,6,5,WWLL,1,0,1,3,2,LL,WL
+Chateauroux,Lille,2-3,/match/berrichonne-chateauroux/lillestrom/2000,2000,5,ligue_2,20,38,2,2,3,15,1,2,1,6,6,DDLL,0,1,1,3,4,1,3,1,0,6,2,LWDW,1,1,0,1,0,DL,LD
+Ajaccio,Amiens SC,1-3,/match/ajaccio/amiens-sc/2000,2000,5,ligue_2,20,38,2,1,3,20,0,1,3,4,9,LDLW,0,0,2,0,3,2,2,2,0,10,6,LDDW,1,1,0,5,4,LL,LD
+Nîmes,Stade Lavallois,0-0,/match/nimes-olympique/stade-lavallois/2000,2000,5,ligue_2,20,38,1,0,0,12,1,1,2,4,5,WWDW,1,1,0,4,3,14,1,1,2,2,4,LDLW,0,1,0,1,1,WD,D
+Le Mans,Cannes,2-1,/match/mans-uc-72/as-cannes/2000,2000,5,ligue_2,20,38,0,2,1,11,1,3,0,6,5,LDDD,0,1,0,2,2,5,3,0,1,5,3,LLLW,2,0,0,3,0,D,LL
+Niort,Valence,1-1,/match/chamois-niortais/valence/2000,2000,5,ligue_2,20,38,1,1,1,17,0,3,1,4,5,DDDW,0,1,0,0,0,3,2,1,1,7,5,DWWW,0,1,1,3,5,D,DW
+Creteil,Caen,2-1,/match/creteil-lusitanos/caen/2000,2000,5,ligue_2,20,38,0,2,1,10,1,2,1,4,3,DLDW,0,2,0,2,2,6,1,3,0,2,1,LDDD,1,1,0,1,0,DD,LD
+ES Wasquehal,Lorient,1-0,/match/waquehal/lorient/2000,2000,5,ligue_2,20,38,0,1,0,19,0,1,3,1,5,LDLW,0,0,2,1,4,4,2,2,0,4,2,LDLD,2,0,0,2,0,LL,LL
+Amiens SC,Chateauroux,1-0,/match/amiens-sc/berrichonne-chateauroux/2000,2000,6,ligue_2,20,38,0,1,0,3,3,2,0,13,7,LDDWL,1,1,0,5,2,17,1,2,2,8,9,DDLLL,1,1,0,3,2,DW,DL
+Lille,Louhans Cuiseaux,1-0,/match/lillestrom/lohuans-cuiseaux/2000,2000,6,ligue_2,20,38,0,1,0,1,4,1,0,9,4,LWDWL,2,0,0,5,2,19,1,1,3,3,7,LWLLD,1,0,1,1,3,WW,WL
+FC Gueugnon,ES Wasquehal,1-1,/match/fc-gueugnon/waquehal/2000,2000,6,ligue_2,20,38,1,1,1,16,1,2,2,4,6,DDLLW,0,1,1,2,3,18,1,1,3,2,5,LDLWW,0,1,1,0,1,DL,DW
+Lorient,Niort,2-0,/match/lorient/chamois-niortais/2000,2000,6,ligue_2,20,38,0,2,0,8,2,2,1,4,3,LDLDW,0,2,0,2,2,15,0,4,1,5,6,DDDWD,0,2,1,4,5,DD,DDW
+Valence,Le Mans,0-0,/match/valence/mans-uc-72/2000,2000,6,ligue_2,20,38,1,0,0,6,2,2,1,8,6,DWWWD,2,0,0,4,0,5,2,3,0,8,6,LDDDW,1,2,0,4,3,WW,LDD
+Cannes,Caen,1-0,/match/as-cannes/caen/2000,2000,6,ligue_2,20,38,0,1,0,7,3,0,2,6,5,LLLWW,1,0,1,2,3,10,1,3,1,3,3,LDDDW,1,1,1,2,2,LW,LDW
+Nîmes,Creteil,2-1,/match/nimes-olympique/creteil-lusitanos/2000,2000,6,ligue_2,20,38,0,2,1,9,1,2,2,4,5,WWDWD,1,2,0,4,3,4,2,2,1,6,4,DLDWW,1,0,1,2,1,WDD,LW
+Stade Lavallois,Nice,1-1,/match/stade-lavallois/nice/2000,2000,6,ligue_2,20,38,1,1,1,13,1,2,2,2,4,LDLWD,1,0,2,1,3,14,0,3,2,3,7,DWDWD,0,0,2,2,6,LLW,WW
+Guingamp,Ajaccio,1-1,/match/guingamp/ajaccio/2000,2000,6,ligue_2,20,38,1,1,1,12,2,1,2,5,5,LLLWD,1,0,2,3,5,20,0,1,4,5,12,LDLWL,0,1,1,4,6,LLW,DW
+Sochaux,Toulouse,0-2,/match/sochaux/toulouse-fc/2000,2000,6,ligue_2,20,38,2,0,2,11,2,1,2,8,7,WWLLD,1,0,1,3,3,2,3,1,1,7,2,LLWDW,1,1,0,3,1,WL,LD
+ES Wasquehal,Sochaux,0-0,/match/waquehal/sochaux/2000,2000,7,ligue_2,20,38,1,0,0,17,1,2,3,3,6,LDLWWD,1,0,2,2,4,14,2,1,3,8,9,WWLLDL,1,1,1,5,4,LLW,WLD
+Toulouse,Lille,0-2,/match/toulouse-fc/lillestrom/2000,2000,7,ligue_2,20,38,2,0,2,3,4,1,1,9,2,LLWDWL,2,0,1,4,1,1,5,1,0,10,4,LWDWLW,2,1,0,4,2,LWW,LDL
+Louhans Cuiseaux,Amiens SC,0-0,/match/lohuans-cuiseaux/amiens-sc/2000,2000,7,ligue_2,20,38,1,0,0,19,1,1,4,3,8,LWLLDW,0,1,2,2,4,2,4,2,0,14,7,LDDWLW,2,1,0,8,5,LLD,LDL
+Chateauroux,Guingamp,2-3,/match/berrichonne-chateauroux/guingamp/2000,2000,7,ligue_2,20,38,2,2,3,18,1,2,3,8,10,DDLLLW,0,1,2,5,7,10,2,2,2,6,6,LLLWDD,1,1,0,2,0,DLL,LD
+Ajaccio,Stade Lavallois,1-0,/match/ajaccio/stade-lavallois/2000,2000,7,ligue_2,20,38,0,1,0,20,0,2,4,6,13,LDLWLD,0,0,3,1,6,11,1,3,2,3,5,LDLWDD,0,2,0,1,1,LLL,DD
+Nice,Nîmes,1-1,/match/nice/nimes-olympique/2000,2000,7,ligue_2,20,38,1,1,1,12,0,4,2,4,8,DWDWDD,0,3,0,1,1,7,2,2,2,6,6,WWDWDW,0,0,2,0,2,DDD,WW
+Caen,Valence,1-0,/match/caen/valence/2000,2000,7,ligue_2,20,38,0,1,0,15,1,3,2,3,4,LDDDWW,0,2,0,1,1,4,2,3,1,8,6,DWWWDD,0,2,1,4,6,DD,DWD
+Le Mans,Lorient,2-1,/match/mans-uc-72/lorient/2000,2000,7,ligue_2,20,38,0,2,1,8,2,4,0,8,6,LDDDWD,1,1,0,4,3,6,3,2,1,6,3,LDLDWW,2,0,1,2,1,DW,LLW
+Niort,FC Gueugnon,1-0,/match/chamois-niortais/fc-gueugnon/2000,2000,7,ligue_2,20,38,0,1,0,16,0,4,2,5,8,DDDWDW,0,2,0,1,1,13,1,3,2,5,7,DDLLWD,1,1,1,2,3,DD,DLW
+Creteil,Cannes,1-1,/match/creteil-lusitanos/as-cannes/2000,2000,7,ligue_2,20,38,1,1,1,9,2,2,2,7,6,DLDWWW,1,2,0,4,3,5,4,0,2,7,5,LLLWWW,2,0,1,4,2,DDW,LLW
+Amiens SC,Toulouse,1-1,/match/amiens-sc/toulouse-fc/2000,2000,8,ligue_2,20,38,1,1,1,2,4,3,0,14,7,LDDWLWD,2,1,0,6,2,4,4,1,2,9,4,LLWDWLL,2,1,0,5,1,DWW,LDL
+Lille,ES Wasquehal,1-0,/match/lillestrom/waquehal/2000,2000,8,ligue_2,20,38,0,1,0,1,6,1,0,12,4,LWDWLWL,3,0,0,6,2,14,1,3,3,3,6,LDLWWDD,0,2,1,1,2,WWW,DWD
+Sochaux,Niort,1-0,/match/sochaux/chamois-niortais/2000,2000,8,ligue_2,20,38,0,1,0,16,2,2,3,8,9,WWLLDLD,1,0,2,3,5,12,1,4,2,6,8,DDDWDWW,0,2,2,4,7,WLL,DDWW
+FC Gueugnon,Le Mans,2-1,/match/fc-gueugnon/mans-uc-72/2000,2000,8,ligue_2,20,38,0,2,1,17,1,3,3,5,8,DDLLWDW,0,2,1,3,4,3,3,4,0,10,7,LDDDWDW,1,3,0,4,3,DLD,LDDD
+Lorient,Caen,1-2,/match/lorient/caen/2000,2000,8,ligue_2,20,38,2,1,2,8,3,2,2,7,5,LDLDWWW,1,2,0,4,2,10,2,3,2,4,4,LDDDWWW,1,1,2,2,3,DDW,LDWW
+Valence,Cannes,0-0,/match/valence/as-cannes/2000,2000,8,ligue_2,20,38,1,0,0,7,2,3,2,8,7,DWWWDDW,2,1,0,4,0,5,4,1,2,8,6,LLLWWWD,2,1,1,5,3,WWD,LLWD
+Nice,Creteil,2-0,/match/nice/creteil-lusitanos/2000,2000,8,ligue_2,20,38,0,2,0,13,0,5,2,5,9,DWDWDDD,0,4,0,2,2,9,2,3,2,8,7,DLDWWWD,1,0,2,3,3,DDDD,LWW
+Nîmes,Ajaccio,1-0,/match/nimes-olympique/ajaccio/2000,2000,8,ligue_2,20,38,0,1,0,6,2,3,2,7,7,WWDWDWD,2,2,0,6,4,19,1,2,4,7,13,LDLWLDW,0,2,1,5,7,WDDW,DWD
+Stade Lavallois,Chateauroux,4-0,/match/stade-lavallois/berrichonne-chateauroux/2000,2000,8,ligue_2,20,38,0,4,0,15,1,3,3,3,6,LDLWDDW,1,1,2,2,4,20,1,2,4,10,13,DDLLLWL,1,1,1,3,3,LLWD,DLW
+Guingamp,Louhans Cuiseaux,2-2,/match/guingamp/lohuans-cuiseaux/2000,2000,8,ligue_2,20,38,1,2,2,11,3,2,2,9,8,LLLWDDL,1,1,2,4,6,18,1,2,4,3,8,LWLLDWD,1,0,2,1,4,LLWD,WLW
+Creteil,Valence,2-1,/match/creteil-lusitanos/valence/2000,2000,9,ligue_2,20,38,0,2,1,11,2,3,3,8,9,DLDWWWDW,1,3,0,5,4,7,2,4,2,8,7,DWWWDDWD,0,2,2,4,7,DDWD,DWDW
+ES Wasquehal,Amiens SC,0-0,/match/waquehal/amiens-sc/2000,2000,9,ligue_2,20,38,1,0,0,17,1,3,4,3,7,LDLWWDDW,1,1,2,2,4,2,4,4,0,15,8,LDDWLWDD,2,2,0,8,5,LLWD,LDLD
+Toulouse,Guingamp,1-2,/match/toulouse-fc/guingamp/2000,2000,9,ligue_2,20,38,2,1,2,5,4,2,2,10,5,LLWDWLLD,2,0,2,4,3,10,3,3,2,11,10,LLLWDDLD,2,1,0,5,2,LWWL,LDL
+Louhans Cuiseaux,Stade Lavallois,2-0,/match/lohuans-cuiseaux/stade-lavallois/2000,2000,9,ligue_2,20,38,0,2,0,18,1,3,4,5,10,LWLLDWDD,0,2,2,2,4,13,2,3,3,7,6,LDLWDDWW,0,2,1,1,2,LLDD,DDW
+Chateauroux,Nîmes,0-0,/match/berrichonne-chateauroux/nimes-olympique/2000,2000,9,ligue_2,20,38,1,0,0,20,1,2,5,10,17,DDLLLWLW,0,1,3,7,10,3,3,3,2,8,7,WWDWDWDW,0,1,2,1,3,DLLL,WWD
+Ajaccio,Nice,1-0,/match/ajaccio/nice/2000,2000,9,ligue_2,20,38,0,1,0,19,1,2,5,7,14,LDLWLDWW,1,0,3,2,6,9,1,5,2,7,9,DWDWDDDW,0,1,2,3,7,LLLW,WWD
+Cannes,Lorient,1-0,/match/as-cannes/lorient/2000,2000,9,ligue_2,20,38,0,1,0,6,4,2,2,8,6,LLLWWWDD,2,0,1,3,3,12,3,2,3,8,7,LDLDWWWL,2,0,2,3,3,LWW,LLWW
+Caen,FC Gueugnon,2-2,/match/caen/fc-gueugnon/2000,2000,9,ligue_2,20,38,1,2,2,8,3,3,2,6,5,LDDDWWWL,1,2,0,2,1,15,2,3,3,7,9,DDLLWDWW,1,1,2,2,4,DDW,DLWW
+Le Mans,Sochaux,2-1,/match/mans-uc-72/sochaux/2000,2000,9,ligue_2,20,38,0,2,1,4,3,4,1,11,9,LDDDWDWW,2,1,0,6,4,14,3,2,3,9,9,WWLLDLDW,1,2,1,5,4,DWW,WLDD
+Niort,Lille,0-3,/match/chamois-niortais/lillestrom/2000,2000,9,ligue_2,20,38,2,0,3,16,1,4,3,6,9,DDDWDWWW,1,2,0,2,1,1,7,1,0,13,4,LWDWLWLW,3,1,0,6,2,DDW,LDLL
+Stade Lavallois,Toulouse,0-3,/match/stade-lavallois/toulouse-fc/2000,2000,10,ligue_2,20,38,2,0,3,13,2,3,4,7,8,LDLWDDWWW,2,1,2,6,4,10,4,2,3,11,7,LLWDWLLDL,2,2,0,6,2,LLWDW,LDLD
+Guingamp,ES Wasquehal,3-1,/match/guingamp/waquehal/2000,2000,10,ligue_2,20,38,0,3,1,8,4,3,2,13,11,LLLWDDLDL,1,2,2,6,8,18,1,4,4,3,7,LDLWWDDWD,0,2,2,1,3,LLWDD,DWDW
+Amiens SC,Niort,0-0,/match/amiens-sc/chamois-niortais/2000,2000,10,ligue_2,20,38,1,0,0,3,4,5,0,15,8,LDDWLWDDD,2,2,0,7,3,17,1,4,4,6,12,DDDWDWWWL,0,2,3,4,8,DWWD,DDWWW
+Lille,Le Mans,2-0,/match/lillestrom/mans-uc-72/2000,2000,10,ligue_2,20,38,0,2,0,1,8,1,0,16,4,LWDWLWLWL,4,0,0,7,2,2,4,4,1,13,10,LDDDWDWWW,1,3,1,5,5,WWWW,LDDDW
+Sochaux,Caen,1-2,/match/sochaux/caen/2000,2000,10,ligue_2,20,38,2,1,2,14,3,2,4,10,11,WWLLDLDWW,2,0,2,4,5,7,3,4,2,8,7,LDDDWWWLD,2,1,2,4,4,WLLW,LDWWL
+FC Gueugnon,Cannes,1-1,/match/fc-gueugnon/as-cannes/2000,2000,10,ligue_2,20,38,1,1,1,15,2,4,3,9,11,DDLLWDWWD,1,2,1,5,5,4,5,2,2,9,6,LLLWWWDDW,2,2,1,5,3,DLDW,LLWDD
+Lorient,Valence,3-1,/match/lorient/valence/2000,2000,10,ligue_2,20,38,0,3,1,12,3,2,4,8,8,LDLDWWWLW,1,2,1,5,4,9,2,4,3,9,9,DWWWDDWDW,0,2,3,5,9,DDWL,DWDWW
+Ajaccio,Creteil,2-0,/match/ajaccio/creteil-lusitanos/2000,2000,10,ligue_2,20,38,0,2,0,19,2,2,5,8,14,LDLWLDWWW,2,0,3,3,6,6,3,3,3,10,10,DLDWWWDWW,1,0,3,3,5,LLLWW,LWWW
+Nice,Chateauroux,0-0,/match/nice/berrichonne-chateauroux/2000,2000,10,ligue_2,20,38,1,0,0,11,1,5,3,7,10,DWDWDDDWW,1,4,0,4,2,20,1,3,5,10,17,DDLLLWLWD,1,1,2,3,7,DDDDW,DLWW
+Nîmes,Louhans Cuiseaux,2-1,/match/nimes-olympique/lohuans-cuiseaux/2000,2000,10,ligue_2,20,38,0,2,1,5,3,4,2,8,7,WWDWDWDWD,3,2,0,7,4,16,2,3,4,7,10,LWLLDWDDW,1,1,2,3,6,WDDWW,WLWD
+Caen,Lille,1-0,/match/caen/lillestrom/2000,2000,11,ligue_2,20,38,0,1,0,7,4,4,2,10,8,LDDDWWWLDL,1,3,0,4,3,1,9,1,0,18,4,LWDWLWLWLW,4,1,0,9,2,DDWD,LDLLL
+Creteil,Lorient,0-1,/match/creteil-lusitanos/lorient/2000,2000,11,ligue_2,20,38,2,0,1,8,3,3,4,10,12,DLDWWWDWWW,2,3,0,7,5,9,4,2,4,11,9,LDLDWWWLWW,2,0,3,3,4,DDWDW,LLWWW
+Valence,FC Gueugnon,0-1,/match/valence/fc-gueugnon/2000,2000,11,ligue_2,20,38,2,0,1,12,2,4,4,10,12,DWWWDDWDWW,2,2,0,4,0,13,2,5,3,10,12,DDLLWDWWDD,1,2,2,4,6,WWDD,DLWWD
+ES Wasquehal,Stade Lavallois,1-1,/match/waquehal/stade-lavallois/2000,2000,11,ligue_2,20,38,1,1,1,19,1,4,5,4,10,LDLWWDDWDW,1,2,2,2,4,15,2,3,5,7,11,LDLWDDWWWL,0,2,2,1,4,LLWDD,DDWW
+Toulouse,Nîmes,0-1,/match/toulouse-fc/nimes-olympique/2000,2000,11,ligue_2,20,38,2,0,1,10,5,2,3,14,7,LLWDWLLDLL,2,0,3,5,5,2,4,4,2,10,8,WWDWDWDWDW,0,2,2,1,3,LWWLL,WWDD
+Louhans Cuiseaux,Nice,0-0,/match/lohuans-cuiseaux/nice/2000,2000,11,ligue_2,20,38,1,0,0,17,2,3,5,8,12,LWLLDWDDWW,1,2,2,4,4,11,1,6,3,7,10,DWDWDDDWWD,0,1,3,3,8,LLDDW,WWDW
+Chateauroux,Ajaccio,1-0,/match/berrichonne-chateauroux/ajaccio/2000,2000,11,ligue_2,20,38,0,1,0,20,1,4,5,10,17,DDLLLWLWDD,0,2,3,7,10,14,3,2,5,10,14,LDLWLDWWWW,0,2,2,5,8,DLLLD,DWDW
+Cannes,Sochaux,1-3,/match/as-cannes/sochaux/2000,2000,11,ligue_2,20,38,2,1,3,5,5,3,2,10,7,LLLWWWDDWD,3,0,1,4,3,16,3,2,5,11,13,WWLLDLDWWL,1,2,2,6,6,LWWW,WLDDW
+Le Mans,Amiens SC,1-1,/match/mans-uc-72/amiens-sc/2000,2000,11,ligue_2,20,38,1,1,1,4,4,4,2,13,12,LDDDWDWWWW,3,1,0,8,5,3,4,6,0,15,8,LDDWLWDDDD,2,3,0,8,5,DWWW,LDLDD
+Niort,Guingamp,3-3,/match/chamois-niortais/guingamp/2000,2000,11,ligue_2,20,38,1,3,3,18,1,5,4,6,12,DDDWDWWWLD,1,2,1,2,4,6,5,3,2,16,12,LLLWDDLDLW,3,1,0,7,3,DDWL,LDLL
+Nîmes,ES Wasquehal,1-2,/match/nimes-olympique/waquehal/2000,2000,12,ligue_2,20,38,2,1,2,2,5,4,2,11,8,WWDWDWDWDWL,4,2,0,9,5,19,1,5,5,5,11,LDLWWDDWDWD,0,2,3,2,6,WDDWWW,DWDWW
+Guingamp,Le Mans,3-1,/match/guingamp/mans-uc-72/2000,2000,12,ligue_2,20,38,0,3,1,6,5,4,2,19,15,LLLWDDLDLWD,2,2,2,9,9,4,4,5,2,14,13,LDDDWDWWWWD,1,3,2,5,7,LLWDDW,LDDDWW
+Lille,Cannes,2-0,/match/lillestrom/as-cannes/2000,2000,12,ligue_2,20,38,0,2,0,1,9,1,1,18,5,LWDWLWLWLWW,5,0,0,9,2,7,5,3,3,11,10,LLLWWWDDWDL,2,3,1,6,4,WWWWW,LLWDDD
+Sochaux,Valence,2-0,/match/sochaux/valence/2000,2000,12,ligue_2,20,38,0,2,0,15,4,2,5,14,14,WWLLDLDWWLL,2,0,3,5,7,13,2,4,5,10,13,DWWWDDWDWWL,0,2,4,6,12,WLLWL,DWDWWW
+FC Gueugnon,Lorient,3-0,/match/fc-gueugnon/lorient/2000,2000,12,ligue_2,20,38,0,3,0,9,3,5,3,11,12,DDLLWDWWDDL,1,3,1,6,6,8,5,2,4,12,9,LDLDWWWLWWL,3,0,3,4,4,DLDWD,LLWWWL
+Chateauroux,Creteil,0-0,/match/berrichonne-chateauroux/creteil-lusitanos/2000,2000,12,ligue_2,20,38,1,0,0,20,2,4,5,11,17,DDLLLWLWDDW,1,2,3,8,10,12,3,3,5,10,13,DLDWWWDWWWL,1,0,4,3,7,DLLLDW,LWWWW
+Ajaccio,Louhans Cuiseaux,3-0,/match/ajaccio/lohuans-cuiseaux/2000,2000,12,ligue_2,20,38,0,3,0,14,3,2,6,10,15,LDLWLDWWWWW,3,0,3,5,6,17,2,4,5,8,12,LWLLDWDDWWD,1,1,3,4,8,LLLWWW,WLWDW
+Nice,Toulouse,2-0,/match/nice/toulouse-fc/2000,2000,12,ligue_2,20,38,0,2,0,10,1,7,3,7,10,DWDWDDDWWDD,1,5,0,4,2,11,5,2,4,14,8,LLWDWLLDLLL,3,2,0,9,2,DDDDWD,LDLDL
+Amiens SC,Caen,0-4,/match/amiens-sc/caen/2000,2000,12,ligue_2,20,38,2,0,4,3,4,7,0,16,9,LDDWLWDDDDD,2,3,0,7,3,5,5,4,2,11,8,LDDDWWWLDLW,3,1,2,6,5,DWWDD,LDWWLL
+Stade Lavallois,Niort,3-1,/match/stade-lavallois/chamois-niortais/2000,2000,12,ligue_2,20,38,0,3,1,16,2,4,5,8,12,LDLWDDWWWLD,2,1,3,6,7,18,1,6,4,9,15,DDDWDWWWLDD,0,3,3,4,8,LLWDWL,DDWWWD
+Lorient,Sochaux,0-0,/match/lorient/sochaux/2000,2000,13,ligue_2,20,38,1,0,0,11,5,2,5,12,12,LDLDWWWLWWLW,2,2,1,8,5,10,5,2,5,16,14,WWLLDLDWWLLW,2,2,2,9,7,DDWLW,WLDDWL
+Le Mans,Stade Lavallois,0-0,/match/mans-uc-72/stade-lavallois/2000,2000,13,ligue_2,20,38,1,0,0,6,4,5,3,15,16,LDDDWDWWWWDW,3,2,0,9,6,14,3,4,5,11,13,LDLWDDWWWLDW,0,3,2,2,5,DWWWD,DDWWD
+Niort,Nîmes,0-1,/match/chamois-niortais/nimes-olympique/2000,2000,13,ligue_2,20,38,2,0,1,20,1,6,5,10,18,DDDWDWWWLDDW,1,3,1,5,7,3,5,4,3,12,10,WWDWDWDWDWLL,1,2,2,2,3,DDWLD,WWDDL
+Creteil,FC Gueugnon,1-4,/match/creteil-lusitanos/fc-gueugnon/2000,2000,13,ligue_2,20,38,2,1,4,13,3,4,5,10,13,DLDWWWDWWWLD,2,3,1,7,6,7,4,5,3,14,12,DDLLWDWWDDLW,2,2,2,5,6,DDWDWL,DLWWDL
+ES Wasquehal,Nice,2-2,/match/waquehal/nice/2000,2000,13,ligue_2,20,38,1,2,2,17,2,5,5,7,12,LDLWWDDWDWDL,1,3,2,3,5,8,2,7,3,9,10,DWDWDDDWWDDW,0,2,3,3,8,LLWDDD,WWDWD
+Toulouse,Ajaccio,4-1,/match/toulouse-fc/ajaccio/2000,2000,13,ligue_2,20,38,0,4,1,15,5,2,5,14,10,LLWDWLLDLLLW,2,0,4,5,6,12,4,2,6,13,15,LDLWLDWWWWWW,0,2,3,5,9,LWWLLL,DWDWW
+Louhans Cuiseaux,Chateauroux,1-3,/match/lohuans-cuiseaux/berrichonne-chateauroux/2000,2000,13,ligue_2,20,38,2,1,3,19,2,4,6,8,15,LWLLDWDDWWDW,1,3,2,4,4,18,2,5,5,11,17,DDLLLWLWDDWD,1,2,2,3,7,LLDDWD,DLWWD
+Valence,Lille,2-2,/match/valence/lillestrom/2000,2000,13,ligue_2,20,38,1,2,2,16,2,4,6,10,15,DWWWDDWDWWLW,2,2,1,4,1,1,10,1,1,20,5,LWDWLWLWLWWW,4,1,1,9,3,WWDDL,LDLLLW
+Cannes,Amiens SC,1-0,/match/as-cannes/amiens-sc/2000,2000,13,ligue_2,20,38,0,1,0,9,5,3,4,11,12,LLLWWWDDWDLW,3,0,2,5,6,5,4,7,1,16,13,LDDWLWDDDDDL,2,4,0,9,6,LWWWL,LDLDDD
+Caen,Guingamp,1-2,/match/caen/guingamp/2000,2000,13,ligue_2,20,38,2,1,2,4,6,4,2,15,8,LDDDWWWLDLWL,2,3,0,5,3,2,6,4,2,22,16,LLLWDDLDLWDW,3,2,0,10,6,DDWDW,LDLLD
+Chateauroux,Toulouse,0-3,/match/berrichonne-chateauroux/toulouse-fc/2000,2000,14,ligue_2,20,38,2,0,3,18,3,5,5,14,18,DDLLLWLWDDWDL,1,3,3,8,10,10,6,2,5,18,11,LLWDWLLDLLLWW,3,2,1,9,4,DLLLDWD,LDLDLW
+Stade Lavallois,Caen,1-1,/match/stade-lavallois/caen/2000,2000,14,ligue_2,20,38,1,1,1,14,3,5,5,11,13,LDLWDDWWWLDWD,3,1,3,9,8,4,6,4,3,16,10,LDDDWWWLDLWLL,4,1,2,10,5,LLWDWLW,LDWWLLL
+Guingamp,Cannes,2-1,/match/guingamp/as-cannes/2000,2000,14,ligue_2,20,38,0,2,1,2,7,4,2,24,17,LLLWDDLDLWDWL,3,2,2,12,10,6,6,3,4,12,12,LLLWWWDDWDLWW,2,3,2,6,6,LLWDDWW,LLWDDDW
+Amiens SC,Valence,0-0,/match/amiens-sc/valence/2000,2000,14,ligue_2,20,38,1,0,0,7,4,7,2,16,14,LDDWLWDDDDDLW,2,3,1,7,7,16,2,5,6,12,17,DWWWDDWDWWLWD,0,2,5,6,14,DWWDDL,DWDWWWW
+Lille,Lorient,1-0,/match/lillestrom/lorient/2000,2000,14,ligue_2,20,38,0,1,0,1,10,2,1,22,7,LWDWLWLWLWWWD,6,0,0,11,2,11,5,3,5,12,12,LDLDWWWLWWLWD,3,0,4,4,7,WWWWWW,LLWWWLW
+Sochaux,FC Gueugnon,0-1,/match/sochaux/fc-gueugnon/2000,2000,14,ligue_2,20,38,2,0,1,12,5,3,5,16,14,WWLLDLDWWLLWD,3,0,3,7,7,8,5,5,3,18,13,DDLLWDWWDDLWL,3,2,2,9,7,WLLWLW,DLWWDLL
+Louhans Cuiseaux,Creteil,1-2,/match/lohuans-cuiseaux/creteil-lusitanos/2000,2000,14,ligue_2,20,38,2,1,2,19,2,4,7,9,18,LWLLDWDDWWDWL,1,3,3,5,7,15,3,4,6,11,17,DLDWWWDWWWLDL,1,1,4,3,7,LLDDWDL,LWWWWD
+Ajaccio,ES Wasquehal,2-1,/match/ajaccio/waquehal/2000,2000,14,ligue_2,20,38,0,2,1,13,4,2,7,14,19,LDLWLDWWWWWWW,4,0,3,8,6,17,2,6,5,9,14,LDLWWDDWDWDLD,1,2,3,4,7,LLLWWWW,DWDWWL
+Nice,Niort,0-0,/match/nice/chamois-niortais/2000,2000,14,ligue_2,20,38,1,0,0,9,2,8,3,11,12,DWDWDDDWWDDWD,2,5,0,6,2,20,1,6,6,10,19,DDDWDWWWLDDWL,0,3,4,5,11,DDDDWDW,DDWWWDW
+Nîmes,Le Mans,1-2,/match/nimes-olympique/mans-uc-72/2000,2000,14,ligue_2,20,38,2,1,2,3,6,4,3,13,10,WWDWDWDWDWLLL,4,2,1,10,7,5,4,6,3,15,16,LDDDWDWWWWDWD,1,3,3,6,10,WDDWWWL,LDDDWWW
+Valence,Guingamp,1-1,/match/valence/guingamp/2000,2000,15,ligue_2,20,38,1,1,1,16,2,6,6,12,17,DWWWDDWDWWLWDD,2,3,1,6,3,2,8,4,2,26,18,LLLWDDLDLWDWLW,4,2,0,12,7,WWDDLD,LDLLDL
+Cannes,Stade Lavallois,0-0,/match/as-cannes/stade-lavallois/2000,2000,15,ligue_2,20,38,1,0,0,8,6,3,5,13,14,LLLWWWDDWDLWWW,4,0,2,6,6,12,3,6,5,12,14,LDLWDDWWWLDWDD,0,4,2,2,5,LWWWLW,DDWWDD
+Le Mans,Nice,0-0,/match/mans-uc-72/nice/2000,2000,15,ligue_2,20,38,1,0,0,4,5,6,3,17,17,LDDDWDWWWWDWDL,3,3,0,9,6,9,2,9,3,11,12,DWDWDDDWWDDWDD,0,3,3,5,10,DWWWDD,WWDWDD
+Niort,Ajaccio,1-0,/match/chamois-niortais/ajaccio/2000,2000,15,ligue_2,20,38,0,1,0,19,1,7,6,10,19,DDDWDWWWLDDWLD,1,3,2,5,8,10,5,2,7,16,20,LDLWLDWWWWWWWW,0,2,4,6,13,DDWLDL,DWDWWW
+Creteil,Sochaux,0-0,/match/creteil-lusitanos/sochaux/2000,2000,15,ligue_2,20,38,1,0,0,15,4,4,6,13,18,DLDWWWDWWWLDLL,2,3,2,8,10,14,5,3,6,16,15,WWLLDLDWWLLWDL,2,3,2,9,7,DDWDWLL,WLDDWLD
+ES Wasquehal,Chateauroux,0-0,/match/waquehal/berrichonne-chateauroux/2000,2000,15,ligue_2,20,38,1,0,0,17,2,6,6,10,16,LDLWWDDWDWDLDW,1,4,2,5,7,18,3,5,6,14,21,DDLLLWLWDDWDLL,2,2,2,6,8,LLWDDDD,DLWWDL
+Toulouse,Louhans Cuiseaux,2-0,/match/toulouse-fc/lohuans-cuiseaux/2000,2000,15,ligue_2,20,38,0,2,0,11,7,2,5,21,11,LLWDWLLDLLLWWL,3,0,4,9,7,20,2,4,8,10,20,LWLLDWDDWWDWLL,1,1,4,4,11,LWWLLLW,WLWDWW
+FC Gueugnon,Lille,0-1,/match/fc-gueugnon/lillestrom/2000,2000,15,ligue_2,20,38,2,0,1,7,6,5,3,19,13,DDLLWDWWDDLWLL,2,3,1,9,6,1,11,2,1,23,7,LWDWLWLWLWWWDW,4,2,1,11,5,DLDWDW,LDLLLWD
+Lorient,Amiens SC,2-0,/match/lorient/amiens-sc/2000,2000,15,ligue_2,20,38,0,2,0,13,5,3,6,12,13,LDLDWWWLWWLWDW,2,3,1,8,5,6,4,8,2,16,14,LDDWLWDDDDDLWD,2,4,1,9,7,DDWLWD,LDLDDDW
+Caen,Nîmes,2-1,/match/caen/nimes-olympique/2000,2000,15,ligue_2,20,38,0,2,1,5,6,5,3,17,11,LDDDWWWLDLWLLD,2,3,1,6,5,3,6,4,4,14,12,WWDWDWDWDWLLLL,2,2,2,3,3,DDWDWL,WWDDLL
+Guingamp,Lorient,3-0,/match/guingamp/lorient/2000,2000,16,ligue_2,20,38,0,3,0,2,8,5,2,27,19,LLLWDDLDLWDWLWD,4,2,2,14,11,11,6,3,6,14,13,LDLDWWWLWWLWDWW,3,0,5,4,8,LLWDDWWW,LLWWWLWW
+Ajaccio,Le Mans,0-1,/match/ajaccio/mans-uc-72/2000,2000,16,ligue_2,20,38,2,0,1,12,5,2,8,16,21,LDLWLDWWWWWWWWW,5,0,3,10,7,4,5,7,3,17,17,LDDDWDWWWWDWDLD,2,3,3,8,11,LLLWWWWW,LDDDWWWL
+Nice,Caen,0-0,/match/nice/caen/2000,2000,16,ligue_2,20,38,1,0,0,10,2,10,3,11,12,DWDWDDDWWDDWDDD,2,6,0,6,2,3,7,5,3,19,12,LDDDWWWLDLWLLDW,4,2,2,11,6,DDDDWDWD,LDWWLLLD
+Nîmes,Cannes,1-1,/match/nimes-olympique/as-cannes/2000,2000,16,ligue_2,20,38,1,1,1,6,6,4,5,15,14,WWDWDWDWDWLLLLW,4,2,2,11,9,7,6,4,5,13,14,LLLWWWDDWDLWWWD,2,3,3,7,8,WDDWWWLL,LLWDDDWW
+Stade Lavallois,Valence,3-2,/match/stade-lavallois/valence/2000,2000,16,ligue_2,20,38,0,3,2,13,3,7,5,12,14,LDLWDDWWWLDWDDD,3,2,3,10,9,16,2,7,6,13,18,DWWWDDWDWWLWDDD,0,3,5,6,14,LLWDWLWD,DWDWWWWD
+Amiens SC,FC Gueugnon,1-1,/match/amiens-sc/fc-gueugnon/2000,2000,16,ligue_2,20,38,1,1,1,8,4,8,3,16,16,LDDWLWDDDDDLWDW,2,4,1,7,7,9,6,5,4,19,14,DDLLWDWWDDLWLLL,4,2,2,10,7,DWWDDLD,DLWWDLLL
+Lille,Sochaux,0-1,/match/lillestrom/sochaux/2000,2000,16,ligue_2,20,38,2,0,1,1,12,2,1,24,7,LWDWLWLWLWWWDWL,7,0,0,12,2,15,5,4,6,16,15,WWLLDLDWWLLWDLD,2,4,2,9,7,WWWWWWW,WLDDWLDD
+Toulouse,Creteil,1-1,/match/toulouse-fc/creteil-lusitanos/2000,2000,16,ligue_2,20,38,1,1,1,5,8,2,5,23,11,LLWDWLLDLLLWWLW,4,0,4,11,7,14,4,5,6,13,18,DLDWWWDWWWLDLLD,2,1,4,5,8,LWWLLLWW,LWWWWDL
+Louhans Cuiseaux,ES Wasquehal,2-1,/match/lohuans-cuiseaux/waquehal/2000,2000,16,ligue_2,20,38,0,2,1,20,2,4,9,10,22,LWLLDWDDWWDWLLW,1,3,4,6,9,17,2,7,6,10,16,LDLWWDDWDWDLDWD,1,2,4,5,9,LLDDWDLL,DWDWWLW
+Chateauroux,Niort,1-0,/match/berrichonne-chateauroux/chamois-niortais/2000,2000,16,ligue_2,20,38,0,1,0,19,3,6,6,14,21,DDLLLWLWDDWDLLD,1,3,4,8,13,18,2,7,6,11,19,DDDWDWWWLDDWLDW,0,4,4,5,11,DLLLDWDL,DDWWWDWD
+Cannes,Nice,0-1,/match/as-cannes/nice/2000,2000,17,ligue_2,20,38,2,0,1,7,6,5,5,14,15,LLLWWWDDWDLWWWDD,4,1,2,6,6,9,2,11,3,11,12,DWDWDDDWWDDWDDDD,0,4,3,5,10,LWWWLWD,WWDWDDD
+Valence,Nîmes,0-2,/match/valence/nimes-olympique/2000,2000,17,ligue_2,20,38,2,0,2,17,2,7,7,15,21,DWWWDDWDWWLWDDDW,2,4,1,7,4,6,6,5,5,16,15,WWDWDWDWDWLLLLWD,2,2,3,4,5,WWDDLDD,WWDDLLW
+Caen,Ajaccio,1-1,/match/caen/ajaccio/2000,2000,17,ligue_2,20,38,1,1,1,3,7,6,3,19,12,LDDDWWWLDLWLLDWD,3,3,1,8,6,13,5,2,9,16,22,LDLWLDWWWWWWWWWL,0,2,5,6,14,DDWDWLW,DWDWWWW
+Le Mans,Chateauroux,2-1,/match/mans-uc-72/berrichonne-chateauroux/2000,2000,17,ligue_2,20,38,0,2,1,4,6,7,3,18,17,LDDDWDWWWWDWDLDL,3,4,0,9,6,16,4,6,6,15,21,DDLLLWLWDDWDLLDW,2,3,2,6,8,DWWWDDD,DLWWDLD
+Niort,Louhans Cuiseaux,1-0,/match/chamois-niortais/lohuans-cuiseaux/2000,2000,17,ligue_2,20,38,0,1,0,19,2,7,7,11,20,DDDWDWWWLDDWLDWW,2,3,2,6,8,20,3,4,9,12,23,LWLLDWDDWWDWLLWW,1,1,5,4,13,DDWLDLW,WLWDWWW
+Creteil,Lille,1-0,/match/creteil-lusitanos/lillestrom/2000,2000,17,ligue_2,20,38,0,1,0,14,4,6,6,14,19,DLDWWWDWWWLDLLDD,2,4,2,8,10,1,12,2,2,24,8,LWDWLWLWLWWWDWLL,5,2,1,12,5,DDWDWLLD,LDLLLWDL
+ES Wasquehal,Toulouse,0-1,/match/waquehal/toulouse-fc/2000,2000,17,ligue_2,20,38,2,0,1,18,2,7,7,11,18,LDLWWDDWDWDLDWDW,1,5,2,5,7,5,8,3,5,24,12,LLWDWLLDLLLWWLWD,4,2,1,12,4,LLWDDDDD,LDLDLWL
+Sochaux,Amiens SC,3-2,/match/sochaux/amiens-sc/2000,2000,17,ligue_2,20,38,0,3,2,15,6,4,6,17,15,WWLLDLDWWLLWDLDL,3,0,4,7,8,8,4,9,3,17,17,LDDWLWDDDDDLWDWD,2,4,2,9,9,WLLWLWL,LDLDDDWW
+FC Gueugnon,Guingamp,1-1,/match/fc-gueugnon/guingamp/2000,2000,17,ligue_2,20,38,1,1,1,11,6,6,4,20,15,DDLLWDWWDDLWLLLD,2,3,2,9,7,2,9,5,2,30,19,LLLWDDLDLWDWLWDW,4,3,0,13,8,DLDWDWL,LDLLDLD
+Lorient,Stade Lavallois,0-0,/match/lorient/stade-lavallois/2000,2000,17,ligue_2,20,38,1,0,0,12,6,3,7,14,16,LDLDWWWLWWLWDWWW,3,3,1,10,5,10,4,7,5,15,16,LDLWDDWWWLDWDDDW,0,5,2,2,5,DDWLWDW,DDWWDDD
+Chateauroux,Caen,0-0,/match/berrichonne-chateauroux/caen/2000,2000,18,ligue_2,20,38,1,0,0,17,4,6,7,16,23,DDLLLWLWDDWDLLDWW,2,3,4,9,13,4,7,7,3,20,13,LDDDWWWLDLWLLDWDD,4,3,2,11,6,DLLLDWDLW,LDWWLLLDD
+Ajaccio,Cannes,1-0,/match/ajaccio/as-cannes/2000,2000,18,ligue_2,20,38,0,1,0,15,5,3,9,17,23,LDLWLDWWWWWWWWWLD,5,0,4,10,8,11,6,5,6,14,16,LLLWWWDDWDLWWWDDL,2,4,3,8,9,LLLWWWWWL,LLWDDDWWD
+Nice,Valence,0-0,/match/nice/valence/2000,2000,18,ligue_2,20,38,1,0,0,7,3,11,3,12,12,DWDWDDDWWDDWDDDDL,2,7,0,6,2,18,2,7,8,15,23,DWWWDDWDWWLWDDDWL,0,3,6,8,17,DDDDWDWDD,DWDWWWWDW
+Nîmes,Lorient,1-2,/match/nimes-olympique/lorient/2000,2000,18,ligue_2,20,38,2,1,2,6,7,5,5,18,15,WWDWDWDWDWLLLLWDL,4,3,2,12,10,12,6,4,7,14,16,LDLDWWWLWWLWDWWWD,3,0,6,4,11,WDDWWWLLD,LLWWWLWWW
+Stade Lavallois,FC Gueugnon,2-1,/match/stade-lavallois/fc-gueugnon/2000,2000,18,ligue_2,20,38,0,2,1,10,4,8,5,15,16,LDLWDDWWWLDWDDDWD,4,2,3,13,11,8,6,7,4,21,16,DDLLWDWWDDLWLLLDD,4,3,2,11,8,LLWDWLWDW,DLWWDLLLD
+Guingamp,Sochaux,1-2,/match/guingamp/sochaux/2000,2000,18,ligue_2,20,38,2,1,2,2,9,6,2,31,20,LLLWDDLDLWDWLWDWD,5,2,2,17,11,14,7,4,6,20,17,WWLLDLDWWLLWDLDLW,3,4,2,10,7,LLWDDWWWW,WLDDWLDDL
+Amiens SC,Lille,0-1,/match/amiens-sc/lillestrom/2000,2000,18,ligue_2,20,38,2,0,1,9,4,9,4,19,20,LDDWLWDDDDDLWDWDW,2,5,1,8,8,1,12,2,3,24,9,LWDWLWLWLWWWDWLLW,5,2,2,12,6,DWWDDLDD,LDLLLWDLW
+ES Wasquehal,Creteil,1-0,/match/waquehal/creteil-lusitanos/2000,2000,18,ligue_2,20,38,0,1,0,19,2,7,8,11,19,LDLWWDDWDWDLDWDWL,1,5,3,5,8,13,5,6,6,15,19,DLDWWWDWWWLDLLDDW,2,2,4,6,9,LLWDDDDDL,LWWWWDLD
+Toulouse,Niort,1-1,/match/toulouse-fc/chamois-niortais/2000,2000,18,ligue_2,20,38,1,1,1,5,9,3,5,25,12,LLWDWLLDLLLWWLWDL,4,1,4,12,8,16,3,7,7,12,20,DDDWDWWWLDDWLDWWW,0,4,5,5,12,LWWLLLWWD,DDWWWDWDW
+Louhans Cuiseaux,Le Mans,0-1,/match/lohuans-cuiseaux/mans-uc-72/2000,2000,18,ligue_2,20,38,2,0,1,20,3,4,10,12,24,LWLLDWDDWWDWLLWWW,2,3,4,8,10,3,7,7,3,20,18,LDDDWDWWWWDWDLDLW,3,3,3,9,11,LLDDWDLLW,LDDDWWWLL
+FC Gueugnon,Nîmes,3-1,/match/fc-gueugnon/nimes-olympique/2000,2000,19,ligue_2,20,38,0,3,1,11,6,7,5,22,18,DDLLWDWWDDLWLLLDDW,2,4,2,10,8,6,7,5,6,19,17,WWDWDWDWDWLLLLWDLL,3,2,3,6,5,DLDWDWLD,WWDDLLWL
+Lorient,Nice,0-1,/match/lorient/nice/2000,2000,19,ligue_2,20,38,2,0,1,10,7,4,7,16,17,LDLDWWWLWWLWDWWWDL,3,4,1,10,5,7,3,12,3,12,12,DWDWDDDWWDDWDDDDLD,1,4,3,6,10,DDWLWDWD,WWDWDDDL
+Valence,Ajaccio,1-2,/match/valence/ajaccio/2000,2000,19,ligue_2,20,38,2,1,2,19,2,8,8,15,23,DWWWDDWDWWLWDDDWLD,2,4,2,7,6,12,6,3,9,18,23,LDLWLDWWWWWWWWWLDW,0,3,5,7,15,WWDDLDDL,DWDWWWWD
+Cannes,Chateauroux,0-1,/match/as-cannes/berrichonne-chateauroux/2000,2000,19,ligue_2,20,38,2,0,1,13,6,5,7,14,17,LLLWWWDDWDLWWWDDLW,4,1,3,6,7,17,4,7,7,16,23,DDLLLWLWDDWDLLDWWD,2,3,3,7,10,LWWWLWDL,DLWWDLDW
+Caen,Louhans Cuiseaux,6-1,/match/caen/lohuans-cuiseaux/2000,2000,19,ligue_2,20,38,0,6,1,4,7,8,3,20,13,LDDDWWWLDLWLLDWDDD,3,4,1,9,7,20,3,4,11,12,25,LWLLDWDDWWDWLLWWWL,1,1,6,4,14,DDWDWLWD,WLWDWWWW
+Le Mans,Toulouse,1-1,/match/mans-uc-72/toulouse-fc/2000,2000,19,ligue_2,20,38,1,1,1,3,8,7,3,21,18,LDDDWDWWWWDWDLDLWL,4,4,0,11,7,5,9,4,5,26,13,LLWDWLLDLLLWWLWDLD,5,2,1,13,4,DWWWDDDW,LDLDLWLL
+Niort,ES Wasquehal,0-0,/match/chamois-niortais/waquehal/2000,2000,19,ligue_2,20,38,1,0,0,16,3,8,7,13,21,DDDWDWWWLDDWLDWWWD,3,3,2,7,8,18,3,7,8,12,19,LDLWWDDWDWDLDWDWLW,1,2,5,6,11,DDWLDLWW,DWDWWLWW
+Creteil,Amiens SC,2-0,/match/creteil-lusitanos/amiens-sc/2000,2000,19,ligue_2,20,38,0,2,0,14,5,6,7,15,20,DLDWWWDWWWLDLLDDWW,3,4,2,9,10,15,4,9,5,19,21,LDDWLWDDDDDLWDWDWL,2,4,3,11,12,DDWDWLLDW,LDLDDDWWW
+Lille,Guingamp,2-0,/match/lillestrom/guingamp/2000,2000,19,ligue_2,20,38,0,2,0,1,13,2,3,25,9,LWDWLWLWLWWWDWLLWL,7,0,1,12,3,2,9,6,3,32,22,LLLWDDLDLWDWLWDWDL,4,4,0,14,9,WWWWWWWL,LDLLDLDD
+Sochaux,Stade Lavallois,0-2,/match/sochaux/stade-lavallois/2000,2000,19,ligue_2,20,38,2,0,2,9,8,4,6,22,18,WWLLDLDWWLLWDLDLWL,4,0,4,10,10,8,5,8,5,17,17,LDLWDDWWWLDWDDDWDW,0,6,2,2,5,WLLWLWLW,DDWWDDDD
+Ajaccio,FC Gueugnon,0-0,/match/ajaccio/fc-gueugnon/2000,2000,20,ligue_2,20,38,1,0,0,11,7,3,9,20,24,LDLWLDWWWWWWWWWLDWL,6,0,4,11,8,8,7,7,5,25,19,DDLLWDWWDDLWLLLDDWW,4,3,3,12,10,LLLWWWWWLW,DLWWDLLLDW
+Chateauroux,Lorient,1-0,/match/berrichonne-chateauroux/lorient/2000,2000,20,ligue_2,20,38,0,1,0,17,5,7,7,17,23,DDLLLWLWDDWDLLDWWDL,2,4,4,9,13,13,7,4,8,16,18,LDLDWWWLWWLWDWWWDLL,4,0,6,6,12,DLLLDWDLWD,LLWWWLWWWL
+Louhans Cuiseaux,Valence,3-2,/match/lohuans-cuiseaux/valence/2000,2000,20,ligue_2,20,38,0,3,2,20,3,4,12,13,31,LWLLDWDDWWDWLLWWWLW,2,3,5,8,11,19,2,8,9,16,25,DWWWDDWDWWLWDDDWLDL,0,4,6,8,17,LLDDWDLLWL,DWDWWWWDWD
+Toulouse,Cannes,2-1,/match/toulouse-fc/as-cannes/2000,2000,20,ligue_2,20,38,0,2,1,5,9,5,5,27,14,LLWDWLLDLLLWWLWDLDD,4,2,4,13,9,14,6,5,8,14,18,LLLWWWDDWDLWWWDDLWL,2,4,4,8,10,LWWLLLWWDD,LLWDDDWWDW
+ES Wasquehal,Caen,0-0,/match/waquehal/caen/2000,2000,20,ligue_2,20,38,1,0,0,18,3,8,8,12,19,LDLWWDDWDWDLDWDWLWD,2,5,3,6,8,3,8,8,3,26,14,LDDDWWWLDLWLLDWDDDW,4,4,2,11,6,LLWDDDDDLW,LDWWLLLDDD
+Niort,Le Mans,4-3,/match/chamois-niortais/mans-uc-72/2000,2000,20,ligue_2,20,38,0,4,3,16,3,9,7,13,21,DDDWDWWWLDDWLDWWWDD,3,4,2,7,8,2,8,8,3,22,19,LDDDWDWWWWDWDLDLWLD,4,3,3,10,11,DDWLDLWWD,LDDDWWWLLL
+Creteil,Guingamp,1-3,/match/creteil-lusitanos/guingamp/2000,2000,20,ligue_2,20,38,2,1,3,10,6,6,7,17,20,DLDWWWDWWWLDLLDDWWW,4,4,2,11,10,4,9,6,4,32,24,LLLWDDLDLWDWLWDWDLW,4,4,1,14,11,DDWDWLLDWW,LDLLDLDDW
+Stade Lavallois,Amiens SC,1-0,/match/stade-lavallois/amiens-sc/2000,2000,20,ligue_2,20,38,0,1,0,6,6,8,5,19,17,LDLWDDWWWLDWDDDWDWL,5,2,3,15,12,15,4,9,6,19,23,LDDWLWDDDDDLWDWDWLW,2,4,4,11,14,LLWDWLWDWW,LDLDDDWWWW
+Nice,Sochaux,2-1,/match/nice/sochaux/2000,2000,20,ligue_2,20,38,0,2,1,7,4,12,3,13,12,DWDWDDDWWDDWDDDDLDL,2,8,0,6,2,12,8,4,7,22,20,WWLLDLDWWLLWDLDLWLL,4,4,2,12,8,DDDDWDWDDD,WLDDWLDDLL
+Nîmes,Lille,3-3,/match/nimes-olympique/lillestrom/2000,2000,20,ligue_2,20,38,1,3,3,9,7,5,7,20,20,WWDWDWDWDWLLLLWDLLW,4,3,3,13,12,1,14,2,3,27,9,LWDWLWLWLWWWDWLLWLW,6,2,2,13,6,WDDWWWLLDL,LDLLLWDLWL
+Lille,Nice,1-0,/match/lillestrom/nice/2000,2000,21,ligue_2,20,38,0,1,0,1,14,3,3,30,12,LWDWLWLWLWWWDWLLWLWD,8,0,1,14,3,7,5,12,3,15,13,DWDWDDDWWDDWDDDDLDLW,2,4,3,7,10,WWWWWWWLW,WWDWDDDLL
+Guingamp,Stade Lavallois,2-2,/match/guingamp/stade-lavallois/2000,2000,21,ligue_2,20,38,1,2,2,2,10,6,4,35,25,LLLWDDLDLWDWLWDWDLWL,5,2,3,18,13,6,7,8,5,20,17,LDLWDDWWWLDWDDDWDWLW,1,6,2,4,5,LLWDDWWWWL,DDWWDDDDL
+Valence,Toulouse,0-2,/match/valence/toulouse-fc/2000,2000,21,ligue_2,20,38,2,0,2,20,2,8,10,18,28,DWWWDDWDWWLWDDDWLDLW,2,4,3,8,8,5,10,5,5,29,15,LLWDWLLDLLLWWLWDLDDW,5,3,1,14,5,WWDDLDDLL,LDLDLWLLD
+Lorient,Louhans Cuiseaux,5-1,/match/lorient/lohuans-cuiseaux/2000,2000,21,ligue_2,20,38,0,5,1,15,7,4,9,16,19,LDLDWWWLWWLWDWWWDLLW,3,4,2,10,6,19,4,4,12,16,33,LWLLDWDDWWDWLLWWWLWW,1,1,7,5,20,DDWLWDWDL,WLWDWWWWW
+FC Gueugnon,Chateauroux,1-1,/match/fc-gueugnon/berrichonne-chateauroux/2000,2000,21,ligue_2,20,38,1,1,1,8,7,8,5,25,19,DDLLWDWWDDLWLLLDDWWD,3,4,2,13,9,13,6,7,7,18,23,DDLLLWLWDDWDLLDWWDLW,3,3,3,8,10,DLDWDWLDW,DLWWDLDWL
+Sochaux,Ajaccio,1-2,/match/sochaux/ajaccio/2000,2000,21,ligue_2,20,38,2,1,2,14,8,4,8,23,22,WWLLDLDWWLLWDLDLWLLW,4,0,5,10,12,10,7,4,9,20,24,LDLWLDWWWWWWWWWLDWLD,1,3,5,9,16,WLLWLWLWL,DWDWWWWDL
+Amiens SC,Nîmes,0-0,/match/amiens-sc/nimes-olympique/2000,2000,21,ligue_2,20,38,1,0,0,17,4,9,7,19,24,LDDWLWDDDDDLWDWDWLWW,2,5,2,8,9,9,7,6,7,23,23,WWDWDWDWDWLLLLWDLLWD,3,2,4,7,8,DWWDDLDDL,WWDDLLWLW
+Caen,Niort,2-1,/match/caen/chamois-niortais/2000,2000,21,ligue_2,20,38,0,2,1,4,8,9,3,26,14,LDDDWWWLDLWLLDWDDDWD,4,4,1,15,8,12,4,9,7,17,24,DDDWDWWWLDDWLDWWWDDW,0,5,5,6,13,DDWDWLWDW,DDWWWDWDWD
+Le Mans,Creteil,2-0,/match/mans-uc-72/creteil-lusitanos/2000,2000,21,ligue_2,20,38,0,2,0,3,8,8,4,25,23,LDDDWDWWWWDWDLDLWLDW,4,5,0,12,8,11,6,6,8,18,23,DLDWWWDWWWLDLLDDWWWL,2,2,5,6,10,DWWWDDDWD,LWWWWDLDW
+Cannes,ES Wasquehal,0-0,/match/as-cannes/waquehal/2000,2000,21,ligue_2,20,38,1,0,0,16,6,5,9,15,20,LLLWWWDDWDLWWWDDLWLW,4,1,4,6,8,18,3,9,8,12,19,LDLWWDDWDWDLDWDWLWDD,1,3,5,6,11,LWWWLWDLL,DWDWWLWWD
+Toulouse,Lorient,5-0,/match/toulouse-fc/lorient/2000,2000,22,ligue_2,20,38,0,5,0,5,11,5,5,31,15,LLWDWLLDLLLWWLWDLDDWL,5,2,4,15,10,11,8,4,9,21,20,LDLDWWWLWWLWDWWWDLLWW,4,0,7,6,13,LWWLLLWWDDW,LLWWWLWWWLW
+Ajaccio,Lille,0-1,/match/ajaccio/lillestrom/2000,2000,22,ligue_2,20,38,2,0,1,10,8,4,9,22,25,LDLWLDWWWWWWWWWLDWLDL,6,1,4,11,8,1,15,3,3,31,12,LWDWLWLWLWWWDWLLWLWDW,6,3,2,16,9,LLLWWWWWLWD,LDLLLWDLWLD
+Chateauroux,Sochaux,1-1,/match/berrichonne-chateauroux/sochaux/2000,2000,22,ligue_2,20,38,1,1,1,12,6,8,7,19,24,DDLLLWLWDDWDLLDWWDLWD,3,4,4,10,13,15,8,4,9,24,24,WWLLDLDWWLLWDLDLWLLWL,4,4,3,13,10,DLLLDWDLWDW,WLDDWLDDLLW
+Louhans Cuiseaux,FC Gueugnon,1-1,/match/lohuans-cuiseaux/fc-gueugnon/2000,2000,22,ligue_2,20,38,1,1,1,19,4,4,13,17,38,LWLLDWDDWWDWLLWWWLWWW,3,3,5,11,13,8,7,9,5,26,20,DDLLWDWWDDLWLLLDDWWDD,4,4,3,12,10,LLDDWDLLWLW,DLWWDLLLDWD
+ES Wasquehal,Valence,3-3,/match/waquehal/valence/2000,2000,22,ligue_2,20,38,1,3,3,18,3,10,8,12,19,LDLWWDDWDWDLDWDWLWDDD,2,6,3,6,8,20,2,8,11,18,30,DWWWDDWDWWLWDDDWLDLWL,0,4,7,10,20,LLWDDDDDLWD,DWDWWWWDWDW
+Niort,Cannes,1-1,/match/chamois-niortais/as-cannes/2000,2000,22,ligue_2,20,38,1,1,1,14,4,9,8,18,26,DDDWDWWWLDDWLDWWWDDWW,4,4,2,11,11,16,6,6,9,15,20,LLLWWWDDWDLWWWDDLWLWD,2,4,5,9,12,DDWLDLWWDW,LLWDDDWWDWW
+Le Mans,Caen,0-0,/match/mans-uc-72/caen/2000,2000,22,ligue_2,20,38,1,0,0,2,9,8,4,27,23,LDDDWDWWWWDWDLDLWLDWW,5,5,0,14,8,3,9,9,3,28,15,LDDDWWWLDLWLLDWDDDWDW,4,5,2,11,6,DWWWDDDWDW,LDWWLLLDDDD
+Creteil,Stade Lavallois,2-0,/match/creteil-lusitanos/stade-lavallois/2000,2000,22,ligue_2,20,38,0,2,0,13,6,6,9,18,25,DLDWWWDWWWLDLLDDWWWLW,4,4,3,12,13,6,7,9,5,22,19,LDLWDDWWWLDWDDDWDWLWD,1,7,2,6,7,DDWDWLLDWWL,DDWWDDDDLD
+Nîmes,Guingamp,2-0,/match/nimes-olympique/guingamp/2000,2000,22,ligue_2,20,38,0,2,0,9,7,7,7,23,23,WWDWDWDWDWLLLLWDLLWDD,4,4,3,16,15,4,10,7,4,37,27,LLLWDDLDLWDWLWDWDLWLD,5,4,1,17,12,WDDWWWLLDLD,LDLLDLDDWL
+Nice,Amiens SC,0-0,/match/nice/amiens-sc/2000,2000,22,ligue_2,20,38,1,0,0,7,5,12,4,15,14,DWDWDDDWWDDWDDDDLDLWW,3,8,0,8,3,17,4,10,7,19,24,LDDWLWDDDDDLWDWDWLWWD,2,4,5,11,15,DDDDWDWDDDW,LDLDDDWWWWW
+Guingamp,Nice,5-0,/match/guingamp/nice/2000,2000,23,ligue_2,20,38,0,5,0,5,10,7,5,37,29,LLLWDDLDLWDWLWDWDLWLDW,5,3,3,20,15,6,5,13,4,15,14,DWDWDDDWWDDWDDDDLDLWWD,2,4,4,7,11,LLWDDWWWWLD,WWDWDDDLLW
+Lorient,ES Wasquehal,0-0,/match/lorient/waquehal/2000,2000,23,ligue_2,20,38,1,0,0,12,8,4,10,21,25,LDLDWWWLWWLWDWWWDLLWWW,4,4,2,15,7,18,3,11,8,15,22,LDLWWDDWDWDLDWDWLWDDDD,1,4,5,6,11,DDWLWDWDLW,DWDWWLWWDD
+FC Gueugnon,Toulouse,0-0,/match/fc-gueugnon/toulouse-fc/2000,2000,23,ligue_2,20,38,1,0,0,9,7,10,5,27,21,DDLLWDWWDDLWLLLDDWWDDD,3,5,2,14,10,2,12,5,5,36,15,LLWDWLLDLLLWWLWDLDDWLW,6,3,1,16,5,DLDWDWLDWD,LDLDLWLLDL
+Sochaux,Louhans Cuiseaux,1-1,/match/sochaux/lohuans-cuiseaux/2000,2000,23,ligue_2,20,38,1,1,1,15,8,5,9,25,25,WWLLDLDWWLLWDLDLWLLWLD,4,0,6,11,14,19,4,5,13,18,39,LWLLDWDDWWDWLLWWWLWWWD,1,1,8,6,25,WLLWLWLWLL,WLWDWWWWWW
+Lille,Chateauroux,1-0,/match/lillestrom/berrichonne-chateauroux/2000,2000,23,ligue_2,20,38,0,1,0,1,16,3,3,32,12,LWDWLWLWLWWWDWLLWLWDWL,9,0,1,15,3,13,6,9,7,20,25,DDLLLWLWDDWDLLDWWDLWDD,3,4,3,9,11,WWWWWWWLWW,DLWWDLDWLD
+Amiens SC,Ajaccio,0-1,/match/amiens-sc/ajaccio/2000,2000,23,ligue_2,20,38,2,0,1,17,4,11,7,19,24,LDDWLWDDDDDLWDWDWLWWDD,2,6,2,8,9,11,8,4,10,22,26,LDLWLDWWWWWWWWWLDWLDLL,2,3,5,11,17,DWWDDLDDLD,DWDWWWWDLL
+Stade Lavallois,Nîmes,1-1,/match/stade-lavallois/nimes-olympique/2000,2000,23,ligue_2,20,38,1,1,1,7,7,9,6,22,21,LDLWDDWWWLDWDDDWDWLWDW,6,2,3,16,12,8,8,7,7,25,23,WWDWDWDWDWLLLLWDLLWDDW,3,3,4,7,8,LLWDWLWDWWW,WWDDLLWLWD
+Cannes,Le Mans,2-1,/match/as-cannes/mans-uc-72/2000,2000,23,ligue_2,20,38,0,2,1,16,6,7,9,16,21,LLLWWWDDWDLWWWDDLWLWDD,4,2,4,6,8,3,9,9,4,27,23,LDDDWDWWWWDWDLDLWLDWWD,4,3,4,13,15,LWWWLWDLLD,LDDDWWWLLLW
+Valence,Niort,0-0,/match/valence/chamois-niortais/2000,2000,23,ligue_2,20,38,1,0,0,20,2,9,11,21,33,DWWWDDWDWWLWDDDWLDLWLD,2,4,4,8,10,14,4,10,8,19,27,DDDWDWWWLDDWLDWWWDDWWD,0,5,6,7,15,WWDDLDDLLL,DDWWWDWDWDW
+Caen,Creteil,1-1,/match/caen/creteil-lusitanos/2000,2000,23,ligue_2,20,38,1,1,1,4,9,10,3,28,15,LDDDWWWLDLWLLDWDDDWDWD,5,4,1,17,9,10,7,6,9,20,25,DLDWWWDWWWLDLLDDWWWLWW,2,2,6,6,12,DDWDWLWDWW,LWWWWDLDWW
+Toulouse,Sochaux,3-0,/match/toulouse-fc/sochaux/2000,2000,24,ligue_2,20,38,0,3,0,2,12,6,5,36,15,LLWDWLLDLLLWWLWDLDDWLWD,6,2,4,20,10,16,8,6,9,26,26,WWLLDLDWWLLWDLDLWLLWLDD,4,5,3,14,11,LWWLLLWWDDWW,WLDDWLDDLLWD
+Chateauroux,Amiens SC,0-0,/match/berrichonne-chateauroux/amiens-sc/2000,2000,24,ligue_2,20,38,1,0,0,14,6,9,8,20,26,DDLLLWLWDDWDLLDWWDLWDDW,3,5,4,11,14,17,4,11,8,19,25,LDDWLWDDDDDLWDWDWLWWDDL,2,5,5,11,15,DLLLDWDLWDWD,LDLDDDWWWWWD
+Louhans Cuiseaux,Lille,1-2,/match/lohuans-cuiseaux/lillestrom/2000,2000,24,ligue_2,20,38,2,1,2,19,4,6,13,19,40,LWLLDWDDWWDWLLWWWLWWWDD,3,4,5,12,14,1,17,3,3,33,12,LWDWLWLWLWWWDWLLWLWDWLW,7,3,2,17,9,LLDDWDLLWLWD,LDLLLWDLWLDL
+ES Wasquehal,FC Gueugnon,1-0,/match/waquehal/fc-gueugnon/2000,2000,24,ligue_2,20,38,0,1,0,18,3,12,8,15,22,LDLWWDDWDWDLDWDWLWDDDDD,2,7,3,9,11,9,7,11,5,27,21,DDLLWDWWDDLWLLLDDWWDDDD,4,5,3,13,11,LLWDDDDDLWDD,DLWWDLLLDWDD
+Niort,Lorient,1-0,/match/chamois-niortais/lorient/2000,2000,24,ligue_2,20,38,0,1,0,15,4,11,8,19,27,DDDWDWWWLDDWLDWWWDDWWDD,4,5,2,12,12,12,8,5,10,21,25,LDLDWWWLWWLWDWWWDLLWWWD,4,0,8,6,18,DDWLDLWWDWD,LLWWWLWWWLWW
+Le Mans,Valence,4-0,/match/mans-uc-72/valence/2000,2000,24,ligue_2,20,38,0,4,0,5,9,9,5,28,25,LDDDWDWWWWDWDLDLWLDWWDW,5,6,0,14,8,20,2,10,11,21,33,DWWWDDWDWWLWDDDWLDLWLDD,0,5,7,13,23,DWWWDDDWDWD,DWDWWWWDWDWD
+Caen,Cannes,1-1,/match/caen/as-cannes/2000,2000,24,ligue_2,20,38,1,1,1,3,9,11,3,29,16,LDDDWWWLDLWLLDWDDDWDWDD,5,5,1,18,10,13,7,7,9,18,22,LLLWWWDDWDLWWWDDLWLWDDW,2,5,5,10,13,DDWDWLWDWWD,LLWDDDWWDWWD
+Creteil,Nîmes,3-2,/match/creteil-lusitanos/nimes-olympique/2000,2000,24,ligue_2,20,38,0,3,2,11,7,7,9,21,26,DLDWWWDWWWLDLLDDWWWLWWD,5,4,3,14,13,8,8,8,7,26,24,WWDWDWDWDWLLLLWDLLWDDWD,3,4,4,8,9,DDWDWLLDWWLW,WWDDLLWLWDD
+Nice,Stade Lavallois,2-2,/match/nice/stade-lavallois/2000,2000,24,ligue_2,20,38,1,2,2,7,5,13,5,15,19,DWDWDDDWWDDWDDDDLDLWWDW,3,9,0,8,3,6,7,10,6,23,22,LDLWDDWWWLDWDDDWDWLWDWD,1,7,3,6,9,DDDDWDWDDDWD,DDWWDDDDLDW
+Ajaccio,Guingamp,1-0,/match/ajaccio/guingamp/2000,2000,24,ligue_2,20,38,0,1,0,10,9,4,10,23,26,LDLWLDWWWWWWWWWLDWLDLLL,6,1,5,11,9,4,11,7,5,42,29,LLLWDDLDLWDWLWDWDLWLDWW,5,4,2,17,14,LLLWWWWWLWDL,LDLLDLDDWLW
+Lille,Toulouse,2-0,/match/lillestrom/toulouse-fc/2000,2000,25,ligue_2,20,38,0,2,0,1,18,3,3,35,13,LWDWLWLWLWWWDWLLWLWDWLWL,10,0,1,16,3,2,13,6,5,39,15,LLWDWLLDLLLWWLWDLDDWLWDW,6,4,1,16,5,WWWWWWWLWWW,LDLDLWLLDLD
+Cannes,Creteil,1-0,/match/as-cannes/creteil-lusitanos/2000,2000,25,ligue_2,20,38,0,1,0,14,7,8,9,19,23,LLLWWWDDWDLWWWDDLWLWDDWD,5,2,4,8,9,9,8,7,9,24,28,DLDWWWDWWWLDLLDDWWWLWWDW,2,3,6,7,13,LWWWLWDLLDW,LWWWWDLDWWD
+Sochaux,ES Wasquehal,2-1,/match/sochaux/waquehal/2000,2000,25,ligue_2,20,38,0,2,1,17,8,6,10,26,29,WWLLDLDWWLLWDLDLWLLWLDDW,4,1,6,12,15,16,4,12,8,16,22,LDLWWDDWDWDLDWDWLWDDDDDW,1,5,5,6,11,WLLWLWLWLLD,DWDWWLWWDDD
+Amiens SC,Louhans Cuiseaux,1-1,/match/amiens-sc/lohuans-cuiseaux/2000,2000,25,ligue_2,20,38,1,1,1,18,4,12,8,19,25,LDDWLWDDDDDLWDWDWLWWDDLD,2,6,3,8,10,19,4,6,14,20,42,LWLLDWDDWWDWLLWWWLWWWDDL,1,2,8,7,26,DWWDDLDDLDL,WLWDWWWWWWD
+Guingamp,Chateauroux,3-2,/match/guingamp/berrichonne-chateauroux/2000,2000,25,ligue_2,20,38,0,3,2,5,11,7,6,42,30,LLLWDDLDLWDWLWDWDLWLDWWW,6,3,3,25,15,15,6,10,8,20,26,DDLLLWLWDDWDLLDWWDLWDDWD,3,4,4,9,12,LLWDDWWWWLDW,DLWWDLDWLDW
+Stade Lavallois,Ajaccio,1-0,/match/stade-lavallois/ajaccio/2000,2000,25,ligue_2,20,38,0,1,0,6,7,11,6,25,24,LDLWDDWWWLDWDDDWDWLWDWDD,6,3,3,17,13,8,10,4,10,24,26,LDLWLDWWWWWWWWWLDWLDLLLW,3,3,5,12,17,LLWDWLWDWWWD,DWDWWWWDLLL
+Nîmes,Nice,1-1,/match/nimes-olympique/nice/2000,2000,25,ligue_2,20,38,1,1,1,10,8,8,8,28,27,WWDWDWDWDWLLLLWDLLWDDWDW,5,4,3,18,15,7,5,14,5,17,21,DWDWDDDWWDDWDDDDLDLWWDWD,2,4,5,7,16,WDDWWWLLDLDW,WWDWDDDLLWW
+Valence,Caen,0-0,/match/valence/caen/2000,2000,25,ligue_2,20,38,1,0,0,20,2,10,12,21,37,DWWWDDWDWWLWDDDWLDLWLDDW,2,5,4,8,10,4,9,12,3,30,17,LDDDWWWLDLWLLDWDDDWDWDDD,4,6,2,11,6,WWDDLDDLLLD,LDWWLLLDDDDD
+Lorient,Le Mans,0-0,/match/lorient/mans-uc-72/2000,2000,25,ligue_2,20,38,1,0,0,13,8,5,11,21,26,LDLDWWWLWWLWDWWWDLLWWWDW,4,5,2,15,7,3,10,9,5,32,25,LDDDWDWWWWDWDLDLWLDWWDWW,4,3,5,14,17,DDWLWDWDLWD,LDDDWWWLLLWW
+FC Gueugnon,Niort,2-2,/match/fc-gueugnon/chamois-niortais/2000,2000,25,ligue_2,20,38,1,2,2,11,7,11,6,27,22,DDLLWDWWDDLWLLLDDWWDDDDW,3,6,2,14,10,12,5,11,8,20,27,DDDWDWWWLDDWLDWWWDDWWDDW,0,6,6,7,15,DLDWDWLDWDD,DDWWWDWDWDWD
+Le Mans,FC Gueugnon,1-1,/match/mans-uc-72/fc-gueugnon/2000,2000,26,ligue_2,20,38,1,1,1,2,10,10,5,32,25,LDDDWDWWWWDWDLDLWLDWWDWWD,6,6,0,18,8,9,7,12,6,29,24,DDLLWDWWDDLWLLLDDWWDDDDWD,4,5,4,13,12,DWWWDDDWDWDW,DLWWDLLLDWDDW
+Louhans Cuiseaux,Guingamp,0-0,/match/lohuans-cuiseaux/guingamp/2000,2000,26,ligue_2,20,38,1,0,0,19,4,7,14,21,43,LWLLDWDDWWDWLLWWWLWWWDDLD,3,4,6,13,16,3,12,7,6,45,32,LLLWDDLDLWDWLWDWDLWLDWWWW,5,4,3,17,15,LLDDWDLLWLWDL,LDLLDLDDWLWW
+Toulouse,Amiens SC,2-0,/match/toulouse-fc/amiens-sc/2000,2000,26,ligue_2,20,38,0,2,0,4,13,6,6,39,17,LLWDWLLDLLLWWLWDLDDWLWDWW,7,2,4,23,10,18,4,13,8,20,26,LDDWLWDDDDDLWDWDWLWWDDLDD,2,6,5,11,15,LWWLLLWWDDWWW,LDLDDDWWWWWDD
+ES Wasquehal,Lille,2-1,/match/waquehal/lillestrom/2000,2000,26,ligue_2,20,38,0,2,1,17,4,12,9,17,24,LDLWWDDWDWDLDWDWLWDDDDDWW,3,7,3,10,11,1,19,3,3,37,13,LWDWLWLWLWWWDWLLWLWDWLWLW,8,3,2,19,10,LLWDDDDDLWDDW,LDLLLWDLWLDLL
+Niort,Sochaux,2-1,/match/chamois-niortais/sochaux/2000,2000,26,ligue_2,20,38,0,2,1,13,5,12,8,22,29,DDDWDWWWLDDWLDWWWDDWWDDWD,5,5,2,13,12,15,9,6,10,28,30,WWLLDLDWWLLWDLDLWLLWLDDWW,4,5,4,14,14,DDWLDLWWDWDW,WLDDWLDDLLWDW
+Caen,Lorient,1-2,/match/caen/lorient/2000,2000,26,ligue_2,20,38,2,1,2,5,9,13,3,30,17,LDDDWWWLDLWLLDWDDDWDWDDDD,5,6,1,19,11,14,8,6,11,21,26,LDLDWWWLWWLWDWWWDLLWWWDWD,4,0,9,6,19,DDWDWLWDWWDD,LLWWWLWWWLWWW
+Cannes,Valence,0-0,/match/as-cannes/valence/2000,2000,26,ligue_2,20,38,1,0,0,12,8,8,9,20,23,LLLWWWDDWDLWWWDDLWLWDDWDW,6,2,4,9,9,20,2,11,12,21,37,DWWWDDWDWWLWDDDWLDLWLDDWD,0,5,8,13,27,LWWWLWDLLDWW,DWDWWWWDWDWDW
+Creteil,Nice,0-0,/match/creteil-lusitanos/nice/2000,2000,26,ligue_2,20,38,1,0,0,10,8,7,10,24,29,DLDWWWDWWWLDLLDDWWWLWWDWW,6,4,3,17,15,7,5,15,5,18,22,DWDWDDDWWDDWDDDDLDLWWDWDD,2,5,5,8,17,DDWDWLLDWWLWW,WWDWDDDLLWWD
+Ajaccio,Nîmes,2-1,/match/ajaccio/nimes-olympique/2000,2000,26,ligue_2,20,38,0,2,1,11,10,4,11,24,27,LDLWLDWWWWWWWWWLDWLDLLLWW,7,1,5,12,9,8,8,9,8,29,28,WWDWDWDWDWLLLLWDLLWDDWDWD,3,4,5,10,12,LLLWWWWWLWDLW,WWDDLLWLWDDW
+Chateauroux,Stade Lavallois,3-1,/match/berrichonne-chateauroux/stade-lavallois/2000,2000,26,ligue_2,20,38,0,3,1,16,6,10,9,22,29,DDLLLWLWDDWDLLDWWDLWDDWDW,3,6,4,11,14,6,8,11,6,26,24,LDLWDDWWWLDWDDDWDWLWDWDDW,1,8,3,8,11,DLLLDWDLWDWDD,DDWWDDDDLDWD
+Lille,Niort,1-0,/match/lillestrom/chamois-niortais/2000,2000,27,ligue_2,20,38,0,1,0,1,19,3,4,38,15,LWDWLWLWLWWWDWLLWLWDWLWLWW,11,0,1,18,3,10,6,12,8,24,30,DDDWDWWWLDDWLDWWWDDWWDDWDW,0,7,6,9,17,WWWWWWWLWWWW,DDWWWDWDWDWDD
+Valence,Creteil,3-1,/match/valence/creteil-lusitanos/2000,2000,27,ligue_2,20,38,0,3,1,20,2,12,12,21,37,DWWWDDWDWWLWDDDWLDLWLDDWDD,2,6,4,8,10,9,8,8,10,24,29,DLDWWWDWWWLDLLDDWWWLWWDWWD,2,3,7,7,14,WWDDLDDLLLDD,LWWWWDLDWWDW
+Amiens SC,ES Wasquehal,4-1,/match/amiens-sc/waquehal/2000,2000,27,ligue_2,20,38,0,4,1,18,4,13,9,20,28,LDDWLWDDDDDLWDWDWLWWDDLDDW,2,7,3,9,11,16,5,12,9,19,25,LDLWWDDWDWDLDWDWLWDDDDDWWW,1,5,6,7,13,DWWDDLDDLDLD,DWDWWLWWDDDW
+Stade Lavallois,Louhans Cuiseaux,1-0,/match/stade-lavallois/lohuans-cuiseaux/2000,2000,27,ligue_2,20,38,0,1,0,6,8,11,7,27,27,LDLWDDWWWLDWDDDWDWLWDWDDWW,7,3,3,18,13,19,4,8,14,21,43,LWLLDWDDWWDWLLWWWLWWWDDLDD,1,3,8,8,27,LLWDWLWDWWWDW,WLWDWWWWWWDD
+Nîmes,Chateauroux,1-1,/match/nimes-olympique/berrichonne-chateauroux/2000,2000,27,ligue_2,20,38,1,1,1,11,8,9,9,30,30,WWDWDWDWDWLLLLWDLLWDDWDWDW,5,5,3,19,16,15,7,10,9,25,30,DDLLLWLWDDWDLLDWWDLWDDWDWW,3,4,5,11,15,WDDWWWLLDLDWD,DLWWDLDWLDWW
+Nice,Ajaccio,0-1,/match/nice/ajaccio/2000,2000,27,ligue_2,20,38,2,0,1,8,5,16,5,18,22,DWDWDDDWWDDWDDDDLDLWWDWDDD,3,10,0,10,5,7,11,4,11,26,28,LDLWLDWWWWWWWWWLDWLDLLLWWW,3,3,6,12,18,DDDDWDWDDDWDD,DWDWWWWDLLLW
+Lorient,Cannes,1-1,/match/lorient/as-cannes/2000,2000,27,ligue_2,20,38,1,1,1,14,9,6,11,23,27,LDLDWWWLWWLWDWWWDLLWWWDWDL,4,6,2,15,7,13,8,9,9,20,23,LLLWWWDDWDLWWWDDLWLWDDWDWD,2,6,5,11,14,DDWLWDWDLWDD,LLWDDDWWDWWDD
+Sochaux,Le Mans,3-1,/match/sochaux/mans-uc-72/2000,2000,27,ligue_2,20,38,0,3,1,17,9,6,11,29,32,WWLLDLDWWLLWDLDLWLLWLDDWWW,5,1,6,14,16,3,10,11,5,33,26,LDDDWDWWWWDWDLDLWLDWWDWWDD,4,4,5,14,17,WLLWLWLWLLDW,LDDDWWWLLLWWD
+Guingamp,Toulouse,2-0,/match/guingamp/toulouse-fc/2000,2000,27,ligue_2,20,38,0,2,0,4,12,8,6,45,32,LLLWDDLDLWDWLWDWDLWLDWWWWD,7,3,3,28,17,2,14,6,6,41,17,LLWDWLLDLLLWWLWDLDDWLWDWWW,6,4,2,16,7,LLWDDWWWWLDWW,LDLDLWLLDLDW
+FC Gueugnon,Caen,4-0,/match/fc-gueugnon/caen/2000,2000,27,ligue_2,20,38,0,4,0,12,7,13,6,30,25,DDLLWDWWDDLWLLLDDWWDDDDWDD,3,7,2,16,12,5,9,13,4,31,19,LDDDWWWLDLWLLDWDDDWDWDDDDL,4,7,2,11,6,DLDWDWLDWDDD,LDWWLLLDDDDDD
+Caen,Sochaux,1-2,/match/caen/sochaux/2000,2000,28,ligue_2,20,38,2,1,2,6,9,13,5,31,23,LDDDWWWLDLWLLDWDDDWDWDDDDLW,5,6,2,20,13,16,10,6,11,32,33,WWLLDLDWWLLWDLDLWLLWLDDWWWW,4,5,5,15,16,DDWDWLWDWWDDL,WLDDWLDDLLWDWW
+Le Mans,Lille,1-1,/match/mans-uc-72/lillestrom/2000,2000,28,ligue_2,20,38,1,1,1,4,10,11,6,34,29,LDDDWDWWWWDWDLDLWLDWWDWWDDW,6,7,0,19,9,1,20,3,4,39,15,LWDWLWLWLWWWDWLLWLWDWLWLWWW,8,3,3,20,12,DWWWDDDWDWDWD,LDLLLWDLWLDLLW
+Toulouse,Stade Lavallois,0-2,/match/toulouse-fc/stade-lavallois/2000,2000,28,ligue_2,20,38,2,0,2,3,14,6,7,41,19,LLWDWLLDLLLWWLWDLDDWLWDWWWW,8,2,4,25,10,5,9,11,7,28,27,LDLWDDWWWLDWDDDWDWLWDWDDWWW,1,8,4,9,14,LWWLLLWWDDWWWW,DDWWDDDDLDWDW
+ES Wasquehal,Guingamp,2-3,/match/waquehal/guingamp/2000,2000,28,ligue_2,20,38,2,2,3,17,5,12,10,20,29,LDLWWDDWDWDLDWDWLWDDDDDWWWW,4,7,3,12,12,2,13,8,6,47,32,LLLWDDLDLWDWLWDWDLWLDWWWWDW,5,5,3,17,15,LLWDDDDDLWDDWW,LDLLDLDDWLWWD
+Niort,Amiens SC,1-2,/match/chamois-niortais/amiens-sc/2000,2000,28,ligue_2,20,38,2,1,2,11,6,12,9,24,31,DDDWDWWWLDDWLDWWWDDWWDDWDWW,6,5,2,15,13,18,5,13,9,24,29,LDDWLWDDDDDLWDWDWLWWDDLDDWW,2,6,6,11,17,DDWLDLWWDWDWW,LDLDDDWWWWWDDW
+Cannes,FC Gueugnon,1-1,/match/as-cannes/fc-gueugnon/2000,2000,28,ligue_2,20,38,1,1,1,13,8,10,9,21,24,LLLWWWDDWDLWWWDDLWLWDDWDWDD,6,3,4,9,9,8,8,13,6,34,25,DDLLWDWWDDLWLLLDDWWDDDDWDDW,4,6,4,14,13,LWWWLWDLLDWWD,DLWWDLLLDWDDWD
+Valence,Lorient,0-1,/match/valence/lorient/2000,2000,28,ligue_2,20,38,2,0,1,19,3,12,12,24,38,DWWWDDWDWWLWDDDWLDLWLDDWDDW,3,6,4,11,11,14,9,7,11,24,28,LDLDWWWLWWLWDWWWDLLWWWDWDLD,5,0,9,8,20,WWDDLDDLLLDDW,LLWWWLWWWLWWWL
+Creteil,Ajaccio,1-1,/match/creteil-lusitanos/ajaccio/2000,2000,28,ligue_2,20,38,1,1,1,12,8,8,11,25,32,DLDWWWDWWWLDLLDDWWWLWWDWWDW,6,5,3,17,15,7,12,4,11,27,28,LDLWLDWWWWWWWWWLDWLDLLLWWWL,4,3,6,13,18,DDWDWLLDWWLWWD,DWDWWWWDLLLWL
+Chateauroux,Nice,3-0,/match/berrichonne-chateauroux/nice/2000,2000,28,ligue_2,20,38,0,3,0,15,7,11,9,26,31,DDLLLWLWDDWDLLDWWDLWDDWDWWD,4,6,4,14,15,10,5,16,6,18,23,DWDWDDDWWDDWDDDDLDLWWDWDDDL,2,6,5,8,17,DLLLDWDLWDWDDW,WWDWDDDLLWWDD
+Louhans Cuiseaux,Nîmes,1-0,/match/lohuans-cuiseaux/nimes-olympique/2000,2000,28,ligue_2,20,38,0,1,0,20,4,8,15,21,44,LWLLDWDDWWDWLLWWWLWWWDDLDDW,3,5,6,13,16,9,8,10,9,31,31,WWDWDWDWDWLLLLWDLLWDDWDWDWD,3,4,6,11,14,LLDDWDLLWLWDLD,WWDDLLWLWDDWW
+Lille,Caen,3-2,/match/lillestrom/caen/2000,2000,29,ligue_2,20,38,0,3,2,1,20,4,4,40,16,LWDWLWLWLWWWDWLLWLWDWLWLWWWD,12,0,1,19,3,6,9,13,6,32,25,LDDDWWWLDLWLLDWDDDWDWDDDDLWL,4,7,3,11,10,WWWWWWWLWWWWW,LDWWLLLDDDDDDW
+Sochaux,Cannes,1-0,/match/sochaux/as-cannes/2000,2000,29,ligue_2,20,38,0,1,0,15,11,6,11,34,34,WWLLDLDWWLLWDLDLWLLWLDDWWWWL,6,1,6,17,17,10,8,11,9,22,25,LLLWWWDDWDLWWWDDLWLWDDWDWDDD,2,7,5,12,15,WLLWLWLWLLDWW,LLWDDDWWDWWDDD
+Amiens SC,Le Mans,2-0,/match/amiens-sc/mans-uc-72/2000,2000,29,ligue_2,20,38,0,2,0,17,6,13,9,26,30,LDDWLWDDDDDLWDWDWLWWDDLDDWWL,3,7,3,13,12,4,10,12,6,35,30,LDDDWDWWWWDWDLDLWLDWWDWWDDWD,4,4,6,15,20,DWWDDLDDLDLDW,LDDDWWWLLLWWDW
+Guingamp,Niort,1-1,/match/guingamp/chamois-niortais/2000,2000,29,ligue_2,20,38,1,1,1,2,14,8,6,50,34,LLLWDDLDLWDWLWDWDLWLDWWWWDWL,8,3,3,30,17,16,6,12,10,25,33,DDDWDWWWLDDWLDWWWDDWWDDWDWWL,0,7,7,9,18,LLWDDWWWWLDWWW,DDWWWDWDWDWDDW
+Lorient,Creteil,3-0,/match/lorient/creteil-lusitanos/2000,2000,29,ligue_2,20,38,0,3,0,14,10,7,11,25,28,LDLDWWWLWWLWDWWWDLLWWWDWDLDL,4,7,2,16,8,9,8,9,11,26,33,DLDWWWDWWWLDLLDDWWWLWWDWWDWD,2,3,8,8,17,DDWLWDWDLWDDD,LWWWWDLDWWDWW
+Stade Lavallois,ES Wasquehal,0-1,/match/stade-lavallois/waquehal/2000,2000,29,ligue_2,20,38,2,0,1,5,10,11,7,30,27,LDLWDDWWWLDWDDDWDWLWDWDDWWWL,8,3,3,19,13,18,5,12,11,22,32,LDLWWDDWDWDLDWDWLWDDDDDWWWWL,1,5,7,8,17,LLWDWLWDWWWDWW,DWDWWLWWDDDWW
+Nîmes,Toulouse,3-0,/match/nimes-olympique/toulouse-fc/2000,2000,29,ligue_2,20,38,0,3,0,12,8,10,10,31,32,WWDWDWDWDWLLLLWDLLWDDWDWDWDW,5,6,3,20,17,3,14,6,8,41,21,LLWDWLLDLLLWWLWDLDDWLWDWWWWL,6,4,3,16,9,WDDWWWLLDLDWDD,LDLDLWLLDLDWW
+Nice,Louhans Cuiseaux,2-0,/match/nice/lohuans-cuiseaux/2000,2000,29,ligue_2,20,38,0,2,0,13,5,16,7,18,26,DWDWDDDWWDDWDDDDLDLWWDWDDDLW,3,10,1,10,6,19,5,8,15,22,44,LWLLDWDDWWDWLLWWWLWWWDDLDDWW,1,3,9,8,28,DDDDWDWDDDWDDL,WLWDWWWWWWDDW
+Ajaccio,Chateauroux,1-0,/match/ajaccio/berrichonne-chateauroux/2000,2000,29,ligue_2,20,38,0,1,0,7,12,5,11,28,29,LDLWLDWWWWWWWWWLDWLDLLLWWWLD,8,1,5,14,10,11,8,11,9,29,31,DDLLLWLWDDWDLLDWWDLWDDWDWWDW,3,5,5,12,16,LLLWWWWWLWDLWW,DLWWDLDWLDWWD
+FC Gueugnon,Valence,0-0,/match/fc-gueugnon/valence/2000,2000,29,ligue_2,20,38,1,0,0,8,8,14,6,35,26,DDLLWDWWDDLWLLLDDWWDDDDWDDWD,4,7,2,20,12,20,3,12,13,24,39,DWWWDDWDWWLWDDDWLDLWLDDWDDWL,0,6,8,13,27,DLDWDWLDWDDDW,DWDWWWWDWDWDWD
+Toulouse,Nice,0-0,/match/toulouse-fc/nice/2000,2000,30,ligue_2,20,38,1,0,0,3,14,6,9,41,24,LLWDWLLDLLLWWLWDLDDWLWDWWWWLW,8,2,5,25,12,9,6,16,7,20,26,DWDWDDDWWDDWDDDDLDLWWDWDDDLWW,2,6,6,8,20,LWWLLLWWDDWWWWL,WWDWDDDLLWWDDW
+ES Wasquehal,Nîmes,0-0,/match/waquehal/nimes-olympique/2000,2000,30,ligue_2,20,38,1,0,0,18,6,12,11,23,32,LDLWWDDWDWDLDWDWLWDDDDDWWWWLL,4,7,4,14,15,11,9,10,10,34,32,WWDWDWDWDWLLLLWDLLWDDWDWDWDWW,3,4,7,11,15,LLWDDDDDLWDDWWL,WWDDLLWLWDDWWW
+Niort,Stade Lavallois,3-2,/match/chamois-niortais/stade-lavallois/2000,2000,30,ligue_2,20,38,0,3,2,16,6,13,10,26,34,DDDWDWWWLDDWLDWWWDDWWDDWDWWLD,6,5,3,16,15,5,10,11,8,30,28,LDLWDDWWWLDWDDDWDWLWDWDDWWWLL,2,8,4,11,14,DDWLDLWWDWDWWL,DDWWDDDDLDWDWL
+Caen,Amiens SC,4-1,/match/caen/amiens-sc/2000,2000,30,ligue_2,20,38,0,4,1,7,9,13,7,34,28,LDDDWWWLDLWLLDWDDDWDWDDDDLWLW,5,6,3,21,15,17,7,13,9,28,30,LDDWLWDDDDDLWDWDWLWWDDLDDWWLW,3,6,6,13,18,DDWDWLWDWWDDLL,LDLDDDWWWWWDDWL
+Valence,Sochaux,2-1,/match/valence/sochaux/2000,2000,30,ligue_2,20,38,0,2,1,20,3,13,13,24,39,DWWWDDWDWWLWDDDWLDLWLDDWDDWLD,3,6,5,11,12,12,12,6,11,35,34,WWLLDLDWWLLWDLDLWLLWLDDWWWWLW,5,5,5,17,17,WWDDLDDLLLDDWL,WLDDWLDDLLWDWWL
+Lorient,FC Gueugnon,0-3,/match/lorient/fc-gueugnon/2000,2000,30,ligue_2,20,38,2,0,3,10,11,7,11,28,28,LDLDWWWLWWLWDWWWDLLWWWDWDLDLW,5,7,2,19,8,8,8,15,6,35,26,DDLLWDWWDDLWLLLDDWWDDDDWDDWDD,4,7,4,15,14,DDWLWDWDLWDDDW,DLWWDLLLDWDDWDD
+Creteil,Chateauroux,0-1,/match/creteil-lusitanos/berrichonne-chateauroux/2000,2000,30,ligue_2,20,38,2,0,1,15,8,9,12,26,36,DLDWWWDWWWLDLLDDWWWLWWDWWDWDW,6,6,3,18,16,13,8,11,10,29,32,DDLLLWLWDDWDLLDWWDLWDDWDWWDWW,3,5,6,12,17,DDWDWLLDWWLWWDD,DLWWDLDWLDWWDW
+Louhans Cuiseaux,Ajaccio,1-1,/match/lohuans-cuiseaux/ajaccio/2000,2000,30,ligue_2,20,38,1,1,1,19,5,8,16,22,46,LWLLDWDDWWDWLLWWWLWWWDDLDDWWW,4,5,6,14,16,6,13,5,11,29,29,LDLWLDWWWWWWWWWLDWLDLLLWWWLDW,4,4,6,14,19,LLDDWDLLWLWDLDW,DWDWWWWDLLLWLD
+Le Mans,Guingamp,1-1,/match/mans-uc-72/guingamp/2000,2000,30,ligue_2,20,38,1,1,1,4,10,12,7,35,32,LDDDWDWWWWDWDLDLWLDWWDWWDDWDW,6,8,0,20,10,2,14,9,6,51,35,LLLWDDLDLWDWLWDWDLWLDWWWWDWLD,6,5,3,20,17,DWWWDDDWDWDWDD,LDLLDLDDWLWWDL
+Cannes,Lille,2-2,/match/as-cannes/lillestrom/2000,2000,30,ligue_2,20,38,1,2,2,14,8,11,10,22,26,LLLWWWDDWDLWWWDDLWLWDDWDWDDDW,6,4,4,10,10,1,21,4,4,43,18,LWDWLWLWLWWWDWLLWLWDWLWLWWWDW,8,4,3,21,13,LWWWLWDLLDWWDD,LDLLLWDLWLDLLWD
+FC Gueugnon,Creteil,1-0,/match/fc-gueugnon/creteil-lusitanos/2000,2000,31,ligue_2,20,38,0,1,0,8,9,15,6,38,26,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDL,4,8,2,20,12,16,8,9,13,26,37,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWL,2,3,9,8,20,DLDWDWLDWDDDWD,LWWWWDLDWWDWWW
+Guingamp,Caen,3-1,/match/guingamp/caen/2000,2000,31,ligue_2,20,38,0,3,1,2,14,10,6,52,36,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDD,8,4,3,31,18,6,10,13,7,38,29,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWW,4,7,4,13,13,LLWDDWWWWLDWWWD,LDWWLLLDDDDDDWW
+Amiens SC,Cannes,0-2,/match/amiens-sc/as-cannes/2000,2000,31,ligue_2,20,38,2,0,2,17,7,13,10,29,34,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWW,4,7,3,15,12,15,8,12,10,24,28,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWD,2,7,6,12,16,DWWDDLDDLDLDWW,LLWDDDWWDWWDDDW
+Stade Lavallois,Le Mans,2-1,/match/stade-lavallois/mans-uc-72/2000,2000,31,ligue_2,20,38,0,2,1,7,10,11,9,32,31,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLW,8,3,4,19,14,4,10,13,7,36,33,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWD,4,4,7,15,22,LLWDWLWDWWWDWWL,LDDDWWWLLLWWDWW
+Nice,ES Wasquehal,1-1,/match/nice/waquehal/2000,2000,31,ligue_2,20,38,1,1,1,10,6,17,7,20,26,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWD,4,10,1,12,6,18,6,13,11,23,32,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLD,2,5,7,9,17,DDDDWDWDDDWDDLW,DWDWWLWWDDDWWL
+Ajaccio,Toulouse,0-1,/match/ajaccio/toulouse-fc/2000,2000,31,ligue_2,20,38,2,0,1,5,13,6,11,30,30,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWD,9,1,5,15,10,3,14,7,9,41,24,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWD,6,4,4,16,12,LLLWWWWWLWDLWWW,LDLDLWLLDLDWWW
+Chateauroux,Louhans Cuiseaux,3-2,/match/berrichonne-chateauroux/lohuans-cuiseaux/2000,2000,31,ligue_2,20,38,0,3,2,14,9,11,10,30,32,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWL,5,6,4,17,15,20,5,9,16,23,47,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWD,1,3,10,8,30,DLLLDWDLWDWDDWW,WLWDWWWWWWDDWW
+Sochaux,Lorient,1-1,/match/sochaux/lorient/2000,2000,31,ligue_2,20,38,1,1,1,13,12,6,12,36,36,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWW,7,1,6,18,17,11,11,7,12,28,31,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWL,6,0,9,9,20,WLLWLWLWLLDWWW,LLWWWLWWWLWWWLL
+Lille,Valence,4-1,/match/lillestrom/valence/2000,2000,31,ligue_2,20,38,0,4,1,1,21,5,4,45,20,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWD,13,0,1,22,5,19,4,13,13,26,40,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDW,0,7,8,13,27,WWWWWWWLWWWWWW,DWDWWWWDWDWDWDD
+Nîmes,Niort,1-4,/match/nimes-olympique/chamois-niortais/2000,2000,31,ligue_2,20,38,2,1,4,9,9,11,10,34,32,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWD,6,6,3,23,17,12,7,13,10,29,36,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDW,0,8,7,10,19,WDDWWWLLDLDWDDW,DDWWWDWDWDWDDWD
+Toulouse,Chateauroux,0-1,/match/toulouse-fc/berrichonne-chateauroux/2000,2000,32,ligue_2,20,38,2,0,1,3,15,7,9,42,24,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWDL,8,3,5,25,12,9,10,11,10,33,34,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWLW,4,5,6,13,17,LWWLLLWWDDWWWWLD,DLWWDLDWLDWWDWL
+ES Wasquehal,Ajaccio,3-1,/match/waquehal/ajaccio/2000,2000,32,ligue_2,20,38,0,3,1,18,6,14,11,24,33,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLDD,4,8,4,14,15,7,13,6,12,30,31,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWDL,4,5,6,15,20,LLWDDDDDLWDDWWLD,DWDWWWWDLLLWLDD
+Niort,Nice,1-2,/match/chamois-niortais/nice/2000,2000,32,ligue_2,20,38,2,1,2,11,8,13,10,33,37,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDWL,7,5,3,19,17,10,6,18,7,21,27,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWDD,2,7,6,8,20,DDWLDLWWDWDWWLW,WWDWDDDLLWWDDWD
+Le Mans,Nîmes,1-0,/match/mans-uc-72/nimes-olympique/2000,2000,32,ligue_2,20,38,0,1,0,4,10,13,8,37,35,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWDW,6,9,0,21,11,15,9,11,11,35,36,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWDL,3,5,7,11,15,DWWWDDDWDWDWDDD,WWDDLLWLWDDWWWD
+Caen,Stade Lavallois,1-1,/match/caen/stade-lavallois/2000,2000,32,ligue_2,20,38,1,1,1,8,10,13,8,39,32,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWWW,6,6,3,25,16,5,11,11,9,34,32,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLWW,2,8,5,13,17,DDWDWLWDWWDDLLW,DDWWDDDDLDWDWLW
+Cannes,Guingamp,0-2,/match/as-cannes/guingamp/2000,2000,32,ligue_2,20,38,2,0,2,12,9,12,10,26,28,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWDL,6,5,4,12,12,2,15,10,6,55,37,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDDW,6,6,3,21,18,LWWWLWDLLDWWDDD,LDLLDLDDWLWWDLD
+Valence,Amiens SC,2-1,/match/valence/amiens-sc/2000,2000,32,ligue_2,20,38,0,2,1,19,4,13,14,27,44,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDWW,4,6,5,13,13,17,7,13,11,29,36,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWWL,3,6,7,14,22,WWDDLDDLLLDDWLW,LDLDDDWWWWWDDWLW
+Lorient,Lille,0-0,/match/lorient/lillestrom/2000,2000,32,ligue_2,20,38,1,0,0,13,11,8,12,29,32,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWLD,5,7,3,19,11,1,22,5,4,49,21,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWDW,8,5,3,23,15,DDWLWDWDLWDDDWL,LDLLLWDLWLDLLWDD
+FC Gueugnon,Sochaux,1-2,/match/fc-gueugnon/sochaux/2000,2000,32,ligue_2,20,38,2,1,2,6,10,15,6,39,26,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDLW,5,8,2,21,12,14,12,7,12,37,37,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWWD,5,5,6,18,19,DLDWDWLDWDDDWDW,WLDDWLDDLLWDWWLW
+Creteil,Louhans Cuiseaux,2-1,/match/creteil-lusitanos/lohuans-cuiseaux/2000,2000,32,ligue_2,20,38,0,2,1,16,8,9,14,26,38,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWLW,6,6,4,18,17,20,5,9,17,25,50,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWDW,1,3,11,10,33,DDWDWLLDWWLWWDDL,WLWDWWWWWWDDWWW
+Nîmes,Caen,0-0,/match/nimes-olympique/caen/2000,2000,33,ligue_2,20,38,1,0,0,15,9,11,12,35,37,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWDLW,6,6,4,24,21,7,10,14,8,40,33,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWWWD,4,7,5,14,16,WDDWWWLLDLDWDDWL,LDWWLLLDDDDDDWWW
+Guingamp,Valence,1-0,/match/guingamp/valence/2000,2000,33,ligue_2,20,38,0,1,0,2,16,10,6,57,37,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDDWL,9,4,3,34,19,19,5,13,14,29,45,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDWWW,0,7,9,14,31,LLWDDWWWWLDWWWDW,DWDWWWWDWDWDWDDW
+Stade Lavallois,Cannes,2-1,/match/stade-lavallois/as-cannes/2000,2000,33,ligue_2,20,38,0,2,1,5,11,12,9,35,33,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLWWD,9,3,4,21,15,14,9,12,11,26,30,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWDLL,3,7,6,14,16,LLWDWLWDWWWDWWLW,LLWDDDWWDWWDDDWL
+Nice,Le Mans,1-1,/match/nice/mans-uc-72/2000,2000,33,ligue_2,20,38,1,1,1,10,7,18,7,23,28,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWDDL,4,11,1,13,7,3,11,13,8,38,35,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWDWW,4,4,8,16,24,DDDDWDWDDDWDDLWD,LDDDWWWLLLWWDWWW
+Ajaccio,Niort,2-2,/match/ajaccio/chamois-niortais/2000,2000,33,ligue_2,20,38,1,2,2,8,13,6,13,31,34,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWDLW,9,1,6,15,11,13,8,13,11,34,39,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDWLL,1,8,7,14,20,LLLWWWWWLWDLWWWL,DDWWWDWDWDWDDWDL
+Sochaux,Creteil,5-1,/match/sochaux/creteil-lusitanos/2000,2000,33,ligue_2,20,38,0,5,1,12,13,7,12,39,38,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWWDL,7,2,6,19,18,16,9,9,14,28,39,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWLWW,2,3,10,8,21,WLLWLWLWLLDWWWD,LWWWWDLDWWDWWWW
+Chateauroux,ES Wasquehal,1-1,/match/berrichonne-chateauroux/waquehal/2000,2000,33,ligue_2,20,38,1,1,1,9,11,11,10,34,34,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWLWL,6,6,4,20,17,17,7,14,11,27,34,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLDDW,2,6,7,10,18,DLLLDWDLWDWDDWWW,DWDWWLWWDDDWWLD
+Louhans Cuiseaux,Toulouse,1-2,/match/lohuans-cuiseaux/toulouse-fc/2000,2000,33,ligue_2,20,38,2,1,2,20,5,9,18,26,52,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWDWW,4,6,6,15,17,4,15,7,10,42,25,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWDLL,7,4,4,17,12,LLDDWDLLWLWDLDWD,LDLDLWLLDLDWWWL
+Lille,FC Gueugnon,1-1,/match/lillestrom/fc-gueugnon/2000,2000,33,ligue_2,20,38,1,1,1,1,22,6,4,49,21,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWDWD,14,0,1,26,6,6,10,15,7,40,28,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDLWL,5,7,4,18,14,WWWWWWWLWWWWWWW,DLWWDLLLDWDDWDDL
+Amiens SC,Lorient,0-0,/match/amiens-sc/lorient/2000,2000,33,ligue_2,20,38,1,0,0,18,7,13,12,30,38,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWWLW,4,7,4,15,14,11,11,9,12,29,32,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWLDD,6,1,9,10,21,DWWDDLDDLDLDWWL,LLWWWLWWWLWWWLLD
+Lorient,Guingamp,0-2,/match/lorient/guingamp/2000,2000,34,ligue_2,20,38,2,0,2,12,11,10,12,29,32,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWLDDD,5,8,3,19,11,2,17,10,6,58,37,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDDWLW,7,6,3,23,18,DDWLWDWDLWDDDWLD,LDLLDLDDWLWWDLDL
+Niort,Chateauroux,1-0,/match/chamois-niortais/berrichonne-chateauroux/2000,2000,34,ligue_2,20,38,0,1,0,13,8,14,11,36,41,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDWLLD,7,5,4,20,19,10,11,12,10,35,35,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWLWLD,5,5,6,14,17,DDWLDLWWDWDWWLWL,DLWWDLDWLDWWDWLL
+Le Mans,Ajaccio,1-1,/match/mans-uc-72/ajaccio/2000,2000,34,ligue_2,20,38,1,1,1,3,11,14,8,39,36,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWDWWD,7,9,0,22,11,9,13,7,13,33,36,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWDLWD,4,5,7,16,23,DWWWDDDWDWDWDDDW,DWDWWWWDLLLWLDDW
+Caen,Nice,1-1,/match/caen/nice/2000,2000,34,ligue_2,20,38,1,1,1,7,10,15,8,40,33,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWWWDD,6,7,3,26,17,11,7,19,7,24,29,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWDDLD,3,7,6,10,21,DDWDWLWDWWDDLLWD,WWDWDDDLLWWDDWDL
+Cannes,Nîmes,2-0,/match/as-cannes/nimes-olympique/2000,2000,34,ligue_2,20,38,0,2,0,15,9,12,12,27,32,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWDLLW,6,5,5,12,14,14,9,12,12,35,37,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWDLWD,3,5,8,11,16,LWWWLWDLLDWWDDDL,WWDDLLWLWDDWWWDW
+Valence,Stade Lavallois,1-1,/match/valence/stade-lavallois/2000,2000,34,ligue_2,20,38,1,1,1,19,5,13,15,29,46,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDWWWW,5,6,5,15,14,4,12,12,9,37,34,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLWWDW,2,9,5,14,18,WWDDLDDLLLDDWLWW,DDWWDDDDLDWDWLWD
+Sochaux,Lille,2-0,/match/sochaux/lillestrom/2000,2000,34,ligue_2,20,38,0,2,0,8,14,7,12,44,39,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWWDLW,8,2,6,24,19,1,22,7,4,50,22,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWDWDD,8,6,3,23,15,WLLWLWLWLLDWWWDW,LDLLLWDLWLDLLWDDD
+Creteil,Toulouse,3-1,/match/creteil-lusitanos/toulouse-fc/2000,2000,34,ligue_2,20,38,0,3,1,16,9,9,15,29,44,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWLWWW,7,6,4,20,18,5,16,7,10,44,26,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWDLLL,8,4,4,19,13,DDWDWLLDWWLWWDDLW,LDLDLWLLDLDWWWLL
+ES Wasquehal,Louhans Cuiseaux,2-1,/match/waquehal/lohuans-cuiseaux/2000,2000,34,ligue_2,20,38,0,2,1,17,7,15,11,28,35,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLDDWD,5,8,4,17,16,20,5,9,19,27,54,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWDWWL,1,3,12,11,35,LLWDDDDDLWDDWWLDW,WLWDWWWWWWDDWWWW
+FC Gueugnon,Amiens SC,2-0,/match/fc-gueugnon/amiens-sc/2000,2000,34,ligue_2,20,38,0,2,0,6,10,16,7,41,29,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDLWLD,5,8,3,22,14,18,7,14,12,30,38,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWWLWD,3,6,8,15,24,DLDWDWLDWDDDWDWL,LDLDDDWWWWWDDWLWW
+Amiens SC,Sochaux,0-2,/match/amiens-sc/sochaux/2000,2000,35,ligue_2,20,38,2,0,2,18,7,14,13,30,40,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWWLWDW,4,8,4,15,14,7,15,7,12,46,39,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWWDLWW,6,5,6,20,20,DWWDDLDDLDLDWWLD,WLDDWLDDLLWDWWLWL
+Guingamp,FC Gueugnon,0-2,/match/guingamp/fc-gueugnon/2000,2000,35,ligue_2,20,38,2,0,2,2,18,10,6,60,37,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDDWLWL,10,4,3,35,19,6,11,16,7,43,29,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDLWLDW,5,8,4,19,15,LLWDDWWWWLDWWWDWW,DLWWDLLLDWDDWDDLD
+Stade Lavallois,Lorient,1-1,/match/stade-lavallois/lorient/2000,2000,35,ligue_2,20,38,1,1,1,4,12,13,9,38,35,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLWWDWD,10,3,4,23,16,16,11,10,13,29,34,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWLDDDL,6,2,9,10,21,LLWDWLWDWWWDWWLWW,LLWWWLWWWLWWWLLDD
+Nîmes,Valence,3-2,/match/nimes-olympique/valence/2000,2000,35,ligue_2,20,38,0,3,2,17,9,12,13,35,39,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWDLWDW,6,7,4,24,21,19,5,14,15,30,47,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDWWWWD,0,7,10,14,32,WDDWWWLLDLDWDDWLD,DWDWWWWDWDWDWDDWW
+Nice,Cannes,2-0,/match/nice/as-cannes/2000,2000,35,ligue_2,20,38,0,2,0,9,7,20,7,25,30,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWDDLDD,4,12,1,14,8,13,10,12,12,29,32,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWDLLWW,3,7,7,15,18,DDDDWDWDDDWDDLWDD,LLWDDDWWDWWDDDWLW
+Ajaccio,Caen,1-0,/match/ajaccio/caen/2000,2000,35,ligue_2,20,38,0,1,0,10,13,8,13,34,37,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWDLWDD,9,2,6,17,13,8,10,16,8,41,34,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWWWDDD,4,8,5,14,16,LLLWWWWWLWDLWWWLD,LDWWLLLDDDDDDWWWD
+Chateauroux,Le Mans,3-2,/match/berrichonne-chateauroux/mans-uc-72/2000,2000,35,ligue_2,20,38,0,3,2,11,11,12,11,35,36,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWLWLDW,6,7,4,21,18,3,11,15,8,40,37,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWDWWDD,4,5,8,17,25,DLLLDWDLWDWDDWWWD,LDDDWWWLLLWWDWWWD
+Louhans Cuiseaux,Niort,2-3,/match/lohuans-cuiseaux/chamois-niortais/2000,2000,35,ligue_2,20,38,2,2,3,20,5,9,20,28,56,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWDWWLW,4,6,7,16,19,12,9,14,11,37,41,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDWLLDW,1,9,7,16,22,LLDDWDLLWLWDLDWDL,DDWWWDWDWDWDDWDLD
+Lille,Creteil,5-0,/match/lillestrom/creteil-lusitanos/2000,2000,35,ligue_2,20,38,0,5,0,1,22,7,5,50,24,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWDWDDW,14,1,1,27,7,14,10,9,15,32,45,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWLWWWW,2,3,11,9,26,WWWWWWWLWWWWWWWD,LWWWWDLDWWDWWWWW
+Toulouse,ES Wasquehal,2-0,/match/toulouse-fc/waquehal/2000,2000,35,ligue_2,20,38,0,2,0,5,16,7,11,45,29,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWDLLLW,8,3,6,25,13,15,8,15,11,30,36,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLDDWDW,2,7,7,11,19,LWWLLLWWDDWWWWLDL,DWDWWLWWDDDWWLDD
+Creteil,ES Wasquehal,1-1,/match/creteil-lusitanos/waquehal/2000,2000,36,ligue_2,20,38,1,1,1,15,10,9,16,32,50,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWLWWWWW,8,6,4,23,19,16,8,15,12,30,38,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLDDWDWW,2,7,8,11,21,DDWDWLLDWWLWWDDLWW,DWDWWLWWDDDWWLDDW
+Le Mans,Louhans Cuiseaux,2-1,/match/mans-uc-72/lohuans-cuiseaux/2000,2000,36,ligue_2,20,38,0,2,1,5,11,15,9,42,40,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWDWWDDW,7,10,0,23,12,20,5,9,21,30,59,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWDWWLWL,1,3,13,12,37,DWWWDDDWDWDWDDDWD,WLWDWWWWWWDDWWWWW
+Caen,Chateauroux,4-1,/match/caen/berrichonne-chateauroux/2000,2000,36,ligue_2,20,38,0,4,1,11,10,16,9,41,35,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWWWDDDW,6,8,3,27,18,10,12,12,11,38,38,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWLWLDWW,5,5,7,14,18,DDWDWLWDWWDDLLWDD,DLWWDLDWLDWWDWLLW
+Cannes,Ajaccio,2-0,/match/as-cannes/ajaccio/2000,2000,36,ligue_2,20,38,0,2,0,14,10,12,13,29,34,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWDLLWWW,7,5,5,14,14,8,14,8,13,35,37,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWDLWDDW,4,6,7,17,24,LWWWLWDLLDWWDDDLW,DWDWWWWDLLLWLDDWD
+Valence,Nice,2-0,/match/valence/nice/2000,2000,36,ligue_2,20,38,0,2,0,19,5,14,16,32,50,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDWWWWDW,5,7,5,16,15,9,8,20,7,27,30,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWDDLDDW,3,8,6,11,22,WWDDLDDLLLDDWLWWD,WWDWDDDLLWWDDWDLD
+Lorient,Nîmes,0-1,/match/lorient/nimes-olympique/2000,2000,36,ligue_2,20,38,2,0,1,17,11,11,13,30,35,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWLDDDLD,5,8,4,19,13,13,10,12,13,38,41,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWDLWDWW,3,5,9,11,18,DDWLWDWDLWDDDWLDL,WWDDLLWLWDDWWWDWW
+Sochaux,Guingamp,1-1,/match/sochaux/guingamp/2000,2000,36,ligue_2,20,38,1,1,1,7,16,7,12,48,39,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWWDLWWL,9,2,6,26,19,2,18,10,7,60,39,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDDWLWLL,8,6,3,25,18,WLLWLWLWLLDWWWDWW,LDLLDLDDWLWWDLDLL
+Niort,Toulouse,1-1,/match/chamois-niortais/toulouse-fc/2000,2000,36,ligue_2,20,38,1,1,1,12,10,14,11,40,43,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDWLLDWL,8,5,4,21,19,4,17,7,11,47,29,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWDLLLWW,8,4,5,20,16,DDWLDLWWDWDWWLWLW,LDLDLWLLDLDWWWLLW
+Lille,Amiens SC,1-0,/match/lillestrom/amiens-sc/2000,2000,36,ligue_2,20,38,0,1,0,1,23,7,5,55,24,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWDWDDWW,15,1,1,32,7,18,7,14,14,30,42,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWWLWDWL,3,6,9,15,26,WWWWWWWLWWWWWWWDW,LDLDDDWWWWWDDWLWWW
+FC Gueugnon,Stade Lavallois,1-1,/match/fc-gueugnon/stade-lavallois/2000,2000,36,ligue_2,20,38,1,1,1,6,12,16,7,45,29,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDLWLDWL,6,8,3,24,14,3,12,14,9,39,36,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLWWDWDD,2,10,5,15,19,DLDWDWLDWDDDWDWLW,DDWWDDDDLDWDWLWDD
+Stade Lavallois,Sochaux,1-2,/match/stade-lavallois/sochaux/2000,2000,37,ligue_2,20,38,2,1,2,4,12,15,9,40,37,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLWWDWDDD,10,4,4,24,17,7,16,8,12,49,40,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWWDLWWLD,7,5,6,22,20,LLWDWLWDWWWDWWLWWD,WLDDWLDDLLWDWWLWLL
+Nîmes,FC Gueugnon,0-1,/match/nimes-olympique/fc-gueugnon/2000,2000,37,ligue_2,20,38,2,0,1,13,11,12,13,39,41,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWDLWDWWL,7,7,4,27,23,6,12,17,7,46,30,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDLWLDWLD,6,8,4,21,15,WDDWWWLLDLDWDDWLDW,DLWWDLLLDWDDWDDLDL
+Nice,Lorient,3-1,/match/nice/lorient/2000,2000,37,ligue_2,20,38,0,3,1,9,8,20,8,27,32,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWDDLDDWW,5,12,1,16,8,17,11,11,14,30,36,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWLDDDLDL,6,3,9,11,22,DDDDWDWDDDWDDLWDDW,LLWWWLWWWLWWWLLDDD
+Ajaccio,Valence,2-1,/match/ajaccio/valence/2000,2000,37,ligue_2,20,38,0,2,1,10,14,8,14,35,39,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWDLWDDWW,10,2,6,18,13,18,6,14,16,34,50,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDWWWWDWW,0,7,11,16,35,LLLWWWWWLWDLWWWLDW,DWDWWWWDWDWDWDDWWW
+Chateauroux,Cannes,3-0,/match/berrichonne-chateauroux/as-cannes/2000,2000,37,ligue_2,20,38,0,3,0,11,12,12,12,39,42,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWLWLDWWW,7,7,4,24,20,14,11,12,13,31,34,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWDLLWWWW,3,7,8,15,20,DLLLDWDLWDWDDWWWDW,LLWDDDWWDWWDDDWLWW
+Louhans Cuiseaux,Caen,0-4,/match/lohuans-cuiseaux/caen/2000,2000,37,ligue_2,20,38,2,0,4,20,5,9,22,31,61,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWDWWLWLW,4,6,8,18,22,8,11,16,9,45,36,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWWWDDDWW,4,8,6,14,17,LLDDWDLLWLWDLDWDLL,LDWWLLLDDDDDDWWWDW
+Toulouse,Le Mans,3-0,/match/toulouse-fc/mans-uc-72/2000,2000,37,ligue_2,20,38,0,3,0,5,17,8,11,48,30,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWDLLLWWD,9,3,6,27,13,3,12,15,9,44,41,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWDWWDDWW,4,5,9,19,28,LWWLLLWWDDWWWWLDLW,LDDDWWWLLLWWDWWWDW
+ES Wasquehal,Niort,2-0,/match/waquehal/chamois-niortais/2000,2000,37,ligue_2,20,38,0,2,0,16,8,16,12,31,39,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLDDWDWWD,6,8,4,19,17,12,10,15,11,41,44,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDWLLDWLD,2,9,7,19,24,LLWDDDDDLWDDWWLDWW,DDWWWDWDWDWDDWDLDL
+Amiens SC,Creteil,0-0,/match/amiens-sc/creteil-lusitanos/2000,2000,37,ligue_2,20,38,1,0,0,19,7,14,15,30,43,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWWLWDWLW,4,8,5,15,16,15,10,10,16,33,51,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWLWWWWWD,2,3,12,9,31,DWWDDLDDLDLDWWLDL,LWWWWDLDWWDWWWWWW
+Guingamp,Lille,1-1,/match/guingamp/lillestrom/2000,2000,37,ligue_2,20,38,1,1,1,2,18,11,7,61,40,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDDWLWLLD,10,4,4,35,21,1,24,7,5,56,24,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWDWDDWWW,8,6,4,23,17,LLWDDWWWWLDWWWDWWL,LDLLLWDLWLDLLWDDDW
+Cannes,Louhans Cuiseaux,2-1,/match/as-cannes/lohuans-cuiseaux/2000,2000,38,ligue_2,20,38,0,2,1,15,11,12,14,31,37,LLLWWWDDWDLWWWDDLWLWDDWDWDDDWDLLWWWWW,8,5,5,16,14,20,5,9,23,31,65,LWLLDWDDWWDWLLWWWLWWWDDLDDWWWDWWLWLWL,1,3,14,13,39,LWWWLWDLLDWWDDDLWW,WLWDWWWWWWDDWWWWWW
+Valence,Chateauroux,2-2,/match/valence/berrichonne-chateauroux/2000,2000,38,ligue_2,20,38,1,2,2,19,6,14,17,35,52,DWWWDDWDWWLWDDDWLDLWLDDWDDWLDWWWWDWWW,6,7,5,18,15,11,13,12,12,42,42,DDLLLWLWDDWDLLDWWDLWDDWDWWDWWLWLDWWWW,5,5,8,15,22,WWDDLDDLLLDDWLWWDW,DLWWDLDWLDWWDWLLWW
+Lorient,Ajaccio,1-0,/match/lorient/ajaccio/2000,2000,38,ligue_2,20,38,0,1,0,17,11,11,15,31,39,LDLDWWWLWWLWDWWWDLLWWWDWDLDLWLDDDLDLW,5,8,5,19,14,10,15,8,14,37,40,LDLWLDWWWWWWWWWLDWLDLLLWWWLDWDLWDDWWW,4,6,8,17,26,DDWLWDWDLWDDDWLDLL,DWDWWWWDLLLWLDDWDW
+FC Gueugnon,Nice,0-4,/match/fc-gueugnon/nice/2000,2000,38,ligue_2,20,38,2,0,4,5,13,17,7,47,30,DDLLWDWWDDLWLLLDDWWDDDDWDDWDDLWLDWLDL,6,9,3,25,15,9,9,20,8,30,33,DWDWDDDWWDDWDDDDLDLWWDWDDDLWWDDLDDWWW,3,8,7,11,24,DLDWDWLDWDDDWDWLWD,WWDWDDDLLWWDDWDLDW
+Sochaux,Nîmes,2-0,/match/sochaux/nimes-olympique/2000,2000,38,ligue_2,20,38,0,2,0,7,17,8,12,51,41,WWLLDLDWWLLWDLDLWLLWLDDWWWWLWWDLWWLDL,9,3,6,27,20,14,11,12,14,39,42,WWDWDWDWDWLLLLWDLLWDDWDWDWDWWDLWDWWLL,4,5,9,12,18,WLLWLWLWLLDWWWDWWD,WWDDLLWLWDDWWWDWWL
+Lille,Stade Lavallois,1-0,/match/lillestrom/stade-lavallois/2000,2000,38,ligue_2,20,38,0,1,0,1,24,8,5,57,25,LWDWLWLWLWWWDWLLWLWDWLWLWWWDWDWDDWWWD,16,1,1,33,7,6,12,15,10,41,39,LDLWDDWWWLDWDDDWDWLWDWDDWWWLLWWDWDDDL,2,11,5,16,20,WWWWWWWLWWWWWWWDWW,DDWWDDDDLDWDWLWDDD
+Amiens SC,Guingamp,0-0,/match/amiens-sc/guingamp/2000,2000,38,ligue_2,20,38,1,0,0,18,7,15,15,30,43,LDDWLWDDDDDLWDWDWLWWDDLDDWWLWWLWDWLWD,4,9,5,15,16,2,18,12,7,62,41,LLLWDDLDLWDWLWDWDLWLDWWWWDWLDDWLWLLDD,8,7,3,26,19,DWWDDLDDLDLDWWLDLD,LDLLDLDDWLWWDLDLLD
+Niort,Creteil,1-3,/match/chamois-niortais/creteil-lusitanos/2000,2000,38,ligue_2,20,38,2,1,3,12,10,15,12,41,46,DDDWDWWWLDDWLDWWWDDWWDDWDWWLDWLLDWLDW,8,6,4,22,20,16,10,11,16,33,51,DLDWWWDWWWLDLLDDWWWLWWDWWDWDWLWWWWWDD,2,4,12,9,31,DDWLDLWWDWDWWLWLWD,LWWWWDLDWWDWWWWWWD
+Le Mans,ES Wasquehal,0-0,/match/mans-uc-72/waquehal/2000,2000,38,ligue_2,20,38,1,0,0,4,12,15,10,44,44,LDDDWDWWWWDWDLDLWLDWWDWWDDWDWDWWDDWWW,8,10,0,25,13,13,9,16,12,33,39,LDLWWDDWDWDLDWDWLWDDDDDWWWWLLDDWDWWDW,2,8,8,12,22,DWWWDDDWDWDWDDDWDW,DWDWWLWWDDDWWLDDWD
+Caen,Toulouse,1-1,/match/caen/toulouse-fc/2000,2000,38,ligue_2,20,38,1,1,1,8,12,16,9,49,36,LDDDWWWLDLWLLDWDDDWDWDDDDLWLWWWDDDWWL,7,8,3,31,19,3,18,8,11,51,30,LLWDWLLDLLLWWLWDLDDWLWDWWWWLWDLLLWWDW,8,5,5,21,17,DDWDWLWDWWDDLLWDDW,LDLDLWLLDLDWWWLLWD

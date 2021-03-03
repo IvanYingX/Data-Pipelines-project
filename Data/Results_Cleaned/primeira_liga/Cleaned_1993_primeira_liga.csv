@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Farense,SC Salgueiros,2-0,/match/farense/salgueiros/1993,1993,1,primeira_liga,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Boavista,Belenenses,1-0,/match/boavista/belenenses/1993,1993,1,primeira_liga,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting CP,Tirsense,0-0,/match/sporting-lisbon/tirsense/1993,1993,1,primeira_liga,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Espinho,Famalicão,1-0,/match/espinho/famalicao/1993,1993,1,primeira_liga,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória,Beira Mar SC,2-1,/match/vitoria-guimaraes/beira-mar/1993,1993,1,primeira_liga,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chaves,Marítimo,1-2,/match/chaves/maritimo/1993,1993,1,primeira_liga,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Gil Vicente,Sporting Braga,0-1,/match/gil-vicente/sporting-braga/1993,1993,1,primeira_liga,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Porto,Estoril,1-0,/match/fc-porto/estoril/1993,1993,1,primeira_liga,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Benfica,Paços Ferreira,5-0,/match/benfica/pacos-ferreira/1993,1993,1,primeira_liga,18,34,0,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SC Salgueiros,Sporting CP,2-0,/match/salgueiros/sporting-lisbon/1993,1993,2,primeira_liga,18,34,0,2,0,18,0,0,1,0,2,W,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
+Estoril,Chaves,2-1,/match/estoril/chaves/1993,1993,2,primeira_liga,18,34,0,2,1,11,0,0,1,0,1,W,0,0,0,0,0,16,0,0,1,1,2,L,0,0,0,0,0,,
+Tirsense,Benfica,1-2,/match/tirsense/benfica/1993,1993,2,primeira_liga,18,34,2,1,2,10,0,1,0,0,0,D,0,0,0,0,0,4,1,0,0,5,0,W,0,0,0,0,0,,
+Famalicão,Farense,1-0,/match/famalicao/farense/1993,1993,2,primeira_liga,18,34,0,1,0,13,0,0,1,0,1,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
+Sporting Braga,Espinho,2-2,/match/sporting-braga/espinho/1993,1993,2,primeira_liga,18,34,1,2,2,9,1,0,0,1,0,L,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Beira Mar SC,Gil Vicente,0-1,/match/beira-mar/gil-vicente/1993,1993,2,primeira_liga,18,34,2,0,1,14,0,0,1,1,2,W,0,0,0,0,0,12,0,0,1,0,1,L,0,0,0,0,0,,
+Marítimo,Vitória,3-0,/match/maritimo/vitoria-guimaraes/1993,1993,2,primeira_liga,18,34,0,3,0,8,1,0,0,2,1,L,0,0,0,0,0,5,1,0,0,2,1,W,0,0,0,0,0,,
+Belenenses,Porto,0-0,/match/belenenses/fc-porto/1993,1993,2,primeira_liga,18,34,1,0,0,17,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Paços Ferreira,Boavista,1-4,/match/pacos-ferreira/boavista/1993,1993,2,primeira_liga,18,34,2,1,4,15,0,0,1,0,5,W,0,0,0,0,0,6,1,0,0,1,0,W,0,0,0,0,0,,
+Sporting CP,Famalicão,4-3,/match/sporting-lisbon/famalicao/1993,1993,3,primeira_liga,18,34,0,4,3,12,0,1,1,0,2,DW,0,1,0,0,0,7,1,0,1,1,1,WW,0,0,1,0,1,D,W
+Benfica,SC Salgueiros,0-0,/match/benfica/salgueiros/1993,1993,3,primeira_liga,18,34,1,0,0,1,2,0,0,7,1,WL,1,0,0,5,0,9,1,0,1,2,2,WW,0,0,1,0,2,W,W
+Vitória,Estoril,2-1,/match/vitoria-guimaraes/estoril/1993,1993,3,primeira_liga,18,34,0,2,1,10,1,0,1,2,4,WW,1,0,0,2,1,8,1,0,1,2,2,WW,0,0,1,0,1,W,W
+Chaves,Belenenses,1-2,/match/chaves/belenenses/1993,1993,3,primeira_liga,18,34,2,1,2,18,0,0,2,2,4,LW,0,0,1,1,2,14,0,1,1,0,1,WD,0,0,1,0,1,L,W
+Beira Mar SC,Marítimo,1-0,/match/beira-mar/maritimo/1993,1993,3,primeira_liga,18,34,0,1,0,16,0,0,2,1,3,WL,0,0,1,0,1,3,2,0,0,5,1,LW,1,0,0,2,1,L,L
+Gil Vicente,Espinho,1-2,/match/gil-vicente/espinho/1993,1993,3,primeira_liga,18,34,2,1,2,13,1,0,1,1,1,LL,0,0,1,0,1,4,1,1,0,3,2,WD,0,1,0,2,2,L,D
+Farense,Sporting Braga,1-0,/match/farense/sporting-braga/1993,1993,3,primeira_liga,18,34,0,1,0,11,1,0,1,2,1,WW,1,0,0,2,0,6,1,1,0,3,2,LD,1,0,0,1,0,W,L
+Boavista,Tirsense,0-0,/match/boavista/tirsense/1993,1993,3,primeira_liga,18,34,1,0,0,2,2,0,0,5,1,WL,1,0,0,1,0,15,0,1,1,1,2,DL,0,1,0,0,0,W,D
+Porto,Paços Ferreira,2-0,/match/fc-porto/pacos-ferreira/1993,1993,3,primeira_liga,18,34,0,2,0,5,1,1,0,1,0,WD,1,0,0,1,0,17,0,0,2,1,9,WL,0,0,1,0,5,W,W
+Sporting Braga,Sporting CP,0-0,/match/sporting-braga/sporting-lisbon/1993,1993,4,primeira_liga,18,34,1,0,0,10,1,1,1,3,3,LDW,0,1,0,2,2,8,1,1,1,4,5,DWW,0,0,1,0,2,D,W
+SC Salgueiros,Boavista,3-1,/match/salgueiros/boavista/1993,1993,4,primeira_liga,18,34,0,3,1,9,1,1,1,2,2,WWD,1,0,0,2,0,4,2,1,0,5,1,WLD,1,0,0,4,1,W,L
+Tirsense,Porto,3-1,/match/tirsense/fc-porto/1993,1993,4,primeira_liga,18,34,0,3,1,16,0,2,1,1,2,DLD,0,0,1,1,2,1,2,1,0,3,0,WDW,0,1,0,0,0,L,D
+Espinho,Farense,1-1,/match/espinho/farense/1993,1993,4,primeira_liga,18,34,1,1,1,6,2,1,0,5,3,WDL,1,0,0,1,0,3,2,0,1,3,1,WWW,0,0,1,0,1,W,W
+Famalicão,Benfica,1-0,/match/famalicao/benfica/1993,1993,4,primeira_liga,18,34,0,1,0,11,1,0,2,4,5,WWW,1,0,0,1,0,2,2,1,0,7,1,WLD,1,0,0,2,1,W,L
+Paços Ferreira,Chaves,2-0,/match/pacos-ferreira/chaves/1993,1993,4,primeira_liga,18,34,0,2,0,17,0,0,3,1,11,WLW,0,0,1,1,4,18,0,0,3,3,6,LWL,0,0,1,1,2,L,W
+Estoril,Beira Mar SC,1-0,/match/estoril/beira-mar/1993,1993,4,primeira_liga,18,34,0,1,0,12,1,0,2,3,4,WWW,1,0,0,2,1,14,1,0,2,2,3,WLW,0,0,1,1,2,W,W
+Belenenses,Vitória,3-0,/match/belenenses/vitoria-guimaraes/1993,1993,4,primeira_liga,18,34,0,3,0,13,1,1,1,2,2,WDL,0,1,0,0,0,5,2,0,1,4,5,WWW,0,0,1,0,3,D,W
+Marítimo,Gil Vicente,7-1,/match/maritimo/gil-vicente/1993,1993,4,primeira_liga,18,34,0,7,1,7,2,0,1,5,2,LWW,1,0,0,3,0,15,1,0,2,2,3,LLL,1,0,0,1,0,W,L
+Sporting CP,Espinho,3-0,/match/sporting-lisbon/espinho/1993,1993,5,primeira_liga,18,34,0,3,0,12,1,2,1,4,5,DWWD,1,1,0,4,3,4,2,2,0,6,4,WDLD,1,1,0,4,3,DW,DL
+Gil Vicente,Farense,2-1,/match/gil-vicente/farense/1993,1993,5,primeira_liga,18,34,0,2,1,17,1,0,3,3,10,LLLW,0,0,2,1,3,3,2,1,1,4,2,WWWD,0,1,1,1,2,LL,WD
+Vitória,Paços Ferreira,3-2,/match/vitoria-guimaraes/pacos-ferreira/1993,1993,5,primeira_liga,18,34,0,3,2,7,2,0,2,4,8,WWWW,2,0,0,4,2,16,1,0,3,3,11,WLWW,0,0,2,0,7,WW,WW
+Chaves,Tirsense,1-0,/match/chaves/tirsense/1993,1993,5,primeira_liga,18,34,0,1,0,18,0,0,4,3,8,LWLW,0,0,2,2,4,13,1,2,1,4,3,DLDW,0,2,0,0,0,LL,DD
+Beira Mar SC,Belenenses,0-0,/match/beira-mar/belenenses/1993,1993,5,primeira_liga,18,34,1,0,0,15,1,0,3,2,4,WLWW,1,0,1,1,1,11,2,1,1,5,2,WDLW,1,0,1,2,2,LW,WL
+Benfica,Sporting Braga,2-1,/match/benfica/sporting-braga/1993,1993,5,primeira_liga,18,34,0,2,1,8,2,1,1,7,2,WLDW,1,1,0,5,0,14,1,2,1,3,3,LDWD,1,0,1,1,1,WD,LW
+Marítimo,Estoril,1-1,/match/maritimo/estoril/1993,1993,5,primeira_liga,18,34,1,1,1,1,3,0,1,12,3,LWWW,2,0,0,10,1,10,2,0,2,4,4,WWWW,0,0,2,1,3,WW,WW
+Porto,SC Salgueiros,4-1,/match/fc-porto/salgueiros/1993,1993,5,primeira_liga,18,34,0,4,1,2,2,1,1,4,3,WDWW,2,0,0,3,0,5,2,1,1,5,3,WWDW,0,1,1,0,2,WW,WD
+Boavista,Famalicão,4-0,/match/boavista/famalicao/1993,1993,5,primeira_liga,18,34,0,4,0,6,2,1,1,6,4,WLDW,1,1,0,1,0,9,2,0,2,5,5,WWWW,0,0,2,3,5,WD,WW
+Tirsense,Vitória,2-0,/match/tirsense/vitoria-guimaraes/1993,1993,6,primeira_liga,18,34,0,2,0,13,1,2,2,4,4,DLDWW,1,0,1,4,3,5,3,0,2,7,10,WWWWW,0,0,2,0,6,LW,WW
+Farense,Sporting CP,0-0,/match/farense/sporting-lisbon/1993,1993,6,primeira_liga,18,34,1,0,0,11,2,1,2,5,4,WWWDW,2,0,0,3,0,6,2,2,1,7,5,DWWDW,0,1,1,0,2,WW,WD
+Famalicão,Porto,0-3,/match/famalicao/fc-porto/1993,1993,6,primeira_liga,18,34,2,0,3,12,2,0,3,5,9,WWWWW,2,0,0,2,0,1,3,1,1,8,4,WDWWW,0,1,1,1,3,WW,DW
+SC Salgueiros,Chaves,1-1,/match/salgueiros/chaves/1993,1993,6,primeira_liga,18,34,1,1,1,9,2,1,2,6,7,WWDWW,2,0,0,5,1,18,1,0,4,4,8,LWLWW,0,0,2,1,4,WW,WW
+Espinho,Benfica,0-3,/match/espinho/benfica/1993,1993,6,primeira_liga,18,34,2,0,3,10,2,2,1,6,7,WDLDW,1,1,0,2,1,3,3,1,1,9,3,WLDWW,1,0,1,2,2,WD,LW
+Sporting Braga,Boavista,2-1,/match/sporting-braga/boavista/1993,1993,6,primeira_liga,18,34,0,2,1,14,1,2,2,4,5,LDWDW,0,2,0,2,2,4,3,1,1,10,4,WLDWW,1,0,1,5,4,DD,LW
+Estoril,Gil Vicente,0-0,/match/estoril/gil-vicente/1993,1993,6,primeira_liga,18,34,1,0,0,8,2,1,2,5,5,WWWWD,2,0,0,3,1,16,2,0,3,5,11,LLLWW,1,0,1,2,7,WW,LW
+Belenenses,Marítimo,1-0,/match/belenenses/maritimo/1993,1993,6,primeira_liga,18,34,0,1,0,7,2,2,1,5,2,WDLWD,1,1,0,3,0,2,3,1,1,13,4,LWWWD,1,0,1,2,2,DW,LW
+Paços Ferreira,Beira Mar SC,4-0,/match/pacos-ferreira/beira-mar/1993,1993,6,primeira_liga,18,34,0,4,0,17,1,0,4,5,14,WLWWW,1,0,1,3,4,15,1,1,3,2,4,WLWWD,0,0,2,1,3,LW,WW
+Gil Vicente,Sporting CP,1-0,/match/gil-vicente/sporting-lisbon/1993,1993,7,primeira_liga,18,34,0,1,0,16,2,1,3,5,11,LLLWWD,1,0,2,3,4,6,2,3,1,7,5,DWWDWD,0,2,1,0,2,LLW,WDD
+Vitória,SC Salgueiros,0-1,/match/vitoria-guimaraes/salgueiros/1993,1993,7,primeira_liga,18,34,2,0,1,5,3,0,3,7,12,WWWWWW,3,0,0,7,4,9,2,2,2,7,8,WWDWWD,0,1,2,1,6,WWW,WDW
+Chaves,Famalicão,1-1,/match/chaves/famalicao/1993,1993,7,primeira_liga,18,34,1,1,1,18,1,1,4,5,9,LWLWWD,1,0,2,3,4,14,2,0,4,5,12,WWWWWL,0,0,3,3,9,LLW,WWW
+Estoril,Belenenses,1-1,/match/estoril/belenenses/1993,1993,7,primeira_liga,18,34,1,1,1,8,2,2,2,5,5,WWWWDD,2,1,0,3,1,3,3,2,1,6,2,WDLWDW,1,1,1,2,2,WWD,WLD
+Beira Mar SC,Tirsense,1-0,/match/beira-mar/tirsense/1993,1993,7,primeira_liga,18,34,0,1,0,17,1,1,4,2,8,WLWWDW,1,1,1,1,1,11,2,2,2,6,4,DLDWWW,0,2,1,0,1,LWD,DDW
+Marítimo,Paços Ferreira,1-1,/match/maritimo/pacos-ferreira/1993,1993,7,primeira_liga,18,34,1,1,1,7,3,1,2,13,5,LWWWDW,2,1,0,11,2,15,2,0,4,9,14,WLWWWW,0,0,3,2,10,WWD,WWW
+Benfica,Farense,1-0,/match/benfica/farense/1993,1993,7,primeira_liga,18,34,0,1,0,2,4,1,1,12,3,WLDWWL,2,1,0,7,1,10,2,2,2,5,4,WWWDWD,0,1,2,2,4,WDW,WDW
+Porto,Sporting Braga,2-0,/match/fc-porto/sporting-braga/1993,1993,7,primeira_liga,18,34,0,2,0,1,4,1,1,11,4,WDWWWL,3,0,0,7,1,12,2,2,2,6,6,LDWDWW,1,0,2,2,3,WWW,LWW
+Boavista,Espinho,0-0,/match/boavista/espinho/1993,1993,7,primeira_liga,18,34,1,0,0,4,3,1,2,11,6,WLDWWW,2,1,0,5,0,13,2,2,2,6,10,WDLDWL,1,1,1,4,6,WDW,DLW
+Farense,Boavista,1-1,/match/farense/boavista/1993,1993,8,primeira_liga,18,34,1,1,1,11,2,2,3,5,5,WWWDWDW,2,1,0,3,0,4,3,2,2,11,6,WLDWWWD,1,0,2,6,6,WWD,LWW
+Sporting CP,Benfica,2-0,/match/sporting-lisbon/benfica/1993,1993,8,primeira_liga,18,34,0,2,0,9,2,3,2,7,6,DWWDWDW,2,1,0,7,3,2,5,1,1,13,3,WLDWWLW,2,0,1,5,2,DWW,LWL
+Famalicão,Vitória,0-0,/match/famalicao/vitoria-guimaraes/1993,1993,8,primeira_liga,18,34,1,0,0,16,2,1,4,6,13,WWWWWLD,2,0,1,2,3,8,3,0,4,7,13,WWWWWWL,0,0,3,0,8,WWL,WWW
+SC Salgueiros,Beira Mar SC,0-0,/match/salgueiros/beira-mar/1993,1993,8,primeira_liga,18,34,1,0,0,7,3,2,2,8,8,WWDWWDL,2,1,0,6,2,15,2,1,4,3,8,WLWWDWW,0,0,3,1,7,WWD,WWW
+Espinho,Porto,1-4,/match/espinho/fc-porto/1993,1993,8,primeira_liga,18,34,2,1,4,13,2,3,2,6,10,WDLDWLD,1,1,1,2,4,1,5,1,1,13,4,WDWWWLW,1,1,1,4,3,WDL,DWL
+Tirsense,Marítimo,1-0,/match/tirsense/maritimo/1993,1993,8,primeira_liga,18,34,0,1,0,14,2,2,3,6,5,DLDWWWW,2,0,1,6,3,5,3,2,2,14,6,LWWWDWD,1,0,2,2,3,LWW,LWW
+Paços Ferreira,Estoril,2-0,/match/pacos-ferreira/estoril/1993,1993,8,primeira_liga,18,34,0,2,0,17,2,1,4,10,15,WLWWWWD,2,0,1,7,4,6,2,3,2,6,6,WWWWDDD,0,1,2,2,4,LWW,WWD
+Sporting Braga,Chaves,1-0,/match/sporting-braga/chaves/1993,1993,8,primeira_liga,18,34,0,1,0,12,2,2,3,6,8,LDWDWWW,1,2,0,4,3,18,1,2,4,6,10,LWLWWDD,0,1,2,2,5,DDW,WWD
+Belenenses,Gil Vicente,2-0,/match/belenenses/gil-vicente/1993,1993,8,primeira_liga,18,34,0,2,0,3,3,3,1,7,3,WDLWDWD,2,1,0,4,0,10,3,1,3,6,11,LLLWWDW,1,1,1,2,7,DWW,LWD
+Vitória,Sporting Braga,1-0,/match/vitoria-guimaraes/sporting-braga/1993,1993,9,primeira_liga,18,34,0,1,0,11,3,1,4,7,13,WWWWWWLD,3,0,1,7,5,8,3,2,3,7,8,LDWDWWWW,1,0,3,2,5,WWWL,LWWW
+Gil Vicente,Benfica,1-1,/match/gil-vicente/benfica/1993,1993,9,primeira_liga,18,34,1,1,1,15,3,1,4,6,13,LLLWWDWW,2,0,2,4,4,3,5,1,2,13,5,WLDWWLWW,2,0,2,5,4,LLWW,LWLW
+Chaves,Espinho,1-1,/match/chaves/espinho/1993,1993,9,primeira_liga,18,34,1,1,1,18,1,2,5,6,11,LWLWWDDW,1,1,2,4,5,17,2,3,3,7,14,WDLDWLDL,1,2,1,4,6,LLWD,DLWD
+Beira Mar SC,Famalicão,1-1,/match/beira-mar/famalicao/1993,1993,9,primeira_liga,18,34,1,1,1,16,2,2,4,3,8,WLWWDWWD,2,1,1,2,1,14,2,2,4,6,13,WWWWWLDD,0,1,3,4,10,LWDW,WWWD
+Estoril,Tirsense,4-0,/match/estoril/tirsense/1993,1993,9,primeira_liga,18,34,0,4,0,10,2,3,3,6,8,WWWWDDDW,2,2,0,4,2,9,3,2,3,7,5,DLDWWWWW,0,2,2,0,2,WWDD,DDWW
+Marítimo,SC Salgueiros,2-2,/match/maritimo/salgueiros/1993,1993,9,primeira_liga,18,34,1,2,2,7,3,2,3,14,7,LWWWDWDW,2,2,0,12,3,6,3,3,2,8,8,WWDWWDLD,1,1,2,2,6,WWDD,WDWL
+Porto,Farense,3-0,/match/fc-porto/farense/1993,1993,9,primeira_liga,18,34,0,3,0,1,6,1,1,17,5,WDWWWLWL,4,0,0,9,1,12,2,3,3,6,6,WWWDWDWD,0,1,3,2,5,WWWW,WDWW
+Boavista,Sporting CP,0-0,/match/boavista/sporting-lisbon/1993,1993,9,primeira_liga,18,34,1,0,0,5,3,3,2,12,7,WLDWWWDD,2,2,0,5,0,4,3,3,2,9,6,DWWDWDWW,0,2,2,0,3,WDWD,WDDW
+Belenenses,Paços Ferreira,4-1,/match/belenenses/pacos-ferreira/1993,1993,9,primeira_liga,18,34,0,4,1,2,4,3,1,9,3,WDLWDWDW,3,1,0,6,0,13,3,1,4,12,15,WLWWWWDW,0,1,3,3,11,DWWW,WWWD
+Tirsense,Belenenses,0-0,/match/tirsense/belenenses/1993,1993,10,primeira_liga,18,34,1,0,0,11,3,2,4,7,9,DLDWWWWWW,3,0,1,7,3,2,5,3,1,13,4,WDLWDWDWW,1,2,1,3,3,LWWW,WLDD
+Sporting CP,Porto,1-1,/match/sporting-lisbon/fc-porto/1993,1993,10,primeira_liga,18,34,1,1,1,7,3,4,2,9,6,DWWDWDWWD,3,1,0,9,3,1,7,1,1,20,5,WDWWWLWLW,2,1,1,8,4,DWWW,DWLL
+Benfica,Boavista,2-0,/match/benfica/boavista/1993,1993,10,primeira_liga,18,34,0,2,0,3,5,2,2,14,6,WLDWWLWWD,3,1,0,8,1,6,3,4,2,12,7,WLDWWWDDD,1,1,2,7,7,WDWW,LWWD
+SC Salgueiros,Estoril,2-1,/match/salgueiros/estoril/1993,1993,10,primeira_liga,18,34,0,2,1,8,3,4,2,10,10,WWDWWDLDD,2,2,0,6,2,5,3,3,3,10,8,WWWWDDDWW,0,1,3,2,6,WWDD,WWDW
+Espinho,Vitória,2-1,/match/espinho/vitoria-guimaraes/1993,1993,10,primeira_liga,18,34,0,2,1,17,2,4,3,8,15,WDLDWLDLD,1,1,2,3,8,4,4,1,4,8,13,WWWWWWLDW,0,1,3,0,8,WDLL,WWWD
+Famalicão,Marítimo,2-0,/match/famalicao/maritimo/1993,1993,10,primeira_liga,18,34,0,2,0,16,2,3,4,7,14,WWWWWLDDD,2,1,1,2,3,9,3,3,3,16,9,LWWWDWDWD,1,0,3,2,4,WWLD,LWWW
+Paços Ferreira,Gil Vicente,0-0,/match/pacos-ferreira/gil-vicente/1993,1993,10,primeira_liga,18,34,1,0,0,13,3,1,5,13,19,WLWWWWDWW,3,0,1,9,4,14,3,2,4,7,14,LLLWWDWWD,1,1,2,2,9,LWWW,LWDW
+Sporting Braga,Beira Mar SC,1-2,/match/sporting-braga/beira-mar/1993,1993,10,primeira_liga,18,34,2,1,2,10,3,2,4,7,9,LDWDWWWWW,2,2,0,5,3,15,2,3,4,4,9,WLWWDWWDD,0,1,3,1,7,DDWW,WWWD
+Farense,Chaves,3-0,/match/farense/chaves/1993,1993,10,primeira_liga,18,34,0,3,0,12,2,3,4,6,9,WWWDWDWDW,2,2,0,4,1,18,1,3,5,7,12,LWLWWDDWD,0,1,3,2,6,WWDD,WWDW
+Vitória,Farense,2-0,/match/vitoria-guimaraes/farense/1993,1993,11,primeira_liga,18,34,0,2,0,6,4,1,5,9,15,WWWWWWLDWW,4,0,1,8,5,9,3,3,4,9,9,WWWDWDWDWW,0,1,4,2,8,WWWLW,WDWWW
+Paços Ferreira,Tirsense,1-0,/match/pacos-ferreira/tirsense/1993,1993,11,primeira_liga,18,34,0,1,0,13,3,2,5,13,19,WLWWWWDWWD,3,1,1,9,4,12,3,3,4,7,9,DLDWWWWWWD,0,2,3,0,6,LWWWD,DDWWW
+Chaves,Sporting CP,0-2,/match/chaves/sporting-lisbon/1993,1993,11,primeira_liga,18,34,2,0,2,18,1,3,6,7,15,LWLWWDDWDW,1,2,2,5,6,5,3,5,2,10,7,DWWDWDWWDD,0,3,2,0,3,LLWDD,WDDWD
+Estoril,Famalicão,2-2,/match/estoril/famalicao/1993,1993,11,primeira_liga,18,34,1,2,2,7,3,3,4,11,10,WWWWDDDWWW,3,2,0,8,2,10,3,3,4,9,14,WWWWWLDDDW,0,2,3,5,11,WWDDW,WWWDD
+Gil Vicente,Boavista,0-2,/match/gil-vicente/boavista/1993,1993,11,primeira_liga,18,34,2,0,2,17,3,3,4,7,14,LLLWWDWWDD,2,1,2,5,5,8,3,4,3,12,9,WLDWWWDDDW,1,1,3,7,9,LLWWD,LWWDW
+Beira Mar SC,Espinho,2-1,/match/beira-mar/espinho/1993,1993,11,primeira_liga,18,34,0,2,1,15,3,3,4,6,10,WLWWDWWDDL,2,2,1,3,2,14,3,4,3,10,16,WDLDWLDLDW,1,3,1,5,7,LWDWD,DLWDD
+Porto,Benfica,1-0,/match/fc-porto/benfica/1993,1993,11,primeira_liga,18,34,0,1,0,1,7,2,1,21,6,WDWWWLWLWD,5,0,0,12,1,2,6,2,2,16,6,WLDWWLWWDW,2,1,2,6,5,WWWWW,LWLWD
+Marítimo,Sporting Braga,1-0,/match/maritimo/sporting-braga/1993,1993,11,primeira_liga,18,34,0,1,0,11,3,3,4,16,11,LWWWDWDWDW,2,3,0,14,5,16,3,2,5,8,11,LDWDWWWWWL,1,0,4,2,6,WWDDD,LWWWW
+Belenenses,SC Salgueiros,1-0,/match/belenenses/salgueiros/1993,1993,11,primeira_liga,18,34,0,1,0,3,5,4,1,13,4,WDLWDWDWWD,4,1,0,10,1,4,4,4,2,12,11,WWDWWDLDDW,1,2,2,4,8,DWWWW,WDWLD
+Famalicão,Belenenses,0-0,/match/famalicao/belenenses/1993,1993,12,primeira_liga,18,34,1,0,0,12,3,4,4,11,16,WWWWWLDDDWD,3,1,1,4,3,2,6,4,1,14,4,WDLWDWDWWDW,1,3,1,3,3,WWLDW,WLDDD
+SC Salgueiros,Paços Ferreira,2-2,/match/salgueiros/pacos-ferreira/1993,1993,12,primeira_liga,18,34,1,2,2,6,4,4,3,12,12,WWDWWDLDDWW,3,2,0,8,3,8,4,2,5,14,19,WLWWWWDWWDW,0,1,4,4,15,WWDDW,WWWDW
+Espinho,Marítimo,0-1,/match/espinho/maritimo/1993,1993,12,primeira_liga,18,34,2,0,1,15,3,4,4,11,18,WDLDWLDLDWW,2,1,2,5,9,7,4,3,4,17,11,LWWWDWDWDWW,1,0,4,2,6,WDLLW,LWWWW
+Sporting Braga,Estoril,2-1,/match/sporting-braga/estoril/1993,1993,12,primeira_liga,18,34,0,2,1,16,3,2,6,8,12,LDWDWWWWWLW,2,2,1,6,5,9,3,4,4,13,12,WWWWDDDWWWD,0,1,4,3,8,DDWWL,WWDWW
+Tirsense,Gil Vicente,1-1,/match/tirsense/gil-vicente/1993,1993,12,primeira_liga,18,34,1,1,1,14,3,3,5,7,10,DLDWWWWWWDW,3,1,1,7,3,17,3,3,5,7,16,LLLWWDWWDDL,1,2,2,2,9,LWWWD,LWDWD
+Farense,Beira Mar SC,2-2,/match/farense/beira-mar/1993,1993,12,primeira_liga,18,34,1,2,2,13,3,3,5,9,11,WWWDWDWDWWW,3,2,0,7,1,11,4,3,4,8,11,WLWWDWWDDLW,1,1,3,3,8,WWDDW,WWWDL
+Boavista,Porto,1-0,/match/boavista/fc-porto/1993,1993,12,primeira_liga,18,34,0,1,0,10,4,4,3,14,9,WLDWWWDDDWL,2,3,0,5,0,1,8,2,1,22,6,WDWWWLWLWDW,2,2,1,9,5,WDWDD,DWLLD
+Benfica,Chaves,3-1,/match/benfica/chaves/1993,1993,12,primeira_liga,18,34,0,3,1,3,6,2,3,16,7,WLDWWLWWDWW,4,1,0,10,1,18,1,3,7,7,17,LWLWWDDWDWL,0,1,4,2,9,WDWWW,WWDWW
+Sporting CP,Vitória,4-1,/match/sporting-lisbon/vitoria-guimaraes/1993,1993,12,primeira_liga,18,34,0,4,1,4,4,5,2,12,7,DWWDWDWWDDL,3,2,0,10,4,5,5,1,5,11,15,WWWWWWLDWWW,0,1,4,1,10,DWWWD,WWWDW
+Gil Vicente,Porto,0-3,/match/gil-vicente/fc-porto/1993,1993,13,primeira_liga,18,34,2,0,3,17,3,4,5,8,17,LLLWWDWWDDLD,2,1,3,5,7,1,8,2,2,22,7,WDWWWLWLWDWW,2,2,2,9,6,LLWWDL,DWLLDW
+Vitória,Benfica,0-1,/match/vitoria-guimaraes/benfica/1993,1993,13,primeira_liga,18,34,2,0,1,8,5,1,6,12,19,WWWWWWLDWWWW,5,0,1,10,5,3,7,2,3,19,8,WLDWWLWWDWWW,2,1,3,6,6,WWWLWW,LWLWDW
+Chaves,Boavista,0-1,/match/chaves/boavista/1993,1993,13,primeira_liga,18,34,2,0,1,18,1,3,8,8,20,LWLWWDDWDWLW,1,2,3,5,8,5,5,4,3,15,9,WLDWWWDDDWLW,2,1,3,9,9,LLWDDL,LWWDWL
+Tirsense,SC Salgueiros,1-1,/match/tirsense/salgueiros/1993,1993,13,primeira_liga,18,34,1,1,1,14,3,4,5,8,11,DLDWWWWWWDWD,3,2,1,8,4,6,4,5,3,14,14,WWDWWDLDDWWD,1,2,3,4,9,LWWWDD,WDWLDW
+Estoril,Espinho,1-0,/match/estoril/espinho/1993,1993,13,primeira_liga,18,34,0,1,0,11,3,4,5,14,14,WWWWDDDWWWDW,3,3,0,10,4,16,3,4,5,11,19,WDLDWLDLDWWL,1,3,2,6,9,WWDDWD,DLWDDW
+Paços Ferreira,Famalicão,0-0,/match/pacos-ferreira/famalicao/1993,1993,13,primeira_liga,18,34,1,0,0,9,4,3,5,16,21,WLWWWWDWWDWD,4,1,1,10,4,12,3,5,4,11,16,WWWWWLDDDWDD,0,3,3,7,13,LWWWDW,WWWDDD
+Beira Mar SC,Sporting CP,1-1,/match/beira-mar/sporting-lisbon/1993,1993,13,primeira_liga,18,34,1,1,1,10,4,4,4,10,13,WLWWDWWDDLWD,3,2,1,5,3,4,5,5,2,16,8,DWWDWDWWDDLW,1,3,2,2,3,LWDWDW,WDDWDL
+Marítimo,Farense,2-1,/match/maritimo/farense/1993,1993,13,primeira_liga,18,34,0,2,1,7,5,3,4,18,11,LWWWDWDWDWWL,3,3,0,15,5,13,3,4,5,11,13,WWWDWDWDWWWD,0,1,5,2,10,WWDDDW,WDWWWW
+Belenenses,Sporting Braga,1-2,/match/belenenses/sporting-braga/1993,1993,13,primeira_liga,18,34,2,1,2,2,6,5,1,14,4,WDLWDWDWWDWD,5,1,0,11,1,15,4,2,6,10,13,LDWDWWWWWLWW,1,0,5,2,7,DWWWWW,LWWWWW
+Sporting CP,Marítimo,3-2,/match/sporting-lisbon/maritimo/1993,1993,14,primeira_liga,18,34,0,3,2,4,5,6,2,17,9,DWWDWDWWDDLWD,4,2,0,14,5,5,6,3,4,20,12,LWWWDWDWDWWLW,2,0,4,3,6,DWWWDW,LWWWWL
+Benfica,Beira Mar SC,0-0,/match/benfica/beira-mar/1993,1993,14,primeira_liga,18,34,1,0,0,2,8,2,3,20,8,WLDWWLWWDWWWL,5,1,0,13,2,9,4,5,4,11,14,WLWWDWWDDLWDD,1,2,3,5,10,WDWWWW,WWWDLD
+Porto,Chaves,2-1,/match/fc-porto/chaves/1993,1993,14,primeira_liga,18,34,0,2,1,1,9,2,2,25,7,WDWWWLWLWDWWL,6,0,0,13,1,18,1,3,9,8,21,LWLWWDDWDWLWL,0,1,5,3,12,WWWWWW,WWDWWW
+SC Salgueiros,Gil Vicente,1-1,/match/salgueiros/gil-vicente/1993,1993,14,primeira_liga,18,34,1,1,1,7,4,6,3,15,15,WWDWWDLDDWWDD,3,3,0,10,5,17,3,4,6,8,20,LLLWWDWWDDLDL,1,3,2,3,10,WWDDWD,LWDWDD
+Espinho,Belenenses,3-1,/match/espinho/belenenses/1993,1993,14,primeira_liga,18,34,0,3,1,16,3,4,6,11,20,WDLDWLDLDWWLW,2,1,3,5,10,3,6,5,2,15,6,WDLWDWDWWDWDL,1,4,1,3,3,WDLLWL,WLDDDD
+Famalicão,Tirsense,1-0,/match/famalicao/tirsense/1993,1993,14,primeira_liga,18,34,0,1,0,12,3,6,4,11,16,WWWWWLDDDWDDD,3,2,1,4,3,13,3,5,5,9,12,DLDWWWWWWDWDD,0,2,4,0,7,WWLDWD,DDWWWW
+Boavista,Vitória,1-3,/match/boavista/vitoria-guimaraes/1993,1993,14,primeira_liga,18,34,2,1,3,6,6,4,3,16,9,WLDWWWDDDWLWL,3,3,0,6,0,11,5,1,7,12,20,WWWWWWLDWWWWL,0,1,5,2,14,WDWDDW,WWWDWW
+Sporting Braga,Paços Ferreira,2-0,/match/sporting-braga/pacos-ferreira/1993,1993,14,primeira_liga,18,34,0,2,0,14,5,2,6,12,14,LDWDWWWWWLWWL,3,2,1,8,6,10,4,4,5,16,21,WLWWWWDWWDWDD,0,2,4,6,17,DDWWLW,WWWDWD
+Farense,Estoril,1-1,/match/farense/estoril/1993,1993,14,primeira_liga,18,34,1,1,1,15,3,4,6,12,15,WWWDWDWDWWWDW,3,3,0,9,3,8,4,4,5,15,14,WWWWDDDWWWDWW,0,1,5,4,10,WWDDWD,WWDWWW
+Vitória,Porto,1-3,/match/vitoria-guimaraes/fc-porto/1993,1993,15,primeira_liga,18,34,2,1,3,12,6,1,7,15,21,WWWWWWLDWWWWLL,5,0,2,10,6,1,10,2,2,27,8,WDWWWLWLWDWWLW,3,2,2,12,6,WWWLWWL,DWLLDWL
+Estoril,Sporting CP,2-2,/match/estoril/sporting-lisbon/1993,1993,15,primeira_liga,18,34,1,2,2,9,4,5,5,16,15,WWWWDDDWWWDWWD,4,3,0,11,4,3,6,6,2,20,11,DWWDWDWWDDLWDW,1,4,2,3,4,WWDDWDW,WDDWDLD
+Tirsense,Sporting Braga,2-1,/match/tirsense/sporting-braga/1993,1993,15,primeira_liga,18,34,0,2,1,15,3,5,6,9,13,DLDWWWWWWDWDDW,3,3,1,9,5,8,6,2,6,14,14,LDWDWWWWWLWWLW,2,0,5,4,8,LWWWDDD,LWWWWWL
+SC Salgueiros,Famalicão,0-2,/match/salgueiros/famalicao/1993,1993,15,primeira_liga,18,34,2,0,2,7,4,7,3,16,16,WWDWWDLDDWWDDD,3,4,0,11,6,10,4,6,4,12,16,WWWWWLDDDWDDDW,0,4,3,7,13,WWDDWDD,WWWDDDD
+Paços Ferreira,Espinho,2-2,/match/pacos-ferreira/espinho/1993,1993,15,primeira_liga,18,34,1,2,2,13,4,4,6,16,23,WLWWWWDWWDWDDW,4,2,1,10,4,16,4,4,6,14,21,WDLDWLDLDWWLWW,1,3,3,6,10,LWWWDWD,DLWDDWW
+Gil Vicente,Chaves,5-2,/match/gil-vicente/chaves/1993,1993,15,primeira_liga,18,34,0,5,2,17,3,5,6,9,21,LLLWWDWWDDLDLD,2,1,4,5,10,18,1,3,10,9,23,LWLWWDDWDWLWLW,0,1,6,4,14,LLWWDLL,WWDWWWW
+Belenenses,Farense,1-1,/match/belenenses/farense/1993,1993,15,primeira_liga,18,34,1,1,1,4,6,5,3,16,9,WDLWDWDWWDWDLW,5,1,1,12,3,14,3,5,6,13,16,WWWDWDWDWWWDWD,0,1,6,3,12,DWWWWWL,WDWWWWW
+Marítimo,Benfica,1-1,/match/maritimo/benfica/1993,1993,15,primeira_liga,18,34,1,1,1,5,6,3,5,22,15,LWWWDWDWDWWLWW,4,3,0,17,6,2,8,3,3,20,8,WLDWWLWWDWWWLD,3,1,3,7,6,WWDDDWW,LWLWDWL
+Beira Mar SC,Boavista,0-2,/match/beira-mar/boavista/1993,1993,15,primeira_liga,18,34,2,0,2,11,4,6,4,11,14,WLWWDWWDDLWDDD,3,3,1,6,4,6,6,4,4,17,12,WLDWWWDDDWLWLL,3,1,3,10,9,LWDWDWD,LWWDWLL
+Benfica,Estoril,4-0,/match/benfica/estoril/1993,1993,16,primeira_liga,18,34,0,4,0,2,8,4,3,21,9,WLDWWLWWDWWWLDD,5,2,0,13,2,7,4,6,5,18,17,WWWWDDDWWWDWWDD,0,2,5,5,11,WDWWWWD,WWDWWWD
+Gil Vicente,Famalicão,0-1,/match/gil-vicente/famalicao/1993,1993,16,primeira_liga,18,34,2,0,1,17,4,5,6,14,23,LLLWWDWWDDLDLDW,3,1,4,10,12,8,5,6,4,14,16,WWWWWLDDDWDDDWL,1,4,3,9,13,LLWWDLLW,WWWDDDDL
+Sporting Braga,SC Salgueiros,3-0,/match/sporting-braga/salgueiros/1993,1993,16,primeira_liga,18,34,0,3,0,10,6,2,7,15,16,LDWDWWWWWLWWLWW,4,2,1,10,6,9,4,7,4,16,18,WWDWWDLDDWWDDDL,1,3,3,5,10,DDWWLWW,WDWLDWD
+Chaves,Vitória,1-1,/match/chaves/vitoria-guimaraes/1993,1993,16,primeira_liga,18,34,1,1,1,18,1,3,11,11,28,LWLWWDDWDWLWLWW,1,2,4,5,9,14,6,1,8,16,24,WWWWWWLDWWWWLLL,1,1,5,5,15,LLWDDLL,WWWDWWL
+Espinho,Tirsense,1-0,/match/espinho/tirsense/1993,1993,16,primeira_liga,18,34,0,1,0,16,4,5,6,16,23,WDLDWLDLDWWLWWD,3,1,3,8,11,12,4,5,6,11,14,DLDWWWWWWDWDDWW,0,2,5,0,8,WDLLWLW,DDWWWWW
+Farense,Paços Ferreira,2-0,/match/farense/pacos-ferreira/1993,1993,16,primeira_liga,18,34,0,2,0,15,3,6,6,14,17,WWWDWDWDWWWDWDD,3,4,0,10,4,11,4,5,6,18,25,WLWWWWDWWDWDDWD,0,2,5,6,19,WWDDWDD,WWWDWDW
+Boavista,Marítimo,2-1,/match/boavista/maritimo/1993,1993,16,primeira_liga,18,34,0,2,1,6,7,4,4,19,12,WLDWWWDDDWLWLLL,3,3,1,7,3,5,6,4,5,23,16,LWWWDWDWDWWLWWD,2,0,5,5,9,WDWDDWL,LWWWWLW
+Porto,Beira Mar SC,0-0,/match/fc-porto/beira-mar/1993,1993,16,primeira_liga,18,34,1,0,0,1,11,2,2,30,9,WDWWWLWLWDWWLWL,7,0,0,15,2,13,4,6,5,11,16,WLWWDWWDDLWDDDL,1,3,3,5,10,WWWWWWW,WWWDLDD
+Sporting CP,Belenenses,3-0,/match/sporting-lisbon/belenenses/1993,1993,16,primeira_liga,18,34,0,3,0,3,6,7,2,22,13,DWWDWDWWDDLWDWD,5,2,0,17,7,4,6,6,3,17,10,WDLWDWDWWDWDLWD,1,4,2,4,6,DWWWDWW,WLDDDDW
+Marítimo,Porto,0-1,/match/maritimo/fc-porto/1993,1993,17,primeira_liga,18,34,2,0,1,8,6,4,6,24,18,LWWWDWDWDWWLWWDW,4,4,0,18,7,1,11,3,2,30,9,WDWWWLWLWDWWLWLD,4,2,2,15,7,WWDDDWWD,DWLLDWLL
+Paços Ferreira,Sporting CP,0-3,/match/pacos-ferreira/sporting-lisbon/1993,1993,17,primeira_liga,18,34,2,0,3,12,4,5,7,18,27,WLWWWWDWWDWDDWDW,4,3,1,12,6,3,7,7,2,25,13,DWWDWDWWDDLWDWDW,1,5,2,5,6,LWWWDWDD,WDDWDLDD
+Famalicão,Sporting Braga,1-1,/match/famalicao/sporting-braga/1993,1993,17,primeira_liga,18,34,1,1,1,6,6,6,4,15,16,WWWWWLDDDWDDDWLL,4,2,1,5,3,7,7,2,7,18,16,LDWDWWWWWLWWLWWW,2,0,6,5,10,WWLDWDW,LWWWWWLW
+Estoril,Boavista,0-0,/match/estoril/boavista/1993,1993,17,primeira_liga,18,34,1,0,0,9,4,6,6,18,21,WWWWDDDWWWDWWDDW,4,4,0,13,6,4,8,4,4,21,13,WLDWWWDDDWLWLLLW,4,1,3,12,9,WWDDWDWD,LWWDWLLL
+SC Salgueiros,Espinho,2-1,/match/salgueiros/espinho/1993,1993,17,primeira_liga,18,34,0,2,1,11,4,7,5,16,21,WWDWWDLDDWWDDDLW,3,4,1,11,8,16,5,5,6,17,23,WDLDWLDLDWWLWWDW,1,4,3,8,12,WWDDWDDL,DLWDDWWD
+Tirsense,Farense,0-0,/match/tirsense/farense/1993,1993,17,primeira_liga,18,34,1,0,0,13,4,5,7,11,15,DLDWWWWWWDWDDWWW,4,3,1,11,6,10,4,6,6,16,17,WWWDWDWDWWWDWDDW,0,2,6,4,13,LWWWDDDW,WDWWWWWD
+Belenenses,Benfica,1-1,/match/belenenses/benfica/1993,1993,17,primeira_liga,18,34,1,1,1,5,6,6,4,17,13,WDLWDWDWWDWDLWDW,5,2,1,13,4,2,9,4,3,25,9,WLDWWLWWDWWWLDDW,3,2,3,8,7,DWWWWWLD,LWLWDWLD
+Vitória,Gil Vicente,1-2,/match/vitoria-guimaraes/gil-vicente/1993,1993,17,primeira_liga,18,34,2,1,2,15,6,2,8,17,25,WWWWWWLDWWWWLLLD,5,0,3,11,9,17,4,5,7,14,24,LLLWWDWWDDLDLDWL,1,4,2,4,11,WWWLWWLL,LWDWDDD
+Beira Mar SC,Chaves,0-0,/match/beira-mar/chaves/1993,1993,17,primeira_liga,18,34,1,0,0,14,4,7,5,11,16,WLWWDWWDDLWDDDLD,3,3,2,6,6,18,1,4,11,12,29,LWLWWDDWDWLWLWWD,0,1,7,6,19,LWDWDWDL,WWDWWWWW
+Paços Ferreira,Benfica,0-2,/match/pacos-ferreira/benfica/1993,1993,18,primeira_liga,18,34,2,0,2,14,4,5,8,18,30,WLWWWWDWWDWDDWDWL,4,3,2,12,9,3,9,5,3,26,10,WLDWWLWWDWWWLDDWD,3,3,3,9,8,LWWWDWDDL,LWLWDWLDD
+SC Salgueiros,Farense,0-0,/match/salgueiros/farense/1993,1993,18,primeira_liga,18,34,1,0,0,7,5,7,5,18,22,WWDWWDLDDWWDDDLWW,4,4,1,13,9,11,4,7,6,16,17,WWWDWDWDWWWDWDDWD,0,3,6,4,13,WWDDWDDLW,WDWWWWWDD
+Tirsense,Sporting CP,0-1,/match/tirsense/sporting-lisbon/1993,1993,18,primeira_liga,18,34,2,0,1,12,4,6,7,11,15,DLDWWWWWWDWDDWWWD,4,4,1,11,6,2,8,7,2,28,13,DWWDWDWWDDLWDWDWL,2,5,2,8,6,LWWWDDDWD,WDDWDLDDL
+Famalicão,Espinho,0-0,/match/famalicao/espinho/1993,1993,18,primeira_liga,18,34,1,0,0,6,6,7,4,16,17,WWWWWLDDDWDDDWLLD,4,3,1,6,4,16,5,5,7,18,25,WDLDWLDLDWWLWWDWW,1,4,4,9,14,WWLDWDWD,DLWDDWWDW
+Estoril,Porto,1-3,/match/estoril/fc-porto/1993,1993,18,primeira_liga,18,34,2,1,3,10,4,7,6,18,21,WWWWDDDWWWDWWDDWD,4,5,0,13,6,1,12,3,2,31,9,WDWWWLWLWDWWLWLDL,5,2,2,16,7,WWDDWDWDD,DWLLDWLLL
+Belenenses,Boavista,2-1,/match/belenenses/boavista/1993,1993,18,primeira_liga,18,34,0,2,1,5,6,7,4,18,14,WDLWDWDWWDWDLWDWD,5,3,1,14,5,4,8,5,4,21,13,WLDWWWDDDWLWLLLWD,4,2,3,12,9,DWWWWWLDD,LWWDWLLLD
+Marítimo,Chaves,2-1,/match/maritimo/chaves/1993,1993,18,primeira_liga,18,34,0,2,1,9,6,4,7,24,19,LWWWDWDWDWWLWWDWL,4,4,1,18,8,18,1,5,11,12,29,LWLWWDDWDWLWLWWDD,0,2,7,6,19,WWDDDWWDL,WWDWWWWWD
+Beira Mar SC,Vitória,1-0,/match/beira-mar/vitoria-guimaraes/1993,1993,18,primeira_liga,18,34,0,1,0,13,4,8,5,11,16,WLWWDWWDDLWDDDLDD,3,4,2,6,6,15,6,2,9,18,27,WWWWWWLDWWWWLLLDL,1,2,5,6,16,LWDWDWDLD,WWWDWWLD
+Sporting Braga,Gil Vicente,0-1,/match/sporting-braga/gil-vicente/1993,1993,18,primeira_liga,18,34,2,0,1,8,7,3,7,19,17,LDWDWWWWWLWWLWWWD,5,2,1,13,6,17,5,5,7,16,25,LLLWWDWWDDLDLDWLL,2,4,2,6,12,DDWWLWWW,LWDWDDDL
+Boavista,Paços Ferreira,0-0,/match/boavista/pacos-ferreira/1993,1993,19,primeira_liga,18,34,1,0,0,5,8,5,5,22,15,WLDWWWDDDWLWLLLWDW,4,3,1,9,4,15,4,5,9,18,32,WLWWWWDWWDWDDWDWLL,0,2,6,6,21,WDWDDWLW,WWWDWDWW
+Porto,Belenenses,3-0,/match/fc-porto/belenenses/1993,1993,19,primeira_liga,18,34,0,3,0,1,13,3,2,34,10,WDWWWLWLWDWWLWLDLL,7,1,0,15,2,4,7,7,4,20,15,WDLWDWDWWDWDLWDWDW,1,4,3,4,9,WWWWWWWD,WLDDDDWW
+Benfica,Tirsense,1-0,/match/benfica/tirsense/1993,1993,19,primeira_liga,18,34,0,1,0,2,10,5,3,28,10,WLDWWLWWDWWWLDDWDL,6,2,0,17,2,13,4,6,8,11,16,DLDWWWWWWDWDDWWWDL,0,2,6,0,9,WDWWWWDW,DDWWWWWW
+Espinho,Sporting Braga,0-1,/match/espinho/sporting-braga/1993,1993,19,primeira_liga,18,34,2,0,1,14,5,6,7,18,25,WDLDWLDLDWWLWWDWWD,4,1,3,9,11,10,7,3,8,19,18,LDWDWWWWWLWWLWWWDL,2,1,6,6,11,WDLLWLWW,LWWWWWLWD
+Vitória,Marítimo,2-2,/match/vitoria-guimaraes/maritimo/1993,1993,19,primeira_liga,18,34,1,2,2,16,6,2,10,18,28,WWWWWWLDWWWWLLLDLW,5,0,4,12,11,7,7,4,7,26,20,LWWWDWDWDWWLWWDWLW,2,0,6,6,11,WWWLWWLLL,LWWWWLWW
+Chaves,Estoril,5-2,/match/chaves/estoril/1993,1993,19,primeira_liga,18,34,0,5,2,18,1,5,12,13,31,LWLWWDDWDWLWLWWDDW,1,3,4,6,10,11,4,7,7,19,24,WWWWDDDWWWDWWDDWDL,0,2,6,5,15,LLWDDLLD,WWDWWWDW
+Gil Vicente,Beira Mar SC,3-0,/match/gil-vicente/beira-mar/1993,1993,19,primeira_liga,18,34,0,3,0,17,6,5,7,17,25,LLLWWDWWDDLDLDWLLL,3,1,5,10,13,9,5,8,5,12,16,WLWWDWWDDLWDDDLDDW,1,4,3,5,10,LLWWDLLWL,WWWDLDDD
+Farense,Famalicão,3-0,/match/farense/famalicao/1993,1993,19,primeira_liga,18,34,0,3,0,12,4,8,6,16,17,WWWDWDWDWWWDWDDWDD,4,4,0,12,4,6,6,8,4,16,17,WWWWWLDDDWDDDWLLDD,2,4,3,10,13,WWDDWDDW,WWWDDDDLL
+Sporting CP,SC Salgueiros,0-1,/match/sporting-lisbon/salgueiros/1993,1993,19,primeira_liga,18,34,2,0,1,3,9,7,2,29,13,DWWDWDWWDDLWDWDWLL,6,2,0,20,7,8,5,8,5,18,22,WWDWWDLDDWWDDDLWWD,1,3,4,5,13,DWWWDWWW,WDWLDWDW
+Marítimo,Beira Mar SC,1-0,/match/maritimo/beira-mar/1993,1993,20,primeira_liga,18,34,0,1,0,6,7,5,7,28,22,LWWWDWDWDWWLWWDWLWD,5,4,1,20,9,11,5,8,6,12,19,WLWWDWWDDLWDDDLDDWW,1,4,4,5,13,WWDDDWWDLW,WWWDLDDDW
+Paços Ferreira,Porto,1-2,/match/pacos-ferreira/fc-porto/1993,1993,20,primeira_liga,18,34,2,1,2,17,4,6,9,18,32,WLWWWWDWWDWDDWDWLLD,4,3,3,12,11,1,14,3,2,37,10,WDWWWLWLWDWWLWLDLLW,6,2,2,19,8,LWWWDWDDLL,DWLLDWLLLL
+Tirsense,Boavista,1-1,/match/tirsense/boavista/1993,1993,20,primeira_liga,18,34,1,1,1,14,4,6,9,11,17,DLDWWWWWWDWDDWWWDLW,4,4,2,11,7,5,8,6,5,22,15,WLDWWWDDDWLWLLLWDWD,4,2,4,13,11,LWWWDDDWDL,LWWDWLLLDW
+Espinho,Gil Vicente,1-0,/match/espinho/gil-vicente/1993,1993,20,primeira_liga,18,34,0,1,0,16,5,6,8,18,26,WDLDWLDLDWWLWWDWWDL,4,1,4,9,12,13,7,5,7,20,25,LLLWWDWWDDLDLDWLLLW,3,4,2,7,12,WDLLWLWWL,LWDWDDDLL
+SC Salgueiros,Benfica,0-3,/match/salgueiros/benfica/1993,1993,20,primeira_liga,18,34,2,0,3,7,6,8,5,19,22,WWDWWDLDDWWDDDLWWDL,4,5,1,13,9,2,11,5,3,29,10,WLDWWLWWDWWWLDDWDLW,4,3,3,11,8,WWDDWDDLWD,LWLWDWLDDL
+Famalicão,Sporting CP,1-2,/match/famalicao/sporting-lisbon/1993,1993,20,primeira_liga,18,34,2,1,2,8,6,8,5,16,20,WWWWWLDDDWDDDWLLDDW,4,4,1,6,4,3,9,7,3,29,14,DWWDWDWWDDLWDWDWLLL,3,5,2,9,6,WWLDWDWDD,WDDWDLDDLL
+Sporting Braga,Farense,0-1,/match/sporting-braga/farense/1993,1993,20,primeira_liga,18,34,2,0,1,10,8,3,8,20,18,LDWDWWWWWLWWLWWWDLL,5,2,2,13,7,9,5,8,6,19,17,WWWDWDWDWWWDWDDWDDW,0,4,6,4,13,DDWWLWWWL,WDWWWWWDDD
+Belenenses,Chaves,1-0,/match/belenenses/chaves/1993,1993,20,primeira_liga,18,34,0,1,0,4,7,7,5,20,18,WDLWDWDWWDWDLWDWDWW,6,3,1,16,6,18,2,5,12,18,33,LWLWWDDWDWLWLWWDDWW,0,2,8,7,21,DWWWWWLDDW,WWDWWWWWDW
+Estoril,Vitória,1-0,/match/estoril/vitoria-guimaraes/1993,1993,20,primeira_liga,18,34,0,1,0,12,4,7,8,21,29,WWWWDDDWWWDWWDDWDLW,4,5,1,14,9,15,6,3,10,20,30,WWWWWWLDWWWWLLLDLWD,1,2,6,6,17,WWDDWDWDDL,WWWDWWLDW
+Sporting CP,Sporting Braga,2-0,/match/sporting-lisbon/sporting-braga/1993,1993,21,primeira_liga,18,34,0,2,0,3,10,7,3,31,15,DWWDWDWWDDLWDWDWLLLL,6,2,1,20,8,11,8,3,9,20,19,LDWDWWWWWLWWLWWWDLLL,3,1,6,7,11,DWWWDWWWL,LWWWWWLWDL
+Gil Vicente,Marítimo,2-0,/match/gil-vicente/maritimo/1993,1993,21,primeira_liga,18,34,0,2,0,14,7,5,8,20,26,LLLWWDWWDDLDLDWLLLWW,4,1,5,13,13,5,8,5,7,29,22,LWWWDWDWDWWLWWDWLWDW,2,1,6,8,13,LLWWDLLWLW,LWWWWLWWD
+Vitória,Belenenses,2-1,/match/vitoria-guimaraes/belenenses/1993,1993,21,primeira_liga,18,34,0,2,1,16,6,3,11,20,31,WWWWWWLDWWWWLLLDLWDW,5,1,4,14,13,4,8,7,5,21,18,WDLWDWDWWDWDLWDWDWWW,1,4,4,4,12,WWWLWWLLLD,WLDDDDWWW
+Chaves,Paços Ferreira,1-2,/match/chaves/pacos-ferreira/1993,1993,21,primeira_liga,18,34,2,1,2,18,2,5,13,18,34,LWLWWDDWDWLWLWWDDWWW,2,3,4,11,12,17,4,6,10,19,34,WLWWWWDWWDWDDWDWLLDL,0,3,6,6,21,LLWDDLLDW,WWWDWDWWD
+Beira Mar SC,Estoril,3-0,/match/beira-mar/estoril/1993,1993,21,primeira_liga,18,34,0,3,0,12,5,8,7,12,20,WLWWDWWDDLWDDDLDDWWW,4,4,2,7,6,9,5,7,8,22,29,WWWWDDDWWWDWWDDWDLWW,0,2,7,7,20,LWDWDWDLDW,WWDWWWDWW
+Porto,Tirsense,3-1,/match/fc-porto/tirsense/1993,1993,21,primeira_liga,18,34,0,3,1,1,15,3,2,39,11,WDWWWLWLWDWWLWLDLLWL,8,1,0,18,2,15,4,7,9,12,18,DLDWWWWWWDWDDWWWDLWD,0,2,7,0,10,WWWWWWWDW,DDWWWWWWW
+Benfica,Famalicão,1-0,/match/benfica/famalicao/1993,1993,21,primeira_liga,18,34,0,1,0,2,12,5,3,32,10,WLDWWLWWDWWWLDDWDLWL,7,2,0,18,2,10,6,8,6,17,22,WWWWWLDDDWDDDWLLDDWL,2,4,4,10,16,WDWWWWDWW,WWWDDDDLLW
+Farense,Espinho,4-1,/match/farense/espinho/1993,1993,21,primeira_liga,18,34,0,4,1,7,6,8,6,20,17,WWWDWDWDWWWDWDDWDDWL,5,4,0,15,4,13,6,6,8,19,26,WDLDWLDLDWWLWWDWWDLW,1,5,4,9,14,WWDDWDDWW,DLWDDWWDWD
+Boavista,SC Salgueiros,1-0,/match/boavista/salgueiros/1993,1993,21,primeira_liga,18,34,0,1,0,6,8,7,5,23,16,WLDWWWDDDWLWLLLWDWDD,4,4,1,9,4,8,6,8,6,19,25,WWDWWDLDDWWDDDLWWDLL,2,3,4,6,13,WDWDDWLWD,WDWLDWDWL
+SC Salgueiros,Porto,0-3,/match/salgueiros/fc-porto/1993,1993,22,primeira_liga,18,34,2,0,3,9,6,8,7,19,26,WWDWWDLDDWWDDDLWWDLLW,4,5,2,13,12,1,16,3,2,42,12,WDWWWLWLWDWWLWLDLLWLW,7,2,2,21,9,WWDDWDDLWDL,DWLLDWLLLLL
+Tirsense,Chaves,2-1,/match/tirsense/chaves/1993,1993,22,primeira_liga,18,34,0,2,1,16,4,7,10,13,21,DLDWWWWWWDWDDWWWDLWDW,4,5,2,12,8,18,2,5,14,19,36,LWLWWDDWDWLWLWWDDWWWL,0,2,9,7,22,LWWWDDDWDLD,WWDWWWWWDWW
+Espinho,Sporting CP,3-1,/match/espinho/sporting-lisbon/1993,1993,22,primeira_liga,18,34,0,3,1,15,6,6,9,20,30,WDLDWLDLDWWLWWDWWDLWW,5,1,4,10,12,3,11,7,3,33,15,DWWDWDWWDDLWDWDWLLLLW,4,5,2,11,7,WDLLWLWWLW,WDDWDLDDLLL
+Estoril,Marítimo,1-0,/match/estoril/maritimo/1993,1993,22,primeira_liga,18,34,0,1,0,12,5,7,9,22,32,WWWWDDDWWWDWWDDWDLWWW,5,5,1,15,9,7,8,5,8,29,24,LWWWDWDWDWWLWWDWLWDWW,2,1,7,8,15,WWDDWDWDDLW,LWWWWLWWDW
+Famalicão,Boavista,1-1,/match/famalicao/boavista/1993,1993,22,primeira_liga,18,34,1,1,1,11,6,8,7,17,23,WWWWWLDDDWDDDWLLDDWLW,4,4,2,7,6,5,9,7,5,24,16,WLDWWWDDDWLWLLLWDWDDW,4,3,4,14,12,WWLDWDWDDL,LWWDWLLLDWD
+Belenenses,Beira Mar SC,0-0,/match/belenenses/beira-mar/1993,1993,22,primeira_liga,18,34,1,0,0,4,8,7,6,22,20,WDLWDWDWWDWDLWDWDWWWW,7,3,1,17,6,8,6,8,7,15,20,WLWWDWWDDLWDDDLDDWWWW,1,4,5,5,14,DWWWWWLDDWW,WWWDLDDDWW
+Paços Ferreira,Vitória,1-0,/match/pacos-ferreira/vitoria-guimaraes/1993,1993,22,primeira_liga,18,34,0,1,0,17,5,6,10,21,35,WLWWWWDWWDWDDWDWLLDLL,4,3,4,13,13,14,7,3,11,22,32,WWWWWWLDWWWWLLLDLWDWW,1,2,7,6,18,LWWWDWDDLLL,WWWDWWLDWW
+Farense,Gil Vicente,3-1,/match/farense/gil-vicente/1993,1993,22,primeira_liga,18,34,0,3,1,6,7,8,6,24,18,WWWDWDWDWWWDWDDWDDWLW,6,4,0,19,5,10,8,5,8,22,26,LLLWWDWWDDLDLDWLLLWWW,3,4,3,7,13,WWDDWDDWWW,LWDWDDDLLW
+Sporting Braga,Benfica,0-2,/match/sporting-braga/benfica/1993,1993,22,primeira_liga,18,34,2,0,2,13,8,3,10,20,21,LDWDWWWWWLWWLWWWDLLLW,5,2,3,13,8,2,13,5,3,33,10,WLDWWLWWDWWWLDDWDLWLW,5,3,3,14,8,DDWWLWWWLL,LWLWDWLDDLL
+Sporting CP,Farense,2-0,/match/sporting-lisbon/farense/1993,1993,23,primeira_liga,18,34,0,2,0,3,11,7,4,34,18,DWWDWDWWDDLWDWDWLLLLWW,7,2,1,22,8,5,8,8,6,27,19,WWWDWDWDWWWDWDDWDDWLWW,1,4,6,5,13,DWWWDWWWLW,WDWWWWWDDDL
+Gil Vicente,Estoril,2-0,/match/gil-vicente/estoril/1993,1993,23,primeira_liga,18,34,0,2,0,14,8,5,9,23,29,LLLWWDWWDDLDLDWLLLWWWW,5,1,5,15,13,8,6,7,9,23,32,WWWWDDDWWWDWWDDWDLWWWW,0,2,8,7,23,LLWWDLLWLWW,WWDWWWDWWW
+Vitória,Tirsense,2-1,/match/vitoria-guimaraes/tirsense/1993,1993,23,primeira_liga,18,34,0,2,1,17,7,3,12,22,33,WWWWWWLDWWWWLLLDLWDWWW,6,1,4,16,14,13,5,7,10,15,22,DLDWWWWWWDWDDWWWDLWDWW,0,2,8,1,13,WWWLWWLLLDW,DDWWWWWWWW
+Chaves,SC Salgueiros,3-0,/match/chaves/salgueiros/1993,1993,23,primeira_liga,18,34,0,3,0,18,2,5,15,20,38,LWLWWDDWDWLWLWWDDWWWLW,2,3,5,12,14,12,6,8,8,19,29,WWDWWDLDDWWDDDLWWDLLWL,2,3,5,6,14,LLWDDLLDWL,WDWLDWDWLW
+Beira Mar SC,Paços Ferreira,0-1,/match/beira-mar/pacos-ferreira/1993,1993,23,primeira_liga,18,34,2,0,1,9,6,9,7,15,20,WLWWDWWDDLWDDDLDDWWWWD,5,4,2,10,6,16,6,6,10,22,35,WLWWWWDWWDWDDWDWLLDLLW,1,3,6,8,22,LWDWDWDLDWW,WWWDWDWWDL
+Porto,Famalicão,0-1,/match/fc-porto/famalicao/1993,1993,23,primeira_liga,18,34,2,0,1,1,17,3,2,45,12,WDWWWLWLWDWWLWLDLLWLWL,9,1,0,21,3,10,6,9,7,18,24,WWWWWLDDDWDDDWLLDDWLWD,2,4,5,10,17,WWWWWWWDWW,WWWDDDDLLWW
+Marítimo,Belenenses,4-2,/match/maritimo/belenenses/1993,1993,23,primeira_liga,18,34,0,4,2,7,8,5,9,29,25,LWWWDWDWDWWLWWDWLWDWWW,6,4,1,21,9,4,8,8,6,22,20,WDLWDWDWWDWDLWDWDWWWWD,1,4,5,5,14,WWDDDWWDLWW,WLDDDDWWWW
+Benfica,Espinho,5-1,/match/benfica/espinho/1993,1993,23,primeira_liga,18,34,0,5,1,2,14,5,3,35,10,WLDWWLWWDWWWLDDWDLWLWL,8,2,0,19,2,11,7,6,9,23,31,WDLDWLDLDWWLWWDWWDLWWW,1,5,5,10,18,WDWWWWDWWW,DLWDDWWDWDW
+Boavista,Sporting Braga,0-0,/match/boavista/sporting-braga/1993,1993,23,primeira_liga,18,34,1,0,0,6,9,8,5,25,17,WLDWWWDDDWLWLLLWDWDDWD,5,4,1,10,4,15,8,3,11,20,23,LDWDWWWWWLWWLWWWDLLLWL,3,1,7,7,13,WDWDDWLWDW,LWWWWWLWDLW
+Farense,Benfica,0-0,/match/farense/benfica/1993,1993,24,primeira_liga,18,34,1,0,0,5,8,8,7,27,21,WWWDWDWDWWWDWDDWDDWLWWW,7,4,0,22,6,2,15,5,3,40,11,WLDWWLWWDWWWLDDWDLWLWLW,6,3,3,16,8,WWDDWDDWWWW,LWLWDWLDDLLL
+Tirsense,Beira Mar SC,2-1,/match/tirsense/beira-mar/1993,1993,24,primeira_liga,18,34,0,2,1,16,5,7,11,16,24,DLDWWWWWWDWDDWWWDLWDWWW,5,5,2,14,9,11,6,9,8,15,21,WLWWDWWDDLWDDDLDDWWWWDL,1,5,5,5,14,LWWWDDDWDLDW,WWWDLDDDWWD
+Famalicão,Chaves,2-1,/match/famalicao/chaves/1993,1993,24,primeira_liga,18,34,0,2,1,9,7,9,7,19,24,WWWWWLDDDWDDDWLLDDWLWDL,4,5,2,8,7,18,3,5,15,23,38,LWLWWDDWDWLWLWWDDWWWLWW,0,2,10,8,24,WWLDWDWDDLD,WWDWWWWWDWWW
+Espinho,Boavista,2-2,/match/espinho/boavista/1993,1993,24,primeira_liga,18,34,1,2,2,13,7,6,10,24,36,WDLDWLDLDWWLWWDWWDLWWWW,6,1,4,13,13,6,9,9,5,25,17,WLDWWWDDDWLWLLLWDWDDWDD,4,4,4,15,13,WDLLWLWWLWW,LWWDWLLLDWDD
+SC Salgueiros,Vitória,0-1,/match/salgueiros/vitoria-guimaraes/1993,1993,24,primeira_liga,18,34,2,0,1,14,6,8,9,19,32,WWDWWDLDDWWDDDLWWDLLWLW,4,5,3,13,15,12,8,3,12,24,34,WWWWWWLDWWWWLLLDLWDWWWW,1,2,8,6,19,WWDDWDDLWDLL,WWWDWWLDWWW
+Sporting CP,Gil Vicente,0-0,/match/sporting-lisbon/gil-vicente/1993,1993,24,primeira_liga,18,34,1,0,0,3,12,7,4,36,18,DWWDWDWWDDLWDWDWLLLLWWW,8,2,1,24,8,8,9,5,9,25,29,LLLWWDWWDDLDLDWLLLWWWWW,3,4,4,8,16,DWWWDWWWLWW,LWDWDDDLLWW
+Paços Ferreira,Marítimo,1-1,/match/pacos-ferreira/maritimo/1993,1993,24,primeira_liga,18,34,1,1,1,15,7,6,10,23,35,WLWWWWDWWDWDDWDWLLDLLWL,5,3,4,14,13,7,9,5,9,33,27,LWWWDWDWDWWLWWDWLWDWWWW,2,1,8,8,16,LWWWDWDDLLLW,LWWWWLWWDWW
+Belenenses,Estoril,0-0,/match/belenenses/estoril/1993,1993,24,primeira_liga,18,34,1,0,0,4,8,8,7,24,24,WDLWDWDWWDWDLWDWDWWWWDW,7,4,1,17,6,10,6,7,10,23,34,WWWWDDDWWWDWWDDWDLWWWWW,0,2,9,7,25,DWWWWWLDDWWD,WWDWWWDWWWW
+Sporting Braga,Porto,0-1,/match/sporting-braga/fc-porto/1993,1993,24,primeira_liga,18,34,2,0,1,17,8,4,11,20,23,LDWDWWWWWLWWLWWWDLLLWLD,5,2,4,13,10,1,17,3,3,45,13,WDWWWLWLWDWWLWLDLLWLWLL,8,2,2,24,9,DDWWLWWWLLL,DWLLDWLLLLLL
+Vitória,Famalicão,1-0,/match/vitoria-guimaraes/famalicao/1993,1993,25,primeira_liga,18,34,0,1,0,11,9,3,12,25,34,WWWWWWLDWWWWLLLDLWDWWWWL,7,1,4,18,15,8,8,9,7,21,25,WWWWWLDDDWDDDWLLDDWLWDLW,3,4,5,11,17,WWWLWWLLLDWW,WWWDDDDLLWWL
+Estoril,Paços Ferreira,0-0,/match/estoril/pacos-ferreira/1993,1993,25,primeira_liga,18,34,1,0,0,9,6,8,10,23,34,WWWWDDDWWWDWWDDWDLWWWWWD,6,5,1,16,9,15,7,7,10,24,36,WLWWWWDWWDWDDWDWLLDLLWLD,2,3,6,9,22,WWDDWDWDDLWW,WWWDWDWWDLL
+Chaves,Sporting Braga,2-1,/match/chaves/sporting-braga/1993,1993,25,primeira_liga,18,34,0,2,1,18,3,5,16,24,40,LWLWWDDWDWLWLWWDDWWWLWWW,3,3,5,15,14,17,8,4,12,20,24,LDWDWWWWWLWWLWWWDLLLWLDL,3,2,7,7,13,LLWDDLLDWLW,LWWWWWLWDLWD
+Gil Vicente,Belenenses,0-1,/match/gil-vicente/belenenses/1993,1993,25,primeira_liga,18,34,2,0,1,10,9,6,9,25,29,LLLWWDWWDDLDLDWLLLWWWWWD,6,1,5,17,13,4,8,9,7,24,24,WDLWDWDWWDWDLWDWDWWWWDWD,1,4,6,7,18,LLWWDLLWLWWW,WLDDDDWWWWW
+Beira Mar SC,SC Salgueiros,1-0,/match/beira-mar/salgueiros/1993,1993,25,primeira_liga,18,34,0,1,0,13,6,9,9,16,23,WLWWDWWDDLWDDDLDDWWWWDLW,5,4,3,10,7,16,6,8,10,19,33,WWDWWDLDDWWDDDLWWDLLWLWL,2,3,6,6,17,LWDWDWDLDWWL,WDWLDWDWLWW
+Porto,Espinho,1-0,/match/fc-porto/espinho/1993,1993,25,primeira_liga,18,34,0,1,0,1,18,3,3,46,13,WDWWWLWLWDWWLWLDLLWLWLLL,9,1,1,21,4,14,7,7,10,26,38,WDLDWLDLDWWLWWDWWDLWWWWD,1,5,6,11,23,WWWWWWWDWWL,DLWDDWWDWDWW
+Benfica,Sporting CP,1-0,/match/benfica/sporting-lisbon/1993,1993,25,primeira_liga,18,34,0,1,0,2,15,6,3,40,11,WLDWWLWWDWWWLDDWDLWLWLWD,9,2,0,24,3,3,12,8,4,36,18,DWWDWDWWDDLWDWDWLLLLWWWD,4,5,3,12,10,WDWWWWDWWWW,WDDWDLDDLLLW
+Marítimo,Tirsense,3-1,/match/maritimo/tirsense/1993,1993,25,primeira_liga,18,34,0,3,1,7,9,6,9,34,28,LWWWDWDWDWWLWWDWLWDWWWWD,7,4,1,25,11,12,6,7,11,18,25,DLDWWWWWWDWDDWWWDLWDWWWW,0,2,9,2,15,WWDDDWWDLWWW,DDWWWWWWWWW
+Boavista,Farense,3-1,/match/boavista/farense/1993,1993,25,primeira_liga,18,34,0,3,1,6,9,10,5,27,19,WLDWWWDDDWLWLLLWDWDDWDDD,5,5,1,10,4,5,8,9,7,27,21,WWWDWDWDWWWDWDDWDDWLWWWD,1,4,7,5,15,WDWDDWLWDWD,WDWWWWWDDDLW
+SC Salgueiros,Marítimo,1-2,/match/salgueiros/maritimo/1993,1993,26,primeira_liga,18,34,2,1,2,16,6,8,11,19,34,WWDWWDLDDWWDDDLWWDLLWLWLW,4,5,4,13,16,6,10,6,9,37,29,LWWWDWDWDWWLWWDWLWDWWWWDW,2,2,8,9,17,WWDDWDDLWDLLL,LWWWWLWWDWWD
+Espinho,Chaves,2-2,/match/espinho/chaves/1993,1993,26,primeira_liga,18,34,1,2,2,15,7,7,11,26,39,WDLDWLDLDWWLWWDWWDLWWWWDW,6,2,4,15,15,18,4,5,16,26,41,LWLWWDDWDWLWLWWDDWWWLWWWW,0,2,11,9,26,WDLLWLWWLWWD,WWDWWWWWDWWWW
+Famalicão,Beira Mar SC,0-1,/match/famalicao/beira-mar/1993,1993,26,primeira_liga,18,34,2,0,1,8,8,9,8,21,26,WWWWWLDDDWDDDWLLDDWLWDLWW,5,5,2,10,8,10,7,9,9,17,23,WLWWDWWDDLWDDDLDDWWWWDLWW,1,5,6,6,16,WWLDWDWDDLDW,WWWDLDDDWWDW
+Tirsense,Estoril,1-0,/match/tirsense/estoril/1993,1993,26,primeira_liga,18,34,0,1,0,13,6,7,12,19,28,DLDWWWWWWDWDDWWWDLWDWWWWW,6,5,2,16,10,11,6,9,10,23,34,WWWWDDDWWWDWWDDWDLWWWWWDD,0,3,9,7,25,LWWWDDDWDLDWW,WWDWWWDWWWWD
+Sporting Braga,Vitória,0-1,/match/sporting-braga/vitoria-guimaraes/1993,1993,26,primeira_liga,18,34,2,0,1,17,8,4,13,21,26,LDWDWWWWWLWWLWWWDLLLWLDLW,5,2,5,13,11,9,10,3,12,26,34,WWWWWWLDWWWWLLLDLWDWWWWLW,2,2,8,7,19,DDWWLWWWLLLL,WWWDWWLDWWWL
+Sporting CP,Boavista,4-0,/match/sporting-lisbon/boavista/1993,1993,26,primeira_liga,18,34,0,4,0,3,12,8,5,36,19,DWWDWDWWDDLWDWDWLLLLWWWDW,8,3,1,24,8,4,10,10,5,30,20,WLDWWWDDDWLWLLLWDWDDWDDDW,4,5,4,17,15,DWWWDWWWLWWD,LWWDWLLLDWDDD
+Benfica,Gil Vicente,2-1,/match/benfica/gil-vicente/1993,1993,26,primeira_liga,18,34,0,2,1,2,16,6,3,41,11,WLDWWLWWDWWWLDDWDLWLWLWDW,10,2,0,25,3,12,9,6,10,25,30,LLLWWDWWDDLDLDWLLLWWWWWDL,3,5,4,8,16,WDWWWWDWWWWW,LWDWDDDLLWWD
+Paços Ferreira,Belenenses,1-1,/match/pacos-ferreira/belenenses/1993,1993,26,primeira_liga,18,34,1,1,1,14,7,8,10,24,36,WLWWWWDWWDWDDWDWLLDLLWLDD,5,4,4,15,14,5,9,9,7,25,24,WDLWDWDWWDWDLWDWDWWWWDWDL,2,4,6,8,18,LWWWDWDDLLLWD,WLDDDDWWWWWL
+Farense,Porto,1-0,/match/farense/fc-porto/1993,1993,26,primeira_liga,18,34,0,1,0,7,8,9,8,28,24,WWWDWDWDWWWDWDDWDDWLWWWDW,7,5,0,22,6,1,19,3,3,47,13,WDWWWLWLWDWWLWLDLLWLWLLLW,9,2,2,25,9,WWDDWDDWWWWD,DWLLDWLLLLLLL
+Vitória,Espinho,3-1,/match/vitoria-guimaraes/espinho/1993,1993,27,primeira_liga,18,34,0,3,1,8,11,3,12,27,34,WWWWWWLDWWWWLLLDLWDWWWWLWL,8,1,4,19,15,15,7,8,11,28,41,WDLDWLDLDWWLWWDWWDLWWWWDWD,1,5,7,11,24,WWWLWWLLLDWWW,DLWDDWWDWDWWW
+Estoril,SC Salgueiros,1-0,/match/estoril/salgueiros/1993,1993,27,primeira_liga,18,34,0,1,0,12,6,9,11,23,35,WWWWDDDWWWDWWDDWDLWWWWWDDW,6,6,1,16,9,16,6,8,12,20,36,WWDWWDLDDWWDDDLWWDLLWLWLWL,2,3,7,6,18,WWDDWDWDDLWWD,WDWLDWDWLWWW
+Chaves,Farense,2-2,/match/chaves/farense/1993,1993,27,primeira_liga,18,34,1,2,2,18,4,6,16,28,43,LWLWWDDWDWLWLWWDDWWWLWWWWD,4,3,5,17,15,5,9,9,8,29,24,WWWDWDWDWWWDWDDWDDWLWWWDWW,1,4,8,6,18,LLWDDLLDWLWW,WDWWWWWDDDLWW
+Gil Vicente,Paços Ferreira,0-1,/match/gil-vicente/pacos-ferreira/1993,1993,27,primeira_liga,18,34,2,0,1,14,9,6,11,26,32,LLLWWDWWDDLDLDWLLLWWWWWDLW,6,1,6,17,14,13,7,9,10,25,37,WLWWWWDWWDWDDWDWLLDLLWLDDD,2,4,6,9,22,LLWWDLLWLWWWL,WWWDWDWWDLLD
+Beira Mar SC,Sporting Braga,0-0,/match/beira-mar/sporting-braga/1993,1993,27,primeira_liga,18,34,1,0,0,9,8,9,9,18,23,WLWWDWWDDLWDDDLDDWWWWDLWWL,6,4,3,11,7,17,8,4,14,21,27,LDWDWWWWWLWWLWWWDLLLWLDLWL,3,2,8,8,15,LWDWDWDLDWWLW,LWWWWWLWDLWDW
+Boavista,Benfica,2-3,/match/boavista/benfica/1993,1993,27,primeira_liga,18,34,2,2,3,6,10,10,6,30,24,WLDWWWDDDWLWLLLWDWDDWDDDWW,6,5,1,13,5,1,17,6,3,43,12,WLDWWLWWDWWWLDDWDLWLWLWDWW,6,4,3,16,8,WDWDDWLWDWDW,LWLWDWLDDLLLD
+Marítimo,Famalicão,4-2,/match/maritimo/famalicao/1993,1993,27,primeira_liga,18,34,0,4,2,4,11,6,9,39,30,LWWWDWDWDWWLWWDWLWDWWWWDWL,8,4,1,28,12,10,8,9,9,21,27,WWWWWLDDDWDDDWLLDDWLWDLWWL,3,4,6,11,18,WWDDDWWDLWWWW,WWWDDDDLLWWLW
+Porto,Sporting CP,0-0,/match/fc-porto/sporting-lisbon/1993,1993,27,primeira_liga,18,34,1,0,0,2,19,3,4,47,14,WDWWWLWLWDWWLWLDLLWLWLLLWW,10,1,1,22,4,3,13,8,5,40,19,DWWDWDWWDDLWDWDWLLLLWWWDWW,4,5,4,12,11,WWWWWWWDWWLW,WDDWDLDDLLLWW
+Belenenses,Tirsense,3-0,/match/belenenses/tirsense/1993,1993,27,primeira_liga,18,34,0,3,0,7,9,10,7,26,25,WDLWDWDWWDWDLWDWDWWWWDWDLD,7,5,1,17,6,11,7,7,12,20,28,DLDWWWWWWDWDDWWWDLWDWWWWWW,0,2,10,3,18,DWWWWWLDDWWDD,DDWWWWWWWWWW
+Benfica,Porto,0-0,/match/benfica/fc-porto/1993,1993,28,primeira_liga,18,34,1,0,0,1,18,6,3,46,14,WLDWWLWWDWWWLDDWDLWLWLWDWWL,11,2,0,27,4,2,19,4,4,47,14,WDWWWLWLWDWWLWLDLLWLWLLLWWD,9,2,3,25,10,WDWWWWDWWWWWW,DWLLDWLLLLLLLW
+SC Salgueiros,Belenenses,2-1,/match/salgueiros/belenenses/1993,1993,28,primeira_liga,18,34,0,2,1,16,6,8,13,20,37,WWDWWDLDDWWDDDLWWDLLWLWLWLW,4,5,5,14,18,5,10,10,7,29,25,WDLWDWDWWDWDLWDWDWWWWDWDLDW,2,5,6,9,19,WWDDWDDLWDLLLL,WLDDDDWWWWWLD
+Tirsense,Paços Ferreira,0-0,/match/tirsense/pacos-ferreira/1993,1993,28,primeira_liga,18,34,1,0,0,13,7,7,13,20,31,DLDWWWWWWDWDDWWWDLWDWWWWWWW,7,5,2,17,10,11,8,9,10,26,37,WLWWWWDWWDWDDWDWLLDLLWLDDDL,3,4,6,10,22,LWWWDDDWDLDWWW,WWWDWDWWDLLDL
+Espinho,Beira Mar SC,1-3,/match/espinho/beira-mar/1993,1993,28,primeira_liga,18,34,2,1,3,15,7,8,12,29,44,WDLDWLDLDWWLWWDWWDLWWWWDWDW,6,3,4,17,17,10,8,10,9,18,23,WLWWDWWDDLWDDDLDDWWWWDLWWLD,2,5,6,7,16,WDLLWLWWLWWDD,WWWDLDDDWWDWL
+Famalicão,Estoril,1-2,/match/famalicao/estoril/1993,1993,28,primeira_liga,18,34,2,1,2,12,8,9,10,23,31,WWWWWLDDDWDDDWLLDDWLWDLWWLW,5,5,3,10,9,9,7,9,11,24,35,WWWWDDDWWWDWWDDWDLWWWWWDDWW,0,3,10,7,26,WWLDWDWDDLDWL,WWDWWWDWWWWDW
+Sporting CP,Chaves,5-0,/match/sporting-lisbon/chaves/1993,1993,28,primeira_liga,18,34,0,5,0,3,13,9,5,40,19,DWWDWDWWDDLWDWDWLLLLWWWDWWD,9,3,1,28,8,18,4,7,16,30,45,LWLWWDDWDWLWLWWDDWWWLWWWWDD,0,3,11,11,28,DWWWDWWWLWWDW,WWDWWWWWDWWWWD
+Boavista,Gil Vicente,2-0,/match/boavista/gil-vicente/1993,1993,28,primeira_liga,18,34,0,2,0,7,10,10,7,32,27,WLDWWWDDDWLWLLLWDWDDWDDDWWL,6,5,2,15,8,14,9,6,12,26,33,LLLWWDWWDDLDLDWLLLWWWWWDLWL,3,5,5,9,18,WDWDDWLWDWDWL,LWDWDDDLLWWDW
+Sporting Braga,Marítimo,2-1,/match/sporting-braga/maritimo/1993,1993,28,primeira_liga,18,34,0,2,1,17,8,5,14,21,27,LDWDWWWWWLWWLWWWDLLLWLDLWLD,5,2,6,13,12,4,12,6,9,43,32,LWWWDWDWDWWLWWDWLWDWWWWDWLW,3,2,8,11,18,DDWWLWWWLLLLL,LWWWWLWWDWWDL
+Farense,Vitória,4-1,/match/farense/vitoria-guimaraes/1993,1993,28,primeira_liga,18,34,0,4,1,6,9,10,8,31,26,WWWDWDWDWWWDWDDWDDWLWWWDWWD,8,5,0,23,6,8,12,3,12,30,35,WWWWWWLDWWWWLLLDLWDWWWWLWLW,3,2,8,8,19,WWDDWDDWWWWDW,WWWDWWLDWWWLL
+Vitória,Sporting CP,2-3,/match/vitoria-guimaraes/sporting-lisbon/1993,1993,29,primeira_liga,18,34,2,2,3,8,12,3,13,31,39,WWWWWWLDWWWWLLLDLWDWWWWLWLWW,9,1,4,22,16,3,14,9,5,45,19,DWWDWDWWDDLWDWDWLLLLWWWDWWDW,4,6,4,12,11,WWWLWWLLLDWWWW,WDDWDLDDLLLWWD
+Estoril,Sporting Braga,0-0,/match/estoril/sporting-braga/1993,1993,29,primeira_liga,18,34,1,0,0,10,8,9,11,26,36,WWWWDDDWWWDWWDDWDLWWWWWDDWWL,7,6,1,17,9,17,9,5,14,23,28,LDWDWWWWWLWWLWWWDLLLWLDLWLDW,3,3,8,8,15,WWDDWDWDDLWWDW,LWWWWWLWDLWDWD
+Chaves,Benfica,0-1,/match/chaves/benfica/1993,1993,29,primeira_liga,18,34,2,0,1,18,4,7,17,30,50,LWLWWDDWDWLWLWWDDWWWLWWWWDDW,4,4,5,19,17,1,18,7,3,46,14,WLDWWLWWDWWWLDDWDLWLWLWDWWLD,7,4,3,19,10,LLWDDLLDWLWWD,LWLWDWLDDLLLDL
+Paços Ferreira,SC Salgueiros,0-1,/match/pacos-ferreira/salgueiros/1993,1993,29,primeira_liga,18,34,2,0,1,12,8,10,10,26,37,WLWWWWDWWDWDDWDWLLDLLWLDDDLD,5,5,4,16,15,16,7,8,13,22,38,WWDWWDLDDWWDDDLWWDLLWLWLWLWW,2,3,8,6,19,LWWWDWDDLLLWDD,WDWLDWDWLWWWW
+Gil Vicente,Tirsense,1-2,/match/gil-vicente/tirsense/1993,1993,29,primeira_liga,18,34,2,1,2,14,9,6,13,26,35,LLLWWDWWDDLDLDWLLLWWWWWDLWLW,6,1,7,17,15,11,7,8,13,20,31,DLDWWWWWWDWDDWWWDLWDWWWWWWWD,0,2,11,3,21,LLWWDLLWLWWWLL,DDWWWWWWWWWWW
+Marítimo,Espinho,2-1,/match/maritimo/espinho/1993,1993,29,primeira_liga,18,34,0,2,1,5,12,6,10,44,34,LWWWDWDWDWWLWWDWLWDWWWWDWLWW,9,4,1,32,14,15,7,8,13,30,47,WDLDWLDLDWWLWWDWWDLWWWWDWDWL,1,5,8,12,27,WWDDDWWDLWWWWW,DLWDDWWDWDWWWW
+Belenenses,Famalicão,7-0,/match/belenenses/famalicao/1993,1993,29,primeira_liga,18,34,0,7,0,6,10,10,8,30,27,WDLWDWDWWDWDLWDWDWWWWDWDLDWW,8,5,1,20,6,13,8,9,11,24,33,WWWWWLDDDWDDDWLLDDWLWDLWWLWL,3,4,7,13,22,DWWWWWLDDWWDDW,WWWDDDDLLWWLWW
+Porto,Boavista,1-1,/match/fc-porto/boavista/1993,1993,29,primeira_liga,18,34,1,1,1,2,19,5,4,47,14,WDWWWLWLWDWWLWLDLLWLWLLLWWDD,10,2,1,22,4,7,11,10,7,34,27,WLDWWWDDDWLWLLLWDWDDWDDDWWLW,4,5,5,17,19,WWWWWWWDWWLWD,LWWDWLLLDWDDDW
+Beira Mar SC,Farense,1-1,/match/beira-mar/farense/1993,1993,29,primeira_liga,18,34,1,1,1,9,9,10,9,21,24,WLWWDWWDDLWDDDLDDWWWWDLWWLDL,6,5,3,11,7,4,10,10,8,35,27,WWWDWDWDWWWDWDDWDDWLWWWDWWDW,1,5,8,8,20,LWDWDWDLDWWLWD,WDWWWWWDDDLWWD
+Sporting CP,Beira Mar SC,3-1,/match/sporting-lisbon/beira-mar/1993,1993,30,primeira_liga,18,34,0,3,1,3,15,9,5,48,21,DWWDWDWWDDLWDWDWLLLLWWWDWWDWL,10,3,1,33,8,8,9,11,9,22,25,WLWWDWWDDLWDDDLDDWWWWDLWWLDLD,3,5,6,10,17,DWWWDWWWLWWDWW,WWWDLDDDWWDWLL
+Porto,Gil Vicente,4-1,/match/fc-porto/gil-vicente/1993,1993,30,primeira_liga,18,34,0,4,1,2,19,6,4,48,15,WDWWWLWLWDWWLWLDLLWLWLLLWWDDD,10,3,1,23,5,16,9,6,14,27,37,LLLWWDWWDDLDLDWLLLWWWWWDLWLWL,3,5,6,9,20,WWWWWWWDWWLWDD,LWDWDDDLLWWDWW
+Famalicão,Paços Ferreira,1-0,/match/famalicao/pacos-ferreira/1993,1993,30,primeira_liga,18,34,0,1,0,13,8,9,12,24,40,WWWWWLDDDWDDDWLLDDWLWDLWWLWLW,5,5,4,11,11,12,8,10,11,26,38,WLWWWWDWWDWDDWDWLLDLLWLDDDLDL,3,5,6,10,22,WWLDWDWDDLDWLL,WWWDWDWWDLLDLD
+SC Salgueiros,Tirsense,1-0,/match/salgueiros/tirsense/1993,1993,30,primeira_liga,18,34,0,1,0,14,8,8,13,23,38,WWDWWDLDDWWDDDLWWDLLWLWLWLWWL,5,5,5,16,19,11,8,8,13,22,32,DLDWWWWWWDWDDWWWDLWDWWWWWWWDL,1,2,11,5,22,WWDDWDDLWDLLLLW,DDWWWWWWWWWWWL
+Espinho,Estoril,3-1,/match/espinho/estoril/1993,1993,30,primeira_liga,18,34,0,3,1,17,7,8,14,31,49,WDLDWLDLDWWLWWDWWDLWWWWDWDWLW,6,3,5,18,20,9,8,10,11,26,36,WWWWDDDWWWDWWDDWDLWWWWWDDWWLD,1,3,10,9,27,WDLLWLWWLWWDDL,WWDWWWDWWWWDWL
+Sporting Braga,Belenenses,3-0,/match/sporting-braga/belenenses/1993,1993,30,primeira_liga,18,34,0,3,0,15,9,6,14,23,28,LDWDWWWWWLWWLWWWDLLLWLDLWLDWD,6,2,6,15,13,5,11,10,8,37,27,WDLWDWDWWDWDLWDWDWWWWDWDLDWWW,2,5,7,10,21,DDWWLWWWLLLLLW,WLDDDDWWWWWLDW
+Benfica,Vitória,3-1,/match/benfica/vitoria-guimaraes/1993,1993,30,primeira_liga,18,34,0,3,1,1,19,7,3,47,14,WLDWWLWWDWWWLDDWDLWLWLWDWWLDL,11,3,0,27,4,10,12,3,14,33,42,WWWWWWLDWWWWLLLDLWDWWWWLWLWWL,3,2,9,9,23,WDWWWWDWWWWWWD,WWWDWWLDWWWLLW
+Boavista,Chaves,2-0,/match/boavista/chaves/1993,1993,30,primeira_liga,18,34,0,2,0,7,11,11,7,35,28,WLDWWWDDDWLWLLLWDWDDWDDDWWLWD,7,5,2,17,8,18,4,7,18,30,51,LWLWWDDWDWLWLWWDDWWWLWWWWDDWL,0,3,12,11,33,WDWDDWLWDWDWLW,WWDWWWWWDWWWWDW
+Farense,Marítimo,2-2,/match/farense/maritimo/1993,1993,30,primeira_liga,18,34,1,2,2,6,10,11,8,36,28,WWWDWDWDWWWDWDDWDDWLWWWDWWDWD,9,5,0,27,7,4,13,6,10,46,35,LWWWDWDWDWWLWWDWLWDWWWWDWLWWW,3,2,9,12,20,WWDDWDDWWWWDWW,LWWWWLWWDWWDLW
+Marítimo,Sporting CP,4-2,/match/maritimo/sporting-lisbon/1993,1993,31,primeira_liga,18,34,0,4,2,4,13,7,10,48,37,LWWWDWDWDWWLWWDWLWDWWWWDWLWWWD,10,4,1,34,15,3,16,9,5,51,22,DWWDWDWWDDLWDWDWLLLLWWWDWWDWLW,5,6,4,15,13,WWDDDWWDLWWWWWW,WDDWDLDDLLLWWDL
+Vitória,Boavista,3-2,/match/vitoria-guimaraes/boavista/1993,1993,31,primeira_liga,18,34,0,3,2,10,12,3,15,34,45,WWWWWWLDWWWWLLLDLWDWWWWLWLWWLW,9,1,5,24,19,6,12,11,7,37,28,WLDWWWDDDWLWLLLWDWDDWDDDWWLWDW,4,6,5,18,20,WWWLWWLLLDWWWWL,LWWDWLLLDWDDDWD
+Tirsense,Famalicão,3-0,/match/tirsense/famalicao/1993,1993,31,primeira_liga,18,34,0,3,0,11,8,8,14,22,33,DLDWWWWWWDWDDWWWDLWDWWWWWWWDLW,7,6,2,17,10,12,9,9,12,25,40,WWWWWLDDDWDDDWLLDDWLWDLWWLWLWW,3,4,8,13,29,LWWWDDDWDLDWWWD,WWWDDDDLLWWLWWW
+Estoril,Farense,1-0,/match/estoril/farense/1993,1993,31,primeira_liga,18,34,0,1,0,9,8,10,12,27,39,WWWWDDDWWWDWWDDWDLWWWWWDDWWLDW,7,7,1,17,9,5,10,12,8,38,30,WWWDWDWDWWWDWDDWDDWLWWWDWWDWDD,1,6,8,9,21,WWDDWDWDDLWWDWD,WDWWWWWDDDLWWDD
+Paços Ferreira,Sporting Braga,3-0,/match/pacos-ferreira/sporting-braga/1993,1993,31,primeira_liga,18,34,0,3,0,15,8,10,12,26,39,WLWWWWDWWDWDDWDWLLDLLWLDDDLDLW,5,5,5,16,16,14,10,6,14,26,28,LDWDWWWWWLWWLWWWDLLLWLDLWLDWDW,3,4,8,8,15,LWWWDWDDLLLWDDL,LWWWWWLWDLWDWDD
+Beira Mar SC,Benfica,1-0,/match/beira-mar/benfica/1993,1993,31,primeira_liga,18,34,0,1,0,8,9,11,10,23,28,WLWWDWWDDLWDDDLDDWWWWDLWWLDLDW,6,6,3,12,8,1,20,7,3,50,15,WLDWWLWWDWWWLDDWDLWLWLWDWWLDLW,8,4,3,20,10,LWDWDWDLDWWLWDD,LWLWDWLDDLLLDLL
+Chaves,Porto,1-2,/match/chaves/fc-porto/1993,1993,31,primeira_liga,18,34,2,1,2,18,4,7,19,30,53,LWLWWDDWDWLWLWWDDWWWLWWWWDDWLW,4,4,6,19,18,2,20,6,4,52,16,WDWWWLWLWDWWLWLDLLWLWLLLWWDDDW,9,3,3,25,10,LLWDDLLDWLWWDL,DWLLDWLLLLLLLWD
+Belenenses,Espinho,1-2,/match/belenenses/espinho/1993,1993,31,primeira_liga,18,34,2,1,2,7,11,10,9,37,30,WDLWDWDWWDWDLWDWDWWWWDWDLDWWWW,9,5,1,27,6,16,8,8,14,34,50,WDLDWLDLDWWLWWDWWDLWWWWDWDWLWW,1,5,9,13,29,DWWWWWLDDWWDDWW,DLWDDWWDWDWWWWW
+Gil Vicente,SC Salgueiros,2-0,/match/gil-vicente/salgueiros/1993,1993,31,primeira_liga,18,34,0,2,0,17,9,6,15,28,41,LLLWWDWWDDLDLDWLLLWWWWWDLWLWLW,6,1,8,18,17,13,9,8,13,24,38,WWDWWDLDDWWDDDLWWDLLWLWLWLWWLW,3,3,8,7,19,LLWWDLLWLWWWLLL,WDWLDWDWLWWWWL
+Porto,Vitória,2-0,/match/fc-porto/vitoria-guimaraes/1993,1993,32,primeira_liga,18,34,0,2,0,2,21,6,4,54,17,WDWWWLWLWDWWLWLDLLWLWLLLWWDDDWL,11,3,1,27,6,10,13,3,15,37,47,WWWWWWLDWWWWLLLDLWDWWWWLWLWWLWW,3,2,10,10,26,WWWWWWWDWWLWDDW,WWWDWWLDWWWLLWW
+Espinho,Paços Ferreira,1-1,/match/espinho/pacos-ferreira/1993,1993,32,primeira_liga,18,34,1,1,1,15,9,8,14,36,51,WDLDWLDLDWWLWWDWWDLWWWWDWDWLWWL,7,3,5,21,21,12,9,10,12,29,39,WLWWWWDWWDWDDWDWLLDLLWLDDDLDLWW,3,5,7,10,23,WDLLWLWWLWWDDLW,WWWDWDWWDLLDLDW
+Chaves,Gil Vicente,1-2,/match/chaves/gil-vicente/1993,1993,32,primeira_liga,18,34,2,1,2,18,4,7,20,31,55,LWLWWDDWDWLWLWWDDWWWLWWWWDDWLWL,4,4,7,20,20,17,10,6,15,30,41,LLLWWDWWDDLDLDWLLLWWWWWDLWLWLWW,3,5,7,10,24,LLWDDLLDWLWWDLL,LWDWDDDLLWWDWWW
+Sporting Braga,Tirsense,3-0,/match/sporting-braga/tirsense/1993,1993,32,primeira_liga,18,34,0,3,0,16,10,6,15,26,31,LDWDWWWWWLWWLWWWDLLLWLDLWLDWDWW,7,2,6,18,13,11,9,8,14,25,33,DLDWWWWWWDWDDWWWDLWDWWWWWWWDLWW,1,2,12,5,23,DDWWLWWWLLLLLWW,DDWWWWWWWWWWWLW
+Famalicão,SC Salgueiros,3-1,/match/famalicao/salgueiros/1993,1993,32,primeira_liga,18,34,0,3,1,13,9,9,13,25,43,WWWWWLDDDWDDDWLLDDWLWDLWWLWLWWW,6,5,4,12,11,14,9,8,14,24,40,WWDWWDLDDWWDDDLWWDLLWLWLWLWWLWW,3,3,9,7,21,WWLDWDWDDLDWLLW,WDWLDWDWLWWWWLW
+Farense,Belenenses,1-1,/match/farense/belenenses/1993,1993,32,primeira_liga,18,34,1,1,1,5,10,12,9,38,31,WWWDWDWDWWWDWDDWDDWLWWWDWWDWDDW,9,6,0,29,9,7,11,10,10,38,32,WDLWDWDWWDWDLWDWDWWWWDWDLDWWWWL,2,5,8,10,24,WWDDWDDWWWWDWWD,WLDDDDWWWWWLDWW
+Sporting CP,Estoril,1-1,/match/sporting-lisbon/estoril/1993,1993,32,primeira_liga,18,34,1,1,1,3,16,9,6,53,26,DWWDWDWWDDLWDWDWLLLLWWWDWWDWLWW,11,3,1,36,9,9,9,10,12,28,39,WWWWDDDWWWDWWDDWDLWWWWWDDWWLDWW,1,3,11,10,30,DWWWDWWWLWWDWWW,WWDWWWDWWWWDWLW
+Benfica,Marítimo,5-1,/match/benfica/maritimo/1993,1993,32,primeira_liga,18,34,0,5,1,1,20,7,4,50,16,WLDWWLWWDWWWLDDWDLWLWLWDWWLDLWW,12,3,0,30,5,4,14,7,10,52,39,LWWWDWDWDWWLWWDWLWDWWWWDWLWWWDW,3,3,9,14,22,WDWWWWDWWWWWWDW,LWWWWLWWDWWDLWD
+Boavista,Beira Mar SC,4-0,/match/boavista/beira-mar/1993,1993,32,primeira_liga,18,34,0,4,0,6,12,11,8,39,31,WLDWWWDDDWLWLLLWDWDDWDDDWWLWDWW,8,5,2,19,8,8,10,11,10,24,28,WLWWDWWDDLWDDDLDDWWWWDLWWLDLDWW,3,5,7,11,20,WDWDDWLWDWDWLWW,WWWDLDDDWWDWLLW
+Estoril,Benfica,0-0,/match/estoril/benfica/1993,1993,33,primeira_liga,18,34,1,0,0,8,9,11,12,29,40,WWWWDDDWWWDWWDDWDLWWWWWDDWWLDWWD,8,7,1,18,9,1,21,7,4,55,17,WLDWWLWWDWWWLDDWDLWLWLWDWWLDLWWW,8,4,4,20,11,WWDDWDWDDLWWDWDW,LWLWDWLDDLLLDLLW
+Famalicão,Gil Vicente,0-0,/match/famalicao/gil-vicente/1993,1993,33,primeira_liga,18,34,1,0,0,12,10,9,13,28,44,WWWWWLDDDWDDDWLLDDWLWDLWWLWLWWWW,7,5,4,15,12,17,11,6,15,32,42,LLLWWDWWDDLDLDWLLLWWWWWDLWLWLWWL,4,5,7,12,25,WWLDWDWDDLDWLLWW,LWDWDDDLLWWDWWWL
+SC Salgueiros,Sporting Braga,2-0,/match/salgueiros/sporting-braga/1993,1993,33,primeira_liga,18,34,0,2,0,16,9,8,15,25,43,WWDWWDLDDWWDDDLWWDLLWLWLWLWWLWWW,6,5,5,17,19,14,11,6,15,29,31,LDWDWWWWWLWWLWWWDLLLWLDLWLDWDWWW,3,4,9,8,18,WWDDWDDLWDLLLLWW,LWWWWWLWDLWDWDDW
+Tirsense,Espinho,2-0,/match/tirsense/espinho/1993,1993,33,primeira_liga,18,34,0,2,0,11,9,8,15,25,36,DLDWWWWWWDWDDWWWDLWDWWWWWWWDLWWW,8,6,2,20,10,15,9,9,14,37,52,WDLDWLDLDWWLWWDWWDLWWWWDWDWLWWLD,2,5,9,15,30,LWWWDDDWDLDWWWDW,DLWDDWWDWDWWWWWL
+Vitória,Chaves,4-2,/match/vitoria-guimaraes/chaves/1993,1993,33,primeira_liga,18,34,0,4,2,10,13,3,16,37,49,WWWWWWLDWWWWLLLDLWDWWWWLWLWWLWWW,10,1,5,27,21,18,4,7,21,32,57,LWLWWDDWDWLWLWWDDWWWLWWWWDDWLWLL,0,3,13,11,35,WWWLWWLLLDWWWWLW,WWDWWWWWDWWWWDWW
+Paços Ferreira,Farense,4-1,/match/pacos-ferreira/farense/1993,1993,33,primeira_liga,18,34,0,4,1,13,9,11,12,30,40,WLWWWWDWWDWDDWDWLLDLLWLDDDLDLWWD,6,5,5,19,16,6,10,13,9,39,32,WWWDWDWDWWWDWDDWDDWLWWWDWWDWDDWD,1,6,9,9,22,LWWWDWDDLLLWDDLW,WDWWWWWDDDLWWDDW
+Belenenses,Sporting CP,2-2,/match/belenenses/sporting-lisbon/1993,1993,33,primeira_liga,18,34,1,2,2,7,11,11,10,39,33,WDLWDWDWWDWDLWDWDWWWWDWDLDWWWWLD,9,5,2,28,8,3,16,10,6,54,27,DWWDWDWWDDLWDWDWLLLLWWWDWWDWLWWD,5,6,5,17,17,DWWWWWLDDWWDDWWL,WDDWDLDDLLLWWDLW
+Marítimo,Boavista,3-2,/match/maritimo/boavista/1993,1993,33,primeira_liga,18,34,0,3,2,4,14,7,11,53,44,LWWWDWDWDWWLWWDWLWDWWWWDWLWWWDWW,11,4,1,38,17,5,13,11,8,43,31,WLDWWWDDDWLWLLLWDWDDWDDDWWLWDWWW,4,6,6,20,23,WWDDDWWDLWWWWWWW,LWWDWLLLDWDDDWDW
+Beira Mar SC,Porto,0-1,/match/beira-mar/fc-porto/1993,1993,33,primeira_liga,18,34,2,0,1,9,10,11,11,24,32,WLWWDWWDDLWDDDLDDWWWWDLWWLDLDWWW,7,6,3,13,8,2,22,6,4,56,17,WDWWWLWLWDWWLWLDLLWLWLLLWWDDDWLW,10,3,3,27,11,LWDWDWDLDWWLWDDW,DWLLDWLLLLLLLWDL
+Sporting Braga,Famalicão,4-1,/match/sporting-braga/famalicao/1993,1993,34,primeira_liga,18,34,0,4,1,15,11,6,16,29,33,LDWDWWWWWLWWLWWWDLLLWLDLWLDWDWWWW,8,2,6,21,13,12,10,10,13,28,44,WWWWWLDDDWDDDWLLDDWLWDLWWLWLWWWWD,3,4,9,13,32,DDWWLWWWLLLLLWWW,WWWDDDDLLWWLWWWW
+Espinho,SC Salgueiros,1-1,/match/espinho/salgueiros/1993,1993,34,primeira_liga,18,34,1,1,1,16,9,9,15,37,54,WDLDWLDLDWWLWWDWWDLWWWWDWDWLWWLDW,7,4,5,22,22,14,10,8,15,27,43,WWDWWDLDDWWDDDLWWDLLWLWLWLWWLWWWW,3,3,10,8,24,WDLLWLWWLWWDDLWD,WDWLDWDWLWWWWLWW
+Chaves,Beira Mar SC,0-0,/match/chaves/beira-mar/1993,1993,34,primeira_liga,18,34,1,0,0,18,4,7,22,34,61,LWLWWDDWDWLWLWWDDWWWLWWWWDDWLWLLW,4,4,8,21,22,11,10,11,12,24,33,WLWWDWWDDLWDDDLDDWWWWDLWWLDLDWWWL,3,5,8,11,24,LLWDDLLDWLWWDLLL,WWWDLDDDWWDWLLWW
+Gil Vicente,Vitória,2-0,/match/gil-vicente/vitoria-guimaraes/1993,1993,34,primeira_liga,18,34,0,2,0,17,11,7,15,32,42,LLLWWDWWDDLDLDWLLLWWWWWDLWLWLWWLD,7,1,8,20,17,8,14,3,16,41,51,WWWWWWLDWWWWLLLDLWDWWWWLWLWWLWWWW,3,2,11,10,28,LLWWDLLWLWWWLLLW,WWWDWWLDWWWLLWWW
+Sporting CP,Paços Ferreira,3-1,/match/sporting-lisbon/pacos-ferreira/1993,1993,34,primeira_liga,18,34,0,3,1,3,16,11,6,56,29,DWWDWDWWDDLWDWDWLLLLWWWDWWDWLWWDD,11,4,1,37,10,13,10,11,12,34,41,WLWWWWDWWDWDDWDWLLDLLWLDDDLDLWWDW,3,6,7,11,24,DWWWDWWWLWWDWWWD,WWWDWDWWDLLDLDWD
+Porto,Marítimo,2-0,/match/fc-porto/maritimo/1993,1993,34,primeira_liga,18,34,0,2,0,2,23,6,4,57,17,WDWWWLWLWDWWLWLDLLWLWLLLWWDDDWLWL,12,3,1,29,6,4,15,7,11,56,46,LWWWDWDWDWWLWWDWLWDWWWWDWLWWWDWWW,3,3,10,15,27,WWWWWWWDWWLWDDWW,LWWWWLWWDWWDLWDW
+Benfica,Belenenses,5-1,/match/benfica/belenenses/1993,1993,34,primeira_liga,18,34,0,5,1,1,21,8,4,55,17,WLDWWLWWDWWWLDDWDLWLWLWDWWLDLWWWD,13,3,0,35,6,7,11,12,10,41,35,WDLWDWDWWDWDLWDWDWWWWDWDLDWWWWLDD,2,6,8,11,25,WDWWWWDWWWWWWDWW,WLDDDDWWWWWLDWWD
+Boavista,Estoril,1-0,/match/boavista/estoril/1993,1993,34,primeira_liga,18,34,0,1,0,5,13,11,9,45,34,WLDWWWDDDWLWLLLWDWDDWDDDWWLWDWWWW,9,5,2,23,8,9,9,12,12,29,40,WWWWDDDWWWDWWDDWDLWWWWWDDWWLDWWDD,1,4,11,11,31,WDWDDWLWDWDWLWWW,WWDWWWDWWWWDWLWD
+Farense,Tirsense,1-0,/match/farense/tirsense/1993,1993,34,primeira_liga,18,34,0,1,0,6,10,13,10,40,36,WWWDWDWDWWWDWDDWDDWLWWWDWWDWDDWDW,9,7,0,30,10,10,10,8,15,27,36,DLDWWWWWWDWDDWWWDLWDWWWWWWWDLWWWW,1,2,13,5,26,WWDDWDDWWWWDWWDD,DDWWWWWWWWWWWLWW

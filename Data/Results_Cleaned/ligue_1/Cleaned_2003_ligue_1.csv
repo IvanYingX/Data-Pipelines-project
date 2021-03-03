@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Guingamp,Olympique Lyonnais,3-3,/match/guingamp/olympique-lyonnais/2003,2003,1,ligue_1,20,38,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olympique,Nantes,0-2,/match/olympique-marsella/nantes/2003,2003,1,ligue_1,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Strasbourg,Ajaccio,1-1,/match/strasbourg/ajaccio/2003,2003,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sedan,Sochaux,0-0,/match/sedan/sochaux/2003,2003,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSG,Auxerre,1-0,/match/paris-saint-germain-fc/auxerre/2003,2003,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nice,Le Havre,1-2,/match/nice/havre-ac/2003,2003,1,ligue_1,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Stade Rennais,1-0,/match/montpellier-hsc/stade-rennes/2003,2003,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lille,Girondins Bordeaux,0-3,/match/lillestrom/bordeaux/2003,2003,1,ligue_1,20,38,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bastia,Lens,1-1,/match/bastia/lens/2003,2003,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Troyes,Monaco,0-4,/match/troyes/monaco/2003,2003,1,ligue_1,20,38,2,0,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,Montpellier,2-0,/match/auxerre/montpellier-hsc/2003,2003,2,ligue_1,20,38,0,2,0,20,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Girondins Bordeaux,PSG,0-0,/match/bordeaux/paris-saint-germain-fc/2003,2003,2,ligue_1,20,38,1,0,0,6,1,0,0,3,0,L,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Lens,Sochaux,1-1,/match/lens/sochaux/2003,2003,2,ligue_1,20,38,1,1,1,14,0,1,0,1,1,D,0,0,0,0,0,12,0,1,0,0,0,D,0,1,0,0,0,,D
+Ajaccio,Guingamp,0-2,/match/ajaccio/guingamp/2003,2003,2,ligue_1,20,38,2,0,2,11,0,1,0,1,1,D,0,0,0,0,0,10,0,1,0,3,3,D,0,0,0,0,0,,
+Nice,Strasbourg,4-0,/match/nice/strasbourg/2003,2003,2,ligue_1,20,38,0,4,0,16,0,0,1,1,2,L,0,0,1,1,2,4,0,1,0,1,1,D,0,0,0,0,0,L,
+Nantes,Bastia,1-0,/match/nantes/bastia/2003,2003,2,ligue_1,20,38,0,1,0,5,1,0,0,2,0,L,0,0,0,0,0,3,0,1,0,1,1,D,0,0,0,0,0,,
+Monaco,Olympique,0-1,/match/monaco/olympique-marsella/2003,2003,2,ligue_1,20,38,2,0,1,8,1,0,0,4,0,L,0,0,0,0,0,19,0,0,1,0,2,L,0,0,0,0,0,,
+Olympique Lyonnais,Sedan,6-1,/match/olympique-lyonnais/sedan/2003,2003,2,ligue_1,20,38,0,6,1,13,0,1,0,3,3,D,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
+Le Havre,Lille,0-0,/match/havre-ac/lillestrom/2003,2003,2,ligue_1,20,38,1,0,0,9,1,0,0,2,1,L,0,0,0,0,0,17,0,0,1,0,3,L,0,0,0,0,0,,
+Stade Rennais,Troyes,0-0,/match/stade-rennes/troyes/2003,2003,2,ligue_1,20,38,1,0,0,15,0,0,1,0,1,W,0,0,0,0,0,18,0,0,1,0,4,L,0,0,0,0,0,,
+Olympique,Olympique Lyonnais,1-1,/match/olympique-marsella/olympique-lyonnais/2003,2003,3,ligue_1,20,38,1,1,1,17,1,0,1,1,2,LL,0,0,1,0,2,3,1,1,0,9,4,DW,0,1,0,3,3,L,D
+Montpellier,Girondins Bordeaux,0-1,/match/montpellier-hsc/bordeaux/2003,2003,3,ligue_1,20,38,2,0,1,6,1,0,1,1,2,WW,1,0,0,1,0,9,1,1,0,3,0,LD,1,0,0,3,0,W,L
+Bastia,Monaco,1-0,/match/bastia/monaco/2003,2003,3,ligue_1,20,38,0,1,0,16,0,1,1,1,2,DW,0,1,0,1,1,11,1,0,1,4,1,LL,1,0,0,4,0,D,L
+Strasbourg,Le Havre,1-1,/match/strasbourg/havre-ac/2003,2003,3,ligue_1,20,38,1,1,1,14,0,1,1,1,5,DW,0,1,0,1,1,4,1,1,0,2,1,LD,1,0,0,2,1,D,L
+Sochaux,Nantes,4-2,/match/sochaux/nantes/2003,2003,3,ligue_1,20,38,0,4,2,13,0,2,0,1,1,DD,0,0,0,0,0,1,2,0,0,3,0,LW,1,0,0,2,0,,L
+Sedan,Lens,0-1,/match/sedan/lens/2003,2003,3,ligue_1,20,38,2,0,1,12,0,1,1,1,6,DW,0,1,0,0,0,10,0,2,0,2,2,DD,0,1,0,1,1,D,D
+PSG,Ajaccio,2-2,/match/paris-saint-germain-fc/ajaccio/2003,2003,3,ligue_1,20,38,1,2,2,2,1,1,0,1,0,WD,1,0,0,1,0,20,0,1,1,1,3,DL,0,1,0,1,1,W,D
+Lille,Nice,0-3,/match/lillestrom/nice/2003,2003,3,ligue_1,20,38,2,0,3,18,0,1,1,0,3,LD,0,0,1,0,3,5,1,0,1,5,2,LW,0,0,0,0,0,L,
+Guingamp,Stade Rennais,3-0,/match/guingamp/stade-rennes/2003,2003,3,ligue_1,20,38,0,3,0,7,1,1,0,5,3,DL,0,1,0,3,3,15,0,1,1,0,1,WD,0,0,1,0,1,D,W
+Troyes,Auxerre,1-2,/match/troyes/auxerre/2003,2003,3,ligue_1,20,38,2,1,2,19,0,1,1,0,4,LD,0,0,1,0,4,8,1,0,1,2,1,WW,0,0,1,0,1,L,W
+Lille,Troyes,0-0,/match/lillestrom/troyes/2003,2003,4,ligue_1,20,38,1,0,0,19,0,1,2,0,6,LDL,0,0,2,0,6,20,0,1,2,1,6,LDL,0,1,0,0,0,LL,D
+Nantes,Lens,2-2,/match/nantes/lens/2003,2003,4,ligue_1,20,38,1,2,2,3,2,0,1,5,4,LWW,1,0,0,1,0,11,1,2,0,3,2,DDL,1,1,0,2,1,W,DL
+Ajaccio,Sedan,1-0,/match/ajaccio/sedan/2003,2003,4,ligue_1,20,38,0,1,0,18,0,2,1,3,5,DLD,0,0,1,0,2,17,0,1,2,1,7,DWL,0,0,1,1,6,L,W
+Nice,Montpellier,2-1,/match/nice/montpellier-hsc/2003,2003,4,ligue_1,20,38,0,2,1,6,2,0,1,8,2,LWL,1,0,1,5,2,12,1,0,2,1,3,WWL,0,0,1,0,2,LW,W
+Monaco,Sochaux,1-0,/match/monaco/sochaux/2003,2003,4,ligue_1,20,38,0,1,0,15,1,0,2,4,2,LLW,0,0,1,0,1,9,1,2,0,5,3,DDW,0,2,0,1,1,L,DD
+Olympique Lyonnais,Bastia,4-1,/match/olympique-lyonnais/bastia/2003,2003,4,ligue_1,20,38,0,4,1,5,1,2,0,10,5,DWD,1,0,0,6,1,4,1,1,1,2,2,DWW,0,0,1,0,1,W,W
+Girondins Bordeaux,Strasbourg,1-2,/match/bordeaux/strasbourg/2003,2003,4,ligue_1,20,38,2,1,2,8,2,1,0,4,0,LDL,0,1,0,0,0,14,0,2,1,2,6,DWD,0,0,1,0,4,D,W
+Auxerre,Guingamp,2-1,/match/auxerre/guingamp/2003,2003,4,ligue_1,20,38,0,2,1,7,2,0,1,4,2,WWL,1,0,0,2,0,1,2,1,0,8,3,DLW,1,0,0,2,0,W,L
+Stade Rennais,Olympique,1-3,/match/stade-rennes/olympique-marsella/2003,2003,4,ligue_1,20,38,2,1,3,16,0,1,2,0,4,WDW,0,1,0,0,0,13,1,1,1,2,3,LLD,1,0,0,1,0,D,L
+Le Havre,PSG,0-1,/match/havre-ac/paris-saint-germain-fc/2003,2003,4,ligue_1,20,38,2,0,1,10,1,2,0,3,2,LDD,0,1,0,0,0,2,1,2,0,3,2,WDD,0,1,0,0,0,D,D
+Lens,Monaco,1-0,/match/lens/monaco/2003,2003,5,ligue_1,20,38,0,1,0,11,1,3,0,5,4,DDLD,0,1,0,1,1,8,2,0,2,5,2,LLWW,1,0,1,4,1,D,LW
+Bastia,Stade Rennais,3-1,/match/bastia/stade-rennes/2003,2003,5,ligue_1,20,38,0,3,1,14,1,1,2,3,6,DWWW,1,1,0,2,1,18,0,1,3,1,7,WDWL,0,0,2,0,4,DW,WW
+Troyes,Ajaccio,1-0,/match/troyes/ajaccio/2003,2003,5,ligue_1,20,38,0,1,0,20,0,2,2,1,6,LDLD,0,0,2,1,6,7,1,2,1,4,5,DLDW,0,2,0,3,3,LL,DD
+Strasbourg,Lille,2-2,/match/strasbourg/lillestrom/2003,2003,5,ligue_1,20,38,1,2,2,9,1,2,1,4,7,DWDL,0,2,0,2,2,17,0,2,2,0,6,LDLD,0,1,0,0,0,DD,D
+Sochaux,Olympique Lyonnais,2-1,/match/sochaux/olympique-lyonnais/2003,2003,5,ligue_1,20,38,0,2,1,12,1,2,1,5,4,DDWW,1,0,0,4,2,1,2,2,0,14,6,DWDW,0,2,0,4,4,W,DD
+Sedan,Nantes,1-0,/match/sedan/nantes/2003,2003,5,ligue_1,20,38,0,1,0,19,0,1,3,1,8,DWLW,0,1,1,0,1,6,2,1,1,7,6,LWWD,1,0,1,4,4,DL,LW
+PSG,Nice,1-1,/match/paris-saint-germain-fc/nice/2003,2003,5,ligue_1,20,38,1,1,1,4,2,2,0,4,2,WDDL,1,1,0,3,2,2,3,0,1,10,3,LWLW,1,0,0,3,0,WD,L
+Montpellier,Le Havre,0-0,/match/montpellier-hsc/havre-ac/2003,2003,5,ligue_1,20,38,1,0,0,16,1,0,3,2,5,WWLW,1,0,1,1,1,15,1,2,1,3,3,LDDL,1,1,0,3,2,WL,LD
+Guingamp,Girondins Bordeaux,0-0,/match/guingamp/bordeaux/2003,2003,5,ligue_1,20,38,1,0,0,5,2,1,1,9,5,DLWW,1,1,0,6,3,13,2,1,1,5,2,LDLL,2,0,0,4,0,DW,LL
+Olympique,Auxerre,0-0,/match/olympique-marsella/auxerre/2003,2003,5,ligue_1,20,38,1,0,0,10,2,1,1,5,4,LLDL,0,1,1,1,3,3,3,0,1,6,3,WWLW,1,0,1,2,2,LD,WL
+Olympique Lyonnais,Lens,1-0,/match/olympique-lyonnais/lens/2003,2003,6,ligue_1,20,38,0,1,0,4,2,2,1,15,8,DWDWW,2,0,0,10,2,7,2,3,0,6,4,DDLDW,1,2,0,4,3,WW,DLD
+Nice,Olympique,2-0,/match/nice/olympique-marsella/2003,2003,6,ligue_1,20,38,0,2,0,1,3,1,1,11,4,LWLWD,2,0,1,7,3,10,2,2,1,5,4,LLDLD,2,0,0,4,1,LWW,LL
+Stade Rennais,Sochaux,2-2,/match/stade-rennes/sochaux/2003,2003,6,ligue_1,20,38,1,2,2,20,0,1,4,2,10,WDWLW,0,1,1,1,3,6,2,2,1,7,5,DDWWW,0,2,1,1,2,DL,DDW
+Monaco,Nantes,2-1,/match/monaco/nantes/2003,2003,6,ligue_1,20,38,0,2,1,13,2,0,3,5,3,LLWWW,1,0,1,1,1,11,2,1,2,7,7,LWWDW,1,0,2,4,5,LW,LWW
+Lille,PSG,2-1,/match/lillestrom/paris-saint-germain-fc/2003,2003,6,ligue_1,20,38,0,2,1,19,0,3,2,2,8,LDLDD,0,1,2,0,6,3,2,3,0,5,3,WDDLD,1,1,0,1,0,LLD,DL
+Le Havre,Guingamp,1-2,/match/havre-ac/guingamp/2003,2003,6,ligue_1,20,38,2,1,2,15,1,3,1,3,3,LDDLD,0,1,1,0,1,8,2,2,1,9,5,DLWWD,1,0,1,3,2,DL,LW
+Girondins Bordeaux,Troyes,1-0,/match/bordeaux/troyes/2003,2003,6,ligue_1,20,38,0,1,0,12,2,2,1,5,2,LDLLD,0,1,1,1,2,18,1,2,2,2,6,LDLDW,0,2,0,0,0,DL,DD
+Auxerre,Bastia,1-0,/match/auxerre/bastia/2003,2003,6,ligue_1,20,38,0,1,0,2,3,1,1,6,3,WWLWD,2,0,0,4,1,5,2,1,2,6,7,DWWWW,0,0,2,1,5,WW,WW
+Ajaccio,Montpellier,0-0,/match/ajaccio/montpellier-hsc/2003,2003,6,ligue_1,20,38,1,0,0,14,1,2,2,4,6,DLDWW,1,0,1,1,2,16,1,1,3,2,5,WWLWD,0,0,2,1,4,LW,WW
+Strasbourg,Sedan,1-1,/match/strasbourg/sedan/2003,2003,6,ligue_1,20,38,1,1,1,9,1,3,1,6,9,DWDLD,0,3,0,4,4,17,1,1,3,2,8,DWLWW,0,0,2,1,7,DDD,WW
+Olympique,Girondins Bordeaux,2-1,/match/olympique-marsella/bordeaux/2003,2003,7,ligue_1,20,38,0,2,1,15,2,2,2,5,6,LLDLDW,0,2,1,1,3,7,3,2,1,6,2,LDLLDW,2,1,0,4,0,LDD,LLD
+Guingamp,Nice,0-0,/match/guingamp/nice/2003,2003,7,ligue_1,20,38,1,0,0,4,3,2,1,11,6,DLWWDL,1,2,0,6,3,1,4,1,1,13,4,LWLWDW,1,1,0,4,1,DWD,LD
+Troyes,Le Havre,1-1,/match/troyes/havre-ac/2003,2003,7,ligue_1,20,38,1,1,1,19,1,2,3,2,7,LDLDWW,1,0,2,2,6,18,1,3,2,4,5,LDDLDL,1,2,0,3,2,LLW,LDD
+Sochaux,Auxerre,1-1,/match/sochaux/auxerre/2003,2003,7,ligue_1,20,38,1,1,1,6,2,3,1,9,7,DDWWWD,2,0,0,6,3,2,4,1,1,7,3,WWLWDW,1,1,1,2,2,WW,WLD
+Sedan,Monaco,2-2,/match/sedan/monaco/2003,2003,7,ligue_1,20,38,1,2,2,17,1,2,3,3,9,DWLWWD,1,1,1,1,1,11,3,0,3,7,4,LLWWWW,1,0,2,4,2,DLW,LWW
+PSG,Strasbourg,3-0,/match/paris-saint-germain-fc/strasbourg/2003,2003,7,ligue_1,20,38,0,3,0,5,2,3,1,6,5,WDDLDW,1,2,0,4,3,10,1,4,1,7,10,DWDLDD,1,0,1,2,5,WDD,WL
+Nantes,Olympique Lyonnais,1-0,/match/nantes/olympique-lyonnais/2003,2003,7,ligue_1,20,38,0,1,0,14,2,1,3,8,9,LWWDWW,1,1,0,3,2,3,3,2,1,16,8,DWDWWW,0,2,1,5,6,WD,DDW
+Montpellier,Lille,1-0,/match/montpellier-hsc/lillestrom/2003,2003,7,ligue_1,20,38,0,1,0,16,1,2,3,2,5,WWLWDD,1,1,1,1,1,13,1,3,2,4,9,LDLDDW,0,2,0,2,2,WLD,DD
+Lens,Stade Rennais,1-0,/match/lens/stade-rennes/2003,2003,7,ligue_1,20,38,0,1,0,9,2,3,1,6,5,DDLDWW,1,1,0,2,1,20,0,2,4,4,12,WDWLWD,0,0,3,1,7,DW,WWW
+Bastia,Ajaccio,1-2,/match/bastia/ajaccio/2003,2003,7,ligue_1,20,38,2,1,2,8,2,1,3,6,8,DWWWWW,2,1,0,5,2,12,1,3,2,4,6,DLDWWD,0,2,1,3,4,DWW,DDW
+Olympique Lyonnais,Monaco,1-3,/match/olympique-lyonnais/monaco/2003,2003,8,ligue_1,20,38,2,1,3,4,3,2,2,16,9,DWDWWWW,3,0,0,11,2,11,3,1,3,9,6,LLWWWWD,1,1,2,6,4,WWW,LWWD
+Ajaccio,Sochaux,0-1,/match/ajaccio/sochaux/2003,2003,8,ligue_1,20,38,2,0,1,13,2,3,2,6,7,DLDWWDL,1,1,1,1,2,7,2,4,1,10,8,DDWWWDD,0,3,1,3,4,LWD,DDWD
+Strasbourg,Montpellier,3-2,/match/strasbourg/montpellier-hsc/2003,2003,8,ligue_1,20,38,0,3,2,14,1,4,2,7,13,DWDLDDW,0,4,0,5,5,10,2,2,3,3,5,WWLWDDW,0,1,2,1,4,DDDD,WWD
+Stade Rennais,Nantes,1-0,/match/stade-rennes/nantes/2003,2003,8,ligue_1,20,38,0,1,0,20,0,2,5,4,13,WDWLWDW,0,2,1,3,5,9,3,1,3,9,9,LWWDWWW,1,0,3,5,7,DLD,LWWW
+Nice,Troyes,1-0,/match/nice/troyes/2003,2003,8,ligue_1,20,38,0,1,0,1,4,2,1,13,4,LWLWDWD,3,0,1,9,3,18,1,3,3,3,8,LDLDWWD,0,2,1,0,1,LWWW,DDW
+Lille,Guingamp,2-1,/match/lillestrom/guingamp/2003,2003,8,ligue_1,20,38,0,2,1,17,1,3,3,4,10,LDLDDWW,1,1,2,2,7,5,3,3,1,11,6,DLWWDLD,2,0,1,5,3,LLDW,LWL
+Le Havre,Olympique,1-3,/match/havre-ac/olympique-marsella/2003,2003,8,ligue_1,20,38,2,1,3,19,1,4,2,5,6,LDDLDLD,0,1,2,1,3,8,3,2,2,7,7,LLDLDWW,2,0,1,4,3,DLL,LLW
+Girondins Bordeaux,Lens,1-0,/match/bordeaux/lens/2003,2003,8,ligue_1,20,38,0,1,0,12,3,2,2,7,4,LDLLDWW,1,1,1,2,2,6,3,3,1,7,5,DDLDWWW,1,2,1,4,4,DLW,DLDW
+PSG,Bastia,1-1,/match/paris-saint-germain-fc/bastia/2003,2003,8,ligue_1,20,38,1,1,1,3,3,3,1,9,5,WDDLDWW,2,2,0,7,3,15,2,1,4,7,10,DWWWWWL,0,0,3,1,6,WDDW,WWW
+Auxerre,Sedan,3-1,/match/auxerre/sedan/2003,2003,8,ligue_1,20,38,0,3,1,2,4,2,1,8,4,WWLWDWD,3,0,0,5,1,16,1,3,3,5,11,DWLWWDD,0,1,2,2,8,WWW,WWD
+Olympique,Ajaccio,3-1,/match/olympique-marsella/ajaccio/2003,2003,9,ligue_1,20,38,0,3,1,9,4,2,2,10,8,LLDLDWWL,1,2,1,3,4,16,2,3,3,6,8,DLDWWDLL,1,2,1,5,5,LDDW,DDWL
+Nantes,Auxerre,1-4,/match/nantes/auxerre/2003,2003,9,ligue_1,20,38,2,1,4,12,3,1,4,9,10,LWWDWWWW,2,1,0,4,2,2,5,2,1,11,5,WWLWDWDW,1,2,1,3,3,WDW,WLDD
+Sochaux,Nice,1-0,/match/sochaux/nice/2003,2003,9,ligue_1,20,38,0,1,0,4,3,4,1,11,8,DDWWWDDL,2,1,0,7,4,1,5,2,1,14,4,LWLWDWDW,1,2,0,4,1,WWD,LDD
+Sedan,Le Havre,4-0,/match/sedan/havre-ac/2003,2003,9,ligue_1,20,38,0,4,0,17,1,3,4,6,14,DWLWWDDW,1,2,1,3,3,20,1,4,3,6,9,LDDLDLDL,1,3,0,4,3,DLWD,LDDD
+Montpellier,PSG,1-1,/match/montpellier-hsc/paris-saint-germain-fc/2003,2003,9,ligue_1,20,38,1,1,1,14,2,2,4,5,8,WWLWDDWW,2,1,1,2,1,3,3,4,1,10,6,WDDLDWWD,1,1,1,2,2,WLDW,DLW
+Monaco,Stade Rennais,2-1,/match/monaco/stade-rennes/2003,2003,9,ligue_1,20,38,0,2,1,11,4,1,3,12,7,LLWWWWDL,2,0,1,3,2,19,1,2,5,5,13,WDWLWDWW,0,0,4,1,8,LWW,WWWW
+Lens,Lille,0-0,/match/lens/lillestrom/2003,2003,9,ligue_1,20,38,1,0,0,8,3,3,2,7,6,DDLDWWWW,2,1,0,3,1,13,2,3,3,6,11,LDLDDWWW,0,2,1,2,3,DWW,DDW
+Guingamp,Strasbourg,2-3,/match/guingamp/strasbourg/2003,2003,9,ligue_1,20,38,2,2,3,7,3,3,2,12,8,DLWWDLDW,1,3,0,6,3,10,2,4,2,10,15,DWDLDDWW,1,0,2,2,8,DWDD,WLW
+Bastia,Girondins Bordeaux,2-1,/match/bastia/bordeaux/2003,2003,9,ligue_1,20,38,0,2,1,15,2,2,4,8,11,DWWWWWLD,2,1,1,6,4,5,4,2,2,8,4,LDLLDWWW,2,1,1,5,2,DWWL,LLDW
+Troyes,Olympique Lyonnais,1-1,/match/troyes/olympique-lyonnais/2003,2003,9,ligue_1,20,38,1,1,1,18,1,3,4,3,9,LDLDWWDW,1,1,2,3,7,6,3,2,3,17,12,DWDWWWWL,0,2,2,5,7,LLWD,DDWW
+Ajaccio,Nantes,1-0,/match/ajaccio/nantes/2003,2003,10,ligue_1,20,38,0,1,0,17,2,3,4,7,11,DLDWWDLLW,1,1,2,1,3,16,3,1,5,10,14,LWWDWWWWL,1,0,4,5,8,LWDL,LWWWW
+Strasbourg,Troyes,2-1,/match/strasbourg/troyes/2003,2003,10,ligue_1,20,38,0,2,1,8,3,4,2,13,17,DWDLDDWWL,1,4,0,8,7,18,1,4,4,4,10,LDLDWWDWD,0,2,2,0,2,DDDDW,DDWW
+Stade Rennais,Olympique Lyonnais,0-1,/match/stade-rennes/olympique-lyonnais/2003,2003,10,ligue_1,20,38,2,0,1,19,1,2,6,6,15,WDWLWDWWW,1,2,1,4,5,9,3,3,3,18,13,DWDWWWWLD,0,3,2,6,8,DLDW,DDWWD
+Nice,Bastia,2-0,/match/nice/bastia/2003,2003,10,ligue_1,20,38,0,2,0,2,5,2,2,14,5,LWLWDWDWW,4,0,1,10,3,11,3,2,4,10,12,DWWWWWLDW,0,1,3,2,7,LWWWW,WWWD
+Montpellier,Lens,0-2,/match/montpellier-hsc/lens/2003,2003,10,ligue_1,20,38,2,0,2,14,2,3,4,6,9,WWLWDDWWD,2,2,1,3,2,7,3,4,2,7,6,DDLDWWWWD,1,2,2,4,5,WLDWD,DLDWW
+Lille,Olympique,3-0,/match/lillestrom/olympique-marsella/2003,2003,10,ligue_1,20,38,0,3,0,13,2,4,3,6,11,LDLDDWWWD,2,1,2,4,8,4,5,2,2,13,9,LLDLDWWLW,3,0,1,7,4,LLDWW,LLWL
+Le Havre,Sochaux,1-0,/match/havre-ac/sochaux/2003,2003,10,ligue_1,20,38,0,1,0,20,1,4,4,6,13,LDDLDLDLW,0,1,3,2,6,3,4,4,1,12,8,DDWWWDDLW,1,3,1,4,4,DLLL,DDWDL
+Girondins Bordeaux,Sedan,2-2,/match/bordeaux/sedan/2003,2003,10,ligue_1,20,38,1,2,2,10,4,2,3,9,6,LDLLDWWWW,2,1,1,3,2,15,2,3,4,10,14,DWLWWDDWW,0,1,3,3,11,DLWW,WWDW
+Auxerre,Monaco,1-1,/match/auxerre/monaco/2003,2003,10,ligue_1,20,38,1,1,1,1,6,2,1,15,6,WWLWDWDWL,4,0,0,8,2,6,5,1,3,14,8,LLWWWWDLW,2,1,2,9,5,WWWW,LWWDL
+PSG,Guingamp,5-0,/match/paris-saint-germain-fc/guingamp/2003,2003,10,ligue_1,20,38,0,5,0,5,3,5,1,11,7,WDDLDWWDD,2,3,0,8,4,12,3,3,3,14,11,DLWWDLDWL,2,0,2,6,5,WDDWD,LWLW
+Olympique Lyonnais,Auxerre,3-0,/match/olympique-lyonnais/auxerre/2003,2003,11,ligue_1,20,38,0,3,0,10,4,3,3,19,13,DWDWWWWLDL,3,0,1,12,5,1,6,3,1,16,7,WWLWDWDWLD,2,2,1,7,4,WWWL,WLDDL
+Bastia,Le Havre,3-1,/match/bastia/havre-ac/2003,2003,11,ligue_1,20,38,0,3,1,12,3,2,5,10,14,DWWWWWLDWW,3,1,1,8,5,18,2,4,4,7,13,LDDLDLDLWW,1,3,1,4,7,DWWLW,LDDDW
+Troyes,PSG,1-2,/match/troyes/paris-saint-germain-fc/2003,2003,11,ligue_1,20,38,2,1,2,19,1,4,5,5,12,LDLDWWDWDW,1,2,2,4,8,3,4,5,1,16,7,WDDLDWWDDW,1,2,1,3,3,LLWDD,DLWD
+Sochaux,Girondins Bordeaux,2-0,/match/sochaux/bordeaux/2003,2003,11,ligue_1,20,38,0,2,0,5,4,4,2,12,9,DDWWWDDLWW,3,1,0,8,4,11,4,3,3,11,8,LDLLDWWWWD,2,1,2,6,4,WWDW,LLDWW
+Sedan,Stade Rennais,1-3,/match/sedan/stade-rennes/2003,2003,11,ligue_1,20,38,2,1,3,14,2,4,4,12,16,DWLWWDDWWD,2,2,1,7,3,20,1,2,7,6,16,WDWLWDWWWL,0,0,5,2,10,DLWDW,WWWWW
+Nantes,Nice,0-0,/match/nantes/nice/2003,2003,11,ligue_1,20,38,1,0,0,17,3,1,6,10,15,LWWDWWWWLW,2,1,1,5,6,2,6,2,2,16,5,LWLWDWDWWW,1,2,1,4,2,WDWL,LDDW
+Monaco,Lille,1-1,/match/monaco/lillestrom/2003,2003,11,ligue_1,20,38,1,1,1,7,5,2,3,15,9,LLWWWWDLWD,3,0,1,5,3,9,3,4,3,9,11,LDLDDWWWDW,0,3,1,2,3,LWWW,DDWD
+Lens,Ajaccio,1-1,/match/lens/ajaccio/2003,2003,11,ligue_1,20,38,1,1,1,8,4,4,2,9,6,DDLDWWWWDL,2,2,0,3,1,15,3,3,4,8,11,DLDWWDLLWW,1,2,2,6,8,DWWD,DDWLW
+Guingamp,Montpellier,3-1,/match/guingamp/montpellier-hsc/2003,2003,11,ligue_1,20,38,0,3,1,13,3,3,4,14,16,DLWWDLDWLW,1,3,1,8,6,16,2,3,5,6,11,WWLWDDWWDL,0,1,3,3,7,DWDDL,WWDW
+Olympique,Strasbourg,1-0,/match/olympique-marsella/strasbourg/2003,2003,11,ligue_1,20,38,0,1,0,6,5,2,3,13,12,LLDLDWWLWW,2,2,1,6,5,4,4,4,2,15,18,DWDLDDWWLW,2,0,2,5,10,LDDWW,WLWL
+Girondins Bordeaux,Monaco,2-2,/match/bordeaux/monaco/2003,2003,12,ligue_1,20,38,1,2,2,13,4,3,4,11,10,LDLLDWWWWDW,2,2,1,5,4,8,5,3,3,16,10,LLWWWWDLWDD,2,2,2,10,6,DLWWD,LWWDLD
+PSG,Olympique,3-0,/match/paris-saint-germain-fc/olympique-marsella/2003,2003,12,ligue_1,20,38,0,3,0,3,5,5,1,18,8,WDDLDWWDDWL,3,3,0,13,4,5,6,2,3,14,12,LLDLDWWLWWW,3,0,2,7,7,WDDWDW,LLWLW
+Nice,Lens,0-0,/match/nice/lens/2003,2003,12,ligue_1,20,38,1,0,0,1,6,3,2,16,5,LWLWDWDWWWD,5,0,1,12,3,9,4,5,2,10,7,DDLDWWWWDLD,2,2,2,6,5,LWWWWW,DLDWWL
+Montpellier,Troyes,2-2,/match/montpellier-hsc/troyes/2003,2003,12,ligue_1,20,38,1,2,2,17,2,3,6,7,14,WWLWDDWWDLW,2,2,2,3,4,19,1,4,6,6,14,LDLDWWDWDWL,0,2,3,1,4,WLDWDL,DDWWW
+Lille,Sochaux,1-0,/match/lillestrom/sochaux/2003,2003,12,ligue_1,20,38,0,1,0,12,3,5,3,10,12,LDLDDWWWDWD,3,1,2,7,8,4,5,4,2,14,9,DDWWWDDLWWW,1,3,2,4,5,LLDWWW,DDWDLW
+Le Havre,Nantes,1-1,/match/havre-ac/nantes/2003,2003,12,ligue_1,20,38,1,1,1,18,2,4,5,8,16,LDDLDLDLWWW,1,1,3,3,6,16,3,2,6,10,15,LWWDWWWWLWD,1,0,5,5,9,DLLLW,LWWWWW
+Guingamp,Sedan,0-1,/match/guingamp/sedan/2003,2003,12,ligue_1,20,38,2,0,1,11,4,3,4,17,17,DLWWDLDWLWW,2,3,1,11,7,15,2,4,5,13,19,DWLWWDDWWDL,0,2,3,5,13,DWDDLW,WWDWD
+Auxerre,Stade Rennais,1-0,/match/auxerre/stade-rennes/2003,2003,12,ligue_1,20,38,0,1,0,2,6,3,2,16,10,WWLWDWDWLDW,4,1,0,9,3,20,2,2,7,9,17,WDWLWDWWWLL,1,0,5,5,11,WWWWD,WWWWWL
+Ajaccio,Olympique Lyonnais,0-1,/match/ajaccio/olympique-lyonnais/2003,2003,12,ligue_1,20,38,2,0,1,14,3,4,4,9,12,DLDWWDLLWWD,2,1,2,2,3,6,5,3,3,22,13,DWDWWWWLDLW,1,3,2,7,8,LWDLW,DDWWDL
+Strasbourg,Bastia,2-0,/match/strasbourg/bastia/2003,2003,12,ligue_1,20,38,0,2,0,7,4,4,3,15,19,DWDLDDWWLWW,2,4,0,10,8,10,4,2,5,13,15,DWWWWWLDWWW,0,1,4,2,9,DDDDWW,WWWDW
+Olympique Lyonnais,Nice,2-2,/match/olympique-lyonnais/nice/2003,2003,13,ligue_1,20,38,1,2,2,6,6,3,3,23,13,DWDWWWWLDLWL,4,0,1,15,5,3,6,4,2,16,5,LWLWDWDWWWDD,1,3,1,4,2,WWWLW,LDDWD
+Bastia,Lille,1-0,/match/bastia/lillestrom/2003,2003,13,ligue_1,20,38,0,1,0,12,4,2,6,13,17,DWWWWWLDWWWW,4,1,1,11,6,8,4,5,3,11,12,LDLDDWWWDWDW,0,4,1,3,4,DWWLWW,DDWDD
+Troyes,Guingamp,0-2,/match/troyes/guingamp/2003,2003,13,ligue_1,20,38,2,0,2,19,1,5,6,8,16,LDLDWWDWDWLD,1,2,3,5,10,13,4,3,5,17,18,DLWWDLDWLWWL,2,0,3,6,10,LLWDDL,LWLWW
+Sochaux,Strasbourg,2-0,/match/sochaux/strasbourg/2003,2003,13,ligue_1,20,38,0,2,0,5,5,4,3,14,10,DDWWWDDLWWWW,4,1,0,10,4,4,5,4,3,17,19,DWDLDDWWLWWW,2,0,3,5,11,WWDWW,WLWLW
+Stade Rennais,Ajaccio,0-0,/match/stade-rennes/ajaccio/2003,2003,13,ligue_1,20,38,1,0,0,20,2,2,8,9,18,WDWLWDWWWLLW,1,2,2,4,6,15,3,4,5,9,13,DLDWWDLLWWDL,1,3,2,7,9,DLDWL,DDWLWD
+Monaco,Le Havre,1-1,/match/monaco/havre-ac/2003,2003,13,ligue_1,20,38,1,1,1,9,5,4,3,18,12,LLWWWWDLWDDD,3,1,1,6,4,18,2,5,5,9,17,LDDLDLDLWWWD,1,3,2,5,10,LWWWD,LDDDWW
+Olympique,Montpellier,2-0,/match/olympique-marsella/montpellier-hsc/2003,2003,13,ligue_1,20,38,0,2,0,7,6,2,4,14,15,LLDLDWWLWWWW,3,2,1,7,5,17,2,4,6,9,16,WWLWDDWWDLWD,0,1,4,4,10,LDDWWW,WWDWW
+Lens,Auxerre,3-1,/match/lens/auxerre/2003,2003,13,ligue_1,20,38,0,3,1,10,4,6,2,10,7,DDLDWWWWDLDD,2,3,0,4,2,2,7,3,2,17,10,WWLWDWDWLDWW,2,2,2,7,7,DWWDD,WLDDLW
+Sedan,PSG,3-1,/match/sedan/paris-saint-germain-fc/2003,2003,13,ligue_1,20,38,0,3,1,14,3,4,5,14,19,DWLWWDDWWDLL,2,2,2,8,6,1,6,5,1,21,8,WDDLDWWDDWLW,2,2,1,5,4,DLWDWL,DLWDL
+Nantes,Girondins Bordeaux,0-0,/match/nantes/bordeaux/2003,2003,13,ligue_1,20,38,1,0,0,16,3,3,6,11,16,LWWDWWWWLWDD,2,2,1,5,6,11,4,4,4,13,12,LDLLDWWWWDWD,2,1,3,6,6,WDWLD,LLDWWW
+Ajaccio,Auxerre,1-0,/match/ajaccio/auxerre/2003,2003,14,ligue_1,20,38,0,1,0,16,3,5,5,9,13,DLDWWDLLWWDLD,2,1,3,2,4,3,7,3,3,18,13,WWLWDWDWLDWWW,2,2,3,8,10,LWDLWL,WLDDLWW
+Le Havre,Olympique Lyonnais,1-2,/match/havre-ac/olympique-lyonnais/2003,2003,14,ligue_1,20,38,2,1,2,18,2,6,5,10,18,LDDLDLDLWWWDD,1,2,3,4,7,6,6,4,3,25,15,DWDWWWWLDLWLD,2,3,2,8,8,DLLLWD,DDWWDLL
+Nice,Monaco,1-0,/match/nice/monaco/2003,2003,14,ligue_1,20,38,0,1,0,2,6,5,2,18,7,LWLWDWDWWWDDD,5,1,1,12,3,9,5,5,3,19,13,LLWWWWDLWDDDD,2,3,2,12,8,LWWWWWD,LWWDLDD
+Girondins Bordeaux,Stade Rennais,2-0,/match/bordeaux/stade-rennes/2003,2003,14,ligue_1,20,38,0,2,0,13,4,5,4,13,12,LDLLDWWWWDWDD,2,3,1,7,6,19,2,3,8,9,18,WDWLWDWWWLLWD,1,0,6,5,12,DLWWDD,WWWWWLW
+Strasbourg,Lens,2-0,/match/strasbourg/lens/2003,2003,14,ligue_1,20,38,0,2,0,8,5,4,4,17,21,DWDLDDWWLWWWW,3,4,0,12,8,7,5,6,2,13,8,DDLDWWWWDLDDW,2,3,2,6,5,DDDDWWW,DLDWWLD
+PSG,Sochaux,1-1,/match/paris-saint-germain-fc/sochaux/2003,2003,14,ligue_1,20,38,1,1,1,1,6,5,2,22,11,WDDLDWWDDWLWW,4,3,0,16,4,4,6,4,3,16,10,DDWWWDDLWWWWW,1,3,3,4,6,WDDWDWW,DDWDLWW
+Montpellier,Sedan,2-0,/match/montpellier-hsc/sedan/2003,2003,14,ligue_1,20,38,0,2,0,17,2,4,7,9,18,WWLWDDWWDLWDW,2,3,2,5,6,12,4,4,5,17,20,DWLWWDDWWDLLW,1,2,3,6,13,WLDWDLD,WWDWDL
+Lille,Nantes,0-1,/match/lillestrom/nantes/2003,2003,14,ligue_1,20,38,2,0,1,11,4,5,4,11,13,LDLDDWWWDWDWW,4,1,2,8,8,15,3,4,6,11,16,LWWDWWWWLWDDD,1,1,5,6,10,LLDWWWW,LWWWWWD
+Guingamp,Olympique,0-0,/match/guingamp/olympique-marsella/2003,2003,14,ligue_1,20,38,1,0,0,14,5,3,5,19,18,DLWWDLDWLWWLL,2,3,2,11,8,5,7,2,4,16,15,LLDLDWWLWWWWW,3,0,3,7,10,DWDDLWL,LLWLWW
+Troyes,Bastia,3-0,/match/troyes/bastia/2003,2003,14,ligue_1,20,38,0,3,0,20,1,5,7,8,18,LDLDWWDWDWLDL,1,2,4,5,12,10,5,2,6,14,17,DWWWWWLDWWWWW,0,1,5,2,11,LLWDDLL,WWWDWW
+Monaco,Ajaccio,3-2,/match/monaco/ajaccio/2003,2003,15,ligue_1,20,38,0,3,2,10,5,5,4,19,14,LLWWWWDLWDDDDW,3,2,1,7,5,15,4,5,5,10,13,DLDWWDLLWWDLDW,1,4,2,7,9,LWWWDD,DDWLWDD
+Auxerre,Nice,0-2,/match/auxerre/nice/2003,2003,15,ligue_1,20,38,2,0,2,3,7,3,4,18,14,WWLWDWDWLDWWWW,5,1,0,10,3,1,7,5,2,19,7,LWLWDWDWWWDDDW,1,4,1,6,4,WWWWDW,LDDWDD
+Sedan,Lille,0-1,/match/sedan/lillestrom/2003,2003,15,ligue_1,20,38,2,0,1,14,4,4,6,17,22,DWLWWDDWWDLLWW,3,2,2,11,7,13,4,5,5,11,14,LDLDDWWWDWDWWL,0,4,2,3,5,DLWDWLW,DDWDDW
+Stade Rennais,Le Havre,0-0,/match/stade-rennes/havre-ac/2003,2003,15,ligue_1,20,38,1,0,0,20,2,3,9,9,20,WDWLWDWWWLLWDW,1,3,2,4,6,19,2,6,6,11,20,LDDLDLDLWWWDDL,1,4,2,6,11,DLDWLD,LDDDWWD
+Nantes,Strasbourg,4-1,/match/nantes/strasbourg/2003,2003,15,ligue_1,20,38,0,4,1,16,4,4,6,12,16,LWWDWWWWLWDDDL,2,3,1,5,6,5,6,4,4,19,21,DWDLDDWWLWWWWW,2,0,4,5,13,WDWLDD,WLWLWW
+Olympique,Troyes,0-0,/match/olympique-marsella/troyes/2003,2003,15,ligue_1,20,38,1,0,0,6,7,3,4,16,15,LLDLDWWLWWWWWD,4,2,1,9,5,18,2,5,7,11,18,LDLDWWDWDWLDLW,0,3,3,3,6,LDDWWWW,DDWWWD
+Olympique Lyonnais,Girondins Bordeaux,4-2,/match/olympique-lyonnais/bordeaux/2003,2003,15,ligue_1,20,38,0,4,2,7,7,4,3,27,16,DWDWWWWLDLWLDL,4,1,1,17,7,9,5,5,4,15,12,LDLLDWWWWDWDDW,2,2,3,6,6,WWWLWD,LLDWWWD
+Bastia,Guingamp,0-2,/match/bastia/guingamp/2003,2003,15,ligue_1,20,38,2,0,2,11,5,2,7,14,20,DWWWWWLDWWWWWW,5,1,1,12,6,12,5,4,5,19,18,DLWWDLDWLWWLLD,3,0,3,8,10,DWWLWWW,LWLWWL
+Sochaux,Montpellier,0-0,/match/sochaux/montpellier-hsc/2003,2003,15,ligue_1,20,38,1,0,0,4,6,5,3,17,11,DDWWWDDLWWWWWD,5,1,0,12,4,17,3,4,7,11,18,WWLWDDWWDLWDWW,0,1,5,4,12,WWDWWW,WWDWWW
+Lens,PSG,3-2,/match/lens/paris-saint-germain-fc/2003,2003,15,ligue_1,20,38,0,3,2,8,5,6,3,13,10,DDLDWWWWDLDDWW,3,3,0,7,3,2,6,6,2,23,12,WDDLDWWDDWLWWD,2,2,2,6,7,DWWDDW,DLWDLW
+PSG,Nantes,0-1,/match/paris-saint-germain-fc/nantes/2003,2003,16,ligue_1,20,38,2,0,1,4,6,6,3,25,15,WDDLDWWDDWLWWDW,4,4,0,17,5,13,5,4,6,16,17,LWWDWWWWLWDDDLW,2,1,5,7,10,WDDWDWWD,LWWWWWDL
+Olympique,Lens,1-0,/match/olympique-marsella/lens/2003,2003,16,ligue_1,20,38,0,1,0,5,7,4,4,16,15,LLDLDWWLWWWWWDD,4,3,1,9,5,6,6,6,3,16,12,DDLDWWWWDLDDWWW,2,3,3,6,7,LDDWWWWD,DLDWWLDW
+Guingamp,Sochaux,2-0,/match/guingamp/sochaux/2003,2003,16,ligue_1,20,38,0,2,0,11,6,4,5,21,18,DLWWDLDWLWWLLDL,2,4,2,11,8,3,6,6,3,17,11,DDWWWDDLWWWWWDD,1,4,3,5,7,DWDDLWLD,DDWDLWWD
+Le Havre,Auxerre,0-1,/match/havre-ac/auxerre/2003,2003,16,ligue_1,20,38,2,0,1,19,2,7,6,11,20,LDDLDLDLWWWDDLD,1,2,4,5,9,7,7,3,5,18,16,WWLWDWDWLDWWWWL,2,2,4,8,11,DLLLWDL,WLDDLWWW
+Lille,Olympique Lyonnais,2-1,/match/lillestrom/olympique-lyonnais/2003,2003,16,ligue_1,20,38,0,2,1,12,5,5,5,12,14,LDLDDWWWDWDWWLL,4,1,3,8,9,2,8,4,3,31,18,DWDWWWWLDLWLDLW,3,3,2,10,9,LLDWWWWL,DDWWDLLL
+Girondins Bordeaux,Ajaccio,1-0,/match/bordeaux/ajaccio/2003,2003,16,ligue_1,20,38,0,1,0,10,5,5,5,17,16,LDLLDWWWWDWDDWW,3,3,1,9,6,15,4,5,6,12,16,DLDWWDLLWWDLDWW,1,4,3,9,12,DLWWDDW,DDWLWDDW
+Montpellier,Bastia,2-2,/match/montpellier-hsc/bastia/2003,2003,16,ligue_1,20,38,1,2,2,17,3,5,7,11,18,WWLWDDWWDLWDWWD,3,3,2,7,6,14,5,2,8,14,22,DWWWWWLDWWWWWWL,0,1,6,2,14,WLDWDLDW,WWWDWWW
+Nice,Stade Rennais,0-0,/match/nice/stade-rennes/2003,2003,16,ligue_1,20,38,1,0,0,1,8,5,2,21,7,LWLWDWDWWWDDDWL,6,1,1,13,3,20,2,4,9,9,20,WDWLWDWWWLLWDWD,1,0,7,5,14,LWWWWWDW,WWWWWLWW
+Troyes,Sedan,2-0,/match/troyes/sedan/2003,2003,16,ligue_1,20,38,0,2,0,18,2,6,7,11,18,LDLDWWDWDWLDLWD,2,2,4,8,12,16,4,4,7,17,23,DWLWWDDWWDLLWWL,1,2,4,6,15,LLWDDLLW,WWDWDLW
+Strasbourg,Monaco,1-0,/match/strasbourg/monaco/2003,2003,16,ligue_1,20,38,0,1,0,8,6,4,5,20,25,DWDLDDWWLWWWWWW,4,4,0,14,8,9,6,5,4,22,16,LLWWWWDLWDDDDWW,2,3,3,12,9,DDDDWWWW,LWWDLDDW
+Monaco,PSG,3-1,/match/monaco/paris-saint-germain-fc/2003,2003,17,ligue_1,20,38,0,3,1,12,6,5,5,22,17,LLWWWWDLWDDDDWWW,4,2,1,10,7,6,6,6,4,25,16,WDDLDWWDDWLWWDWL,2,2,3,8,10,LWWWDDW,DLWDLWW
+Ajaccio,Le Havre,1-2,/match/ajaccio/havre-ac/2003,2003,17,ligue_1,20,38,2,1,2,16,4,5,7,12,17,DLDWWDLLWWDLDWWW,3,1,3,3,4,19,2,7,7,11,21,LDDLDLDLWWWDDLDL,1,5,2,6,11,LWDLWLW,LDDDWWDD
+Sochaux,Troyes,1-0,/match/sochaux/troyes/2003,2003,17,ligue_1,20,38,0,1,0,5,6,6,4,17,13,DDWWWDDLWWWWWDDW,5,2,0,12,4,18,3,6,7,13,18,LDLDWWDWDWLDLWDW,0,4,3,3,6,WWDWWWD,DDWWWDD
+Sedan,Nice,3-0,/match/sedan/nice/2003,2003,17,ligue_1,20,38,0,3,0,17,4,4,8,17,25,DWLWWDDWWDLLWWLW,3,2,3,11,8,1,8,6,2,21,7,LWLWDWDWWWDDDWLD,2,4,1,8,4,DLWDWLWL,LDDWDDL
+Stade Rennais,Lille,5-1,/match/stade-rennes/lillestrom/2003,2003,17,ligue_1,20,38,0,5,1,20,2,5,9,9,20,WDWLWDWWWLLWDWDD,1,4,2,4,6,9,6,5,5,14,15,LDLDDWWWDWDWWLLW,1,4,2,4,5,DLDWLDD,DDWDDWL
+Nantes,Montpellier,3-1,/match/nantes/montpellier-hsc/2003,2003,17,ligue_1,20,38,0,3,1,13,6,4,6,17,17,LWWDWWWWLWDDDLWL,3,3,1,9,7,15,3,6,7,13,20,WWLWDDWWDLWDWWDD,0,2,5,4,12,WDWLDDW,WWDWWWD
+Bastia,Olympique,2-0,/match/bastia/olympique-marsella/2003,2003,17,ligue_1,20,38,0,2,0,14,5,3,8,16,24,DWWWWWLDWWWWWWLD,5,1,2,12,8,2,8,4,4,17,15,LLDLDWWLWWWWWDDW,3,1,3,7,10,DWWLWWWL,LLWLWWD
+Lens,Guingamp,1-3,/match/lens/guingamp/2003,2003,17,ligue_1,20,38,2,1,3,8,6,6,4,16,13,DDLDWWWWDLDDWWWW,4,3,0,10,5,10,7,4,5,23,18,DLWWDLDWLWWLLDLW,4,0,3,10,10,DWWDDWW,LWLWWLL
+Olympique Lyonnais,Strasbourg,2-1,/match/olympique-lyonnais/strasbourg/2003,2003,17,ligue_1,20,38,0,2,1,4,8,4,4,32,20,DWDWWWWLDLWLDLWW,5,1,1,21,9,3,7,4,5,21,25,DWDLDDWWLWWWWWWW,2,0,5,6,17,WWWLWDW,WLWLWWW
+Auxerre,Girondins Bordeaux,1-0,/match/auxerre/bordeaux/2003,2003,17,ligue_1,20,38,0,1,0,7,8,3,5,19,16,WWLWDWDWLDWWWWLL,5,1,1,10,5,11,6,5,5,18,16,LDLLDWWWWDWDDWWW,2,2,4,8,10,WWWWDWL,LLDWWWDW
+Nice,Ajaccio,3-0,/match/nice/ajaccio/2003,2003,18,ligue_1,20,38,0,3,0,1,8,6,3,21,10,LWLWDWDWWWDDDWLDW,6,2,1,13,3,17,4,5,8,13,19,DLDWWDLLWWDLDWWWL,1,4,4,9,13,LWWWWWDWD,DDWLWDDWW
+PSG,Olympique Lyonnais,2-0,/match/paris-saint-germain-fc/olympique-lyonnais/2003,2003,18,ligue_1,20,38,0,2,0,8,6,6,5,26,19,WDDLDWWDDWLWWDWLW,4,4,1,17,6,2,9,4,4,34,21,DWDWWWWLDLWLDLWWW,3,3,3,11,11,WDDWDWWDL,DDWWDLLLW
+Strasbourg,Stade Rennais,1-3,/match/strasbourg/stade-rennes/2003,2003,18,ligue_1,20,38,2,1,3,6,7,4,6,22,27,DWDLDDWWLWWWWWWWW,5,4,0,15,8,19,3,5,9,14,21,WDWLWDWWWLLWDWDDW,1,1,7,5,14,DDDDWWWWW,WWWWWLWWD
+Montpellier,Monaco,1-2,/match/montpellier-hsc/monaco/2003,2003,18,ligue_1,20,38,2,1,2,16,3,6,8,14,23,WWLWDDWWDLWDWWDDW,3,4,2,9,8,7,7,5,5,25,18,LLWWWWDLWDDDDWWWW,2,3,4,12,10,WLDWDLDWD,LWWDLDDWW
+Olympique,Sochaux,1-0,/match/olympique-marsella/sochaux/2003,2003,18,ligue_1,20,38,0,1,0,5,8,4,5,17,17,LLDLDWWLWWWWWDDWW,5,3,1,10,5,3,7,6,4,18,13,DDWWWDDLWWWWWDDWW,1,4,4,5,9,LDDWWWWDW,DDWDLWWDW
+Lille,Auxerre,2-2,/match/lillestrom/auxerre/2003,2003,18,ligue_1,20,38,1,2,2,14,6,5,6,15,20,LDLDDWWWDWDWWLLWW,5,1,3,10,10,4,9,3,5,20,16,WWLWDWDWLDWWWWLLW,3,2,4,9,11,LLDWWWWLW,WLDDLWWWL
+Le Havre,Girondins Bordeaux,1-0,/match/havre-ac/bordeaux/2003,2003,18,ligue_1,20,38,0,1,0,20,3,7,7,13,22,LDDLDLDLWWWDDLDLL,1,2,5,5,10,13,6,5,6,18,17,LDLLDWWWWDWDDWWWW,2,2,5,8,11,DLLLWDLL,LLDWWWDWW
+Guingamp,Nantes,2-0,/match/guingamp/nantes/2003,2003,18,ligue_1,20,38,0,2,0,9,8,4,5,26,19,DLWWDLDWLWWLLDLWL,3,4,2,13,8,10,7,4,6,20,18,LWWDWWWWLWDDDLWLW,3,1,5,8,10,DWDDLWLDW,LWWWWWDLL
+Bastia,Sedan,0-1,/match/bastia/sedan/2003,2003,18,ligue_1,20,38,2,0,1,12,6,3,8,18,24,DWWWWWLDWWWWWWLDW,6,1,2,14,8,15,5,4,8,20,25,DWLWWDDWWDLLWWLWW,1,2,5,6,17,DWWLWWWLW,WWDWDLWW
+Troyes,Lens,0-0,/match/troyes/lens/2003,2003,18,ligue_1,20,38,1,0,0,18,3,6,8,13,19,LDLDWWDWDWLDLWDWW,3,2,4,10,12,11,6,6,5,17,16,DDLDWWWWDLDDWWWWL,2,3,4,6,8,LLWDDLLWW,DLDWWLDWW
+Sochaux,Bastia,2-0,/match/sochaux/bastia/2003,2003,19,ligue_1,20,38,0,2,0,5,7,6,5,18,14,DDWWWDDLWWWWWDDWWW,6,2,0,13,4,13,6,3,9,18,25,DWWWWWLDWWWWWWLDWL,0,2,6,4,16,WWDWWWDW,WWWDWWWD
+Sedan,Olympique,1-2,/match/sedan/olympique-marsella/2003,2003,19,ligue_1,20,38,2,1,2,15,6,4,8,21,25,DWLWWDDWWDLLWWLWWL,4,2,3,14,8,2,9,4,5,18,17,LLDLDWWLWWWWWDDWWW,3,1,4,7,12,DLWDWLWLW,LLWLWWDW
+Nantes,Troyes,2-1,/match/nantes/troyes/2003,2003,19,ligue_1,20,38,0,2,1,12,7,4,7,20,20,LWWDWWWWLWDDDLWLWW,4,3,1,12,8,17,3,7,8,13,19,LDLDWWDWDWLDLWDWWD,0,4,4,3,7,WDWLDDWW,DDWWWDDW
+Monaco,Guingamp,4-0,/match/monaco/guingamp/2003,2003,19,ligue_1,20,38,0,4,0,8,8,5,5,27,19,LLWWWWDLWDDDDWWWWL,5,2,1,13,8,7,9,4,5,28,19,DLWWDLDWLWWLLDLWLW,5,0,3,13,11,LWWWDDWW,LWLWWLLL
+Olympique Lyonnais,Montpellier,1-1,/match/olympique-lyonnais/montpellier-hsc/2003,2003,19,ligue_1,20,38,1,1,1,3,9,4,5,34,23,DWDWWWWLDLWLDLWWWW,6,1,1,23,10,16,3,6,9,15,25,WWLWDDWWDLWDWWDDWL,0,2,6,5,15,WWWLWDWW,WWDWWWDW
+Lens,Le Havre,1-0,/match/lens/havre-ac/2003,2003,19,ligue_1,20,38,0,1,0,11,6,7,5,17,16,DDLDWWWWDLDDWWWWLD,4,3,1,11,8,19,4,7,7,14,22,LDDLDLDLWWWDDLDLLW,2,5,2,8,12,DWWDDWWL,LDDDWWDDL
+Girondins Bordeaux,Nice,4-0,/match/bordeaux/nice/2003,2003,19,ligue_1,20,38,0,4,0,14,6,5,7,18,18,LDLLDWWWWDWDDWWWWW,4,3,1,10,6,1,9,6,3,24,10,LWLWDWDWWWDDDWLDWW,2,4,2,8,7,DLWWDDWW,LDDWDDLW
+Auxerre,Strasbourg,0-0,/match/auxerre/strasbourg/2003,2003,19,ligue_1,20,38,1,0,0,4,9,4,5,22,18,WWLWDWDWLDWWWWLLWD,6,1,1,11,5,9,7,4,7,23,30,DWDLDDWWLWWWWWWWWL,2,0,6,7,19,WWWWDWLW,WLWLWWWW
+Ajaccio,Lille,2-2,/match/ajaccio/lillestrom/2003,2003,19,ligue_1,20,38,1,2,2,20,4,5,9,13,22,DLDWWDLLWWDLDWWWLW,3,1,4,4,6,10,6,6,6,17,22,LDLDDWWWDWDWWLLWWD,1,4,3,5,10,LWDLWLWL,DDWDDWLW
+Stade Rennais,PSG,1-0,/match/stade-rennes/paris-saint-germain-fc/2003,2003,19,ligue_1,20,38,0,1,0,18,4,5,9,17,22,WDWLWDWWWLLWDWDDWL,2,4,2,9,7,6,7,6,5,28,19,WDDLDWWDDWLWWDWLWW,2,2,4,9,13,DLDWLDDW,DLWDLWWW
+PSG,Girondins Bordeaux,1-1,/match/paris-saint-germain-fc/bordeaux/2003,2003,20,ligue_1,20,38,1,1,1,9,7,6,6,28,20,WDDLDWWDDWLWWDWLWWW,5,4,1,19,6,12,7,5,7,22,18,LDLLDWWWWDWDDWWWWWW,2,2,6,8,12,WDDWDWWDLW,LLDWWWDWWW
+Sochaux,Lens,3-0,/match/sochaux/lens/2003,2003,20,ligue_1,20,38,0,3,0,3,8,6,5,20,14,DDWWWDDLWWWWWDDWWWW,7,2,0,15,4,7,7,7,5,18,16,DDLDWWWWDLDDWWWWLDW,2,4,4,6,8,WWDWWWDWW,DLDWWLDWWD
+Troyes,Stade Rennais,0-1,/match/troyes/stade-rennes/2003,2003,20,ligue_1,20,38,2,0,1,18,3,7,9,14,21,LDLDWWDWDWLDLWDWWDW,3,3,4,10,12,16,5,5,9,18,22,WDWLWDWWWLLWDWDDWLW,2,1,7,8,15,LLWDDLLWWD,WWWWWLWWDL
+Strasbourg,Nice,0-0,/match/strasbourg/nice/2003,2003,20,ligue_1,20,38,1,0,0,10,7,5,7,23,30,DWDLDDWWLWWWWWWWWLD,5,4,1,16,11,1,9,6,4,24,14,LWLWDWDWWWDDDWLDWWW,2,4,3,8,11,DDDDWWWWWL,LDDWDDLWW
+Sedan,Olympique Lyonnais,1-1,/match/sedan/olympique-lyonnais/2003,2003,20,ligue_1,20,38,1,1,1,15,6,4,9,22,27,DWLWWDDWWDLLWWLWWLL,4,2,4,15,10,5,9,5,5,35,24,DWDWWWWLDLWLDLWWWWD,3,3,4,11,13,DLWDWLWLWL,DDWWDLLLWW
+Olympique,Monaco,1-1,/match/olympique-marsella/monaco/2003,2003,20,ligue_1,20,38,1,1,1,2,10,4,5,20,18,LLDLDWWLWWWWWDDWWWL,6,3,1,11,5,4,9,5,5,31,19,LLWWWWDLWDDDDWWWWLW,3,3,4,14,11,LDDWWWWDWW,LWWDLDDWWL
+Lille,Le Havre,1-0,/match/lillestrom/havre-ac/2003,2003,20,ligue_1,20,38,0,1,0,13,6,7,6,19,24,LDLDDWWWDWDWWLLWWDD,5,2,3,12,12,20,4,7,8,14,23,LDDLDLDLWWWDDLDLLWW,2,5,3,8,13,LLDWWWWLWD,LDDDWWDDLW
+Guingamp,Ajaccio,3-1,/match/guingamp/ajaccio/2003,2003,20,ligue_1,20,38,0,3,1,8,9,4,6,28,23,DLWWDLDWLWWLLDLWLWW,4,4,2,15,8,19,4,6,9,15,24,DLDWWDLLWWDLDWWWLWD,1,4,5,9,16,DWDDLWLDWW,DDWLWDDWWW
+Bastia,Nantes,3-1,/match/bastia/nantes/2003,2003,20,ligue_1,20,38,0,3,1,14,6,3,10,18,27,DWWWWWLDWWWWWWLDWLW,6,1,3,14,9,11,8,4,7,22,21,LWWDWWWWLWDDDLWLWWW,3,1,6,8,12,DWWLWWWLWL,LWWWWWDLLW
+Montpellier,Auxerre,0-0,/match/montpellier-hsc/auxerre/2003,2003,20,ligue_1,20,38,1,0,0,17,3,7,9,16,26,WWLWDDWWDLWDWWDDWLD,3,4,3,10,10,6,9,5,5,22,18,WWLWDWDWLDWWWWLLWDD,3,3,4,11,13,WLDWDLDWDL,WLDDLWWWLD
+Olympique Lyonnais,Olympique,1-0,/match/olympique-lyonnais/olympique-marsella/2003,2003,21,ligue_1,20,38,0,1,0,5,9,6,5,36,25,DWDWWWWLDLWLDLWWWWDD,6,2,1,24,11,3,10,5,5,21,19,LLDLDWWLWWWWWDDWWWLD,4,1,4,9,13,WWWLWDWWD,LLWLWWDWL
+Stade Rennais,Guingamp,2-1,/match/stade-rennes/guingamp/2003,2003,21,ligue_1,20,38,0,2,1,16,6,5,9,19,22,WDWLWDWWWLLWDWDDWLWL,3,4,2,10,7,7,10,4,6,31,24,DLWWDLDWLWWLLDLWLWWW,5,0,4,13,15,DLDWLDDWW,LWLWWLLLW
+Auxerre,Troyes,1-0,/match/auxerre/troyes/2003,2003,21,ligue_1,20,38,0,1,0,6,9,6,5,22,18,WWLWDWDWLDWWWWLLWDDD,6,2,1,11,5,18,3,7,10,14,22,LDLDWWDWDWLDLWDWWDWL,0,4,5,4,9,WWWWDWLWD,DDWWWDDWW
+Girondins Bordeaux,Montpellier,3-1,/match/bordeaux/montpellier-hsc/2003,2003,21,ligue_1,20,38,0,3,1,13,7,6,7,23,19,LDLLDWWWWDWDDWWWWWWD,5,3,1,14,6,17,3,8,9,16,26,WWLWDDWWDLWDWWDDWLDD,0,3,6,6,16,DLWWDDWWW,WWDWWWDWD
+Ajaccio,PSG,0-0,/match/ajaccio/paris-saint-germain-fc/2003,2003,21,ligue_1,20,38,1,0,0,19,4,6,10,16,27,DLDWWDLLWWDLDWWWLWDW,3,2,4,6,8,8,7,7,6,29,21,WDDLDWWDDWLWWDWLWWWD,2,2,5,9,14,LWDLWLWLD,DLWDLWWWW
+Monaco,Bastia,0-0,/match/monaco/bastia/2003,2003,21,ligue_1,20,38,1,0,0,4,9,6,5,32,20,LLWWWWDLWDDDDWWWWLWD,6,2,1,17,8,14,7,3,10,21,28,DWWWWWLDWWWWWWLDWLWW,0,2,7,4,18,LWWWDDWWW,WWWDWWWDW
+Nice,Lille,2-0,/match/nice/lillestrom/2003,2003,21,ligue_1,20,38,0,2,0,2,9,7,4,24,14,LWLWDWDWWWDDDWLDWWWD,7,2,1,16,3,9,7,7,6,20,24,LDLDDWWWDWDWWLLWWDDW,1,5,3,7,12,LWWWWWDWDW,DDWDDWLWD
+Le Havre,Strasbourg,1-1,/match/havre-ac/strasbourg/2003,2003,21,ligue_1,20,38,1,1,1,20,4,7,9,14,24,LDDLDLDLWWWDDLDLLWWW,2,2,5,6,10,10,7,6,7,23,30,DWDLDDWWLWWWWWWWWLDD,2,1,6,7,19,DLLLWDLLW,WLWLWWWWD
+Lens,Sedan,4-0,/match/lens/sedan/2003,2003,21,ligue_1,20,38,0,4,0,11,7,7,6,18,19,DDLDWWWWDLDDWWWWLDWW,5,3,1,12,8,15,6,5,9,23,28,DWLWWDDWWDLLWWLWWLLD,2,2,5,7,17,DWWDDWWLW,WWDWDLWWL
+Nantes,Sochaux,0-1,/match/nantes/sochaux/2003,2003,21,ligue_1,20,38,2,0,1,12,8,4,8,23,24,LWWDWWWWLWDDDLWLWWWW,5,3,1,14,9,1,9,6,5,23,14,DDWWWDDLWWWWWDDWWWWW,1,4,5,5,10,WDWLDDWWW,DDWDLWWDWW
+Olympique,Stade Rennais,2-0,/match/olympique-marsella/stade-rennes/2003,2003,22,ligue_1,20,38,0,2,0,5,10,5,6,21,20,LLDLDWWLWWWWWDDWWWLDW,6,4,1,12,6,15,7,5,9,21,23,WDWLWDWWWLLWDWDDWLWLW,3,1,7,9,15,LDDWWWWDWWD,WWWWWLWWDLL
+Sochaux,Monaco,0-0,/match/sochaux/monaco/2003,2003,22,ligue_1,20,38,1,0,0,2,10,6,5,24,14,DDWWWDDLWWWWWDDWWWWWL,8,2,0,18,4,6,9,7,5,32,20,LLWWWWDLWDDDDWWWWLWDD,3,4,4,15,12,WWDWWWDWWW,LWWDLDDWWLD
+Sedan,Ajaccio,1-1,/match/sedan/ajaccio/2003,2003,22,ligue_1,20,38,1,1,1,16,6,5,10,23,32,DWLWWDDWWDLLWWLWWLLDW,4,3,4,16,11,18,4,7,10,16,27,DLDWWDLLWWDLDWWWLWDWD,1,4,6,10,19,DLWDWLWLWLD,DDWLWDDWWWW
+PSG,Le Havre,1-0,/match/paris-saint-germain-fc/havre-ac/2003,2003,22,ligue_1,20,38,0,1,0,9,7,8,6,29,21,WDDLDWWDDWLWWDWLWWWDD,5,5,1,20,7,19,4,8,9,15,25,LDDLDLDLWWWDDLDLLWWWD,2,5,4,8,14,WDDWDWWDLWD,LDDDWWDDLWW
+Montpellier,Nice,2-2,/match/montpellier-hsc/nice/2003,2003,22,ligue_1,20,38,1,2,2,17,3,8,10,17,29,WWLWDDWWDLWDWWDDWLDDW,3,5,3,10,10,1,10,7,4,26,14,LWLWDWDWWWDDDWLDWWWDW,2,5,3,8,11,WLDWDLDWDLD,LDDWDDLWWD
+Guingamp,Auxerre,0-2,/match/guingamp/auxerre/2003,2003,22,ligue_1,20,38,2,0,2,8,10,4,7,32,26,DLWWDLDWLWWLLDLWLWWWW,5,4,2,18,9,4,10,6,5,23,18,WWLWDWDWLDWWWWLLWDDDW,3,4,4,11,13,DWDDLWLDWWW,WLDDLWWWLDD
+Bastia,Olympique Lyonnais,2-0,/match/bastia/olympique-lyonnais/2003,2003,22,ligue_1,20,38,0,2,0,14,7,4,10,21,28,DWWWWWLDWWWWWWLDWLWWD,7,1,3,17,10,3,10,6,5,37,25,DWDWWWWLDLWLDLWWWWDDW,3,4,4,12,14,DWWLWWWLWLW,DDWWDLLLWWD
+Troyes,Lille,2-0,/match/troyes/lillestrom/2003,2003,22,ligue_1,20,38,0,2,0,20,3,7,11,14,23,LDLDWWDWDWLDLWDWWDWLW,3,3,5,10,13,12,7,7,7,20,26,LDLDDWWWDWDWWLLWWDDWW,1,5,4,7,14,LLWDDLLWWDL,DDWDDWLWDW
+Lens,Nantes,0-1,/match/lens/nantes/2003,2003,22,ligue_1,20,38,2,0,1,7,8,7,6,22,19,DDLDWWWWDLDDWWWWLDWWW,6,3,1,16,8,13,8,4,9,23,25,LWWDWWWWLWDDDLWLWWWWL,3,1,7,9,15,DWWDDWWLWW,LWWWWWDLLWW
+Strasbourg,Girondins Bordeaux,1-1,/match/strasbourg/bordeaux/2003,2003,22,ligue_1,20,38,1,1,1,11,7,7,7,24,31,DWDLDDWWLWWWWWWWWLDDD,5,5,1,16,11,10,8,6,7,26,20,LDLLDWWWWDWDDWWWWWWDW,2,3,6,9,13,DDDDWWWWWLD,LLDWWWDWWWD
+Auxerre,Olympique,0-0,/match/auxerre/olympique-marsella/2003,2003,23,ligue_1,20,38,1,0,0,4,11,6,5,25,18,WWLWDWDWLDWWWWLLWDDDWL,7,2,1,12,5,3,11,5,6,23,20,LLDLDWWLWWWWWDDWWWLDWW,4,1,5,9,14,WWWWDWLWDW,LLWLWWDWLW
+Olympique Lyonnais,Sochaux,4-1,/match/olympique-lyonnais/sochaux/2003,2003,23,ligue_1,20,38,0,4,1,5,10,6,6,37,27,DWDWWWWLDLWLDLWWWWDDWW,7,2,1,25,11,2,10,7,5,24,14,DDWWWDDLWWWWWDDWWWWWLD,2,4,5,6,10,WWWLWDWWDW,DDWDLWWDWWL
+Girondins Bordeaux,Guingamp,4-2,/match/bordeaux/guingamp/2003,2003,23,ligue_1,20,38,0,4,2,8,8,7,7,27,21,LDLLDWWWWDWDDWWWWWWDWD,6,3,1,17,7,10,10,4,8,32,28,DLWWDLDWLWWLLDLWLWWWWL,5,0,5,14,17,DLWWDDWWWW,LWLWWLLLWW
+Le Havre,Montpellier,1-0,/match/havre-ac/montpellier-hsc/2003,2003,23,ligue_1,20,38,0,1,0,20,4,8,10,15,26,LDDLDLDLWWWDDLDLLWWWDW,2,3,5,7,11,17,3,9,10,19,31,WWLWDDWWDLWDWWDDWLDDWD,0,3,7,7,19,DLLLWDLLWD,WWDWWWDWDW
+Lille,Strasbourg,0-1,/match/lillestrom/strasbourg/2003,2003,23,ligue_1,20,38,2,0,1,13,7,7,8,20,28,LDLDDWWWDWDWWLLWWDDWWW,6,2,3,13,12,9,7,8,7,25,32,DWDLDDWWLWWWWWWWWLDDDD,2,2,6,8,20,LLDWWWWLWDW,WLWLWWWWDD
+Ajaccio,Troyes,1-0,/match/ajaccio/troyes/2003,2003,23,ligue_1,20,38,0,1,0,19,4,8,10,17,28,DLDWWDLLWWDLDWWWLWDWDD,3,3,4,6,8,18,4,7,11,16,23,LDLDWWDWDWLDLWDWWDWLWW,0,4,6,4,10,LWDLWLWLDD,DDWWWDDWWW
+Monaco,Lens,1-1,/match/monaco/lens/2003,2003,23,ligue_1,20,38,1,1,1,7,9,8,5,32,20,LLWWWWDLWDDDDWWWWLWDDD,6,3,1,17,8,11,8,7,7,22,20,DDLDWWWWDLDDWWWWLDWWWL,2,4,5,6,11,LWWWDDWWWD,DLDWWLDWWDW
+Nantes,Sedan,4-1,/match/nantes/sedan/2003,2003,23,ligue_1,20,38,0,4,1,14,9,4,9,24,25,LWWDWWWWLWDDDLWLWWWWLL,5,3,2,14,10,16,6,6,10,24,33,DWLWWDDWWDLLWWLWWLLDWD,2,2,6,7,21,WDWLDDWWWL,WWDWDLWWLW
+Nice,PSG,0-0,/match/nice/paris-saint-germain-fc/2003,2003,23,ligue_1,20,38,1,0,0,1,10,8,4,28,16,LWLWDWDWWWDDDWLDWWWDWD,8,2,1,18,3,6,8,8,6,30,21,WDDLDWWDDWLWWDWLWWWDDW,2,3,5,9,14,LWWWWWDWDWW,DLWDLWWWWD
+Stade Rennais,Bastia,0-1,/match/stade-rennes/bastia/2003,2003,23,ligue_1,20,38,2,0,1,15,7,5,10,21,25,WDWLWDWWWLLWDWDDWLWLWW,4,4,2,12,8,12,8,4,10,23,28,DWWWWWLDWWWWWWLDWLWWDW,0,3,7,4,18,DLDWLDDWWW,WWWDWWWDWD
+Olympique,Nice,2-0,/match/olympique-marsella/nice/2003,2003,24,ligue_1,20,38,0,2,0,2,11,6,6,23,20,LLDLDWWLWWWWWDDWWWLDWWD,7,4,1,14,6,1,10,9,4,28,16,LWLWDWDWWWDDDWLDWWWDWDD,2,6,3,10,13,LDDWWWWDWWDW,LDDWDDLWWDD
+Nantes,Monaco,0-2,/match/nantes/monaco/2003,2003,24,ligue_1,20,38,2,0,2,11,10,4,9,28,26,LWWDWWWWLWDDDLWLWWWWLLW,6,3,2,18,11,6,9,9,5,33,21,LLWWWWDLWDDDDWWWWLWDDDD,3,5,4,15,12,WDWLDDWWWLW,LWWDLDDWWLDD
+Guingamp,Le Havre,1-2,/match/guingamp/havre-ac/2003,2003,24,ligue_1,20,38,2,1,2,13,10,4,9,34,32,DLWWDLDWLWWLLDLWLWWWWLW,5,4,3,18,11,19,5,8,10,16,26,LDDLDLDLWWWDDLDLLWWWDWW,2,5,5,8,15,DWDDLWLDWWWL,LDDDWWDDLWWW
+Lens,Olympique Lyonnais,2-2,/match/lens/olympique-lyonnais/2003,2003,24,ligue_1,20,38,1,2,2,12,8,8,7,23,21,DDLDWWWWDLDDWWWWLDWWWLD,6,3,2,16,9,4,11,6,6,41,28,DWDWWWWLDLWLDLWWWWDDWWW,3,4,5,12,16,DWWDDWWLWWL,DDWWDLLLWWDW
+Montpellier,Ajaccio,0-1,/match/montpellier-hsc/ajaccio/2003,2003,24,ligue_1,20,38,2,0,1,18,3,9,11,19,32,WWLWDDWWDLWDWWDDWLDDWDW,3,6,3,12,12,17,5,8,10,18,28,DLDWWDLLWWDLDWWWLWDWDDW,1,5,6,11,20,WLDWDLDWDLDD,DDWLWDDWWWWD
+Bastia,Auxerre,2-0,/match/bastia/auxerre/2003,2003,24,ligue_1,20,38,0,2,0,10,9,4,10,24,28,DWWWWWLDWWWWWWLDWLWWDWL,8,1,3,19,10,3,11,7,5,25,18,WWLWDWDWLDWWWWLLWDDDWLD,4,4,4,13,13,DWWLWWWLWLWW,WLDDLWWWLDDL
+PSG,Lille,1-0,/match/paris-saint-germain-fc/lillestrom/2003,2003,24,ligue_1,20,38,0,1,0,7,8,9,6,30,21,WDDLDWWDDWLWWDWLWWWDDWD,6,5,1,21,7,14,7,7,9,20,29,LDLDDWWWDWDWWLLWWDDWWWL,1,5,5,7,16,WDDWDWWDLWDW,DDWDDWLWDWW
+Sedan,Strasbourg,2-1,/match/sedan/strasbourg/2003,2003,24,ligue_1,20,38,0,2,1,16,6,6,11,25,37,DWLWWDDWWDLLWWLWWLLDWDW,4,4,4,17,12,9,8,8,7,26,32,DWDLDDWWLWWWWWWWWLDDDDL,3,2,6,9,20,DLWDWLWLWLDD,WLWLWWWWDDL
+Sochaux,Stade Rennais,1-0,/match/sochaux/stade-rennes/2003,2003,24,ligue_1,20,38,0,1,0,5,10,7,6,25,18,DDWWWDDLWWWWWDDWWWWWLDW,8,3,0,18,4,15,7,5,11,21,26,WDWLWDWWWLLWDWDDWLWLWWL,3,1,8,9,17,WWDWWWDWWWD,WWWWWLWWDLLW
+Troyes,Girondins Bordeaux,0-1,/match/troyes/bordeaux/2003,2003,24,ligue_1,20,38,2,0,1,20,4,7,12,16,24,LDLDWWDWDWLDLWDWWDWLWWW,4,3,5,12,13,8,9,7,7,31,23,LDLLDWWWWDWDDWWWWWWDWDW,2,4,6,10,14,LLWDDLLWWDLW,LLDWWWDWWWDD
+Auxerre,Sochaux,2-0,/match/auxerre/sochaux/2003,2003,25,ligue_1,20,38,0,2,0,5,11,7,6,25,20,WWLWDWDWLDWWWWLLWDDDWLDW,7,3,1,12,5,1,11,7,6,26,18,DDWWWDDLWWWWWDDWWWWWLDWW,2,4,6,7,14,WWWWDWLWDWD,DDWDLWWDWWLW
+Ajaccio,Bastia,1-1,/match/ajaccio/bastia/2003,2003,25,ligue_1,20,38,1,1,1,17,6,8,10,19,28,DLDWWDLLWWDLDWWWLWDWDDWL,4,3,4,7,8,9,10,4,10,26,28,DWWWWWLDWWWWWWLDWLWWDWLW,1,3,7,5,18,LWDLWLWLDDW,WWWDWWWDWDL
+Strasbourg,PSG,0-1,/match/strasbourg/paris-saint-germain-fc/2003,2003,25,ligue_1,20,38,2,0,1,11,8,8,8,27,34,DWDLDDWWLWWWWWWWWLDDDDLW,5,6,1,17,12,6,9,9,6,31,21,WDDLDWWDDWLWWDWLWWWDDWDW,2,4,5,9,14,DDDDWWWWWLDD,DLWDLWWWWDD
+Stade Rennais,Lens,1-1,/match/stade-rennes/lens/2003,2003,25,ligue_1,20,38,1,1,1,16,7,5,12,21,27,WDWLWDWWWLLWDWDDWLWLWWLW,4,4,3,12,9,10,8,9,7,25,23,DDLDWWWWDLDDWWWWLDWWWLDD,2,5,5,7,12,DLDWLDDWWWL,DLDWWLDWWDWD
+Nice,Guingamp,1-0,/match/nice/guingamp/2003,2003,25,ligue_1,20,38,0,1,0,3,10,9,5,28,18,LWLWDWDWWWDDDWLDWWWDWDDW,8,3,1,18,3,13,10,4,10,35,34,DLWWDLDWLWWLLDLWLWWWWLWL,5,0,6,16,21,LWWWWWDWDWWD,LWLWWLLLWWW
+Monaco,Sedan,3-0,/match/monaco/sedan/2003,2003,25,ligue_1,20,38,0,3,0,7,10,9,5,35,21,LLWWWWDLWDDDDWWWWLWDDDDL,6,4,1,18,9,15,7,6,11,27,38,DWLWWDDWWDLLWWLWWLLDWDWW,2,2,7,8,25,LWWWDDWWWDD,WWDWDLWWLWW
+Olympique Lyonnais,Nantes,0-0,/match/olympique-lyonnais/nantes/2003,2003,25,ligue_1,20,38,1,0,0,4,11,7,6,43,30,DWDWWWWLDLWLDLWWWWDDWWWD,8,2,1,29,12,12,10,4,10,28,28,LWWDWWWWLWDDDLWLWWWWLLWL,4,1,7,10,15,WWWLWDWWDWW,LWWWWWDLLWWL
+Le Havre,Troyes,1-0,/match/havre-ac/troyes/2003,2003,25,ligue_1,20,38,0,1,0,18,6,8,10,18,27,LDDLDLDLWWWDDLDLLWWWDWWL,3,3,5,8,11,20,4,7,13,16,25,LDLDWWDWDWLDLWDWWDWLWWWL,0,4,7,4,11,DLLLWDLLWDW,DDWWWDDWWWW
+Girondins Bordeaux,Olympique,3-1,/match/bordeaux/olympique-marsella/2003,2003,25,ligue_1,20,38,0,3,1,8,10,7,7,32,23,LDLLDWWWWDWDDWWWWWWDWDWL,7,3,1,21,9,2,12,6,6,25,20,LLDLDWWLWWWWWDDWWWLDWWDW,4,2,5,9,14,DLWWDDWWWWW,LLWLWWDWLWD
+Lille,Montpellier,2-0,/match/lillestrom/montpellier-hsc/2003,2003,25,ligue_1,20,38,0,2,0,14,7,7,10,20,30,LDLDDWWWDWDWWLLWWDDWWWLW,6,2,4,13,13,19,3,9,12,19,33,WWLWDDWWDLWDWWDDWLDDWDWL,0,3,8,7,20,LLDWWWWLWDWL,WWDWWWDWDWW
+Monaco,Olympique Lyonnais,2-0,/match/monaco/olympique-lyonnais/2003,2003,26,ligue_1,20,38,0,2,0,6,11,9,5,38,21,LLWWWWDLWDDDDWWWWLWDDDDLW,7,4,1,21,9,5,11,8,6,43,30,DWDWWWWLDLWLDLWWWWDDWWWDD,3,5,5,14,18,LWWWDDWWWDDW,DDWWDLLLWWDWD
+Sedan,Auxerre,1-2,/match/sedan/auxerre/2003,2003,26,ligue_1,20,38,2,1,2,15,7,6,12,27,41,DWLWWDDWWDLLWWLWWLLDWDWWW,5,4,4,19,13,3,12,7,6,27,20,WWLWDWDWLDWWWWLLWDDDWLDWW,4,4,5,13,15,DLWDWLWLWLDDW,WLDDLWWWLDDLW
+Troyes,Nice,1-0,/match/troyes/nice/2003,2003,26,ligue_1,20,38,0,1,0,20,4,7,14,16,26,LDLDWWDWDWLDLWDWWDWLWWWLW,4,3,6,12,14,1,11,9,5,29,18,LWLWDWDWWWDDDWLDWWWDWDDWW,2,6,4,10,15,LLWDDLLWWDLWL,LDDWDDLWWDDW
+Nantes,Stade Rennais,1-0,/match/nantes/stade-rennes/2003,2003,26,ligue_1,20,38,0,1,0,11,10,5,10,28,28,LWWDWWWWLWDDDLWLWWWWLLWLD,6,3,3,18,13,16,7,6,12,22,28,WDWLWDWWWLLWDWDDWLWLWWLWD,3,1,9,9,18,WDWLDDWWWLWL,WWWWWLWWDLLWW
+Montpellier,Strasbourg,2-1,/match/montpellier-hsc/strasbourg/2003,2003,26,ligue_1,20,38,0,2,1,19,3,9,13,19,35,WWLWDDWWDLWDWWDDWLDDWDWLW,3,6,4,12,13,12,8,8,9,27,35,DWDLDDWWLWWWWWWWWLDDDDLWL,3,2,7,10,22,WLDWDLDWDLDDL,WLWLWWWWDDLW
+Olympique,Le Havre,2-0,/match/olympique-marsella/havre-ac/2003,2003,26,ligue_1,20,38,0,2,0,4,12,6,7,26,23,LLDLDWWLWWWWWDDWWWLDWWDWW,8,4,1,16,6,18,7,8,10,19,27,LDDLDLDLWWWDDLDLLWWWDWWLW,3,5,5,10,16,LDDWWWWDWWDWW,LDDDWWDDLWWWL
+Lens,Girondins Bordeaux,3-3,/match/lens/bordeaux/2003,2003,26,ligue_1,20,38,1,3,3,10,8,10,7,26,24,DDLDWWWWDLDDWWWWLDWWWLDDD,6,4,2,18,11,8,11,7,7,35,24,LDLLDWWWWDWDDWWWWWWDWDWLW,3,4,6,11,14,DWWDDWWLWWLD,LLDWWWDWWWDDL
+Bastia,PSG,1-0,/match/bastia/paris-saint-germain-fc/2003,2003,26,ligue_1,20,38,0,1,0,9,10,5,10,27,29,DWWWWWLDWWWWWWLDWLWWDWLWD,9,1,3,21,10,7,10,9,6,32,21,WDDLDWWDDWLWWDWLWWWDDWDWL,3,4,5,10,14,DWWLWWWLWLWWW,DLWDLWWWWDDL
+Sochaux,Ajaccio,1-1,/match/sochaux/ajaccio/2003,2003,26,ligue_1,20,38,1,1,1,2,11,7,7,26,20,DDWWWDDLWWWWWDDWWWWWLDWWW,9,3,0,19,4,17,6,9,10,20,29,DLDWWDLLWWDLDWWWLWDWDDWLD,2,5,6,12,20,WWDWWWDWWWDW,DDWLWDDWWWWDL
+Guingamp,Lille,1-0,/match/guingamp/lillestrom/2003,2003,26,ligue_1,20,38,0,1,0,14,10,4,11,35,35,DLWWDLDWLWWLLDLWLWWWWLWLW,5,4,4,19,13,13,8,7,10,22,30,LDLDDWWWDWDWWLLWWDDWWWLWW,1,5,6,7,17,DWDDLWLDWWWLL,DDWDDWLWDWWW
+Ajaccio,Olympique,0-2,/match/ajaccio/olympique-marsella/2003,2003,27,ligue_1,20,38,2,0,2,16,6,10,10,21,30,DLDWWDLLWWDLDWWWLWDWDDWLDD,4,4,4,8,9,1,13,6,7,28,23,LLDLDWWLWWWWWDDWWWLDWWDWWW,4,2,6,10,17,LWDLWLWLDDWD,LLWLWWDWLWDW
+Strasbourg,Guingamp,3-1,/match/strasbourg/guingamp/2003,2003,27,ligue_1,20,38,0,3,1,13,8,8,10,28,37,DWDLDDWWLWWWWWWWWLDDDDLWLW,5,6,2,17,13,12,11,4,11,36,35,DLWWDLDWLWWLLDLWLWWWWLWLWW,5,0,7,16,22,DDDDWWWWWLDDL,LWLWWLLLWWWW
+Stade Rennais,Monaco,0-0,/match/stade-rennes/monaco/2003,2003,27,ligue_1,20,38,1,0,0,17,7,6,13,22,29,WDWLWDWWWLLWDWDDWLWLWWLWDW,4,5,3,13,10,2,12,9,5,40,21,LLWWWWDLWDDDDWWWWLWDDDDLWW,4,5,4,17,12,DLDWLDDWWWLD,LWWDLDDWWLDDL
+PSG,Montpellier,1-3,/match/paris-saint-germain-fc/montpellier-hsc/2003,2003,27,ligue_1,20,38,2,1,3,8,10,9,7,32,22,WDDLDWWDDWLWWDWLWWWDDWDWLW,7,5,1,22,7,19,4,9,13,21,36,WWLWDDWWDLWDWWDDWLDDWDWLWW,0,3,9,7,22,WDDWDWWDLWDWW,WWDWWWDWDWWW
+Nice,Sochaux,2-2,/match/nice/sochaux/2003,2003,27,ligue_1,20,38,1,2,2,3,11,9,6,29,19,LWLWDWDWWWDDDWLDWWWDWDDWWW,9,3,1,19,3,4,11,8,7,27,21,DDWWWDDLWWWWWDDWWWWWLDWWWD,2,4,7,7,16,LWWWWWDWDWWDW,DDWDLWWDWWLWW
+Olympique Lyonnais,Troyes,0-0,/match/olympique-lyonnais/troyes/2003,2003,27,ligue_1,20,38,1,0,0,6,11,8,7,43,32,DWDWWWWLDLWLDLWWWWDDWWWDDW,8,3,1,29,12,20,5,7,14,17,26,LDLDWWDWDWLDLWDWWDWLWWWLWW,0,4,8,4,12,WWWLWDWWDWWD,DDWWWDDWWWWW
+Lille,Lens,0-2,/match/lillestrom/lens/2003,2003,27,ligue_1,20,38,2,0,2,14,8,7,11,22,31,LDLDDWWWDWDWWLLWWDDWWWLWWW,7,2,4,15,13,11,8,11,7,29,27,DDLDWWWWDLDDWWWWLDWWWLDDDD,2,6,5,8,13,LLDWWWWLWDWLW,DLDWWLDWWDWDD
+Le Havre,Sedan,2-1,/match/havre-ac/sedan/2003,2003,27,ligue_1,20,38,0,2,1,18,7,8,11,19,29,LDDLDLDLWWWDDLDLLWWWDWWLWW,4,3,5,9,11,15,7,6,13,28,43,DWLWWDDWWDLLWWLWWLLDWDWWWL,2,2,8,8,28,DLLLWDLLWDWW,WWDWDLWWLWWW
+Girondins Bordeaux,Bastia,0-2,/match/bordeaux/bastia/2003,2003,27,ligue_1,20,38,2,0,2,7,11,8,7,38,27,LDLLDWWWWDWDDWWWWWWDWDWLWD,8,3,1,24,10,9,11,5,10,28,29,DWWWWWLDWWWWWWLDWLWWDWLWDW,1,4,7,6,19,DLWWDDWWWWWW,WWWDWWWDWDLD
+Auxerre,Nantes,0-1,/match/auxerre/nantes/2003,2003,27,ligue_1,20,38,2,0,1,5,13,7,6,29,21,WWLWDWDWLDWWWWLLWDDDWLDWWL,8,3,1,14,5,10,11,5,10,29,28,LWWDWWWWLWDDDLWLWWWWLLWLDW,4,2,7,10,15,WWWWDWLWDWDW,LWWWWWDLLWWLD
+Guingamp,PSG,3-2,/match/guingamp/paris-saint-germain-fc/2003,2003,28,ligue_1,20,38,0,3,2,13,11,4,12,37,38,DLWWDLDWLWWLLDLWLWWWWLWLWWW,6,4,4,20,13,9,10,9,8,33,25,WDDLDWWDDWLWWDWLWWWDDWDWLWL,3,4,6,10,15,DWDDLWLDWWWLLW,DLWDLWWWWDDLW
+Bastia,Nice,1-1,/match/bastia/nice/2003,2003,28,ligue_1,20,38,1,1,1,7,12,5,10,30,29,DWWWWWLDWWWWWWLDWLWWDWLWDWL,10,1,3,22,10,3,11,10,6,31,21,LWLWDWDWWWDDDWLDWWWDWDDWWWD,2,6,5,10,16,DWWLWWWLWLWWWW,LDDWDDLWWDDWW
+Sochaux,Le Havre,1-0,/match/sochaux/havre-ac/2003,2003,28,ligue_1,20,38,0,1,0,4,11,9,7,29,23,DDWWWDDLWWWWWDDWWWWWLDWWWDD,9,4,0,20,5,15,8,8,11,21,30,LDDLDLDLWWWDDLDLLWWWDWWLWWW,3,5,6,10,18,WWDWWWDWWWDWD,LDDDWWDDLWWWLW
+Sedan,Girondins Bordeaux,0-1,/match/sedan/bordeaux/2003,2003,28,ligue_1,20,38,2,0,1,17,7,6,14,29,45,DWLWWDDWWDLLWWLWWLLDWDWWWLW,5,4,5,20,15,8,11,8,8,38,29,LDLLDWWWWDWDDWWWWWWDWDWLWDL,3,5,6,14,17,DLWDWLWLWLDDWL,LLDWWWDWWWDDLD
+Nantes,Ajaccio,1-0,/match/nantes/ajaccio/2003,2003,28,ligue_1,20,38,0,1,0,11,12,5,10,30,28,LWWDWWWWLWDDDLWLWWWWLLWLDWL,7,3,3,19,13,18,6,10,11,21,32,DLDWWDLLWWDLDWWWLWDWDDWLDDL,2,6,6,13,21,WDWLDDWWWLWLW,DDWLWDDWWWWDLD
+Troyes,Strasbourg,1-0,/match/troyes/strasbourg/2003,2003,28,ligue_1,20,38,0,1,0,20,5,8,14,17,26,LDLDWWDWDWLDLWDWWDWLWWWLWWD,5,3,6,13,14,12,9,8,10,31,38,DWDLDDWWLWWWWWWWWLDDDDLWLWW,3,2,8,11,24,LLWDDLLWWDLWLW,WLWLWWWWDDLWW
+Olympique,Lille,2-0,/match/olympique-marsella/lillestrom/2003,2003,28,ligue_1,20,38,0,2,0,1,14,6,7,30,23,LLDLDWWLWWWWWDDWWWLDWWDWWWL,9,4,1,18,6,14,8,7,12,22,33,LDLDDWWWDWDWWLLWWDDWWWLWWWL,1,5,7,7,18,LDDWWWWDWWDWWW,DDWDDWLWDWWWW
+Olympique Lyonnais,Stade Rennais,4-1,/match/olympique-lyonnais/stade-rennes/2003,2003,28,ligue_1,20,38,0,4,1,6,11,9,7,43,32,DWDWWWWLDLWLDLWWWWDDWWWDDWD,8,4,1,29,12,16,7,7,13,22,29,WDWLWDWWWLLWDWDDWLWLWWLWDWD,3,1,10,9,19,WWWLWDWWDWWDD,WWWWWLWWDLLWWW
+Lens,Montpellier,4-0,/match/lens/montpellier-hsc/2003,2003,28,ligue_1,20,38,0,4,0,10,9,11,7,31,27,DDLDWWWWDLDDWWWWLDWWWLDDDDL,6,5,2,21,14,19,5,9,13,24,37,WWLWDDWWDLWDWWDDWLDDWDWLWWL,1,3,9,10,23,DWWDDWWLWWLDD,WWDWWWDWDWWWL
+Monaco,Auxerre,3-1,/match/monaco/auxerre/2003,2003,28,ligue_1,20,38,0,3,1,2,12,10,5,40,21,LLWWWWDLWDDDDWWWWLWDDDDLWWD,8,4,1,23,9,5,13,7,7,29,22,WWLWDWDWLDWWWWLLWDDDWLDWWLL,5,4,5,15,16,LWWWDDWWWDDWW,WLDDLWWWLDDLWL
+Nice,Nantes,1-1,/match/nice/nantes/2003,2003,29,ligue_1,20,38,1,1,1,4,11,11,6,32,22,LWLWDWDWWWDDDWLDWWWDWDDWWWDD,9,4,1,21,5,10,13,5,10,31,28,LWWDWWWWLWDDDLWLWWWWLLWLDWLW,5,2,7,11,15,LWWWWWDWDWWDWD,LWWWWWDLLWWLDL
+Girondins Bordeaux,Sochaux,2-0,/match/bordeaux/sochaux/2003,2003,29,ligue_1,20,38,0,2,0,8,12,8,8,39,29,LDLLDWWWWDWDDWWWWWWDWDWLWDLL,8,3,2,24,12,3,12,9,7,30,23,DDWWWDDLWWWWWDDWWWWWLDWWWDDW,2,5,7,9,18,DLWWDDWWWWWWL,DDWDLWWDWWLWWD
+Ajaccio,Lens,0-0,/match/ajaccio/lens/2003,2003,29,ligue_1,20,38,1,0,0,19,6,10,12,21,33,DLDWWDLLWWDLDWWWLWDWDDWLDDLW,4,4,5,8,11,9,10,11,7,35,27,DDLDWWWWDLDDWWWWLDWWWLDDDDLW,3,6,5,10,13,LWDLWLWLDDWDL,DLDWWLDWWDWDDL
+Stade Rennais,Sedan,1-0,/match/stade-rennes/sedan/2003,2003,29,ligue_1,20,38,0,1,0,16,7,7,14,23,33,WDWLWDWWWLLWDWDDWLWLWWLWDWDW,4,6,3,13,10,18,7,6,15,29,46,DWLWWDDWWDLLWWLWWLLDWDWWWLWL,2,2,9,9,30,DLDWLDDWWWLDD,WWDWDLWWLWWWW
+PSG,Troyes,4-2,/match/paris-saint-germain-fc/troyes/2003,2003,29,ligue_1,20,38,0,4,2,11,10,9,9,35,28,WDDLDWWDDWLWWDWLWWWDDWDWLWLW,7,5,2,23,10,17,6,8,14,18,26,LDLDWWDWDWLDLWDWWDWLWWWLWWDW,0,5,8,4,12,WDDWDWWDLWDWWL,DDWWWDDWWWWWD
+Montpellier,Guingamp,2-0,/match/montpellier-hsc/guingamp/2003,2003,29,ligue_1,20,38,0,2,0,20,5,9,14,24,41,WWLWDDWWDLWDWWDDWLDDWDWLWWLW,4,6,4,14,14,12,12,4,12,40,40,DLWWDLDWLWWLLDLWLWWWWLWLWWWW,5,0,8,17,25,WLDWDLDWDLDDLW,LWLWWLLLWWWWW
+Lille,Monaco,1-3,/match/lillestrom/monaco/2003,2003,29,ligue_1,20,38,2,1,3,14,8,7,13,22,35,LDLDDWWWDWDWWLLWWDDWWWLWWWLW,7,2,5,15,15,2,13,10,5,43,22,LLWWWWDLWDDDDWWWWLWDDDDLWWDW,4,6,4,17,12,LLDWWWWLWDWLWL,LWWDLDDWWLDDLD
+Le Havre,Bastia,2-0,/match/havre-ac/bastia/2003,2003,29,ligue_1,20,38,0,2,0,15,8,8,12,21,31,LDDLDLDLWWWDDLDLLWWWDWWLWWWW,5,3,5,11,12,7,12,6,10,31,30,DWWWWWLDWWWWWWLDWLWWDWLWDWLD,2,4,7,8,19,DLLLWDLLWDWWW,WWWDWWWDWDLDL
+Strasbourg,Olympique,0-0,/match/strasbourg/olympique-marsella/2003,2003,29,ligue_1,20,38,1,0,0,13,9,8,11,31,39,DWDLDDWWLWWWWWWWWLDDDDLWLWWW,6,6,2,20,14,1,15,6,7,32,23,LLDLDWWLWWWWWDDWWWLDWWDWWWLW,5,2,6,12,17,DDDDWWWWWLDDLW,LLWLWWDWLWDWL
+Auxerre,Olympique Lyonnais,1-2,/match/auxerre/olympique-lyonnais/2003,2003,29,ligue_1,20,38,2,1,2,6,13,7,8,30,25,WWLWDWDWLDWWWWLLWDDDWLDWWLLW,8,3,2,14,6,5,12,9,7,47,33,DWDWWWWLDLWLDLWWWWDDWWWDDWDW,3,5,6,14,20,WWWWDWLWDWDWL,DDWWDLLLWWDWDW
+Stade Rennais,Auxerre,0-0,/match/stade-rennes/auxerre/2003,2003,30,ligue_1,20,38,1,0,0,16,8,7,14,24,33,WDWLWDWWWLLWDWDDWLWLWWLWDWDWW,5,6,3,14,10,9,13,7,9,31,27,WWLWDWDWLDWWWWLLWDDDWLDWWLLWL,5,4,6,16,19,DLDWLDDWWWLDDW,WLDDLWWWLDDLWLW
+Bastia,Strasbourg,1-1,/match/bastia/strasbourg/2003,2003,30,ligue_1,20,38,1,1,1,8,12,6,11,31,32,DWWWWWLDWWWWWWLDWLWWDWLWDWLDW,10,2,3,23,11,13,9,9,11,31,39,DWDLDDWWLWWWWWWWWLDDDDLWLWWWD,3,2,9,11,25,DWWLWWWLWLWWWWD,WLWLWWWWDDLWWW
+Sochaux,Lille,2-2,/match/sochaux/lillestrom/2003,2003,30,ligue_1,20,38,1,2,2,3,12,9,8,30,25,DDWWWDDLWWWWWDDWWWWWLDWWWDDWW,10,4,0,21,5,15,8,7,14,23,38,LDLDDWWWDWDWWLLWWDDWWWLWWWLWL,1,5,8,7,20,WWDWWWDWWWDWDW,DDWDDWLWDWWWWW
+Sedan,Guingamp,2-0,/match/sedan/guingamp/2003,2003,30,ligue_1,20,38,0,2,0,20,7,6,16,29,47,DWLWWDDWWDLLWWLWWLLDWDWWWLWLW,5,4,6,20,16,12,12,4,13,40,42,DLWWDLDWLWWLLDLWLWWWWLWLWWWWW,5,0,9,17,27,DLWDWLWLWLDDWLL,LWLWWLLLWWWWWW
+Nantes,Le Havre,2-0,/match/nantes/havre-ac/2003,2003,30,ligue_1,20,38,0,2,0,11,13,6,10,32,29,LWWDWWWWLWDDDLWLWWWWLLWLDWLWD,8,3,3,20,13,14,9,8,12,23,31,LDDLDLDLWWWDDLDLLWWWDWWLWWWWW,3,5,7,10,19,WDWLDDWWWLWLWW,LDDDWWDDLWWWLWW
+Monaco,Girondins Bordeaux,0-1,/match/monaco/bordeaux/2003,2003,30,ligue_1,20,38,2,0,1,2,14,10,5,46,23,LLWWWWDLWDDDDWWWWLWDDDDLWWDWL,9,4,1,26,10,6,13,8,8,41,29,LDLLDWWWWDWDDWWWWWWDWDWLWDLLW,4,5,6,15,17,LWWWDDWWWDDWWW,LLDWWWDWWWDDLDL
+Olympique Lyonnais,Ajaccio,3-1,/match/olympique-lyonnais/ajaccio/2003,2003,30,ligue_1,20,38,0,3,1,5,13,9,7,49,34,DWDWWWWLDLWLDLWWWWDDWWWDDWDWL,9,4,1,33,13,18,6,11,12,21,33,DLDWWDLLWWDLDWWWLWDWDDWLDDLWD,2,6,7,13,22,WWWLWDWWDWWDDW,DDWLWDDWWWWDLDW
+Lens,Nice,0-0,/match/lens/nice/2003,2003,30,ligue_1,20,38,1,0,0,10,10,12,7,35,27,DDLDWWWWDLDDWWWWLDWWWLDDDDLWD,7,5,2,25,14,4,11,12,6,33,23,LWLWDWDWWWDDDWLDWWWDWDDWWWDDD,2,7,5,11,17,DWWDDWWLWWLDDW,LDDWDDLWWDDWWD
+Troyes,Montpellier,0-2,/match/troyes/montpellier-hsc/2003,2003,30,ligue_1,20,38,2,0,2,19,6,8,15,20,30,LDLDWWDWDWLDLWDWWDWLWWWLWWDWW,6,3,6,14,14,17,6,9,14,26,41,WWLWDDWWDLWDWWDDWLDDWDWLWWLWW,1,3,10,10,27,LLWDDLLWWDLWLWW,WWDWWWDWDWWWLW
+Olympique,PSG,0-3,/match/olympique-marsella/paris-saint-germain-fc/2003,2003,30,ligue_1,20,38,2,0,3,1,15,7,7,32,23,LLDLDWWLWWWWWDDWWWLDWWDWWWLWD,10,4,1,20,6,7,11,9,9,39,30,WDDLDWWDDWLWWDWLWWWDDWDWLWLWW,3,4,7,12,18,LDDWWWWDWWDWWWW,DLWDLWWWWDDLWW
+Montpellier,Olympique,1-2,/match/montpellier-hsc/olympique-marsella/2003,2003,31,ligue_1,20,38,2,1,2,17,7,9,14,28,41,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWL,5,6,4,16,14,1,15,7,8,32,26,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDL,5,3,6,12,17,WLDWDLDWDLDDLWW,LLWLWWDWLWDWLD
+Ajaccio,Stade Rennais,1-0,/match/ajaccio/stade-rennes/2003,2003,31,ligue_1,20,38,0,1,0,19,6,11,13,22,36,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDW,4,5,5,8,11,15,8,8,14,24,33,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWD,3,1,11,10,23,LWDLWLWLDDWDLD,WWWWWLWWDLLWWWW
+PSG,Sedan,2-0,/match/paris-saint-germain-fc/sedan/2003,2003,31,ligue_1,20,38,0,2,0,9,12,9,9,42,30,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWL,8,5,2,27,12,18,8,6,16,31,47,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWW,2,2,10,9,31,WDDWDWWDLWDWWLW,WWDWDLWWLWWWWW
+Lille,Bastia,1-1,/match/lillestrom/bastia/2003,2003,31,ligue_1,20,38,1,1,1,16,8,8,14,25,40,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLD,7,2,6,16,18,8,12,7,11,32,33,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWD,2,4,8,8,21,LLDWWWWLWDWLWLL,WWWDWWWDWDLDLW
+Le Havre,Monaco,0-3,/match/havre-ac/monaco/2003,2003,31,ligue_1,20,38,2,0,3,14,9,8,13,23,33,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWW,6,3,5,13,12,3,14,10,6,46,24,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLL,5,6,4,20,13,DLLLWDLLWDWWWW,LWWDLDDWWLDDLDL
+Guingamp,Troyes,2-0,/match/guingamp/troyes/2003,2003,31,ligue_1,20,38,0,2,0,13,12,4,14,40,44,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWW,7,4,4,23,15,20,6,8,16,20,32,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWL,0,5,9,6,16,DWDDLWLDWWWLLWW,DDWWWDDWWWWWDW
+Girondins Bordeaux,Nantes,0-0,/match/bordeaux/nantes/2003,2003,31,ligue_1,20,38,1,0,0,6,14,8,8,42,29,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWL,9,3,2,26,12,7,14,6,10,34,29,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDW,5,3,7,12,16,DLWWDDWWWWWWLW,LWWWWWDLLWWLDLD
+Auxerre,Lens,0-0,/match/auxerre/lens/2003,2003,31,ligue_1,20,38,1,0,0,10,13,8,9,31,27,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLD,8,3,3,15,8,11,10,13,7,35,27,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDD,3,7,5,10,13,WWWWDWLWDWDWLL,DLDWWLDWWDWDDLD
+Strasbourg,Sochaux,1-3,/match/strasbourg/sochaux/2003,2003,31,ligue_1,20,38,2,1,3,12,9,10,11,32,40,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDD,6,7,2,20,14,4,12,10,8,32,27,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWD,2,5,8,9,20,DDDDWWWWWLDDLWD,DDWDLWWDWWLWWDW
+Nice,Olympique Lyonnais,0-1,/match/nice/olympique-lyonnais/2003,2003,31,ligue_1,20,38,2,0,1,5,11,13,6,33,23,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDD,9,5,1,22,6,2,14,9,7,52,35,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLW,4,5,6,16,21,LWWWWWDWDWWDWDD,DDWWDLLLWWDWDWL
+Olympique Lyonnais,Le Havre,2-1,/match/olympique-lyonnais/havre-ac/2003,2003,32,ligue_1,20,38,0,2,1,2,15,9,7,53,35,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLWL,10,4,1,36,14,15,9,8,14,23,36,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWWL,3,5,8,10,21,WWWLWDWWDWWDDWW,LDDDWWDDLWWWLWWW
+Auxerre,Ajaccio,1-0,/match/auxerre/ajaccio/2003,2003,32,ligue_1,20,38,0,1,0,10,13,9,9,31,27,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLDD,8,4,3,15,8,17,7,11,13,23,36,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDWW,2,6,8,14,25,WWWWDWLWDWDWLLD,DDWLWDDWWWWDLDWW
+Sedan,Montpellier,1-2,/match/sedan/montpellier-hsc/2003,2003,32,ligue_1,20,38,2,1,2,19,8,6,17,31,49,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWWW,6,4,6,22,16,18,7,9,15,29,43,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWLL,2,3,10,12,27,DLWDWLWLWLDDWLLW,WWDWWWDWDWWWLWL
+Stade Rennais,Girondins Bordeaux,3-4,/match/stade-rennes/bordeaux/2003,2003,32,ligue_1,20,38,2,3,4,16,8,8,15,24,34,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWDW,5,7,3,14,10,5,14,9,8,42,29,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWLD,5,5,6,16,17,DLDWLDDWWWLDDWD,LLDWWWDWWWDDLDLL
+Nantes,Lille,1-0,/match/nantes/lillestrom/2003,2003,32,ligue_1,20,38,0,1,0,8,14,7,10,34,29,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDWD,9,3,3,22,13,14,8,9,14,26,41,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLDD,1,6,8,9,22,WDWLDDWWWLWLWWW,DDWDDWLWDWWWWWD
+Sochaux,PSG,0-0,/match/sochaux/paris-saint-germain-fc/2003,2003,32,ligue_1,20,38,1,0,0,4,13,10,8,35,28,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWDL,10,5,0,23,7,7,13,9,9,44,30,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWLW,4,4,7,15,18,WWDWWWDWWWDWDWD,DLWDLWWWWDDLWWL
+Olympique,Guingamp,0-2,/match/olympique-marsella/guingamp/2003,2003,32,ligue_1,20,38,2,0,2,1,16,7,8,34,27,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDLL,10,4,2,20,9,12,13,4,14,42,44,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWWW,5,0,10,17,29,LDDWWWWDWWDWWWWL,LWLWWLLLWWWWWWW
+Lens,Strasbourg,1-1,/match/lens/strasbourg/2003,2003,32,ligue_1,20,38,1,1,1,11,10,14,7,35,27,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDDD,7,6,2,25,14,13,9,10,12,33,43,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDDL,3,3,9,12,26,DWWDDWWLWWLDDWD,WLWLWWWWDDLWWWD
+Bastia,Troyes,1-1,/match/bastia/troyes/2003,2003,32,ligue_1,20,38,1,1,1,9,12,8,11,33,34,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWDD,10,3,3,24,12,20,6,8,17,20,34,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWLW,0,5,10,6,18,DWWLWWWLWLWWWWDD,DDWWWDDWWWWWDWW
+Monaco,Nice,0-1,/match/monaco/nice/2003,2003,32,ligue_1,20,38,2,0,1,3,15,10,6,49,24,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLLL,9,4,2,26,11,6,11,13,7,33,24,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDDL,2,8,5,11,17,LWWWDDWWWDDWWWL,LDDWDDLWWDDWWDD
+Girondins Bordeaux,Olympique Lyonnais,0-1,/match/bordeaux/olympique-lyonnais/2003,2003,33,ligue_1,20,38,2,0,1,5,15,9,8,46,32,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWLDL,9,4,2,26,12,1,16,9,7,55,36,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLWLW,5,5,6,17,21,DLWWDDWWWWWWLWD,DDWWDLLLWWDWDWLL
+Troyes,Olympique,0-0,/match/troyes/olympique-marsella/2003,2003,33,ligue_1,20,38,1,0,0,20,6,9,17,21,35,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWLWD,6,3,7,14,16,2,16,7,9,34,29,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDLLL,6,3,6,14,18,LLWDDLLWWDLWLWWL,LLWLWWDWLWDWLDL
+Guingamp,Bastia,3-0,/match/guingamp/bastia/2003,2003,33,ligue_1,20,38,0,3,0,12,14,4,14,44,44,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWWWL,8,4,4,25,15,10,12,9,11,34,35,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWDDD,2,5,8,9,22,DWDDLWLDWWWLLWWW,WWWDWWWDWDLDLWD
+Le Havre,Stade Rennais,0-1,/match/havre-ac/stade-rennes/2003,2003,33,ligue_1,20,38,2,0,1,15,9,8,15,24,38,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWWLW,6,3,6,13,15,16,8,8,16,27,38,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWDWL,3,1,12,10,24,DLLLWDLLWDWWWWL,WWWWWLWWDLLWWWWW
+Lille,Sedan,0-0,/match/lillestrom/sedan/2003,2003,33,ligue_1,20,38,1,0,0,14,8,9,15,26,42,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLDDW,7,3,6,17,19,19,8,6,18,32,51,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWWWL,2,2,11,9,33,LLDWWWWLWDWLWLLD,WWDWDLWWLWWWWWW
+Ajaccio,Monaco,2-4,/match/ajaccio/monaco/2003,2003,33,ligue_1,20,38,2,2,4,18,7,11,14,23,37,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDWWW,5,5,5,9,11,4,15,10,7,49,25,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLLLL,6,6,4,23,13,LWDLWLWLDDWDLDW,LWWDLDDWWLDDLDLL
+Nice,Auxerre,1-0,/match/nice/auxerre/2003,2003,33,ligue_1,20,38,0,1,0,6,12,13,7,34,24,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDDLL,9,5,2,22,7,9,14,9,9,32,27,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLDDW,5,5,6,16,19,LWWWWWDWDWWDWDDL,WLDDLWWWLDDLWLWD
+PSG,Lens,0-1,/match/paris-saint-germain-fc/lens/2003,2003,33,ligue_1,20,38,2,0,1,8,13,10,9,44,30,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWLWD,9,5,2,29,12,11,10,15,7,36,28,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDDDD,3,8,5,10,13,WDDWDWWDLWDWWLWW,DLDWWLDWWDWDDLDD
+Strasbourg,Nantes,2-0,/match/strasbourg/nantes/2003,2003,33,ligue_1,20,38,0,2,0,13,9,11,12,34,44,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDDLD,6,7,3,21,17,7,15,7,10,35,29,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDWDW,5,4,7,12,16,DDDDWWWWWLDDLWDL,LWWWWWDLLWWLDLDD
+Montpellier,Sochaux,0-2,/match/montpellier-hsc/sochaux/2003,2003,33,ligue_1,20,38,2,0,2,17,8,9,15,31,44,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWLLL,5,6,5,17,16,3,13,11,8,35,28,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWDLD,3,5,8,12,21,WLDWDLDWDLDDLWWL,DDWDLWWDWWLWWDWL
+Ajaccio,Girondins Bordeaux,1-6,/match/ajaccio/bordeaux/2003,2003,34,ligue_1,20,38,2,1,6,18,7,11,15,25,41,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDWWWL,5,5,6,11,15,6,15,9,9,46,33,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWLDLL,6,5,6,20,20,LWDLWLWLDDWDLDWL,LLDWWWDWWWDDLDLLL
+Sochaux,Guingamp,0-0,/match/sochaux/guingamp/2003,2003,34,ligue_1,20,38,1,0,0,2,14,11,8,37,28,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWDLDL,10,6,0,23,7,12,15,4,14,47,44,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWWWLW,6,0,10,19,29,WWDWWWDWWWDWDWDD,LWLWWLLLWWWWWWWL
+Sedan,Troyes,4-0,/match/sedan/troyes/2003,2003,34,ligue_1,20,38,0,4,0,19,8,7,18,32,51,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWWWLD,6,4,7,23,18,20,6,10,17,21,35,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWLWDD,0,6,10,7,19,DLWDWLWLWLDDWLLWL,DDWWWDDWWWWWDWWD
+Stade Rennais,Nice,2-2,/match/stade-rennes/nice/2003,2003,34,ligue_1,20,38,1,2,2,15,9,8,16,28,38,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWDWLL,5,7,4,17,14,5,13,13,7,35,24,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDDLLW,3,8,5,12,17,DLDWLDDWWWLDDWDL,LDDWDDLWWDDWWDDL
+Nantes,PSG,1-1,/match/nantes/paris-saint-germain-fc/2003,2003,34,ligue_1,20,38,1,1,1,7,15,7,11,35,31,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDWDWW,10,3,3,23,13,8,13,10,10,44,31,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWLWDL,4,5,7,15,18,WDWLDDWWWLWLWWWW,DLWDLWWWWDDLWWLD
+Olympique Lyonnais,Lille,0-0,/match/olympique-lyonnais/lillestrom/2003,2003,34,ligue_1,20,38,1,0,0,1,17,9,7,56,36,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLWLWL,11,4,1,38,15,14,8,10,15,26,42,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLDDWD,1,6,9,9,23,WWWLWDWWDWWDDWWW,DDWDDWLWDWWWWWDW
+Bastia,Montpellier,1-2,/match/bastia/montpellier-hsc/2003,2003,34,ligue_1,20,38,2,1,2,11,12,9,12,34,38,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWDDDW,10,4,3,25,13,17,8,9,16,31,46,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWLLLL,3,3,10,14,28,DWWLWWWLWLWWWWDDD,WWDWWWDWDWWWLWLL
+Auxerre,Le Havre,1-0,/match/auxerre/havre-ac/2003,2003,34,ligue_1,20,38,0,1,0,9,14,9,10,32,28,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLDDWW,9,4,3,16,8,16,9,8,16,24,39,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWWLWL,3,5,9,11,23,WWWWDWLWDWDWLLDW,LDDDWWDDLWWWLWWWW
+Monaco,Strasbourg,2-0,/match/monaco/strasbourg/2003,2003,34,ligue_1,20,38,0,2,0,4,16,10,7,53,27,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLLLLL,9,4,3,26,12,13,10,11,12,36,44,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDDLDW,3,4,9,13,27,LWWWDDWWWDDWWWLL,WLWLWWWWDDLWWWDD
+Lens,Olympique,0-1,/match/lens/olympique-marsella/2003,2003,34,ligue_1,20,38,2,0,1,10,11,15,7,37,28,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDDDDL,7,7,2,26,15,3,16,8,9,34,29,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDLLLD,6,4,6,14,18,DWWDDWWLWWLDDWDD,LLWLWWDWLWDWLDLD
+Olympique,Bastia,2-1,/match/olympique-marsella/bastia/2003,2003,35,ligue_1,20,38,0,2,1,4,17,8,9,35,29,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDLLLDL,10,4,3,20,11,12,12,9,13,35,40,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWDDDWL,2,5,9,9,25,LDDWWWWDWWDWWWWLL,WWWDWWWDWDLDLWDW
+Girondins Bordeaux,Auxerre,0-1,/match/bordeaux/auxerre/2003,2003,35,ligue_1,20,38,2,0,1,6,16,9,9,52,34,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWLDLLL,9,4,3,26,13,7,15,9,10,33,28,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLDDWWW,5,5,7,16,20,DLWWDDWWWWWWLWDL,WLDDLWWWLDDLWLWDW
+Troyes,Sochaux,0-2,/match/troyes/sochaux/2003,2003,35,ligue_1,20,38,2,0,2,20,6,10,18,21,39,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWLWDDW,6,4,7,14,16,3,14,12,8,37,28,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWDLDLD,4,5,8,14,21,LLWDDLLWWDLWLWWLD,DDWDLWWDWWLWWDWLL
+Strasbourg,Olympique Lyonnais,0-4,/match/strasbourg/olympique-lyonnais/2003,2003,35,ligue_1,20,38,2,0,4,13,10,11,13,36,46,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDDLDWW,7,7,3,23,17,1,17,10,7,56,36,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLWLWLD,6,5,6,18,21,DDDDWWWWWLDDLWDLW,DDWWDLLLWWDWDWLLL
+Nice,Sedan,0-0,/match/nice/sedan/2003,2003,35,ligue_1,20,38,1,0,0,5,13,14,7,37,26,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDDLLWD,10,5,2,23,7,17,9,7,18,36,51,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWWWLDW,2,3,11,9,33,LWWWWWDWDWWDWDDLW,WWDWDLWWLWWWWWWD
+Montpellier,Nantes,1-0,/match/montpellier-hsc/nantes/2003,2003,35,ligue_1,20,38,0,1,0,16,9,9,16,33,47,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWLLLLL,5,6,6,17,18,8,15,8,11,36,32,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDWDWWD,5,4,8,12,18,WLDWDLDWDLDDLWWLL,LWWWWWDLLWWLDLDDW
+Lille,Stade Rennais,1-0,/match/lillestrom/stade-rennes/2003,2003,35,ligue_1,20,38,0,1,0,14,8,11,15,26,42,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLDDWDD,7,4,6,17,19,15,9,9,16,30,40,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWDWLLD,4,1,12,11,24,LLDWWWWLWDWLWLLDD,WWWWWLWWDLLWWWWWL
+Le Havre,Ajaccio,0-1,/match/havre-ac/ajaccio/2003,2003,35,ligue_1,20,38,2,0,1,18,9,8,17,24,40,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWWLWLW,6,3,7,13,16,19,7,11,16,26,47,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDWWWLL,2,6,9,14,26,DLLLWDLLWDWWWWLL,DDWLWDDWWWWDLDWWW
+Guingamp,Lens,1-0,/match/guingamp/lens/2003,2003,35,ligue_1,20,38,0,1,0,11,15,5,14,47,44,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWWWLWD,9,4,4,28,15,10,11,15,8,37,29,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDDDDLL,4,8,5,11,13,DWDDLWLDWWWLLWWWW,DLDWWLDWWDWDDLDDL
+PSG,Monaco,2-1,/match/paris-saint-germain-fc/monaco/2003,2003,35,ligue_1,20,38,0,2,1,9,13,11,10,45,32,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWLWDLD,9,5,3,29,13,2,17,10,7,55,27,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLLLLLW,7,6,4,27,15,WDDWDWWDLWDWWLWWL,LWWDLDDWWLDDLDLLL
+Monaco,Montpellier,3-1,/match/monaco/montpellier-hsc/2003,2003,36,ligue_1,20,38,0,3,1,4,17,10,8,56,29,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLLLLLWW,10,4,3,28,12,15,10,9,16,34,47,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWLLLLLW,4,3,10,16,29,LWWWDDWWWDDWWWLLW,WWDWWWDWDWWWLWLLL
+Ajaccio,Nice,2-0,/match/ajaccio/nice/2003,2003,36,ligue_1,20,38,0,2,0,18,8,11,16,27,47,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDWWWLLL,5,5,7,12,21,5,13,15,7,37,26,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDDLLWDD,3,9,5,14,19,LWDLWLWLDDWDLDWLL,LDDWDDLWWDDWWDDLD
+Sochaux,Olympique,3-0,/match/sochaux/olympique-marsella/2003,2003,36,ligue_1,20,38,0,3,0,3,15,12,8,39,28,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWDLDLDL,10,7,0,23,7,2,18,8,9,37,30,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDLLLDLW,7,4,6,15,18,WWDWWWDWWWDWDWDDD,LLWLWWDWLWDWLDLDL
+Sedan,Bastia,2-2,/match/sedan/bastia/2003,2003,36,ligue_1,20,38,1,2,2,17,9,8,18,36,51,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWWWLDWD,7,4,7,27,18,12,12,9,14,36,42,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWDDDWLW,2,5,10,10,27,DLWDWLWLWLDDWLLWLW,WWWDWWWDWDLDLWDWW
+Stade Rennais,Strasbourg,2-3,/match/stade-rennes/strasbourg/2003,2003,36,ligue_1,20,38,2,2,3,16,9,9,17,30,41,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWDWLLDW,5,8,4,19,16,13,10,11,14,36,50,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDDLDWWL,3,4,10,13,29,DLDWLDDWWWLDDWDLD,WLWLWWWWDDLWWWDDW
+Nantes,Guingamp,0-4,/match/nantes/guingamp/2003,2003,36,ligue_1,20,38,2,0,4,9,15,8,12,36,33,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDWDWWDW,10,4,3,24,14,10,16,5,14,48,44,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWWWLWDW,6,1,10,19,29,WDWLDDWWWLWLWWWWD,LWLWWLLLWWWWWWWLD
+Lens,Troyes,1-0,/match/lens/troyes/2003,2003,36,ligue_1,20,38,0,1,0,11,11,15,9,37,30,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDDDDLLW,7,7,3,26,16,20,6,10,19,21,41,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWLWDDWL,0,6,11,7,23,DWWDDWWLWWLDDWDDL,DDWWWDDWWWWWDWWDW
+Girondins Bordeaux,Le Havre,2-0,/match/bordeaux/havre-ac/2003,2003,36,ligue_1,20,38,0,2,0,8,16,9,10,52,35,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWLDLLLL,9,4,4,26,14,19,9,8,18,24,41,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWWLWLWL,3,5,10,11,24,DLWWDDWWWWWWLWDLL,LDDDWWDDLWWWLWWWWW
+Auxerre,Lille,0-0,/match/auxerre/lillestrom/2003,2003,36,ligue_1,20,38,1,0,0,6,16,9,10,34,28,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLDDWWWL,10,4,3,17,8,14,9,11,15,27,42,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLDDWDDW,1,7,9,9,23,WWWWDWLWDWDWLLDWW,DDWDDWLWDWWWWWDWD
+Olympique Lyonnais,PSG,1-0,/match/olympique-lyonnais/paris-saint-germain-fc/2003,2003,36,ligue_1,20,38,0,1,0,1,18,10,7,60,36,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLWLWLDL,11,5,1,38,15,7,14,11,10,47,33,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWLWDLDW,4,6,7,16,19,WWWLWDWWDWWDDWWWD,DLWDLWWWWDDLWWLDD
+Bastia,Sochaux,2-2,/match/bastia/sochaux/2003,2003,37,ligue_1,20,38,1,2,2,12,12,10,14,38,44,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWDDDWLWD,10,4,4,26,15,2,16,12,8,42,28,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWDLDLDLW,5,5,8,16,21,DWWLWWWLWLWWWWDDDL,DDWDLWWDWWLWWDWLLL
+Strasbourg,Auxerre,1-2,/match/strasbourg/auxerre/2003,2003,37,ligue_1,20,38,2,1,2,13,11,11,14,39,52,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDDLDWWLL,7,7,4,23,21,6,16,10,10,34,28,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLDDWWWLD,6,5,7,17,20,DDDDWWWWWLDDLWDLWL,WLDDLWWWLDDLWLWDWL
+PSG,Stade Rennais,0-0,/match/paris-saint-germain-fc/stade-rennes/2003,2003,37,ligue_1,20,38,1,0,0,8,14,11,11,47,34,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWLWDLDWW,10,5,3,31,14,18,9,9,18,32,44,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWDWLLDWL,4,1,13,11,25,WDDWDWWDLWDWWLWWLW,WWWWWLWWDLLWWWWWLW
+Nice,Girondins Bordeaux,1-1,/match/nice/bordeaux/2003,2003,37,ligue_1,20,38,1,1,1,5,13,15,8,37,28,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDDLLWDDW,10,6,2,23,7,7,17,9,10,54,35,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWLDLLLLW,7,5,6,26,21,LWWWWWDWDWWDWDDLWD,LLDWWWDWWWDDLDLLLL
+Montpellier,Olympique Lyonnais,1-1,/match/montpellier-hsc/olympique-lyonnais/2003,2003,37,ligue_1,20,38,1,1,1,15,10,9,17,35,50,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWLLLLLWW,6,6,6,18,18,1,19,10,7,61,36,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLWLWLDLW,7,5,6,22,21,WLDWDLDWDLDDLWWLLW,DDWWDLLLWWDWDWLLLL
+Olympique,Sedan,4-2,/match/olympique-marsella/sedan/2003,2003,37,ligue_1,20,38,0,4,2,4,18,8,10,37,33,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDLLLDLWW,11,4,3,22,12,16,9,9,18,38,53,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWWWLDWDD,2,4,11,9,33,LDDWWWWDWWDWWWWLLW,WWDWDLWWLWWWWWWDD
+Lille,Ajaccio,2-0,/match/lillestrom/ajaccio/2003,2003,37,ligue_1,20,38,0,2,0,14,9,12,15,27,42,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLDDWDDWD,8,4,6,18,19,17,9,11,16,29,47,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDWWWLLLW,3,6,9,15,26,LLDWWWWLWDWLWLLDDW,DDWLWDDWWWWDLDWWWL
+Le Havre,Lens,1-3,/match/havre-ac/lens/2003,2003,37,ligue_1,20,38,2,1,3,19,9,8,19,24,43,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWWLWLWLW,6,3,8,13,17,10,12,15,9,38,30,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDDDDLLWW,4,8,6,11,14,DLLLWDLLWDWWWWLLL,DLDWWLDWWDWDDLDDLW
+Guingamp,Monaco,3-1,/match/guingamp/monaco/2003,2003,37,ligue_1,20,38,0,3,1,9,17,5,14,52,44,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWWWLWDWL,10,4,4,29,15,3,18,10,8,59,30,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLLLLLWWW,7,6,5,28,17,DWDDLWLDWWWLLWWWWW,LWWDLDDWWLDDLDLLLW
+Troyes,Nantes,2-0,/match/troyes/nantes/2003,2003,37,ligue_1,20,38,0,2,0,20,6,10,20,21,42,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWLWDDWLW,6,4,8,14,18,11,15,8,13,36,37,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDWDWWDWL,5,4,9,12,19,LLWDDLLWWDLWLWWLDL,LWWWWWDLLWWLDLDDWW
+Ajaccio,Strasbourg,0-0,/match/ajaccio/strasbourg/2003,2003,38,ligue_1,20,38,1,0,0,17,9,11,17,29,49,DLDWWDLLWWDLDWWWLWDWDDWLDDLWDWWWLLLWW,6,5,7,14,21,13,11,11,15,40,54,DWDLDDWWLWWWWWWWWLDDDDLWLWWWDDLDWWLLL,4,4,10,16,31,LWDLWLWLDDWDLDWLLW,WLWLWWWWDDLWWWDDWL
+Stade Rennais,Montpellier,3-1,/match/stade-rennes/montpellier-hsc/2003,2003,38,ligue_1,20,38,0,3,1,18,9,10,18,32,44,WDWLWDWWWLLWDWDDWLWLWWLWDWDWWDWLLDWLD,5,8,5,21,19,15,10,10,17,36,51,WWLWDDWWDLWDWWDDWLDDWDWLWWLWWLLLLLWWD,4,3,11,17,32,DLDWLDDWWWLDDWDLDL,WWDWWWDWDWWWLWLLLW
+Nantes,Olympique,1-0,/match/nantes/olympique-marsella/2003,2003,38,ligue_1,20,38,0,1,0,11,15,8,14,36,39,LWWDWWWWLWDDDLWLWWWWLLWLDWLWDWDWWDWLW,10,4,4,24,18,3,19,8,10,41,35,LLDLDWWLWWWWWDDWWWLDWWDWWWLWDLLLDLWWW,7,4,7,15,21,WDWLDDWWWLWLWWWWDL,LLWLWWDWLWDWLDLDLW
+Monaco,Troyes,6-0,/match/monaco/troyes/2003,2003,38,ligue_1,20,38,0,6,0,4,18,10,9,60,33,LLWWWWDLWDDDDWWWWLWDDDDLWWDWLLLLLWWWW,11,4,3,31,13,19,7,10,20,23,42,LDLDWWDWDWLDLWDWWDWLWWWLWWDWWLWDDWLWW,0,6,12,7,24,LWWWDDWWWDDWWWLLWW,DDWWWDDWWWWWDWWDWW
+Olympique Lyonnais,Guingamp,1-4,/match/olympique-lyonnais/guingamp/2003,2003,38,ligue_1,20,38,2,1,4,1,19,11,7,62,37,DWDWWWWLDLWLDLWWWWDDWWWDDWDWLWLWLDLWD,12,5,1,39,15,8,18,5,14,55,45,DLWWDLDWLWWLLDLWLWWWWLWLWWWWWWWLWDWLW,7,1,10,23,29,WWWLWDWWDWWDDWWWDW,LWLWWLLLWWWWWWWLDL
+Lens,Bastia,2-0,/match/lens/bastia/2003,2003,38,ligue_1,20,38,0,2,0,10,13,15,9,41,31,DDLDWWWWDLDDWWWWLDWWWLDDDDLWDDDDLLWWL,8,7,3,27,16,12,12,11,14,40,46,DWWWWWLDWWWWWWLDWLWWDWLWDWLDWDDDWLWDD,2,6,10,12,29,DWWDDWWLWWLDDWDDLW,WWWDWWWDWDLDLWDWWD
+Le Havre,Nice,2-1,/match/havre-ac/nice/2003,2003,38,ligue_1,20,38,0,2,1,20,9,8,20,25,46,LDDLDLDLWWWDDLDLLWWWDWWLWWWWWWLWLWLWL,6,3,9,14,20,5,13,16,8,38,29,LWLWDWDWWWDDDWLDWWWDWDDWWWDDDDLLWDDWD,3,9,6,14,21,DLLLWDLLWDWWWWLLLL,LDDWDDLWWDDWWDDLDW
+Girondins Bordeaux,Lille,2-0,/match/bordeaux/lillestrom/2003,2003,38,ligue_1,20,38,0,2,0,7,17,10,10,55,36,LDLLDWWWWDWDDWWWWWWDWDWLWDLLWLDLLLLWD,10,4,4,28,14,14,10,12,15,29,42,LDLDDWWWDWDWWLLWWDDWWWLWWWLWLDDWDDWDW,1,8,9,9,23,DLWWDDWWWWWWLWDLLW,DDWDDWLWDWWWWWDWDD
+Auxerre,PSG,2-0,/match/auxerre/paris-saint-germain-fc/2003,2003,38,ligue_1,20,38,0,2,0,6,17,10,10,36,29,WWLWDWDWLDWWWWLLWDDDWLDWWLLWLDDWWWLDL,10,5,3,17,8,9,14,12,11,47,34,WDDLDWWDDWLWWDWLWWWDDWDWLWLWWLWDLDWWD,4,6,8,16,20,WWWWDWLWDWDWLLDWWD,DLWDLWWWWDDLWWLDDW
+Sochaux,Sedan,2-1,/match/sochaux/sedan/2003,2003,38,ligue_1,20,38,0,2,1,2,16,13,8,44,30,DDWWWDDLWWWWWDDWWWWWLDWWWDDWWDLDLDLWD,11,7,0,26,7,16,9,9,19,40,57,DWLWWDDWWDLLWWLWWLLDWDWWWLWLWWWLDWDDW,2,4,12,11,37,WWDWWWDWWWDWDWDDDW,WWDWDLWWLWWWWWWDDW

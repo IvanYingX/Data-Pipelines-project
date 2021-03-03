@@ -1,0 +1,188 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Famalicão,Benfica,1-5,/match/famalicao/benfica/2021,2021,1,primeira_liga,18,21,2,1,5,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória,Belenenses,0-1,/match/vitoria-guimaraes/belenenses/2021,2021,1,primeira_liga,18,21,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nacional,Boavista,3-3,/match/nacional/boavista/2021,2021,1,primeira_liga,18,21,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Porto,Sporting Braga,3-1,/match/fc-porto/sporting-braga/2021,2021,1,primeira_liga,18,21,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+CD Santa Clara,Marítimo,2-0,/match/santa-clara/maritimo/2021,2021,1,primeira_liga,18,21,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Moreirense,Farense,2-0,/match/moreirense-fc/farense/2021,2021,1,primeira_liga,18,21,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Tondela,Rio Ave,1-1,/match/tondela/rio-ave/2021,2021,1,primeira_liga,18,21,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Portimonense,Paços Ferreira,1-1,/match/portimonense/pacos-ferreira/2021,2021,1,primeira_liga,18,21,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting CP,Gil Vicente,3-1,/match/sporting-lisbon/gil-vicente/2021,2021,1,primeira_liga,18,21,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting Braga,CD Santa Clara,0-1,/match/sporting-braga/santa-clara/2021,2021,2,primeira_liga,18,21,2,0,1,17,0,0,1,1,3,W,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
+Marítimo,Tondela,2-1,/match/maritimo/tondela/2021,2021,2,primeira_liga,18,21,0,2,1,14,0,0,1,0,2,W,0,0,0,0,0,6,0,1,0,1,1,D,0,0,0,0,0,,
+Benfica,Moreirense,2-0,/match/benfica/moreirense-fc/2021,2021,2,primeira_liga,18,21,0,2,0,7,1,0,0,5,1,L,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
+Boavista,Porto,0-5,/match/boavista/fc-porto/2021,2021,2,primeira_liga,18,21,2,0,5,12,0,1,0,3,3,D,0,0,0,0,0,4,1,0,0,3,1,W,0,0,0,0,0,,
+Farense,Nacional,0-1,/match/farense/nacional/2021,2021,2,primeira_liga,18,21,2,0,1,13,0,0,1,0,2,W,0,0,0,0,0,9,0,1,0,3,3,D,0,0,0,0,0,,
+Gil Vicente,Portimonense,1-0,/match/gil-vicente/portimonense/2021,2021,2,primeira_liga,18,21,0,1,0,15,0,0,1,1,3,W,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
+Paços Ferreira,Sporting CP,0-2,/match/pacos-ferreira/sporting-lisbon/2021,2021,2,primeira_liga,18,21,2,0,2,10,0,1,0,1,1,D,0,0,0,0,0,3,1,0,0,3,1,W,0,0,0,0,0,,
+Rio Ave,Vitória,0-0,/match/rio-ave/vitoria-guimaraes/2021,2021,2,primeira_liga,18,21,1,0,0,11,0,1,0,1,1,D,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
+Belenenses,Famalicão,1-2,/match/belenenses/famalicao/2021,2021,2,primeira_liga,18,21,2,1,2,8,1,0,0,1,0,L,0,0,0,0,0,18,0,0,1,1,5,L,0,0,0,0,0,,
+Moreirense,Boavista,1-1,/match/moreirense-fc/boavista/2021,2021,3,primeira_liga,18,21,1,1,1,5,1,0,1,2,2,WW,1,0,0,2,0,14,0,1,1,3,8,DL,0,1,0,3,3,W,D
+Vitória,Paços Ferreira,1-0,/match/vitoria-guimaraes/pacos-ferreira/2021,2021,3,primeira_liga,18,21,0,1,0,15,0,1,1,0,1,LD,0,0,1,0,1,16,0,1,1,1,3,DL,0,1,0,1,1,L,D
+CD Santa Clara,Gil Vicente,0-0,/match/santa-clara/gil-vicente/2021,2021,3,primeira_liga,18,21,1,0,0,1,2,0,0,3,0,WL,1,0,0,2,0,6,1,0,1,2,3,WW,0,0,1,1,3,W,W
+Porto,Marítimo,2-3,/match/fc-porto/maritimo/2021,2021,3,primeira_liga,18,21,2,2,3,3,2,0,0,8,1,WL,1,0,0,3,1,7,1,0,1,2,3,WW,0,0,1,0,2,W,W
+Tondela,Sporting Braga,0-4,/match/tondela/sporting-braga/2021,2021,3,primeira_liga,18,21,2,0,4,12,0,1,1,2,3,DW,0,1,0,1,1,18,0,0,2,1,4,WL,0,0,1,1,3,D,W
+Nacional,Belenenses,0-0,/match/nacional/belenenses/2021,2021,3,primeira_liga,18,21,1,0,0,8,1,1,0,4,3,DL,0,1,0,3,3,11,1,0,1,2,2,LL,1,0,0,1,0,D,L
+Famalicão,Rio Ave,1-1,/match/famalicao/rio-ave/2021,2021,3,primeira_liga,18,21,1,1,1,10,1,0,1,3,6,LL,0,0,1,1,5,9,0,2,0,1,1,DD,0,1,0,1,1,L,D
+Benfica,Farense,3-2,/match/benfica/farense/2021,2021,3,primeira_liga,18,21,0,3,2,4,2,0,0,7,1,LW,1,0,0,2,0,17,0,0,2,0,3,WL,0,0,1,0,2,W,W
+Portimonense,Sporting CP,0-2,/match/portimonense/sporting-lisbon/2021,2021,3,primeira_liga,18,21,2,0,2,13,0,1,1,1,2,DW,0,1,0,1,1,2,2,0,0,5,1,WL,1,0,0,2,0,D,L
+Gil Vicente,Tondela,1-1,/match/gil-vicente/tondela/2021,2021,4,primeira_liga,18,21,1,1,1,8,1,1,1,2,3,WWD,1,0,0,1,0,13,0,1,2,2,7,DWL,0,0,1,1,2,W,W
+Marítimo,Portimonense,1-2,/match/maritimo/portimonense/2021,2021,4,primeira_liga,18,21,2,1,2,6,2,0,1,5,5,WWL,1,0,0,2,1,14,0,1,2,1,4,DWL,0,0,1,0,1,W,W
+Sporting Braga,Nacional,2-1,/match/sporting-braga/nacional/2021,2021,4,primeira_liga,18,21,0,2,1,16,1,0,2,5,4,WLL,0,0,1,0,1,7,1,2,0,4,3,DLD,1,0,0,1,0,L,L
+Sporting CP,Porto,2-2,/match/sporting-lisbon/fc-porto/2021,2021,4,primeira_liga,18,21,1,2,2,3,3,0,0,7,1,WLL,1,0,0,3,1,4,2,0,1,10,4,WLL,1,0,0,5,0,W,L
+Paços Ferreira,CD Santa Clara,2-1,/match/pacos-ferreira/santa-clara/2021,2021,4,primeira_liga,18,21,0,2,1,17,0,1,2,1,4,DLW,0,0,1,0,2,2,2,1,0,3,0,WLD,1,0,0,1,0,L,L
+Belenenses,Moreirense,0-0,/match/belenenses/moreirense-fc/2021,2021,4,primeira_liga,18,21,1,0,0,12,1,1,1,2,2,LLD,0,0,1,1,2,5,1,1,1,3,3,WWD,0,0,1,0,2,L,W
+Farense,Famalicão,3-3,/match/farense/famalicao/2021,2021,4,primeira_liga,18,21,1,3,3,18,0,0,3,2,6,WLW,0,0,1,0,1,10,1,1,1,4,7,LLD,1,0,0,2,1,L,L
+Rio Ave,Benfica,0-3,/match/rio-ave/benfica/2021,2021,4,primeira_liga,18,21,2,0,3,11,0,3,0,2,2,DDD,0,1,0,0,0,1,3,0,0,10,3,LWW,1,0,0,5,1,D,L
+Boavista,Vitória,0-1,/match/boavista/vitoria-guimaraes/2021,2021,4,primeira_liga,18,21,2,0,1,15,0,2,1,4,9,DLD,0,0,1,0,5,9,1,1,1,1,1,LDW,0,1,0,0,0,L,D
+Tondela,Portimonense,1-0,/match/tondela/portimonense/2021,2021,5,primeira_liga,18,21,0,1,0,16,0,2,2,3,8,DWLD,0,1,1,1,5,14,1,1,2,3,5,DWLL,1,0,1,2,2,DL,WL
+Nacional,Paços Ferreira,1-1,/match/nacional/pacos-ferreira/2021,2021,5,primeira_liga,18,21,1,1,1,10,1,2,1,5,5,DLDW,0,2,0,3,3,11,1,1,2,3,5,DLWW,0,1,1,1,2,DD,DW
+CD Santa Clara,Sporting CP,1-2,/match/santa-clara/sporting-lisbon/2021,2021,5,primeira_liga,18,21,2,1,2,3,2,1,1,4,2,WLDW,1,1,0,2,0,2,3,1,0,9,3,WLLD,2,0,0,4,0,WD,LL
+Porto,Gil Vicente,1-0,/match/fc-porto/gil-vicente/2021,2021,5,primeira_liga,18,21,0,1,0,4,2,1,1,12,6,WLLD,1,0,1,5,4,6,1,2,1,3,4,WWDD,0,1,1,1,3,WL,WD
+Moreirense,Marítimo,2-1,/match/moreirense-fc/maritimo/2021,2021,5,primeira_liga,18,21,0,2,1,5,1,2,1,3,3,WWDD,1,1,0,3,1,9,2,0,2,6,7,WWLL,1,0,1,3,4,WD,WL
+Farense,Rio Ave,0-1,/match/farense/rio-ave/2021,2021,5,primeira_liga,18,21,2,0,1,18,0,1,3,5,9,WLWD,0,1,1,3,4,15,0,3,1,2,5,DDDL,0,2,0,2,2,LD,DD
+Famalicão,Boavista,2-2,/match/famalicao/boavista/2021,2021,5,primeira_liga,18,21,1,2,2,12,1,2,1,7,10,LLDD,0,1,1,2,6,17,0,2,2,4,10,DLDL,0,2,0,4,4,LD,DD
+Vitória,Sporting Braga,0-1,/match/vitoria-guimaraes/sporting-braga/2021,2021,5,primeira_liga,18,21,2,0,1,7,2,1,1,2,1,LDWL,1,0,1,1,1,8,2,0,2,7,5,WLLW,1,0,1,5,3,LW,WL
+Benfica,Belenenses,2-0,/match/benfica/belenenses/2021,2021,5,primeira_liga,18,21,0,2,0,1,4,0,0,13,3,LWWL,2,0,0,5,2,13,1,2,1,2,2,LLDD,1,1,0,1,0,WW,LD
+Paços Ferreira,Porto,3-2,/match/pacos-ferreira/fc-porto/2021,2021,6,primeira_liga,18,21,0,3,2,13,1,2,2,4,6,DLWWD,1,0,1,2,3,3,3,1,1,13,6,WLLDW,1,1,0,7,2,LW,LD
+Belenenses,Farense,1-1,/match/belenenses/farense/2021,2021,6,primeira_liga,18,21,1,1,1,15,1,2,2,2,4,LLDDW,0,1,1,1,2,18,0,1,4,5,10,WLWDL,0,0,2,2,5,LD,WW
+Rio Ave,Moreirense,2-0,/match/rio-ave/moreirense-fc/2021,2021,6,primeira_liga,18,21,0,2,0,14,1,3,1,3,5,DDDLL,0,1,1,0,3,4,2,2,1,5,4,WWDDW,0,1,1,0,2,DL,WD
+Marítimo,Nacional,0-0,/match/maritimo/nacional/2021,2021,6,primeira_liga,18,21,1,0,0,12,2,0,3,7,9,WWLLW,1,0,1,3,3,6,1,3,1,6,6,DLDWD,1,0,1,2,2,WL,LW
+Portimonense,CD Santa Clara,1-2,/match/portimonense/santa-clara/2021,2021,6,primeira_liga,18,21,2,1,2,16,1,1,3,3,6,DWLLW,0,1,1,1,3,7,2,1,2,5,4,WLDWL,1,0,1,2,2,DL,LW
+Gil Vicente,Vitória,1-2,/match/gil-vicente/vitoria-guimaraes/2021,2021,6,primeira_liga,18,21,2,1,2,9,1,2,2,3,5,WWDDW,1,1,0,2,1,8,2,1,2,2,2,LDWLL,1,1,0,1,0,WD,DL
+Sporting CP,Tondela,4-0,/match/sporting-lisbon/tondela/2021,2021,6,primeira_liga,18,21,0,4,0,2,4,1,0,11,4,WLLDL,1,1,0,5,3,11,1,2,2,4,8,DWLDW,0,1,1,2,3,WD,WD
+Sporting Braga,Famalicão,1-0,/match/sporting-braga/famalicao/2021,2021,6,primeira_liga,18,21,0,1,0,5,3,0,2,8,5,WLLWL,1,0,1,2,2,10,1,3,1,9,12,LLDDD,1,1,0,5,4,LW,LD
+Boavista,Benfica,3-0,/match/boavista/benfica/2021,2021,6,primeira_liga,18,21,0,3,0,17,0,3,2,6,12,DLDLD,0,0,2,0,6,1,5,0,0,15,3,LWWLW,2,0,0,8,1,LL,LL
+Belenenses,Rio Ave,0-0,/match/belenenses/rio-ave/2021,2021,7,primeira_liga,18,21,1,0,0,13,1,3,2,3,5,LLDDWD,0,2,1,2,3,6,2,3,1,5,5,DDDLLW,1,2,0,3,2,LDD,DDL
+Tondela,CD Santa Clara,2-0,/match/tondela/santa-clara/2021,2021,7,primeira_liga,18,21,0,2,0,15,1,2,3,4,12,DWLDWW,1,1,1,2,5,7,3,1,2,7,5,WLDWLL,2,0,1,4,3,DLW,LWL
+Famalicão,Marítimo,2-1,/match/famalicao/maritimo/2021,2021,7,primeira_liga,18,21,0,2,1,14,1,3,2,9,13,LLDDDW,0,2,1,4,8,11,2,1,3,7,9,WWLLWD,1,0,2,4,6,LDD,WLW
+Vitória,Sporting CP,0-4,/match/vitoria-guimaraes/sporting-lisbon/2021,2021,7,primeira_liga,18,21,2,0,4,10,3,1,2,4,3,LDWLLL,1,0,2,1,2,2,5,1,0,15,4,WLLDLW,3,0,0,6,1,LWL,LLL
+Nacional,Gil Vicente,2-1,/match/nacional/gil-vicente/2021,2021,7,primeira_liga,18,21,0,2,1,9,1,4,1,6,6,DLDWDD,0,3,0,4,4,16,1,2,3,4,7,WWDDWL,0,1,2,1,4,DDD,WDW
+Farense,Boavista,3-1,/match/farense/boavista/2021,2021,7,primeira_liga,18,21,0,3,1,18,0,2,4,6,11,WLWDLD,0,1,2,3,5,12,1,3,2,9,12,DLDLDW,0,3,0,6,6,LDL,DDD
+Porto,Portimonense,3-1,/match/fc-porto/portimonense/2021,2021,7,primeira_liga,18,21,0,3,1,4,3,1,2,15,9,WLLDWW,2,0,1,6,4,17,1,1,4,4,8,DWLLWL,1,0,2,2,3,WLW,WLW
+Benfica,Sporting Braga,2-3,/match/benfica/sporting-braga/2021,2021,7,primeira_liga,18,21,2,2,3,1,5,0,1,15,6,LWWLWW,3,0,0,7,2,3,4,0,2,9,5,WLLWLW,2,0,1,6,3,WWW,WLL
+Moreirense,Paços Ferreira,0-1,/match/moreirense-fc/pacos-ferreira/2021,2021,7,primeira_liga,18,21,2,0,1,5,2,2,2,5,6,WWDDWW,2,1,0,5,2,8,2,2,2,7,8,DLWWDW,0,2,1,2,3,WDW,DWD
+Paços Ferreira,Famalicão,2-0,/match/pacos-ferreira/famalicao/2021,2021,8,primeira_liga,18,21,0,2,0,6,3,2,2,8,8,DLWWDWL,2,0,1,5,5,10,2,3,2,11,14,LLDDDWW,1,1,1,5,5,LWW,LDW
+Tondela,Vitória,0-2,/match/tondela/vitoria-guimaraes/2021,2021,8,primeira_liga,18,21,2,0,2,9,2,2,3,6,12,DWLDWWW,2,1,1,4,5,13,3,1,3,4,7,LDWLLLL,2,1,0,3,1,DLWW,DLL
+CD Santa Clara,Porto,0-1,/match/santa-clara/fc-porto/2021,2021,8,primeira_liga,18,21,2,0,1,11,3,1,3,7,7,WLDWLLW,1,1,1,3,2,3,4,1,2,18,10,WLLDWWW,1,1,1,9,5,WDL,LDW
+Sporting CP,Moreirense,2-1,/match/sporting-lisbon/moreirense-fc/2021,2021,8,primeira_liga,18,21,0,2,1,1,6,1,0,19,4,WLLDLWL,2,1,0,9,3,7,2,2,3,5,7,WWDDWWL,0,1,2,0,4,WDW,WDW
+Gil Vicente,Rio Ave,2-0,/match/gil-vicente/rio-ave/2021,2021,8,primeira_liga,18,21,0,2,0,16,1,2,4,5,9,WWDDWLW,1,1,1,3,3,8,2,4,1,5,5,DDDLLWD,1,3,0,3,2,WDL,DDLD
+Portimonense,Nacional,1-0,/match/portimonense/nacional/2021,2021,8,primeira_liga,18,21,0,1,0,18,1,1,5,5,11,DWLLWLW,0,1,2,2,5,5,2,4,1,8,7,DLDWDDW,1,1,1,2,2,DLL,LWD
+Boavista,Belenenses,0-0,/match/boavista/belenenses/2021,2021,8,primeira_liga,18,21,1,0,0,15,1,3,3,10,15,DLDLDWW,1,0,2,3,6,12,1,4,2,3,5,LLDDWDD,1,1,1,1,2,LLW,LDW
+Sporting Braga,Farense,1-0,/match/sporting-braga/farense/2021,2021,8,primeira_liga,18,21,0,1,0,4,5,0,2,12,7,WLLWLWL,2,0,1,3,2,17,1,2,4,9,12,WLWDLDW,0,1,2,3,6,LWW,WWD
+Marítimo,Benfica,1-2,/match/maritimo/benfica/2021,2021,8,primeira_liga,18,21,2,1,2,14,2,1,4,8,11,WWLLWDW,1,1,1,3,3,2,5,0,2,17,9,LWWLWWL,2,0,1,8,4,WLD,LLW
+Vitória,Portimonense,1-0,/match/vitoria-guimaraes/portimonense/2021,2021,9,primeira_liga,18,21,0,1,0,8,4,1,3,6,7,LDWLLLLL,1,0,3,1,6,17,2,1,5,6,11,DWLLWLWW,1,0,3,3,6,LWLL,WLWW
+Moreirense,Gil Vicente,1-1,/match/moreirense-fc/gil-vicente/2021,2021,9,primeira_liga,18,21,1,1,1,12,2,2,4,6,9,WWDDWWLW,2,1,1,5,3,7,2,2,4,7,9,WWDDWLWW,0,1,3,2,6,WDWL,WDWW
+Famalicão,Sporting CP,2-2,/match/famalicao/sporting-lisbon/2021,2021,9,primeira_liga,18,21,1,2,2,9,2,3,3,11,16,LLDDDWWW,1,2,1,6,9,1,7,1,0,21,5,WLLDLWLW,4,0,0,10,1,LDDW,LLLL
+Porto,Tondela,4-3,/match/fc-porto/tondela/2021,2021,9,primeira_liga,18,21,0,4,3,4,5,1,2,19,10,WLLDWWWL,3,0,1,9,5,10,2,2,4,6,14,DWLDWWWL,0,1,2,2,7,WLWW,WDW
+Nacional,CD Santa Clara,1-3,/match/nacional/santa-clara/2021,2021,9,primeira_liga,18,21,2,1,3,6,2,4,2,8,8,DLDWDDWW,1,3,0,6,5,13,3,1,4,7,8,WLDWLLWL,2,0,2,4,5,DDDW,LWLW
+Rio Ave,Boavista,0-0,/match/rio-ave/boavista/2021,2021,9,primeira_liga,18,21,1,0,0,11,2,4,2,5,7,DDDLLWDW,1,1,1,2,3,15,1,4,3,10,15,DLDLDWWD,0,3,1,7,9,DLW,DDDW
+Belenenses,Sporting Braga,2-1,/match/belenenses/sporting-braga/2021,2021,9,primeira_liga,18,21,0,2,1,14,1,5,2,3,5,LLDDWDDD,0,3,1,2,3,3,6,0,2,13,7,WLLWLWLW,3,0,1,9,5,LDDD,WLLL
+Benfica,Paços Ferreira,2-1,/match/benfica/pacos-ferreira/2021,2021,9,primeira_liga,18,21,0,2,1,2,6,0,2,19,10,LWWLWWLL,3,0,1,9,5,5,4,2,2,10,8,DLWWDWLW,1,2,1,3,3,WWWL,DWDL
+Farense,Marítimo,2-1,/match/farense/maritimo/2021,2021,9,primeira_liga,18,21,0,2,1,18,1,2,5,9,13,WLWDLDWW,1,1,2,6,6,16,2,1,5,9,13,WWLLWDWL,1,0,3,5,8,LDLW,WLWW
+Portimonense,Famalicão,0-0,/match/portimonense/famalicao/2021,2021,10,primeira_liga,18,21,1,0,0,18,2,1,6,6,12,DWLLWLWWW,1,1,2,3,5,9,2,4,3,13,18,LLDDDWWWD,1,1,2,5,7,DLLW,LDWW
+Marítimo,Belenenses,1-0,/match/maritimo/belenenses/2021,2021,10,primeira_liga,18,21,0,1,0,17,2,1,6,10,15,WWLLWDWLW,1,1,2,4,5,7,2,5,2,5,6,LLDDWDDDW,1,2,1,1,2,WLDL,LDWD
+Tondela,Moreirense,0-0,/match/tondela/moreirense-fc/2021,2021,10,primeira_liga,18,21,1,0,0,14,2,2,5,9,18,DWLDWWWLW,2,1,2,4,7,11,2,3,4,7,10,WWDDWWLWD,0,1,3,1,6,DLWWL,WDWW
+Sporting CP,Farense,1-0,/match/sporting-lisbon/farense/2021,2021,10,primeira_liga,18,21,0,1,0,1,7,2,0,23,7,WLLDLWLWD,3,1,0,11,4,15,2,2,5,11,14,WLWDLDWWW,0,1,3,3,7,WDWW,WWDW
+Paços Ferreira,Boavista,1-1,/match/pacos-ferreira/boavista/2021,2021,10,primeira_liga,18,21,1,1,1,5,4,2,3,11,10,DLWWDWLWW,3,0,1,7,5,16,1,5,3,10,15,DLDLDWWDD,0,4,1,7,9,LWWW,DDDWD
+Gil Vicente,Benfica,0-2,/match/gil-vicente/benfica/2021,2021,10,primeira_liga,18,21,2,0,2,12,2,3,4,8,10,WWDDWLWWD,2,1,1,5,3,2,7,0,2,21,11,LWWLWWLLW,3,0,1,10,5,WDLW,LLWL
+Porto,Nacional,2-0,/match/fc-porto/nacional/2021,2021,10,primeira_liga,18,21,0,2,0,3,6,1,2,23,13,WLLDWWWLW,4,0,1,13,8,8,2,4,3,9,11,DLDWDDWWL,1,1,2,2,3,WLWWW,LWDW
+CD Santa Clara,Vitória,0-4,/match/santa-clara/vitoria-guimaraes/2021,2021,10,primeira_liga,18,21,2,0,4,13,4,1,4,10,9,WLDWLLWLL,1,1,2,3,3,6,5,1,3,7,7,LDWLLLLLW,3,1,0,5,1,WDLL,DLLL
+Sporting Braga,Rio Ave,3-0,/match/sporting-braga/rio-ave/2021,2021,10,primeira_liga,18,21,0,3,0,4,6,0,3,14,9,WLLWLWLWW,3,0,1,4,2,10,2,5,2,5,7,DDDLLWDWD,1,3,1,3,4,LWWW,DDLDW
+Famalicão,Gil Vicente,0-1,/match/famalicao/gil-vicente/2021,2021,11,primeira_liga,18,21,2,0,1,9,2,5,3,13,18,LLDDDWWWDD,1,3,1,8,11,13,2,3,5,8,12,WWDDWLWWDL,0,2,3,3,7,LDDWD,WDWWD
+Nacional,Tondela,2-0,/match/nacional/tondela/2021,2021,11,primeira_liga,18,21,0,2,0,12,2,4,4,9,13,DLDWDDWWLW,1,3,1,7,8,10,2,3,5,9,18,DWLDWWWLWD,0,1,3,5,11,DDDWL,WDWW
+Farense,Paços Ferreira,1-1,/match/farense/pacos-ferreira/2021,2021,11,primeira_liga,18,21,1,1,1,16,2,2,6,11,15,WLWDLDWWWW,2,1,2,8,7,5,4,3,3,12,11,DLWWDWLWWD,1,2,2,4,5,LDLWW,DWDLW
+Belenenses,Sporting CP,1-2,/match/belenenses/sporting-lisbon/2021,2021,11,primeira_liga,18,21,2,1,2,8,2,5,3,5,7,LLDDWDDDWW,1,3,1,4,4,1,8,2,0,24,7,WLLDLWLWDW,4,1,0,12,3,LDDDW,LLLLD
+Rio Ave,Marítimo,1-3,/match/rio-ave/maritimo/2021,2021,11,primeira_liga,18,21,2,1,3,11,2,5,3,5,10,DDDLLWDWDW,1,2,1,2,3,15,3,1,6,11,15,WWLLWDWLWW,1,0,4,6,10,DLWD,WLWWW
+Boavista,Sporting Braga,1-4,/match/boavista/sporting-braga/2021,2021,11,primeira_liga,18,21,2,1,4,17,1,6,3,11,16,DLDLDWWDDD,1,1,2,3,6,4,7,0,3,17,9,WLLWLWLWWW,3,0,2,10,7,LLWD,WLLLW
+Benfica,Portimonense,2-1,/match/benfica/portimonense/2021,2021,11,primeira_liga,18,21,0,2,1,3,8,0,2,23,11,LWWLWWLLWL,4,0,1,11,6,18,2,2,6,6,12,DWLLWLWWWD,1,0,4,3,7,WWWLW,WLWWW
+Moreirense,CD Santa Clara,1-0,/match/moreirense-fc/santa-clara/2021,2021,11,primeira_liga,18,21,0,1,0,7,2,4,4,7,10,WWDDWWLWDD,2,2,1,6,4,14,4,1,5,10,13,WLDWLLWLLL,3,0,2,7,6,WDWLD,LWLWL
+Vitória,Porto,2-3,/match/vitoria-guimaraes/fc-porto/2021,2021,11,primeira_liga,18,21,2,2,3,6,6,1,3,11,7,LDWLLLLLWL,2,0,3,2,6,2,7,1,2,25,13,WLLDWWWLWW,2,1,1,10,5,LWLLW,LDWL
+Sporting CP,Sporting Braga,2-0,/match/sporting-lisbon/sporting-braga/2021,2021,12,primeira_liga,18,21,0,2,0,1,9,2,0,26,8,WLLDLWLWDWL,4,1,0,12,4,4,8,0,3,21,10,WLLWLWLWWWL,4,0,2,14,8,WDWWW,WLLLWL
+Tondela,Famalicão,1-0,/match/tondela/famalicao/2021,2021,12,primeira_liga,18,21,0,1,0,14,2,3,6,9,20,DWLDWWWLWDW,2,2,2,4,7,11,2,5,4,13,19,LLDDDWWWDDL,1,2,2,5,7,DLWWLD,LDWWD
+Marítimo,Boavista,0-0,/match/maritimo/boavista/2021,2021,12,primeira_liga,18,21,1,0,0,9,4,1,6,14,16,WWLLWDWLWWL,2,1,2,5,5,17,1,6,4,12,20,DLDLDWWDDDL,0,5,1,8,10,WLDLW,DDDWDD
+Paços Ferreira,Rio Ave,2-0,/match/pacos-ferreira/rio-ave/2021,2021,12,primeira_liga,18,21,0,2,0,5,4,4,3,13,12,DLWWDWLWWDD,3,1,1,8,6,15,2,5,4,6,13,DDDLLWDWDWL,1,3,2,3,7,LWWWD,DDLDWW
+Porto,Moreirense,3-0,/match/fc-porto/moreirense-fc/2021,2021,12,primeira_liga,18,21,0,3,0,3,8,1,2,28,15,WLLDWWWLWWL,5,0,1,15,8,6,3,4,4,8,10,WWDDWWLWDDW,0,2,3,1,6,WLWWWW,WDWWD
+CD Santa Clara,Benfica,1-1,/match/santa-clara/benfica/2021,2021,12,primeira_liga,18,21,1,1,1,16,4,1,6,10,14,WLDWLLWLLLW,1,1,3,3,7,2,9,0,2,25,12,LWWLWWLLWLW,4,0,1,12,5,WDLLL,LLWLL
+Gil Vicente,Belenenses,0-0,/match/gil-vicente/belenenses/2021,2021,12,primeira_liga,18,21,1,0,0,12,3,3,5,9,12,WWDDWLWWDLL,2,1,2,5,5,10,2,5,4,6,9,LLDDWDDDWWL,1,2,2,1,3,WDLWL,LDWDW
+Portimonense,Farense,2-0,/match/portimonense/farense/2021,2021,12,primeira_liga,18,21,0,2,0,18,2,2,7,7,14,DWLLWLWWWDW,1,2,2,3,5,13,2,3,6,12,16,WLWDLDWWWWD,0,1,4,3,8,DLLWD,WWDWW
+Vitória,Nacional,3-1,/match/vitoria-guimaraes/nacional/2021,2021,12,primeira_liga,18,21,0,3,1,7,6,1,4,13,10,LDWLLLLLWLL,2,0,4,4,9,8,3,4,4,11,13,DLDWDDWWLWW,1,1,3,2,5,LWLLWL,LWDWW
+Sporting Braga,Marítimo,2-1,/match/sporting-braga/maritimo/2021,2021,13,primeira_liga,18,21,0,2,1,4,8,0,4,21,12,WLLWLWLWWWLW,4,0,1,7,2,11,4,2,6,14,16,WWLLWDWLWWLD,2,0,4,9,11,LWWWW,WLWWWL
+Nacional,Sporting CP,0-2,/match/nacional/sporting-lisbon/2021,2021,13,primeira_liga,18,21,2,0,2,8,3,4,5,12,16,DLDWDDWWLWWW,2,3,1,9,8,1,10,2,0,28,8,WLLDLWLWDWLW,5,1,0,14,4,DDDWLW,LLLLDL
+Benfica,Tondela,2-0,/match/benfica/tondela/2021,2021,13,primeira_liga,18,21,0,2,0,3,9,1,2,26,13,LWWLWWLLWLWD,5,0,1,13,7,9,3,3,6,10,20,DWLDWWWLWDWW,0,1,4,5,13,WWWLWW,WDWWW
+Rio Ave,Portimonense,3-0,/match/rio-ave/portimonense/2021,2021,13,primeira_liga,18,21,0,3,0,17,2,5,5,6,15,DDDLLWDWDWLW,1,2,2,3,6,15,3,2,7,9,14,DWLLWLWWWDWW,1,0,5,4,9,DLWDL,WLWWWW
+Famalicão,Porto,1-4,/match/famalicao/fc-porto/2021,2021,13,primeira_liga,18,21,2,1,4,13,2,5,5,13,20,LLDDDWWWDDLW,1,3,2,8,12,2,9,1,2,31,15,WLLDWWWLWWLW,3,1,1,13,7,LDDWDL,LDWLL
+Moreirense,Vitória,2-2,/match/moreirense-fc/vitoria-guimaraes/2021,2021,13,primeira_liga,18,21,1,2,2,7,3,4,5,8,13,WWDDWWLWDDWW,3,2,1,7,4,6,7,1,4,16,11,LDWLLLLLWLLW,4,1,0,9,1,WDWLDW,DLLLL
+Boavista,CD Santa Clara,1-1,/match/boavista/santa-clara/2021,2021,13,primeira_liga,18,21,1,1,1,18,1,7,4,12,20,DLDLDWWDDDLD,1,1,3,4,10,14,4,2,6,11,15,WLDWLLWLLLWD,3,0,3,7,7,LLWDL,LWLWLW
+Farense,Gil Vicente,3-1,/match/farense/gil-vicente/2021,2021,13,primeira_liga,18,21,0,3,1,16,2,3,7,12,18,WLWDLDWWWWDW,2,2,2,9,8,10,3,4,5,9,12,WWDDWLWWDLLD,1,2,3,4,7,LDLWWD,WDWWDL
+Belenenses,Paços Ferreira,0-2,/match/belenenses/pacos-ferreira/2021,2021,13,primeira_liga,18,21,2,0,2,12,2,6,4,6,9,LLDDWDDDWWLD,1,3,2,5,6,5,5,4,3,15,12,DLWWDWLWWDDW,1,3,2,5,6,LDDDWL,DWDLWD
+Sporting CP,Rio Ave,1-1,/match/sporting-lisbon/rio-ave/2021,2021,14,primeira_liga,18,21,1,1,1,1,11,2,0,30,8,WLLDLWLWDWLWL,5,1,0,14,4,11,3,5,5,9,15,DDDLLWDWDWLWW,1,3,3,3,9,WDWWWW,DDLDWWW
+Porto,Benfica,1-1,/match/fc-porto/benfica/2021,2021,14,primeira_liga,18,21,1,1,1,3,10,1,2,35,16,WLLDWWWLWWLWL,6,0,1,18,8,2,10,1,2,28,13,LWWLWWLLWLWDW,4,1,1,13,6,WLWWWWW,LLWLLD
+Paços Ferreira,Sporting Braga,2-0,/match/pacos-ferreira/sporting-braga/2021,2021,14,primeira_liga,18,21,0,2,0,5,6,4,3,17,12,DLWWDWLWWDDWL,4,1,1,10,6,4,9,0,4,23,13,WLLWLWLWWWLWW,4,0,3,14,10,LWWWDW,WLLLWLW
+Tondela,Boavista,3-1,/match/tondela/boavista/2021,2021,14,primeira_liga,18,21,0,3,1,10,3,3,7,10,22,DWLDWWWLWDWWW,3,2,2,5,7,18,1,8,4,13,21,DLDLDWWDDDLDD,0,6,1,8,10,DLWWLDW,DDDWDDD
+Nacional,Moreirense,0-1,/match/nacional/moreirense-fc/2021,2021,14,primeira_liga,18,21,2,0,1,9,3,4,6,12,18,DLDWDDWWLWWWL,2,3,2,9,10,7,3,5,5,10,15,WWDDWWLWDDWWD,0,2,4,1,9,DDDWLWL,WDWWDW
+CD Santa Clara,Famalicão,1-2,/match/santa-clara/famalicao/2021,2021,14,primeira_liga,18,21,2,1,2,14,4,3,6,12,16,WLDWLLWLLLWDD,1,2,3,4,8,16,2,5,6,14,24,LLDDDWWWDDLWL,1,2,3,5,8,WDLLLD,LDWWDW
+Gil Vicente,Marítimo,0-1,/match/gil-vicente/maritimo/2021,2021,14,primeira_liga,18,21,2,0,1,12,3,4,6,10,15,WWDDWLWWDLLDW,2,2,2,5,5,13,4,2,7,15,18,WWLLWDWLWWLDW,2,0,5,10,13,WDLWLD,WLWWWLW
+Portimonense,Belenenses,1-0,/match/portimonense/belenenses/2021,2021,14,primeira_liga,18,21,0,1,0,17,3,2,8,9,17,DWLLWLWWWDWWW,2,2,2,5,5,15,2,6,5,6,11,LLDDWDDDWWLDL,1,3,2,1,3,DLLWDW,LDWDWD
+Vitória,Farense,2-2,/match/vitoria-guimaraes/farense/2021,2021,14,primeira_liga,18,21,1,2,2,6,7,2,4,18,13,LDWLLLLLWLLWD,3,0,4,7,10,8,3,3,7,15,19,WLWDLDWWWWDWW,0,1,5,3,10,LWLLWLW,WWDWWW
+Marítimo,Paços Ferreira,0-3,/match/maritimo/pacos-ferreira/2021,2021,15,primeira_liga,18,21,2,0,3,11,5,2,7,16,18,WWLLWDWLWWLDWL,2,2,2,5,5,4,7,4,3,19,12,DLWWDWLWWDDWLW,2,3,2,7,6,WLDLWD,DWDLWDL
+Moreirense,Portimonense,2-2,/match/moreirense-fc/portimonense/2021,2021,15,primeira_liga,18,21,1,2,2,7,4,5,5,11,15,WWDDWWLWDDWWDL,3,3,1,9,6,12,4,2,8,10,17,DWLLWLWWWDWWWW,1,0,6,4,12,WDWLDWD,WLWWWWW
+Famalicão,Vitória,0-1,/match/famalicao/vitoria-guimaraes/2021,2021,15,primeira_liga,18,21,2,0,1,15,3,5,6,16,25,LLDDDWWWDDLWLL,1,3,3,9,16,6,7,3,4,20,15,LDWLLLLLWLLWDD,4,2,0,11,3,LDDWDLL,DLLLLD
+Belenenses,Tondela,2-0,/match/belenenses/tondela/2021,2021,15,primeira_liga,18,21,0,2,0,17,2,6,6,6,12,LLDDWDDDWWLDLW,1,3,3,5,8,8,4,3,7,13,23,DWLDWWWLWDWWWW,0,1,5,5,15,LDDDWLL,WDWWWW
+Rio Ave,CD Santa Clara,1-2,/match/rio-ave/santa-clara/2021,2021,15,primeira_liga,18,21,2,1,2,10,3,6,5,10,16,DDDLLWDWDWLWWD,2,2,2,6,6,16,4,3,7,13,18,WLDWLLWLLLWDDL,3,1,3,8,8,DLWDLW,LWLWLWD
+Benfica,Nacional,1-1,/match/benfica/nacional/2021,2021,15,primeira_liga,18,21,1,1,1,3,10,2,2,29,14,LWWLWWLLWLWDWD,6,0,1,15,7,13,3,4,7,12,19,DLDWDDWWLWWWLL,1,1,4,3,8,WWWLWWW,LWDWWW
+Farense,Porto,0-1,/match/farense/fc-porto/2021,2021,15,primeira_liga,18,21,2,0,1,9,3,4,7,17,21,WLWDLDWWWWDWWD,3,2,2,12,9,2,10,2,2,36,17,WLLDWWWLWWLWLD,4,1,1,17,8,LDLWWDW,LDWLLL
+Sporting Braga,Gil Vicente,1-0,/match/sporting-braga/gil-vicente/2021,2021,15,primeira_liga,18,21,0,1,0,5,9,0,5,23,15,WLLWLWLWWWLWWW,5,0,1,9,3,14,3,4,7,10,16,WWDDWLWWDLLDWL,1,2,4,5,10,LWWWWW,WDWWDLW
+Boavista,Sporting CP,0-2,/match/boavista/sporting-lisbon/2021,2021,15,primeira_liga,18,21,2,0,2,18,1,8,5,14,24,DLDLDWWDDDLDDW,1,2,3,5,11,1,11,3,0,31,9,WLLDLWLWDWLWLD,6,1,0,16,4,LLWDLD,LLLLDLL
+Nacional,Famalicão,2-1,/match/nacional/famalicao/2021,2021,16,primeira_liga,18,21,0,2,1,11,3,5,7,13,20,DLDWDDWWLWWWLLD,2,3,3,9,11,17,3,5,7,16,26,LLDDDWWWDDLWLLL,2,2,3,7,9,DDDWLWLL,LDWWDWL
+Tondela,Farense,2-0,/match/tondela/farense/2021,2021,16,primeira_liga,18,21,0,2,0,8,4,3,8,13,25,DWLDWWWLWDWWWWW,4,2,2,8,8,14,3,4,8,17,22,WLWDLDWWWWDWWDL,0,2,5,5,12,DLWWLDWW,WWDWWWD
+Portimonense,Boavista,1-2,/match/portimonense/boavista/2021,2021,16,primeira_liga,18,21,2,1,2,9,4,3,8,12,19,DWLLWLWWWDWWWWD,3,2,2,6,5,18,1,8,6,14,26,DLDLDWWDDDLDDWL,0,6,2,9,13,DLLWDWW,DDDWDDDW
+Vitória,Marítimo,1-0,/match/vitoria-guimaraes/maritimo/2021,2021,16,primeira_liga,18,21,0,1,0,6,8,3,4,21,15,LDWLLLLLWLLWDDL,3,1,4,9,12,13,5,2,8,16,21,WWLLWDWLWWLDWLL,3,0,5,11,13,LWLLWLWD,WLWWWLWL
+CD Santa Clara,Belenenses,2-0,/match/santa-clara/belenenses/2021,2021,16,primeira_liga,18,21,0,2,0,15,5,3,7,15,19,WLDWLLWLLLWDDLL,1,2,4,5,10,10,3,6,6,8,12,LLDDWDDDWWLDLWW,1,3,3,1,4,WDLLLDL,LDWDWDW
+Porto,Rio Ave,2-0,/match/fc-porto/rio-ave/2021,2021,16,primeira_liga,18,21,0,2,0,2,11,2,2,37,17,WLLDWWWLWWLWLDL,6,1,1,19,9,12,3,6,6,11,18,DDDLLWDWDWLWWDL,1,4,3,4,10,WLWWWWWD,DDLDWWWD
+Moreirense,Sporting Braga,0-4,/match/moreirense-fc/sporting-braga/2021,2021,16,primeira_liga,18,21,2,0,4,7,4,6,5,13,17,WWDDWWLWDDWWDLD,3,4,1,11,8,4,10,0,5,24,15,WLLWLWLWWWLWWWW,4,0,4,14,12,WDWLDWDD,WLLLWLWW
+Sporting CP,Benfica,1-0,/match/sporting-lisbon/benfica/2021,2021,16,primeira_liga,18,21,0,1,0,1,12,3,0,33,9,WLLDLWLWDWLWLDL,5,2,0,15,5,3,10,3,2,30,15,LWWLWWLLWLWDWDD,4,2,1,14,7,WDWWWWD,LLWLLDD
+Gil Vicente,Paços Ferreira,1-2,/match/gil-vicente/pacos-ferreira/2021,2021,16,primeira_liga,18,21,2,1,2,16,3,4,8,10,17,WWDDWLWWDLLDWLW,2,2,3,5,6,5,8,4,3,22,12,DLWWDWLWWDDWLWL,3,3,2,10,6,WDLWLDL,DWDLWDLL
+Farense,CD Santa Clara,1-1,/match/farense/santa-clara/2021,2021,17,primeira_liga,18,21,1,1,1,15,3,4,9,17,24,WLWDLDWWWWDWWDLW,3,2,3,12,10,10,6,3,7,17,19,WLDWLLWLLLWDDLLW,4,1,3,10,9,LDLWWDWL,LWLWLWDL
+Belenenses,Porto,0-0,/match/belenenses/fc-porto/2021,2021,17,primeira_liga,18,21,1,0,0,11,3,6,7,8,14,LLDDWDDDWWLDLWWW,2,3,3,7,8,2,12,2,2,39,17,WLLDWWWLWWLWLDLW,5,1,1,18,8,LDDDWLLW,LDWLLLL
+Sporting Braga,Portimonense,2-1,/match/sporting-braga/portimonense/2021,2021,17,primeira_liga,18,21,0,2,1,4,11,0,5,28,15,WLLWLWLWWWLWWWWL,6,0,1,10,3,12,4,3,9,13,21,DWLLWLWWWDWWWWDL,1,1,6,6,14,LWWWWWW,WLWWWWWD
+Famalicão,Moreirense,0-2,/match/famalicao/moreirense-fc/2021,2021,17,primeira_liga,18,21,2,0,2,17,3,5,8,17,28,LLDDDWWWDDLWLLLW,1,3,4,9,17,8,4,6,6,13,21,WWDDWWLWDDWWDLDL,1,2,4,2,9,LDDWDLLL,WDWWDWL
+Rio Ave,Nacional,0-0,/match/rio-ave/nacional/2021,2021,17,primeira_liga,18,21,1,0,0,13,3,6,7,11,20,DDDLLWDWDWLWWDLW,2,2,3,7,8,9,4,5,7,15,21,DLDWDDWWLWWWLLDW,1,2,4,4,9,DLWDLWL,LWDWWWD
+Benfica,Vitória,0-0,/match/benfica/vitoria-guimaraes/2021,2021,17,primeira_liga,18,21,1,0,0,3,10,3,3,30,16,LWWLWWLLWLWDWDDW,6,1,1,16,8,6,9,3,4,22,15,LDWLLLLLWLLWDDLW,5,2,0,12,3,WWWLWWWD,DLLLLDL
+Marítimo,Sporting CP,0-2,/match/maritimo/sporting-lisbon/2021,2021,17,primeira_liga,18,21,2,0,2,14,5,2,9,16,22,WWLLWDWLWWLDWLLW,2,2,3,5,8,1,13,3,0,34,9,WLLDLWLWDWLWLDLW,7,1,0,18,4,WLDLWDL,LLLLDLLL
+Paços Ferreira,Tondela,2-1,/match/pacos-ferreira/tondela/2021,2021,17,primeira_liga,18,21,0,2,1,5,9,4,3,24,13,DLWWDWLWWDDWLWLL,5,1,1,12,6,7,5,3,8,15,25,DWLDWWWLWDWWWWWW,0,1,6,5,17,LWWWDWW,WDWWWWW
+Boavista,Gil Vicente,1-2,/match/boavista/gil-vicente/2021,2021,17,primeira_liga,18,21,2,1,2,18,2,8,6,16,27,DLDLDWWDDDLDDWLL,1,2,4,5,13,16,3,4,9,11,19,WWDDWLWWDLLDWLWL,1,2,5,5,11,LLWDLDL,WDWWDLWW
+Sporting Braga,Porto,2-2,/match/sporting-braga/fc-porto/2021,2021,18,primeira_liga,18,21,1,2,2,4,12,0,5,30,16,WLLWLWLWWWLWWWWLW,7,0,1,12,4,2,12,3,2,39,17,WLLDWWWLWWLWLDLWD,5,2,1,18,8,LWWWWWWW,LDWLLLLD
+Farense,Moreirense,1-2,/match/farense/moreirense-fc/2021,2021,18,primeira_liga,18,21,2,1,2,13,3,5,9,18,25,WLWDLDWWWWDWWDLWD,3,3,3,13,11,7,5,6,6,15,21,WWDDWWLWDDWWDLDLL,2,2,4,4,9,LDLWWDWLD,WDWWDWLL
+Benfica,Famalicão,2-0,/match/benfica/famalicao/2021,2021,18,primeira_liga,18,21,0,2,0,3,10,4,3,30,16,LWWLWWLLWLWDWDDWD,6,2,1,16,8,17,3,5,9,17,30,LLDDDWWWDDLWLLLWL,2,2,4,8,11,WWWLWWWDD,LDWWDWLW
+Marítimo,CD Santa Clara,1-2,/match/maritimo/santa-clara/2021,2021,18,primeira_liga,18,21,2,1,2,15,5,2,10,16,24,WWLLWDWLWWLDWLLWL,2,2,4,5,10,10,6,4,7,18,20,WLDWLLWLLLWDDLLWD,4,2,3,11,10,WLDLWDLL,LWLWLWDLD
+Belenenses,Vitória,1-1,/match/belenenses/vitoria-guimaraes/2021,2021,18,primeira_liga,18,21,1,1,1,11,3,7,7,8,14,LLDDWDDDWWLDLWWWD,2,4,3,7,8,6,9,4,4,22,15,LDWLLLLLWLLWDDLWD,5,3,0,12,3,LDDDWLLWD,DLLLLDLD
+Paços Ferreira,Portimonense,0-0,/match/pacos-ferreira/portimonense/2021,2021,18,primeira_liga,18,21,1,0,0,5,10,4,3,26,14,DLWWDWLWWDDWLWLLW,6,1,1,14,7,14,4,3,10,14,23,DWLLWLWWWDWWWWDLW,1,1,7,7,16,LWWWDWWW,WLWWWWWDW
+Rio Ave,Tondela,2-1,/match/rio-ave/tondela/2021,2021,18,primeira_liga,18,21,0,2,1,12,3,7,7,11,20,DDDLLWDWDWLWWDLWD,2,3,3,7,8,8,5,3,9,16,27,DWLDWWWLWDWWWWWWW,0,1,7,6,19,DLWDLWLD,WDWWWWWW
+Boavista,Nacional,0-1,/match/boavista/nacional/2021,2021,18,primeira_liga,18,21,2,0,1,18,2,8,7,17,29,DLDLDWWDDDLDDWLLL,1,2,5,6,15,9,4,6,7,15,21,DLDWDDWWLWWWLLDWD,1,3,4,4,9,LLWDLDLL,LWDWWWDD
+Gil Vicente,Sporting CP,1-2,/match/gil-vicente/sporting-lisbon/2021,2021,18,primeira_liga,18,21,2,1,2,16,4,4,9,13,20,WWDDWLWWDLLDWLWLL,2,2,4,6,8,1,14,3,0,36,9,WLLDLWLWDWLWLDLWL,8,1,0,20,4,WDLWLDLL,LLLLDLLLL
+Famalicão,Belenenses,0-0,/match/famalicao/belenenses/2021,2021,19,primeira_liga,18,21,1,0,0,17,3,5,10,17,32,LLDDDWWWDDLWLLLWLW,1,3,5,9,19,12,3,8,7,9,15,LLDDWDDDWWLDLWWWDD,1,3,4,1,6,LDDWDLLLL,LDWDWDWW
+Nacional,Farense,2-3,/match/nacional/farense/2021,2021,19,primeira_liga,18,21,2,2,3,9,5,6,7,16,21,DLDWDDWWLWWWLLDWDL,3,3,3,11,12,13,3,5,10,19,27,WLWDLDWWWWDWWDLWDL,0,2,6,5,14,DDDWLWLLW,WWDWWWDW
+Vitória,Rio Ave,1-3,/match/vitoria-guimaraes/rio-ave/2021,2021,19,primeira_liga,18,21,2,1,3,6,9,5,4,23,16,LDWLLLLLWLLWDDLWDD,4,1,4,10,12,10,4,7,7,13,21,DDDLLWDWDWLWWDLWDW,1,4,4,4,12,LWLLWLWDW,DDLDWWWDW
+Porto,Boavista,2-2,/match/fc-porto/boavista/2021,2021,19,primeira_liga,18,21,1,2,2,2,12,4,2,41,19,WLLDWWWLWWLWLDLWDD,7,1,1,21,9,18,2,8,8,17,30,DLDLDWWDDDLDDWLLLL,1,6,2,11,14,WLWWWWWDW,DDDWDDDWL
+Portimonense,Gil Vicente,4-1,/match/portimonense/gil-vicente/2021,2021,19,primeira_liga,18,21,0,4,1,14,4,4,10,14,23,DWLLWLWWWDWWWWDLWD,3,2,3,7,7,16,4,4,10,14,22,WWDDWLWWDLLDWLWLLL,2,2,5,7,12,DLLWDWWL,WDWWDLWWL
+CD Santa Clara,Sporting Braga,0-1,/match/santa-clara/sporting-braga/2021,2021,19,primeira_liga,18,21,2,0,1,11,7,4,7,20,21,WLDWLLWLLLWDDLLWDL,2,2,4,7,10,4,12,1,5,32,18,WLLWLWLWWWLWWWWLWD,5,0,4,18,12,WDLLLDLW,WLLLWLWWL
+Moreirense,Benfica,1-1,/match/moreirense-fc/benfica/2021,2021,19,primeira_liga,18,21,1,1,1,7,6,6,6,17,22,WWDDWWLWDDWWDLDLLL,3,4,2,11,12,3,11,4,3,32,16,LWWLWWLLWLWDWDDWDW,4,2,2,14,8,WDWLDWDDL,LLWLLDDW
+Sporting CP,Paços Ferreira,2-0,/match/sporting-lisbon/pacos-ferreira/2021,2021,19,primeira_liga,18,21,0,2,0,1,15,3,0,38,10,WLLDLWLWDWLWLDLWLL,6,2,0,16,5,5,10,5,3,26,14,DLWWDWLWWDDWLWLLWD,4,3,2,12,7,WDWWWWDW,DWDLWDLLL
+Tondela,Marítimo,2-1,/match/tondela/maritimo/2021,2021,19,primeira_liga,18,21,0,2,1,8,5,3,10,17,29,DWLDWWWLWDWWWWWWWW,5,2,2,10,8,15,5,2,11,17,26,WWLLWDWLWWLDWLLWLL,3,0,6,11,14,DLWWLDWWW,WLWWWLWLW
+Boavista,Moreirense,1-0,/match/boavista/moreirense-fc/2021,2021,20,primeira_liga,18,21,0,1,0,18,2,9,8,19,32,DLDLDWWDDDLDDWLLLLD,1,2,6,6,16,7,6,7,6,18,23,WWDDWWLWDDWWDLDLLLD,3,2,4,6,10,LLWDLDLLL,WDWWDWLLL
+Belenenses,Nacional,2-1,/match/belenenses/nacional/2021,2021,20,primeira_liga,18,21,0,2,1,12,3,9,7,9,15,LLDDWDDDWWLDLWWWDDD,2,5,3,8,9,10,5,6,8,18,24,DLDWDDWWLWWWLLDWDLL,2,3,4,5,9,LDDDWLLWDD,LWDWWWDDL
+Gil Vicente,CD Santa Clara,1-0,/match/gil-vicente/santa-clara/2021,2021,20,primeira_liga,18,21,0,1,0,16,4,4,11,15,26,WWDDWLWWDLLDWLWLLLW,2,2,5,7,10,11,7,4,8,20,22,WLDWLLWLLLWDDLLWDLL,5,2,3,13,11,WDLWLDLLL,LWLWLWDLDL
+Sporting CP,Portimonense,2-0,/match/sporting-lisbon/portimonense/2021,2021,20,primeira_liga,18,21,0,2,0,1,16,3,0,40,10,WLLDLWLWDWLWLDLWLLW,7,2,0,18,5,13,5,4,10,18,24,DWLLWLWWWDWWWWDLWDW,1,2,7,7,16,WDWWWWDWW,WLWWWWWDWD
+Paços Ferreira,Vitória,2-1,/match/pacos-ferreira/vitoria-guimaraes/2021,2021,20,primeira_liga,18,21,0,2,1,5,10,5,4,26,16,DLWWDWLWWDDWLWLLWDW,6,2,1,14,7,6,9,5,5,24,19,LDWLLLLLWLLWDDLWDDL,5,4,0,13,4,LWWWDWWWD,DLLLLDLDD
+Rio Ave,Famalicão,0-1,/match/rio-ave/famalicao/2021,2021,20,primeira_liga,18,21,2,0,1,9,5,7,7,16,22,DDDLLWDWDWLWWDLWDWL,3,3,3,9,9,17,3,6,10,17,32,LLDDDWWWDDLWLLLWLWD,2,2,5,8,13,DLWDLWLDW,LDWWDWLWW
+Sporting Braga,Tondela,4-2,/match/sporting-braga/tondela/2021,2021,20,primeira_liga,18,21,0,4,2,4,13,1,5,33,18,WLLWLWLWWWLWWWWLWDL,7,1,1,14,6,8,6,3,10,19,30,DWLDWWWLWDWWWWWWWWW,0,1,8,7,21,LWWWWWWWD,WDWWWWWWW
+Farense,Benfica,0-0,/match/farense/benfica/2021,2021,20,primeira_liga,18,21,1,0,0,14,4,5,10,22,29,WLWDLDWWWWDWWDLWDLL,3,3,4,14,13,3,11,5,3,33,17,LWWLWWLLWLWDWDDWDWD,4,3,2,15,9,LDLWWDWLDL,LLWLLDDWD
+Marítimo,Porto,1-2,/match/maritimo/fc-porto/2021,2021,20,primeira_liga,18,21,2,1,2,15,5,2,12,18,28,WWLLWDWLWWLDWLLWLLW,2,2,5,6,12,2,12,5,2,43,21,WLLDWWWLWWLWLDLWDDD,5,3,1,20,10,WLDLWDLLL,LDWLLLLDD
+Vitória,Boavista,2-1,/match/vitoria-guimaraes/boavista/2021,2021,21,primeira_liga,18,21,0,2,1,6,9,5,6,25,21,LDWLLLLLWLLWDDLWDDLW,4,1,5,11,15,16,3,9,8,20,32,DLDLDWWDDDLDDWLLLLDW,1,7,2,13,16,LWLLWLWDWL,DDDWDDDWLD
+Famalicão,Farense,0-0,/match/famalicao/farense/2021,2021,21,primeira_liga,18,21,1,0,0,17,4,6,10,18,32,LLDDDWWWDDLWLLLWLWDL,1,4,5,9,19,14,4,6,10,22,29,WLWDLDWWWWDWWDLWDLLD,1,2,6,8,16,LDDWDLLLLD,WWDWWWDWL
+CD Santa Clara,Paços Ferreira,3-0,/match/santa-clara/pacos-ferreira/2021,2021,21,primeira_liga,18,21,0,3,0,12,7,4,9,20,23,WLDWLLWLLLWDDLLWDLLW,2,2,5,7,11,5,11,5,4,28,17,DLWWDWLWWDDWLWLLWDWW,4,3,3,12,9,WDLLLDLWL,DWDLWDLLLW
+Porto,Sporting CP,0-0,/match/fc-porto/sporting-lisbon/2021,2021,21,primeira_liga,18,21,1,0,0,2,13,5,2,45,22,WLLDWWWLWWLWLDLWDDDL,7,2,1,23,11,1,17,3,0,42,10,WLLDLWLWDWLWLDLWLLWW,9,1,0,22,5,WLWWWWWDWD,LLLLDLLLLL
+Portimonense,Marítimo,0-0,/match/portimonense/maritimo/2021,2021,21,primeira_liga,18,21,1,0,0,13,5,4,11,18,26,DWLLWLWWWDWWWWDLWDWW,4,2,3,11,8,18,5,2,13,19,30,WWLLWDWLWWLDWLLWLLWL,3,0,7,12,16,DLLWDWWLW,WLWWWLWLWW
+Tondela,Gil Vicente,1-0,/match/tondela/gil-vicente/2021,2021,21,primeira_liga,18,21,0,1,0,8,6,3,11,21,34,DWLDWWWLWDWWWWWWWWWW,6,2,2,12,9,15,5,4,11,16,26,WWDDWLWWDLLDWLWLLLWW,2,2,6,8,16,DLWWLDWWWW,WDWWDLWWLW
+Nacional,Sporting Braga,1-2,/match/nacional/sporting-braga/2021,2021,21,primeira_liga,18,21,2,1,2,11,5,6,9,19,26,DLDWDDWWLWWWLLDWDLLW,3,3,4,13,15,3,14,1,5,37,20,WLLWLWLWWWLWWWWLWDLW,6,0,4,19,12,DDDWLWLLWL,WLLLWLWWLL

@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Bologna,Fiorentina,1-1,/match/bologna/fiorentina/2010,2010,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Siena,Milan,1-2,/match/siena/milan/2010,2010,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,SSC Bari,1-1,/match/internazionale/as-bari/2010,2010,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Udinese,Parma,2-2,/match/udinese/parma-fc/2010,2010,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Napoli,2-1,/match/palermo/napoli/2010,2010,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Livorno,Cagliari,0-0,/match/livorno/cagliari/2010,2010,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Atalanta,1-0,/match/lazio/atalanta/2010,2010,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Juventus,Chievo,1-0,/match/juventus-fc/chievo/2010,2010,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Genoa,Roma,3-2,/match/genoa/roma/2010,2010,1,serie_a,20,38,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Catania,Sampdoria,1-2,/match/catania/sampdoria/2010,2010,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SSC Bari,Bologna,0-0,/match/as-bari/bologna/2010,2010,2,serie_a,20,38,1,0,0,11,0,1,0,1,1,D,0,0,0,0,0,6,0,1,0,1,1,D,0,0,0,0,0,,
+Milan,Inter,0-4,/match/milan/internazionale/2010,2010,2,serie_a,20,38,2,0,4,9,1,0,0,2,1,L,0,0,0,0,0,10,0,1,0,1,1,D,0,0,0,0,0,,
+Roma,Juventus,1-3,/match/roma/juventus-fc/2010,2010,2,serie_a,20,38,2,1,3,19,0,0,1,2,3,W,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Parma,Catania,2-1,/match/parma-fc/catania/2010,2010,2,serie_a,20,38,0,2,1,14,0,1,0,2,2,D,0,0,0,0,0,16,0,0,1,1,2,L,0,0,0,0,0,,
+Napoli,Livorno,3-1,/match/napoli/livorno/2010,2010,2,serie_a,20,38,0,3,1,18,0,0,1,1,2,W,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
+Fiorentina,Palermo FC,1-0,/match/fiorentina/palermo/2010,2010,2,serie_a,20,38,0,1,0,13,0,1,0,1,1,D,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
+Chievo,Lazio,1-2,/match/chievo/lazio/2010,2010,2,serie_a,20,38,2,1,2,20,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
+Cagliari,Siena,1-3,/match/cagliari/siena/2010,2010,2,serie_a,20,38,2,1,3,12,0,1,0,0,0,D,0,0,0,0,0,17,0,0,1,1,2,L,0,0,0,0,0,,
+Atalanta,Genoa,0-1,/match/atalanta/genoa/2010,2010,2,serie_a,20,38,2,0,1,15,0,0,1,0,1,W,0,0,0,0,0,3,1,0,0,3,2,W,0,0,0,0,0,,
+Sampdoria,Udinese,3-1,/match/sampdoria/udinese/2010,2010,2,serie_a,20,38,0,3,1,7,1,0,0,2,1,L,0,0,0,0,0,8,0,1,0,2,2,D,0,0,0,0,0,,
+Livorno,Milan,0-0,/match/livorno/milan/2010,2010,3,serie_a,20,38,1,0,0,15,0,1,1,1,3,DW,0,1,0,0,0,12,1,0,1,2,5,LL,1,0,0,2,1,D,L
+Lazio,Juventus,0-2,/match/lazio/juventus-fc/2010,2010,3,serie_a,20,38,2,0,2,4,2,0,0,3,1,WL,1,0,0,1,0,2,2,0,0,4,1,WL,1,0,0,3,1,W,L
+Siena,Roma,1-2,/match/siena/roma/2010,2010,3,serie_a,20,38,2,1,2,14,1,0,1,4,3,LL,0,0,1,1,2,19,0,0,2,3,6,WL,0,0,1,2,3,L,W
+Palermo FC,SSC Bari,1-1,/match/palermo/as-bari/2010,2010,3,serie_a,20,38,1,1,1,7,1,0,1,2,2,WW,1,0,0,2,1,10,0,2,0,1,1,DD,0,1,0,1,1,W,D
+Atalanta,Sampdoria,0-1,/match/atalanta/sampdoria/2010,2010,3,serie_a,20,38,2,0,1,17,0,0,2,0,2,WL,0,0,1,0,1,3,2,0,0,5,2,LW,1,0,0,2,1,L,L
+Inter,Parma,2-0,/match/internazionale/parma-fc/2010,2010,3,serie_a,20,38,0,2,0,8,1,1,0,5,1,DL,0,1,0,1,1,5,1,1,0,4,3,DW,0,1,0,2,2,D,D
+Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/2010,2010,3,serie_a,20,38,0,1,0,6,1,1,0,2,1,DW,1,0,0,1,0,16,0,1,1,1,3,DL,0,1,0,0,0,W,D
+Bologna,Chievo,0-2,/match/bologna/chievo/2010,2010,3,serie_a,20,38,2,0,2,11,0,2,0,1,1,DD,0,1,0,1,1,20,0,0,2,1,3,WL,0,0,1,0,1,D,W
+Udinese,Catania,4-2,/match/udinese/catania/2010,2010,3,serie_a,20,38,0,4,2,13,0,1,1,3,5,DW,0,1,0,2,2,18,0,0,2,2,4,LW,0,0,1,1,2,D,W
+Genoa,Napoli,4-1,/match/genoa/napoli/2010,2010,3,serie_a,20,38,0,4,1,1,2,0,0,4,2,WL,1,0,0,3,2,9,1,0,1,4,3,WW,0,0,1,1,2,W,W
+Napoli,Udinese,0-0,/match/napoli/udinese/2010,2010,4,serie_a,20,38,1,0,0,10,1,0,2,5,7,WWW,1,0,0,3,1,6,1,1,1,7,7,DWW,0,0,1,1,3,W,W
+Juventus,Livorno,2-0,/match/juventus-fc/livorno/2010,2010,4,serie_a,20,38,0,2,0,5,3,0,0,6,1,WLL,1,0,0,1,0,12,0,2,1,1,3,DWD,0,0,1,1,3,W,W
+SSC Bari,Atalanta,4-1,/match/as-bari/atalanta/2010,2010,4,serie_a,20,38,0,4,1,11,0,3,0,2,2,DDD,0,1,0,0,0,19,0,0,3,0,3,WLL,0,0,1,0,1,D,W
+Parma,Palermo FC,1-0,/match/parma-fc/palermo/2010,2010,4,serie_a,20,38,0,1,0,9,1,1,1,4,5,DWW,1,0,0,2,1,8,1,1,1,3,3,WWD,0,0,1,0,1,W,W
+Milan,Bologna,1-0,/match/milan/bologna/2010,2010,4,serie_a,20,38,0,1,0,14,1,1,1,2,5,LLD,0,0,1,0,4,13,0,2,1,1,3,DDL,0,1,0,0,0,L,D
+Chievo,Genoa,3-1,/match/chievo/genoa/2010,2010,4,serie_a,20,38,0,3,1,17,1,0,2,3,3,WLL,0,0,1,1,2,1,3,0,0,8,3,WLW,1,0,0,1,0,L,L
+Catania,Lazio,1-1,/match/catania/lazio/2010,2010,4,serie_a,20,38,1,1,1,20,0,0,3,4,8,LWW,0,0,1,1,2,7,2,0,1,3,3,WLL,1,0,0,2,1,L,L
+Cagliari,Inter,1-2,/match/cagliari/internazionale/2010,2010,4,serie_a,20,38,2,1,2,18,0,1,2,1,4,DLW,0,0,1,1,3,4,2,1,0,7,1,DLW,1,0,0,4,0,L,L
+Sampdoria,Siena,4-1,/match/sampdoria/siena/2010,2010,4,serie_a,20,38,0,4,1,3,3,0,0,6,2,LWL,1,0,0,3,1,15,1,0,2,5,5,LLL,1,0,0,3,1,W,L
+Roma,Fiorentina,3-1,/match/roma/fiorentina/2010,2010,4,serie_a,20,38,0,3,1,16,1,0,2,5,7,WLL,0,0,1,1,3,2,2,1,0,3,1,DWW,0,1,0,1,1,L,D
+Atalanta,Catania,0-0,/match/atalanta/catania/2010,2010,5,serie_a,20,38,1,0,0,20,0,0,4,1,7,WLLW,0,0,2,0,2,18,0,1,3,5,9,LWWD,0,0,2,3,6,LL,WW
+Siena,Chievo,0-0,/match/siena/chievo/2010,2010,5,serie_a,20,38,1,0,0,17,1,0,3,6,9,LLLW,0,0,2,2,4,14,2,0,2,6,4,WLLW,1,0,1,2,1,LL,WL
+Palermo FC,Roma,3-3,/match/palermo/roma/2010,2010,5,serie_a,20,38,1,3,3,11,1,1,2,3,4,WWDW,1,1,0,3,2,13,2,0,2,8,8,WLLW,1,0,1,4,4,WD,WL
+Lazio,Parma,1-2,/match/lazio/parma-fc/2010,2010,5,serie_a,20,38,2,1,2,8,2,1,1,4,4,WLLD,1,0,1,1,2,5,2,1,1,5,5,DWWW,0,1,1,2,4,WL,DW
+Inter,Napoli,3-1,/match/internazionale/napoli/2010,2010,5,serie_a,20,38,0,3,1,4,3,1,0,9,2,DLWL,1,1,0,3,1,12,1,1,2,5,7,WWWD,0,0,2,2,6,DW,WW
+Fiorentina,Sampdoria,2-0,/match/fiorentina/sampdoria/2010,2010,5,serie_a,20,38,0,2,0,6,2,1,1,4,4,DWWW,2,0,0,2,0,1,4,0,0,10,3,LWLW,2,0,0,3,1,WW,LL
+Bologna,Livorno,2-0,/match/bologna/livorno/2010,2010,5,serie_a,20,38,0,2,0,16,0,2,2,1,4,DDLW,0,1,1,1,3,15,0,2,2,1,5,DWDW,0,0,2,1,5,DL,WW
+SSC Bari,Cagliari,0-1,/match/as-bari/cagliari/2010,2010,5,serie_a,20,38,2,0,1,7,1,3,0,6,3,DDDW,1,1,0,4,1,19,0,1,3,2,6,DLWL,0,1,1,0,1,DW,DW
+Udinese,Milan,1-0,/match/udinese/milan/2010,2010,5,serie_a,20,38,0,1,0,9,1,2,1,7,7,DWWD,1,1,0,6,4,10,2,1,1,3,5,LLDW,1,1,0,2,1,DW,LD
+Genoa,Juventus,2-2,/match/genoa/juventus-fc/2010,2010,5,serie_a,20,38,1,2,2,3,3,0,1,9,6,WLWW,2,0,0,7,3,2,4,0,0,8,1,WLLW,2,0,0,5,1,WW,LL
+Sampdoria,Inter,1-0,/match/sampdoria/internazionale/2010,2010,6,serie_a,20,38,0,1,0,4,4,0,1,10,5,LWLWW,2,0,0,7,2,1,4,1,0,12,3,DLWLW,2,0,0,6,1,WW,LL
+Livorno,Fiorentina,0-1,/match/livorno/fiorentina/2010,2010,6,serie_a,20,38,2,0,1,16,0,2,3,1,7,DWDWW,0,2,0,0,0,2,3,1,1,6,4,DWWWW,0,1,1,2,4,DD,DW
+Catania,Roma,1-1,/match/catania/roma/2010,2010,6,serie_a,20,38,1,1,1,18,0,2,3,5,9,LWWDD,0,1,1,2,3,12,2,1,2,11,11,WLLWD,1,1,1,7,7,LD,WLD
+Parma,Cagliari,0-2,/match/parma-fc/cagliari/2010,2010,6,serie_a,20,38,2,0,2,7,3,1,1,7,6,DWWWL,2,0,0,3,1,19,1,1,3,3,6,DLWLL,1,1,1,1,1,WW,DWL
+Napoli,Siena,2-1,/match/napoli/siena/2010,2010,6,serie_a,20,38,0,2,1,15,1,1,3,6,10,WWWDW,1,1,0,3,1,17,1,1,3,6,9,LLLWD,1,0,1,4,5,WD,LW
+Udinese,Genoa,2-0,/match/udinese/genoa/2010,2010,6,serie_a,20,38,0,2,0,6,2,2,1,8,7,DWWDW,2,1,0,7,4,5,3,1,1,11,8,WLWWD,1,0,1,2,3,DWW,LW
+Lazio,Palermo FC,1-1,/match/lazio/palermo/2010,2010,6,serie_a,20,38,1,1,1,10,2,1,2,5,6,WLLDL,1,0,2,2,4,8,1,2,2,6,7,WWDWD,0,0,2,0,2,WLL,WW
+Juventus,Bologna,1-1,/match/juventus-fc/bologna/2010,2010,6,serie_a,20,38,1,1,1,3,4,1,0,10,3,WLLWD,2,0,0,3,0,14,1,2,2,3,4,DDLWW,0,1,1,0,1,WW,DW
+Chievo,Atalanta,1-1,/match/chievo/atalanta/2010,2010,6,serie_a,20,38,1,1,1,13,2,1,2,6,4,WLLWD,1,0,1,4,3,20,0,1,4,1,7,WLLWD,0,0,2,1,5,LW,WW
+Milan,SSC Bari,0-0,/match/milan/as-bari/2010,2010,6,serie_a,20,38,1,0,0,11,2,1,2,3,6,LLDWW,1,0,1,1,4,9,1,3,1,6,4,DDDWL,0,2,0,2,2,LW,DD
+SSC Bari,Catania,0-0,/match/as-bari/catania/2010,2010,7,serie_a,20,38,1,0,0,12,1,4,1,6,4,DDDWLD,1,1,1,4,2,16,0,3,3,6,10,LWWDDD,0,1,2,3,6,DWL,WWD
+Inter,Udinese,2-1,/match/internazionale/udinese/2010,2010,7,serie_a,20,38,0,2,1,5,4,1,1,12,4,DLWLWW,2,1,0,6,2,4,3,2,1,10,7,DWWDWW,0,1,1,1,3,DWW,WD
+Sampdoria,Parma,1-1,/match/sampdoria/parma-fc/2010,2010,7,serie_a,20,38,1,1,1,1,5,0,1,11,5,LWLWWW,3,0,0,8,2,7,3,1,2,7,8,DWWWLL,1,1,1,4,5,WWW,DWL
+Roma,Napoli,2-1,/match/roma/napoli/2010,2010,7,serie_a,20,38,0,2,1,14,2,2,2,12,12,WLLWDD,1,0,1,4,4,8,2,1,3,8,11,WWWDWW,0,0,3,3,9,LW,WWW
+Atalanta,Milan,1-1,/match/atalanta/milan/2010,2010,7,serie_a,20,38,1,1,1,20,0,2,4,2,8,WLLWDD,0,1,2,0,2,10,2,2,2,3,6,LLDWWD,1,1,1,2,2,LLD,LDW
+Fiorentina,Lazio,0-0,/match/fiorentina/lazio/2010,2010,7,serie_a,20,38,1,0,0,2,4,1,1,7,4,DWWWWL,3,0,0,4,0,11,2,2,2,6,7,WLLDLD,1,1,0,3,2,WWW,LD
+Cagliari,Chievo,1-2,/match/cagliari/chievo/2010,2010,7,serie_a,20,38,2,1,2,17,2,1,3,5,6,DLWLLL,0,0,2,2,5,9,2,2,2,7,5,WLLWDD,1,1,1,2,1,LL,WLD
+Bologna,Genoa,1-3,/match/bologna/genoa/2010,2010,7,serie_a,20,38,2,1,3,15,1,3,2,4,5,DDLWWD,1,1,1,3,3,6,3,1,2,11,10,WLWWDW,1,0,2,2,5,DLW,LWW
+Siena,Livorno,0-0,/match/siena/livorno/2010,2010,7,serie_a,20,38,1,0,0,19,1,1,4,7,11,LLLWDW,0,1,2,2,4,18,0,2,4,1,8,DWDWWL,0,0,3,1,7,LLD,WWW
+Palermo FC,Juventus,2-0,/match/palermo/juventus-fc/2010,2010,7,serie_a,20,38,0,2,0,13,1,3,2,7,8,WWDWDD,1,2,0,6,5,3,4,2,0,11,4,WLLWDD,2,1,0,7,3,WDD,LLD
+Juventus,Fiorentina,1-1,/match/juventus-fc/fiorentina/2010,2010,8,serie_a,20,38,1,1,1,4,4,2,1,11,6,WLLWDDW,2,1,0,4,1,3,4,2,1,7,4,DWWWWLD,1,1,1,3,4,WWD,DWL
+Genoa,Inter,0-5,/match/genoa/internazionale/2010,2010,8,serie_a,20,38,2,0,5,6,4,1,2,14,11,WLWWDWL,2,1,0,9,5,2,5,1,1,14,5,DLWLWWW,2,0,1,6,2,WWD,LLW
+Catania,Cagliari,2-1,/match/catania/cagliari/2010,2010,8,serie_a,20,38,0,2,1,16,0,4,3,6,10,LWWDDDD,0,2,1,3,4,18,2,1,4,6,8,DLWLLLL,2,1,1,3,1,LDD,DWLL
+Parma,Siena,1-0,/match/parma-fc/siena/2010,2010,8,serie_a,20,38,0,1,0,8,3,2,2,8,9,DWWWLLD,2,0,1,3,3,17,1,2,4,7,11,LLLWDWD,1,0,2,5,7,WWL,LWW
+Napoli,Bologna,2-1,/match/napoli/bologna/2010,2010,8,serie_a,20,38,0,2,1,14,2,1,4,9,13,WWWDWWW,2,1,0,5,2,15,1,3,3,5,8,DDLWWDL,0,2,1,1,2,WDW,DWD
+Livorno,Palermo FC,1-2,/match/livorno/palermo/2010,2010,8,serie_a,20,38,2,1,2,19,0,3,4,1,8,DWDWWLD,0,2,1,0,1,7,2,3,2,9,8,WWDWDDW,0,1,2,1,3,DDL,WWD
+Lazio,Sampdoria,1-1,/match/lazio/sampdoria/2010,2010,8,serie_a,20,38,1,1,1,12,2,3,2,6,7,WLLDLDD,1,1,2,3,5,1,5,1,1,12,6,LWLWWWD,2,0,1,3,3,WLLD,LLW
+Chievo,SSC Bari,1-2,/match/chievo/as-bari/2010,2010,8,serie_a,20,38,2,1,2,11,3,2,2,9,6,WLLWDDL,1,1,1,5,4,10,1,5,1,6,4,DDDWLDD,0,3,0,2,2,LWD,DDD
+Udinese,Atalanta,1-3,/match/udinese/atalanta/2010,2010,8,serie_a,20,38,2,1,3,5,3,2,2,11,9,DWWDWWW,3,1,0,9,4,20,0,3,4,3,9,WLLWDDD,0,1,2,2,6,DWWW,WWD
+Milan,Roma,2-1,/match/milan/roma/2010,2010,8,serie_a,20,38,0,2,1,13,2,3,2,4,7,LLDWWDD,1,1,1,1,4,9,3,2,2,14,13,WLLWDDW,1,2,1,8,8,LWD,WLDD
+Sampdoria,Bologna,4-1,/match/sampdoria/bologna/2010,2010,9,serie_a,20,38,0,4,1,2,5,2,1,13,7,LWLWWWDD,3,1,0,9,3,16,1,3,4,6,10,DDLWWDLW,0,2,2,2,4,WWWD,DWDW
+Inter,Catania,2-1,/match/internazionale/catania/2010,2010,9,serie_a,20,38,0,2,1,1,6,1,1,19,5,DLWLWWWL,3,1,0,8,3,15,1,4,3,8,11,LWWDDDDW,0,2,2,3,6,DWWW,WWDD
+Roma,Livorno,0-1,/match/roma/livorno/2010,2010,9,serie_a,20,38,2,0,1,12,3,2,3,15,15,WLLWDDWW,2,0,1,6,5,20,0,3,5,2,10,DWDWWLDL,0,1,3,1,7,LWW,WWWD
+Palermo FC,Udinese,1-0,/match/palermo/udinese/2010,2010,9,serie_a,20,38,0,1,0,7,3,3,2,11,9,WWDWDDWL,2,2,0,8,5,6,3,2,3,12,12,DWWDWWWL,0,1,2,2,5,WDDW,WDW
+Atalanta,Parma,3-1,/match/atalanta/parma-fc/2010,2010,9,serie_a,20,38,0,3,1,17,1,3,4,6,10,WLLWDDDL,0,2,2,1,3,5,4,2,2,9,9,DWWWLLDW,1,2,1,5,6,LLDD,DWLD
+Fiorentina,Napoli,0-1,/match/fiorentina/napoli/2010,2010,9,serie_a,20,38,2,0,1,3,4,3,1,8,5,DWWWWLDD,3,1,0,4,0,8,3,1,4,11,14,WWWDWWWW,0,0,4,4,11,WWWD,WWWW
+Cagliari,Genoa,3-2,/match/cagliari/genoa/2010,2010,9,serie_a,20,38,0,3,2,19,2,1,5,7,10,DLWLLLLW,0,0,3,3,7,9,4,1,3,14,16,WLWWDWLL,2,0,2,5,6,LLL,LWWL
+SSC Bari,Lazio,2-0,/match/as-bari/lazio/2010,2010,9,serie_a,20,38,0,2,0,11,2,5,1,8,5,DDDWLDDL,1,2,1,4,2,13,2,4,2,7,8,WLLDLDDD,1,2,0,3,2,DWLD,LDD
+Siena,Juventus,0-1,/match/siena/juventus-fc/2010,2010,9,serie_a,20,38,2,0,1,18,1,2,5,7,12,LLLWDWDW,0,2,2,2,4,4,4,3,1,12,7,WLLWDDWD,2,1,1,7,5,LLDD,LLDW
+Chievo,Milan,1-2,/match/chievo/milan/2010,2010,9,serie_a,20,38,2,1,2,14,3,2,3,10,8,WLLWDDLL,1,1,2,6,6,10,3,3,2,6,8,LLDWWDDW,1,2,1,3,3,LWDL,LDWD
+Bologna,Siena,2-1,/match/bologna/siena/2010,2010,10,serie_a,20,38,0,2,1,18,1,3,5,7,14,DDLWWDLWW,1,1,2,4,6,20,1,2,6,7,13,LLLWDWDWL,1,0,3,5,8,DLWL,LWWW
+Parma,SSC Bari,2-0,/match/parma-fc/as-bari/2010,2010,10,serie_a,20,38,0,2,0,9,4,2,3,10,12,DWWWLLDWW,3,0,1,4,3,6,3,5,1,10,5,DDDWLDDLW,1,3,0,4,3,WWLW,DDDL
+Napoli,Milan,2-2,/match/napoli/milan/2010,2010,10,serie_a,20,38,1,2,2,7,4,1,4,12,14,WWWDWWWWL,3,1,0,7,3,8,4,3,2,8,9,LLDWWDDWL,2,2,1,5,4,WDWW,LDWDL
+Livorno,Atalanta,1-0,/match/livorno/atalanta/2010,2010,10,serie_a,20,38,0,1,0,19,1,3,5,3,10,DWDWWLDLL,0,2,2,1,3,15,2,3,4,9,11,WLLWDDDLW,1,1,2,5,7,DDLL,WWDL
+Lazio,Cagliari,0-1,/match/lazio/cagliari/2010,2010,10,serie_a,20,38,2,0,1,13,2,4,3,7,10,WLLDLDDDW,1,2,2,4,6,17,3,1,5,10,12,DLWLLLLWW,2,1,2,4,3,WLLDD,DWLLW
+Juventus,Sampdoria,5-1,/match/juventus-fc/sampdoria/2010,2010,10,serie_a,20,38,0,5,1,4,5,3,1,13,7,WLLWDDWDL,2,2,0,5,2,2,6,2,1,17,8,LWLWWWDDW,2,1,1,4,4,WWDD,LLWD
+Genoa,Fiorentina,2-1,/match/genoa/fiorentina/2010,2010,10,serie_a,20,38,0,2,1,11,4,1,4,16,19,WLWWDWLLW,2,1,1,9,10,5,4,3,2,8,6,DWWWWLDDL,1,2,1,4,5,WWDL,DWLD
+Catania,Chievo,1-2,/match/catania/chievo/2010,2010,10,serie_a,20,38,2,1,2,16,1,4,4,9,13,LWWDDDDWW,1,2,1,5,5,14,3,2,4,11,10,WLLWDDLLL,2,1,1,4,2,LDDW,WLDL
+Udinese,Roma,2-1,/match/udinese/roma/2010,2010,10,serie_a,20,38,0,2,1,10,3,2,4,12,13,DWWDWWWLW,3,1,1,10,7,12,3,2,4,15,16,WLLWDDWWL,1,2,2,9,10,DWWWL,WLDDW
+Inter,Palermo FC,5-3,/match/internazionale/palermo/2010,2010,10,serie_a,20,38,0,5,3,1,7,1,1,21,6,DLWLWWWLW,4,1,0,10,4,3,4,3,2,12,9,WWDWDDWLW,1,1,2,3,4,DWWWW,WWDL
+Juventus,Napoli,2-3,/match/juventus-fc/napoli/2010,2010,11,serie_a,20,38,2,2,3,2,6,3,1,18,8,WLLWDDWDLW,3,2,0,10,3,8,4,2,4,14,16,WWWDWWWWLD,1,0,4,5,11,WWDDW,WWWWL
+Milan,Parma,2-0,/match/milan/parma-fc/2010,2010,11,serie_a,20,38,0,2,0,10,4,4,2,10,11,LLDWWDDWLD,2,1,1,3,5,4,5,2,3,12,12,DWWWLLDWWW,1,2,2,6,9,LWDW,DWLDW
+Sampdoria,SSC Bari,0-0,/match/sampdoria/as-bari/2010,2010,11,serie_a,20,38,1,0,0,3,6,2,2,18,13,LWLWWWDDWW,4,1,0,13,4,11,3,5,2,10,7,DDDWLDDLWW,1,3,1,4,5,WWWDW,DDDLW
+Roma,Bologna,2-1,/match/roma/bologna/2010,2010,11,serie_a,20,38,0,2,1,13,3,2,5,16,18,WLLWDDWWLW,2,0,2,6,6,15,2,3,5,9,15,DDLWWDLWWW,0,2,3,3,8,LWWL,DWDWW
+Cagliari,Atalanta,3-0,/match/cagliari/atalanta/2010,2010,11,serie_a,20,38,0,3,0,17,4,1,5,11,12,DLWLLLLWWL,1,0,3,6,9,16,2,3,5,9,12,WLLWDDDLWW,1,1,3,5,8,LLLW,WWDLW
+Livorno,Inter,0-2,/match/livorno/internazionale/2010,2010,11,serie_a,20,38,2,0,2,18,2,3,5,4,10,DWDWWLDLLW,1,2,2,2,3,1,8,1,1,26,9,DLWLWWWLWW,3,0,1,11,2,DDLLW,LLWL
+Fiorentina,Catania,3-1,/match/fiorentina/catania/2010,2010,11,serie_a,20,38,0,3,1,9,4,3,3,9,8,DWWWWLDDLW,3,1,1,4,1,19,1,4,5,10,15,LWWDDDDWWL,0,2,3,4,8,WWWDL,WWDDW
+Chievo,Udinese,1-1,/match/chievo/udinese/2010,2010,11,serie_a,20,38,1,1,1,12,4,2,4,13,11,WLLWDDLLLL,1,1,3,7,8,6,4,2,4,14,14,DWWDWWWLWW,0,1,3,2,6,LWDLL,WDWW
+Siena,Lazio,1-1,/match/siena/lazio/2010,2010,11,serie_a,20,38,1,1,1,20,1,2,7,8,15,LLLWDWDWLW,0,2,3,2,5,14,2,4,4,7,11,WLLDLDDDWL,1,2,1,3,4,LLDDL,LDDW
+Palermo FC,Genoa,0-0,/match/palermo/genoa/2010,2010,11,serie_a,20,38,1,0,0,5,4,3,3,15,14,WWDWDDWLWW,3,2,0,9,5,7,5,1,4,18,20,WLWWDWLLWW,2,0,3,7,9,WDDWW,LWWLW
+Catania,Napoli,0-0,/match/catania/napoli/2010,2010,12,serie_a,20,38,1,0,0,19,1,4,6,11,18,LWWDDDDWWLW,1,2,2,6,7,9,5,2,4,17,18,WWWDWWWWLDL,2,0,4,8,13,LDDWL,WWWWLL
+Atalanta,Juventus,2-5,/match/atalanta/juventus-fc/2010,2010,12,serie_a,20,38,2,2,5,17,2,3,6,9,15,WLLWDDDLWWW,1,2,2,4,4,3,6,3,2,20,11,WLLWDDWDLWL,3,1,1,8,5,LLDDW,LLDWL
+Parma,Chievo,2-0,/match/parma-fc/chievo/2010,2010,12,serie_a,20,38,0,2,0,7,5,2,4,12,14,DWWWLLDWWWW,4,0,1,6,3,13,4,3,4,14,12,WLLWDDLLLLD,3,1,1,6,3,WWLWW,WLDLL
+Lazio,Milan,1-2,/match/lazio/milan/2010,2010,12,serie_a,20,38,2,1,2,15,2,5,4,8,12,WLLDLDDDWLD,1,2,3,4,7,6,5,4,2,12,11,LLDWWDDWLDW,2,3,1,7,6,WLLDDL,LDWDLD
+Genoa,Siena,4-2,/match/genoa/siena/2010,2010,12,serie_a,20,38,0,4,2,10,5,2,4,18,20,WLWWDWLLWWD,3,1,1,11,11,20,1,3,7,9,16,LLLWDWDWLWD,1,0,4,6,10,WWDLW,LWWWW
+Cagliari,Sampdoria,2-0,/match/cagliari/sampdoria/2010,2010,12,serie_a,20,38,0,2,0,14,5,1,5,14,12,DLWLLLLWWLW,2,0,3,9,9,2,6,3,2,18,13,LWLWWWDDWWD,2,1,2,5,9,LLLWW,LLWDW
+Bologna,Palermo FC,3-1,/match/bologna/palermo/2010,2010,12,serie_a,20,38,0,3,1,16,2,3,6,10,17,DDLWWDLWWWW,2,1,2,6,7,5,4,4,3,15,14,WWDWDDWLWWD,1,1,3,6,9,DLWLW,WWDLW
+SSC Bari,Livorno,1-0,/match/as-bari/livorno/2010,2010,12,serie_a,20,38,0,1,0,11,3,6,2,10,7,DDDWLDDLWWD,2,2,1,6,2,18,2,3,6,4,12,DWDWWLDLLWL,1,1,3,2,7,DWLDW,WWWDL
+Udinese,Fiorentina,0-1,/match/udinese/fiorentina/2010,2010,12,serie_a,20,38,2,0,1,8,4,3,4,15,15,DWWDWWWLWWD,4,1,1,12,8,4,5,3,3,12,9,DWWWWLDDLWW,1,2,2,5,7,DWWWLW,DWLDW
+Inter,Roma,1-1,/match/internazionale/roma/2010,2010,12,serie_a,20,38,1,1,1,1,9,1,1,28,9,DLWLWWWLWWL,5,1,0,15,7,12,4,2,5,18,19,WLLWDDWWLWW,1,2,3,10,12,DWWWWW,WLDDWW
+Bologna,Inter,1-3,/match/bologna/internazionale/2010,2010,13,serie_a,20,38,2,1,3,14,3,3,6,13,18,DDLWWDLWWWWW,3,1,2,9,8,1,9,2,1,29,10,DLWLWWWLWWLD,4,0,1,13,2,DLWLWW,LLWLL
+Fiorentina,Parma,2-3,/match/fiorentina/parma-fc/2010,2010,13,serie_a,20,38,2,2,3,4,6,3,3,13,9,DWWWWLDDLWWL,4,1,1,7,2,5,6,2,4,14,14,DWWWLLDWWWWW,1,2,3,6,11,WWWDLW,DWLDWW
+Sampdoria,Chievo,2-1,/match/sampdoria/chievo/2010,2010,13,serie_a,20,38,0,2,1,3,6,3,3,18,15,LWLWWWDDWWDW,4,2,0,13,4,15,4,3,5,14,14,WLLWDDLLLLDW,3,1,2,6,5,WWWDWD,WLDLLW
+Roma,SSC Bari,3-1,/match/roma/as-bari/2010,2010,13,serie_a,20,38,0,3,1,13,4,3,5,19,20,WLLWDDWWLWWD,3,0,2,8,7,8,4,6,2,11,7,DDDWLDDLWWDW,1,4,1,4,5,LWWLW,DDDLWD
+Palermo FC,Catania,1-1,/match/palermo/catania/2010,2010,13,serie_a,20,38,1,1,1,10,4,4,4,16,17,WWDWDDWLWWDW,3,3,0,9,5,17,1,5,6,11,18,LWWDDDDWWLWD,0,2,4,5,11,WDDWWD,WWDDWW
+Napoli,Lazio,0-0,/match/napoli/lazio/2010,2010,13,serie_a,20,38,1,0,0,9,5,3,4,17,18,WWWDWWWWLDLD,3,2,0,9,5,16,2,5,5,9,14,WLLDLDDDWLDL,1,3,1,4,5,WDWWD,LDDWD
+Milan,Cagliari,4-3,/match/milan/cagliari/2010,2010,13,serie_a,20,38,0,4,3,7,6,4,2,14,12,LLDWWDDWLDWL,3,1,1,5,5,12,6,1,5,16,12,DLWLLLLWWLWW,3,1,2,5,3,LWDWW,DWLLWL
+Livorno,Genoa,2-1,/match/livorno/genoa/2010,2010,13,serie_a,20,38,0,2,1,19,2,3,7,4,13,DWDWWLDLLWLW,1,2,3,2,5,6,6,2,4,22,22,WLWWDWLLWWDW,2,1,3,7,9,DDLLWL,LWWLWD
+Siena,Atalanta,0-2,/match/siena/atalanta/2010,2010,13,serie_a,20,38,2,0,2,20,1,3,8,11,20,LLLWDWDWLWDW,0,3,3,3,6,18,2,3,7,11,20,WLLWDDDLWWWL,1,1,4,5,11,LLDDLD,WWDLWW
+Juventus,Udinese,1-0,/match/juventus-fc/udinese/2010,2010,13,serie_a,20,38,0,1,0,2,7,3,2,25,13,WLLWDDWDLWLL,3,2,1,12,6,11,4,3,5,15,16,DWWDWWWLWWDL,0,2,3,3,7,WWDDWL,WDWWD
+Udinese,Livorno,2-0,/match/udinese/livorno/2010,2010,14,serie_a,20,38,0,2,0,12,4,3,6,15,17,DWWDWWWLWWDLW,4,1,2,12,9,16,3,3,7,6,14,DWDWWLDLLWLWW,1,1,4,2,8,DWWWLWL,WWWDLW
+Genoa,Sampdoria,3-0,/match/genoa/sampdoria/2010,2010,14,serie_a,20,38,0,3,0,7,6,2,5,23,24,WLWWDWLLWWDWW,4,1,1,15,13,2,7,3,3,20,16,LWLWWWDDWWDWW,2,1,3,5,11,WWDLWW,LLWDWW
+Cagliari,Juventus,2-0,/match/cagliari/juventus-fc/2010,2010,14,serie_a,20,38,0,2,0,13,6,1,6,19,16,DLWLLLLWWLWWW,3,0,3,11,9,3,8,3,2,26,13,WLLWDDWDLWLLW,4,1,1,13,7,LLLWWW,LLDWLL
+Chievo,Palermo FC,1-0,/match/chievo/palermo/2010,2010,14,serie_a,20,38,0,1,0,15,4,3,6,15,16,WLLWDDLLLLDWW,1,2,3,8,9,9,4,5,4,17,18,WWDWDDWLWWDWD,1,1,4,7,12,LWDLLD,WWDLWW
+SSC Bari,Siena,2-1,/match/as-bari/siena/2010,2010,14,serie_a,20,38,0,2,1,10,4,6,3,12,10,DDDWLDDLWWDWW,3,2,1,7,2,20,1,3,9,11,22,LLLWDWDWLWDWL,1,0,5,8,14,DWLDWW,LWWWWW
+Inter,Fiorentina,1-0,/match/internazionale/fiorentina/2010,2010,14,serie_a,20,38,0,1,0,1,10,2,1,32,11,DLWLWWWLWWLDL,5,2,0,16,8,6,6,3,4,15,12,DWWWWLDDLWWLL,2,2,2,6,7,DWWWWWD,DWLDWL
+Lazio,Bologna,0-0,/match/lazio/bologna/2010,2010,14,serie_a,20,38,1,0,0,17,2,6,5,9,14,WLLDLDDDWLDLD,1,2,4,5,9,14,3,3,7,14,21,DDLWWDLWWWWWL,0,2,4,4,10,WLLDDLL,DWDWWW
+Parma,Napoli,1-1,/match/parma-fc/napoli/2010,2010,14,serie_a,20,38,1,1,1,5,7,2,4,17,16,DWWWLLDWWWWWL,5,0,1,8,3,8,5,4,4,17,18,WWWDWWWWLDLDD,2,1,4,8,13,WWLWWW,WWWWLLD
+Atalanta,Roma,1-2,/match/atalanta/roma/2010,2010,14,serie_a,20,38,2,1,2,19,3,3,7,13,20,WLLWDDDLWWWLL,1,2,3,6,9,11,5,3,5,22,21,WLLWDDWWLWWDW,1,3,3,11,13,LLDDWL,WLDDWWD
+Catania,Milan,0-2,/match/catania/milan/2010,2010,14,serie_a,20,38,2,0,2,18,1,6,6,12,19,LWWDDDDWWLWDD,1,3,2,6,7,4,7,4,2,18,15,LLDWWDDWLDWLW,3,3,1,9,7,LDDWLD,LDWDLDL
+Milan,Sampdoria,3-0,/match/milan/sampdoria/2010,2010,15,serie_a,20,38,0,3,0,3,8,4,2,20,15,LLDWWDDWLDWLWL,4,1,1,9,8,4,7,3,4,20,19,LWLWWWDDWWDWWW,2,1,4,5,14,LWDWWW,LLWDWWW
+Juventus,Inter,2-1,/match/juventus-fc/internazionale/2010,2010,15,serie_a,20,38,0,2,1,2,8,3,3,26,15,WLLWDDWDLWLLWW,4,2,1,13,6,1,11,2,1,33,11,DLWLWWWLWWLDLW,5,0,1,16,3,WWDDWLW,LLWLLL
+Palermo FC,Cagliari,2-1,/match/palermo/cagliari/2010,2010,15,serie_a,20,38,0,2,1,13,4,5,5,17,19,WWDWDDWLWWDWDW,3,4,0,10,6,11,7,1,6,21,16,DLWLLLLWWLWWWW,3,1,3,8,7,WDDWWDD,DWLLWLW
+Napoli,SSC Bari,3-2,/match/napoli/as-bari/2010,2010,15,serie_a,20,38,0,3,2,10,5,5,4,18,19,WWWDWWWWLDLDDD,3,3,0,9,5,7,5,6,3,14,11,DDDWLDDLWWDWWW,1,4,2,5,8,WDWWDD,DDDLWDW
+Bologna,Udinese,2-1,/match/bologna/udinese/2010,2010,15,serie_a,20,38,0,2,1,15,3,4,7,14,21,DDLWWDLWWWWWLD,3,1,3,10,11,8,5,3,6,17,17,DWWDWWWLWWDLWW,0,2,4,3,8,DLWLWWL,WDWWDW
+Livorno,Chievo,0-2,/match/livorno/chievo/2010,2010,15,serie_a,20,38,2,0,2,17,3,3,8,6,16,DWDWWLDLLWLWWW,2,2,3,4,6,14,5,3,6,16,16,WLLWDDLLLLDWWW,3,1,3,7,7,DDLLWLW,WLDLLWW
+Genoa,Parma,2-2,/match/genoa/parma-fc/2010,2010,15,serie_a,20,38,1,2,2,6,7,2,5,26,24,WLWWDWLLWWDWWW,5,1,1,18,13,5,7,3,4,18,17,DWWWLLDWWWWWLD,2,2,3,9,13,WWDLWWW,DWLDWWL
+Fiorentina,Atalanta,2-0,/match/fiorentina/atalanta/2010,2010,15,serie_a,20,38,0,2,0,9,6,3,5,15,13,DWWWWLDDLWWLLW,4,1,2,9,5,19,3,3,8,14,22,WLLWDDDLWWWLLL,2,1,4,7,11,WWWDLWL,WWDLWWL
+Siena,Catania,3-2,/match/siena/catania/2010,2010,15,serie_a,20,38,0,3,2,20,1,3,10,12,24,LLLWDWDWLWDWLW,0,3,4,3,8,18,1,6,7,12,21,LWWDDDDWWLWDDL,0,3,4,6,12,LLDDLDL,WWDDWWD
+Roma,Lazio,1-0,/match/roma/lazio/2010,2010,15,serie_a,20,38,0,1,0,12,6,3,5,24,22,WLLWDDWWLWWDWL,4,0,2,11,8,16,2,7,5,9,14,WLLDLDDDWLDLDD,1,4,1,4,5,LWWLWW,LDDWDD
+Cagliari,Napoli,3-3,/match/cagliari/napoli/2010,2010,16,serie_a,20,38,1,3,3,13,7,1,7,22,18,DLWLLLLWWLWWWWW,4,0,3,13,9,8,6,5,4,21,21,WWWDWWWWLDLDDDW,2,2,4,9,14,LLLWWWW,WWWWLLDD
+SSC Bari,Juventus,3-1,/match/as-bari/juventus-fc/2010,2010,16,serie_a,20,38,0,3,1,11,5,6,4,16,14,DDDWLDDLWWDWWWW,4,2,1,9,3,3,9,3,3,28,16,WLLWDDWDLWLLWWW,4,1,2,13,9,DWLDWWW,LLDWLLW
+Atalanta,Inter,1-1,/match/atalanta/internazionale/2010,2010,16,serie_a,20,38,1,1,1,19,3,3,9,14,24,WLLWDDDLWWWLLLW,1,2,4,7,11,1,11,2,2,34,13,DLWLWWWLWWLDLWW,5,0,2,17,5,LLDDWLL,LLWLLLW
+Parma,Bologna,2-1,/match/parma-fc/bologna/2010,2010,16,serie_a,20,38,0,2,1,5,7,4,4,20,19,DWWWLLDWWWWWLDD,5,1,1,9,4,15,4,4,7,16,22,DDLWWDLWWWWWLDW,0,3,4,4,10,WWLWWWD,DWDWWWD
+Milan,Palermo FC,0-2,/match/milan/palermo/2010,2010,16,serie_a,20,38,2,0,2,2,9,4,2,23,15,LLDWWDDWLDWLWLW,5,1,1,12,8,9,5,5,5,19,20,WWDWDDWLWWDWDWW,1,1,5,7,13,LWDWWWW,WWDLWWW
+Lazio,Genoa,1-0,/match/lazio/genoa/2010,2010,16,serie_a,20,38,0,1,0,16,2,7,6,9,15,WLLDLDDDWLDLDDW,1,3,4,5,9,6,7,3,5,28,26,WLWWDWLLWWDWWWD,2,1,4,8,11,WLLDDLLD,LWWLWDW
+Chievo,Fiorentina,2-1,/match/chievo/fiorentina/2010,2010,16,serie_a,20,38,0,2,1,14,6,3,6,18,16,WLLWDDLLLLDWWWL,2,2,3,9,9,7,7,3,5,17,13,DWWWWLDDLWWLLWW,2,2,3,6,8,LWDLLDW,DWLDWLW
+Catania,Livorno,0-1,/match/catania/livorno/2010,2010,16,serie_a,20,38,2,0,1,18,1,6,8,14,24,LWWDDDDWWLWDDLW,1,3,3,6,9,17,3,3,9,6,18,DWDWWLDLLWLWWWL,1,1,5,2,10,LDDWLDL,WWWDLWW
+Siena,Udinese,2-1,/match/siena/udinese/2010,2010,16,serie_a,20,38,0,2,1,20,2,3,10,15,26,LLLWDWDWLWDWLWW,1,3,4,6,10,12,5,3,7,18,19,DWWDWWWLWWDLWWW,0,2,5,4,10,LLDDLDLW,WDWWDWW
+Sampdoria,Roma,0-0,/match/sampdoria/roma/2010,2010,16,serie_a,20,38,1,0,0,4,7,3,5,20,22,LWLWWWDDWWDWWWW,5,2,0,15,5,10,7,3,5,25,22,WLLWDDWWLWWDWLW,2,3,3,13,14,WWWDWDW,WLDDWWDL
+Livorno,Sampdoria,3-1,/match/livorno/sampdoria/2010,2010,17,serie_a,20,38,0,3,1,17,4,3,9,7,18,DWDWWLDLLWLWWWLL,2,2,4,4,8,5,7,4,5,20,22,LWLWWWDDWWDWWWWD,2,1,5,5,17,DDLLWLWL,LLWDWWWW
+Roma,Parma,2-0,/match/roma/parma-fc/2010,2010,17,serie_a,20,38,0,2,0,11,7,4,5,25,22,WLLWDDWWLWWDWLWD,5,0,2,12,8,4,8,4,4,22,20,DWWWLLDWWWWWLDDW,2,3,3,11,15,LWWLWWW,DWLDWWLD
+Palermo FC,Siena,1-0,/match/palermo/siena/2010,2010,17,serie_a,20,38,0,1,0,8,6,5,5,21,20,WWDWDDWLWWDWDWWL,4,4,0,12,7,18,3,3,10,17,27,LLLWDWDWLWDWLWWW,1,0,6,9,16,WDDWWDDW,LWWWWWW
+Juventus,Catania,1-2,/match/juventus-fc/catania/2010,2010,17,serie_a,20,38,2,1,2,3,9,3,4,29,19,WLLWDDWDLWLLWWWW,5,2,1,15,7,20,1,6,9,14,25,LWWDDDDWWLWDDLWL,0,3,5,8,15,WWDDWLWW,WWDDWWDW
+Napoli,Chievo,2-0,/match/napoli/chievo/2010,2010,17,serie_a,20,38,0,2,0,7,6,6,4,24,24,WWWDWWWWLDLDDDWD,4,3,0,12,7,13,7,3,6,20,17,WLLWDDLLLLDWWWLW,4,1,3,9,7,WDWWDDW,WLDLLWWL
+Inter,Lazio,1-0,/match/internazionale/lazio/2010,2010,17,serie_a,20,38,0,1,0,1,11,3,2,35,14,DLWLWWWLWWLDLWWD,6,2,0,17,8,16,3,7,6,10,15,WLLDLDDDWLDLDDWW,1,4,2,4,6,DWWWWWDW,LDDWDDW
+Bologna,Atalanta,2-2,/match/bologna/atalanta/2010,2010,17,serie_a,20,38,1,2,2,15,4,4,8,17,24,DDLWWDLWWWWWLDWW,4,1,3,12,12,19,3,4,9,15,25,WLLWDDDLWWWLLLWD,2,1,5,7,13,DLWLWWLW,WWDLWWLW
+Genoa,SSC Bari,1-1,/match/genoa/as-bari/2010,2010,17,serie_a,20,38,1,1,1,9,7,3,6,28,27,WLWWDWLLWWDWWWDW,5,2,1,20,15,6,6,6,4,19,15,DDDWLDDLWWDWWWWW,1,4,3,7,11,WWDLWWWD,DDDLWDWW
+Fiorentina,Milan,1-2,/match/fiorentina/milan/2010,2010,17,serie_a,20,38,2,1,2,10,7,3,6,18,15,DWWWWLDDLWWLLWWW,5,1,2,11,5,2,9,4,3,23,17,LLDWWDDWLDWLWLWL,4,3,1,11,7,WWWDLWLW,LDWDLDLL
+Udinese,Cagliari,2-1,/match/udinese/cagliari/2010,2010,17,serie_a,20,38,0,2,1,14,5,3,8,19,21,DWWDWWWLWWDLWWWW,5,1,2,14,9,12,7,2,7,25,21,DLWLLLLWWLWWWWWD,3,1,4,9,9,DWWWLWLW,DWLLWLWW
+Chievo,Inter,0-1,/match/chievo/internazionale/2010,2010,18,serie_a,20,38,2,0,1,14,7,3,7,20,19,WLLWDDLLLLDWWWLWW,3,2,3,11,10,1,12,3,2,36,14,DLWLWWWLWWLDLWWDW,5,1,2,18,6,LWDLLDWW,LLWLLLWD
+Atalanta,Napoli,0-2,/match/atalanta/napoli/2010,2010,18,serie_a,20,38,2,0,2,19,3,5,9,17,27,WLLWDDDLWWWLLLWDD,1,3,4,8,12,3,7,6,4,26,24,WWWDWWWWLDLDDDWDW,2,3,4,12,17,LLDDWLLD,WWWWLLDDD
+Sampdoria,Palermo FC,1-1,/match/sampdoria/palermo/2010,2010,18,serie_a,20,38,1,1,1,10,7,4,6,21,25,LWLWWWDDWWDWWWWDW,5,3,0,15,5,6,7,5,5,22,20,WWDWDDWLWWDWDWWLW,2,1,5,9,13,WWWDWDWD,WWDLWWWL
+Parma,Juventus,1-2,/match/parma-fc/juventus-fc/2010,2010,18,serie_a,20,38,2,1,2,5,8,4,5,22,22,DWWWLLDWWWWWLDDWW,6,1,1,11,5,4,9,3,5,30,21,WLLWDDWDLWLLWWWWL,4,1,3,14,12,WWLWWWDW,LLDWLLWW
+Lazio,Livorno,4-1,/match/lazio/livorno/2010,2010,18,serie_a,20,38,0,4,1,17,3,7,7,10,16,WLLDLDDDWLDLDDWWW,2,3,4,6,9,16,5,3,9,10,19,DWDWWLDLLWLWWWLLW,2,1,5,3,10,WLLDDLLDW,WWWDLWWL
+Catania,Bologna,1-0,/match/catania/bologna/2010,2010,18,serie_a,20,38,0,1,0,20,2,6,9,16,26,LWWDDDDWWLWDDLWLL,1,3,4,6,10,15,4,5,8,19,26,DDLWWDLWWWWWLDWWD,0,3,5,5,12,LDDWLDLL,DWDWWWDW
+Cagliari,Roma,2-2,/match/cagliari/roma/2010,2010,18,serie_a,20,38,1,2,2,13,7,2,8,26,23,DLWLLLLWWLWWWWWDW,4,1,3,16,12,7,8,4,5,27,22,WLLWDDWWLWWDWLWDW,2,4,3,13,14,LLLWWWWD,WLDDWWDLD
+SSC Bari,Udinese,2-0,/match/as-bari/udinese/2010,2010,18,serie_a,20,38,0,2,0,8,6,7,4,20,16,DDDWLDDLWWDWWWWWD,5,2,1,12,4,12,6,3,8,21,22,DWWDWWWLWWDLWWWWW,0,2,6,5,12,DWLDWWWW,WDWWDWWW
+Siena,Fiorentina,1-5,/match/siena/fiorentina/2010,2010,18,serie_a,20,38,2,1,5,18,3,3,11,17,28,LLLWDWDWLWDWLWWWW,2,3,4,8,11,11,7,3,7,19,17,DWWWWLDDLWWLLWWWL,2,2,4,7,10,LLDDLDLWW,DWLDWLWW
+Milan,Genoa,5-2,/match/milan/genoa/2010,2010,18,serie_a,20,38,0,5,2,2,10,4,3,25,18,LLDWWDDWLDWLWLWLL,5,1,2,12,10,9,7,4,6,29,28,WLWWDWLLWWDWWWDWD,2,1,5,8,12,LWDWWWWL,LWWLWDWW
+Roma,Chievo,1-0,/match/roma/chievo/2010,2010,19,serie_a,20,38,0,1,0,8,8,5,5,29,24,WLLWDDWWLWWDWLWDWD,6,0,2,14,8,14,7,3,8,20,20,WLLWDDLLLLDWWWLWWL,4,1,4,9,9,LWWLWWWW,WLDLLWWLW
+Inter,Siena,4-3,/match/internazionale/siena/2010,2010,19,serie_a,20,38,0,4,3,1,13,3,2,37,14,DLWLWWWLWWLDLWWDWL,7,2,0,18,8,19,3,3,12,18,33,LLLWDWDWLWDWLWWWWL,1,0,7,9,17,DWWWWWDWW,LWWWWWWW
+Bologna,Cagliari,0-1,/match/bologna/cagliari/2010,2010,19,serie_a,20,38,2,0,1,16,4,5,9,19,27,DDLWWDLWWWWWLDWWDW,4,2,3,14,14,13,7,3,8,28,25,DLWLLLLWWLWWWWWDWD,3,1,5,10,11,DLWLWWLWD,DWLLWLWWW
+Palermo FC,Atalanta,1-0,/match/palermo/atalanta/2010,2010,19,serie_a,20,38,0,1,0,6,7,6,5,23,21,WWDWDDWLWWDWDWWLWD,5,4,0,13,7,20,3,5,10,17,29,WLLWDDDLWWWLLLWDDL,2,2,5,9,15,WDDWWDDWW,WWDLWWLWD
+Napoli,Sampdoria,1-0,/match/napoli/sampdoria/2010,2010,19,serie_a,20,38,0,1,0,3,8,6,4,28,24,WWWDWWWWLDLDDDWDWL,5,3,0,14,7,9,7,5,6,22,26,LWLWWWDDWWDWWWWDWD,2,1,6,6,20,WDWWDDWW,LLWDWWWWW
+Livorno,Parma,2-1,/match/livorno/parma-fc/2010,2010,19,serie_a,20,38,0,2,1,17,5,3,10,11,23,DWDWWLDLLWLWWWLLWW,3,2,4,7,9,7,8,4,6,23,24,DWWWLLDWWWWWLDDWWL,2,3,4,11,17,DDLLWLWLW,DWLDWWLDW
+Genoa,Catania,2-0,/match/genoa/catania/2010,2010,19,serie_a,20,38,0,2,0,10,7,4,7,31,33,WLWWDWLLWWDWWWDWDW,5,3,1,21,16,18,3,6,9,17,26,LWWDDDDWWLWDDLWLLW,1,3,5,10,16,WWDLWWWDD,WWDDWWDWL
+Fiorentina,SSC Bari,2-1,/match/fiorentina/as-bari/2010,2010,19,serie_a,20,38,0,2,1,11,8,3,7,24,18,DWWWWLDDLWWLLWWWLL,5,1,3,12,7,5,7,7,4,22,16,DDDWLDDLWWDWWWWWDW,1,5,3,8,12,WWWDLWLWL,DDDLWDWWD
+Udinese,Lazio,1-1,/match/udinese/lazio/2010,2010,19,serie_a,20,38,1,1,1,12,6,3,9,21,24,DWWDWWWLWWDLWWWWWW,6,1,2,16,10,15,4,7,7,14,17,WLLDLDDDWLDLDDWWWW,1,4,3,4,7,DWWWLWLWW,LDDWDDWW
+Juventus,Milan,0-3,/match/juventus-fc/milan/2010,2010,19,serie_a,20,38,2,0,3,4,10,3,5,32,22,WLLWDDWDLWLLWWWWLL,5,2,2,16,9,2,11,4,3,30,20,LLDWWDDWLDWLWLWLLW,5,3,1,13,8,WWDDWLWWL,LDWDLDLLL
+Cagliari,Livorno,3-0,/match/cagliari/livorno/2010,2010,20,serie_a,20,38,0,3,0,13,8,3,8,29,25,DLWLLLLWWLWWWWWDWDL,4,2,3,18,14,16,6,3,10,13,24,DWDWWLDLLWLWWWLLWWW,2,1,6,4,14,LLLWWWWDD,WWWDLWWLW
+SSC Bari,Inter,2-2,/match/as-bari/internazionale/2010,2010,20,serie_a,20,38,1,2,2,8,7,7,5,23,18,DDDWLDDLWWDWWWWWDWW,6,2,1,14,4,1,14,3,2,41,17,DLWLWWWLWWLDLWWDWLW,6,1,2,19,6,DWLDWWWWW,LLWLLLWDL
+Parma,Udinese,0-0,/match/parma-fc/udinese/2010,2010,20,serie_a,20,38,1,0,0,11,8,4,7,24,26,DWWWLLDWWWWWLDDWWLW,6,1,2,12,7,12,6,4,9,22,25,DWWDWWWLWWDLWWWWWWD,0,2,7,5,14,WWLWWWDWL,WDWWDWWWW
+Milan,Siena,4-0,/match/milan/siena/2010,2010,20,serie_a,20,38,0,4,0,2,12,4,3,33,20,LLDWWDDWLDWLWLWLLWL,6,1,2,17,12,19,3,3,13,21,37,LLLWDWDWLWDWLWWWWLW,1,0,8,12,21,LWDWWWWLW,LWWWWWWWW
+Sampdoria,Catania,1-1,/match/sampdoria/catania/2010,2010,20,serie_a,20,38,1,1,1,10,7,5,7,22,27,LWLWWWDDWWDWWWWDWDW,5,4,0,16,6,18,3,6,10,17,28,LWWDDDDWWLWDDLWLLWW,1,3,6,10,18,WWWDWDWDD,WWDDWWDWLW
+Atalanta,Lazio,3-0,/match/atalanta/lazio/2010,2010,20,serie_a,20,38,0,3,0,20,3,5,11,17,30,WLLWDDDLWWWLLLWDDLW,1,3,5,8,14,15,4,8,7,15,18,WLLDLDDDWLDLDDWWWWD,1,5,3,5,8,LLDDWLLDL,LDDWDDWWD
+Chievo,Juventus,1-0,/match/chievo/juventus-fc/2010,2010,20,serie_a,20,38,0,1,0,14,7,3,9,20,21,WLLWDDLLLLDWWWLWWLW,3,2,4,11,11,7,10,3,6,32,25,WLLWDDWDLWLLWWWWLLL,5,1,3,16,13,LWDLLDWWL,LLDWLLWWL
+Roma,Genoa,3-0,/match/roma/genoa/2010,2010,20,serie_a,20,38,0,3,0,5,9,5,5,30,24,WLLWDDWWLWWDWLWDWDW,7,0,2,15,8,6,8,4,7,33,33,WLWWDWLLWWDWWWDWDWW,2,1,6,10,17,LWWLWWWWW,LWWLWDWWW
+Fiorentina,Bologna,1-2,/match/fiorentina/bologna/2010,2010,20,serie_a,20,38,2,1,2,9,9,3,7,26,19,DWWWWLDDLWWLLWWWLLW,6,1,3,14,8,17,4,5,10,19,28,DDLWWDLWWWWWLDWWDWL,0,3,6,5,13,WWWDLWLWLW,DWDWWWDWW
+Napoli,Palermo FC,0-0,/match/napoli/palermo/2010,2010,20,serie_a,20,38,1,0,0,3,9,6,4,29,24,WWWDWWWWLDLDDDWDWLW,6,3,0,15,7,4,8,6,5,24,21,WWDWDDWLWWDWDWWLWDW,2,2,5,10,14,WDWWDDWWW,WWDLWWWLD
+Catania,Parma,3-0,/match/catania/parma-fc/2010,2010,21,serie_a,20,38,0,3,0,18,3,7,10,18,29,LWWDDDDWWLWDDLWLLWWD,2,3,4,7,10,8,8,5,7,24,26,DWWWLLDWWWWWLDDWWLWD,2,3,5,12,19,LDDWLDLLW,DWLDWWLDWW
+Juventus,Roma,1-2,/match/juventus-fc/roma/2010,2010,21,serie_a,20,38,2,1,2,9,10,3,7,32,26,WLLWDDWDLWLLWWWWLLLW,5,2,3,16,12,4,10,5,5,33,24,WLLWDDWWLWWDWLWDWDWW,2,5,3,15,16,WWDDWLWWLL,WLDDWWDLDD
+Udinese,Sampdoria,2-3,/match/udinese/sampdoria/2010,2010,21,serie_a,20,38,2,2,3,13,6,5,9,22,25,DWWDWWWLWWDLWWWWWWDD,6,2,2,17,11,7,7,6,7,23,28,LWLWWWDDWWDWWWWDWDWD,2,1,7,6,21,DWWWLWLWWD,LLWDWWWWWW
+Livorno,Napoli,0-2,/match/livorno/napoli/2010,2010,21,serie_a,20,38,2,0,2,16,6,3,11,13,27,DWDWWLDLLWLWWWLLWWWW,4,2,4,9,10,3,9,7,4,29,24,WWWDWWWWLDLDDDWDWLWD,3,3,4,14,17,DDLLWLWLWW,WWWWLLDDDL
+Palermo FC,Fiorentina,3-0,/match/palermo/fiorentina/2010,2010,21,serie_a,20,38,0,3,0,5,8,7,5,24,21,WWDWDDWLWWDWDWWLWDWD,6,4,0,14,7,11,9,3,8,27,21,DWWWWLDDLWWLLWWWLLWL,3,2,4,12,11,WDDWWDDWWW,DWLDWLWWL
+Lazio,Chievo,1-1,/match/lazio/chievo/2010,2010,21,serie_a,20,38,1,1,1,15,4,8,8,15,21,WLLDLDDDWLDLDDWWWWDW,3,3,4,10,10,14,8,3,9,21,21,WLLWDDLLLLDWWWLWWLWW,4,1,5,9,10,WLLDDLLDWW,WLDLLWWLWW
+Siena,Cagliari,1-1,/match/siena/cagliari/2010,2010,21,serie_a,20,38,1,1,1,20,3,3,14,21,41,LLLWDWDWLWDWLWWWWLWW,2,3,5,9,16,12,9,3,8,32,25,DLWLLLLWWLWWWWWDWDLW,4,1,5,11,11,LLDDLDLWWL,DWLLWLWWWL
+Bologna,SSC Bari,2-1,/match/bologna/as-bari/2010,2010,21,serie_a,20,38,0,2,1,17,5,5,10,21,29,DDLWWDLWWWWWLDWWDWLL,4,2,4,14,15,6,7,8,5,25,20,DDDWLDDLWWDWWWWWDWWD,1,5,4,9,14,DLWLWWLWDL,DDDLWDWWDW
+Genoa,Atalanta,2-0,/match/genoa/atalanta/2010,2010,21,serie_a,20,38,0,2,0,10,8,4,8,33,36,WLWWDWLLWWDWWWDWDWWW,6,3,1,23,16,19,4,5,11,20,30,WLLWDDDLWWWLLLWDDLWW,2,2,6,9,16,WWDLWWWDDW,WWDLWWLWDW
+Inter,Milan,2-0,/match/internazionale/milan/2010,2010,21,serie_a,20,38,0,2,0,1,14,4,2,43,19,DLWLWWWLWWLDLWWDWLWD,8,2,0,22,11,2,13,4,3,37,20,LLDWWDDWLDWLWLWLLWLW,6,3,1,16,8,DWWWWWDWWW,LDWDLDLLLL
+SSC Bari,Palermo FC,4-2,/match/as-bari/palermo/2010,2010,22,serie_a,20,38,0,4,2,7,7,8,6,26,22,DDDWLDDLWWDWWWWWDWWDW,6,3,1,16,6,5,9,7,5,27,21,WWDWDDWLWWDWDWWLWDWDW,2,3,5,10,14,DWLDWWWWWD,WWDLWWWLDD
+Napoli,Genoa,0-0,/match/napoli/genoa/2010,2010,22,serie_a,20,38,1,0,0,3,10,7,4,31,24,WWWDWWWWLDLDDDWDWLWDL,6,4,0,15,7,6,9,4,8,35,36,WLWWDWLLWWDWWWDWDWWWW,2,1,7,10,20,WDWWDDWWWD,LWWLWDWWWW
+Sampdoria,Atalanta,2-0,/match/sampdoria/atalanta/2010,2010,22,serie_a,20,38,0,2,0,8,8,6,7,26,30,LWLWWWDDWWDWWWWDWDWDL,5,5,0,17,7,19,4,5,12,20,32,WLLWDDDLWWWLLLWDDLWWW,2,2,7,9,18,WWWDWDWDDD,WWDLWWLWDWW
+Roma,Siena,2-1,/match/roma/siena/2010,2010,22,serie_a,20,38,0,2,1,4,11,5,5,35,25,WLLWDDWWLWWDWLWDWDWWL,8,0,2,18,8,20,3,4,14,22,42,LLLWDWDWLWDWLWWWWLWWD,1,0,9,12,25,LWWLWWWWWW,LWWWWWWWWW
+Milan,Livorno,1-1,/match/milan/livorno/2010,2010,22,serie_a,20,38,1,1,1,2,13,4,4,37,22,LLDWWDDWLDWLWLWLLWLWW,7,1,2,21,12,17,6,3,12,13,29,DWDWWLDLLWLWWWLLWWWWL,2,1,7,4,17,LWDWWWWLWW,WWWDLWWLWW
+Catania,Udinese,1-1,/match/catania/udinese/2010,2010,22,serie_a,20,38,1,1,1,18,4,7,10,21,29,LWWDDDDWWLWDDLWLLWWDW,3,3,4,10,10,13,6,5,10,24,28,DWWDWWWLWWDLWWWWWWDDL,0,3,7,5,14,LDDWLDLLWW,WDWWDWWWWD
+Cagliari,Fiorentina,2-2,/match/cagliari/fiorentina/2010,2010,22,serie_a,20,38,1,2,2,11,9,4,8,33,26,DLWLLLLWWLWWWWWDWDLWD,5,2,3,21,14,12,9,3,9,27,24,DWWWWLDDLWWLLWWWLLWLW,3,2,5,12,14,LLLWWWWDDW,DWLDWLWWLW
+Chievo,Bologna,1-1,/match/chievo/bologna/2010,2010,22,serie_a,20,38,1,1,1,14,8,4,9,22,22,WLLWDDLLLLDWWWLWWLWWD,4,2,4,12,11,15,6,5,10,23,30,DDLWWDLWWWWWLDWWDWLLW,1,3,6,7,14,LWDLLDWWLW,DWDWWWDWWL
+Juventus,Lazio,1-1,/match/juventus-fc/lazio/2010,2010,22,serie_a,20,38,1,1,1,10,10,3,8,33,28,WLLWDDWDLWLLWWWWLLLWL,5,2,4,17,14,16,4,9,8,16,22,WLLDLDDDWLDLDDWWWWDWD,1,5,4,5,11,WWDDWLWWLLL,LDDWDDWWDW
+Parma,Inter,1-1,/match/parma-fc/internazionale/2010,2010,22,serie_a,20,38,1,1,1,9,8,5,8,24,29,DWWWLLDWWWWWLDDWWLWDW,6,2,2,12,7,1,15,4,2,45,19,DLWLWWWLWWLDLWWDWLWDW,6,2,2,21,8,WWLWWWDWLD,LLWLLLWDLD
+Palermo FC,Parma,2-1,/match/palermo/parma-fc/2010,2010,23,serie_a,20,38,0,2,1,5,9,7,6,29,25,WWDWDDWLWWDWDWWLWDWDWW,7,4,0,17,7,9,8,6,8,25,30,DWWWLLDWWWWWLDDWWLWDWD,2,3,6,12,22,WDDWWDDWWWW,DWLDWWLDWWW
+Livorno,Juventus,1-1,/match/livorno/juventus-fc/2010,2010,23,serie_a,20,38,1,1,1,17,6,4,12,14,30,DWDWWLDLLWLWWWLLWWWWLD,4,2,5,9,12,10,10,4,8,34,29,WLLWDDWDLWLLWWWWLLLWLD,5,1,4,16,14,DDLLWLWLWWL,LLDWLLWWLW
+Atalanta,SSC Bari,1-0,/match/atalanta/as-bari/2010,2010,23,serie_a,20,38,0,1,0,19,4,5,13,20,34,WLLWDDDLWWWLLLWDDLWWWW,2,3,5,11,14,6,8,8,6,30,24,DDDWLDDLWWDWWWWWDWWDWW,1,5,5,10,16,LLDDWLLDLW,DDDLWDWWDWW
+Udinese,Napoli,3-1,/match/udinese/napoli/2010,2010,23,serie_a,20,38,0,3,1,13,6,6,10,25,29,DWWDWWWLWWDLWWWWWWDDLD,6,2,3,19,14,4,10,8,4,31,24,WWWDWWWWLDLDDDWDWLWDLD,4,3,4,16,17,DWWWLWLWWDL,WWWWLLDDDLL
+Bologna,Milan,0-0,/match/bologna/milan/2010,2010,23,serie_a,20,38,1,0,0,15,6,6,10,24,31,DDLWWDLWWWWWLDWWDWLLWD,5,2,4,16,16,2,13,5,4,38,23,LLDWWDDWLDWLWLWLLWLWWD,6,3,2,16,10,DLWLWWLWDLW,LDWDLDLLLLW
+Genoa,Chievo,1-0,/match/genoa/chievo/2010,2010,23,serie_a,20,38,0,1,0,8,9,5,8,35,36,WLWWDWLLWWDWWWDWDWWWWD,7,3,1,25,16,14,8,5,9,23,23,WLLWDDLLLLDWWWLWWLWWDD,4,2,5,10,11,WWDLWWWDDWW,WLDLLWWLWWD
+Lazio,Catania,0-1,/match/lazio/catania/2010,2010,23,serie_a,20,38,2,0,1,16,4,10,8,17,23,WLLDLDDDWLDLDDWWWWDWDD,3,4,4,11,11,18,4,8,10,22,30,LWWDDDDWWLWDDLWLLWWDWD,1,4,6,11,19,WLLDDLLDWWD,WWDDWWDWLWD
+Inter,Cagliari,3-0,/match/internazionale/cagliari/2010,2010,23,serie_a,20,38,0,3,0,1,15,5,2,46,20,DLWLWWWLWWLDLWWDWLWDWD,9,2,0,24,11,11,9,5,8,35,28,DLWLLLLWWLWWWWWDWDLWDD,4,2,5,12,12,DWWWWWDWWWW,DWLLWLWWWLD
+Siena,Sampdoria,1-2,/match/siena/sampdoria/2010,2010,23,serie_a,20,38,2,1,2,20,3,4,15,23,44,LLLWDWDWLWDWLWWWWLWWDW,2,4,5,10,17,7,9,6,7,28,30,LWLWWWDDWWDWWWWDWDWDLW,3,1,7,9,23,LLDDLDLWWLD,LLWDWWWWWWL
+Fiorentina,Roma,0-1,/match/fiorentina/roma/2010,2010,23,serie_a,20,38,2,0,1,12,9,4,9,29,26,DWWWWLDDLWWLLWWWLLWLWD,6,1,4,15,10,3,12,5,5,37,26,WLLWDDWWLWWDWLWDWDWWLW,3,5,3,17,17,WWWDLWLWLWL,WLDDWWDLDDL
+Milan,Udinese,3-2,/match/milan/udinese/2010,2010,24,serie_a,20,38,0,3,2,3,13,6,4,38,23,LLDWWDDWLDWLWLWLLWLWWDD,7,2,2,22,13,11,7,6,10,28,30,DWWDWWWLWWDLWWWWWWDDLDW,0,4,7,6,15,LWDWWWWLWWD,WDWWDWWWWDD
+Roma,Palermo FC,4-1,/match/roma/palermo/2010,2010,24,serie_a,20,38,0,4,1,2,13,5,5,38,26,WLLWDDWWLWWDWLWDWDWWLWL,9,0,2,20,9,4,10,7,6,31,26,WWDWDDWLWWDWDWWLWDWDWWW,2,3,6,12,18,LWWLWWWWWWW,WWDLWWWLDDW
+Sampdoria,Fiorentina,2-0,/match/sampdoria/fiorentina/2010,2010,24,serie_a,20,38,0,2,0,7,10,6,7,30,31,LWLWWWDDWWDWWWWDWDWDLWL,6,5,0,19,7,13,9,4,10,29,27,DWWWWLDDLWWLLWWWLLWLWDL,3,3,5,14,16,WWWDWDWDDDW,DWLDWLWWLWD
+Chievo,Siena,0-1,/match/chievo/siena/2010,2010,24,serie_a,20,38,2,0,1,14,8,5,10,23,24,WLLWDDLLLLDWWWLWWLWWDDW,4,3,4,13,12,20,3,4,16,24,46,LLLWDWDWLWDWLWWWWLWWDWL,1,0,10,13,27,LWDLLDWWLWD,LWWWWWWWWWW
+Parma,Lazio,0-2,/match/parma-fc/lazio/2010,2010,24,serie_a,20,38,2,0,2,10,8,6,9,26,32,DWWWLLDWWWWWLDDWWLWDWDW,6,3,2,13,8,16,4,10,9,17,24,WLLDLDDDWLDLDDWWWWDWDDL,1,6,4,6,12,WWLWWWDWLDD,LDDWDDWWDWD
+Catania,Atalanta,0-0,/match/catania/atalanta/2010,2010,24,serie_a,20,38,1,0,0,18,5,8,10,23,30,LWWDDDDWWLWDDLWLLWWDWDL,3,4,4,11,11,19,5,5,13,21,34,WLLWDDDLWWWLLLWDDLWWWWW,2,2,8,9,20,LDDWLDLLWWD,WWDLWWLWDWWW
+Juventus,Genoa,3-2,/match/juventus-fc/genoa/2010,2010,24,serie_a,20,38,0,3,2,9,10,5,8,35,30,WLLWDDWDLWLLWWWWLLLWLDD,5,3,4,18,15,6,10,5,8,36,36,WLWWDWLLWWDWWWDWDWWWWDW,2,2,7,10,20,WWDDWLWWLLLD,LWWLWDWWWWD
+Livorno,Bologna,0-1,/match/livorno/bologna/2010,2010,24,serie_a,20,38,2,0,1,17,6,5,12,15,31,DWDWWLDLLWLWWWLLWWWWLDD,4,3,5,10,13,15,6,7,10,24,31,DDLWWDLWWWWWLDWWDWLLWDD,1,4,6,8,15,DDLLWLWLWWLD,DWDWWWDWWLD
+Cagliari,SSC Bari,3-1,/match/cagliari/as-bari/2010,2010,24,serie_a,20,38,0,3,1,12,9,5,9,35,31,DLWLLLLWWLWWWWWDWDLWDDW,5,3,3,23,16,8,8,8,7,30,25,DDDWLDDLWWDWWWWWDWWDWWW,1,5,6,10,17,LLLWWWWDDWD,DDDLWDWWDWWW
+Napoli,Inter,0-0,/match/napoli/internazionale/2010,2010,24,serie_a,20,38,1,0,0,5,10,8,5,32,27,WWWDWWWWLDLDDDWDWLWDLDW,6,5,0,15,7,1,16,5,2,49,20,DLWLWWWLWWLDLWWDWLWDWDW,6,3,2,22,9,WDWWDDWWWDD,LLWLLLWDLDD
+Genoa,Udinese,3-0,/match/genoa/udinese/2010,2010,25,serie_a,20,38,0,3,0,7,10,5,9,38,39,WLWWDWLLWWDWWWDWDWWWWDWW,8,3,1,26,16,12,7,6,11,30,33,DWWDWWWLWWDLWWWWWWDDLDWW,0,4,8,8,18,WWDLWWWDDWWW,WDWWDWWWWDDW
+Inter,Sampdoria,0-0,/match/internazionale/sampdoria/2010,2010,25,serie_a,20,38,1,0,0,1,16,6,2,49,20,DLWLWWWLWWLDLWWDWLWDWDWD,10,2,0,27,11,6,11,6,7,32,31,LWLWWWDDWWDWWWWDWDWDLWLW,4,1,7,11,24,DWWWWWDWWWWW,LLWDWWWWWWLL
+Cagliari,Parma,2-0,/match/cagliari/parma-fc/2010,2010,25,serie_a,20,38,0,2,0,10,10,5,9,38,32,DLWLLLLWWLWWWWWDWDLWDDWW,6,3,3,26,17,11,8,6,10,26,34,DWWWLLDWWWWWLDDWWLWDWDWL,2,3,7,13,24,LLLWWWWDDWDW,DWLDWWLDWWWW
+Siena,Napoli,0-0,/match/siena/napoli/2010,2010,25,serie_a,20,38,1,0,0,20,4,4,16,25,46,LLLWDWDWLWDWLWWWWLWWDWLL,2,4,6,11,19,5,10,9,5,32,27,WWWDWWWWLDLDDDWDWLWDLDWD,4,3,5,17,20,LLDDLDLWWLDL,WWWWLLDDDLLW
+Roma,Catania,1-0,/match/roma/catania/2010,2010,25,serie_a,20,38,0,1,0,2,14,5,5,42,27,WLLWDDWWLWWDWLWDWDWWLWLW,10,0,2,24,10,17,5,9,10,23,30,LWWDDDDWWLWDDLWLLWWDWDLD,2,4,6,12,19,LWWLWWWWWWWW,WWDDWWDWLWDL
+Fiorentina,Livorno,2-1,/match/fiorentina/livorno/2010,2010,25,serie_a,20,38,0,2,1,13,9,4,11,29,29,DWWWWLDDLWWLLWWWLLWLWDLW,6,1,5,15,11,18,6,5,13,15,32,DWDWWLDLLWLWWWLLWWWWLDDL,2,2,7,5,18,WWWDLWLWLWLL,WWWDLWWLWWD
+Palermo FC,Lazio,3-1,/match/palermo/lazio/2010,2010,25,serie_a,20,38,0,3,1,4,10,7,7,32,30,WWDWDDWLWWDWDWWLWDWDWWWW,8,4,0,19,8,16,5,10,9,19,24,WLLDLDDDWLDLDDWWWWDWDDLL,2,6,4,8,12,WDDWWDDWWWWW,LDDWDDWWDWDL
+Bologna,Juventus,1-2,/match/bologna/juventus-fc/2010,2010,25,serie_a,20,38,2,1,2,14,7,7,10,25,31,DDLWWDLWWWWWLDWWDWLLWDDL,5,3,4,16,16,8,11,5,8,38,32,WLLWDDWDLWLLWWWWLLLWLDDW,5,2,4,17,15,DLWLWWLWDLWD,LLDWLLWWLWD
+Atalanta,Chievo,0-1,/match/atalanta/chievo/2010,2010,25,serie_a,20,38,2,0,1,19,5,6,13,21,34,WLLWDDDLWWWLLLWDDLWWWWWD,3,3,5,12,14,15,8,5,11,23,25,WLLWDDLLLLDWWWLWWLWWDDWL,4,2,6,10,12,LLDDWLLDLWW,WLDLLWWLWWDW
+SSC Bari,Milan,0-2,/match/as-bari/milan/2010,2010,25,serie_a,20,38,2,0,2,9,8,8,8,31,28,DDDWLDDLWWDWWWWWDWWDWWWW,7,3,1,20,8,3,14,6,4,41,25,LLDWWDDWLDWLWLWLLWLWWDDW,6,4,2,16,10,DWLDWWWWWDW,LDWDLDLLLLWD
+Catania,SSC Bari,4-0,/match/catania/as-bari/2010,2010,26,serie_a,20,38,0,4,0,17,5,9,11,23,31,LWWDDDDWWLWDDLWLLWWDWDLDW,3,5,4,11,11,10,8,8,9,31,30,DDDWLDDLWWDWWWWWDWWDWWWWL,1,5,7,11,20,LDDWLDLLWWDD,DDDLWDWWDWWWW
+Lazio,Fiorentina,1-1,/match/lazio/fiorentina/2010,2010,26,serie_a,20,38,1,1,1,16,5,10,10,20,27,WLLDLDDDWLDLDDWWWWDWDDLLW,3,4,5,11,12,11,10,4,11,31,30,DWWWWLDDLWWLLWWWLLWLWDLWW,3,3,6,14,18,WLLDDLLDWWDL,DWLDWLWWLWDW
+Milan,Atalanta,3-1,/match/milan/atalanta/2010,2010,26,serie_a,20,38,0,3,1,3,15,6,4,43,25,LLDWWDDWLDWLWLWLLWLWWDDWL,8,2,2,25,15,19,5,6,14,21,35,WLLWDDDLWWWLLLWDDLWWWWWDL,2,3,8,9,20,LWDWWWWLWWDW,WWDLWWLWDWWWD
+Parma,Sampdoria,1-0,/match/parma-fc/sampdoria/2010,2010,26,serie_a,20,38,0,1,0,12,8,6,11,26,36,DWWWLLDWWWWWLDDWWLWDWDWLW,6,3,3,13,10,6,11,7,7,32,31,LWLWWWDDWWDWWWWDWDWDLWLWD,4,2,7,11,24,WWLWWWDWLDDL,LLWDWWWWWWLLD
+Napoli,Roma,2-2,/match/napoli/roma/2010,2010,26,serie_a,20,38,1,2,2,5,10,10,5,32,27,WWWDWWWWLDLDDDWDWLWDLDWDD,6,6,0,15,7,2,15,5,5,43,27,WLLWDDWWLWWDWLWDWDWWLWLWW,4,5,3,18,17,WDWWDDWWWDDD,WLDDWWDLDDLL
+Udinese,Inter,2-3,/match/udinese/internazionale/2010,2010,26,serie_a,20,38,2,2,3,13,7,6,12,30,36,DWWDWWWLWWDLWWWWWWDDLDWWW,7,2,3,22,15,1,16,7,2,49,20,DLWLWWWLWWLDLWWDWLWDWDWDD,6,4,2,22,9,DWWWLWLWWDLW,LLWLLLWDLDDD
+Chievo,Cagliari,2-1,/match/chievo/cagliari/2010,2010,26,serie_a,20,38,0,2,1,15,9,5,11,24,25,WLLWDDLLLLDWWWLWWLWWDDWLL,4,3,5,13,13,9,11,5,9,40,32,DLWLLLLWWLWWWWWDWDLWDDWWW,4,2,6,12,15,LWDLLDWWLWDL,DWLLWLWWWLDW
+Genoa,Bologna,3-4,/match/genoa/bologna/2010,2010,26,serie_a,20,38,2,3,4,7,11,5,9,41,39,WLWWDWLLWWDWWWDWDWWWWDWWW,9,3,1,29,16,14,7,7,11,26,33,DDLWWDLWWWWWLDWWDWLLWDDLL,2,4,6,9,15,WWDLWWWDDWWWW,DWDWWWDWWLDL
+Livorno,Siena,1-2,/match/livorno/siena/2010,2010,26,serie_a,20,38,2,1,2,18,6,5,14,16,34,DWDWWLDLLWLWWWLLWWWWLDDLW,4,3,6,10,14,20,4,5,16,25,46,LLLWDWDWLWDWLWWWWLWWDWLLD,2,0,10,14,27,DDLLWLWLWWLDL,LWWWWWWWWWWL
+Juventus,Palermo FC,0-2,/match/juventus-fc/palermo/2010,2010,26,serie_a,20,38,2,0,2,8,12,5,8,40,33,WLLWDDWDLWLLWWWWLLLWLDDWL,6,3,4,21,17,4,11,7,7,35,31,WWDWDDWLWWDWDWWLWDWDWWWWW,2,3,7,13,22,WWDDWLWWLLLDW,WWDLWWWLDDWW
+Fiorentina,Juventus,1-2,/match/fiorentina/juventus-fc/2010,2010,27,serie_a,20,38,2,1,2,12,10,5,11,32,31,DWWWWLDDLWWLLWWWLLWLWDLWWD,7,1,5,17,12,8,12,5,9,40,35,WLLWDDWDLWLLWWWWLLLWLDDWLL,6,2,4,19,16,WWWDLWLWLWLLW,LLDWLLWWLWDL
+Roma,Milan,0-0,/match/roma/milan/2010,2010,27,serie_a,20,38,1,0,0,3,15,6,5,45,29,WLLWDDWWLWWDWLWDWDWWLWLWWD,11,0,2,25,10,2,16,6,4,46,26,LLDWWDDWLDWLWLWLLWLWWDDWLW,7,4,2,18,10,LWWLWWWWWWWWW,LDWDLDLLLLWDL
+Cagliari,Catania,2-2,/match/cagliari/catania/2010,2010,27,serie_a,20,38,1,2,2,9,11,5,10,41,34,DLWLLLLWWLWWWWWDWDLWDDWWWW,7,3,3,28,17,16,6,9,11,27,31,LWWDDDDWWLWDDLWLLWWDWDLDWW,2,4,7,12,20,LLLWWWWDDWDWW,WWDDWWDWLWDLW
+Siena,Parma,1-1,/match/siena/parma-fc/2010,2010,27,serie_a,20,38,1,1,1,20,5,5,16,27,47,LLLWDWDWLWDWLWWWWLWWDWLLDL,2,5,6,11,19,10,9,6,11,27,36,DWWWLLDWWWWWLDDWWLWDWDWLWW,2,3,8,13,26,LLDDLDLWWLDLD,DWLDWWLDWWWWW
+Bologna,Napoli,2-1,/match/bologna/napoli/2010,2010,27,serie_a,20,38,0,2,1,15,8,7,11,30,36,DDLWWDLWWWWWLDWWDWLLWDDLLL,5,3,5,17,18,5,10,11,5,34,29,WWWDWWWWLDLDDDWDWLWDLDWDDD,4,4,5,17,20,DLWLWWLWDLWDL,WWWWLLDDDLLWD
+Palermo FC,Livorno,1-0,/match/palermo/livorno/2010,2010,27,serie_a,20,38,0,1,0,4,12,7,7,37,31,WWDWDDWLWWDWDWWLWDWDWWWWWL,9,4,0,22,9,18,6,5,15,17,36,DWDWWLDLLWLWWWLLWWWWLDDLWL,2,2,8,6,20,WDDWWDDWWWWWW,WWWDLWWLWWDW
+Sampdoria,Lazio,2-1,/match/sampdoria/lazio/2010,2010,27,serie_a,20,38,0,2,1,6,11,7,8,32,32,LWLWWWDDWWDWWWWDWDWDLWLWDW,7,5,0,21,7,17,5,11,10,21,28,WLLDLDDDWLDLDDWWWWDWDDLLWD,2,6,5,9,15,WWWDWDWDDDWW,LDDWDDWWDWDLW
+SSC Bari,Chievo,1-0,/match/as-bari/chievo/2010,2010,27,serie_a,20,38,0,1,0,11,8,8,10,31,34,DDDWLDDLWWDWWWWWDWWDWWWWLW,7,3,2,20,10,13,10,5,11,26,26,WLLWDDLLLLDWWWLWWLWWDDWLLW,5,2,6,11,12,DWLDWWWWWDWL,WLDLLWWLWWDWL
+Atalanta,Udinese,0-0,/match/atalanta/udinese/2010,2010,27,serie_a,20,38,1,0,0,19,5,6,15,22,38,WLLWDDDLWWWLLLWDDLWWWWWDLW,3,3,6,12,15,14,7,6,13,32,39,DWWDWWWLWWDLWWWWWWDDLDWWWL,0,4,9,8,21,LLDDWLLDLWWL,WDWWDWWWWDDWW
+Inter,Genoa,0-0,/match/internazionale/genoa/2010,2010,27,serie_a,20,38,1,0,0,1,17,7,2,52,22,DLWLWWWLWWLDLWWDWLWDWDWDDL,10,3,0,27,11,7,11,5,10,44,43,WLWWDWLLWWDWWWDWDWWWWDWWWL,2,2,8,12,23,DWWWWWDWWWWWD,LWWLWDWWWWDW
+Catania,Inter,3-1,/match/catania/internazionale/2010,2010,28,serie_a,20,38,0,3,1,16,6,10,11,29,33,LWWDDDDWWLWDDLWLLWWDWDLDWWD,4,5,4,15,11,1,17,8,2,52,22,DLWLWWWLWWLDLWWDWLWDWDWDDLD,7,4,2,25,11,LDDWLDLLWWDDW,LLWLLLWDLDDDL
+Napoli,Fiorentina,1-3,/match/napoli/fiorentina/2010,2010,28,serie_a,20,38,2,1,3,6,10,11,6,35,31,WWWDWWWWLDLDDDWDWLWDLDWDDDW,6,7,0,17,9,12,10,5,12,33,33,DWWWWLDDLWWLLWWWLLWLWDLWWDL,3,4,6,15,19,WDWWDDWWWDDDD,DWLDWLWWLWDWD
+Bologna,Sampdoria,1-1,/match/bologna/sampdoria/2010,2010,28,serie_a,20,38,1,1,1,13,9,7,11,32,37,DDLWWDLWWWWWLDWWDWLLWDDLLLW,6,3,5,19,19,5,12,7,8,34,33,LWLWWWDDWWDWWWWDWDWDLWLWDWW,4,2,8,11,25,DLWLWWLWDLWDLW,LLWDWWWWWWLLDW
+Livorno,Roma,3-3,/match/livorno/roma/2010,2010,28,serie_a,20,38,1,3,3,18,6,5,16,17,37,DWDWWLDLLWLWWWLLWWWWLDDLWLW,4,3,7,11,16,2,15,7,5,45,29,WLLWDDWWLWWDWLWDWDWWLWLWWDD,4,6,3,20,19,DDLLWLWLWWLDLL,WLDDWWDLDDLLD
+Udinese,Palermo FC,3-2,/match/udinese/palermo/2010,2010,28,serie_a,20,38,0,3,2,15,7,7,13,32,39,DWWDWWWLWWDLWWWWWWDDLDWWWLD,7,2,4,24,18,4,13,7,7,38,31,WWDWDDWLWWDWDWWLWDWDWWWWWLW,3,3,7,15,22,DWWWLWLWWDLWL,WWDLWWWLDDWWL
+Parma,Atalanta,1-0,/match/parma-fc/atalanta/2010,2010,28,serie_a,20,38,0,1,0,11,9,7,11,28,37,DWWWLLDWWWWWLDDWWLWDWDWLWWD,7,3,3,14,10,19,5,7,15,22,38,WLLWDDDLWWWLLLWDDLWWWWWDLWD,2,3,9,10,23,WWLWWWDWLDDLW,WWDLWWLWDWWWDW
+Genoa,Cagliari,5-3,/match/genoa/cagliari/2010,2010,28,serie_a,20,38,0,5,3,7,11,6,10,44,43,WLWWDWLLWWDWWWDWDWWWWDWWWLD,9,3,2,32,20,9,11,6,10,43,36,DLWLLLLWWLWWWWWDWDLWDDWWWWD,4,2,7,13,17,WWDLWWWDDWWWWL,DWLLWLWWWLDWW
+Lazio,SSC Bari,0-2,/match/lazio/as-bari/2010,2010,28,serie_a,20,38,2,0,2,17,5,11,11,22,30,WLLDLDDDWLDLDDWWWWDWDDLLWDW,3,5,5,12,13,10,9,8,10,32,34,DDDWLDDLWWDWWWWWDWWDWWWWLWW,1,5,8,11,24,WLLDDLLDWWDLD,DDDLWDWWDWWWWW
+Juventus,Siena,3-3,/match/juventus-fc/siena/2010,2010,28,serie_a,20,38,1,3,3,8,13,5,9,42,36,WLLWDDWDLWLLWWWWLLLWLDDWLLL,6,3,5,21,19,20,5,6,16,28,48,LLLWDWDWLWDWLWWWWLWWDWLLDLD,3,0,10,16,28,WWDDWLWWLLLDWL,LWWWWWWWWWWLL
+Milan,Chievo,1-0,/match/milan/chievo/2010,2010,28,serie_a,20,38,0,1,0,3,16,7,4,46,26,LLDWWDDWLDWLWLWLLWLWWDDWLWD,9,2,2,28,16,14,10,5,12,26,27,WLLWDDLLLLDWWWLWWLWWDDWLLWW,5,2,7,11,13,LWDWWWWLWWDWW,WLDLLWWLWWDWLW
+Fiorentina,Genoa,3-0,/match/fiorentina/genoa/2010,2010,29,serie_a,20,38,0,3,0,12,11,5,12,36,34,DWWWWLDDLWWLLWWWLLWLWDLWWDLL,7,1,6,18,14,6,12,6,10,49,46,WLWWDWLLWWDWWWDWDWWWWDWWWLDW,2,3,8,12,23,WWWDLWLWLWLLWL,LWWLWDWWWWDWD
+Roma,Udinese,4-2,/match/roma/udinese/2010,2010,29,serie_a,20,38,0,4,2,3,15,8,5,48,32,WLLWDDWWLWWDWLWDWDWWLWLWWDDD,11,1,2,25,10,14,8,7,13,35,41,DWWDWWWLWWDLWWWWWWDDLDWWWLDW,0,5,9,8,21,LWWLWWWWWWWWWD,WDWWDWWWWDDWWD
+Palermo FC,Inter,1-1,/match/palermo/internazionale/2010,2010,29,serie_a,20,38,1,1,1,4,13,7,8,40,34,WWDWDDWLWWDWDWWLWDWDWWWWWLWW,10,4,0,23,9,1,17,8,3,53,25,DLWLWWWLWWLDLWWDWLWDWDWDDLDW,7,4,3,26,14,WDDWWDDWWWWWWW,LLWLLLWDLDDDLW
+SSC Bari,Parma,1-1,/match/as-bari/parma-fc/2010,2010,29,serie_a,20,38,1,1,1,9,10,8,10,34,34,DDDWLDDLWWDWWWWWDWWDWWWWLWWL,8,3,2,21,10,10,10,7,11,29,37,DWWWLLDWWWWWLDDWWLWDWDWLWWDW,2,4,8,14,27,DWLDWWWWWDWLW,DWLDWWLDWWWWWD
+Milan,Napoli,1-1,/match/milan/napoli/2010,2010,29,serie_a,20,38,1,1,1,2,17,7,4,47,26,LLDWWDDWLDWLWLWLLWLWWDDWLWDW,10,2,2,29,16,7,10,11,7,36,34,WWWDWWWWLDLDDDWDWLWDLDWDDDWL,4,4,6,18,22,LWDWWWWLWWDWWW,WWWWLLDDDLLWDW
+Atalanta,Livorno,3-0,/match/atalanta/livorno/2010,2010,29,serie_a,20,38,0,3,0,19,5,7,16,22,39,WLLWDDDLWWWLLLWDDLWWWWWDLWDW,3,4,6,12,15,18,6,6,16,20,40,DWDWWLDLLWLWWWLLWWWWLDDLWLWD,2,2,9,6,21,LLDDWLLDLWWLD,WWWDLWWLWWDWW
+Cagliari,Lazio,0-2,/match/cagliari/lazio/2010,2010,29,serie_a,20,38,2,0,2,11,11,6,11,46,41,DLWLLLLWWLWWWWWDWDLWDDWWWWDW,7,4,3,30,19,17,5,11,12,22,32,WLLDLDDDWLDLDDWWWWDWDDLLWDWL,2,6,6,10,17,LLLWWWWDDWDWWD,LDDWDDWWDWDLWW
+Chievo,Catania,1-1,/match/chievo/catania/2010,2010,29,serie_a,20,38,1,1,1,16,10,5,13,26,28,WLLWDDLLLLDWWWLWWLWWDDWLLWWW,5,3,5,15,14,15,7,10,11,32,34,LWWDDDDWWLWDDLWLLWWDWDLDWWDW,2,5,7,14,22,LWDLLDWWLWDLW,WWDDWWDWLWDLWD
+Siena,Bologna,1-0,/match/siena/bologna/2010,2010,29,serie_a,20,38,0,1,0,20,5,7,16,31,51,LLLWDWDWLWDWLWWWWLWWDWLLDLDD,2,6,6,12,20,13,9,8,11,33,38,DDLWWDLWWWWWLDWWDWLLWDDLLLWD,3,4,6,13,18,LLDDLDLWWLDLDD,DWDWWWDWWLDLL
+Sampdoria,Juventus,1-0,/match/sampdoria/juventus-fc/2010,2010,29,serie_a,20,38,0,1,0,5,12,8,8,35,34,LWLWWWDDWWDWWWWDWDWDLWLWDWWD,8,5,0,23,8,8,13,6,9,45,39,WLLWDDWDLWLLWWWWLLLWLDDWLLLD,7,2,4,21,17,WWWDWDWDDDWWW,LLDWLLWWLWDLL
+Atalanta,Cagliari,3-1,/match/atalanta/cagliari/2010,2010,30,serie_a,20,38,0,3,1,18,6,7,16,25,39,WLLWDDDLWWWLLLWDDLWWWWWDLWDWW,4,4,6,15,15,12,11,6,12,46,43,DLWLLLLWWLWWWWWDWDLWDDWWWWDWL,4,2,8,16,22,LLDDWLLDLWWLDW,DWLLWLWWWLDWWW
+SSC Bari,Sampdoria,2-1,/match/as-bari/sampdoria/2010,2010,30,serie_a,20,38,0,2,1,8,10,9,10,35,35,DDDWLDDLWWDWWWWWDWWDWWWWLWWLD,8,4,2,22,11,5,13,8,8,36,34,LWLWWWDDWWDWWWWDWDWDLWLWDWWDW,4,3,8,12,26,DWLDWWWWWDWLWD,LLWDWWWWWWLLDWD
+Bologna,Roma,0-2,/match/bologna/roma/2010,2010,30,serie_a,20,38,2,0,2,13,9,8,12,33,39,DDLWWDLWWWWWLDWWDWLLWDDLLLWDW,6,4,5,20,20,2,16,8,5,52,34,WLLWDDWWLWWDWLWDWDWWLWLWWDDDW,4,7,3,23,22,DLWLWWLWDLWDLWD,WLDDWWDLDDLLDD
+Genoa,Palermo FC,2-2,/match/genoa/palermo/2010,2010,30,serie_a,20,38,1,2,2,6,12,6,11,49,49,WLWWDWLLWWDWWWDWDWWWWDWWWLDWW,10,3,2,37,23,4,13,8,8,41,35,WWDWDDWLWWDWDWWLWDWDWWWWWLWWD,3,3,8,17,25,WWDLWWWDDWWWWLW,WWDLWWWLDDWWLW
+Parma,Milan,1-0,/match/parma-fc/milan/2010,2010,30,serie_a,20,38,0,1,0,10,10,8,11,30,38,DWWWLLDWWWWWLDDWWLWDWDWLWWDWD,8,3,3,15,10,3,17,8,4,48,27,LLDWWDDWLDWLWLWLLWLWWDDWLWDWD,7,5,2,18,10,WWLWWWDWLDDLWW,LDWDLDLLLLWDLD
+Inter,Livorno,3-0,/match/internazionale/livorno/2010,2010,30,serie_a,20,38,0,3,0,1,17,9,3,54,26,DLWLWWWLWWLDLWWDWLWDWDWDDLDWD,10,4,0,27,11,20,6,6,17,20,43,DWDWWLDLLWLWWWLLWWWWLDDLWLWDW,2,2,10,6,24,DWWWWWDWWWWWDD,WWWDLWWLWWDWWW
+Catania,Fiorentina,1-0,/match/catania/fiorentina/2010,2010,30,serie_a,20,38,0,1,0,15,7,11,11,33,35,LWWDDDDWWLWDDLWLLWWDWDLDWWDWD,5,5,4,18,12,11,12,5,12,39,34,DWWWWLDDLWWLLWWWLLWLWDLWWDLLW,4,4,6,18,20,LDDWLDLLWWDDWW,DWLDWLWWLWDWDL
+Udinese,Chievo,0-0,/match/udinese/chievo/2010,2010,30,serie_a,20,38,1,0,0,14,8,7,14,37,45,DWWDWWWLWWDLWWWWWWDDLDWWWLDWW,8,2,4,27,20,16,10,6,13,27,29,WLLWDDLLLLDWWWLWWLWWDDWLLWWWD,5,2,8,11,14,DWWWLWLWWDLWLW,WLDLLWWLWWDWLWW
+Lazio,Siena,2-0,/match/lazio/siena/2010,2010,30,serie_a,20,38,0,2,0,17,6,11,12,24,32,WLLDLDDDWLDLDDWWWWDWDDLLWDWLL,3,5,6,12,15,19,6,7,16,32,51,LLLWDWDWLWDWLWWWWLWWDWLLDLDDW,3,1,10,19,31,WLLDDLLDWWDLDL,LWWWWWWWWWWLLD
+Napoli,Juventus,3-1,/match/napoli/juventus-fc/2010,2010,30,serie_a,20,38,0,3,1,7,10,12,7,37,35,WWWDWWWWLDLDDDWDWLWDLDWDDDWLD,6,7,1,18,12,9,13,6,10,45,40,WLLWDDWDLWLLWWWWLLLWLDDWLLLDW,7,2,5,21,18,WDWWDDWWWDDDDL,LLDWLLWWLWDLLW
+Roma,Inter,2-1,/match/roma/internazionale/2010,2010,31,serie_a,20,38,0,2,1,2,17,8,5,54,34,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWL,12,1,2,29,12,1,18,9,3,57,26,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDW,7,5,3,27,15,LWWLWWWWWWWWWDW,LLWLLLWDLDDDLWD
+Palermo FC,Bologna,3-1,/match/palermo/bologna/2010,2010,31,serie_a,20,38,0,3,1,4,13,9,8,43,37,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDD,10,5,0,24,10,15,9,8,13,33,41,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWL,3,4,7,13,19,WDDWWDDWWWWWWWD,DWDWWWDWWLDLLW
+Juventus,Atalanta,2-1,/match/juventus-fc/atalanta/2010,2010,31,serie_a,20,38,0,2,1,10,13,6,11,46,43,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWW,6,4,5,24,22,18,7,7,16,28,40,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWW,2,3,10,10,24,WWDDWLWWLLLDWLD,WWDLWWLWDWWWDWW
+Chievo,Parma,0-0,/match/chievo/parma-fc/2010,2010,31,serie_a,20,38,1,0,0,16,10,7,13,27,29,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDD,5,4,5,16,15,9,11,8,11,31,38,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDW,2,5,8,15,28,LWDLLDWWLWDLWD,DWLDWWLDWWWWWDD
+Siena,Genoa,0-0,/match/siena/genoa/2010,2010,31,serie_a,20,38,1,0,0,19,6,7,17,32,53,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWW,3,6,6,13,20,6,12,7,11,51,51,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWD,2,3,9,12,26,LLDDLDLWWLDLDDW,LWWLWDWWWWDWDW
+Napoli,Catania,1-0,/match/napoli/catania/2010,2010,31,serie_a,20,38,0,1,0,7,11,12,7,40,36,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDW,7,7,1,21,13,13,8,11,11,34,35,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDW,2,6,7,15,23,WDWWDDWWWDDDDLW,WWDDWWDWLWDLWDD
+Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/2010,2010,31,serie_a,20,38,1,1,1,5,13,8,9,37,36,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWW,9,5,0,24,8,11,11,6,13,47,46,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLW,4,2,9,17,25,WWWDWDWDDDWWWW,DWLLWLWWWLDWWWW
+Livorno,SSC Bari,1-1,/match/livorno/as-bari/2010,2010,31,serie_a,20,38,1,1,1,20,6,6,18,20,46,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWW,4,4,7,14,19,8,11,9,10,37,36,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDW,2,5,8,13,24,DDLLWLWLWWLDLLD,DDDLWDWWDWWWWWL
+Fiorentina,Udinese,4-1,/match/fiorentina/udinese/2010,2010,31,serie_a,20,38,0,4,1,12,12,5,13,39,35,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWW,8,1,6,21,14,14,8,8,14,37,45,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWD,0,5,10,10,25,WWWDLWLWLWLLWLW,WDWWDWWWWDDWWDW
+Milan,Lazio,1-1,/match/milan/lazio/2010,2010,31,serie_a,20,38,1,1,1,3,17,8,5,48,28,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDW,10,3,2,30,17,17,7,11,12,26,32,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLW,3,6,6,12,17,LWDWWWWLWWDWWWD,LDDWDDWWDWDLWWL
+Inter,Bologna,3-0,/match/internazionale/bologna/2010,2010,32,serie_a,20,38,0,3,0,1,18,9,4,58,28,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDWW,11,4,0,30,11,16,9,8,14,34,44,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWLW,3,4,8,14,22,DWWWWWDWWWWWDDW,DWDWWWDWWLDLLWW
+Chievo,Sampdoria,1-2,/match/chievo/sampdoria/2010,2010,32,serie_a,20,38,2,1,2,15,10,8,13,27,29,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDDD,5,5,5,16,15,5,13,9,9,38,37,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWWD,4,3,9,13,28,LWDLLDWWLWDLWDD,LLWDWWWWWWLLDWDW
+SSC Bari,Roma,0-1,/match/as-bari/roma/2010,2010,32,serie_a,20,38,2,0,1,8,11,10,10,38,37,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDWD,9,4,2,24,12,2,18,8,5,56,35,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWLW,5,7,3,25,22,DWLDWWWWWDWLWDW,WLDDWWDLDDLLDDL
+Lazio,Napoli,1-1,/match/lazio/napoli/2010,2010,32,serie_a,20,38,1,1,1,17,7,12,12,27,33,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLWD,4,5,6,14,15,6,12,12,7,41,36,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDWW,4,5,6,19,23,WLLDDLLDWWDLDLW,WWWWLLDDDLLWDWD
+Cagliari,Milan,2-3,/match/cagliari/milan/2010,2010,32,serie_a,20,38,2,2,3,12,11,7,13,48,47,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLWD,7,4,4,30,21,3,17,9,5,49,29,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDWD,7,5,3,18,11,LLLWWWWDDWDWWDL,LDWDLDLLLLWDLDW
+Genoa,Livorno,1-1,/match/genoa/livorno/2010,2010,32,serie_a,20,38,1,1,1,7,12,8,11,51,51,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWDD,10,4,2,39,25,20,6,7,18,21,47,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWWD,2,2,11,6,27,WWDLWWWDDWWWWLWD,WWWDLWWLWWDWWWW
+Parma,Fiorentina,1-1,/match/parma-fc/fiorentina/2010,2010,32,serie_a,20,38,1,1,1,9,11,9,11,31,38,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDWD,9,3,3,16,10,11,13,5,13,43,36,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWWW,4,4,7,18,21,WWLWWWDWLDDLWWW,DWLDWLWWLWDWDLW
+Atalanta,Siena,2-0,/match/atalanta/siena/2010,2010,32,serie_a,20,38,0,2,0,18,7,7,17,29,42,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWWW,5,4,6,18,16,19,6,8,17,32,53,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWWD,3,1,11,19,33,LLDDWLLDLWWLDWW,LWWWWWWWWWWLLDW
+Catania,Palermo FC,2-0,/match/catania/palermo/2010,2010,32,serie_a,20,38,0,2,0,13,8,11,12,34,36,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDWW,6,5,4,19,12,4,14,9,8,46,38,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDDW,3,4,8,19,27,LDDWLDLLWWDDWWW,WWDLWWWLDDWWLWD
+Udinese,Juventus,3-0,/match/udinese/juventus-fc/2010,2010,32,serie_a,20,38,0,3,0,14,8,8,15,38,49,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWDW,8,3,4,27,20,10,14,6,11,48,44,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWWW,7,2,6,22,21,DWWWLWLWWDLWLWD,LLDWLLWWLWDLLWW
+Napoli,Parma,2-3,/match/napoli/parma-fc/2010,2010,33,serie_a,20,38,2,2,3,6,12,13,7,42,37,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDWWD,8,7,1,22,13,9,11,10,11,32,39,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDWDD,2,6,8,15,28,WDWWDDWWWDDDDLWW,DWLDWWLDWWWWWDDD
+Fiorentina,Inter,2-2,/match/fiorentina/internazionale/2010,2010,33,serie_a,20,38,1,2,2,11,13,6,13,44,37,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWWWD,9,1,6,25,15,1,19,9,4,61,28,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDWWW,7,5,4,28,17,WWWDLWLWLWLLWLWW,LLWLLLWDLDDDLWDW
+Roma,Atalanta,2-1,/match/roma/atalanta/2010,2010,33,serie_a,20,38,0,2,1,2,19,8,5,57,35,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWLWL,13,1,2,31,13,18,8,7,17,31,42,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWWWW,2,3,11,11,26,LWWLWWWWWWWWWDWW,WWDLWWLWDWWWDWWW
+Bologna,Lazio,2-3,/match/bologna/lazio/2010,2010,33,serie_a,20,38,2,2,3,16,9,8,15,34,47,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWLWW,6,4,6,20,22,17,7,13,12,28,34,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLWDD,3,7,6,13,18,DLWLWWLWDLWDLWDL,LDDWDDWWDWDLWWLD
+Livorno,Udinese,0-2,/match/livorno/udinese/2010,2010,33,serie_a,20,38,2,0,2,20,6,8,18,22,48,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWWDD,4,5,7,15,20,14,9,8,15,41,49,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWDWW,0,5,11,11,29,DDLLWLWLWWLDLLDD,WDWWDWWWWDDWWDWW
+Palermo FC,Chievo,3-1,/match/palermo/chievo/2010,2010,33,serie_a,20,38,0,3,1,4,14,9,9,46,40,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDDWW,11,5,0,27,11,15,10,8,14,28,31,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDDDL,5,3,8,11,14,WDDWWDDWWWWWWWDW,WLDLLWWLWWDWLWWD
+Milan,Catania,2-2,/match/milan/catania/2010,2010,33,serie_a,20,38,1,2,2,3,18,9,5,52,31,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDWDL,10,4,2,31,18,12,9,11,12,36,36,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDWWW,2,6,8,15,24,LWDWWWWLWWDWWWDD,WWDDWWDWLWDLWDDW
+Juventus,Cagliari,1-0,/match/juventus-fc/cagliari/2010,2010,33,serie_a,20,38,0,1,0,10,14,6,12,48,47,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWWWW,7,4,5,26,23,13,11,7,14,50,50,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLWDL,4,3,9,18,26,WWDDWLWWLLLDWLDW,DWLLWLWWWLDWWWWD
+Siena,SSC Bari,3-2,/match/siena/as-bari/2010,2010,33,serie_a,20,38,0,3,2,19,6,8,18,32,55,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWWDW,3,7,6,13,20,8,11,10,11,38,38,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDWDL,2,6,8,14,25,LLDDLDLWWLDLDDWD,DDDLWDWWDWWWWWLD
+Sampdoria,Genoa,1-0,/match/sampdoria/genoa/2010,2010,33,serie_a,20,38,0,1,0,5,14,9,9,40,38,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWWDL,9,6,0,25,9,7,12,9,11,52,52,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWDDD,2,4,9,12,26,WWWDWDWDDDWWWWD,LWWLWDWWWWDWDWD
+Inter,Juventus,2-0,/match/internazionale/juventus-fc/2010,2010,34,serie_a,20,38,0,2,0,2,19,10,4,63,30,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDWWWD,12,4,0,33,11,9,15,6,12,49,47,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWWWWW,7,2,7,22,24,DWWWWWDWWWWWDDWW,LLDWLLWWLWDLLWWW
+Chievo,Livorno,2-0,/match/chievo/livorno/2010,2010,34,serie_a,20,38,0,2,0,15,10,8,15,29,34,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDDDLW,5,5,6,17,17,20,6,8,19,22,50,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWWDDL,2,3,11,7,28,LWDLLDWWLWDLWDDL,WWWDLWWLWWDWWWWD
+Udinese,Bologna,1-1,/match/udinese/bologna/2010,2010,34,serie_a,20,38,1,1,1,13,10,8,15,43,49,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWDWWL,9,3,4,30,20,17,9,8,16,36,50,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWLWWL,3,4,9,14,25,DWWWLWLWWDLWLWDW,DWDWWWDWWLDLLWWW
+Cagliari,Palermo FC,2-2,/match/cagliari/palermo/2010,2010,34,serie_a,20,38,1,2,2,14,11,7,15,50,51,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLWDLW,7,4,5,32,24,4,15,9,9,49,41,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDDWWW,3,4,9,19,29,LLLWWWWDDWDWWDLL,WWDLWWWLDDWWLWDW
+SSC Bari,Napoli,1-2,/match/as-bari/napoli/2010,2010,34,serie_a,20,38,2,1,2,10,11,10,12,40,41,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDWDLW,9,4,3,24,13,6,12,13,8,44,40,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDWWDL,4,6,6,20,24,DWLDWWWWWDWLWDWL,WWWWLLDDDLLWDWDD
+Sampdoria,Milan,2-1,/match/sampdoria/milan/2010,2010,34,serie_a,20,38,0,2,1,5,15,9,9,41,38,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWWDLW,10,6,0,26,9,3,18,10,5,54,33,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDWDLD,8,5,3,21,13,WWWDWDWDDDWWWWDW,LDWDLDLLLLWDLDWL
+Parma,Genoa,2-3,/match/parma-fc/genoa/2010,2010,34,serie_a,20,38,2,2,3,8,12,10,11,35,41,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDWDDL,9,4,3,17,11,7,12,9,12,52,53,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWDDDW,2,4,10,12,27,WWLWWWDWLDDLWWWD,LWWLWDWWWWDWDWDW
+Atalanta,Fiorentina,2-1,/match/atalanta/fiorentina/2010,2010,34,serie_a,20,38,0,2,1,18,8,7,18,32,44,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWWWWW,6,4,6,20,16,11,13,7,13,46,39,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWWWDD,4,5,7,19,22,LLDDWLLDLWWLDWWW,DWLDWLWWLWDWDLWD
+Catania,Siena,2-2,/match/catania/siena/2010,2010,34,serie_a,20,38,1,2,2,12,9,12,12,38,38,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDWWWD,7,5,4,21,12,19,7,8,18,35,57,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWWDWW,3,1,12,19,35,LDDWLDLLWWDDWWWW,LWWWWWWWWWWLLDWW
+Lazio,Roma,1-2,/match/lazio/roma/2010,2010,34,serie_a,20,38,2,1,2,16,8,13,12,31,36,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLWDDL,4,6,6,15,16,1,20,8,5,59,36,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWLWLW,6,7,3,26,22,WLLDDLLDWWDLDLWD,WLDDWWDLDDLLDDLL
+Inter,Atalanta,3-1,/match/internazionale/atalanta/2010,2010,35,serie_a,20,38,0,3,1,1,20,10,4,65,30,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDWWWDW,13,4,0,35,11,18,9,7,18,34,45,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWWWWWW,2,3,12,12,28,DWWWWWDWWWWWDDWWW,WWDLWWLWDWWWDWWWW
+Palermo FC,Milan,3-1,/match/palermo/milan/2010,2010,35,serie_a,20,38,0,3,1,4,15,10,9,51,43,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDDWWWD,12,5,0,30,12,3,18,10,6,55,35,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDWDLDW,8,5,4,22,15,WDDWWDDWWWWWWWDWW,LDWDLDLLLLWDLDWLW
+Bologna,Parma,2-1,/match/bologna/parma-fc/2010,2010,35,serie_a,20,38,0,2,1,17,9,9,16,37,51,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWLWWLD,6,4,7,22,25,8,12,10,12,37,44,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDWDDLL,3,6,8,18,30,DLWLWWLWDLWDLWDLL,DWLDWWLDWWWWWDDDL
+Genoa,Lazio,1-2,/match/genoa/lazio/2010,2010,35,serie_a,20,38,2,1,2,7,13,9,12,55,55,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWDDDWL,10,5,2,40,26,16,8,13,13,32,38,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLWDDLL,4,7,6,16,20,WWDLWWWDDWWWWLWDD,LDDWDDWWDWDLWWLDL
+Fiorentina,Chievo,0-2,/match/fiorentina/chievo/2010,2010,35,serie_a,20,38,2,0,2,11,13,7,14,47,41,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWWWDDW,9,2,6,27,17,15,11,8,15,31,34,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDDDLWW,5,3,9,12,17,WWWDLWLWLWLLWLWWD,WLDLLWWLWWDWLWWDW
+Livorno,Catania,3-1,/match/livorno/catania/2010,2010,35,serie_a,20,38,0,3,1,20,6,8,20,22,52,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWWDDLW,4,5,8,15,22,12,9,13,12,40,40,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDWWWDD,2,7,8,17,26,DDLLWLWLWWLDLLDDL,WWDDWWDWLWDLWDDWD
+Napoli,Cagliari,0-0,/match/napoli/cagliari/2010,2010,35,serie_a,20,38,1,0,0,6,13,13,8,46,41,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDWWDLL,8,7,2,24,16,14,11,8,15,52,53,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLWDLWD,4,3,10,18,27,WDWWDDWWWDDDDLWWL,DWLLWLWWWLDWWWWDW
+Juventus,SSC Bari,3-0,/match/juventus-fc/as-bari/2010,2010,35,serie_a,20,38,0,3,0,9,15,6,13,49,49,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWWWWWW,8,4,5,27,23,10,11,10,13,41,43,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDWDLWL,2,6,9,16,28,WWDDWLWWLLLDWLDWW,DDDLWDWWDWWWWWLDW
+Udinese,Siena,4-1,/match/udinese/siena/2010,2010,35,serie_a,20,38,0,4,1,13,10,9,15,44,50,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWDWWLD,9,4,4,31,21,19,7,9,18,37,59,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWWDWWD,3,2,12,21,37,DWWWLWLWWDLWLWDWD,LWWWWWWWWWWLLDWWD
+Roma,Sampdoria,1-2,/match/roma/sampdoria/2010,2010,35,serie_a,20,38,2,1,2,2,21,8,5,61,37,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWLWLWL,14,1,2,33,14,5,16,9,9,43,39,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWWDLWW,5,3,9,15,29,LWWLWWWWWWWWWDWWW,LLWDWWWWWWLLDWDWL
+Parma,Roma,1-2,/match/parma-fc/roma/2010,2010,36,serie_a,20,38,2,1,2,9,12,10,13,38,46,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDWDDLLW,9,4,4,19,14,2,21,8,6,62,39,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWLWLWLL,7,7,3,28,23,WWLWWWDWLDDLWWWDL,WLDDWWDLDDLLDDLLL
+Milan,Fiorentina,1-0,/match/milan/fiorentina/2010,2010,36,serie_a,20,38,0,1,0,4,18,10,7,56,38,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDWDLDWW,10,5,2,33,20,12,13,7,15,47,43,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWWWDDWL,4,5,8,20,24,LWDWWWWLWWDWWWDDD,DWLDWLWWLWDWDLWDW
+Atalanta,Bologna,1-1,/match/atalanta/bologna/2010,2010,36,serie_a,20,38,1,1,1,18,9,7,19,35,48,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWWWWWWW,7,4,6,22,17,16,10,9,16,39,52,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWLWWLDW,3,5,9,15,26,LLDDWLLDLWWLDWWWW,DWDWWWDWWLDLLWWWD
+Siena,Palermo FC,1-2,/match/siena/palermo/2010,2010,36,serie_a,20,38,2,1,2,19,7,9,19,38,63,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWWDWWDW,4,7,6,16,22,3,16,10,9,54,44,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDDWWWDW,3,5,9,21,31,LLDDLDLWWLDLDDWDW,WWDLWWWLDDWWLWDWD
+Chievo,Napoli,1-2,/match/chievo/napoli/2010,2010,36,serie_a,20,38,2,1,2,15,12,8,15,33,34,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDDDLWWL,6,5,6,19,17,6,13,14,8,46,41,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDWWDLLD,5,6,6,22,25,LWDLLDWWLWDLWDDLW,WWWWLLDDDLLWDWDDL
+Sampdoria,Livorno,2-0,/match/sampdoria/livorno/2010,2010,36,serie_a,20,38,0,2,0,5,17,9,9,45,40,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWWDLWWL,11,6,0,28,10,20,7,8,20,25,53,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWWDDLWW,2,3,12,7,30,WWWDWDWDDDWWWWDWW,WWWDLWWLWWDWWWWDW
+Catania,Juventus,1-1,/match/catania/juventus-fc/2010,2010,36,serie_a,20,38,1,1,1,13,9,13,13,41,43,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDWWWDDW,7,6,4,23,14,8,16,6,13,52,49,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWWWWWWW,7,2,8,22,26,LDDWLDLLWWDDWWWWD,LLDWLLWWLWDLLWWWW
+SSC Bari,Genoa,3-0,/match/as-bari/genoa/2010,2010,36,serie_a,20,38,0,3,0,11,11,10,14,41,46,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDWDLWLW,9,4,4,25,15,7,13,9,13,56,57,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWDDDWLL,3,4,10,15,29,DWLDWWWWWDWLWDWLL,LWWLWDWWWWDWDWDWL
+Cagliari,Udinese,2-2,/match/cagliari/udinese/2010,2010,36,serie_a,20,38,1,2,2,14,11,9,15,52,53,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLWDLWDD,7,5,5,34,26,10,11,9,15,48,51,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWDWWLDW,1,5,11,13,29,LLLWWWWDDWDWWDLLD,WDWWDWWWWDDWWDWWL
+Lazio,Inter,0-2,/match/lazio/internazionale/2010,2010,36,serie_a,20,38,2,0,2,17,9,13,13,34,39,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLWDDLLL,4,6,7,16,18,1,21,10,4,68,31,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDWWWDWW,7,6,4,30,19,WLLDDLLDWWDLDLWDL,LLWLLLWDLDDDLWDWD
+Napoli,Atalanta,2-0,/match/napoli/atalanta/2010,2010,37,serie_a,20,38,0,2,0,6,14,14,8,48,42,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDWWDLLDL,8,8,2,24,16,18,9,8,19,36,49,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWWWWWWWD,2,3,13,13,31,WDWWDDWWWDDDDLWWLD,WWDLWWLWDWWWDWWWWW
+Palermo FC,Sampdoria,1-1,/match/palermo/sampdoria/2010,2010,37,serie_a,20,38,1,1,1,3,17,10,9,56,45,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDDWWWDWL,13,5,0,33,13,5,18,9,9,47,40,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWWDLWWLW,6,3,9,17,30,WDDWWDDWWWWWWWDWWW,LLWDWWWWWWLLDWDWLL
+Juventus,Parma,2-3,/match/juventus-fc/parma-fc/2010,2010,37,serie_a,20,38,2,2,3,7,16,7,13,53,50,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWWWWWWWD,9,4,5,30,23,11,12,10,14,39,48,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDWDDLLWL,3,6,9,19,32,WWDDWLWWLLLDWLDWWW,DWLDWWLDWWWWWDDDLW
+Genoa,Milan,1-0,/match/genoa/milan/2010,2010,37,serie_a,20,38,0,1,0,8,13,9,14,56,60,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWDDDWLLW,10,5,3,41,28,4,19,10,7,57,38,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDWDLDWWW,8,5,5,23,18,WWDLWWWDDWWWWLWDDL,LDWDLDLLLLWDLDWLWW
+Livorno,Lazio,1-2,/match/livorno/lazio/2010,2010,37,serie_a,20,38,2,1,2,20,7,8,21,25,55,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWWDDLWWW,5,5,8,18,23,17,9,13,14,34,41,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLWDDLLLL,5,7,6,18,21,DDLLWLWLWWLDLLDDLW,LDDWDDWWDWDLWWLDLL
+Inter,Chievo,4-3,/match/internazionale/chievo/2010,2010,37,serie_a,20,38,0,4,3,1,22,10,4,70,31,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDWWWDWWL,14,4,0,38,12,15,12,8,16,34,36,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDDDLWWLL,6,3,9,14,17,DWWWWWDWWWWWDDWWWW,WLDLLWWLWWDWLWWDWL
+Bologna,Catania,1-1,/match/bologna/catania/2010,2010,37,serie_a,20,38,1,1,1,16,10,10,16,40,53,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWLWWLDWD,7,4,7,24,26,13,9,14,13,42,44,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDWWWDDWD,2,7,9,18,29,DLWLWWLWDLWDLWDLLW,WWDDWWDWLWDLWDDWDW
+Roma,Cagliari,2-1,/match/roma/cagliari/2010,2010,37,serie_a,20,38,0,2,1,2,22,8,6,64,40,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWLWLWLLL,14,1,3,34,16,14,11,10,15,54,55,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLWDLWDDD,4,4,10,18,27,LWWLWWWWWWWWWDWWWL,DWLLWLWWWLDWWWWDWD
+Udinese,SSC Bari,3-3,/match/udinese/as-bari/2010,2010,37,serie_a,20,38,1,3,3,10,11,10,15,50,53,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWDWWLDWD,10,4,4,35,22,9,12,10,14,44,46,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDWDLWLWW,2,6,10,16,31,DWWWLWLWWDLWLWDWDW,DDDLWDWWDWWWWWLDWW
+Fiorentina,Siena,1-1,/match/fiorentina/siena/2010,2010,37,serie_a,20,38,1,1,1,12,13,7,16,47,44,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWWWDDWLW,9,2,7,27,19,19,7,9,20,39,65,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWWDWWDWL,3,2,13,22,41,WWWDLWLWLWLLWLWWDL,LWWWWWWWWWWLLDWWDW
+Lazio,Udinese,3-1,/match/lazio/udinese/2010,2010,38,serie_a,20,38,0,3,1,17,10,13,14,36,42,WLLDLDDDWLDLDDWWWWDWDDLLWDWLLWDDLLLLL,4,6,8,16,20,11,11,11,15,53,56,DWWDWWWLWWDLWWWWWWDDLDWWWLDWWDWWLDWDD,1,6,11,15,31,WLLDDLLDWWDLDLWDLL,WDWWDWWWWDDWWDWWLD
+Milan,Juventus,3-0,/match/milan/juventus-fc/2010,2010,38,serie_a,20,38,0,3,0,5,19,10,8,57,39,LLDWWDDWLDWLWLWLLWLWWDDWLWDWDWDLDWWWW,11,5,2,34,20,8,16,7,14,55,53,WLLWDDWDLWLLWWWWLLLWLDDWLLLDWWWWWWWDL,7,3,8,23,27,LWDWWWWLWWDWWWDDDW,LLDWLLWWLWDLLWWWWD
+Chievo,Roma,0-2,/match/chievo/roma/2010,2010,38,serie_a,20,38,2,0,2,16,12,8,17,37,40,WLLWDDLLLLDWWWLWWLWWDDWLLWWWDDDLWWLLW,6,5,7,20,19,2,23,8,6,66,41,WLLWDDWWLWWDWLWDWDWWLWLWWDDDWLWLWLLLW,8,7,3,30,24,LWDLLDWWLWDLWDDLWL,WLDDWWDLDDLLDDLLLL
+Atalanta,Palermo FC,1-2,/match/atalanta/palermo/2010,2010,38,serie_a,20,38,2,1,2,18,9,8,20,36,51,WLLWDDDLWWWLLLWDDLWWWWWDLWDWWWWWWWWDW,7,5,6,23,18,3,17,11,9,57,46,WWDWDDWLWWDWDWWLWDWDWWWWWLWWDDWWWDWLD,4,5,9,23,32,LLDDWLLDLWWLDWWWWD,WWDLWWWLDDWWLWDWDL
+Sampdoria,Napoli,1-0,/match/sampdoria/napoli/2010,2010,38,serie_a,20,38,0,1,0,4,18,10,9,48,41,LWLWWWDDWWDWWWWDWDWDLWLWDWWDWWDLWWLWD,12,6,0,30,10,6,15,14,8,50,42,WWWDWWWWLDLDDDWDWLWDLDWDDDWLDWWDLLDLW,6,6,6,24,26,WWWDWDWDDDWWWWDWWW,WWWWLLDDDLLWDWDDLL
+Parma,Livorno,4-1,/match/parma-fc/livorno/2010,2010,38,serie_a,20,38,0,4,1,10,13,10,14,42,50,DWWWLLDWWWWWLDDWWLWDWDWLWWDWDWDDLLWLL,9,4,5,20,16,20,7,8,22,26,57,DWDWWLDLLWLWWWLLWWWWLDDLWLWDWWDDLWWWL,2,3,13,7,32,WWLWWWDWLDDLWWWDLL,WWWDLWWLWWDWWWWDWW
+Siena,Inter,0-1,/match/siena/internazionale/2010,2010,38,serie_a,20,38,2,0,1,19,7,10,20,40,66,LLLWDWDWLWDWLWWWWLWWDWLLDLDDWWDWWDWLD,4,7,7,17,24,1,23,10,4,74,34,DLWLWWWLWWLDLWWDWLWDWDWDDLDWDWWWDWWLW,8,6,4,32,19,LLDDLDLWWLDLDDWDWL,LLWLLLWDLDDDLWDWDL
+Catania,Genoa,1-0,/match/catania/genoa/2010,2010,38,serie_a,20,38,0,1,0,13,9,15,13,43,45,LWWDDDDWWLWDDLWLLWWDWDLDWWDWDWWWDDWDD,7,7,4,24,15,7,14,9,14,57,60,WLWWDWLLWWDWWWDWDWWWWDWWWLDWWDDDWLLWW,3,4,11,15,32,LDDWLDLLWWDDWWWWDD,LWWLWDWWWWDWDWDWLW
+SSC Bari,Fiorentina,2-0,/match/as-bari/fiorentina/2010,2010,38,serie_a,20,38,0,2,0,9,12,11,14,47,49,DDDWLDDLWWDWWWWWDWWDWWWWLWWLDWDLWLWWD,10,4,4,28,15,12,13,8,16,48,45,DWWWWLDDLWWLLWWWLLWLWDLWWDLLWWWDDWLWD,4,5,9,20,25,DWLDWWWWWDWLWDWLLW,DWLDWLWWLWDWDLWDWW
+Cagliari,Bologna,1-1,/match/cagliari/bologna/2010,2010,38,serie_a,20,38,1,1,1,14,11,10,16,55,57,DLWLLLLWWLWWWWWDWDLWDDWWWWDWLWDLWDDDW,7,6,5,36,28,15,10,11,16,41,54,DDLWWDLWWWWWLDWWDWLLWDDLLLWDWLWWLDWDD,3,6,9,16,27,LLLWWWWDDWDWWDLLDD,DWDWWWDWWLDLLWWWDD

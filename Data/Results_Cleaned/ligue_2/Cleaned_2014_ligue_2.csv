@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Arles,Le Havre,2-0,/match/arles/havre-ac/2014,2014,1,ligue_2,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Caen,Dijon FCO,3-1,/match/caen/dijon-fco/2014,2014,1,ligue_2,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chateauroux,Stade Brestois,3-3,/match/berrichonne-chateauroux/stade-brestois-29/2014,2014,1,ligue_2,20,38,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Clermont,Tours,2-1,/match/clermont-foot/tours-fc/2014,2014,1,ligue_2,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Istres,Angers SCO,2-4,/match/istres/angers-sco/2014,2014,1,ligue_2,20,38,2,2,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Metz,Stade Lavallois,1-0,/match/metz/stade-lavallois/2014,2014,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nîmes,Creteil,2-3,/match/nimes-olympique/creteil-lusitanos/2014,2014,1,ligue_2,20,38,2,2,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Niort,Troyes,1-1,/match/chamois-niortais/troyes/2014,2014,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nancy,Auxerre,0-0,/match/nancy/auxerre/2014,2014,1,ligue_2,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lens,CA Bastia,1-0,/match/lens/ca-bastia/2014,2014,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,Nîmes,1-1,/match/auxerre/nimes-olympique/2014,2014,2,ligue_2,20,38,1,1,1,13,0,1,0,0,0,D,0,0,0,0,0,19,0,0,1,2,3,L,0,0,0,0,0,,
+Creteil,Metz,3-2,/match/creteil-lusitanos/metz/2014,2014,2,ligue_2,20,38,0,3,2,7,1,0,0,3,2,L,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Stade Lavallois,Caen,1-2,/match/stade-lavallois/caen/2014,2014,2,ligue_2,20,38,2,1,2,17,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
+Le Havre,Clermont,0-1,/match/havre-ac/clermont-foot/2014,2014,2,ligue_2,20,38,2,0,1,20,0,0,1,0,2,W,0,0,0,0,0,4,1,0,0,2,1,W,0,0,0,0,0,,
+Tours,Niort,1-1,/match/tours-fc/chamois-niortais/2014,2014,2,ligue_2,20,38,1,1,1,16,0,0,1,1,2,W,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
+Angers SCO,Chateauroux,1-0,/match/angers-sco/berrichonne-chateauroux/2014,2014,2,ligue_2,20,38,0,1,0,6,1,0,0,4,2,L,0,0,0,0,0,10,0,1,0,3,3,D,0,0,0,0,0,,
+CA Bastia,Nancy,1-2,/match/ca-bastia/nancy/2014,2014,2,ligue_2,20,38,2,1,2,14,0,0,1,0,1,W,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
+Dijon FCO,Lens,1-1,/match/dijon-fco/lens/2014,2014,2,ligue_2,20,38,1,1,1,18,0,0,1,1,3,W,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Troyes,Arles,1-0,/match/troyes/arles/2014,2014,2,ligue_2,20,38,0,1,0,11,0,1,0,1,1,D,0,0,0,0,0,5,1,0,0,2,0,W,0,0,0,0,0,,
+Stade Brestois,Istres,3-1,/match/stade-brestois-29/istres/2014,2014,2,ligue_2,20,38,0,3,1,12,0,1,0,3,3,D,0,0,0,0,0,15,0,0,1,2,4,L,0,0,0,0,0,,
+Caen,Creteil,3-0,/match/caen/creteil-lusitanos/2014,2014,3,ligue_2,20,38,0,3,0,1,2,0,0,5,2,WL,1,0,0,3,1,4,2,0,0,6,4,LW,1,0,0,3,2,W,L
+Chateauroux,Tours,0-4,/match/berrichonne-chateauroux/tours-fc/2014,2014,3,ligue_2,20,38,2,0,4,13,0,1,1,3,4,DW,0,1,0,3,3,14,0,1,1,2,3,WD,0,0,1,1,2,D,W
+Clermont,Stade Lavallois,2-1,/match/clermont-foot/stade-lavallois/2014,2014,3,ligue_2,20,38,0,2,1,2,2,0,0,3,1,WL,1,0,0,2,1,19,0,0,2,1,3,WL,0,0,1,0,1,W,W
+Dijon FCO,Angers SCO,1-3,/match/dijon-fco/angers-sco/2014,2014,3,ligue_2,20,38,2,1,3,15,0,1,1,2,4,WD,0,1,0,1,1,3,2,0,0,5,2,LW,1,0,0,4,2,D,L
+Istres,CA Bastia,1-1,/match/istres/ca-bastia/2014,2014,3,ligue_2,20,38,1,1,1,18,0,0,2,3,7,LW,0,0,1,2,4,17,0,0,2,1,3,WL,0,0,1,0,1,L,W
+Metz,Arles,1-0,/match/metz/arles/2014,2014,3,ligue_2,20,38,0,1,0,8,1,0,1,3,3,WW,1,0,0,1,0,10,1,0,1,2,1,WW,0,0,1,0,1,W,W
+Nîmes,Troyes,3-2,/match/nimes-olympique/troyes/2014,2014,3,ligue_2,20,38,0,3,2,16,0,1,1,3,4,LD,0,0,1,2,3,5,1,1,0,2,1,DW,0,1,0,1,1,L,D
+Niort,Le Havre,1-1,/match/chamois-niortais/havre-ac/2014,2014,3,ligue_2,20,38,1,1,1,11,0,2,0,2,2,DD,0,1,0,1,1,20,0,0,2,0,3,WL,0,0,1,0,2,D,W
+Lens,Auxerre,4-1,/match/lens/auxerre/2014,2014,3,ligue_2,20,38,0,4,1,6,1,1,0,2,1,WD,1,0,0,1,0,12,0,2,0,1,1,DD,0,1,0,0,0,W,D
+Nancy,Stade Brestois,0-1,/match/nancy/stade-brestois-29/2014,2014,3,ligue_2,20,38,2,0,1,9,1,1,0,2,1,DL,0,1,0,0,0,7,1,1,0,6,4,DW,0,1,0,3,3,D,D
+Arles,Clermont,1-0,/match/arles/clermont-foot/2014,2014,4,ligue_2,20,38,0,1,0,11,1,0,2,2,2,WWW,1,0,0,2,0,2,3,0,0,5,2,WLW,1,0,0,1,0,W,L
+Auxerre,Chateauroux,2-0,/match/auxerre/berrichonne-chateauroux/2014,2014,4,ligue_2,20,38,0,2,0,14,0,2,1,2,5,DDW,0,1,0,1,1,15,0,1,2,3,8,DWL,0,0,1,0,1,D,W
+CA Bastia,Angers SCO,1-1,/match/ca-bastia/angers-sco/2014,2014,4,ligue_2,20,38,1,1,1,18,0,1,2,2,4,WLD,0,0,1,1,2,4,3,0,0,8,3,LWL,2,0,0,7,3,L,LL
+Creteil,Istres,2-2,/match/creteil-lusitanos/istres/2014,2014,4,ligue_2,20,38,1,2,2,7,2,0,1,6,7,LWW,1,0,0,3,2,17,0,1,2,4,8,LWD,0,0,1,1,3,W,W
+Le Havre,Nancy,1-1,/match/havre-ac/nancy/2014,2014,4,ligue_2,20,38,1,1,1,19,0,1,2,1,4,WLD,0,0,1,0,1,12,1,1,1,2,2,DLL,1,0,0,2,1,L,L
+Metz,Niort,1-1,/match/metz/chamois-niortais/2014,2014,4,ligue_2,20,38,1,1,1,5,2,0,1,4,3,WWW,2,0,0,2,0,9,0,3,0,3,3,DDD,0,1,0,1,1,WW,D
+Tours,Nîmes,3-1,/match/tours-fc/nimes-olympique/2014,2014,4,ligue_2,20,38,0,3,1,13,1,1,1,6,3,WDL,0,1,0,1,1,8,1,1,1,6,6,LDW,0,1,0,1,1,D,D
+Troyes,Caen,2-1,/match/troyes/caen/2014,2014,4,ligue_2,20,38,0,2,1,10,1,1,1,4,4,DWW,1,0,0,1,0,1,3,0,0,8,2,WLW,1,0,0,2,1,W,L
+Stade Brestois,Dijon FCO,0-0,/match/stade-brestois-29/dijon-fco/2014,2014,4,ligue_2,20,38,1,0,0,6,2,1,0,7,4,DWL,1,0,0,3,1,16,0,1,2,3,7,WDL,0,0,1,1,3,W,W
+Stade Lavallois,Lens,0-2,/match/stade-lavallois/lens/2014,2014,4,ligue_2,20,38,2,0,2,20,0,0,3,2,5,WLW,0,0,1,1,2,3,2,1,0,6,2,WDW,0,1,0,1,1,L,D
+Angers SCO,Stade Brestois,2-1,/match/angers-sco/stade-brestois-29/2014,2014,5,ligue_2,20,38,0,2,1,6,3,1,0,9,4,LWLD,1,0,0,1,0,7,2,2,0,7,4,DWLD,1,1,0,4,3,W,DL
+Chateauroux,CA Bastia,2-0,/match/berrichonne-chateauroux/ca-bastia/2014,2014,5,ligue_2,20,38,0,2,0,19,0,1,3,3,10,DWLW,0,1,1,3,7,17,0,2,2,3,5,WLDD,0,1,1,1,2,DL,WD
+Clermont,Creteil,0-0,/match/clermont-foot/creteil-lusitanos/2014,2014,5,ligue_2,20,38,1,0,0,4,3,0,1,5,3,WLWW,2,0,0,4,2,10,2,1,1,8,9,LWWD,1,0,1,3,5,WW,LW
+Dijon FCO,Stade Lavallois,1-0,/match/dijon-fco/stade-lavallois/2014,2014,5,ligue_2,20,38,0,1,0,15,0,2,2,3,7,WDLD,0,1,1,2,4,20,0,0,4,2,7,WLWL,0,0,2,1,3,DL,WW
+Istres,Auxerre,1-1,/match/istres/auxerre/2014,2014,5,ligue_2,20,38,1,1,1,16,0,2,2,6,10,LWDD,0,1,1,3,5,11,1,2,1,4,5,DDWW,0,1,1,1,4,LD,DW
+Lens,Troyes,1-0,/match/lens/troyes/2014,2014,5,ligue_2,20,38,0,1,0,1,3,1,0,8,2,WDWL,2,0,0,5,1,5,2,1,1,6,5,DWWW,0,1,1,3,4,WW,DW
+Nancy,Tours,2-3,/match/nancy/tours-fc/2014,2014,5,ligue_2,20,38,2,2,3,14,1,2,1,3,3,DLLD,0,1,1,0,1,8,2,1,1,9,4,WDLW,1,0,1,5,2,DL,WL
+Nîmes,Le Havre,0-0,/match/nimes-olympique/havre-ac/2014,2014,5,ligue_2,20,38,1,0,0,13,1,1,2,7,9,LDWW,1,0,1,5,5,18,0,2,2,2,5,WLDD,0,1,1,1,3,LW,WD
+Niort,Arles,1-0,/match/chamois-niortais/arles/2014,2014,5,ligue_2,20,38,0,1,0,12,0,4,0,4,4,DDDD,0,2,0,2,2,9,2,0,2,3,2,WWWW,0,0,2,0,2,DD,WW
+Caen,Metz,0-2,/match/caen/metz/2014,2014,5,ligue_2,20,38,2,0,2,2,3,0,1,9,4,WLWW,2,0,0,6,1,3,2,1,1,5,4,WWWD,0,0,1,2,3,WW,W
+Arles,Caen,3-2,/match/arles/caen/2014,2014,6,ligue_2,20,38,0,3,2,12,2,0,3,3,3,WWWWW,2,0,0,3,0,5,3,0,2,9,6,WLWWL,1,0,1,3,3,WW,LW
+CA Bastia,Dijon FCO,0-0,/match/ca-bastia/dijon-fco/2014,2014,6,ligue_2,20,38,1,0,0,19,0,2,3,3,7,WLDDW,0,1,1,2,3,14,1,2,2,4,7,WDLDW,0,1,1,1,3,LD,WD
+Creteil,Nancy,1-1,/match/creteil-lusitanos/nancy/2014,2014,6,ligue_2,20,38,1,1,1,10,2,2,1,8,9,LWWDD,1,1,0,5,4,16,1,2,2,5,6,DLLDL,1,1,0,3,2,WD,LD
+Stade Lavallois,Angers SCO,4-1,/match/stade-lavallois/angers-sco/2014,2014,6,ligue_2,20,38,0,4,1,20,0,0,5,2,8,WLWLW,0,0,2,1,4,2,4,1,0,11,5,LWLDW,2,1,0,8,4,LL,LLD
+Metz,Nîmes,2-2,/match/metz/nimes-olympique/2014,2014,6,ligue_2,20,38,1,2,2,3,3,1,1,7,4,WWWDL,2,1,0,3,1,13,1,2,2,7,9,LDWWD,0,1,1,2,4,WWD,DW
+Niort,Clermont,0-0,/match/chamois-niortais/clermont-foot/2014,2014,6,ligue_2,20,38,1,0,0,7,1,4,0,5,4,DDDDW,1,2,0,3,2,4,3,1,1,5,3,WLWWD,1,0,1,1,1,DDW,LW
+Tours,Istres,2-2,/match/tours-fc/istres/2014,2014,6,ligue_2,20,38,1,2,2,6,3,1,1,12,6,WDLWL,1,1,0,4,2,17,0,3,2,7,11,LWDDD,0,1,1,3,5,DW,WD
+Troyes,Chateauroux,3-0,/match/troyes/berrichonne-chateauroux/2014,2014,6,ligue_2,20,38,0,3,0,8,2,1,2,6,6,DWWWW,2,0,0,3,1,15,1,1,3,5,10,DWLWW,0,0,2,0,3,WW,WW
+Le Havre,Lens,6-2,/match/havre-ac/lens/2014,2014,6,ligue_2,20,38,0,6,2,18,0,3,2,2,5,WLDDD,0,1,1,1,2,1,4,1,0,9,2,WDWLW,1,1,0,3,1,LD,DL
+Auxerre,Stade Brestois,0-0,/match/auxerre/stade-brestois-29/2014,2014,6,ligue_2,20,38,1,0,0,11,1,3,1,5,6,DDWWD,1,1,0,3,1,9,2,2,1,8,6,DWLDW,1,1,1,5,5,DW,DLW
+Stade Brestois,CA Bastia,2-0,/match/stade-brestois-29/ca-bastia/2014,2014,7,ligue_2,20,38,0,2,0,11,2,3,1,8,6,DWLDWD,1,1,0,3,1,19,0,3,3,3,7,WLDDWD,0,1,2,1,4,WD,WDW
+Caen,Niort,3-1,/match/caen/chamois-niortais/2014,2014,7,ligue_2,20,38,0,3,1,12,3,0,3,11,9,WLWWLW,2,0,1,6,3,8,1,5,0,5,4,DDDDWD,0,2,0,2,2,WWL,DD
+Chateauroux,Le Havre,2-2,/match/berrichonne-chateauroux/havre-ac/2014,2014,7,ligue_2,20,38,1,2,2,16,1,1,4,5,13,DWLWWW,1,1,1,5,7,15,1,3,2,8,7,WLDDDW,0,2,1,1,3,DLW,WDD
+Clermont,Metz,0-0,/match/clermont-foot/metz/2014,2014,7,ligue_2,20,38,1,0,0,3,3,2,1,5,3,WLWWDD,2,1,0,4,2,2,3,2,1,9,6,WWWDLD,1,0,1,4,3,WWD,WL
+Dijon FCO,Tours,2-0,/match/dijon-fco/tours-fc/2014,2014,7,ligue_2,20,38,0,2,0,14,1,3,2,4,7,WDLDWD,1,1,1,3,4,7,3,2,1,14,8,WDLWLD,2,0,1,8,4,DLW,WLL
+Istres,Stade Lavallois,3-0,/match/istres/stade-lavallois/2014,2014,7,ligue_2,20,38,0,3,0,18,0,4,2,9,13,LWDDDD,0,2,1,4,6,20,1,0,5,6,9,WLWLWW,0,0,3,1,4,LDD,WWW
+Lens,Creteil,1-1,/match/lens/creteil-lusitanos/2014,2014,7,ligue_2,20,38,1,1,1,1,4,1,1,11,8,WDWLWW,3,0,0,6,1,9,2,3,1,9,10,LWWDDD,1,1,1,3,5,WWW,LWD
+Nancy,Troyes,2-1,/match/nancy/troyes/2014,2014,7,ligue_2,20,38,0,2,1,17,1,3,2,6,7,DLLDLD,0,1,2,2,4,4,3,1,2,9,6,DWWWWW,0,1,2,3,5,DLL,DWW
+Nîmes,Arles,1-2,/match/nimes-olympique/arles/2014,2014,7,ligue_2,20,38,2,1,2,13,1,3,2,9,11,LDWWDD,1,1,1,5,5,6,3,0,3,6,5,WWWWWW,0,0,3,0,3,LWD,WWW
+Angers SCO,Auxerre,2-0,/match/angers-sco/auxerre/2014,2014,7,ligue_2,20,38,0,2,0,5,4,1,1,12,9,LWLDWW,2,0,0,3,1,10,1,4,1,5,6,DDWWDD,0,2,1,2,5,WW,DWD
+Tours,Lens,3-1,/match/tours-fc/lens/2014,2014,8,ligue_2,20,38,0,3,1,9,3,2,2,14,10,WDLWLDW,1,2,0,6,4,1,4,2,1,12,9,WDWLWWD,1,1,1,5,7,DWD,DLW
+Arles,Chateauroux,1-1,/match/arles/berrichonne-chateauroux/2014,2014,8,ligue_2,20,38,1,1,1,7,4,0,3,8,6,WWWWWWL,3,0,0,6,2,18,1,2,4,7,15,DWLWWWD,0,0,3,0,6,WWW,WWW
+Auxerre,CA Bastia,1-0,/match/auxerre/ca-bastia/2014,2014,8,ligue_2,20,38,0,1,0,13,1,4,2,5,8,DDWWDDW,1,2,0,3,1,19,0,3,4,3,9,WLDDWDW,0,1,3,1,6,DWD,WDWW
+Clermont,Caen,2-2,/match/clermont-foot/caen/2014,2014,8,ligue_2,20,38,1,2,2,4,3,3,1,5,3,WLWWDDD,2,2,0,4,2,5,4,0,3,14,10,WLWWLWW,1,0,2,5,6,WWDD,LWW
+Creteil,Dijon FCO,1-3,/match/creteil-lusitanos/dijon-fco/2014,2014,8,ligue_2,20,38,2,1,3,11,2,4,1,10,11,LWWDDDD,1,2,0,6,5,12,2,3,2,6,7,WDLDWDW,0,2,1,1,3,WDD,WDD
+Stade Lavallois,Stade Brestois,2-1,/match/stade-lavallois/stade-brestois-29/2014,2014,8,ligue_2,20,38,0,2,1,20,1,0,6,6,12,WLWLWWW,1,0,2,5,5,6,3,3,1,10,6,DWLDWDW,1,2,1,5,5,LLW,DLWD
+Le Havre,Istres,1-0,/match/havre-ac/istres/2014,2014,8,ligue_2,20,38,0,1,0,16,1,4,2,10,9,WLDDDWD,1,1,1,7,4,15,1,4,2,12,13,LWDDDDW,0,2,1,5,7,LDW,WDD
+Metz,Nancy,3-0,/match/metz/nancy/2014,2014,8,ligue_2,20,38,0,3,0,3,3,3,1,9,6,WWWDLDD,2,2,0,5,3,14,2,3,2,8,8,DLLDLDW,1,2,0,4,3,WWDD,LDD
+Niort,Nîmes,2-1,/match/chamois-niortais/nimes-olympique/2014,2014,8,ligue_2,20,38,0,2,1,10,1,5,1,6,7,DDDDWDW,1,3,0,3,2,17,1,3,3,10,13,LDWWDDL,0,2,1,4,6,DDWD,DWD
+Troyes,Angers SCO,3-3,/match/troyes/angers-sco/2014,2014,8,ligue_2,20,38,1,3,3,8,3,1,3,10,8,DWWWWWW,3,0,0,6,1,2,5,1,1,14,9,LWLDWWW,2,1,1,9,8,WWW,LLDW
+Angers SCO,Tours,1-1,/match/angers-sco/tours-fc/2014,2014,9,ligue_2,20,38,1,1,1,2,5,2,1,17,12,LWLDWWWD,3,0,0,5,1,6,4,2,2,17,11,WDLWLDWW,2,0,2,8,6,WWW,WLLW
+Stade Brestois,Creteil,1-2,/match/stade-brestois-29/creteil-lusitanos/2014,2014,9,ligue_2,20,38,2,1,2,10,3,3,2,11,8,DWLDWDWW,2,1,0,5,1,14,2,4,2,11,14,LWWDDDDL,1,2,1,4,6,WDW,LWDD
+CA Bastia,Stade Lavallois,1-1,/match/ca-bastia/stade-lavallois/2014,2014,9,ligue_2,20,38,1,1,1,20,0,3,5,3,10,WLDDWDWW,0,2,1,2,3,19,2,0,6,8,13,WLWLWWWW,0,0,4,1,7,LDD,WWWW
+Caen,Le Havre,1-0,/match/caen/havre-ac/2014,2014,9,ligue_2,20,38,0,1,0,8,4,1,3,16,12,WLWWLWWD,3,0,1,9,4,13,2,4,2,11,9,WLDDDWDW,0,3,1,3,5,WWLW,WDDD
+Chateauroux,Niort,3-0,/match/berrichonne-chateauroux/chamois-niortais/2014,2014,9,ligue_2,20,38,0,3,0,17,1,3,4,8,16,DWLWWWDD,1,2,1,7,9,7,2,5,1,8,8,DDDDWDWW,0,2,1,3,5,DLWD,DDW
+Dijon FCO,Auxerre,1-0,/match/dijon-fco/auxerre/2014,2014,9,ligue_2,20,38,0,1,0,11,3,3,2,9,8,WDLDWDWL,2,1,1,5,4,12,2,4,2,6,8,DDWWDDWW,0,2,2,2,7,DLWW,DWDW
+Istres,Troyes,0-2,/match/istres/troyes/2014,2014,9,ligue_2,20,38,2,0,2,15,1,4,3,12,14,LWDDDDWW,1,2,1,7,6,9,3,2,3,13,11,DWWWWWWD,0,1,3,4,7,LDDW,DWWW
+Nancy,Arles,0-0,/match/nancy/arles/2014,2014,9,ligue_2,20,38,1,0,0,16,2,3,3,8,11,DLLDLDWW,1,1,2,4,5,5,4,1,3,9,7,WWWWWWLD,1,0,3,2,4,DLLW,WWWL
+Nîmes,Clermont,1-1,/match/nimes-olympique/clermont-foot/2014,2014,9,ligue_2,20,38,1,1,1,18,1,3,4,11,15,LDWWDDLW,1,1,2,6,7,4,3,4,1,7,5,WLWWDDDD,1,1,1,1,1,LWDL,LWD
+Lens,Metz,3-2,/match/lens/metz/2014,2014,9,ligue_2,20,38,0,3,2,3,4,2,2,13,12,WDWLWWDW,3,1,0,7,2,1,4,3,1,12,6,WWWDLDDW,1,1,1,4,3,WWWD,WLD
+Auxerre,Stade Lavallois,2-0,/match/auxerre/stade-lavallois/2014,2014,10,ligue_2,20,38,0,2,0,12,2,4,3,6,9,DDWWDDWWW,2,2,0,4,1,19,2,1,6,9,14,WLWLWWWWD,0,1,4,2,8,DWDW,WWWWD
+Clermont,Istres,2-0,/match/clermont-foot/istres/2014,2014,10,ligue_2,20,38,0,2,0,6,3,5,1,8,6,WLWWDDDDD,2,3,0,6,4,17,1,4,4,12,16,LWDDDDWWL,0,2,2,5,8,WWDDD,WDDW
+Le Havre,Dijon FCO,0-0,/match/havre-ac/dijon-fco/2014,2014,10,ligue_2,20,38,1,0,0,14,2,4,3,11,10,WLDDDWDWW,2,1,1,8,4,5,4,3,2,10,8,WDLDWDWLW,1,2,1,4,4,LDWW,WDDL
+Metz,Chateauroux,1-0,/match/metz/berrichonne-chateauroux/2014,2014,10,ligue_2,20,38,0,1,0,3,4,3,2,14,9,WWWDLDDWW,3,2,0,8,3,15,2,3,4,11,16,DWLWWWDDW,0,1,3,1,7,WWDDW,WWWD
+Nîmes,Caen,2-1,/match/nimes-olympique/caen/2014,2014,10,ligue_2,20,38,0,2,1,18,1,4,4,12,16,LDWWDDLWD,1,2,2,7,8,4,5,1,3,17,12,WLWWLWWDW,1,1,2,7,8,LWDLD,LWWD
+Niort,Nancy,2-2,/match/chamois-niortais/nancy/2014,2014,10,ligue_2,20,38,1,2,2,10,2,5,2,8,11,DDDDWDWWW,2,3,0,5,3,16,2,4,3,8,11,DLLDLDWWD,1,2,1,4,6,DDWDW,LDDW
+Tours,Stade Brestois,1-1,/match/tours-fc/stade-brestois-29/2014,2014,10,ligue_2,20,38,1,1,1,7,4,3,2,18,12,WDLWLDWWD,2,2,0,9,5,11,3,3,3,12,10,DWLDWDWWL,1,2,2,6,7,DWDW,DLWDW
+Troyes,CA Bastia,6-1,/match/troyes/ca-bastia/2014,2014,10,ligue_2,20,38,0,6,1,9,4,2,3,15,11,DWWWWWWDL,3,1,0,9,4,20,0,4,5,4,11,WLDDWDWWD,0,1,4,1,7,WWWD,WDWWW
+Creteil,Angers SCO,0-0,/match/creteil-lusitanos/angers-sco/2014,2014,10,ligue_2,20,38,1,0,0,13,3,4,2,13,15,LWWDDDDLL,1,2,1,7,8,2,5,3,1,18,13,LWLDWWWDD,2,2,1,12,11,WDDL,LLDWD
+Arles,Lens,1-1,/match/arles/lens/2014,2014,10,ligue_2,20,38,1,1,1,8,4,2,3,9,7,WWWWWWLDD,3,1,0,7,3,1,5,2,2,16,14,WDWLWWDWW,1,1,2,6,10,WWWD,DLWW
+Angers SCO,Niort,2-0,/match/angers-sco/chamois-niortais/2014,2014,11,ligue_2,20,38,0,2,0,5,5,4,1,18,13,LWLDWWWDDD,3,1,0,6,2,10,2,6,2,10,13,DDDDWDWWWD,0,2,2,3,8,WWWD,DDWW
+Auxerre,Creteil,1-1,/match/auxerre/creteil-lusitanos/2014,2014,11,ligue_2,20,38,1,1,1,11,3,4,3,8,9,DDWWDDWWWW,3,2,0,6,1,12,3,5,2,13,15,LWWDDDDLLD,2,2,1,6,7,DWDWW,LWDDL
+CA Bastia,Tours,1-2,/match/ca-bastia/tours-fc/2014,2014,11,ligue_2,20,38,2,1,2,20,0,4,6,5,17,WLDDWDWWDW,0,3,1,3,4,8,4,4,2,19,13,WDLWLDWWDD,2,1,2,9,7,LDDD,WLLWD
+Chateauroux,Caen,0-2,/match/berrichonne-chateauroux/caen/2014,2014,11,ligue_2,20,38,2,0,2,16,2,3,5,11,17,DWLWWWDDWW,2,2,1,10,9,6,5,1,4,18,14,WLWWLWWDWW,1,1,3,8,10,DLWDW,LWWDW
+Dijon FCO,Troyes,2-1,/match/dijon-fco/troyes/2014,2014,11,ligue_2,20,38,0,2,1,7,4,4,2,10,8,WDLDWDWLWD,3,1,1,6,4,4,5,2,3,21,12,DWWWWWWDLW,1,1,3,6,7,DLWWW,DWWWL
+Istres,Arles,1-0,/match/istres/arles/2014,2014,11,ligue_2,20,38,0,1,0,18,1,4,5,12,18,LWDDDDWWLW,1,2,2,7,8,9,4,3,3,10,8,WWWWWWLDDD,1,1,3,2,4,LDDWL,WWWLD
+Stade Lavallois,Le Havre,2-2,/match/stade-lavallois/havre-ac/2014,2014,11,ligue_2,20,38,1,2,2,19,2,1,7,9,16,WLWLWWWWDW,2,0,2,7,6,13,2,5,3,11,10,WLDDDWDWWD,0,3,2,3,6,LLWW,WDDDW
+Nancy,Clermont,3-2,/match/nancy/clermont-foot/2014,2014,11,ligue_2,20,38,0,3,2,17,2,5,3,10,13,DLLDLDWWDD,1,2,2,4,5,3,4,5,1,10,6,WLWWDDDDDW,1,2,1,2,2,DLLWD,LWDD
+Lens,Nîmes,1-0,/match/lens/nimes-olympique/2014,2014,11,ligue_2,20,38,0,1,0,2,5,3,2,17,15,WDWLWWDWWD,4,1,0,10,4,15,2,4,4,14,17,LDWWDDLWDW,0,2,2,5,8,WWWDW,DWDW
+Stade Brestois,Metz,0-3,/match/stade-brestois-29/metz/2014,2014,11,ligue_2,20,38,2,0,3,14,3,4,3,13,11,DWLDWDWWLD,2,1,1,6,3,1,5,3,2,15,9,WWWDLDDWWW,1,1,2,6,6,WDWL,WLDW
+Arles,Dijon FCO,0-0,/match/arles/dijon-fco/2014,2014,12,ligue_2,20,38,1,0,0,10,4,3,4,10,9,WWWWWWLDDDW,3,2,0,8,4,4,5,4,2,12,9,WDLDWDWLWDW,1,3,1,4,4,WWWDD,WDDLD
+Creteil,CA Bastia,3-0,/match/creteil-lusitanos/ca-bastia/2014,2014,12,ligue_2,20,38,0,3,0,12,3,6,2,14,16,LWWDDDDLLDD,1,3,1,7,8,20,0,4,7,6,19,WLDDWDWWDWL,0,1,5,2,13,WDDLD,WDWWWW
+Le Havre,Stade Brestois,0-1,/match/havre-ac/stade-brestois-29/2014,2014,12,ligue_2,20,38,2,0,1,14,2,6,3,13,12,WLDDDWDWWDD,2,2,1,8,4,15,3,4,4,13,14,DWLDWDWWLDL,1,3,2,7,8,LDWWD,DLWDWD
+Metz,Angers SCO,1-0,/match/metz/angers-sco/2014,2014,12,ligue_2,20,38,0,1,0,2,6,3,2,18,9,WWWDLDDWWWL,4,2,0,9,3,3,6,4,1,20,13,LWLDWWWDDDW,2,3,1,12,11,WWDDWW,LLDWDD
+Nîmes,Chateauroux,3-1,/match/nimes-olympique/berrichonne-chateauroux/2014,2014,12,ligue_2,20,38,0,3,1,16,2,4,5,14,18,LDWWDDLWDWW,2,2,2,9,9,18,2,3,6,11,19,DWLWWWDDWWL,0,1,4,1,8,LWDLDW,WWWDW
+Niort,Istres,3-1,/match/chamois-niortais/istres/2014,2014,12,ligue_2,20,38,0,3,1,11,2,6,3,10,15,DDDDWDWWWDW,2,4,0,7,5,17,2,4,5,13,18,LWDDDDWWLWW,0,2,3,5,10,DDWDWD,WDDWW
+Tours,Stade Lavallois,2-0,/match/tours-fc/stade-lavallois/2014,2014,12,ligue_2,20,38,0,2,0,8,5,4,2,21,14,WDLWLDWWDDL,2,3,0,10,6,19,2,2,7,11,18,WLWLWWWWDWD,0,1,5,2,10,DWDWD,WWWWDW
+Troyes,Auxerre,2-0,/match/troyes/auxerre/2014,2014,12,ligue_2,20,38,0,2,0,6,5,2,4,22,14,DWWWWWWDLWW,4,1,0,15,5,9,3,5,3,9,10,DDWWDDWWWWD,0,2,3,2,8,WWWDW,DWDWW
+Caen,Nancy,1-2,/match/caen/nancy/2014,2014,12,ligue_2,20,38,2,1,2,7,6,1,4,20,14,WLWWLWWDWWL,4,0,1,10,4,13,3,5,3,13,15,DLLDLDWWDDW,1,3,1,6,8,WWLWW,LDDWD
+Clermont,Lens,0-0,/match/clermont-foot/lens/2014,2014,12,ligue_2,20,38,1,0,0,5,4,5,2,12,9,WLWWDDDDDWW,3,3,0,8,4,1,6,3,2,18,15,WDWLWWDWWDW,1,2,2,7,11,WWDDDW,DLWWD
+Angers SCO,Arles,1-0,/match/angers-sco/arles/2014,2014,13,ligue_2,20,38,0,1,0,4,6,4,2,20,14,LWLDWWWDDDWW,4,1,0,8,2,9,4,4,4,10,9,WWWWWWLDDDWD,1,1,4,2,5,WWWDW,WWWLDW
+Auxerre,Tours,4-0,/match/auxerre/tours-fc/2014,2014,13,ligue_2,20,38,0,4,0,12,3,5,4,9,12,DDWWDDWWWWDW,3,3,0,7,2,3,6,4,2,23,14,WDLWLDWWDDLW,3,1,2,11,8,DWDWWD,WLLWDL
+CA Bastia,Le Havre,0-0,/match/ca-bastia/havre-ac/2014,2014,13,ligue_2,20,38,1,0,0,20,0,4,8,6,22,WLDDWDWWDWLW,0,3,2,4,6,16,2,6,4,13,13,WLDDDWDWWDDL,0,4,2,5,8,LDDDL,WDDDWD
+Chateauroux,Clermont,3-0,/match/berrichonne-chateauroux/clermont-foot/2014,2014,13,ligue_2,20,38,0,3,0,18,2,3,7,12,22,DWLWWWDDWWLW,2,2,2,10,11,7,4,6,2,12,9,WLWWDDDDDWWD,1,2,2,4,5,DLWDWL,LWDDW
+Dijon FCO,Niort,2-2,/match/dijon-fco/chamois-niortais/2014,2014,13,ligue_2,20,38,1,2,2,6,5,5,2,12,9,WDLDWDWLWDWD,4,1,1,8,5,8,3,6,3,13,16,DDDDWDWWWDWW,0,2,3,3,10,DLWWWW,DDWWW
+Istres,Metz,1-2,/match/istres/metz/2014,2014,13,ligue_2,20,38,2,1,2,17,2,4,6,14,21,LWDDDDWWLWWW,2,2,2,8,8,1,7,3,2,19,9,WWWDLDDWWWLW,2,1,2,9,6,LDDWLW,WLDWL
+Stade Lavallois,Creteil,5-1,/match/stade-lavallois/creteil-lusitanos/2014,2014,13,ligue_2,20,38,0,5,1,19,2,2,8,11,20,WLWLWWWWDWDW,2,1,2,9,8,11,4,6,2,17,16,LWWDDDDLLDDW,2,3,1,7,8,LLWWD,LWDDLD
+Nancy,Nîmes,1-0,/match/nancy/nimes-olympique/2014,2014,13,ligue_2,20,38,0,1,0,13,4,5,3,15,16,DLLDLDWWDDWL,2,2,2,7,7,14,3,4,5,17,19,LDWWDDLWDWWW,0,2,3,5,9,DLLWDW,DWDWW
+Lens,Caen,2-1,/match/lens/caen/2014,2014,13,ligue_2,20,38,0,2,1,2,6,4,2,18,15,WDWLWWDWWDWD,5,1,0,11,4,10,6,1,5,21,16,WLWWLWWDWWLL,2,1,3,10,10,WWWDWW,LWWDWL
+Stade Brestois,Troyes,1-1,/match/stade-brestois-29/troyes/2014,2014,13,ligue_2,20,38,1,1,1,15,4,4,4,14,14,DWLDWDWWLDLL,2,1,2,6,6,5,6,2,4,24,14,DWWWWWWDLWWW,1,1,4,7,9,WDWLL,DWWWLW
+Caen,Istres,4-0,/match/caen/istres/2014,2014,14,ligue_2,20,38,0,4,0,12,6,1,6,22,18,WLWWLWWDWWLLW,4,0,2,11,6,19,2,4,7,15,23,LWDDDDWWLWWWL,0,2,4,6,13,WWLWWL,WDDWWW
+Clermont,Auxerre,1-1,/match/clermont-foot/auxerre/2014,2014,14,ligue_2,20,38,1,1,1,7,4,6,3,12,12,WLWWDDDDDWWDW,3,4,0,8,4,8,4,5,4,13,12,DDWWDDWWWWDWW,0,2,4,2,10,WWDDDWD,DWDWWW
+Creteil,Tours,2-1,/match/creteil-lusitanos/tours-fc/2014,2014,14,ligue_2,20,38,0,2,1,11,4,6,3,18,21,LWWDDDDLLDDWW,2,3,1,10,8,6,6,4,3,23,18,WDLWLDWWDDLWW,3,1,3,11,12,WDDLDW,WLLWDLW
+Le Havre,Angers SCO,1-2,/match/havre-ac/angers-sco/2014,2014,14,ligue_2,20,38,2,1,2,16,2,7,4,13,13,WLDDDWDWWDDLD,2,2,2,8,5,3,7,4,2,21,14,LWLDWWWDDDWWW,2,3,2,12,12,LDWWDL,LLDWDDW
+Nancy,Chateauroux,2-0,/match/nancy/berrichonne-chateauroux/2014,2014,14,ligue_2,20,38,0,2,0,10,5,5,3,16,16,DLLDLDWWDDWLW,3,2,2,8,7,17,3,3,7,15,22,DWLWWWDDWWLWW,0,1,5,2,11,DLLWDWW,WWWDWW
+Nîmes,CA Bastia,0-1,/match/nimes-olympique/ca-bastia/2014,2014,14,ligue_2,20,38,2,0,1,15,3,4,6,17,20,LDWWDDLWDWWWW,3,2,2,12,10,20,0,5,8,6,22,WLDDWDWWDWLWD,0,1,6,2,16,LWDLDWW,WDWWWWW
+Troyes,Stade Lavallois,0-1,/match/troyes/stade-lavallois/2014,2014,14,ligue_2,20,38,2,0,1,4,6,3,4,25,15,DWWWWWWDLWWWD,5,1,0,17,5,18,3,2,8,16,21,WLWLWWWWDWDWW,0,1,6,2,12,WWWDWW,WWWWDWW
+Metz,Dijon FCO,2-0,/match/metz/dijon-fco/2014,2014,14,ligue_2,20,38,0,2,0,1,8,3,2,21,10,WWWDLDDWWWLWL,5,2,0,10,3,5,5,6,2,14,11,WDLDWDWLWDWDD,1,4,1,4,4,WWDDWWW,WDDLDD
+Arles,Stade Brestois,1-0,/match/arles/stade-brestois-29/2014,2014,14,ligue_2,20,38,0,1,0,13,4,4,5,10,10,WWWWWWLDDDWDW,3,3,0,8,4,14,4,5,4,15,15,DWLDWDWWLDLLD,2,3,2,8,8,WWWDDD,DLWDWDL
+Niort,Lens,2-2,/match/chamois-niortais/lens/2014,2014,14,ligue_2,20,38,1,2,2,9,3,7,3,15,18,DDDDWDWWWDWWD,3,4,0,10,6,2,7,4,2,20,16,WDWLWWDWWDWDW,1,3,2,7,11,DDWDWDW,DLWWDD
+Angers SCO,Clermont,0-2,/match/angers-sco/clermont-foot/2014,2014,15,ligue_2,20,38,2,0,2,3,8,4,2,23,15,LWLDWWWDDDWWWL,5,1,0,9,2,7,4,7,3,13,13,WLWWDDDDDWWDWD,1,2,3,4,8,WWWDWW,LWDDWW
+Stade Brestois,Niort,0-1,/match/stade-brestois-29/chamois-niortais/2014,2014,15,ligue_2,20,38,2,0,1,14,4,5,5,15,16,DWLDWDWWLDLLDW,2,2,2,7,7,11,3,8,3,17,20,DDDDWDWWWDWWDD,0,3,3,5,12,WDWLLD,DDWWWD
+CA Bastia,Metz,0-2,/match/ca-bastia/metz/2014,2014,15,ligue_2,20,38,2,0,2,20,1,5,8,7,22,WLDDWDWWDWLWDL,0,4,2,4,6,1,9,3,2,23,10,WWWDLDDWWWLWLW,3,1,2,11,7,LDDDLD,WLDWLL
+Creteil,Troyes,0-3,/match/creteil-lusitanos/troyes/2014,2014,15,ligue_2,20,38,2,0,3,10,5,6,3,20,22,LWWDDDDLLDDWWW,3,3,1,12,9,5,6,3,5,25,16,DWWWWWWDLWWWDL,1,2,4,8,10,WDDLDWW,DWWWLWD
+Dijon FCO,Nancy,1-0,/match/dijon-fco/nancy/2014,2014,15,ligue_2,20,38,0,1,0,6,5,6,3,14,13,WDLDWDWLWDWDDW,4,2,1,10,7,4,6,5,3,18,16,DLLDLDWWDDWLWW,2,3,1,8,9,DLWWWWD,LDDWDL
+Istres,Nîmes,4-2,/match/istres/nimes-olympique/2014,2014,15,ligue_2,20,38,0,4,2,19,2,4,8,15,27,LWDDDDWWLWWWLW,2,2,3,9,10,15,3,4,7,17,21,LDWWDDLWDWWWWL,0,2,4,5,10,LDDWLWL,DWDWWW
+Stade Lavallois,Arles,1-1,/match/stade-lavallois/arles/2014,2014,15,ligue_2,20,38,1,1,1,18,4,2,8,17,21,WLWLWWWWDWDWWL,3,1,2,14,9,8,5,4,5,11,10,WWWWWWLDDDWDWW,1,1,5,2,6,LLWWDW,WWWLDWW
+Tours,Le Havre,2-2,/match/tours-fc/havre-ac/2014,2014,15,ligue_2,20,38,1,2,2,13,6,4,4,24,20,WDLWLDWWDDLWWW,3,3,0,12,6,16,2,7,5,14,15,WLDDDWDWWDDLDL,0,5,2,5,8,DWDWDW,WDDDWDD
+Lens,Chateauroux,2-0,/match/lens/berrichonne-chateauroux/2014,2014,15,ligue_2,20,38,0,2,0,2,7,5,2,22,18,WDWLWWDWWDWDWD,6,1,0,13,5,17,3,3,8,15,24,DWLWWWDDWWLWWW,0,1,6,2,13,WWWDWWW,WWWDWWW
+Auxerre,Caen,3-2,/match/auxerre/caen/2014,2014,15,ligue_2,20,38,0,3,2,12,4,6,4,14,13,DDWWDDWWWWDWWD,4,3,0,11,2,9,7,1,6,26,18,WLWWLWWDWWLLWW,2,1,4,11,12,DWDWWDW,LWWDWLW
+Arles,CA Bastia,0-0,/match/arles/ca-bastia/2014,2014,16,ligue_2,20,38,1,0,0,11,5,5,5,12,11,WWWWWWLDDDWDWWD,4,3,0,9,4,20,1,5,9,7,24,WLDDWDWWDWLWDLL,1,1,6,3,16,WWWDDDW,WDWWWWWL
+Caen,Angers SCO,1-1,/match/caen/angers-sco/2014,2014,16,ligue_2,20,38,1,1,1,13,7,1,7,28,21,WLWWLWWDWWLLWWW,5,0,2,15,6,3,8,4,3,23,17,LWLDWWWDDDWWWLL,3,3,2,14,13,WWLWWLW,LLDWDDWL
+Chateauroux,Istres,2-0,/match/berrichonne-chateauroux/istres/2014,2014,16,ligue_2,20,38,0,2,0,19,3,3,9,15,26,DWLWWWDDWWLWWWW,3,2,2,13,11,18,3,4,8,19,29,LWDDDDWWLWWWLWW,0,2,5,6,17,DLWDWLW,WDDWWWW
+Clermont,Stade Brestois,1-0,/match/clermont-foot/stade-brestois-29/2014,2014,16,ligue_2,20,38,0,1,0,7,5,7,3,15,13,WLWWDDDDDWWDWDL,3,5,0,9,5,14,4,5,6,15,17,DWLDWDWWLDLLDWL,2,3,3,8,9,WWDDDWDD,DLWDWDLW
+Le Havre,Creteil,3-1,/match/havre-ac/creteil-lusitanos/2014,2014,16,ligue_2,20,38,0,3,1,17,2,8,5,16,17,WLDDDWDWWDDLDLD,2,2,3,9,7,12,5,6,4,20,25,LWWDDDDLLDDWWWL,2,3,2,8,13,LDWWDLL,LWDDLDW
+Nîmes,Dijon FCO,1-1,/match/nimes-olympique/dijon-fco/2014,2014,16,ligue_2,20,38,1,1,1,16,3,4,8,19,25,LDWWDDLWDWWWWLW,3,2,3,12,11,4,6,6,3,15,13,WDLDWDWLWDWDDWW,1,4,2,4,6,LWDLDWWL,WDDLDDW
+Niort,Stade Lavallois,0-1,/match/chamois-niortais/stade-lavallois/2014,2014,16,ligue_2,20,38,2,0,1,9,4,8,3,18,20,DDDDWDWWWDWWDDL,3,5,0,12,8,15,4,3,8,18,22,WLWLWWWWDWDWWLD,1,1,6,3,12,DDWDWDWD,WWWWDWWL
+Troyes,Tours,1-2,/match/troyes/tours-fc/2014,2014,16,ligue_2,20,38,2,1,2,6,7,3,5,28,16,DWWWWWWDLWWWDLL,5,1,1,17,6,8,6,5,4,26,22,WDLWLDWWDDLWWWD,3,1,4,12,14,WWWDWWL,WLLWDLWW
+Nancy,Lens,1-0,/match/nancy/lens/2014,2014,16,ligue_2,20,38,0,1,0,10,6,5,4,18,17,DLLDLDWWDDWLWWW,4,2,2,10,7,2,8,5,2,24,18,WDWLWWDWWDWDWDW,1,4,2,9,13,DLLWDWWW,DLWWDDD
+Metz,Auxerre,3-0,/match/metz/auxerre/2014,2014,16,ligue_2,20,38,0,3,0,1,10,3,2,25,10,WWWDLDDWWWLWLWL,6,2,0,12,3,5,5,6,4,17,15,DDWWDDWWWWDWWDW,0,3,4,3,11,WWDDWWWW,DWDWWWD
+Auxerre,Niort,2-0,/match/auxerre/chamois-niortais/2014,2014,17,ligue_2,20,38,0,2,0,7,5,6,5,17,18,DDWWDDWWWWDWWDWW,5,3,0,14,4,11,4,8,4,18,21,DDDDWDWWWDWWDDLL,1,3,3,6,12,DWDWWDWW,DDWWWDL
+Stade Brestois,Nîmes,1-1,/match/stade-brestois-29/nimes-olympique/2014,2014,17,ligue_2,20,38,1,1,1,18,4,5,7,15,18,DWLDWDWWLDLLDWLW,2,2,3,7,8,17,3,5,8,20,26,LDWWDDLWDWWWWLWD,0,2,5,7,14,WDWLLDL,DWDWWWW
+CA Bastia,Caen,1-5,/match/ca-bastia/caen/2014,2014,17,ligue_2,20,38,2,1,5,20,1,6,9,7,24,WLDDWDWWDWLWDLLD,0,4,3,4,8,12,7,2,7,29,22,WLWWLWWDWWLLWWWD,2,1,5,13,15,LDDDLDL,LWWDWLWW
+Creteil,Arles,1-1,/match/creteil-lusitanos/arles/2014,2014,17,ligue_2,20,38,1,1,1,13,5,6,5,21,28,LWWDDDDLLDDWWWLW,3,3,2,12,12,9,5,6,5,12,11,WWWWWWLDDDWDWWDD,1,2,5,3,7,WDDLDWWL,WWWLDWWD
+Istres,Nancy,0-0,/match/istres/nancy/2014,2014,17,ligue_2,20,38,1,0,0,19,3,4,9,19,31,LWDDDDWWLWWWLWWW,3,2,3,13,12,5,7,5,4,19,17,DLLDLDWWDDWLWWWW,2,3,2,8,10,LDDWLWLW,LDDWDLW
+Stade Lavallois,Chateauroux,2-2,/match/stade-lavallois/berrichonne-chateauroux/2014,2014,17,ligue_2,20,38,1,2,2,15,5,3,8,19,22,WLWLWWWWDWDWWLDL,3,2,2,15,10,16,4,3,9,17,26,DWLWWWDDWWLWWWWW,0,1,7,2,15,LLWWDWD,WWWDWWWW
+Tours,Metz,4-2,/match/tours-fc/metz/2014,2014,17,ligue_2,20,38,0,4,2,8,7,5,4,28,23,WDLWLDWWDDLWWWDL,3,4,0,14,8,1,11,3,2,28,10,WWWDLDDWWWLWLWLW,4,1,2,13,7,DWDWDWD,WLDWLLL
+Troyes,Le Havre,0-1,/match/troyes/havre-ac/2014,2014,17,ligue_2,20,38,2,0,1,10,7,3,6,29,18,DWWWWWWDLWWWDLLL,5,1,2,18,8,14,3,8,5,19,18,WLDDDWDWWDDLDLDW,0,6,2,7,10,WWWDWWLL,WDDDWDDD
+Angers SCO,Lens,1-2,/match/angers-sco/lens/2014,2014,17,ligue_2,20,38,2,1,2,3,8,5,3,24,18,LWLDWWWDDDWWWLLD,5,1,1,9,4,2,8,5,3,24,19,WDWLWWDWWDWDWDWW,1,4,3,9,14,WWWDWWL,DLWWDDDW
+Dijon FCO,Clermont,1-0,/match/dijon-fco/clermont-foot/2014,2014,17,ligue_2,20,38,0,1,0,6,6,7,3,16,14,WDLDWDWLWDWDDWWD,5,2,1,11,7,4,6,7,3,16,13,WLWWDDDDDWWDWDLW,2,2,3,6,8,DLWWWWDW,LWDDWWL
+Lens,Istres,1-2,/match/lens/istres/2014,2014,18,ligue_2,20,38,2,1,2,2,9,5,3,26,20,WDWLWWDWWDWDWDWWL,7,1,0,15,5,19,3,5,9,19,31,LWDDDDWWLWWWLWWWD,0,2,6,6,19,WWWDWWWW,WDDWWWWW
+Caen,Stade Brestois,0-0,/match/caen/stade-brestois-29/2014,2014,18,ligue_2,20,38,1,0,0,10,8,2,7,34,23,WLWWLWWDWWLLWWWDL,5,1,2,16,7,18,4,6,7,16,19,DWLDWDWWLDLLDWLWD,2,3,4,8,10,WWLWWLWD,DLWDWDLWW
+Chateauroux,Dijon FCO,3-1,/match/berrichonne-chateauroux/dijon-fco/2014,2014,18,ligue_2,20,38,0,3,1,16,4,4,9,19,28,DWLWWWDDWWLWWWWWD,4,2,2,15,11,3,7,7,3,17,14,WDLDWDWLWDWDDWWDW,1,5,2,5,7,DLWDWLWW,WDDLDDWD
+Clermont,CA Bastia,2-0,/match/clermont-foot/ca-bastia/2014,2014,18,ligue_2,20,38,0,2,0,7,6,7,4,16,14,WLWWDDDDDWWDWDLWW,4,5,0,10,5,20,1,6,10,8,29,WLDDWDWWDWLWDLLDL,1,2,6,3,16,WWDDDWDDW,WDWWWWWLD
+Le Havre,Auxerre,2-0,/match/havre-ac/auxerre/2014,2014,18,ligue_2,20,38,0,2,0,14,4,8,5,20,18,WLDDDWDWWDDLDLDWL,3,2,3,12,8,4,6,6,5,19,18,DDWWDDWWWWDWWDWWW,0,3,5,3,14,LDWWDLLW,DWDWWWDW
+Nancy,Stade Lavallois,2-1,/match/nancy/stade-lavallois/2014,2014,18,ligue_2,20,38,0,2,1,8,7,6,4,19,17,DLLDLDWWDDWLWWWWD,5,2,2,11,7,15,5,4,8,21,24,WLWLWWWWDWDWWLDLD,2,1,6,4,12,DLLWDWWWW,WWWWDWWLL
+Nîmes,Angers SCO,0-2,/match/nimes-olympique/angers-sco/2014,2014,18,ligue_2,20,38,2,0,2,17,3,6,8,21,27,LDWWDDLWDWWWWLWDD,3,3,3,13,12,6,8,5,4,25,20,LWLDWWWDDDWWWLLDL,3,4,2,15,14,LWDLDWWLD,LLDWDDWLD
+Niort,Creteil,2-1,/match/chamois-niortais/creteil-lusitanos/2014,2014,18,ligue_2,20,38,0,2,1,13,4,8,5,18,23,DDDDWDWWWDWWDDLLW,3,5,1,12,9,12,5,7,5,22,29,LWWDDDDLLDDWWWLWD,2,3,3,9,16,DDWDWDWDL,LWDDLDWW
+Arles,Tours,1-0,/match/arles/tours-fc/2014,2014,18,ligue_2,20,38,0,1,0,9,5,7,5,13,12,WWWWWWLDDDWDWWDDD,4,4,0,9,4,5,8,5,4,32,25,WDLWLDWWDDLWWWDLW,4,1,4,14,15,WWWDDDWD,WLLWDLWWL
+Metz,Troyes,1-0,/match/metz/troyes/2014,2014,18,ligue_2,20,38,0,1,0,1,11,3,3,30,14,WWWDLDDWWWLWLWLWW,7,2,0,15,3,11,7,3,7,29,19,DWWWWWWDLWWWDLLLL,2,2,4,11,10,WWDDWWWWW,DWWWLWDL
+Auxerre,Arles,1-1,/match/auxerre/arles/2014,2014,19,ligue_2,20,38,1,1,1,7,6,6,6,19,20,DDWWDDWWWWDWWDWWWW,6,3,0,16,4,9,6,7,5,14,12,WWWWWWLDDDWDWWDDDW,1,3,5,4,8,DWDWWDWWW,WWWLDWWDD
+CA Bastia,Niort,0-3,/match/ca-bastia/chamois-niortais/2014,2014,19,ligue_2,20,38,2,0,3,20,1,6,11,8,31,WLDDWDWWDWLWDLLDLW,0,4,4,5,13,10,5,8,5,20,24,DDDDWDWWWDWWDDLLWW,1,3,4,6,14,LDDDLDLL,DDWWWDLW
+Dijon FCO,Istres,4-1,/match/dijon-fco/istres/2014,2014,19,ligue_2,20,38,0,4,1,5,7,7,4,18,17,WDLDWDWLWDWDDWWDWW,6,2,1,12,7,18,4,5,9,21,32,LWDDDDWWLWWWLWWWDL,1,2,6,8,20,DLWWWWDWW,WDDWWWWWL
+Stade Lavallois,Nîmes,1-3,/match/stade-lavallois/nimes-olympique/2014,2014,19,ligue_2,20,38,2,1,3,16,5,4,9,22,26,WLWLWWWWDWDWWLDLDW,3,3,2,17,12,19,3,6,9,21,29,LDWWDDLWDWWWWLWDDL,0,3,5,8,15,LLWWDWDD,DWDWWWWD
+Le Havre,Metz,2-2,/match/havre-ac/metz/2014,2014,19,ligue_2,20,38,1,2,2,12,5,8,5,22,18,WLDDDWDWWDDLDLDWLW,4,2,3,14,8,1,12,3,3,31,14,WWWDLDDWWWLWLWLWWW,4,1,3,15,11,LDWWDLLWW,WLDWLLLW
+Tours,Caen,2-1,/match/tours-fc/caen/2014,2014,19,ligue_2,20,38,0,2,1,8,8,5,5,32,26,WDLWLDWWDDLWWWDLWW,4,4,0,18,10,11,8,3,7,34,23,WLWWLWWDWWLLWWWDLD,3,1,5,18,16,DWDWDWDW,LWWDWLWWL
+Troyes,Clermont,2-2,/match/troyes/clermont-foot/2014,2014,19,ligue_2,20,38,1,2,2,13,7,3,8,29,20,DWWWWWWDLWWWDLLLLW,5,1,3,18,9,3,7,7,4,18,14,WLWWDDDDDWWDWDLWWW,2,2,4,6,9,WWWDWWLLL,LWDDWWLW
+Angers SCO,Nancy,1-1,/match/angers-sco/nancy/2014,2014,19,ligue_2,20,38,1,1,1,6,9,5,4,27,20,LWLDWWWDDDWWWLLDLL,5,1,2,10,6,4,8,6,4,21,18,DLLDLDWWDDWLWWWWDW,2,4,2,8,10,WWWDWWLL,LDDWDLWD
+Creteil,Chateauroux,3-2,/match/creteil-lusitanos/berrichonne-chateauroux/2014,2014,19,ligue_2,20,38,0,3,2,14,5,7,6,23,31,LWWDDDDLLDDWWWLWDW,3,4,2,13,13,15,5,4,9,22,29,DWLWWWDDWWLWWWWWDW,0,2,7,4,17,WDDLDWWLD,WWWDWWWWD
+Stade Brestois,Lens,0-1,/match/stade-brestois-29/lens/2014,2014,19,ligue_2,20,38,2,0,1,17,4,7,7,16,19,DWLDWDWWLDLLDWLWDD,2,3,3,8,9,2,9,5,4,27,22,WDWLWWDWWDWDWDWWLL,2,4,3,11,15,WDWLLDLD,DLWWDDDWL
+Caen,Stade Lavallois,2-1,/match/caen/stade-lavallois/2014,2014,20,ligue_2,20,38,0,2,1,12,8,3,8,35,25,WLWWLWWDWWLLWWWDLDW,5,2,2,16,7,16,5,4,10,23,29,WLWLWWWWDWDWWLDLDWL,2,1,7,5,14,WWLWWLWDD,WWWWDWWLLW
+Chateauroux,Angers SCO,0-1,/match/berrichonne-chateauroux/angers-sco/2014,2014,20,ligue_2,20,38,2,0,1,15,5,4,10,24,32,DWLWWWDDWWLWWWWWDWW,5,2,2,18,12,7,9,6,4,28,21,LWLDWWWDDDWWWLLDLLD,4,4,2,17,14,DLWDWLWWW,LLDWDDWLDL
+Clermont,Le Havre,0-1,/match/clermont-foot/havre-ac/2014,2014,20,ligue_2,20,38,2,0,1,4,7,8,4,20,16,WLWWDDDDDWWDWDLWWWD,5,5,0,12,5,14,5,9,5,24,20,WLDDDWDWWDDLDLDWLWD,1,6,2,8,10,WWDDDWDDWW,WDDDWDDDL
+Istres,Stade Brestois,3-1,/match/istres/stade-brestois-29/2014,2014,20,ligue_2,20,38,0,3,1,19,4,5,10,22,36,LWDDDDWWLWWWLWWWDLW,3,3,3,13,12,18,4,7,8,16,20,DWLDWDWWLDLLDWLWDDL,2,4,4,8,10,LDDWLWLWD,DLWDWDLWWD
+Nancy,CA Bastia,0-1,/match/nancy/ca-bastia/2014,2014,20,ligue_2,20,38,2,0,1,5,8,7,4,22,19,DLLDLDWWDDWLWWWWDWD,6,2,2,13,8,20,1,6,12,8,34,WLDDWDWWDWLWDLLDLWL,1,2,7,3,18,DLLWDWWWWW,WDWWWWWLDW
+Nîmes,Auxerre,2-2,/match/nimes-olympique/auxerre/2014,2014,20,ligue_2,20,38,1,2,2,17,4,6,9,24,30,LDWWDDLWDWWWWLWDDLL,3,3,4,13,14,8,6,7,6,20,21,DDWWDDWWWWDWWDWWWWD,0,3,6,3,16,LWDLDWWLDL,DWDWWWDWW
+Niort,Tours,3-2,/match/chamois-niortais/tours-fc/2014,2014,20,ligue_2,20,38,0,3,2,10,6,8,5,23,24,DDDDWDWWWDWWDDLLWWL,4,5,1,14,10,6,9,5,5,34,27,WDLWLDWWDDLWWWDLWWW,4,1,5,14,16,DDWDWDWDLW,WLLWDLWWLW
+Arles,Troyes,3-0,/match/arles/troyes/2014,2014,20,ligue_2,20,38,0,3,0,9,6,8,5,15,13,WWWWWWLDDDWDWWDDDWD,5,4,0,10,4,13,7,4,8,31,22,DWWWWWWDLWWWDLLLLWD,2,2,5,11,11,WWWDDDWDW,DWWWLWDLW
+Lens,Dijon FCO,2-2,/match/lens/dijon-fco/2014,2014,20,ligue_2,20,38,1,2,2,2,10,5,4,28,22,WDWLWWDWWDWDWDWWLLL,7,1,1,16,7,3,8,7,4,22,18,WDLDWDWLWDWDDWWDWWW,1,5,3,6,10,WWWDWWWWL,WDDLDDWDW
+Metz,Creteil,1-1,/match/metz/creteil-lusitanos/2014,2014,20,ligue_2,20,38,1,1,1,1,12,4,3,33,16,WWWDLDDWWWLWLWLWWWD,8,2,0,16,3,11,6,7,6,26,33,LWWDDDDLLDDWWWLWDWW,2,3,4,10,18,WWDDWWWWWW,LWDDLDWWW
+Arles,Metz,1-0,/match/arles/metz/2014,2014,21,ligue_2,20,38,0,1,0,5,7,8,5,18,13,WWWWWWLDDDWDWWDDDWDW,6,4,0,13,4,1,12,5,3,34,17,WWWDLDDWWWLWLWLWWWDD,4,2,3,17,13,WWWDDDWDWW,WLDWLLLWD
+Stade Brestois,Nancy,0-0,/match/stade-brestois-29/nancy/2014,2014,21,ligue_2,20,38,1,0,0,19,4,7,9,17,23,DWLDWDWWLDLLDWLWDDLW,2,3,4,8,10,7,8,7,5,22,20,DLLDLDWWDDWLWWWWDWDL,2,5,2,9,11,WDWLLDLDL,LDDWDLWDD
+CA Bastia,Istres,2-2,/match/ca-bastia/istres/2014,2014,21,ligue_2,20,38,1,2,2,20,2,6,12,9,34,WLDDWDWWDWLWDLLDLWLL,0,4,5,5,16,16,5,5,10,25,37,LWDDDDWWLWWWLWWWDLWW,1,2,7,9,24,LDDDLDLLL,WDDWWWWWLW
+Creteil,Caen,1-2,/match/creteil-lusitanos/caen/2014,2014,21,ligue_2,20,38,2,1,2,13,6,8,6,27,34,LWWDDDDLLDDWWWLWDWWD,4,4,2,16,15,11,9,3,8,37,26,WLWWLWWDWWLLWWWDLDWW,3,1,6,19,18,WDDLDWWLDW,LWWDWLWWLW
+Stade Lavallois,Clermont,0-0,/match/stade-lavallois/clermont-foot/2014,2014,21,ligue_2,20,38,1,0,0,18,5,4,11,24,31,WLWLWWWWDWDWWLDLDWLW,3,3,3,18,15,6,7,8,5,20,17,WLWWDDDDDWWDWDLWWWDL,2,3,4,8,11,LLWWDWDDL,LWDDWWLWD
+Le Havre,Niort,1-2,/match/havre-ac/chamois-niortais/2014,2014,21,ligue_2,20,38,2,1,2,12,6,9,5,25,20,WLDDDWDWWDDLDLDWLWDL,4,3,3,16,10,9,7,8,5,26,26,DDDDWDWWWDWWDDLLWWLW,2,3,4,9,14,LDWWDLLWWD,DDWWWDLWL
+Troyes,Nîmes,2-1,/match/troyes/nimes-olympique/2014,2014,21,ligue_2,20,38,0,2,1,14,7,4,9,31,25,DWWWWWWDLWWWDLLLLWDW,5,2,3,20,11,17,4,7,9,26,32,LDWWDDLWDWWWWLWDDLLD,1,3,5,11,16,WWWDWWLLLD,DWDWWWWDL
+Tours,Chateauroux,5-2,/match/tours-fc/berrichonne-chateauroux/2014,2014,21,ligue_2,20,38,0,5,2,8,9,5,6,36,30,WDLWLDWWDDLWWWDLWWWW,5,4,0,20,11,15,5,4,11,24,33,DWLWWWDDWWLWWWWWDWWL,0,2,8,6,20,DWDWDWDWW,WWWDWWWWDW
+Angers SCO,Dijon FCO,0-0,/match/angers-sco/dijon-fco/2014,2014,21,ligue_2,20,38,1,0,0,4,10,6,4,29,21,LWLDWWWDDDWWWLLDLLDL,5,2,2,11,7,3,8,8,4,24,20,WDLDWDWLWDWDDWWDWWWD,1,6,3,8,12,WWWDWWLLD,WDDLDDWDWD
+Auxerre,Lens,1-2,/match/auxerre/lens/2014,2014,21,ligue_2,20,38,2,1,2,10,6,8,6,22,23,DDWWDDWWWWDWWDWWWWDD,6,4,0,17,5,2,10,6,4,30,24,WDWLWWDWWDWDWDWWLLLD,3,4,3,12,15,DWDWWDWWWD,DLWWDDDWLL
+Angers SCO,CA Bastia,1-0,/match/angers-sco/ca-bastia/2014,2014,22,ligue_2,20,38,0,1,0,6,10,7,4,29,21,LWLDWWWDDDWWWLLDLLDLD,5,3,2,11,7,20,2,7,12,11,36,WLDDWDWWDWLWDLLDLWLLD,2,2,7,4,18,WWWDWWLLDD,WDWWWWWLDWL
+Caen,Troyes,1-1,/match/caen/troyes/2014,2014,22,ligue_2,20,38,1,1,1,10,10,3,8,39,27,WLWWLWWDWWLLWWWDLDWWL,6,2,2,18,8,12,8,4,9,33,26,DWWWWWWDLWWWDLLLLWDWW,2,2,6,11,14,WWLWWLWDDW,DWWWLWDLWW
+Chateauroux,Auxerre,2-0,/match/berrichonne-chateauroux/auxerre/2014,2014,22,ligue_2,20,38,0,2,0,16,5,4,12,26,38,DWLWWWDDWWLWWWWWDWWLW,5,2,3,18,13,11,6,8,7,23,25,DDWWDDWWWWDWWDWWWWDDL,0,4,6,5,18,DLWDWLWWWL,DWDWWWDWWD
+Clermont,Arles,1-1,/match/clermont-foot/arles/2014,2014,22,ligue_2,20,38,1,1,1,8,7,9,5,20,17,WLWWDDDDDWWDWDLWWWDLD,5,5,1,12,6,3,8,8,5,19,13,WWWWWWLDDDWDWWDDDWDWW,1,4,5,5,9,WWDDDWDDWWL,WWWLDWWDDD
+Dijon FCO,Stade Brestois,3-0,/match/dijon-fco/stade-brestois-29/2014,2014,22,ligue_2,20,38,0,3,0,4,8,9,4,24,20,WDLDWDWLWDWDDWWDWWWDD,7,2,1,16,8,19,4,8,9,17,23,DWLDWDWWLDLLDWLWDDLWD,2,4,5,9,13,DLWWWWDWWW,DLWDWDLWWDW
+Istres,Creteil,3-2,/match/istres/creteil-lusitanos/2014,2014,22,ligue_2,20,38,0,3,2,15,5,6,10,27,39,LWDDDDWWLWWWLWWWDLWWD,4,3,3,16,13,14,6,8,7,28,36,LWWDDDDLLDDWWWLWDWWDL,2,4,4,11,19,LDDWLWLWDW,LWDDLDWWWD
+Nîmes,Tours,3-0,/match/nimes-olympique/tours-fc/2014,2014,22,ligue_2,20,38,0,3,0,17,4,7,10,27,34,LDWWDDLWDWWWWLWDDLLDW,3,4,4,15,16,5,10,5,6,41,32,WDLWLDWWDDLWWWDLWWWWW,4,1,6,16,19,LWDLDWWLDLD,WLLWDLWWLWW
+Niort,Metz,2-0,/match/chamois-niortais/metz/2014,2014,22,ligue_2,20,38,0,2,0,7,8,8,5,28,27,DDDDWDWWWDWWDDLLWWLWL,5,5,1,17,12,1,12,5,4,34,18,WWWDLDDWWWLWLWLWWWDDW,4,2,4,17,14,DDWDWDWDLWW,WLDWLLLWDW
+Lens,Stade Lavallois,0-0,/match/lens/stade-lavallois/2014,2014,22,ligue_2,20,38,1,0,0,2,11,6,4,32,25,WDWLWWDWWDWDWDWWLLLDL,7,2,1,18,9,18,5,5,11,24,31,WLWLWWWWDWDWWLDLDWLWD,2,1,8,6,16,WWWDWWWWLD,WWWWDWWLLWW
+Nancy,Le Havre,3-2,/match/nancy/havre-ac/2014,2014,22,ligue_2,20,38,0,3,2,9,8,8,5,22,20,DLLDLDWWDDWLWWWWDWDLD,6,2,3,13,9,13,6,9,6,26,22,WLDDDWDWWDDLDLDWLWDLL,2,6,2,9,10,DLLWDWWWWWL,WDDDWDDDLL
+Arles,Niort,0-0,/match/arles/chamois-niortais/2014,2014,23,ligue_2,20,38,1,0,0,5,8,9,5,20,14,WWWWWWLDDDWDWWDDDWDWWD,7,4,0,14,4,6,9,8,5,30,27,DDDDWDWWWDWWDDLLWWLWLW,3,3,4,11,15,WWWDDDWDWWW,DDWWWDLWLL
+Auxerre,Istres,1-0,/match/auxerre/istres/2014,2014,23,ligue_2,20,38,0,1,0,11,6,8,8,23,27,DDWWDDWWWWDWWDWWWWDDLW,6,4,1,18,7,15,6,6,10,30,41,LWDDDDWWLWWWLWWWDLWWDW,1,3,7,11,26,DWDWWDWWWDL,WDDWWWWWLWD
+CA Bastia,Chateauroux,1-4,/match/ca-bastia/berrichonne-chateauroux/2014,2014,23,ligue_2,20,38,2,1,4,20,2,7,13,11,37,WLDDWDWWDWLWDLLDLWLLDW,0,5,5,7,18,16,6,4,12,28,38,DWLWWWDDWWLWWWWWDWWLWW,0,2,9,8,25,LDDDLDLLLD,WWWDWWWWDWW
+Creteil,Clermont,2-0,/match/creteil-lusitanos/clermont-foot/2014,2014,23,ligue_2,20,38,0,2,0,14,6,8,8,30,39,LWWDDDDLLDDWWWLWDWWDLW,4,4,3,17,17,9,7,10,5,21,18,WLWWDDDDDWWDWDLWWWDLDD,2,4,4,8,11,WDDLDWWLDWL,LWDDWWLWDD
+Stade Lavallois,Dijon FCO,0-0,/match/stade-lavallois/dijon-fco/2014,2014,23,ligue_2,20,38,1,0,0,18,5,6,11,24,31,WLWLWWWWDWDWWLDLDWLWDD,3,4,3,18,15,3,9,9,4,27,20,WDLDWDWLWDWDDWWDWWWDDW,1,7,3,8,12,LLWWDWDDLD,WDDLDDWDWDD
+Le Havre,Nîmes,0-1,/match/havre-ac/nimes-olympique/2014,2014,23,ligue_2,20,38,2,0,1,13,6,9,7,28,25,WLDDDWDWWDDLDLDWLWDLLW,4,3,4,17,12,17,5,7,10,30,34,LDWWDDLWDWWWWLWDDLLDWW,1,3,6,12,18,LDWWDLLWWDL,DWDWWWWDLW
+Metz,Caen,2-1,/match/metz/caen/2014,2014,23,ligue_2,20,38,0,2,1,1,12,5,5,34,20,WWWDLDDWWWLWLWLWWWDDWW,8,3,0,17,4,10,10,4,8,40,28,WLWWLWWDWWLLWWWDLDWWLD,4,1,6,21,19,WWDDWWWWWWD,LWWDWLWWLWL
+Troyes,Lens,1-0,/match/troyes/lens/2014,2014,23,ligue_2,20,38,0,1,0,12,8,5,9,34,27,DWWWWWWDLWWWDLLLLWDWWD,6,2,3,22,12,2,11,7,4,32,25,WDWLWWDWWDWDWDWWLLLDLD,4,4,3,14,16,WWWDWWLLLDW,DLWWDDDWLLL
+Tours,Nancy,1-3,/match/tours-fc/nancy/2014,2014,23,ligue_2,20,38,2,1,3,8,10,5,7,41,35,WDLWLDWWDDLWWWDLWWWWWW,6,4,0,25,13,7,9,8,5,25,22,DLLDLDWWDDWLWWWWDWDLDW,2,6,2,9,11,DWDWDWDWWW,LDDWDLWDDD
+Stade Brestois,Angers SCO,1-0,/match/stade-brestois-29/angers-sco/2014,2014,23,ligue_2,20,38,0,1,0,19,4,8,10,17,26,DWLDWDWWLDLLDWLWDDLWDW,2,4,4,8,10,4,11,7,4,30,21,LWLDWWWDDDWWWLLDLLDLDW,5,4,2,18,14,WDWLLDLDLD,LLDWDDWLDLL
+Caen,Arles,1-0,/match/caen/arles/2014,2014,24,ligue_2,20,38,0,1,0,11,10,4,9,41,30,WLWWLWWDWWLLWWWDLDWWLDW,6,3,2,19,9,4,8,10,5,20,14,WWWWWWLDDDWDWWDDDWDWWDD,1,5,5,6,10,WWLWWLWDDWD,WWWLDWWDDDD
+Chateauroux,Troyes,2-1,/match/berrichonne-chateauroux/troyes/2014,2014,24,ligue_2,20,38,0,2,1,15,7,4,12,32,39,DWLWWWDDWWLWWWWWDWWLWWL,6,2,3,20,13,12,9,5,9,35,27,DWWWWWWDLWWWDLLLLWDWWDW,2,3,6,12,15,DLWDWLWWWLW,DWWWLWDLWWD
+Clermont,Niort,0-1,/match/clermont-foot/chamois-niortais/2014,2014,24,ligue_2,20,38,2,0,1,10,7,10,6,21,20,WLWWDDDDDWWDWDLWWWDLDDW,5,6,1,13,7,6,9,9,5,30,27,DDDDWDWWWDWWDDLLWWLWLWD,3,4,4,11,15,WWDDDWDDWWLD,DDWWWDLWLLD
+Dijon FCO,CA Bastia,3-0,/match/dijon-fco/ca-bastia/2014,2014,24,ligue_2,20,38,0,3,0,3,9,10,4,27,20,WDLDWDWLWDWDDWWDWWWDDWD,8,2,1,19,8,20,2,7,14,12,41,WLDDWDWWDWLWDLLDLWLLDWL,2,2,8,4,19,DLWWWWDWWWW,WDWWWWWLDWLW
+Istres,Tours,1-0,/match/istres/tours-fc/2014,2014,24,ligue_2,20,38,0,1,0,16,6,6,11,30,42,LWDDDDWWLWWWLWWWDLWWDWW,5,3,3,19,15,8,10,5,8,42,38,WDLWLDWWDDLWWWDLWWWWWWL,4,1,7,16,22,LDDWLWLWDWW,WLLWDLWWLWWW
+Nancy,Creteil,2-2,/match/nancy/creteil-lusitanos/2014,2014,24,ligue_2,20,38,1,2,2,7,10,8,5,28,23,DLLDLDWWDDWLWWWWDWDLDWL,7,2,3,16,11,13,7,8,8,32,39,LWWDDDDLLDDWWWLWDWWDLWW,2,4,5,13,22,DLLWDWWWWWLW,LWDDLDWWWDW
+Nîmes,Metz,0-0,/match/nimes-olympique/metz/2014,2014,24,ligue_2,20,38,1,0,0,17,6,7,10,31,34,LDWWDDLWDWWWWLWDDLLDWWL,4,4,4,18,16,1,13,5,5,36,21,WWWDLDDWWWLWLWLWWWDDWWW,4,2,5,17,16,LWDLDWWLDLDW,WLDWLLLWDWW
+Angers SCO,Stade Lavallois,1-1,/match/angers-sco/stade-lavallois/2014,2014,24,ligue_2,20,38,1,1,1,5,11,7,5,30,22,LWLDWWWDDDWWWLLDLLDLDWW,6,3,2,12,7,18,5,7,11,24,31,WLWLWWWWDWDWWLDLDWLWDDD,2,2,8,6,16,WWWDWWLLDDW,WWWWDWWLLWWD
+Stade Brestois,Auxerre,1-0,/match/stade-brestois-29/auxerre/2014,2014,24,ligue_2,20,38,0,1,0,19,5,8,10,18,26,DWLDWDWWLDLLDWLWDDLWDWW,3,4,4,9,10,9,7,8,8,24,27,DDWWDDWWWWDWWDWWWWDDLWW,0,4,7,5,20,WDWLLDLDLDW,DWDWWWDWWDW
+Lens,Le Havre,1-1,/match/lens/havre-ac/2014,2014,24,ligue_2,20,38,1,1,1,2,11,7,5,32,26,WDWLWWDWWDWDWDWWLLLDLDW,7,3,1,18,9,14,6,9,8,28,26,WLDDDWDWWDDLDLDWLWDLLWL,2,6,3,11,13,WWWDWWWWLDD,WDDDWDDDLLW
+Arles,Nîmes,1-1,/match/arles/nimes-olympique/2014,2014,25,ligue_2,20,38,1,1,1,7,8,10,6,20,15,WWWWWWLDDDWDWWDDDWDWWDDW,7,5,0,14,4,17,6,8,10,31,34,LDWWDDLWDWWWWLWDDLLDWWLD,2,3,6,13,18,WWWDDDWDWWWD,DWDWWWWDLWL
+Auxerre,Angers SCO,1-2,/match/auxerre/angers-sco/2014,2014,25,ligue_2,20,38,2,1,2,10,7,8,9,24,28,DDWWDDWWWWDWWDWWWWDDLWWW,7,4,1,19,7,4,11,8,5,31,23,LWLDWWWDDDWWWLLDLLDLDWWD,5,4,3,18,15,DWDWWDWWWDLW,LLDWDDWLDLLW
+Stade Lavallois,Istres,3-4,/match/stade-lavallois/istres/2014,2014,25,ligue_2,20,38,2,3,4,19,5,8,11,25,32,WLWLWWWWDWDWWLDLDWLWDDDD,3,5,3,18,15,15,7,6,11,31,42,LWDDDDWWLWWWLWWWDLWWDWWW,1,3,8,11,27,LLWWDWDDLDD,WDDWWWWWLWDW
+Le Havre,Chateauroux,0-0,/match/havre-ac/berrichonne-chateauroux/2014,2014,25,ligue_2,20,38,1,0,0,16,6,10,8,29,27,WLDDDWDWWDDLDLDWLWDLLWLD,4,3,5,17,13,14,8,4,12,34,40,DWLWWWDDWWLWWWWWDWWLWWLW,1,2,9,12,26,LDWWDLLWWDLL,WWWDWWWWDWWL
+Niort,Caen,0-0,/match/chamois-niortais/caen/2014,2014,25,ligue_2,20,38,1,0,0,5,10,9,5,31,27,DDDDWDWWWDWWDDLLWWLWLWDL,6,5,1,19,12,8,11,4,9,42,30,WLWWLWWDWWLLWWWDLDWWLDWW,4,1,7,22,21,DDWDWDWDLWWW,LWWDWLWWLWLW
+Tours,Dijon FCO,1-0,/match/tours-fc/dijon-fco/2014,2014,25,ligue_2,20,38,0,1,0,9,10,5,9,42,39,WDLWLDWWDDLWWWDLWWWWWWLW,6,4,1,26,16,2,10,10,4,30,20,WDLDWDWLWDWDDWWDWWWDDWDW,1,8,3,8,12,DWDWDWDWWWL,WDDLDDWDWDDD
+Troyes,Nancy,2-0,/match/troyes/nancy/2014,2014,25,ligue_2,20,38,0,2,0,12,9,5,10,36,29,DWWWWWWDLWWWDLLLLWDWWDWW,7,2,3,23,12,6,10,9,5,30,25,DLLDLDWWDDWLWWWWDWDLDWLD,3,6,2,12,12,WWWDWWLLLDWW,LDDWDLWDDDL
+Metz,Clermont,1-0,/match/metz/clermont-foot/2014,2014,25,ligue_2,20,38,0,1,0,1,13,6,5,36,21,WWWDLDDWWWLWLWLWWWDDWWWD,9,3,0,19,5,11,7,10,7,21,21,WLWWDDDDDWWDWDLWWWDLDDWL,2,4,5,8,13,WWDDWWWWWWDW,LWDDWWLWDDW
+CA Bastia,Stade Brestois,0-1,/match/ca-bastia/stade-brestois-29/2014,2014,25,ligue_2,20,38,2,0,1,20,2,7,15,12,44,WLDDWDWWDWLWDLLDLWLLDWLW,0,5,6,8,22,18,6,8,10,19,26,DWLDWDWWLDLLDWLWDDLWDWWW,2,4,6,9,16,LDDDLDLLLDL,DLWDWDLWWDWW
+Creteil,Lens,2-3,/match/creteil-lusitanos/lens/2014,2014,25,ligue_2,20,38,2,2,3,13,7,9,8,34,41,LWWDDDDLLDDWWWLWDWWDLWWD,5,4,3,19,17,3,11,8,5,33,27,WDWLWWDWWDWDWDWWLLLDLDWD,4,4,4,14,17,WDDLDWWLDWLW,DLWWDDDWLLLW
+Angers SCO,Troyes,1-1,/match/angers-sco/troyes/2014,2014,26,ligue_2,20,38,1,1,1,4,12,8,5,33,24,LWLDWWWDDDWWWLLDLLDLDWWDL,6,4,2,13,8,10,10,5,10,38,29,DWWWWWWDLWWWDLLLLWDWWDWWW,2,3,7,13,17,WWWDWWLLDDWD,DWWWLWDLWWDW
+Stade Brestois,Stade Lavallois,2-1,/match/stade-brestois-29/stade-lavallois/2014,2014,26,ligue_2,20,38,0,2,1,18,7,8,10,20,26,DWLDWDWWLDLLDWLWDDLWDWWWL,4,4,4,10,10,19,5,8,12,28,36,WLWLWWWWDWDWWLDLDWLWDDDDL,2,3,8,7,17,WDWLLDLDLDWW,WWWWDWWLLWWDD
+CA Bastia,Auxerre,0-0,/match/ca-bastia/auxerre/2014,2014,26,ligue_2,20,38,1,0,0,20,2,7,16,12,45,WLDDWDWWDWLWDLLDLWLLDWLWL,0,5,7,8,23,12,7,8,10,25,30,DDWWDDWWWWDWWDWWWWDDLWWWL,0,4,8,5,21,LDDDLDLLLDLL,DWDWWWDWWDWW
+Caen,Clermont,2-1,/match/caen/clermont-foot/2014,2014,26,ligue_2,20,38,0,2,1,9,11,5,9,42,30,WLWWLWWDWWLLWWWDLDWWLDWWD,7,3,2,20,9,11,7,10,8,21,22,WLWWDDDDDWWDWDLWWWDLDDWLW,2,4,6,8,14,WWLWWLWDDWDW,LWDDWWLWDDWW
+Chateauroux,Arles,2-0,/match/berrichonne-chateauroux/arles/2014,2014,26,ligue_2,20,38,0,2,0,14,8,5,12,34,40,DWLWWWDDWWLWWWWWDWWLWWLWD,7,2,3,22,14,6,8,11,6,21,16,WWWWWWLDDDWDWWDDDWDWWDDWD,1,5,6,6,11,DLWDWLWWWLWW,WWWLDWWDDDDW
+Dijon FCO,Creteil,2-2,/match/dijon-fco/creteil-lusitanos/2014,2014,26,ligue_2,20,38,1,2,2,2,10,10,5,30,21,WDLDWDWLWDWDDWWDWWWDDWDWW,9,2,1,22,8,13,7,9,9,36,44,LWWDDDDLLDDWWWLWDWWDLWWDL,2,5,5,15,24,DLWWWWDWWWWW,LWDDLDWWWDWD
+Istres,Le Havre,0-1,/match/istres/havre-ac/2014,2014,26,ligue_2,20,38,2,0,1,15,8,6,11,35,45,LWDDDDWWLWWWLWWWDLWWDWWWL,6,3,3,20,15,16,6,11,8,29,27,WLDDDWDWWDDLDLDWLWDLLWLDD,2,7,3,12,14,LDDWLWLWDWWW,WDDDWDDDLLWD
+Nîmes,Niort,4-1,/match/nimes-olympique/chamois-niortais/2014,2014,26,ligue_2,20,38,0,4,1,17,6,9,10,32,35,LDWWDDLWDWWWWLWDDLLDWWLDD,4,5,4,18,16,5,10,10,5,31,27,DDDDWDWWWDWWDDLLWWLWLWDLD,4,4,4,12,15,LWDLDWWLDLDWD,DDWWWDLWLLDL
+Nancy,Metz,0-1,/match/nancy/metz/2014,2014,26,ligue_2,20,38,2,0,1,7,10,9,6,30,27,DLLDLDWWDDWLWWWWDWDLDWLDW,7,3,3,18,13,1,14,6,5,37,21,WWWDLDDWWWLWLWLWWWDDWWWDW,4,3,5,17,16,DLLWDWWWWWLWD,WLDWLLLWDWWD
+Lens,Tours,2-2,/match/lens/tours-fc/2014,2014,26,ligue_2,20,38,1,2,2,3,12,8,5,36,29,WDWLWWDWWDWDWDWWLLLDLDWDL,7,4,1,19,10,8,11,5,9,43,39,WDLWLDWWDDLWWWDLWWWWWWLWW,4,1,8,16,23,WWWDWWWWLDDD,WLLWDLWWLWWWW
+Arles,Nancy,1-2,/match/arles/nancy/2014,2014,27,ligue_2,20,38,2,1,2,7,8,11,7,21,18,WWWWWWLDDDWDWWDDDWDWWDDWDW,7,6,0,15,5,8,10,9,7,30,28,DLLDLDWWDDWLWWWWDWDLDWLDWL,3,6,3,12,14,WWWDDDWDWWWDD,LDDWDLWDDDLW
+Auxerre,Dijon FCO,2-2,/match/auxerre/dijon-fco/2014,2014,27,ligue_2,20,38,1,2,2,12,7,9,10,25,30,DDWWDDWWWWDWWDWWWWDDLWWWLD,7,4,2,20,9,3,10,11,5,32,23,WDLDWDWLWDWDDWWDWWWDDWDWWD,1,8,4,8,13,DWDWWDWWWDLWL,WDDLDDWDWDDDW
+Clermont,Nîmes,1-0,/match/clermont-foot/nimes-olympique/2014,2014,27,ligue_2,20,38,0,1,0,13,7,10,9,22,24,WLWWDDDDDWWDWDLWWWDLDDWLWW,5,6,2,13,8,15,7,9,10,36,36,LDWWDDLWDWWWWLWDDLLDWWLDDW,2,4,6,14,19,WWDDDWDDWWLDL,DWDWWWWDLWLD
+Creteil,Stade Brestois,0-0,/match/creteil-lusitanos/stade-brestois-29/2014,2014,27,ligue_2,20,38,1,0,0,14,7,10,9,38,46,LWWDDDDLLDDWWWLWDWWDLWWDLD,5,4,4,21,20,16,8,8,10,22,27,DWLDWDWWLDLLDWLWDDLWDWWWLW,3,4,6,10,16,WDDLDWWLDWLWL,DLWDWDLWWDWWL
+Stade Lavallois,CA Bastia,2-0,/match/stade-lavallois/ca-bastia/2014,2014,27,ligue_2,20,38,0,2,0,19,5,8,13,29,38,WLWLWWWWDWDWWLDLDWLWDDDDLW,3,5,4,21,19,20,2,8,16,12,45,WLDDWDWWDWLWDLLDLWLLDWLWLD,2,2,9,4,22,LLWWDWDDLDDL,WDWWWWWLDWLWW
+Le Havre,Caen,1-1,/match/havre-ac/caen/2014,2014,27,ligue_2,20,38,1,1,1,18,7,11,8,30,27,WLDDDWDWWDDLDLDWLWDLLWLDDL,4,4,5,17,13,6,12,5,9,44,31,WLWWLWWDWWLLWWWDLDWWLDWWDW,4,2,7,22,21,LDWWDLLWWDLLD,LWWDWLWWLWLWD
+Niort,Chateauroux,4-0,/match/chamois-niortais/berrichonne-chateauroux/2014,2014,27,ligue_2,20,38,0,4,0,5,10,10,6,32,31,DDDDWDWWWDWWDDLLWWLWLWDLDW,6,6,1,19,12,11,9,5,12,36,40,DWLWWWDDWWLWWWWWDWWLWWLWDW,1,3,9,12,26,DDWDWDWDLWWWD,WWWDWWWWDWWLD
+Troyes,Istres,4-1,/match/troyes/istres/2014,2014,27,ligue_2,20,38,0,4,1,10,10,6,10,39,30,DWWWWWWDLWWWDLLLLWDWWDWWWD,8,2,3,25,12,17,8,6,12,35,46,LWDDDDWWLWWWLWWWDLWWDWWWLL,2,3,8,15,30,WWWDWWLLLDWWW,WDDWWWWWLWDWL
+Metz,Lens,0-1,/match/metz/lens/2014,2014,27,ligue_2,20,38,2,0,1,1,15,6,5,38,21,WWWDLDDWWWLWLWLWWWDDWWWDWL,10,3,0,20,5,2,12,9,5,38,31,WDWLWWDWWDWDWDWWLLLDLDWDLD,5,4,4,17,19,WWDDWWWWWWDWW,DLWWDDDWLLLWL
+Tours,Angers SCO,2-0,/match/tours-fc/angers-sco/2014,2014,27,ligue_2,20,38,0,2,0,9,11,6,9,45,41,WDLWLDWWDDLWWWDLWWWWWWLWWD,7,4,1,27,16,4,12,9,5,34,25,LWLDWWWDDDWWWLLDLLDLDWWDLD,6,4,3,20,16,DWDWDWDWWWLW,LLDWDDWLDLLWL
+Stade Brestois,Tours,2-0,/match/stade-brestois-29/tours-fc/2014,2014,28,ligue_2,20,38,0,2,0,15,8,9,10,22,27,DWLDWDWWLDLLDWLWDDLWDWWWLWD,5,4,4,12,11,6,12,6,9,47,41,WDLWLDWWDDLWWWDLWWWWWWLWWDW,4,2,8,18,25,WDWLLDLDLDWWW,WLLWDLWWLWWWWD
+CA Bastia,Troyes,1-0,/match/ca-bastia/troyes/2014,2014,28,ligue_2,20,38,0,1,0,20,2,8,17,12,47,WLDDWDWWDWLWDLLDLWLLDWLWLDW,0,6,7,8,23,9,11,6,10,43,31,DWWWWWWDLWWWDLLLLWDWWDWWWDW,2,4,7,14,18,LDDDLDLLLDLLD,DWWWLWDLWWDWD
+Chateauroux,Metz,0-1,/match/berrichonne-chateauroux/metz/2014,2014,28,ligue_2,20,38,2,0,1,13,9,5,13,36,44,DWLWWWDDWWLWWWWWDWWLWWLWDWW,8,2,3,24,14,1,15,6,6,38,22,WWWDLDDWWWLWLWLWWWDDWWWDWLL,5,3,5,18,16,DLWDWLWWWLWWW,WLDWLLLWDWWDL
+Dijon FCO,Le Havre,1-2,/match/dijon-fco/havre-ac/2014,2014,28,ligue_2,20,38,2,1,2,3,10,12,5,34,25,WDLDWDWLWDWDDWWDWWWDDWDWWDD,9,3,1,24,10,16,7,12,8,31,28,WLDDDWDWWDDLDLDWLWDLLWLDDLD,3,7,3,13,14,DLWWWWDWWWWWD,WDDDWDDDLLWDL
+Istres,Clermont,1-1,/match/istres/clermont-foot/2014,2014,28,ligue_2,20,38,1,1,1,18,8,6,13,36,50,LWDDDDWWLWWWLWWWDLWWDWWWLLW,6,3,4,20,16,11,8,10,9,23,24,WLWWDDDDDWWDWDLWWWDLDDWLWWW,2,4,7,9,16,LDDWLWLWDWWWL,LWDDWWLWDDWWW
+Stade Lavallois,Auxerre,3-0,/match/stade-lavallois/auxerre/2014,2014,28,ligue_2,20,38,0,3,0,19,6,8,13,31,38,WLWLWWWWDWDWWLDLDWLWDDDDLWW,4,5,4,23,19,12,7,10,10,27,32,DDWWDDWWWWDWWDWWWWDDLWWWLDD,0,5,8,5,21,LLWWDWDDLDDLW,DWDWWWDWWDWWD
+Nancy,Niort,1-1,/match/nancy/chamois-niortais/2014,2014,28,ligue_2,20,38,1,1,1,8,11,9,7,32,29,DLLDLDWWDDWLWWWWDWDLDWLDWLL,7,3,4,18,14,4,11,10,6,36,31,DDDDWDWWWDWWDDLLWWLWLWDLDWW,4,4,5,13,19,DLLWDWWWWWLWDL,DDWWWDLWLLDLW
+Angers SCO,Creteil,2-2,/match/angers-sco/creteil-lusitanos/2014,2014,28,ligue_2,20,38,1,2,2,5,12,9,6,34,27,LWLDWWWDDDWWWLLDLLDLDWWDLDW,6,5,2,14,9,14,7,11,9,38,46,LWWDDDDLLDDWWWLWDWWDLWWDLDD,2,6,5,17,26,WWWDWWLLDDWDD,LWDDLDWWWDWDD
+Lens,Arles,3-0,/match/lens/arles/2014,2014,28,ligue_2,20,38,0,3,0,2,13,9,5,39,31,WDWLWWDWWDWDWDWWLLLDLDWDLDL,7,5,1,21,12,10,8,11,8,22,20,WWWWWWLDDDWDWWDDDWDWWDDWDWL,1,5,7,6,13,WWWDWWWWLDDDD,WWWLDWWDDDDWW
+Caen,Nîmes,1-1,/match/caen/nimes-olympique/2014,2014,28,ligue_2,20,38,1,1,1,7,12,6,9,45,32,WLWWLWWDWWLLWWWDLDWWLDWWDWD,8,3,2,22,10,17,7,9,11,36,37,LDWWDDLWDWWWWLWDDLLDWWLDDWW,2,4,7,14,20,WWLWWLWDDWDWW,DWDWWWWDLWLDW
+Arles,Istres,2-2,/match/arles/istres/2014,2014,29,ligue_2,20,38,1,2,2,10,8,11,9,22,23,WWWWWWLDDDWDWWDDDWDWWDDWDWLW,7,6,1,16,7,18,8,7,13,37,51,LWDDDDWWLWWWLWWWDLWWDWWWLLWD,2,3,9,16,34,WWWDDDWDWWWDDL,WDDWWWWWLWDWLW
+Caen,Chateauroux,1-1,/match/caen/berrichonne-chateauroux/2014,2014,29,ligue_2,20,38,1,1,1,6,12,7,9,46,33,WLWWLWWDWWLLWWWDLDWWLDWWDWDD,8,4,2,23,11,14,9,5,14,36,45,DWLWWWDDWWLWWWWWDWWLWWLWDWWL,1,3,10,12,30,WWLWWLWDDWDWWD,WWWDWWWWDWWLDW
+Clermont,Nancy,1-0,/match/clermont-foot/nancy/2014,2014,29,ligue_2,20,38,0,1,0,11,8,11,9,24,25,WLWWDDDDDWWDWDLWWWDLDDWLWWWD,6,6,2,14,8,8,11,10,7,33,30,DLLDLDWWDDWLWWWWDWDLDWLDWLLD,4,6,3,14,15,WWDDDWDDWWLDLW,LDDWDLWDDDLWL
+Creteil,Auxerre,0-2,/match/creteil-lusitanos/auxerre/2014,2014,29,ligue_2,20,38,2,0,2,15,7,12,9,40,48,LWWDDDDLLDDWWWLWDWWDLWWDLDDD,5,5,4,21,20,12,7,10,11,27,35,DDWWDDWWWWDWWDWWWWDDLWWWLDDW,0,5,9,5,24,WDDLDWWLDWLWLD,DWDWWWDWWDWWDW
+Le Havre,Stade Lavallois,1-1,/match/havre-ac/stade-lavallois/2014,2014,29,ligue_2,20,38,1,1,1,16,8,12,8,33,29,WLDDDWDWWDDLDLDWLWDLLWLDDLDL,4,5,5,18,14,19,7,8,13,34,38,WLWLWWWWDWDWWLDLDWLWDDDDLWWW,2,3,9,8,19,LDWWDLLWWDLLDD,WWWWDWWLLWWDDW
+Niort,Angers SCO,2-1,/match/chamois-niortais/angers-sco/2014,2014,29,ligue_2,20,38,0,2,1,4,11,11,6,37,32,DDDDWDWWWDWWDDLLWWLWLWDLDWWD,7,6,1,23,12,5,12,10,6,36,29,LWLDWWWDDDWWWLLDLLDLDWWDLDWD,6,4,4,20,18,DDWDWDWDLWWWDW,LLDWDDWLDLLWLW
+Tours,CA Bastia,1-0,/match/tours-fc/ca-bastia/2014,2014,29,ligue_2,20,38,0,1,0,7,12,6,10,47,43,WDLWLDWWDDLWWWDLWWWWWWLWWDWW,8,4,1,29,16,20,3,8,17,13,47,WLDDWDWWDWLWDLLDLWLLDWLWLDWW,2,2,10,4,24,DWDWDWDWWWLWW,WDWWWWWLDWLWWW
+Troyes,Dijon FCO,2-0,/match/troyes/dijon-fco/2014,2014,29,ligue_2,20,38,0,2,0,9,11,6,11,43,32,DWWWWWWDLWWWDLLLLWDWWDWWWDWW,9,2,3,29,13,3,10,12,6,35,27,WDLDWDWLWDWDDWWDWWWDDWDWWDDL,1,9,4,10,15,WWWDWWLLLDWWWW,WDDLDDWDWDDDWD
+Nîmes,Lens,3-3,/match/nimes-olympique/lens/2014,2014,29,ligue_2,20,38,1,3,3,17,7,10,11,37,38,LDWWDDLWDWWWWLWDDLLDWWLDDWWD,5,5,4,22,17,2,14,9,5,42,31,WDWLWWDWWDWDWDWWLLLDLDWDLDLW,6,4,4,18,19,LWDLDWWLDLDWDW,DLWWDDDWLLLWLL
+Metz,Stade Brestois,1-0,/match/metz/stade-brestois-29/2014,2014,29,ligue_2,20,38,0,1,0,1,16,6,6,39,22,WWWDLDDWWWLWLWLWWWDDWWWDWLLL,10,3,1,20,6,13,9,9,10,24,27,DWLDWDWWLDLLDWLWDDLWDWWWLWDW,3,5,6,10,16,WWDDWWWWWWDWWL,DLWDWDLWWDWWLD
+Auxerre,Troyes,0-0,/match/auxerre/troyes/2014,2014,30,ligue_2,20,38,1,0,0,12,8,10,11,29,35,DDWWDDWWWWDWWDWWWWDDLWWWLDDWL,7,5,2,22,11,8,12,6,11,45,32,DWWWWWWDLWWWDLLLLWDWWDWWWDWWW,2,4,8,14,19,DWDWWDWWWDLWLD,DWWWLWDLWWDWDW
+Stade Brestois,Le Havre,1-1,/match/stade-brestois-29/havre-ac/2014,2014,30,ligue_2,20,38,1,1,1,13,9,9,11,24,28,DWLDWDWWLDLLDWLWDDLWDWWWLWDWW,6,4,4,14,11,14,8,13,8,34,30,WLDDDWDWWDDLDLDWLWDLLWLDDLDLD,4,7,3,15,15,WDWLLDLDLDWWWW,WDDDWDDDLLWDLL
+CA Bastia,Creteil,3-1,/match/ca-bastia/creteil-lusitanos/2014,2014,30,ligue_2,20,38,0,3,1,20,3,8,18,13,48,WLDDWDWWDWLWDLLDLWLLDWLWLDWWW,1,6,7,9,23,16,7,12,10,40,50,LWWDDDDLLDDWWWLWDWWDLWWDLDDDL,2,7,5,19,28,LDDDLDLLLDLLDW,LWDDLDWWWDWDDD
+Chateauroux,Nîmes,2-0,/match/berrichonne-chateauroux/nimes-olympique/2014,2014,30,ligue_2,20,38,0,2,0,15,9,6,14,37,46,DWLWWWDDWWLWWWWWDWWLWWLWDWWLD,8,2,4,24,15,17,7,11,11,40,41,LDWWDDLWDWWWWLWDDLLDWWLDDWWDD,2,5,7,15,21,DLWDWLWWWLWWWL,DWDWWWWDLWLDWD
+Dijon FCO,Arles,1-1,/match/dijon-fco/arles/2014,2014,30,ligue_2,20,38,1,1,1,5,10,12,7,35,29,WDLDWDWLWDWDDWWDWWWDDWDWWDDLW,9,3,2,25,12,11,8,12,9,24,25,WWWWWWLDDDWDWWDDDWDWWDDWDWLWD,1,5,8,6,16,DLWWWWDWWWWWDL,WWWLDWWDDDDWWW
+Istres,Niort,2-1,/match/istres/chamois-niortais/2014,2014,30,ligue_2,20,38,0,2,1,18,8,8,13,39,53,LWDDDDWWLWWWLWWWDLWWDWWWLLWDD,6,4,4,21,17,3,12,11,6,39,33,DDDDWDWWWDWWDDLLWWLWLWDLDWWDW,4,5,5,14,20,LDDWLWLWDWWWLD,DDWWWDLWLLDLWD
+Stade Lavallois,Tours,1-0,/match/stade-lavallois/tours-fc/2014,2014,30,ligue_2,20,38,0,1,0,19,7,9,13,35,39,WLWLWWWWDWDWWLDLDWLWDDDDLWWWD,5,5,4,26,19,4,13,6,10,48,43,WDLWLDWWDDLWWWDLWWWWWWLWWDWWW,4,2,9,18,27,LLWWDWDDLDDLWW,WLLWDLWWLWWWWDW
+Nancy,Caen,1-1,/match/nancy/caen/2014,2014,30,ligue_2,20,38,1,1,1,9,11,10,8,33,31,DLLDLDWWDDWLWWWWDWDLDWLDWLLDW,7,4,4,19,15,6,12,8,9,47,34,WLWWLWWDWWLLWWWDLDWWLDWWDWDDD,4,3,7,23,22,DLLWDWWWWWLWDLD,LWWDWLWWLWLWDD
+Angers SCO,Metz,2-2,/match/angers-sco/metz/2014,2014,30,ligue_2,20,38,1,2,2,7,12,10,7,37,31,LWLDWWWDDDWWWLLDLLDLDWWDLDWDW,6,6,2,16,11,1,17,6,6,40,22,WWWDLDDWWWLWLWLWWWDDWWWDWLLLW,6,3,5,19,16,WWWDWWLLDDWDDD,WLDWLLLWDWWDLL
+Lens,Clermont,1-1,/match/lens/clermont-foot/2014,2014,30,ligue_2,20,38,1,1,1,2,14,10,5,45,34,WDWLWWDWWDWDWDWWLLLDLDWDLDLWD,8,5,1,24,12,10,9,11,9,25,25,WLWWDDDDDWWDWDLWWWDLDDWLWWWDW,2,5,7,10,17,WWWDWWWWLDDDDW,LWDDWWLWDDWWWD
+Arles,Angers SCO,3-0,/match/arles/angers-sco/2014,2014,31,ligue_2,20,38,0,3,0,10,8,13,9,25,26,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDD,7,7,1,18,9,7,12,11,7,39,33,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWD,6,4,5,21,20,WWWDDDWDWWWDDLD,LLDWDDWLDLLWLWW
+Clermont,Chateauroux,1-1,/match/clermont-foot/berrichonne-chateauroux/2014,2014,31,ligue_2,20,38,1,1,1,11,9,12,9,26,26,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWD,7,6,2,15,8,13,10,6,14,39,46,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDW,1,4,10,13,31,WWDDDWDDWWLDLWW,WWWDWWWWDWWLDWD
+Creteil,Stade Lavallois,4-0,/match/creteil-lusitanos/stade-lavallois/2014,2014,31,ligue_2,20,38,0,4,0,18,7,12,11,41,53,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLW,5,5,5,21,22,17,8,9,13,36,39,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDW,2,4,9,9,20,WDDLDWWLDWLWLDL,WWWWDWWLLWWDDWD
+Le Havre,CA Bastia,1-0,/match/havre-ac/ca-bastia/2014,2014,31,ligue_2,20,38,0,1,0,15,8,14,8,35,31,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDD,4,6,5,19,15,20,4,8,18,16,49,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWW,2,2,11,4,25,LDWWDLLWWDLLDDD,WDWWWWWLDWLWWWW
+Nîmes,Nancy,0-1,/match/nimes-olympique/nancy/2014,2014,31,ligue_2,20,38,2,0,1,19,7,11,12,40,43,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDW,5,6,4,25,20,9,11,11,8,34,32,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWD,4,6,4,14,16,LWDLDWWLDLDWDWD,LDDWDLWDDDLWLW
+Niort,Dijon FCO,2-0,/match/chamois-niortais/dijon-fco/2014,2014,31,ligue_2,20,38,0,2,0,3,12,11,7,40,35,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWW,8,6,1,25,13,4,10,13,7,36,30,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWD,1,9,5,10,17,DDWDWDWDLWWWDWW,WDDLDDWDWDDDWDW
+Tours,Auxerre,2-2,/match/tours-fc/auxerre/2014,2014,31,ligue_2,20,38,1,2,2,5,13,6,11,48,44,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWW,9,4,1,30,16,12,8,11,11,29,35,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLD,1,5,9,7,24,DWDWDWDWWWLWWW,DWDWWWDWWDWWDWL
+Troyes,Stade Brestois,0-2,/match/troyes/stade-brestois-29/2014,2014,31,ligue_2,20,38,2,0,2,8,12,7,11,45,32,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWD,10,2,3,31,13,14,9,10,11,25,29,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWD,3,5,7,10,17,WWWDWWLLLDWWWWW,DLWDWDLWWDWWLDW
+Caen,Lens,1-0,/match/caen/lens/2014,2014,31,ligue_2,20,38,0,1,0,6,12,9,9,48,35,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDD,8,5,2,24,12,2,14,11,5,46,35,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDD,6,5,4,21,22,WWLWWLWDDWDWWDD,DLWWDDDWLLLWLLD
+Metz,Istres,2-1,/match/metz/istres/2014,2014,31,ligue_2,20,38,0,2,1,1,17,7,6,42,24,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWD,11,3,1,21,6,16,9,8,13,41,54,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDW,2,4,9,18,36,WWDDWWWWWWDWWLW,WDDWWWWWLWDWLWD
+Angers SCO,Le Havre,1-0,/match/angers-sco/havre-ac/2014,2014,32,ligue_2,20,38,0,1,0,7,12,11,8,39,36,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWDW,6,7,2,18,13,13,9,14,8,36,31,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDDW,4,8,3,16,16,WWWDWWLLDDWDDDD,WDDDWDDDLLWDLLD
+Auxerre,Clermont,0-2,/match/auxerre/clermont-foot/2014,2014,32,ligue_2,20,38,2,0,2,12,8,12,11,31,37,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLDD,7,6,2,22,11,11,9,13,9,27,27,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWDD,2,6,7,11,18,DWDWWDWWWDLWLDD,LWDDWWLWDDWWWDD
+Stade Brestois,Arles,2-0,/match/stade-brestois-29/arles/2014,2014,32,ligue_2,20,38,0,2,0,15,10,10,11,27,29,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWDL,6,5,4,15,12,9,9,13,9,28,26,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDDW,1,6,8,7,17,WDWLLDLDLDWWWWD,WWWLDWWDDDDWWWD
+CA Bastia,Nîmes,0-0,/match/ca-bastia/nimes-olympique/2014,2014,32,ligue_2,20,38,1,0,0,20,4,8,19,16,50,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWWW,2,6,7,12,24,19,7,11,13,40,44,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDWL,2,5,8,15,23,LDDDLDLLLDLLDWW,DWDWWWWDLWLDWDW
+Chateauroux,Nancy,0-3,/match/berrichonne-chateauroux/nancy/2014,2014,32,ligue_2,20,38,2,0,3,14,10,7,14,40,47,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDWD,9,2,4,26,15,8,12,11,8,35,32,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWDL,5,6,4,15,16,DLWDWLWWWLWWWLW,LDDWDLWDDDLWLWL
+Istres,Caen,2-3,/match/istres/caen/2014,2014,32,ligue_2,20,38,2,2,3,17,9,8,14,42,56,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDWW,7,4,4,23,18,4,13,9,9,49,35,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDDW,4,4,7,24,23,LDDWLWLWDWWWLDW,LWWDWLWWLWLWDDD
+Stade Lavallois,Troyes,2-1,/match/stade-lavallois/troyes/2014,2014,32,ligue_2,20,38,0,2,1,18,8,9,14,36,43,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDWW,6,5,4,27,19,10,12,7,12,45,34,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWDL,2,5,8,14,19,LLWWDWDDLDDLWWW,DWWWLWDLWWDWDWD
+Tours,Creteil,1-2,/match/tours-fc/creteil-lusitanos/2014,2014,32,ligue_2,20,38,2,1,2,5,13,7,11,50,46,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWWD,9,5,1,32,18,16,8,12,11,45,53,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLWW,2,7,6,20,31,DWDWDWDWWWLWWWD,LWDDLDWWWDWDDDW
+Lens,Niort,2-0,/match/lens/chamois-niortais/2014,2014,32,ligue_2,20,38,0,2,0,2,14,11,6,46,36,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDDW,8,6,1,25,13,3,13,11,7,42,35,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWWW,4,5,6,15,22,WWWDWWWWLDDDDWD,DDWWWDLWLLDLWDW
+Dijon FCO,Metz,2-2,/match/dijon-fco/metz/2014,2014,32,ligue_2,20,38,1,2,2,6,10,13,8,36,32,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWDW,9,4,2,26,13,1,18,7,6,44,25,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWDW,6,4,5,21,18,DLWWWWDWWWWWDLD,WLDWLLLWDWWDLLD
+Arles,Stade Lavallois,1-1,/match/arles/stade-lavallois/2014,2014,33,ligue_2,20,38,1,1,1,10,9,13,10,28,28,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDDWW,8,7,1,21,9,17,9,9,14,38,44,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDWWW,2,4,10,9,24,WWWDDDWDWWWDDLDW,WWWWDWWLLWWDDWDW
+Clermont,Angers SCO,1-1,/match/clermont-foot/angers-sco/2014,2014,33,ligue_2,20,38,1,1,1,9,10,13,9,29,27,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWDDL,7,7,2,16,9,5,13,11,8,40,36,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWDWW,6,4,6,21,23,WWDDDWDDWWLDLWWD,LLDWDDWLDLLWLWWW
+Le Havre,Tours,2-2,/match/havre-ac/tours-fc/2014,2014,33,ligue_2,20,38,1,2,2,14,9,14,9,36,32,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDDWW,5,6,5,20,15,7,13,7,12,51,48,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWWDL,4,2,10,18,28,LDWWDLLWWDLLDDDW,WLLWDLWWLWWWWDWW
+Metz,CA Bastia,1-0,/match/metz/ca-bastia/2014,2014,33,ligue_2,20,38,0,1,0,1,18,8,6,46,27,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWDWD,12,3,1,23,7,20,4,9,19,16,50,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWWWD,2,2,12,4,26,WWDDWWWWWWDWWLWW,WDWWWWWLDWLWWWWW
+Nancy,Dijon FCO,2-1,/match/nancy/dijon-fco/2014,2014,33,ligue_2,20,38,0,2,1,8,13,11,8,38,32,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWDLL,7,5,4,20,16,6,10,14,8,38,34,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWDWD,1,9,6,10,19,DLLWDWWWWWLWDLDD,WDDLDDWDWDDDWDWW
+Nîmes,Istres,1-0,/match/nimes-olympique/istres/2014,2014,33,ligue_2,20,38,0,1,0,19,7,12,13,40,44,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDWLD,5,6,5,25,21,18,9,8,15,44,59,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDWWL,2,4,10,19,38,LWDLDWWLDLDWDWDL,WDDWWWWWLWDWLWDW
+Niort,Stade Brestois,1-2,/match/chamois-niortais/stade-brestois-29/2014,2014,33,ligue_2,20,38,2,1,2,3,13,11,8,42,37,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWWWW,9,6,1,27,13,12,11,10,11,29,29,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWDLW,4,5,7,12,17,DDWDWDWDLWWWDWWW,DLWDWDLWWDWWLDWL
+Troyes,Creteil,0-3,/match/troyes/creteil-lusitanos/2014,2014,33,ligue_2,20,38,2,0,3,11,12,7,13,46,36,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWDLW,10,2,4,31,15,16,9,12,11,47,54,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLWWL,3,7,6,22,32,WWWDWWLLLDWWWWWL,LWDDLDWWWDWDDDWL
+Caen,Auxerre,1-0,/match/caen/auxerre/2014,2014,33,ligue_2,20,38,0,1,0,4,14,9,9,52,37,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDDWL,9,5,2,25,12,13,8,12,12,31,39,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLDDL,1,6,9,9,26,WWLWWLWDDWDWWDDW,DWDWWWDWWDWWDWLD
+Chateauroux,Lens,1-1,/match/berrichonne-chateauroux/lens/2014,2014,33,ligue_2,20,38,1,1,1,15,10,7,15,40,50,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDWDL,9,2,5,26,18,2,15,11,6,48,36,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDDWW,6,5,5,21,23,DLWDWLWWWLWWWLWL,DLWWDDDWLLLWLLDW
+Stade Brestois,Clermont,2-0,/match/stade-brestois-29/clermont-foot/2014,2014,34,ligue_2,20,38,0,2,0,11,12,10,11,31,30,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWDLWL,7,5,4,17,12,9,10,14,9,30,28,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWDDLD,3,6,7,13,18,WDWLLDLDLDWWWWDW,LWDDWWLWDDWWWDDL
+CA Bastia,Arles,2-2,/match/ca-bastia/arles/2014,2014,34,ligue_2,20,38,1,2,2,20,4,9,20,16,51,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWWWDW,2,7,7,12,24,10,9,14,10,29,29,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDDWWD,1,6,9,7,19,LDDDLDLLLDLLDWWD,WWWLDWWDDDDWWWDW
+Creteil,Le Havre,2-0,/match/creteil-lusitanos/havre-ac/2014,2014,34,ligue_2,20,38,0,2,0,15,10,12,11,50,54,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLWWLL,6,5,5,25,22,13,9,15,9,38,34,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDDWWD,4,8,4,16,17,WDDLDWWLDWLWLDLW,WDDDWDDDLLWDLLDW
+Dijon FCO,Nîmes,5-1,/match/dijon-fco/nimes-olympique/2014,2014,34,ligue_2,20,38,0,5,1,7,10,14,9,39,36,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWDWDW,9,5,2,28,15,18,8,12,13,41,44,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDWLDW,2,6,8,15,23,DLWWWWDWWWWWDLDD,DWDWWWWDLWLDWDWD
+Istres,Chateauroux,0-0,/match/istres/berrichonne-chateauroux/2014,2014,34,ligue_2,20,38,1,0,0,19,9,8,16,44,60,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDWWLW,7,4,5,25,21,14,10,8,15,41,51,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDWDLD,1,5,10,14,32,LDDWLWLWDWWWLDWL,WWWDWWWWDWWLDWDD
+Stade Lavallois,Niort,2-4,/match/stade-lavallois/chamois-niortais/2014,2014,34,ligue_2,20,38,2,2,4,17,9,10,14,39,45,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDWWWD,7,5,4,29,20,4,13,11,9,43,39,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWWWWL,4,5,7,15,24,LLWWDWDDLDDLWWWW,DDWWWDLWLLDLWDWW
+Lens,Nancy,1-1,/match/lens/nancy/2014,2014,34,ligue_2,20,38,1,1,1,2,15,12,6,49,37,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDDWWD,9,6,1,27,13,5,14,11,8,40,33,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWDLLW,6,6,4,18,16,WWWDWWWWLDDDDWDW,LDDWDLWDDDLWLWLL
+Tours,Troyes,1-2,/match/tours-fc/troyes/2014,2014,34,ligue_2,20,38,2,1,2,8,13,8,12,53,50,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWWDLD,9,5,2,33,20,12,12,7,14,46,39,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWDLWL,2,5,9,15,21,DWDWDWDWWWLWWWDL,DWWWLWDLWWDWDWDW
+Auxerre,Metz,0-3,/match/auxerre/metz/2014,2014,34,ligue_2,20,38,2,0,3,16,8,12,13,31,40,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLDDLW,7,6,3,22,13,1,19,8,6,47,27,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWDWDW,6,5,5,23,20,DWDWWDWWWDLWLDDL,WLDWLLLWDWWDLLDD
+Angers SCO,Caen,1-2,/match/angers-sco/caen/2014,2014,34,ligue_2,20,38,2,1,2,6,13,12,8,41,37,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWDWWD,7,7,2,19,13,3,15,9,9,53,37,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDDWLW,5,4,7,27,25,WWWDWWLLDDWDDDDW,LWWDWLWWLWLWDDDL
+Arles,Creteil,2-1,/match/arles/creteil-lusitanos/2014,2014,35,ligue_2,20,38,0,2,1,8,9,15,10,31,31,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDDWWDD,8,8,1,22,10,13,11,12,11,52,54,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLWWLLW,4,7,6,25,32,WWWDDDWDWWWDDLDWD,LWDDLDWWWDWDDDWLL
+Caen,CA Bastia,6-1,/match/caen/ca-bastia/2014,2014,35,ligue_2,20,38,0,6,1,3,16,9,9,55,38,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDDWLWL,10,5,2,26,12,20,4,10,20,18,53,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWWWDWD,2,2,13,4,27,WWLWWLWDDWDWWDDWW,WDWWWWWLDWLWWWWWW
+Chateauroux,Stade Lavallois,1-1,/match/berrichonne-chateauroux/stade-lavallois/2014,2014,35,ligue_2,20,38,1,1,1,15,10,9,15,41,51,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDWDLDD,9,3,5,27,19,17,9,10,15,41,49,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDWWWDL,2,5,10,10,25,DLWDWLWWWLWWWLWLD,WWWWDWWLLWWDDWDWD
+Clermont,Dijon FCO,0-1,/match/clermont-foot/dijon-fco/2014,2014,35,ligue_2,20,38,2,0,1,11,10,14,10,30,30,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWDDLDW,7,8,2,17,10,6,11,14,9,44,37,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWDWDWW,1,9,7,11,21,WWDDDWDDWWLDLWWDD,WDDLDDWDWDDDWDWWW
+Le Havre,Troyes,2-1,/match/havre-ac/troyes/2014,2014,35,ligue_2,20,38,0,2,1,14,9,15,10,38,36,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDDWWDW,5,7,5,22,17,12,13,7,14,48,40,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWDLWLL,3,5,9,17,22,LDWWDLLWWDLLDDDWD,DWWWLWDLWWDWDWDWL
+Metz,Tours,1-1,/match/metz/tours-fc/2014,2014,35,ligue_2,20,38,1,1,1,1,20,8,6,50,27,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWDWDWL,13,3,1,24,7,10,13,8,13,54,52,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWWDLDL,4,3,10,20,30,WWDDWWWWWWDWWLWWW,WLLWDLWWLWWWWDWWD
+Nancy,Istres,3-1,/match/nancy/istres/2014,2014,35,ligue_2,20,38,0,3,1,5,14,12,8,41,34,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWDLLWD,8,5,4,22,17,19,9,9,16,44,60,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDWWLWD,2,4,11,19,39,DLLWDWWWWWLWDLDDW,WDDWWWWWLWDWLWDWW
+Nîmes,Stade Brestois,1-1,/match/nimes-olympique/stade-brestois-29/2014,2014,35,ligue_2,20,38,1,1,1,18,8,12,14,42,49,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDWLDWW,6,6,5,26,21,9,13,10,11,33,30,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWDLWLW,5,5,7,14,18,LWDLDWWLDLDWDWDLW,DLWDWDLWWDWWLDWLL
+Niort,Auxerre,1-0,/match/chamois-niortais/auxerre/2014,2014,35,ligue_2,20,38,0,1,0,4,14,11,9,47,41,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWWWWLL,9,6,2,28,15,16,8,12,14,31,43,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLDDLWL,1,6,10,9,27,DDWDWDWDLWWWDWWWL,DWDWWWDWWDWWDWLDW
+Lens,Angers SCO,0-0,/match/lens/angers-sco/2014,2014,35,ligue_2,20,38,1,0,0,2,15,13,6,50,38,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDDWWDD,9,7,1,28,14,7,13,12,9,42,39,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWDWWDL,6,5,6,22,24,WWWDWWWWLDDDDWDWD,LLDWDDWLDLLWLWWWD
+Stade Brestois,Caen,0-1,/match/stade-brestois-29/caen/2014,2014,36,ligue_2,20,38,2,0,1,9,13,11,11,34,31,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWDLWLWD,8,5,4,19,12,3,17,9,9,61,39,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDDWLWLW,6,4,7,29,26,WDWLLDLDLDWWWWDWW,LWWDWLWWLWLWDDDLL
+Angers SCO,Nîmes,2-3,/match/angers-sco/nimes-olympique/2014,2014,36,ligue_2,20,38,2,2,3,8,13,13,9,42,39,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWDWWDLD,7,7,3,20,15,18,8,13,14,43,50,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDWLDWWD,2,6,9,16,28,WWWDWWLLDDWDDDDWL,DWDWWWWDLWLDWDWDW
+Auxerre,Le Havre,2-1,/match/auxerre/havre-ac/2014,2014,36,ligue_2,20,38,0,2,1,16,8,12,15,31,44,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLDDLWLW,7,6,4,22,16,13,10,15,10,40,37,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDDWWDWW,4,8,5,16,19,DWDWWDWWWDLWLDDLL,WDDDWDDDLLWDLLDWW
+CA Bastia,Clermont,1-1,/match/ca-bastia/clermont-foot/2014,2014,36,ligue_2,20,38,1,1,1,20,4,10,21,19,59,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWWWDWDW,2,8,7,14,26,11,10,14,11,30,31,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWDDLDWL,3,6,8,13,20,LDDDLDLLLDLLDWWDD,LWDDWWLWDDWWWDDLW
+Creteil,Niort,1-1,/match/creteil-lusitanos/chamois-niortais/2014,2014,36,ligue_2,20,38,1,1,1,14,11,12,12,53,56,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLWWLLWW,7,5,5,27,22,4,15,11,9,48,41,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWWWWLLW,5,5,7,19,26,WDDLDWWLDWLWLDLWW,DDWWWDLWLLDLWDWWL
+Dijon FCO,Chateauroux,2-1,/match/dijon-fco/berrichonne-chateauroux/2014,2014,36,ligue_2,20,38,0,2,1,6,12,14,9,45,37,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWDWDWWL,10,5,2,33,16,15,10,10,15,42,52,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDWDLDDD,1,6,10,14,32,DLWWWWDWWWWWDLDDW,WWWDWWWWDWWLDWDDD
+Istres,Lens,1-6,/match/istres/lens/2014,2014,36,ligue_2,20,38,2,1,6,19,9,9,17,45,63,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDWWLWDW,7,5,5,25,21,2,15,14,6,50,38,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDDWWDDD,6,6,5,22,24,LDDWLWLWDWWWLDWLD,DLWWDDDWLLLWLLDWD
+Stade Lavallois,Nancy,1-0,/match/stade-lavallois/nancy/2014,2014,36,ligue_2,20,38,0,1,0,17,9,11,15,42,50,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDWWWDLD,7,5,5,31,24,5,15,12,8,44,35,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWDLLWDW,6,7,4,19,17,LLWWDWDDLDDLWWWWL,LDDWDLWDDDLWLWLLD
+Tours,Arles,2-2,/match/tours-fc/arles/2014,2014,36,ligue_2,20,38,1,2,2,10,13,9,13,55,53,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWWDLDLD,9,5,3,34,22,7,10,15,10,33,32,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDDWWDDW,1,7,9,9,21,DWDWDWDWWWLWWWDLL,WWWLDWWDDDDWWWDWD
+Troyes,Metz,0-1,/match/troyes/metz/2014,2014,36,ligue_2,20,38,2,0,1,12,13,7,15,49,42,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWDLWLLW,10,2,5,31,18,1,20,9,6,51,28,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWDWDWLD,7,5,5,26,20,WWWDWWLLLDWWWWWLL,WLDWLLLWDWWDLLDDL
+Arles,Auxerre,0-2,/match/arles/auxerre/2014,2014,37,ligue_2,20,38,2,0,2,7,10,16,10,35,34,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDDWWDDWD,9,8,1,24,11,16,9,12,15,33,45,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLDDLWLWW,1,6,11,9,28,WWWDDDWDWWWDDLDWDW,DWDWWWDWWDWWDWLDWW
+Caen,Tours,1-3,/match/caen/tours-fc/2014,2014,37,ligue_2,20,38,2,1,3,3,18,9,9,62,39,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDDWLWLWL,11,5,2,32,13,9,13,10,13,57,55,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWWDLDLDD,4,4,10,21,31,WWLWWLWDDWDWWDDWWW,WLLWDLWWLWWWWDWWDD
+Chateauroux,Creteil,0-2,/match/berrichonne-chateauroux/creteil-lusitanos/2014,2014,37,ligue_2,20,38,2,0,2,15,10,10,16,43,54,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDWDLDDDW,9,4,5,28,20,13,11,13,12,54,57,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLWWLLWWD,4,7,7,26,34,DLWDWLWWWLWWWLWLDD,LWDDLDWWWDWDDDWLLW
+Clermont,Troyes,0-3,/match/clermont-foot/troyes/2014,2014,37,ligue_2,20,38,2,0,3,11,10,15,11,31,32,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWDDLDWLD,7,8,3,17,11,12,13,7,16,49,43,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWDLWLLWL,3,5,10,18,24,WWDDDWDDWWLDLWWDDL,DWWWLWDLWWDWDWDWLW
+Istres,Dijon FCO,2-4,/match/istres/dijon-fco/2014,2014,37,ligue_2,20,38,2,2,4,19,9,9,18,46,69,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDWWLWDWL,7,5,6,26,27,5,13,14,9,47,38,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWDWDWWLW,2,9,7,12,21,LDDWLWLWDWWWLDWLDL,WDDLDDWDWDDDWDWWWL
+Lens,Stade Brestois,0-1,/match/lens/stade-brestois-29/2014,2014,37,ligue_2,20,38,2,0,1,2,16,14,6,56,39,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDDWWDDDL,9,8,1,28,14,10,13,11,12,34,32,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWDLWLWDL,5,6,7,15,19,WWWDWWWWLDDDDWDWDD,DLWDWDLWWDWWLDWLLD
+Metz,Le Havre,3-0,/match/metz/havre-ac/2014,2014,37,ligue_2,20,38,0,3,0,1,21,9,6,52,28,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWDWDWLDL,13,4,1,25,8,14,10,15,11,41,39,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDDWWDWWW,4,8,6,17,21,WWDDWWWWWWDWWLWWWD,WDDDWDDDLLWDLLDWWW
+Nancy,Angers SCO,3-1,/match/nancy/angers-sco/2014,2014,37,ligue_2,20,38,0,3,1,6,15,12,9,44,36,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWDLLWDWW,9,5,4,25,18,8,13,13,10,44,42,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWDWWDLDL,6,6,6,22,24,DLLWDWWWWWLWDLDDWW,LLDWDDWLDLLWLWWWDD
+Nîmes,Stade Lavallois,2-1,/match/nimes-olympique/stade-lavallois/2014,2014,37,ligue_2,20,38,0,2,1,18,9,13,14,46,52,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDWLDWWDL,6,7,5,27,22,17,10,11,15,43,50,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDWWWDLDW,2,6,10,11,26,LWDLDWWLDLDWDWDLWD,WWWWDWWLLWWDDWDWDD
+Niort,CA Bastia,1-1,/match/chamois-niortais/ca-bastia/2014,2014,37,ligue_2,20,38,1,1,1,4,15,12,9,49,42,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWWWWLLWD,10,6,2,29,15,20,4,11,21,20,60,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWWWDWDWD,2,2,14,5,33,DDWDWDWDLWWWDWWWLW,WDWWWWWLDWLWWWWWWW
+Angers SCO,Istres,1-0,/match/angers-sco/istres/2014,2014,38,ligue_2,20,38,0,1,0,9,13,13,11,45,45,LWLDWWWDDDWWWLLDLLDLDWWDLDWDWDWWDLDLW,7,7,4,22,18,19,9,9,19,48,73,LWDDDDWWLWWWLWWWDLWWDWWWLLWDDWWLWDWLL,2,4,12,20,42,WWWDWWLLDDWDDDDWLL,WDDWWWWWLWDWLWDWWW
+Auxerre,Nancy,0-0,/match/auxerre/nancy/2014,2014,38,ligue_2,20,38,1,0,0,15,10,12,15,35,45,DDWWDDWWWWDWWDWWWWDDLWWWLDDWLDDLWLWWL,8,6,4,24,17,6,16,12,9,47,37,DLLDLDWWDDWLWWWWDWDLDWLDWLLDWDLLWDWWW,6,7,5,19,18,DWDWWDWWWDLWLDDLLW,LDDWDLWDDDLWLWLLDW
+Stade Brestois,Chateauroux,3-0,/match/stade-brestois-29/berrichonne-chateauroux/2014,2014,38,ligue_2,20,38,0,3,0,10,14,11,12,35,32,DWLDWDWWLDLLDWLWDDLWDWWWLWDWWDLWLWDLL,8,5,5,19,13,17,10,10,17,43,56,DWLWWWDDWWLWWWWWDWWLWWLWDWWLDWDLDDDWL,1,6,11,15,34,WDWLLDLDLDWWWWDWWL,WWWDWWWWDWWLDWDDDW
+CA Bastia,Lens,0-2,/match/ca-bastia/lens/2014,2014,38,ligue_2,20,38,2,0,2,20,4,12,21,21,61,WLDDWDWWDWLWDLLDLWLLDWLWLDWWWWWDWDWDD,2,9,7,15,27,3,16,14,7,56,40,WDWLWWDWWDWDWDWWLLLDLDWDLDLWDDWWDDDLL,7,6,5,28,25,LDDDLDLLLDLLDWWDDD,DLWWDDDWLLLWLLDWDL
+Creteil,Nîmes,1-1,/match/creteil-lusitanos/nimes-olympique/2014,2014,38,ligue_2,20,38,1,1,1,11,12,13,12,56,57,LWWDDDDLLDDWWWLWDWWDLWWDLDDDLWWLLWWDL,7,6,5,28,23,16,10,13,14,48,53,LDWWDDLWDWWWWLWDDLLDWWLDDWWDDWLDWWDLW,3,6,9,19,30,WDDLDWWLDWLWLDLWWD,DWDWWWWDLWLDWDWDWL
+Dijon FCO,Caen,2-2,/match/dijon-fco/caen/2014,2014,38,ligue_2,20,38,1,2,2,5,14,14,9,51,40,WDLDWDWLWDWDDWWDWWWDDWDWWDDLWDWDWWLWL,11,5,2,35,17,2,18,9,10,63,42,WLWWLWWDWWLLWWWDLDWWLDWWDWDDDDWLWLWLL,7,4,7,30,26,DLWWWWDWWWWWDLDDWW,LWWDWLWWLWLWDDDLLL
+Stade Lavallois,Metz,0-0,/match/stade-lavallois/metz/2014,2014,38,ligue_2,20,38,1,0,0,18,10,11,16,44,52,WLWLWWWWDWDWWLDLDWLWDDDDLWWWDWWWDLDWW,8,5,5,32,24,1,22,9,6,55,28,WWWDLDDWWWLWLWLWWWDDWWWDWLLLWDWDWLDLW,8,5,5,27,20,LLWWDWDDLDDLWWWWLW,WLDWLLLWDWWDLLDDLL
+Le Havre,Arles,2-1,/match/havre-ac/arles/2014,2014,38,ligue_2,20,38,0,2,1,14,10,15,12,41,42,WLDDDWDWWDDLDLDWLWDLLWLDDLDLDDWWDWWWW,6,7,5,24,18,7,10,16,11,35,36,WWWWWWLDDDWDWWDDDWDWWDDWDWLWDDWWDDWDL,1,8,9,11,23,LDWWDLLWWDLLDDDWDW,WWWLDWWDDDDWWWDWDD
+Tours,Clermont,3-0,/match/tours-fc/clermont-foot/2014,2014,38,ligue_2,20,38,0,3,0,8,14,10,13,60,56,WDLWLDWWDDLWWWDLWWWWWWLWWDWWWWDLDLDDL,9,6,3,36,24,12,10,15,12,31,35,WLWWDDDDDWWDWDLWWWDLDDWLWWWDWDDLDWLDL,3,7,8,14,21,DWDWDWDWWWLWWWDLLD,LWDDWWLWDDWWWDDLWD
+Troyes,Niort,4-1,/match/troyes/chamois-niortais/2014,2014,38,ligue_2,20,38,0,4,1,13,14,7,16,52,43,DWWWWWWDLWWWDLLLLWDWWDWWWDWWWDLWLLWLL,10,2,6,31,19,4,15,13,9,50,43,DDDDWDWWWDWWDDLLWWLWLWDLDWWDWWWWLLWDD,5,6,7,20,27,WWWDWWLLLDWWWWWLLL,DDWWWDLWLLDLWDWWLD

@@ -1,0 +1,241 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Vitória,Vitória Setúbal,1-1,/match/vitoria-guimaraes/vitoria-setubal/2009,2009,1,primeira_liga,16,30,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Paços Ferreira,Sporting Braga,0-2,/match/pacos-ferreira/sporting-braga/2009,2009,1,primeira_liga,16,30,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting CP,Trofense,3-1,/match/sporting-lisbon/trofense/2009,2009,1,primeira_liga,16,30,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Estrela Amadora,Académica,1-0,/match/estrela-amadora/academica/2009,2009,1,primeira_liga,16,30,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Leixões,Nacional,1-3,/match/leixoes/nacional/2009,2009,1,primeira_liga,16,30,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Naval,Marítimo,1-0,/match/naval/maritimo/2009,2009,1,primeira_liga,16,30,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Porto,Belenenses,2-0,/match/fc-porto/belenenses/2009,2009,1,primeira_liga,16,30,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Rio Ave,Benfica,1-1,/match/rio-ave/benfica/2009,2009,1,primeira_liga,16,30,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Belenenses,Paços Ferreira,2-2,/match/belenenses/pacos-ferreira/2009,2009,2,primeira_liga,16,30,1,2,2,12,0,0,1,0,2,W,0,0,0,0,0,13,0,0,1,0,2,L,0,0,0,0,0,,
+Benfica,Porto,1-1,/match/benfica/fc-porto/2009,2009,2,primeira_liga,16,30,1,1,1,9,0,1,0,1,1,D,0,0,0,0,0,4,1,0,0,2,0,W,0,0,0,0,0,,
+Nacional,Naval,2-1,/match/nacional/naval/2009,2009,2,primeira_liga,16,30,0,2,1,8,1,0,0,3,1,L,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Académica,Rio Ave,1-0,/match/academica/rio-ave/2009,2009,2,primeira_liga,16,30,0,1,0,11,0,0,1,0,1,W,0,0,0,0,0,6,0,1,0,1,1,D,0,0,0,0,0,,
+Trofense,Leixões,1-2,/match/trofense/leixoes/2009,2009,2,primeira_liga,16,30,2,1,2,14,0,0,1,1,3,W,0,0,0,0,0,16,0,0,1,1,3,L,0,0,0,0,0,,
+Vitória Setúbal,Estrela Amadora,1-0,/match/vitoria-setubal/estrela-amadora/2009,2009,2,primeira_liga,16,30,0,1,0,10,0,1,0,1,1,D,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Marítimo,Vitória,0-1,/match/maritimo/vitoria-guimaraes/2009,2009,2,primeira_liga,16,30,2,0,1,15,0,0,1,0,1,W,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+Sporting Braga,Sporting CP,0-1,/match/sporting-braga/sporting-lisbon/2009,2009,2,primeira_liga,16,30,2,0,1,5,1,0,0,2,0,L,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
+Sporting CP,Belenenses,2-0,/match/sporting-lisbon/belenenses/2009,2009,3,primeira_liga,16,30,0,2,0,1,2,0,0,4,1,WL,1,0,0,3,1,12,0,1,1,2,4,WD,0,0,1,0,2,W,W
+Estrela Amadora,Marítimo,0-0,/match/estrela-amadora/maritimo/2009,2009,3,primeira_liga,16,30,1,0,0,6,1,0,1,1,1,WW,1,0,0,1,0,16,0,0,2,0,2,WL,0,0,1,0,1,W,W
+Naval,Trofense,3-1,/match/naval/trofense/2009,2009,3,primeira_liga,16,30,0,3,1,5,1,0,1,2,2,WW,1,0,0,1,0,15,0,0,2,2,5,WL,0,0,1,1,3,W,W
+Leixões,Sporting Braga,2-0,/match/leixoes/sporting-braga/2009,2009,3,primeira_liga,16,30,0,2,0,13,1,0,1,3,4,LL,0,0,1,1,3,10,1,0,1,2,1,LL,1,0,0,2,0,L,L
+Rio Ave,Porto,0-0,/match/rio-ave/fc-porto/2009,2009,3,primeira_liga,16,30,1,0,0,11,0,1,1,1,2,DW,0,1,0,1,1,3,1,1,0,3,1,WD,0,1,0,1,1,D,D
+Académica,Vitória Setúbal,1-0,/match/academica/vitoria-setubal/2009,2009,3,primeira_liga,16,30,0,1,0,8,1,0,1,1,1,WW,1,0,0,1,0,4,1,1,0,2,1,DW,0,1,0,1,1,W,D
+Vitória,Nacional,0-2,/match/vitoria-guimaraes/nacional/2009,2009,3,primeira_liga,16,30,2,0,2,7,1,1,0,2,1,DL,0,1,0,1,1,2,2,0,0,5,2,LW,1,0,0,3,1,D,L
+Paços Ferreira,Benfica,3-4,/match/pacos-ferreira/benfica/2009,2009,3,primeira_liga,16,30,2,3,4,14,0,1,1,2,4,LD,0,0,1,0,2,9,0,2,0,2,2,DD,0,1,0,1,1,L,D
+Porto,Paços Ferreira,2-0,/match/fc-porto/pacos-ferreira/2009,2009,4,primeira_liga,16,30,0,2,0,5,1,2,0,3,1,WDD,1,0,0,2,0,14,0,1,2,5,8,LDL,0,1,0,2,2,W,D
+Sporting Braga,Naval,1-1,/match/sporting-braga/naval/2009,2009,4,primeira_liga,16,30,1,1,1,12,1,0,2,2,3,LLW,0,0,1,0,1,3,2,0,1,5,3,WWW,0,0,1,1,2,L,W
+Vitória Setúbal,Rio Ave,1-0,/match/vitoria-setubal/rio-ave/2009,2009,4,primeira_liga,16,30,0,1,0,8,1,1,1,2,2,DWW,1,0,0,1,0,11,0,2,1,1,2,DWD,0,0,1,0,1,W,W
+Benfica,Sporting CP,2-0,/match/benfica/sporting-lisbon/2009,2009,4,primeira_liga,16,30,0,2,0,9,1,2,0,6,5,DDL,0,1,0,1,1,1,3,0,0,6,1,WLW,1,0,0,1,0,D,L
+Nacional,Estrela Amadora,1-2,/match/nacional/estrela-amadora/2009,2009,4,primeira_liga,16,30,2,1,2,2,3,0,0,7,2,LWL,1,0,0,2,1,6,1,1,1,1,1,WWD,0,0,1,0,1,W,W
+Marítimo,Académica,2-0,/match/maritimo/academica/2009,2009,4,primeira_liga,16,30,0,2,0,15,0,1,2,0,2,WLD,0,0,1,0,1,4,2,0,1,2,1,WWW,0,0,1,0,1,L,W
+Trofense,Vitória,1-3,/match/trofense/vitoria-guimaraes/2009,2009,4,primeira_liga,16,30,2,1,3,16,0,0,3,3,8,WLW,0,0,1,1,2,10,1,1,1,2,3,DLL,1,0,0,1,0,L,L
+Belenenses,Leixões,0-1,/match/belenenses/leixoes/2009,2009,4,primeira_liga,16,30,2,0,1,13,0,1,2,2,6,WDW,0,1,0,2,2,7,2,0,1,5,4,LLW,1,0,0,2,1,D,L
+Naval,Belenenses,1-1,/match/naval/belenenses/2009,2009,5,primeira_liga,16,30,1,1,1,3,2,1,1,6,4,WWWD,2,0,0,4,1,14,0,1,3,2,7,WDWL,0,0,2,0,4,WW,WW
+Estrela Amadora,Trofense,1-0,/match/estrela-amadora/trofense/2009,2009,5,primeira_liga,16,30,0,1,0,8,2,1,1,3,2,WWDL,1,1,0,1,0,16,0,0,4,4,11,WLWL,0,0,2,2,6,WD,WW
+Académica,Nacional,1-1,/match/academica/nacional/2009,2009,5,primeira_liga,16,30,1,1,1,7,2,0,2,2,3,WWWW,2,0,0,2,0,6,3,0,1,8,4,LWLL,2,0,0,5,1,WW,LL
+Rio Ave,Paços Ferreira,3-2,/match/rio-ave/pacos-ferreira/2009,2009,5,primeira_liga,16,30,0,3,2,12,0,2,2,1,3,DWDW,0,2,0,1,1,15,0,1,3,5,10,LDLW,0,1,1,2,4,DD,DW
+Sporting CP,Porto,1-2,/match/sporting-lisbon/fc-porto/2009,2009,5,primeira_liga,16,30,2,1,2,1,3,0,1,6,3,WLWW,2,0,0,5,1,2,2,2,0,5,1,WDDW,0,2,0,1,1,WW,DD
+Vitória,Sporting Braga,0-0,/match/vitoria-guimaraes/sporting-braga/2009,2009,5,primeira_liga,16,30,1,0,0,10,2,1,1,5,4,DLLL,0,1,1,1,3,13,1,1,2,3,4,LLWD,1,0,1,2,2,DL,LW
+Leixões,Benfica,1-1,/match/leixoes/benfica/2009,2009,5,primeira_liga,16,30,1,1,1,9,3,0,1,6,4,LLWL,1,0,1,3,3,5,2,2,0,8,5,DDLW,1,1,0,5,4,LW,DL
+Vitória Setúbal,Marítimo,0-2,/match/vitoria-setubal/maritimo/2009,2009,5,primeira_liga,16,30,2,0,2,4,2,1,1,3,2,DWWW,2,0,0,2,0,11,1,1,2,2,2,WLDW,0,1,1,0,1,WW,WD
+Trofense,Académica,0-0,/match/trofense/academica/2009,2009,6,primeira_liga,16,30,1,0,0,16,0,0,5,4,12,WLWLW,0,0,2,2,5,6,2,1,2,3,4,WWWWD,0,0,2,0,3,LL,WW
+Belenenses,Vitória,1-1,/match/belenenses/vitoria-guimaraes/2009,2009,6,primeira_liga,16,30,1,1,1,14,0,2,3,3,8,WDWLD,0,1,1,2,3,10,2,2,1,5,4,DLLLD,2,0,0,4,1,DL,LL
+Porto,Leixões,2-3,/match/fc-porto/leixoes/2009,2009,6,primeira_liga,16,30,2,2,3,1,3,2,0,7,2,WDDWL,2,0,0,4,0,7,3,1,1,7,5,LLWLD,2,0,0,3,1,WW,LL
+Marítimo,Rio Ave,1-1,/match/maritimo/rio-ave/2009,2009,6,primeira_liga,16,30,1,1,1,12,2,1,2,4,2,WLDWL,1,0,1,2,1,11,1,2,2,4,5,DWDWW,0,0,2,0,2,LW,WW
+Nacional,Vitória Setúbal,1-0,/match/nacional/vitoria-setubal/2009,2009,6,primeira_liga,16,30,0,1,0,9,3,1,1,9,5,LWLLD,1,0,1,3,3,8,2,1,2,3,4,DWWWL,0,1,1,1,2,WL,DW
+Benfica,Naval,2-1,/match/benfica/naval/2009,2009,6,primeira_liga,16,30,0,2,1,5,2,3,0,9,6,DDLWD,1,1,0,3,1,3,2,2,1,7,5,WWWDD,0,1,1,2,3,DW,WD
+Paços Ferreira,Sporting CP,0-0,/match/pacos-ferreira/sporting-lisbon/2009,2009,6,primeira_liga,16,30,1,0,0,15,0,1,4,7,13,LDLWW,0,0,2,3,6,4,3,0,2,7,5,WLWWL,1,0,1,1,2,LL,LW
+Sporting Braga,Estrela Amadora,5-0,/match/sporting-braga/estrela-amadora/2009,2009,6,primeira_liga,16,30,0,5,0,13,1,2,2,3,4,LLWDD,0,1,1,1,2,2,3,1,1,4,2,WWDLW,1,0,1,2,2,LD,WL
+Vitória Setúbal,Trofense,0-2,/match/vitoria-setubal/trofense/2009,2009,7,primeira_liga,16,30,2,0,2,9,2,1,3,3,5,DWWWLW,2,0,1,2,2,16,0,1,5,4,12,WLWLWD,0,0,3,2,7,WWL,WWW
+Naval,Porto,1-0,/match/naval/fc-porto/2009,2009,7,primeira_liga,16,30,0,1,0,6,2,2,2,8,7,WWWDDW,2,1,0,5,2,3,3,2,1,9,5,WDDWLL,1,2,0,3,2,WWD,DDL
+Rio Ave,Sporting CP,0-1,/match/rio-ave/sporting-lisbon/2009,2009,7,primeira_liga,16,30,2,0,1,11,1,3,2,5,6,DWDWWD,1,2,0,4,3,7,3,1,2,7,5,WLWWLD,1,1,1,1,2,DDW,LWD
+Leixões,Paços Ferreira,2-1,/match/leixoes/pacos-ferreira/2009,2009,7,primeira_liga,16,30,0,2,1,5,4,1,1,10,7,LLWLDL,1,1,1,4,4,15,0,2,4,7,13,LDLWWD,0,1,2,4,7,LWD,DWW
+Estrela Amadora,Belenenses,1-1,/match/estrela-amadora/belenenses/2009,2009,7,primeira_liga,16,30,1,1,1,4,3,1,2,4,7,WWDLWW,2,1,0,2,0,14,0,3,3,4,9,WDWLDD,0,1,2,1,5,WDW,WWD
+Académica,Sporting Braga,1-1,/match/academica/sporting-braga/2009,2009,7,primeira_liga,16,30,1,1,1,8,2,2,2,3,4,WWWWDD,2,1,0,3,1,13,2,2,2,8,4,LLWDDW,1,1,1,2,2,WWD,LWD
+Vitória,Benfica,1-2,/match/vitoria-guimaraes/benfica/2009,2009,7,primeira_liga,16,30,2,1,2,10,2,3,1,6,5,DLLLDD,0,2,1,1,3,1,3,3,0,11,7,DDLWDW,1,2,0,6,5,DLD,DLD
+Marítimo,Nacional,4-2,/match/maritimo/nacional/2009,2009,7,primeira_liga,16,30,0,4,2,12,2,2,2,5,3,WLDWLD,1,1,1,3,2,2,4,1,1,10,5,LWLLDW,2,1,0,6,2,LWD,LLD
+Trofense,Marítimo,0-2,/match/trofense/maritimo/2009,2009,8,primeira_liga,16,30,2,0,2,15,1,1,5,6,12,WLWLWDL,0,1,2,2,5,8,3,2,2,9,5,WLDWLDW,1,1,1,2,1,LLD,WDL
+Porto,Vitória,2-0,/match/fc-porto/vitoria-guimaraes/2009,2009,8,primeira_liga,16,30,0,2,0,9,3,2,2,9,6,WDDWLLW,2,0,1,6,3,12,2,3,2,7,7,DLLLDDL,2,1,0,5,2,WWL,LLD
+Sporting CP,Leixões,0-1,/match/sporting-lisbon/leixoes/2009,2009,8,primeira_liga,16,30,2,0,1,6,4,1,2,8,5,WLWWLDL,2,0,1,6,3,2,5,1,1,12,8,LLWLDLW,3,0,0,6,3,WWL,LLL
+Paços Ferreira,Naval,2-1,/match/pacos-ferreira/naval/2009,2009,8,primeira_liga,16,30,0,2,1,16,0,2,5,8,15,LDLWWDW,0,1,2,3,6,3,3,2,2,9,7,WWWDDWW,0,1,2,3,5,LLD,WDW
+Nacional,Rio Ave,0-0,/match/nacional/rio-ave/2009,2009,8,primeira_liga,16,30,1,0,0,5,4,1,2,12,9,LWLLDWW,2,0,1,4,3,13,1,3,3,5,7,DWDWWDL,0,1,2,1,3,WLW,WWD
+Benfica,Estrela Amadora,1-0,/match/benfica/estrela-amadora/2009,2009,8,primeira_liga,16,30,0,1,0,1,4,3,0,13,8,DDLWDWL,2,1,0,5,2,4,3,2,2,5,8,WWDLWWD,1,0,2,2,7,DWW,WLW
+Sporting Braga,Vitória Setúbal,1-0,/match/sporting-braga/vitoria-setubal/2009,2009,8,primeira_liga,16,30,0,1,0,10,2,3,2,9,5,LLWDDWD,1,1,1,6,2,11,2,1,4,3,7,DWWWLWL,0,1,2,1,3,LDW,DWW
+Belenenses,Académica,1-0,/match/belenenses/academica/2009,2009,8,primeira_liga,16,30,0,1,0,14,0,4,3,5,10,WDWLDDD,0,2,1,3,4,7,2,3,2,4,5,WWWWDDD,0,1,2,0,3,DLD,WWD
+Rio Ave,Leixões,1-2,/match/rio-ave/leixoes/2009,2009,9,primeira_liga,16,30,2,1,2,11,1,4,3,5,7,DWDWWDLD,1,2,1,4,4,2,6,1,1,13,8,LLWLDLWL,4,0,0,7,3,DDWL,LLLL
+Marítimo,Sporting Braga,0-0,/match/maritimo/sporting-braga/2009,2009,9,primeira_liga,16,30,1,0,0,6,4,2,2,11,5,WLDWLDWL,2,1,1,7,4,8,3,3,2,10,5,LLWDDWDW,1,2,1,3,3,LWDW,LWDD
+Naval,Sporting CP,0-1,/match/naval/sporting-lisbon/2009,2009,9,primeira_liga,16,30,2,0,1,4,3,2,3,10,9,WWWDDWWW,3,1,0,6,2,9,4,1,3,8,6,WLWWLDLL,2,1,1,2,2,WWDW,LWDL
+Nacional,Trofense,1-0,/match/nacional/trofense/2009,2009,9,primeira_liga,16,30,0,1,0,5,4,2,2,12,9,LWLLDWWD,2,1,1,4,3,16,1,1,6,6,14,WLWLWDLL,1,0,3,4,7,WLWD,WWWL
+Vitória,Paços Ferreira,0-0,/match/vitoria-guimaraes/pacos-ferreira/2009,2009,9,primeira_liga,16,30,1,0,0,14,2,3,3,7,9,DLLLDDLW,0,2,2,2,5,15,1,2,5,10,16,LDLWWDWW,0,1,3,5,9,DLDL,DWWW
+Académica,Benfica,0-2,/match/academica/benfica/2009,2009,9,primeira_liga,16,30,2,0,2,10,2,3,3,4,6,WWWWDDDW,2,2,0,4,2,1,5,3,0,14,8,DDLWDWLW,2,2,0,8,6,WWDD,DLDL
+Vitória Setúbal,Belenenses,2-0,/match/vitoria-setubal/belenenses/2009,2009,9,primeira_liga,16,30,0,2,0,13,2,1,5,3,8,DWWWLWLW,2,0,2,2,4,12,1,4,3,6,10,WDWLDDDW,0,2,2,2,6,WWLL,WWDD
+Estrela Amadora,Porto,2-4,/match/estrela-amadora/fc-porto/2009,2009,9,primeira_liga,16,30,2,2,4,7,3,2,3,5,9,WWDLWWDW,2,2,0,3,1,3,4,2,2,11,6,WDDWLLWW,1,2,1,3,3,WDWD,DDLW
+Leixões,Naval,1-1,/match/leixoes/naval/2009,2009,10,primeira_liga,16,30,1,1,1,2,7,1,1,15,9,LLWLDLWLL,2,1,1,6,5,6,3,2,4,10,10,WWWDDWWWL,0,1,3,4,7,LWDW,WDWW
+Belenenses,Marítimo,0-2,/match/belenenses/maritimo/2009,2009,10,primeira_liga,16,30,2,0,2,14,1,4,4,6,12,WDWLDDDWW,1,2,1,4,4,5,4,3,2,11,5,WLDWLDWLD,2,1,1,4,1,DLDW,WDLL
+Trofense,Rio Ave,2-0,/match/trofense/rio-ave/2009,2009,10,primeira_liga,16,30,0,2,0,16,1,1,7,6,15,WLWLWDLLW,0,1,3,2,7,13,1,4,4,6,9,DWDWWDLDL,0,2,2,1,3,LLDL,WWDD
+Paços Ferreira,Estrela Amadora,1-0,/match/pacos-ferreira/estrela-amadora/2009,2009,10,primeira_liga,16,30,0,1,0,15,1,3,5,10,16,LDLWWDWWD,1,1,2,5,7,9,3,2,4,7,13,WWDLWWDWL,1,0,3,2,8,LLDW,WLWW
+Sporting Braga,Nacional,1-0,/match/sporting-braga/nacional/2009,2009,10,primeira_liga,16,30,0,1,0,7,3,4,2,10,5,LLWDDWDWD,2,1,1,7,2,3,5,2,2,13,9,LWLLDWWDW,2,1,1,8,6,LDWW,LLDW
+Sporting CP,Vitória,2-0,/match/sporting-lisbon/vitoria-guimaraes/2009,2009,10,primeira_liga,16,30,0,2,0,8,5,1,3,9,6,WLWWLDLLL,2,0,2,6,4,12,2,4,3,7,9,DLLLDDLWD,2,1,1,5,4,WWLL,LLDW
+Porto,Académica,2-1,/match/fc-porto/academica/2009,2009,10,primeira_liga,16,30,0,2,1,4,5,2,2,15,8,WDDWLLWWL,3,0,1,8,3,10,2,3,4,4,8,WWWWDDDWL,0,1,3,0,4,WWLW,WWDW
+Benfica,Vitória Setúbal,2-2,/match/benfica/vitoria-setubal/2009,2009,10,primeira_liga,16,30,1,2,2,1,6,3,0,16,8,DDLWDWLWL,3,1,0,6,2,11,3,1,5,5,8,DWWWLWLWW,0,1,3,1,4,DWWW,DWWW
+Estrela Amadora,Sporting CP,1-3,/match/estrela-amadora/sporting-lisbon/2009,2009,11,primeira_liga,16,30,2,1,3,9,3,2,5,7,14,WWDLWWDWLW,2,2,1,5,5,7,6,1,3,11,6,WLWWLDLLLW,3,1,1,3,2,WDWDL,LWDLL
+Nacional,Belenenses,4-2,/match/nacional/belenenses/2009,2009,11,primeira_liga,16,30,0,4,2,4,5,2,3,13,10,LWLLDWWDWW,3,1,1,5,3,15,1,4,5,6,14,WDWLDDDWWL,0,2,3,2,8,WLWDW,WWDDW
+Académica,Paços Ferreira,2-1,/match/academica/pacos-ferreira/2009,2009,11,primeira_liga,16,30,0,2,1,11,2,3,5,5,10,WWWWDDDWLW,2,2,1,4,4,12,2,3,5,11,16,LDLWWDWWDW,0,2,3,5,9,WWDDL,DWWWD
+Vitória Setúbal,Porto,0-3,/match/vitoria-setubal/fc-porto/2009,2009,11,primeira_liga,16,30,2,0,3,10,3,2,5,7,10,DWWWLWLWWD,3,0,2,4,4,3,6,2,2,17,9,WDDWLLWWLW,2,2,1,7,5,WWLLW,DDLWL
+Rio Ave,Naval,2-0,/match/rio-ave/naval/2009,2009,11,primeira_liga,16,30,0,2,0,14,1,4,5,6,11,DWDWWDLDLW,1,2,2,5,6,8,3,3,4,11,11,WWWDDWWWLD,0,2,3,5,8,DDWLL,WDWWD
+Marítimo,Benfica,0-6,/match/maritimo/benfica/2009,2009,11,primeira_liga,16,30,2,0,6,5,5,3,2,13,5,WLDWLDWLDL,2,2,1,7,4,1,6,4,0,18,10,DDLWDWLWLD,3,2,0,10,6,LWDWD,DLDLL
+Vitória,Leixões,1-0,/match/vitoria-guimaraes/leixoes/2009,2009,11,primeira_liga,16,30,0,1,0,13,2,4,4,7,11,DLLLDDLWDW,0,3,2,2,5,2,7,2,1,16,10,LLWLDLWLLD,5,0,0,9,4,DLDLD,LLLLL
+Trofense,Sporting Braga,0-0,/match/trofense/sporting-braga/2009,2009,11,primeira_liga,16,30,1,0,0,16,2,1,7,8,15,WLWLWDLLWW,1,1,3,4,7,6,4,4,2,11,5,LLWDDWDWDW,1,3,1,3,3,LLDLW,LWDDD
+Naval,Vitória,0-0,/match/naval/vitoria-guimaraes/2009,2009,12,primeira_liga,16,30,1,0,0,9,3,3,5,11,13,WWWDDWWWLDW,3,1,1,6,3,10,3,4,4,8,11,DLLLDDLWDWW,2,1,2,5,6,WWDWL,LLDWW
+Sporting Braga,Rio Ave,1-0,/match/sporting-braga/rio-ave/2009,2009,12,primeira_liga,16,30,0,1,0,6,4,5,2,11,5,LLWDDWDWDWD,3,1,1,8,2,13,2,4,5,8,11,DWDWWDLDLWW,0,2,3,1,5,LDWWW,WWDDW
+Sporting CP,Académica,0-0,/match/sporting-lisbon/academica/2009,2009,12,primeira_liga,16,30,1,0,0,5,7,1,3,14,7,WLWWLDLLLWL,3,0,2,8,4,8,3,3,5,7,11,WWWWDDDWLWW,0,1,4,1,6,WWLLW,WWDWW
+Paços Ferreira,Vitória Setúbal,2-0,/match/pacos-ferreira/vitoria-setubal/2009,2009,12,primeira_liga,16,30,0,2,0,14,2,3,6,12,18,LDLWWDWWDWW,2,1,2,6,7,12,3,2,6,7,13,DWWWLWLWWDL,0,2,3,3,6,LLDWW,DWWWD
+Belenenses,Trofense,3-2,/match/belenenses/trofense/2009,2009,12,primeira_liga,16,30,0,3,2,15,1,4,6,8,18,WDWLDDDWWLW,1,2,2,4,6,16,2,2,7,8,15,WLWLWDLLWWD,1,0,4,4,8,DLDWL,WWWLW
+Leixões,Estrela Amadora,1-1,/match/leixoes/estrela-amadora/2009,2009,12,primeira_liga,16,30,1,1,1,4,7,2,2,16,11,LLWLDLWLLDW,2,2,1,7,6,11,3,2,6,8,17,WWDLWWDWLWL,1,0,4,2,9,LWDWD,WLWWW
+Porto,Marítimo,0-0,/match/fc-porto/maritimo/2009,2009,12,primeira_liga,16,30,1,0,0,2,7,2,2,20,9,WDDWLLWWLWL,4,0,1,10,4,7,5,3,3,13,11,WLDWLDWLDLL,3,1,1,6,1,WWLWW,WDLLL
+Benfica,Nacional,0-0,/match/benfica/nacional/2009,2009,12,primeira_liga,16,30,1,0,0,1,7,4,0,24,10,DDLWDWLWLDL,3,2,0,8,4,3,6,2,3,17,12,LWLLDWWDWWW,2,1,2,8,7,DWWWD,LLDWW
+Académica,Leixões,0-0,/match/academica/leixoes/2009,2009,13,primeira_liga,16,30,1,0,0,8,3,4,5,7,11,WWWWDDDWLWWD,3,2,1,6,5,4,7,3,2,17,12,LLWLDLWLLDWD,5,0,1,9,5,WWDDLW,LLLLLW
+Rio Ave,Vitória,2-4,/match/rio-ave/vitoria-guimaraes/2009,2009,13,primeira_liga,16,30,2,2,4,14,2,4,6,8,12,DWDWWDLDLWWW,2,2,2,7,6,10,3,5,4,8,11,DLLLDDLWDWWD,2,2,2,5,6,DDWLLW,LLDWWD
+Vitória Setúbal,Sporting CP,0-2,/match/vitoria-setubal/sporting-lisbon/2009,2009,13,primeira_liga,16,30,2,0,2,13,3,2,7,7,15,DWWWLWLWWDLW,3,0,3,4,7,6,7,2,3,14,7,WLWWLDLLLWLD,4,1,1,6,3,WWLLWL,LWDLLL
+Marítimo,Paços Ferreira,4-1,/match/maritimo/pacos-ferreira/2009,2009,13,primeira_liga,16,30,0,4,1,7,5,4,3,13,11,WLDWLDWLDLLD,2,2,2,7,10,11,3,3,6,14,18,LDLWWDWWDWWW,0,2,4,6,11,LWDWDL,DWWWDW
+Estrela Amadora,Naval,1-0,/match/estrela-amadora/naval/2009,2009,13,primeira_liga,16,30,0,1,0,12,3,3,6,9,18,WWDLWWDWLWLD,2,2,2,6,8,9,3,4,5,11,13,WWWDDWWWLDWD,0,2,4,5,10,WDWDLL,WDWWDW
+Nacional,Porto,2-4,/match/nacional/fc-porto/2009,2009,13,primeira_liga,16,30,2,2,4,3,6,3,3,17,12,LWLLDWWDWWWD,4,1,1,9,5,2,7,3,2,20,9,WDDWLLWWLWLD,3,2,1,10,5,WLWDWW,DDLWLL
+Trofense,Benfica,2-0,/match/trofense/benfica/2009,2009,13,primeira_liga,16,30,0,2,0,16,2,2,8,10,18,WLWLWDLLWWDW,1,2,3,4,7,1,7,5,0,24,10,DDLWDWLWLDLD,4,2,0,16,6,LLDLWD,DLDLLL
+Sporting Braga,Belenenses,2-0,/match/sporting-braga/belenenses/2009,2009,13,primeira_liga,16,30,0,2,0,5,5,5,2,12,5,LLWDDWDWDWDW,4,1,1,9,2,15,2,4,6,11,20,WDWLDDDWWLWW,0,2,4,4,12,LDWWWW,WWDDWW
+Vitória,Estrela Amadora,0-0,/match/vitoria-guimaraes/estrela-amadora/2009,2009,14,primeira_liga,16,30,1,0,0,11,4,5,4,12,13,DLLLDDLWDWWDL,1,3,2,3,5,9,4,3,6,10,18,WWDLWWDWLWLDW,1,1,4,3,10,DLDLDW,WLWWWD
+Sporting CP,Marítimo,2-0,/match/sporting-lisbon/maritimo/2009,2009,14,primeira_liga,16,30,0,2,0,5,8,2,3,16,7,WLWWLDLLLWLDL,3,1,2,8,4,7,6,4,3,17,12,WLDWLDWLDLLDW,3,2,1,6,1,WWLLWD,WDLLLD
+Naval,Académica,2-1,/match/naval/academica/2009,2009,14,primeira_liga,16,30,0,2,1,10,3,4,6,11,14,WWWDDWWWLDWDW,3,2,1,6,3,8,3,5,5,7,11,WWWWDDDWLWWDD,0,2,4,1,6,WWDWLD,WWDWWD
+Paços Ferreira,Nacional,2-3,/match/pacos-ferreira/nacional/2009,2009,14,primeira_liga,16,30,2,2,3,12,3,3,7,15,22,LDLWWDWWDWWWW,3,1,2,8,7,6,6,3,4,19,16,LWLLDWWDWWWDL,2,2,2,8,7,LLDWWW,LLDWWD
+Rio Ave,Belenenses,0-1,/match/rio-ave/belenenses/2009,2009,14,primeira_liga,16,30,2,0,1,14,2,4,7,10,16,DWDWWDLDLWWWL,2,2,3,9,10,15,2,4,7,11,22,WDWLDDDWWLWWW,0,2,5,4,14,DDWLLWL,WWDDWWW
+Leixões,Vitória Setúbal,0-0,/match/leixoes/vitoria-setubal/2009,2009,14,primeira_liga,16,30,1,0,0,4,7,4,2,17,12,LLWLDLWLLDWDD,2,3,1,8,7,13,3,2,8,7,17,DWWWLWLWWDLWL,0,2,4,3,8,LWDWDD,DWWWDW
+Benfica,Sporting Braga,1-0,/match/benfica/sporting-braga/2009,2009,14,primeira_liga,16,30,0,1,0,1,7,5,1,24,12,DDLWDWLWLDLDW,3,3,0,8,4,3,6,5,2,14,5,LLWDDWDWDWDWW,1,4,1,3,3,DWWWDD,LWDDDD
+Porto,Trofense,0-0,/match/fc-porto/trofense/2009,2009,14,primeira_liga,16,30,1,0,0,2,8,3,2,24,11,WDDWLLWWLWLDL,4,1,1,10,4,16,3,2,8,12,18,WLWLWDLLWWDWW,1,0,5,6,11,WWLWWD,WWWLWW
+Marítimo,Leixões,0-0,/match/maritimo/leixoes/2009,2009,15,primeira_liga,16,30,1,0,0,7,6,4,4,17,14,WLDWLDWLDLLDWW,3,2,2,11,11,5,7,5,2,17,12,LLWLDLWLLDWDDD,5,1,1,9,5,LWDWDLW,LLLLLWD
+Belenenses,Benfica,0-0,/match/belenenses/benfica/2009,2009,15,primeira_liga,16,30,1,0,0,13,3,4,7,12,22,WDWLDDDWWLWWWL,2,2,2,7,8,1,8,5,1,25,12,DDLWDWLWLDLDWW,4,2,1,16,8,DLDWLW,DLDLLLW
+Estrela Amadora,Rio Ave,2-0,/match/estrela-amadora/rio-ave/2009,2009,15,primeira_liga,16,30,0,2,0,10,4,4,6,10,18,WWDLWWDWLWLDWD,3,2,2,7,8,16,2,4,8,10,17,DWDWWDLDLWWWLL,0,2,4,1,6,WDWDLLW,WWDDWW
+Vitória Setúbal,Naval,0-1,/match/vitoria-setubal/naval/2009,2009,15,primeira_liga,16,30,2,0,1,14,3,3,8,7,17,DWWWLWLWWDLWLD,3,0,4,4,9,8,4,4,6,13,15,WWWDDWWWLDWDWW,0,2,5,5,11,WWLLWLL,WDWWDWW
+Trofense,Paços Ferreira,1-3,/match/trofense/pacos-ferreira/2009,2009,15,primeira_liga,16,30,2,1,3,15,3,3,8,12,18,WLWLWDLLWWDWWD,2,2,3,6,7,12,3,3,8,17,25,LDLWWDWWDWWWWL,0,2,5,7,15,LLDLWDW,DWWWDWW
+Nacional,Sporting CP,1-1,/match/nacional/sporting-lisbon/2009,2009,15,primeira_liga,16,30,1,1,1,6,7,3,4,22,18,LWLLDWWDWWWDLL,4,1,2,11,9,3,9,2,3,18,7,WLWWLDLLLWLDLW,5,1,1,8,3,WLWDWWL,LWDLLLL
+Sporting Braga,Porto,0-2,/match/sporting-braga/fc-porto/2009,2009,15,primeira_liga,16,30,2,0,2,4,6,5,3,14,6,LLWDDWDWDWDWWW,5,1,1,11,2,2,8,4,2,24,11,WDDWLLWWLWLDLD,4,2,1,14,7,LDWWWWW,DDLWLLL
+Académica,Vitória,2-1,/match/academica/vitoria-guimaraes/2009,2009,15,primeira_liga,16,30,0,2,1,9,3,5,6,8,13,WWWWDDDWLWWDDW,3,3,1,6,5,11,4,6,4,12,13,DLLLDDLWDWWDLD,3,2,2,9,8,WWDDLWD,LLDWWDL
+Vitória Setúbal,Vitória,2-4,/match/vitoria-setubal/vitoria-guimaraes/2009,2009,16,primeira_liga,16,30,2,2,4,14,3,3,9,7,18,DWWWLWLWWDLWLDL,3,0,5,4,10,11,4,6,5,13,15,DLLLDDLWDWWDLDW,3,2,3,10,10,WWLLWLLL,LLDWWDLW
+Trofense,Sporting CP,0-0,/match/trofense/sporting-lisbon/2009,2009,16,primeira_liga,16,30,1,0,0,15,3,3,9,13,21,WLWLWDLLWWDWWDL,2,2,4,7,10,3,9,3,3,19,8,WLWWLDLLLWLDLWD,5,2,1,9,4,LLDLWDWL,LWDLLLLD
+Benfica,Rio Ave,1-0,/match/benfica/rio-ave/2009,2009,16,primeira_liga,16,30,0,1,0,1,8,6,1,25,12,DDLWDWLWLDLDWWD,4,3,0,9,4,16,2,4,9,10,19,DWDWWDLDLWWWLLW,0,2,5,1,8,DWWWDDW,WWDDWWW
+Marítimo,Naval,1-0,/match/maritimo/naval/2009,2009,16,primeira_liga,16,30,0,1,0,7,6,5,4,17,14,WLDWLDWLDLLDWWD,3,3,2,11,11,8,5,4,6,14,15,WWWDDWWWLDWDWWL,1,2,5,6,11,LWDWDLWD,WDWWDWWL
+Nacional,Leixões,0-0,/match/nacional/leixoes/2009,2009,16,primeira_liga,16,30,1,0,0,6,7,4,4,23,19,LWLLDWWDWWWDLLD,4,2,2,12,10,5,7,6,2,17,12,LLWLDLWLLDWDDDD,5,2,1,9,5,WLWDWWLD,LLLLLWDD
+Académica,Estrela Amadora,2-2,/match/academica/estrela-amadora/2009,2009,16,primeira_liga,16,30,1,2,2,9,4,5,6,10,14,WWWWDDDWLWWDDWW,4,3,1,8,6,10,5,4,6,12,18,WWDLWWDWLWLDWDW,1,2,4,3,10,WWDDLWDW,WLWWWDD
+Belenenses,Porto,1-3,/match/belenenses/fc-porto/2009,2009,16,primeira_liga,16,30,2,1,3,13,3,5,7,12,22,WDWLDDDWWLWWWLD,2,3,2,7,8,2,9,4,2,26,11,WDDWLLWWLWLDLDL,5,2,1,16,7,DLDWLWD,DDLWLLLL
+Sporting Braga,Paços Ferreira,2-0,/match/sporting-braga/pacos-ferreira/2009,2009,16,primeira_liga,16,30,0,2,0,4,6,5,4,14,8,LLWDDWDWDWDWWWL,5,1,2,11,4,12,4,3,8,20,26,LDLWWDWWDWWWWLL,1,2,5,10,16,LDWWWWWL,DWWWDWWL
+Leixões,Trofense,2-0,/match/leixoes/trofense/2009,2009,17,primeira_liga,16,30,0,2,0,7,7,7,2,17,12,LLWLDLWLLDWDDDDD,2,4,1,8,7,14,3,4,9,13,21,WLWLWDLLWWDWWDLD,1,1,5,6,11,LWDWDDD,WWWLWWD
+Estrela Amadora,Vitória Setúbal,0-0,/match/estrela-amadora/vitoria-setubal/2009,2009,17,primeira_liga,16,30,1,0,0,9,5,5,6,14,20,WWDLWWDWLWLDWDWD,4,2,2,9,8,15,3,3,10,9,22,DWWWLWLWWDLWLDLL,0,3,4,3,8,WDWDLLWW,DWWWDWD
+Naval,Nacional,0-4,/match/naval/nacional/2009,2009,17,primeira_liga,16,30,2,0,4,10,5,4,7,14,16,WWWDDWWWLDWDWWLW,4,2,1,8,4,5,7,5,4,23,19,LWLLDWWDWWWDLLDD,3,2,2,11,9,WWDWLDW,LLDWWDL
+Rio Ave,Académica,1-0,/match/rio-ave/academica/2009,2009,17,primeira_liga,16,30,0,1,0,16,2,4,10,10,20,DWDWWDLDLWWWLLWW,2,2,4,9,11,8,4,6,6,12,16,WWWWDDDWLWWDDWWD,0,2,5,2,8,DDWLLWLL,WWDWWDW
+Vitória,Marítimo,2-1,/match/vitoria-guimaraes/maritimo/2009,2009,17,primeira_liga,16,30,0,2,1,11,5,6,5,17,17,DLLLDDLWDWWDLDWL,1,4,2,3,5,6,7,5,4,18,14,WLDWLDWLDLLDWWDW,3,2,2,6,3,DLDLDWD,WDLLLDW
+Sporting CP,Sporting Braga,2-3,/match/sporting-lisbon/sporting-braga/2009,2009,17,primeira_liga,16,30,2,2,3,4,9,4,3,19,8,WLWWLDLLLWLDLWDD,4,1,2,10,4,3,7,5,4,16,8,LLWDDWDWDWDWWWLW,1,4,2,3,4,WWLLWDW,LWDDDDW
+Porto,Benfica,1-1,/match/fc-porto/benfica/2009,2009,17,primeira_liga,16,30,1,1,1,2,10,4,2,29,12,WDDWLLWWLWLDLDLL,4,2,1,10,4,1,9,6,1,26,12,DDLWDWLWLDLDWWDW,4,3,1,16,8,WWLWWDD,DLDLLLWD
+Paços Ferreira,Belenenses,1-1,/match/pacos-ferreira/belenenses/2009,2009,17,primeira_liga,16,30,1,1,1,12,4,3,9,20,28,LDLWWDWWDWWWWLLW,3,1,3,10,10,13,3,5,8,13,25,WDWLDDDWWLWWWLDL,1,2,5,5,14,LLDWWWL,WWDDWWWL
+Nacional,Vitória,3-0,/match/nacional/vitoria-guimaraes/2009,2009,18,primeira_liga,16,30,0,3,0,5,8,5,4,27,19,LWLLDWWDWWWDLLDDL,4,3,2,12,10,10,6,6,5,19,18,DLLLDDLWDWWDLDWLW,4,2,3,14,12,WLWDWWLDD,LLDWWDLWL
+Marítimo,Estrela Amadora,1-0,/match/maritimo/estrela-amadora/2009,2009,18,primeira_liga,16,30,0,1,0,7,7,5,5,19,16,WLDWLDWLDLLDWWDWW,4,3,2,12,11,8,5,6,6,14,20,WWDLWWDWLWLDWDWDD,1,3,4,5,12,LWDWDLWDW,WLWWWDDD
+Sporting Braga,Leixões,0-1,/match/sporting-braga/leixoes/2009,2009,18,primeira_liga,16,30,2,0,1,3,8,5,4,19,10,LLWDDWDWDWDWWWLWL,6,1,2,13,4,4,8,7,2,19,12,LLWLDLWLLDWDDDDDW,5,3,1,9,5,LDWWWWWLW,LLLLLWDDD
+Belenenses,Sporting CP,1-2,/match/belenenses/sporting-lisbon/2009,2009,18,primeira_liga,16,30,2,1,2,13,3,6,8,14,26,WDWLDDDWWLWWWLDLD,2,3,3,8,11,6,9,4,4,21,11,WLWWLDLLLWLDLWDDL,5,3,1,9,4,DLDWLWDL,LWDLLLLDD
+Trofense,Naval,2-2,/match/trofense/naval/2009,2009,18,primeira_liga,16,30,1,2,2,15,3,4,10,13,23,WLWLWDLLWWDWWDLDW,2,3,4,7,10,11,5,4,8,14,20,WWWDDWWWLDWDWWLWL,1,2,6,6,12,LLDLWDWLD,WDWWDWWLW
+Porto,Rio Ave,3-1,/match/fc-porto/rio-ave/2009,2009,18,primeira_liga,16,30,0,3,1,2,10,5,2,30,13,WDDWLLWWLWLDLDLLD,4,3,1,11,5,14,3,4,10,11,20,DWDWWDLDLWWWLLWWW,0,2,6,1,9,WWLWWDDD,WWDDWWWW
+Benfica,Paços Ferreira,3-2,/match/benfica/pacos-ferreira/2009,2009,18,primeira_liga,16,30,0,3,2,1,9,7,1,27,13,DDLWDWLWLDLDWWDWD,5,3,0,10,4,12,4,4,9,21,29,LDLWWDWWDWWWWLLWD,1,2,6,10,18,DWWWDDWW,DWWWDWWLW
+Vitória Setúbal,Académica,2-1,/match/vitoria-setubal/academica/2009,2009,18,primeira_liga,16,30,0,2,1,16,3,4,10,9,22,DWWWLWLWWDLWLDLLD,3,0,6,6,14,9,4,6,7,12,17,WWWWDDDWLWWDDWWDW,0,2,6,2,9,WWLLWLLLL,WWDWWDWW
+Paços Ferreira,Porto,0-2,/match/pacos-ferreira/fc-porto/2009,2009,19,primeira_liga,16,30,2,0,2,12,4,4,10,23,32,LDLWWDWWDWWWWLLWDW,3,2,3,11,11,2,11,5,2,33,14,WDDWLLWWLWLDLDLLDW,6,2,1,19,8,LLDWWWLD,DDLWLLLLL
+Rio Ave,Vitória Setúbal,1-0,/match/rio-ave/vitoria-setubal/2009,2009,19,primeira_liga,16,30,0,1,0,16,3,4,11,12,23,DWDWWDLDLWWWLLWWWW,3,2,4,10,11,13,4,4,10,11,23,DWWWLWLWWDLWLDLLDW,0,4,4,3,8,DDWLLWLLW,DWWWDWDD
+Sporting CP,Benfica,3-2,/match/sporting-lisbon/benfica/2009,2009,19,primeira_liga,16,30,0,3,2,7,10,4,4,23,12,WLWWLDLLLWLDLWDDLL,4,1,3,12,7,1,10,7,1,30,15,DDLWDWLWLDLDWWDWDW,4,4,1,17,9,WWLLWDWL,DLDLLLWDD
+Académica,Marítimo,3-1,/match/academica/maritimo/2009,2009,19,primeira_liga,16,30,0,3,1,9,4,6,8,13,19,WWWWDDDWLWWDDWWDWW,4,4,1,10,8,6,8,5,5,20,16,WLDWLDWLDLLDWWDWWW,3,2,3,7,5,WWDDLWDWD,WDLLLDWW
+Estrela Amadora,Nacional,1-0,/match/estrela-amadora/nacional/2009,2009,19,primeira_liga,16,30,0,1,0,8,5,6,7,14,21,WWDLWWDWLWLDWDWDDW,4,3,2,9,8,3,9,5,4,30,19,LWLLDWWDWWWDLLDDLW,4,2,2,15,9,WDWDLLWWD,LLDWWDLL
+Naval,Sporting Braga,1-2,/match/naval/sporting-braga/2009,2009,19,primeira_liga,16,30,2,1,2,11,5,5,8,16,22,WWWDDWWWLDWDWWLWLD,4,2,2,8,8,5,8,5,5,19,11,LLWDDWDWDWDWWWLWLL,2,4,2,6,6,WWDWLDWL,LWDDDDWL
+Vitória,Trofense,0-1,/match/vitoria-guimaraes/trofense/2009,2009,19,primeira_liga,16,30,2,0,1,10,6,6,6,19,21,DLLLDDLWDWWDLDWLWW,2,4,2,5,6,15,3,5,10,15,25,WLWLWDLLWWDWWDLDWD,1,1,6,6,13,DLDLDWDW,WWWLWWDW
+Leixões,Belenenses,2-2,/match/leixoes/belenenses/2009,2009,19,primeira_liga,16,30,1,2,2,4,9,7,2,20,12,LLWLDLWLLDWDDDDDWL,3,4,1,10,7,14,3,6,9,15,28,WDWLDDDWWLWWWLDLDL,1,3,5,6,15,LWDWDDDW,WWDDWWWLD
+Benfica,Leixões,2-1,/match/benfica/leixoes/2009,2009,20,primeira_liga,16,30,0,2,1,1,10,7,2,32,18,DDLWDWLWLDLDWWDWDWW,6,3,0,13,6,3,9,8,2,22,14,LLWLDLWLLDWDDDDDWLD,6,3,1,10,5,DWWWDDWWW,LLLLLWDDDL
+Paços Ferreira,Rio Ave,2-0,/match/pacos-ferreira/rio-ave/2009,2009,20,primeira_liga,16,30,0,2,0,14,4,4,11,23,34,LDLWWDWWDWWWWLLWDWL,3,2,4,11,13,12,4,4,11,13,23,DWDWWDLDLWWWLLWWWWW,0,2,7,2,12,LLDWWWLDL,WWDDWWWWW
+Nacional,Académica,3-1,/match/nacional/academica/2009,2009,20,primeira_liga,16,30,0,3,1,5,9,5,5,30,20,LWLLDWWDWWWDLLDDLWW,5,3,2,15,10,9,5,6,8,16,20,WWWWDDDWLWWDDWWDWWW,0,2,7,3,11,WLWDWWLDDW,WWDWWDWWW
+Porto,Sporting CP,0-0,/match/fc-porto/sporting-lisbon/2009,2009,20,primeira_liga,16,30,1,0,0,2,12,5,2,35,14,WDDWLLWWLWLDLDLLDWL,5,3,1,14,6,4,11,4,4,26,14,WLWWLDLLLWLDLWDDLLW,6,3,1,11,5,WWLWWDDDW,LWDLLLLDDL
+Trofense,Estrela Amadora,1-1,/match/trofense/estrela-amadora/2009,2009,20,primeira_liga,16,30,1,1,1,13,4,5,10,16,25,WLWLWDLLWWDWWDLDWDL,2,4,4,9,12,8,6,6,7,15,21,WWDLWWDWLWLDWDWDDWW,1,3,5,5,13,LLDLWDWLDD,WLWWWDDDW
+Belenenses,Naval,1-2,/match/belenenses/naval/2009,2009,20,primeira_liga,16,30,2,1,2,16,3,7,9,17,30,WDWLDDDWWLWWWLDLDLD,2,3,4,9,13,11,5,5,9,17,24,WWWDDWWWLDWDWWLWLDL,1,3,6,8,14,DLDWLWDLL,WDWWDWWLWD
+Marítimo,Vitória Setúbal,5-1,/match/maritimo/vitoria-setubal/2009,2009,20,primeira_liga,16,30,0,5,1,7,8,5,6,21,19,WLDWLDWLDLLDWWDWWWW,5,3,2,13,11,15,4,4,11,11,24,DWWWLWLWWDLWLDLLDWW,0,4,5,3,9,LWDWDLWDWW,DWWWDWDDW
+Sporting Braga,Vitória,1-0,/match/sporting-braga/vitoria-guimaraes/2009,2009,20,primeira_liga,16,30,0,1,0,6,9,5,5,21,12,LLWDDWDWDWDWWWLWLLL,6,1,3,13,5,10,6,6,7,19,22,DLLLDDLWDWWDLDWLWWL,4,2,4,14,15,LDWWWWWLWL,LLDWWDLWLW
+Rio Ave,Marítimo,1-1,/match/rio-ave/maritimo/2009,2009,21,primeira_liga,16,30,1,1,1,14,4,4,12,13,25,DWDWWDLDLWWWLLWWWWWW,4,2,4,11,11,6,9,5,6,26,20,WLDWLDWLDLLDWWDWWWWW,3,2,4,8,8,DDWLLWLLWW,WDLLLDWWW
+Sporting CP,Paços Ferreira,2-0,/match/sporting-lisbon/pacos-ferreira/2009,2009,21,primeira_liga,16,30,0,2,0,5,11,5,4,26,14,WLWWLDLLLWLDLWDDLLWD,5,1,3,15,9,12,5,4,11,25,34,LDLWWDWWDWWWWLLWDWLW,1,2,7,12,21,WWLLWDWLW,DWWWDWWLWW
+Leixões,Porto,1-4,/match/leixoes/fc-porto/2009,2009,21,primeira_liga,16,30,2,1,4,7,9,8,3,23,16,LLWLDLWLLDWDDDDDWLDW,3,5,1,12,9,2,12,6,2,35,14,WDDWLLWWLWLDLDLLDWLD,7,2,1,21,8,LWDWDDDWD,DDLWLLLLLL
+Académica,Trofense,1-0,/match/academica/trofense/2009,2009,21,primeira_liga,16,30,0,1,0,9,5,6,9,17,23,WWWWDDDWLWWDDWWDWWWW,5,4,1,13,9,13,4,6,10,17,26,WLWLWDLLWWDWWDLDWDLD,2,1,6,7,13,WWDDLWDWDW,WWWLWWDWL
+Vitória,Belenenses,3-1,/match/vitoria-guimaraes/belenenses/2009,2009,21,primeira_liga,16,30,0,3,1,11,6,6,8,19,23,DLLLDDLWDWWDLDWLWWLW,2,4,3,5,7,16,3,7,10,18,32,WDWLDDDWWLWWWLDLDLDL,1,4,5,8,17,DLDLDWDWL,WWDDWWWLDD
+Estrela Amadora,Sporting Braga,2-2,/match/estrela-amadora/sporting-braga/2009,2009,21,primeira_liga,16,30,1,2,2,8,6,7,7,16,22,WWDLWWDWLWLDWDWDDWWD,5,3,2,10,8,4,10,5,5,22,12,LLWDDWDWDWDWWWLWLLLW,3,4,2,8,7,WDWDLLWWDW,LWDDDDWLL
+Naval,Benfica,1-2,/match/naval/benfica/2009,2009,21,primeira_liga,16,30,2,1,2,10,6,5,9,19,25,WWWDDWWWLDWDWWLWLDLL,4,2,3,9,10,1,11,7,2,34,19,DDLWDWLWLDLDWWDWDWWW,4,4,2,19,12,WWDWLDWLL,DLDLLLWDDW
+Vitória Setúbal,Nacional,2-0,/match/vitoria-setubal/nacional/2009,2009,21,primeira_liga,16,30,0,2,0,15,4,4,12,12,29,DWWWLWLWWDLWLDLLDWWW,4,0,6,8,15,3,10,5,5,33,21,LWLLDWWDWWWDLLDDLWWW,4,2,3,15,10,WWLLWLLLLW,LLDWWDLLW
+Paços Ferreira,Leixões,4-0,/match/pacos-ferreira/leixoes/2009,2009,22,primeira_liga,16,30,0,4,0,12,5,4,12,25,36,LDLWWDWWDWWWWLLWDWLWW,4,2,4,13,13,7,9,8,4,24,20,LLWLDLWLLDWDDDDDWLDWL,6,3,2,11,7,LLDWWWLDLW,LLLLLWDDDLW
+Benfica,Vitória,0-1,/match/benfica/vitoria-guimaraes/2009,2009,22,primeira_liga,16,30,2,0,1,1,12,7,2,36,20,DDLWDWLWLDLDWWDWDWWWL,7,3,0,15,7,10,7,6,8,22,24,DLLLDDLWDWWDLDWLWWLWW,4,2,5,14,16,DWWWDDWWWW,LLDWWDLWLWW
+Sporting CP,Rio Ave,2-0,/match/sporting-lisbon/rio-ave/2009,2009,22,primeira_liga,16,30,0,2,0,3,12,5,4,28,14,WLWWLDLLLWLDLWDDLLWDW,6,1,3,17,9,13,4,5,12,14,26,DWDWWDLDLWWWLLWWWWWWD,0,2,8,2,14,WWLLWDWLWW,WWDDWWWWWW
+Belenenses,Estrela Amadora,2-2,/match/belenenses/estrela-amadora/2009,2009,22,primeira_liga,16,30,1,2,2,16,3,7,11,19,35,WDWLDDDWWLWWWLDLDLDLW,2,3,5,10,15,8,6,8,7,18,24,WWDLWWDWLWLDWDWDDWWDD,1,4,5,6,14,DLDWLWDLLL,WLWWWDDDWD
+Trofense,Vitória Setúbal,0-1,/match/trofense/vitoria-setubal/2009,2009,22,primeira_liga,16,30,2,0,1,15,4,6,11,17,27,WLWLWDLLWWDWWDLDWDLDW,2,5,4,10,13,14,5,4,12,14,29,DWWWLWLWWDLWLDLLDWWWW,0,4,6,4,14,LLDLWDWLDDD,DWWWDWDDWW
+Sporting Braga,Académica,1-1,/match/sporting-braga/academica/2009,2009,22,primeira_liga,16,30,1,1,1,4,10,6,5,24,14,LLWDDWDWDWDWWWLWLLLWD,7,1,3,14,5,9,6,6,9,18,23,WWWWDDDWLWWDDWWDWWWWW,0,2,8,4,14,LDWWWWWLWLW,WWDWWDWWWW
+Porto,Naval,2-0,/match/fc-porto/naval/2009,2009,22,primeira_liga,16,30,0,2,0,2,13,6,2,39,15,WDDWLLWWLWLDLDLLDWLDL,5,4,1,14,6,11,6,5,10,20,27,WWWDDWWWLDWDWWLWLDLLL,2,3,6,10,15,WWLWWDDDWD,WDWWDWWLWDL
+Nacional,Marítimo,1-1,/match/nacional/maritimo/2009,2009,22,primeira_liga,16,30,1,1,1,5,10,5,6,33,23,LWLLDWWDWWWDLLDDLWWWW,6,3,2,18,11,6,9,6,6,27,21,WLDWLDWLDLLDWWDWWWWWD,3,3,4,9,9,WLWDWWLDDWW,WDLLLDWWWD
+Académica,Belenenses,1-0,/match/academica/belenenses/2009,2009,23,primeira_liga,16,30,0,1,0,9,6,7,9,19,24,WWWWDDDWLWWDDWWDWWWWWD,6,4,1,14,9,16,3,8,11,21,37,WDWLDDDWWLWWWLDLDLDLWD,1,4,6,9,20,WWDDLWDWDWW,WWDDWWWLDDW
+Vitória,Porto,1-3,/match/vitoria-guimaraes/fc-porto/2009,2009,23,primeira_liga,16,30,2,1,3,10,8,6,8,23,24,DLLLDDLWDWWDLDWLWWLWWL,3,4,3,8,8,1,14,6,2,41,15,WDDWLLWWLWLDLDLLDWLDLW,8,2,1,25,9,DLDLDWDWLW,DDLWLLLLLLL
+Marítimo,Trofense,1-1,/match/maritimo/trofense/2009,2009,23,primeira_liga,16,30,1,1,1,6,9,7,6,28,22,WLDWLDWLDLLDWWDWWWWWDD,6,3,2,18,12,15,4,6,12,17,28,WLWLWDLLWWDWWDLDWDLDWL,2,1,7,7,14,LWDWDLWDWWW,WWWLWWDWLW
+Vitória Setúbal,Sporting Braga,0-3,/match/vitoria-setubal/sporting-braga/2009,2009,23,primeira_liga,16,30,2,0,3,13,6,4,12,15,29,DWWWLWLWWDLWLDLLDWWWWL,5,0,6,10,15,4,10,7,5,25,15,LLWDDWDWDWDWWWLWLLLWDD,3,5,2,10,9,WWLLWLLLLWW,LWDDDDWLLD
+Naval,Paços Ferreira,0-0,/match/naval/pacos-ferreira/2009,2009,23,primeira_liga,16,30,1,0,0,12,6,5,11,20,29,WWWDDWWWLDWDWWLWLDLLLW,4,2,4,10,12,11,6,4,12,29,36,LDLWWDWWDWWWWLLWDWLWWW,1,2,8,12,23,WWDWLDWLLL,DWWWDWWLWWW
+Leixões,Sporting CP,0-1,/match/leixoes/sporting-lisbon/2009,2009,23,primeira_liga,16,30,2,0,1,7,9,8,5,24,24,LLWLDLWLLDWDDDDDWLDWLW,3,5,2,13,13,3,13,5,4,30,14,WLWWLDLLLWLDLWDDLLWDWW,6,4,1,11,5,LWDWDDDWDL,LWDLLLLDDLD
+Estrela Amadora,Benfica,1-2,/match/estrela-amadora/benfica/2009,2009,23,primeira_liga,16,30,2,1,2,8,6,9,7,20,26,WWDLWWDWLWLDWDWDDWWDDD,5,4,2,12,10,2,12,7,3,36,21,DDLWDWLWLDLDWWDWDWWWLL,5,4,2,21,13,WDWDLLWWDWD,DLDLLLWDDWL
+Rio Ave,Nacional,0-3,/match/rio-ave/nacional/2009,2009,23,primeira_liga,16,30,2,0,3,14,4,5,13,14,28,DWDWWDLDLWWWLLWWWWWWDW,4,3,4,12,12,5,10,6,6,34,24,LWLLDWWDWWWDLLDDLWWWWD,4,2,4,15,12,DDWLLWLLWWD,LLDWWDLLWW
+Sporting Braga,Marítimo,1-1,/match/sporting-braga/maritimo/2009,2009,24,primeira_liga,16,30,1,1,1,4,11,7,5,28,15,LLWDDWDWDWDWWWLWLLLWDDL,7,2,3,15,6,6,9,8,6,29,23,WLDWLDWLDLLDWWDWWWWWDDD,3,4,4,10,10,LDWWWWWLWLWD,WDLLLDWWWDD
+Paços Ferreira,Vitória,1-1,/match/pacos-ferreira/vitoria-guimaraes/2009,2009,24,primeira_liga,16,30,1,1,1,11,6,5,12,29,36,LDLWWDWWDWWWWLLWDWLWWWD,5,2,4,17,13,10,8,6,9,24,27,DLLLDDLWDWWDLDWLWWLWWLL,5,2,5,15,16,LLDWWWLDLWW,LLDWWDLWLWWL
+Leixões,Rio Ave,1-0,/match/leixoes/rio-ave/2009,2009,24,primeira_liga,16,30,0,1,0,8,9,8,6,24,25,LLWLDLWLLDWDDDDDWLDWLWL,3,5,3,13,14,14,4,5,14,14,31,DWDWWDLDLWWWLLWWWWWWDWL,0,2,9,2,16,LWDWDDDWDLL,WWDDWWWWWWW
+Belenenses,Vitória Setúbal,2-1,/match/belenenses/vitoria-setubal/2009,2009,24,primeira_liga,16,30,0,2,1,16,3,8,12,21,38,WDWLDDDWWLWWWLDLDLDLWDW,2,4,5,12,17,13,6,4,13,15,32,DWWWLWLWWDLWLDLLDWWWWLL,1,4,6,5,14,DLDWLWDLLLD,DWWWDWDDWWL
+Sporting CP,Naval,3-1,/match/sporting-lisbon/naval/2009,2009,24,primeira_liga,16,30,0,3,1,3,14,5,4,31,14,WLWWLDLLLWLDLWDDLLWDWWL,7,1,3,19,9,12,6,6,11,20,29,WWWDDWWWLDWDWWLWLDLLLWD,2,3,7,10,17,WWLLWDWLWWW,WDWWDWWLWDLW
+Benfica,Académica,0-1,/match/benfica/academica/2009,2009,24,primeira_liga,16,30,2,0,1,2,13,7,3,38,22,DDLWDWLWLDLDWWDWDWWWLLL,7,3,1,15,8,7,7,7,9,20,24,WWWWDDDWLWWDDWWDWWWWWDW,0,3,8,5,15,DWWWDDWWWWL,WWDWWDWWWWD
+Porto,Estrela Amadora,3-0,/match/fc-porto/estrela-amadora/2009,2009,24,primeira_liga,16,30,0,3,0,1,15,6,2,44,16,WDDWLLWWLWLDLDLLDWLDLWL,6,4,1,16,6,9,6,9,8,21,28,WWDLWWDWLWLDWDWDDWWDDDL,1,5,5,8,16,WWLWWDDDWDW,WLWWWDDDWDD
+Trofense,Nacional,1-2,/match/trofense/nacional/2009,2009,24,primeira_liga,16,30,2,1,2,15,4,7,12,18,29,WLWLWDLLWWDWWDLDWDLDWLD,2,5,5,10,14,5,11,6,6,37,24,LWLLDWWDWWWDLLDDLWWWWDL,5,2,4,18,12,LLDLWDWLDDDL,LLDWWDLLWWL
+Estrela Amadora,Paços Ferreira,0-2,/match/estrela-amadora/pacos-ferreira/2009,2009,25,primeira_liga,16,30,2,0,2,9,6,9,9,21,31,WWDLWWDWLWLDWDWDDWWDDDLW,5,4,3,13,12,11,6,6,12,30,37,LDLWWDWWDWWWWLLWDWLWWWDD,1,3,8,12,23,WDWDLLWWDWDL,DWWWDWWLWWWD
+Nacional,Sporting Braga,1-1,/match/nacional/sporting-braga/2009,2009,25,primeira_liga,16,30,1,1,1,5,12,6,6,39,25,LWLLDWWDWWWDLLDDLWWWWDLL,6,4,2,19,12,4,11,8,5,29,16,LLWDDWDWDWDWWWLWLLLWDDLD,4,5,2,13,9,WLWDWWLDDWWD,LWDDDDWLLDL
+Vitória,Sporting CP,1-2,/match/vitoria-guimaraes/sporting-lisbon/2009,2009,25,primeira_liga,16,30,2,1,2,10,8,7,9,25,28,DLLLDDLWDWWDLDWLWWLWWLLD,3,4,4,9,11,2,15,5,4,34,15,WLWWLDLLLWLDLWDDLLWDWWLW,7,4,1,12,5,DLDLDWDWLWL,LWDLLLLDDLDL
+Rio Ave,Trofense,2-1,/match/rio-ave/trofense/2009,2009,25,primeira_liga,16,30,0,2,1,15,4,5,15,14,32,DWDWWDLDLWWWLLWWWWWWDWLW,4,3,5,12,15,16,4,7,13,19,31,WLWLWDLLWWDWWDLDWDLDWLDL,2,2,7,8,15,DDWLLWLLWWDL,WWWLWWDWLWD
+Marítimo,Belenenses,1-1,/match/maritimo/belenenses/2009,2009,25,primeira_liga,16,30,1,1,1,6,9,9,6,30,24,WLDWLDWLDLLDWWDWWWWWDDDD,6,4,2,19,13,14,4,8,12,23,39,WDWLDDDWWLWWWLDLDLDLWDWW,1,4,7,9,21,LWDWDLWDWWWD,WWDDWWWLDDWW
+Académica,Porto,0-3,/match/academica/fc-porto/2009,2009,25,primeira_liga,16,30,2,0,3,7,8,7,9,21,24,WWWWDDDWLWWDDWWDWWWWWDWL,7,4,1,15,9,1,16,6,2,47,16,WDDWLLWWLWLDLDLLDWLDLWLW,9,2,1,28,10,WWDDLWDWDWWW,DDLWLLLLLLLL
+Vitória Setúbal,Benfica,0-4,/match/vitoria-setubal/benfica/2009,2009,25,primeira_liga,16,30,2,0,4,13,6,4,14,16,34,DWWWLWLWWDLWLDLLDWWWWLLW,5,0,7,10,18,3,13,7,4,38,23,DDLWDWLWLDLDWWDWDWWWLLLL,6,4,2,23,14,WWLLWLLLLWWL,DLDLLLWDDWLL
+Naval,Leixões,1-0,/match/naval/leixoes/2009,2009,25,primeira_liga,16,30,0,1,0,12,6,6,12,21,32,WWWDDWWWLDWDWWLWLDLLLWDW,4,3,4,10,12,8,10,8,6,25,25,LLWLDLWLLDWDDDDDWLDWLWLW,6,3,3,11,11,WWDWLDWLLLD,LLLLLWDDDLWW
+Sporting Braga,Trofense,1-0,/match/sporting-braga/trofense/2009,2009,26,primeira_liga,16,30,0,1,0,4,11,9,5,30,17,LLWDDWDWDWDWWWLWLLLWDDLDD,7,3,3,16,7,16,4,7,14,20,33,WLWLWDLLWWDWWDLDWDLDWLDLW,2,2,8,9,17,LDWWWWWLWLWDD,WWWLWWDWLWDW
+Sporting CP,Estrela Amadora,2-1,/match/sporting-lisbon/estrela-amadora/2009,2009,26,primeira_liga,16,30,0,2,1,2,16,5,4,36,16,WLWWLDLLLWLDLWDDLLWDWWLWL,8,1,3,22,10,9,6,9,10,21,33,WWDLWWDWLWLDWDWDDWWDDDLWL,1,5,6,8,19,WWLLWDWLWWWW,WLWWWDDDWDDW
+Naval,Rio Ave,0-1,/match/naval/rio-ave/2009,2009,26,primeira_liga,16,30,2,0,1,12,7,6,12,22,32,WWWDDWWWLDWDWWLWLDLLLWDWW,5,3,4,11,12,13,5,5,15,16,33,DWDWWDLDLWWWLLWWWWWWDWLWW,0,2,10,2,17,WWDWLDWLLLDW,WWDDWWWWWWWW
+Belenenses,Nacional,1-2,/match/belenenses/nacional/2009,2009,26,primeira_liga,16,30,2,1,2,14,4,9,12,24,40,WDWLDDDWWLWWWLDLDLDLWDWWD,3,4,5,14,18,5,12,7,6,40,26,LWLLDWWDWWWDLLDDLWWWWDLLD,6,2,4,20,13,DLDWLWDLLLDW,LLDWWDLLWWLL
+Porto,Vitória Setúbal,2-0,/match/fc-porto/vitoria-setubal/2009,2009,26,primeira_liga,16,30,0,2,0,1,17,6,2,50,16,WDDWLLWWLWLDLDLLDWLDLWLWL,7,4,1,19,6,15,6,4,15,16,38,DWWWLWLWWDLWLDLLDWWWWLLWL,1,4,7,6,16,WWLWWDDDWDWW,DWWWDWDDWWLW
+Benfica,Marítimo,3-2,/match/benfica/maritimo/2009,2009,26,primeira_liga,16,30,0,3,2,3,14,7,4,42,23,DDLWDWLWLDLDWWDWDWWWLLLLL,7,3,2,15,9,6,9,10,6,31,25,WLDWLDWLDLLDWWDWWWWWDDDDD,3,5,4,11,11,DWWWDDWWWWLL,WDLLLDWWWDDD
+Leixões,Vitória,2-2,/match/leixoes/vitoria-guimaraes/2009,2009,26,primeira_liga,16,30,1,2,2,8,10,8,7,25,26,LLWLDLWLLDWDDDDDWLDWLWLWW,4,5,3,14,14,10,8,7,10,26,30,DLLLDDLWDWWDLDWLWWLWWLLDL,5,3,5,16,17,LWDWDDDWDLLW,LLDWWDLWLWWLD
+Paços Ferreira,Académica,1-1,/match/pacos-ferreira/academica/2009,2009,26,primeira_liga,16,30,1,1,1,11,7,6,12,32,37,LDLWWDWWDWWWWLLWDWLWWWDDL,5,3,4,18,14,7,8,7,10,21,27,WWWWDDDWLWWDDWWDWWWWWDWLL,1,3,8,6,15,LLDWWWLDLWWD,WWDWWDWWWWDL
+Rio Ave,Sporting Braga,0-0,/match/rio-ave/sporting-braga/2009,2009,27,primeira_liga,16,30,1,0,0,13,6,5,15,17,33,DWDWWDLDLWWWLLWWWWWWDWLWWL,5,3,5,14,16,4,12,9,5,31,17,LLWDDWDWDWDWWWLWLLLWDDLDDW,4,6,2,14,10,DDWLLWLLWWDLW,LWDDDDWLLDLD
+Académica,Sporting CP,0-0,/match/academica/sporting-lisbon/2009,2009,27,primeira_liga,16,30,1,0,0,8,8,8,10,22,28,WWWWDDDWLWWDDWWDWWWWWDWLLD,7,4,2,15,12,2,17,5,4,38,17,WLWWLDLLLWLDLWDDLLWDWWLWLW,8,4,1,14,6,WWDDLWDWDWWWL,LWDLLLLDDLDLL
+Nacional,Benfica,3-1,/match/nacional/benfica/2009,2009,27,primeira_liga,16,30,0,3,1,5,13,7,6,42,27,LWLLDWWDWWWDLLDDLWWWWDLLDL,6,5,2,20,13,3,15,7,4,45,25,DDLWDWLWLDLDWWDWDWWWLLLLLW,7,4,2,27,14,WLWDWWLDDWWDD,DLDLLLWDDWLLL
+Estrela Amadora,Leixões,2-1,/match/estrela-amadora/leixoes/2009,2009,27,primeira_liga,16,30,0,2,1,9,6,9,11,22,35,WWDLWWDWLWLDWDWDDWWDDDLWLW,5,4,4,13,14,7,10,9,7,27,28,LLWLDLWLLDWDDDDDWLDWLWLWWD,6,3,4,11,12,WDWDLLWWDWDLL,LLLLLWDDDLWWW
+Vitória,Naval,1-0,/match/vitoria-guimaraes/naval/2009,2009,27,primeira_liga,16,30,0,1,0,11,8,8,10,28,32,DLLLDDLWDWWDLDWLWWLWWLLDLD,3,4,5,10,13,12,7,6,13,22,33,WWWDDWWWLDWDWWLWLDLLLWDWWL,2,3,8,11,20,DLDLDWDWLWLL,WDWWDWWLWDLWW
+Vitória Setúbal,Paços Ferreira,2-1,/match/vitoria-setubal/pacos-ferreira/2009,2009,27,primeira_liga,16,30,0,2,1,15,6,4,16,16,40,DWWWLWLWWDLWLDLLDWWWWLLWLW,5,0,8,10,22,10,7,7,12,33,38,LDLWWDWWDWWWWLLWDWLWWWDDLD,2,3,8,14,23,WWLLWLLLLWWLL,DWWWDWWLWWWDL
+Marítimo,Porto,0-3,/match/maritimo/fc-porto/2009,2009,27,primeira_liga,16,30,2,0,3,6,9,10,7,33,28,WLDWLDWLDLLDWWDWWWWWDDDDDW,6,5,2,20,14,1,18,6,2,52,16,WDDWLLWWLWLDLDLLDWLDLWLWLW,10,2,1,31,10,LWDWDLWDWWWDD,DDLWLLLLLLLLL
+Trofense,Belenenses,2-1,/match/trofense/belenenses/2009,2009,27,primeira_liga,16,30,0,2,1,16,4,7,15,20,34,WLWLWDLLWWDWWDLDWDLDWLDLWW,2,5,6,11,16,14,4,9,13,25,42,WDWLDDDWWLWWWLDLDLDLWDWWDL,1,5,7,10,22,LLDLWDWLDDDLL,WWDDWWWLDDWWD
+Vitória,Rio Ave,0-1,/match/vitoria-guimaraes/rio-ave/2009,2009,28,primeira_liga,16,30,2,0,1,10,9,8,10,29,32,DLLLDDLWDWWDLDWLWWLWWLLDLDW,4,4,5,11,13,13,6,6,15,17,33,DWDWWDLDLWWWLLWWWWWWDWLWWLD,1,2,10,3,17,DLDLDWDWLWLLW,WWDDWWWWWWWWL
+Benfica,Trofense,2-2,/match/benfica/trofense/2009,2009,28,primeira_liga,16,30,1,2,2,3,15,7,5,46,28,DDLWDWLWLDLDWWDWDWWWLLLLLWW,8,3,2,18,11,15,5,7,15,22,35,WLWLWDLLWWDWWDLDWDLDWLDLWWW,2,2,9,9,18,DWWWDDWWWWLLW,WWWLWWDWLWDWW
+Sporting CP,Vitória Setúbal,2-1,/match/sporting-lisbon/vitoria-setubal/2009,2009,28,primeira_liga,16,30,0,2,1,2,17,6,4,38,17,WLWWLDLLLWLDLWDDLLWDWWLWLWD,9,1,3,24,11,14,7,4,16,18,41,DWWWLWLWWDLWLDLLDWWWWLLWLWW,1,4,8,6,18,WWLLWDWLWWWWW,DWWWDWDDWWLWW
+Naval,Estrela Amadora,0-0,/match/naval/estrela-amadora/2009,2009,28,primeira_liga,16,30,1,0,0,12,7,6,14,22,34,WWWDDWWWLDWDWWLWLDLLLWDWWLW,5,3,5,11,13,9,7,9,11,24,36,WWDLWWDWLWLDWDWDDWWDDDLWLWW,1,5,7,9,21,WWDWLDWLLLDWL,WLWWWDDDWDDWW
+Paços Ferreira,Marítimo,2-1,/match/pacos-ferreira/maritimo/2009,2009,28,primeira_liga,16,30,0,2,1,11,7,7,13,34,40,LDLWWDWWDWWWWLLWDWLWWWDDLDW,5,4,4,19,15,6,9,10,8,33,31,WLDWLDWLDLLDWWDWWWWWDDDDDWL,3,5,5,13,14,LLDWWWLDLWWDD,WDLLLDWWWDDDW
+Leixões,Académica,0-1,/match/leixoes/academica/2009,2009,28,primeira_liga,16,30,2,0,1,8,10,9,8,28,30,LLWLDLWLLDWDDDDDWLDWLWLWWDW,4,6,3,16,16,7,8,9,10,22,28,WWWWDDDWLWWDDWWDWWWWWDWLLDD,1,4,8,7,16,LWDWDDDWDLLWD,WWDWWDWWWWDLD
+Porto,Nacional,1-0,/match/fc-porto/nacional/2009,2009,28,primeira_liga,16,30,0,1,0,1,19,6,2,55,16,WDDWLLWWLWLDLDLLDWLDLWLWLWL,8,4,1,21,6,4,14,7,6,45,28,LWLLDWWDWWWDLLDDLWWWWDLLDLW,7,2,4,22,14,WWLWWDDDWDWWW,LLDWWDLLWWLLL
+Belenenses,Sporting Braga,0-5,/match/belenenses/sporting-braga/2009,2009,28,primeira_liga,16,30,2,0,5,16,4,9,14,26,44,WDWLDDDWWLWWWLDLDLDLWDWWDLW,3,4,6,15,20,5,12,10,5,31,17,LLWDDWDWDWDWWWLWLLLWDDLDDWD,4,7,2,14,10,DLDWLWDLLLDWL,LWDDDDWLLDLDD
+Belenenses,Rio Ave,1-0,/match/belenenses/rio-ave/2009,2009,29,primeira_liga,16,30,0,1,0,16,4,9,15,26,49,WDWLDDDWWLWWWLDLDLDLWDWWDLWL,3,4,7,15,25,13,7,6,15,18,33,DWDWWDLDLWWWLLWWWWWWDWLWWLDL,2,2,10,4,17,DLDWLWDLLLDWLL,WWDDWWWWWWWWLL
+Vitória Setúbal,Leixões,0-1,/match/vitoria-setubal/leixoes/2009,2009,29,primeira_liga,16,30,2,0,1,14,7,4,17,19,43,DWWWLWLWWDLWLDLLDWWWWLLWLWWW,6,0,8,12,23,8,10,9,9,28,31,LLWLDLWLLDWDDDDDWLDWLWLWWDWL,6,3,5,12,14,WWLLWLLLLWWLLW,LLLLLWDDDLWWWW
+Trofense,Porto,1-4,/match/trofense/fc-porto/2009,2009,29,primeira_liga,16,30,2,1,4,15,5,8,15,24,37,WLWLWDLLWWDWWDLDWDLDWLDLWWWD,3,5,6,13,17,1,20,6,2,56,16,WDDWLLWWLWLDLDLLDWLDLWLWLWLW,11,2,1,34,10,LLDLWDWLDDDLLW,DDLWLLLLLLLLLL
+Estrela Amadora,Vitória,1-0,/match/estrela-amadora/vitoria-guimaraes/2009,2009,29,primeira_liga,16,30,0,1,0,9,7,10,11,24,36,WWDLWWDWLWLDWDWDDWWDDDLWLWWD,6,4,4,15,15,11,9,8,11,29,33,DLLLDDLWDWWDLDWLWWLWWLLDLDWL,5,4,5,18,19,WDWDLLWWDWDLLW,LLDWWDLWLWWLDD
+Marítimo,Sporting CP,1-2,/match/maritimo/sporting-lisbon/2009,2009,29,primeira_liga,16,30,2,1,2,7,9,10,9,34,33,WLDWLDWLDLLDWWDWWWWWDDDDDWLW,6,5,3,20,17,2,18,6,4,40,18,WLWWLDLLLWLDLWDDLLWDWWLWLWDW,8,5,1,14,6,LWDWDLWDWWWDDL,LWDLLLLDDLDLLD
+Académica,Naval,3-1,/match/academica/naval/2009,2009,29,primeira_liga,16,30,0,3,1,6,9,9,10,23,28,WWWWDDDWLWWDDWWDWWWWWDWLLDDL,7,5,2,15,12,12,7,7,14,22,34,WWWDDWWWLDWDWWLWLDLLLWDWWLWD,2,3,9,11,21,WWDDLWDWDWWWLD,WDWWDWWLWDLWWW
+Nacional,Paços Ferreira,1-0,/match/nacional/pacos-ferreira/2009,2009,29,primeira_liga,16,30,0,1,0,5,14,7,7,45,29,LWLLDWWDWWWDLLDDLWWWWDLLDLWW,7,5,2,23,14,10,8,7,13,36,41,LDLWWDWWDWWWWLLWDWLWWWDDLDWW,2,3,9,15,25,WLWDWWLDDWWDDW,DWWWDWWLWWWDLW
+Sporting Braga,Benfica,1-3,/match/sporting-braga/benfica/2009,2009,29,primeira_liga,16,30,2,1,3,4,13,10,5,36,17,LLWDDWDWDWDWWWLWLLLWDDLDDWDL,8,3,3,17,7,3,15,8,5,48,30,DDLWDWLWLDLDWWDWDWWWLLLLLWWD,7,4,3,28,17,LDWWWWWLWLWDDW,DLDLLLWDDWLLLW
+Vitória,Académica,3-2,/match/vitoria-guimaraes/academica/2009,2009,30,primeira_liga,16,30,0,3,2,11,9,8,12,29,34,DLLLDDLWDWWDLDWLWWLWWLLDLDWLW,4,4,6,11,14,6,10,9,10,26,29,WWWWDDDWLWWDDWWDWWWWWDWLLDDLW,2,4,8,8,16,DLDLDWDWLWLLWL,WWDWWDWWWWDLDL
+Leixões,Marítimo,1-0,/match/leixoes/maritimo/2009,2009,30,primeira_liga,16,30,0,1,0,8,11,9,9,29,31,LLWLDLWLLDWDDDDDWLDWLWLWWDWLL,4,6,4,16,17,7,9,10,10,35,35,WLDWLDWLDLLDWWDWWWWWDDDDDWLWL,3,5,6,14,16,LWDWDDDWDLLWDL,WDLLLDWWWDDDWW
+Benfica,Belenenses,3-1,/match/benfica/belenenses/2009,2009,30,primeira_liga,16,30,0,3,1,3,16,8,5,51,31,DDLWDWLWLDLDWWDWDWWWLLLLLWWDL,8,4,2,20,13,14,5,9,15,27,49,WDWLDDDWWLWWWLDLDLDLWDWWDLWLW,1,5,8,11,24,DWWWDDWWWWLLWD,WWDDWWWLDDWWDW
+Naval,Vitória Setúbal,2-2,/match/naval/vitoria-setubal/2009,2009,30,primeira_liga,16,30,1,2,2,12,7,7,15,23,37,WWWDDWWWLDWDWWLWLDLLLWDWWLWDW,5,4,5,11,13,15,7,4,18,19,44,DWWWLWLWWDLWLDLLDWWWWLLWLWWWL,1,4,9,7,20,WWDWLDWLLLDWLD,DWWWDWDDWWLWWW
+Paços Ferreira,Trofense,1-0,/match/pacos-ferreira/trofense/2009,2009,30,primeira_liga,16,30,0,1,0,10,8,7,14,36,42,LDLWWDWWDWWWWLLWDWLWWWDDLDWWW,6,4,4,21,16,16,5,8,16,25,41,WLWLWDLLWWDWWDLDWDLDWLDLWWWDL,2,3,9,11,20,LLDWWWLDLWWDDW,WWWLWWDWLWDWWD
+Rio Ave,Estrela Amadora,2-1,/match/rio-ave/estrela-amadora/2009,2009,30,primeira_liga,16,30,0,2,1,13,7,6,16,18,34,DWDWWDLDLWWWLLWWWWWWDWLWWLDLW,5,4,5,14,16,9,8,10,11,25,36,WWDLWWDWLWLDWDWDDWWDDDLWLWWDW,1,6,7,9,21,DDWLLWLLWWDLWD,WLWWWDDDWDDWWD
+Sporting CP,Nacional,3-1,/match/sporting-lisbon/nacional/2009,2009,30,primeira_liga,16,30,0,3,1,2,19,6,4,42,19,WLWWLDLLLWLDLWDDLLWDWWLWLWDWL,10,1,3,26,12,4,15,7,7,46,29,LWLLDWWDWWWDLLDDLWWWWDLLDLWWW,7,2,5,22,15,WWLLWDWLWWWWWW,LLDWWDLLWWLLLW
+Porto,Sporting Braga,1-1,/match/fc-porto/sporting-braga/2009,2009,30,primeira_liga,16,30,1,1,1,1,21,6,2,60,17,WDDWLLWWLWLDLDLLDWLDLWLWLWLWL,9,4,1,22,6,5,13,10,6,37,20,LLWDDWDWDWDWWWLWLLLWDDLDDWDLL,5,7,2,19,10,WWLWWDDDWDWWWW,LWDDDDWLLDLDDL

@@ -1,0 +1,381 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+SSC Bari,Brescia,2-0,/match/as-bari/brescia/1997,1997,1,serie_b,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Castel Sangro,Cosenza Calcio,1-0,/match/castel-sangro/fortitudo-cosenza/1997,1997,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chievo,Cremonese,1-0,/match/chievo/us-cremonese/1997,1997,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Genoa,Lucchese Libertas,1-1,/match/genoa/luchese/1997,1997,1,serie_b,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Padova,Empoli,1-0,/match/calcio-padova/empoli-fc/1997,1997,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Pescara,0-0,/match/palermo/pescara-calcio/1997,1997,1,serie_b,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ravenna FC,Venezia,2-1,/match/ravenna-calcio/venezia/1997,1997,1,serie_b,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Reggina,Lecce,1-2,/match/reggina/lecce/1997,1997,1,serie_b,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Salernitana,Calcio Foggia,2-0,/match/salernitana-calcio-1919/us-foggia/1997,1997,1,serie_b,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Torino,Cesena,1-0,/match/torino-fc/ac-cesena/1997,1997,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cremonese,Genoa,2-1,/match/us-cremonese/genoa/1997,1997,2,serie_b,20,38,0,2,1,17,0,0,1,0,1,W,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
+Brescia,Palermo FC,1-1,/match/brescia/palermo/1997,1997,2,serie_b,20,38,1,1,1,13,0,0,1,0,2,W,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
+Cesena,Reggina,3-1,/match/ac-cesena/reggina/1997,1997,2,serie_b,20,38,0,3,1,14,0,0,1,0,1,W,0,0,0,0,0,15,0,0,1,1,2,L,0,0,0,0,0,,
+Cosenza Calcio,SSC Bari,1-0,/match/fortitudo-cosenza/as-bari/1997,1997,2,serie_b,20,38,0,1,0,18,0,0,1,0,1,W,0,0,0,0,0,4,1,0,0,2,0,W,0,0,0,0,0,,
+Empoli,Salernitana,2-0,/match/empoli-fc/salernitana-calcio-1919/1997,1997,2,serie_b,20,38,0,2,0,19,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
+Calcio Foggia,Castel Sangro,2-0,/match/us-foggia/castel-sangro/1997,1997,2,serie_b,20,38,0,2,0,16,0,0,1,0,2,W,0,0,0,0,0,5,1,0,0,1,0,W,0,0,0,0,0,,
+Lecce,Padova,3-0,/match/lecce/calcio-padova/1997,1997,2,serie_b,20,38,0,3,0,10,1,0,0,2,1,L,0,0,0,0,0,7,1,0,0,1,0,W,0,0,0,0,0,,
+Lucchese Libertas,Chievo,0-0,/match/luchese/chievo/1997,1997,2,serie_b,20,38,1,0,0,12,0,1,0,1,1,D,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Pescara,Ravenna FC,2-1,/match/pescara-calcio/ravenna-calcio/1997,1997,2,serie_b,20,38,0,2,1,11,0,1,0,0,0,D,0,0,0,0,0,6,1,0,0,2,1,W,0,0,0,0,0,,
+Venezia,Torino,1-1,/match/venezia/torino-fc/1997,1997,2,serie_b,20,38,1,1,1,20,0,0,1,1,2,W,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Brescia,Lucchese Libertas,1-0,/match/brescia/luchese/1997,1997,3,serie_b,20,38,0,1,0,17,0,1,1,1,3,WD,0,1,0,1,1,15,0,2,0,1,1,DD,0,1,0,1,1,D,D
+Castel Sangro,Cremonese,2-0,/match/castel-sangro/us-cremonese/1997,1997,3,serie_b,20,38,0,2,0,12,1,0,1,1,2,WW,1,0,0,1,0,13,1,0,1,2,2,WW,0,0,1,0,1,W,W
+Chievo,Cesena,2-1,/match/chievo/ac-cesena/1997,1997,3,serie_b,20,38,0,2,1,4,1,1,0,1,0,WD,1,0,0,1,0,14,1,0,1,3,2,WW,0,0,1,0,1,W,W
+Genoa,Cosenza Calcio,3-0,/match/genoa/fortitudo-cosenza/1997,1997,3,serie_b,20,38,0,3,0,18,0,1,1,2,3,DW,0,1,0,1,1,10,1,0,1,1,1,WW,0,0,1,0,1,D,W
+Lecce,Calcio Foggia,2-1,/match/lecce/us-foggia/1997,1997,3,serie_b,20,38,0,2,1,1,2,0,0,5,1,LW,1,0,0,3,0,6,1,0,1,2,2,WW,0,0,1,0,2,W,W
+Padova,Venezia,2-1,/match/calcio-padova/venezia/1997,1997,3,serie_b,20,38,0,2,1,8,1,0,1,1,3,WW,1,0,0,1,0,19,0,1,1,2,3,WD,0,0,1,1,2,W,W
+Ravenna FC,Empoli,1-1,/match/ravenna-calcio/empoli-fc/1997,1997,3,serie_b,20,38,1,1,1,7,1,0,1,3,3,WW,1,0,0,2,1,9,1,0,1,2,1,WW,0,0,1,0,1,W,W
+Reggina,Pescara,2-3,/match/reggina/pescara-calcio/1997,1997,3,serie_b,20,38,2,2,3,20,0,0,2,2,5,LW,0,0,1,1,2,3,1,1,0,2,1,DW,0,1,0,0,0,L,D
+Salernitana,Palermo FC,0-0,/match/salernitana-calcio-1919/palermo/1997,1997,3,serie_b,20,38,1,0,0,11,1,0,1,2,2,WW,1,0,0,2,0,16,0,2,0,1,1,DD,0,1,0,1,1,W,D
+Torino,SSC Bari,2-2,/match/torino-fc/as-bari/1997,1997,3,serie_b,20,38,1,2,2,2,1,1,0,2,1,WD,1,0,0,1,0,5,1,0,1,2,1,WW,0,0,1,0,1,W,W
+Pescara,Brescia,1-1,/match/pescara-calcio/brescia/1997,1997,4,serie_b,20,38,1,1,1,6,2,1,0,5,3,DWL,1,0,0,2,1,8,1,1,1,2,3,WDW,0,0,1,0,2,W,W
+SSC Bari,Reggina,1-1,/match/as-bari/reggina/1997,1997,4,serie_b,20,38,1,1,1,12,1,1,1,4,3,WWD,1,0,0,2,0,20,0,0,3,4,8,LWL,0,0,1,1,3,W,W
+Cesena,Genoa,1-1,/match/ac-cesena/genoa/1997,1997,4,serie_b,20,38,1,1,1,15,1,0,2,4,4,WWW,1,0,0,3,1,7,1,1,1,5,3,DWW,0,0,1,1,2,W,W
+Cosenza Calcio,Chievo,1-1,/match/fortitudo-cosenza/chievo/1997,1997,4,serie_b,20,38,1,1,1,13,1,0,2,1,4,WWW,1,0,0,1,0,2,2,1,0,3,1,WDW,0,1,0,0,0,W,D
+Cremonese,Ravenna FC,0-1,/match/us-cremonese/ravenna-calcio/1997,1997,4,serie_b,20,38,2,0,1,14,1,0,2,2,4,WWW,1,0,0,2,1,10,1,1,1,4,4,WWD,0,0,1,1,2,W,W
+Empoli,Torino,2-0,/match/empoli-fc/torino-fc/1997,1997,4,serie_b,20,38,0,2,0,11,1,1,1,3,2,WWD,1,0,0,2,0,5,1,2,0,4,3,WDD,0,1,0,1,1,W,D
+Calcio Foggia,Padova,1-1,/match/us-foggia/calcio-padova/1997,1997,4,serie_b,20,38,1,1,1,17,1,0,2,3,4,WWW,1,0,0,2,0,4,2,0,1,3,4,WWW,0,0,1,0,3,W,W
+Lucchese Libertas,Salernitana,3-0,/match/luchese/salernitana-calcio-1919/1997,1997,4,serie_b,20,38,0,3,0,18,0,2,1,1,2,DDW,0,1,0,0,0,9,1,1,1,2,2,WWD,0,0,1,0,2,D,W
+Palermo FC,Castel Sangro,3-0,/match/palermo/castel-sangro/1997,1997,4,serie_b,20,38,0,3,0,16,0,3,0,1,1,DDD,0,1,0,0,0,3,2,0,1,3,2,WWW,0,0,1,0,2,D,W
+Venezia,Lecce,0-1,/match/venezia/lecce/1997,1997,4,serie_b,20,38,2,0,1,19,0,1,2,3,5,WDW,0,1,0,1,1,1,3,0,0,7,2,LWW,1,0,0,2,1,D,L
+Brescia,Cesena,1-1,/match/brescia/ac-cesena/1997,1997,5,serie_b,20,38,1,1,1,11,1,2,1,3,4,WDWD,1,1,0,2,1,16,1,1,2,5,5,WWWD,0,0,2,1,3,DW,WW
+Chievo,Castel Sangro,2-0,/match/chievo/castel-sangro/1997,1997,5,serie_b,20,38,0,2,0,2,2,2,0,4,2,WDWD,2,0,0,3,1,7,2,0,2,3,5,WWWW,0,0,2,0,5,WW,WW
+Genoa,SSC Bari,0-0,/match/genoa/as-bari/1997,1997,5,serie_b,20,38,1,0,0,10,1,2,1,6,4,DWWD,1,1,0,4,1,12,1,2,1,5,4,WWDD,0,1,1,2,3,DW,WD
+Lecce,Empoli,2-0,/match/lecce/empoli-fc/1997,1997,5,serie_b,20,38,0,2,0,1,4,0,0,8,2,LWWL,2,0,0,5,1,4,2,1,1,5,2,WWDW,0,1,1,1,2,WW,WD
+Padova,Palermo FC,4-0,/match/calcio-padova/palermo/1997,1997,5,serie_b,20,38,0,4,0,5,2,1,1,4,5,WWWD,2,0,0,3,1,8,1,3,0,4,1,DDDW,0,2,0,1,1,WW,DD
+Pescara,Calcio Foggia,4-0,/match/pescara-calcio/us-foggia/1997,1997,5,serie_b,20,38,0,4,0,3,2,2,0,6,4,DWLD,1,1,0,3,2,17,1,1,2,4,5,WWWD,0,0,2,1,4,WD,WW
+Ravenna FC,Lucchese Libertas,0-0,/match/ravenna-calcio/luchese/1997,1997,5,serie_b,20,38,1,0,0,6,2,1,1,5,4,WWDL,1,1,0,3,2,13,1,2,1,4,2,DDWW,0,1,1,1,2,WD,DW
+Reggina,Venezia,1-1,/match/reggina/venezia/1997,1997,5,serie_b,20,38,1,1,1,20,0,1,3,5,9,LWLD,0,0,2,3,5,19,0,1,3,3,6,WDWL,0,0,2,2,4,LL,WW
+Salernitana,Cremonese,1-0,/match/salernitana-calcio-1919/us-cremonese/1997,1997,5,serie_b,20,38,0,1,0,14,1,1,2,2,5,WWDW,1,1,0,2,0,18,1,0,3,2,5,WWWL,0,0,2,0,3,WD,WW
+Torino,Cosenza Calcio,3-1,/match/torino-fc/fortitudo-cosenza/1997,1997,5,serie_b,20,38,0,3,1,9,1,2,1,4,5,WDDW,1,1,0,3,2,15,1,1,2,2,5,WWWD,0,0,2,0,4,WD,WW
+SSC Bari,Chievo,2-2,/match/as-bari/chievo/1997,1997,6,serie_b,20,38,1,2,2,13,1,3,1,5,4,WWDDD,1,1,0,3,1,2,3,2,0,6,2,WDWDW,0,2,0,1,1,WD,DD
+Castel Sangro,Ravenna FC,0-2,/match/castel-sangro/ravenna-calcio/1997,1997,6,serie_b,20,38,2,0,2,12,2,0,3,3,7,WWWWW,2,0,0,3,0,7,2,2,1,5,4,WWDLD,1,0,1,2,2,WW,WL
+Cesena,Pescara,1-1,/match/ac-cesena/pescara-calcio/1997,1997,6,serie_b,20,38,1,1,1,15,1,2,2,6,6,WWWDD,1,1,0,4,2,3,3,2,0,10,4,DWLDW,1,1,0,3,2,WD,DL
+Cosenza Calcio,Brescia,1-1,/match/fortitudo-cosenza/brescia/1997,1997,6,serie_b,20,38,1,1,1,16,1,1,3,3,8,WWWDW,1,1,0,2,1,9,1,3,1,4,5,WDWDD,0,1,1,1,3,WD,WD
+Cremonese,Padova,0-0,/match/us-cremonese/calcio-padova/1997,1997,6,serie_b,20,38,1,0,0,18,1,0,4,2,6,WWWLW,1,0,1,2,2,4,3,1,1,8,5,WWWDW,0,1,1,1,4,WL,WD
+Calcio Foggia,Venezia,2-0,/match/us-foggia/venezia/1997,1997,6,serie_b,20,38,0,2,0,17,1,1,3,4,9,WWWDW,1,1,0,3,1,19,0,2,3,4,7,WDWLD,0,1,2,3,5,WD,WWD
+Genoa,Lecce,2-0,/match/genoa/lecce/1997,1997,6,serie_b,20,38,0,2,0,8,1,3,1,6,4,DWWDD,1,2,0,4,1,1,5,0,0,10,2,LWWLW,2,0,0,3,1,DWD,LL
+Lucchese Libertas,Reggina,2-0,/match/luchese/reggina/1997,1997,6,serie_b,20,38,0,2,0,14,1,3,1,4,2,DDWWD,1,1,0,3,0,20,0,2,3,6,10,LWLDD,0,1,1,2,4,DW,WD
+Palermo FC,Empoli,0-1,/match/palermo/empoli-fc/1997,1997,6,serie_b,20,38,2,0,1,11,1,3,1,4,5,DDDWW,1,1,0,3,0,10,2,1,2,5,4,WWDWW,0,1,2,1,4,DW,WDW
+Torino,Salernitana,1-0,/match/torino-fc/salernitana-calcio-1919/1997,1997,6,serie_b,20,38,0,1,0,5,2,2,1,7,6,WDDWW,2,1,0,6,3,6,2,1,2,3,5,WWDWW,0,0,2,0,5,WDW,WW
+Salernitana,Cesena,1-0,/match/salernitana-calcio-1919/ac-cesena/1997,1997,7,serie_b,20,38,0,1,0,10,2,1,3,3,6,WWDWWW,2,1,0,3,0,14,1,3,2,7,7,WWWDDD,0,1,2,2,4,WDW,WWD
+Brescia,Torino,0-0,/match/brescia/torino-fc/1997,1997,7,serie_b,20,38,1,0,0,11,1,4,1,5,6,WDWDDD,1,2,0,3,2,2,3,2,1,8,6,WDDWWW,0,1,1,1,3,DWD,DW
+Empoli,Castel Sangro,1-1,/match/empoli-fc/castel-sangro/1997,1997,7,serie_b,20,38,1,1,1,9,3,1,2,6,4,WWDWWL,2,0,0,4,0,17,2,0,4,3,9,WWWWWL,0,0,3,0,7,WW,WWW
+Calcio Foggia,Cosenza Calcio,1-0,/match/us-foggia/fortitudo-cosenza/1997,1997,7,serie_b,20,38,0,1,0,12,2,1,3,6,9,WWWDWW,2,1,0,5,1,15,1,2,3,4,9,WWWDWD,0,0,3,1,7,WDW,WWW
+Lecce,Chievo,3-1,/match/lecce/chievo/1997,1997,7,serie_b,20,38,0,3,1,1,5,0,1,10,4,LWWLWW,3,0,0,7,1,3,3,3,0,8,4,WDWDWD,0,3,0,3,3,WWW,DDD
+Padova,Lucchese Libertas,1-0,/match/calcio-padova/luchese/1997,1997,7,serie_b,20,38,0,1,0,5,3,2,1,8,5,WWWDWD,3,0,0,7,1,8,2,3,1,6,2,DDWWDW,0,2,1,1,2,WWW,DWD
+Pescara,Cremonese,1-0,/match/pescara-calcio/us-cremonese/1997,1997,7,serie_b,20,38,0,1,0,4,3,3,0,11,5,DWLDWD,2,1,0,7,2,18,1,1,4,2,6,WWWLWD,0,0,3,0,4,WDW,WWW
+Ravenna FC,SSC Bari,1-2,/match/ravenna-calcio/as-bari/1997,1997,7,serie_b,20,38,2,1,2,7,3,2,1,7,4,WWDLDL,1,2,0,3,2,13,1,4,1,7,6,WWDDDD,0,2,1,2,3,WDD,WDD
+Reggina,Genoa,0-0,/match/reggina/genoa/1997,1997,7,serie_b,20,38,1,0,0,20,0,2,4,6,12,LWLDDW,0,1,2,4,6,6,2,3,1,8,4,DWWDDW,0,1,1,2,3,LLD,WD
+Venezia,Palermo FC,3-1,/match/venezia/palermo/1997,1997,7,serie_b,20,38,0,3,1,19,0,2,4,4,9,WDWLDW,0,1,1,1,2,16,1,3,2,4,6,DDDWWL,0,2,1,1,5,DL,DDW
+SSC Bari,Empoli,5-0,/match/as-bari/empoli-fc/1997,1997,8,serie_b,20,38,0,5,0,10,2,4,1,9,7,WWDDDDL,1,2,0,5,3,9,3,2,2,7,5,WWDWWLD,1,1,2,2,4,WDD,WDWL
+Castel Sangro,Padova,1-0,/match/castel-sangro/calcio-padova/1997,1997,8,serie_b,20,38,0,1,0,15,2,1,4,4,10,WWWWWLD,2,0,1,3,2,3,4,2,1,9,5,WWWDWDW,0,2,1,1,4,WWL,WDD
+Cesena,Venezia,1-1,/match/ac-cesena/venezia/1997,1997,8,serie_b,20,38,1,1,1,14,1,3,3,7,8,WWWDDDW,1,2,0,5,3,18,1,2,4,7,10,WDWLDWW,0,1,3,3,7,WDD,WWDW
+Chievo,Brescia,0-1,/match/chievo/brescia/1997,1997,8,serie_b,20,38,2,0,1,5,3,3,1,9,7,WDWDWDW,3,0,0,5,1,11,1,5,1,5,6,WDWDDDD,0,2,1,2,4,WWW,WDD
+Cosenza Calcio,Reggina,0-0,/match/fortitudo-cosenza/reggina/1997,1997,8,serie_b,20,38,1,0,0,16,1,2,4,4,10,WWWDWDW,1,2,0,3,2,20,0,3,4,6,12,LWLDDWD,0,1,2,2,6,WDD,WDW
+Cremonese,Lecce,0-1,/match/us-cremonese/lecce/1997,1997,8,serie_b,20,38,2,0,1,19,1,1,5,2,7,WWWLWDW,1,1,1,2,2,1,6,0,1,13,5,LWWLWWW,2,0,1,3,3,WLD,LLW
+Genoa,Salernitana,1-1,/match/genoa/salernitana-calcio-1919/1997,1997,8,serie_b,20,38,1,1,1,6,2,4,1,8,4,DWWDDWD,2,2,0,6,1,8,3,1,3,4,6,WWDWWWW,0,0,3,0,6,DWDW,WWW
+Lucchese Libertas,Calcio Foggia,1-0,/match/luchese/us-foggia/1997,1997,8,serie_b,20,38,0,1,0,12,2,3,2,6,3,DDWWDWW,2,1,0,5,0,7,3,1,3,7,9,WWWDWWW,0,0,3,1,8,DWW,WWW
+Palermo FC,Ravenna FC,2-0,/match/palermo/ravenna-calcio/1997,1997,8,serie_b,20,38,0,2,0,17,1,3,3,5,9,DDDWWLW,1,1,1,3,1,13,3,2,2,8,6,WWDLDLL,2,0,1,4,2,DWL,WLL
+Torino,Pescara,0-2,/match/torino-fc/pescara-calcio/1997,1997,8,serie_b,20,38,2,0,2,4,3,3,1,8,6,WDDWWWD,3,1,0,7,3,2,4,3,0,12,5,DWLDWDW,1,2,0,4,3,WDWW,DLD
+Padova,Torino,0-2,/match/calcio-padova/torino-fc/1997,1997,9,serie_b,20,38,2,0,2,3,4,2,2,9,6,WWWDWDWW,4,0,0,8,1,5,3,3,2,8,8,WDDWWWDL,0,2,1,1,3,WWWW,DWD
+Brescia,Cremonese,3-1,/match/brescia/us-cremonese/1997,1997,9,serie_b,20,38,0,3,1,10,2,5,1,6,6,WDWDDDDL,1,3,0,3,2,19,1,1,6,2,8,WWWLWDWL,0,0,4,0,5,DWDD,WWWW
+Cesena,Castel Sangro,1-0,/match/ac-cesena/castel-sangro/1997,1997,9,serie_b,20,38,0,1,0,16,1,4,3,8,9,WWWDDDWD,1,3,0,6,4,13,3,1,4,5,10,WWWWWLDW,0,1,3,1,8,WDDD,WWWD
+Empoli,Lucchese Libertas,0-1,/match/empoli-fc/luchese/1997,1997,9,serie_b,20,38,2,0,1,12,3,2,3,7,10,WWDWWLDW,2,1,0,5,1,7,3,3,2,7,3,DDWWDWWW,0,2,2,1,3,WWD,DWDW
+Calcio Foggia,Palermo FC,1-1,/match/us-foggia/palermo/1997,1997,9,serie_b,20,38,1,1,1,11,3,1,4,7,10,WWWDWWWW,3,1,0,6,1,15,2,3,3,7,9,DDDWWLWW,0,2,2,2,8,WDWW,DDWW
+Lecce,SSC Bari,1-1,/match/lecce/as-bari/1997,1997,9,serie_b,20,38,1,1,1,1,7,0,1,14,5,LWWLWWWL,4,0,0,10,2,4,3,4,1,14,7,WWDDDDLW,1,2,1,4,4,WWWW,WDDL
+Pescara,Chievo,2-1,/match/pescara-calcio/chievo/1997,1997,9,serie_b,20,38,0,2,1,2,5,3,0,14,5,DWLDWDWL,3,1,0,8,2,8,3,3,2,9,8,WDWDWDWL,0,3,1,4,6,WDWW,DDDW
+Reggina,Ravenna FC,1-1,/match/reggina/ravenna-calcio/1997,1997,9,serie_b,20,38,1,1,1,20,0,4,4,6,12,LWLDDWDD,0,2,2,4,6,14,3,2,3,8,8,WWDLDLLW,2,0,2,4,4,LLDD,WLLW
+Salernitana,Cosenza Calcio,0-0,/match/salernitana-calcio-1919/fortitudo-cosenza/1997,1997,9,serie_b,20,38,1,0,0,9,3,2,3,5,7,WWDWWWWD,3,1,0,4,0,17,1,3,4,4,10,WWWDWDWD,0,0,4,1,8,WDWW,WWWW
+Venezia,Genoa,0-1,/match/venezia/genoa/1997,1997,9,serie_b,20,38,2,0,1,18,1,3,4,8,11,WDWLDWWD,1,1,1,4,3,6,2,5,1,9,5,DWWDDWDD,0,2,1,2,3,DLW,WDD
+Torino,Cremonese,0-1,/match/torino-fc/us-cremonese/1997,1997,10,serie_b,20,38,2,0,1,5,4,3,2,10,8,WDDWWWDLL,3,1,1,7,5,20,1,1,7,3,11,WWWLWDWLW,0,0,5,1,8,WDWWL,WWWWW
+SSC Bari,Cesena,0-0,/match/as-bari/ac-cesena/1997,1997,10,serie_b,20,38,1,0,0,8,3,5,1,15,8,WWDDDDLWD,2,2,0,10,3,12,2,4,3,9,9,WWWDDDWDW,0,1,3,2,5,WDDW,WWDW
+Castel Sangro,Brescia,0-3,/match/castel-sangro/brescia/1997,1997,10,serie_b,20,38,2,0,3,14,3,1,5,5,11,WWWWWLDWW,3,0,1,4,2,3,3,5,1,9,7,WDWDDDDLW,1,2,1,3,4,WWLW,WDDL
+Chievo,Salernitana,2-1,/match/chievo/salernitana-calcio-1919/1997,1997,10,serie_b,20,38,0,2,1,11,3,3,3,10,10,WDWDWDWLW,3,0,1,5,2,9,3,3,3,5,7,WWDWWWWDD,0,1,3,1,7,WWWL,WWWD
+Cosenza Calcio,Empoli,2-2,/match/fortitudo-cosenza/empoli-fc/1997,1997,10,serie_b,20,38,1,2,2,17,1,4,4,4,10,WWWDWDWDD,1,3,0,3,2,13,3,2,4,7,11,WWDWWLDWL,1,1,3,2,9,WDDD,WDWLW
+Genoa,Pescara,1-1,/match/genoa/pescara-calcio/1997,1997,10,serie_b,20,38,1,1,1,6,3,5,1,10,5,DWWDDWDDL,2,3,0,7,2,2,6,3,0,16,6,DWLDWDWLW,2,2,0,6,3,DWDWD,DLDL
+Lucchese Libertas,Venezia,1-1,/match/luchese/venezia/1997,1997,10,serie_b,20,38,1,1,1,7,4,3,2,8,3,DDWWDWWWL,3,1,0,6,0,18,1,3,5,8,12,WDWLDWWDL,0,2,3,4,8,DWWW,WWDWD
+Padova,Reggina,1-1,/match/calcio-padova/reggina/1997,1997,10,serie_b,20,38,1,1,1,4,4,2,3,9,8,WWWDWDWWL,4,0,1,8,3,19,0,5,4,7,13,LWLDDWDDD,0,2,2,2,6,WWWWL,WDWD
+Palermo FC,Lecce,2-3,/match/palermo/lecce/1997,1997,10,serie_b,20,38,2,2,3,16,2,4,3,8,10,DDDWWLWWD,2,1,1,5,1,1,7,1,1,15,6,LWWLWWWLD,3,0,1,4,3,DWLW,LLWL
+Ravenna FC,Calcio Foggia,2-2,/match/ravenna-calcio/us-foggia/1997,1997,10,serie_b,20,38,1,2,2,15,3,3,3,9,9,WWDLDLLWD,1,2,1,4,4,10,3,2,4,8,11,WWWDWWWWD,0,0,4,1,9,WDDL,WWWW
+Pescara,Lucchese Libertas,3-0,/match/pescara-calcio/luchese/1997,1997,11,serie_b,20,38,0,3,0,2,6,4,0,17,7,DWLDWDWLWD,4,1,0,10,3,6,4,4,2,9,4,DDWWDWWWLD,1,2,2,2,3,WDWWW,DWDWL
+Brescia,Padova,3-1,/match/brescia/calcio-padova/1997,1997,11,serie_b,20,38,0,3,1,3,4,5,1,12,7,WDWDDDDLWL,2,3,0,6,3,4,4,3,3,10,9,WWWDWDWWLD,0,2,2,1,5,DWDDW,WDDW
+Cesena,Palermo FC,1-1,/match/ac-cesena/palermo/1997,1997,11,serie_b,20,38,1,1,1,12,2,5,3,9,9,WWWDDDWDWD,2,3,0,7,4,16,2,4,4,10,13,DDDWWLWWDL,0,3,2,3,9,WDDDW,DDWWD
+Cremonese,Cosenza Calcio,2-3,/match/us-cremonese/fortitudo-cosenza/1997,1997,11,serie_b,20,38,2,2,3,20,2,1,7,4,11,WWWLWDWLWL,1,1,2,2,3,17,1,5,4,6,12,WWWDWDWDDD,0,1,4,1,8,WLDL,WWWWD
+Empoli,Venezia,3-2,/match/empoli-fc/venezia/1997,1997,11,serie_b,20,38,0,3,2,14,3,3,4,9,13,WWDWWLDWLD,2,1,1,5,2,18,1,4,5,9,13,WDWLDWWDLD,0,3,3,5,9,WWDL,WWDWDD
+Calcio Foggia,Torino,3-4,/match/us-foggia/torino-fc/1997,1997,11,serie_b,20,38,2,3,4,11,3,3,4,10,13,WWWDWWWWDD,3,2,0,7,2,9,4,3,3,10,9,WDDWWWDLLL,1,2,1,3,3,WDWWD,DWDL
+Genoa,Chievo,1-1,/match/genoa/chievo/1997,1997,11,serie_b,20,38,1,1,1,5,3,6,1,11,6,DWWDDWDDLD,2,4,0,8,3,8,4,3,3,12,11,WDWDWDWLWW,0,3,2,5,8,DWDWDD,DDDWW
+Lecce,Ravenna FC,1-1,/match/lecce/ravenna-calcio/1997,1997,11,serie_b,20,38,1,1,1,1,8,1,1,18,8,LWWLWWWLDL,4,1,0,11,3,13,3,4,3,11,11,WWDLDLLWDD,2,1,2,5,5,WWWWD,WLLWD
+Reggina,Castel Sangro,1-0,/match/reggina/castel-sangro/1997,1997,11,serie_b,20,38,0,1,0,19,0,6,4,8,14,LWLDDWDDDD,0,3,2,5,7,15,3,1,6,5,14,WWWWWLDWWL,0,1,4,1,9,LLDDD,WWWDW
+Salernitana,SSC Bari,0-0,/match/salernitana-calcio-1919/as-bari/1997,1997,11,serie_b,20,38,1,0,0,10,3,3,4,6,9,WWDWWWWDDW,3,2,0,4,0,7,3,6,1,15,8,WWDDDDLWDD,1,3,1,5,5,WDWWD,WDDLD
+SSC Bari,Cremonese,0-0,/match/as-bari/us-cremonese/1997,1997,12,serie_b,20,38,1,0,0,7,3,7,1,15,8,WWDDDDLWDDD,2,3,0,10,3,20,2,1,8,6,14,WWWLWDWLWLL,1,0,5,2,8,WDDWD,WWWWWL
+Cosenza Calcio,Cesena,1-0,/match/fortitudo-cosenza/ac-cesena/1997,1997,12,serie_b,20,38,0,1,0,15,2,5,4,9,14,WWWDWDWDDDL,1,4,0,5,4,12,2,6,3,10,10,WWWDDDWDWDD,0,2,3,2,5,WDDDD,WWDWD
+Empoli,Chievo,2-1,/match/empoli-fc/chievo/1997,1997,12,serie_b,20,38,0,2,1,11,4,3,4,12,15,WWDWWLDWLDW,3,1,1,8,4,8,4,4,3,13,12,WDWDWDWLWWD,0,4,2,6,9,WWDLW,DDDWWD
+Calcio Foggia,Reggina,1-0,/match/us-foggia/reggina/1997,1997,12,serie_b,20,38,0,1,0,13,3,3,5,13,17,WWWDWWWWDDL,3,2,1,10,6,18,1,6,4,9,14,LWLDDWDDDDW,0,3,2,3,7,WDWWDL,WDWDD
+Lucchese Libertas,Lecce,3-3,/match/luchese/lecce/1997,1997,12,serie_b,20,38,1,3,3,6,4,4,3,9,7,DDWWDWWWLDW,3,2,0,7,1,2,8,2,1,19,9,LWWLWWWLDLD,4,0,1,7,5,DWWWD,LLWLL
+Padova,Salernitana,1-1,/match/calcio-padova/salernitana-calcio-1919/1997,1997,12,serie_b,20,38,1,1,1,5,4,3,4,11,12,WWWDWDWWLDW,4,1,1,9,4,10,3,4,4,6,9,WWDWWWWDDWD,0,1,4,2,9,WWWWLD,WWWDW
+Palermo FC,Torino,1-0,/match/palermo/torino-fc/1997,1997,12,serie_b,20,38,0,1,0,16,2,5,4,11,14,DDDWWLWWDLD,2,1,2,7,4,9,5,3,3,14,12,WDDWWWDLLLL,2,2,1,7,6,DWLWL,DWDLL
+Ravenna FC,Brescia,2-1,/match/ravenna-calcio/brescia/1997,1997,12,serie_b,20,38,0,2,1,14,3,5,3,12,12,WWDLDLLWDDD,1,3,1,6,6,3,5,5,1,15,8,WDWDDDDLWLW,2,2,1,6,4,WDDLD,WDDLL
+Venezia,Pescara,2-0,/match/venezia/pescara-calcio/1997,1997,12,serie_b,20,38,0,2,0,19,1,4,6,11,16,WDWLDWWDLDW,1,1,2,4,4,1,7,4,0,20,7,DWLDWDWLWDW,2,3,0,7,4,DLWL,DLDLD
+Castel Sangro,Genoa,1-0,/match/castel-sangro/genoa/1997,1997,12,serie_b,20,38,0,1,0,17,3,1,7,5,15,WWWWWLDWWLW,3,0,2,4,5,4,3,7,1,12,7,DWWDDWDDLDD,1,2,1,3,3,WWLWL,WDDL
+Lucchese Libertas,Palermo FC,0-0,/match/luchese/palermo/1997,1997,13,serie_b,20,38,1,0,0,4,4,5,3,12,10,DDWWDWWWLDWD,3,3,0,10,4,16,3,5,4,12,14,DDDWWLWWDLDW,0,4,2,4,10,DWWWDD,DDWWDD
+Brescia,Salernitana,2-0,/match/brescia/salernitana-calcio-1919/1997,1997,13,serie_b,20,38,0,2,0,3,5,5,2,16,10,WDWDDDDLWLWW,3,3,0,9,4,12,3,5,4,7,10,WWDWWWWDDWDD,0,2,4,3,10,DWDDWW,WWWDWD
+Cesena,Padova,2-3,/match/ac-cesena/calcio-padova/1997,1997,13,serie_b,20,38,2,2,3,15,2,6,4,10,11,WWWDDDWDWDDW,2,4,0,8,5,7,4,4,4,12,13,WWWDWDWWLDWD,0,2,3,2,8,WDDDWD,WDDWW
+Chievo,Ravenna FC,1-2,/match/chievo/ravenna-calcio/1997,1997,13,serie_b,20,38,2,1,2,10,4,4,4,14,14,WDWDWDWLWWDW,4,0,1,7,3,13,4,5,3,14,13,WWDLDLLWDDDW,2,2,2,6,6,WWWLW,WLLWDD
+Cremonese,Calcio Foggia,1-1,/match/us-cremonese/us-foggia/1997,1997,13,serie_b,20,38,1,1,1,20,2,2,8,6,14,WWWLWDWLWLLD,1,1,3,4,6,9,4,3,5,14,17,WWWDWWWWDDLW,0,1,4,3,11,WLDLL,WWWWD
+Lecce,Cosenza Calcio,3-2,/match/lecce/fortitudo-cosenza/1997,1997,13,serie_b,20,38,0,3,2,2,8,3,1,22,12,LWWLWWWLDLDD,4,2,0,12,4,14,3,5,4,10,14,WWWDWDWDDDLW,1,1,4,4,10,WWWWDD,WWWWDL
+Pescara,SSC Bari,1-2,/match/pescara-calcio/as-bari/1997,1997,13,serie_b,20,38,2,1,2,1,7,4,1,20,9,DWLDWDWLWDWW,5,1,0,13,3,5,3,8,1,15,8,WWDDDDLWDDDD,1,4,1,5,5,WDWWWW,WDDLDD
+Reggina,Empoli,1-0,/match/reggina/empoli-fc/1997,1997,13,serie_b,20,38,0,1,0,18,1,6,5,9,15,LWLDDWDDDDWW,1,3,2,6,7,6,5,3,4,14,16,WWDWWLDWLDWW,1,2,3,4,11,LLDDDW,WDWLWD
+Torino,Genoa,3-3,/match/torino-fc/genoa/1997,1997,13,serie_b,20,38,1,3,3,11,5,3,4,14,13,WDDWWWDLLLLW,3,1,2,7,6,8,3,7,2,12,8,DWWDDWDDLDDW,1,2,2,3,4,WDWWLL,WDDLW
+Venezia,Castel Sangro,1-0,/match/venezia/castel-sangro/1997,1997,13,serie_b,20,38,0,1,0,19,2,4,6,13,16,WDWLDWWDLDWW,2,1,2,6,4,17,4,1,7,6,15,WWWWWLDWWLWW,0,1,5,1,10,DLWLW,WWWDWW
+Genoa,Brescia,4-0,/match/genoa/brescia/1997,1997,14,serie_b,20,38,0,4,0,7,3,8,2,15,11,DWWDDWDDLDDWD,2,5,0,9,4,3,6,5,2,18,10,WDWDDDDLWLWWW,2,2,2,7,6,DWDWDDD,WDDLLW
+SSC Bari,Venezia,3-1,/match/as-bari/venezia/1997,1997,14,serie_b,20,38,0,3,1,5,4,8,1,17,9,WWDDDDLWDDDDL,2,4,0,10,3,19,3,4,6,14,16,WDWLDWWDLDWWW,0,3,4,7,12,WDDWDD,WWDWDDW
+Castel Sangro,Lucchese Libertas,0-0,/match/castel-sangro/luchese/1997,1997,14,serie_b,20,38,1,0,0,17,4,1,8,6,16,WWWWWLDWWLWWW,4,0,2,5,5,4,4,6,3,12,10,DDWWDWWWLDWDD,1,2,3,2,6,WWLWLW,DWDWLW
+Chievo,Torino,1-0,/match/chievo/torino-fc/1997,1997,14,serie_b,20,38,0,1,0,12,4,4,5,15,16,WDWDWDWLWWDWL,4,0,2,8,5,9,5,4,4,17,16,WDDWWWDLLLLWD,2,2,2,7,7,WWWLWL,DWDLLW
+Cosenza Calcio,Pescara,1-1,/match/fortitudo-cosenza/pescara-calcio/1997,1997,14,serie_b,20,38,1,1,1,14,3,5,5,12,17,WWWDWDWDDDLWW,2,4,0,6,4,2,7,4,2,21,11,DWLDWDWLWDWWL,2,3,1,7,6,WDDDDW,DLDLDW
+Cremonese,Cesena,1-0,/match/us-cremonese/ac-cesena/1997,1997,14,serie_b,20,38,0,1,0,20,2,3,8,7,15,WWWLWDWLWLLDD,1,2,3,5,7,16,2,6,5,12,14,WWWDDDWDWDDWL,0,2,4,2,6,WLDLLD,WWDWDW
+Empoli,Calcio Foggia,3-0,/match/empoli-fc/us-foggia/1997,1997,14,serie_b,20,38,0,3,0,11,5,3,5,14,17,WWDWWLDWLDWWW,4,1,1,10,5,10,4,4,5,15,18,WWWDWWWWDDLWD,0,2,4,4,12,WWDLWW,WWWWDD
+Palermo FC,Reggina,1-1,/match/palermo/reggina/1997,1997,14,serie_b,20,38,1,1,1,15,3,6,4,12,14,DDDWWLWWDLDWD,3,1,2,8,4,18,2,6,5,10,15,LWLDDWDDDDWWW,0,3,3,3,8,DWLWLW,WDWDDW
+Ravenna FC,Padova,1-1,/match/ravenna-calcio/calcio-padova/1997,1997,14,serie_b,20,38,1,1,1,8,5,5,3,16,14,WWDLDLLWDDDWL,2,3,1,8,7,6,5,4,4,15,15,WWWDWDWWLDWDL,1,2,3,5,10,WDDLDW,WDDWWL
+Salernitana,Lecce,1-1,/match/salernitana-calcio-1919/lecce/1997,1997,14,serie_b,20,38,1,1,1,13,3,5,5,7,12,WWDWWWWDDWDDW,3,3,0,4,0,1,9,3,1,25,14,LWWLWWWLDLDDW,4,1,1,10,8,WDWWDD,LLWLLD
+Calcio Foggia,Cesena,0-0,/match/us-foggia/ac-cesena/1997,1997,15,serie_b,20,38,1,0,0,12,4,4,6,15,21,WWWDWWWWDDLWDW,4,2,1,11,6,17,2,6,6,12,15,WWWDDDWDWDDWLW,0,2,5,2,7,WDWWDLW,WWDWDWW
+Lecce,Brescia,0-0,/match/lecce/brescia/1997,1997,15,serie_b,20,38,1,0,0,1,9,4,1,26,15,LWWLWWWLDLDDWD,5,2,0,15,6,3,6,5,3,18,14,WDWDDDDLWLWWWW,2,2,3,7,10,WWWWDDW,WDDLLWW
+Lucchese Libertas,SSC Bari,1-1,/match/luchese/as-bari/1997,1997,15,serie_b,20,38,1,1,1,8,4,7,3,12,10,DDWWDWWWLDWDDD,3,4,0,10,4,4,5,8,1,20,10,WWDDDDLWDDDDLW,2,4,1,7,6,DWWWDDD,WDDLDDL
+Padova,Genoa,1-1,/match/calcio-padova/genoa/1997,1997,15,serie_b,20,38,1,1,1,7,5,5,4,16,16,WWWDWDWWLDWDLD,4,2,1,10,5,5,4,8,2,19,11,DWWDDWDDLDDWDW,1,3,2,6,7,WWWWLDD,WDDLWD
+Palermo FC,Cremonese,1-1,/match/palermo/us-cremonese/1997,1997,15,serie_b,20,38,1,1,1,15,3,7,4,13,15,DDDWWLWWDLDWDD,3,2,2,9,5,20,3,3,8,8,15,WWWLWDWLWLLDDW,1,1,5,2,8,DWLWLWD,WWWWWLD
+Pescara,Empoli,0-0,/match/pescara-calcio/empoli-fc/1997,1997,15,serie_b,20,38,1,0,0,2,7,5,2,22,12,DWLDWDWLWDWWLD,5,1,1,14,5,6,6,3,5,17,17,WWDWWLDWLDWWWW,1,2,4,4,12,WDWWWWL,WDWLWDW
+Ravenna FC,Salernitana,2-0,/match/ravenna-calcio/salernitana-calcio-1919/1997,1997,15,serie_b,20,38,0,2,0,9,5,6,3,17,15,WWDLDLLWDDDWLD,2,4,1,9,8,13,3,6,5,8,13,WWDWWWWDDWDDWD,0,2,5,3,12,WDDLDWD,WWWDWDW
+Reggina,Chievo,1-1,/match/reggina/chievo/1997,1997,15,serie_b,20,38,1,1,1,18,2,7,5,11,16,LWLDDWDDDDWWWD,2,3,2,7,7,10,5,4,5,16,16,WDWDWDWLWWDWLW,0,4,3,7,11,LLDDDWW,DDDWWDW
+Torino,Castel Sangro,1-0,/match/torino-fc/castel-sangro/1997,1997,15,serie_b,20,38,0,1,0,11,5,4,5,17,17,WDDWWWDLLLLWDW,3,2,2,10,9,16,4,2,8,6,16,WWWWWLDWWLWWWD,0,1,6,1,11,WDWWLLD,WWWDWWW
+Venezia,Cosenza Calcio,3-1,/match/venezia/fortitudo-cosenza/1997,1997,15,serie_b,20,38,0,3,1,19,3,4,7,15,19,WDWLDWWDLDWWWW,3,1,2,7,4,14,3,6,5,13,18,WWWDWDWDDDLWWD,1,1,5,6,13,DLWLWW,WWWWDLW
+Salernitana,Pescara,1-0,/match/salernitana-calcio-1919/pescara-calcio/1997,1997,16,serie_b,20,38,0,1,0,14,3,6,6,8,15,WWDWWWWDDWDDWDW,3,4,0,5,1,2,7,6,2,22,12,DWLDWDWLWDWWLDD,2,4,1,8,7,WDWWDDD,DLDLDWD
+SSC Bari,Palermo FC,1-1,/match/as-bari/palermo/1997,1997,16,serie_b,20,38,1,1,1,4,5,9,1,21,11,WWDDDDLWDDDDLWD,3,4,0,13,4,13,3,8,4,14,16,DDDWWLWWDLDWDDD,0,5,2,4,10,WDDWDDW,DDWWDDD
+Brescia,Empoli,0-0,/match/brescia/empoli-fc/1997,1997,16,serie_b,20,38,1,0,0,3,6,6,3,18,14,WDWDDDDLWLWWWWD,4,3,0,11,4,7,6,4,5,17,17,WWDWWLDWLDWWWWD,1,3,4,4,12,DWDDWWW,WDWLWDWD
+Castel Sangro,Lecce,2-1,/match/castel-sangro/lecce/1997,1997,16,serie_b,20,38,0,2,1,18,4,2,9,6,17,WWWWWLDWWLWWWDW,4,1,2,5,5,1,9,5,1,26,15,LWWLWWWLDLDDWDD,4,2,1,11,9,WWLWLWD,LLWLLDD
+Cesena,Lucchese Libertas,1-1,/match/ac-cesena/luchese/1997,1997,16,serie_b,20,38,1,1,1,19,2,7,6,12,15,WWWDDDWDWDDWLWD,2,4,1,10,8,9,4,8,3,13,11,DDWWDWWWLDWDDDD,1,3,3,2,6,WDDDWDL,DWDWLWD
+Chievo,Padova,1-1,/match/chievo/calcio-padova/1997,1997,16,serie_b,20,38,1,1,1,11,5,5,5,17,17,WDWDWDWLWWDWLWD,5,0,2,9,5,8,5,6,4,17,17,WWWDWDWWLDWDLDD,1,3,3,6,11,WWWLWLW,WDDWWLD
+Cosenza Calcio,Ravenna FC,1-2,/match/fortitudo-cosenza/ravenna-calcio/1997,1997,16,serie_b,20,38,2,1,2,15,3,6,6,14,21,WWWDWDWDDDLWWDW,2,5,0,7,5,6,6,6,3,19,15,WWDLDLLWDDDWLDW,3,2,2,8,7,WDDDDWD,WLLWDDL
+Cremonese,Venezia,1-1,/match/us-cremonese/venezia/1997,1997,16,serie_b,20,38,1,1,1,20,3,4,8,9,16,WWWLWDWLWLLDDWD,2,2,3,6,7,16,4,4,7,18,20,WDWLDWWDLDWWWWW,0,3,5,8,15,WLDLLDW,WWDWDDWW
+Genoa,Calcio Foggia,0-1,/match/genoa/us-foggia/1997,1997,16,serie_b,20,38,2,0,1,5,4,9,2,20,12,DWWDDWDDLDDWDWD,3,5,0,13,4,12,4,5,6,15,21,WWWDWWWWDDLWDWD,0,2,5,4,15,DWDWDDDW,WWWWDDW
+Torino,Reggina,4-2,/match/torino-fc/reggina/1997,1997,16,serie_b,20,38,0,4,2,10,6,4,5,18,17,WDDWWWDLLLLWDWW,4,2,2,11,9,17,2,8,5,12,17,LWLDDWDDDDWWWDD,0,4,3,4,9,WDWWLLDW,WDWDDWD
+Padova,SSC Bari,1-1,/match/calcio-padova/as-bari/1997,1997,17,serie_b,20,38,1,1,1,9,5,7,4,18,18,WWWDWDWWLDWDLDDD,4,3,1,11,6,4,5,10,1,22,12,WWDDDDLWDDDDLWDD,2,5,1,8,7,WWWWLDDD,WDDLDDLD
+Castel Sangro,Salernitana,1-0,/match/castel-sangro/salernitana-calcio-1919/1997,1997,17,serie_b,20,38,0,1,0,15,5,2,9,8,18,WWWWWLDWWLWWWDWW,5,1,2,7,6,13,4,6,6,9,15,WWDWWWWDDWDDWDWW,0,2,6,3,14,WWLWLWDW,WWWDWDWW
+Empoli,Genoa,2-1,/match/empoli-fc/genoa/1997,1997,17,serie_b,20,38,0,2,1,8,6,5,5,17,17,WWDWWLDWLDWWWWDD,5,1,1,13,5,7,4,9,3,20,13,DWWDDWDDLDDWDWDL,1,4,2,7,8,WWDLWWW,WDDLWDD
+Calcio Foggia,Brescia,1-2,/match/us-foggia/brescia/1997,1997,17,serie_b,20,38,2,1,2,12,5,5,6,16,21,WWWDWWWWDDLWDWDL,4,3,1,11,6,3,6,7,3,18,14,WDWDDDDLWLWWWWDD,2,3,3,7,10,WDWWDLWD,WDDLLWWD
+Lecce,Pescara,2-1,/match/lecce/pescara-calcio/1997,1997,17,serie_b,20,38,0,2,1,1,9,5,2,27,17,LWWLWWWLDLDDWDDW,5,3,0,15,6,2,7,6,3,22,13,DWLDWDWLWDWWLDDW,2,4,2,8,8,WWWWDDWD,DLDLDWDW
+Lucchese Libertas,Torino,0-1,/match/luchese/torino-fc/1997,1997,17,serie_b,20,38,2,0,1,10,4,9,3,14,12,DDWWDWWWLDWDDDDD,3,5,0,11,5,6,7,4,5,22,19,WDDWWWDLLLLWDWWW,2,2,3,7,8,DWWWDDDD,DWDLLWW
+Palermo FC,Cosenza Calcio,1-3,/match/palermo/fortitudo-cosenza/1997,1997,17,serie_b,20,38,2,1,3,14,3,9,4,15,17,DDDWWLWWDLDWDDDD,3,3,2,10,6,17,3,6,7,15,23,WWWDWDWDDDLWWDWL,1,1,6,7,16,DWLWLWDD,WWWWDLWW
+Ravenna FC,Cesena,2-0,/match/ravenna-calcio/ac-cesena/1997,1997,17,serie_b,20,38,0,2,0,5,7,6,3,21,16,WWDLDLLWDDDWLDWL,3,4,1,11,8,18,2,8,6,13,16,WWWDDDWDWDDWLWDD,0,3,5,2,7,WDDLDWDW,WWDWDWWD
+Reggina,Cremonese,1-0,/match/reggina/us-cremonese/1997,1997,17,serie_b,20,38,0,1,0,19,2,8,6,14,21,LWLDDWDDDDWWWDDW,2,4,2,8,8,20,3,5,8,10,17,WWWLWDWLWLLDDWDD,1,2,5,3,9,LLDDDWWD,WWWWWLDD
+Venezia,Chievo,1-1,/match/venezia/chievo/1997,1997,17,serie_b,20,38,1,1,1,16,4,5,7,19,21,WDWLDWWDLDWWWWWD,4,1,2,10,5,11,5,6,5,18,18,WDWDWDWLWWDWLWDD,0,5,3,8,12,DLWLWWW,DDDWWDWD
+Cosenza Calcio,Padova,3-1,/match/fortitudo-cosenza/calcio-padova/1997,1997,18,serie_b,20,38,0,3,1,18,4,6,7,18,24,WWWDWDWDDDLWWDWLL,2,5,1,8,7,8,5,8,4,19,19,WWWDWDWWLDWDLDDDD,1,4,3,7,12,WDDDDWDL,WDDWWLDD
+SSC Bari,Calcio Foggia,1-2,/match/as-bari/us-foggia/1997,1997,18,serie_b,20,38,2,1,2,4,5,11,1,23,13,WWDDDDLWDDDDLWDDD,3,5,0,14,5,13,5,5,7,17,23,WWWDWWWWDDLWDWDLL,1,2,5,5,15,WDDWDDWD,WWWWDDWL
+Brescia,Reggina,1-0,/match/brescia/reggina/1997,1997,18,serie_b,20,38,0,1,0,3,7,7,3,20,15,WDWDDDDLWLWWWWDDL,4,4,0,11,4,17,3,8,6,15,21,LWLDDWDDDDWWWDDWW,0,4,4,6,13,DWDDWWWD,WDWDDWDW
+Cesena,Empoli,2-1,/match/ac-cesena/empoli-fc/1997,1997,18,serie_b,20,38,0,2,1,19,2,8,7,13,18,WWWDDDWDWDDWLWDDW,2,5,1,11,9,7,7,5,5,19,18,WWDWWLDWLDWWWWDDW,1,4,4,4,12,WDDDWDLD,WDWLWDWDD
+Chievo,Palermo FC,2-2,/match/chievo/palermo/1997,1997,18,serie_b,20,38,1,2,2,10,5,7,5,19,19,WDWDWDWLWWDWLWDDD,5,1,2,10,6,15,3,9,5,16,20,DDDWWLWWDLDWDDDDL,0,6,2,5,11,WWWLWLWD,DDWWDDDD
+Cremonese,Lucchese Libertas,2-1,/match/us-cremonese/luchese/1997,1997,18,serie_b,20,38,0,2,1,20,3,5,9,10,18,WWWLWDWLWLLDDWDDW,2,3,3,7,8,9,4,9,4,14,13,DDWWDWWWLDWDDDDDL,1,4,3,3,7,WLDLLDWD,DWDWLWDD
+Genoa,Ravenna FC,3-0,/match/genoa/ravenna-calcio/1997,1997,18,serie_b,20,38,0,3,0,11,4,9,4,21,15,DWWDDWDDLDDWDWDLW,3,5,1,13,5,2,8,6,3,23,16,WWDLDLLWDDDWLDWLW,4,2,2,10,8,DWDWDDDWL,WLLWDDLL
+Pescara,Castel Sangro,1-1,/match/pescara-calcio/castel-sangro/1997,1997,18,serie_b,20,38,1,1,1,6,7,6,4,23,15,DWLDWDWLWDWWLDDWW,5,2,1,14,5,12,6,2,9,9,18,WWWWWLDWWLWWWDWWW,0,1,7,1,12,WDWWWWLD,WWWDWWWW
+Salernitana,Venezia,1-0,/match/salernitana-calcio-1919/venezia/1997,1997,18,serie_b,20,38,0,1,0,14,4,6,7,9,16,WWDWWWWDDWDDWDWWW,4,4,0,6,1,16,4,6,7,20,22,WDWLDWWDLDWWWWWDD,0,4,5,9,16,WDWWDDDW,WWDWDDWWD
+Torino,Lecce,4-2,/match/torino-fc/lecce/1997,1997,18,serie_b,20,38,0,4,2,5,8,4,5,23,19,WDDWWWDLLLLWDWWWL,5,2,2,15,11,1,10,5,2,29,18,LWWLWWWLDLDDWDDWW,4,2,2,12,11,WDWWLLDWW,LLWLLDDW
+Lucchese Libertas,Cosenza Calcio,1-0,/match/luchese/fortitudo-cosenza/1997,1997,19,serie_b,20,38,0,1,0,12,4,9,5,15,15,DDWWDWWWLDWDDDDDLW,3,5,1,11,6,15,5,6,7,21,25,WWWDWDWDDDLWWDWLLW,2,1,6,10,17,DWWWDDDDL,WWWWDLWWL
+Castel Sangro,SSC Bari,1-3,/match/castel-sangro/as-bari/1997,1997,19,serie_b,20,38,2,1,3,13,6,3,9,10,19,WWWWWLDWWLWWWDWWWD,6,1,2,8,6,8,5,11,2,24,15,WWDDDDLWDDDDLWDDDL,2,6,1,9,8,WWLWLWDWW,WDDLDDLDD
+Empoli,Cremonese,0-0,/match/empoli-fc/us-cremonese/1997,1997,19,serie_b,20,38,1,0,0,6,7,5,6,20,20,WWDWWLDWLDWWWWDDWW,6,1,1,15,6,20,4,5,9,12,19,WWWLWDWLWLLDDWDDWW,1,2,6,3,10,WWDLWWWW,WWWWWLDDW
+Calcio Foggia,Chievo,0-0,/match/us-foggia/chievo/1997,1997,19,serie_b,20,38,1,0,0,14,6,5,7,19,24,WWWDWWWWDDLWDWDLLL,4,3,2,12,8,10,5,8,5,21,21,WDWDWDWLWWDWLWDDDD,0,6,3,9,13,WDWWDLWDL,DDDWWDWDD
+Lecce,Cesena,2-1,/match/lecce/ac-cesena/1997,1997,19,serie_b,20,38,0,2,1,1,10,5,3,31,22,LWWLWWWLDLDDWDDWWW,6,3,0,17,7,17,3,8,7,15,19,WWWDDDWDWDDWLWDDWW,0,3,6,2,9,WWWWDDWDW,WWDWDWWDW
+Padova,Pescara,1-3,/match/calcio-padova/pescara-calcio/1997,1997,19,serie_b,20,38,2,1,3,9,5,8,5,20,22,WWWDWDWWLDWDLDDDDW,4,4,1,12,7,5,7,7,4,24,16,DWLDWDWLWDWWLDDWWD,2,4,3,9,10,WWWWLDDDD,DLDLDWDWW
+Palermo FC,Genoa,1-1,/match/palermo/genoa/1997,1997,19,serie_b,20,38,1,1,1,16,3,10,5,18,22,DDDWWLWWDLDWDDDDLD,3,3,3,11,9,7,5,9,4,24,15,DWWDDWDDLDDWDWDLWW,1,4,3,8,10,DWLWLWDDL,WDDLWDDW
+Ravenna FC,Torino,0-3,/match/ravenna-calcio/torino-fc/1997,1997,19,serie_b,20,38,2,0,3,4,8,6,4,23,19,WWDLDLLWDDDWLDWLWW,4,4,1,13,8,3,9,4,5,27,21,WDDWWWDLLLLWDWWWLW,3,2,3,8,8,WDDLDWDWW,DWDLLWWL
+Reggina,Salernitana,3-0,/match/reggina/salernitana-calcio-1919/1997,1997,19,serie_b,20,38,0,3,0,19,3,8,7,15,22,LWLDDWDDDDWWWDDWWW,3,4,2,9,8,11,5,6,7,10,16,WWDWWWWDDWDDWDWWWW,0,2,7,3,15,LLDDDWWDW,WWWDWDWWW
+Venezia,Brescia,3-0,/match/venezia/brescia/1997,1997,19,serie_b,20,38,0,3,0,18,4,6,8,20,23,WDWLDWWDLDWWWWWDDW,4,2,2,11,6,2,8,7,3,21,15,WDWDDDDLWLWWWWDDLW,3,3,3,9,11,DLWLWWWD,WDDLLWWDL
+Calcio Foggia,Salernitana,2-0,/match/us-foggia/salernitana-calcio-1919/1997,1997,20,serie_b,20,38,0,2,0,11,6,6,7,19,24,WWWDWWWWDDLWDWDLLLD,4,4,2,12,8,12,5,6,8,10,19,WWDWWWWDDWDDWDWWWWW,0,2,8,3,18,WDWWDLWDLD,WWWDWDWWWW
+Brescia,SSC Bari,2-0,/match/brescia/as-bari/1997,1997,20,serie_b,20,38,0,2,0,3,8,7,4,21,18,WDWDDDDLWLWWWWDDLWW,5,4,0,12,4,7,6,11,2,27,16,WWDDDDLWDDDDLWDDDLL,3,6,1,12,9,DWDDWWWDW,WDDLDDLDDL
+Cosenza Calcio,Castel Sangro,1-1,/match/fortitudo-cosenza/castel-sangro/1997,1997,20,serie_b,20,38,1,1,1,17,5,6,8,21,26,WWWDWDWDDDLWWDWLLWW,3,5,1,11,8,14,6,3,10,11,22,WWWWWLDWWLWWWDWWWDL,0,2,7,2,13,WDDDDWDLW,WWWDWWWWD
+Cremonese,Chievo,0-0,/match/us-cremonese/chievo/1997,1997,20,serie_b,20,38,1,0,0,20,4,6,9,12,19,WWWLWDWLWLLDDWDDWWD,3,3,3,9,9,10,5,9,5,21,21,WDWDWDWLWWDWLWDDDDD,0,7,3,9,13,WLDLLDWDW,DDDWWDWDDD
+Lucchese Libertas,Genoa,0-3,/match/luchese/genoa/1997,1997,20,serie_b,20,38,2,0,3,9,5,9,5,16,15,DDWWDWWWLDWDDDDDLWW,4,5,1,12,6,8,5,10,4,25,16,DWWDDWDDLDDWDWDLWWD,1,5,3,9,11,DWWWDDDDLW,WDDLWDDWD
+Empoli,Padova,2-1,/match/empoli-fc/calcio-padova/1997,1997,20,serie_b,20,38,0,2,1,6,7,6,6,20,20,WWDWWLDWLDWWWWDDWWD,6,2,1,15,6,13,5,8,6,21,25,WWWDWDWWLDWDLDDDDWL,1,4,4,8,15,WWDLWWWWD,WDDWWLDDW
+Pescara,Palermo FC,2-1,/match/pescara-calcio/palermo/1997,1997,20,serie_b,20,38,0,2,1,4,8,7,4,27,17,DWLDWDWLWDWWLDDWWDL,5,3,1,15,6,18,3,11,5,19,23,DDDWWLWWDLDWDDDDLDD,0,7,2,7,13,WDWWWWLDD,DDWWDDDDD
+Venezia,Ravenna FC,0-0,/match/venezia/ravenna-calcio/1997,1997,20,serie_b,20,38,1,0,0,15,5,6,8,23,23,WDWLDWWDLDWWWWWDDWW,5,2,2,14,6,5,8,6,5,23,22,WWDLDLLWDDDWLDWLWWL,4,2,3,10,11,DLWLWWWDW,WLLWDDLLW
+Lecce,Reggina,1-2,/match/lecce/reggina/1997,1997,20,serie_b,20,38,2,1,2,1,11,5,3,33,23,LWWLWWWLDLDDWDDWWWW,7,3,0,19,8,16,4,8,7,18,22,LWLDDWDDDDWWWDDWWWW,0,4,5,6,14,WWWWDDWDWW,WDWDDWDWW
+Cesena,Torino,1-1,/match/ac-cesena/torino-fc/1997,1997,20,serie_b,20,38,1,1,1,19,3,8,8,16,21,WWWDDDWDWDDWLWDDWWW,3,5,1,13,10,2,10,4,5,30,21,WDDWWWDLLLLWDWWWLWL,4,2,3,11,8,WDDDWDLDW,DWDLLWWLL
+SSC Bari,Cosenza Calcio,1-0,/match/as-bari/fortitudo-cosenza/1997,1997,21,serie_b,20,38,0,1,0,9,6,11,3,27,18,WWDDDDLWDDDDLWDDDLLW,3,5,1,15,7,17,5,7,8,22,27,WWWDWDWDDDLWWDWLLWWD,2,1,7,10,18,WDDWDDWDL,WWWWDLWWLW
+Palermo FC,Brescia,3-2,/match/palermo/brescia/1997,1997,21,serie_b,20,38,0,3,2,18,3,11,6,20,25,DDDWWLWWDLDWDDDDLDDW,3,4,3,12,10,2,9,7,4,23,18,WDWDDDDLWLWWWWDDLWWW,3,3,4,9,14,DWLWLWDDLD,WDDLLWWDLW
+Reggina,Cesena,0-1,/match/reggina/ac-cesena/1997,1997,21,serie_b,20,38,2,0,1,15,5,8,7,20,23,LWLDDWDDDDWWWDDWWWWL,4,4,2,12,8,19,3,9,8,17,22,WWWDDDWDWDDWLWDDWWWD,0,3,7,3,11,LLDDDWWDWW,WWDWDWWDWW
+Genoa,Cremonese,3-0,/match/genoa/us-cremonese/1997,1997,21,serie_b,20,38,0,3,0,6,6,10,4,28,16,DWWDDWDDLDDWDWDLWWDL,4,5,1,16,5,20,4,7,9,12,19,WWWLWDWLWLLDDWDDWWDD,1,3,6,3,10,DWDWDDDWLW,WWWWWLDDWD
+Salernitana,Empoli,1-1,/match/salernitana-calcio-1919/empoli-fc/1997,1997,21,serie_b,20,38,1,1,1,12,5,6,9,10,21,WWDWWWWDDWDDWDWWWWWW,5,4,0,7,1,5,8,6,6,22,21,WWDWWLDWLDWWWWDDWWDW,1,4,5,5,14,WDWWDDDWW,WDWLWDWDDW
+Castel Sangro,Calcio Foggia,1-3,/match/castel-sangro/us-foggia/1997,1997,21,serie_b,20,38,2,1,3,16,6,4,10,12,23,WWWWWLDWWLWWWDWWWDLD,6,1,3,9,9,8,7,6,7,21,24,WWWDWWWWDDLWDWDLLLDW,2,2,5,7,16,WWLWLWDWWL,WWWWDDWLL
+Padova,Lecce,0-0,/match/calcio-padova/lecce/1997,1997,21,serie_b,20,38,1,0,0,13,5,8,7,22,27,WWWDWDWWLDWDLDDDDWLW,4,4,2,13,10,1,11,5,4,34,25,LWWLWWWLDLDDWDDWWWWL,4,2,3,14,15,WWWWLDDDDL,LLWLLDDWW
+Chievo,Lucchese Libertas,1-0,/match/chievo/luchese/1997,1997,21,serie_b,20,38,0,1,0,11,5,10,5,21,21,WDWDWDWLWWDWLWDDDDDD,5,2,2,12,8,10,5,9,6,16,18,DDWWDWWWLDWDDDDDLWWL,1,4,4,4,9,WWWLWLWDD,DWDWLWDDW
+Ravenna FC,Pescara,0-1,/match/ravenna-calcio/pescara-calcio/1997,1997,21,serie_b,20,38,2,0,1,7,8,7,5,23,22,WWDLDLLWDDDWLDWLWWLD,4,4,2,13,11,3,9,7,4,29,18,DWLDWDWLWDWWLDDWWDLW,3,4,3,12,11,WDDLDWDWWL,DLDLDWDWWL
+Torino,Venezia,1-1,/match/torino-fc/venezia/1997,1997,21,serie_b,20,38,1,1,1,4,10,5,5,31,22,WDDWWWDLLLLWDWWWLWLD,6,2,2,19,13,14,5,7,8,23,23,WDWLDWWDLDWWWWWDDWWD,0,4,6,9,17,WDWWLLDWWW,WWDWDDWWDW
+Calcio Foggia,Lecce,0-0,/match/us-foggia/lecce/1997,1997,22,serie_b,20,38,1,0,0,9,8,6,7,24,25,WWWDWWWWDDLWDWDLLLDWL,5,4,2,14,8,1,11,6,4,34,25,LWWLWWWLDLDDWDDWWWWLD,4,3,3,14,15,WDWWDLWDLDW,LLWLLDDWWD
+Lucchese Libertas,Brescia,0-3,/match/luchese/brescia/1997,1997,22,serie_b,20,38,2,0,3,11,5,9,7,16,19,DDWWDWWWLDWDDDDDLWWLW,4,5,2,12,9,4,9,7,5,25,21,WDWDDDDLWLWWWWDDLWWWW,3,3,5,11,17,DWWWDDDDLWL,WDDLLWWDLWW
+Cremonese,Castel Sangro,2-1,/match/us-cremonese/castel-sangro/1997,1997,22,serie_b,20,38,0,2,1,20,4,7,10,12,22,WWWLWDWLWLLDDWDDWWDDW,3,4,3,9,9,17,6,4,11,13,26,WWWWWLDWWLWWWDWWWDLDL,0,3,7,3,14,WLDLLDWDWD,WWWDWWWWDD
+Cesena,Chievo,1-1,/match/ac-cesena/chievo/1997,1997,22,serie_b,20,38,1,1,1,19,4,9,8,18,22,WWWDDDWDWDDWLWDDWWWDL,3,6,1,14,11,8,6,10,5,22,21,WDWDWDWLWWDWLWDDDDDDW,0,8,3,9,13,WDDDWDLDWD,DDDWWDWDDDD
+Cosenza Calcio,Genoa,0-0,/match/fortitudo-cosenza/genoa/1997,1997,22,serie_b,20,38,1,0,0,18,5,7,9,22,28,WWWDWDWDDDLWWDWLLWWDW,3,6,1,12,9,6,7,10,4,31,16,DWWDDWDDLDDWDWDLWWDLW,2,5,3,12,11,WDDDDWDLWD,WDDLWDDWDL
+Venezia,Padova,1-1,/match/venezia/calcio-padova/1997,1997,22,serie_b,20,38,1,1,1,14,5,8,8,24,24,WDWLDWWDLDWWWWWDDWWDD,5,3,2,14,6,13,5,9,7,22,27,WWWDWDWWLDWDLDDDDWLWD,1,4,5,9,17,DLWLWWWDWD,WDDWWLDDWW
+Empoli,Ravenna FC,1-4,/match/empoli-fc/ravenna-calcio/1997,1997,22,serie_b,20,38,2,1,4,5,8,7,6,23,22,WWDWWLDWLDWWWWDDWWDWD,7,2,1,17,7,10,8,7,6,23,23,WWDLDLLWDDDWLDWLWWLDL,4,3,3,10,11,WWDLWWWWDW,WLLWDDLLWD
+Pescara,Reggina,3-0,/match/pescara-calcio/reggina/1997,1997,22,serie_b,20,38,0,3,0,2,10,7,4,30,18,DWLDWDWLWDWWLDDWWDLWL,6,3,1,17,7,16,5,8,8,20,24,LWLDDWDDDDWWWDDWWWWLL,1,4,5,8,15,WDWWWWLDDW,WDWDDWDWWL
+Palermo FC,Salernitana,1-1,/match/palermo/salernitana-calcio-1919/1997,1997,22,serie_b,20,38,1,1,1,15,4,11,6,23,27,DDDWWLWWDLDWDDDDLDDWW,4,4,3,15,12,12,5,7,9,11,22,WWDWWWWDDWDDWDWWWWWWD,0,2,9,3,20,DWLWLWDDLDW,WWWDWDWWWWW
+SSC Bari,Torino,0-0,/match/as-bari/torino-fc/1997,1997,22,serie_b,20,38,1,0,0,7,7,11,3,28,18,WWDDDDLWDDDDLWDDDLLWW,4,5,1,16,7,3,10,6,5,32,23,WDDWWWDLLLLWDWWWLWLDD,4,3,3,12,9,WDDWDDWDLW,DWDLLWWLLD
+Salernitana,Lucchese Libertas,1-0,/match/salernitana-calcio-1919/luchese/1997,1997,23,serie_b,20,38,0,1,0,12,5,8,9,12,23,WWDWWWWDDWDDWDWWWWWWDD,5,5,0,8,2,15,5,9,8,16,22,DDWWDWWWLDWDDDDDLWWLWL,1,4,5,4,10,WDWWDDDWWD,DWDWLWDDWW
+Reggina,SSC Bari,2-2,/match/reggina/as-bari/1997,1997,23,serie_b,20,38,1,2,2,18,5,8,9,20,27,LWLDDWDDDDWWWDDWWWWLLW,4,4,3,12,9,6,7,12,3,28,18,WWDDDDLWDDDDLWDDDLLWWD,3,6,2,12,11,LLDDDWWDWWL,WDDLDDLDDLW
+Genoa,Cesena,1-0,/match/genoa/ac-cesena/1997,1997,23,serie_b,20,38,0,1,0,5,7,11,4,31,16,DWWDDWDDLDDWDWDLWWDLWD,5,5,1,19,5,17,4,10,8,19,23,WWWDDDWDWDDWLWDDWWWDLD,1,3,7,4,11,DWDWDDDWLWW,WWDWDWWDWWL
+Chievo,Cosenza Calcio,3-2,/match/chievo/fortitudo-cosenza/1997,1997,23,serie_b,20,38,0,3,2,9,6,11,5,23,22,WDWDWDWLWWDWLWDDDDDDWD,6,2,2,13,8,16,5,8,9,22,28,WWWDWDWDDDLWWDWLLWWDWD,2,1,8,10,19,WWWLWLWDDW,WWWWDLWWLWW
+Ravenna FC,Cremonese,4-0,/match/ravenna-calcio/us-cremonese/1997,1997,23,serie_b,20,38,0,4,0,10,9,7,6,27,24,WWDLDLLWDDDWLDWLWWLDLL,4,4,3,13,12,20,5,7,10,14,23,WWWLWDWLWLLDDWDDWWDDWW,1,3,7,3,13,WDDLDWDWWLL,WWWWWLDDWDW
+Torino,Empoli,0-1,/match/torino-fc/empoli-fc/1997,1997,23,serie_b,20,38,2,0,1,4,10,7,5,32,23,WDDWWWDLLLLWDWWWLWLDDD,6,3,2,20,14,7,8,7,7,24,26,WWDWWLDWLDWWWWDDWWDWDL,1,5,5,6,15,WDWWLLDWWWD,WDWLWDWDDWD
+Padova,Calcio Foggia,0-0,/match/calcio-padova/us-foggia/1997,1997,23,serie_b,20,38,1,0,0,13,5,10,7,23,28,WWWDWDWWLDWDLDDDDWLWDD,4,5,2,13,10,8,8,7,7,24,25,WWWDWWWWDDLWDWDLLLDWLD,3,2,5,10,17,WWWWLDDDDLD,WWWWDDWLLL
+Castel Sangro,Palermo FC,1-0,/match/castel-sangro/palermo/1997,1997,23,serie_b,20,38,0,1,0,19,6,4,12,14,28,WWWWWLDWWLWWWDWWWDLDLW,6,1,4,10,12,11,4,12,6,24,28,DDDWWLWWDLDWDDDDLDDWWD,0,7,3,8,15,WWLWLWDWWLL,DDWWDDDDDW
+Brescia,Pescara,2-0,/match/brescia/pescara-calcio/1997,1997,23,serie_b,20,38,0,2,0,3,10,7,5,28,21,WDWDDDDLWLWWWWDDLWWWWL,6,4,0,14,4,2,11,7,4,33,18,DWLDWDWLWDWWLDDWWDLWLW,4,4,3,13,11,DWDDWWWDWW,DLDLDWDWWLL
+Lecce,Venezia,2-2,/match/lecce/venezia/1997,1997,23,serie_b,20,38,1,2,2,1,11,7,4,34,25,LWWLWWWLDLDDWDDWWWWLDD,7,3,1,20,10,14,5,9,8,25,25,WDWLDWWDLDWWWWWDDWWDDD,0,5,6,10,18,WWWWDDWDWWL,WWDWDDWWDWD
+Palermo FC,Padova,1-3,/match/palermo/calcio-padova/1997,1997,24,serie_b,20,38,2,1,3,15,4,12,7,24,29,DDDWWLWWDLDWDDDDLDDWWDW,4,5,3,16,13,12,5,11,7,23,28,WWWDWDWWLDWDLDDDDWLWDDD,1,5,5,10,18,DWLWLWDDLDWD,WDDWWLDDWWD
+Cesena,Brescia,1-3,/match/ac-cesena/brescia/1997,1997,24,serie_b,20,38,2,1,3,19,4,10,9,19,24,WWWDDDWDWDDWLWDDWWWDLDW,3,7,1,15,12,2,11,7,5,30,21,WDWDDDDLWLWWWWDDLWWWWLW,4,3,5,14,17,WDDDWDLDWDD,WDDLLWWDLWWL
+Castel Sangro,Chievo,0-0,/match/castel-sangro/chievo/1997,1997,24,serie_b,20,38,1,0,0,14,7,4,12,15,28,WWWWWLDWWLWWWDWWWDLDLWW,7,1,4,11,12,8,7,11,5,26,24,WDWDWDWLWWDWLWDDDDDDWDW,0,9,3,10,14,WWLWLWDWWLLW,DDDWWDWDDDDD
+SSC Bari,Genoa,1-1,/match/as-bari/genoa/1997,1997,24,serie_b,20,38,1,1,1,6,7,13,3,30,20,WWDDDDLWDDDDLWDDDLLWWDD,4,6,1,16,7,4,8,11,4,32,16,DWWDDWDDLDDWDWDLWWDLWDW,2,6,3,12,11,WDDWDDWDLWD,WDDLWDDWDLD
+Empoli,Lecce,1-1,/match/empoli-fc/lecce/1997,1997,24,serie_b,20,38,1,1,1,7,9,7,7,25,26,WWDWWLDWLDWWWWDDWWDWDLL,7,2,2,18,11,1,11,8,4,36,27,LWWLWWWLDLDDWDDWWWWLDDD,4,4,3,14,15,WWDLWWWWDWL,LLWLLDDWWDD
+Calcio Foggia,Pescara,0-0,/match/us-foggia/pescara-calcio/1997,1997,24,serie_b,20,38,1,0,0,10,8,8,7,24,25,WWWDWWWWDDLWDWDLLLDWLDD,5,5,2,14,8,3,11,7,5,33,20,DWLDWDWLWDWWLDDWWDLWLWW,4,4,4,13,13,WDWWDLWDLDWD,DLDLDWDWWLLW
+Lucchese Libertas,Ravenna FC,0-0,/match/luchese/ravenna-calcio/1997,1997,24,serie_b,20,38,1,0,0,17,5,9,9,16,23,DDWWDWWWLDWDDDDDLWWLWLW,4,5,3,12,12,9,10,7,6,31,24,WWDLDLLWDDDWLDWLWWLDLLW,5,3,3,14,12,DWWWDDDDLWLL,WLLWDDLLWDL
+Venezia,Reggina,1-0,/match/venezia/reggina/1997,1997,24,serie_b,20,38,0,1,0,13,5,10,8,27,27,WDWLDWWDLDWWWWWDDWWDDDD,5,4,2,15,7,16,5,9,9,22,29,LWLDDWDDDDWWWDDWWWWLLWD,1,4,6,8,18,DLWLWWWDWDD,WDWDDWDWWLW
+Cremonese,Salernitana,0-0,/match/us-cremonese/salernitana-calcio-1919/1997,1997,24,serie_b,20,38,1,0,0,20,5,7,11,14,27,WWWLWDWLWLLDDWDDWWDDWWW,4,4,3,11,10,11,6,8,9,13,23,WWDWWWWDDWDDWDWWWWWWDDW,0,3,9,4,21,WLDLLDWDWDW,WWWDWDWWWWWD
+Cosenza Calcio,Torino,1-2,/match/fortitudo-cosenza/torino-fc/1997,1997,24,serie_b,20,38,2,1,2,18,5,8,10,24,31,WWWDWDWDDDLWWDWLLWWDWDW,3,7,1,12,9,5,10,7,6,32,24,WDDWWWDLLLLWDWWWLWLDDDL,4,4,3,12,9,WDDDDWDLWDD,DWDLLWWLLDD
+Padova,Cremonese,2-2,/match/calcio-padova/us-cremonese/1997,1997,25,serie_b,20,38,1,2,2,13,6,11,7,26,29,WWWDWDWWLDWDLDDDDWLWDDDL,4,6,2,13,10,20,5,8,11,14,27,WWWLWDWLWLLDDWDDWWDDWWWD,1,3,8,3,17,WWWWLDDDDLDD,WWWWWLDDWDWW
+Chievo,SSC Bari,3-2,/match/chievo/as-bari/1997,1997,25,serie_b,20,38,0,3,2,8,7,12,5,26,24,WDWDWDWLWWDWLWDDDDDDWDWD,7,2,2,16,10,6,7,14,3,31,21,WWDDDDLWDDDDLWDDDLLWWDDD,3,7,2,14,13,WWWLWLWDDWW,WDDLDDLDDLWD
+Ravenna FC,Castel Sangro,1-0,/match/ravenna-calcio/castel-sangro/1997,1997,25,serie_b,20,38,0,1,0,9,10,8,6,31,24,WWDLDLLWDDDWLDWLWWLDLLWD,5,4,3,17,12,14,7,5,12,15,28,WWWWWLDWWLWWWDWWWDLDLWWD,0,3,8,4,16,WDDLDWDWWLLW,WWWDWWWWDDW
+Pescara,Cesena,2-2,/match/pescara-calcio/ac-cesena/1997,1997,25,serie_b,20,38,1,2,2,3,11,8,5,33,20,DWLDWDWLWDWWLDDWWDLWLWWD,7,3,1,20,7,19,4,10,10,20,27,WWWDDDWDWDDWLWDDWWWDLDWL,1,3,8,4,12,WDWWWWLDDWW,WWDWDWWDWWLW
+Brescia,Cosenza Calcio,2-0,/match/brescia/fortitudo-cosenza/1997,1997,25,serie_b,20,38,0,2,0,2,12,7,5,33,22,WDWDDDDLWLWWWWDDLWWWWLWL,7,4,0,16,4,18,5,8,11,25,33,WWWDWDWDDDLWWDWLLWWDWDWL,2,1,9,12,22,DWDDWWWDWWW,WWWWDLWWLWWW
+Venezia,Calcio Foggia,2-1,/match/venezia/us-foggia/1997,1997,25,serie_b,20,38,0,2,1,11,6,10,8,28,27,WDWLDWWDLDWWWWWDDWWDDDDW,6,4,2,16,7,10,8,9,7,24,25,WWWDWWWWDDLWDWDLLLDWLDDD,3,3,5,10,17,DLWLWWWDWDDW,WWWWDDWLLLD
+Lecce,Genoa,1-0,/match/lecce/genoa/1997,1997,25,serie_b,20,38,0,1,0,1,11,9,4,37,28,LWWLWWWLDLDDWDDWWWWLDDDD,7,4,1,22,12,4,8,12,4,33,17,DWWDDWDDLDDWDWDLWWDLWDWD,2,7,3,13,12,WWWWDDWDWWLD,WDDLWDDWDLDD
+Reggina,Lucchese Libertas,4-2,/match/reggina/luchese/1997,1997,25,serie_b,20,38,0,4,2,17,5,9,10,22,30,LWLDDWDDDDWWWDDWWWWLLWDW,4,5,3,14,11,15,5,10,9,16,23,DDWWDWWWLDWDDDDDLWWLWLWD,1,4,6,4,11,LLDDDWWDWWLD,DWDWLWDDWWW
+Empoli,Palermo FC,3-1,/match/empoli-fc/palermo/1997,1997,25,serie_b,20,38,0,3,1,7,9,8,7,26,27,WWDWWLDWLDWWWWDDWWDWDLLD,7,3,2,19,12,16,4,12,8,25,32,DDDWWLWWDLDWDDDDLDDWWDWL,0,7,4,8,16,WWDLWWWWDWLD,DDWWDDDDDWW
+Salernitana,Torino,2-1,/match/salernitana-calcio-1919/torino-fc/1997,1997,25,serie_b,20,38,0,2,1,12,6,9,9,13,23,WWDWWWWDDWDDWDWWWWWWDDWD,6,5,0,9,2,5,11,7,6,34,25,WDDWWWDLLLLWDWWWLWLDDDLL,5,4,3,14,10,WDWWDDDWWDW,DWDLLWWLLDDL
+Castel Sangro,Empoli,0-2,/match/castel-sangro/empoli-fc/1997,1997,26,serie_b,20,38,2,0,2,15,7,5,13,15,29,WWWWWLDWWLWWWDWWWDLDLWWDW,7,2,4,11,12,4,10,8,7,29,28,WWDWWLDWLDWWWWDDWWDWDLLDW,2,5,5,7,15,WWLWLWDWWLLWD,WDWLWDWDDWDL
+Torino,Brescia,0-2,/match/torino-fc/brescia/1997,1997,26,serie_b,20,38,2,0,2,8,11,7,7,35,27,WDDWWWDLLLLWDWWWLWLDDDLLW,6,3,3,20,15,2,13,7,5,35,22,WDWDDDDLWLWWWWDDLWWWWLWLW,5,3,5,17,18,WDWWLLDWWWDL,WDDLLWWDLWWLL
+Cosenza Calcio,Calcio Foggia,3-2,/match/fortitudo-cosenza/us-foggia/1997,1997,26,serie_b,20,38,0,3,2,20,5,8,12,25,35,WWWDWDWDDDLWWDWLLWWDWDWLW,3,7,2,13,11,12,8,9,8,25,27,WWWDWWWWDDLWDWDLLLDWLDDDW,3,3,6,11,19,WDDDDWDLWDDL,WWWWDDWLLLDW
+Chievo,Lecce,1-0,/match/chievo/lecce/1997,1997,26,serie_b,20,38,0,1,0,5,8,12,5,29,26,WDWDWDWLWWDWLWDDDDDDWDWDW,8,2,2,19,12,1,12,9,4,38,28,LWWLWWWLDLDDWDDWWWWLDDDDW,4,5,3,15,16,WWWLWLWDDWWW,LLWLLDDWWDDD
+Lucchese Libertas,Padova,1-0,/match/luchese/calcio-padova/1997,1997,26,serie_b,20,38,0,1,0,16,5,10,10,18,27,DDWWDWWWLDWDDDDDLWWLWLWDW,4,6,3,12,12,13,6,12,7,28,31,WWWDWDWWLDWDLDDDDWLWDDDLD,2,5,5,13,19,DWWWDDDDLWLLD,WDDWWLDDWWDL
+Cremonese,Pescara,2-1,/match/us-cremonese/pescara-calcio/1997,1997,26,serie_b,20,38,0,2,1,19,5,9,11,16,29,WWWLWDWLWLLDDWDDWWDDWWWDD,4,5,3,11,10,3,11,9,5,35,22,DWLDWDWLWDWWLDDWWDLWLWWDD,4,5,4,13,13,WLDLLDWDWDWD,DLDLDWDWWLLWD
+SSC Bari,Ravenna FC,0-2,/match/as-bari/ravenna-calcio/1997,1997,26,serie_b,20,38,2,0,2,9,7,14,4,33,24,WWDDDDLWDDDDLWDDDLLWWDDDW,4,7,1,17,8,6,11,8,6,32,24,WWDLDLLWDDDWLDWLWWLDLLWDW,5,4,3,14,12,WDDWDDWDLWDD,WLLWDDLLWDLD
+Genoa,Reggina,1-2,/match/genoa/reggina/1997,1997,26,serie_b,20,38,2,1,2,7,8,12,5,33,18,DWWDDWDDLDDWDWDLWWDLWDWDW,6,5,1,20,5,14,6,9,10,26,32,LWLDDWDDDDWWWDDWWWWLLWDWW,1,4,7,8,19,DWDWDDDWLWWW,WDWDDWDWWLWW
+Cesena,Salernitana,2-1,/match/ac-cesena/salernitana-calcio-1919/1997,1997,26,serie_b,20,38,0,2,1,18,4,11,10,22,29,WWWDDDWDWDDWLWDDWWWDLDWLD,3,7,2,16,15,10,7,9,9,15,24,WWDWWWWDDWDDWDWWWWWWDDWDW,0,4,9,4,21,WDDDWDLDWDDL,WWWDWDWWWWWDD
+Palermo FC,Venezia,2-2,/match/palermo/venezia/1997,1997,26,serie_b,20,38,1,2,2,17,4,12,9,26,35,DDDWWLWWDLDWDDDDLDDWWDWLW,4,5,4,17,16,11,7,10,8,30,28,WDWLDWWDLDWWWWWDDWWDDDDWW,0,6,6,12,20,DWLWLWDDLDWDL,WWDWDDWWDWDD
+Empoli,SSC Bari,2-1,/match/empoli-fc/as-bari/1997,1997,27,serie_b,20,38,0,2,1,5,11,8,7,31,28,WWDWWLDWLDWWWWDDWWDWDLLDWL,8,3,2,22,13,10,7,14,5,33,26,WWDDDDLWDDDDLWDDDLLWWDDDWL,3,7,3,16,16,WWDLWWWWDWLDW,WDDLDDLDDLWDW
+Padova,Castel Sangro,1-1,/match/calcio-padova/castel-sangro/1997,1997,27,serie_b,20,38,1,1,1,13,6,12,8,28,32,WWWDWDWWLDWDLDDDDWLWDDDLDW,4,7,2,15,12,18,7,5,14,15,31,WWWWWLDWWLWWWDWWWDLDLWWDWL,0,3,9,4,17,WWWWLDDDDLDDD,WWWDWWWWDDWW
+Venezia,Cesena,0-1,/match/venezia/ac-cesena/1997,1997,27,serie_b,20,38,2,0,1,9,7,11,8,32,30,WDWLDWWDLDWWWWWDDWWDDDDWWD,7,4,2,18,8,16,5,11,10,24,30,WWWDDDWDWDDWLWDDWWWDLDWLDW,1,4,8,6,14,DLWLWWWDWDDWW,WWDWDWWDWWLWD
+Brescia,Chievo,0-0,/match/brescia/chievo/1997,1997,27,serie_b,20,38,1,0,0,1,14,7,5,37,22,WDWDDDDLWLWWWWDDLWWWWLWLWL,8,4,0,18,4,3,9,12,5,30,26,WDWDWDWLWWDWLWDDDDDDWDWDWW,0,10,3,10,14,DWDDWWWDWWWW,DDDWWDWDDDDDD
+Reggina,Cosenza Calcio,1-0,/match/reggina/fortitudo-cosenza/1997,1997,27,serie_b,20,38,0,1,0,14,7,9,10,28,33,LWLDDWDDDDWWWDDWWWWLLWDWWL,5,5,3,18,13,20,6,8,12,28,37,WWWDWDWDDDLWWDWLLWWDWDWLWW,2,1,10,12,24,LLDDDWWDWWLDW,WWWWDLWWLWWWW
+Lecce,Cremonese,2-1,/match/lecce/us-cremonese/1997,1997,27,serie_b,20,38,0,2,1,2,12,9,5,38,29,LWWLWWWLDLDDWDDWWWWLDDDDWW,8,4,1,23,12,17,6,9,11,18,30,WWWLWDWLWLLDDWDDWWDDWWWDDW,1,4,8,5,19,WWWWDDWDWWLDW,WWWWWLDDWDWWD
+Salernitana,Genoa,1-1,/match/salernitana-calcio-1919/genoa/1997,1997,27,serie_b,20,38,1,1,1,11,7,9,10,16,26,WWDWWWWDDWDDWDWWWWWWDDWDWW,7,5,0,11,3,7,8,12,6,34,20,DWWDDWDDLDDWDWDLWWDLWDWDWL,2,7,4,13,13,WDWWDDDWWDWW,WDDLWDDWDLDDW
+Calcio Foggia,Lucchese Libertas,2-0,/match/us-foggia/luchese/1997,1997,27,serie_b,20,38,0,2,0,12,8,9,9,27,30,WWWDWWWWDDLWDWDLLLDWLDDDWW,5,6,2,14,8,15,6,10,10,19,27,DDWWDWWWLDWDDDDDLWWLWLWDWW,1,4,7,6,15,WDWWDLWDLDWDD,DWDWLWDDWWWW
+Ravenna FC,Palermo FC,0-1,/match/ravenna-calcio/palermo/1997,1997,27,serie_b,20,38,2,0,1,6,12,8,6,34,24,WWDLDLLWDDDWLDWLWWLDLLWDWL,6,4,3,18,12,19,4,13,9,28,37,DDDWWLWWDLDWDDDDLDDWWDWLWD,0,7,5,9,19,WDDLDWDWWLLWW,DDWWDDDDDWWW
+Pescara,Torino,0-0,/match/pescara-calcio/torino-fc/1997,1997,27,serie_b,20,38,1,0,0,4,11,9,6,36,24,DWLDWDWLWDWWLDDWWDLWLWWDDW,7,4,1,22,9,8,11,7,8,35,29,WDDWWWDLLLLWDWWWLWLDDDLLWL,5,4,4,15,12,WDWWWWLDDWWD,DWDLLWWLLDDLW
+Cremonese,Brescia,0-1,/match/us-cremonese/brescia/1997,1997,28,serie_b,20,38,2,0,1,18,6,9,12,19,32,WWWLWDWLWLLDDWDDWWDDWWWDDWW,5,5,3,13,11,1,14,8,5,37,22,WDWDDDDLWLWWWWDDLWWWWLWLWLD,6,3,5,19,18,WLDLLDWDWDWDW,WDDLLWWDLWWLLL
+Castel Sangro,Cesena,1-0,/match/castel-sangro/ac-cesena/1997,1997,28,serie_b,20,38,0,1,0,19,7,6,14,16,32,WWWWWLDWWLWWWDWWWDLDLWWDWLD,7,2,5,11,14,16,6,11,10,25,30,WWWDDDWDWDDWLWDDWWWDLDWLDWL,2,4,8,7,14,WWLWLWDWWLLWDL,WWDWDWWDWWLWDL
+Lucchese Libertas,Empoli,2-2,/match/luchese/empoli-fc/1997,1997,28,serie_b,20,38,1,2,2,15,6,10,11,19,29,DDWWDWWWLDWDDDDDLWWLWLWDWWW,5,6,3,13,12,3,12,8,7,33,29,WWDWWLDWLDWWWWDDWWDWDLLDWLW,3,5,5,9,15,DWWWDDDDLWLLDW,WDWLWDWDDWDLL
+Palermo FC,Calcio Foggia,0-1,/match/palermo/us-foggia/1997,1997,28,serie_b,20,38,2,0,1,17,5,13,9,29,37,DDDWWLWWDLDWDDDDLDDWWDWLWDL,4,6,4,19,18,9,9,9,9,29,30,WWWDWWWWDDLWDWDLLLDWLDDDWWW,3,3,7,13,22,DWLWLWDDLDWDLD,WWWWDDWLLLDWW
+SSC Bari,Lecce,2-1,/match/as-bari/lecce/1997,1997,28,serie_b,20,38,0,2,1,11,7,14,6,34,28,WWDDDDLWDDDDLWDDDLLWWDDDWLW,4,7,2,17,10,2,13,9,5,40,30,LWWLWWWLDLDDWDDWWWWLDDDDWWW,4,5,4,15,17,WDDWDDWDLWDDL,LLWLLDDWWDDDW
+Torino,Padova,1-2,/match/torino-fc/calcio-padova/1997,1997,28,serie_b,20,38,2,1,2,8,11,8,8,35,29,WDDWWWDLLLLWDWWWLWLDDDLLWLD,6,3,4,20,17,14,6,13,8,29,33,WWWDWDWWLDWDLDDDDWLWDDDLDWD,2,5,6,13,20,WDWWLLDWWWDLL,WDDWWLDDWWDLW
+Chievo,Pescara,1-1,/match/chievo/pescara-calcio/1997,1997,28,serie_b,20,38,1,1,1,4,9,13,5,30,26,WDWDWDWLWWDWLWDDDDDDWDWDWWD,9,2,2,20,12,5,11,10,6,36,24,DWLDWDWLWDWWLDDWWDLWLWWDDWD,4,5,5,14,15,WWWLWLWDDWWWW,DLDLDWDWWLLWDW
+Ravenna FC,Reggina,0-0,/match/ravenna-calcio/reggina/1997,1997,28,serie_b,20,38,1,0,0,6,12,8,7,34,25,WWDLDLLWDDDWLDWLWWLDLLWDWLL,6,4,4,18,13,13,8,9,10,29,33,LWLDDWDDDDWWWDDWWWWLLWDWWLW,2,4,7,10,20,WDDLDWDWWLLWWL,WDWDDWDWWLWWL
+Cosenza Calcio,Salernitana,3-1,/match/fortitudo-cosenza/salernitana-calcio-1919/1997,1997,28,serie_b,20,38,0,3,1,20,6,8,13,28,38,WWWDWDWDDDLWWDWLLWWDWDWLWWW,4,7,2,16,13,10,7,10,10,17,27,WWDWWWWDDWDDWDWWWWWWDDWDWWD,0,4,10,5,23,WDDDDWDLWDDLW,WWWDWDWWWWWDDW
+Genoa,Venezia,3-0,/match/genoa/venezia/1997,1997,28,serie_b,20,38,0,3,0,7,8,13,6,35,21,DWWDDWDDLDDWDWDLWWDLWDWDWLD,6,5,2,21,7,12,7,11,9,32,31,WDWLDWWDLDWWWWWDDWWDDDDWWDL,0,7,6,14,22,DWDWDDDWLWWWL,WWDWDDWWDWDDD
+Cremonese,Torino,1-1,/match/us-cremonese/torino-fc/1997,1997,29,serie_b,20,38,1,1,1,20,6,9,13,19,33,WWWLWDWLWLLDDWDDWWDDWWWDDWWL,5,5,4,13,12,10,11,8,9,36,31,WDDWWWDLLLLWDWWWLWLDDDLLWLDL,5,5,4,15,12,WLDLLDWDWDWDWL,DWDLLWWLLDDLWD
+Cesena,SSC Bari,0-2,/match/ac-cesena/as-bari/1997,1997,29,serie_b,20,38,2,0,2,18,6,11,11,25,31,WWWDDDWDWDDWLWDDWWWDLDWLDWLW,4,7,2,18,16,9,8,14,6,36,29,WWDDDDLWDDDDLWDDDLLWWDDDWLWW,3,7,4,17,18,WDDDWDLDWDDLW,WDDLDDLDDLWDWW
+Brescia,Castel Sangro,3-1,/match/brescia/castel-sangro/1997,1997,29,serie_b,20,38,0,3,1,1,15,8,5,38,22,WDWDDDDLWLWWWWDDLWWWWLWLWLDL,8,5,0,18,4,16,8,6,14,17,32,WWWWWLDWWLWWWDWWWDLDLWWDWLDW,0,4,9,5,18,DWDDWWWDWWWWD,WWWDWWWWDDWWD
+Salernitana,Chievo,2-2,/match/salernitana-calcio-1919/chievo/1997,1997,29,serie_b,20,38,1,2,2,11,7,10,11,18,30,WWDWWWWDDWDDWDWWWWWWDDWDWWDW,7,6,0,12,4,4,9,14,5,31,27,WDWDWDWLWWDWLWDDDDDDWDWDWWDD,0,11,3,10,14,WDWWDDDWWDWWD,DDDWWDWDDDDDDD
+Empoli,Cosenza Calcio,4-0,/match/empoli-fc/fortitudo-cosenza/1997,1997,29,serie_b,20,38,0,4,0,3,12,9,7,35,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWD,9,3,2,24,14,17,7,8,13,31,39,WWWDWDWDDDLWWDWLLWWDWDWLWWWW,2,1,11,12,25,WWDLWWWWDWLDWW,WWWWDLWWLWWWWW
+Pescara,Genoa,1-3,/match/pescara-calcio/genoa/1997,1997,29,serie_b,20,38,2,1,3,5,11,11,6,37,25,DWLDWDWLWDWWLDDWWDLWLWWDDWDD,7,5,1,22,9,7,9,13,6,38,21,DWWDDWDDLDDWDWDLWWDLWDWDWLDW,2,8,4,14,14,WDWWWWLDDWWDD,WDDLWDDWDLDDWD
+Venezia,Lucchese Libertas,2-1,/match/venezia/luchese/1997,1997,29,serie_b,20,38,0,2,1,12,7,11,10,32,34,WDWLDWWDLDWWWWWDDWWDDDDWWDLW,7,4,3,18,9,15,6,11,11,21,31,DDWWDWWWLDWDDDDDLWWLWLWDWWWD,1,4,8,6,17,DLWLWWWDWDDWWL,DWDWLWDDWWWWW
+Reggina,Padova,1-0,/match/reggina/calcio-padova/1997,1997,29,serie_b,20,38,0,1,0,13,8,10,10,29,33,LWLDDWDDDDWWWDDWWWWLLWDWWLWD,6,5,3,19,13,14,7,13,8,31,34,WWWDWDWWLDWDLDDDDWLWDDDLDWDL,3,5,6,15,21,LLDDDWWDWWLDWW,WDDWWLDDWWDLWL
+Lecce,Palermo FC,1-1,/match/lecce/palermo/1997,1997,29,serie_b,20,38,1,1,1,2,13,9,6,41,32,LWWLWWWLDLDDWDDWWWWLDDDDWWWW,9,4,1,25,13,19,5,13,10,29,38,DDDWWLWWDLDWDDDDLDDWWDWLWDLL,1,7,5,10,19,WWWWDDWDWWLDWW,DDWWDDDDDWWWL
+Calcio Foggia,Ravenna FC,0-1,/match/us-foggia/ravenna-calcio/1997,1997,29,serie_b,20,38,2,0,1,8,10,9,9,30,30,WWWDWWWWDDLWDWDLLLDWLDDDWWWL,6,6,2,16,8,6,12,9,7,34,25,WWDLDLLWDDDWLDWLWWLDLLWDWLLD,6,4,3,16,12,WDWWDLWDLDWDDW,WLLWDDLLWDLDL
+Chievo,Genoa,1-1,/match/chievo/genoa/1997,1997,30,serie_b,20,38,1,1,1,4,9,15,5,33,29,WDWDWDWLWWDWLWDDDDDDWDWDWWDDD,9,3,2,21,13,7,10,13,6,41,22,DWWDDWDDLDDWDWDLWWDLWDWDWLDWL,3,8,4,17,15,WWWLWLWDDWWWWD,WDDLWDDWDLDDWDL
+Padova,Brescia,2-0,/match/calcio-padova/brescia/1997,1997,30,serie_b,20,38,0,2,0,14,7,13,9,31,35,WWWDWDWWLDWDLDDDDWLWDDDLDWDLW,4,8,2,16,13,1,16,8,5,41,23,WDWDDDDLWLWWWWDDLWWWWLWLWLDLW,7,3,5,20,18,WWWWLDDDDLDDDD,WDDLLWWDLWWLLLL
+Palermo FC,Cesena,0-1,/match/palermo/ac-cesena/1997,1997,30,serie_b,20,38,2,0,1,19,5,14,10,30,39,DDDWWLWWDLDWDDDDLDDWWDWLWDLLD,4,6,5,19,19,18,6,11,12,25,33,WWWDDDWDWDDWLWDDWWWDLDWLDWLWL,2,4,9,7,15,DWLWLWDDLDWDLDL,WWDWDWWDWWLWDLW
+Cosenza Calcio,Cremonese,2-1,/match/fortitudo-cosenza/us-cremonese/1997,1997,30,serie_b,20,38,0,2,1,17,7,8,14,31,43,WWWDWDWDDDLWWDWLLWWDWDWLWWWWW,5,7,2,19,14,20,6,10,13,20,34,WWWLWDWLWLLDDWDDWWDDWWWDDWWLD,1,4,9,6,21,WDDDDWDLWDDLWW,WWWWWLDDWDWWDW
+Venezia,Empoli,0-0,/match/venezia/empoli-fc/1997,1997,30,serie_b,20,38,1,0,0,9,8,11,10,34,35,WDWLDWWDLDWWWWWDDWWDDDDWWDLWW,8,4,3,20,10,3,13,9,7,39,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWDW,3,6,5,11,17,DLWLWWWDWDDWWLW,WDWLWDWDDWDLLD
+Torino,Calcio Foggia,1-1,/match/torino-fc/us-foggia/1997,1997,30,serie_b,20,38,1,1,1,13,11,9,9,37,32,WDDWWWDLLLLWDWWWLWLDDDLLWLDLD,6,3,5,21,19,10,10,9,10,30,31,WWWDWWWWDDLWDWDLLLDWLDDDWWWLL,4,3,7,14,22,WDWWLLDWWWDLLL,WWWWDDWLLLDWWL
+Ravenna FC,Lecce,0-0,/match/ravenna-calcio/lecce/1997,1997,30,serie_b,20,38,1,0,0,6,13,9,7,35,25,WWDLDLLWDDDWLDWLWWLDLLWDWLLDL,6,5,4,18,13,2,13,10,6,42,33,LWWLWWWLDLDDWDDWWWWLDDDDWWWWD,4,5,5,16,19,WDDLDWDWWLLWWLD,LLWLLDDWWDDDWW
+Lucchese Libertas,Pescara,1-0,/match/luchese/pescara-calcio/1997,1997,30,serie_b,20,38,0,1,0,15,6,11,12,22,33,DDWWDWWWLDWDDDDDLWWLWLWDWWWDW,5,7,3,15,14,5,11,11,7,38,28,DWLDWDWLWDWWLDDWWDLWLWWDDWDDL,4,6,5,15,16,DWWWDDDDLWLLDWD,DLDLDWDWWLLWDWD
+Castel Sangro,Reggina,1-0,/match/castel-sangro/reggina/1997,1997,30,serie_b,20,38,0,1,0,16,8,6,15,18,35,WWWWWLDWWLWWWDWWWDLDLWWDWLDWW,8,2,5,12,14,11,9,10,10,30,33,LWLDDWDDDDWWWDDWWWWLLWDWWLWDW,2,5,7,10,20,WWLWLWDWWLLWDLW,WDWDDWDWWLWWLD
+SSC Bari,Salernitana,2-1,/match/as-bari/salernitana-calcio-1919/1997,1997,30,serie_b,20,38,0,2,1,8,9,14,6,38,29,WWDDDDLWDDDDLWDDDLLWWDDDWLWWL,5,7,2,19,11,12,7,11,11,20,32,WWDWWWWDDWDDWDWWWWWWDDWDWWDWD,0,4,11,6,26,WDDWDDWDLWDDLW,WWWDWDWWWWWDDWW
+Pescara,Venezia,1-3,/match/pescara-calcio/venezia/1997,1997,31,serie_b,20,38,2,1,3,8,11,11,8,38,29,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLW,7,5,2,23,12,9,8,12,10,34,35,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWD,0,7,7,14,25,WDWWWWLDDWWDDL,WWDWDDWWDWDDDW
+Cremonese,SSC Bari,0-1,/match/us-cremonese/as-bari/1997,1997,31,serie_b,20,38,2,0,1,20,6,10,14,21,36,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDW,5,6,4,14,13,7,10,14,6,40,30,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLW,4,7,4,19,18,WLDLLDWDWDWDWLD,WDDLDDLDDLWDWWL
+Genoa,Castel Sangro,1-3,/match/genoa/castel-sangro/1997,1997,31,serie_b,20,38,2,1,3,6,10,14,6,42,23,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLD,7,5,2,24,7,16,9,6,15,19,35,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWW,0,4,10,6,21,DWDWDDDWLWWWLW,WWWDWWWWDDWWDW
+Cesena,Cosenza Calcio,2-2,/match/ac-cesena/fortitudo-cosenza/1997,1997,31,serie_b,20,38,1,2,2,18,7,11,12,26,33,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLL,4,7,3,18,18,17,8,8,14,33,44,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWW,2,1,12,12,29,WDDDWDLDWDDLWL,WWWWDLWWLWWWWWW
+Chievo,Empoli,0-1,/match/chievo/empoli-fc/1997,1997,31,serie_b,20,38,2,0,1,4,9,16,5,34,30,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDD,9,4,2,22,14,3,13,10,7,39,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWD,3,7,5,11,17,WWWLWLWDDWWWWDD,WDWLWDWDDWDLLDD
+Reggina,Calcio Foggia,0-3,/match/reggina/us-foggia/1997,1997,31,serie_b,20,38,2,0,3,13,9,10,11,30,34,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWW,7,5,3,20,13,11,10,10,10,31,32,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLD,4,4,7,15,23,LLDDDWWDWWLDWWW,WWWWDDWLLLDWWLD
+Lecce,Lucchese Libertas,4-1,/match/lecce/luchese/1997,1997,31,serie_b,20,38,0,4,1,2,13,11,6,42,33,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDD,9,5,1,26,14,15,7,11,12,23,33,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWW,1,4,9,7,19,WWWWDDWDWWLDWWD,DWDWLWDDWWWWWW
+Salernitana,Padova,0-0,/match/salernitana-calcio-1919/calcio-padova/1997,1997,31,serie_b,20,38,1,0,0,14,7,11,12,21,34,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDW,7,7,0,14,6,12,8,13,9,33,35,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWW,3,5,7,15,22,WDWWDDDWWDWWDD,WDDWWLDDWWDLWLW
+Torino,Palermo FC,2-1,/match/torino-fc/palermo/1997,1997,31,serie_b,20,38,0,2,1,10,11,10,9,38,33,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDD,6,4,5,22,20,19,5,14,11,30,40,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDL,1,8,5,11,20,WDWWLLDWWWDLLLD,DDWWDDDDDWWWLD
+Brescia,Ravenna FC,0-0,/match/brescia/ravenna-calcio/1997,1997,31,serie_b,20,38,1,0,0,1,16,8,6,41,25,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWW,9,5,0,21,5,5,13,10,7,35,25,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLD,7,4,3,17,12,DWDDWWWDWWWWDW,WLLWDDLLWDLDLL
+Genoa,Torino,3-0,/match/genoa/torino-fc/1997,1997,32,serie_b,20,38,0,3,0,7,10,14,7,43,26,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLDL,7,5,3,25,10,9,12,10,9,40,34,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDDW,5,6,4,16,13,DWDWDDDWLWWWLWL,DWDLLWWLLDDLWDD
+Salernitana,Brescia,4-1,/match/salernitana-calcio-1919/brescia/1997,1997,32,serie_b,20,38,0,4,1,13,7,12,12,21,34,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDWD,7,8,0,14,6,1,16,9,6,41,25,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWWD,7,3,6,20,20,WDWWDDDWWDWWDDD,WDDLLWWDLWWLLLLW
+Padova,Cesena,1-0,/match/calcio-padova/ac-cesena/1997,1997,32,serie_b,20,38,0,1,0,12,8,14,9,33,35,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWWD,5,8,2,18,13,18,7,12,12,28,35,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLLD,3,4,9,8,15,WWWWLDDDDLDDDDW,WWDWDWWDWWLWDLWL
+Ravenna FC,Chievo,1-2,/match/ravenna-calcio/chievo/1997,1997,32,serie_b,20,38,2,1,2,5,13,11,7,35,25,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLDD,6,6,4,18,13,4,9,16,6,34,31,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDDL,0,12,3,12,16,WDDLDWDWWLLWWLDD,DDDWWDWDDDDDDDD
+Calcio Foggia,Cremonese,1-2,/match/us-foggia/us-cremonese/1997,1997,32,serie_b,20,38,2,1,2,11,11,10,10,34,32,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLDL,6,6,3,16,9,20,6,10,15,21,37,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDWL,1,4,10,7,23,WDWWDLWDLDWDDWL,WWWWWLDDWDWWDWW
+Cosenza Calcio,Lecce,0-0,/match/fortitudo-cosenza/lecce/1997,1997,32,serie_b,20,38,1,0,0,17,8,9,14,35,46,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWWD,6,7,2,21,15,2,14,11,6,46,34,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDDW,4,6,5,16,19,WDDDDWDLWDDLWWW,LLWLLDDWWDDDWWD
+Palermo FC,Lucchese Libertas,1-1,/match/palermo/luchese/1997,1997,32,serie_b,20,38,1,1,1,19,5,14,12,31,42,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDLW,4,6,6,19,20,16,7,11,13,24,37,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWWW,1,4,10,8,23,DWLWLWDDLDWDLDLL,DWDWLWDDWWWWWWW
+SSC Bari,Pescara,2-1,/match/as-bari/pescara-calcio/1997,1997,32,serie_b,20,38,0,2,1,6,11,14,6,41,30,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLWL,6,7,2,21,12,8,11,11,9,39,32,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLWL,4,6,6,15,17,WDDWDDWDLWDDLWW,DLDLDWDWWLLWDWDW
+Empoli,Reggina,1-0,/match/empoli-fc/reggina/1997,1997,32,serie_b,20,38,0,1,0,3,14,10,7,40,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWDL,10,3,2,28,14,14,9,10,12,30,37,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWWL,2,5,8,10,21,WWDLWWWWDWLDWWW,WDWDDWDWWLWWLDW
+Castel Sangro,Venezia,1-1,/match/castel-sangro/venezia/1997,1997,32,serie_b,20,38,1,1,1,15,10,6,15,22,36,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWWL,9,2,5,13,14,10,9,12,10,37,36,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWDL,1,7,7,17,26,WWLWLWDWWLLWDLWW,WWDWDDWWDWDDDWL
+Venezia,SSC Bari,0-0,/match/venezia/as-bari/1997,1997,33,serie_b,20,38,1,0,0,11,9,13,10,38,37,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWDLD,8,5,3,20,10,4,12,14,6,43,31,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLWLW,5,7,4,20,18,DLWLWWWDWDDWWLWD,WDDLDDLDDLWDWWLL
+Lucchese Libertas,Castel Sangro,2-1,/match/luchese/castel-sangro/1997,1997,33,serie_b,20,38,0,2,1,17,7,12,13,25,38,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWWWD,6,7,3,16,14,14,10,7,15,23,37,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWWLD,1,4,10,9,22,DWWWDDDDLWLLDWDW,WWWDWWWWDDWWDWL
+Torino,Chievo,1-0,/match/torino-fc/chievo/1997,1997,33,serie_b,20,38,0,1,0,10,12,10,10,40,37,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDDWW,7,4,5,24,21,5,10,16,6,36,32,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDDLL,1,12,3,14,17,WDWWLLDWWWDLLLDW,DDDWWDWDDDDDDDDL
+Pescara,Cosenza Calcio,2-0,/match/pescara-calcio/fortitudo-cosenza/1997,1997,33,serie_b,20,38,0,2,0,9,11,11,10,40,34,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLWLW,7,5,3,24,15,16,8,10,14,35,46,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWWDD,2,2,12,14,31,WDWWWWLDDWWDDLL,WWWWDLWWLWWWWWWD
+Cesena,Cremonese,4-0,/match/ac-cesena/us-cremonese/1997,1997,33,serie_b,20,38,0,4,0,18,7,12,13,28,36,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLLDW,4,8,3,20,20,20,7,10,15,23,38,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDWLL,2,4,10,9,24,WDDDWDLDWDDLWLD,WWWWWLDDWDWWDWWL
+Calcio Foggia,Empoli,0-0,/match/us-foggia/empoli-fc/1997,1997,33,serie_b,20,38,1,0,0,13,11,10,11,35,34,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLDLL,6,6,4,17,11,2,15,10,7,41,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWDLW,4,7,5,12,17,WDWWDLWDLDWDDWLL,WDWLWDWDDWDLLDDL
+Brescia,Genoa,1-2,/match/brescia/genoa/1997,1997,33,serie_b,20,38,2,1,2,1,16,9,7,42,29,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWWDW,9,6,0,21,5,6,11,14,7,46,26,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLDLW,3,9,4,18,16,DWDDWWWDWWWWDWD,WDDLWDDWDLDDWDLD
+Reggina,Palermo FC,0-0,/match/reggina/palermo/1997,1997,33,serie_b,20,38,1,0,0,15,9,10,13,30,38,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWWLW,7,5,4,20,16,19,5,15,12,32,43,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDLWD,1,8,6,12,22,LLDDDWWDWWLDWWWL,DDWWDDDDDWWWLDW
+Padova,Ravenna FC,2-0,/match/calcio-padova/ravenna-calcio/1997,1997,33,serie_b,20,38,0,2,0,12,9,14,9,34,35,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWWDW,6,8,2,19,13,7,13,11,8,36,27,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLDDL,7,5,3,17,12,WWWWLDDDDLDDDDWW,WLLWDDLLWDLDLLD
+Lecce,Salernitana,2-2,/match/lecce/salernitana-calcio-1919/1997,1997,33,serie_b,20,38,1,2,2,3,14,12,6,46,34,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDDWD,10,5,1,30,15,8,8,12,12,25,35,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDWDW,0,4,12,7,28,WWWWDDWDWWLDWWDW,WWWDWDWWWWWDDWWW
+Cesena,Calcio Foggia,2-2,/match/ac-cesena/us-foggia/1997,1997,34,serie_b,20,38,1,2,2,18,8,12,13,32,36,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLLDWW,5,8,3,24,20,13,11,11,11,35,34,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLDLLD,5,4,7,18,23,WDDDWDLDWDDLWLDW,WWWWDDWLLLDWWLDL
+Brescia,Lecce,0-0,/match/brescia/lecce/1997,1997,34,serie_b,20,38,1,0,0,3,16,9,8,43,31,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWWDWL,9,6,1,22,7,1,14,13,6,48,36,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDDWDD,4,7,5,16,19,DWDDWWWDWWWWDWDL,LLWLLDDWWDDDWWDD
+SSC Bari,Lucchese Libertas,0-0,/match/as-bari/luchese/1997,1997,34,serie_b,20,38,1,0,0,4,12,15,6,43,31,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLWLWD,7,7,2,23,13,15,8,12,13,27,39,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWWWDW,1,5,10,9,24,WDDWDDWDLWDDLWWW,DWDWLWDDWWWWWWWD
+Genoa,Padova,2-1,/match/genoa/calcio-padova/1997,1997,34,serie_b,20,38,0,2,1,5,12,14,7,48,27,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLDLWL,8,5,3,28,10,7,10,14,9,36,35,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWWDWW,3,6,7,15,22,DWDWDDDWLWWWLWLW,WDDWWLDDWWDLWLWD
+Cremonese,Palermo FC,2-2,/match/us-cremonese/palermo/1997,1997,34,serie_b,20,38,1,2,2,20,7,10,16,23,42,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDWLLW,5,6,5,14,14,19,5,16,12,32,43,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDLWDD,1,9,6,12,22,WLDLLDWDWDWDWLDL,DDWWDDDDDWWWLDWD
+Empoli,Pescara,0-0,/match/empoli-fc/pescara-calcio/1997,1997,34,serie_b,20,38,1,0,0,2,15,11,7,41,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWDLWD,11,3,2,29,14,8,12,11,10,42,34,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLWLWW,4,6,7,16,19,WWDLWWWWDWLDWWWW,DLDLDWDWWLLWDWDWW
+Salernitana,Ravenna FC,1-0,/match/salernitana-calcio-1919/ravenna-calcio/1997,1997,34,serie_b,20,38,0,1,0,12,8,13,12,27,37,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDWDWD,8,8,0,18,7,10,13,11,9,36,29,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLDDLW,7,5,4,17,14,WDWWDDDWWDWWDDDW,WLLWDDLLWDLDLLDW
+Chievo,Reggina,1-1,/match/chievo/reggina/1997,1997,34,serie_b,20,38,1,1,1,6,10,16,7,36,33,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDDLLW,9,4,3,22,15,14,9,11,13,30,38,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWWLWD,2,5,9,10,22,WWWLWLWDDWWWWDDL,WDWDDWDWWLWWLDWW
+Castel Sangro,Torino,2-1,/match/castel-sangro/torino-fc/1997,1997,34,serie_b,20,38,0,2,1,16,10,7,16,24,39,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWWLDW,9,3,5,14,15,9,13,10,10,41,37,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDDWWW,5,6,5,16,16,WWLWLWDWWLLWDLWWD,DWDLLWWLLDDLWDDW
+Cosenza Calcio,Venezia,2-2,/match/fortitudo-cosenza/venezia/1997,1997,34,serie_b,20,38,1,2,2,17,8,10,15,35,48,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWWDDW,6,8,2,21,15,11,9,14,10,38,37,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWDLDD,1,8,7,18,27,WDDDDWDLWDDLWWWD,WWDWDDWWDWDDDWLD
+Palermo FC,SSC Bari,1-2,/match/palermo/as-bari/1997,1997,35,serie_b,20,38,2,1,2,19,5,17,12,34,45,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDLWDDD,4,7,6,20,21,5,12,16,6,43,31,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLWLWDD,5,8,4,20,18,DWLWLWDDLDWDLDLLD,WDDLDDLDDLWDWWLLD
+Empoli,Brescia,0-0,/match/empoli-fc/brescia/1997,1997,35,serie_b,20,38,1,0,0,2,15,12,7,41,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWDLWDD,11,4,2,29,14,3,16,10,8,43,31,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWWDWLD,7,3,7,21,24,WWDLWWWWDWLDWWWWD,WDDLLWWDLWWLLLLWW
+Lecce,Castel Sangro,0-0,/match/lecce/castel-sangro/1997,1997,35,serie_b,20,38,1,0,0,1,14,14,6,48,36,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDDWDDD,10,6,1,32,17,14,11,7,16,26,40,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWWLDWW,1,4,11,10,24,WWWWDDWDWWLDWWDWD,WWWDWWWWDDWWDWLW
+Lucchese Libertas,Cesena,2-0,/match/luchese/ac-cesena/1997,1997,35,serie_b,20,38,0,2,0,16,8,13,13,27,39,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWWWDWD,7,7,3,18,15,18,8,13,13,34,38,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLLDWWD,3,4,10,8,16,DWWWDDDDLWLLDWDWW,WWDWDWWDWWLWDLWLW
+Padova,Chievo,0-1,/match/calcio-padova/chievo/1997,1997,35,serie_b,20,38,2,0,1,9,10,14,10,37,37,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWWDWWW,7,8,2,21,13,6,10,17,7,37,34,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDDLLWD,1,12,4,14,18,WWWWLDDDDLDDDDWWW,DDDWWDWDDDDDDDDLW
+Ravenna FC,Cosenza Calcio,2-2,/match/ravenna-calcio/fortitudo-cosenza/1997,1997,35,serie_b,20,38,1,2,2,12,13,11,10,36,30,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLDDLWW,6,6,5,19,15,17,8,11,15,37,50,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWWDDWD,2,2,13,14,33,WDDLDWDWWLLWWLDDL,WWWWDLWWLWWWWWWDW
+Venezia,Cremonese,3-2,/match/venezia/us-cremonese/1997,1997,35,serie_b,20,38,0,3,2,11,9,15,10,40,39,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWDLDDD,8,6,3,20,10,20,7,11,16,25,44,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDWLLWD,2,4,11,9,28,DLWLWWWDWDDWWLWDD,WWWWWLDDWDWWDWWLW
+Calcio Foggia,Genoa,0-0,/match/us-foggia/genoa/1997,1997,35,serie_b,20,38,1,0,0,13,11,12,11,37,36,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLDLLDD,6,7,4,17,11,4,13,14,7,50,28,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLDLWLW,4,9,4,20,17,WDWWDLWDLDWDDWLLD,WDDLWDDWDLDDWDLDL
+Pescara,Salernitana,3-0,/match/pescara-calcio/salernitana-calcio-1919/1997,1997,35,serie_b,20,38,0,3,0,7,12,12,10,42,34,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLWLWWD,8,5,3,26,15,8,9,13,12,28,37,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDWDWDW,0,5,12,9,30,WDWWWWLDDWWDDLLW,WWWDWDWWWWWDDWWWD
+Reggina,Torino,2-1,/match/reggina/torino-fc/1997,1997,35,serie_b,20,38,0,2,1,15,9,12,13,31,39,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWWLWDD,7,6,4,20,16,10,13,10,11,42,39,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDDWWWW,5,6,6,17,18,LLDDDWWDWWLDWWWLD,DWDLLWWLLDDLWDDWW
+Salernitana,Castel Sangro,1-0,/match/salernitana-calcio-1919/castel-sangro/1997,1997,36,serie_b,20,38,0,1,0,9,9,13,13,28,40,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDWDWDWW,9,8,0,19,7,16,11,8,16,26,40,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWWLDWWD,1,5,11,10,24,WDWWDDDWWDWWDDDWW,WWWDWWWWDDWWDWLWD
+Genoa,Empoli,3-1,/match/genoa/empoli-fc/1997,1997,36,serie_b,20,38,0,3,1,4,13,15,7,50,28,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLDLWLWD,9,5,3,30,11,2,15,13,7,41,31,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWDLWDDD,4,8,5,12,17,DWDWDDDWLWWWLWLWW,WDWLWDWDDWDLLDDLD
+Brescia,Calcio Foggia,2-1,/match/brescia/us-foggia/1997,1997,36,serie_b,20,38,0,2,1,3,16,11,8,43,31,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWWDWLDD,9,7,1,22,7,13,11,13,11,37,36,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLDLLDDD,5,5,7,20,25,DWDDWWWDWWWWDWDLD,WWWWDDWLLLDWWLDLD
+Pescara,Lecce,3-0,/match/pescara-calcio/lecce/1997,1997,36,serie_b,20,38,0,3,0,7,13,12,10,45,34,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLWLWWDW,9,5,3,29,15,1,14,15,6,48,36,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDDWDDDD,4,8,5,16,19,WDWWWWLDDWWDDLLWW,LLWLLDDWWDDDWWDDD
+Torino,Lucchese Libertas,2-2,/match/torino-fc/luchese/1997,1997,36,serie_b,20,38,1,2,2,12,13,10,12,43,41,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDDWWWWW,8,4,5,25,21,15,9,13,13,29,39,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWWWDWDW,1,6,10,9,24,WDWWLLDWWWDLLLDWW,DWDWLWDDWWWWWWWDD
+SSC Bari,Padova,3-1,/match/as-bari/calcio-padova/1997,1997,36,serie_b,20,38,0,3,1,5,13,16,6,45,32,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLWLWDDL,7,8,2,23,13,11,10,14,11,37,38,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWWDWWWL,3,6,8,16,24,WDDWDDWDLWDDLWWWD,WDDWWLDDWWDLWLWDW
+Cosenza Calcio,Palermo FC,3-1,/match/fortitudo-cosenza/palermo/1997,1997,36,serie_b,20,38,0,3,1,17,8,12,15,39,52,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWWDDWDD,6,9,2,23,17,19,5,17,13,35,47,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDLWDDDL,1,10,6,14,24,WDDDDWDLWDDLWWWDD,DDWWDDDDDWWWLDWDD
+Cesena,Ravenna FC,2-0,/match/ac-cesena/ravenna-calcio/1997,1997,36,serie_b,20,38,0,2,0,18,8,13,14,34,40,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLLDWWDW,5,9,3,26,22,10,13,12,10,38,32,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLDDLWWD,7,5,5,17,15,WDDDWDLDWDDLWLDWD,WLLWDDLLWDLDLLDWW
+Cremonese,Reggina,1-3,/match/us-cremonese/reggina/1997,1997,36,serie_b,20,38,2,1,3,20,7,11,17,27,47,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDWLLWDW,5,7,5,16,16,14,10,12,13,33,40,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWWLWDDW,2,6,9,11,23,WLDLLDWDWDWDWLDLD,WDWDDWDWWLWWLDWWD
+Chievo,Venezia,4-2,/match/chievo/venezia/1997,1997,36,serie_b,20,38,0,4,2,6,11,17,7,38,34,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDDLLWDL,9,5,3,23,16,8,10,15,10,43,41,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWDLDDDW,1,9,7,20,29,WWWLWLWDDWWWWDDLD,WWDWDDWWDWDDDWLDD
+Calcio Foggia,SSC Bari,1-1,/match/us-foggia/as-bari/1997,1997,37,serie_b,20,38,1,1,1,14,11,13,12,38,38,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLDLLDDDW,6,8,4,17,11,5,14,16,6,48,33,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLWLWDDLW,6,8,4,22,19,WDWWDLWDLDWDDWLLDD,WDDLDDLDDLWDWWLLDL
+Reggina,Brescia,1-1,/match/reggina/brescia/1997,1997,37,serie_b,20,38,1,1,1,12,11,12,13,36,41,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWWLWDDWL,8,6,4,22,17,1,17,11,8,45,32,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWWDWLDDW,7,4,7,21,24,LLDDDWWDWWLDWWWLDW,WDDLLWWDLWWLLLLWWD
+Empoli,Cesena,2-0,/match/empoli-fc/ac-cesena/1997,1997,37,serie_b,20,38,0,2,0,3,15,13,8,42,34,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWDLWDDDW,11,5,2,29,14,18,9,13,14,36,40,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLLDWWDWW,3,4,11,8,18,WWDLWWWWDWLDWWWWDD,WWDWDWWDWWLWDLWLWW
+Palermo FC,Chievo,3-1,/match/palermo/chievo/1997,1997,37,serie_b,20,38,0,3,1,19,5,17,14,36,50,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDLWDDDLW,4,7,7,21,23,6,12,17,7,42,36,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDDLLWDLW,2,12,4,15,18,DWLWLWDDLDWDLDLLDL,DDDWWDWDDDDDDDDLWL
+Padova,Cosenza Calcio,1-1,/match/calcio-padova/fortitudo-cosenza/1997,1997,37,serie_b,20,38,1,1,1,13,10,14,12,38,41,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWWDWWWLW,7,8,3,21,14,17,9,12,15,42,53,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWWDDWDDW,2,3,13,16,35,WWWWLDDDDLDDDDWWWL,WWWWDLWWLWWWWWWDWD
+Lucchese Libertas,Cremonese,4-2,/match/luchese/us-cremonese/1997,1997,37,serie_b,20,38,0,4,2,15,9,14,13,31,41,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWWWDWDWD,8,7,3,20,15,20,7,11,18,28,50,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDWLLWDWL,2,4,12,11,31,DWWWDDDDLWLLDWDWWW,WWWWWLDDWDWWDWWLWW
+Ravenna FC,Genoa,1-1,/match/ravenna-calcio/genoa/1997,1997,37,serie_b,20,38,1,1,1,11,13,12,11,38,34,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLDDLWWDW,6,7,5,21,17,4,14,15,7,53,29,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLDLWLWDW,4,10,4,20,17,WDDLDWDWWLLWWLDDLD,WDDLWDDWDLDDWDLDLD
+Castel Sangro,Pescara,2-1,/match/castel-sangro/pescara-calcio/1997,1997,37,serie_b,20,38,0,2,1,16,11,8,17,26,41,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWWLDWWDW,10,3,5,16,16,7,14,12,10,48,34,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLWLWWDWW,4,7,7,16,19,WWLWLWDWWLLWDLWWDW,DLDLDWDWWLLWDWDWWD
+Venezia,Salernitana,1-1,/match/venezia/salernitana-calcio-1919/1997,1997,37,serie_b,20,38,1,1,1,9,10,15,11,45,45,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWDLDDDWW,9,6,3,23,12,8,10,13,13,29,40,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDWDWDWWW,0,5,13,9,33,DLWLWWWDWDDWWLWDDW,WWWDWDWWWWWDDWWWDW
+Lecce,Torino,1-0,/match/lecce/torino-fc/1997,1997,37,serie_b,20,38,0,1,0,2,14,15,7,48,39,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDDWDDDDW,10,7,1,32,17,10,13,11,12,45,43,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDDWWWWWD,5,6,7,18,20,WWWWDDWDWWLDWWDWDD,DWDLLWWLLDDLWDDWWW
+SSC Bari,Castel Sangro,3-1,/match/as-bari/castel-sangro/1997,1997,38,serie_b,20,38,0,3,1,5,14,17,6,49,34,WWDDDDLWDDDDLWDDDLLWWDDDWLWWLWLWDDLWD,8,8,2,26,14,16,12,8,17,28,42,WWWWWLDWWLWWWDWWWDLDLWWDWLDWWWLDWWDWW,1,5,12,10,25,WDDWDDWDLWDDLWWWDW,WWWDWWWWDDWWDWLWDW
+Cremonese,Empoli,0-1,/match/us-cremonese/empoli-fc/1997,1997,38,serie_b,20,38,2,0,1,20,7,11,19,30,54,WWWLWDWLWLLDDWDDWWDDWWWDDWWLDWLLWDWLW,5,7,6,17,19,2,16,13,8,44,34,WWDWWLDWLDWWWWDDWWDWDLLDWLWDWDLWDDDWW,4,8,6,13,20,WLDLLDWDWDWDWLDLDL,WDWLWDWDDWDLLDDLDW
+Chievo,Calcio Foggia,1-1,/match/chievo/us-foggia/1997,1997,38,serie_b,20,38,1,1,1,6,12,17,8,43,39,WDWDWDWLWWDWLWDDDDDDWDWDWWDDDDLLWDLWW,10,5,3,27,18,15,11,14,12,39,39,WWWDWWWWDDLWDWDLLLDWLDDDWWWLLDLLDDDWD,5,5,8,21,27,WWWLWLWDDWWWWDDLDW,WWWWDDWLLLDWWLDLDW
+Cesena,Lecce,0-3,/match/ac-cesena/lecce/1997,1997,38,serie_b,20,38,2,0,3,18,9,13,15,36,42,WWWDDDWDWDDWLWDDWWWDLDWLDWLWLLDWWDWWW,6,9,3,28,22,1,15,15,7,49,39,LWWLWWWLDLDDWDDWWWWLDDDDWWWWDDWDDDDWW,4,8,6,16,22,WDDDWDLDWDDLWLDWDW,LLWLLDDWWDDDWWDDDW
+Cosenza Calcio,Lucchese Libertas,1-1,/match/fortitudo-cosenza/luchese/1997,1997,38,serie_b,20,38,1,1,1,17,9,13,15,43,54,WWWDWDWDDDLWWDWLLWWDWDWLWWWWWWDDWDDWD,7,9,2,26,18,10,10,14,13,35,43,DDWWDWWWLDWDDDDDLWWLWLWDWWWDWWWDWDWDW,1,7,10,11,26,WDDDDWDLWDDLWWWDDW,DWDWLWDDWWWWWWWDDD
+Pescara,Padova,1-2,/match/pescara-calcio/calcio-padova/1997,1997,38,serie_b,20,38,2,1,2,7,14,12,11,49,36,DWLDWDWLWDWWLDDWWDLWLWWDDWDDLWLWWDWWW,10,5,3,32,15,13,10,15,12,39,42,WWWDWDWWLDWDLDDDDWLWDDDLDWDLWWDWWWLWD,3,6,9,17,27,WDWWWWLDDWWDDLLWWW,WDDWWLDDWWDLWLWDWW
+Genoa,Palermo FC,4-1,/match/genoa/palermo/1997,1997,38,serie_b,20,38,0,4,1,4,14,16,7,54,30,DWWDDWDDLDDWDWDLWWDLWDWDWLDWLDLWLWDWD,10,5,3,33,12,19,6,17,14,39,51,DDDWWLWWDLDWDDDDLDDWWDWLWDLLDLWDDDLWW,1,10,7,15,27,DWDWDDDWLWWWLWLWWW,DDWWDDDDDWWWLDWDDW
+Torino,Ravenna FC,0-4,/match/torino-fc/ravenna-calcio/1997,1997,38,serie_b,20,38,2,0,4,14,13,11,13,45,44,WDDWWWDLLLLWDWWWLWLDDDLLWLDLDDWWWWWDW,8,5,5,27,23,11,13,13,11,39,35,WWDLDLLWDDDWLDWLWWLDLLWDWLLDLDDLWWDWD,7,5,6,17,17,WDWWLLDWWWDLLLDWWD,WLLWDDLLWDLDLLDWWW
+Salernitana,Reggina,1-3,/match/salernitana-calcio-1919/reggina/1997,1997,38,serie_b,20,38,2,1,3,8,10,14,13,30,41,WWDWWWWDDWDDWDWWWWWWDDWDWWDWDWDWDWWWD,10,8,0,20,7,12,11,13,13,37,42,LWLDDWDDDDWWWDDWWWWLLWDWWLWDWWLWDDWLD,3,6,9,14,24,WDWWDDDWWDWWDDDWWW,WDWDDWDWWLWWLDWWDL
+Brescia,Venezia,3-1,/match/brescia/venezia/1997,1997,38,serie_b,20,38,0,3,1,3,17,12,8,46,33,WDWDDDDLWLWWWWDDLWWWWLWLWLDLWWDWLDDWD,10,7,1,24,8,9,10,16,11,46,46,WDWLDWWDLDWWWWWDDWWDDDDWWDLWWDLDDDWWD,1,9,8,22,33,DWDDWWWDWWWWDWDLDW,WWDWDDWWDWDDDWLDDW

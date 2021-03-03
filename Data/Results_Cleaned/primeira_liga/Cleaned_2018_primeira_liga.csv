@@ -1,0 +1,307 @@
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Desportivo Aves,Sporting CP,0-2,/match/desportivo-aves/sporting-lisbon/2018,2018,1,primeira_liga,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória Setúbal,Moreirense,1-1,/match/vitoria-setubal/moreirense-fc/2018,2018,1,primeira_liga,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Portimonense,Boavista,2-1,/match/portimonense/boavista/2018,2018,1,primeira_liga,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Feirense,Tondela,1-1,/match/feirense/tondela/2018,2018,1,primeira_liga,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Rio Ave,Belenenses,1-0,/match/rio-ave/belenenses/2018,2018,1,primeira_liga,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Marítimo,Paços Ferreira,1-0,/match/maritimo/pacos-ferreira/2018,2018,1,primeira_liga,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Porto,Estoril,4-0,/match/fc-porto/estoril/2018,2018,1,primeira_liga,18,34,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Benfica,Sporting Braga,3-1,/match/benfica/sporting-braga/2018,2018,1,primeira_liga,18,34,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória,Chaves,3-2,/match/vitoria-guimaraes/chaves/2018,2018,1,primeira_liga,18,34,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting CP,Vitória Setúbal,1-0,/match/sporting-lisbon/vitoria-setubal/2018,2018,2,primeira_liga,18,34,0,1,0,9,1,0,0,2,0,L,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
+Moreirense,Feirense,0-0,/match/moreirense-fc/feirense/2018,2018,2,primeira_liga,18,34,1,0,0,10,0,1,0,1,1,D,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
+Belenenses,Marítimo,1-0,/match/belenenses/maritimo/2018,2018,2,primeira_liga,18,34,0,1,0,12,0,0,1,0,1,W,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
+Boavista,Rio Ave,1-2,/match/boavista/rio-ave/2018,2018,2,primeira_liga,18,34,2,1,2,13,0,0,1,1,2,W,0,0,0,0,0,5,1,0,0,1,0,W,0,0,0,0,0,,
+Paços Ferreira,Desportivo Aves,2-2,/match/pacos-ferreira/desportivo-aves/2018,2018,2,primeira_liga,18,34,1,2,2,16,0,0,1,0,1,W,0,0,0,0,0,14,0,0,1,0,2,L,0,0,0,0,0,,
+Sporting Braga,Portimonense,2-1,/match/sporting-braga/portimonense/2018,2018,2,primeira_liga,18,34,0,2,1,15,0,0,1,1,3,W,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
+Tondela,Porto,0-1,/match/tondela/fc-porto/2018,2018,2,primeira_liga,18,34,2,0,1,11,0,1,0,1,1,D,0,0,0,0,0,3,1,0,0,4,0,W,0,0,0,0,0,,
+Estoril,Vitória,3-0,/match/estoril/vitoria-guimaraes/2018,2018,2,primeira_liga,18,34,0,3,0,18,0,0,1,0,4,W,0,0,0,0,0,2,1,0,0,3,2,W,0,0,0,0,0,,
+Chaves,Benfica,0-1,/match/chaves/benfica/2018,2018,2,primeira_liga,18,34,2,0,1,17,0,0,1,2,3,W,0,0,0,0,0,6,1,0,0,3,1,W,0,0,0,0,0,,
+Rio Ave,Portimonense,2-0,/match/rio-ave/portimonense/2018,2018,3,primeira_liga,18,34,0,2,0,3,2,0,0,3,1,WL,1,0,0,1,0,5,1,0,1,3,3,WW,0,0,1,1,2,W,W
+Tondela,Estoril,2-3,/match/tondela/estoril/2018,2018,3,primeira_liga,18,34,2,2,3,15,0,1,1,1,2,DL,0,0,1,0,1,9,1,0,1,3,4,WW,0,0,1,0,4,L,W
+Vitória,Sporting CP,0-5,/match/vitoria-guimaraes/sporting-lisbon/2018,2018,3,primeira_liga,18,34,2,0,5,8,1,0,1,3,5,WW,1,0,0,3,2,1,2,0,0,3,0,LW,1,0,0,2,0,W,L
+Benfica,Belenenses,5-0,/match/benfica/belenenses/2018,2018,3,primeira_liga,18,34,0,5,0,4,2,0,0,4,1,WL,1,0,0,3,1,7,1,0,1,1,1,WW,0,0,1,0,1,W,W
+Vitória Setúbal,Chaves,1-1,/match/vitoria-setubal/chaves/2018,2018,3,primeira_liga,18,34,1,1,1,13,0,1,1,1,2,DW,0,1,0,1,1,18,0,0,2,2,4,WL,0,0,1,2,3,D,W
+Porto,Moreirense,3-0,/match/fc-porto/moreirense-fc/2018,2018,3,primeira_liga,18,34,0,3,0,2,2,0,0,5,0,WL,1,0,0,4,0,12,0,2,0,1,1,DD,0,1,0,1,1,W,D
+Desportivo Aves,Sporting Braga,0-2,/match/desportivo-aves/sporting-braga/2018,2018,3,primeira_liga,18,34,2,0,2,16,0,1,1,2,4,LD,0,0,1,0,2,6,1,0,1,3,4,WW,0,0,1,1,3,L,W
+Marítimo,Boavista,1-0,/match/maritimo/boavista/2018,2018,3,primeira_liga,18,34,0,1,0,10,1,0,1,1,1,WW,1,0,0,1,0,17,0,0,2,2,4,WL,0,0,1,1,2,W,W
+Feirense,Paços Ferreira,2-1,/match/feirense/pacos-ferreira/2018,2018,3,primeira_liga,18,34,0,2,1,11,0,2,0,1,1,DD,0,1,0,1,1,14,0,1,1,2,3,WD,0,0,1,0,1,D,W
+Belenenses,Vitória Setúbal,1-1,/match/belenenses/vitoria-setubal/2018,2018,4,primeira_liga,18,34,1,1,1,9,1,0,2,1,6,WWW,1,0,0,1,0,12,0,2,1,2,3,DWD,0,0,1,0,1,W,W
+Paços Ferreira,Vitória,0-0,/match/pacos-ferreira/vitoria-guimaraes/2018,2018,4,primeira_liga,18,34,1,0,0,14,0,1,2,3,5,WDW,0,1,0,2,2,10,1,0,2,3,10,WWL,0,0,1,0,3,D,W
+Moreirense,Tondela,0-3,/match/moreirense-fc/tondela/2018,2018,4,primeira_liga,18,34,2,0,3,13,0,2,1,1,4,DDW,0,1,0,0,0,15,0,1,2,3,5,DLL,0,1,0,1,1,D,D
+Chaves,Feirense,0-2,/match/chaves/feirense/2018,2018,4,primeira_liga,18,34,2,0,2,17,0,1,2,3,5,WLD,0,0,1,0,1,6,1,2,0,3,2,DDW,0,1,0,0,0,L,D
+Rio Ave,Benfica,1-1,/match/rio-ave/benfica/2018,2018,4,primeira_liga,18,34,1,1,1,2,3,0,0,5,1,WLW,2,0,0,3,0,3,3,0,0,9,1,WLW,1,0,0,1,0,WW,L
+Boavista,Desportivo Aves,1-0,/match/boavista/desportivo-aves/2018,2018,4,primeira_liga,18,34,0,1,0,18,0,0,3,2,5,WLW,0,0,1,1,2,16,0,1,2,2,6,LDL,0,1,0,2,2,L,D
+Sporting CP,Estoril,2-1,/match/sporting-lisbon/estoril/2018,2018,4,primeira_liga,18,34,0,2,1,4,3,0,0,8,0,LWL,1,0,0,1,0,8,2,0,1,6,6,WWL,1,0,1,3,6,W,WL
+Sporting Braga,Porto,0-1,/match/sporting-braga/fc-porto/2018,2018,4,primeira_liga,18,34,2,0,1,7,2,0,1,5,4,WWL,1,0,0,2,1,1,3,0,0,8,0,WLW,1,0,0,1,0,W,L
+Portimonense,Marítimo,1-2,/match/portimonense/maritimo/2018,2018,4,primeira_liga,18,34,2,1,2,11,1,0,2,3,5,WWW,1,0,0,2,1,5,2,0,1,2,1,WWW,0,0,1,0,1,W,W
+Feirense,Sporting CP,2-3,/match/feirense/sporting-lisbon/2018,2018,5,primeira_liga,18,34,2,2,3,6,2,2,0,5,2,DDWL,1,1,0,3,2,2,4,0,0,10,1,LWLW,2,0,0,7,0,DW,LL
+Benfica,Portimonense,2-1,/match/benfica/portimonense/2018,2018,5,primeira_liga,18,34,0,2,1,4,3,1,0,10,2,WLWD,2,0,0,8,1,12,1,0,3,4,7,WWWL,0,0,2,1,4,WW,WW
+Tondela,Paços Ferreira,2-2,/match/tondela/pacos-ferreira/2018,2018,5,primeira_liga,18,34,1,2,2,16,1,1,2,6,5,DLLL,0,0,2,2,4,13,0,2,2,3,5,WDWD,0,0,2,1,3,LL,WW
+Marítimo,Rio Ave,1-0,/match/maritimo/rio-ave/2018,2018,5,primeira_liga,18,34,0,1,0,5,3,0,1,4,2,WWWL,2,0,0,2,0,3,3,1,0,6,2,WLWD,1,0,0,2,1,WW,L
+Porto,Chaves,3-0,/match/fc-porto/chaves/2018,2018,5,primeira_liga,18,34,0,3,0,1,4,0,0,9,0,WLWL,2,0,0,7,0,18,0,1,3,3,7,WLDL,0,1,1,3,4,WW,WD
+Vitória Setúbal,Sporting Braga,2-0,/match/vitoria-setubal/sporting-braga/2018,2018,5,primeira_liga,18,34,0,2,0,10,0,3,1,3,4,DWDD,0,2,0,2,2,7,2,0,2,5,5,WWLL,1,0,1,3,3,DD,WL
+Vitória,Boavista,1-0,/match/vitoria-guimaraes/boavista/2018,2018,5,primeira_liga,18,34,0,1,0,11,1,1,2,3,10,WWLD,1,0,1,3,7,14,1,0,3,3,5,WLWW,0,0,2,1,3,WL,WW
+Estoril,Moreirense,0-2,/match/estoril/moreirense-fc/2018,2018,5,primeira_liga,18,34,2,0,2,8,2,0,2,7,8,WWLW,1,0,0,3,0,15,0,2,2,1,7,DDWL,0,1,1,1,4,W,DW
+Desportivo Aves,Belenenses,2-1,/match/desportivo-aves/belenenses/2018,2018,5,primeira_liga,18,34,0,2,1,17,0,1,3,2,7,LDLW,0,0,2,0,4,9,1,1,2,2,7,WWWD,0,0,2,0,6,LL,WW
+Paços Ferreira,Vitória Setúbal,1-0,/match/pacos-ferreira/vitoria-setubal/2018,2018,6,primeira_liga,18,34,0,1,0,12,0,3,2,5,7,WDWDD,0,2,0,2,2,7,1,3,1,5,4,DWDDW,0,1,1,1,2,DD,WD
+Marítimo,Desportivo Aves,2-1,/match/maritimo/desportivo-aves/2018,2018,6,primeira_liga,18,34,0,2,1,4,4,0,1,5,2,WWWLW,3,0,0,3,0,15,1,1,3,4,8,LDLWW,0,1,1,2,3,WWW,DW
+Boavista,Benfica,2-1,/match/boavista/benfica/2018,2018,6,primeira_liga,18,34,0,2,1,17,1,0,4,3,6,WLWWW,1,0,1,2,2,2,4,1,0,12,3,WLWDW,1,1,0,2,1,LW,LD
+Sporting CP,Tondela,2-0,/match/sporting-lisbon/tondela/2018,2018,6,primeira_liga,18,34,0,2,0,3,5,0,0,13,3,LWLWL,2,0,0,3,1,14,1,2,2,8,7,DLLLD,1,1,0,4,1,WW,DL
+Belenenses,Estoril,2-1,/match/belenenses/estoril/2018,2018,6,primeira_liga,18,34,0,2,1,10,1,1,3,3,9,WWWDW,1,1,0,2,1,9,2,0,3,7,10,WWLWL,1,0,2,4,8,WD,WLW
+Rio Ave,Porto,1-2,/match/rio-ave/fc-porto/2018,2018,6,primeira_liga,18,34,2,1,2,5,3,1,1,6,3,WLWDW,2,1,0,4,1,1,5,0,0,12,0,WLWLW,2,0,0,2,0,WWD,LL
+Sporting Braga,Vitória,2-1,/match/sporting-braga/vitoria-guimaraes/2018,2018,6,primeira_liga,18,34,0,2,1,11,2,0,3,5,7,WWLLW,1,0,1,2,2,6,2,1,2,4,10,WWLDW,0,1,1,0,3,WL,WD
+Portimonense,Feirense,2-1,/match/portimonense/feirense/2018,2018,6,primeira_liga,18,34,0,2,1,16,1,0,4,5,9,WWWLW,1,0,1,3,3,8,2,2,1,7,5,DDWLL,1,1,0,2,0,WL,DL
+Chaves,Moreirense,3-0,/match/chaves/moreirense-fc/2018,2018,6,primeira_liga,18,34,0,3,0,18,0,1,4,3,10,WLDLW,0,0,2,0,3,13,1,2,2,3,7,DDWLL,1,1,1,3,4,LL,DWL
+Porto,Portimonense,5-2,/match/fc-porto/portimonense/2018,2018,7,primeira_liga,18,34,0,5,2,1,6,0,0,14,1,WLWLWL,3,0,0,10,0,12,2,0,4,7,10,WWWLWW,0,0,3,2,6,WWW,WWW
+Estoril,Chaves,0-2,/match/estoril/chaves/2018,2018,7,primeira_liga,18,34,2,0,2,14,2,0,4,8,12,WWLWLW,1,0,1,3,2,18,1,1,4,6,10,WLDLWW,0,1,2,3,7,WL,WDW
+Moreirense,Sporting CP,1-1,/match/moreirense-fc/sporting-lisbon/2018,2018,7,primeira_liga,18,34,1,1,1,15,1,2,3,3,10,DDWLLW,0,1,1,0,3,2,6,0,0,15,3,LWLWLW,3,0,0,10,2,DL,LLL
+Benfica,Paços Ferreira,2-0,/match/benfica/pacos-ferreira/2018,2018,7,primeira_liga,18,34,0,2,0,4,4,1,1,13,5,WLWDWW,3,0,0,10,2,11,1,3,2,6,7,WDWDDW,0,1,2,3,5,WWW,WWD
+Vitória,Marítimo,2-1,/match/vitoria-guimaraes/maritimo/2018,2018,7,primeira_liga,18,34,0,2,1,10,2,1,3,5,12,WWLDWW,2,0,1,4,7,3,5,0,1,7,3,WWWLWW,1,0,1,2,2,WLW,WL
+Feirense,Belenenses,1-4,/match/feirense/belenenses/2018,2018,7,primeira_liga,18,34,2,1,4,8,2,2,2,8,7,DDWLLW,1,1,1,5,5,7,2,1,3,5,10,WWWDWW,0,0,3,1,8,DWL,WWW
+Tondela,Sporting Braga,1-2,/match/tondela/sporting-braga/2018,2018,7,primeira_liga,18,34,2,1,2,16,1,2,3,8,9,DLLLDW,0,1,2,4,6,6,3,0,3,7,8,WWLLWW,1,0,2,3,5,LLD,WLW
+Desportivo Aves,Rio Ave,0-0,/match/desportivo-aves/rio-ave/2018,2018,7,primeira_liga,18,34,1,0,0,17,1,1,4,5,10,LDLWWW,1,0,2,2,5,5,3,1,2,7,5,WLWDWL,1,0,1,2,2,LLW,LW
+Vitória Setúbal,Boavista,1-1,/match/vitoria-setubal/boavista/2018,2018,7,primeira_liga,18,34,1,1,1,9,1,3,2,5,5,DWDDWW,1,2,0,4,2,13,2,0,4,5,7,WLWWWW,0,0,3,1,4,DDW,WWW
+Chaves,Tondela,1-1,/match/chaves/tondela/2018,2018,8,primeira_liga,18,34,1,1,1,16,2,1,4,8,10,WLDLWWL,1,0,2,3,3,18,1,2,4,9,11,DLLLDWL,1,1,1,4,3,LLW,DLW
+Paços Ferreira,Moreirense,3-2,/match/pacos-ferreira/moreirense-fc/2018,2018,8,primeira_liga,18,34,0,3,2,11,1,3,3,6,9,WDWDDWW,1,2,0,3,2,14,1,3,3,4,11,DDWLLWD,1,1,2,3,7,DDW,DWLW
+Portimonense,Desportivo Aves,2-2,/match/portimonense/desportivo-aves/2018,2018,8,primeira_liga,18,34,1,2,2,13,2,0,5,9,15,WWWLWWW,2,0,1,5,4,15,1,2,4,5,10,LDLWWWD,0,1,2,3,5,WLW,DWW
+Boavista,Feirense,1-0,/match/boavista/feirense/2018,2018,8,primeira_liga,18,34,0,1,0,12,2,1,4,6,8,WLWWWWD,2,0,1,4,3,10,2,2,3,9,11,DDWLLWL,1,1,1,3,2,LWW,DLW
+Rio Ave,Vitória Setúbal,2-1,/match/rio-ave/vitoria-setubal/2018,2018,8,primeira_liga,18,34,0,2,1,6,3,2,2,7,5,WLWDWLD,2,1,1,5,3,9,1,4,2,6,6,DWDDWWD,0,1,2,1,3,WWDL,WDW
+Sporting Braga,Estoril,6-0,/match/sporting-braga/estoril/2018,2018,8,primeira_liga,18,34,0,6,0,7,4,0,3,9,9,WWLLWWL,2,0,1,4,3,17,2,0,5,8,14,WWLWLWL,1,0,3,5,10,WLW,WLWW
+Sporting CP,Porto,0-0,/match/sporting-lisbon/fc-porto/2018,2018,8,primeira_liga,18,34,1,0,0,2,6,1,0,16,4,LWLWLWD,3,0,0,5,1,1,7,0,0,19,3,WLWLWLW,3,0,0,4,1,WWW,LLL
+Belenenses,Vitória,1-0,/match/belenenses/vitoria-guimaraes/2018,2018,8,primeira_liga,18,34,0,1,0,8,3,1,3,9,11,WWWDWWL,2,1,0,4,2,5,3,1,3,7,13,WWLDWWW,0,1,2,1,5,WDW,WDW
+Marítimo,Benfica,1-1,/match/maritimo/benfica/2018,2018,8,primeira_liga,18,34,1,1,1,4,5,0,2,8,5,WWWLWWW,4,0,0,5,1,3,5,1,1,15,5,WLWDWWW,1,1,1,3,3,WWWW,LDW
+Estoril,Boavista,0-3,/match/estoril/boavista/2018,2018,9,primeira_liga,18,34,2,0,3,17,2,0,6,8,20,WWLWLWLW,1,0,2,3,4,10,3,1,4,7,8,WLWWWWDW,0,1,3,2,5,WLL,WWWD
+Feirense,Rio Ave,1-0,/match/feirense/rio-ave/2018,2018,9,primeira_liga,18,34,0,1,0,14,2,2,4,9,12,DDWLLWLW,1,1,2,6,9,5,4,2,2,9,6,WLWDWLDW,1,1,1,2,2,DWLL,LWD
+Vitória Setúbal,Marítimo,3-1,/match/vitoria-setubal/maritimo/2018,2018,9,primeira_liga,18,34,0,3,1,11,1,4,3,7,8,DWDDWWDW,1,3,0,5,3,4,5,1,2,9,6,WWWLWWWD,1,0,2,3,4,DDWD,WLW
+Porto,Paços Ferreira,6-1,/match/fc-porto/pacos-ferreira/2018,2018,9,primeira_liga,18,34,0,6,1,1,7,1,0,19,3,WLWLWLWD,4,0,0,15,2,9,2,3,3,9,11,WDWDDWWW,0,1,3,3,7,WWWW,WWDW
+Tondela,Belenenses,2-0,/match/tondela/belenenses/2018,2018,9,primeira_liga,18,34,0,2,0,18,1,3,4,10,12,DLLLDWLD,0,1,3,5,8,7,4,1,3,10,11,WWWDWWLW,1,0,3,5,9,LLDL,WWWL
+Desportivo Aves,Benfica,1-3,/match/desportivo-aves/benfica/2018,2018,9,primeira_liga,18,34,2,1,3,15,1,3,4,7,12,LDLWWWDD,1,1,2,2,5,3,5,2,1,16,6,WLWDWWWD,1,2,1,4,4,LLWD,LDWD
+Sporting CP,Chaves,5-1,/match/sporting-lisbon/chaves/2018,2018,9,primeira_liga,18,34,0,5,1,2,6,2,0,16,4,LWLWLWDD,3,1,0,5,1,13,2,2,4,9,11,WLDLWWLD,1,1,2,5,7,WWWD,WDWL
+Moreirense,Sporting Braga,0-1,/match/moreirense-fc/sporting-braga/2018,2018,9,primeira_liga,18,34,2,0,1,16,1,3,4,6,14,DDWLLWDW,0,2,1,1,4,6,5,0,3,15,9,WWLLWWLW,2,0,2,5,6,DLD,WLWL
+Vitória,Portimonense,3-3,/match/vitoria-guimaraes/portimonense/2018,2018,9,primeira_liga,18,34,1,3,3,8,3,1,4,7,14,WWLDWWWW,3,0,1,6,8,12,2,1,5,11,17,WWWLWWWD,0,0,4,4,11,WLWW,WWWW
+Benfica,Feirense,1-0,/match/benfica/feirense/2018,2018,10,primeira_liga,18,34,0,1,0,3,6,2,1,19,7,WLWDWWWDL,4,0,0,12,2,12,3,2,4,10,12,DDWLLWLWW,1,1,2,3,3,WWWW,DLWW
+Rio Ave,Sporting CP,0-1,/match/rio-ave/sporting-lisbon/2018,2018,10,primeira_liga,18,34,2,0,1,6,4,2,3,9,7,WLWDWLDWW,3,1,1,7,4,2,7,2,0,21,5,LWLWLWDDW,3,1,0,11,3,WWDLW,LLLD
+Marítimo,Tondela,2-0,/match/maritimo/tondela/2018,2018,10,primeira_liga,18,34,0,2,0,4,5,1,3,10,9,WWWLWWWDW,4,1,0,6,2,14,2,3,4,12,12,DLLLDWLDW,1,2,1,5,4,WWWWD,DLWD
+Belenenses,Moreirense,3-0,/match/belenenses/moreirense-fc/2018,2018,10,primeira_liga,18,34,0,3,0,7,4,1,4,10,13,WWWDWWLWW,3,1,0,5,2,17,1,3,5,6,15,DDWLLWDWL,1,1,3,5,10,WDWW,DWLWW
+Boavista,Porto,0-3,/match/boavista/fc-porto/2018,2018,10,primeira_liga,18,34,2,0,3,9,4,1,4,10,8,WLWWWWDWL,3,0,1,5,3,1,8,1,0,25,4,WLWLWLWDW,3,1,0,4,1,LWWW,LLLD
+Sporting Braga,Chaves,1-0,/match/sporting-braga/chaves/2018,2018,10,primeira_liga,18,34,0,1,0,5,6,0,3,16,9,WWLLWWLWL,3,0,1,10,3,15,2,2,5,10,16,WLDLWWLDW,1,1,3,6,12,WLWW,WDWLW
+Paços Ferreira,Estoril,1-0,/match/pacos-ferreira/estoril/2018,2018,10,primeira_liga,18,34,0,1,0,11,2,3,4,10,17,WDWDDWWWW,2,2,0,6,4,18,2,0,7,8,23,WWLWLWLWL,1,0,4,5,16,DDWW,WLWWW
+Desportivo Aves,Vitória,1-3,/match/desportivo-aves/vitoria-guimaraes/2018,2018,10,primeira_liga,18,34,2,1,3,16,1,3,5,8,15,LDLWWWDDL,1,1,3,3,8,10,3,2,4,10,17,WWLDWWWWD,0,1,3,1,6,LLWDL,WDWW
+Portimonense,Vitória Setúbal,5-2,/match/portimonense/vitoria-setubal/2018,2018,10,primeira_liga,18,34,0,5,2,13,2,2,5,14,20,WWWLWWWDD,2,1,1,7,6,8,2,4,3,10,9,DWDDWWDWW,0,1,3,2,5,WLWD,WDWW
+Vitória Setúbal,Desportivo Aves,0-1,/match/vitoria-setubal/desportivo-aves/2018,2018,11,primeira_liga,18,34,2,0,1,11,2,4,4,12,14,DWDDWWDWWW,2,3,0,8,4,16,1,3,6,9,18,LDLWWWDDLL,0,2,2,5,7,DDWDW,DWWD
+Moreirense,Portimonense,1-1,/match/moreirense-fc/portimonense/2018,2018,11,primeira_liga,18,34,1,1,1,17,1,3,6,6,18,DDWLLWDWLW,0,2,2,1,5,12,3,2,5,19,22,WWWLWWWDDW,0,1,4,7,14,DLDL,WWWWD
+Tondela,Boavista,3-2,/match/tondela/boavista/2018,2018,11,primeira_liga,18,34,0,3,2,14,2,3,5,12,14,DLLLDWLDWW,1,1,3,7,8,10,4,1,5,10,11,WLWWWWDWLL,1,1,3,5,5,LLDLW,WWWDL
+Estoril,Rio Ave,0-2,/match/estoril/rio-ave/2018,2018,11,primeira_liga,18,34,2,0,2,18,2,0,8,8,24,WWLWLWLWLW,1,0,3,3,7,9,4,2,4,9,8,WLWDWLDWWL,1,1,2,2,3,WLLL,LWDW
+Porto,Belenenses,2-0,/match/fc-porto/belenenses/2018,2018,11,primeira_liga,18,34,0,2,0,1,9,1,0,28,4,WLWLWLWDWL,5,0,0,21,3,6,5,1,4,13,13,WWWDWWLWWW,1,0,4,5,11,WWWWW,WWWLW
+Chaves,Paços Ferreira,4-2,/match/chaves/pacos-ferreira/2018,2018,11,primeira_liga,18,34,0,4,2,15,2,2,6,10,17,WLDLWWLDWW,1,1,2,4,4,7,3,3,4,11,17,WDWDDWWWWW,0,1,4,4,13,LLWD,WWDWW
+Feirense,Marítimo,0-1,/match/feirense/maritimo/2018,2018,11,primeira_liga,18,34,2,0,1,13,3,2,5,10,13,DDWLLWLWWW,2,1,2,7,9,4,6,1,3,12,9,WWWLWWWDWW,1,0,3,4,7,DWLLW,WLWW
+Vitória,Benfica,1-3,/match/vitoria-guimaraes/benfica/2018,2018,11,primeira_liga,18,34,2,1,3,8,4,2,4,13,18,WWLDWWWWDL,3,1,1,9,11,3,7,2,1,20,7,WLWDWWWDLW,2,2,1,7,5,WLWWD,LDWDL
+Sporting CP,Sporting Braga,2-2,/match/sporting-lisbon/sporting-braga/2018,2018,11,primeira_liga,18,34,1,2,2,2,8,2,0,22,5,LWLWLWDDWL,4,1,0,10,2,5,7,0,3,17,9,WWLLWWLWLW,3,0,2,6,6,WWWDW,WLWLL
+Belenenses,Chaves,0-1,/match/belenenses/chaves/2018,2018,12,primeira_liga,18,34,2,0,1,6,5,1,5,13,15,WWWDWWLWWWW,4,1,0,8,2,15,3,2,6,14,19,WLDLWWLDWWW,1,1,4,6,13,WDWWW,WDWLWW
+Portimonense,Tondela,2-0,/match/portimonense/tondela/2018,2018,12,primeira_liga,18,34,0,2,0,10,3,3,5,20,23,WWWLWWWDDWD,3,1,1,12,8,13,3,3,5,15,16,DLLLDWLDWWW,1,2,2,5,6,WLWDW,DLWDW
+Boavista,Moreirense,1-0,/match/boavista/moreirense-fc/2018,2018,12,primeira_liga,18,34,0,1,0,11,4,1,6,12,14,WLWWWWDWLLW,3,0,2,5,6,17,1,4,6,7,19,DDWLLWDWLWD,1,1,4,5,13,LWWWL,DWLWWW
+Desportivo Aves,Porto,1-1,/match/desportivo-aves/fc-porto/2018,2018,12,primeira_liga,18,34,1,1,1,16,2,3,6,10,18,LDLWWWDDLLL,1,1,4,4,11,1,10,1,0,30,4,WLWLWLWDWLW,4,1,0,7,1,LLWDLL,LLLDL
+Marítimo,Estoril,0-0,/match/maritimo/estoril/2018,2018,12,primeira_liga,18,34,1,0,0,4,7,1,3,13,9,WWWLWWWDWWL,5,1,0,8,2,18,2,0,9,8,26,WWLWLWLWLWL,1,0,5,5,17,WWWWDW,WLWWWW
+Paços Ferreira,Sporting CP,1-2,/match/pacos-ferreira/sporting-lisbon/2018,2018,12,primeira_liga,18,34,2,1,2,8,3,3,5,13,21,WDWDDWWWWWW,3,2,0,7,4,2,8,3,0,24,7,LWLWLWDDWLD,4,1,0,12,3,DDWWW,LLLDL
+Benfica,Vitória Setúbal,6-0,/match/benfica/vitoria-setubal/2018,2018,12,primeira_liga,18,34,0,6,0,3,8,2,1,23,8,WLWDWWWDLWL,5,0,0,13,2,12,2,4,5,12,15,DWDDWWDWWWL,0,1,4,4,10,WWWWW,WDWWW
+Sporting Braga,Feirense,3-1,/match/sporting-braga/feirense/2018,2018,12,primeira_liga,18,34,0,3,1,5,7,1,3,19,11,WWLLWWLWLWD,4,0,1,11,3,14,3,2,6,10,14,DDWLLWLWWWL,1,1,3,3,4,WLWWW,DLWWW
+Rio Ave,Vitória,0-1,/match/rio-ave/vitoria-guimaraes/2018,2018,12,primeira_liga,18,34,2,0,1,7,5,2,4,11,8,WLWDWLDWWLL,3,1,2,7,5,9,4,2,5,14,21,WWLDWWWWDLL,1,1,3,4,7,WWDLWL,WDWWL
+Sporting CP,Belenenses,1-0,/match/sporting-lisbon/belenenses/2018,2018,13,primeira_liga,18,34,0,1,0,3,9,3,0,26,8,LWLWLWDDWLDL,4,2,0,12,4,7,5,1,6,13,16,WWWDWWLWWWWL,1,0,5,5,13,WWWDWD,WWWLWW
+Porto,Benfica,0-0,/match/fc-porto/benfica/2018,2018,13,primeira_liga,18,34,1,0,0,1,10,2,0,31,5,WLWLWLWDWLWD,6,0,0,23,3,2,9,2,1,29,8,WLWDWWWDLWLW,3,2,1,10,6,WWWWWW,LDWDLL
+Moreirense,Marítimo,1-1,/match/moreirense-fc/maritimo/2018,2018,13,primeira_liga,18,34,1,1,1,17,1,4,7,7,20,DDWLLWDWLWDW,0,3,2,2,6,4,7,2,3,13,9,WWWLWWWDWWLD,2,0,3,5,7,DLDLD,WLWWL
+Tondela,Rio Ave,1-3,/match/tondela/rio-ave/2018,2018,13,primeira_liga,18,34,2,1,3,14,3,3,6,15,18,DLLLDWLDWWWW,2,1,3,10,10,8,5,2,5,11,9,WLWDWLDWWLLL,2,1,2,4,3,LLDLWW,LWDWL
+Chaves,Boavista,0-0,/match/chaves/boavista/2018,2018,13,primeira_liga,18,34,1,0,0,13,4,2,6,15,19,WLDLWWLDWWWL,2,1,2,8,6,10,5,1,6,13,14,WLWWWWDWLLWW,1,1,4,7,8,LLWDW,WWWDLW
+Feirense,Desportivo Aves,0-1,/match/feirense/desportivo-aves/2018,2018,13,primeira_liga,18,34,2,0,1,15,3,2,7,11,17,DDWLLWLWWWLW,2,1,3,7,10,16,2,4,6,11,19,LDLWWWDDLLLD,1,2,2,6,7,DWLLWL,DWWDL
+Sporting Braga,Paços Ferreira,3-0,/match/sporting-braga/pacos-ferreira/2018,2018,13,primeira_liga,18,34,0,3,0,5,8,1,3,22,12,WWLLWWLWLWDW,5,0,1,14,4,11,3,3,6,14,23,WDWDDWWWWWWL,0,1,5,6,17,WLWWWW,WWDWWW
+Vitória Setúbal,Vitória,1-2,/match/vitoria-setubal/vitoria-guimaraes/2018,2018,13,primeira_liga,18,34,2,1,2,12,2,4,6,12,21,DWDDWWDWWWLW,2,3,1,8,5,9,5,2,5,15,21,WWLDWWWWDLLL,2,1,3,5,7,DDWDWL,WDWWLL
+Estoril,Portimonense,0-0,/match/estoril/portimonense/2018,2018,13,primeira_liga,18,34,1,0,0,18,2,1,9,8,26,WWLWLWLWLWLD,1,0,4,3,9,6,4,3,5,22,23,WWWLWWWDDWDW,0,2,4,8,15,WLLLL,WWWWDD
+Rio Ave,Moreirense,2-1,/match/rio-ave/moreirense-fc/2018,2018,14,primeira_liga,18,34,0,2,1,8,6,2,5,14,10,WLWDWLDWWLLLL,3,1,3,7,6,17,1,5,7,8,21,DDWLLWDWLWDWD,1,1,5,5,14,WWDLWLL,DWLWWWW
+Desportivo Aves,Tondela,0-1,/match/desportivo-aves/tondela/2018,2018,14,primeira_liga,18,34,2,0,1,15,3,4,6,12,19,LDLWWWDDLLLDL,1,2,4,5,12,14,3,3,7,16,21,DLLLDWLDWWWWL,1,2,3,5,8,LLWDLLD,DLWDWW
+Benfica,Estoril,3-1,/match/benfica/estoril/2018,2018,14,primeira_liga,18,34,0,3,1,3,9,3,1,29,8,WLWDWWWDLWLWD,6,0,0,19,2,18,2,2,9,8,26,WWLWLWLWLWLDD,1,1,5,5,17,WWWWWW,WLWWWWD
+Boavista,Sporting CP,1-3,/match/boavista/sporting-lisbon/2018,2018,14,primeira_liga,18,34,2,1,3,9,5,2,6,13,14,WLWWWWDWLLWWD,4,0,2,6,6,2,10,3,0,27,8,LWLWLWDDWLDLW,5,1,0,14,4,LWWWLW,LLLDLL
+Portimonense,Chaves,0-1,/match/portimonense/chaves/2018,2018,14,primeira_liga,18,34,2,0,1,7,4,4,5,22,23,WWWLWWWDDWDWD,4,1,1,14,8,12,4,3,6,15,19,WLDLWWLDWWWLD,2,1,4,7,13,WLWDWW,WDWLWWL
+Belenenses,Paços Ferreira,1-1,/match/belenenses/pacos-ferreira/2018,2018,14,primeira_liga,18,34,1,1,1,10,5,1,7,13,17,WWWDWWLWWWWLW,4,1,1,8,3,11,3,3,7,14,26,WDWDDWWWWWWLW,0,1,6,6,20,WDWWWL,WWDWWWW
+Vitória Setúbal,Porto,0-5,/match/vitoria-setubal/fc-porto/2018,2018,14,primeira_liga,18,34,2,0,5,13,2,4,7,13,23,DWDDWWDWWWLWL,2,3,2,9,7,1,10,3,0,31,5,WLWLWLWDWLWDD,4,2,0,8,2,DDWDWLL,LLLDLD
+Vitória,Feirense,1-0,/match/vitoria-guimaraes/feirense/2018,2018,14,primeira_liga,18,34,0,1,0,6,6,2,5,17,22,WWLDWWWWDLLLL,3,1,2,10,14,16,3,2,8,11,18,DDWLLWLWWWLWL,1,1,4,4,7,WLWWDL,DLWWWW
+Marítimo,Sporting Braga,1-0,/match/maritimo/sporting-braga/2018,2018,14,primeira_liga,18,34,0,1,0,5,7,3,3,14,10,WWWLWWWDWWLDD,5,2,0,8,2,4,9,1,3,25,12,WWLLWWLWLWDWW,3,1,2,8,8,WWWWDWD,WLWLLD
+Paços Ferreira,Boavista,1-2,/match/pacos-ferreira/boavista/2018,2018,15,primeira_liga,18,34,2,1,2,12,3,4,7,15,27,WDWDDWWWWWWLWD,3,2,1,8,6,10,5,2,7,14,17,WLWWWWDWLLWWDL,1,2,4,7,8,DDWWWL,WWWDLWD
+Estoril,Desportivo Aves,3-2,/match/estoril/desportivo-aves/2018,2018,15,primeira_liga,18,34,0,3,2,18,2,2,10,9,29,WWLWLWLWLWLDDW,1,1,4,3,9,15,3,4,7,12,20,LDLWWWDDLLLDLL,2,2,2,7,7,WLLLLD,DWWDLL
+Sporting Braga,Belenenses,4-0,/match/sporting-braga/belenenses/2018,2018,15,primeira_liga,18,34,0,4,0,5,9,1,4,25,13,WWLLWWLWLWDWWW,6,0,1,17,4,8,5,2,7,14,18,WWWDWWLWWWWLWD,1,0,6,5,14,WLWWWWW,WWWLWWW
+Chaves,Rio Ave,1-1,/match/chaves/rio-ave/2018,2018,15,primeira_liga,18,34,1,1,1,11,5,3,6,16,19,WLDLWWLDWWWLDL,2,2,2,8,6,6,7,2,5,16,11,WLWDWLDWWLLLLW,3,1,2,7,4,LLWDWD,LWDWLL
+Feirense,Vitória Setúbal,1-0,/match/feirense/vitoria-setubal/2018,2018,15,primeira_liga,18,34,0,1,0,16,3,2,9,11,19,DDWLLWLWWWLWLW,2,1,4,7,11,14,2,4,8,13,28,DWDDWWDWWWLWLL,0,1,5,4,16,DWLLWLL,WDWWWW
+Sporting CP,Portimonense,2-0,/match/sporting-lisbon/portimonense/2018,2018,15,primeira_liga,18,34,0,2,0,3,11,3,0,30,9,LWLWLWDDWLDLWL,5,2,0,13,4,9,4,4,6,22,24,WWWLWWWDDWDWDL,0,3,4,8,15,WWWDWDW,WWWWDDD
+Tondela,Benfica,1-5,/match/tondela/benfica/2018,2018,15,primeira_liga,18,34,2,1,5,13,4,3,7,17,21,DLLLDWLDWWWWLL,2,1,4,11,13,2,10,3,1,32,9,WLWDWWWDLWLWDW,3,3,1,10,6,LLDLWWL,LDWDLLD
+Moreirense,Vitória,2-1,/match/moreirense-fc/vitoria-guimaraes/2018,2018,15,primeira_liga,18,34,0,2,1,17,1,5,8,9,23,DDWLLWDWLWDWDW,0,4,2,3,7,7,7,2,5,18,22,WWLDWWWWDLLLLW,3,1,3,7,8,DLDLDD,WDWWLLL
+Porto,Marítimo,3-1,/match/fc-porto/maritimo/2018,2018,15,primeira_liga,18,34,0,3,1,1,11,3,0,36,5,WLWLWLWDWLWDDL,6,1,0,23,3,4,8,3,3,15,10,WWWLWWWDWWLDDW,2,1,3,6,8,WWWWWWD,WLWWLD
+Vitória,Tondela,0-1,/match/vitoria-guimaraes/tondela/2018,2018,16,primeira_liga,18,34,2,0,1,7,7,2,6,19,24,WWLDWWWWDLLLLWW,4,1,2,11,14,14,4,3,8,18,26,DLLLDWLDWWWWLLL,2,2,3,6,8,WLWWDLW,DLWDWWL
+Desportivo Aves,Moreirense,1-2,/match/desportivo-aves/moreirense-fc/2018,2018,16,primeira_liga,18,34,2,1,2,17,3,4,8,14,23,LDLWWWDDLLLDLLW,1,2,5,5,13,16,2,5,8,11,24,DDWLLWDWLWDWDWW,1,1,6,6,16,LLWDLLDL,DWLWWWWW
+Boavista,Sporting Braga,1-3,/match/boavista/sporting-braga/2018,2018,16,primeira_liga,18,34,2,1,3,8,6,2,7,16,18,WLWWWWDWLLWWDLL,4,0,3,7,9,4,10,1,4,29,13,WWLLWWLWLWDWWWW,3,1,3,8,9,LWWWLWL,WLWLLDW
+Marítimo,Chaves,1-2,/match/maritimo/chaves/2018,2018,16,primeira_liga,18,34,2,1,2,5,8,3,4,16,13,WWWLWWWDWWLDDWW,6,2,0,9,2,11,5,4,6,17,20,WLDLWWLDWWWLDLD,3,1,4,8,13,WWWWDWDW,WDWLWWLL
+Feirense,Porto,1-2,/match/feirense/fc-porto/2018,2018,16,primeira_liga,18,34,2,1,2,13,4,2,9,12,19,DDWLLWLWWWLWLWW,3,1,4,8,11,1,12,3,0,39,6,WLWLWLWDWLWDDLW,5,2,0,13,2,DWLLWLLW,LLLDLDL
+Rio Ave,Paços Ferreira,4-2,/match/rio-ave/pacos-ferreira/2018,2018,16,primeira_liga,18,34,0,4,2,6,7,3,5,17,12,WLWDWLDWWLLLLWD,4,1,3,9,7,12,3,4,8,16,29,WDWDDWWWWWWLWDL,0,2,6,7,21,WWDLWLLW,WWDWWWWD
+Benfica,Sporting CP,1-1,/match/benfica/sporting-lisbon/2018,2018,16,primeira_liga,18,34,1,1,1,3,11,3,1,37,10,WLWDWWWDLWLWDWL,7,0,0,22,3,2,12,3,0,32,9,LWLWLWDDWLDLWLW,6,1,0,17,5,WWWWWWW,LLLDLLL
+Vitória Setúbal,Estoril,2-2,/match/vitoria-setubal/estoril/2018,2018,16,primeira_liga,18,34,1,2,2,15,2,4,9,13,29,DWDDWWDWWWLWLLW,2,3,3,9,12,18,3,2,10,12,31,WWLWLWLWLWLDDWW,1,1,6,6,20,DDWDWLLL,WLWWWWDW
+Portimonense,Belenenses,0-0,/match/portimonense/belenenses/2018,2018,16,primeira_liga,18,34,1,0,0,10,4,4,7,22,26,WWWLWWWDDWDWDLW,4,1,2,14,9,9,5,2,8,14,22,WWWDWWLWWWWLWDW,1,0,7,5,18,WLWDWWL,WWWLWWWW
+Sporting Braga,Rio Ave,2-1,/match/sporting-braga/rio-ave/2018,2018,17,primeira_liga,18,34,0,2,1,4,11,1,4,32,14,WWLLWWLWLWDWWWWL,7,0,1,21,4,6,8,3,5,21,14,WLWDWLDWWLLLLWDW,3,2,2,8,5,WLWWWWWW,LWDWLLD
+Chaves,Desportivo Aves,1-1,/match/chaves/desportivo-aves/2018,2018,17,primeira_liga,18,34,1,1,1,8,6,4,6,19,21,WLDLWWLDWWWLDLDL,2,3,2,9,7,17,3,4,9,15,25,LDLWWWDDLLLDLLWL,2,2,3,9,10,LLWDWDD,DWWDLLW
+Moreirense,Benfica,0-2,/match/moreirense-fc/benfica/2018,2018,17,primeira_liga,18,34,2,0,2,16,3,5,8,13,25,DDWLLWDWLWDWDWWL,1,4,2,5,8,3,11,4,1,38,11,WLWDWWWDLWLWDWLD,4,3,1,15,7,DLDLDDW,LDWDLLDL
+Sporting CP,Marítimo,5-0,/match/sporting-lisbon/maritimo/2018,2018,17,primeira_liga,18,34,0,5,0,2,12,4,0,33,10,LWLWLWDDWLDLWLWD,6,2,0,15,4,5,8,3,5,17,15,WWWLWWWDWWLDDWWL,2,1,4,7,11,WWWDWDWW,WLWWLDW
+Porto,Vitória,4-2,/match/fc-porto/vitoria-guimaraes/2018,2018,17,primeira_liga,18,34,0,4,2,1,13,3,0,41,7,WLWLWLWDWLWDDLWL,7,1,0,26,4,7,7,2,7,19,25,WWLDWWWWDLLLLWWL,3,1,4,8,10,WWWWWWDW,WDWWLLLW
+Paços Ferreira,Portimonense,1-1,/match/pacos-ferreira/portimonense/2018,2018,17,primeira_liga,18,34,1,1,1,12,3,4,9,18,33,WDWDDWWWWWWLWDLW,3,2,2,9,8,9,4,5,7,22,26,WWWLWWWDDWDWDLWD,0,3,5,8,17,DDWWWLL,WWWWDDDW
+Estoril,Feirense,0-2,/match/estoril/feirense/2018,2018,17,primeira_liga,18,34,2,0,2,18,3,3,10,14,33,WWLWLWLWLWLDDWWD,2,1,4,6,11,14,4,2,10,13,21,DDWLLWLWWWLWLWWL,1,1,5,4,8,WLLLLDW,DLWWWWW
+Tondela,Vitória Setúbal,1-1,/match/tondela/vitoria-setubal/2018,2018,17,primeira_liga,18,34,1,1,1,13,5,3,8,19,26,DLLLDWLDWWWWLLLL,2,1,5,12,18,15,2,5,9,15,31,DWDDWWDWWWLWLLWD,0,1,6,4,17,LLDLWWLL,WDWWWWW
+Belenenses,Boavista,1-1,/match/belenenses/boavista/2018,2018,17,primeira_liga,18,34,1,1,1,10,5,3,8,14,22,WWWDWWLWWWWLWDWD,4,2,1,9,4,11,6,2,8,17,21,WLWWWWDWLLWWDLLL,2,2,4,9,9,WDWWWLD,WWWDLWDL
+Chaves,Vitória,4-3,/match/chaves/vitoria-guimaraes/2018,2018,18,primeira_liga,18,34,0,4,3,7,6,5,6,20,22,WLDLWWLDWWWLDLDLD,2,4,2,10,8,9,7,2,8,21,29,WWLDWWWWDLLLLWWLW,3,1,5,10,14,LLWDWDDD,WDWWLLLWW
+Paços Ferreira,Marítimo,0-0,/match/pacos-ferreira/maritimo/2018,2018,18,primeira_liga,18,34,1,0,0,12,3,5,9,19,34,WDWDDWWWWWWLWDLWD,3,3,2,10,9,5,8,3,6,17,20,WWWLWWWDWWLDDWWLW,2,1,5,7,16,DDWWWLLD,WLWWLDWW
+Sporting Braga,Benfica,1-3,/match/sporting-braga/benfica/2018,2018,18,primeira_liga,18,34,2,1,3,4,12,1,4,34,15,WWLLWWLWLWDWWWWLW,8,0,1,23,5,3,12,4,1,40,11,WLWDWWWDLWLWDWLDL,5,3,1,17,7,WLWWWWWWW,LDWDLLDLL
+Tondela,Feirense,3-1,/match/tondela/feirense/2018,2018,18,primeira_liga,18,34,0,3,1,13,5,4,8,20,27,DLLLDWLDWWWWLLLLD,2,2,5,13,19,14,5,2,10,15,21,DDWLLWLWWWLWLWWLL,2,1,5,6,8,LLDLWWLLD,DLWWWWWL
+Boavista,Portimonense,2-0,/match/boavista/portimonense/2018,2018,18,primeira_liga,18,34,0,2,0,11,6,3,8,18,22,WLWWWWDWLLWWDLLLD,4,0,4,8,12,10,4,6,7,23,27,WWWLWWWDDWDWDLWDD,0,4,5,9,18,LWWWLWLL,WWWWDDDWD
+Belenenses,Rio Ave,1-2,/match/belenenses/rio-ave/2018,2018,18,primeira_liga,18,34,2,1,2,8,5,4,8,15,23,WWWDWWLWWWWLWDWDD,4,3,1,10,5,6,8,3,6,22,16,WLWDWLDWWLLLLWDWW,3,2,3,9,7,WDWWWLDD,LWDWLLDW
+Sporting CP,Desportivo Aves,3-0,/match/sporting-lisbon/desportivo-aves/2018,2018,18,primeira_liga,18,34,0,3,0,2,13,4,0,38,10,LWLWLWDDWLDLWLWDW,7,2,0,20,4,17,3,5,9,16,26,LDLWWWDDLLLDLLWLD,2,3,3,10,11,WWWDWDWWW,DWWDLLWD
+Moreirense,Vitória Setúbal,2-2,/match/moreirense-fc/vitoria-setubal/2018,2018,18,primeira_liga,18,34,1,2,2,16,3,5,9,13,27,DDWLLWDWLWDWDWWLL,1,4,3,5,10,15,2,6,9,16,32,DWDDWWDWWWLWLLWDD,0,2,6,5,18,DLDLDDWL,WDWWWWWD
+Estoril,Porto,1-3,/match/estoril/fc-porto/2018,2018,18,primeira_liga,18,34,2,1,3,18,3,3,11,14,35,WWLWLWLWLWLDDWWDL,2,1,5,6,13,1,14,3,0,45,9,WLWLWLWDWLWDDLWLW,6,2,0,15,3,WLLLLDWL,LLLDLDLL
+Vitória Setúbal,Sporting CP,1-1,/match/vitoria-setubal/sporting-lisbon/2018,2018,19,primeira_liga,18,34,1,1,1,15,2,7,9,18,34,DWDDWWDWWWLWLLWDDD,2,4,3,11,14,2,14,4,0,41,10,LWLWLWDDWLDLWLWDWW,6,2,0,18,6,DDWDWLLLD,LLLDLLLD
+Porto,Tondela,1-0,/match/fc-porto/tondela/2018,2018,19,primeira_liga,18,34,0,1,0,1,15,3,0,48,10,WLWLWLWDWLWDDLWLWL,8,1,0,30,6,11,6,4,8,23,28,DLLLDWLDWWWWLLLLDW,3,2,3,7,8,WWWWWWDWW,DLWDWWLL
+Marítimo,Belenenses,0-0,/match/maritimo/belenenses/2018,2018,19,primeira_liga,18,34,1,0,0,5,8,4,6,17,20,WWWLWWWDWWLDDWWLWD,6,2,1,10,4,9,5,4,9,16,25,WWWDWWLWWWWLWDWDDL,1,1,7,5,18,WWWWDWDWL,WWWLWWWWD
+Benfica,Chaves,3-0,/match/benfica/chaves/2018,2018,19,primeira_liga,18,34,0,3,0,3,13,4,1,43,12,WLWDWWWDLWLWDWLDLL,7,1,0,23,4,7,7,5,6,24,25,WLDLWWLDWWWLDLDLDW,4,1,4,10,14,WWWWWWWD,WDWLWWLLL
+Portimonense,Sporting Braga,1-2,/match/portimonense/sporting-braga/2018,2018,19,primeira_liga,18,34,2,1,2,12,4,6,8,23,29,WWWLWWWDDWDWDLWDDW,4,2,2,14,9,4,12,1,5,35,18,WWLLWWLWLWDWWWWLWL,4,1,3,11,10,WLWDWWLD,WLWLLDWL
+Desportivo Aves,Paços Ferreira,0-2,/match/desportivo-aves/pacos-ferreira/2018,2018,19,primeira_liga,18,34,2,0,2,17,3,5,10,16,29,LDLWWWDDLLLDLLWLDW,1,2,6,6,15,13,3,6,9,19,34,WDWDDWWWWWWLWDLWDD,0,2,7,9,25,LLWDLLDLL,WWDWWWWDW
+Feirense,Moreirense,1-0,/match/feirense/moreirense-fc/2018,2018,19,primeira_liga,18,34,0,1,0,14,5,2,11,16,24,DDWLLWLWWWLWLWWLLW,3,1,5,9,13,16,3,6,9,15,29,DDWLLWDWLWDWDWWLLD,2,1,6,8,17,DWLLWLLWL,DWLWWWWWL
+Rio Ave,Boavista,2-0,/match/rio-ave/boavista/2018,2018,19,primeira_liga,18,34,0,2,0,6,9,3,6,24,17,WLWDWLDWWLLLLWDWWL,5,1,3,13,9,8,7,3,8,20,22,WLWWWWDWLLWWDLLLDW,2,3,4,10,10,WWDLWLLWW,WWWDLWDLD
+Vitória,Estoril,3-1,/match/vitoria-guimaraes/estoril/2018,2018,19,primeira_liga,18,34,0,3,1,10,7,2,9,24,33,WWLDWWWWDLLLLWWLWW,4,1,3,11,15,18,3,3,12,15,38,WWLWLWLWLWLDDWWDLL,1,2,6,8,22,WLWWDLWL,WLWWWWDWD
+Paços Ferreira,Feirense,2-1,/match/pacos-ferreira/feirense/2018,2018,20,primeira_liga,18,34,0,2,1,13,4,6,9,21,34,WDWDDWWWWWWLWDLWDDL,3,4,2,10,9,14,6,2,11,17,24,DDWLLWLWWWLWLWWLLWW,2,1,6,7,11,DDWWWLLDD,DLWWWWWLW
+Portimonense,Rio Ave,4-1,/match/portimonense/rio-ave/2018,2018,20,primeira_liga,18,34,0,4,1,12,4,6,9,24,31,WWWLWWWDDWDWDLWDDWL,4,2,3,15,11,6,10,3,6,26,17,WLWDWLDWWLLLLWDWWLW,4,2,3,11,8,WLWDWWLDL,LWDWLLDWL
+Belenenses,Benfica,1-1,/match/belenenses/benfica/2018,2018,20,primeira_liga,18,34,1,1,1,10,5,5,9,16,25,WWWDWWLWWWWLWDWDDLD,4,3,2,11,7,3,14,4,1,46,12,WLWDWWWDLWLWDWLDLLW,6,3,1,20,8,WDWWWLDDL,LDWDLLDLLL
+Sporting Braga,Desportivo Aves,2-0,/match/sporting-braga/desportivo-aves/2018,2018,20,primeira_liga,18,34,0,2,0,4,13,1,5,37,19,WWLLWWLWLWDWWWWLWLL,8,0,2,24,8,17,3,5,11,16,31,LDLWWWDDLLLDLLWLDWL,2,3,4,10,14,WLWWWWWWWL,DWWDLLWDW
+Estoril,Tondela,3-0,/match/estoril/tondela/2018,2018,20,primeira_liga,18,34,0,3,0,18,3,3,13,16,41,WWLWLWLWLWLDDWWDLLW,2,1,6,7,16,11,6,4,9,23,29,DLLLDWLDWWWWLLLLDWW,3,2,4,7,9,WLLLLDWLL,DLWDWWLLW
+Moreirense,Porto,0-0,/match/moreirense-fc/fc-porto/2018,2018,20,primeira_liga,18,34,1,0,0,16,3,6,10,15,30,DDWLLWDWLWDWDWWLLDW,1,5,3,7,12,1,16,3,0,49,10,WLWLWLWDWLWDDLWLWLW,7,2,0,18,4,DLDLDDWLD,LLLDLDLLL
+Boavista,Marítimo,2-1,/match/boavista/maritimo/2018,2018,20,primeira_liga,18,34,0,2,1,9,7,3,9,20,24,WLWWWWDWLLWWDLLLDWW,5,0,4,10,12,5,8,5,6,17,20,WWWLWWWDWWLDDWWLWDD,2,2,5,7,16,LWWWLWLLW,WLWWLDWWD
+Chaves,Vitória Setúbal,2-2,/match/chaves/vitoria-setubal/2018,2018,20,primeira_liga,18,34,1,2,2,8,7,5,7,24,28,WLDLWWLDWWWLDLDLDWW,3,4,2,14,11,15,2,8,9,19,35,DWDDWWDWWWLWLLWDDDD,0,3,6,7,20,LLWDWDDDW,WDWWWWWDD
+Sporting CP,Vitória,1-0,/match/sporting-lisbon/vitoria-guimaraes/2018,2018,20,primeira_liga,18,34,0,1,0,2,14,5,0,42,11,LWLWLWDDWLDLWLWDWWD,8,2,0,23,4,7,8,2,9,27,34,WWLDWWWWDLLLLWWLWWW,3,1,6,13,18,WWWDWDWWWW,WDWWLLLWWW
+Benfica,Rio Ave,5-1,/match/benfica/rio-ave/2018,2018,21,primeira_liga,18,34,0,5,1,3,14,5,1,47,13,WLWDWWWDLWLWDWLDLLWD,8,1,0,26,4,6,10,3,7,27,21,WLWDWLDWWLLLLWDWWLWW,4,2,4,12,12,WWWWWWWDW,LWDWLLDWLW
+Porto,Sporting Braga,3-1,/match/fc-porto/sporting-braga/2018,2018,21,primeira_liga,18,34,0,3,1,1,16,4,0,49,10,WLWLWLWDWLWDDLWLWLWD,9,1,0,31,6,4,14,1,5,39,19,WWLLWWLWLWDWWWWLWLLW,5,1,3,13,11,WWWWWWDWWW,WLWLLDWLL
+Feirense,Chaves,1-2,/match/feirense/chaves/2018,2018,21,primeira_liga,18,34,2,1,2,14,6,2,12,18,26,DDWLLWLWWWLWLWWLLWWW,4,1,5,10,13,7,7,6,7,26,30,WLDLWWLDWWWLDLDLDWWD,4,1,5,10,17,DWLLWLLWLW,WDWLWWLLLW
+Tondela,Moreirense,1-2,/match/tondela/moreirense-fc/2018,2018,21,primeira_liga,18,34,2,1,2,13,6,4,10,23,32,DLLLDWLDWWWWLLLLDWWW,3,2,5,16,20,16,3,7,10,15,30,DDWLLWDWLWDWDWWLLDWD,2,1,7,8,18,LLDLWWLLDW,DWLWWWWWLW
+Estoril,Sporting CP,2-0,/match/estoril/sporting-lisbon/2018,2018,21,primeira_liga,18,34,0,2,0,17,4,3,13,19,41,WWLWLWLWLWLDDWWDLLWW,3,1,6,10,16,2,15,5,0,43,11,LWLWLWDDWLDLWLWDWWDW,6,3,0,19,7,WLLLLDWLLW,LLLDLLLDD
+Vitória,Paços Ferreira,3-2,/match/vitoria-guimaraes/pacos-ferreira/2018,2018,21,primeira_liga,18,34,0,3,2,9,8,2,10,27,35,WWLDWWWWDLLLLWWLWWWW,5,1,3,14,16,11,5,6,9,23,35,WDWDDWWWWWWLWDLWDDLW,1,2,7,11,25,WLWWDLWLW,WWDWWWWDWL
+Marítimo,Portimonense,0-3,/match/maritimo/portimonense/2018,2018,21,primeira_liga,18,34,2,0,3,5,8,5,7,18,22,WWWLWWWDWWLDDWWLWDDW,6,3,1,10,4,10,5,6,9,28,32,WWWLWWWDDWDWDLWDDWLW,0,4,6,9,20,WWWWDWDWLD,WWWWDDDWDW
+Vitória Setúbal,Belenenses,3-0,/match/vitoria-setubal/belenenses/2018,2018,21,primeira_liga,18,34,0,3,0,15,2,9,9,21,37,DWDDWWDWWWLWLLWDDDDD,2,5,3,12,15,12,5,6,9,17,26,WWWDWWLWWWWLWDWDDLDD,1,2,7,5,18,DDWDWLLLDD,WWWLWWWWDD
+Desportivo Aves,Boavista,3-0,/match/desportivo-aves/boavista/2018,2018,21,primeira_liga,18,34,0,3,0,18,3,5,12,16,33,LDLWWWDDLLLDLLWLDWLW,1,2,7,6,17,8,8,3,9,22,25,WLWWWWDWLLWWDLLLDWWW,2,3,5,10,12,LLWDLLDLLL,WWWDLWDLDW
+Paços Ferreira,Tondela,0-2,/match/pacos-ferreira/tondela/2018,2018,22,primeira_liga,18,34,2,0,2,11,5,6,10,25,38,WDWDDWWWWWWLWDLWDDLWW,4,4,2,12,10,14,6,4,11,24,34,DLLLDWLDWWWWLLLLDWWWL,3,2,5,7,12,DDWWWLLDDW,DLWDWWLLWW
+Rio Ave,Marítimo,3-0,/match/rio-ave/maritimo/2018,2018,22,primeira_liga,18,34,0,3,0,6,10,3,8,28,26,WLWDWLDWWLLLLWDWWLWWW,6,1,3,15,9,5,8,5,8,18,25,WWWLWWWDWWLDDWWLWDDWL,2,2,6,8,18,WWDLWLLWWW,WLWWLDWWDW
+Sporting Braga,Vitória Setúbal,3-1,/match/sporting-braga/vitoria-setubal/2018,2018,22,primeira_liga,18,34,0,3,1,4,14,1,6,40,22,WWLLWWLWLWDWWWWLWLLWW,9,0,2,26,8,13,3,9,9,24,37,DWDDWWDWWWLWLLWDDDDDW,0,4,6,9,22,WLWWWWWWWLW,WDWWWWWDDD
+Portimonense,Benfica,1-3,/match/portimonense/benfica/2018,2018,22,primeira_liga,18,34,2,1,3,10,6,6,9,31,32,WWWLWWWDDWDWDLWDDWLWL,5,2,3,19,12,3,15,5,1,52,14,WLWDWWWDLWLWDWLDLLWDW,6,4,1,21,9,WLWDWWLDLW,LDWDLLDLLLD
+Belenenses,Desportivo Aves,2-5,/match/belenenses/desportivo-aves/2018,2018,22,primeira_liga,18,34,2,2,5,12,5,6,10,17,29,WWWDWWLWWWWLWDWDDLDDW,4,4,2,12,8,18,4,5,12,19,33,LDLWWWDDLLLDLLWLDWLWW,2,3,5,10,16,WDWWWLDDLD,DWWDLLWDWW
+Chaves,Porto,0-4,/match/chaves/fc-porto/2018,2018,22,primeira_liga,18,34,2,0,4,7,8,6,7,28,31,WLDLWWLDWWWLDLDLDWWDL,3,5,2,16,13,1,17,4,0,52,11,WLWLWLWDWLWDDLWLWLWDW,7,3,0,18,4,LLWDWDDDWD,LLLDLDLLLD
+Sporting CP,Feirense,2-0,/match/sporting-lisbon/feirense/2018,2018,22,primeira_liga,18,34,0,2,0,2,15,5,1,43,13,LWLWLWDDWLDLWLWDWWDWW,9,2,0,24,4,15,6,2,13,19,28,DDWLLWLWWWLWLWWLLWWWL,2,1,7,8,13,WWWDWDWWWWW,DLWWWWWLWW
+Boavista,Vitória,1-0,/match/boavista/vitoria-guimaraes/2018,2018,22,primeira_liga,18,34,0,1,0,9,8,3,10,22,28,WLWWWWDWLLWWDLLLDWWWW,6,0,4,12,13,8,9,2,10,30,37,WWLDWWWWDLLLLWWLWWWWW,3,1,7,13,19,LWWWLWLLWW,WDWWLLLWWWW
+Moreirense,Estoril,1-2,/match/moreirense-fc/estoril/2018,2018,22,primeira_liga,18,34,2,1,2,16,4,7,10,17,31,DDWLLWDWLWDWDWWLLDWDL,1,6,3,7,12,17,5,3,13,21,41,WWLWLWLWLWLDDWWDLLWWW,1,2,7,9,25,DLDLDDWLDD,WLWWWWDWDW
+Feirense,Portimonense,1-3,/match/feirense/portimonense/2018,2018,23,primeira_liga,18,34,2,1,3,16,6,2,14,19,30,DDWLLWLWWWLWLWWLLWWWLW,4,1,6,11,15,10,6,6,10,32,35,WWWLWWWDDWDWDLWDDWLWLL,1,4,6,12,20,DWLLWLLWLWL,WWWWDDDWDWL
+Desportivo Aves,Marítimo,0-0,/match/desportivo-aves/maritimo/2018,2018,23,primeira_liga,18,34,1,0,0,18,5,5,12,24,35,LDLWWWDDLLLDLLWLDWLWWL,2,2,7,9,17,6,8,5,9,18,28,WWWLWWWDWWLDDWWLWDDWLW,2,2,7,8,21,LLWDLLDLLLW,WLWWLDWWDWW
+Benfica,Boavista,4-0,/match/benfica/boavista/2018,2018,23,primeira_liga,18,34,0,4,0,3,16,5,1,55,15,WLWDWWWDLWLWDWLDLLWDWL,9,1,0,31,5,7,9,3,10,23,28,WLWWWWDWLLWWDLLLDWWWWW,2,3,6,10,15,WWWWWWWDWW,WWWDLWDLDWW
+Estoril,Belenenses,0-2,/match/estoril/belenenses/2018,2018,23,primeira_liga,18,34,2,0,2,15,6,3,13,23,42,WWLWLWLWLWLDDWWDLLWWWL,4,1,6,12,16,12,5,6,11,19,34,WWWDWWLWWWWLWDWDDLDDWL,1,2,8,5,21,WLLLLDWLLWW,WWWLWWWWDDW
+Moreirense,Chaves,0-1,/match/moreirense-fc/chaves/2018,2018,23,primeira_liga,18,34,2,0,1,17,4,7,11,18,33,DDWLLWDWLWDWDWWLLDWDLL,1,6,4,8,14,8,8,6,8,28,35,WLDLWWLDWWWLDLDLDWWDLL,5,1,5,12,18,DLDLDDWLDDL,WDWLWWLLLWL
+Vitória Setúbal,Paços Ferreira,1-0,/match/vitoria-setubal/pacos-ferreira/2018,2018,23,primeira_liga,18,34,0,1,0,13,3,9,10,25,40,DWDDWWDWWWLWLLWDDDDDWW,3,5,3,15,15,11,5,6,11,25,40,WDWDDWWWWWWLWDLWDDLWWL,1,2,8,13,28,DDWDWLLLDDW,WWDWWWWDWLW
+Porto,Rio Ave,5-0,/match/fc-porto/rio-ave/2018,2018,23,primeira_liga,18,34,0,5,0,1,18,4,0,56,11,WLWLWLWDWLWDDLWLWLWDWL,10,1,0,34,7,5,11,3,8,31,26,WLWDWLDWWLLLLWDWWLWWWW,4,2,5,13,17,WWWWWWDWWWW,LWDWLLDWLWW
+Vitória,Sporting Braga,0-5,/match/vitoria-guimaraes/sporting-braga/2018,2018,23,primeira_liga,18,34,2,0,5,9,9,2,11,30,38,WWLDWWWWDLLLLWWLWWWWWW,6,1,3,17,18,4,15,1,6,43,23,WWLLWWLWLWDWWWWLWLLWWW,5,1,4,14,14,WLWWDLWLWW,WLWLLDWLLW
+Tondela,Sporting CP,1-2,/match/tondela/sporting-lisbon/2018,2018,23,primeira_liga,18,34,2,1,2,14,7,4,11,26,34,DLLLDWLDWWWWLLLLDWWWLL,3,2,6,17,22,2,16,5,1,45,13,LWLWLWDDWLDLWLWDWWDWWW,6,3,1,19,9,LLDLWWLLDWL,LLLDLLLDDW
+Rio Ave,Desportivo Aves,0-0,/match/rio-ave/desportivo-aves/2018,2018,24,primeira_liga,18,34,1,0,0,5,11,3,9,31,31,WLWDWLDWWLLLLWDWWLWWWWW,7,1,3,18,9,18,5,6,12,24,35,LDLWWWDDLLLDLLWLDWLWWLD,3,3,5,15,18,WWDLWLLWWWW,DWWDLLWDWWL
+Belenenses,Feirense,1-0,/match/belenenses/feirense/2018,2018,24,primeira_liga,18,34,0,1,0,11,6,6,11,21,34,WWWDWWLWWWWLWDWDDLDDWLL,4,4,3,14,13,16,6,2,15,20,33,DDWLLWLWWWLWLWWLLWWWLWL,2,1,8,8,15,WDWWWLDDLDL,DLWWWWWLWWW
+Marítimo,Vitória,3-2,/match/maritimo/vitoria-guimaraes/2018,2018,24,primeira_liga,18,34,0,3,2,6,8,6,9,18,28,WWWLWWWDWWLDDWWLWDDWLWD,6,3,2,10,7,9,9,2,12,30,43,WWLDWWWWDLLLLWWLWWWWWWL,3,1,8,13,20,WWWWDWDWLDL,WDWWLLLWWWWW
+Paços Ferreira,Benfica,1-3,/match/pacos-ferreira/benfica/2018,2018,24,primeira_liga,18,34,2,1,3,13,5,6,12,25,41,WDWDDWWWWWWLWDLWDDLWWLW,4,4,3,12,12,3,17,5,1,59,15,WLWDWWWDLWLWDWLDLLWDWLW,7,4,1,24,10,DDWWWLLDDWL,LDWDLLDLLLDL
+Chaves,Estoril,2-0,/match/chaves/estoril/2018,2018,24,primeira_liga,18,34,0,2,0,8,9,6,8,29,35,WLDLWWLDWWWLDLDLDWWDLLL,3,5,3,16,17,15,6,3,14,23,44,WWLWLWLWLWLDDWWDLLWWWLL,2,2,7,11,26,LLWDWDDDWDL,WLWWWWDWDWL
+Boavista,Vitória Setúbal,4-0,/match/boavista/vitoria-setubal/2018,2018,24,primeira_liga,18,34,0,4,0,7,9,3,11,23,32,WLWWWWDWLLWWDLLLDWWWWWW,7,0,4,13,13,12,4,9,10,26,40,DWDDWWDWWWLWLLWDDDDDWWW,0,4,7,10,25,LWWWLWLLWWW,WDWWWWWDDDW
+Portimonense,Porto,1-5,/match/portimonense/fc-porto/2018,2018,24,primeira_liga,18,34,2,1,5,10,7,6,10,35,36,WWWLWWWDDWDWDLWDDWLWLLL,5,2,4,20,15,1,19,4,0,61,11,WLWLWLWDWLWDDLWLWLWDWLW,8,3,0,22,4,WLWDWWLDLWL,LLLDLDLLLDL
+Sporting Braga,Tondela,1-0,/match/sporting-braga/tondela/2018,2018,24,primeira_liga,18,34,0,1,0,4,16,1,6,48,23,WWLLWWLWLWDWWWWLWLLWWWL,10,0,2,29,9,14,7,4,12,27,36,DLLLDWLDWWWWLLLLDWWWLLL,4,2,5,9,12,WLWWWWWWWLWW,DLWDWWLLWWL
+Sporting CP,Moreirense,1-0,/match/sporting-lisbon/moreirense-fc/2018,2018,24,primeira_liga,18,34,0,1,0,2,17,5,1,47,14,LWLWLWDDWLDLWLWDWWDWWWL,10,2,0,26,4,17,4,7,12,18,34,DDWLLWDWLWDWDWWLLDWDLLL,3,1,7,10,19,WWWDWDWWWWWW,DWLWWWWWLWL
+Porto,Sporting CP,2-1,/match/fc-porto/sporting-lisbon/2018,2018,25,primeira_liga,18,34,0,2,1,1,20,4,0,66,12,WLWLWLWDWLWDDLWLWLWDWLWL,11,1,0,39,7,2,18,5,1,48,14,LWLWLWDDWLDLWLWDWWDWWWLW,7,3,1,21,10,WWWWWWDWWWWW,LLLDLLLDDWL
+Feirense,Boavista,3-0,/match/feirense/boavista/2018,2018,25,primeira_liga,18,34,0,3,0,17,6,2,16,20,34,DDWLLWLWWWLWLWWLLWWWLWLW,4,1,7,12,18,7,10,3,11,27,32,WLWWWWDWLLWWDLLLDWWWWWWW,2,3,7,10,19,DWLLWLLWLWLL,WWWDLWDLDWWW
+Benfica,Marítimo,5-0,/match/benfica/maritimo/2018,2018,25,primeira_liga,18,34,0,5,0,3,18,5,1,62,16,WLWDWWWDLWLWDWLDLLWDWLWL,10,1,0,35,5,6,9,6,9,21,30,WWWLWWWDWWLDDWWLWDDWLWDW,2,3,7,8,21,WWWWWWWDWWW,WLWWLDWWDWWD
+Estoril,Sporting Braga,0-6,/match/estoril/sporting-braga/2018,2018,25,primeira_liga,18,34,2,0,6,15,6,3,15,23,46,WWLWLWLWLWLDDWWDLLWWWLLW,4,1,7,12,18,4,17,1,6,49,23,WWLLWWLWLWDWWWWLWLLWWWLW,6,1,4,19,14,WLLLLDWLLWWL,WLWLLDWLLWL
+Tondela,Chaves,2-0,/match/tondela/chaves/2018,2018,25,primeira_liga,18,34,0,2,0,14,7,4,13,27,37,DLLLDWLDWWWWLLLLDWWWLLLW,3,2,7,18,24,8,10,6,8,31,35,WLDLWWLDWWWLDLDLDWWDLLLW,6,1,5,13,18,LLDLWWLLDWLL,WDWLWWLLLWLL
+Moreirense,Paços Ferreira,2-0,/match/moreirense-fc/pacos-ferreira/2018,2018,25,primeira_liga,18,34,0,2,0,18,4,7,13,18,35,DDWLLWDWLWDWDWWLLDWDLLLW,1,6,5,8,15,13,5,6,13,26,44,WDWDDWWWWWWLWDLWDDLWWLWL,1,2,9,13,29,DLDLDDWLDDLL,WWDWWWWDWLWW
+Vitória Setúbal,Rio Ave,1-0,/match/vitoria-setubal/rio-ave/2018,2018,25,primeira_liga,18,34,0,1,0,12,4,9,11,26,44,DWDDWWDWWWLWLLWDDDDDWWWW,4,5,3,16,15,5,11,4,9,31,31,WLWDWLDWWLLLLWDWWLWWWWWD,4,2,6,13,22,DDWDWLLLDDWW,LWDWLLDWLWWW
+Vitória,Belenenses,0-0,/match/vitoria-guimaraes/belenenses/2018,2018,25,primeira_liga,18,34,1,0,0,10,9,2,13,32,46,WWLDWWWWDLLLLWWLWWWWWWLW,6,1,4,17,23,9,7,6,11,22,34,WWWDWWLWWWWLWDWDDLDDWLLW,2,2,8,7,21,WLWWDLWLWWL,WWWLWWWWDDWL
+Desportivo Aves,Portimonense,3-0,/match/desportivo-aves/portimonense/2018,2018,25,primeira_liga,18,34,0,3,0,16,5,7,12,24,35,LDLWWWDDLLLDLLWLDWLWWLDD,2,3,7,9,17,11,7,6,11,36,41,WWWLWWWDDWDWDLWDDWLWLLLL,2,4,6,15,21,LLWDLLDLLLWD,WWWWDDDWDWLL
+Sporting Braga,Moreirense,3-0,/match/sporting-braga/moreirense-fc/2018,2018,26,primeira_liga,18,34,0,3,0,4,18,1,6,55,23,WWLLWWLWLWDWWWWLWLLWWWLWL,11,0,2,30,9,17,5,7,13,20,35,DDWLLWDWLWDWDWWLLDWDLLLWW,3,1,8,10,20,WLWWWWWWWLWWW,DWLWWWWWLWLW
+Rio Ave,Feirense,2-1,/match/rio-ave/feirense/2018,2018,26,primeira_liga,18,34,0,2,1,5,11,4,10,31,32,WLWDWLDWWLLLLWDWWLWWWWWDW,7,2,3,18,9,16,7,2,16,23,34,DDWLLWLWWWLWLWWLLWWWLWLWW,2,1,9,8,16,WWDLWLLWWWWD,DLWWWWWLWWWW
+Benfica,Desportivo Aves,2-0,/match/benfica/desportivo-aves/2018,2018,26,primeira_liga,18,34,0,2,0,2,19,5,1,67,16,WLWDWWWDLWLWDWLDLLWDWLWLW,11,1,0,40,5,15,6,7,12,27,35,LDLWWWDDLLLDLLWLDWLWWLDDW,3,4,5,15,18,WWWWWWWDWWWW,DWWDLLWDWWLD
+Boavista,Estoril,1-0,/match/boavista/estoril/2018,2018,26,primeira_liga,18,34,0,1,0,7,10,3,12,27,35,WLWWWWDWLLWWDLLLDWWWWWWWW,8,0,4,17,13,18,6,3,16,23,52,WWLWLWLWLWLDDWWDLLWWWLLWL,2,2,8,11,28,LWWWLWLLWWWW,WLWWWWDWDWLW
+Portimonense,Vitória,2-1,/match/portimonense/vitoria-guimaraes/2018,2018,26,primeira_liga,18,34,0,2,1,12,7,6,12,36,44,WWWLWWWDDWDWDLWDDWLWLLLLW,5,2,5,21,20,9,9,3,13,32,46,WWLDWWWWDLLLLWWLWWWWWWLWD,3,1,9,15,23,WLWDWWLDLWLL,WDWWLLLWWWWWW
+Marítimo,Vitória Setúbal,4-2,/match/maritimo/vitoria-setubal/2018,2018,26,primeira_liga,18,34,0,4,2,6,9,6,10,21,35,WWWLWWWDWWLDDWWLWDDWLWDWW,7,3,2,13,9,11,5,9,11,27,44,DWDDWWDWWWLWLLWDDDDDWWWWW,0,4,8,10,29,WWWWDWDWLDLW,WDWWWWWDDDWW
+Belenenses,Tondela,0-0,/match/belenenses/tondela/2018,2018,26,primeira_liga,18,34,1,0,0,10,7,7,11,22,34,WWWDWWLWWWWLWDWDDLDDWLLWD,5,4,3,15,13,13,8,4,13,29,37,DLLLDWLDWWWWLLLLDWWWLLLWW,4,2,6,9,13,WDWWWLDDLDLW,DLWDWWLLWWLW
+Paços Ferreira,Porto,1-0,/match/pacos-ferreira/fc-porto/2018,2018,26,primeira_liga,18,34,0,1,0,14,5,6,14,26,46,WDWDDWWWWWWLWDLWDDLWWLWLW,4,4,4,13,15,1,21,4,0,68,13,WLWLWLWDWLWDDLWLWLWDWLWLW,9,3,0,27,5,DDWWWLLDDWLL,LLLDLDLLLDLL
+Chaves,Sporting CP,1-2,/match/chaves/sporting-lisbon/2018,2018,26,primeira_liga,18,34,2,1,2,8,10,6,9,31,37,WLDLWWLDWWWLDLDLDWWDLLLWW,4,5,3,18,17,3,18,5,2,49,16,LWLWLWDDWLDLWLWDWWDWWWLWW,7,3,2,22,12,LLWDWDDDWDLW,LLLDLLLDDWLW
+Vitória Setúbal,Portimonense,1-1,/match/vitoria-setubal/portimonense/2018,2018,27,primeira_liga,18,34,1,1,1,12,5,9,12,29,48,DWDDWWDWWWLWLLWDDDDDWWWWWW,5,5,3,17,15,10,8,6,12,38,45,WWWLWWWDDWDWDLWDDWLWLLLLWW,2,4,7,15,24,DDWDWLLLDDWWW,WWWWDDDWDWLLW
+Tondela,Marítimo,1-2,/match/tondela/maritimo/2018,2018,27,primeira_liga,18,34,2,1,2,14,8,5,13,29,37,DLLLDWLDWWWWLLLLDWWWLLLWWD,4,2,7,20,24,6,10,6,10,25,37,WWWLWWWDWWLDDWWLWDDWLWDWWW,2,3,8,8,26,LLDLWWLLDWLLW,WLWWLDWWDWWDW
+Estoril,Paços Ferreira,1-1,/match/estoril/pacos-ferreira/2018,2018,27,primeira_liga,18,34,1,1,1,18,6,3,17,23,53,WWLWLWLWLWLDDWWDLLWWWLLWLW,4,1,8,12,24,13,6,6,14,27,46,WDWDDWWWWWWLWDLWDDLWWLWLWW,1,2,10,13,31,WLLLLDWLLWWLL,WWDWWWWDWLWWW
+Feirense,Benfica,0-2,/match/feirense/benfica/2018,2018,27,primeira_liga,18,34,2,0,2,16,7,2,17,24,36,DDWLLWLWWWLWLWWLLWWWLWLWWW,5,1,7,15,18,2,20,5,1,69,16,WLWDWWWDLWLWDWLDLLWDWLWLWW,8,4,1,27,11,DWLLWLLWLWLLW,LDWDLLDLLLDLL
+Porto,Boavista,2-0,/match/fc-porto/boavista/2018,2018,27,primeira_liga,18,34,0,2,0,1,21,4,1,68,14,WLWLWLWDWLWDDLWLWLWDWLWLWW,12,1,0,41,8,7,11,3,12,28,35,WLWWWWDWLLWWDLLLDWWWWWWWWW,2,3,8,10,22,WWWWWWDWWWWWW,WWWDLWDLDWWWW
+Vitória,Desportivo Aves,2-1,/match/vitoria-guimaraes/desportivo-aves/2018,2018,27,primeira_liga,18,34,0,2,1,11,9,3,14,33,48,WWLDWWWWDLLLLWWLWWWWWWLWDW,6,2,4,17,23,15,6,7,13,27,37,LDLWWWDDLLLDLLWLDWLWWLDDWW,3,4,6,15,20,WLWWDLWLWWLD,DWWDLLWDWWLDW
+Moreirense,Belenenses,2-1,/match/moreirense-fc/belenenses/2018,2018,27,primeira_liga,18,34,0,2,1,17,5,7,14,20,38,DDWLLWDWLWDWDWWLLDWDLLLWWW,2,6,5,10,15,9,7,8,11,22,34,WWWDWWLWWWWLWDWDDLDDWLLWDD,2,3,8,7,21,DLDLDDWLDDLLW,WWWLWWWWDDWLD
+Chaves,Sporting Braga,1-4,/match/chaves/sporting-braga/2018,2018,27,primeira_liga,18,34,2,1,4,8,10,6,10,32,39,WLDLWWLDWWWLDLDLDWWDLLLWWL,4,5,4,19,19,4,19,1,6,58,23,WWLLWWLWLWDWWWWLWLLWWWLWLW,7,1,4,25,14,LLWDWDDDWDLWL,WLWLLDWLLWLL
+Sporting CP,Rio Ave,2-0,/match/sporting-lisbon/rio-ave/2018,2018,27,primeira_liga,18,34,0,2,0,3,19,5,2,51,17,LWLWLWDDWLDLWLWDWWDWWWLWWL,11,2,0,27,4,5,12,4,10,33,33,WLWDWLDWWLLLLWDWWLWWWWWDWW,4,2,7,13,23,WWWDWDWWWWWWW,LWDWLLDWLWWWW
+Desportivo Aves,Vitória Setúbal,1-4,/match/desportivo-aves/vitoria-setubal/2018,2018,28,primeira_liga,18,34,2,1,4,16,6,7,14,28,39,LDLWWWDDLLLDLLWLDWLWWLDDWWW,3,3,7,12,17,12,5,10,12,30,49,DWDDWWDWWWLWLLWDDDDDWWWWWWD,0,4,9,12,33,LLWDLLDLLLWDW,WDWWWWWDDDWWW
+Marítimo,Feirense,4-1,/match/maritimo/feirense/2018,2018,28,primeira_liga,18,34,0,4,1,5,11,6,10,27,38,WWWLWWWDWWLDDWWLWDDWLWDWWWL,8,3,2,17,11,17,7,2,18,24,38,DDWLLWLWWWLWLWWLLWWWLWLWWWL,2,1,10,9,18,WWWWDWDWLDLWW,DLWWWWWLWWWWW
+Rio Ave,Estoril,2-0,/match/rio-ave/estoril/2018,2018,28,primeira_liga,18,34,0,2,0,6,12,4,11,33,35,WLWDWLDWWLLLLWDWWLWWWWWDWWW,8,2,3,20,10,18,6,4,17,24,54,WWLWLWLWLWLDDWWDLLWWWLLWLWD,2,2,9,11,29,WWDLWLLWWWWDW,WLWWWWDWDWLWW
+Boavista,Tondela,1-1,/match/boavista/tondela/2018,2018,28,primeira_liga,18,34,1,1,1,7,11,3,13,28,37,WLWWWWDWLLWWDLLLDWWWWWWWWWW,9,0,4,18,13,14,8,5,14,30,39,DLLLDWLDWWWWLLLLDWWWLLLWWDL,4,3,6,9,13,LWWWLWLLWWWWW,DLWDWWLLWWLWD
+Paços Ferreira,Chaves,2-0,/match/pacos-ferreira/chaves/2018,2018,28,primeira_liga,18,34,0,2,0,13,6,7,14,28,47,WDWDDWWWWWWLWDLWDDLWWLWLWWD,5,4,4,14,15,8,10,6,11,33,43,WLDLWWLDWWWLDLDLDWWDLLLWWLL,6,1,6,13,20,DDWWWLLDDWLLW,WDWLWWLLLWLLW
+Portimonense,Moreirense,4-3,/match/portimonense/moreirense-fc/2018,2018,28,primeira_liga,18,34,0,4,3,10,8,7,12,39,46,WWWLWWWDDWDWDLWDDWLWLLLLWWD,6,2,5,23,21,15,6,7,14,22,39,DDWLLWDWLWDWDWWLLDWDLLLWWWW,3,1,9,10,23,WLWDWWLDLWLLW,DWLWWWWWLWLWW
+Benfica,Vitória,2-0,/match/benfica/vitoria-guimaraes/2018,2018,28,primeira_liga,18,34,0,2,0,2,21,5,1,71,16,WLWDWWWDLWLWDWLDLLWDWLWLWWL,12,1,0,42,5,9,10,3,14,35,49,WWLDWWWWDLLLLWWLWWWWWWLWDWW,3,1,10,16,25,WWWWWWWDWWWWW,WDWWLLLWWWWWWW
+Sporting Braga,Sporting CP,1-0,/match/sporting-braga/sporting-lisbon/2018,2018,28,primeira_liga,18,34,0,1,0,4,20,1,6,62,24,WWLLWWLWLWDWWWWLWLLWWWLWLWL,12,0,2,33,9,3,20,5,2,53,17,LWLWLWDDWLDLWLWDWWDWWWLWWLW,8,3,2,24,13,WLWWWWWWWLWWWW,LLLDLLLDDWLWL
+Belenenses,Porto,2-0,/match/belenenses/fc-porto/2018,2018,28,primeira_liga,18,34,0,2,0,11,7,8,12,23,36,WWWDWWLWWWWLWDWDDLDDWLLWDDW,5,5,3,15,13,1,22,4,1,70,14,WLWLWLWDWLWDDLWLWLWDWLWLWWW,9,3,1,27,6,WDWWWLDDLDLWD,LLLDLDLLLDLLW
+Vitória,Rio Ave,3-0,/match/vitoria-guimaraes/rio-ave/2018,2018,29,primeira_liga,18,34,0,3,0,10,10,3,15,35,51,WWLDWWWWDLLLLWWLWWWWWWLWDWWW,7,2,4,19,24,6,13,4,11,35,35,WLWDWLDWWLLLLWDWWLWWWWWDWWWW,4,2,8,13,25,WLWWDLWLWWLDW,LWDWLLDWLWWWWW
+Tondela,Portimonense,2-2,/match/tondela/portimonense/2018,2018,29,primeira_liga,18,34,1,2,2,14,8,6,14,31,40,DLLLDWLDWWWWLLLLDWWWLLLWWDLD,4,2,8,21,26,9,9,7,12,43,49,WWWLWWWDDWDWDLWDDWLWLLLLWWDW,2,5,7,16,25,LLDLWWLLDWLLWL,WWWWDDDWDWLLWD
+Estoril,Marítimo,1-1,/match/estoril/maritimo/2018,2018,29,primeira_liga,18,34,1,1,1,18,6,4,18,24,56,WWLWLWLWLWLDDWWDLLWWWLLWLWDW,4,2,8,13,25,5,12,6,10,31,39,WWWLWWWDWWLDDWWLWDDWLWDWWWLW,3,3,8,10,27,WLLLLDWLLWWLLD,WLWWLDWWDWWDWL
+Feirense,Sporting Braga,2-2,/match/feirense/sporting-braga/2018,2018,29,primeira_liga,18,34,1,2,2,17,7,2,19,25,42,DDWLLWLWWWLWLWWLLWWWLWLWWWLW,5,1,8,15,20,4,21,1,6,63,24,WWLLWWLWLWDWWWWLWLLWWWLWLWLW,8,1,4,29,15,DWLLWLLWLWLLWL,WLWLLDWLLWLLL
+Vitória Setúbal,Benfica,1-2,/match/vitoria-setubal/benfica/2018,2018,29,primeira_liga,18,34,2,1,2,12,6,10,12,34,50,DWDDWWDWWWLWLLWDDDDDWWWWWWDL,5,6,3,18,16,1,22,5,1,73,16,WLWDWWWDLWLWDWLDLLWDWLWLWWLW,9,4,1,29,11,DDWDWLLLDDWWWD,LDWDLLDLLLDLLL
+Chaves,Belenenses,1-1,/match/chaves/belenenses/2018,2018,29,primeira_liga,18,34,1,1,1,11,10,6,12,33,45,WLDLWWLDWWWLDLDLDWWDLLLWWLLW,4,5,5,20,23,8,8,8,12,25,36,WWWDWWLWWWWLWDWDDLDDWLLWDDWW,2,3,9,8,23,LLWDWDDDWDLWLL,WWWLWWWWDDWLDW
+Porto,Desportivo Aves,2-0,/match/fc-porto/desportivo-aves/2018,2018,29,primeira_liga,18,34,0,2,0,2,22,4,2,70,16,WLWLWLWDWLWDDLWLWLWDWLWLWWWW,13,1,0,43,8,16,6,7,15,29,43,LDLWWWDDLLLDLLWLDWLWWLDDWWWL,3,4,7,16,22,WWWWWWDWWWWWWW,DWWDLLWDWWLDWW
+Sporting CP,Paços Ferreira,2-0,/match/sporting-lisbon/pacos-ferreira/2018,2018,29,primeira_liga,18,34,0,2,0,3,20,5,3,53,18,LWLWLWDDWLDLWLWDWWDWWWLWWLWW,12,2,0,29,4,13,7,7,14,30,47,WDWDDWWWWWWLWDLWDDLWWLWLWWDW,1,3,10,14,32,WWWDWDWWWWWWWW,WWDWWWWDWLWWWD
+Moreirense,Boavista,1-0,/match/moreirense-fc/boavista/2018,2018,29,primeira_liga,18,34,0,1,0,15,6,7,15,25,43,DDWLLWDWLWDWDWWLLDWDLLLWWWWW,3,6,5,12,16,7,11,4,13,29,38,WLWWWWDWLLWWDLLLDWWWWWWWWWWD,2,3,9,10,24,DLDLDDWLDDLLWW,WWWDLWDLDWWWWW
+Paços Ferreira,Sporting Braga,1-5,/match/pacos-ferreira/sporting-braga/2018,2018,30,primeira_liga,18,34,2,1,5,13,7,7,15,30,49,WDWDDWWWWWWLWDLWDDLWWLWLWWDWW,6,4,4,16,15,4,21,2,6,65,26,WWLLWWLWLWDWWWWLWLLWWWLWLWLWD,8,2,4,31,17,DDWWWLLDDWLLWW,WLWLLDWLLWLLLD
+Portimonense,Estoril,0-1,/match/portimonense/estoril/2018,2018,30,primeira_liga,18,34,2,0,1,9,9,8,12,45,51,WWWLWWWDDWDWDLWDDWLWLLLLWWDWD,7,2,5,27,24,18,6,5,18,25,57,WWLWLWLWLWLDDWWDLLWWWLLWLWDWD,2,2,10,11,31,WLWDWWLDLWLLWW,WLWWWWDWDWLWWW
+Desportivo Aves,Feirense,1-0,/match/desportivo-aves/feirense/2018,2018,30,primeira_liga,18,34,0,1,0,17,6,7,16,29,45,LDLWWWDDLLLDLLWLDWLWWLDDWWWLW,3,3,8,13,21,16,7,3,19,27,44,DDWLLWLWWWLWLWWLLWWWLWLWWWLWD,2,1,11,10,22,LLWDLLDLLLWDWL,DLWWWWWLWWWWWW
+Boavista,Chaves,3-3,/match/boavista/chaves/2018,2018,30,primeira_liga,18,34,1,3,3,7,11,4,14,29,39,WLWWWWDWLLWWDLLLDWWWWWWWWWWDW,9,1,4,19,14,11,10,7,12,34,46,WLDLWWLDWWWLDLDLDWWDLLLWWLLWD,6,1,7,13,22,LWWWLWLLWWWWWD,WDWLWWLLLWLLWW
+Vitória,Vitória Setúbal,1-1,/match/vitoria-guimaraes/vitoria-setubal/2018,2018,30,primeira_liga,18,34,1,1,1,8,11,3,15,38,51,WWLDWWWWDLLLLWWLWWWWWWLWDWWWW,8,2,4,22,24,12,6,10,13,35,52,DWDDWWDWWWLWLLWDDDDDWWWWWWDLL,1,4,9,16,34,WLWWDLWLWWLDWW,WDWWWWWDDDWWWL
+Marítimo,Moreirense,1-1,/match/maritimo/moreirense-fc/2018,2018,30,primeira_liga,18,34,1,1,1,5,12,7,10,32,40,WWWLWWWDWWLDDWWLWDDWLWDWWWLWD,9,3,2,21,12,14,7,7,15,26,43,DDWLLWDWLWDWDWWLLDWDLLLWWWWWW,3,1,10,13,27,WWWWDWDWLDLWWW,DWLWWWWWLWLWWW
+Benfica,Porto,0-1,/match/benfica/fc-porto/2018,2018,30,primeira_liga,18,34,2,0,1,2,23,5,1,75,17,WLWDWWWDLWLWDWLDLLWDWLWLWWLWL,13,1,0,44,5,1,23,4,2,72,16,WLWLWLWDWLWDDLWLWLWDWLWLWWWWW,9,3,2,27,8,WWWWWWWDWWWWWW,LLLDLDLLLDLLWW
+Belenenses,Sporting CP,3-4,/match/belenenses/sporting-lisbon/2018,2018,30,primeira_liga,18,34,2,3,4,10,8,9,12,26,37,WWWDWWLWWWWLWDWDDLDDWLLWDDWWD,6,5,3,17,13,3,21,5,3,55,18,LWLWLWDDWLDLWLWDWWDWWWLWWLWWW,8,3,3,24,14,WDWWWLDDLDLWDW,LLLDLLLDDWLWLW
+Rio Ave,Tondela,1-1,/match/rio-ave/tondela/2018,2018,30,primeira_liga,18,34,1,1,1,6,13,4,12,35,38,WLWDWLDWWLLLLWDWWLWWWWWDWWWWW,9,2,3,22,10,15,8,7,14,33,42,DLLLDWLDWWWWLLLLDWWWLLLWWDLDD,4,4,6,10,14,WWDLWLLWWWWDWW,DLWDWWLLWWLWDD
+Sporting Braga,Marítimo,2-0,/match/sporting-braga/maritimo/2018,2018,31,primeira_liga,18,34,0,2,0,4,22,2,6,70,27,WWLLWWLWLWDWWWWLWLLWWWLWLWLWDL,13,0,2,34,9,5,12,8,10,33,41,WWWLWWWDWWLDDWWLWDDWLWDWWWLWDD,3,4,8,11,28,WLWWWWWWWLWWWWW,WLWWLDWWDWWDWLD
+Paços Ferreira,Belenenses,1-1,/match/pacos-ferreira/belenenses/2018,2018,31,primeira_liga,18,34,1,1,1,13,7,7,16,31,54,WDWDDWWWWWWLWDLWDDLWWLWLWWDWWL,6,4,5,17,20,10,8,9,13,29,41,WWWDWWLWWWWLWDWDDLDDWLLWDDWWDL,2,4,9,9,24,DDWWWLLDDWLLWWL,WWWLWWWWDDWLDWD
+Feirense,Vitória,2-1,/match/feirense/vitoria-guimaraes/2018,2018,31,primeira_liga,18,34,0,2,1,18,7,3,20,27,45,DDWLLWLWWWLWLWWLLWWWLWLWWWLWDW,5,2,8,17,22,8,11,4,15,39,52,WWLDWWWWDLLLLWWLWWWWWWLWDWWWWD,3,1,11,16,27,DWLLWLLWLWLLWLD,WDWWLLLWWWWWWWW
+Estoril,Benfica,1-2,/match/estoril/benfica/2018,2018,31,primeira_liga,18,34,2,1,2,17,7,5,18,26,57,WWLWLWLWLWLDDWWDLLWWWLLWLWDWDL,4,3,8,14,26,2,23,5,2,75,18,WLWDWWWDLWLWDWLDLLWDWLWLWWLWLL,10,4,1,31,12,WLLLLDWLLWWLLDD,LDWDLLDLLLDLLLL
+Tondela,Desportivo Aves,3-0,/match/tondela/desportivo-aves/2018,2018,31,primeira_liga,18,34,0,3,0,15,8,8,14,34,43,DLLLDWLDWWWWLLLLDWWWLLLWWDLDDD,4,3,8,23,28,16,7,7,16,30,45,LDLWWWDDLLLDLLWLDWLWWLDDWWWLWW,3,4,8,16,24,LLDLWWLLDWLLWLD,DWWDLLWDWWLDWWW
+Chaves,Portimonense,2-1,/match/chaves/portimonense/2018,2018,31,primeira_liga,18,34,0,2,1,9,10,8,12,37,49,WLDLWWLDWWWLDLDLDWWDLLLWWLLWDD,4,6,5,21,24,11,9,8,13,45,52,WWWLWWWDDWDWDLWDDWLWLLLLWWDWDL,2,6,7,18,27,LLWDWDDDWDLWLLD,WWWWDDDWDWLLWDD
+Moreirense,Rio Ave,2-1,/match/moreirense-fc/rio-ave/2018,2018,31,primeira_liga,18,34,0,2,1,14,7,8,15,27,44,DDWLLWDWLWDWDWWLLDWDLLLWWWWWWD,4,6,5,13,16,6,13,5,12,36,39,WLWDWLDWWLLLLWDWWLWWWWWDWWWWWD,4,2,9,13,28,DLDLDDWLDDLLWWW,LWDWLLDWLWWWWWW
+Sporting CP,Boavista,1-0,/match/sporting-lisbon/boavista/2018,2018,31,primeira_liga,18,34,0,1,0,3,22,5,3,59,21,LWLWLWDDWLDLWLWDWWDWWWLWWLWWWL,13,2,0,31,4,7,11,5,14,32,42,WLWWWWDWLLWWDLLLDWWWWWWWWWWDWD,2,3,10,10,25,WWWDWDWWWWWWWWW,WWWDLWDLDWWWWWW
+Porto,Vitória Setúbal,5-1,/match/fc-porto/vitoria-setubal/2018,2018,31,primeira_liga,18,34,0,5,1,1,24,4,2,73,16,WLWLWLWDWLWDDLWLWLWDWLWLWWWWWL,14,1,0,45,8,12,6,11,13,36,53,DWDDWWDWWWLWLLWDDDDDWWWWWWDLLD,1,5,9,17,35,WWWWWWDWWWWWWWW,WDWWWWWDDDWWWLD
+Vitória,Moreirense,1-0,/match/vitoria-guimaraes/moreirense-fc/2018,2018,32,primeira_liga,18,34,0,1,0,9,11,4,16,40,54,WWLDWWWWDLLLLWWLWWWWWWLWDWWWWDW,8,3,4,23,25,12,8,8,15,29,45,DDWLLWDWLWDWDWWLLDWDLLLWWWWWWDW,3,2,10,14,28,WLWWDLWLWWLDWWD,DWLWWWWWLWLWWWD
+Vitória Setúbal,Feirense,0-2,/match/vitoria-setubal/feirense/2018,2018,32,primeira_liga,18,34,2,0,2,13,6,11,14,37,58,DWDDWWDWWWLWLLWDDDDDWWWWWWDLLDW,5,6,4,19,18,16,8,3,20,29,46,DDWLLWLWWWLWLWWLLWWWLWLWWWLWDWW,2,1,12,10,23,DDWDWLLLDDWWWDL,DLWWWWWLWWWWWWW
+Benfica,Tondela,2-3,/match/benfica/tondela/2018,2018,32,primeira_liga,18,34,2,2,3,3,24,5,2,77,19,WLWDWWWDLWLWDWLDLLWDWLWLWWLWLLL,13,1,1,44,6,15,9,8,14,37,43,DLLLDWLDWWWWLLLLDWWWLLLWWDLDDDW,4,5,6,11,15,WWWWWWWDWWWWWWL,DLWDWWLLWWLWDDD
+Portimonense,Sporting CP,1-2,/match/portimonense/sporting-lisbon/2018,2018,32,primeira_liga,18,34,2,1,2,11,9,8,14,46,54,WWWLWWWDDWDWDLWDDWLWLLLLWWDWDLW,7,2,6,27,25,2,23,5,3,60,21,LWLWLWDDWLDLWLWDWWDWWWLWWLWWWLW,9,3,3,28,17,WLWDWWLDLWLLWWL,LLLDLLLDDWLWLWL
+Rio Ave,Chaves,2-1,/match/rio-ave/chaves/2018,2018,32,primeira_liga,18,34,0,2,1,6,13,5,13,37,41,WLWDWLDWWLLLLWDWWLWWWWWDWWWWWDW,9,3,3,23,11,8,11,8,12,39,50,WLDLWWLDWWWLDLDLDWWDLLLWWLLWDDW,6,2,7,16,25,WWDLWLLWWWWDWWD,WDWLWWLLLWLLWWD
+Boavista,Paços Ferreira,1-0,/match/boavista/pacos-ferreira/2018,2018,32,primeira_liga,18,34,0,1,0,7,11,5,15,32,43,WLWWWWDWLLWWDLLLDWWWWWWWWWWDWDW,9,2,4,22,17,14,7,8,16,32,55,WDWDDWWWWWWLWDLWDDLWWLWLWWDWWLD,1,3,11,14,34,LWWWLWLLWWWWWDD,WWDWWWWDWLWWWDW
+Marítimo,Porto,0-1,/match/maritimo/fc-porto/2018,2018,32,primeira_liga,18,34,2,0,1,5,12,8,11,33,43,WWWLWWWDWWLDDWWLWDDWLWDWWWLWDDW,9,4,2,22,13,1,25,4,2,78,17,WLWLWLWDWLWDDLWLWLWDWLWLWWWWWLW,10,3,2,28,8,WWWWDWDWLDLWWWD,LLLDLDLLLDLLWWL
+Belenenses,Sporting Braga,0-1,/match/belenenses/sporting-braga/2018,2018,32,primeira_liga,18,34,2,0,1,10,8,10,13,30,42,WWWDWWLWWWWLWDWDDLDDWLLWDDWWDLD,6,5,4,20,17,4,23,2,6,72,27,WWLLWWLWLWDWWWWLWLLWWWLWLWLWDLW,9,2,4,36,18,WDWWWLDDLDLWDWL,WLWLLDWLLWLLLDL
+Desportivo Aves,Estoril,1-0,/match/desportivo-aves/estoril/2018,2018,32,primeira_liga,18,34,0,1,0,17,7,7,17,30,48,LDLWWWDDLLLDLLWLDWLWWLDDWWWLWWW,4,3,8,14,21,18,7,5,19,27,59,WWLWLWLWLWLDDWWDLLWWWLLWLWDWDLL,3,2,10,12,31,LLWDLLDLLLWDWLW,WLWWWWDWDWLWWWL
+Sporting Braga,Boavista,1-1,/match/sporting-braga/boavista/2018,2018,33,primeira_liga,18,34,1,1,1,4,24,2,6,73,27,WWLLWWLWLWDWWWWLWLLWWWLWLWLWDLWL,14,0,2,36,9,7,12,5,15,33,43,WLWWWWDWLLWWDLLLDWWWWWWWWWWDWDWW,2,3,11,10,26,WLWWWWWWWLWWWWWW,WWWDLWDLDWWWWWWW
+Belenenses,Portimonense,3-2,/match/belenenses/portimonense/2018,2018,33,primeira_liga,18,34,0,3,2,10,8,10,14,30,43,WWWDWWLWWWWLWDWDDLDDWLLWDDWWDLDL,6,5,5,20,18,11,9,8,15,47,56,WWWLWWWDDWDWDLWDDWLWLLLLWWDWDLWL,2,6,8,19,29,WDWWWLDDLDLWDWLL,WWWWDDDWDWLLWDDW
+Tondela,Vitória,1-4,/match/tondela/vitoria-guimaraes/2018,2018,33,primeira_liga,18,34,2,1,4,12,10,8,14,40,45,DLLLDWLDWWWWLLLLDWWWLLLWWDLDDDWL,5,3,8,26,28,8,12,4,16,41,54,WWLDWWWWDLLLLWWLWWWWWWLWDWWWWDWW,3,1,12,17,29,LLDLWWLLDWLLWLDW,WDWWLLLWWWWWWWWW
+Sporting CP,Benfica,0-0,/match/sporting-lisbon/benfica/2018,2018,33,primeira_liga,18,34,1,0,0,2,24,5,3,62,22,LWLWLWDDWLDLWLWDWWDWWWLWWLWWWLWL,14,2,0,32,4,3,24,5,3,79,22,WLWDWWWDLWLWDWLDLLWDWLWLWWLWLLLL,11,4,1,33,13,WWWDWDWWWWWWWWWW,LDWDLLDLLLDLLLLL
+Moreirense,Desportivo Aves,0-3,/match/moreirense-fc/desportivo-aves/2018,2018,33,primeira_liga,18,34,2,0,3,13,8,8,16,29,46,DDWLLWDWLWDWDWWLLDWDLLLWWWWWWDWW,5,6,5,15,17,16,8,7,17,31,48,LDLWWWDDLLLDLLWLDWLWWLDDWWWLWWWW,3,4,9,16,27,DLDLDDWLDDLLWWWW,DWWDLLWDWWLDWWWW
+Estoril,Vitória Setúbal,2-1,/match/estoril/vitoria-setubal/2018,2018,33,primeira_liga,18,34,0,2,1,18,7,5,20,27,60,WWLWLWLWLWLDDWWDLLWWWLLWLWDWDLLW,4,3,9,15,28,14,6,11,15,37,60,DWDDWWDWWWLWLLWDDDDDWWWWWWDLLDWL,1,5,10,18,40,WLLLLDWLLWWLLDDL,WDWWWWWDDDWWWLDW
+Chaves,Marítimo,4-1,/match/chaves/maritimo/2018,2018,33,primeira_liga,18,34,0,4,1,9,11,8,13,40,52,WLDLWWLDWWWLDLDLDWWDLLLWWLLWDDWW,5,6,5,23,25,6,12,8,12,33,44,WWWLWWWDWWLDDWWLWDDWLWDWWWLWDDWL,3,4,9,11,30,LLWDWDDDWDLWLLDW,WLWWLDWWDWWDWLDW
+Porto,Feirense,2-1,/match/fc-porto/feirense/2018,2018,33,primeira_liga,18,34,0,2,1,1,26,4,2,79,17,WLWLWLWDWLWDDLWLWLWDWLWLWWWWWLWL,15,1,0,50,9,17,9,3,20,31,46,DDWLLWLWWWLWLWWLLWWWLWLWWWLWDWWL,3,1,12,12,23,WWWWWWDWWWWWWWWW,DLWWWWWLWWWWWWWL
+Paços Ferreira,Rio Ave,0-0,/match/pacos-ferreira/rio-ave/2018,2018,33,primeira_liga,18,34,1,0,0,15,7,8,17,32,56,WDWDDWWWWWWLWDLWDDLWWLWLWWDWWLDW,6,5,5,18,21,5,14,5,13,39,42,WLWDWLDWWLLLLWDWWLWWWWWDWWWWWDWW,4,2,10,14,30,DDWWWLLDDWLLWWLD,LWDWLLDWLWWWWWWW
+Desportivo Aves,Chaves,2-3,/match/desportivo-aves/chaves/2018,2018,34,primeira_liga,18,34,2,2,3,16,9,7,17,34,48,LDLWWWDDLLLDLLWLDWLWWLDDWWWLWWWWL,5,3,8,15,21,9,12,8,13,44,53,WLDLWWLDWWWLDLDLDWWDLLLWWLLWDDWWW,6,2,8,17,27,LLWDLLDLLLWDWLWW,WDWLWWLLLWLLWWDW
+Vitória,Porto,0-1,/match/vitoria-guimaraes/fc-porto/2018,2018,34,primeira_liga,18,34,2,0,1,8,13,4,16,45,55,WWLDWWWWDLLLLWWLWWWWWWLWDWWWWDWWL,9,3,4,24,25,1,27,4,2,81,18,WLWLWLWDWLWDDLWLWLWDWLWLWWWWWLWLW,11,3,2,29,8,WLWWDLWLWWLDWWDW,LLLDLDLLLDLLWWLL
+Boavista,Belenenses,1-0,/match/boavista/belenenses/2018,2018,34,primeira_liga,18,34,0,1,0,7,12,6,15,34,44,WLWWWWDWLLWWDLLLDWWWWWWWWWWDWDWWD,10,2,4,23,17,10,9,10,14,33,45,WWWDWWLWWWWLWDWDDLDDWLLWDDWWDLDLW,2,5,9,10,25,LWWWLWLLWWWWWDDW,WWWLWWWWDDWLDWDD
+Rio Ave,Sporting Braga,1-0,/match/rio-ave/sporting-braga/2018,2018,34,primeira_liga,18,34,0,1,0,5,14,6,13,39,42,WLWDWLDWWLLLLWDWWLWWWWWDWWWWWDWWD,10,3,3,25,12,4,24,3,6,74,28,WWLLWWLWLWDWWWWLWLLWWWLWLWLWDLWLD,10,2,4,37,18,WWDLWLLWWWWDWWDW,WLWLLDWLLWLLLDLL
+Feirense,Estoril,0-0,/match/feirense/estoril/2018,2018,34,primeira_liga,18,34,1,0,0,17,9,3,21,32,48,DDWLLWLWWWLWLWWLLWWWLWLWWWLWDWWLW,6,2,8,19,23,18,8,5,20,29,61,WWLWLWLWLWLDDWWDLLWWWLLWLWDWDLLWW,3,2,11,12,32,DWLLWLLWLWLLWLDW,WLWWWWDWDWLWWWLW
+Portimonense,Paços Ferreira,3-1,/match/portimonense/pacos-ferreira/2018,2018,34,primeira_liga,18,34,0,3,1,11,9,8,16,49,59,WWWLWWWDDWDWDLWDDWLWLLLLWWDWDLWLW,7,2,7,28,27,13,7,9,17,32,56,WDWDDWWWWWWLWDLWDDLWWLWLWWDWWLDWD,1,3,12,14,35,WLWDWWLDLWLLWWLL,WWDWWWWDWLWWWDWW
+Benfica,Moreirense,1-0,/match/benfica/moreirense-fc/2018,2018,34,primeira_liga,18,34,0,1,0,3,24,6,3,79,22,WLWDWWWDLWLWDWLDLLWDWLWLWWLWLLLLD,13,1,2,46,9,14,8,8,17,29,49,DDWLLWDWLWDWDWWLLDWDLLLWWWWWWDWWL,3,2,11,14,29,WWWWWWWDWWWWWWLL,DWLWWWWWLWLWWWDW
+Marítimo,Sporting CP,2-1,/match/maritimo/sporting-lisbon/2018,2018,34,primeira_liga,18,34,0,2,1,6,12,8,13,34,48,WWWLWWWDWWLDDWWLWDDWLWDWWWLWDDWLW,9,4,3,22,14,2,24,6,3,62,22,LWLWLWDDWLDLWLWDWWDWWWLWWLWWWLWLD,10,3,3,30,18,WWWWDWDWLDLWWWDL,LLLDLLLDDWLWLWLL
+Vitória Setúbal,Tondela,1-0,/match/vitoria-setubal/tondela/2018,2018,34,primeira_liga,18,34,0,1,0,15,6,11,16,38,62,DWDDWWDWWWLWLLWDDDDDWWWWWWDLLDWLW,5,6,5,19,20,12,10,8,15,41,49,DLLLDWLDWWWWLLLLDWWWLLLWWDLDDDWLL,5,5,6,14,17,DDWDWLLLDDWWWDLL,DLWDWWLLWWLWDDDL
