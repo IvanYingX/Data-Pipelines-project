@@ -1,4 +1,4 @@
-from Data_Load.load_df import load_raw
+from Data.load_df import load_leagues
 import pandas as pd
 from .Extract_Data import extract_match_info
 import time
@@ -7,12 +7,11 @@ import pickle
 import numpy as np
 from urllib.error import HTTPError
 
-RES_DIR = './Data/Updated/Results'
-df_results = load_raw(RES_DIR)
-flag = False
-while flag is False:
+RES_DIR = './Data/Results_cleaned/*'
+df_results = load_leagues(RES_DIR)
+while True:
     try:
-        flag = extract_match_info(df_results)
+        extract_match_info(df_results)
     except (HTTPError) as err:
         if err.code == 504:
             print('Gateway error, trying again...')
@@ -25,6 +24,8 @@ while flag is False:
         else:
             print(err)
             break
+    else:
+        break
 
 filename = './Data/Dictionaries/dict_match.pkl'
 

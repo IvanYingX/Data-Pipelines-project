@@ -8,77 +8,77 @@ Olympique,Sedan,3-0,/match/olympique-marsella/sedan/2000,2000,1,ligue_1,18,34,0,
 Nantes,Le Havre,1-0,/match/nantes/havre-ac/2000,2000,1,ligue_1,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
 PSG,Troyes,1-0,/match/paris-saint-germain-fc/troyes/2000,2000,1,ligue_1,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
 Metz,Stade Rennais,0-0,/match/metz/stade-rennes/2000,2000,1,ligue_1,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Troyes,Olympique Lyonnais,1-2,/match/troyes/olympique-lyonnais/2000,2000,2,ligue_1,18,34,2,1,2,15,0,0,1,0,1,W,0,0,0,0,0,16,0,0,1,1,2,L,0,0,0,0,0,,
-Le Havre,Olympique,0-0,/match/havre-ac/olympique-marsella/2000,2000,2,ligue_1,18,34,1,0,0,17,0,0,1,0,1,W,0,0,0,0,0,5,1,0,0,3,0,W,0,0,0,0,0,,
-Saint-Étienne,Nantes,0-2,/match/saint-etienne/nantes/2000,2000,2,ligue_1,18,34,2,0,2,10,0,1,0,2,2,D,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
-Sedan,Nancy,3-1,/match/sedan/nancy/2000,2000,2,ligue_1,18,34,0,3,1,12,0,0,1,0,3,W,0,0,0,0,0,18,0,0,1,1,2,W,0,0,1,1,2,,W
-Bastia,Strasbourg,3-0,/match/bastia/strasbourg/2000,2000,2,ligue_1,18,34,0,3,0,13,0,0,1,2,3,W,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
-Lens,Monaco,1-0,/match/lens/monaco/2000,2000,2,ligue_1,18,34,0,1,0,14,0,0,1,0,1,W,0,0,0,0,0,7,0,1,0,2,2,D,0,0,0,0,0,,
-Stade Rennais,PSG,1-3,/match/stade-rennes/paris-saint-germain-fc/2000,2000,2,ligue_1,18,34,2,1,3,11,0,1,0,0,0,D,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
-Montpellier,Girondins Bordeaux,2-2,/match/montpellier-hsc/bordeaux/2000,2000,2,ligue_1,18,34,1,2,2,9,1,0,0,2,1,L,0,0,0,0,0,6,1,0,0,3,2,W,0,0,0,0,0,,
-Metz,Auxerre,3-0,/match/metz/auxerre/2000,2000,2,ligue_1,18,34,0,3,0,8,0,1,0,0,0,D,0,1,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,D,
-Auxerre,Sedan,3-1,/match/auxerre/sedan/2000,2000,3,ligue_1,18,34,0,3,1,6,1,0,1,2,4,WW,1,0,0,2,1,9,1,0,1,3,4,WW,0,0,1,0,3,W,W
-Girondins Bordeaux,Troyes,4-0,/match/bordeaux/troyes/2000,2000,3,ligue_1,18,34,0,4,0,5,1,1,0,5,4,WD,1,0,0,3,2,17,0,0,2,1,3,WL,0,0,1,0,1,W,W
-PSG,Metz,2-1,/match/paris-saint-germain-fc/metz/2000,2000,3,ligue_1,18,34,0,2,1,3,2,0,0,4,1,WL,1,0,0,1,0,2,1,1,0,3,0,DW,0,0,0,0,0,W,
-Nancy,Le Havre,3-0,/match/nancy/havre-ac/2000,2000,3,ligue_1,18,34,0,3,0,18,0,0,2,2,5,WW,0,0,0,0,0,14,0,1,1,0,1,WD,0,0,1,0,1,,W
-Nantes,Lens,0-1,/match/nantes/lens/2000,2000,3,ligue_1,18,34,2,0,1,1,2,0,0,3,0,WL,1,0,0,1,0,11,1,0,1,1,1,WW,0,0,1,0,1,W,W
-Monaco,Bastia,4-0,/match/monaco/bastia/2000,2000,3,ligue_1,18,34,0,4,0,13,0,1,1,2,3,DW,0,1,0,2,2,10,1,0,1,5,3,WW,0,0,1,2,3,D,W
-Strasbourg,Montpellier,2-0,/match/strasbourg/montpellier-hsc/2000,2000,3,ligue_1,18,34,0,2,0,7,1,0,1,1,3,WW,1,0,0,1,0,8,1,1,0,4,3,LD,1,0,0,2,1,W,L
-Olympique Lyonnais,Stade Rennais,2-2,/match/olympique-lyonnais/stade-rennes/2000,2000,3,ligue_1,18,34,1,2,2,12,1,0,1,3,3,LL,0,0,1,1,2,16,0,1,1,1,3,DL,0,1,0,0,0,L,D
+Troyes,Olympique Lyonnais,1-2,/match/troyes/olympique-lyonnais/2000,2000,2,ligue_1,18,34,2,1,2,12,0,0,1,0,1,W,0,0,0,0,0,18,0,0,1,1,2,L,0,0,0,0,0,,
+Le Havre,Olympique,0-0,/match/havre-ac/olympique-marsella/2000,2000,2,ligue_1,18,34,1,0,0,14,0,0,1,0,1,W,0,0,0,0,0,4,1,0,0,3,0,W,0,0,0,0,0,,
+Saint-Étienne,Nantes,0-2,/match/saint-etienne/nantes/2000,2000,2,ligue_1,18,34,2,0,2,11,0,1,0,2,2,D,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
+Sedan,Nancy,3-1,/match/sedan/nancy/2000,2000,2,ligue_1,18,34,0,3,1,15,0,0,1,0,3,W,0,0,0,0,0,13,0,0,1,1,2,W,0,0,1,1,2,,W
+Bastia,Strasbourg,3-0,/match/bastia/strasbourg/2000,2000,2,ligue_1,18,34,0,3,0,16,0,0,1,2,3,W,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
+Lens,Monaco,1-0,/match/lens/monaco/2000,2000,2,ligue_1,18,34,0,1,0,17,0,0,1,0,1,W,0,0,0,0,0,8,0,1,0,2,2,D,0,0,0,0,0,,
+Stade Rennais,PSG,1-3,/match/stade-rennes/paris-saint-germain-fc/2000,2000,2,ligue_1,18,34,2,1,3,10,0,1,0,0,0,D,0,0,0,0,0,5,1,0,0,1,0,W,0,0,0,0,0,,
+Montpellier,Girondins Bordeaux,2-2,/match/montpellier-hsc/bordeaux/2000,2000,2,ligue_1,18,34,1,2,2,7,1,0,0,2,1,L,0,0,0,0,0,6,1,0,0,3,2,W,0,0,0,0,0,,
+Metz,Auxerre,3-0,/match/metz/auxerre/2000,2000,2,ligue_1,18,34,0,3,0,9,0,1,0,0,0,D,0,1,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,D,
+Auxerre,Sedan,3-1,/match/auxerre/sedan/2000,2000,3,ligue_1,18,34,0,3,1,9,1,0,1,2,4,WW,1,0,0,2,1,11,1,0,1,3,4,WW,0,0,1,0,3,W,W
+Girondins Bordeaux,Troyes,4-0,/match/bordeaux/troyes/2000,2000,3,ligue_1,18,34,0,4,0,5,1,1,0,5,4,WD,1,0,0,3,2,18,0,0,2,1,3,WL,0,0,1,0,1,W,W
+PSG,Metz,2-1,/match/paris-saint-germain-fc/metz/2000,2000,3,ligue_1,18,34,0,2,1,2,2,0,0,4,1,WL,1,0,0,1,0,3,1,1,0,3,0,DW,0,0,0,0,0,W,
+Nancy,Le Havre,3-0,/match/nancy/havre-ac/2000,2000,3,ligue_1,18,34,0,3,0,17,0,0,2,2,5,WW,0,0,0,0,0,12,0,1,1,0,1,WD,0,0,1,0,1,,W
+Nantes,Lens,0-1,/match/nantes/lens/2000,2000,3,ligue_1,18,34,2,0,1,1,2,0,0,3,0,WL,1,0,0,1,0,8,1,0,1,1,1,WW,0,0,1,0,1,W,W
+Monaco,Bastia,4-0,/match/monaco/bastia/2000,2000,3,ligue_1,18,34,0,4,0,14,0,1,1,2,3,DW,0,1,0,2,2,10,1,0,1,5,3,WW,0,0,1,2,3,D,W
+Strasbourg,Montpellier,2-0,/match/strasbourg/montpellier-hsc/2000,2000,3,ligue_1,18,34,0,2,0,6,1,0,1,1,3,WW,1,0,0,1,0,7,1,1,0,4,3,LD,1,0,0,2,1,W,L
+Olympique Lyonnais,Stade Rennais,2-2,/match/olympique-lyonnais/stade-rennes/2000,2000,3,ligue_1,18,34,1,2,2,13,1,0,1,3,3,LL,0,0,1,1,2,16,0,1,1,1,3,DL,0,1,0,0,0,L,D
 Olympique,Saint-Étienne,3-3,/match/olympique-marsella/saint-etienne/2000,2000,3,ligue_1,18,34,1,3,3,4,1,1,0,3,0,WD,1,0,0,3,0,15,0,1,1,2,4,DL,0,1,0,2,2,W,D
 Stade Rennais,Girondins Bordeaux,2-1,/match/stade-rennes/bordeaux/2000,2000,4,ligue_1,18,34,0,2,1,17,0,2,1,3,5,DLD,0,0,1,1,3,2,2,1,0,9,4,WDW,0,1,0,2,2,L,D
-Le Havre,Sedan,2-1,/match/havre-ac/sedan/2000,2000,4,ligue_1,18,34,0,2,1,15,0,1,2,0,4,WDW,0,1,0,0,0,12,1,0,2,4,7,WWW,0,0,2,1,6,D,WW
-PSG,Auxerre,1-1,/match/paris-saint-germain-fc/auxerre/2000,2000,4,ligue_1,18,34,1,1,1,1,3,0,0,6,2,WLW,2,0,0,3,1,3,2,0,1,5,5,WWW,0,0,1,0,3,WW,W
-Metz,Olympique Lyonnais,0-1,/match/metz/olympique-lyonnais/2000,2000,4,ligue_1,18,34,2,0,1,9,1,1,1,4,2,DWW,1,1,0,3,0,10,1,1,1,5,5,LLD,1,0,0,2,1,DW,L
-Troyes,Strasbourg,2-1,/match/troyes/strasbourg/2000,2000,4,ligue_1,18,34,0,2,1,18,0,0,3,1,7,WLW,0,0,1,1,2,4,2,0,1,3,3,WWW,0,0,1,0,3,L,W
-Montpellier,Monaco,2-3,/match/montpellier-hsc/monaco/2000,2000,4,ligue_1,18,34,2,2,3,13,1,1,1,4,5,LDW,0,1,0,2,2,8,1,1,1,6,3,DWW,0,0,1,0,1,D,W
-Saint-Étienne,Nancy,2-1,/match/saint-etienne/nancy/2000,2000,4,ligue_1,18,34,0,2,1,16,0,2,1,5,7,DLD,0,0,1,0,2,14,1,0,2,5,5,WWW,0,0,2,2,5,L,WW
-Bastia,Nantes,2-1,/match/bastia/nantes/2000,2000,4,ligue_1,18,34,0,2,1,11,1,0,2,5,7,WWW,1,0,0,3,0,6,2,0,1,3,1,WLL,1,0,0,2,0,W,L
-Lens,Olympique,0-0,/match/lens/olympique-marsella/2000,2000,4,ligue_1,18,34,1,0,0,7,2,0,1,2,1,WWL,1,0,0,1,0,5,1,2,0,6,3,WDD,0,1,0,0,0,W,D
-Auxerre,Le Havre,2-1,/match/auxerre/havre-ac/2000,2000,5,ligue_1,18,34,0,2,1,2,2,1,1,6,6,WWWD,2,0,0,5,2,9,1,1,2,2,5,WDWW,0,0,2,0,4,WW,WW
+Le Havre,Sedan,2-1,/match/havre-ac/sedan/2000,2000,4,ligue_1,18,34,0,2,1,15,0,1,2,0,4,WDW,0,1,0,0,0,13,1,0,2,4,7,WWW,0,0,2,1,6,D,WW
+PSG,Auxerre,1-1,/match/paris-saint-germain-fc/auxerre/2000,2000,4,ligue_1,18,34,1,1,1,1,3,0,0,6,2,WLW,2,0,0,3,1,4,2,0,1,5,5,WWW,0,0,1,0,3,WW,W
+Metz,Olympique Lyonnais,0-1,/match/metz/olympique-lyonnais/2000,2000,4,ligue_1,18,34,2,0,1,7,1,1,1,4,2,DWW,1,1,0,3,0,10,1,1,1,5,5,LLD,1,0,0,2,1,DW,L
+Troyes,Strasbourg,2-1,/match/troyes/strasbourg/2000,2000,4,ligue_1,18,34,0,2,1,18,0,0,3,1,7,WLW,0,0,1,1,2,3,2,0,1,3,3,WWW,0,0,1,0,3,L,W
+Montpellier,Monaco,2-3,/match/montpellier-hsc/monaco/2000,2000,4,ligue_1,18,34,2,2,3,14,1,1,1,4,5,LDW,0,1,0,2,2,9,1,1,1,6,3,DWW,0,0,1,0,1,D,W
+Saint-Étienne,Nancy,2-1,/match/saint-etienne/nancy/2000,2000,4,ligue_1,18,34,0,2,1,16,0,2,1,5,7,DLD,0,0,1,0,2,11,1,0,2,5,5,WWW,0,0,2,2,5,L,WW
+Bastia,Nantes,2-1,/match/bastia/nantes/2000,2000,4,ligue_1,18,34,0,2,1,12,1,0,2,5,7,WWW,1,0,0,3,0,6,2,0,1,3,1,WLL,1,0,0,2,0,W,L
+Lens,Olympique,0-0,/match/lens/olympique-marsella/2000,2000,4,ligue_1,18,34,1,0,0,8,2,0,1,2,1,WWL,1,0,0,1,0,5,1,2,0,6,3,WDD,0,1,0,0,0,W,D
+Auxerre,Le Havre,2-1,/match/auxerre/havre-ac/2000,2000,5,ligue_1,18,34,0,2,1,2,2,1,1,6,6,WWWD,2,0,0,5,2,11,1,1,2,2,5,WDWW,0,0,2,0,4,WW,WW
 Girondins Bordeaux,Metz,0-0,/match/bordeaux/metz/2000,2000,5,ligue_1,18,34,1,0,0,3,2,1,1,10,6,WDWW,2,0,0,7,2,13,1,1,2,4,3,DWWL,0,0,1,1,2,WW,W
-Sedan,Saint-Étienne,3-2,/match/sedan/saint-etienne/2000,2000,5,ligue_1,18,34,0,3,2,17,1,0,3,5,9,WWWW,1,0,0,3,1,11,1,2,1,7,8,DLDW,0,2,0,5,5,W,DD
-Nancy,Lens,2-1,/match/nancy/lens/2000,2000,5,ligue_1,18,34,0,2,1,16,1,0,3,6,7,WWWW,1,0,0,3,0,6,2,1,1,2,1,WWLD,1,0,1,1,1,W,WL
-Olympique,Bastia,1-1,/match/olympique-marsella/bastia/2000,2000,5,ligue_1,18,34,1,1,1,5,1,3,0,6,3,WDDD,1,1,0,6,3,8,2,0,2,7,8,WWWW,0,0,2,2,7,WD,WW
-Nantes,Montpellier,3-0,/match/nantes/montpellier-hsc/2000,2000,5,ligue_1,18,34,0,3,0,14,2,0,2,4,3,WLLW,1,0,1,1,1,15,1,1,2,6,8,LDWL,1,0,1,2,3,WL,LW
-Strasbourg,Stade Rennais,2-1,/match/strasbourg/stade-rennes/2000,2000,5,ligue_1,18,34,0,2,1,4,2,0,2,4,5,WWWW,2,0,0,3,0,10,1,2,1,5,6,DLDW,0,2,0,2,2,WW,DD
-Monaco,Troyes,3-0,/match/monaco/troyes/2000,2000,5,ligue_1,18,34,0,3,0,7,2,1,1,9,5,DWWL,1,1,0,6,2,18,1,0,3,3,8,WLWW,0,0,2,0,5,DW,WW
+Sedan,Saint-Étienne,3-2,/match/sedan/saint-etienne/2000,2000,5,ligue_1,18,34,0,3,2,15,1,0,3,5,9,WWWW,1,0,0,3,1,10,1,2,1,7,8,DLDW,0,2,0,5,5,W,DD
+Nancy,Lens,2-1,/match/nancy/lens/2000,2000,5,ligue_1,18,34,0,2,1,17,1,0,3,6,7,WWWW,1,0,0,3,0,7,2,1,1,2,1,WWLD,1,0,1,1,1,W,WL
+Olympique,Bastia,1-1,/match/olympique-marsella/bastia/2000,2000,5,ligue_1,18,34,1,1,1,6,1,3,0,6,3,WDDD,1,1,0,6,3,4,2,0,2,7,8,WWWW,0,0,2,2,7,WD,WW
+Nantes,Montpellier,3-0,/match/nantes/montpellier-hsc/2000,2000,5,ligue_1,18,34,0,3,0,14,2,0,2,4,3,WLLW,1,0,1,1,1,16,1,1,2,6,8,LDWL,1,0,1,2,3,WL,LW
+Strasbourg,Stade Rennais,2-1,/match/strasbourg/stade-rennes/2000,2000,5,ligue_1,18,34,0,2,1,5,2,0,2,4,5,WWWW,2,0,0,3,0,9,1,2,1,5,6,DLDW,0,2,0,2,2,WW,DD
+Monaco,Troyes,3-0,/match/monaco/troyes/2000,2000,5,ligue_1,18,34,0,3,0,8,2,1,1,9,5,DWWL,1,1,0,6,2,18,1,0,3,3,8,WLWW,0,0,2,0,5,DW,WW
 Olympique Lyonnais,PSG,1-0,/match/olympique-lyonnais/paris-saint-germain-fc/2000,2000,5,ligue_1,18,34,0,1,0,12,2,1,1,6,5,LLDL,0,1,1,3,4,1,3,1,0,7,3,WLWD,1,0,0,3,1,LD,L
 Troyes,Nantes,1-0,/match/troyes/nantes/2000,2000,6,ligue_1,18,34,0,1,0,18,1,0,4,3,11,WLWWW,1,0,1,3,3,6,3,0,2,7,3,WLLWW,1,0,1,3,2,LW,LW
-Saint-Étienne,Le Havre,3-3,/match/saint-etienne/havre-ac/2000,2000,6,ligue_1,18,34,1,3,3,15,1,2,2,9,11,DLDWW,1,0,1,2,3,16,1,1,3,3,7,WDWWW,0,0,3,1,6,LW,WWW
+Saint-Étienne,Le Havre,3-3,/match/saint-etienne/havre-ac/2000,2000,6,ligue_1,18,34,1,3,3,14,1,2,2,9,11,DLDWW,1,0,1,2,3,15,1,1,3,3,7,WDWWW,0,0,3,1,6,LW,WWW
 Olympique Lyonnais,Auxerre,0-0,/match/olympique-lyonnais/auxerre/2000,2000,6,ligue_1,18,34,1,0,0,8,3,1,1,7,5,LLDLW,1,1,1,4,4,1,3,1,1,8,7,WWWDW,0,1,1,1,4,LDW,WD
 Metz,Strasbourg,0-0,/match/metz/strasbourg/2000,2000,6,ligue_1,18,34,1,0,0,13,1,2,2,4,3,DWWLD,1,1,1,3,1,3,3,0,2,6,6,WWWWW,0,0,2,1,5,DWL,WW
 Montpellier,Olympique,3-1,/match/montpellier-hsc/olympique-marsella/2000,2000,6,ligue_1,18,34,0,3,1,17,1,1,3,6,11,LDWLW,0,1,1,4,5,7,1,4,0,7,4,WDDDD,0,2,0,0,0,DL,DD
-Bastia,Nancy,1-1,/match/bastia/nancy/2000,2000,6,ligue_1,18,34,1,1,1,9,2,1,2,8,9,WWWWD,2,0,0,5,1,12,2,0,3,8,8,WWWWW,0,0,3,3,7,WW,WWW
-Lens,Sedan,0-3,/match/lens/sedan/2000,2000,6,ligue_1,18,34,2,0,3,10,2,1,2,3,3,WWLDW,1,1,0,1,0,11,2,0,3,8,11,WWWWW,0,0,3,2,8,WD,WWW
-Stade Rennais,Monaco,2-1,/match/stade-rennes/monaco/2000,2000,6,ligue_1,18,34,0,2,1,14,1,2,2,6,8,DLDWW,1,0,1,3,4,4,3,1,1,12,5,DWWLW,1,0,1,3,3,LW,WL
+Bastia,Nancy,1-1,/match/bastia/nancy/2000,2000,6,ligue_1,18,34,1,1,1,9,2,1,2,8,9,WWWWD,2,0,0,5,1,11,2,0,3,8,8,WWWWW,0,0,3,3,7,WW,WWW
+Lens,Sedan,0-3,/match/lens/sedan/2000,2000,6,ligue_1,18,34,2,0,3,10,2,1,2,3,3,WWLDW,1,1,0,1,0,12,2,0,3,8,11,WWWWW,0,0,3,2,8,WD,WWW
+Stade Rennais,Monaco,2-1,/match/stade-rennes/monaco/2000,2000,6,ligue_1,18,34,0,2,1,16,1,2,2,6,8,DLDWW,1,0,1,3,4,4,3,1,1,12,5,DWWLW,1,0,1,3,3,LW,WL
 PSG,Girondins Bordeaux,2-1,/match/paris-saint-germain-fc/bordeaux/2000,2000,6,ligue_1,18,34,0,2,1,2,3,1,1,7,4,WLWDW,2,1,0,4,2,5,2,2,1,10,6,WDWWD,0,1,1,3,4,WWD,DW
 Auxerre,Saint-Étienne,2-1,/match/auxerre/saint-etienne/2000,2000,7,ligue_1,18,34,0,2,1,2,3,2,1,8,7,WWWDWD,3,0,0,7,3,16,1,3,2,12,14,DLDWWD,0,2,1,7,8,WWW,DDW
 Girondins Bordeaux,Olympique Lyonnais,1-3,/match/bordeaux/olympique-lyonnais/2000,2000,7,ligue_1,18,34,2,1,3,6,2,2,2,11,8,WDWWDW,2,1,0,7,2,5,3,2,1,7,5,LLDLWD,2,0,0,3,1,WWD,LL
 Strasbourg,PSG,1-1,/match/strasbourg/paris-saint-germain-fc/2000,2000,7,ligue_1,18,34,1,1,1,3,3,1,2,6,6,WWWWWD,3,0,0,5,1,1,4,1,1,9,5,WLWDWW,1,0,1,3,2,WWW,LW
 Le Havre,Lens,1-1,/match/havre-ac/lens/2000,2000,7,ligue_1,18,34,1,1,1,18,1,2,3,6,10,WDWWWD,1,1,0,2,1,15,2,1,3,3,6,WWLDWL,1,0,2,2,3,DW,WLW
-Sedan,Bastia,2-0,/match/sedan/bastia/2000,2000,7,ligue_1,18,34,0,2,0,10,3,0,3,11,11,WWWWWL,2,0,0,6,3,7,2,2,2,9,10,WWWWDD,0,1,2,3,8,WW,WWD
-Olympique,Troyes,1-0,/match/olympique-marsella/troyes/2000,2000,7,ligue_1,18,34,0,1,0,9,1,4,1,8,7,WDDDDW,1,2,0,7,4,17,2,0,4,4,11,WLWWWW,0,0,3,0,8,WDD,WWW
-Nantes,Stade Rennais,3-0,/match/nantes/stade-rennes/2000,2000,7,ligue_1,18,34,0,3,0,8,3,0,3,7,4,WLLWWW,2,0,1,4,1,11,2,2,2,8,9,DLDWWW,0,2,1,3,4,WLW,DDW
+Sedan,Bastia,2-0,/match/sedan/bastia/2000,2000,7,ligue_1,18,34,0,2,0,11,3,0,3,11,11,WWWWWL,2,0,0,6,3,7,2,2,2,9,10,WWWWDD,0,1,2,3,8,WW,WWD
+Olympique,Troyes,1-0,/match/olympique-marsella/troyes/2000,2000,7,ligue_1,18,34,0,1,0,10,1,4,1,8,7,WDDDDW,1,2,0,7,4,17,2,0,4,4,11,WLWWWW,0,0,3,0,8,WDD,WWW
+Nantes,Stade Rennais,3-0,/match/nantes/stade-rennes/2000,2000,7,ligue_1,18,34,0,3,0,9,3,0,3,7,4,WLLWWW,2,0,1,4,1,8,2,2,2,8,9,DLDWWW,0,2,1,3,4,WLW,DDW
 Monaco,Metz,2-2,/match/monaco/metz/2000,2000,7,ligue_1,18,34,1,2,2,4,3,1,2,13,7,DWWLWW,2,1,0,9,2,13,1,3,2,4,3,DWWLDD,0,1,1,1,2,DWW,WD
 Nancy,Montpellier,1-2,/match/nancy/montpellier-hsc/2000,2000,7,ligue_1,18,34,2,1,2,12,2,1,3,9,9,WWWWWD,2,0,0,5,1,14,2,1,3,9,12,LDWLWW,1,0,2,2,6,WW,LWW
 Troyes,Nancy,2-0,/match/troyes/nancy/2000,2000,8,ligue_1,18,34,0,2,0,18,2,0,5,4,12,WLWWWWW,2,0,1,4,3,14,2,1,4,10,11,WWWWWDL,0,1,3,4,8,LWW,WWWD
 Olympique Lyonnais,Strasbourg,0-0,/match/olympique-lyonnais/strasbourg/2000,2000,8,ligue_1,18,34,1,0,0,7,4,2,1,10,6,LLDLWDL,1,2,1,4,4,3,3,2,2,7,7,WWWWWDD,0,1,2,1,5,LDWD,WWD
 PSG,Monaco,0-3,/match/paris-saint-germain-fc/monaco/2000,2000,8,ligue_1,18,34,2,0,3,2,4,2,1,10,6,WLWDWWD,3,1,0,6,3,8,3,2,2,15,9,DWWLWWD,1,0,2,4,5,WWDW,WLW
 Metz,Nantes,2-1,/match/metz/nantes/2000,2000,8,ligue_1,18,34,0,2,1,12,1,4,2,6,5,DWWLDDD,1,2,1,3,1,4,4,0,3,10,4,WLLWWWW,1,0,2,3,3,DWLD,LWW
-Montpellier,Sedan,1-1,/match/montpellier-hsc/sedan/2000,2000,8,ligue_1,18,34,1,1,1,13,3,1,3,11,13,LDWLWWL,1,1,1,7,6,6,4,0,3,13,11,WWWWWLW,1,0,3,5,8,DLW,WWWL
+Montpellier,Sedan,1-1,/match/montpellier-hsc/sedan/2000,2000,8,ligue_1,18,34,1,1,1,13,3,1,3,11,13,LDWLWWL,1,1,1,7,6,5,4,0,3,13,11,WWWWWLW,1,0,3,5,8,DLW,WWWL
 Bastia,Le Havre,1-1,/match/bastia/havre-ac/2000,2000,8,ligue_1,18,34,1,1,1,9,2,2,3,9,12,WWWWDDW,2,1,0,6,2,16,1,3,3,7,11,WDWWWDD,0,1,3,4,9,WWD,WWWD
 Girondins Bordeaux,Auxerre,1-0,/match/bordeaux/auxerre/2000,2000,8,ligue_1,18,34,0,1,0,10,2,2,3,12,11,WDWWDWL,2,1,1,8,5,1,4,2,1,10,8,WWWDWDW,0,2,1,1,4,WWDL,WDD
 Lens,Saint-Étienne,0-2,/match/lens/saint-etienne/2000,2000,8,ligue_1,18,34,2,0,2,15,2,2,3,4,7,WWLDWLD,1,1,1,1,3,17,1,3,3,13,16,DLDWWDW,0,2,2,8,10,WDL,DDWW
-Stade Rennais,Olympique,1-2,/match/stade-rennes/olympique-marsella/2000,2000,8,ligue_1,18,34,2,1,2,11,2,2,3,8,12,DLDWWWW,2,0,1,5,5,5,2,4,1,9,7,WDDDDWW,0,2,1,1,3,LWW,DDW
-Olympique,Metz,1-1,/match/olympique-marsella/metz/2000,2000,9,ligue_1,18,34,1,1,1,5,3,4,1,11,8,WDDDDWWL,2,2,0,8,4,10,2,4,2,8,6,DWWLDDDW,0,2,1,3,4,WDDW,WDD
+Stade Rennais,Olympique,1-2,/match/stade-rennes/olympique-marsella/2000,2000,8,ligue_1,18,34,2,1,2,11,2,2,3,8,12,DLDWWWW,2,0,1,5,5,6,2,4,1,9,7,WDDDDWW,0,2,1,1,3,LWW,DDW
+Olympique,Metz,1-1,/match/olympique-marsella/metz/2000,2000,9,ligue_1,18,34,1,1,1,6,3,4,1,11,8,WDDDDWWL,2,2,0,8,4,10,2,4,2,8,6,DWWLDDDW,0,2,1,3,4,WDDW,WDD
 Strasbourg,Girondins Bordeaux,2-2,/match/strasbourg/bordeaux/2000,2000,9,ligue_1,18,34,1,2,2,4,3,3,2,7,7,WWWWWDDD,3,1,0,6,2,7,3,2,3,13,11,WDWWDWLW,0,1,2,4,6,WWWD,DWW
 Nancy,Stade Rennais,3-0,/match/nancy/stade-rennes/2000,2000,9,ligue_1,18,34,0,3,0,17,2,1,5,10,13,WWWWWDLW,2,0,1,6,3,14,2,2,4,9,14,DLDWWWWL,0,2,2,3,7,WWL,DDWW
 Saint-Étienne,Bastia,1-1,/match/saint-etienne/bastia/2000,2000,9,ligue_1,18,34,1,1,1,16,2,3,3,15,16,DLDWWDWL,1,1,1,5,6,11,2,3,3,10,13,WWWWDDWD,0,1,3,3,10,LWD,WWDW
 Le Havre,Montpellier,2-1,/match/havre-ac/montpellier-hsc/2000,2000,9,ligue_1,18,34,0,2,1,15,1,4,3,8,12,WDWWWDDD,1,2,0,3,2,12,3,2,3,12,14,LDWLWWLD,2,0,2,4,7,DWD,LWWL
 Sedan,Troyes,2-1,/match/sedan/troyes/2000,2000,9,ligue_1,18,34,0,2,1,8,4,1,3,14,12,WWWWWLWD,3,0,0,8,3,13,3,0,5,6,12,WLWWWWWW,0,0,4,0,9,WWW,WWWW
 Auxerre,Lens,3-2,/match/auxerre/lens/2000,2000,9,ligue_1,18,34,0,3,2,1,4,2,2,10,9,WWWDWDWW,4,0,0,9,4,18,2,2,4,4,9,WWLDWLDL,1,1,2,3,4,WWWW,WLWD
-Monaco,Olympique Lyonnais,1-0,/match/monaco/olympique-lyonnais/2000,2000,9,ligue_1,18,34,0,1,0,6,4,2,2,18,9,DWWLWWDL,2,2,0,11,4,3,4,3,1,10,6,LLDLWDLD,3,0,0,6,2,DWWD,LLL
+Monaco,Olympique Lyonnais,1-0,/match/monaco/olympique-lyonnais/2000,2000,9,ligue_1,18,34,0,1,0,5,4,2,2,18,9,DWWLWWDL,2,2,0,11,4,3,4,3,1,10,6,LLDLWDLD,3,0,0,6,2,DWWD,LLL
 Nantes,PSG,0-4,/match/nantes/paris-saint-germain-fc/2000,2000,9,ligue_1,18,34,2,0,4,9,4,0,4,11,6,WLLWWWWW,3,0,1,7,1,2,4,2,2,10,9,WLWDWWDL,1,1,1,4,3,WLWW,LWD
 Olympique Lyonnais,Nantes,2-0,/match/olympique-lyonnais/nantes/2000,2000,10,ligue_1,18,34,0,2,0,7,4,3,2,10,7,LLDLWDLDW,1,3,1,4,4,10,4,0,5,11,10,WLLWWWWWL,1,0,3,4,5,LDWDD,LWWW
 PSG,Olympique,0-2,/match/paris-saint-germain-fc/olympique-marsella/2000,2000,10,ligue_1,18,34,2,0,2,3,5,2,2,14,9,WLWDWWDLL,3,1,1,6,6,6,3,5,1,12,9,WDDDDWWLD,1,2,1,3,4,WWDWL,DDWL

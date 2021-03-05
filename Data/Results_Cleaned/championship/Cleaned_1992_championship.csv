@@ -1,544 +1,544 @@
 Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Swindon Town,Leicester,0-0,/match/swindon-town/leicester-city-fc/1992,1992,1,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Derby County,1-1,/match/sunderland-afc/derby-county-fc/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,
-Southend United,Bristol City,1-1,/match/southend-united/bristol-city-fc/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Oxford United,2-1,/match/port-vale/oxford-united/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Barnsley,2-1,/match/plymouth-argyle/barnsley-fc/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Millwall,1-0,/match/middlesbrough-fc/millwall-fc/1992,1992,1,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Cambridge United,3-4,/match/grimsby-town/cambridge-united/1992,1992,1,championship,24,10,2,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Ipswich Town,3-3,/match/bristol-rovers/ipswich-town-fc/1992,1992,1,championship,24,10,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Tranmere Rovers,0-2,/match/brighton-amp-hov/tranmere-rovers/1992,1992,1,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Portsmouth,1-1,/match/blackburn-rovers-fc/portsmouth/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Wolves,0-2,/match/watford-fc/wolverhampton/1992,1992,1,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swindon Town,Leicester,0-0,/match/swindon-town/leicester-city-fc/1992,1992,1,championship,24,10,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Sunderland,Derby County,1-1,/match/sunderland-afc/derby-county-fc/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Southend United,Bristol City,1-1,/match/southend-united/bristol-city-fc/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Port Vale,Oxford United,2-1,/match/port-vale/oxford-united/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Plymouth Argyle,Barnsley,2-1,/match/plymouth-argyle/barnsley-fc/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Middlesbrough,Millwall,1-0,/match/middlesbrough-fc/millwall-fc/1992,1992,1,championship,24,10,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Grimsby Town,Cambridge United,3-4,/match/grimsby-town/cambridge-united/1992,1992,1,championship,24,10,2,3,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Bristol Rovers,Ipswich Town,3-3,/match/bristol-rovers/ipswich-town-fc/1992,1992,1,championship,24,10,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Brighton Hove Alb.,Tranmere Rovers,0-2,/match/brighton-amp-hov/tranmere-rovers/1992,1992,1,championship,24,10,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Blackburn Rovers,Portsmouth,1-1,/match/blackburn-rovers-fc/portsmouth/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Watford,Wolves,0-2,/match/watford-fc/wolverhampton/1992,1992,1,championship,24,10,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 Charlton Athletic,Newcastle,2-1,/match/charlton-athletic-fc/newcastle-united-fc/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-Ipswich Town,Port Vale,2-1,/match/ipswich-town-fc/port-vale/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Brighton Hove Alb.,2-1,/match/bristol-city-fc/brighton-amp-hov/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Sunderland,0-3,/match/barnsley-fc/sunderland-afc/1992,1992,1,championship,24,10,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Middlesbrough,2-0,/match/derby-county-fc/middlesbrough-fc/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Bristol Rovers,2-2,/match/tranmere-rovers/bristol-rovers/1992,1992,1,championship,24,10,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Barnsley,Brighton Hove Alb.,1-2,/match/barnsley-fc/brighton-amp-hov/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Blackburn Rovers,1-0,/match/bristol-city-fc/blackburn-rovers-fc/1992,1992,1,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,
-Cambridge United,Swindon Town,3-2,/match/cambridge-united/swindon-town/1992,1992,1,championship,24,10,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Newcastle,Watford,2-2,/match/newcastle-united-fc/watford-fc/1992,1992,1,championship,24,10,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Derby County,Southend United,1-2,/match/derby-county-fc/southend-united/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,
-Ipswich Town,Middlesbrough,2-1,/match/ipswich-town-fc/middlesbrough-fc/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ipswich Town,Port Vale,2-1,/match/ipswich-town-fc/port-vale/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Bristol City,Brighton Hove Alb.,2-1,/match/bristol-city-fc/brighton-amp-hov/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Barnsley,Sunderland,0-3,/match/barnsley-fc/sunderland-afc/1992,1992,1,championship,24,10,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Derby County,Middlesbrough,2-0,/match/derby-county-fc/middlesbrough-fc/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Tranmere Rovers,Bristol Rovers,2-2,/match/tranmere-rovers/bristol-rovers/1992,1992,1,championship,24,10,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Barnsley,Brighton Hove Alb.,1-2,/match/barnsley-fc/brighton-amp-hov/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Bristol City,Blackburn Rovers,1-0,/match/bristol-city-fc/blackburn-rovers-fc/1992,1992,1,championship,24,10,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Cambridge United,Swindon Town,3-2,/match/cambridge-united/swindon-town/1992,1992,1,championship,24,10,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Newcastle,Watford,2-2,/match/newcastle-united-fc/watford-fc/1992,1992,1,championship,24,10,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Derby County,Southend United,1-2,/match/derby-county-fc/southend-united/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Ipswich Town,Middlesbrough,2-1,/match/ipswich-town-fc/middlesbrough-fc/1992,1992,1,championship,24,10,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 Millwall,Sunderland,4-1,/match/millwall-fc/sunderland-afc/1992,1992,1,championship,24,10,0,4,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-Oxford United,Grimsby Town,1-2,/match/oxford-united/grimsby-town/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Oxford United,Grimsby Town,1-2,/match/oxford-united/grimsby-town/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 Portsmouth,Port Vale,1-0,/match/portsmouth/port-vale/1992,1992,1,championship,24,10,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
 Wolves,Charlton Athletic,1-1,/match/wolverhampton/charlton-athletic-fc/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
-Leicester,Plymouth Argyle,2-0,/match/leicester-city-fc/plymouth-argyle/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Port Vale,Barnsley,0-0,/match/port-vale/barnsley-fc/1992,1992,1,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Newcastle,3-0,/match/middlesbrough-fc/newcastle-united-fc/1992,1992,1,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Ipswich Town,1-2,/match/blackburn-rovers-fc/ipswich-town-fc/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Wolves,3-3,/match/brighton-amp-hov/wolverhampton/1992,1992,1,championship,24,10,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Newcastle,1-2,/match/bristol-rovers/newcastle-united-fc/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Tranmere Rovers,2-2,/match/grimsby-town/tranmere-rovers/1992,1992,1,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Portsmouth,2-0,/match/middlesbrough-fc/portsmouth/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Millwall,3-2,/match/plymouth-argyle/millwall-fc/1992,1992,1,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Bristol City,1-1,/match/port-vale/bristol-city-fc/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Leicester,1-2,/match/southend-united/leicester-city-fc/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Oxford United,2-0,/match/sunderland-afc/oxford-united/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Barnsley,3-1,/match/swindon-town/barnsley-fc/1992,1992,1,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Cambridge United,1-3,/match/watford-fc/cambridge-united/1992,1992,1,championship,24,10,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Derby County,0-2,/match/charlton-athletic-fc/derby-county-fc/1992,1992,2,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Port Vale,0-2,/match/wolverhampton/port-vale/1992,1992,2,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Charlton Athletic,2-2,/match/tranmere-rovers/charlton-athletic-fc/1992,1992,2,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Sunderland,1-0,/match/portsmouth/sunderland-afc/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Swindon Town,1-4,/match/ipswich-town-fc/swindon-town/1992,1992,2,championship,24,10,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Southend United,0-1,/match/cambridge-united/southend-united/1992,1992,2,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Watford,0-3,/match/barnsley-fc/watford-fc/1992,1992,2,championship,24,10,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Brighton Hove Alb.,1-2,/match/millwall-fc/brighton-amp-hov/1992,1992,2,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Bristol Rovers,1-0,/match/bristol-city-fc/bristol-rovers/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Blackburn Rovers,0-2,/match/derby-county-fc/blackburn-rovers-fc/1992,1992,2,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Grimsby Town,2-0,/match/leicester-city-fc/grimsby-town/1992,1992,2,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Plymouth Argyle,2-2,/match/newcastle-united-fc/plymouth-argyle/1992,1992,2,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Middlesbrough,1-2,/match/oxford-united/middlesbrough-fc/1992,1992,2,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Newcastle,3-2,/match/tranmere-rovers/newcastle-united-fc/1992,1992,2,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Grimsby Town,2-3,/match/bristol-rovers/grimsby-town/1992,1992,2,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Barnsley,1-1,/match/derby-county-fc/barnsley-fc/1992,1992,2,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Southend United,1-0,/match/ipswich-town-fc/southend-united/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Bristol City,2-1,/match/leicester-city-fc/bristol-city-fc/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Cambridge United,1-2,/match/millwall-fc/cambridge-united/1992,1992,2,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Charlton Athletic,0-2,/match/plymouth-argyle/charlton-athletic-fc/1992,1992,2,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Swindon Town,2-2,/match/port-vale/swindon-town/1992,1992,2,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Brighton Hove Alb.,0-0,/match/portsmouth/brighton-amp-hov/1992,1992,2,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Blackburn Rovers,1-1,/match/sunderland-afc/blackburn-rovers-fc/1992,1992,2,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Middlesbrough,1-2,/match/watford-fc/middlesbrough-fc/1992,1992,2,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Oxford United,3-1,/match/wolverhampton/oxford-united/1992,1992,2,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Derby County,0-0,/match/cambridge-united/derby-county-fc/1992,1992,2,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Ipswich Town,1-0,/match/barnsley-fc/ipswich-town-fc/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Port Vale,1-0,/match/blackburn-rovers-fc/port-vale/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Watford,0-1,/match/brighton-amp-hov/watford-fc/1992,1992,2,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Tranmere Rovers,2-2,/match/bristol-city-fc/tranmere-rovers/1992,1992,2,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Portsmouth,3-0,/match/charlton-athletic-fc/portsmouth/1992,1992,2,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Leicester,3-0,/match/middlesbrough-fc/leicester-city-fc/1992,1992,2,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Wolves,1-2,/match/newcastle-united-fc/wolverhampton/1992,1992,2,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Millwall,2-2,/match/oxford-united/millwall-fc/1992,1992,2,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Bristol Rovers,2-0,/match/southend-united/bristol-rovers/1992,1992,2,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Sunderland,5-3,/match/swindon-town/sunderland-afc/1992,1992,2,championship,24,10,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Plymouth Argyle,2-1,/match/grimsby-town/plymouth-argyle/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Wolves,2-1,/match/cambridge-united/wolverhampton/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Leicester,3-1,/match/barnsley-fc/leicester-city-fc/1992,1992,2,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Watford,1-0,/match/blackburn-rovers-fc/watford-fc/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Millwall,2-2,/match/bristol-city-fc/millwall-fc/1992,1992,2,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Sunderland,1-4,/match/charlton-athletic-fc/sunderland-afc/1992,1992,2,championship,24,10,2,1,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Portsmouth,1-1,/match/grimsby-town/portsmouth/1992,1992,2,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Tranmere Rovers,1-0,/match/middlesbrough-fc/tranmere-rovers/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Ipswich Town,1-1,/match/newcastle-united-fc/ipswich-town-fc/1992,1992,2,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Plymouth Argyle,2-1,/match/southend-united/plymouth-argyle/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Bristol Rovers,1-0,/match/swindon-town/bristol-rovers/1992,1992,2,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Derby County,2-0,/match/oxford-united/derby-county-fc/1992,1992,2,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Port Vale,3-1,/match/brighton-amp-hov/port-vale/1992,1992,2,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Grimsby Town,1-2,/match/sunderland-afc/grimsby-town/1992,1992,2,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Oxford United,2-1,/match/bristol-rovers/oxford-united/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Brighton Hove Alb.,3-1,/match/derby-county-fc/brighton-amp-hov/1992,1992,2,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Bristol City,4-2,/match/ipswich-town-fc/bristol-city-fc/1992,1992,2,championship,24,10,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Blackburn Rovers,3-0,/match/leicester-city-fc/blackburn-rovers-fc/1992,1992,2,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Newcastle,2-1,/match/millwall-fc/newcastle-united-fc/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Southend United,0-0,/match/port-vale/southend-united/1992,1992,2,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Cambridge United,3-0,/match/portsmouth/cambridge-united/1992,1992,2,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Barnsley,2-1,/match/tranmere-rovers/barnsley-fc/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Charlton Athletic,2-0,/match/watford-fc/charlton-athletic-fc/1992,1992,2,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Swindon Town,2-1,/match/wolverhampton/swindon-town/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Middlesbrough,1-1,/match/plymouth-argyle/middlesbrough-fc/1992,1992,2,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Derby County,2-2,/match/newcastle-united-fc/derby-county-fc/1992,1992,2,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Millwall,0-2,/match/barnsley-fc/millwall-fc/1992,1992,2,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Tranmere Rovers,0-0,/match/blackburn-rovers-fc/tranmere-rovers/1992,1992,2,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Bristol Rovers,3-1,/match/brighton-amp-hov/bristol-rovers/1992,1992,2,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Portsmouth,0-2,/match/bristol-city-fc/portsmouth/1992,1992,2,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Port Vale,2-0,/match/charlton-athletic-fc/port-vale/1992,1992,2,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Ipswich Town,1-2,/match/grimsby-town/ipswich-town-fc/1992,1992,2,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Sunderland,2-1,/match/middlesbrough-fc/sunderland-afc/1992,1992,2,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Plymouth Argyle,3-2,/match/oxford-united/plymouth-argyle/1992,1992,2,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Wolves,0-2,/match/southend-united/wolverhampton/1992,1992,2,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Watford,3-1,/match/swindon-town/watford-fc/1992,1992,2,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Leicester,5-1,/match/cambridge-united/leicester-city-fc/1992,1992,2,championship,24,10,0,5,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Southend United,1-1,/match/tranmere-rovers/southend-united/1992,1992,3,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Barnsley,1-2,/match/wolverhampton/barnsley-fc/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Middlesbrough,2-1,/match/bristol-rovers/middlesbrough-fc/1992,1992,3,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Bristol City,4-1,/match/derby-county-fc/bristol-city-fc/1992,1992,3,championship,24,10,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Oxford United,2-1,/match/ipswich-town-fc/oxford-united/1992,1992,3,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Charlton Athletic,0-2,/match/leicester-city-fc/charlton-athletic-fc/1992,1992,3,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Blackburn Rovers,1-3,/match/millwall-fc/blackburn-rovers-fc/1992,1992,3,championship,24,10,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Swindon Town,0-4,/match/plymouth-argyle/swindon-town/1992,1992,3,championship,24,10,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Cambridge United,1-0,/match/port-vale/cambridge-united/1992,1992,3,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Newcastle,3-1,/match/portsmouth/newcastle-united-fc/1992,1992,3,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Brighton Hove Alb.,4-2,/match/sunderland-afc/brighton-amp-hov/1992,1992,3,championship,24,10,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Grimsby Town,2-0,/match/watford-fc/grimsby-town/1992,1992,3,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Leicester,2-0,/match/newcastle-united-fc/leicester-city-fc/1992,1992,3,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Portsmouth,2-0,/match/barnsley-fc/portsmouth/1992,1992,3,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Plymouth Argyle,5-2,/match/blackburn-rovers-fc/plymouth-argyle/1992,1992,3,championship,24,10,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Ipswich Town,2-2,/match/brighton-amp-hov/ipswich-town-fc/1992,1992,3,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Watford,1-0,/match/bristol-city-fc/watford-fc/1992,1992,3,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Sunderland,3-0,/match/cambridge-united/sunderland-afc/1992,1992,3,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Bristol Rovers,1-0,/match/charlton-athletic-fc/bristol-rovers/1992,1992,3,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Port Vale,1-2,/match/grimsby-town/port-vale/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Wolves,0-0,/match/middlesbrough-fc/wolverhampton/1992,1992,3,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Tranmere Rovers,1-0,/match/oxford-united/tranmere-rovers/1992,1992,3,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Millwall,2-3,/match/southend-united/millwall-fc/1992,1992,3,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Derby County,1-2,/match/swindon-town/derby-county-fc/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Cambridge United,1-2,/match/tranmere-rovers/cambridge-united/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Blackburn Rovers,2-1,/match/swindon-town/blackburn-rovers-fc/1992,1992,3,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Bristol City,1-2,/match/barnsley-fc/bristol-city-fc/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Plymouth Argyle,0-0,/match/bristol-rovers/plymouth-argyle/1992,1992,3,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Brighton Hove Alb.,2-0,/match/charlton-athletic-fc/brighton-amp-hov/1992,1992,3,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Portsmouth,2-0,/match/derby-county-fc/portsmouth/1992,1992,3,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Middlesbrough,1-0,/match/grimsby-town/middlesbrough-fc/1992,1992,3,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Wolves,3-0,/match/leicester-city-fc/wolverhampton/1992,1992,3,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Oxford United,4-3,/match/newcastle-united-fc/oxford-united/1992,1992,3,championship,24,10,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Sunderland,3-3,/match/port-vale/sunderland-afc/1992,1992,3,championship,24,10,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Southend United,1-2,/match/watford-fc/southend-united/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Millwall,0-0,/match/ipswich-town-fc/millwall-fc/1992,1992,3,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Charlton Athletic,1-2,/match/oxford-united/charlton-athletic-fc/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Leicester,1-2,/match/oxford-united/leicester-city-fc/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Grimsby Town,2-1,/match/blackburn-rovers-fc/grimsby-town/1992,1992,3,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Swindon Town,0-2,/match/brighton-amp-hov/swindon-town/1992,1992,3,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Newcastle,1-1,/match/bristol-city-fc/newcastle-united-fc/1992,1992,3,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Barnsley,2-1,/match/cambridge-united/barnsley-fc/1992,1992,3,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Port Vale,1-0,/match/middlesbrough-fc/port-vale/1992,1992,3,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Derby County,1-2,/match/millwall-fc/derby-county-fc/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Watford,0-1,/match/plymouth-argyle/watford-fc/1992,1992,3,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Ipswich Town,1-1,/match/portsmouth/ipswich-town-fc/1992,1992,3,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Charlton Athletic,1-1,/match/southend-united/charlton-athletic-fc/1992,1992,3,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Bristol Rovers,1-1,/match/sunderland-afc/bristol-rovers/1992,1992,3,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Tranmere Rovers,1-1,/match/wolverhampton/tranmere-rovers/1992,1992,3,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Millwall,0-2,/match/watford-fc/millwall-fc/1992,1992,3,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Oxford United,2-3,/match/southend-united/oxford-united/1992,1992,3,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Ipswich Town,1-1,/match/charlton-athletic-fc/ipswich-town-fc/1992,1992,3,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Leicester,1-2,/match/brighton-amp-hov/leicester-city-fc/1992,1992,3,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Watford,3-1,/match/sunderland-afc/watford-fc/1992,1992,4,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Newcastle,2-1,/match/swindon-town/newcastle-united-fc/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Brighton Hove Alb.,1-0,/match/blackburn-rovers-fc/brighton-amp-hov/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Port Vale,3-3,/match/bristol-rovers/port-vale/1992,1992,4,championship,24,10,1,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Bristol City,0-0,/match/cambridge-united/bristol-city-fc/1992,1992,4,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Tranmere Rovers,0-1,/match/derby-county-fc/tranmere-rovers/1992,1992,4,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Charlton Athletic,1-0,/match/grimsby-town/charlton-athletic-fc/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Ipswich Town,2-2,/match/leicester-city-fc/ipswich-town-fc/1992,1992,4,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Southend United,1-1,/match/middlesbrough-fc/southend-united/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Portsmouth,1-1,/match/millwall-fc/portsmouth/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Barnsley,0-1,/match/oxford-united/barnsley-fc/1992,1992,4,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Wolves,1-0,/match/plymouth-argyle/wolverhampton/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Bristol Rovers,2-3,/match/wolverhampton/bristol-rovers/1992,1992,4,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Millwall,2-1,/match/tranmere-rovers/millwall-fc/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Blackburn Rovers,3-0,/match/southend-united/blackburn-rovers-fc/1992,1992,4,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Leicester,1-0,/match/portsmouth/leicester-city-fc/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Sunderland,0-1,/match/ipswich-town-fc/sunderland-afc/1992,1992,4,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Plymouth Argyle,2-0,/match/bristol-city-fc/plymouth-argyle/1992,1992,4,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Middlesbrough,2-1,/match/barnsley-fc/middlesbrough-fc/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Derby County,1-0,/match/port-vale/derby-county-fc/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Grimsby Town,3-0,/match/brighton-amp-hov/grimsby-town/1992,1992,4,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Swindon Town,0-0,/match/charlton-athletic-fc/swindon-town/1992,1992,4,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Cambridge United,1-1,/match/newcastle-united-fc/cambridge-united/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Oxford United,2-0,/match/watford-fc/oxford-united/1992,1992,4,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Plymouth Argyle,1-0,/match/tranmere-rovers/plymouth-argyle/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Derby County,2-3,/match/wolverhampton/derby-county-fc/1992,1992,4,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Leicester,0-1,/match/watford-fc/leicester-city-fc/1992,1992,4,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Swindon Town,3-2,/match/southend-united/swindon-town/1992,1992,4,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Oxford United,2-1,/match/portsmouth/oxford-united/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Millwall,0-2,/match/port-vale/millwall-fc/1992,1992,4,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Grimsby Town,2-0,/match/newcastle-united-fc/grimsby-town/1992,1992,4,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Cambridge United,1-2,/match/ipswich-town-fc/cambridge-united/1992,1992,4,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Blackburn Rovers,0-2,/match/charlton-athletic-fc/blackburn-rovers-fc/1992,1992,4,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Sunderland,1-0,/match/bristol-city-fc/sunderland-afc/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Middlesbrough,1-1,/match/brighton-amp-hov/middlesbrough-fc/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Bristol Rovers,0-1,/match/barnsley-fc/bristol-rovers/1992,1992,4,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Ipswich Town,1-0,/match/derby-county-fc/ipswich-town-fc/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Brighton Hove Alb.,0-0,/match/cambridge-united/brighton-amp-hov/1992,1992,4,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Watford,1-1,/match/bristol-rovers/watford-fc/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Barnsley,3-0,/match/blackburn-rovers-fc/barnsley-fc/1992,1992,4,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Portsmouth,2-3,/match/swindon-town/portsmouth/1992,1992,4,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Wolves,2-1,/match/millwall-fc/wolverhampton/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Bristol City,1-1,/match/oxford-united/bristol-city-fc/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Port Vale,1-0,/match/plymouth-argyle/port-vale/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Charlton Athletic,2-0,/match/middlesbrough-fc/charlton-athletic-fc/1992,1992,4,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Newcastle,1-1,/match/sunderland-afc/newcastle-united-fc/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Southend United,3-2,/match/newcastle-united-fc/southend-united/1992,1992,4,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Bristol Rovers,1-1,/match/leicester-city-fc/bristol-rovers/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Swindon Town,0-0,/match/tranmere-rovers/swindon-town/1992,1992,4,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Millwall,1-1,/match/grimsby-town/millwall-fc/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Derby County,2-3,/match/bristol-rovers/derby-county-fc/1992,1992,4,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Cambridge United,1-2,/match/charlton-athletic-fc/cambridge-united/1992,1992,4,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Port Vale,0-1,/match/leicester-city-fc/port-vale/1992,1992,4,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Bristol City,3-1,/match/middlesbrough-fc/bristol-city-fc/1992,1992,4,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Brighton Hove Alb.,3-1,/match/oxford-united/brighton-amp-hov/1992,1992,4,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Sunderland,1-0,/match/plymouth-argyle/sunderland-afc/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Barnsley,2-1,/match/southend-united/barnsley-fc/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Portsmouth,2-1,/match/watford-fc/portsmouth/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Ipswich Town,1-2,/match/wolverhampton/ipswich-town-fc/1992,1992,4,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Blackburn Rovers,0-0,/match/newcastle-united-fc/blackburn-rovers-fc/1992,1992,4,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Grimsby Town,2-1,/match/wolverhampton/grimsby-town/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Newcastle,3-0,/match/barnsley-fc/newcastle-united-fc/1992,1992,4,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Middlesbrough,2-1,/match/blackburn-rovers-fc/middlesbrough-fc/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Plymouth Argyle,1-0,/match/brighton-amp-hov/plymouth-argyle/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Charlton Athletic,0-2,/match/bristol-city-fc/charlton-athletic-fc/1992,1992,4,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Oxford United,1-1,/match/cambridge-united/oxford-united/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Leicester,1-2,/match/derby-county-fc/leicester-city-fc/1992,1992,4,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Tranmere Rovers,4-0,/match/ipswich-town-fc/tranmere-rovers/1992,1992,4,championship,24,10,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Bristol Rovers,0-1,/match/millwall-fc/bristol-rovers/1992,1992,4,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Watford,2-1,/match/port-vale/watford-fc/1992,1992,4,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Wolves,1-0,/match/portsmouth/wolverhampton/1992,1992,4,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Southend United,1-2,/match/sunderland-afc/southend-united/1992,1992,4,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Grimsby Town,1-1,/match/swindon-town/grimsby-town/1992,1992,4,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Derby County,1-2,/match/watford-fc/derby-county-fc/1992,1992,5,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,9,10,4,6,30,22,DWLLLDDWWDWLWLLWLWLL,5,3,2,15,12,0,DLDWDLLWLL
-Wolves,Sunderland,1-0,/match/wolverhampton/sunderland-afc/1992,1992,5,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Cambridge United,2-2,/match/bristol-rovers/cambridge-united/1992,1992,5,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leicester,Plymouth Argyle,2-0,/match/leicester-city-fc/plymouth-argyle/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Port Vale,Barnsley,0-0,/match/port-vale/barnsley-fc/1992,1992,1,championship,24,10,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Middlesbrough,Newcastle,3-0,/match/middlesbrough-fc/newcastle-united-fc/1992,1992,1,championship,24,10,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Blackburn Rovers,Ipswich Town,1-2,/match/blackburn-rovers-fc/ipswich-town-fc/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Brighton Hove Alb.,Wolves,3-3,/match/brighton-amp-hov/wolverhampton/1992,1992,1,championship,24,10,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Bristol Rovers,Newcastle,1-2,/match/bristol-rovers/newcastle-united-fc/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Grimsby Town,Tranmere Rovers,2-2,/match/grimsby-town/tranmere-rovers/1992,1992,1,championship,24,10,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Middlesbrough,Portsmouth,2-0,/match/middlesbrough-fc/portsmouth/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Plymouth Argyle,Millwall,3-2,/match/plymouth-argyle/millwall-fc/1992,1992,1,championship,24,10,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Port Vale,Bristol City,1-1,/match/port-vale/bristol-city-fc/1992,1992,1,championship,24,10,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Southend United,Leicester,1-2,/match/southend-united/leicester-city-fc/1992,1992,1,championship,24,10,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Sunderland,Oxford United,2-0,/match/sunderland-afc/oxford-united/1992,1992,1,championship,24,10,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Swindon Town,Barnsley,3-1,/match/swindon-town/barnsley-fc/1992,1992,1,championship,24,10,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Watford,Cambridge United,1-3,/match/watford-fc/cambridge-united/1992,1992,1,championship,24,10,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,0
+Charlton Athletic,Derby County,0-2,/match/charlton-athletic-fc/derby-county-fc/1992,1992,2,championship,24,10,2,0,2,13,1,1,0,3,2,WD,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Wolves,Port Vale,0-2,/match/wolverhampton/port-vale/1992,1992,2,championship,24,10,2,0,2,12,1,2,0,6,4,LDD,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Tranmere Rovers,Charlton Athletic,2-2,/match/tranmere-rovers/charlton-athletic-fc/1992,1992,2,championship,24,10,1,2,2,10,1,2,0,6,4,LDD,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Portsmouth,Sunderland,1-0,/match/portsmouth/sunderland-afc/1992,1992,2,championship,24,10,0,1,0,11,1,1,1,2,3,DWW,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Ipswich Town,Swindon Town,1-4,/match/ipswich-town-fc/swindon-town/1992,1992,2,championship,24,10,2,1,4,2,3,1,0,9,6,DWWL,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Cambridge United,Southend United,0-1,/match/cambridge-united/southend-united/1992,1992,2,championship,24,10,2,0,1,7,3,0,0,10,6,LWL,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Barnsley,Watford,0-3,/match/barnsley-fc/watford-fc/1992,1992,2,championship,24,10,2,0,3,23,0,1,4,3,10,WLLDW,0,0,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,LL,0
+Millwall,Brighton Hove Alb.,1-2,/match/millwall-fc/brighton-amp-hov/1992,1992,2,championship,24,10,2,1,2,16,1,0,2,6,5,WWW,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Bristol City,Bristol Rovers,1-0,/match/bristol-city-fc/bristol-rovers/1992,1992,2,championship,24,10,0,1,0,3,2,2,0,5,3,DWWD,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Derby County,Blackburn Rovers,0-2,/match/derby-county-fc/blackburn-rovers-fc/1992,1992,2,championship,24,10,2,0,2,14,1,1,1,4,3,DWL,1,0,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,WL,0
+Leicester,Grimsby Town,2-0,/match/leicester-city-fc/grimsby-town/1992,1992,2,championship,24,10,0,2,0,8,2,1,0,4,1,DWL,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Newcastle,Plymouth Argyle,2-2,/match/newcastle-united-fc/plymouth-argyle/1992,1992,2,championship,24,10,1,2,2,17,1,1,2,5,8,WDWL,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Oxford United,Middlesbrough,1-2,/match/oxford-united/middlesbrough-fc/1992,1992,2,championship,24,10,2,1,2,24,0,0,3,2,6,WLW,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,L,0
+Tranmere Rovers,Newcastle,3-2,/match/tranmere-rovers/newcastle-united-fc/1992,1992,2,championship,24,10,0,3,2,10,1,2,0,6,4,LDD,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Bristol Rovers,Grimsby Town,2-3,/match/bristol-rovers/grimsby-town/1992,1992,2,championship,24,10,2,2,3,20,0,2,1,6,7,DDL,0,1,1,4,5,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Derby County,Barnsley,1-1,/match/derby-county-fc/barnsley-fc/1992,1992,2,championship,24,10,1,1,1,14,1,1,1,4,3,DWL,1,0,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,WL,0
+Ipswich Town,Southend United,1-0,/match/ipswich-town-fc/southend-united/1992,1992,2,championship,24,10,0,1,0,2,3,1,0,9,6,DWWL,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Leicester,Bristol City,2-1,/match/leicester-city-fc/bristol-city-fc/1992,1992,2,championship,24,10,0,2,1,8,2,1,0,4,1,DWL,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Millwall,Cambridge United,1-2,/match/millwall-fc/cambridge-united/1992,1992,2,championship,24,10,2,1,2,16,1,0,2,6,5,WWW,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Plymouth Argyle,Charlton Athletic,0-2,/match/plymouth-argyle/charlton-athletic-fc/1992,1992,2,championship,24,10,2,0,2,6,2,0,1,5,5,WWW,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Port Vale,Swindon Town,2-2,/match/port-vale/swindon-town/1992,1992,2,championship,24,10,1,2,2,5,1,2,2,4,5,WWWDD,1,2,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,WDD,0
+Portsmouth,Brighton Hove Alb.,0-0,/match/portsmouth/brighton-amp-hov/1992,1992,2,championship,24,10,1,0,0,11,1,1,1,2,3,DWW,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Sunderland,Blackburn Rovers,1-1,/match/sunderland-afc/blackburn-rovers-fc/1992,1992,2,championship,24,10,1,1,1,4,2,1,1,7,5,DLWW,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,DW,0
+Watford,Middlesbrough,1-2,/match/watford-fc/middlesbrough-fc/1992,1992,2,championship,24,10,2,1,2,22,0,1,2,3,7,LDL,0,0,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,LL,0
+Wolves,Oxford United,3-1,/match/wolverhampton/oxford-united/1992,1992,2,championship,24,10,0,3,1,12,1,2,0,6,4,LDD,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Cambridge United,Derby County,0-0,/match/cambridge-united/derby-county-fc/1992,1992,2,championship,24,10,1,0,0,7,3,0,0,10,6,LWL,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Barnsley,Ipswich Town,1-0,/match/barnsley-fc/ipswich-town-fc/1992,1992,2,championship,24,10,0,1,0,23,0,1,4,3,10,WLLDW,0,0,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,LL,0
+Blackburn Rovers,Port Vale,1-0,/match/blackburn-rovers-fc/port-vale/1992,1992,2,championship,24,10,0,1,0,21,0,1,2,2,4,DWL,0,1,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Brighton Hove Alb.,Watford,0-1,/match/brighton-amp-hov/watford-fc/1992,1992,2,championship,24,10,2,0,1,19,1,1,2,6,8,LWLD,0,1,1,3,5,0,0,0,0,0,0,0,0,0,0,0,0,LD,0
+Bristol City,Tranmere Rovers,2-2,/match/bristol-city-fc/tranmere-rovers/1992,1992,2,championship,24,10,1,2,2,3,2,2,0,5,3,DWWD,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Charlton Athletic,Portsmouth,3-0,/match/charlton-athletic-fc/portsmouth/1992,1992,2,championship,24,10,0,3,0,13,1,1,0,3,2,WD,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Middlesbrough,Leicester,3-0,/match/middlesbrough-fc/leicester-city-fc/1992,1992,2,championship,24,10,0,3,0,1,3,0,2,7,4,WWWWW,3,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,WWW,0
+Newcastle,Wolves,1-2,/match/newcastle-united-fc/wolverhampton/1992,1992,2,championship,24,10,2,1,2,17,1,1,2,5,8,WDWL,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Oxford United,Millwall,2-2,/match/oxford-united/millwall-fc/1992,1992,2,championship,24,10,1,2,2,24,0,0,3,2,6,WLW,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,L,0
+Southend United,Bristol Rovers,2-0,/match/southend-united/bristol-rovers/1992,1992,2,championship,24,10,0,2,0,18,1,1,1,4,4,DLL,0,1,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Swindon Town,Sunderland,5-3,/match/swindon-town/sunderland-afc/1992,1992,2,championship,24,10,0,5,3,9,1,1,1,5,4,DWW,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,DW,0
+Grimsby Town,Plymouth Argyle,2-1,/match/grimsby-town/plymouth-argyle/1992,1992,2,championship,24,10,0,2,1,15,1,1,1,7,7,LLD,0,1,1,5,6,0,0,0,0,0,0,0,0,0,0,0,0,LD,0
+Cambridge United,Wolves,2-1,/match/cambridge-united/wolverhampton/1992,1992,2,championship,24,10,0,2,1,7,3,0,0,10,6,LWL,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Barnsley,Leicester,3-1,/match/barnsley-fc/leicester-city-fc/1992,1992,2,championship,24,10,0,3,1,23,0,1,4,3,10,WLLDW,0,0,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,LL,0
+Blackburn Rovers,Watford,1-0,/match/blackburn-rovers-fc/watford-fc/1992,1992,2,championship,24,10,0,1,0,21,0,1,2,2,4,DWL,0,1,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Bristol City,Millwall,2-2,/match/bristol-city-fc/millwall-fc/1992,1992,2,championship,24,10,1,2,2,3,2,2,0,5,3,DWWD,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Charlton Athletic,Sunderland,1-4,/match/charlton-athletic-fc/sunderland-afc/1992,1992,2,championship,24,10,2,1,4,13,1,1,0,3,2,WD,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Grimsby Town,Portsmouth,1-1,/match/grimsby-town/portsmouth/1992,1992,2,championship,24,10,1,1,1,15,1,1,1,7,7,LLD,0,1,1,5,6,0,0,0,0,0,0,0,0,0,0,0,0,LD,0
+Middlesbrough,Tranmere Rovers,1-0,/match/middlesbrough-fc/tranmere-rovers/1992,1992,2,championship,24,10,0,1,0,1,3,0,2,7,4,WWWWW,3,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,WWW,0
+Newcastle,Ipswich Town,1-1,/match/newcastle-united-fc/ipswich-town-fc/1992,1992,2,championship,24,10,1,1,1,17,1,1,2,5,8,WDWL,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Southend United,Plymouth Argyle,2-1,/match/southend-united/plymouth-argyle/1992,1992,2,championship,24,10,0,2,1,18,1,1,1,4,4,DLL,0,1,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Swindon Town,Bristol Rovers,1-0,/match/swindon-town/bristol-rovers/1992,1992,2,championship,24,10,0,1,0,9,1,1,1,5,4,DWW,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,DW,0
+Oxford United,Derby County,2-0,/match/oxford-united/derby-county-fc/1992,1992,2,championship,24,10,0,2,0,24,0,0,3,2,6,WLW,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,L,0
+Brighton Hove Alb.,Port Vale,3-1,/match/brighton-amp-hov/port-vale/1992,1992,2,championship,24,10,0,3,1,19,1,1,2,6,8,LWLD,0,1,1,3,5,0,0,0,0,0,0,0,0,0,0,0,0,LD,0
+Sunderland,Grimsby Town,1-2,/match/sunderland-afc/grimsby-town/1992,1992,2,championship,24,10,2,1,2,4,2,1,1,7,5,DLWW,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,DW,0
+Bristol Rovers,Oxford United,2-1,/match/bristol-rovers/oxford-united/1992,1992,2,championship,24,10,0,2,1,20,0,2,1,6,7,DDL,0,1,1,4,5,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Derby County,Brighton Hove Alb.,3-1,/match/derby-county-fc/brighton-amp-hov/1992,1992,2,championship,24,10,0,3,1,14,1,1,1,4,3,DWL,1,0,1,3,2,0,0,0,0,0,0,0,0,0,0,0,0,WL,0
+Ipswich Town,Bristol City,4-2,/match/ipswich-town-fc/bristol-city-fc/1992,1992,2,championship,24,10,0,4,2,2,3,1,0,9,6,DWWL,2,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Leicester,Blackburn Rovers,3-0,/match/leicester-city-fc/blackburn-rovers-fc/1992,1992,2,championship,24,10,0,3,0,8,2,1,0,4,1,DWL,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Millwall,Newcastle,2-1,/match/millwall-fc/newcastle-united-fc/1992,1992,2,championship,24,10,0,2,1,16,1,0,2,6,5,WWW,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Port Vale,Southend United,0-0,/match/port-vale/southend-united/1992,1992,2,championship,24,10,1,0,0,5,1,2,2,4,5,WWWDD,1,2,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,WDD,0
+Portsmouth,Cambridge United,3-0,/match/portsmouth/cambridge-united/1992,1992,2,championship,24,10,0,3,0,11,1,1,1,2,3,DWW,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Tranmere Rovers,Barnsley,2-1,/match/tranmere-rovers/barnsley-fc/1992,1992,2,championship,24,10,0,2,1,10,1,2,0,6,4,LDD,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Watford,Charlton Athletic,2-0,/match/watford-fc/charlton-athletic-fc/1992,1992,2,championship,24,10,0,2,0,22,0,1,2,3,7,LDL,0,0,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,LL,0
+Wolves,Swindon Town,2-1,/match/wolverhampton/swindon-town/1992,1992,2,championship,24,10,0,2,1,12,1,2,0,6,4,LDD,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Plymouth Argyle,Middlesbrough,1-1,/match/plymouth-argyle/middlesbrough-fc/1992,1992,2,championship,24,10,1,1,1,6,2,0,1,5,5,WWW,2,0,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Newcastle,Derby County,2-2,/match/newcastle-united-fc/derby-county-fc/1992,1992,2,championship,24,10,1,2,2,17,1,1,2,5,8,WDWL,0,1,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,D,0
+Barnsley,Millwall,0-2,/match/barnsley-fc/millwall-fc/1992,1992,2,championship,24,10,2,0,2,23,0,1,4,3,10,WLLDW,0,0,2,1,5,0,0,0,0,0,0,0,0,0,0,0,0,LL,0
+Blackburn Rovers,Tranmere Rovers,0-0,/match/blackburn-rovers-fc/tranmere-rovers/1992,1992,2,championship,24,10,1,0,0,21,0,1,2,2,4,DWL,0,1,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Brighton Hove Alb.,Bristol Rovers,3-1,/match/brighton-amp-hov/bristol-rovers/1992,1992,2,championship,24,10,0,3,1,19,1,1,2,6,8,LWLD,0,1,1,3,5,0,0,0,0,0,0,0,0,0,0,0,0,LD,0
+Bristol City,Portsmouth,0-2,/match/bristol-city-fc/portsmouth/1992,1992,2,championship,24,10,2,0,2,3,2,2,0,5,3,DWWD,2,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,WW,0
+Charlton Athletic,Port Vale,2-0,/match/charlton-athletic-fc/port-vale/1992,1992,2,championship,24,10,0,2,0,13,1,1,0,3,2,WD,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Grimsby Town,Ipswich Town,1-2,/match/grimsby-town/ipswich-town-fc/1992,1992,2,championship,24,10,2,1,2,15,1,1,1,7,7,LLD,0,1,1,5,6,0,0,0,0,0,0,0,0,0,0,0,0,LD,0
+Middlesbrough,Sunderland,2-1,/match/middlesbrough-fc/sunderland-afc/1992,1992,2,championship,24,10,0,2,1,1,3,0,2,7,4,WWWWW,3,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,WWW,0
+Oxford United,Plymouth Argyle,3-2,/match/oxford-united/plymouth-argyle/1992,1992,2,championship,24,10,0,3,2,24,0,0,3,2,6,WLW,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,0,L,0
+Southend United,Wolves,0-2,/match/southend-united/wolverhampton/1992,1992,2,championship,24,10,2,0,2,18,1,1,1,4,4,DLL,0,1,1,2,3,0,0,0,0,0,0,0,0,0,0,0,0,DL,0
+Swindon Town,Watford,3-1,/match/swindon-town/watford-fc/1992,1992,2,championship,24,10,0,3,1,9,1,1,1,5,4,DWW,1,1,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,DW,0
+Cambridge United,Leicester,5-1,/match/cambridge-united/leicester-city-fc/1992,1992,2,championship,24,10,0,5,1,7,3,0,0,10,6,LWL,1,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,W,0
+Tranmere Rovers,Southend United,1-1,/match/tranmere-rovers/southend-united/1992,1992,3,championship,24,10,1,1,1,8,3,5,1,15,12,LDDDWDWWD,2,2,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,DDWW,0
+Wolves,Barnsley,1-2,/match/wolverhampton/barnsley-fc/1992,1992,3,championship,24,10,2,1,2,9,5,2,2,16,11,LDDLWLWWL,2,1,1,6,5,0,0,0,0,0,0,0,0,0,0,0,0,DLWW,0
+Bristol Rovers,Middlesbrough,2-1,/match/bristol-rovers/middlesbrough-fc/1992,1992,3,championship,24,10,0,2,1,24,1,2,6,11,18,DDLWLWWWW,1,1,2,8,9,0,0,0,0,0,0,0,0,0,0,0,0,DLLW,0
+Derby County,Bristol City,4-1,/match/derby-county-fc/bristol-city-fc/1992,1992,3,championship,24,10,0,4,1,11,3,4,3,12,11,DWLLLDDWWD,2,1,2,7,6,0,0,0,0,0,0,0,0,0,0,0,0,WLLDW,0
+Ipswich Town,Oxford United,2-1,/match/ipswich-town-fc/oxford-united/1992,1992,3,championship,24,10,0,2,1,2,6,2,2,18,15,DWWLLWWDWL,4,0,1,10,8,0,0,0,0,0,0,0,0,0,0,0,0,WWLWW,0
+Leicester,Charlton Athletic,0-2,/match/leicester-city-fc/charlton-athletic-fc/1992,1992,3,championship,24,10,2,0,2,5,5,1,3,13,13,DWLWWWWWW,4,0,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,WWWW,0
+Millwall,Blackburn Rovers,1-3,/match/millwall-fc/blackburn-rovers-fc/1992,1992,3,championship,24,10,2,1,3,18,3,2,4,16,14,WWWLLDDWL,2,0,2,8,6,0,0,0,0,0,0,0,0,0,0,0,0,WLLW,0
+Plymouth Argyle,Swindon Town,0-4,/match/plymouth-argyle/swindon-town/1992,1992,3,championship,24,10,2,0,4,19,2,2,5,12,17,WWWDLWWDW,2,1,1,6,6,0,0,0,0,0,0,0,0,0,0,0,0,WWLD,0
+Port Vale,Cambridge United,1-0,/match/port-vale/cambridge-united/1992,1992,3,championship,24,10,0,1,0,15,2,4,5,9,13,WWWDDLDWWDW,1,4,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,WDDDD,0
+Portsmouth,Newcastle,3-1,/match/portsmouth/newcastle-united-fc/1992,1992,3,championship,24,10,0,3,1,7,4,3,2,9,7,DWWWDWDWL,3,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,WWDW,0
+Sunderland,Brighton Hove Alb.,4-2,/match/sunderland-afc/brighton-amp-hov/1992,1992,3,championship,24,10,0,4,2,17,3,2,5,17,17,DLWWWDWLLW,1,2,1,5,4,0,0,0,0,0,0,0,0,0,0,0,0,DWDL,0
+Watford,Grimsby Town,2-0,/match/watford-fc/grimsby-town/1992,1992,3,championship,24,10,0,2,0,23,3,1,5,11,13,LDLLLLWWW,1,0,3,4,7,0,0,0,0,0,0,0,0,0,0,0,0,LLLW,0
+Newcastle,Leicester,2-0,/match/newcastle-united-fc/leicester-city-fc/1992,1992,3,championship,24,10,0,2,0,20,1,4,5,14,20,WDWLDWLDWD,0,4,1,8,9,0,0,0,0,0,0,0,0,0,0,0,0,DDLDD,0
+Barnsley,Portsmouth,2-0,/match/barnsley-fc/portsmouth/1992,1992,3,championship,24,10,0,2,0,21,2,2,7,9,19,WLLDWLDWWWL,2,0,4,5,11,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWL,0
+Blackburn Rovers,Plymouth Argyle,5-2,/match/blackburn-rovers-fc/plymouth-argyle/1992,1992,3,championship,24,10,0,5,2,14,3,3,3,7,8,DWLLDWWWD,2,2,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0,DLWWD,0
+Brighton Hove Alb.,Ipswich Town,2-2,/match/brighton-amp-hov/ipswich-town-fc/1992,1992,3,championship,24,10,1,2,2,13,4,2,4,15,15,LWLDLDLWWW,2,1,2,9,8,0,0,0,0,0,0,0,0,0,0,0,0,LDLWW,0
+Bristol City,Watford,1-0,/match/bristol-city-fc/watford-fc/1992,1992,3,championship,24,10,0,1,0,6,3,4,3,13,15,DWWDWWDDWL,3,2,1,8,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDL,0
+Cambridge United,Sunderland,3-0,/match/cambridge-united/sunderland-afc/1992,1992,3,championship,24,10,0,3,0,4,6,1,2,19,13,LWLLLDWWW,3,1,1,10,5,0,0,0,0,0,0,0,0,0,0,0,0,WLDWW,0
+Charlton Athletic,Bristol Rovers,1-0,/match/charlton-athletic-fc/bristol-rovers/1992,1992,3,championship,24,10,0,1,0,10,4,2,3,13,12,WDLDLWLWW,3,0,2,8,7,0,0,0,0,0,0,0,0,0,0,0,0,WLWLW,0
+Grimsby Town,Port Vale,1-2,/match/grimsby-town/port-vale/1992,1992,3,championship,24,10,2,1,2,16,4,2,3,16,16,LLDWLWDLL,1,2,2,9,10,0,0,0,0,0,0,0,0,0,0,0,0,LDWDL,0
+Middlesbrough,Wolves,0-0,/match/middlesbrough-fc/wolverhampton/1992,1992,3,championship,24,10,1,0,0,1,8,1,2,18,8,WWWWWLLWWDW,6,0,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWW,0
+Oxford United,Tranmere Rovers,1-0,/match/oxford-united/tranmere-rovers/1992,1992,3,championship,24,10,0,1,0,22,2,1,6,12,17,WLWLWDWWW,2,1,2,9,8,0,0,0,0,0,0,0,0,0,0,0,0,LLDWW,0
+Southend United,Millwall,2-3,/match/southend-united/millwall-fc/1992,1992,3,championship,24,10,2,2,3,12,4,2,3,9,8,DLLLWWWDL,2,1,2,6,6,0,0,0,0,0,0,0,0,0,0,0,0,DLWWL,0
+Swindon Town,Derby County,1-2,/match/swindon-town/derby-county-fc/1992,1992,3,championship,24,10,2,1,2,3,5,2,2,21,13,DWWLDWWWW,4,1,0,12,5,0,0,0,0,0,0,0,0,0,0,0,0,DWWWW,0
+Tranmere Rovers,Cambridge United,1-2,/match/tranmere-rovers/cambridge-united/1992,1992,3,championship,24,10,2,1,2,8,3,5,1,15,12,LDDDWDWWD,2,2,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,DDWW,0
+Swindon Town,Blackburn Rovers,2-1,/match/swindon-town/blackburn-rovers-fc/1992,1992,3,championship,24,10,0,2,1,3,5,2,2,21,13,DWWLDWWWW,4,1,0,12,5,0,0,0,0,0,0,0,0,0,0,0,0,DWWWW,0
+Barnsley,Bristol City,1-2,/match/barnsley-fc/bristol-city-fc/1992,1992,3,championship,24,10,2,1,2,21,2,2,7,9,19,WLLDWLDWWWL,2,0,4,5,11,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWL,0
+Bristol Rovers,Plymouth Argyle,0-0,/match/bristol-rovers/plymouth-argyle/1992,1992,3,championship,24,10,1,0,0,24,1,2,6,11,18,DDLWLWWWW,1,1,2,8,9,0,0,0,0,0,0,0,0,0,0,0,0,DLLW,0
+Charlton Athletic,Brighton Hove Alb.,2-0,/match/charlton-athletic-fc/brighton-amp-hov/1992,1992,3,championship,24,10,0,2,0,10,4,2,3,13,12,WDLDLWLWW,3,0,2,8,7,0,0,0,0,0,0,0,0,0,0,0,0,WLWLW,0
+Derby County,Portsmouth,2-0,/match/derby-county-fc/portsmouth/1992,1992,3,championship,24,10,0,2,0,11,3,4,3,12,11,DWLLLDDWWD,2,1,2,7,6,0,0,0,0,0,0,0,0,0,0,0,0,WLLDW,0
+Grimsby Town,Middlesbrough,1-0,/match/grimsby-town/middlesbrough-fc/1992,1992,3,championship,24,10,0,1,0,16,4,2,3,16,16,LLDWLWDLL,1,2,2,9,10,0,0,0,0,0,0,0,0,0,0,0,0,LDWDL,0
+Leicester,Wolves,3-0,/match/leicester-city-fc/wolverhampton/1992,1992,3,championship,24,10,0,3,0,5,5,1,3,13,13,DWLWWWWWW,4,0,0,9,1,0,0,0,0,0,0,0,0,0,0,0,0,WWWW,0
+Newcastle,Oxford United,4-3,/match/newcastle-united-fc/oxford-united/1992,1992,3,championship,24,10,0,4,3,20,1,4,5,14,20,WDWLDWLDWD,0,4,1,8,9,0,0,0,0,0,0,0,0,0,0,0,0,DDLDD,0
+Port Vale,Sunderland,3-3,/match/port-vale/sunderland-afc/1992,1992,3,championship,24,10,1,3,3,15,2,4,5,9,13,WWWDDLDWWDW,1,4,0,5,4,0,0,0,0,0,0,0,0,0,0,0,0,WDDDD,0
+Watford,Southend United,1-2,/match/watford-fc/southend-united/1992,1992,3,championship,24,10,2,1,2,23,3,1,5,11,13,LDLLLLWWW,1,0,3,4,7,0,0,0,0,0,0,0,0,0,0,0,0,LLLW,0
+Ipswich Town,Millwall,0-0,/match/ipswich-town-fc/millwall-fc/1992,1992,3,championship,24,10,1,0,0,2,6,2,2,18,15,DWWLLWWDWL,4,0,1,10,8,0,0,0,0,0,0,0,0,0,0,0,0,WWLWW,0
+Oxford United,Charlton Athletic,1-2,/match/oxford-united/charlton-athletic-fc/1992,1992,3,championship,24,10,2,1,2,22,2,1,6,12,17,WLWLWDWWW,2,1,2,9,8,0,0,0,0,0,0,0,0,0,0,0,0,LLDWW,0
+Oxford United,Leicester,1-2,/match/oxford-united/leicester-city-fc/1992,1992,3,championship,24,10,2,1,2,22,2,1,6,12,17,WLWLWDWWW,2,1,2,9,8,0,0,0,0,0,0,0,0,0,0,0,0,LLDWW,0
+Blackburn Rovers,Grimsby Town,2-1,/match/blackburn-rovers-fc/grimsby-town/1992,1992,3,championship,24,10,0,2,1,14,3,3,3,7,8,DWLLDWWWD,2,2,1,4,3,0,0,0,0,0,0,0,0,0,0,0,0,DLWWD,0
+Brighton Hove Alb.,Swindon Town,0-2,/match/brighton-amp-hov/swindon-town/1992,1992,3,championship,24,10,2,0,2,13,4,2,4,15,15,LWLDLDLWWW,2,1,2,9,8,0,0,0,0,0,0,0,0,0,0,0,0,LDLWW,0
+Bristol City,Newcastle,1-1,/match/bristol-city-fc/newcastle-united-fc/1992,1992,3,championship,24,10,1,1,1,6,3,4,3,13,15,DWWDWWDDWL,3,2,1,8,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDL,0
+Cambridge United,Barnsley,2-1,/match/cambridge-united/barnsley-fc/1992,1992,3,championship,24,10,0,2,1,4,6,1,2,19,13,LWLLLDWWW,3,1,1,10,5,0,0,0,0,0,0,0,0,0,0,0,0,WLDWW,0
+Middlesbrough,Port Vale,1-0,/match/middlesbrough-fc/port-vale/1992,1992,3,championship,24,10,0,1,0,1,8,1,2,18,8,WWWWWLLWWDW,6,0,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWW,0
+Millwall,Derby County,1-2,/match/millwall-fc/derby-county-fc/1992,1992,3,championship,24,10,2,1,2,18,3,2,4,16,14,WWWLLDDWL,2,0,2,8,6,0,0,0,0,0,0,0,0,0,0,0,0,WLLW,0
+Plymouth Argyle,Watford,0-1,/match/plymouth-argyle/watford-fc/1992,1992,3,championship,24,10,2,0,1,19,2,2,5,12,17,WWWDLWWDW,2,1,1,6,6,0,0,0,0,0,0,0,0,0,0,0,0,WWLD,0
+Portsmouth,Ipswich Town,1-1,/match/portsmouth/ipswich-town-fc/1992,1992,3,championship,24,10,1,1,1,7,4,3,2,9,7,DWWWDWDWL,3,1,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,WWDW,0
+Southend United,Charlton Athletic,1-1,/match/southend-united/charlton-athletic-fc/1992,1992,3,championship,24,10,1,1,1,12,4,2,3,9,8,DLLLWWWDL,2,1,2,6,6,0,0,0,0,0,0,0,0,0,0,0,0,DLWWL,0
+Sunderland,Bristol Rovers,1-1,/match/sunderland-afc/bristol-rovers/1992,1992,3,championship,24,10,1,1,1,17,3,2,5,17,17,DLWWWDWLLW,1,2,1,5,4,0,0,0,0,0,0,0,0,0,0,0,0,DWDL,0
+Wolves,Tranmere Rovers,1-1,/match/wolverhampton/tranmere-rovers/1992,1992,3,championship,24,10,1,1,1,9,5,2,2,16,11,LDDLWLWWL,2,1,1,6,5,0,0,0,0,0,0,0,0,0,0,0,0,DLWW,0
+Watford,Millwall,0-2,/match/watford-fc/millwall-fc/1992,1992,3,championship,24,10,2,0,2,23,3,1,5,11,13,LDLLLLWWW,1,0,3,4,7,0,0,0,0,0,0,0,0,0,0,0,0,LLLW,0
+Southend United,Oxford United,2-3,/match/southend-united/oxford-united/1992,1992,3,championship,24,10,2,2,3,12,4,2,3,9,8,DLLLWWWDL,2,1,2,6,6,0,0,0,0,0,0,0,0,0,0,0,0,DLWWL,0
+Charlton Athletic,Ipswich Town,1-1,/match/charlton-athletic-fc/ipswich-town-fc/1992,1992,3,championship,24,10,1,1,1,10,4,2,3,13,12,WDLDLWLWW,3,0,2,8,7,0,0,0,0,0,0,0,0,0,0,0,0,WLWLW,0
+Brighton Hove Alb.,Leicester,1-2,/match/brighton-amp-hov/leicester-city-fc/1992,1992,3,championship,24,10,2,1,2,13,4,2,4,15,15,LWLDLDLWWW,2,1,2,9,8,0,0,0,0,0,0,0,0,0,0,0,0,LDLWW,0
+Sunderland,Watford,3-1,/match/sunderland-afc/watford-fc/1992,1992,4,championship,24,10,0,3,1,16,4,4,6,25,26,DLWWWDWLLWWWDD,2,3,1,10,7,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWD,0
+Swindon Town,Newcastle,2-1,/match/swindon-town/newcastle-united-fc/1992,1992,4,championship,24,10,0,2,1,5,8,2,3,30,16,DWWLDWWWWLLWL,5,1,1,15,8,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLW,0
+Blackburn Rovers,Brighton Hove Alb.,1-0,/match/blackburn-rovers-fc/brighton-amp-hov/1992,1992,4,championship,24,10,0,1,0,9,6,3,4,18,14,DWLLDWWWDLWWW,4,2,1,11,6,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWW,0
+Bristol Rovers,Port Vale,3-3,/match/bristol-rovers/port-vale/1992,1992,4,championship,24,10,1,3,3,23,2,4,7,14,21,DDLWLWWWWWWDD,2,2,2,10,10,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWD,0
+Cambridge United,Bristol City,0-0,/match/cambridge-united/bristol-city-fc/1992,1992,4,championship,24,10,1,0,0,4,9,1,3,26,16,LWLLLDWWWWWLW,5,1,1,15,6,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWW,0
+Derby County,Tranmere Rovers,0-1,/match/derby-county-fc/tranmere-rovers/1992,1992,4,championship,24,10,2,0,1,7,7,4,3,22,14,DWLLLDDWWDWLWL,4,1,2,13,7,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWW,0
+Grimsby Town,Charlton Athletic,1-0,/match/grimsby-town/charlton-athletic-fc/1992,1992,4,championship,24,10,0,1,0,17,5,2,6,19,22,LLDWLWDLLWLWW,2,2,3,11,12,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLW,0
+Leicester,Ipswich Town,2-2,/match/leicester-city-fc/ipswich-town-fc/1992,1992,4,championship,24,10,1,2,2,6,8,1,5,20,19,DWLWWWWWWLWWLL,5,0,1,12,3,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLW,0
+Middlesbrough,Southend United,1-1,/match/middlesbrough-fc/southend-united/1992,1992,4,championship,24,10,1,1,1,1,9,2,4,20,11,WWWWWLLWWDWWDWW,7,1,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDW,0
+Millwall,Portsmouth,1-1,/match/millwall-fc/portsmouth/1992,1992,4,championship,24,10,1,1,1,19,5,3,6,23,21,WWWLLDDWLLLDLL,2,0,4,10,11,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLL,0
+Oxford United,Barnsley,0-1,/match/oxford-united/barnsley-fc/1992,1992,4,championship,24,10,2,0,1,21,4,1,10,22,29,WLWLWDWWWWWWLLL,3,1,4,12,12,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLL,0
+Plymouth Argyle,Wolves,1-0,/match/plymouth-argyle/wolverhampton/1992,1992,4,championship,24,10,0,1,0,24,2,3,8,14,27,WWWDLWWDWLWDL,2,1,3,6,11,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLL,0
+Wolves,Bristol Rovers,2-3,/match/wolverhampton/bristol-rovers/1992,1992,4,championship,24,10,2,2,3,12,5,4,4,18,17,LDDLWLWWLLDWD,2,2,2,8,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLD,0
+Tranmere Rovers,Millwall,2-1,/match/tranmere-rovers/millwall-fc/1992,1992,4,championship,24,10,0,2,1,14,3,7,3,18,17,LDDDWDWWDDWLD,2,3,1,11,10,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDL,0
+Southend United,Blackburn Rovers,3-0,/match/southend-united/blackburn-rovers-fc/1992,1992,4,championship,24,10,0,3,0,13,5,4,5,17,17,DLLLWWWDLDLLDL,2,2,4,11,13,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDL,0
+Portsmouth,Leicester,1-0,/match/portsmouth/leicester-city-fc/1992,1992,4,championship,24,10,0,1,0,10,5,4,4,13,13,DWWWDWDWLWWWD,4,2,0,9,2,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWD,0
+Ipswich Town,Sunderland,0-1,/match/ipswich-town-fc/sunderland-afc/1992,1992,4,championship,24,10,2,0,1,2,7,6,2,24,20,DWWLLWWDWLWDDDD,5,1,1,12,9,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWD,0
+Bristol City,Plymouth Argyle,2-0,/match/bristol-city-fc/plymouth-argyle/1992,1992,4,championship,24,10,0,2,0,8,5,5,4,18,21,DWWDWWDDWLWWLD,4,3,1,10,8,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWD,0
+Barnsley,Middlesbrough,2-1,/match/barnsley-fc/middlesbrough-fc/1992,1992,4,championship,24,10,0,2,1,20,4,2,9,15,24,WLLDWLDWWWLLWLW,3,0,5,8,13,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWL,0
+Port Vale,Derby County,1-0,/match/port-vale/derby-county-fc/1992,1992,4,championship,24,10,0,1,0,11,4,5,6,15,18,WWWDDLDWWDWWLDW,2,5,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWD,0
+Brighton Hove Alb.,Grimsby Town,3-0,/match/brighton-amp-hov/grimsby-town/1992,1992,4,championship,24,10,0,3,0,18,4,3,8,20,27,LWLDLDLWWWWDWLL,2,2,4,12,14,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLL,0
+Charlton Athletic,Swindon Town,0-0,/match/charlton-athletic-fc/swindon-town/1992,1992,4,championship,24,10,1,0,0,3,8,4,3,22,15,WDLDLWLWWLWWLDD,5,1,2,12,8,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWD,0
+Newcastle,Cambridge United,1-1,/match/newcastle-united-fc/cambridge-united/1992,1992,4,championship,24,10,1,1,1,15,3,5,6,22,27,WDWLDWLDWDWWWD,2,4,1,14,12,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWW,0
+Watford,Oxford United,2-0,/match/watford-fc/oxford-united/1992,1992,4,championship,24,10,0,2,0,22,5,1,8,15,18,LDLLLLWWWWWLLL,2,0,5,7,11,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLL,0
+Tranmere Rovers,Plymouth Argyle,1-0,/match/tranmere-rovers/plymouth-argyle/1992,1992,4,championship,24,10,0,1,0,14,3,7,3,18,17,LDDDWDWWDDWLD,2,3,1,11,10,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDL,0
+Wolves,Derby County,2-3,/match/wolverhampton/derby-county-fc/1992,1992,4,championship,24,10,2,2,3,12,5,4,4,18,17,LDDLWLWWLLDWD,2,2,2,8,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLD,0
+Watford,Leicester,0-1,/match/watford-fc/leicester-city-fc/1992,1992,4,championship,24,10,2,0,1,22,5,1,8,15,18,LDLLLLWWWWWLLL,2,0,5,7,11,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLL,0
+Southend United,Swindon Town,3-2,/match/southend-united/swindon-town/1992,1992,4,championship,24,10,0,3,2,13,5,4,5,17,17,DLLLWWWDLDLLDL,2,2,4,11,13,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDL,0
+Portsmouth,Oxford United,2-1,/match/portsmouth/oxford-united/1992,1992,4,championship,24,10,0,2,1,10,5,4,4,13,13,DWWWDWDWLWWWD,4,2,0,9,2,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWD,0
+Port Vale,Millwall,0-2,/match/port-vale/millwall-fc/1992,1992,4,championship,24,10,2,0,2,11,4,5,6,15,18,WWWDDLDWWDWWLDW,2,5,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWD,0
+Newcastle,Grimsby Town,2-0,/match/newcastle-united-fc/grimsby-town/1992,1992,4,championship,24,10,0,2,0,15,3,5,6,22,27,WDWLDWLDWDWWWD,2,4,1,14,12,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWW,0
+Ipswich Town,Cambridge United,1-2,/match/ipswich-town-fc/cambridge-united/1992,1992,4,championship,24,10,2,1,2,2,7,6,2,24,20,DWWLLWWDWLWDDDD,5,1,1,12,9,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWD,0
+Charlton Athletic,Blackburn Rovers,0-2,/match/charlton-athletic-fc/blackburn-rovers-fc/1992,1992,4,championship,24,10,2,0,2,3,8,4,3,22,15,WDLDLWLWWLWWLDD,5,1,2,12,8,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWD,0
+Bristol City,Sunderland,1-0,/match/bristol-city-fc/sunderland-afc/1992,1992,4,championship,24,10,0,1,0,8,5,5,4,18,21,DWWDWWDDWLWWLD,4,3,1,10,8,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWD,0
+Brighton Hove Alb.,Middlesbrough,1-1,/match/brighton-amp-hov/middlesbrough-fc/1992,1992,4,championship,24,10,1,1,1,18,4,3,8,20,27,LWLDLDLWWWWDWLL,2,2,4,12,14,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLL,0
+Barnsley,Bristol Rovers,0-1,/match/barnsley-fc/bristol-rovers/1992,1992,4,championship,24,10,2,0,1,20,4,2,9,15,24,WLLDWLDWWWLLWLW,3,0,5,8,13,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWL,0
+Derby County,Ipswich Town,1-0,/match/derby-county-fc/ipswich-town-fc/1992,1992,4,championship,24,10,0,1,0,7,7,4,3,22,14,DWLLLDDWWDWLWL,4,1,2,13,7,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWW,0
+Cambridge United,Brighton Hove Alb.,0-0,/match/cambridge-united/brighton-amp-hov/1992,1992,4,championship,24,10,1,0,0,4,9,1,3,26,16,LWLLLDWWWWWLW,5,1,1,15,6,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWW,0
+Bristol Rovers,Watford,1-1,/match/bristol-rovers/watford-fc/1992,1992,4,championship,24,10,1,1,1,23,2,4,7,14,21,DDLWLWWWWWWDD,2,2,2,10,10,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWD,0
+Blackburn Rovers,Barnsley,3-0,/match/blackburn-rovers-fc/barnsley-fc/1992,1992,4,championship,24,10,0,3,0,9,6,3,4,18,14,DWLLDWWWDLWWW,4,2,1,11,6,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWW,0
+Swindon Town,Portsmouth,2-3,/match/swindon-town/portsmouth/1992,1992,4,championship,24,10,2,2,3,5,8,2,3,30,16,DWWLDWWWWLLWL,5,1,1,15,8,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLW,0
+Millwall,Wolves,2-1,/match/millwall-fc/wolverhampton/1992,1992,4,championship,24,10,0,2,1,19,5,3,6,23,21,WWWLLDDWLLLDLL,2,0,4,10,11,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLL,0
+Oxford United,Bristol City,1-1,/match/oxford-united/bristol-city-fc/1992,1992,4,championship,24,10,1,1,1,21,4,1,10,22,29,WLWLWDWWWWWWLLL,3,1,4,12,12,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLL,0
+Plymouth Argyle,Port Vale,1-0,/match/plymouth-argyle/port-vale/1992,1992,4,championship,24,10,0,1,0,24,2,3,8,14,27,WWWDLWWDWLWDL,2,1,3,6,11,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLL,0
+Middlesbrough,Charlton Athletic,2-0,/match/middlesbrough-fc/charlton-athletic-fc/1992,1992,4,championship,24,10,0,2,0,1,9,2,4,20,11,WWWWWLLWWDWWDWW,7,1,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDW,0
+Sunderland,Newcastle,1-1,/match/sunderland-afc/newcastle-united-fc/1992,1992,4,championship,24,10,1,1,1,16,4,4,6,25,26,DLWWWDWLLWWWDD,2,3,1,10,7,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWD,0
+Newcastle,Southend United,3-2,/match/newcastle-united-fc/southend-united/1992,1992,4,championship,24,10,0,3,2,15,3,5,6,22,27,WDWLDWLDWDWWWD,2,4,1,14,12,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWW,0
+Leicester,Bristol Rovers,1-1,/match/leicester-city-fc/bristol-rovers/1992,1992,4,championship,24,10,1,1,1,6,8,1,5,20,19,DWLWWWWWWLWWLL,5,0,1,12,3,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLW,0
+Tranmere Rovers,Swindon Town,0-0,/match/tranmere-rovers/swindon-town/1992,1992,4,championship,24,10,1,0,0,14,3,7,3,18,17,LDDDWDWWDDWLD,2,3,1,11,10,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDL,0
+Grimsby Town,Millwall,1-1,/match/grimsby-town/millwall-fc/1992,1992,4,championship,24,10,1,1,1,17,5,2,6,19,22,LLDWLWDLLWLWW,2,2,3,11,12,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLW,0
+Bristol Rovers,Derby County,2-3,/match/bristol-rovers/derby-county-fc/1992,1992,4,championship,24,10,2,2,3,23,2,4,7,14,21,DDLWLWWWWWWDD,2,2,2,10,10,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWD,0
+Charlton Athletic,Cambridge United,1-2,/match/charlton-athletic-fc/cambridge-united/1992,1992,4,championship,24,10,2,1,2,3,8,4,3,22,15,WDLDLWLWWLWWLDD,5,1,2,12,8,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWD,0
+Leicester,Port Vale,0-1,/match/leicester-city-fc/port-vale/1992,1992,4,championship,24,10,2,0,1,6,8,1,5,20,19,DWLWWWWWWLWWLL,5,0,1,12,3,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLW,0
+Middlesbrough,Bristol City,3-1,/match/middlesbrough-fc/bristol-city-fc/1992,1992,4,championship,24,10,0,3,1,1,9,2,4,20,11,WWWWWLLWWDWWDWW,7,1,0,13,1,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDW,0
+Oxford United,Brighton Hove Alb.,3-1,/match/oxford-united/brighton-amp-hov/1992,1992,4,championship,24,10,0,3,1,21,4,1,10,22,29,WLWLWDWWWWWWLLL,3,1,4,12,12,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLL,0
+Plymouth Argyle,Sunderland,1-0,/match/plymouth-argyle/sunderland-afc/1992,1992,4,championship,24,10,0,1,0,24,2,3,8,14,27,WWWDLWWDWLWDL,2,1,3,6,11,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLL,0
+Southend United,Barnsley,2-1,/match/southend-united/barnsley-fc/1992,1992,4,championship,24,10,0,2,1,13,5,4,5,17,17,DLLLWWWDLDLLDL,2,2,4,11,13,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDL,0
+Watford,Portsmouth,2-1,/match/watford-fc/portsmouth/1992,1992,4,championship,24,10,0,2,1,22,5,1,8,15,18,LDLLLLWWWWWLLL,2,0,5,7,11,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLL,0
+Wolves,Ipswich Town,1-2,/match/wolverhampton/ipswich-town-fc/1992,1992,4,championship,24,10,2,1,2,12,5,4,4,18,17,LDDLWLWWLLDWD,2,2,2,8,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLD,0
+Newcastle,Blackburn Rovers,0-0,/match/newcastle-united-fc/blackburn-rovers-fc/1992,1992,4,championship,24,10,1,0,0,15,3,5,6,22,27,WDWLDWLDWDWWWD,2,4,1,14,12,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWW,0
+Wolves,Grimsby Town,2-1,/match/wolverhampton/grimsby-town/1992,1992,4,championship,24,10,0,2,1,12,5,4,4,18,17,LDDLWLWWLLDWD,2,2,2,8,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLD,0
+Barnsley,Newcastle,3-0,/match/barnsley-fc/newcastle-united-fc/1992,1992,4,championship,24,10,0,3,0,20,4,2,9,15,24,WLLDWLDWWWLLWLW,3,0,5,8,13,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWL,0
+Blackburn Rovers,Middlesbrough,2-1,/match/blackburn-rovers-fc/middlesbrough-fc/1992,1992,4,championship,24,10,0,2,1,9,6,3,4,18,14,DWLLDWWWDLWWW,4,2,1,11,6,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWW,0
+Brighton Hove Alb.,Plymouth Argyle,1-0,/match/brighton-amp-hov/plymouth-argyle/1992,1992,4,championship,24,10,0,1,0,18,4,3,8,20,27,LWLDLDLWWWWDWLL,2,2,4,12,14,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLL,0
+Bristol City,Charlton Athletic,0-2,/match/bristol-city-fc/charlton-athletic-fc/1992,1992,4,championship,24,10,2,0,2,8,5,5,4,18,21,DWWDWWDDWLWWLD,4,3,1,10,8,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWD,0
+Cambridge United,Oxford United,1-1,/match/cambridge-united/oxford-united/1992,1992,4,championship,24,10,1,1,1,4,9,1,3,26,16,LWLLLDWWWWWLW,5,1,1,15,6,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWW,0
+Derby County,Leicester,1-2,/match/derby-county-fc/leicester-city-fc/1992,1992,4,championship,24,10,2,1,2,7,7,4,3,22,14,DWLLLDDWWDWLWL,4,1,2,13,7,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWW,0
+Ipswich Town,Tranmere Rovers,4-0,/match/ipswich-town-fc/tranmere-rovers/1992,1992,4,championship,24,10,0,4,0,2,7,6,2,24,20,DWWLLWWDWLWDDDD,5,1,1,12,9,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWD,0
+Millwall,Bristol Rovers,0-1,/match/millwall-fc/bristol-rovers/1992,1992,4,championship,24,10,2,0,1,19,5,3,6,23,21,WWWLLDDWLLLDLL,2,0,4,10,11,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLL,0
+Port Vale,Watford,2-1,/match/port-vale/watford-fc/1992,1992,4,championship,24,10,0,2,1,11,4,5,6,15,18,WWWDDLDWWDWWLDW,2,5,0,9,7,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWD,0
+Portsmouth,Wolves,1-0,/match/portsmouth/wolverhampton/1992,1992,4,championship,24,10,0,1,0,10,5,4,4,13,13,DWWWDWDWLWWWD,4,2,0,9,2,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWD,0
+Sunderland,Southend United,1-2,/match/sunderland-afc/southend-united/1992,1992,4,championship,24,10,2,1,2,16,4,4,6,25,26,DLWWWDWLLWWWDD,2,3,1,10,7,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWD,0
+Swindon Town,Grimsby Town,1-1,/match/swindon-town/grimsby-town/1992,1992,4,championship,24,10,1,1,1,5,8,2,3,30,16,DWWLDWWWWLLWL,5,1,1,15,8,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLW,0
+Watford,Derby County,1-2,/match/watford-fc/derby-county-fc/1992,1992,5,championship,24,10,2,1,2,22,7,2,11,22,26,LDLLLLWWWWWLLLWWLDWW,4,0,6,11,13,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLW,0
+Wolves,Sunderland,1-0,/match/wolverhampton/sunderland-afc/1992,1992,5,championship,24,10,0,1,0,21,6,4,10,26,30,LDDLWLWWLLDWDWLLWLWW,3,2,5,15,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLW,0
+Bristol Rovers,Cambridge United,2-2,/match/bristol-rovers/cambridge-united/1992,1992,5,championship,24,10,1,2,2,20,5,7,8,26,31,DDLWLWWWWWWDDDLLDDLL,2,4,3,16,17,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDL,0
 Charlton Athletic,Barnsley,1-1,/match/charlton-athletic-fc/barnsley-fc/1992,1992,5,championship,24,10,1,1,1,11,9,5,7,25,22,WDLDLWLWWLWWLDDWDLWLL,5,2,4,13,12,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLL,0
 Grimsby Town,Bristol City,3-1,/match/grimsby-town/bristol-city-fc/1992,1992,5,championship,24,10,0,3,1,19,6,4,9,23,31,LLDWLWDLLWLWWWWWDWD,3,3,3,13,13,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWD,0
-Leicester,Millwall,1-1,/match/leicester-city-fc/millwall-fc/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Port Vale,2-2,/match/newcastle-united-fc/port-vale/1992,1992,5,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Blackburn Rovers,1-3,/match/oxford-united/blackburn-rovers-fc/1992,1992,5,championship,24,10,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Ipswich Town,1-0,/match/plymouth-argyle/ipswich-town-fc/1992,1992,5,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Brighton Hove Alb.,2-1,/match/southend-united/brighton-amp-hov/1992,1992,5,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Leicester,Millwall,1-1,/match/leicester-city-fc/millwall-fc/1992,1992,5,championship,24,10,1,1,1,10,10,3,7,26,25,DWLWWWWWWLWWLLDWLDLL,5,2,2,15,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDL,0
+Newcastle,Port Vale,2-2,/match/newcastle-united-fc/port-vale/1992,1992,5,championship,24,10,1,2,2,14,5,8,8,30,36,WDWLDWLDWDWWWDWDWDWDW,4,6,1,20,15,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWD,0
+Oxford United,Blackburn Rovers,1-3,/match/oxford-united/blackburn-rovers-fc/1992,1992,5,championship,24,10,2,1,3,24,5,3,13,28,37,WLWLWDWWWWWWLLLLWWDWD,4,2,5,16,15,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDW,0
+Plymouth Argyle,Ipswich Town,1-0,/match/plymouth-argyle/ipswich-town-fc/1992,1992,5,championship,24,10,0,1,0,23,5,3,11,17,31,WWWDLWWDWLWDLWWWWWW,5,1,3,9,11,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWW,0
+Southend United,Brighton Hove Alb.,2-1,/match/southend-united/brighton-amp-hov/1992,1992,5,championship,24,10,0,2,1,8,9,5,6,30,25,DLLLWWWDLDLLDLDWWWWL,5,2,4,19,16,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWW,0
 Middlesbrough,Swindon Town,2-2,/match/middlesbrough-fc/swindon-town/1992,1992,5,championship,24,10,1,2,2,1,11,4,6,29,18,WWWWWLLWWDWWDWWDWDWWW,9,2,0,19,3,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWW,0
-Port Vale,Tranmere Rovers,1-1,/match/port-vale/tranmere-rovers/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,13,6,8,4,22,22,LDDDWDWWDDWLDLWWDW,2,4,3,8,11,0,LDDWDWDLW
+Port Vale,Tranmere Rovers,1-1,/match/port-vale/tranmere-rovers/1992,1992,5,championship,24,10,1,1,1,12,7,6,8,22,25,WWWDDLDWWDWWLDWDWLWLW,4,5,1,12,10,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLW,0
 Blackburn Rovers,Bristol Rovers,3-0,/match/blackburn-rovers-fc/bristol-rovers/1992,1992,5,championship,24,10,0,3,0,3,10,4,5,26,18,DWLLDWWWDLWWWWWLWDW,7,2,1,17,7,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWW,0
-Barnsley,Grimsby Town,4-1,/match/barnsley-fc/grimsby-town/1992,1992,5,championship,24,10,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Newcastle,2-2,/match/brighton-amp-hov/newcastle-united-fc/1992,1992,5,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Southend United,1-1,/match/portsmouth/southend-united/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Leicester,1-0,/match/sunderland-afc/leicester-city-fc/1992,1992,5,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,3,7,26,25,DWLWWWWWWLWWLLDWLDLL,5,1,5,11,18,0,DLWWWWLLWLL
+Barnsley,Grimsby Town,4-1,/match/barnsley-fc/grimsby-town/1992,1992,5,championship,24,10,0,4,1,18,7,2,12,22,31,WLLDWLDWWWLLWLWLWLWWW,5,0,6,13,15,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLW,0
+Brighton Hove Alb.,Newcastle,2-2,/match/brighton-amp-hov/newcastle-united-fc/1992,1992,5,championship,24,10,1,2,2,15,6,5,10,26,32,LWLDLDLWWWWDWLLWWDDWW,4,3,4,17,15,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDW,0
+Portsmouth,Southend United,1-1,/match/portsmouth/southend-united/1992,1992,5,championship,24,10,1,1,1,4,9,5,5,22,19,DWWWDWDWLWWWDDWWLWW,7,2,0,13,3,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWW,0
+Sunderland,Leicester,1-0,/match/sunderland-afc/leicester-city-fc/1992,1992,5,championship,24,10,0,1,0,16,6,5,9,31,32,DLWWWDWLLWWWDDWLWDWL,3,4,2,15,11,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDL,0
 Swindon Town,Ipswich Town,0-0,/match/swindon-town/ipswich-town-fc/1992,1992,5,championship,24,10,1,0,0,6,9,5,5,37,24,DWWLDWWWWLLWLWDWLDD,6,2,2,20,13,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLD,0
-Plymouth Argyle,Newcastle,2-0,/match/plymouth-argyle/newcastle-united-fc/1992,1992,5,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Portsmouth,1-0,/match/sunderland-afc/portsmouth/1992,1992,5,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,9,5,5,22,19,DWWWDWDWLWWWDDWWLWW,2,3,5,9,16,0,DWWDLWWDLW
-Port Vale,Wolves,1-1,/match/port-vale/wolverhampton/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,21,6,4,10,26,30,LDDLWLWWLLDWDWLLWLWW,3,2,5,11,13,0,LDLWLDWWWW
-Bristol Rovers,Bristol City,3-2,/match/bristol-rovers/bristol-city-fc/1992,1992,5,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Millwall,3-4,/match/brighton-amp-hov/millwall-fc/1992,1992,5,championship,24,10,2,3,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Cambridge United,1-1,/match/southend-united/cambridge-united/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Barnsley,1-1,/match/watford-fc/barnsley-fc/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Blackburn Rovers,0-0,/match/wolverhampton/blackburn-rovers-fc/1992,1992,5,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Port Vale,0-0,/match/barnsley-fc/port-vale/1992,1992,5,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Swindon Town,1-1,/match/bristol-city-fc/swindon-town/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Plymouth Argyle,1-1,/match/cambridge-united/plymouth-argyle/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Grimsby Town,0-0,/match/derby-county-fc/grimsby-town/1992,1992,5,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Charlton Athletic,2-0,/match/ipswich-town-fc/charlton-athletic-fc/1992,1992,5,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Watford,0-4,/match/millwall-fc/watford-fc/1992,1992,5,championship,24,10,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Middlesbrough,0-1,/match/newcastle-united-fc/middlesbrough-fc/1992,1992,5,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Southend United,0-1,/match/oxford-united/southend-united/1992,1992,5,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Bristol Rovers,2-0,/match/portsmouth/bristol-rovers/1992,1992,5,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Sunderland,1-0,/match/tranmere-rovers/sunderland-afc/1992,1992,5,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Brighton Hove Alb.,2-1,/match/leicester-city-fc/brighton-amp-hov/1992,1992,5,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Sunderland,3-0,/match/oxford-united/sunderland-afc/1992,1992,5,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Swindon Town,1-1,/match/barnsley-fc/swindon-town/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Port Vale,3-0,/match/bristol-city-fc/port-vale/1992,1992,5,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Charlton Athletic,1-2,/match/derby-county-fc/charlton-athletic-fc/1992,1992,5,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Blackburn Rovers,2-1,/match/ipswich-town-fc/blackburn-rovers-fc/1992,1992,5,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Southend United,2-0,/match/leicester-city-fc/southend-united/1992,1992,5,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Plymouth Argyle,2-1,/match/millwall-fc/plymouth-argyle/1992,1992,5,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Bristol Rovers,2-1,/match/newcastle-united-fc/bristol-rovers/1992,1992,5,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Middlesbrough,4-0,/match/portsmouth/middlesbrough-fc/1992,1992,5,championship,24,10,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Grimsby Town,1-1,/match/tranmere-rovers/grimsby-town/1992,1992,5,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Brighton Hove Alb.,2-0,/match/wolverhampton/brighton-amp-hov/1992,1992,5,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Watford,0-1,/match/cambridge-united/watford-fc/1992,1992,5,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Millwall,3-1,/match/swindon-town/millwall-fc/1992,1992,6,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Tranmere Rovers,0-0,/match/watford-fc/tranmere-rovers/1992,1992,6,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Cambridge United,2-1,/match/blackburn-rovers-fc/cambridge-united/1992,1992,6,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Bristol City,0-0,/match/brighton-amp-hov/bristol-city-fc/1992,1992,6,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Leicester,1-1,/match/bristol-rovers/leicester-city-fc/1992,1992,6,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Wolves,0-2,/match/grimsby-town/wolverhampton/1992,1992,6,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Derby County,1-1,/match/middlesbrough-fc/derby-county-fc/1992,1992,6,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Portsmouth,3-2,/match/plymouth-argyle/portsmouth/1992,1992,6,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Ipswich Town,1-2,/match/port-vale/ipswich-town-fc/1992,1992,6,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Newcastle,4-0,/match/southend-united/newcastle-united-fc/1992,1992,6,championship,24,10,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Barnsley,2-0,/match/sunderland-afc/barnsley-fc/1992,1992,6,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Oxford United,2-2,/match/charlton-athletic-fc/oxford-united/1992,1992,6,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Bristol City,4-0,/match/blackburn-rovers-fc/bristol-city-fc/1992,1992,6,championship,24,10,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Barnsley,3-1,/match/brighton-amp-hov/barnsley-fc/1992,1992,6,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Tranmere Rovers,1-0,/match/bristol-rovers/tranmere-rovers/1992,1992,6,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Oxford United,1-0,/match/grimsby-town/oxford-united/1992,1992,6,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Ipswich Town,1-0,/match/middlesbrough-fc/ipswich-town-fc/1992,1992,6,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Portsmouth,0-2,/match/port-vale/portsmouth/1992,1992,6,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Derby County,1-0,/match/southend-united/derby-county-fc/1992,1992,6,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Millwall,6-2,/match/sunderland-afc/millwall-fc/1992,1992,6,championship,24,10,0,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Cambridge United,0-2,/match/swindon-town/cambridge-united/1992,1992,6,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Newcastle,2-2,/match/watford-fc/newcastle-united-fc/1992,1992,6,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Leicester,2-2,/match/plymouth-argyle/leicester-city-fc/1992,1992,6,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Wolves,0-2,/match/charlton-athletic-fc/wolverhampton/1992,1992,6,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Brighton Hove Alb.,1-1,/match/tranmere-rovers/brighton-amp-hov/1992,1992,6,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,22,6,6,14,33,44,LWLDLDLWWWWDWLLWWDDWWWDLWW,2,2,9,11,23,0,WLLDWWWWDWWWW
-Newcastle,Charlton Athletic,3-4,/match/newcastle-united-fc/charlton-athletic-fc/1992,1992,6,championship,24,10,2,3,4,11,6,10,10,36,44,WDWLDWLDWDWWWDWDWDWDWDDWLW,5,7,2,24,19,13,10,6,8,28,26,WDLDLWLWWLWWLDDWDLWLLDWL,5,3,4,14,13,DDLDDWWDWWDDLW,DDLWLLDWWLWL
-Barnsley,Plymouth Argyle,1-3,/match/barnsley-fc/plymouth-argyle/1992,1992,6,championship,24,10,2,1,3,15,8,6,12,29,35,WLLDWLDWWWLLWLWLWLWWWDWDDD,6,2,6,18,17,19,7,4,12,22,34,WWWDLWWDWLWDLWWWWWWWWDW,0,3,9,10,23,LLLWWLWLWLWWDD,WDWWWWDWWWDW
-Bristol City,Southend United,2-2,/match/bristol-city-fc/southend-united/1992,1992,6,championship,24,10,1,2,2,9,8,8,8,30,34,DWWDWWDDWLWWLDDWWDWLWWDW,7,4,2,17,11,7,11,7,7,35,30,DLLLWWWDLDLLDLDWWWWLWDDLW,5,4,3,13,12,WWWDDLWDWWLDW,LLWDDLDWLDLW
-Cambridge United,Grimsby Town,0-1,/match/cambridge-united/grimsby-town/1992,1992,6,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,20,7,6,10,28,37,LLDWLWDLLWLWWWWWDWDWWDD,3,3,7,12,23,0,LWLLWWWWWDWDD
-Derby County,Sunderland,1-2,/match/derby-county-fc/sunderland-afc/1992,1992,6,championship,24,10,2,1,2,14,11,5,7,33,25,DWLLLDDWWDWLWLLWLWLLLDL,5,2,5,16,12,16,8,5,12,33,37,DLWWWDWLLWWWDDWLWDWLWWWWW,3,1,10,16,26,WLLDWWWLWLDL,LWWWLWWDLWWWWW
-Ipswich Town,Bristol Rovers,1-0,/match/ipswich-town-fc/bristol-rovers/1992,1992,6,championship,24,10,0,1,0,4,11,8,6,37,29,DWWLLWWDWLWDDDDDLLWLWWDWW,8,1,3,21,13,21,6,8,11,32,42,DDLWLWWWWWWDDDLLDDLLDWWWW,3,3,8,11,21,WWLWWWDLLWWW,DWWWWWDLLDLWWW
-Leicester,Swindon Town,3-1,/match/leicester-city-fc/swindon-town/1992,1992,6,championship,24,10,0,3,1,5,12,4,8,31,28,DWLWWWWWWLWWLLDWLDLLDWWW,7,3,2,20,9,8,9,9,5,41,28,DWWLDWWWWLLWLWDWLDDDDDD,3,6,3,21,15,WWWWLWDDLDWW,WLDWLLDWDDDD
-Millwall,Middlesbrough,2-0,/match/millwall-fc/middlesbrough-fc/1992,1992,6,championship,24,10,0,2,0,18,9,6,9,37,36,WWWLLDDWLLLDLLDWLWDLDLLW,4,1,6,15,19,1,12,5,7,32,24,WWWWWLLWWDWWDWWDWDWWWDLW,3,2,7,11,19,WLLWLLDWLLW,WWLLDWWWDWLW
-Oxford United,Port Vale,2-2,/match/oxford-united/port-vale/1992,1992,6,championship,24,10,1,2,2,24,6,3,15,32,41,WLWLWDWWWWWWLLLLWWDWDLLW,5,2,7,20,19,10,7,10,9,26,32,WWWDDLDWWDWWLDWDWLWLWDDDDW,3,3,8,12,20,LLDWWWLLLDWLLW,WWLWWWLWDWLDDW
-Portsmouth,Blackburn Rovers,2-2,/match/portsmouth/blackburn-rovers-fc/1992,1992,6,championship,24,10,1,2,2,2,11,6,6,29,21,DWWWDWDWLWWWDDWWLWWDWWW,9,3,0,20,4,3,12,5,6,33,21,DWLLDWWWDLWWWWWLWDWLWDW,4,3,5,13,14,WWDWWDWWWDWW,WLDWLWWLDLDW
+Plymouth Argyle,Newcastle,2-0,/match/plymouth-argyle/newcastle-united-fc/1992,1992,5,championship,24,10,0,2,0,23,5,3,11,17,31,WWWDLWWDWLWDLWWWWWW,5,1,3,9,11,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWW,0
+Sunderland,Portsmouth,1-0,/match/sunderland-afc/portsmouth/1992,1992,5,championship,24,10,0,1,0,16,6,5,9,31,32,DLWWWDWLLWWWDDWLWDWL,3,4,2,15,11,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDL,0
+Port Vale,Wolves,1-1,/match/port-vale/wolverhampton/1992,1992,5,championship,24,10,1,1,1,12,7,6,8,22,25,WWWDDLDWWDWWLDWDWLWLW,4,5,1,12,10,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLW,0
+Bristol Rovers,Bristol City,3-2,/match/bristol-rovers/bristol-city-fc/1992,1992,5,championship,24,10,0,3,2,20,5,7,8,26,31,DDLWLWWWWWWDDDLLDDLL,2,4,3,16,17,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDL,0
+Brighton Hove Alb.,Millwall,3-4,/match/brighton-amp-hov/millwall-fc/1992,1992,5,championship,24,10,2,3,4,15,6,5,10,26,32,LWLDLDLWWWWDWLLWWDDWW,4,3,4,17,15,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDW,0
+Southend United,Cambridge United,1-1,/match/southend-united/cambridge-united/1992,1992,5,championship,24,10,1,1,1,8,9,5,6,30,25,DLLLWWWDLDLLDLDWWWWL,5,2,4,19,16,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWW,0
+Watford,Barnsley,1-1,/match/watford-fc/barnsley-fc/1992,1992,5,championship,24,10,1,1,1,22,7,2,11,22,26,LDLLLLWWWWWLLLWWLDWW,4,0,6,11,13,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLW,0
+Wolves,Blackburn Rovers,0-0,/match/wolverhampton/blackburn-rovers-fc/1992,1992,5,championship,24,10,1,0,0,21,6,4,10,26,30,LDDLWLWWLLDWDWLLWLWW,3,2,5,15,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLW,0
+Barnsley,Port Vale,0-0,/match/barnsley-fc/port-vale/1992,1992,5,championship,24,10,1,0,0,18,7,2,12,22,31,WLLDWLDWWWLLWLWLWLWWW,5,0,6,13,15,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLW,0
+Bristol City,Swindon Town,1-1,/match/bristol-city-fc/swindon-town/1992,1992,5,championship,24,10,1,1,1,7,7,7,6,23,27,DWWDWWDDWLWWLDDWWDWL,6,3,2,13,10,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWL,0
+Cambridge United,Plymouth Argyle,1-1,/match/cambridge-united/plymouth-argyle/1992,1992,5,championship,24,10,1,1,1,2,11,5,3,32,20,LWLLLDWWWWWLWDDLDLD,5,4,1,16,7,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDD,0
+Derby County,Grimsby Town,0-0,/match/derby-county-fc/grimsby-town/1992,1992,5,championship,24,10,1,0,0,9,10,4,6,30,22,DWLLLDDWWDWLWLLWLWLL,5,1,4,15,10,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWL,0
+Ipswich Town,Charlton Athletic,2-0,/match/ipswich-town-fc/charlton-athletic-fc/1992,1992,5,championship,24,10,0,2,0,5,9,7,5,33,27,DWWLLWWDWLWDDDDDLLWLW,6,1,3,17,12,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLW,0
+Millwall,Watford,0-4,/match/millwall-fc/watford-fc/1992,1992,5,championship,24,10,2,0,4,17,7,5,8,30,27,WWWLLDDWLLLDLLDWLWDL,3,1,5,13,14,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWL,0
+Newcastle,Middlesbrough,0-1,/match/newcastle-united-fc/middlesbrough-fc/1992,1992,5,championship,24,10,2,0,1,14,5,8,8,30,36,WDWLDWLDWDWWWDWDWDWDW,4,6,1,20,15,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWD,0
+Oxford United,Southend United,0-1,/match/oxford-united/southend-united/1992,1992,5,championship,24,10,2,0,1,24,5,3,13,28,37,WLWLWDWWWWWWLLLLWWDWD,4,2,5,16,15,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDW,0
+Portsmouth,Bristol Rovers,2-0,/match/portsmouth/bristol-rovers/1992,1992,5,championship,24,10,0,2,0,4,9,5,5,22,19,DWWWDWDWLWWWDDWWLWW,7,2,0,13,3,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWW,0
+Tranmere Rovers,Sunderland,1-0,/match/tranmere-rovers/sunderland-afc/1992,1992,5,championship,24,10,0,1,0,13,6,8,4,22,22,LDDDWDWWDDWLDLWWDW,4,4,1,14,11,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWD,0
+Leicester,Brighton Hove Alb.,2-1,/match/leicester-city-fc/brighton-amp-hov/1992,1992,5,championship,24,10,0,2,1,10,10,3,7,26,25,DWLWWWWWWLWWLLDWLDLL,5,2,2,15,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDL,0
+Oxford United,Sunderland,3-0,/match/oxford-united/sunderland-afc/1992,1992,5,championship,24,10,0,3,0,24,5,3,13,28,37,WLWLWDWWWWWWLLLLWWDWD,4,2,5,16,15,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDW,0
+Barnsley,Swindon Town,1-1,/match/barnsley-fc/swindon-town/1992,1992,5,championship,24,10,1,1,1,18,7,2,12,22,31,WLLDWLDWWWLLWLWLWLWWW,5,0,6,13,15,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLW,0
+Bristol City,Port Vale,3-0,/match/bristol-city-fc/port-vale/1992,1992,5,championship,24,10,0,3,0,7,7,7,6,23,27,DWWDWWDDWLWWLDDWWDWL,6,3,2,13,10,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWL,0
+Derby County,Charlton Athletic,1-2,/match/derby-county-fc/charlton-athletic-fc/1992,1992,5,championship,24,10,2,1,2,9,10,4,6,30,22,DWLLLDDWWDWLWLLWLWLL,5,1,4,15,10,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWL,0
+Ipswich Town,Blackburn Rovers,2-1,/match/ipswich-town-fc/blackburn-rovers-fc/1992,1992,5,championship,24,10,0,2,1,5,9,7,5,33,27,DWWLLWWDWLWDDDDDLLWLW,6,1,3,17,12,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLW,0
+Leicester,Southend United,2-0,/match/leicester-city-fc/southend-united/1992,1992,5,championship,24,10,0,2,0,10,10,3,7,26,25,DWLWWWWWWLWWLLDWLDLL,5,2,2,15,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDL,0
+Millwall,Plymouth Argyle,2-1,/match/millwall-fc/plymouth-argyle/1992,1992,5,championship,24,10,0,2,1,17,7,5,8,30,27,WWWLLDDWLLLDLLDWLWDL,3,1,5,13,14,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWL,0
+Newcastle,Bristol Rovers,2-1,/match/newcastle-united-fc/bristol-rovers/1992,1992,5,championship,24,10,0,2,1,14,5,8,8,30,36,WDWLDWLDWDWWWDWDWDWDW,4,6,1,20,15,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWD,0
+Portsmouth,Middlesbrough,4-0,/match/portsmouth/middlesbrough-fc/1992,1992,5,championship,24,10,0,4,0,4,9,5,5,22,19,DWWWDWDWLWWWDDWWLWW,7,2,0,13,3,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWW,0
+Tranmere Rovers,Grimsby Town,1-1,/match/tranmere-rovers/grimsby-town/1992,1992,5,championship,24,10,1,1,1,13,6,8,4,22,22,LDDDWDWWDDWLDLWWDW,4,4,1,14,11,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWD,0
+Wolves,Brighton Hove Alb.,2-0,/match/wolverhampton/brighton-amp-hov/1992,1992,5,championship,24,10,0,2,0,21,6,4,10,26,30,LDDLWLWWLLDWDWLLWLWW,3,2,5,15,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLW,0
+Cambridge United,Watford,0-1,/match/cambridge-united/watford-fc/1992,1992,5,championship,24,10,2,0,1,2,11,5,3,32,20,LWLLLDWWWWWLWDDLDLD,5,4,1,16,7,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDD,0
+Swindon Town,Millwall,3-1,/match/swindon-town/millwall-fc/1992,1992,6,championship,24,10,0,3,1,8,9,9,5,41,28,DWWLDWWWWLLWLWDWLDDDDDD,6,3,2,20,13,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDD,0
+Watford,Tranmere Rovers,0-0,/match/watford-fc/tranmere-rovers/1992,1992,6,championship,24,10,1,0,0,23,9,3,12,29,29,LDLLLLWWWWWLLLWWLDWWLDLL,4,1,7,13,16,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLD,0
+Blackburn Rovers,Cambridge United,2-1,/match/blackburn-rovers-fc/cambridge-united/1992,1992,6,championship,24,10,0,2,1,3,12,5,6,33,21,DWLLDWWWDLWWWWWLWDWLWDW,8,2,1,20,7,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWW,0
+Brighton Hove Alb.,Bristol City,0-0,/match/brighton-amp-hov/bristol-city-fc/1992,1992,6,championship,24,10,1,0,0,22,6,6,14,33,44,LWLDLDLWWWWDWLLWWDDWWWDLWW,4,4,5,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDL,0
+Bristol Rovers,Leicester,1-1,/match/bristol-rovers/leicester-city-fc/1992,1992,6,championship,24,10,1,1,1,21,6,8,11,32,42,DDLWLWWWWWWDDDLLDDLLDWWWW,3,5,3,21,21,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDW,0
+Grimsby Town,Wolves,0-2,/match/grimsby-town/wolverhampton/1992,1992,6,championship,24,10,2,0,2,20,7,6,10,28,37,LLDWLWDLLWLWWWWWDWDWWDD,4,3,3,16,14,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDW,0
+Middlesbrough,Derby County,1-1,/match/middlesbrough-fc/derby-county-fc/1992,1992,6,championship,24,10,1,1,1,1,12,5,7,32,24,WWWWWLLWWDWWDWWDWDWWWDLW,9,3,0,21,5,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWD,0
+Plymouth Argyle,Portsmouth,3-2,/match/plymouth-argyle/portsmouth/1992,1992,6,championship,24,10,0,3,2,19,7,4,12,22,34,WWWDLWWDWLWDLWWWWWWWWDW,7,1,3,12,11,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWW,0
+Port Vale,Ipswich Town,1-2,/match/port-vale/ipswich-town-fc/1992,1992,6,championship,24,10,2,1,2,10,7,10,9,26,32,WWWDDLDWWDWWLDWDWLWLWDDDDW,4,7,1,14,12,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDD,0
+Southend United,Newcastle,4-0,/match/southend-united/newcastle-united-fc/1992,1992,6,championship,24,10,0,4,0,7,11,7,7,35,30,DLLLWWWDLDLLDLDWWWWLWDDLW,6,3,4,22,18,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWD,0
+Sunderland,Barnsley,2-0,/match/sunderland-afc/barnsley-fc/1992,1992,6,championship,24,10,0,2,0,16,8,5,12,33,37,DLWWWDWLLWWWDDWLWDWLWWWWW,5,4,2,17,11,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWW,0
+Charlton Athletic,Oxford United,2-2,/match/charlton-athletic-fc/oxford-united/1992,1992,6,championship,24,10,1,2,2,13,10,6,8,28,26,WDLDLWLWWLWWLDDWDLWLLDWL,5,3,4,14,13,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLD,0
+Blackburn Rovers,Bristol City,4-0,/match/blackburn-rovers-fc/bristol-city-fc/1992,1992,6,championship,24,10,0,4,0,3,12,5,6,33,21,DWLLDWWWDLWWWWWLWDWLWDW,8,2,1,20,7,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWW,0
+Brighton Hove Alb.,Barnsley,3-1,/match/brighton-amp-hov/barnsley-fc/1992,1992,6,championship,24,10,0,3,1,22,6,6,14,33,44,LWLDLDLWWWWDWLLWWDDWWWDLWW,4,4,5,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDL,0
+Bristol Rovers,Tranmere Rovers,1-0,/match/bristol-rovers/tranmere-rovers/1992,1992,6,championship,24,10,0,1,0,21,6,8,11,32,42,DDLWLWWWWWWDDDLLDDLLDWWWW,3,5,3,21,21,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDW,0
+Grimsby Town,Oxford United,1-0,/match/grimsby-town/oxford-united/1992,1992,6,championship,24,10,0,1,0,20,7,6,10,28,37,LLDWLWDLLWLWWWWWDWDWWDD,4,3,3,16,14,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDW,0
+Middlesbrough,Ipswich Town,1-0,/match/middlesbrough-fc/ipswich-town-fc/1992,1992,6,championship,24,10,0,1,0,1,12,5,7,32,24,WWWWWLLWWDWWDWWDWDWWWDLW,9,3,0,21,5,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWD,0
+Port Vale,Portsmouth,0-2,/match/port-vale/portsmouth/1992,1992,6,championship,24,10,2,0,2,10,7,10,9,26,32,WWWDDLDWWDWWLDWDWLWLWDDDDW,4,7,1,14,12,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDD,0
+Southend United,Derby County,1-0,/match/southend-united/derby-county-fc/1992,1992,6,championship,24,10,0,1,0,7,11,7,7,35,30,DLLLWWWDLDLLDLDWWWWLWDDLW,6,3,4,22,18,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWD,0
+Sunderland,Millwall,6-2,/match/sunderland-afc/millwall-fc/1992,1992,6,championship,24,10,0,6,2,16,8,5,12,33,37,DLWWWDWLLWWWDDWLWDWLWWWWW,5,4,2,17,11,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWW,0
+Swindon Town,Cambridge United,0-2,/match/swindon-town/cambridge-united/1992,1992,6,championship,24,10,2,0,2,8,9,9,5,41,28,DWWLDWWWWLLWLWDWLDDDDDD,6,3,2,20,13,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDD,0
+Watford,Newcastle,2-2,/match/watford-fc/newcastle-united-fc/1992,1992,6,championship,24,10,1,2,2,23,9,3,12,29,29,LDLLLLWWWWWLLLWWLDWWLDLL,4,1,7,13,16,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLD,0
+Plymouth Argyle,Leicester,2-2,/match/plymouth-argyle/leicester-city-fc/1992,1992,6,championship,24,10,1,2,2,19,7,4,12,22,34,WWWDLWWDWLWDLWWWWWWWWDW,7,1,3,12,11,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWW,0
+Charlton Athletic,Wolves,0-2,/match/charlton-athletic-fc/wolverhampton/1992,1992,6,championship,24,10,2,0,2,13,10,6,8,28,26,WDLDLWLWWLWWLDDWDLWLLDWL,5,3,4,14,13,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLD,0
+Tranmere Rovers,Brighton Hove Alb.,1-1,/match/tranmere-rovers/brighton-amp-hov/1992,1992,6,championship,24,10,1,1,1,12,7,10,4,25,24,LDDDWDWWDDWLDLWWDWDWD,5,5,1,16,12,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWD,0
+Newcastle,Charlton Athletic,3-4,/match/newcastle-united-fc/charlton-athletic-fc/1992,1992,6,championship,24,10,2,3,4,11,6,10,10,36,44,WDWLDWLDWDWWWDWDWDWDWDDWLW,5,7,2,24,19,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLW,0
+Barnsley,Plymouth Argyle,1-3,/match/barnsley-fc/plymouth-argyle/1992,1992,6,championship,24,10,2,1,3,15,8,6,12,29,35,WLLDWLDWWWLLWLWLWLWWWDWDDD,6,2,6,18,17,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDD,0
+Bristol City,Southend United,2-2,/match/bristol-city-fc/southend-united/1992,1992,6,championship,24,10,1,2,2,9,8,8,8,30,34,DWWDWWDDWLWWLDDWWDWLWWDW,7,4,2,17,11,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDW,0
+Cambridge United,Grimsby Town,0-1,/match/cambridge-united/grimsby-town/1992,1992,6,championship,24,10,2,0,1,6,11,8,4,36,25,LWLLLDWWWWWLWDDLDLDDDDL,5,5,2,17,9,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDL,0
+Derby County,Sunderland,1-2,/match/derby-county-fc/sunderland-afc/1992,1992,6,championship,24,10,2,1,2,14,11,5,7,33,25,DWLLLDDWWDWLWLLWLWLLLDL,5,2,5,16,12,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDL,0
+Ipswich Town,Bristol Rovers,1-0,/match/ipswich-town-fc/bristol-rovers/1992,1992,6,championship,24,10,0,1,0,4,11,8,6,37,29,DWWLLWWDWLWDDDDDLLWLWWDWW,8,1,3,21,13,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWW,0
+Leicester,Swindon Town,3-1,/match/leicester-city-fc/swindon-town/1992,1992,6,championship,24,10,0,3,1,5,12,4,8,31,28,DWLWWWWWWLWWLLDWLDLLDWWW,7,3,2,20,9,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWW,0
+Millwall,Middlesbrough,2-0,/match/millwall-fc/middlesbrough-fc/1992,1992,6,championship,24,10,0,2,0,18,9,6,9,37,36,WWWLLDDWLLLDLLDWLWDLDLLW,4,1,6,15,19,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLW,0
+Oxford United,Port Vale,2-2,/match/oxford-united/port-vale/1992,1992,6,championship,24,10,1,2,2,24,6,3,15,32,41,WLWLWDWWWWWWLLLLWWDWDLLW,5,2,7,20,19,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLW,0
+Portsmouth,Blackburn Rovers,2-2,/match/portsmouth/blackburn-rovers-fc/1992,1992,6,championship,24,10,1,2,2,2,11,6,6,29,21,DWWWDWDWLWWWDDWWLWWDWWW,9,3,0,20,4,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWW,0
 Wolves,Watford,3-0,/match/wolverhampton/watford-fc/1992,1992,6,championship,24,10,0,3,0,17,8,6,10,30,31,LDDLWLWWLLDWDWLLWLWWWDDW,5,3,5,18,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDW,0
-Tranmere Rovers,Watford,1-1,/match/tranmere-rovers/watford-fc/1992,1992,6,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Oxford United,2-1,/match/swindon-town/oxford-united/1992,1992,6,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Portsmouth,1-0,/match/bristol-rovers/portsmouth/1992,1992,6,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Tranmere Rovers,0-0,/match/cambridge-united/tranmere-rovers/1992,1992,6,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Port Vale,1-1,/match/sunderland-afc/port-vale/1992,1992,7,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Leicester,1-0,/match/wolverhampton/leicester-city-fc/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Swindon Town,2-1,/match/blackburn-rovers-fc/swindon-town/1992,1992,7,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Charlton Athletic,1-2,/match/brighton-amp-hov/charlton-athletic-fc/1992,1992,7,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Barnsley,0-2,/match/bristol-city-fc/barnsley-fc/1992,1992,7,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Ipswich Town,2-3,/match/millwall-fc/ipswich-town-fc/1992,1992,7,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Bristol Rovers,0-0,/match/plymouth-argyle/bristol-rovers/1992,1992,7,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Derby County,0-1,/match/portsmouth/derby-county-fc/1992,1992,7,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Watford,1-0,/match/southend-united/watford-fc/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Newcastle,5-2,/match/oxford-united/newcastle-united-fc/1992,1992,7,championship,24,10,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Bristol City,2-0,/match/swindon-town/bristol-city-fc/1992,1992,7,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Plymouth Argyle,4-1,/match/portsmouth/plymouth-argyle/1992,1992,7,championship,24,10,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Portsmouth,5-2,/match/ipswich-town-fc/portsmouth/1992,1992,7,championship,24,10,0,5,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Cambridge United,0-0,/match/barnsley-fc/cambridge-united/1992,1992,7,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Sunderland,2-1,/match/bristol-rovers/sunderland-afc/1992,1992,7,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Southend United,2-0,/match/charlton-athletic-fc/southend-united/1992,1992,7,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Millwall,0-2,/match/derby-county-fc/millwall-fc/1992,1992,7,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Blackburn Rovers,2-3,/match/grimsby-town/blackburn-rovers-fc/1992,1992,7,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Oxford United,2-1,/match/leicester-city-fc/oxford-united/1992,1992,7,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Bristol City,3-0,/match/newcastle-united-fc/bristol-city-fc/1992,1992,7,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Middlesbrough,1-2,/match/port-vale/middlesbrough-fc/1992,1992,7,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Brighton Hove Alb.,2-1,/match/swindon-town/brighton-amp-hov/1992,1992,7,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Wolves,4-3,/match/tranmere-rovers/wolverhampton/1992,1992,7,championship,24,10,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Plymouth Argyle,1-0,/match/watford-fc/plymouth-argyle/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Tranmere Rovers,1-1,/match/sunderland-afc/tranmere-rovers/1992,1992,7,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Cambridge United,0-1,/match/plymouth-argyle/cambridge-united/1992,1992,7,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Derby County,2-0,/match/blackburn-rovers-fc/derby-county-fc/1992,1992,7,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Southend United,1-0,/match/barnsley-fc/southend-united/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Newcastle,3-1,/match/blackburn-rovers-fc/newcastle-united-fc/1992,1992,7,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Oxford United,1-2,/match/brighton-amp-hov/oxford-united/1992,1992,7,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Charlton Athletic,1-0,/match/cambridge-united/charlton-athletic-fc/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Grimsby Town,1-1,/match/millwall-fc/grimsby-town/1992,1992,7,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Leicester,1-2,/match/port-vale/leicester-city-fc/1992,1992,7,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Bristol Rovers,1-0,/match/derby-county-fc/bristol-rovers/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Southend United,3-2,/match/grimsby-town/southend-united/1992,1992,7,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Ipswich Town,0-1,/match/tranmere-rovers/ipswich-town-fc/1992,1992,7,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Millwall,3-2,/match/bristol-rovers/millwall-fc/1992,1992,7,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Bristol City,2-1,/match/charlton-athletic-fc/bristol-city-fc/1992,1992,7,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Swindon Town,0-0,/match/grimsby-town/swindon-town/1992,1992,7,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Derby County,1-2,/match/leicester-city-fc/derby-county-fc/1992,1992,7,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Tranmere Rovers,Watford,1-1,/match/tranmere-rovers/watford-fc/1992,1992,6,championship,24,10,1,1,1,12,7,10,4,25,24,LDDDWDWWDDWLDLWWDWDWD,5,5,1,16,12,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWD,0
+Swindon Town,Oxford United,2-1,/match/swindon-town/oxford-united/1992,1992,6,championship,24,10,0,2,1,8,9,9,5,41,28,DWWLDWWWWLLWLWDWLDDDDDD,6,3,2,20,13,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDD,0
+Bristol Rovers,Portsmouth,1-0,/match/bristol-rovers/portsmouth/1992,1992,6,championship,24,10,0,1,0,21,6,8,11,32,42,DDLWLWWWWWWDDDLLDDLLDWWWW,3,5,3,21,21,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDW,0
+Cambridge United,Tranmere Rovers,0-0,/match/cambridge-united/tranmere-rovers/1992,1992,6,championship,24,10,1,0,0,6,11,8,4,36,25,LWLLLDWWWWWLWDDLDLDDDDL,5,5,2,17,9,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDL,0
+Sunderland,Port Vale,1-1,/match/sunderland-afc/port-vale/1992,1992,7,championship,24,10,1,1,1,10,11,5,12,43,40,DLWWWDWLLWWWDDWLWDWLWWWWWWWL,7,4,2,25,13,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWW,0
+Wolves,Leicester,1-0,/match/wolverhampton/leicester-city-fc/1992,1992,7,championship,24,10,0,1,0,12,11,6,10,37,31,LDDLWLWWLLDWDWLLWLWWWDDWLLW,6,3,5,21,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWW,0
+Blackburn Rovers,Swindon Town,2-1,/match/blackburn-rovers-fc/swindon-town/1992,1992,7,championship,24,10,0,2,1,2,14,6,6,41,24,DWLLDWWWDLWWWWWLWDWLWDWWWD,10,2,1,26,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWW,0
+Brighton Hove Alb.,Charlton Athletic,1-2,/match/brighton-amp-hov/charlton-athletic-fc/1992,1992,7,championship,24,10,2,1,2,21,7,8,14,37,46,LWLDLDLWWWWDWLLWWDDWWWDLWWDWD,5,5,5,25,22,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDW,0
+Bristol City,Barnsley,0-2,/match/bristol-city-fc/barnsley-fc/1992,1992,7,championship,24,10,2,0,2,9,8,10,9,32,40,DWWDWWDDWLWWLDDWWDWLWWDWDWD,7,5,2,19,13,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWD,0
+Millwall,Ipswich Town,2-3,/match/millwall-fc/ipswich-town-fc/1992,1992,7,championship,24,10,2,2,3,19,10,6,11,42,45,WWWLLDDWLLLDLLDWLWDLDLLWWWW,5,1,6,17,19,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWW,0
+Plymouth Argyle,Bristol Rovers,0-0,/match/plymouth-argyle/bristol-rovers/1992,1992,7,championship,24,10,1,0,0,14,9,5,12,30,39,WWWDLWWDWLWDLWWWWWWWWDWWDL,8,2,3,17,15,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWD,0
+Portsmouth,Derby County,0-1,/match/portsmouth/derby-county-fc/1992,1992,7,championship,24,10,2,0,1,3,12,7,8,35,27,DWWWDWDWLWWWDDWWLWWDWWWWLDW,9,4,0,22,6,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWD,0
+Southend United,Watford,1-0,/match/southend-united/watford-fc/1992,1992,7,championship,24,10,0,1,0,5,13,8,7,42,32,DLLLWWWDLDLLDLDWWWWLWDDLWWWD,8,3,4,27,18,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWW,0
+Oxford United,Newcastle,5-2,/match/oxford-united/newcastle-united-fc/1992,1992,7,championship,24,10,0,5,2,24,6,5,17,37,48,WLWLWDWWWWWWLLLLWWDWDLLWDWDW,5,3,7,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWD,0
+Swindon Town,Bristol City,2-0,/match/swindon-town/bristol-city-fc/1992,1992,7,championship,24,10,0,2,0,7,11,9,7,47,35,DWWLDWWWWLLWLWDWLDDDDDDWLWW,8,3,3,25,17,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLW,0
+Portsmouth,Plymouth Argyle,4-1,/match/portsmouth/plymouth-argyle/1992,1992,7,championship,24,10,0,4,1,3,12,7,8,35,27,DWWWDWDWLWWWDDWWLWWDWWWWLDW,9,4,0,22,6,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWD,0
+Ipswich Town,Portsmouth,5-2,/match/ipswich-town-fc/portsmouth/1992,1992,7,championship,24,10,0,5,2,4,13,8,7,40,31,DWWLLWWDWLWDDDDDLLWLWWDWWLWW,9,1,3,22,13,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWW,0
+Barnsley,Cambridge United,0-0,/match/barnsley-fc/cambridge-united/1992,1992,7,championship,24,10,1,0,0,22,8,6,15,31,43,WLLDWLDWWWLLWLWLWLWWWDWDDDWWL,6,2,7,19,20,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDL,0
+Bristol Rovers,Sunderland,2-1,/match/bristol-rovers/sunderland-afc/1992,1992,7,championship,24,10,0,2,1,15,8,9,12,35,44,DDLWLWWWWWWDDDLLDDLLDWWWWDWWW,5,6,3,24,22,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWW,0
+Charlton Athletic,Southend United,2-0,/match/charlton-athletic-fc/southend-united/1992,1992,7,championship,24,10,0,2,0,13,11,7,9,34,33,WDLDLWLWWLWWLDDWDLWLLDWLDLL,5,4,5,16,17,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDL,0
+Derby County,Millwall,0-2,/match/derby-county-fc/millwall-fc/1992,1992,7,championship,24,10,2,0,2,16,11,6,9,35,29,DWLLLDDWWDWLWLLWLWLLLDLDWL,5,2,6,17,14,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLL,0
+Grimsby Town,Blackburn Rovers,2-3,/match/grimsby-town/blackburn-rovers-fc/1992,1992,7,championship,24,10,2,2,3,20,9,6,11,30,39,LLDWLWDLLWLWWWWWDWDWWDDLWL,5,3,4,17,16,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLW,0
+Leicester,Oxford United,2-1,/match/leicester-city-fc/oxford-united/1992,1992,7,championship,24,10,0,2,1,6,13,6,8,37,32,DWLWWWWWWLWWLLDWLDLLDWWWDDW,8,3,2,23,10,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWW,0
+Newcastle,Bristol City,3-0,/match/newcastle-united-fc/bristol-city-fc/1992,1992,7,championship,24,10,0,3,0,17,6,11,12,41,54,WDWLDWLDWDWWWDWDWDWDWDDWLWWDL,5,7,3,27,23,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWL,0
+Port Vale,Middlesbrough,1-2,/match/port-vale/middlesbrough-fc/1992,1992,7,championship,24,10,2,1,2,18,7,11,11,29,38,WWWDDLDWWDWWLDWDWLWLWDDDDWLLD,4,7,3,15,16,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLL,0
+Swindon Town,Brighton Hove Alb.,2-1,/match/swindon-town/brighton-amp-hov/1992,1992,7,championship,24,10,0,2,1,7,11,9,7,47,35,DWWLDWWWWLLWLWDWLDDDDDDWLWW,8,3,3,25,17,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLW,0
+Tranmere Rovers,Wolves,4-3,/match/tranmere-rovers/wolverhampton/1992,1992,7,championship,24,10,0,4,3,11,7,14,5,27,27,LDDDWDWWDDWLDLWWDWDWDDWDDD,5,7,1,18,14,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDD,0
+Watford,Plymouth Argyle,1-0,/match/watford-fc/plymouth-argyle/1992,1992,7,championship,24,10,0,1,0,23,9,6,13,32,35,LDLLLLWWWWWLLLWWLDWWLDLLDDWD,4,3,7,15,18,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDD,0
+Sunderland,Tranmere Rovers,1-1,/match/sunderland-afc/tranmere-rovers/1992,1992,7,championship,24,10,1,1,1,10,11,5,12,43,40,DLWWWDWLLWWWDDWLWDWLWWWWWWWL,7,4,2,25,13,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWW,0
+Plymouth Argyle,Cambridge United,0-1,/match/plymouth-argyle/cambridge-united/1992,1992,7,championship,24,10,2,0,1,14,9,5,12,30,39,WWWDLWWDWLWDLWWWWWWWWDWWDL,8,2,3,17,15,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWD,0
+Blackburn Rovers,Derby County,2-0,/match/blackburn-rovers-fc/derby-county-fc/1992,1992,7,championship,24,10,0,2,0,2,14,6,6,41,24,DWLLDWWWDLWWWWWLWDWLWDWWWD,10,2,1,26,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWW,0
+Barnsley,Southend United,1-0,/match/barnsley-fc/southend-united/1992,1992,7,championship,24,10,0,1,0,22,8,6,15,31,43,WLLDWLDWWWLLWLWLWLWWWDWDDDWWL,6,2,7,19,20,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDL,0
+Blackburn Rovers,Newcastle,3-1,/match/blackburn-rovers-fc/newcastle-united-fc/1992,1992,7,championship,24,10,0,3,1,2,14,6,6,41,24,DWLLDWWWDLWWWWWLWDWLWDWWWD,10,2,1,26,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWW,0
+Brighton Hove Alb.,Oxford United,1-2,/match/brighton-amp-hov/oxford-united/1992,1992,7,championship,24,10,2,1,2,21,7,8,14,37,46,LWLDLDLWWWWDWLLWWDDWWWDLWWDWD,5,5,5,25,22,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDW,0
+Cambridge United,Charlton Athletic,1-0,/match/cambridge-united/charlton-athletic-fc/1992,1992,7,championship,24,10,0,1,0,8,12,9,6,39,28,LWLLLDWWWWWLWDDLDLDDDDLWLLD,5,6,3,17,10,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLD,0
+Millwall,Grimsby Town,1-1,/match/millwall-fc/grimsby-town/1992,1992,7,championship,24,10,1,1,1,19,10,6,11,42,45,WWWLLDDWLLLDLLDWLWDLDLLWWWW,5,1,6,17,19,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWW,0
+Port Vale,Leicester,1-2,/match/port-vale/leicester-city-fc/1992,1992,7,championship,24,10,2,1,2,18,7,11,11,29,38,WWWDDLDWWDWWLDWDWLWLWDDDDWLLD,4,7,3,15,16,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLL,0
+Derby County,Bristol Rovers,1-0,/match/derby-county-fc/bristol-rovers/1992,1992,7,championship,24,10,0,1,0,16,11,6,9,35,29,DWLLLDDWWDWLWLLWLWLLLDLDWL,5,2,6,17,14,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLL,0
+Grimsby Town,Southend United,3-2,/match/grimsby-town/southend-united/1992,1992,7,championship,24,10,0,3,2,20,9,6,11,30,39,LLDWLWDLLWLWWWWWDWDWWDDLWL,5,3,4,17,16,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLW,0
+Tranmere Rovers,Ipswich Town,0-1,/match/tranmere-rovers/ipswich-town-fc/1992,1992,7,championship,24,10,2,0,1,11,7,14,5,27,27,LDDDWDWWDDWLDLWWDWDWDDWDDD,5,7,1,18,14,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDD,0
+Bristol Rovers,Millwall,3-2,/match/bristol-rovers/millwall-fc/1992,1992,7,championship,24,10,0,3,2,15,8,9,12,35,44,DDLWLWWWWWWDDDLLDDLLDWWWWDWWW,5,6,3,24,22,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWW,0
+Charlton Athletic,Bristol City,2-1,/match/charlton-athletic-fc/bristol-city-fc/1992,1992,7,championship,24,10,0,2,1,13,11,7,9,34,33,WDLDLWLWWLWWLDDWDLWLLDWLDLL,5,4,5,16,17,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDL,0
+Grimsby Town,Swindon Town,0-0,/match/grimsby-town/swindon-town/1992,1992,7,championship,24,10,1,0,0,20,9,6,11,30,39,LLDWLWDLLWLWWWWWDWDWWDDLWL,5,3,4,17,16,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLW,0
+Leicester,Derby County,1-2,/match/leicester-city-fc/derby-county-fc/1992,1992,7,championship,24,10,2,1,2,6,13,6,8,37,32,DWLWWWWWWLWWLLDWLDLLDWWWDDW,8,3,2,23,10,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWW,0
 Middlesbrough,Blackburn Rovers,0-0,/match/middlesbrough-fc/blackburn-rovers-fc/1992,1992,7,championship,24,10,1,0,0,1,13,6,8,34,27,WWWWWLLWWDWWDWWDWDWWWDLWDWW,10,4,0,23,6,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDW,0
-Oxford United,Cambridge United,1-0,/match/oxford-united/cambridge-united/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Brighton Hove Alb.,1-1,/match/plymouth-argyle/brighton-amp-hov/1992,1992,7,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Sunderland,2-0,/match/southend-united/sunderland-afc/1992,1992,7,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Port Vale,0-0,/match/watford-fc/port-vale/1992,1992,7,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Portsmouth,0-0,/match/wolverhampton/portsmouth/1992,1992,7,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Barnsley,1-1,/match/newcastle-united-fc/barnsley-fc/1992,1992,7,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Blackburn Rovers,2-1,/match/cambridge-united/blackburn-rovers-fc/1992,1992,7,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Charlton Athletic,1-0,/match/millwall-fc/charlton-athletic-fc/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Bristol Rovers,6-1,/match/cambridge-united/bristol-rovers/1992,1992,7,championship,24,10,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Charlton Athletic,1-0,/match/barnsley-fc/charlton-athletic-fc/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Oxford United,1-1,/match/blackburn-rovers-fc/oxford-united/1992,1992,7,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Southend United,3-2,/match/brighton-amp-hov/southend-united/1992,1992,7,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Grimsby Town,1-1,/match/bristol-city-fc/grimsby-town/1992,1992,7,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Watford,3-1,/match/derby-county-fc/watford-fc/1992,1992,7,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Plymouth Argyle,2-0,/match/ipswich-town-fc/plymouth-argyle/1992,1992,7,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Leicester,2-0,/match/millwall-fc/leicester-city-fc/1992,1992,7,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Newcastle,0-1,/match/port-vale/newcastle-united-fc/1992,1992,7,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Tranmere Rovers,2-0,/match/portsmouth/tranmere-rovers/1992,1992,7,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Wolves,1-0,/match/sunderland-afc/wolverhampton/1992,1992,7,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Middlesbrough,0-1,/match/swindon-town/middlesbrough-fc/1992,1992,7,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Grimsby Town,1-3,/match/charlton-athletic-fc/grimsby-town/1992,1992,8,championship,24,10,2,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Port Vale,2-1,/match/tranmere-rovers/port-vale/1992,1992,8,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Blackburn Rovers,3-0,/match/bristol-rovers/blackburn-rovers-fc/1992,1992,8,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Bristol City,1-1,/match/wolverhampton/bristol-city-fc/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Millwall,1-0,/match/charlton-athletic-fc/millwall-fc/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Barnsley,0-1,/match/grimsby-town/barnsley-fc/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Cambridge United,1-1,/match/middlesbrough-fc/cambridge-united/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Brighton Hove Alb.,0-1,/match/newcastle-united-fc/brighton-amp-hov/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Swindon Town,5-3,/match/oxford-united/swindon-town/1992,1992,8,championship,24,10,0,5,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Derby County,1-1,/match/plymouth-argyle/derby-county-fc/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Ipswich Town,0-1,/match/watford-fc/ipswich-town-fc/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Charlton Athletic,1-2,/match/swindon-town/charlton-athletic-fc/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Bristol City,1-0,/match/plymouth-argyle/bristol-city-fc/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Brighton Hove Alb.,0-1,/match/grimsby-town/brighton-amp-hov/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Newcastle,0-2,/match/cambridge-united/newcastle-united-fc/1992,1992,8,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Southend United,2-2,/match/blackburn-rovers-fc/southend-united/1992,1992,8,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Portsmouth,2-2,/match/leicester-city-fc/portsmouth/1992,1992,8,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Wolves,1-1,/match/bristol-rovers/wolverhampton/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Port Vale,3-1,/match/derby-county-fc/port-vale/1992,1992,8,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Tranmere Rovers,0-3,/match/millwall-fc/tranmere-rovers/1992,1992,8,championship,24,10,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Watford,0-0,/match/oxford-united/watford-fc/1992,1992,8,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Plymouth Argyle,1-0,/match/wolverhampton/plymouth-argyle/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Sunderland,1-0,/match/watford-fc/sunderland-afc/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Derby County,4-3,/match/tranmere-rovers/derby-county-fc/1992,1992,8,championship,24,10,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Middlesbrough,0-1,/match/southend-united/middlesbrough-fc/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Millwall,6-1,/match/portsmouth/millwall-fc/1992,1992,8,championship,24,10,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Bristol Rovers,0-1,/match/port-vale/bristol-rovers/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Swindon Town,3-1,/match/newcastle-united-fc/swindon-town/1992,1992,8,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Leicester,0-0,/match/ipswich-town-fc/leicester-city-fc/1992,1992,8,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Cambridge United,1-2,/match/bristol-city-fc/cambridge-united/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Blackburn Rovers,0-3,/match/brighton-amp-hov/blackburn-rovers-fc/1992,1992,8,championship,24,10,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Oxford United,1-0,/match/barnsley-fc/oxford-united/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Wolves,2-0,/match/bristol-city-fc/wolverhampton/1992,1992,8,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Middlesbrough,0-0,/match/cambridge-united/middlesbrough-fc/1992,1992,8,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Leicester,0-1,/match/grimsby-town/leicester-city-fc/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Portsmouth,2-3,/match/southend-united/portsmouth/1992,1992,8,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Tranmere Rovers,2-0,/match/swindon-town/tranmere-rovers/1992,1992,8,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Watford,1-2,/match/ipswich-town-fc/watford-fc/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Wolves,1-2,/match/derby-county-fc/wolverhampton/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Charlton Athletic,0-2,/match/blackburn-rovers-fc/charlton-athletic-fc/1992,1992,8,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Barnsley,0-0,/match/bristol-rovers/barnsley-fc/1992,1992,8,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Ipswich Town,1-1,/match/cambridge-united/ipswich-town-fc/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Newcastle,1-1,/match/grimsby-town/newcastle-united-fc/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Watford,1-2,/match/leicester-city-fc/watford-fc/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Brighton Hove Alb.,4-0,/match/middlesbrough-fc/brighton-amp-hov/1992,1992,8,championship,24,10,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Port Vale,1-0,/match/millwall-fc/port-vale/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Portsmouth,2-1,/match/oxford-united/portsmouth/1992,1992,8,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Tranmere Rovers,1-0,/match/plymouth-argyle/tranmere-rovers/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Oxford United,Cambridge United,1-0,/match/oxford-united/cambridge-united/1992,1992,7,championship,24,10,0,1,0,24,6,5,17,37,48,WLWLWDWWWWWWLLLLWWDWDLLWDWDW,5,3,7,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWD,0
+Plymouth Argyle,Brighton Hove Alb.,1-1,/match/plymouth-argyle/brighton-amp-hov/1992,1992,7,championship,24,10,1,1,1,14,9,5,12,30,39,WWWDLWWDWLWDLWWWWWWWWDWWDL,8,2,3,17,15,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWD,0
+Southend United,Sunderland,2-0,/match/southend-united/sunderland-afc/1992,1992,7,championship,24,10,0,2,0,5,13,8,7,42,32,DLLLWWWDLDLLDLDWWWWLWDDLWWWD,8,3,4,27,18,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWW,0
+Watford,Port Vale,0-0,/match/watford-fc/port-vale/1992,1992,7,championship,24,10,1,0,0,23,9,6,13,32,35,LDLLLLWWWWWLLLWWLDWWLDLLDDWD,4,3,7,15,18,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDD,0
+Wolves,Portsmouth,0-0,/match/wolverhampton/portsmouth/1992,1992,7,championship,24,10,1,0,0,12,11,6,10,37,31,LDDLWLWWLLDWDWLLWLWWWDDWLLW,6,3,5,21,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWW,0
+Newcastle,Barnsley,1-1,/match/newcastle-united-fc/barnsley-fc/1992,1992,7,championship,24,10,1,1,1,17,6,11,12,41,54,WDWLDWLDWDWWWDWDWDWDWDDWLWWDL,5,7,3,27,23,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWL,0
+Cambridge United,Blackburn Rovers,2-1,/match/cambridge-united/blackburn-rovers-fc/1992,1992,7,championship,24,10,0,2,1,8,12,9,6,39,28,LWLLLDWWWWWLWDDLDLDDDDLWLLD,5,6,3,17,10,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLD,0
+Millwall,Charlton Athletic,1-0,/match/millwall-fc/charlton-athletic-fc/1992,1992,7,championship,24,10,0,1,0,19,10,6,11,42,45,WWWLLDDWLLLDLLDWLWDLDLLWWWW,5,1,6,17,19,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWW,0
+Cambridge United,Bristol Rovers,6-1,/match/cambridge-united/bristol-rovers/1992,1992,7,championship,24,10,0,6,1,8,12,9,6,39,28,LWLLLDWWWWWLWDDLDLDDDDLWLLD,5,6,3,17,10,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLD,0
+Barnsley,Charlton Athletic,1-0,/match/barnsley-fc/charlton-athletic-fc/1992,1992,7,championship,24,10,0,1,0,22,8,6,15,31,43,WLLDWLDWWWLLWLWLWLWWWDWDDDWWL,6,2,7,19,20,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDL,0
+Blackburn Rovers,Oxford United,1-1,/match/blackburn-rovers-fc/oxford-united/1992,1992,7,championship,24,10,1,1,1,2,14,6,6,41,24,DWLLDWWWDLWWWWWLWDWLWDWWWD,10,2,1,26,8,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWW,0
+Brighton Hove Alb.,Southend United,3-2,/match/brighton-amp-hov/southend-united/1992,1992,7,championship,24,10,0,3,2,21,7,8,14,37,46,LWLDLDLWWWWDWLLWWDDWWWDLWWDWD,5,5,5,25,22,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDW,0
+Bristol City,Grimsby Town,1-1,/match/bristol-city-fc/grimsby-town/1992,1992,7,championship,24,10,1,1,1,9,8,10,9,32,40,DWWDWWDDWLWWLDDWWDWLWWDWDWD,7,5,2,19,13,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWD,0
+Derby County,Watford,3-1,/match/derby-county-fc/watford-fc/1992,1992,7,championship,24,10,0,3,1,16,11,6,9,35,29,DWLLLDDWWDWLWLLWLWLLLDLDWL,5,2,6,17,14,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLL,0
+Ipswich Town,Plymouth Argyle,2-0,/match/ipswich-town-fc/plymouth-argyle/1992,1992,7,championship,24,10,0,2,0,4,13,8,7,40,31,DWWLLWWDWLWDDDDDLLWLWWDWWLWW,9,1,3,22,13,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWW,0
+Millwall,Leicester,2-0,/match/millwall-fc/leicester-city-fc/1992,1992,7,championship,24,10,0,2,0,19,10,6,11,42,45,WWWLLDDWLLLDLLDWLWDLDLLWWWW,5,1,6,17,19,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWW,0
+Port Vale,Newcastle,0-1,/match/port-vale/newcastle-united-fc/1992,1992,7,championship,24,10,2,0,1,18,7,11,11,29,38,WWWDDLDWWDWWLDWDWLWLWDDDDWLLD,4,7,3,15,16,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLL,0
+Portsmouth,Tranmere Rovers,2-0,/match/portsmouth/tranmere-rovers/1992,1992,7,championship,24,10,0,2,0,3,12,7,8,35,27,DWWWDWDWLWWWDDWWLWWDWWWWLDW,9,4,0,22,6,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWD,0
+Sunderland,Wolves,1-0,/match/sunderland-afc/wolverhampton/1992,1992,7,championship,24,10,0,1,0,10,11,5,12,43,40,DLWWWDWLLWWWDDWLWDWLWWWWWWWL,7,4,2,25,13,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWW,0
+Swindon Town,Middlesbrough,0-1,/match/swindon-town/middlesbrough-fc/1992,1992,7,championship,24,10,2,0,1,7,11,9,7,47,35,DWWLDWWWWLLWLWDWLDDDDDDWLWW,8,3,3,25,17,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLW,0
+Charlton Athletic,Grimsby Town,1-3,/match/charlton-athletic-fc/grimsby-town/1992,1992,8,championship,24,10,2,1,3,10,14,7,12,40,38,WDLDLWLWWLWWLDDWDLWLLDWLDLLLWWWWW,7,4,5,20,18,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDLWW,0
+Tranmere Rovers,Port Vale,2-1,/match/tranmere-rovers/port-vale/1992,1992,8,championship,24,10,0,2,1,12,8,15,7,32,34,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLW,6,7,2,22,18,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDDWL,0
+Bristol Rovers,Blackburn Rovers,3-0,/match/bristol-rovers/blackburn-rovers-fc/1992,1992,8,championship,24,10,0,3,0,13,10,10,14,41,54,DDLWLWWWWWWDDDLLDDLLDWWWWDWWWDWWWW,7,6,3,29,25,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWWWW,0
+Wolves,Bristol City,1-1,/match/wolverhampton/bristol-city-fc/1992,1992,8,championship,24,10,1,1,1,14,12,7,12,41,36,LDDLWLWWLLDWDWLLWLWWWDDWLLWWWDW,7,4,5,22,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWWWD,0
+Charlton Athletic,Millwall,1-0,/match/charlton-athletic-fc/millwall-fc/1992,1992,8,championship,24,10,0,1,0,10,14,7,12,40,38,WDLDLWLWWLWWLDDWDLWLLDWLDLLLWWWWW,7,4,5,20,18,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDLWW,0
+Grimsby Town,Barnsley,0-1,/match/grimsby-town/barnsley-fc/1992,1992,8,championship,24,10,2,0,1,20,10,9,12,37,46,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDD,6,4,5,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWD,0
+Middlesbrough,Cambridge United,1-1,/match/middlesbrough-fc/cambridge-united/1992,1992,8,championship,24,10,1,1,1,4,15,7,8,37,28,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDL,10,5,0,23,6,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWD,0
+Newcastle,Brighton Hove Alb.,0-1,/match/newcastle-united-fc/brighton-amp-hov/1992,1992,8,championship,24,10,2,0,1,17,8,12,14,49,63,WDWLDWLDWDWWWDWDWDWDWDDWLWWDLWWWDL,6,8,3,31,24,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWLWD,0
+Oxford United,Swindon Town,5-3,/match/oxford-united/swindon-town/1992,1992,8,championship,24,10,0,5,3,24,9,6,18,47,54,WLWLWDWWWWWWLLLLWWDWDLLWDWDWWWLWD,7,3,7,28,23,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWDWW,0
+Plymouth Argyle,Derby County,1-1,/match/plymouth-argyle/derby-county-fc/1992,1992,8,championship,24,10,1,1,1,19,9,7,16,32,48,WWWDLWWDWLWDLWWWWWWWWDWWDLDWWLDW,8,4,4,18,17,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWDDLD,0
+Watford,Ipswich Town,0-1,/match/watford-fc/ipswich-town-fc/1992,1992,8,championship,24,10,2,0,1,23,10,7,15,34,39,LDLLLLWWWWWLLLWWLDWWLDLLDDWDWWDW,5,4,7,16,18,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDDWD,0
+Swindon Town,Charlton Athletic,1-2,/match/swindon-town/charlton-athletic-fc/1992,1992,8,championship,24,10,2,1,2,7,13,10,9,52,39,DWWLDWWWWLLWLWDWLDDDDDDWLWWWWWDL,10,3,4,29,19,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLWWWL,0
+Plymouth Argyle,Bristol City,1-0,/match/plymouth-argyle/bristol-city-fc/1992,1992,8,championship,24,10,0,1,0,19,9,7,16,32,48,WWWDLWWDWLWDLWWWWWWWWDWWDLDWWLDW,8,4,4,18,17,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWDDLD,0
+Grimsby Town,Brighton Hove Alb.,0-1,/match/grimsby-town/brighton-amp-hov/1992,1992,8,championship,24,10,2,0,1,20,10,9,12,37,46,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDD,6,4,5,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWD,0
+Cambridge United,Newcastle,0-2,/match/cambridge-united/newcastle-united-fc/1992,1992,8,championship,24,10,2,0,2,3,16,10,7,49,31,LWLLLDWWWWWLWDDLDLDDDDLWLLDDLWWWW,8,6,3,26,12,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLDWWW,0
+Blackburn Rovers,Southend United,2-2,/match/blackburn-rovers-fc/southend-united/1992,1992,8,championship,24,10,1,2,2,1,18,8,7,53,31,DWLLDWWWDLWWWWWLWDWLWDWWWDWLWWDWD,13,3,1,34,11,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWWWWWD,0
+Leicester,Portsmouth,2-2,/match/leicester-city-fc/portsmouth/1992,1992,8,championship,24,10,1,2,2,8,15,6,11,42,39,DWLWWWWWWLWWLLDWLDLLDWWWDDWWWLLW,9,3,3,26,13,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWWWL,0
+Bristol Rovers,Wolves,1-1,/match/bristol-rovers/wolverhampton/1992,1992,8,championship,24,10,1,1,1,13,10,10,14,41,54,DDLWLWWWWWWDDDLLDDLLDWWWWDWWWDWWWW,7,6,3,29,25,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWWWW,0
+Derby County,Port Vale,3-1,/match/derby-county-fc/port-vale/1992,1992,8,championship,24,10,0,3,1,11,15,6,11,42,35,DWLLLDDWWDWLWLLWLWLLLDLDWLLLWWLW,7,2,7,21,17,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLLLWW,0
+Millwall,Tranmere Rovers,0-3,/match/millwall-fc/tranmere-rovers/1992,1992,8,championship,24,10,2,0,3,15,13,7,13,52,52,WWWLLDDWLLLDLLDWLWDLDLLWWWWLLDWWW,7,2,7,23,23,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWWLDWW,0
+Oxford United,Watford,0-0,/match/oxford-united/watford-fc/1992,1992,8,championship,24,10,1,0,0,24,9,6,18,47,54,WLWLWDWWWWWWLLLLWWDWDLLWDWDWWWLWD,7,3,7,28,23,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWDWW,0
+Wolves,Plymouth Argyle,1-0,/match/wolverhampton/plymouth-argyle/1992,1992,8,championship,24,10,0,1,0,14,12,7,12,41,36,LDDLWLWWLLDWDWLLWLWWWDDWLLWWWDW,7,4,5,22,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWWWD,0
+Watford,Sunderland,1-0,/match/watford-fc/sunderland-afc/1992,1992,8,championship,24,10,0,1,0,23,10,7,15,34,39,LDLLLLWWWWWLLLWWLDWWLDLLDDWDWWDW,5,4,7,16,18,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDDWD,0
+Tranmere Rovers,Derby County,4-3,/match/tranmere-rovers/derby-county-fc/1992,1992,8,championship,24,10,0,4,3,12,8,15,7,32,34,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLW,6,7,2,22,18,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDDWL,0
+Southend United,Middlesbrough,0-1,/match/southend-united/middlesbrough-fc/1992,1992,8,championship,24,10,2,0,1,6,15,8,11,49,41,DLLLWWWDLDLLDLDWWWWLWDDLWWWDWWWWWW,10,3,4,30,18,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWWWW,0
+Portsmouth,Millwall,6-1,/match/portsmouth/millwall-fc/1992,1992,8,championship,24,10,0,6,1,5,14,8,10,43,34,DWWWDWDWLWWWDDWWLWWDWWWWLDWLWWDW,11,4,1,28,8,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWDLWW,0
+Port Vale,Bristol Rovers,0-1,/match/port-vale/bristol-rovers/1992,1992,8,championship,24,10,2,0,1,21,7,13,14,32,44,WWWDDLDWWDWWLDWDWLWLWDDDDWLLDDLLDL,4,7,6,17,21,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLLLLL,0
+Newcastle,Swindon Town,3-1,/match/newcastle-united-fc/swindon-town/1992,1992,8,championship,24,10,0,3,1,17,8,12,14,49,63,WDWLDWLDWDWWWDWDWDWDWDDWLWWDLWWWDL,6,8,3,31,24,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWLWD,0
+Ipswich Town,Leicester,0-0,/match/ipswich-town-fc/leicester-city-fc/1992,1992,8,championship,24,10,1,0,0,2,17,8,7,51,35,DWWLLWWDWLWDDDDDLLWLWWDWWLWWLWLW,11,1,3,29,15,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWWWW,0
+Bristol City,Cambridge United,1-2,/match/bristol-city-fc/cambridge-united/1992,1992,8,championship,24,10,2,1,2,18,8,11,13,34,50,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWD,7,6,3,20,16,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWDLD,0
+Brighton Hove Alb.,Blackburn Rovers,0-3,/match/brighton-amp-hov/blackburn-rovers-fc/1992,1992,8,championship,24,10,2,0,3,22,8,9,17,44,55,LWLDLDLWWWWDWLLWWDDWWWDLWWDWDLWLDW,6,5,7,30,28,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDWLLW,0
+Barnsley,Oxford United,1-0,/match/barnsley-fc/oxford-united/1992,1992,8,championship,24,10,0,1,0,16,11,8,15,36,44,WLLDWLDWWWLLWLWLWLWWWDWDDDWWLLDWDW,8,3,7,21,20,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDLDWW,0
+Bristol City,Wolves,2-0,/match/bristol-city-fc/wolverhampton/1992,1992,8,championship,24,10,0,2,0,18,8,11,13,34,50,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWD,7,6,3,20,16,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWDLD,0
+Cambridge United,Middlesbrough,0-0,/match/cambridge-united/middlesbrough-fc/1992,1992,8,championship,24,10,1,0,0,3,16,10,7,49,31,LWLLLDWWWWWLWDDLDLDDDDLWLLDDLWWWW,8,6,3,26,12,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLDWWW,0
+Grimsby Town,Leicester,0-1,/match/grimsby-town/leicester-city-fc/1992,1992,8,championship,24,10,2,0,1,20,10,9,12,37,46,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDD,6,4,5,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWD,0
+Southend United,Portsmouth,2-3,/match/southend-united/portsmouth/1992,1992,8,championship,24,10,2,2,3,6,15,8,11,49,41,DLLLWWWDLDLLDLDWWWWLWDDLWWWDWWWWWW,10,3,4,30,18,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWWWW,0
+Swindon Town,Tranmere Rovers,2-0,/match/swindon-town/tranmere-rovers/1992,1992,8,championship,24,10,0,2,0,7,13,10,9,52,39,DWWLDWWWWLLWLWDWLDDDDDDWLWWWWWDL,10,3,4,29,19,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLWWWL,0
+Ipswich Town,Watford,1-2,/match/ipswich-town-fc/watford-fc/1992,1992,8,championship,24,10,2,1,2,2,17,8,7,51,35,DWWLLWWDWLWDDDDDLLWLWWDWWLWWLWLW,11,1,3,29,15,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWWWW,0
+Derby County,Wolves,1-2,/match/derby-county-fc/wolverhampton/1992,1992,8,championship,24,10,2,1,2,11,15,6,11,42,35,DWLLLDDWWDWLWLLWLWLLLDLDWLLLWWLW,7,2,7,21,17,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLLLWW,0
+Blackburn Rovers,Charlton Athletic,0-2,/match/blackburn-rovers-fc/charlton-athletic-fc/1992,1992,8,championship,24,10,2,0,2,1,18,8,7,53,31,DWLLDWWWDLWWWWWLWDWLWDWWWDWLWWDWD,13,3,1,34,11,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWWWWWD,0
+Bristol Rovers,Barnsley,0-0,/match/bristol-rovers/barnsley-fc/1992,1992,8,championship,24,10,1,0,0,13,10,10,14,41,54,DDLWLWWWWWWDDDLLDDLLDWWWWDWWWDWWWW,7,6,3,29,25,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWWWW,0
+Cambridge United,Ipswich Town,1-1,/match/cambridge-united/ipswich-town-fc/1992,1992,8,championship,24,10,1,1,1,3,16,10,7,49,31,LWLLLDWWWWWLWDDLDLDDDDLWLLDDLWWWW,8,6,3,26,12,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLDWWW,0
+Grimsby Town,Newcastle,1-1,/match/grimsby-town/newcastle-united-fc/1992,1992,8,championship,24,10,1,1,1,20,10,9,12,37,46,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDD,6,4,5,22,21,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWD,0
+Leicester,Watford,1-2,/match/leicester-city-fc/watford-fc/1992,1992,8,championship,24,10,2,1,2,8,15,6,11,42,39,DWLWWWWWWLWWLLDWLDLLDWWWDDWWWLLW,9,3,3,26,13,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWWWL,0
+Middlesbrough,Brighton Hove Alb.,4-0,/match/middlesbrough-fc/brighton-amp-hov/1992,1992,8,championship,24,10,0,4,0,4,15,7,8,37,28,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDL,10,5,0,23,6,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWD,0
+Millwall,Port Vale,1-0,/match/millwall-fc/port-vale/1992,1992,8,championship,24,10,0,1,0,15,13,7,13,52,52,WWWLLDDWLLLDLLDWLWDLDLLWWWWLLDWWW,7,2,7,23,23,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWWLDWW,0
+Oxford United,Portsmouth,2-1,/match/oxford-united/portsmouth/1992,1992,8,championship,24,10,0,2,1,24,9,6,18,47,54,WLWLWDWWWWWWLLLLWWDWDLLWDWDWWWLWD,7,3,7,28,23,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWDWW,0
+Plymouth Argyle,Tranmere Rovers,1-0,/match/plymouth-argyle/tranmere-rovers/1992,1992,8,championship,24,10,0,1,0,19,9,7,16,32,48,WWWDLWWDWLWDLWWWWWWWWDWWDLDWWLDW,8,4,4,18,17,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWDDLD,0
 Sunderland,Bristol City,1-3,/match/sunderland-afc/bristol-city-fc/1992,1992,8,championship,24,10,2,1,3,9,12,7,14,47,46,DLWWWDWLLWWWDDWLWDWLWWWWWWWLDWDWW,8,6,2,28,15,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWWDDW,0
-Swindon Town,Southend United,3-1,/match/swindon-town/southend-united/1992,1992,8,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Plymouth Argyle,2-0,/match/derby-county-fc/plymouth-argyle/1992,1992,8,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Leicester,1-2,/match/tranmere-rovers/leicester-city-fc/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Millwall,0-0,/match/wolverhampton/millwall-fc/1992,1992,8,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Blackburn Rovers,2-1,/match/barnsley-fc/blackburn-rovers-fc/1992,1992,8,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Cambridge United,1-1,/match/brighton-amp-hov/cambridge-united/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Oxford United,1-1,/match/bristol-city-fc/oxford-united/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Middlesbrough,0-0,/match/charlton-athletic-fc/middlesbrough-fc/1992,1992,8,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Derby County,2-1,/match/ipswich-town-fc/derby-county-fc/1992,1992,8,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Plymouth Argyle,1-0,/match/port-vale/plymouth-argyle/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Swindon Town,1-1,/match/portsmouth/swindon-town/1992,1992,8,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Grimsby Town,3-1,/match/southend-united/grimsby-town/1992,1992,8,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Bristol Rovers,1-0,/match/watford-fc/bristol-rovers/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Sunderland,1-0,/match/newcastle-united-fc/sunderland-afc/1992,1992,8,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Newcastle,6-2,/match/wolverhampton/newcastle-united-fc/1992,1992,8,championship,24,10,0,6,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Brighton Hove Alb.,0-1,/match/watford-fc/brighton-amp-hov/1992,1992,8,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Bristol City,2-2,/match/tranmere-rovers/bristol-city-fc/1992,1992,8,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Charlton Athletic,1-2,/match/portsmouth/charlton-athletic-fc/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Blackburn Rovers,2-0,/match/port-vale/blackburn-rovers-fc/1992,1992,8,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Grimsby Town,1-2,/match/plymouth-argyle/grimsby-town/1992,1992,8,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Barnsley,2-0,/match/ipswich-town-fc/barnsley-fc/1992,1992,8,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Middlesbrough,2-1,/match/leicester-city-fc/middlesbrough-fc/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Oxford United,2-1,/match/millwall-fc/oxford-united/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Southend United,4-1,/match/bristol-rovers/southend-united/1992,1992,9,championship,24,10,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Cambridge United,0-0,/match/derby-county-fc/cambridge-united/1992,1992,9,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Port Vale,1-0,/match/swindon-town/port-vale/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Ipswich Town,1-2,/match/southend-united/ipswich-town-fc/1992,1992,9,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Wolves,1-0,/match/oxford-united/wolverhampton/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Tranmere Rovers,2-3,/match/newcastle-united-fc/tranmere-rovers/1992,1992,9,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Watford,1-2,/match/middlesbrough-fc/watford-fc/1992,1992,9,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Bristol Rovers,0-1,/match/grimsby-town/bristol-rovers/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Plymouth Argyle,0-0,/match/charlton-athletic-fc/plymouth-argyle/1992,1992,9,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Millwall,1-0,/match/cambridge-united/millwall-fc/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Leicester,2-1,/match/bristol-city-fc/leicester-city-fc/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Derby County,0-3,/match/barnsley-fc/derby-county-fc/1992,1992,9,championship,24,10,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Portsmouth,2-0,/match/tranmere-rovers/portsmouth/1992,1992,9,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Middlesbrough,1-1,/match/bristol-city-fc/middlesbrough-fc/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Derby County,0-1,/match/grimsby-town/derby-county-fc/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Wolves,2-1,/match/ipswich-town-fc/wolverhampton/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Swindon Town,1-1,/match/millwall-fc/swindon-town/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Sunderland,3-2,/match/leicester-city-fc/sunderland-afc/1992,1992,9,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Middlesbrough,1-2,/match/tranmere-rovers/middlesbrough-fc/1992,1992,9,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Oxford United,2-2,/match/derby-county-fc/oxford-united/1992,1992,9,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Blackburn Rovers,2-1,/match/watford-fc/blackburn-rovers-fc/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Newcastle,3-2,/match/ipswich-town-fc/newcastle-united-fc/1992,1992,9,championship,24,10,0,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Barnsley,3-1,/match/leicester-city-fc/barnsley-fc/1992,1992,9,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Bristol City,2-3,/match/millwall-fc/bristol-city-fc/1992,1992,9,championship,24,10,2,2,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Southend United,0-2,/match/plymouth-argyle/southend-united/1992,1992,9,championship,24,10,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Brighton Hove Alb.,2-1,/match/port-vale/brighton-amp-hov/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Grimsby Town,2-0,/match/portsmouth/grimsby-town/1992,1992,9,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Charlton Athletic,1-2,/match/sunderland-afc/charlton-athletic-fc/1992,1992,9,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Cambridge United,2-1,/match/wolverhampton/cambridge-united/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Swindon Town,1-1,/match/bristol-rovers/swindon-town/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Barnsley,0-1,/match/middlesbrough-fc/barnsley-fc/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Ipswich Town,3-0,/match/sunderland-afc/ipswich-town-fc/1992,1992,9,championship,24,10,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Wolves,1-2,/match/blackburn-rovers-fc/wolverhampton/1992,1992,9,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Port Vale,0-0,/match/southend-united/port-vale/1992,1992,9,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Oxford United,2-1,/match/middlesbrough-fc/oxford-united/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Tranmere Rovers,1-0,/match/leicester-city-fc/tranmere-rovers/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Derby County,1-2,/match/brighton-amp-hov/derby-county-fc/1992,1992,9,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Plymouth Argyle,0-1,/match/sunderland-afc/plymouth-argyle/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Portsmouth,2-2,/match/cambridge-united/portsmouth/1992,1992,9,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Bristol Rovers,2-2,/match/oxford-united/bristol-rovers/1992,1992,9,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Wolves,1-0,/match/swindon-town/wolverhampton/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Tranmere Rovers,1-1,/match/barnsley-fc/tranmere-rovers/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Leicester,0-1,/match/blackburn-rovers-fc/leicester-city-fc/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Ipswich Town,2-1,/match/bristol-city-fc/ipswich-town-fc/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Watford,1-1,/match/charlton-athletic-fc/watford-fc/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Sunderland,2-0,/match/grimsby-town/sunderland-afc/1992,1992,9,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Plymouth Argyle,2-1,/match/middlesbrough-fc/plymouth-argyle/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Millwall,0-1,/match/newcastle-united-fc/millwall-fc/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Wolves,Southend United,3-1,/match/wolverhampton/southend-united/1992,1992,9,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Watford,Swindon Town,0-0,/match/watford-fc/swindon-town/1992,1992,9,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Tranmere Rovers,Blackburn Rovers,2-2,/match/tranmere-rovers/blackburn-rovers-fc/1992,1992,9,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Middlesbrough,1-0,/match/sunderland-afc/middlesbrough-fc/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Bristol City,1-0,/match/portsmouth/bristol-city-fc/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Plymouth Argyle,Oxford United,3-1,/match/plymouth-argyle/oxford-united/1992,1992,9,championship,24,10,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Derby County,Newcastle,4-1,/match/derby-county-fc/newcastle-united-fc/1992,1992,9,championship,24,10,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol Rovers,Brighton Hove Alb.,4-1,/match/bristol-rovers/brighton-amp-hov/1992,1992,9,championship,24,10,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Ipswich Town,Grimsby Town,0-0,/match/ipswich-town-fc/grimsby-town/1992,1992,9,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Port Vale,Charlton Athletic,1-1,/match/port-vale/charlton-athletic-fc/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Leicester,Cambridge United,2-1,/match/leicester-city-fc/cambridge-united/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Portsmouth,Watford,0-0,/match/portsmouth/watford-fc/1992,1992,9,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Millwall,Barnsley,1-1,/match/millwall-fc/barnsley-fc/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Leicester,2-0,/match/charlton-athletic-fc/leicester-city-fc/1992,1992,9,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Barnsley,Wolves,1-0,/match/barnsley-fc/wolverhampton/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Millwall,2-1,/match/blackburn-rovers-fc/millwall-fc/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Sunderland,2-2,/match/brighton-amp-hov/sunderland-afc/1992,1992,9,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Bristol City,Derby County,1-2,/match/bristol-city-fc/derby-county-fc/1992,1992,9,championship,24,10,2,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Cambridge United,Port Vale,4-2,/match/cambridge-united/port-vale/1992,1992,9,championship,24,10,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Grimsby Town,Watford,0-1,/match/grimsby-town/watford-fc/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Bristol Rovers,2-1,/match/middlesbrough-fc/bristol-rovers/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Newcastle,Portsmouth,1-0,/match/newcastle-united-fc/portsmouth/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Oxford United,Ipswich Town,1-1,/match/oxford-united/ipswich-town-fc/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Southend United,Tranmere Rovers,1-1,/match/southend-united/tranmere-rovers/1992,1992,9,championship,24,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Swindon Town,Plymouth Argyle,1-0,/match/swindon-town/plymouth-argyle/1992,1992,9,championship,24,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Sunderland,Swindon Town,0-0,/match/sunderland-afc/swindon-town/1992,1992,9,championship,24,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Middlesbrough,Grimsby Town,2-0,/match/middlesbrough-fc/grimsby-town/1992,1992,9,championship,24,10,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Charlton Athletic,Tranmere Rovers,0-1,/match/charlton-athletic-fc/tranmere-rovers/1992,1992,9,championship,24,10,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brighton Hove Alb.,Portsmouth,2-1,/match/brighton-amp-hov/portsmouth/1992,1992,9,championship,24,10,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-Blackburn Rovers,Sunderland,2-2,/match/blackburn-rovers-fc/sunderland-afc/1992,1992,9,championship,24,10,1,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Swindon Town,Southend United,3-1,/match/swindon-town/southend-united/1992,1992,8,championship,24,10,0,3,1,7,13,10,9,52,39,DWWLDWWWWLLWLWDWLDDDDDDWLWWWWWDL,10,3,4,29,19,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLWWWL,0
+Derby County,Plymouth Argyle,2-0,/match/derby-county-fc/plymouth-argyle/1992,1992,8,championship,24,10,0,2,0,11,15,6,11,42,35,DWLLLDDWWDWLWLLWLWLLLDLDWLLLWWLW,7,2,7,21,17,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLLLWW,0
+Tranmere Rovers,Leicester,1-2,/match/tranmere-rovers/leicester-city-fc/1992,1992,8,championship,24,10,2,1,2,12,8,15,7,32,34,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLW,6,7,2,22,18,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDDWL,0
+Wolves,Millwall,0-0,/match/wolverhampton/millwall-fc/1992,1992,8,championship,24,10,1,0,0,14,12,7,12,41,36,LDDLWLWWLLDWDWLLWLWWWDDWLLWWWDW,7,4,5,22,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWWWD,0
+Barnsley,Blackburn Rovers,2-1,/match/barnsley-fc/blackburn-rovers-fc/1992,1992,8,championship,24,10,0,2,1,16,11,8,15,36,44,WLLDWLDWWWLLWLWLWLWWWDWDDDWWLLDWDW,8,3,7,21,20,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDLDWW,0
+Brighton Hove Alb.,Cambridge United,1-1,/match/brighton-amp-hov/cambridge-united/1992,1992,8,championship,24,10,1,1,1,22,8,9,17,44,55,LWLDLDLWWWWDWLLWWDDWWWDLWWDWDLWLDW,6,5,7,30,28,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDWLLW,0
+Bristol City,Oxford United,1-1,/match/bristol-city-fc/oxford-united/1992,1992,8,championship,24,10,1,1,1,18,8,11,13,34,50,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWD,7,6,3,20,16,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWDLD,0
+Charlton Athletic,Middlesbrough,0-0,/match/charlton-athletic-fc/middlesbrough-fc/1992,1992,8,championship,24,10,1,0,0,10,14,7,12,40,38,WDLDLWLWWLWWLDDWDLWLLDWLDLLLWWWWW,7,4,5,20,18,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDLWW,0
+Ipswich Town,Derby County,2-1,/match/ipswich-town-fc/derby-county-fc/1992,1992,8,championship,24,10,0,2,1,2,17,8,7,51,35,DWWLLWWDWLWDDDDDLLWLWWDWWLWWLWLW,11,1,3,29,15,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWWWW,0
+Port Vale,Plymouth Argyle,1-0,/match/port-vale/plymouth-argyle/1992,1992,8,championship,24,10,0,1,0,21,7,13,14,32,44,WWWDDLDWWDWWLDWDWLWLWDDDDWLLDDLLDL,4,7,6,17,21,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLLLLL,0
+Portsmouth,Swindon Town,1-1,/match/portsmouth/swindon-town/1992,1992,8,championship,24,10,1,1,1,5,14,8,10,43,34,DWWWDWDWLWWWDDWWLWWDWWWWLDWLWWDW,11,4,1,28,8,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWDLWW,0
+Southend United,Grimsby Town,3-1,/match/southend-united/grimsby-town/1992,1992,8,championship,24,10,0,3,1,6,15,8,11,49,41,DLLLWWWDLDLLDLDWWWWLWDDLWWWDWWWWWW,10,3,4,30,18,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWWWW,0
+Watford,Bristol Rovers,1-0,/match/watford-fc/bristol-rovers/1992,1992,8,championship,24,10,0,1,0,23,10,7,15,34,39,LDLLLLWWWWWLLLWWLDWWLDLLDDWDWWDW,5,4,7,16,18,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDDWD,0
+Newcastle,Sunderland,1-0,/match/newcastle-united-fc/sunderland-afc/1992,1992,8,championship,24,10,0,1,0,17,8,12,14,49,63,WDWLDWLDWDWWWDWDWDWDWDDWLWWDLWWWDL,6,8,3,31,24,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWLWD,0
+Wolves,Newcastle,6-2,/match/wolverhampton/newcastle-united-fc/1992,1992,8,championship,24,10,0,6,2,14,12,7,12,41,36,LDDLWLWWLLDWDWLLWLWWWDDWLLWWWDW,7,4,5,22,17,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWWWD,0
+Watford,Brighton Hove Alb.,0-1,/match/watford-fc/brighton-amp-hov/1992,1992,8,championship,24,10,2,0,1,23,10,7,15,34,39,LDLLLLWWWWWLLLWWLDWWLDLLDDWDWWDW,5,4,7,16,18,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDDWD,0
+Tranmere Rovers,Bristol City,2-2,/match/tranmere-rovers/bristol-city-fc/1992,1992,8,championship,24,10,1,2,2,12,8,15,7,32,34,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLW,6,7,2,22,18,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDDWL,0
+Portsmouth,Charlton Athletic,1-2,/match/portsmouth/charlton-athletic-fc/1992,1992,8,championship,24,10,2,1,2,5,14,8,10,43,34,DWWWDWDWLWWWDDWWLWWDWWWWLDWLWWDW,11,4,1,28,8,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWDLWW,0
+Port Vale,Blackburn Rovers,2-0,/match/port-vale/blackburn-rovers-fc/1992,1992,8,championship,24,10,0,2,0,21,7,13,14,32,44,WWWDDLDWWDWWLDWDWLWLWDDDDWLLDDLLDL,4,7,6,17,21,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLLLLL,0
+Plymouth Argyle,Grimsby Town,1-2,/match/plymouth-argyle/grimsby-town/1992,1992,8,championship,24,10,2,1,2,19,9,7,16,32,48,WWWDLWWDWLWDLWWWWWWWWDWWDLDWWLDW,8,4,4,18,17,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWDDLD,0
+Ipswich Town,Barnsley,2-0,/match/ipswich-town-fc/barnsley-fc/1992,1992,8,championship,24,10,0,2,0,2,17,8,7,51,35,DWWLLWWDWLWDDDDDLLWLWWDWWLWWLWLW,11,1,3,29,15,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWWWW,0
+Leicester,Middlesbrough,2-1,/match/leicester-city-fc/middlesbrough-fc/1992,1992,9,championship,24,10,0,2,1,10,17,8,12,48,44,DWLWWWWWWLWWLLDWLDLLDWWWDDWWWLLWDDLLL,9,4,4,29,17,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWWWLDL,0
+Millwall,Oxford United,2-1,/match/millwall-fc/oxford-united/1992,1992,9,championship,24,10,0,2,1,18,14,8,16,54,62,WWWLLDDWLLLDLLDWLWDLDLLWWWWLLDWWWWLWWD,8,2,8,24,26,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWWLDWWLW,0
+Bristol Rovers,Southend United,4-1,/match/bristol-rovers/southend-united/1992,1992,9,championship,24,10,0,4,1,14,12,12,15,46,56,DDLWLWWWWWWDDDLLDDLLDWWWWDWWWDWWWWWDLDW,8,8,3,33,26,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWWWWWDD,0
+Derby County,Cambridge United,0-0,/match/derby-county-fc/cambridge-united/1992,1992,9,championship,24,10,1,0,0,12,17,7,14,53,45,DWLLLDDWWDWLWLLWLWLLLDLDWLLLWWLWDWWLWW,9,2,8,27,20,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLLLWWWLW,0
+Swindon Town,Port Vale,1-0,/match/swindon-town/port-vale/1992,1992,9,championship,24,10,0,1,0,6,15,11,12,63,51,DWWLDWWWWLLWLWDWLDDDDDDWLWWWWWDLWLWWWD,12,3,5,35,22,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLWWWLLWW,0
+Southend United,Ipswich Town,1-2,/match/southend-united/ipswich-town-fc/1992,1992,9,championship,24,10,2,1,2,7,16,9,14,57,51,DLLLWWWDLDLLDLDWWWWLWDDLWWWDWWWWWWDLLWW,11,3,6,35,23,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWWWWLLW,0
+Oxford United,Wolves,1-0,/match/oxford-united/wolverhampton/1992,1992,9,championship,24,10,0,1,0,21,11,8,19,55,60,WLWLWDWWWWWWLLLLWWDWDLLWDWDWWWLWDWDWWD,9,4,7,35,27,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWDWWWDW,0
+Newcastle,Tranmere Rovers,2-3,/match/newcastle-united-fc/tranmere-rovers/1992,1992,9,championship,24,10,2,2,3,15,11,13,16,58,72,WDWLDWLDWDWWWDWDWDWDWDDWLWWDLWWWDLLLWDWW,8,8,4,35,26,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWLWDLWW,0
+Middlesbrough,Watford,1-2,/match/middlesbrough-fc/watford-fc/1992,1992,9,championship,24,10,2,1,2,4,17,10,8,43,29,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDLDLDWD,11,6,0,28,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWDDW,0
+Grimsby Town,Bristol Rovers,0-1,/match/grimsby-town/bristol-rovers/1992,1992,9,championship,24,10,2,0,1,22,12,10,16,44,55,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDDLLLLDWL,6,5,8,23,25,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWDLLLD,0
+Charlton Athletic,Plymouth Argyle,0-0,/match/charlton-athletic-fc/plymouth-argyle/1992,1992,9,championship,24,10,1,0,0,8,18,8,13,48,43,WDLDLWLWWLWWLDDWDLWLLDWLDLLLWWWWWLWLLDL,8,5,6,22,21,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDLWWLWD,0
+Cambridge United,Millwall,1-0,/match/cambridge-united/millwall-fc/1992,1992,9,championship,24,10,0,1,0,3,17,14,8,54,37,LWLLLDWWWWWLWDDLDLDDDDLWLLDDLWWWWDLLDDD,8,8,4,27,15,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLDWWWLDD,0
+Bristol City,Leicester,2-1,/match/bristol-city-fc/leicester-city-fc/1992,1992,9,championship,24,10,0,2,1,16,10,14,15,44,58,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWDDWLWLDD,8,7,4,24,19,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWDLDLWD,0
+Barnsley,Derby County,0-3,/match/barnsley-fc/derby-county-fc/1992,1992,9,championship,24,10,2,0,3,13,14,9,16,40,47,WLLDWLDWWWLLWLWLWLWWWDWDDDWWLLDWDWLWDWW,10,3,7,24,21,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDLDWWWW,0
+Tranmere Rovers,Portsmouth,2-0,/match/tranmere-rovers/portsmouth/1992,1992,9,championship,24,10,0,2,0,11,11,16,10,44,45,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLWWLWWWLD,8,8,3,31,26,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDDWLWWLD,0
+Bristol City,Middlesbrough,1-1,/match/bristol-city-fc/middlesbrough-fc/1992,1992,9,championship,24,10,1,1,1,16,10,14,15,44,58,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWDDWLWLDD,8,7,4,24,19,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWDLDLWD,0
+Grimsby Town,Derby County,0-1,/match/grimsby-town/derby-county-fc/1992,1992,9,championship,24,10,2,0,1,22,12,10,16,44,55,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDDLLLLDWL,6,5,8,23,25,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWDLLLD,0
+Ipswich Town,Wolves,2-1,/match/ipswich-town-fc/wolverhampton/1992,1992,9,championship,24,10,0,2,1,1,20,10,8,58,39,DWWLLWWDWLWDDDDDLLWLWWDWWLWWLWLWLDLDWW,13,2,4,34,18,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWWWWDLWW,0
+Millwall,Swindon Town,1-1,/match/millwall-fc/swindon-town/1992,1992,9,championship,24,10,1,1,1,18,14,8,16,54,62,WWWLLDDWLLLDLLDWLWDLDLLWWWWLLDWWWWLWWD,8,2,8,24,26,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWWLDWWLW,0
+Leicester,Sunderland,3-2,/match/leicester-city-fc/sunderland-afc/1992,1992,9,championship,24,10,0,3,2,10,17,8,12,48,44,DWLWWWWWWLWWLLDWLDLLDWWWDDWWWLLWDDLLL,9,4,4,29,17,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWWWLDL,0
+Tranmere Rovers,Middlesbrough,1-2,/match/tranmere-rovers/middlesbrough-fc/1992,1992,9,championship,24,10,2,1,2,11,11,16,10,44,45,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLWWLWWWLD,8,8,3,31,26,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDDWLWWLD,0
+Derby County,Oxford United,2-2,/match/derby-county-fc/oxford-united/1992,1992,9,championship,24,10,1,2,2,12,17,7,14,53,45,DWLLLDDWWDWLWLLWLWLLLDLDWLLLWWLWDWWLWW,9,2,8,27,20,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLLLWWWLW,0
+Watford,Blackburn Rovers,2-1,/match/watford-fc/blackburn-rovers-fc/1992,1992,9,championship,24,10,0,2,1,19,14,8,17,40,43,LDLLLLWWWWWLLLWWLDWWLDLLDDWDWWDWLDWLLWL,7,4,9,18,20,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDDWDLWWL,0
+Ipswich Town,Newcastle,3-2,/match/ipswich-town-fc/newcastle-united-fc/1992,1992,9,championship,24,10,0,3,2,1,20,10,8,58,39,DWWLLWWDWLWDDDDDLLWLWWDWWLWWLWLWLDLDWW,13,2,4,34,18,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWWWWDLWW,0
+Leicester,Barnsley,3-1,/match/leicester-city-fc/barnsley-fc/1992,1992,9,championship,24,10,0,3,1,10,17,8,12,48,44,DWLWWWWWWLWWLLDWLDLLDWWWDDWWWLLWDDLLL,9,4,4,29,17,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWWWLDL,0
+Millwall,Bristol City,2-3,/match/millwall-fc/bristol-city-fc/1992,1992,9,championship,24,10,2,2,3,18,14,8,16,54,62,WWWLLDDWLLLDLLDWLWDLDLLWWWWLLDWWWWLWWD,8,2,8,24,26,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWWLDWWLW,0
+Plymouth Argyle,Southend United,0-2,/match/plymouth-argyle/southend-united/1992,1992,9,championship,24,10,2,0,2,17,11,8,20,36,55,WWWDLWWDWLWDLWWWWWWWWDWWDLDWWLDWDWWWWWL,10,5,5,22,20,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWDDLDDWWL,0
+Port Vale,Brighton Hove Alb.,2-1,/match/port-vale/brighton-amp-hov/1992,1992,9,championship,24,10,0,2,1,23,9,13,18,37,51,WWWDDLDWWDWWLDWDWLWLWDDDDWLLDDLLDLWWLWWW,6,7,7,20,22,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLLLLLLWW,0
+Portsmouth,Grimsby Town,2-0,/match/portsmouth/grimsby-town/1992,1992,9,championship,24,10,0,2,0,5,16,10,12,57,44,DWWWDWDWLWWWDDWWLWWDWWWWLDWLWWDWDWLWDL,12,5,2,36,12,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWDLWWWDL,0
+Sunderland,Charlton Athletic,1-2,/match/sunderland-afc/charlton-athletic-fc/1992,1992,9,championship,24,10,2,1,2,20,12,7,17,48,51,DLWWWDWLLWWWDDWLWDWLWWWWWWWLDWDWWWLW,8,6,3,29,18,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWWDDWL,0
+Wolves,Cambridge United,2-1,/match/wolverhampton/cambridge-united/1992,1992,9,championship,24,10,0,2,1,9,15,10,13,52,43,LDDLWLWWLLDWDWLLWLWWWDDWLLWWWDWDDWWLDW,9,6,5,30,20,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWWWDDWDW,0
+Bristol Rovers,Swindon Town,1-1,/match/bristol-rovers/swindon-town/1992,1992,9,championship,24,10,1,1,1,14,12,12,15,46,56,DDLWLWWWWWWDDDLLDDLLDWWWWDWWWDWWWWWDLDW,8,8,3,33,26,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWWWWWDD,0
+Middlesbrough,Barnsley,0-1,/match/middlesbrough-fc/barnsley-fc/1992,1992,9,championship,24,10,2,0,1,4,17,10,8,43,29,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDLDLDWD,11,6,0,28,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWDDW,0
+Sunderland,Ipswich Town,3-0,/match/sunderland-afc/ipswich-town-fc/1992,1992,9,championship,24,10,0,3,0,20,12,7,17,48,51,DLWWWDWLLWWWDDWLWDWLWWWWWWWLDWDWWWLW,8,6,3,29,18,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWWDDWL,0
+Blackburn Rovers,Wolves,1-2,/match/blackburn-rovers-fc/wolverhampton/1992,1992,9,championship,24,10,2,1,2,2,19,9,11,59,42,DWLLDWWWDLWWWWWLWDWLWDWWWDWLWWDWDWDLLWW,13,4,2,36,15,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWWWWWDDL,0
+Southend United,Port Vale,0-0,/match/southend-united/port-vale/1992,1992,9,championship,24,10,1,0,0,7,16,9,14,57,51,DLLLWWWDLDLLDLDWWWWLWDDLWWWDWWWWWWDLLWW,11,3,6,35,23,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWWWWLLW,0
+Middlesbrough,Oxford United,2-1,/match/middlesbrough-fc/oxford-united/1992,1992,9,championship,24,10,0,2,1,4,17,10,8,43,29,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDLDLDWD,11,6,0,28,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWDDW,0
+Leicester,Tranmere Rovers,1-0,/match/leicester-city-fc/tranmere-rovers/1992,1992,9,championship,24,10,0,1,0,10,17,8,12,48,44,DWLWWWWWWLWWLLDWLDLLDWWWDDWWWLLWDDLLL,9,4,4,29,17,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWWWLDL,0
+Brighton Hove Alb.,Derby County,1-2,/match/brighton-amp-hov/derby-county-fc/1992,1992,9,championship,24,10,2,1,2,24,11,10,19,48,63,LWLDLDLWWWWDWLLWWDDWWWDLWWDWDLWLDWLLLWDL,6,6,8,31,32,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDWLLWLD,0
+Sunderland,Plymouth Argyle,0-1,/match/sunderland-afc/plymouth-argyle/1992,1992,9,championship,24,10,2,0,1,20,12,7,17,48,51,DLWWWDWLLWWWDDWLWDWLWWWWWWWLDWDWWWLW,8,6,3,29,18,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWWDDWL,0
+Cambridge United,Portsmouth,2-2,/match/cambridge-united/portsmouth/1992,1992,9,championship,24,10,1,2,2,3,17,14,8,54,37,LWLLLDWWWWWLWDDLDLDDDDLWLLDDLWWWWDLLDDD,8,8,4,27,15,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLDWWWLDD,0
+Oxford United,Bristol Rovers,2-2,/match/oxford-united/bristol-rovers/1992,1992,9,championship,24,10,1,2,2,21,11,8,19,55,60,WLWLWDWWWWWWLLLLWWDWDLLWDWDWWWLWDWDWWD,9,4,7,35,27,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWDWWWDW,0
+Swindon Town,Wolves,1-0,/match/swindon-town/wolverhampton/1992,1992,9,championship,24,10,0,1,0,6,15,11,12,63,51,DWWLDWWWWLLWLWDWLDDDDDDWLWWWWWDLWLWWWD,12,3,5,35,22,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLWWWLLWW,0
+Barnsley,Tranmere Rovers,1-1,/match/barnsley-fc/tranmere-rovers/1992,1992,9,championship,24,10,1,1,1,13,14,9,16,40,47,WLLDWLDWWWLLWLWLWLWWWDWDDDWWLLDWDWLWDWW,10,3,7,24,21,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDLDWWWW,0
+Blackburn Rovers,Leicester,0-1,/match/blackburn-rovers-fc/leicester-city-fc/1992,1992,9,championship,24,10,2,0,1,2,19,9,11,59,42,DWLLDWWWDLWWWWWLWDWLWDWWWDWLWWDWDWDLLWW,13,4,2,36,15,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWWWWWDDL,0
+Bristol City,Ipswich Town,2-1,/match/bristol-city-fc/ipswich-town-fc/1992,1992,9,championship,24,10,0,2,1,16,10,14,15,44,58,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWDDWLWLDD,8,7,4,24,19,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWDLDLWD,0
+Charlton Athletic,Watford,1-1,/match/charlton-athletic-fc/watford-fc/1992,1992,9,championship,24,10,1,1,1,8,18,8,13,48,43,WDLDLWLWWLWWLDDWDLWLLDWLDLLLWWWWWLWLLDL,8,5,6,22,21,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDLWWLWD,0
+Grimsby Town,Sunderland,2-0,/match/grimsby-town/sunderland-afc/1992,1992,9,championship,24,10,0,2,0,22,12,10,16,44,55,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDDLLLLDWL,6,5,8,23,25,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWDLLLD,0
+Middlesbrough,Plymouth Argyle,2-1,/match/middlesbrough-fc/plymouth-argyle/1992,1992,9,championship,24,10,0,2,1,4,17,10,8,43,29,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDLDLDWD,11,6,0,28,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWDDW,0
+Newcastle,Millwall,0-1,/match/newcastle-united-fc/millwall-fc/1992,1992,9,championship,24,10,2,0,1,15,11,13,16,58,72,WDWLDWLDWDWWWDWDWDWDWDDWLWWDLWWWDLLLWDWW,8,8,4,35,26,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWLWDLWW,0
+Wolves,Southend United,3-1,/match/wolverhampton/southend-united/1992,1992,9,championship,24,10,0,3,1,9,15,10,13,52,43,LDDLWLWWLLDWDWLLWLWWWDDWLLWWWDWDDWWLDW,9,6,5,30,20,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLDLLLWWDWWWDDWDW,0
+Watford,Swindon Town,0-0,/match/watford-fc/swindon-town/1992,1992,9,championship,24,10,1,0,0,19,14,8,17,40,43,LDLLLLWWWWWLLLWWLDWWLDLLDDWDWWDWLDWLLWL,7,4,9,18,20,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLLWLWLDDDWDLWWL,0
+Tranmere Rovers,Blackburn Rovers,2-2,/match/tranmere-rovers/blackburn-rovers-fc/1992,1992,9,championship,24,10,1,2,2,11,11,16,10,44,45,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLWWLWWWLD,8,8,3,31,26,0,0,0,0,0,0,0,0,0,0,0,0,DDWWDLWWDWDDDWLWWLD,0
+Sunderland,Middlesbrough,1-0,/match/sunderland-afc/middlesbrough-fc/1992,1992,9,championship,24,10,0,1,0,20,12,7,17,48,51,DLWWWDWLLWWWDDWLWDWLWWWWWWWLDWDWWWLW,8,6,3,29,18,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWWDDWL,0
+Portsmouth,Bristol City,1-0,/match/portsmouth/bristol-city-fc/1992,1992,9,championship,24,10,0,1,0,5,16,10,12,57,44,DWWWDWDWLWWWDDWWLWWDWWWWLDWLWWDWDWLWDL,12,5,2,36,12,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWDLWWWDL,0
+Plymouth Argyle,Oxford United,3-1,/match/plymouth-argyle/oxford-united/1992,1992,9,championship,24,10,0,3,1,17,11,8,20,36,55,WWWDLWWDWLWDLWWWWWWWWDWWDLDWWLDWDWWWWWL,10,5,5,22,20,0,0,0,0,0,0,0,0,0,0,0,0,WWLDLLWWWWWWDDLDDWWL,0
+Derby County,Newcastle,4-1,/match/derby-county-fc/newcastle-united-fc/1992,1992,9,championship,24,10,0,4,1,12,17,7,14,53,45,DWLLLDDWWDWLWLLWLWLLLDLDWLLLWWLWDWWLWW,9,2,8,27,20,0,0,0,0,0,0,0,0,0,0,0,0,WLLDWWWLWLDLLLWWWLW,0
+Bristol Rovers,Brighton Hove Alb.,4-1,/match/bristol-rovers/brighton-amp-hov/1992,1992,9,championship,24,10,0,4,1,14,12,12,15,46,56,DDLWLWWWWWWDDDLLDDLLDWWWWDWWWDWWWWWDLDW,8,8,3,33,26,0,0,0,0,0,0,0,0,0,0,0,0,DLLWWDDDLDWDWWWWWDD,0
+Ipswich Town,Grimsby Town,0-0,/match/ipswich-town-fc/grimsby-town/1992,1992,9,championship,24,10,1,0,0,1,20,10,8,58,39,DWWLLWWDWLWDDDDDLLWLWWDWWLWWLWLWLDLDWW,13,2,4,34,18,0,0,0,0,0,0,0,0,0,0,0,0,WWLWWWDLLWWWWWWDLWW,0
+Port Vale,Charlton Athletic,1-1,/match/port-vale/charlton-athletic-fc/1992,1992,9,championship,24,10,1,1,1,23,9,13,18,37,51,WWWDDLDWWDWWLDWDWLWLWDDDDWLLDDLLDLWWLWWW,6,7,7,20,22,0,0,0,0,0,0,0,0,0,0,0,0,WDDDDWDWLWDDLLLLLLWW,0
+Leicester,Cambridge United,2-1,/match/leicester-city-fc/cambridge-united/1992,1992,9,championship,24,10,0,2,1,10,17,8,12,48,44,DWLWWWWWWLWWLLDWLDLLDWWWDDWWWLLWDDLLL,9,4,4,29,17,0,0,0,0,0,0,0,0,0,0,0,0,WWWWLWDDLDWWWWLDL,0
+Portsmouth,Watford,0-0,/match/portsmouth/watford-fc/1992,1992,9,championship,24,10,1,0,0,5,16,10,12,57,44,DWWWDWDWLWWWDDWWLWWDWWWWLDWLWWDWDWLWDL,12,5,2,36,12,0,0,0,0,0,0,0,0,0,0,0,0,WWDWWDWWWDWWDLWWWDL,0
+Millwall,Barnsley,1-1,/match/millwall-fc/barnsley-fc/1992,1992,9,championship,24,10,1,1,1,18,14,8,16,54,62,WWWLLDDWLLLDLLDWLWDLDLLWWWWLLDWWWWLWWD,8,2,8,24,26,0,0,0,0,0,0,0,0,0,0,0,0,WLLWLLDWLLWWLDWWLW,0
+Charlton Athletic,Leicester,2-0,/match/charlton-athletic-fc/leicester-city-fc/1992,1992,9,championship,24,10,0,2,0,8,18,8,13,48,43,WDLDLWLWWLWWLDDWDLWLLDWLDLLLWWWWWLWLLDL,8,5,6,22,21,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDLWWLWD,0
+Barnsley,Wolves,1-0,/match/barnsley-fc/wolverhampton/1992,1992,9,championship,24,10,0,1,0,13,14,9,16,40,47,WLLDWLDWWWLLWLWLWLWWWDWDDDWWLLDWDWLWDWW,10,3,7,24,21,0,0,0,0,0,0,0,0,0,0,0,0,LLLWWLWLWLWWDDLDWWWW,0
+Blackburn Rovers,Millwall,2-1,/match/blackburn-rovers-fc/millwall-fc/1992,1992,9,championship,24,10,0,2,1,2,19,9,11,59,42,DWLLDWWWDLWWWWWLWDWLWDWWWDWLWWDWDWDLLWW,13,4,2,36,15,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWWWWWDDL,0
+Brighton Hove Alb.,Sunderland,2-2,/match/brighton-amp-hov/sunderland-afc/1992,1992,9,championship,24,10,1,2,2,24,11,10,19,48,63,LWLDLDLWWWWDWLLWWDDWWWDLWWDWDLWLDWLLLWDL,6,6,8,31,32,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDWLLWLD,0
+Bristol City,Derby County,1-2,/match/bristol-city-fc/derby-county-fc/1992,1992,9,championship,24,10,2,1,2,16,10,14,15,44,58,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWDDWLWLDD,8,7,4,24,19,0,0,0,0,0,0,0,0,0,0,0,0,WWWDDLWDWWLDWDLDLWD,0
+Cambridge United,Port Vale,4-2,/match/cambridge-united/port-vale/1992,1992,9,championship,24,10,0,4,2,3,17,14,8,54,37,LWLLLDWWWWWLWDDLDLDDDDLWLLDDLWWWWDLLDDD,8,8,4,27,15,0,0,0,0,0,0,0,0,0,0,0,0,WLDWWWWDDDDLLDWWWLDD,0
+Grimsby Town,Watford,0-1,/match/grimsby-town/watford-fc/1992,1992,9,championship,24,10,2,0,1,22,12,10,16,44,55,LLDWLWDLLWLWWWWWDWDWWDDLWLLDWDDLLLLDWL,6,5,8,23,25,0,0,0,0,0,0,0,0,0,0,0,0,LDWDLLWWDWLWLWDLLLD,0
+Middlesbrough,Bristol Rovers,2-1,/match/middlesbrough-fc/bristol-rovers/1992,1992,9,championship,24,10,0,2,1,4,17,10,8,43,29,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDLDLDWD,11,6,0,28,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWDDW,0
+Newcastle,Portsmouth,1-0,/match/newcastle-united-fc/portsmouth/1992,1992,9,championship,24,10,0,1,0,15,11,13,16,58,72,WDWLDWLDWDWWWDWDWDWDWDDWLWWDLWWWDLLLWDWW,8,8,4,35,26,0,0,0,0,0,0,0,0,0,0,0,0,DDLDDWWDWWDDLWLWDLWW,0
+Oxford United,Ipswich Town,1-1,/match/oxford-united/ipswich-town-fc/1992,1992,9,championship,24,10,1,1,1,21,11,8,19,55,60,WLWLWDWWWWWWLLLLWWDWDLLWDWDWWWLWDWDWWD,9,4,7,35,27,0,0,0,0,0,0,0,0,0,0,0,0,LLDWWWLLLDWLLWDWWWDW,0
+Southend United,Tranmere Rovers,1-1,/match/southend-united/tranmere-rovers/1992,1992,9,championship,24,10,1,1,1,7,16,9,14,57,51,DLLLWWWDLDLLDLDWWWWLWDDLWWWDWWWWWWDLLWW,11,3,6,35,23,0,0,0,0,0,0,0,0,0,0,0,0,DLWWLLDLWWWWDWWWWLLW,0
+Swindon Town,Plymouth Argyle,1-0,/match/swindon-town/plymouth-argyle/1992,1992,9,championship,24,10,0,1,0,6,15,11,12,63,51,DWWLDWWWWLLWLWDWLDDDDDDWLWWWWWDLWLWWWD,12,3,5,35,22,0,0,0,0,0,0,0,0,0,0,0,0,DWWWWLWWLDDWLWWWLLWW,0
+Sunderland,Swindon Town,0-0,/match/sunderland-afc/swindon-town/1992,1992,9,championship,24,10,1,0,0,20,12,7,17,48,51,DLWWWDWLLWWWDDWLWDWLWWWWWWWLDWDWWWLW,8,6,3,29,18,0,0,0,0,0,0,0,0,0,0,0,0,DWDLWDWDLWWWWDDWL,0
+Middlesbrough,Grimsby Town,2-0,/match/middlesbrough-fc/grimsby-town/1992,1992,9,championship,24,10,0,2,0,4,17,10,8,43,29,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDLDLDWD,11,6,0,28,7,0,0,0,0,0,0,0,0,0,0,0,0,WWWWWWDWDWWDDWDDW,0
+Charlton Athletic,Tranmere Rovers,0-1,/match/charlton-athletic-fc/tranmere-rovers/1992,1992,9,championship,24,10,2,0,1,8,18,8,13,48,43,WDLDLWLWWLWWLDDWDLWLLDWLDLLLWWWWWLWLLDL,8,5,6,22,21,0,0,0,0,0,0,0,0,0,0,0,0,WLWLWWWDDLLDDLWWLWD,0
+Brighton Hove Alb.,Portsmouth,2-1,/match/brighton-amp-hov/portsmouth/1992,1992,9,championship,24,10,0,2,1,24,11,10,19,48,63,LWLDLDLWWWWDWLLWWDDWWWDLWWDWDLWLDWLLLWDL,6,6,8,31,32,0,0,0,0,0,0,0,0,0,0,0,0,LDLWWDLLWDWDLDWLLWLD,0
+Blackburn Rovers,Sunderland,2-2,/match/blackburn-rovers-fc/sunderland-afc/1992,1992,9,championship,24,10,1,2,2,2,19,9,11,59,42,DWLLDWWWDLWWWWWLWDWLWDWWWDWLWWDWDWDLLWW,13,4,2,36,15,0,0,0,0,0,0,0,0,0,0,0,0,DLWWDWWWWWWWWWWWDDL,0
 Wolves,Middlesbrough,1-2,/match/wolverhampton/middlesbrough-fc/1992,1992,10,championship,24,10,2,1,2,10,18,10,17,60,51,LDDLWLWWLLDWDWLLWLWWWDDWLLWWWDWDDWWLDWWWWLWWW,11,6,5,35,22,2,22,11,12,56,40,WWWWWLLWWDWWDWWDWDWWWDLWDWWLDLDLDWDWLDLLWWWWW,7,5,10,19,27,DLWWLDLLLWWDWWWDDWDWWW,WWLLDWWWDWLWWLLLDDWDLW
 Watford,Bristol City,5-2,/match/watford-fc/bristol-city-fc/1992,1992,10,championship,24,10,0,5,2,16,17,11,17,46,46,LDLLLLWWWWWLLLWWLDWWLDLLDDWDWWDWLDWLLWLLWDDDL,8,5,9,20,21,14,13,15,17,53,66,DWWDWWDDWLWWLDDWWDWLWWDWDWDLWWWDDWLWLDDWDLWWL,3,7,12,23,42,LLLWWLLWLWLDDDWDLWWLWD,DDWWWLDDWWWDWWWWDWLDLW
 Tranmere Rovers,Oxford United,1-2,/match/tranmere-rovers/oxford-united/1992,1992,10,championship,24,10,2,1,2,11,14,19,12,55,54,LDDDWDWWDDWLDLWWDWDWDDWDDDWDLWWLWWWLDLWLWDDDL,9,9,4,36,30,21,12,11,22,64,72,WLWLWDWWWWWWLLLLWWDWDLLWDWDWWWLWDWDWWDWWDWDWD,2,5,15,25,42,DDWWDLWWDWDDDWLWWLDWLD,WWWWWWLWWDDWWWLDWDWDWW

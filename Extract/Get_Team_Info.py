@@ -102,7 +102,6 @@ def create_teamcsv():
         'City',
         'Country',
         'Stadium',
-        'Address',
         'Capacity',
         'Pitch',
         ]
@@ -131,9 +130,9 @@ def update_teams(df):
     else:
         dict_team = {}
 
-    teams = set(list(dict_team.keys()))
-    teams_in_df = set(df.Team.unique())
-    if (df.City.isna().sum() == 0) & (len(teams) <= len(teams_in_df)):
+    teams = set(dict_team.keys())
+    teams_in_df = set(df.Home_Team.unique())
+    if teams_in_df - teams:
         return None
 
     new_teams = {}

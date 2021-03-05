@@ -1,11 +1,8 @@
 import pickle
 import os
 import pandas as pd
-from Extract.Extract_Data import *
+from Extract_Data import *
 import glob
-from urllib.request import urlopen, Request
-from bs4 import BeautifulSoup
-from Create_Database import create_standings_database
 import numpy as np
 import progressbar
 pd.options.mode.chained_assignment = None
@@ -70,7 +67,7 @@ def clean_names(x):
 
 
 leagues = [x.split('\\')[1] for x in glob.glob('./Data/Results/*')]
-for league in leagues[1:2]:
+for league in leagues[3:]:
     os.makedirs(f"./Data/Results_Cleaned/{league}", exist_ok=True)
     seasons = glob.glob(f'./Data/Results/{league}/*')
     for season in seasons:
@@ -80,9 +77,9 @@ for league in leagues[1:2]:
             print(f'No available data for season {season} of {league}')
             continue
         filename = f'Cleaned_{df.loc[0]["Season"]}_{df.loc[0]["League"]}.csv'
-        if os.path.exists(f"./Data/Results_Cleaned/{league}/{filename}"):
-            # TODO Read filename and check its length to compare with df
-            continue
+        # if os.path.exists(f"./Data/Results_Cleaned/{league}/{filename}"):
+        #     # TODO Read filename and check its length to compare with df
+        #     continue`````
         print(f'Getting info about \tSeason: {df.loc[0]["Season"]}'
               + f'\n\t\t\tLeague: {df.loc[0]["League"]}')
         # Get the teams that were playing that season and the number of teams
@@ -162,75 +159,83 @@ for league in leagues[1:2]:
                 # performance and only the performance when it plays at home
 
                 # Let's write the performance of the Home team
-                if (cur_round['Home_Team'] == team).sum() == 1:
-                    idx = cur_round.loc[cur_round['Home_Team']
-                                        == team].index.values[0]
+                if (cur_round['Home_Team'] == team).sum() >= 1:
+                    indices = list(cur_round.loc[cur_round['Home_Team']
+                                                 == team].index.values)
 
                     # First the position of the team
-                    cur_round.loc[idx, 'Position_Home'] = row['Position']
-                    cur_round.loc[idx, 'Total_Wins_Home'] = int(row['Win'])
-                    cur_round.loc[idx, 'Total_Draw_Home'] = int(row['Draw'])
-                    cur_round.loc[idx, 'Total_Lose_Home'] = int(row['Lose'])
-                    cur_round.loc[idx, 'Total_Goals_For_Home_Team'] = \
-                        int(row['Goals_For'])
-                    cur_round.loc[idx, 'Total_Goals_Against_Home_Team'] = \
-                        int(row['Goals_Against'])
-                    cur_round.loc[idx, 'Total_Streak_Home'] = row['Streak']
+                    for idx in indices:
+                        cur_round.loc[idx, 'Position_Home'] = row['Position']
+                        cur_round.loc[idx, 'Total_Wins_Home'] = \
+                            int(row['Win'])
+                        cur_round.loc[idx, 'Total_Draw_Home'] = \
+                            int(row['Draw'])
+                        cur_round.loc[idx, 'Total_Lose_Home'] = \
+                            int(row['Lose'])
+                        cur_round.loc[idx, 'Total_Goals_For_Home_Team'] = \
+                            int(row['Goals_For'])
+                        cur_round.loc[idx, 'Total_Goals_Against_Home_Team'] = \
+                            int(row['Goals_Against'])
+                        cur_round.loc[idx, 'Total_Streak_Home'] = row['Streak']
 
-                    # Let's write the performance of the home team
-                    # when it is home
-                    cur_round.loc[idx, 'Wins_When_Home'] = \
-                        int(row['Win_Home'])
-                    cur_round.loc[idx, 'Draw_When_Home'] = \
-                        int(row['Draw_Home'])
-                    cur_round.loc[idx, 'Lose_When_Home'] = \
-                        int(row['Lose_Home'])
-                    # Goals scored by the home team when it is home
-                    cur_round.loc[idx, 'Goals_For_When_Home'] = \
-                        int(row['Goals_For_When_Home'])
-                    # Goals scored To the home team when it plays at home
-                    cur_round.loc[idx, 'Goals_Against_When_Home'] = \
-                        int(row['Goals_Against_When_Home'])
-                    # Streak of the home team only for the matches
-                    # played at home
-                    cur_round.loc[idx, 'Streak_When_Home'] = \
-                        row['Streak_When_Home']
+                        # Let's write the performance of the home team
+                        # when it is home
+                        cur_round.loc[idx, 'Wins_When_Home'] = \
+                            int(row['Win_Home'])
+                        cur_round.loc[idx, 'Draw_When_Home'] = \
+                            int(row['Draw_Home'])
+                        cur_round.loc[idx, 'Lose_When_Home'] = \
+                            int(row['Lose_Home'])
+                        # Goals scored by the home team when it is home
+                        cur_round.loc[idx, 'Goals_For_When_Home'] = \
+                            int(row['Goals_For_When_Home'])
+                        # Goals scored To the home team when it plays at home
+                        cur_round.loc[idx, 'Goals_Against_When_Home'] = \
+                            int(row['Goals_Against_When_Home'])
+                        # Streak of the home team only for the matches
+                        # played at home
+                        cur_round.loc[idx, 'Streak_When_Home'] = \
+                            row['Streak_When_Home']
 
                 # Let's write the performance of the Away team when
                 # it plays Away
-                elif (cur_round['Away_Team'] == team).sum() == 1:
-                    idx = cur_round.loc[cur_round['Away_Team']
-                                        == team].index.values[0]
+                elif (cur_round['Away_Team'] == team).sum() >= 1:
+                    indices = list(cur_round.loc[cur_round['Away_Team']
+                                                 == team].index.values)
 
                     # First the position of the team
-                    cur_round.loc[idx, 'Position_Away'] = row['Position']
-                    cur_round.loc[idx, 'Total_Wins_Away'] = int(row['Win'])
-                    cur_round.loc[idx, 'Total_Draw_Away'] = int(row['Draw'])
-                    cur_round.loc[idx, 'Total_Lose_Away'] = int(row['Lose'])
-                    cur_round.loc[idx, 'Total_Goals_For_Away_Team'] = \
-                        int(row['Goals_For'])
-                    cur_round.loc[idx, 'Total_Goals_Against_Away_Team'] = \
-                        int(row['Goals_Against'])
-                    cur_round.loc[idx, 'Total_Streak_Away'] = row['Streak']
+                    for idx in indices:
+                        cur_round.loc[idx, 'Position_Away'] = row['Position']
+                        cur_round.loc[idx, 'Total_Wins_Away'] = \
+                            int(row['Win'])
+                        cur_round.loc[idx, 'Total_Draw_Away'] = \
+                            int(row['Draw'])
+                        cur_round.loc[idx, 'Total_Lose_Away'] = \
+                            int(row['Lose'])
+                        cur_round.loc[idx, 'Total_Goals_For_Away_Team'] = \
+                            int(row['Goals_For'])
+                        cur_round.loc[idx, 'Total_Goals_Against_Away_Team'] = \
+                            int(row['Goals_Against'])
+                        cur_round.loc[idx, 'Total_Streak_Away'] = row['Streak']
 
-                    # Let's write the performance of the away team when
-                    # it plays away
-                    cur_round.loc[idx, 'Wins_When_Away'] = \
-                        int(row['Win_Away'])
-                    cur_round.loc[idx, 'Draw_When_Away'] = \
-                        int(row['Draw_Away'])
-                    cur_round.loc[idx, 'Lose_When_Away'] = \
-                        int(row['Lose_Away'])
-                    # Goals scored by the Away team when it is Away
-                    cur_round.loc[idx, 'Goals_For_When_Away'] = \
-                        int(row['Goals_For_When_Away'])
-                    # Goals scored To the Away team when it plays Away
-                    cur_round.loc[idx, 'Goals_Against_When_Away'] = \
-                        int(row['Goals_Against_When_Away'])
-                    # Streak of the Away team only for the matches
-                    # played at Away
-                    cur_round.loc[idx, 'Streak_When_Away'] = \
-                        row['Streak_When_Away']
+                        # Let's write the performance of the away team when
+                        # it plays away
+                        cur_round.loc[idx, 'Wins_When_Away'] = \
+                            int(row['Win_Away'])
+                        cur_round.loc[idx, 'Draw_When_Away'] = \
+                            int(row['Draw_Away'])
+                        cur_round.loc[idx, 'Lose_When_Away'] = \
+                            int(row['Lose_Away'])
+                        # Goals scored by the Away team when it is Away
+                        cur_round.loc[idx, 'Goals_For_When_Away'] = \
+                            int(row['Goals_For_When_Away'])
+                        # Goals scored To the Away team when it plays Away
+                        cur_round.loc[idx, 'Goals_Against_When_Away'] = \
+                            int(row['Goals_Against_When_Away'])
+                        # Streak of the Away team only for the matches
+                        # played at Away
+                        cur_round.loc[idx, 'Streak_When_Away'] = \
+                            row['Streak_When_Away']
                 else:
                     print(f'\n{team} did not play on round {r}\n')
             df.loc[cur_round.index] = cur_round
