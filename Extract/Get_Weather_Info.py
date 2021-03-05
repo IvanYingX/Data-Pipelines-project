@@ -40,7 +40,7 @@ def accept_cookies(ROOT="https://www.wunderground.com/history"):
     n = 0
     while n < 20:
         n += 1
-        print(f'Accessing {URL}. Iteration number {n}')
+        print(f'Accessing {ROOT_DIR}. Iteration number {n}')
         try:
             myElem = WebDriverWait(driver, delay).until(
                     EC.presence_of_element_located(
@@ -151,7 +151,7 @@ def create_weather(new_df, df_team, match_df):
 
 if __name__ == '__main__':
     # Load the dataframes
-    RES_DIR = './Data/Updated/Results'
+    RES_DIR = './Data/Results_Cleaned/*'
     df_results = load_raw(RES_DIR)
     df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
     df_team = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
@@ -161,8 +161,15 @@ if __name__ == '__main__':
     if os.path.exists(filename):
         with open(filename, "rb") as f:
             dict_city_code = pickle.load(f)
-    else:
+        city_code_df = df_team.drop_duplicates(subset='City')
+        cities = list(city_code_df.City)
+        countries = list(city_code_df.Country)
+        country_dict = {x: y for x, y in zip(cities, countries)}
 
+        city_diff = list(set(cities) - set(dict_city_code.keys()))
+        for city in city_diff:
+            dict_city_code[city] = [country_dict[city], None]
+    else:
         city_code_df = df_team.drop_duplicates(subset='City')
         cities = list(city_code_df.City)
         countries = list(city_code_df.Country)
@@ -186,6 +193,7 @@ if __name__ == '__main__':
         If the number of samples in df_weather is lower than the number of
         matches, we need to update the weather dataframe
         '''
+        # TODO take the results whose link are not in df weather
         if df_weather.shape[0] < df_results.shape[0]:
             new_samples = df_results.iloc[df_weather.shape[0]:]
             new_weather = create_weather(new_samples, df_team, df_match)

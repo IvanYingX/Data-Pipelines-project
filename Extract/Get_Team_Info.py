@@ -1,3 +1,4 @@
+from load_df import load_leagues
 import sys
 from os import path
 import pandas as pd
@@ -41,7 +42,7 @@ def get_stadium(row):
             elif seats:
                 capacity = seats.findNext('td').find(text=True)
             if row['Pitch']:
-                picth = row['Pitch']
+                pitch = row['Pitch']
             elif surface:
                 pitch = surface.findNext('td').find(text=True)
         elif info_geo:
@@ -132,45 +133,51 @@ def update_teams(df):
 
     teams = set(dict_team.keys())
     teams_in_df = set(df.Home_Team.unique())
-    if teams_in_df - teams:
+    if len(teams_in_df - teams) == 0:
         return None
 
-    new_teams = {}
-    teams_diff = teams - teams_in_df
-    for team in teams_diff:
-        new_teams[team] = dict_team[team]
+    teams_diff = teams_in_df - teams
+    new_teams = {team: [None] * 5 for team in teams_diff}
 
     new_columns = [
         'City',
         'Country',
         'Stadium',
-        'Address',
         'Capacity',
         'Pitch',
         ]
 
+    df_teams = pd.DataFrame.from_dict(dict_team, orient='index',
+                                      columns=new_columns)
+    df_teams.index = df_teams.index.set_names(['Team'])
+    df_teams.reset_index(inplace=True)
     df_new_teams = pd.DataFrame.from_dict(new_teams, orient='index',
                                           columns=new_columns)
     df_new_teams.index = df_new_teams.index.set_names(['Team'])
     df_new_teams.reset_index(inplace=True)
     #
-    team_incomplete = df[df['City'].isna()]
-    team_incomplete = pd.concat(
-            [df_new_teams, team_incomplete]
-            ).drop_duplicates(
-                ['Team'], keep='last')
+    # team_incomplete = df_new_teams[df_new_teams['City'].isna()]
+    # team_incomplete = pd.concat(
+    #         [df_new_teams, team_incomplete]
+    #         ).drop_duplicates(
+    #             ['Team'], keep='last')
 
-    team_incomplete, updates = get_link(team_incomplete, update=True)
+    team_incomplete, updates = get_link(df_new_teams, update=True)
 
-    df_updated = pd.concat([df, team_incomplete]).drop_duplicates(
+    df_updated = pd.concat([df_teams, team_incomplete]).drop_duplicates(
                             ['Team'], keep='last')
 
     df_updated.to_csv('./Data/Dictionaries/Team_Info.csv',
                       index=False)
+    dict_updated = df_updated.set_index('Team').T.to_dict(orient='list')
+    with open(filename, "wb") as f:
+        pickle.dump(dict_updated, f)
     return updates
 
 
 if __name__ == '__main__':
+    RES_DIR = './Data/Results_cleaned/*'
+    df_results = load_leagues(RES_DIR)
     csv_filename = './Data/Dictionaries/Team_Info.csv'
     if not os.path.exists(csv_filename):
         csv_incomplete = './Data/Dictionaries/Teams_to_Complete.csv'
@@ -180,7 +187,8 @@ if __name__ == '__main__':
             print(f'Go to {csv_incomplete}, manually check, fill it, \
                     and save it as {csv_filename}')
     else:
-        df_team = pd.read_csv(csv_filename)
-        updates = update_teams(df_team)
+        updates = update_teams(df_results)
         if updates is None:
             print('No updates were made for the team information')
+        else:
+            print(updates)

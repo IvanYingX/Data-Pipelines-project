@@ -8,10 +8,10 @@
 		"jupyter.jupyterServerType": "local",
 		"git.ignoreLimitWarning": true,
 		"files.exclude": {
-			"__pycache__": true,
-			".mypy_cache": true,
-			".venv": true,
-			".vscode": true
+			"__pycache__": false,
+			".mypy_cache": false,
+			".venv": false,
+			".vscode": false
 		},
 		"workspace.isHidden": false
 	}
