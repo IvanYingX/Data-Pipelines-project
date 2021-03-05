@@ -33,7 +33,7 @@ def accept_cookies(ROOT="https://www.wunderground.com/history"):
     ROOT_DIR = ROOT
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
     options = Options()
-    options.headless = False
+    options.headless = True
     driver = webdriver.Chrome(driver_dir, chrome_options=options)
     driver.get(ROOT_DIR)
     delay = 3
@@ -189,25 +189,38 @@ if __name__ == '__main__':
     weather_file = 'Data/Dictionaries/Weather_Info.csv'
     if os.path.exists(weather_file):
         df_weather = pd.read_csv(weather_file)
-        '''
-        If the number of samples in df_weather is lower than the number of
-        matches, we need to update the weather dataframe
-        '''
-        # TODO take the results whose link are not in df weather
-        if df_weather.shape[0] < df_results.shape[0]:
-            new_samples = df_results.iloc[df_weather.shape[0]:]
+        # Take the results whose link are not in df weather
+        weather_links = set(df_weather['Link'])
+        results_links = set(df_results['Link'])
+        diff_links = results_links - weather_links
+        if len(diff_links) > 0:
+            new_samples = df_results[df_results['Link'].isin(diff_links)]
+            # Create the weather csv only with those entries that are not
+            # in weather csv yet.
             new_weather = create_weather(new_samples, df_team, df_match)
             # When updating, the weather conditions will be replaced by NaNs
             df_weather = pd.concat([df_weather, new_weather],
-                                   ignore_index=False)
+                                   ignore_index=False).drop_duplicates(
+                                       subset='Link')
+            df_weather.to_csv(weather_file, index=False)
     else:
         df_weather = create_weather(df_results, df_team, df_match)
-        df_weather.to_csv(weather_file)
+        df_weather.to_csv(weather_file, index=False)
+
+    # Create a dictionary whose keys are the links, and values
+    # are a list with the weather conditions
+    filename = 'Data/Dictionaries/dict_weather.pkl'
+    if os.path.exists(filename):
+        with open(filename, 'rb') as f:
+            dict_weather = pickle.load(f)
+    else:
+        dict_weather = {}
+        with open(filename, 'wb') as f:
+            pickle.dump(dict_weather, f)
 
     # Start the Scraping iterating through each match
     ROOT = "https://www.wunderground.com/history/daily/"
-    hdr = {'User-Agent': 'Mozilla/5.0'}
-    for idx, row in df_weather.tail(3).iterrows():
+    for _, row in df_weather.iterrows():
         URL = ROOT + row['Code'] + '/date/' + row['Date']
         driver = accept_cookies(URL)
         # Wait for the driver to find the table
@@ -222,7 +235,7 @@ if __name__ == '__main__':
             print("I could not find the daily observation table,\n"
                   + "I will look for an alternative")
         else:
-            print(f'I found the daily observation table,\n')
+            print(f'I found the daily observation table')
             html = driver.page_source
             temp_bs = BeautifulSoup(html, 'html.parser')
             daily_observations = temp_bs.find(
@@ -242,18 +255,79 @@ if __name__ == '__main__':
                         {'class': 'mat-cell cdk-cell cdk-column-temperature'
                          + ' mat-column-temperature ng-star-inserted'}
                     ).text
-                    humidity = hour_row.find(
+                    dew_point = hour_row.find(
                         'td',
-                        {'class': 'mat-cell cdk-cell cdk-column-humidity'
-                         + ' mat-column-humidity ng-star-inserted'}
+                        {'class': 'mat-cell cdk-cell cdk-column-dewPoint'
+                         + ' mat-column-dewPoint ng-star-inserted'}
                     ).text
                     wind = hour_row.find(
                         'td',
                         {'class': 'mat-cell cdk-cell cdk-column-windSpeed'
                          + ' mat-column-windSpeed ng-star-inserted'}
                     ).text
-                    condition = hour_row.find(
+                    pressure = hour_row.find(
                         'td',
-                        {'class': 'mat-cell cdk-cell cdk-column-condition'
-                         + ' mat-column-condition ng-star-inserted'}
+                        {'class': 'mat-cell cdk-cell cdk-column-pressure'
+                         + ' mat-column-pressure ng-star-inserted'}
                     ).text
+                    dict_weather[row['Link']] = [
+                        temperature, dew_point, wind, pressure]
+                    with open(filename, 'wb') as f:
+                        pickle.dump(dict_weather, f)
+                    print('Data added to the database')
+                    driver.quit()
+                    continue
+            print('I could not find data for that time\n'
+                  + 'I will look for an alternative')
+
+        try:
+            daily_observations = WebDriverWait(driver, 3).until(
+                        EC.presence_of_element_located(
+                            (By.XPATH, '//table[@class="ng-star-inserted"]')))
+        except TimeoutException:
+            print('I could not find data for this match\n'
+                  + 'Skipping to the next match')
+            driver.quit()
+            temperature = None
+            dew_point = None
+            wind = None
+            pressure = None
+            dict_weather[row['Link']] = [
+                    temperature, dew_point, wind, pressure]
+            with open(filename, 'wb') as f:
+                pickle.dump(dict_weather, f)
+        else:
+            print(f'I found the summary table')
+            html = driver.page_source
+            temp_bs = BeautifulSoup(html, 'html.parser')
+            driver.quit()
+            summary_table = temp_bs.find(
+                    "div", {"class": 'summary-table'})
+            # Look for the temperature
+            temp_row = summary_table.find('th', text="Day Average Temp")
+            if temp_row:
+                temperature = temp_row.findNext('td').text
+            else:
+                temperature = None
+            # Look for the dew point
+            dew_point_row = summary_table.find('th', text="Average")
+            if dew_point_row:
+                dew_point = dew_point_row.findNext('td').text
+            else:
+                dew_point = None
+            # Look for the wind speed
+            wind_row = summary_table.find('th', text="Max Wind Speed")
+            if wind_row:
+                wind = wind_row.findNext('td').text
+            else:
+                wind = None
+            # Look for the pressure
+            pressure_row = summary_table.find('th', text="Sea Level Pressure")
+            if pressure_row:
+                pressure = pressure_row.findNext('td').text
+            else:
+                pressure = None
+            dict_weather[row['Link']] = [
+                    temperature, dew_point, wind, pressure]
+            with open(filename, 'wb') as f:
+                pickle.dump(dict_weather, f)
