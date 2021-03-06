@@ -34,6 +34,7 @@ def accept_cookies(ROOT="https://www.wunderground.com/history"):
     driver_dir = './Extract/chrome_driver/chromedriver.exe'
     options = Options()
     options.headless = True
+    options.add_argument('log-level=2')
     driver = webdriver.Chrome(driver_dir, chrome_options=options)
     driver.get(ROOT_DIR)
     delay = 3
@@ -153,6 +154,7 @@ if __name__ == '__main__':
     # Load the dataframes
     RES_DIR = './Data/Results_Cleaned/*'
     df_results = load_raw(RES_DIR)
+    df_results = df_results[df_results['Season'] >= 2005]
     df_match = pd.read_csv('./Data/Dictionaries/Match_Info.csv')
     df_team = pd.read_csv('./Data/Dictionaries/Team_Info.csv')
 
@@ -221,113 +223,136 @@ if __name__ == '__main__':
     # Start the Scraping iterating through each match
     ROOT = "https://www.wunderground.com/history/daily/"
     for _, row in df_weather.iterrows():
-        URL = ROOT + row['Code'] + '/date/' + row['Date']
-        driver = accept_cookies(URL)
-        # Wait for the driver to find the table
-        try:
-            daily_observations = WebDriverWait(driver, 20).until(
-                        EC.presence_of_element_located(
-                            (By.XPATH, '//table[@class='
-                             + '"mat-table cdk-table '
-                             + 'mat-sort ng-star-inserted"'
-                             + ']')))
-        except TimeoutException:
-            print("I could not find the daily observation table,\n"
-                  + "I will look for an alternative")
-        else:
-            print(f'I found the daily observation table')
-            html = driver.page_source
-            temp_bs = BeautifulSoup(html, 'html.parser')
-            daily_observations = temp_bs.find(
-                    "table",
-                    {"class": 'mat-table cdk-table '
-                     + 'mat-sort ng-star-inserted'})
-            hour = row['Hour'].split(':')[0]
-            hour_pm = row['Hour'].split(':')[1][-2:]
-            regex = re.compile(rf"^{hour}:[0-9]{{2}} {hour_pm}")
-
-            hour_column = daily_observations.find(text=regex)
-            if hour_column:
-                hour_row = hour_column.find_parent('tr')
-                if hour_row:
-                    temperature = hour_row.find(
-                        'td',
-                        {'class': 'mat-cell cdk-cell cdk-column-temperature'
-                         + ' mat-column-temperature ng-star-inserted'}
-                    ).text
-                    dew_point = hour_row.find(
-                        'td',
-                        {'class': 'mat-cell cdk-cell cdk-column-dewPoint'
-                         + ' mat-column-dewPoint ng-star-inserted'}
-                    ).text
-                    wind = hour_row.find(
-                        'td',
-                        {'class': 'mat-cell cdk-cell cdk-column-windSpeed'
-                         + ' mat-column-windSpeed ng-star-inserted'}
-                    ).text
-                    pressure = hour_row.find(
-                        'td',
-                        {'class': 'mat-cell cdk-cell cdk-column-pressure'
-                         + ' mat-column-pressure ng-star-inserted'}
-                    ).text
-                    dict_weather[row['Link']] = [
-                        temperature, dew_point, wind, pressure]
-                    with open(filename, 'wb') as f:
-                        pickle.dump(dict_weather, f)
-                    print('Data added to the database')
-                    driver.quit()
-                    continue
-            print('I could not find data for that time\n'
-                  + 'I will look for an alternative')
-
-        try:
-            daily_observations = WebDriverWait(driver, 3).until(
-                        EC.presence_of_element_located(
-                            (By.XPATH, '//table[@class="ng-star-inserted"]')))
-        except TimeoutException:
-            print('I could not find data for this match\n'
-                  + 'Skipping to the next match')
-            driver.quit()
-            temperature = None
-            dew_point = None
-            wind = None
-            pressure = None
-            dict_weather[row['Link']] = [
-                    temperature, dew_point, wind, pressure]
-            with open(filename, 'wb') as f:
-                pickle.dump(dict_weather, f)
-        else:
-            print(f'I found the summary table')
-            html = driver.page_source
-            temp_bs = BeautifulSoup(html, 'html.parser')
-            driver.quit()
-            summary_table = temp_bs.find(
-                    "div", {"class": 'summary-table'})
-            # Look for the temperature
-            temp_row = summary_table.find('th', text="Day Average Temp")
-            if temp_row:
-                temperature = temp_row.findNext('td').text
+        if row['Link'] not in dict_weather.keys():
+            URL = ROOT + row['Code'] + '/date/' + row['Date']
+            driver = accept_cookies(URL)
+            # Wait for the driver to find the table
+            try:
+                daily_observations = WebDriverWait(driver, 15).until(
+                            EC.presence_of_element_located(
+                                (By.XPATH, '//table[@class='
+                                 + '"mat-table cdk-table '
+                                 + 'mat-sort ng-star-inserted"'
+                                 + ']')))
+            except TimeoutException:
+                print("I could not find the daily observation table,\n"
+                      + "I will look for an alternative")
             else:
+                print(f'I found the daily observation table')
+
+                html = driver.page_source
+                temp_bs = BeautifulSoup(html, 'html.parser')
+                daily_observations = temp_bs.find(
+                        "table",
+                        {"class": 'mat-table cdk-table '
+                         + 'mat-sort ng-star-inserted'})
+                # Even if the driver finds the table, the webpage might
+                # refresh itself, so we can make another check
+                while daily_observations is None:
+                    _ = WebDriverWait(driver, 15).until(
+                            EC.presence_of_element_located(
+                                (By.XPATH, '//table[@class='
+                                 + '"mat-table cdk-table '
+                                 + 'mat-sort ng-star-inserted"'
+                                 + ']')))
+                    html = driver.page_source
+                    temp_bs = BeautifulSoup(html, 'html.parser')
+                    daily_observations = temp_bs.find(
+                            "table",
+                            {"class": 'mat-table cdk-table '
+                             + 'mat-sort ng-star-inserted'})
+                hour = row['Hour'].split(':')[0]
+                hour_pm = row['Hour'].split(':')[1][-2:]
+                regex = re.compile(rf"^{hour}:[0-9]{{2}} {hour_pm}")
+
+                hour_column = daily_observations.find(text=regex)
+                if hour_column:
+                    hour_row = hour_column.find_parent('tr')
+                    if hour_row:
+                        temperature = hour_row.find(
+                            'td',
+                            {'class': 'mat-cell cdk-cell cdk-column'
+                             + '-temperature mat-column-temperature'
+                             + ' ng-star-inserted'}
+                        ).text
+                        dew_point = hour_row.find(
+                            'td',
+                            {'class': 'mat-cell cdk-cell cdk-column-dewPoint'
+                             + ' mat-column-dewPoint ng-star-inserted'}
+                        ).text
+                        wind = hour_row.find(
+                            'td',
+                            {'class': 'mat-cell cdk-cell cdk-column-windSpeed'
+                             + ' mat-column-windSpeed ng-star-inserted'}
+                        ).text
+                        pressure = hour_row.find(
+                            'td',
+                            {'class': 'mat-cell cdk-cell cdk-column-pressure'
+                             + ' mat-column-pressure ng-star-inserted'}
+                        ).text
+                        dict_weather[row['Link']] = [
+                            temperature, dew_point, wind, pressure]
+                        with open(filename, 'wb') as f:
+                            pickle.dump(dict_weather, f)
+                        print('Data added to the database')
+                        driver.quit()
+                        continue
+                print('I could not find data for that time\n'
+                      + 'I will look for an alternative')
+
+            try:
+                daily_observations = WebDriverWait(driver, 3).until(
+                            EC.presence_of_element_located(
+                                (By.XPATH,
+                                 '//table[@class="ng-star-inserted"]')))
+            except TimeoutException:
+                print('I could not find data for this match\n'
+                      + 'Skipping to the next match')
+                driver.quit()
                 temperature = None
-            # Look for the dew point
-            dew_point_row = summary_table.find('th', text="Average")
-            if dew_point_row:
-                dew_point = dew_point_row.findNext('td').text
-            else:
                 dew_point = None
-            # Look for the wind speed
-            wind_row = summary_table.find('th', text="Max Wind Speed")
-            if wind_row:
-                wind = wind_row.findNext('td').text
-            else:
                 wind = None
-            # Look for the pressure
-            pressure_row = summary_table.find('th', text="Sea Level Pressure")
-            if pressure_row:
-                pressure = pressure_row.findNext('td').text
-            else:
                 pressure = None
-            dict_weather[row['Link']] = [
-                    temperature, dew_point, wind, pressure]
-            with open(filename, 'wb') as f:
-                pickle.dump(dict_weather, f)
+                dict_weather[row['Link']] = [
+                        temperature, dew_point, wind, pressure]
+                with open(filename, 'wb') as f:
+                    pickle.dump(dict_weather, f)
+            else:
+                print(f'I found the summary table')
+                html = driver.page_source
+                temp_bs = BeautifulSoup(html, 'html.parser')
+                driver.quit()
+                summary_table = temp_bs.find(
+                        "div", {"class": 'summary-table'})
+                # Look for the temperature
+                temp_row = summary_table.find('th', text="Day Average Temp")
+                if temp_row:
+                    temperature = temp_row.findNext('td').text
+                else:
+                    temperature = None
+                # Look for the dew point
+                dew_point_row = summary_table.find('th', text="Average")
+                if dew_point_row:
+                    dew_point = dew_point_row.findNext('td').text
+                else:
+                    dew_point = None
+                # Look for the wind speed
+                wind_row = summary_table.find('th', text="Max Wind Speed")
+                if wind_row:
+                    wind = wind_row.findNext('td').text
+                else:
+                    wind = None
+                # Look for the pressure
+                pressure_row = summary_table.find('th',
+                                                  text="Sea Level Pressure")
+                if pressure_row:
+                    pressure = pressure_row.findNext('td').text
+                else:
+                    pressure = None
+                dict_weather[row['Link']] = [
+                        temperature, dew_point, wind, pressure]
+                with open(filename, 'wb') as f:
+                    pickle.dump(dict_weather, f)
+                print('Data added to the database')
+        else:
+            continue
