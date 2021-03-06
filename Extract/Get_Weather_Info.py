@@ -35,14 +35,14 @@ def accept_cookies(ROOT="https://www.wunderground.com/history"):
     options = Options()
     options.headless = True
     options.add_argument('log-level=2')
-    driver = webdriver.Chrome(driver_dir, chrome_options=options)
-    driver.get(ROOT_DIR)
-    delay = 3
     n = 0
     while n < 20:
         n += 1
         print(f'Accessing {ROOT_DIR}. Iteration number {n}')
         try:
+            driver = webdriver.Chrome(driver_dir, chrome_options=options)
+            driver.get(ROOT_DIR)
+            delay = 3
             myElem = WebDriverWait(driver, delay).until(
                     EC.presence_of_element_located(
                         (By.XPATH, '//button[@id="truste-consent-button"]'))
@@ -53,6 +53,7 @@ def accept_cookies(ROOT="https://www.wunderground.com/history"):
             print("Loading took too much time!")
             print('Trying again')
             delay += 2
+            driver.quit()
     cookies_button = driver.find_elements_by_xpath(
                                 '//button[@id="truste-consent-button"]'
                                 )
@@ -191,6 +192,8 @@ if __name__ == '__main__':
     weather_file = 'Data/Dictionaries/Weather_Info.csv'
     if os.path.exists(weather_file):
         df_weather = pd.read_csv(weather_file)
+        df_weather['Year'] = df_weather.Date.map(lambda x: x.split('-')[0])
+        df_weather = df_weather[df_weather['Year'] >= '2005']
         # Take the results whose link are not in df weather
         weather_links = set(df_weather['Link'])
         results_links = set(df_results['Link'])
