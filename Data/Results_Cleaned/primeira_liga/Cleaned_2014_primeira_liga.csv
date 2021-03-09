@@ -1,241 +1,241 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Paços Ferreira,Sporting Braga,0-2,/match/pacos-ferreira/sporting-braga/2014,2014,1,primeira_liga,16,30,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Estoril,Nacional,3-1,/match/estoril/nacional/2014,2014,1,primeira_liga,16,30,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Vitória,Olhanense,2-0,/match/vitoria-guimaraes/sc-olhanense/2014,2014,1,primeira_liga,16,30,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sporting CP,Arouca,5-1,/match/sporting-lisbon/arouca/2014,2014,1,primeira_liga,16,30,0,5,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Belenenses,Rio Ave,0-3,/match/belenenses/rio-ave/2014,2014,1,primeira_liga,16,30,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Gil Vicente,Académica,2-0,/match/gil-vicente/academica/2014,2014,1,primeira_liga,16,30,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Marítimo,Benfica,2-1,/match/maritimo/benfica/2014,2014,1,primeira_liga,16,30,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Vitória Setúbal,Porto,1-3,/match/vitoria-setubal/fc-porto/2014,2014,1,primeira_liga,16,30,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Olhanense,Paços Ferreira,1-0,/match/sc-olhanense/pacos-ferreira/2014,2014,2,primeira_liga,16,30,0,1,0,12,0,0,1,0,2,W,0,0,0,0,0,16,0,0,1,0,2,L,0,0,0,0,0,,
-Académica,Sporting CP,0-4,/match/academica/sporting-lisbon/2014,2014,2,primeira_liga,16,30,2,0,4,9,0,0,1,0,2,W,0,0,0,0,0,3,1,0,0,5,1,W,0,0,0,0,0,,
-Rio Ave,Vitória Setúbal,2-0,/match/rio-ave/vitoria-setubal/2014,2014,2,primeira_liga,16,30,0,2,0,6,1,0,0,3,0,L,0,0,0,0,0,14,0,0,1,1,3,L,0,0,0,0,0,,
-Nacional,Vitória,1-1,/match/nacional/vitoria-guimaraes/2014,2014,2,primeira_liga,16,30,1,1,1,15,0,0,1,1,3,W,0,0,0,0,0,4,1,0,0,2,0,W,0,0,0,0,0,,
-Benfica,Gil Vicente,2-1,/match/benfica/gil-vicente/2014,2014,2,primeira_liga,16,30,0,2,1,13,0,0,1,1,2,W,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
-Arouca,Estoril,1-2,/match/arouca/estoril/2014,2014,2,primeira_liga,16,30,2,1,2,10,0,0,1,1,5,W,0,0,0,0,0,5,1,0,0,3,1,W,0,0,0,0,0,,
-Porto,Marítimo,3-0,/match/fc-porto/maritimo/2014,2014,2,primeira_liga,16,30,0,3,0,7,1,0,0,3,1,L,0,0,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,,
-Sporting Braga,Belenenses,2-1,/match/sporting-braga/belenenses/2014,2014,2,primeira_liga,16,30,0,2,1,8,1,0,0,2,0,L,0,0,0,0,0,11,0,0,1,0,3,L,0,0,0,0,0,,
-Vitória,Vitória Setúbal,1-4,/match/vitoria-guimaraes/vitoria-setubal/2014,2014,3,primeira_liga,16,30,2,1,4,6,1,1,0,3,1,WD,1,0,0,2,0,15,0,0,2,1,5,LW,0,0,1,0,2,W,W
-Sporting CP,Benfica,1-1,/match/sporting-lisbon/benfica/2014,2014,3,primeira_liga,16,30,1,1,1,1,2,0,0,9,1,WL,1,0,0,5,1,10,1,0,1,3,3,WW,0,0,1,1,2,W,W
-Arouca,Rio Ave,1-0,/match/arouca/rio-ave/2014,2014,3,primeira_liga,16,30,0,1,0,13,0,0,2,2,7,WL,0,0,1,1,2,3,2,0,0,5,0,LW,1,0,0,3,0,L,L
-Marítimo,Olhanense,1-1,/match/maritimo/sc-olhanense/2014,2014,3,primeira_liga,16,30,1,1,1,8,1,0,1,2,4,WW,1,0,0,2,1,9,1,0,1,1,2,WW,0,0,1,0,2,W,W
-Belenenses,Nacional,2-3,/match/belenenses/nacional/2014,2014,3,primeira_liga,16,30,2,2,3,14,0,0,2,1,5,LW,0,0,1,0,3,11,0,1,1,2,4,WD,0,0,1,1,3,L,W
-Paços Ferreira,Porto,0-1,/match/pacos-ferreira/fc-porto/2014,2014,3,primeira_liga,16,30,2,0,1,16,0,0,2,0,3,LW,0,0,1,0,2,4,2,0,0,6,1,LW,1,0,0,3,1,L,L
-Gil Vicente,Sporting Braga,1-0,/match/gil-vicente/sporting-braga/2014,2014,3,primeira_liga,16,30,0,1,0,7,1,0,1,3,2,WW,1,0,0,2,0,5,2,0,0,4,1,LW,1,0,0,2,0,W,L
-Estoril,Académica,1-1,/match/estoril/academica/2014,2014,3,primeira_liga,16,30,1,1,1,2,2,0,0,5,2,WL,1,0,0,3,1,12,0,0,2,0,6,WL,0,0,1,0,2,W,W
-Rio Ave,Vitória,0-1,/match/rio-ave/vitoria-guimaraes/2014,2014,4,primeira_liga,16,30,2,0,1,5,2,0,1,5,1,LWW,1,0,0,2,0,8,1,1,1,4,5,WDL,0,1,0,1,1,W,D
-Benfica,Paços Ferreira,3-1,/match/benfica/pacos-ferreira/2014,2014,4,primeira_liga,16,30,0,3,1,10,1,1,1,4,4,WWD,1,0,0,2,1,16,0,0,3,0,4,LWL,0,0,1,0,1,W,W
-Porto,Gil Vicente,2-0,/match/fc-porto/gil-vicente/2014,2014,4,primeira_liga,16,30,0,2,0,3,3,0,0,7,1,LWL,1,0,0,3,0,4,2,0,1,4,2,WWW,0,0,1,1,2,W,W
-Académica,Belenenses,2-1,/match/academica/belenenses/2014,2014,4,primeira_liga,16,30,0,2,1,14,0,1,2,1,7,WLD,0,0,1,0,4,15,0,0,3,3,8,LWL,0,0,1,1,2,L,W
-Vitória Setúbal,Marítimo,2-4,/match/vitoria-setubal/maritimo/2014,2014,4,primeira_liga,16,30,2,2,4,13,1,0,2,5,6,LWL,0,0,1,1,3,7,1,1,1,3,5,WWD,0,0,1,0,3,L,W
-Nacional,Arouca,0-1,/match/nacional/arouca/2014,2014,4,primeira_liga,16,30,2,0,1,11,1,1,1,5,6,WDL,0,1,0,1,1,12,1,0,2,3,7,WLW,0,0,1,1,5,D,W
-Olhanense,Sporting CP,0-2,/match/sc-olhanense/sporting-lisbon/2014,2014,4,primeira_liga,16,30,2,0,2,9,1,1,1,2,3,WWD,1,0,0,1,0,1,2,1,0,10,2,WLD,1,0,0,4,0,W,L
-Sporting Braga,Estoril,3-2,/match/sporting-braga/estoril/2014,2014,4,primeira_liga,16,30,0,3,2,6,2,0,1,4,2,LWW,1,0,0,2,1,2,2,1,0,6,3,WLD,1,0,0,2,1,W,L
-Arouca,Sporting Braga,0-1,/match/arouca/sporting-braga/2014,2014,5,primeira_liga,16,30,2,0,1,10,2,0,2,4,7,WLWL,1,0,1,2,2,3,3,0,1,7,4,LWWW,1,0,1,2,1,LW,LW
-Gil Vicente,Olhanense,1-1,/match/gil-vicente/sc-olhanense/2014,2014,5,primeira_liga,16,30,1,1,1,6,2,0,2,4,4,WWWW,2,0,0,3,0,11,1,1,2,2,5,WWDL,0,1,1,1,3,WW,WD
-Belenenses,Marítimo,1-0,/match/belenenses/maritimo/2014,2014,5,primeira_liga,16,30,0,1,0,15,0,0,4,4,10,LWLW,0,0,2,2,6,7,2,1,1,7,7,WWDL,1,0,1,4,5,LL,WL
-Sporting CP,Rio Ave,1-1,/match/sporting-lisbon/rio-ave/2014,2014,5,primeira_liga,16,30,1,1,1,2,3,1,0,12,2,WLDL,1,1,0,6,2,9,2,0,2,5,2,LWWL,1,0,1,3,1,WD,LW
-Nacional,Académica,1-0,/match/nacional/academica/2014,2014,5,primeira_liga,16,30,0,1,0,13,1,1,2,5,7,WDLL,0,1,1,1,2,12,1,1,2,3,8,WLDW,0,1,1,1,3,DL,WD
-Vitória,Benfica,0-1,/match/vitoria-guimaraes/benfica/2014,2014,5,primeira_liga,16,30,2,0,1,8,2,1,1,5,5,WDLL,1,0,1,3,4,4,2,1,1,7,5,WWDW,0,1,1,2,3,WL,WD
-Estoril,Porto,2-2,/match/estoril/fc-porto/2014,2014,5,primeira_liga,16,30,1,2,2,5,2,1,1,8,6,WLDW,1,1,0,4,2,1,4,0,0,9,1,LWLW,2,0,0,4,1,WD,LL
-Paços Ferreira,Vitória Setúbal,1-1,/match/pacos-ferreira/vitoria-setubal/2014,2014,5,primeira_liga,16,30,1,1,1,16,0,0,4,1,7,LWLW,0,0,2,0,3,14,1,0,3,7,10,LWLL,1,0,1,4,3,LL,WL
-Porto,Vitória,1-0,/match/fc-porto/vitoria-guimaraes/2014,2014,6,primeira_liga,16,30,0,1,0,1,4,1,0,11,3,LWLWD,2,0,0,5,0,9,2,1,2,5,6,WDLLL,1,1,0,2,1,WW,DL
-Académica,Arouca,0-0,/match/academica/arouca/2014,2014,6,primeira_liga,16,30,1,0,0,13,1,1,3,3,9,WLDWW,1,0,1,2,5,11,2,0,3,4,8,WLWLL,1,0,1,2,5,LW,WL
-Rio Ave,Nacional,0-3,/match/rio-ave/nacional/2014,2014,6,primeira_liga,16,30,2,0,3,10,2,1,2,6,3,LWWLD,1,0,1,2,1,8,2,1,2,6,7,WDLLW,1,0,1,4,5,WL,WL
-Marítimo,Paços Ferreira,3-4,/match/maritimo/pacos-ferreira/2014,2014,6,primeira_liga,16,30,2,3,4,7,2,1,2,7,8,WWDLW,1,1,0,3,2,16,0,1,4,2,8,LWLWD,0,0,2,1,4,WD,WW
-Olhanense,Estoril,1-2,/match/sc-olhanense/estoril/2014,2014,6,primeira_liga,16,30,2,1,2,12,1,2,2,3,6,WWDLD,1,0,1,1,2,5,2,2,1,10,8,WLDWD,1,0,1,4,4,WL,LW
-Benfica,Belenenses,1-1,/match/benfica/belenenses/2014,2014,6,primeira_liga,16,30,1,1,1,4,3,1,1,8,5,WWDWL,2,0,0,5,2,14,1,0,4,5,10,LWLWW,0,0,2,2,4,WW,WW
-Sporting Braga,Sporting CP,1-2,/match/sporting-braga/sporting-lisbon/2014,2014,6,primeira_liga,16,30,2,1,2,3,4,0,1,8,4,LWWWL,2,0,0,5,3,2,3,2,0,13,3,WLDLD,2,0,0,6,0,WW,LL
-Vitória Setúbal,Gil Vicente,2-2,/match/vitoria-setubal/gil-vicente/2014,2014,6,primeira_liga,16,30,1,2,2,15,1,1,3,8,11,LWLLD,0,0,2,3,7,6,2,1,2,5,5,WWWWD,0,0,2,1,4,LL,WW
-Académica,Rio Ave,0-1,/match/academica/rio-ave/2014,2014,7,primeira_liga,16,30,2,0,1,12,1,2,3,3,9,WLDWWD,1,1,1,2,5,10,2,1,3,6,6,LWWLDL,1,1,1,4,2,LWD,LWD
-Belenenses,Olhanense,2-0,/match/belenenses/sc-olhanense/2014,2014,7,primeira_liga,16,30,0,2,0,14,1,1,4,6,11,LWLWWD,1,0,2,3,6,13,1,2,3,4,8,WWDLDL,0,2,1,2,4,LLW,WDD
-Sporting CP,Vitória Setúbal,4-0,/match/sporting-lisbon/vitoria-setubal/2014,2014,7,primeira_liga,16,30,0,4,0,2,4,2,0,15,4,WLDLDL,1,2,0,7,3,15,1,2,3,10,13,LWLLDD,1,1,1,5,4,WDD,WLD
-Gil Vicente,Paços Ferreira,2-1,/match/gil-vicente/pacos-ferreira/2014,2014,7,primeira_liga,16,30,0,2,1,6,2,2,2,7,7,WWWWDD,2,1,0,4,1,16,1,1,4,6,11,LWLWDL,1,0,2,5,7,WWD,WWL
-Nacional,Sporting Braga,3-0,/match/nacional/sporting-braga/2014,2014,7,primeira_liga,16,30,0,3,0,7,3,1,2,9,7,WDLLWL,1,1,1,2,2,4,4,0,2,9,6,LWWWLL,2,0,1,3,1,DLW,LWL
-Arouca,Porto,1-3,/match/arouca/fc-porto/2014,2014,7,primeira_liga,16,30,2,1,3,11,2,1,3,4,8,WLWLLD,1,0,2,2,3,1,5,1,0,12,3,LWLWDW,2,1,0,6,3,LWL,LLD
-Estoril,Benfica,1-2,/match/estoril/benfica/2014,2014,7,primeira_liga,16,30,2,1,2,5,3,2,1,12,9,WLDWDL,1,2,0,6,4,3,3,2,1,9,6,WWDWLD,1,1,1,3,3,WDD,WDL
-Vitória,Marítimo,1-0,/match/vitoria-guimaraes/maritimo/2014,2014,7,primeira_liga,16,30,0,1,0,9,2,1,3,5,7,WDLLLW,1,0,2,3,5,8,2,1,3,10,12,WWDLWL,1,0,2,4,6,WLL,WLW
-Sporting Braga,Académica,0-1,/match/sporting-braga/academica/2014,2014,8,primeira_liga,16,30,2,0,1,6,4,0,3,9,9,LWWWLLW,2,0,1,6,5,13,1,2,4,3,10,WLDWWDL,0,1,2,1,4,WWL,WDW
-Olhanense,Arouca,1-0,/match/sc-olhanense/arouca/2014,2014,8,primeira_liga,16,30,0,1,0,14,1,2,4,4,10,WWDLDLW,1,0,2,2,4,12,2,1,4,5,11,WLWLLDL,1,1,1,2,5,WLL,WLD
-Rio Ave,Gil Vicente,0-1,/match/rio-ave/gil-vicente/2014,2014,8,primeira_liga,16,30,2,0,1,9,3,1,3,7,6,LWWLDLL,1,0,2,2,4,4,3,2,2,9,8,WWWWDDW,0,1,2,3,6,WLL,WWD
-Vitória Setúbal,Belenenses,0-0,/match/vitoria-setubal/belenenses/2014,2014,8,primeira_liga,16,30,1,0,0,15,1,2,4,10,17,LWLLDDW,0,1,2,5,9,10,2,1,4,8,11,LWLWWDW,0,1,2,3,5,LLD,WWD
-Benfica,Nacional,2-0,/match/benfica/nacional/2014,2014,8,primeira_liga,16,30,0,2,0,3,4,2,1,11,7,WWDWLDL,2,1,0,6,3,5,4,1,2,12,7,WDLLWLW,2,0,1,7,5,WWD,WLL
-Porto,Sporting CP,3-1,/match/fc-porto/sporting-lisbon/2014,2014,8,primeira_liga,16,30,0,3,1,1,6,1,0,15,4,LWLWDWL,3,0,0,6,0,2,5,2,0,19,4,WLDLDLW,3,0,0,8,1,WWW,LLL
-Marítimo,Estoril,1-3,/match/maritimo/estoril/2014,2014,8,primeira_liga,16,30,2,1,3,11,2,1,4,10,13,WWDLWLW,1,1,1,6,6,7,3,2,2,13,11,WLDWDLL,2,0,1,6,5,WDL,LWL
-Paços Ferreira,Vitória,1-3,/match/pacos-ferreira/vitoria-guimaraes/2014,2014,8,primeira_liga,16,30,2,1,3,16,1,1,5,7,13,LWLWDLW,0,1,2,1,4,8,3,1,3,6,7,WDLLLWW,1,1,1,2,2,LLD,DLW
-Académica,Benfica,0-3,/match/academica/benfica/2014,2014,9,primeira_liga,16,30,2,0,3,12,2,2,4,4,10,WLDWWDLL,1,1,2,2,6,2,5,2,1,13,7,WWDWLDLW,2,1,1,5,4,LWDL,WDLL
-Belenenses,Porto,1-1,/match/belenenses/fc-porto/2014,2014,9,primeira_liga,16,30,1,1,1,9,2,2,4,8,11,LWLWWDWD,2,0,2,5,6,1,7,1,0,18,5,LWLWDWLW,3,1,0,9,4,LLWW,LLDL
-Sporting CP,Marítimo,3-2,/match/sporting-lisbon/maritimo/2014,2014,9,primeira_liga,16,30,0,3,2,3,5,2,1,20,7,WLDLDLWW,2,2,0,11,3,13,2,1,5,11,16,WWDLWLWL,1,0,3,4,7,WDDW,WLWW
-Arouca,Paços Ferreira,0-0,/match/arouca/pacos-ferreira/2014,2014,9,primeira_liga,16,30,1,0,0,14,2,1,5,5,12,WLWLLDLW,1,0,3,3,6,16,1,1,6,8,16,LWLWDLWL,1,0,3,6,9,LWLL,WWLW
-Nacional,Olhanense,0-0,/match/nacional/sc-olhanense/2014,2014,9,primeira_liga,16,30,1,0,0,5,4,1,3,12,9,WDLLWLWW,2,1,1,5,2,10,2,2,4,5,10,WWDLDLWW,0,2,2,2,6,DLWW,WDDW
-Estoril,Vitória Setúbal,0-2,/match/estoril/vitoria-setubal/2014,2014,9,primeira_liga,16,30,2,0,2,6,4,2,2,16,12,WLDWDLLL,1,2,1,7,6,15,1,3,4,10,17,LWLLDDWD,1,1,2,5,8,WDDL,WLDW
-Gil Vicente,Vitória,1-0,/match/gil-vicente/vitoria-guimaraes/2014,2014,9,primeira_liga,16,30,0,1,0,4,4,2,2,10,8,WWWWDDWL,3,1,0,6,2,7,4,1,3,9,8,WDLLLWWL,2,1,1,5,3,WWDW,DLWL
-Sporting Braga,Rio Ave,0-1,/match/sporting-braga/rio-ave/2014,2014,9,primeira_liga,16,30,2,0,1,8,4,0,4,9,10,LWWWLLWL,2,0,2,6,6,11,3,1,4,7,7,LWWLDLLL,2,1,1,5,2,WWLL,LWDL
-Benfica,Sporting Braga,1-0,/match/benfica/sporting-braga/2014,2014,10,primeira_liga,16,30,0,1,0,3,6,2,1,16,7,WWDWLDLWL,3,1,0,8,3,8,4,0,5,9,11,LWWWLLWLL,2,0,2,3,4,WWDW,LWLW
-Porto,Nacional,1-1,/match/fc-porto/nacional/2014,2014,10,primeira_liga,16,30,1,1,1,1,7,2,0,19,6,LWLWDWLWD,4,0,0,9,1,5,4,2,3,12,9,WDLLWLWWD,2,0,2,7,7,WWWW,WLLW
-Rio Ave,Estoril,0-2,/match/rio-ave/estoril/2014,2014,10,primeira_liga,16,30,2,0,2,11,4,1,4,8,7,LWWLDLLLL,1,0,3,2,5,6,4,2,3,16,14,WLDWDLLLL,3,0,1,9,6,WLLL,LWLL
-Vitória Setúbal,Arouca,1-0,/match/vitoria-setubal/arouca/2014,2014,10,primeira_liga,16,30,0,1,0,14,2,3,4,12,17,LWLLDDWDL,0,2,2,5,9,13,2,2,5,5,12,WLWLLDLWD,1,1,2,2,6,LLDD,WLDW
-Marítimo,Gil Vicente,3-2,/match/maritimo/gil-vicente/2014,2014,10,primeira_liga,16,30,0,3,2,15,2,1,6,13,19,WWDLWLWLW,1,1,2,7,9,4,5,2,2,11,8,WWWWDDWLW,1,1,2,4,6,WDLL,WWDL
-Paços Ferreira,Belenenses,1-0,/match/pacos-ferreira/belenenses/2014,2014,10,primeira_liga,16,30,0,1,0,16,1,2,6,8,16,LWLWDLWLD,0,1,3,2,7,9,2,3,4,9,12,LWLWWDWDD,0,2,2,3,5,LLDL,WWDD
-Vitória,Sporting CP,0-1,/match/vitoria-guimaraes/sporting-lisbon/2014,2014,10,primeira_liga,16,30,2,0,1,7,4,1,4,9,9,WDLLLWWLW,2,0,2,4,5,2,6,2,1,23,9,WLDLDLWWW,3,0,1,9,4,WLLW,LLLW
-Olhanense,Académica,0-1,/match/sc-olhanense/academica/2014,2014,10,primeira_liga,16,30,2,0,1,10,2,3,4,5,10,WWDLDLWWD,2,0,2,3,4,12,2,2,5,4,13,WLDWWDLLL,1,1,2,2,4,WLLW,WDWL
-Sporting Braga,Olhanense,4-1,/match/sporting-braga/sc-olhanense/2014,2014,11,primeira_liga,16,30,0,4,1,9,4,0,6,9,12,LWWWLLWLLW,2,0,3,6,7,12,2,3,5,5,11,WWDLDLWWDL,0,3,2,2,6,WWLLL,WDDWD
-Académica,Porto,1-0,/match/academica/fc-porto/2014,2014,11,primeira_liga,16,30,0,1,0,14,3,2,5,5,13,WLDWWDLLLL,1,1,3,2,9,1,7,3,0,20,7,LWLWDWLWDD,3,2,0,10,5,LWDLL,LLDLD
-Arouca,Marítimo,1-2,/match/arouca/maritimo/2014,2014,11,primeira_liga,16,30,2,1,2,15,2,2,6,5,13,WLWLLDLWDW,1,1,3,3,6,11,3,1,6,16,21,WWDLWLWLWW,1,0,4,6,10,LWLLD,WLWWW
-Belenenses,Gil Vicente,0-0,/match/belenenses/gil-vicente/2014,2014,11,primeira_liga,16,30,1,0,0,10,2,3,5,9,13,LWLWWDWDDW,2,1,2,6,7,4,5,2,3,13,11,WWWWDDWLWW,1,1,3,6,9,LLWWD,WWDLW
-Nacional,Vitória Setúbal,2-2,/match/nacional/vitoria-setubal/2014,2014,11,primeira_liga,16,30,1,2,2,5,4,3,3,13,10,WDLLWLWWDD,2,2,1,5,2,8,3,3,4,13,17,LWLLDDWDLW,2,1,2,7,8,DLWWD,WLDWL
-Rio Ave,Benfica,1-3,/match/rio-ave/benfica/2014,2014,11,primeira_liga,16,30,2,1,3,13,4,1,5,8,9,LWWLDLLLLL,1,0,4,2,7,2,7,2,1,17,7,WWDWLDLWLW,3,1,1,8,4,WLLLL,WDLLL
-Sporting CP,Paços Ferreira,4-0,/match/sporting-lisbon/pacos-ferreira/2014,2014,11,primeira_liga,16,30,0,4,0,3,7,2,1,24,9,WLDLDLWWWL,3,2,0,14,5,16,2,2,6,9,16,LWLWDLWLDW,1,1,3,6,9,WDDWW,WWLWD
-Estoril,Vitória,0-2,/match/estoril/vitoria-guimaraes/2014,2014,11,primeira_liga,16,30,2,0,2,6,5,2,3,18,14,WLDWDLLLLL,1,2,2,7,8,7,4,1,5,9,10,WDLLLWWLWL,2,1,2,5,4,WDDLL,DLWLW
-Benfica,Arouca,2-2,/match/benfica/arouca/2014,2014,12,primeira_liga,16,30,1,2,2,2,8,2,1,20,8,WWDWLDLWLWL,4,1,0,9,3,15,2,2,7,6,15,WLWLLDLWDWL,1,1,3,2,7,WWDWW,WLDWW
-Paços Ferreira,Estoril,0-3,/match/pacos-ferreira/estoril/2014,2014,12,primeira_liga,16,30,2,0,3,16,2,2,7,9,20,LWLWDLWLDWW,1,1,3,3,7,6,5,2,4,18,16,WLDWDLLLLLL,4,0,1,11,6,LLDLW,LWLLL
-Vitória,Belenenses,0-0,/match/vitoria-guimaraes/belenenses/2014,2014,12,primeira_liga,16,30,1,0,0,8,5,1,5,11,10,WDLLLWWLWLL,2,0,3,4,6,11,2,4,5,9,13,LWLWWDWDDWD,0,2,3,3,6,WLLWL,WWDDW
-Porto,Sporting Braga,2-0,/match/fc-porto/sporting-braga/2014,2014,12,primeira_liga,16,30,0,2,0,3,7,3,1,20,8,LWLWDWLWDDW,4,1,0,10,2,7,5,0,6,13,13,LWWWLLWLLWW,2,0,3,3,5,WWWWD,LWLWW
-Marítimo,Nacional,2-2,/match/maritimo/nacional/2014,2014,12,primeira_liga,16,30,1,2,2,12,4,1,6,18,22,WWDLWLWLWWL,2,1,2,10,11,5,4,4,3,15,12,WDLLWLWWDDD,2,1,2,8,8,WDLLW,WLLWD
-Olhanense,Rio Ave,0-1,/match/sc-olhanense/rio-ave/2014,2014,12,primeira_liga,16,30,2,0,1,13,2,3,6,6,15,WWDLDLWWDLW,2,0,3,3,5,14,4,1,6,9,12,LWWLDLLLLLL,3,1,1,6,2,WLLWL,LWDLL
-Gil Vicente,Sporting CP,0-2,/match/gil-vicente/sporting-lisbon/2014,2014,12,primeira_liga,16,30,2,0,2,4,5,3,3,13,11,WWWWDDWLWWD,4,1,0,7,2,1,8,2,1,28,9,WLDLDLWWWLW,4,0,1,10,4,WWDWW,LLLWL
-Vitória Setúbal,Académica,1-0,/match/vitoria-setubal/academica/2014,2014,12,primeira_liga,16,30,0,1,0,10,3,4,4,15,19,LWLLDDWDLWD,1,2,2,6,9,9,4,2,5,6,13,WLDWWDLLLLW,2,1,2,3,4,LLDDW,WDWLL
-Académica,Marítimo,1-1,/match/academica/maritimo/2014,2014,13,primeira_liga,16,30,1,1,1,11,4,2,6,6,14,WLDWWDLLLLWW,2,1,3,3,9,10,4,2,6,20,24,WWDLWLWLWWLD,2,0,4,8,11,LWDLLW,WLWWWL
-Sporting Braga,Vitória Setúbal,2-0,/match/sporting-braga/vitoria-setubal/2014,2014,13,primeira_liga,16,30,0,2,0,9,5,0,7,13,15,LWWWLLWLLWWW,3,0,3,10,8,7,4,4,4,16,19,LWLLDDWDLWDW,2,2,2,9,10,WWLLLW,WLDWLD
-Sporting CP,Belenenses,3-0,/match/sporting-lisbon/belenenses/2014,2014,13,primeira_liga,16,30,0,3,0,1,9,2,1,30,9,WLDLDLWWWLWL,4,2,0,18,5,12,2,5,5,9,13,LWLWWDWDDWDD,0,3,3,3,6,WDDWWW,WWDDWD
-Arouca,Vitória,0-2,/match/arouca/vitoria-guimaraes/2014,2014,13,primeira_liga,16,30,2,0,2,15,2,3,7,8,17,WLWLLDLWDWLD,1,1,4,4,8,8,5,2,5,11,10,WDLLLWWLWLLD,3,1,2,7,4,LWLLDL,DLWLWL
-Olhanense,Benfica,2-3,/match/sc-olhanense/benfica/2014,2014,13,primeira_liga,16,30,2,2,3,14,2,3,7,6,16,WWDLDLWWDLWL,2,0,4,3,6,3,8,3,1,22,10,WWDWLDLWLWLD,4,1,1,11,5,WLLWLL,WDLLLL
-Rio Ave,Porto,1-3,/match/rio-ave/fc-porto/2014,2014,13,primeira_liga,16,30,2,1,3,13,5,1,6,10,12,LWWLDLLLLLLL,1,0,5,3,10,2,8,3,1,22,8,LWLWDWLWDDWW,3,2,1,10,6,WLLLLL,LLDLDW
-Nacional,Paços Ferreira,2-1,/match/nacional/pacos-ferreira/2014,2014,13,primeira_liga,16,30,0,2,1,5,4,5,3,17,14,WDLLWLWWDDDD,2,3,1,7,4,16,2,2,8,9,23,LWLWDLWLDWWL,1,1,4,6,13,DLWWDD,WWLWDW
-Estoril,Gil Vicente,2-0,/match/estoril/gil-vicente/2014,2014,13,primeira_liga,16,30,0,2,0,6,6,2,4,21,16,WLDWDLLLLLLL,1,2,3,7,10,4,5,3,4,13,13,WWWWDDWLWWDL,1,2,3,6,9,WDDLLL,WWDLWD
-Marítimo,Sporting Braga,2-2,/match/maritimo/sporting-braga/2014,2014,14,primeira_liga,16,30,1,2,2,10,4,3,6,21,25,WWDLWLWLWWLDD,2,2,2,12,13,7,6,0,7,15,15,LWWWLLWLLWWWW,2,0,4,3,7,WDLLWD,LWLWWW
-Porto,Olhanense,4-0,/match/fc-porto/sc-olhanense/2014,2014,14,primeira_liga,16,30,0,4,0,2,9,3,1,25,9,LWLWDWLWDDWWL,5,1,0,12,2,14,2,3,8,8,19,WWDLDLWWDLWLL,0,3,3,3,10,WWWWDW,WDDWDW
-Vitória Setúbal,Benfica,0-2,/match/vitoria-setubal/benfica/2014,2014,14,primeira_liga,16,30,2,0,2,9,4,4,5,16,21,LWLLDDWDLWDWW,2,2,2,7,9,3,9,3,1,25,12,WWDWLDLWLWLDL,5,1,1,14,7,LLDDWW,WDLLLLL
-Paços Ferreira,Rio Ave,0-0,/match/pacos-ferreira/rio-ave/2014,2014,14,primeira_liga,16,30,1,0,0,16,2,2,9,10,25,LWLWDLWLDWWLW,1,1,4,3,10,13,5,1,7,11,15,LWWLDLLLLLLLL,4,1,1,7,2,LLDLWL,LWDLLL
-Vitória,Académica,3-0,/match/vitoria-guimaraes/academica/2014,2014,14,primeira_liga,16,30,0,3,0,8,6,2,5,13,10,WDLLLWWLWLLDL,2,1,3,4,6,11,4,3,6,7,15,WLDWWDLLLLWWD,2,1,3,3,5,WLLWLD,WDWLLW
-Sporting CP,Nacional,0-0,/match/sporting-lisbon/nacional/2014,2014,14,primeira_liga,16,30,1,0,0,1,10,2,1,33,9,WLDLDLWWWLWLW,5,2,0,21,5,4,5,5,3,19,15,WDLLWLWWDDDDW,2,2,2,10,10,WDDWWWW,WLLWDD
-Gil Vicente,Arouca,0-3,/match/gil-vicente/arouca/2014,2014,14,primeira_liga,16,30,2,0,3,5,5,3,5,13,15,WWWWDDWLWWDLW,4,1,1,7,4,15,2,3,8,8,19,WLWLLDLWDWLDL,1,2,3,4,9,WWDWWL,WLDWWD
-Belenenses,Estoril,0-0,/match/belenenses/estoril/2014,2014,14,primeira_liga,16,30,1,0,0,12,2,5,6,9,16,LWLWWDWDDWDDW,2,2,2,6,7,6,7,2,4,23,16,WLDWDLLLLLLLW,5,0,1,14,6,LLWWDD,LWLLLL
-Sporting Braga,Vitória,3-0,/match/sporting-braga/vitoria-guimaraes/2014,2014,15,primeira_liga,16,30,0,3,0,8,6,1,7,17,17,LWWWLLWLLWWWWD,4,0,3,12,8,6,7,2,5,16,10,WDLLLWWLWLLDLW,4,1,2,9,4,WWLLLWW,DLWLWLL
-Rio Ave,Marítimo,1-1,/match/rio-ave/maritimo/2014,2014,15,primeira_liga,16,30,1,1,1,13,5,2,7,11,15,LWWLDLLLLLLLLD,1,0,6,4,13,9,4,4,6,23,27,WWDLWLWLWWLDDD,2,1,4,9,12,WLLLLLL,WLWWWLD
-Estoril,Sporting CP,0-0,/match/estoril/sporting-lisbon/2014,2014,15,primeira_liga,16,30,1,0,0,5,7,3,4,23,16,WLDWDLLLLLLLWD,2,2,3,9,10,1,10,3,1,33,9,WLDLDLWWWLWLWD,5,0,1,12,4,WDDLLLW,LLLWLL
-Arouca,Belenenses,2-0,/match/arouca/belenenses/2014,2014,15,primeira_liga,16,30,0,2,0,14,3,3,8,11,19,WLWLLDLWDWLDLL,1,1,5,4,10,12,2,6,6,9,16,LWLWWDWDDWDDWD,0,3,4,3,9,LWLLDLL,WWDDWDW
-Académica,Paços Ferreira,4-2,/match/academica/pacos-ferreira/2014,2014,15,primeira_liga,16,30,0,4,2,11,4,3,7,7,18,WLDWWDLLLLWWDW,2,2,3,4,10,16,2,3,9,10,25,LWLWDLWLDWWLWD,1,1,5,7,15,LWDLLWD,WWLWDWW
-Benfica,Porto,2-0,/match/benfica/fc-porto/2014,2014,15,primeira_liga,16,30,0,2,0,3,10,3,1,27,12,WWDWLDLWLWLDLL,4,2,0,11,5,2,10,3,1,29,9,LWLWDWLWDDWWLW,4,2,1,13,7,WWDWWD,LLDLDWL
-Olhanense,Vitória Setúbal,2-1,/match/sc-olhanense/vitoria-setubal/2014,2014,15,primeira_liga,16,30,0,2,1,15,2,3,9,8,23,WWDLDLWWDLWLLW,2,0,5,5,9,10,4,4,6,16,23,LWLLDDWDLWDWWL,2,2,3,9,12,WLLWLLL,WLDWLDW
-Nacional,Gil Vicente,2-0,/match/nacional/gil-vicente/2014,2014,15,primeira_liga,16,30,0,2,0,4,5,6,3,19,15,WDLLWLWWDDDDWD,3,3,1,9,5,7,5,3,6,13,18,WWWWDDWLWWDLWL,1,2,4,6,11,DLWWDDW,WWDLWDW
-Olhanense,Vitória,0-1,/match/sc-olhanense/vitoria-guimaraes/2014,2014,16,primeira_liga,16,30,2,0,1,15,3,3,9,10,24,WWDLDLWWDLWLLWW,3,0,5,7,10,7,7,2,6,16,13,WDLLLWWLWLLDLWW,4,1,3,9,7,WLLWLLLW,DLWLWLLW
-Arouca,Sporting CP,1-2,/match/arouca/sporting-lisbon/2014,2014,16,primeira_liga,16,30,2,1,2,14,4,3,8,13,19,WLWLLDLWDWLDLLW,2,1,5,6,10,1,10,4,1,33,9,WLDLDLWWWLWLWDD,5,1,1,12,4,LWLLDLLW,LLLWLLD
-Rio Ave,Belenenses,1-0,/match/rio-ave/belenenses/2014,2014,16,primeira_liga,16,30,0,1,0,13,5,3,7,12,16,LWWLDLLLLLLLLDD,1,1,6,5,14,12,2,6,7,9,18,LWLWWDWDDWDDWDW,0,3,5,3,11,WLLLLLLD,WWDDWDWW
-Académica,Gil Vicente,1-0,/match/academica/gil-vicente/2014,2014,16,primeira_liga,16,30,0,1,0,9,5,3,7,11,20,WLDWWDLLLLWWDWW,3,2,3,8,12,8,5,3,7,13,20,WWWWDDWLWWDLWLW,1,2,5,6,13,LWDLLWDW,WWDLWDWW
-Sporting Braga,Paços Ferreira,1-1,/match/sporting-braga/pacos-ferreira/2014,2014,16,primeira_liga,16,30,1,1,1,6,7,1,7,20,17,LWWWLLWLLWWWWDW,5,0,3,15,8,16,2,3,10,12,29,LWLWDLWLDWWLWDW,1,1,6,9,19,WWLLLWWW,WWLWDWWW
-Benfica,Marítimo,2-0,/match/benfica/maritimo/2014,2014,16,primeira_liga,16,30,0,2,0,2,11,3,1,29,12,WWDWLDLWLWLDLLW,5,2,0,13,5,10,4,5,6,24,28,WWDLWLWLWWLDDDD,2,2,4,10,13,WWDWWDW,WLWWWLDD
-Porto,Vitória Setúbal,3-0,/match/fc-porto/vitoria-setubal/2014,2014,16,primeira_liga,16,30,0,3,0,3,10,3,2,29,11,LWLWDWLWDDWWLWW,6,1,0,16,2,11,4,4,7,17,25,LWLLDDWDLWDWWLW,2,2,4,10,14,WWWWDWW,WLDWLDWW
-Nacional,Estoril,2-2,/match/nacional/estoril/2014,2014,16,primeira_liga,16,30,1,2,2,4,6,6,3,21,15,WDLLWLWWDDDDWDW,4,3,1,11,5,5,7,4,4,23,16,WLDWDLLLLLLLWDD,5,1,1,14,6,DLWWDDWW,LWLLLLD
-Estoril,Arouca,1-1,/match/estoril/arouca/2014,2014,17,primeira_liga,16,30,1,1,1,6,7,5,4,25,18,WLDWDLLLLLLLWDDD,2,3,3,9,10,14,4,3,9,14,21,WLWLLDLWDWLDLLWL,2,2,3,7,9,WDDLLLWD,WLDWWDL
-Marítimo,Porto,1-0,/match/maritimo/fc-porto/2014,2014,17,primeira_liga,16,30,0,1,0,10,4,5,7,24,30,WWDLWLWLWWLDDDDW,2,3,2,14,15,2,11,3,2,32,11,LWLWDWLWDDWWLWWW,4,2,2,13,9,WDLLWDD,LLDLDWLW
-Vitória Setúbal,Rio Ave,2-0,/match/vitoria-setubal/rio-ave/2014,2014,17,primeira_liga,16,30,0,2,0,12,4,4,8,17,28,LWLLDDWDLWDWWLWW,2,2,3,7,11,11,6,3,7,13,16,LWWLDLLLLLLLLDDW,4,2,1,7,2,LLDDWWL,LWDLLLD
-Gil Vicente,Benfica,1-1,/match/gil-vicente/benfica/2014,2014,17,primeira_liga,16,30,1,1,1,9,5,3,8,13,21,WWWWDDWLWWDLWLWW,4,1,2,7,7,1,12,3,1,31,12,WWDWLDLWLWLDLLWW,6,1,1,16,7,WWDWWLL,WDLLLLLL
-Belenenses,Sporting Braga,2-1,/match/belenenses/sporting-braga/2014,2014,17,primeira_liga,16,30,0,2,1,13,2,6,8,9,19,LWLWWDWDDWDDWDWW,2,3,2,6,7,5,7,2,7,21,18,LWWWLLWLLWWWWDWD,2,1,4,5,9,LLWWDDD,LWLWWWD
-Sporting CP,Académica,0-0,/match/sporting-lisbon/academica/2014,2014,17,primeira_liga,16,30,1,0,0,3,11,4,1,35,10,WLDLDLWWWLWLWDDL,5,3,0,21,5,8,6,3,7,12,20,WLDWWDLLLLWWDWWW,2,1,4,3,8,WDDWWWWD,WDWLLWW
-Vitória,Nacional,1-2,/match/vitoria-guimaraes/nacional/2014,2014,17,primeira_liga,16,30,2,1,2,7,8,2,6,17,13,WDLLLWWLWLLDLWWL,3,1,3,7,6,4,6,7,3,23,17,WDLLWLWWDDDDWDWD,2,3,2,10,10,WLLWLDW,WLLWDDD
-Paços Ferreira,Olhanense,3-1,/match/pacos-ferreira/sc-olhanense/2014,2014,17,primeira_liga,16,30,0,3,1,16,2,4,10,13,30,LWLWDLWLDWWLWDWD,1,2,4,3,10,15,3,3,10,10,25,WWDLDLWWDLWLLWWL,0,3,4,3,14,LLDLWLD,WDDWDWW
-Nacional,Belenenses,2-0,/match/nacional/belenenses/2014,2014,18,primeira_liga,16,30,0,2,0,4,7,7,3,25,18,WDLLWLWWDDDDWDWDL,4,4,1,13,7,12,3,6,8,11,20,LWLWWDWDDWDDWDWWW,0,3,6,3,12,DLWWDDWWD,WWDDWDWWW
-Vitória Setúbal,Vitória,3-2,/match/vitoria-setubal/vitoria-guimaraes/2014,2014,18,primeira_liga,16,30,0,3,2,11,5,4,8,19,28,LWLLDDWDLWDWWLWWW,3,2,3,9,11,8,8,2,7,18,15,WDLLLWWLWLLDLWWLL,5,1,3,10,7,LLDDWWLW,DLWLWLLWL
-Rio Ave,Arouca,1-1,/match/rio-ave/arouca/2014,2014,18,primeira_liga,16,30,1,1,1,13,6,3,8,13,18,LWWLDLLLLLLLLDDWW,2,1,6,6,14,14,4,4,9,15,22,WLWLLDLWDWLDLLWLD,2,3,3,8,10,WLLLLLLDW,WLDWWDLD
-Olhanense,Marítimo,1-1,/match/sc-olhanense/maritimo/2014,2014,18,primeira_liga,16,30,1,1,1,16,3,3,11,11,28,WWDLDLWWDLWLLWWLW,3,0,6,7,11,10,5,5,7,25,30,WWDLWLWLWWLDDDDWW,2,2,5,10,15,WLLWLLLWL,WLWWWLDDW
-Porto,Paços Ferreira,3-0,/match/fc-porto/pacos-ferreira/2014,2014,18,primeira_liga,16,30,0,3,0,3,11,3,3,32,12,LWLWDWLWDDWWLWWWW,7,1,0,19,2,15,3,4,10,16,31,LWLWDLWLDWWLWDWDW,1,2,6,10,20,WWWWDWWW,WWLWDWWWD
-Sporting Braga,Gil Vicente,4-1,/match/sporting-braga/gil-vicente/2014,2014,18,primeira_liga,16,30,0,4,1,6,7,2,8,22,20,LWWWLLWLLWWWWDWDW,5,1,3,16,9,9,5,4,8,14,22,WWWWDDWLWWDLWLWWD,1,2,6,6,14,WWLLLWWWD,WWDLWDWWW
-Académica,Estoril,0-1,/match/academica/estoril/2014,2014,18,primeira_liga,16,30,2,0,1,7,6,4,7,12,20,WLDWWDLLLLWWDWWWD,4,2,3,9,12,5,7,6,4,26,19,WLDWDLLLLLLLWDDDD,5,2,1,16,8,LWDLLWDWW,LWLLLLDD
-Benfica,Sporting CP,2-0,/match/benfica/sporting-lisbon/2014,2014,18,primeira_liga,16,30,0,2,0,1,12,4,1,32,13,WWDWLDLWLWLDLLWWD,6,2,0,15,5,2,11,5,1,35,10,WLDLDLWWWLWLWDDLD,6,1,1,14,5,WWDWWDWW,LLLWLLDL
-Belenenses,Académica,0-0,/match/belenenses/academica/2014,2014,19,primeira_liga,16,30,1,0,0,13,3,6,9,11,22,LWLWWDWDDWDDWDWWWW,3,3,2,8,8,7,6,4,8,12,21,WLDWWDLLLLWWDWWWDL,2,2,4,3,8,LLWWDDDW,WDWLLWWD
-Sporting CP,Olhanense,1-0,/match/sporting-lisbon/sc-olhanense/2014,2014,19,primeira_liga,16,30,0,1,0,3,11,5,2,35,12,WLDLDLWWWLWLWDDLDW,5,4,0,21,5,15,3,4,11,12,29,WWDLDLWWDLWLLWWLWD,0,3,5,4,17,WDDWWWWDD,WDDWDWWW
-Marítimo,Vitória Setúbal,1-0,/match/maritimo/vitoria-setubal/2014,2014,19,primeira_liga,16,30,0,1,0,10,5,6,7,26,31,WWDLWLWLWWLDDDDWWD,3,3,2,15,15,8,6,4,8,22,30,LWLLDDWDLWDWWLWWWW,2,2,5,10,17,WDLLWDDW,WLDWLDWWW
-Arouca,Nacional,1-1,/match/arouca/nacional/2014,2014,19,primeira_liga,16,30,1,1,1,14,4,5,9,16,23,WLWLLDLWDWLDLLWLDD,2,1,6,7,12,4,8,7,3,27,18,WDLLWLWWDDDDWDWDLW,3,3,2,12,11,LWLLDLLWL,WLLWDDDL
-Vitória,Rio Ave,1-0,/match/vitoria-guimaraes/rio-ave/2014,2014,19,primeira_liga,16,30,0,1,0,9,8,2,8,20,18,WDLLLWWLWLLDLWWLLW,3,1,4,8,8,12,6,4,8,14,19,LWWLDLLLLLLLLDDWWD,4,2,2,7,4,WLLWLDWL,LWDLLLDW
-Paços Ferreira,Benfica,0-2,/match/pacos-ferreira/benfica/2014,2014,19,primeira_liga,16,30,2,0,2,16,3,4,11,16,34,LWLWDLWLDWWLWDWDWW,2,2,4,6,11,1,13,4,1,34,13,WWDWLDLWLWLDLLWWDW,6,2,1,17,8,LLDLWLDW,WDLLLLLLD
-Gil Vicente,Porto,1-2,/match/gil-vicente/fc-porto/2014,2014,19,primeira_liga,16,30,2,1,2,11,5,4,9,15,26,WWWWDDWLWWDLWLWWDW,4,2,2,8,8,2,12,3,3,35,12,LWLWDWLWDDWWLWWWWW,4,2,3,13,10,WWDWWLLD,LLDLDWLWW
-Estoril,Sporting Braga,2-1,/match/estoril/sporting-braga/2014,2014,19,primeira_liga,16,30,0,2,1,6,8,6,4,27,19,WLDWDLLLLLLLWDDDDL,2,4,3,10,11,5,8,2,8,26,21,LWWWLLWLLWWWWDWDWW,2,1,5,6,11,WDDLLLWDD,LWLWWWDW
-Académica,Nacional,0-0,/match/academica/nacional/2014,2014,20,primeira_liga,16,30,1,0,0,9,6,5,8,12,21,WLDWWDLLLLWWDWWWDLD,4,2,4,9,13,4,8,8,3,28,19,WDLLWLWWDDDDWDWDLWD,3,4,2,13,12,LWDLLWDWWL,WLLWDDDLD
-Sporting Braga,Arouca,2-2,/match/sporting-braga/arouca/2014,2014,20,primeira_liga,16,30,1,2,2,6,8,2,9,27,23,LWWWLLWLLWWWWDWDWWW,6,1,3,20,10,14,4,6,9,17,24,WLWLLDLWDWLDLLWLDDD,2,4,3,9,11,WWLLLWWWDW,WLDWWDLDD
-Rio Ave,Sporting CP,1-2,/match/rio-ave/sporting-lisbon/2014,2014,20,primeira_liga,16,30,2,1,2,13,6,4,9,14,20,LWWLDLLLLLLLLDDWWDW,2,2,6,7,15,3,12,5,2,36,12,WLDLDLWWWLWLWDDLDWW,6,1,2,14,7,WLLLLLLDWD,LLLWLLDLW
-Olhanense,Gil Vicente,2-1,/match/sc-olhanense/gil-vicente/2014,2014,20,primeira_liga,16,30,0,2,1,15,3,4,12,12,30,WWDLDLWWDLWLLWWLWDW,3,1,6,8,12,11,5,4,10,16,28,WWWWDDWLWWDLWLWWDWL,1,2,7,7,18,WLLWLLLWLD,WWDLWDWWWW
-Vitória Setúbal,Paços Ferreira,4-0,/match/vitoria-setubal/pacos-ferreira/2014,2014,20,primeira_liga,16,30,0,4,0,10,6,4,9,22,31,LWLLDDWDLWDWWLWWWWW,4,2,3,12,13,16,3,4,12,16,36,LWLWDLWLDWWLWDWDWWL,1,2,7,10,23,LLDDWWLWW,WWLWDWWWDW
-Marítimo,Belenenses,2-0,/match/maritimo/belenenses/2014,2014,20,primeira_liga,16,30,0,2,0,8,6,6,7,27,31,WWDLWLWLWWLDDDDWWDW,4,3,2,16,15,12,3,7,9,11,22,LWLWWDWDDWDDWDWWWWD,0,3,7,3,14,WDLLWDDWW,WWDDWDWWWW
-Porto,Estoril,0-1,/match/fc-porto/estoril/2014,2014,20,primeira_liga,16,30,2,0,1,2,13,3,3,37,13,LWLWDWLWDDWWLWWWWWL,8,1,0,22,2,5,9,6,4,29,20,WLDWDLLLLLLLWDDDDLW,6,2,1,17,8,WWWWDWWWW,LWLLLLDDL
-Benfica,Vitória,1-0,/match/benfica/vitoria-guimaraes/2014,2014,20,primeira_liga,16,30,0,1,0,1,14,4,1,36,13,WWDWLDLWLWLDLLWWDWL,7,2,0,17,5,7,9,2,8,21,18,WDLLLWWLWLLDLWWLLWW,5,1,4,12,10,WWDWWDWWW,DLWLWLLWLW
-Estoril,Olhanense,4-0,/match/estoril/sc-olhanense/2014,2014,21,primeira_liga,16,30,0,4,0,5,10,6,4,30,20,WLDWDLLLLLLLWDDDDLWL,3,4,3,12,12,15,4,4,12,14,31,WWDLDLWWDLWLLWWLWDWW,0,3,6,4,18,WDDLLLWDDW,WDDWDWWWW
-Sporting CP,Sporting Braga,2-1,/match/sporting-lisbon/sporting-braga/2014,2014,21,primeira_liga,16,30,0,2,1,2,13,5,2,38,13,WLDLDLWWWLWLWDDLDWWL,6,4,0,22,5,6,8,3,9,29,25,LWWWLLWLLWWWWDWDWWWD,2,1,6,7,13,WDDWWWWDDW,LWLWWWDWW
-Gil Vicente,Vitória Setúbal,1-0,/match/gil-vicente/vitoria-setubal/2014,2014,21,primeira_liga,16,30,0,1,0,11,5,4,11,17,30,WWWWDDWLWWDLWLWWDWLW,4,2,3,9,10,8,7,4,9,26,31,LWLLDDWDLWDWWLWWWWWW,2,2,6,10,18,WWDWWLLDL,WLDWLDWWWW
-Paços Ferreira,Marítimo,3-1,/match/pacos-ferreira/maritimo/2014,2014,21,primeira_liga,16,30,0,3,1,16,3,4,13,16,40,LWLWDLWLDWWLWDWDWWLW,2,2,5,6,13,7,7,6,7,29,31,WWDLWLWLWWLDDDDWWDWW,2,3,5,11,16,LLDLWLDWL,WLWWWLDDWD
-Nacional,Rio Ave,1-1,/match/nacional/rio-ave/2014,2014,21,primeira_liga,16,30,1,1,1,4,8,9,3,28,19,WDLLWLWWDDDDWDWDLWDD,5,4,1,15,7,13,6,4,10,15,22,LWWLDLLLLLLLLDDWWDWL,4,2,3,7,5,DLWWDDWWDW,LWDLLLDWW
-Belenenses,Benfica,0-1,/match/belenenses/benfica/2014,2014,21,primeira_liga,16,30,2,0,1,12,3,7,10,11,24,LWLWWDWDDWDDWDWWWWDW,3,4,2,8,8,1,15,4,1,37,13,WWDWLDLWLWLDLLWWDWLW,7,2,1,19,8,LLWWDDDWD,WDLLLLLLDL
-Vitória,Porto,2-2,/match/vitoria-guimaraes/fc-porto/2014,2014,21,primeira_liga,16,30,1,2,2,9,9,2,9,21,19,WDLLLWWLWLLDLWWLLWWW,4,1,4,9,8,3,13,3,4,37,14,LWLWDWLWDDWWLWWWWWLL,5,2,3,15,11,WLLWLDWLW,LLDLDWLWWL
-Arouca,Académica,0-3,/match/arouca/academica/2014,2014,21,primeira_liga,16,30,2,0,3,14,4,7,9,19,26,WLWLLDLWDWLDLLWLDDDD,2,2,6,8,13,10,6,6,8,12,21,WLDWWDLLLLWWDWWWDLDD,2,3,4,3,8,LWLLDLLWLD,WDWLLWWDD
-Rio Ave,Académica,0-0,/match/rio-ave/academica/2014,2014,22,primeira_liga,16,30,1,0,0,13,6,5,10,16,23,LWWLDLLLLLLLLDDWWDWLD,2,2,7,8,17,9,7,6,8,15,21,WLDWWDLLLLWWDWWWDLDDL,3,3,4,6,8,WLLLLLLDWDL,WDWLLWWDDL
-Sporting Braga,Nacional,2-1,/match/sporting-braga/nacional/2014,2014,22,primeira_liga,16,30,0,2,1,6,8,3,10,30,27,LWWWLLWLLWWWWDWDWWWDW,6,2,3,22,12,4,8,10,3,29,20,WDLLWLWWDDDDWDWDLWDDD,3,5,2,13,12,WWLLLWWWDWD,WLLWDDDLDD
-Olhanense,Belenenses,0-0,/match/sc-olhanense/belenenses/2014,2014,22,primeira_liga,16,30,1,0,0,15,4,4,13,14,35,WWDLDLWWDLWLLWWLWDWWW,4,1,6,10,13,12,3,7,11,11,25,LWLWWDWDDWDDWDWWWWDWL,0,3,8,3,16,WLLWLLLWLDW,WWDDWDWWWWW
-Paços Ferreira,Gil Vicente,0-2,/match/pacos-ferreira/gil-vicente/2014,2014,22,primeira_liga,16,30,2,0,2,16,4,4,13,19,41,LWLWDLWLDWWLWDWDWWLWW,3,2,5,9,14,11,6,4,11,18,30,WWWWDDWLWWDLWLWWDWLWW,1,2,8,8,20,LLDLWLDWLW,WWDLWDWWWWW
-Benfica,Estoril,2-0,/match/benfica/estoril/2014,2014,22,primeira_liga,16,30,0,2,0,1,16,4,1,38,13,WWDWLDLWLWLDLLWWDWLWL,8,2,0,18,5,5,11,6,4,34,20,WLDWDLLLLLLLWDDDDLWLW,7,2,1,18,8,WWDWWDWWWW,LWLLLLDDLL
-Vitória Setúbal,Sporting CP,2-2,/match/vitoria-setubal/sporting-lisbon/2014,2014,22,primeira_liga,16,30,1,2,2,10,7,4,10,26,32,LWLLDDWDLWDWWLWWWWWWW,5,2,3,16,13,2,14,5,2,40,14,WLDLDLWWWLWLWDDLDWWLW,7,1,2,16,8,LLDDWWLWWW,LLLWLLDLWL
-Porto,Arouca,4-1,/match/fc-porto/arouca/2014,2014,22,primeira_liga,16,30,0,4,1,3,13,4,4,39,16,LWLWDWLWDDWWLWWWWWLLD,8,1,1,22,3,14,4,7,10,19,29,WLWLLDLWDWLDLLWLDDDDL,2,5,3,11,13,WWWWDWWWWL,WLDWWDLDDD
-Marítimo,Vitória,2-1,/match/maritimo/vitoria-guimaraes/2014,2014,22,primeira_liga,16,30,0,2,1,7,7,6,8,30,34,WWDLWLWLWWLDDDDWWDWWW,5,3,2,18,15,8,9,3,9,23,21,WDLLLWWLWLLDLWWLLWWWD,5,1,5,12,11,WDLLWDDWWW,DLWLWLLWLWW
-Académica,Sporting Braga,1-1,/match/academica/sporting-braga/2014,2014,23,primeira_liga,16,30,1,1,1,8,7,7,8,15,21,WLDWWDLLLLWWDWWWDLDDLD,4,3,4,9,13,6,9,3,10,32,28,LWWWLLWLLWWWWDWDWWWDWW,2,1,7,8,15,LWDLLWDWWLD,LWLWWWDWWW
-Gil Vicente,Rio Ave,1-2,/match/gil-vicente/rio-ave/2014,2014,23,primeira_liga,16,30,2,1,2,11,7,4,11,20,30,WWWWDDWLWWDLWLWWDWLWWL,5,2,3,10,10,12,6,6,10,16,23,LWWLDLLLLLLLLDDWWDWLDD,4,3,3,8,6,WWDWWLLDLW,LWDLLLDWWD
-Estoril,Marítimo,1-0,/match/estoril/maritimo/2014,2014,23,primeira_liga,16,30,0,1,0,5,11,6,5,34,22,WLDWDLLLLLLLWDDDDLWLWW,4,4,3,16,12,7,8,6,8,32,35,WWDLWLWLWWLDDDDWWDWWWW,2,3,6,12,19,WDDLLLWDDWW,WLWWWLDDWDW
-Vitória,Paços Ferreira,1-2,/match/vitoria-guimaraes/pacos-ferreira/2014,2014,23,primeira_liga,16,30,2,1,2,10,9,3,10,24,23,WDLLLWWLWLLDLWWLLWWWDW,4,2,4,11,10,16,4,4,14,19,43,LWLWDLWLDWWLWDWDWWLWWL,1,2,8,10,27,WLLWLDWLWD,WWLWDWWWDWW
-Belenenses,Vitória Setúbal,1-3,/match/belenenses/vitoria-setubal/2014,2014,23,primeira_liga,16,30,2,1,3,13,3,8,11,11,25,LWLWWDWDDWDDWDWWWWDWLD,3,4,3,8,9,9,7,5,10,28,34,LWLLDDWDLWDWWLWWWWWWWD,2,2,7,10,19,LLWWDDDWDL,WLDWLDWWWWW
-Arouca,Olhanense,2-0,/match/arouca/sc-olhanense/2014,2014,23,primeira_liga,16,30,0,2,0,15,4,7,11,20,33,WLWLLDLWDWLDLLWLDDDDLW,2,2,7,8,16,14,4,5,13,14,35,WWDLDLWWDLWLLWWLWDWWWD,0,3,7,4,22,LWLLDLLWLDL,WDDWDWWWWW
-Sporting CP,Porto,1-0,/match/sporting-lisbon/fc-porto/2014,2014,23,primeira_liga,16,30,0,1,0,2,14,6,2,42,16,WLDLDLWWWLWLWDDLDWWLWD,7,4,0,24,6,3,14,4,4,43,17,LWLWDWLWDDWWLWWWWWLLDW,5,3,3,17,13,WDDWWWWDDWW,LLDLDWLWWLD
-Nacional,Benfica,2-4,/match/nacional/benfica/2014,2014,23,primeira_liga,16,30,2,2,4,4,8,10,4,30,22,WDLLWLWWDDDDWDWDLWDDDW,5,5,1,16,8,1,17,4,1,40,13,WWDWLDLWLWLDLLWWDWLWLW,8,2,1,20,8,DLWWDDWWDWD,WDLLLLLLDLL
-Rio Ave,Sporting Braga,1-1,/match_2503/rio-ave/sporting-braga/2014,2014,24,primeira_liga,16,30,1,1,1,12,7,6,10,18,24,LWWLDLLLLLLLLDDWWDWLDDL,2,3,7,8,17,6,9,4,10,33,29,LWWWLLWLLWWWWDWDWWWDWWD,2,2,7,9,16,WLLLLLLDWDLD,LWLWWWDWWWD
-Vitória,Gil Vicente,0-0,/match/vitoria-guimaraes/gil-vicente/2014,2014,24,primeira_liga,16,30,1,0,0,10,9,3,11,25,25,WDLLLWWLWLLDLWWLLWWWDWL,4,2,5,12,12,11,7,4,12,21,32,WWWWDDWLWWDLWLWWDWLWWLL,2,2,8,10,20,WLLWLDWLWDL,WWDLWDWWWWWL
-Marítimo,Sporting CP,1-3,/match/maritimo/sporting-lisbon/2014,2014,24,primeira_liga,16,30,2,1,3,7,8,6,9,32,36,WWDLWLWLWWLDDDDWWDWWWWW,6,3,2,20,16,2,15,6,2,43,16,WLDLDLWWWLWLWDDLDWWLWDW,7,2,2,18,10,WDLLWDDWWWW,LLLWLLDLWLD
-Olhanense,Nacional,1-1,/match/sc-olhanense/nacional/2014,2014,24,primeira_liga,16,30,1,1,1,15,4,5,14,14,37,WWDLDLWWDLWLLWWLWDWWWDW,4,2,6,10,13,5,8,10,5,32,26,WDLLWLWWDDDDWDWDLWDDDWL,3,5,3,14,14,WLLWLLLWLDWD,WLLWDDDLDDW
-Paços Ferreira,Arouca,3-1,/match/pacos-ferreira/arouca/2014,2014,24,primeira_liga,16,30,0,3,1,16,5,4,14,21,44,LWLWDLWLDWWLWDWDWWLWWLL,3,2,6,9,16,13,5,7,11,22,33,WLWLLDLWDWLDLLWLDDDDLWW,2,5,4,12,17,LLDLWLDWLWL,WLDWWDLDDDW
-Benfica,Académica,3-0,/match/benfica/academica/2014,2014,24,primeira_liga,16,30,0,3,0,1,18,4,1,44,15,WWDWLDLWLWLDLLWWDWLWLWL,9,2,0,20,5,8,7,8,8,16,22,WLDWWDLLLLWWDWWWDLDDLDD,3,4,4,6,8,WWDWWDWWWWW,WDWLLWWDDLD
-Porto,Belenenses,1-0,/match/fc-porto/belenenses/2014,2014,24,primeira_liga,16,30,0,1,0,3,14,4,5,43,18,LWLWDWLWDDWWLWWWWWLLDWW,9,1,1,26,4,14,3,8,12,12,28,LWLWWDWDDWDDWDWWWWDWLDL,0,4,8,3,16,WWWWDWWWWLW,WWDDWDWWWWWD
-Vitória Setúbal,Estoril,1-1,/match/vitoria-setubal/estoril/2014,2014,24,primeira_liga,16,30,1,1,1,9,8,5,10,31,35,LWLLDDWDLWDWWLWWWWWWWDL,5,3,3,18,15,4,12,6,5,35,22,WLDWDLLLLLLLWDDDDLWLWWW,7,2,2,18,10,LLDDWWLWWWD,LWLLLLDDLLW
-Belenenses,Paços Ferreira,1-1,/match/belenenses/pacos-ferreira/2014,2014,25,primeira_liga,16,30,1,1,1,16,3,8,13,12,29,LWLWWDWDDWDDWDWWWWDWLDLW,3,4,4,9,12,13,6,4,14,24,45,LWLWDLWLDWWLWDWDWWLWWLLW,2,2,8,12,28,LLWWDDDWDLL,WWLWDWWWDWWL
-Sporting CP,Vitória,1-0,/match/sporting-lisbon/vitoria-guimaraes/2014,2014,25,primeira_liga,16,30,0,1,0,2,16,6,2,46,17,WLDLDLWWWLWLWDDLDWWLWDWL,8,4,0,25,6,10,9,4,11,25,25,WDLLLWWLWLLDLWWLLWWWDWLD,5,1,6,13,13,WDDWWWWDDWWW,DLWLWLLWLWWW
-Arouca,Vitória Setúbal,1-0,/match/arouca/vitoria-setubal/2014,2014,25,primeira_liga,16,30,0,1,0,14,5,7,12,23,36,WLWLLDLWDWLDLLWLDDDDLWWW,3,2,7,10,16,8,8,6,10,32,36,LWLLDDWDLWDWWLWWWWWWWDLD,3,2,7,13,20,LWLLDLLWLDLW,WLDWLDWWWWWL
-Académica,Olhanense,2-1,/match/academica/sc-olhanense/2014,2014,25,primeira_liga,16,30,0,2,1,9,7,8,9,16,25,WLDWWDLLLLWWDWWWDLDDLDDW,4,4,4,10,14,15,4,6,14,15,38,WWDLDLWWDLWLLWWLWDWWWDWD,0,3,8,4,24,LWDLLWDWWLDD,WDDWDWWWWWW
-Estoril,Rio Ave,0-1,/match/estoril/rio-ave/2014,2014,25,primeira_liga,16,30,2,0,1,4,12,7,5,36,23,WLDWDLLLLLLLWDDDDLWLWWWD,5,4,3,17,12,12,7,7,10,19,25,LWWLDLLLLLLLLDDWWDWLDDLD,5,3,3,10,7,WDDLLLWDDWWW,LWDLLLDWWDL
-Gil Vicente,Marítimo,1-1,/match/gil-vicente/maritimo/2014,2014,25,primeira_liga,16,30,1,1,1,11,7,5,12,21,32,WWWWDDWLWWDLWLWWDWLWWLLD,5,2,4,11,12,7,8,6,10,33,39,WWDLWLWLWWLDDDDWWDWWWWWL,2,3,7,12,20,WWDWWLLDLWL,WLWWWLDDWDWW
-Sporting Braga,Benfica,0-1,/match/sporting-braga/benfica/2014,2014,25,primeira_liga,16,30,2,0,1,6,9,5,10,34,30,LWWWLLWLLWWWWDWDWWWDWWDD,7,2,3,24,13,1,19,4,1,47,15,WWDWLDLWLWLDLLWWDWLWLWLW,9,2,1,24,10,WWLLLWWWDWDW,WDLLLLLLDLLL
-Nacional,Porto,2-1,/match/nacional/fc-porto/2014,2014,25,primeira_liga,16,30,0,2,1,5,8,11,5,33,27,WDLLWLWWDDDDWDWDLWDDDWLD,5,5,2,18,12,3,15,4,5,44,18,LWLWDWLWDDWWLWWWWWLLDWWW,5,3,4,17,14,DLWWDDWWDWDL,LLDLDWLWWLDW
-Vitória,Estoril,1-3,/match/vitoria-guimaraes/estoril/2014,2014,26,primeira_liga,16,30,2,1,3,10,9,4,12,25,26,WDLLLWWLWLLDLWWLLWWWDWLDW,4,3,5,12,12,5,12,7,6,36,24,WLDWDLLLLLLLWDDDDLWLWWWDL,7,3,2,19,11,WLLWLDWLWDLD,LWLLLLDDLLWD
-Olhanense,Sporting Braga,0-2,/match/sc-olhanense/sporting-braga/2014,2014,26,primeira_liga,16,30,2,0,2,16,4,6,15,16,40,WWDLDLWWDLWLLWWLWDWWWDWDW,4,3,6,11,14,6,9,5,11,34,31,LWWWLLWLLWWWWDWDWWWDWWDDL,2,3,7,10,17,WLLWLLLWLDWDD,LWLWWWDWWWDD
-Paços Ferreira,Sporting CP,1-3,/match/pacos-ferreira/sporting-lisbon/2014,2014,26,primeira_liga,16,30,2,1,3,14,6,5,14,25,46,LWLWDLWLDWWLWDWDWWLWWLLWD,4,2,6,12,17,2,17,6,2,47,17,WLDLDLWWWLWLWDDLDWWLWDWLW,8,2,2,21,11,LLDLWLDWLWLW,LLLWLLDLWLDL
-Marítimo,Arouca,1-0,/match/maritimo/arouca/2014,2014,26,primeira_liga,16,30,0,1,0,7,8,7,10,34,40,WWDLWLWLWWLDDDDWWDWWWWWLD,6,3,3,21,19,13,6,7,12,24,36,WLWLLDLWDWLDLLWLDDDDLWWWW,2,5,5,13,20,WDLLWDDWWWWL,WLDWWDLDDDWW
-Gil Vicente,Belenenses,0-1,/match/gil-vicente/belenenses/2014,2014,26,primeira_liga,16,30,2,0,1,11,7,6,12,22,33,WWWWDDWLWWDLWLWWDWLWWLLDD,5,3,4,12,13,15,3,9,13,13,30,LWLWWDWDDWDDWDWWWWDWLDLWD,0,4,9,3,17,WWDWWLLDLWLD,WWDDWDWWWWWDW
-Vitória Setúbal,Nacional,3-0,/match/vitoria-setubal/nacional/2014,2014,26,primeira_liga,16,30,0,3,0,9,8,6,11,32,37,LWLLDDWDLWDWWLWWWWWWWDLDW,5,4,3,19,16,4,9,11,5,35,28,WDLLWLWWDDDDWDWDLWDDDWLDW,3,6,3,15,15,LLDDWWLWWWDD,WLLWDDDLDDWD
-Porto,Académica,3-1,/match/fc-porto/academica/2014,2014,26,primeira_liga,16,30,0,3,1,3,15,4,6,45,20,LWLWDWLWDDWWLWWWWWLLDWWWW,10,1,1,27,4,8,8,8,9,18,26,WLDWWDLLLLWWDWWWDLDDLDDWW,3,4,5,6,11,WWWWDWWWWLWW,WDWLLWWDDLDW
-Benfica,Rio Ave,4-0,/match_2503/benfica/rio-ave/2014,2014,26,primeira_liga,16,30,0,4,0,1,20,4,1,48,15,WWDWLDLWLWLDLLWWDWLWLWLWL,10,2,0,23,5,12,8,7,10,20,25,LWWLDLLLLLLLLDDWWDWLDDLDL,6,3,3,11,7,WWDWWDWWWWWW,LWDLLLDWWDLL
-Académica,Vitória Setúbal,1-1,/match/academica/vitoria-setubal/2014,2014,27,primeira_liga,16,30,1,1,1,9,8,8,10,19,29,WLDWWDLLLLWWDWWWDLDDLDDWWW,5,4,4,12,15,8,9,6,11,35,37,LWLLDDWDLWDWWLWWWWWWWDLDWW,3,2,8,13,21,LWDLLWDWWLDDW,WLDWLDWWWWWLW
-Nacional,Marítimo,2-0,/match/nacional/maritimo/2014,2014,27,primeira_liga,16,30,0,2,0,5,9,11,6,35,31,WDLLWLWWDDDDWDWDLWDDDWLDWW,6,5,2,20,13,6,9,7,10,35,40,WWDLWLWLWWLDDDDWWDWWWWWLDW,2,4,7,13,21,DLWWDDWWDWDLW,WLWWWLDDWDWWD
-Belenenses,Vitória,3-1,/match/belenenses/vitoria-guimaraes/2014,2014,27,primeira_liga,16,30,0,3,1,14,4,9,13,14,30,LWLWWDWDDWDDWDWWWWDWLDLWDL,3,5,4,10,13,10,9,4,13,26,29,WDLLLWWLWLLDLWWLLWWWDWLDWL,5,1,7,13,14,LLWWDDDWDLLD,DLWLWLLWLWWWW
-Rio Ave,Olhanense,1-2,/match/rio-ave/sc-olhanense/2014,2014,27,primeira_liga,16,30,2,1,2,12,8,7,11,20,29,LWWLDLLLLLLLLDDWWDWLDDLDLW,2,4,7,9,18,16,4,6,16,16,42,WWDLDLWWDLWLLWWLWDWWWDWDWL,0,3,9,5,26,WLLLLLLDWDLDD,WDDWDWWWWWWW
-Sporting CP,Gil Vicente,2-0,/match/sporting-lisbon/gil-vicente/2014,2014,27,primeira_liga,16,30,0,2,0,2,18,6,2,50,18,WLDLDLWWWLWLWDDLDWWLWDWLWL,9,4,0,26,6,11,7,6,13,22,34,WWWWDDWLWWDLWLWWDWLWWLLDDL,2,3,8,10,20,WDDWWWWDDWWWW,WWDLWDWWWWWLD
-Arouca,Benfica,0-2,/match/arouca/benfica/2014,2014,27,primeira_liga,16,30,2,0,2,13,6,7,13,24,37,WLWLLDLWDWLDLLWLDDDDLWWWWW,4,2,7,11,16,1,21,4,1,52,15,WWDWLDLWLWLDLLWWDWLWLWLWLW,10,2,1,25,10,LWLLDLLWLDLWW,WDLLLLLLDLLLL
-Sporting Braga,Porto,1-3,/match/sporting-braga/fc-porto/2014,2014,27,primeira_liga,16,30,2,1,3,7,10,5,11,36,31,LWWWLLWLLWWWWDWDWWWDWWDDLL,7,2,4,24,14,3,16,4,6,48,21,LWLWDWLWDDWWLWWWWWLLDWWWWW,5,3,5,18,16,WWLLLWWWDWDWL,LLDLDWLWWLDWW
-Estoril,Paços Ferreira,1-0,/match/estoril/pacos-ferreira/2014,2014,27,primeira_liga,16,30,0,1,0,4,13,7,6,39,25,WLDWDLLLLLLLWDDDDLWLWWWDLL,5,4,4,17,13,15,6,5,15,26,49,LWLWDLWLDWWLWDWDWWLWWLLWDL,2,3,8,13,29,WDDLLLWDDWWWL,WWLWDWWWDWWLD
-Vitória,Arouca,2-3,/match/vitoria-guimaraes/arouca/2014,2014,28,primeira_liga,16,30,2,2,3,10,9,4,14,27,32,WDLLLWWLWLLDLWWLLWWWDWLDWLW,4,3,6,13,15,14,6,7,14,24,39,WLWLLDLWDWLDLLWLDDDDLWWWWWL,2,5,6,13,21,WLLWLDWLWDLDL,WLDWWDLDDDWWW
-Marítimo,Académica,3-1,/match/maritimo/academica/2014,2014,28,primeira_liga,16,30,0,3,1,6,9,7,11,35,42,WWDLWLWLWWLDDDDWWDWWWWWLDWW,7,3,3,22,19,9,8,9,10,20,30,WLDWWDLLLLWWDWWWDLDDLDDWWWD,3,4,6,7,14,WDLLWDDWWWWLW,WDWLLWWDDLDWW
-Paços Ferreira,Nacional,0-5,/match/pacos-ferreira/nacional/2014,2014,28,primeira_liga,16,30,2,0,5,15,6,5,16,26,50,LWLWDLWLDWWLWDWDWWLWWLLWDLW,4,2,7,13,20,5,10,11,6,37,31,WDLLWLWWDDDDWDWDLWDDDWLDWWW,3,6,4,15,18,LLDLWLDWLWLWL,WLLWDDDLDDWDW
-Gil Vicente,Estoril,0-0,/match/gil-vicente/estoril/2014,2014,28,primeira_liga,16,30,1,0,0,11,7,6,14,22,36,WWWWDDWLWWDLWLWWDWLWWLLDDLW,5,3,5,12,14,4,14,7,6,40,25,WLDWDLLLLLLLWDDDDLWLWWWDLLW,8,3,2,22,12,WWDWWLLDLWLDL,LWLLLLDDLLWDL
-Belenenses,Sporting CP,0-1,/match/belenenses/sporting-lisbon/2014,2014,28,primeira_liga,16,30,2,0,1,12,5,9,13,17,31,LWLWWDWDDWDDWDWWWWDWLDLWDLW,4,5,4,13,14,2,19,6,2,52,18,WLDLDLWWWLWLWDDLDWWLWDWLWLW,9,2,2,24,12,LLWWDDDWDLLDW,LLLWLLDLWLDLL
-Benfica,Olhanense,2-0,/match/benfica/sc-olhanense/2014,2014,28,primeira_liga,16,30,0,2,0,1,22,4,1,54,15,WWDWLDLWLWLDLLWWDWLWLWLWLWL,11,2,0,27,5,16,5,6,16,18,43,WWDLDLWWDLWLLWWLWDWWWDWDWLL,1,3,9,7,27,WWDWWDWWWWWWW,WDDWDWWWWWWWL
-Vitória Setúbal,Sporting Braga,1-1,/match/vitoria-setubal/sporting-braga/2014,2014,28,primeira_liga,16,30,1,1,1,8,9,7,11,36,38,LWLLDDWDLWDWWLWWWWWWWDLDWWD,6,4,3,22,16,7,10,5,12,37,34,LWWWLLWLLWWWWDWDWWWDWWDDLLL,3,3,7,12,17,LLDDWWLWWWDDW,LWLWWWDWWWDDL
-Porto,Rio Ave,3-0,/match/fc-porto/rio-ave/2014,2014,28,primeira_liga,16,30,0,3,0,3,17,4,6,51,22,LWLWDWLWDDWWLWWWWWLLDWWWWWL,11,1,1,30,5,13,8,7,12,21,31,LWWLDLLLLLLLLDDWWDWLDDLDLWL,6,3,4,11,11,WWWWDWWWWLWWW,LWDLLLDWWDLLW
-Nacional,Sporting CP,1-1,/match/nacional/sporting-lisbon/2014,2014,29,primeira_liga,16,30,1,1,1,5,11,11,6,42,31,WDLLWLWWDDDDWDWDLWDDDWLDWWWL,7,5,2,22,13,2,20,6,2,53,18,WLDLDLWWWLWLWDDLDWWLWDWLWLWL,10,2,2,25,12,DLWWDDWWDWDLWW,LLLWLLDLWLDLLL
-Benfica,Vitória Setúbal,1-1,/match/benfica/vitoria-setubal/2014,2014,29,primeira_liga,16,30,1,1,1,1,23,4,1,56,15,WWDWLDLWLWLDLLWWDWLWLWLWLWLW,12,2,0,29,5,7,9,8,11,37,39,LWLLDDWDLWDWWLWWWWWWWDLDWWDD,3,3,8,14,22,WWDWWDWWWWWWWW,WLDWLDWWWWWLWD
-Rio Ave,Paços Ferreira,0-0,/match/rio-ave/pacos-ferreira/2014,2014,29,primeira_liga,16,30,1,0,0,13,8,7,13,21,34,LWWLDLLLLLLLLDDWWDWLDDLDLWLW,2,4,8,10,20,15,6,5,17,26,55,LWLWDLWLDWWLWDWDWWLWWLLWDLWL,2,3,9,13,30,WLLLLLLDWDLDDL,WWLWDWWWDWWLDW
-Olhanense,Porto,2-1,/match/sc-olhanense/fc-porto/2014,2014,29,primeira_liga,16,30,0,2,1,16,5,6,17,18,45,WWDLDLWWDLWLLWWLWDWWWDWDWLLW,4,3,7,11,16,3,18,4,6,54,22,LWLWDWLWDDWWLWWWWWLLDWWWWWLW,6,3,5,21,17,WLLWLLLWLDWDDL,LLDLDWLWWLDWWL
-Arouca,Gil Vicente,1-0,/match/arouca/gil-vicente/2014,2014,29,primeira_liga,16,30,0,1,0,14,7,7,14,27,41,WLWLLDLWDWLDLLWLDDDDLWWWWWLL,4,2,8,11,18,10,7,7,14,22,36,WWWWDDWLWWDLWLWWDWLWWLLDDLWD,2,3,9,10,22,LWLLDLLWLDLWWL,WWDLWDWWWWWLDW
-Académica,Vitória,0-0,/match/academica/vitoria-guimaraes/2014,2014,29,primeira_liga,16,30,1,0,0,9,8,9,11,21,33,WLDWWDLLLLWWDWWWDLDDLDDWWWDW,5,5,4,13,16,11,9,4,15,29,35,WDLLLWWLWLLDLWWLLWWWDWLDWLWL,5,1,8,14,17,LWDLLWDWWLDDWD,DLWLWLLWLWWWWW
-Estoril,Belenenses,1-1,/match/estoril/belenenses/2014,2014,29,primeira_liga,16,30,1,1,1,4,14,8,6,40,25,WLDWDLLLLLLLWDDDDLWLWWWDLLWD,6,4,4,18,13,12,5,9,14,17,32,LWLWWDWDDWDDWDWWWWDWLDLWDLWL,1,4,9,4,17,WDDLLLWDDWWWLW,WWDDWDWWWWWDWL
-Sporting Braga,Marítimo,1-1,/match/sporting-braga/maritimo/2014,2014,29,primeira_liga,16,30,1,1,1,8,10,6,12,38,35,LWWWLLWLLWWWWDWDWWWDWWDDLLLD,7,2,5,25,17,6,10,7,11,38,43,WWDLWLWLWWLDDDDWWDWWWWWLDWWW,2,4,8,13,23,WWLLLWWWDWDWLL,WLWWWLDDWDWWDW
-Belenenses,Arouca,1-0,/match/belenenses/arouca/2014,2014,30,primeira_liga,16,30,0,1,0,13,5,10,14,18,33,LWLWWDWDDWDDWDWWWWDWLDLWDLWLD,4,5,5,13,15,11,8,7,14,28,41,WLWLLDLWDWLDLLWLDDDDLWWWWWLLW,3,5,6,16,23,LLWWDDDWDLLDWL,WLDWWDLDDDWWWL
-Paços Ferreira,Académica,2-4,/match/pacos-ferreira/academica/2014,2014,30,primeira_liga,16,30,2,2,4,16,6,6,17,26,55,LWLWDLWLDWWLWDWDWWLWWLLWDLWLD,4,2,8,13,25,9,8,10,11,21,33,WLDWWDLLLLWWDWWWDLDDLDDWWWDWD,3,4,7,8,17,LLDLWLDWLWLWLL,WDWLLWWDDLDWWW
-Vitória Setúbal,Olhanense,3-1,/match/vitoria-setubal/sc-olhanense/2014,2014,30,primeira_liga,16,30,0,3,1,7,9,9,11,38,40,LWLLDDWDLWDWWLWWWWWWWDLDWWDDD,6,5,3,23,17,15,6,6,17,20,46,WWDLDLWWDLWLLWWLWDWWWDWDWLLWW,1,3,10,7,29,LLDDWWLWWWDDWD,WDDWDWWWWWWWLW
-Vitória,Sporting Braga,1-0,/match/vitoria-guimaraes/sporting-braga/2014,2014,30,primeira_liga,16,30,0,1,0,12,9,5,15,29,35,WDLLLWWLWLLDLWWLLWWWDWLDWLWLD,4,3,7,15,18,8,10,7,12,39,36,LWWWLLWLLWWWWDWDWWWDWWDDLLLDD,3,4,7,13,18,WLLWLDWLWDLDLL,LWLWWWDWWWDDLD
-Porto,Benfica,2-1,/match_2503/fc-porto/benfica/2014,2014,30,primeira_liga,16,30,0,2,1,3,18,4,7,55,24,LWLWDWLWDDWWLWWWWWLLDWWWWWLWW,12,1,1,33,5,1,23,5,1,57,16,WWDWLDLWLWLDLLWWDWLWLWLWLWLWD,11,2,1,27,10,WWWWDWWWWLWWWW,WDLLLLLLDLLLLL
-Sporting CP,Estoril,0-1,/match/sporting-lisbon/estoril/2014,2014,30,primeira_liga,16,30,2,0,1,2,20,7,2,54,19,WLDLDLWWWLWLWDDLDWWLWDWLWLWLD,10,4,0,28,6,4,14,9,6,41,26,WLDWDLLLLLLLWDDDDLWLWWWDLLWDD,8,4,2,22,12,WDDWWWWDDWWWWW,LWLLLLDDLLWDLD
-Gil Vicente,Nacional,1-0,/match/gil-vicente/nacional/2014,2014,30,primeira_liga,16,30,0,1,0,10,7,7,15,22,37,WWWWDDWLWWDLWLWWDWLWWLLDDLWDW,5,4,5,12,14,5,11,12,6,43,32,WDLLWLWWDDDDWDWDLWDDDWLDWWWLD,4,6,4,20,18,WWDWWLLDLWLDLD,WLLWDDDLDDWDWL
-Marítimo,Rio Ave,1-0,/match/maritimo/rio-ave/2014,2014,30,primeira_liga,16,30,0,1,0,6,10,8,11,39,44,WWDLWLWLWWLDDDDWWDWWWWWLDWWWD,8,3,3,25,20,14,8,8,13,21,34,LWWLDLLLLLLLLDDWWDWLDDLDLWLWD,6,3,5,11,14,WDLLWDDWWWWLWW,LWDLLLDWWDLLWW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Paços Ferreira,Sporting Braga,0-2,/match/pacos-ferreira/sporting-braga/2014,2014,1,primeira_liga,16,30,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Estoril,Nacional,3-1,/match/estoril/nacional/2014,2014,1,primeira_liga,16,30,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória,Olhanense,2-0,/match/vitoria-guimaraes/sc-olhanense/2014,2014,1,primeira_liga,16,30,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sporting CP,Arouca,5-1,/match/sporting-lisbon/arouca/2014,2014,1,primeira_liga,16,30,0,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Belenenses,Rio Ave,0-3,/match/belenenses/rio-ave/2014,2014,1,primeira_liga,16,30,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Gil Vicente,Académica,2-0,/match/gil-vicente/academica/2014,2014,1,primeira_liga,16,30,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Marítimo,Benfica,2-1,/match/maritimo/benfica/2014,2014,1,primeira_liga,16,30,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vitória Setúbal,Porto,1-3,/match/vitoria-setubal/fc-porto/2014,2014,1,primeira_liga,16,30,2,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Olhanense,Paços Ferreira,1-0,/match/sc-olhanense/pacos-ferreira/2014,2014,2,primeira_liga,16,30,0,1,0,10,0,0,0,1,0,2,W,0,0,0,0,0,13,0,0,0,1,0,2,L,0,0,0,0,0,,
+Académica,Sporting CP,0-4,/match/academica/sporting-lisbon/2014,2014,2,primeira_liga,16,30,2,0,4,16,0,0,0,1,0,2,W,0,0,0,0,0,2,4,1,0,0,5,1,W,0,0,0,0,0,,
+Rio Ave,Vitória Setúbal,2-0,/match/rio-ave/vitoria-setubal/2014,2014,2,primeira_liga,16,30,0,2,0,6,2,1,0,0,3,0,L,0,0,0,0,0,12,0,0,0,1,1,3,L,0,0,0,0,0,,
+Nacional,Vitória,1-1,/match/nacional/vitoria-guimaraes/2014,2014,2,primeira_liga,16,30,1,1,1,9,0,0,0,1,1,3,W,0,0,0,0,0,3,4,1,0,0,2,0,W,0,0,0,0,0,,
+Benfica,Gil Vicente,2-1,/match/benfica/gil-vicente/2014,2014,2,primeira_liga,16,30,0,2,1,11,0,0,0,1,1,2,W,0,0,0,0,0,4,4,1,0,0,2,0,W,0,0,0,0,0,,
+Arouca,Estoril,1-2,/match/arouca/estoril/2014,2014,2,primeira_liga,16,30,2,1,2,14,0,0,0,1,1,5,W,0,0,0,0,0,5,4,1,0,0,3,1,W,0,0,0,0,0,,
+Porto,Marítimo,3-0,/match/fc-porto/maritimo/2014,2014,2,primeira_liga,16,30,0,3,0,8,2,1,0,0,3,1,L,0,0,0,0,0,1,4,1,0,0,2,1,W,0,0,0,0,0,,
+Sporting Braga,Belenenses,2-1,/match/sporting-braga/belenenses/2014,2014,2,primeira_liga,16,30,0,2,1,7,2,1,0,0,2,0,L,0,0,0,0,0,15,0,0,0,1,0,3,L,0,0,0,0,0,,
+Vitória,Vitória Setúbal,1-4,/match/vitoria-guimaraes/vitoria-setubal/2014,2014,3,primeira_liga,16,30,2,1,4,6,5,1,1,0,3,1,WD,1,0,0,2,0,12,0,0,0,2,1,5,LW,0,0,1,0,2,W,W
+Sporting CP,Benfica,1-1,/match/sporting-lisbon/benfica/2014,2014,3,primeira_liga,16,30,1,1,1,1,6,2,0,0,9,1,WL,1,0,0,5,1,10,4,1,0,1,3,3,WW,0,0,1,1,2,W,W
+Arouca,Rio Ave,1-0,/match/arouca/rio-ave/2014,2014,3,primeira_liga,16,30,0,1,0,14,0,0,0,2,2,7,WL,0,0,1,1,2,3,6,2,0,0,5,0,LW,1,0,0,3,0,L,L
+Marítimo,Olhanense,1-1,/match/maritimo/sc-olhanense/2014,2014,3,primeira_liga,16,30,1,1,1,7,4,1,0,1,2,4,WW,1,0,0,2,1,9,4,1,0,1,1,2,WW,0,0,1,0,2,W,W
+Belenenses,Nacional,2-3,/match/belenenses/nacional/2014,2014,3,primeira_liga,16,30,2,2,3,15,0,0,0,2,1,5,LW,0,0,1,0,3,11,2,0,1,1,2,4,WD,0,0,1,1,3,L,W
+Paços Ferreira,Porto,0-1,/match/pacos-ferreira/fc-porto/2014,2014,3,primeira_liga,16,30,2,0,1,13,0,0,0,2,0,3,LW,0,0,1,0,2,5,6,2,0,0,6,1,LW,1,0,0,3,1,L,L
+Gil Vicente,Sporting Braga,1-0,/match/gil-vicente/sporting-braga/2014,2014,3,primeira_liga,16,30,0,1,0,8,4,1,0,1,3,2,WW,1,0,0,2,0,4,6,2,0,0,4,1,LW,1,0,0,2,0,W,L
+Estoril,Académica,1-1,/match/estoril/academica/2014,2014,3,primeira_liga,16,30,1,1,1,2,6,2,0,0,5,2,WL,1,0,0,3,1,16,0,0,0,2,0,6,WL,0,0,1,0,2,W,W
+Rio Ave,Vitória,0-1,/match/rio-ave/vitoria-guimaraes/2014,2014,4,primeira_liga,16,30,2,0,1,5,6,2,0,1,5,1,LWW,1,0,0,2,0,8,5,1,1,1,4,5,WDL,0,1,0,1,1,W,D
+Benfica,Paços Ferreira,3-1,/match/benfica/pacos-ferreira/2014,2014,4,primeira_liga,16,30,0,3,1,10,5,1,1,1,4,4,WWD,1,0,0,2,1,15,0,0,0,3,0,4,LWL,0,0,1,0,1,W,W
+Porto,Gil Vicente,2-0,/match/fc-porto/gil-vicente/2014,2014,4,primeira_liga,16,30,0,2,0,3,8,3,0,0,7,1,LWL,1,0,0,3,0,4,8,2,0,1,4,2,WWW,0,0,1,1,2,W,W
+Académica,Belenenses,2-1,/match/academica/belenenses/2014,2014,4,primeira_liga,16,30,0,2,1,14,1,0,1,2,1,7,WLD,0,0,1,0,4,16,0,0,0,3,3,8,LWL,0,0,1,1,2,L,W
+Vitória Setúbal,Marítimo,2-4,/match/vitoria-setubal/maritimo/2014,2014,4,primeira_liga,16,30,2,2,4,13,2,1,0,2,5,6,LWL,0,0,1,1,3,7,6,1,1,1,3,5,WWD,0,0,1,0,3,L,W
+Nacional,Arouca,0-1,/match/nacional/arouca/2014,2014,4,primeira_liga,16,30,2,0,1,11,4,1,1,1,5,6,WDL,0,1,0,1,1,12,4,1,0,2,3,7,WLW,0,0,1,1,5,D,W
+Olhanense,Sporting CP,0-2,/match/sc-olhanense/sporting-lisbon/2014,2014,4,primeira_liga,16,30,2,0,2,9,5,1,1,1,2,3,WWD,1,0,0,1,0,1,8,2,1,0,10,2,WLD,1,0,0,4,0,W,L
+Sporting Braga,Estoril,3-2,/match/sporting-braga/estoril/2014,2014,4,primeira_liga,16,30,0,3,2,6,6,2,0,1,4,2,LWW,1,0,0,2,1,2,8,2,1,0,6,3,WLD,1,0,0,2,1,W,L
+Arouca,Sporting Braga,0-1,/match/arouca/sporting-braga/2014,2014,5,primeira_liga,16,30,2,0,1,10,6,2,0,2,4,7,WLWL,1,0,1,2,2,3,10,3,0,1,7,4,LWWW,1,0,1,2,1,LW,LW
+Gil Vicente,Olhanense,1-1,/match/gil-vicente/sc-olhanense/2014,2014,5,primeira_liga,16,30,1,1,1,6,8,2,0,2,4,4,WWWW,2,0,0,3,0,11,5,1,1,2,2,5,WWDL,0,1,1,1,3,WW,WD
+Belenenses,Marítimo,1-0,/match/belenenses/maritimo/2014,2014,5,primeira_liga,16,30,0,1,0,16,0,0,0,4,4,10,LWLW,0,0,2,2,6,7,8,2,1,1,7,7,WWDL,1,0,1,4,5,LL,WL
+Sporting CP,Rio Ave,1-1,/match/sporting-lisbon/rio-ave/2014,2014,5,primeira_liga,16,30,1,1,1,2,10,3,1,0,12,2,WLDL,1,1,0,6,2,9,6,2,0,2,5,2,LWWL,1,0,1,3,1,WD,LW
+Nacional,Académica,1-0,/match/nacional/academica/2014,2014,5,primeira_liga,16,30,0,1,0,13,4,1,1,2,5,7,WDLL,0,1,1,1,2,12,5,1,1,2,3,8,WLDW,0,1,1,1,3,DL,WD
+Vitória,Benfica,0-1,/match/vitoria-guimaraes/benfica/2014,2014,5,primeira_liga,16,30,2,0,1,8,7,2,1,1,5,5,WDLL,1,0,1,3,4,4,9,2,1,1,7,5,WWDW,0,1,1,2,3,WL,WD
+Estoril,Porto,2-2,/match/estoril/fc-porto/2014,2014,5,primeira_liga,16,30,1,2,2,5,8,2,1,1,8,6,WLDW,1,1,0,4,2,1,12,4,0,0,9,1,LWLW,2,0,0,4,1,WD,LL
+Paços Ferreira,Vitória Setúbal,1-1,/match/pacos-ferreira/vitoria-setubal/2014,2014,5,primeira_liga,16,30,1,1,1,15,0,0,0,4,1,7,LWLW,0,0,2,0,3,14,2,1,0,3,7,10,LWLL,1,0,1,4,3,LL,WL
+Porto,Vitória,1-0,/match/fc-porto/vitoria-guimaraes/2014,2014,6,primeira_liga,16,30,0,1,0,1,13,4,1,0,11,3,LWLWD,2,0,0,5,0,9,7,2,1,2,5,6,WDLLL,1,1,0,2,1,WW,DL
+Académica,Arouca,0-0,/match/academica/arouca/2014,2014,6,primeira_liga,16,30,1,0,0,13,5,1,1,3,3,9,WLDWW,1,0,1,2,5,11,6,2,0,3,4,8,WLWLL,1,0,1,2,5,LW,WL
+Rio Ave,Nacional,0-3,/match/rio-ave/nacional/2014,2014,6,primeira_liga,16,30,2,0,3,10,7,2,1,2,6,3,LWWLD,1,0,1,2,1,8,8,2,1,2,6,7,WDLLW,1,0,1,4,5,WL,WL
+Marítimo,Paços Ferreira,3-4,/match/maritimo/pacos-ferreira/2014,2014,6,primeira_liga,16,30,2,3,4,7,8,2,1,2,7,8,WWDLW,1,1,0,3,2,16,2,0,1,4,2,8,LWLWD,0,0,2,1,4,WD,WW
+Olhanense,Estoril,1-2,/match/sc-olhanense/estoril/2014,2014,6,primeira_liga,16,30,2,1,2,12,6,1,2,2,3,6,WWDLD,1,0,1,1,2,5,10,2,2,1,10,8,WLDWD,1,0,1,4,4,WL,LW
+Benfica,Belenenses,1-1,/match/benfica/belenenses/2014,2014,6,primeira_liga,16,30,1,1,1,4,11,3,1,1,8,5,WWDWL,2,0,0,5,2,14,4,1,0,4,5,10,LWLWW,0,0,2,2,4,WW,WW
+Sporting Braga,Sporting CP,1-2,/match/sporting-braga/sporting-lisbon/2014,2014,6,primeira_liga,16,30,2,1,2,3,12,4,0,1,8,4,LWWWL,2,0,0,5,3,2,12,3,2,0,13,3,WLDLD,2,0,0,6,0,WW,LL
+Vitória Setúbal,Gil Vicente,2-2,/match/vitoria-setubal/gil-vicente/2014,2014,6,primeira_liga,16,30,1,2,2,15,3,1,1,3,8,11,LWLLD,0,0,2,3,7,6,10,2,1,2,5,5,WWWWD,0,0,2,1,4,LL,WW
+Académica,Rio Ave,0-1,/match/academica/rio-ave/2014,2014,7,primeira_liga,16,30,2,0,1,12,7,1,2,3,3,9,WLDWWD,1,1,1,2,5,10,7,2,1,3,6,6,LWWLDL,1,1,1,4,2,LWD,LWD
+Belenenses,Olhanense,2-0,/match/belenenses/sc-olhanense/2014,2014,7,primeira_liga,16,30,0,2,0,14,5,1,1,4,6,11,LWLWWD,1,0,2,3,6,13,6,1,2,3,4,8,WWDLDL,0,2,1,2,4,LLW,WDD
+Sporting CP,Vitória Setúbal,4-0,/match/sporting-lisbon/vitoria-setubal/2014,2014,7,primeira_liga,16,30,0,4,0,2,14,4,2,0,15,4,WLDLDL,1,2,0,7,3,15,5,1,2,3,10,13,LWLLDD,1,1,1,5,4,WDD,WLD
+Gil Vicente,Paços Ferreira,2-1,/match/gil-vicente/pacos-ferreira/2014,2014,7,primeira_liga,16,30,0,2,1,6,11,2,2,2,7,7,WWWWDD,2,1,0,4,1,16,4,1,1,4,6,11,LWLWDL,1,0,2,5,7,WWD,WWL
+Nacional,Sporting Braga,3-0,/match/nacional/sporting-braga/2014,2014,7,primeira_liga,16,30,0,3,0,7,10,3,1,2,9,7,WDLLWL,1,1,1,2,2,4,12,4,0,2,9,6,LWWWLL,2,0,1,3,1,DLW,LWL
+Arouca,Porto,1-3,/match/arouca/fc-porto/2014,2014,7,primeira_liga,16,30,2,1,3,11,7,2,1,3,4,8,WLWLLD,1,0,2,2,3,1,17,5,1,0,12,3,LWLWDW,2,1,0,6,3,LWL,LLD
+Estoril,Benfica,1-2,/match/estoril/benfica/2014,2014,7,primeira_liga,16,30,2,1,2,5,12,3,2,1,12,9,WLDWDL,1,2,0,6,4,3,13,3,2,1,9,6,WWDWLD,1,1,1,3,3,WDD,WDL
+Vitória,Marítimo,1-0,/match/vitoria-guimaraes/maritimo/2014,2014,7,primeira_liga,16,30,0,1,0,9,7,2,1,3,5,7,WDLLLW,1,0,2,3,5,8,8,2,1,3,10,12,WWDLWL,1,0,2,4,6,WLL,WLW
+Sporting Braga,Académica,0-1,/match/sporting-braga/academica/2014,2014,8,primeira_liga,16,30,2,0,1,6,12,4,0,3,9,9,LWWWLLW,2,0,1,6,5,13,7,1,2,4,3,10,WLDWWDL,0,1,2,1,4,WWL,WDW
+Olhanense,Arouca,1-0,/match/sc-olhanense/arouca/2014,2014,8,primeira_liga,16,30,0,1,0,14,6,1,2,4,4,10,WWDLDLW,1,0,2,2,4,12,7,2,1,4,5,11,WLWLLDL,1,1,1,2,5,WLL,WLD
+Rio Ave,Gil Vicente,0-1,/match/rio-ave/gil-vicente/2014,2014,8,primeira_liga,16,30,2,0,1,9,9,3,1,3,7,6,LWWLDLL,1,0,2,2,4,4,15,3,2,2,9,8,WWWWDDW,0,1,2,3,6,WLL,WWD
+Vitória Setúbal,Belenenses,0-0,/match/vitoria-setubal/belenenses/2014,2014,8,primeira_liga,16,30,1,0,0,15,5,1,2,4,10,17,LWLLDDW,0,1,2,5,9,10,9,2,1,4,8,11,LWLWWDW,0,1,2,3,5,LLD,WWD
+Benfica,Nacional,2-0,/match/benfica/nacional/2014,2014,8,primeira_liga,16,30,0,2,0,3,15,4,2,1,11,7,WWDWLDL,2,1,0,6,3,5,14,4,1,2,12,7,WDLLWLW,2,0,1,7,5,WWD,WLL
+Porto,Sporting CP,3-1,/match/fc-porto/sporting-lisbon/2014,2014,8,primeira_liga,16,30,0,3,1,1,19,6,1,0,15,4,LWLWDWL,3,0,0,6,0,2,18,5,2,0,19,4,WLDLDLW,3,0,0,8,1,WWW,LLL
+Marítimo,Estoril,1-3,/match/maritimo/estoril/2014,2014,8,primeira_liga,16,30,2,1,3,11,8,2,1,4,10,13,WWDLWLW,1,1,1,6,6,7,12,3,2,2,13,11,WLDWDLL,2,0,1,6,5,WDL,LWL
+Paços Ferreira,Vitória,1-3,/match/pacos-ferreira/vitoria-guimaraes/2014,2014,8,primeira_liga,16,30,2,1,3,16,4,1,1,5,7,13,LWLWDLW,0,1,2,1,4,8,11,3,1,3,6,7,WDLLLWW,1,1,1,2,2,LLD,DLW
+Académica,Benfica,0-3,/match/academica/benfica/2014,2014,9,primeira_liga,16,30,2,0,3,12,9,2,2,4,4,10,WLDWWDLL,1,1,2,2,6,2,19,5,2,1,13,7,WWDWLDLW,2,1,1,5,4,LWDL,WDLL
+Belenenses,Porto,1-1,/match/belenenses/fc-porto/2014,2014,9,primeira_liga,16,30,1,1,1,9,10,2,2,4,8,11,LWLWWDWD,2,0,2,5,6,1,23,7,1,0,18,5,LWLWDWLW,3,1,0,9,4,LLWW,LLDL
+Sporting CP,Marítimo,3-2,/match/sporting-lisbon/maritimo/2014,2014,9,primeira_liga,16,30,0,3,2,3,18,5,2,1,20,7,WLDLDLWW,2,2,0,11,3,13,8,2,1,5,11,16,WWDLWLWL,1,0,3,4,7,WDDW,WLWW
+Arouca,Paços Ferreira,0-0,/match/arouca/pacos-ferreira/2014,2014,9,primeira_liga,16,30,1,0,0,14,7,2,1,5,5,12,WLWLLDLW,1,0,3,3,6,16,4,1,1,6,8,16,LWLWDLWL,1,0,3,6,9,LWLL,WWLW
+Nacional,Olhanense,0-0,/match/nacional/sc-olhanense/2014,2014,9,primeira_liga,16,30,1,0,0,5,14,4,1,3,12,9,WDLLWLWW,2,1,1,5,2,10,10,2,2,4,5,10,WWDLDLWW,0,2,2,2,6,DLWW,WDDW
+Estoril,Vitória Setúbal,0-2,/match/estoril/vitoria-setubal/2014,2014,9,primeira_liga,16,30,2,0,2,6,14,4,2,2,16,12,WLDWDLLL,1,2,1,7,6,15,7,1,3,4,10,17,LWLLDDWD,1,1,2,5,8,WDDL,WLDW
+Gil Vicente,Vitória,1-0,/match/gil-vicente/vitoria-guimaraes/2014,2014,9,primeira_liga,16,30,0,1,0,4,17,4,2,2,10,8,WWWWDDWL,3,1,0,6,2,7,13,4,1,3,9,8,WDLLLWWL,2,1,1,5,3,WWDW,DLWL
+Sporting Braga,Rio Ave,0-1,/match/sporting-braga/rio-ave/2014,2014,9,primeira_liga,16,30,2,0,1,8,12,4,0,4,9,10,LWWWLLWL,2,0,2,6,6,11,9,3,1,4,7,7,LWWLDLLL,2,1,1,5,2,WWLL,LWDL
+Benfica,Sporting Braga,1-0,/match/benfica/sporting-braga/2014,2014,10,primeira_liga,16,30,0,1,0,3,21,6,2,1,16,7,WWDWLDLWL,3,1,0,8,3,8,12,4,0,5,9,11,LWWWLLWLL,2,0,2,3,4,WWDW,LWLW
+Porto,Nacional,1-1,/match/fc-porto/nacional/2014,2014,10,primeira_liga,16,30,1,1,1,1,24,7,2,0,19,6,LWLWDWLWD,4,0,0,9,1,5,16,4,2,3,12,9,WDLLWLWWD,2,0,2,7,7,WWWW,WLLW
+Rio Ave,Estoril,0-2,/match/rio-ave/estoril/2014,2014,10,primeira_liga,16,30,2,0,2,11,11,4,1,4,8,7,LWWLDLLLL,1,0,3,2,5,6,14,4,2,3,16,14,WLDWDLLLL,3,0,1,9,6,WLLL,LWLL
+Vitória Setúbal,Arouca,1-0,/match/vitoria-setubal/arouca/2014,2014,10,primeira_liga,16,30,0,1,0,14,9,2,3,4,12,17,LWLLDDWDL,0,2,2,5,9,13,9,2,2,5,5,12,WLWLLDLWD,1,1,2,2,6,LLDD,WLDW
+Marítimo,Gil Vicente,3-2,/match/maritimo/gil-vicente/2014,2014,10,primeira_liga,16,30,0,3,2,15,8,2,1,6,13,19,WWDLWLWLW,1,1,2,7,9,4,21,5,2,2,11,8,WWWWDDWLW,1,1,2,4,6,WDLL,WWDL
+Paços Ferreira,Belenenses,1-0,/match/pacos-ferreira/belenenses/2014,2014,10,primeira_liga,16,30,0,1,0,16,5,1,2,6,8,16,LWLWDLWLD,0,1,3,2,7,9,12,2,3,4,9,12,LWLWWDWDD,0,2,2,3,5,LLDL,WWDD
+Vitória,Sporting CP,0-1,/match/vitoria-guimaraes/sporting-lisbon/2014,2014,10,primeira_liga,16,30,2,0,1,7,13,4,1,4,9,9,WDLLLWWLW,2,0,2,4,5,2,22,6,2,1,23,9,WLDLDLWWW,3,0,1,9,4,WLLW,LLLW
+Olhanense,Académica,0-1,/match/sc-olhanense/academica/2014,2014,10,primeira_liga,16,30,2,0,1,10,11,2,3,4,5,10,WWDLDLWWD,2,0,2,3,4,12,9,2,2,5,4,13,WLDWWDLLL,1,1,2,2,4,WLLW,WDWL
+Sporting Braga,Olhanense,4-1,/match/sporting-braga/sc-olhanense/2014,2014,11,primeira_liga,16,30,0,4,1,9,12,4,0,6,9,12,LWWWLLWLLW,2,0,3,6,7,12,11,2,3,5,5,11,WWDLDLWWDL,0,3,2,2,6,WWLLL,WDDWD
+Académica,Porto,1-0,/match/academica/fc-porto/2014,2014,11,primeira_liga,16,30,0,1,0,14,11,3,2,5,5,13,WLDWWDLLLL,1,1,3,2,9,1,26,7,3,0,20,7,LWLWDWLWDD,3,2,0,10,5,LWDLL,LLDLD
+Arouca,Marítimo,1-2,/match/arouca/maritimo/2014,2014,11,primeira_liga,16,30,2,1,2,15,9,2,2,6,5,13,WLWLLDLWDW,1,1,3,3,6,11,12,3,1,6,16,21,WWDLWLWLWW,1,0,4,6,10,LWLLD,WLWWW
+Belenenses,Gil Vicente,0-0,/match/belenenses/gil-vicente/2014,2014,11,primeira_liga,16,30,1,0,0,10,12,2,3,5,9,13,LWLWWDWDDW,2,1,2,6,7,4,21,5,2,3,13,11,WWWWDDWLWW,1,1,3,6,9,LLWWD,WWDLW
+Nacional,Vitória Setúbal,2-2,/match/nacional/vitoria-setubal/2014,2014,11,primeira_liga,16,30,1,2,2,5,17,4,3,3,13,10,WDLLWLWWDD,2,2,1,5,2,8,13,3,3,4,13,17,LWLLDDWDLW,2,1,2,7,8,DLWWD,WLDWL
+Rio Ave,Benfica,1-3,/match/rio-ave/benfica/2014,2014,11,primeira_liga,16,30,2,1,3,13,11,4,1,5,8,9,LWWLDLLLLL,1,0,4,2,7,2,25,7,2,1,17,7,WWDWLDLWLW,3,1,1,8,4,WLLLL,WDLLL
+Sporting CP,Paços Ferreira,4-0,/match/sporting-lisbon/pacos-ferreira/2014,2014,11,primeira_liga,16,30,0,4,0,3,24,7,2,1,24,9,WLDLDLWWWL,3,2,0,14,5,16,9,2,2,6,9,16,LWLWDLWLDW,1,1,3,6,9,WDDWW,WWLWD
+Estoril,Vitória,0-2,/match/estoril/vitoria-guimaraes/2014,2014,11,primeira_liga,16,30,2,0,2,6,16,5,2,3,18,14,WLDWDLLLLL,1,2,2,7,8,7,13,4,1,5,9,10,WDLLLWWLWL,2,1,2,5,4,WDDLL,DLWLW
+Benfica,Arouca,2-2,/match/benfica/arouca/2014,2014,12,primeira_liga,16,30,1,2,2,2,27,8,2,1,20,8,WWDWLDLWLWL,4,1,0,9,3,15,9,2,2,7,6,15,WLWLLDLWDWL,1,1,3,2,7,WWDWW,WLDWW
+Paços Ferreira,Estoril,0-3,/match/pacos-ferreira/estoril/2014,2014,12,primeira_liga,16,30,2,0,3,16,9,2,2,7,9,20,LWLWDLWLDWW,1,1,3,3,7,6,16,5,2,4,18,16,WLDWDLLLLLL,4,0,1,11,6,LLDLW,LWLLL
+Vitória,Belenenses,0-0,/match/vitoria-guimaraes/belenenses/2014,2014,12,primeira_liga,16,30,1,0,0,8,15,5,1,5,11,10,WDLLLWWLWLL,2,0,3,4,6,11,14,2,4,5,9,13,LWLWWDWDDWD,0,2,3,3,6,WLLWL,WWDDW
+Porto,Sporting Braga,2-0,/match/fc-porto/sporting-braga/2014,2014,12,primeira_liga,16,30,0,2,0,3,26,7,3,1,20,8,LWLWDWLWDDW,4,1,0,10,2,7,16,5,0,6,13,13,LWWWLLWLLWW,2,0,3,3,5,WWWWD,LWLWW
+Marítimo,Nacional,2-2,/match/maritimo/nacional/2014,2014,12,primeira_liga,16,30,1,2,2,12,14,4,1,6,18,22,WWDLWLWLWWL,2,1,2,10,11,5,19,4,4,3,15,12,WDLLWLWWDDD,2,1,2,8,8,WDLLW,WLLWD
+Olhanense,Rio Ave,0-1,/match/sc-olhanense/rio-ave/2014,2014,12,primeira_liga,16,30,2,0,1,13,11,2,3,6,6,15,WWDLDLWWDLW,2,0,3,3,5,14,11,4,1,6,9,12,LWWLDLLLLLL,3,1,1,6,2,WLLWL,LWDLL
+Gil Vicente,Sporting CP,0-2,/match/gil-vicente/sporting-lisbon/2014,2014,12,primeira_liga,16,30,2,0,2,4,22,5,3,3,13,11,WWWWDDWLWWD,4,1,0,7,2,1,28,8,2,1,28,9,WLDLDLWWWLW,4,0,1,10,4,WWDWW,LLLWL
+Vitória Setúbal,Académica,1-0,/match/vitoria-setubal/academica/2014,2014,12,primeira_liga,16,30,0,1,0,10,14,3,4,4,15,19,LWLLDDWDLWD,1,2,2,6,9,9,15,4,2,5,6,13,WLDWWDLLLLW,2,1,2,3,4,LLDDW,WDWLL
+Académica,Marítimo,1-1,/match/academica/maritimo/2014,2014,13,primeira_liga,16,30,1,1,1,11,15,4,2,6,6,14,WLDWWDLLLLWW,2,1,3,3,9,10,16,4,2,6,20,24,WWDLWLWLWWLD,2,0,4,8,11,LWDLLW,WLWWWL
+Sporting Braga,Vitória Setúbal,2-0,/match/sporting-braga/vitoria-setubal/2014,2014,13,primeira_liga,16,30,0,2,0,9,16,5,0,7,13,15,LWWWLLWLLWWW,3,0,3,10,8,7,18,4,4,4,16,19,LWLLDDWDLWDW,2,2,2,9,10,WWLLLW,WLDWLD
+Sporting CP,Belenenses,3-0,/match/sporting-lisbon/belenenses/2014,2014,13,primeira_liga,16,30,0,3,0,1,30,9,2,1,30,9,WLDLDLWWWLWL,4,2,0,18,5,12,15,2,5,5,9,13,LWLWWDWDDWDD,0,3,3,3,6,WDDWWW,WWDDWD
+Arouca,Vitória,0-2,/match/arouca/vitoria-guimaraes/2014,2014,13,primeira_liga,16,30,2,0,2,15,10,2,3,7,8,17,WLWLLDLWDWLD,1,1,4,4,8,8,17,5,2,5,11,10,WDLLLWWLWLLD,3,1,2,7,4,LWLLDL,DLWLWL
+Olhanense,Benfica,2-3,/match/sc-olhanense/benfica/2014,2014,13,primeira_liga,16,30,2,2,3,14,11,2,3,7,6,16,WWDLDLWWDLWL,2,0,4,3,6,3,29,8,3,1,22,10,WWDWLDLWLWLD,4,1,1,11,5,WLLWLL,WDLLLL
+Rio Ave,Porto,1-3,/match/rio-ave/fc-porto/2014,2014,13,primeira_liga,16,30,2,1,3,13,13,5,1,6,10,12,LWWLDLLLLLLL,1,0,5,3,10,2,30,8,3,1,22,8,LWLWDWLWDDWW,3,2,1,10,6,WLLLLL,LLDLDW
+Nacional,Paços Ferreira,2-1,/match/nacional/pacos-ferreira/2014,2014,13,primeira_liga,16,30,0,2,1,5,20,4,5,3,17,14,WDLLWLWWDDDD,2,3,1,7,4,16,9,2,2,8,9,23,LWLWDLWLDWWL,1,1,4,6,13,DLWWDD,WWLWDW
+Estoril,Gil Vicente,2-0,/match/estoril/gil-vicente/2014,2014,13,primeira_liga,16,30,0,2,0,6,18,6,2,4,21,16,WLDWDLLLLLLL,1,2,3,7,10,4,22,5,3,4,13,13,WWWWDDWLWWDL,1,2,3,6,9,WDDLLL,WWDLWD
+Marítimo,Sporting Braga,2-2,/match/maritimo/sporting-braga/2014,2014,14,primeira_liga,16,30,1,2,2,10,17,4,3,6,21,25,WWDLWLWLWWLDD,2,2,2,12,13,7,20,6,0,7,15,15,LWWWLLWLLWWWW,2,0,4,3,7,WDLLWD,LWLWWW
+Porto,Olhanense,4-0,/match/fc-porto/sc-olhanense/2014,2014,14,primeira_liga,16,30,0,4,0,2,32,9,3,1,25,9,LWLWDWLWDDWWL,5,1,0,12,2,14,11,2,3,8,8,19,WWDLDLWWDLWLL,0,3,3,3,10,WWWWDW,WDDWDW
+Vitória Setúbal,Benfica,0-2,/match/vitoria-setubal/benfica/2014,2014,14,primeira_liga,16,30,2,0,2,9,18,4,4,5,16,21,LWLLDDWDLWDWW,2,2,2,7,9,3,31,9,3,1,25,12,WWDWLDLWLWLDL,5,1,1,14,7,LLDDWW,WDLLLLL
+Paços Ferreira,Rio Ave,0-0,/match/pacos-ferreira/rio-ave/2014,2014,14,primeira_liga,16,30,1,0,0,16,9,2,2,9,10,25,LWLWDLWLDWWLW,1,1,4,3,10,13,13,5,1,7,11,15,LWWLDLLLLLLLL,4,1,1,7,2,LLDLWL,LWDLLL
+Vitória,Académica,3-0,/match/vitoria-guimaraes/academica/2014,2014,14,primeira_liga,16,30,0,3,0,8,19,6,2,5,13,10,WDLLLWWLWLLDL,2,1,3,4,6,11,17,4,3,6,7,15,WLDWWDLLLLWWD,2,1,3,3,5,WLLWLD,WDWLLW
+Sporting CP,Nacional,0-0,/match/sporting-lisbon/nacional/2014,2014,14,primeira_liga,16,30,1,0,0,1,34,10,2,1,33,9,WLDLDLWWWLWLW,5,2,0,21,5,4,24,5,5,3,19,15,WDLLWLWWDDDDW,2,2,2,10,10,WDDWWWW,WLLWDD
+Gil Vicente,Arouca,0-3,/match/gil-vicente/arouca/2014,2014,14,primeira_liga,16,30,2,0,3,5,22,5,3,5,13,15,WWWWDDWLWWDLW,4,1,1,7,4,15,10,2,3,8,8,19,WLWLLDLWDWLDL,1,2,3,4,9,WWDWWL,WLDWWD
+Belenenses,Estoril,0-0,/match/belenenses/estoril/2014,2014,14,primeira_liga,16,30,1,0,0,12,15,2,5,6,9,16,LWLWWDWDDWDDW,2,2,2,6,7,6,22,7,2,4,23,16,WLDWDLLLLLLLW,5,0,1,14,6,LLWWDD,LWLLLL
+Sporting Braga,Vitória,3-0,/match/sporting-braga/vitoria-guimaraes/2014,2014,15,primeira_liga,16,30,0,3,0,8,21,6,1,7,17,17,LWWWLLWLLWWWWD,4,0,3,12,8,6,23,7,2,5,16,10,WDLLLWWLWLLDLW,4,1,2,9,4,WWLLLWW,DLWLWLL
+Rio Ave,Marítimo,1-1,/match/rio-ave/maritimo/2014,2014,15,primeira_liga,16,30,1,1,1,13,14,5,2,7,11,15,LWWLDLLLLLLLLD,1,0,6,4,13,9,19,4,4,6,23,27,WWDLWLWLWWLDDD,2,1,4,9,12,WLLLLLL,WLWWWLD
+Estoril,Sporting CP,0-0,/match/estoril/sporting-lisbon/2014,2014,15,primeira_liga,16,30,1,0,0,5,23,7,3,4,23,16,WLDWDLLLLLLLWD,2,2,3,9,10,1,36,10,3,1,33,9,WLDLDLWWWLWLWD,5,0,1,12,4,WDDLLLW,LLLWLL
+Arouca,Belenenses,2-0,/match/arouca/belenenses/2014,2014,15,primeira_liga,16,30,0,2,0,14,12,3,3,8,11,19,WLWLLDLWDWLDLL,1,1,5,4,10,12,17,2,6,6,9,16,LWLWWDWDDWDDWD,0,3,4,3,9,LWLLDLL,WWDDWDW
+Académica,Paços Ferreira,4-2,/match/academica/pacos-ferreira/2014,2014,15,primeira_liga,16,30,0,4,2,11,17,4,3,7,7,18,WLDWWDLLLLWWDW,2,2,3,4,10,16,11,2,3,9,10,25,LWLWDLWLDWWLWD,1,1,5,7,15,LWDLLWD,WWLWDWW
+Benfica,Porto,2-0,/match/benfica/fc-porto/2014,2014,15,primeira_liga,16,30,0,2,0,3,33,10,3,1,27,12,WWDWLDLWLWLDLL,4,2,0,11,5,2,36,10,3,1,29,9,LWLWDWLWDDWWLW,4,2,1,13,7,WWDWWD,LLDLDWL
+Olhanense,Vitória Setúbal,2-1,/match/sc-olhanense/vitoria-setubal/2014,2014,15,primeira_liga,16,30,0,2,1,15,11,2,3,9,8,23,WWDLDLWWDLWLLW,2,0,5,5,9,10,18,4,4,6,16,23,LWLLDDWDLWDWWL,2,2,3,9,12,WLLWLLL,WLDWLDW
+Nacional,Gil Vicente,2-0,/match/nacional/gil-vicente/2014,2014,15,primeira_liga,16,30,0,2,0,4,25,5,6,3,19,15,WDLLWLWWDDDDWD,3,3,1,9,5,7,22,5,3,6,13,18,WWWWDDWLWWDLWL,1,2,4,6,11,DLWWDDW,WWDLWDW
+Olhanense,Vitória,0-1,/match/sc-olhanense/vitoria-guimaraes/2014,2014,16,primeira_liga,16,30,2,0,1,15,15,3,3,9,10,24,WWDLDLWWDLWLLWW,3,0,5,7,10,7,23,7,2,6,16,13,WDLLLWWLWLLDLWW,4,1,3,9,7,WLLWLLLW,DLWLWLLW
+Arouca,Sporting CP,1-2,/match/arouca/sporting-lisbon/2014,2014,16,primeira_liga,16,30,2,1,2,14,16,4,3,8,13,19,WLWLLDLWDWLDLLW,2,1,5,6,10,1,37,10,4,1,33,9,WLDLDLWWWLWLWDD,5,1,1,12,4,LWLLDLLW,LLLWLLD
+Rio Ave,Belenenses,1-0,/match/rio-ave/belenenses/2014,2014,16,primeira_liga,16,30,0,1,0,13,16,5,3,7,12,16,LWWLDLLLLLLLLDD,1,1,6,5,14,12,17,2,6,7,9,18,LWLWWDWDDWDDWDW,0,3,5,3,11,WLLLLLLD,WWDDWDWW
+Académica,Gil Vicente,1-0,/match/academica/gil-vicente/2014,2014,16,primeira_liga,16,30,0,1,0,9,21,5,3,7,11,20,WLDWWDLLLLWWDWW,3,2,3,8,12,8,22,5,3,7,13,20,WWWWDDWLWWDLWLW,1,2,5,6,13,LWDLLWDW,WWDLWDWW
+Sporting Braga,Paços Ferreira,1-1,/match/sporting-braga/pacos-ferreira/2014,2014,16,primeira_liga,16,30,1,1,1,6,25,7,1,7,20,17,LWWWLLWLLWWWWDW,5,0,3,15,8,16,11,2,3,10,12,29,LWLWDLWLDWWLWDW,1,1,6,9,19,WWLLLWWW,WWLWDWWW
+Benfica,Marítimo,2-0,/match/benfica/maritimo/2014,2014,16,primeira_liga,16,30,0,2,0,2,37,11,3,1,29,12,WWDWLDLWLWLDLLW,5,2,0,13,5,10,20,4,5,6,24,28,WWDLWLWLWWLDDDD,2,2,4,10,13,WWDWWDW,WLWWWLDD
+Porto,Vitória Setúbal,3-0,/match/fc-porto/vitoria-setubal/2014,2014,16,primeira_liga,16,30,0,3,0,3,36,10,3,2,29,11,LWLWDWLWDDWWLWW,6,1,0,16,2,11,18,4,4,7,17,25,LWLLDDWDLWDWWLW,2,2,4,10,14,WWWWDWW,WLDWLDWW
+Nacional,Estoril,2-2,/match/nacional/estoril/2014,2014,16,primeira_liga,16,30,1,2,2,4,29,6,6,3,21,15,WDLLWLWWDDDDWDW,4,3,1,11,5,5,25,7,4,4,23,16,WLDWDLLLLLLLWDD,5,1,1,14,6,DLWWDDWW,LWLLLLD
+Estoril,Arouca,1-1,/match/estoril/arouca/2014,2014,17,primeira_liga,16,30,1,1,1,6,26,7,5,4,25,18,WLDWDLLLLLLLWDDD,2,3,3,9,10,14,16,4,3,9,14,21,WLWLLDLWDWLDLLWL,2,2,3,7,9,WDDLLLWD,WLDWWDL
+Marítimo,Porto,1-0,/match/maritimo/fc-porto/2014,2014,17,primeira_liga,16,30,0,1,0,10,20,4,5,7,24,30,WWDLWLWLWWLDDDDW,2,3,2,14,15,2,40,11,3,2,32,11,LWLWDWLWDDWWLWWW,4,2,2,13,9,WDLLWDD,LLDLDWLW
+Vitória Setúbal,Rio Ave,2-0,/match/vitoria-setubal/rio-ave/2014,2014,17,primeira_liga,16,30,0,2,0,12,18,4,4,8,17,28,LWLLDDWDLWDWWLWW,2,2,3,7,11,11,20,6,3,7,13,16,LWWLDLLLLLLLLDDW,4,2,1,7,2,LLDDWWL,LWDLLLD
+Gil Vicente,Benfica,1-1,/match/gil-vicente/benfica/2014,2014,17,primeira_liga,16,30,1,1,1,9,22,5,3,8,13,21,WWWWDDWLWWDLWLWW,4,1,2,7,7,1,41,12,3,1,31,12,WWDWLDLWLWLDLLWW,6,1,1,16,7,WWDWWLL,WDLLLLLL
+Belenenses,Sporting Braga,2-1,/match/belenenses/sporting-braga/2014,2014,17,primeira_liga,16,30,0,2,1,13,17,2,6,8,9,19,LWLWWDWDDWDDWDWW,2,3,2,6,7,5,27,7,2,7,21,18,LWWWLLWLLWWWWDWD,2,1,4,5,9,LLWWDDD,LWLWWWD
+Sporting CP,Académica,0-0,/match/sporting-lisbon/academica/2014,2014,17,primeira_liga,16,30,1,0,0,3,39,11,4,1,35,10,WLDLDLWWWLWLWDDL,5,3,0,21,5,8,25,6,3,7,12,20,WLDWWDLLLLWWDWWW,2,1,4,3,8,WDDWWWWD,WDWLLWW
+Vitória,Nacional,1-2,/match/vitoria-guimaraes/nacional/2014,2014,17,primeira_liga,16,30,2,1,2,7,25,8,2,6,17,13,WDLLLWWLWLLDLWWL,3,1,3,7,6,4,31,6,7,3,23,17,WDLLWLWWDDDDWDWD,2,3,2,10,10,WLLWLDW,WLLWDDD
+Paços Ferreira,Olhanense,3-1,/match/pacos-ferreira/sc-olhanense/2014,2014,17,primeira_liga,16,30,0,3,1,16,12,2,4,10,13,30,LWLWDLWLDWWLWDWD,1,2,4,3,10,15,15,3,3,10,10,25,WWDLDLWWDLWLLWWL,0,3,4,3,14,LLDLWLD,WDDWDWW
+Nacional,Belenenses,2-0,/match/nacional/belenenses/2014,2014,18,primeira_liga,16,30,0,2,0,4,33,7,7,3,25,18,WDLLWLWWDDDDWDWDL,4,4,1,13,7,12,21,3,6,8,11,20,LWLWWDWDDWDDWDWWW,0,3,6,3,12,DLWWDDWWD,WWDDWDWWW
+Vitória Setúbal,Vitória,3-2,/match/vitoria-setubal/vitoria-guimaraes/2014,2014,18,primeira_liga,16,30,0,3,2,11,22,5,4,8,19,28,LWLLDDWDLWDWWLWWW,3,2,3,9,11,8,25,8,2,7,18,15,WDLLLWWLWLLDLWWLL,5,1,3,10,7,LLDDWWLW,DLWLWLLWL
+Rio Ave,Arouca,1-1,/match/rio-ave/arouca/2014,2014,18,primeira_liga,16,30,1,1,1,13,20,6,3,8,13,18,LWWLDLLLLLLLLDDWW,2,1,6,6,14,14,17,4,4,9,15,22,WLWLLDLWDWLDLLWLD,2,3,3,8,10,WLLLLLLDW,WLDWWDLD
+Olhanense,Marítimo,1-1,/match/sc-olhanense/maritimo/2014,2014,18,primeira_liga,16,30,1,1,1,16,15,3,3,11,11,28,WWDLDLWWDLWLLWWLW,3,0,6,7,11,10,24,5,5,7,25,30,WWDLWLWLWWLDDDDWW,2,2,5,10,15,WLLWLLLWL,WLWWWLDDW
+Porto,Paços Ferreira,3-0,/match/fc-porto/pacos-ferreira/2014,2014,18,primeira_liga,16,30,0,3,0,3,40,11,3,3,32,12,LWLWDWLWDDWWLWWWW,7,1,0,19,2,15,16,3,4,10,16,31,LWLWDLWLDWWLWDWDW,1,2,6,10,20,WWWWDWWW,WWLWDWWWD
+Sporting Braga,Gil Vicente,4-1,/match/sporting-braga/gil-vicente/2014,2014,18,primeira_liga,16,30,0,4,1,6,27,7,2,8,22,20,LWWWLLWLLWWWWDWDW,5,1,3,16,9,9,24,5,4,8,14,22,WWWWDDWLWWDLWLWWD,1,2,6,6,14,WWLLLWWWD,WWDLWDWWW
+Académica,Estoril,0-1,/match/academica/estoril/2014,2014,18,primeira_liga,16,30,2,0,1,7,26,6,4,7,12,20,WLDWWDLLLLWWDWWWD,4,2,3,9,12,5,28,7,6,4,26,19,WLDWDLLLLLLLWDDDD,5,2,1,16,8,LWDLLWDWW,LWLLLLDD
+Benfica,Sporting CP,2-0,/match/benfica/sporting-lisbon/2014,2014,18,primeira_liga,16,30,0,2,0,1,42,12,4,1,32,13,WWDWLDLWLWLDLLWWD,6,2,0,15,5,2,41,11,5,1,35,10,WLDLDLWWWLWLWDDLD,6,1,1,14,5,WWDWWDWW,LLLWLLDL
+Belenenses,Académica,0-0,/match/belenenses/academica/2014,2014,19,primeira_liga,16,30,1,0,0,13,21,3,6,9,11,22,LWLWWDWDDWDDWDWWWW,3,3,2,8,8,7,26,6,4,8,12,21,WLDWWDLLLLWWDWWWDL,2,2,4,3,8,LLWWDDDW,WDWLLWWD
+Sporting CP,Olhanense,1-0,/match/sporting-lisbon/sc-olhanense/2014,2014,19,primeira_liga,16,30,0,1,0,3,41,11,5,2,35,12,WLDLDLWWWLWLWDDLDW,5,4,0,21,5,15,17,3,4,11,12,29,WWDLDLWWDLWLLWWLWD,0,3,5,4,17,WDDWWWWDD,WDDWDWWW
+Marítimo,Vitória Setúbal,1-0,/match/maritimo/vitoria-setubal/2014,2014,19,primeira_liga,16,30,0,1,0,10,25,5,6,7,26,31,WWDLWLWLWWLDDDDWWD,3,3,2,15,15,8,26,6,4,8,22,30,LWLLDDWDLWDWWLWWWW,2,2,5,10,17,WDLLWDDW,WLDWLDWWW
+Arouca,Nacional,1-1,/match/arouca/nacional/2014,2014,19,primeira_liga,16,30,1,1,1,14,18,4,5,9,16,23,WLWLLDLWDWLDLLWLDD,2,1,6,7,12,4,37,8,7,3,27,18,WDLLWLWWDDDDWDWDLW,3,3,2,12,11,LWLLDLLWL,WLLWDDDL
+Vitória,Rio Ave,1-0,/match/vitoria-guimaraes/rio-ave/2014,2014,19,primeira_liga,16,30,0,1,0,9,25,8,2,8,20,18,WDLLLWWLWLLDLWWLLW,3,1,4,8,8,12,22,6,4,8,14,19,LWWLDLLLLLLLLDDWWD,4,2,2,7,4,WLLWLDWL,LWDLLLDW
+Paços Ferreira,Benfica,0-2,/match/pacos-ferreira/benfica/2014,2014,19,primeira_liga,16,30,2,0,2,16,16,3,4,11,16,34,LWLWDLWLDWWLWDWDWW,2,2,4,6,11,1,46,13,4,1,34,13,WWDWLDLWLWLDLLWWDW,6,2,1,17,8,LLDLWLDW,WDLLLLLLD
+Gil Vicente,Porto,1-2,/match/gil-vicente/fc-porto/2014,2014,19,primeira_liga,16,30,2,1,2,11,24,5,4,9,15,26,WWWWDDWLWWDLWLWWDW,4,2,2,8,8,2,44,12,3,3,35,12,LWLWDWLWDDWWLWWWWW,4,2,3,13,10,WWDWWLLD,LLDLDWLWW
+Estoril,Sporting Braga,2-1,/match/estoril/sporting-braga/2014,2014,19,primeira_liga,16,30,0,2,1,6,30,8,6,4,27,19,WLDWDLLLLLLLWDDDDL,2,4,3,10,11,5,31,8,2,8,26,21,LWWWLLWLLWWWWDWDWW,2,1,5,6,11,WDDLLLWDD,LWLWWWDW
+Académica,Nacional,0-0,/match/academica/nacional/2014,2014,20,primeira_liga,16,30,1,0,0,9,27,6,5,8,12,21,WLDWWDLLLLWWDWWWDLD,4,2,4,9,13,4,38,8,8,3,28,19,WDLLWLWWDDDDWDWDLWD,3,4,2,13,12,LWDLLWDWWL,WLLWDDDLD
+Sporting Braga,Arouca,2-2,/match/sporting-braga/arouca/2014,2014,20,primeira_liga,16,30,1,2,2,6,31,8,2,9,27,23,LWWWLLWLLWWWWDWDWWW,6,1,3,20,10,14,20,4,6,9,17,24,WLWLLDLWDWLDLLWLDDD,2,4,3,9,11,WWLLLWWWDW,WLDWWDLDD
+Rio Ave,Sporting CP,1-2,/match/rio-ave/sporting-lisbon/2014,2014,20,primeira_liga,16,30,2,1,2,13,22,6,4,9,14,20,LWWLDLLLLLLLLDDWWDW,2,2,6,7,15,3,45,12,5,2,36,12,WLDLDLWWWLWLWDDLDWW,6,1,2,14,7,WLLLLLLDWD,LLLWLLDLW
+Olhanense,Gil Vicente,2-1,/match/sc-olhanense/gil-vicente/2014,2014,20,primeira_liga,16,30,0,2,1,15,17,3,4,12,12,30,WWDLDLWWDLWLLWWLWDW,3,1,6,8,12,11,24,5,4,10,16,28,WWWWDDWLWWDLWLWWDWL,1,2,7,7,18,WLLWLLLWLD,WWDLWDWWWW
+Vitória Setúbal,Paços Ferreira,4-0,/match/vitoria-setubal/pacos-ferreira/2014,2014,20,primeira_liga,16,30,0,4,0,10,26,6,4,9,22,31,LWLLDDWDLWDWWLWWWWW,4,2,3,12,13,16,16,3,4,12,16,36,LWLWDLWLDWWLWDWDWWL,1,2,7,10,23,LLDDWWLWW,WWLWDWWWDW
+Marítimo,Belenenses,2-0,/match/maritimo/belenenses/2014,2014,20,primeira_liga,16,30,0,2,0,8,29,6,6,7,27,31,WWDLWLWLWWLDDDDWWDW,4,3,2,16,15,12,23,3,7,9,11,22,LWLWWDWDDWDDWDWWWWD,0,3,7,3,14,WDLLWDDWW,WWDDWDWWWW
+Porto,Estoril,0-1,/match/fc-porto/estoril/2014,2014,20,primeira_liga,16,30,2,0,1,2,46,13,3,3,37,13,LWLWDWLWDDWWLWWWWWL,8,1,0,22,2,5,34,9,6,4,29,20,WLDWDLLLLLLLWDDDDLW,6,2,1,17,8,WWWWDWWWW,LWLLLLDDL
+Benfica,Vitória,1-0,/match/benfica/vitoria-guimaraes/2014,2014,20,primeira_liga,16,30,0,1,0,1,48,14,4,1,36,13,WWDWLDLWLWLDLLWWDWL,7,2,0,17,5,7,29,9,2,8,21,18,WDLLLWWLWLLDLWWLLWW,5,1,4,12,10,WWDWWDWWW,DLWLWLLWLW
+Estoril,Olhanense,4-0,/match/estoril/sc-olhanense/2014,2014,21,primeira_liga,16,30,0,4,0,5,36,10,6,4,30,20,WLDWDLLLLLLLWDDDDLWL,3,4,3,12,12,15,21,4,4,12,14,31,WWDLDLWWDLWLLWWLWDWW,0,3,6,4,18,WDDLLLWDDW,WDDWDWWWW
+Sporting CP,Sporting Braga,2-1,/match/sporting-lisbon/sporting-braga/2014,2014,21,primeira_liga,16,30,0,2,1,2,47,13,5,2,38,13,WLDLDLWWWLWLWDDLDWWL,6,4,0,22,5,6,33,8,3,9,29,25,LWWWLLWLLWWWWDWDWWWD,2,1,6,7,13,WDDWWWWDDW,LWLWWWDWW
+Gil Vicente,Vitória Setúbal,1-0,/match/gil-vicente/vitoria-setubal/2014,2014,21,primeira_liga,16,30,0,1,0,11,24,5,4,11,17,30,WWWWDDWLWWDLWLWWDWLW,4,2,3,9,10,8,30,7,4,9,26,31,LWLLDDWDLWDWWLWWWWWW,2,2,6,10,18,WWDWWLLDL,WLDWLDWWWW
+Paços Ferreira,Marítimo,3-1,/match/pacos-ferreira/maritimo/2014,2014,21,primeira_liga,16,30,0,3,1,16,16,3,4,13,16,40,LWLWDLWLDWWLWDWDWWLW,2,2,5,6,13,7,33,7,6,7,29,31,WWDLWLWLWWLDDDDWWDWW,2,3,5,11,16,LLDLWLDWL,WLWWWLDDWD
+Nacional,Rio Ave,1-1,/match/nacional/rio-ave/2014,2014,21,primeira_liga,16,30,1,1,1,4,39,8,9,3,28,19,WDLLWLWWDDDDWDWDLWDD,5,4,1,15,7,13,22,6,4,10,15,22,LWWLDLLLLLLLLDDWWDWL,4,2,3,7,5,DLWWDDWWDW,LWDLLLDWW
+Belenenses,Benfica,0-1,/match/belenenses/benfica/2014,2014,21,primeira_liga,16,30,2,0,1,12,23,3,7,10,11,24,LWLWWDWDDWDDWDWWWWDW,3,4,2,8,8,1,52,15,4,1,37,13,WWDWLDLWLWLDLLWWDWLW,7,2,1,19,8,LLWWDDDWD,WDLLLLLLDL
+Vitória,Porto,2-2,/match/vitoria-guimaraes/fc-porto/2014,2014,21,primeira_liga,16,30,1,2,2,9,29,9,2,9,21,19,WDLLLWWLWLLDLWWLLWWW,4,1,4,9,8,3,46,13,3,4,37,14,LWLWDWLWDDWWLWWWWWLL,5,2,3,15,11,WLLWLDWLW,LLDLDWLWWL
+Arouca,Académica,0-3,/match/arouca/academica/2014,2014,21,primeira_liga,16,30,2,0,3,14,21,4,7,9,19,26,WLWLLDLWDWLDLLWLDDDD,2,2,6,8,13,10,29,6,6,8,12,21,WLDWWDLLLLWWDWWWDLDD,2,3,4,3,8,LWLLDLLWLD,WDWLLWWDD
+Rio Ave,Académica,0-0,/match/rio-ave/academica/2014,2014,22,primeira_liga,16,30,1,0,0,13,23,6,5,10,16,23,LWWLDLLLLLLLLDDWWDWLD,2,2,7,8,17,9,31,7,6,8,15,21,WLDWWDLLLLWWDWWWDLDDL,3,3,4,6,8,WLLLLLLDWDL,WDWLLWWDDL
+Sporting Braga,Nacional,2-1,/match/sporting-braga/nacional/2014,2014,22,primeira_liga,16,30,0,2,1,6,33,8,3,10,30,27,LWWWLLWLLWWWWDWDWWWDW,6,2,3,22,12,4,41,8,10,3,29,20,WDLLWLWWDDDDWDWDLWDDD,3,5,2,13,12,WWLLLWWWDWD,WLLWDDDLDD
+Olhanense,Belenenses,0-0,/match/sc-olhanense/belenenses/2014,2014,22,primeira_liga,16,30,1,0,0,15,21,4,4,13,14,35,WWDLDLWWDLWLLWWLWDWWW,4,1,6,10,13,12,23,3,7,11,11,25,LWLWWDWDDWDDWDWWWWDWL,0,3,8,3,16,WLLWLLLWLDW,WWDDWDWWWWW
+Paços Ferreira,Gil Vicente,0-2,/match/pacos-ferreira/gil-vicente/2014,2014,22,primeira_liga,16,30,2,0,2,16,20,4,4,13,19,41,LWLWDLWLDWWLWDWDWWLWW,3,2,5,9,14,11,28,6,4,11,18,30,WWWWDDWLWWDLWLWWDWLWW,1,2,8,8,20,LLDLWLDWLW,WWDLWDWWWWW
+Benfica,Estoril,2-0,/match/benfica/estoril/2014,2014,22,primeira_liga,16,30,0,2,0,1,54,16,4,1,38,13,WWDWLDLWLWLDLLWWDWLWL,8,2,0,18,5,5,40,11,6,4,34,20,WLDWDLLLLLLLWDDDDLWLW,7,2,1,18,8,WWDWWDWWWW,LWLLLLDDLL
+Vitória Setúbal,Sporting CP,2-2,/match/vitoria-setubal/sporting-lisbon/2014,2014,22,primeira_liga,16,30,1,2,2,10,30,7,4,10,26,32,LWLLDDWDLWDWWLWWWWWWW,5,2,3,16,13,2,51,14,5,2,40,14,WLDLDLWWWLWLWDDLDWWLW,7,1,2,16,8,LLDDWWLWWW,LLLWLLDLWL
+Porto,Arouca,4-1,/match/fc-porto/arouca/2014,2014,22,primeira_liga,16,30,0,4,1,3,47,13,4,4,39,16,LWLWDWLWDDWWLWWWWWLLD,8,1,1,22,3,14,21,4,7,10,19,29,WLWLLDLWDWLDLLWLDDDDL,2,5,3,11,13,WWWWDWWWWL,WLDWWDLDDD
+Marítimo,Vitória,2-1,/match/maritimo/vitoria-guimaraes/2014,2014,22,primeira_liga,16,30,0,2,1,7,33,7,6,8,30,34,WWDLWLWLWWLDDDDWWDWWW,5,3,2,18,15,8,31,9,3,9,23,21,WDLLLWWLWLLDLWWLLWWWD,5,1,5,12,11,WDLLWDDWWW,DLWLWLLWLWW
+Académica,Sporting Braga,1-1,/match/academica/sporting-braga/2014,2014,23,primeira_liga,16,30,1,1,1,8,32,7,7,8,15,21,WLDWWDLLLLWWDWWWDLDDLD,4,3,4,9,13,6,37,9,3,10,32,28,LWWWLLWLLWWWWDWDWWWDWW,2,1,7,8,15,LWDLLWDWWLD,LWLWWWDWWW
+Gil Vicente,Rio Ave,1-2,/match/gil-vicente/rio-ave/2014,2014,23,primeira_liga,16,30,2,1,2,11,30,7,4,11,20,30,WWWWDDWLWWDLWLWWDWLWWL,5,2,3,10,10,12,25,6,6,10,16,23,LWWLDLLLLLLLLDDWWDWLDD,4,3,3,8,6,WWDWWLLDLW,LWDLLLDWWD
+Estoril,Marítimo,1-0,/match/estoril/maritimo/2014,2014,23,primeira_liga,16,30,0,1,0,5,40,11,6,5,34,22,WLDWDLLLLLLLWDDDDLWLWW,4,4,3,16,12,7,37,8,6,8,32,35,WWDLWLWLWWLDDDDWWDWWWW,2,3,6,12,19,WDDLLLWDDWW,WLWWWLDDWDW
+Vitória,Paços Ferreira,1-2,/match/vitoria-guimaraes/pacos-ferreira/2014,2014,23,primeira_liga,16,30,2,1,2,10,31,9,3,10,24,23,WDLLLWWLWLLDLWWLLWWWDW,4,2,4,11,10,16,20,4,4,14,19,43,LWLWDLWLDWWLWDWDWWLWWL,1,2,8,10,27,WLLWLDWLWD,WWLWDWWWDWW
+Belenenses,Vitória Setúbal,1-3,/match/belenenses/vitoria-setubal/2014,2014,23,primeira_liga,16,30,2,1,3,13,24,3,8,11,11,25,LWLWWDWDDWDDWDWWWWDWLD,3,4,3,8,9,9,32,7,5,10,28,34,LWLLDDWDLWDWWLWWWWWWWD,2,2,7,10,19,LLWWDDDWDL,WLDWLDWWWWW
+Arouca,Olhanense,2-0,/match/arouca/sc-olhanense/2014,2014,23,primeira_liga,16,30,0,2,0,15,21,4,7,11,20,33,WLWLLDLWDWLDLLWLDDDDLW,2,2,7,8,16,14,23,4,5,13,14,35,WWDLDLWWDLWLLWWLWDWWWD,0,3,7,4,22,LWLLDLLWLDL,WDDWDWWWWW
+Sporting CP,Porto,1-0,/match/sporting-lisbon/fc-porto/2014,2014,23,primeira_liga,16,30,0,1,0,2,52,14,6,2,42,16,WLDLDLWWWLWLWDDLDWWLWD,7,4,0,24,6,3,51,14,4,4,43,17,LWLWDWLWDDWWLWWWWWLLDW,5,3,3,17,13,WDDWWWWDDWW,LLDLDWLWWLD
+Nacional,Benfica,2-4,/match/nacional/benfica/2014,2014,23,primeira_liga,16,30,2,2,4,4,41,8,10,4,30,22,WDLLWLWWDDDDWDWDLWDDDW,5,5,1,16,8,1,58,17,4,1,40,13,WWDWLDLWLWLDLLWWDWLWLW,8,2,1,20,8,DLWWDDWWDWD,WDLLLLLLDLL
+Rio Ave,Sporting Braga,1-1,/match_2503/rio-ave/sporting-braga/2014,2014,24,primeira_liga,16,30,1,1,1,12,27,7,6,10,18,24,LWWLDLLLLLLLLDDWWDWLDDL,2,3,7,8,17,6,38,9,4,10,33,29,LWWWLLWLLWWWWDWDWWWDWWD,2,2,7,9,16,WLLLLLLDWDLD,LWLWWWDWWWD
+Vitória,Gil Vicente,0-0,/match/vitoria-guimaraes/gil-vicente/2014,2014,24,primeira_liga,16,30,1,0,0,10,31,9,3,11,25,25,WDLLLWWLWLLDLWWLLWWWDWL,4,2,5,12,12,11,30,7,4,12,21,32,WWWWDDWLWWDLWLWWDWLWWLL,2,2,8,10,20,WLLWLDWLWDL,WWDLWDWWWWWL
+Marítimo,Sporting CP,1-3,/match/maritimo/sporting-lisbon/2014,2014,24,primeira_liga,16,30,2,1,3,7,37,8,6,9,32,36,WWDLWLWLWWLDDDDWWDWWWWW,6,3,2,20,16,2,56,15,6,2,43,16,WLDLDLWWWLWLWDDLDWWLWDW,7,2,2,18,10,WDLLWDDWWWW,LLLWLLDLWLD
+Olhanense,Nacional,1-1,/match/sc-olhanense/nacional/2014,2014,24,primeira_liga,16,30,1,1,1,15,23,4,5,14,14,37,WWDLDLWWDLWLLWWLWDWWWDW,4,2,6,10,13,5,41,8,10,5,32,26,WDLLWLWWDDDDWDWDLWDDDWL,3,5,3,14,14,WLLWLLLWLDWD,WLLWDDDLDDW
+Paços Ferreira,Arouca,3-1,/match/pacos-ferreira/arouca/2014,2014,24,primeira_liga,16,30,0,3,1,16,22,5,4,14,21,44,LWLWDLWLDWWLWDWDWWLWWLL,3,2,6,9,16,13,25,5,7,11,22,33,WLWLLDLWDWLDLLWLDDDDLWW,2,5,4,12,17,LLDLWLDWLWL,WLDWWDLDDDW
+Benfica,Académica,3-0,/match/benfica/academica/2014,2014,24,primeira_liga,16,30,0,3,0,1,60,18,4,1,44,15,WWDWLDLWLWLDLLWWDWLWLWL,9,2,0,20,5,8,34,7,8,8,16,22,WLDWWDLLLLWWDWWWDLDDLDD,3,4,4,6,8,WWDWWDWWWWW,WDWLLWWDDLD
+Porto,Belenenses,1-0,/match/fc-porto/belenenses/2014,2014,24,primeira_liga,16,30,0,1,0,3,51,14,4,5,43,18,LWLWDWLWDDWWLWWWWWLLDWW,9,1,1,26,4,14,24,3,8,12,12,28,LWLWWDWDDWDDWDWWWWDWLDL,0,4,8,3,16,WWWWDWWWWLW,WWDDWDWWWWWD
+Vitória Setúbal,Estoril,1-1,/match/vitoria-setubal/estoril/2014,2014,24,primeira_liga,16,30,1,1,1,9,34,8,5,10,31,35,LWLLDDWDLWDWWLWWWWWWWDL,5,3,3,18,15,4,44,12,6,5,35,22,WLDWDLLLLLLLWDDDDLWLWWW,7,2,2,18,10,LLDDWWLWWWD,LWLLLLDDLLW
+Belenenses,Paços Ferreira,1-1,/match/belenenses/pacos-ferreira/2014,2014,25,primeira_liga,16,30,1,1,1,16,24,3,8,13,12,29,LWLWWDWDDWDDWDWWWWDWLDLW,3,4,4,9,12,13,26,6,4,14,24,45,LWLWDLWLDWWLWDWDWWLWWLLW,2,2,8,12,28,LLWWDDDWDLL,WWLWDWWWDWWL
+Sporting CP,Vitória,1-0,/match/sporting-lisbon/vitoria-guimaraes/2014,2014,25,primeira_liga,16,30,0,1,0,2,58,16,6,2,46,17,WLDLDLWWWLWLWDDLDWWLWDWL,8,4,0,25,6,10,33,9,4,11,25,25,WDLLLWWLWLLDLWWLLWWWDWLD,5,1,6,13,13,WDDWWWWDDWWW,DLWLWLLWLWWW
+Arouca,Vitória Setúbal,1-0,/match/arouca/vitoria-setubal/2014,2014,25,primeira_liga,16,30,0,1,0,14,25,5,7,12,23,36,WLWLLDLWDWLDLLWLDDDDLWWW,3,2,7,10,16,8,36,8,6,10,32,36,LWLLDDWDLWDWWLWWWWWWWDLD,3,2,7,13,20,LWLLDLLWLDLW,WLDWLDWWWWWL
+Académica,Olhanense,2-1,/match/academica/sc-olhanense/2014,2014,25,primeira_liga,16,30,0,2,1,9,34,7,8,9,16,25,WLDWWDLLLLWWDWWWDLDDLDDW,4,4,4,10,14,15,25,4,6,14,15,38,WWDLDLWWDLWLLWWLWDWWWDWD,0,3,8,4,24,LWDLLWDWWLDD,WDDWDWWWWWW
+Estoril,Rio Ave,0-1,/match/estoril/rio-ave/2014,2014,25,primeira_liga,16,30,2,0,1,4,45,12,7,5,36,23,WLDWDLLLLLLLWDDDDLWLWWWD,5,4,3,17,12,12,29,7,7,10,19,25,LWWLDLLLLLLLLDDWWDWLDDLD,5,3,3,10,7,WDDLLLWDDWWW,LWDLLLDWWDL
+Gil Vicente,Marítimo,1-1,/match/gil-vicente/maritimo/2014,2014,25,primeira_liga,16,30,1,1,1,11,31,7,5,12,21,32,WWWWDDWLWWDLWLWWDWLWWLLD,5,2,4,11,12,7,37,8,6,10,33,39,WWDLWLWLWWLDDDDWWDWWWWWL,2,3,7,12,20,WWDWWLLDLWL,WLWWWLDDWDWW
+Sporting Braga,Benfica,0-1,/match/sporting-braga/benfica/2014,2014,25,primeira_liga,16,30,2,0,1,6,39,9,5,10,34,30,LWWWLLWLLWWWWDWDWWWDWWDD,7,2,3,24,13,1,64,19,4,1,47,15,WWDWLDLWLWLDLLWWDWLWLWLW,9,2,1,24,10,WWLLLWWWDWDW,WDLLLLLLDLLL
+Nacional,Porto,2-1,/match/nacional/fc-porto/2014,2014,25,primeira_liga,16,30,0,2,1,5,42,8,11,5,33,27,WDLLWLWWDDDDWDWDLWDDDWLD,5,5,2,18,12,3,55,15,4,5,44,18,LWLWDWLWDDWWLWWWWWLLDWWW,5,3,4,17,14,DLWWDDWWDWDL,LLDLDWLWWLDW
+Vitória,Estoril,1-3,/match/vitoria-guimaraes/estoril/2014,2014,26,primeira_liga,16,30,2,1,3,10,33,9,4,12,25,26,WDLLLWWLWLLDLWWLLWWWDWLDW,4,3,5,12,12,5,45,12,7,6,36,24,WLDWDLLLLLLLWDDDDLWLWWWDL,7,3,2,19,11,WLLWLDWLWDLD,LWLLLLDDLLWD
+Olhanense,Sporting Braga,0-2,/match/sc-olhanense/sporting-braga/2014,2014,26,primeira_liga,16,30,2,0,2,16,25,4,6,15,16,40,WWDLDLWWDLWLLWWLWDWWWDWDW,4,3,6,11,14,6,39,9,5,11,34,31,LWWWLLWLLWWWWDWDWWWDWWDDL,2,3,7,10,17,WLLWLLLWLDWDD,LWLWWWDWWWDD
+Paços Ferreira,Sporting CP,1-3,/match/pacos-ferreira/sporting-lisbon/2014,2014,26,primeira_liga,16,30,2,1,3,14,27,6,5,14,25,46,LWLWDLWLDWWLWDWDWWLWWLLWD,4,2,6,12,17,2,62,17,6,2,47,17,WLDLDLWWWLWLWDDLDWWLWDWLW,8,2,2,21,11,LLDLWLDWLWLW,LLLWLLDLWLDL
+Marítimo,Arouca,1-0,/match/maritimo/arouca/2014,2014,26,primeira_liga,16,30,0,1,0,7,38,8,7,10,34,40,WWDLWLWLWWLDDDDWWDWWWWWLD,6,3,3,21,19,13,29,6,7,12,24,36,WLWLLDLWDWLDLLWLDDDDLWWWW,2,5,5,13,20,WDLLWDDWWWWL,WLDWWDLDDDWW
+Gil Vicente,Belenenses,0-1,/match/gil-vicente/belenenses/2014,2014,26,primeira_liga,16,30,2,0,1,11,33,7,6,12,22,33,WWWWDDWLWWDLWLWWDWLWWLLDD,5,3,4,12,13,15,26,3,9,13,13,30,LWLWWDWDDWDDWDWWWWDWLDLWD,0,4,9,3,17,WWDWWLLDLWLD,WWDDWDWWWWWDW
+Vitória Setúbal,Nacional,3-0,/match/vitoria-setubal/nacional/2014,2014,26,primeira_liga,16,30,0,3,0,9,36,8,6,11,32,37,LWLLDDWDLWDWWLWWWWWWWDLDW,5,4,3,19,16,4,46,9,11,5,35,28,WDLLWLWWDDDDWDWDLWDDDWLDW,3,6,3,15,15,LLDDWWLWWWDD,WLLWDDDLDDWD
+Porto,Académica,3-1,/match/fc-porto/academica/2014,2014,26,primeira_liga,16,30,0,3,1,3,55,15,4,6,45,20,LWLWDWLWDDWWLWWWWWLLDWWWW,10,1,1,27,4,8,38,8,8,9,18,26,WLDWWDLLLLWWDWWWDLDDLDDWW,3,4,5,6,11,WWWWDWWWWLWW,WDWLLWWDDLDW
+Benfica,Rio Ave,4-0,/match_2503/benfica/rio-ave/2014,2014,26,primeira_liga,16,30,0,4,0,1,66,20,4,1,48,15,WWDWLDLWLWLDLLWWDWLWLWLWL,10,2,0,23,5,12,31,8,7,10,20,25,LWWLDLLLLLLLLDDWWDWLDDLDL,6,3,3,11,7,WWDWWDWWWWWW,LWDLLLDWWDLL
+Académica,Vitória Setúbal,1-1,/match/academica/vitoria-setubal/2014,2014,27,primeira_liga,16,30,1,1,1,9,38,8,8,10,19,29,WLDWWDLLLLWWDWWWDLDDLDDWWW,5,4,4,12,15,8,40,9,6,11,35,37,LWLLDDWDLWDWWLWWWWWWWDLDWW,3,2,8,13,21,LWDLLWDWWLDDW,WLDWLDWWWWWLW
+Nacional,Marítimo,2-0,/match/nacional/maritimo/2014,2014,27,primeira_liga,16,30,0,2,0,5,46,9,11,6,35,31,WDLLWLWWDDDDWDWDLWDDDWLDWW,6,5,2,20,13,6,42,9,7,10,35,40,WWDLWLWLWWLDDDDWWDWWWWWLDW,2,4,7,13,21,DLWWDDWWDWDLW,WLWWWLDDWDWWD
+Belenenses,Vitória,3-1,/match/belenenses/vitoria-guimaraes/2014,2014,27,primeira_liga,16,30,0,3,1,14,28,4,9,13,14,30,LWLWWDWDDWDDWDWWWWDWLDLWDL,3,5,4,10,13,10,33,9,4,13,26,29,WDLLLWWLWLLDLWWLLWWWDWLDWL,5,1,7,13,14,LLWWDDDWDLLD,DLWLWLLWLWWWW
+Rio Ave,Olhanense,1-2,/match/rio-ave/sc-olhanense/2014,2014,27,primeira_liga,16,30,2,1,2,12,31,8,7,11,20,29,LWWLDLLLLLLLLDDWWDWLDDLDLW,2,4,7,9,18,16,25,4,6,16,16,42,WWDLDLWWDLWLLWWLWDWWWDWDWL,0,3,9,5,26,WLLLLLLDWDLDD,WDDWDWWWWWWW
+Sporting CP,Gil Vicente,2-0,/match/sporting-lisbon/gil-vicente/2014,2014,27,primeira_liga,16,30,0,2,0,2,64,18,6,2,50,18,WLDLDLWWWLWLWDDLDWWLWDWLWL,9,4,0,26,6,11,33,7,6,13,22,34,WWWWDDWLWWDLWLWWDWLWWLLDDL,2,3,8,10,20,WDDWWWWDDWWWW,WWDLWDWWWWWLD
+Arouca,Benfica,0-2,/match/arouca/benfica/2014,2014,27,primeira_liga,16,30,2,0,2,13,29,6,7,13,24,37,WLWLLDLWDWLDLLWLDDDDLWWWWW,4,2,7,11,16,1,70,21,4,1,52,15,WWDWLDLWLWLDLLWWDWLWLWLWLW,10,2,1,25,10,LWLLDLLWLDLWW,WDLLLLLLDLLLL
+Sporting Braga,Porto,1-3,/match/sporting-braga/fc-porto/2014,2014,27,primeira_liga,16,30,2,1,3,7,41,10,5,11,36,31,LWWWLLWLLWWWWDWDWWWDWWDDLL,7,2,4,24,14,3,59,16,4,6,48,21,LWLWDWLWDDWWLWWWWWLLDWWWWW,5,3,5,18,16,WWLLLWWWDWDWL,LLDLDWLWWLDWW
+Estoril,Paços Ferreira,1-0,/match/estoril/pacos-ferreira/2014,2014,27,primeira_liga,16,30,0,1,0,4,47,13,7,6,39,25,WLDWDLLLLLLLWDDDDLWLWWWDLL,5,4,4,17,13,15,27,6,5,15,26,49,LWLWDLWLDWWLWDWDWWLWWLLWDL,2,3,8,13,29,WDDLLLWDDWWWL,WWLWDWWWDWWLD
+Vitória,Arouca,2-3,/match/vitoria-guimaraes/arouca/2014,2014,28,primeira_liga,16,30,2,2,3,10,33,9,4,14,27,32,WDLLLWWLWLLDLWWLLWWWDWLDWLW,4,3,6,13,15,14,29,6,7,14,24,39,WLWLLDLWDWLDLLWLDDDDLWWWWWL,2,5,6,13,21,WLLWLDWLWDLDL,WLDWWDLDDDWWW
+Marítimo,Académica,3-1,/match/maritimo/academica/2014,2014,28,primeira_liga,16,30,0,3,1,6,42,9,7,11,35,42,WWDLWLWLWWLDDDDWWDWWWWWLDWW,7,3,3,22,19,9,40,8,9,10,20,30,WLDWWDLLLLWWDWWWDLDDLDDWWWD,3,4,6,7,14,WDLLWDDWWWWLW,WDWLLWWDDLDWW
+Paços Ferreira,Nacional,0-5,/match/pacos-ferreira/nacional/2014,2014,28,primeira_liga,16,30,2,0,5,15,27,6,5,16,26,50,LWLWDLWLDWWLWDWDWWLWWLLWDLW,4,2,7,13,20,5,50,10,11,6,37,31,WDLLWLWWDDDDWDWDLWDDDWLDWWW,3,6,4,15,18,LLDLWLDWLWLWL,WLLWDDDLDDWDW
+Gil Vicente,Estoril,0-0,/match/gil-vicente/estoril/2014,2014,28,primeira_liga,16,30,1,0,0,11,33,7,6,14,22,36,WWWWDDWLWWDLWLWWDWLWWLLDDLW,5,3,5,12,14,4,51,14,7,6,40,25,WLDWDLLLLLLLWDDDDLWLWWWDLLW,8,3,2,22,12,WWDWWLLDLWLDL,LWLLLLDDLLWDL
+Belenenses,Sporting CP,0-1,/match/belenenses/sporting-lisbon/2014,2014,28,primeira_liga,16,30,2,0,1,12,32,5,9,13,17,31,LWLWWDWDDWDDWDWWWWDWLDLWDLW,4,5,4,13,14,2,68,19,6,2,52,18,WLDLDLWWWLWLWDDLDWWLWDWLWLW,9,2,2,24,12,LLWWDDDWDLLDW,LLLWLLDLWLDLL
+Benfica,Olhanense,2-0,/match/benfica/sc-olhanense/2014,2014,28,primeira_liga,16,30,0,2,0,1,72,22,4,1,54,15,WWDWLDLWLWLDLLWWDWLWLWLWLWL,11,2,0,27,5,16,27,5,6,16,18,43,WWDLDLWWDLWLLWWLWDWWWDWDWLL,1,3,9,7,27,WWDWWDWWWWWWW,WDDWDWWWWWWWL
+Vitória Setúbal,Sporting Braga,1-1,/match/vitoria-setubal/sporting-braga/2014,2014,28,primeira_liga,16,30,1,1,1,8,41,9,7,11,36,38,LWLLDDWDLWDWWLWWWWWWWDLDWWD,6,4,3,22,16,7,41,10,5,12,37,34,LWWWLLWLLWWWWDWDWWWDWWDDLLL,3,3,7,12,17,LLDDWWLWWWDDW,LWLWWWDWWWDDL
+Porto,Rio Ave,3-0,/match/fc-porto/rio-ave/2014,2014,28,primeira_liga,16,30,0,3,0,3,61,17,4,6,51,22,LWLWDWLWDDWWLWWWWWLLDWWWWWL,11,1,1,30,5,13,31,8,7,12,21,31,LWWLDLLLLLLLLDDWWDWLDDLDLWL,6,3,4,11,11,WWWWDWWWWLWWW,LWDLLLDWWDLLW
+Nacional,Sporting CP,1-1,/match/nacional/sporting-lisbon/2014,2014,29,primeira_liga,16,30,1,1,1,5,52,11,11,6,42,31,WDLLWLWWDDDDWDWDLWDDDWLDWWWL,7,5,2,22,13,2,70,20,6,2,53,18,WLDLDLWWWLWLWDDLDWWLWDWLWLWL,10,2,2,25,12,DLWWDDWWDWDLWW,LLLWLLDLWLDLLL
+Benfica,Vitória Setúbal,1-1,/match/benfica/vitoria-setubal/2014,2014,29,primeira_liga,16,30,1,1,1,1,76,23,4,1,56,15,WWDWLDLWLWLDLLWWDWLWLWLWLWLW,12,2,0,29,5,7,43,9,8,11,37,39,LWLLDDWDLWDWWLWWWWWWWDLDWWDD,3,3,8,14,22,WWDWWDWWWWWWWW,WLDWLDWWWWWLWD
+Rio Ave,Paços Ferreira,0-0,/match/rio-ave/pacos-ferreira/2014,2014,29,primeira_liga,16,30,1,0,0,13,31,8,7,13,21,34,LWWLDLLLLLLLLDDWWDWLDDLDLWLW,2,4,8,10,20,15,27,6,5,17,26,55,LWLWDLWLDWWLWDWDWWLWWLLWDLWL,2,3,9,13,30,WLLLLLLDWDLDDL,WWLWDWWWDWWLDW
+Olhanense,Porto,2-1,/match/sc-olhanense/fc-porto/2014,2014,29,primeira_liga,16,30,0,2,1,16,27,5,6,17,18,45,WWDLDLWWDLWLLWWLWDWWWDWDWLLW,4,3,7,11,16,3,65,18,4,6,54,22,LWLWDWLWDDWWLWWWWWLLDWWWWWLW,6,3,5,21,17,WLLWLLLWLDWDDL,LLDLDWLWWLDWWL
+Arouca,Gil Vicente,1-0,/match/arouca/gil-vicente/2014,2014,29,primeira_liga,16,30,0,1,0,14,31,7,7,14,27,41,WLWLLDLWDWLDLLWLDDDDLWWWWWLL,4,2,8,11,18,10,35,7,7,14,22,36,WWWWDDWLWWDLWLWWDWLWWLLDDLWD,2,3,9,10,22,LWLLDLLWLDLWWL,WWDLWDWWWWWLDW
+Académica,Vitória,0-0,/match/academica/vitoria-guimaraes/2014,2014,29,primeira_liga,16,30,1,0,0,9,40,8,9,11,21,33,WLDWWDLLLLWWDWWWDLDDLDDWWWDW,5,5,4,13,16,11,33,9,4,15,29,35,WDLLLWWLWLLDLWWLLWWWDWLDWLWL,5,1,8,14,17,LWDLLWDWWLDDWD,DLWLWLLWLWWWWW
+Estoril,Belenenses,1-1,/match/estoril/belenenses/2014,2014,29,primeira_liga,16,30,1,1,1,4,52,14,8,6,40,25,WLDWDLLLLLLLWDDDDLWLWWWDLLWD,6,4,4,18,13,12,32,5,9,14,17,32,LWLWWDWDDWDDWDWWWWDWLDLWDLWL,1,4,9,4,17,WDDLLLWDDWWWLW,WWDDWDWWWWWDWL
+Sporting Braga,Marítimo,1-1,/match/sporting-braga/maritimo/2014,2014,29,primeira_liga,16,30,1,1,1,8,42,10,6,12,38,35,LWWWLLWLLWWWWDWDWWWDWWDDLLLD,7,2,5,25,17,6,46,10,7,11,38,43,WWDLWLWLWWLDDDDWWDWWWWWLDWWW,2,4,8,13,23,WWLLLWWWDWDWLL,WLWWWLDDWDWWDW
+Belenenses,Arouca,1-0,/match/belenenses/arouca/2014,2014,30,primeira_liga,16,30,0,1,0,13,33,5,10,14,18,33,LWLWWDWDDWDDWDWWWWDWLDLWDLWLD,4,5,5,13,15,11,35,8,7,14,28,41,WLWLLDLWDWLDLLWLDDDDLWWWWWLLW,3,5,6,16,23,LLWWDDDWDLLDWL,WLDWWDLDDDWWWL
+Paços Ferreira,Académica,2-4,/match/pacos-ferreira/academica/2014,2014,30,primeira_liga,16,30,2,2,4,16,28,6,6,17,26,55,LWLWDLWLDWWLWDWDWWLWWLLWDLWLD,4,2,8,13,25,9,42,8,10,11,21,33,WLDWWDLLLLWWDWWWDLDDLDDWWWDWD,3,4,7,8,17,LLDLWLDWLWLWLL,WDWLLWWDDLDWWW
+Vitória Setúbal,Olhanense,3-1,/match/vitoria-setubal/sc-olhanense/2014,2014,30,primeira_liga,16,30,0,3,1,7,44,9,9,11,38,40,LWLLDDWDLWDWWLWWWWWWWDLDWWDDD,6,5,3,23,17,15,31,6,6,17,20,46,WWDLDLWWDLWLLWWLWDWWWDWDWLLWW,1,3,10,7,29,LLDDWWLWWWDDWD,WDDWDWWWWWWWLW
+Vitória,Sporting Braga,1-0,/match/vitoria-guimaraes/sporting-braga/2014,2014,30,primeira_liga,16,30,0,1,0,12,34,9,5,15,29,35,WDLLLWWLWLLDLWWLLWWWDWLDWLWLD,4,3,7,15,18,8,44,10,7,12,39,36,LWWWLLWLLWWWWDWDWWWDWWDDLLLDD,3,4,7,13,18,WLLWLDWLWDLDLL,LWLWWWDWWWDDLD
+Porto,Benfica,2-1,/match_2503/fc-porto/benfica/2014,2014,30,primeira_liga,16,30,0,2,1,3,65,18,4,7,55,24,LWLWDWLWDDWWLWWWWWLLDWWWWWLWW,12,1,1,33,5,1,78,23,5,1,57,16,WWDWLDLWLWLDLLWWDWLWLWLWLWLWD,11,2,1,27,10,WWWWDWWWWLWWWW,WDLLLLLLDLLLLL
+Sporting CP,Estoril,0-1,/match/sporting-lisbon/estoril/2014,2014,30,primeira_liga,16,30,2,0,1,2,71,20,7,2,54,19,WLDLDLWWWLWLWDDLDWWLWDWLWLWLD,10,4,0,28,6,4,54,14,9,6,41,26,WLDWDLLLLLLLWDDDDLWLWWWDLLWDD,8,4,2,22,12,WDDWWWWDDWWWWW,LWLLLLDDLLWDLD
+Gil Vicente,Nacional,1-0,/match/gil-vicente/nacional/2014,2014,30,primeira_liga,16,30,0,1,0,10,35,7,7,15,22,37,WWWWDDWLWWDLWLWWDWLWWLLDDLWDW,5,4,5,12,14,5,54,11,12,6,43,32,WDLLWLWWDDDDWDWDLWDDDWLDWWWLD,4,6,4,20,18,WWDWWLLDLWLDLD,WLLWDDDLDDWDWL
+Marítimo,Rio Ave,1-0,/match/maritimo/rio-ave/2014,2014,30,primeira_liga,16,30,0,1,0,6,47,10,8,11,39,44,WWDLWLWLWWLDDDDWWDWWWWWLDWWWD,8,3,3,25,20,14,33,8,8,13,21,34,LWWLDLLLLLLLLDDWWDWLDDLDLWLWD,6,3,5,11,14,WDLLWDDWWWWLWW,LWDLLLDWWDLLWW

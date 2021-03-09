@@ -67,7 +67,7 @@ def clean_names(x):
 
 
 leagues = [x.split('\\')[1] for x in glob.glob('./Data/Results/*')]
-for league in leagues[3:]:
+for league in leagues:
     os.makedirs(f"./Data/Results_Cleaned/{league}", exist_ok=True)
     seasons = glob.glob(f'./Data/Results/{league}/*')
     for season in seasons:
@@ -115,12 +115,12 @@ for league in leagues[3:]:
 
         # Add new columns that can potentially increase the performan5ce of
         # a model
-        new_cols = ['Position_Home', 'Total_Wins_Home', 'Total_Draw_Home',
+        new_cols = ['Position_Home', 'Points_Home', 'Total_Wins_Home', 'Total_Draw_Home',
                     'Total_Lose_Home', 'Total_Goals_For_Home_Team',
                     'Total_Goals_Against_Home_Team', 'Total_Streak_Home',
                     'Wins_When_Home', 'Draw_When_Home', 'Lose_When_Home',
                     'Goals_For_When_Home', 'Goals_Against_When_Home',
-                    'Position_Away', 'Total_Wins_Away', 'Total_Draw_Away',
+                    'Position_Away', 'Points_Away', 'Total_Wins_Away', 'Total_Draw_Away',
                     'Total_Lose_Away', 'Total_Goals_For_Away_Team',
                     'Total_Goals_Against_Away_Team', 'Total_Streak_Away',
                     'Wins_When_Away', 'Draw_When_Away', 'Lose_When_Away',
@@ -166,6 +166,7 @@ for league in leagues[3:]:
                     # First the position of the team
                     for idx in indices:
                         cur_round.loc[idx, 'Position_Home'] = row['Position']
+                        cur_round.loc[idx, 'Points_Home'] = row['Points']
                         cur_round.loc[idx, 'Total_Wins_Home'] = \
                             int(row['Win'])
                         cur_round.loc[idx, 'Total_Draw_Home'] = \
@@ -206,6 +207,7 @@ for league in leagues[3:]:
                     # First the position of the team
                     for idx in indices:
                         cur_round.loc[idx, 'Position_Away'] = row['Position']
+                        cur_round.loc[idx, 'Points_Away'] = row['Points']
                         cur_round.loc[idx, 'Total_Wins_Away'] = \
                             int(row['Win'])
                         cur_round.loc[idx, 'Total_Draw_Away'] = \

@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Lazio,Torino,2-2,/match/lazio/torino-fc/2008,2008,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Juventus,Livorno,5-1,/match/juventus-fc/livorno/2008,2008,1,serie_a,20,38,0,5,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Reggina,Atalanta,1-1,/match/reggina/atalanta/2008,2008,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Parma,Catania,2-2,/match/parma-fc/catania/2008,2008,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Napoli,Cagliari,0-2,/match/napoli/cagliari/2008,2008,1,serie_a,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Inter,Udinese,1-1,/match/internazionale/udinese/2008,2008,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Genoa,Milan,0-3,/match/genoa/milan/2008,2008,1,serie_a,20,38,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Fiorentina,Empoli,3-1,/match/fiorentina/empoli-fc/2008,2008,1,serie_a,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Siena,Sampdoria,1-2,/match/siena/sampdoria/2008,2008,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Palermo FC,Roma,0-2,/match/palermo/roma/2008,2008,1,serie_a,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Empoli,Inter,0-2,/match/empoli-fc/internazionale/2008,2008,2,serie_a,20,38,2,0,2,20,0,0,1,1,3,W,0,0,0,0,0,10,0,1,0,1,1,D,0,0,0,0,0,,
-Udinese,Napoli,0-5,/match/udinese/napoli/2008,2008,2,serie_a,20,38,2,0,5,11,0,1,0,1,1,D,0,0,0,0,0,19,0,0,1,0,2,L,0,0,0,0,0,,
-Torino,Reggina,2-2,/match/torino-fc/reggina/2008,2008,2,serie_a,20,38,1,2,2,13,0,1,0,2,2,D,0,0,0,0,0,5,0,1,0,1,1,D,0,0,0,0,0,,
-Livorno,Palermo FC,2-4,/match/livorno/palermo/2008,2008,2,serie_a,20,38,2,2,4,16,0,0,1,1,5,W,0,0,0,0,0,17,0,0,1,0,2,L,0,0,0,0,0,,
-Catania,Genoa,0-0,/match/catania/genoa/2008,2008,2,serie_a,20,38,1,0,0,14,0,1,0,2,2,D,0,0,0,0,0,15,0,0,1,0,3,L,0,0,0,0,0,,
-Cagliari,Juventus,2-3,/match/cagliari/juventus-fc/2008,2008,2,serie_a,20,38,2,2,3,8,1,0,0,2,0,L,0,0,0,0,0,1,1,0,0,5,1,W,0,0,0,0,0,,
-Atalanta,Parma,2-0,/match/atalanta/parma-fc/2008,2008,2,serie_a,20,38,0,2,0,12,0,1,0,1,1,D,0,0,0,0,0,6,0,1,0,2,2,D,0,0,0,0,0,,
-Roma,Siena,3-0,/match/roma/siena/2008,2008,2,serie_a,20,38,0,3,0,3,1,0,0,2,0,L,0,0,0,0,0,18,0,0,1,1,2,L,0,0,0,0,0,,
-Sampdoria,Lazio,0-0,/match/sampdoria/lazio/2008,2008,2,serie_a,20,38,1,0,0,9,1,0,0,2,1,L,0,0,0,0,0,4,0,1,0,2,2,D,0,0,0,0,0,,
-Milan,Fiorentina,1-1,/match/milan/fiorentina/2008,2008,2,serie_a,20,38,1,1,1,7,1,0,0,3,0,L,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
-Siena,Milan,1-1,/match/siena/milan/2008,2008,3,serie_a,20,38,1,1,1,19,0,0,2,1,5,LW,0,0,1,1,2,5,1,1,0,4,1,LD,1,0,0,3,0,L,L
-Lazio,Empoli,0-0,/match/lazio/empoli-fc/2008,2008,3,serie_a,20,38,1,0,0,8,0,2,0,2,2,DD,0,1,0,2,2,20,0,0,2,1,5,WL,0,0,1,1,3,D,W
-Palermo FC,Torino,1-1,/match/palermo/torino-fc/2008,2008,3,serie_a,20,38,1,1,1,12,1,0,1,4,4,LL,0,0,1,0,2,10,0,2,0,4,4,DD,0,1,0,2,2,L,D
-Napoli,Sampdoria,2-0,/match/napoli/sampdoria/2008,2008,3,serie_a,20,38,0,2,0,15,1,0,1,5,2,LL,0,0,1,0,2,6,1,1,0,2,1,LD,1,0,0,2,1,L,L
-Juventus,Udinese,0-1,/match/juventus-fc/udinese/2008,2008,3,serie_a,20,38,2,0,1,1,2,0,0,8,3,WL,1,0,0,5,1,16,0,1,1,1,6,DL,0,1,0,1,1,W,D
-Inter,Catania,2-0,/match/internazionale/catania/2008,2008,3,serie_a,20,38,0,2,0,7,1,1,0,3,1,DL,0,1,0,1,1,11,0,2,0,2,2,DD,0,1,0,2,2,D,D
-Genoa,Livorno,1-1,/match/genoa/livorno/2008,2008,3,serie_a,20,38,1,1,1,17,0,1,1,0,3,LD,0,0,1,0,3,18,0,0,2,3,9,WL,0,0,1,1,5,L,W
-Fiorentina,Atalanta,2-2,/match/fiorentina/atalanta/2008,2008,3,serie_a,20,38,1,2,2,3,1,1,0,4,2,WD,1,0,0,3,1,4,1,1,0,3,1,DW,0,1,0,1,1,W,D
-Reggina,Roma,0-2,/match/reggina/roma/2008,2008,3,serie_a,20,38,2,0,2,9,0,2,0,3,3,DD,0,1,0,1,1,2,2,0,0,5,0,LW,1,0,0,2,0,D,L
-Parma,Cagliari,1-1,/match/parma-fc/cagliari/2008,2008,3,serie_a,20,38,1,1,1,13,0,1,1,2,4,DW,0,1,0,2,2,14,1,0,1,4,3,LL,1,0,0,2,0,D,L
-Udinese,Reggina,2-0,/match/udinese/reggina/2008,2008,4,serie_a,20,38,0,2,0,14,1,1,1,2,6,DLL,0,0,1,0,5,17,0,2,1,3,5,DDL,0,1,0,2,2,L,D
-Milan,Parma,1-1,/match/milan/parma-fc/2008,2008,4,serie_a,20,38,1,1,1,7,1,2,0,5,2,LDD,0,1,0,1,1,12,0,2,1,3,5,DWD,0,0,1,0,2,D,W
-Livorno,Inter,2-2,/match/livorno/internazionale/2008,2008,4,serie_a,20,38,1,2,2,19,0,1,2,4,10,WLD,0,0,1,2,4,1,2,1,0,5,1,DLW,1,0,0,2,0,L,L
-Empoli,Napoli,0-0,/match/empoli-fc/napoli/2008,2008,4,serie_a,20,38,1,0,0,20,0,1,2,1,5,WLD,0,0,1,0,2,5,2,0,1,7,2,LLW,1,0,0,5,0,L,L
-Catania,Fiorentina,0-1,/match/catania/fiorentina/2008,2008,4,serie_a,20,38,2,0,1,15,0,2,1,2,4,DDW,0,1,0,0,0,3,1,2,0,6,4,WDD,0,1,0,1,1,D,D
-Cagliari,Palermo FC,0-1,/match/cagliari/palermo/2008,2008,4,serie_a,20,38,2,0,1,16,1,1,1,5,4,LLD,0,0,1,2,3,11,1,1,1,5,5,LLD,1,0,0,4,2,L,L
-Atalanta,Lazio,2-1,/match/atalanta/lazio/2008,2008,4,serie_a,20,38,0,2,1,6,1,2,0,5,3,DWD,1,0,0,2,0,8,0,3,0,2,2,DDD,0,1,0,0,0,W,D
-Roma,Juventus,2-2,/match/roma/juventus-fc/2008,2008,4,serie_a,20,38,1,2,2,2,3,0,0,7,0,LWL,1,0,0,3,0,4,2,0,1,8,4,WLL,1,0,0,3,2,W,L
-Torino,Siena,1-1,/match/torino-fc/siena/2008,2008,4,serie_a,20,38,1,1,1,10,0,3,0,5,5,DDD,0,1,0,2,2,18,0,1,2,2,6,LWD,0,0,1,0,3,D,W
-Sampdoria,Genoa,0-0,/match/sampdoria/genoa/2008,2008,4,serie_a,20,38,1,0,0,9,1,1,1,2,3,LDW,0,1,0,0,0,13,0,2,1,1,4,LDD,0,1,0,0,0,D,D
-Catania,Empoli,1-0,/match/catania/empoli-fc/2008,2008,5,serie_a,20,38,0,1,0,15,0,2,2,2,5,DDWL,0,1,1,0,1,20,0,2,2,1,5,WLDD,0,1,1,1,3,DL,WD
-Parma,Torino,2-0,/match/parma-fc/torino-fc/2008,2008,5,serie_a,20,38,0,2,0,12,0,3,1,4,6,DWDD,0,2,0,3,3,9,0,4,0,6,6,DDDD,0,2,0,3,3,DD,DD
-Palermo FC,Milan,2-1,/match/palermo/milan/2008,2008,5,serie_a,20,38,0,2,1,10,2,1,1,6,5,LLDL,0,1,1,1,3,7,1,3,0,6,3,LDDD,1,1,0,4,1,LD,LD
-Napoli,Livorno,1-0,/match/napoli/livorno/2008,2008,5,serie_a,20,38,0,1,0,6,2,1,1,7,2,LLWD,1,0,1,2,2,19,0,2,2,6,12,WLDD,0,1,1,2,6,LW,WD
-Lazio,Cagliari,3-1,/match/lazio/cagliari/2008,2008,5,serie_a,20,38,0,3,1,13,0,3,1,3,4,DDDW,0,2,0,2,2,16,1,1,2,5,5,LLDL,1,1,0,3,1,DD,LD
-Juventus,Reggina,4-0,/match/juventus-fc/reggina/2008,2008,5,serie_a,20,38,0,4,0,5,2,1,1,10,6,WLLD,1,0,1,5,2,17,0,2,2,3,7,DDLW,0,1,1,2,4,WL,DW
-Inter,Sampdoria,3-0,/match/internazionale/sampdoria/2008,2008,5,serie_a,20,38,0,3,0,3,2,2,0,7,3,DLWD,1,1,0,3,1,11,1,2,1,2,3,LDWD,1,0,1,2,3,DW,LW
-Genoa,Udinese,3-2,/match/genoa/udinese/2008,2008,5,serie_a,20,38,0,3,2,14,0,3,1,1,4,LDDD,0,1,1,1,4,8,2,1,1,4,6,DLLW,1,1,0,2,1,LD,DL
-Fiorentina,Roma,2-2,/match/fiorentina/roma/2008,2008,5,serie_a,20,38,1,2,2,4,2,2,0,7,4,WDDL,1,1,0,5,3,2,3,1,0,9,2,LWLD,2,0,0,4,0,WD,LL
-Siena,Atalanta,1-1,/match/siena/atalanta/2008,2008,5,serie_a,20,38,1,1,1,18,0,2,2,3,7,LWDD,0,1,1,2,3,1,2,2,0,7,4,DWDW,0,2,0,3,3,LD,DD
-Roma,Inter,1-4,/match/roma/internazionale/2008,2008,6,serie_a,20,38,2,1,4,6,3,2,0,11,4,LWLDD,1,1,0,5,2,1,3,2,0,10,3,DLWDW,1,1,0,4,2,WD,LD
-Livorno,Fiorentina,0-3,/match/livorno/fiorentina/2008,2008,6,serie_a,20,38,2,0,3,19,0,2,3,6,13,WLDDW,0,1,1,4,6,3,2,3,0,9,6,WDDLD,1,1,0,2,1,LD,DL
-Sampdoria,Atalanta,3-0,/match/sampdoria/atalanta/2008,2008,6,serie_a,20,38,0,3,0,14,1,2,2,2,6,LDWDW,0,2,0,0,0,2,2,3,0,8,5,DWDWD,0,3,0,4,4,DD,DDD
-Reggina,Lazio,1-1,/match/reggina/lazio/2008,2008,6,serie_a,20,38,1,1,1,18,0,2,3,3,11,DDLWW,0,1,1,1,3,9,1,3,1,6,5,DDDWW,0,1,1,1,2,DL,DW
-Napoli,Genoa,1-2,/match/napoli/genoa/2008,2008,6,serie_a,20,38,2,1,2,5,3,1,1,8,2,LLWDW,2,0,1,3,2,10,1,3,1,4,6,LDDDW,0,2,0,0,0,LWW,DD
-Empoli,Palermo FC,3-1,/match/empoli-fc/palermo/2008,2008,6,serie_a,20,38,0,3,1,20,0,2,3,1,6,WLDDW,0,1,1,0,2,7,3,1,1,8,6,LLDLW,2,0,0,5,2,LD,LL
-Cagliari,Siena,1-0,/match/cagliari/siena/2008,2008,6,serie_a,20,38,0,1,0,17,1,1,3,6,8,LLDLW,0,0,2,2,4,16,0,3,2,4,8,LWDDD,0,1,1,1,4,LL,WD
-Milan,Catania,1-1,/match/milan/catania/2008,2008,6,serie_a,20,38,1,1,1,11,1,3,1,7,5,LDDDW,0,2,0,2,2,13,1,2,2,3,5,DDWLW,0,1,1,2,4,DD,DW
-Udinese,Parma,2-1,/match/udinese/parma-fc/2008,2008,6,serie_a,20,38,0,2,1,12,2,1,2,6,9,DLLWW,1,0,1,2,5,8,1,3,1,6,6,DWDDW,0,1,1,1,3,LW,WD
-Torino,Juventus,0-1,/match/torino-fc/juventus-fc/2008,2008,6,serie_a,20,38,2,0,1,15,0,4,1,6,8,DDDDW,0,2,0,3,3,4,3,1,1,14,6,WLLDW,1,1,0,5,4,DD,LD
-Atalanta,Udinese,0-0,/match/atalanta/udinese/2008,2008,7,serie_a,20,38,1,0,0,7,2,3,1,8,8,DWDWDW,2,0,0,4,1,4,3,1,2,8,10,DLLWWW,1,1,1,4,4,WW,DLW
-Inter,Napoli,2-1,/match/internazionale/napoli/2008,2008,7,serie_a,20,38,0,2,1,1,4,2,0,14,4,DLWDWL,2,1,0,6,1,5,3,1,2,9,4,LLWDWL,1,1,0,5,0,DWW,LD
-Siena,Empoli,3-0,/match/siena/empoli-fc/2008,2008,7,serie_a,20,38,0,3,0,18,0,3,3,4,9,LWDDDW,0,2,1,3,4,16,1,2,3,4,7,WLDDWW,0,1,2,1,4,LDD,WDW
-Parma,Roma,0-3,/match/parma-fc/roma/2008,2008,7,serie_a,20,38,2,0,3,13,1,3,2,7,8,DWDDWW,1,2,0,5,3,6,3,2,1,12,8,LWLDDL,2,1,0,6,2,DDW,LLD
-Palermo FC,Reggina,1-1,/match/palermo/reggina/2008,2008,7,serie_a,20,38,1,1,1,8,3,1,2,9,9,LLDLWW,1,1,1,3,4,19,0,3,3,4,12,DDLWWD,0,1,2,2,8,LDW,DWW
-Torino,Sampdoria,1-0,/match/torino-fc/sampdoria/2008,2008,7,serie_a,20,38,0,1,0,17,0,4,2,6,9,DDDDWL,0,2,1,3,4,9,2,2,2,5,6,LDWDWW,1,0,2,2,6,DDL,LWW
-Genoa,Cagliari,2-0,/match/genoa/cagliari/2008,2008,7,serie_a,20,38,0,2,0,11,2,3,1,6,7,LDDDWL,1,1,1,4,6,15,2,1,3,7,8,LLDLWW,1,1,1,4,4,LDW,LDW
-Fiorentina,Juventus,1-1,/match/fiorentina/juventus-fc/2008,2008,7,serie_a,20,38,1,1,1,2,3,3,0,12,6,WDDLDL,1,2,0,7,5,3,4,1,1,15,6,WLLDWL,2,1,0,6,4,WDD,LDL
-Catania,Livorno,1-0,/match/catania/livorno/2008,2008,7,serie_a,20,38,0,1,0,14,1,3,2,4,6,DDWLWD,1,1,1,1,1,20,0,2,4,6,16,WLDDWL,0,1,2,2,7,DLW,WDW
-Lazio,Milan,1-5,/match/lazio/milan/2008,2008,7,serie_a,20,38,2,1,5,10,1,4,1,7,6,DDDWWD,1,2,0,5,3,12,1,4,1,8,6,LDDDWD,1,1,1,5,3,DDW,LDW
-Roma,Napoli,4-4,/match/roma/napoli/2008,2008,8,serie_a,20,38,1,4,4,5,4,2,1,15,8,LWLDDLL,1,1,1,6,6,10,3,1,3,10,6,LLWDWLW,1,1,1,6,2,WDL,LDW
-Reggina,Inter,0-1,/match/reggina/internazionale/2008,2008,8,serie_a,20,38,2,0,1,19,0,4,3,5,13,DDLWWDD,0,2,1,2,4,1,5,2,0,16,5,DLWDWLW,2,1,0,8,3,DLD,LDL
-Sampdoria,Parma,3-0,/match/sampdoria/parma-fc/2008,2008,8,serie_a,20,38,0,3,0,13,2,2,3,5,7,LDWDWWW,1,2,0,3,0,15,1,3,3,7,11,DWDDWWL,0,1,2,2,5,DDW,WDW
-Livorno,Lazio,0-1,/match/livorno/lazio/2008,2008,8,serie_a,20,38,2,0,1,20,0,2,5,6,17,WLDDWLW,0,1,2,4,9,12,1,4,2,8,11,DDDWWDL,0,2,1,2,3,LDL,DWD
-Fiorentina,Siena,3-0,/match/fiorentina/siena/2008,2008,8,serie_a,20,38,0,3,0,2,3,4,0,13,7,WDDLDLD,1,3,0,8,6,16,1,3,3,7,9,LWDDDWW,0,1,2,1,5,WDDD,WDW
-Cagliari,Catania,1-1,/match/cagliari/catania/2008,2008,8,serie_a,20,38,1,1,1,17,2,1,4,7,10,LLDLWWW,1,0,2,3,4,9,2,3,2,5,6,DDWLWDW,0,2,1,3,5,LLW,DWD
-Atalanta,Torino,2-2,/match/atalanta/torino-fc/2008,2008,8,serie_a,20,38,1,2,2,6,2,4,1,8,8,DWDWDWD,2,1,0,4,1,14,1,4,2,7,9,DDDDWLW,0,2,1,3,5,WWD,DDW
-Milan,Empoli,0-1,/match/milan/empoli-fc/2008,2008,8,serie_a,20,38,2,0,1,11,2,4,1,13,7,LDDDWDL,0,3,0,3,3,18,1,2,4,4,10,WLDDWWW,0,1,3,1,7,DDD,WDWW
-Udinese,Palermo FC,1-1,/match/udinese/palermo/2008,2008,8,serie_a,20,38,1,1,1,7,3,2,2,8,10,DLLWWWD,2,0,1,4,6,8,3,2,2,10,10,LLDLWWD,2,0,1,6,5,LWW,LLW
-Juventus,Genoa,1-0,/match/juventus-fc/genoa/2008,2008,8,serie_a,20,38,0,1,0,4,4,2,1,16,7,WLLDWLD,2,0,1,9,2,3,3,3,1,8,7,LDDDWLW,1,2,0,2,1,WLW,DDL
-Torino,Cagliari,2-0,/match/torino-fc/cagliari/2008,2008,9,serie_a,20,38,0,2,0,13,1,5,2,9,11,DDDDWLWD,1,2,1,4,4,17,2,2,4,8,11,LLDLWWWD,1,1,2,4,6,DDLW,LDWW
-Napoli,Juventus,3-1,/match/napoli/juventus-fc/2008,2008,9,serie_a,20,38,0,3,1,11,3,2,3,14,10,LLWDWLWD,2,0,2,4,4,3,5,2,1,17,7,WLLDWLDW,2,2,0,7,5,LWWL,LDLD
-Parma,Livorno,3-2,/match/parma-fc/livorno/2008,2008,9,serie_a,20,38,0,3,2,15,1,3,4,7,14,DWDDWWLW,1,2,1,5,6,20,0,2,6,6,18,WLDDWLWL,0,1,3,2,8,DDWL,WDWW
-Palermo FC,Inter,0-0,/match/palermo/internazionale/2008,2008,9,serie_a,20,38,1,0,0,9,3,3,2,11,11,LLDLWWDD,1,2,1,4,5,1,6,2,0,17,5,DLWDWLWL,3,1,0,9,3,LDWD,LDLL
-Lazio,Udinese,0-1,/match/lazio/udinese/2008,2008,9,serie_a,20,38,2,0,1,12,2,4,2,9,11,DDDWWDLL,1,2,1,6,8,7,3,3,2,9,11,DLLWWWDD,1,2,1,4,4,DDWL,DLWD
-Siena,Reggina,0-0,/match/siena/reggina/2008,2008,9,serie_a,20,38,1,0,0,16,1,3,4,7,12,LWDDDWWW,1,2,1,6,4,19,0,4,4,5,14,DDLWWDDL,0,2,2,3,9,LDDW,DWWD
-Empoli,Atalanta,0-1,/match/empoli-fc/atalanta/2008,2008,9,serie_a,20,38,2,0,1,18,2,2,4,5,10,WLDDWWWL,1,1,1,3,3,5,2,5,1,10,10,DWDWDWDD,0,3,1,4,7,LDW,DDDW
-Catania,Sampdoria,2-0,/match/catania/sampdoria/2008,2008,9,serie_a,20,38,0,2,0,10,2,4,2,6,7,DDWLWDWD,2,1,1,2,1,8,3,2,3,8,7,LDWDWWWW,1,0,3,2,7,DLWW,LWWW
-Milan,Roma,0-1,/match/milan/roma/2008,2008,9,serie_a,20,38,2,0,1,14,2,4,2,13,8,LDDDWDLL,0,3,1,3,4,4,4,3,1,19,12,LWLDDLLD,3,1,0,9,2,DDDL,LLDL
-Genoa,Fiorentina,0-0,/match/genoa/fiorentina/2008,2008,9,serie_a,20,38,1,0,0,6,3,3,2,8,8,LDDDWLWW,2,1,1,6,6,2,4,4,0,16,7,WDDLDLDW,2,1,0,5,1,LDWW,DLL
-Roma,Lazio,3-2,/match/roma/lazio/2008,2008,10,serie_a,20,38,0,3,2,5,5,3,1,20,12,LWLDDLLDL,1,2,1,10,10,14,2,4,3,9,12,DDDWWDLLL,1,2,1,3,3,WDLD,DWDL
-Siena,Catania,1-1,/match/siena/catania/2008,2008,10,serie_a,20,38,1,1,1,16,1,4,4,7,12,LWDDDWWWD,1,3,1,6,4,4,3,4,2,8,7,DDWLWDWDW,0,3,1,4,6,LDDWD,DWDD
-Sampdoria,Milan,0-5,/match/sampdoria/milan/2008,2008,10,serie_a,20,38,2,0,5,12,3,2,4,8,9,LDWDWWWWW,2,2,0,6,0,15,2,4,3,13,9,LDDDWDLLL,2,1,1,10,4,DDWW,LDWL
-Reggina,Livorno,1-3,/match/reggina/livorno/2008,2008,10,serie_a,20,38,2,1,3,19,0,5,4,5,14,DDLWWDDLD,0,2,2,2,5,20,0,2,7,8,21,WLDDWLWLW,0,1,4,4,11,DLDL,WDWWW
-Palermo FC,Parma,1-1,/match/palermo/parma-fc/2008,2008,10,serie_a,20,38,1,1,1,10,3,4,2,11,11,LLDLWWDDD,1,3,1,4,5,13,2,3,4,10,16,DWDDWWLWW,0,1,3,2,8,LDWDD,WDWW
-Juventus,Empoli,3-0,/match/juventus-fc/empoli-fc/2008,2008,10,serie_a,20,38,0,3,0,3,5,2,2,18,10,WLLDWLDWW,3,0,1,10,2,18,2,2,5,5,11,WLDDWWWLL,1,1,3,2,7,WLWW,WDWWL
-Inter,Genoa,4-1,/match/internazionale/genoa/2008,2008,10,serie_a,20,38,0,4,1,1,6,3,0,17,5,DLWDWLWLD,3,1,0,8,2,9,3,4,2,8,8,LDDDWLWWD,1,2,1,2,2,DWWW,DDLW
-Fiorentina,Napoli,1-0,/match/fiorentina/napoli/2008,2008,10,serie_a,20,38,0,1,0,2,4,5,0,16,7,WDDLDLDWD,2,3,0,11,6,7,4,2,3,17,11,LLWDWLWDW,1,2,1,10,6,WDDDW,LDWD
-Atalanta,Cagliari,2-2,/match/atalanta/cagliari/2008,2008,10,serie_a,20,38,1,2,2,6,3,5,1,11,10,DWDWDWDDL,2,2,0,6,3,17,2,2,5,8,13,LLDLWWWDW,1,1,3,4,8,WWDD,LDWWW
-Udinese,Torino,2-1,/match/udinese/torino-fc/2008,2008,10,serie_a,20,38,0,2,1,8,4,3,2,10,11,DLLWWWDDL,2,1,1,5,7,11,2,5,2,11,11,DDDDWLWDW,0,3,1,5,7,LWWD,DDWD
-Lazio,Fiorentina,0-1,/match/lazio/fiorentina/2008,2008,11,serie_a,20,38,2,0,1,16,2,4,4,11,15,DDDWWDLLLW,1,2,2,6,9,2,5,5,0,17,7,WDDLDLDWDW,2,2,0,5,1,DDWLL,DLLD
-Milan,Torino,0-0,/match/milan/torino-fc/2008,2008,11,serie_a,20,38,1,0,0,14,3,4,3,18,9,LDDDWDLLLL,0,3,2,3,5,11,2,5,3,12,13,DDDDWLWDWW,0,3,2,6,9,DDDLL,DDWDW
-Napoli,Reggina,1-1,/match/napoli/reggina/2008,2008,11,serie_a,20,38,1,1,1,9,4,2,4,17,12,LLWDWLWDWW,3,0,2,7,5,19,0,5,5,6,17,DDLWWDDLDL,0,3,2,3,9,LWWLW,DWWDD
-Livorno,Udinese,0-0,/match/livorno/udinese/2008,2008,11,serie_a,20,38,1,0,0,20,1,2,7,11,22,WLDDWLWLWL,0,1,3,4,10,5,5,3,2,12,12,DLLWWWDDLW,2,2,1,5,4,LDLL,DLWDL
-Genoa,Palermo FC,3-3,/match/genoa/palermo/2008,2008,11,serie_a,20,38,1,3,3,10,3,4,3,9,12,LDDDWLWWDW,2,2,1,6,6,8,3,5,2,12,12,LLDLWWDDDD,2,1,1,7,6,LDWWD,LLWD
-Empoli,Roma,2-2,/match/empoli-fc/roma/2008,2008,11,serie_a,20,38,1,2,2,18,2,2,6,5,14,WLDDWWWLLW,1,1,2,3,4,4,6,3,1,23,14,LWLDDLLDLW,4,1,0,10,2,LDWL,LLDLL
-Catania,Atalanta,1-2,/match/catania/atalanta/2008,2008,11,serie_a,20,38,2,1,2,7,3,5,2,9,8,DDWLWDWDWD,3,1,1,4,1,6,3,6,1,13,12,DWDWDWDDLD,1,3,1,5,7,DLWWW,DDDWL
-Cagliari,Sampdoria,0-3,/match/cagliari/sampdoria/2008,2008,11,serie_a,20,38,2,0,3,17,2,3,5,10,15,LLDLWWWDWD,1,1,2,4,5,12,3,2,5,8,14,LDWDWWWWWL,1,0,4,2,9,LLWD,LWWWW
-Parma,Siena,2-2,/match/parma-fc/siena/2008,2008,11,serie_a,20,38,1,2,2,13,2,4,4,11,17,DWDDWWLWWD,2,2,1,8,8,15,1,5,4,8,13,LWDDDWWWDD,0,1,3,1,8,DDWLW,WDWW
-Juventus,Inter,1-1,/match/juventus-fc/internazionale/2008,2008,11,serie_a,20,38,1,1,1,3,6,2,2,21,10,WLLDWLDWWW,4,0,1,13,2,1,7,3,0,21,6,DLWDWLWLDW,3,2,0,9,3,WLWWW,LDLLD
-Sampdoria,Empoli,3-0,/match/sampdoria/empoli-fc/2008,2008,12,serie_a,20,38,0,3,0,13,4,2,5,11,14,LDWDWWWWWLL,2,2,1,6,5,17,2,3,6,7,16,WLDDWWWLLWD,1,1,4,2,10,DDWWL,WDWWLW
-Palermo FC,Napoli,2-1,/match/palermo/napoli/2008,2008,12,serie_a,20,38,0,2,1,8,3,6,2,15,15,LLDLWWDDDDD,1,4,1,5,6,9,4,3,4,18,13,LLWDWLWDWWD,1,2,2,10,7,LDWDDD,LDWDW
-Torino,Catania,1-1,/match/torino-fc/catania/2008,2008,12,serie_a,20,38,1,1,1,12,2,6,3,12,13,DDDDWLWDWWD,2,2,1,6,4,7,3,5,3,10,10,DDWLWDWDWDL,0,4,1,5,7,DDLWW,DWDDD
-Siena,Livorno,2-3,/match/siena/livorno/2008,2008,12,serie_a,20,38,2,2,3,15,1,6,4,10,15,LWDDDWWWDDD,1,4,1,7,5,20,1,3,7,11,22,WLDDWLWLWLD,1,1,4,7,12,LDDWDD,WDWWWL
-Reggina,Genoa,2-0,/match/reggina/genoa/2008,2008,12,serie_a,20,38,0,2,0,19,0,6,5,7,18,DDLWWDDLDLD,0,2,3,3,8,10,3,5,3,12,15,LDDDWLWWDWD,1,2,2,3,6,DLDLL,DDLWW
-Parma,Juventus,2-2,/match/parma-fc/juventus-fc/2008,2008,12,serie_a,20,38,1,2,2,11,2,5,4,13,19,DWDDWWLWWDD,2,3,1,10,10,3,6,3,2,22,11,WLLDWLDWWWD,2,2,1,8,8,DDWLWD,LDLDW
-Fiorentina,Udinese,1-2,/match/fiorentina/udinese/2008,2008,12,serie_a,20,38,2,1,2,2,6,5,0,18,7,WDDLDLDWDWL,3,3,0,12,6,5,5,4,2,12,12,DLLWWWDDLWD,2,3,1,5,4,WDDDWW,DLWDLD
-Roma,Cagliari,2-0,/match/roma/cagliari/2008,2008,12,serie_a,20,38,0,2,0,4,6,4,1,25,16,LWLDDLLDLWD,2,2,1,13,12,18,2,3,6,10,18,LLDLWWWDWDL,1,2,3,6,10,WDLDW,LDWWWD
-Inter,Lazio,3-0,/match/internazionale/lazio/2008,2008,12,serie_a,20,38,0,3,0,1,7,4,0,22,7,DLWDWLWLDWD,4,1,0,12,3,16,2,4,5,11,16,DDDWWDLLLWL,1,2,2,5,6,DWWWW,DWDLW
-Atalanta,Milan,2-1,/match/atalanta/milan/2008,2008,12,serie_a,20,38,0,2,1,6,4,6,1,15,13,DWDWDWDDLDL,2,3,0,8,5,14,3,5,3,18,9,LDDDWDLLLLD,3,1,1,15,4,WWDDD,LDWLL
-Genoa,Roma,0-1,/match/genoa/roma/2008,2008,13,serie_a,20,38,2,0,1,12,3,5,4,12,17,LDDDWLWWDWDW,2,3,1,9,9,3,7,4,1,27,16,LWLDDLLDLWDW,4,2,0,12,4,LDWWDD,LLDLLD
-Inter,Atalanta,2-1,/match/internazionale/atalanta/2008,2008,13,serie_a,20,38,0,2,1,1,8,4,0,25,7,DLWDWLWLDWDW,5,1,0,15,3,5,5,6,1,17,14,DWDWDWDDLDLW,2,3,1,7,8,DWWWWW,DDDWLL
-Reggina,Fiorentina,0-0,/match/reggina/fiorentina/2008,2008,13,serie_a,20,38,1,0,0,17,1,6,5,9,18,DDLWWDDLDLDW,1,2,3,5,8,2,6,5,1,19,9,WDDLDLDWDWLL,3,2,0,6,1,DLDLLW,DLLDL
-Napoli,Catania,2-0,/match/napoli/catania/2008,2008,13,serie_a,20,38,0,2,0,13,4,3,5,19,15,LLWDWLWDWWDW,3,1,2,8,6,9,3,6,3,11,11,DDWLWDWDWDLD,0,5,1,6,8,LWWLWD,DWDDDD
-Livorno,Sampdoria,3-1,/match/livorno/sampdoria/2008,2008,13,serie_a,20,38,0,3,1,20,2,3,7,14,24,WLDDWLWLWLDL,0,2,3,4,10,8,5,2,5,14,14,LDWDWWWWWLLW,2,0,4,5,9,LDLLD,LWWWWL
-Lazio,Parma,1-0,/match/lazio/parma-fc/2008,2008,13,serie_a,20,38,0,1,0,16,2,4,6,11,19,DDDWWDLLLWLW,1,2,3,6,10,11,2,6,4,15,21,DWDDWWLWWDDD,0,2,3,3,9,DDWLLL,WDWWD
-Empoli,Torino,0-0,/match/empoli-fc/torino-fc/2008,2008,13,serie_a,20,38,1,0,0,18,2,3,7,7,19,WLDDWWWLLWDW,1,2,2,5,6,10,2,7,3,13,14,DDDDWLWDWWDD,0,4,2,6,9,LDWLD,DDWDWD
-Cagliari,Milan,1-2,/match/cagliari/milan/2008,2008,13,serie_a,20,38,2,1,2,19,2,3,7,10,20,LLDLWWWDWDLW,1,1,3,4,8,14,3,5,4,19,11,LDDDWDLLLLDW,3,1,2,16,6,LLWDL,LDWLLW
-Udinese,Siena,2-0,/match/udinese/siena/2008,2008,13,serie_a,20,38,0,2,0,6,6,4,2,14,13,DLLWWWDDLWDL,3,1,1,7,8,15,1,6,5,12,18,LWDDDWWWDDDL,0,2,3,3,10,LWWDW,WDWWD
-Juventus,Palermo FC,5-0,/match/juventus-fc/palermo/2008,2008,13,serie_a,20,38,0,5,0,4,6,4,2,24,13,WLLDWLDWWWDD,4,1,1,14,3,7,4,6,2,17,16,LLDLWWDDDDDW,2,2,1,10,9,WLWWWD,LLWDD
-Sampdoria,Reggina,3-0,/match/sampdoria/reggina/2008,2008,14,serie_a,20,38,0,3,0,9,5,2,6,15,17,LDWDWWWWWLLWW,3,2,1,9,5,17,1,7,5,9,18,DDLWWDDLDLDWD,0,4,2,4,10,DDWWLW,DWWDDD
-Milan,Juventus,0-0,/match/milan/juventus-fc/2008,2008,14,serie_a,20,38,1,0,0,14,4,5,4,21,12,LDDDWDLLLLDWL,0,4,2,3,5,2,7,4,2,29,13,WLLDWLDWWWDDW,2,3,1,10,10,DDDLLD,LDLDWD
-Siena,Lazio,1-1,/match/siena/lazio/2008,2008,14,serie_a,20,38,1,1,1,16,1,6,6,12,20,LWDDDWWWDDDLW,1,4,2,9,8,15,3,4,6,12,19,DDDWWDLLLWLWW,1,2,3,5,9,LDDWDDL,DWDLWW
-Parma,Empoli,1-0,/match/parma-fc/empoli-fc/2008,2008,14,serie_a,20,38,0,1,0,12,2,6,5,15,22,DWDDWWLWWDDDW,2,4,1,12,12,18,2,4,7,7,19,WLDDWWWLLWDWD,1,1,5,2,13,DDWLWDD,WDWWLWW
-Fiorentina,Inter,0-2,/match/fiorentina/internazionale/2008,2008,14,serie_a,20,38,2,0,2,5,6,6,1,19,9,WDDLDLDWDWLLD,3,3,1,13,8,1,9,4,0,27,8,DLWDWLWLDWDWW,3,3,0,10,4,WDDDWWL,LDLLDD
-Catania,Palermo FC,3-1,/match/catania/palermo/2008,2008,14,serie_a,20,38,0,3,1,10,3,6,4,11,13,DDWLWDWDWDLDW,3,1,2,5,3,8,4,6,3,17,21,LLDLWWDDDDDWW,2,2,2,10,14,DLWWWL,LLWDDW
-Cagliari,Livorno,0-0,/match/cagliari/livorno/2008,2008,14,serie_a,20,38,1,0,0,20,2,3,8,11,22,LLDLWWWDWDLWL,1,1,4,5,10,19,3,3,7,17,25,WLDDWLWLWLDLW,2,1,4,10,14,LLWDLL,WDWWWLL
-Atalanta,Napoli,5-1,/match/atalanta/napoli/2008,2008,14,serie_a,20,38,0,5,1,6,5,6,2,18,16,DWDWDWDDLDLWW,3,3,0,10,6,7,5,3,5,21,15,LLWDWLWDWWDWW,1,2,3,11,9,WWDDDW,LDWDWW
-Roma,Udinese,2-1,/match/roma/udinese/2008,2008,14,serie_a,20,38,0,2,1,3,8,4,1,28,16,LWLDDLLDLWDWL,3,2,1,15,12,4,7,4,2,16,13,DLLWWWDDLWDLW,3,3,1,7,5,WDLDWW,DLWDLDL
-Torino,Genoa,1-1,/match/torino-fc/genoa/2008,2008,14,serie_a,20,38,1,1,1,11,2,8,3,13,14,DDDDWLWDWWDDD,2,3,1,7,5,13,3,5,5,12,18,LDDDWLWWDWDWL,1,2,3,3,8,DDLWWD,DDLWWW
-Lazio,Catania,2-0,/match/lazio/catania/2008,2008,15,serie_a,20,38,0,2,0,15,3,5,6,13,20,DDDWWDLLLWLWWD,2,2,3,7,10,8,4,6,4,14,14,DDWLWDWDWDLDWW,0,5,2,6,10,DDWLLLW,DWDDDDW
-Palermo FC,Fiorentina,2-0,/match/palermo/fiorentina/2008,2008,15,serie_a,20,38,0,2,0,11,4,6,4,18,24,LLDLWWDDDDDWWW,2,4,1,7,7,6,6,6,2,19,11,WDDLDLDWDWLLDL,3,3,0,6,1,LDWDDDW,DLLDLD
-Udinese,Sampdoria,3-2,/match/udinese/sampdoria/2008,2008,15,serie_a,20,38,0,3,2,5,7,4,3,17,15,DLLWWWDDLWDLWW,4,1,1,9,8,7,6,2,6,18,17,LDWDWWWWWLLWWW,2,0,5,6,12,LWWDWW,LWWWWLW
-Livorno,Roma,1-1,/match/livorno/roma/2008,2008,15,serie_a,20,38,1,1,1,18,3,4,7,17,25,WLDDWLWLWLDLWD,1,2,3,7,11,2,9,4,1,30,17,LWLDDLLDLWDWLW,5,2,0,13,4,LDLLDW,LLDLLDL
-Juventus,Atalanta,1-0,/match/juventus-fc/atalanta/2008,2008,15,serie_a,20,38,0,1,0,3,7,5,2,29,13,WLLDWLDWWWDDWD,5,1,1,19,3,4,6,6,2,23,17,DWDWDWDDLDLWWW,2,3,2,8,10,WLWWWDW,DDDWLLW
-Inter,Torino,4-0,/match/internazionale/torino-fc/2008,2008,15,serie_a,20,38,0,4,0,1,10,4,0,29,8,DLWDWLWLDWDWWL,6,1,0,17,4,12,2,9,3,14,15,DDDDWLWDWWDDDD,0,5,2,6,9,DWWWWWW,DDWDWDD
-Genoa,Siena,1-3,/match/genoa/siena/2008,2008,15,serie_a,20,38,2,1,3,13,3,6,5,13,19,LDDDWLWWDWDWLD,2,3,2,9,10,16,1,7,6,13,21,LWDDDWWWDDDLWD,0,2,4,3,12,LDWWDDL,WDWWDW
-Empoli,Cagliari,4-1,/match/empoli-fc/cagliari/2008,2008,15,serie_a,20,38,0,4,1,19,2,4,8,7,20,WLDDWWWLLWDWDW,1,3,2,5,6,20,2,4,8,11,22,LLDLWWWDWDLWLD,1,2,4,6,12,LDWLDD,LDWWWDW
-Napoli,Parma,1-0,/match/napoli/parma-fc/2008,2008,15,serie_a,20,38,0,1,0,10,5,3,6,22,20,LLWDWLWDWWDWWW,4,1,2,10,6,9,3,6,5,16,22,DWDDWWLWWDDDWW,0,2,4,3,10,LWWLWDW,WDWWDW
-Reggina,Milan,0-1,/match/reggina/milan/2008,2008,15,serie_a,20,38,2,0,1,17,1,7,6,9,21,DDLWWDDLDLDWDW,1,3,3,5,8,14,4,6,4,21,12,LDDDWDLLLLDWLD,4,1,2,18,7,DLDLLWD,LDWLLWL
-Catania,Udinese,2-0,/match/catania/udinese/2008,2008,16,serie_a,20,38,0,2,0,10,4,6,5,14,16,DDWLWDWDWDLDWWW,4,1,2,8,4,4,8,4,3,20,17,DLLWWWDDLWDLWWW,3,3,2,8,7,DLWWWLW,DLWDLDLW
-Lazio,Juventus,2-3,/match/lazio/juventus-fc/2008,2008,16,serie_a,20,38,2,2,3,14,4,5,6,15,20,DDDWWDLLLWLWWDW,3,2,3,9,10,2,8,5,2,30,13,WLLDWLDWWWDDWDW,2,4,1,10,10,DDWLLLWW,LDLDWDD
-Torino,Roma,0-0,/match/torino-fc/roma/2008,2008,16,serie_a,20,38,1,0,0,12,2,9,4,14,19,DDDDWLWDWWDDDDW,2,4,1,8,6,3,9,5,1,31,18,LWLDDLLDLWDWLWD,5,3,0,14,5,DDLWWDD,LLDLLDLD
-Siena,Napoli,1-1,/match/siena/napoli/2008,2008,16,serie_a,20,38,1,1,1,16,2,7,6,16,22,LWDDDWWWDDDLWDL,1,5,2,10,9,7,6,3,6,23,20,LLWDWLWDWWDWWWW,1,2,4,12,14,LDDWDDLD,LDWDWWW
-Sampdoria,Fiorentina,2-2,/match/sampdoria/fiorentina/2008,2008,16,serie_a,20,38,1,2,2,9,6,2,7,20,20,LDWDWWWWWLLWWWW,4,2,1,12,5,6,6,6,3,19,13,WDDLDLDWDWLLDLW,3,3,1,6,3,DDWWLWW,DLLDLDW
-Parma,Reggina,3-0,/match/parma-fc/reggina/2008,2008,16,serie_a,20,38,0,3,0,11,3,6,6,16,23,DWDDWWLWWDDDWWW,3,4,1,13,12,19,1,7,7,9,22,DDLWWDDLDLDWDWL,0,4,3,4,13,DDWLWDDW,DWWDDDW
-Empoli,Genoa,1-1,/match/empoli-fc/genoa/2008,2008,16,serie_a,20,38,1,1,1,17,3,4,8,11,21,WLDDWWWLLWDWDWW,2,3,2,9,7,15,3,6,6,14,22,LDDDWLWWDWDWLDL,1,3,3,4,9,LDWLDDW,DDLWWWD
-Atalanta,Palermo FC,1-3,/match/atalanta/palermo/2008,2008,16,serie_a,20,38,2,1,3,5,6,6,3,23,18,DWDWDWDDLDLWWWW,4,3,0,15,7,8,5,6,4,20,24,LLDLWWDDDDDWWWW,2,2,3,11,17,WWDDDWW,LLWDDWW
-Cagliari,Inter,0-2,/match/cagliari/internazionale/2008,2008,16,serie_a,20,38,2,0,2,20,2,4,9,12,26,LLDLWWWDWDLWLDW,1,2,4,5,10,1,11,4,0,33,8,DLWDWLWLDWDWWLW,4,3,0,12,4,LLWDLLD,LDLLDDL
-Milan,Livorno,1-1,/match/milan/livorno/2008,2008,16,serie_a,20,38,1,1,1,13,5,6,4,22,12,LDDDWDLLLLDWLDL,0,5,2,3,5,18,3,5,7,18,26,WLDDWLWLWLDLWDD,2,2,4,10,14,DDDLLDD,WDWWWLLD
-Genoa,Parma,1-0,/match/genoa/parma-fc/2008,2008,17,serie_a,20,38,0,1,0,15,3,7,6,15,23,LDDDWLWWDWDWLDLD,2,3,3,10,13,10,4,6,6,19,23,DWDDWWLWWDDDWWWW,0,2,5,3,11,LDWWDDLL,WDWWDWW
-Roma,Sampdoria,2-0,/match/roma/sampdoria/2008,2008,17,serie_a,20,38,0,2,0,3,9,6,1,31,18,LWLDDLLDLWDWLWDD,4,2,1,17,13,11,6,3,7,22,22,LDWDWWWWWLLWWWWD,2,0,6,8,15,WDLDWWW,LWWWWLWW
-Reggina,Catania,3-1,/match/reggina/catania/2008,2008,17,serie_a,20,38,0,3,1,19,1,7,8,9,25,DDLWWDDLDLDWDWLW,1,3,4,5,9,8,5,6,5,16,16,DDWLWDWDWDLDWWWW,0,5,3,6,12,DLDLLWDL,DWDDDDWW
-Palermo FC,Lazio,2-2,/match/palermo/lazio/2008,2008,17,serie_a,20,38,1,2,2,7,6,6,4,23,25,LLDLWWDDDDDWWWWL,3,4,1,9,7,14,4,5,7,17,23,DDDWWDLLLWLWWDWL,1,3,3,6,10,LDWDDDWW,DWDLWWD
-Napoli,Torino,1-1,/match/napoli/torino-fc/2008,2008,17,serie_a,20,38,1,1,1,9,6,4,6,24,21,LLWDWLWDWWDWWWWD,5,1,2,11,6,12,2,10,4,14,19,DDDDWLWDWWDDDDWD,0,5,3,6,13,LWWLWDWW,DDWDWDDW
-Livorno,Atalanta,1-1,/match/livorno/atalanta/2008,2008,17,serie_a,20,38,1,1,1,18,3,6,7,19,27,WLDDWLWLWLDLWDDD,1,3,3,8,12,5,6,6,4,24,21,DWDWDWDDLDLWWWWL,2,3,3,8,11,LDLLDWD,DDDWLLWW
-Juventus,Siena,2-0,/match/juventus-fc/siena/2008,2008,17,serie_a,20,38,0,2,0,2,9,5,2,33,15,WLLDWLDWWWDDWDWL,6,1,1,20,3,16,2,8,6,17,23,LWDDDWWWDDDLWDLD,1,2,4,6,13,WLWWWDWW,WDWWDWL
-Inter,Milan,2-1,/match/internazionale/milan/2008,2008,17,serie_a,20,38,0,2,1,1,12,4,0,35,8,DLWDWLWLDWDWWLWL,7,1,0,21,4,13,5,7,4,23,13,LDDDWDLLLLDWLDLD,5,1,2,19,7,DWWWWWWW,LDWLLWLL
-Fiorentina,Cagliari,5-1,/match/fiorentina/cagliari/2008,2008,17,serie_a,20,38,0,5,1,6,6,7,3,21,15,WDDLDLDWDWLLDLWD,3,3,2,13,10,20,2,4,10,12,28,LLDLWWWDWDLWLDWL,1,2,5,7,16,WDDDWWLL,LDWWWDWW
-Udinese,Empoli,2-2,/match/udinese/empoli-fc/2008,2008,17,serie_a,20,38,1,2,2,4,8,4,4,20,19,DLLWWWDDLWDLWWWW,5,1,1,12,10,17,3,5,8,12,22,WLDDWWWLLWDWDWWD,1,1,6,2,14,LWWDWWW,WDWWLWWW
-Empoli,Reggina,1-1,/match/empoli-fc/reggina/2008,2008,18,serie_a,20,38,1,1,1,17,3,6,8,14,24,WLDDWWWLLWDWDWWDD,2,4,2,10,8,19,2,7,8,12,26,DDLWWDDLDLDWDWLWW,0,4,4,4,16,LDWLDDWD,DWWDDDWW
-Catania,Juventus,1-1,/match/catania/juventus-fc/2008,2008,18,serie_a,20,38,1,1,1,9,5,6,6,17,19,DDWLWDWDWDLDWWWWW,5,1,2,10,4,2,10,5,2,35,15,WLLDWLDWWWDDWDWLW,3,4,1,13,12,DLWWWLWW,LDLDWDDL
-Siena,Inter,2-3,/match/siena/internazionale/2008,2008,18,serie_a,20,38,2,2,3,16,2,8,7,17,25,LWDDDWWWDDDLWDLDW,1,6,2,11,10,1,13,4,0,37,9,DLWDWLWLDWDWWLWLW,5,3,0,14,4,LDDWDDLDD,LDLLDDLL
-Sampdoria,Palermo FC,3-0,/match/sampdoria/palermo/2008,2008,18,serie_a,20,38,0,3,0,10,6,3,8,22,24,LDWDWWWWWLLWWWWDW,4,3,1,14,7,7,6,7,4,25,27,LLDLWWDDDDDWWWWLD,3,2,3,14,18,DDWWLWWD,LLWDDWWL
-Parma,Fiorentina,1-2,/match/parma-fc/fiorentina/2008,2008,18,serie_a,20,38,2,1,2,11,4,6,7,19,24,DWDDWWLWWDDDWWWWW,4,4,1,16,12,5,7,7,3,26,16,WDDLDLDWDWLLDLWDW,3,4,1,8,5,DDWLWDDWW,DLLDLDWD
-Lazio,Genoa,1-2,/match/lazio/genoa/2008,2008,18,serie_a,20,38,2,1,2,15,4,6,7,19,25,DDDWWDLLLWLWWDWLD,3,2,4,11,13,13,4,7,6,16,23,LDDDWLWWDWDWLDLDW,1,4,3,5,10,DDWLLLWWL,DDLWWWDD
-Cagliari,Udinese,0-1,/match/cagliari/udinese/2008,2008,18,serie_a,20,38,2,0,1,20,2,4,11,13,33,LLDLWWWDWDLWLDWLW,1,2,5,5,12,4,8,5,4,22,21,DLLWWWDDLWDLWWWWD,3,3,3,8,9,LLWDLLDL,DLWDLDLWW
-Atalanta,Roma,1-2,/match/atalanta/roma/2008,2008,18,serie_a,20,38,2,1,2,6,6,7,4,25,22,DWDWDWDDLDLWWWWLD,4,3,1,16,10,3,10,6,1,33,18,LWLDDLLDLWDWLWDDW,5,4,0,14,5,WWDDDWWL,LLDLLDLDD
-Torino,Livorno,1-2,/match/torino-fc/livorno/2008,2008,18,serie_a,20,38,2,1,2,12,2,11,4,15,20,DDDDWLWDWWDDDDWDD,2,5,1,8,6,18,3,7,7,20,28,WLDDWLWLWLDLWDDDD,2,3,4,11,15,DDLWWDDD,WDWWWLLDD
-Milan,Napoli,5-2,/match/milan/napoli/2008,2008,18,serie_a,20,38,0,5,2,14,5,7,5,24,15,LDDDWDLLLLDWLDLDW,0,6,2,4,6,8,6,5,6,25,22,LLWDWLWDWWDWWWWDD,1,3,4,13,15,DDDLLDDD,LDWDWWWD
-Genoa,Atalanta,2-1,/match/genoa/atalanta/2008,2008,19,serie_a,20,38,0,2,1,12,5,7,6,18,24,LDDDWLWWDWDWLDLDWL,3,3,3,11,13,6,6,7,5,26,24,DWDWDWDDLDLWWWWLDL,2,4,3,9,12,LDWWDDLLW,DDDWLLWWD
-Fiorentina,Torino,2-1,/match/fiorentina/torino-fc/2008,2008,19,serie_a,20,38,0,2,1,5,8,7,3,28,17,WDDLDLDWDWLLDLWDWL,4,3,2,18,11,14,2,11,5,16,22,DDDDWLWDWWDDDDWDDL,0,6,3,7,14,WDDDWWLLW,DDWDWDDWD
-Reggina,Cagliari,2-0,/match/reggina/cagliari/2008,2008,19,serie_a,20,38,0,2,0,19,2,8,8,13,27,DDLWWDDLDLDWDWLWWD,2,3,4,8,10,20,2,4,12,13,34,LLDLWWWDWDLWLDWLWL,1,2,6,8,21,DLDLLWDLW,LDWWWDWWW
-Palermo FC,Siena,2-3,/match/palermo/siena/2008,2008,19,serie_a,20,38,2,2,3,7,6,7,5,25,30,LLDLWWDDDDDWWWWLDW,3,5,1,11,9,18,2,8,8,19,28,LWDDDWWWDDDLWDLDWL,1,2,5,6,15,LDWDDDWWD,WDWWDWLW
-Napoli,Lazio,2-2,/match/napoli/lazio/2008,2008,19,serie_a,20,38,1,2,2,9,6,5,7,27,27,LLWDWLWDWWDWWWWDDW,5,2,2,12,7,15,4,6,8,20,27,DDDWWDLLLWLWWDWLDL,1,4,3,8,12,LWWLWDWWD,DWDLWWDD
-Livorno,Empoli,1-0,/match/livorno/empoli-fc/2008,2008,19,serie_a,20,38,0,1,0,17,4,7,7,22,29,WLDDWLWLWLDLWDDDDL,1,4,3,9,13,16,3,7,8,15,25,WLDDWWWLLWDWDWWDDD,1,2,6,4,16,LDLLDWDD,WDWWLWWWD
-Juventus,Sampdoria,0-0,/match/juventus-fc/sampdoria/2008,2008,19,serie_a,20,38,1,0,0,2,10,6,2,36,16,WLLDWLDWWWDDWDWLWD,7,1,1,22,3,8,7,3,8,25,24,LDWDWWWWWLLWWWWDWW,2,0,7,8,17,WLWWWDWWW,LWWWWLWWW
-Roma,Catania,2-0,/match/roma/catania/2008,2008,19,serie_a,20,38,0,2,0,3,11,6,1,35,19,LWLDDLLDLWDWLWDDWL,5,2,1,19,13,10,5,7,6,18,20,DDWLWDWDWDLDWWWWWD,0,5,4,7,15,WDLDWWWW,DWDDDDWWW
-Udinese,Milan,0-1,/match/udinese/milan/2008,2008,19,serie_a,20,38,2,0,1,4,9,5,4,23,21,DLLWWWDDLWDLWWWWDL,5,2,1,14,12,11,6,7,5,29,17,LDDDWDLLLLDWLDLDWW,5,1,3,20,9,LWWDWWWD,LDWLLWLLW
-Inter,Parma,3-2,/match/internazionale/parma-fc/2008,2008,19,serie_a,20,38,0,3,2,1,14,4,0,40,11,DLWDWLWLDWDWWLWLWL,8,1,0,23,5,13,4,6,8,20,26,DWDDWWLWWDDDWWWWWL,0,2,6,3,12,DWWWWWWWW,WDWWDWWW
-Sampdoria,Siena,1-0,/match/sampdoria/siena/2008,2008,20,serie_a,20,38,0,1,0,6,7,4,8,25,24,LDWDWWWWWLLWWWWDWWD,5,3,1,17,7,19,3,8,8,22,30,LWDDDWWWDDDLWDLDWLL,2,2,5,9,17,DDWWLWWDW,WDWWDWLWL
-Roma,Palermo FC,1-0,/match/roma/palermo/2008,2008,20,serie_a,20,38,0,1,0,2,12,6,1,37,19,LWLDDLLDLWDWLWDDWLW,6,2,1,21,13,9,6,7,6,27,33,LLDLWWDDDDDWWWWLDWL,3,2,4,14,21,WDLDWWWWW,LLWDDWWLW
-Torino,Lazio,0-0,/match/torino-fc/lazio/2008,2008,20,serie_a,20,38,1,0,0,15,2,11,6,17,24,DDDDWLWDWWDDDDWDDLW,2,5,2,9,8,16,4,7,8,22,29,DDDWWDLLLWLWWDWLDLD,1,5,3,10,14,DDLWWDDDL,DWDLWWDDD
-Empoli,Fiorentina,0-2,/match/empoli-fc/fiorentina/2008,2008,20,serie_a,20,38,2,0,2,18,3,7,9,15,26,WLDDWWWLLWDWDWWDDDW,2,5,2,11,9,4,9,7,3,30,18,WDDLDLDWDWLLDLWDWLW,4,4,1,10,6,LDWLDDWDD,DLLDLDWDL
-Catania,Parma,0-0,/match/catania/parma-fc/2008,2008,20,serie_a,20,38,1,0,0,12,5,7,7,18,22,DDWLWDWDWDLDWWWWWDW,5,2,2,11,5,13,4,6,9,22,29,DWDDWWLWWDDDWWWWWLW,0,2,7,5,15,DLWWWLWWD,WDWWDWWWW
-Cagliari,Napoli,2-1,/match/cagliari/napoli/2008,2008,20,serie_a,20,38,0,2,1,20,2,4,13,13,36,LLDLWWWDWDLWLDWLWLW,1,2,6,5,13,7,6,6,7,29,29,LLWDWLWDWWDWWWWDDWD,1,3,5,15,20,LLWDLLDLL,LDWDWWWDW
-Atalanta,Reggina,2-2,/match/atalanta/reggina/2008,2008,20,serie_a,20,38,1,2,2,8,6,7,6,27,26,DWDWDWDDLDLWWWWLDLW,4,3,2,17,12,17,3,8,8,15,27,DDLWWDDLDLDWDWLWWDW,0,5,4,5,17,WWDDDWWLL,DWWDDDWWD
-Milan,Genoa,2-0,/match/milan/genoa/2008,2008,20,serie_a,20,38,0,2,0,11,7,7,5,30,17,LDDDWDLLLLDWLDLDWWL,1,6,2,9,8,10,6,7,6,20,25,LDDDWLWWDWDWLDLDWLW,2,4,3,7,11,DDDLLDDDW,DDLWWWDDL
-Udinese,Inter,0-0,/match/udinese/internazionale/2008,2008,20,serie_a,20,38,1,0,0,5,9,5,5,23,22,DLLWWWDDLWDLWWWWDLL,5,2,2,14,13,1,15,4,0,43,13,DLWDWLWLDWDWWLWLWLW,6,3,0,17,6,LWWDWWWDL,LDLLDDLLL
-Livorno,Juventus,1-3,/match/livorno/juventus-fc/2008,2008,20,serie_a,20,38,2,1,3,14,5,7,7,23,29,WLDDWLWLWLDLWDDDDLW,2,4,3,10,13,3,10,7,2,36,16,WLLDWLDWWWDDWDWLWDD,3,5,1,14,13,LDLLDWDDW,LDLDWDDLD
-Palermo FC,Livorno,1-0,/match/palermo/livorno/2008,2008,21,serie_a,20,38,0,1,0,11,6,7,7,27,34,LLDLWWDDDDDWWWWLDWLW,3,5,2,13,12,15,5,7,8,24,32,WLDDWLWLWLDLWDDDDLWL,3,3,4,13,16,LDWDDDWWDL,WDWWWLLDDL
-Napoli,Udinese,3-1,/match/napoli/udinese/2008,2008,21,serie_a,20,38,0,3,1,9,6,6,8,30,31,LLWDWLWDWWDWWWWDDWDW,5,3,2,14,9,5,9,6,5,23,22,DLLWWWDDLWDLWWWWDLLD,4,3,3,9,9,LWWLWDWWDD,DLWDLDLWWL
-Reggina,Torino,1-3,/match/reggina/torino-fc/2008,2008,21,serie_a,20,38,2,1,3,17,3,9,8,17,29,DDLWWDDLDLDWDWLWWDWD,3,3,4,10,10,14,2,12,6,17,24,DDDDWLWDWWDDDDWDDLWD,0,6,4,8,16,DLDLLWDLWW,DDWDWDDWDW
-Parma,Atalanta,2-3,/match/parma-fc/atalanta/2008,2008,21,serie_a,20,38,2,2,3,13,4,7,9,22,29,DWDDWWLWWDDDWWWWWLWD,4,4,2,17,14,8,6,8,6,29,28,DWDWDWDDLDLWWWWLDLWD,2,4,4,10,14,DDWLWDDWWL,DDDWLLWWDW
-Lazio,Sampdoria,2-1,/match/lazio/sampdoria/2008,2008,21,serie_a,20,38,0,2,1,16,4,8,8,22,29,DDDWWDLLLWLWWDWLDLDD,3,2,5,12,15,6,8,4,8,26,24,LDWDWWWWWLLWWWWDWWDW,2,1,7,8,17,DDWLLLWWLL,LWWWWLWWWD
-Juventus,Cagliari,1-1,/match/juventus-fc/cagliari/2008,2008,21,serie_a,20,38,1,1,1,3,11,7,2,39,17,WLLDWLDWWWDDWDWLWDDL,7,2,1,22,3,20,3,4,13,15,37,LLDLWWWDWDLWLDWLWLWW,1,2,7,8,23,WLWWWDWWWD,LDWWWDWWWW
-Inter,Empoli,1-0,/match/internazionale/empoli-fc/2008,2008,21,serie_a,20,38,0,1,0,1,15,5,0,43,13,DLWDWLWLDWDWWLWLWLWD,9,1,0,26,7,18,3,7,10,15,28,WLDDWWWLLWDWDWWDDDWL,1,2,7,4,17,DWWWWWWWWW,WDWWLWWWDW
-Genoa,Catania,2-1,/match/genoa/catania/2008,2008,21,serie_a,20,38,0,2,1,12,6,7,7,20,27,LDDDWLWWDWDWLDLDWLWW,4,3,3,13,14,10,5,8,7,18,22,DDWLWDWDWDLDWWWWWDWD,0,5,5,7,17,LDWWDDLLWW,DWDDDDWWWW
-Siena,Roma,3-0,/match/siena/roma/2008,2008,21,serie_a,20,38,0,3,0,19,3,8,9,22,31,LWDDDWWWDDDLWDLDWLLW,1,6,3,13,13,2,13,6,1,38,19,LWLDDLLDLWDWLWDDWLWW,6,4,0,16,6,LDDWDDLDDL,LLDLLDLDDL
-Fiorentina,Milan,0-1,/match/fiorentina/milan/2008,2008,21,serie_a,20,38,2,0,1,4,10,7,3,32,18,WDDLDLDWDWLLDLWDWLWL,5,3,2,20,12,7,8,7,5,32,17,LDDDWDLLLLDWLDLDWWLW,6,1,3,21,9,WDDDWWLLWW,LDWLLWLLWL
-Atalanta,Fiorentina,2-2,/match/atalanta/fiorentina/2008,2008,22,serie_a,20,38,1,2,2,11,7,8,6,32,30,DWDWDWDDLDLWWWWLDLWDL,4,4,2,19,14,4,10,7,4,32,19,WDDLDLDWDWLLDLWDWLWLL,5,4,1,12,6,WWDDDWWLLD,DLLDLDWDLL
-Roma,Reggina,2-0,/match/roma/reggina/2008,2008,22,serie_a,20,38,0,2,0,2,13,6,2,38,22,LWLDDLLDLWDWLWDDWLWWW,7,2,1,22,13,18,3,9,9,18,32,DDLWWDDLDLDWDWLWWDWDL,0,6,4,7,19,WDLDWWWWWW,DWWDDDWWDD
-Torino,Palermo FC,3-1,/match/torino-fc/palermo/2008,2008,22,serie_a,20,38,0,3,1,13,3,12,6,20,25,DDDDWLWDWWDDDDWDDLWDL,2,6,2,9,8,10,7,7,7,28,34,LLDLWWDDDDDWWWWLDWLWW,3,2,5,14,22,DDLWWDDDLD,LLWDDWWLWW
-Sampdoria,Napoli,2-0,/match/sampdoria/napoli/2008,2008,22,serie_a,20,38,0,2,0,6,8,4,9,27,26,LDWDWWWWWLLWWWWDWWDWW,6,3,1,18,7,8,7,6,8,33,32,LLWDWLWDWWDWWWWDDWDWW,1,3,6,16,22,DDWWLWWDWW,LDWDWWWDWW
-Livorno,Genoa,1-1,/match/livorno/genoa/2008,2008,22,serie_a,20,38,1,1,1,17,5,7,9,24,33,WLDDWLWLWLDLWDDDDLWLW,2,4,4,11,16,9,7,7,7,22,28,LDDDWLWWDWDWLDLDWLWWW,2,4,4,7,13,LDLLDWDDWL,DDLWWWDDLW
-Empoli,Lazio,1-0,/match/empoli-fc/lazio/2008,2008,22,serie_a,20,38,0,1,0,19,3,7,11,15,29,WLDDWWWLLWDWDWWDDDWLW,2,5,3,11,11,14,5,8,8,24,30,DDDWWDLLLWLWWDWLDLDDW,1,6,3,10,14,LDWLDDWDDL,DWDLWWDDDD
-Cagliari,Parma,1-1,/match/cagliari/parma-fc/2008,2008,22,serie_a,20,38,1,1,1,20,3,5,13,16,38,LLDLWWWDWDLWLDWLWLWWD,2,2,6,7,14,15,4,7,10,24,32,DWDDWWLWWDDDWWWWWLWDL,0,3,7,5,15,LLWDLLDLLW,WDWWDWWWWD
-Milan,Siena,1-0,/match/milan/siena/2008,2008,22,serie_a,20,38,0,1,0,7,9,7,5,33,17,LDDDWDLLLLDWLDLDWWLWL,2,6,2,11,8,16,4,8,9,25,31,LWDDDWWWDDDLWDLDWLLWW,2,2,6,9,18,DDDLLDDDWW,WDWWDWLWLW
-Udinese,Juventus,1-2,/match/udinese/juventus-fc/2008,2008,22,serie_a,20,38,2,1,2,5,9,6,6,24,25,DLLWWWDDLWDLWWWWDLLDW,5,3,2,14,13,3,11,8,2,40,18,WLLDWLDWWWDDWDWLWDDLD,4,5,1,17,14,LWWDWWWDLD,LDLDWDDLDL
-Catania,Inter,0-2,/match/catania/internazionale/2008,2008,22,serie_a,20,38,2,0,2,12,5,8,8,19,24,DDWLWDWDWDLDWWWWWDWDW,5,3,2,11,5,1,16,5,0,44,13,DLWDWLWLDWDWWLWLWLWDW,6,4,0,17,6,DLWWWLWWDD,LDLLDDLLLD
-Inter,Livorno,2-0,/match/internazionale/livorno/2008,2008,23,serie_a,20,38,0,2,0,1,17,5,0,46,13,DLWDWLWLDWDWWLWLWLWDWL,10,1,0,27,7,16,5,8,9,25,34,WLDDWLWLWLDLWDDDDLWLWD,3,3,5,13,17,DWWWWWWWWWW,WDWWWLLDDLW
-Parma,Milan,0-0,/match/parma-fc/milan/2008,2008,23,serie_a,20,38,1,0,0,15,4,8,10,25,33,DWDDWWLWWDDDWWWWWLWDLD,4,4,3,19,17,6,10,7,5,34,17,LDDDWDLLLLDWLDLDWWLWLW,7,1,3,22,9,DDWLWDDWWLL,LDWLLWLLWLL
-Juventus,Roma,1-0,/match/juventus-fc/roma/2008,2008,23,serie_a,20,38,0,1,0,3,12,8,2,42,19,WLLDWLDWWWDDWDWLWDDLDL,7,3,1,23,4,2,14,6,2,40,22,LWLDDLLDLWDWLWDDWLWWWW,6,4,1,16,9,WLWWWDWWWDD,LLDLLDLDDLW
-Reggina,Udinese,1-3,/match/reggina/udinese/2008,2008,23,serie_a,20,38,2,1,3,19,3,9,10,18,34,DDLWWDDLDLDWDWLWWDWDLW,3,3,5,11,13,7,9,6,7,25,27,DLLWWWDDLWDLWWWWDLLDWL,4,3,4,10,12,DLDLLWDLWWL,DLWDLDLWWLW
-Palermo FC,Cagliari,2-1,/match/palermo/cagliari/2008,2008,23,serie_a,20,38,0,2,1,11,7,7,8,29,37,LLDLWWDDDDDWWWWLDWLWWW,4,5,2,14,12,20,3,6,13,17,39,LLDLWWWDWDLWLDWLWLWWDD,1,3,7,9,24,LDWDDDWWDLW,LDWWWDWWWWD
-Napoli,Empoli,1-3,/match/napoli/empoli-fc/2008,2008,23,serie_a,20,38,2,1,3,10,7,6,9,33,34,LLWDWLWDWWDWWWWDDWDWWW,6,3,2,17,10,18,4,7,11,16,29,WLDDWWWLLWDWDWWDDDWLWW,1,2,8,4,18,LWWLWDWWDDW,WDWWLWWWDWW
-Lazio,Atalanta,3-0,/match/lazio/atalanta/2008,2008,23,serie_a,20,38,0,3,0,14,5,8,9,24,31,DDDWWDLLLWLWWDWLDLDDWW,4,2,5,14,16,8,7,9,6,34,32,DWDWDWDDLDLWWWWLDLWDLD,3,4,4,13,16,DDWLLLWWLLW,DDDWLLWWDWL
-Genoa,Sampdoria,0-1,/match/genoa/sampdoria/2008,2008,23,serie_a,20,38,2,0,1,9,7,8,7,23,29,LDDDWLWWDWDWLDLDWLWWWD,5,3,3,15,15,5,9,4,9,29,26,LDWDWWWWWLLWWWWDWWDWWW,2,1,8,9,19,LDWWDDLLWWW,LWWWWLWWWDW
-Fiorentina,Catania,2-1,/match/fiorentina/catania/2008,2008,23,serie_a,20,38,0,2,1,4,10,8,4,34,21,WDDLDLDWDWLLDLWDWLWLLD,5,3,3,20,13,13,5,8,9,19,26,DDWLWDWDWDLDWWWWWDWDWL,0,5,6,8,19,WDDDWWLLWWL,DWDDDDWWWWW
-Siena,Torino,0-0,/match/siena/torino-fc/2008,2008,23,serie_a,20,38,1,0,0,17,4,8,10,25,32,LWDDDWWWDDDLWDLDWLLWWW,2,6,3,16,13,12,4,12,6,23,26,DDDDWLWDWWDDDDWDDLWDLW,1,6,4,11,17,LDDWDDLDDLW,DDWDWDDWDWL
-Torino,Parma,4-4,/match/torino-fc/parma-fc/2008,2008,24,serie_a,20,38,1,4,4,12,4,13,6,23,26,DDDDWLWDWWDDDDWDDLWDLWD,3,6,2,12,9,15,4,9,10,25,33,DWDDWWLWWDDDWWWWWLWDLDD,0,4,7,6,16,DDLWWDDDLDW,WDWWDWWWWDD
-Reggina,Juventus,2-1,/match/reggina/juventus-fc/2008,2008,24,serie_a,20,38,0,2,1,19,3,9,11,19,37,DDLWWDDLDLDWDWLWWDWDLWL,3,3,6,12,16,2,13,8,2,43,19,WLLDWLDWWWDDWDWLWDDLDLW,5,5,1,19,15,DLDLLWDLWWLL,LDLDWDDLDLL
-Sampdoria,Inter,1-1,/match/sampdoria/internazionale/2008,2008,24,serie_a,20,38,1,1,1,5,10,4,9,30,26,LDWDWWWWWLLWWWWDWWDWWWL,7,3,1,20,7,1,18,5,0,48,13,DLWDWLWLDWDWWLWLWLWDWLW,7,4,0,19,6,DDWWLWWDWWW,LDLLDDLLLDL
-Livorno,Napoli,1-2,/match/livorno/napoli/2008,2008,24,serie_a,20,38,2,1,2,18,5,8,10,25,36,WLDDWLWLWLDLWDDDDLWLWDW,2,5,4,12,17,11,7,6,10,34,37,LLWDWLWDWWDWWWWDDWDWWWL,1,3,7,16,24,LDLLDWDDWLD,LDWDWWWDWWW
-Empoli,Catania,2-0,/match/empoli-fc/catania/2008,2008,24,serie_a,20,38,0,2,0,17,5,7,11,19,30,WLDDWWWLLWDWDWWDDDWLWWL,3,5,3,12,11,14,5,8,10,20,28,DDWLWDWDWDLDWWWWWDWDWLW,0,5,7,9,21,LDWLDDWDDLW,DWDDDDWWWWWW
-Cagliari,Lazio,1-0,/match/cagliari/lazio/2008,2008,24,serie_a,20,38,0,1,0,20,3,6,14,18,41,LLDLWWWDWDLWLDWLWLWWDDW,2,3,6,8,15,13,6,8,9,27,31,DDDWWDLLLWLWWDWLDLDDWWW,1,6,4,10,15,LLWDLLDLLWD,DWDLWWDDDDW
-Atalanta,Siena,2-2,/match/atalanta/siena/2008,2008,24,serie_a,20,38,1,2,2,9,7,9,7,34,35,DWDWDWDDLDLWWWWLDLWDLDW,4,5,2,21,16,16,4,9,10,25,32,LWDDDWWWDDDLWDLDWLLWWWD,2,2,7,9,19,WWDDDWWLLDD,WDWWDWLWLWW
-Roma,Fiorentina,1-0,/match/roma/fiorentina/2008,2008,24,serie_a,20,38,0,1,0,3,14,6,3,40,23,LWLDDLLDLWDWLWDDWLWWWWW,8,2,1,24,13,4,11,8,4,36,22,WDDLDLDWDWLLDLWDWLWLLDW,5,5,1,14,8,WDLDWWWWWWW,DLLDLDWDLLD
-Udinese,Genoa,3-5,/match/udinese/genoa/2008,2008,24,serie_a,20,38,2,3,5,7,10,6,7,28,28,DLLWWWDDLWDLWWWWDLLDWLL,5,3,3,15,15,10,7,8,8,23,30,LDDDWLWWDWDWLDLDWLWWWDL,2,5,4,8,14,LWWDWWWDLDL,DDLWWWDDLWD
-Milan,Palermo FC,2-1,/match/milan/palermo/2008,2008,24,serie_a,20,38,0,2,1,6,10,8,5,34,17,LDDDWDLLLLDWLDLDWWLWLWD,3,6,2,12,8,8,8,7,8,31,38,LLDLWWDDDDDWWWWLDWLWWWW,3,2,6,15,25,DDDLLDDDWWW,LLWDDWWLWWW
-Juventus,Torino,0-0,/match/juventus-fc/torino-fc/2008,2008,25,serie_a,20,38,1,0,0,3,13,8,3,44,21,WLLDWLDWWWDDWDWLWDDLDLWW,8,3,1,24,4,12,4,14,6,27,30,DDDDWLWDWWDDDDWDDLWDLWDD,1,7,4,11,17,WLWWWDWWWDDW,DDWDWDDWDWLD
-Parma,Udinese,2-0,/match/parma-fc/udinese/2008,2008,25,serie_a,20,38,0,2,0,16,4,10,10,29,37,DWDDWWLWWDDDWWWWWLWDLDDD,4,5,3,19,17,7,10,6,8,31,33,DLLWWWDDLWDLWWWWDLLDWLLL,5,3,4,13,13,DDWLWDDWWLLD,DLWDLDLWWLWL
-Palermo FC,Empoli,2-0,/match/palermo/empoli-fc/2008,2008,25,serie_a,20,38,0,2,0,8,8,7,9,32,40,LLDLWWDDDDDWWWWLDWLWWWWW,5,5,2,16,13,14,6,7,11,21,30,WLDDWWWLLWDWDWWDDDWLWWLW,2,2,8,7,19,LDWDDDWWDLWW,WDWWLWWWDWWL
-Lazio,Reggina,1-0,/match/lazio/reggina/2008,2008,25,serie_a,20,38,0,1,0,13,6,8,10,27,32,DDDWWDLLLWLWWDWLDLDDWWWW,5,2,5,17,16,18,4,9,11,21,38,DDLWWDDLDLDWDWLWWDWDLWLW,0,6,5,7,21,DDWLLLWWLLWW,DWWDDDWWDDW
-Atalanta,Sampdoria,4-1,/match/atalanta/sampdoria/2008,2008,25,serie_a,20,38,0,4,1,9,7,10,7,36,37,DWDWDWDDLDLWWWWLDLWDLDWD,4,6,2,23,18,6,10,5,9,31,27,LDWDWWWWWLLWWWWDWWDWWWLD,3,1,8,10,19,WWDDDWWLLDDD,LWWWWLWWWDWL
-Inter,Roma,1-1,/match/internazionale/roma/2008,2008,25,serie_a,20,38,1,1,1,1,18,6,0,49,14,DLWDWLWLDWDWWLWLWLWDWLWD,11,1,0,29,7,2,15,6,3,41,23,LWLDDLLDLWDWLWDDWLWWWWWW,6,4,2,16,10,DWWWWWWWWWWW,LLDLLDLDDLWW
-Genoa,Napoli,2-0,/match/genoa/napoli/2008,2008,25,serie_a,20,38,0,2,0,11,8,8,8,28,33,LDDDWLWWDWDWLDLDWLWWWDLL,5,3,4,15,16,10,8,6,10,36,38,LLWDWLWDWWDWWWWDDWDWWWLL,2,3,7,18,25,LDWWDDLLWWWL,LDWDWWWDWWWL
-Fiorentina,Livorno,1-0,/match/fiorentina/livorno/2008,2008,25,serie_a,20,38,0,1,0,4,11,8,5,36,23,WDDLDLDWDWLLDLWDWLWLLDWW,6,3,3,22,14,19,5,8,11,26,38,WLDDWLWLWLDLWDDDDLWLWDWL,3,3,6,13,19,WDDDWWLLWWLW,WDWWWLLDDLWW
-Catania,Milan,1-1,/match/catania/milan/2008,2008,25,serie_a,20,38,1,1,1,15,5,8,11,20,30,DDWLWDWDWDLDWWWWWDWDWLWW,5,3,3,11,7,5,11,8,5,36,18,LDDDWDLLLLDWLDLDWWLWLWDW,7,2,3,22,9,DLWWWLWWDDL,LDWLLWLLWLLD
-Siena,Cagliari,1-0,/match/siena/cagliari/2008,2008,25,serie_a,20,38,0,1,0,17,4,10,10,27,34,LWDDDWWWDDDLWDLDWLLWWWDD,2,7,3,16,13,20,4,6,14,19,41,LLDLWWWDWDLWLDWLWLWWDDWW,1,3,8,10,26,LDDWDDLDDLWD,LDWWWDWWWWDW
-Roma,Parma,4-0,/match/roma/parma-fc/2008,2008,26,serie_a,20,38,0,4,0,2,15,7,3,42,24,LWLDDLLDLWDWLWDDWLWWWWWWD,9,2,1,25,13,14,5,10,10,31,37,DWDDWWLWWDDDWWWWWLWDLDDDW,0,5,7,10,20,WDLDWWWWWWWW,WDWWDWWWWDDD
-Milan,Lazio,1-1,/match/milan/lazio/2008,2008,26,serie_a,20,38,1,1,1,5,11,9,5,37,19,LDDDWDLLLLDWLDLDWWLWLWDWD,4,6,2,14,9,13,7,8,10,28,32,DDDWWDLLLWLWWDWLDLDDWWWWW,1,6,5,10,16,DDDLLDDDWWWW,DWDLWWDDDDWW
-Sampdoria,Torino,2-2,/match/sampdoria/torino-fc/2008,2008,26,serie_a,20,38,1,2,2,6,10,5,10,32,31,LDWDWWWWWLLWWWWDWWDWWWLDW,7,4,1,21,8,12,4,15,6,27,30,DDDDWLWDWWDDDDWDDLWDLWDDD,1,8,4,11,17,DDWWLWWDWWWD,DDWDWDDWDWLDD
-Reggina,Palermo FC,0-0,/match/reggina/palermo/2008,2008,26,serie_a,20,38,1,0,0,18,4,9,12,21,39,DDLWWDDLDLDWDWLWWDWDLWLWW,4,3,6,14,17,8,9,7,9,34,40,LLDLWWDDDDDWWWWLDWLWWWWWW,3,2,7,16,27,DLDLLWDLWWLLW,LLWDDWWLWWWW
-Livorno,Catania,1-0,/match/livorno/catania/2008,2008,26,serie_a,20,38,0,1,0,19,5,8,12,26,39,WLDDWLWLWLDLWDDDDLWLWDWLW,2,5,5,13,19,15,5,9,11,21,31,DDWLWDWDWDLDWWWWWDWDWLWWD,0,5,8,9,23,LDLLDWDDWLDL,DWDDDDWWWWWWW
-Juventus,Fiorentina,2-3,/match/juventus-fc/fiorentina/2008,2008,26,serie_a,20,38,2,2,3,3,13,9,3,44,21,WLLDWLDWWWDDWDWLWDDLDLWWD,8,4,1,24,4,4,12,8,5,37,23,WDDLDLDWDWLLDLWDWLWLLDWWW,5,5,2,14,9,WLWWWDWWWDDWD,DLLDLDWDLLDW
-Empoli,Siena,0-2,/match/empoli-fc/siena/2008,2008,26,serie_a,20,38,2,0,2,17,6,7,12,21,32,WLDDWWWLLWDWDWWDDDWLWWLWW,4,5,3,14,11,16,5,10,10,28,34,LWDDDWWWDDDLWDLDWLLWWWDDW,2,3,7,11,21,LDWLDDWDDLWW,WDWWDWLWLWWD
-Cagliari,Genoa,2-1,/match/cagliari/genoa/2008,2008,26,serie_a,20,38,0,2,1,20,4,6,15,19,42,LLDLWWWDWDLWLDWLWLWWDDWWW,3,3,6,9,15,9,9,8,8,30,33,LDDDWLWWDWDWLDLDWLWWWDLLW,3,5,4,13,17,LLWDLLDLLWDW,DDLWWWDDLWDL
-Udinese,Atalanta,2-0,/match/udinese/atalanta/2008,2008,26,serie_a,20,38,0,2,0,10,10,6,9,31,35,DLLWWWDDLWDLWWWWDLLDWLLLW,5,3,4,18,20,7,8,10,7,40,38,DWDWDWDDLDLWWWWLDLWDLDWDW,3,4,5,13,19,LWWDWWWDLDLL,DDDWLLWWDWLW
-Napoli,Inter,1-0,/match/napoli/internazionale/2008,2008,26,serie_a,20,38,0,1,0,11,8,6,11,36,40,LLWDWLWDWWDWWWWDDWDWWWLLW,6,3,3,18,13,1,18,7,0,50,15,DLWDWLWLDWDWWLWLWLWDWLWDD,7,5,0,20,7,LWWLWDWWDDWL,LDLLDDLLLDLD
-Inter,Reggina,2-0,/match/internazionale/reggina/2008,2008,27,serie_a,20,38,0,2,0,1,18,7,1,50,16,DLWDWLWLDWDWWLWLWLWDWLWDDW,11,2,0,30,8,19,4,10,12,21,39,DDLWWDDLDLDWDWLWWDWDLWLWWD,0,6,6,7,22,DWWWWWWWWWWWD,DWWDDDWWDDWW
-Palermo FC,Udinese,1-1,/match/palermo/udinese/2008,2008,27,serie_a,20,38,1,1,1,8,9,8,9,34,40,LLDLWWDDDDDWWWWLDWLWWWWWWD,6,5,2,18,13,7,11,6,9,33,35,DLLWWWDDLWDLWWWWDLLDWLLLWW,5,3,5,13,15,LDWDDDWWDLWWW,DLWDLDLWWLWLW
-Siena,Fiorentina,1-0,/match/siena/fiorentina/2008,2008,27,serie_a,20,38,0,1,0,15,6,10,10,30,34,LWDDDWWWDDDLWDLDWLLWWWDDWL,3,7,3,17,13,4,13,8,5,40,25,WDDLDLDWDWLLDLWDWLWLLDWWWL,6,5,2,17,11,LDDWDDLDDLWDW,DLLDLDWDLLDWL
-Parma,Sampdoria,1-2,/match/parma-fc/sampdoria/2008,2008,27,serie_a,20,38,2,1,2,14,5,10,11,31,41,DWDDWWLWWDDDWWWWWLWDLDDDWW,5,5,3,21,17,6,10,6,10,34,33,LDWDWWWWWLLWWWWDWWDWWWLDWD,3,1,9,11,23,DDWLWDDWWLLDW,LWWWWLWWWDWLW
-Napoli,Roma,0-2,/match/napoli/roma/2008,2008,27,serie_a,20,38,2,0,2,10,9,6,11,37,40,LLWDWLWDWWDWWWWDDWDWWWLLWW,7,3,3,19,13,2,16,7,3,46,24,LWLDDLLDLWDWLWDDWLWWWWWWDW,6,5,2,17,11,LWWLWDWWDDWLW,LLDLLDLDDLWWD
-Lazio,Livorno,2-0,/match/lazio/livorno/2008,2008,27,serie_a,20,38,0,2,0,13,7,9,10,29,33,DDDWWDLLLWLWWDWLDLDDWWWWWD,6,2,5,18,16,18,6,8,12,27,39,WLDDWLWLWLDLWDDDDLWLWDWLWW,3,3,7,13,20,DDWLLLWWLLWWW,WDWWWLLDDLWWW
-Empoli,Milan,1-3,/match/empoli-fc/milan/2008,2008,27,serie_a,20,38,2,1,3,17,6,7,13,21,34,WLDDWWWLLWDWDWWDDDWLWWLWWL,4,5,4,14,13,5,11,10,5,38,20,LDDDWDLLLLDWLDLDWWLWLWDWDD,7,3,3,23,10,LDWLDDWDDLWWL,LDWLLWLLWLLDD
-Catania,Cagliari,2-1,/match/catania/cagliari/2008,2008,27,serie_a,20,38,0,2,1,16,5,9,12,21,32,DDWLWDWDWDLDWWWWWDWDWLWWDW,5,4,3,12,8,20,5,6,15,21,43,LLDLWWWDWDLWLDWLWLWWDDWWWW,1,3,9,10,27,DLWWWLWWDDLD,LDWWWDWWWWDWW
-Torino,Atalanta,1-0,/match/torino-fc/atalanta/2008,2008,27,serie_a,20,38,0,1,0,12,4,16,6,29,32,DDDDWLWDWWDDDDWDDLWDLWDDDD,3,7,2,16,13,9,8,10,8,40,40,DWDWDWDDLDLWWWWLDLWDLDWDWW,3,4,6,13,21,DDLWWDDDLDWD,DDDWLLWWDWLWW
-Genoa,Juventus,0-2,/match/genoa/juventus-fc/2008,2008,27,serie_a,20,38,2,0,2,11,9,8,9,31,35,LDDDWLWWDWDWLDLDWLWWWDLLWW,6,3,4,17,16,3,13,9,4,46,24,WLLDWLDWWWDDWDWLWDDLDLWWDL,5,5,2,20,17,LDWWDDLLWWWLW,LDLDWDDLDLLW
-Udinese,Lazio,2-2,/match/udinese/lazio/2008,2008,28,serie_a,20,38,1,2,2,8,11,7,9,34,36,DLLWWWDDLWDLWWWWDLLDWLLLWWD,6,3,4,20,20,11,8,9,10,31,33,DDDWWDLLLWLWWDWLDLDDWWWWWDW,1,7,5,11,17,LWWDWWWDLDLLW,DWDLWWDDDDWWD
-Roma,Milan,2-1,/match/roma/milan/2008,2008,28,serie_a,20,38,0,2,1,2,17,7,3,48,24,LWLDDLLDLWDWLWDDWLWWWWWWDWL,10,2,1,29,13,5,12,10,5,41,21,LDDDWDLLLLDWLDLDWWLWLWDWDDL,8,3,3,26,11,WDLDWWWWWWWWW,LDWLLWLLWLLDDL
-Reggina,Siena,4-0,/match/reggina/siena/2008,2008,28,serie_a,20,38,0,4,0,19,4,10,13,21,41,DDLWWDDLDLDWDWLWWDWDLWLWWDW,4,4,6,14,17,14,7,10,10,31,34,LWDDDWWWDDDLWDLDWLLWWWDDWLW,3,3,7,13,21,DLDLLWDLWWLLWD,WDWWDWLWLWWDL
-Livorno,Parma,1-1,/match/livorno/parma-fc/2008,2008,28,serie_a,20,38,1,1,1,18,6,8,13,27,41,WLDDWLWLWLDLWDDDDLWLWDWLWWW,3,5,5,14,19,16,5,10,12,32,43,DWDDWWLWWDDDWWWWWLWDLDDDWWL,0,5,8,10,24,LDLLDWDDWLDLW,WDWWDWWWWDDDW
-Inter,Palermo FC,2-1,/match/internazionale/palermo/2008,2008,28,serie_a,20,38,0,2,1,1,19,7,1,52,16,DLWDWLWLDWDWWLWLWLWDWLWDDWW,12,2,0,32,8,7,9,9,9,35,41,LLDLWWDDDDDWWWWLDWLWWWWWWDD,3,3,7,16,27,DWWWWWWWWWWWDW,LLWDDWWLWWWWD
-Fiorentina,Genoa,3-1,/match/fiorentina/genoa/2008,2008,28,serie_a,20,38,0,3,1,4,13,8,6,40,26,WDDLDLDWDWLLDLWDWLWLLDWWWLW,7,3,3,23,14,12,9,8,10,31,37,LDDDWLWWDWDWLDLDWLWWWDLLWWL,3,5,5,14,19,WDDDWWLLWWLWW,DDLWWWDDLWDLW
-Cagliari,Torino,3-0,/match/cagliari/torino-fc/2008,2008,28,serie_a,20,38,0,3,0,20,5,6,16,22,45,LLDLWWWDWDLWLDWLWLWWDDWWWWW,4,3,6,11,16,10,5,16,6,30,32,DDDDWLWDWWDDDDWDDLWDLWDDDDW,1,9,4,13,19,LLWDLLDLLWDWW,DDWDWDDWDWLDDD
-Atalanta,Empoli,4-1,/match/atalanta/empoli-fc/2008,2008,28,serie_a,20,38,0,4,1,9,8,10,9,40,41,DWDWDWDDLDLWWWWLDLWDLDWDWWW,5,6,2,27,19,17,6,7,14,22,37,WLDDWWWLLWDWDWWDDDWLWWLWWLL,2,2,9,7,21,WWDDDWWLLDDDW,WDWWLWWWDWWLW
-Sampdoria,Catania,3-1,/match/sampdoria/catania/2008,2008,28,serie_a,20,38,0,3,1,6,11,6,10,36,34,LDWDWWWWWLLWWWWDWWDWWWLDWDL,7,5,1,23,10,15,6,9,12,23,33,DDWLWDWDWDLDWWWWWDWDWLWWDWW,0,5,9,9,24,DDWWLWWDWWWDD,DWDDDDWWWWWWWW
-Juventus,Napoli,1-0,/match/juventus-fc/napoli/2008,2008,28,serie_a,20,38,0,1,0,3,14,9,4,48,24,WLLDWLDWWWDDWDWLWDDLDLWWDLL,8,4,2,26,7,13,9,6,12,37,42,LLWDWLWDWWDWWWWDDWDWWWLLWWL,2,3,8,18,27,WLWWWDWWWDDWDL,LDWDWWWDWWWLW
-Milan,Sampdoria,1-2,/match/milan/sampdoria/2008,2008,29,serie_a,20,38,2,1,2,6,12,10,6,42,23,LDDDWDLLLLDWLDLDWWLWLWDWDDLW,4,7,2,15,10,5,12,6,10,39,35,LDWDWWWWWLLWWWWDWWDWWWLDWDLW,4,1,9,13,24,DDDLLDDDWWWWD,LWWWWLWWWDWLWL
-Parma,Palermo FC,2-1,/match/parma-fc/palermo/2008,2008,29,serie_a,20,38,0,2,1,16,5,11,12,33,44,DWDDWWLWWDDDWWWWWLWDLDDDWWLD,5,5,4,22,19,9,9,9,10,36,43,LLDLWWDDDDDWWWWLDWLWWWWWWDDW,3,3,8,17,29,DDWLWDDWWLLDWL,LLWDDWWLWWWWDW
-Napoli,Fiorentina,2-0,/match/napoli/fiorentina/2008,2008,29,serie_a,20,38,0,2,0,13,9,6,13,37,43,LLWDWLWDWWDWWWWDDWDWWWLLWWLW,7,3,4,19,15,4,14,8,6,43,27,WDDLDLDWDWLLDLWDWLWLLDWWWLWW,6,5,3,17,12,LWWLWDWWDDWLWL,DLLDLDWDLLDWLW
-Livorno,Reggina,1-1,/match/livorno/reggina/2008,2008,29,serie_a,20,38,1,1,1,18,6,9,13,28,42,WLDDWLWLWLDLWDDDDLWLWDWLWWWD,3,6,5,15,20,17,5,10,13,25,41,DDLWWDDLDLDWDWLWWDWDLWLWWDWW,0,6,7,7,24,LDLLDWDDWLDLWD,DWWDDDWWDDWWW
-Torino,Udinese,0-1,/match/torino-fc/udinese/2008,2008,29,serie_a,20,38,2,0,1,11,5,16,7,30,35,DDDDWLWDWWDDDDWDDLWDLWDDDDWW,4,7,2,17,13,7,11,8,9,36,38,DLLWWWDDLWDLWWWWDLLDWLLLWWDD,5,4,5,14,16,DDLWWDDDLDWDW,DLWDLDLWWLWLWD
-Genoa,Inter,1-1,/match/genoa/internazionale/2008,2008,29,serie_a,20,38,1,1,1,12,9,8,11,32,40,LDDDWLWWDWDWLDLDWLWWWDLLWWLW,6,3,5,17,18,1,20,7,1,54,17,DLWDWLWLDWDWWLWLWLWDWLWDDWWW,7,5,1,20,8,LDWWDDLLWWWLWL,LDLLDDLLLDLDW
-Empoli,Juventus,0-0,/match/empoli-fc/juventus-fc/2008,2008,29,serie_a,20,38,1,0,0,19,6,7,15,23,41,WLDDWWWLLWDWDWWDDDWLWWLWWLLW,4,5,5,15,16,3,15,9,4,49,24,WLLDWLDWWWDDWDWLWDDLDLWWDLLW,6,5,2,22,17,LDWLDDWDDLWWLL,LDLDWDDLDLLWL
-Catania,Siena,0-0,/match/catania/siena/2008,2008,29,serie_a,20,38,1,0,0,15,6,9,13,24,36,DDWLWDWDWDLDWWWWWDWDWLWWDWWW,6,4,3,14,9,14,7,10,11,31,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWW,3,3,8,13,25,DLWWWLWWDDLDW,WDWWDWLWLWWDLW
-Cagliari,Atalanta,1-0,/match/cagliari/atalanta/2008,2008,29,serie_a,20,38,0,1,0,20,6,6,16,25,45,LLDLWWWDWDLWLDWLWLWWDDWWWWWW,5,3,6,14,16,8,9,10,9,44,42,DWDWDWDDLDLWWWWLDLWDLDWDWWWW,3,4,7,13,22,LLWDLLDLLWDWWW,DDDWLLWWDWLWWW
-Lazio,Roma,3-2,/match/lazio/roma/2008,2008,29,serie_a,20,38,0,3,2,10,8,10,10,33,35,DDDWWDLLLWLWWDWLDLDDWWWWWDWD,7,2,5,20,16,2,18,7,3,50,25,LWLDDLLDLWDWLWDDWLWWWWWWDWLW,7,5,2,19,11,DDWLLLWWLLWWWW,LLDLLDLDDLWWDL
-Roma,Empoli,2-1,/match/roma/empoli-fc/2008,2008,30,serie_a,20,38,0,2,1,2,18,7,4,52,28,LWLDDLLDLWDWLWDDWLWWWWWWDWLWW,11,2,1,31,14,20,6,8,15,23,41,WLDDWWWLLWDWDWWDDDWLWWLWWLLWD,2,2,10,8,25,WDLDWWWWWWWWWW,WDWWLWWWDWWLWW
-Torino,Milan,0-1,/match/torino-fc/milan/2008,2008,30,serie_a,20,38,2,0,1,13,5,16,8,30,36,DDDDWLWDWWDDDDWDDLWDLWDDDDWWL,4,7,3,17,14,6,12,10,7,43,25,LDDDWDLLLLDWLDLDWWLWLWDWDDLWL,8,3,4,27,13,DDLWWDDDLDWDWL,LDWLLWLLWLLDDLW
-Siena,Parma,2-0,/match/siena/parma-fc/2008,2008,30,serie_a,20,38,0,2,0,14,7,11,11,31,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWWD,4,7,3,18,13,15,6,11,12,35,45,DWDDWWLWWDDDWWWWWLWDLDDDWWLDW,0,6,8,11,25,LDDWDDLDDLWDWW,WDWWDWWWWDDDWD
-Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/2008,2008,30,serie_a,20,38,1,1,1,5,13,6,10,41,36,LDWDWWWWWLLWWWWDWWDWWWLDWDLWL,8,5,1,26,11,19,7,6,16,26,45,LLDLWWWDWDLWLDWLWLWWDDWWWWWWW,1,3,10,11,29,DDWWLWWDWWWDDW,LDWWWDWWWWDWWW
-Reggina,Napoli,1-1,/match/reggina/napoli/2008,2008,30,serie_a,20,38,1,1,1,17,5,11,13,26,42,DDLWWDDLDLDWDWLWWDWDLWLWWDWWD,5,4,6,18,17,10,10,6,13,39,43,LLWDWLWDWWDWWWWDDWDWWWLLWWLWW,2,3,9,18,28,DLDLLWDLWWLLWDW,LDWDWWWDWWWLWW
-Palermo FC,Genoa,2-3,/match/palermo/genoa/2008,2008,30,serie_a,20,38,2,2,3,11,9,9,11,37,45,LLDLWWDDDDDWWWWLDWLWWWWWWDDWW,6,6,2,19,14,12,9,9,11,33,41,LDDDWLWWDWDWLDLDWLWWWDLLWWLWD,3,5,6,15,22,LDWDDDWWDLWWWD,DDLWWWDDLWDLWW
-Fiorentina,Lazio,1-0,/match/fiorentina/lazio/2008,2008,30,serie_a,20,38,0,1,0,4,14,8,7,43,29,WDDLDLDWDWLLDLWDWLWLLDWWWLWWW,8,3,3,26,15,9,9,10,10,36,37,DDDWWDLLLWLWWDWLDLDDWWWWWDWDW,1,8,5,13,19,WDDDWWLLWWLWWW,DWDLWWDDDDWWDD
-Atalanta,Catania,0-0,/match/atalanta/catania/2008,2008,30,serie_a,20,38,1,0,0,8,9,10,10,44,43,DWDWDWDDLDLWWWWLDLWDLDWDWWWWW,6,6,2,31,20,16,6,10,13,24,36,DDWLWDWDWDLDWWWWWDWDWLWWDWWWD,0,5,10,10,27,WWDDDWWLLDDDWW,DWDDDDWWWWWWWWW
-Udinese,Livorno,2-0,/match/udinese/livorno/2008,2008,30,serie_a,20,38,0,2,0,7,12,8,9,37,38,DLLWWWDDLWDLWWWWDLLDWLLLWWDDL,6,4,4,22,22,18,6,10,13,29,43,WLDDWLWLWLDLWDDDDLWLWDWLWWWDD,3,3,8,13,22,LWWDWWWDLDLLWD,WDWWWLLDDLWWWW
-Inter,Juventus,1-2,/match/internazionale/juventus-fc/2008,2008,30,serie_a,20,38,2,1,2,1,20,8,1,55,18,DLWDWLWLDWDWWLWLWLWDWLWDDWWWD,13,2,0,34,9,3,15,10,4,49,24,WLLDWLDWWWDDWDWLWDDLDLWWDLLWD,6,6,2,22,17,DWWWWWWWWWWWDWW,LDLDWDDLDLLWLD
-Cagliari,Roma,1-1,/match/cagliari/roma/2008,2008,31,serie_a,20,38,1,1,1,18,7,7,16,27,46,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWD,6,3,6,15,16,2,19,7,4,54,29,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWW,7,5,3,21,14,LLWDLLDLLWDWWWW,LLDLLDLDDLWWDLW
-Lazio,Inter,1-1,/match/lazio/internazionale/2008,2008,31,serie_a,20,38,1,1,1,9,9,10,11,36,38,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWW,8,2,5,23,18,1,20,8,2,56,20,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDL,7,6,1,21,9,DDWLLLWWLLWWWWW,LDLLDDLLLDLDWD
-Udinese,Fiorentina,3-1,/match/udinese/fiorentina/2008,2008,31,serie_a,20,38,0,3,1,6,13,8,9,39,38,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLW,7,4,4,24,22,4,15,8,7,44,29,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWW,6,5,4,17,14,LWWDWWWDLDLLWDW,DLLDLDWDLLDWLWW
-Livorno,Siena,0-0,/match/livorno/siena/2008,2008,31,serie_a,20,38,1,0,0,19,6,10,14,29,45,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDW,3,7,5,16,21,13,8,11,11,33,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDW,3,4,8,13,25,LDLLDWDDWLDLWDD,WDWWDWLWLWWDLWD
-Genoa,Reggina,2-0,/match/genoa/reggina/2008,2008,31,serie_a,20,38,0,2,0,11,10,9,11,36,43,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDL,6,4,5,18,19,17,5,12,13,27,43,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDD,0,7,7,8,25,LDWWDDLLWWWLWLD,DWWDDDWWDDWWWD
-Empoli,Sampdoria,0-2,/match/empoli-fc/sampdoria/2008,2008,31,serie_a,20,38,2,0,2,20,6,8,16,24,43,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDW,4,6,5,15,16,5,13,7,10,42,37,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLD,5,1,9,15,25,LDWLDDWDDLWWLLD,LWWWWLWWWDWLWLL
-Catania,Torino,1-2,/match/catania/torino-fc/2008,2008,31,serie_a,20,38,2,1,2,16,6,11,13,24,36,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDD,6,5,3,14,9,14,5,16,9,30,37,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLL,1,9,5,13,22,DLWWWLWWDDLDWD,DDWDWDDWDWLDDDW
-Milan,Atalanta,1-2,/match/milan/atalanta/2008,2008,31,serie_a,20,38,2,1,2,7,13,10,7,44,25,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLL,4,7,3,16,12,8,9,11,10,44,43,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWD,3,4,8,13,23,DDDLLDDDWWWWDL,DDDWLLWWDWLWWWW
-Napoli,Palermo FC,1-0,/match/napoli/palermo/2008,2008,31,serie_a,20,38,0,1,0,10,10,7,13,40,44,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWD,8,3,4,21,15,12,9,9,12,39,48,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWL,3,3,9,18,31,LWWLWDWWDDWLWLW,LLWDDWWLWWWWDWW
-Juventus,Parma,3-0,/match/juventus-fc/parma-fc/2008,2008,31,serie_a,20,38,0,3,0,3,16,10,4,51,25,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDL,9,4,2,27,7,15,6,11,13,35,47,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWW,0,6,9,11,27,WLWWWDWWWDDWDLW,WDWWDWWWWDDDWDW
-Roma,Genoa,3-2,/match/roma/genoa/2008,2008,32,serie_a,20,38,0,3,2,2,19,8,4,55,30,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWD,12,2,1,33,15,10,11,9,11,38,43,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLW,4,5,6,18,24,WDLDWWWWWWWWWWW,DDLWWWDDLWDLWWL
-Milan,Cagliari,3-1,/match/milan/cagliari/2008,2008,32,serie_a,20,38,0,3,1,7,13,10,8,45,27,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLL,4,7,4,17,14,17,7,8,16,28,47,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDD,1,4,10,12,30,DDDLLDDDWWWWDLL,LDWWWDWWWWDWWWD
-Siena,Udinese,1-1,/match/siena/udinese/2008,2008,32,serie_a,20,38,1,1,1,13,8,12,11,33,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWD,5,7,3,20,13,6,14,8,9,42,39,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWW,6,4,5,15,16,LDDWDDLDDLWDWWW,DLWDLDLWWLWLWDL
-Sampdoria,Livorno,2-0,/match/sampdoria/livorno/2008,2008,32,serie_a,20,38,0,2,0,5,14,7,10,44,37,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDL,8,6,1,27,12,19,6,11,14,29,45,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWD,3,3,9,13,24,DDWWLWWDWWWDDWD,WDWWWLLDDLWWWWW
-Torino,Empoli,0-1,/match/torino-fc/empoli-fc/2008,2008,32,serie_a,20,38,2,0,1,14,6,16,9,32,38,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLL,4,7,4,17,15,20,6,8,17,24,45,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWL,2,2,11,9,27,DDLWWDDDLDWDWLL,WDWWLWWWDWWLWWW
-Fiorentina,Reggina,2-0,/match/fiorentina/reggina/2008,2008,32,serie_a,20,38,0,2,0,4,15,8,8,45,32,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWW,9,3,3,27,15,18,5,12,14,27,45,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDW,0,7,8,8,27,WDDDWWLLWWLWWWW,DWWDDDWWDDWWWDW
-Catania,Napoli,3-0,/match/catania/napoli/2008,2008,32,serie_a,20,38,0,3,0,16,6,11,14,25,38,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDL,6,5,4,15,11,8,11,7,13,41,44,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDW,2,4,9,19,29,DLWWWLWWDDLDWDL,LDWDWWWDWWWLWWD
-Atalanta,Inter,0-2,/match/atalanta/internazionale/2008,2008,32,serie_a,20,38,2,0,2,9,10,11,10,46,44,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDL,6,7,2,31,20,1,20,9,2,57,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLD,7,7,1,22,10,WWDDDWWLLDDDWWD,LDLLDDLLLDLDWDD
-Parma,Lazio,2-2,/match/parma-fc/lazio/2008,2008,32,serie_a,20,38,1,2,2,15,6,11,14,35,50,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWW,6,5,4,24,20,11,9,11,11,37,39,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWD,1,8,6,13,20,DDWLWDDWWLLDWLW,DWDLWWDDDDWWDDW
-Palermo FC,Juventus,3-2,/match/palermo/juventus-fc/2008,2008,32,serie_a,20,38,0,3,2,12,9,9,13,39,49,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLW,6,6,3,21,17,3,17,10,4,54,25,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLW,7,6,2,24,18,LDWDDDWWDLWWWDL,LDLDWDDLDLLWLDL
-Palermo FC,Catania,1-0,/match/palermo/catania/2008,2008,33,serie_a,20,38,0,1,0,10,10,9,13,42,51,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWW,7,6,3,24,19,14,7,11,14,28,38,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLW,0,6,10,10,27,LDWDDDWWDLWWWDLW,DWDDDDWWWWWWWWWD
-Juventus,Milan,3-2,/match/juventus-fc/milan/2008,2008,33,serie_a,20,38,0,3,2,3,17,10,5,56,28,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWW,10,4,2,30,7,7,14,10,8,48,28,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLW,9,3,4,28,13,WLWWWDWWWDDWDLWW,LDWLLWLLWLLDDLWL
-Genoa,Torino,3-0,/match/genoa/torino-fc/2008,2008,33,serie_a,20,38,0,3,0,12,11,9,12,40,46,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWW,7,4,5,20,19,15,6,16,10,32,39,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLL,2,9,5,15,23,LDWWDDLLWWWLWLDW,DDWDWDDWDWLDDDWL
-Reggina,Sampdoria,1-0,/match/reggina/sampdoria/2008,2008,33,serie_a,20,38,0,1,0,18,5,12,15,27,47,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWW,5,5,6,19,18,5,15,7,10,46,37,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLW,6,1,9,17,25,DLDLLWDLWWLLWDWD,LWWWWLWWWDWLWLLL
-Napoli,Atalanta,2-0,/match/napoli/atalanta/2008,2008,33,serie_a,20,38,0,2,0,8,11,7,14,41,47,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWW,9,3,4,22,15,9,10,11,11,46,46,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLL,4,4,8,15,24,LWWLWDWWDDWLWLWW,DDDWLLWWDWLWWWWL
-Livorno,Cagliari,1-2,/match/livorno/cagliari/2008,2008,33,serie_a,20,38,2,1,2,19,6,11,15,29,47,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDW,3,8,5,16,21,17,7,8,17,29,50,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDW,1,4,11,13,33,LDLLDWDDWLDLWDDD,LDWWWDWWWWDWWWDW
-Empoli,Parma,1-1,/match/empoli-fc/parma-fc/2008,2008,33,serie_a,20,38,1,1,1,20,7,8,17,25,45,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLL,4,6,6,15,18,16,6,12,14,37,52,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWD,0,6,10,11,30,LDWLDDWDDLWWLLDL,WDWWDWWWWDDDWDWW
-Lazio,Siena,1-1,/match/lazio/siena/2008,2008,33,serie_a,20,38,1,1,1,11,9,12,11,39,41,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDD,8,3,5,24,19,13,8,13,11,34,39,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDD,3,5,8,13,25,DDWLLLWWLLWWWWWD,WDWWDWLWLWWDLWDD
-Udinese,Roma,1-3,/match/udinese/roma/2008,2008,33,serie_a,20,38,2,1,3,6,14,9,9,43,40,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWD,8,4,4,27,23,2,20,8,4,58,32,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDW,7,6,3,22,15,LWWDWWWDLDLLWDWW,LLDLLDLDDLWWDLWD
-Inter,Fiorentina,2-0,/match/internazionale/fiorentina/2008,2008,33,serie_a,20,38,0,2,0,1,21,9,2,59,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDL,13,2,1,35,11,4,16,8,8,47,32,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWW,6,5,5,18,17,DWWWWWWWWWWWDWWL,DLLDLDWDLLDWLWWW
-Roma,Livorno,1-1,/match/roma/livorno/2008,2008,34,serie_a,20,38,1,1,1,2,21,8,4,61,33,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWL,13,2,1,36,17,20,6,11,16,30,49,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWL,3,3,10,13,26,WDLDWWWWWWWWWWWW,WDWWWLLDDLWWWWWW
-Fiorentina,Palermo FC,1-0,/match/fiorentina/palermo/2008,2008,34,serie_a,20,38,0,1,0,4,16,8,9,47,34,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWW,10,3,3,29,15,10,11,9,13,43,51,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWW,3,3,10,18,32,WDDDWWLLWWLWWWWW,LLWDDWWLWWWWDWWW
-Milan,Reggina,5-1,/match/milan/reggina/2008,2008,34,serie_a,20,38,0,5,1,7,14,10,9,50,31,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWW,5,7,4,20,15,17,6,12,15,28,47,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWW,0,7,9,8,29,DDDLLDDDWWWWDLLW,DWWDDDWWDDWWWDWW
-Atalanta,Juventus,0-4,/match/atalanta/juventus-fc/2008,2008,34,serie_a,20,38,2,0,4,12,10,11,12,46,48,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLW,6,7,3,31,22,3,18,10,5,59,30,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWW,7,6,3,26,21,WWDDDWWLLDDDWWDL,LDLDWDDLDLLWLDLW
-Cagliari,Empoli,2-0,/match/cagliari/empoli-fc/2008,2008,34,serie_a,20,38,0,2,0,18,8,8,17,31,51,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWL,6,4,6,16,17,19,7,9,17,26,46,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLD,3,2,11,10,27,LLWDLLDLLWDWWWWD,WDWWLWWWDWWLWWWL
-Siena,Genoa,0-1,/match/siena/genoa/2008,2008,34,serie_a,20,38,2,0,1,13,8,14,11,35,40,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDD,5,8,3,21,14,9,12,9,12,43,46,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWW,4,5,7,20,27,LDDWDDLDDLWDWWWD,DDLWWWDDLWDLWWLW
-Parma,Napoli,1-2,/match/parma-fc/napoli/2008,2008,34,serie_a,20,38,2,1,2,16,6,13,14,38,53,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDD,6,6,4,26,22,8,12,7,14,43,47,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWW,2,4,10,19,32,DDWLWDDWWLLDWLWD,LDWDWWWDWWWLWWDW
-Sampdoria,Udinese,3-0,/match/sampdoria/udinese/2008,2008,34,serie_a,20,38,0,3,0,5,15,7,11,46,38,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWW,9,6,1,29,12,6,14,9,10,44,43,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDL,6,5,5,16,17,DDWWLWWDWWWDDWDW,DLWDLDLWWLWLWDLD
-Catania,Lazio,1-0,/match/catania/lazio/2008,2008,34,serie_a,20,38,0,1,0,14,7,11,15,28,39,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWW,7,5,4,18,11,11,9,13,11,40,42,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDD,1,9,6,15,22,DLWWWLWWDDLDWDLW,DWDLWWDDDDWWDDWD
-Torino,Inter,0-1,/match/torino-fc/internazionale/2008,2008,34,serie_a,20,38,2,0,1,15,6,16,11,32,42,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLW,4,7,5,17,16,1,22,9,2,61,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLW,8,7,1,24,10,DDLWWDDDLDWDWLLL,LDLLDDLLLDLDWDDL
-Udinese,Catania,2-1,/match/udinese/catania/2008,2008,35,serie_a,20,38,0,2,1,7,14,9,11,44,46,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLW,8,4,5,28,26,14,8,11,15,29,39,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWW,0,6,11,10,28,LWWDWWWDLDLLWDWWL,DWDDDDWWWWWWWWWDW
-Reggina,Parma,2-1,/match/reggina/parma-fc/2008,2008,35,serie_a,20,38,0,2,1,18,6,12,16,29,52,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWW,6,5,6,20,18,17,6,13,15,39,55,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDL,0,7,10,12,31,DLDLLWDLWWLLWDWDW,WDWWDWWWWDDDWDWWD
-Palermo FC,Atalanta,0-0,/match/palermo/atalanta/2008,2008,35,serie_a,20,38,1,0,0,10,11,9,14,43,52,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWW,8,6,3,25,19,12,10,11,13,46,52,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWL,4,4,9,15,26,LDWDDDWWDLWWWDLWW,DDDWLLWWDWLWWWWLW
-Napoli,Siena,0-0,/match/napoli/siena/2008,2008,35,serie_a,20,38,1,0,0,8,13,7,14,45,48,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWL,10,3,4,24,15,13,8,14,12,35,41,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDL,3,6,8,14,26,LWWLWDWWDDWLWLWWW,WDWWDWLWLWWDLWDDD
-Livorno,Milan,1-4,/match/livorno/milan/2008,2008,35,serie_a,20,38,2,1,4,20,6,12,16,31,50,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLD,3,8,6,17,23,6,15,10,9,55,32,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWW,9,3,5,30,16,LDLLDWDDWLDLWDDDL,LDWLLWLLWLLDDLWLW
-Inter,Cagliari,2-1,/match/internazionale/cagliari/2008,2008,35,serie_a,20,38,0,2,1,1,23,9,2,62,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWL,14,2,1,37,11,15,9,8,17,33,51,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLW,2,4,11,15,34,DWWWWWWWWWWWDWWLW,LDWWWDWWWWDWWWDWL
-Genoa,Empoli,0-1,/match/genoa/empoli-fc/2008,2008,35,serie_a,20,38,2,0,1,9,13,9,12,44,46,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWL,8,4,5,23,19,19,7,9,18,26,48,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDW,3,2,12,10,29,LDWWDDLLWWWLWLDWW,WDWWLWWWDWWLWWWLW
-Fiorentina,Sampdoria,2-2,/match/fiorentina/sampdoria/2008,2008,35,serie_a,20,38,1,2,2,4,17,8,9,48,34,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWW,11,3,3,30,15,5,16,7,11,49,38,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWW,6,1,10,17,26,WDDDWWLLWWLWWWWWW,LWWWWLWWWDWLWLLLW
-Juventus,Lazio,5-2,/match/juventus-fc/lazio/2008,2008,35,serie_a,20,38,0,5,2,3,19,10,5,63,30,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWL,11,4,2,33,9,11,9,13,12,40,43,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDW,1,9,7,15,23,WLWWWDWWWDDWDLWWW,DWDLWWDDDDWWDDWDW
-Roma,Torino,4-1,/match/roma/torino-fc/2008,2008,35,serie_a,20,38,0,4,1,2,21,9,4,62,34,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLD,13,3,1,37,18,16,6,16,12,32,43,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWL,2,9,6,15,26,WDLDWWWWWWWWWWWWD,DDWDWDDWDWLDDDWLW
-Milan,Inter,2-1,/match/milan/internazionale/2008,2008,36,serie_a,20,38,0,2,1,6,16,10,9,59,33,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWWL,6,7,4,25,16,1,24,9,2,64,22,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWLW,9,7,1,25,10,DDDLLDDDWWWWDLLWW,LDLLDDLLLDLDWDDLL
-Siena,Juventus,1-0,/match/siena/juventus-fc/2008,2008,36,serie_a,20,38,0,1,0,13,8,15,12,35,41,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDLD,5,8,4,21,15,3,20,10,5,68,32,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWLW,8,6,3,30,21,LDDWDDLDDLWDWWWDL,LDLDWDDLDLLWLDLWL
-Parma,Genoa,1-0,/match/parma-fc/genoa/2008,2008,36,serie_a,20,38,0,1,0,18,6,13,16,40,57,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDLW,6,6,5,27,24,9,13,9,13,44,47,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWLL,5,5,7,21,27,DDWLWDDWWLLDWLWDL,DDLWWWDDLWDLWWLWL
-Torino,Napoli,2-1,/match/torino-fc/napoli/2008,2008,36,serie_a,20,38,0,2,1,17,6,16,13,33,47,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWLW,4,7,6,17,17,8,13,8,14,45,48,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWLD,3,4,10,21,33,DDLWWDDDLDWDWLLLL,LDWDWWWDWWWLWWDWL
-Empoli,Udinese,0-1,/match/empoli-fc/udinese/2008,2008,36,serie_a,20,38,2,0,1,19,8,9,18,27,48,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDWL,4,7,6,16,19,7,15,9,11,46,47,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLWW,6,5,6,16,20,LDWLDDWDDLWWLLDLD,DLWDLDLWWLWLWDLDW
-Catania,Reggina,1-2,/match/catania/reggina/2008,2008,36,serie_a,20,38,2,1,2,14,8,11,16,30,41,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWWW,8,5,4,19,11,15,7,12,16,31,53,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWWW,0,7,10,9,34,DLWWWLWWDDLDWDLWW,DWWDDDWWDDWWWDWWW
-Cagliari,Fiorentina,2-1,/match/cagliari/fiorentina/2008,2008,36,serie_a,20,38,0,2,1,16,9,8,18,34,53,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLWW,7,4,6,18,17,4,17,9,9,50,36,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWWD,6,5,6,18,19,LLWDLLDLLWDWWWWDW,DLLDLDWDLLDWLWWWW
-Atalanta,Livorno,3-2,/match/atalanta/livorno/2008,2008,36,serie_a,20,38,0,3,2,11,10,12,13,46,52,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWLD,6,7,4,31,26,20,6,12,17,32,54,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLDL,3,4,10,14,27,WWDDDWWLLDDDWWDLL,WDWWWLLDDLWWWWWWD
-Sampdoria,Roma,0-3,/match/sampdoria/roma/2008,2008,36,serie_a,20,38,2,0,3,5,16,8,11,51,40,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWWD,10,6,1,32,12,2,22,9,4,66,35,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLDW,8,6,3,25,16,DDWWLWWDWWWDDWDWW,LLDLLDLDDLWWDLWDL
-Lazio,Palermo FC,1-2,/match/lazio/palermo/2008,2008,36,serie_a,20,38,2,1,2,12,9,13,13,42,48,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDWW,8,4,5,25,20,10,11,10,14,43,52,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWWD,3,3,11,18,33,DDWLLLWWLLWWWWWDD,LLWDDWWLWWWWDWWWW
-Udinese,Cagliari,0-2,/match/udinese/cagliari/2008,2008,37,serie_a,20,38,2,0,2,7,16,9,11,47,47,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLWWL,9,4,5,30,27,15,10,8,18,36,54,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLWWW,2,4,12,16,36,LWWDWWWDLDLLWDWWLW,LDWWWDWWWWDWWWDWLW
-Reggina,Empoli,2-0,/match/reggina/empoli-fc/2008,2008,37,serie_a,20,38,0,2,0,16,8,12,16,33,54,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWWWL,7,5,6,22,19,19,8,9,19,27,49,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDWLL,4,2,12,11,29,DLDLLWDLWWLLWDWDWW,WDWWLWWWDWWLWWWLWL
-Palermo FC,Sampdoria,0-2,/match/palermo/sampdoria/2008,2008,37,serie_a,20,38,2,0,2,9,12,10,14,45,53,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWWDL,8,7,3,25,19,5,16,8,12,51,43,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWWDL,6,2,10,19,28,LDWDDDWWDLWWWDLWWD,LWWWWLWWWDWLWLLLWD
-Napoli,Milan,3-1,/match/napoli/milan/2008,2008,37,serie_a,20,38,0,3,1,8,13,8,15,46,50,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWLDW,10,4,4,24,15,6,17,10,9,61,34,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWWLW,10,3,5,34,17,LWWLWDWWDDWLWLWWWD,LDWLLWLLWLLDDLWLWL
-Livorno,Torino,0-1,/match/livorno/torino-fc/2008,2008,37,serie_a,20,38,2,0,1,20,6,12,18,34,57,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLDLW,3,8,7,18,27,17,7,16,13,35,48,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWLWW,2,9,7,16,30,LDLLDWDDWLDLWDDDLL,DDWDWDDWDWLDDDWLWW
-Juventus,Catania,1-1,/match/juventus-fc/catania/2008,2008,37,serie_a,20,38,1,1,1,3,20,10,6,68,33,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWLWW,12,4,2,38,11,14,8,11,17,31,43,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWWWL,0,6,12,11,30,WLWWWDWWWDDWDLWWWW,DWDDDDWWWWWWWWWDWW
-Inter,Siena,2-2,/match/internazionale/siena/2008,2008,37,serie_a,20,38,1,2,2,1,24,9,3,65,24,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWLWW,15,2,1,39,12,12,9,15,12,36,41,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDLDW,3,7,8,14,26,DWWWWWWWWWWWDWWLWW,WDWWDWLWLWWDLWDDDD
-Fiorentina,Parma,3-1,/match/fiorentina/parma-fc/2008,2008,37,serie_a,20,38,0,3,1,4,17,9,10,51,38,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWWDW,11,4,3,32,17,18,7,13,16,41,57,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDLWW,0,7,11,13,33,WDDDWWLLWWLWWWWWWD,WDWWDWWWWDDDWDWWDW
-Genoa,Lazio,0-2,/match/genoa/lazio/2008,2008,37,serie_a,20,38,2,0,2,11,13,9,14,44,48,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWLLW,8,4,6,23,20,13,9,13,14,43,50,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDWWL,1,9,8,17,28,LDWWDDLLWWWLWLDWWL,DWDLWWDDDDWWDDWDWW
-Roma,Atalanta,2-1,/match/roma/atalanta/2008,2008,37,serie_a,20,38,0,2,1,2,23,9,4,69,35,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLDWL,14,3,1,41,19,10,11,12,13,49,54,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWLDW,4,5,9,15,26,WDLDWWWWWWWWWWWWDW,DDDWLLWWDWLWWWWLWD
-Sampdoria,Juventus,3-3,/match/sampdoria/juventus-fc/2008,2008,38,serie_a,20,38,1,3,3,5,17,8,12,53,43,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWWDLL,10,6,2,32,15,3,20,11,6,69,34,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWLWWD,8,6,4,30,22,DDWWLWWDWWWDDWDWWL,LDLDWDDLDLLWLDLWLW
-Siena,Palermo FC,2-2,/match/siena/palermo/2008,2008,38,serie_a,20,38,1,2,2,12,9,16,12,38,43,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDLDWD,6,8,4,22,15,9,12,10,15,45,55,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWWDLL,4,3,11,20,34,LDDWDDLDDLWDWWWDLW,LLWDDWWLWWWWDWWWWL
-Parma,Inter,0-2,/match/parma-fc/internazionale/2008,2008,38,serie_a,20,38,2,0,2,18,7,13,17,42,60,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDLWWW,7,6,5,28,24,1,24,10,3,67,26,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWLWWD,9,7,2,26,12,DDWLWDDWWLLDWLWDLW,LDLLDDLLLDLDWDDLLW
-Empoli,Livorno,2-1,/match/empoli-fc/livorno/2008,2008,38,serie_a,20,38,0,2,1,19,8,9,20,27,51,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDWLLW,4,7,7,16,20,20,6,12,19,34,58,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLDLWL,3,4,11,16,30,LDWLDDWDDLWWLLDLDL,WDWWWLLDDLWWWWWWDW
-Cagliari,Reggina,2-2,/match/cagliari/reggina/2008,2008,38,serie_a,20,38,1,2,2,15,11,8,18,38,54,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLWWWL,8,4,6,20,18,14,9,12,16,35,54,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWWWLW,1,7,10,11,35,LLWDLLDLLWDWWWWDWW,DWWDDDWWDDWWWDWWWL
-Atalanta,Genoa,2-0,/match/atalanta/genoa/2008,2008,38,serie_a,20,38,0,2,0,11,11,12,14,50,56,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWLDWW,7,7,4,34,28,10,13,9,15,44,50,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWLLWL,5,5,8,21,28,WWDDDWWLLDDDWWDLLW,DDLWWWDDLWDLWWLWLW
-Milan,Udinese,4-1,/match/milan/udinese/2008,2008,38,serie_a,20,38,0,4,1,6,17,10,10,62,37,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWWLWW,7,7,4,27,17,7,16,9,12,47,49,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLWWLL,7,5,6,17,20,DDDLLDDDWWWWDLLWWW,DLWDLDLWWLWLWDLDWL
-Torino,Fiorentina,0-1,/match/torino-fc/fiorentina/2008,2008,38,serie_a,20,38,2,0,1,17,8,16,13,36,48,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWLWWL,5,7,6,19,18,4,18,9,10,54,39,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWWDWW,6,5,7,19,21,DDLWWDDDLDWDWLLLLW,DLLDLDWDLLDWLWWWWW
-Catania,Roma,1-1,/match/catania/roma/2008,2008,38,serie_a,20,38,1,1,1,16,8,12,17,32,44,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWWWLD,8,5,5,20,13,2,24,9,4,71,36,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLDWLW,9,6,3,28,16,DLWWWLWWDDLDWDLWWL,LLDLLDLDDLWWDLWDLL
-Lazio,Napoli,2-1,/match/lazio/napoli/2008,2008,38,serie_a,20,38,0,2,1,13,10,13,14,45,50,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDWWLL,8,4,6,26,22,8,14,8,15,49,51,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWLDWW,3,4,11,22,35,DDWLLLWWLLWWWWWDDL,LDWDWWWDWWWLWWDWLW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Lazio,Torino,2-2,/match/lazio/torino-fc/2008,2008,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Juventus,Livorno,5-1,/match/juventus-fc/livorno/2008,2008,1,serie_a,20,38,0,5,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Reggina,Atalanta,1-1,/match/reggina/atalanta/2008,2008,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Parma,Catania,2-2,/match/parma-fc/catania/2008,2008,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Napoli,Cagliari,0-2,/match/napoli/cagliari/2008,2008,1,serie_a,20,38,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Udinese,1-1,/match/internazionale/udinese/2008,2008,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Genoa,Milan,0-3,/match/genoa/milan/2008,2008,1,serie_a,20,38,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Fiorentina,Empoli,3-1,/match/fiorentina/empoli-fc/2008,2008,1,serie_a,20,38,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Siena,Sampdoria,1-2,/match/siena/sampdoria/2008,2008,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Roma,0-2,/match/palermo/roma/2008,2008,1,serie_a,20,38,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Empoli,Inter,0-2,/match/empoli-fc/internazionale/2008,2008,2,serie_a,20,38,2,0,2,20,0,0,0,1,1,3,W,0,0,0,0,0,9,2,0,1,0,1,1,D,0,0,0,0,0,,
+Udinese,Napoli,0-5,/match/udinese/napoli/2008,2008,2,serie_a,20,38,2,0,5,12,1,0,1,0,1,1,D,0,0,0,0,0,17,0,0,0,1,0,2,L,0,0,0,0,0,,
+Torino,Reggina,2-2,/match/torino-fc/reggina/2008,2008,2,serie_a,20,38,1,2,2,13,1,0,1,0,2,2,D,0,0,0,0,0,10,2,0,1,0,1,1,D,0,0,0,0,0,,
+Livorno,Palermo FC,2-4,/match/livorno/palermo/2008,2008,2,serie_a,20,38,2,2,4,18,0,0,0,1,1,5,W,0,0,0,0,0,16,0,0,0,1,0,2,L,0,0,0,0,0,,
+Catania,Genoa,0-0,/match/catania/genoa/2008,2008,2,serie_a,20,38,1,0,0,14,1,0,1,0,2,2,D,0,0,0,0,0,19,0,0,0,1,0,3,L,0,0,0,0,0,,
+Cagliari,Juventus,2-3,/match/cagliari/juventus-fc/2008,2008,2,serie_a,20,38,2,2,3,3,2,1,0,0,2,0,L,0,0,0,0,0,1,4,1,0,0,5,1,W,0,0,0,0,0,,
+Atalanta,Parma,2-0,/match/atalanta/parma-fc/2008,2008,2,serie_a,20,38,0,2,0,11,1,0,1,0,1,1,D,0,0,0,0,0,6,2,0,1,0,2,2,D,0,0,0,0,0,,
+Roma,Siena,3-0,/match/roma/siena/2008,2008,2,serie_a,20,38,0,3,0,7,2,1,0,0,2,0,L,0,0,0,0,0,15,0,0,0,1,1,2,L,0,0,0,0,0,,
+Sampdoria,Lazio,0-0,/match/sampdoria/lazio/2008,2008,2,serie_a,20,38,1,0,0,5,2,1,0,0,2,1,L,0,0,0,0,0,8,2,0,1,0,2,2,D,0,0,0,0,0,,
+Milan,Fiorentina,1-1,/match/milan/fiorentina/2008,2008,2,serie_a,20,38,1,1,1,4,2,1,0,0,3,0,L,0,0,0,0,0,2,4,1,0,0,3,1,W,0,0,0,0,0,,
+Siena,Milan,1-1,/match/siena/milan/2008,2008,3,serie_a,20,38,1,1,1,18,0,0,0,2,1,5,LW,0,0,1,1,2,6,4,1,1,0,4,1,LD,1,0,0,3,0,L,L
+Lazio,Empoli,0-0,/match/lazio/empoli-fc/2008,2008,3,serie_a,20,38,1,0,0,8,3,0,2,0,2,2,DD,0,1,0,2,2,20,0,0,0,2,1,5,WL,0,0,1,1,3,D,W
+Palermo FC,Torino,1-1,/match/palermo/torino-fc/2008,2008,3,serie_a,20,38,1,1,1,14,2,1,0,1,4,4,LL,0,0,1,0,2,10,3,0,2,0,4,4,DD,0,1,0,2,2,L,D
+Napoli,Sampdoria,2-0,/match/napoli/sampdoria/2008,2008,3,serie_a,20,38,0,2,0,15,2,1,0,1,5,2,LL,0,0,1,0,2,5,4,1,1,0,2,1,LD,1,0,0,2,1,L,L
+Juventus,Udinese,0-1,/match/juventus-fc/udinese/2008,2008,3,serie_a,20,38,2,0,1,1,6,2,0,0,8,3,WL,1,0,0,5,1,16,1,0,1,1,1,6,DL,0,1,0,1,1,W,D
+Inter,Catania,2-0,/match/internazionale/catania/2008,2008,3,serie_a,20,38,0,2,0,7,4,1,1,0,3,1,DL,0,1,0,1,1,11,3,0,2,0,2,2,DD,0,1,0,2,2,D,D
+Genoa,Livorno,1-1,/match/genoa/livorno/2008,2008,3,serie_a,20,38,1,1,1,17,1,0,1,1,0,3,LD,0,0,1,0,3,19,0,0,0,2,3,9,WL,0,0,1,1,5,L,W
+Fiorentina,Atalanta,2-2,/match/fiorentina/atalanta/2008,2008,3,serie_a,20,38,1,2,2,3,5,1,1,0,4,2,WD,1,0,0,3,1,4,5,1,1,0,3,1,DW,0,1,0,1,1,W,D
+Reggina,Roma,0-2,/match/reggina/roma/2008,2008,3,serie_a,20,38,2,0,2,9,3,0,2,0,3,3,DD,0,1,0,1,1,2,6,2,0,0,5,0,LW,1,0,0,2,0,D,L
+Parma,Cagliari,1-1,/match/parma-fc/cagliari/2008,2008,3,serie_a,20,38,1,1,1,12,2,0,1,1,2,4,DW,0,1,0,2,2,13,2,1,0,1,4,3,LL,1,0,0,2,0,D,L
+Udinese,Reggina,2-0,/match/udinese/reggina/2008,2008,4,serie_a,20,38,0,2,0,14,3,1,1,1,2,6,DLL,0,0,1,0,5,17,3,0,2,1,3,5,DDL,0,1,0,2,2,L,D
+Milan,Parma,1-1,/match/milan/parma-fc/2008,2008,4,serie_a,20,38,1,1,1,7,5,1,2,0,5,2,LDD,0,1,0,1,1,11,4,0,2,1,3,5,DWD,0,0,1,0,2,D,W
+Livorno,Inter,2-2,/match/livorno/internazionale/2008,2008,4,serie_a,20,38,1,2,2,19,1,0,1,2,4,10,WLD,0,0,1,2,4,1,8,2,1,0,5,1,DLW,1,0,0,2,0,L,L
+Empoli,Napoli,0-0,/match/empoli-fc/napoli/2008,2008,4,serie_a,20,38,1,0,0,20,1,0,1,2,1,5,WLD,0,0,1,0,2,5,6,2,0,1,7,2,LLW,1,0,0,5,0,L,L
+Catania,Fiorentina,0-1,/match/catania/fiorentina/2008,2008,4,serie_a,20,38,2,0,1,15,3,0,2,1,2,4,DDW,0,1,0,0,0,3,7,1,2,0,6,4,WDD,0,1,0,1,1,D,D
+Cagliari,Palermo FC,0-1,/match/cagliari/palermo/2008,2008,4,serie_a,20,38,2,0,1,16,3,1,1,1,5,4,LLD,0,0,1,2,3,12,4,1,1,1,5,5,LLD,1,0,0,4,2,L,L
+Atalanta,Lazio,2-1,/match/atalanta/lazio/2008,2008,4,serie_a,20,38,0,2,1,6,6,1,2,0,5,3,DWD,1,0,0,2,0,8,5,0,3,0,2,2,DDD,0,1,0,0,0,W,D
+Roma,Juventus,2-2,/match/roma/juventus-fc/2008,2008,4,serie_a,20,38,1,2,2,2,8,3,0,0,7,0,LWL,1,0,0,3,0,4,6,2,0,1,8,4,WLL,1,0,0,3,2,W,L
+Torino,Siena,1-1,/match/torino-fc/siena/2008,2008,4,serie_a,20,38,1,1,1,10,4,0,3,0,5,5,DDD,0,1,0,2,2,18,2,0,1,2,2,6,LWD,0,0,1,0,3,D,W
+Sampdoria,Genoa,0-0,/match/sampdoria/genoa/2008,2008,4,serie_a,20,38,1,0,0,9,4,1,1,1,2,3,LDW,0,1,0,0,0,13,3,0,2,1,1,4,LDD,0,1,0,0,0,D,D
+Catania,Empoli,1-0,/match/catania/empoli-fc/2008,2008,5,serie_a,20,38,0,1,0,15,3,0,2,2,2,5,DDWL,0,1,1,0,1,20,3,0,2,2,1,5,WLDD,0,1,1,1,3,DL,WD
+Parma,Torino,2-0,/match/parma-fc/torino-fc/2008,2008,5,serie_a,20,38,0,2,0,12,5,0,3,1,4,6,DWDD,0,2,0,3,3,11,6,0,4,0,6,6,DDDD,0,2,0,3,3,DD,DD
+Palermo FC,Milan,2-1,/match/palermo/milan/2008,2008,5,serie_a,20,38,0,2,1,9,6,2,1,1,6,5,LLDL,0,1,1,1,3,7,7,1,3,0,6,3,LDDD,1,1,0,4,1,LD,LD
+Napoli,Livorno,1-0,/match/napoli/livorno/2008,2008,5,serie_a,20,38,0,1,0,6,7,2,1,1,7,2,LLWD,1,0,1,2,2,19,3,0,2,2,6,12,WLDD,0,1,1,2,6,LW,WD
+Lazio,Cagliari,3-1,/match/lazio/cagliari/2008,2008,5,serie_a,20,38,0,3,1,13,5,0,3,1,3,4,DDDW,0,2,0,2,2,16,3,1,1,2,5,5,LLDL,1,1,0,3,1,DD,LD
+Juventus,Reggina,4-0,/match/juventus-fc/reggina/2008,2008,5,serie_a,20,38,0,4,0,5,7,2,1,1,10,6,WLLD,1,0,1,5,2,17,3,0,2,2,3,7,DDLW,0,1,1,2,4,WL,DW
+Inter,Sampdoria,3-0,/match/internazionale/sampdoria/2008,2008,5,serie_a,20,38,0,3,0,3,9,2,2,0,7,3,DLWD,1,1,0,3,1,10,6,1,2,1,2,3,LDWD,1,0,1,2,3,DW,LW
+Genoa,Udinese,3-2,/match/genoa/udinese/2008,2008,5,serie_a,20,38,0,3,2,14,4,0,3,1,1,4,LDDD,0,1,1,1,4,8,7,2,1,1,4,6,DLLW,1,1,0,2,1,LD,DL
+Fiorentina,Roma,2-2,/match/fiorentina/roma/2008,2008,5,serie_a,20,38,1,2,2,4,9,2,2,0,7,4,WDDL,1,1,0,5,3,2,10,3,1,0,9,2,LWLD,2,0,0,4,0,WD,LL
+Siena,Atalanta,1-1,/match/siena/atalanta/2008,2008,5,serie_a,20,38,1,1,1,18,3,0,2,2,3,7,LWDD,0,1,1,2,3,1,10,2,2,0,7,4,DWDW,0,2,0,3,3,LD,DD
+Roma,Inter,1-4,/match/roma/internazionale/2008,2008,6,serie_a,20,38,2,1,4,6,11,3,2,0,11,4,LWLDD,1,1,0,5,2,1,13,3,2,0,10,3,DLWDW,1,1,0,4,2,WD,LD
+Livorno,Fiorentina,0-3,/match/livorno/fiorentina/2008,2008,6,serie_a,20,38,2,0,3,19,3,0,2,3,6,13,WLDDW,0,1,1,4,6,3,11,2,3,0,9,6,WDDLD,1,1,0,2,1,LD,DL
+Sampdoria,Atalanta,3-0,/match/sampdoria/atalanta/2008,2008,6,serie_a,20,38,0,3,0,15,6,1,2,2,2,6,LDWDW,0,2,0,0,0,2,11,2,3,0,8,5,DWDWD,0,3,0,4,4,DD,DDD
+Reggina,Lazio,1-1,/match/reggina/lazio/2008,2008,6,serie_a,20,38,1,1,1,18,3,0,2,3,3,11,DDLWW,0,1,1,1,3,9,9,1,3,1,6,5,DDDWW,0,1,1,1,2,DL,DW
+Napoli,Genoa,1-2,/match/napoli/genoa/2008,2008,6,serie_a,20,38,2,1,2,5,11,3,1,1,8,2,LLWDW,2,0,1,3,2,10,8,1,3,1,4,6,LDDDW,0,2,0,0,0,LWW,DD
+Empoli,Palermo FC,3-1,/match/empoli-fc/palermo/2008,2008,6,serie_a,20,38,0,3,1,20,3,0,2,3,1,6,WLDDW,0,1,1,0,2,7,10,3,1,1,8,6,LLDLW,2,0,0,5,2,LD,LL
+Cagliari,Siena,1-0,/match/cagliari/siena/2008,2008,6,serie_a,20,38,0,1,0,17,3,1,1,3,6,8,LLDLW,0,0,2,2,4,16,5,0,3,2,4,8,LWDDD,0,1,1,1,4,LL,WD
+Milan,Catania,1-1,/match/milan/catania/2008,2008,6,serie_a,20,38,1,1,1,11,7,1,3,1,7,5,LDDDW,0,2,0,2,2,13,7,1,2,2,3,5,DDWLW,0,1,1,2,4,DD,DW
+Udinese,Parma,2-1,/match/udinese/parma-fc/2008,2008,6,serie_a,20,38,0,2,1,12,7,2,1,2,6,9,DLLWW,1,0,1,2,5,8,9,1,3,1,6,6,DWDDW,0,1,1,1,3,LW,WD
+Torino,Juventus,0-1,/match/torino-fc/juventus-fc/2008,2008,6,serie_a,20,38,2,0,1,14,6,0,4,1,6,8,DDDDW,0,2,0,3,3,4,11,3,1,1,14,6,WLLDW,1,1,0,5,4,DD,LD
+Atalanta,Udinese,0-0,/match/atalanta/udinese/2008,2008,7,serie_a,20,38,1,0,0,7,11,2,3,1,8,8,DWDWDW,2,0,0,4,1,4,11,3,1,2,8,10,DLLWWW,1,1,1,4,4,WW,DLW
+Inter,Napoli,2-1,/match/internazionale/napoli/2008,2008,7,serie_a,20,38,0,2,1,1,15,4,2,0,14,4,DLWDWL,2,1,0,6,1,5,11,3,1,2,9,4,LLWDWL,1,1,0,5,0,DWW,LD
+Siena,Empoli,3-0,/match/siena/empoli-fc/2008,2008,7,serie_a,20,38,0,3,0,18,5,0,3,3,4,9,LWDDDW,0,2,1,3,4,16,7,1,2,3,4,7,WLDDWW,0,1,2,1,4,LDD,WDW
+Parma,Roma,0-3,/match/parma-fc/roma/2008,2008,7,serie_a,20,38,2,0,3,13,9,1,3,2,7,8,DWDDWW,1,2,0,5,3,6,11,3,2,1,12,8,LWLDDL,2,1,0,6,2,DDW,LLD
+Palermo FC,Reggina,1-1,/match/palermo/reggina/2008,2008,7,serie_a,20,38,1,1,1,8,10,3,1,2,9,9,LLDLWW,1,1,1,3,4,19,5,0,3,3,4,12,DDLWWD,0,1,2,2,8,LDW,DWW
+Torino,Sampdoria,1-0,/match/torino-fc/sampdoria/2008,2008,7,serie_a,20,38,0,1,0,17,6,0,4,2,6,9,DDDDWL,0,2,1,3,4,9,10,2,2,2,5,6,LDWDWW,1,0,2,2,6,DDL,LWW
+Genoa,Cagliari,2-0,/match/genoa/cagliari/2008,2008,7,serie_a,20,38,0,2,0,11,10,2,3,1,6,7,LDDDWL,1,1,1,4,6,15,7,2,1,3,7,8,LLDLWW,1,1,1,4,4,LDW,LDW
+Fiorentina,Juventus,1-1,/match/fiorentina/juventus-fc/2008,2008,7,serie_a,20,38,1,1,1,2,13,3,3,0,12,6,WDDLDL,1,2,0,7,5,3,13,4,1,1,15,6,WLLDWL,2,1,0,6,4,WDD,LDL
+Catania,Livorno,1-0,/match/catania/livorno/2008,2008,7,serie_a,20,38,0,1,0,14,8,1,3,2,4,6,DDWLWD,1,1,1,1,1,20,3,0,2,4,6,16,WLDDWL,0,1,2,2,7,DLW,WDW
+Lazio,Milan,1-5,/match/lazio/milan/2008,2008,7,serie_a,20,38,2,1,5,10,10,1,4,1,7,6,DDDWWD,1,2,0,5,3,12,9,1,4,1,8,6,LDDDWD,1,1,1,5,3,DDW,LDW
+Roma,Napoli,4-4,/match/roma/napoli/2008,2008,8,serie_a,20,38,1,4,4,5,13,4,2,1,15,8,LWLDDLL,1,1,1,6,6,10,11,3,1,3,10,6,LLWDWLW,1,1,1,6,2,WDL,LDW
+Reggina,Inter,0-1,/match/reggina/internazionale/2008,2008,8,serie_a,20,38,2,0,1,19,6,0,4,3,5,13,DDLWWDD,0,2,1,2,4,1,19,5,2,0,16,5,DLWDWLW,2,1,0,8,3,DLD,LDL
+Sampdoria,Parma,3-0,/match/sampdoria/parma-fc/2008,2008,8,serie_a,20,38,0,3,0,13,10,2,2,3,5,7,LDWDWWW,1,2,0,3,0,15,9,1,3,3,7,11,DWDDWWL,0,1,2,2,5,DDW,WDW
+Livorno,Lazio,0-1,/match/livorno/lazio/2008,2008,8,serie_a,20,38,2,0,1,20,3,0,2,5,6,17,WLDDWLW,0,1,2,4,9,12,10,1,4,2,8,11,DDDWWDL,0,2,1,2,3,LDL,DWD
+Fiorentina,Siena,3-0,/match/fiorentina/siena/2008,2008,8,serie_a,20,38,0,3,0,2,15,3,4,0,13,7,WDDLDLD,1,3,0,8,6,16,9,1,3,3,7,9,LWDDDWW,0,1,2,1,5,WDDD,WDW
+Cagliari,Catania,1-1,/match/cagliari/catania/2008,2008,8,serie_a,20,38,1,1,1,17,7,2,1,4,7,10,LLDLWWW,1,0,2,3,4,9,12,2,3,2,5,6,DDWLWDW,0,2,1,3,5,LLW,DWD
+Atalanta,Torino,2-2,/match/atalanta/torino-fc/2008,2008,8,serie_a,20,38,1,2,2,6,13,2,4,1,8,8,DWDWDWD,2,1,0,4,1,14,10,1,4,2,7,9,DDDDWLW,0,2,1,3,5,WWD,DDW
+Milan,Empoli,0-1,/match/milan/empoli-fc/2008,2008,8,serie_a,20,38,2,0,1,11,11,2,4,1,13,7,LDDDWDL,0,3,0,3,3,18,7,1,2,4,4,10,WLDDWWW,0,1,3,1,7,DDD,WDWW
+Udinese,Palermo FC,1-1,/match/udinese/palermo/2008,2008,8,serie_a,20,38,1,1,1,7,12,3,2,2,8,10,DLLWWWD,2,0,1,4,6,8,12,3,2,2,10,10,LLDLWWD,2,0,1,6,5,LWW,LLW
+Juventus,Genoa,1-0,/match/juventus-fc/genoa/2008,2008,8,serie_a,20,38,0,1,0,4,14,4,2,1,16,7,WLLDWLD,2,0,1,9,2,3,14,3,3,1,8,7,LDDDWLW,1,2,0,2,1,WLW,DDL
+Torino,Cagliari,2-0,/match/torino-fc/cagliari/2008,2008,9,serie_a,20,38,0,2,0,13,11,1,5,2,9,11,DDDDWLWD,1,2,1,4,4,17,9,2,2,4,8,11,LLDLWWWD,1,1,2,4,6,DDLW,LDWW
+Napoli,Juventus,3-1,/match/napoli/juventus-fc/2008,2008,9,serie_a,20,38,0,3,1,11,12,3,2,3,14,10,LLWDWLWD,2,0,2,4,4,3,18,5,2,1,17,7,WLLDWLDW,2,2,0,7,5,LWWL,LDLD
+Parma,Livorno,3-2,/match/parma-fc/livorno/2008,2008,9,serie_a,20,38,0,3,2,15,9,1,3,4,7,14,DWDDWWLW,1,2,1,5,6,20,3,0,2,6,6,18,WLDDWLWL,0,1,3,2,8,DDWL,WDWW
+Palermo FC,Inter,0-0,/match/palermo/internazionale/2008,2008,9,serie_a,20,38,1,0,0,9,13,3,3,2,11,11,LLDLWWDD,1,2,1,4,5,1,21,6,2,0,17,5,DLWDWLWL,3,1,0,9,3,LDWD,LDLL
+Lazio,Udinese,0-1,/match/lazio/udinese/2008,2008,9,serie_a,20,38,2,0,1,12,12,2,4,2,9,11,DDDWWDLL,1,2,1,6,8,7,14,3,3,2,9,11,DLLWWWDD,1,2,1,4,4,DDWL,DLWD
+Siena,Reggina,0-0,/match/siena/reggina/2008,2008,9,serie_a,20,38,1,0,0,16,9,1,3,4,7,12,LWDDDWWW,1,2,1,6,4,19,6,0,4,4,5,14,DDLWWDDL,0,2,2,3,9,LDDW,DWWD
+Empoli,Atalanta,0-1,/match/empoli-fc/atalanta/2008,2008,9,serie_a,20,38,2,0,1,18,9,2,2,4,5,10,WLDDWWWL,1,1,1,3,3,5,15,2,5,1,10,10,DWDWDWDD,0,3,1,4,7,LDW,DDDW
+Catania,Sampdoria,2-0,/match/catania/sampdoria/2008,2008,9,serie_a,20,38,0,2,0,10,13,2,4,2,6,7,DDWLWDWD,2,1,1,2,1,8,14,3,2,3,8,7,LDWDWWWW,1,0,3,2,7,DLWW,LWWW
+Milan,Roma,0-1,/match/milan/roma/2008,2008,9,serie_a,20,38,2,0,1,14,11,2,4,2,13,8,LDDDWDLL,0,3,1,3,4,4,15,4,3,1,19,12,LWLDDLLD,3,1,0,9,2,DDDL,LLDL
+Genoa,Fiorentina,0-0,/match/genoa/fiorentina/2008,2008,9,serie_a,20,38,1,0,0,6,14,3,3,2,8,8,LDDDWLWW,2,1,1,6,6,2,19,4,4,0,16,7,WDDLDLDW,2,1,0,5,1,LDWW,DLL
+Roma,Lazio,3-2,/match/roma/lazio/2008,2008,10,serie_a,20,38,0,3,2,5,17,5,3,1,20,12,LWLDDLLDL,1,2,1,10,10,14,12,2,4,3,9,12,DDDWWDLLL,1,2,1,3,3,WDLD,DWDL
+Siena,Catania,1-1,/match/siena/catania/2008,2008,10,serie_a,20,38,1,1,1,16,11,1,4,4,7,12,LWDDDWWWD,1,3,1,6,4,4,17,3,4,2,8,7,DDWLWDWDW,0,3,1,4,6,LDDWD,DWDD
+Sampdoria,Milan,0-5,/match/sampdoria/milan/2008,2008,10,serie_a,20,38,2,0,5,12,14,3,2,4,8,9,LDWDWWWWW,2,2,0,6,0,15,11,2,4,3,13,9,LDDDWDLLL,2,1,1,10,4,DDWW,LDWL
+Reggina,Livorno,1-3,/match/reggina/livorno/2008,2008,10,serie_a,20,38,2,1,3,19,7,0,5,4,5,14,DDLWWDDLD,0,2,2,2,5,20,3,0,2,7,8,21,WLDDWLWLW,0,1,4,4,11,DLDL,WDWWW
+Palermo FC,Parma,1-1,/match/palermo/parma-fc/2008,2008,10,serie_a,20,38,1,1,1,10,15,3,4,2,11,11,LLDLWWDDD,1,3,1,4,5,13,13,2,3,4,10,16,DWDDWWLWW,0,1,3,2,8,LDWDD,WDWW
+Juventus,Empoli,3-0,/match/juventus-fc/empoli-fc/2008,2008,10,serie_a,20,38,0,3,0,3,18,5,2,2,18,10,WLLDWLDWW,3,0,1,10,2,18,9,2,2,5,5,11,WLDDWWWLL,1,1,3,2,7,WLWW,WDWWL
+Inter,Genoa,4-1,/match/internazionale/genoa/2008,2008,10,serie_a,20,38,0,4,1,1,22,6,3,0,17,5,DLWDWLWLD,3,1,0,8,2,9,16,3,4,2,8,8,LDDDWLWWD,1,2,1,2,2,DWWW,DDLW
+Fiorentina,Napoli,1-0,/match/fiorentina/napoli/2008,2008,10,serie_a,20,38,0,1,0,2,20,4,5,0,16,7,WDDLDLDWD,2,3,0,11,6,7,16,4,2,3,17,11,LLWDWLWDW,1,2,1,10,6,WDDDW,LDWD
+Atalanta,Cagliari,2-2,/match/atalanta/cagliari/2008,2008,10,serie_a,20,38,1,2,2,6,17,3,5,1,11,10,DWDWDWDDL,2,2,0,6,3,17,9,2,2,5,8,13,LLDLWWWDW,1,1,3,4,8,WWDD,LDWWW
+Udinese,Torino,2-1,/match/udinese/torino-fc/2008,2008,10,serie_a,20,38,0,2,1,8,16,4,3,2,10,11,DLLWWWDDL,2,1,1,5,7,11,15,2,5,2,11,11,DDDDWLWDW,0,3,1,5,7,LWWD,DDWD
+Lazio,Fiorentina,0-1,/match/lazio/fiorentina/2008,2008,11,serie_a,20,38,2,0,1,16,12,2,4,4,11,15,DDDWWDLLLW,1,2,2,6,9,2,24,5,5,0,17,7,WDDLDLDWDW,2,2,0,5,1,DDWLL,DLLD
+Milan,Torino,0-0,/match/milan/torino-fc/2008,2008,11,serie_a,20,38,1,0,0,14,13,3,4,3,18,9,LDDDWDLLLL,0,3,2,3,5,11,15,2,5,3,12,13,DDDDWLWDWW,0,3,2,6,9,DDDLL,DDWDW
+Napoli,Reggina,1-1,/match/napoli/reggina/2008,2008,11,serie_a,20,38,1,1,1,9,16,4,2,4,17,12,LLWDWLWDWW,3,0,2,7,5,19,7,0,5,5,6,17,DDLWWDDLDL,0,3,2,3,9,LWWLW,DWWDD
+Livorno,Udinese,0-0,/match/livorno/udinese/2008,2008,11,serie_a,20,38,1,0,0,20,5,1,2,7,11,22,WLDDWLWLWL,0,1,3,4,10,5,20,5,3,2,12,12,DLLWWWDDLW,2,2,1,5,4,LDLL,DLWDL
+Genoa,Palermo FC,3-3,/match/genoa/palermo/2008,2008,11,serie_a,20,38,1,3,3,10,16,3,4,3,9,12,LDDDWLWWDW,2,2,1,6,6,8,17,3,5,2,12,12,LLDLWWDDDD,2,1,1,7,6,LDWWD,LLWD
+Empoli,Roma,2-2,/match/empoli-fc/roma/2008,2008,11,serie_a,20,38,1,2,2,18,9,2,2,6,5,14,WLDDWWWLLW,1,1,2,3,4,4,21,6,3,1,23,14,LWLDDLLDLW,4,1,0,10,2,LDWL,LLDLL
+Catania,Atalanta,1-2,/match/catania/atalanta/2008,2008,11,serie_a,20,38,2,1,2,7,18,3,5,2,9,8,DDWLWDWDWD,3,1,1,4,1,6,19,3,6,1,13,12,DWDWDWDDLD,1,3,1,5,7,DLWWW,DDDWL
+Cagliari,Sampdoria,0-3,/match/cagliari/sampdoria/2008,2008,11,serie_a,20,38,2,0,3,17,10,2,3,5,10,15,LLDLWWWDWD,1,1,2,4,5,12,14,3,2,5,8,14,LDWDWWWWWL,1,0,4,2,9,LLWD,LWWWW
+Parma,Siena,2-2,/match/parma-fc/siena/2008,2008,11,serie_a,20,38,1,2,2,13,14,2,4,4,11,17,DWDDWWLWWD,2,2,1,8,8,15,13,1,5,4,8,13,LWDDDWWWDD,0,1,3,1,8,DDWLW,WDWW
+Juventus,Inter,1-1,/match/juventus-fc/internazionale/2008,2008,11,serie_a,20,38,1,1,1,3,22,6,2,2,21,10,WLLDWLDWWW,4,0,1,13,2,1,26,7,3,0,21,6,DLWDWLWLDW,3,2,0,9,3,WLWWW,LDLLD
+Sampdoria,Empoli,3-0,/match/sampdoria/empoli-fc/2008,2008,12,serie_a,20,38,0,3,0,13,16,4,2,5,11,14,LDWDWWWWWLL,2,2,1,6,5,17,11,2,3,6,7,16,WLDDWWWLLWD,1,1,4,2,10,DDWWL,WDWWLW
+Palermo FC,Napoli,2-1,/match/palermo/napoli/2008,2008,12,serie_a,20,38,0,2,1,8,18,3,6,2,15,15,LLDLWWDDDDD,1,4,1,5,6,9,18,4,3,4,18,13,LLWDWLWDWWD,1,2,2,10,7,LDWDDD,LDWDW
+Torino,Catania,1-1,/match/torino-fc/catania/2008,2008,12,serie_a,20,38,1,1,1,12,16,2,6,3,12,13,DDDDWLWDWWD,2,2,1,6,4,7,18,3,5,3,10,10,DDWLWDWDWDL,0,4,1,5,7,DDLWW,DWDDD
+Siena,Livorno,2-3,/match/siena/livorno/2008,2008,12,serie_a,20,38,2,2,3,15,14,1,6,4,10,15,LWDDDWWWDDD,1,4,1,7,5,20,7,1,3,7,11,22,WLDDWLWLWLD,1,1,4,7,12,LDDWDD,WDWWWL
+Reggina,Genoa,2-0,/match/reggina/genoa/2008,2008,12,serie_a,20,38,0,2,0,19,8,0,6,5,7,18,DDLWWDDLDLD,0,2,3,3,8,10,18,3,5,3,12,15,LDDDWLWWDWD,1,2,2,3,6,DLDLL,DDLWW
+Parma,Juventus,2-2,/match/parma-fc/juventus-fc/2008,2008,12,serie_a,20,38,1,2,2,11,16,2,5,4,13,19,DWDDWWLWWDD,2,3,1,10,10,3,24,6,3,2,22,11,WLLDWLDWWWD,2,2,1,8,8,DDWLWD,LDLDW
+Fiorentina,Udinese,1-2,/match/fiorentina/udinese/2008,2008,12,serie_a,20,38,2,1,2,2,26,6,5,0,18,7,WDDLDLDWDWL,3,3,0,12,6,5,21,5,4,2,12,12,DLLWWWDDLWD,2,3,1,5,4,WDDDWW,DLWDLD
+Roma,Cagliari,2-0,/match/roma/cagliari/2008,2008,12,serie_a,20,38,0,2,0,4,22,6,4,1,25,16,LWLDDLLDLWD,2,2,1,13,12,18,10,2,3,6,10,18,LLDLWWWDWDL,1,2,3,6,10,WDLDW,LDWWWD
+Inter,Lazio,3-0,/match/internazionale/lazio/2008,2008,12,serie_a,20,38,0,3,0,1,27,7,4,0,22,7,DLWDWLWLDWD,4,1,0,12,3,16,12,2,4,5,11,16,DDDWWDLLLWL,1,2,2,5,6,DWWWW,DWDLW
+Atalanta,Milan,2-1,/match/atalanta/milan/2008,2008,12,serie_a,20,38,0,2,1,6,21,4,6,1,15,13,DWDWDWDDLDL,2,3,0,8,5,14,15,3,5,3,18,9,LDDDWDLLLLD,3,1,1,15,4,WWDDD,LDWLL
+Genoa,Roma,0-1,/match/genoa/roma/2008,2008,13,serie_a,20,38,2,0,1,12,18,3,5,4,12,17,LDDDWLWWDWDW,2,3,1,9,9,3,26,7,4,1,27,16,LWLDDLLDLWDW,4,2,0,12,4,LDWWDD,LLDLLD
+Inter,Atalanta,2-1,/match/internazionale/atalanta/2008,2008,13,serie_a,20,38,0,2,1,1,31,8,4,0,25,7,DLWDWLWLDWDW,5,1,0,15,3,5,25,5,6,1,17,14,DWDWDWDDLDLW,2,3,1,7,8,DWWWWW,DDDWLL
+Reggina,Fiorentina,0-0,/match/reggina/fiorentina/2008,2008,13,serie_a,20,38,1,0,0,17,12,1,6,5,9,18,DDLWWDDLDLDW,1,2,3,5,8,2,26,6,5,1,19,9,WDDLDLDWDWLL,3,2,0,6,1,DLDLLW,DLLDL
+Napoli,Catania,2-0,/match/napoli/catania/2008,2008,13,serie_a,20,38,0,2,0,13,18,4,3,5,19,15,LLWDWLWDWWDW,3,1,2,8,6,9,19,3,6,3,11,11,DDWLWDWDWDLD,0,5,1,6,8,LWWLWD,DWDDDD
+Livorno,Sampdoria,3-1,/match/livorno/sampdoria/2008,2008,13,serie_a,20,38,0,3,1,20,9,2,3,7,14,24,WLDDWLWLWLDL,0,2,3,4,10,8,20,5,2,5,14,14,LDWDWWWWWLLW,2,0,4,5,9,LDLLD,LWWWWL
+Lazio,Parma,1-0,/match/lazio/parma-fc/2008,2008,13,serie_a,20,38,0,1,0,16,12,2,4,6,11,19,DDDWWDLLLWLW,1,2,3,6,10,11,18,2,6,4,15,21,DWDDWWLWWDDD,0,2,3,3,9,DDWLLL,WDWWD
+Empoli,Torino,0-0,/match/empoli-fc/torino-fc/2008,2008,13,serie_a,20,38,1,0,0,18,11,2,3,7,7,19,WLDDWWWLLWDW,1,2,2,5,6,10,18,2,7,3,13,14,DDDDWLWDWWDD,0,4,2,6,9,LDWLD,DDWDWD
+Cagliari,Milan,1-2,/match/cagliari/milan/2008,2008,13,serie_a,20,38,2,1,2,19,10,2,3,7,10,20,LLDLWWWDWDLW,1,1,3,4,8,14,15,3,5,4,19,11,LDDDWDLLLLDW,3,1,2,16,6,LLWDL,LDWLLW
+Udinese,Siena,2-0,/match/udinese/siena/2008,2008,13,serie_a,20,38,0,2,0,6,23,6,4,2,14,13,DLLWWWDDLWDL,3,1,1,7,8,15,14,1,6,5,12,18,LWDDDWWWDDDL,0,2,3,3,10,LWWDW,WDWWD
+Juventus,Palermo FC,5-0,/match/juventus-fc/palermo/2008,2008,13,serie_a,20,38,0,5,0,4,25,6,4,2,24,13,WLLDWLDWWWDD,4,1,1,14,3,7,22,4,6,2,17,16,LLDLWWDDDDDW,2,2,1,10,9,WLWWWD,LLWDD
+Sampdoria,Reggina,3-0,/match/sampdoria/reggina/2008,2008,14,serie_a,20,38,0,3,0,9,20,5,2,6,15,17,LDWDWWWWWLLWW,3,2,1,9,5,17,14,1,7,5,9,18,DDLWWDDLDLDWD,0,4,2,4,10,DDWWLW,DWWDDD
+Milan,Juventus,0-0,/match/milan/juventus-fc/2008,2008,14,serie_a,20,38,1,0,0,14,17,4,5,4,21,12,LDDDWDLLLLDWL,0,4,2,3,5,2,29,7,4,2,29,13,WLLDWLDWWWDDW,2,3,1,10,10,DDDLLD,LDLDWD
+Siena,Lazio,1-1,/match/siena/lazio/2008,2008,14,serie_a,20,38,1,1,1,16,14,1,6,6,12,20,LWDDDWWWDDDLW,1,4,2,9,8,15,16,3,4,6,12,19,DDDWWDLLLWLWW,1,2,3,5,9,LDDWDDL,DWDLWW
+Parma,Empoli,1-0,/match/parma-fc/empoli-fc/2008,2008,14,serie_a,20,38,0,1,0,12,18,2,6,5,15,22,DWDDWWLWWDDDW,2,4,1,12,12,18,13,2,4,7,7,19,WLDDWWWLLWDWD,1,1,5,2,13,DDWLWDD,WDWWLWW
+Fiorentina,Inter,0-2,/match/fiorentina/internazionale/2008,2008,14,serie_a,20,38,2,0,2,5,27,6,6,1,19,9,WDDLDLDWDWLLD,3,3,1,13,8,1,35,9,4,0,27,8,DLWDWLWLDWDWW,3,3,0,10,4,WDDDWWL,LDLLDD
+Catania,Palermo FC,3-1,/match/catania/palermo/2008,2008,14,serie_a,20,38,0,3,1,10,19,3,6,4,11,13,DDWLWDWDWDLDW,3,1,2,5,3,8,22,4,6,3,17,21,LLDLWWDDDDDWW,2,2,2,10,14,DLWWWL,LLWDDW
+Cagliari,Livorno,0-0,/match/cagliari/livorno/2008,2008,14,serie_a,20,38,1,0,0,20,10,2,3,8,11,22,LLDLWWWDWDLWL,1,1,4,5,10,19,13,3,3,7,17,25,WLDDWLWLWLDLW,2,1,4,10,14,LLWDLL,WDWWWLL
+Atalanta,Napoli,5-1,/match/atalanta/napoli/2008,2008,14,serie_a,20,38,0,5,1,6,25,5,6,2,18,16,DWDWDWDDLDLWW,3,3,0,10,6,7,22,5,3,5,21,15,LLWDWLWDWWDWW,1,2,3,11,9,WWDDDW,LDWDWW
+Roma,Udinese,2-1,/match/roma/udinese/2008,2008,14,serie_a,20,38,0,2,1,3,28,8,4,1,28,16,LWLDDLLDLWDWL,3,2,1,15,12,4,27,7,4,2,16,13,DLLWWWDDLWDLW,3,3,1,7,5,WDLDWW,DLWDLDL
+Torino,Genoa,1-1,/match/torino-fc/genoa/2008,2008,14,serie_a,20,38,1,1,1,11,19,2,8,3,13,14,DDDDWLWDWWDDD,2,3,1,7,5,13,18,3,5,5,12,18,LDDDWLWWDWDWL,1,2,3,3,8,DDLWWD,DDLWWW
+Lazio,Catania,2-0,/match/lazio/catania/2008,2008,15,serie_a,20,38,0,2,0,15,17,3,5,6,13,20,DDDWWDLLLWLWWD,2,2,3,7,10,8,23,4,6,4,14,14,DDWLWDWDWDLDWW,0,5,2,6,10,DDWLLLW,DWDDDDW
+Palermo FC,Fiorentina,2-0,/match/palermo/fiorentina/2008,2008,15,serie_a,20,38,0,2,0,11,22,4,6,4,18,24,LLDLWWDDDDDWWW,2,4,1,7,7,6,27,6,6,2,19,11,WDDLDLDWDWLLDL,3,3,0,6,1,LDWDDDW,DLLDLD
+Udinese,Sampdoria,3-2,/match/udinese/sampdoria/2008,2008,15,serie_a,20,38,0,3,2,5,27,7,4,3,17,15,DLLWWWDDLWDLWW,4,1,1,9,8,7,24,6,2,6,18,17,LDWDWWWWWLLWWW,2,0,5,6,12,LWWDWW,LWWWWLW
+Livorno,Roma,1-1,/match/livorno/roma/2008,2008,15,serie_a,20,38,1,1,1,18,14,3,4,7,17,25,WLDDWLWLWLDLWD,1,2,3,7,11,2,32,9,4,1,30,17,LWLDDLLDLWDWLW,5,2,0,13,4,LDLLDW,LLDLLDL
+Juventus,Atalanta,1-0,/match/juventus-fc/atalanta/2008,2008,15,serie_a,20,38,0,1,0,3,30,7,5,2,29,13,WLLDWLDWWWDDWD,5,1,1,19,3,4,29,6,6,2,23,17,DWDWDWDDLDLWWW,2,3,2,8,10,WLWWWDW,DDDWLLW
+Inter,Torino,4-0,/match/internazionale/torino-fc/2008,2008,15,serie_a,20,38,0,4,0,1,37,10,4,0,29,8,DLWDWLWLDWDWWL,6,1,0,17,4,12,21,2,9,3,14,15,DDDDWLWDWWDDDD,0,5,2,6,9,DWWWWWW,DDWDWDD
+Genoa,Siena,1-3,/match/genoa/siena/2008,2008,15,serie_a,20,38,2,1,3,13,19,3,6,5,13,19,LDDDWLWWDWDWLD,2,3,2,9,10,16,16,1,7,6,13,21,LWDDDWWWDDDLWD,0,2,4,3,12,LDWWDDL,WDWWDW
+Empoli,Cagliari,4-1,/match/empoli-fc/cagliari/2008,2008,15,serie_a,20,38,0,4,1,19,13,2,4,8,7,20,WLDDWWWLLWDWDW,1,3,2,5,6,20,12,2,4,8,11,22,LLDLWWWDWDLWLD,1,2,4,6,12,LDWLDD,LDWWWDW
+Napoli,Parma,1-0,/match/napoli/parma-fc/2008,2008,15,serie_a,20,38,0,1,0,10,22,5,3,6,22,20,LLWDWLWDWWDWWW,4,1,2,10,6,9,22,3,6,5,16,22,DWDDWWLWWDDDWW,0,2,4,3,10,LWWLWDW,WDWWDW
+Reggina,Milan,0-1,/match/reggina/milan/2008,2008,15,serie_a,20,38,2,0,1,17,14,1,7,6,9,21,DDLWWDDLDLDWDW,1,3,3,5,8,14,19,4,6,4,21,12,LDDDWDLLLLDWLD,4,1,2,18,7,DLDLLWD,LDWLLWL
+Catania,Udinese,2-0,/match/catania/udinese/2008,2008,16,serie_a,20,38,0,2,0,10,23,4,6,5,14,16,DDWLWDWDWDLDWWW,4,1,2,8,4,4,31,8,4,3,20,17,DLLWWWDDLWDLWWW,3,3,2,8,7,DLWWWLW,DLWDLDLW
+Lazio,Juventus,2-3,/match/lazio/juventus-fc/2008,2008,16,serie_a,20,38,2,2,3,14,21,4,5,6,15,20,DDDWWDLLLWLWWDW,3,2,3,9,10,2,34,8,5,2,30,13,WLLDWLDWWWDDWDW,2,4,1,10,10,DDWLLLWW,LDLDWDD
+Torino,Roma,0-0,/match/torino-fc/roma/2008,2008,16,serie_a,20,38,1,0,0,12,21,2,9,4,14,19,DDDDWLWDWWDDDDW,2,4,1,8,6,3,33,9,5,1,31,18,LWLDDLLDLWDWLWD,5,3,0,14,5,DDLWWDD,LLDLLDLD
+Siena,Napoli,1-1,/match/siena/napoli/2008,2008,16,serie_a,20,38,1,1,1,16,18,2,7,6,16,22,LWDDDWWWDDDLWDL,1,5,2,10,9,7,26,6,3,6,23,20,LLWDWLWDWWDWWWW,1,2,4,12,14,LDDWDDLD,LDWDWWW
+Sampdoria,Fiorentina,2-2,/match/sampdoria/fiorentina/2008,2008,16,serie_a,20,38,1,2,2,9,24,6,2,7,20,20,LDWDWWWWWLLWWWW,4,2,1,12,5,6,27,6,6,3,19,13,WDDLDLDWDWLLDLW,3,3,1,6,3,DDWWLWW,DLLDLDW
+Parma,Reggina,3-0,/match/parma-fc/reggina/2008,2008,16,serie_a,20,38,0,3,0,11,22,3,6,6,16,23,DWDDWWLWWDDDWWW,3,4,1,13,12,19,14,1,7,7,9,22,DDLWWDDLDLDWDWL,0,4,3,4,13,DDWLWDDW,DWWDDDW
+Empoli,Genoa,1-1,/match/empoli-fc/genoa/2008,2008,16,serie_a,20,38,1,1,1,17,17,3,4,8,11,21,WLDDWWWLLWDWDWW,2,3,2,9,7,15,19,3,6,6,14,22,LDDDWLWWDWDWLDL,1,3,3,4,9,LDWLDDW,DDLWWWD
+Atalanta,Palermo FC,1-3,/match/atalanta/palermo/2008,2008,16,serie_a,20,38,2,1,3,5,29,6,6,3,23,18,DWDWDWDDLDLWWWW,4,3,0,15,7,8,26,5,6,4,20,24,LLDLWWDDDDDWWWW,2,2,3,11,17,WWDDDWW,LLWDDWW
+Cagliari,Inter,0-2,/match/cagliari/internazionale/2008,2008,16,serie_a,20,38,2,0,2,20,12,2,4,9,12,26,LLDLWWWDWDLWLDW,1,2,4,5,10,1,41,11,4,0,33,8,DLWDWLWLDWDWWLW,4,3,0,12,4,LLWDLLD,LDLLDDL
+Milan,Livorno,1-1,/match/milan/livorno/2008,2008,16,serie_a,20,38,1,1,1,13,21,5,6,4,22,12,LDDDWDLLLLDWLDL,0,5,2,3,5,18,16,3,5,7,18,26,WLDDWLWLWLDLWDD,2,2,4,10,14,DDDLLDD,WDWWWLLD
+Genoa,Parma,1-0,/match/genoa/parma-fc/2008,2008,17,serie_a,20,38,0,1,0,15,20,3,7,6,15,23,LDDDWLWWDWDWLDLD,2,3,3,10,13,10,26,4,6,6,19,23,DWDDWWLWWDDDWWWW,0,2,5,3,11,LDWWDDLL,WDWWDWW
+Roma,Sampdoria,2-0,/match/roma/sampdoria/2008,2008,17,serie_a,20,38,0,2,0,3,34,9,6,1,31,18,LWLDDLLDLWDWLWDD,4,2,1,17,13,11,26,6,3,7,22,22,LDWDWWWWWLLWWWWD,2,0,6,8,15,WDLDWWW,LWWWWLWW
+Reggina,Catania,3-1,/match/reggina/catania/2008,2008,17,serie_a,20,38,0,3,1,19,14,1,7,8,9,25,DDLWWDDLDLDWDWLW,1,3,4,5,9,8,27,5,6,5,16,16,DDWLWDWDWDLDWWWW,0,5,3,6,12,DLDLLWDL,DWDDDDWW
+Palermo FC,Lazio,2-2,/match/palermo/lazio/2008,2008,17,serie_a,20,38,1,2,2,7,28,6,6,4,23,25,LLDLWWDDDDDWWWWL,3,4,1,9,7,14,21,4,5,7,17,23,DDDWWDLLLWLWWDWL,1,3,3,6,10,LDWDDDWW,DWDLWWD
+Napoli,Torino,1-1,/match/napoli/torino-fc/2008,2008,17,serie_a,20,38,1,1,1,9,27,6,4,6,24,21,LLWDWLWDWWDWWWWD,5,1,2,11,6,12,23,2,10,4,14,19,DDDDWLWDWWDDDDWD,0,5,3,6,13,LWWLWDWW,DDWDWDDW
+Livorno,Atalanta,1-1,/match/livorno/atalanta/2008,2008,17,serie_a,20,38,1,1,1,18,17,3,6,7,19,27,WLDDWLWLWLDLWDDD,1,3,3,8,12,5,29,6,6,4,24,21,DWDWDWDDLDLWWWWL,2,3,3,8,11,LDLLDWD,DDDWLLWW
+Juventus,Siena,2-0,/match/juventus-fc/siena/2008,2008,17,serie_a,20,38,0,2,0,2,36,9,5,2,33,15,WLLDWLDWWWDDWDWL,6,1,1,20,3,16,20,2,8,6,17,23,LWDDDWWWDDDLWDLD,1,2,4,6,13,WLWWWDWW,WDWWDWL
+Inter,Milan,2-1,/match/internazionale/milan/2008,2008,17,serie_a,20,38,0,2,1,1,43,12,4,0,35,8,DLWDWLWLDWDWWLWL,7,1,0,21,4,13,23,5,7,4,23,13,LDDDWDLLLLDWLDLD,5,1,2,19,7,DWWWWWWW,LDWLLWLL
+Fiorentina,Cagliari,5-1,/match/fiorentina/cagliari/2008,2008,17,serie_a,20,38,0,5,1,6,28,6,7,3,21,15,WDDLDLDWDWLLDLWD,3,3,2,13,10,20,12,2,4,10,12,28,LLDLWWWDWDLWLDWL,1,2,5,7,16,WDDDWWLL,LDWWWDWW
+Udinese,Empoli,2-2,/match/udinese/empoli-fc/2008,2008,17,serie_a,20,38,1,2,2,4,31,8,4,4,20,19,DLLWWWDDLWDLWWWW,5,1,1,12,10,17,19,3,5,8,12,22,WLDDWWWLLWDWDWWD,1,1,6,2,14,LWWDWWW,WDWWLWWW
+Empoli,Reggina,1-1,/match/empoli-fc/reggina/2008,2008,18,serie_a,20,38,1,1,1,17,20,3,6,8,14,24,WLDDWWWLLWDWDWWDD,2,4,2,10,8,19,18,2,7,8,12,26,DDLWWDDLDLDWDWLWW,0,4,4,4,16,LDWLDDWD,DWWDDDWW
+Catania,Juventus,1-1,/match/catania/juventus-fc/2008,2008,18,serie_a,20,38,1,1,1,9,27,5,6,6,17,19,DDWLWDWDWDLDWWWWW,5,1,2,10,4,2,40,10,5,2,35,15,WLLDWLDWWWDDWDWLW,3,4,1,13,12,DLWWWLWW,LDLDWDDL
+Siena,Inter,2-3,/match/siena/internazionale/2008,2008,18,serie_a,20,38,2,2,3,16,20,2,8,7,17,25,LWDDDWWWDDDLWDLDW,1,6,2,11,10,1,47,13,4,0,37,9,DLWDWLWLDWDWWLWLW,5,3,0,14,4,LDDWDDLDD,LDLLDDLL
+Sampdoria,Palermo FC,3-0,/match/sampdoria/palermo/2008,2008,18,serie_a,20,38,0,3,0,10,26,6,3,8,22,24,LDWDWWWWWLLWWWWDW,4,3,1,14,7,7,30,6,7,4,25,27,LLDLWWDDDDDWWWWLD,3,2,3,14,18,DDWWLWWD,LLWDDWWL
+Parma,Fiorentina,1-2,/match/parma-fc/fiorentina/2008,2008,18,serie_a,20,38,2,1,2,11,26,4,6,7,19,24,DWDDWWLWWDDDWWWWW,4,4,1,16,12,5,32,7,7,3,26,16,WDDLDLDWDWLLDLWDW,3,4,1,8,5,DDWLWDDWW,DLLDLDWD
+Lazio,Genoa,1-2,/match/lazio/genoa/2008,2008,18,serie_a,20,38,2,1,2,15,22,4,6,7,19,25,DDDWWDLLLWLWWDWLD,3,2,4,11,13,13,24,4,7,6,16,23,LDDDWLWWDWDWLDLDW,1,4,3,5,10,DDWLLLWWL,DDLWWWDD
+Cagliari,Udinese,0-1,/match/cagliari/udinese/2008,2008,18,serie_a,20,38,2,0,1,20,12,2,4,11,13,33,LLDLWWWDWDLWLDWLW,1,2,5,5,12,4,33,8,5,4,22,21,DLLWWWDDLWDLWWWWD,3,3,3,8,9,LLWDLLDL,DLWDLDLWW
+Atalanta,Roma,1-2,/match/atalanta/roma/2008,2008,18,serie_a,20,38,2,1,2,6,30,6,7,4,25,22,DWDWDWDDLDLWWWWLD,4,3,1,16,10,3,38,10,6,1,33,18,LWLDDLLDLWDWLWDDW,5,4,0,14,5,WWDDDWWL,LLDLLDLDD
+Torino,Livorno,1-2,/match/torino-fc/livorno/2008,2008,18,serie_a,20,38,2,1,2,12,24,2,11,4,15,20,DDDDWLWDWWDDDDWDD,2,5,1,8,6,18,19,3,7,7,20,28,WLDDWLWLWLDLWDDDD,2,3,4,11,15,DDLWWDDD,WDWWWLLDD
+Milan,Napoli,5-2,/match/milan/napoli/2008,2008,18,serie_a,20,38,0,5,2,14,23,5,7,5,24,15,LDDDWDLLLLDWLDLDW,0,6,2,4,6,8,29,6,5,6,25,22,LLWDWLWDWWDWWWWDD,1,3,4,13,15,DDDLLDDD,LDWDWWWD
+Genoa,Atalanta,2-1,/match/genoa/atalanta/2008,2008,19,serie_a,20,38,0,2,1,12,26,5,7,6,18,24,LDDDWLWWDWDWLDLDWL,3,3,3,11,13,6,30,6,7,5,26,24,DWDWDWDDLDLWWWWLDL,2,4,3,9,12,LDWWDDLLW,DDDWLLWWD
+Fiorentina,Torino,2-1,/match/fiorentina/torino-fc/2008,2008,19,serie_a,20,38,0,2,1,5,34,8,7,3,28,17,WDDLDLDWDWLLDLWDWL,4,3,2,18,11,14,24,2,11,5,16,22,DDDDWLWDWWDDDDWDDL,0,6,3,7,14,WDDDWWLLW,DDWDWDDWD
+Reggina,Cagliari,2-0,/match/reggina/cagliari/2008,2008,19,serie_a,20,38,0,2,0,19,19,2,8,8,13,27,DDLWWDDLDLDWDWLWWD,2,3,4,8,10,20,12,2,4,12,13,34,LLDLWWWDWDLWLDWLWL,1,2,6,8,21,DLDLLWDLW,LDWWWDWWW
+Palermo FC,Siena,2-3,/match/palermo/siena/2008,2008,19,serie_a,20,38,2,2,3,7,30,6,7,5,25,30,LLDLWWDDDDDWWWWLDW,3,5,1,11,9,18,20,2,8,8,19,28,LWDDDWWWDDDLWDLDWL,1,2,5,6,15,LDWDDDWWD,WDWWDWLW
+Napoli,Lazio,2-2,/match/napoli/lazio/2008,2008,19,serie_a,20,38,1,2,2,9,29,6,5,7,27,27,LLWDWLWDWWDWWWWDDW,5,2,2,12,7,15,22,4,6,8,20,27,DDDWWDLLLWLWWDWLDL,1,4,3,8,12,LWWLWDWWD,DWDLWWDD
+Livorno,Empoli,1-0,/match/livorno/empoli-fc/2008,2008,19,serie_a,20,38,0,1,0,17,21,4,7,7,22,29,WLDDWLWLWLDLWDDDDL,1,4,3,9,13,16,22,3,7,8,15,25,WLDDWWWLLWDWDWWDDD,1,2,6,4,16,LDLLDWDD,WDWWLWWWD
+Juventus,Sampdoria,0-0,/match/juventus-fc/sampdoria/2008,2008,19,serie_a,20,38,1,0,0,2,41,10,6,2,36,16,WLLDWLDWWWDDWDWLWD,7,1,1,22,3,8,30,7,3,8,25,24,LDWDWWWWWLLWWWWDWW,2,0,7,8,17,WLWWWDWWW,LWWWWLWWW
+Roma,Catania,2-0,/match/roma/catania/2008,2008,19,serie_a,20,38,0,2,0,3,40,11,6,1,35,19,LWLDDLLDLWDWLWDDWL,5,2,1,19,13,10,29,5,7,6,18,20,DDWLWDWDWDLDWWWWWD,0,5,4,7,15,WDLDWWWW,DWDDDDWWW
+Udinese,Milan,0-1,/match/udinese/milan/2008,2008,19,serie_a,20,38,2,0,1,4,35,9,5,4,23,21,DLLWWWDDLWDLWWWWDL,5,2,1,14,12,11,27,6,7,5,29,17,LDDDWDLLLLDWLDLDWW,5,1,3,20,9,LWWDWWWD,LDWLLWLLW
+Inter,Parma,3-2,/match/internazionale/parma-fc/2008,2008,19,serie_a,20,38,0,3,2,1,49,14,4,0,40,11,DLWDWLWLDWDWWLWLWL,8,1,0,23,5,13,26,4,6,8,20,26,DWDDWWLWWDDDWWWWWL,0,2,6,3,12,DWWWWWWWW,WDWWDWWW
+Sampdoria,Siena,1-0,/match/sampdoria/siena/2008,2008,20,serie_a,20,38,0,1,0,6,31,7,4,8,25,24,LDWDWWWWWLLWWWWDWWD,5,3,1,17,7,19,22,3,8,8,22,30,LWDDDWWWDDDLWDLDWLL,2,2,5,9,17,DDWWLWWDW,WDWWDWLWL
+Roma,Palermo FC,1-0,/match/roma/palermo/2008,2008,20,serie_a,20,38,0,1,0,2,44,12,6,1,37,19,LWLDDLLDLWDWLWDDWLW,6,2,1,21,13,9,30,6,7,6,27,33,LLDLWWDDDDDWWWWLDWL,3,2,4,14,21,WDLDWWWWW,LLWDDWWLW
+Torino,Lazio,0-0,/match/torino-fc/lazio/2008,2008,20,serie_a,20,38,1,0,0,15,24,2,11,6,17,24,DDDDWLWDWWDDDDWDDLW,2,5,2,9,8,16,23,4,7,8,22,29,DDDWWDLLLWLWWDWLDLD,1,5,3,10,14,DDLWWDDDL,DWDLWWDDD
+Empoli,Fiorentina,0-2,/match/empoli-fc/fiorentina/2008,2008,20,serie_a,20,38,2,0,2,18,22,3,7,9,15,26,WLDDWWWLLWDWDWWDDDW,2,5,2,11,9,4,38,9,7,3,30,18,WDDLDLDWDWLLDLWDWLW,4,4,1,10,6,LDWLDDWDD,DLLDLDWDL
+Catania,Parma,0-0,/match/catania/parma-fc/2008,2008,20,serie_a,20,38,1,0,0,12,29,5,7,7,18,22,DDWLWDWDWDLDWWWWWDW,5,2,2,11,5,13,26,4,6,9,22,29,DWDDWWLWWDDDWWWWWLW,0,2,7,5,15,DLWWWLWWD,WDWWDWWWW
+Cagliari,Napoli,2-1,/match/cagliari/napoli/2008,2008,20,serie_a,20,38,0,2,1,20,12,2,4,13,13,36,LLDLWWWDWDLWLDWLWLW,1,2,6,5,13,7,31,6,6,7,29,29,LLWDWLWDWWDWWWWDDWD,1,3,5,15,20,LLWDLLDLL,LDWDWWWDW
+Atalanta,Reggina,2-2,/match/atalanta/reggina/2008,2008,20,serie_a,20,38,1,2,2,8,30,6,7,6,27,26,DWDWDWDDLDLWWWWLDLW,4,3,2,17,12,17,23,3,8,8,15,27,DDLWWDDLDLDWDWLWWDW,0,5,4,5,17,WWDDDWWLL,DWWDDDWWD
+Milan,Genoa,2-0,/match/milan/genoa/2008,2008,20,serie_a,20,38,0,2,0,11,29,7,7,5,30,17,LDDDWDLLLLDWLDLDWWL,1,6,2,9,8,10,30,6,7,6,20,25,LDDDWLWWDWDWLDLDWLW,2,4,3,7,11,DDDLLDDDW,DDLWWWDDL
+Udinese,Inter,0-0,/match/udinese/internazionale/2008,2008,20,serie_a,20,38,1,0,0,5,35,9,5,5,23,22,DLLWWWDDLWDLWWWWDLL,5,2,2,14,13,1,53,15,4,0,43,13,DLWDWLWLDWDWWLWLWLW,6,3,0,17,6,LWWDWWWDL,LDLLDDLLL
+Livorno,Juventus,1-3,/match/livorno/juventus-fc/2008,2008,20,serie_a,20,38,2,1,3,14,25,5,7,7,23,29,WLDDWLWLWLDLWDDDDLW,2,4,3,10,13,3,43,10,7,2,36,16,WLLDWLDWWWDDWDWLWDD,3,5,1,14,13,LDLLDWDDW,LDLDWDDLD
+Palermo FC,Livorno,1-0,/match/palermo/livorno/2008,2008,21,serie_a,20,38,0,1,0,11,30,6,7,7,27,34,LLDLWWDDDDDWWWWLDWLW,3,5,2,13,12,15,25,5,7,8,24,32,WLDDWLWLWLDLWDDDDLWL,3,3,4,13,16,LDWDDDWWDL,WDWWWLLDDL
+Napoli,Udinese,3-1,/match/napoli/udinese/2008,2008,21,serie_a,20,38,0,3,1,9,31,6,6,8,30,31,LLWDWLWDWWDWWWWDDWDW,5,3,2,14,9,5,37,9,6,5,23,22,DLLWWWDDLWDLWWWWDLLD,4,3,3,9,9,LWWLWDWWDD,DLWDLDLWWL
+Reggina,Torino,1-3,/match/reggina/torino-fc/2008,2008,21,serie_a,20,38,2,1,3,17,24,3,9,8,17,29,DDLWWDDLDLDWDWLWWDWD,3,3,4,10,10,14,26,2,12,6,17,24,DDDDWLWDWWDDDDWDDLWD,0,6,4,8,16,DLDLLWDLWW,DDWDWDDWDW
+Parma,Atalanta,2-3,/match/parma-fc/atalanta/2008,2008,21,serie_a,20,38,2,2,3,13,27,4,7,9,22,29,DWDDWWLWWDDDWWWWWLWD,4,4,2,17,14,8,32,6,8,6,29,28,DWDWDWDDLDLWWWWLDLWD,2,4,4,10,14,DDWLWDDWWL,DDDWLLWWDW
+Lazio,Sampdoria,2-1,/match/lazio/sampdoria/2008,2008,21,serie_a,20,38,0,2,1,16,24,4,8,8,22,29,DDDWWDLLLWLWWDWLDLDD,3,2,5,12,15,6,35,8,4,8,26,24,LDWDWWWWWLLWWWWDWWDW,2,1,7,8,17,DDWLLLWWLL,LWWWWLWWWD
+Juventus,Cagliari,1-1,/match/juventus-fc/cagliari/2008,2008,21,serie_a,20,38,1,1,1,3,45,11,7,2,39,17,WLLDWLDWWWDDWDWLWDDL,7,2,1,22,3,20,16,3,4,13,15,37,LLDLWWWDWDLWLDWLWLWW,1,2,7,8,23,WLWWWDWWWD,LDWWWDWWWW
+Inter,Empoli,1-0,/match/internazionale/empoli-fc/2008,2008,21,serie_a,20,38,0,1,0,1,54,15,5,0,43,13,DLWDWLWLDWDWWLWLWLWD,9,1,0,26,7,18,22,3,7,10,15,28,WLDDWWWLLWDWDWWDDDWL,1,2,7,4,17,DWWWWWWWWW,WDWWLWWWDW
+Genoa,Catania,2-1,/match/genoa/catania/2008,2008,21,serie_a,20,38,0,2,1,12,30,6,7,7,20,27,LDDDWLWWDWDWLDLDWLWW,4,3,3,13,14,10,31,5,8,7,18,22,DDWLWDWDWDLDWWWWWDWD,0,5,5,7,17,LDWWDDLLWW,DWDDDDWWWW
+Siena,Roma,3-0,/match/siena/roma/2008,2008,21,serie_a,20,38,0,3,0,19,22,3,8,9,22,31,LWDDDWWWDDDLWDLDWLLW,1,6,3,13,13,2,48,13,6,1,38,19,LWLDDLLDLWDWLWDDWLWW,6,4,0,16,6,LDDWDDLDDL,LLDLLDLDDL
+Fiorentina,Milan,0-1,/match/fiorentina/milan/2008,2008,21,serie_a,20,38,2,0,1,4,40,10,7,3,32,18,WDDLDLDWDWLLDLWDWLWL,5,3,2,20,12,7,33,8,7,5,32,17,LDDDWDLLLLDWLDLDWWLW,6,1,3,21,9,WDDDWWLLWW,LDWLLWLLWL
+Atalanta,Fiorentina,2-2,/match/atalanta/fiorentina/2008,2008,22,serie_a,20,38,1,2,2,11,34,7,8,6,32,30,DWDWDWDDLDLWWWWLDLWDL,4,4,2,19,14,4,40,10,7,4,32,19,WDDLDLDWDWLLDLWDWLWLL,5,4,1,12,6,WWDDDWWLLD,DLLDLDWDLL
+Roma,Reggina,2-0,/match/roma/reggina/2008,2008,22,serie_a,20,38,0,2,0,2,48,13,6,2,38,22,LWLDDLLDLWDWLWDDWLWWW,7,2,1,22,13,18,24,3,9,9,18,32,DDLWWDDLDLDWDWLWWDWDL,0,6,4,7,19,WDLDWWWWWW,DWWDDDWWDD
+Torino,Palermo FC,3-1,/match/torino-fc/palermo/2008,2008,22,serie_a,20,38,0,3,1,13,28,3,12,6,20,25,DDDDWLWDWWDDDDWDDLWDL,2,6,2,9,8,10,34,7,7,7,28,34,LLDLWWDDDDDWWWWLDWLWW,3,2,5,14,22,DDLWWDDDLD,LLWDDWWLWW
+Sampdoria,Napoli,2-0,/match/sampdoria/napoli/2008,2008,22,serie_a,20,38,0,2,0,6,35,8,4,9,27,26,LDWDWWWWWLLWWWWDWWDWW,6,3,1,18,7,8,35,7,6,8,33,32,LLWDWLWDWWDWWWWDDWDWW,1,3,6,16,22,DDWWLWWDWW,LDWDWWWDWW
+Livorno,Genoa,1-1,/match/livorno/genoa/2008,2008,22,serie_a,20,38,1,1,1,17,25,5,7,9,24,33,WLDDWLWLWLDLWDDDDLWLW,2,4,4,11,16,9,34,7,7,7,22,28,LDDDWLWWDWDWLDLDWLWWW,2,4,4,7,13,LDLLDWDDWL,DDLWWWDDLW
+Empoli,Lazio,1-0,/match/empoli-fc/lazio/2008,2008,22,serie_a,20,38,0,1,0,19,22,3,7,11,15,29,WLDDWWWLLWDWDWWDDDWLW,2,5,3,11,11,14,28,5,8,8,24,30,DDDWWDLLLWLWWDWLDLDDW,1,6,3,10,14,LDWLDDWDDL,DWDLWWDDDD
+Cagliari,Parma,1-1,/match/cagliari/parma-fc/2008,2008,22,serie_a,20,38,1,1,1,20,17,3,5,13,16,38,LLDLWWWDWDLWLDWLWLWWD,2,2,6,7,14,15,27,4,7,10,24,32,DWDDWWLWWDDDWWWWWLWDL,0,3,7,5,15,LLWDLLDLLW,WDWWDWWWWD
+Milan,Siena,1-0,/match/milan/siena/2008,2008,22,serie_a,20,38,0,1,0,7,35,9,7,5,33,17,LDDDWDLLLLDWLDLDWWLWL,2,6,2,11,8,16,26,4,8,9,25,31,LWDDDWWWDDDLWDLDWLLWW,2,2,6,9,18,DDDLLDDDWW,WDWWDWLWLW
+Udinese,Juventus,1-2,/match/udinese/juventus-fc/2008,2008,22,serie_a,20,38,2,1,2,5,37,9,6,6,24,25,DLLWWWDDLWDLWWWWDLLDW,5,3,2,14,13,3,47,11,8,2,40,18,WLLDWLDWWWDDWDWLWDDLD,4,5,1,17,14,LWWDWWWDLD,LDLDWDDLDL
+Catania,Inter,0-2,/match/catania/internazionale/2008,2008,22,serie_a,20,38,2,0,2,12,31,5,8,8,19,24,DDWLWDWDWDLDWWWWWDWDW,5,3,2,11,5,1,58,16,5,0,44,13,DLWDWLWLDWDWWLWLWLWDW,6,4,0,17,6,DLWWWLWWDD,LDLLDDLLLD
+Inter,Livorno,2-0,/match/internazionale/livorno/2008,2008,23,serie_a,20,38,0,2,0,1,60,17,5,0,46,13,DLWDWLWLDWDWWLWLWLWDWL,10,1,0,27,7,16,27,5,8,9,25,34,WLDDWLWLWLDLWDDDDLWLWD,3,3,5,13,17,DWWWWWWWWWW,WDWWWLLDDLW
+Parma,Milan,0-0,/match/parma-fc/milan/2008,2008,23,serie_a,20,38,1,0,0,15,28,4,8,10,25,33,DWDDWWLWWDDDWWWWWLWDLD,4,4,3,19,17,6,39,10,7,5,34,17,LDDDWDLLLLDWLDLDWWLWLW,7,1,3,22,9,DDWLWDDWWLL,LDWLLWLLWLL
+Juventus,Roma,1-0,/match/juventus-fc/roma/2008,2008,23,serie_a,20,38,0,1,0,3,49,12,8,2,42,19,WLLDWLDWWWDDWDWLWDDLDL,7,3,1,23,4,2,52,14,6,2,40,22,LWLDDLLDLWDWLWDDWLWWWW,6,4,1,16,9,WLWWWDWWWDD,LLDLLDLDDLW
+Reggina,Udinese,1-3,/match/reggina/udinese/2008,2008,23,serie_a,20,38,2,1,3,19,24,3,9,10,18,34,DDLWWDDLDLDWDWLWWDWDLW,3,3,5,11,13,7,37,9,6,7,25,27,DLLWWWDDLWDLWWWWDLLDWL,4,3,4,10,12,DLDLLWDLWWL,DLWDLDLWWLW
+Palermo FC,Cagliari,2-1,/match/palermo/cagliari/2008,2008,23,serie_a,20,38,0,2,1,11,34,7,7,8,29,37,LLDLWWDDDDDWWWWLDWLWWW,4,5,2,14,12,20,19,3,6,13,17,39,LLDLWWWDWDLWLDWLWLWWDD,1,3,7,9,24,LDWDDDWWDLW,LDWWWDWWWWD
+Napoli,Empoli,1-3,/match/napoli/empoli-fc/2008,2008,23,serie_a,20,38,2,1,3,10,35,7,6,9,33,34,LLWDWLWDWWDWWWWDDWDWWW,6,3,2,17,10,18,26,4,7,11,16,29,WLDDWWWLLWDWDWWDDDWLWW,1,2,8,4,18,LWWLWDWWDDW,WDWWLWWWDWW
+Lazio,Atalanta,3-0,/match/lazio/atalanta/2008,2008,23,serie_a,20,38,0,3,0,14,28,5,8,9,24,31,DDDWWDLLLWLWWDWLDLDDWW,4,2,5,14,16,8,36,7,9,6,34,32,DWDWDWDDLDLWWWWLDLWDLD,3,4,4,13,16,DDWLLLWWLLW,DDDWLLWWDWL
+Genoa,Sampdoria,0-1,/match/genoa/sampdoria/2008,2008,23,serie_a,20,38,2,0,1,9,35,7,8,7,23,29,LDDDWLWWDWDWLDLDWLWWWD,5,3,3,15,15,5,39,9,4,9,29,26,LDWDWWWWWLLWWWWDWWDWWW,2,1,8,9,19,LDWWDDLLWWW,LWWWWLWWWDW
+Fiorentina,Catania,2-1,/match/fiorentina/catania/2008,2008,23,serie_a,20,38,0,2,1,4,41,10,8,4,34,21,WDDLDLDWDWLLDLWDWLWLLD,5,3,3,20,13,13,31,5,8,9,19,26,DDWLWDWDWDLDWWWWWDWDWL,0,5,6,8,19,WDDDWWLLWWL,DWDDDDWWWWW
+Siena,Torino,0-0,/match/siena/torino-fc/2008,2008,23,serie_a,20,38,1,0,0,17,26,4,8,10,25,32,LWDDDWWWDDDLWDLDWLLWWW,2,6,3,16,13,12,32,4,12,6,23,26,DDDDWLWDWWDDDDWDDLWDLW,1,6,4,11,17,LDDWDDLDDLW,DDWDWDDWDWL
+Torino,Parma,4-4,/match/torino-fc/parma-fc/2008,2008,24,serie_a,20,38,1,4,4,12,33,4,13,6,23,26,DDDDWLWDWWDDDDWDDLWDLWD,3,6,2,12,9,15,30,4,9,10,25,33,DWDDWWLWWDDDWWWWWLWDLDD,0,4,7,6,16,DDLWWDDDLDW,WDWWDWWWWDD
+Reggina,Juventus,2-1,/match/reggina/juventus-fc/2008,2008,24,serie_a,20,38,0,2,1,19,24,3,9,11,19,37,DDLWWDDLDLDWDWLWWDWDLWL,3,3,6,12,16,2,53,13,8,2,43,19,WLLDWLDWWWDDWDWLWDDLDLW,5,5,1,19,15,DLDLLWDLWWLL,LDLDWDDLDLL
+Sampdoria,Inter,1-1,/match/sampdoria/internazionale/2008,2008,24,serie_a,20,38,1,1,1,5,41,10,4,9,30,26,LDWDWWWWWLLWWWWDWWDWWWL,7,3,1,20,7,1,64,18,5,0,48,13,DLWDWLWLDWDWWLWLWLWDWLW,7,4,0,19,6,DDWWLWWDWWW,LDLLDDLLLDL
+Livorno,Napoli,1-2,/match/livorno/napoli/2008,2008,24,serie_a,20,38,2,1,2,18,27,5,8,10,25,36,WLDDWLWLWLDLWDDDDLWLWDW,2,5,4,12,17,11,35,7,6,10,34,37,LLWDWLWDWWDWWWWDDWDWWWL,1,3,7,16,24,LDLLDWDDWLD,LDWDWWWDWWW
+Empoli,Catania,2-0,/match/empoli-fc/catania/2008,2008,24,serie_a,20,38,0,2,0,17,28,5,7,11,19,30,WLDDWWWLLWDWDWWDDDWLWWL,3,5,3,12,11,14,31,5,8,10,20,28,DDWLWDWDWDLDWWWWWDWDWLW,0,5,7,9,21,LDWLDDWDDLW,DWDDDDWWWWWW
+Cagliari,Lazio,1-0,/match/cagliari/lazio/2008,2008,24,serie_a,20,38,0,1,0,20,19,3,6,14,18,41,LLDLWWWDWDLWLDWLWLWWDDW,2,3,6,8,15,13,32,6,8,9,27,31,DDDWWDLLLWLWWDWLDLDDWWW,1,6,4,10,15,LLWDLLDLLWD,DWDLWWDDDDW
+Atalanta,Siena,2-2,/match/atalanta/siena/2008,2008,24,serie_a,20,38,1,2,2,9,36,7,9,7,34,35,DWDWDWDDLDLWWWWLDLWDLDW,4,5,2,21,16,16,28,4,9,10,25,32,LWDDDWWWDDDLWDLDWLLWWWD,2,2,7,9,19,WWDDDWWLLDD,WDWWDWLWLWW
+Roma,Fiorentina,1-0,/match/roma/fiorentina/2008,2008,24,serie_a,20,38,0,1,0,3,52,14,6,3,40,23,LWLDDLLDLWDWLWDDWLWWWWW,8,2,1,24,13,4,45,11,8,4,36,22,WDDLDLDWDWLLDLWDWLWLLDW,5,5,1,14,8,WDLDWWWWWWW,DLLDLDWDLLD
+Udinese,Genoa,3-5,/match/udinese/genoa/2008,2008,24,serie_a,20,38,2,3,5,7,39,10,6,7,28,28,DLLWWWDDLWDLWWWWDLLDWLL,5,3,3,15,15,10,35,7,8,8,23,30,LDDDWLWWDWDWLDLDWLWWWDL,2,5,4,8,14,LWWDWWWDLDL,DDLWWWDDLWD
+Milan,Palermo FC,2-1,/match/milan/palermo/2008,2008,24,serie_a,20,38,0,2,1,6,40,10,8,5,34,17,LDDDWDLLLLDWLDLDWWLWLWD,3,6,2,12,8,8,38,8,7,8,31,38,LLDLWWDDDDDWWWWLDWLWWWW,3,2,6,15,25,DDDLLDDDWWW,LLWDDWWLWWW
+Juventus,Torino,0-0,/match/juventus-fc/torino-fc/2008,2008,25,serie_a,20,38,1,0,0,3,53,13,8,3,44,21,WLLDWLDWWWDDWDWLWDDLDLWW,8,3,1,24,4,12,35,4,14,6,27,30,DDDDWLWDWWDDDDWDDLWDLWDD,1,7,4,11,17,WLWWWDWWWDDW,DDWDWDDWDWLD
+Parma,Udinese,2-0,/match/parma-fc/udinese/2008,2008,25,serie_a,20,38,0,2,0,16,31,4,10,10,29,37,DWDDWWLWWDDDWWWWWLWDLDDD,4,5,3,19,17,7,39,10,6,8,31,33,DLLWWWDDLWDLWWWWDLLDWLLL,5,3,4,13,13,DDWLWDDWWLLD,DLWDLDLWWLWL
+Palermo FC,Empoli,2-0,/match/palermo/empoli-fc/2008,2008,25,serie_a,20,38,0,2,0,8,38,8,7,9,32,40,LLDLWWDDDDDWWWWLDWLWWWWW,5,5,2,16,13,14,32,6,7,11,21,30,WLDDWWWLLWDWDWWDDDWLWWLW,2,2,8,7,19,LDWDDDWWDLWW,WDWWLWWWDWWL
+Lazio,Reggina,1-0,/match/lazio/reggina/2008,2008,25,serie_a,20,38,0,1,0,13,32,6,8,10,27,32,DDDWWDLLLWLWWDWLDLDDWWWW,5,2,5,17,16,18,28,4,9,11,21,38,DDLWWDDLDLDWDWLWWDWDLWLW,0,6,5,7,21,DDWLLLWWLLWW,DWWDDDWWDDW
+Atalanta,Sampdoria,4-1,/match/atalanta/sampdoria/2008,2008,25,serie_a,20,38,0,4,1,9,38,7,10,7,36,37,DWDWDWDDLDLWWWWLDLWDLDWD,4,6,2,23,18,6,43,10,5,9,31,27,LDWDWWWWWLLWWWWDWWDWWWLD,3,1,8,10,19,WWDDDWWLLDDD,LWWWWLWWWDWL
+Inter,Roma,1-1,/match/internazionale/roma/2008,2008,25,serie_a,20,38,1,1,1,1,65,18,6,0,49,14,DLWDWLWLDWDWWLWLWLWDWLWD,11,1,0,29,7,2,56,15,6,3,41,23,LWLDDLLDLWDWLWDDWLWWWWWW,6,4,2,16,10,DWWWWWWWWWWW,LLDLLDLDDLWW
+Genoa,Napoli,2-0,/match/genoa/napoli/2008,2008,25,serie_a,20,38,0,2,0,11,37,8,8,8,28,33,LDDDWLWWDWDWLDLDWLWWWDLL,5,3,4,15,16,10,37,8,6,10,36,38,LLWDWLWDWWDWWWWDDWDWWWLL,2,3,7,18,25,LDWWDDLLWWWL,LDWDWWWDWWWL
+Fiorentina,Livorno,1-0,/match/fiorentina/livorno/2008,2008,25,serie_a,20,38,0,1,0,4,45,11,8,5,36,23,WDDLDLDWDWLLDLWDWLWLLDWW,6,3,3,22,14,19,27,5,8,11,26,38,WLDDWLWLWLDLWDDDDLWLWDWL,3,3,6,13,19,WDDDWWLLWWLW,WDWWWLLDDLWW
+Catania,Milan,1-1,/match/catania/milan/2008,2008,25,serie_a,20,38,1,1,1,15,31,5,8,11,20,30,DDWLWDWDWDLDWWWWWDWDWLWW,5,3,3,11,7,5,44,11,8,5,36,18,LDDDWDLLLLDWLDLDWWLWLWDW,7,2,3,22,9,DLWWWLWWDDL,LDWLLWLLWLLD
+Siena,Cagliari,1-0,/match/siena/cagliari/2008,2008,25,serie_a,20,38,0,1,0,17,29,4,10,10,27,34,LWDDDWWWDDDLWDLDWLLWWWDD,2,7,3,16,13,20,23,4,6,14,19,41,LLDLWWWDWDLWLDWLWLWWDDWW,1,3,8,10,26,LDDWDDLDDLWD,LDWWWDWWWWDW
+Roma,Parma,4-0,/match/roma/parma-fc/2008,2008,26,serie_a,20,38,0,4,0,2,57,15,7,3,42,24,LWLDDLLDLWDWLWDDWLWWWWWWD,9,2,1,25,13,14,35,5,10,10,31,37,DWDDWWLWWDDDWWWWWLWDLDDDW,0,5,7,10,20,WDLDWWWWWWWW,WDWWDWWWWDDD
+Milan,Lazio,1-1,/match/milan/lazio/2008,2008,26,serie_a,20,38,1,1,1,5,45,11,9,5,37,19,LDDDWDLLLLDWLDLDWWLWLWDWD,4,6,2,14,9,13,36,7,8,10,28,32,DDDWWDLLLWLWWDWLDLDDWWWWW,1,6,5,10,16,DDDLLDDDWWWW,DWDLWWDDDDWW
+Sampdoria,Torino,2-2,/match/sampdoria/torino-fc/2008,2008,26,serie_a,20,38,1,2,2,6,43,10,5,10,32,31,LDWDWWWWWLLWWWWDWWDWWWLDW,7,4,1,21,8,12,36,4,15,6,27,30,DDDDWLWDWWDDDDWDDLWDLWDDD,1,8,4,11,17,DDWWLWWDWWWD,DDWDWDDWDWLDD
+Reggina,Palermo FC,0-0,/match/reggina/palermo/2008,2008,26,serie_a,20,38,1,0,0,18,28,4,9,12,21,39,DDLWWDDLDLDWDWLWWDWDLWLWW,4,3,6,14,17,8,42,9,7,9,34,40,LLDLWWDDDDDWWWWLDWLWWWWWW,3,2,7,16,27,DLDLLWDLWWLLW,LLWDDWWLWWWW
+Livorno,Catania,1-0,/match/livorno/catania/2008,2008,26,serie_a,20,38,0,1,0,19,27,5,8,12,26,39,WLDDWLWLWLDLWDDDDLWLWDWLW,2,5,5,13,19,15,33,5,9,11,21,31,DDWLWDWDWDLDWWWWWDWDWLWWD,0,5,8,9,23,LDLLDWDDWLDL,DWDDDDWWWWWWW
+Juventus,Fiorentina,2-3,/match/juventus-fc/fiorentina/2008,2008,26,serie_a,20,38,2,2,3,3,55,13,9,3,44,21,WLLDWLDWWWDDWDWLWDDLDLWWD,8,4,1,24,4,4,49,12,8,5,37,23,WDDLDLDWDWLLDLWDWLWLLDWWW,5,5,2,14,9,WLWWWDWWWDDWD,DLLDLDWDLLDW
+Empoli,Siena,0-2,/match/empoli-fc/siena/2008,2008,26,serie_a,20,38,2,0,2,17,32,6,7,12,21,32,WLDDWWWLLWDWDWWDDDWLWWLWW,4,5,3,14,11,16,33,5,10,10,28,34,LWDDDWWWDDDLWDLDWLLWWWDDW,2,3,7,11,21,LDWLDDWDDLWW,WDWWDWLWLWWD
+Cagliari,Genoa,2-1,/match/cagliari/genoa/2008,2008,26,serie_a,20,38,0,2,1,20,23,4,6,15,19,42,LLDLWWWDWDLWLDWLWLWWDDWWW,3,3,6,9,15,9,41,9,8,8,30,33,LDDDWLWWDWDWLDLDWLWWWDLLW,3,5,4,13,17,LLWDLLDLLWDW,DDLWWWDDLWDL
+Udinese,Atalanta,2-0,/match/udinese/atalanta/2008,2008,26,serie_a,20,38,0,2,0,10,39,10,6,9,31,35,DLLWWWDDLWDLWWWWDLLDWLLLW,5,3,4,18,20,7,42,8,10,7,40,38,DWDWDWDDLDLWWWWLDLWDLDWDW,3,4,5,13,19,LWWDWWWDLDLL,DDDWLLWWDWLW
+Napoli,Inter,1-0,/match/napoli/internazionale/2008,2008,26,serie_a,20,38,0,1,0,11,37,8,6,11,36,40,LLWDWLWDWWDWWWWDDWDWWWLLW,6,3,3,18,13,1,67,18,7,0,50,15,DLWDWLWLDWDWWLWLWLWDWLWDD,7,5,0,20,7,LWWLWDWWDDWL,LDLLDDLLLDLD
+Inter,Reggina,2-0,/match/internazionale/reggina/2008,2008,27,serie_a,20,38,0,2,0,1,67,18,7,1,50,16,DLWDWLWLDWDWWLWLWLWDWLWDDW,11,2,0,30,8,19,30,4,10,12,21,39,DDLWWDDLDLDWDWLWWDWDLWLWWD,0,6,6,7,22,DWWWWWWWWWWWD,DWWDDDWWDDWW
+Palermo FC,Udinese,1-1,/match/palermo/udinese/2008,2008,27,serie_a,20,38,1,1,1,8,43,9,8,9,34,40,LLDLWWDDDDDWWWWLDWLWWWWWWD,6,5,2,18,13,7,43,11,6,9,33,35,DLLWWWDDLWDLWWWWDLLDWLLLWW,5,3,5,13,15,LDWDDDWWDLWWW,DLWDLDLWWLWLW
+Siena,Fiorentina,1-0,/match/siena/fiorentina/2008,2008,27,serie_a,20,38,0,1,0,15,35,6,10,10,30,34,LWDDDWWWDDDLWDLDWLLWWWDDWL,3,7,3,17,13,4,51,13,8,5,40,25,WDDLDLDWDWLLDLWDWLWLLDWWWL,6,5,2,17,11,LDDWDDLDDLWDW,DLLDLDWDLLDWL
+Parma,Sampdoria,1-2,/match/parma-fc/sampdoria/2008,2008,27,serie_a,20,38,2,1,2,14,35,5,10,11,31,41,DWDDWWLWWDDDWWWWWLWDLDDDWW,5,5,3,21,17,6,45,10,6,10,34,33,LDWDWWWWWLLWWWWDWWDWWWLDWD,3,1,9,11,23,DDWLWDDWWLLDW,LWWWWLWWWDWLW
+Napoli,Roma,0-2,/match/napoli/roma/2008,2008,27,serie_a,20,38,2,0,2,10,41,9,6,11,37,40,LLWDWLWDWWDWWWWDDWDWWWLLWW,7,3,3,19,13,2,61,16,7,3,46,24,LWLDDLLDLWDWLWDDWLWWWWWWDW,6,5,2,17,11,LWWLWDWWDDWLW,LLDLLDLDDLWWD
+Lazio,Livorno,2-0,/match/lazio/livorno/2008,2008,27,serie_a,20,38,0,2,0,13,37,7,9,10,29,33,DDDWWDLLLWLWWDWLDLDDWWWWWD,6,2,5,18,16,18,31,6,8,12,27,39,WLDDWLWLWLDLWDDDDLWLWDWLWW,3,3,7,13,20,DDWLLLWWLLWWW,WDWWWLLDDLWWW
+Empoli,Milan,1-3,/match/empoli-fc/milan/2008,2008,27,serie_a,20,38,2,1,3,17,32,6,7,13,21,34,WLDDWWWLLWDWDWWDDDWLWWLWWL,4,5,4,14,13,5,47,11,10,5,38,20,LDDDWDLLLLDWLDLDWWLWLWDWDD,7,3,3,23,10,LDWLDDWDDLWWL,LDWLLWLLWLLDD
+Catania,Cagliari,2-1,/match/catania/cagliari/2008,2008,27,serie_a,20,38,0,2,1,16,33,5,9,12,21,32,DDWLWDWDWDLDWWWWWDWDWLWWDW,5,4,3,12,8,20,27,5,6,15,21,43,LLDLWWWDWDLWLDWLWLWWDDWWWW,1,3,9,10,27,DLWWWLWWDDLD,LDWWWDWWWWDWW
+Torino,Atalanta,1-0,/match/torino-fc/atalanta/2008,2008,27,serie_a,20,38,0,1,0,12,37,4,16,6,29,32,DDDDWLWDWWDDDDWDDLWDLWDDDD,3,7,2,16,13,9,42,8,10,8,40,40,DWDWDWDDLDLWWWWLDLWDLDWDWW,3,4,6,13,21,DDLWWDDDLDWD,DDDWLLWWDWLWW
+Genoa,Juventus,0-2,/match/genoa/juventus-fc/2008,2008,27,serie_a,20,38,2,0,2,11,41,9,8,9,31,35,LDDDWLWWDWDWLDLDWLWWWDLLWW,6,3,4,17,16,3,55,13,9,4,46,24,WLLDWLDWWWDDWDWLWDDLDLWWDL,5,5,2,20,17,LDWWDDLLWWWLW,LDLDWDDLDLLW
+Udinese,Lazio,2-2,/match/udinese/lazio/2008,2008,28,serie_a,20,38,1,2,2,8,44,11,7,9,34,36,DLLWWWDDLWDLWWWWDLLDWLLLWWD,6,3,4,20,20,11,41,8,9,10,31,33,DDDWWDLLLWLWWDWLDLDDWWWWWDW,1,7,5,11,17,LWWDWWWDLDLLW,DWDLWWDDDDWWD
+Roma,Milan,2-1,/match/roma/milan/2008,2008,28,serie_a,20,38,0,2,1,2,63,17,7,3,48,24,LWLDDLLDLWDWLWDDWLWWWWWWDWL,10,2,1,29,13,5,49,12,10,5,41,21,LDDDWDLLLLDWLDLDWWLWLWDWDDL,8,3,3,26,11,WDLDWWWWWWWWW,LDWLLWLLWLLDDL
+Reggina,Siena,4-0,/match/reggina/siena/2008,2008,28,serie_a,20,38,0,4,0,19,30,4,10,13,21,41,DDLWWDDLDLDWDWLWWDWDLWLWWDW,4,4,6,14,17,14,39,7,10,10,31,34,LWDDDWWWDDDLWDLDWLLWWWDDWLW,3,3,7,13,21,DLDLLWDLWWLLWD,WDWWDWLWLWWDL
+Livorno,Parma,1-1,/match/livorno/parma-fc/2008,2008,28,serie_a,20,38,1,1,1,18,31,6,8,13,27,41,WLDDWLWLWLDLWDDDDLWLWDWLWWW,3,5,5,14,19,16,35,5,10,12,32,43,DWDDWWLWWDDDWWWWWLWDLDDDWWL,0,5,8,10,24,LDLLDWDDWLDLW,WDWWDWWWWDDDW
+Inter,Palermo FC,2-1,/match/internazionale/palermo/2008,2008,28,serie_a,20,38,0,2,1,1,71,19,7,1,52,16,DLWDWLWLDWDWWLWLWLWDWLWDDWW,12,2,0,32,8,7,45,9,9,9,35,41,LLDLWWDDDDDWWWWLDWLWWWWWWDD,3,3,7,16,27,DWWWWWWWWWWWDW,LLWDDWWLWWWWD
+Fiorentina,Genoa,3-1,/match/fiorentina/genoa/2008,2008,28,serie_a,20,38,0,3,1,4,51,13,8,6,40,26,WDDLDLDWDWLLDLWDWLWLLDWWWLW,7,3,3,23,14,12,41,9,8,10,31,37,LDDDWLWWDWDWLDLDWLWWWDLLWWL,3,5,5,14,19,WDDDWWLLWWLWW,DDLWWWDDLWDLW
+Cagliari,Torino,3-0,/match/cagliari/torino-fc/2008,2008,28,serie_a,20,38,0,3,0,20,27,5,6,16,22,45,LLDLWWWDWDLWLDWLWLWWDDWWWWW,4,3,6,11,16,10,41,5,16,6,30,32,DDDDWLWDWWDDDDWDDLWDLWDDDDW,1,9,4,13,19,LLWDLLDLLWDWW,DDWDWDDWDWLDDD
+Atalanta,Empoli,4-1,/match/atalanta/empoli-fc/2008,2008,28,serie_a,20,38,0,4,1,9,42,8,10,9,40,41,DWDWDWDDLDLWWWWLDLWDLDWDWWW,5,6,2,27,19,17,32,6,7,14,22,37,WLDDWWWLLWDWDWWDDDWLWWLWWLL,2,2,9,7,21,WWDDDWWLLDDDW,WDWWLWWWDWWLW
+Sampdoria,Catania,3-1,/match/sampdoria/catania/2008,2008,28,serie_a,20,38,0,3,1,6,47,11,6,10,36,34,LDWDWWWWWLLWWWWDWWDWWWLDWDL,7,5,1,23,10,15,37,6,9,12,23,33,DDWLWDWDWDLDWWWWWDWDWLWWDWW,0,5,9,9,24,DDWWLWWDWWWDD,DWDDDDWWWWWWWW
+Juventus,Napoli,1-0,/match/juventus-fc/napoli/2008,2008,28,serie_a,20,38,0,1,0,3,57,14,9,4,48,24,WLLDWLDWWWDDWDWLWDDLDLWWDLL,8,4,2,26,7,13,41,9,6,12,37,42,LLWDWLWDWWDWWWWDDWDWWWLLWWL,2,3,8,18,27,WLWWWDWWWDDWDL,LDWDWWWDWWWLW
+Milan,Sampdoria,1-2,/match/milan/sampdoria/2008,2008,29,serie_a,20,38,2,1,2,6,49,12,10,6,42,23,LDDDWDLLLLDWLDLDWWLWLWDWDDLW,4,7,2,15,10,5,51,12,6,10,39,35,LDWDWWWWWLLWWWWDWWDWWWLDWDLW,4,1,9,13,24,DDDLLDDDWWWWD,LWWWWLWWWDWLWL
+Parma,Palermo FC,2-1,/match/parma-fc/palermo/2008,2008,29,serie_a,20,38,0,2,1,16,36,5,11,12,33,44,DWDDWWLWWDDDWWWWWLWDLDDDWWLD,5,5,4,22,19,9,45,9,9,10,36,43,LLDLWWDDDDDWWWWLDWLWWWWWWDDW,3,3,8,17,29,DDWLWDDWWLLDWL,LLWDDWWLWWWWDW
+Napoli,Fiorentina,2-0,/match/napoli/fiorentina/2008,2008,29,serie_a,20,38,0,2,0,13,41,9,6,13,37,43,LLWDWLWDWWDWWWWDDWDWWWLLWWLW,7,3,4,19,15,4,55,14,8,6,43,27,WDDLDLDWDWLLDLWDWLWLLDWWWLWW,6,5,3,17,12,LWWLWDWWDDWLWL,DLLDLDWDLLDWLW
+Livorno,Reggina,1-1,/match/livorno/reggina/2008,2008,29,serie_a,20,38,1,1,1,18,33,6,9,13,28,42,WLDDWLWLWLDLWDDDDLWLWDWLWWWD,3,6,5,15,20,17,34,5,10,13,25,41,DDLWWDDLDLDWDWLWWDWDLWLWWDWW,0,6,7,7,24,LDLLDWDDWLDLWD,DWWDDDWWDDWWW
+Torino,Udinese,0-1,/match/torino-fc/udinese/2008,2008,29,serie_a,20,38,2,0,1,11,41,5,16,7,30,35,DDDDWLWDWWDDDDWDDLWDLWDDDDWW,4,7,2,17,13,7,46,11,8,9,36,38,DLLWWWDDLWDLWWWWDLLDWLLLWWDD,5,4,5,14,16,DDLWWDDDLDWDW,DLWDLDLWWLWLWD
+Genoa,Inter,1-1,/match/genoa/internazionale/2008,2008,29,serie_a,20,38,1,1,1,12,41,9,8,11,32,40,LDDDWLWWDWDWLDLDWLWWWDLLWWLW,6,3,5,17,18,1,75,20,7,1,54,17,DLWDWLWLDWDWWLWLWLWDWLWDDWWW,7,5,1,20,8,LDWWDDLLWWWLWL,LDLLDDLLLDLDW
+Empoli,Juventus,0-0,/match/empoli-fc/juventus-fc/2008,2008,29,serie_a,20,38,1,0,0,19,32,6,7,15,23,41,WLDDWWWLLWDWDWWDDDWLWWLWWLLW,4,5,5,15,16,3,61,15,9,4,49,24,WLLDWLDWWWDDWDWLWDDLDLWWDLLW,6,5,2,22,17,LDWLDDWDDLWWLL,LDLDWDDLDLLWL
+Catania,Siena,0-0,/match/catania/siena/2008,2008,29,serie_a,20,38,1,0,0,15,37,6,9,13,24,36,DDWLWDWDWDLDWWWWWDWDWLWWDWWW,6,4,3,14,9,14,39,7,10,11,31,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWW,3,3,8,13,25,DLWWWLWWDDLDW,WDWWDWLWLWWDLW
+Cagliari,Atalanta,1-0,/match/cagliari/atalanta/2008,2008,29,serie_a,20,38,0,1,0,20,31,6,6,16,25,45,LLDLWWWDWDLWLDWLWLWWDDWWWWWW,5,3,6,14,16,8,46,9,10,9,44,42,DWDWDWDDLDLWWWWLDLWDLDWDWWWW,3,4,7,13,22,LLWDLLDLLWDWWW,DDDWLLWWDWLWWW
+Lazio,Roma,3-2,/match/lazio/roma/2008,2008,29,serie_a,20,38,0,3,2,10,42,8,10,10,33,35,DDDWWDLLLWLWWDWLDLDDWWWWWDWD,7,2,5,20,16,2,67,18,7,3,50,25,LWLDDLLDLWDWLWDDWLWWWWWWDWLW,7,5,2,19,11,DDWLLLWWLLWWWW,LLDLLDLDDLWWDL
+Roma,Empoli,2-1,/match/roma/empoli-fc/2008,2008,30,serie_a,20,38,0,2,1,2,67,18,7,4,52,28,LWLDDLLDLWDWLWDDWLWWWWWWDWLWW,11,2,1,31,14,20,34,6,8,15,23,41,WLDDWWWLLWDWDWWDDDWLWWLWWLLWD,2,2,10,8,25,WDLDWWWWWWWWWW,WDWWLWWWDWWLWW
+Torino,Milan,0-1,/match/torino-fc/milan/2008,2008,30,serie_a,20,38,2,0,1,13,41,5,16,8,30,36,DDDDWLWDWWDDDDWDDLWDLWDDDDWWL,4,7,3,17,14,6,49,12,10,7,43,25,LDDDWDLLLLDWLDLDWWLWLWDWDDLWL,8,3,4,27,13,DDLWWDDDLDWDWL,LDWLLWLLWLLDDLW
+Siena,Parma,2-0,/match/siena/parma-fc/2008,2008,30,serie_a,20,38,0,2,0,14,40,7,11,11,31,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWWD,4,7,3,18,13,15,40,6,11,12,35,45,DWDDWWLWWDDDWWWWWLWDLDDDWWLDW,0,6,8,11,25,LDDWDDLDDLWDWW,WDWWDWWWWDDDWD
+Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/2008,2008,30,serie_a,20,38,1,1,1,5,53,13,6,10,41,36,LDWDWWWWWLLWWWWDWWDWWWLDWDLWL,8,5,1,26,11,19,35,7,6,16,26,45,LLDLWWWDWDLWLDWLWLWWDDWWWWWWW,1,3,10,11,29,DDWWLWWDWWWDDW,LDWWWDWWWWDWWW
+Reggina,Napoli,1-1,/match/reggina/napoli/2008,2008,30,serie_a,20,38,1,1,1,17,35,5,11,13,26,42,DDLWWDDLDLDWDWLWWDWDLWLWWDWWD,5,4,6,18,17,10,45,10,6,13,39,43,LLWDWLWDWWDWWWWDDWDWWWLLWWLWW,2,3,9,18,28,DLDLLWDLWWLLWDW,LDWDWWWDWWWLWW
+Palermo FC,Genoa,2-3,/match/palermo/genoa/2008,2008,30,serie_a,20,38,2,2,3,11,45,9,9,11,37,45,LLDLWWDDDDDWWWWLDWLWWWWWWDDWW,6,6,2,19,14,12,43,9,9,11,33,41,LDDDWLWWDWDWLDLDWLWWWDLLWWLWD,3,5,6,15,22,LDWDDDWWDLWWWD,DDLWWWDDLWDLWW
+Fiorentina,Lazio,1-0,/match/fiorentina/lazio/2008,2008,30,serie_a,20,38,0,1,0,4,55,14,8,7,43,29,WDDLDLDWDWLLDLWDWLWLLDWWWLWWW,8,3,3,26,15,9,46,9,10,10,36,37,DDDWWDLLLWLWWDWLDLDDWWWWWDWDW,1,8,5,13,19,WDDDWWLLWWLWWW,DWDLWWDDDDWWDD
+Atalanta,Catania,0-0,/match/atalanta/catania/2008,2008,30,serie_a,20,38,1,0,0,8,46,9,10,10,44,43,DWDWDWDDLDLWWWWLDLWDLDWDWWWWW,6,6,2,31,20,16,39,6,10,13,24,36,DDWLWDWDWDLDWWWWWDWDWLWWDWWWD,0,5,10,10,27,WWDDDWWLLDDDWW,DWDDDDWWWWWWWWW
+Udinese,Livorno,2-0,/match/udinese/livorno/2008,2008,30,serie_a,20,38,0,2,0,7,48,12,8,9,37,38,DLLWWWDDLWDLWWWWDLLDWLLLWWDDL,6,4,4,22,22,18,35,6,10,13,29,43,WLDDWLWLWLDLWDDDDLWLWDWLWWWDD,3,3,8,13,22,LWWDWWWDLDLLWD,WDWWWLLDDLWWWW
+Inter,Juventus,1-2,/match/internazionale/juventus-fc/2008,2008,30,serie_a,20,38,2,1,2,1,76,20,8,1,55,18,DLWDWLWLDWDWWLWLWLWDWLWDDWWWD,13,2,0,34,9,3,62,15,10,4,49,24,WLLDWLDWWWDDWDWLWDDLDLWWDLLWD,6,6,2,22,17,DWWWWWWWWWWWDWW,LDLDWDDLDLLWLD
+Cagliari,Roma,1-1,/match/cagliari/roma/2008,2008,31,serie_a,20,38,1,1,1,18,36,7,7,16,27,46,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWD,6,3,6,15,16,2,71,19,7,4,54,29,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWW,7,5,3,21,14,LLWDLLDLLWDWWWW,LLDLLDLDDLWWDLW
+Lazio,Inter,1-1,/match/lazio/internazionale/2008,2008,31,serie_a,20,38,1,1,1,9,46,9,10,11,36,38,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWW,8,2,5,23,18,1,76,20,8,2,56,20,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDL,7,6,1,21,9,DDWLLLWWLLWWWWW,LDLLDDLLLDLDWD
+Udinese,Fiorentina,3-1,/match/udinese/fiorentina/2008,2008,31,serie_a,20,38,0,3,1,6,52,13,8,9,39,38,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLW,7,4,4,24,22,4,59,15,8,7,44,29,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWW,6,5,4,17,14,LWWDWWWDLDLLWDW,DLLDLDWDLLDWLWW
+Livorno,Siena,0-0,/match/livorno/siena/2008,2008,31,serie_a,20,38,1,0,0,19,35,6,10,14,29,45,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDW,3,7,5,16,21,13,44,8,11,11,33,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDW,3,4,8,13,25,LDLLDWDDWLDLWDD,WDWWDWLWLWWDLWD
+Genoa,Reggina,2-0,/match/genoa/reggina/2008,2008,31,serie_a,20,38,0,2,0,11,45,10,9,11,36,43,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDL,6,4,5,18,19,17,37,5,12,13,27,43,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDD,0,7,7,8,25,LDWWDDLLWWWLWLD,DWWDDDWWDDWWWD
+Empoli,Sampdoria,0-2,/match/empoli-fc/sampdoria/2008,2008,31,serie_a,20,38,2,0,2,20,34,6,8,16,24,43,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDW,4,6,5,15,16,5,55,13,7,10,42,37,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLD,5,1,9,15,25,LDWLDDWDDLWWLLD,LWWWWLWWWDWLWLL
+Catania,Torino,1-2,/match/catania/torino-fc/2008,2008,31,serie_a,20,38,2,1,2,16,40,6,11,13,24,36,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDD,6,5,3,14,9,14,41,5,16,9,30,37,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLL,1,9,5,13,22,DLWWWLWWDDLDWD,DDWDWDDWDWLDDDW
+Milan,Atalanta,1-2,/match/milan/atalanta/2008,2008,31,serie_a,20,38,2,1,2,7,51,13,10,7,44,25,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLL,4,7,3,16,12,8,48,9,11,10,44,43,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWD,3,4,8,13,23,DDDLLDDDWWWWDL,DDDWLLWWDWLWWWW
+Napoli,Palermo FC,1-0,/match/napoli/palermo/2008,2008,31,serie_a,20,38,0,1,0,10,46,10,7,13,40,44,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWD,8,3,4,21,15,12,45,9,9,12,39,48,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWL,3,3,9,18,31,LWWLWDWWDDWLWLW,LLWDDWWLWWWWDWW
+Juventus,Parma,3-0,/match/juventus-fc/parma-fc/2008,2008,31,serie_a,20,38,0,3,0,3,64,16,10,4,51,25,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDL,9,4,2,27,7,15,40,6,11,13,35,47,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWW,0,6,9,11,27,WLWWWDWWWDDWDLW,WDWWDWWWWDDDWDW
+Roma,Genoa,3-2,/match/roma/genoa/2008,2008,32,serie_a,20,38,0,3,2,2,72,19,8,4,55,30,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWD,12,2,1,33,15,10,49,11,9,11,38,43,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLW,4,5,6,18,24,WDLDWWWWWWWWWWW,DDLWWWDDLWDLWWL
+Milan,Cagliari,3-1,/match/milan/cagliari/2008,2008,32,serie_a,20,38,0,3,1,7,51,13,10,8,45,27,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLL,4,7,4,17,14,17,38,7,8,16,28,47,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDD,1,4,10,12,30,DDDLLDDDWWWWDLL,LDWWWDWWWWDWWWD
+Siena,Udinese,1-1,/match/siena/udinese/2008,2008,32,serie_a,20,38,1,1,1,13,45,8,12,11,33,38,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWD,5,7,3,20,13,6,56,14,8,9,42,39,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWW,6,4,5,15,16,LDDWDDLDDLWDWWW,DLWDLDLWWLWLWDL
+Sampdoria,Livorno,2-0,/match/sampdoria/livorno/2008,2008,32,serie_a,20,38,0,2,0,5,57,14,7,10,44,37,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDL,8,6,1,27,12,19,37,6,11,14,29,45,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWD,3,3,9,13,24,DDWWLWWDWWWDDWD,WDWWWLLDDLWWWWW
+Torino,Empoli,0-1,/match/torino-fc/empoli-fc/2008,2008,32,serie_a,20,38,2,0,1,14,43,6,16,9,32,38,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLL,4,7,4,17,15,20,34,6,8,17,24,45,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWL,2,2,11,9,27,DDLWWDDDLDWDWLL,WDWWLWWWDWWLWWW
+Fiorentina,Reggina,2-0,/match/fiorentina/reggina/2008,2008,32,serie_a,20,38,0,2,0,4,59,15,8,8,45,32,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWW,9,3,3,27,15,18,37,5,12,14,27,45,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDW,0,7,8,8,27,WDDDWWLLWWLWWWW,DWWDDDWWDDWWWDW
+Catania,Napoli,3-0,/match/catania/napoli/2008,2008,32,serie_a,20,38,0,3,0,16,40,6,11,14,25,38,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDL,6,5,4,15,11,8,50,11,7,13,41,44,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDW,2,4,9,19,29,DLWWWLWWDDLDWDL,LDWDWWWDWWWLWWD
+Atalanta,Inter,0-2,/match/atalanta/internazionale/2008,2008,32,serie_a,20,38,2,0,2,9,50,10,11,10,46,44,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDL,6,7,2,31,20,1,77,20,9,2,57,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLD,7,7,1,22,10,WWDDDWWLLDDDWWD,LDLLDDLLLDLDWDD
+Parma,Lazio,2-2,/match/parma-fc/lazio/2008,2008,32,serie_a,20,38,1,2,2,15,40,6,11,14,35,50,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWW,6,5,4,24,20,11,48,9,11,11,37,39,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWD,1,8,6,13,20,DDWLWDDWWLLDWLW,DWDLWWDDDDWWDDW
+Palermo FC,Juventus,3-2,/match/palermo/juventus-fc/2008,2008,32,serie_a,20,38,0,3,2,12,45,9,9,13,39,49,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLW,6,6,3,21,17,3,68,17,10,4,54,25,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLW,7,6,2,24,18,LDWDDDWWDLWWWDL,LDLDWDDLDLLWLDL
+Palermo FC,Catania,1-0,/match/palermo/catania/2008,2008,33,serie_a,20,38,0,1,0,10,49,10,9,13,42,51,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWW,7,6,3,24,19,14,44,7,11,14,28,38,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLW,0,6,10,10,27,LDWDDDWWDLWWWDLW,DWDDDDWWWWWWWWWD
+Juventus,Milan,3-2,/match/juventus-fc/milan/2008,2008,33,serie_a,20,38,0,3,2,3,68,17,10,5,56,28,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWW,10,4,2,30,7,7,55,14,10,8,48,28,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLW,9,3,4,28,13,WLWWWDWWWDDWDLWW,LDWLLWLLWLLDDLWL
+Genoa,Torino,3-0,/match/genoa/torino-fc/2008,2008,33,serie_a,20,38,0,3,0,12,49,11,9,12,40,46,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWW,7,4,5,20,19,15,43,6,16,10,32,39,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLL,2,9,5,15,23,LDWWDDLLWWWLWLDW,DDWDWDDWDWLDDDWL
+Reggina,Sampdoria,1-0,/match/reggina/sampdoria/2008,2008,33,serie_a,20,38,0,1,0,18,37,5,12,15,27,47,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWW,5,5,6,19,18,5,61,15,7,10,46,37,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLW,6,1,9,17,25,DLDLLWDLWWLLWDWD,LWWWWLWWWDWLWLLL
+Napoli,Atalanta,2-0,/match/napoli/atalanta/2008,2008,33,serie_a,20,38,0,2,0,8,50,11,7,14,41,47,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWW,9,3,4,22,15,9,50,10,11,11,46,46,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLL,4,4,8,15,24,LWWLWDWWDDWLWLWW,DDDWLLWWDWLWWWWL
+Livorno,Cagliari,1-2,/match/livorno/cagliari/2008,2008,33,serie_a,20,38,2,1,2,19,37,6,11,15,29,47,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDW,3,8,5,16,21,17,38,7,8,17,29,50,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDW,1,4,11,13,33,LDLLDWDDWLDLWDDD,LDWWWDWWWWDWWWDW
+Empoli,Parma,1-1,/match/empoli-fc/parma-fc/2008,2008,33,serie_a,20,38,1,1,1,20,36,7,8,17,25,45,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLL,4,6,6,15,18,16,42,6,12,14,37,52,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWD,0,6,10,11,30,LDWLDDWDDLWWLLDL,WDWWDWWWWDDDWDWW
+Lazio,Siena,1-1,/match/lazio/siena/2008,2008,33,serie_a,20,38,1,1,1,11,49,9,12,11,39,41,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDD,8,3,5,24,19,13,47,8,13,11,34,39,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDD,3,5,8,13,25,DDWLLLWWLLWWWWWD,WDWWDWLWLWWDLWDD
+Udinese,Roma,1-3,/match/udinese/roma/2008,2008,33,serie_a,20,38,2,1,3,6,57,14,9,9,43,40,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWD,8,4,4,27,23,2,76,20,8,4,58,32,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDW,7,6,3,22,15,LWWDWWWDLDLLWDWW,LLDLLDLDDLWWDLWD
+Inter,Fiorentina,2-0,/match/internazionale/fiorentina/2008,2008,33,serie_a,20,38,0,2,0,1,79,21,9,2,59,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDL,13,2,1,35,11,4,63,16,8,8,47,32,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWW,6,5,5,18,17,DWWWWWWWWWWWDWWL,DLLDLDWDLLDWLWWW
+Roma,Livorno,1-1,/match/roma/livorno/2008,2008,34,serie_a,20,38,1,1,1,2,78,21,8,4,61,33,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWL,13,2,1,36,17,20,37,6,11,16,30,49,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWL,3,3,10,13,26,WDLDWWWWWWWWWWWW,WDWWWLLDDLWWWWWW
+Fiorentina,Palermo FC,1-0,/match/fiorentina/palermo/2008,2008,34,serie_a,20,38,0,1,0,4,63,16,8,9,47,34,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWW,10,3,3,29,15,10,53,11,9,13,43,51,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWW,3,3,10,18,32,WDDDWWLLWWLWWWWW,LLWDDWWLWWWWDWWW
+Milan,Reggina,5-1,/match/milan/reggina/2008,2008,34,serie_a,20,38,0,5,1,7,55,14,10,9,50,31,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWW,5,7,4,20,15,17,41,6,12,15,28,47,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWW,0,7,9,8,29,DDDLLDDDWWWWDLLW,DWWDDDWWDDWWWDWW
+Atalanta,Juventus,0-4,/match/atalanta/juventus-fc/2008,2008,34,serie_a,20,38,2,0,4,12,50,10,11,12,46,48,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLW,6,7,3,31,22,3,72,18,10,5,59,30,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWW,7,6,3,26,21,WWDDDWWLLDDDWWDL,LDLDWDDLDLLWLDLW
+Cagliari,Empoli,2-0,/match/cagliari/empoli-fc/2008,2008,34,serie_a,20,38,0,2,0,18,40,8,8,17,31,51,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWL,6,4,6,16,17,19,38,7,9,17,26,46,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLD,3,2,11,10,27,LLWDLLDLLWDWWWWD,WDWWLWWWDWWLWWWL
+Siena,Genoa,0-1,/match/siena/genoa/2008,2008,34,serie_a,20,38,2,0,1,13,48,8,14,11,35,40,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDD,5,8,3,21,14,9,53,12,9,12,43,46,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWW,4,5,7,20,27,LDDWDDLDDLWDWWWD,DDLWWWDDLWDLWWLW
+Parma,Napoli,1-2,/match/parma-fc/napoli/2008,2008,34,serie_a,20,38,2,1,2,16,43,6,13,14,38,53,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDD,6,6,4,26,22,8,54,12,7,14,43,47,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWW,2,4,10,19,32,DDWLWDDWWLLDWLWD,LDWDWWWDWWWLWWDW
+Sampdoria,Udinese,3-0,/match/sampdoria/udinese/2008,2008,34,serie_a,20,38,0,3,0,5,61,15,7,11,46,38,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWW,9,6,1,29,12,6,57,14,9,10,44,43,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDL,6,5,5,16,17,DDWWLWWDWWWDDWDW,DLWDLDLWWLWLWDLD
+Catania,Lazio,1-0,/match/catania/lazio/2008,2008,34,serie_a,20,38,0,1,0,14,44,7,11,15,28,39,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWW,7,5,4,18,11,11,51,9,13,11,40,42,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDD,1,9,6,15,22,DLWWWLWWDDLDWDLW,DWDLWWDDDDWWDDWD
+Torino,Inter,0-1,/match/torino-fc/internazionale/2008,2008,34,serie_a,20,38,2,0,1,15,43,6,16,11,32,42,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLW,4,7,5,17,16,1,83,22,9,2,61,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLW,8,7,1,24,10,DDLWWDDDLDWDWLLL,LDLLDDLLLDLDWDDL
+Udinese,Catania,2-1,/match/udinese/catania/2008,2008,35,serie_a,20,38,0,2,1,7,57,14,9,11,44,46,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLW,8,4,5,28,26,14,48,8,11,15,29,39,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWW,0,6,11,10,28,LWWDWWWDLDLLWDWWL,DWDDDDWWWWWWWWWDW
+Reggina,Parma,2-1,/match/reggina/parma-fc/2008,2008,35,serie_a,20,38,0,2,1,18,41,6,12,16,29,52,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWW,6,5,6,20,18,17,43,6,13,15,39,55,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDL,0,7,10,12,31,DLDLLWDLWWLLWDWDW,WDWWDWWWWDDDWDWWD
+Palermo FC,Atalanta,0-0,/match/palermo/atalanta/2008,2008,35,serie_a,20,38,1,0,0,10,53,11,9,14,43,52,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWW,8,6,3,25,19,12,50,10,11,13,46,52,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWL,4,4,9,15,26,LDWDDDWWDLWWWDLWW,DDDWLLWWDWLWWWWLW
+Napoli,Siena,0-0,/match/napoli/siena/2008,2008,35,serie_a,20,38,1,0,0,8,56,13,7,14,45,48,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWL,10,3,4,24,15,13,48,8,14,12,35,41,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDL,3,6,8,14,26,LWWLWDWWDDWLWLWWW,WDWWDWLWLWWDLWDDD
+Livorno,Milan,1-4,/match/livorno/milan/2008,2008,35,serie_a,20,38,2,1,4,20,38,6,12,16,31,50,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLD,3,8,6,17,23,6,59,15,10,9,55,32,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWW,9,3,5,30,16,LDLLDWDDWLDLWDDDL,LDWLLWLLWLLDDLWLW
+Inter,Cagliari,2-1,/match/internazionale/cagliari/2008,2008,35,serie_a,20,38,0,2,1,1,85,23,9,2,62,21,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWL,14,2,1,37,11,15,44,9,8,17,33,51,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLW,2,4,11,15,34,DWWWWWWWWWWWDWWLW,LDWWWDWWWWDWWWDWL
+Genoa,Empoli,0-1,/match/genoa/empoli-fc/2008,2008,35,serie_a,20,38,2,0,1,9,55,13,9,12,44,46,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWL,8,4,5,23,19,19,38,7,9,18,26,48,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDW,3,2,12,10,29,LDWWDDLLWWWLWLDWW,WDWWLWWWDWWLWWWLW
+Fiorentina,Sampdoria,2-2,/match/fiorentina/sampdoria/2008,2008,35,serie_a,20,38,1,2,2,4,67,17,8,9,48,34,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWW,11,3,3,30,15,5,65,16,7,11,49,38,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWW,6,1,10,17,26,WDDDWWLLWWLWWWWWW,LWWWWLWWWDWLWLLLW
+Juventus,Lazio,5-2,/match/juventus-fc/lazio/2008,2008,35,serie_a,20,38,0,5,2,3,74,19,10,5,63,30,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWL,11,4,2,33,9,11,51,9,13,12,40,43,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDW,1,9,7,15,23,WLWWWDWWWDDWDLWWW,DWDLWWDDDDWWDDWDW
+Roma,Torino,4-1,/match/roma/torino-fc/2008,2008,35,serie_a,20,38,0,4,1,2,80,21,9,4,62,34,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLD,13,3,1,37,18,16,43,6,16,12,32,43,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWL,2,9,6,15,26,WDLDWWWWWWWWWWWWD,DDWDWDDWDWLDDDWLW
+Milan,Inter,2-1,/match/milan/internazionale/2008,2008,36,serie_a,20,38,0,2,1,6,61,16,10,9,59,33,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWWL,6,7,4,25,16,1,89,24,9,2,64,22,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWLW,9,7,1,25,10,DDDLLDDDWWWWDLLWW,LDLLDDLLLDLDWDDLL
+Siena,Juventus,1-0,/match/siena/juventus-fc/2008,2008,36,serie_a,20,38,0,1,0,13,49,8,15,12,35,41,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDLD,5,8,4,21,15,3,78,20,10,5,68,32,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWLW,8,6,3,30,21,LDDWDDLDDLWDWWWDL,LDLDWDDLDLLWLDLWL
+Parma,Genoa,1-0,/match/parma-fc/genoa/2008,2008,36,serie_a,20,38,0,1,0,18,43,6,13,16,40,57,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDLW,6,6,5,27,24,9,55,13,9,13,44,47,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWLL,5,5,7,21,27,DDWLWDDWWLLDWLWDL,DDLWWWDDLWDLWWLWL
+Torino,Napoli,2-1,/match/torino-fc/napoli/2008,2008,36,serie_a,20,38,0,2,1,17,43,6,16,13,33,47,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWLW,4,7,6,17,17,8,58,13,8,14,45,48,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWLD,3,4,10,21,33,DDLWWDDDLDWDWLLLL,LDWDWWWDWWWLWWDWL
+Empoli,Udinese,0-1,/match/empoli-fc/udinese/2008,2008,36,serie_a,20,38,2,0,1,19,40,8,9,18,27,48,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDWL,4,7,6,16,19,7,61,15,9,11,46,47,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLWW,6,5,6,16,20,LDWLDDWDDLWWLLDLD,DLWDLDLWWLWLWDLDW
+Catania,Reggina,1-2,/match/catania/reggina/2008,2008,36,serie_a,20,38,2,1,2,14,48,8,11,16,30,41,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWWW,8,5,4,19,11,15,45,7,12,16,31,53,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWWW,0,7,10,9,34,DLWWWLWWDDLDWDLWW,DWWDDDWWDDWWWDWWW
+Cagliari,Fiorentina,2-1,/match/cagliari/fiorentina/2008,2008,36,serie_a,20,38,0,2,1,16,44,9,8,18,34,53,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLWW,7,4,6,18,17,4,69,17,9,9,50,36,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWWD,6,5,6,18,19,LLWDLLDLLWDWWWWDW,DLLDLDWDLLDWLWWWW
+Atalanta,Livorno,3-2,/match/atalanta/livorno/2008,2008,36,serie_a,20,38,0,3,2,11,51,10,12,13,46,52,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWLD,6,7,4,31,26,20,38,6,12,17,32,54,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLDL,3,4,10,14,27,WWDDDWWLLDDDWWDLL,WDWWWLLDDLWWWWWWD
+Sampdoria,Roma,0-3,/match/sampdoria/roma/2008,2008,36,serie_a,20,38,2,0,3,5,66,16,8,11,51,40,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWWD,10,6,1,32,12,2,84,22,9,4,66,35,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLDW,8,6,3,25,16,DDWWLWWDWWWDDWDWW,LLDLLDLDDLWWDLWDL
+Lazio,Palermo FC,1-2,/match/lazio/palermo/2008,2008,36,serie_a,20,38,2,1,2,12,51,9,13,13,42,48,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDWW,8,4,5,25,20,10,55,11,10,14,43,52,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWWD,3,3,11,18,33,DDWLLLWWLLWWWWWDD,LLWDDWWLWWWWDWWWW
+Udinese,Cagliari,0-2,/match/udinese/cagliari/2008,2008,37,serie_a,20,38,2,0,2,7,63,16,9,11,47,47,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLWWL,9,4,5,30,27,15,48,10,8,18,36,54,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLWWW,2,4,12,16,36,LWWDWWWDLDLLWDWWLW,LDWWWDWWWWDWWWDWLW
+Reggina,Empoli,2-0,/match/reggina/empoli-fc/2008,2008,37,serie_a,20,38,0,2,0,16,47,8,12,16,33,54,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWWWL,7,5,6,22,19,19,40,8,9,19,27,49,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDWLL,4,2,12,11,29,DLDLLWDLWWLLWDWDWW,WDWWLWWWDWWLWWWLWL
+Palermo FC,Sampdoria,0-2,/match/palermo/sampdoria/2008,2008,37,serie_a,20,38,2,0,2,9,57,12,10,14,45,53,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWWDL,8,7,3,25,19,5,66,16,8,12,51,43,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWWDL,6,2,10,19,28,LDWDDDWWDLWWWDLWWD,LWWWWLWWWDWLWLLLWD
+Napoli,Milan,3-1,/match/napoli/milan/2008,2008,37,serie_a,20,38,0,3,1,8,58,13,8,15,46,50,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWLDW,10,4,4,24,15,6,65,17,10,9,61,34,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWWLW,10,3,5,34,17,LWWLWDWWDDWLWLWWWD,LDWLLWLLWLLDDLWLWL
+Livorno,Torino,0-1,/match/livorno/torino-fc/2008,2008,37,serie_a,20,38,2,0,1,20,38,6,12,18,34,57,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLDLW,3,8,7,18,27,17,47,7,16,13,35,48,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWLWW,2,9,7,16,30,LDLLDWDDWLDLWDDDLL,DDWDWDDWDWLDDDWLWW
+Juventus,Catania,1-1,/match/juventus-fc/catania/2008,2008,37,serie_a,20,38,1,1,1,3,78,20,10,6,68,33,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWLWW,12,4,2,38,11,14,48,8,11,17,31,43,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWWWL,0,6,12,11,30,WLWWWDWWWDDWDLWWWW,DWDDDDWWWWWWWWWDWW
+Inter,Siena,2-2,/match/internazionale/siena/2008,2008,37,serie_a,20,38,1,2,2,1,89,24,9,3,65,24,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWLWW,15,2,1,39,12,12,53,9,15,12,36,41,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDLDW,3,7,8,14,26,DWWWWWWWWWWWDWWLWW,WDWWDWLWLWWDLWDDDD
+Fiorentina,Parma,3-1,/match/fiorentina/parma-fc/2008,2008,37,serie_a,20,38,0,3,1,4,69,17,9,10,51,38,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWWDW,11,4,3,32,17,18,47,7,13,16,41,57,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDLWW,0,7,11,13,33,WDDDWWLLWWLWWWWWWD,WDWWDWWWWDDDWDWWDW
+Genoa,Lazio,0-2,/match/genoa/lazio/2008,2008,37,serie_a,20,38,2,0,2,11,55,13,9,14,44,48,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWLLW,8,4,6,23,20,13,51,9,13,14,43,50,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDWWL,1,9,8,17,28,LDWWDDLLWWWLWLDWWL,DWDLWWDDDDWWDDWDWW
+Roma,Atalanta,2-1,/match/roma/atalanta/2008,2008,37,serie_a,20,38,0,2,1,2,86,23,9,4,69,35,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLDWL,14,3,1,41,19,10,55,11,12,13,49,54,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWLDW,4,5,9,15,26,WDLDWWWWWWWWWWWWDW,DDDWLLWWDWLWWWWLWD
+Sampdoria,Juventus,3-3,/match/sampdoria/juventus-fc/2008,2008,38,serie_a,20,38,1,3,3,5,68,17,8,12,53,43,LDWDWWWWWLLWWWWDWWDWWWLDWDLWLDLWWWDLL,10,6,2,32,15,3,80,20,11,6,69,34,WLLDWLDWWWDDWDWLWDDLDLWWDLLWDLWWWLWWD,8,6,4,30,22,DDWWLWWDWWWDDWDWWL,LDLDWDDLDLLWLDLWLW
+Siena,Palermo FC,2-2,/match/siena/palermo/2008,2008,38,serie_a,20,38,1,2,2,12,54,9,16,12,38,43,LWDDDWWWDDDLWDLDWLLWWWDDWLWWDWDDDLDWD,6,8,4,22,15,9,57,12,10,15,45,55,LLDLWWDDDDDWWWWLDWLWWWWWWDDWWLWWWWDLL,4,3,11,20,34,LDDWDDLDDLWDWWWDLW,LLWDDWWLWWWWDWWWWL
+Parma,Inter,0-2,/match/parma-fc/internazionale/2008,2008,38,serie_a,20,38,2,0,2,18,47,7,13,17,42,60,DWDDWWLWWDDDWWWWWLWDLDDDWWLDWWWDDLWWW,7,6,5,28,24,1,91,24,10,3,67,26,DLWDWLWLDWDWWLWLWLWDWLWDDWWWDLDLWLWWD,9,7,2,26,12,DDWLWDDWWLLDWLWDLW,LDLLDDLLLDLDWDDLLW
+Empoli,Livorno,2-1,/match/empoli-fc/livorno/2008,2008,38,serie_a,20,38,0,2,1,19,40,8,9,20,27,51,WLDDWWWLLWDWDWWDDDWLWWLWWLLWDWLLDWLLW,4,7,7,16,20,20,38,6,12,19,34,58,WLDDWLWLWLDLWDDDDLWLWDWLWWWDDWDWLDLWL,3,4,11,16,30,LDWLDDWDDLWWLLDLDL,WDWWWLLDDLWWWWWWDW
+Cagliari,Reggina,2-2,/match/cagliari/reggina/2008,2008,38,serie_a,20,38,1,2,2,15,50,11,8,18,38,54,LLDLWWWDWDLWLDWLWLWWDDWWWWWWWDDWLWWWL,8,4,6,20,18,14,51,9,12,16,35,54,DDLWWDDLDLDWDWLWWDWDLWLWWDWWDDWWWWWLW,1,7,10,11,35,LLWDLLDLLWDWWWWDWW,DWWDDDWWDDWWWDWWWL
+Atalanta,Genoa,2-0,/match/atalanta/genoa/2008,2008,38,serie_a,20,38,0,2,0,11,55,11,12,14,50,56,DWDWDWDDLDLWWWWLDLWDLDWDWWWWWDLLWLDWW,7,7,4,34,28,10,55,13,9,15,44,50,LDDDWLWWDWDWLDLDWLWWWDLLWWLWDLWWWLLWL,5,5,8,21,28,WWDDDWWLLDDDWWDLLW,DDLWWWDDLWDLWWLWLW
+Milan,Udinese,4-1,/match/milan/udinese/2008,2008,38,serie_a,20,38,0,4,1,6,65,17,10,10,62,37,LDDDWDLLLLDWLDLDWWLWLWDWDDLWLLLWWWLWW,7,7,4,27,17,7,63,16,9,12,47,49,DLLWWWDDLWDLWWWWDLLDWLLLWWDDLWWDLWWLL,7,5,6,17,20,DDDLLDDDWWWWDLLWWW,DLWDLDLWWLWLWDLDWL
+Torino,Fiorentina,0-1,/match/torino-fc/fiorentina/2008,2008,38,serie_a,20,38,2,0,1,17,49,8,16,13,36,48,DDDDWLWDWWDDDDWDDLWDLWDDDDWWLLLLWLWWL,5,7,6,19,18,4,73,18,9,10,54,39,WDDLDLDWDWLLDLWDWLWLLDWWWLWWWWWWWWDWW,6,5,7,19,21,DDLWWDDDLDWDWLLLLW,DLLDLDWDLLDWLWWWWW
+Catania,Roma,1-1,/match/catania/roma/2008,2008,38,serie_a,20,38,1,1,1,16,49,8,12,17,32,44,DDWLWDWDWDLDWWWWWDWDWLWWDWWWDDLWWWWLD,8,5,5,20,13,2,90,24,9,4,71,36,LWLDDLLDLWDWLWDDWLWWWWWWDWLWWWDWLDWLW,9,6,3,28,16,DLWWWLWWDDLDWDLWWL,LLDLLDLDDLWWDLWDLL
+Lazio,Napoli,2-1,/match/lazio/napoli/2008,2008,38,serie_a,20,38,0,2,1,13,53,10,13,14,45,50,DDDWWDLLLWLWWDWLDLDDWWWWWDWDWWDDDWWLL,8,4,6,26,22,8,62,14,8,15,49,51,LLWDWLWDWWDWWWWDDWDWWWLLWWLWWDWWWLDWW,3,4,11,22,35,DDWLLLWWLLWWWWWDDL,LDWDWWWDWWWLWWDWLW

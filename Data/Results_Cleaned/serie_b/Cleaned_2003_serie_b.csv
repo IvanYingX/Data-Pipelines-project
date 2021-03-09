@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Cosenza Calcio,Palermo FC,1-2,/match/fortitudo-cosenza/palermo/2003,2003,1,serie_b,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Catania,Napoli,0-2,/match/catania/napoli/2003,2003,1,serie_b,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Cagliari,Venezia,1-0,/match/cagliari/venezia/2003,2003,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-SSC Bari,Triestina ,0-0,/match/as-bari/us-triestina-calcio/2003,2003,1,serie_b,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Ancona,Hellas Verona,1-1,/match/ancona/hellas-verona-fc/2003,2003,1,serie_b,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Vicenza ,Genoa,1-0,/match/vicenza-calcio/genoa/2003,2003,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Ternana Calcio,Messina,1-0,/match/ternana-calcio/messina/2003,2003,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Siena,Lecce,0-0,/match/siena/lecce/2003,2003,1,serie_b,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Salernitana,Ascoli,1-2,/match/salernitana-calcio-1919/ascoli/2003,2003,1,serie_b,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sampdoria,Livorno,2-0,/match/sampdoria/livorno/2003,2003,1,serie_b,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Palermo FC,Sampdoria,0-0,/match/palermo/sampdoria/2003,2003,2,serie_b,20,38,1,0,0,9,1,0,0,2,1,L,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
-Napoli,Ancona,1-1,/match/napoli/ancona/2003,2003,2,serie_b,20,38,1,1,1,6,1,0,0,2,0,L,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
-Messina,Salernitana,2-0,/match/messina/salernitana-calcio-1919/2003,2003,2,serie_b,20,38,0,2,0,16,0,0,1,0,1,W,0,0,0,0,0,19,0,0,1,1,2,L,0,0,0,0,0,,
-Livorno,Cagliari,1-0,/match/livorno/cagliari/2003,2003,2,serie_b,20,38,0,1,0,20,0,0,1,0,2,W,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
-Lecce,Catania,1-0,/match/lecce/catania/2003,2003,2,serie_b,20,38,0,1,0,12,0,1,0,0,0,D,0,0,0,0,0,18,0,0,1,0,2,L,0,0,0,0,0,,
-Genoa,Ternana Calcio,1-0,/match/genoa/ternana-calcio/2003,2003,2,serie_b,20,38,0,1,0,14,0,0,1,0,1,W,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
-Ascoli,Vicenza ,1-4,/match/ascoli/vicenza-calcio/2003,2003,2,serie_b,20,38,2,1,4,10,1,0,0,2,1,L,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
-Hellas Verona,Cosenza Calcio,1-0,/match/hellas-verona-fc/fortitudo-cosenza/2003,2003,2,serie_b,20,38,0,1,0,13,0,1,0,1,1,D,0,0,0,0,0,17,0,0,1,1,2,L,0,0,0,0,0,,
-Venezia,SSC Bari,1-1,/match/venezia/as-bari/2003,2003,2,serie_b,20,38,1,1,1,15,0,0,1,0,1,W,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
-Triestina ,Siena,2-1,/match/us-triestina-calcio/siena/2003,2003,2,serie_b,20,38,0,2,1,11,0,1,0,0,0,D,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
-Sampdoria,Lecce,4-2,/match/sampdoria/lecce/2003,2003,3,serie_b,20,38,0,4,2,2,1,1,0,2,0,WD,1,0,0,2,0,4,1,1,0,1,0,DW,0,1,0,0,0,W,D
-Salernitana,Ternana Calcio,0-3,/match/salernitana-calcio-1919/ternana-calcio/2003,2003,3,serie_b,20,38,2,0,3,20,0,0,2,1,4,LW,0,0,1,1,2,8,1,0,1,1,1,WW,0,0,1,0,1,L,W
-Cosenza Calcio,Vicenza ,2-1,/match/fortitudo-cosenza/vicenza-calcio/2003,2003,3,serie_b,20,38,0,2,1,18,0,0,2,1,3,LW,0,0,1,1,2,1,2,0,0,5,1,WL,1,0,0,4,1,L,L
-Catania,Genoa,3-2,/match/catania/genoa/2003,2003,3,serie_b,20,38,0,3,2,19,0,0,2,0,3,LW,0,0,1,0,2,10,1,0,1,1,1,WW,0,0,1,0,1,L,W
-Cagliari,Napoli,2-2,/match/cagliari/napoli/2003,2003,3,serie_b,20,38,1,2,2,9,1,0,1,1,1,WW,1,0,0,1,0,6,1,1,0,3,1,LD,1,0,0,2,0,W,L
-SSC Bari,Ascoli,2-0,/match/as-bari/ascoli/2003,2003,3,serie_b,20,38,0,2,0,14,0,2,0,1,1,DD,0,1,0,0,0,16,1,0,1,3,5,LL,1,0,0,2,1,D,L
-Ancona,Palermo FC,4-2,/match/ancona/palermo/2003,2003,3,serie_b,20,38,0,4,2,13,0,2,0,2,2,DD,0,1,0,1,1,7,1,1,0,2,1,LD,1,0,0,2,1,D,L
-Hellas Verona,Livorno,0-1,/match/hellas-verona-fc/livorno/2003,2003,3,serie_b,20,38,2,0,1,3,1,1,0,2,1,DW,1,0,0,1,0,12,1,0,1,1,2,WW,0,0,1,0,2,W,W
-Triestina ,Venezia,1-2,/match/us-triestina-calcio/venezia/2003,2003,3,serie_b,20,38,2,1,2,5,1,1,0,2,1,DW,1,0,0,2,1,17,0,1,1,1,2,WD,0,0,1,0,1,W,W
-Siena,Messina,1-0,/match/siena/messina/2003,2003,3,serie_b,20,38,0,1,0,15,0,1,1,1,2,DW,0,1,0,0,0,11,1,0,1,2,1,WW,0,0,1,0,1,D,W
-Napoli,Cosenza Calcio,1-2,/match/napoli/fortitudo-cosenza/2003,2003,4,serie_b,20,38,2,1,2,12,1,2,0,5,3,LDD,0,1,0,1,1,15,1,0,2,3,4,LWW,0,0,1,0,1,D,W
-Livorno,Triestina ,2-0,/match/livorno/us-triestina-calcio/2003,2003,4,serie_b,20,38,0,2,0,7,2,0,1,2,2,WWL,1,0,0,1,0,11,1,1,1,3,3,DWL,0,1,0,0,0,W,D
-Lecce,Salernitana,2-1,/match/lecce/salernitana-calcio-1919/2003,2003,4,serie_b,20,38,0,2,1,10,1,1,1,3,4,DWW,1,0,0,1,0,20,0,0,3,1,7,LWL,0,0,1,0,2,W,W
-Genoa,SSC Bari,0-0,/match/genoa/as-bari/2003,2003,4,serie_b,20,38,1,0,0,17,1,0,2,3,4,WWW,1,0,0,1,0,3,1,2,0,3,1,DDW,0,1,0,1,1,W,D
-Ascoli,Sampdoria,0-0,/match/ascoli/sampdoria/2003,2003,4,serie_b,20,38,1,0,0,19,1,0,2,3,7,LLW,0,0,1,1,4,1,2,1,0,6,2,WDW,0,1,0,0,0,L,D
-Vicenza ,Ancona,1-1,/match/vicenza-calcio/ancona/2003,2003,4,serie_b,20,38,1,1,1,4,2,0,1,6,3,WLW,1,0,0,1,0,2,1,2,0,6,4,DDW,0,1,0,1,1,W,D
-Venezia,Hellas Verona,1-1,/match/venezia/hellas-verona-fc/2003,2003,4,serie_b,20,38,1,1,1,13,1,1,1,3,3,WDL,0,1,0,1,1,9,1,1,1,2,2,DWL,0,1,0,1,1,D,D
-Ternana Calcio,Cagliari,0-1,/match/ternana-calcio/cagliari/2003,2003,4,serie_b,20,38,2,0,1,5,2,0,1,4,1,WWL,1,0,0,1,0,6,1,1,1,3,3,WWD,0,0,1,0,1,W,W
-Palermo FC,Siena,1-0,/match/palermo/siena/2003,2003,4,serie_b,20,38,0,1,0,18,1,1,1,4,5,LDW,0,1,0,0,0,8,1,1,1,2,2,DWW,0,0,1,1,2,D,W
-Messina,Catania,3-3,/match/messina/catania/2003,2003,4,serie_b,20,38,1,3,3,16,1,0,2,2,2,WWW,1,0,0,2,0,14,1,0,2,3,5,LWW,0,0,1,0,1,W,W
-Triestina ,Palermo FC,2-1,/match/us-triestina-calcio/palermo/2003,2003,5,serie_b,20,38,0,2,1,16,1,1,2,3,5,DWLW,1,0,1,3,3,8,2,1,1,5,5,LDWW,1,0,1,4,5,WL,LW
-Siena,Vicenza ,0-0,/match/siena/vicenza-calcio/2003,2003,5,serie_b,20,38,1,0,0,11,1,1,2,2,3,DWWW,1,1,0,1,0,5,2,1,1,7,4,WLWD,1,0,1,5,3,DW,LW
-Sampdoria,Cosenza Calcio,2-1,/match/sampdoria/fortitudo-cosenza/2003,2003,5,serie_b,20,38,0,2,1,1,2,2,0,6,2,WDWD,2,0,0,6,2,15,2,0,2,5,5,LWWL,1,0,1,2,2,WW,WL
-Salernitana,Livorno,2-1,/match/salernitana-calcio-1919/livorno/2003,2003,5,serie_b,20,38,0,2,1,20,0,0,4,2,9,LWLW,0,0,2,1,5,2,3,0,1,4,2,WWLW,1,0,1,1,2,LL,WL
-Messina,Lecce,0-2,/match/messina/lecce/2003,2003,5,serie_b,20,38,2,0,2,9,1,1,2,5,5,WWWD,1,1,0,5,3,3,2,1,1,5,5,DWWW,0,1,1,2,4,WD,DW
-Cagliari,Genoa,1-0,/match/cagliari/genoa/2003,2003,5,serie_b,20,38,0,1,0,6,2,1,1,4,3,WWDL,1,1,0,3,2,14,1,1,2,3,4,WWWD,0,0,2,2,4,WD,WW
-SSC Bari,Napoli,0-1,/match/as-bari/napoli/2003,2003,5,serie_b,20,38,2,0,1,4,1,3,0,3,1,DDWD,1,1,0,2,0,18,1,2,1,6,5,LDDL,1,1,0,4,2,DW,LD
-Ancona,Ternana Calcio,1-1,/match/ancona/ternana-calcio/2003,2003,5,serie_b,20,38,1,1,1,7,1,3,0,7,5,DDWD,1,1,0,5,3,10,2,0,2,4,2,WWLL,1,0,1,3,1,DW,WL
-Hellas Verona,Catania,2-0,/match/hellas-verona-fc/catania/2003,2003,5,serie_b,20,38,0,2,0,12,1,2,1,3,3,DWLD,1,0,1,1,1,17,1,1,2,6,8,LWWD,0,1,1,3,4,WL,WD
-Venezia,Ascoli,1-1,/match/venezia/ascoli/2003,2003,5,serie_b,20,38,1,1,1,13,1,2,1,4,4,WDLD,0,2,0,2,2,19,1,1,2,3,7,LLWD,1,0,1,2,3,DD,LW
-Ternana Calcio,Hellas Verona,1-0,/match/ternana-calcio/hellas-verona-fc/2003,2003,6,serie_b,20,38,0,1,0,13,2,1,2,5,3,WWLLD,1,0,1,1,1,6,2,2,1,5,3,DWLDW,0,2,0,2,2,WL,DD
-Siena,Cagliari,1-0,/match/siena/cagliari/2003,2003,6,serie_b,20,38,0,1,0,10,1,2,2,2,3,DWWWD,1,2,0,1,0,2,3,1,1,5,3,WWDLW,1,0,1,1,1,DWD,WL
-Palermo FC,Livorno,1-0,/match/palermo/livorno/2003,2003,6,serie_b,20,38,0,1,0,11,2,1,2,6,7,LDWWW,1,1,0,1,0,4,3,0,2,5,4,WWLWW,1,0,2,2,4,DW,WLW
-Napoli,Sampdoria,1-1,/match/napoli/sampdoria/2003,2003,6,serie_b,20,38,1,1,1,14,2,2,1,7,5,LDDLL,0,1,1,2,3,1,3,2,0,8,3,WDWDW,0,2,0,0,0,DL,DD
-Lecce,Venezia,3-1,/match/lecce/venezia/2003,2003,6,serie_b,20,38,0,3,1,3,3,1,1,7,5,DWWWL,2,0,0,3,1,9,1,3,1,5,5,WDLDD,1,0,1,2,2,WW,WL
-Genoa,Salernitana,3-0,/match/genoa/salernitana-calcio-1919/2003,2003,6,serie_b,20,38,0,3,0,16,1,1,3,3,5,WWWDW,1,1,0,1,0,20,1,0,4,4,10,LWLWW,0,0,2,1,4,WD,WW
-Cosenza Calcio,SSC Bari,0-2,/match/fortitudo-cosenza/as-bari/2003,2003,6,serie_b,20,38,2,0,2,17,2,0,3,6,7,LWWLW,1,0,1,3,3,12,1,3,1,3,2,DDWDL,0,2,0,1,1,LW,DD
-Catania,Ancona,0-0,/match/catania/ancona/2003,2003,6,serie_b,20,38,1,0,0,18,1,1,3,6,10,LWWDW,1,0,1,3,4,5,1,4,0,8,6,DDWDD,0,2,0,2,2,LW,DD
-Ascoli,Messina,1-0,/match/ascoli/messina/2003,2003,6,serie_b,20,38,0,1,0,19,1,2,2,4,8,LLWDD,0,1,1,1,4,15,1,1,3,5,7,WWWDL,0,0,2,0,2,LD,WW
-Vicenza ,Triestina ,1-1,/match/vicenza-calcio/us-triestina-calcio/2003,2003,6,serie_b,20,38,1,1,1,8,2,2,1,7,4,WLWDD,1,1,0,2,1,7,2,1,2,5,6,DWLWW,0,1,1,0,2,WD,DW
-Venezia,Genoa,0-1,/match/venezia/genoa/2003,2003,7,serie_b,20,38,2,0,1,16,1,3,2,6,8,WDLDDW,0,3,0,3,3,13,2,1,3,6,5,WWWDWW,0,0,3,2,5,DDD,WWW
-Triestina ,Cosenza Calcio,1-0,/match/us-triestina-calcio/fortitudo-cosenza/2003,2003,7,serie_b,20,38,0,1,0,10,2,2,2,6,7,DWLWWD,2,0,1,5,4,19,2,0,4,6,9,LWWLWL,1,0,2,3,4,WLW,WLW
-Sampdoria,Catania,1-0,/match/sampdoria/catania/2003,2003,7,serie_b,20,38,0,1,0,1,3,3,0,9,4,WDWDWD,3,0,0,8,3,17,1,2,3,6,10,LWWDWD,0,1,2,3,6,WWW,WDW
-Salernitana,Palermo FC,3-1,/match/salernitana-calcio-1919/palermo/2003,2003,7,serie_b,20,38,0,3,1,20,1,0,5,4,13,LWLWWW,1,0,2,3,6,5,3,1,2,7,7,LDWWWW,1,0,2,5,7,LLW,LWW
-Messina,Vicenza ,3-1,/match/messina/vicenza-calcio/2003,2003,7,serie_b,20,38,0,3,1,18,1,1,4,5,8,WWWDLW,1,1,1,5,5,6,2,3,1,8,5,WLWDDD,1,1,1,5,3,WDL,LWD
-Livorno,Ternana Calcio,1-2,/match/livorno/ternana-calcio/2003,2003,7,serie_b,20,38,2,1,2,11,3,0,3,5,5,WWLWWW,2,0,0,3,0,8,3,1,2,6,3,WWLLDW,1,1,1,4,2,WW,WLD
-Cagliari,Ascoli,1-0,/match/cagliari/ascoli/2003,2003,7,serie_b,20,38,0,1,0,4,3,1,2,5,4,WWDLWW,2,1,0,4,2,15,2,2,2,5,8,LLWDDW,1,1,1,3,4,WDW,LWD
-SSC Bari,Lecce,1-1,/match/as-bari/lecce/2003,2003,7,serie_b,20,38,1,1,1,12,2,3,1,5,2,DDWDLL,1,1,1,2,1,2,4,1,1,10,6,DWWWLW,1,1,1,4,4,DWL,DWL
-Ancona,Siena,1-1,/match/ancona/siena/2003,2003,7,serie_b,20,38,1,1,1,7,1,5,0,8,6,DDWDDD,1,2,0,6,4,3,2,2,2,3,3,DWWWDW,0,0,2,1,3,DWD,WW
-Hellas Verona,Napoli,2-2,/match/hellas-verona-fc/napoli/2003,2003,7,serie_b,20,38,1,2,2,9,2,2,2,5,4,DWLDWW,2,0,1,3,1,14,2,3,1,8,6,LDDLLD,2,1,0,5,2,WLW,LDL
-Vicenza ,Palermo FC,1-3,/match/vicenza-calcio/palermo/2003,2003,8,serie_b,20,38,2,1,3,12,2,3,2,9,8,WLWDDDW,1,2,0,3,2,8,3,1,3,8,10,LDWWWWW,1,0,3,6,10,WDD,LWWW
-Ternana Calcio,Venezia,1-1,/match/ternana-calcio/venezia/2003,2003,8,serie_b,20,38,1,1,1,7,4,1,2,8,4,WWLLDWL,2,0,1,2,1,17,1,3,3,6,9,WDLDDWL,1,0,2,3,5,WLW,WLW
-Siena,SSC Bari,1-1,/match/siena/as-bari/2003,2003,8,serie_b,20,38,1,1,1,5,2,3,2,4,4,DWWWDWD,2,2,0,2,0,10,2,4,1,6,3,DDWDLLD,1,2,0,3,1,DWDW,DDL
-Napoli,Livorno,0-1,/match/napoli/livorno/2003,2003,8,serie_b,20,38,2,0,1,15,2,4,1,10,8,LDDLLDD,0,2,1,3,4,14,3,0,4,6,7,WWLWWWL,1,0,3,2,5,DLD,WLWW
-Lecce,Triestina ,1-1,/match/lecce/us-triestina-calcio/2003,2003,8,serie_b,20,38,1,1,1,3,4,2,1,11,7,DWWWLWD,3,0,0,6,2,4,3,2,2,7,7,DWLWWDW,0,2,1,1,3,WWW,DWD
-Genoa,Messina,1-1,/match/genoa/messina/2003,2003,8,serie_b,20,38,1,1,1,11,3,1,3,7,5,WWWDWWL,2,1,0,4,0,13,2,1,4,8,9,WWWDLWW,0,0,3,0,3,WDW,WWW
-Cosenza Calcio,Ascoli,1-0,/match/fortitudo-cosenza/ascoli/2003,2003,8,serie_b,20,38,0,1,0,20,2,0,5,6,10,LWWLWLW,1,0,2,3,5,16,2,2,3,5,9,LLWDDWW,1,1,2,3,5,LWL,LWDW
-Catania,Salernitana,2-1,/match/catania/salernitana-calcio-1919/2003,2003,8,serie_b,20,38,0,2,1,19,1,2,4,6,11,LWWDWDW,1,1,1,3,4,18,2,0,5,7,14,LWLWWWW,0,0,3,1,7,LWD,WWW
-Cagliari,Hellas Verona,2-1,/match/cagliari/hellas-verona-fc/2003,2003,8,serie_b,20,38,0,2,1,2,4,1,2,6,4,WWDLWWW,3,1,0,5,2,9,2,3,2,7,6,DWLDWWD,0,2,1,2,3,WDWW,DDW
-Ancona,Sampdoria,1-1,/match/ancona/sampdoria/2003,2003,8,serie_b,20,38,1,1,1,6,1,6,0,9,7,DDWDDDD,1,3,0,7,5,1,4,3,0,10,4,WDWDWDW,0,3,0,1,1,DWDD,DDD
-Triestina ,Catania,4-0,/match/us-triestina-calcio/catania/2003,2003,9,serie_b,20,38,0,4,0,4,3,3,2,8,8,DWLWWDWD,3,0,1,6,4,15,2,2,4,8,12,LWWDWDWW,0,1,3,3,7,WLWW,WDWW
-Palermo FC,Cagliari,1-1,/match/palermo/cagliari/2003,2003,9,serie_b,20,38,1,1,1,9,4,1,3,11,11,LDWWWWWL,2,1,0,2,0,2,5,1,2,8,5,WWDLWWWW,1,0,2,1,2,DWW,WLW
-Messina,Hellas Verona,2-1,/match/messina/hellas-verona-fc/2003,2003,9,serie_b,20,38,0,2,1,14,2,2,4,9,10,WWWDLWWD,2,1,1,8,6,11,2,3,3,8,8,DWLDWWDW,0,2,2,3,5,WDLW,DDWW
-Livorno,Venezia,2-1,/match/livorno/venezia/2003,2003,9,serie_b,20,38,0,2,1,12,4,0,4,7,7,WWLWWWLL,2,0,1,4,2,19,1,4,3,7,10,WDLDDWLD,1,1,2,4,6,WWL,WLWD
-Genoa,Lecce,0-0,/match/genoa/lecce/2003,2003,9,serie_b,20,38,1,0,0,8,3,2,3,8,6,WWWDWWLD,2,2,0,5,1,3,4,3,1,12,8,DWWWLWDD,1,2,1,5,5,WDWD,DWLD
-Cosenza Calcio,Siena,0-0,/match/fortitudo-cosenza/siena/2003,2003,9,serie_b,20,38,1,0,0,17,3,0,5,7,10,LWWLWLWW,2,0,2,4,5,5,2,4,2,5,5,DWWWDWDD,0,1,2,2,4,LWLW,WWD
-SSC Bari,Sampdoria,1-1,/match/as-bari/sampdoria/2003,2003,9,serie_b,20,38,1,1,1,10,2,5,1,7,4,DDWDLLDD,1,2,1,3,2,1,4,4,0,11,5,WDWDWDWD,0,4,0,2,2,DWLD,DDDD
-Ascoli,Ternana Calcio,2-0,/match/ascoli/ternana-calcio/2003,2003,9,serie_b,20,38,0,2,0,18,2,2,4,5,10,LLWDDWWW,1,1,1,2,4,7,4,2,2,9,5,WWLLDWLD,2,1,1,6,3,LDW,WLDL
-Vicenza ,Napoli,3-3,/match/vicenza-calcio/napoli/2003,2003,9,serie_b,20,38,1,3,3,13,2,3,3,10,11,WLWDDDWL,1,2,1,4,5,16,2,4,2,10,9,LDDLLDDL,2,2,0,7,4,WDDL,LDLD
-Salernitana,Ancona,0-2,/match/salernitana-calcio-1919/ancona/2003,2003,9,serie_b,20,38,2,0,2,20,2,0,6,8,16,LWLWWWWW,2,0,2,6,7,6,1,7,0,10,8,DDWDDDDD,0,3,0,2,2,LLWW,DDD
-Livorno,Genoa,2-0,/match/livorno/genoa/2003,2003,10,serie_b,20,38,0,2,0,9,5,0,4,9,8,WWLWWWLLW,3,0,1,6,3,7,3,3,3,8,6,WWWDWWLDD,1,0,3,3,5,WWLW,WWWL
-Cagliari,Lecce,1-1,/match/cagliari/lecce/2003,2003,10,serie_b,20,38,1,1,1,2,5,2,2,9,6,WWDLWWWWD,4,1,0,7,3,3,4,4,1,12,8,DWWWLWDDD,1,3,1,5,5,WDWWW,DWLDD
-Ancona,Messina,2-1,/match/ancona/messina/2003,2003,10,serie_b,20,38,0,2,1,5,2,7,0,12,8,DDWDDDDDL,1,4,0,8,6,12,3,2,4,11,11,WWWDLWWDW,0,1,3,1,4,DWDDD,WWWD
-Hellas Verona,Vicenza ,4-2,/match/hellas-verona-fc/vicenza-calcio/2003,2003,10,serie_b,20,38,0,4,2,16,2,3,4,9,10,DWLDWWDWW,2,1,1,5,3,13,2,4,3,13,14,WLWDDDWLD,1,1,2,6,6,WLWD,LWDW
-Ternana Calcio,Cosenza Calcio,1-0,/match/ternana-calcio/fortitudo-cosenza/2003,2003,10,serie_b,20,38,0,1,0,10,4,2,3,9,7,WWLLDWLDW,2,1,1,3,2,15,3,1,5,7,10,LWWLWLWWD,1,0,3,3,5,WLWD,WLWW
-Sampdoria,Triestina ,1-1,/match/sampdoria/us-triestina-calcio/2003,2003,10,serie_b,20,38,1,1,1,1,4,5,0,12,6,WDWDWDWDD,4,0,0,9,3,4,4,3,2,12,8,DWLWWDWDW,0,3,1,2,4,WWWW,DWDD
-Napoli,Siena,1-2,/match/napoli/siena/2003,2003,10,serie_b,20,38,2,1,2,17,2,5,2,13,12,LDDLLDDLD,0,2,2,3,5,6,2,5,2,5,5,DWWWDWDDD,0,2,2,2,4,DLDL,WWDD
-SSC Bari,Palermo FC,0-1,/match/as-bari/palermo/2003,2003,10,serie_b,20,38,2,0,1,11,2,6,1,8,5,DDWDLLDDD,1,3,1,4,3,8,4,2,3,12,12,LDWWWWWLD,2,0,3,9,11,DWLDD,LWWWL
-Venezia,Salernitana,1-0,/match/venezia/salernitana-calcio-1919/2003,2003,10,serie_b,20,38,0,1,0,19,1,4,4,8,12,WDLDDWLDW,0,3,1,3,4,20,2,0,7,8,18,LWLWWWWWL,0,0,4,2,9,DDDL,WWWW
-Catania,Ascoli,1-1,/match/catania/ascoli/2003,2003,10,serie_b,20,38,1,1,1,18,2,2,5,8,16,LWWDWDWWW,2,1,1,5,5,14,3,2,4,7,10,LLWDDWWWW,1,1,3,3,6,LWDW,LWDWW
-Vicenza ,SSC Bari,1-1,/match/vicenza-calcio/as-bari/2003,2003,11,serie_b,20,38,1,1,1,15,2,4,4,15,18,WLWDDDWLDW,1,3,1,7,8,12,2,6,2,8,6,DDWDLLDDDL,1,3,0,4,2,WDDLD,DDLD
-Ascoli,Hellas Verona,0-0,/match/ascoli/hellas-verona-fc/2003,2003,11,serie_b,20,38,1,0,0,14,3,3,4,8,11,LLWDDWWWWD,2,1,1,4,4,10,3,3,4,13,12,DWLDWWDWWW,0,2,3,4,7,LDWW,DDWWW
-Triestina ,Ancona,3-2,/match/us-triestina-calcio/ancona/2003,2003,11,serie_b,20,38,0,3,2,5,4,4,2,13,9,DWLWWDWDWD,4,0,1,10,4,3,3,7,0,14,9,DDWDDDDDLW,1,3,0,4,2,WLWWW,DDDL
-Salernitana,Sampdoria,0-1,/match/salernitana-calcio-1919/sampdoria/2003,2003,11,serie_b,20,38,2,0,1,20,2,0,8,8,19,LWLWWWWWLW,2,0,3,6,9,1,4,6,0,13,7,WDWDWDWDDD,0,5,0,3,3,LLWWL,DDDDD
-Palermo FC,Venezia,0-2,/match/palermo/venezia/2003,2003,11,serie_b,20,38,2,0,2,9,5,2,3,13,12,LDWWWWWLDL,2,2,0,3,1,17,2,4,4,9,12,WDLDDWLDWW,1,1,3,5,8,DWWD,WLWDW
-Messina,Livorno,2-1,/match/messina/livorno/2003,2003,11,serie_b,20,38,0,2,1,13,3,2,5,12,13,WWWDLWWDWW,3,1,1,10,7,6,6,0,4,11,8,WWLWWWLLWW,2,0,3,3,5,WDLWW,WLWWL
-Lecce,Ternana Calcio,0-0,/match/lecce/ternana-calcio/2003,2003,11,serie_b,20,38,1,0,0,4,4,5,1,13,9,DWWWLWDDDD,3,1,0,7,3,7,5,2,3,10,7,WWLLDWLDWW,2,1,2,6,5,WWWD,WLDLW
-Genoa,Napoli,3-1,/match/genoa/napoli/2003,2003,11,serie_b,20,38,0,3,1,11,3,3,4,8,8,WWWDWWLDDW,2,3,0,5,1,19,2,5,3,14,14,LDDLLDDLDL,2,3,0,10,7,WDWDD,LDLDD
-Cosenza Calcio,Cagliari,1-1,/match/fortitudo-cosenza/cagliari/2003,2003,11,serie_b,20,38,1,1,1,18,3,1,6,7,11,LWWLWLWWDW,2,1,2,4,5,2,5,3,2,10,7,WWDLWWWWDD,1,1,2,2,3,LWLWD,WLWD
-Siena,Catania,4-3,/match/siena/catania/2003,2003,11,serie_b,20,38,0,4,3,8,3,5,2,7,6,DWWWDWDDDL,2,3,0,3,1,16,2,3,5,9,17,LWWDWDWWWD,0,1,4,3,11,DWDWD,WDWWW
-Sampdoria,Genoa,2-1,/match/sampdoria/genoa/2003,2003,12,serie_b,20,38,0,2,1,1,5,6,0,14,7,WDWDWDWDDDL,4,1,0,10,4,7,4,3,4,11,9,WWWDWWLDDWW,1,0,4,3,7,WWWWD,WWWLW
-Cagliari,Messina,0-2,/match/cagliari/messina/2003,2003,12,serie_b,20,38,2,0,2,3,5,4,2,11,8,WWDLWWWWDDD,4,2,0,8,4,10,4,2,5,14,14,WWWDLWWDWWW,0,1,4,2,6,WDWWWD,WWWDW
-SSC Bari,Salernitana,1-1,/match/as-bari/salernitana-calcio-1919/2003,2003,12,serie_b,20,38,1,1,1,13,2,7,2,9,7,DDWDLLDDDLD,1,3,2,4,4,20,2,0,9,8,20,LWLWWWWWLWL,0,0,5,2,10,DWLDDL,WWWWW
-Ancona,Cosenza Calcio,1-0,/match/ancona/fortitudo-cosenza/2003,2003,12,serie_b,20,38,0,1,0,6,3,7,1,16,12,DDWDDDDDLWW,2,4,0,10,7,17,3,2,6,8,12,LWWLWLWWDWD,1,0,4,3,6,DWDDDW,WLWWW
-Hellas Verona,Triestina ,1-0,/match/hellas-verona-fc/us-triestina-calcio/2003,2003,12,serie_b,20,38,0,1,0,12,3,4,4,13,12,DWLDWWDWWWD,3,1,1,9,5,2,5,4,2,16,11,DWLWWDWDWDW,0,4,1,3,5,WLWDW,DWDDD
-Venezia,Vicenza ,1-2,/match/venezia/vicenza-calcio/2003,2003,12,serie_b,20,38,2,1,2,16,3,4,4,11,12,WDLDDWLDWWL,1,3,1,4,4,15,2,5,4,16,19,WLWDDDWLDWD,1,1,3,8,10,DDDLW,LWDWW
-Ternana Calcio,Siena,1-1,/match/ternana-calcio/siena/2003,2003,12,serie_b,20,38,1,1,1,8,5,3,3,10,7,WWLLDWLDWWD,3,1,1,4,2,4,4,5,2,11,9,DWWWDWDDDLW,1,2,2,4,5,WLWDW,WWDDL
-Napoli,Lecce,1-1,/match/napoli/lecce/2003,2003,12,serie_b,20,38,1,1,1,19,2,5,4,15,17,LDDLLDDLDLW,0,2,3,4,7,5,4,6,1,13,9,DWWWLWDDDDD,1,4,1,6,6,DLDLL,DWLDDD
-Livorno,Ascoli,2-0,/match/livorno/ascoli/2003,2003,12,serie_b,20,38,0,2,0,9,6,0,5,12,10,WWLWWWLLWWW,4,0,1,8,3,14,3,4,4,8,11,LLWDDWWWWDD,1,2,3,4,7,WWLWW,LWDWWD
-Catania,Palermo FC,2-0,/match/catania/palermo/2003,2003,12,serie_b,20,38,0,2,0,18,2,3,6,12,21,LWWDWDWWWDW,2,2,1,6,6,11,5,2,4,13,14,LDWWWWWLDLL,3,0,3,10,11,LWDWD,LWWWLL
-Ascoli,Ancona,1-0,/match/ascoli/ancona/2003,2003,13,serie_b,20,38,0,1,0,16,3,4,5,8,13,LLWDDWWWWDDW,2,2,1,4,4,2,4,7,1,17,12,DDWDDDDDLWWW,1,3,1,6,5,LDWWD,DDDLW
-Cosenza Calcio,Venezia,1-2,/match/fortitudo-cosenza/venezia/2003,2003,13,serie_b,20,38,2,1,2,18,3,2,7,8,13,LWWLWLWWDWDW,2,2,2,5,6,17,3,4,5,12,14,WDLDDWLDWWLL,2,1,3,7,8,LWLWDD,WLWDWL
-Vicenza ,Catania,2-1,/match/vicenza-calcio/catania/2003,2003,13,serie_b,20,38,0,2,1,14,3,5,4,18,20,WLWDDDWLDWDL,1,4,1,8,9,15,3,3,6,14,21,LWWDWDWWWDWW,0,1,5,6,15,WDDLDD,WDWWWW
-Triestina ,Cagliari,3-0,/match/us-triestina-calcio/cagliari/2003,2003,13,serie_b,20,38,0,3,0,5,5,4,3,16,12,DWLWWDWDWDWW,5,0,1,13,6,3,5,4,3,11,10,WWDLWWWWDDDL,1,2,2,3,4,WLWWWW,WLWDD
-Siena,Sampdoria,1-0,/match/siena/sampdoria/2003,2003,13,serie_b,20,38,0,1,0,6,4,6,2,12,10,DWWWDWDDDLWD,3,3,0,7,4,1,6,6,0,16,8,WDWDWDWDDDLW,1,5,0,4,3,DWDWDW,DDDDDL
-Salernitana,Napoli,2-0,/match/salernitana-calcio-1919/napoli/2003,2003,13,serie_b,20,38,0,2,0,20,2,1,9,9,21,LWLWWWWWLWLD,2,0,4,6,10,19,2,6,4,16,18,LDDLLDDLDLWD,2,3,1,11,10,LLWWLL,LDLDDW
-Palermo FC,Ternana Calcio,2-1,/match/palermo/ternana-calcio/2003,2003,13,serie_b,20,38,0,2,1,13,5,2,5,13,16,LDWWWWWLDLLW,2,2,1,3,3,8,5,4,3,11,8,WWLLDWLDWWDD,2,2,2,6,5,DWWDL,WLDLWD
-Messina,SSC Bari,2-2,/match/messina/as-bari/2003,2003,13,serie_b,20,38,1,2,2,9,5,2,5,16,14,WWWDLWWDWWWL,4,1,1,12,8,12,2,8,2,10,8,DDWDLLDDDLDD,1,4,0,5,3,WDLWWW,DDLDD
-Lecce,Livorno,1-0,/match/lecce/livorno/2003,2003,13,serie_b,20,38,0,1,0,7,4,7,1,14,10,DWWWLWDDDDDD,3,2,0,7,3,4,7,0,5,14,10,WWLWWWLLWWWW,2,0,4,4,7,WWWDD,WLWWLW
-Genoa,Hellas Verona,2-2,/match/genoa/hellas-verona-fc/2003,2003,13,serie_b,20,38,1,2,2,11,4,3,5,12,11,WWWDWWLDDWWW,3,3,0,8,2,10,4,4,4,14,12,DWLDWWDWWWDW,0,3,3,4,7,WDWDDW,DDWWWD
-Napoli,Palermo FC,0-0,/match/napoli/palermo/2003,2003,14,serie_b,20,38,1,0,0,19,2,6,5,16,20,LDDLLDDLDLWDW,0,3,3,5,8,9,6,2,5,15,17,LDWWWWWLDLLWW,3,0,4,10,13,DLDLLD,LWWWLLW
-Cagliari,Salernitana,2-0,/match/cagliari/salernitana-calcio-1919/2003,2003,14,serie_b,20,38,0,2,0,6,5,4,4,11,13,WWDLWWWWDDDLW,4,2,1,8,6,20,3,1,9,11,21,LWLWWWWWLWLDW,0,1,5,3,11,WDWWWDL,WWWWWD
-SSC Bari,Ancona,0-0,/match/as-bari/ancona/2003,2003,14,serie_b,20,38,1,0,0,15,2,9,2,12,10,DDWDLLDDDLDDD,1,4,2,5,5,5,4,7,2,17,13,DDWDDDDDLWWWW,1,3,2,6,6,DWLDDLD,DDDLWW
-Ascoli,Genoa,1-1,/match/ascoli/genoa/2003,2003,14,serie_b,20,38,1,1,1,14,4,4,5,9,13,LLWDDWWWWDDWW,3,2,1,5,4,10,4,4,5,14,13,WWWDWWLDDWWWD,1,0,5,4,9,LDWWDW,WWWLWW
-Hellas Verona,Lecce,1-1,/match/hellas-verona-fc/lecce/2003,2003,14,serie_b,20,38,1,1,1,11,4,5,4,16,14,DWLDWWDWWWDWD,4,1,1,10,5,4,5,7,1,15,10,DWWWLWDDDDDDW,1,5,1,7,7,WLWDWW,DWLDDDD
-Venezia,Messina,0-2,/match/venezia/messina/2003,2003,14,serie_b,20,38,2,0,2,17,4,4,5,14,15,WDLDDWLDWWLLL,1,3,2,5,6,8,5,3,5,18,16,WWWDLWWDWWWLD,1,1,4,4,6,DDDLWL,WWWDWL
-Ternana Calcio,Triestina ,1-2,/match/ternana-calcio/us-triestina-calcio/2003,2003,14,serie_b,20,38,2,1,2,12,5,4,4,12,10,WWLLDWLDWWDDW,3,2,1,5,3,2,6,4,3,19,12,DWLWWDWDWDWWW,0,4,2,3,6,WLWDWD,DWDDDW
-Sampdoria,Vicenza ,0-0,/match/sampdoria/vicenza-calcio/2003,2003,14,serie_b,20,38,1,0,0,1,6,6,1,16,9,WDWDWDWDDDLWW,5,1,0,12,5,13,4,5,4,20,21,WLWDDDWLDWDLW,2,1,3,10,11,WWWWDW,LWDWWL
-Catania,Cosenza Calcio,0-2,/match/catania/fortitudo-cosenza/2003,2003,14,serie_b,20,38,2,0,2,16,3,3,7,15,23,LWWDWDWWWDWWW,3,2,1,8,6,18,3,2,8,9,15,LWWLWLWWDWDWL,1,0,5,3,7,LWDWDW,WLWWWW
-Livorno,Siena,1-1,/match/livorno/siena/2003,2003,14,serie_b,20,38,1,1,1,7,7,0,6,14,11,WWLWWWLLWWWWW,5,0,1,10,3,3,5,6,2,13,10,DWWWDWDDDLWDW,1,3,2,5,6,WWLWWW,WWDDLD
-Cosenza Calcio,Messina,3-3,/match/fortitudo-cosenza/messina/2003,2003,15,serie_b,20,38,1,3,3,18,4,2,8,11,15,LWWLWLWWDWDWLL,2,2,3,6,8,8,6,3,5,20,16,WWWDLWWDWWWLDL,2,1,4,6,6,LWLWDDL,WWWDWLL
-Lecce,Ascoli,2-1,/match/lecce/ascoli/2003,2003,15,serie_b,20,38,0,2,1,4,5,8,1,16,11,DWWWLWDDDDDDWD,4,2,0,8,3,14,4,5,5,10,14,LLWDDWWWWDDWWD,1,2,4,4,9,WWWDDW,LWDWWDW
-Catania,SSC Bari,1-0,/match/catania/as-bari/2003,2003,15,serie_b,20,38,0,1,0,16,3,3,8,15,25,LWWDWDWWWDWWWL,3,2,2,8,8,15,2,10,2,12,10,DDWDLLDDDLDDDD,1,5,0,7,5,LWDWDWL,DDLDDD
-Ancona,Cagliari,2-1,/match/ancona/cagliari/2003,2003,15,serie_b,20,38,0,2,1,6,4,8,2,17,13,DDWDDDDDLWWWWD,3,4,0,11,7,5,6,4,4,13,13,WWDLWWWWDDDLWW,1,2,3,3,7,DWDDDWW,WLWDDW
-Vicenza ,Livorno,0-0,/match/vicenza-calcio/livorno/2003,2003,15,serie_b,20,38,1,0,0,13,4,6,4,20,21,WLWDDDWLDWDLWD,2,4,1,10,10,7,7,1,6,15,12,WWLWWWLLWWWWWD,2,0,5,4,8,WDDLDDW,WLWWLWW
-Siena,Venezia,0-0,/match/siena/venezia/2003,2003,15,serie_b,20,38,1,0,0,3,5,7,2,14,11,DWWWDWDDDLWDWD,4,3,0,8,4,17,4,4,6,14,17,WDLDDWLDWWLLLL,3,1,3,9,9,DWDWDWW,WLWDWLL
-Sampdoria,Ternana Calcio,1-2,/match/sampdoria/ternana-calcio/2003,2003,15,serie_b,20,38,2,1,2,1,6,7,1,16,9,WDWDWDWDDDLWWD,5,2,0,12,5,12,5,4,5,13,12,WWLLDWLDWWDDWL,2,2,3,7,7,WWWWDWD,WLDLWDW
-Salernitana,Hellas Verona,1-3,/match/salernitana-calcio-1919/hellas-verona-fc/2003,2003,15,serie_b,20,38,2,1,3,20,3,1,10,11,23,LWLWWWWWLWLDWW,3,0,4,8,10,9,4,6,4,17,15,DWLDWWDWWWDWDD,0,4,3,6,9,LLWWLLW,DDWWWDD
-Palermo FC,Genoa,0-0,/match/palermo/genoa/2003,2003,15,serie_b,20,38,1,0,0,11,6,3,5,15,17,LDWWWWWLDLLWWD,3,2,1,5,4,10,4,5,5,15,14,WWWDWWLDDWWWDD,1,1,5,5,10,DWWDLW,WWWLWWD
-Triestina ,Napoli,2-1,/match/us-triestina-calcio/napoli/2003,2003,15,serie_b,20,38,0,2,1,2,7,4,3,21,13,DWLWWDWDWDWWWL,6,0,1,16,6,19,2,7,5,16,20,LDDLLDDLDLWDWD,2,3,2,11,12,WLWWWWW,LDLDDWW
-Cagliari,Sampdoria,1-0,/match/cagliari/sampdoria/2003,2003,16,serie_b,20,38,0,1,0,6,6,4,5,14,15,WWDLWWWWDDDLWWW,5,2,1,10,6,3,6,7,2,17,11,WDWDWDWDDDLWWDL,1,5,1,4,4,WDWWWDLW,DDDDDLW
-Messina,Palermo FC,2-1,/match/messina/palermo/2003,2003,16,serie_b,20,38,0,2,1,8,6,4,5,23,19,WWWDLWWDWWWLDLD,4,2,1,14,10,10,6,4,5,15,17,LDWWWWWLDLLWWDD,3,1,4,10,13,WDLWWWD,LWWWLLWD
-Livorno,Cosenza Calcio,4-2,/match/livorno/fortitudo-cosenza/2003,2003,16,serie_b,20,38,0,4,2,7,7,2,6,15,12,WWLWWWLLWWWWWDD,5,1,1,11,4,18,4,3,8,14,18,LWWLWLWWDWDWLLD,2,0,5,5,7,WWLWWWD,WLWWWWL
-Lecce,Vicenza ,1-1,/match/lecce/vicenza-calcio/2003,2003,16,serie_b,20,38,1,1,1,2,6,8,1,18,12,DWWWLWDDDDDDWDW,5,2,0,10,4,13,4,7,4,20,21,WLWDDDWLDWDLWDD,2,2,3,10,11,WWWDDWW,LWDWWLD
-Genoa,Ancona,4-2,/match/genoa/ancona/2003,2003,16,serie_b,20,38,0,4,2,11,4,6,5,15,14,WWWDWWLDDWWWDDD,3,4,0,10,4,5,5,8,2,19,14,DDWDDDDDLWWWWDW,1,4,2,6,6,WDWDDWD,DDDLWWD
-Ascoli,Napoli,4-0,/match/ascoli/napoli/2003,2003,16,serie_b,20,38,0,4,0,14,4,5,6,11,16,LLWDDWWWWDDWWDW,3,3,1,6,5,19,2,7,6,17,22,LDDLLDDLDLWDWDW,2,3,3,12,14,LDWWDWD,LDLDDWWW
-Venezia,Catania,2-1,/match/venezia/catania/2003,2003,16,serie_b,20,38,0,2,1,17,4,5,6,14,17,WDLDDWLDWWLLLLD,1,3,3,5,8,16,4,3,8,16,25,LWWDWDWWWDWWWLW,0,1,6,7,17,DDDLWLL,WDWWWWW
-Ternana Calcio,SSC Bari,2-1,/match/ternana-calcio/as-bari/2003,2003,16,serie_b,20,38,0,2,1,12,6,4,5,15,13,WWLLDWLDWWDDWLL,3,2,2,6,5,15,2,10,3,12,11,DDWDLLDDDLDDDDW,1,5,1,7,6,WLWDWDL,DDLDDDW
-Salernitana,Triestina ,2-2,/match/salernitana-calcio-1919/us-triestina-calcio/2003,2003,16,serie_b,20,38,1,2,2,20,3,1,11,12,26,LWLWWWWWLWLDWWL,3,0,5,9,13,1,8,4,3,23,14,DWLWWDWDWDWWWLW,1,4,2,5,7,LLWWLLWL,DWDDDWL
-Hellas Verona,Siena,1-2,/match/hellas-verona-fc/siena/2003,2003,16,serie_b,20,38,2,1,2,9,5,6,4,20,16,DWLDWWDWWWDWDDL,4,2,1,11,6,4,5,8,2,14,11,DWWWDWDDDLWDWDD,1,4,2,6,7,WLWDWWD,WWDDLDD
-Napoli,Venezia,1-1,/match/napoli/venezia/2003,2003,17,serie_b,20,38,1,1,1,19,2,7,7,17,26,LDDLLDDLDLWDWDWW,0,4,3,5,8,15,5,5,6,16,18,WDLDDWLDWWLLLLDW,3,2,3,9,9,DLDLLDD,WLWDWLLD
-Ancona,Lecce,1-3,/match/ancona/lecce/2003,2003,17,serie_b,20,38,2,1,3,7,5,8,3,21,18,DDWDDDDDLWWWWDWW,4,4,0,13,8,2,6,9,1,19,13,DWWWLWDDDDDDWDWD,1,6,1,8,8,DWDDDWWW,DWLDDDDD
-Catania,Ternana Calcio,3-1,/match/catania/ternana-calcio/2003,2003,17,serie_b,20,38,0,3,1,17,4,3,9,17,27,LWWDWDWWWDWWWLWW,4,2,2,9,8,9,7,4,5,17,14,WWLLDWLDWWDDWLLW,3,2,3,9,8,LWDWDWLW,WLDLWDWL
-Palermo FC,Ascoli,2-2,/match/palermo/ascoli/2003,2003,17,serie_b,20,38,1,2,2,13,6,4,6,16,19,LDWWWWWLDLLWWDDW,3,3,1,5,4,12,5,5,6,15,16,LLWDDWWWWDDWWDWW,1,2,5,5,11,DWWDLWD,LWDWWDWW
-Cosenza Calcio,Salernitana,0-0,/match/fortitudo-cosenza/salernitana-calcio-1919/2003,2003,17,serie_b,20,38,1,0,0,18,4,3,9,16,22,LWWLWLWWDWDWLLDW,2,3,3,9,11,20,3,2,11,14,28,LWLWWWWWLWLDWWLD,0,1,6,3,13,LWLWDDLD,WWWWWDW
-SSC Bari,Livorno,0-3,/match/as-bari/livorno/2003,2003,17,serie_b,20,38,2,0,3,16,2,10,4,13,13,DDWDLLDDDLDDDDWW,1,5,2,5,5,6,8,2,6,19,14,WWLWWWLLWWWWWDDW,2,1,5,4,8,DWLDDLDD,WLWWLWWD
-Vicenza ,Cagliari,4-2,/match/vicenza-calcio/cagliari/2003,2003,17,serie_b,20,38,0,4,2,14,4,8,4,21,22,WLWDDDWLDWDLWDDD,2,5,1,10,10,4,7,4,5,15,15,WWDLWWWWDDDLWWWW,1,2,4,4,9,WDDLDDWD,WLWDDWW
-Triestina ,Messina,2-1,/match/us-triestina-calcio/messina/2003,2003,17,serie_b,20,38,0,2,1,1,8,5,3,25,16,DWLWWDWDWDWWWLWD,7,0,1,18,7,8,7,4,5,25,20,WWWDLWWDWWWLDLDW,2,2,4,9,9,WLWWWWWW,WWWDWLLD
-Siena,Genoa,2-1,/match/siena/genoa/2003,2003,17,serie_b,20,38,0,2,1,3,6,8,2,16,12,DWWWDWDDDLWDWDDL,4,4,0,8,4,10,5,6,5,19,16,WWWDWWLDDWWWDDDW,1,2,5,5,10,DWDWDWWD,WWWLWWDD
-Sampdoria,Hellas Verona,3-2,/match/sampdoria/hellas-verona-fc/2003,2003,17,serie_b,20,38,0,3,2,5,6,7,3,17,12,WDWDWDWDDDLWWDLW,5,2,1,13,7,11,5,6,5,21,18,DWLDWWDWWWDWDDLL,1,4,3,9,10,WWWWDWDL,DDWWWDDL
-Salernitana,Vicenza ,0-1,/match/salernitana-calcio-1919/vicenza-calcio/2003,2003,18,serie_b,20,38,2,0,1,20,3,3,11,14,28,LWLWWWWWLWLDWWLDD,3,1,5,11,15,9,5,8,4,25,24,WLWDDDWLDWDLWDDDW,2,3,3,11,12,LLWWLLWLD,LWDWWLDD
-Ternana Calcio,Napoli,1-1,/match/ternana-calcio/napoli/2003,2003,18,serie_b,20,38,1,1,1,10,7,4,6,18,17,WWLLDWLDWWDDWLLWW,4,2,2,8,6,19,2,8,7,18,27,LDDLLDDLDLWDWDWWD,2,3,4,12,18,WLWDWDLW,LDLDDWWWW
-Messina,Sampdoria,3-3,/match/messina/sampdoria/2003,2003,18,serie_b,20,38,1,3,3,8,7,4,6,26,22,WWWDLWWDWWWLDLDWW,5,2,1,16,11,4,7,7,3,20,14,WDWDWDWDDDLWWDLWW,1,5,2,4,5,WDLWWWDW,DDDDDLWW
-Livorno,Catania,2-1,/match/livorno/catania/2003,2003,18,serie_b,20,38,0,2,1,5,9,2,6,22,14,WWLWWWLLWWWWWDDWL,6,1,1,15,6,15,5,3,9,20,28,LWWDWDWWWDWWWLWWW,0,1,7,8,19,WWLWWWDW,WDWWWWWW
-Genoa,Triestina ,2-2,/match/genoa/us-triestina-calcio/2003,2003,18,serie_b,20,38,1,2,2,11,5,6,6,20,18,WWWDWWLDDWWWDDDWW,4,4,0,14,6,1,9,5,3,27,17,DWLWWDWDWDWWWLWDW,1,5,2,7,9,WDWDDWDW,DWDDDWLD
-Cagliari,SSC Bari,1-0,/match/cagliari/as-bari/2003,2003,18,serie_b,20,38,0,1,0,6,7,4,6,17,19,WWDLWWWWDDDLWWWWW,6,2,1,11,6,17,2,10,5,13,16,DDWDLLDDDLDDDDWWL,1,5,2,8,8,WDWWWDLWW,DDLDDDWW
-Ascoli,Siena,2-1,/match/ascoli/siena/2003,2003,18,serie_b,20,38,0,2,1,12,5,6,6,17,18,LLWDDWWWWDDWWDWWD,4,3,1,10,5,2,7,8,2,18,13,DWWWDWDDDLWDWDDLW,2,4,2,8,8,LDWWDWDW,WWDDLDDL
-Hellas Verona,Palermo FC,0-0,/match/hellas-verona-fc/palermo/2003,2003,18,serie_b,20,38,1,0,0,14,5,6,6,23,21,DWLDWWDWWWDWDDLLW,4,2,2,12,8,13,6,5,6,18,21,LDWWWWWLDLLWWDDWD,3,1,5,11,15,WLWDWWDL,LWWWLLWDW
-Venezia,Ancona,2-4,/match/venezia/ancona/2003,2003,18,serie_b,20,38,2,2,4,16,5,6,6,17,19,WDLDDWLDWWLLLLDWD,2,3,3,7,9,7,5,8,4,22,21,DDWDDDDDLWWWWDWWL,1,4,3,8,10,DDDLWLLW,DDDLWWDW
-Lecce,Cosenza Calcio,0-0,/match/lecce/fortitudo-cosenza/2003,2003,18,serie_b,20,38,1,0,0,3,7,9,1,22,14,DWWWLWDDDDDDWDWDL,5,3,0,11,5,18,4,4,9,16,22,LWWLWLWWDWDWLLDWD,2,0,6,7,11,WWWDDWWD,WLWWWWLW
-Sampdoria,Venezia,4-0,/match/sampdoria/venezia/2003,2003,19,serie_b,20,38,0,4,0,5,7,8,3,23,17,WDWDWDWDDDLWWDLWWD,6,2,1,16,9,16,5,6,7,19,23,WDLDDWLDWWLLLLDWDL,3,3,3,10,10,WWWWDWDLW,WLWDWLLDD
-Triestina ,Ascoli,3-1,/match/us-triestina-calcio/ascoli/2003,2003,19,serie_b,20,38,0,3,1,1,9,6,3,29,19,DWLWWDWDWDWWWLWDWD,8,0,1,20,8,10,6,6,6,19,19,LLWDDWWWWDDWWDWWDW,1,3,5,7,13,WLWWWWWWW,LWDWWDWWD
-Siena,Salernitana,3-0,/match/siena/salernitana-calcio-1919/2003,2003,19,serie_b,20,38,0,3,0,4,7,8,3,19,15,DWWWDWDDDLWDWDDLWW,5,4,0,10,5,20,3,3,12,14,29,LWLWWWWWLWLDWWLDDL,0,2,6,3,13,DWDWDWWDW,WWWWWDWD
-Palermo FC,Lecce,2-0,/match/palermo/lecce/2003,2003,19,serie_b,20,38,0,2,0,13,6,6,6,18,21,LDWWWWWLDLLWWDDWDD,3,4,1,7,6,2,7,10,1,22,14,DWWWLWDDDDDDWDWDLD,2,6,1,11,9,DWWDLWDD,DWLDDDDDL
-Napoli,Messina,1-0,/match/napoli/messina/2003,2003,19,serie_b,20,38,0,1,0,19,2,9,7,19,28,LDDLLDDLDLWDWDWWDD,0,5,3,6,9,8,7,5,6,29,25,WWWDLWWDWWWLDLDWWD,2,2,5,10,11,DLDLLDDD,WWWDWLLDW
-Cosenza Calcio,Genoa,2-1,/match/fortitudo-cosenza/genoa/2003,2003,19,serie_b,20,38,0,2,1,18,4,5,9,16,22,LWWLWLWWDWDWLLDWDD,2,4,3,9,11,11,5,7,6,22,20,WWWDWWLDDWWWDDDWWD,1,2,6,6,12,LWLWDDLDD,WWWLWWDDW
-Catania,Cagliari,2-1,/match/catania/cagliari/2003,2003,19,serie_b,20,38,0,2,1,15,5,3,10,21,30,LWWDWDWWWDWWWLWWWW,5,2,2,12,9,6,8,4,6,18,19,WWDLWWWWDDDLWWWWWW,1,2,5,6,13,LWDWDWLWW,WLWDDWWW
-SSC Bari,Hellas Verona,1-1,/match/as-bari/hellas-verona-fc/2003,2003,19,serie_b,20,38,1,1,1,17,2,10,6,13,17,DDWDLLDDDLDDDDWWLW,1,5,3,5,8,14,5,7,6,23,21,DWLDWWDWWWDWDDLLWD,1,4,4,11,13,DWLDDLDDL,DDWWWDDLW
-Vicenza ,Ternana Calcio,1-0,/match/vicenza-calcio/ternana-calcio/2003,2003,19,serie_b,20,38,0,1,0,9,6,8,4,26,24,WLWDDDWLDWDLWDDDWL,3,5,1,14,12,12,7,5,6,19,18,WWLLDWLDWWDDWLLWWD,3,2,4,10,11,WDDLDDWDW,WLDLWDWLW
-Ancona,Livorno,1-0,/match/ancona/livorno/2003,2003,19,serie_b,20,38,0,1,0,7,6,8,4,26,23,DDWDDDDDLWWWWDWWLL,4,4,1,14,11,3,10,2,6,24,15,WWLWWWLLWWWWWDDWLW,3,1,5,7,8,DWDDDWWWL,WLWWLWWDL
-Ascoli,Salernitana,3-0,/match/ascoli/salernitana-calcio-1919/2003,2003,20,serie_b,20,38,0,3,0,11,6,6,7,20,22,LLWDDWWWWDDWWDWWDWW,5,3,1,12,6,20,3,3,13,14,32,LWLWWWWWLWLDWWLDDLW,0,2,7,3,16,LDWWDWDWW,WWWWWDWDW
-Messina,Ternana Calcio,2-2,/match/messina/ternana-calcio/2003,2003,20,serie_b,20,38,1,2,2,10,7,5,7,29,26,WWWDLWWDWWWLDLDWWDW,5,3,1,19,14,13,7,5,7,19,19,WWLLDWLDWWDDWLLWWDW,3,2,5,10,12,WDLWWWDWD,WLDLWDWLWW
-Lecce,Siena,1-1,/match/lecce/siena/2003,2003,20,serie_b,20,38,1,1,1,4,7,10,2,22,16,DWWWLWDDDDDDWDWDLDW,5,4,0,11,5,2,8,8,3,22,15,DWWWDWDDDLWDWDDLWWW,2,4,3,9,10,WWWDDWWDD,WWDDLDDLW
-Livorno,Sampdoria,1-1,/match/livorno/sampdoria/2003,2003,20,serie_b,20,38,1,1,1,5,10,2,7,24,16,WWLWWWLLWWWWWDDWLWW,7,1,1,17,7,3,8,8,3,27,17,WDWDWDWDDDLWWDLWWDW,1,6,2,7,8,WWLWWWDWW,DDDDDLWWD
-Palermo FC,Cosenza Calcio,1-0,/match/palermo/fortitudo-cosenza/2003,2003,20,serie_b,20,38,0,1,0,9,7,6,6,20,21,LDWWWWWLDLLWWDDWDDW,4,4,1,9,6,16,5,5,9,18,23,LWWLWLWWDWDWLLDWDDW,2,1,6,7,11,DWWDLWDDW,WLWWWWLWD
-Venezia,Cagliari,3-0,/match/venezia/cagliari/2003,2003,20,serie_b,20,38,0,3,0,17,5,6,8,19,27,WDLDDWLDWWLLLLDWDLW,2,3,4,9,13,6,8,4,7,19,21,WWDLWWWWDDDLWWWWWWW,1,2,6,7,15,DDDLWLLWL,WLWDDWWWW
-Triestina ,SSC Bari,1-2,/match/us-triestina-calcio/as-bari/2003,2003,20,serie_b,20,38,2,1,2,1,10,6,3,32,20,DWLWWDWDWDWWWLWDWDW,9,0,1,23,9,18,2,11,6,14,18,DDWDLLDDDLDDDDWWLWD,1,5,3,8,9,WLWWWWWWWW,DDLDDDWWW
-Hellas Verona,Ancona,0-1,/match/hellas-verona-fc/ancona/2003,2003,20,serie_b,20,38,2,0,1,14,5,8,6,24,22,DWLDWWDWWWDWDDLLWDD,4,3,2,12,8,7,7,8,4,27,23,DDWDDDDDLWWWWDWWLLW,2,4,3,12,12,WLWDWWDLD,DDDLWWDWL
-Genoa,Vicenza ,0-2,/match/genoa/vicenza-calcio/2003,2003,20,serie_b,20,38,2,0,2,12,5,7,7,23,22,WWWDWWLDDWWWDDDWWDW,4,5,0,16,8,8,7,8,4,27,24,WLWDDDWLDWDLWDDDWLW,3,3,3,12,12,WDWDDWDWD,LWDWWLDDL
-Napoli,Catania,1-0,/match/napoli/catania/2003,2003,20,serie_b,20,38,0,1,0,19,3,9,7,20,28,LDDLLDDLDLWDWDWWDDW,1,5,3,7,9,15,6,3,10,23,31,LWWDWDWWWDWWWLWWWWW,0,1,8,9,21,DLDLLDDDW,WDWWWWWWW
-SSC Bari,Venezia,0-1,/match/as-bari/venezia/2003,2003,21,serie_b,20,38,2,0,1,19,3,11,6,16,19,DDWDLLDDDLDDDDWWLWDL,1,6,3,6,9,16,6,6,8,22,27,WDLDDWLDWWLLLLDWDLWW,3,3,4,10,14,DWLDDLDDLD,WLWDWLLDDW
-Cosenza Calcio,Hellas Verona,0-1,/match/fortitudo-cosenza/hellas-verona-fc/2003,2003,21,serie_b,20,38,2,0,1,18,5,5,10,18,24,LWWLWLWWDWDWLLDWDDWW,3,4,3,11,12,14,5,8,7,24,23,DWLDWWDWWWDWDDLLWDDL,1,5,4,12,14,LWLWDDLDDW,DDWWWDDLWD
-Sampdoria,Palermo FC,1-0,/match/sampdoria/palermo/2003,2003,21,serie_b,20,38,0,1,0,3,8,9,3,28,18,WDWDWDWDDDLWWDLWWDWD,7,2,1,20,9,9,8,6,6,21,21,LDWWWWWLDLLWWDDWDDWW,3,2,5,11,15,WWWWDWDLWW,LWWWLLWDWD
-Ancona,Napoli,3-2,/match/ancona/napoli/2003,2003,21,serie_b,20,38,0,3,2,6,8,8,4,28,23,DDWDDDDDLWWWWDWWLLWL,5,4,1,15,11,17,4,9,7,21,28,LDDLLDDLDLWDWDWWDDWW,2,4,4,13,19,DWDDDWWWLW,LDLDDWWWWD
-Salernitana,Messina,0-0,/match/salernitana-calcio-1919/messina/2003,2003,21,serie_b,20,38,1,0,0,20,3,3,14,14,35,LWLWWWWWLWLDWWLDDLWW,3,1,6,11,16,11,7,6,7,31,28,WWWDLWWDWWWLDLDWWDWD,2,2,6,10,12,LLWWLLWLDL,WWWDWLLDWW
-Cagliari,Livorno,1-1,/match/cagliari/livorno/2003,2003,21,serie_b,20,38,1,1,1,8,8,4,8,19,24,WWDLWWWWDDDLWWWWWWWW,7,2,1,12,6,5,10,3,7,25,17,WWLWWWLLWWWWWDDWLWWD,3,1,6,7,9,WDWWWDLWWW,WLWWLWWDLW
-Ternana Calcio,Genoa,1-3,/match/ternana-calcio/genoa/2003,2003,21,serie_b,20,38,2,1,3,12,7,6,7,21,21,WWLLDWLDWWDDWLLWWDWD,4,3,2,9,7,13,5,7,8,23,24,WWWDWWLDDWWWDDDWWDWL,1,2,7,7,14,WLWDWDLWD,WWWLWWDDWW
-Vicenza ,Ascoli,2-1,/match/vicenza-calcio/ascoli/2003,2003,21,serie_b,20,38,0,2,1,7,8,8,4,29,24,WLWDDDWLDWDLWDDDWLWL,4,5,1,15,12,10,7,6,7,23,22,LLWDDWWWWDDWWDWWDWWW,1,3,6,8,16,WDDLDDWDWW,LWDWWDWWDW
-Catania,Lecce,2-1,/match/catania/lecce/2003,2003,21,serie_b,20,38,0,2,1,15,6,3,11,23,32,LWWDWDWWWDWWWLWWWWWW,6,2,2,14,10,4,7,11,2,23,17,DWWWLWDDDDDDWDWDLDWD,2,6,2,11,11,LWDWDWLWWW,DWLDDDDDLW
-Siena,Triestina ,1-0,/match/siena/us-triestina-calcio/2003,2003,21,serie_b,20,38,0,1,0,2,8,9,3,23,16,DWWWDWDDDLWDWDDLWWWD,6,4,0,13,5,1,10,6,4,33,22,DWLWWDWDWDWWWLWDWDWL,1,6,2,9,11,DWDWDWWDWW,DWDDDWLDD
-Genoa,Catania,2-0,/match/genoa/catania/2003,2003,22,serie_b,20,38,0,2,0,13,6,7,8,26,25,WWWDWWLDDWWWDDDWWDWLL,4,5,1,16,10,12,7,3,11,25,33,LWWDWDWWWDWWWLWWWWWWW,0,1,9,9,22,WDWDDWDWDL,WDWWWWWWWW
-Livorno,Hellas Verona,1-1,/match/livorno/hellas-verona-fc/2003,2003,22,serie_b,20,38,1,1,1,7,10,4,7,26,18,WWLWWWLLWWWWWDDWLWWDD,7,2,1,18,8,15,6,8,7,25,23,DWLDWWDWWWDWDDLLWDDLL,2,5,4,13,14,WWLWWWDWWD,DDWWWDDLWDL
-Venezia,Triestina ,1-0,/match/venezia/us-triestina-calcio/2003,2003,22,serie_b,20,38,0,1,0,16,7,6,8,23,27,WDLDDWLDWWLLLLDWDLWWL,3,3,4,12,13,3,10,6,5,33,23,DWLWWDWDWDWWWLWDWDWLW,1,6,3,9,12,DDDLWLLWLW,DWDDDWLDDW
-Messina,Siena,0-0,/match/messina/siena/2003,2003,22,serie_b,20,38,1,0,0,10,7,7,7,31,28,WWWDLWWDWWWLDLDWWDWDD,5,4,1,21,16,1,9,9,3,24,16,DWWWDWDDDLWDWDDLWWWDW,2,5,3,10,11,WDLWWWDWDD,WWDDLDDLWD
-Ternana Calcio,Salernitana,4-0,/match/ternana-calcio/salernitana-calcio-1919/2003,2003,22,serie_b,20,38,0,4,0,14,7,6,8,22,24,WWLLDWLDWWDDWLLWWDWDL,4,3,3,10,10,20,3,4,14,14,35,LWLWWWWWLWLDWWLDDLWWD,0,2,8,3,19,WLWDWDLWDL,WWWWWDWDWW
-Vicenza ,Cosenza Calcio,3-0,/match/vicenza-calcio/fortitudo-cosenza/2003,2003,22,serie_b,20,38,0,3,0,5,9,8,4,31,25,WLWDDDWLDWDLWDDDWLWLW,5,5,1,17,13,18,5,5,11,18,25,LWWLWLWWDWDWLLDWDDWWL,2,1,7,7,12,WDDLDDWDWWW,WLWWWWLWDW
-Napoli,Cagliari,2-0,/match/napoli/cagliari/2003,2003,22,serie_b,20,38,0,2,0,17,4,9,8,23,31,LDDLLDDLDLWDWDWWDDWWW,2,5,3,8,9,8,8,5,8,20,25,WWDLWWWWDDDLWWWWWWWWD,1,2,7,7,18,DLDLLDDDWW,WLWDDWWWWW
-Ascoli,SSC Bari,3-2,/match/ascoli/as-bari/2003,2003,22,serie_b,20,38,0,3,2,11,7,6,8,24,24,LLWDDWWWWDDWWDWWDWWWW,6,3,1,15,6,19,3,11,7,16,20,DDWDLLDDDLDDDDWWLWDLL,2,5,3,10,10,LDWWDWDWWW,DDLDDDWWWL
-Palermo FC,Ancona,0-1,/match/palermo/ancona/2003,2003,22,serie_b,20,38,2,0,1,9,8,6,7,21,22,LDWWWWWLDLLWWDDWDDWWW,5,4,1,10,6,4,9,8,4,31,25,DDWDDDDDLWWWWDWWLLWLW,3,4,3,13,12,DWWDLWDDWW,DDDLWWDWLL
-Lecce,Sampdoria,1-0,/match/lecce/sampdoria/2003,2003,22,serie_b,20,38,0,1,0,6,7,11,3,24,19,DWWWLWDDDDDDWDWDLDWDW,5,5,0,12,6,2,9,9,3,29,18,WDWDWDWDDDLWWDLWWDWDW,1,7,2,8,9,WWWDDWWDDD,DDDDDLWWDD
-Hellas Verona,Venezia,1-0,/match/hellas-verona-fc/venezia/2003,2003,23,serie_b,20,38,0,1,0,16,6,9,7,26,24,DWLDWWDWWWDWDDLLWDDLLD,4,3,3,12,9,15,8,6,8,24,27,WDLDDWLDWWLLLLDWDLWWLW,4,3,4,11,14,WLWDWWDLDL,WLWDWLLDDWL
-Sampdoria,Ascoli,3-0,/match/sampdoria/ascoli/2003,2003,23,serie_b,20,38,0,3,0,2,9,9,4,29,19,WDWDWDWDDDLWWDLWWDWDWW,8,2,1,21,9,8,8,6,8,27,26,LLWDDWWWWDDWWDWWDWWWWW,1,3,7,9,18,WWWWDWDLWWW,LWDWWDWWDWW
-Ancona,Vicenza ,3-1,/match/ancona/vicenza-calcio/2003,2003,23,serie_b,20,38,0,3,1,5,10,8,4,32,25,DDWDDDDDLWWWWDWWLLWLWL,6,4,1,18,13,3,10,8,4,34,25,WLWDDDWLDWDLWDDDWLWLWW,4,3,3,14,12,DWDDDWWWLWW,LWDWWLDDLL
-Cagliari,Ternana Calcio,1-1,/match/cagliari/ternana-calcio/2003,2003,23,serie_b,20,38,1,1,1,9,8,5,9,20,27,WWDLWWWWDDDLWWWWWWWWDW,7,3,1,13,7,13,8,6,8,26,24,WWLLDWLDWWDDWLLWWDWDLW,3,3,5,12,14,WDWWWDLWWWD,WLDLWDWLWWD
-Siena,Palermo FC,2-1,/match/siena/palermo/2003,2003,23,serie_b,20,38,0,2,1,1,9,10,3,24,16,DWWWDWDDDLWDWDDLWWWDWD,7,4,0,14,5,11,8,6,8,21,23,LDWWWWWLDLLWWDDWDDWWWL,3,2,6,11,16,DWDWDWWDWWW,LWWWLLWDWDW
-Cosenza Calcio,Napoli,1-0,/match/fortitudo-cosenza/napoli/2003,2003,23,serie_b,20,38,0,1,0,18,5,5,12,18,28,LWWLWLWWDWDWLLDWDDWWLW,3,4,4,11,13,17,5,9,8,25,31,LDDLLDDLDLWDWDWWDDWWWW,2,4,5,15,22,LWLWDDLDDWL,LDLDDWWWWDW
-Catania,Messina,1-1,/match/catania/messina/2003,2003,23,serie_b,20,38,1,1,1,14,7,3,12,25,35,LWWDWDWWWDWWWLWWWWWWWW,7,2,2,16,11,10,7,8,7,31,28,WWWDLWWDWWWLDLDWWDWDDD,2,3,6,10,12,LWDWDWLWWWW,WWWDWLLDWWD
-Salernitana,Lecce,2-1,/match/salernitana-calcio-1919/lecce/2003,2003,23,serie_b,20,38,0,2,1,20,3,4,15,14,39,LWLWWWWWLWLDWWLDDLWWDW,3,2,6,11,16,6,8,11,3,25,19,DWWWLWDDDDDDWDWDLDWDWW,2,6,3,12,13,LLWWLLWLDLD,DWLDDDDDLWW
-SSC Bari,Genoa,2-1,/match/as-bari/genoa/2003,2003,23,serie_b,20,38,0,2,1,19,3,11,8,18,23,DDWDLLDDDLDDDDWWLWDLLW,1,6,4,6,10,12,7,7,8,28,25,WWWDWWLDDWWWDDDWWDWLLW,2,2,7,10,15,DWLDDLDDLDL,WWWLWWDDWWL
-Triestina ,Livorno,1-0,/match/us-triestina-calcio/livorno/2003,2003,23,serie_b,20,38,0,1,0,4,10,6,6,33,24,DWLWWDWDWDWWWLWDWDWLWW,9,0,2,24,11,7,10,5,7,27,19,WWLWWWLLWWWWWDDWLWWDDD,3,2,6,8,10,WLWWWWWWWWL,WLWWLWWDLWD
-Ternana Calcio,Ancona,1-0,/match/ternana-calcio/ancona/2003,2003,24,serie_b,20,38,0,1,0,11,8,7,8,27,25,WWLLDWLDWWDDWLLWWDWDLWD,5,3,3,14,10,4,11,8,4,35,26,DDWDDDDDLWWWWDWWLLWLWLW,4,4,3,14,12,WLWDWDLWDLW,DDDLWWDWLLL
-Catania,Hellas Verona,2-1,/match/catania/hellas-verona-fc/2003,2003,24,serie_b,20,38,0,2,1,15,7,4,12,26,36,LWWDWDWWWDWWWLWWWWWWWWD,7,3,2,17,12,12,7,9,7,27,24,DWLDWWDWWWDWDDLLWDDLLDW,2,6,4,14,15,LWDWDWLWWWWD,DDWWWDDLWDLD
-Ascoli,Venezia,1-2,/match/ascoli/venezia/2003,2003,24,serie_b,20,38,2,1,2,9,8,6,9,27,29,LLWDDWWWWDDWWDWWDWWWWWW,7,3,1,18,8,16,8,6,9,24,28,WDLDDWLDWWLLLLDWDLWWLWW,4,3,5,11,15,LDWWDWDWWWW,WLWDWLLDDWLW
-Palermo FC,Triestina ,1-0,/match/palermo/us-triestina-calcio/2003,2003,24,serie_b,20,38,0,1,0,13,8,6,9,22,25,LDWWWWWLDLLWWDDWDDWWWLW,5,4,2,10,7,3,11,6,6,34,24,DWLWWDWDWDWWWLWDWDWLWWW,1,6,4,9,13,DWWDLWDDWWL,DWDDDWLDDWW
-Vicenza ,Siena,1-1,/match/vicenza-calcio/siena/2003,2003,24,serie_b,20,38,1,1,1,5,10,8,5,35,28,WLWDDDWLDWDLWDDDWLWLWWW,6,5,1,20,13,1,10,10,3,26,17,DWWWDWDDDLWDWDDLWWWDWDW,2,6,3,10,11,WDDLDDWDWWWW,WWDDLDDLWDD
-Livorno,Salernitana,0-0,/match/livorno/salernitana-calcio-1919/2003,2003,24,serie_b,20,38,1,0,0,7,10,5,8,27,20,WWLWWWLLWWWWWDDWLWWDDDW,7,3,1,19,9,20,4,4,15,16,40,LWLWWWWWLWLDWWLDDLWWDWW,0,2,9,3,23,WWLWWWDWWDD,WWWWWDWDWWW
-Lecce,Messina,1-1,/match/lecce/messina/2003,2003,24,serie_b,20,38,1,1,1,6,8,11,4,26,21,DWWWLWDDDDDDWDWDLDWDWWW,6,5,0,13,6,10,7,9,7,32,29,WWWDLWWDWWWLDLDWWDWDDDD,2,4,6,11,13,WWWDDWWDDDW,WWWDWLLDWWDD
-Genoa,Cagliari,1-3,/match/genoa/cagliari/2003,2003,24,serie_b,20,38,2,1,3,14,7,7,9,29,27,WWWDWWLDDWWWDDDWWDWLLWW,5,5,1,18,10,8,8,6,9,21,28,WWDLWWWWDDDLWWWWWWWWDWD,1,2,8,7,20,WDWDDWDWDLW,WLWDDWWWWWW
-Cosenza Calcio,Sampdoria,1-3,/match/fortitudo-cosenza/sampdoria/2003,2003,24,serie_b,20,38,2,1,3,18,6,5,12,19,28,LWWLWLWWDWDWLLDWDDWWLWW,4,4,4,12,13,2,10,9,4,32,19,WDWDWDWDDDLWWDLWWDWDWWW,1,7,3,8,10,LWLWDDLDDWLW,DDDDDLWWDDW
-Napoli,SSC Bari,1-1,/match/napoli/as-bari/2003,2003,24,serie_b,20,38,1,1,1,17,5,9,9,25,32,LDDLLDDLDLWDWDWWDDWWWWW,3,5,3,10,9,19,4,11,8,20,24,DDWDLLDDDLDDDDWWLWDLLWW,2,5,4,12,13,DLDLLDDDWWW,DDLDDDWWWLW
-Cagliari,Siena,2-3,/match/cagliari/siena/2003,2003,25,serie_b,20,38,2,2,3,8,9,6,9,24,29,WWDLWWWWDDDLWWWWWWWWDWDL,7,4,1,14,8,1,10,11,3,27,18,DWWWDWDDDLWDWDDLWWWDWDWD,2,7,3,11,12,WDWWWDLWWWDD,WWDDLDDLWDDD
-Ancona,Catania,2-0,/match/ancona/catania/2003,2003,25,serie_b,20,38,0,2,0,4,11,8,5,35,27,DDWDDDDDLWWWWDWWLLWLWLWW,7,4,1,21,14,13,8,4,12,28,37,LWWDWDWWWDWWWLWWWWWWWWDW,0,1,10,9,24,DWDDDWWWLWWW,WDWWWWWWWWW
-Messina,Ascoli,3-2,/match/messina/ascoli/2003,2003,25,serie_b,20,38,0,3,2,11,7,10,7,33,30,WWWDLWWDWWWLDLDWWDWDDDDD,5,5,1,21,16,12,8,6,10,28,31,LLWDDWWWWDDWWDWWDWWWWWWL,1,3,8,9,21,WDLWWWDWDDD,LWDWWDWWDWWW
-Triestina ,Vicenza ,1-1,/match/us-triestina-calcio/vicenza-calcio/2003,2003,25,serie_b,20,38,1,1,1,3,11,6,7,34,25,DWLWWDWDWDWWWLWDWDWLWWWW,10,0,2,25,11,5,10,9,5,36,29,WLWDDDWLDWDLWDDDWLWLWWWD,4,3,4,15,15,WLWWWWWWWWLW,LWDWWLDDLLW
-Hellas Verona,Ternana Calcio,0-1,/match/hellas-verona-fc/ternana-calcio/2003,2003,25,serie_b,20,38,2,0,1,14,7,9,8,28,26,DWLDWWDWWWDWDDLLWDDLLDWW,5,3,3,13,9,10,9,7,8,28,25,WWLLDWLDWWDDWLLWWDWDLWDW,3,4,5,13,15,WLWDWWDLDLW,WLDLWDWLWWDD
-Livorno,Palermo FC,2-2,/match/livorno/palermo/2003,2003,25,serie_b,20,38,1,2,2,7,10,6,8,27,20,WWLWWWLLWWWWWDDWLWWDDDWD,7,4,1,19,9,9,9,6,9,23,25,LDWWWWWLDLLWWDDWDDWWWLWW,3,2,7,12,18,WWLWWWDWWDDD,LWWWLLWDWDWW
-Venezia,Lecce,2-2,/match/venezia/lecce/2003,2003,25,serie_b,20,38,1,2,2,16,9,6,9,26,29,WDLDDWLDWWLLLLDWDLWWLWWL,4,3,4,13,13,6,8,12,4,27,22,DWWWLWDDDDDDWDWDLDWDWWWD,2,6,4,13,15,DDDLWLLWLWW,DWLDDDDDLWWW
-Salernitana,Genoa,2-2,/match/salernitana-calcio-1919/genoa/2003,2003,25,serie_b,20,38,1,2,2,20,4,5,15,16,40,LWLWWWWWLWLDWWLDDLWWDWWD,4,2,6,13,17,15,7,7,10,30,30,WWWDWWLDDWWWDDDWWDWLLWWL,2,2,8,11,17,LLWWLLWLDLDW,WWWLWWDDWWLW
-SSC Bari,Cosenza Calcio,1-0,/match/as-bari/fortitudo-cosenza/2003,2003,25,serie_b,20,38,0,1,0,18,4,12,8,21,25,DDWDLLDDDLDDDDWWLWDLLWWD,2,6,4,8,11,19,6,5,13,20,31,LWWLWLWWDWDWLLDWDDWWLWWL,2,1,8,7,15,DWLDDLDDLDLW,WLWWWWLWDWW
-Sampdoria,Napoli,2-0,/match/sampdoria/napoli/2003,2003,25,serie_b,20,38,0,2,0,2,11,9,4,35,20,WDWDWDWDDDLWWDLWWDWDWWWL,9,2,1,24,9,17,5,10,9,26,33,LDDLLDDLDLWDWDWWDDWWWWWD,2,4,6,15,23,WWWWDWDLWWWW,LDLDDWWWWDWW
-Vicenza ,Messina,2-1,/match/vicenza-calcio/messina/2003,2003,26,serie_b,20,38,0,2,1,5,10,10,5,37,30,WLWDDDWLDWDLWDDDWLWLWWWDD,6,6,1,21,14,8,8,10,7,36,32,WWWDLWWDWWWLDLDWWDWDDDDDW,2,5,6,12,14,WDDLDDWDWWWWD,WWWDWLLDWWDDD
-Ascoli,Cagliari,1-1,/match/ascoli/cagliari/2003,2003,26,serie_b,20,38,1,1,1,12,8,6,11,30,34,LLWDDWWWWDDWWDWWDWWWWWWLW,7,3,2,19,10,10,9,6,10,26,32,WWDLWWWWDDDLWWWWWWWWDWDLL,2,2,8,10,21,LDWWDWDWWWWL,WLWDDWWWWWWL
-Lecce,SSC Bari,1-0,/match/lecce/as-bari/2003,2003,26,serie_b,20,38,0,1,0,6,8,13,4,29,24,DWWWLWDDDDDDWDWDLDWDWWWDD,6,6,0,14,7,17,5,12,8,22,25,DDWDLLDDDLDDDDWWLWDLLWWDW,2,6,4,13,14,WWWDDWWDDDWD,DDLDDDWWWLWD
-Napoli,Hellas Verona,0-0,/match/napoli/hellas-verona-fc/2003,2003,26,serie_b,20,38,1,0,0,18,5,10,10,26,35,LDDLLDDLDLWDWDWWDDWWWWWDW,3,6,3,11,10,16,7,9,9,28,27,DWLDWWDWWWDWDDLLWDDLLDWWL,2,6,5,15,17,DLDLLDDDWWWD,DDWWWDDLWDLDW
-Genoa,Venezia,0-0,/match/genoa/venezia/2003,2003,26,serie_b,20,38,1,0,0,14,7,8,10,32,32,WWWDWWLDDWWWDDDWWDWLLWWLD,5,5,2,19,13,15,9,7,9,28,31,WDLDDWLDWWLLLLDWDLWWLWWLD,5,3,5,13,16,WDWDDWDWDLWL,WLWDWLLDDWLWL
-Cosenza Calcio,Triestina ,1-0,/match/fortitudo-cosenza/us-triestina-calcio/2003,2003,26,serie_b,20,38,0,1,0,19,6,5,14,20,32,LWWLWLWWDWDWLLDWDDWWLWWLW,4,4,5,13,16,4,11,7,7,35,26,DWLWWDWDWDWWWLWDWDWLWWWWD,1,6,5,9,14,LWLWDDLDDWLWL,DWDDDWLDDWWW
-Catania,Sampdoria,0-0,/match/catania/sampdoria/2003,2003,26,serie_b,20,38,1,0,0,13,8,4,13,28,39,LWWDWDWWWDWWWLWWWWWWWWDWW,8,3,2,19,13,1,12,9,4,37,20,WDWDWDWDDDLWWDLWWDWDWWWLW,2,7,3,11,11,LWDWDWLWWWWDW,DDDDDLWWDDWL
-Palermo FC,Salernitana,1-1,/match/palermo/salernitana-calcio-1919/2003,2003,26,serie_b,20,38,1,1,1,11,9,7,9,25,27,LDWWWWWLDLLWWDDWDDWWWLWWD,6,4,2,11,7,20,4,6,15,18,42,LWLWWWWWLWLDWWLDDLWWDWWDD,0,3,9,3,23,DWWDLWDDWWLW,WWWWWDWDWWWD
-Ternana Calcio,Livorno,1-1,/match/ternana-calcio/livorno/2003,2003,26,serie_b,20,38,1,1,1,9,10,7,8,29,25,WWLLDWLDWWDDWLLWWDWDLWDWL,6,3,3,15,10,7,10,7,8,29,22,WWLWWWLLWWWWWDDWLWWDDDWDD,3,2,7,8,11,WLWDWDLWDLWW,WLWWLWWDLWDW
-Siena,Ancona,0-0,/match/siena/ancona/2003,2003,26,serie_b,20,38,1,0,0,2,11,11,3,30,20,DWWWDWDDDLWDWDDLWWWDWDWDL,8,4,0,16,6,3,12,8,5,37,27,DDWDDDDDLWWWWDWWLLWLWLWWW,4,4,4,14,13,DWDWDWWDWWWW,DDDLWWDWLLLW
-Messina,Genoa,2-1,/match/messina/genoa/2003,2003,27,serie_b,20,38,0,2,1,11,8,10,8,37,34,WWWDLWWDWWWLDLDWWDWDDDDDWW,6,5,1,24,18,14,7,9,10,32,32,WWWDWWLDDWWWDDDWWDWLLWWLDD,2,3,8,13,19,WDLWWWDWDDDW,WWWLWWDDWWLWD
-Salernitana,Catania,0-0,/match/salernitana-calcio-1919/catania/2003,2003,27,serie_b,20,38,1,0,0,20,4,7,15,19,43,LWLWWWWWLWLDWWLDDLWWDWWDDD,4,3,6,15,19,13,8,5,13,28,39,LWWDWDWWWDWWWLWWWWWWWWDWWD,0,1,11,9,26,LLWWLLWLDLDWD,WDWWWWWWWWWW
-Sampdoria,Ancona,2-1,/match/sampdoria/ancona/2003,2003,27,serie_b,20,38,0,2,1,1,12,10,4,37,20,WDWDWDWDDDLWWDLWWDWDWWWLWD,10,2,1,26,9,3,12,9,5,37,27,DDWDDDDDLWWWWDWWLLWLWLWWWD,4,5,4,14,13,WWWWDWDLWWWWW,DDDLWWDWLLLWD
-Palermo FC,Vicenza ,1-0,/match/palermo/vicenza-calcio/2003,2003,27,serie_b,20,38,0,1,0,10,9,8,9,26,28,LDWWWWWLDLLWWDDWDDWWWLWWDD,6,5,2,12,8,4,11,10,5,39,31,WLWDDDWLDWDLWDDDWLWLWWWDDW,4,4,4,16,16,DWWDLWDDWWLWD,LWDWWLDDLLWD
-Venezia,Ternana Calcio,0-0,/match/venezia/ternana-calcio/2003,2003,27,serie_b,20,38,1,0,0,15,9,8,9,28,31,WDLDDWLDWWLLLLDWDLWWLWWLDD,4,4,4,15,15,8,10,8,8,30,26,WWLLDWLDWWDDWLLWWDWDLWDWLD,4,4,5,14,15,DDDLWLLWLWWD,WLDLWDWLWWDDL
-SSC Bari,Siena,0-0,/match/as-bari/siena/2003,2003,27,serie_b,20,38,1,0,0,17,5,12,9,22,26,DDWDLLDDDLDDDDWWLWDLLWWDWW,3,6,4,9,11,2,11,12,3,30,20,DWWWDWDDDLWDWDDLWWWDWDWDLD,3,7,3,14,14,DWLDDLDDLDLWW,WWDDLDDLWDDDL
-Livorno,Napoli,1-1,/match/livorno/napoli/2003,2003,27,serie_b,20,38,1,1,1,7,10,8,8,30,23,WWLWWWLLWWWWWDDWLWWDDDWDDD,7,5,1,21,11,18,5,11,10,26,35,LDDLLDDLDLWDWDWWDDWWWWWDWD,2,4,7,15,25,WWLWWWDWWDDDD,LDLDDWWWWDWWW
-Triestina ,Lecce,0-1,/match/us-triestina-calcio/lecce/2003,2003,27,serie_b,20,38,2,0,1,6,11,7,8,35,27,DWLWWDWDWDWWWLWDWDWLWWWWDW,10,1,2,26,12,5,9,13,4,30,24,DWWWLWDDDDDDWDWDLDWDWWWDDW,2,7,4,15,17,WLWWWWWWWWLWD,DWLDDDDDLWWWD
-Ascoli,Cosenza Calcio,3-0,/match/ascoli/fortitudo-cosenza/2003,2003,27,serie_b,20,38,0,3,0,12,8,7,11,31,35,LLWDDWWWWDDWWDWWDWWWWWWLWD,7,4,2,20,11,19,7,5,14,21,32,LWWLWLWWDWDWLLDWDDWWLWWLWW,2,1,9,7,16,LDWWDWDWWWWLD,WLWWWWLWDWWW
-Hellas Verona,Cagliari,1-1,/match/hellas-verona-fc/cagliari/2003,2003,27,serie_b,20,38,1,1,1,16,7,10,9,28,27,DWLDWWDWWWDWDDLLWDDLLDWWLD,5,3,4,13,10,9,9,7,10,27,33,WWDLWWWWDDDLWWWWWWWWDWDLLD,2,3,8,11,22,WLWDWWDLDLWL,WLWDDWWWWWWLD
-Ternana Calcio,Ascoli,2-1,/match/ternana-calcio/ascoli/2003,2003,28,serie_b,20,38,0,2,1,10,10,9,8,30,26,WWLLDWLDWWDDWLLWWDWDLWDWLDD,6,4,3,16,11,11,9,7,11,34,35,LLWDDWWWWDDWWDWWDWWWWWWLWDW,1,3,9,11,24,WLWDWDLWDLWWD,LWDWWDWWDWWWW
-Lecce,Genoa,2-1,/match/lecce/genoa/2003,2003,28,serie_b,20,38,0,2,1,4,10,13,4,31,24,DWWWLWDDDDDDWDWDLDWDWWWDDWL,7,6,0,15,7,15,7,9,11,33,34,WWWDWWLDDWWWDDDWWDWLLWWLDDW,2,3,9,14,21,WWWDDWWDDDWDW,WWWLWWDDWWLWDW
-Siena,Cosenza Calcio,1-0,/match/siena/fortitudo-cosenza/2003,2003,28,serie_b,20,38,0,1,0,2,11,13,3,30,20,DWWWDWDDDLWDWDDLWWWDWDWDLDD,8,5,0,16,6,19,7,5,15,21,35,LWWLWLWWDWDWLLDWDDWWLWWLWWW,2,1,10,7,19,DWDWDWWDWWWWD,WLWWWWLWDWWWW
-Sampdoria,SSC Bari,1-1,/match/sampdoria/as-bari/2003,2003,28,serie_b,20,38,1,1,1,1,13,10,4,39,21,WDWDWDWDDDLWWDLWWDWDWWWLWDW,11,2,1,28,10,17,5,13,9,22,26,DDWDLLDDDLDDDDWWLWDLLWWDWWD,2,6,5,13,15,WWWWDWDLWWWWWW,DDLDDDWWWLWDW
-Catania,Triestina ,1-2,/match/catania/us-triestina-calcio/2003,2003,28,serie_b,20,38,2,1,2,13,8,6,13,28,39,LWWDWDWWWDWWWLWWWWWWWWDWWDD,8,4,2,19,13,6,11,7,9,35,28,DWLWWDWDWDWWWLWDWDWLWWWWDWL,1,6,6,9,15,LWDWDWLWWWWDWD,DWDDDWLDDWWWW
-Ancona,Salernitana,3-1,/match/ancona/salernitana-calcio-1919/2003,2003,28,serie_b,20,38,0,3,1,3,12,9,6,38,29,DDWDDDDDLWWWWDWWLLWLWLWWWDW,8,4,1,23,14,20,4,8,15,19,43,LWLWWWWWLWLDWWLDDLWWDWWDDDD,0,4,9,4,24,DWDDDWWWLWWWW,WWWWWDWDWWWDD
-Cagliari,Palermo FC,2-2,/match/cagliari/palermo/2003,2003,28,serie_b,20,38,1,2,2,12,9,8,10,28,34,WWDLWWWWDDDLWWWWWWWWDWDLLDD,7,4,2,16,11,8,10,8,9,27,28,LDWWWWWLDLLWWDDWDDWWWLWWDDW,3,3,7,14,20,WDWWWDLWWWDDL,LWWWLLWDWDWWD
-Hellas Verona,Messina,4-1,/match/hellas-verona-fc/messina/2003,2003,28,serie_b,20,38,0,4,1,16,7,11,9,29,28,DWLDWWDWWWDWDDLLWDDLLDWWLDD,5,4,4,14,11,9,9,10,8,39,35,WWWDLWWDWWWLDLDWWDWDDDDDWWW,2,5,7,13,16,WLWDWWDLDLWLD,WWWDWLLDWWDDDW
-Venezia,Livorno,1-1,/match/venezia/livorno/2003,2003,28,serie_b,20,38,1,1,1,14,9,9,9,28,31,WDLDDWLDWWLLLLDWDLWWLWWLDDD,4,5,4,15,15,7,10,9,8,31,24,WWLWWWLLWWWWWDDWLWWDDDWDDDD,3,3,7,9,12,DDDLWLLWLWWDD,WLWWLWWDLWDWD
-Napoli,Vicenza ,2-1,/match/napoli/vicenza-calcio/2003,2003,28,serie_b,20,38,0,2,1,18,5,12,10,27,36,LDDLLDDLDLWDWDWWDDWWWWWDWDD,3,7,3,11,10,5,11,10,6,39,32,WLWDDDWLDWDLWDDDWLWLWWWDDWW,4,4,5,16,17,DLDLLDDDWWWDD,LWDWWLDDLLWDW
-Palermo FC,SSC Bari,2-2,/match/palermo/as-bari/2003,2003,29,serie_b,20,38,1,2,2,9,10,9,9,29,30,LDWWWWWLDLLWWDDWDDWWWLWWDDWD,7,5,2,13,8,18,5,14,9,23,27,DDWDLLDDDLDDDDWWLWDLLWWDWWDD,2,7,5,14,16,DWWDLWDDWWLWDW,DDLDDDWWWLWDWD
-Genoa,Livorno,3-1,/match/genoa/livorno/2003,2003,29,serie_b,20,38,0,3,1,16,7,9,12,34,36,WWWDWWLDDWWWDDDWWDWLLWWLDDWW,5,6,2,19,13,7,10,10,8,32,25,WWLWWWLLWWWWWDDWLWWDDDWDDDDD,3,4,7,10,13,WDWDDWDWDLWLD,WLWWLWWDLWDWDD
-Ascoli,Catania,2-1,/match/ascoli/catania/2003,2003,29,serie_b,20,38,0,2,1,12,9,7,12,35,37,LLWDDWWWWDDWWDWWDWWWWWWLWDWW,8,4,2,23,11,14,8,6,14,29,41,LWWDWDWWWDWWWLWWWWWWWWDWWDDL,0,2,11,9,26,LDWWDWDWWWWLDW,WDWWWWWWWWWWD
-Lecce,Cagliari,1-1,/match/lecce/cagliari/2003,2003,29,serie_b,20,38,1,1,1,4,11,13,4,33,25,DWWWLWDDDDDDWDWDLDWDWWWDDWLW,8,6,0,17,8,11,9,9,10,30,36,WWDLWWWWDDDLWWWWWWWWDWDLLDDD,2,4,8,12,23,WWWDDWWDDDWDWW,WLWDDWWWWWWLDD
-Messina,Ancona,1-1,/match/messina/ancona/2003,2003,29,serie_b,20,38,1,1,1,10,9,10,9,40,39,WWWDLWWDWWWLDLDWWDWDDDDDWWWW,7,5,1,26,19,3,13,9,6,41,30,DDWDDDDDLWWWWDWWLLWLWLWWWDWW,4,5,5,15,15,WDLWWWDWDDDWW,DDDLWWDWLLLWDW
-Vicenza ,Hellas Verona,4-1,/match/vicenza-calcio/hellas-verona-fc/2003,2003,29,serie_b,20,38,0,4,1,5,11,10,7,40,34,WLWDDDWLDWDLWDDDWLWLWWWDDWWW,7,6,1,23,15,13,8,11,9,33,29,DWLDWWDWWWDWDDLLWDDLLDWWLDDW,2,7,5,15,17,WDDLDDWDWWWWDW,DDWWWDDLWDLDWD
-Salernitana,Venezia,1-1,/match/salernitana-calcio-1919/venezia/2003,2003,29,serie_b,20,38,1,1,1,20,4,8,16,20,46,LWLWWWWWLWLDWWLDDLWWDWWDDDDW,4,4,6,15,19,15,9,10,9,29,32,WDLDDWLDWWLLLLDWDLWWLWWLDDDD,5,4,5,13,16,LLWWLLWLDLDWDD,WLWDWLLDDWLWLD
-Cosenza Calcio,Ternana Calcio,0-3,/match/fortitudo-cosenza/ternana-calcio/2003,2003,29,serie_b,20,38,2,0,3,19,7,5,16,21,36,LWWLWLWWDWDWLLDWDDWWLWWLWWWW,5,4,5,14,16,8,11,9,8,32,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDW,4,5,5,14,15,LWLWDDLDDWLWLW,WLDLWDWLWWDDLD
-Siena,Napoli,2-0,/match/siena/napoli/2003,2003,29,serie_b,20,38,0,2,0,2,12,13,3,31,20,DWWWDWDDDLWDWDDLWWWDWDWDLDDW,9,5,0,17,6,17,6,12,10,29,37,LDDLLDDLDLWDWDWWDDWWWWWDWDDW,2,5,7,16,26,DWDWDWWDWWWWDW,LDLDDWWWWDWWWD
-Triestina ,Sampdoria,2-2,/match/us-triestina-calcio/sampdoria/2003,2003,29,serie_b,20,38,1,2,2,6,12,7,9,37,29,DWLWWDWDWDWWWLWDWDWLWWWWDWLL,10,1,3,26,13,1,13,11,4,40,22,WDWDWDWDDDLWWDLWWDWDWWWLWDWD,2,8,3,11,11,WLWWWWWWWWLWDL,DDDDDLWWDDWLD
-SSC Bari,Vicenza ,1-1,/match/as-bari/vicenza-calcio/2003,2003,30,serie_b,20,38,1,1,1,18,5,15,9,25,29,DDWDLLDDDLDDDDWWLWDLLWWDWWDDD,3,7,4,9,11,5,12,10,7,44,35,WLWDDDWLDWDLWDDDWLWLWWWDDWWWW,4,4,6,17,19,DWLDDLDDLDLWWD,LWDWWLDDLLWDWW
-Livorno,Messina,4-1,/match/livorno/messina/2003,2003,30,serie_b,20,38,0,4,1,8,10,10,9,33,28,WWLWWWLLWWWWWDDWLWWDDDWDDDDDW,7,6,1,22,12,11,9,11,9,41,40,WWWDLWWDWWWLDLDWWDWDDDDDWWWWD,2,5,8,14,20,WWLWWWDWWDDDDD,WWWDWLLDWWDDDWW
-Napoli,Genoa,2-2,/match/napoli/genoa/2003,2003,30,serie_b,20,38,1,2,2,17,6,12,11,29,39,LDDLLDDLDLWDWDWWDDWWWWWDWDDWW,4,7,3,13,11,15,8,9,12,37,37,WWWDWWLDDWWWDDDWWDWLLWWLDDWWW,2,3,10,15,23,DLDLLDDDWWWDDW,WWWLWWDDWWLWDWW
-Cagliari,Cosenza Calcio,3-0,/match/cagliari/fortitudo-cosenza/2003,2003,30,serie_b,20,38,0,3,0,12,9,10,10,31,37,WWDLWWWWDDDLWWWWWWWWDWDLLDDDD,7,5,2,18,13,19,7,5,17,21,39,LWWLWLWWDWDWLLDWDDWWLWWLWWWWL,2,1,11,7,20,WDWWWDLWWWDDLD,WLWWWWLWDWWWWW
-Hellas Verona,Ascoli,1-0,/match/hellas-verona-fc/ascoli/2003,2003,30,serie_b,20,38,0,1,0,13,8,11,10,34,33,DWLDWWDWWWDWDDLLWDDLLDWWLDDWW,6,4,4,18,12,10,10,7,12,37,38,LLWDDWWWWDDWWDWWDWWWWWWLWDWWW,1,3,10,12,26,WLWDWWDLDLWLDW,LWDWWDWWDWWWWW
-Ancona,Triestina ,3-0,/match/ancona/us-triestina-calcio/2003,2003,30,serie_b,20,38,0,3,0,4,13,10,6,42,31,DDWDDDDDLWWWWDWWLLWLWLWWWDWWD,9,4,1,26,15,6,12,8,9,39,31,DWLWWDWDWDWWWLWDWDWLWWWWDWLLD,2,6,6,11,16,DWDDDWWWLWWWWW,DWDDDWLDDWWWWL
-Catania,Siena,1-1,/match/catania/siena/2003,2003,30,serie_b,20,38,1,1,1,16,8,6,15,30,43,LWWDWDWWWDWWWLWWWWWWWWDWWDDLW,8,4,3,20,15,1,13,13,3,33,20,DWWWDWDDDLWDWDDLWWWDWDWDLDDWW,3,8,3,14,14,LWDWDWLWWWWDWDL,WWDDLDDLWDDDLD
-Sampdoria,Salernitana,1-0,/match/sampdoria/salernitana-calcio-1919/2003,2003,30,serie_b,20,38,0,1,0,2,13,12,4,42,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDD,11,3,1,29,11,20,4,9,16,21,47,LWLWWWWWLWLDWWLDDLWWDWWDDDDWD,0,4,10,5,27,WWWWDWDLWWWWWWD,WWWWWDWDWWWDDW
-Venezia,Palermo FC,0-2,/match/venezia/palermo/2003,2003,30,serie_b,20,38,2,0,2,14,9,11,9,30,33,WDLDDWLDWWLLLLDWDLWWLWWLDDDDD,4,6,4,16,16,9,10,10,9,31,32,LDWWWWWLDLLWWDDWDDWWWLWWDDWDD,3,4,7,16,22,DDDLWLLWLWWDDD,LWWWLLWDWDWWDD
-Ternana Calcio,Lecce,0-0,/match/ternana-calcio/lecce/2003,2003,30,serie_b,20,38,1,0,0,7,12,9,8,35,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWL,7,4,3,18,12,3,11,14,4,34,26,DWWWLWDDDDDDWDWDLDWDWWWDDWLWD,3,7,4,16,17,WLWDWDLWDLWWDW,DWLDDDDDLWWWDL
-Lecce,Napoli,1-1,/match/lecce/napoli/2003,2003,31,serie_b,20,38,1,1,1,4,11,15,4,34,26,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDD,8,7,0,18,9,17,6,13,11,31,41,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWD,2,5,8,16,28,WWWDDWWDDDWDWWD,LDLDDWWWWDWWWDW
-Ascoli,Livorno,2-1,/match/ascoli/livorno/2003,2003,31,serie_b,20,38,0,2,1,12,10,7,13,37,39,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWW,9,4,2,25,12,7,11,10,9,37,29,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWW,3,4,8,11,16,LDWWDWDWWWWLDWW,WLWWLWWDLWDWDDW
-Palermo FC,Catania,3-3,/match/palermo/catania/2003,2003,31,serie_b,20,38,1,3,3,9,11,10,9,33,32,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDL,7,6,2,15,10,15,8,7,15,31,44,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWD,0,2,12,10,28,DWWDLWDDWWLWDWD,WDWWWWWWWWWWDW
-Messina,Cagliari,2-2,/match/messina/cagliari/2003,2003,31,serie_b,20,38,1,2,2,11,9,11,10,42,44,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDW,7,6,1,27,20,10,10,10,10,34,37,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDW,2,5,8,13,24,WDLWWWDWDDDWWD,WLWDDWWWWWWLDDD
-Salernitana,SSC Bari,1-2,/match/salernitana-calcio-1919/as-bari/2003,2003,31,serie_b,20,38,2,1,2,20,4,9,17,21,48,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDW,4,5,6,16,20,18,5,16,9,26,30,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDD,2,8,5,16,18,LLWWLLWLDLDWDDD,DDLDDDWWWLWDWDD
-Cosenza Calcio,Ancona,0-0,/match/fortitudo-cosenza/ancona/2003,2003,31,serie_b,20,38,1,0,0,19,7,5,18,21,42,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLW,5,4,6,14,19,3,14,10,6,45,31,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDW,4,6,5,16,16,LWLWDDLDDWLWLWL,DDDLWWDWLLLWDWD
-Triestina ,Hellas Verona,3-1,/match/us-triestina-calcio/hellas-verona-fc/2003,2003,31,serie_b,20,38,0,3,1,6,12,8,10,39,34,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDW,10,2,3,28,15,13,9,11,10,35,33,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWW,2,7,6,16,21,WLWWWWWWWWLWDLD,DDWWWDDLWDLDWDW
-Vicenza ,Venezia,2-1,/match/vicenza-calcio/venezia/2003,2003,31,serie_b,20,38,0,2,1,5,12,11,7,45,36,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWD,8,6,1,27,16,16,9,11,10,30,35,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDL,5,5,5,14,17,WDDLDDWDWWWWDWW,WLWDWLLDDWLWLDD
-Siena,Ternana Calcio,0-1,/match/siena/ternana-calcio/2003,2003,31,serie_b,20,38,2,0,1,2,13,14,3,34,21,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWD,10,5,0,19,6,8,12,10,8,35,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLD,5,5,5,17,15,DWDWDWWDWWWWDWW,WLDLWDWLWWDDLDL
-Genoa,Sampdoria,0-2,/match/genoa/sampdoria/2003,2003,31,serie_b,20,38,2,0,2,14,8,10,12,39,39,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWD,6,6,2,22,14,1,14,12,4,43,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDW,2,9,3,13,13,WDWDDWDWDLWLDW,DDDDDLWWDDWLDD
-Cagliari,Triestina ,2-0,/match/cagliari/us-triestina-calcio/2003,2003,32,serie_b,20,38,0,2,0,11,10,11,10,36,39,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWD,8,5,2,21,13,6,13,8,10,42,35,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWW,2,6,7,11,19,WDWWWDLWWWDDLDW,DWDDDWLDDWWWWLW
-Napoli,Salernitana,2-1,/match/napoli/salernitana-calcio-1919/2003,2003,32,serie_b,20,38,0,2,1,17,6,14,11,32,42,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDD,4,8,3,15,13,20,4,9,18,22,50,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWL,0,4,11,5,28,DLDLLDDDWWWDDWD,WWWWWDWDWWWDDWW
-Ternana Calcio,Palermo FC,0-0,/match/ternana-calcio/palermo/2003,2003,32,serie_b,20,38,1,0,0,7,13,10,8,36,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDL,7,5,3,18,12,9,11,11,9,36,35,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLD,4,4,7,18,22,WLWDWDLWDLWWDWD,LWWWLLWDWDWWDDL
-SSC Bari,Messina,1-0,/match/as-bari/messina/2003,2003,32,serie_b,20,38,0,1,0,18,6,16,9,28,31,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDL,3,8,4,10,12,12,9,12,10,44,46,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWD,2,5,9,15,24,DWLDDLDDLDLWWDD,WWWDWLLDWWDDDWWW
-Livorno,Lecce,1-2,/match/livorno/lecce/2003,2003,32,serie_b,20,38,2,1,2,8,11,10,10,38,31,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWW,8,6,1,26,13,4,11,16,4,35,27,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDD,3,8,4,16,17,WWLWWWDWWDDDDDW,DWLDDDDDLWWWDLD
-Hellas Verona,Genoa,2-2,/match/hellas-verona-fc/genoa/2003,2003,32,serie_b,20,38,1,2,2,13,9,11,11,36,36,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWW,7,4,4,19,12,15,8,10,13,39,41,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDL,2,4,10,17,25,WLWDWWDLDLWLDWW,WWWLWWDDWWLWDWWD
-Venezia,Cosenza Calcio,0-2,/match/venezia/fortitudo-cosenza/2003,2003,32,serie_b,20,38,2,0,2,16,9,11,11,31,37,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLW,4,6,5,16,18,19,7,6,18,21,42,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWD,2,1,12,7,23,DDDLWLLWLWWDDDL,WLWWWWLWDWWWWWW
-Catania,Vicenza ,2-1,/match/catania/vicenza-calcio/2003,2003,32,serie_b,20,38,0,2,1,14,8,8,15,34,47,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDD,8,5,3,21,16,5,13,11,7,47,37,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDW,4,5,6,18,20,LWDWDWLWWWWDWDLD,LWDWWLDDLLWDWWD
-Ancona,Ascoli,1-1,/match/ancona/ascoli/2003,2003,32,serie_b,20,38,1,1,1,3,14,11,6,45,31,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWD,10,4,1,29,15,10,11,7,13,39,40,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWW,1,3,11,12,27,DWDDDWWWLWWWWWW,LWDWWDWWDWWWWWW
-Sampdoria,Siena,0-0,/match/sampdoria/siena/2003,2003,32,serie_b,20,38,1,0,0,1,15,12,4,45,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWL,12,3,1,30,11,2,13,14,4,34,22,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDL,3,9,3,15,15,WWWWDWDLWWWWWWDW,WWDDLDDLWDDDLDD
-Palermo FC,Napoli,2-1,/match/palermo/napoli/2003,2003,33,serie_b,20,38,0,2,1,9,11,12,9,36,35,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDD,7,7,2,18,13,15,7,14,11,34,43,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDW,2,6,8,17,29,DWWDLWDDWWLWDWDD,LDLDDWWWWDWWWDWD
-Vicenza ,Sampdoria,1-2,/match/vicenza-calcio/sampdoria/2003,2003,33,serie_b,20,38,2,1,2,5,13,11,8,48,39,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWW,9,6,1,29,17,1,15,13,4,45,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLD,3,9,3,15,13,WDDLDDWDWWWWDWWW,DDDDDLWWDDWLDDL
-Cosenza Calcio,Catania,3-1,/match/fortitudo-cosenza/catania/2003,2003,33,serie_b,20,38,0,3,1,19,8,6,18,23,42,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDL,5,5,6,14,19,14,9,8,15,36,48,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDW,0,3,12,13,31,LWLWDDLDDWLWLWLD,WDWWWWWWWWWWDWD
-Salernitana,Cagliari,1-2,/match/salernitana-calcio-1919/cagliari/2003,2003,33,serie_b,20,38,2,1,2,20,4,9,19,23,52,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLW,4,5,7,17,22,8,11,11,10,38,39,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDW,2,6,8,15,26,LLWWLLWLDLDWDDDL,WLWDDWWWWWWLDDDD
-Ancona,SSC Bari,1-2,/match/ancona/as-bari/2003,2003,33,serie_b,20,38,2,1,2,3,14,12,6,46,32,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDD,10,5,1,30,16,16,7,16,9,29,31,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLW,3,8,5,18,19,DWDDDWWWLWWWWWWD,DDLDDDWWWLWDWDDL
-Genoa,Ascoli,1-2,/match/genoa/ascoli/2003,2003,33,serie_b,20,38,2,1,2,17,8,11,13,41,43,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLD,6,6,3,22,16,10,11,8,13,40,41,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWD,1,4,11,13,28,WDWDDWDWDLWLDWL,LWDWWDWWDWWWWWWD
-Lecce,Hellas Verona,1-1,/match/lecce/hellas-verona-fc/2003,2003,33,serie_b,20,38,1,1,1,4,12,16,4,37,28,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDL,8,8,0,19,10,13,9,12,11,38,38,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWD,2,7,7,17,24,WWWDDWWDDDWDWWDD,DDWWWDDLWDLDWDWW
-Messina,Venezia,1-1,/match/messina/venezia/2003,2003,33,serie_b,20,38,1,1,1,12,9,12,11,44,47,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDW,7,7,1,29,22,18,9,11,12,31,39,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWL,5,5,6,15,19,WDLWWWDWDDDWWDD,WLWDWLLDDWLWLDDW
-Triestina ,Ternana Calcio,4-3,/match/us-triestina-calcio/ternana-calcio/2003,2003,33,serie_b,20,38,0,4,3,6,13,8,11,42,37,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWW,11,2,3,31,16,7,13,11,8,36,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLD,6,5,5,18,15,WLWWWWWWWWLWDLDW,WLDLWDWLWWDDLDLL
-Siena,Livorno,2-0,/match/siena/livorno/2003,2003,33,serie_b,20,38,0,2,0,2,13,15,4,34,22,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLD,10,5,1,19,7,11,11,10,11,39,33,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWL,3,4,9,12,18,DWDWDWWDWWWWDWWL,WLWWLWWDLWDWDDWW
-SSC Bari,Catania,2-1,/match/as-bari/catania/2003,2003,34,serie_b,20,38,0,2,1,15,8,16,9,31,32,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWL,4,8,4,11,12,14,9,8,16,37,51,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWW,0,3,13,14,34,DWLDDLDDLDLWWDDW,WDWWWWWWWWWWDWDW
-Venezia,Siena,1-3,/match/venezia/siena/2003,2003,34,serie_b,20,38,2,1,3,18,9,12,12,32,40,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLD,4,6,6,16,20,2,14,15,4,36,22,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDW,3,10,3,15,15,DDDLWLLWLWWDDDLL,WWDDLDDLWDDDLDDD
-Hellas Verona,Salernitana,2-0,/match/hellas-verona-fc/salernitana-calcio-1919/2003,2003,34,serie_b,20,38,0,2,0,13,9,13,11,39,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDD,7,5,4,21,14,20,4,9,20,24,54,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWL,0,4,12,6,30,WLWDWWDLDLWLDWWD,WWWWWDWDWWWDDWWW
-Genoa,Palermo FC,1-1,/match/genoa/palermo/2003,2003,34,serie_b,20,38,1,1,1,17,8,11,14,42,45,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDL,6,6,4,23,18,7,12,12,9,38,36,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDW,4,5,7,18,22,WDWDDWDWDLWLDWLL,LWWWLLWDWDWWDDLD
-Ascoli,Lecce,1-0,/match/ascoli/lecce/2003,2003,34,serie_b,20,38,0,1,0,10,12,8,13,42,42,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDL,10,4,2,27,13,3,12,17,4,38,29,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLD,4,8,4,18,18,LDWWDWDWWWWLDWWW,DWLDDDDDLWWWDLDL
-Messina,Cosenza Calcio,1-0,/match/messina/fortitudo-cosenza/2003,2003,34,serie_b,20,38,0,1,0,12,9,13,11,45,48,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWD,7,8,1,30,23,19,9,6,18,26,43,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLW,3,1,12,9,23,WDLWWWDWDDDWWDDD,WLWWWWLWDWWWWWWL
-Cagliari,Ancona,2-1,/match/cagliari/ancona/2003,2003,34,serie_b,20,38,0,2,1,8,12,11,10,40,40,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWL,9,5,2,23,13,4,14,12,7,47,34,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDL,4,7,5,16,16,WDWWWDLWWWDDLDWW,DDDLWWDWLLLWDWDD
-Livorno,Vicenza ,2-2,/match/livorno/vicenza-calcio/2003,2003,34,serie_b,20,38,1,2,2,11,11,10,12,39,35,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLW,8,6,2,27,15,6,13,11,9,49,41,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWL,4,5,7,19,22,WWLWWWDWWDDDDDWL,LWDWWLDDLLWDWWDW
-Napoli,Triestina ,2-1,/match/napoli/us-triestina-calcio/2003,2003,34,serie_b,20,38,0,2,1,16,7,14,12,35,45,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWW,5,8,3,17,14,5,14,8,11,46,40,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWW,2,6,8,11,21,DLDLLDDDWWWDDWDW,DWDDDWLDDWWWWLWW
-Ternana Calcio,Sampdoria,1-1,/match/ternana-calcio/sampdoria/2003,2003,34,serie_b,20,38,1,1,1,9,13,11,9,39,31,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDW,7,6,3,18,12,1,16,13,4,47,25,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDL,4,9,3,17,14,WLWDWDLWDLWWDWDD,DDDDDLWWDDWLDDLL
-Catania,Venezia,2-0,/match/catania/venezia/2003,2003,35,serie_b,20,38,0,2,0,16,9,8,17,38,53,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWW,9,5,3,23,17,18,9,12,13,33,43,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDL,5,6,6,16,20,LWDWDWLWWWWDWDLDW,WLWDWLLDDWLWLDDWD
-SSC Bari,Ternana Calcio,2-1,/match/as-bari/ternana-calcio/2003,2003,35,serie_b,20,38,0,2,1,14,9,16,9,33,33,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLW,5,8,4,13,13,10,13,12,9,40,32,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWD,6,5,6,21,19,DWLDDLDDLDLWWDDWW,WLDLWDWLWWDDLDLLW
-Triestina ,Salernitana,2-0,/match/us-triestina-calcio/salernitana-calcio-1919/2003,2003,35,serie_b,20,38,0,2,0,5,14,8,12,47,42,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWW,12,2,3,35,19,20,4,9,21,24,56,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLW,0,4,13,6,32,WLWWWWWWWWLWDLDWW,WWWWWDWDWWWDDWWWW
-Palermo FC,Messina,2-1,/match/palermo/messina/2003,2003,35,serie_b,20,38,0,2,1,8,12,13,9,39,37,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWD,8,7,2,20,14,11,10,13,11,46,48,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDW,2,5,10,15,25,DWWDLWDDWWLWDWDDW,WWWDWLLDWWDDDWWWW
-Cosenza Calcio,Livorno,0-2,/match/fortitudo-cosenza/livorno/2003,2003,35,serie_b,20,38,2,0,2,19,9,6,19,26,44,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWW,6,5,6,17,20,12,11,11,12,41,37,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWD,3,4,10,12,20,LWLWDDLDDWLWLWLDW,WLWWLWWDLWDWDDWWW
-Vicenza ,Lecce,1-1,/match/vicenza-calcio/lecce/2003,2003,35,serie_b,20,38,1,1,1,6,13,12,9,51,43,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLD,9,6,2,30,19,3,12,17,5,38,30,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDW,4,8,5,18,19,WDDLDDWDWWWWDWWWL,DWLDDDDDLWWWDLDLW
-Ancona,Genoa,1-0,/match/ancona/genoa/2003,2003,35,serie_b,20,38,0,1,0,4,14,12,8,48,36,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLW,10,5,2,31,18,17,8,12,14,43,46,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLD,2,5,10,19,27,DWDDDWWWLWWWWWWDL,WWWLWWDDWWLWDWWDD
-Napoli,Ascoli,2-0,/match/napoli/ascoli/2003,2003,35,serie_b,20,38,0,2,0,15,8,14,12,37,46,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWW,6,8,3,19,15,9,13,8,13,43,42,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLW,2,4,11,15,29,DLDLLDDDWWWDDWDWW,LWDWWDWWDWWWWWWDL
-Siena,Hellas Verona,0-0,/match/siena/hellas-verona-fc/2003,2003,35,serie_b,20,38,1,0,0,2,15,15,4,39,23,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWL,11,5,1,21,7,13,10,13,11,41,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDW,2,8,7,18,25,DWDWDWWDWWWWDWWLW,DDWWWDDLWDLDWDWWD
-Sampdoria,Cagliari,3-1,/match/sampdoria/cagliari/2003,2003,35,serie_b,20,38,0,3,1,1,16,14,4,48,26,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLD,12,4,1,30,11,7,13,11,10,42,41,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLW,3,6,8,17,27,WWWWDWDLWWWWWWDWD,WLWDDWWWWWWLDDDDL
-Cagliari,Vicenza ,3-0,/match/cagliari/vicenza-calcio/2003,2003,36,serie_b,20,38,0,3,0,8,13,11,11,43,44,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLWW,10,5,2,25,14,6,13,13,9,52,44,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLDD,4,6,7,21,24,WDWWWDLWWWDDLDWWW,LWDWWLDDLLWDWWDWD
-Messina,Triestina ,2-2,/match/messina/us-triestina-calcio/2003,2003,36,serie_b,20,38,1,2,2,12,10,13,12,47,50,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDWW,8,8,1,31,23,5,15,8,12,49,42,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWWW,2,6,9,12,23,WDLWWWDWDDDWWDDDW,DWDDDWLDDWWWWLWWW
-Genoa,Siena,1-3,/match/genoa/siena/2003,2003,36,serie_b,20,38,2,1,3,17,8,12,15,43,47,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLDW,6,7,4,24,19,2,15,16,4,39,23,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWLD,4,10,3,18,16,WDWDDWDWDLWLDWLLD,WWDDLDDLWDDDLDDDL
-Venezia,Napoli,2-1,/match/venezia/napoli/2003,2003,36,serie_b,20,38,0,2,1,18,9,12,14,33,45,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDLW,4,6,7,17,23,15,9,14,12,39,46,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWWW,2,6,9,18,31,DDDLWLLWLWWDDDLLL,LDLDDWWWWDWWWDWDW
-Ternana Calcio,Catania,3-1,/match/ternana-calcio/catania/2003,2003,36,serie_b,20,38,0,3,1,10,13,12,10,41,34,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWDW,7,7,3,19,13,16,10,8,17,40,53,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWWW,0,3,14,15,36,WLWDWDLWDLWWDWDDD,WDWWWWWWWWWWDWDWW
-Lecce,Ancona,2-1,/match/lecce/ancona/2003,2003,36,serie_b,20,38,0,2,1,4,12,18,5,39,31,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDWD,8,9,0,20,11,3,15,12,8,49,36,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLWW,4,7,6,17,18,WWWDDWWDDDWDWWDDD,DDDLWWDWLLLWDWDDW
-Hellas Verona,Sampdoria,0-0,/match/hellas-verona-fc/sampdoria/2003,2003,36,serie_b,20,38,1,0,0,14,10,14,11,41,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDWD,8,5,4,23,14,1,17,14,4,51,27,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLDW,4,10,3,18,15,WLWDWWDLDLWLDWWDW,DDDDDLWWDDWLDDLLD
-Ascoli,Palermo FC,1-2,/match/ascoli/palermo/2003,2003,36,serie_b,20,38,2,1,2,9,13,8,14,43,44,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLWW,11,4,2,28,13,7,13,13,9,41,38,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWDW,4,6,7,19,23,LDWWDWDWWWWLDWWWW,LWWWLLWDWDWWDDLDD
-Salernitana,Cosenza Calcio,1-2,/match/salernitana-calcio-1919/fortitudo-cosenza/2003,2003,36,serie_b,20,38,2,1,2,20,4,9,22,24,58,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLWW,4,5,8,18,24,19,9,6,20,26,46,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWWL,3,1,13,9,24,LLWWLLWLDLDWDDDLL,WLWWWWLWDWWWWWWLW
-Livorno,SSC Bari,2-2,/match/livorno/as-bari/2003,2003,36,serie_b,20,38,1,2,2,11,12,11,12,43,37,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWDL,8,7,2,29,17,13,10,16,9,35,34,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLWW,4,8,5,20,20,WWLWWWDWWDDDDDWLD,DDLDDDWWWLWDWDDLL
-Palermo FC,Hellas Verona,2-0,/match/palermo/hellas-verona-fc/2003,2003,37,serie_b,20,38,0,2,0,6,14,13,9,43,39,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWDWL,9,7,2,22,15,14,10,15,11,41,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDWDD,2,9,7,18,25,DWWDLWDDWWLWDWDDWW,DDWWWDDLWDLDWDWWDD
-Ancona,Venezia,2-1,/match/ancona/venezia/2003,2003,37,serie_b,20,38,0,2,1,4,15,12,9,50,38,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLWWW,11,5,2,32,18,17,10,12,14,35,46,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDLWW,5,6,7,16,22,DWDDDWWWLWWWWWWDLW,WLWDWLLDDWLWLDDWDW
-Vicenza ,Salernitana,2-2,/match/vicenza-calcio/salernitana-calcio-1919/2003,2003,37,serie_b,20,38,1,2,2,8,13,13,10,52,47,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLDDW,9,7,2,31,20,20,4,9,23,25,60,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLWWL,0,4,14,6,34,WDDLDDWDWWWWDWWWLD,WWWWWDWDWWWDDWWWWW
-Sampdoria,Messina,1-1,/match/sampdoria/messina/2003,2003,37,serie_b,20,38,1,1,1,1,17,15,4,51,27,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLDWD,13,4,1,33,12,12,10,14,12,49,52,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDWWD,2,5,11,16,27,WWWWDWDLWWWWWWDWDW,WWWDWLLDWWDDDWWWWW
-Catania,Livorno,3-2,/match/catania/livorno/2003,2003,37,serie_b,20,38,0,3,2,16,10,8,18,41,56,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWWWW,10,5,3,25,17,10,12,12,12,45,39,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWDLD,4,4,10,14,20,LWDWDWLWWWWDWDLDWW,WLWWLWWDLWDWDDWWWL
-SSC Bari,Cagliari,0-0,/match/as-bari/cagliari/2003,2003,37,serie_b,20,38,1,0,0,13,10,17,9,37,36,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLWWD,6,8,4,15,14,7,14,11,11,46,44,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLWWW,3,6,9,18,30,DWLDDLDDLDLWWDDWWW,WLWDDWWWWWWLDDDDLW
-Napoli,Ternana Calcio,1-0,/match/napoli/ternana-calcio/2003,2003,37,serie_b,20,38,0,1,0,15,9,14,13,40,48,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWWWW,7,8,3,21,15,9,14,12,10,44,35,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWDWW,6,5,7,22,21,DLDLLDDDWWWDDWDWWW,WLDLWDWLWWDDLDLLWW
-Siena,Ascoli,4-0,/match/siena/ascoli/2003,2003,37,serie_b,20,38,0,4,0,2,16,16,4,42,24,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWLDL,11,6,1,21,7,11,13,8,15,44,46,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLWWL,2,4,12,15,31,DWDWDWWDWWWWDWWLWD,LWDWWDWWDWWWWWWDLW
-Cosenza Calcio,Lecce,1-2,/match/fortitudo-cosenza/lecce/2003,2003,37,serie_b,20,38,2,1,2,19,10,6,20,28,47,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWWLL,6,5,7,17,22,3,13,18,5,41,32,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDWDW,4,9,5,19,20,LWLWDDLDDWLWLWLDWL,DWLDDDDDLWWWDLDLWD
-Triestina ,Genoa,1-0,/match/us-triestina-calcio/genoa/2003,2003,37,serie_b,20,38,0,1,0,5,15,9,12,51,44,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWWWD,13,2,3,37,19,18,8,12,16,44,50,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLDWL,2,5,11,19,28,WLWWWWWWWWLWDLDWWW,WWWLWWDDWWLWDWWDDW
-Lecce,Palermo FC,3-0,/match/lecce/palermo/2003,2003,38,serie_b,20,38,0,3,0,3,14,18,5,43,33,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDWDWL,9,9,0,22,12,6,15,13,9,45,39,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWDWLW,5,6,7,21,24,WWWDDWWDDDWDWWDDDW,LWWWLLWDWDWWDDLDDL
-Hellas Verona,SSC Bari,1-1,/match/hellas-verona-fc/as-bari/2003,2003,38,serie_b,20,38,1,1,1,15,10,15,12,41,41,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDWDDW,8,6,4,23,14,13,10,18,9,37,36,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLWWDD,4,9,5,22,22,WLWDWWDLDLWLDWWDWD,DDLDDDWWWLWDWDDLLD
-Livorno,Ancona,1-1,/match/livorno/ancona/2003,2003,38,serie_b,20,38,1,1,1,12,12,12,13,47,42,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWDLDW,8,8,2,31,19,4,16,12,9,52,39,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLWWWW,4,7,7,18,20,WWLWWWDWWDDDDDWLDD,DDDLWWDWLLLWDWDDWW
-Ternana Calcio,Vicenza ,1-1,/match/ternana-calcio/vicenza-calcio/2003,2003,38,serie_b,20,38,1,1,1,9,14,12,11,44,36,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWDWWW,8,7,3,22,14,8,13,14,10,54,49,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLDDWD,4,6,8,21,27,WLWDWDLWDLWWDWDDDW,LWDWWLDDLLWDWWDWDW
-Ascoli,Triestina ,2-2,/match/ascoli/us-triestina-calcio/2003,2003,38,serie_b,20,38,1,2,2,11,13,8,16,44,50,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLWWLW,11,4,3,29,15,5,16,9,12,52,44,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWWWDW,2,7,9,14,25,LDWWDWDWWWWLDWWWWL,DWDDDWLDDWWWWLWWWD
-Salernitana,Siena,1-1,/match/salernitana-calcio-1919/siena/2003,2003,38,serie_b,20,38,1,1,1,20,4,10,23,27,62,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLWWLD,4,5,9,19,26,2,17,16,4,46,24,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWLDLW,5,10,3,21,17,LLWWLLWLDLDWDDDLLL,WWDDLDDLWDDDLDDDLL
-Venezia,Sampdoria,3-1,/match/venezia/sampdoria/2003,2003,38,serie_b,20,38,0,3,1,17,10,12,15,36,48,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDLWWW,5,6,7,19,24,1,17,16,4,52,28,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLDWDD,4,11,3,18,15,DDDLWLLWLWWDDDLLLW,DDDDDLWWDDWLDDLLDD
-Messina,Napoli,1-1,/match/messina/napoli/2003,2003,38,serie_b,20,38,1,1,1,10,10,15,12,50,53,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDWWDD,8,9,1,33,25,14,10,14,13,41,48,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWWWWW,2,6,10,19,33,WDLWWWDWDDDWWDDDWD,LDLDDWWWWDWWWDWDWW
-Genoa,Cosenza Calcio,3-0,/match/genoa/fortitudo-cosenza/2003,2003,38,serie_b,20,38,0,3,0,18,8,12,17,44,51,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLDWLW,6,7,5,25,22,19,10,6,21,29,49,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWWLLL,4,1,13,11,25,WDWDDWDWDLWLDWLLDL,WLWWWWLWDWWWWWWLWL
-Cagliari,Catania,1-2,/match/cagliari/catania/2003,2003,38,serie_b,20,38,2,1,2,7,14,12,11,46,44,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLWWWD,11,5,2,28,14,16,11,8,18,44,58,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWWWWW,0,3,15,16,39,WDWWWDLWWWDDLDWWWW,WDWWWWWWWWWWDWDWWW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Cosenza Calcio,Palermo FC,1-2,/match/fortitudo-cosenza/palermo/2003,2003,1,serie_b,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Catania,Napoli,0-2,/match/catania/napoli/2003,2003,1,serie_b,20,38,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Venezia,1-0,/match/cagliari/venezia/2003,2003,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SSC Bari,Triestina ,0-0,/match/as-bari/us-triestina-calcio/2003,2003,1,serie_b,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ancona,Hellas Verona,1-1,/match/ancona/hellas-verona-fc/2003,2003,1,serie_b,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Vicenza ,Genoa,1-0,/match/vicenza-calcio/genoa/2003,2003,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ternana Calcio,Messina,1-0,/match/ternana-calcio/messina/2003,2003,1,serie_b,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Siena,Lecce,0-0,/match/siena/lecce/2003,2003,1,serie_b,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Salernitana,Ascoli,1-2,/match/salernitana-calcio-1919/ascoli/2003,2003,1,serie_b,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Livorno,2-0,/match/sampdoria/livorno/2003,2003,1,serie_b,20,38,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Sampdoria,0-0,/match/palermo/sampdoria/2003,2003,2,serie_b,20,38,1,0,0,8,2,1,0,0,2,1,L,0,0,0,0,0,2,4,1,0,0,2,0,W,0,0,0,0,0,,
+Napoli,Ancona,1-1,/match/napoli/ancona/2003,2003,2,serie_b,20,38,1,1,1,10,2,1,0,0,2,0,L,0,0,0,0,0,5,2,0,1,0,1,1,D,0,0,0,0,0,,
+Messina,Salernitana,2-0,/match/messina/salernitana-calcio-1919/2003,2003,2,serie_b,20,38,0,2,0,20,0,0,0,1,0,1,W,0,0,0,0,0,16,0,0,0,1,1,2,L,0,0,0,0,0,,
+Livorno,Cagliari,1-0,/match/livorno/cagliari/2003,2003,2,serie_b,20,38,0,1,0,19,0,0,0,1,0,2,W,0,0,0,0,0,1,4,1,0,0,1,0,W,0,0,0,0,0,,
+Lecce,Catania,1-0,/match/lecce/catania/2003,2003,2,serie_b,20,38,0,1,0,13,1,0,1,0,0,0,D,0,0,0,0,0,15,0,0,0,1,0,2,L,0,0,0,0,0,,
+Genoa,Ternana Calcio,1-0,/match/genoa/ternana-calcio/2003,2003,2,serie_b,20,38,0,1,0,14,0,0,0,1,0,1,W,0,0,0,0,0,3,4,1,0,0,1,0,W,0,0,0,0,0,,
+Ascoli,Vicenza ,1-4,/match/ascoli/vicenza-calcio/2003,2003,2,serie_b,20,38,2,1,4,9,2,1,0,0,2,1,L,0,0,0,0,0,4,4,1,0,0,1,0,W,0,0,0,0,0,,
+Hellas Verona,Cosenza Calcio,1-0,/match/hellas-verona-fc/fortitudo-cosenza/2003,2003,2,serie_b,20,38,0,1,0,12,1,0,1,0,1,1,D,0,0,0,0,0,17,0,0,0,1,1,2,L,0,0,0,0,0,,
+Venezia,SSC Bari,1-1,/match/venezia/as-bari/2003,2003,2,serie_b,20,38,1,1,1,18,0,0,0,1,0,1,W,0,0,0,0,0,6,2,0,1,0,0,0,D,0,0,0,0,0,,
+Triestina ,Siena,2-1,/match/us-triestina-calcio/siena/2003,2003,2,serie_b,20,38,0,2,1,11,1,0,1,0,0,0,D,0,0,0,0,0,7,2,0,1,0,0,0,D,0,0,0,0,0,,
+Sampdoria,Lecce,4-2,/match/sampdoria/lecce/2003,2003,3,serie_b,20,38,0,4,2,5,5,1,1,0,2,0,WD,1,0,0,2,0,3,5,1,1,0,1,0,DW,0,1,0,0,0,W,D
+Salernitana,Ternana Calcio,0-3,/match/salernitana-calcio-1919/ternana-calcio/2003,2003,3,serie_b,20,38,2,0,3,19,0,0,0,2,1,4,LW,0,0,1,1,2,11,4,1,0,1,1,1,WW,0,0,1,0,1,L,W
+Cosenza Calcio,Vicenza ,2-1,/match/fortitudo-cosenza/vicenza-calcio/2003,2003,3,serie_b,20,38,0,2,1,20,0,0,0,2,1,3,LW,0,0,1,1,2,1,6,2,0,0,5,1,WL,1,0,0,4,1,L,L
+Catania,Genoa,3-2,/match/catania/genoa/2003,2003,3,serie_b,20,38,0,3,2,18,0,0,0,2,0,3,LW,0,0,1,0,2,8,4,1,0,1,1,1,WW,0,0,1,0,1,L,W
+Cagliari,Napoli,2-2,/match/cagliari/napoli/2003,2003,3,serie_b,20,38,1,2,2,9,4,1,0,1,1,1,WW,1,0,0,1,0,6,4,1,1,0,3,1,LD,1,0,0,2,0,W,L
+SSC Bari,Ascoli,2-0,/match/as-bari/ascoli/2003,2003,3,serie_b,20,38,0,2,0,13,3,0,2,0,1,1,DD,0,1,0,0,0,15,2,1,0,1,3,5,LL,1,0,0,2,1,D,L
+Ancona,Palermo FC,4-2,/match/ancona/palermo/2003,2003,3,serie_b,20,38,0,4,2,14,3,0,2,0,2,2,DD,0,1,0,1,1,10,4,1,1,0,2,1,LD,1,0,0,2,1,D,L
+Hellas Verona,Livorno,0-1,/match/hellas-verona-fc/livorno/2003,2003,3,serie_b,20,38,2,0,1,4,5,1,1,0,2,1,DW,1,0,0,1,0,7,4,1,0,1,1,2,WW,0,0,1,0,2,W,W
+Triestina ,Venezia,1-2,/match/us-triestina-calcio/venezia/2003,2003,3,serie_b,20,38,2,1,2,2,5,1,1,0,2,1,DW,1,0,0,2,1,17,2,0,1,1,1,2,WD,0,0,1,0,1,W,W
+Siena,Messina,1-0,/match/siena/messina/2003,2003,3,serie_b,20,38,0,1,0,16,2,0,1,1,1,2,DW,0,1,0,0,0,12,4,1,0,1,2,1,WW,0,0,1,0,1,D,W
+Napoli,Cosenza Calcio,1-2,/match/napoli/fortitudo-cosenza/2003,2003,4,serie_b,20,38,2,1,2,10,5,1,2,0,5,3,LDD,0,1,0,1,1,18,4,1,0,2,3,4,LWW,0,0,1,0,1,D,W
+Livorno,Triestina ,2-0,/match/livorno/us-triestina-calcio/2003,2003,4,serie_b,20,38,0,2,0,8,6,2,0,1,2,2,WWL,1,0,0,1,0,9,5,1,1,1,3,3,DWL,0,1,0,0,0,W,D
+Lecce,Salernitana,2-1,/match/lecce/salernitana-calcio-1919/2003,2003,4,serie_b,20,38,0,2,1,12,5,1,1,1,3,4,DWW,1,0,0,1,0,20,0,0,0,3,1,7,LWL,0,0,1,0,2,W,W
+Genoa,SSC Bari,0-0,/match/genoa/as-bari/2003,2003,4,serie_b,20,38,1,0,0,13,4,1,0,2,3,4,WWW,1,0,0,1,0,3,7,1,2,0,3,1,DDW,0,1,0,1,1,W,D
+Ascoli,Sampdoria,0-0,/match/ascoli/sampdoria/2003,2003,4,serie_b,20,38,1,0,0,19,2,1,0,2,3,7,LLW,0,0,1,1,4,1,9,2,1,0,6,2,WDW,0,1,0,0,0,L,D
+Vicenza ,Ancona,1-1,/match/vicenza-calcio/ancona/2003,2003,4,serie_b,20,38,1,1,1,4,6,2,0,1,6,3,WLW,1,0,0,1,0,2,7,1,2,0,6,4,DDW,0,1,0,1,1,W,D
+Venezia,Hellas Verona,1-1,/match/venezia/hellas-verona-fc/2003,2003,4,serie_b,20,38,1,1,1,16,4,1,1,1,3,3,WDL,0,1,0,1,1,11,5,1,1,1,2,2,DWL,0,1,0,1,1,D,D
+Ternana Calcio,Cagliari,0-1,/match/ternana-calcio/cagliari/2003,2003,4,serie_b,20,38,2,0,1,7,6,2,0,1,4,1,WWL,1,0,0,1,0,5,6,1,1,1,3,3,WWD,0,0,1,0,1,W,W
+Palermo FC,Siena,1-0,/match/palermo/siena/2003,2003,4,serie_b,20,38,0,1,0,14,4,1,1,1,4,5,LDW,0,1,0,0,0,6,6,1,1,1,2,2,DWW,0,0,1,1,2,D,W
+Messina,Catania,3-3,/match/messina/catania/2003,2003,4,serie_b,20,38,1,3,3,15,4,1,0,2,2,2,WWW,1,0,0,2,0,17,4,1,0,2,3,5,LWW,0,0,1,0,1,W,W
+Triestina ,Palermo FC,2-1,/match/us-triestina-calcio/palermo/2003,2003,5,serie_b,20,38,0,2,1,17,5,1,1,2,3,5,DWLW,1,0,1,3,3,7,8,2,1,1,5,5,LDWW,1,0,1,4,5,WL,LW
+Siena,Vicenza ,0-0,/match/siena/vicenza-calcio/2003,2003,5,serie_b,20,38,1,0,0,15,6,1,1,2,2,3,DWWW,1,1,0,1,0,5,8,2,1,1,7,4,WLWD,1,0,1,5,3,DW,LW
+Sampdoria,Cosenza Calcio,2-1,/match/sampdoria/fortitudo-cosenza/2003,2003,5,serie_b,20,38,0,2,1,1,10,2,2,0,6,2,WDWD,2,0,0,6,2,10,6,2,0,2,5,5,LWWL,1,0,1,2,2,WW,WL
+Salernitana,Livorno,2-1,/match/salernitana-calcio-1919/livorno/2003,2003,5,serie_b,20,38,0,2,1,20,0,0,0,4,2,9,LWLW,0,0,2,1,5,2,10,3,0,1,4,2,WWLW,1,0,1,1,2,LL,WL
+Messina,Lecce,0-2,/match/messina/lecce/2003,2003,5,serie_b,20,38,2,0,2,12,6,1,1,2,5,5,WWWD,1,1,0,5,3,3,9,2,1,1,5,5,DWWW,0,1,1,2,4,WD,DW
+Cagliari,Genoa,1-0,/match/cagliari/genoa/2003,2003,5,serie_b,20,38,0,1,0,6,8,2,1,1,4,3,WWDL,1,1,0,3,2,9,6,1,1,2,3,4,WWWD,0,0,2,2,4,WD,WW
+SSC Bari,Napoli,0-1,/match/as-bari/napoli/2003,2003,5,serie_b,20,38,2,0,1,4,8,1,3,0,3,1,DDWD,1,1,0,2,0,16,5,1,2,1,6,5,LDDL,1,1,0,4,2,DW,LD
+Ancona,Ternana Calcio,1-1,/match/ancona/ternana-calcio/2003,2003,5,serie_b,20,38,1,1,1,8,8,1,3,0,7,5,DDWD,1,1,0,5,3,14,6,2,0,2,4,2,WWLL,1,0,1,3,1,DW,WL
+Hellas Verona,Catania,2-0,/match/hellas-verona-fc/catania/2003,2003,5,serie_b,20,38,0,2,0,13,6,1,2,1,3,3,DWLD,1,0,1,1,1,18,5,1,1,2,6,8,LWWD,0,1,1,3,4,WL,WD
+Venezia,Ascoli,1-1,/match/venezia/ascoli/2003,2003,5,serie_b,20,38,1,1,1,11,6,1,2,1,4,4,WDLD,0,2,0,2,2,19,4,1,1,2,3,7,LLWD,1,0,1,2,3,DD,LW
+Ternana Calcio,Hellas Verona,1-0,/match/ternana-calcio/hellas-verona-fc/2003,2003,6,serie_b,20,38,0,1,0,13,7,2,1,2,5,3,WWLLD,1,0,1,1,1,6,10,2,2,1,5,3,DWLDW,0,2,0,2,2,WL,DD
+Siena,Cagliari,1-0,/match/siena/cagliari/2003,2003,6,serie_b,20,38,0,1,0,9,8,1,2,2,2,3,DWWWD,1,2,0,1,0,2,12,3,1,1,5,3,WWDLW,1,0,1,1,1,DWD,WL
+Palermo FC,Livorno,1-0,/match/palermo/livorno/2003,2003,6,serie_b,20,38,0,1,0,11,8,2,1,2,6,7,LDWWW,1,1,0,1,0,4,10,3,0,2,5,4,WWLWW,1,0,2,2,4,DW,WLW
+Napoli,Sampdoria,1-1,/match/napoli/sampdoria/2003,2003,6,serie_b,20,38,1,1,1,14,7,2,2,1,7,5,LDDLL,0,1,1,2,3,1,14,3,2,0,8,3,WDWDW,0,2,0,0,0,DL,DD
+Lecce,Venezia,3-1,/match/lecce/venezia/2003,2003,6,serie_b,20,38,0,3,1,3,11,3,1,1,7,5,DWWWL,2,0,0,3,1,10,8,1,3,1,5,5,WDLDD,1,0,1,2,2,WW,WL
+Genoa,Salernitana,3-0,/match/genoa/salernitana-calcio-1919/2003,2003,6,serie_b,20,38,0,3,0,17,6,1,1,3,3,5,WWWDW,1,1,0,1,0,20,4,1,0,4,4,10,LWLWW,0,0,2,1,4,WD,WW
+Cosenza Calcio,SSC Bari,0-2,/match/fortitudo-cosenza/as-bari/2003,2003,6,serie_b,20,38,2,0,2,15,6,2,0,3,6,7,LWWLW,1,0,1,3,3,12,8,1,3,1,3,2,DDWDL,0,2,0,1,1,LW,DD
+Catania,Ancona,0-0,/match/catania/ancona/2003,2003,6,serie_b,20,38,1,0,0,18,5,1,1,3,6,10,LWWDW,1,0,1,3,4,5,10,1,4,0,8,6,DDWDD,0,2,0,2,2,LW,DD
+Ascoli,Messina,1-0,/match/ascoli/messina/2003,2003,6,serie_b,20,38,0,1,0,19,5,1,2,2,4,8,LLWDD,0,1,1,1,4,16,6,1,1,3,5,7,WWWDL,0,0,2,0,2,LD,WW
+Vicenza ,Triestina ,1-1,/match/vicenza-calcio/us-triestina-calcio/2003,2003,6,serie_b,20,38,1,1,1,8,9,2,2,1,7,4,WLWDD,1,1,0,2,1,7,9,2,1,2,5,6,DWLWW,0,1,1,0,2,WD,DW
+Venezia,Genoa,0-1,/match/venezia/genoa/2003,2003,7,serie_b,20,38,2,0,1,16,8,1,3,2,6,8,WDLDDW,0,3,0,3,3,13,10,2,1,3,6,5,WWWDWW,0,0,3,2,5,DDD,WWW
+Triestina ,Cosenza Calcio,1-0,/match/us-triestina-calcio/fortitudo-cosenza/2003,2003,7,serie_b,20,38,0,1,0,10,10,2,2,2,6,7,DWLWWD,2,0,1,5,4,18,6,2,0,4,6,9,LWWLWL,1,0,2,3,4,WLW,WLW
+Sampdoria,Catania,1-0,/match/sampdoria/catania/2003,2003,7,serie_b,20,38,0,1,0,1,15,3,3,0,9,4,WDWDWD,3,0,0,8,3,17,7,1,2,3,6,10,LWWDWD,0,1,2,3,6,WWW,WDW
+Salernitana,Palermo FC,3-1,/match/salernitana-calcio-1919/palermo/2003,2003,7,serie_b,20,38,0,3,1,20,4,1,0,5,4,13,LWLWWW,1,0,2,3,6,5,12,3,1,2,7,7,LDWWWW,1,0,2,5,7,LLW,LWW
+Messina,Vicenza ,3-1,/match/messina/vicenza-calcio/2003,2003,7,serie_b,20,38,0,3,1,19,6,1,1,4,5,8,WWWDLW,1,1,1,5,5,6,11,2,3,1,8,5,WLWDDD,1,1,1,5,3,WDL,LWD
+Livorno,Ternana Calcio,1-2,/match/livorno/ternana-calcio/2003,2003,7,serie_b,20,38,2,1,2,11,10,3,0,3,5,5,WWLWWW,2,0,0,3,0,8,11,3,1,2,6,3,WWLLDW,1,1,1,4,2,WW,WLD
+Cagliari,Ascoli,1-0,/match/cagliari/ascoli/2003,2003,7,serie_b,20,38,0,1,0,4,12,3,1,2,5,4,WWDLWW,2,1,0,4,2,15,9,2,2,2,5,8,LLWDDW,1,1,1,3,4,WDW,LWD
+SSC Bari,Lecce,1-1,/match/as-bari/lecce/2003,2003,7,serie_b,20,38,1,1,1,12,10,2,3,1,5,2,DDWDLL,1,1,1,2,1,2,15,4,1,1,10,6,DWWWLW,1,1,1,4,4,DWL,DWL
+Ancona,Siena,1-1,/match/ancona/siena/2003,2003,7,serie_b,20,38,1,1,1,7,11,1,5,0,8,6,DDWDDD,1,2,0,6,4,3,12,2,2,2,3,3,DWWWDW,0,0,2,1,3,DWD,WW
+Hellas Verona,Napoli,2-2,/match/hellas-verona-fc/napoli/2003,2003,7,serie_b,20,38,1,2,2,9,10,2,2,2,5,4,DWLDWW,2,0,1,3,1,14,9,2,3,1,8,6,LDDLLD,2,1,0,5,2,WLW,LDL
+Vicenza ,Palermo FC,1-3,/match/vicenza-calcio/palermo/2003,2003,8,serie_b,20,38,2,1,3,12,11,2,3,2,9,8,WLWDDDW,1,2,0,3,2,8,12,3,1,3,8,10,LDWWWWW,1,0,3,6,10,WDD,LWWW
+Ternana Calcio,Venezia,1-1,/match/ternana-calcio/venezia/2003,2003,8,serie_b,20,38,1,1,1,7,13,4,1,2,8,4,WWLLDWL,2,0,1,2,1,17,8,1,3,3,6,9,WDLDDWL,1,0,2,3,5,WLW,WLW
+Siena,SSC Bari,1-1,/match/siena/as-bari/2003,2003,8,serie_b,20,38,1,1,1,5,13,2,3,2,4,4,DWWWDWD,2,2,0,2,0,10,12,2,4,1,6,3,DDWDLLD,1,2,0,3,1,DWDW,DDL
+Napoli,Livorno,0-1,/match/napoli/livorno/2003,2003,8,serie_b,20,38,2,0,1,15,10,2,4,1,10,8,LDDLLDD,0,2,1,3,4,14,10,3,0,4,6,7,WWLWWWL,1,0,3,2,5,DLD,WLWW
+Lecce,Triestina ,1-1,/match/lecce/us-triestina-calcio/2003,2003,8,serie_b,20,38,1,1,1,3,16,4,2,1,11,7,DWWWLWD,3,0,0,6,2,4,14,3,2,2,7,7,DWLWWDW,0,2,1,1,3,WWW,DWD
+Genoa,Messina,1-1,/match/genoa/messina/2003,2003,8,serie_b,20,38,1,1,1,11,12,3,1,3,7,5,WWWDWWL,2,1,0,4,0,13,10,2,1,4,8,9,WWWDLWW,0,0,3,0,3,WDW,WWW
+Cosenza Calcio,Ascoli,1-0,/match/fortitudo-cosenza/ascoli/2003,2003,8,serie_b,20,38,0,1,0,20,6,2,0,5,6,10,LWWLWLW,1,0,2,3,5,16,9,2,2,3,5,9,LLWDDWW,1,1,2,3,5,LWL,LWDW
+Catania,Salernitana,2-1,/match/catania/salernitana-calcio-1919/2003,2003,8,serie_b,20,38,0,2,1,19,7,1,2,4,6,11,LWWDWDW,1,1,1,3,4,18,8,2,0,5,7,14,LWLWWWW,0,0,3,1,7,LWD,WWW
+Cagliari,Hellas Verona,2-1,/match/cagliari/hellas-verona-fc/2003,2003,8,serie_b,20,38,0,2,1,2,16,4,1,2,6,4,WWDLWWW,3,1,0,5,2,9,12,2,3,2,7,6,DWLDWWD,0,2,1,2,3,WDWW,DDW
+Ancona,Sampdoria,1-1,/match/ancona/sampdoria/2003,2003,8,serie_b,20,38,1,1,1,6,13,1,6,0,9,7,DDWDDDD,1,3,0,7,5,1,19,4,3,0,10,4,WDWDWDW,0,3,0,1,1,DWDD,DDD
+Triestina ,Catania,4-0,/match/us-triestina-calcio/catania/2003,2003,9,serie_b,20,38,0,4,0,4,15,3,3,2,8,8,DWLWWDWD,3,0,1,6,4,15,11,2,2,4,8,12,LWWDWDWW,0,1,3,3,7,WLWW,WDWW
+Palermo FC,Cagliari,1-1,/match/palermo/cagliari/2003,2003,9,serie_b,20,38,1,1,1,9,14,4,1,3,11,11,LDWWWWWL,2,1,0,2,0,2,20,5,1,2,8,5,WWDLWWWW,1,0,2,1,2,DWW,WLW
+Messina,Hellas Verona,2-1,/match/messina/hellas-verona-fc/2003,2003,9,serie_b,20,38,0,2,1,14,11,2,2,4,9,10,WWWDLWWD,2,1,1,8,6,11,12,2,3,3,8,8,DWLDWWDW,0,2,2,3,5,WDLW,DDWW
+Livorno,Venezia,2-1,/match/livorno/venezia/2003,2003,9,serie_b,20,38,0,2,1,12,12,4,0,4,7,7,WWLWWWLL,2,0,1,4,2,19,9,1,4,3,7,10,WDLDDWLD,1,1,2,4,6,WWL,WLWD
+Genoa,Lecce,0-0,/match/genoa/lecce/2003,2003,9,serie_b,20,38,1,0,0,8,14,3,2,3,8,6,WWWDWWLD,2,2,0,5,1,3,18,4,3,1,12,8,DWWWLWDD,1,2,1,5,5,WDWD,DWLD
+Cosenza Calcio,Siena,0-0,/match/fortitudo-cosenza/siena/2003,2003,9,serie_b,20,38,1,0,0,17,10,3,0,5,7,10,LWWLWLWW,2,0,2,4,5,5,15,2,4,2,5,5,DWWWDWDD,0,1,2,2,4,LWLW,WWD
+SSC Bari,Sampdoria,1-1,/match/as-bari/sampdoria/2003,2003,9,serie_b,20,38,1,1,1,10,13,2,5,1,7,4,DDWDLLDD,1,2,1,3,2,1,20,4,4,0,11,5,WDWDWDWD,0,4,0,2,2,DWLD,DDDD
+Ascoli,Ternana Calcio,2-0,/match/ascoli/ternana-calcio/2003,2003,9,serie_b,20,38,0,2,0,18,9,2,2,4,5,10,LLWDDWWW,1,1,1,2,4,7,15,4,2,2,9,5,WWLLDWLD,2,1,1,6,3,LDW,WLDL
+Vicenza ,Napoli,3-3,/match/vicenza-calcio/napoli/2003,2003,9,serie_b,20,38,1,3,3,13,11,2,3,3,10,11,WLWDDDWL,1,2,1,4,5,16,10,2,4,2,10,9,LDDLLDDL,2,2,0,7,4,WDDL,LDLD
+Salernitana,Ancona,0-2,/match/salernitana-calcio-1919/ancona/2003,2003,9,serie_b,20,38,2,0,2,20,8,2,0,6,8,16,LWLWWWWW,2,0,2,6,7,6,15,1,7,0,10,8,DDWDDDDD,0,3,0,2,2,LLWW,DDD
+Livorno,Genoa,2-0,/match/livorno/genoa/2003,2003,10,serie_b,20,38,0,2,0,9,16,5,0,4,9,8,WWLWWWLLW,3,0,1,6,3,7,16,3,3,3,8,6,WWWDWWLDD,1,0,3,3,5,WWLW,WWWL
+Cagliari,Lecce,1-1,/match/cagliari/lecce/2003,2003,10,serie_b,20,38,1,1,1,2,21,5,2,2,9,6,WWDLWWWWD,4,1,0,7,3,3,19,4,4,1,12,8,DWWWLWDDD,1,3,1,5,5,WDWWW,DWLDD
+Ancona,Messina,2-1,/match/ancona/messina/2003,2003,10,serie_b,20,38,0,2,1,5,17,2,7,0,12,8,DDWDDDDDL,1,4,0,8,6,12,15,3,2,4,11,11,WWWDLWWDW,0,1,3,1,4,DWDDD,WWWD
+Hellas Verona,Vicenza ,4-2,/match/hellas-verona-fc/vicenza-calcio/2003,2003,10,serie_b,20,38,0,4,2,16,12,2,3,4,9,10,DWLDWWDWW,2,1,1,5,3,13,13,2,4,3,13,14,WLWDDDWLD,1,1,2,6,6,WLWD,LWDW
+Ternana Calcio,Cosenza Calcio,1-0,/match/ternana-calcio/fortitudo-cosenza/2003,2003,10,serie_b,20,38,0,1,0,10,15,4,2,3,9,7,WWLLDWLDW,2,1,1,3,2,15,12,3,1,5,7,10,LWWLWLWWD,1,0,3,3,5,WLWD,WLWW
+Sampdoria,Triestina ,1-1,/match/sampdoria/us-triestina-calcio/2003,2003,10,serie_b,20,38,1,1,1,1,21,4,5,0,12,6,WDWDWDWDD,4,0,0,9,3,4,19,4,3,2,12,8,DWLWWDWDW,0,3,1,2,4,WWWW,DWDD
+Napoli,Siena,1-2,/match/napoli/siena/2003,2003,10,serie_b,20,38,2,1,2,17,11,2,5,2,13,12,LDDLLDDLD,0,2,2,3,5,6,16,2,5,2,5,5,DWWWDWDDD,0,2,2,2,4,DLDL,WWDD
+SSC Bari,Palermo FC,0-1,/match/as-bari/palermo/2003,2003,10,serie_b,20,38,2,0,1,11,15,2,6,1,8,5,DDWDLLDDD,1,3,1,4,3,8,16,4,2,3,12,12,LDWWWWWLD,2,0,3,9,11,DWLDD,LWWWL
+Venezia,Salernitana,1-0,/match/venezia/salernitana-calcio-1919/2003,2003,10,serie_b,20,38,0,1,0,19,9,1,4,4,8,12,WDLDDWLDW,0,3,1,3,4,20,8,2,0,7,8,18,LWLWWWWWL,0,0,4,2,9,DDDL,WWWW
+Catania,Ascoli,1-1,/match/catania/ascoli/2003,2003,10,serie_b,20,38,1,1,1,18,11,2,2,5,8,16,LWWDWDWWW,2,1,1,5,5,14,13,3,2,4,7,10,LLWDDWWWW,1,1,3,3,6,LWDW,LWDWW
+Vicenza ,SSC Bari,1-1,/match/vicenza-calcio/as-bari/2003,2003,11,serie_b,20,38,1,1,1,15,13,2,4,4,15,18,WLWDDDWLDW,1,3,1,7,8,12,15,2,6,2,8,6,DDWDLLDDDL,1,3,0,4,2,WDDLD,DDLD
+Ascoli,Hellas Verona,0-0,/match/ascoli/hellas-verona-fc/2003,2003,11,serie_b,20,38,1,0,0,14,14,3,3,4,8,11,LLWDDWWWWD,2,1,1,4,4,10,16,3,3,4,13,12,DWLDWWDWWW,0,2,3,4,7,LDWW,DDWWW
+Triestina ,Ancona,3-2,/match/us-triestina-calcio/ancona/2003,2003,11,serie_b,20,38,0,3,2,5,20,4,4,2,13,9,DWLWWDWDWD,4,0,1,10,4,3,21,3,7,0,14,9,DDWDDDDDLW,1,3,0,4,2,WLWWW,DDDL
+Salernitana,Sampdoria,0-1,/match/salernitana-calcio-1919/sampdoria/2003,2003,11,serie_b,20,38,2,0,1,20,8,2,0,8,8,19,LWLWWWWWLW,2,0,3,6,9,1,23,4,6,0,13,7,WDWDWDWDDD,0,5,0,3,3,LLWWL,DDDDD
+Palermo FC,Venezia,0-2,/match/palermo/venezia/2003,2003,11,serie_b,20,38,2,0,2,9,18,5,2,3,13,12,LDWWWWWLDL,2,2,0,3,1,17,13,2,4,4,9,12,WDLDDWLDWW,1,1,3,5,8,DWWD,WLWDW
+Messina,Livorno,2-1,/match/messina/livorno/2003,2003,11,serie_b,20,38,0,2,1,13,15,3,2,5,12,13,WWWDLWWDWW,3,1,1,10,7,6,20,6,0,4,11,8,WWLWWWLLWW,2,0,3,3,5,WDLWW,WLWWL
+Lecce,Ternana Calcio,0-0,/match/lecce/ternana-calcio/2003,2003,11,serie_b,20,38,1,0,0,4,20,4,5,1,13,9,DWWWLWDDDD,3,1,0,7,3,7,19,5,2,3,10,7,WWLLDWLDWW,2,1,2,6,5,WWWD,WLDLW
+Genoa,Napoli,3-1,/match/genoa/napoli/2003,2003,11,serie_b,20,38,0,3,1,11,16,3,3,4,8,8,WWWDWWLDDW,2,3,0,5,1,19,11,2,5,3,14,14,LDDLLDDLDL,2,3,0,10,7,WDWDD,LDLDD
+Cosenza Calcio,Cagliari,1-1,/match/fortitudo-cosenza/cagliari/2003,2003,11,serie_b,20,38,1,1,1,18,12,3,1,6,7,11,LWWLWLWWDW,2,1,2,4,5,2,23,5,3,2,10,7,WWDLWWWWDD,1,1,2,2,3,LWLWD,WLWD
+Siena,Catania,4-3,/match/siena/catania/2003,2003,11,serie_b,20,38,0,4,3,8,18,3,5,2,7,6,DWWWDWDDDL,2,3,0,3,1,16,13,2,3,5,9,17,LWWDWDWWWD,0,1,4,3,11,DWDWD,WDWWW
+Sampdoria,Genoa,2-1,/match/sampdoria/genoa/2003,2003,12,serie_b,20,38,0,2,1,1,25,5,6,0,14,7,WDWDWDWDDDL,4,1,0,10,4,7,20,4,3,4,11,9,WWWDWWLDDWW,1,0,4,3,7,WWWWD,WWWLW
+Cagliari,Messina,0-2,/match/cagliari/messina/2003,2003,12,serie_b,20,38,2,0,2,3,24,5,4,2,11,8,WWDLWWWWDDD,4,2,0,8,4,10,19,4,2,5,14,14,WWWDLWWDWWW,0,1,4,2,6,WDWWWD,WWWDW
+SSC Bari,Salernitana,1-1,/match/as-bari/salernitana-calcio-1919/2003,2003,12,serie_b,20,38,1,1,1,13,16,2,7,2,9,7,DDWDLLDDDLD,1,3,2,4,4,20,8,2,0,9,8,20,LWLWWWWWLWL,0,0,5,2,10,DWLDDL,WWWWW
+Ancona,Cosenza Calcio,1-0,/match/ancona/fortitudo-cosenza/2003,2003,12,serie_b,20,38,0,1,0,6,21,3,7,1,16,12,DDWDDDDDLWW,2,4,0,10,7,17,14,3,2,6,8,12,LWWLWLWWDWD,1,0,4,3,6,DWDDDW,WLWWW
+Hellas Verona,Triestina ,1-0,/match/hellas-verona-fc/us-triestina-calcio/2003,2003,12,serie_b,20,38,0,1,0,12,17,3,4,4,13,12,DWLDWWDWWWD,3,1,1,9,5,2,24,5,4,2,16,11,DWLWWDWDWDW,0,4,1,3,5,WLWDW,DWDDD
+Venezia,Vicenza ,1-2,/match/venezia/vicenza-calcio/2003,2003,12,serie_b,20,38,2,1,2,16,15,3,4,4,11,12,WDLDDWLDWWL,1,3,1,4,4,15,15,2,5,4,16,19,WLWDDDWLDWD,1,1,3,8,10,DDDLW,LWDWW
+Ternana Calcio,Siena,1-1,/match/ternana-calcio/siena/2003,2003,12,serie_b,20,38,1,1,1,8,20,5,3,3,10,7,WWLLDWLDWWD,3,1,1,4,2,4,22,4,5,2,11,9,DWWWDWDDDLW,1,2,2,4,5,WLWDW,WWDDL
+Napoli,Lecce,1-1,/match/napoli/lecce/2003,2003,12,serie_b,20,38,1,1,1,19,11,2,5,4,15,17,LDDLLDDLDLW,0,2,3,4,7,5,22,4,6,1,13,9,DWWWLWDDDDD,1,4,1,6,6,DLDLL,DWLDDD
+Livorno,Ascoli,2-0,/match/livorno/ascoli/2003,2003,12,serie_b,20,38,0,2,0,9,20,6,0,5,12,10,WWLWWWLLWWW,4,0,1,8,3,14,16,3,4,4,8,11,LLWDDWWWWDD,1,2,3,4,7,WWLWW,LWDWWD
+Catania,Palermo FC,2-0,/match/catania/palermo/2003,2003,12,serie_b,20,38,0,2,0,18,13,2,3,6,12,21,LWWDWDWWWDW,2,2,1,6,6,11,18,5,2,4,13,14,LDWWWWWLDLL,3,0,3,10,11,LWDWD,LWWWLL
+Ascoli,Ancona,1-0,/match/ascoli/ancona/2003,2003,13,serie_b,20,38,0,1,0,16,16,3,4,5,8,13,LLWDDWWWWDDW,2,2,1,4,4,2,25,4,7,1,17,12,DDWDDDDDLWWW,1,3,1,6,5,LDWWD,DDDLW
+Cosenza Calcio,Venezia,1-2,/match/fortitudo-cosenza/venezia/2003,2003,13,serie_b,20,38,2,1,2,18,14,3,2,7,8,13,LWWLWLWWDWDW,2,2,2,5,6,17,15,3,4,5,12,14,WDLDDWLDWWLL,2,1,3,7,8,LWLWDD,WLWDWL
+Vicenza ,Catania,2-1,/match/vicenza-calcio/catania/2003,2003,13,serie_b,20,38,0,2,1,14,17,3,5,4,18,20,WLWDDDWLDWDL,1,4,1,8,9,15,17,3,3,6,14,21,LWWDWDWWWDWW,0,1,5,6,15,WDDLDD,WDWWWW
+Triestina ,Cagliari,3-0,/match/us-triestina-calcio/cagliari/2003,2003,13,serie_b,20,38,0,3,0,5,24,5,4,3,16,12,DWLWWDWDWDWW,5,0,1,13,6,3,24,5,4,3,11,10,WWDLWWWWDDDL,1,2,2,3,4,WLWWWW,WLWDD
+Siena,Sampdoria,1-0,/match/siena/sampdoria/2003,2003,13,serie_b,20,38,0,1,0,6,23,4,6,2,12,10,DWWWDWDDDLWD,3,3,0,7,4,1,29,6,6,0,16,8,WDWDWDWDDDLW,1,5,0,4,3,DWDWDW,DDDDDL
+Salernitana,Napoli,2-0,/match/salernitana-calcio-1919/napoli/2003,2003,13,serie_b,20,38,0,2,0,20,9,2,1,9,9,21,LWLWWWWWLWLD,2,0,4,6,10,19,13,2,6,4,16,18,LDDLLDDLDLWD,2,3,1,11,10,LLWWLL,LDLDDW
+Palermo FC,Ternana Calcio,2-1,/match/palermo/ternana-calcio/2003,2003,13,serie_b,20,38,0,2,1,13,18,5,2,5,13,16,LDWWWWWLDLLW,2,2,1,3,3,8,22,5,4,3,11,8,WWLLDWLDWWDD,2,2,2,6,5,DWWDL,WLDLWD
+Messina,SSC Bari,2-2,/match/messina/as-bari/2003,2003,13,serie_b,20,38,1,2,2,9,21,5,2,5,16,14,WWWDLWWDWWWL,4,1,1,12,8,12,18,2,8,2,10,8,DDWDLLDDDLDD,1,4,0,5,3,WDLWWW,DDLDD
+Lecce,Livorno,1-0,/match/lecce/livorno/2003,2003,13,serie_b,20,38,0,1,0,7,23,4,7,1,14,10,DWWWLWDDDDDD,3,2,0,7,3,4,24,7,0,5,14,10,WWLWWWLLWWWW,2,0,4,4,7,WWWDD,WLWWLW
+Genoa,Hellas Verona,2-2,/match/genoa/hellas-verona-fc/2003,2003,13,serie_b,20,38,1,2,2,11,20,4,3,5,12,11,WWWDWWLDDWWW,3,3,0,8,2,10,21,4,4,4,14,12,DWLDWWDWWWDW,0,3,3,4,7,WDWDDW,DDWWWD
+Napoli,Palermo FC,0-0,/match/napoli/palermo/2003,2003,14,serie_b,20,38,1,0,0,19,13,2,6,5,16,20,LDDLLDDLDLWDW,0,3,3,5,8,9,22,6,2,5,15,17,LDWWWWWLDLLWW,3,0,4,10,13,DLDLLD,LWWWLLW
+Cagliari,Salernitana,2-0,/match/cagliari/salernitana-calcio-1919/2003,2003,14,serie_b,20,38,0,2,0,6,24,5,4,4,11,13,WWDLWWWWDDDLW,4,2,1,8,6,20,13,3,1,9,11,21,LWLWWWWWLWLDW,0,1,5,3,11,WDWWWDL,WWWWWD
+SSC Bari,Ancona,0-0,/match/as-bari/ancona/2003,2003,14,serie_b,20,38,1,0,0,15,19,2,9,2,12,10,DDWDLLDDDLDDD,1,4,2,5,5,5,25,4,7,2,17,13,DDWDDDDDLWWWW,1,3,2,6,6,DWLDDLD,DDDLWW
+Ascoli,Genoa,1-1,/match/ascoli/genoa/2003,2003,14,serie_b,20,38,1,1,1,14,20,4,4,5,9,13,LLWDDWWWWDDWW,3,2,1,5,4,10,22,4,4,5,14,13,WWWDWWLDDWWWD,1,0,5,4,9,LDWWDW,WWWLWW
+Hellas Verona,Lecce,1-1,/match/hellas-verona-fc/lecce/2003,2003,14,serie_b,20,38,1,1,1,11,22,4,5,4,16,14,DWLDWWDWWWDWD,4,1,1,10,5,4,27,5,7,1,15,10,DWWWLWDDDDDDW,1,5,1,7,7,WLWDWW,DWLDDDD
+Venezia,Messina,0-2,/match/venezia/messina/2003,2003,14,serie_b,20,38,2,0,2,17,17,4,4,5,14,15,WDLDDWLDWWLLL,1,3,2,5,6,8,23,5,3,5,18,16,WWWDLWWDWWWLD,1,1,4,4,6,DDDLWL,WWWDWL
+Ternana Calcio,Triestina ,1-2,/match/ternana-calcio/us-triestina-calcio/2003,2003,14,serie_b,20,38,2,1,2,12,22,5,4,4,12,10,WWLLDWLDWWDDW,3,2,1,5,3,2,28,6,4,3,19,12,DWLWWDWDWDWWW,0,4,2,3,6,WLWDWD,DWDDDW
+Sampdoria,Vicenza ,0-0,/match/sampdoria/vicenza-calcio/2003,2003,14,serie_b,20,38,1,0,0,1,29,6,6,1,16,9,WDWDWDWDDDLWW,5,1,0,12,5,13,21,4,5,4,20,21,WLWDDDWLDWDLW,2,1,3,10,11,WWWWDW,LWDWWL
+Catania,Cosenza Calcio,0-2,/match/catania/fortitudo-cosenza/2003,2003,14,serie_b,20,38,2,0,2,16,17,3,3,7,15,23,LWWDWDWWWDWWW,3,2,1,8,6,18,14,3,2,8,9,15,LWWLWLWWDWDWL,1,0,5,3,7,LWDWDW,WLWWWW
+Livorno,Siena,1-1,/match/livorno/siena/2003,2003,14,serie_b,20,38,1,1,1,7,24,7,0,6,14,11,WWLWWWLLWWWWW,5,0,1,10,3,3,27,5,6,2,13,10,DWWWDWDDDLWDW,1,3,2,5,6,WWLWWW,WWDDLD
+Cosenza Calcio,Messina,3-3,/match/fortitudo-cosenza/messina/2003,2003,15,serie_b,20,38,1,3,3,18,16,4,2,8,11,15,LWWLWLWWDWDWLL,2,2,3,6,8,8,25,6,3,5,20,16,WWWDLWWDWWWLDL,2,1,4,6,6,LWLWDDL,WWWDWLL
+Lecce,Ascoli,2-1,/match/lecce/ascoli/2003,2003,15,serie_b,20,38,0,2,1,4,28,5,8,1,16,11,DWWWLWDDDDDDWD,4,2,0,8,3,14,22,4,5,5,10,14,LLWDDWWWWDDWWD,1,2,4,4,9,WWWDDW,LWDWWDW
+Catania,SSC Bari,1-0,/match/catania/as-bari/2003,2003,15,serie_b,20,38,0,1,0,16,17,3,3,8,15,25,LWWDWDWWWDWWWL,3,2,2,8,8,15,21,2,10,2,12,10,DDWDLLDDDLDDDD,1,5,0,7,5,LWDWDWL,DDLDDD
+Ancona,Cagliari,2-1,/match/ancona/cagliari/2003,2003,15,serie_b,20,38,0,2,1,6,26,4,8,2,17,13,DDWDDDDDLWWWWD,3,4,0,11,7,5,28,6,4,4,13,13,WWDLWWWWDDDLWW,1,2,3,3,7,DWDDDWW,WLWDDW
+Vicenza ,Livorno,0-0,/match/vicenza-calcio/livorno/2003,2003,15,serie_b,20,38,1,0,0,13,22,4,6,4,20,21,WLWDDDWLDWDLWD,2,4,1,10,10,7,26,7,1,6,15,12,WWLWWWLLWWWWWD,2,0,5,4,8,WDDLDDW,WLWWLWW
+Siena,Venezia,0-0,/match/siena/venezia/2003,2003,15,serie_b,20,38,1,0,0,3,28,5,7,2,14,11,DWWWDWDDDLWDWD,4,3,0,8,4,17,17,4,4,6,14,17,WDLDDWLDWWLLLL,3,1,3,9,9,DWDWDWW,WLWDWLL
+Sampdoria,Ternana Calcio,1-2,/match/sampdoria/ternana-calcio/2003,2003,15,serie_b,20,38,2,1,2,1,31,6,7,1,16,9,WDWDWDWDDDLWWD,5,2,0,12,5,12,22,5,4,5,13,12,WWLLDWLDWWDDWL,2,2,3,7,7,WWWWDWD,WLDLWDW
+Salernitana,Hellas Verona,1-3,/match/salernitana-calcio-1919/hellas-verona-fc/2003,2003,15,serie_b,20,38,2,1,3,20,13,3,1,10,11,23,LWLWWWWWLWLDWW,3,0,4,8,10,9,24,4,6,4,17,15,DWLDWWDWWWDWDD,0,4,3,6,9,LLWWLLW,DDWWWDD
+Palermo FC,Genoa,0-0,/match/palermo/genoa/2003,2003,15,serie_b,20,38,1,0,0,11,23,6,3,5,15,17,LDWWWWWLDLLWWD,3,2,1,5,4,10,23,4,5,5,15,14,WWWDWWLDDWWWDD,1,1,5,5,10,DWWDLW,WWWLWWD
+Triestina ,Napoli,2-1,/match/us-triestina-calcio/napoli/2003,2003,15,serie_b,20,38,0,2,1,2,30,7,4,3,21,13,DWLWWDWDWDWWWL,6,0,1,16,6,19,15,2,7,5,16,20,LDDLLDDLDLWDWD,2,3,2,11,12,WLWWWWW,LDLDDWW
+Cagliari,Sampdoria,1-0,/match/cagliari/sampdoria/2003,2003,16,serie_b,20,38,0,1,0,6,28,6,4,5,14,15,WWDLWWWWDDDLWWW,5,2,1,10,6,3,31,6,7,2,17,11,WDWDWDWDDDLWWDL,1,5,1,4,4,WDWWWDLW,DDDDDLW
+Messina,Palermo FC,2-1,/match/messina/palermo/2003,2003,16,serie_b,20,38,0,2,1,8,26,6,4,5,23,19,WWWDLWWDWWWLDLD,4,2,1,14,10,10,25,6,4,5,15,17,LDWWWWWLDLLWWDD,3,1,4,10,13,WDLWWWD,LWWWLLWD
+Livorno,Cosenza Calcio,4-2,/match/livorno/fortitudo-cosenza/2003,2003,16,serie_b,20,38,0,4,2,7,27,7,2,6,15,12,WWLWWWLLWWWWWDD,5,1,1,11,4,18,18,4,3,8,14,18,LWWLWLWWDWDWLLD,2,0,5,5,7,WWLWWWD,WLWWWWL
+Lecce,Vicenza ,1-1,/match/lecce/vicenza-calcio/2003,2003,16,serie_b,20,38,1,1,1,2,32,6,8,1,18,12,DWWWLWDDDDDDWDW,5,2,0,10,4,13,24,4,7,4,20,21,WLWDDDWLDWDLWDD,2,2,3,10,11,WWWDDWW,LWDWWLD
+Genoa,Ancona,4-2,/match/genoa/ancona/2003,2003,16,serie_b,20,38,0,4,2,11,24,4,6,5,15,14,WWWDWWLDDWWWDDD,3,4,0,10,4,5,30,5,8,2,19,14,DDWDDDDDLWWWWDW,1,4,2,6,6,WDWDDWD,DDDLWWD
+Ascoli,Napoli,4-0,/match/ascoli/napoli/2003,2003,16,serie_b,20,38,0,4,0,14,22,4,5,6,11,16,LLWDDWWWWDDWWDW,3,3,1,6,5,19,15,2,7,6,17,22,LDDLLDDLDLWDWDW,2,3,3,12,14,LDWWDWD,LDLDDWWW
+Venezia,Catania,2-1,/match/venezia/catania/2003,2003,16,serie_b,20,38,0,2,1,17,18,4,5,6,14,17,WDLDDWLDWWLLLLD,1,3,3,5,8,16,21,4,3,8,16,25,LWWDWDWWWDWWWLW,0,1,6,7,17,DDDLWLL,WDWWWWW
+Ternana Calcio,SSC Bari,2-1,/match/ternana-calcio/as-bari/2003,2003,16,serie_b,20,38,0,2,1,12,24,6,4,5,15,13,WWLLDWLDWWDDWLL,3,2,2,6,5,15,21,2,10,3,12,11,DDWDLLDDDLDDDDW,1,5,1,7,6,WLWDWDL,DDLDDDW
+Salernitana,Triestina ,2-2,/match/salernitana-calcio-1919/us-triestina-calcio/2003,2003,16,serie_b,20,38,1,2,2,20,13,3,1,11,12,26,LWLWWWWWLWLDWWL,3,0,5,9,13,1,34,8,4,3,23,14,DWLWWDWDWDWWWLW,1,4,2,5,7,LLWWLLWL,DWDDDWL
+Hellas Verona,Siena,1-2,/match/hellas-verona-fc/siena/2003,2003,16,serie_b,20,38,2,1,2,9,26,5,6,4,20,16,DWLDWWDWWWDWDDL,4,2,1,11,6,4,30,5,8,2,14,11,DWWWDWDDDLWDWDD,1,4,2,6,7,WLWDWWD,WWDDLDD
+Napoli,Venezia,1-1,/match/napoli/venezia/2003,2003,17,serie_b,20,38,1,1,1,19,15,2,7,7,17,26,LDDLLDDLDLWDWDWW,0,4,3,5,8,15,22,5,5,6,16,18,WDLDDWLDWWLLLLDW,3,2,3,9,9,DLDLLDD,WLWDWLLD
+Ancona,Lecce,1-3,/match/ancona/lecce/2003,2003,17,serie_b,20,38,2,1,3,7,30,5,8,3,21,18,DDWDDDDDLWWWWDWW,4,4,0,13,8,2,34,6,9,1,19,13,DWWWLWDDDDDDWDWD,1,6,1,8,8,DWDDDWWW,DWLDDDDD
+Catania,Ternana Calcio,3-1,/match/catania/ternana-calcio/2003,2003,17,serie_b,20,38,0,3,1,17,21,4,3,9,17,27,LWWDWDWWWDWWWLWW,4,2,2,9,8,9,28,7,4,5,17,14,WWLLDWLDWWDDWLLW,3,2,3,9,8,LWDWDWLW,WLDLWDWL
+Palermo FC,Ascoli,2-2,/match/palermo/ascoli/2003,2003,17,serie_b,20,38,1,2,2,13,25,6,4,6,16,19,LDWWWWWLDLLWWDDW,3,3,1,5,4,12,26,5,5,6,15,16,LLWDDWWWWDDWWDWW,1,2,5,5,11,DWWDLWD,LWDWWDWW
+Cosenza Calcio,Salernitana,0-0,/match/fortitudo-cosenza/salernitana-calcio-1919/2003,2003,17,serie_b,20,38,1,0,0,18,18,4,3,9,16,22,LWWLWLWWDWDWLLDW,2,3,3,9,11,20,15,3,2,11,14,28,LWLWWWWWLWLDWWLD,0,1,6,3,13,LWLWDDLD,WWWWWDW
+SSC Bari,Livorno,0-3,/match/as-bari/livorno/2003,2003,17,serie_b,20,38,2,0,3,16,21,2,10,4,13,13,DDWDLLDDDLDDDDWW,1,5,2,5,5,6,31,8,2,6,19,14,WWLWWWLLWWWWWDDW,2,1,5,4,8,DWLDDLDD,WLWWLWWD
+Vicenza ,Cagliari,4-2,/match/vicenza-calcio/cagliari/2003,2003,17,serie_b,20,38,0,4,2,14,25,4,8,4,21,22,WLWDDDWLDWDLWDDD,2,5,1,10,10,4,32,7,4,5,15,15,WWDLWWWWDDDLWWWW,1,2,4,4,9,WDDLDDWD,WLWDDWW
+Triestina ,Messina,2-1,/match/us-triestina-calcio/messina/2003,2003,17,serie_b,20,38,0,2,1,1,35,8,5,3,25,16,DWLWWDWDWDWWWLWD,7,0,1,18,7,8,30,7,4,5,25,20,WWWDLWWDWWWLDLDW,2,2,4,9,9,WLWWWWWW,WWWDWLLD
+Siena,Genoa,2-1,/match/siena/genoa/2003,2003,17,serie_b,20,38,0,2,1,3,32,6,8,2,16,12,DWWWDWDDDLWDWDDL,4,4,0,8,4,10,28,5,6,5,19,16,WWWDWWLDDWWWDDDW,1,2,5,5,10,DWDWDWWD,WWWLWWDD
+Sampdoria,Hellas Verona,3-2,/match/sampdoria/hellas-verona-fc/2003,2003,17,serie_b,20,38,0,3,2,5,31,6,7,3,17,12,WDWDWDWDDDLWWDLW,5,2,1,13,7,11,26,5,6,5,21,18,DWLDWWDWWWDWDDLL,1,4,3,9,10,WWWWDWDL,DDWWWDDL
+Salernitana,Vicenza ,0-1,/match/salernitana-calcio-1919/vicenza-calcio/2003,2003,18,serie_b,20,38,2,0,1,20,16,3,3,11,14,28,LWLWWWWWLWLDWWLDD,3,1,5,11,15,9,29,5,8,4,25,24,WLWDDDWLDWDLWDDDW,2,3,3,11,12,LLWWLLWLD,LWDWWLDD
+Ternana Calcio,Napoli,1-1,/match/ternana-calcio/napoli/2003,2003,18,serie_b,20,38,1,1,1,10,28,7,4,6,18,17,WWLLDWLDWWDDWLLWW,4,2,2,8,6,19,17,2,8,7,18,27,LDDLLDDLDLWDWDWWD,2,3,4,12,18,WLWDWDLW,LDLDDWWWW
+Messina,Sampdoria,3-3,/match/messina/sampdoria/2003,2003,18,serie_b,20,38,1,3,3,8,30,7,4,6,26,22,WWWDLWWDWWWLDLDWW,5,2,1,16,11,4,35,7,7,3,20,14,WDWDWDWDDDLWWDLWW,1,5,2,4,5,WDLWWWDW,DDDDDLWW
+Livorno,Catania,2-1,/match/livorno/catania/2003,2003,18,serie_b,20,38,0,2,1,5,33,9,2,6,22,14,WWLWWWLLWWWWWDDWL,6,1,1,15,6,15,25,5,3,9,20,28,LWWDWDWWWDWWWLWWW,0,1,7,8,19,WWLWWWDW,WDWWWWWW
+Genoa,Triestina ,2-2,/match/genoa/us-triestina-calcio/2003,2003,18,serie_b,20,38,1,2,2,11,28,5,6,6,20,18,WWWDWWLDDWWWDDDWW,4,4,0,14,6,1,39,9,5,3,27,17,DWLWWDWDWDWWWLWDW,1,5,2,7,9,WDWDDWDW,DWDDDWLD
+Cagliari,SSC Bari,1-0,/match/cagliari/as-bari/2003,2003,18,serie_b,20,38,0,1,0,6,32,7,4,6,17,19,WWDLWWWWDDDLWWWWW,6,2,1,11,6,17,21,2,10,5,13,16,DDWDLLDDDLDDDDWWL,1,5,2,8,8,WDWWWDLWW,DDLDDDWW
+Ascoli,Siena,2-1,/match/ascoli/siena/2003,2003,18,serie_b,20,38,0,2,1,12,27,5,6,6,17,18,LLWDDWWWWDDWWDWWD,4,3,1,10,5,2,36,7,8,2,18,13,DWWWDWDDDLWDWDDLW,2,4,2,8,8,LDWWDWDW,WWDDLDDL
+Hellas Verona,Palermo FC,0-0,/match/hellas-verona-fc/palermo/2003,2003,18,serie_b,20,38,1,0,0,14,26,5,6,6,23,21,DWLDWWDWWWDWDDLLW,4,2,2,12,8,13,27,6,5,6,18,21,LDWWWWWLDLLWWDDWD,3,1,5,11,15,WLWDWWDL,LWWWLLWDW
+Venezia,Ancona,2-4,/match/venezia/ancona/2003,2003,18,serie_b,20,38,2,2,4,16,23,5,6,6,17,19,WDLDDWLDWWLLLLDWD,2,3,3,7,9,7,30,5,8,4,22,21,DDWDDDDDLWWWWDWWL,1,4,3,8,10,DDDLWLLW,DDDLWWDW
+Lecce,Cosenza Calcio,0-0,/match/lecce/fortitudo-cosenza/2003,2003,18,serie_b,20,38,1,0,0,3,36,7,9,1,22,14,DWWWLWDDDDDDWDWDL,5,3,0,11,5,18,20,4,4,9,16,22,LWWLWLWWDWDWLLDWD,2,0,6,7,11,WWWDDWWD,WLWWWWLW
+Sampdoria,Venezia,4-0,/match/sampdoria/venezia/2003,2003,19,serie_b,20,38,0,4,0,5,36,7,8,3,23,17,WDWDWDWDDDLWWDLWWD,6,2,1,16,9,16,23,5,6,7,19,23,WDLDDWLDWWLLLLDWDL,3,3,3,10,10,WWWWDWDLW,WLWDWLLDD
+Triestina ,Ascoli,3-1,/match/us-triestina-calcio/ascoli/2003,2003,19,serie_b,20,38,0,3,1,1,40,9,6,3,29,19,DWLWWDWDWDWWWLWDWD,8,0,1,20,8,10,31,6,6,6,19,19,LLWDDWWWWDDWWDWWDW,1,3,5,7,13,WLWWWWWWW,LWDWWDWWD
+Siena,Salernitana,3-0,/match/siena/salernitana-calcio-1919/2003,2003,19,serie_b,20,38,0,3,0,4,36,7,8,3,19,15,DWWWDWDDDLWDWDDLWW,5,4,0,10,5,20,16,3,3,12,14,29,LWLWWWWWLWLDWWLDDL,0,2,6,3,13,DWDWDWWDW,WWWWWDWD
+Palermo FC,Lecce,2-0,/match/palermo/lecce/2003,2003,19,serie_b,20,38,0,2,0,13,28,6,6,6,18,21,LDWWWWWLDLLWWDDWDD,3,4,1,7,6,2,38,7,10,1,22,14,DWWWLWDDDDDDWDWDLD,2,6,1,11,9,DWWDLWDD,DWLDDDDDL
+Napoli,Messina,1-0,/match/napoli/messina/2003,2003,19,serie_b,20,38,0,1,0,19,18,2,9,7,19,28,LDDLLDDLDLWDWDWWDD,0,5,3,6,9,8,32,7,5,6,29,25,WWWDLWWDWWWLDLDWWD,2,2,5,10,11,DLDLLDDD,WWWDWLLDW
+Cosenza Calcio,Genoa,2-1,/match/fortitudo-cosenza/genoa/2003,2003,19,serie_b,20,38,0,2,1,18,21,4,5,9,16,22,LWWLWLWWDWDWLLDWDD,2,4,3,9,11,11,30,5,7,6,22,20,WWWDWWLDDWWWDDDWWD,1,2,6,6,12,LWLWDDLDD,WWWLWWDDW
+Catania,Cagliari,2-1,/match/catania/cagliari/2003,2003,19,serie_b,20,38,0,2,1,15,25,5,3,10,21,30,LWWDWDWWWDWWWLWWWW,5,2,2,12,9,6,36,8,4,6,18,19,WWDLWWWWDDDLWWWWWW,1,2,5,6,13,LWDWDWLWW,WLWDDWWW
+SSC Bari,Hellas Verona,1-1,/match/as-bari/hellas-verona-fc/2003,2003,19,serie_b,20,38,1,1,1,17,21,2,10,6,13,17,DDWDLLDDDLDDDDWWLW,1,5,3,5,8,14,28,5,7,6,23,21,DWLDWWDWWWDWDDLLWD,1,4,4,11,13,DWLDDLDDL,DDWWWDDLW
+Vicenza ,Ternana Calcio,1-0,/match/vicenza-calcio/ternana-calcio/2003,2003,19,serie_b,20,38,0,1,0,9,31,6,8,4,26,24,WLWDDDWLDWDLWDDDWL,3,5,1,14,12,12,30,7,5,6,19,18,WWLLDWLDWWDDWLLWWD,3,2,4,10,11,WDDLDDWDW,WLDLWDWLW
+Ancona,Livorno,1-0,/match/ancona/livorno/2003,2003,19,serie_b,20,38,0,1,0,7,32,6,8,4,26,23,DDWDDDDDLWWWWDWWLL,4,4,1,14,11,3,37,10,2,6,24,15,WWLWWWLLWWWWWDDWLW,3,1,5,7,8,DWDDDWWWL,WLWWLWWDL
+Ascoli,Salernitana,3-0,/match/ascoli/salernitana-calcio-1919/2003,2003,20,serie_b,20,38,0,3,0,11,31,6,6,7,20,22,LLWDDWWWWDDWWDWWDWW,5,3,1,12,6,20,16,3,3,13,14,32,LWLWWWWWLWLDWWLDDLW,0,2,7,3,16,LDWWDWDWW,WWWWWDWDW
+Messina,Ternana Calcio,2-2,/match/messina/ternana-calcio/2003,2003,20,serie_b,20,38,1,2,2,10,32,7,5,7,29,26,WWWDLWWDWWWLDLDWWDW,5,3,1,19,14,13,30,7,5,7,19,19,WWLLDWLDWWDDWLLWWDW,3,2,5,10,12,WDLWWWDWD,WLDLWDWLWW
+Lecce,Siena,1-1,/match/lecce/siena/2003,2003,20,serie_b,20,38,1,1,1,4,38,7,10,2,22,16,DWWWLWDDDDDDWDWDLDW,5,4,0,11,5,2,40,8,8,3,22,15,DWWWDWDDDLWDWDDLWWW,2,4,3,9,10,WWWDDWWDD,WWDDLDDLW
+Livorno,Sampdoria,1-1,/match/livorno/sampdoria/2003,2003,20,serie_b,20,38,1,1,1,5,37,10,2,7,24,16,WWLWWWLLWWWWWDDWLWW,7,1,1,17,7,3,40,8,8,3,27,17,WDWDWDWDDDLWWDLWWDW,1,6,2,7,8,WWLWWWDWW,DDDDDLWWD
+Palermo FC,Cosenza Calcio,1-0,/match/palermo/fortitudo-cosenza/2003,2003,20,serie_b,20,38,0,1,0,9,32,7,6,6,20,21,LDWWWWWLDLLWWDDWDDW,4,4,1,9,6,16,25,5,5,9,18,23,LWWLWLWWDWDWLLDWDDW,2,1,6,7,11,DWWDLWDDW,WLWWWWLWD
+Venezia,Cagliari,3-0,/match/venezia/cagliari/2003,2003,20,serie_b,20,38,0,3,0,17,23,5,6,8,19,27,WDLDDWLDWWLLLLDWDLW,2,3,4,9,13,6,36,8,4,7,19,21,WWDLWWWWDDDLWWWWWWW,1,2,6,7,15,DDDLWLLWL,WLWDDWWWW
+Triestina ,SSC Bari,1-2,/match/us-triestina-calcio/as-bari/2003,2003,20,serie_b,20,38,2,1,2,1,44,10,6,3,32,20,DWLWWDWDWDWWWLWDWDW,9,0,1,23,9,18,23,2,11,6,14,18,DDWDLLDDDLDDDDWWLWD,1,5,3,8,9,WLWWWWWWWW,DDLDDDWWW
+Hellas Verona,Ancona,0-1,/match/hellas-verona-fc/ancona/2003,2003,20,serie_b,20,38,2,0,1,14,29,5,8,6,24,22,DWLDWWDWWWDWDDLLWDD,4,3,2,12,8,7,36,7,8,4,27,23,DDWDDDDDLWWWWDWWLLW,2,4,3,12,12,WLWDWWDLD,DDDLWWDWL
+Genoa,Vicenza ,0-2,/match/genoa/vicenza-calcio/2003,2003,20,serie_b,20,38,2,0,2,12,30,5,7,7,23,22,WWWDWWLDDWWWDDDWWDW,4,5,0,16,8,8,35,7,8,4,27,24,WLWDDDWLDWDLWDDDWLW,3,3,3,12,12,WDWDDWDWD,LWDWWLDDL
+Napoli,Catania,1-0,/match/napoli/catania/2003,2003,20,serie_b,20,38,0,1,0,19,22,3,9,7,20,28,LDDLLDDLDLWDWDWWDDW,1,5,3,7,9,15,29,6,3,10,23,31,LWWDWDWWWDWWWLWWWWW,0,1,8,9,21,DLDLLDDDW,WDWWWWWWW
+SSC Bari,Venezia,0-1,/match/as-bari/venezia/2003,2003,21,serie_b,20,38,2,0,1,19,25,3,11,6,16,19,DDWDLLDDDLDDDDWWLWDL,1,6,3,6,9,16,27,6,6,8,22,27,WDLDDWLDWWLLLLDWDLWW,3,3,4,10,14,DWLDDLDDLD,WLWDWLLDDW
+Cosenza Calcio,Hellas Verona,0-1,/match/fortitudo-cosenza/hellas-verona-fc/2003,2003,21,serie_b,20,38,2,0,1,18,25,5,5,10,18,24,LWWLWLWWDWDWLLDWDDWW,3,4,3,11,12,14,29,5,8,7,24,23,DWLDWWDWWWDWDDLLWDDL,1,5,4,12,14,LWLWDDLDDW,DDWWWDDLWD
+Sampdoria,Palermo FC,1-0,/match/sampdoria/palermo/2003,2003,21,serie_b,20,38,0,1,0,3,41,8,9,3,28,18,WDWDWDWDDDLWWDLWWDWD,7,2,1,20,9,9,36,8,6,6,21,21,LDWWWWWLDLLWWDDWDDWW,3,2,5,11,15,WWWWDWDLWW,LWWWLLWDWD
+Ancona,Napoli,3-2,/match/ancona/napoli/2003,2003,21,serie_b,20,38,0,3,2,6,38,8,8,4,28,23,DDWDDDDDLWWWWDWWLLWL,5,4,1,15,11,17,26,4,9,7,21,28,LDDLLDDLDLWDWDWWDDWW,2,4,4,13,19,DWDDDWWWLW,LDLDDWWWWD
+Salernitana,Messina,0-0,/match/salernitana-calcio-1919/messina/2003,2003,21,serie_b,20,38,1,0,0,20,16,3,3,14,14,35,LWLWWWWWLWLDWWLDDLWW,3,1,6,11,16,11,34,7,6,7,31,28,WWWDLWWDWWWLDLDWWDWD,2,2,6,10,12,LLWWLLWLDL,WWWDWLLDWW
+Cagliari,Livorno,1-1,/match/cagliari/livorno/2003,2003,21,serie_b,20,38,1,1,1,8,36,8,4,8,19,24,WWDLWWWWDDDLWWWWWWWW,7,2,1,12,6,5,39,10,3,7,25,17,WWLWWWLLWWWWWDDWLWWD,3,1,6,7,9,WDWWWDLWWW,WLWWLWWDLW
+Ternana Calcio,Genoa,1-3,/match/ternana-calcio/genoa/2003,2003,21,serie_b,20,38,2,1,3,12,31,7,6,7,21,21,WWLLDWLDWWDDWLLWWDWD,4,3,2,9,7,13,30,5,7,8,23,24,WWWDWWLDDWWWDDDWWDWL,1,2,7,7,14,WLWDWDLWD,WWWLWWDDWW
+Vicenza ,Ascoli,2-1,/match/vicenza-calcio/ascoli/2003,2003,21,serie_b,20,38,0,2,1,7,37,8,8,4,29,24,WLWDDDWLDWDLWDDDWLWL,4,5,1,15,12,10,35,7,6,7,23,22,LLWDDWWWWDDWWDWWDWWW,1,3,6,8,16,WDDLDDWDWW,LWDWWDWWDW
+Catania,Lecce,2-1,/match/catania/lecce/2003,2003,21,serie_b,20,38,0,2,1,15,29,6,3,11,23,32,LWWDWDWWWDWWWLWWWWWW,6,2,2,14,10,4,40,7,11,2,23,17,DWWWLWDDDDDDWDWDLDWD,2,6,2,11,11,LWDWDWLWWW,DWLDDDDDLW
+Siena,Triestina ,1-0,/match/siena/us-triestina-calcio/2003,2003,21,serie_b,20,38,0,1,0,2,41,8,9,3,23,16,DWWWDWDDDLWDWDDLWWWD,6,4,0,13,5,1,44,10,6,4,33,22,DWLWWDWDWDWWWLWDWDWL,1,6,2,9,11,DWDWDWWDWW,DWDDDWLDD
+Genoa,Catania,2-0,/match/genoa/catania/2003,2003,22,serie_b,20,38,0,2,0,13,32,6,7,8,26,25,WWWDWWLDDWWWDDDWWDWLL,4,5,1,16,10,12,33,7,3,11,25,33,LWWDWDWWWDWWWLWWWWWWW,0,1,9,9,22,WDWDDWDWDL,WDWWWWWWWW
+Livorno,Hellas Verona,1-1,/match/livorno/hellas-verona-fc/2003,2003,22,serie_b,20,38,1,1,1,7,40,10,4,7,26,18,WWLWWWLLWWWWWDDWLWWDD,7,2,1,18,8,15,31,6,8,7,25,23,DWLDWWDWWWDWDDLLWDDLL,2,5,4,13,14,WWLWWWDWWD,DDWWWDDLWDL
+Venezia,Triestina ,1-0,/match/venezia/us-triestina-calcio/2003,2003,22,serie_b,20,38,0,1,0,16,29,7,6,8,23,27,WDLDDWLDWWLLLLDWDLWWL,3,3,4,12,13,3,44,10,6,5,33,23,DWLWWDWDWDWWWLWDWDWLW,1,6,3,9,12,DDDLWLLWLW,DWDDDWLDDW
+Messina,Siena,0-0,/match/messina/siena/2003,2003,22,serie_b,20,38,1,0,0,10,35,7,7,7,31,28,WWWDLWWDWWWLDLDWWDWDD,5,4,1,21,16,1,45,9,9,3,24,16,DWWWDWDDDLWDWDDLWWWDW,2,5,3,10,11,WDLWWWDWDD,WWDDLDDLWD
+Ternana Calcio,Salernitana,4-0,/match/ternana-calcio/salernitana-calcio-1919/2003,2003,22,serie_b,20,38,0,4,0,14,31,7,6,8,22,24,WWLLDWLDWWDDWLLWWDWDL,4,3,3,10,10,20,18,3,4,14,14,35,LWLWWWWWLWLDWWLDDLWWD,0,2,8,3,19,WLWDWDLWDL,WWWWWDWDWW
+Vicenza ,Cosenza Calcio,3-0,/match/vicenza-calcio/fortitudo-cosenza/2003,2003,22,serie_b,20,38,0,3,0,5,41,9,8,4,31,25,WLWDDDWLDWDLWDDDWLWLW,5,5,1,17,13,18,25,5,5,11,18,25,LWWLWLWWDWDWLLDWDDWWL,2,1,7,7,12,WDDLDDWDWWW,WLWWWWLWDW
+Napoli,Cagliari,2-0,/match/napoli/cagliari/2003,2003,22,serie_b,20,38,0,2,0,17,26,4,9,8,23,31,LDDLLDDLDLWDWDWWDDWWW,2,5,3,8,9,8,38,8,5,8,20,25,WWDLWWWWDDDLWWWWWWWWD,1,2,7,7,18,DLDLLDDDWW,WLWDDWWWWW
+Ascoli,SSC Bari,3-2,/match/ascoli/as-bari/2003,2003,22,serie_b,20,38,0,3,2,11,35,7,6,8,24,24,LLWDDWWWWDDWWDWWDWWWW,6,3,1,15,6,19,25,3,11,7,16,20,DDWDLLDDDLDDDDWWLWDLL,2,5,3,10,10,LDWWDWDWWW,DDLDDDWWWL
+Palermo FC,Ancona,0-1,/match/palermo/ancona/2003,2003,22,serie_b,20,38,2,0,1,9,36,8,6,7,21,22,LDWWWWWLDLLWWDDWDDWWW,5,4,1,10,6,4,42,9,8,4,31,25,DDWDDDDDLWWWWDWWLLWLW,3,4,3,13,12,DWWDLWDDWW,DDDLWWDWLL
+Lecce,Sampdoria,1-0,/match/lecce/sampdoria/2003,2003,22,serie_b,20,38,0,1,0,6,40,7,11,3,24,19,DWWWLWDDDDDDWDWDLDWDW,5,5,0,12,6,2,45,9,9,3,29,18,WDWDWDWDDDLWWDLWWDWDW,1,7,2,8,9,WWWDDWWDDD,DDDDDLWWDD
+Hellas Verona,Venezia,1-0,/match/hellas-verona-fc/venezia/2003,2003,23,serie_b,20,38,0,1,0,16,32,6,9,7,26,24,DWLDWWDWWWDWDDLLWDDLLD,4,3,3,12,9,15,33,8,6,8,24,27,WDLDDWLDWWLLLLDWDLWWLW,4,3,4,11,14,WLWDWWDLDL,WLWDWLLDDWL
+Sampdoria,Ascoli,3-0,/match/sampdoria/ascoli/2003,2003,23,serie_b,20,38,0,3,0,2,45,9,9,4,29,19,WDWDWDWDDDLWWDLWWDWDWW,8,2,1,21,9,8,39,8,6,8,27,26,LLWDDWWWWDDWWDWWDWWWWW,1,3,7,9,18,WWWWDWDLWWW,LWDWWDWWDWW
+Ancona,Vicenza ,3-1,/match/ancona/vicenza-calcio/2003,2003,23,serie_b,20,38,0,3,1,5,44,10,8,4,32,25,DDWDDDDDLWWWWDWWLLWLWL,6,4,1,18,13,3,45,10,8,4,34,25,WLWDDDWLDWDLWDDDWLWLWW,4,3,3,14,12,DWDDDWWWLWW,LWDWWLDDLL
+Cagliari,Ternana Calcio,1-1,/match/cagliari/ternana-calcio/2003,2003,23,serie_b,20,38,1,1,1,9,38,8,5,9,20,27,WWDLWWWWDDDLWWWWWWWWDW,7,3,1,13,7,13,35,8,6,8,26,24,WWLLDWLDWWDDWLLWWDWDLW,3,3,5,12,14,WDWWWDLWWWD,WLDLWDWLWWD
+Siena,Palermo FC,2-1,/match/siena/palermo/2003,2003,23,serie_b,20,38,0,2,1,1,46,9,10,3,24,16,DWWWDWDDDLWDWDDLWWWDWD,7,4,0,14,5,11,36,8,6,8,21,23,LDWWWWWLDLLWWDDWDDWWWL,3,2,6,11,16,DWDWDWWDWWW,LWWWLLWDWDW
+Cosenza Calcio,Napoli,1-0,/match/fortitudo-cosenza/napoli/2003,2003,23,serie_b,20,38,0,1,0,18,25,5,5,12,18,28,LWWLWLWWDWDWLLDWDDWWLW,3,4,4,11,13,17,30,5,9,8,25,31,LDDLLDDLDLWDWDWWDDWWWW,2,4,5,15,22,LWLWDDLDDWL,LDLDDWWWWDW
+Catania,Messina,1-1,/match/catania/messina/2003,2003,23,serie_b,20,38,1,1,1,14,33,7,3,12,25,35,LWWDWDWWWDWWWLWWWWWWWW,7,2,2,16,11,10,37,7,8,7,31,28,WWWDLWWDWWWLDLDWWDWDDD,2,3,6,10,12,LWDWDWLWWWW,WWWDWLLDWWD
+Salernitana,Lecce,2-1,/match/salernitana-calcio-1919/lecce/2003,2003,23,serie_b,20,38,0,2,1,20,18,3,4,15,14,39,LWLWWWWWLWLDWWLDDLWWDW,3,2,6,11,16,6,44,8,11,3,25,19,DWWWLWDDDDDDWDWDLDWDWW,2,6,3,12,13,LLWWLLWLDLD,DWLDDDDDLWW
+SSC Bari,Genoa,2-1,/match/as-bari/genoa/2003,2003,23,serie_b,20,38,0,2,1,19,25,3,11,8,18,23,DDWDLLDDDLDDDDWWLWDLLW,1,6,4,6,10,12,36,7,7,8,28,25,WWWDWWLDDWWWDDDWWDWLLW,2,2,7,10,15,DWLDDLDDLDL,WWWLWWDDWWL
+Triestina ,Livorno,1-0,/match/us-triestina-calcio/livorno/2003,2003,23,serie_b,20,38,0,1,0,4,44,10,6,6,33,24,DWLWWDWDWDWWWLWDWDWLWW,9,0,2,24,11,7,42,10,5,7,27,19,WWLWWWLLWWWWWDDWLWWDDD,3,2,6,8,10,WLWWWWWWWWL,WLWWLWWDLWD
+Ternana Calcio,Ancona,1-0,/match/ternana-calcio/ancona/2003,2003,24,serie_b,20,38,0,1,0,11,36,8,7,8,27,25,WWLLDWLDWWDDWLLWWDWDLWD,5,3,3,14,10,4,48,11,8,4,35,26,DDWDDDDDLWWWWDWWLLWLWLW,4,4,3,14,12,WLWDWDLWDLW,DDDLWWDWLLL
+Catania,Hellas Verona,2-1,/match/catania/hellas-verona-fc/2003,2003,24,serie_b,20,38,0,2,1,15,35,7,4,12,26,36,LWWDWDWWWDWWWLWWWWWWWWD,7,3,2,17,12,12,36,7,9,7,27,24,DWLDWWDWWWDWDDLLWDDLLDW,2,6,4,14,15,LWDWDWLWWWWD,DDWWWDDLWDLD
+Ascoli,Venezia,1-2,/match/ascoli/venezia/2003,2003,24,serie_b,20,38,2,1,2,9,39,8,6,9,27,29,LLWDDWWWWDDWWDWWDWWWWWW,7,3,1,18,8,16,33,8,6,9,24,28,WDLDDWLDWWLLLLDWDLWWLWW,4,3,5,11,15,LDWWDWDWWWW,WLWDWLLDDWLW
+Palermo FC,Triestina ,1-0,/match/palermo/us-triestina-calcio/2003,2003,24,serie_b,20,38,0,1,0,13,36,8,6,9,22,25,LDWWWWWLDLLWWDDWDDWWWLW,5,4,2,10,7,3,48,11,6,6,34,24,DWLWWDWDWDWWWLWDWDWLWWW,1,6,4,9,13,DWWDLWDDWWL,DWDDDWLDDWW
+Vicenza ,Siena,1-1,/match/vicenza-calcio/siena/2003,2003,24,serie_b,20,38,1,1,1,5,45,10,8,5,35,28,WLWDDDWLDWDLWDDDWLWLWWW,6,5,1,20,13,1,50,10,10,3,26,17,DWWWDWDDDLWDWDDLWWWDWDW,2,6,3,10,11,WDDLDDWDWWWW,WWDDLDDLWDD
+Livorno,Salernitana,0-0,/match/livorno/salernitana-calcio-1919/2003,2003,24,serie_b,20,38,1,0,0,7,42,10,5,8,27,20,WWLWWWLLWWWWWDDWLWWDDDW,7,3,1,19,9,20,22,4,4,15,16,40,LWLWWWWWLWLDWWLDDLWWDWW,0,2,9,3,23,WWLWWWDWWDD,WWWWWDWDWWW
+Lecce,Messina,1-1,/match/lecce/messina/2003,2003,24,serie_b,20,38,1,1,1,6,44,8,11,4,26,21,DWWWLWDDDDDDWDWDLDWDWWW,6,5,0,13,6,10,38,7,9,7,32,29,WWWDLWWDWWWLDLDWWDWDDDD,2,4,6,11,13,WWWDDWWDDDW,WWWDWLLDWWDD
+Genoa,Cagliari,1-3,/match/genoa/cagliari/2003,2003,24,serie_b,20,38,2,1,3,14,36,7,7,9,29,27,WWWDWWLDDWWWDDDWWDWLLWW,5,5,1,18,10,8,40,8,6,9,21,28,WWDLWWWWDDDLWWWWWWWWDWD,1,2,8,7,20,WDWDDWDWDLW,WLWDDWWWWWW
+Cosenza Calcio,Sampdoria,1-3,/match/fortitudo-cosenza/sampdoria/2003,2003,24,serie_b,20,38,2,1,3,18,29,6,5,12,19,28,LWWLWLWWDWDWLLDWDDWWLWW,4,4,4,12,13,2,49,10,9,4,32,19,WDWDWDWDDDLWWDLWWDWDWWW,1,7,3,8,10,LWLWDDLDDWLW,DDDDDLWWDDW
+Napoli,SSC Bari,1-1,/match/napoli/as-bari/2003,2003,24,serie_b,20,38,1,1,1,17,30,5,9,9,25,32,LDDLLDDLDLWDWDWWDDWWWWW,3,5,3,10,9,19,29,4,11,8,20,24,DDWDLLDDDLDDDDWWLWDLLWW,2,5,4,12,13,DLDLLDDDWWW,DDLDDDWWWLW
+Cagliari,Siena,2-3,/match/cagliari/siena/2003,2003,25,serie_b,20,38,2,2,3,8,42,9,6,9,24,29,WWDLWWWWDDDLWWWWWWWWDWDL,7,4,1,14,8,1,51,10,11,3,27,18,DWWWDWDDDLWDWDDLWWWDWDWD,2,7,3,11,12,WDWWWDLWWWDD,WWDDLDDLWDDD
+Ancona,Catania,2-0,/match/ancona/catania/2003,2003,25,serie_b,20,38,0,2,0,4,48,11,8,5,35,27,DDWDDDDDLWWWWDWWLLWLWLWW,7,4,1,21,14,13,39,8,4,12,28,37,LWWDWDWWWDWWWLWWWWWWWWDW,0,1,10,9,24,DWDDDWWWLWWW,WDWWWWWWWWW
+Messina,Ascoli,3-2,/match/messina/ascoli/2003,2003,25,serie_b,20,38,0,3,2,11,39,7,10,7,33,30,WWWDLWWDWWWLDLDWWDWDDDDD,5,5,1,21,16,12,39,8,6,10,28,31,LLWDDWWWWDDWWDWWDWWWWWWL,1,3,8,9,21,WDLWWWDWDDD,LWDWWDWWDWWW
+Triestina ,Vicenza ,1-1,/match/us-triestina-calcio/vicenza-calcio/2003,2003,25,serie_b,20,38,1,1,1,3,48,11,6,7,34,25,DWLWWDWDWDWWWLWDWDWLWWWW,10,0,2,25,11,5,47,10,9,5,36,29,WLWDDDWLDWDLWDDDWLWLWWWD,4,3,4,15,15,WLWWWWWWWWLW,LWDWWLDDLLW
+Hellas Verona,Ternana Calcio,0-1,/match/hellas-verona-fc/ternana-calcio/2003,2003,25,serie_b,20,38,2,0,1,14,36,7,9,8,28,26,DWLDWWDWWWDWDDLLWDDLLDWW,5,3,3,13,9,10,40,9,7,8,28,25,WWLLDWLDWWDDWLLWWDWDLWDW,3,4,5,13,15,WLWDWWDLDLW,WLDLWDWLWWDD
+Livorno,Palermo FC,2-2,/match/livorno/palermo/2003,2003,25,serie_b,20,38,1,2,2,7,44,10,6,8,27,20,WWLWWWLLWWWWWDDWLWWDDDWD,7,4,1,19,9,9,40,9,6,9,23,25,LDWWWWWLDLLWWDDWDDWWWLWW,3,2,7,12,18,WWLWWWDWWDDD,LWWWLLWDWDWW
+Venezia,Lecce,2-2,/match/venezia/lecce/2003,2003,25,serie_b,20,38,1,2,2,16,35,9,6,9,26,29,WDLDDWLDWWLLLLDWDLWWLWWL,4,3,4,13,13,6,46,8,12,4,27,22,DWWWLWDDDDDDWDWDLDWDWWWD,2,6,4,13,15,DDDLWLLWLWW,DWLDDDDDLWWW
+Salernitana,Genoa,2-2,/match/salernitana-calcio-1919/genoa/2003,2003,25,serie_b,20,38,1,2,2,20,23,4,5,15,16,40,LWLWWWWWLWLDWWLDDLWWDWWD,4,2,6,13,17,15,36,7,7,10,30,30,WWWDWWLDDWWWDDDWWDWLLWWL,2,2,8,11,17,LLWWLLWLDLDW,WWWLWWDDWWLW
+SSC Bari,Cosenza Calcio,1-0,/match/as-bari/fortitudo-cosenza/2003,2003,25,serie_b,20,38,0,1,0,18,30,4,12,8,21,25,DDWDLLDDDLDDDDWWLWDLLWWD,2,6,4,8,11,19,29,6,5,13,20,31,LWWLWLWWDWDWLLDWDDWWLWWL,2,1,8,7,15,DWLDDLDDLDLW,WLWWWWLWDWW
+Sampdoria,Napoli,2-0,/match/sampdoria/napoli/2003,2003,25,serie_b,20,38,0,2,0,2,51,11,9,4,35,20,WDWDWDWDDDLWWDLWWDWDWWWL,9,2,1,24,9,17,32,5,10,9,26,33,LDDLLDDLDLWDWDWWDDWWWWWD,2,4,6,15,23,WWWWDWDLWWWW,LDLDDWWWWDWW
+Vicenza ,Messina,2-1,/match/vicenza-calcio/messina/2003,2003,26,serie_b,20,38,0,2,1,5,48,10,10,5,37,30,WLWDDDWLDWDLWDDDWLWLWWWDD,6,6,1,21,14,8,43,8,10,7,36,32,WWWDLWWDWWWLDLDWWDWDDDDDW,2,5,6,12,14,WDDLDDWDWWWWD,WWWDWLLDWWDDD
+Ascoli,Cagliari,1-1,/match/ascoli/cagliari/2003,2003,26,serie_b,20,38,1,1,1,12,39,8,6,11,30,34,LLWDDWWWWDDWWDWWDWWWWWWLW,7,3,2,19,10,10,42,9,6,10,26,32,WWDLWWWWDDDLWWWWWWWWDWDLL,2,2,8,10,21,LDWWDWDWWWWL,WLWDDWWWWWWL
+Lecce,SSC Bari,1-0,/match/lecce/as-bari/2003,2003,26,serie_b,20,38,0,1,0,6,47,8,13,4,29,24,DWWWLWDDDDDDWDWDLDWDWWWDD,6,6,0,14,7,17,34,5,12,8,22,25,DDWDLLDDDLDDDDWWLWDLLWWDW,2,6,4,13,14,WWWDDWWDDDWD,DDLDDDWWWLWD
+Napoli,Hellas Verona,0-0,/match/napoli/hellas-verona-fc/2003,2003,26,serie_b,20,38,1,0,0,18,32,5,10,10,26,35,LDDLLDDLDLWDWDWWDDWWWWWDW,3,6,3,11,10,16,36,7,9,9,28,27,DWLDWWDWWWDWDDLLWDDLLDWWL,2,6,5,15,17,DLDLLDDDWWWD,DDWWWDDLWDLDW
+Genoa,Venezia,0-0,/match/genoa/venezia/2003,2003,26,serie_b,20,38,1,0,0,14,37,7,8,10,32,32,WWWDWWLDDWWWDDDWWDWLLWWLD,5,5,2,19,13,15,37,9,7,9,28,31,WDLDDWLDWWLLLLDWDLWWLWWLD,5,3,5,13,16,WDWDDWDWDLWL,WLWDWLLDDWLWL
+Cosenza Calcio,Triestina ,1-0,/match/fortitudo-cosenza/us-triestina-calcio/2003,2003,26,serie_b,20,38,0,1,0,19,29,6,5,14,20,32,LWWLWLWWDWDWLLDWDDWWLWWLW,4,4,5,13,16,4,50,11,7,7,35,26,DWLWWDWDWDWWWLWDWDWLWWWWD,1,6,5,9,14,LWLWDDLDDWLWL,DWDDDWLDDWWW
+Catania,Sampdoria,0-0,/match/catania/sampdoria/2003,2003,26,serie_b,20,38,1,0,0,13,39,8,4,13,28,39,LWWDWDWWWDWWWLWWWWWWWWDWW,8,3,2,19,13,1,55,12,9,4,37,20,WDWDWDWDDDLWWDLWWDWDWWWLW,2,7,3,11,11,LWDWDWLWWWWDW,DDDDDLWWDDWL
+Palermo FC,Salernitana,1-1,/match/palermo/salernitana-calcio-1919/2003,2003,26,serie_b,20,38,1,1,1,11,41,9,7,9,25,27,LDWWWWWLDLLWWDDWDDWWWLWWD,6,4,2,11,7,20,25,4,6,15,18,42,LWLWWWWWLWLDWWLDDLWWDWWDD,0,3,9,3,23,DWWDLWDDWWLW,WWWWWDWDWWWD
+Ternana Calcio,Livorno,1-1,/match/ternana-calcio/livorno/2003,2003,26,serie_b,20,38,1,1,1,9,42,10,7,8,29,25,WWLLDWLDWWDDWLLWWDWDLWDWL,6,3,3,15,10,7,46,10,7,8,29,22,WWLWWWLLWWWWWDDWLWWDDDWDD,3,2,7,8,11,WLWDWDLWDLWW,WLWWLWWDLWDW
+Siena,Ancona,0-0,/match/siena/ancona/2003,2003,26,serie_b,20,38,1,0,0,2,53,11,11,3,30,20,DWWWDWDDDLWDWDDLWWWDWDWDL,8,4,0,16,6,3,52,12,8,5,37,27,DDWDDDDDLWWWWDWWLLWLWLWWW,4,4,4,14,13,DWDWDWWDWWWW,DDDLWWDWLLLW
+Messina,Genoa,2-1,/match/messina/genoa/2003,2003,27,serie_b,20,38,0,2,1,11,43,8,10,8,37,34,WWWDLWWDWWWLDLDWWDWDDDDDWW,6,5,1,24,18,14,39,7,9,10,32,32,WWWDWWLDDWWWDDDWWDWLLWWLDD,2,3,8,13,19,WDLWWWDWDDDW,WWWLWWDDWWLWD
+Salernitana,Catania,0-0,/match/salernitana-calcio-1919/catania/2003,2003,27,serie_b,20,38,1,0,0,20,26,4,7,15,19,43,LWLWWWWWLWLDWWLDDLWWDWWDDD,4,3,6,15,19,13,41,8,5,13,28,39,LWWDWDWWWDWWWLWWWWWWWWDWWD,0,1,11,9,26,LLWWLLWLDLDWD,WDWWWWWWWWWW
+Sampdoria,Ancona,2-1,/match/sampdoria/ancona/2003,2003,27,serie_b,20,38,0,2,1,1,56,12,10,4,37,20,WDWDWDWDDDLWWDLWWDWDWWWLWD,10,2,1,26,9,3,53,12,9,5,37,27,DDWDDDDDLWWWWDWWLLWLWLWWWD,4,5,4,14,13,WWWWDWDLWWWWW,DDDLWWDWLLLWD
+Palermo FC,Vicenza ,1-0,/match/palermo/vicenza-calcio/2003,2003,27,serie_b,20,38,0,1,0,10,43,9,8,9,26,28,LDWWWWWLDLLWWDDWDDWWWLWWDD,6,5,2,12,8,4,52,11,10,5,39,31,WLWDDDWLDWDLWDDDWLWLWWWDDW,4,4,4,16,16,DWWDLWDDWWLWD,LWDWWLDDLLWD
+Venezia,Ternana Calcio,0-0,/match/venezia/ternana-calcio/2003,2003,27,serie_b,20,38,1,0,0,15,38,9,8,9,28,31,WDLDDWLDWWLLLLDWDLWWLWWLDD,4,4,4,15,15,8,44,10,8,8,30,26,WWLLDWLDWWDDWLLWWDWDLWDWLD,4,4,5,14,15,DDDLWLLWLWWD,WLDLWDWLWWDDL
+SSC Bari,Siena,0-0,/match/as-bari/siena/2003,2003,27,serie_b,20,38,1,0,0,17,34,5,12,9,22,26,DDWDLLDDDLDDDDWWLWDLLWWDWW,3,6,4,9,11,2,55,11,12,3,30,20,DWWWDWDDDLWDWDDLWWWDWDWDLD,3,7,3,14,14,DWLDDLDDLDLWW,WWDDLDDLWDDDL
+Livorno,Napoli,1-1,/match/livorno/napoli/2003,2003,27,serie_b,20,38,1,1,1,7,47,10,8,8,30,23,WWLWWWLLWWWWWDDWLWWDDDWDDD,7,5,1,21,11,18,34,5,11,10,26,35,LDDLLDDLDLWDWDWWDDWWWWWDWD,2,4,7,15,25,WWLWWWDWWDDDD,LDLDDWWWWDWWW
+Triestina ,Lecce,0-1,/match/us-triestina-calcio/lecce/2003,2003,27,serie_b,20,38,2,0,1,6,50,11,7,8,35,27,DWLWWDWDWDWWWLWDWDWLWWWWDW,10,1,2,26,12,5,51,9,13,4,30,24,DWWWLWDDDDDDWDWDLDWDWWWDDW,2,7,4,15,17,WLWWWWWWWWLWD,DWLDDDDDLWWWD
+Ascoli,Cosenza Calcio,3-0,/match/ascoli/fortitudo-cosenza/2003,2003,27,serie_b,20,38,0,3,0,12,41,8,7,11,31,35,LLWDDWWWWDDWWDWWDWWWWWWLWD,7,4,2,20,11,19,33,7,5,14,21,32,LWWLWLWWDWDWLLDWDDWWLWWLWW,2,1,9,7,16,LDWWDWDWWWWLD,WLWWWWLWDWWW
+Hellas Verona,Cagliari,1-1,/match/hellas-verona-fc/cagliari/2003,2003,27,serie_b,20,38,1,1,1,16,37,7,10,9,28,27,DWLDWWDWWWDWDDLLWDDLLDWWLD,5,3,4,13,10,9,43,9,7,10,27,33,WWDLWWWWDDDLWWWWWWWWDWDLLD,2,3,8,11,22,WLWDWWDLDLWL,WLWDDWWWWWWLD
+Ternana Calcio,Ascoli,2-1,/match/ternana-calcio/ascoli/2003,2003,28,serie_b,20,38,0,2,1,10,45,10,9,8,30,26,WWLLDWLDWWDDWLLWWDWDLWDWLDD,6,4,3,16,11,11,45,9,7,11,34,35,LLWDDWWWWDDWWDWWDWWWWWWLWDW,1,3,9,11,24,WLWDWDLWDLWWD,LWDWWDWWDWWWW
+Lecce,Genoa,2-1,/match/lecce/genoa/2003,2003,28,serie_b,20,38,0,2,1,4,53,10,13,4,31,24,DWWWLWDDDDDDWDWDLDWDWWWDDWL,7,6,0,15,7,15,39,7,9,11,33,34,WWWDWWLDDWWWDDDWWDWLLWWLDDW,2,3,9,14,21,WWWDDWWDDDWDW,WWWLWWDDWWLWDW
+Siena,Cosenza Calcio,1-0,/match/siena/fortitudo-cosenza/2003,2003,28,serie_b,20,38,0,1,0,2,56,11,13,3,30,20,DWWWDWDDDLWDWDDLWWWDWDWDLDD,8,5,0,16,6,19,33,7,5,15,21,35,LWWLWLWWDWDWLLDWDDWWLWWLWWW,2,1,10,7,19,DWDWDWWDWWWWD,WLWWWWLWDWWWW
+Sampdoria,SSC Bari,1-1,/match/sampdoria/as-bari/2003,2003,28,serie_b,20,38,1,1,1,1,60,13,10,4,39,21,WDWDWDWDDDLWWDLWWDWDWWWLWDW,11,2,1,28,10,17,36,5,13,9,22,26,DDWDLLDDDLDDDDWWLWDLLWWDWWD,2,6,5,13,15,WWWWDWDLWWWWWW,DDLDDDWWWLWDW
+Catania,Triestina ,1-2,/match/catania/us-triestina-calcio/2003,2003,28,serie_b,20,38,2,1,2,13,42,8,6,13,28,39,LWWDWDWWWDWWWLWWWWWWWWDWWDD,8,4,2,19,13,6,50,11,7,9,35,28,DWLWWDWDWDWWWLWDWDWLWWWWDWL,1,6,6,9,15,LWDWDWLWWWWDWD,DWDDDWLDDWWWW
+Ancona,Salernitana,3-1,/match/ancona/salernitana-calcio-1919/2003,2003,28,serie_b,20,38,0,3,1,3,53,12,9,6,38,29,DDWDDDDDLWWWWDWWLLWLWLWWWDW,8,4,1,23,14,20,28,4,8,15,19,43,LWLWWWWWLWLDWWLDDLWWDWWDDDD,0,4,9,4,24,DWDDDWWWLWWWW,WWWWWDWDWWWDD
+Cagliari,Palermo FC,2-2,/match/cagliari/palermo/2003,2003,28,serie_b,20,38,1,2,2,12,44,9,8,10,28,34,WWDLWWWWDDDLWWWWWWWWDWDLLDD,7,4,2,16,11,8,47,10,8,9,27,28,LDWWWWWLDLLWWDDWDDWWWLWWDDW,3,3,7,14,20,WDWWWDLWWWDDL,LWWWLLWDWDWWD
+Hellas Verona,Messina,4-1,/match/hellas-verona-fc/messina/2003,2003,28,serie_b,20,38,0,4,1,16,39,7,11,9,29,28,DWLDWWDWWWDWDDLLWDDLLDWWLDD,5,4,4,14,11,9,47,9,10,8,39,35,WWWDLWWDWWWLDLDWWDWDDDDDWWW,2,5,7,13,16,WLWDWWDLDLWLD,WWWDWLLDWWDDDW
+Venezia,Livorno,1-1,/match/venezia/livorno/2003,2003,28,serie_b,20,38,1,1,1,14,40,9,9,9,28,31,WDLDDWLDWWLLLLDWDLWWLWWLDDD,4,5,4,15,15,7,49,10,9,8,31,24,WWLWWWLLWWWWWDDWLWWDDDWDDDD,3,3,7,9,12,DDDLWLLWLWWDD,WLWWLWWDLWDWD
+Napoli,Vicenza ,2-1,/match/napoli/vicenza-calcio/2003,2003,28,serie_b,20,38,0,2,1,18,35,5,12,10,27,36,LDDLLDDLDLWDWDWWDDWWWWWDWDD,3,7,3,11,10,5,52,11,10,6,39,32,WLWDDDWLDWDLWDDDWLWLWWWDDWW,4,4,5,16,17,DLDLLDDDWWWDD,LWDWWLDDLLWDW
+Palermo FC,SSC Bari,2-2,/match/palermo/as-bari/2003,2003,29,serie_b,20,38,1,2,2,9,48,10,9,9,29,30,LDWWWWWLDLLWWDDWDDWWWLWWDDWD,7,5,2,13,8,18,37,5,14,9,23,27,DDWDLLDDDLDDDDWWLWDLLWWDWWDD,2,7,5,14,16,DWWDLWDDWWLWDW,DDLDDDWWWLWDWD
+Genoa,Livorno,3-1,/match/genoa/livorno/2003,2003,29,serie_b,20,38,0,3,1,16,39,7,9,12,34,36,WWWDWWLDDWWWDDDWWDWLLWWLDDWW,5,6,2,19,13,7,50,10,10,8,32,25,WWLWWWLLWWWWWDDWLWWDDDWDDDDD,3,4,7,10,13,WDWDDWDWDLWLD,WLWWLWWDLWDWDD
+Ascoli,Catania,2-1,/match/ascoli/catania/2003,2003,29,serie_b,20,38,0,2,1,12,45,9,7,12,35,37,LLWDDWWWWDDWWDWWDWWWWWWLWDWW,8,4,2,23,11,14,42,8,6,14,29,41,LWWDWDWWWDWWWLWWWWWWWWDWWDDL,0,2,11,9,26,LDWWDWDWWWWLDW,WDWWWWWWWWWWD
+Lecce,Cagliari,1-1,/match/lecce/cagliari/2003,2003,29,serie_b,20,38,1,1,1,4,57,11,13,4,33,25,DWWWLWDDDDDDWDWDLDWDWWWDDWLW,8,6,0,17,8,11,46,9,9,10,30,36,WWDLWWWWDDDLWWWWWWWWDWDLLDDD,2,4,8,12,23,WWWDDWWDDDWDWW,WLWDDWWWWWWLDD
+Messina,Ancona,1-1,/match/messina/ancona/2003,2003,29,serie_b,20,38,1,1,1,10,47,9,10,9,40,39,WWWDLWWDWWWLDLDWWDWDDDDDWWWW,7,5,1,26,19,3,57,13,9,6,41,30,DDWDDDDDLWWWWDWWLLWLWLWWWDWW,4,5,5,15,15,WDLWWWDWDDDWW,DDDLWWDWLLLWDW
+Vicenza ,Hellas Verona,4-1,/match/vicenza-calcio/hellas-verona-fc/2003,2003,29,serie_b,20,38,0,4,1,5,52,11,10,7,40,34,WLWDDDWLDWDLWDDDWLWLWWWDDWWW,7,6,1,23,15,13,43,8,11,9,33,29,DWLDWWDWWWDWDDLLWDDLLDWWLDDW,2,7,5,15,17,WDDLDDWDWWWWDW,DDWWWDDLWDLDWD
+Salernitana,Venezia,1-1,/match/salernitana-calcio-1919/venezia/2003,2003,29,serie_b,20,38,1,1,1,20,28,4,8,16,20,46,LWLWWWWWLWLDWWLDDLWWDWWDDDDW,4,4,6,15,19,15,42,9,10,9,29,32,WDLDDWLDWWLLLLDWDLWWLWWLDDDD,5,4,5,13,16,LLWWLLWLDLDWDD,WLWDWLLDDWLWLD
+Cosenza Calcio,Ternana Calcio,0-3,/match/fortitudo-cosenza/ternana-calcio/2003,2003,29,serie_b,20,38,2,0,3,19,33,7,5,16,21,36,LWWLWLWWDWDWLLDWDDWWLWWLWWWW,5,4,5,14,16,8,49,11,9,8,32,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDW,4,5,5,14,15,LWLWDDLDDWLWLW,WLDLWDWLWWDDLD
+Siena,Napoli,2-0,/match/siena/napoli/2003,2003,29,serie_b,20,38,0,2,0,2,60,12,13,3,31,20,DWWWDWDDDLWDWDDLWWWDWDWDLDDW,9,5,0,17,6,17,39,6,12,10,29,37,LDDLLDDLDLWDWDWWDDWWWWWDWDDW,2,5,7,16,26,DWDWDWWDWWWWDW,LDLDDWWWWDWWWD
+Triestina ,Sampdoria,2-2,/match/us-triestina-calcio/sampdoria/2003,2003,29,serie_b,20,38,1,2,2,6,52,12,7,9,37,29,DWLWWDWDWDWWWLWDWDWLWWWWDWLL,10,1,3,26,13,1,62,13,11,4,40,22,WDWDWDWDDDLWWDLWWDWDWWWLWDWD,2,8,3,11,11,WLWWWWWWWWLWDL,DDDDDLWWDDWLD
+SSC Bari,Vicenza ,1-1,/match/as-bari/vicenza-calcio/2003,2003,30,serie_b,20,38,1,1,1,18,38,5,15,9,25,29,DDWDLLDDDLDDDDWWLWDLLWWDWWDDD,3,7,4,9,11,5,56,12,10,7,44,35,WLWDDDWLDWDLWDDDWLWLWWWDDWWWW,4,4,6,17,19,DWLDDLDDLDLWWD,LWDWWLDDLLWDWW
+Livorno,Messina,4-1,/match/livorno/messina/2003,2003,30,serie_b,20,38,0,4,1,8,50,10,10,9,33,28,WWLWWWLLWWWWWDDWLWWDDDWDDDDDW,7,6,1,22,12,11,49,9,11,9,41,40,WWWDLWWDWWWLDLDWWDWDDDDDWWWWD,2,5,8,14,20,WWLWWWDWWDDDDD,WWWDWLLDWWDDDWW
+Napoli,Genoa,2-2,/match/napoli/genoa/2003,2003,30,serie_b,20,38,1,2,2,17,39,6,12,11,29,39,LDDLLDDLDLWDWDWWDDWWWWWDWDDWW,4,7,3,13,11,15,43,8,9,12,37,37,WWWDWWLDDWWWDDDWWDWLLWWLDDWWW,2,3,10,15,23,DLDLLDDDWWWDDW,WWWLWWDDWWLWDWW
+Cagliari,Cosenza Calcio,3-0,/match/cagliari/fortitudo-cosenza/2003,2003,30,serie_b,20,38,0,3,0,12,47,9,10,10,31,37,WWDLWWWWDDDLWWWWWWWWDWDLLDDDD,7,5,2,18,13,19,33,7,5,17,21,39,LWWLWLWWDWDWLLDWDDWWLWWLWWWWL,2,1,11,7,20,WDWWWDLWWWDDLD,WLWWWWLWDWWWWW
+Hellas Verona,Ascoli,1-0,/match/hellas-verona-fc/ascoli/2003,2003,30,serie_b,20,38,0,1,0,13,43,8,11,10,34,33,DWLDWWDWWWDWDDLLWDDLLDWWLDDWW,6,4,4,18,12,10,49,10,7,12,37,38,LLWDDWWWWDDWWDWWDWWWWWWLWDWWW,1,3,10,12,26,WLWDWWDLDLWLDW,LWDWWDWWDWWWWW
+Ancona,Triestina ,3-0,/match/ancona/us-triestina-calcio/2003,2003,30,serie_b,20,38,0,3,0,4,58,13,10,6,42,31,DDWDDDDDLWWWWDWWLLWLWLWWWDWWD,9,4,1,26,15,6,54,12,8,9,39,31,DWLWWDWDWDWWWLWDWDWLWWWWDWLLD,2,6,6,11,16,DWDDDWWWLWWWWW,DWDDDWLDDWWWWL
+Catania,Siena,1-1,/match/catania/siena/2003,2003,30,serie_b,20,38,1,1,1,16,42,8,6,15,30,43,LWWDWDWWWDWWWLWWWWWWWWDWWDDLW,8,4,3,20,15,1,64,13,13,3,33,20,DWWWDWDDDLWDWDDLWWWDWDWDLDDWW,3,8,3,14,14,LWDWDWLWWWWDWDL,WWDDLDDLWDDDLD
+Sampdoria,Salernitana,1-0,/match/sampdoria/salernitana-calcio-1919/2003,2003,30,serie_b,20,38,0,1,0,2,63,13,12,4,42,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDD,11,3,1,29,11,20,30,4,9,16,21,47,LWLWWWWWLWLDWWLDDLWWDWWDDDDWD,0,4,10,5,27,WWWWDWDLWWWWWWD,WWWWWDWDWWWDDW
+Venezia,Palermo FC,0-2,/match/venezia/palermo/2003,2003,30,serie_b,20,38,2,0,2,14,43,9,11,9,30,33,WDLDDWLDWWLLLLDWDLWWLWWLDDDDD,4,6,4,16,16,9,50,10,10,9,31,32,LDWWWWWLDLLWWDDWDDWWWLWWDDWDD,3,4,7,16,22,DDDLWLLWLWWDDD,LWWWLLWDWDWWDD
+Ternana Calcio,Lecce,0-0,/match/ternana-calcio/lecce/2003,2003,30,serie_b,20,38,1,0,0,7,51,12,9,8,35,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWL,7,4,3,18,12,3,59,11,14,4,34,26,DWWWLWDDDDDDWDWDLDWDWWWDDWLWD,3,7,4,16,17,WLWDWDLWDLWWDW,DWLDDDDDLWWWDL
+Lecce,Napoli,1-1,/match/lecce/napoli/2003,2003,31,serie_b,20,38,1,1,1,4,60,11,15,4,34,26,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDD,8,7,0,18,9,17,41,6,13,11,31,41,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWD,2,5,8,16,28,WWWDDWWDDDWDWWD,LDLDDWWWWDWWWDW
+Ascoli,Livorno,2-1,/match/ascoli/livorno/2003,2003,31,serie_b,20,38,0,2,1,12,49,10,7,13,37,39,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWW,9,4,2,25,12,7,54,11,10,9,37,29,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWW,3,4,8,11,16,LDWWDWDWWWWLDWW,WLWWLWWDLWDWDDW
+Palermo FC,Catania,3-3,/match/palermo/catania/2003,2003,31,serie_b,20,38,1,3,3,9,52,11,10,9,33,32,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDL,7,6,2,15,10,15,44,8,7,15,31,44,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWD,0,2,12,10,28,DWWDLWDDWWLWDWD,WDWWWWWWWWWWDW
+Messina,Cagliari,2-2,/match/messina/cagliari/2003,2003,31,serie_b,20,38,1,2,2,11,49,9,11,10,42,44,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDW,7,6,1,27,20,10,51,10,10,10,34,37,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDW,2,5,8,13,24,WDLWWWDWDDDWWD,WLWDDWWWWWWLDDD
+Salernitana,SSC Bari,1-2,/match/salernitana-calcio-1919/as-bari/2003,2003,31,serie_b,20,38,2,1,2,20,30,4,9,17,21,48,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDW,4,5,6,16,20,18,40,5,16,9,26,30,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDD,2,8,5,16,18,LLWWLLWLDLDWDDD,DDLDDDWWWLWDWDD
+Cosenza Calcio,Ancona,0-0,/match/fortitudo-cosenza/ancona/2003,2003,31,serie_b,20,38,1,0,0,19,33,7,5,18,21,42,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLW,5,4,6,14,19,3,62,14,10,6,45,31,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDW,4,6,5,16,16,LWLWDDLDDWLWLWL,DDDLWWDWLLLWDWD
+Triestina ,Hellas Verona,3-1,/match/us-triestina-calcio/hellas-verona-fc/2003,2003,31,serie_b,20,38,0,3,1,6,54,12,8,10,39,34,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDW,10,2,3,28,15,13,47,9,11,10,35,33,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWW,2,7,6,16,21,WLWWWWWWWWLWDLD,DDWWWDDLWDLDWDW
+Vicenza ,Venezia,2-1,/match/vicenza-calcio/venezia/2003,2003,31,serie_b,20,38,0,2,1,5,57,12,11,7,45,36,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWD,8,6,1,27,16,16,43,9,11,10,30,35,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDL,5,5,5,14,17,WDDLDDWDWWWWDWW,WLWDWLLDDWLWLDD
+Siena,Ternana Calcio,0-1,/match/siena/ternana-calcio/2003,2003,31,serie_b,20,38,2,0,1,2,65,13,14,3,34,21,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWD,10,5,0,19,6,8,53,12,10,8,35,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLD,5,5,5,17,15,DWDWDWWDWWWWDWW,WLDLWDWLWWDDLDL
+Genoa,Sampdoria,0-2,/match/genoa/sampdoria/2003,2003,31,serie_b,20,38,2,0,2,14,44,8,10,12,39,39,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWD,6,6,2,22,14,1,67,14,12,4,43,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDW,2,9,3,13,13,WDWDDWDWDLWLDW,DDDDDLWWDDWLDD
+Cagliari,Triestina ,2-0,/match/cagliari/us-triestina-calcio/2003,2003,32,serie_b,20,38,0,2,0,11,52,10,11,10,36,39,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWD,8,5,2,21,13,6,58,13,8,10,42,35,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWW,2,6,7,11,19,WDWWWDLWWWDDLDW,DWDDDWLDDWWWWLW
+Napoli,Salernitana,2-1,/match/napoli/salernitana-calcio-1919/2003,2003,32,serie_b,20,38,0,2,1,17,42,6,14,11,32,42,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDD,4,8,3,15,13,20,30,4,9,18,22,50,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWL,0,4,11,5,28,DLDLLDDDWWWDDWD,WWWWWDWDWWWDDWW
+Ternana Calcio,Palermo FC,0-0,/match/ternana-calcio/palermo/2003,2003,32,serie_b,20,38,1,0,0,7,55,13,10,8,36,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDL,7,5,3,18,12,9,54,11,11,9,36,35,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLD,4,4,7,18,22,WLWDWDLWDLWWDWD,LWWWLLWDWDWWDDL
+SSC Bari,Messina,1-0,/match/as-bari/messina/2003,2003,32,serie_b,20,38,0,1,0,18,42,6,16,9,28,31,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDL,3,8,4,10,12,12,51,9,12,10,44,46,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWD,2,5,9,15,24,DWLDDLDDLDLWWDD,WWWDWLLDWWDDDWWW
+Livorno,Lecce,1-2,/match/livorno/lecce/2003,2003,32,serie_b,20,38,2,1,2,8,54,11,10,10,38,31,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWW,8,6,1,26,13,4,62,11,16,4,35,27,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDD,3,8,4,16,17,WWLWWWDWWDDDDDW,DWLDDDDDLWWWDLD
+Hellas Verona,Genoa,2-2,/match/hellas-verona-fc/genoa/2003,2003,32,serie_b,20,38,1,2,2,13,47,9,11,11,36,36,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWW,7,4,4,19,12,15,44,8,10,13,39,41,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDL,2,4,10,17,25,WLWDWWDLDLWLDWW,WWWLWWDDWWLWDWWD
+Venezia,Cosenza Calcio,0-2,/match/venezia/fortitudo-cosenza/2003,2003,32,serie_b,20,38,2,0,2,16,43,9,11,11,31,37,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLW,4,6,5,16,18,19,35,7,6,18,21,42,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWD,2,1,12,7,23,DDDLWLLWLWWDDDL,WLWWWWLWDWWWWWW
+Catania,Vicenza ,2-1,/match/catania/vicenza-calcio/2003,2003,32,serie_b,20,38,0,2,1,14,45,8,8,15,34,47,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDD,8,5,3,21,16,5,61,13,11,7,47,37,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDW,4,5,6,18,20,LWDWDWLWWWWDWDLD,LWDWWLDDLLWDWWD
+Ancona,Ascoli,1-1,/match/ancona/ascoli/2003,2003,32,serie_b,20,38,1,1,1,3,63,14,11,6,45,31,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWD,10,4,1,29,15,10,53,11,7,13,39,40,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWW,1,3,11,12,27,DWDDDWWWLWWWWWW,LWDWWDWWDWWWWWW
+Sampdoria,Siena,0-0,/match/sampdoria/siena/2003,2003,32,serie_b,20,38,1,0,0,1,69,15,12,4,45,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWL,12,3,1,30,11,2,65,13,14,4,34,22,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDL,3,9,3,15,15,WWWWDWDLWWWWWWDW,WWDDLDDLWDDDLDD
+Palermo FC,Napoli,2-1,/match/palermo/napoli/2003,2003,33,serie_b,20,38,0,2,1,9,55,11,12,9,36,35,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDD,7,7,2,18,13,15,46,7,14,11,34,43,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDW,2,6,8,17,29,DWWDLWDDWWLWDWDD,LDLDDWWWWDWWWDWD
+Vicenza ,Sampdoria,1-2,/match/vicenza-calcio/sampdoria/2003,2003,33,serie_b,20,38,2,1,2,5,61,13,11,8,48,39,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWW,9,6,1,29,17,1,71,15,13,4,45,24,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLD,3,9,3,15,13,WDDLDDWDWWWWDWWW,DDDDDLWWDDWLDDL
+Cosenza Calcio,Catania,3-1,/match/fortitudo-cosenza/catania/2003,2003,33,serie_b,20,38,0,3,1,19,37,8,6,18,23,42,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDL,5,5,6,14,19,14,49,9,8,15,36,48,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDW,0,3,12,13,31,LWLWDDLDDWLWLWLD,WDWWWWWWWWWWDWD
+Salernitana,Cagliari,1-2,/match/salernitana-calcio-1919/cagliari/2003,2003,33,serie_b,20,38,2,1,2,20,30,4,9,19,23,52,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLW,4,5,7,17,22,8,56,11,11,10,38,39,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDW,2,6,8,15,26,LLWWLLWLDLDWDDDL,WLWDDWWWWWWLDDDD
+Ancona,SSC Bari,1-2,/match/ancona/as-bari/2003,2003,33,serie_b,20,38,2,1,2,3,65,14,12,6,46,32,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDD,10,5,1,30,16,16,46,7,16,9,29,31,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLW,3,8,5,18,19,DWDDDWWWLWWWWWWD,DDLDDDWWWLWDWDDL
+Genoa,Ascoli,1-2,/match/genoa/ascoli/2003,2003,33,serie_b,20,38,2,1,2,17,45,8,11,13,41,43,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLD,6,6,3,22,16,10,54,11,8,13,40,41,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWD,1,4,11,13,28,WDWDDWDWDLWLDWL,LWDWWDWWDWWWWWWD
+Lecce,Hellas Verona,1-1,/match/lecce/hellas-verona-fc/2003,2003,33,serie_b,20,38,1,1,1,4,64,12,16,4,37,28,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDL,8,8,0,19,10,13,49,9,12,11,38,38,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWD,2,7,7,17,24,WWWDDWWDDDWDWWDD,DDWWWDDLWDLDWDWW
+Messina,Venezia,1-1,/match/messina/venezia/2003,2003,33,serie_b,20,38,1,1,1,12,51,9,12,11,44,47,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDW,7,7,1,29,22,18,43,9,11,12,31,39,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWL,5,5,6,15,19,WDLWWWDWDDDWWDD,WLWDWLLDDWLWLDDW
+Triestina ,Ternana Calcio,4-3,/match/us-triestina-calcio/ternana-calcio/2003,2003,33,serie_b,20,38,0,4,3,6,58,13,8,11,42,37,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWW,11,2,3,31,16,7,57,13,11,8,36,27,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLD,6,5,5,18,15,WLWWWWWWWWLWDLDW,WLDLWDWLWWDDLDLL
+Siena,Livorno,2-0,/match/siena/livorno/2003,2003,33,serie_b,20,38,0,2,0,2,66,13,15,4,34,22,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLD,10,5,1,19,7,11,54,11,10,11,39,33,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWL,3,4,9,12,18,DWDWDWWDWWWWDWWL,WLWWLWWDLWDWDDWW
+SSC Bari,Catania,2-1,/match/as-bari/catania/2003,2003,34,serie_b,20,38,0,2,1,15,48,8,16,9,31,32,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWL,4,8,4,11,12,14,49,9,8,16,37,51,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWW,0,3,13,14,34,DWLDDLDDLDLWWDDW,WDWWWWWWWWWWDWDW
+Venezia,Siena,1-3,/match/venezia/siena/2003,2003,34,serie_b,20,38,2,1,3,18,44,9,12,12,32,40,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLD,4,6,6,16,20,2,70,14,15,4,36,22,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDW,3,10,3,15,15,DDDLWLLWLWWDDDLL,WWDDLDDLWDDDLDDD
+Hellas Verona,Salernitana,2-0,/match/hellas-verona-fc/salernitana-calcio-1919/2003,2003,34,serie_b,20,38,0,2,0,13,50,9,13,11,39,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDD,7,5,4,21,14,20,30,4,9,20,24,54,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWL,0,4,12,6,30,WLWDWWDLDLWLDWWD,WWWWWDWDWWWDDWWW
+Genoa,Palermo FC,1-1,/match/genoa/palermo/2003,2003,34,serie_b,20,38,1,1,1,17,45,8,11,14,42,45,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDL,6,6,4,23,18,7,59,12,12,9,38,36,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDW,4,5,7,18,22,WDWDDWDWDLWLDWLL,LWWWLLWDWDWWDDLD
+Ascoli,Lecce,1-0,/match/ascoli/lecce/2003,2003,34,serie_b,20,38,0,1,0,10,56,12,8,13,42,42,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDL,10,4,2,27,13,3,66,12,17,4,38,29,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLD,4,8,4,18,18,LDWWDWDWWWWLDWWW,DWLDDDDDLWWWDLDL
+Messina,Cosenza Calcio,1-0,/match/messina/fortitudo-cosenza/2003,2003,34,serie_b,20,38,0,1,0,12,53,9,13,11,45,48,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWD,7,8,1,30,23,19,41,9,6,18,26,43,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLW,3,1,12,9,23,WDLWWWDWDDDWWDDD,WLWWWWLWDWWWWWWL
+Cagliari,Ancona,2-1,/match/cagliari/ancona/2003,2003,34,serie_b,20,38,0,2,1,8,58,12,11,10,40,40,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWL,9,5,2,23,13,4,65,14,12,7,47,34,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDL,4,7,5,16,16,WDWWWDLWWWDDLDWW,DDDLWWDWLLLWDWDD
+Livorno,Vicenza ,2-2,/match/livorno/vicenza-calcio/2003,2003,34,serie_b,20,38,1,2,2,11,54,11,10,12,39,35,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLW,8,6,2,27,15,6,61,13,11,9,49,41,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWL,4,5,7,19,22,WWLWWWDWWDDDDDWL,LWDWWLDDLLWDWWDW
+Napoli,Triestina ,2-1,/match/napoli/us-triestina-calcio/2003,2003,34,serie_b,20,38,0,2,1,16,46,7,14,12,35,45,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWW,5,8,3,17,14,5,62,14,8,11,46,40,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWW,2,6,8,11,21,DLDLLDDDWWWDDWDW,DWDDDWLDDWWWWLWW
+Ternana Calcio,Sampdoria,1-1,/match/ternana-calcio/sampdoria/2003,2003,34,serie_b,20,38,1,1,1,9,57,13,11,9,39,31,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDW,7,6,3,18,12,1,73,16,13,4,47,25,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDL,4,9,3,17,14,WLWDWDLWDLWWDWDD,DDDDDLWWDDWLDDLL
+Catania,Venezia,2-0,/match/catania/venezia/2003,2003,35,serie_b,20,38,0,2,0,16,49,9,8,17,38,53,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWW,9,5,3,23,17,18,44,9,12,13,33,43,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDL,5,6,6,16,20,LWDWDWLWWWWDWDLDW,WLWDWLLDDWLWLDDWD
+SSC Bari,Ternana Calcio,2-1,/match/as-bari/ternana-calcio/2003,2003,35,serie_b,20,38,0,2,1,14,52,9,16,9,33,33,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLW,5,8,4,13,13,10,59,13,12,9,40,32,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWD,6,5,6,21,19,DWLDDLDDLDLWWDDWW,WLDLWDWLWWDDLDLLW
+Triestina ,Salernitana,2-0,/match/us-triestina-calcio/salernitana-calcio-1919/2003,2003,35,serie_b,20,38,0,2,0,5,62,14,8,12,47,42,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWW,12,2,3,35,19,20,30,4,9,21,24,56,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLW,0,4,13,6,32,WLWWWWWWWWLWDLDWW,WWWWWDWDWWWDDWWWW
+Palermo FC,Messina,2-1,/match/palermo/messina/2003,2003,35,serie_b,20,38,0,2,1,8,60,12,13,9,39,37,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWD,8,7,2,20,14,11,57,10,13,11,46,48,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDW,2,5,10,15,25,DWWDLWDDWWLWDWDDW,WWWDWLLDWWDDDWWWW
+Cosenza Calcio,Livorno,0-2,/match/fortitudo-cosenza/livorno/2003,2003,35,serie_b,20,38,2,0,2,19,41,9,6,19,26,44,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWW,6,5,6,17,20,12,56,11,11,12,41,37,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWD,3,4,10,12,20,LWLWDDLDDWLWLWLDW,WLWWLWWDLWDWDDWWW
+Vicenza ,Lecce,1-1,/match/vicenza-calcio/lecce/2003,2003,35,serie_b,20,38,1,1,1,6,62,13,12,9,51,43,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLD,9,6,2,30,19,3,66,12,17,5,38,30,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDW,4,8,5,18,19,WDDLDDWDWWWWDWWWL,DWLDDDDDLWWWDLDLW
+Ancona,Genoa,1-0,/match/ancona/genoa/2003,2003,35,serie_b,20,38,0,1,0,4,65,14,12,8,48,36,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLW,10,5,2,31,18,17,47,8,12,14,43,46,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLD,2,5,10,19,27,DWDDDWWWLWWWWWWDL,WWWLWWDDWWLWDWWDD
+Napoli,Ascoli,2-0,/match/napoli/ascoli/2003,2003,35,serie_b,20,38,0,2,0,15,50,8,14,12,37,46,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWW,6,8,3,19,15,9,60,13,8,13,43,42,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLW,2,4,11,15,29,DLDLLDDDWWWDDWDWW,LWDWWDWWDWWWWWWDL
+Siena,Hellas Verona,0-0,/match/siena/hellas-verona-fc/2003,2003,35,serie_b,20,38,1,0,0,2,72,15,15,4,39,23,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWL,11,5,1,21,7,13,54,10,13,11,41,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDW,2,8,7,18,25,DWDWDWWDWWWWDWWLW,DDWWWDDLWDLDWDWWD
+Sampdoria,Cagliari,3-1,/match/sampdoria/cagliari/2003,2003,35,serie_b,20,38,0,3,1,1,74,16,14,4,48,26,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLD,12,4,1,30,11,7,62,13,11,10,42,41,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLW,3,6,8,17,27,WWWWDWDLWWWWWWDWD,WLWDDWWWWWWLDDDDL
+Cagliari,Vicenza ,3-0,/match/cagliari/vicenza-calcio/2003,2003,36,serie_b,20,38,0,3,0,8,62,13,11,11,43,44,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLWW,10,5,2,25,14,6,64,13,13,9,52,44,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLDD,4,6,7,21,24,WDWWWDLWWWDDLDWWW,LWDWWLDDLLWDWWDWD
+Messina,Triestina ,2-2,/match/messina/us-triestina-calcio/2003,2003,36,serie_b,20,38,1,2,2,12,57,10,13,12,47,50,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDWW,8,8,1,31,23,5,66,15,8,12,49,42,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWWW,2,6,9,12,23,WDLWWWDWDDDWWDDDW,DWDDDWLDDWWWWLWWW
+Genoa,Siena,1-3,/match/genoa/siena/2003,2003,36,serie_b,20,38,2,1,3,17,47,8,12,15,43,47,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLDW,6,7,4,24,19,2,74,15,16,4,39,23,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWLD,4,10,3,18,16,WDWDDWDWDLWLDWLLD,WWDDLDDLWDDDLDDDL
+Venezia,Napoli,2-1,/match/venezia/napoli/2003,2003,36,serie_b,20,38,0,2,1,18,44,9,12,14,33,45,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDLW,4,6,7,17,23,15,54,9,14,12,39,46,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWWW,2,6,9,18,31,DDDLWLLWLWWDDDLLL,LDLDDWWWWDWWWDWDW
+Ternana Calcio,Catania,3-1,/match/ternana-calcio/catania/2003,2003,36,serie_b,20,38,0,3,1,10,59,13,12,10,41,34,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWDW,7,7,3,19,13,16,53,10,8,17,40,53,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWWW,0,3,14,15,36,WLWDWDLWDLWWDWDDD,WDWWWWWWWWWWDWDWW
+Lecce,Ancona,2-1,/match/lecce/ancona/2003,2003,36,serie_b,20,38,0,2,1,4,67,12,18,5,39,31,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDWD,8,9,0,20,11,3,69,15,12,8,49,36,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLWW,4,7,6,17,18,WWWDDWWDDDWDWWDDD,DDDLWWDWLLLWDWDDW
+Hellas Verona,Sampdoria,0-0,/match/hellas-verona-fc/sampdoria/2003,2003,36,serie_b,20,38,1,0,0,14,55,10,14,11,41,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDWD,8,5,4,23,14,1,78,17,14,4,51,27,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLDW,4,10,3,18,15,WLWDWWDLDLWLDWWDW,DDDDDLWWDDWLDDLLD
+Ascoli,Palermo FC,1-2,/match/ascoli/palermo/2003,2003,36,serie_b,20,38,2,1,2,9,60,13,8,14,43,44,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLWW,11,4,2,28,13,7,64,13,13,9,41,38,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWDW,4,6,7,19,23,LDWWDWDWWWWLDWWWW,LWWWLLWDWDWWDDLDD
+Salernitana,Cosenza Calcio,1-2,/match/salernitana-calcio-1919/fortitudo-cosenza/2003,2003,36,serie_b,20,38,2,1,2,20,30,4,9,22,24,58,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLWW,4,5,8,18,24,19,41,9,6,20,26,46,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWWL,3,1,13,9,24,LLWWLLWLDLDWDDDLL,WLWWWWLWDWWWWWWLW
+Livorno,SSC Bari,2-2,/match/livorno/as-bari/2003,2003,36,serie_b,20,38,1,2,2,11,58,12,11,12,43,37,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWDL,8,7,2,29,17,13,56,10,16,9,35,34,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLWW,4,8,5,20,20,WWLWWWDWWDDDDDWLD,DDLDDDWWWLWDWDDLL
+Palermo FC,Hellas Verona,2-0,/match/palermo/hellas-verona-fc/2003,2003,37,serie_b,20,38,0,2,0,6,66,14,13,9,43,39,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWDWL,9,7,2,22,15,14,57,10,15,11,41,39,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDWDD,2,9,7,18,25,DWWDLWDDWWLWDWDDWW,DDWWWDDLWDLDWDWWDD
+Ancona,Venezia,2-1,/match/ancona/venezia/2003,2003,37,serie_b,20,38,0,2,1,4,69,15,12,9,50,38,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLWWW,11,5,2,32,18,17,48,10,12,14,35,46,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDLWW,5,6,7,16,22,DWDDDWWWLWWWWWWDLW,WLWDWLLDDWLWLDDWDW
+Vicenza ,Salernitana,2-2,/match/vicenza-calcio/salernitana-calcio-1919/2003,2003,37,serie_b,20,38,1,2,2,8,64,13,13,10,52,47,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLDDW,9,7,2,31,20,20,30,4,9,23,25,60,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLWWL,0,4,14,6,34,WDDLDDWDWWWWDWWWLD,WWWWWDWDWWWDDWWWWW
+Sampdoria,Messina,1-1,/match/sampdoria/messina/2003,2003,37,serie_b,20,38,1,1,1,1,79,17,15,4,51,27,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLDWD,13,4,1,33,12,12,59,10,14,12,49,52,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDWWD,2,5,11,16,27,WWWWDWDLWWWWWWDWDW,WWWDWLLDWWDDDWWWWW
+Catania,Livorno,3-2,/match/catania/livorno/2003,2003,37,serie_b,20,38,0,3,2,16,53,10,8,18,41,56,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWWWW,10,5,3,25,17,10,60,12,12,12,45,39,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWDLD,4,4,10,14,20,LWDWDWLWWWWDWDLDWW,WLWWLWWDLWDWDDWWWL
+SSC Bari,Cagliari,0-0,/match/as-bari/cagliari/2003,2003,37,serie_b,20,38,1,0,0,13,57,10,17,9,37,36,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLWWD,6,8,4,15,14,7,66,14,11,11,46,44,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLWWW,3,6,9,18,30,DWLDDLDDLDLWWDDWWW,WLWDDWWWWWWLDDDDLW
+Napoli,Ternana Calcio,1-0,/match/napoli/ternana-calcio/2003,2003,37,serie_b,20,38,0,1,0,15,54,9,14,13,40,48,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWWWW,7,8,3,21,15,9,63,14,12,10,44,35,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWDWW,6,5,7,22,21,DLDLLDDDWWWDDWDWWW,WLDLWDWLWWDDLDLLWW
+Siena,Ascoli,4-0,/match/siena/ascoli/2003,2003,37,serie_b,20,38,0,4,0,2,76,16,16,4,42,24,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWLDL,11,6,1,21,7,11,60,13,8,15,44,46,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLWWL,2,4,12,15,31,DWDWDWWDWWWWDWWLWD,LWDWWDWWDWWWWWWDLW
+Cosenza Calcio,Lecce,1-2,/match/fortitudo-cosenza/lecce/2003,2003,37,serie_b,20,38,2,1,2,19,43,10,6,20,28,47,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWWLL,6,5,7,17,22,3,71,13,18,5,41,32,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDWDW,4,9,5,19,20,LWLWDDLDDWLWLWLDWL,DWLDDDDDLWWWDLDLWD
+Triestina ,Genoa,1-0,/match/us-triestina-calcio/genoa/2003,2003,37,serie_b,20,38,0,1,0,5,67,15,9,12,51,44,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWWWD,13,2,3,37,19,18,47,8,12,16,44,50,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLDWL,2,5,11,19,28,WLWWWWWWWWLWDLDWWW,WWWLWWDDWWLWDWWDDW
+Lecce,Palermo FC,3-0,/match/lecce/palermo/2003,2003,38,serie_b,20,38,0,3,0,3,73,14,18,5,43,33,DWWWLWDDDDDDWDWDLDWDWWWDDWLWDDDLDWDWL,9,9,0,22,12,6,70,15,13,9,45,39,LDWWWWWLDLLWWDDWDDWWWLWWDDWDDLDDWDWLW,5,6,7,21,24,WWWDDWWDDDWDWWDDDW,LWWWLLWDWDWWDDLDDL
+Hellas Verona,SSC Bari,1-1,/match/hellas-verona-fc/as-bari/2003,2003,38,serie_b,20,38,1,1,1,15,57,10,15,12,41,41,DWLDWWDWWWDWDDLLWDDLLDWWLDDWWWWDDWDDW,8,6,4,23,14,13,59,10,18,9,37,36,DDWDLLDDDLDDDDWWLWDLLWWDWWDDDDLWLWWDD,4,9,5,22,22,WLWDWWDLDLWLDWWDWD,DDLDDDWWWLWDWDDLLD
+Livorno,Ancona,1-1,/match/livorno/ancona/2003,2003,38,serie_b,20,38,1,1,1,12,60,12,12,13,47,42,WWLWWWLLWWWWWDDWLWWDDDWDDDDDWWWLWDLDW,8,8,2,31,19,4,73,16,12,9,52,39,DDWDDDDDLWWWWDWWLLWLWLWWWDWWDWDDLWWWW,4,7,7,18,20,WWLWWWDWWDDDDDWLDD,DDDLWWDWLLLWDWDDWW
+Ternana Calcio,Vicenza ,1-1,/match/ternana-calcio/vicenza-calcio/2003,2003,38,serie_b,20,38,1,1,1,9,63,14,12,11,44,36,WWLLDWLDWWDDWLLWWDWDLWDWLDDWLDLDWDWWW,8,7,3,22,14,8,66,13,14,10,54,49,WLWDDDWLDWDLWDDDWLWLWWWDDWWWWDWWLDDWD,4,6,8,21,27,WLWDWDLWDLWWDWDDDW,LWDWWLDDLLWDWWDWDW
+Ascoli,Triestina ,2-2,/match/ascoli/us-triestina-calcio/2003,2003,38,serie_b,20,38,1,2,2,11,60,13,8,16,44,50,LLWDDWWWWDDWWDWWDWWWWWWLWDWWWWWDLWWLW,11,4,3,29,15,5,71,16,9,12,52,44,DWLWWDWDWDWWWLWDWDWLWWWWDWLLDWWWWWWDW,2,7,9,14,25,LDWWDWDWWWWLDWWWWL,DWDDDWLDDWWWWLWWWD
+Salernitana,Siena,1-1,/match/salernitana-calcio-1919/siena/2003,2003,38,serie_b,20,38,1,1,1,20,31,4,10,23,27,62,LWLWWWWWLWLDWWLDDLWWDWWDDDDWDWLWLWWLD,4,5,9,19,26,2,80,17,16,4,46,24,DWWWDWDDDLWDWDDLWWWDWDWDLDDWWDLDWLDLW,5,10,3,21,17,LLWWLLWLDLDWDDDLLL,WWDDLDDLWDDDLDDDLL
+Venezia,Sampdoria,3-1,/match/venezia/sampdoria/2003,2003,38,serie_b,20,38,0,3,1,17,48,10,12,15,36,48,WDLDDWLDWWLLLLDWDLWWLWWLDDDDDLWLDLWWW,5,6,7,19,24,1,81,17,16,4,52,28,WDWDWDWDDDLWWDLWWDWDWWWLWDWDDWLDLDWDD,4,11,3,18,15,DDDLWLLWLWWDDDLLLW,DDDDDLWWDDWLDDLLDD
+Messina,Napoli,1-1,/match/messina/napoli/2003,2003,38,serie_b,20,38,1,1,1,10,60,10,15,12,50,53,WWWDLWWDWWWLDLDWWDWDDDDDWWWWDWDWDWWDD,8,9,1,33,25,14,58,10,14,13,41,48,LDDLLDDLDLWDWDWWDDWWWWWDWDDWWDDWWWWWW,2,6,10,19,33,WDLWWWDWDDDWWDDDWD,LDLDDWWWWDWWWDWDWW
+Genoa,Cosenza Calcio,3-0,/match/genoa/fortitudo-cosenza/2003,2003,38,serie_b,20,38,0,3,0,18,47,8,12,17,44,51,WWWDWWLDDWWWDDDWWDWLLWWLDDWWWDLDLDWLW,6,7,5,25,22,19,43,10,6,21,29,49,LWWLWLWWDWDWLLDWDDWWLWWLWWWWLWDLWWLLL,4,1,13,11,25,WDWDDWDWDLWLDWLLDL,WLWWWWLWDWWWWWWLWL
+Cagliari,Catania,1-2,/match/cagliari/catania/2003,2003,38,serie_b,20,38,2,1,2,7,67,14,12,11,46,44,WWDLWWWWDDDLWWWWWWWWDWDLLDDDDWDWLWWWD,11,5,2,28,14,16,57,11,8,18,44,58,LWWDWDWWWDWWWLWWWWWWWWDWWDDLWDDWWWWWW,0,3,15,16,39,WDWWWDLWWWDDLDWWWW,WDWWWWWWWWWWDWDWWW

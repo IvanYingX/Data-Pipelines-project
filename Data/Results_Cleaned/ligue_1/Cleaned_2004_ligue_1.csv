@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Lille,Olympique Lyonnais,1-0,/match/lillestrom/olympique-lyonnais/2004,2004,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sochaux,Nantes,2-1,/match/sochaux/nantes/2004,2004,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-PSG,Bastia,0-0,/match/paris-saint-germain-fc/bastia/2004,2004,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Montpellier,Stade Rennais,1-1,/match/montpellier-hsc/stade-rennes/2004,2004,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Metz,Ajaccio,0-1,/match/metz/ajaccio/2004,2004,1,ligue_1,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Guingamp,Olympique,0-1,/match/guingamp/olympique-marsella/2004,2004,1,ligue_1,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Auxerre,Nice,1-2,/match/auxerre/nice/2004,2004,1,ligue_1,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Monaco,Girondins Bordeaux,2-0,/match/monaco/bordeaux/2004,2004,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Toulouse,Strasbourg,1-1,/match/toulouse-fc/strasbourg/2004,2004,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lens,Le Mans,0-0,/match/lens/mans-uc-72/2004,2004,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lille,PSG,1-0,/match/lillestrom/paris-saint-germain-fc/2004,2004,2,ligue_1,20,38,0,1,0,2,1,0,0,1,0,W,1,0,0,1,0,8,0,1,0,0,0,D,0,0,0,0,0,W,
-Stade Rennais,Toulouse,1-0,/match/stade-rennes/toulouse-fc/2004,2004,2,ligue_1,20,38,0,1,0,14,0,1,0,1,1,D,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
-Nice,Sochaux,1-0,/match/nice/sochaux/2004,2004,2,ligue_1,20,38,0,1,0,9,1,0,0,2,1,L,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
-Nantes,Lens,2-0,/match/nantes/lens/2004,2004,2,ligue_1,20,38,0,2,0,17,0,0,1,1,2,W,0,0,0,0,0,6,0,1,0,0,0,D,0,0,0,0,0,,
-Olympique Lyonnais,Monaco,3-1,/match/olympique-lyonnais/monaco/2004,2004,2,ligue_1,20,38,0,3,1,20,0,0,1,0,1,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
-Le Mans,Ajaccio,0-1,/match/mans-uc-72/ajaccio/2004,2004,2,ligue_1,20,38,2,0,1,11,0,1,0,0,0,D,0,0,0,0,0,10,1,0,0,1,0,L,1,0,0,1,0,,L
-Girondins Bordeaux,Montpellier,0-1,/match/bordeaux/montpellier-hsc/2004,2004,2,ligue_1,20,38,2,0,1,16,0,0,1,0,2,W,0,0,0,0,0,4,0,1,0,1,1,D,0,0,0,0,0,,
-Bastia,Metz,0-2,/match/bastia/metz/2004,2004,2,ligue_1,20,38,2,0,2,12,0,1,0,0,0,D,0,0,0,0,0,15,0,0,1,0,1,L,0,0,0,0,0,,
-Olympique,Auxerre,1-0,/match/olympique-marsella/auxerre/2004,2004,2,ligue_1,20,38,0,1,0,5,1,0,0,1,0,L,0,0,0,0,0,18,0,0,1,1,2,L,0,0,0,0,0,,
-Strasbourg,Guingamp,2-0,/match/strasbourg/guingamp/2004,2004,2,ligue_1,20,38,0,2,0,13,0,1,0,1,1,D,0,0,0,0,0,19,0,0,1,0,1,L,0,0,0,0,0,,
-Auxerre,Strasbourg,3-2,/match/auxerre/strasbourg/2004,2004,3,ligue_1,20,38,0,3,2,19,0,0,2,1,3,LW,0,0,1,1,2,5,1,1,0,3,1,DW,0,1,0,1,1,L,D
-Toulouse,Lille,0-3,/match/toulouse-fc/lillestrom/2004,2004,3,ligue_1,20,38,2,0,3,13,0,1,1,1,2,DW,0,1,0,1,1,1,2,0,0,2,0,WW,0,0,0,0,0,D,
-Sochaux,Stade Rennais,1-1,/match/sochaux/stade-rennes/2004,2004,3,ligue_1,20,38,1,1,1,6,1,0,1,2,2,WW,1,0,0,2,1,4,1,1,0,2,1,DW,0,1,0,1,1,W,D
-Montpellier,Olympique Lyonnais,0-2,/match/montpellier-hsc/olympique-lyonnais/2004,2004,3,ligue_1,20,38,2,0,2,10,1,1,0,2,1,DL,0,1,0,1,1,9,1,0,1,3,2,WW,0,0,1,0,1,D,W
-Monaco,Bastia,2-0,/match/monaco/bastia/2004,2004,3,ligue_1,20,38,0,2,0,11,1,0,1,3,3,WW,1,0,0,2,0,16,0,1,1,0,2,DL,0,1,0,0,0,W,D
-Metz,PSG,0-1,/match/metz/paris-saint-germain-fc/2004,2004,3,ligue_1,20,38,2,0,1,15,1,0,1,2,1,LL,0,0,1,0,1,12,0,1,1,0,1,DW,0,0,1,0,1,L,W
-Le Mans,Nice,1-1,/match/mans-uc-72/nice/2004,2004,3,ligue_1,20,38,1,1,1,17,0,1,1,0,1,DL,0,0,1,0,1,2,2,0,0,3,1,LW,1,0,0,2,1,L,L
-Guingamp,Girondins Bordeaux,1-3,/match/guingamp/bordeaux/2004,2004,3,ligue_1,20,38,2,1,3,20,0,0,2,0,3,LW,0,0,1,0,1,18,0,0,2,0,3,WL,0,0,1,0,2,L,W
-Ajaccio,Nantes,1-3,/match/ajaccio/nantes/2004,2004,3,ligue_1,20,38,2,1,3,8,2,0,0,2,0,LL,0,0,0,0,0,7,1,0,1,3,2,WW,0,0,1,1,2,,W
-Lens,Olympique,2-1,/match/lens/olympique-marsella/2004,2004,3,ligue_1,20,38,0,2,1,14,0,1,1,0,2,DW,0,1,0,0,0,3,2,0,0,2,0,LW,1,0,0,1,0,D,L
-Girondins Bordeaux,Auxerre,2-0,/match/bordeaux/auxerre/2004,2004,4,ligue_1,20,38,0,2,0,18,1,0,2,3,4,WLL,0,0,1,0,1,11,1,0,2,4,5,LWW,0,0,1,0,1,L,W
-Strasbourg,Lens,0-1,/match/strasbourg/lens/2004,2004,4,ligue_1,20,38,2,0,1,10,1,1,1,5,4,DWW,1,0,0,2,0,9,1,1,1,2,3,DWW,0,0,1,0,2,W,W
-Stade Rennais,Guingamp,0-0,/match/stade-rennes/guingamp/2004,2004,4,ligue_1,20,38,1,0,0,5,1,2,0,3,2,DWD,1,0,0,1,0,20,0,0,3,1,6,LWL,0,0,1,0,2,W,W
-Nice,Ajaccio,2-2,/match/nice/ajaccio/2004,2004,4,ligue_1,20,38,1,2,2,3,2,1,0,4,2,LWD,1,0,0,1,0,14,2,0,1,3,3,LLL,2,0,0,2,0,W,LL
-Nantes,Le Mans,1-0,/match/nantes/mans-uc-72/2004,2004,4,ligue_1,20,38,0,1,0,7,2,0,1,6,3,WWL,1,0,0,2,0,15,0,2,1,1,2,DLD,0,1,0,0,0,W,D
-Olympique,Sochaux,2-0,/match/olympique-marsella/sochaux/2004,2004,4,ligue_1,20,38,0,2,0,4,2,0,1,3,2,LWW,1,0,0,1,0,6,1,1,1,3,3,WWD,0,0,1,0,1,W,W
-Olympique Lyonnais,Toulouse,0-0,/match/olympique-lyonnais/toulouse-fc/2004,2004,4,ligue_1,20,38,1,0,0,8,2,0,1,5,2,WWL,1,0,0,3,1,16,0,1,2,1,5,DWL,0,0,1,0,1,W,W
-Lille,Metz,1-1,/match/lillestrom/metz/2004,2004,4,ligue_1,20,38,1,1,1,1,3,0,0,5,0,WWL,2,0,0,2,0,17,1,0,2,2,2,LLL,1,0,0,2,0,WW,L
-Bastia,Montpellier,1-0,/match/bastia/montpellier-hsc/2004,2004,4,ligue_1,20,38,0,1,0,19,0,1,2,0,4,DLW,0,0,1,0,2,13,1,1,1,2,3,DLL,1,0,0,1,0,L,L
-PSG,Monaco,2-4,/match/paris-saint-germain-fc/monaco/2004,2004,4,ligue_1,20,38,2,2,4,12,1,1,1,1,1,DWL,0,1,0,0,0,2,2,0,1,5,3,WWW,0,0,1,1,3,D,W
-Guingamp,Olympique Lyonnais,2-0,/match/guingamp/olympique-lyonnais/2004,2004,5,ligue_1,20,38,0,2,0,20,0,1,3,1,6,LWLD,0,0,2,1,4,7,2,1,1,5,2,WWLD,1,0,1,2,1,LL,WL
-Toulouse,Bastia,0-2,/match/toulouse-fc/bastia/2004,2004,5,ligue_1,20,38,2,0,2,18,0,2,2,1,5,DWLD,0,1,1,1,4,13,1,1,2,1,4,DLWW,0,1,1,0,2,DL,DW
-Sochaux,Lille,2-1,/match/sochaux/lillestrom/2004,2004,5,ligue_1,20,38,0,2,1,9,1,1,2,3,5,WWDW,1,1,0,3,2,1,3,1,0,6,1,WWLD,1,0,0,3,0,WD,L
-Nantes,Girondins Bordeaux,0-0,/match/nantes/bordeaux/2004,2004,5,ligue_1,20,38,1,0,0,3,3,0,1,7,3,WWLW,2,0,0,3,0,10,2,0,2,5,4,WLLW,1,0,1,3,3,WW,WL
-Montpellier,PSG,3-2,/match/montpellier-hsc/paris-saint-germain-fc/2004,2004,5,ligue_1,20,38,0,3,2,15,1,1,2,2,4,DLLW,0,1,1,1,3,16,1,1,2,3,5,DWLL,1,0,1,1,1,DL,WL
-Le Mans,Strasbourg,0-3,/match/mans-uc-72/strasbourg/2004,2004,5,ligue_1,20,38,2,0,3,17,0,2,2,1,3,DLDW,0,1,1,1,2,12,1,1,2,5,5,DWWL,0,1,1,3,4,LD,DW
-Auxerre,Stade Rennais,2-1,/match/auxerre/stade-rennes/2004,2004,5,ligue_1,20,38,0,2,1,14,1,0,3,4,7,LWWW,1,0,1,4,4,6,1,3,0,3,2,DWDD,0,2,0,2,2,LW,DD
-Lens,Nice,1-0,/match/lens/nice/2004,2004,5,ligue_1,20,38,0,1,0,8,2,1,1,3,3,DWWL,1,1,0,2,1,5,2,2,0,6,4,LWDD,1,1,0,3,2,DW,LD
-Monaco,Metz,1-0,/match/monaco/metz/2004,2004,5,ligue_1,20,38,0,1,0,4,3,0,1,9,5,WWWL,2,0,0,4,0,19,1,1,2,3,3,LLLD,1,1,0,3,1,WW,LD
-Ajaccio,Olympique,0-1,/match/ajaccio/olympique-marsella/2004,2004,5,ligue_1,20,38,2,0,1,11,2,1,1,5,5,LLLD,0,0,1,1,3,2,3,0,1,5,2,LWWW,1,0,1,2,2,L,LW
-Olympique Lyonnais,Auxerre,1-1,/match/olympique-lyonnais/auxerre/2004,2004,6,ligue_1,20,38,1,1,1,10,2,1,2,5,4,WWLDW,1,1,0,3,1,11,2,0,3,6,8,LWWWW,0,0,2,0,3,WD,WW
-Bastia,Guingamp,4-2,/match/bastia/guingamp/2004,2004,6,ligue_1,20,38,0,4,2,14,2,1,2,3,4,DLWWL,1,0,1,1,2,16,1,1,3,3,6,LWLDW,0,1,1,0,2,LW,WD
-Girondins Bordeaux,Sochaux,1-3,/match/bordeaux/sochaux/2004,2004,6,ligue_1,20,38,2,1,3,12,2,1,2,5,4,WLLWD,1,0,1,2,1,6,2,1,2,5,6,WWDWW,0,0,2,0,3,LW,WW
-Lille,Monaco,1-1,/match/lillestrom/monaco/2004,2004,6,ligue_1,20,38,1,1,1,2,3,1,1,7,3,WWLDW,2,1,0,3,1,1,4,0,1,10,5,WWWLW,1,0,1,5,5,WWD,WL
-Olympique,Le Mans,5-0,/match/olympique-marsella/mans-uc-72/2004,2004,6,ligue_1,20,38,0,5,0,5,4,0,1,6,2,LWWWL,2,0,0,3,0,18,0,2,3,1,6,DLDWL,0,1,1,0,1,WW,DW
-Strasbourg,Ajaccio,3-2,/match/strasbourg/ajaccio/2004,2004,6,ligue_1,20,38,0,3,2,13,2,1,2,8,5,DWWLL,1,0,1,2,1,15,2,1,2,5,6,LLLDL,2,1,0,4,2,WL,LLD
-Nice,Nantes,1-0,/match/nice/nantes/2004,2004,6,ligue_1,20,38,0,1,0,7,2,2,1,6,5,LWDDW,1,1,0,3,2,3,3,1,1,7,3,WWLWD,1,0,1,4,3,WD,WL
-Stade Rennais,Lens,2-0,/match/stade-rennes/lens/2004,2004,6,ligue_1,20,38,0,2,0,9,1,3,1,4,4,DWDDW,1,1,0,1,0,4,3,1,1,4,3,DWWLW,1,0,1,1,2,WD,WL
-Metz,Montpellier,2-1,/match/metz/montpellier-hsc/2004,2004,6,ligue_1,20,38,0,2,1,20,1,1,3,3,4,LLLDW,0,0,2,0,2,8,2,1,2,5,6,DLLWW,1,0,1,1,1,LL,LW
-PSG,Toulouse,2-1,/match/paris-saint-germain-fc/toulouse-fc/2004,2004,6,ligue_1,20,38,0,2,1,17,1,1,3,5,8,DWLLW,0,1,1,2,4,19,0,2,3,1,7,DWLDL,0,1,1,0,1,DL,WD
-Sochaux,Strasbourg,3-0,/match/sochaux/strasbourg/2004,2004,7,ligue_1,20,38,0,3,0,7,3,1,2,8,7,WWDWWL,2,1,0,5,3,9,3,1,2,11,7,DWWLLW,1,1,1,6,4,WDW,DWL
-Toulouse,Metz,1-0,/match/toulouse-fc/metz/2004,2004,7,ligue_1,20,38,0,1,0,20,0,2,4,2,9,DWLDLW,0,1,2,1,6,16,2,1,3,5,5,LLLDWW,1,1,1,3,2,DLL,LDW
-Nice,Lille,2-0,/match/nice/lillestrom/2004,2004,7,ligue_1,20,38,0,2,0,4,3,2,1,7,5,LWDDWW,2,1,0,4,2,3,3,2,1,8,4,WWLDWD,1,0,1,4,2,WDW,LW
-Lens,Girondins Bordeaux,1-0,/match/lens/bordeaux/2004,2004,7,ligue_1,20,38,0,1,0,6,3,1,2,4,5,DWWLWW,2,1,0,3,1,15,2,1,3,6,7,WLLWDL,1,1,1,3,3,DWW,WLD
-Guingamp,PSG,0-2,/match/guingamp/paris-saint-germain-fc/2004,2004,7,ligue_1,20,38,2,0,2,18,1,1,4,5,10,LWLDWW,1,0,2,3,4,14,2,1,3,7,9,DWLLWW,1,0,2,3,4,LLW,WLW
-Auxerre,Bastia,4-1,/match/auxerre/bastia/2004,2004,7,ligue_1,20,38,0,4,1,12,2,1,3,7,9,LWWWWD,2,0,1,6,5,10,3,1,2,7,6,DLWWLW,1,1,1,2,2,LWW,DWL
-Ajaccio,Stade Rennais,1-0,/match/ajaccio/stade-rennes/2004,2004,7,ligue_1,20,38,0,1,0,17,2,1,3,7,9,LLLDLW,0,0,2,1,4,8,2,3,1,6,4,DWDDWW,0,2,1,3,4,LL,DDW
-Nantes,Olympique,1-0,/match/nantes/olympique-marsella/2004,2004,7,ligue_1,20,38,0,1,0,5,3,1,2,7,4,WWLWDW,2,1,0,3,0,1,5,0,1,11,2,LWWWLW,2,0,1,3,2,WWD,LWL
-Le Mans,Olympique Lyonnais,0-2,/match/mans-uc-72/olympique-lyonnais/2004,2004,7,ligue_1,20,38,2,0,2,19,0,2,4,1,11,DLDWLW,0,1,2,1,5,11,2,2,2,6,5,WWLDWD,1,0,2,2,3,LDL,WLW
-Montpellier,Monaco,1-2,/match/montpellier-hsc/monaco/2004,2004,7,ligue_1,20,38,2,1,2,13,2,1,3,6,8,DLLWWW,1,1,1,4,5,2,4,1,1,11,6,WWWLWD,1,1,1,6,6,DLW,WLD
-Olympique Lyonnais,Lens,4-0,/match/olympique-lyonnais/lens/2004,2004,8,ligue_1,20,38,0,4,0,9,3,2,2,8,5,WWLDWDL,1,2,0,4,2,5,4,1,2,5,5,DWWLWWW,1,0,2,1,4,WDD,WLW
-Stade Rennais,Le Mans,2-0,/match/stade-rennes/mans-uc-72/2004,2004,8,ligue_1,20,38,0,2,0,10,2,3,2,6,5,DWDDWWW,2,1,0,3,0,20,0,2,5,1,13,DLDWLWL,0,1,2,0,6,WDW,DWW
-PSG,Auxerre,1-0,/match/paris-saint-germain-fc/auxerre/2004,2004,8,ligue_1,20,38,0,1,0,13,3,1,3,9,9,DWLLWWL,1,1,1,4,5,8,3,1,3,11,10,LWWWWDW,0,1,2,1,4,DLW,WWD
-Monaco,Toulouse,3-0,/match/monaco/toulouse-fc/2004,2004,8,ligue_1,20,38,0,3,0,1,5,1,1,13,7,WWWLWDL,3,0,0,5,0,18,1,2,4,3,9,DWLDLWW,0,1,2,1,3,WWW,WDW
-Metz,Guingamp,1-1,/match/metz/guingamp/2004,2004,8,ligue_1,20,38,1,1,1,17,2,1,4,5,6,LLLDWWW,1,0,2,2,3,19,1,1,5,5,12,LWLDWWL,0,1,2,2,6,LLW,WDW
-Olympique,Nice,2-1,/match/olympique-marsella/nice/2004,2004,8,ligue_1,20,38,0,2,1,3,5,0,2,11,3,LWWWLWW,3,0,0,8,0,2,4,2,1,9,5,LWDDWWW,1,1,1,3,3,WWW,LDW
-Lille,Montpellier,1-1,/match/lillestrom/montpellier-hsc/2004,2004,8,ligue_1,20,38,1,1,1,7,3,2,2,8,6,WWLDWDW,2,2,0,4,2,15,2,1,4,7,10,DLLWWWL,1,0,2,2,3,WWDD,LWW
-Bastia,Sochaux,2-0,/match/bastia/sochaux/2004,2004,8,ligue_1,20,38,0,2,0,11,3,1,3,8,10,DLWWLWW,2,0,1,5,4,6,4,1,2,11,7,WWDWWLW,1,0,2,3,4,LWW,WWL
-Girondins Bordeaux,Ajaccio,1-0,/match/bordeaux/ajaccio/2004,2004,8,ligue_1,20,38,0,1,0,16,2,1,4,6,8,WLLWDLW,1,0,2,3,4,14,3,1,3,8,9,LLLDLWW,2,1,1,6,5,LWL,LLDW
-Strasbourg,Nantes,1-0,/match/strasbourg/nantes/2004,2004,8,ligue_1,20,38,0,1,0,12,3,1,3,11,10,DWWLLWW,2,0,1,5,3,4,4,1,2,8,4,WWLWDWW,1,0,2,4,4,WLW,WLW
-Nantes,Stade Rennais,1-0,/match/nantes/stade-rennes/2004,2004,9,ligue_1,20,38,0,1,0,4,4,1,3,8,5,WWLWDWWW,3,1,0,4,0,9,3,3,2,8,5,DWDDWWWW,0,2,2,3,5,WWDW,DDWW
-Toulouse,Montpellier,2-2,/match/toulouse-fc/montpellier-hsc/2004,2004,9,ligue_1,20,38,1,2,2,18,1,2,5,3,12,DWLDLWWW,1,1,2,2,6,16,2,2,4,8,11,DLLWWWLD,1,1,2,3,4,DLLW,LWWD
-Sochaux,PSG,0-1,/match/sochaux/paris-saint-germain-fc/2004,2004,9,ligue_1,20,38,2,0,1,6,4,1,3,11,9,WWDWWLWW,3,1,0,8,3,12,4,1,3,10,9,DWLLWWLW,2,0,2,5,4,WDWW,WLWL
-Nice,Strasbourg,0-0,/match/nice/strasbourg/2004,2004,9,ligue_1,20,38,1,0,0,3,4,2,2,10,7,LWDDWWWW,3,1,0,6,2,10,4,1,3,12,10,DWWLLWWW,1,1,2,6,7,WDWW,DWLW
-Lens,Metz,0-2,/match/lens/metz/2004,2004,9,ligue_1,20,38,2,0,2,5,4,1,3,5,9,DWWLWWWW,3,1,0,4,1,17,2,2,4,6,7,LLLDWWWD,1,1,2,3,3,DWWW,LDWW
-Le Mans,Girondins Bordeaux,0-0,/match/mans-uc-72/bordeaux/2004,2004,9,ligue_1,20,38,1,0,0,20,0,2,6,1,15,DLDWLWLW,0,1,3,1,7,14,3,1,4,7,8,WLLWDLWW,1,1,2,3,4,LDLL,WLDW
-Guingamp,Monaco,1-2,/match/guingamp/monaco/2004,2004,9,ligue_1,20,38,2,1,2,19,1,2,5,6,13,LWLDWWLD,1,0,3,3,6,1,6,1,1,16,7,WWWLWDLW,2,1,1,8,7,LLWL,WLDL
-Auxerre,Lille,3-0,/match/auxerre/lillestrom/2004,2004,9,ligue_1,20,38,0,3,0,13,3,1,4,11,11,LWWWWDWW,3,0,1,10,6,7,3,3,2,9,7,WWLDWDWD,1,0,2,4,4,LWWW,LWW
-Ajaccio,Olympique Lyonnais,2-4,/match/ajaccio/olympique-lyonnais/2004,2004,9,ligue_1,20,38,2,2,4,15,3,1,4,8,10,LLLDLWWW,1,0,2,2,4,8,4,2,2,12,5,WWLDWDLW,2,0,2,4,3,LLW,WLWL
-Olympique,Bastia,3-1,/match/olympique-marsella/bastia/2004,2004,9,ligue_1,20,38,0,3,1,2,6,0,2,13,4,LWWWLWWW,4,0,0,10,1,11,4,1,3,10,10,DLWWLWWW,1,1,2,3,6,WWWW,DWLW
-Strasbourg,Olympique,4-1,/match/strasbourg/olympique-marsella/2004,2004,10,ligue_1,20,38,0,4,1,11,4,2,3,12,10,DWWLLWWWD,3,0,1,6,3,1,7,0,2,16,5,LWWWLWWWW,2,0,2,3,3,WLWW,LWLW
-PSG,Le Mans,5-1,/match/paris-saint-germain-fc/mans-uc-72/2004,2004,10,ligue_1,20,38,0,5,1,12,5,1,3,11,9,DWLLWWLWL,2,1,1,5,5,20,0,3,6,1,15,DLDWLWLWD,0,1,3,0,8,DLWW,DWWW
-Montpellier,Guingamp,2-0,/match/montpellier-hsc/guingamp/2004,2004,10,ligue_1,20,38,0,2,0,16,2,3,4,10,13,DLLWWWLDD,1,1,2,5,7,19,1,2,6,7,15,LWLDWWLDL,0,2,2,3,7,DLWL,WDWD
-Metz,Nantes,1-3,/match/metz/nantes/2004,2004,10,ligue_1,20,38,2,1,3,15,3,2,4,8,7,LLLDWWWDL,1,1,2,3,4,3,5,1,3,9,5,WWLWDWWWW,1,0,3,4,5,LLWD,WLWW
-Olympique Lyonnais,Sochaux,1-1,/match/olympique-lyonnais/sochaux/2004,2004,10,ligue_1,20,38,1,1,1,5,5,2,2,16,7,WWLDWDLWL,2,2,0,8,2,8,4,1,4,11,10,WWDWWLWWL,1,0,3,3,6,WDDW,WWLW
-Lille,Ajaccio,0-0,/match/lillestrom/ajaccio/2004,2004,10,ligue_1,20,38,1,0,0,9,3,3,3,9,10,WWLDWDWDW,2,3,0,5,3,17,3,1,5,10,14,LLLDLWWWL,2,1,2,6,6,WWDDD,LLDWW
-Girondins Bordeaux,Toulouse,1-2,/match/bordeaux/toulouse-fc/2004,2004,10,ligue_1,20,38,2,1,2,14,3,2,4,7,8,WLLWDLWWD,2,0,2,4,4,18,1,3,5,5,14,DWLDLWWWD,0,1,3,1,6,LWLW,WDWW
-Bastia,Lens,3-1,/match/bastia/lens/2004,2004,10,ligue_1,20,38,0,3,1,13,4,1,4,11,13,DLWWLWWWW,3,0,1,7,4,7,4,1,4,5,11,DWWLWWWWL,1,0,3,1,8,LWWW,WLWW
-Monaco,Auxerre,1-1,/match/monaco/auxerre/2004,2004,10,ligue_1,20,38,1,1,1,2,7,1,1,18,8,WWWLWDLWL,4,0,0,8,0,6,4,1,4,14,11,LWWWWDWWW,0,1,3,1,5,WWWW,WWDW
-Stade Rennais,Nice,0-0,/match/stade-rennes/nice/2004,2004,10,ligue_1,20,38,1,0,0,10,3,3,3,8,6,DWDDWWWWW,3,1,0,5,0,4,4,3,2,10,7,LWDDWWWWD,1,1,2,4,5,WDWW,LDWW
-Nantes,Olympique Lyonnais,0-1,/match/nantes/olympique-lyonnais/2004,2004,11,ligue_1,20,38,2,0,1,3,6,1,3,12,6,WWLWDWWWWL,4,1,0,5,0,6,5,3,2,17,8,WWLDWDLWLD,3,0,2,8,5,WWDWW,WLWLL
-Strasbourg,Metz,0-2,/match/strasbourg/metz/2004,2004,11,ligue_1,20,38,2,0,2,5,5,2,3,16,11,DWWLLWWWDW,4,0,1,10,4,16,3,2,5,9,10,LLLDWWWDLL,2,1,2,5,3,WLWWW,LDWWL
-Nice,Girondins Bordeaux,0-0,/match/nice/bordeaux/2004,2004,11,ligue_1,20,38,1,0,0,7,4,4,2,10,7,LWDDWWWWDD,3,2,0,6,2,15,3,2,5,8,10,WLLWDLWWDL,1,2,2,3,4,WDWWD,WLDWD
-Olympique,Stade Rennais,2-0,/match/olympique-marsella/stade-rennes/2004,2004,11,ligue_1,20,38,0,2,0,2,7,0,3,17,9,LWWWLWWWWW,5,0,0,13,2,11,3,4,3,8,6,DWDDWWWWWD,0,2,3,3,6,WWWWW,DDWWW
-Lens,Lille,2-1,/match/lens/lillestrom/2004,2004,11,ligue_1,20,38,0,2,1,13,4,1,5,6,14,DWWLWWWWLW,3,1,1,4,3,10,3,4,3,9,10,WWLDWDWDWD,1,0,3,4,7,DWWWL,LWWW
-Le Mans,Bastia,1-1,/match/mans-uc-72/bastia/2004,2004,11,ligue_1,20,38,1,1,1,20,0,3,7,2,20,DLDWLWLWDW,0,2,3,1,7,8,5,1,4,14,14,DLWWLWWWWW,1,1,3,4,9,LDLLD,DWLWW
-Guingamp,Toulouse,1-0,/match/guingamp/toulouse-fc/2004,2004,11,ligue_1,20,38,0,1,0,19,1,2,7,7,17,LWLDWWLDLW,1,0,4,4,8,17,2,3,5,7,15,DWLDLWWWDL,1,1,3,3,7,LLWLL,WDWWL
-Auxerre,Montpellier,0-1,/match/auxerre/montpellier-hsc/2004,2004,11,ligue_1,20,38,2,0,1,9,4,2,4,15,12,LWWWWDWWWD,4,0,1,13,6,14,3,3,4,12,13,DLLWWWLDDW,1,2,2,5,6,LWWWW,LWWDD
-Ajaccio,PSG,0-0,/match/ajaccio/paris-saint-germain-fc/2004,2004,11,ligue_1,20,38,1,0,0,18,3,2,5,10,14,LLLDLWWWLD,1,0,3,4,8,4,6,1,3,16,10,DWLLWWLWLW,3,0,2,6,4,LLWL,WLWLL
-Sochaux,Monaco,1-1,/match/sochaux/monaco/2004,2004,11,ligue_1,20,38,1,1,1,12,4,2,4,12,11,WWDWWLWWLD,3,1,1,8,4,1,7,2,1,19,9,WWWLWDLWLD,3,1,1,10,8,WDWWL,WLDLL
-Olympique Lyonnais,Nice,5-0,/match/olympique-lyonnais/nice/2004,2004,12,ligue_1,20,38,0,5,0,4,6,3,2,18,8,WWLDWDLWLDL,2,3,0,9,3,5,4,5,2,10,7,LWDDWWWWDDD,1,2,2,4,5,WDDWD,LDWWD
-Toulouse,Auxerre,0-3,/match/toulouse-fc/auxerre/2004,2004,12,ligue_1,20,38,2,0,3,18,2,3,6,7,16,DWLDLWWWDLW,1,2,2,4,8,13,4,2,5,15,13,LWWWWDWWWDL,0,2,3,2,6,DLLWD,WWDWD
-Stade Rennais,Strasbourg,1-1,/match/stade-rennes/strasbourg/2004,2004,12,ligue_1,20,38,1,1,1,11,3,4,4,8,8,DWDDWWWWWDW,3,2,0,5,0,7,5,2,4,16,13,DWWLLWWWDWL,1,2,2,6,7,WDWWD,DWLWD
-Montpellier,Nantes,4-1,/match/montpellier-hsc/nantes/2004,2004,12,ligue_1,20,38,0,4,1,14,4,3,4,13,13,DLLWWWLDDWL,2,1,2,7,7,3,6,1,4,12,7,WWLWDWWWWLL,2,0,3,7,6,DLWLW,WLWWL
-Monaco,Le Mans,4-2,/match/monaco/mans-uc-72/2004,2004,12,ligue_1,20,38,0,4,2,2,7,3,1,20,10,WWWLWDLWLDD,4,1,0,9,1,20,0,4,7,3,21,DLDWLWLWDWD,0,1,4,1,13,WWWWD,DWWWW
-Metz,Sochaux,0-1,/match/metz/sochaux/2004,2004,12,ligue_1,20,38,2,0,1,16,4,2,5,11,10,LLLDWWWDLLL,1,1,3,4,7,10,4,3,4,13,12,WWDWWLWWLDD,1,1,3,4,7,LLWDL,WWLWD
-Lille,Guingamp,1-3,/match/lillestrom/guingamp/2004,2004,12,ligue_1,20,38,2,1,3,12,3,4,4,10,12,WWLDWDWDWDW,2,4,0,5,3,19,2,2,7,8,17,LWLDWWLDLWW,0,2,3,3,9,WWDDDD,WDWDW
-Girondins Bordeaux,Olympique,1-0,/match/bordeaux/olympique-marsella/2004,2004,12,ligue_1,20,38,0,1,0,15,3,3,5,8,10,WLLWDLWWDLD,2,0,3,5,6,1,8,0,3,19,9,LWWWLWWWWWW,2,0,3,4,7,LWLWL,LWLWW
-Bastia,Ajaccio,1-1,/match/bastia/ajaccio/2004,2004,12,ligue_1,20,38,1,1,1,8,5,2,4,15,15,DLWWLWWWWWD,4,0,1,10,5,17,3,3,5,10,14,LLLDLWWWLDD,2,2,2,6,6,LWWWW,LLDWWD
-PSG,Lens,0-1,/match/paris-saint-germain-fc/lens/2004,2004,12,ligue_1,20,38,2,0,1,6,6,2,3,16,10,DWLLWWLWLWD,3,1,1,10,6,9,5,1,5,8,15,DWWLWWWWLWW,1,0,4,2,11,DLWWW,WLWWW
-Nice,Bastia,2-0,/match/nice/bastia/2004,2004,13,ligue_1,20,38,0,2,0,5,4,5,3,10,12,LWDDWWWWDDDW,3,3,0,6,2,6,5,3,4,16,16,DLWWLWWWWWDD,1,2,3,5,10,WDWWDD,DWLWWD
-Le Mans,Metz,2-0,/match/mans-uc-72/metz/2004,2004,13,ligue_1,20,38,0,2,0,20,0,4,8,5,25,DLDWLWLWDWDW,0,3,3,2,8,16,4,2,6,11,11,LLLDWWWDLLLL,3,1,2,7,3,LDLLDD,LDWWLL
-Nantes,PSG,0-1,/match/nantes/paris-saint-germain-fc/2004,2004,13,ligue_1,20,38,2,0,1,4,6,1,5,13,11,WWLWDWWWWLLW,4,1,1,5,1,8,6,2,4,16,11,DWLLWWLWLWDL,3,1,2,6,4,WWDWWL,WLWLLD
-Stade Rennais,Lille,2-2,/match/stade-rennes/lillestrom/2004,2004,13,ligue_1,20,38,1,2,2,13,3,5,4,9,9,DWDDWWWWWDWD,3,3,0,6,1,14,3,4,5,11,15,WWLDWDWDWDWL,1,0,4,5,9,WDWWDD,LWWWW
-Strasbourg,Girondins Bordeaux,1-1,/match/strasbourg/bordeaux/2004,2004,13,ligue_1,20,38,1,1,1,9,5,3,4,17,14,DWWLLWWWDWLD,4,0,2,10,6,15,4,3,5,9,10,WLLWDLWWDLDW,1,3,2,3,4,WLWWWL,WLDWDD
-Sochaux,Toulouse,3-1,/match/sochaux/toulouse-fc/2004,2004,13,ligue_1,20,38,0,3,1,10,5,3,4,14,12,WWDWWLWWLDDL,3,2,1,9,5,19,2,3,7,7,19,DWLDLWWWDLWL,1,1,4,3,8,WDWWLD,WDWWLW
-Lens,Montpellier,3-2,/match/lens/montpellier-hsc/2004,2004,13,ligue_1,20,38,0,3,2,7,6,1,5,9,15,DWWLWWWWLWWL,4,1,1,6,4,12,5,3,4,17,14,DLLWWWLDDWLW,2,2,2,6,6,DWWWLW,LWWDDL
-Auxerre,Guingamp,3-0,/match/auxerre/guingamp/2004,2004,13,ligue_1,20,38,0,3,0,11,5,2,5,18,13,LWWWWDWWWDLL,4,0,2,13,7,18,3,2,7,11,18,LWLDWWLDLWWL,1,2,3,6,10,LWWWWL,WDWDWL
-Ajaccio,Monaco,0-1,/match/ajaccio/monaco/2004,2004,13,ligue_1,20,38,2,0,1,17,3,4,5,11,15,LLLDLWWWLDDD,1,1,3,4,8,1,8,3,1,24,12,WWWLWDLWLDDW,3,2,1,11,9,LLWLD,WLDLLD
-Olympique,Olympique Lyonnais,1-4,/match/olympique-marsella/olympique-lyonnais/2004,2004,13,ligue_1,20,38,2,1,4,2,8,0,4,19,10,LWWWLWWWWWWW,6,0,0,15,2,3,7,3,2,23,8,WWLDWDLWLDLW,4,0,2,9,5,WWWWWW,WLWLLL
-Olympique Lyonnais,Strasbourg,1-0,/match/olympique-lyonnais/strasbourg/2004,2004,14,ligue_1,20,38,0,1,0,2,8,3,2,27,9,WWLDWDLWLDLWL,3,3,0,14,3,9,5,4,4,18,15,DWWLLWWWDWLDD,1,3,2,7,8,WDDWDW,DWLWDD
-Toulouse,Le Mans,1-1,/match/toulouse-fc/mans-uc-72/2004,2004,14,ligue_1,20,38,1,1,1,19,2,3,8,8,22,DWLDLWWWDLWLW,1,2,3,4,11,20,1,4,8,7,25,DLDWLWLWDWDWW,0,1,5,3,17,DLLWDL,DWWWWW
-Montpellier,Ajaccio,3-1,/match/montpellier-hsc/ajaccio/2004,2004,14,ligue_1,20,38,0,3,1,13,5,3,5,19,17,DLLWWWLDDWLWW,3,1,2,11,8,17,3,4,6,11,16,LLLDLWWWLDDDL,2,3,2,7,7,DLWLWW,LLDWWDD
-Metz,Auxerre,0-2,/match/metz/auxerre/2004,2004,14,ligue_1,20,38,2,0,2,16,4,2,7,11,13,LLLDWWWDLLLLW,1,1,4,4,8,7,6,2,5,21,13,LWWWWDWWWDLLW,1,2,3,5,6,LLWDLL,WWDWDL
-Lille,Olympique,0-2,/match/lillestrom/olympique-marsella/2004,2004,14,ligue_1,20,38,2,0,2,14,3,5,5,13,17,WWLDWDWDWDWLD,2,4,1,6,6,3,8,0,5,20,14,LWWWLWWWWWWWL,2,0,4,4,8,WWDDDDL,LWLWWW
-Guingamp,Sochaux,1-2,/match/guingamp/sochaux/2004,2004,14,ligue_1,20,38,2,1,2,18,3,2,8,11,21,LWLDWWLDLWWLW,2,0,4,5,8,6,6,3,4,17,13,WWDWWLWWLDDLW,2,1,3,5,7,LLWLLW,WWLWDL
-Girondins Bordeaux,Stade Rennais,2-1,/match/bordeaux/stade-rennes/2004,2004,14,ligue_1,20,38,0,2,1,15,4,4,5,10,11,WLLWDLWWDLDWD,3,0,3,6,6,12,3,6,4,11,11,DWDDWWWWWDWDD,0,2,4,3,8,LWLWLW,DDWWWW
-Bastia,Nantes,1-3,/match/bastia/nantes/2004,2004,14,ligue_1,20,38,2,1,3,10,5,3,5,16,18,DLWWLWWWWWDDW,4,1,1,11,6,11,6,1,6,13,12,WWLWDWWWWLLWL,2,0,4,8,10,LWWWWD,WLWWLW
-Monaco,Lens,2-0,/match/monaco/lens/2004,2004,14,ligue_1,20,38,0,2,0,1,9,3,1,25,12,WWWLWDLWLDDWL,5,1,0,13,3,4,7,1,5,12,17,DWWLWWWWLWWLW,2,0,4,3,11,WWWWDW,WLWWWL
-PSG,Nice,0-0,/match/paris-saint-germain-fc/nice/2004,2004,14,ligue_1,20,38,1,0,0,8,7,2,4,17,11,DWLLWWLWLWDLL,3,1,2,10,7,5,5,5,3,12,12,LWDDWWWWDDDWW,1,2,3,4,10,DLWWWL,LDWWDW
-Stade Rennais,Olympique Lyonnais,3-1,/match/stade-rennes/olympique-lyonnais/2004,2004,15,ligue_1,20,38,0,3,1,13,3,6,5,12,13,DWDDWWWWWDWDDW,3,4,0,8,3,2,9,3,2,28,9,WWLDWDLWLDLWLW,5,0,2,13,6,WDWWDDD,WLWLLLL
-Strasbourg,Lille,2-2,/match/strasbourg/lillestrom/2004,2004,15,ligue_1,20,38,1,2,2,11,5,4,5,18,16,DWWLLWWWDWLDDW,4,1,2,11,7,15,3,5,6,13,19,WWLDWDWDWDWLDL,1,1,4,7,11,WLWWWLD,LWWWWD
-Nice,Metz,1-1,/match/nice/metz/2004,2004,15,ligue_1,20,38,1,1,1,4,5,6,3,12,12,LWDDWWWWDDDWWD,4,3,0,8,2,16,4,2,8,11,15,LLLDWWWDLLLLWL,3,1,3,7,5,WDWWDDW,LDWWLLW
-Nantes,Monaco,0-1,/match/nantes/monaco/2004,2004,15,ligue_1,20,38,2,0,1,10,7,1,6,16,13,WWLWDWWWWLLWLL,4,1,2,5,2,1,10,3,1,27,12,WWWLWDLWLDDWLW,4,2,1,12,9,WWDWWLL,WLDLLDL
-Le Mans,Montpellier,4-0,/match/mans-uc-72/montpellier-hsc/2004,2004,15,ligue_1,20,38,0,4,0,20,1,5,8,8,26,DLDWLWLWDWDWWD,1,3,3,4,8,9,6,3,5,22,18,DLLWWWLDDWLWWW,2,2,3,8,9,LDLLDDW,LWWDDLW
-Ajaccio,Toulouse,2-1,/match/ajaccio/toulouse-fc/2004,2004,15,ligue_1,20,38,0,2,1,17,3,4,7,12,19,LLLDLWWWLDDDLW,1,1,4,4,9,18,2,4,8,9,23,DWLDLWWWDLWLWD,1,1,5,4,11,LLWLDL,WDWWLWW
-Girondins Bordeaux,Bastia,1-1,/match/bordeaux/bastia/2004,2004,15,ligue_1,20,38,1,1,1,14,5,4,5,12,12,WLLWDLWWDLDWDW,4,0,3,8,7,12,5,3,6,17,21,DLWWLWWWWWDDWL,1,2,4,5,12,LWLWLWW,DWLWWDW
-Lens,Guingamp,2-1,/match/lens/guingamp/2004,2004,15,ligue_1,20,38,0,2,1,6,7,1,6,12,19,DWWLWWWWLWWLWW,5,1,1,9,6,19,3,2,9,12,23,LWLDWWLDLWWLWL,1,2,4,6,13,DWWWLWW,WDWDWLW
-Sochaux,Auxerre,3-2,/match/sochaux/auxerre/2004,2004,15,ligue_1,20,38,0,3,2,5,7,3,4,19,14,WWDWWLWWLDDLWL,4,2,1,12,6,7,7,2,5,23,13,LWWWWDWWWDLLWL,2,2,3,7,6,WDWWLDW,WWDWDLL
-Olympique,PSG,0-1,/match/olympique-marsella/paris-saint-germain-fc/2004,2004,15,ligue_1,20,38,2,0,1,3,9,0,5,22,14,LWWWLWWWWWWWLL,6,0,1,16,6,8,7,3,4,17,11,DWLLWWLWLWDLLD,4,1,2,7,4,WWWWWWL,WLWLLDL
-Auxerre,Le Mans,1-0,/match/auxerre/mans-uc-72/2004,2004,16,ligue_1,20,38,0,1,0,8,7,2,6,25,16,LWWWWDWWWDLLWLW,5,0,2,16,7,17,2,5,8,12,26,DLDWLWLWDWDWWDW,0,2,5,4,18,LWWWWLW,DWWWWWD
-PSG,Strasbourg,3-2,/match/paris-saint-germain-fc/strasbourg/2004,2004,16,ligue_1,20,38,0,3,2,7,8,3,4,18,11,DWLLWWLWLWDLLDL,3,2,2,10,7,10,5,5,5,20,18,DWWLLWWWDWLDDWD,1,3,3,7,9,DLWWWLD,DWLWDDW
-Toulouse,Lens,1-2,/match/toulouse-fc/lens/2004,2004,16,ligue_1,20,38,2,1,2,19,2,4,9,10,25,DWLDLWWWDLWLWDW,1,3,3,5,12,5,8,1,6,14,20,DWWLWWWWLWWLWWW,2,0,5,3,13,DLLWDLD,WLWWWLW
-Lille,Nantes,2-0,/match/lillestrom/nantes/2004,2004,16,ligue_1,20,38,0,2,0,15,3,6,6,15,21,WWLDWDWDWDWLDLD,2,4,2,6,8,11,7,1,7,16,14,WWLWDWWWWLLWLLL,3,0,4,11,11,WWDDDDLL,WLWWLWL
-Guingamp,Ajaccio,2-0,/match/guingamp/ajaccio/2004,2004,16,ligue_1,20,38,0,2,0,20,3,2,10,13,25,LWLDWWLDLWWLWLW,2,0,5,6,10,16,4,4,7,14,20,LLLDLWWWLDDDLWW,2,3,3,8,10,LLWLLWL,LLDWWDDW
-Bastia,Stade Rennais,3-2,/match/bastia/stade-rennes/2004,2004,16,ligue_1,20,38,0,3,2,14,5,4,6,18,22,DLWWLWWWWWDDWLD,4,1,2,12,9,9,4,6,5,15,14,DWDDWWWWWDWDDWW,0,2,5,4,10,LWWWWDL,DDWWWWW
-Monaco,Nice,1-1,/match/monaco/nice/2004,2004,16,ligue_1,20,38,1,1,1,1,11,3,1,28,12,WWWLWDLWLDDWLWL,6,1,0,15,3,6,5,7,3,13,13,LWDDWWWWDDDWWDD,1,3,3,4,10,WWWWDWW,LDWWDWD
-Montpellier,Sochaux,1-3,/match/montpellier-hsc/sochaux/2004,2004,16,ligue_1,20,38,2,1,3,12,6,3,6,22,22,DLLWWWLDDWLWWWW,4,1,2,14,9,3,8,3,4,22,16,WWDWWLWWLDDLWLW,3,1,3,7,8,DLWLWWW,WWLWDLL
-Metz,Olympique,1-1,/match/metz/olympique-marsella/2004,2004,16,ligue_1,20,38,1,1,1,18,4,3,8,12,16,LLLDWWWDLLLLWLD,1,1,5,4,10,4,9,0,6,22,15,LWWWLWWWWWWWLLL,3,0,4,6,8,LLWDLLL,LWLWWWL
-Olympique Lyonnais,Girondins Bordeaux,3-0,/match/olympique-lyonnais/bordeaux/2004,2004,16,ligue_1,20,38,0,3,0,2,9,3,3,29,12,WWLDWDLWLDLWLWW,4,3,0,15,3,13,5,5,5,13,13,WLLWDLWWDLDWDWD,1,4,2,4,5,WDDWDWW,WLDWDDD
-Olympique Lyonnais,Metz,2-1,/match/olympique-lyonnais/metz/2004,2004,17,ligue_1,20,38,0,2,1,2,10,3,3,32,12,WWLDWDLWLDLWLWWW,5,3,0,18,3,18,4,4,8,13,17,LLLDWWWDLLLLWLDD,3,2,3,8,6,WDDWDWWW,LDWWLLWD
-Olympique,Monaco,1-2,/match/olympique-marsella/monaco/2004,2004,17,ligue_1,20,38,2,1,2,5,9,1,6,23,16,LWWWLWWWWWWWLLLD,6,0,2,16,7,1,11,4,1,29,13,WWWLWDLWLDDWLWLD,5,2,1,13,9,WWWWWWLL,WLDLLDLL
-Strasbourg,Bastia,4-2,/match/strasbourg/bastia/2004,2004,17,ligue_1,20,38,0,4,2,11,5,5,6,22,21,DWWLLWWWDWLDDWDW,4,2,2,13,9,9,6,4,6,21,24,DLWWLWWWWWDDWLDW,1,3,4,6,13,WLWWWLDD,DWLWWDWD
-Stade Rennais,PSG,1-1,/match/stade-rennes/paris-saint-germain-fc/2004,2004,17,ligue_1,20,38,1,1,1,10,4,6,6,17,17,DWDDWWWWWDWDDWWW,4,4,0,11,4,6,9,3,4,21,13,DWLLWWLWLWDLLDLW,5,1,2,8,4,WDWWDDDW,WLWLLDLL
-Nantes,Toulouse,1-1,/match/nantes/toulouse-fc/2004,2004,17,ligue_1,20,38,1,1,1,13,7,1,8,16,16,WWLWDWWWWLLWLLLW,4,1,3,5,3,20,2,4,10,11,27,DWLDLWWWDLWLWDWL,1,1,6,5,13,WWDWWLLL,WDWWLWWW
-Girondins Bordeaux,Lille,2-1,/match/bordeaux/lillestrom/2004,2004,17,ligue_1,20,38,0,2,1,14,5,5,6,13,16,WLLWDLWWDLDWDWDW,4,1,3,9,8,12,4,6,6,17,21,WWLDWDWDWDWLDLDW,1,2,4,9,13,LWLWLWWD,LWWWWDD
-Ajaccio,Auxerre,1-2,/match/ajaccio/auxerre/2004,2004,17,ligue_1,20,38,2,1,2,16,4,4,8,14,22,LLLDLWWWLDDDLWWW,2,1,4,6,10,8,8,2,6,26,16,LWWWWDWWWDLLWLWW,2,2,4,9,9,LLWLDLW,WWDWDLLW
-Lens,Sochaux,0-3,/match/lens/sochaux/2004,2004,17,ligue_1,20,38,2,0,3,4,9,1,6,16,21,DWWLWWWWLWWLWWWL,6,1,1,11,7,3,9,3,4,25,17,WWDWWLWWLDDLWLWL,4,1,3,10,9,DWWWLWWW,WWLWDLLL
-Nice,Montpellier,2-1,/match/nice/montpellier-hsc/2004,2004,17,ligue_1,20,38,0,2,1,7,5,8,3,14,14,LWDDWWWWDDDWWDDD,4,4,0,9,3,15,6,3,7,23,25,DLLWWWLDDWLWWWWL,2,2,4,8,13,WDWWDDWD,LWWDDLWW
-Le Mans,Guingamp,2-0,/match/mans-uc-72/guingamp/2004,2004,17,ligue_1,20,38,0,2,0,17,2,5,9,12,27,DLDWLWLWDWDWWDWW,2,3,3,8,8,19,4,2,10,15,25,LWLDWWLDLWWLWLWW,1,2,5,7,15,LDLLDDWW,WDWDWLWW
-PSG,Girondins Bordeaux,2-1,/match/paris-saint-germain-fc/bordeaux/2004,2004,18,ligue_1,20,38,0,2,1,6,9,4,4,22,14,DWLLWWLWLWDLLDLWD,4,2,2,13,9,11,6,5,6,15,17,WLLWDLWWDLDWDWDWW,1,4,3,4,8,DLWWWLDW,WLDWDDDW
-Toulouse,Nice,1-1,/match/toulouse-fc/nice/2004,2004,18,ligue_1,20,38,1,1,1,20,2,5,10,12,28,DWLDLWWWDLWLWDWLD,1,3,4,6,14,4,6,8,3,16,15,LWDDWWWWDDDWWDDDW,1,4,3,5,11,DLLWDLDL,LDWWDWDD
-Sochaux,Ajaccio,2-0,/match/sochaux/ajaccio/2004,2004,18,ligue_1,20,38,0,2,0,3,10,3,4,28,17,WWDWWLWWLDDLWLWLL,5,2,1,15,8,17,4,4,9,15,24,LLLDLWWWLDDDLWWWL,2,3,4,8,12,WDWWLDWW,LLDWWDDWW
-Metz,Stade Rennais,1-1,/match/metz/stade-rennes/2004,2004,18,ligue_1,20,38,1,1,1,18,4,4,9,14,19,LLLDWWWDLLLLWLDDW,1,2,5,5,11,10,4,7,6,18,18,DWDDWWWWWDWDDWWWD,0,2,6,6,13,LLWDLLLD,DDWWWWWW
-Lille,Le Mans,1-1,/match/lillestrom/mans-uc-72/2004,2004,18,ligue_1,20,38,1,1,1,14,4,6,7,18,23,WWLDWDWDWDWLDLDWW,3,4,2,8,8,16,3,5,9,14,27,DLDWLWLWDWDWWDWWW,0,2,6,4,19,WWDDDDLLW,DWWWWWDW
-Guingamp,Nantes,1-1,/match/guingamp/nantes/2004,2004,18,ligue_1,20,38,1,1,1,19,4,2,11,15,27,LWLDWWLDLWWLWLWWW,3,0,5,8,10,13,7,2,8,17,17,WWLWDWWWWLLWLLLWD,3,0,5,11,13,LLWLLWLW,WLWWLWLW
-Bastia,Olympique Lyonnais,0-0,/match/bastia/olympique-lyonnais/2004,2004,18,ligue_1,20,38,1,0,0,12,6,4,7,23,28,DLWWLWWWWWDDWLDWW,5,1,2,15,11,2,11,3,3,34,13,WWLDWDLWLDLWLWWWW,5,0,3,14,9,LWWWWDLW,WLWLLLLW
-Auxerre,Lens,2-0,/match/auxerre/lens/2004,2004,18,ligue_1,20,38,0,2,0,7,9,2,6,28,17,LWWWWDWWWDLLWLWWL,6,0,2,17,7,5,9,1,7,16,24,DWWLWWWWLWWLWWWLL,3,0,5,5,14,LWWWWLWW,WLWWWLWL
-Monaco,Strasbourg,2-0,/match/monaco/strasbourg/2004,2004,18,ligue_1,20,38,0,2,0,1,12,4,1,31,14,WWWLWDLWLDDWLWLDL,6,2,0,16,4,9,6,5,6,26,23,DWWLLWWWDWLDDWDWW,1,3,4,9,12,WWWWDWWD,DWLWDDWW
-Montpellier,Olympique,0-1,/match/montpellier-hsc/olympique-marsella/2004,2004,18,ligue_1,20,38,2,0,1,15,6,3,8,24,27,DLLWWWLDDWLWWWWLW,4,1,3,15,12,8,9,1,7,24,18,LWWWLWWWWWWWLLLDL,3,1,4,7,9,DLWLWWWL,LWLWWWLD
-Olympique Lyonnais,PSG,1-1,/match/olympique-lyonnais/paris-saint-germain-fc/2004,2004,19,ligue_1,20,38,1,1,1,2,11,4,3,34,13,WWLDWDLWLDLWLWWWWD,6,3,0,20,4,4,10,4,4,24,15,DWLLWWLWLWDLLDLWDW,5,2,2,9,5,WDDWDWWWW,WLWLLDLLD
-Stade Rennais,Monaco,1-0,/match/stade-rennes/monaco/2004,2004,19,ligue_1,20,38,0,1,0,11,4,8,6,19,19,DWDDWWWWWDWDDWWWDD,4,5,0,12,5,1,13,4,1,33,14,WWWLWDLWLDDWLWLDLW,6,2,1,15,10,WDWWDDDWD,WLDLLDLLL
-Nice,Guingamp,2-0,/match/nice/guingamp/2004,2004,19,ligue_1,20,38,0,2,0,6,6,9,3,17,16,LWDDWWWWDDDWWDDDWD,5,4,0,11,4,18,4,3,11,16,28,LWLDWWLDLWWLWLWWWD,1,2,6,7,17,WDWWDDWDW,WDWDWLWWW
-Nantes,Auxerre,1-0,/match/nantes/auxerre/2004,2004,19,ligue_1,20,38,0,1,0,13,7,3,8,18,18,WWLWDWWWWLLWLLLWDD,4,2,3,6,4,5,10,2,6,30,17,LWWWWDWWWDLLWLWWLW,3,2,4,11,10,WWDWWLLLD,WWDWDLLWL
-Le Mans,Sochaux,2-2,/match/mans-uc-72/sochaux/2004,2004,19,ligue_1,20,38,1,2,2,16,3,6,9,15,28,DLDWLWLWDWDWWDWWWD,3,3,3,10,8,3,11,3,4,30,17,WWDWWLWWLDDLWLWLLW,5,1,3,13,9,LDLLDDWWW,WWLWDLLLL
-Girondins Bordeaux,Metz,2-0,/match/bordeaux/metz/2004,2004,19,ligue_1,20,38,0,2,0,12,6,5,7,16,19,WLLWDLWWDLDWDWDWWW,5,1,3,11,9,17,4,5,9,15,20,LLLDWWWDLLLLWLDDWD,3,2,4,9,8,LWLWLWWDW,LDWWLLWDW
-Bastia,Lille,0-2,/match/bastia/lillestrom/2004,2004,19,ligue_1,20,38,2,0,2,9,6,5,7,23,28,DLWWLWWWWWDDWLDWWD,5,2,2,15,11,14,4,7,7,19,24,WWLDWDWDWDWLDLDWWD,1,2,5,10,15,LWWWWDLWD,LWWWWDDW
-Ajaccio,Lens,2-0,/match/ajaccio/lens/2004,2004,19,ligue_1,20,38,0,2,0,19,4,4,10,15,26,LLLDLWWWLDDDLWWWLW,2,1,5,7,12,8,9,1,8,16,26,DWWLWWWWLWWLWWWLLW,3,0,6,5,16,LLWLDLWL,WLWWWLWLW
-Olympique,Toulouse,1-0,/match/olympique-marsella/toulouse-fc/2004,2004,19,ligue_1,20,38,0,1,0,7,10,1,7,25,18,LWWWLWWWWWWWLLLDLL,6,0,3,17,9,20,2,6,10,13,29,DWLDLWWWDLWLWDWLDD,1,2,6,6,14,WWWWWWLLL,WDWWLWWWD
-Strasbourg,Montpellier,4-2,/match/strasbourg/montpellier-hsc/2004,2004,19,ligue_1,20,38,0,4,2,10,6,5,7,26,25,DWWLLWWWDWLDDWDWWW,5,2,2,17,11,15,6,3,9,24,28,DLLWWWLDDWLWWWWLWL,2,2,5,9,15,WLWWWLDDW,LWWDDLWWW
-Monaco,Olympique Lyonnais,3-0,/match/monaco/olympique-lyonnais/2004,2004,20,ligue_1,20,38,0,3,0,1,13,4,2,33,15,WWWLWDLWLDDWLWLDLWW,7,2,0,18,4,2,11,5,3,35,14,WWLDWDLWLDLWLWWWWDD,5,1,3,14,9,WWWWDWWDW,WLWLLLLWD
-Sochaux,Nice,0-0,/match/sochaux/nice/2004,2004,20,ligue_1,20,38,1,0,0,3,11,4,4,32,19,WWDWWLWWLDDLWLWLLWD,6,2,1,17,8,4,7,9,3,19,16,LWDDWWWWDDDWWDDDWDW,1,5,3,6,12,WDWWLDWWW,LDWWDWDDD
-Montpellier,Girondins Bordeaux,1-2,/match/montpellier-hsc/bordeaux/2004,2004,20,ligue_1,20,38,2,1,2,15,6,3,10,26,32,DLLWWWLDDWLWWWWLWLW,4,1,4,15,13,11,7,5,7,18,19,WLLWDLWWDLDWDWDWWWW,1,4,4,5,10,DLWLWWWLL,WLDWDDDWW
-Metz,Bastia,1-0,/match/metz/bastia/2004,2004,20,ligue_1,20,38,0,1,0,18,4,5,10,15,22,LLLDWWWDLLLLWLDDWDW,1,3,5,6,12,13,6,5,8,23,30,DLWWLWWWWWDDWLDWWDL,1,3,5,8,17,LLWDLLLDD,DWLWWDWDW
-Lens,Nantes,0-0,/match/lens/nantes/2004,2004,20,ligue_1,20,38,1,0,0,10,9,1,9,16,28,DWWLWWWWLWWLWWWLLWW,6,1,2,11,10,12,8,3,8,19,18,WWLWDWWWWLLWLLLWDDW,3,1,5,12,14,DWWWLWWWL,WLWWLWLWD
-Guingamp,Strasbourg,3-2,/match/guingamp/strasbourg/2004,2004,20,ligue_1,20,38,0,3,2,19,4,3,12,16,30,LWLDWWLDLWWLWLWWWDW,3,1,5,9,11,8,7,5,7,30,27,DWWLLWWWDWLDDWDWWWW,1,3,5,9,14,LLWLLWLWD,DWLWDDWWW
-Auxerre,Olympique,2-0,/match/auxerre/olympique-marsella/2004,2004,20,ligue_1,20,38,0,2,0,7,10,2,7,30,18,LWWWWDWWWDLLWLWWLWW,7,0,2,19,7,6,11,1,7,26,18,LWWWLWWWWWWWLLLDLLW,4,1,4,8,9,LWWWWLWWW,LWLWWWLDL
-Ajaccio,Le Mans,2-0,/match/ajaccio/mans-uc-72/2004,2004,20,ligue_1,20,38,0,2,0,17,5,4,10,17,26,LLLDLWWWLDDDLWWWLWW,3,1,5,9,12,16,3,7,9,17,30,DLDWLWLWDWDWWDWWWDD,0,3,6,5,20,LLWLDLWLW,DWWWWWDWD
-PSG,Lille,1-0,/match/paris-saint-germain-fc/lillestrom/2004,2004,20,ligue_1,20,38,0,1,0,5,10,5,4,25,16,DWLLWWLWLWDLLDLWDWD,5,2,2,15,10,14,5,7,7,21,24,WWLDWDWDWDWLDLDWWDL,2,2,5,12,15,DLWWWLDWW,LWWWWDDWL
-Toulouse,Stade Rennais,2-0,/match/toulouse-fc/stade-rennes/2004,2004,20,ligue_1,20,38,0,2,0,20,2,6,11,13,30,DWLDLWWWDLWLWDWLDDW,1,4,4,7,15,9,5,8,6,20,19,DWDDWWWWWDWDDWWWDDW,0,3,6,7,14,DLLWDLDLD,DDWWWWWWD
-Bastia,Monaco,0-0,/match/bastia/monaco/2004,2004,21,ligue_1,20,38,1,0,0,13,6,5,9,23,31,DLWWLWWWWWDDWLDWWDLW,5,2,3,15,13,1,14,4,2,36,15,WWWLWDLWLDDWLWLDLWWW,6,2,2,15,11,LWWWWDLWDL,WLDLLDLLLW
-Strasbourg,Auxerre,0-2,/match/strasbourg/auxerre/2004,2004,21,ligue_1,20,38,2,0,2,11,7,5,8,32,30,DWWLLWWWDWLDDWDWWWWW,6,2,2,21,13,6,11,2,7,32,18,LWWWWDWWWDLLWLWWLWWW,3,2,5,11,11,WLWWWLDDWW,WWDWDLLWLW
-Stade Rennais,Sochaux,4-0,/match/stade-rennes/sochaux/2004,2004,21,ligue_1,20,38,0,4,0,10,5,8,7,20,21,DWDDWWWWWDWDDWWWDDWW,5,5,0,13,5,3,11,5,4,32,19,WWDWWLWWLDDLWLWLLWDD,5,2,3,15,11,WDWWDDDWDW,WWLWDLLLLD
-PSG,Metz,0-0,/match/paris-saint-germain-fc/metz/2004,2004,21,ligue_1,20,38,1,0,0,4,11,5,4,26,16,DWLLWWLWLWDLLDLWDWDW,6,2,2,16,10,18,5,5,10,16,22,LLLDWWWDLLLLWLDDWDWW,3,2,5,9,10,DLWWWLDWWW,LDWWLLWDWW
-Nice,Le Mans,0-1,/match/nice/mans-uc-72/2004,2004,21,ligue_1,20,38,2,0,1,5,7,10,3,19,16,LWDDWWWWDDDWWDDDWDWD,6,4,0,13,4,17,3,7,10,17,32,DLDWLWLWDWDWWDWWWDDW,0,3,7,5,22,WDWWDDWDWW,DWWWWWDWDW
-Nantes,Ajaccio,4-0,/match/nantes/ajaccio/2004,2004,21,ligue_1,20,38,0,4,0,12,8,4,8,19,18,WWLWDWWWWLLWLLLWDDWD,5,2,3,7,4,15,6,4,10,19,26,LLLDLWWWLDDDLWWWLWWW,2,3,5,8,14,WWDWWLLLDW,LLDWWDDWWW
-Olympique Lyonnais,Montpellier,3-0,/match/olympique-lyonnais/montpellier-hsc/2004,2004,21,ligue_1,20,38,0,3,0,2,11,5,4,35,17,WWLDWDLWLDLWLWWWWDDW,6,4,0,21,5,16,6,3,11,27,34,DLLWWWLDDWLWWWWLWLWL,2,2,6,11,19,WDDWDWWWWD,LWWDDLWWWW
-Lille,Toulouse,0-1,/match/lillestrom/toulouse-fc/2004,2004,21,ligue_1,20,38,2,0,1,14,5,7,8,21,25,WWLDWDWDWDWLDLDWWDLW,3,5,2,9,9,20,3,6,11,15,30,DWLDLWWWDLWLWDWLDDWW,1,2,7,6,15,WWDDDDLLWD,WDWWLWWWDW
-Girondins Bordeaux,Guingamp,2-0,/match/bordeaux/guingamp/2004,2004,21,ligue_1,20,38,0,2,0,9,8,5,7,20,20,WLLWDLWWDLDWDWDWWWWL,6,1,3,13,9,19,5,3,12,19,32,LWLDWWLDLWWLWLWWWDWW,1,2,7,7,19,LWLWLWWDWW,WDWDWLWWWW
-Olympique,Lens,3-2,/match/olympique-marsella/lens/2004,2004,21,ligue_1,20,38,0,3,2,7,11,1,8,26,20,LWWWLWWWWWWWLLLDLLWW,7,0,3,18,9,8,9,2,9,16,28,DWWLWWWWLWWLWWWLLWWD,3,0,7,5,18,WWWWWWLLLW,WLWWWLWLWW
-Monaco,PSG,1-1,/match/monaco/paris-saint-germain-fc/2004,2004,22,ligue_1,20,38,1,1,1,1,14,5,2,36,15,WWWLWDLWLDDWLWLDLWWWD,8,2,0,21,4,3,11,6,4,26,16,DWLLWWLWLWDLLDLWDWDWD,5,3,2,10,6,WWWWDWWDWW,WLWLLDLLDD
-Sochaux,Olympique,2-1,/match/sochaux/olympique-marsella/2004,2004,22,ligue_1,20,38,0,2,1,4,11,5,5,32,23,WWDWWLWWLDDLWLWLLWDDW,6,3,1,17,8,6,12,1,8,29,22,LWWWLWWWWWWWLLLDLLWWW,4,1,5,8,11,WDWWLDWWWD,LWLWWWLDLW
-Montpellier,Bastia,1-1,/match/montpellier-hsc/bastia/2004,2004,22,ligue_1,20,38,1,1,1,17,6,3,12,27,37,DLLWWWLDDWLWWWWLWLWLW,4,1,5,16,15,13,6,6,9,23,31,DLWWLWWWWWDDWLDWWDLWD,1,3,6,8,18,DLWLWWWLLL,DWLWWDWDWW
-Metz,Lille,0-1,/match/metz/lillestrom/2004,2004,22,ligue_1,20,38,2,0,1,18,5,6,10,16,22,LLLDWWWDLLLLWLDDWDWWD,2,3,5,7,12,14,5,7,9,21,26,WWLDWDWDWDWLDLDWWDLWL,2,2,6,12,16,LLWDLLLDDW,LWWWWDDWLW
-Lens,Strasbourg,2-1,/match/lens/strasbourg/2004,2004,22,ligue_1,20,38,0,2,1,11,9,2,10,18,31,DWWLWWWWLWWLWWWLLWWDW,6,2,2,11,10,12,7,5,9,32,32,DWWLLWWWDWLDDWDWWWWWL,1,3,6,11,17,DWWWLWWWLD,DWLWDDWWWW
-Le Mans,Nantes,0-1,/match/mans-uc-72/nantes/2004,2004,22,ligue_1,20,38,2,0,1,16,4,7,10,18,32,DLDWLWLWDWDWWDWWWDDWL,3,4,3,12,10,10,9,4,8,23,18,WWLWDWWWWLLWLLLWDDWDW,3,2,5,12,14,LDLLDDWWWD,WLWWLWLWDD
-Guingamp,Stade Rennais,0-2,/match/guingamp/stade-rennes/2004,2004,22,ligue_1,20,38,2,0,2,19,5,3,13,19,34,LWLDWWLDLWWLWLWWWDWWW,4,1,5,12,13,9,6,8,7,24,21,DWDDWWWWWDWDDWWWDDWWW,0,3,7,7,16,LLWLLWLWDW,DDWWWWWWDW
-Ajaccio,Nice,1-1,/match/ajaccio/nice/2004,2004,22,ligue_1,20,38,1,1,1,15,6,4,11,19,30,LLLDLWWWLDDDLWWWLWWWW,4,1,5,11,12,7,7,10,4,19,17,LWDDWWWWDDDWWDDDWDWDL,1,6,3,6,12,LLWLDLWLWW,LDWWDWDDDD
-Auxerre,Girondins Bordeaux,5-0,/match/auxerre/bordeaux/2004,2004,22,ligue_1,20,38,0,5,0,5,12,2,7,34,18,LWWWWDWWWDLLWLWWLWWWL,8,0,2,21,7,8,9,5,7,22,20,WLLWDLWWDLDWDWDWWWWLW,2,4,4,7,11,LWWWWLWWWW,WLDWDDDWWL
-Toulouse,Olympique Lyonnais,0-1,/match/toulouse-fc/olympique-lyonnais/2004,2004,22,ligue_1,20,38,2,0,1,20,4,6,11,16,30,DWLDLWWWDLWLWDWLDDWWL,2,4,4,9,15,2,12,5,4,38,17,WWLDWDLWLDLWLWWWWDDWW,5,1,4,14,12,DLLWDLDLDW,WLWLLLLWDW
-Girondins Bordeaux,Nantes,2-0,/match/bordeaux/nantes/2004,2004,23,ligue_1,20,38,0,2,0,11,9,5,8,22,25,WLLWDLWWDLDWDWDWWWWLWW,7,1,3,15,9,9,10,4,8,24,18,WWLWDWWWWLLWLLLWDDWDWL,4,2,5,13,14,LWLWLWWDWWW,WLWWLWLWDDL
-Stade Rennais,Auxerre,0-2,/match/stade-rennes/auxerre/2004,2004,23,ligue_1,20,38,2,0,2,8,7,8,7,26,21,DWDDWWWWWDWDDWWWDDWWWL,6,5,0,17,5,4,13,2,7,39,18,LWWWWDWWWDLLWLWWLWWWLW,4,2,5,13,11,WDWWDDDWDWW,WWDWDLLWLWL
-PSG,Montpellier,6-1,/match/paris-saint-germain-fc/montpellier-hsc/2004,2004,23,ligue_1,20,38,0,6,1,5,11,7,4,27,17,DWLLWWLWLWDLLDLWDWDWDD,6,3,2,16,10,16,6,4,12,28,38,DLLWWWLDDWLWWWWLWLWLWD,2,2,7,11,22,DLWWWLDWWWD,LWWDDLWWWWW
-Nice,Lens,4-0,/match/nice/lens/2004,2004,23,ligue_1,20,38,0,4,0,7,7,11,4,20,18,LWDDWWWWDDDWWDDDWDWDLD,6,4,1,13,5,10,10,2,10,20,32,DWWLWWWWLWWLWWWLLWWDWW,3,0,8,7,21,WDWWDDWDWWL,WLWWWLWLWWW
-Metz,Monaco,0-2,/match/metz/monaco/2004,2004,23,ligue_1,20,38,2,0,2,18,5,6,11,16,23,LLLDWWWDLLLLWLDDWDWWDL,2,3,6,7,13,1,14,6,2,37,16,WWWLWDLWLDDWLWLDLWWWDD,6,3,2,15,11,LLWDLLLDDWL,WLDLLDLLLWD
-Olympique Lyonnais,Guingamp,0-1,/match/olympique-lyonnais/guingamp/2004,2004,23,ligue_1,20,38,2,0,1,2,13,5,4,39,17,WWLDWDLWLDLWLWWWWDDWWL,7,4,0,24,5,19,5,3,14,19,36,LWLDWWLDLWWLWLWWWDWWWL,1,2,8,7,21,WDDWDWWWWDW,WDWDWLWWWWW
-Lille,Sochaux,2-0,/match/lillestrom/sochaux/2004,2004,23,ligue_1,20,38,0,2,0,14,6,7,9,22,26,WWLDWDWDWDWLDLDWWDLWLL,3,5,3,9,10,3,12,5,5,34,24,WWDWWLWWLDDLWLWLLWDDWW,5,2,4,15,15,WWDDDDLLWDL,WWLWDLLLLDW
-Bastia,Toulouse,1-0,/match/bastia/toulouse-fc/2004,2004,23,ligue_1,20,38,0,1,0,13,6,7,9,24,32,DLWWLWWWWWDDWLDWWDLWDD,5,3,3,15,13,20,4,6,12,16,31,DWLDLWWWDLWLWDWLDDWWLL,2,2,7,7,15,LWWWWDLWDLD,WDWWLWWWDWL
-Olympique,Ajaccio,2-1,/match/olympique-marsella/ajaccio/2004,2004,23,ligue_1,20,38,0,2,1,6,12,1,9,30,24,LWWWLWWWWWWWLLLDLLWWWW,8,0,3,21,11,15,6,5,11,20,31,LLLDLWWWLDDDLWWWLWWWWD,2,3,6,8,18,WWWWWWLLLWW,LLDWWDDWWWW
-Strasbourg,Le Mans,3-0,/match/strasbourg/mans-uc-72/2004,2004,23,ligue_1,20,38,0,3,0,12,7,5,10,33,34,DWWLLWWWDWLDDWDWWWWWLW,6,2,3,21,15,17,4,7,11,18,33,DLDWLWLWDWDWWDWWWDDWLL,1,3,7,6,22,WLWWWLDDWWL,DWWWWWDWDWL
-Sochaux,Girondins Bordeaux,1-1,/match/sochaux/bordeaux/2004,2004,24,ligue_1,20,38,1,1,1,5,12,5,6,34,26,WWDWWLWWLDDLWLWLLWDDWWW,7,3,1,19,9,8,10,5,8,24,25,WLLWDLWWDLDWDWDWWWWLWWW,2,4,5,7,16,WDWWLDWWWDW,WLDWDDDWWLW
-Toulouse,PSG,0-1,/match/toulouse-fc/paris-saint-germain-fc/2004,2004,24,ligue_1,20,38,2,0,1,20,4,6,13,16,32,DWLDLWWWDLWLWDWLDDWWLLW,2,4,5,9,16,4,12,7,4,33,18,DWLLWWLWLWDLLDLWDWDWDDW,5,4,2,11,7,DLLWDLDLDWL,WLWLLDLLDDD
-Nantes,Nice,3-1,/match/nantes/nice/2004,2004,24,ligue_1,20,38,0,3,1,10,10,4,9,24,20,WWLWDWWWWLLWLLLWDDWDWLW,6,2,3,11,4,7,8,11,4,24,18,LWDDWWWWDDDWWDDDWDWDLDW,1,7,3,7,13,WWDWWLLLDWW,LDWWDWDDDDD
-Montpellier,Metz,0-1,/match/montpellier-hsc/metz/2004,2004,24,ligue_1,20,38,2,0,1,16,6,4,13,29,44,DLLWWWLDDWLWWWWLWLWLWDW,4,2,5,17,16,19,5,6,12,16,25,LLLDWWWDLLLLWLDDWDWWDLL,3,3,5,9,10,DLWLWWWLLLD,LDWWLLWDWWD
-Monaco,Lille,0-1,/match/monaco/lillestrom/2004,2004,24,ligue_1,20,38,2,0,1,1,15,6,2,39,16,WWWLWDLWLDDWLWLDLWWWDDL,8,3,0,22,5,14,7,7,9,24,26,WWLDWDWDWDWLDLDWWDLWLLW,3,2,6,13,16,WWWWDWWDWWD,LWWWWDDWLWL
-Lens,Stade Rennais,2-1,/match/lens/stade-rennes/2004,2004,24,ligue_1,20,38,0,2,1,11,10,2,11,20,36,DWWLWWWWLWWLWWWLLWWDWWW,7,2,2,13,11,9,7,8,8,26,23,DWDDWWWWWDWDDWWWDDWWWLL,1,3,7,9,16,DWWWLWWWLDW,DDWWWWWWDWL
-Le Mans,Olympique,0-0,/match/mans-uc-72/olympique-marsella/2004,2004,24,ligue_1,20,38,1,0,0,17,4,7,12,18,36,DLDWLWLWDWDWWDWWWDDWLLW,3,4,4,12,11,6,13,1,9,32,25,LWWWLWWWWWWWLLLDLLWWWWW,4,1,6,9,13,LDLLDDWWWDL,LWLWWWLDLWW
-Guingamp,Bastia,1-0,/match/guingamp/bastia/2004,2004,24,ligue_1,20,38,0,1,0,18,6,3,14,20,36,LWLDWWLDLWWLWLWWWDWWWLL,4,1,6,12,15,13,7,7,9,25,32,DLWWLWWWWWDDWLDWWDLWDDW,1,4,6,9,19,LLWLLWLWDWL,DWLWWDWDWWD
-Ajaccio,Strasbourg,0-0,/match/ajaccio/strasbourg/2004,2004,24,ligue_1,20,38,1,0,0,15,6,5,12,21,33,LLLDLWWWLDDDLWWWLWWWWDW,4,2,5,12,13,12,8,5,10,36,34,DWWLLWWWDWLDDWDWWWWWLWW,1,3,7,12,19,LLWLDLWLWWD,DWLWDDWWWWW
-Auxerre,Olympique Lyonnais,1-2,/match/auxerre/olympique-lyonnais/2004,2004,24,ligue_1,20,38,2,1,2,3,14,2,7,41,18,LWWWWDWWWDLLWLWWLWWWLWL,9,0,2,26,7,2,13,5,5,39,18,WWLDWDLWLDLWLWWWWDDWWLL,6,1,4,15,12,LWWWWLWWWWW,WLWLLLLWDWL
-Monaco,Montpellier,4-0,/match/monaco/montpellier-hsc/2004,2004,25,ligue_1,20,38,0,4,0,1,15,6,3,39,17,WWWLWDLWLDDWLWLDLWWWDDLL,8,3,1,22,6,18,6,4,14,29,45,DLLWWWLDDWLWWWWLWLWLWDWL,2,2,8,12,28,WWWWDWWDWWDL,LWWDDLWWWWWW
-Strasbourg,Sochaux,0-2,/match/strasbourg/sochaux/2004,2004,25,ligue_1,20,38,2,0,2,12,8,6,10,36,34,DWWLLWWWDWLDDWDWWWWWLWWD,7,2,3,24,15,5,12,6,6,35,27,WWDWWLWWLDDLWLWLLWDDWWWD,5,2,5,15,17,WLWWWLDDWWLW,WWLWDLLLLDWW
-Stade Rennais,Ajaccio,4-1,/match/stade-rennes/ajaccio/2004,2004,25,ligue_1,20,38,0,4,1,11,7,8,9,27,25,DWDDWWWWWDWDDWWWDDWWWLLW,6,5,1,17,7,15,6,6,12,21,33,LLLDLWWWLDDDLWWWLWWWWDWD,2,3,7,9,20,WDWWDDDWDWWL,LLDWWDDWWWWW
-PSG,Guingamp,2-0,/match/paris-saint-germain-fc/guingamp/2004,2004,25,ligue_1,20,38,0,2,0,3,13,7,4,34,18,DWLLWWLWLWDLLDLWDWDWDDWL,7,3,2,22,11,16,7,3,14,21,36,LWLDWWLDLWWLWLWWWDWWWLLW,2,2,8,8,21,DLWWWLDWWWDW,WDWDWLWWWWWL
-Metz,Toulouse,0-2,/match/metz/toulouse-fc/2004,2004,25,ligue_1,20,38,2,0,2,19,6,6,12,17,25,LLLDWWWDLLLLWLDDWDWWDLLL,2,3,7,7,15,20,4,6,14,16,33,DWLDLWWWDLWLWDWLDDWWLLWL,2,2,8,7,16,LLWDLLLDDWLL,WDWWLWWWDWLW
-Lille,Nice,1-2,/match/lillestrom/nice/2004,2004,25,ligue_1,20,38,2,1,2,14,8,7,9,25,26,WWLDWDWDWDWLDLDWWDLWLLWL,4,5,3,11,10,7,8,11,5,25,21,LWDDWWWWDDDWWDDDWDWDLDWW,1,7,4,8,16,WWDDDDLLWDLW,LDWWDWDDDDDW
-Girondins Bordeaux,Lens,0-0,/match/bordeaux/lens/2004,2004,25,ligue_1,20,38,1,0,0,8,10,6,8,25,26,WLLWDLWWDLDWDWDWWWWLWWWD,8,1,3,17,9,10,11,2,11,22,37,DWWLWWWWLWWLWWWLLWWDWWWW,3,0,9,7,25,LWLWLWWDWWWW,WLWWWLWLWWWW
-Bastia,Auxerre,0-0,/match/bastia/auxerre/2004,2004,25,ligue_1,20,38,1,0,0,13,7,7,10,25,33,DLWWLWWWWWDDWLDWWDLWDDWW,6,3,3,16,13,4,14,2,8,42,20,LWWWWDWWWDLLWLWWLWWWLWLL,5,2,5,15,11,LWWWWDLWDLDW,WWDWDLLWLWLL
-Olympique Lyonnais,Le Mans,2-0,/match/olympique-lyonnais/mans-uc-72/2004,2004,25,ligue_1,20,38,0,2,0,2,14,5,5,41,19,WWLDWDLWLDLWLWWWWDDWWLLL,7,4,1,24,6,17,4,8,12,18,36,DLDWLWLWDWDWWDWWWDDWLLWD,1,3,8,6,25,WDDWDWWWWDWL,DWWWWWDWDWLW
-Olympique,Nantes,1-1,/match/olympique-marsella/nantes/2004,2004,25,ligue_1,20,38,1,1,1,6,13,2,9,32,25,LWWWLWWWWWWWLLLDLLWWWWWD,9,0,3,23,12,9,11,4,9,27,21,WWLWDWWWWLLWLLLWDDWDWLWW,4,2,6,13,16,WWWWWWLLLWWW,WLWWLWLWDDLW
-Nantes,Strasbourg,1-1,/match/nantes/strasbourg/2004,2004,26,ligue_1,20,38,1,1,1,11,11,5,9,28,22,WWLWDWWWWLLWLLLWDDWDWLWWD,7,2,3,14,5,12,8,6,11,36,36,DWWLLWWWDWLDDWDWWWWWLWWDL,1,4,7,12,19,WWDWWLLLDWWW,DWLWDDWWWWWD
-Le Mans,Stade Rennais,2-2,/match/mans-uc-72/stade-rennes/2004,2004,26,ligue_1,20,38,1,2,2,17,4,8,13,18,38,DLDWLWLWDWDWWDWWWDDWLLWDW,3,5,4,12,11,10,8,8,9,31,26,DWDDWWWWWDWDDWWWDDWWWLLWW,1,3,8,10,18,LDLLDDWWWDLD,DDWWWWWWDWLW
-Lens,Olympique Lyonnais,1-1,/match/lens/olympique-lyonnais/2004,2004,26,ligue_1,20,38,1,1,1,9,11,3,11,22,37,DWWLWWWWLWWLWWWLLWWDWWWWD,8,2,2,15,12,2,15,5,5,43,19,WWLDWDLWLDLWLWWWWDDWWLLLW,7,1,4,17,13,DWWWLWWWLDWW,WLWLLLLWDWLL
-Montpellier,Lille,0-2,/match/montpellier-hsc/lillestrom/2004,2004,26,ligue_1,20,38,2,0,2,18,6,4,15,29,49,DLLWWWLDDWLWWWWLWLWLWDWLW,4,2,6,17,17,14,8,7,10,26,28,WWLDWDWDWDWLDLDWWDLWLLWLL,4,2,6,14,16,DLWLWWWLLLDL,LWWWWDDWLWLL
-Toulouse,Monaco,1-1,/match/toulouse-fc/monaco/2004,2004,26,ligue_1,20,38,1,1,1,20,5,6,14,18,33,DWLDLWWWDLWLWDWLDDWWLLWLL,2,4,6,9,17,1,16,6,3,43,17,WWWLWDLWLDDWLWLDLWWWDDLLW,7,3,2,17,11,DLLWDLDLDWLL,WLDLLDLLLWDL
-Auxerre,PSG,1-1,/match/auxerre/paris-saint-germain-fc/2004,2004,26,ligue_1,20,38,1,1,1,5,14,3,8,42,20,LWWWWDWWWDLLWLWWLWWWLWLLD,9,0,3,27,9,3,14,7,4,36,18,DWLLWWLWLWDLLDLWDWDWDDWLW,6,4,2,12,7,LWWWWLWWWWWL,WLWLLDLLDDDL
-Sochaux,Bastia,2-1,/match/sochaux/bastia/2004,2004,26,ligue_1,20,38,0,2,1,4,13,6,6,37,27,WWDWWLWWLDDLWLWLLWDDWWWDL,7,4,1,20,10,13,7,8,10,25,33,DLWWLWWWWWDDWLDWWDLWDDWWD,1,4,7,9,20,WDWWLDWWWDWD,DWLWWDWDWWDW
-Nice,Olympique,0-0,/match/nice/olympique-marsella/2004,2004,26,ligue_1,20,38,1,0,0,7,9,11,5,27,22,LWDDWWWWDDDWWDDDWDWDLDWWL,7,4,1,17,5,6,13,3,9,33,26,LWWWLWWWWWWWLLLDLLWWWWWDD,4,2,6,9,13,WDWWDDWDWWLW,LWLWWWLDLWWD
-Ajaccio,Girondins Bordeaux,1-0,/match/ajaccio/bordeaux/2004,2004,26,ligue_1,20,38,0,1,0,15,6,6,13,22,37,LLLDLWWWLDDDLWWWLWWWWDWDW,4,3,5,12,13,8,10,7,8,25,26,WLLWDLWWDLDWDWDWWWWLWWWDD,2,5,5,8,17,LLWLDLWLWWDD,WLDWDDDWWLWD
-Guingamp,Metz,1-1,/match/guingamp/metz/2004,2004,26,ligue_1,20,38,1,1,1,16,7,3,15,21,38,LWLDWWLDLWWLWLWWWDWWWLLWW,5,1,6,13,15,19,6,6,13,17,27,LLLDWWWDLLLLWLDDWDWWDLLLL,4,3,5,10,10,LLWLLWLWDWLW,LDWWLLWDWWDL
-Olympique Lyonnais,Ajaccio,4-0,/match/olympique-lyonnais/ajaccio/2004,2004,27,ligue_1,20,38,0,4,0,2,15,6,5,44,20,WWLDWDLWLDLWLWWWWDDWWLLLWD,8,4,1,26,6,15,7,6,13,23,37,LLLDLWWWLDDDLWWWLWWWWDWDWW,2,3,8,10,24,WDDWDWWWWDWLW,LLDWWDDWWWWWW
-Monaco,Guingamp,3-1,/match/monaco/guingamp/2004,2004,27,ligue_1,20,38,0,3,1,1,16,7,3,44,18,WWWLWDLWLDDWLWLDLWWWDDLLWD,9,3,1,26,6,16,7,4,15,22,39,LWLDWWLDLWWLWLWWWDWWWLLWWD,2,2,9,8,23,WWWWDWWDWWDLW,WDWDWLWWWWWLW
-Strasbourg,Nice,2-2,/match/strasbourg/nice/2004,2004,27,ligue_1,20,38,1,2,2,12,8,7,11,37,37,DWWLLWWWDWLDDWDWWWWWLWWDLD,7,2,4,24,17,7,9,12,5,27,22,LWDDWWWWDDDWWDDDWDWDLDWWLD,2,7,4,10,17,WLWWWLDDWWLWL,LDWWDWDDDDDWL
-Stade Rennais,Nantes,0-3,/match/stade-rennes/nantes/2004,2004,27,ligue_1,20,38,2,0,3,11,8,9,9,33,28,DWDDWWWWWDWDDWWWDDWWWLLWWD,7,5,1,21,8,9,11,6,9,29,23,WWLWDWWWWLLWLLLWDDWDWLWWDD,4,3,6,14,17,WDWWDDDWDWWLW,WLWWLWLWDDLWD
-PSG,Sochaux,1-1,/match/paris-saint-germain-fc/sochaux/2004,2004,27,ligue_1,20,38,1,1,1,3,14,8,4,37,19,DWLLWWLWLWDLLDLWDWDWDDWLWD,8,3,2,24,11,4,14,6,6,39,28,WWDWWLWWLDDLWLWLLWDDWWWDLW,6,2,5,17,17,DLWWWLDWWWDWW,WWLWDLLLLDWWL
-Montpellier,Toulouse,0-1,/match/montpellier-hsc/toulouse-fc/2004,2004,27,ligue_1,20,38,2,0,1,18,6,4,16,29,51,DLLWWWLDDWLWWWWLWLWLWDWLWL,4,2,7,17,19,20,5,7,14,19,34,DWLDLWWWDLWLWDWLDDWWLLWLLD,3,2,8,9,16,DLWLWWWLLLDLL,WDWWLWWWDWLWL
-Metz,Lens,0-2,/match/metz/lens/2004,2004,27,ligue_1,20,38,2,0,2,19,6,7,13,18,28,LLLDWWWDLLLLWLDDWDWWDLLLLD,2,3,8,7,17,8,11,4,11,23,38,DWWLWWWWLWWLWWWLLWWDWWWWDD,3,1,9,7,25,LLWDLLLDDWLLL,WLWWWLWLWWWWD
-Girondins Bordeaux,Le Mans,2-0,/match/bordeaux/mans-uc-72/2004,2004,27,ligue_1,20,38,0,2,0,10,10,7,9,25,27,WLLWDLWWDLDWDWDWWWWLWWWDDW,8,2,3,17,9,17,4,9,13,20,40,DLDWLWLWDWDWWDWWWDDWLLWDWD,1,3,9,6,27,LWLWLWWDWWWWD,DWWWWWDWDWLWW
-Lille,Auxerre,1-0,/match/lillestrom/auxerre/2004,2004,27,ligue_1,20,38,0,1,0,14,9,7,10,28,28,WWLDWDWDWDWLDLDWWDLWLLWLLL,4,5,4,12,12,5,14,4,8,43,21,LWWWWDWWWDLLWLWWLWWWLWLLDD,5,3,5,15,11,WWDDDDLLWDLWL,WWDWDLLWLWLLD
-Bastia,Olympique,4-1,/match/bastia/olympique-marsella/2004,2004,27,ligue_1,20,38,0,4,1,13,7,8,11,26,35,DLWWLWWWWWDDWLDWWDLWDDWWDW,6,4,3,16,13,6,13,4,9,33,26,LWWWLWWWWWWWLLLDLLWWWWWDDD,4,3,6,9,13,LWWWWDLWDLDWD,LWLWWWLDLWWDD
-Le Mans,PSG,0-1,/match/mans-uc-72/paris-saint-germain-fc/2004,2004,28,ligue_1,20,38,2,0,1,17,4,9,14,20,42,DLDWLWLWDWDWWDWWWDDWLLWDWDW,3,6,4,14,13,3,14,9,4,38,20,DWLLWWLWLWDLLDLWDWDWDDWLWDD,6,5,2,13,8,LDLLDDWWWDLDD,WLWLLDLLDDDLD
-Sochaux,Olympique Lyonnais,1-2,/match/sochaux/olympique-lyonnais/2004,2004,28,ligue_1,20,38,2,1,2,4,14,7,6,40,29,WWDWWLWWLDDLWLWLLWDDWWWDLWD,8,4,1,22,11,2,16,6,5,48,20,WWLDWDLWLDLWLWWWWDDWWLLLWDW,7,2,4,18,14,WDWWLDWWWDWDW,WLWLLLLWDWLLD
-Nice,Stade Rennais,3-1,/match/nice/stade-rennes/2004,2004,28,ligue_1,20,38,0,3,1,6,9,13,5,29,24,LWDDWWWWDDDWWDDDWDWDLDWWLDD,7,5,1,17,5,11,8,9,10,33,31,DWDDWWWWWDWDDWWWDDWWWLLWWDL,1,4,8,12,20,WDWWDDWDWWLWD,DDWWWWWWDWLWD
-Nantes,Metz,2-2,/match/nantes/metz/2004,2004,28,ligue_1,20,38,1,2,2,10,12,6,9,32,23,WWLWDWWWWLLWLLLWDDWDWLWWDDL,7,3,3,15,6,20,6,7,14,18,30,LLLDWWWDLLLLWLDDWDWWDLLLLDL,4,4,5,11,11,WWDWWLLLDWWWD,LDWWLLWDWWDLD
-Lens,Bastia,0-0,/match/lens/bastia/2004,2004,28,ligue_1,20,38,1,0,0,9,12,4,11,25,38,DWWLWWWWLWWLWWWLLWWDWWWWDDL,8,3,2,16,13,12,8,8,11,30,36,DLWWLWWWWWDDWLDWWDLWDDWWDWW,1,4,8,10,22,DWWWLWWWLDWWD,DWLWWDWDWWDWW
-Guingamp,Montpellier,4-3,/match/guingamp/montpellier-hsc/2004,2004,28,ligue_1,20,38,0,4,3,16,7,4,16,23,42,LWLDWWLDLWWLWLWWWDWWWLLWWDW,5,2,6,14,16,19,6,4,17,29,52,DLLWWWLDDWLWWWWLWLWLWDWLWLL,2,2,9,12,32,LLWLLWLWDWLWD,LWWDDLWWWWWWW
-Ajaccio,Lille,0-3,/match/ajaccio/lillestrom/2004,2004,28,ligue_1,20,38,2,0,3,15,7,6,14,23,41,LLLDLWWWLDDDLWWWLWWWWDWDWWW,5,3,5,13,13,13,10,7,10,29,28,WWLDWDWDWDWLDLDWWDLWLLWLLLW,5,2,6,16,16,LLWLDLWLWWDDW,LWWWWDDWLWLLL
-Olympique,Strasbourg,4-0,/match/olympique-marsella/strasbourg/2004,2004,28,ligue_1,20,38,0,4,0,7,13,4,10,34,30,LWWWLWWWWWWWLLLDLLWWWWWDDDW,9,1,3,24,13,14,8,8,11,39,39,DWWLLWWWDWLDDWDWWWWWLWWDLDD,1,5,7,13,20,WWWWWWLLLWWWD,DWLWDDWWWWWDD
-Toulouse,Girondins Bordeaux,1-0,/match/toulouse-fc/bordeaux/2004,2004,28,ligue_1,20,38,0,1,0,18,6,7,14,20,34,DWLDLWWWDLWLWDWLDDWWLLWLLDL,2,5,6,10,18,8,11,7,9,27,27,WLLWDLWWDLDWDWDWWWWLWWWDDWW,2,5,6,8,18,DLLWDLDLDWLLD,WLDWDDDWWLWDW
-Auxerre,Monaco,0-0,/match/auxerre/monaco/2004,2004,28,ligue_1,20,38,1,0,0,5,14,4,9,43,22,LWWWWDWWWDLLWLWWLWWWLWLLDDW,9,1,3,28,10,1,17,7,3,47,19,WWWLWDLWLDDWLWLDLWWWDDLLWDW,7,4,2,18,12,LWWWWLWWWWWLD,WLDLLDLLLWDLD
-Toulouse,Guingamp,0-0,/match/toulouse-fc/guingamp/2004,2004,29,ligue_1,20,38,1,0,0,17,7,7,14,21,34,DWLDLWWWDLWLWDWLDDWWLLWLLDLW,3,5,6,11,18,15,8,4,16,27,45,LWLDWWLDLWWLWLWWWDWWWLLWWDWW,2,2,10,9,26,DLLWDLDLDWLLDW,WDWDWLWWWWWLWW
-PSG,Ajaccio,1-0,/match/paris-saint-germain-fc/ajaccio/2004,2004,29,ligue_1,20,38,0,1,0,3,15,9,4,39,20,DWLLWWLWLWDLLDLWDWDWDDWLWDDL,8,4,2,25,12,16,7,6,15,23,44,LLLDLWWWLDDDLWWWLWWWWDWDWWWL,2,3,9,10,28,DLWWWLDWWWDWWD,LLDWWDDWWWWWWW
-Montpellier,Auxerre,1-0,/match/montpellier-hsc/auxerre/2004,2004,29,ligue_1,20,38,0,1,0,20,6,4,18,32,56,DLLWWWLDDWLWWWWLWLWLWDWLWLLW,4,2,8,17,20,6,14,5,9,43,22,LWWWWDWWWDLLWLWWLWWWLWLLDDWD,5,3,6,15,12,DLWLWWWLLLDLLL,WWDWDLLWLWLLDW
-Monaco,Sochaux,1-1,/match/monaco/sochaux/2004,2004,29,ligue_1,20,38,1,1,1,1,17,8,3,47,19,WWWLWDLWLDDWLWLDLWWWDDLLWDWD,10,3,1,29,7,4,14,7,7,41,31,WWDWWLWWLDDLWLWLLWDDWWWDLWDL,6,3,5,18,18,WWWWDWWDWWDLWW,WWLWDLLLLDWWLD
-Metz,Strasbourg,1-0,/match/metz/strasbourg/2004,2004,29,ligue_1,20,38,0,1,0,19,6,8,14,20,32,LLLDWWWDLLLLWLDDWDWWDLLLLDLD,2,3,9,7,19,14,8,8,12,39,43,DWWLLWWWDWLDDWDWWWWWLWWDLDDW,1,5,8,13,24,LLWDLLLDDWLLLL,DWLWDDWWWWWDDW
-Lille,Lens,1-1,/match/lillestrom/lens/2004,2004,29,ligue_1,20,38,1,1,1,11,11,7,10,32,28,WWLDWDWDWDWLDLDWWDLWLLWLLLWL,5,5,4,13,12,9,12,5,11,25,38,DWWLWWWWLWWLWWWLLWWDWWWWDDLD,4,1,9,9,25,WWDDDDLLWDLWLW,WLWWWLWLWWWWDL
-Girondins Bordeaux,Nice,1-1,/match/bordeaux/nice/2004,2004,29,ligue_1,20,38,1,1,1,8,11,7,10,27,28,WLLWDLWWDLDWDWDWWWWLWWWDDWWW,9,2,3,19,9,5,10,13,5,32,25,LWDDWWWWDDDWWDDDWDWDLDWWLDDW,2,8,4,12,19,LWLWLWWDWWWWDW,LDWWDWDDDDDWLD
-Bastia,Le Mans,0-0,/match/bastia/mans-uc-72/2004,2004,29,ligue_1,20,38,1,0,0,13,8,9,11,30,36,DLWWLWWWWWDDWLDWWDLWDDWWDWWD,7,4,3,20,14,18,4,9,15,20,43,DLDWLWLWDWDWWDWWWDDWLLWDWDWL,1,3,10,6,29,LWWWWDLWDLDWDW,DWWWWWDWDWLWWW
-Olympique Lyonnais,Nantes,1-0,/match/olympique-lyonnais/nantes/2004,2004,29,ligue_1,20,38,0,1,0,2,17,6,5,50,21,WWLDWDLWLDLWLWWWWDDWWLLLWDWL,9,4,1,30,6,10,12,7,9,34,25,WWLWDWWWWLLWLLLWDDWDWLWWDDLD,5,3,6,17,17,WDDWDWWWWDWLWW,WLWWLWLWDDLWDL
-Stade Rennais,Olympique,4-3,/match/stade-rennes/olympique-marsella/2004,2004,29,ligue_1,20,38,0,4,3,12,8,9,11,34,34,DWDDWWWWWDWDDWWWDDWWWLLWWDLW,7,5,2,21,11,7,14,4,10,38,30,LWWWLWWWWWWWLLLDLLWWWWWDDDWW,4,3,7,10,17,WDWWDDDWDWWLWL,LWLWWWLDLWWDDW
-Sochaux,Metz,2-0,/match/sochaux/metz/2004,2004,30,ligue_1,20,38,0,2,0,4,14,8,7,42,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLD,8,4,2,23,13,18,7,8,14,21,32,LLLDWWWDLLLLWLDDWDWWDLLLLDLDW,4,5,5,13,13,WDWWLDWWWDWDWL,LDWWLLWDWWDLDD
-Strasbourg,Stade Rennais,0-3,/match/strasbourg/stade-rennes/2004,2004,30,ligue_1,20,38,2,0,3,14,8,8,13,39,44,DWWLLWWWDWLDDWDWWWWWLWWDLDDWW,7,3,4,26,19,11,9,9,11,38,37,DWDDWWWWWDWDDWWWDDWWWLLWWDLWW,1,4,9,13,23,WLWWWLDDWWLWLD,DDWWWWWWDWLWDW
-Nice,Olympique Lyonnais,0-1,/match/nice/olympique-lyonnais/2004,2004,30,ligue_1,20,38,2,0,1,5,10,14,5,33,26,LWDDWWWWDDDWWDDDWDWDLDWWLDDWD,8,5,1,20,6,2,18,6,5,51,21,WWLDWDLWLDLWLWWWWDDWWLLLWDWLW,8,2,4,20,15,WDWWDDWDWWLWDW,WLWLLLLWDWLLDL
-Nantes,Montpellier,3-2,/match/nantes/montpellier-hsc/2004,2004,30,ligue_1,20,38,0,3,2,10,12,7,10,34,26,WWLWDWWWWLLWLLLWDDWDWLWWDDLDW,7,4,3,17,8,20,7,4,18,33,56,DLLWWWLDDWLWWWWLWLWLWDWLWLLWW,2,2,10,15,36,WWDWWLLLDWWWDD,LWWDDLWWWWWWWW
-Le Mans,Monaco,0-1,/match/mans-uc-72/monaco/2004,2004,30,ligue_1,20,38,2,0,1,19,4,10,15,20,43,DLDWLWLWDWDWWDWWWDDWLLWDWDWLD,3,6,5,14,14,1,17,9,3,48,20,WWWLWDLWLDDWLWLDLWWWDDLLWDWDD,7,5,2,18,12,LDLLDDWWWDLDDL,WLDLLDLLLWDLDD
-Guingamp,Lille,2-1,/match/guingamp/lillestrom/2004,2004,30,ligue_1,20,38,0,2,1,15,8,5,16,27,45,LWLDWWLDLWWLWLWWWDWWWLLWWDWWD,6,2,6,18,19,12,11,8,10,33,29,WWLDWDWDWDWLDLDWWDLWLLWLLLWLD,6,2,6,19,16,LLWLLWLWDWLWDW,LWWWWDDWLWLLLL
-Ajaccio,Bastia,1-0,/match/ajaccio/bastia/2004,2004,30,ligue_1,20,38,0,1,0,17,7,6,16,23,45,LLLDLWWWLDDDLWWWLWWWWDWDWWWLW,5,3,6,13,16,13,8,10,11,30,36,DLWWLWWWWWDDWLDWWDLWDDWWDWWDD,1,5,8,10,22,LLWLDLWLWWDDWL,DWLWWDWDWWDWWD
-Auxerre,Toulouse,3-2,/match/auxerre/toulouse-fc/2004,2004,30,ligue_1,20,38,0,3,2,6,14,5,10,43,23,LWWWWDWWWDLLWLWWLWWWLWLLDDWDW,9,2,3,28,10,16,7,8,14,21,34,DWLDLWWWDLWLWDWLDDWWLLWLLDLWD,4,2,8,10,16,LWWWWLWWWWWLDD,WDWWLWWWDWLWLL
-Olympique,Girondins Bordeaux,1-1,/match/olympique-marsella/bordeaux/2004,2004,30,ligue_1,20,38,1,1,1,7,14,4,11,41,34,LWWWLWWWWWWWLLLDLLWWWWWDDDWWW,10,1,3,28,13,8,11,8,10,28,29,WLLWDLWWDLDWDWDWWWWLWWWDDWWWD,2,5,7,8,19,WWWWWWLLLWWWDW,WLDWDDDWWLWDWW
-Lens,PSG,1-0,/match/lens/paris-saint-germain-fc/2004,2004,30,ligue_1,20,38,0,1,0,9,12,6,11,26,39,DWWLWWWWLWWLWWWLLWWDWWWWDDLDD,8,4,2,16,13,3,16,9,4,40,20,DWLLWWLWLWDLLDLWDWDWDDWLWDDLW,7,5,2,14,8,DWWWLWWWLDWWDD,WLWLLDLLDDDLDL
-Monaco,Ajaccio,3-3,/match/monaco/ajaccio/2004,2004,31,ligue_1,20,38,1,3,3,1,18,9,3,49,20,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDL,10,4,1,30,8,16,8,6,16,24,45,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWW,2,3,10,10,29,WWWWDWWDWWDLWWD,LLDWWDDWWWWWWWW
-Toulouse,Sochaux,0-0,/match/toulouse-fc/sochaux/2004,2004,31,ligue_1,20,38,1,0,0,17,7,8,15,23,37,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDW,3,6,6,11,18,4,15,8,7,44,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDW,6,4,5,19,19,DLLWDLDLDWLLDWD,WWLWDLLLLDWWLDD
-PSG,Nantes,3-2,/match/paris-saint-germain-fc/nantes/2004,2004,31,ligue_1,20,38,0,3,2,3,16,9,5,40,21,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWW,9,4,2,26,12,9,13,7,10,37,28,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWW,5,3,7,17,18,DLWWWLDWWWDWWDW,WLWWLWLWDDLWDLW
-Montpellier,Lens,1-0,/match/montpellier-hsc/lens/2004,2004,31,ligue_1,20,38,0,1,0,20,7,4,19,35,59,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWW,5,2,8,18,20,8,13,6,11,27,39,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDW,4,2,9,10,26,DLWLWWWLLLDLLLW,WLWWWLWLWWWWDLD
-Metz,Le Mans,5-0,/match/metz/mans-uc-72/2004,2004,31,ligue_1,20,38,0,5,0,18,7,8,15,21,34,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWW,3,3,9,8,19,19,4,10,16,20,44,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDL,1,4,10,6,29,LLWDLLLDDWLLLLW,DWWWWWDWDWLWWWD
-Lille,Stade Rennais,1-0,/match/lillestrom/stade-rennes/2004,2004,31,ligue_1,20,38,0,1,0,12,11,8,11,34,31,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDW,5,6,4,14,13,11,10,9,11,41,37,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWL,2,4,9,16,23,WWDDDDLLWDLWLWD,DDWWWWWWDWLWDWL
-Girondins Bordeaux,Strasbourg,1-1,/match/bordeaux/strasbourg/2004,2004,31,ligue_1,20,38,1,1,1,10,11,9,10,29,30,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDD,9,3,3,20,10,14,8,8,14,39,47,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWL,1,5,9,13,25,LWLWLWWDWWWWDWD,DWLWDDWWWWWDDWW
-Bastia,Nice,2-1,/match/bastia/nice/2004,2004,31,ligue_1,20,38,0,2,1,13,8,10,12,30,37,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDW,7,5,3,20,14,6,10,14,6,33,27,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDL,2,9,4,13,20,LWWWWDLWDLDWDWD,LDWWDWDDDDDWLDD
-Olympique Lyonnais,Olympique,1-2,/match/olympique-lyonnais/olympique-marsella/2004,2004,31,ligue_1,20,38,2,1,2,2,19,6,5,52,21,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWL,10,4,1,31,6,7,14,5,11,42,35,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWD,4,3,8,13,21,WDDWDWWWWDWLWWW,LWLWWWLDLWWDDWW
-Guingamp,Auxerre,2-2,/match/guingamp/auxerre/2004,2004,31,ligue_1,20,38,1,2,2,15,9,5,16,29,46,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDW,7,2,6,20,20,5,15,5,10,46,25,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWW,5,3,7,15,13,LLWLLWLWDWLWDWW,WWDWDLLWLWLLDWW
-Ajaccio,Montpellier,0-0,/match/ajaccio/montpellier-hsc/2004,2004,32,ligue_1,20,38,1,0,0,16,8,7,16,27,48,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWD,6,3,6,14,16,19,8,4,19,36,59,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWW,2,2,11,17,39,LLWLDLWLWWDDWLW,LWWDDLWWWWWWWWW
-Nice,PSG,1-2,/match/nice/paris-saint-germain-fc/2004,2004,32,ligue_1,20,38,2,1,2,7,10,14,7,34,29,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLW,8,5,2,20,7,3,17,9,5,43,23,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWW,7,5,3,14,9,WDWWDDWDWWLWDWL,WLWLLDLLDDDLDLW
-Le Mans,Toulouse,2-1,/match/mans-uc-72/toulouse-fc/2004,2004,32,ligue_1,20,38,0,2,1,20,4,10,17,20,49,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLW,3,6,6,14,15,17,7,9,15,23,37,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWD,4,2,9,12,19,LDLLDDWWWDLDDLL,WDWWLWWWDWLWLLW
-Auxerre,Metz,2-1,/match/auxerre/metz/2004,2004,32,ligue_1,20,38,0,2,1,5,15,6,10,48,27,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWD,10,2,3,31,12,18,8,8,15,26,34,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWW,4,5,6,13,15,LWWWWLWWWWWLDDW,LDWWLLWDWWDLDDW
-Lens,Monaco,0-0,/match/lens/monaco/2004,2004,32,ligue_1,20,38,1,0,0,8,13,6,12,27,40,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWW,9,4,2,17,13,1,18,10,3,52,23,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLD,8,5,2,19,12,DWWWLWWWLDWWDDW,WLDLLDLLLWDLDDL
-Sochaux,Guingamp,2-0,/match/sochaux/guingamp/2004,2004,32,ligue_1,20,38,0,2,0,4,15,9,7,44,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWD,9,4,2,25,13,15,9,6,16,31,48,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWD,2,3,10,9,26,WDWWLDWWWDWDWLW,WDWDWLWWWWWLWWD
-Nantes,Bastia,1-1,/match/nantes/bastia/2004,2004,32,ligue_1,20,38,1,1,1,10,13,7,11,39,31,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWW,8,4,3,20,10,13,9,10,12,32,38,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWW,1,5,9,10,23,WWDWWLLLDWWWDDW,DWLWWDWDWWDWWDW
-Strasbourg,Olympique Lyonnais,0-1,/match/strasbourg/olympique-lyonnais/2004,2004,32,ligue_1,20,38,2,0,1,14,8,9,14,40,48,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLD,7,3,5,26,22,2,19,6,6,53,23,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLL,9,2,4,21,15,WLWWWLDDWWLWLDL,WLWLLLLWDWLLDLL
-Olympique,Lille,2-1,/match/olympique-marsella/lillestrom/2004,2004,32,ligue_1,20,38,0,2,1,6,15,5,11,44,36,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDL,10,2,3,29,14,11,12,8,11,35,31,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWW,6,2,7,20,18,WWWWWWLLLWWWDWD,LWWWWDDWLWLLLLW
-Stade Rennais,Girondins Bordeaux,3-1,/match/stade-rennes/bordeaux/2004,2004,32,ligue_1,20,38,0,3,1,12,10,9,12,41,38,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLW,8,5,2,25,14,9,11,10,10,30,31,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDD,2,6,7,9,20,WDWWDDDWDWWLWLW,WLDWDDDWWLWDWWD
-Guingamp,Lens,1-0,/match/guingamp/lens/2004,2004,33,ligue_1,20,38,0,1,0,15,9,6,17,31,50,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDW,7,3,6,22,22,7,13,7,12,27,40,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWD,4,2,10,10,27,LLWLLWLWDWLWDWWD,WLWWWLWLWWWWDLDW
-Toulouse,Ajaccio,3-1,/match/toulouse-fc/ajaccio/2004,2004,33,ligue_1,20,38,0,3,1,17,7,9,16,24,39,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDW,3,7,6,11,18,16,8,8,16,27,48,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDD,2,4,10,13,32,DLLWDLDLDWLLDWDD,LLDWWDDWWWWWWWWD
-Montpellier,Le Mans,0-3,/match/montpellier-hsc/mans-uc-72/2004,2004,33,ligue_1,20,38,2,0,3,19,8,5,19,36,59,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWD,6,2,8,19,20,20,5,10,17,22,50,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWW,1,4,11,6,34,DLWLWWWLLLDLLLWW,DWWWWWDWDWLWWWDW
-Metz,Nice,1-0,/match/metz/nice/2004,2004,33,ligue_1,20,38,0,1,0,18,8,8,16,27,36,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWW,4,3,9,13,19,8,10,14,8,35,31,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWL,2,9,5,14,22,LLWDLLLDDWLLLLWW,LDWWDWDDDDDWLDDW
-Olympique Lyonnais,Stade Rennais,3-0,/match/olympique-lyonnais/stade-rennes/2004,2004,33,ligue_1,20,38,0,3,0,2,20,6,6,54,23,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLL,10,4,2,32,8,11,11,9,12,44,39,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWW,2,4,10,16,24,WDDWDWWWWDWLWWWL,DDWWWWWWDWLWDWLW
-Lille,Strasbourg,0-1,/match/lillestrom/strasbourg/2004,2004,33,ligue_1,20,38,2,0,1,13,12,8,12,36,33,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWW,6,6,4,15,13,14,8,9,15,40,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDL,1,6,9,14,26,WWDDDDLLWDLWLWDW,DWLWDDWWWWWDDWWD
-Bastia,Girondins Bordeaux,0-2,/match/bastia/bordeaux/2004,2004,33,ligue_1,20,38,2,0,2,12,9,11,12,33,39,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWD,8,5,3,22,15,10,11,10,11,31,34,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDW,2,6,8,10,23,LWWWWDLWDLDWDWDW,WLDWDDDWWLWDWWDW
-Auxerre,Sochaux,2-1,/match/auxerre/sochaux/2004,2004,33,ligue_1,20,38,0,2,1,5,16,6,10,50,28,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDW,11,2,3,33,13,4,16,9,7,46,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDW,6,5,5,19,19,LWWWWLWWWWWLDDWW,WWLWDLLLLDWWLDDD
-Monaco,Nantes,0-1,/match/monaco/nantes/2004,2004,33,ligue_1,20,38,2,0,1,1,18,11,3,52,23,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDD,10,5,1,33,11,9,13,8,11,40,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWD,5,3,8,19,21,WWWWDWWDWWDLWWDD,WLWWLWLWDDLWDLWW
-PSG,Olympique,2-1,/match/paris-saint-germain-fc/olympique-marsella/2004,2004,33,ligue_1,20,38,0,2,1,3,18,9,5,45,24,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWL,10,4,2,29,14,6,16,5,11,46,37,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLW,5,3,8,15,22,DLWWWLDWWWDWWDWW,LWLWWWLDLWWDDWWL
-Nice,Monaco,1-2,/match/nice/monaco/2004,2004,34,ligue_1,20,38,2,1,2,10,10,14,9,35,32,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLW,8,5,3,21,9,3,18,11,4,52,24,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDL,8,6,2,19,12,WDWWDDWDWWLWDWLL,WLDLLDLLLWDLDDLD
-Strasbourg,PSG,0-0,/match/strasbourg/paris-saint-germain-fc/2004,2004,34,ligue_1,20,38,1,0,0,15,9,9,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLL,7,3,6,26,23,2,19,9,5,47,25,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLW,8,5,3,16,10,WLWWWLDDWWLWLDLL,WLWLLDLLDDDLDLWL
-Sochaux,Montpellier,3-1,/match/sochaux/montpellier-hsc/2004,2004,34,ligue_1,20,38,0,3,1,5,16,9,8,47,34,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWW,10,4,2,27,13,20,8,5,20,36,62,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDL,2,3,11,17,39,WDWWLDWWWDWDWLWW,LWWDDLWWWWWWWWWD
-Stade Rennais,Bastia,4-0,/match/stade-rennes/bastia/2004,2004,34,ligue_1,20,38,0,4,0,11,11,9,13,44,42,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWW,9,5,2,28,15,12,9,11,13,33,41,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDL,1,6,9,11,24,WDWWDDDWDWWLWLWW,DWLWWDWDWWDWWDWD
-Nantes,Lille,2-0,/match/nantes/lillestrom/2004,2004,34,ligue_1,20,38,0,2,0,7,14,8,11,41,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDL,8,5,3,21,11,13,12,8,13,36,34,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWL,6,2,8,21,20,WWDWWLLLDWWWDDWD,LWWWWDDWLWLLLLWW
-Lens,Toulouse,1-1,/match/lens/toulouse-fc/2004,2004,34,ligue_1,20,38,1,1,1,8,13,7,13,27,41,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDW,9,5,2,17,13,17,8,9,16,27,40,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWW,4,2,10,13,21,DWWWLWWWLDWWDDWD,WDWWLWWWDWLWLLWW
-Le Mans,Auxerre,2-1,/match/mans-uc-72/auxerre/2004,2004,34,ligue_1,20,38,0,2,1,19,6,10,17,25,50,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWL,4,6,6,16,16,4,17,6,10,52,29,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWW,5,4,7,17,15,LDLLDDWWWDLDDLLW,WWDWDLLWLWLLDWWD
-Ajaccio,Guingamp,0-0,/match/ajaccio/guingamp/2004,2004,34,ligue_1,20,38,1,0,0,16,8,8,17,28,51,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDW,6,4,6,14,16,14,10,6,17,32,50,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWW,2,3,11,9,28,LLWLDLWLWWDDWLWD,WDWDWLWWWWWLWWDW
-Olympique,Metz,0-1,/match/olympique-marsella/metz/2004,2004,34,ligue_1,20,38,2,0,1,6,16,5,12,47,39,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWW,11,2,3,31,15,18,9,8,16,28,36,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWW,4,5,7,14,17,WWWWWWLLLWWWDWDW,LDWWLLWDWWDLDDWW
-Girondins Bordeaux,Olympique Lyonnais,1-1,/match/bordeaux/olympique-lyonnais/2004,2004,34,ligue_1,20,38,1,1,1,9,12,10,11,33,34,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWL,9,4,3,21,11,1,21,6,6,57,23,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLW,10,2,4,22,15,LWLWLWWDWWWWDWDD,WLWLLLLWDWLLDLLL
-PSG,Stade Rennais,1-0,/match/paris-saint-germain-fc/stade-rennes/2004,2004,35,ligue_1,20,38,0,1,0,3,19,10,5,47,25,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWD,11,4,2,31,15,9,12,9,13,48,42,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWW,2,4,11,16,27,DLWWWLDWWWDWWDWWW,DDWWWWWWDWLWDWLWW
-Toulouse,Nantes,0-1,/match/toulouse-fc/nantes/2004,2004,35,ligue_1,20,38,2,0,1,17,8,10,16,28,41,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWD,4,7,6,14,19,7,15,8,11,43,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLW,6,3,8,20,21,DLLWDLDLDWLLDWDDW,WLWWLWLWDDLWDLWWL
-Sochaux,Lens,0-3,/match/sochaux/lens/2004,2004,35,ligue_1,20,38,2,0,3,4,17,9,8,50,35,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWW,11,4,2,30,14,10,13,8,13,28,42,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWD,4,2,11,10,28,WDWWLDWWWDWDWLWWW,WLWWWLWLWWWWDLDWW
-Montpellier,Nice,2-2,/match/montpellier-hsc/nice/2004,2004,35,ligue_1,20,38,1,2,2,20,8,5,21,37,65,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLW,6,2,9,19,23,11,10,14,10,36,34,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWL,2,9,6,14,23,DLWLWWWLLLDLLLWWL,LDWWDWDDDDDWLDDWW
-Metz,Olympique Lyonnais,1-2,/match/metz/olympique-lyonnais/2004,2004,35,ligue_1,20,38,2,1,2,18,10,8,16,29,36,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWL,5,3,9,14,19,1,21,7,6,58,24,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWD,10,3,4,23,16,LLWDLLLDDWLLLLWWW,WLWLLLLWDWLLDLLLD
-Lille,Girondins Bordeaux,2-1,/match/lillestrom/bordeaux/2004,2004,35,ligue_1,20,38,0,2,1,13,12,8,14,36,36,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLW,6,6,5,15,14,8,12,11,11,34,35,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLD,3,6,8,12,23,WWDDDDLLWDLWLWDWL,WLDWDDDWWLWDWWDWL
-Guingamp,Le Mans,2-4,/match/guingamp/mans-uc-72/2004,2004,35,ligue_1,20,38,2,2,4,14,10,7,17,32,50,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWD,8,3,6,23,22,19,7,10,17,27,51,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLW,2,4,11,9,34,LLWLLWLWDWLWDWWDW,DWWWWWDWDWLWWWDWL
-Bastia,Strasbourg,0-0,/match/bastia/strasbourg/2004,2004,35,ligue_1,20,38,1,0,0,12,9,11,14,33,45,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLW,8,5,4,22,17,15,9,10,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLD,2,6,9,15,26,LWWWWDLWDLDWDWDWL,DWLWDDWWWWWDDWWDL
-Auxerre,Ajaccio,1-1,/match/auxerre/ajaccio/2004,2004,35,ligue_1,20,38,1,1,1,5,17,6,11,53,31,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWW,12,2,3,35,14,16,8,9,17,28,51,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWD,2,4,11,14,35,LWWWWLWWWWWLDDWWW,LLDWWDDWWWWWWWWDW
-Monaco,Olympique,1-0,/match/monaco/olympique-marsella/2004,2004,35,ligue_1,20,38,0,1,0,2,19,11,4,54,25,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLL,10,5,2,33,12,6,16,5,13,47,40,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWL,5,3,9,16,24,WWWWDWWDWWDLWWDDL,LWLWWWLDLWWDDWWLW
-Lens,Auxerre,1-3,/match/lens/auxerre/2004,2004,36,ligue_1,20,38,2,1,3,8,14,8,13,31,42,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWDL,9,6,2,18,14,5,17,7,11,54,32,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWWD,5,4,8,18,17,DWWWLWWWLDWWDDWDD,WWDWDLLWLWLLDWWDW
-Girondins Bordeaux,PSG,3-0,/match/bordeaux/paris-saint-germain-fc/2004,2004,36,ligue_1,20,38,0,3,0,9,12,11,12,35,37,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLDW,9,5,3,22,12,2,20,10,5,48,25,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWDW,8,6,3,16,10,LWLWLWWDWWWWDWDDD,WLWLLDLLDDDLDLWLD
-Nice,Toulouse,1-1,/match/nice/toulouse-fc/2004,2004,36,ligue_1,20,38,1,1,1,11,10,15,10,38,36,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWLD,8,5,4,22,11,18,8,10,17,28,42,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWDL,4,3,10,14,22,WDWWDDWDWWLWDWLLL,WDWWLWWWDWLWLLWWD
-Olympique,Montpellier,1-1,/match/olympique-marsella/montpellier-hsc/2004,2004,36,ligue_1,20,38,1,1,1,7,16,5,14,47,41,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWLW,11,2,4,31,16,20,8,6,21,39,67,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLWD,2,3,12,18,42,WWWWWWLLLWWWDWDWL,LWWDDLWWWWWWWWWDW
-Olympique Lyonnais,Bastia,1-0,/match/olympique-lyonnais/bastia/2004,2004,36,ligue_1,20,38,0,1,0,3,22,7,6,60,25,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWDL,11,4,2,35,8,13,9,12,14,33,45,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLWD,1,6,10,11,28,WDDWDWWWWDWLWWWLW,DWLWWDWDWWDWWDWDW
-Ajaccio,Sochaux,1-0,/match/ajaccio/sochaux/2004,2004,36,ligue_1,20,38,0,1,0,16,8,10,17,29,52,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWDD,6,5,6,14,16,4,17,9,9,50,38,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWWL,6,5,6,20,21,LLWLDLWLWWDDWLWDD,WWLWDLLLLDWWLDDDW
-Strasbourg,Monaco,0-0,/match/strasbourg/monaco/2004,2004,36,ligue_1,20,38,1,0,0,14,9,11,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLDD,7,4,6,26,23,1,20,11,4,55,25,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLLW,9,6,2,21,13,WLWWWLDDWWLWLDLLD,WLDLLDLLLWDLDDLDL
-Nantes,Guingamp,0-0,/match/nantes/guingamp/2004,2004,36,ligue_1,20,38,1,0,0,6,16,8,11,44,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLWL,9,5,3,23,11,15,10,7,18,34,54,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWDL,2,4,11,9,28,WWDWWLLLDWWWDDWDW,WDWDWLWWWWWLWWDWD
-Le Mans,Lille,1-1,/match/mans-uc-72/lillestrom/2004,2004,36,ligue_1,20,38,1,1,1,17,8,10,17,31,53,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLWL,5,6,6,18,17,12,13,8,14,38,37,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLWW,6,2,9,21,22,LDLLDDWWWDLDDLLWW,LWWWWDDWLWLLLLWWW
-Stade Rennais,Metz,0-0,/match/stade-rennes/metz/2004,2004,36,ligue_1,20,38,1,0,0,10,12,9,14,48,43,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWWW,10,5,2,32,15,19,10,8,17,30,38,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWLL,5,5,7,15,17,WDWWDDDWDWWLWLWWW,LDWWLLWDWWDLDDWWL
-Auxerre,Nantes,2-0,/match/auxerre/nantes/2004,2004,37,ligue_1,20,38,0,2,0,4,18,7,11,57,33,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWWDL,12,3,3,36,15,6,16,9,11,44,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLWLD,7,3,8,21,21,LWWWWLWWWWWLDDWWWD,WLWWLWLWDDLWDLWWLL
-Sochaux,Le Mans,3-0,/match/sochaux/mans-uc-72/2004,2004,37,ligue_1,20,38,0,3,0,5,17,9,10,50,39,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWWLW,11,4,3,30,17,17,8,11,17,32,54,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLWLD,3,4,11,13,36,WDWWLDWWWDWDWLWWWL,DWWWWWDWDWLWWWDWLL
-Montpellier,Strasbourg,1-2,/match/montpellier-hsc/strasbourg/2004,2004,37,ligue_1,20,38,2,1,2,20,8,7,21,40,68,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLWDD,6,3,9,21,25,14,9,12,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLDDD,2,7,9,15,26,DLWLWWWLLLDLLLWWLD,DWLWDDWWWWWDDWWDLD
-Metz,Girondins Bordeaux,3-1,/match/metz/bordeaux/2004,2004,37,ligue_1,20,38,0,3,1,19,10,9,17,30,38,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWLLD,5,3,10,15,21,8,13,11,12,38,37,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLDWW,3,6,9,13,25,LLWDLLLDDWLLLLWWWL,WLDWDDDWWLWDWWDWLW
-Lille,Bastia,2-0,/match/lillestrom/bastia/2004,2004,37,ligue_1,20,38,0,2,0,12,13,9,14,39,38,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLWWD,7,6,5,17,15,13,9,12,15,33,46,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLWDW,1,6,11,11,29,WWDDDDLLWDLWLWDWLW,DWLWWDWDWWDWWDWDWW
-PSG,Olympique Lyonnais,1-0,/match/paris-saint-germain-fc/olympique-lyonnais/2004,2004,37,ligue_1,20,38,0,1,0,3,20,10,6,48,28,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWDWW,12,4,2,32,15,1,23,7,6,61,25,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWDLW,11,3,4,25,17,DLWWWLDWWWDWWDWWWW,WLWLLLLWDWLLDLLLDL
-Monaco,Stade Rennais,1-4,/match/monaco/stade-rennes/2004,2004,37,ligue_1,20,38,2,1,4,2,20,12,4,55,25,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLLWD,11,5,2,34,12,10,12,10,14,48,43,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWWWD,2,4,12,16,28,WWWWDWWDWWDLWWDDLW,DDWWWWWWDWLWDWLWWW
-Lens,Ajaccio,2-0,/match/lens/ajaccio/2004,2004,37,ligue_1,20,38,0,2,0,9,14,8,14,32,45,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWDLL,9,6,3,19,17,16,9,10,17,30,52,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWDDW,2,5,11,15,36,DWWWLWWWLDWWDDWDDL,LLDWWDDWWWWWWWWDWD
-Guingamp,Nice,1-2,/match/guingamp/nice/2004,2004,37,ligue_1,20,38,2,1,2,15,10,8,18,34,54,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWDLD,8,3,7,25,26,11,10,16,10,39,37,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWLDD,2,10,6,16,25,LLWLLWLWDWLWDWWDWL,LDWWDWDDDDDWLDDWWD
-Toulouse,Olympique,2-1,/match/toulouse-fc/olympique-marsella/2004,2004,37,ligue_1,20,38,0,2,1,18,8,11,17,29,43,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWDLD,4,7,7,14,20,7,16,6,14,48,42,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWLWD,5,3,10,16,25,DLLWDLDLDWLLDWDDWL,LWLWWWLDLWWDDWWLWW
-Girondins Bordeaux,Monaco,1-3,/match/bordeaux/monaco/2004,2004,38,ligue_1,20,38,2,1,3,9,13,11,13,39,40,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLDWWW,10,5,3,25,12,3,20,12,5,56,29,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLLWDL,9,7,2,21,13,LWLWLWWDWWWWDWDDDW,WLDLLDLLLWDLDDLDLD
-Stade Rennais,Montpellier,4-0,/match/stade-rennes/montpellier-hsc/2004,2004,38,ligue_1,20,38,0,4,0,10,13,10,14,52,44,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWWWDL,10,6,2,32,15,20,8,7,22,41,70,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLWDDL,2,4,12,19,43,WDWWDDDWDWWLWLWWWD,LWWDDLWWWWWWWWWDWD
-Nice,Auxerre,1-1,/match/nice/auxerre/2004,2004,38,ligue_1,20,38,1,1,1,11,11,16,10,41,38,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWLDDL,8,6,4,23,12,4,19,7,11,59,33,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWWDLW,6,4,8,21,18,WDWWDDWDWWLWDWLLLD,WWDWDLLWLWLLDWWDWL
-Nantes,Sochaux,3-1,/match/nantes/sochaux/2004,2004,38,ligue_1,20,38,0,3,1,6,16,9,12,44,34,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLWLDW,9,6,3,23,11,5,18,9,10,53,39,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWWLWW,6,5,7,20,22,WWDWWLLLDWWWDDWDWD,WWLWDLLLLDWWLDDDWW
-Olympique,Guingamp,2-1,/match/olympique-marsella/guingamp/2004,2004,38,ligue_1,20,38,0,2,1,8,16,6,15,49,44,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWLWDW,11,3,4,32,17,15,10,8,19,35,56,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWDLDL,2,5,11,9,28,WWWWWWLLLWWWDWDWLD,WDWDWLWWWWWLWWDWDD
-Olympique Lyonnais,Lille,3-0,/match/olympique-lyonnais/lillestrom/2004,2004,38,ligue_1,20,38,0,3,0,2,23,7,7,61,26,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWDLWW,12,4,2,36,8,12,14,9,14,41,38,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLWWDW,6,3,9,22,23,WDDWDWWWWDWLWWWLWW,LWWWWDDWLWLLLLWWWD
-Ajaccio,Metz,3-1,/match/ajaccio/metz/2004,2004,38,ligue_1,20,38,0,3,1,16,9,10,18,30,54,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWDDWW,7,5,6,15,16,18,11,9,17,33,39,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWLLDW,5,6,7,15,17,LLWLDLWLWWDDWLWDDW,LDWWLLWDWWDLDDWWLD
-Le Mans,Lens,3-0,/match/mans-uc-72/lens/2004,2004,38,ligue_1,20,38,0,3,0,19,8,11,18,32,57,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLWLDW,5,7,6,19,18,7,15,8,14,34,45,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWDLLW,5,2,11,13,28,LDLLDDWWWDLDDLLWWD,WLWWWLWLWWWWDLDWWL
-Bastia,PSG,0-1,/match/bastia/paris-saint-germain-fc/2004,2004,38,ligue_1,20,38,2,0,1,13,9,12,16,33,48,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLWDWW,8,6,4,22,17,1,21,10,6,49,28,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWDWWW,8,6,4,16,13,LWWWWDLWDLDWDWDWLD,WLWLLDLLDDDLDLWLDW
-Strasbourg,Toulouse,0-0,/match/strasbourg/toulouse-fc/2004,2004,38,ligue_1,20,38,1,0,0,14,10,12,15,43,50,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLDDDL,7,5,6,26,23,17,9,11,17,31,44,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWDLDW,4,4,10,15,23,WLWWWLDDWWLWLDLLDD,WDWWLWWWDWLWLLWWDD
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Lille,Olympique Lyonnais,1-0,/match/lillestrom/olympique-lyonnais/2004,2004,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sochaux,Nantes,2-1,/match/sochaux/nantes/2004,2004,1,ligue_1,20,38,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSG,Bastia,0-0,/match/paris-saint-germain-fc/bastia/2004,2004,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Stade Rennais,1-1,/match/montpellier-hsc/stade-rennes/2004,2004,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Metz,Ajaccio,0-1,/match/metz/ajaccio/2004,2004,1,ligue_1,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Guingamp,Olympique,0-1,/match/guingamp/olympique-marsella/2004,2004,1,ligue_1,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,Nice,1-2,/match/auxerre/nice/2004,2004,1,ligue_1,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Monaco,Girondins Bordeaux,2-0,/match/monaco/bordeaux/2004,2004,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Toulouse,Strasbourg,1-1,/match/toulouse-fc/strasbourg/2004,2004,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lens,Le Mans,0-0,/match/lens/mans-uc-72/2004,2004,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lille,PSG,1-0,/match/lillestrom/paris-saint-germain-fc/2004,2004,2,ligue_1,20,38,0,1,0,1,4,1,0,0,1,0,W,1,0,0,1,0,7,2,0,1,0,0,0,D,0,0,0,0,0,W,
+Stade Rennais,Toulouse,1-0,/match/stade-rennes/toulouse-fc/2004,2004,2,ligue_1,20,38,0,1,0,14,1,0,1,0,1,1,D,0,0,0,0,0,8,2,0,1,0,1,1,D,0,0,0,0,0,,
+Nice,Sochaux,1-0,/match/nice/sochaux/2004,2004,2,ligue_1,20,38,0,1,0,6,2,1,0,0,2,1,L,0,0,0,0,0,2,4,1,0,0,2,1,W,0,0,0,0,0,,
+Nantes,Lens,2-0,/match/nantes/lens/2004,2004,2,ligue_1,20,38,0,2,0,18,0,0,0,1,1,2,W,0,0,0,0,0,10,2,0,1,0,0,0,D,0,0,0,0,0,,
+Olympique Lyonnais,Monaco,3-1,/match/olympique-lyonnais/monaco/2004,2004,2,ligue_1,20,38,0,3,1,16,0,0,0,1,0,1,W,0,0,0,0,0,3,4,1,0,0,2,0,W,0,0,0,0,0,,
+Le Mans,Ajaccio,0-1,/match/mans-uc-72/ajaccio/2004,2004,2,ligue_1,20,38,2,0,1,13,1,0,1,0,0,0,D,0,0,0,0,0,5,2,1,0,0,1,0,L,1,0,0,1,0,,L
+Girondins Bordeaux,Montpellier,0-1,/match/bordeaux/montpellier-hsc/2004,2004,2,ligue_1,20,38,2,0,1,15,0,0,0,1,0,2,W,0,0,0,0,0,9,2,0,1,0,1,1,D,0,0,0,0,0,,
+Bastia,Metz,0-2,/match/bastia/metz/2004,2004,2,ligue_1,20,38,2,0,2,12,1,0,1,0,0,0,D,0,0,0,0,0,20,0,0,0,1,0,1,L,0,0,0,0,0,,
+Olympique,Auxerre,1-0,/match/olympique-marsella/auxerre/2004,2004,2,ligue_1,20,38,0,1,0,4,2,1,0,0,1,0,L,0,0,0,0,0,17,0,0,0,1,1,2,L,0,0,0,0,0,,
+Strasbourg,Guingamp,2-0,/match/strasbourg/guingamp/2004,2004,2,ligue_1,20,38,0,2,0,11,1,0,1,0,1,1,D,0,0,0,0,0,19,0,0,0,1,0,1,L,0,0,0,0,0,,
+Auxerre,Strasbourg,3-2,/match/auxerre/strasbourg/2004,2004,3,ligue_1,20,38,0,3,2,19,0,0,0,2,1,3,LW,0,0,1,1,2,5,5,1,1,0,3,1,DW,0,1,0,1,1,L,D
+Toulouse,Lille,0-3,/match/toulouse-fc/lillestrom/2004,2004,3,ligue_1,20,38,2,0,3,13,2,0,1,1,1,2,DW,0,1,0,1,1,1,8,2,0,0,2,0,WW,0,0,0,0,0,D,
+Sochaux,Stade Rennais,1-1,/match/sochaux/stade-rennes/2004,2004,3,ligue_1,20,38,1,1,1,8,4,1,0,1,2,2,WW,1,0,0,2,1,4,5,1,1,0,2,1,DW,0,1,0,1,1,W,D
+Montpellier,Olympique Lyonnais,0-2,/match/montpellier-hsc/olympique-lyonnais/2004,2004,3,ligue_1,20,38,2,0,2,7,4,1,1,0,2,1,DL,0,1,0,1,1,10,4,1,0,1,3,2,WW,0,0,1,0,1,D,W
+Monaco,Bastia,2-0,/match/monaco/bastia/2004,2004,3,ligue_1,20,38,0,2,0,9,4,1,0,1,3,3,WW,1,0,0,2,0,16,1,0,1,1,0,2,DL,0,1,0,0,0,W,D
+Metz,PSG,0-1,/match/metz/paris-saint-germain-fc/2004,2004,3,ligue_1,20,38,2,0,1,15,2,1,0,1,2,1,LL,0,0,1,0,1,12,2,0,1,1,0,1,DW,0,0,1,0,1,L,W
+Le Mans,Nice,1-1,/match/mans-uc-72/nice/2004,2004,3,ligue_1,20,38,1,1,1,17,1,0,1,1,0,1,DL,0,0,1,0,1,2,6,2,0,0,3,1,LW,1,0,0,2,1,L,L
+Guingamp,Girondins Bordeaux,1-3,/match/guingamp/bordeaux/2004,2004,3,ligue_1,20,38,2,1,3,20,0,0,0,2,0,3,LW,0,0,1,0,1,18,0,0,0,2,0,3,WL,0,0,1,0,2,L,W
+Ajaccio,Nantes,1-3,/match/ajaccio/nantes/2004,2004,3,ligue_1,20,38,2,1,3,6,4,2,0,0,2,0,LL,0,0,0,0,0,11,4,1,0,1,3,2,WW,0,0,1,1,2,,W
+Lens,Olympique,2-1,/match/lens/olympique-marsella/2004,2004,3,ligue_1,20,38,0,2,1,14,2,0,1,1,0,2,DW,0,1,0,0,0,3,6,2,0,0,2,0,LW,1,0,0,1,0,D,L
+Girondins Bordeaux,Auxerre,2-0,/match/bordeaux/auxerre/2004,2004,4,ligue_1,20,38,0,2,0,18,2,1,0,2,3,4,WLL,0,0,1,0,1,14,4,1,0,2,4,5,LWW,0,0,1,0,1,L,W
+Strasbourg,Lens,0-1,/match/strasbourg/lens/2004,2004,4,ligue_1,20,38,2,0,1,10,5,1,1,1,5,4,DWW,1,0,0,2,0,5,6,1,1,1,2,3,DWW,0,0,1,0,2,W,W
+Stade Rennais,Guingamp,0-0,/match/stade-rennes/guingamp/2004,2004,4,ligue_1,20,38,1,0,0,8,6,1,2,0,3,2,DWD,1,0,0,1,0,20,0,0,0,3,1,6,LWL,0,0,1,0,2,W,W
+Nice,Ajaccio,2-2,/match/nice/ajaccio/2004,2004,4,ligue_1,20,38,1,2,2,3,7,2,1,0,4,2,LWD,1,0,0,1,0,12,4,2,0,1,3,3,LLL,2,0,0,2,0,W,LL
+Nantes,Le Mans,1-0,/match/nantes/mans-uc-72/2004,2004,4,ligue_1,20,38,0,1,0,7,6,2,0,1,6,3,WWL,1,0,0,2,0,15,3,0,2,1,1,2,DLD,0,1,0,0,0,W,D
+Olympique,Sochaux,2-0,/match/olympique-marsella/sochaux/2004,2004,4,ligue_1,20,38,0,2,0,9,6,2,0,1,3,2,LWW,1,0,0,1,0,4,6,1,1,1,3,3,WWD,0,0,1,0,1,W,W
+Olympique Lyonnais,Toulouse,0-0,/match/olympique-lyonnais/toulouse-fc/2004,2004,4,ligue_1,20,38,1,0,0,6,6,2,0,1,5,2,WWL,1,0,0,3,1,16,2,0,1,2,1,5,DWL,0,0,1,0,1,W,W
+Lille,Metz,1-1,/match/lillestrom/metz/2004,2004,4,ligue_1,20,38,1,1,1,1,10,3,0,0,5,0,WWL,2,0,0,2,0,17,2,1,0,2,2,2,LLL,1,0,0,2,0,WW,L
+Bastia,Montpellier,1-0,/match/bastia/montpellier-hsc/2004,2004,4,ligue_1,20,38,0,1,0,19,1,0,1,2,0,4,DLW,0,0,1,0,2,11,4,1,1,1,2,3,DLL,1,0,0,1,0,L,L
+PSG,Monaco,2-4,/match/paris-saint-germain-fc/monaco/2004,2004,4,ligue_1,20,38,2,2,4,13,4,1,1,1,1,1,DWL,0,1,0,0,0,2,8,2,0,1,5,3,WWW,0,0,1,1,3,D,W
+Guingamp,Olympique Lyonnais,2-0,/match/guingamp/olympique-lyonnais/2004,2004,5,ligue_1,20,38,0,2,0,20,1,0,1,3,1,6,LWLD,0,0,2,1,4,7,8,2,1,1,5,2,WWLD,1,0,1,2,1,LL,WL
+Toulouse,Bastia,0-2,/match/toulouse-fc/bastia/2004,2004,5,ligue_1,20,38,2,0,2,18,3,0,2,2,1,5,DWLD,0,1,1,1,4,13,5,1,1,2,1,4,DLWW,0,1,1,0,2,DL,DW
+Sochaux,Lille,2-1,/match/sochaux/lillestrom/2004,2004,5,ligue_1,20,38,0,2,1,10,6,1,1,2,3,5,WWDW,1,1,0,3,2,1,12,3,1,0,6,1,WWLD,1,0,0,3,0,WD,L
+Nantes,Girondins Bordeaux,0-0,/match/nantes/bordeaux/2004,2004,5,ligue_1,20,38,1,0,0,2,10,3,0,1,7,3,WWLW,2,0,0,3,0,9,6,2,0,2,5,4,WLLW,1,0,1,3,3,WW,WL
+Montpellier,PSG,3-2,/match/montpellier-hsc/paris-saint-germain-fc/2004,2004,5,ligue_1,20,38,0,3,2,14,4,1,1,2,2,4,DLLW,0,1,1,1,3,16,4,1,1,2,3,5,DWLL,1,0,1,1,1,DL,WL
+Le Mans,Strasbourg,0-3,/match/mans-uc-72/strasbourg/2004,2004,5,ligue_1,20,38,2,0,3,17,3,0,2,2,1,3,DLDW,0,1,1,1,2,11,5,1,1,2,5,5,DWWL,0,1,1,3,4,LD,DW
+Auxerre,Stade Rennais,2-1,/match/auxerre/stade-rennes/2004,2004,5,ligue_1,20,38,0,2,1,15,4,1,0,3,4,7,LWWW,1,0,1,4,4,8,8,1,3,0,3,2,DWDD,0,2,0,2,2,LW,DD
+Lens,Nice,1-0,/match/lens/nice/2004,2004,5,ligue_1,20,38,0,1,0,6,8,2,1,1,3,3,DWWL,1,1,0,2,1,5,9,2,2,0,6,4,LWDD,1,1,0,3,2,DW,LD
+Monaco,Metz,1-0,/match/monaco/metz/2004,2004,5,ligue_1,20,38,0,1,0,4,10,3,0,1,9,5,WWWL,2,0,0,4,0,19,3,1,1,2,3,3,LLLD,1,1,0,3,1,WW,LD
+Ajaccio,Olympique,0-1,/match/ajaccio/olympique-marsella/2004,2004,5,ligue_1,20,38,2,0,1,12,5,2,1,1,5,5,LLLD,0,0,1,1,3,3,10,3,0,1,5,2,LWWW,1,0,1,2,2,L,LW
+Olympique Lyonnais,Auxerre,1-1,/match/olympique-lyonnais/auxerre/2004,2004,6,ligue_1,20,38,1,1,1,8,8,2,1,2,5,4,WWLDW,1,1,0,3,1,10,8,2,0,3,6,8,LWWWW,0,0,2,0,3,WD,WW
+Bastia,Guingamp,4-2,/match/bastia/guingamp/2004,2004,6,ligue_1,20,38,0,4,2,12,7,2,1,2,3,4,DLWWL,1,0,1,1,2,16,5,1,1,3,3,6,LWLDW,0,1,1,0,2,LW,WD
+Girondins Bordeaux,Sochaux,1-3,/match/bordeaux/sochaux/2004,2004,6,ligue_1,20,38,2,1,3,14,7,2,1,2,5,4,WLLWD,1,0,1,2,1,6,10,2,1,2,5,6,WWDWW,0,0,2,0,3,LW,WW
+Lille,Monaco,1-1,/match/lillestrom/monaco/2004,2004,6,ligue_1,20,38,1,1,1,2,12,3,1,1,7,3,WWLDW,2,1,0,3,1,1,14,4,0,1,10,5,WWWLW,1,0,1,5,5,WWD,WL
+Olympique,Le Mans,5-0,/match/olympique-marsella/mans-uc-72/2004,2004,6,ligue_1,20,38,0,5,0,3,12,4,0,1,6,2,LWWWL,2,0,0,3,0,18,3,0,2,3,1,6,DLDWL,0,1,1,0,1,WW,DW
+Strasbourg,Ajaccio,3-2,/match/strasbourg/ajaccio/2004,2004,6,ligue_1,20,38,0,3,2,13,7,2,1,2,8,5,DWWLL,1,0,1,2,1,15,5,2,1,2,5,6,LLLDL,2,1,0,4,2,WL,LLD
+Nice,Nantes,1-0,/match/nice/nantes/2004,2004,6,ligue_1,20,38,0,1,0,7,9,2,2,1,6,5,LWDDW,1,1,0,3,2,5,12,3,1,1,7,3,WWLWD,1,0,1,4,3,WD,WL
+Stade Rennais,Lens,2-0,/match/stade-rennes/lens/2004,2004,6,ligue_1,20,38,0,2,0,9,8,1,3,1,4,4,DWDDW,1,1,0,1,0,4,12,3,1,1,4,3,DWWLW,1,0,1,1,2,WD,WL
+Metz,Montpellier,2-1,/match/metz/montpellier-hsc/2004,2004,6,ligue_1,20,38,0,2,1,20,3,1,1,3,3,4,LLLDW,0,0,2,0,2,11,8,2,1,2,5,6,DLLWW,1,0,1,1,1,LL,LW
+PSG,Toulouse,2-1,/match/paris-saint-germain-fc/toulouse-fc/2004,2004,6,ligue_1,20,38,0,2,1,17,4,1,1,3,5,8,DWLLW,0,1,1,2,4,19,3,0,2,3,1,7,DWLDL,0,1,1,0,1,DL,WD
+Sochaux,Strasbourg,3-0,/match/sochaux/strasbourg/2004,2004,7,ligue_1,20,38,0,3,0,7,12,3,1,2,8,7,WWDWWL,2,1,0,5,3,10,11,3,1,2,11,7,DWWLLW,1,1,1,6,4,WDW,DWL
+Toulouse,Metz,1-0,/match/toulouse-fc/metz/2004,2004,7,ligue_1,20,38,0,1,0,20,3,0,2,4,2,9,DWLDLW,0,1,2,1,6,16,7,2,1,3,5,5,LLLDWW,1,1,1,3,2,DLL,LDW
+Nice,Lille,2-0,/match/nice/lillestrom/2004,2004,7,ligue_1,20,38,0,2,0,4,13,3,2,1,7,5,LWDDWW,2,1,0,4,2,3,14,3,2,1,8,4,WWLDWD,1,0,1,4,2,WDW,LW
+Lens,Girondins Bordeaux,1-0,/match/lens/bordeaux/2004,2004,7,ligue_1,20,38,0,1,0,5,12,3,1,2,4,5,DWWLWW,2,1,0,3,1,15,7,2,1,3,6,7,WLLWDL,1,1,1,3,3,DWW,WLD
+Guingamp,PSG,0-2,/match/guingamp/paris-saint-germain-fc/2004,2004,7,ligue_1,20,38,2,0,2,18,5,1,1,4,5,10,LWLDWW,1,0,2,3,4,13,8,2,1,3,7,9,DWLLWW,1,0,2,3,4,LLW,WLW
+Auxerre,Bastia,4-1,/match/auxerre/bastia/2004,2004,7,ligue_1,20,38,0,4,1,12,9,2,1,3,7,9,LWWWWD,2,0,1,6,5,9,11,3,1,2,7,6,DLWWLW,1,1,1,2,2,LWW,DWL
+Ajaccio,Stade Rennais,1-0,/match/ajaccio/stade-rennes/2004,2004,7,ligue_1,20,38,0,1,0,17,5,2,1,3,7,9,LLLDLW,0,0,2,1,4,8,12,2,3,1,6,4,DWDDWW,0,2,1,3,4,LL,DDW
+Nantes,Olympique,1-0,/match/nantes/olympique-marsella/2004,2004,7,ligue_1,20,38,0,1,0,6,12,3,1,2,7,4,WWLWDW,2,1,0,3,0,1,16,5,0,1,11,2,LWWWLW,2,0,1,3,2,WWD,LWL
+Le Mans,Olympique Lyonnais,0-2,/match/mans-uc-72/olympique-lyonnais/2004,2004,7,ligue_1,20,38,2,0,2,19,3,0,2,4,1,11,DLDWLW,0,1,2,1,5,11,10,2,2,2,6,5,WWLDWD,1,0,2,2,3,LDL,WLW
+Montpellier,Monaco,1-2,/match/montpellier-hsc/monaco/2004,2004,7,ligue_1,20,38,2,1,2,14,8,2,1,3,6,8,DLLWWW,1,1,1,4,5,2,15,4,1,1,11,6,WWWLWD,1,1,1,6,6,DLW,WLD
+Olympique Lyonnais,Lens,4-0,/match/olympique-lyonnais/lens/2004,2004,8,ligue_1,20,38,0,4,0,9,12,3,2,2,8,5,WWLDWDL,1,2,0,4,2,4,16,4,1,2,5,5,DWWLWWW,1,0,2,1,4,WDD,WLW
+Stade Rennais,Le Mans,2-0,/match/stade-rennes/mans-uc-72/2004,2004,8,ligue_1,20,38,0,2,0,10,12,2,3,2,6,5,DWDDWWW,2,1,0,3,0,20,3,0,2,5,1,13,DLDWLWL,0,1,2,0,6,WDW,DWW
+PSG,Auxerre,1-0,/match/paris-saint-germain-fc/auxerre/2004,2004,8,ligue_1,20,38,0,1,0,13,10,3,1,3,9,9,DWLLWWL,1,1,1,4,5,8,13,3,1,3,11,10,LWWWWDW,0,1,2,1,4,DLW,WWD
+Monaco,Toulouse,3-0,/match/monaco/toulouse-fc/2004,2004,8,ligue_1,20,38,0,3,0,1,17,5,1,1,13,7,WWWLWDL,3,0,0,5,0,18,7,1,2,4,3,9,DWLDLWW,0,1,2,1,3,WWW,WDW
+Metz,Guingamp,1-1,/match/metz/guingamp/2004,2004,8,ligue_1,20,38,1,1,1,17,7,2,1,4,5,6,LLLDWWW,1,0,2,2,3,19,5,1,1,5,5,12,LWLDWWL,0,1,2,2,6,LLW,WDW
+Olympique,Nice,2-1,/match/olympique-marsella/nice/2004,2004,8,ligue_1,20,38,0,2,1,3,16,5,0,2,11,3,LWWWLWW,3,0,0,8,0,2,17,4,2,1,9,5,LWDDWWW,1,1,1,3,3,WWW,LDW
+Lille,Montpellier,1-1,/match/lillestrom/montpellier-hsc/2004,2004,8,ligue_1,20,38,1,1,1,7,14,3,2,2,8,6,WWLDWDW,2,2,0,4,2,15,8,2,1,4,7,10,DLLWWWL,1,0,2,2,3,WWDD,LWW
+Bastia,Sochaux,2-0,/match/bastia/sochaux/2004,2004,8,ligue_1,20,38,0,2,0,12,11,3,1,3,8,10,DLWWLWW,2,0,1,5,4,6,16,4,1,2,11,7,WWDWWLW,1,0,2,3,4,LWW,WWL
+Girondins Bordeaux,Ajaccio,1-0,/match/bordeaux/ajaccio/2004,2004,8,ligue_1,20,38,0,1,0,16,7,2,1,4,6,8,WLLWDLW,1,0,2,3,4,14,9,3,1,3,8,9,LLLDLWW,2,1,1,6,5,LWL,LLDW
+Strasbourg,Nantes,1-0,/match/strasbourg/nantes/2004,2004,8,ligue_1,20,38,0,1,0,11,11,3,1,3,11,10,DWWLLWW,2,0,1,5,3,5,16,4,1,2,8,4,WWLWDWW,1,0,2,4,4,WLW,WLW
+Nantes,Stade Rennais,1-0,/match/nantes/stade-rennes/2004,2004,9,ligue_1,20,38,0,1,0,5,16,4,1,3,8,5,WWLWDWWW,3,1,0,4,0,9,16,3,3,2,8,5,DWDDWWWW,0,2,2,3,5,WWDW,DDWW
+Toulouse,Montpellier,2-2,/match/toulouse-fc/montpellier-hsc/2004,2004,9,ligue_1,20,38,1,2,2,18,7,1,2,5,3,12,DWLDLWWW,1,1,2,2,6,16,9,2,2,4,8,11,DLLWWWLD,1,1,2,3,4,DLLW,LWWD
+Sochaux,PSG,0-1,/match/sochaux/paris-saint-germain-fc/2004,2004,9,ligue_1,20,38,2,0,1,6,16,4,1,3,11,9,WWDWWLWW,3,1,0,8,3,12,14,4,1,3,10,9,DWLLWWLW,2,0,2,5,4,WDWW,WLWL
+Nice,Strasbourg,0-0,/match/nice/strasbourg/2004,2004,9,ligue_1,20,38,1,0,0,3,17,4,2,2,10,7,LWDDWWWW,3,1,0,6,2,11,15,4,1,3,12,10,DWWLLWWW,1,1,2,6,7,WDWW,DWLW
+Lens,Metz,0-2,/match/lens/metz/2004,2004,9,ligue_1,20,38,2,0,2,4,16,4,1,3,5,9,DWWLWWWW,3,1,0,4,1,17,9,2,2,4,6,7,LLLDWWWD,1,1,2,3,3,DWWW,LDWW
+Le Mans,Girondins Bordeaux,0-0,/match/mans-uc-72/bordeaux/2004,2004,9,ligue_1,20,38,1,0,0,20,3,0,2,6,1,15,DLDWLWLW,0,1,3,1,7,14,11,3,1,4,7,8,WLLWDLWW,1,1,2,3,4,LDLL,WLDW
+Guingamp,Monaco,1-2,/match/guingamp/monaco/2004,2004,9,ligue_1,20,38,2,1,2,19,6,1,2,5,6,13,LWLDWWLD,1,0,3,3,6,1,21,6,1,1,16,7,WWWLWDLW,2,1,1,8,7,LLWL,WLDL
+Auxerre,Lille,3-0,/match/auxerre/lillestrom/2004,2004,9,ligue_1,20,38,0,3,0,13,13,3,1,4,11,11,LWWWWDWW,3,0,1,10,6,7,16,3,3,2,9,7,WWLDWDWD,1,0,2,4,4,LWWW,LWW
+Ajaccio,Olympique Lyonnais,2-4,/match/ajaccio/olympique-lyonnais/2004,2004,9,ligue_1,20,38,2,2,4,15,9,3,1,4,8,10,LLLDLWWW,1,0,2,2,4,8,16,4,2,2,12,5,WWLDWDLW,2,0,2,4,3,LLW,WLWL
+Olympique,Bastia,3-1,/match/olympique-marsella/bastia/2004,2004,9,ligue_1,20,38,0,3,1,2,20,6,0,2,13,4,LWWWLWWW,4,0,0,10,1,10,15,4,1,3,10,10,DLWWLWWW,1,1,2,3,6,WWWW,DWLW
+Strasbourg,Olympique,4-1,/match/strasbourg/olympique-marsella/2004,2004,10,ligue_1,20,38,0,4,1,9,16,4,2,3,12,10,DWWLLWWWD,3,0,1,6,3,1,24,7,0,2,16,5,LWWWLWWWW,2,0,2,3,3,WLWW,LWLW
+PSG,Le Mans,5-1,/match/paris-saint-germain-fc/mans-uc-72/2004,2004,10,ligue_1,20,38,0,5,1,8,16,5,1,3,11,9,DWLLWWLWL,2,1,1,5,5,20,5,0,3,6,1,15,DLDWLWLWD,0,1,3,0,8,DLWW,DWWW
+Montpellier,Guingamp,2-0,/match/montpellier-hsc/guingamp/2004,2004,10,ligue_1,20,38,0,2,0,16,10,2,3,4,10,13,DLLWWWLDD,1,1,2,5,7,19,6,1,2,6,7,15,LWLDWWLDL,0,2,2,3,7,DLWL,WDWD
+Metz,Nantes,1-3,/match/metz/nantes/2004,2004,10,ligue_1,20,38,2,1,3,15,11,3,2,4,8,7,LLLDWWWDL,1,1,2,3,4,3,20,5,1,3,9,5,WWLWDWWWW,1,0,3,4,5,LLWD,WLWW
+Olympique Lyonnais,Sochaux,1-1,/match/olympique-lyonnais/sochaux/2004,2004,10,ligue_1,20,38,1,1,1,5,18,5,2,2,16,7,WWLDWDLWL,2,2,0,8,2,11,16,4,1,4,11,10,WWDWWLWWL,1,0,3,3,6,WDDW,WWLW
+Lille,Ajaccio,0-0,/match/lillestrom/ajaccio/2004,2004,10,ligue_1,20,38,1,0,0,10,16,3,3,3,9,10,WWLDWDWDW,2,3,0,5,3,17,9,3,1,5,10,14,LLLDLWWWL,2,1,2,6,6,WWDDD,LLDWW
+Girondins Bordeaux,Toulouse,1-2,/match/bordeaux/toulouse-fc/2004,2004,10,ligue_1,20,38,2,1,2,14,12,3,2,4,7,8,WLLWDLWWD,2,0,2,4,4,18,9,1,3,5,5,14,DWLDLWWWD,0,1,3,1,6,LWLW,WDWW
+Bastia,Lens,3-1,/match/bastia/lens/2004,2004,10,ligue_1,20,38,0,3,1,13,15,4,1,4,11,13,DLWWLWWWW,3,0,1,7,4,12,16,4,1,4,5,11,DWWLWWWWL,1,0,3,1,8,LWWW,WLWW
+Monaco,Auxerre,1-1,/match/monaco/auxerre/2004,2004,10,ligue_1,20,38,1,1,1,2,23,7,1,1,18,8,WWWLWDLWL,4,0,0,8,0,6,17,4,1,4,14,11,LWWWWDWWW,0,1,3,1,5,WWWW,WWDW
+Stade Rennais,Nice,0-0,/match/stade-rennes/nice/2004,2004,10,ligue_1,20,38,1,0,0,7,16,3,3,3,8,6,DWDDWWWWW,3,1,0,5,0,4,19,4,3,2,10,7,LWDDWWWWD,1,1,2,4,5,WDWW,LDWW
+Nantes,Olympique Lyonnais,0-1,/match/nantes/olympique-lyonnais/2004,2004,11,ligue_1,20,38,2,0,1,3,22,6,1,3,12,6,WWLWDWWWWL,4,1,0,5,0,5,20,5,3,2,17,8,WWLDWDLWLD,3,0,2,8,5,WWDWW,WLWLL
+Strasbourg,Metz,0-2,/match/strasbourg/metz/2004,2004,11,ligue_1,20,38,2,0,2,7,20,5,2,3,16,11,DWWLLWWWDW,4,0,1,10,4,16,11,3,2,5,9,10,LLLDWWWDLL,2,1,2,5,3,WLWWW,LDWWL
+Nice,Girondins Bordeaux,0-0,/match/nice/bordeaux/2004,2004,11,ligue_1,20,38,1,0,0,4,20,4,4,2,10,7,LWDDWWWWDD,3,2,0,6,2,15,12,3,2,5,8,10,WLLWDLWWDL,1,2,2,3,4,WDWWD,WLDWD
+Olympique,Stade Rennais,2-0,/match/olympique-marsella/stade-rennes/2004,2004,11,ligue_1,20,38,0,2,0,2,24,7,0,3,17,9,LWWWLWWWWW,5,0,0,13,2,10,18,3,4,3,8,6,DWDDWWWWWD,0,2,3,3,6,WWWWW,DDWWW
+Lens,Lille,2-1,/match/lens/lillestrom/2004,2004,11,ligue_1,20,38,0,2,1,13,16,4,1,5,6,14,DWWLWWWWLW,3,1,1,4,3,11,18,3,4,3,9,10,WWLDWDWDWD,1,0,3,4,7,DWWWL,LWWW
+Le Mans,Bastia,1-1,/match/mans-uc-72/bastia/2004,2004,11,ligue_1,20,38,1,1,1,20,5,0,3,7,2,20,DLDWLWLWDW,0,2,3,1,7,8,19,5,1,4,14,14,DLWWLWWWWW,1,1,3,4,9,LDLLD,DWLWW
+Guingamp,Toulouse,1-0,/match/guingamp/toulouse-fc/2004,2004,11,ligue_1,20,38,0,1,0,19,6,1,2,7,7,17,LWLDWWLDLW,1,0,4,4,8,17,11,2,3,5,7,15,DWLDLWWWDL,1,1,3,3,7,LLWLL,WDWWL
+Auxerre,Montpellier,0-1,/match/auxerre/montpellier-hsc/2004,2004,11,ligue_1,20,38,2,0,1,9,18,4,2,4,15,12,LWWWWDWWWD,4,0,1,13,6,14,14,3,3,4,12,13,DLLWWWLDDW,1,2,2,5,6,LWWWW,LWWDD
+Ajaccio,PSG,0-0,/match/ajaccio/paris-saint-germain-fc/2004,2004,11,ligue_1,20,38,1,0,0,18,10,3,2,5,10,14,LLLDLWWWLD,1,0,3,4,8,6,20,6,1,3,16,10,DWLLWWLWLW,3,0,2,6,4,LLWL,WLWLL
+Sochaux,Monaco,1-1,/match/sochaux/monaco/2004,2004,11,ligue_1,20,38,1,1,1,12,17,4,2,4,12,11,WWDWWLWWLD,3,1,1,8,4,1,25,7,2,1,19,9,WWWLWDLWLD,3,1,1,10,8,WDWWL,WLDLL
+Olympique Lyonnais,Nice,5-0,/match/olympique-lyonnais/nice/2004,2004,12,ligue_1,20,38,0,5,0,5,22,6,3,2,18,8,WWLDWDLWLDL,2,3,0,9,3,4,22,4,5,2,10,7,LWDDWWWWDDD,1,2,2,4,5,WDDWD,LDWWD
+Toulouse,Auxerre,0-3,/match/toulouse-fc/auxerre/2004,2004,12,ligue_1,20,38,2,0,3,18,11,2,3,6,7,16,DWLDLWWWDLW,1,2,2,4,8,13,18,4,2,5,15,13,LWWWWDWWWDL,0,2,3,2,6,DLLWD,WWDWD
+Stade Rennais,Strasbourg,1-1,/match/stade-rennes/strasbourg/2004,2004,12,ligue_1,20,38,1,1,1,12,18,3,4,4,8,8,DWDDWWWWWDW,3,2,0,5,0,7,20,5,2,4,16,13,DWWLLWWWDWL,1,2,2,6,7,WDWWD,DWLWD
+Montpellier,Nantes,4-1,/match/montpellier-hsc/nantes/2004,2004,12,ligue_1,20,38,0,4,1,14,16,4,3,4,13,13,DLLWWWLDDWL,2,1,2,7,7,3,22,6,1,4,12,7,WWLWDWWWWLL,2,0,3,7,6,DLWLW,WLWWL
+Monaco,Le Mans,4-2,/match/monaco/mans-uc-72/2004,2004,12,ligue_1,20,38,0,4,2,2,26,7,3,1,20,10,WWWLWDLWLDD,4,1,0,9,1,20,7,0,4,7,3,21,DLDWLWLWDWD,0,1,4,1,13,WWWWD,DWWWW
+Metz,Sochaux,0-1,/match/metz/sochaux/2004,2004,12,ligue_1,20,38,2,0,1,16,13,4,2,5,11,10,LLLDWWWDLLL,1,1,3,4,7,10,19,4,3,4,13,12,WWDWWLWWLDD,1,1,3,4,7,LLWDL,WWLWD
+Lille,Guingamp,1-3,/match/lillestrom/guingamp/2004,2004,12,ligue_1,20,38,2,1,3,11,18,3,4,4,10,12,WWLDWDWDWDW,2,4,0,5,3,19,10,2,2,7,8,17,LWLDWWLDLWW,0,2,3,3,9,WWDDDD,WDWDW
+Girondins Bordeaux,Olympique,1-0,/match/bordeaux/olympique-marsella/2004,2004,12,ligue_1,20,38,0,1,0,15,13,3,3,5,8,10,WLLWDLWWDLD,2,0,3,5,6,1,28,8,0,3,19,9,LWWWLWWWWWW,2,0,3,4,7,LWLWL,LWLWW
+Bastia,Ajaccio,1-1,/match/bastia/ajaccio/2004,2004,12,ligue_1,20,38,1,1,1,8,20,5,2,4,15,15,DLWWLWWWWWD,4,0,1,10,5,17,12,3,3,5,10,14,LLLDLWWWLDD,2,2,2,6,6,LWWWW,LLDWWD
+PSG,Lens,0-1,/match/paris-saint-germain-fc/lens/2004,2004,12,ligue_1,20,38,2,0,1,6,21,6,2,3,16,10,DWLLWWLWLWD,3,1,1,10,6,9,20,5,1,5,8,15,DWWLWWWWLWW,1,0,4,2,11,DLWWW,WLWWW
+Nice,Bastia,2-0,/match/nice/bastia/2004,2004,13,ligue_1,20,38,0,2,0,5,22,4,5,3,10,12,LWDDWWWWDDDW,3,3,0,6,2,6,22,5,3,4,16,16,DLWWLWWWWWDD,1,2,3,5,10,WDWWDD,DWLWWD
+Le Mans,Metz,2-0,/match/mans-uc-72/metz/2004,2004,13,ligue_1,20,38,0,2,0,20,7,0,4,8,5,25,DLDWLWLWDWDW,0,3,3,2,8,16,13,4,2,6,11,11,LLLDWWWDLLLL,3,1,2,7,3,LDLLDD,LDWWLL
+Nantes,PSG,0-1,/match/nantes/paris-saint-germain-fc/2004,2004,13,ligue_1,20,38,2,0,1,4,22,6,1,5,13,11,WWLWDWWWWLLW,4,1,1,5,1,8,21,6,2,4,16,11,DWLLWWLWLWDL,3,1,2,6,4,WWDWWL,WLWLLD
+Stade Rennais,Lille,2-2,/match/stade-rennes/lillestrom/2004,2004,13,ligue_1,20,38,1,2,2,12,20,3,5,4,9,9,DWDDWWWWWDWD,3,3,0,6,1,14,18,3,4,5,11,15,WWLDWDWDWDWL,1,0,4,5,9,WDWWDD,LWWWW
+Strasbourg,Girondins Bordeaux,1-1,/match/strasbourg/bordeaux/2004,2004,13,ligue_1,20,38,1,1,1,9,21,5,3,4,17,14,DWWLLWWWDWLD,4,0,2,10,6,15,17,4,3,5,9,10,WLLWDLWWDLDW,1,3,2,3,4,WLWWWL,WLDWDD
+Sochaux,Toulouse,3-1,/match/sochaux/toulouse-fc/2004,2004,13,ligue_1,20,38,0,3,1,10,21,5,3,4,14,12,WWDWWLWWLDDL,3,2,1,9,5,19,11,2,3,7,7,19,DWLDLWWWDLWL,1,1,4,3,8,WDWWLD,WDWWLW
+Lens,Montpellier,3-2,/match/lens/montpellier-hsc/2004,2004,13,ligue_1,20,38,0,3,2,7,22,6,1,5,9,15,DWWLWWWWLWWL,4,1,1,6,4,11,20,5,3,4,17,14,DLLWWWLDDWLW,2,2,2,6,6,DWWWLW,LWWDDL
+Auxerre,Guingamp,3-0,/match/auxerre/guingamp/2004,2004,13,ligue_1,20,38,0,3,0,13,20,5,2,5,18,13,LWWWWDWWWDLL,4,0,2,13,7,18,12,3,2,7,11,18,LWLDWWLDLWWL,1,2,3,6,10,LWWWWL,WDWDWL
+Ajaccio,Monaco,0-1,/match/ajaccio/monaco/2004,2004,13,ligue_1,20,38,2,0,1,17,13,3,4,5,11,15,LLLDLWWWLDDD,1,1,3,4,8,1,30,8,3,1,24,12,WWWLWDLWLDDW,3,2,1,11,9,LLWLD,WLDLLD
+Olympique,Olympique Lyonnais,1-4,/match/olympique-marsella/olympique-lyonnais/2004,2004,13,ligue_1,20,38,2,1,4,2,28,8,0,4,19,10,LWWWLWWWWWWW,6,0,0,15,2,3,26,7,3,2,23,8,WWLDWDLWLDLW,4,0,2,9,5,WWWWWW,WLWLLL
+Olympique Lyonnais,Strasbourg,1-0,/match/olympique-lyonnais/strasbourg/2004,2004,14,ligue_1,20,38,0,1,0,2,28,8,3,2,27,9,WWLDWDLWLDLWL,3,3,0,14,3,9,23,5,4,4,18,15,DWWLLWWWDWLDD,1,3,2,7,8,WDDWDW,DWLWDD
+Toulouse,Le Mans,1-1,/match/toulouse-fc/mans-uc-72/2004,2004,14,ligue_1,20,38,1,1,1,19,11,2,3,8,8,22,DWLDLWWWDLWLW,1,2,3,4,11,20,11,1,4,8,7,25,DLDWLWLWDWDWW,0,1,5,3,17,DLLWDL,DWWWWW
+Montpellier,Ajaccio,3-1,/match/montpellier-hsc/ajaccio/2004,2004,14,ligue_1,20,38,0,3,1,13,20,5,3,5,19,17,DLLWWWLDDWLWW,3,1,2,11,8,17,13,3,4,6,11,16,LLLDLWWWLDDDL,2,3,2,7,7,DLWLWW,LLDWWDD
+Metz,Auxerre,0-2,/match/metz/auxerre/2004,2004,14,ligue_1,20,38,2,0,2,16,13,4,2,7,11,13,LLLDWWWDLLLLW,1,1,4,4,8,7,24,6,2,5,21,13,LWWWWDWWWDLLW,1,2,3,5,6,LLWDLL,WWDWDL
+Lille,Olympique,0-2,/match/lillestrom/olympique-marsella/2004,2004,14,ligue_1,20,38,2,0,2,14,19,3,5,5,13,17,WWLDWDWDWDWLD,2,4,1,6,6,3,28,8,0,5,20,14,LWWWLWWWWWWWL,2,0,4,4,8,WWDDDDL,LWLWWW
+Guingamp,Sochaux,1-2,/match/guingamp/sochaux/2004,2004,14,ligue_1,20,38,2,1,2,18,12,3,2,8,11,21,LWLDWWLDLWWLW,2,0,4,5,8,6,25,6,3,4,17,13,WWDWWLWWLDDLW,2,1,3,5,7,LLWLLW,WWLWDL
+Girondins Bordeaux,Stade Rennais,2-1,/match/bordeaux/stade-rennes/2004,2004,14,ligue_1,20,38,0,2,1,15,18,4,4,5,10,11,WLLWDLWWDLDWD,3,0,3,6,6,12,22,3,6,4,11,11,DWDDWWWWWDWDD,0,2,4,3,8,LWLWLW,DDWWWW
+Bastia,Nantes,1-3,/match/bastia/nantes/2004,2004,14,ligue_1,20,38,2,1,3,11,22,5,3,5,16,18,DLWWLWWWWWDDW,4,1,1,11,6,10,22,6,1,6,13,12,WWLWDWWWWLLWL,2,0,4,8,10,LWWWWD,WLWWLW
+Monaco,Lens,2-0,/match/monaco/lens/2004,2004,14,ligue_1,20,38,0,2,0,1,32,9,3,1,25,12,WWWLWDLWLDDWL,5,1,0,13,3,5,26,7,1,5,12,17,DWWLWWWWLWWLW,2,0,4,3,11,WWWWDW,WLWWWL
+PSG,Nice,0-0,/match/paris-saint-germain-fc/nice/2004,2004,14,ligue_1,20,38,1,0,0,8,23,7,2,4,17,11,DWLLWWLWLWDLL,3,1,2,10,7,4,26,5,5,3,12,12,LWDDWWWWDDDWW,1,2,3,4,10,DLWWWL,LDWWDW
+Stade Rennais,Olympique Lyonnais,3-1,/match/stade-rennes/olympique-lyonnais/2004,2004,15,ligue_1,20,38,0,3,1,14,22,3,6,5,12,13,DWDDWWWWWDWDDW,3,4,0,8,3,2,32,9,3,2,28,9,WWLDWDLWLDLWLW,5,0,2,13,6,WDWWDDD,WLWLLLL
+Strasbourg,Lille,2-2,/match/strasbourg/lillestrom/2004,2004,15,ligue_1,20,38,1,2,2,11,23,5,4,5,18,16,DWWLLWWWDWLDDW,4,1,2,11,7,15,19,3,5,6,13,19,WWLDWDWDWDWLDL,1,1,4,7,11,WLWWWLD,LWWWWD
+Nice,Metz,1-1,/match/nice/metz/2004,2004,15,ligue_1,20,38,1,1,1,4,27,5,6,3,12,12,LWDDWWWWDDDWWD,4,3,0,8,2,16,13,4,2,8,11,15,LLLDWWWDLLLLWL,3,1,3,7,5,WDWWDDW,LDWWLLW
+Nantes,Monaco,0-1,/match/nantes/monaco/2004,2004,15,ligue_1,20,38,2,0,1,10,24,7,1,6,16,13,WWLWDWWWWLLWLL,4,1,2,5,2,1,36,10,3,1,27,12,WWWLWDLWLDDWLW,4,2,1,12,9,WWDWWLL,WLDLLDL
+Le Mans,Montpellier,4-0,/match/mans-uc-72/montpellier-hsc/2004,2004,15,ligue_1,20,38,0,4,0,20,12,1,5,8,8,26,DLDWLWLWDWDWWD,1,3,3,4,8,9,24,6,3,5,22,18,DLLWWWLDDWLWWW,2,2,3,8,9,LDLLDDW,LWWDDLW
+Ajaccio,Toulouse,2-1,/match/ajaccio/toulouse-fc/2004,2004,15,ligue_1,20,38,0,2,1,17,13,3,4,7,12,19,LLLDLWWWLDDDLW,1,1,4,4,9,18,13,2,4,8,9,23,DWLDLWWWDLWLWD,1,1,5,4,11,LLWLDL,WDWWLWW
+Girondins Bordeaux,Bastia,1-1,/match/bordeaux/bastia/2004,2004,15,ligue_1,20,38,1,1,1,12,22,5,4,5,12,12,WLLWDLWWDLDWDW,4,0,3,8,7,13,22,5,3,6,17,21,DLWWLWWWWWDDWL,1,2,4,5,12,LWLWLWW,DWLWWDW
+Lens,Guingamp,2-1,/match/lens/guingamp/2004,2004,15,ligue_1,20,38,0,2,1,6,26,7,1,6,12,19,DWWLWWWWLWWLWW,5,1,1,9,6,19,12,3,2,9,12,23,LWLDWWLDLWWLWL,1,2,4,6,13,DWWWLWW,WDWDWLW
+Sochaux,Auxerre,3-2,/match/sochaux/auxerre/2004,2004,15,ligue_1,20,38,0,3,2,5,27,7,3,4,19,14,WWDWWLWWLDDLWL,4,2,1,12,6,7,26,7,2,5,23,13,LWWWWDWWWDLLWL,2,2,3,7,6,WDWWLDW,WWDWDLL
+Olympique,PSG,0-1,/match/olympique-marsella/paris-saint-germain-fc/2004,2004,15,ligue_1,20,38,2,0,1,3,30,9,0,5,22,14,LWWWLWWWWWWWLL,6,0,1,16,6,8,25,7,3,4,17,11,DWLLWWLWLWDLLD,4,1,2,7,4,WWWWWWL,WLWLLDL
+Auxerre,Le Mans,1-0,/match/auxerre/mans-uc-72/2004,2004,16,ligue_1,20,38,0,1,0,8,26,7,2,6,25,16,LWWWWDWWWDLLWLW,5,0,2,16,7,17,16,2,5,8,12,26,DLDWLWLWDWDWWDW,0,2,5,4,18,LWWWWLW,DWWWWWD
+PSG,Strasbourg,3-2,/match/paris-saint-germain-fc/strasbourg/2004,2004,16,ligue_1,20,38,0,3,2,7,27,8,3,4,18,11,DWLLWWLWLWDLLDL,3,2,2,10,7,10,25,5,5,5,20,18,DWWLLWWWDWLDDWD,1,3,3,7,9,DLWWWLD,DWLWDDW
+Toulouse,Lens,1-2,/match/toulouse-fc/lens/2004,2004,16,ligue_1,20,38,2,1,2,19,13,2,4,9,10,25,DWLDLWWWDLWLWDW,1,3,3,5,12,5,30,8,1,6,14,20,DWWLWWWWLWWLWWW,2,0,5,3,13,DLLWDLD,WLWWWLW
+Lille,Nantes,2-0,/match/lillestrom/nantes/2004,2004,16,ligue_1,20,38,0,2,0,15,20,3,6,6,15,21,WWLDWDWDWDWLDLD,2,4,2,6,8,11,24,7,1,7,16,14,WWLWDWWWWLLWLLL,3,0,4,11,11,WWDDDDLL,WLWWLWL
+Guingamp,Ajaccio,2-0,/match/guingamp/ajaccio/2004,2004,16,ligue_1,20,38,0,2,0,20,12,3,2,10,13,25,LWLDWWLDLWWLWLW,2,0,5,6,10,16,17,4,4,7,14,20,LLLDLWWWLDDDLWW,2,3,3,8,10,LLWLLWL,LLDWWDDW
+Bastia,Stade Rennais,3-2,/match/bastia/stade-rennes/2004,2004,16,ligue_1,20,38,0,3,2,14,23,5,4,6,18,22,DLWWLWWWWWDDWLD,4,1,2,12,9,9,26,4,6,5,15,14,DWDDWWWWWDWDDWW,0,2,5,4,10,LWWWWDL,DDWWWWW
+Monaco,Nice,1-1,/match/monaco/nice/2004,2004,16,ligue_1,20,38,1,1,1,1,38,11,3,1,28,12,WWWLWDLWLDDWLWL,6,1,0,15,3,6,29,5,7,3,13,13,LWDDWWWWDDDWWDD,1,3,3,4,10,WWWWDWW,LDWWDWD
+Montpellier,Sochaux,1-3,/match/montpellier-hsc/sochaux/2004,2004,16,ligue_1,20,38,2,1,3,13,24,6,3,6,22,22,DLLWWWLDDWLWWWW,4,1,2,14,9,3,31,8,3,4,22,16,WWDWWLWWLDDLWLW,3,1,3,7,8,DLWLWWW,WWLWDLL
+Metz,Olympique,1-1,/match/metz/olympique-marsella/2004,2004,16,ligue_1,20,38,1,1,1,18,14,4,3,8,12,16,LLLDWWWDLLLLWLD,1,1,5,4,10,4,30,9,0,6,22,15,LWWWLWWWWWWWLLL,3,0,4,6,8,LLWDLLL,LWLWWWL
+Olympique Lyonnais,Girondins Bordeaux,3-0,/match/olympique-lyonnais/bordeaux/2004,2004,16,ligue_1,20,38,0,3,0,2,32,9,3,3,29,12,WWLDWDLWLDLWLWW,4,3,0,15,3,12,24,5,5,5,13,13,WLLWDLWWDLDWDWD,1,4,2,4,5,WDDWDWW,WLDWDDD
+Olympique Lyonnais,Metz,2-1,/match/olympique-lyonnais/metz/2004,2004,17,ligue_1,20,38,0,2,1,2,36,10,3,3,32,12,WWLDWDLWLDLWLWWW,5,3,0,18,3,18,16,4,4,8,13,17,LLLDWWWDLLLLWLDD,3,2,3,8,6,WDDWDWWW,LDWWLLWD
+Olympique,Monaco,1-2,/match/olympique-marsella/monaco/2004,2004,17,ligue_1,20,38,2,1,2,5,31,9,1,6,23,16,LWWWLWWWWWWWLLLD,6,0,2,16,7,1,40,11,4,1,29,13,WWWLWDLWLDDWLWLD,5,2,1,13,9,WWWWWWLL,WLDLLDLL
+Strasbourg,Bastia,4-2,/match/strasbourg/bastia/2004,2004,17,ligue_1,20,38,0,4,2,11,25,5,5,6,22,21,DWWLLWWWDWLDDWDW,4,2,2,13,9,9,27,6,4,6,21,24,DLWWLWWWWWDDWLDW,1,3,4,6,13,WLWWWLDD,DWLWWDWD
+Stade Rennais,PSG,1-1,/match/stade-rennes/paris-saint-germain-fc/2004,2004,17,ligue_1,20,38,1,1,1,10,26,4,6,6,17,17,DWDDWWWWWDWDDWWW,4,4,0,11,4,6,31,9,3,4,21,13,DWLLWWLWLWDLLDLW,5,1,2,8,4,WDWWDDDW,WLWLLDLL
+Nantes,Toulouse,1-1,/match/nantes/toulouse-fc/2004,2004,17,ligue_1,20,38,1,1,1,13,24,7,1,8,16,16,WWLWDWWWWLLWLLLW,4,1,3,5,3,20,13,2,4,10,11,27,DWLDLWWWDLWLWDWL,1,1,6,5,13,WWDWWLLL,WDWWLWWW
+Girondins Bordeaux,Lille,2-1,/match/bordeaux/lillestrom/2004,2004,17,ligue_1,20,38,0,2,1,15,24,5,5,6,13,16,WLLWDLWWDLDWDWDW,4,1,3,9,8,12,24,4,6,6,17,21,WWLDWDWDWDWLDLDW,1,2,4,9,13,LWLWLWWD,LWWWWDD
+Ajaccio,Auxerre,1-2,/match/ajaccio/auxerre/2004,2004,17,ligue_1,20,38,2,1,2,16,17,4,4,8,14,22,LLLDLWWWLDDDLWWW,2,1,4,6,10,8,30,8,2,6,26,16,LWWWWDWWWDLLWLWW,2,2,4,9,9,LLWLDLW,WWDWDLLW
+Lens,Sochaux,0-3,/match/lens/sochaux/2004,2004,17,ligue_1,20,38,2,0,3,4,32,9,1,6,16,21,DWWLWWWWLWWLWWWL,6,1,1,11,7,3,33,9,3,4,25,17,WWDWWLWWLDDLWLWL,4,1,3,10,9,DWWWLWWW,WWLWDLLL
+Nice,Montpellier,2-1,/match/nice/montpellier-hsc/2004,2004,17,ligue_1,20,38,0,2,1,7,30,5,8,3,14,14,LWDDWWWWDDDWWDDD,4,4,0,9,3,14,24,6,3,7,23,25,DLLWWWLDDWLWWWWL,2,2,4,8,13,WDWWDDWD,LWWDDLWW
+Le Mans,Guingamp,2-0,/match/mans-uc-72/guingamp/2004,2004,17,ligue_1,20,38,0,2,0,17,16,2,5,9,12,27,DLDWLWLWDWDWWDWW,2,3,3,8,8,19,16,4,2,10,15,25,LWLDWWLDLWWLWLWW,1,2,5,7,15,LDLLDDWW,WDWDWLWW
+PSG,Girondins Bordeaux,2-1,/match/paris-saint-germain-fc/bordeaux/2004,2004,18,ligue_1,20,38,0,2,1,6,32,9,4,4,22,14,DWLLWWLWLWDLLDLWD,4,2,2,13,9,11,28,6,5,6,15,17,WLLWDLWWDLDWDWDWW,1,4,3,4,8,DLWWWLDW,WLDWDDDW
+Toulouse,Nice,1-1,/match/toulouse-fc/nice/2004,2004,18,ligue_1,20,38,1,1,1,20,14,2,5,10,12,28,DWLDLWWWDLWLWDWLD,1,3,4,6,14,4,34,6,8,3,16,15,LWDDWWWWDDDWWDDDW,1,4,3,5,11,DLLWDLDL,LDWWDWDD
+Sochaux,Ajaccio,2-0,/match/sochaux/ajaccio/2004,2004,18,ligue_1,20,38,0,2,0,3,35,10,3,4,28,17,WWDWWLWWLDDLWLWLL,5,2,1,15,8,17,17,4,4,9,15,24,LLLDLWWWLDDDLWWWL,2,3,4,8,12,WDWWLDWW,LLDWWDDWW
+Metz,Stade Rennais,1-1,/match/metz/stade-rennes/2004,2004,18,ligue_1,20,38,1,1,1,18,16,4,4,9,14,19,LLLDWWWDLLLLWLDDW,1,2,5,5,11,10,28,4,7,6,18,18,DWDDWWWWWDWDDWWWD,0,2,6,6,13,LLWDLLLD,DDWWWWWW
+Lille,Le Mans,1-1,/match/lillestrom/mans-uc-72/2004,2004,18,ligue_1,20,38,1,1,1,14,24,4,6,7,18,23,WWLDWDWDWDWLDLDWW,3,4,2,8,8,16,20,3,5,9,14,27,DLDWLWLWDWDWWDWWW,0,2,6,4,19,WWDDDDLLW,DWWWWWDW
+Guingamp,Nantes,1-1,/match/guingamp/nantes/2004,2004,18,ligue_1,20,38,1,1,1,19,16,4,2,11,15,27,LWLDWWLDLWWLWLWWW,3,0,5,8,10,13,26,7,2,8,17,17,WWLWDWWWWLLWLLLWD,3,0,5,11,13,LLWLLWLW,WLWWLWLW
+Bastia,Olympique Lyonnais,0-0,/match/bastia/olympique-lyonnais/2004,2004,18,ligue_1,20,38,1,0,0,12,27,6,4,7,23,28,DLWWLWWWWWDDWLDWW,5,1,2,15,11,2,40,11,3,3,34,13,WWLDWDLWLDLWLWWWW,5,0,3,14,9,LWWWWDLW,WLWLLLLW
+Auxerre,Lens,2-0,/match/auxerre/lens/2004,2004,18,ligue_1,20,38,0,2,0,7,32,9,2,6,28,17,LWWWWDWWWDLLWLWWL,6,0,2,17,7,5,32,9,1,7,16,24,DWWLWWWWLWWLWWWLL,3,0,5,5,14,LWWWWLWW,WLWWWLWL
+Monaco,Strasbourg,2-0,/match/monaco/strasbourg/2004,2004,18,ligue_1,20,38,0,2,0,1,42,12,4,1,31,14,WWWLWDLWLDDWLWLDL,6,2,0,16,4,9,29,6,5,6,26,23,DWWLLWWWDWLDDWDWW,1,3,4,9,12,WWWWDWWD,DWLWDDWW
+Montpellier,Olympique,0-1,/match/montpellier-hsc/olympique-marsella/2004,2004,18,ligue_1,20,38,2,0,1,15,24,6,3,8,24,27,DLLWWWLDDWLWWWWLW,4,1,3,15,12,8,31,9,1,7,24,18,LWWWLWWWWWWWLLLDL,3,1,4,7,9,DLWLWWWL,LWLWWWLD
+Olympique Lyonnais,PSG,1-1,/match/olympique-lyonnais/paris-saint-germain-fc/2004,2004,19,ligue_1,20,38,1,1,1,2,41,11,4,3,34,13,WWLDWDLWLDLWLWWWWD,6,3,0,20,4,4,36,10,4,4,24,15,DWLLWWLWLWDLLDLWDW,5,2,2,9,5,WDDWDWWWW,WLWLLDLLD
+Stade Rennais,Monaco,1-0,/match/stade-rennes/monaco/2004,2004,19,ligue_1,20,38,0,1,0,11,29,4,8,6,19,19,DWDDWWWWWDWDDWWWDD,4,5,0,12,5,1,46,13,4,1,33,14,WWWLWDLWLDDWLWLDLW,6,2,1,15,10,WDWWDDDWD,WLDLLDLLL
+Nice,Guingamp,2-0,/match/nice/guingamp/2004,2004,19,ligue_1,20,38,0,2,0,6,35,6,9,3,17,16,LWDDWWWWDDDWWDDDWD,5,4,0,11,4,18,18,4,3,11,16,28,LWLDWWLDLWWLWLWWWD,1,2,6,7,17,WDWWDDWDW,WDWDWLWWW
+Nantes,Auxerre,1-0,/match/nantes/auxerre/2004,2004,19,ligue_1,20,38,0,1,0,13,27,7,3,8,18,18,WWLWDWWWWLLWLLLWDD,4,2,3,6,4,5,36,10,2,6,30,17,LWWWWDWWWDLLWLWWLW,3,2,4,11,10,WWDWWLLLD,WWDWDLLWL
+Le Mans,Sochaux,2-2,/match/mans-uc-72/sochaux/2004,2004,19,ligue_1,20,38,1,2,2,16,21,3,6,9,15,28,DLDWLWLWDWDWWDWWWD,3,3,3,10,8,3,39,11,3,4,30,17,WWDWWLWWLDDLWLWLLW,5,1,3,13,9,LDLLDDWWW,WWLWDLLLL
+Girondins Bordeaux,Metz,2-0,/match/bordeaux/metz/2004,2004,19,ligue_1,20,38,0,2,0,12,28,6,5,7,16,19,WLLWDLWWDLDWDWDWWW,5,1,3,11,9,17,18,4,5,9,15,20,LLLDWWWDLLLLWLDDWD,3,2,4,9,8,LWLWLWWDW,LDWWLLWDW
+Bastia,Lille,0-2,/match/bastia/lillestrom/2004,2004,19,ligue_1,20,38,2,0,2,9,29,6,5,7,23,28,DLWWLWWWWWDDWLDWWD,5,2,2,15,11,14,26,4,7,7,19,24,WWLDWDWDWDWLDLDWWD,1,2,5,10,15,LWWWWDLWD,LWWWWDDW
+Ajaccio,Lens,2-0,/match/ajaccio/lens/2004,2004,19,ligue_1,20,38,0,2,0,19,17,4,4,10,15,26,LLLDLWWWLDDDLWWWLW,2,1,5,7,12,8,32,9,1,8,16,26,DWWLWWWWLWWLWWWLLW,3,0,6,5,16,LLWLDLWL,WLWWWLWLW
+Olympique,Toulouse,1-0,/match/olympique-marsella/toulouse-fc/2004,2004,19,ligue_1,20,38,0,1,0,7,33,10,1,7,25,18,LWWWLWWWWWWWLLLDLL,6,0,3,17,9,20,16,2,6,10,13,29,DWLDLWWWDLWLWDWLDD,1,2,6,6,14,WWWWWWLLL,WDWWLWWWD
+Strasbourg,Montpellier,4-2,/match/strasbourg/montpellier-hsc/2004,2004,19,ligue_1,20,38,0,4,2,10,29,6,5,7,26,25,DWWLLWWWDWLDDWDWWW,5,2,2,17,11,15,24,6,3,9,24,28,DLLWWWLDDWLWWWWLWL,2,2,5,9,15,WLWWWLDDW,LWWDDLWWW
+Monaco,Olympique Lyonnais,3-0,/match/monaco/olympique-lyonnais/2004,2004,20,ligue_1,20,38,0,3,0,1,46,13,4,2,33,15,WWWLWDLWLDDWLWLDLWW,7,2,0,18,4,2,43,11,5,3,35,14,WWLDWDLWLDLWLWWWWDD,5,1,3,14,9,WWWWDWWDW,WLWLLLLWD
+Sochaux,Nice,0-0,/match/sochaux/nice/2004,2004,20,ligue_1,20,38,1,0,0,3,40,11,4,4,32,19,WWDWWLWWLDDLWLWLLWD,6,2,1,17,8,4,39,7,9,3,19,16,LWDDWWWWDDDWWDDDWDW,1,5,3,6,12,WDWWLDWWW,LDWWDWDDD
+Montpellier,Girondins Bordeaux,1-2,/match/montpellier-hsc/bordeaux/2004,2004,20,ligue_1,20,38,2,1,2,15,24,6,3,10,26,32,DLLWWWLDDWLWWWWLWLW,4,1,4,15,13,11,32,7,5,7,18,19,WLLWDLWWDLDWDWDWWWW,1,4,4,5,10,DLWLWWWLL,WLDWDDDWW
+Metz,Bastia,1-0,/match/metz/bastia/2004,2004,20,ligue_1,20,38,0,1,0,18,18,4,5,10,15,22,LLLDWWWDLLLLWLDDWDW,1,3,5,6,12,13,29,6,5,8,23,30,DLWWLWWWWWDDWLDWWDL,1,3,5,8,17,LLWDLLLDD,DWLWWDWDW
+Lens,Nantes,0-0,/match/lens/nantes/2004,2004,20,ligue_1,20,38,1,0,0,10,32,9,1,9,16,28,DWWLWWWWLWWLWWWLLWW,6,1,2,11,10,12,31,8,3,8,19,18,WWLWDWWWWLLWLLLWDDW,3,1,5,12,14,DWWWLWWWL,WLWWLWLWD
+Guingamp,Strasbourg,3-2,/match/guingamp/strasbourg/2004,2004,20,ligue_1,20,38,0,3,2,19,18,4,3,12,16,30,LWLDWWLDLWWLWLWWWDW,3,1,5,9,11,8,33,7,5,7,30,27,DWWLLWWWDWLDDWDWWWW,1,3,5,9,14,LLWLLWLWD,DWLWDDWWW
+Auxerre,Olympique,2-0,/match/auxerre/olympique-marsella/2004,2004,20,ligue_1,20,38,0,2,0,7,36,10,2,7,30,18,LWWWWDWWWDLLWLWWLWW,7,0,2,19,7,6,37,11,1,7,26,18,LWWWLWWWWWWWLLLDLLW,4,1,4,8,9,LWWWWLWWW,LWLWWWLDL
+Ajaccio,Le Mans,2-0,/match/ajaccio/mans-uc-72/2004,2004,20,ligue_1,20,38,0,2,0,17,21,5,4,10,17,26,LLLDLWWWLDDDLWWWLWW,3,1,5,9,12,16,23,3,7,9,17,30,DLDWLWLWDWDWWDWWWDD,0,3,6,5,20,LLWLDLWLW,DWWWWWDWD
+PSG,Lille,1-0,/match/paris-saint-germain-fc/lillestrom/2004,2004,20,ligue_1,20,38,0,1,0,5,37,10,5,4,25,16,DWLLWWLWLWDLLDLWDWD,5,2,2,15,10,14,28,5,7,7,21,24,WWLDWDWDWDWLDLDWWDL,2,2,5,12,15,DLWWWLDWW,LWWWWDDWL
+Toulouse,Stade Rennais,2-0,/match/toulouse-fc/stade-rennes/2004,2004,20,ligue_1,20,38,0,2,0,20,16,2,6,11,13,30,DWLDLWWWDLWLWDWLDDW,1,4,4,7,15,9,33,5,8,6,20,19,DWDDWWWWWDWDDWWWDDW,0,3,6,7,14,DLLWDLDLD,DDWWWWWWD
+Bastia,Monaco,0-0,/match/bastia/monaco/2004,2004,21,ligue_1,20,38,1,0,0,13,29,6,5,9,23,31,DLWWLWWWWWDDWLDWWDLW,5,2,3,15,13,1,50,14,4,2,36,15,WWWLWDLWLDDWLWLDLWWW,6,2,2,15,11,LWWWWDLWDL,WLDLLDLLLW
+Strasbourg,Auxerre,0-2,/match/strasbourg/auxerre/2004,2004,21,ligue_1,20,38,2,0,2,11,33,7,5,8,32,30,DWWLLWWWDWLDDWDWWWWW,6,2,2,21,13,6,40,11,2,7,32,18,LWWWWDWWWDLLWLWWLWWW,3,2,5,11,11,WLWWWLDDWW,WWDWDLLWLW
+Stade Rennais,Sochaux,4-0,/match/stade-rennes/sochaux/2004,2004,21,ligue_1,20,38,0,4,0,10,33,5,8,7,20,21,DWDDWWWWWDWDDWWWDDWW,5,5,0,13,5,3,42,11,5,4,32,19,WWDWWLWWLDDLWLWLLWDD,5,2,3,15,11,WDWWDDDWDW,WWLWDLLLLD
+PSG,Metz,0-0,/match/paris-saint-germain-fc/metz/2004,2004,21,ligue_1,20,38,1,0,0,4,41,11,5,4,26,16,DWLLWWLWLWDLLDLWDWDW,6,2,2,16,10,18,22,5,5,10,16,22,LLLDWWWDLLLLWLDDWDWW,3,2,5,9,10,DLWWWLDWWW,LDWWLLWDWW
+Nice,Le Mans,0-1,/match/nice/mans-uc-72/2004,2004,21,ligue_1,20,38,2,0,1,5,40,7,10,3,19,16,LWDDWWWWDDDWWDDDWDWD,6,4,0,13,4,17,23,3,7,10,17,32,DLDWLWLWDWDWWDWWWDDW,0,3,7,5,22,WDWWDDWDWW,DWWWWWDWDW
+Nantes,Ajaccio,4-0,/match/nantes/ajaccio/2004,2004,21,ligue_1,20,38,0,4,0,12,32,8,4,8,19,18,WWLWDWWWWLLWLLLWDDWD,5,2,3,7,4,15,25,6,4,10,19,26,LLLDLWWWLDDDLWWWLWWW,2,3,5,8,14,WWDWWLLLDW,LLDWWDDWWW
+Olympique Lyonnais,Montpellier,3-0,/match/olympique-lyonnais/montpellier-hsc/2004,2004,21,ligue_1,20,38,0,3,0,2,43,11,5,4,35,17,WWLDWDLWLDLWLWWWWDDW,6,4,0,21,5,16,24,6,3,11,27,34,DLLWWWLDDWLWWWWLWLWL,2,2,6,11,19,WDDWDWWWWD,LWWDDLWWWW
+Lille,Toulouse,0-1,/match/lillestrom/toulouse-fc/2004,2004,21,ligue_1,20,38,2,0,1,14,28,5,7,8,21,25,WWLDWDWDWDWLDLDWWDLW,3,5,2,9,9,20,20,3,6,11,15,30,DWLDLWWWDLWLWDWLDDWW,1,2,7,6,15,WWDDDDLLWD,WDWWLWWWDW
+Girondins Bordeaux,Guingamp,2-0,/match/bordeaux/guingamp/2004,2004,21,ligue_1,20,38,0,2,0,9,34,8,5,7,20,20,WLLWDLWWDLDWDWDWWWWL,6,1,3,13,9,19,22,5,3,12,19,32,LWLDWWLDLWWLWLWWWDWW,1,2,7,7,19,LWLWLWWDWW,WDWDWLWWWW
+Olympique,Lens,3-2,/match/olympique-marsella/lens/2004,2004,21,ligue_1,20,38,0,3,2,7,37,11,1,8,26,20,LWWWLWWWWWWWLLLDLLWW,7,0,3,18,9,8,34,9,2,9,16,28,DWWLWWWWLWWLWWWLLWWD,3,0,7,5,18,WWWWWWLLLW,WLWWWLWLWW
+Monaco,PSG,1-1,/match/monaco/paris-saint-germain-fc/2004,2004,22,ligue_1,20,38,1,1,1,1,51,14,5,2,36,15,WWWLWDLWLDDWLWLDLWWWD,8,2,0,21,4,3,43,11,6,4,26,16,DWLLWWLWLWDLLDLWDWDWD,5,3,2,10,6,WWWWDWWDWW,WLWLLDLLDD
+Sochaux,Olympique,2-1,/match/sochaux/olympique-marsella/2004,2004,22,ligue_1,20,38,0,2,1,4,42,11,5,5,32,23,WWDWWLWWLDDLWLWLLWDDW,6,3,1,17,8,6,41,12,1,8,29,22,LWWWLWWWWWWWLLLDLLWWW,4,1,5,8,11,WDWWLDWWWD,LWLWWWLDLW
+Montpellier,Bastia,1-1,/match/montpellier-hsc/bastia/2004,2004,22,ligue_1,20,38,1,1,1,17,24,6,3,12,27,37,DLLWWWLDDWLWWWWLWLWLW,4,1,5,16,15,13,31,6,6,9,23,31,DLWWLWWWWWDDWLDWWDLWD,1,3,6,8,18,DLWLWWWLLL,DWLWWDWDWW
+Metz,Lille,0-1,/match/metz/lillestrom/2004,2004,22,ligue_1,20,38,2,0,1,18,23,5,6,10,16,22,LLLDWWWDLLLLWLDDWDWWD,2,3,5,7,12,14,28,5,7,9,21,26,WWLDWDWDWDWLDLDWWDLWL,2,2,6,12,16,LLWDLLLDDW,LWWWWDDWLW
+Lens,Strasbourg,2-1,/match/lens/strasbourg/2004,2004,22,ligue_1,20,38,0,2,1,11,34,9,2,10,18,31,DWWLWWWWLWWLWWWLLWWDW,6,2,2,11,10,12,33,7,5,9,32,32,DWWLLWWWDWLDDWDWWWWWL,1,3,6,11,17,DWWWLWWWLD,DWLWDDWWWW
+Le Mans,Nantes,0-1,/match/mans-uc-72/nantes/2004,2004,22,ligue_1,20,38,2,0,1,16,25,4,7,10,18,32,DLDWLWLWDWDWWDWWWDDWL,3,4,3,12,10,10,36,9,4,8,23,18,WWLWDWWWWLLWLLLWDDWDW,3,2,5,12,14,LDLLDDWWWD,WLWWLWLWDD
+Guingamp,Stade Rennais,0-2,/match/guingamp/stade-rennes/2004,2004,22,ligue_1,20,38,2,0,2,19,22,5,3,13,19,34,LWLDWWLDLWWLWLWWWDWWW,4,1,5,12,13,9,37,6,8,7,24,21,DWDDWWWWWDWDDWWWDDWWW,0,3,7,7,16,LLWLLWLWDW,DDWWWWWWDW
+Ajaccio,Nice,1-1,/match/ajaccio/nice/2004,2004,22,ligue_1,20,38,1,1,1,15,25,6,4,11,19,30,LLLDLWWWLDDDLWWWLWWWW,4,1,5,11,12,7,40,7,10,4,19,17,LWDDWWWWDDDWWDDDWDWDL,1,6,3,6,12,LLWLDLWLWW,LDWWDWDDDD
+Auxerre,Girondins Bordeaux,5-0,/match/auxerre/bordeaux/2004,2004,22,ligue_1,20,38,0,5,0,5,42,12,2,7,34,18,LWWWWDWWWDLLWLWWLWWWL,8,0,2,21,7,8,38,9,5,7,22,20,WLLWDLWWDLDWDWDWWWWLW,2,4,4,7,11,LWWWWLWWWW,WLDWDDDWWL
+Toulouse,Olympique Lyonnais,0-1,/match/toulouse-fc/olympique-lyonnais/2004,2004,22,ligue_1,20,38,2,0,1,20,22,4,6,11,16,30,DWLDLWWWDLWLWDWLDDWWL,2,4,4,9,15,2,47,12,5,4,38,17,WWLDWDLWLDLWLWWWWDDWW,5,1,4,14,12,DLLWDLDLDW,WLWLLLLWDW
+Girondins Bordeaux,Nantes,2-0,/match/bordeaux/nantes/2004,2004,23,ligue_1,20,38,0,2,0,11,38,9,5,8,22,25,WLLWDLWWDLDWDWDWWWWLWW,7,1,3,15,9,9,38,10,4,8,24,18,WWLWDWWWWLLWLLLWDDWDWL,4,2,5,13,14,LWLWLWWDWWW,WLWWLWLWDDL
+Stade Rennais,Auxerre,0-2,/match/stade-rennes/auxerre/2004,2004,23,ligue_1,20,38,2,0,2,8,39,7,8,7,26,21,DWDDWWWWWDWDDWWWDDWWWL,6,5,0,17,5,4,46,13,2,7,39,18,LWWWWDWWWDLLWLWWLWWWLW,4,2,5,13,11,WDWWDDDWDWW,WWDWDLLWLWL
+PSG,Montpellier,6-1,/match/paris-saint-germain-fc/montpellier-hsc/2004,2004,23,ligue_1,20,38,0,6,1,5,44,11,7,4,27,17,DWLLWWLWLWDLLDLWDWDWDD,6,3,2,16,10,16,26,6,4,12,28,38,DLLWWWLDDWLWWWWLWLWLWD,2,2,7,11,22,DLWWWLDWWWD,LWWDDLWWWWW
+Nice,Lens,4-0,/match/nice/lens/2004,2004,23,ligue_1,20,38,0,4,0,7,41,7,11,4,20,18,LWDDWWWWDDDWWDDDWDWDLD,6,4,1,13,5,10,38,10,2,10,20,32,DWWLWWWWLWWLWWWLLWWDWW,3,0,8,7,21,WDWWDDWDWWL,WLWWWLWLWWW
+Metz,Monaco,0-2,/match/metz/monaco/2004,2004,23,ligue_1,20,38,2,0,2,18,23,5,6,11,16,23,LLLDWWWDLLLLWLDDWDWWDL,2,3,6,7,13,1,53,14,6,2,37,16,WWWLWDLWLDDWLWLDLWWWDD,6,3,2,15,11,LLWDLLLDDWL,WLDLLDLLLWD
+Olympique Lyonnais,Guingamp,0-1,/match/olympique-lyonnais/guingamp/2004,2004,23,ligue_1,20,38,2,0,1,2,49,13,5,4,39,17,WWLDWDLWLDLWLWWWWDDWWL,7,4,0,24,5,19,22,5,3,14,19,36,LWLDWWLDLWWLWLWWWDWWWL,1,2,8,7,21,WDDWDWWWWDW,WDWDWLWWWWW
+Lille,Sochaux,2-0,/match/lillestrom/sochaux/2004,2004,23,ligue_1,20,38,0,2,0,14,30,6,7,9,22,26,WWLDWDWDWDWLDLDWWDLWLL,3,5,3,9,10,3,46,12,5,5,34,24,WWDWWLWWLDDLWLWLLWDDWW,5,2,4,15,15,WWDDDDLLWDL,WWLWDLLLLDW
+Bastia,Toulouse,1-0,/match/bastia/toulouse-fc/2004,2004,23,ligue_1,20,38,0,1,0,13,32,6,7,9,24,32,DLWWLWWWWWDDWLDWWDLWDD,5,3,3,15,13,20,22,4,6,12,16,31,DWLDLWWWDLWLWDWLDDWWLL,2,2,7,7,15,LWWWWDLWDLD,WDWWLWWWDWL
+Olympique,Ajaccio,2-1,/match/olympique-marsella/ajaccio/2004,2004,23,ligue_1,20,38,0,2,1,6,41,12,1,9,30,24,LWWWLWWWWWWWLLLDLLWWWW,8,0,3,21,11,15,27,6,5,11,20,31,LLLDLWWWLDDDLWWWLWWWWD,2,3,6,8,18,WWWWWWLLLWW,LLDWWDDWWWW
+Strasbourg,Le Mans,3-0,/match/strasbourg/mans-uc-72/2004,2004,23,ligue_1,20,38,0,3,0,12,33,7,5,10,33,34,DWWLLWWWDWLDDWDWWWWWLW,6,2,3,21,15,17,25,4,7,11,18,33,DLDWLWLWDWDWWDWWWDDWLL,1,3,7,6,22,WLWWWLDDWWL,DWWWWWDWDWL
+Sochaux,Girondins Bordeaux,1-1,/match/sochaux/bordeaux/2004,2004,24,ligue_1,20,38,1,1,1,5,46,12,5,6,34,26,WWDWWLWWLDDLWLWLLWDDWWW,7,3,1,19,9,8,42,10,5,8,24,25,WLLWDLWWDLDWDWDWWWWLWWW,2,4,5,7,16,WDWWLDWWWDW,WLDWDDDWWLW
+Toulouse,PSG,0-1,/match/toulouse-fc/paris-saint-germain-fc/2004,2004,24,ligue_1,20,38,2,0,1,20,22,4,6,13,16,32,DWLDLWWWDLWLWDWLDDWWLLW,2,4,5,9,16,4,48,12,7,4,33,18,DWLLWWLWLWDLLDLWDWDWDDW,5,4,2,11,7,DLLWDLDLDWL,WLWLLDLLDDD
+Nantes,Nice,3-1,/match/nantes/nice/2004,2004,24,ligue_1,20,38,0,3,1,10,38,10,4,9,24,20,WWLWDWWWWLLWLLLWDDWDWLW,6,2,3,11,4,7,45,8,11,4,24,18,LWDDWWWWDDDWWDDDWDWDLDW,1,7,3,7,13,WWDWWLLLDWW,LDWWDWDDDDD
+Montpellier,Metz,0-1,/match/montpellier-hsc/metz/2004,2004,24,ligue_1,20,38,2,0,1,16,26,6,4,13,29,44,DLLWWWLDDWLWWWWLWLWLWDW,4,2,5,17,16,19,23,5,6,12,16,25,LLLDWWWDLLLLWLDDWDWWDLL,3,3,5,9,10,DLWLWWWLLLD,LDWWLLWDWWD
+Monaco,Lille,0-1,/match/monaco/lillestrom/2004,2004,24,ligue_1,20,38,2,0,1,1,55,15,6,2,39,16,WWWLWDLWLDDWLWLDLWWWDDL,8,3,0,22,5,14,34,7,7,9,24,26,WWLDWDWDWDWLDLDWWDLWLLW,3,2,6,13,16,WWWWDWWDWWD,LWWWWDDWLWL
+Lens,Stade Rennais,2-1,/match/lens/stade-rennes/2004,2004,24,ligue_1,20,38,0,2,1,11,38,10,2,11,20,36,DWWLWWWWLWWLWWWLLWWDWWW,7,2,2,13,11,9,39,7,8,8,26,23,DWDDWWWWWDWDDWWWDDWWWLL,1,3,7,9,16,DWWWLWWWLDW,DDWWWWWWDWL
+Le Mans,Olympique,0-0,/match/mans-uc-72/olympique-marsella/2004,2004,24,ligue_1,20,38,1,0,0,17,25,4,7,12,18,36,DLDWLWLWDWDWWDWWWDDWLLW,3,4,4,12,11,6,45,13,1,9,32,25,LWWWLWWWWWWWLLLDLLWWWWW,4,1,6,9,13,LDLLDDWWWDL,LWLWWWLDLWW
+Guingamp,Bastia,1-0,/match/guingamp/bastia/2004,2004,24,ligue_1,20,38,0,1,0,18,24,6,3,14,20,36,LWLDWWLDLWWLWLWWWDWWWLL,4,1,6,12,15,13,36,7,7,9,25,32,DLWWLWWWWWDDWLDWWDLWDDW,1,4,6,9,19,LLWLLWLWDWL,DWLWWDWDWWD
+Ajaccio,Strasbourg,0-0,/match/ajaccio/strasbourg/2004,2004,24,ligue_1,20,38,1,0,0,15,27,6,5,12,21,33,LLLDLWWWLDDDLWWWLWWWWDW,4,2,5,12,13,12,37,8,5,10,36,34,DWWLLWWWDWLDDWDWWWWWLWW,1,3,7,12,19,LLWLDLWLWWD,DWLWDDWWWWW
+Auxerre,Olympique Lyonnais,1-2,/match/auxerre/olympique-lyonnais/2004,2004,24,ligue_1,20,38,2,1,2,3,48,14,2,7,41,18,LWWWWDWWWDLLWLWWLWWWLWL,9,0,2,26,7,2,49,13,5,5,39,18,WWLDWDLWLDLWLWWWWDDWWLL,6,1,4,15,12,LWWWWLWWWWW,WLWLLLLWDWL
+Monaco,Montpellier,4-0,/match/monaco/montpellier-hsc/2004,2004,25,ligue_1,20,38,0,4,0,1,55,15,6,3,39,17,WWWLWDLWLDDWLWLDLWWWDDLL,8,3,1,22,6,18,26,6,4,14,29,45,DLLWWWLDDWLWWWWLWLWLWDWL,2,2,8,12,28,WWWWDWWDWWDL,LWWDDLWWWWWW
+Strasbourg,Sochaux,0-2,/match/strasbourg/sochaux/2004,2004,25,ligue_1,20,38,2,0,2,12,38,8,6,10,36,34,DWWLLWWWDWLDDWDWWWWWLWWD,7,2,3,24,15,5,48,12,6,6,35,27,WWDWWLWWLDDLWLWLLWDDWWWD,5,2,5,15,17,WLWWWLDDWWLW,WWLWDLLLLDWW
+Stade Rennais,Ajaccio,4-1,/match/stade-rennes/ajaccio/2004,2004,25,ligue_1,20,38,0,4,1,11,39,7,8,9,27,25,DWDDWWWWWDWDDWWWDDWWWLLW,6,5,1,17,7,15,29,6,6,12,21,33,LLLDLWWWLDDDLWWWLWWWWDWD,2,3,7,9,20,WDWWDDDWDWWL,LLDWWDDWWWWW
+PSG,Guingamp,2-0,/match/paris-saint-germain-fc/guingamp/2004,2004,25,ligue_1,20,38,0,2,0,3,50,13,7,4,34,18,DWLLWWLWLWDLLDLWDWDWDDWL,7,3,2,22,11,16,28,7,3,14,21,36,LWLDWWLDLWWLWLWWWDWWWLLW,2,2,8,8,21,DLWWWLDWWWDW,WDWDWLWWWWWL
+Metz,Toulouse,0-2,/match/metz/toulouse-fc/2004,2004,25,ligue_1,20,38,2,0,2,19,25,6,6,12,17,25,LLLDWWWDLLLLWLDDWDWWDLLL,2,3,7,7,15,20,22,4,6,14,16,33,DWLDLWWWDLWLWDWLDDWWLLWL,2,2,8,7,16,LLWDLLLDDWLL,WDWWLWWWDWLW
+Lille,Nice,1-2,/match/lillestrom/nice/2004,2004,25,ligue_1,20,38,2,1,2,14,36,8,7,9,25,26,WWLDWDWDWDWLDLDWWDLWLLWL,4,5,3,11,10,7,45,8,11,5,25,21,LWDDWWWWDDDWWDDDWDWDLDWW,1,7,4,8,16,WWDDDDLLWDLW,LDWWDWDDDDDW
+Girondins Bordeaux,Lens,0-0,/match/bordeaux/lens/2004,2004,25,ligue_1,20,38,1,0,0,8,43,10,6,8,25,26,WLLWDLWWDLDWDWDWWWWLWWWD,8,1,3,17,9,10,42,11,2,11,22,37,DWWLWWWWLWWLWWWLLWWDWWWW,3,0,9,7,25,LWLWLWWDWWWW,WLWWWLWLWWWW
+Bastia,Auxerre,0-0,/match/bastia/auxerre/2004,2004,25,ligue_1,20,38,1,0,0,13,36,7,7,10,25,33,DLWWLWWWWWDDWLDWWDLWDDWW,6,3,3,16,13,4,48,14,2,8,42,20,LWWWWDWWWDLLWLWWLWWWLWLL,5,2,5,15,11,LWWWWDLWDLDW,WWDWDLLWLWLL
+Olympique Lyonnais,Le Mans,2-0,/match/olympique-lyonnais/mans-uc-72/2004,2004,25,ligue_1,20,38,0,2,0,2,51,14,5,5,41,19,WWLDWDLWLDLWLWWWWDDWWLLL,7,4,1,24,6,17,27,4,8,12,18,36,DLDWLWLWDWDWWDWWWDDWLLWD,1,3,8,6,25,WDDWDWWWWDWL,DWWWWWDWDWLW
+Olympique,Nantes,1-1,/match/olympique-marsella/nantes/2004,2004,25,ligue_1,20,38,1,1,1,6,46,13,2,9,32,25,LWWWLWWWWWWWLLLDLLWWWWWD,9,0,3,23,12,9,42,11,4,9,27,21,WWLWDWWWWLLWLLLWDDWDWLWW,4,2,6,13,16,WWWWWWLLLWWW,WLWWLWLWDDLW
+Nantes,Strasbourg,1-1,/match/nantes/strasbourg/2004,2004,26,ligue_1,20,38,1,1,1,11,43,11,5,9,28,22,WWLWDWWWWLLWLLLWDDWDWLWWD,7,2,3,14,5,12,38,8,6,11,36,36,DWWLLWWWDWLDDWDWWWWWLWWDL,1,4,7,12,19,WWDWWLLLDWWW,DWLWDDWWWWWD
+Le Mans,Stade Rennais,2-2,/match/mans-uc-72/stade-rennes/2004,2004,26,ligue_1,20,38,1,2,2,17,27,4,8,13,18,38,DLDWLWLWDWDWWDWWWDDWLLWDW,3,5,4,12,11,10,43,8,8,9,31,26,DWDDWWWWWDWDDWWWDDWWWLLWW,1,3,8,10,18,LDLLDDWWWDLD,DDWWWWWWDWLW
+Lens,Olympique Lyonnais,1-1,/match/lens/olympique-lyonnais/2004,2004,26,ligue_1,20,38,1,1,1,9,43,11,3,11,22,37,DWWLWWWWLWWLWWWLLWWDWWWWD,8,2,2,15,12,2,55,15,5,5,43,19,WWLDWDLWLDLWLWWWWDDWWLLLW,7,1,4,17,13,DWWWLWWWLDWW,WLWLLLLWDWLL
+Montpellier,Lille,0-2,/match/montpellier-hsc/lillestrom/2004,2004,26,ligue_1,20,38,2,0,2,18,26,6,4,15,29,49,DLLWWWLDDWLWWWWLWLWLWDWLW,4,2,6,17,17,14,36,8,7,10,26,28,WWLDWDWDWDWLDLDWWDLWLLWLL,4,2,6,14,16,DLWLWWWLLLDL,LWWWWDDWLWLL
+Toulouse,Monaco,1-1,/match/toulouse-fc/monaco/2004,2004,26,ligue_1,20,38,1,1,1,20,24,5,6,14,18,33,DWLDLWWWDLWLWDWLDDWWLLWLL,2,4,6,9,17,1,59,16,6,3,43,17,WWWLWDLWLDDWLWLDLWWWDDLLW,7,3,2,17,11,DLLWDLDLDWLL,WLDLLDLLLWDL
+Auxerre,PSG,1-1,/match/auxerre/paris-saint-germain-fc/2004,2004,26,ligue_1,20,38,1,1,1,5,49,14,3,8,42,20,LWWWWDWWWDLLWLWWLWWWLWLLD,9,0,3,27,9,3,54,14,7,4,36,18,DWLLWWLWLWDLLDLWDWDWDDWLW,6,4,2,12,7,LWWWWLWWWWWL,WLWLLDLLDDDL
+Sochaux,Bastia,2-1,/match/sochaux/bastia/2004,2004,26,ligue_1,20,38,0,2,1,4,50,13,6,6,37,27,WWDWWLWWLDDLWLWLLWDDWWWDL,7,4,1,20,10,13,38,7,8,10,25,33,DLWWLWWWWWDDWLDWWDLWDDWWD,1,4,7,9,20,WDWWLDWWWDWD,DWLWWDWDWWDW
+Nice,Olympique,0-0,/match/nice/olympique-marsella/2004,2004,26,ligue_1,20,38,1,0,0,7,47,9,11,5,27,22,LWDDWWWWDDDWWDDDWDWDLDWWL,7,4,1,17,5,6,48,13,3,9,33,26,LWWWLWWWWWWWLLLDLLWWWWWDD,4,2,6,9,13,WDWWDDWDWWLW,LWLWWWLDLWWD
+Ajaccio,Girondins Bordeaux,1-0,/match/ajaccio/bordeaux/2004,2004,26,ligue_1,20,38,0,1,0,15,29,6,6,13,22,37,LLLDLWWWLDDDLWWWLWWWWDWDW,4,3,5,12,13,8,45,10,7,8,25,26,WLLWDLWWDLDWDWDWWWWLWWWDD,2,5,5,8,17,LLWLDLWLWWDD,WLDWDDDWWLWD
+Guingamp,Metz,1-1,/match/guingamp/metz/2004,2004,26,ligue_1,20,38,1,1,1,16,28,7,3,15,21,38,LWLDWWLDLWWLWLWWWDWWWLLWW,5,1,6,13,15,19,25,6,6,13,17,27,LLLDWWWDLLLLWLDDWDWWDLLLL,4,3,5,10,10,LLWLLWLWDWLW,LDWWLLWDWWDL
+Olympique Lyonnais,Ajaccio,4-0,/match/olympique-lyonnais/ajaccio/2004,2004,27,ligue_1,20,38,0,4,0,2,56,15,6,5,44,20,WWLDWDLWLDLWLWWWWDDWWLLLWD,8,4,1,26,6,15,33,7,6,13,23,37,LLLDLWWWLDDDLWWWLWWWWDWDWW,2,3,8,10,24,WDDWDWWWWDWLW,LLDWWDDWWWWWW
+Monaco,Guingamp,3-1,/match/monaco/guingamp/2004,2004,27,ligue_1,20,38,0,3,1,1,60,16,7,3,44,18,WWWLWDLWLDDWLWLDLWWWDDLLWD,9,3,1,26,6,16,30,7,4,15,22,39,LWLDWWLDLWWLWLWWWDWWWLLWWD,2,2,9,8,23,WWWWDWWDWWDLW,WDWDWLWWWWWLW
+Strasbourg,Nice,2-2,/match/strasbourg/nice/2004,2004,27,ligue_1,20,38,1,2,2,12,39,8,7,11,37,37,DWWLLWWWDWLDDWDWWWWWLWWDLD,7,2,4,24,17,7,49,9,12,5,27,22,LWDDWWWWDDDWWDDDWDWDLDWWLD,2,7,4,10,17,WLWWWLDDWWLWL,LDWWDWDDDDDWL
+Stade Rennais,Nantes,0-3,/match/stade-rennes/nantes/2004,2004,27,ligue_1,20,38,2,0,3,11,44,8,9,9,33,28,DWDDWWWWWDWDDWWWDDWWWLLWWD,7,5,1,21,8,9,45,11,6,9,29,23,WWLWDWWWWLLWLLLWDDWDWLWWDD,4,3,6,14,17,WDWWDDDWDWWLW,WLWWLWLWDDLWD
+PSG,Sochaux,1-1,/match/paris-saint-germain-fc/sochaux/2004,2004,27,ligue_1,20,38,1,1,1,3,55,14,8,4,37,19,DWLLWWLWLWDLLDLWDWDWDDWLWD,8,3,2,24,11,4,54,14,6,6,39,28,WWDWWLWWLDDLWLWLLWDDWWWDLW,6,2,5,17,17,DLWWWLDWWWDWW,WWLWDLLLLDWWL
+Montpellier,Toulouse,0-1,/match/montpellier-hsc/toulouse-fc/2004,2004,27,ligue_1,20,38,2,0,1,18,26,6,4,16,29,51,DLLWWWLDDWLWWWWLWLWLWDWLWL,4,2,7,17,19,20,26,5,7,14,19,34,DWLDLWWWDLWLWDWLDDWWLLWLLD,3,2,8,9,16,DLWLWWWLLLDLL,WDWWLWWWDWLWL
+Metz,Lens,0-2,/match/metz/lens/2004,2004,27,ligue_1,20,38,2,0,2,19,26,6,7,13,18,28,LLLDWWWDLLLLWLDDWDWWDLLLLD,2,3,8,7,17,8,45,11,4,11,23,38,DWWLWWWWLWWLWWWLLWWDWWWWDD,3,1,9,7,25,LLWDLLLDDWLLL,WLWWWLWLWWWWD
+Girondins Bordeaux,Le Mans,2-0,/match/bordeaux/mans-uc-72/2004,2004,27,ligue_1,20,38,0,2,0,10,45,10,7,9,25,27,WLLWDLWWDLDWDWDWWWWLWWWDDW,8,2,3,17,9,17,29,4,9,13,20,40,DLDWLWLWDWDWWDWWWDDWLLWDWD,1,3,9,6,27,LWLWLWWDWWWWD,DWWWWWDWDWLWW
+Lille,Auxerre,1-0,/match/lillestrom/auxerre/2004,2004,27,ligue_1,20,38,0,1,0,14,38,9,7,10,28,28,WWLDWDWDWDWLDLDWWDLWLLWLLL,4,5,4,12,12,5,51,14,4,8,43,21,LWWWWDWWWDLLWLWWLWWWLWLLDD,5,3,5,15,11,WWDDDDLLWDLWL,WWDWDLLWLWLLD
+Bastia,Olympique,4-1,/match/bastia/olympique-marsella/2004,2004,27,ligue_1,20,38,0,4,1,13,38,7,8,11,26,35,DLWWLWWWWWDDWLDWWDLWDDWWDW,6,4,3,16,13,6,49,13,4,9,33,26,LWWWLWWWWWWWLLLDLLWWWWWDDD,4,3,6,9,13,LWWWWDLWDLDWD,LWLWWWLDLWWDD
+Le Mans,PSG,0-1,/match/mans-uc-72/paris-saint-germain-fc/2004,2004,28,ligue_1,20,38,2,0,1,17,29,4,9,14,20,42,DLDWLWLWDWDWWDWWWDDWLLWDWDW,3,6,4,14,13,3,57,14,9,4,38,20,DWLLWWLWLWDLLDLWDWDWDDWLWDD,6,5,2,13,8,LDLLDDWWWDLDD,WLWLLDLLDDDLD
+Sochaux,Olympique Lyonnais,1-2,/match/sochaux/olympique-lyonnais/2004,2004,28,ligue_1,20,38,2,1,2,4,55,14,7,6,40,29,WWDWWLWWLDDLWLWLLWDDWWWDLWD,8,4,1,22,11,2,60,16,6,5,48,20,WWLDWDLWLDLWLWWWWDDWWLLLWDW,7,2,4,18,14,WDWWLDWWWDWDW,WLWLLLLWDWLLD
+Nice,Stade Rennais,3-1,/match/nice/stade-rennes/2004,2004,28,ligue_1,20,38,0,3,1,6,50,9,13,5,29,24,LWDDWWWWDDDWWDDDWDWDLDWWLDD,7,5,1,17,5,11,44,8,9,10,33,31,DWDDWWWWWDWDDWWWDDWWWLLWWDL,1,4,8,12,20,WDWWDDWDWWLWD,DDWWWWWWDWLWD
+Nantes,Metz,2-2,/match/nantes/metz/2004,2004,28,ligue_1,20,38,1,2,2,10,47,12,6,9,32,23,WWLWDWWWWLLWLLLWDDWDWLWWDDL,7,3,3,15,6,20,26,6,7,14,18,30,LLLDWWWDLLLLWLDDWDWWDLLLLDL,4,4,5,11,11,WWDWWLLLDWWWD,LDWWLLWDWWDLD
+Lens,Bastia,0-0,/match/lens/bastia/2004,2004,28,ligue_1,20,38,1,0,0,9,47,12,4,11,25,38,DWWLWWWWLWWLWWWLLWWDWWWWDDL,8,3,2,16,13,12,42,8,8,11,30,36,DLWWLWWWWWDDWLDWWDLWDDWWDWW,1,4,8,10,22,DWWWLWWWLDWWD,DWLWWDWDWWDWW
+Guingamp,Montpellier,4-3,/match/guingamp/montpellier-hsc/2004,2004,28,ligue_1,20,38,0,4,3,16,30,7,4,16,23,42,LWLDWWLDLWWLWLWWWDWWWLLWWDW,5,2,6,14,16,19,26,6,4,17,29,52,DLLWWWLDDWLWWWWLWLWLWDWLWLL,2,2,9,12,32,LLWLLWLWDWLWD,LWWDDLWWWWWWW
+Ajaccio,Lille,0-3,/match/ajaccio/lillestrom/2004,2004,28,ligue_1,20,38,2,0,3,15,33,7,6,14,23,41,LLLDLWWWLDDDLWWWLWWWWDWDWWW,5,3,5,13,13,13,42,10,7,10,29,28,WWLDWDWDWDWLDLDWWDLWLLWLLLW,5,2,6,16,16,LLWLDLWLWWDDW,LWWWWDDWLWLLL
+Olympique,Strasbourg,4-0,/match/olympique-marsella/strasbourg/2004,2004,28,ligue_1,20,38,0,4,0,7,49,13,4,10,34,30,LWWWLWWWWWWWLLLDLLWWWWWDDDW,9,1,3,24,13,14,41,8,8,11,39,39,DWWLLWWWDWLDDWDWWWWWLWWDLDD,1,5,7,13,20,WWWWWWLLLWWWD,DWLWDDWWWWWDD
+Toulouse,Girondins Bordeaux,1-0,/match/toulouse-fc/bordeaux/2004,2004,28,ligue_1,20,38,0,1,0,18,28,6,7,14,20,34,DWLDLWWWDLWLWDWLDDWWLLWLLDL,2,5,6,10,18,8,49,11,7,9,27,27,WLLWDLWWDLDWDWDWWWWLWWWDDWW,2,5,6,8,18,DLLWDLDLDWLLD,WLDWDDDWWLWDW
+Auxerre,Monaco,0-0,/match/auxerre/monaco/2004,2004,28,ligue_1,20,38,1,0,0,5,51,14,4,9,43,22,LWWWWDWWWDLLWLWWLWWWLWLLDDW,9,1,3,28,10,1,64,17,7,3,47,19,WWWLWDLWLDDWLWLDLWWWDDLLWDW,7,4,2,18,12,LWWWWLWWWWWLD,WLDLLDLLLWDLD
+Toulouse,Guingamp,0-0,/match/toulouse-fc/guingamp/2004,2004,29,ligue_1,20,38,1,0,0,17,32,7,7,14,21,34,DWLDLWWWDLWLWDWLDDWWLLWLLDLW,3,5,6,11,18,15,34,8,4,16,27,45,LWLDWWLDLWWLWLWWWDWWWLLWWDWW,2,2,10,9,26,DLLWDLDLDWLLDW,WDWDWLWWWWWLWW
+PSG,Ajaccio,1-0,/match/paris-saint-germain-fc/ajaccio/2004,2004,29,ligue_1,20,38,0,1,0,3,59,15,9,4,39,20,DWLLWWLWLWDLLDLWDWDWDDWLWDDL,8,4,2,25,12,16,33,7,6,15,23,44,LLLDLWWWLDDDLWWWLWWWWDWDWWWL,2,3,9,10,28,DLWWWLDWWWDWWD,LLDWWDDWWWWWWW
+Montpellier,Auxerre,1-0,/match/montpellier-hsc/auxerre/2004,2004,29,ligue_1,20,38,0,1,0,20,26,6,4,18,32,56,DLLWWWLDDWLWWWWLWLWLWDWLWLLW,4,2,8,17,20,6,53,14,5,9,43,22,LWWWWDWWWDLLWLWWLWWWLWLLDDWD,5,3,6,15,12,DLWLWWWLLLDLLL,WWDWDLLWLWLLDW
+Monaco,Sochaux,1-1,/match/monaco/sochaux/2004,2004,29,ligue_1,20,38,1,1,1,1,65,17,8,3,47,19,WWWLWDLWLDDWLWLDLWWWDDLLWDWD,10,3,1,29,7,4,55,14,7,7,41,31,WWDWWLWWLDDLWLWLLWDDWWWDLWDL,6,3,5,18,18,WWWWDWWDWWDLWW,WWLWDLLLLDWWLD
+Metz,Strasbourg,1-0,/match/metz/strasbourg/2004,2004,29,ligue_1,20,38,0,1,0,19,27,6,8,14,20,32,LLLDWWWDLLLLWLDDWDWWDLLLLDLD,2,3,9,7,19,14,41,8,8,12,39,43,DWWLLWWWDWLDDWDWWWWWLWWDLDDW,1,5,8,13,24,LLWDLLLDDWLLLL,DWLWDDWWWWWDDW
+Lille,Lens,1-1,/match/lillestrom/lens/2004,2004,29,ligue_1,20,38,1,1,1,11,44,11,7,10,32,28,WWLDWDWDWDWLDLDWWDLWLLWLLLWL,5,5,4,13,12,9,49,12,5,11,25,38,DWWLWWWWLWWLWWWLLWWDWWWWDDLD,4,1,9,9,25,WWDDDDLLWDLWLW,WLWWWLWLWWWWDL
+Girondins Bordeaux,Nice,1-1,/match/bordeaux/nice/2004,2004,29,ligue_1,20,38,1,1,1,8,49,11,7,10,27,28,WLLWDLWWDLDWDWDWWWWLWWWDDWWW,9,2,3,19,9,5,54,10,13,5,32,25,LWDDWWWWDDDWWDDDWDWDLDWWLDDW,2,8,4,12,19,LWLWLWWDWWWWDW,LDWWDWDDDDDWLD
+Bastia,Le Mans,0-0,/match/bastia/mans-uc-72/2004,2004,29,ligue_1,20,38,1,0,0,13,43,8,9,11,30,36,DLWWLWWWWWDDWLDWWDLWDDWWDWWD,7,4,3,20,14,18,29,4,9,15,20,43,DLDWLWLWDWDWWDWWWDDWLLWDWDWL,1,3,10,6,29,LWWWWDLWDLDWDW,DWWWWWDWDWLWWW
+Olympique Lyonnais,Nantes,1-0,/match/olympique-lyonnais/nantes/2004,2004,29,ligue_1,20,38,0,1,0,2,62,17,6,5,50,21,WWLDWDLWLDLWLWWWWDDWWLLLWDWL,9,4,1,30,6,10,49,12,7,9,34,25,WWLWDWWWWLLWLLLWDDWDWLWWDDLD,5,3,6,17,17,WDDWDWWWWDWLWW,WLWWLWLWDDLWDL
+Stade Rennais,Olympique,4-3,/match/stade-rennes/olympique-marsella/2004,2004,29,ligue_1,20,38,0,4,3,12,44,8,9,11,34,34,DWDDWWWWWDWDDWWWDDWWWLLWWDLW,7,5,2,21,11,7,53,14,4,10,38,30,LWWWLWWWWWWWLLLDLLWWWWWDDDWW,4,3,7,10,17,WDWWDDDWDWWLWL,LWLWWWLDLWWDDW
+Sochaux,Metz,2-0,/match/sochaux/metz/2004,2004,30,ligue_1,20,38,0,2,0,4,56,14,8,7,42,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLD,8,4,2,23,13,18,31,7,8,14,21,32,LLLDWWWDLLLLWLDDWDWWDLLLLDLDW,4,5,5,13,13,WDWWLDWWWDWDWL,LDWWLLWDWWDLDD
+Strasbourg,Stade Rennais,0-3,/match/strasbourg/stade-rennes/2004,2004,30,ligue_1,20,38,2,0,3,14,41,8,8,13,39,44,DWWLLWWWDWLDDWDWWWWWLWWDLDDWW,7,3,4,26,19,11,48,9,9,11,38,37,DWDDWWWWWDWDDWWWDDWWWLLWWDLWW,1,4,9,13,23,WLWWWLDDWWLWLD,DDWWWWWWDWLWDW
+Nice,Olympique Lyonnais,0-1,/match/nice/olympique-lyonnais/2004,2004,30,ligue_1,20,38,2,0,1,5,55,10,14,5,33,26,LWDDWWWWDDDWWDDDWDWDLDWWLDDWD,8,5,1,20,6,2,66,18,6,5,51,21,WWLDWDLWLDLWLWWWWDDWWLLLWDWLW,8,2,4,20,15,WDWWDDWDWWLWDW,WLWLLLLWDWLLDL
+Nantes,Montpellier,3-2,/match/nantes/montpellier-hsc/2004,2004,30,ligue_1,20,38,0,3,2,10,49,12,7,10,34,26,WWLWDWWWWLLWLLLWDDWDWLWWDDLDW,7,4,3,17,8,20,30,7,4,18,33,56,DLLWWWLDDWLWWWWLWLWLWDWLWLLWW,2,2,10,15,36,WWDWWLLLDWWWDD,LWWDDLWWWWWWWW
+Le Mans,Monaco,0-1,/match/mans-uc-72/monaco/2004,2004,30,ligue_1,20,38,2,0,1,19,30,4,10,15,20,43,DLDWLWLWDWDWWDWWWDDWLLWDWDWLD,3,6,5,14,14,1,67,17,9,3,48,20,WWWLWDLWLDDWLWLDLWWWDDLLWDWDD,7,5,2,18,12,LDLLDDWWWDLDDL,WLDLLDLLLWDLDD
+Guingamp,Lille,2-1,/match/guingamp/lillestrom/2004,2004,30,ligue_1,20,38,0,2,1,15,35,8,5,16,27,45,LWLDWWLDLWWLWLWWWDWWWLLWWDWWD,6,2,6,18,19,12,46,11,8,10,33,29,WWLDWDWDWDWLDLDWWDLWLLWLLLWLD,6,2,6,19,16,LLWLLWLWDWLWDW,LWWWWDDWLWLLLL
+Ajaccio,Bastia,1-0,/match/ajaccio/bastia/2004,2004,30,ligue_1,20,38,0,1,0,17,33,7,6,16,23,45,LLLDLWWWLDDDLWWWLWWWWDWDWWWLW,5,3,6,13,16,13,45,8,10,11,30,36,DLWWLWWWWWDDWLDWWDLWDDWWDWWDD,1,5,8,10,22,LLWLDLWLWWDDWL,DWLWWDWDWWDWWD
+Auxerre,Toulouse,3-2,/match/auxerre/toulouse-fc/2004,2004,30,ligue_1,20,38,0,3,2,6,53,14,5,10,43,23,LWWWWDWWWDLLWLWWLWWWLWLLDDWDW,9,2,3,28,10,16,34,7,8,14,21,34,DWLDLWWWDLWLWDWLDDWWLLWLLDLWD,4,2,8,10,16,LWWWWLWWWWWLDD,WDWWLWWWDWLWLL
+Olympique,Girondins Bordeaux,1-1,/match/olympique-marsella/bordeaux/2004,2004,30,ligue_1,20,38,1,1,1,7,53,14,4,11,41,34,LWWWLWWWWWWWLLLDLLWWWWWDDDWWW,10,1,3,28,13,8,51,11,8,10,28,29,WLLWDLWWDLDWDWDWWWWLWWWDDWWWD,2,5,7,8,19,WWWWWWLLLWWWDW,WLDWDDDWWLWDWW
+Lens,PSG,1-0,/match/lens/paris-saint-germain-fc/2004,2004,30,ligue_1,20,38,0,1,0,9,50,12,6,11,26,39,DWWLWWWWLWWLWWWLLWWDWWWWDDLDD,8,4,2,16,13,3,63,16,9,4,40,20,DWLLWWLWLWDLLDLWDWDWDDWLWDDLW,7,5,2,14,8,DWWWLWWWLDWWDD,WLWLLDLLDDDLDL
+Monaco,Ajaccio,3-3,/match/monaco/ajaccio/2004,2004,31,ligue_1,20,38,1,3,3,1,69,18,9,3,49,20,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDL,10,4,1,30,8,16,37,8,6,16,24,45,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWW,2,3,10,10,29,WWWWDWWDWWDLWWD,LLDWWDDWWWWWWWW
+Toulouse,Sochaux,0-0,/match/toulouse-fc/sochaux/2004,2004,31,ligue_1,20,38,1,0,0,17,34,7,8,15,23,37,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDW,3,6,6,11,18,4,60,15,8,7,44,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDW,6,4,5,19,19,DLLWDLDLDWLLDWD,WWLWDLLLLDWWLDD
+PSG,Nantes,3-2,/match/paris-saint-germain-fc/nantes/2004,2004,31,ligue_1,20,38,0,3,2,3,63,16,9,5,40,21,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWW,9,4,2,26,12,9,53,13,7,10,37,28,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWW,5,3,7,17,18,DLWWWLDWWWDWWDW,WLWWLWLWDDLWDLW
+Montpellier,Lens,1-0,/match/montpellier-hsc/lens/2004,2004,31,ligue_1,20,38,0,1,0,20,30,7,4,19,35,59,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWW,5,2,8,18,20,8,54,13,6,11,27,39,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDW,4,2,9,10,26,DLWLWWWLLLDLLLW,WLWWWLWLWWWWDLD
+Metz,Le Mans,5-0,/match/metz/mans-uc-72/2004,2004,31,ligue_1,20,38,0,5,0,18,31,7,8,15,21,34,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWW,3,3,9,8,19,19,30,4,10,16,20,44,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDL,1,4,10,6,29,LLWDLLLDDWLLLLW,DWWWWWDWDWLWWWD
+Lille,Stade Rennais,1-0,/match/lillestrom/stade-rennes/2004,2004,31,ligue_1,20,38,0,1,0,12,46,11,8,11,34,31,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDW,5,6,4,14,13,11,50,10,9,11,41,37,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWL,2,4,9,16,23,WWDDDDLLWDLWLWD,DDWWWWWWDWLWDWL
+Girondins Bordeaux,Strasbourg,1-1,/match/bordeaux/strasbourg/2004,2004,31,ligue_1,20,38,1,1,1,10,52,11,9,10,29,30,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDD,9,3,3,20,10,14,41,8,8,14,39,47,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWL,1,5,9,13,25,LWLWLWWDWWWWDWD,DWLWDDWWWWWDDWW
+Bastia,Nice,2-1,/match/bastia/nice/2004,2004,31,ligue_1,20,38,0,2,1,13,45,8,10,12,30,37,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDW,7,5,3,20,14,6,55,10,14,6,33,27,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDL,2,9,4,13,20,LWWWWDLWDLDWDWD,LDWWDWDDDDDWLDD
+Olympique Lyonnais,Olympique,1-2,/match/olympique-lyonnais/olympique-marsella/2004,2004,31,ligue_1,20,38,2,1,2,2,68,19,6,5,52,21,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWL,10,4,1,31,6,7,55,14,5,11,42,35,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWD,4,3,8,13,21,WDDWDWWWWDWLWWW,LWLWWWLDLWWDDWW
+Guingamp,Auxerre,2-2,/match/guingamp/auxerre/2004,2004,31,ligue_1,20,38,1,2,2,15,39,9,5,16,29,46,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDW,7,2,6,20,20,5,57,15,5,10,46,25,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWW,5,3,7,15,13,LLWLLWLWDWLWDWW,WWDWDLLWLWLLDWW
+Ajaccio,Montpellier,0-0,/match/ajaccio/montpellier-hsc/2004,2004,32,ligue_1,20,38,1,0,0,16,38,8,7,16,27,48,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWD,6,3,6,14,16,19,34,8,4,19,36,59,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWW,2,2,11,17,39,LLWLDLWLWWDDWLW,LWWDDLWWWWWWWWW
+Nice,PSG,1-2,/match/nice/paris-saint-germain-fc/2004,2004,32,ligue_1,20,38,2,1,2,7,55,10,14,7,34,29,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLW,8,5,2,20,7,3,67,17,9,5,43,23,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWW,7,5,3,14,9,WDWWDDWDWWLWDWL,WLWLLDLLDDDLDLW
+Le Mans,Toulouse,2-1,/match/mans-uc-72/toulouse-fc/2004,2004,32,ligue_1,20,38,0,2,1,20,30,4,10,17,20,49,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLW,3,6,6,14,15,17,36,7,9,15,23,37,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWD,4,2,9,12,19,LDLLDDWWWDLDDLL,WDWWLWWWDWLWLLW
+Auxerre,Metz,2-1,/match/auxerre/metz/2004,2004,32,ligue_1,20,38,0,2,1,5,58,15,6,10,48,27,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWD,10,2,3,31,12,18,35,8,8,15,26,34,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWW,4,5,6,13,15,LWWWWLWWWWWLDDW,LDWWLLWDWWDLDDW
+Lens,Monaco,0-0,/match/lens/monaco/2004,2004,32,ligue_1,20,38,1,0,0,8,54,13,6,12,27,40,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWW,9,4,2,17,13,1,71,18,10,3,52,23,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLD,8,5,2,19,12,DWWWLWWWLDWWDDW,WLDLLDLLLWDLDDL
+Sochaux,Guingamp,2-0,/match/sochaux/guingamp/2004,2004,32,ligue_1,20,38,0,2,0,4,61,15,9,7,44,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWD,9,4,2,25,13,15,41,9,6,16,31,48,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWD,2,3,10,9,26,WDWWLDWWWDWDWLW,WDWDWLWWWWWLWWD
+Nantes,Bastia,1-1,/match/nantes/bastia/2004,2004,32,ligue_1,20,38,1,1,1,10,53,13,7,11,39,31,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWW,8,4,3,20,10,13,49,9,10,12,32,38,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWW,1,5,9,10,23,WWDWWLLLDWWWDDW,DWLWWDWDWWDWWDW
+Strasbourg,Olympique Lyonnais,0-1,/match/strasbourg/olympique-lyonnais/2004,2004,32,ligue_1,20,38,2,0,1,14,42,8,9,14,40,48,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLD,7,3,5,26,22,2,68,19,6,6,53,23,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLL,9,2,4,21,15,WLWWWLDDWWLWLDL,WLWLLLLWDWLLDLL
+Olympique,Lille,2-1,/match/olympique-marsella/lillestrom/2004,2004,32,ligue_1,20,38,0,2,1,6,57,15,5,11,44,36,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDL,10,2,3,29,14,11,50,12,8,11,35,31,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWW,6,2,7,20,18,WWWWWWLLLWWWDWD,LWWWWDDWLWLLLLW
+Stade Rennais,Girondins Bordeaux,3-1,/match/stade-rennes/bordeaux/2004,2004,32,ligue_1,20,38,0,3,1,12,50,10,9,12,41,38,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLW,8,5,2,25,14,9,54,11,10,10,30,31,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDD,2,6,7,9,20,WDWWDDDWDWWLWLW,WLDWDDDWWLWDWWD
+Guingamp,Lens,1-0,/match/guingamp/lens/2004,2004,33,ligue_1,20,38,0,1,0,15,41,9,6,17,31,50,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDW,7,3,6,22,22,7,56,13,7,12,27,40,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWD,4,2,10,10,27,LLWLLWLWDWLWDWWD,WLWWWLWLWWWWDLDW
+Toulouse,Ajaccio,3-1,/match/toulouse-fc/ajaccio/2004,2004,33,ligue_1,20,38,0,3,1,17,36,7,9,16,24,39,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDW,3,7,6,11,18,16,40,8,8,16,27,48,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDD,2,4,10,13,32,DLLWDLDLDWLLDWDD,LLDWWDDWWWWWWWWD
+Montpellier,Le Mans,0-3,/match/montpellier-hsc/mans-uc-72/2004,2004,33,ligue_1,20,38,2,0,3,19,35,8,5,19,36,59,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWD,6,2,8,19,20,20,34,5,10,17,22,50,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWW,1,4,11,6,34,DLWLWWWLLLDLLLWW,DWWWWWDWDWLWWWDW
+Metz,Nice,1-0,/match/metz/nice/2004,2004,33,ligue_1,20,38,0,1,0,18,35,8,8,16,27,36,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWW,4,3,9,13,19,8,55,10,14,8,35,31,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWL,2,9,5,14,22,LLWDLLLDDWLLLLWW,LDWWDWDDDDDWLDDW
+Olympique Lyonnais,Stade Rennais,3-0,/match/olympique-lyonnais/stade-rennes/2004,2004,33,ligue_1,20,38,0,3,0,2,70,20,6,6,54,23,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLL,10,4,2,32,8,11,54,11,9,12,44,39,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWW,2,4,10,16,24,WDDWDWWWWDWLWWWL,DDWWWWWWDWLWDWLW
+Lille,Strasbourg,0-1,/match/lillestrom/strasbourg/2004,2004,33,ligue_1,20,38,2,0,1,13,50,12,8,12,36,33,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWW,6,6,4,15,13,14,42,8,9,15,40,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDL,1,6,9,14,26,WWDDDDLLWDLWLWDW,DWLWDDWWWWWDDWWD
+Bastia,Girondins Bordeaux,0-2,/match/bastia/bordeaux/2004,2004,33,ligue_1,20,38,2,0,2,12,50,9,11,12,33,39,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWD,8,5,3,22,15,10,54,11,10,11,31,34,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDW,2,6,8,10,23,LWWWWDLWDLDWDWDW,WLDWDDDWWLWDWWDW
+Auxerre,Sochaux,2-1,/match/auxerre/sochaux/2004,2004,33,ligue_1,20,38,0,2,1,5,62,16,6,10,50,28,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDW,11,2,3,33,13,4,65,16,9,7,46,32,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDW,6,5,5,19,19,LWWWWLWWWWWLDDWW,WWLWDLLLLDWWLDDD
+Monaco,Nantes,0-1,/match/monaco/nantes/2004,2004,33,ligue_1,20,38,2,0,1,1,72,18,11,3,52,23,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDD,10,5,1,33,11,9,55,13,8,11,40,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWD,5,3,8,19,21,WWWWDWWDWWDLWWDD,WLWWLWLWDDLWDLWW
+PSG,Olympique,2-1,/match/paris-saint-germain-fc/olympique-marsella/2004,2004,33,ligue_1,20,38,0,2,1,3,69,18,9,5,45,24,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWL,10,4,2,29,14,6,61,16,5,11,46,37,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLW,5,3,8,15,22,DLWWWLDWWWDWWDWW,LWLWWWLDLWWDDWWL
+Nice,Monaco,1-2,/match/nice/monaco/2004,2004,34,ligue_1,20,38,2,1,2,10,55,10,14,9,35,32,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLW,8,5,3,21,9,3,72,18,11,4,52,24,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDL,8,6,2,19,12,WDWWDDWDWWLWDWLL,WLDLLDLLLWDLDDLD
+Strasbourg,PSG,0-0,/match/strasbourg/paris-saint-germain-fc/2004,2004,34,ligue_1,20,38,1,0,0,15,44,9,9,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLL,7,3,6,26,23,2,73,19,9,5,47,25,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLW,8,5,3,16,10,WLWWWLDDWWLWLDLL,WLWLLDLLDDDLDLWL
+Sochaux,Montpellier,3-1,/match/sochaux/montpellier-hsc/2004,2004,34,ligue_1,20,38,0,3,1,5,65,16,9,8,47,34,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWW,10,4,2,27,13,20,35,8,5,20,36,62,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDL,2,3,11,17,39,WDWWLDWWWDWDWLWW,LWWDDLWWWWWWWWWD
+Stade Rennais,Bastia,4-0,/match/stade-rennes/bastia/2004,2004,34,ligue_1,20,38,0,4,0,11,54,11,9,13,44,42,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWW,9,5,2,28,15,12,50,9,11,13,33,41,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDL,1,6,9,11,24,WDWWDDDWDWWLWLWW,DWLWWDWDWWDWWDWD
+Nantes,Lille,2-0,/match/nantes/lillestrom/2004,2004,34,ligue_1,20,38,0,2,0,7,57,14,8,11,41,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDL,8,5,3,21,11,13,50,12,8,13,36,34,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWL,6,2,8,21,20,WWDWWLLLDWWWDDWD,LWWWWDDWLWLLLLWW
+Lens,Toulouse,1-1,/match/lens/toulouse-fc/2004,2004,34,ligue_1,20,38,1,1,1,8,56,13,7,13,27,41,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDW,9,5,2,17,13,17,40,8,9,16,27,40,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWW,4,2,10,13,21,DWWWLWWWLDWWDDWD,WDWWLWWWDWLWLLWW
+Le Mans,Auxerre,2-1,/match/mans-uc-72/auxerre/2004,2004,34,ligue_1,20,38,0,2,1,19,36,6,10,17,25,50,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWL,4,6,6,16,16,4,66,17,6,10,52,29,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWW,5,4,7,17,15,LDLLDDWWWDLDDLLW,WWDWDLLWLWLLDWWD
+Ajaccio,Guingamp,0-0,/match/ajaccio/guingamp/2004,2004,34,ligue_1,20,38,1,0,0,16,40,8,8,17,28,51,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDW,6,4,6,14,16,14,45,10,6,17,32,50,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWW,2,3,11,9,28,LLWLDLWLWWDDWLWD,WDWDWLWWWWWLWWDW
+Olympique,Metz,0-1,/match/olympique-marsella/metz/2004,2004,34,ligue_1,20,38,2,0,1,6,61,16,5,12,47,39,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWW,11,2,3,31,15,18,39,9,8,16,28,36,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWW,4,5,7,14,17,WWWWWWLLLWWWDWDW,LDWWLLWDWWDLDDWW
+Girondins Bordeaux,Olympique Lyonnais,1-1,/match/bordeaux/olympique-lyonnais/2004,2004,34,ligue_1,20,38,1,1,1,9,56,12,10,11,33,34,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWL,9,4,3,21,11,1,74,21,6,6,57,23,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLW,10,2,4,22,15,LWLWLWWDWWWWDWDD,WLWLLLLWDWLLDLLL
+PSG,Stade Rennais,1-0,/match/paris-saint-germain-fc/stade-rennes/2004,2004,35,ligue_1,20,38,0,1,0,3,74,19,10,5,47,25,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWD,11,4,2,31,15,9,58,12,9,13,48,42,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWW,2,4,11,16,27,DLWWWLDWWWDWWDWWW,DDWWWWWWDWLWDWLWW
+Toulouse,Nantes,0-1,/match/toulouse-fc/nantes/2004,2004,35,ligue_1,20,38,2,0,1,17,41,8,10,16,28,41,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWD,4,7,6,14,19,7,61,15,8,11,43,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLW,6,3,8,20,21,DLLWDLDLDWLLDWDDW,WLWWLWLWDDLWDLWWL
+Sochaux,Lens,0-3,/match/sochaux/lens/2004,2004,35,ligue_1,20,38,2,0,3,4,69,17,9,8,50,35,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWW,11,4,2,30,14,10,58,13,8,13,28,42,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWD,4,2,11,10,28,WDWWLDWWWDWDWLWWW,WLWWWLWLWWWWDLDWW
+Montpellier,Nice,2-2,/match/montpellier-hsc/nice/2004,2004,35,ligue_1,20,38,1,2,2,20,35,8,5,21,37,65,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLW,6,2,9,19,23,11,55,10,14,10,36,34,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWL,2,9,6,14,23,DLWLWWWLLLDLLLWWL,LDWWDWDDDDDWLDDWW
+Metz,Olympique Lyonnais,1-2,/match/metz/olympique-lyonnais/2004,2004,35,ligue_1,20,38,2,1,2,18,41,10,8,16,29,36,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWL,5,3,9,14,19,1,75,21,7,6,58,24,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWD,10,3,4,23,16,LLWDLLLDDWLLLLWWW,WLWLLLLWDWLLDLLLD
+Lille,Girondins Bordeaux,2-1,/match/lillestrom/bordeaux/2004,2004,35,ligue_1,20,38,0,2,1,13,50,12,8,14,36,36,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLW,6,6,5,15,14,8,58,12,11,11,34,35,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLD,3,6,8,12,23,WWDDDDLLWDLWLWDWL,WLDWDDDWWLWDWWDWL
+Guingamp,Le Mans,2-4,/match/guingamp/mans-uc-72/2004,2004,35,ligue_1,20,38,2,2,4,14,46,10,7,17,32,50,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWD,8,3,6,23,22,19,40,7,10,17,27,51,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLW,2,4,11,9,34,LLWLLWLWDWLWDWWDW,DWWWWWDWDWLWWWDWL
+Bastia,Strasbourg,0-0,/match/bastia/strasbourg/2004,2004,35,ligue_1,20,38,1,0,0,12,50,9,11,14,33,45,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLW,8,5,4,22,17,15,46,9,10,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLD,2,6,9,15,26,LWWWWDLWDLDWDWDWL,DWLWDDWWWWWDDWWDL
+Auxerre,Ajaccio,1-1,/match/auxerre/ajaccio/2004,2004,35,ligue_1,20,38,1,1,1,5,66,17,6,11,53,31,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWW,12,2,3,35,14,16,42,8,9,17,28,51,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWD,2,4,11,14,35,LWWWWLWWWWWLDDWWW,LLDWWDDWWWWWWWWDW
+Monaco,Olympique,1-0,/match/monaco/olympique-marsella/2004,2004,35,ligue_1,20,38,0,1,0,2,74,19,11,4,54,25,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLL,10,5,2,33,12,6,61,16,5,13,47,40,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWL,5,3,9,16,24,WWWWDWWDWWDLWWDDL,LWLWWWLDLWWDDWWLW
+Lens,Auxerre,1-3,/match/lens/auxerre/2004,2004,36,ligue_1,20,38,2,1,3,8,60,14,8,13,31,42,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWDL,9,6,2,18,14,5,68,17,7,11,54,32,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWWD,5,4,8,18,17,DWWWLWWWLDWWDDWDD,WWDWDLLWLWLLDWWDW
+Girondins Bordeaux,PSG,3-0,/match/bordeaux/paris-saint-germain-fc/2004,2004,36,ligue_1,20,38,0,3,0,9,58,12,11,12,35,37,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLDW,9,5,3,22,12,2,78,20,10,5,48,25,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWDW,8,6,3,16,10,LWLWLWWDWWWWDWDDD,WLWLLDLLDDDLDLWLD
+Nice,Toulouse,1-1,/match/nice/toulouse-fc/2004,2004,36,ligue_1,20,38,1,1,1,11,56,10,15,10,38,36,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWLD,8,5,4,22,11,18,41,8,10,17,28,42,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWDL,4,3,10,14,22,WDWWDDWDWWLWDWLLL,WDWWLWWWDWLWLLWWD
+Olympique,Montpellier,1-1,/match/olympique-marsella/montpellier-hsc/2004,2004,36,ligue_1,20,38,1,1,1,7,61,16,5,14,47,41,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWLW,11,2,4,31,16,20,37,8,6,21,39,67,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLWD,2,3,12,18,42,WWWWWWLLLWWWDWDWL,LWWDDLWWWWWWWWWDW
+Olympique Lyonnais,Bastia,1-0,/match/olympique-lyonnais/bastia/2004,2004,36,ligue_1,20,38,0,1,0,3,77,22,7,6,60,25,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWDL,11,4,2,35,8,13,52,9,12,14,33,45,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLWD,1,6,10,11,28,WDDWDWWWWDWLWWWLW,DWLWWDWDWWDWWDWDW
+Ajaccio,Sochaux,1-0,/match/ajaccio/sochaux/2004,2004,36,ligue_1,20,38,0,1,0,16,43,8,10,17,29,52,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWDD,6,5,6,14,16,4,69,17,9,9,50,38,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWWL,6,5,6,20,21,LLWLDLWLWWDDWLWDD,WWLWDLLLLDWWLDDDW
+Strasbourg,Monaco,0-0,/match/strasbourg/monaco/2004,2004,36,ligue_1,20,38,1,0,0,14,47,9,11,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLDD,7,4,6,26,23,1,78,20,11,4,55,25,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLLW,9,6,2,21,13,WLWWWLDDWWLWLDLLD,WLDLLDLLLWDLDDLDL
+Nantes,Guingamp,0-0,/match/nantes/guingamp/2004,2004,36,ligue_1,20,38,1,0,0,6,63,16,8,11,44,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLWL,9,5,3,23,11,15,46,10,7,18,34,54,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWDL,2,4,11,9,28,WWDWWLLLDWWWDDWDW,WDWDWLWWWWWLWWDWD
+Le Mans,Lille,1-1,/match/mans-uc-72/lillestrom/2004,2004,36,ligue_1,20,38,1,1,1,17,42,8,10,17,31,53,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLWL,5,6,6,18,17,12,54,13,8,14,38,37,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLWW,6,2,9,21,22,LDLLDDWWWDLDDLLWW,LWWWWDDWLWLLLLWWW
+Stade Rennais,Metz,0-0,/match/stade-rennes/metz/2004,2004,36,ligue_1,20,38,1,0,0,10,58,12,9,14,48,43,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWWW,10,5,2,32,15,19,41,10,8,17,30,38,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWLL,5,5,7,15,17,WDWWDDDWDWWLWLWWW,LDWWLLWDWWDLDDWWL
+Auxerre,Nantes,2-0,/match/auxerre/nantes/2004,2004,37,ligue_1,20,38,0,2,0,4,70,18,7,11,57,33,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWWDL,12,3,3,36,15,6,65,16,9,11,44,32,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLWLD,7,3,8,21,21,LWWWWLWWWWWLDDWWWD,WLWWLWLWDDLWDLWWLL
+Sochaux,Le Mans,3-0,/match/sochaux/mans-uc-72/2004,2004,37,ligue_1,20,38,0,3,0,5,69,17,9,10,50,39,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWWLW,11,4,3,30,17,17,44,8,11,17,32,54,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLWLD,3,4,11,13,36,WDWWLDWWWDWDWLWWWL,DWWWWWDWDWLWWWDWLL
+Montpellier,Strasbourg,1-2,/match/montpellier-hsc/strasbourg/2004,2004,37,ligue_1,20,38,2,1,2,20,38,8,7,21,40,68,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLWDD,6,3,9,21,25,14,49,9,12,15,41,49,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLDDD,2,7,9,15,26,DLWLWWWLLLDLLLWWLD,DWLWDDWWWWWDDWWDLD
+Metz,Girondins Bordeaux,3-1,/match/metz/bordeaux/2004,2004,37,ligue_1,20,38,0,3,1,19,42,10,9,17,30,38,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWLLD,5,3,10,15,21,8,62,13,11,12,38,37,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLDWW,3,6,9,13,25,LLWDLLLDDWLLLLWWWL,WLDWDDDWWLWDWWDWLW
+Lille,Bastia,2-0,/match/lillestrom/bastia/2004,2004,37,ligue_1,20,38,0,2,0,12,55,13,9,14,39,38,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLWWD,7,6,5,17,15,13,52,9,12,15,33,46,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLWDW,1,6,11,11,29,WWDDDDLLWDLWLWDWLW,DWLWWDWDWWDWWDWDWW
+PSG,Olympique Lyonnais,1-0,/match/paris-saint-germain-fc/olympique-lyonnais/2004,2004,37,ligue_1,20,38,0,1,0,3,78,20,10,6,48,28,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWDWW,12,4,2,32,15,1,81,23,7,6,61,25,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWDLW,11,3,4,25,17,DLWWWLDWWWDWWDWWWW,WLWLLLLWDWLLDLLLDL
+Monaco,Stade Rennais,1-4,/match/monaco/stade-rennes/2004,2004,37,ligue_1,20,38,2,1,4,2,79,20,12,4,55,25,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLLWD,11,5,2,34,12,10,60,12,10,14,48,43,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWWWD,2,4,12,16,28,WWWWDWWDWWDLWWDDLW,DDWWWWWWDWLWDWLWWW
+Lens,Ajaccio,2-0,/match/lens/ajaccio/2004,2004,37,ligue_1,20,38,0,2,0,9,60,14,8,14,32,45,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWDLL,9,6,3,19,17,16,47,9,10,17,30,52,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWDDW,2,5,11,15,36,DWWWLWWWLDWWDDWDDL,LLDWWDDWWWWWWWWDWD
+Guingamp,Nice,1-2,/match/guingamp/nice/2004,2004,37,ligue_1,20,38,2,1,2,15,47,10,8,18,34,54,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWDLD,8,3,7,25,26,11,58,10,16,10,39,37,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWLDD,2,10,6,16,25,LLWLLWLWDWLWDWWDWL,LDWWDWDDDDDWLDDWWD
+Toulouse,Olympique,2-1,/match/toulouse-fc/olympique-marsella/2004,2004,37,ligue_1,20,38,0,2,1,18,42,8,11,17,29,43,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWDLD,4,7,7,14,20,7,63,16,6,14,48,42,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWLWD,5,3,10,16,25,DLLWDLDLDWLLDWDDWL,LWLWWWLDLWWDDWWLWW
+Girondins Bordeaux,Monaco,1-3,/match/bordeaux/monaco/2004,2004,38,ligue_1,20,38,2,1,3,9,62,13,11,13,39,40,WLLWDLWWDLDWDWDWWWWLWWWDDWWWDDDWLDWWW,10,5,3,25,12,3,79,20,12,5,56,29,WWWLWDLWLDDWLWLDLWWWDDLLWDWDDLDDLLWDL,9,7,2,21,13,LWLWLWWDWWWWDWDDDW,WLDLLDLLLWDLDDLDLD
+Stade Rennais,Montpellier,4-0,/match/stade-rennes/montpellier-hsc/2004,2004,38,ligue_1,20,38,0,4,0,10,62,13,10,14,52,44,DWDDWWWWWDWDDWWWDDWWWLLWWDLWWLWWWWWDL,10,6,2,32,15,20,38,8,7,22,41,70,DLLWWWLDDWLWWWWLWLWLWDWLWLLWWWWDLWDDL,2,4,12,19,43,WDWWDDDWDWWLWLWWWD,LWWDDLWWWWWWWWWDWD
+Nice,Auxerre,1-1,/match/nice/auxerre/2004,2004,38,ligue_1,20,38,1,1,1,11,60,11,16,10,41,38,LWDDWWWWDDDWWDDDWDWDLDWWLDDWDLWLWLDDL,8,6,4,23,12,4,74,19,7,11,59,33,LWWWWDWWWDLLWLWWLWWWLWLLDDWDWWDWWWDLW,6,4,8,21,18,WDWWDDWDWWLWDWLLLD,WWDWDLLWLWLLDWWDWL
+Nantes,Sochaux,3-1,/match/nantes/sochaux/2004,2004,38,ligue_1,20,38,0,3,1,6,65,16,9,12,44,34,WWLWDWWWWLLWLLLWDDWDWLWWDDLDWWWDLWLDW,9,6,3,23,11,5,73,18,9,10,53,39,WWDWWLWWLDDLWLWLLWDDWWWDLWDLDWDWWWLWW,6,5,7,20,22,WWDWWLLLDWWWDDWDWD,WWLWDLLLLDWWLDDDWW
+Olympique,Guingamp,2-1,/match/olympique-marsella/guingamp/2004,2004,38,ligue_1,20,38,0,2,1,8,63,16,6,15,49,44,LWWWLWWWWWWWLLLDLLWWWWWDDDWWWDLWWLWDW,11,3,4,32,17,15,47,10,8,19,35,56,LWLDWWLDLWWLWLWWWDWWWLLWWDWWDWDWWDLDL,2,5,11,9,28,WWWWWWLLLWWWDWDWLD,WDWDWLWWWWWLWWDWDD
+Olympique Lyonnais,Lille,3-0,/match/olympique-lyonnais/lillestrom/2004,2004,38,ligue_1,20,38,0,3,0,2,81,23,7,7,61,26,WWLDWDLWLDLWLWWWWDDWWLLLWDWLWLLLWDLWW,12,4,2,36,8,12,59,14,9,14,41,38,WWLDWDWDWDWLDLDWWDLWLLWLLLWLDWWWLWWDW,6,3,9,22,23,WDDWDWWWWDWLWWWLWW,LWWWWDDWLWLLLLWWWD
+Ajaccio,Metz,3-1,/match/ajaccio/metz/2004,2004,38,ligue_1,20,38,0,3,1,16,47,9,10,18,30,54,LLLDLWWWLDDDLWWWLWWWWDWDWWWLWWDDWDDWW,7,5,6,15,16,18,46,11,9,17,33,39,LLLDWWWDLLLLWLDDWDWWDLLLLDLDWWWWWLLDW,5,6,7,15,17,LLWLDLWLWWDDWLWDDW,LDWWLLWDWWDLDDWWLD
+Le Mans,Lens,3-0,/match/mans-uc-72/lens/2004,2004,38,ligue_1,20,38,0,3,0,19,44,8,11,18,32,57,DLDWLWLWDWDWWDWWWDDWLLWDWDWLDLWWLWLDW,5,7,6,19,18,7,64,15,8,14,34,45,DWWLWWWWLWWLWWWLLWWDWWWWDDLDDWWDWDLLW,5,2,11,13,28,LDLLDDWWWDLDDLLWWD,WLWWWLWLWWWWDLDWWL
+Bastia,PSG,0-1,/match/bastia/paris-saint-germain-fc/2004,2004,38,ligue_1,20,38,2,0,1,13,52,9,12,16,33,48,DLWWLWWWWWDDWLDWWDLWDDWWDWWDDWWDLWDWW,8,6,4,22,17,1,82,21,10,6,49,28,DWLLWWLWLWDLLDLWDWDWDDWLWDDLWWWLWDWWW,8,6,4,16,13,LWWWWDLWDLDWDWDWLD,WLWLLDLLDDDLDLWLDW
+Strasbourg,Toulouse,0-0,/match/strasbourg/toulouse-fc/2004,2004,38,ligue_1,20,38,1,0,0,14,51,10,12,15,43,50,DWWLLWWWDWLDDWDWWWWWLWWDLDDWWLDLLDDDL,7,5,6,26,23,17,46,9,11,17,31,44,DWLDLWWWDLWLWDWLDDWWLLWLLDLWDWDWWDLDW,4,4,10,15,23,WLWWWLDDWWLWLDLLDD,WDWWLWWWDWLWLLWWDD

@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Parma,Juventus,0-1,/match/parma-fc/juventus-fc/2020,2020,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Fiorentina,Napoli,3-4,/match/fiorentina/napoli/2020,2020,1,serie_a,20,38,2,3,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Udinese,Milan,1-0,/match/udinese/milan/2020,2020,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Roma,Genoa,3-3,/match/roma/genoa/2020,2020,1,serie_a,20,38,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Torino,Sassuolo,2-1,/match/torino-fc/us-sassuolo-calcio/2020,2020,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-SPAL,Atalanta,2-3,/match/spal-1907/atalanta/2020,2020,1,serie_a,20,38,2,2,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sampdoria,Lazio,0-3,/match/sampdoria/lazio/2020,2020,1,serie_a,20,38,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Cagliari,Brescia,0-1,/match/cagliari/brescia/2020,2020,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Hellas Verona,Bologna,1-1,/match/hellas-verona-fc/bologna/2020,2020,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Inter,Lecce,4-0,/match/internazionale/lecce/2020,2020,1,serie_a,20,38,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Bologna,SPAL,1-0,/match/bologna/spal-1907/2020,2020,2,serie_a,20,38,0,1,0,12,0,1,0,1,1,D,0,0,0,0,0,14,0,0,1,2,3,L,0,0,0,0,0,,
-Milan,Brescia,1-0,/match/milan/brescia/2020,2020,2,serie_a,20,38,0,1,0,20,0,0,1,0,1,W,0,0,0,0,0,6,1,0,0,1,0,L,1,0,0,1,0,,L
-Juventus,Napoli,4-3,/match/juventus-fc/napoli/2020,2020,2,serie_a,20,38,0,4,3,4,1,0,0,1,0,L,0,0,0,0,0,7,1,0,0,4,3,L,1,0,0,4,3,,L
-Lazio,Roma,1-1,/match/lazio/roma/2020,2020,2,serie_a,20,38,1,1,1,10,1,0,0,3,0,L,0,0,0,0,0,8,0,1,0,3,3,D,0,0,0,0,0,,
-Cagliari,Inter,1-2,/match/cagliari/internazionale/2020,2020,2,serie_a,20,38,2,1,2,17,0,0,1,0,1,L,0,0,1,0,1,3,1,0,0,4,0,W,0,0,0,0,0,L,
-Genoa,Fiorentina,2-1,/match/genoa/fiorentina/2020,2020,2,serie_a,20,38,0,2,1,11,0,1,0,3,3,D,0,0,0,0,0,15,0,0,1,3,4,L,0,0,0,0,0,,
-Atalanta,Torino,2-3,/match/atalanta/torino-fc/2020,2020,2,serie_a,20,38,2,2,3,5,1,0,0,3,2,L,0,0,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,,
-Lecce,Hellas Verona,0-1,/match/lecce/hellas-verona-fc/2020,2020,2,serie_a,20,38,2,0,1,13,0,0,1,0,4,W,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
-Sassuolo,Sampdoria,4-1,/match/us-sassuolo-calcio/sampdoria/2020,2020,2,serie_a,20,38,0,4,1,18,0,0,1,1,2,W,0,0,0,0,0,19,0,0,1,0,3,L,0,0,0,0,0,,
-Udinese,Parma,1-3,/match/udinese/parma-fc/2020,2020,2,serie_a,20,38,2,1,3,1,1,0,0,1,0,W,1,0,0,1,0,16,0,0,1,0,1,L,0,0,0,0,0,W,
-Fiorentina,Juventus,0-0,/match/fiorentina/juventus-fc/2020,2020,3,serie_a,20,38,1,0,0,18,0,0,2,4,6,LW,0,0,1,3,4,2,2,0,0,5,3,LW,1,0,0,1,0,L,L
-Napoli,Sampdoria,2-0,/match/napoli/sampdoria/2020,2020,3,serie_a,20,38,0,2,0,12,1,0,1,7,7,LW,0,0,0,0,0,20,0,0,2,1,7,LW,0,0,1,1,4,,W
-Inter,Udinese,1-0,/match/internazionale/udinese/2020,2020,3,serie_a,20,38,0,1,0,1,2,0,0,6,1,WL,1,0,0,4,0,9,1,0,1,2,3,WL,0,0,0,0,0,W,
-Genoa,Atalanta,1-2,/match/genoa/atalanta/2020,2020,3,serie_a,20,38,2,1,2,4,1,1,0,5,4,DW,1,0,0,2,1,15,1,0,1,5,5,LL,1,0,0,3,2,W,L
-Brescia,Bologna,3-4,/match/brescia/bologna/2020,2020,3,serie_a,20,38,2,3,4,13,1,0,1,1,1,LW,0,0,0,0,0,5,1,1,0,2,1,DW,0,1,0,1,1,,D
-SPAL,Lazio,2-1,/match/spal-1907/lazio/2020,2020,3,serie_a,20,38,0,2,1,17,0,0,2,2,4,LW,0,0,1,2,3,8,1,1,0,4,1,LD,1,0,0,3,0,L,L
-Parma,Cagliari,1-3,/match/parma-fc/cagliari/2020,2020,3,serie_a,20,38,2,1,3,14,1,0,1,3,2,LL,0,0,1,0,1,19,0,0,2,1,3,LL,0,0,0,0,0,L,
-Roma,Sassuolo,4-2,/match/roma/us-sassuolo-calcio/2020,2020,3,serie_a,20,38,0,4,2,11,0,2,0,4,4,DD,0,1,0,3,3,7,1,0,1,5,3,WW,0,0,1,1,2,D,W
-Hellas Verona,Milan,0-1,/match/hellas-verona-fc/milan/2020,2020,3,serie_a,20,38,2,0,1,6,1,1,0,2,1,DL,0,1,0,1,1,10,1,0,1,1,1,WW,0,0,1,0,1,D,W
-Torino,Lecce,1-2,/match/torino-fc/lecce/2020,2020,3,serie_a,20,38,2,1,2,3,2,0,0,5,3,WL,1,0,0,2,1,16,0,0,2,0,5,WL,0,0,1,0,4,W,W
-Cagliari,Genoa,3-1,/match/cagliari/genoa/2020,2020,4,serie_a,20,38,0,3,1,19,1,0,2,4,4,LLL,0,0,2,1,3,8,1,1,1,6,6,DWL,0,1,0,3,3,LL,D
-Udinese,Brescia,0-1,/match/udinese/brescia/2020,2020,4,serie_a,20,38,2,0,1,12,1,0,2,2,4,WLW,1,0,1,2,3,15,1,0,2,4,5,LWL,1,0,1,1,1,WL,LW
-Juventus,Hellas Verona,2-1,/match/juventus-fc/hellas-verona-fc/2020,2020,4,serie_a,20,38,0,2,1,3,2,1,0,5,3,LWD,1,0,0,4,3,9,1,1,1,2,2,DLL,1,0,0,1,0,W,L
-Milan,Inter,0-2,/match/milan/internazionale/2020,2020,4,serie_a,20,38,2,0,2,5,2,0,1,2,1,WWL,1,0,0,1,0,1,3,0,0,7,1,WLW,1,0,0,2,1,W,L
-Sassuolo,SPAL,3-0,/match/us-sassuolo-calcio/spal-1907/2020,2020,4,serie_a,20,38,0,3,0,10,1,0,2,7,7,WWW,1,0,0,4,1,14,1,0,2,4,5,LWW,0,0,1,0,1,W,W
-Bologna,Roma,1-2,/match/bologna/roma/2020,2020,4,serie_a,20,38,2,1,2,2,2,1,0,6,4,DWL,1,0,0,1,0,4,1,2,0,8,6,DDW,0,1,0,1,1,W,D
-Lecce,Napoli,1-4,/match/lecce/napoli/2020,2020,4,serie_a,20,38,2,1,4,17,1,0,2,2,6,WLL,0,0,1,0,1,7,2,0,1,9,7,LWW,1,0,1,7,7,L,LW
-Sampdoria,Torino,1-0,/match/sampdoria/torino-fc/2020,2020,4,serie_a,20,38,0,1,0,20,0,0,3,1,9,LWW,0,0,1,0,3,6,2,0,1,6,5,WLL,1,0,0,3,2,L,L
-Atalanta,Fiorentina,2-2,/match/atalanta/fiorentina/2020,2020,4,serie_a,20,38,1,2,2,13,2,0,1,7,6,LLL,0,0,1,2,3,18,0,1,2,4,6,LWD,0,0,1,1,2,L,W
-Lazio,Parma,2-0,/match/lazio/parma-fc/2020,2020,4,serie_a,20,38,0,2,0,11,1,1,1,5,3,LDW,0,1,0,1,1,16,1,0,2,4,5,LLL,1,0,0,3,1,D,L
-Hellas Verona,Udinese,0-0,/match/hellas-verona-fc/udinese/2020,2020,5,serie_a,20,38,1,0,0,13,1,1,2,3,4,DLLW,0,1,1,1,2,14,1,0,3,2,5,WLWL,0,0,1,0,1,DL,W
-Brescia,Juventus,1-2,/match/brescia/juventus-fc/2020,2020,5,serie_a,20,38,2,1,2,16,2,0,2,5,5,LWLL,0,0,1,3,4,2,3,1,0,7,4,LWDW,1,1,0,1,0,L,LD
-Roma,Atalanta,0-2,/match/roma/atalanta/2020,2020,5,serie_a,20,38,2,0,2,3,2,2,0,10,7,DDWL,1,1,0,7,5,10,2,1,1,9,8,LLLD,2,0,0,5,3,DW,LL
-Genoa,Bologna,0-0,/match/genoa/bologna/2020,2020,5,serie_a,20,38,1,0,0,12,1,1,2,7,9,DWLW,1,0,1,3,3,7,2,1,1,7,6,DWLL,1,1,0,5,4,WL,DL
-Inter,Lazio,1-0,/match/internazionale/lazio/2020,2020,5,serie_a,20,38,0,1,0,1,4,0,0,9,1,WLWL,2,0,0,5,0,6,2,1,1,7,3,LDWW,1,0,1,4,2,WW,LW
-Fiorentina,Sampdoria,2-1,/match/fiorentina/sampdoria/2020,2020,5,serie_a,20,38,0,2,1,18,0,2,2,6,8,LWDD,0,1,1,3,4,17,1,0,3,2,9,LWWW,0,0,2,1,6,LD,WW
-Parma,Sassuolo,1-0,/match/parma-fc/us-sassuolo-calcio/2020,2020,5,serie_a,20,38,0,1,0,19,1,0,3,4,7,LLLW,0,0,2,1,4,5,2,0,2,10,7,WWWW,0,0,2,3,6,LL,WW
-SPAL,Lecce,1-3,/match/spal-1907/lecce/2020,2020,5,serie_a,20,38,2,1,3,15,1,0,3,4,8,LWWW,1,0,1,4,4,20,1,0,3,3,10,WLLL,1,0,1,2,5,LW,WL
-Napoli,Cagliari,0-1,/match/napoli/cagliari/2020,2020,5,serie_a,20,38,2,0,1,4,3,0,1,13,8,LWWL,1,0,0,2,0,11,2,0,2,7,5,LLLW,1,0,0,3,1,W,L
-Torino,Milan,2-1,/match/torino-fc/milan/2020,2020,5,serie_a,20,38,0,2,1,8,2,0,2,6,6,WLLW,1,0,1,3,3,9,2,0,2,2,3,WWLL,1,0,1,1,1,WL,WL
-Juventus,SPAL,2-0,/match/juventus-fc/spal-1907/2020,2020,6,serie_a,20,38,0,2,0,2,4,1,0,9,5,LWDWL,2,0,0,6,4,17,1,0,4,5,11,LWWWL,0,0,2,0,4,WW,WW
-Sampdoria,Inter,1-3,/match/sampdoria/internazionale/2020,2020,6,serie_a,20,38,2,1,3,19,1,0,4,3,11,LWWWW,1,0,1,1,3,1,5,0,0,10,1,WLWLW,2,0,0,4,1,LW,LL
-Sassuolo,Atalanta,1-4,/match/us-sassuolo-calcio/atalanta/2020,2020,6,serie_a,20,38,2,1,4,9,2,0,3,10,8,WWWWW,2,0,0,7,1,6,3,1,1,11,8,LLLDL,3,0,0,7,3,WW,LLL
-Napoli,Brescia,2-1,/match/napoli/brescia/2020,2020,6,serie_a,20,38,0,2,1,10,3,0,2,13,9,LWWLL,1,0,1,2,1,18,2,0,3,6,7,LWLLL,2,0,1,2,1,WL,LWL
-Udinese,Bologna,1-0,/match/udinese/bologna/2020,2020,6,serie_a,20,38,0,1,0,16,1,1,3,2,5,WLWLD,1,0,2,2,4,5,2,2,1,7,6,DWLLD,1,2,0,5,4,WLL,DLD
-Lecce,Roma,0-1,/match/lecce/roma/2020,2020,6,serie_a,20,38,2,0,1,20,2,0,3,6,11,WLLLL,0,0,2,1,5,4,2,2,1,10,9,DDWLL,1,1,0,3,2,LL,DL
-Lazio,Genoa,4-0,/match/lazio/genoa/2020,2020,6,serie_a,20,38,0,4,0,8,2,1,2,7,4,LDWWW,1,1,0,3,1,11,1,2,2,7,9,DWLWD,0,1,1,4,6,DW,DW
-Cagliari,Hellas Verona,1-1,/match/cagliari/hellas-verona-fc/2020,2020,6,serie_a,20,38,1,1,1,7,3,0,2,8,5,LLLWL,1,0,2,4,4,14,1,2,2,3,4,DLLWD,1,0,1,2,2,LLW,LW
-Milan,Fiorentina,1-3,/match/milan/fiorentina/2020,2020,6,serie_a,20,38,2,1,3,13,2,0,3,3,5,WWLLW,1,0,1,1,2,12,1,2,2,8,9,LWDDW,0,1,1,3,4,WL,WD
-Parma,Torino,3-2,/match/parma-fc/torino-fc/2020,2020,6,serie_a,20,38,0,3,2,15,2,0,3,5,7,LLLWW,1,0,2,2,4,3,3,0,2,8,7,WLLWW,1,0,1,3,3,LLW,LW
-SPAL,Parma,1-0,/match/spal-1907/parma-fc/2020,2020,7,serie_a,20,38,0,1,0,17,1,0,5,5,13,LWWWLW,1,0,2,5,7,6,3,0,3,8,9,LLLWWW,1,0,1,3,3,LWL,LW
-Hellas Verona,Sampdoria,2-0,/match/hellas-verona-fc/sampdoria/2020,2020,7,serie_a,20,38,0,2,0,15,1,3,2,4,5,DLLWDD,0,2,1,1,2,19,1,0,5,4,14,LWWWWL,0,0,3,2,8,DLD,WWW
-Genoa,Milan,1-2,/match/genoa/milan/2020,2020,7,serie_a,20,38,2,1,2,14,1,2,3,7,13,DWLWDW,1,1,1,3,3,16,2,0,4,4,8,WWLLWL,1,0,2,2,3,WLD,WLW
-Fiorentina,Udinese,1-0,/match/fiorentina/udinese/2020,2020,7,serie_a,20,38,0,1,0,10,2,2,2,11,10,LWDDWL,1,1,1,5,5,11,2,1,3,3,5,WLWLDW,0,1,1,0,1,LDW,WD
-Bologna,Lazio,2-2,/match/bologna/lazio/2020,2020,7,serie_a,20,38,1,2,2,12,2,2,2,7,7,DWLLDW,1,0,1,2,2,3,3,1,2,11,4,LDWWWW,1,0,2,4,3,WL,LWW
-Atalanta,Lecce,3-1,/match/atalanta/lecce/2020,2020,7,serie_a,20,38,0,3,1,8,4,1,1,15,9,LLLDLL,0,1,1,4,5,20,2,0,4,6,12,WLLLLL,2,0,1,5,6,LD,WLL
-Roma,Cagliari,1-1,/match/roma/cagliari/2020,2020,7,serie_a,20,38,1,1,1,5,3,2,1,11,9,DDWLLL,1,1,1,7,7,9,3,1,2,9,6,LLLWLD,2,0,0,4,1,DWL,LL
-Torino,Napoli,0-0,/match/torino-fc/napoli/2020,2020,7,serie_a,20,38,1,0,0,7,3,0,3,10,10,WLLWWW,2,0,1,5,4,4,4,0,2,15,10,LWWLLW,2,0,1,11,8,WLW,LWL
-Inter,Juventus,1-2,/match/internazionale/juventus-fc/2020,2020,7,serie_a,20,38,2,1,2,1,6,0,0,13,2,WLWLWL,3,0,0,6,0,2,5,1,0,11,5,LWDWLW,2,1,0,3,1,WWW,LDL
-Brescia,Sassuolo,0-2,/match/brescia/us-sassuolo-calcio/2020,2020,7,serie_a,20,38,2,0,2,18,2,0,4,7,9,LWLLLW,0,0,2,4,6,13,2,0,4,11,12,WWWWWL,0,0,3,3,7,LL,WWW
-Lazio,Atalanta,3-3,/match/lazio/atalanta/2020,2020,8,serie_a,20,38,1,3,3,4,3,2,2,13,6,LDWWWWD,2,1,0,7,1,3,5,1,1,18,10,LLLDLLW,4,0,0,11,4,DWW,LLLL
-Napoli,Hellas Verona,2-0,/match/napoli/hellas-verona-fc/2020,2020,8,serie_a,20,38,0,2,0,5,4,1,2,15,10,LWWLLWD,2,0,1,4,2,9,2,3,2,6,5,DLLWDDW,1,1,1,3,3,WLW,LWD
-Juventus,Bologna,2-1,/match/juventus-fc/bologna/2020,2020,8,serie_a,20,38,0,2,1,1,6,1,0,13,6,LWDWLWL,3,0,0,8,4,12,2,3,2,9,9,DWLLDWD,1,2,1,5,5,WWW,DLDW
-Sassuolo,Inter,3-4,/match/us-sassuolo-calcio/internazionale/2020,2020,8,serie_a,20,38,2,3,4,13,3,0,4,13,12,WWWWWLL,2,0,1,8,5,2,6,0,1,14,4,WLWLWLL,3,0,0,7,2,WWL,LLL
-Sampdoria,Roma,0-0,/match/sampdoria/roma/2020,2020,8,serie_a,20,38,1,0,0,19,1,0,6,4,16,LWWWWLW,1,0,2,2,6,6,3,3,1,12,10,DDWLLLD,2,1,0,4,2,LWL,DLL
-Udinese,Torino,1-0,/match/udinese/torino-fc/2020,2020,8,serie_a,20,38,0,1,0,14,2,1,4,3,6,WLWLDWW,2,0,2,3,4,8,3,1,3,10,10,WLLWWWD,1,0,2,5,6,WLLW,LWW
-Cagliari,SPAL,2-0,/match/cagliari/spal-1907/2020,2020,8,serie_a,20,38,0,2,0,10,3,2,2,10,7,LLLWLDD,1,1,2,5,5,16,2,0,5,6,13,LWWWLWW,0,0,3,0,6,LLWD,WWW
-Parma,Genoa,5-1,/match/parma-fc/genoa/2020,2020,8,serie_a,20,38,0,5,1,11,3,0,4,8,10,LLLWWWW,2,0,2,5,6,17,1,2,4,8,15,DWLWDWL,0,1,2,4,10,LLWW,DWW
-Milan,Lecce,2-2,/match/milan/lecce/2020,2020,8,serie_a,20,38,1,2,2,15,3,0,4,6,9,WWLLWLL,1,0,2,2,5,20,2,0,5,7,15,WLLLLLW,2,0,2,6,9,WLL,WLLW
-Brescia,Fiorentina,0-0,/match/brescia/fiorentina/2020,2020,8,serie_a,20,38,1,0,0,18,2,0,5,7,11,LWLLLWL,0,0,3,4,8,7,3,2,2,12,10,LWDDWLW,1,1,1,6,5,LLL,WDL
-Hellas Verona,Sassuolo,0-1,/match/hellas-verona-fc/us-sassuolo-calcio/2020,2020,9,serie_a,20,38,2,0,1,12,2,3,3,6,7,DLLWDDWW,1,2,1,3,2,14,3,0,5,16,16,WWWWWLLL,1,0,3,5,7,DLDW,WWWL
-Lecce,Juventus,1-1,/match/lecce/juventus-fc/2020,2020,9,serie_a,20,38,1,1,1,20,2,1,5,9,17,WLLLLLWD,0,0,3,1,6,1,7,1,0,15,7,LWDWLWLW,3,1,0,5,2,LLL,LDLL
-Inter,Parma,2-2,/match/internazionale/parma-fc/2020,2020,9,serie_a,20,38,1,2,2,2,7,0,1,18,7,WLWLWLLL,3,0,1,7,2,7,4,0,4,13,11,LLLWWWWW,1,0,2,3,4,WWWL,LWW
-Genoa,Brescia,3-1,/match/genoa/brescia/2020,2020,9,serie_a,20,38,0,3,1,17,1,2,5,9,20,DWLWDWLW,1,1,2,4,5,18,2,1,5,7,11,LWLLLWLD,2,0,2,3,3,WLDL,LWLW
-Bologna,Sampdoria,2-1,/match/bologna/sampdoria/2020,2020,9,serie_a,20,38,0,2,1,13,2,3,3,10,11,DWLLDWDW,1,1,1,4,4,19,1,1,6,4,16,LWWWWLWD,0,0,4,2,10,WLD,WWWW
-Atalanta,Udinese,7-1,/match/atalanta/udinese/2020,2020,9,serie_a,20,38,0,7,1,5,5,2,1,21,13,LLLDLLWD,1,1,1,7,6,10,3,1,4,4,6,WLWLDWWW,0,1,2,0,2,LDW,WDW
-SPAL,Napoli,1-1,/match/spal-1907/napoli/2020,2020,9,serie_a,20,38,1,1,1,16,2,0,6,6,15,LWWWLWWW,2,0,2,6,7,3,5,1,2,17,10,LWWLLWDW,2,1,1,11,8,LWLW,LWLD
-Torino,Cagliari,1-1,/match/torino-fc/cagliari/2020,2020,9,serie_a,20,38,1,1,1,11,3,1,4,10,11,WLLWWWDW,2,1,1,5,4,4,4,2,2,12,7,LLLWLDDW,2,1,0,5,2,WLWD,LLD
-Roma,Milan,2-1,/match/roma/milan/2020,2020,9,serie_a,20,38,0,2,1,9,3,4,1,12,10,DDWLLLDD,1,2,1,8,8,15,3,1,4,8,11,WWLLWLLD,2,0,2,4,4,DWLD,WLWL
-Fiorentina,Lazio,1-2,/match/fiorentina/lazio/2020,2020,9,serie_a,20,38,2,1,2,8,3,3,2,12,10,LWDDWLWD,2,1,1,6,5,6,3,3,2,16,9,LDWWWWDD,1,1,2,6,5,LDWW,LWWD
-Parma,Hellas Verona,0-1,/match/parma-fc/hellas-verona-fc/2020,2020,10,serie_a,20,38,2,0,1,8,4,1,4,15,13,LLLWWWWWD,3,0,2,10,7,14,2,3,4,6,8,DLLWDDWWL,1,1,2,3,5,LLWWW,LWDW
-Brescia,Inter,1-2,/match/brescia/internazionale/2020,2020,10,serie_a,20,38,2,1,2,19,2,1,6,8,14,LWLLLWLDW,0,1,3,4,8,2,7,1,1,20,9,WLWLWLLLD,4,0,0,11,5,LLLD,LLLL
-Napoli,Atalanta,2-2,/match/napoli/atalanta/2020,2020,10,serie_a,20,38,1,2,2,4,5,2,2,18,11,LWWLLWDWD,3,0,1,6,2,3,6,2,1,28,14,LLLDLLWDW,4,1,0,14,7,WLWW,LLLLD
-Sassuolo,Fiorentina,1-2,/match/us-sassuolo-calcio/fiorentina/2020,2020,10,serie_a,20,38,2,1,2,13,4,0,5,17,16,WWWWWLLLL,2,0,2,11,9,11,3,3,3,13,12,LWDDWLWDL,1,2,1,6,5,WWLL,WDLD
-Sampdoria,Lecce,1-1,/match/sampdoria/lecce/2020,2020,10,serie_a,20,38,1,1,1,20,1,1,7,5,18,LWWWWLWDW,1,1,2,2,6,18,2,2,5,10,18,WLLLLLWDD,2,1,2,8,11,LWLD,WLLWD
-Udinese,Roma,0-4,/match/udinese/roma/2020,2020,10,serie_a,20,38,2,0,4,12,3,1,5,5,13,WLWLDWWWW,3,0,2,4,4,5,4,4,1,14,11,DDWLLLDDW,2,2,0,4,2,WLLWW,DLLD
-Lazio,Torino,4-0,/match/lazio/torino-fc/2020,2020,10,serie_a,20,38,0,4,0,6,4,3,2,18,10,LDWWWWDDL,2,2,0,10,4,10,3,2,4,11,12,WLLWWWDWD,1,0,3,5,7,DWWD,LWWW
-Juventus,Genoa,2-1,/match/juventus-fc/genoa/2020,2020,10,serie_a,20,38,0,2,1,1,7,2,0,16,8,LWDWLWLWD,4,0,0,10,5,15,2,2,5,12,21,DWLWDWLWW,0,1,3,5,15,WWWW,DWWW
-Cagliari,Bologna,3-2,/match/cagliari/bologna/2020,2020,10,serie_a,20,38,0,3,2,7,4,3,2,13,8,LLLWLDDWD,2,1,2,7,5,9,3,3,3,12,12,DWLLDWDWW,1,2,2,6,7,LLWDW,DLDWW
-Milan,SPAL,1-0,/match/milan/spal-1907/2020,2020,10,serie_a,20,38,0,1,0,16,3,1,5,9,13,WWLLWLLDW,1,1,2,4,7,17,2,1,6,7,16,LWWWLWWWD,0,0,4,0,8,WLLD,WWWW
-Roma,Napoli,2-1,/match/roma/napoli/2020,2020,11,serie_a,20,38,0,2,1,6,5,4,1,18,11,DDWLLLDDWL,2,2,1,10,9,5,5,3,2,20,13,LWWLLWDWDD,2,2,1,12,9,DWLDW,LWLDD
-Bologna,Inter,1-2,/match/bologna/internazionale/2020,2020,11,serie_a,20,38,2,1,2,10,3,3,4,14,15,DWLLDWDWWW,2,1,1,6,5,2,8,1,1,22,10,WLWLWLLLDL,5,0,0,13,6,WLDW,LLLLL
-Torino,Juventus,0-1,/match/torino-fc/juventus-fc/2020,2020,11,serie_a,20,38,2,0,1,11,3,2,5,11,16,WLLWWWDWDW,2,2,1,6,5,1,8,2,0,18,9,LWDWLWLWDW,3,2,0,6,3,WLWDD,LDLLD
-Atalanta,Cagliari,0-2,/match/atalanta/cagliari/2020,2020,11,serie_a,20,38,2,0,2,4,6,3,1,30,16,LLLDLLWDWD,2,1,1,14,7,7,5,3,2,16,10,LLLWLDDWDW,2,2,0,6,3,LDWW,LLDD
-Hellas Verona,Brescia,2-1,/match/hellas-verona-fc/brescia/2020,2020,11,serie_a,20,38,0,2,1,14,3,3,4,7,8,DLLWDDWWLL,1,2,2,3,3,20,2,1,7,9,16,LWLLLWLDWL,2,0,3,4,6,DLDWL,LWLWW
-Lecce,Sassuolo,2-2,/match/lecce/us-sassuolo-calcio/2020,2020,11,serie_a,20,38,1,2,2,18,2,3,5,11,19,WLLLLLWDDD,0,1,3,2,7,15,4,0,6,18,18,WWWWWLLLLL,2,0,3,6,7,LLLD,WWWLL
-Genoa,Udinese,1-3,/match/genoa/udinese/2020,2020,11,serie_a,20,38,2,1,3,16,2,2,6,13,23,DWLWDWLWWW,2,1,2,7,6,13,3,1,6,5,17,WLWLDWWWWL,0,1,3,1,9,WLDLW,WDWW
-Fiorentina,Parma,1-1,/match/fiorentina/parma-fc/2020,2020,11,serie_a,20,38,1,1,1,8,4,3,3,15,13,LWDDWLWDLL,2,1,2,7,7,9,4,1,5,15,14,LLLWWWWWDL,1,1,2,5,6,LDWWL,LWWD
-Milan,Lazio,1-2,/match/milan/lazio/2020,2020,11,serie_a,20,38,2,1,2,12,4,1,5,10,13,WWLLWLLDWW,2,1,2,5,7,3,5,3,2,22,10,LDWWWWDDLW,2,1,2,8,6,WLLDW,LWWDL
-SPAL,Sampdoria,0-1,/match/spal-1907/sampdoria/2020,2020,11,serie_a,20,38,2,0,1,17,2,1,7,7,17,LWWWLWWWDW,2,1,2,7,8,19,1,2,7,6,19,LWWWWLWDWD,0,0,5,3,12,LWLWD,WWWWW
-Sassuolo,Bologna,3-1,/match/us-sassuolo-calcio/bologna/2020,2020,12,serie_a,20,38,0,3,1,15,4,1,6,20,20,WWWWWLLLLLD,2,0,3,12,11,14,3,3,5,15,17,DWLLDWDWWWL,1,2,3,8,10,WWLLL,DLDWWW
-Brescia,Torino,0-4,/match/brescia/torino-fc/2020,2020,12,serie_a,20,38,2,0,4,20,2,1,8,10,18,LWLLLWLDWLW,0,1,4,5,10,12,3,2,6,11,17,WLLWWWDWDWL,1,0,4,5,11,LLLDL,LWWWW
-Inter,Hellas Verona,2-1,/match/internazionale/hellas-verona-fc/2020,2020,12,serie_a,20,38,0,2,1,2,9,1,1,24,11,WLWLWLLLDLL,3,1,1,9,4,9,4,3,4,9,9,DLLWDDWWLLW,2,1,2,4,5,WWWLD,LWDWL
-Napoli,Genoa,0-0,/match/napoli/genoa/2020,2020,12,serie_a,20,38,1,0,0,7,5,3,3,21,15,LWWLLWDWDDW,3,1,1,8,4,16,2,2,7,14,26,DWLWDWLWWWL,0,1,4,6,17,WLWWD,DWWWW
-Cagliari,Fiorentina,5-2,/match/cagliari/fiorentina/2020,2020,12,serie_a,20,38,0,5,2,5,6,3,2,18,10,LLLWLDDWDWL,3,1,2,10,7,8,4,4,3,16,14,LWDDWLWDLLD,2,2,1,8,6,LLWDWW,WDLDL
-Lazio,Lecce,4-2,/match/lazio/lecce/2020,2020,12,serie_a,20,38,0,4,2,4,6,3,2,24,11,LDWWWWDDLWL,3,2,0,14,4,18,2,4,5,13,21,WLLLLLWDDDD,2,2,2,9,12,DWWDW,WLLWDD
-Sampdoria,Atalanta,0-0,/match/sampdoria/atalanta/2020,2020,12,serie_a,20,38,1,0,0,19,2,2,7,7,19,LWWWWLWDWDL,1,2,2,3,7,6,6,3,2,30,18,LLLDLLWDWDL,4,2,0,16,9,LWLDD,LLLLDD
-Udinese,SPAL,0-0,/match/udinese/spal-1907/2020,2020,12,serie_a,20,38,1,0,0,11,4,1,6,8,18,WLWLDWWWWLL,3,0,3,4,8,17,2,1,8,7,18,LWWWLWWWDWL,0,0,5,0,9,WLLWWL,WWWWW
-Parma,Roma,2-0,/match/parma-fc/roma/2020,2020,12,serie_a,20,38,0,2,0,10,4,2,5,16,15,LLLWWWWWDLD,3,0,3,10,8,3,6,4,1,20,12,DDWLLLDDWLW,3,2,0,8,2,LLWWWL,DLLDL
-Juventus,Milan,1-0,/match/juventus-fc/milan/2020,2020,12,serie_a,20,38,0,1,0,1,9,2,0,19,9,LWDWLWLWDWL,5,0,0,12,6,13,4,1,6,11,15,WWLLWLLDWWL,2,0,3,5,6,WWWWW,WLWLW
-Atalanta,Juventus,1-3,/match/atalanta/juventus-fc/2020,2020,13,serie_a,20,38,2,1,3,7,6,4,2,30,18,LLLDLLWDWDLD,2,1,2,14,9,1,10,2,0,20,9,LWDWLWLWDWLW,4,2,0,7,3,LDWWL,LDLLDL
-Milan,Napoli,1-1,/match/milan/napoli/2020,2020,13,serie_a,20,38,1,1,1,14,4,1,7,11,16,WWLLWLLDWWLW,2,1,3,6,9,6,5,4,3,21,15,LWWLLWDWDDWD,2,2,2,13,11,WLLDWL,LWLDDW
-Torino,Inter,0-3,/match/torino-fc/internazionale/2020,2020,13,serie_a,20,38,2,0,3,13,4,2,6,15,17,WLLWWWDWDWLL,2,2,2,6,6,2,10,1,1,26,12,WLWLWLLLDLLW,6,0,0,15,7,WLWDDL,LLLLLL
-Bologna,Parma,2-2,/match/bologna/parma-fc/2020,2020,13,serie_a,20,38,1,2,2,15,3,3,6,16,20,DWLLDWDWWWLW,2,1,2,7,7,8,5,2,5,18,15,LLLWWWWWDLDW,1,2,2,6,7,WLDWL,LWWDD
-Sassuolo,Lazio,1-2,/match/us-sassuolo-calcio/lazio/2020,2020,13,serie_a,20,38,2,1,2,10,5,1,6,23,21,WWWWWLLLLLDW,3,0,3,15,12,3,7,3,2,28,13,LDWWWWDDLWLW,3,1,2,10,7,WWLLLW,LWWDLL
-Hellas Verona,Fiorentina,1-0,/match/hellas-verona-fc/fiorentina/2020,2020,13,serie_a,20,38,0,1,0,12,4,3,5,10,11,DLLWDDWWLLWW,2,2,2,5,4,9,4,4,4,18,19,LWDDWLWDLLDW,2,2,2,10,11,DLDWLW,WDLDLW
-Roma,Brescia,3-0,/match/roma/brescia/2020,2020,13,serie_a,20,38,0,3,0,5,6,4,2,20,14,DDWLLLDDWLWW,3,2,1,12,10,20,2,1,9,10,22,LWLLLWLDWLWL,2,0,4,5,8,DWLDWW,LWLWWW
-Sampdoria,Udinese,2-1,/match/sampdoria/udinese/2020,2020,13,serie_a,20,38,0,2,1,17,2,3,7,7,19,LWWWWLWDWDLD,1,3,2,3,7,11,4,2,6,8,18,WLWLDWWWWLLD,1,1,3,4,10,LWLDDD,WDWWL
-Lecce,Cagliari,2-2,/match/lecce/cagliari/2020,2020,13,serie_a,20,38,1,2,2,19,2,4,6,15,25,WLLLLLWDDDDW,0,2,3,4,9,4,7,3,2,23,12,LLLWLDDWDWLW,3,2,0,8,3,LLLDD,LLDDL
-SPAL,Genoa,1-1,/match/spal-1907/genoa/2020,2020,13,serie_a,20,38,1,1,1,18,2,2,8,7,18,LWWWLWWWDWLD,2,1,3,7,9,16,2,3,7,14,26,DWLWDWLWWWLD,0,2,4,6,17,LWLWDL,DWWWWD
-Brescia,Atalanta,0-3,/match/brescia/atalanta/2020,2020,14,serie_a,20,38,2,0,3,20,2,1,10,10,25,LWLLLWLDWLWLW,0,1,5,5,14,7,6,4,3,31,21,LLLDLLWDWDLDL,4,3,0,16,9,LLLDLL,LLLLDDD
-Genoa,Torino,0-1,/match/genoa/torino-fc/2020,2020,14,serie_a,20,38,2,0,1,17,2,4,7,15,27,DWLWDWLWWWLDD,2,1,3,8,9,13,4,2,7,15,20,WLLWWWDWDWLLL,2,0,4,9,11,WLDLWL,LWWWWL
-Fiorentina,Lecce,0-1,/match/fiorentina/lecce/2020,2020,14,serie_a,20,38,2,0,1,10,4,4,5,18,20,LWDDWLWDLLDWW,2,2,2,8,8,19,2,5,6,17,27,WLLLLLWDDDDWD,2,2,3,11,16,LDWWLD,WLLWDDW
-Juventus,Sassuolo,2-2,/match/juventus-fc/us-sassuolo-calcio/2020,2020,14,serie_a,20,38,1,2,2,1,11,2,0,23,10,LWDWLWLWDWLWL,6,0,0,13,6,12,5,1,7,24,23,WWWWWLLLLLDWL,2,1,3,8,9,WWWWWW,WWWLLD
-Inter,SPAL,2-1,/match/internazionale/spal-1907/2020,2020,14,serie_a,20,38,0,2,1,2,11,1,1,29,12,WLWLWLLLDLLWL,4,1,1,11,5,18,2,3,8,8,19,LWWWLWWWDWLDD,0,1,5,0,9,WWWLDW,WWWWWD
-Lazio,Udinese,3-0,/match/lazio/udinese/2020,2020,14,serie_a,20,38,0,3,0,3,8,3,2,30,14,LDWWWWDDLWLWL,4,2,0,18,6,11,4,2,7,9,20,WLWLDWWWWLLDW,1,1,4,5,12,DWWDWW,WDWWLW
-Parma,Milan,0-1,/match/parma-fc/milan/2020,2020,14,serie_a,20,38,2,0,1,8,5,3,5,20,17,LLLWWWWWDLDWD,4,0,3,12,8,14,4,2,7,12,17,WWLLWLLDWWLWD,2,0,4,5,7,LLWWWLW,WLWLWW
-Napoli,Bologna,1-2,/match/napoli/bologna/2020,2020,14,serie_a,20,38,2,1,2,6,5,5,3,22,16,LWWLLWDWDDWDD,3,2,1,8,4,15,3,4,6,18,22,DWLLDWDWWWLWD,1,2,4,9,13,WLWWDD,DLDWWWW
-Hellas Verona,Roma,1-3,/match/hellas-verona-fc/roma/2020,2020,14,serie_a,20,38,2,1,3,9,5,3,5,11,11,DLLWDDWWLLWWW,3,2,2,6,4,4,7,4,2,23,14,DDWLLLDDWLWWW,3,2,1,8,4,DLDWLWW,DLLDLW
-Cagliari,Sampdoria,4-3,/match/cagliari/sampdoria/2020,2020,14,serie_a,20,38,0,4,3,5,7,4,2,25,14,LLLWLDDWDWLWD,4,1,2,15,9,16,3,3,7,9,20,LWWWWLWDWDLDW,1,0,5,4,12,LLWDWWW,WWWWWL
-Inter,Roma,0-0,/match/internazionale/roma/2020,2020,15,serie_a,20,38,1,0,0,2,12,1,1,31,13,WLWLWLLLDLLWLW,5,1,1,13,6,5,8,4,2,26,15,DDWLLLDDWLWWWL,4,2,1,11,5,WWWLDWW,DLLDLWL
-Atalanta,Hellas Verona,3-2,/match/atalanta/hellas-verona-fc/2020,2020,15,serie_a,20,38,0,3,2,7,7,4,3,34,21,LLLDLLWDWDLDLL,2,1,3,15,12,9,5,3,6,12,14,DLLWDDWWLLWWWL,2,1,3,5,7,LDWWLL,LWDWLW
-Udinese,Napoli,1-1,/match/udinese/napoli/2020,2020,15,serie_a,20,38,1,1,1,15,4,2,8,9,23,WLWLDWWWWLLDWW,3,1,3,4,8,6,5,5,4,23,18,LWWLLWDWDDWDDL,2,3,2,14,12,WLLWWLD,LWLDDWD
-Lazio,Juventus,3-1,/match/lazio/juventus-fc/2020,2020,15,serie_a,20,38,0,3,1,3,9,3,2,33,14,LDWWWWDDLWLWLW,5,2,0,21,6,1,11,3,0,25,12,LWDWLWLWDWLWLD,5,2,0,10,4,DWWDWWW,LDLLDLL
-Lecce,Genoa,2-2,/match/lecce/genoa/2020,2020,15,serie_a,20,38,1,2,2,17,3,5,6,18,27,WLLLLLWDDDDWDL,0,3,3,6,11,18,2,4,8,15,28,DWLWDWLWWWLDDL,0,3,4,7,18,LLLDDD,DWWWWDD
-Sassuolo,Cagliari,2-2,/match/us-sassuolo-calcio/cagliari/2020,2020,15,serie_a,20,38,1,2,2,12,5,2,7,26,25,WWWWWLLLLLDWLD,3,0,4,16,14,4,8,4,2,29,17,LLLWLDDWDWLWDW,3,3,0,10,5,WWLLLWL,LLDDLD
-SPAL,Brescia,0-1,/match/spal-1907/brescia/2020,2020,15,serie_a,20,38,2,0,1,19,2,3,9,9,21,LWWWLWWWDWLDDW,2,2,3,8,10,20,2,1,11,10,28,LWLLLWLDWLWLWL,2,0,5,5,11,LWLWDLD,LWLWWWW
-Torino,Fiorentina,2-1,/match/torino-fc/fiorentina/2020,2020,15,serie_a,20,38,0,2,1,13,5,2,7,16,20,WLLWWWDWDWLLLL,2,2,3,6,9,11,4,4,6,18,21,LWDDWLWDLLDWWL,2,2,3,10,12,WLWDDLL,WDLDLWW
-Sampdoria,Parma,0-1,/match/sampdoria/parma-fc/2020,2020,15,serie_a,20,38,2,0,1,16,3,3,8,12,24,LWWWWLWDWDLDWW,2,3,2,5,8,8,5,3,6,20,18,LLLWWWWWDLDWDL,1,3,2,8,9,LWLDDDW,LWWDDD
-Bologna,Milan,2-3,/match/bologna/milan/2020,2020,15,serie_a,20,38,2,2,3,10,4,4,6,20,23,DWLLDWDWWWLWDL,2,2,2,9,9,14,5,2,7,13,17,WWLLWLLDWWLWDL,3,0,4,6,7,WLDWLD,WLWLWWL
-Brescia,Lecce,3-0,/match/brescia/lecce/2020,2020,16,serie_a,20,38,0,3,0,20,3,1,11,11,28,LWLLLWLDWLWLWLL,0,1,6,5,17,17,3,6,6,20,29,WLLLLLWDDDDWDLD,3,2,3,12,16,LLLDLLL,WLLWDDWL
-Napoli,Parma,1-2,/match/napoli/parma-fc/2020,2020,16,serie_a,20,38,2,1,2,7,5,6,4,24,19,LWWLLWDWDDWDDLD,3,2,2,9,6,8,6,3,6,21,18,LLLWWWWWDLDWDLL,2,3,2,9,9,WLWWDDL,LWWDDDL
-Genoa,Sampdoria,0-1,/match/genoa/sampdoria/2020,2020,16,serie_a,20,38,2,0,1,18,2,5,8,17,30,DWLWDWLWWWLDDLD,2,1,4,8,10,16,3,3,9,12,25,LWWWWLWDWDLDWWL,1,0,6,7,16,WLDLWLL,WWWWWLW
-Hellas Verona,Torino,3-3,/match/hellas-verona-fc/torino-fc/2020,2020,16,serie_a,20,38,1,3,3,10,5,3,7,14,17,DLLWDDWWLLWWWLW,3,2,3,7,7,9,6,2,7,18,21,WLLWWWDWDWLLLLW,3,0,4,10,11,DLDWLWWL,LWWWWLL
-Juventus,Udinese,3-1,/match/juventus-fc/udinese/2020,2020,16,serie_a,20,38,0,3,1,1,11,3,1,26,15,LWDWLWLWDWLWLDW,6,1,0,15,8,13,4,3,8,10,24,WLWLDWWWWLLDWWD,1,1,5,5,15,WWWWWWD,WDWWLWW
-Milan,Sassuolo,0-0,/match/milan/us-sassuolo-calcio/2020,2020,16,serie_a,20,38,1,0,0,11,6,2,7,16,19,WWLLWLLDWWLWDLL,2,2,3,7,10,12,5,3,7,28,27,WWWWWLLLLLDWLDD,2,2,3,10,11,WLLDWLD,WWWLLDD
-Bologna,Atalanta,2-1,/match/bologna/atalanta/2020,2020,16,serie_a,20,38,0,2,1,15,4,4,7,22,26,DWLLDWDWWWLWDLL,2,2,3,11,12,6,8,4,3,37,23,LLLDLLWDWDLDLLW,5,3,0,19,9,WLDWLDL,LLLLDDDL
-Roma,SPAL,3-1,/match/roma/spal-1907/2020,2020,16,serie_a,20,38,0,3,1,5,8,5,2,26,15,DDWLLLDDWLWWWLD,4,2,1,15,10,19,2,3,10,9,22,LWWWLWWWDWLDDWL,0,1,6,1,11,DWLDWWW,WWWWWDW
-Fiorentina,Inter,1-1,/match/fiorentina/internazionale/2020,2020,16,serie_a,20,38,1,1,1,14,4,4,7,19,23,LWDDWLWDLLDWWLW,2,2,3,8,9,2,12,2,1,31,13,WLWLWLLLDLLWLWD,7,0,0,18,7,LDWWLDL,LLLLLLL
-Cagliari,Lazio,1-2,/match/cagliari/lazio/2020,2020,16,serie_a,20,38,2,1,2,4,8,5,2,31,19,LLLWLDDWDWLWDWD,5,1,2,19,12,3,10,3,2,36,15,LDWWWWDDLWLWLWW,4,1,2,12,8,LLWDWWWW,LWWDLLL
-Sampdoria,Juventus,1-2,/match/sampdoria/juventus-fc/2020,2020,17,serie_a,20,38,2,1,2,16,4,3,9,13,25,LWWWWLWDWDLDWWLL,2,3,3,5,9,1,12,3,1,29,16,LWDWLWLWDWLWLDWW,5,2,1,11,7,LWLDDDWL,LDLLDLLW
-Fiorentina,Roma,1-4,/match/fiorentina/roma/2020,2020,17,serie_a,20,38,2,1,4,14,4,5,7,20,24,LWDDWLWDLLDWWLWD,2,3,3,9,10,4,9,5,2,29,16,DDWLLLDDWLWWWLDW,4,3,1,11,5,LDWWLDLD,DLLDLWLD
-Udinese,Cagliari,2-1,/match/udinese/cagliari/2020,2020,17,serie_a,20,38,0,2,1,15,4,3,9,11,27,WLWLDWWWWLLDWWDW,3,2,3,5,9,5,8,5,3,32,21,LLLWLDDWDWLWDWDL,3,4,0,12,7,WLLWWLDD,LLDDLDD
-Inter,Genoa,4-0,/match/internazionale/genoa/2020,2020,17,serie_a,20,38,0,4,0,3,12,3,1,32,14,WLWLWLLLDLLWLWDD,5,2,1,13,6,18,2,5,9,17,31,DWLWDWLWWWLDDLDL,0,4,4,9,20,WWWLDWWD,DWWWWDDD
-Torino,SPAL,1-2,/match/torino-fc/spal-1907/2020,2020,17,serie_a,20,38,2,1,2,9,6,3,7,21,24,WLLWWWDWDWLLLLWD,3,2,3,8,10,19,2,3,11,10,25,LWWWLWWWDWLDDWLW,0,1,7,2,14,WLWDDLLW,WWWWWDWW
-Atalanta,Milan,5-0,/match/atalanta/milan/2020,2020,17,serie_a,20,38,0,5,0,6,8,4,4,38,25,LLLDLLWDWDLDLLWW,3,1,3,18,14,12,6,3,7,16,19,WWLLWLLDWWLWDLLD,4,0,4,9,9,LDWWLLW,WLWLWWLL
-Lecce,Bologna,2-3,/match/lecce/bologna/2020,2020,17,serie_a,20,38,2,2,3,17,3,6,7,20,32,WLLLLLWDDDDWDLDW,0,4,3,8,13,11,5,4,7,24,27,DWLLDWDWWWLWDLLW,2,2,4,11,14,LLLDDDD,DLDWWWWL
-Parma,Brescia,1-1,/match/parma-fc/brescia/2020,2020,17,serie_a,20,38,1,1,1,7,7,3,6,23,19,LLLWWWWWDLDWDLLL,4,0,4,12,9,20,4,1,11,14,28,LWLLLWLDWLWLWLLW,3,0,5,6,11,LLWWWLWL,LWLWWWWL
-Sassuolo,Napoli,1-2,/match/us-sassuolo-calcio/napoli/2020,2020,17,serie_a,20,38,2,1,2,13,5,4,7,28,27,WWWWWLLLLLDWLDDD,3,1,4,18,16,8,5,6,5,25,21,LWWLLWDWDDWDDLDL,2,4,2,15,13,WWLLLWLD,LWLDDWDD
-Lazio,Hellas Verona,0-0,/match/lazio/hellas-verona-fc/2020,2020,17,serie_a,20,38,1,0,0,2,11,3,2,38,16,LDWWWWDDLWLWLWWL,6,2,0,24,7,10,5,4,7,17,20,DLLWDDWWLLWWWLWD,2,1,4,7,10,DWWDWWWW,LWDWLWW
-Brescia,Lazio,1-2,/match/brescia/lazio/2020,2020,18,serie_a,20,38,2,1,2,20,4,2,11,15,29,LWLLLWLDWLWLWLLWD,1,1,6,8,17,3,11,4,2,38,16,LDWWWWDDLWLWLWWLD,5,1,2,14,9,LLLDLLLW,LWWDLLLL
-SPAL,Hellas Verona,0-2,/match/spal-1907/hellas-verona-fc/2020,2020,18,serie_a,20,38,2,0,2,18,3,3,11,12,26,LWWWLWWWDWLDDWLWL,2,2,4,8,11,9,5,5,7,17,20,DLLWDDWWLLWWWLWDD,2,2,4,7,10,LWLWDLDL,LWDWLWWD
-Genoa,Sassuolo,2-1,/match/genoa/us-sassuolo-calcio/2020,2020,18,serie_a,20,38,0,2,1,19,2,5,10,17,35,DWLWDWLWWWLDDLDLW,2,1,5,8,11,14,5,4,8,29,29,WWWWWLLLLLDWLDDDL,2,3,3,10,11,WLDLWLLL,WWWLLDDD
-Roma,Torino,0-2,/match/roma/torino-fc/2020,2020,18,serie_a,20,38,2,0,2,4,10,5,2,33,17,DDWLLLDDWLWWWLDWL,5,2,1,18,11,11,6,3,8,22,26,WLLWWWDWDWLLLLWDL,3,1,4,13,14,DWLDWWWW,LWWWWLLD
-Bologna,Fiorentina,1-1,/match/bologna/fiorentina/2020,2020,18,serie_a,20,38,1,1,1,10,6,4,7,27,29,DWLLDWDWWWLWDLLWL,3,2,3,13,13,15,4,5,8,21,28,LWDDWLWDLLDWWLWDL,2,2,4,11,14,WLDWLDLW,WDLDLWWW
-Atalanta,Parma,5-0,/match/atalanta/parma-fc/2020,2020,18,serie_a,20,38,0,5,0,6,9,4,4,43,25,LLLDLLWDWDLDLLWWW,4,1,3,23,14,7,7,4,6,24,20,LLLWWWWWDLDWDLLLD,3,3,2,11,10,LDWWLLWW,LWWDDDLL
-Juventus,Cagliari,4-0,/match/juventus-fc/cagliari/2020,2020,18,serie_a,20,38,0,4,0,1,13,3,1,31,17,LWDWLWLWDWLWLDWWL,7,1,0,18,9,5,8,5,4,33,23,LLLWLDDWDWLWDWDLW,3,4,1,13,9,WWWWWWDW,LLDDLDDW
-Milan,Sampdoria,0-0,/match/milan/sampdoria/2020,2020,18,serie_a,20,38,1,0,0,13,6,3,8,16,24,WWLLWLLDWWLWDLLDW,2,3,3,7,10,16,4,3,10,14,27,LWWWWLWDWDLDWWLLL,2,0,6,8,16,WLLDWLDD,WWWWWLWL
-Lecce,Udinese,0-1,/match/lecce/udinese/2020,2020,18,serie_a,20,38,2,0,1,17,3,6,8,22,35,WLLLLLWDDDDWDLDWL,0,4,4,10,16,12,5,3,9,13,28,WLWLDWWWWLLDWWDWW,1,1,6,6,18,LLLDDDDL,WDWWLWWW
-Napoli,Inter,1-3,/match/napoli/internazionale/2020,2020,18,serie_a,20,38,2,1,3,8,6,6,5,27,22,LWWLLWDWDDWDDLDLL,3,2,3,10,8,2,13,3,1,36,14,WLWLWLLLDLLWLWDDW,7,1,0,19,8,WLWWDDLL,LLLLLLLD
-Cagliari,Milan,0-2,/match/cagliari/milan/2020,2020,19,serie_a,20,38,2,0,2,6,8,5,5,33,27,LLLWLDDWDWLWDWDLWW,5,1,3,20,14,13,6,4,8,16,24,WWLLWLLDWWLWDLLDWD,4,0,5,9,14,LLWDWWWWL,WLWLWWLLW
-Lazio,Napoli,1-0,/match/lazio/napoli/2020,2020,19,serie_a,20,38,0,1,0,3,12,4,2,40,17,LDWWWWDDLWLWLWWLDL,6,3,0,24,7,8,6,6,6,28,25,LWWLLWDWDDWDDLDLLL,3,4,2,17,14,DWWDWWWWD,LWLDDWDDL
-Inter,Atalanta,1-1,/match/internazionale/atalanta/2020,2020,19,serie_a,20,38,1,1,1,2,14,3,1,39,15,WLWLWLLLDLLWLWDDWL,6,2,1,17,6,5,10,4,4,48,25,LLLDLLWDWDLDLLWWWW,5,3,1,20,11,WWWLDWWDW,LLLLDDDLW
-Udinese,Sassuolo,3-0,/match/udinese/us-sassuolo-calcio/2020,2020,19,serie_a,20,38,0,3,0,11,6,3,9,14,28,WLWLDWWWWLLDWWDWWL,4,2,3,7,10,14,5,4,9,30,31,WWWWWLLLLLDWLDDDLW,2,3,4,11,13,WLLWWLDDW,WWWLLDDDW
-Fiorentina,SPAL,1-0,/match/fiorentina/spal-1907/2020,2020,19,serie_a,20,38,0,1,0,15,4,6,8,22,29,LWDDWLWDLLDWWLWDLD,2,3,4,10,14,19,3,3,12,12,28,LWWWLWWWDWLDDWLWLL,1,1,7,4,15,LDWWLDLDL,WWWWWDWWL
-Sampdoria,Brescia,5-1,/match/sampdoria/brescia/2020,2020,19,serie_a,20,38,0,5,1,16,4,4,10,14,27,LWWWWLWDWDLDWWLLLD,2,3,4,6,11,20,4,2,12,16,31,LWLLLWLDWLWLWLLWDL,3,1,5,7,12,LWLDDDWLL,LWLWWWWLD
-Torino,Bologna,1-0,/match/torino-fc/bologna/2020,2020,19,serie_a,20,38,0,1,0,12,7,3,8,24,26,WLLWWWDWDWLLLLWDLL,3,2,4,9,12,10,6,5,7,28,30,DWLLDWDWWWLWDLLWLD,3,2,4,14,16,WLWDDLLWL,DLDWWWWLL
-Hellas Verona,Genoa,2-1,/match/hellas-verona-fc/genoa/2020,2020,19,serie_a,20,38,0,2,1,9,6,5,7,19,20,DLLWDDWWLLWWWLWDDL,3,3,3,10,10,17,3,5,10,19,36,DWLWDWLWWWLDDLDLWW,0,4,5,9,24,DLDWLWWLD,DWWWWDDDW
-Roma,Juventus,1-2,/match/roma/juventus-fc/2020,2020,19,serie_a,20,38,2,1,2,4,10,5,3,33,19,DDWLLLDDWLWWWLDWLL,5,2,2,18,13,1,14,3,1,35,17,LWDWLWLWDWLWLDWWLW,6,2,1,13,8,DWLDWWWWL,LDLLDLLWL
-Parma,Lecce,2-0,/match/parma-fc/lecce/2020,2020,19,serie_a,20,38,0,2,0,7,7,4,7,24,25,LLLWWWWWDLDWDLLLDW,4,1,4,13,10,18,3,6,9,22,36,WLLLLLWDDDDWDLDWLL,3,2,4,12,19,LLWWWLWLD,WLLWDDWLW
-Lazio,Sampdoria,5-1,/match/lazio/sampdoria/2020,2020,20,serie_a,20,38,0,5,1,3,13,4,2,41,17,LDWWWWDDLWLWLWWLDLW,7,3,0,25,7,15,5,4,10,19,28,LWWWWLWDWDLDWWLLLDW,2,1,6,8,16,DWWDWWWWDW,WWWWWLWLD
-Sassuolo,Torino,2-1,/match/us-sassuolo-calcio/torino-fc/2020,2020,20,serie_a,20,38,0,2,1,16,5,4,10,30,34,WWWWWLLLLLDWLDDDLWW,3,1,5,19,18,9,8,3,8,25,26,WLLWWWDWDWLLLLWDLLW,4,1,4,15,14,WWLLLWLDL,LWWWWLLDL
-Napoli,Fiorentina,0-2,/match/napoli/fiorentina/2020,2020,20,serie_a,20,38,2,0,2,12,6,6,7,28,26,LWWLLWDWDDWDDLDLLLW,3,2,4,11,11,14,5,6,8,23,29,LWDDWLWDLLDWWLWDLDW,2,3,4,12,15,WLWWDDLLL,WDLDLWWWD
-Milan,Udinese,3-2,/match/milan/udinese/2020,2020,20,serie_a,20,38,0,3,2,13,7,4,8,18,24,WWLLWLLDWWLWDLLDWDL,2,4,3,7,10,10,7,3,9,17,28,WLWLDWWWWLLDWWDWWLW,2,1,6,7,18,WLLDWLDDD,WDWWLWWWL
-Brescia,Cagliari,2-2,/match/brescia/cagliari/2020,2020,20,serie_a,20,38,1,2,2,20,4,2,13,17,36,LWLLLWLDWLWLWLLWDLW,1,1,7,9,19,6,8,5,6,33,29,LLLWLDDWDWLWDWDLWWL,3,4,2,13,13,LLLDLLLWL,LLDDLDDWW
-Bologna,Hellas Verona,1-1,/match/bologna/hellas-verona-fc/2020,2020,20,serie_a,20,38,1,1,1,11,6,5,8,28,31,DWLLDWDWWWLWDLLWLDW,3,3,3,14,14,8,7,5,7,21,21,DLLWDDWWLLWWWLWDDLW,3,2,4,9,10,WLDWLDLWD,LWDWLWWDL
-Lecce,Inter,1-1,/match/lecce/internazionale/2020,2020,20,serie_a,20,38,1,1,1,18,3,6,10,22,38,WLLLLLWDDDDWDLDWLLW,0,4,5,10,17,2,14,4,1,40,16,WLWLWLLLDLLWLWDDWLD,8,1,0,22,9,LLLDDDDLL,LLLLLLLDL
-Genoa,Roma,1-3,/match/genoa/roma/2020,2020,20,serie_a,20,38,2,1,3,17,3,5,11,20,38,DWLWDWLWWWLDDLDLWWW,3,1,5,10,12,4,10,5,4,34,21,DDWLLLDDWLWWWLDWLLL,5,3,1,15,6,WLDLWLLLW,DLLDLWLDL
-Juventus,Parma,2-1,/match/juventus-fc/parma-fc/2020,2020,20,serie_a,20,38,0,2,1,1,15,3,1,37,18,LWDWLWLWDWLWLDWWLWL,8,1,0,22,9,7,8,4,7,26,25,LLLWWWWWDLDWDLLLDWW,3,3,3,11,15,WWWWWWDWW,LWWDDDLLW
-Atalanta,SPAL,1-2,/match/atalanta/spal-1907/2020,2020,20,serie_a,20,38,2,1,2,5,10,5,4,49,26,LLLDLLWDWDLDLLWWWWD,5,1,3,28,14,19,3,3,13,12,29,LWWWLWWWDWLDDWLWLLW,1,1,8,4,16,LDWWLLWWW,WWWWWDWWLW
-Brescia,Milan,0-1,/match/brescia/milan/2020,2020,21,serie_a,20,38,2,0,1,20,4,3,13,19,38,LWLLLWLDWLWLWLLWDLWD,1,2,7,11,21,9,8,4,8,21,26,WWLLWLLDWWLWDLLDWDLW,5,0,5,11,14,LLLDLLLWLD,WLWLWWLLWL
-SPAL,Bologna,1-3,/match/spal-1907/bologna/2020,2020,21,serie_a,20,38,2,1,3,19,4,3,13,14,30,LWWWLWWWDWLDDWLWLLWL,2,2,5,8,13,12,6,6,8,29,32,DWLLDWDWWWLWDLLWLDWD,3,2,5,14,17,LWLWDLDLL,DLDWWWWLLW
-Fiorentina,Genoa,0-0,/match/fiorentina/genoa/2020,2020,21,serie_a,20,38,1,0,0,13,6,6,8,25,29,LWDDWLWDLLDWWLWDLDWL,3,3,4,11,14,17,3,5,12,21,41,DWLWDWLWWWLDDLDLWWWL,0,4,6,10,26,LDWWLDLDLW,DWWWWDDDWW
-Torino,Atalanta,0-7,/match/torino-fc/atalanta/2020,2020,21,serie_a,20,38,2,0,7,10,8,3,9,26,28,WLLWWWDWDWLLLLWDLLWW,4,2,4,10,12,5,10,5,5,50,28,LLLDLLWDWDLDLLWWWWDL,5,4,1,21,12,WLWDDLLWLW,LLLLDDDLWD
-Inter,Cagliari,1-1,/match/internazionale/cagliari/2020,2020,21,serie_a,20,38,1,1,1,3,14,5,1,41,17,WLWLWLLLDLLWLWDDWLDD,6,3,1,18,7,6,8,6,6,35,31,LLLWLDDWDWLWDWDLWWLD,3,5,2,15,15,WWWLDWWDWD,LLDDLDDWWD
-Hellas Verona,Lecce,3-0,/match/hellas-verona-fc/lecce/2020,2020,21,serie_a,20,38,0,3,0,8,7,6,7,22,22,DLLWDDWWLLWWWLWDDLWD,4,3,3,12,11,18,3,7,10,23,39,WLLLLLWDDDDWDLDWLLWD,3,2,5,12,21,DLDWLWWLDW,WLLWDDWLWW
-Sampdoria,Sassuolo,0-0,/match/sampdoria/us-sassuolo-calcio/2020,2020,21,serie_a,20,38,1,0,0,16,5,4,11,20,33,LWWWWLWDWDLDWWLLLDWW,3,3,4,11,12,15,6,4,10,32,35,WWWWWLLLLLDWLDDDLWWW,2,3,5,11,16,LWLDDDWLLW,WWWLLDDDWW
-Parma,Udinese,2-0,/match/parma-fc/udinese/2020,2020,21,serie_a,20,38,0,2,0,7,8,4,8,27,27,LLLWWWWWDLDWDLLLDWWW,5,1,4,15,10,11,7,3,10,19,31,WLWLDWWWWLLDWWDWWLWW,2,1,7,9,21,LLWWWLWLDW,WDWWLWWWLW
-Roma,Lazio,1-1,/match/roma/lazio/2020,2020,21,serie_a,20,38,1,1,1,4,11,5,4,37,22,DDWLLLDDWLWWWLDWLLLL,5,2,3,19,15,2,14,4,2,46,18,LDWWWWDDLWLWLWWLDLWW,6,1,2,16,10,DWLDWWWWLL,LWWDLLLLL
-Napoli,Juventus,2-1,/match/napoli/juventus-fc/2020,2020,21,serie_a,20,38,0,2,1,14,6,6,8,28,28,LWWLLWDWDDWDDLDLLLWL,3,2,5,11,13,1,16,3,1,39,19,LWDWLWLWDWLWLDWWLWLW,7,2,1,15,9,WLWWDDLLLL,LDLLDLLWLL
-Bologna,Brescia,2-1,/match/bologna/brescia/2020,2020,22,serie_a,20,38,0,2,1,11,7,6,8,32,33,DWLLDWDWWWLWDLLWLDWDL,3,4,3,15,15,20,4,3,14,19,39,LWLLLWLDWLWLWLLWDLWDL,3,1,6,8,17,WLDWLDLWDD,LWLWWWWLDW
-Cagliari,Parma,2-2,/match/cagliari/parma-fc/2020,2020,22,serie_a,20,38,1,2,2,8,8,7,6,36,32,LLLWLDDWDWLWDWDLWWLDD,5,1,4,20,16,6,9,4,8,29,27,LLLWWWWWDLDWDLLLDWWWW,3,3,4,12,17,LLWDWWWWLL,LWWDDDLLWW
-Sassuolo,Roma,4-2,/match/us-sassuolo-calcio/roma/2020,2020,22,serie_a,20,38,0,4,2,15,6,5,10,32,35,WWWWWLLLLLDWLDDDLWWWD,4,1,5,21,19,4,11,6,4,38,23,DDWLLLDDWLWWWLDWLLLLD,6,3,1,18,7,WWLLLWLDLW,DLLDLWLDLL
-Juventus,Fiorentina,3-0,/match/juventus-fc/fiorentina/2020,2020,22,serie_a,20,38,0,3,0,1,16,3,2,40,21,LWDWLWLWDWLWLDWWLWLWW,9,1,0,24,10,12,6,7,8,25,29,LWDDWLWDLLDWWLWDLDWLD,3,3,4,14,15,WWWWWWDWWW,WDLDLWWWDL
-Milan,Hellas Verona,1-1,/match/milan/hellas-verona-fc/2020,2020,22,serie_a,20,38,1,1,1,9,9,4,8,22,26,WWLLWLLDWWLWDLLDWDLWL,3,4,3,10,12,7,8,6,7,25,22,DLLWDDWWLLWWWLWDDLWDW,3,3,4,10,11,WLLDWLDDDW,LWDWLWWDLD
-Lazio,SPAL,5-1,/match/lazio/spal-1907/2020,2020,22,serie_a,20,38,0,5,1,2,14,5,2,47,19,LDWWWWDDLWLWLWWLDLWWD,8,3,0,30,8,19,4,3,14,15,33,LWWWLWWWDWLDDWLWLLWLL,2,1,8,6,17,DWWDWWWWDWW,WWWWWDWWLWL
-Atalanta,Genoa,2-2,/match/atalanta/genoa/2020,2020,22,serie_a,20,38,1,2,2,5,11,5,5,57,28,LLLDLLWDWDLDLLWWWWDLL,5,1,4,29,16,17,3,6,12,21,41,DWLWDWLWWWLDDLDLWWWLD,0,5,6,10,26,LDWWLLWWWL,DWWWWDDDWWD
-Lecce,Torino,4-0,/match/lecce/torino-fc/2020,2020,22,serie_a,20,38,0,4,0,18,3,7,11,23,42,WLLLLLWDDDDWDLDWLLWDW,0,5,5,11,18,14,8,3,10,26,35,WLLWWWDWDWLLLLWDLLWWL,4,1,5,16,16,LLLDDDDLLD,LWWWWLLDLW
-Udinese,Inter,0-2,/match/udinese/internazionale/2020,2020,22,serie_a,20,38,2,0,2,13,7,3,11,19,33,WLWLDWWWWLLDWWDWWLWWW,5,2,3,10,10,3,14,6,1,42,18,WLWLWLLLDLLWLWDDWLDDD,8,2,0,23,10,WLLWWLDDWW,LLLLLLLDLD
-Sampdoria,Napoli,2-4,/match/sampdoria/napoli/2020,2020,22,serie_a,20,38,2,2,4,16,5,5,11,20,33,LWWWWLWDWDLDWWLLLDWWD,3,4,4,11,12,10,7,6,8,30,29,LWWLLWDWDDWDDLDLLLWLW,3,4,3,17,15,LWLDDDWLLWD,LWLDDWDDLW
-Roma,Bologna,2-3,/match/roma/bologna/2020,2020,23,serie_a,20,38,2,2,3,4,11,6,5,40,27,DDWLLLDDWLWWWLDWLLLLDW,5,3,3,20,16,9,8,6,8,34,34,DWLLDWDWWWLWDLLWLDWDLW,4,2,5,17,18,DWLDWWWWLLD,DLDWWWWLLWL
-Fiorentina,Atalanta,1-2,/match/fiorentina/atalanta/2020,2020,23,serie_a,20,38,2,1,2,13,6,7,9,25,32,LWDDWLWDLLDWWLWDLDWLDW,3,4,4,11,14,5,11,6,5,59,30,LLLDLLWDWDLDLLWWWWDLLD,6,4,1,28,12,LDWWLDLDLWD,LLLLDDDLWDL
-Torino,Sampdoria,1-3,/match/torino-fc/sampdoria/2020,2020,23,serie_a,20,38,2,1,3,15,8,3,11,26,39,WLLWWWDWDWLLLLWDLLWWLW,4,2,5,10,19,16,5,5,12,22,37,LWWWWLWDWDLDWWLLLDWWDL,2,1,7,9,21,WLWDDLLWLWL,WWWWWLWLDW
-Hellas Verona,Juventus,2-1,/match/hellas-verona-fc/juventus-fc/2020,2020,23,serie_a,20,38,0,2,1,7,8,7,7,26,23,DLLWDDWWLLWWWLWDDLWDWD,5,3,3,15,11,1,17,3,2,43,21,LWDWLWLWDWLWLDWWLWLWWW,7,2,2,16,11,DLDWLWWLDWW,LDLLDLLWLLW
-SPAL,Sassuolo,1-2,/match/spal-1907/us-sassuolo-calcio/2020,2020,23,serie_a,20,38,2,1,2,19,4,3,15,16,38,LWWWLWWWDWLDDWLWLLWLLW,2,2,6,9,16,12,7,5,10,36,37,WWWWWLLLLLDWLDDDLWWWDW,2,4,5,11,16,LWLWDLDLLL,WWWLLDDDWWD
-Genoa,Cagliari,1-0,/match/genoa/cagliari/2020,2020,23,serie_a,20,38,0,1,0,18,3,7,12,23,43,DWLWDWLWWWLDDLDLWWWLDD,3,1,6,11,15,8,8,8,6,38,34,LLLWLDDWDWLWDWDLWWLDDD,3,6,2,16,16,WLDLWLLLWL,LLDDLDDWWDD
-Brescia,Udinese,1-1,/match/brescia/udinese/2020,2020,23,serie_a,20,38,1,1,1,20,4,3,15,20,41,LWLLLWLDWLWLWLLWDLWDLW,1,2,8,11,22,14,7,3,12,19,35,WLWLDWWWWLLDWWDWWLWWWL,2,1,8,9,23,LLLDLLLWLDL,WDWWLWWWLWW
-Napoli,Lecce,2-3,/match/napoli/lecce/2020,2020,23,serie_a,20,38,2,2,3,11,8,6,8,34,31,LWWLLWDWDDWDDLDLLLWLWL,4,2,5,13,14,17,4,7,11,27,42,WLLLLLWDDDDWDLDWLLWDWW,3,2,6,12,24,WLWWDDLLLLW,WLLWDDWLWWW
-Parma,Lazio,0-1,/match/parma-fc/lazio/2020,2020,23,serie_a,20,38,2,0,1,6,9,5,8,31,29,LLLWWWWWDLDWDLLLDWWWWD,6,1,4,17,10,2,15,5,2,52,20,LDWWWWDDLWLWLWWLDLWWDW,6,2,2,17,11,LLWWWLWLDWW,LWWDLLLLLD
-Inter,Milan,4-2,/match/internazionale/milan/2020,2020,23,serie_a,20,38,0,4,2,3,15,6,1,44,18,WLWLWLLLDLLWLWDDWLDDDL,6,4,1,19,8,10,9,5,8,23,27,WWLLWLLDWWLWDLLDWDLWLD,6,0,5,12,14,WWWLDWWDWDD,WLWLWWLLWLL
-Lecce,SPAL,2-1,/match/lecce/spal-1907/2020,2020,24,serie_a,20,38,0,2,1,17,5,7,11,30,44,WLLLLLWDDDDWDLDWLLWDWWL,1,5,5,15,18,19,4,3,16,17,40,LWWWLWWWDWLDDWLWLLWLLWL,2,1,9,7,22,LLLDDDDLLDW,WWWWWDWWLWLW
-Bologna,Genoa,0-3,/match/bologna/genoa/2020,2020,24,serie_a,20,38,2,0,3,9,9,6,8,37,36,DWLLDWDWWWLWDLLWLDWDLWL,4,4,3,17,16,18,4,7,12,24,43,DWLWDWLWWWLDDLDLWWWLDDW,0,6,6,12,28,WLDWLDLWDDW,DWWWWDDDWWDD
-Atalanta,Roma,2-1,/match/atalanta/roma/2020,2020,24,serie_a,20,38,0,2,1,4,12,6,5,61,31,LLLDLLWDWDLDLLWWWWDLLDL,5,2,4,31,18,5,11,6,6,42,30,DDWLLLDDWLWWWLDWLLLLDWL,6,3,2,20,11,LDWWLLWWWLD,DLLDLWLDLLW
-Udinese,Hellas Verona,0-0,/match/udinese/hellas-verona-fc/2020,2020,24,serie_a,20,38,1,0,0,13,7,4,12,20,36,WLWLDWWWWLLDWWDWWLWWWLD,5,2,4,10,12,6,9,7,7,28,24,DLLWDDWWLLWWWLWDDLWDWDW,3,4,4,11,12,WLLWWLDDWWL,LWDWLWWDLDD
-Juventus,Brescia,2-0,/match/juventus-fc/brescia/2020,2020,24,serie_a,20,38,0,2,0,1,17,3,3,44,23,LWDWLWLWDWLWLDWWLWLWWWW,10,1,0,27,10,20,4,4,15,21,42,LWLLLWLDWLWLWLLWDLWDLWD,3,1,7,9,19,WWWWWWDWWWW,LWLWWWWLDWW
-Sassuolo,Parma,0-1,/match/us-sassuolo-calcio/parma-fc/2020,2020,24,serie_a,20,38,2,0,1,11,8,5,10,38,38,WWWWWLLLLLDWLDDDLWWWDWL,5,1,5,25,21,7,9,5,9,31,30,LLLWWWWWDLDWDLLLDWWWWDL,3,4,4,14,19,WWLLLWLDLWW,LWWDDDLLWWD
-Sampdoria,Fiorentina,1-5,/match/sampdoria/fiorentina/2020,2020,24,serie_a,20,38,2,1,5,16,6,5,12,25,38,LWWWWLWDWDLDWWLLLDWWDLL,3,4,5,13,16,14,6,7,10,26,34,LWDDWLWDLLDWWLWDLDWLDWL,3,3,5,14,18,LWLDDDWLLWDL,WDLDLWWWDLW
-Cagliari,Napoli,0-1,/match/cagliari/napoli/2020,2020,24,serie_a,20,38,2,0,1,8,8,8,7,38,35,LLLWLDDWDWLWDWDLWWLDDDW,5,2,4,22,18,12,8,6,9,36,34,LWWLLWDWDDWDDLDLLLWLWLL,4,4,3,21,17,LLWDWWWWLLD,LWLDDWDDLWL
-Lazio,Inter,2-1,/match/lazio/internazionale/2020,2020,24,serie_a,20,38,0,2,1,2,16,5,2,53,20,LDWWWWDDLWLWLWWLDLWWDWL,9,3,0,35,9,3,16,6,1,48,20,WLWLWLLLDLLWLWDDWLDDDLW,9,2,0,25,10,DWWDWWWWDWWW,LLLLLLLDLDL
-Milan,Torino,1-0,/match/milan/torino-fc/2020,2020,24,serie_a,20,38,0,1,0,10,9,5,9,25,31,WWLLWLLDWWLWDLLDWDLWLDW,3,5,3,11,13,15,8,3,12,27,42,WLLWWWDWDWLLLLWDLLWWLWL,4,1,6,16,20,WLLDWLDDDWD,LWWWWLLDLWW
-Brescia,Napoli,1-2,/match/brescia/napoli/2020,2020,25,serie_a,20,38,2,1,2,20,4,4,16,21,44,LWLLLWLDWLWLWLLWDLWDLWDW,1,3,8,12,23,11,9,6,9,37,34,LWWLLWDWDDWDDLDLLLWLWLLL,5,4,3,22,17,LLLDLLLWLDLD,LWLDDWDDLWLL
-Bologna,Udinese,1-1,/match/bologna/udinese/2020,2020,25,serie_a,20,38,1,1,1,10,9,6,9,37,39,DWLLDWDWWWLWDLLWLDWDLWLL,4,4,4,17,19,12,7,5,12,20,36,WLWLDWWWWLLDWWDWWLWWWLDD,2,2,8,10,24,WLDWLDLWDDWL,WDWWLWWWLWWD
-SPAL,Juventus,1-2,/match/spal-1907/juventus-fc/2020,2020,25,serie_a,20,38,2,1,2,19,4,3,17,18,42,LWWWLWWWDWLDDWLWLLWLLWLW,2,2,7,10,18,1,18,3,3,46,23,LWDWLWLWDWLWLDWWLWLWWWWW,7,2,3,17,13,LWLWDLDLLLL,LDLLDLLWLLWW
-Fiorentina,Milan,1-1,/match/fiorentina/milan/2020,2020,25,serie_a,20,38,1,1,1,14,7,7,10,31,35,LWDDWLWDLLDWWLWDLDWLDWLL,3,4,5,12,16,8,10,5,9,26,31,WWLLWLLDWWLWDLLDWDLWLDWW,6,0,6,14,18,LDWWLDLDLWDL,WLWLWWLLWLLW
-Genoa,Lazio,2-3,/match/genoa/lazio/2020,2020,25,serie_a,20,38,2,2,3,18,5,7,12,27,43,DWLWDWLWWWLDDLDLWWWLDDWL,4,1,6,12,15,2,17,5,2,55,21,LDWWWWDDLWLWLWWLDLWWDWLW,7,2,2,18,11,WLDLWLLLWLW,LWWDLLLLLDL
-Roma,Lecce,4-0,/match/roma/lecce/2020,2020,25,serie_a,20,38,0,4,0,5,11,6,7,43,32,DDWLLLDDWLWWWLDWLLLLDWLW,5,3,4,22,19,16,6,7,11,32,45,WLLLLLWDDDDWDLDWLLWDWWLW,4,2,6,15,26,DWLDWWWWLLDL,WLLWDDWLWWWL
-Torino,Parma,1-1,/match/torino-fc/parma-fc/2020,2020,25,serie_a,20,38,1,1,1,15,8,3,13,27,43,WLLWWWDWDWLLLLWDLLWWLWLW,4,2,6,11,22,7,10,5,9,32,30,LLLWWWWWDLDWDLLLDWWWWDLL,4,4,4,15,19,WLWDDLLWLWLL,LWWDDDLLWWDL
-Hellas Verona,Cagliari,2-1,/match/hellas-verona-fc/cagliari/2020,2020,25,serie_a,20,38,0,2,1,6,9,8,7,28,24,DLLWDDWWLLWWWLWDDLWDWDWD,6,3,3,17,12,9,8,8,8,38,36,LLLWLDDWDWLWDWDLWWLDDDWL,3,6,3,16,17,DLDWLWWLDWWW,LLDDLDDWWDDW
-Atalanta,Sassuolo,4-1,/match/atalanta/us-sassuolo-calcio/2020,2020,25,serie_a,20,38,0,4,1,4,13,6,5,63,32,LLLDLLWDWDLDLLWWWWDLLDLW,6,2,4,33,19,13,8,5,11,38,39,WWWWWLLLLLDWLDDDLWWWDWLL,3,4,5,13,17,LDWWLLWWWLDW,WWWLLDDDWWDL
-Inter,Sampdoria,2-1,/match/internazionale/sampdoria/2020,2020,25,serie_a,20,38,0,2,1,3,16,6,2,49,22,WLWLWLLLDLLWLWDDWLDDDLWW,7,4,1,23,10,17,6,5,13,26,43,LWWWWLWDWDLDWWLLLDWWDLLL,3,1,7,12,22,WWWLDWWDWDDW,WWWWWLWLDWL
-Lazio,Bologna,2-0,/match/lazio/bologna/2020,2020,26,serie_a,20,38,0,2,0,2,18,5,2,58,23,LDWWWWDDLWLWLWWLDLWWDWLWL,10,3,0,37,10,9,9,7,9,38,40,DWLLDWDWWWLWDLLWLDWDLWLLD,5,2,5,20,20,DWWDWWWWDWWWW,DLDWWWWLLWLL
-Napoli,Torino,2-1,/match/napoli/torino-fc/2020,2020,26,serie_a,20,38,0,2,1,10,10,6,9,39,35,LWWLLWDWDDWDDLDLLLWLWLLLL,4,2,6,15,17,15,8,4,13,28,44,WLLWWWDWDWLLLLWDLLWWLWLWD,4,1,7,16,21,WLWWDDLLLLWL,LWWWWLLDLWWW
-Lecce,Atalanta,2-7,/match/lecce/atalanta/2020,2020,26,serie_a,20,38,2,2,7,16,6,7,12,32,49,WLLLLLWDDDDWDLDWLLWDWWLWW,2,5,5,17,19,4,14,6,5,67,33,LLLDLLWDWDLDLLWWWWDLLDLWW,7,4,1,30,13,LLLDDDDLLDWW,LLLLDDDLWDLL
-Cagliari,Roma,3-4,/match/cagliari/roma/2020,2020,26,serie_a,20,38,2,3,4,11,8,8,9,39,38,LLLWLDDWDWLWDWDLWWLDDDWLW,5,2,5,22,19,5,12,6,7,47,32,DDWLLLDDWLWWWLDWLLLLDWLWW,6,3,3,21,13,LLWDWWWWLLDL,DLLDLWLDLLWW
-Parma,SPAL,0-1,/match/parma-fc/spal-1907/2020,2020,26,serie_a,20,38,2,0,1,7,10,6,9,33,31,LLLWWWWWDLDWDLLLDWWWWDLLD,6,1,5,17,11,19,4,3,18,19,44,LWWWLWWWDWLDDWLWLLWLLWLWL,2,1,10,8,24,LLWWWLWLDWWL,WWWWWDWWLWLWW
-Sampdoria,Hellas Verona,2-1,/match/sampdoria/hellas-verona-fc/2020,2020,26,serie_a,20,38,0,2,1,17,6,5,14,27,45,LWWWWLWDWDLDWWLLLDWWDLLLW,3,4,6,14,21,6,10,8,7,30,25,DLLWDDWWLLWWWLWDDLWDWDWDW,3,5,4,11,12,LWLDDDWLLWDLL,LWDWLWWDLDDD
-Milan,Genoa,1-2,/match/milan/genoa/2020,2020,26,serie_a,20,38,2,1,2,8,10,6,9,27,32,WWLLWLLDWWLWDLLDWDLWLDWWD,4,5,3,12,13,18,5,7,13,29,46,DWLWDWLWWWLDDLDLWWWLDDWLL,1,6,6,15,28,WLLDWLDDDWDW,DWWWWDDDWWDDL
-Udinese,Fiorentina,0-0,/match/udinese/fiorentina/2020,2020,26,serie_a,20,38,1,0,0,12,7,6,12,21,37,WLWLDWWWWLLDWWDWWLWWWLDDD,5,3,4,10,12,13,7,8,10,32,36,LWDDWLWDLLDWWLWDLDWLDWLLD,4,3,5,19,19,WLLWWLDDWWLD,WDLDLWWWDLWL
-Juventus,Inter,2-0,/match/juventus-fc/internazionale/2020,2020,26,serie_a,20,38,0,2,0,1,19,3,3,48,24,LWDWLWLWDWLWLDWWLWLWWWWWL,11,1,0,29,10,3,17,6,2,51,23,WLWLWLLLDLLWLWDDWLDDDLWWW,9,2,1,26,12,WWWWWWDWWWWW,LLLLLLLDLDLW
-Sassuolo,Brescia,3-0,/match/us-sassuolo-calcio/brescia/2020,2020,26,serie_a,20,38,0,3,0,14,8,5,12,39,43,WWWWWLLLLLDWLDDDLWWWDWLLW,5,1,6,25,22,20,4,4,17,22,46,LWLLLWLDWLWLWLLWDLWDLWDWL,3,1,8,9,21,WWLLLWLDLWWL,LWLWWWWLDWWW
-Fiorentina,Brescia,1-1,/match/fiorentina/brescia/2020,2020,27,serie_a,20,38,1,1,1,14,7,9,10,32,36,LWDDWLWDLLDWWLWDLDWLDWLLDD,3,5,5,13,17,20,4,4,18,22,49,LWLLLWLDWLWLWLLWDLWDLWDWLW,3,1,9,9,24,LDWWLDLDLWDLD,LWLWWWWLDWWWW
-Lecce,Milan,1-4,/match/lecce/milan/2020,2020,27,serie_a,20,38,2,1,4,17,6,7,13,34,56,WLLLLLWDDDDWDLDWLLWDWWLWWL,2,5,6,19,26,9,10,6,10,28,34,WWLLWLLDWWLWDLLDWDLWLDWWDL,6,1,6,15,19,LLLDDDDLLDWWL,WLWLWWLLWLLWD
-Bologna,Juventus,0-2,/match/bologna/juventus-fc/2020,2020,27,serie_a,20,38,2,0,2,10,9,7,10,38,42,DWLLDWDWWWLWDLLWLDWDLWLLDW,4,5,4,18,20,1,20,3,3,50,24,LWDWLWLWDWLWLDWWLWLWWWWWLW,8,2,3,19,14,WLDWLDLWDDWLD,LDLLDLLWLLWWL
-Hellas Verona,Napoli,0-2,/match/hellas-verona-fc/napoli/2020,2020,27,serie_a,20,38,2,0,2,6,10,8,8,31,27,DLLWDDWWLLWWWLWDDLWDWDWDWW,7,3,3,19,13,7,11,6,9,41,36,LWWLLWDWDDWDDLDLLLWLWLLLLW,6,4,3,24,18,DLDWLWWLDWWWW,LWLDDWDDLWLLL
-SPAL,Cagliari,0-1,/match/spal-1907/cagliari/2020,2020,27,serie_a,20,38,2,0,1,19,5,3,18,20,44,LWWWLWWWDWLDDWLWLLWLLWLWLL,2,2,8,11,20,12,8,8,10,42,42,LLLWLDDWDWLWDWDLWWLDDDWLWL,3,6,4,17,19,LWLWDLDLLLLL,LLDDLDDWWDDWW
-Torino,Udinese,1-0,/match/torino-fc/udinese/2020,2020,27,serie_a,20,38,0,1,0,15,8,4,14,29,46,WLLWWWDWDWLLLLWDLLWWLWLWDW,4,3,6,12,23,13,7,7,12,21,37,WLWLDWWWWLLDWWDWWLWWWLDDDD,2,3,8,11,25,WLWDDLLWLWLLD,WDWWLWWWLWWDD
-Genoa,Parma,1-4,/match/genoa/parma-fc/2020,2020,27,serie_a,20,38,2,1,4,18,6,7,13,31,47,DWLWDWLWWWLDDLDLWWWLDDWLLL,4,1,7,14,18,8,10,6,10,33,32,LLLWWWWWDLDWDLLLDWWWWDLLDL,4,5,4,16,20,WLDLWLLLWLWL,LWWDDDLLWWDLD
-Inter,Sassuolo,3-3,/match/internazionale/us-sassuolo-calcio/2020,2020,27,serie_a,20,38,1,3,3,3,17,6,3,51,25,WLWLWLLLDLLWLWDDWLDDDLWWWW,8,4,1,25,11,11,9,5,12,42,43,WWWWWLLLLLDWLDDDLWWWDWLLWW,3,4,6,14,21,WWWLDWWDWDDWW,WWWLLDDDWWDLW
-Atalanta,Lazio,3-2,/match/atalanta/lazio/2020,2020,27,serie_a,20,38,0,3,2,4,15,6,5,74,35,LLLDLLWDWDLDLLWWWWDLLDLWWL,7,2,4,37,20,2,19,5,2,60,23,LDWWWWDDLWLWLWWLDLWWDWLWLW,8,2,2,21,13,LDWWLLWWWLDWW,LWWDLLLLLDLL
-Roma,Sampdoria,2-1,/match/roma/sampdoria/2020,2020,27,serie_a,20,38,0,2,1,5,13,6,7,51,35,DDWLLLDDWLWWWLDWLLLLDWLWWL,6,3,4,26,19,16,7,5,14,29,46,LWWWWLWDWDLDWWLLLDWWDLLLWW,3,1,8,13,24,DWLDWWWWLLDLW,WWWWWLWLDWLW
-Juventus,Lecce,4-0,/match/juventus-fc/lecce/2020,2020,28,serie_a,20,38,0,4,0,1,21,3,3,52,24,LWDWLWLWDWLWLDWWLWLWWWWWLWL,12,1,0,31,10,17,6,7,14,35,60,WLLLLLWDDDDWDLDWLLWDWWLWWLL,4,2,7,15,30,WWWWWWDWWWWWW,WLLWDDWLWWWLW
-Brescia,Genoa,2-2,/match/brescia/genoa/2020,2020,28,serie_a,20,38,1,2,2,20,4,5,18,23,50,LWLLLWLDWLWLWLLWDLWDLWDWLWD,1,3,9,13,25,18,6,7,14,32,51,DWLWDWLWWWLDDLDLWWWLDDWLLLL,2,6,6,17,29,LLLDLLLWLDLDL,DWWWWDDDWWDDLL
-Cagliari,Torino,4-2,/match/cagliari/torino-fc/2020,2020,28,serie_a,20,38,0,4,2,10,9,8,10,43,42,LLLWLDDWDWLWDWDLWWLDDDWLWLL,5,2,6,25,23,15,9,4,14,30,46,WLLWWWDWDWLLLLWDLLWWLWLWDWW,4,1,8,17,23,LLWDWWWWLLDLL,LWWWWLLDLWWWW
-Lazio,Fiorentina,2-1,/match/lazio/fiorentina/2020,2020,28,serie_a,20,38,0,2,1,2,19,5,3,62,26,LDWWWWDDLWLWLWWLDLWWDWLWLWW,11,3,0,39,10,13,7,10,10,33,37,LWDDWLWDLLDWWLWDLDWLDWLLDDD,4,4,5,19,19,DWWDWWWWDWWWWW,WDLDLWWWDLWLD
-Milan,Roma,2-0,/match/milan/roma/2020,2020,28,serie_a,20,38,0,2,0,9,11,6,10,32,35,WWLLWLLDWWLWDLLDWDLWLDWWDLL,4,5,4,13,15,5,14,6,7,53,36,DDWLLLDDWLWWWLDWLLLLDWLWWLW,7,3,3,25,16,WLLDWLDDDWDWL,DLLDLWLDLLWWL
-Sassuolo,Hellas Verona,3-3,/match/us-sassuolo-calcio/hellas-verona-fc/2020,2020,28,serie_a,20,38,1,3,3,12,9,6,12,45,46,WWWWWLLLLLDWLDDDLWWWDWLLWWD,6,1,6,28,22,6,10,8,9,31,29,DLLWDDWWLLWWWLWDDLWDWDWDWWL,3,5,5,12,14,WWLLLWLDLWWLW,LWDWLWWDLDDDW
-Sampdoria,Bologna,1-2,/match/sampdoria/bologna/2020,2020,28,serie_a,20,38,2,1,2,16,7,5,15,30,48,LWWWWLWDWDLDWWLLLDWWDLLLWWW,4,4,6,16,22,11,9,7,11,38,44,DWLLDWDWWWLWDLLWLDWDLWLLDWL,5,2,6,20,22,LWLDDDWLLWDLLW,DLDWWWWLLWLLW
-Napoli,SPAL,3-1,/match/napoli/spal-1907/2020,2020,28,serie_a,20,38,0,3,1,7,12,6,9,43,36,LWWLLWDWDDWDDLDLLLWLWLLLLWL,5,2,6,17,18,19,5,3,19,20,45,LWWWLWWWDWLDDWLWLLWLLWLWLLL,3,1,10,9,24,WLWWDDLLLLWLW,WWWWWDWWLWLWWL
-Udinese,Atalanta,2-3,/match/udinese/atalanta/2020,2020,28,serie_a,20,38,2,2,3,14,7,7,13,21,38,WLWLDWWWWLLDWWDWWLWWWLDDDDW,5,4,4,10,12,4,16,6,5,77,37,LLLDLLWDWDLDLLWWWWDLLDLWWLW,8,4,1,37,15,WLLWWLDDWWLDD,LLLLDDDLWDLLL
-Parma,Inter,1-2,/match/parma-fc/internazionale/2020,2020,28,serie_a,20,38,2,1,2,8,11,6,10,37,33,LLLWWWWWDLDWDLLLDWWWWDLLDLL,6,1,6,17,12,3,17,7,3,54,28,WLWLWLLLDLLWLWDDWLDDDLWWWWD,9,2,2,26,14,LLWWWLWLDWWLL,LLLLLLLDLDLWW
-Torino,Lazio,1-2,/match/torino-fc/lazio/2020,2020,29,serie_a,20,38,2,1,2,15,9,4,15,32,50,WLLWWWDWDWLLLLWDLLWWLWLWDWWW,5,3,6,13,23,2,20,5,3,64,27,LDWWWWDDLWLWLWWLDLWWDWLWLWWW,8,2,3,23,16,WLWDDLLWLWLLDW,LWWDLLLLLDLLW
-Genoa,Juventus,1-3,/match/genoa/juventus-fc/2020,2020,29,serie_a,20,38,2,1,3,17,6,8,14,34,53,DWLWDWLWWWLDDLDLWWWLDDWLLLLD,4,1,8,15,22,1,22,3,3,56,24,LWDWLWLWDWLWLDWWLWLWWWWWLWLW,9,2,3,21,14,WLDLWLLLWLWLL,LDLLDLLWLLWWLL
-Inter,Brescia,6-0,/match/internazionale/brescia/2020,2020,29,serie_a,20,38,0,6,0,3,18,7,3,56,29,WLWLWLLLDLLWLWDDWLDDDLWWWWDL,8,5,1,28,14,19,4,6,18,25,52,LWLLLWLDWLWLWLLWDLWDLWDWLWDD,3,2,9,10,25,WWWLDWWDWDDWWD,LWLWWWWLDWWWWD
-Bologna,Cagliari,1-1,/match/bologna/cagliari/2020,2020,29,serie_a,20,38,1,1,1,11,10,7,11,40,45,DWLLDWDWWWLWDLLWLDWDLWLLDWLL,4,5,5,18,22,9,10,8,10,47,44,LLLWLDDWDWLWDWDLWWLDDDWLWLLW,4,6,4,18,19,WLDWLDLWDDWLDL,LLDDLDDWWDDWWL
-SPAL,Milan,2-2,/match/spal-1907/milan/2020,2020,29,serie_a,20,38,1,2,2,20,5,3,20,21,48,LWWWLWWWDWLDDWLWLLWLLWLWLLLW,2,2,9,11,21,8,12,6,10,34,35,WWLLWLLDWWLWDLLDWDLWLDWWDLLW,7,1,6,19,20,LWLWDLDLLLLLL,WLWLWWLLWLLWDL
-Lecce,Sampdoria,1-2,/match/lecce/sampdoria/2020,2020,29,serie_a,20,38,2,1,2,18,6,7,15,35,64,WLLLLLWDDDDWDLDWLLWDWWLWWLLW,2,5,7,20,30,16,7,5,16,31,50,LWWWWLWDWDLDWWLLLDWWDLLLWWWL,3,1,9,14,26,LLLDDDDLLDWWLL,WWWWWLWLDWLWW
-Hellas Verona,Parma,3-2,/match/hellas-verona-fc/parma-fc/2020,2020,29,serie_a,20,38,0,3,2,6,10,9,9,34,32,DLLWDDWWLLWWWLWDDLWDWDWDWWLD,7,3,4,19,15,10,11,6,11,38,35,LLLWWWWWDLDWDLLLDWWWWDLLDLLL,5,5,4,20,21,DLDWLWWLDWWWWL,LWWDDDLLWWDLDL
-Fiorentina,Sassuolo,1-3,/match/fiorentina/us-sassuolo-calcio/2020,2020,29,serie_a,20,38,2,1,3,13,7,10,11,34,39,LWDDWLWDLLDWWLWDLDWLDWLLDDDW,3,6,5,14,18,12,9,7,12,48,49,WWWWWLLLLLDWLDDDLWWWDWLLWWDD,3,5,6,17,24,LDWWLDLDLWDLDD,WWWLLDDDWWDLWD
-Atalanta,Napoli,2-0,/match/atalanta/napoli/2020,2020,29,serie_a,20,38,0,2,0,4,17,6,5,80,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWL,8,2,4,40,22,7,13,6,9,46,37,LWWLLWDWDDWDDLDLLLWLWLLLLWLW,7,4,3,26,18,LDWWLLWWWLDWWW,LWLDDWDDLWLLLL
-Roma,Udinese,0-2,/match/roma/udinese/2020,2020,29,serie_a,20,38,2,0,2,5,14,6,8,53,38,DDWLLLDDWLWWWLDWLLLLDWLWWLWW,7,3,4,28,20,14,7,7,14,23,41,WLWLDWWWWLLDWWDWWLWWWLDDDDWL,2,3,9,11,26,DWLDWWWWLLDLWW,WDWWLWWWLWWDDW
-Juventus,Torino,4-1,/match/juventus-fc/torino-fc/2020,2020,30,serie_a,20,38,0,4,1,1,23,3,3,59,25,LWDWLWLWDWLWLDWWLWLWWWWWLWLWL,13,1,0,35,10,15,9,4,16,33,52,WLLWWWDWDWLLLLWDLLWWLWLWDWWWL,4,1,9,19,27,WWWWWWDWWWWWWW,LWWWWLLDLWWWWW
-Sassuolo,Lecce,4-2,/match/us-sassuolo-calcio/lecce/2020,2020,30,serie_a,20,38,0,4,2,12,10,7,12,51,50,WWWWWLLLLLDWLDDDLWWWDWLLWWDDL,6,2,6,31,25,18,6,7,16,36,66,WLLLLLWDDDDWDLDWLLWDWWLWWLLWL,4,2,8,15,34,WWLLLWLDLWWLWD,WLLWDDWLWWWLWW
-Lazio,Milan,0-3,/match/lazio/milan/2020,2020,30,serie_a,20,38,2,0,3,2,21,5,3,66,28,LDWWWWDDLWLWLWWLDLWWDWLWLWWWL,12,3,0,41,11,8,12,7,10,36,37,WWLLWLLDWWLWDLLDWDLWLDWWDLLWD,7,2,6,21,22,DWWDWWWWDWWWWWW,WLWLWWLLWLLWDLD
-Inter,Bologna,1-2,/match/internazionale/bologna/2020,2020,30,serie_a,20,38,2,1,2,3,19,7,3,62,29,WLWLWLLLDLLWLWDDWLDDDLWWWWDLW,9,5,1,34,14,10,10,8,11,41,46,DWLLDWDWWWLWDLLWLDWDLWLLDWLLD,6,2,6,22,23,WWWLDWWDWDDWWDW,DLDWWWWLLWLLWL
-Brescia,Hellas Verona,2-0,/match/brescia/hellas-verona-fc/2020,2020,30,serie_a,20,38,0,2,0,20,4,6,19,25,58,LWLLLWLDWLWLWLLWDLWDLWDWLWDDW,1,4,9,15,27,6,11,9,9,37,34,DLLWDDWWLLWWWLWDDLWDWDWDWWLDW,3,6,5,15,17,LLLDLLLWLDLDLD,LWDWLWWDLDDDWD
-Sampdoria,SPAL,3-0,/match/sampdoria/spal-1907/2020,2020,30,serie_a,20,38,0,3,0,16,8,5,16,33,51,LWWWWLWDWDLDWWLLLDWWDLLLWWWLL,4,4,7,17,24,19,5,4,20,23,50,LWWWLWWWDWLDDWLWLLWLLWLWLLLWD,3,1,11,10,27,LWLDDDWLLWDLLWL,WWWWWDWWLWLWWLW
-Parma,Fiorentina,1-2,/match/parma-fc/fiorentina/2020,2020,30,serie_a,20,38,2,1,2,11,11,6,12,40,38,LLLWWWWWDLDWDLLLDWWWWDLLDLLLW,6,1,7,18,14,14,7,10,12,35,42,LWDDWLWDLLDWWLWDLDWLDWLLDDDWL,4,4,6,20,21,LLWWWLWLDWWLLL,WDLDLWWWDLWLDW
-Udinese,Genoa,2-2,/match/udinese/genoa/2020,2020,30,serie_a,20,38,1,2,2,13,8,7,14,25,41,WLWLDWWWWLLDWWDWWLWWWLDDDDWLL,5,4,5,12,15,17,6,8,15,35,56,DWLWDWLWWWLDDLDLWWWLDDWLLLLDL,2,7,6,19,31,WLLWWLDDWWLDDL,DWWWWDDDWWDDLLD
-Cagliari,Atalanta,0-1,/match/cagliari/atalanta/2020,2020,30,serie_a,20,38,2,0,1,9,10,9,10,48,45,LLLWLDDWDWLWDWDLWWLDDDWLWLLWD,6,2,6,29,25,4,18,6,5,82,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWLW,9,4,1,40,17,LLWDWWWWLLDLLW,LLLLDDDLWDLLLL
-Napoli,Roma,2-1,/match/napoli/roma/2020,2020,30,serie_a,20,38,0,2,1,7,13,6,10,46,39,LWWLLWDWDDWDDLDLLLWLWLLLLWLWW,6,2,6,20,19,5,14,6,9,53,40,DDWLLLDDWLWWWLDWLLLLDWLWWLWWL,7,3,4,25,18,WLWWDDLLLLWLWW,DLLDLWLDLLWWLW
-Lecce,Lazio,2-1,/match/lecce/lazio/2020,2020,31,serie_a,20,38,0,2,1,18,6,7,17,38,70,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLW,2,5,8,21,32,2,21,5,4,66,31,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLL,9,2,3,25,17,LLLDDDDLLDWWLLL,LWWDLLLLLDLLWL
-Milan,Juventus,4-2,/match/milan/juventus-fc/2020,2020,31,serie_a,20,38,0,4,2,8,13,7,10,39,37,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDL,5,5,4,15,15,1,24,3,3,63,26,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLW,10,2,3,24,15,WLLDWLDDDWDWLW,LDLLDLLWLLWWLLL
-Genoa,Napoli,1-2,/match/genoa/napoli/2020,2020,31,serie_a,20,38,2,1,2,17,6,9,15,37,58,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLD,4,1,9,16,25,7,14,6,10,48,40,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWW,7,4,4,26,20,WLDLWLLLWLWLLL,LWLDDWDDLWLLLLW
-Fiorentina,Cagliari,0-0,/match/fiorentina/cagliari/2020,2020,31,serie_a,20,38,1,0,0,14,8,10,12,37,43,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLL,3,6,6,15,21,11,10,9,11,48,46,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDL,4,7,4,19,20,LDWWLDLDLWDLDDL,LLDDLDDWWDDWWLD
-Bologna,Sassuolo,1-2,/match/bologna/us-sassuolo-calcio/2020,2020,31,serie_a,20,38,2,1,2,10,11,8,11,43,47,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDL,4,6,5,19,23,9,11,7,12,55,52,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLW,4,5,6,20,25,WLDWLDLWDDWLDLD,WWWLLDDDWWDLWDL
-Atalanta,Sampdoria,2-0,/match/atalanta/sampdoria/2020,2020,31,serie_a,20,38,0,2,0,4,19,6,5,83,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWL,9,2,4,42,22,15,9,5,16,36,51,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLW,4,1,9,16,27,LDWWLLWWWLDWWWW,WWWWWLWLDWLWWL
-Roma,Parma,2-1,/match/roma/parma-fc/2020,2020,31,serie_a,20,38,0,2,1,5,14,6,10,54,42,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLW,7,3,5,28,22,12,11,6,13,41,40,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWL,5,5,5,22,24,DWLDWWWWLLDLWWL,LWWDDDLLWWDLDLW
-Torino,Brescia,3-1,/match/torino-fc/brescia/2020,2020,31,serie_a,20,38,0,3,1,16,9,4,17,34,56,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLW,5,3,7,14,25,19,5,6,19,27,58,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWW,3,2,10,10,31,WLWDDLLWLWLLDWL,LWLWWWWLDWWWWDW
-SPAL,Udinese,0-3,/match/spal-1907/udinese/2020,2020,31,serie_a,20,38,2,0,3,20,5,4,21,23,53,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDW,2,3,9,13,23,13,8,8,14,27,43,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLD,3,3,9,13,26,LWLWDLDLLLLLLD,WDWWLWWWLWWDDWL
-Hellas Verona,Inter,2-2,/match/hellas-verona-fc/internazionale/2020,2020,31,serie_a,20,38,1,2,2,6,11,9,10,37,36,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWW,8,3,4,22,17,3,19,7,4,63,31,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWL,10,2,2,28,15,DLDWLWWLDWWWWLW,LLLLLLLDLDLWWL
-Lazio,Sassuolo,1-2,/match/lazio/us-sassuolo-calcio/2020,2020,32,serie_a,20,38,2,1,2,2,21,5,5,67,33,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLW,12,3,1,41,14,9,12,7,12,57,53,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWL,5,5,6,22,26,DWWDWWWWDWWWWWWL,WWWLLDDDWWDLWDLL
-Brescia,Roma,0-3,/match/brescia/roma/2020,2020,32,serie_a,20,38,2,0,3,19,5,6,20,28,61,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWW,2,4,9,17,27,5,15,6,10,56,43,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWW,7,3,5,26,20,LLLDLLLWLDLDLDW,DLLDLWLDLLWWLWW
-Juventus,Atalanta,2-2,/match/juventus-fc/atalanta/2020,2020,32,serie_a,20,38,1,2,2,1,24,3,4,65,30,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWW,14,1,0,39,11,4,20,6,5,85,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLW,10,4,1,41,17,WWWWWWDWWWWWWWW,LLLLDDDLWDLLLLL
-Genoa,SPAL,2-0,/match/genoa/spal-1907/2020,2020,32,serie_a,20,38,0,2,0,18,6,9,16,38,60,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDL,4,1,10,17,27,20,5,4,22,23,56,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWL,3,1,12,10,30,WLDLWLLLWLWLLLL,WWWWWDWWLWLWWLWW
-Fiorentina,Hellas Verona,1-1,/match/fiorentina/hellas-verona-fc/2020,2020,32,serie_a,20,38,1,1,1,14,8,11,12,37,43,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLD,3,7,6,15,21,6,11,10,10,39,38,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWD,3,6,6,15,19,LDWWLDLDLWDLDDLD,LWDWLWWDLDDDWDW
-Cagliari,Lecce,0-0,/match/cagliari/lecce/2020,2020,32,serie_a,20,38,1,0,0,10,10,10,11,48,46,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLD,6,2,7,29,26,17,7,7,17,40,71,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWW,4,2,9,17,38,LLWDWWWWLLDLLWL,WLLWDDWLWWWLWWW
-Parma,Bologna,2-2,/match/parma-fc/bologna/2020,2020,32,serie_a,20,38,1,2,2,12,11,6,14,42,42,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLW,6,1,8,19,16,11,11,8,12,44,49,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLL,7,2,6,24,24,LLWWWLWLDWWLLLL,DLDWWWWLLWLLWLL
-Udinese,Sampdoria,1-3,/match/udinese/sampdoria/2020,2020,32,serie_a,20,38,2,1,3,13,9,8,14,30,43,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDL,5,5,5,14,17,16,9,5,17,36,53,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWW,4,1,10,16,29,WLLWWLDDWWLDDLD,WWWWWLWLDWLWWLW
-Napoli,Milan,2-2,/match/napoli/milan/2020,2020,32,serie_a,20,38,1,2,2,7,15,6,10,50,41,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWL,7,2,6,22,20,8,14,7,10,43,39,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLW,8,2,6,24,22,WLWWDDLLLLWLWWW,WLWLWWLLWLLWDLDL
-Inter,Torino,3-1,/match/internazionale/torino-fc/2020,2020,32,serie_a,20,38,0,3,1,3,19,8,4,65,33,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLD,9,5,2,35,16,15,10,4,17,37,57,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWW,4,1,10,20,31,WWWLDWWDWDDWWDWL,LWWWWLLDLWWWWWW
-Atalanta,Brescia,6-2,/match/atalanta/brescia/2020,2020,33,serie_a,20,38,0,6,2,4,20,7,5,87,41,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWD,10,2,4,44,22,19,5,6,21,28,64,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWL,3,2,11,11,34,LDWWLLWWWLDWWWWW,LWLWWWWLDWWWWDWW
-Milan,Parma,3-1,/match/milan/parma-fc/2020,2020,33,serie_a,20,38,0,3,1,8,14,8,10,45,41,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWD,6,5,4,19,17,12,11,7,14,44,44,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWD,5,5,6,23,26,WLLDWLDDDWDWLWW,LWWDDDLLWWDLDLWW
-Sampdoria,Cagliari,3-0,/match/sampdoria/cagliari/2020,2020,33,serie_a,20,38,0,3,0,16,10,5,17,39,54,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWL,5,4,7,20,24,10,10,11,11,48,46,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDD,4,8,4,19,20,LWLDDDWLLWDLLWLW,LLDDLDDWWDDWWLDD
-Bologna,Napoli,1-1,/match/bologna/napoli/2020,2020,33,serie_a,20,38,1,1,1,11,11,9,12,46,51,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLD,4,6,6,20,25,6,15,7,10,52,43,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLD,8,4,4,28,21,WLDWLDLWDDWLDLDL,LWLDDWDDLWLLLLWL
-Lecce,Fiorentina,1-3,/match/lecce/fiorentina/2020,2020,33,serie_a,20,38,2,1,3,18,7,8,17,40,71,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWD,3,5,8,23,33,13,8,12,12,38,44,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDD,5,4,6,22,22,LLLDDDDLLDWWLLLW,WDLDLWWWDLWLDWL
-Roma,Hellas Verona,2-1,/match/roma/hellas-verona-fc/2020,2020,33,serie_a,20,38,0,2,1,5,16,6,10,59,43,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWL,8,3,5,30,23,7,11,11,10,40,39,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDD,3,7,6,16,20,DWLDWWWWLLDLWWLW,LWDWLWWDLDDDWDWD
-Sassuolo,Juventus,3-3,/match/us-sassuolo-calcio/juventus-fc/2020,2020,33,serie_a,20,38,1,3,3,9,13,7,12,59,54,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLL,7,2,6,35,27,1,24,4,4,67,32,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWD,10,2,4,26,19,WWLLLWLDLWWLWDW,LDLLDLLWLLWWLLLW
-Udinese,Lazio,0-0,/match/udinese/lazio/2020,2020,33,serie_a,20,38,1,0,0,14,9,8,15,31,46,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLL,5,5,6,15,20,2,21,5,6,68,35,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWL,9,2,4,26,19,WLLWWLDDWWLDDLDL,LWWDLLLLLDLLWLW
-Torino,Genoa,3-0,/match/torino-fc/genoa/2020,2020,33,serie_a,20,38,0,3,0,15,10,4,18,38,60,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWW,6,3,7,17,26,17,7,9,16,40,60,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLW,2,8,6,21,33,WLWDDLLWLWLLDWLW,DWWWWDDDWWDDLLDD
-SPAL,Inter,0-4,/match/spal-1907/internazionale/2020,2020,33,serie_a,20,38,2,0,4,20,5,4,23,23,58,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLW,2,3,10,13,26,3,20,8,4,68,34,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDW,10,3,2,30,17,LWLWDLDLLLLLLDL,LLLLLLLDLDLWWLD
-Hellas Verona,Atalanta,1-1,/match/hellas-verona-fc/atalanta/2020,2020,34,serie_a,20,38,1,1,1,8,11,11,11,41,41,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDW,8,4,4,24,19,4,21,7,5,93,43,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDW,10,5,1,43,19,DLDWLWWLDWWWWLWD,LLLLDDDLWDLLLLLD
-Cagliari,Sassuolo,1-1,/match/cagliari/us-sassuolo-calcio/2020,2020,34,serie_a,20,38,1,1,1,11,10,11,12,48,49,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDW,6,3,7,29,26,9,13,8,12,62,57,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLD,6,5,6,24,27,LLWDWWWWLLDLLWLD,WWWLLDDDWWDLWDLLL
-Milan,Bologna,5-1,/match/milan/bologna/2020,2020,34,serie_a,20,38,0,5,1,6,15,8,10,48,42,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDW,7,5,4,22,18,10,11,10,12,47,52,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDD,7,3,6,26,26,WLLDWLDDDWDWLWWW,DLDWWWWLLWLLWLLD
-Parma,Sampdoria,2-3,/match/parma-fc/sampdoria/2020,2020,34,serie_a,20,38,2,2,3,13,11,7,15,45,47,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDW,6,2,8,21,18,16,11,5,17,42,54,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLW,5,1,10,19,30,LLWWWLWLDWWLLLLD,WWWWWLWLDWLWWLWL
-Brescia,SPAL,2-1,/match/brescia/spal-1907/2020,2020,34,serie_a,20,38,0,2,1,19,5,6,22,30,70,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLW,2,4,10,17,30,20,5,4,24,23,62,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWL,3,1,13,10,32,LLLDLLLWLDLDLDWL,WWWWWDWWLWLWWLWWW
-Fiorentina,Torino,2-0,/match/fiorentina/torino-fc/2020,2020,34,serie_a,20,38,0,2,0,12,9,12,12,41,45,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDL,3,8,6,16,22,15,11,4,18,41,60,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWW,4,1,11,21,34,LDWWLDLDLWDLDDLDD,LWWWWLLDLWWWWWWW
-Napoli,Udinese,2-1,/match/napoli/udinese/2020,2020,34,serie_a,20,38,0,2,1,7,15,8,10,53,44,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDD,7,3,6,24,22,14,9,9,15,31,46,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLD,4,3,9,16,26,WLWWDDLLLLWLWWWD,WDWWLWWWLWWDDWLL
-Genoa,Lecce,2-1,/match/genoa/lecce/2020,2020,34,serie_a,20,38,0,2,1,17,7,9,17,40,63,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWW,5,1,10,19,27,18,7,8,18,41,74,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDL,4,3,9,17,38,WLDLWLLLWLWLLLLW,WLLWDDWLWWWLWWWD
-Roma,Inter,2-2,/match/roma/internazionale/2020,2020,34,serie_a,20,38,1,2,2,5,17,6,10,61,44,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLW,9,3,5,32,24,3,21,8,4,72,34,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWL,11,3,2,34,17,DWLDWWWWLLDLWWLWW,LLLLLLLDLDLWWLDL
-Juventus,Lazio,2-1,/match/juventus-fc/lazio/2020,2020,34,serie_a,20,38,0,2,1,1,24,5,4,70,35,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDD,14,2,0,41,13,2,21,6,6,68,35,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLD,9,3,4,26,19,WWWWWWDWWWWWWWWD,LWWDLLLLLDLLWLWD
-Atalanta,Bologna,1-0,/match/atalanta/bologna/2020,2020,35,serie_a,20,38,0,1,0,4,21,8,5,94,44,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWD,11,2,4,50,24,12,11,10,13,48,57,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDW,7,3,7,27,31,LDWWLLWWWLDWWWWWW,DLDWWWWLLWLLWLLDW
-Sassuolo,Milan,1-2,/match/us-sassuolo-calcio/milan/2020,2020,35,serie_a,20,38,2,1,2,9,13,9,12,63,58,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDD,7,3,6,38,30,6,16,8,10,53,43,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWW,8,3,6,26,24,WWLLLWLDLWWLWDWD,WLWLWWLLWLLWDLDLD
-Parma,Napoli,2-1,/match/parma-fc/napoli/2020,2020,35,serie_a,20,38,0,2,1,14,11,7,16,47,50,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWL,6,2,9,23,21,7,16,8,10,55,45,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDW,8,5,4,29,22,LLWWWLWLDWWLLLLDL,LWLDDWDDLWLLLLWLD
-Torino,Hellas Verona,1-1,/match/torino-fc/hellas-verona-fc/2020,2020,35,serie_a,20,38,1,1,1,16,11,4,19,41,62,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWW,7,3,7,20,26,8,11,12,11,42,42,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWD,3,7,7,17,22,WLWDDLLWLWLLDWLWW,LWDWLWWDLDDDWDWDW
-SPAL,Roma,1-6,/match/spal-1907/roma/2020,2020,35,serie_a,20,38,2,1,6,20,5,4,25,24,64,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLW,2,3,11,13,30,5,17,7,10,63,46,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWD,8,3,5,29,20,LWLWDLDLLLLLLDLL,DLLDLWLDLLWWLWWL
-Sampdoria,Genoa,1-2,/match/sampdoria/genoa/2020,2020,35,serie_a,20,38,2,1,2,13,12,5,17,45,56,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWL,6,4,7,23,24,17,8,9,17,42,64,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWW,2,8,7,21,36,LWLDDDWLLWDLLWLWW,DWWWWDDDWWDDLLDDW
-Lecce,Brescia,3-1,/match/lecce/brescia/2020,2020,35,serie_a,20,38,0,3,1,18,7,8,19,42,76,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLW,3,5,9,24,36,19,6,6,22,32,71,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWW,3,2,12,13,40,LLLDDDDLLDWWLLLWL,LWLWWWWLDWWWWDWWW
-Inter,Fiorentina,0-0,/match/internazionale/fiorentina/2020,2020,35,serie_a,20,38,1,0,0,2,21,9,4,74,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLD,10,5,2,38,17,10,10,12,12,43,45,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLW,6,4,6,25,23,WWWLDWWDWDDWWDWLW,WDLDLWWWDLWLDWLL
-Udinese,Juventus,2-1,/match/udinese/juventus-fc/2020,2020,35,serie_a,20,38,0,2,1,15,9,9,16,32,48,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDW,5,6,6,15,20,1,25,5,4,72,36,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDW,10,3,4,29,22,WLLWWLDDWWLDDLDLD,LDLLDLLWLLWWLLLWD
-Lazio,Cagliari,2-1,/match/lazio/cagliari/2020,2020,35,serie_a,20,38,0,2,1,3,21,6,7,69,37,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDW,12,3,2,42,16,11,10,12,12,49,50,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWD,4,8,5,19,23,DWWDWWWWDWWWWWWLL,LLDDLDDWWDDWWLDDW
-Milan,Atalanta,1-1,/match/milan/atalanta/2020,2020,36,serie_a,20,38,1,1,1,6,17,8,10,55,44,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWWL,8,5,4,27,19,4,22,8,5,95,44,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWDW,10,6,1,44,20,WLLDWLDDDWDWLWWWW,LLLLDDDLWDLLLLLDD
-Brescia,Parma,1-2,/match/brescia/parma-fc/2020,2020,36,serie_a,20,38,2,1,2,19,6,6,23,33,74,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWWW,3,4,10,19,31,13,12,7,16,49,51,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWLW,5,5,7,24,29,LLLDLLLWLDLDLDWLW,LWWDDDLLWWDLDLWWW
-Genoa,Inter,0-3,/match/genoa/internazionale/2020,2020,36,serie_a,20,38,2,0,3,17,9,9,17,44,65,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWWL,6,1,10,21,28,3,21,10,4,74,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLDD,11,4,2,36,19,WLDLWLLLWLWLLLLWW,LLLLLLLDLDLWWLDLD
-Napoli,Sassuolo,2-0,/match/napoli/us-sassuolo-calcio/2020,2020,36,serie_a,20,38,0,2,0,7,16,8,11,56,47,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDWW,8,3,6,26,23,9,13,9,13,64,60,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDDL,6,6,6,25,28,WLWWDDLLLLWLWWWDW,WWWLLDDDWWDLWDLLLD
-Bologna,Lecce,3-2,/match/bologna/lecce/2020,2020,36,serie_a,20,38,0,3,2,12,11,10,14,48,58,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDWW,4,7,6,21,26,18,8,8,19,45,77,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLWW,4,3,10,18,40,WLDWLDLWDDWLDLDLD,WLLWDDWLWWWLWWWDW
-Cagliari,Udinese,0-1,/match/cagliari/udinese/2020,2020,36,serie_a,20,38,2,0,1,11,10,12,13,50,52,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWDW,6,4,7,30,27,14,10,9,16,34,49,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDWW,4,3,10,17,28,LLWDWWWWLLDLLWLDD,WDWWLWWWLWWDDWLLW
-Roma,Fiorentina,2-1,/match/roma/fiorentina/2020,2020,36,serie_a,20,38,0,2,1,5,18,7,10,69,47,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWDL,9,4,5,34,26,10,10,13,12,43,45,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLWD,6,5,6,25,23,DWLDWWWWLLDLWWLWWD,WDLDLWWWDLWLDWLLD
-SPAL,Torino,1-1,/match/spal-1907/torino-fc/2020,2020,36,serie_a,20,38,1,1,1,20,5,4,26,25,70,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLWL,2,3,12,14,36,16,11,5,19,42,63,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWWD,4,1,12,21,36,LWLWDLDLLLLLLDLLL,LWWWWLLDLWWWWWWWW
-Hellas Verona,Lazio,1-5,/match/hellas-verona-fc/lazio/2020,2020,36,serie_a,20,38,2,1,5,8,11,13,11,43,43,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWDD,8,5,4,25,20,2,22,6,7,71,38,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDWW,9,3,5,27,21,DLDWLWWLDWWWWLWDD,LWWDLLLLLDLLWLWDW
-Juventus,Sampdoria,2-0,/match/juventus-fc/sampdoria/2020,2020,36,serie_a,20,38,0,2,0,1,25,5,5,73,38,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDWW,15,2,0,43,14,15,12,5,18,46,58,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWLL,6,1,10,22,32,WWWWWWDWWWWWWWWDW,WWWWWLWLDWLWWLWLL
-Parma,Atalanta,1-2,/match/parma-fc/atalanta/2020,2020,37,serie_a,20,38,2,1,2,13,13,7,16,51,52,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWLWL,7,2,9,25,22,4,22,9,5,96,45,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWDWD,10,7,1,45,21,LLWWWLWLDWWLLLLDLW,LLLLDDDLWDLLLLLDDD
-Inter,Napoli,2-0,/match/internazionale/napoli/2020,2020,37,serie_a,20,38,0,2,0,3,22,10,4,77,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLDDL,10,6,2,38,17,7,17,8,11,58,47,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDWWW,8,5,5,30,24,WWWLDWWDWDDWWDWLWD,LWLDDWDDLWLLLLWLDW
-Hellas Verona,SPAL,3-0,/match/hellas-verona-fc/spal-1907/2020,2020,37,serie_a,20,38,0,3,0,8,11,13,12,44,48,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWDDL,8,5,5,26,25,20,5,5,26,26,71,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLWLD,3,1,14,11,34,DLDWLWWLDWWWWLWDDL,WWWWWDWWLWLWWLWWWW
-Udinese,Lecce,1-2,/match/udinese/lecce/2020,2020,37,serie_a,20,38,2,1,2,11,11,9,16,35,49,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDWWL,6,6,6,17,21,18,8,8,20,47,80,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLWWW,4,3,11,20,43,WLLWWLDDWWLDDLDLDW,WLLWDDWLWWWLWWWDWW
-Sassuolo,Genoa,5-0,/match/us-sassuolo-calcio/genoa/2020,2020,37,serie_a,20,38,0,5,0,9,13,9,14,64,62,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDDLW,7,3,7,39,32,17,9,9,18,44,68,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWWLL,3,8,7,23,37,WWLLLWLDLWWLWDWDL,DWWWWDDDWWDDLLDDWL
-Sampdoria,Milan,1-4,/match/sampdoria/milan/2020,2020,37,serie_a,20,38,2,1,4,16,12,5,19,46,60,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWLLW,6,4,8,24,26,6,17,9,10,56,45,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWWLD,9,3,6,28,25,LWLDDDWLLWDLLWLWWL,WLWLWWLLWLLWDLDLDL
-Lazio,Brescia,2-0,/match/lazio/brescia/2020,2020,37,serie_a,20,38,0,2,0,2,23,6,7,76,39,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDWWL,13,3,2,44,17,19,6,6,24,34,76,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWWWL,3,2,13,14,43,DWWDWWWWDWWWWWWLLW,LWLWWWWLDWWWWDWWWW
-Torino,Roma,2-3,/match/torino-fc/roma/2020,2020,37,serie_a,20,38,2,2,3,15,11,6,19,43,64,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWWDD,7,4,7,21,27,5,19,7,10,71,48,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWDLW,9,3,5,35,21,WLWDDLLWLWLLDWLWWD,DLLDLWLDLLWWLWWLL
-Fiorentina,Bologna,4-0,/match/fiorentina/bologna/2020,2020,37,serie_a,20,38,0,4,0,12,10,13,13,44,47,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLWDW,4,8,6,18,22,10,12,10,14,51,60,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDWWW,7,3,8,27,32,LDWWLDLDLWDLDDLDDW,DLDWWWWLLWLLWLLDWW
-Cagliari,Juventus,2-0,/match/cagliari/juventus-fc/2020,2020,37,serie_a,20,38,0,2,0,14,10,12,14,50,53,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWDWL,6,4,8,30,28,1,26,5,5,75,38,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDWWW,10,3,5,30,24,LLWDWWWWLLDLLWLDDL,LDLLDLLWLLWWLLLWDW
-Brescia,Sampdoria,1-1,/match/brescia/sampdoria/2020,2020,38,serie_a,20,38,1,1,1,19,6,6,25,34,78,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWWWLW,3,4,11,20,33,16,12,5,20,47,64,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWLLWL,6,1,11,22,34,LLLDLLLWLDLDLDWLWL,WWWWWLWLDWLWWLWLLW
-Milan,Cagliari,3-0,/match/milan/cagliari/2020,2020,38,serie_a,20,38,0,3,0,6,18,9,10,60,46,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWWLDL,8,6,4,28,20,11,11,12,14,52,53,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWDWLW,4,8,6,20,25,WLLDWLDDDWDWLWWWWD,LLDDLDDWWDDWWLDDWW
-Napoli,Lazio,3-1,/match/napoli/lazio/2020,2020,38,serie_a,20,38,0,3,1,7,17,8,12,58,49,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDWWWW,9,3,6,28,23,2,24,6,7,78,39,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDWWLW,10,3,5,32,22,WLWWDDLLLLWLWWWDWW,LWWDLLLLLDLLWLWDWL
-Juventus,Roma,1-3,/match/juventus-fc/roma/2020,2020,38,serie_a,20,38,2,1,3,1,26,5,6,75,40,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDWWWW,16,2,0,45,14,5,20,7,10,74,50,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWDLWL,10,3,5,38,23,WWWWWWDWWWWWWWWDWW,DLLDLWLDLLWWLWWLLL
-Atalanta,Inter,0-2,/match/atalanta/internazionale/2020,2020,38,serie_a,20,38,2,0,2,4,23,9,5,98,46,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWDWDL,12,2,4,51,24,3,23,10,4,79,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLDDLW,12,4,2,39,19,LDWWLLWWWLDWWWWWWW,LLLLLLLDLDLWWLDLDL
-SPAL,Fiorentina,1-3,/match/spal-1907/fiorentina/2020,2020,38,serie_a,20,38,2,1,3,20,5,5,27,26,74,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLWLDW,2,4,12,15,37,10,11,13,13,48,47,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLWDWW,6,5,7,26,25,LWLWDLDLLLLLLDLLLD,WDLDLWWWDLWLDWLLDW
-Genoa,Hellas Verona,3-0,/match/genoa/hellas-verona-fc/2020,2020,38,serie_a,20,38,0,3,0,17,9,9,19,44,73,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWWLLW,6,1,11,21,31,8,12,13,12,47,48,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWDDLW,3,8,7,18,23,WLDLWLLLWLWLLLLWWL,LWDWLWWDLDDDWDWDWD
-Bologna,Torino,1-1,/match/bologna/torino-fc/2020,2020,38,serie_a,20,38,1,1,1,12,12,10,15,51,64,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDWWWW,5,7,6,24,28,15,11,6,20,45,67,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWWDDL,4,2,12,22,37,WLDWLDLWDDWLDLDLDW,LWWWWLLDLWWWWWWWWD
-Lecce,Parma,3-4,/match/lecce/parma-fc/2020,2020,38,serie_a,20,38,2,3,4,18,9,8,20,49,81,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLWWWL,4,5,9,27,37,14,13,7,17,52,54,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWLWLL,6,5,7,26,30,LLLDDDDLLDWWLLLWLW,LWWDDDLLWWDLDLWWWL
-Sassuolo,Udinese,0-1,/match/us-sassuolo-calcio/udinese/2020,2020,38,serie_a,20,38,2,0,1,9,14,9,14,69,62,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDDLWW,8,3,7,44,32,13,11,9,17,36,51,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDWWLL,5,3,10,18,28,WWLLLWLDLWWLWDWDLW,WDWWLWWWLWWDDWLLWL
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Parma,Juventus,0-1,/match/parma-fc/juventus-fc/2020,2020,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Fiorentina,Napoli,3-4,/match/fiorentina/napoli/2020,2020,1,serie_a,20,38,2,3,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Udinese,Milan,1-0,/match/udinese/milan/2020,2020,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Roma,Genoa,3-3,/match/roma/genoa/2020,2020,1,serie_a,20,38,1,3,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Torino,Sassuolo,2-1,/match/torino-fc/us-sassuolo-calcio/2020,2020,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SPAL,Atalanta,2-3,/match/spal-1907/atalanta/2020,2020,1,serie_a,20,38,2,2,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Lazio,0-3,/match/sampdoria/lazio/2020,2020,1,serie_a,20,38,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Brescia,0-1,/match/cagliari/brescia/2020,2020,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Hellas Verona,Bologna,1-1,/match/hellas-verona-fc/bologna/2020,2020,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Lecce,4-0,/match/internazionale/lecce/2020,2020,1,serie_a,20,38,0,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bologna,SPAL,1-0,/match/bologna/spal-1907/2020,2020,2,serie_a,20,38,0,1,0,11,1,0,1,0,1,1,D,0,0,0,0,0,13,0,0,0,1,2,3,L,0,0,0,0,0,,
+Milan,Brescia,1-0,/match/milan/brescia/2020,2020,2,serie_a,20,38,0,1,0,17,0,0,0,1,0,1,W,0,0,0,0,0,6,2,1,0,0,1,0,L,1,0,0,1,0,,L
+Juventus,Napoli,4-3,/match/juventus-fc/napoli/2020,2020,2,serie_a,20,38,0,4,3,5,2,1,0,0,1,0,L,0,0,0,0,0,7,2,1,0,0,4,3,L,1,0,0,4,3,,L
+Lazio,Roma,1-1,/match/lazio/roma/2020,2020,2,serie_a,20,38,1,1,1,9,2,1,0,0,3,0,L,0,0,0,0,0,8,2,0,1,0,3,3,D,0,0,0,0,0,,
+Cagliari,Inter,1-2,/match/cagliari/internazionale/2020,2020,2,serie_a,20,38,2,1,2,16,0,0,0,1,0,1,L,0,0,1,0,1,3,4,1,0,0,4,0,W,0,0,0,0,0,L,
+Genoa,Fiorentina,2-1,/match/genoa/fiorentina/2020,2020,2,serie_a,20,38,0,2,1,12,1,0,1,0,3,3,D,0,0,0,0,0,14,0,0,0,1,3,4,L,0,0,0,0,0,,
+Atalanta,Torino,2-3,/match/atalanta/torino-fc/2020,2020,2,serie_a,20,38,2,2,3,10,2,1,0,0,3,2,L,0,0,0,0,0,2,4,1,0,0,2,1,W,0,0,0,0,0,,
+Lecce,Hellas Verona,0-1,/match/lecce/hellas-verona-fc/2020,2020,2,serie_a,20,38,2,0,1,20,0,0,0,1,0,4,W,0,0,0,0,0,4,2,0,1,0,1,1,D,0,0,0,0,0,,
+Sassuolo,Sampdoria,4-1,/match/us-sassuolo-calcio/sampdoria/2020,2020,2,serie_a,20,38,0,4,1,18,0,0,0,1,1,2,W,0,0,0,0,0,19,0,0,0,1,0,3,L,0,0,0,0,0,,
+Udinese,Parma,1-3,/match/udinese/parma-fc/2020,2020,2,serie_a,20,38,2,1,3,1,4,1,0,0,1,0,W,1,0,0,1,0,15,0,0,0,1,0,1,L,0,0,0,0,0,W,
+Fiorentina,Juventus,0-0,/match/fiorentina/juventus-fc/2020,2020,3,serie_a,20,38,1,0,0,17,0,0,0,2,4,6,LW,0,0,1,3,4,2,6,2,0,0,5,3,LW,1,0,0,1,0,L,L
+Napoli,Sampdoria,2-0,/match/napoli/sampdoria/2020,2020,3,serie_a,20,38,0,2,0,13,2,1,0,1,7,7,LW,0,0,0,0,0,19,0,0,0,2,1,7,LW,0,0,1,1,4,,W
+Inter,Udinese,1-0,/match/internazionale/udinese/2020,2020,3,serie_a,20,38,0,1,0,1,6,2,0,0,6,1,WL,1,0,0,4,0,9,4,1,0,1,2,3,WL,0,0,0,0,0,W,
+Genoa,Atalanta,1-2,/match/genoa/atalanta/2020,2020,3,serie_a,20,38,2,1,2,5,5,1,1,0,5,4,DW,1,0,0,2,1,12,2,1,0,1,5,5,LL,1,0,0,3,2,W,L
+Brescia,Bologna,3-4,/match/brescia/bologna/2020,2020,3,serie_a,20,38,2,3,4,15,2,1,0,1,1,1,LW,0,0,0,0,0,4,5,1,1,0,2,1,DW,0,1,0,1,1,,D
+SPAL,Lazio,2-1,/match/spal-1907/lazio/2020,2020,3,serie_a,20,38,0,2,1,16,0,0,0,2,2,4,LW,0,0,1,2,3,6,4,1,1,0,4,1,LD,1,0,0,3,0,L,L
+Parma,Cagliari,1-3,/match/parma-fc/cagliari/2020,2020,3,serie_a,20,38,2,1,3,14,2,1,0,1,3,2,LL,0,0,1,0,1,18,0,0,0,2,1,3,LL,0,0,0,0,0,L,
+Roma,Sassuolo,4-2,/match/roma/us-sassuolo-calcio/2020,2020,3,serie_a,20,38,0,4,2,11,3,0,2,0,4,4,DD,0,1,0,3,3,7,4,1,0,1,5,3,WW,0,0,1,1,2,D,W
+Hellas Verona,Milan,0-1,/match/hellas-verona-fc/milan/2020,2020,3,serie_a,20,38,2,0,1,10,4,1,1,0,2,1,DL,0,1,0,1,1,8,4,1,0,1,1,1,WW,0,0,1,0,1,D,W
+Torino,Lecce,1-2,/match/torino-fc/lecce/2020,2020,3,serie_a,20,38,2,1,2,3,6,2,0,0,5,3,WL,1,0,0,2,1,20,0,0,0,2,0,5,WL,0,0,1,0,4,W,W
+Cagliari,Genoa,3-1,/match/cagliari/genoa/2020,2020,4,serie_a,20,38,0,3,1,18,2,1,0,2,4,4,LLL,0,0,2,1,3,8,5,1,1,1,6,6,DWL,0,1,0,3,3,LL,D
+Udinese,Brescia,0-1,/match/udinese/brescia/2020,2020,4,serie_a,20,38,2,0,1,11,4,1,0,2,2,4,WLW,1,0,1,2,3,16,2,1,0,2,4,5,LWL,1,0,1,1,1,WL,LW
+Juventus,Hellas Verona,2-1,/match/juventus-fc/hellas-verona-fc/2020,2020,4,serie_a,20,38,0,2,1,3,7,2,1,0,5,3,LWD,1,0,0,4,3,12,4,1,1,1,2,2,DLL,1,0,0,1,0,W,L
+Milan,Inter,0-2,/match/milan/internazionale/2020,2020,4,serie_a,20,38,2,0,2,5,6,2,0,1,2,1,WWL,1,0,0,1,0,1,10,3,0,0,7,1,WLW,1,0,0,2,1,W,L
+Sassuolo,SPAL,3-0,/match/us-sassuolo-calcio/spal-1907/2020,2020,4,serie_a,20,38,0,3,0,10,4,1,0,2,7,7,WWW,1,0,0,4,1,14,4,1,0,2,4,5,LWW,0,0,1,0,1,W,W
+Bologna,Roma,1-2,/match/bologna/roma/2020,2020,4,serie_a,20,38,2,1,2,2,7,2,1,0,6,4,DWL,1,0,0,1,0,4,7,1,2,0,8,6,DDW,0,1,0,1,1,W,D
+Lecce,Napoli,1-4,/match/lecce/napoli/2020,2020,4,serie_a,20,38,2,1,4,19,2,1,0,2,2,6,WLL,0,0,1,0,1,7,6,2,0,1,9,7,LWW,1,0,1,7,7,L,LW
+Sampdoria,Torino,1-0,/match/sampdoria/torino-fc/2020,2020,4,serie_a,20,38,0,1,0,20,0,0,0,3,1,9,LWW,0,0,1,0,3,6,6,2,0,1,6,5,WLL,1,0,0,3,2,L,L
+Atalanta,Fiorentina,2-2,/match/atalanta/fiorentina/2020,2020,4,serie_a,20,38,1,2,2,13,4,2,0,1,7,6,LLL,0,0,1,2,3,17,2,0,1,2,4,6,LWD,0,0,1,1,2,L,W
+Lazio,Parma,2-0,/match/lazio/parma-fc/2020,2020,4,serie_a,20,38,0,2,0,9,4,1,1,1,5,3,LDW,0,1,0,1,1,15,2,1,0,2,4,5,LLL,1,0,0,3,1,D,L
+Hellas Verona,Udinese,0-0,/match/hellas-verona-fc/udinese/2020,2020,5,serie_a,20,38,1,0,0,16,4,1,1,2,3,4,DLLW,0,1,1,1,2,14,4,1,0,3,2,5,WLWL,0,0,1,0,1,DL,W
+Brescia,Juventus,1-2,/match/brescia/juventus-fc/2020,2020,5,serie_a,20,38,2,1,2,13,4,2,0,2,5,5,LWLL,0,0,1,3,4,2,11,3,1,0,7,4,LWDW,1,1,0,1,0,L,LD
+Roma,Atalanta,0-2,/match/roma/atalanta/2020,2020,5,serie_a,20,38,2,0,2,3,9,2,2,0,10,7,DDWL,1,1,0,7,5,11,6,2,1,1,9,8,LLLD,2,0,0,5,3,DW,LL
+Genoa,Bologna,0-0,/match/genoa/bologna/2020,2020,5,serie_a,20,38,1,0,0,12,5,1,1,2,7,9,DWLW,1,0,1,3,3,7,7,2,1,1,7,6,DWLL,1,1,0,5,4,WL,DL
+Inter,Lazio,1-0,/match/internazionale/lazio/2020,2020,5,serie_a,20,38,0,1,0,1,12,4,0,0,9,1,WLWL,2,0,0,5,0,5,8,2,1,1,7,3,LDWW,1,0,1,4,2,WW,LW
+Fiorentina,Sampdoria,2-1,/match/fiorentina/sampdoria/2020,2020,5,serie_a,20,38,0,2,1,18,3,0,2,2,6,8,LWDD,0,1,1,3,4,17,4,1,0,3,2,9,LWWW,0,0,2,1,6,LD,WW
+Parma,Sassuolo,1-0,/match/parma-fc/us-sassuolo-calcio/2020,2020,5,serie_a,20,38,0,1,0,19,2,1,0,3,4,7,LLLW,0,0,2,1,4,6,8,2,0,2,10,7,WWWW,0,0,2,3,6,LL,WW
+SPAL,Lecce,1-3,/match/spal-1907/lecce/2020,2020,5,serie_a,20,38,2,1,3,15,4,1,0,3,4,8,LWWW,1,0,1,4,4,20,2,1,0,3,3,10,WLLL,1,0,1,2,5,LW,WL
+Napoli,Cagliari,0-1,/match/napoli/cagliari/2020,2020,5,serie_a,20,38,2,0,1,4,8,3,0,1,13,8,LWWL,1,0,0,2,0,10,6,2,0,2,7,5,LLLW,1,0,0,3,1,W,L
+Torino,Milan,2-1,/match/torino-fc/milan/2020,2020,5,serie_a,20,38,0,2,1,9,6,2,0,2,6,6,WLLW,1,0,1,3,3,8,6,2,0,2,2,3,WWLL,1,0,1,1,1,WL,WL
+Juventus,SPAL,2-0,/match/juventus-fc/spal-1907/2020,2020,6,serie_a,20,38,0,2,0,2,13,4,1,0,9,5,LWDWL,2,0,0,6,4,18,4,1,0,4,5,11,LWWWL,0,0,2,0,4,WW,WW
+Sampdoria,Inter,1-3,/match/sampdoria/internazionale/2020,2020,6,serie_a,20,38,2,1,3,19,4,1,0,4,3,11,LWWWW,1,0,1,1,3,1,16,5,0,0,10,1,WLWLW,2,0,0,4,1,LW,LL
+Sassuolo,Atalanta,1-4,/match/us-sassuolo-calcio/atalanta/2020,2020,6,serie_a,20,38,2,1,4,8,8,2,0,3,10,8,WWWWW,2,0,0,7,1,7,8,3,1,1,11,8,LLLDL,3,0,0,7,3,WW,LLL
+Napoli,Brescia,2-1,/match/napoli/brescia/2020,2020,6,serie_a,20,38,0,2,1,10,8,3,0,2,13,9,LWWLL,1,0,1,2,1,17,4,2,0,3,6,7,LWLLL,2,0,1,2,1,WL,LWL
+Udinese,Bologna,1-0,/match/udinese/bologna/2020,2020,6,serie_a,20,38,0,1,0,16,5,1,1,3,2,5,WLWLD,1,0,2,2,4,5,8,2,2,1,7,6,DWLLD,1,2,0,5,4,WLL,DLD
+Lecce,Roma,0-1,/match/lecce/roma/2020,2020,6,serie_a,20,38,2,0,1,20,4,2,0,3,6,11,WLLLL,0,0,2,1,5,4,9,2,2,1,10,9,DDWLL,1,1,0,3,2,LL,DL
+Lazio,Genoa,4-0,/match/lazio/genoa/2020,2020,6,serie_a,20,38,0,4,0,9,8,2,1,2,7,4,LDWWW,1,1,0,3,1,11,7,1,2,2,7,9,DWLWD,0,1,1,4,6,DW,DW
+Cagliari,Hellas Verona,1-1,/match/cagliari/hellas-verona-fc/2020,2020,6,serie_a,20,38,1,1,1,6,8,3,0,2,8,5,LLLWL,1,0,2,4,4,14,6,1,2,2,3,4,DLLWD,1,0,1,2,2,LLW,LW
+Milan,Fiorentina,1-3,/match/milan/fiorentina/2020,2020,6,serie_a,20,38,2,1,3,13,6,2,0,3,3,5,WWLLW,1,0,1,1,2,12,7,1,2,2,8,9,LWDDW,0,1,1,3,4,WL,WD
+Parma,Torino,3-2,/match/parma-fc/torino-fc/2020,2020,6,serie_a,20,38,0,3,2,15,6,2,0,3,5,7,LLLWW,1,0,2,2,4,3,10,3,0,2,8,7,WLLWW,1,0,1,3,3,LLW,LW
+SPAL,Parma,1-0,/match/spal-1907/parma-fc/2020,2020,7,serie_a,20,38,0,1,0,18,4,1,0,5,5,13,LWWWLW,1,0,2,5,7,6,10,3,0,3,8,9,LLLWWW,1,0,1,3,3,LWL,LW
+Hellas Verona,Sampdoria,2-0,/match/hellas-verona-fc/sampdoria/2020,2020,7,serie_a,20,38,0,2,0,15,7,1,3,2,4,5,DLLWDD,0,2,1,1,2,19,4,1,0,5,4,14,LWWWWL,0,0,3,2,8,DLD,WWW
+Genoa,Milan,1-2,/match/genoa/milan/2020,2020,7,serie_a,20,38,2,1,2,14,7,1,2,3,7,13,DWLWDW,1,1,1,3,3,16,6,2,0,4,4,8,WWLLWL,1,0,2,2,3,WLD,WLW
+Fiorentina,Udinese,1-0,/match/fiorentina/udinese/2020,2020,7,serie_a,20,38,0,1,0,10,9,2,2,2,11,10,LWDDWL,1,1,1,5,5,11,9,2,1,3,3,5,WLWLDW,0,1,1,0,1,LDW,WD
+Bologna,Lazio,2-2,/match/bologna/lazio/2020,2020,7,serie_a,20,38,1,2,2,12,8,2,2,2,7,7,DWLLDW,1,0,1,2,2,3,12,3,1,2,11,4,LDWWWW,1,0,2,4,3,WL,LWW
+Atalanta,Lecce,3-1,/match/atalanta/lecce/2020,2020,7,serie_a,20,38,0,3,1,9,10,4,1,1,15,9,LLLDLL,0,1,1,4,5,20,4,2,0,4,6,12,WLLLLL,2,0,1,5,6,LD,WLL
+Roma,Cagliari,1-1,/match/roma/cagliari/2020,2020,7,serie_a,20,38,1,1,1,5,11,3,2,1,11,9,DDWLLL,1,1,1,7,7,8,10,3,1,2,9,6,LLLWLD,2,0,0,4,1,DWL,LL
+Torino,Napoli,0-0,/match/torino-fc/napoli/2020,2020,7,serie_a,20,38,1,0,0,7,10,3,0,3,10,10,WLLWWW,2,0,1,5,4,4,12,4,0,2,15,10,LWWLLW,2,0,1,11,8,WLW,LWL
+Inter,Juventus,1-2,/match/internazionale/juventus-fc/2020,2020,7,serie_a,20,38,2,1,2,1,18,6,0,0,13,2,WLWLWL,3,0,0,6,0,2,17,5,1,0,11,5,LWDWLW,2,1,0,3,1,WWW,LDL
+Brescia,Sassuolo,0-2,/match/brescia/us-sassuolo-calcio/2020,2020,7,serie_a,20,38,2,0,2,17,4,2,0,4,7,9,LWLLLW,0,0,2,4,6,13,8,2,0,4,11,12,WWWWWL,0,0,3,3,7,LL,WWW
+Lazio,Atalanta,3-3,/match/lazio/atalanta/2020,2020,8,serie_a,20,38,1,3,3,4,13,3,2,2,13,6,LDWWWWD,2,1,0,7,1,3,14,5,1,1,18,10,LLLDLLW,4,0,0,11,4,DWW,LLLL
+Napoli,Hellas Verona,2-0,/match/napoli/hellas-verona-fc/2020,2020,8,serie_a,20,38,0,2,0,5,13,4,1,2,15,10,LWWLLWD,2,0,1,4,2,9,11,2,3,2,6,5,DLLWDDW,1,1,1,3,3,WLW,LWD
+Juventus,Bologna,2-1,/match/juventus-fc/bologna/2020,2020,8,serie_a,20,38,0,2,1,1,19,6,1,0,13,6,LWDWLWL,3,0,0,8,4,12,10,2,3,2,9,9,DWLLDWD,1,2,1,5,5,WWW,DLDW
+Sassuolo,Inter,3-4,/match/us-sassuolo-calcio/internazionale/2020,2020,8,serie_a,20,38,2,3,4,13,10,3,0,4,13,12,WWWWWLL,2,0,1,8,5,2,18,6,0,1,14,4,WLWLWLL,3,0,0,7,2,WWL,LLL
+Sampdoria,Roma,0-0,/match/sampdoria/roma/2020,2020,8,serie_a,20,38,1,0,0,19,4,1,0,6,4,16,LWWWWLW,1,0,2,2,6,6,13,3,3,1,12,10,DDWLLLD,2,1,0,4,2,LWL,DLL
+Udinese,Torino,1-0,/match/udinese/torino-fc/2020,2020,8,serie_a,20,38,0,1,0,14,9,2,1,4,3,6,WLWLDWW,2,0,2,3,4,8,12,3,1,3,10,10,WLLWWWD,1,0,2,5,6,WLLW,LWW
+Cagliari,SPAL,2-0,/match/cagliari/spal-1907/2020,2020,8,serie_a,20,38,0,2,0,10,11,3,2,2,10,7,LLLWLDD,1,1,2,5,5,16,8,2,0,5,6,13,LWWWLWW,0,0,3,0,6,LLWD,WWW
+Parma,Genoa,5-1,/match/parma-fc/genoa/2020,2020,8,serie_a,20,38,0,5,1,11,10,3,0,4,8,10,LLLWWWW,2,0,2,5,6,17,7,1,2,4,8,15,DWLWDWL,0,1,2,4,10,LLWW,DWW
+Milan,Lecce,2-2,/match/milan/lecce/2020,2020,8,serie_a,20,38,1,2,2,15,8,3,0,4,6,9,WWLLWLL,1,0,2,2,5,20,4,2,0,5,7,15,WLLLLLW,2,0,2,6,9,WLL,WLLW
+Brescia,Fiorentina,0-0,/match/brescia/fiorentina/2020,2020,8,serie_a,20,38,1,0,0,18,4,2,0,5,7,11,LWLLLWL,0,0,3,4,8,7,13,3,2,2,12,10,LWDDWLW,1,1,1,6,5,LLL,WDL
+Hellas Verona,Sassuolo,0-1,/match/hellas-verona-fc/us-sassuolo-calcio/2020,2020,9,serie_a,20,38,2,0,1,12,11,2,3,3,6,7,DLLWDDWW,1,2,1,3,2,14,10,3,0,5,16,16,WWWWWLLL,1,0,3,5,7,DLDW,WWWL
+Lecce,Juventus,1-1,/match/lecce/juventus-fc/2020,2020,9,serie_a,20,38,1,1,1,20,5,2,1,5,9,17,WLLLLLWD,0,0,3,1,6,1,23,7,1,0,15,7,LWDWLWLW,3,1,0,5,2,LLL,LDLL
+Inter,Parma,2-2,/match/internazionale/parma-fc/2020,2020,9,serie_a,20,38,1,2,2,2,20,7,0,1,18,7,WLWLWLLL,3,0,1,7,2,7,14,4,0,4,13,11,LLLWWWWW,1,0,2,3,4,WWWL,LWW
+Genoa,Brescia,3-1,/match/genoa/brescia/2020,2020,9,serie_a,20,38,0,3,1,17,7,1,2,5,9,20,DWLWDWLW,1,1,2,4,5,18,6,2,1,5,7,11,LWLLLWLD,2,0,2,3,3,WLDL,LWLW
+Bologna,Sampdoria,2-1,/match/bologna/sampdoria/2020,2020,9,serie_a,20,38,0,2,1,13,10,2,3,3,10,11,DWLLDWDW,1,1,1,4,4,19,6,1,1,6,4,16,LWWWWLWD,0,0,4,2,10,WLD,WWWW
+Atalanta,Udinese,7-1,/match/atalanta/udinese/2020,2020,9,serie_a,20,38,0,7,1,5,15,5,2,1,21,13,LLLDLLWD,1,1,1,7,6,10,13,3,1,4,4,6,WLWLDWWW,0,1,2,0,2,LDW,WDW
+SPAL,Napoli,1-1,/match/spal-1907/napoli/2020,2020,9,serie_a,20,38,1,1,1,16,8,2,0,6,6,15,LWWWLWWW,2,0,2,6,7,3,17,5,1,2,17,10,LWWLLWDW,2,1,1,11,8,LWLW,LWLD
+Torino,Cagliari,1-1,/match/torino-fc/cagliari/2020,2020,9,serie_a,20,38,1,1,1,11,12,3,1,4,10,11,WLLWWWDW,2,1,1,5,4,4,15,4,2,2,12,7,LLLWLDDW,2,1,0,5,2,WLWD,LLD
+Roma,Milan,2-1,/match/roma/milan/2020,2020,9,serie_a,20,38,0,2,1,9,14,3,4,1,12,10,DDWLLLDD,1,2,1,8,8,15,10,3,1,4,8,11,WWLLWLLD,2,0,2,4,4,DWLD,WLWL
+Fiorentina,Lazio,1-2,/match/fiorentina/lazio/2020,2020,9,serie_a,20,38,2,1,2,8,14,3,3,2,12,10,LWDDWLWD,2,1,1,6,5,6,15,3,3,2,16,9,LDWWWWDD,1,1,2,6,5,LDWW,LWWD
+Parma,Hellas Verona,0-1,/match/parma-fc/hellas-verona-fc/2020,2020,10,serie_a,20,38,2,0,1,8,15,4,1,4,15,13,LLLWWWWWD,3,0,2,10,7,14,11,2,3,4,6,8,DLLWDDWWL,1,1,2,3,5,LLWWW,LWDW
+Brescia,Inter,1-2,/match/brescia/internazionale/2020,2020,10,serie_a,20,38,2,1,2,19,6,2,1,6,8,14,LWLLLWLDW,0,1,3,4,8,2,22,7,1,1,20,9,WLWLWLLLD,4,0,0,11,5,LLLD,LLLL
+Napoli,Atalanta,2-2,/match/napoli/atalanta/2020,2020,10,serie_a,20,38,1,2,2,4,18,5,2,2,18,11,LWWLLWDWD,3,0,1,6,2,3,19,6,2,1,28,14,LLLDLLWDW,4,1,0,14,7,WLWW,LLLLD
+Sassuolo,Fiorentina,1-2,/match/us-sassuolo-calcio/fiorentina/2020,2020,10,serie_a,20,38,2,1,2,13,12,4,0,5,17,16,WWWWWLLLL,2,0,2,11,9,11,14,3,3,3,13,12,LWDDWLWDL,1,2,1,6,5,WWLL,WDLD
+Sampdoria,Lecce,1-1,/match/sampdoria/lecce/2020,2020,10,serie_a,20,38,1,1,1,20,6,1,1,7,5,18,LWWWWLWDW,1,1,2,2,6,18,7,2,2,5,10,18,WLLLLLWDD,2,1,2,8,11,LWLD,WLLWD
+Udinese,Roma,0-4,/match/udinese/roma/2020,2020,10,serie_a,20,38,2,0,4,12,13,3,1,5,5,13,WLWLDWWWW,3,0,2,4,4,5,18,4,4,1,14,11,DDWLLLDDW,2,2,0,4,2,WLLWW,DLLD
+Lazio,Torino,4-0,/match/lazio/torino-fc/2020,2020,10,serie_a,20,38,0,4,0,6,17,4,3,2,18,10,LDWWWWDDL,2,2,0,10,4,10,14,3,2,4,11,12,WLLWWWDWD,1,0,3,5,7,DWWD,LWWW
+Juventus,Genoa,2-1,/match/juventus-fc/genoa/2020,2020,10,serie_a,20,38,0,2,1,1,24,7,2,0,16,8,LWDWLWLWD,4,0,0,10,5,15,11,2,2,5,12,21,DWLWDWLWW,0,1,3,5,15,WWWW,DWWW
+Cagliari,Bologna,3-2,/match/cagliari/bologna/2020,2020,10,serie_a,20,38,0,3,2,7,16,4,3,2,13,8,LLLWLDDWD,2,1,2,7,5,9,14,3,3,3,12,12,DWLLDWDWW,1,2,2,6,7,LLWDW,DLDWW
+Milan,SPAL,1-0,/match/milan/spal-1907/2020,2020,10,serie_a,20,38,0,1,0,16,10,3,1,5,9,13,WWLLWLLDW,1,1,2,4,7,17,10,2,1,6,7,16,LWWWLWWWD,0,0,4,0,8,WLLD,WWWW
+Roma,Napoli,2-1,/match/roma/napoli/2020,2020,11,serie_a,20,38,0,2,1,6,20,5,4,1,18,11,DDWLLLDDWL,2,2,1,10,9,5,20,5,3,2,20,13,LWWLLWDWDD,2,2,1,12,9,DWLDW,LWLDD
+Bologna,Inter,1-2,/match/bologna/internazionale/2020,2020,11,serie_a,20,38,2,1,2,10,14,3,3,4,14,15,DWLLDWDWWW,2,1,1,6,5,2,24,8,1,1,22,10,WLWLWLLLDL,5,0,0,13,6,WLDW,LLLLL
+Torino,Juventus,0-1,/match/torino-fc/juventus-fc/2020,2020,11,serie_a,20,38,2,0,1,11,14,3,2,5,11,16,WLLWWWDWDW,2,2,1,6,5,1,28,8,2,0,18,9,LWDWLWLWDW,3,2,0,6,3,WLWDD,LDLLD
+Atalanta,Cagliari,0-2,/match/atalanta/cagliari/2020,2020,11,serie_a,20,38,2,0,2,4,20,6,3,1,30,16,LLLDLLWDWD,2,1,1,14,7,7,20,5,3,2,16,10,LLLWLDDWDW,2,2,0,6,3,LDWW,LLDD
+Hellas Verona,Brescia,2-1,/match/hellas-verona-fc/brescia/2020,2020,11,serie_a,20,38,0,2,1,14,13,3,3,4,7,8,DLLWDDWWLL,1,2,2,3,3,20,6,2,1,7,9,16,LWLLLWLDWL,2,0,3,4,6,DLDWL,LWLWW
+Lecce,Sassuolo,2-2,/match/lecce/us-sassuolo-calcio/2020,2020,11,serie_a,20,38,1,2,2,18,8,2,3,5,11,19,WLLLLLWDDD,0,1,3,2,7,15,12,4,0,6,18,18,WWWWWLLLLL,2,0,3,6,7,LLLD,WWWLL
+Genoa,Udinese,1-3,/match/genoa/udinese/2020,2020,11,serie_a,20,38,2,1,3,16,11,2,2,6,13,23,DWLWDWLWWW,2,1,2,7,6,13,13,3,1,6,5,17,WLWLDWWWWL,0,1,3,1,9,WLDLW,WDWW
+Fiorentina,Parma,1-1,/match/fiorentina/parma-fc/2020,2020,11,serie_a,20,38,1,1,1,8,16,4,3,3,15,13,LWDDWLWDLL,2,1,2,7,7,9,15,4,1,5,15,14,LLLWWWWWDL,1,1,2,5,6,LDWWL,LWWD
+Milan,Lazio,1-2,/match/milan/lazio/2020,2020,11,serie_a,20,38,2,1,2,12,14,4,1,5,10,13,WWLLWLLDWW,2,1,2,5,7,3,21,5,3,2,22,10,LDWWWWDDLW,2,1,2,8,6,WLLDW,LWWDL
+SPAL,Sampdoria,0-1,/match/spal-1907/sampdoria/2020,2020,11,serie_a,20,38,2,0,1,17,10,2,1,7,7,17,LWWWLWWWDW,2,1,2,7,8,19,8,1,2,7,6,19,LWWWWLWDWD,0,0,5,3,12,LWLWD,WWWWW
+Sassuolo,Bologna,3-1,/match/us-sassuolo-calcio/bologna/2020,2020,12,serie_a,20,38,0,3,1,15,13,4,1,6,20,20,WWWWWLLLLLD,2,0,3,12,11,14,14,3,3,5,15,17,DWLLDWDWWWL,1,2,3,8,10,WWLLL,DLDWWW
+Brescia,Torino,0-4,/match/brescia/torino-fc/2020,2020,12,serie_a,20,38,2,0,4,20,6,2,1,8,10,18,LWLLLWLDWLW,0,1,4,5,10,12,14,3,2,6,11,17,WLLWWWDWDWL,1,0,4,5,11,LLLDL,LWWWW
+Inter,Hellas Verona,2-1,/match/internazionale/hellas-verona-fc/2020,2020,12,serie_a,20,38,0,2,1,2,26,9,1,1,24,11,WLWLWLLLDLL,3,1,1,9,4,9,17,4,3,4,9,9,DLLWDDWWLLW,2,1,2,4,5,WWWLD,LWDWL
+Napoli,Genoa,0-0,/match/napoli/genoa/2020,2020,12,serie_a,20,38,1,0,0,7,20,5,3,3,21,15,LWWLLWDWDDW,3,1,1,8,4,16,11,2,2,7,14,26,DWLWDWLWWWL,0,1,4,6,17,WLWWD,DWWWW
+Cagliari,Fiorentina,5-2,/match/cagliari/fiorentina/2020,2020,12,serie_a,20,38,0,5,2,5,22,6,3,2,18,10,LLLWLDDWDWL,3,1,2,10,7,8,18,4,4,3,16,14,LWDDWLWDLLD,2,2,1,8,6,LLWDWW,WDLDL
+Lazio,Lecce,4-2,/match/lazio/lecce/2020,2020,12,serie_a,20,38,0,4,2,4,23,6,3,2,24,11,LDWWWWDDLWL,3,2,0,14,4,18,10,2,4,5,13,21,WLLLLLWDDDD,2,2,2,9,12,DWWDW,WLLWDD
+Sampdoria,Atalanta,0-0,/match/sampdoria/atalanta/2020,2020,12,serie_a,20,38,1,0,0,19,10,2,2,7,7,19,LWWWWLWDWDL,1,2,2,3,7,6,20,6,3,2,30,18,LLLDLLWDWDL,4,2,0,16,9,LWLDD,LLLLDD
+Udinese,SPAL,0-0,/match/udinese/spal-1907/2020,2020,12,serie_a,20,38,1,0,0,11,15,4,1,6,8,18,WLWLDWWWWLL,3,0,3,4,8,17,10,2,1,8,7,18,LWWWLWWWDWL,0,0,5,0,9,WLLWWL,WWWWW
+Parma,Roma,2-0,/match/parma-fc/roma/2020,2020,12,serie_a,20,38,0,2,0,10,16,4,2,5,16,15,LLLWWWWWDLD,3,0,3,10,8,3,24,6,4,1,20,12,DDWLLLDDWLW,3,2,0,8,2,LLWWWL,DLLDL
+Juventus,Milan,1-0,/match/juventus-fc/milan/2020,2020,12,serie_a,20,38,0,1,0,1,30,9,2,0,19,9,LWDWLWLWDWL,5,0,0,12,6,13,14,4,1,6,11,15,WWLLWLLDWWL,2,0,3,5,6,WWWWW,WLWLW
+Atalanta,Juventus,1-3,/match/atalanta/juventus-fc/2020,2020,13,serie_a,20,38,2,1,3,7,21,6,4,2,30,18,LLLDLLWDWDLD,2,1,2,14,9,1,34,10,2,0,20,9,LWDWLWLWDWLW,4,2,0,7,3,LDWWL,LDLLDL
+Milan,Napoli,1-1,/match/milan/napoli/2020,2020,13,serie_a,20,38,1,1,1,14,14,4,1,7,11,16,WWLLWLLDWWLW,2,1,3,6,9,6,22,5,4,3,21,15,LWWLLWDWDDWD,2,2,2,13,11,WLLDWL,LWLDDW
+Torino,Inter,0-3,/match/torino-fc/internazionale/2020,2020,13,serie_a,20,38,2,0,3,13,16,4,2,6,15,17,WLLWWWDWDWLL,2,2,2,6,6,2,30,10,1,1,26,12,WLWLWLLLDLLW,6,0,0,15,7,WLWDDL,LLLLLL
+Bologna,Parma,2-2,/match/bologna/parma-fc/2020,2020,13,serie_a,20,38,1,2,2,15,14,3,3,6,16,20,DWLLDWDWWWLW,2,1,2,7,7,8,20,5,2,5,18,15,LLLWWWWWDLDW,1,2,2,6,7,WLDWL,LWWDD
+Sassuolo,Lazio,1-2,/match/us-sassuolo-calcio/lazio/2020,2020,13,serie_a,20,38,2,1,2,10,17,5,1,6,23,21,WWWWWLLLLLDW,3,0,3,15,12,3,27,7,3,2,28,13,LDWWWWDDLWLW,3,1,2,10,7,WWLLLW,LWWDLL
+Hellas Verona,Fiorentina,1-0,/match/hellas-verona-fc/fiorentina/2020,2020,13,serie_a,20,38,0,1,0,12,17,4,3,5,10,11,DLLWDDWWLLWW,2,2,2,5,4,9,18,4,4,4,18,19,LWDDWLWDLLDW,2,2,2,10,11,DLDWLW,WDLDLW
+Roma,Brescia,3-0,/match/roma/brescia/2020,2020,13,serie_a,20,38,0,3,0,5,24,6,4,2,20,14,DDWLLLDDWLWW,3,2,1,12,10,20,6,2,1,9,10,22,LWLLLWLDWLWL,2,0,4,5,8,DWLDWW,LWLWWW
+Sampdoria,Udinese,2-1,/match/sampdoria/udinese/2020,2020,13,serie_a,20,38,0,2,1,17,12,2,3,7,7,19,LWWWWLWDWDLD,1,3,2,3,7,11,17,4,2,6,8,18,WLWLDWWWWLLD,1,1,3,4,10,LWLDDD,WDWWL
+Lecce,Cagliari,2-2,/match/lecce/cagliari/2020,2020,13,serie_a,20,38,1,2,2,19,10,2,4,6,15,25,WLLLLLWDDDDW,0,2,3,4,9,4,26,7,3,2,23,12,LLLWLDDWDWLW,3,2,0,8,3,LLLDD,LLDDL
+SPAL,Genoa,1-1,/match/spal-1907/genoa/2020,2020,13,serie_a,20,38,1,1,1,18,11,2,2,8,7,18,LWWWLWWWDWLD,2,1,3,7,9,16,12,2,3,7,14,26,DWLWDWLWWWLD,0,2,4,6,17,LWLWDL,DWWWWD
+Brescia,Atalanta,0-3,/match/brescia/atalanta/2020,2020,14,serie_a,20,38,2,0,3,20,6,2,1,10,10,25,LWLLLWLDWLWLW,0,1,5,5,14,7,21,6,4,3,31,21,LLLDLLWDWDLDL,4,3,0,16,9,LLLDLL,LLLLDDD
+Genoa,Torino,0-1,/match/genoa/torino-fc/2020,2020,14,serie_a,20,38,2,0,1,17,13,2,4,7,15,27,DWLWDWLWWWLDD,2,1,3,8,9,13,16,4,2,7,15,20,WLLWWWDWDWLLL,2,0,4,9,11,WLDLWL,LWWWWL
+Fiorentina,Lecce,0-1,/match/fiorentina/lecce/2020,2020,14,serie_a,20,38,2,0,1,10,18,4,4,5,18,20,LWDDWLWDLLDWW,2,2,2,8,8,19,12,2,5,6,17,27,WLLLLLWDDDDWD,2,2,3,11,16,LDWWLD,WLLWDDW
+Juventus,Sassuolo,2-2,/match/juventus-fc/us-sassuolo-calcio/2020,2020,14,serie_a,20,38,1,2,2,1,36,11,2,0,23,10,LWDWLWLWDWLWL,6,0,0,13,6,12,17,5,1,7,24,23,WWWWWLLLLLDWL,2,1,3,8,9,WWWWWW,WWWLLD
+Inter,SPAL,2-1,/match/internazionale/spal-1907/2020,2020,14,serie_a,20,38,0,2,1,2,32,11,1,1,29,12,WLWLWLLLDLLWL,4,1,1,11,5,18,13,2,3,8,8,19,LWWWLWWWDWLDD,0,1,5,0,9,WWWLDW,WWWWWD
+Lazio,Udinese,3-0,/match/lazio/udinese/2020,2020,14,serie_a,20,38,0,3,0,3,29,8,3,2,30,14,LDWWWWDDLWLWL,4,2,0,18,6,11,17,4,2,7,9,20,WLWLDWWWWLLDW,1,1,4,5,12,DWWDWW,WDWWLW
+Parma,Milan,0-1,/match/parma-fc/milan/2020,2020,14,serie_a,20,38,2,0,1,8,21,5,3,5,20,17,LLLWWWWWDLDWD,4,0,3,12,8,14,16,4,2,7,12,17,WWLLWLLDWWLWD,2,0,4,5,7,LLWWWLW,WLWLWW
+Napoli,Bologna,1-2,/match/napoli/bologna/2020,2020,14,serie_a,20,38,2,1,2,6,23,5,5,3,22,16,LWWLLWDWDDWDD,3,2,1,8,4,15,16,3,4,6,18,22,DWLLDWDWWWLWD,1,2,4,9,13,WLWWDD,DLDWWWW
+Hellas Verona,Roma,1-3,/match/hellas-verona-fc/roma/2020,2020,14,serie_a,20,38,2,1,3,9,21,5,3,5,11,11,DLLWDDWWLLWWW,3,2,2,6,4,4,28,7,4,2,23,14,DDWLLLDDWLWWW,3,2,1,8,4,DLDWLWW,DLLDLW
+Cagliari,Sampdoria,4-3,/match/cagliari/sampdoria/2020,2020,14,serie_a,20,38,0,4,3,5,27,7,4,2,25,14,LLLWLDDWDWLWD,4,1,2,15,9,16,16,3,3,7,9,20,LWWWWLWDWDLDW,1,0,5,4,12,LLWDWWW,WWWWWL
+Inter,Roma,0-0,/match/internazionale/roma/2020,2020,15,serie_a,20,38,1,0,0,2,36,12,1,1,31,13,WLWLWLLLDLLWLW,5,1,1,13,6,5,30,8,4,2,26,15,DDWLLLDDWLWWWL,4,2,1,11,5,WWWLDWW,DLLDLWL
+Atalanta,Hellas Verona,3-2,/match/atalanta/hellas-verona-fc/2020,2020,15,serie_a,20,38,0,3,2,7,23,7,4,3,34,21,LLLDLLWDWDLDLL,2,1,3,15,12,9,21,5,3,6,12,14,DLLWDDWWLLWWWL,2,1,3,5,7,LDWWLL,LWDWLW
+Udinese,Napoli,1-1,/match/udinese/napoli/2020,2020,15,serie_a,20,38,1,1,1,15,17,4,2,8,9,23,WLWLDWWWWLLDWW,3,1,3,4,8,6,23,5,5,4,23,18,LWWLLWDWDDWDDL,2,3,2,14,12,WLLWWLD,LWLDDWD
+Lazio,Juventus,3-1,/match/lazio/juventus-fc/2020,2020,15,serie_a,20,38,0,3,1,3,33,9,3,2,33,14,LDWWWWDDLWLWLW,5,2,0,21,6,1,38,11,3,0,25,12,LWDWLWLWDWLWLD,5,2,0,10,4,DWWDWWW,LDLLDLL
+Lecce,Genoa,2-2,/match/lecce/genoa/2020,2020,15,serie_a,20,38,1,2,2,17,14,3,5,6,18,27,WLLLLLWDDDDWDL,0,3,3,6,11,18,13,2,4,8,15,28,DWLWDWLWWWLDDL,0,3,4,7,18,LLLDDD,DWWWWDD
+Sassuolo,Cagliari,2-2,/match/us-sassuolo-calcio/cagliari/2020,2020,15,serie_a,20,38,1,2,2,12,18,5,2,7,26,25,WWWWWLLLLLDWLD,3,0,4,16,14,4,31,8,4,2,29,17,LLLWLDDWDWLWDW,3,3,0,10,5,WWLLLWL,LLDDLD
+SPAL,Brescia,0-1,/match/spal-1907/brescia/2020,2020,15,serie_a,20,38,2,0,1,19,13,2,3,9,9,21,LWWWLWWWDWLDDW,2,2,3,8,10,20,6,2,1,11,10,28,LWLLLWLDWLWLWL,2,0,5,5,11,LWLWDLD,LWLWWWW
+Torino,Fiorentina,2-1,/match/torino-fc/fiorentina/2020,2020,15,serie_a,20,38,0,2,1,13,18,5,2,7,16,20,WLLWWWDWDWLLLL,2,2,3,6,9,11,18,4,4,6,18,21,LWDDWLWDLLDWWL,2,2,3,10,12,WLWDDLL,WDLDLWW
+Sampdoria,Parma,0-1,/match/sampdoria/parma-fc/2020,2020,15,serie_a,20,38,2,0,1,16,16,3,3,8,12,24,LWWWWLWDWDLDWW,2,3,2,5,8,8,21,5,3,6,20,18,LLLWWWWWDLDWDL,1,3,2,8,9,LWLDDDW,LWWDDD
+Bologna,Milan,2-3,/match/bologna/milan/2020,2020,15,serie_a,20,38,2,2,3,10,18,4,4,6,20,23,DWLLDWDWWWLWDL,2,2,2,9,9,14,18,5,2,7,13,17,WWLLWLLDWWLWDL,3,0,4,6,7,WLDWLD,WLWLWWL
+Brescia,Lecce,3-0,/match/brescia/lecce/2020,2020,16,serie_a,20,38,0,3,0,20,8,3,1,11,11,28,LWLLLWLDWLWLWLL,0,1,6,5,17,17,16,3,6,6,20,29,WLLLLLWDDDDWDLD,3,2,3,12,16,LLLDLLL,WLLWDDWL
+Napoli,Parma,1-2,/match/napoli/parma-fc/2020,2020,16,serie_a,20,38,2,1,2,7,24,5,6,4,24,19,LWWLLWDWDDWDDLD,3,2,2,9,6,8,23,6,3,6,21,18,LLLWWWWWDLDWDLL,2,3,2,9,9,WLWWDDL,LWWDDDL
+Genoa,Sampdoria,0-1,/match/genoa/sampdoria/2020,2020,16,serie_a,20,38,2,0,1,18,14,2,5,8,17,30,DWLWDWLWWWLDDLD,2,1,4,8,10,16,16,3,3,9,12,25,LWWWWLWDWDLDWWL,1,0,6,7,16,WLDLWLL,WWWWWLW
+Hellas Verona,Torino,3-3,/match/hellas-verona-fc/torino-fc/2020,2020,16,serie_a,20,38,1,3,3,10,21,5,3,7,14,17,DLLWDDWWLLWWWLW,3,2,3,7,7,9,22,6,2,7,18,21,WLLWWWDWDWLLLLW,3,0,4,10,11,DLDWLWWL,LWWWWLL
+Juventus,Udinese,3-1,/match/juventus-fc/udinese/2020,2020,16,serie_a,20,38,0,3,1,1,38,11,3,1,26,15,LWDWLWLWDWLWLDW,6,1,0,15,8,13,19,4,3,8,10,24,WLWLDWWWWLLDWWD,1,1,5,5,15,WWWWWWD,WDWWLWW
+Milan,Sassuolo,0-0,/match/milan/us-sassuolo-calcio/2020,2020,16,serie_a,20,38,1,0,0,11,20,6,2,7,16,19,WWLLWLLDWWLWDLL,2,2,3,7,10,12,20,5,3,7,28,27,WWWWWLLLLLDWLDD,2,2,3,10,11,WLLDWLD,WWWLLDD
+Bologna,Atalanta,2-1,/match/bologna/atalanta/2020,2020,16,serie_a,20,38,0,2,1,15,18,4,4,7,22,26,DWLLDWDWWWLWDLL,2,2,3,11,12,6,27,8,4,3,37,23,LLLDLLWDWDLDLLW,5,3,0,19,9,WLDWLDL,LLLLDDDL
+Roma,SPAL,3-1,/match/roma/spal-1907/2020,2020,16,serie_a,20,38,0,3,1,5,31,8,5,2,26,15,DDWLLLDDWLWWWLD,4,2,1,15,10,19,13,2,3,10,9,22,LWWWLWWWDWLDDWL,0,1,6,1,11,DWLDWWW,WWWWWDW
+Fiorentina,Inter,1-1,/match/fiorentina/internazionale/2020,2020,16,serie_a,20,38,1,1,1,14,18,4,4,7,19,23,LWDDWLWDLLDWWLW,2,2,3,8,9,2,38,12,2,1,31,13,WLWLWLLLDLLWLWD,7,0,0,18,7,LDWWLDL,LLLLLLL
+Cagliari,Lazio,1-2,/match/cagliari/lazio/2020,2020,16,serie_a,20,38,2,1,2,4,32,8,5,2,31,19,LLLWLDDWDWLWDWD,5,1,2,19,12,3,37,10,3,2,36,15,LDWWWWDDLWLWLWW,4,1,2,12,8,LLWDWWWW,LWWDLLL
+Sampdoria,Juventus,1-2,/match/sampdoria/juventus-fc/2020,2020,17,serie_a,20,38,2,1,2,16,18,4,3,9,13,25,LWWWWLWDWDLDWWLL,2,3,3,5,9,1,42,12,3,1,29,16,LWDWLWLWDWLWLDWW,5,2,1,11,7,LWLDDDWL,LDLLDLLW
+Fiorentina,Roma,1-4,/match/fiorentina/roma/2020,2020,17,serie_a,20,38,2,1,4,14,20,4,5,7,20,24,LWDDWLWDLLDWWLWD,2,3,3,9,10,4,35,9,5,2,29,16,DDWLLLDDWLWWWLDW,4,3,1,11,5,LDWWLDLD,DLLDLWLD
+Udinese,Cagliari,2-1,/match/udinese/cagliari/2020,2020,17,serie_a,20,38,0,2,1,15,19,4,3,9,11,27,WLWLDWWWWLLDWWDW,3,2,3,5,9,5,32,8,5,3,32,21,LLLWLDDWDWLWDWDL,3,4,0,12,7,WLLWWLDD,LLDDLDD
+Inter,Genoa,4-0,/match/internazionale/genoa/2020,2020,17,serie_a,20,38,0,4,0,3,39,12,3,1,32,14,WLWLWLLLDLLWLWDD,5,2,1,13,6,18,14,2,5,9,17,31,DWLWDWLWWWLDDLDL,0,4,4,9,20,WWWLDWWD,DWWWWDDD
+Torino,SPAL,1-2,/match/torino-fc/spal-1907/2020,2020,17,serie_a,20,38,2,1,2,9,23,6,3,7,21,24,WLLWWWDWDWLLLLWD,3,2,3,8,10,19,13,2,3,11,10,25,LWWWLWWWDWLDDWLW,0,1,7,2,14,WLWDDLLW,WWWWWDWW
+Atalanta,Milan,5-0,/match/atalanta/milan/2020,2020,17,serie_a,20,38,0,5,0,6,27,8,4,4,38,25,LLLDLLWDWDLDLLWW,3,1,3,18,14,12,22,6,3,7,16,19,WWLLWLLDWWLWDLLD,4,0,4,9,9,LDWWLLW,WLWLWWLL
+Lecce,Bologna,2-3,/match/lecce/bologna/2020,2020,17,serie_a,20,38,2,2,3,17,16,3,6,7,20,32,WLLLLLWDDDDWDLDW,0,4,3,8,13,11,22,5,4,7,24,27,DWLLDWDWWWLWDLLW,2,2,4,11,14,LLLDDDD,DLDWWWWL
+Parma,Brescia,1-1,/match/parma-fc/brescia/2020,2020,17,serie_a,20,38,1,1,1,7,25,7,3,6,23,19,LLLWWWWWDLDWDLLL,4,0,4,12,9,20,12,4,1,11,14,28,LWLLLWLDWLWLWLLW,3,0,5,6,11,LLWWWLWL,LWLWWWWL
+Sassuolo,Napoli,1-2,/match/us-sassuolo-calcio/napoli/2020,2020,17,serie_a,20,38,2,1,2,13,21,5,4,7,28,27,WWWWWLLLLLDWLDDD,3,1,4,18,16,8,24,5,6,5,25,21,LWWLLWDWDDWDDLDL,2,4,2,15,13,WWLLLWLD,LWLDDWDD
+Lazio,Hellas Verona,0-0,/match/lazio/hellas-verona-fc/2020,2020,17,serie_a,20,38,1,0,0,2,39,11,3,2,38,16,LDWWWWDDLWLWLWWL,6,2,0,24,7,10,23,5,4,7,17,20,DLLWDDWWLLWWWLWD,2,1,4,7,10,DWWDWWWW,LWDWLWW
+Brescia,Lazio,1-2,/match/brescia/lazio/2020,2020,18,serie_a,20,38,2,1,2,20,13,4,2,11,15,29,LWLLLWLDWLWLWLLWD,1,1,6,8,17,3,41,11,4,2,38,16,LDWWWWDDLWLWLWWLD,5,1,2,14,9,LLLDLLLW,LWWDLLLL
+SPAL,Hellas Verona,0-2,/match/spal-1907/hellas-verona-fc/2020,2020,18,serie_a,20,38,2,0,2,18,15,3,3,11,12,26,LWWWLWWWDWLDDWLWL,2,2,4,8,11,9,24,5,5,7,17,20,DLLWDDWWLLWWWLWDD,2,2,4,7,10,LWLWDLDL,LWDWLWWD
+Genoa,Sassuolo,2-1,/match/genoa/us-sassuolo-calcio/2020,2020,18,serie_a,20,38,0,2,1,19,14,2,5,10,17,35,DWLWDWLWWWLDDLDLW,2,1,5,8,11,14,21,5,4,8,29,29,WWWWWLLLLLDWLDDDL,2,3,3,10,11,WLDLWLLL,WWWLLDDD
+Roma,Torino,0-2,/match/roma/torino-fc/2020,2020,18,serie_a,20,38,2,0,2,4,37,10,5,2,33,17,DDWLLLDDWLWWWLDWL,5,2,1,18,11,11,23,6,3,8,22,26,WLLWWWDWDWLLLLWDL,3,1,4,13,14,DWLDWWWW,LWWWWLLD
+Bologna,Fiorentina,1-1,/match/bologna/fiorentina/2020,2020,18,serie_a,20,38,1,1,1,10,24,6,4,7,27,29,DWLLDWDWWWLWDLLWL,3,2,3,13,13,15,20,4,5,8,21,28,LWDDWLWDLLDWWLWDL,2,2,4,11,14,WLDWLDLW,WDLDLWWW
+Atalanta,Parma,5-0,/match/atalanta/parma-fc/2020,2020,18,serie_a,20,38,0,5,0,6,31,9,4,4,43,25,LLLDLLWDWDLDLLWWW,4,1,3,23,14,7,27,7,4,6,24,20,LLLWWWWWDLDWDLLLD,3,3,2,11,10,LDWWLLWW,LWWDDDLL
+Juventus,Cagliari,4-0,/match/juventus-fc/cagliari/2020,2020,18,serie_a,20,38,0,4,0,1,44,13,3,1,31,17,LWDWLWLWDWLWLDWWL,7,1,0,18,9,5,32,8,5,4,33,23,LLLWLDDWDWLWDWDLW,3,4,1,13,9,WWWWWWDW,LLDDLDDW
+Milan,Sampdoria,0-0,/match/milan/sampdoria/2020,2020,18,serie_a,20,38,1,0,0,13,22,6,3,8,16,24,WWLLWLLDWWLWDLLDW,2,3,3,7,10,16,18,4,3,10,14,27,LWWWWLWDWDLDWWLLL,2,0,6,8,16,WLLDWLDD,WWWWWLWL
+Lecce,Udinese,0-1,/match/lecce/udinese/2020,2020,18,serie_a,20,38,2,0,1,17,16,3,6,8,22,35,WLLLLLWDDDDWDLDWL,0,4,4,10,16,12,23,5,3,9,13,28,WLWLDWWWWLLDWWDWW,1,1,6,6,18,LLLDDDDL,WDWWLWWW
+Napoli,Inter,1-3,/match/napoli/internazionale/2020,2020,18,serie_a,20,38,2,1,3,8,26,6,6,5,27,22,LWWLLWDWDDWDDLDLL,3,2,3,10,8,2,43,13,3,1,36,14,WLWLWLLLDLLWLWDDW,7,1,0,19,8,WLWWDDLL,LLLLLLLD
+Cagliari,Milan,0-2,/match/cagliari/milan/2020,2020,19,serie_a,20,38,2,0,2,6,32,8,5,5,33,27,LLLWLDDWDWLWDWDLWW,5,1,3,20,14,13,24,6,4,8,16,24,WWLLWLLDWWLWDLLDWD,4,0,5,9,14,LLWDWWWWL,WLWLWWLLW
+Lazio,Napoli,1-0,/match/lazio/napoli/2020,2020,19,serie_a,20,38,0,1,0,3,43,12,4,2,40,17,LDWWWWDDLWLWLWWLDL,6,3,0,24,7,8,26,6,6,6,28,25,LWWLLWDWDDWDDLDLLL,3,4,2,17,14,DWWDWWWWD,LWLDDWDDL
+Inter,Atalanta,1-1,/match/internazionale/atalanta/2020,2020,19,serie_a,20,38,1,1,1,2,45,14,3,1,39,15,WLWLWLLLDLLWLWDDWL,6,2,1,17,6,5,35,10,4,4,48,25,LLLDLLWDWDLDLLWWWW,5,3,1,20,11,WWWLDWWDW,LLLLDDDLW
+Udinese,Sassuolo,3-0,/match/udinese/us-sassuolo-calcio/2020,2020,19,serie_a,20,38,0,3,0,11,25,6,3,9,14,28,WLWLDWWWWLLDWWDWWL,4,2,3,7,10,14,21,5,4,9,30,31,WWWWWLLLLLDWLDDDLW,2,3,4,11,13,WLLWWLDDW,WWWLLDDDW
+Fiorentina,SPAL,1-0,/match/fiorentina/spal-1907/2020,2020,19,serie_a,20,38,0,1,0,15,21,4,6,8,22,29,LWDDWLWDLLDWWLWDLD,2,3,4,10,14,19,15,3,3,12,12,28,LWWWLWWWDWLDDWLWLL,1,1,7,4,15,LDWWLDLDL,WWWWWDWWL
+Sampdoria,Brescia,5-1,/match/sampdoria/brescia/2020,2020,19,serie_a,20,38,0,5,1,16,19,4,4,10,14,27,LWWWWLWDWDLDWWLLLD,2,3,4,6,11,20,13,4,2,12,16,31,LWLLLWLDWLWLWLLWDL,3,1,5,7,12,LWLDDDWLL,LWLWWWWLD
+Torino,Bologna,1-0,/match/torino-fc/bologna/2020,2020,19,serie_a,20,38,0,1,0,12,25,7,3,8,24,26,WLLWWWDWDWLLLLWDLL,3,2,4,9,12,10,26,6,5,7,28,30,DWLLDWDWWWLWDLLWLD,3,2,4,14,16,WLWDDLLWL,DLDWWWWLL
+Hellas Verona,Genoa,2-1,/match/hellas-verona-fc/genoa/2020,2020,19,serie_a,20,38,0,2,1,9,26,6,5,7,19,20,DLLWDDWWLLWWWLWDDL,3,3,3,10,10,17,18,3,5,10,19,36,DWLWDWLWWWLDDLDLWW,0,4,5,9,24,DLDWLWWLD,DWWWWDDDW
+Roma,Juventus,1-2,/match/roma/juventus-fc/2020,2020,19,serie_a,20,38,2,1,2,4,37,10,5,3,33,19,DDWLLLDDWLWWWLDWLL,5,2,2,18,13,1,48,14,3,1,35,17,LWDWLWLWDWLWLDWWLW,6,2,1,13,8,DWLDWWWWL,LDLLDLLWL
+Parma,Lecce,2-0,/match/parma-fc/lecce/2020,2020,19,serie_a,20,38,0,2,0,7,27,7,4,7,24,25,LLLWWWWWDLDWDLLLDW,4,1,4,13,10,18,16,3,6,9,22,36,WLLLLLWDDDDWDLDWLL,3,2,4,12,19,LLWWWLWLD,WLLWDDWLW
+Lazio,Sampdoria,5-1,/match/lazio/sampdoria/2020,2020,20,serie_a,20,38,0,5,1,3,47,13,4,2,41,17,LDWWWWDDLWLWLWWLDLW,7,3,0,25,7,15,23,5,4,10,19,28,LWWWWLWDWDLDWWLLLDW,2,1,6,8,16,DWWDWWWWDW,WWWWWLWLD
+Sassuolo,Torino,2-1,/match/us-sassuolo-calcio/torino-fc/2020,2020,20,serie_a,20,38,0,2,1,16,21,5,4,10,30,34,WWWWWLLLLLDWLDDDLWW,3,1,5,19,18,9,29,8,3,8,25,26,WLLWWWDWDWLLLLWDLLW,4,1,4,15,14,WWLLLWLDL,LWWWWLLDL
+Napoli,Fiorentina,0-2,/match/napoli/fiorentina/2020,2020,20,serie_a,20,38,2,0,2,12,26,6,6,7,28,26,LWWLLWDWDDWDDLDLLLW,3,2,4,11,11,14,25,5,6,8,23,29,LWDDWLWDLLDWWLWDLDW,2,3,4,12,15,WLWWDDLLL,WDLDLWWWD
+Milan,Udinese,3-2,/match/milan/udinese/2020,2020,20,serie_a,20,38,0,3,2,13,26,7,4,8,18,24,WWLLWLLDWWLWDLLDWDL,2,4,3,7,10,10,29,7,3,9,17,28,WLWLDWWWWLLDWWDWWLW,2,1,6,7,18,WLLDWLDDD,WDWWLWWWL
+Brescia,Cagliari,2-2,/match/brescia/cagliari/2020,2020,20,serie_a,20,38,1,2,2,20,13,4,2,13,17,36,LWLLLWLDWLWLWLLWDLW,1,1,7,9,19,6,32,8,5,6,33,29,LLLWLDDWDWLWDWDLWWL,3,4,2,13,13,LLLDLLLWL,LLDDLDDWW
+Bologna,Hellas Verona,1-1,/match/bologna/hellas-verona-fc/2020,2020,20,serie_a,20,38,1,1,1,11,26,6,5,8,28,31,DWLLDWDWWWLWDLLWLDW,3,3,3,14,14,8,30,7,5,7,21,21,DLLWDDWWLLWWWLWDDLW,3,2,4,9,10,WLDWLDLWD,LWDWLWWDL
+Lecce,Inter,1-1,/match/lecce/internazionale/2020,2020,20,serie_a,20,38,1,1,1,18,16,3,6,10,22,38,WLLLLLWDDDDWDLDWLLW,0,4,5,10,17,2,47,14,4,1,40,16,WLWLWLLLDLLWLWDDWLD,8,1,0,22,9,LLLDDDDLL,LLLLLLLDL
+Genoa,Roma,1-3,/match/genoa/roma/2020,2020,20,serie_a,20,38,2,1,3,17,18,3,5,11,20,38,DWLWDWLWWWLDDLDLWWW,3,1,5,10,12,4,37,10,5,4,34,21,DDWLLLDDWLWWWLDWLLL,5,3,1,15,6,WLDLWLLLW,DLLDLWLDL
+Juventus,Parma,2-1,/match/juventus-fc/parma-fc/2020,2020,20,serie_a,20,38,0,2,1,1,50,15,3,1,37,18,LWDWLWLWDWLWLDWWLWL,8,1,0,22,9,7,31,8,4,7,26,25,LLLWWWWWDLDWDLLLDWW,3,3,3,11,15,WWWWWWDWW,LWWDDDLLW
+Atalanta,SPAL,1-2,/match/atalanta/spal-1907/2020,2020,20,serie_a,20,38,2,1,2,5,36,10,5,4,49,26,LLLDLLWDWDLDLLWWWWD,5,1,3,28,14,19,15,3,3,13,12,29,LWWWLWWWDWLDDWLWLLW,1,1,8,4,16,LDWWLLWWW,WWWWWDWWLW
+Brescia,Milan,0-1,/match/brescia/milan/2020,2020,21,serie_a,20,38,2,0,1,20,15,4,3,13,19,38,LWLLLWLDWLWLWLLWDLWD,1,2,7,11,21,9,30,8,4,8,21,26,WWLLWLLDWWLWDLLDWDLW,5,0,5,11,14,LLLDLLLWLD,WLWLWWLLWL
+SPAL,Bologna,1-3,/match/spal-1907/bologna/2020,2020,21,serie_a,20,38,2,1,3,19,17,4,3,13,14,30,LWWWLWWWDWLDDWLWLLWL,2,2,5,8,13,12,28,6,6,8,29,32,DWLLDWDWWWLWDLLWLDWD,3,2,5,14,17,LWLWDLDLL,DLDWWWWLLW
+Fiorentina,Genoa,0-0,/match/fiorentina/genoa/2020,2020,21,serie_a,20,38,1,0,0,13,27,6,6,8,25,29,LWDDWLWDLLDWWLWDLDWL,3,3,4,11,14,17,18,3,5,12,21,41,DWLWDWLWWWLDDLDLWWWL,0,4,6,10,26,LDWWLDLDLW,DWWWWDDDWW
+Torino,Atalanta,0-7,/match/torino-fc/atalanta/2020,2020,21,serie_a,20,38,2,0,7,10,29,8,3,9,26,28,WLLWWWDWDWLLLLWDLLWW,4,2,4,10,12,5,36,10,5,5,50,28,LLLDLLWDWDLDLLWWWWDL,5,4,1,21,12,WLWDDLLWLW,LLLLDDDLWD
+Inter,Cagliari,1-1,/match/internazionale/cagliari/2020,2020,21,serie_a,20,38,1,1,1,3,48,14,5,1,41,17,WLWLWLLLDLLWLWDDWLDD,6,3,1,18,7,6,33,8,6,6,35,31,LLLWLDDWDWLWDWDLWWLD,3,5,2,15,15,WWWLDWWDWD,LLDDLDDWWD
+Hellas Verona,Lecce,3-0,/match/hellas-verona-fc/lecce/2020,2020,21,serie_a,20,38,0,3,0,8,31,7,6,7,22,22,DLLWDDWWLLWWWLWDDLWD,4,3,3,12,11,18,18,3,7,10,23,39,WLLLLLWDDDDWDLDWLLWD,3,2,5,12,21,DLDWLWWLDW,WLLWDDWLWW
+Sampdoria,Sassuolo,0-0,/match/sampdoria/us-sassuolo-calcio/2020,2020,21,serie_a,20,38,1,0,0,16,23,5,4,11,20,33,LWWWWLWDWDLDWWLLLDWW,3,3,4,11,12,15,25,6,4,10,32,35,WWWWWLLLLLDWLDDDLWWW,2,3,5,11,16,LWLDDDWLLW,WWWLLDDDWW
+Parma,Udinese,2-0,/match/parma-fc/udinese/2020,2020,21,serie_a,20,38,0,2,0,7,31,8,4,8,27,27,LLLWWWWWDLDWDLLLDWWW,5,1,4,15,10,11,29,7,3,10,19,31,WLWLDWWWWLLDWWDWWLWW,2,1,7,9,21,LLWWWLWLDW,WDWWLWWWLW
+Roma,Lazio,1-1,/match/roma/lazio/2020,2020,21,serie_a,20,38,1,1,1,4,39,11,5,4,37,22,DDWLLLDDWLWWWLDWLLLL,5,2,3,19,15,2,51,14,4,2,46,18,LDWWWWDDLWLWLWWLDLWW,6,1,2,16,10,DWLDWWWWLL,LWWDLLLLL
+Napoli,Juventus,2-1,/match/napoli/juventus-fc/2020,2020,21,serie_a,20,38,0,2,1,14,26,6,6,8,28,28,LWWLLWDWDDWDDLDLLLWL,3,2,5,11,13,1,54,16,3,1,39,19,LWDWLWLWDWLWLDWWLWLW,7,2,1,15,9,WLWWDDLLLL,LDLLDLLWLL
+Bologna,Brescia,2-1,/match/bologna/brescia/2020,2020,22,serie_a,20,38,0,2,1,11,30,7,6,8,32,33,DWLLDWDWWWLWDLLWLDWDL,3,4,3,15,15,20,15,4,3,14,19,39,LWLLLWLDWLWLWLLWDLWDL,3,1,6,8,17,WLDWLDLWDD,LWLWWWWLDW
+Cagliari,Parma,2-2,/match/cagliari/parma-fc/2020,2020,22,serie_a,20,38,1,2,2,8,34,8,7,6,36,32,LLLWLDDWDWLWDWDLWWLDD,5,1,4,20,16,6,35,9,4,8,29,27,LLLWWWWWDLDWDLLLDWWWW,3,3,4,12,17,LLWDWWWWLL,LWWDDDLLWW
+Sassuolo,Roma,4-2,/match/us-sassuolo-calcio/roma/2020,2020,22,serie_a,20,38,0,4,2,15,26,6,5,10,32,35,WWWWWLLLLLDWLDDDLWWWD,4,1,5,21,19,4,41,11,6,4,38,23,DDWLLLDDWLWWWLDWLLLLD,6,3,1,18,7,WWLLLWLDLW,DLLDLWLDLL
+Juventus,Fiorentina,3-0,/match/juventus-fc/fiorentina/2020,2020,22,serie_a,20,38,0,3,0,1,54,16,3,2,40,21,LWDWLWLWDWLWLDWWLWLWW,9,1,0,24,10,12,29,6,7,8,25,29,LWDDWLWDLLDWWLWDLDWLD,3,3,4,14,15,WWWWWWDWWW,WDLDLWWWDL
+Milan,Hellas Verona,1-1,/match/milan/hellas-verona-fc/2020,2020,22,serie_a,20,38,1,1,1,9,32,9,4,8,22,26,WWLLWLLDWWLWDLLDWDLWL,3,4,3,10,12,7,35,8,6,7,25,22,DLLWDDWWLLWWWLWDDLWDW,3,3,4,10,11,WLLDWLDDDW,LWDWLWWDLD
+Lazio,SPAL,5-1,/match/lazio/spal-1907/2020,2020,22,serie_a,20,38,0,5,1,2,52,14,5,2,47,19,LDWWWWDDLWLWLWWLDLWWD,8,3,0,30,8,19,17,4,3,14,15,33,LWWWLWWWDWLDDWLWLLWLL,2,1,8,6,17,DWWDWWWWDWW,WWWWWDWWLWL
+Atalanta,Genoa,2-2,/match/atalanta/genoa/2020,2020,22,serie_a,20,38,1,2,2,5,38,11,5,5,57,28,LLLDLLWDWDLDLLWWWWDLL,5,1,4,29,16,17,19,3,6,12,21,41,DWLWDWLWWWLDDLDLWWWLD,0,5,6,10,26,LDWWLLWWWL,DWWWWDDDWWD
+Lecce,Torino,4-0,/match/lecce/torino-fc/2020,2020,22,serie_a,20,38,0,4,0,18,18,3,7,11,23,42,WLLLLLWDDDDWDLDWLLWDW,0,5,5,11,18,14,29,8,3,10,26,35,WLLWWWDWDWLLLLWDLLWWL,4,1,5,16,16,LLLDDDDLLD,LWWWWLLDLW
+Udinese,Inter,0-2,/match/udinese/internazionale/2020,2020,22,serie_a,20,38,2,0,2,13,29,7,3,11,19,33,WLWLDWWWWLLDWWDWWLWWW,5,2,3,10,10,3,50,14,6,1,42,18,WLWLWLLLDLLWLWDDWLDDD,8,2,0,23,10,WLLWWLDDWW,LLLLLLLDLD
+Sampdoria,Napoli,2-4,/match/sampdoria/napoli/2020,2020,22,serie_a,20,38,2,2,4,16,25,5,5,11,20,33,LWWWWLWDWDLDWWLLLDWWD,3,4,4,11,12,10,30,7,6,8,30,29,LWWLLWDWDDWDDLDLLLWLW,3,4,3,17,15,LWLDDDWLLWD,LWLDDWDDLW
+Roma,Bologna,2-3,/match/roma/bologna/2020,2020,23,serie_a,20,38,2,2,3,4,41,11,6,5,40,27,DDWLLLDDWLWWWLDWLLLLDW,5,3,3,20,16,9,34,8,6,8,34,34,DWLLDWDWWWLWDLLWLDWDLW,4,2,5,17,18,DWLDWWWWLLD,DLDWWWWLLWL
+Fiorentina,Atalanta,1-2,/match/fiorentina/atalanta/2020,2020,23,serie_a,20,38,2,1,2,13,29,6,7,9,25,32,LWDDWLWDLLDWWLWDLDWLDW,3,4,4,11,14,5,40,11,6,5,59,30,LLLDLLWDWDLDLLWWWWDLLD,6,4,1,28,12,LDWWLDLDLWD,LLLLDDDLWDL
+Torino,Sampdoria,1-3,/match/torino-fc/sampdoria/2020,2020,23,serie_a,20,38,2,1,3,15,29,8,3,11,26,39,WLLWWWDWDWLLLLWDLLWWLW,4,2,5,10,19,16,25,5,5,12,22,37,LWWWWLWDWDLDWWLLLDWWDL,2,1,7,9,21,WLWDDLLWLWL,WWWWWLWLDW
+Hellas Verona,Juventus,2-1,/match/hellas-verona-fc/juventus-fc/2020,2020,23,serie_a,20,38,0,2,1,7,36,8,7,7,26,23,DLLWDDWWLLWWWLWDDLWDWD,5,3,3,15,11,1,58,17,3,2,43,21,LWDWLWLWDWLWLDWWLWLWWW,7,2,2,16,11,DLDWLWWLDWW,LDLLDLLWLLW
+SPAL,Sassuolo,1-2,/match/spal-1907/us-sassuolo-calcio/2020,2020,23,serie_a,20,38,2,1,2,19,17,4,3,15,16,38,LWWWLWWWDWLDDWLWLLWLLW,2,2,6,9,16,12,30,7,5,10,36,37,WWWWWLLLLLDWLDDDLWWWDW,2,4,5,11,16,LWLWDLDLLL,WWWLLDDDWWD
+Genoa,Cagliari,1-0,/match/genoa/cagliari/2020,2020,23,serie_a,20,38,0,1,0,18,20,3,7,12,23,43,DWLWDWLWWWLDDLDLWWWLDD,3,1,6,11,15,8,36,8,8,6,38,34,LLLWLDDWDWLWDWDLWWLDDD,3,6,2,16,16,WLDLWLLLWL,LLDDLDDWWDD
+Brescia,Udinese,1-1,/match/brescia/udinese/2020,2020,23,serie_a,20,38,1,1,1,20,15,4,3,15,20,41,LWLLLWLDWLWLWLLWDLWDLW,1,2,8,11,22,14,29,7,3,12,19,35,WLWLDWWWWLLDWWDWWLWWWL,2,1,8,9,23,LLLDLLLWLDL,WDWWLWWWLWW
+Napoli,Lecce,2-3,/match/napoli/lecce/2020,2020,23,serie_a,20,38,2,2,3,11,32,8,6,8,34,31,LWWLLWDWDDWDDLDLLLWLWL,4,2,5,13,14,17,22,4,7,11,27,42,WLLLLLWDDDDWDLDWLLWDWW,3,2,6,12,24,WLWWDDLLLLW,WLLWDDWLWWW
+Parma,Lazio,0-1,/match/parma-fc/lazio/2020,2020,23,serie_a,20,38,2,0,1,6,36,9,5,8,31,29,LLLWWWWWDLDWDLLLDWWWWD,6,1,4,17,10,2,56,15,5,2,52,20,LDWWWWDDLWLWLWWLDLWWDW,6,2,2,17,11,LLWWWLWLDWW,LWWDLLLLLD
+Inter,Milan,4-2,/match/internazionale/milan/2020,2020,23,serie_a,20,38,0,4,2,3,52,15,6,1,44,18,WLWLWLLLDLLWLWDDWLDDDL,6,4,1,19,8,10,34,9,5,8,23,27,WWLLWLLDWWLWDLLDWDLWLD,6,0,5,12,14,WWWLDWWDWDD,WLWLWWLLWLL
+Lecce,SPAL,2-1,/match/lecce/spal-1907/2020,2020,24,serie_a,20,38,0,2,1,17,24,5,7,11,30,44,WLLLLLWDDDDWDLDWLLWDWWL,1,5,5,15,18,19,17,4,3,16,17,40,LWWWLWWWDWLDDWLWLLWLLWL,2,1,9,7,22,LLLDDDDLLDW,WWWWWDWWLWLW
+Bologna,Genoa,0-3,/match/bologna/genoa/2020,2020,24,serie_a,20,38,2,0,3,9,36,9,6,8,37,36,DWLLDWDWWWLWDLLWLDWDLWL,4,4,3,17,16,18,24,4,7,12,24,43,DWLWDWLWWWLDDLDLWWWLDDW,0,6,6,12,28,WLDWLDLWDDW,DWWWWDDDWWDD
+Atalanta,Roma,2-1,/match/atalanta/roma/2020,2020,24,serie_a,20,38,0,2,1,4,42,12,6,5,61,31,LLLDLLWDWDLDLLWWWWDLLDL,5,2,4,31,18,5,41,11,6,6,42,30,DDWLLLDDWLWWWLDWLLLLDWL,6,3,2,20,11,LDWWLLWWWLD,DLLDLWLDLLW
+Udinese,Hellas Verona,0-0,/match/udinese/hellas-verona-fc/2020,2020,24,serie_a,20,38,1,0,0,13,30,7,4,12,20,36,WLWLDWWWWLLDWWDWWLWWWLD,5,2,4,10,12,6,40,9,7,7,28,24,DLLWDDWWLLWWWLWDDLWDWDW,3,4,4,11,12,WLLWWLDDWWL,LWDWLWWDLDD
+Juventus,Brescia,2-0,/match/juventus-fc/brescia/2020,2020,24,serie_a,20,38,0,2,0,1,58,17,3,3,44,23,LWDWLWLWDWLWLDWWLWLWWWW,10,1,0,27,10,20,17,4,4,15,21,42,LWLLLWLDWLWLWLLWDLWDLWD,3,1,7,9,19,WWWWWWDWWWW,LWLWWWWLDWW
+Sassuolo,Parma,0-1,/match/us-sassuolo-calcio/parma-fc/2020,2020,24,serie_a,20,38,2,0,1,11,32,8,5,10,38,38,WWWWWLLLLLDWLDDDLWWWDWL,5,1,5,25,21,7,36,9,5,9,31,30,LLLWWWWWDLDWDLLLDWWWWDL,3,4,4,14,19,WWLLLWLDLWW,LWWDDDLLWWD
+Sampdoria,Fiorentina,1-5,/match/sampdoria/fiorentina/2020,2020,24,serie_a,20,38,2,1,5,16,27,6,5,12,25,38,LWWWWLWDWDLDWWLLLDWWDLL,3,4,5,13,16,14,29,6,7,10,26,34,LWDDWLWDLLDWWLWDLDWLDWL,3,3,5,14,18,LWLDDDWLLWDL,WDLDLWWWDLW
+Cagliari,Napoli,0-1,/match/cagliari/napoli/2020,2020,24,serie_a,20,38,2,0,1,8,36,8,8,7,38,35,LLLWLDDWDWLWDWDLWWLDDDW,5,2,4,22,18,12,32,8,6,9,36,34,LWWLLWDWDDWDDLDLLLWLWLL,4,4,3,21,17,LLWDWWWWLLD,LWLDDWDDLWL
+Lazio,Inter,2-1,/match/lazio/internazionale/2020,2020,24,serie_a,20,38,0,2,1,2,58,16,5,2,53,20,LDWWWWDDLWLWLWWLDLWWDWL,9,3,0,35,9,3,56,16,6,1,48,20,WLWLWLLLDLLWLWDDWLDDDLW,9,2,0,25,10,DWWDWWWWDWWW,LLLLLLLDLDL
+Milan,Torino,1-0,/match/milan/torino-fc/2020,2020,24,serie_a,20,38,0,1,0,10,34,9,5,9,25,31,WWLLWLLDWWLWDLLDWDLWLDW,3,5,3,11,13,15,29,8,3,12,27,42,WLLWWWDWDWLLLLWDLLWWLWL,4,1,6,16,20,WLLDWLDDDWD,LWWWWLLDLWW
+Brescia,Napoli,1-2,/match/brescia/napoli/2020,2020,25,serie_a,20,38,2,1,2,20,17,4,4,16,21,44,LWLLLWLDWLWLWLLWDLWDLWDW,1,3,8,12,23,11,34,9,6,9,37,34,LWWLLWDWDDWDDLDLLLWLWLLL,5,4,3,22,17,LLLDLLLWLDLD,LWLDDWDDLWLL
+Bologna,Udinese,1-1,/match/bologna/udinese/2020,2020,25,serie_a,20,38,1,1,1,10,36,9,6,9,37,39,DWLLDWDWWWLWDLLWLDWDLWLL,4,4,4,17,19,12,32,7,5,12,20,36,WLWLDWWWWLLDWWDWWLWWWLDD,2,2,8,10,24,WLDWLDLWDDWL,WDWWLWWWLWWD
+SPAL,Juventus,1-2,/match/spal-1907/juventus-fc/2020,2020,25,serie_a,20,38,2,1,2,19,17,4,3,17,18,42,LWWWLWWWDWLDDWLWLLWLLWLW,2,2,7,10,18,1,62,18,3,3,46,23,LWDWLWLWDWLWLDWWLWLWWWWW,7,2,3,17,13,LWLWDLDLLLL,LDLLDLLWLLWW
+Fiorentina,Milan,1-1,/match/fiorentina/milan/2020,2020,25,serie_a,20,38,1,1,1,14,31,7,7,10,31,35,LWDDWLWDLLDWWLWDLDWLDWLL,3,4,5,12,16,8,38,10,5,9,26,31,WWLLWLLDWWLWDLLDWDLWLDWW,6,0,6,14,18,LDWWLDLDLWDL,WLWLWWLLWLLW
+Genoa,Lazio,2-3,/match/genoa/lazio/2020,2020,25,serie_a,20,38,2,2,3,18,26,5,7,12,27,43,DWLWDWLWWWLDDLDLWWWLDDWL,4,1,6,12,15,2,62,17,5,2,55,21,LDWWWWDDLWLWLWWLDLWWDWLW,7,2,2,18,11,WLDLWLLLWLW,LWWDLLLLLDL
+Roma,Lecce,4-0,/match/roma/lecce/2020,2020,25,serie_a,20,38,0,4,0,5,41,11,6,7,43,32,DDWLLLDDWLWWWLDWLLLLDWLW,5,3,4,22,19,16,28,6,7,11,32,45,WLLLLLWDDDDWDLDWLLWDWWLW,4,2,6,15,26,DWLDWWWWLLDL,WLLWDDWLWWWL
+Torino,Parma,1-1,/match/torino-fc/parma-fc/2020,2020,25,serie_a,20,38,1,1,1,15,29,8,3,13,27,43,WLLWWWDWDWLLLLWDLLWWLWLW,4,2,6,11,22,7,38,10,5,9,32,30,LLLWWWWWDLDWDLLLDWWWWDLL,4,4,4,15,19,WLWDDLLWLWLL,LWWDDDLLWWDL
+Hellas Verona,Cagliari,2-1,/match/hellas-verona-fc/cagliari/2020,2020,25,serie_a,20,38,0,2,1,6,41,9,8,7,28,24,DLLWDDWWLLWWWLWDDLWDWDWD,6,3,3,17,12,9,36,8,8,8,38,36,LLLWLDDWDWLWDWDLWWLDDDWL,3,6,3,16,17,DLDWLWWLDWWW,LLDDLDDWWDDW
+Atalanta,Sassuolo,4-1,/match/atalanta/us-sassuolo-calcio/2020,2020,25,serie_a,20,38,0,4,1,4,46,13,6,5,63,32,LLLDLLWDWDLDLLWWWWDLLDLW,6,2,4,33,19,13,32,8,5,11,38,39,WWWWWLLLLLDWLDDDLWWWDWLL,3,4,5,13,17,LDWWLLWWWLDW,WWWLLDDDWWDL
+Inter,Sampdoria,2-1,/match/internazionale/sampdoria/2020,2020,25,serie_a,20,38,0,2,1,3,56,16,6,2,49,22,WLWLWLLLDLLWLWDDWLDDDLWW,7,4,1,23,10,17,27,6,5,13,26,43,LWWWWLWDWDLDWWLLLDWWDLLL,3,1,7,12,22,WWWLDWWDWDDW,WWWWWLWLDWL
+Lazio,Bologna,2-0,/match/lazio/bologna/2020,2020,26,serie_a,20,38,0,2,0,2,64,18,5,2,58,23,LDWWWWDDLWLWLWWLDLWWDWLWL,10,3,0,37,10,9,38,9,7,9,38,40,DWLLDWDWWWLWDLLWLDWDLWLLD,5,2,5,20,20,DWWDWWWWDWWWW,DLDWWWWLLWLL
+Napoli,Torino,2-1,/match/napoli/torino-fc/2020,2020,26,serie_a,20,38,0,2,1,10,36,10,6,9,39,35,LWWLLWDWDDWDDLDLLLWLWLLLL,4,2,6,15,17,15,31,8,4,13,28,44,WLLWWWDWDWLLLLWDLLWWLWLWD,4,1,7,16,21,WLWWDDLLLLWL,LWWWWLLDLWWW
+Lecce,Atalanta,2-7,/match/lecce/atalanta/2020,2020,26,serie_a,20,38,2,2,7,16,28,6,7,12,32,49,WLLLLLWDDDDWDLDWLLWDWWLWW,2,5,5,17,19,4,50,14,6,5,67,33,LLLDLLWDWDLDLLWWWWDLLDLWW,7,4,1,30,13,LLLDDDDLLDWW,LLLLDDDLWDLL
+Cagliari,Roma,3-4,/match/cagliari/roma/2020,2020,26,serie_a,20,38,2,3,4,11,36,8,8,9,39,38,LLLWLDDWDWLWDWDLWWLDDDWLW,5,2,5,22,19,5,45,12,6,7,47,32,DDWLLLDDWLWWWLDWLLLLDWLWW,6,3,3,21,13,LLWDWWWWLLDL,DLLDLWLDLLWW
+Parma,SPAL,0-1,/match/parma-fc/spal-1907/2020,2020,26,serie_a,20,38,2,0,1,7,39,10,6,9,33,31,LLLWWWWWDLDWDLLLDWWWWDLLD,6,1,5,17,11,19,17,4,3,18,19,44,LWWWLWWWDWLDDWLWLLWLLWLWL,2,1,10,8,24,LLWWWLWLDWWL,WWWWWDWWLWLWW
+Sampdoria,Hellas Verona,2-1,/match/sampdoria/hellas-verona-fc/2020,2020,26,serie_a,20,38,0,2,1,17,27,6,5,14,27,45,LWWWWLWDWDLDWWLLLDWWDLLLW,3,4,6,14,21,6,45,10,8,7,30,25,DLLWDDWWLLWWWLWDDLWDWDWDW,3,5,4,11,12,LWLDDDWLLWDLL,LWDWLWWDLDDD
+Milan,Genoa,1-2,/match/milan/genoa/2020,2020,26,serie_a,20,38,2,1,2,8,39,10,6,9,27,32,WWLLWLLDWWLWDLLDWDLWLDWWD,4,5,3,12,13,18,26,5,7,13,29,46,DWLWDWLWWWLDDLDLWWWLDDWLL,1,6,6,15,28,WLLDWLDDDWDW,DWWWWDDDWWDDL
+Udinese,Fiorentina,0-0,/match/udinese/fiorentina/2020,2020,26,serie_a,20,38,1,0,0,12,33,7,6,12,21,37,WLWLDWWWWLLDWWDWWLWWWLDDD,5,3,4,10,12,13,33,7,8,10,32,36,LWDDWLWDLLDWWLWDLDWLDWLLD,4,3,5,19,19,WLLWWLDDWWLD,WDLDLWWWDLWL
+Juventus,Inter,2-0,/match/juventus-fc/internazionale/2020,2020,26,serie_a,20,38,0,2,0,1,64,19,3,3,48,24,LWDWLWLWDWLWLDWWLWLWWWWWL,11,1,0,29,10,3,60,17,6,2,51,23,WLWLWLLLDLLWLWDDWLDDDLWWW,9,2,1,26,12,WWWWWWDWWWWW,LLLLLLLDLDLW
+Sassuolo,Brescia,3-0,/match/us-sassuolo-calcio/brescia/2020,2020,26,serie_a,20,38,0,3,0,14,32,8,5,12,39,43,WWWWWLLLLLDWLDDDLWWWDWLLW,5,1,6,25,22,20,17,4,4,17,22,46,LWLLLWLDWLWLWLLWDLWDLWDWL,3,1,8,9,21,WWLLLWLDLWWL,LWLWWWWLDWWW
+Fiorentina,Brescia,1-1,/match/fiorentina/brescia/2020,2020,27,serie_a,20,38,1,1,1,14,34,7,9,10,32,36,LWDDWLWDLLDWWLWDLDWLDWLLDD,3,5,5,13,17,20,17,4,4,18,22,49,LWLLLWLDWLWLWLLWDLWDLWDWLW,3,1,9,9,24,LDWWLDLDLWDLD,LWLWWWWLDWWWW
+Lecce,Milan,1-4,/match/lecce/milan/2020,2020,27,serie_a,20,38,2,1,4,17,28,6,7,13,34,56,WLLLLLWDDDDWDLDWLLWDWWLWWL,2,5,6,19,26,9,39,10,6,10,28,34,WWLLWLLDWWLWDLLDWDLWLDWWDL,6,1,6,15,19,LLLDDDDLLDWWL,WLWLWWLLWLLWD
+Bologna,Juventus,0-2,/match/bologna/juventus-fc/2020,2020,27,serie_a,20,38,2,0,2,10,38,9,7,10,38,42,DWLLDWDWWWLWDLLWLDWDLWLLDW,4,5,4,18,20,1,68,20,3,3,50,24,LWDWLWLWDWLWLDWWLWLWWWWWLW,8,2,3,19,14,WLDWLDLWDDWLD,LDLLDLLWLLWWL
+Hellas Verona,Napoli,0-2,/match/hellas-verona-fc/napoli/2020,2020,27,serie_a,20,38,2,0,2,6,45,10,8,8,31,27,DLLWDDWWLLWWWLWDDLWDWDWDWW,7,3,3,19,13,7,40,11,6,9,41,36,LWWLLWDWDDWDDLDLLLWLWLLLLW,6,4,3,24,18,DLDWLWWLDWWWW,LWLDDWDDLWLLL
+SPAL,Cagliari,0-1,/match/spal-1907/cagliari/2020,2020,27,serie_a,20,38,2,0,1,19,19,5,3,18,20,44,LWWWLWWWDWLDDWLWLLWLLWLWLL,2,2,8,11,20,12,36,8,8,10,42,42,LLLWLDDWDWLWDWDLWWLDDDWLWL,3,6,4,17,19,LWLWDLDLLLLL,LLDDLDDWWDDWW
+Torino,Udinese,1-0,/match/torino-fc/udinese/2020,2020,27,serie_a,20,38,0,1,0,15,31,8,4,14,29,46,WLLWWWDWDWLLLLWDLLWWLWLWDW,4,3,6,12,23,13,35,7,7,12,21,37,WLWLDWWWWLLDWWDWWLWWWLDDDD,2,3,8,11,25,WLWDDLLWLWLLD,WDWWLWWWLWWDD
+Genoa,Parma,1-4,/match/genoa/parma-fc/2020,2020,27,serie_a,20,38,2,1,4,18,28,6,7,13,31,47,DWLWDWLWWWLDDLDLWWWLDDWLLL,4,1,7,14,18,8,39,10,6,10,33,32,LLLWWWWWDLDWDLLLDWWWWDLLDL,4,5,4,16,20,WLDLWLLLWLWL,LWWDDDLLWWDLD
+Inter,Sassuolo,3-3,/match/internazionale/us-sassuolo-calcio/2020,2020,27,serie_a,20,38,1,3,3,3,60,17,6,3,51,25,WLWLWLLLDLLWLWDDWLDDDLWWWW,8,4,1,25,11,11,36,9,5,12,42,43,WWWWWLLLLLDWLDDDLWWWDWLLWW,3,4,6,14,21,WWWLDWWDWDDWW,WWWLLDDDWWDLW
+Atalanta,Lazio,3-2,/match/atalanta/lazio/2020,2020,27,serie_a,20,38,0,3,2,4,52,15,6,5,74,35,LLLDLLWDWDLDLLWWWWDLLDLWWL,7,2,4,37,20,2,68,19,5,2,60,23,LDWWWWDDLWLWLWWLDLWWDWLWLW,8,2,2,21,13,LDWWLLWWWLDWW,LWWDLLLLLDLL
+Roma,Sampdoria,2-1,/match/roma/sampdoria/2020,2020,27,serie_a,20,38,0,2,1,5,47,13,6,7,51,35,DDWLLLDDWLWWWLDWLLLLDWLWWL,6,3,4,26,19,16,31,7,5,14,29,46,LWWWWLWDWDLDWWLLLDWWDLLLWW,3,1,8,13,24,DWLDWWWWLLDLW,WWWWWLWLDWLW
+Juventus,Lecce,4-0,/match/juventus-fc/lecce/2020,2020,28,serie_a,20,38,0,4,0,1,70,21,3,3,52,24,LWDWLWLWDWLWLDWWLWLWWWWWLWL,12,1,0,31,10,17,28,6,7,14,35,60,WLLLLLWDDDDWDLDWLLWDWWLWWLL,4,2,7,15,30,WWWWWWDWWWWWW,WLLWDDWLWWWLW
+Brescia,Genoa,2-2,/match/brescia/genoa/2020,2020,28,serie_a,20,38,1,2,2,20,18,4,5,18,23,50,LWLLLWLDWLWLWLLWDLWDLWDWLWD,1,3,9,13,25,18,28,6,7,14,32,51,DWLWDWLWWWLDDLDLWWWLDDWLLLL,2,6,6,17,29,LLLDLLLWLDLDL,DWWWWDDDWWDDLL
+Cagliari,Torino,4-2,/match/cagliari/torino-fc/2020,2020,28,serie_a,20,38,0,4,2,10,38,9,8,10,43,42,LLLWLDDWDWLWDWDLWWLDDDWLWLL,5,2,6,25,23,15,35,9,4,14,30,46,WLLWWWDWDWLLLLWDLLWWLWLWDWW,4,1,8,17,23,LLWDWWWWLLDLL,LWWWWLLDLWWWW
+Lazio,Fiorentina,2-1,/match/lazio/fiorentina/2020,2020,28,serie_a,20,38,0,2,1,2,68,19,5,3,62,26,LDWWWWDDLWLWLWWLDLWWDWLWLWW,11,3,0,39,10,13,36,7,10,10,33,37,LWDDWLWDLLDWWLWDLDWLDWLLDDD,4,4,5,19,19,DWWDWWWWDWWWWW,WDLDLWWWDLWLD
+Milan,Roma,2-0,/match/milan/roma/2020,2020,28,serie_a,20,38,0,2,0,9,41,11,6,10,32,35,WWLLWLLDWWLWDLLDWDLWLDWWDLL,4,5,4,13,15,5,51,14,6,7,53,36,DDWLLLDDWLWWWLDWLLLLDWLWWLW,7,3,3,25,16,WLLDWLDDDWDWL,DLLDLWLDLLWWL
+Sassuolo,Hellas Verona,3-3,/match/us-sassuolo-calcio/hellas-verona-fc/2020,2020,28,serie_a,20,38,1,3,3,12,37,9,6,12,45,46,WWWWWLLLLLDWLDDDLWWWDWLLWWD,6,1,6,28,22,6,45,10,8,9,31,29,DLLWDDWWLLWWWLWDDLWDWDWDWWL,3,5,5,12,14,WWLLLWLDLWWLW,LWDWLWWDLDDDW
+Sampdoria,Bologna,1-2,/match/sampdoria/bologna/2020,2020,28,serie_a,20,38,2,1,2,16,31,7,5,15,30,48,LWWWWLWDWDLDWWLLLDWWDLLLWWW,4,4,6,16,22,11,38,9,7,11,38,44,DWLLDWDWWWLWDLLWLDWDLWLLDWL,5,2,6,20,22,LWLDDDWLLWDLLW,DLDWWWWLLWLLW
+Napoli,SPAL,3-1,/match/napoli/spal-1907/2020,2020,28,serie_a,20,38,0,3,1,7,42,12,6,9,43,36,LWWLLWDWDDWDDLDLLLWLWLLLLWL,5,2,6,17,18,19,19,5,3,19,20,45,LWWWLWWWDWLDDWLWLLWLLWLWLLL,3,1,10,9,24,WLWWDDLLLLWLW,WWWWWDWWLWLWWL
+Udinese,Atalanta,2-3,/match/udinese/atalanta/2020,2020,28,serie_a,20,38,2,2,3,14,35,7,7,13,21,38,WLWLDWWWWLLDWWDWWLWWWLDDDDW,5,4,4,10,12,4,56,16,6,5,77,37,LLLDLLWDWDLDLLWWWWDLLDLWWLW,8,4,1,37,15,WLLWWLDDWWLDD,LLLLDDDLWDLLL
+Parma,Inter,1-2,/match/parma-fc/internazionale/2020,2020,28,serie_a,20,38,2,1,2,8,41,11,6,10,37,33,LLLWWWWWDLDWDLLLDWWWWDLLDLL,6,1,6,17,12,3,62,17,7,3,54,28,WLWLWLLLDLLWLWDDWLDDDLWWWWD,9,2,2,26,14,LLWWWLWLDWWLL,LLLLLLLDLDLWW
+Torino,Lazio,1-2,/match/torino-fc/lazio/2020,2020,29,serie_a,20,38,2,1,2,15,35,9,4,15,32,50,WLLWWWDWDWLLLLWDLLWWLWLWDWWW,5,3,6,13,23,2,72,20,5,3,64,27,LDWWWWDDLWLWLWWLDLWWDWLWLWWW,8,2,3,23,16,WLWDDLLWLWLLDW,LWWDLLLLLDLLW
+Genoa,Juventus,1-3,/match/genoa/juventus-fc/2020,2020,29,serie_a,20,38,2,1,3,17,29,6,8,14,34,53,DWLWDWLWWWLDDLDLWWWLDDWLLLLD,4,1,8,15,22,1,74,22,3,3,56,24,LWDWLWLWDWLWLDWWLWLWWWWWLWLW,9,2,3,21,14,WLDLWLLLWLWLL,LDLLDLLWLLWWLL
+Inter,Brescia,6-0,/match/internazionale/brescia/2020,2020,29,serie_a,20,38,0,6,0,3,64,18,7,3,56,29,WLWLWLLLDLLWLWDDWLDDDLWWWWDL,8,5,1,28,14,19,20,4,6,18,25,52,LWLLLWLDWLWLWLLWDLWDLWDWLWDD,3,2,9,10,25,WWWLDWWDWDDWWD,LWLWWWWLDWWWWD
+Bologna,Cagliari,1-1,/match/bologna/cagliari/2020,2020,29,serie_a,20,38,1,1,1,11,40,10,7,11,40,45,DWLLDWDWWWLWDLLWLDWDLWLLDWLL,4,5,5,18,22,9,42,10,8,10,47,44,LLLWLDDWDWLWDWDLWWLDDDWLWLLW,4,6,4,18,19,WLDWLDLWDDWLDL,LLDDLDDWWDDWWL
+SPAL,Milan,2-2,/match/spal-1907/milan/2020,2020,29,serie_a,20,38,1,2,2,20,19,5,3,20,21,48,LWWWLWWWDWLDDWLWLLWLLWLWLLLW,2,2,9,11,21,8,45,12,6,10,34,35,WWLLWLLDWWLWDLLDWDLWLDWWDLLW,7,1,6,19,20,LWLWDLDLLLLLL,WLWLWWLLWLLWDL
+Lecce,Sampdoria,1-2,/match/lecce/sampdoria/2020,2020,29,serie_a,20,38,2,1,2,18,28,6,7,15,35,64,WLLLLLWDDDDWDLDWLLWDWWLWWLLW,2,5,7,20,30,16,31,7,5,16,31,50,LWWWWLWDWDLDWWLLLDWWDLLLWWWL,3,1,9,14,26,LLLDDDDLLDWWLL,WWWWWLWLDWLWW
+Hellas Verona,Parma,3-2,/match/hellas-verona-fc/parma-fc/2020,2020,29,serie_a,20,38,0,3,2,6,46,10,9,9,34,32,DLLWDDWWLLWWWLWDDLWDWDWDWWLD,7,3,4,19,15,10,41,11,6,11,38,35,LLLWWWWWDLDWDLLLDWWWWDLLDLLL,5,5,4,20,21,DLDWLWWLDWWWWL,LWWDDDLLWWDLDL
+Fiorentina,Sassuolo,1-3,/match/fiorentina/us-sassuolo-calcio/2020,2020,29,serie_a,20,38,2,1,3,13,36,7,10,11,34,39,LWDDWLWDLLDWWLWDLDWLDWLLDDDW,3,6,5,14,18,12,39,9,7,12,48,49,WWWWWLLLLLDWLDDDLWWWDWLLWWDD,3,5,6,17,24,LDWWLDLDLWDLDD,WWWLLDDDWWDLWD
+Atalanta,Napoli,2-0,/match/atalanta/napoli/2020,2020,29,serie_a,20,38,0,2,0,4,58,17,6,5,80,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWL,8,2,4,40,22,7,46,13,6,9,46,37,LWWLLWDWDDWDDLDLLLWLWLLLLWLW,7,4,3,26,18,LDWWLLWWWLDWWW,LWLDDWDDLWLLLL
+Roma,Udinese,0-2,/match/roma/udinese/2020,2020,29,serie_a,20,38,2,0,2,5,51,14,6,8,53,38,DDWLLLDDWLWWWLDWLLLLDWLWWLWW,7,3,4,28,20,14,35,7,7,14,23,41,WLWLDWWWWLLDWWDWWLWWWLDDDDWL,2,3,9,11,26,DWLDWWWWLLDLWW,WDWWLWWWLWWDDW
+Juventus,Torino,4-1,/match/juventus-fc/torino-fc/2020,2020,30,serie_a,20,38,0,4,1,1,76,23,3,3,59,25,LWDWLWLWDWLWLDWWLWLWWWWWLWLWL,13,1,0,35,10,15,35,9,4,16,33,52,WLLWWWDWDWLLLLWDLLWWLWLWDWWWL,4,1,9,19,27,WWWWWWDWWWWWWW,LWWWWLLDLWWWWW
+Sassuolo,Lecce,4-2,/match/us-sassuolo-calcio/lecce/2020,2020,30,serie_a,20,38,0,4,2,12,41,10,7,12,51,50,WWWWWLLLLLDWLDDDLWWWDWLLWWDDL,6,2,6,31,25,18,28,6,7,16,36,66,WLLLLLWDDDDWDLDWLLWDWWLWWLLWL,4,2,8,15,34,WWLLLWLDLWWLWD,WLLWDDWLWWWLWW
+Lazio,Milan,0-3,/match/lazio/milan/2020,2020,30,serie_a,20,38,2,0,3,2,74,21,5,3,66,28,LDWWWWDDLWLWLWWLDLWWDWLWLWWWL,12,3,0,41,11,8,46,12,7,10,36,37,WWLLWLLDWWLWDLLDWDLWLDWWDLLWD,7,2,6,21,22,DWWDWWWWDWWWWWW,WLWLWWLLWLLWDLD
+Inter,Bologna,1-2,/match/internazionale/bologna/2020,2020,30,serie_a,20,38,2,1,2,3,68,19,7,3,62,29,WLWLWLLLDLLWLWDDWLDDDLWWWWDLW,9,5,1,34,14,10,42,10,8,11,41,46,DWLLDWDWWWLWDLLWLDWDLWLLDWLLD,6,2,6,22,23,WWWLDWWDWDDWWDW,DLDWWWWLLWLLWL
+Brescia,Hellas Verona,2-0,/match/brescia/hellas-verona-fc/2020,2020,30,serie_a,20,38,0,2,0,20,20,4,6,19,25,58,LWLLLWLDWLWLWLLWDLWDLWDWLWDDW,1,4,9,15,27,6,50,11,9,9,37,34,DLLWDDWWLLWWWLWDDLWDWDWDWWLDW,3,6,5,15,17,LLLDLLLWLDLDLD,LWDWLWWDLDDDWD
+Sampdoria,SPAL,3-0,/match/sampdoria/spal-1907/2020,2020,30,serie_a,20,38,0,3,0,16,33,8,5,16,33,51,LWWWWLWDWDLDWWLLLDWWDLLLWWWLL,4,4,7,17,24,19,21,5,4,20,23,50,LWWWLWWWDWLDDWLWLLWLLWLWLLLWD,3,1,11,10,27,LWLDDDWLLWDLLWL,WWWWWDWWLWLWWLW
+Parma,Fiorentina,1-2,/match/parma-fc/fiorentina/2020,2020,30,serie_a,20,38,2,1,2,11,41,11,6,12,40,38,LLLWWWWWDLDWDLLLDWWWWDLLDLLLW,6,1,7,18,14,14,36,7,10,12,35,42,LWDDWLWDLLDWWLWDLDWLDWLLDDDWL,4,4,6,20,21,LLWWWLWLDWWLLL,WDLDLWWWDLWLDW
+Udinese,Genoa,2-2,/match/udinese/genoa/2020,2020,30,serie_a,20,38,1,2,2,13,37,8,7,14,25,41,WLWLDWWWWLLDWWDWWLWWWLDDDDWLL,5,4,5,12,15,17,29,6,8,15,35,56,DWLWDWLWWWLDDLDLWWWLDDWLLLLDL,2,7,6,19,31,WLLWWLDDWWLDDL,DWWWWDDDWWDDLLD
+Cagliari,Atalanta,0-1,/match/cagliari/atalanta/2020,2020,30,serie_a,20,38,2,0,1,9,43,10,9,10,48,45,LLLWLDDWDWLWDWDLWWLDDDWLWLLWD,6,2,6,29,25,4,62,18,6,5,82,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWLW,9,4,1,40,17,LLWDWWWWLLDLLW,LLLLDDDLWDLLLL
+Napoli,Roma,2-1,/match/napoli/roma/2020,2020,30,serie_a,20,38,0,2,1,7,46,13,6,10,46,39,LWWLLWDWDDWDDLDLLLWLWLLLLWLWW,6,2,6,20,19,5,51,14,6,9,53,40,DDWLLLDDWLWWWLDWLLLLDWLWWLWWL,7,3,4,25,18,WLWWDDLLLLWLWW,DLLDLWLDLLWWLW
+Lecce,Lazio,2-1,/match/lecce/lazio/2020,2020,31,serie_a,20,38,0,2,1,18,28,6,7,17,38,70,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLW,2,5,8,21,32,2,74,21,5,4,66,31,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLL,9,2,3,25,17,LLLDDDDLLDWWLLL,LWWDLLLLLDLLWL
+Milan,Juventus,4-2,/match/milan/juventus-fc/2020,2020,31,serie_a,20,38,0,4,2,8,48,13,7,10,39,37,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDL,5,5,4,15,15,1,80,24,3,3,63,26,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLW,10,2,3,24,15,WLLDWLDDDWDWLW,LDLLDLLWLLWWLLL
+Genoa,Napoli,1-2,/match/genoa/napoli/2020,2020,31,serie_a,20,38,2,1,2,17,30,6,9,15,37,58,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLD,4,1,9,16,25,7,50,14,6,10,48,40,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWW,7,4,4,26,20,WLDLWLLLWLWLLL,LWLDDWDDLWLLLLW
+Fiorentina,Cagliari,0-0,/match/fiorentina/cagliari/2020,2020,31,serie_a,20,38,1,0,0,14,38,8,10,12,37,43,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLL,3,6,6,15,21,11,43,10,9,11,48,46,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDL,4,7,4,19,20,LDWWLDLDLWDLDDL,LLDDLDDWWDDWWLD
+Bologna,Sassuolo,1-2,/match/bologna/us-sassuolo-calcio/2020,2020,31,serie_a,20,38,2,1,2,10,44,11,8,11,43,47,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDL,4,6,5,19,23,9,45,11,7,12,55,52,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLW,4,5,6,20,25,WLDWLDLWDDWLDLD,WWWLLDDDWWDLWDL
+Atalanta,Sampdoria,2-0,/match/atalanta/sampdoria/2020,2020,31,serie_a,20,38,0,2,0,4,64,19,6,5,83,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWL,9,2,4,42,22,15,37,9,5,16,36,51,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLW,4,1,9,16,27,LDWWLLWWWLDWWWW,WWWWWLWLDWLWWL
+Roma,Parma,2-1,/match/roma/parma-fc/2020,2020,31,serie_a,20,38,0,2,1,5,51,14,6,10,54,42,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLW,7,3,5,28,22,12,41,11,6,13,41,40,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWL,5,5,5,22,24,DWLDWWWWLLDLWWL,LWWDDDLLWWDLDLW
+Torino,Brescia,3-1,/match/torino-fc/brescia/2020,2020,31,serie_a,20,38,0,3,1,16,35,9,4,17,34,56,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLW,5,3,7,14,25,19,24,5,6,19,27,58,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWW,3,2,10,10,31,WLWDDLLWLWLLDWL,LWLWWWWLDWWWWDW
+SPAL,Udinese,0-3,/match/spal-1907/udinese/2020,2020,31,serie_a,20,38,2,0,3,20,21,5,4,21,23,53,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDW,2,3,9,13,23,13,39,8,8,14,27,43,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLD,3,3,9,13,26,LWLWDLDLLLLLLD,WDWWLWWWLWWDDWL
+Hellas Verona,Inter,2-2,/match/hellas-verona-fc/internazionale/2020,2020,31,serie_a,20,38,1,2,2,6,50,11,9,10,37,36,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWW,8,3,4,22,17,3,68,19,7,4,63,31,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWL,10,2,2,28,15,DLDWLWWLDWWWWLW,LLLLLLLDLDLWWL
+Lazio,Sassuolo,1-2,/match/lazio/us-sassuolo-calcio/2020,2020,32,serie_a,20,38,2,1,2,2,74,21,5,5,67,33,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLW,12,3,1,41,14,9,47,12,7,12,57,53,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWL,5,5,6,22,26,DWWDWWWWDWWWWWWL,WWWLLDDDWWDLWDLL
+Brescia,Roma,0-3,/match/brescia/roma/2020,2020,32,serie_a,20,38,2,0,3,19,24,5,6,20,28,61,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWW,2,4,9,17,27,5,55,15,6,10,56,43,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWW,7,3,5,26,20,LLLDLLLWLDLDLDW,DLLDLWLDLLWWLWW
+Juventus,Atalanta,2-2,/match/juventus-fc/atalanta/2020,2020,32,serie_a,20,38,1,2,2,1,80,24,3,4,65,30,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWW,14,1,0,39,11,4,68,20,6,5,85,39,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLW,10,4,1,41,17,WWWWWWDWWWWWWWW,LLLLDDDLWDLLLLL
+Genoa,SPAL,2-0,/match/genoa/spal-1907/2020,2020,32,serie_a,20,38,0,2,0,18,30,6,9,16,38,60,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDL,4,1,10,17,27,20,21,5,4,22,23,56,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWL,3,1,12,10,30,WLDLWLLLWLWLLLL,WWWWWDWWLWLWWLWW
+Fiorentina,Hellas Verona,1-1,/match/fiorentina/hellas-verona-fc/2020,2020,32,serie_a,20,38,1,1,1,14,40,8,11,12,37,43,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLD,3,7,6,15,21,6,52,11,10,10,39,38,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWD,3,6,6,15,19,LDWWLDLDLWDLDDLD,LWDWLWWDLDDDWDW
+Cagliari,Lecce,0-0,/match/cagliari/lecce/2020,2020,32,serie_a,20,38,1,0,0,10,44,10,10,11,48,46,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLD,6,2,7,29,26,17,32,7,7,17,40,71,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWW,4,2,9,17,38,LLWDWWWWLLDLLWL,WLLWDDWLWWWLWWW
+Parma,Bologna,2-2,/match/parma-fc/bologna/2020,2020,32,serie_a,20,38,1,2,2,12,41,11,6,14,42,42,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLW,6,1,8,19,16,11,44,11,8,12,44,49,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLL,7,2,6,24,24,LLWWWLWLDWWLLLL,DLDWWWWLLWLLWLL
+Udinese,Sampdoria,1-3,/match/udinese/sampdoria/2020,2020,32,serie_a,20,38,2,1,3,13,41,9,8,14,30,43,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDL,5,5,5,14,17,16,37,9,5,17,36,53,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWW,4,1,10,16,29,WLLWWLDDWWLDDLD,WWWWWLWLDWLWWLW
+Napoli,Milan,2-2,/match/napoli/milan/2020,2020,32,serie_a,20,38,1,2,2,7,52,15,6,10,50,41,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWL,7,2,6,22,20,8,52,14,7,10,43,39,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLW,8,2,6,24,22,WLWWDDLLLLWLWWW,WLWLWWLLWLLWDLDL
+Inter,Torino,3-1,/match/internazionale/torino-fc/2020,2020,32,serie_a,20,38,0,3,1,3,69,19,8,4,65,33,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLD,9,5,2,35,16,15,39,10,4,17,37,57,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWW,4,1,10,20,31,WWWLDWWDWDDWWDWL,LWWWWLLDLWWWWWW
+Atalanta,Brescia,6-2,/match/atalanta/brescia/2020,2020,33,serie_a,20,38,0,6,2,4,69,20,7,5,87,41,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWD,10,2,4,44,22,19,24,5,6,21,28,64,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWL,3,2,11,11,34,LDWWLLWWWLDWWWWW,LWLWWWWLDWWWWDWW
+Milan,Parma,3-1,/match/milan/parma-fc/2020,2020,33,serie_a,20,38,0,3,1,8,53,14,8,10,45,41,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWD,6,5,4,19,17,12,43,11,7,14,44,44,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWD,5,5,6,23,26,WLLDWLDDDWDWLWW,LWWDDDLLWWDLDLWW
+Sampdoria,Cagliari,3-0,/match/sampdoria/cagliari/2020,2020,33,serie_a,20,38,0,3,0,16,39,10,5,17,39,54,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWL,5,4,7,20,24,10,46,10,11,11,48,46,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDD,4,8,4,19,20,LWLDDDWLLWDLLWLW,LLDDLDDWWDDWWLDD
+Bologna,Napoli,1-1,/match/bologna/napoli/2020,2020,33,serie_a,20,38,1,1,1,11,45,11,9,12,46,51,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLD,4,6,6,20,25,6,54,15,7,10,52,43,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLD,8,4,4,28,21,WLDWLDLWDDWLDLDL,LWLDDWDDLWLLLLWL
+Lecce,Fiorentina,1-3,/match/lecce/fiorentina/2020,2020,33,serie_a,20,38,2,1,3,18,33,7,8,17,40,71,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWD,3,5,8,23,33,13,42,8,12,12,38,44,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDD,5,4,6,22,22,LLLDDDDLLDWWLLLW,WDLDLWWWDLWLDWL
+Roma,Hellas Verona,2-1,/match/roma/hellas-verona-fc/2020,2020,33,serie_a,20,38,0,2,1,5,57,16,6,10,59,43,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWL,8,3,5,30,23,7,53,11,11,10,40,39,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDD,3,7,6,16,20,DWLDWWWWLLDLWWLW,LWDWLWWDLDDDWDWD
+Sassuolo,Juventus,3-3,/match/us-sassuolo-calcio/juventus-fc/2020,2020,33,serie_a,20,38,1,3,3,9,49,13,7,12,59,54,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLL,7,2,6,35,27,1,82,24,4,4,67,32,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWD,10,2,4,26,19,WWLLLWLDLWWLWDW,LDLLDLLWLLWWLLLW
+Udinese,Lazio,0-0,/match/udinese/lazio/2020,2020,33,serie_a,20,38,1,0,0,14,41,9,8,15,31,46,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLL,5,5,6,15,20,2,74,21,5,6,68,35,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWL,9,2,4,26,19,WLLWWLDDWWLDDLDL,LWWDLLLLLDLLWLW
+Torino,Genoa,3-0,/match/torino-fc/genoa/2020,2020,33,serie_a,20,38,0,3,0,15,39,10,4,18,38,60,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWW,6,3,7,17,26,17,34,7,9,16,40,60,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLW,2,8,6,21,33,WLWDDLLWLWLLDWLW,DWWWWDDDWWDDLLDD
+SPAL,Inter,0-4,/match/spal-1907/internazionale/2020,2020,33,serie_a,20,38,2,0,4,20,21,5,4,23,23,58,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLW,2,3,10,13,26,3,73,20,8,4,68,34,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDW,10,3,2,30,17,LWLWDLDLLLLLLDL,LLLLLLLDLDLWWLD
+Hellas Verona,Atalanta,1-1,/match/hellas-verona-fc/atalanta/2020,2020,34,serie_a,20,38,1,1,1,8,53,11,11,11,41,41,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDW,8,4,4,24,19,4,73,21,7,5,93,43,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDW,10,5,1,43,19,DLDWLWWLDWWWWLWD,LLLLDDDLWDLLLLLD
+Cagliari,Sassuolo,1-1,/match/cagliari/us-sassuolo-calcio/2020,2020,34,serie_a,20,38,1,1,1,11,46,10,11,12,48,49,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDW,6,3,7,29,26,9,51,13,8,12,62,57,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLD,6,5,6,24,27,LLWDWWWWLLDLLWLD,WWWLLDDDWWDLWDLLL
+Milan,Bologna,5-1,/match/milan/bologna/2020,2020,34,serie_a,20,38,0,5,1,6,57,15,8,10,48,42,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDW,7,5,4,22,18,10,47,11,10,12,47,52,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDD,7,3,6,26,26,WLLDWLDDDWDWLWWW,DLDWWWWLLWLLWLLD
+Parma,Sampdoria,2-3,/match/parma-fc/sampdoria/2020,2020,34,serie_a,20,38,2,2,3,13,43,11,7,15,45,47,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDW,6,2,8,21,18,16,43,11,5,17,42,54,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLW,5,1,10,19,30,LLWWWLWLDWWLLLLD,WWWWWLWLDWLWWLWL
+Brescia,SPAL,2-1,/match/brescia/spal-1907/2020,2020,34,serie_a,20,38,0,2,1,19,24,5,6,22,30,70,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLW,2,4,10,17,30,20,21,5,4,24,23,62,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWL,3,1,13,10,32,LLLDLLLWLDLDLDWL,WWWWWDWWLWLWWLWWW
+Fiorentina,Torino,2-0,/match/fiorentina/torino-fc/2020,2020,34,serie_a,20,38,0,2,0,12,44,9,12,12,41,45,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDL,3,8,6,16,22,15,43,11,4,18,41,60,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWW,4,1,11,21,34,LDWWLDLDLWDLDDLDD,LWWWWLLDLWWWWWWW
+Napoli,Udinese,2-1,/match/napoli/udinese/2020,2020,34,serie_a,20,38,0,2,1,7,55,15,8,10,53,44,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDD,7,3,6,24,22,14,43,9,9,15,31,46,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLD,4,3,9,16,26,WLWWDDLLLLWLWWWD,WDWWLWWWLWWDDWLL
+Genoa,Lecce,2-1,/match/genoa/lecce/2020,2020,34,serie_a,20,38,0,2,1,17,34,7,9,17,40,63,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWW,5,1,10,19,27,18,33,7,8,18,41,74,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDL,4,3,9,17,38,WLDLWLLLWLWLLLLW,WLLWDDWLWWWLWWWD
+Roma,Inter,2-2,/match/roma/internazionale/2020,2020,34,serie_a,20,38,1,2,2,5,61,17,6,10,61,44,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLW,9,3,5,32,24,3,75,21,8,4,72,34,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWL,11,3,2,34,17,DWLDWWWWLLDLWWLWW,LLLLLLLDLDLWWLDL
+Juventus,Lazio,2-1,/match/juventus-fc/lazio/2020,2020,34,serie_a,20,38,0,2,1,1,83,24,5,4,70,35,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDD,14,2,0,41,13,2,75,21,6,6,68,35,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLD,9,3,4,26,19,WWWWWWDWWWWWWWWD,LWWDLLLLLDLLWLWD
+Atalanta,Bologna,1-0,/match/atalanta/bologna/2020,2020,35,serie_a,20,38,0,1,0,4,74,21,8,5,94,44,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWD,11,2,4,50,24,12,47,11,10,13,48,57,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDW,7,3,7,27,31,LDWWLLWWWLDWWWWWW,DLDWWWWLLWLLWLLDW
+Sassuolo,Milan,1-2,/match/us-sassuolo-calcio/milan/2020,2020,35,serie_a,20,38,2,1,2,9,52,13,9,12,63,58,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDD,7,3,6,38,30,6,61,16,8,10,53,43,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWW,8,3,6,26,24,WWLLLWLDLWWLWDWD,WLWLWWLLWLLWDLDLD
+Parma,Napoli,2-1,/match/parma-fc/napoli/2020,2020,35,serie_a,20,38,0,2,1,14,43,11,7,16,47,50,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWL,6,2,9,23,21,7,59,16,8,10,55,45,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDW,8,5,4,29,22,LLWWWLWLDWWLLLLDL,LWLDDWDDLWLLLLWLD
+Torino,Hellas Verona,1-1,/match/torino-fc/hellas-verona-fc/2020,2020,35,serie_a,20,38,1,1,1,16,43,11,4,19,41,62,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWW,7,3,7,20,26,8,55,11,12,11,42,42,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWD,3,7,7,17,22,WLWDDLLWLWLLDWLWW,LWDWLWWDLDDDWDWDW
+SPAL,Roma,1-6,/match/spal-1907/roma/2020,2020,35,serie_a,20,38,2,1,6,20,21,5,4,25,24,64,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLW,2,3,11,13,30,5,63,17,7,10,63,46,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWD,8,3,5,29,20,LWLWDLDLLLLLLDLL,DLLDLWLDLLWWLWWL
+Sampdoria,Genoa,1-2,/match/sampdoria/genoa/2020,2020,35,serie_a,20,38,2,1,2,13,45,12,5,17,45,56,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWL,6,4,7,23,24,17,38,8,9,17,42,64,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWW,2,8,7,21,36,LWLDDDWLLWDLLWLWW,DWWWWDDDWWDDLLDDW
+Lecce,Brescia,3-1,/match/lecce/brescia/2020,2020,35,serie_a,20,38,0,3,1,18,33,7,8,19,42,76,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLW,3,5,9,24,36,19,28,6,6,22,32,71,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWW,3,2,12,13,40,LLLDDDDLLDWWLLLWL,LWLWWWWLDWWWWDWWW
+Inter,Fiorentina,0-0,/match/internazionale/fiorentina/2020,2020,35,serie_a,20,38,1,0,0,2,76,21,9,4,74,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLD,10,5,2,38,17,10,48,10,12,12,43,45,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLW,6,4,6,25,23,WWWLDWWDWDDWWDWLW,WDLDLWWWDLWLDWLL
+Udinese,Juventus,2-1,/match/udinese/juventus-fc/2020,2020,35,serie_a,20,38,0,2,1,15,43,9,9,16,32,48,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDW,5,6,6,15,20,1,87,25,5,4,72,36,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDW,10,3,4,29,22,WLLWWLDDWWLDDLDLD,LDLLDLLWLLWWLLLWD
+Lazio,Cagliari,2-1,/match/lazio/cagliari/2020,2020,35,serie_a,20,38,0,2,1,3,75,21,6,7,69,37,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDW,12,3,2,42,16,11,48,10,12,12,49,50,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWD,4,8,5,19,23,DWWDWWWWDWWWWWWLL,LLDDLDDWWDDWWLDDW
+Milan,Atalanta,1-1,/match/milan/atalanta/2020,2020,36,serie_a,20,38,1,1,1,6,63,17,8,10,55,44,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWWL,8,5,4,27,19,4,78,22,8,5,95,44,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWDW,10,6,1,44,20,WLLDWLDDDWDWLWWWW,LLLLDDDLWDLLLLLDD
+Brescia,Parma,1-2,/match/brescia/parma-fc/2020,2020,36,serie_a,20,38,2,1,2,19,28,6,6,23,33,74,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWWW,3,4,10,19,31,13,47,12,7,16,49,51,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWLW,5,5,7,24,29,LLLDLLLWLDLDLDWLW,LWWDDDLLWWDLDLWWW
+Genoa,Inter,0-3,/match/genoa/internazionale/2020,2020,36,serie_a,20,38,2,0,3,17,40,9,9,17,44,65,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWWL,6,1,10,21,28,3,78,21,10,4,74,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLDD,11,4,2,36,19,WLDLWLLLWLWLLLLWW,LLLLLLLDLDLWWLDLD
+Napoli,Sassuolo,2-0,/match/napoli/us-sassuolo-calcio/2020,2020,36,serie_a,20,38,0,2,0,7,59,16,8,11,56,47,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDWW,8,3,6,26,23,9,52,13,9,13,64,60,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDDL,6,6,6,25,28,WLWWDDLLLLWLWWWDW,WWWLLDDDWWDLWDLLLD
+Bologna,Lecce,3-2,/match/bologna/lecce/2020,2020,36,serie_a,20,38,0,3,2,12,47,11,10,14,48,58,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDWW,4,7,6,21,26,18,37,8,8,19,45,77,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLWW,4,3,10,18,40,WLDWLDLWDDWLDLDLD,WLLWDDWLWWWLWWWDW
+Cagliari,Udinese,0-1,/match/cagliari/udinese/2020,2020,36,serie_a,20,38,2,0,1,11,48,10,12,13,50,52,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWDW,6,4,7,30,27,14,47,10,9,16,34,49,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDWW,4,3,10,17,28,LLWDWWWWLLDLLWLDD,WDWWLWWWLWWDDWLLW
+Roma,Fiorentina,2-1,/match/roma/fiorentina/2020,2020,36,serie_a,20,38,0,2,1,5,65,18,7,10,69,47,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWDL,9,4,5,34,26,10,49,10,13,12,43,45,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLWD,6,5,6,25,23,DWLDWWWWLLDLWWLWWD,WDLDLWWWDLWLDWLLD
+SPAL,Torino,1-1,/match/spal-1907/torino-fc/2020,2020,36,serie_a,20,38,1,1,1,20,21,5,4,26,25,70,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLWL,2,3,12,14,36,16,45,11,5,19,42,63,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWWD,4,1,12,21,36,LWLWDLDLLLLLLDLLL,LWWWWLLDLWWWWWWWW
+Hellas Verona,Lazio,1-5,/match/hellas-verona-fc/lazio/2020,2020,36,serie_a,20,38,2,1,5,8,56,11,13,11,43,43,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWDD,8,5,4,25,20,2,79,22,6,7,71,38,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDWW,9,3,5,27,21,DLDWLWWLDWWWWLWDD,LWWDLLLLLDLLWLWDW
+Juventus,Sampdoria,2-0,/match/juventus-fc/sampdoria/2020,2020,36,serie_a,20,38,0,2,0,1,87,25,5,5,73,38,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDWW,15,2,0,43,14,15,45,12,5,18,46,58,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWLL,6,1,10,22,32,WWWWWWDWWWWWWWWDW,WWWWWLWLDWLWWLWLL
+Parma,Atalanta,1-2,/match/parma-fc/atalanta/2020,2020,37,serie_a,20,38,2,1,2,13,49,13,7,16,51,52,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWLWL,7,2,9,25,22,4,79,22,9,5,96,45,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWDWD,10,7,1,45,21,LLWWWLWLDWWLLLLDLW,LLLLDDDLWDLLLLLDDD
+Inter,Napoli,2-0,/match/internazionale/napoli/2020,2020,37,serie_a,20,38,0,2,0,3,80,22,10,4,77,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLDDL,10,6,2,38,17,7,63,17,8,11,58,47,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDWWW,8,5,5,30,24,WWWLDWWDWDDWWDWLWD,LWLDDWDDLWLLLLWLDW
+Hellas Verona,SPAL,3-0,/match/hellas-verona-fc/spal-1907/2020,2020,37,serie_a,20,38,0,3,0,8,56,11,13,12,44,48,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWDDL,8,5,5,26,25,20,23,5,5,26,26,71,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLWLD,3,1,14,11,34,DLDWLWWLDWWWWLWDDL,WWWWWDWWLWLWWLWWWW
+Udinese,Lecce,1-2,/match/udinese/lecce/2020,2020,37,serie_a,20,38,2,1,2,11,49,11,9,16,35,49,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDWWL,6,6,6,17,21,18,37,8,8,20,47,80,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLWWW,4,3,11,20,43,WLLWWLDDWWLDDLDLDW,WLLWDDWLWWWLWWWDWW
+Sassuolo,Genoa,5-0,/match/us-sassuolo-calcio/genoa/2020,2020,37,serie_a,20,38,0,5,0,9,52,13,9,14,64,62,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDDLW,7,3,7,39,32,17,40,9,9,18,44,68,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWWLL,3,8,7,23,37,WWLLLWLDLWWLWDWDL,DWWWWDDDWWDDLLDDWL
+Sampdoria,Milan,1-4,/match/sampdoria/milan/2020,2020,37,serie_a,20,38,2,1,4,16,45,12,5,19,46,60,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWLLW,6,4,8,24,26,6,65,17,9,10,56,45,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWWLD,9,3,6,28,25,LWLDDDWLLWDLLWLWWL,WLWLWWLLWLLWDLDLDL
+Lazio,Brescia,2-0,/match/lazio/brescia/2020,2020,37,serie_a,20,38,0,2,0,2,81,23,6,7,76,39,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDWWL,13,3,2,44,17,19,28,6,6,24,34,76,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWWWL,3,2,13,14,43,DWWDWWWWDWWWWWWLLW,LWLWWWWLDWWWWDWWWW
+Torino,Roma,2-3,/match/torino-fc/roma/2020,2020,37,serie_a,20,38,2,2,3,15,46,11,6,19,43,64,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWWDD,7,4,7,21,27,5,69,19,7,10,71,48,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWDLW,9,3,5,35,21,WLWDDLLWLWLLDWLWWD,DLLDLWLDLLWWLWWLL
+Fiorentina,Bologna,4-0,/match/fiorentina/bologna/2020,2020,37,serie_a,20,38,0,4,0,12,49,10,13,13,44,47,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLWDW,4,8,6,18,22,10,51,12,10,14,51,60,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDWWW,7,3,8,27,32,LDWWLDLDLWDLDDLDDW,DLDWWWWLLWLLWLLDWW
+Cagliari,Juventus,2-0,/match/cagliari/juventus-fc/2020,2020,37,serie_a,20,38,0,2,0,14,48,10,12,14,50,53,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWDWL,6,4,8,30,28,1,91,26,5,5,75,38,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDWWW,10,3,5,30,24,LLWDWWWWLLDLLWLDDL,LDLLDLLWLLWWLLLWDW
+Brescia,Sampdoria,1-1,/match/brescia/sampdoria/2020,2020,38,serie_a,20,38,1,1,1,19,28,6,6,25,34,78,LWLLLWLDWLWLWLLWDLWDLWDWLWDDWWWLWWWLW,3,4,11,20,33,16,45,12,5,20,47,64,LWWWWLWDWDLDWWLLLDWWDLLLWWWLLWWLWLLWL,6,1,11,22,34,LLLDLLLWLDLDLDWLWL,WWWWWLWLDWLWWLWLLW
+Milan,Cagliari,3-0,/match/milan/cagliari/2020,2020,38,serie_a,20,38,0,3,0,6,67,18,9,10,60,46,WWLLWLLDWWLWDLLDWDLWLDWWDLLWDLWDWWLDL,8,6,4,28,20,11,52,11,12,14,52,53,LLLWLDDWDWLWDWDLWWLDDDWLWLLWDLDDWDWLW,4,8,6,20,25,WLLDWLDDDWDWLWWWWD,LLDDLDDWWDDWWLDDWW
+Napoli,Lazio,3-1,/match/napoli/lazio/2020,2020,38,serie_a,20,38,0,3,1,7,63,17,8,12,58,49,LWWLLWDWDDWDDLDLLLWLWLLLLWLWWWLDDWWWW,9,3,6,28,23,2,85,24,6,7,78,39,LDWWWWDDLWLWLWWLDLWWDWLWLWWWLLWLDWWLW,10,3,5,32,22,WLWWDDLLLLWLWWWDWW,LWWDLLLLLDLLWLWDWL
+Juventus,Roma,1-3,/match/juventus-fc/roma/2020,2020,38,serie_a,20,38,2,1,3,1,91,26,5,6,75,40,LWDWLWLWDWLWLDWWLWLWWWWWLWLWLWWDDWWWW,16,2,0,45,14,5,71,20,7,10,74,50,DDWLLLDDWLWWWLDWLLLLDWLWWLWWLWWLWDLWL,10,3,5,38,23,WWWWWWDWWWWWWWWDWW,DLLDLWLDLLWWLWWLLL
+Atalanta,Inter,0-2,/match/atalanta/internazionale/2020,2020,38,serie_a,20,38,2,0,2,4,81,23,9,5,98,46,LLLDLLWDWDLDLLWWWWDLLDLWWLWLWLWDWDWDL,12,2,4,51,24,3,84,23,10,4,79,36,WLWLWLLLDLLWLWDDWLDDDLWWWWDLWLDWLDDLW,12,4,2,39,19,LDWWLLWWWLDWWWWWWW,LLLLLLLDLDLWWLDLDL
+SPAL,Fiorentina,1-3,/match/spal-1907/fiorentina/2020,2020,38,serie_a,20,38,2,1,3,20,23,5,5,27,26,74,LWWWLWWWDWLDDWLWLLWLLWLWLLLWDWLWLWLDW,2,4,12,15,37,10,53,11,13,13,48,47,LWDDWLWDLLDWWLWDLDWLDWLLDDDWLLDDLWDWW,6,5,7,26,25,LWLWDLDLLLLLLDLLLD,WDLDLWWWDLWLDWLLDW
+Genoa,Hellas Verona,3-0,/match/genoa/hellas-verona-fc/2020,2020,38,serie_a,20,38,0,3,0,17,40,9,9,19,44,73,DWLWDWLWWWLDDLDLWWWLDDWLLLLDLDLWWWLLW,6,1,11,21,31,8,60,12,13,12,47,48,DLLWDDWWLLWWWLWDDLWDWDWDWWLDWWDDWDDLW,3,8,7,18,23,WLDLWLLLWLWLLLLWWL,LWDWLWWDLDDDWDWDWD
+Bologna,Torino,1-1,/match/bologna/torino-fc/2020,2020,38,serie_a,20,38,1,1,1,12,51,12,10,15,51,64,DWLLDWDWWWLWDLLWLDWDLWLLDWLLDLLDDWWWW,5,7,6,24,28,15,46,11,6,20,45,67,WLLWWWDWDWLLLLWDLLWWLWLWDWWWLWWWWWDDL,4,2,12,22,37,WLDWLDLWDDWLDLDLDW,LWWWWLLDLWWWWWWWWD
+Lecce,Parma,3-4,/match/lecce/parma-fc/2020,2020,38,serie_a,20,38,2,3,4,18,39,9,8,20,49,81,WLLLLLWDDDDWDLDWLLWDWWLWWLLWLWWDLWWWL,4,5,9,27,37,14,49,13,7,17,52,54,LLLWWWWWDLDWDLLLDWWWWDLLDLLLWLWDWLWLL,6,5,7,26,30,LLLDDDDLLDWWLLLWLW,LWWDDDLLWWDLDLWWWL
+Sassuolo,Udinese,0-1,/match/us-sassuolo-calcio/udinese/2020,2020,38,serie_a,20,38,2,0,1,9,56,14,9,14,69,62,WWWWWLLLLLDWLDDDLWWWDWLLWWDDLWLLDDLWW,8,3,7,44,32,13,49,11,9,17,36,51,WLWLDWWWWLLDWWDWWLWWWLDDDDWLLDLLDWWLL,5,3,10,18,28,WWLLLWLDLWWLWDWDLW,WDWWLWWWLWWDDWLLWL

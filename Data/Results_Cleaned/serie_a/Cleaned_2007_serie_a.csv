@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Roma,Livorno,2-0,/match/roma/livorno/2007,2007,1,serie_a,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Fiorentina,Inter,2-3,/match/fiorentina/internazionale/2007,2007,1,serie_a,20,38,2,2,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sampdoria,Empoli,1-2,/match/sampdoria/empoli-fc/2007,2007,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Palermo FC,Reggina,4-3,/match/palermo/reggina/2007,2007,1,serie_a,20,38,0,4,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Messina,Udinese,1-0,/match/messina/udinese/2007,2007,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Chievo,Siena,1-2,/match/chievo/siena/2007,2007,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Cagliari,Catania,0-1,/match/cagliari/catania/2007,2007,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Atalanta,Ascoli,3-1,/match/atalanta/ascoli/2007,2007,1,serie_a,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Milan,Lazio,2-1,/match/milan/lazio/2007,2007,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Torino,Parma,1-1,/match/torino-fc/parma-fc/2007,2007,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Reggina,Cagliari,2-1,/match/reggina/cagliari/2007,2007,2,serie_a,20,38,0,2,1,13,0,0,1,3,4,W,0,0,0,0,0,17,0,0,1,0,1,L,0,0,0,0,0,,
-Inter,Sampdoria,1-1,/match/internazionale/sampdoria/2007,2007,2,serie_a,20,38,1,1,1,10,1,0,0,3,2,L,0,0,0,0,0,18,0,0,1,1,2,L,0,0,0,0,0,,
-Siena,Roma,1-3,/match/siena/roma/2007,2007,2,serie_a,20,38,2,1,3,7,1,0,0,2,1,L,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
-Livorno,Fiorentina,1-0,/match/livorno/fiorentina/2007,2007,2,serie_a,20,38,0,1,0,15,0,0,1,0,2,W,0,0,0,0,0,16,0,0,1,2,3,L,0,0,0,0,0,,
-Lazio,Palermo FC,1-2,/match/lazio/palermo/2007,2007,2,serie_a,20,38,2,1,2,12,0,0,1,1,2,W,0,0,0,0,0,5,1,0,0,4,3,W,0,0,0,0,0,,
-Empoli,Chievo,1-1,/match/empoli-fc/chievo/2007,2007,2,serie_a,20,38,1,1,1,6,1,0,0,2,1,L,0,0,0,0,0,14,0,0,1,1,2,L,0,0,0,0,0,,
-Catania,Atalanta,0-0,/match/catania/atalanta/2007,2007,2,serie_a,20,38,1,0,0,8,1,0,0,1,0,L,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
-Ascoli,Messina,1-1,/match/ascoli/messina/2007,2007,2,serie_a,20,38,1,1,1,19,0,0,1,1,3,W,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
-Udinese,Torino,2-0,/match/udinese/torino-fc/2007,2007,2,serie_a,20,38,0,2,0,20,0,0,1,0,1,W,0,0,0,0,0,9,0,1,0,1,1,D,0,0,0,0,0,,
-Parma,Milan,0-2,/match/parma-fc/milan/2007,2007,2,serie_a,20,38,2,0,2,11,0,1,0,1,1,D,0,0,0,0,0,4,1,0,0,2,1,W,0,0,0,0,0,,
-Milan,Ascoli,1-0,/match/milan/ascoli/2007,2007,3,serie_a,20,38,0,1,0,2,2,0,0,4,1,WL,1,0,0,2,1,14,0,1,1,2,4,WD,0,0,1,1,3,W,W
-Sampdoria,Udinese,3-3,/match/sampdoria/udinese/2007,2007,3,serie_a,20,38,1,3,3,16,0,1,1,2,3,LD,0,0,1,1,2,9,1,0,1,2,1,WW,0,0,1,0,1,L,W
-Palermo FC,Catania,5-3,/match/palermo/catania/2007,2007,3,serie_a,20,38,0,5,3,3,2,0,0,6,4,WL,1,0,0,4,3,10,1,1,0,1,0,LD,1,0,0,1,0,W,L
-Messina,Reggina,2-0,/match/messina/reggina/2007,2007,3,serie_a,20,38,0,2,0,4,1,1,0,2,1,WD,1,0,0,1,0,8,1,0,1,5,5,WW,0,0,1,3,4,W,W
-Fiorentina,Parma,1-0,/match/fiorentina/parma-fc/2007,2007,3,serie_a,20,38,0,1,0,19,0,0,2,2,4,LW,0,0,1,2,3,17,0,1,1,1,3,DL,0,1,0,1,1,L,D
-Chievo,Lazio,0-1,/match/chievo/lazio/2007,2007,3,serie_a,20,38,2,0,1,15,0,1,1,2,3,LD,0,0,1,1,2,18,0,0,2,2,4,WL,0,0,1,1,2,L,W
-Cagliari,Livorno,2-2,/match/cagliari/livorno/2007,2007,3,serie_a,20,38,1,2,2,20,0,0,2,1,3,LW,0,0,1,0,1,7,1,0,1,1,2,WW,0,0,1,0,2,L,W
-Atalanta,Empoli,0-0,/match/atalanta/empoli-fc/2007,2007,3,serie_a,20,38,1,0,0,5,1,1,0,3,1,WD,1,0,0,3,1,11,1,1,0,3,2,LD,1,0,0,2,1,W,L
-Roma,Inter,0-1,/match/roma/internazionale/2007,2007,3,serie_a,20,38,2,0,1,1,2,0,0,5,1,WL,1,0,0,2,0,6,1,1,0,4,3,LD,1,0,0,3,2,W,L
-Torino,Siena,1-2,/match/torino-fc/siena/2007,2007,3,serie_a,20,38,2,1,2,12,0,1,1,1,3,DW,0,1,0,1,1,13,1,0,1,3,4,LL,1,0,0,2,1,D,L
-Livorno,Milan,0-0,/match/livorno/milan/2007,2007,4,serie_a,20,38,1,0,0,9,1,1,1,3,4,WWD,1,0,0,1,0,2,3,0,0,5,1,WLW,1,0,0,2,0,W,L
-Catania,Messina,2-2,/match/catania/messina/2007,2007,4,serie_a,20,38,1,2,2,11,1,1,1,4,5,LDW,0,1,0,0,0,3,2,1,0,4,1,WDW,0,1,0,1,1,D,D
-Siena,Cagliari,0-0,/match/siena/cagliari/2007,2007,4,serie_a,20,38,1,0,0,12,2,0,1,5,5,LLL,0,0,1,1,3,18,0,1,2,3,5,LWD,0,0,1,1,2,L,W
-Reggina,Torino,1-1,/match/reggina/torino-fc/2007,2007,4,serie_a,20,38,1,1,1,10,1,0,2,5,7,WWW,1,0,0,2,1,15,0,1,2,2,5,DWL,0,0,1,0,2,W,W
-Parma,Roma,0-4,/match/parma-fc/roma/2007,2007,4,serie_a,20,38,2,0,4,20,0,1,2,1,4,DLW,0,0,1,0,2,5,2,0,1,5,2,WLL,1,0,0,3,1,L,L
-Lazio,Atalanta,1-0,/match/lazio/atalanta/2007,2007,4,serie_a,20,38,0,1,0,17,1,0,2,3,4,WLL,0,0,1,1,2,4,1,2,0,3,1,WDD,0,1,0,0,0,L,D
-Inter,Chievo,4-3,/match/internazionale/chievo/2007,2007,4,serie_a,20,38,0,4,3,6,2,1,0,5,3,LDL,0,1,0,1,1,19,0,1,2,2,4,LDL,0,1,0,1,1,D,D
-Empoli,Palermo FC,2-0,/match/empoli-fc/palermo/2007,2007,4,serie_a,20,38,0,2,0,8,1,2,0,3,2,LDD,0,1,0,1,1,1,3,0,0,11,7,WLW,1,0,0,2,1,D,L
-Ascoli,Sampdoria,1-1,/match/ascoli/sampdoria/2007,2007,4,serie_a,20,38,1,1,1,16,0,1,2,2,5,WDW,0,1,0,1,1,14,0,2,1,5,6,LDD,0,1,0,1,1,D,D
-Udinese,Fiorentina,1-0,/match/udinese/fiorentina/2007,2007,4,serie_a,20,38,0,1,0,7,1,1,1,5,4,WWD,1,0,0,2,0,13,1,0,2,3,4,LWW,0,0,1,0,1,W,W
-Atalanta,Reggina,1-1,/match/atalanta/reggina/2007,2007,5,serie_a,20,38,1,1,1,8,1,2,1,3,2,WDDW,1,1,0,3,1,13,1,1,2,6,8,WWWD,0,0,2,3,6,WD,WW
-Torino,Lazio,0-4,/match/torino-fc/lazio/2007,2007,5,serie_a,20,38,2,0,4,17,0,2,2,3,6,DWLD,0,1,1,2,3,11,2,0,2,4,4,WLLW,1,0,1,2,2,DL,WL
-Sampdoria,Parma,3-2,/match/sampdoria/parma-fc/2007,2007,5,serie_a,20,38,0,3,2,15,0,3,1,6,7,LDDD,0,1,1,4,5,20,0,1,3,1,8,DLWL,0,1,1,1,2,LD,DW
-Messina,Livorno,0-1,/match/messina/livorno/2007,2007,5,serie_a,20,38,2,0,1,3,2,2,0,6,3,WDWD,2,0,0,3,0,9,1,2,1,3,4,WWDD,0,1,1,2,4,WW,WD
-Fiorentina,Catania,3-0,/match/fiorentina/catania/2007,2007,5,serie_a,20,38,0,3,0,14,1,0,3,3,5,LWWW,1,0,1,3,3,12,1,2,1,6,7,LDWD,1,0,1,4,5,LW,LW
-Udinese,Ascoli,0-0,/match/udinese/ascoli/2007,2007,5,serie_a,20,38,1,0,0,5,2,1,1,6,4,WWDW,2,0,0,3,0,16,0,2,2,3,6,WDWD,0,0,2,1,4,WW,WW
-Cagliari,Inter,1-1,/match/cagliari/internazionale/2007,2007,5,serie_a,20,38,1,1,1,18,0,2,2,3,5,LWDD,0,1,1,2,3,4,3,1,0,9,6,LDLW,2,0,0,4,2,LD,LL
-Roma,Empoli,1-0,/match/roma/empoli-fc/2007,2007,5,serie_a,20,38,0,1,0,7,3,0,1,9,2,WLLL,1,0,1,2,1,6,2,2,0,5,2,LDDW,1,1,0,2,1,WL,LD
-Milan,Siena,0-0,/match/milan/siena/2007,2007,5,serie_a,20,38,1,0,0,1,3,1,0,5,1,WLWD,2,0,0,3,1,10,2,1,1,5,5,LLLD,2,0,0,4,2,WW,LL
-Chievo,Palermo FC,0-1,/match/chievo/palermo/2007,2007,5,serie_a,20,38,2,0,1,19,0,1,3,5,8,LDLW,0,0,2,1,3,2,3,0,1,11,9,WLWW,1,0,1,2,3,LL,LW
-Sampdoria,Milan,1-1,/match/sampdoria/milan/2007,2007,6,serie_a,20,38,1,1,1,11,1,3,1,9,9,LDDDW,1,1,1,7,7,1,3,2,0,5,1,WLWDD,1,1,0,2,0,LDW,LD
-Siena,Messina,3-1,/match/siena/messina/2007,2007,6,serie_a,20,38,0,3,1,14,2,2,1,5,5,LLLDD,0,1,1,1,3,6,2,2,1,6,4,WDWDL,0,2,0,3,3,LD,DD
-Reggina,Roma,1-0,/match/reggina/roma/2007,2007,6,serie_a,20,38,0,1,0,13,1,2,2,7,9,WWWDD,1,1,0,3,2,2,4,0,1,10,2,WLLLW,2,0,0,7,1,WD,LL
-Parma,Udinese,0-3,/match/parma-fc/udinese/2007,2007,6,serie_a,20,38,2,0,3,20,0,1,4,3,11,DLWLW,0,0,2,0,6,5,2,2,1,6,4,WWDWD,0,1,1,3,4,LL,WD
-Palermo FC,Atalanta,2-3,/match/palermo/atalanta/2007,2007,6,serie_a,20,38,2,2,3,3,4,0,1,12,9,WLWWL,2,0,0,9,6,8,1,3,1,4,3,WDDWD,0,1,1,0,1,WW,DW
-Torino,Chievo,1-0,/match/torino-fc/chievo/2007,2007,6,serie_a,20,38,0,1,0,18,0,2,3,3,10,DWLDL,0,1,2,2,7,19,0,1,4,5,9,LDLWL,0,1,1,4,5,DLL,DW
-Inter,Catania,2-1,/match/internazionale/catania/2007,2007,6,serie_a,20,38,0,2,1,4,3,2,0,10,7,LDLWD,1,1,0,5,4,15,1,2,2,6,10,LDWDW,1,0,2,4,8,DW,LWW
-Empoli,Fiorentina,1-2,/match/empoli-fc/fiorentina/2007,2007,6,serie_a,20,38,2,1,2,7,2,2,1,5,3,LDDWW,1,1,0,3,1,10,2,0,3,6,5,LWWWW,0,0,2,0,2,DW,WW
-Ascoli,Livorno,0-2,/match/ascoli/livorno/2007,2007,6,serie_a,20,38,2,0,2,16,0,3,2,3,6,WDWDD,0,2,0,2,2,9,2,2,1,4,4,WWDDL,1,1,1,3,4,DD,WDL
-Lazio,Cagliari,0-0,/match/lazio/cagliari/2007,2007,6,serie_a,20,38,1,0,0,12,3,0,2,8,4,WLLWL,1,0,1,2,2,17,0,3,2,4,6,LWDDD,0,1,1,1,2,LW,WD
-Messina,Empoli,2-2,/match/messina/empoli-fc/2007,2007,7,serie_a,20,38,1,2,2,13,2,2,2,7,7,WDWDLW,2,0,1,3,1,14,2,2,2,6,5,LDDWWL,1,1,1,2,2,WWL,LDW
-Cagliari,Torino,0-0,/match/cagliari/torino-fc/2007,2007,7,serie_a,20,38,1,0,0,17,0,4,2,4,6,LWDDDD,0,2,1,3,4,15,1,2,3,4,10,DWLDLW,0,1,1,1,3,LDD,WD
-Parma,Ascoli,1-0,/match/parma-fc/ascoli/2007,2007,7,serie_a,20,38,0,1,0,20,0,1,5,3,14,DLWLWL,0,0,3,0,9,18,0,3,3,3,8,WDWDDL,0,1,2,1,4,LLL,WWD
-Livorno,Siena,0-0,/match/livorno/siena/2007,2007,7,serie_a,20,38,1,0,0,9,3,2,1,6,4,WWDDLL,1,1,0,1,0,6,3,2,1,8,6,LLLDDW,2,1,0,4,2,WD,LLD
-Fiorentina,Reggina,3-0,/match/fiorentina/reggina/2007,2007,7,serie_a,20,38,0,3,0,12,3,0,3,8,6,LWWWWL,2,0,1,6,3,7,2,2,2,8,9,WWWDDW,0,1,2,4,7,LWW,WWD
-Catania,Lazio,3-1,/match/catania/lazio/2007,2007,7,serie_a,20,38,0,3,1,16,1,2,3,7,12,LDWDWW,0,2,0,2,2,10,3,1,2,8,4,WLLWLD,2,0,1,6,2,DD,WLL
-Atalanta,Sampdoria,3-2,/match/atalanta/sampdoria/2007,2007,7,serie_a,20,38,0,3,2,8,2,3,1,7,5,WDDWDL,1,2,0,4,2,11,1,4,1,10,10,LDDDWD,0,2,0,2,2,WDD,DD
-Roma,Chievo,1-1,/match/roma/chievo/2007,2007,7,serie_a,20,38,1,1,1,4,4,0,2,10,3,WLLLWW,2,0,1,3,1,19,0,1,5,5,10,LDLWLW,0,1,2,4,6,WLW,DWW
-Udinese,Inter,0-0,/match/udinese/internazionale/2007,2007,7,serie_a,20,38,1,0,0,3,3,2,1,9,4,WWDWDL,2,1,0,3,0,1,4,2,0,12,8,LDLWDW,2,1,0,5,3,WWD,LLD
-Milan,Palermo FC,0-2,/match/milan/palermo/2007,2007,7,serie_a,20,38,2,0,2,2,3,3,0,6,2,WLWDDD,2,1,0,3,1,5,4,0,2,14,12,WLWWLL,2,0,1,3,3,WWD,LWL
-Roma,Ascoli,2-2,/match/roma/ascoli/2007,2007,8,serie_a,20,38,1,2,2,4,4,1,2,11,4,WLLLWWD,2,1,1,4,2,18,0,3,4,3,9,WDWDDLW,0,1,3,1,5,WLWD,WWDW
-Siena,Catania,1-1,/match/siena/catania/2007,2007,8,serie_a,20,38,1,1,1,9,3,3,1,8,6,LLLDDWD,1,1,1,4,4,13,2,2,3,10,13,LDWDWWW,1,0,3,5,10,LDW,LWWW
-Sampdoria,Lazio,2-0,/match/sampdoria/lazio/2007,2007,8,serie_a,20,38,0,2,0,14,1,4,2,12,13,LDDDWDW,1,2,1,8,8,15,3,1,3,9,7,WLLWLDW,2,0,2,7,5,LDWD,WLLW
-Reggina,Parma,3-2,/match/reggina/parma-fc/2007,2007,8,serie_a,20,38,0,3,2,11,2,2,3,8,12,WWWDDWW,2,1,0,4,2,19,1,1,5,4,14,DLWLWLW,0,1,2,3,5,WDW,DWW
-Palermo FC,Messina,2-1,/match/palermo/messina/2007,2007,8,serie_a,20,38,0,2,1,5,5,0,2,16,12,WLWWLLL,2,0,1,11,9,10,2,3,2,9,9,WDWDLWD,0,2,1,4,6,WWL,DDW
-Inter,Livorno,4-1,/match/internazionale/livorno/2007,2007,8,serie_a,20,38,0,4,1,1,4,3,0,12,8,LDLWDWD,2,1,0,7,5,8,3,3,1,6,4,WWDDLLD,2,1,1,5,4,DWW,WDLL
-Empoli,Udinese,1-1,/match/empoli-fc/udinese/2007,2007,8,serie_a,20,38,1,1,1,12,2,3,2,8,7,LDDWWLD,1,1,1,4,3,2,3,3,1,9,4,WWDWDLD,1,1,1,6,4,DWL,WDL
-Chievo,Milan,0-1,/match/chievo/milan/2007,2007,8,serie_a,20,38,2,0,1,20,0,2,5,6,11,LDLWLWD,0,0,3,1,4,6,3,3,1,6,4,WLWDDDL,1,2,0,3,1,LLL,LDD
-Atalanta,Cagliari,3-3,/match/atalanta/cagliari/2007,2007,8,serie_a,20,38,1,3,3,3,3,3,1,10,7,WDDWDLW,2,2,0,7,4,17,0,5,2,4,6,LWDDDDD,0,2,1,1,2,WDDW,WDD
-Torino,Fiorentina,0-1,/match/torino-fc/fiorentina/2007,2007,8,serie_a,20,38,2,0,1,16,1,3,3,4,10,DWLDLWD,1,1,2,3,7,7,4,0,3,11,6,LWWWWLW,1,0,2,2,3,DLLW,WWL
-Udinese,Roma,0-1,/match/udinese/roma/2007,2007,9,serie_a,20,38,2,0,1,4,3,4,1,10,5,WWDWDLDD,2,2,0,3,0,5,4,2,2,13,6,WLLLWWDD,2,0,1,7,2,WWDD,LLW
-Milan,Inter,3-4,/match/milan/internazionale/2007,2007,9,serie_a,20,38,2,3,4,6,4,3,1,7,4,WLWDDDLL,2,1,1,3,3,1,5,3,0,16,9,LDLWDWDW,2,2,0,5,3,WWDL,LLDD
-Messina,Chievo,2-1,/match/messina/chievo/2007,2007,9,serie_a,20,38,0,2,1,12,2,3,3,10,11,WDWDLWDW,2,1,1,5,3,20,0,2,6,6,12,LDLWLWDL,0,2,2,5,7,WWLD,DWWD
-Lazio,Reggina,0-0,/match/lazio/reggina/2007,2007,9,serie_a,20,38,1,0,0,15,3,1,4,9,9,WLLWLDWW,1,1,1,2,2,8,3,2,3,11,14,WWWDDWWW,0,1,3,4,10,LWD,WWDW
-Fiorentina,Palermo FC,2-3,/match/fiorentina/palermo/2007,2007,9,serie_a,20,38,2,2,3,7,5,0,3,12,6,LWWWWLWL,3,0,1,9,3,2,6,0,2,18,13,WLWWLLLW,3,0,1,5,3,LWWW,LWLL
-Catania,Torino,1-1,/match/catania/torino-fc/2007,2007,9,serie_a,20,38,1,1,1,14,2,3,3,11,14,LDWDWWWD,1,2,0,5,3,17,1,3,4,4,11,DWLDLWDL,0,2,1,1,3,DDW,WDD
-Cagliari,Sampdoria,1-0,/match/cagliari/sampdoria/2007,2007,9,serie_a,20,38,0,1,0,16,0,6,2,7,9,LWDDDDDD,0,3,1,3,4,10,2,4,2,14,13,LDDDWDWW,0,2,1,4,5,LDDD,DDW
-Ascoli,Siena,0-1,/match/ascoli/siena/2007,2007,9,serie_a,20,38,2,0,1,18,0,4,4,5,11,WDWDDLWD,0,2,1,2,4,9,3,4,1,9,7,LLLDDWDD,2,2,0,4,2,DDL,LLDD
-Parma,Atalanta,3-1,/match/parma-fc/atalanta/2007,2007,9,serie_a,20,38,0,3,1,19,1,1,6,6,17,DLWLWLWW,1,0,3,1,9,3,3,4,1,13,10,WDDWDLWD,1,1,1,3,3,LLLW,DWL
-Livorno,Empoli,0-0,/match/livorno/empoli-fc/2007,2007,9,serie_a,20,38,1,0,0,11,3,3,2,7,8,WWDDLLDW,1,2,0,1,0,13,2,4,2,9,8,LDDWWLDD,1,2,1,4,4,WDD,LDWD
-Siena,Parma,2-2,/match/siena/parma-fc/2007,2007,10,serie_a,20,38,1,2,2,9,4,4,1,10,7,LLLDDWDDL,1,2,1,5,5,18,2,1,6,9,18,DLWLWLWWW,0,1,3,5,8,LDWD,DWWW
-Reggina,Catania,0-1,/match/reggina/catania/2007,2007,10,serie_a,20,38,2,0,1,8,3,3,3,11,14,WWWDDWWWD,3,1,0,7,4,14,2,4,3,12,15,LDWDWWWDD,1,1,3,6,11,WDWW,LWWWD
-Palermo FC,Sampdoria,2-0,/match/palermo/sampdoria/2007,2007,10,serie_a,20,38,0,2,0,2,7,0,2,21,15,WLWWLLLWL,3,0,1,13,10,12,2,4,3,14,14,LDDDWDWWW,0,2,2,4,6,WWLW,DDWW
-Livorno,Udinese,1-0,/match/livorno/udinese/2007,2007,10,serie_a,20,38,0,1,0,11,3,4,2,7,8,WWDDLLDWD,1,3,0,1,0,5,3,4,2,10,6,WWDWDLDDL,1,2,1,7,5,WDDD,WDLD
-Inter,Ascoli,2-0,/match/internazionale/ascoli/2007,2007,10,serie_a,20,38,0,2,0,1,6,3,0,20,12,LDLWDWDWL,3,1,0,11,6,19,0,4,5,5,12,WDWDDLWDL,0,2,3,3,7,DWWW,WWDWD
-Empoli,Lazio,1-1,/match/empoli-fc/lazio/2007,2007,10,serie_a,20,38,1,1,1,13,2,5,2,9,8,LDDWWLDDD,1,2,1,5,4,16,3,2,4,9,9,WLLWLDWWD,2,0,3,7,7,DWLD,WLLWW
-Chievo,Cagliari,0-0,/match/chievo/cagliari/2007,2007,10,serie_a,20,38,1,0,0,20,0,2,7,7,14,LDLWLWDLW,0,0,4,1,5,15,1,6,2,8,9,LWDDDDDDW,0,3,1,4,5,LLLL,WDDD
-Atalanta,Milan,2-0,/match/atalanta/milan/2007,2007,10,serie_a,20,38,0,2,0,4,3,4,2,14,13,WDDWDLWDW,2,3,0,10,7,6,4,3,2,10,8,WLWDDDLLL,2,2,0,4,1,WDDWD,LDDL
-Torino,Messina,1-1,/match/torino-fc/messina/2007,2007,10,serie_a,20,38,1,1,1,17,1,4,4,5,12,DWLDLWDLD,1,1,3,3,8,10,3,3,3,12,12,WDWDLWDWW,0,2,2,5,8,DLLWL,DDWW
-Roma,Fiorentina,3-1,/match/roma/fiorentina/2007,2007,10,serie_a,20,38,0,3,1,3,5,2,2,14,6,WLLLWWDDL,2,2,1,6,4,7,5,0,4,14,9,LWWWWLWLL,2,0,2,3,3,WLWDD,WWLL
-Fiorentina,Atalanta,3-1,/match/fiorentina/atalanta/2007,2007,11,serie_a,20,38,0,3,1,9,5,0,5,15,12,LWWWWLWLLW,3,0,2,11,6,4,4,4,2,16,13,WDDWDLWDWW,1,1,2,4,6,LWWWL,DWLW
-Milan,Roma,1-2,/match/milan/roma/2007,2007,11,serie_a,20,38,2,1,2,8,4,3,3,10,10,WLWDDDLLLW,2,1,2,6,7,3,6,2,2,17,7,WLLLWWDDLW,3,0,1,8,2,WWDLL,LLWL
-Sampdoria,Chievo,3-0,/match/sampdoria/chievo/2007,2007,11,serie_a,20,38,0,3,0,14,2,4,4,14,16,LDDDWDWWWW,2,2,1,10,8,20,0,3,7,7,14,LDLWLWDLWD,0,2,3,6,9,LDWDW,DWWDW
-Palermo FC,Torino,3-0,/match/palermo/torino-fc/2007,2007,11,serie_a,20,38,0,3,0,2,8,0,2,23,15,WLWWLLLWLW,4,0,1,15,10,17,1,5,4,6,13,DWLDLWDLDD,0,3,1,2,4,WWLWW,WDDD
-Messina,Cagliari,2-2,/match/messina/cagliari/2007,2007,11,serie_a,20,38,1,2,2,7,3,4,3,13,13,WDWDLWDWWD,3,1,1,7,4,15,1,7,2,8,9,LWDDDDDDWD,0,4,1,4,5,WWLDW,WDDDD
-Lazio,Udinese,5-0,/match/lazio/udinese/2007,2007,11,serie_a,20,38,0,5,0,16,3,3,4,10,10,WLLWLDWWDD,1,2,1,2,2,11,3,4,3,10,7,WWDWDLDDLW,1,2,2,7,6,LWDD,WDLDW
-Catania,Livorno,3-2,/match/catania/livorno/2007,2007,11,serie_a,20,38,0,3,2,13,3,4,3,13,15,LDWDWWWDDL,1,3,0,6,4,5,4,4,2,8,8,WWDDLLDWDW,2,1,2,6,8,DDWD,WDLLW
-Ascoli,Empoli,0-1,/match/ascoli/empoli-fc/2007,2007,11,serie_a,20,38,2,0,1,19,0,4,6,5,14,WDWDDLWDLW,0,2,2,2,5,12,2,6,2,10,9,LDDWWLDDDD,1,3,1,4,4,DDLL,LDWDD
-Siena,Reggina,0-1,/match/siena/reggina/2007,2007,11,serie_a,20,38,2,0,1,6,4,5,1,12,9,LLLDDWDDLD,1,3,1,7,7,10,3,3,4,11,15,WWWDDWWWDL,0,2,3,4,10,LDWDD,WWDWD
-Parma,Inter,1-2,/match/parma-fc/internazionale/2007,2007,11,serie_a,20,38,2,1,2,18,2,2,6,11,20,DLWLWLWWWD,2,0,3,4,10,1,7,3,0,22,12,LDLWDWDWLW,3,2,0,9,6,LLLWW,LLDDL
-Empoli,Milan,0-0,/match/empoli-fc/milan/2007,2007,12,serie_a,20,38,1,0,0,13,3,6,2,11,9,LDDWWLDDDDL,1,3,1,6,5,15,4,3,4,11,12,WLWDDDLLLWL,2,2,1,4,3,DWLDD,LDDLW
-Cagliari,Palermo FC,1-0,/match/cagliari/palermo/2007,2007,12,serie_a,20,38,0,1,0,16,1,8,2,10,11,LWDDDDDDWDD,1,3,1,4,4,2,9,0,2,26,15,WLWWLLLWLWW,4,0,1,8,5,LDDDW,LWLLL
-Messina,Lazio,1-4,/match/messina/lazio/2007,2007,12,serie_a,20,38,2,1,4,7,3,5,3,15,15,WDWDLWDWWDD,3,2,1,9,6,12,4,3,4,15,10,WLLWLDWWDDW,2,1,3,8,8,WWLDWD,WLLWWD
-Livorno,Parma,3-0,/match/livorno/parma-fc/2007,2007,12,serie_a,20,38,0,3,0,6,4,4,3,10,11,WWDDLLDWDWW,2,3,0,2,0,18,2,2,7,12,22,DLWLWLWWWDL,0,2,3,7,10,WDDDW,DWWWD
-Inter,Reggina,1-0,/match/internazionale/reggina/2007,2007,12,serie_a,20,38,0,1,0,1,8,3,0,24,13,LDLWDWDWLWL,4,1,0,13,6,11,4,3,4,12,15,WWWDDWWWDLL,1,2,3,5,10,DWWWW,WWDWDL
-Chievo,Atalanta,2-2,/match/chievo/atalanta/2007,2007,12,serie_a,20,38,1,2,2,20,0,3,8,7,17,LDLWLWDLWDW,0,1,4,1,5,4,4,4,3,17,16,WDDWDLWDWWW,1,1,3,5,9,LLLLD,DWLWW
-Ascoli,Fiorentina,1-1,/match/ascoli/fiorentina/2007,2007,12,serie_a,20,38,1,1,1,19,0,4,7,5,15,WDWDDLWDLWL,0,2,3,2,6,5,6,0,5,18,13,LWWWWLWLLWW,2,0,3,4,6,DDLLL,WWLLW
-Roma,Catania,7-0,/match/roma/catania/2007,2007,12,serie_a,20,38,0,7,0,3,7,2,2,19,8,WLLLWWDDLWL,3,2,1,9,5,8,4,4,3,16,17,LDWDWWWDDLW,2,1,3,7,11,WLWDDW,LWWWDL
-Udinese,Siena,3-0,/match/udinese/siena/2007,2007,12,serie_a,20,38,0,3,0,14,3,4,4,10,12,WWDWDLDDLWW,2,2,1,3,1,10,4,5,2,12,10,LLLDDWDDLDL,3,2,0,5,2,WWDDL,LLDDL
-Torino,Sampdoria,1-0,/match/torino-fc/sampdoria/2007,2007,12,serie_a,20,38,0,1,0,17,1,5,5,6,16,DWLDLWDLDDW,1,2,3,4,9,9,3,4,4,17,16,LDDDWDWWWWW,0,2,3,4,8,DLLWLD,DDWWW
-Chievo,Udinese,2-0,/match/chievo/udinese/2007,2007,13,serie_a,20,38,0,2,0,20,0,4,8,9,19,LDLWLWDLWDWD,0,2,4,3,7,7,4,4,4,13,12,WWDWDLDDLWWW,1,2,3,7,11,LLLLDD,WDLDWW
-Milan,Messina,1-0,/match/milan/messina/2007,2007,13,serie_a,20,38,0,1,0,16,4,4,4,11,12,WLWDDDLLLWLD,2,1,3,7,9,9,3,5,4,16,19,WDWDLWDWWDDL,0,3,2,6,9,WWDLLL,DDWWD
-Sampdoria,Roma,2-4,/match/sampdoria/roma/2007,2007,13,serie_a,20,38,2,2,4,15,3,4,5,17,17,LDDDWDWWWWWW,3,2,1,13,8,2,8,2,2,26,8,WLLLWWDDLWLW,4,0,1,10,3,LDWDWW,LLWLL
-Reggina,Livorno,2-2,/match/reggina/livorno/2007,2007,13,serie_a,20,38,1,2,2,13,4,3,5,12,16,WWWDDWWWDLLW,3,1,1,7,5,4,5,4,3,13,11,WWDDLLDWDWWW,2,1,3,8,11,WDWWL,WDLLWW
-Lazio,Ascoli,3-1,/match/lazio/ascoli/2007,2007,13,serie_a,20,38,0,3,1,12,5,3,4,19,11,WLLWLDWWDDWL,2,2,1,7,2,19,0,5,7,6,16,WDWDDLWDLWLD,0,2,4,3,9,LWDDW,WWDWDW
-Empoli,Cagliari,1-0,/match/empoli-fc/cagliari/2007,2007,13,serie_a,20,38,0,1,0,8,3,7,2,11,9,LDDWWLDDDDLD,1,4,1,6,5,11,2,8,2,11,11,LWDDDDDDWDDW,0,5,1,6,7,DWLDDD,WDDDDD
-Catania,Parma,2-0,/match/catania/parma-fc/2007,2007,13,serie_a,20,38,0,2,0,10,4,4,4,16,24,LDWDWWWDDLWW,2,3,0,9,6,18,2,2,8,12,25,DLWLWLWWWDLW,0,2,4,7,13,DDWDW,DWWWDW
-Atalanta,Torino,1-2,/match/atalanta/torino-fc/2007,2007,13,serie_a,20,38,2,1,2,5,4,5,3,19,18,WDDWDLWDWWWD,3,3,0,12,7,17,2,5,5,7,16,DWLDLWDLDDWW,0,3,2,2,7,WDDWDW,WDDDW
-Siena,Fiorentina,1-1,/match/siena/fiorentina/2007,2007,13,serie_a,20,38,1,1,1,14,4,5,3,12,13,LLLDDWDDLDLW,1,3,2,7,8,6,6,1,5,19,14,LWWWWLWLLWWD,2,1,3,5,7,LDWDDL,WWLLWD
-Palermo FC,Inter,1-2,/match/palermo/internazionale/2007,2007,13,serie_a,20,38,2,1,2,3,9,0,3,26,16,WLWWLLLWLWWW,5,0,1,18,10,1,9,3,0,25,13,LDLWDWDWLWLW,4,2,0,11,7,WWLWWW,LLDDLL
-Inter,Siena,2-0,/match/internazionale/siena/2007,2007,14,serie_a,20,38,0,2,0,1,10,3,0,27,14,LDLWDWDWLWLWL,5,1,0,14,6,11,4,6,3,13,14,LLLDDWDDLDLWD,3,2,1,5,5,DWWWWW,LLDDLW
-Roma,Atalanta,2-1,/match/roma/atalanta/2007,2007,14,serie_a,20,38,0,2,1,2,9,2,2,30,10,WLLLWWDDLWLWL,4,2,1,16,5,8,4,5,4,20,20,WDDWDLWDWWWDL,1,2,3,7,11,WLWDDWW,DWLWWD
-Torino,Empoli,1-0,/match/torino-fc/empoli-fc/2007,2007,14,serie_a,20,38,0,1,0,17,3,5,5,9,17,DWLDLWDLDDWWL,2,2,3,5,9,5,4,7,2,12,9,LDDWWLDDDDLDW,2,3,1,5,4,DLLWLDW,LDWDDL
-Parma,Palermo FC,0-0,/match/parma-fc/palermo/2007,2007,14,serie_a,20,38,1,0,0,18,2,2,9,12,27,DLWLWLWWWDLWW,2,0,4,5,12,3,9,0,4,27,18,WLWWLLLWLWWWL,4,0,2,8,6,LLLWWL,LWLLLW
-Messina,Sampdoria,0-2,/match/messina/sampdoria/2007,2007,14,serie_a,20,38,2,0,2,15,3,5,5,16,20,WDWDLWDWWDDLW,3,2,2,10,10,16,3,4,6,19,21,LDDDWDWWWWWWL,0,2,4,4,9,WWLDWDL,DDWWWW
-Livorno,Chievo,0-2,/match/livorno/chievo/2007,2007,14,serie_a,20,38,2,0,2,4,5,5,3,15,13,WWDDLLDWDWWWD,3,3,0,5,0,19,1,4,8,11,19,LDLWLWDLWDWDW,0,2,4,6,12,WDDDWW,DWWDWW
-Fiorentina,Lazio,1-0,/match/fiorentina/lazio/2007,2007,14,serie_a,20,38,0,1,0,9,6,2,5,20,15,LWWWWLWLLWWDD,4,0,2,14,7,7,6,3,4,22,12,WLLWLDWWDDWLW,3,1,3,12,9,LWWWLW,WLLWWDL
-Cagliari,Milan,2-2,/match/cagliari/milan/2007,2007,14,serie_a,20,38,1,2,2,14,2,8,3,11,12,LWDDDDDDWDDWW,2,3,1,5,4,10,5,4,4,12,12,WLWDDDLLLWLDW,2,3,1,4,3,LDDDWW,LDDLWD
-Udinese,Reggina,1-1,/match/udinese/reggina/2007,2007,14,serie_a,20,38,1,1,1,12,4,4,5,13,14,WWDWDLDDLWWWW,3,2,1,6,1,13,4,4,5,14,18,WWWDDWWWDLLWD,1,2,4,5,11,WWDDLW,WWDWDLW
-Ascoli,Catania,2-2,/match/ascoli/catania/2007,2007,14,serie_a,20,38,1,2,2,20,0,5,8,7,19,WDWDDLWDLWLDW,0,3,3,3,7,6,5,4,4,18,24,LDWDWWWDDLWWW,2,1,4,7,18,DDLLLD,LWWWDLW
-Reggina,Ascoli,2-1,/match/reggina/ascoli/2007,2007,15,serie_a,20,38,0,2,1,12,4,5,5,15,19,WWWDDWWWDLLWDD,3,2,1,9,7,20,0,6,8,9,21,WDWDDLWDLWLDWD,0,2,5,4,12,WDWWLD,WWDWDWW
-Palermo FC,Livorno,3-0,/match/palermo/livorno/2007,2007,15,serie_a,20,38,0,3,0,3,9,1,4,27,18,WLWWLLLWLWWWLD,5,0,2,19,12,5,5,5,4,15,15,WWDDLLDWDWWWDL,2,2,3,10,13,WWLWWWL,WDLLWWD
-Empoli,Inter,0-3,/match/empoli-fc/internazionale/2007,2007,15,serie_a,20,38,2,0,3,7,4,7,3,12,10,LDDWWLDDDDLDWW,2,4,1,7,5,1,11,3,0,29,14,LDLWDWDWLWLWLW,5,2,0,13,8,DWLDDDW,LLDDLLL
-Chievo,Fiorentina,0-1,/match/chievo/fiorentina/2007,2007,15,serie_a,20,38,2,0,1,19,2,4,8,13,19,LDLWLWDLWDWDWL,1,2,4,5,7,4,7,2,5,21,15,LWWWWLWLLWWDDW,2,2,3,6,8,LLLLDDW,WWLLWDD
-Catania,Udinese,1-0,/match/catania/udinese/2007,2007,15,serie_a,20,38,0,1,0,6,5,5,4,20,26,LDWDWWWDDLWWWD,3,3,0,11,6,11,4,5,5,14,15,WWDWDLDDLWWWWD,1,2,4,7,13,DDWDWW,WDLDWWW
-Cagliari,Parma,0-0,/match/cagliari/parma-fc/2007,2007,15,serie_a,20,38,1,0,0,13,2,9,3,13,14,LWDDDDDDWDDWWD,2,4,1,7,6,18,2,3,9,12,27,DLWLWLWWWDLWWD,0,2,5,7,15,LDDDWWD,DWWWDWW
-Atalanta,Messina,3-2,/match/atalanta/messina/2007,2007,15,serie_a,20,38,0,3,2,9,4,5,5,21,22,WDDWDLWDWWWDLW,3,3,1,13,9,17,3,5,6,16,22,WDWDLWDWWDDLWL,0,3,3,6,10,WDDWDWL,DDWWDW
-Milan,Torino,0-0,/match/milan/torino-fc/2007,2007,15,serie_a,20,38,1,0,0,10,5,5,4,14,14,WLWDDDLLLWLDWD,3,1,3,8,9,14,4,5,5,10,17,DWLDLWDLDDWWLW,1,3,2,4,8,WWDLLLW,WDDDWL
-Sampdoria,Siena,0-0,/match/sampdoria/siena/2007,2007,15,serie_a,20,38,1,0,0,15,4,4,6,21,21,LDDDWDWWWWWWLL,3,2,2,15,12,16,4,6,4,13,16,LLLDDWDDLDLWDW,3,2,2,5,7,LDWDWWL,LLDDLWW
-Lazio,Roma,3-0,/match/lazio/roma/2007,2007,15,serie_a,20,38,0,3,0,8,6,3,5,22,13,WLLWLDWWDDWLWW,3,2,1,10,3,2,10,2,2,32,11,WLLLWWDDLWLWLW,5,0,1,14,5,LWDDWW,LLWLLL
-Udinese,Cagliari,3-1,/match/udinese/cagliari/2007,2007,16,serie_a,20,38,0,3,1,14,4,5,6,14,16,WWDWDLDDLWWWWDW,3,3,1,7,2,12,2,10,3,13,14,LWDDDDDDWDDWWDD,0,5,2,6,8,WWDDLWD,WDDDDDW
-Fiorentina,Milan,2-2,/match/fiorentina/milan/2007,2007,16,serie_a,20,38,1,2,2,4,8,2,5,22,15,LWWWWLWLLWWDDWL,5,0,2,15,7,10,5,6,4,14,14,WLWDDDLLLWLDWDD,2,4,1,6,5,LWWWLWW,LDDLWDD
-Siena,Atalanta,1-1,/match/siena/atalanta/2007,2007,16,serie_a,20,38,1,1,1,16,4,7,4,13,16,LLLDDWDDLDLWDWD,1,4,2,8,9,7,5,5,5,24,24,WDDWDLWDWWWDLWW,1,2,4,8,13,LDWDDLD,DWLWWDW
-Reggina,Sampdoria,0-1,/match/reggina/sampdoria/2007,2007,16,serie_a,20,38,2,0,1,8,5,5,5,17,20,WWWDDWWWDLLWDDW,4,2,1,11,8,13,4,5,6,21,21,LDDDWDWWWWWWLLD,1,2,4,6,9,WDWWLDW,DDWWWWL
-Parma,Chievo,2-2,/match/parma-fc/chievo/2007,2007,16,serie_a,20,38,1,2,2,18,2,4,9,12,27,DLWLWLWWWDLWWDD,2,1,4,5,12,19,2,4,9,13,20,LDLWLWDLWDWDWLL,1,2,4,8,12,LLLWWLD,DWWDWWL
-Livorno,Lazio,1-1,/match/livorno/lazio/2007,2007,16,serie_a,20,38,1,1,1,9,5,5,5,15,18,WWDDLLDWDWWWDLW,3,3,1,5,2,6,7,3,5,25,13,WLLWLDWWDDWLWWW,3,1,4,12,10,WDDDWWL,WLLWWDLW
-Inter,Messina,2-0,/match/internazionale/messina/2007,2007,16,serie_a,20,38,0,2,0,1,12,3,0,32,14,LDLWDWDWLWLWLWL,6,1,0,16,6,17,3,5,7,18,25,WDWDLWDWWDDLWLW,0,3,4,8,13,DWWWWWW,DDWWDWW
-Ascoli,Torino,0-2,/match/ascoli/torino-fc/2007,2007,16,serie_a,20,38,2,0,2,20,0,6,9,10,23,WDWDDLWDLWLDWDW,0,4,3,5,9,15,4,6,5,10,17,DWLDLWDLDDWWLWD,1,4,2,4,8,DDLLLDD,WDDDWLD
-Catania,Empoli,2-1,/match/catania/empoli-fc/2007,2007,16,serie_a,20,38,0,2,1,5,6,5,4,21,26,LDWDWWWDDLWWWDW,4,3,0,12,6,11,4,7,4,12,13,LDDWWLDDDDLDWWL,2,3,2,5,5,DDWDWWW,LDWDDLW
-Roma,Palermo FC,4-0,/match/roma/palermo/2007,2007,16,serie_a,20,38,0,4,0,2,10,2,3,32,14,WLLLWWDDLWLWLWW,5,2,1,18,6,3,10,1,4,30,18,WLWWLLLWLWWWLDW,4,1,2,8,6,WLWDDWWW,LWLLLWD
-Milan,Catania,3-0,/match/milan/catania/2007,2007,17,serie_a,20,38,0,3,0,11,5,7,4,16,16,WLWDDDLLLWLDWDDD,3,2,3,8,9,4,7,5,4,23,27,LDWDWWWDDLWWWDWW,2,2,4,9,20,WWDLLLWD,LWWWDLWD
-Sampdoria,Livorno,4-1,/match/sampdoria/livorno/2007,2007,17,serie_a,20,38,0,4,1,13,5,5,6,22,21,LDDDWDWWWWWWLLDL,3,3,2,15,12,8,5,6,5,16,19,WWDDLLDWDWWWDLWD,2,2,4,10,16,LDWDWWLD,WDLLWWDW
-Palermo FC,Ascoli,4-0,/match/palermo/ascoli/2007,2007,17,serie_a,20,38,0,4,0,3,10,1,5,30,22,WLWWLLLWLWWWLDWW,6,0,2,22,12,20,0,6,10,10,25,WDWDDLWDLWLDWDWL,0,2,6,5,14,WWLWWWLW,WWDWDWWW
-Messina,Parma,1-1,/match/messina/parma-fc/2007,2007,17,serie_a,20,38,1,1,1,17,3,5,8,18,27,WDWDLWDWWDDLWLWW,3,2,3,10,12,18,2,5,9,14,29,DLWLWLWWWDLWWDDD,0,3,5,7,15,WWLDWDLL,DWWWDWWD
-Lazio,Inter,0-2,/match/lazio/internazionale/2007,2007,17,serie_a,20,38,2,0,2,6,7,4,5,26,14,WLLWLDWWDDWLWWWD,4,2,1,13,3,1,13,3,0,34,14,LDLWDWDWLWLWLWLW,6,2,0,16,8,LWDDWWW,LLDDLLLL
-Empoli,Siena,1-0,/match/empoli-fc/siena/2007,2007,17,serie_a,20,38,0,1,0,15,4,7,5,13,15,LDDWWLDDDDLDWWLW,2,4,2,7,8,14,4,8,4,14,17,LLLDDWDDLDLWDWDD,3,3,2,5,7,DWLDDDWL,LLDDLWWD
-Chievo,Reggina,3-2,/match/chievo/reggina/2007,2007,17,serie_a,20,38,0,3,2,19,2,5,9,15,22,LDLWLWDLWDWDWLLD,1,2,5,5,8,10,5,5,6,17,21,WWWDDWWWDLLWDDWL,1,3,4,6,12,LLLLDDWL,WWDWDLWD
-Cagliari,Fiorentina,0-2,/match/cagliari/fiorentina/2007,2007,17,serie_a,20,38,2,0,2,16,2,10,4,14,17,LWDDDDDDWDDWWDDW,2,5,1,7,6,5,8,3,5,24,17,LWWWWLWLLWWDDWLD,3,2,3,7,8,LDDDWWDD,WWLLWDDL
-Atalanta,Udinese,1-2,/match/atalanta/udinese/2007,2007,17,serie_a,20,38,2,1,2,7,5,6,5,25,25,WDDWDLWDWWWDLWWD,4,3,1,16,11,9,5,5,6,17,17,WWDWDLDDLWWWWDWW,1,2,5,7,14,WDDWDWLW,WDLDWWWW
-Torino,Roma,1-2,/match/torino-fc/roma/2007,2007,17,serie_a,20,38,2,1,2,12,5,6,5,12,17,DWLDLWDLDDWWLWDL,3,2,3,6,9,2,11,2,3,36,14,WLLLWWDDLWLWLWWW,5,0,2,14,8,DLLWLDWW,LLWLLLW
-Roma,Cagliari,2-0,/match/roma/cagliari/2007,2007,18,serie_a,20,38,0,2,0,2,12,2,3,38,15,WLLLWWDDLWLWLWWWL,6,2,1,22,6,16,2,10,5,14,19,LWDDDDDDWDDWWDDWL,0,5,3,7,11,WLWDDWWWW,WDDDDDWW
-Siena,Palermo FC,1-1,/match/siena/palermo/2007,2007,18,serie_a,20,38,1,1,1,15,4,8,5,14,18,LLLDDWDDLDLWDWDDW,1,5,2,9,10,3,11,1,5,34,22,WLWWLLLWLWWWLDWWW,4,1,3,8,10,LDWDDLDD,LWLLLWDW
-Reggina,Empoli,4-1,/match/reggina/empoli-fc/2007,2007,18,serie_a,20,38,0,4,1,13,5,5,7,19,24,WWWDDWWWDLLWDDWLW,4,2,2,11,9,11,5,7,5,14,15,LDDWWLDDDDLDWWLWW,2,3,3,6,7,WDWWLDWL,LDWDDLWW
-Parma,Lazio,1-3,/match/parma-fc/lazio/2007,2007,18,serie_a,20,38,2,1,3,19,2,6,9,15,30,DLWLWLWWWDLWWDDDD,2,2,4,7,14,8,7,4,6,26,16,WLLWLDWWDDWLWWWDL,3,2,4,13,11,LLLWWLDD,WLLWWDLWD
-Livorno,Torino,1-1,/match/livorno/torino-fc/2007,2007,18,serie_a,20,38,1,1,1,12,5,6,6,17,23,WWDDLLDWDWWWDLWDW,3,4,1,6,3,14,5,6,6,13,19,DWLDLWDLDDWWLWDLL,2,4,2,6,8,WDDDWWLD,WDDDWLDL
-Inter,Atalanta,2-1,/match/internazionale/atalanta/2007,2007,18,serie_a,20,38,0,2,1,1,14,3,0,36,14,LDLWDWDWLWLWLWLWL,7,1,0,18,6,10,5,6,6,26,27,WDDWDLWDWWWDLWWDL,1,3,4,9,14,DWWWWWWW,DWLWWDWD
-Fiorentina,Messina,4-0,/match/fiorentina/messina/2007,2007,18,serie_a,20,38,0,4,0,5,9,3,5,26,17,LWWWWLWLLWWDDWLDL,5,1,2,17,9,17,3,6,8,19,28,WDWDLWDWWDDLWLWWD,0,3,5,8,15,LWWWLWWD,DDWWDWWW
-Catania,Sampdoria,4-2,/match/catania/sampdoria/2007,2007,18,serie_a,20,38,0,4,2,4,7,5,5,23,30,LDWDWWWDDLWWWDWWW,5,3,0,14,7,9,6,5,6,26,22,LDDDWDWWWWWWLLDLW,2,2,4,7,9,DDWDWWWW,DDWWWWLL
-Ascoli,Chievo,3-0,/match/ascoli/chievo/2007,2007,18,serie_a,20,38,0,3,0,20,0,6,11,10,29,WDWDDLWDLWLDWDWLW,0,4,4,5,11,18,3,5,9,18,24,LDLWLWDLWDWDWLLDW,1,3,4,10,14,DDLLLDDL,DWWDWWLD
-Udinese,Milan,0-3,/match/udinese/milan/2007,2007,18,serie_a,20,38,2,0,3,7,6,5,6,19,18,WWDWDLDDLWWWWDWWL,4,3,1,10,3,6,6,7,4,19,16,WLWDDDLLLWLDWDDDW,2,5,1,8,7,WWDDLWDW,LDDLWDDD
-Empoli,Parma,2-0,/match/empoli-fc/parma-fc/2007,2007,19,serie_a,20,38,0,2,0,12,5,7,6,15,19,LDDWWLDDDDLDWWLWWW,3,4,2,8,8,19,2,6,10,16,33,DLWLWLWWWDLWWDDDDL,0,4,5,8,16,DWLDDDWLW,DWWWDWWDD
-Torino,Inter,1-3,/match/torino-fc/internazionale/2007,2007,19,serie_a,20,38,2,1,3,14,5,7,6,14,20,DWLDLWDLDDWWLWDLLD,3,2,4,7,11,1,15,3,0,38,15,LDLWDWDWLWLWLWLWLW,7,2,0,18,8,DLLWLDWWL,LLDDLLLLL
-Palermo FC,Udinese,2-0,/match/palermo/udinese/2007,2007,19,serie_a,20,38,0,2,0,3,11,2,5,35,23,WLWWLLLWLWWWLDWWWD,7,0,2,26,12,10,6,5,7,19,21,WWDWDLDDLWWWWDWWLL,2,2,5,9,15,WWLWWWLWW,WDLDWWWWL
-Messina,Roma,1-1,/match/messina/roma/2007,2007,19,serie_a,20,38,1,1,1,17,3,6,9,19,32,WDWDLWDWWDDLWLWWDW,3,3,3,11,13,2,13,2,3,40,15,WLLLWWDDLWLWLWWWLW,6,0,2,16,9,WWLDWDLLD,LLWLLLWL
-Chievo,Catania,2-1,/match/chievo/catania/2007,2007,19,serie_a,20,38,0,2,1,18,3,5,10,18,27,LDLWLWDLWDWDWLLDWW,2,2,5,8,10,4,8,5,5,27,32,LDWDWWWDDLWWWDWWWW,2,2,5,9,23,LLLLDDWLW,LWWWDLWDW
-Cagliari,Ascoli,1-0,/match/cagliari/ascoli/2007,2007,19,serie_a,20,38,0,1,0,16,2,10,6,14,21,LWDDDDDDWDDWWDDWLW,2,5,2,7,8,20,1,6,11,13,29,WDWDDLWDLWLDWDWLWW,0,2,7,5,18,LDDDWWDDL,WWDWDWWWW
-Atalanta,Livorno,5-1,/match/atalanta/livorno/2007,2007,19,serie_a,20,38,0,5,1,13,5,6,7,27,29,WDDWDLWDWWWDLWWDLW,4,3,2,17,13,9,5,7,6,18,24,WWDDLLDWDWWWDLWDWD,2,2,5,11,20,WDDWDWLWL,WDLLWWDWW
-Milan,Reggina,3-1,/match/milan/reggina/2007,2007,19,serie_a,20,38,0,3,1,6,7,7,4,22,16,WLWDDDLLLWLDWDDDWL,4,2,3,11,9,8,6,5,7,23,25,WWWDDWWWDLLWDDWLWW,1,3,5,8,15,WWDLLLWDW,WWDWDLWDW
-Sampdoria,Fiorentina,0-0,/match/sampdoria/fiorentina/2007,2007,19,serie_a,20,38,1,0,0,11,6,5,7,28,26,LDDDWDWWWWWWLLDLWW,4,3,2,19,13,5,10,3,5,30,17,LWWWWLWLLWWDDWLDLW,4,2,3,9,8,LDWDWWLDW,WWLLWDDLL
-Lazio,Siena,1-1,/match/lazio/siena/2007,2007,19,serie_a,20,38,1,1,1,7,8,4,6,29,17,WLLWLDWWDDWLWWWDLL,4,2,2,13,5,15,4,9,5,15,19,LLLDDWDDLDLWDWDDWD,3,3,3,5,8,LWDDWWWL,LLDDLWWDW
-Ascoli,Atalanta,1-3,/match/ascoli/atalanta/2007,2007,20,serie_a,20,38,2,1,3,20,1,6,12,13,30,WDWDDLWDLWLDWDWLWWW,1,4,4,8,11,8,6,6,7,32,30,WDDWDLWDWWWDLWWDLWW,1,3,5,10,16,DDLLLDDLW,DWLWWDWDW
-Reggina,Palermo FC,0-0,/match/reggina/palermo/2007,2007,20,serie_a,20,38,1,0,0,11,6,5,8,24,28,WWWDDWWWDLLWDDWLWWW,5,2,2,15,10,3,12,2,5,37,23,WLWWLLLWLWWWLDWWWDW,4,2,3,9,11,WDWWLDWLW,LWLLLWDWD
-Siena,Chievo,2-1,/match/siena/chievo/2007,2007,20,serie_a,20,38,0,2,1,15,4,10,5,16,20,LLLDDWDDLDLWDWDDWDD,1,6,2,10,11,18,4,5,10,20,28,LDLWLWDLWDWDWLLDWWW,1,3,5,10,17,LDWDDLDDD,DWWDWWLDW
-Parma,Torino,1-0,/match/parma-fc/torino-fc/2007,2007,20,serie_a,20,38,0,1,0,19,2,6,11,16,35,DLWLWLWWWDLWWDDDDLW,2,2,5,8,17,16,5,7,7,15,23,DWLDLWDLDDWWLWDLLDL,2,5,2,7,9,LLLWWLDDL,WDDDWLDLD
-Livorno,Roma,1-1,/match/livorno/roma/2007,2007,20,serie_a,20,38,1,1,1,13,5,7,7,19,29,WWDDLLDWDWWWDLWDWDW,3,5,1,7,4,2,13,3,3,41,16,WLLLWWDDLWLWLWWWLWD,6,1,2,17,10,WDDDWWLDD,LLWLLLWLD
-Lazio,Milan,0-0,/match/lazio/milan/2007,2007,20,serie_a,20,38,1,0,0,7,8,5,6,30,18,WLLWLDWWDDWLWWWDLLD,4,3,2,14,6,6,8,7,4,25,17,WLWDDDLLLWLDWDDDWLW,3,5,1,11,7,LWDDWWWLD,LDDLWDDDL
-Inter,Fiorentina,3-1,/match/internazionale/fiorentina/2007,2007,20,serie_a,20,38,0,3,1,1,16,3,0,41,16,LDLWDWDWLWLWLWLWLWL,8,1,0,20,7,4,10,4,5,30,17,LWWWWLWLLWWDDWLDLWD,4,3,3,9,8,DWWWWWWWW,WWLLWDDLLD
-Empoli,Sampdoria,2-0,/match/empoli-fc/sampdoria/2007,2007,20,serie_a,20,38,0,2,0,9,6,7,6,17,19,LDDWWLDDDDLDWWLWWWW,4,4,2,10,8,10,6,6,7,28,26,LDDDWDWWWWWWLLDLWWD,2,2,5,9,13,DWLDDDWLWW,DDWWWWLLW
-Catania,Cagliari,0-1,/match/catania/cagliari/2007,2007,20,serie_a,20,38,2,0,1,5,8,5,6,28,34,LDWDWWWDDLWWWDWWWWW,6,3,0,18,9,14,3,10,6,15,21,LWDDDDDDWDDWWDDWLWW,0,5,4,7,13,DDWDWWWWW,WDDDDDWWW
-Udinese,Messina,1-0,/match/udinese/messina/2007,2007,20,serie_a,20,38,0,1,0,12,6,5,8,19,23,WWDWDLDDLWWWWDWWLLW,4,3,2,10,6,17,3,7,9,20,33,WDWDLWDWWDDLWLWWDWD,0,3,6,8,19,WWDDLWDWL,DDWWDWWWW
-Palermo FC,Lazio,0-3,/match/palermo/lazio/2007,2007,21,serie_a,20,38,2,0,3,3,12,3,5,37,23,WLWWLLLWLWWWLDWWWDWD,8,0,2,28,12,8,8,6,6,30,18,WLLWLDWWDDWLWWWDLLDD,4,2,4,16,12,WWLWWWLWWW,WLLWWDLWDL
-Torino,Udinese,2-3,/match/torino-fc/udinese/2007,2007,21,serie_a,20,38,2,2,3,16,5,7,8,15,24,DWLDLWDLDDWWLWDLLDLW,3,2,5,8,14,10,7,5,8,20,23,WWDWDLDDLWWWWDWWLLWW,2,2,6,9,17,DLLWLDWWLL,WDLDWWWWLW
-Messina,Ascoli,1-2,/match/messina/ascoli/2007,2007,21,serie_a,20,38,2,1,2,17,3,7,10,20,34,WDWDLWDWWDDLWLWWDWDW,3,4,3,12,14,20,1,6,13,14,33,WDWDDLWDLWLDWDWLWWWL,0,2,8,5,19,WWLDWDLLDD,WWDWDWWWWW
-Fiorentina,Livorno,2-1,/match/fiorentina/livorno/2007,2007,21,serie_a,20,38,0,2,1,4,10,4,6,31,20,LWWWWLWLLWWDDWLDLWDW,6,1,2,21,9,13,5,8,7,20,30,WWDDLLDWDWWWDLWDWDWD,2,2,6,12,25,LWWWLWWDW,WDLLWWDWWW
-Chievo,Empoli,0-0,/match/chievo/empoli-fc/2007,2007,21,serie_a,20,38,1,0,0,18,4,5,11,21,30,LDLWLWDLWDWDWLLDWWWW,3,2,5,10,11,7,7,7,6,19,19,LDDWWLDDDDLDWWLWWWWW,2,3,4,7,11,LLLLDDWLWW,LDWDDLWWW
-Cagliari,Reggina,0-2,/match/cagliari/reggina/2007,2007,21,serie_a,20,38,2,0,2,15,4,10,6,16,21,LWDDDDDDWDDWWDDWLWWL,3,5,2,8,8,11,6,6,8,24,28,WWWDDWWWDLLWDDWLWWWD,1,3,6,9,18,LDDDWWDDLW,WWDWDLWDWW
-Atalanta,Catania,1-1,/match/atalanta/catania/2007,2007,21,serie_a,20,38,1,1,1,9,7,6,7,35,31,WDDWDLWDWWWDLWWDLWWL,5,3,2,22,14,5,8,5,7,28,35,LDWDWWWDDLWWWDWWWWWL,2,2,6,10,25,WDDWDWLWLW,LWWWDLWDWW
-Roma,Siena,1-0,/match/roma/siena/2007,2007,21,serie_a,20,38,0,1,0,2,13,4,3,42,17,WLLLWWDDLWLWLWWWLWDD,7,2,1,24,6,14,5,10,5,18,21,LLLDDWDDLDLWDWDDWDDW,3,4,3,6,9,WLWDDWWWWW,LLDDLWWDWD
-Milan,Parma,1-0,/match/milan/parma-fc/2007,2007,21,serie_a,20,38,0,1,0,6,8,8,4,25,17,WLWDDDLLLWLDWDDDWLWD,5,2,3,14,10,19,3,6,11,17,35,DLWLWLWWWDLWWDDDDLWW,0,4,6,8,18,WWDLLLWDWW,DWWWDWWDDW
-Sampdoria,Inter,0-2,/match/sampdoria/internazionale/2007,2007,21,serie_a,20,38,2,0,2,12,6,6,8,28,28,LDDDWDWWWWWWLLDLWWDW,4,4,2,19,13,1,17,3,0,44,17,LDLWDWDWLWLWLWLWLWLW,8,2,0,21,9,LDWDWWLDWD,LLDDLLLLLL
-Catania,Palermo FC,1-2,/match/catania/palermo/2007,2007,22,serie_a,20,38,2,1,2,6,8,6,7,29,36,LDWDWWWDDLWWWDWWWWWLD,6,3,1,18,10,3,12,3,6,37,26,WLWWLLLWLWWWLDWWWDWDL,4,3,3,9,11,DDWDWWWWWL,LWLLLWDWDD
-Reggina,Messina,3-1,/match/reggina/messina/2007,2007,22,serie_a,20,38,0,3,1,11,7,6,8,26,28,WWWDDWWWDLLWDDWLWWWDL,5,3,2,15,10,17,3,7,11,21,36,WDWDLWDWWDDLWLWWDWDWL,0,3,7,8,20,WDWWLDWLWD,DDWWDWWWWW
-Livorno,Cagliari,2-1,/match/livorno/cagliari/2007,2007,22,serie_a,20,38,0,2,1,13,5,8,8,21,32,WWDDLLDWDWWWDLWDWDWDW,3,6,1,8,5,15,4,10,7,16,23,LWDDDDDDWDDWWDDWLWWLL,1,5,4,8,13,WDDDWWLDDD,WDDDDDWWWL
-Lazio,Chievo,0-0,/match/lazio/chievo/2007,2007,22,serie_a,20,38,1,0,0,8,9,6,6,33,18,WLLWLDWWDDWLWWWDLLDDL,4,4,2,14,6,18,4,6,11,21,30,LDLWLWDLWDWDWLLDWWWWD,1,3,6,11,19,LWDDWWWLDD,DWWDWWLDWW
-Inter,Roma,1-3,/match/internazionale/roma/2007,2007,22,serie_a,20,38,2,1,3,1,18,3,0,46,17,LDLWDWDWLWLWLWLWLWLWL,9,1,0,23,8,2,14,4,3,43,17,WLLLWWDDLWLWLWWWLWDDW,6,2,2,18,11,DWWWWWWWWW,LLWLLLWLDD
-Empoli,Atalanta,2-0,/match/empoli-fc/atalanta/2007,2007,22,serie_a,20,38,0,2,0,7,7,8,6,19,19,LDDWWLDDDDLDWWLWWWWWD,5,4,2,12,8,9,7,7,7,36,32,WDDWDLWDWWWDLWWDLWWLD,2,3,5,13,17,DWLDDDWLWWW,DWLWWDWDWL
-Ascoli,Milan,2-5,/match/ascoli/milan/2007,2007,22,serie_a,20,38,2,2,5,20,2,6,13,16,34,WDWDDLWDLWLDWDWLWWWLL,1,4,5,9,14,5,9,8,4,26,17,WLWDDDLLLWLDWDDDWLWDW,3,6,1,11,7,DDLLLDDLWL,LDDLWDDDLD
-Udinese,Sampdoria,1-0,/match/udinese/sampdoria/2007,2007,22,serie_a,20,38,0,1,0,10,8,5,8,23,25,WWDWDLDDLWWWWDWWLLWWL,5,3,2,11,6,12,6,6,9,28,30,LDDDWDWWWWWWLLDLWWDWL,2,2,6,9,15,WWDDLWDWLW,DDWWWWLLWW
-Parma,Fiorentina,2-0,/match/parma-fc/fiorentina/2007,2007,22,serie_a,20,38,0,2,0,19,3,6,12,17,36,DLWLWLWWWDLWWDDDDLWWW,3,2,5,9,17,4,11,4,6,33,21,LWWWWLWLLWWDDWLDLWDWW,4,3,4,10,11,LLLWWLDDLW,WWLLWDDLLDW
-Siena,Torino,1-0,/match/siena/torino-fc/2007,2007,22,serie_a,20,38,0,1,0,14,5,10,6,18,22,LLLDDWDDLDLWDWDDWDDWW,2,6,2,12,12,16,5,7,9,17,27,DWLDLWDLDDWWLWDLLDLWL,2,5,3,7,10,LDWDDLDDDW,WDDDWLDLDW
-Milan,Livorno,2-1,/match/milan/livorno/2007,2007,23,serie_a,20,38,0,2,1,4,10,8,4,31,19,WLWDDDLLLWLDWDDDWLWDWL,6,2,3,15,10,12,6,8,8,23,33,WWDDLLDWDWWWDLWDWDWDWW,2,2,7,13,27,WWDLLLWDWWW,WDLLWWDWWWW
-Sampdoria,Ascoli,2-0,/match/sampdoria/ascoli/2007,2007,23,serie_a,20,38,0,2,0,14,6,6,10,28,31,LDDDWDWWWWWWLLDLWWDWLW,4,4,3,19,15,20,2,6,14,18,39,WDWDDLWDLWLDWDWLWWWLLL,1,2,8,7,20,LDWDWWLDWDL,WWDWDWWWWWL
-Palermo FC,Empoli,0-1,/match/palermo/empoli-fc/2007,2007,23,serie_a,20,38,2,0,1,3,13,3,6,39,27,WLWWLLLWLWWWLDWWWDWDLL,8,0,3,28,15,6,8,8,6,21,19,LDDWWLDDDDLDWWLWWWWWDW,2,4,4,7,11,WWLWWWLWWWL,LDWDDLWWWD
-Messina,Catania,1-1,/match/messina/catania/2007,2007,23,serie_a,20,38,1,1,1,19,3,7,12,22,39,WDWDLWDWWDDLWLWWDWDWLW,3,4,4,13,16,10,8,6,8,30,38,LDWDWWWDDLWWWDWWWWWLDL,2,3,6,11,26,WWLDWDLLDDL,LWWWDLWDWWD
-Fiorentina,Udinese,2-0,/match/fiorentina/udinese/2007,2007,23,serie_a,20,38,0,2,0,5,11,4,7,33,23,LWWWWLWLLWWDDWLDLWDWWW,7,1,2,23,10,7,9,5,8,24,25,WWDWDLDDLWWWWDWWLLWWLW,3,2,6,12,19,LWWWLWWDWW,WDLDWWWWLWL
-Chievo,Inter,0-2,/match/chievo/internazionale/2007,2007,23,serie_a,20,38,2,0,2,17,4,7,11,21,30,LDLWLWDLWDWDWLLDWWWWDD,3,3,5,10,11,1,18,3,1,47,20,LDLWDWDWLWLWLWLWLWLWLL,9,2,0,23,9,LLLLDDWLWWD,LLDDLLLLLLL
-Cagliari,Siena,2-2,/match/cagliari/siena/2007,2007,23,serie_a,20,38,1,2,2,15,4,10,8,17,25,LWDDDDDDWDDWWDDWLWWLLW,3,5,3,8,10,13,6,10,6,19,22,LLLDDWDDLDLWDWDDWDDWWW,3,4,4,6,10,LDDDWWDDLWL,LLDDLWWDWDW
-Atalanta,Lazio,0-0,/match/atalanta/lazio/2007,2007,23,serie_a,20,38,1,0,0,11,7,7,8,36,34,WDDWDLWDWWWDLWWDLWWLDW,5,4,2,23,15,8,9,7,6,33,18,WLLWLDWWDDWLWWWDLLDDLD,5,2,4,19,12,WDDWDWLWLWD,WLLWWDLWDLL
-Roma,Parma,3-0,/match/roma/parma-fc/2007,2007,23,serie_a,20,38,0,3,0,2,15,4,3,46,18,WLLLWWDDLWLWLWWWLWDDWL,8,2,1,25,6,18,4,6,12,19,36,DLWLWLWWWDLWWDDDDLWWWW,0,4,7,8,19,WLWDDWWWWWW,DWWWDWWDDWW
-Torino,Reggina,1-2,/match/torino-fc/reggina/2007,2007,23,serie_a,20,38,2,1,2,16,5,7,10,17,28,DWLDLWDLDDWWLWDLLDLWLW,3,2,6,10,17,9,8,6,8,29,29,WWWDDWWWDLLWDDWLWWWDLW,2,3,6,11,18,DLLWLDWWLLL,WWDWDLWDWWL
-Empoli,Roma,1-0,/match/empoli-fc/roma/2007,2007,24,serie_a,20,38,0,1,0,6,9,8,6,22,19,LDDWWLDDDDLDWWLWWWWWDWL,6,4,2,14,8,2,16,4,3,49,18,WLLLWWDDLWLWLWWWLWDDWLW,7,2,2,21,12,DWLDDDWLWWWW,LLWLLLWLDDL
-Inter,Cagliari,1-0,/match/internazionale/cagliari/2007,2007,24,serie_a,20,38,0,1,0,1,19,3,1,49,20,LDLWDWDWLWLWLWLWLWLWLLL,9,1,1,24,11,15,4,11,8,19,27,LWDDDDDDWDDWWDDWLWWLLWD,1,5,5,9,15,DWWWWWWWWWL,WDDDDDWWWLW
-Siena,Milan,3-4,/match/siena/milan/2007,2007,24,serie_a,20,38,2,3,4,12,6,11,6,21,24,LLLDDWDDLDLWDWDDWDDWWWD,3,6,2,13,12,3,11,8,4,33,20,WLWDDDLLLWLDWDDDWLWDWLW,4,6,1,16,9,LDWDDLDDDWW,LDDLWDDDLDL
-Parma,Sampdoria,0-1,/match/parma-fc/sampdoria/2007,2007,24,serie_a,20,38,2,0,1,19,4,6,13,19,39,DLWLWLWWWDLWWDDDDLWWWWW,4,2,5,11,17,14,7,6,10,30,31,LDDDWDWWWWWWLLDLWWDWLWW,2,2,7,9,16,LLLWWLDDLWW,DDWWWWLLWWW
-Palermo FC,Chievo,1-1,/match/palermo/chievo/2007,2007,24,serie_a,20,38,1,1,1,4,13,3,7,39,28,WLWWLLLWLWWWLDWWWDWDLLL,8,0,4,28,16,18,4,7,12,21,32,LDLWLWDLWDWDWLLDWWWWDDL,1,4,6,11,19,WWLWWWLWWWLL,DWWDWWLDWWD
-Livorno,Messina,2-1,/match/livorno/messina/2007,2007,24,serie_a,20,38,0,2,1,13,6,8,9,24,35,WWDDLLDWDWWWDLWDWDWDWWW,4,6,1,10,6,17,3,8,12,23,40,WDWDLWDWWDDLWLWWDWDWLWD,0,3,8,9,23,WDDDWWLDDDW,DDWWDWWWWWW
-Lazio,Torino,2-0,/match/lazio/torino-fc/2007,2007,24,serie_a,20,38,0,2,0,7,9,8,6,33,18,WLLWLDWWDDWLWWWDLLDDLDD,4,5,2,14,6,16,5,7,11,18,30,DWLDLWDLDDWWLWDLLDLWLWL,2,5,4,7,11,LWDDWWWLDDD,WDDDWLDLDWW
-Catania,Fiorentina,0-1,/match/catania/fiorentina/2007,2007,24,serie_a,20,38,2,0,1,10,8,7,8,31,39,LDWDWWWDDLWWWDWWWWWLDLD,6,3,2,19,12,5,12,4,7,35,23,LWWWWLWLLWWDDWLDLWDWWWW,4,3,5,10,13,DDWDWWWWWLL,WWLLWDDLLDWW
-Ascoli,Udinese,2-2,/match/ascoli/udinese/2007,2007,24,serie_a,20,38,1,2,2,20,2,6,15,18,41,WDWDDLWDLWLDWDWLWWWLLLW,1,4,6,11,19,9,9,5,9,24,27,WWDWDLDDLWWWWDWWLLWWLWW,3,2,7,12,21,DDLLLDDLWLL,WDLDWWWWLWLW
-Reggina,Atalanta,1-1,/match/reggina/atalanta/2007,2007,24,serie_a,20,38,1,1,1,8,9,6,8,31,30,WWWDDWWWDLLWDDWLWWWDLWL,6,3,2,18,11,11,7,8,8,36,34,WDDWDLWDWWWDLWWDLWWLDWD,2,3,6,13,19,WDWWLDWLWDW,DWLWWDWDWLW
-Chievo,Torino,3-0,/match/chievo/torino-fc/2007,2007,25,serie_a,20,38,0,3,0,18,4,8,12,22,33,LDLWLWDLWDWDWLLDWWWWDDLD,3,3,6,10,13,16,5,7,12,18,32,DWLDLWDLDDWWLWDLLDLWLWLW,2,5,5,7,13,LLLLDDWLWWDL,WDDDWLDLDWWW
-Atalanta,Palermo FC,1-1,/match/atalanta/palermo/2007,2007,25,serie_a,20,38,1,1,1,11,7,9,8,37,35,WDDWDLWDWWWDLWWDLWWLDWDD,5,5,2,23,15,4,13,4,7,40,29,WLWWLLLWLWWWLDWWWDWDLLLD,5,3,3,11,12,WDDWDWLWLWDD,LWLLLWDWDDL
-Messina,Siena,1-0,/match/messina/siena/2007,2007,25,serie_a,20,38,0,1,0,17,3,8,13,24,42,WDWDLWDWWDDLWLWWDWDWLWDW,3,5,4,14,17,14,6,11,7,24,28,LLLDDWDDLDLWDWDDWDDWWWDL,3,5,4,8,12,WWLDWDLLDDLD,LLDDLWWDWDWD
-Livorno,Ascoli,0-0,/match/livorno/ascoli/2007,2007,25,serie_a,20,38,1,0,0,10,7,8,9,26,36,WWDDLLDWDWWWDLWDWDWDWWWW,5,6,1,12,7,20,2,7,15,20,43,WDWDDLWDLWLDWDWLWWWLLLWD,1,2,9,7,22,WDDDWWLDDDWW,WWDWDWWWWWLW
-Fiorentina,Empoli,2-0,/match/fiorentina/empoli-fc/2007,2007,25,serie_a,20,38,0,2,0,5,13,4,7,36,23,LWWWWLWLLWWDDWLDLWDWWWWL,8,1,2,25,10,6,10,8,6,23,19,LDDWWLDDDDLDWWLWWWWWDWLW,3,4,4,8,11,LWWWLWWDWWW,LDWDDLWWWDL
-Catania,Inter,2-5,/match/catania/internazionale/2007,2007,25,serie_a,20,38,2,2,5,12,8,7,9,31,40,LDWDWWWDDLWWWDWWWWWLDLDL,6,3,3,19,13,1,20,3,1,50,20,LDLWDWDWLWLWLWLWLWLWLLLW,10,2,0,25,9,DDWDWWWWWLLL,LLDDLLLLLLLL
-Cagliari,Lazio,0-2,/match/cagliari/lazio/2007,2007,25,serie_a,20,38,2,0,2,15,4,11,9,19,28,LWDDDDDDWDDWWDDWLWWLLWDW,3,6,3,10,12,7,10,8,6,35,18,WLLWLDWWDDWLWWWDLLDDLDDW,5,3,4,19,12,LDDDWWDDLWLD,WLLWWDLWDLLD
-Roma,Reggina,3-0,/match/roma/reggina/2007,2007,25,serie_a,20,38,0,3,0,2,16,4,4,49,19,WLLLWWDDLWLWLWWWLWDDWLWW,9,2,1,28,6,8,9,7,8,32,31,WWWDDWWWDLLWDDWLWWWDLWLD,3,3,6,13,19,WLWDDWWWWWWW,WWDWDLWDWWLL
-Udinese,Parma,3-3,/match/udinese/parma-fc/2007,2007,25,serie_a,20,38,1,3,3,9,9,6,9,26,29,WWDWDLDDLWWWWDWWLLWWLWWD,6,3,2,12,6,19,4,6,14,19,40,DLWLWLWWWDLWWDDDDLWWWWWL,0,4,8,8,22,WWDDLWDWLWW,DWWWDWWDDWWW
-Milan,Sampdoria,1-0,/match/milan/sampdoria/2007,2007,25,serie_a,20,38,0,1,0,3,12,8,4,37,23,WLWDDDLLLWLDWDDDWLWDWLWL,7,2,3,17,11,13,8,6,10,31,31,LDDDWDWWWWWWLLDLWWDWLWWL,3,2,7,10,16,WWDLLLWDWWWW,DDWWWWLLWWWL
-Ascoli,Parma,0-0,/match/ascoli/parma-fc/2007,2007,26,serie_a,20,38,1,0,0,20,2,8,15,20,43,WDWDDLWDLWLDWDWLWWWLLLWDD,1,5,6,13,21,19,4,7,14,22,43,DLWLWLWWWDLWWDDDDLWWWWWLD,0,5,8,11,25,DDLLLDDLWLLD,DWWWDWWDDWWWD
-Siena,Livorno,0-0,/match/siena/livorno/2007,2007,26,serie_a,20,38,1,0,0,14,6,11,8,24,29,LLLDDWDDLDLWDWDDWDDWWWDLW,3,6,3,16,16,11,7,9,9,26,36,WWDDLLDWDWWWDLWDWDWDWWWWD,2,2,8,14,29,LDWDDLDDDWWL,WDLLWWDWWWWW
-Sampdoria,Atalanta,2-1,/match/sampdoria/atalanta/2007,2007,26,serie_a,20,38,0,2,1,13,8,6,11,31,32,LDDDWDWWWWWWLLDLWWDWLWWLW,5,4,3,21,15,10,7,10,8,38,36,WDDWDLWDWWWDLWWDLWWLDWDDD,2,4,6,14,20,LDWDWWLDWDLW,DWLWWDWDWLWD
-Reggina,Fiorentina,1-1,/match/reggina/fiorentina/2007,2007,26,serie_a,20,38,1,1,1,8,9,7,9,32,34,WWWDDWWWDLLWDDWLWWWDLWLDW,6,4,2,19,12,4,14,4,7,38,23,LWWWWLWLLWWDDWLDLWDWWWWLW,5,3,5,11,13,WDWWLDWLWDWD,WWLLWDDLLDWWL
-Palermo FC,Milan,0-0,/match/palermo/milan/2007,2007,26,serie_a,20,38,1,0,0,5,13,5,7,41,30,WLWWLLLWLWWWLDWWWDWDLLLDD,8,1,4,29,17,3,13,8,4,38,23,WLWDDDLLLWLDWDDDWLWDWLWLW,5,6,1,20,12,WWLWWWLWWWLLD,LDDLWDDDLDLL
-Lazio,Catania,3-1,/match/lazio/catania/2007,2007,26,serie_a,20,38,0,3,1,7,11,8,6,37,18,WLLWLDWWDDWLWWWDLLDDLDDWL,5,5,2,16,6,12,8,7,10,33,45,LDWDWWWDDLWWWDWWWWWLDLDLL,2,4,6,12,27,LWDDWWWLDDDW,LWWWDLWDWWDD
-Empoli,Messina,3-1,/match/empoli-fc/messina/2007,2007,26,serie_a,20,38,0,3,1,6,10,8,7,23,21,LDDWWLDDDDLDWWLWWWWWDWLWW,7,4,2,15,8,16,4,8,13,25,42,WDWDLWDWWDDLWLWWDWDWLWDWW,0,3,9,10,25,DWLDDDWLWWWWW,DDWWDWWWWWWW
-Chievo,Roma,2-2,/match/chievo/roma/2007,2007,26,serie_a,20,38,1,2,2,17,5,8,12,25,33,LDLWLWDLWDWDWLLDWWWWDDLDW,4,3,6,13,13,2,17,4,4,52,19,WLLLWWDDLWLWLWWWLWDDWLWWW,7,2,3,21,13,LLLLDDWLWWDLW,LLWLLLWLDDLW
-Torino,Cagliari,1-0,/match/torino-fc/cagliari/2007,2007,26,serie_a,20,38,0,1,0,18,5,7,13,18,35,DWLDLWDLDDWWLWDLLDLWLWLWW,3,2,7,11,19,15,4,11,10,19,30,LWDDDDDDWDDWWDDWLWWLLWDWL,1,5,6,9,16,DLLWLDWWLLLL,WDDDDDWWWLWW
-Inter,Udinese,1-1,/match/internazionale/udinese/2007,2007,26,serie_a,20,38,1,1,1,1,21,3,1,55,22,LDLWDWDWLWLWLWLWLWLWLLLWL,10,1,1,25,11,9,9,7,9,29,32,WWDWDLDDLWWWWDWWLLWWLWWDD,3,3,7,14,23,DWWWWWWWWWLW,WDLDWWWWLWLWD
-Ascoli,Roma,1-1,/match/ascoli/roma/2007,2007,27,serie_a,20,38,1,1,1,20,2,9,15,20,43,WDWDDLWDLWLDWDWLWWWLLLWDDD,1,6,6,13,21,2,17,5,4,54,21,WLLLWWDDLWLWLWWWLWDDWLWWWD,7,3,3,23,15,DDLLLDDLWLLDD,LLWLLLWLDDLWD
-Livorno,Inter,1-2,/match/livorno/internazionale/2007,2007,27,serie_a,20,38,2,1,2,10,7,10,9,26,36,WWDDLLDWDWWWDLWDWDWDWWWWDD,5,7,1,12,7,1,21,4,1,56,23,LDLWDWDWLWLWLWLWLWLWLLLWLD,11,2,0,30,11,WDDDWWLDDDWWD,LLDDLLLLLLLLL
-Milan,Chievo,3-1,/match/milan/chievo/2007,2007,27,serie_a,20,38,0,3,1,3,13,9,4,38,23,WLWDDDLLLWLDWDDDWLWDWLWLWD,8,2,3,18,11,16,5,9,12,27,35,LDLWLWDLWDWDWLLDWWWWDDLDWD,1,5,6,12,20,WWDLLLWDWWWWW,DWWDWWLDWWDD
-Parma,Reggina,2-2,/match/parma-fc/reggina/2007,2007,27,serie_a,20,38,1,2,2,19,4,8,14,22,43,DLWLWLWWWDLWWDDDDLWWWWWLDD,4,2,6,11,18,8,9,8,9,33,35,WWWDDWWWDLLWDDWLWWWDLWLDWD,3,3,7,13,22,LLLWWLDDLWWL,WWDWDLWDWWLLW
-Messina,Palermo FC,2-0,/match/messina/palermo/2007,2007,27,serie_a,20,38,0,2,0,17,4,8,14,26,45,WDWDLWDWWDDLWLWWDWDWLWDWWW,4,5,4,15,17,5,13,6,7,41,30,WLWWLLLWLWWWLDWWWDWDLLLDDD,5,4,3,12,13,WWLDWDLLDDLDW,LWLLLWDWDDLD
-Lazio,Sampdoria,1-0,/match/lazio/sampdoria/2007,2007,27,serie_a,20,38,0,1,0,7,12,8,6,40,19,WLLWLDWWDDWLWWWDLLDDLDDWLW,6,5,2,19,7,12,9,6,11,33,33,LDDDWDWWWWWWLLDLWWDWLWWLWW,3,2,8,10,17,LWDDWWWLDDDWW,DDWWWWLLWWWLW
-Fiorentina,Torino,5-1,/match/fiorentina/torino-fc/2007,2007,27,serie_a,20,38,0,5,1,4,14,5,7,39,24,LWWWWLWLLWWDDWLDLWDWWWWLWD,9,1,2,27,10,18,6,7,13,19,35,DWLDLWDLDDWWLWDLLDLWLWLWWW,2,5,6,7,16,LWWWLWWDWWWW,WDDDWLDLDWWWW
-Catania,Siena,1-1,/match/catania/siena/2007,2007,27,serie_a,20,38,1,1,1,13,8,7,11,34,48,LDWDWWWDDLWWWDWWWWWLDLDLLW,6,3,4,21,18,14,6,12,8,24,29,LLLDDWDDLDLWDWDDWDDWWWDLWD,3,5,5,8,13,DDWDWWWWWLLLL,LLDDLWWDWDWDW
-Cagliari,Atalanta,2-0,/match/cagliari/atalanta/2007,2007,27,serie_a,20,38,0,2,0,15,4,11,11,19,31,LWDDDDDDWDDWWDDWLWWLLWDWLW,3,6,4,10,14,11,7,10,9,39,38,WDDWDLWDWWWDLWWDLWWLDWDDDW,2,4,7,15,22,LDDDWWDDLWLDL,DWLWWDWDWLWDW
-Udinese,Empoli,0-1,/match/udinese/empoli-fc/2007,2007,27,serie_a,20,38,2,0,1,9,9,8,9,30,33,WWDWDLDDLWWWWDWWLLWWLWWDDD,6,4,2,15,9,6,11,8,7,26,22,LDDWWLDDDDLDWWLWWWWWDWLWWW,3,4,5,8,13,WWDDLWDWLWWD,LDWDDLWWWDLW
-Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/2007,2007,28,serie_a,20,38,1,1,1,13,9,6,12,33,34,LDDDWDWWWWWWLLDLWWDWLWWLWWW,6,4,3,23,16,15,5,11,11,21,31,LWDDDDDDWDDWWDDWLWWLLWDWLWW,1,5,7,9,17,LDWDWWLDWDLWW,WDDDDDWWWLWWW
-Siena,Ascoli,0-1,/match/siena/ascoli/2007,2007,28,serie_a,20,38,2,0,1,14,6,13,8,25,30,LLLDDWDDLDLWDWDDWDDWWWDLWDD,3,7,3,16,16,20,2,10,15,21,44,WDWDDLWDLWLDWDWLWWWLLLWDDDD,1,3,9,7,22,LDWDDLDDDWWLD,WWDWDWWWWWLWD
-Reggina,Lazio,2-3,/match/reggina/lazio/2007,2007,28,serie_a,20,38,2,2,3,8,9,9,9,35,37,WWWDDWWWDLLWDDWLWWWDLWLDWDD,6,5,2,20,13,5,13,8,6,41,19,WLLWLDWWDDWLWWWDLLDDLDDWLWW,6,3,4,21,12,WDWWLDWLWDWDD,WLLWWDLWDLLDL
-Palermo FC,Fiorentina,1-1,/match/palermo/fiorentina/2007,2007,28,serie_a,20,38,1,1,1,7,13,6,8,41,32,WLWWLLLWLWWWLDWWWDWDLLLDDDW,8,2,4,29,17,4,15,5,7,44,25,LWWWWLWLLWWDDWLDLWDWWWWLWDW,5,4,5,12,14,WWLWWWLWWWLLDD,WWLLWDDLLDWWLD
-Inter,Milan,2-1,/match/internazionale/milan/2007,2007,28,serie_a,20,38,0,2,1,1,22,4,1,58,24,LDLWDWDWLWLWLWLWLWLWLLLWLDL,10,2,1,26,12,3,14,9,4,41,24,WLWDDDLLLWLDWDDDWLWDWLWLWDW,5,7,1,20,12,DWWWWWWWWWLWD,LDDLWDDDLDLLD
-Empoli,Livorno,2-2,/match/empoli-fc/livorno/2007,2007,28,serie_a,20,38,1,2,2,6,12,8,7,27,22,LDDWWLDDDDLDWWLWWWWWDWLWWWL,8,4,2,18,9,10,7,10,10,27,38,WWDDLLDWDWWWDLWDWDWDWWWWDDL,2,3,8,14,29,DWLDDDWLWWWWWW,WDLLWWDWWWWWD
-Chievo,Messina,1-1,/match/chievo/messina/2007,2007,28,serie_a,20,38,1,1,1,17,5,9,13,28,38,LDLWLWDLWDWDWLLDWWWWDDLDWDW,4,4,6,15,15,16,5,8,14,28,45,WDWDLWDWWDDLWLWWDWDWLWDWWWW,0,3,10,11,28,LLLLDDWLWWDLWD,DDWWDWWWWWWWW
-Atalanta,Parma,1-1,/match/atalanta/parma-fc/2007,2007,28,serie_a,20,38,1,1,1,12,7,10,10,39,40,WDDWDLWDWWWDLWWDLWWLDWDDDWW,5,6,2,24,16,19,4,9,14,24,45,DLWLWLWWWDLWWDDDDLWWWWWLDDD,0,6,8,11,25,WDDWDWLWLWDDD,DWWWDWWDDWWWDD
-Torino,Catania,1-0,/match/torino-fc/catania/2007,2007,28,serie_a,20,38,0,1,0,18,6,7,14,20,40,DWLDLWDLDDWWLWDLLDLWLWLWWWW,4,2,7,12,19,11,8,8,11,35,49,LDWDWWWDDLWWWDWWWWWLDLDLLWD,2,4,7,13,30,DLLWLDWWLLLLW,LWWWDLWDWWDDW
-Roma,Udinese,3-1,/match/roma/udinese/2007,2007,28,serie_a,20,38,0,3,1,2,17,6,4,55,22,WLLLWWDDLWLWLWWWLWDDWLWWWDD,10,2,1,31,6,9,9,8,10,30,34,WWDWDLDDLWWWWDWWLLWWLWWDDDL,3,4,7,15,24,WLWDDWWWWWWWW,WDLDWWWWLWLWDD
-Sampdoria,Palermo FC,1-1,/match/sampdoria/palermo/2007,2007,29,serie_a,20,38,1,1,1,9,9,7,12,34,35,LDDDWDWWWWWWLLDLWWDWLWWLWWWD,6,5,3,24,17,7,13,7,8,42,33,WLWWLLLWLWWWLDWWWDWDLLLDDDWD,5,4,4,12,15,LDWDWWLDWDLWWD,LWLLLWDWDDLDW
-Parma,Siena,1-0,/match/parma-fc/siena/2007,2007,29,serie_a,20,38,0,1,0,19,4,10,14,25,46,DLWLWLWWWDLWWDDDDLWWWWWLDDDD,4,3,6,13,20,14,6,13,9,25,31,LLLDDWDDLDLWDWDDWDDWWWDLWDDL,3,6,5,9,14,LLLWWLDDLWWLD,LLDDLWWDWDWDWD
-Messina,Torino,0-3,/match/messina/torino-fc/2007,2007,29,serie_a,20,38,2,0,3,16,5,9,14,29,46,WDWDLWDWWDDLWLWWDWDWLWDWWWWD,5,5,4,17,17,18,7,7,14,21,40,DWLDLWDLDDWWLWDLLDLWLWLWWWWW,2,5,7,8,21,WWLDWDLLDDLDWW,WDDDWLDLDWWWWW
-Fiorentina,Roma,0-0,/match/fiorentina/roma/2007,2007,29,serie_a,20,38,1,0,0,4,15,6,7,45,26,LWWWWLWLLWWDDWLDLWDWWWWLWDWD,10,1,2,32,11,2,18,6,4,58,23,WLLLWWDDLWLWLWWWLWDDWLWWWDDW,7,4,3,24,16,LWWWLWWDWWWWW,LLWLLLWLDDLWDD
-Catania,Reggina,1-4,/match/catania/reggina/2007,2007,29,serie_a,20,38,2,1,4,13,8,8,12,35,50,LDWDWWWDDLWWWDWWWWWLDLDLLWDW,6,4,4,22,19,8,9,9,10,37,40,WWWDDWWWDLLWDDWLWWWDLWLDWDDL,3,4,7,15,24,DDWDWWWWWLLLLD,WWDWDLWDWWLLWD
-Cagliari,Chievo,0-2,/match/cagliari/chievo/2007,2007,29,serie_a,20,38,2,0,2,15,5,12,11,22,32,LWDDDDDDWDDWWDDWLWWLLWDWLWWD,4,6,4,12,14,17,5,10,13,29,39,LDLWLWDLWDWDWLLDWWWWDDLDWDWD,1,5,7,13,23,LDDDWWDDLWLDLW,DWWDWWLDWWDDW
-Ascoli,Inter,1-2,/match/ascoli/internazionale/2007,2007,29,serie_a,20,38,2,1,2,20,3,10,15,22,44,WDWDDLWDLWLDWDWLWWWLLLWDDDDL,1,7,6,14,22,1,23,4,1,60,25,LDLWDWDWLWLWLWLWLWLWLLLWLDLW,12,2,0,32,12,DDLLLDDLWLLDDD,LLDDLLLLLLLLLL
-Milan,Atalanta,1-0,/match/milan/atalanta/2007,2007,29,serie_a,20,38,0,1,0,3,14,9,5,42,26,WLWDDDLLLWLDWDDDWLWDWLWLWDWW,9,2,3,21,12,12,7,11,10,40,41,WDDWDLWDWWWDLWWDLWWLDWDDDWWD,2,4,8,15,24,WWDLLLWDWWWWWW,DWLWWDWDWLWDWW
-Udinese,Livorno,4-0,/match/udinese/livorno/2007,2007,29,serie_a,20,38,0,4,0,10,9,8,11,31,37,WWDWDLDDLWWWWDWWLLWWLWWDDDLW,6,4,3,15,10,11,7,11,10,29,40,WWDDLLDWDWWWDLWDWDWDWWWWDDLD,2,4,8,16,31,WWDDLWDWLWWDL,WDLLWWDWWWWWDD
-Lazio,Empoli,3-1,/match/lazio/empoli-fc/2007,2007,29,serie_a,20,38,0,3,1,5,14,8,6,44,21,WLLWLDWWDDWLWWWDLLDDLDDWLWWL,7,5,2,20,7,6,12,9,7,29,24,LDDWWLDDDDLDWWLWWWWWDWLWWWLD,4,4,5,9,13,LWDDWWWLDDDWWW,LDWDDLWWWDLWL
-Reggina,Siena,0-1,/match/reggina/siena/2007,2007,30,serie_a,20,38,2,0,1,8,10,9,10,41,41,WWWDDWWWDLLWDDWLWWWDLWLDWDDLL,6,5,3,22,16,14,6,13,10,25,32,LLLDDWDDLDLWDWDDWDDWWWDLWDDLW,3,6,6,9,15,WDWWLDWLWDWDDL,LLDDLWWDWDWDWDW
-Roma,Milan,1-1,/match/roma/milan/2007,2007,30,serie_a,20,38,1,1,1,2,18,7,4,58,23,WLLLWWDDLWLWLWWWLWDDWLWWWDDWD,11,2,1,34,7,3,15,9,5,43,26,WLWDDDLLLWLDWDDDWLWDWLWLWDWWW,5,7,2,21,14,WLWDDWWWWWWWWW,LDDLWDDDLDLLDW
-Torino,Palermo FC,0-0,/match/torino-fc/palermo/2007,2007,30,serie_a,20,38,1,0,0,17,8,7,14,24,40,DWLDLWDLDDWWLWDLLDLWLWLWWWWWL,5,2,7,13,19,7,13,8,8,43,34,WLWWLLLWLWWWLDWWWDWDLLLDDDWDD,5,5,4,13,16,DLLWLDWWLLLLWW,LWLLLWDWDDLDWD
-Livorno,Catania,4-1,/match/livorno/catania/2007,2007,30,serie_a,20,38,0,4,1,12,7,11,11,29,44,WWDDLLDWDWWWDLWDWDWDWWWWDDLDW,5,7,2,13,9,13,8,8,13,36,54,LDWDWWWDDLWWWDWWWWWLDLDLLWDWL,2,4,8,13,31,WDDDWWLDDDWWDL,LWWWDLWDWWDDWW
-Inter,Parma,2-0,/match/internazionale/parma-fc/2007,2007,30,serie_a,20,38,0,2,0,1,24,4,1,62,26,LDLWDWDWLWLWLWLWLWLWLLLWLDLWL,11,2,1,28,13,19,5,10,14,26,46,DLWLWLWWWDLWWDDDDLWWWWWLDDDDW,0,7,8,12,26,DWWWWWWWWWLWDW,DWWWDWWDDWWWDDD
-Empoli,Ascoli,4-1,/match/empoli-fc/ascoli/2007,2007,30,serie_a,20,38,0,4,1,6,12,9,8,30,27,LDDWWLDDDDLDWWLWWWWWDWLWWWLDW,8,5,2,20,11,20,3,10,16,23,46,WDWDDLWDLWLDWDWLWWWLLLWDDDDLL,2,3,9,8,22,DWLDDDWLWWWWWWD,WWDWDWWWWWLWDL
-Chievo,Sampdoria,1-1,/match/chievo/sampdoria/2007,2007,30,serie_a,20,38,1,1,1,16,6,10,13,31,39,LDLWLWDLWDWDWLLDWWWWDDLDWDWDL,4,5,6,16,16,10,9,8,12,35,36,LDDDWDWWWWWWLLDLWWDWLWWLWWWDD,3,2,9,10,18,LLLLDDWLWWDLWDD,DDWWWWLLWWWLWW
-Cagliari,Messina,2-0,/match/cagliari/messina/2007,2007,30,serie_a,20,38,0,2,0,15,5,12,12,22,34,LWDDDDDDWDDWWDDWLWWLLWDWLWWDL,4,6,5,12,16,18,5,9,15,29,49,WDWDLWDWWDDLWLWWDWDWLWDWWWWDL,0,4,10,12,29,LDDDWWDDLWLDLWL,DDWWDWWWWWWWWD
-Atalanta,Fiorentina,2-2,/match/atalanta/fiorentina/2007,2007,30,serie_a,20,38,1,2,2,11,7,11,11,40,42,WDDWDLWDWWWDLWWDLWWLDWDDDWWDW,5,7,2,25,17,4,15,7,7,45,26,LWWWWLWLLWWDDWLDLWDWWWWLWDWDD,5,5,5,13,15,WDDWDWLWLWDDDD,WWLLWDDLLDWWLDD
-Udinese,Lazio,2-4,/match/udinese/lazio/2007,2007,30,serie_a,20,38,2,2,4,9,10,8,11,35,37,WWDWDLDDLWWWWDWWLLWWLWWDDDLWW,7,4,3,19,10,5,15,8,6,47,22,WLLWLDWWDDWLWWWDLLDDLDDWLWWLW,7,3,4,24,14,WWDDLWDWLWWDLW,WLLWWDLWDLLDLL
-Siena,Udinese,2-2,/match/siena/udinese/2007,2007,31,serie_a,20,38,1,2,2,14,7,13,10,26,32,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWL,3,7,4,16,17,10,10,8,12,37,41,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWL,3,4,8,16,27,LDWDDLDDDWWLDL,WDLDWWWWLWLWDDW
-Sampdoria,Torino,1-0,/match/sampdoria/torino-fc/2007,2007,31,serie_a,20,38,0,1,0,11,9,9,12,36,37,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDD,6,6,3,25,18,17,8,8,14,24,40,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLD,3,5,7,11,21,LDWDWWLDWDLWWDD,WDDDWLDLDWWWWWL
-Reggina,Inter,0-0,/match/reggina/internazionale/2007,2007,31,serie_a,20,38,1,0,0,9,10,9,11,41,42,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLL,6,5,4,22,17,1,25,4,1,64,26,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLW,13,2,0,34,13,WDWWLDWLWDWDDLL,LLDDLLLLLLLLLLL
-Parma,Livorno,1-0,/match/parma-fc/livorno/2007,2007,31,serie_a,20,38,0,1,0,19,5,10,15,26,48,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWW,5,3,6,14,20,8,8,11,11,33,45,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWW,2,4,9,16,35,LLLWWLDDLWWLDW,WDLLWWDWWWWWDDW
-Palermo FC,Cagliari,1-3,/match/palermo/cagliari/2007,2007,31,serie_a,20,38,2,1,3,7,13,9,8,43,34,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDD,8,3,4,30,18,15,6,12,12,24,34,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLW,1,6,7,10,18,WWLWWWLWWWLLDDD,WDDDDDWWWLWWWD
-Lazio,Messina,1-0,/match/lazio/messina/2007,2007,31,serie_a,20,38,0,1,0,4,16,8,6,51,24,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWL,8,5,2,23,8,18,5,9,16,29,51,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLW,0,4,11,12,31,LWDDWWWLDDDWWWW,DDWWDWWWWWWWWDW
-Fiorentina,Ascoli,4-0,/match/fiorentina/ascoli/2007,2007,31,serie_a,20,38,0,4,0,5,15,8,7,47,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDD,10,2,2,32,11,20,3,10,17,24,50,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLW,2,3,10,9,26,LWWWLWWDWWWWWD,WWDWDWWWWWLWDLW
-Catania,Roma,0-2,/match/catania/roma/2007,2007,31,serie_a,20,38,2,0,2,13,8,8,14,37,58,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLW,6,4,5,23,23,2,18,8,4,59,24,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDD,7,5,3,24,16,DDWDWWWWWLLLLDL,LLWLLLWLDDLWDDD
-Atalanta,Chievo,1-0,/match/atalanta/chievo/2007,2007,31,serie_a,20,38,0,1,0,12,7,12,11,42,44,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWD,5,8,2,27,19,16,6,11,13,32,40,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLD,2,5,7,15,23,WDDWDWLWLWDDDDD,DWWDWWLDWWDDWL
-Milan,Empoli,3-1,/match/milan/empoli-fc/2007,2007,31,serie_a,20,38,0,3,1,3,15,10,5,44,27,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWD,10,2,3,22,12,6,13,9,8,34,28,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWW,4,4,6,10,16,WWDLLLWDWWWWWWW,LDWDDLWWWDLWLW
-Cagliari,Empoli,0-0,/match/cagliari/empoli-fc/2007,2007,32,serie_a,20,38,1,0,0,14,7,12,12,27,35,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWL,5,6,5,14,16,6,13,9,9,35,31,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWW,4,4,7,11,19,LDDDWWDDLWLDLWLW,LDWDDLWWWDLWLWW
-Udinese,Chievo,2-1,/match/udinese/chievo/2007,2007,32,serie_a,20,38,0,2,1,11,10,9,12,39,43,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLD,7,4,4,21,14,16,6,11,14,32,41,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDW,2,5,8,15,24,WWDDLWDWLWWDLWL,DWWDWWLDWWDDWLW
-Parma,Catania,1-1,/match/parma-fc/catania/2007,2007,32,serie_a,20,38,1,1,1,18,6,10,15,27,48,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWW,6,3,6,15,20,15,8,8,15,37,60,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWL,2,4,9,14,35,LLLWWLDDLWWLDWW,LWWWDLWDWWDDWWW
-Messina,Milan,1-3,/match/messina/milan/2007,2007,32,serie_a,20,38,2,1,3,19,5,9,17,29,52,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWW,5,5,5,17,20,3,16,10,5,47,28,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDW,5,8,2,22,15,WWLDWDLLDDLDWWL,LDDLWDDDLDLLDWD
-Livorno,Reggina,1-1,/match/livorno/reggina/2007,2007,32,serie_a,20,38,1,1,1,12,8,11,12,33,46,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWW,6,7,2,17,10,9,10,10,11,41,42,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLD,4,4,7,19,25,WDDDWWLDDDWWDLW,WWDWDLWDWWLLWDL
-Torino,Atalanta,1-2,/match/torino-fc/atalanta/2007,2007,32,serie_a,20,38,2,1,2,17,8,8,15,24,41,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDW,5,3,7,13,19,10,8,12,11,43,44,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDW,2,4,9,15,25,DLLWLDWWLLLLWWD,DWLWWDWDWLWDWWW
-Fiorentina,Siena,1-0,/match/fiorentina/siena/2007,2007,32,serie_a,20,38,0,1,0,5,16,8,7,51,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDW,11,2,2,36,11,13,7,14,10,28,34,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLD,4,6,6,10,15,LWWWLWWDWWWWWDW,LLDDLWWDWDWDWDWL
-Ascoli,Lazio,2-2,/match/ascoli/lazio/2007,2007,32,serie_a,20,38,1,2,2,20,3,10,18,24,54,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWW,1,7,7,15,24,4,17,8,6,52,24,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLW,8,3,4,28,16,DDLLLDDLWLLDDDL,WLLWWDLWDLLDLLL
-Roma,Sampdoria,4-0,/match/roma/sampdoria/2007,2007,32,serie_a,20,38,0,4,0,2,19,8,4,61,24,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDL,11,3,1,35,8,8,10,9,12,37,37,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDW,3,3,9,11,19,WLWDDWWWWWWWWWD,DDWWWWLLWWWLWWD
-Inter,Palermo FC,2-2,/match/internazionale/palermo/2007,2007,32,serie_a,20,38,1,2,2,1,25,5,1,64,26,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWD,12,2,1,30,13,7,13,9,9,44,37,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDL,5,6,4,13,16,DWWWWWWWWWLWDWW,LWLLLWDWDDLDWDD
-Sampdoria,Messina,3-1,/match/sampdoria/messina/2007,2007,33,serie_a,20,38,0,3,1,11,10,9,13,37,41,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWW,7,6,3,26,18,19,5,9,18,30,55,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWL,0,4,12,12,32,LDWDWWLDWDLWWDDW,DDWWDWWWWWWWWDWW
-Milan,Cagliari,3-1,/match/milan/cagliari/2007,2007,33,serie_a,20,38,0,3,1,3,17,10,5,50,29,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWL,11,2,3,25,13,13,7,13,12,27,35,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLD,2,6,7,13,19,WWDLLLWDWWWWWWWW,WDDDDDWWWLWWWDL
-Siena,Inter,1-2,/match/siena/internazionale/2007,2007,33,serie_a,20,38,2,1,2,14,7,14,11,28,35,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDW,3,8,4,18,19,1,25,6,1,66,28,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDD,13,3,0,34,13,LDWDDLDDDWWLDLD,LLDDLLLLLLLLLLLD
-Reggina,Udinese,1-1,/match/reggina/udinese/2007,2007,33,serie_a,20,38,1,1,1,10,10,11,11,42,43,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDD,6,6,4,22,17,8,11,9,12,41,44,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDW,3,5,8,18,29,WDWWLDWLWDWDDLLD,WDLDWWWWLWLWDDWD
-Lazio,Fiorentina,0-1,/match/lazio/fiorentina/2007,2007,33,serie_a,20,38,2,0,1,5,17,9,6,54,26,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWD,9,5,2,24,8,4,17,8,7,52,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWW,5,6,5,15,17,LWDDWWWLDDDWWWWW,WWLLWDDLLDWWLDDD
-Empoli,Torino,0-0,/match/empoli-fc/torino-fc/2007,2007,33,serie_a,20,38,1,0,0,6,13,10,9,35,31,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWD,9,5,2,24,12,18,8,8,16,25,43,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWL,3,5,8,11,22,DWLDDDWLWWWWWWDW,WDDDWLDLDWWWWWLW
-Chievo,Livorno,2-1,/match/chievo/livorno/2007,2007,33,serie_a,20,38,0,2,1,17,6,11,15,33,43,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWW,4,6,6,17,17,12,8,12,12,34,47,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWD,2,4,10,16,36,LLLLDDWLWWDLWDDD,WDLLWWDWWWWWDDWW
-Atalanta,Roma,2-1,/match/atalanta/roma/2007,2007,33,serie_a,20,38,0,2,1,9,9,12,11,45,45,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWL,6,8,2,28,19,2,20,8,4,65,24,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLW,8,5,3,26,16,WDDWDWLWLWDDDDDW,LLWLLLWLDDLWDDDL
-Palermo FC,Parma,3-4,/match/palermo/parma-fc/2007,2007,33,serie_a,20,38,2,3,4,7,13,10,9,46,39,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLD,8,3,5,31,21,16,6,11,15,28,49,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWD,0,7,9,12,28,WWLWWWLWWWLLDDDL,DWWWDWWDDWWWDDDW
-Catania,Ascoli,3-3,/match/catania/ascoli/2007,2007,33,serie_a,20,38,1,3,3,15,8,9,15,38,61,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLD,6,4,6,23,25,20,3,11,18,26,56,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWD,2,3,11,9,30,DDWDWWWWWLLLLDLL,WWDWDWWWWWLWDLWW
-Fiorentina,Chievo,1-0,/match/fiorentina/chievo/2007,2007,34,serie_a,20,38,0,1,0,4,18,8,7,53,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWL,12,2,2,37,11,17,7,11,15,35,44,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWW,2,5,9,16,26,LWWWLWWDWWWWWDWW,DWWDWWLDWWDDWLWW
-Torino,Milan,0-1,/match/torino-fc/milan/2007,2007,34,serie_a,20,38,2,0,1,18,8,9,16,25,43,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLD,5,3,8,14,21,3,18,10,5,53,30,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLW,6,8,2,25,16,DLLWLDWWLLLLWWDL,LDDLWDDDLDLLDWDL
-Siena,Sampdoria,0-2,/match/siena/sampdoria/2007,2007,34,serie_a,20,38,2,0,2,15,7,14,12,29,37,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWL,3,8,5,19,21,9,11,9,13,40,42,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWW,3,3,10,11,23,LDWDDLDDDWWLDLDL,DDWWWWLLWWWLWWDW
-Parma,Cagliari,2-1,/match/parma-fc/cagliari/2007,2007,34,serie_a,20,38,0,2,1,16,7,11,15,32,52,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDL,6,4,6,16,21,13,7,13,13,28,38,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDW,2,6,8,14,22,LLLWWLDDLWWLDWWD,WDDDDDWWWLWWWDLW
-Messina,Atalanta,0-0,/match/messina/atalanta/2007,2007,34,serie_a,20,38,1,0,0,19,5,9,19,31,58,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLW,5,5,6,18,23,8,10,12,11,47,46,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLW,3,4,9,17,26,WWLDWDLLDDLDWWLL,DWLWWDWDWLWDWWWL
-Livorno,Palermo FC,1-2,/match/livorno/palermo/2007,2007,34,serie_a,20,38,2,1,2,12,8,12,13,35,49,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDW,6,8,2,18,11,7,13,10,10,49,43,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDL,5,7,4,15,18,WDDDWWLDDDWWDLWD,LWLLLWDWDDLDWDDD
-Inter,Empoli,3-1,/match/internazionale/empoli-fc/2007,2007,34,serie_a,20,38,0,3,1,1,26,6,1,68,29,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDL,12,3,1,32,15,6,13,11,9,35,31,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDD,4,5,7,11,19,DWWWWWWWWWLWDWWD,LDWDDLWWWDLWLWWD
-Ascoli,Reggina,2-3,/match/ascoli/reggina/2007,2007,34,serie_a,20,38,2,2,3,20,3,12,18,29,59,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDD,1,8,7,17,26,11,10,12,11,43,44,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDD,4,5,7,20,26,DDLLLDDLWLLDDDLD,WWDWDLWDWWLLWDLD
-Roma,Lazio,0-0,/match/roma/lazio/2007,2007,34,serie_a,20,38,1,0,0,2,20,8,5,66,26,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWW,12,3,1,39,8,5,17,9,7,54,27,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDL,8,4,4,30,18,WLWDDWWWWWWWWWDW,WLLWWDLWDLLDLLLD
-Udinese,Catania,0-1,/match/udinese/catania/2007,2007,34,serie_a,20,38,2,0,1,10,11,10,12,42,45,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWD,8,4,4,23,15,14,8,10,15,41,64,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDD,2,5,9,15,36,WWDDLWDWLWWDLWLW,LWWWDLWDWWDDWWWD
-Milan,Fiorentina,0-0,/match/milan/fiorentina/2007,2007,35,serie_a,20,38,1,0,0,3,19,10,5,54,30,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWL,12,2,3,28,14,4,19,8,7,54,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLW,6,6,5,16,17,WWDLLLWDWWWWWWWWW,WWLLWDDLLDWWLDDDL
-Sampdoria,Reggina,0-0,/match/sampdoria/reggina/2007,2007,35,serie_a,20,38,1,0,0,9,12,9,13,42,42,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWL,8,6,3,29,19,10,11,12,11,46,46,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDL,5,5,7,23,28,LDWDWWLDWDLWWDDWW,WWDWDLWDWWLLWDLDL
-Palermo FC,Roma,1-2,/match/palermo/roma/2007,2007,35,serie_a,20,38,2,1,2,7,14,10,10,51,44,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLL,8,3,6,34,25,2,20,9,5,66,26,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWD,8,5,4,27,18,WWLWWWLWWWLLDDDLL,LLWLLLWLDDLWDDDLW
-Messina,Inter,0-1,/match/messina/internazionale/2007,2007,35,serie_a,20,38,2,0,1,19,5,10,19,31,58,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWD,5,6,6,18,23,1,27,6,1,71,30,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLW,14,3,0,36,14,WWLDWDLLDDLDWWLLD,LLDDLLLLLLLLLLLDL
-Lazio,Livorno,1-0,/match/lazio/livorno/2007,2007,35,serie_a,20,38,0,1,0,5,17,10,7,54,27,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLD,9,5,3,24,9,12,8,12,14,36,51,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWL,2,4,11,17,38,LWDDWWWLDDDWWWWWL,WDLLWWDWWWWWDDWWW
-Empoli,Catania,2-1,/match/empoli-fc/catania/2007,2007,35,serie_a,20,38,0,2,1,6,13,11,10,36,34,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDW,9,6,2,24,12,13,9,10,15,42,64,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDL,3,5,9,16,36,DWLDDDWLWWWWWWDWD,LWWWDLWDWWDDWWWDL
-Chievo,Parma,1-0,/match/chievo/parma-fc/2007,2007,35,serie_a,20,38,0,1,0,17,7,11,16,35,45,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWW,5,6,6,19,18,14,8,11,15,34,53,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLW,1,7,9,16,31,LLLLDDWLWWDLWDDDW,DWWWDWWDDWWWDDDWL
-Cagliari,Udinese,2-1,/match/cagliari/udinese/2007,2007,35,serie_a,20,38,0,2,1,15,7,13,14,29,40,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWW,5,7,5,14,16,11,11,10,13,42,46,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDL,3,6,8,19,30,LDDDWWDDLWLDLWLWD,WDLDWWWWLWLWDDWDD
-Atalanta,Siena,3-1,/match/atalanta/siena/2007,2007,35,serie_a,20,38,0,3,1,8,10,13,11,47,46,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWD,7,8,2,30,20,16,7,14,13,29,39,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLL,4,6,7,10,16,WDDWDWLWLWDDDDDWW,LLDDLWWDWDWDWDWLW
-Torino,Ascoli,1-0,/match/torino-fc/ascoli/2007,2007,35,serie_a,20,38,0,1,0,18,8,9,17,25,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDL,5,3,9,14,22,20,3,12,19,31,62,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDL,2,4,11,12,33,DLLWLDWWLLLLWWDLL,WWDWDWWWWWLWDLWWD
-Roma,Torino,0-1,/match/roma/torino-fc/2007,2007,36,serie_a,20,38,2,0,1,2,21,9,5,68,27,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWDL,12,4,1,39,8,18,9,9,17,26,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDLW,3,6,8,11,22,WLWDDWWWWWWWWWDWD,WDDDWLDLDWWWWWLWD
-Siena,Empoli,2-0,/match/siena/empoli-fc/2007,2007,36,serie_a,20,38,0,2,0,17,7,14,14,30,42,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLLW,3,8,6,19,23,6,14,11,10,38,35,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDWW,4,5,8,12,22,LDWDDLDDDWWLDLDLL,LDWDDLWWWDLWLWWDW
-Reggina,Chievo,1-1,/match/reggina/chievo/2007,2007,36,serie_a,20,38,1,1,1,10,11,13,11,46,46,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDLD,6,7,4,23,18,16,8,11,16,36,45,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWWW,2,5,10,16,27,WDWWLDWLWDWDDLLDD,DWWDWWLDWWDDWLWWW
-Parma,Messina,4-1,/match/parma-fc/messina/2007,2007,36,serie_a,20,38,0,4,1,15,8,11,16,34,54,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLWW,7,4,6,18,22,19,5,10,20,31,59,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWDL,0,4,13,13,35,LLLWWLDDLWWLDWWDW,DDWWDWWWWWWWWDWWW
-Livorno,Sampdoria,1-0,/match/livorno/sampdoria/2007,2007,36,serie_a,20,38,0,1,0,12,8,12,15,36,52,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWLW,6,8,3,19,13,9,12,10,13,42,42,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWLD,4,3,10,13,23,WDDDWWLDDDWWDLWDL,DDWWWWLLWWWLWWDWL
-Inter,Lazio,4-3,/match/internazionale/lazio/2007,2007,36,serie_a,20,38,0,4,3,1,28,6,1,72,30,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLWL,13,3,1,35,16,5,18,10,7,55,27,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLDW,8,5,4,30,18,DWWWWWWWWWLWDWWDW,WLLWWDLWDLLDLLLDD
-Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/2007,2007,36,serie_a,20,38,0,1,0,4,19,9,7,54,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLWD,13,2,2,38,11,13,8,13,14,31,41,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWWW,2,6,9,15,24,LWWWLWWDWWWWWDWWW,WDDDDDWWWLWWWDLWW
-Catania,Milan,1-1,/match/catania/milan/2007,2007,36,serie_a,20,38,1,1,1,14,9,10,16,43,66,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDLW,6,5,6,26,28,3,19,11,5,54,30,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWLD,7,8,2,26,16,DDWDWWWWWLLLLDLLD,LDDLWDDDLDLLDWDLL
-Ascoli,Palermo FC,3-2,/match/ascoli/palermo/2007,2007,36,serie_a,20,38,0,3,2,20,3,12,20,31,63,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDLW,1,8,8,19,29,8,14,10,11,52,46,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLLL,6,7,4,17,19,DDLLLDDLWLLDDDLDL,LWLLLWDWDDLDWDDDL
-Udinese,Atalanta,2-3,/match/udinese/atalanta/2007,2007,36,serie_a,20,38,2,2,3,11,11,10,14,43,48,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDLW,8,4,5,23,16,7,11,13,11,50,47,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWDW,3,5,9,17,26,WWDDLWDWLWWDLWLWL,DWLWWDWDWLWDWWWLD
-Milan,Udinese,2-3,/match/milan/udinese/2007,2007,37,serie_a,20,38,2,2,3,4,19,12,5,55,31,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWLDD,12,3,3,28,14,12,11,10,15,45,51,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDLWL,3,6,9,20,32,WWDLLLWDWWWWWWWWWD,WDLDWWWWLWLWDDWDDW
-Sampdoria,Catania,1-0,/match/sampdoria/catania/2007,2007,37,serie_a,20,38,0,1,0,9,12,10,14,42,43,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWLDW,8,7,3,29,19,15,9,11,16,44,67,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDLWD,3,5,10,17,38,LDWDWWLDWDLWWDDWWD,LWWWDLWDWWDDWWWDLW
-Palermo FC,Siena,2-1,/match/palermo/siena/2007,2007,37,serie_a,20,38,0,2,1,8,14,10,12,54,49,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLLLW,8,3,7,35,27,17,8,14,14,32,42,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLLWW,4,6,8,11,19,WWLWWWLWWWLLDDDLLL,LLDDLWWDWDWDWDWLWW
-Messina,Fiorentina,2-2,/match/messina/fiorentina/2007,2007,37,serie_a,20,38,1,2,2,19,5,10,21,32,63,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWDLW,5,6,7,18,24,2,20,9,7,55,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLWDW,6,7,5,16,17,WWLDWDLLDDLDWWLLDL,WWLLWDDLLDWWLDDDLD
-Lazio,Parma,0-0,/match/lazio/parma-fc/2007,2007,37,serie_a,20,38,1,0,0,5,18,10,8,58,31,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLDWW,10,5,3,25,9,13,9,11,16,38,55,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLWWW,1,7,10,16,32,LWDDWWWLDDDWWWWWLW,DWWWDWWDDWWWDDDWLW
-Empoli,Reggina,3-3,/match/empoli-fc/reggina/2007,2007,37,serie_a,20,38,1,3,3,6,14,11,11,38,37,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDWWW,10,6,2,26,13,10,11,14,11,47,47,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDLDD,5,6,7,23,28,DWLDDDWLWWWWWWDWDW,WWDWDLWDWWLLWDLDLD
-Chievo,Ascoli,1-0,/match/chievo/ascoli/2007,2007,37,serie_a,20,38,0,1,0,16,8,12,16,37,46,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWWWD,6,6,6,20,18,20,4,12,20,34,65,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDLWW,2,4,12,12,34,LLLLDDWLWWDLWDDDWW,WWDWDWWWWWLWDLWWDW
-Cagliari,Roma,3-2,/match/cagliari/roma/2007,2007,37,serie_a,20,38,0,3,2,14,8,13,15,31,42,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWWWW,6,7,5,16,17,3,21,9,6,68,28,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWDLL,9,5,4,29,19,LDDDWWDDLWLDLWLWDW,LLWLLLWLDDLWDDDLWL
-Atalanta,Inter,1-1,/match/atalanta/internazionale/2007,2007,37,serie_a,20,38,1,1,1,7,12,13,11,53,49,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWDWL,8,8,2,33,21,1,29,6,1,76,33,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLWLW,15,3,0,37,14,WDDWDWLWLWDDDDDWWW,LLDDLLLLLLLLLLLDLL
-Torino,Livorno,0-0,/match/torino-fc/livorno/2007,2007,37,serie_a,20,38,1,0,0,18,10,9,17,27,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDLWL,6,3,9,15,22,11,9,12,15,37,52,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWLWW,2,4,12,17,39,DLLWLDWWLLLLWWDLLW,WDLLWWDWWWWWDDWWWW
-Roma,Messina,4-3,/match/roma/messina/2007,2007,38,serie_a,20,38,0,4,3,3,21,9,7,70,31,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWDLLW,12,4,2,39,9,19,5,11,21,34,65,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWDLWD,0,4,14,14,39,WLWDDWWWWWWWWWDWDL,DDWWDWWWWWWWWDWWWW
-Siena,Lazio,2-1,/match/siena/lazio/2007,2007,38,serie_a,20,38,0,2,1,17,8,14,15,33,44,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLLWWW,4,8,6,21,23,5,18,11,8,58,31,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLDWWD,8,5,5,33,22,LDWDDLDDDWWLDLDLLW,WLLWWDLWDLLDLLLDDW
-Reggina,Milan,2-0,/match/reggina/milan/2007,2007,38,serie_a,20,38,0,2,0,10,11,15,11,50,50,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDLDDD,6,8,4,24,19,4,19,12,6,57,34,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWLDDL,7,9,2,27,17,WDWWLDWLWDWDDLLDDD,LDDLWDDDLDLLDWDLLD
-Parma,Empoli,3-1,/match/parma-fc/empoli-fc/2007,2007,38,serie_a,20,38,0,3,1,14,9,12,16,38,55,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLWWWD,8,4,6,22,23,6,14,12,11,41,40,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDWWWD,4,5,9,12,24,LLLWWLDDLWWLDWWDWW,LDWDDLWWWDLWLWWDWW
-Livorno,Atalanta,4-2,/match/livorno/atalanta/2007,2007,38,serie_a,20,38,0,4,2,12,9,13,15,37,52,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWLWWD,7,8,3,20,13,7,12,14,11,54,50,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWDWLD,4,5,9,20,28,WDDDWWLDDDWWDLWDLW,DWLWWDWDWLWDWWWLDL
-Inter,Torino,3-0,/match/internazionale/torino-fc/2007,2007,38,serie_a,20,38,0,3,0,1,29,7,1,77,34,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLWLWD,14,3,1,39,19,18,10,10,17,27,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDLWLD,4,6,8,12,22,DWWWWWWWWWLWDWWDWW,WDDDWLDLDWWWWWLWDL
-Fiorentina,Sampdoria,5-1,/match/fiorentina/sampdoria/2007,2007,38,serie_a,20,38,0,5,1,2,20,10,7,57,30,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLWDWD,14,2,2,39,11,9,13,10,14,43,43,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWLDWW,4,3,11,13,24,LWWWLWWDWWWWWDWWWW,DDWWWWLLWWWLWWDWLW
-Catania,Chievo,2-0,/match/catania/chievo/2007,2007,38,serie_a,20,38,0,2,0,16,9,11,17,44,68,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDLWDW,6,6,6,27,29,15,9,12,16,38,46,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWWWDW,2,6,10,17,28,DDWDWWWWWLLLLDLLDD,DWWDWWLDWWDDWLWWWD
-Ascoli,Cagliari,2-1,/match/ascoli/cagliari/2007,2007,38,serie_a,20,38,0,2,1,20,4,12,21,34,66,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDLWWW,2,8,8,22,31,13,9,13,15,34,44,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWWWWW,2,6,10,15,25,DDLLLDDLWLLDDDLDLW,WDDDDDWWWLWWWDLWWW
-Udinese,Palermo FC,1-2,/match/udinese/palermo/2007,2007,38,serie_a,20,38,2,1,2,11,12,10,15,48,53,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDLWLL,8,4,6,25,19,8,15,10,12,56,50,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLLLWW,6,7,5,19,22,WWDDLWDWLWWDLWLWLL,LWLLLWDWDDLDWDDDLW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Roma,Livorno,2-0,/match/roma/livorno/2007,2007,1,serie_a,20,38,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Fiorentina,Inter,2-3,/match/fiorentina/internazionale/2007,2007,1,serie_a,20,38,2,2,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Empoli,1-2,/match/sampdoria/empoli-fc/2007,2007,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Reggina,4-3,/match/palermo/reggina/2007,2007,1,serie_a,20,38,0,4,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Messina,Udinese,1-0,/match/messina/udinese/2007,2007,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chievo,Siena,1-2,/match/chievo/siena/2007,2007,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Catania,0-1,/match/cagliari/catania/2007,2007,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Atalanta,Ascoli,3-1,/match/atalanta/ascoli/2007,2007,1,serie_a,20,38,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Milan,Lazio,2-1,/match/milan/lazio/2007,2007,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Torino,Parma,1-1,/match/torino-fc/parma-fc/2007,2007,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Reggina,Cagliari,2-1,/match/reggina/cagliari/2007,2007,2,serie_a,20,38,0,2,1,19,0,0,0,1,3,4,W,0,0,0,0,0,20,0,0,0,1,0,1,L,0,0,0,0,0,,
+Inter,Sampdoria,1-1,/match/internazionale/sampdoria/2007,2007,2,serie_a,20,38,1,1,1,10,2,1,0,0,3,2,L,0,0,0,0,0,17,0,0,0,1,1,2,L,0,0,0,0,0,,
+Siena,Roma,1-3,/match/siena/roma/2007,2007,2,serie_a,20,38,2,1,3,9,2,1,0,0,2,1,L,0,0,0,0,0,1,4,1,0,0,2,0,W,0,0,0,0,0,,
+Livorno,Fiorentina,1-0,/match/livorno/fiorentina/2007,2007,2,serie_a,20,38,0,1,0,18,0,0,0,1,0,2,W,0,0,0,0,0,13,0,0,0,1,2,3,L,0,0,0,0,0,,
+Lazio,Palermo FC,1-2,/match/lazio/palermo/2007,2007,2,serie_a,20,38,2,1,2,12,0,0,0,1,1,2,W,0,0,0,0,0,2,4,1,0,0,4,3,W,0,0,0,0,0,,
+Empoli,Chievo,1-1,/match/empoli-fc/chievo/2007,2007,2,serie_a,20,38,1,1,1,7,2,1,0,0,2,1,L,0,0,0,0,0,16,0,0,0,1,1,2,L,0,0,0,0,0,,
+Catania,Atalanta,0-0,/match/catania/atalanta/2007,2007,2,serie_a,20,38,1,0,0,8,2,1,0,0,1,0,L,0,0,0,0,0,4,4,1,0,0,3,1,W,0,0,0,0,0,,
+Ascoli,Messina,1-1,/match/ascoli/messina/2007,2007,2,serie_a,20,38,1,1,1,14,0,0,0,1,1,3,W,0,0,0,0,0,3,4,1,0,0,1,0,W,0,0,0,0,0,,
+Udinese,Torino,2-0,/match/udinese/torino-fc/2007,2007,2,serie_a,20,38,0,2,0,15,0,0,0,1,0,1,W,0,0,0,0,0,6,2,0,1,0,1,1,D,0,0,0,0,0,,
+Parma,Milan,0-2,/match/parma-fc/milan/2007,2007,2,serie_a,20,38,2,0,2,11,1,0,1,0,1,1,D,0,0,0,0,0,5,4,1,0,0,2,1,W,0,0,0,0,0,,
+Milan,Ascoli,1-0,/match/milan/ascoli/2007,2007,3,serie_a,20,38,0,1,0,2,6,2,0,0,4,1,WL,1,0,0,2,1,14,2,0,1,1,2,4,WD,0,0,1,1,3,W,W
+Sampdoria,Udinese,3-3,/match/sampdoria/udinese/2007,2007,3,serie_a,20,38,1,3,3,15,1,0,1,1,2,3,LD,0,0,1,1,2,11,4,1,0,1,2,1,WW,0,0,1,0,1,L,W
+Palermo FC,Catania,5-3,/match/palermo/catania/2007,2007,3,serie_a,20,38,0,5,3,3,6,2,0,0,6,4,WL,1,0,0,4,3,7,4,1,1,0,1,0,LD,1,0,0,1,0,W,L
+Messina,Reggina,2-0,/match/messina/reggina/2007,2007,3,serie_a,20,38,0,2,0,4,5,1,1,0,2,1,WD,1,0,0,1,0,9,4,1,0,1,5,5,WW,0,0,1,3,4,W,W
+Fiorentina,Parma,1-0,/match/fiorentina/parma-fc/2007,2007,3,serie_a,20,38,0,1,0,18,0,0,0,2,2,4,LW,0,0,1,2,3,16,1,0,1,1,1,3,DL,0,1,0,1,1,L,D
+Chievo,Lazio,0-1,/match/chievo/lazio/2007,2007,3,serie_a,20,38,2,0,1,17,1,0,1,1,2,3,LD,0,0,1,1,2,19,0,0,0,2,2,4,WL,0,0,1,1,2,L,W
+Cagliari,Livorno,2-2,/match/cagliari/livorno/2007,2007,3,serie_a,20,38,1,2,2,20,0,0,0,2,1,3,LW,0,0,1,0,1,10,4,1,0,1,1,2,WW,0,0,1,0,2,L,W
+Atalanta,Empoli,0-0,/match/atalanta/empoli-fc/2007,2007,3,serie_a,20,38,1,0,0,5,5,1,1,0,3,1,WD,1,0,0,3,1,6,4,1,1,0,3,2,LD,1,0,0,2,1,W,L
+Roma,Inter,0-1,/match/roma/internazionale/2007,2007,3,serie_a,20,38,2,0,1,1,6,2,0,0,5,1,WL,1,0,0,2,0,8,4,1,1,0,4,3,LD,1,0,0,3,2,W,L
+Torino,Siena,1-2,/match/torino-fc/siena/2007,2007,3,serie_a,20,38,2,1,2,12,2,0,1,1,1,3,DW,0,1,0,1,1,13,2,1,0,1,3,4,LL,1,0,0,2,1,D,L
+Livorno,Milan,0-0,/match/livorno/milan/2007,2007,4,serie_a,20,38,1,0,0,7,5,1,1,1,3,4,WWD,1,0,0,1,0,2,10,3,0,0,5,1,WLW,1,0,0,2,0,W,L
+Catania,Messina,2-2,/match/catania/messina/2007,2007,4,serie_a,20,38,1,2,2,11,4,1,1,1,4,5,LDW,0,1,0,0,0,3,9,2,1,0,4,1,WDW,0,1,0,1,1,D,D
+Siena,Cagliari,0-0,/match/siena/cagliari/2007,2007,4,serie_a,20,38,1,0,0,12,4,2,0,1,5,5,LLL,0,0,1,1,3,18,2,0,1,2,3,5,LWD,0,0,1,1,2,L,W
+Reggina,Torino,1-1,/match/reggina/torino-fc/2007,2007,4,serie_a,20,38,1,1,1,10,4,1,0,2,5,7,WWW,1,0,0,2,1,15,2,0,1,2,2,5,DWL,0,0,1,0,2,W,W
+Parma,Roma,0-4,/match/parma-fc/roma/2007,2007,4,serie_a,20,38,2,0,4,19,1,0,1,2,1,4,DLW,0,0,1,0,2,5,6,2,0,1,5,2,WLL,1,0,0,3,1,L,L
+Lazio,Atalanta,1-0,/match/lazio/atalanta/2007,2007,4,serie_a,20,38,0,1,0,17,2,1,0,2,3,4,WLL,0,0,1,1,2,4,7,1,2,0,3,1,WDD,0,1,0,0,0,L,D
+Inter,Chievo,4-3,/match/internazionale/chievo/2007,2007,4,serie_a,20,38,0,4,3,6,6,2,1,0,5,3,LDL,0,1,0,1,1,20,1,0,1,2,2,4,LDL,0,1,0,1,1,D,D
+Empoli,Palermo FC,2-0,/match/empoli-fc/palermo/2007,2007,4,serie_a,20,38,0,2,0,9,5,1,2,0,3,2,LDD,0,1,0,1,1,1,10,3,0,0,11,7,WLW,1,0,0,2,1,D,L
+Ascoli,Sampdoria,1-1,/match/ascoli/sampdoria/2007,2007,4,serie_a,20,38,1,1,1,16,2,0,1,2,2,5,WDW,0,1,0,1,1,14,3,0,2,1,5,6,LDD,0,1,0,1,1,D,D
+Udinese,Fiorentina,1-0,/match/udinese/fiorentina/2007,2007,4,serie_a,20,38,0,1,0,8,5,1,1,1,5,4,WWD,1,0,0,2,0,13,4,1,0,2,3,4,LWW,0,0,1,0,1,W,W
+Atalanta,Reggina,1-1,/match/atalanta/reggina/2007,2007,5,serie_a,20,38,1,1,1,8,7,1,2,1,3,2,WDDW,1,1,0,3,1,13,6,1,1,2,6,8,WWWD,0,0,2,3,6,WD,WW
+Torino,Lazio,0-4,/match/torino-fc/lazio/2007,2007,5,serie_a,20,38,2,0,4,17,3,0,2,2,3,6,DWLD,0,1,1,2,3,11,6,2,0,2,4,4,WLLW,1,0,1,2,2,DL,WL
+Sampdoria,Parma,3-2,/match/sampdoria/parma-fc/2007,2007,5,serie_a,20,38,0,3,2,15,4,0,3,1,6,7,LDDD,0,1,1,4,5,19,1,0,1,3,1,8,DLWL,0,1,1,1,2,LD,DW
+Messina,Livorno,0-1,/match/messina/livorno/2007,2007,5,serie_a,20,38,2,0,1,3,10,2,2,0,6,3,WDWD,2,0,0,3,0,9,7,1,2,1,3,4,WWDD,0,1,1,2,4,WW,WD
+Fiorentina,Catania,3-0,/match/fiorentina/catania/2007,2007,5,serie_a,20,38,0,3,0,14,4,1,0,3,3,5,LWWW,1,0,1,3,3,12,6,1,2,1,6,7,LDWD,1,0,1,4,5,LW,LW
+Udinese,Ascoli,0-0,/match/udinese/ascoli/2007,2007,5,serie_a,20,38,1,0,0,5,9,2,1,1,6,4,WWDW,2,0,0,3,0,16,4,0,2,2,3,6,WDWD,0,0,2,1,4,WW,WW
+Cagliari,Inter,1-1,/match/cagliari/internazionale/2007,2007,5,serie_a,20,38,1,1,1,18,3,0,2,2,3,5,LWDD,0,1,1,2,3,4,10,3,1,0,9,6,LDLW,2,0,0,4,2,LD,LL
+Roma,Empoli,1-0,/match/roma/empoli-fc/2007,2007,5,serie_a,20,38,0,1,0,7,8,3,0,1,9,2,WLLL,1,0,1,2,1,6,9,2,2,0,5,2,LDDW,1,1,0,2,1,WL,LD
+Milan,Siena,0-0,/match/milan/siena/2007,2007,5,serie_a,20,38,1,0,0,1,11,3,1,0,5,1,WLWD,2,0,0,3,1,10,6,2,1,1,5,5,LLLD,2,0,0,4,2,WW,LL
+Chievo,Palermo FC,0-1,/match/chievo/palermo/2007,2007,5,serie_a,20,38,2,0,1,20,1,0,1,3,5,8,LDLW,0,0,2,1,3,2,10,3,0,1,11,9,WLWW,1,0,1,2,3,LL,LW
+Sampdoria,Milan,1-1,/match/sampdoria/milan/2007,2007,6,serie_a,20,38,1,1,1,11,8,1,3,1,9,9,LDDDW,1,1,1,7,7,1,13,3,2,0,5,1,WLWDD,1,1,0,2,0,LDW,LD
+Siena,Messina,3-1,/match/siena/messina/2007,2007,6,serie_a,20,38,0,3,1,14,7,2,2,1,5,5,LLLDD,0,1,1,1,3,6,10,2,2,1,6,4,WDWDL,0,2,0,3,3,LD,DD
+Reggina,Roma,1-0,/match/reggina/roma/2007,2007,6,serie_a,20,38,0,1,0,13,7,1,2,2,7,9,WWWDD,1,1,0,3,2,2,12,4,0,1,10,2,WLLLW,2,0,0,7,1,WD,LL
+Parma,Udinese,0-3,/match/parma-fc/udinese/2007,2007,6,serie_a,20,38,2,0,3,19,1,0,1,4,3,11,DLWLW,0,0,2,0,6,5,11,2,2,1,6,4,WWDWD,0,1,1,3,4,LL,WD
+Palermo FC,Atalanta,2-3,/match/palermo/atalanta/2007,2007,6,serie_a,20,38,2,2,3,3,12,4,0,1,12,9,WLWWL,2,0,0,9,6,8,9,1,3,1,4,3,WDDWD,0,1,1,0,1,WW,DW
+Torino,Chievo,1-0,/match/torino-fc/chievo/2007,2007,6,serie_a,20,38,0,1,0,18,3,0,2,3,3,10,DWLDL,0,1,2,2,7,20,1,0,1,4,5,9,LDLWL,0,1,1,4,5,DLL,DW
+Inter,Catania,2-1,/match/internazionale/catania/2007,2007,6,serie_a,20,38,0,2,1,4,11,3,2,0,10,7,LDLWD,1,1,0,5,4,15,6,1,2,2,6,10,LDWDW,1,0,2,4,8,DW,LWW
+Empoli,Fiorentina,1-2,/match/empoli-fc/fiorentina/2007,2007,6,serie_a,20,38,2,1,2,7,9,2,2,1,5,3,LDDWW,1,1,0,3,1,10,8,2,0,3,6,5,LWWWW,0,0,2,0,2,DW,WW
+Ascoli,Livorno,0-2,/match/ascoli/livorno/2007,2007,6,serie_a,20,38,2,0,2,16,5,0,3,2,3,6,WDWDD,0,2,0,2,2,9,9,2,2,1,4,4,WWDDL,1,1,1,3,4,DD,WDL
+Lazio,Cagliari,0-0,/match/lazio/cagliari/2007,2007,6,serie_a,20,38,1,0,0,12,8,3,0,2,8,4,WLLWL,1,0,1,2,2,17,5,0,3,2,4,6,LWDDD,0,1,1,1,2,LW,WD
+Messina,Empoli,2-2,/match/messina/empoli-fc/2007,2007,7,serie_a,20,38,1,2,2,13,10,2,2,2,7,7,WDWDLW,2,0,1,3,1,14,9,2,2,2,6,5,LDDWWL,1,1,1,2,2,WWL,LDW
+Cagliari,Torino,0-0,/match/cagliari/torino-fc/2007,2007,7,serie_a,20,38,1,0,0,17,6,0,4,2,4,6,LWDDDD,0,2,1,3,4,15,7,1,2,3,4,10,DWLDLW,0,1,1,1,3,LDD,WD
+Parma,Ascoli,1-0,/match/parma-fc/ascoli/2007,2007,7,serie_a,20,38,0,1,0,19,1,0,1,5,3,14,DLWLWL,0,0,3,0,9,18,5,0,3,3,3,8,WDWDDL,0,1,2,1,4,LLL,WWD
+Livorno,Siena,0-0,/match/livorno/siena/2007,2007,7,serie_a,20,38,1,0,0,9,11,3,2,1,6,4,WWDDLL,1,1,0,1,0,6,11,3,2,1,8,6,LLLDDW,2,1,0,4,2,WD,LLD
+Fiorentina,Reggina,3-0,/match/fiorentina/reggina/2007,2007,7,serie_a,20,38,0,3,0,12,10,3,0,3,8,6,LWWWWL,2,0,1,6,3,7,11,2,2,2,8,9,WWWDDW,0,1,2,4,7,LWW,WWD
+Catania,Lazio,3-1,/match/catania/lazio/2007,2007,7,serie_a,20,38,0,3,1,16,6,1,2,3,7,12,LDWDWW,0,2,0,2,2,10,10,3,1,2,8,4,WLLWLD,2,0,1,6,2,DD,WLL
+Atalanta,Sampdoria,3-2,/match/atalanta/sampdoria/2007,2007,7,serie_a,20,38,0,3,2,8,11,2,3,1,7,5,WDDWDL,1,2,0,4,2,11,10,1,4,1,10,10,LDDDWD,0,2,0,2,2,WDD,DD
+Roma,Chievo,1-1,/match/roma/chievo/2007,2007,7,serie_a,20,38,1,1,1,4,12,4,0,2,10,3,WLLLWW,2,0,1,3,1,20,1,0,1,5,5,10,LDLWLW,0,1,2,4,6,WLW,DWW
+Udinese,Inter,0-0,/match/udinese/internazionale/2007,2007,7,serie_a,20,38,1,0,0,3,13,3,2,1,9,4,WWDWDL,2,1,0,3,0,1,15,4,2,0,12,8,LDLWDW,2,1,0,5,3,WWD,LLD
+Milan,Palermo FC,0-2,/match/milan/palermo/2007,2007,7,serie_a,20,38,2,0,2,2,14,3,3,0,6,2,WLWDDD,2,1,0,3,1,5,12,4,0,2,14,12,WLWWLL,2,0,1,3,3,WWD,LWL
+Roma,Ascoli,2-2,/match/roma/ascoli/2007,2007,8,serie_a,20,38,1,2,2,4,14,4,1,2,11,4,WLLLWWD,2,1,1,4,2,18,5,0,3,4,3,9,WDWDDLW,0,1,3,1,5,WLWD,WWDW
+Siena,Catania,1-1,/match/siena/catania/2007,2007,8,serie_a,20,38,1,1,1,9,12,3,3,1,8,6,LLLDDWD,1,1,1,4,4,13,10,2,2,3,10,13,LDWDWWW,1,0,3,5,10,LDW,LWWW
+Sampdoria,Lazio,2-0,/match/sampdoria/lazio/2007,2007,8,serie_a,20,38,0,2,0,14,10,1,4,2,12,13,LDDDWDW,1,2,1,8,8,15,10,3,1,3,9,7,WLLWLDW,2,0,2,7,5,LDWD,WLLW
+Reggina,Parma,3-2,/match/reggina/parma-fc/2007,2007,8,serie_a,20,38,0,3,2,11,11,2,2,3,8,12,WWWDDWW,2,1,0,4,2,19,5,1,1,5,4,14,DLWLWLW,0,1,2,3,5,WDW,DWW
+Palermo FC,Messina,2-1,/match/palermo/messina/2007,2007,8,serie_a,20,38,0,2,1,5,14,5,0,2,16,12,WLWWLLL,2,0,1,11,9,10,12,2,3,2,9,9,WDWDLWD,0,2,1,4,6,WWL,DDW
+Inter,Livorno,4-1,/match/internazionale/livorno/2007,2007,8,serie_a,20,38,0,4,1,1,16,4,3,0,12,8,LDLWDWD,2,1,0,7,5,8,13,3,3,1,6,4,WWDDLLD,2,1,1,5,4,DWW,WDLL
+Empoli,Udinese,1-1,/match/empoli-fc/udinese/2007,2007,8,serie_a,20,38,1,1,1,12,10,2,3,2,8,7,LDDWWLD,1,1,1,4,3,2,15,3,3,1,9,4,WWDWDLD,1,1,1,6,4,DWL,WDL
+Chievo,Milan,0-1,/match/chievo/milan/2007,2007,8,serie_a,20,38,2,0,1,20,2,0,2,5,6,11,LDLWLWD,0,0,3,1,4,6,14,3,3,1,6,4,WLWDDDL,1,2,0,3,1,LLL,LDD
+Atalanta,Cagliari,3-3,/match/atalanta/cagliari/2007,2007,8,serie_a,20,38,1,3,3,3,15,3,3,1,10,7,WDDWDLW,2,2,0,7,4,17,8,0,5,2,4,6,LWDDDDD,0,2,1,1,2,WDDW,WDD
+Torino,Fiorentina,0-1,/match/torino-fc/fiorentina/2007,2007,8,serie_a,20,38,2,0,1,16,8,1,3,3,4,10,DWLDLWD,1,1,2,3,7,7,14,4,0,3,11,6,LWWWWLW,1,0,2,2,3,DLLW,WWL
+Udinese,Roma,0-1,/match/udinese/roma/2007,2007,9,serie_a,20,38,2,0,1,4,16,3,4,1,10,5,WWDWDLDD,2,2,0,3,0,5,16,4,2,2,13,6,WLLLWWDD,2,0,1,7,2,WWDD,LLW
+Milan,Inter,3-4,/match/milan/internazionale/2007,2007,9,serie_a,20,38,2,3,4,6,16,4,3,1,7,4,WLWDDDLL,2,1,1,3,3,1,20,5,3,0,16,9,LDLWDWDW,2,2,0,5,3,WWDL,LLDD
+Messina,Chievo,2-1,/match/messina/chievo/2007,2007,9,serie_a,20,38,0,2,1,12,12,2,3,3,10,11,WDWDLWDW,2,1,1,5,3,20,2,0,2,6,6,12,LDLWLWDL,0,2,2,5,7,WWLD,DWWD
+Lazio,Reggina,0-0,/match/lazio/reggina/2007,2007,9,serie_a,20,38,1,0,0,15,10,3,1,4,9,9,WLLWLDWW,1,1,1,2,2,8,15,3,2,3,11,14,WWWDDWWW,0,1,3,4,10,LWD,WWDW
+Fiorentina,Palermo FC,2-3,/match/fiorentina/palermo/2007,2007,9,serie_a,20,38,2,2,3,7,16,5,0,3,12,6,LWWWWLWL,3,0,1,9,3,2,18,6,0,2,18,13,WLWWLLLW,3,0,1,5,3,LWWW,LWLL
+Catania,Torino,1-1,/match/catania/torino-fc/2007,2007,9,serie_a,20,38,1,1,1,14,11,2,3,3,11,14,LDWDWWWD,1,2,0,5,3,17,8,1,3,4,4,11,DWLDLWDL,0,2,1,1,3,DDW,WDD
+Cagliari,Sampdoria,1-0,/match/cagliari/sampdoria/2007,2007,9,serie_a,20,38,0,1,0,16,9,0,6,2,7,9,LWDDDDDD,0,3,1,3,4,10,14,2,4,2,14,13,LDDDWDWW,0,2,1,4,5,LDDD,DDW
+Ascoli,Siena,0-1,/match/ascoli/siena/2007,2007,9,serie_a,20,38,2,0,1,18,6,0,4,4,5,11,WDWDDLWD,0,2,1,2,4,9,14,3,4,1,9,7,LLLDDWDD,2,2,0,4,2,DDL,LLDD
+Parma,Atalanta,3-1,/match/parma-fc/atalanta/2007,2007,9,serie_a,20,38,0,3,1,19,5,1,1,6,6,17,DLWLWLWW,1,0,3,1,9,3,17,3,4,1,13,10,WDDWDLWD,1,1,1,3,3,LLLW,DWL
+Livorno,Empoli,0-0,/match/livorno/empoli-fc/2007,2007,9,serie_a,20,38,1,0,0,11,13,3,3,2,7,8,WWDDLLDW,1,2,0,1,0,13,12,2,4,2,9,8,LDDWWLDD,1,2,1,4,4,WDD,LDWD
+Siena,Parma,2-2,/match/siena/parma-fc/2007,2007,10,serie_a,20,38,1,2,2,9,16,4,4,1,10,7,LLLDDWDDL,1,2,1,5,5,18,9,2,1,6,9,18,DLWLWLWWW,0,1,3,5,8,LDWD,DWWW
+Reggina,Catania,0-1,/match/reggina/catania/2007,2007,10,serie_a,20,38,2,0,1,8,16,3,3,3,11,14,WWWDDWWWD,3,1,0,7,4,14,13,2,4,3,12,15,LDWDWWWDD,1,1,3,6,11,WDWW,LWWWD
+Palermo FC,Sampdoria,2-0,/match/palermo/sampdoria/2007,2007,10,serie_a,20,38,0,2,0,2,20,7,0,2,21,15,WLWWLLLWL,3,0,1,13,10,12,14,2,4,3,14,14,LDDDWDWWW,0,2,2,4,6,WWLW,DDWW
+Livorno,Udinese,1-0,/match/livorno/udinese/2007,2007,10,serie_a,20,38,0,1,0,11,15,3,4,2,7,8,WWDDLLDWD,1,3,0,1,0,5,16,3,4,2,10,6,WWDWDLDDL,1,2,1,7,5,WDDD,WDLD
+Inter,Ascoli,2-0,/match/internazionale/ascoli/2007,2007,10,serie_a,20,38,0,2,0,1,22,6,3,0,20,12,LDLWDWDWL,3,1,0,11,6,19,6,0,4,5,5,12,WDWDDLWDL,0,2,3,3,7,DWWW,WWDWD
+Empoli,Lazio,1-1,/match/empoli-fc/lazio/2007,2007,10,serie_a,20,38,1,1,1,13,13,2,5,2,9,8,LDDWWLDDD,1,2,1,5,4,16,12,3,2,4,9,9,WLLWLDWWD,2,0,3,7,7,DWLD,WLLWW
+Chievo,Cagliari,0-0,/match/chievo/cagliari/2007,2007,10,serie_a,20,38,1,0,0,20,2,0,2,7,7,14,LDLWLWDLW,0,0,4,1,5,15,13,1,6,2,8,9,LWDDDDDDW,0,3,1,4,5,LLLL,WDDD
+Atalanta,Milan,2-0,/match/atalanta/milan/2007,2007,10,serie_a,20,38,0,2,0,4,17,3,4,2,14,13,WDDWDLWDW,2,3,0,10,7,6,16,4,3,2,10,8,WLWDDDLLL,2,2,0,4,1,WDDWD,LDDL
+Torino,Messina,1-1,/match/torino-fc/messina/2007,2007,10,serie_a,20,38,1,1,1,17,9,1,4,4,5,12,DWLDLWDLD,1,1,3,3,8,10,16,3,3,3,12,12,WDWDLWDWW,0,2,2,5,8,DLLWL,DDWW
+Roma,Fiorentina,3-1,/match/roma/fiorentina/2007,2007,10,serie_a,20,38,0,3,1,3,18,5,2,2,14,6,WLLLWWDDL,2,2,1,6,4,7,16,5,0,4,14,9,LWWWWLWLL,2,0,2,3,3,WLWDD,WWLL
+Fiorentina,Atalanta,3-1,/match/fiorentina/atalanta/2007,2007,11,serie_a,20,38,0,3,1,9,16,5,0,5,15,12,LWWWWLWLLW,3,0,2,11,6,4,21,4,4,2,16,13,WDDWDLWDWW,1,1,2,4,6,LWWWL,DWLW
+Milan,Roma,1-2,/match/milan/roma/2007,2007,11,serie_a,20,38,2,1,2,8,16,4,3,3,10,10,WLWDDDLLLW,2,1,2,6,7,3,22,6,2,2,17,7,WLLLWWDDLW,3,0,1,8,2,WWDLL,LLWL
+Sampdoria,Chievo,3-0,/match/sampdoria/chievo/2007,2007,11,serie_a,20,38,0,3,0,14,14,2,4,4,14,16,LDDDWDWWWW,2,2,1,10,8,20,4,0,3,7,7,14,LDLWLWDLWD,0,2,3,6,9,LDWDW,DWWDW
+Palermo FC,Torino,3-0,/match/palermo/torino-fc/2007,2007,11,serie_a,20,38,0,3,0,2,24,8,0,2,23,15,WLWWLLLWLW,4,0,1,15,10,17,11,1,5,4,6,13,DWLDLWDLDD,0,3,1,2,4,WWLWW,WDDD
+Messina,Cagliari,2-2,/match/messina/cagliari/2007,2007,11,serie_a,20,38,1,2,2,7,17,3,4,3,13,13,WDWDLWDWWD,3,1,1,7,4,15,14,1,7,2,8,9,LWDDDDDDWD,0,4,1,4,5,WWLDW,WDDDD
+Lazio,Udinese,5-0,/match/lazio/udinese/2007,2007,11,serie_a,20,38,0,5,0,16,13,3,3,4,10,10,WLLWLDWWDD,1,2,1,2,2,11,16,3,4,3,10,7,WWDWDLDDLW,1,2,2,7,6,LWDD,WDLDW
+Catania,Livorno,3-2,/match/catania/livorno/2007,2007,11,serie_a,20,38,0,3,2,13,15,3,4,3,13,15,LDWDWWWDDL,1,3,0,6,4,5,19,4,4,2,8,8,WWDDLLDWDW,2,1,2,6,8,DDWD,WDLLW
+Ascoli,Empoli,0-1,/match/ascoli/empoli-fc/2007,2007,11,serie_a,20,38,2,0,1,19,6,0,4,6,5,14,WDWDDLWDLW,0,2,2,2,5,12,15,2,6,2,10,9,LDDWWLDDDD,1,3,1,4,4,DDLL,LDWDD
+Siena,Reggina,0-1,/match/siena/reggina/2007,2007,11,serie_a,20,38,2,0,1,6,18,4,5,1,12,9,LLLDDWDDLD,1,3,1,7,7,10,16,3,3,4,11,15,WWWDDWWWDL,0,2,3,4,10,LDWDD,WWDWD
+Parma,Inter,1-2,/match/parma-fc/internazionale/2007,2007,11,serie_a,20,38,2,1,2,18,10,2,2,6,11,20,DLWLWLWWWD,2,0,3,4,10,1,26,7,3,0,22,12,LDLWDWDWLW,3,2,0,9,6,LLLWW,LLDDL
+Empoli,Milan,0-0,/match/empoli-fc/milan/2007,2007,12,serie_a,20,38,1,0,0,13,17,3,6,2,11,9,LDDWWLDDDDL,1,3,1,6,5,15,16,4,3,4,11,12,WLWDDDLLLWL,2,2,1,4,3,DWLDD,LDDLW
+Cagliari,Palermo FC,1-0,/match/cagliari/palermo/2007,2007,12,serie_a,20,38,0,1,0,16,15,1,8,2,10,11,LWDDDDDDWDD,1,3,1,4,4,2,28,9,0,2,26,15,WLWWLLLWLWW,4,0,1,8,5,LDDDW,LWLLL
+Messina,Lazio,1-4,/match/messina/lazio/2007,2007,12,serie_a,20,38,2,1,4,7,19,3,5,3,15,15,WDWDLWDWWDD,3,2,1,9,6,12,17,4,3,4,15,10,WLLWLDWWDDW,2,1,3,8,8,WWLDWD,WLLWWD
+Livorno,Parma,3-0,/match/livorno/parma-fc/2007,2007,12,serie_a,20,38,0,3,0,6,19,4,4,3,10,11,WWDDLLDWDWW,2,3,0,2,0,18,10,2,2,7,12,22,DLWLWLWWWDL,0,2,3,7,10,WDDDW,DWWWD
+Inter,Reggina,1-0,/match/internazionale/reggina/2007,2007,12,serie_a,20,38,0,1,0,1,28,8,3,0,24,13,LDLWDWDWLWL,4,1,0,13,6,11,18,4,3,4,12,15,WWWDDWWWDLL,1,2,3,5,10,DWWWW,WWDWDL
+Chievo,Atalanta,2-2,/match/chievo/atalanta/2007,2007,12,serie_a,20,38,1,2,2,20,4,0,3,8,7,17,LDLWLWDLWDW,0,1,4,1,5,4,21,4,4,3,17,16,WDDWDLWDWWW,1,1,3,5,9,LLLLD,DWLWW
+Ascoli,Fiorentina,1-1,/match/ascoli/fiorentina/2007,2007,12,serie_a,20,38,1,1,1,19,6,0,4,7,5,15,WDWDDLWDLWL,0,2,3,2,6,5,20,6,0,5,18,13,LWWWWLWLLWW,2,0,3,4,6,DDLLL,WWLLW
+Roma,Catania,7-0,/match/roma/catania/2007,2007,12,serie_a,20,38,0,7,0,3,24,7,2,2,19,8,WLLLWWDDLWL,3,2,1,9,5,8,19,4,4,3,16,17,LDWDWWWDDLW,2,1,3,7,11,WLWDDW,LWWWDL
+Udinese,Siena,3-0,/match/udinese/siena/2007,2007,12,serie_a,20,38,0,3,0,14,16,3,4,4,10,12,WWDWDLDDLWW,2,2,1,3,1,10,18,4,5,2,12,10,LLLDDWDDLDL,3,2,0,5,2,WWDDL,LLDDL
+Torino,Sampdoria,1-0,/match/torino-fc/sampdoria/2007,2007,12,serie_a,20,38,0,1,0,17,11,1,5,5,6,16,DWLDLWDLDDW,1,2,3,4,9,9,18,3,4,4,17,16,LDDDWDWWWWW,0,2,3,4,8,DLLWLD,DDWWW
+Chievo,Udinese,2-0,/match/chievo/udinese/2007,2007,13,serie_a,20,38,0,2,0,20,6,0,4,8,9,19,LDLWLWDLWDWD,0,2,4,3,7,7,20,4,4,4,13,12,WWDWDLDDLWWW,1,2,3,7,11,LLLLDD,WDLDWW
+Milan,Messina,1-0,/match/milan/messina/2007,2007,13,serie_a,20,38,0,1,0,16,17,4,4,4,11,12,WLWDDDLLLWLD,2,1,3,7,9,9,19,3,5,4,16,19,WDWDLWDWWDDL,0,3,2,6,9,WWDLLL,DDWWD
+Sampdoria,Roma,2-4,/match/sampdoria/roma/2007,2007,13,serie_a,20,38,2,2,4,15,18,3,4,5,17,17,LDDDWDWWWWWW,3,2,1,13,8,2,28,8,2,2,26,8,WLLLWWDDLWLW,4,0,1,10,3,LDWDWW,LLWLL
+Reggina,Livorno,2-2,/match/reggina/livorno/2007,2007,13,serie_a,20,38,1,2,2,13,18,4,3,5,12,16,WWWDDWWWDLLW,3,1,1,7,5,4,23,5,4,3,13,11,WWDDLLDWDWWW,2,1,3,8,11,WDWWL,WDLLWW
+Lazio,Ascoli,3-1,/match/lazio/ascoli/2007,2007,13,serie_a,20,38,0,3,1,12,19,5,3,4,19,11,WLLWLDWWDDWL,2,2,1,7,2,19,8,0,5,7,6,16,WDWDDLWDLWLD,0,2,4,3,9,LWDDW,WWDWDW
+Empoli,Cagliari,1-0,/match/empoli-fc/cagliari/2007,2007,13,serie_a,20,38,0,1,0,8,19,3,7,2,11,9,LDDWWLDDDDLD,1,4,1,6,5,11,19,2,8,2,11,11,LWDDDDDDWDDW,0,5,1,6,7,DWLDDD,WDDDDD
+Catania,Parma,2-0,/match/catania/parma-fc/2007,2007,13,serie_a,20,38,0,2,0,10,19,4,4,4,16,24,LDWDWWWDDLWW,2,3,0,9,6,18,10,2,2,8,12,25,DLWLWLWWWDLW,0,2,4,7,13,DDWDW,DWWWDW
+Atalanta,Torino,1-2,/match/atalanta/torino-fc/2007,2007,13,serie_a,20,38,2,1,2,5,22,4,5,3,19,18,WDDWDLWDWWWD,3,3,0,12,7,17,15,2,5,5,7,16,DWLDLWDLDDWW,0,3,2,2,7,WDDWDW,WDDDW
+Siena,Fiorentina,1-1,/match/siena/fiorentina/2007,2007,13,serie_a,20,38,1,1,1,14,18,4,5,3,12,13,LLLDDWDDLDLW,1,3,2,7,8,6,21,6,1,5,19,14,LWWWWLWLLWWD,2,1,3,5,7,LDWDDL,WWLLWD
+Palermo FC,Inter,1-2,/match/palermo/internazionale/2007,2007,13,serie_a,20,38,2,1,2,3,28,9,0,3,26,16,WLWWLLLWLWWW,5,0,1,18,10,1,32,9,3,0,25,13,LDLWDWDWLWLW,4,2,0,11,7,WWLWWW,LLDDLL
+Inter,Siena,2-0,/match/internazionale/siena/2007,2007,14,serie_a,20,38,0,2,0,1,34,10,3,0,27,14,LDLWDWDWLWLWL,5,1,0,14,6,11,20,4,6,3,13,14,LLLDDWDDLDLWD,3,2,1,5,5,DWWWWW,LLDDLW
+Roma,Atalanta,2-1,/match/roma/atalanta/2007,2007,14,serie_a,20,38,0,2,1,2,30,9,2,2,30,10,WLLLWWDDLWLWL,4,2,1,16,5,8,22,4,5,4,20,20,WDDWDLWDWWWDL,1,2,3,7,11,WLWDDWW,DWLWWD
+Torino,Empoli,1-0,/match/torino-fc/empoli-fc/2007,2007,14,serie_a,20,38,0,1,0,17,17,3,5,5,9,17,DWLDLWDLDDWWL,2,2,3,5,9,5,23,4,7,2,12,9,LDDWWLDDDDLDW,2,3,1,5,4,DLLWLDW,LDWDDL
+Parma,Palermo FC,0-0,/match/parma-fc/palermo/2007,2007,14,serie_a,20,38,1,0,0,18,10,2,2,9,12,27,DLWLWLWWWDLWW,2,0,4,5,12,3,28,9,0,4,27,18,WLWWLLLWLWWWL,4,0,2,8,6,LLLWWL,LWLLLW
+Messina,Sampdoria,0-2,/match/messina/sampdoria/2007,2007,14,serie_a,20,38,2,0,2,15,19,3,5,5,16,20,WDWDLWDWWDDLW,3,2,2,10,10,16,18,3,4,6,19,21,LDDDWDWWWWWWL,0,2,4,4,9,WWLDWDL,DDWWWW
+Livorno,Chievo,0-2,/match/livorno/chievo/2007,2007,14,serie_a,20,38,2,0,2,4,24,5,5,3,15,13,WWDDLLDWDWWWD,3,3,0,5,0,19,10,1,4,8,11,19,LDLWLWDLWDWDW,0,2,4,6,12,WDDDWW,DWWDWW
+Fiorentina,Lazio,1-0,/match/fiorentina/lazio/2007,2007,14,serie_a,20,38,0,1,0,9,22,6,2,5,20,15,LWWWWLWLLWWDD,4,0,2,14,7,7,23,6,3,4,22,12,WLLWLDWWDDWLW,3,1,3,12,9,LWWWLW,WLLWWDL
+Cagliari,Milan,2-2,/match/cagliari/milan/2007,2007,14,serie_a,20,38,1,2,2,14,19,2,8,3,11,12,LWDDDDDDWDDWW,2,3,1,5,4,10,21,5,4,4,12,12,WLWDDDLLLWLDW,2,3,1,4,3,LDDDWW,LDDLWD
+Udinese,Reggina,1-1,/match/udinese/reggina/2007,2007,14,serie_a,20,38,1,1,1,12,20,4,4,5,13,14,WWDWDLDDLWWWW,3,2,1,6,1,13,20,4,4,5,14,18,WWWDDWWWDLLWD,1,2,4,5,11,WWDDLW,WWDWDLW
+Ascoli,Catania,2-2,/match/ascoli/catania/2007,2007,14,serie_a,20,38,1,2,2,20,8,0,5,8,7,19,WDWDDLWDLWLDW,0,3,3,3,7,6,23,5,4,4,18,24,LDWDWWWDDLWWW,2,1,4,7,18,DDLLLD,LWWWDLW
+Reggina,Ascoli,2-1,/match/reggina/ascoli/2007,2007,15,serie_a,20,38,0,2,1,12,21,4,5,5,15,19,WWWDDWWWDLLWDD,3,2,1,9,7,20,10,0,6,8,9,21,WDWDDLWDLWLDWD,0,2,5,4,12,WDWWLD,WWDWDWW
+Palermo FC,Livorno,3-0,/match/palermo/livorno/2007,2007,15,serie_a,20,38,0,3,0,3,29,9,1,4,27,18,WLWWLLLWLWWWLD,5,0,2,19,12,5,24,5,5,4,15,15,WWDDLLDWDWWWDL,2,2,3,10,13,WWLWWWL,WDLLWWD
+Empoli,Inter,0-3,/match/empoli-fc/internazionale/2007,2007,15,serie_a,20,38,2,0,3,7,23,4,7,3,12,10,LDDWWLDDDDLDWW,2,4,1,7,5,1,38,11,3,0,29,14,LDLWDWDWLWLWLW,5,2,0,13,8,DWLDDDW,LLDDLLL
+Chievo,Fiorentina,0-1,/match/chievo/fiorentina/2007,2007,15,serie_a,20,38,2,0,1,19,12,2,4,8,13,19,LDLWLWDLWDWDWL,1,2,4,5,7,4,26,7,2,5,21,15,LWWWWLWLLWWDDW,2,2,3,6,8,LLLLDDW,WWLLWDD
+Catania,Udinese,1-0,/match/catania/udinese/2007,2007,15,serie_a,20,38,0,1,0,6,24,5,5,4,20,26,LDWDWWWDDLWWWD,3,3,0,11,6,11,22,4,5,5,14,15,WWDWDLDDLWWWWD,1,2,4,7,13,DDWDWW,WDLDWWW
+Cagliari,Parma,0-0,/match/cagliari/parma-fc/2007,2007,15,serie_a,20,38,1,0,0,13,21,2,9,3,13,14,LWDDDDDDWDDWWD,2,4,1,7,6,18,12,2,3,9,12,27,DLWLWLWWWDLWWD,0,2,5,7,15,LDDDWWD,DWWWDWW
+Atalanta,Messina,3-2,/match/atalanta/messina/2007,2007,15,serie_a,20,38,0,3,2,9,22,4,5,5,21,22,WDDWDLWDWWWDLW,3,3,1,13,9,17,19,3,5,6,16,22,WDWDLWDWWDDLWL,0,3,3,6,10,WDDWDWL,DDWWDW
+Milan,Torino,0-0,/match/milan/torino-fc/2007,2007,15,serie_a,20,38,1,0,0,10,22,5,5,4,14,14,WLWDDDLLLWLDWD,3,1,3,8,9,14,21,4,5,5,10,17,DWLDLWDLDDWWLW,1,3,2,4,8,WWDLLLW,WDDDWL
+Sampdoria,Siena,0-0,/match/sampdoria/siena/2007,2007,15,serie_a,20,38,1,0,0,15,20,4,4,6,21,21,LDDDWDWWWWWWLL,3,2,2,15,12,16,20,4,6,4,13,16,LLLDDWDDLDLWDW,3,2,2,5,7,LDWDWWL,LLDDLWW
+Lazio,Roma,3-0,/match/lazio/roma/2007,2007,15,serie_a,20,38,0,3,0,8,23,6,3,5,22,13,WLLWLDWWDDWLWW,3,2,1,10,3,2,34,10,2,2,32,11,WLLLWWDDLWLWLW,5,0,1,14,5,LWDDWW,LLWLLL
+Udinese,Cagliari,3-1,/match/udinese/cagliari/2007,2007,16,serie_a,20,38,0,3,1,14,22,4,5,6,14,16,WWDWDLDDLWWWWDW,3,3,1,7,2,12,23,2,10,3,13,14,LWDDDDDDWDDWWDD,0,5,2,6,8,WWDDLWD,WDDDDDW
+Fiorentina,Milan,2-2,/match/fiorentina/milan/2007,2007,16,serie_a,20,38,1,2,2,4,28,8,2,5,22,15,LWWWWLWLLWWDDWL,5,0,2,15,7,10,24,5,6,4,14,14,WLWDDDLLLWLDWDD,2,4,1,6,5,LWWWLWW,LDDLWDD
+Siena,Atalanta,1-1,/match/siena/atalanta/2007,2007,16,serie_a,20,38,1,1,1,16,21,4,7,4,13,16,LLLDDWDDLDLWDWD,1,4,2,8,9,7,26,5,5,5,24,24,WDDWDLWDWWWDLWW,1,2,4,8,13,LDWDDLD,DWLWWDW
+Reggina,Sampdoria,0-1,/match/reggina/sampdoria/2007,2007,16,serie_a,20,38,2,0,1,8,25,5,5,5,17,20,WWWDDWWWDLLWDDW,4,2,1,11,8,13,22,4,5,6,21,21,LDDDWDWWWWWWLLD,1,2,4,6,9,WDWWLDW,DDWWWWL
+Parma,Chievo,2-2,/match/parma-fc/chievo/2007,2007,16,serie_a,20,38,1,2,2,18,13,2,4,9,12,27,DLWLWLWWWDLWWDD,2,1,4,5,12,19,12,2,4,9,13,20,LDLWLWDLWDWDWLL,1,2,4,8,12,LLLWWLD,DWWDWWL
+Livorno,Lazio,1-1,/match/livorno/lazio/2007,2007,16,serie_a,20,38,1,1,1,9,24,5,5,5,15,18,WWDDLLDWDWWWDLW,3,3,1,5,2,6,27,7,3,5,25,13,WLLWLDWWDDWLWWW,3,1,4,12,10,WDDDWWL,WLLWWDLW
+Inter,Messina,2-0,/match/internazionale/messina/2007,2007,16,serie_a,20,38,0,2,0,1,40,12,3,0,32,14,LDLWDWDWLWLWLWL,6,1,0,16,6,17,19,3,5,7,18,25,WDWDLWDWWDDLWLW,0,3,4,8,13,DWWWWWW,DDWWDWW
+Ascoli,Torino,0-2,/match/ascoli/torino-fc/2007,2007,16,serie_a,20,38,2,0,2,20,10,0,6,9,10,23,WDWDDLWDLWLDWDW,0,4,3,5,9,15,22,4,6,5,10,17,DWLDLWDLDDWWLWD,1,4,2,4,8,DDLLLDD,WDDDWLD
+Catania,Empoli,2-1,/match/catania/empoli-fc/2007,2007,16,serie_a,20,38,0,2,1,5,28,6,5,4,21,26,LDWDWWWDDLWWWDW,4,3,0,12,6,11,23,4,7,4,12,13,LDDWWLDDDDLDWWL,2,3,2,5,5,DDWDWWW,LDWDDLW
+Roma,Palermo FC,4-0,/match/roma/palermo/2007,2007,16,serie_a,20,38,0,4,0,2,34,10,2,3,32,14,WLLLWWDDLWLWLWW,5,2,1,18,6,3,33,10,1,4,30,18,WLWWLLLWLWWWLDW,4,1,2,8,6,WLWDDWWW,LWLLLWD
+Milan,Catania,3-0,/match/milan/catania/2007,2007,17,serie_a,20,38,0,3,0,11,25,5,7,4,16,16,WLWDDDLLLWLDWDDD,3,2,3,8,9,4,32,7,5,4,23,27,LDWDWWWDDLWWWDWW,2,2,4,9,20,WWDLLLWD,LWWWDLWD
+Sampdoria,Livorno,4-1,/match/sampdoria/livorno/2007,2007,17,serie_a,20,38,0,4,1,13,24,5,5,6,22,21,LDDDWDWWWWWWLLDL,3,3,2,15,12,8,26,5,6,5,16,19,WWDDLLDWDWWWDLWD,2,2,4,10,16,LDWDWWLD,WDLLWWDW
+Palermo FC,Ascoli,4-0,/match/palermo/ascoli/2007,2007,17,serie_a,20,38,0,4,0,3,33,10,1,5,30,22,WLWWLLLWLWWWLDWW,6,0,2,22,12,20,10,0,6,10,10,25,WDWDDLWDLWLDWDWL,0,2,6,5,14,WWLWWWLW,WWDWDWWW
+Messina,Parma,1-1,/match/messina/parma-fc/2007,2007,17,serie_a,20,38,1,1,1,17,19,3,5,8,18,27,WDWDLWDWWDDLWLWW,3,2,3,10,12,18,15,2,5,9,14,29,DLWLWLWWWDLWWDDD,0,3,5,7,15,WWLDWDLL,DWWWDWWD
+Lazio,Inter,0-2,/match/lazio/internazionale/2007,2007,17,serie_a,20,38,2,0,2,6,28,7,4,5,26,14,WLLWLDWWDDWLWWWD,4,2,1,13,3,1,44,13,3,0,34,14,LDLWDWDWLWLWLWLW,6,2,0,16,8,LWDDWWW,LLDDLLLL
+Empoli,Siena,1-0,/match/empoli-fc/siena/2007,2007,17,serie_a,20,38,0,1,0,15,23,4,7,5,13,15,LDDWWLDDDDLDWWLW,2,4,2,7,8,14,23,4,8,4,14,17,LLLDDWDDLDLWDWDD,3,3,2,5,7,DWLDDDWL,LLDDLWWD
+Chievo,Reggina,3-2,/match/chievo/reggina/2007,2007,17,serie_a,20,38,0,3,2,19,13,2,5,9,15,22,LDLWLWDLWDWDWLLD,1,2,5,5,8,10,25,5,5,6,17,21,WWWDDWWWDLLWDDWL,1,3,4,6,12,LLLLDDWL,WWDWDLWD
+Cagliari,Fiorentina,0-2,/match/cagliari/fiorentina/2007,2007,17,serie_a,20,38,2,0,2,16,23,2,10,4,14,17,LWDDDDDDWDDWWDDW,2,5,1,7,6,5,30,8,3,5,24,17,LWWWWLWLLWWDDWLD,3,2,3,7,8,LDDDWWDD,WWLLWDDL
+Atalanta,Udinese,1-2,/match/atalanta/udinese/2007,2007,17,serie_a,20,38,2,1,2,7,27,5,6,5,25,25,WDDWDLWDWWWDLWWD,4,3,1,16,11,9,26,5,5,6,17,17,WWDWDLDDLWWWWDWW,1,2,5,7,14,WDDWDWLW,WDLDWWWW
+Torino,Roma,1-2,/match/torino-fc/roma/2007,2007,17,serie_a,20,38,2,1,2,12,24,5,6,5,12,17,DWLDLWDLDDWWLWDL,3,2,3,6,9,2,38,11,2,3,36,14,WLLLWWDDLWLWLWWW,5,0,2,14,8,DLLWLDWW,LLWLLLW
+Roma,Cagliari,2-0,/match/roma/cagliari/2007,2007,18,serie_a,20,38,0,2,0,2,40,12,2,3,38,15,WLLLWWDDLWLWLWWWL,6,2,1,22,6,16,23,2,10,5,14,19,LWDDDDDDWDDWWDDWL,0,5,3,7,11,WLWDDWWWW,WDDDDDWW
+Siena,Palermo FC,1-1,/match/siena/palermo/2007,2007,18,serie_a,20,38,1,1,1,15,23,4,8,5,14,18,LLLDDWDDLDLWDWDDW,1,5,2,9,10,3,37,11,1,5,34,22,WLWWLLLWLWWWLDWWW,4,1,3,8,10,LDWDDLDD,LWLLLWDW
+Reggina,Empoli,4-1,/match/reggina/empoli-fc/2007,2007,18,serie_a,20,38,0,4,1,13,25,5,5,7,19,24,WWWDDWWWDLLWDDWLW,4,2,2,11,9,11,27,5,7,5,14,15,LDDWWLDDDDLDWWLWW,2,3,3,6,7,WDWWLDWL,LDWDDLWW
+Parma,Lazio,1-3,/match/parma-fc/lazio/2007,2007,18,serie_a,20,38,2,1,3,19,16,2,6,9,15,30,DLWLWLWWWDLWWDDDD,2,2,4,7,14,8,28,7,4,6,26,16,WLLWLDWWDDWLWWWDL,3,2,4,13,11,LLLWWLDD,WLLWWDLWD
+Livorno,Torino,1-1,/match/livorno/torino-fc/2007,2007,18,serie_a,20,38,1,1,1,12,26,5,6,6,17,23,WWDDLLDWDWWWDLWDW,3,4,1,6,3,14,24,5,6,6,13,19,DWLDLWDLDDWWLWDLL,2,4,2,6,8,WDDDWWLD,WDDDWLDL
+Inter,Atalanta,2-1,/match/internazionale/atalanta/2007,2007,18,serie_a,20,38,0,2,1,1,46,14,3,0,36,14,LDLWDWDWLWLWLWLWL,7,1,0,18,6,10,27,5,6,6,26,27,WDDWDLWDWWWDLWWDL,1,3,4,9,14,DWWWWWWW,DWLWWDWD
+Fiorentina,Messina,4-0,/match/fiorentina/messina/2007,2007,18,serie_a,20,38,0,4,0,5,32,9,3,5,26,17,LWWWWLWLLWWDDWLDL,5,1,2,17,9,17,21,3,6,8,19,28,WDWDLWDWWDDLWLWWD,0,3,5,8,15,LWWWLWWD,DDWWDWWW
+Catania,Sampdoria,4-2,/match/catania/sampdoria/2007,2007,18,serie_a,20,38,0,4,2,4,32,7,5,5,23,30,LDWDWWWDDLWWWDWWW,5,3,0,14,7,9,28,6,5,6,26,22,LDDDWDWWWWWWLLDLW,2,2,4,7,9,DDWDWWWW,DDWWWWLL
+Ascoli,Chievo,3-0,/match/ascoli/chievo/2007,2007,18,serie_a,20,38,0,3,0,20,10,0,6,11,10,29,WDWDDLWDLWLDWDWLW,0,4,4,5,11,18,17,3,5,9,18,24,LDLWLWDLWDWDWLLDW,1,3,4,10,14,DDLLLDDL,DWWDWWLD
+Udinese,Milan,0-3,/match/udinese/milan/2007,2007,18,serie_a,20,38,2,0,3,7,28,6,5,6,19,18,WWDWDLDDLWWWWDWWL,4,3,1,10,3,6,29,6,7,4,19,16,WLWDDDLLLWLDWDDDW,2,5,1,8,7,WWDDLWDW,LDDLWDDD
+Empoli,Parma,2-0,/match/empoli-fc/parma-fc/2007,2007,19,serie_a,20,38,0,2,0,12,27,5,7,6,15,19,LDDWWLDDDDLDWWLWWW,3,4,2,8,8,19,16,2,6,10,16,33,DLWLWLWWWDLWWDDDDL,0,4,5,8,16,DWLDDDWLW,DWWWDWWDD
+Torino,Inter,1-3,/match/torino-fc/internazionale/2007,2007,19,serie_a,20,38,2,1,3,14,25,5,7,6,14,20,DWLDLWDLDDWWLWDLLD,3,2,4,7,11,1,50,15,3,0,38,15,LDLWDWDWLWLWLWLWLW,7,2,0,18,8,DLLWLDWWL,LLDDLLLLL
+Palermo FC,Udinese,2-0,/match/palermo/udinese/2007,2007,19,serie_a,20,38,0,2,0,3,38,11,2,5,35,23,WLWWLLLWLWWWLDWWWD,7,0,2,26,12,10,28,6,5,7,19,21,WWDWDLDDLWWWWDWWLL,2,2,5,9,15,WWLWWWLWW,WDLDWWWWL
+Messina,Roma,1-1,/match/messina/roma/2007,2007,19,serie_a,20,38,1,1,1,17,21,3,6,9,19,32,WDWDLWDWWDDLWLWWDW,3,3,3,11,13,2,44,13,2,3,40,15,WLLLWWDDLWLWLWWWLW,6,0,2,16,9,WWLDWDLLD,LLWLLLWL
+Chievo,Catania,2-1,/match/chievo/catania/2007,2007,19,serie_a,20,38,0,2,1,18,17,3,5,10,18,27,LDLWLWDLWDWDWLLDWW,2,2,5,8,10,4,36,8,5,5,27,32,LDWDWWWDDLWWWDWWWW,2,2,5,9,23,LLLLDDWLW,LWWWDLWDW
+Cagliari,Ascoli,1-0,/match/cagliari/ascoli/2007,2007,19,serie_a,20,38,0,1,0,16,23,2,10,6,14,21,LWDDDDDDWDDWWDDWLW,2,5,2,7,8,20,14,1,6,11,13,29,WDWDDLWDLWLDWDWLWW,0,2,7,5,18,LDDDWWDDL,WWDWDWWWW
+Atalanta,Livorno,5-1,/match/atalanta/livorno/2007,2007,19,serie_a,20,38,0,5,1,13,27,5,6,7,27,29,WDDWDLWDWWWDLWWDLW,4,3,2,17,13,9,28,5,7,6,18,24,WWDDLLDWDWWWDLWDWD,2,2,5,11,20,WDDWDWLWL,WDLLWWDWW
+Milan,Reggina,3-1,/match/milan/reggina/2007,2007,19,serie_a,20,38,0,3,1,6,31,7,7,4,22,16,WLWDDDLLLWLDWDDDWL,4,2,3,11,9,8,29,6,5,7,23,25,WWWDDWWWDLLWDDWLWW,1,3,5,8,15,WWDLLLWDW,WWDWDLWDW
+Sampdoria,Fiorentina,0-0,/match/sampdoria/fiorentina/2007,2007,19,serie_a,20,38,1,0,0,11,28,6,5,7,28,26,LDDDWDWWWWWWLLDLWW,4,3,2,19,13,5,36,10,3,5,30,17,LWWWWLWLLWWDDWLDLW,4,2,3,9,8,LDWDWWLDW,WWLLWDDLL
+Lazio,Siena,1-1,/match/lazio/siena/2007,2007,19,serie_a,20,38,1,1,1,7,30,8,4,6,29,17,WLLWLDWWDDWLWWWDLL,4,2,2,13,5,15,25,4,9,5,15,19,LLLDDWDDLDLWDWDDWD,3,3,3,5,8,LWDDWWWL,LLDDLWWDW
+Ascoli,Atalanta,1-3,/match/ascoli/atalanta/2007,2007,20,serie_a,20,38,2,1,3,20,14,1,6,12,13,30,WDWDDLWDLWLDWDWLWWW,1,4,4,8,11,8,31,6,6,7,32,30,WDDWDLWDWWWDLWWDLWW,1,3,5,10,16,DDLLLDDLW,DWLWWDWDW
+Reggina,Palermo FC,0-0,/match/reggina/palermo/2007,2007,20,serie_a,20,38,1,0,0,11,29,6,5,8,24,28,WWWDDWWWDLLWDDWLWWW,5,2,2,15,10,3,42,12,2,5,37,23,WLWWLLLWLWWWLDWWWDW,4,2,3,9,11,WDWWLDWLW,LWLLLWDWD
+Siena,Chievo,2-1,/match/siena/chievo/2007,2007,20,serie_a,20,38,0,2,1,15,26,4,10,5,16,20,LLLDDWDDLDLWDWDDWDD,1,6,2,10,11,18,21,4,5,10,20,28,LDLWLWDLWDWDWLLDWWW,1,3,5,10,17,LDWDDLDDD,DWWDWWLDW
+Parma,Torino,1-0,/match/parma-fc/torino-fc/2007,2007,20,serie_a,20,38,0,1,0,19,16,2,6,11,16,35,DLWLWLWWWDLWWDDDDLW,2,2,5,8,17,16,25,5,7,7,15,23,DWLDLWDLDDWWLWDLLDL,2,5,2,7,9,LLLWWLDDL,WDDDWLDLD
+Livorno,Roma,1-1,/match/livorno/roma/2007,2007,20,serie_a,20,38,1,1,1,13,28,5,7,7,19,29,WWDDLLDWDWWWDLWDWDW,3,5,1,7,4,2,45,13,3,3,41,16,WLLLWWDDLWLWLWWWLWD,6,1,2,17,10,WDDDWWLDD,LLWLLLWLD
+Lazio,Milan,0-0,/match/lazio/milan/2007,2007,20,serie_a,20,38,1,0,0,7,32,8,5,6,30,18,WLLWLDWWDDWLWWWDLLD,4,3,2,14,6,6,35,8,7,4,25,17,WLWDDDLLLWLDWDDDWLW,3,5,1,11,7,LWDDWWWLD,LDDLWDDDL
+Inter,Fiorentina,3-1,/match/internazionale/fiorentina/2007,2007,20,serie_a,20,38,0,3,1,1,52,16,3,0,41,16,LDLWDWDWLWLWLWLWLWL,8,1,0,20,7,4,37,10,4,5,30,17,LWWWWLWLLWWDDWLDLWD,4,3,3,9,8,DWWWWWWWW,WWLLWDDLLD
+Empoli,Sampdoria,2-0,/match/empoli-fc/sampdoria/2007,2007,20,serie_a,20,38,0,2,0,9,31,6,7,6,17,19,LDDWWLDDDDLDWWLWWWW,4,4,2,10,8,10,30,6,6,7,28,26,LDDDWDWWWWWWLLDLWWD,2,2,5,9,13,DWLDDDWLWW,DDWWWWLLW
+Catania,Cagliari,0-1,/match/catania/cagliari/2007,2007,20,serie_a,20,38,2,0,1,5,36,8,5,6,28,34,LDWDWWWDDLWWWDWWWWW,6,3,0,18,9,14,27,3,10,6,15,21,LWDDDDDDWDDWWDDWLWW,0,5,4,7,13,DDWDWWWWW,WDDDDDWWW
+Udinese,Messina,1-0,/match/udinese/messina/2007,2007,20,serie_a,20,38,0,1,0,12,28,6,5,8,19,23,WWDWDLDDLWWWWDWWLLW,4,3,2,10,6,17,23,3,7,9,20,33,WDWDLWDWWDDLWLWWDWD,0,3,6,8,19,WWDDLWDWL,DDWWDWWWW
+Palermo FC,Lazio,0-3,/match/palermo/lazio/2007,2007,21,serie_a,20,38,2,0,3,3,43,12,3,5,37,23,WLWWLLLWLWWWLDWWWDWD,8,0,2,28,12,8,34,8,6,6,30,18,WLLWLDWWDDWLWWWDLLDD,4,2,4,16,12,WWLWWWLWWW,WLLWWDLWDL
+Torino,Udinese,2-3,/match/torino-fc/udinese/2007,2007,21,serie_a,20,38,2,2,3,16,25,5,7,8,15,24,DWLDLWDLDDWWLWDLLDLW,3,2,5,8,14,10,32,7,5,8,20,23,WWDWDLDDLWWWWDWWLLWW,2,2,6,9,17,DLLWLDWWLL,WDLDWWWWLW
+Messina,Ascoli,1-2,/match/messina/ascoli/2007,2007,21,serie_a,20,38,2,1,2,17,23,3,7,10,20,34,WDWDLWDWWDDLWLWWDWDW,3,4,3,12,14,20,14,1,6,13,14,33,WDWDDLWDLWLDWDWLWWWL,0,2,8,5,19,WWLDWDLLDD,WWDWDWWWWW
+Fiorentina,Livorno,2-1,/match/fiorentina/livorno/2007,2007,21,serie_a,20,38,0,2,1,4,37,10,4,6,31,20,LWWWWLWLLWWDDWLDLWDW,6,1,2,21,9,13,30,5,8,7,20,30,WWDDLLDWDWWWDLWDWDWD,2,2,6,12,25,LWWWLWWDW,WDLLWWDWWW
+Chievo,Empoli,0-0,/match/chievo/empoli-fc/2007,2007,21,serie_a,20,38,1,0,0,18,21,4,5,11,21,30,LDLWLWDLWDWDWLLDWWWW,3,2,5,10,11,7,35,7,7,6,19,19,LDDWWLDDDDLDWWLWWWWW,2,3,4,7,11,LLLLDDWLWW,LDWDDLWWW
+Cagliari,Reggina,0-2,/match/cagliari/reggina/2007,2007,21,serie_a,20,38,2,0,2,15,29,4,10,6,16,21,LWDDDDDDWDDWWDDWLWWL,3,5,2,8,8,11,31,6,6,8,24,28,WWWDDWWWDLLWDDWLWWWD,1,3,6,9,18,LDDDWWDDLW,WWDWDLWDWW
+Atalanta,Catania,1-1,/match/atalanta/catania/2007,2007,21,serie_a,20,38,1,1,1,9,33,7,6,7,35,31,WDDWDLWDWWWDLWWDLWWL,5,3,2,22,14,5,36,8,5,7,28,35,LDWDWWWDDLWWWDWWWWWL,2,2,6,10,25,WDDWDWLWLW,LWWWDLWDWW
+Roma,Siena,1-0,/match/roma/siena/2007,2007,21,serie_a,20,38,0,1,0,2,46,13,4,3,42,17,WLLLWWDDLWLWLWWWLWDD,7,2,1,24,6,14,30,5,10,5,18,21,LLLDDWDDLDLWDWDDWDDW,3,4,3,6,9,WLWDDWWWWW,LLDDLWWDWD
+Milan,Parma,1-0,/match/milan/parma-fc/2007,2007,21,serie_a,20,38,0,1,0,6,36,8,8,4,25,17,WLWDDDLLLWLDWDDDWLWD,5,2,3,14,10,19,20,3,6,11,17,35,DLWLWLWWWDLWWDDDDLWW,0,4,6,8,18,WWDLLLWDWW,DWWWDWWDDW
+Sampdoria,Inter,0-2,/match/sampdoria/internazionale/2007,2007,21,serie_a,20,38,2,0,2,12,30,6,6,8,28,28,LDDDWDWWWWWWLLDLWWDW,4,4,2,19,13,1,56,17,3,0,44,17,LDLWDWDWLWLWLWLWLWLW,8,2,0,21,9,LDWDWWLDWD,LLDDLLLLLL
+Catania,Palermo FC,1-2,/match/catania/palermo/2007,2007,22,serie_a,20,38,2,1,2,6,37,8,6,7,29,36,LDWDWWWDDLWWWDWWWWWLD,6,3,1,18,10,3,43,12,3,6,37,26,WLWWLLLWLWWWLDWWWDWDL,4,3,3,9,11,DDWDWWWWWL,LWLLLWDWDD
+Reggina,Messina,3-1,/match/reggina/messina/2007,2007,22,serie_a,20,38,0,3,1,11,33,7,6,8,26,28,WWWDDWWWDLLWDDWLWWWDL,5,3,2,15,10,17,23,3,7,11,21,36,WDWDLWDWWDDLWLWWDWDWL,0,3,7,8,20,WDWWLDWLWD,DDWWDWWWWW
+Livorno,Cagliari,2-1,/match/livorno/cagliari/2007,2007,22,serie_a,20,38,0,2,1,13,30,5,8,8,21,32,WWDDLLDWDWWWDLWDWDWDW,3,6,1,8,5,15,29,4,10,7,16,23,LWDDDDDDWDDWWDDWLWWLL,1,5,4,8,13,WDDDWWLDDD,WDDDDDWWWL
+Lazio,Chievo,0-0,/match/lazio/chievo/2007,2007,22,serie_a,20,38,1,0,0,8,36,9,6,6,33,18,WLLWLDWWDDWLWWWDLLDDL,4,4,2,14,6,18,23,4,6,11,21,30,LDLWLWDLWDWDWLLDWWWWD,1,3,6,11,19,LWDDWWWLDD,DWWDWWLDWW
+Inter,Roma,1-3,/match/internazionale/roma/2007,2007,22,serie_a,20,38,2,1,3,1,58,18,3,0,46,17,LDLWDWDWLWLWLWLWLWLWL,9,1,0,23,8,2,50,14,4,3,43,17,WLLLWWDDLWLWLWWWLWDDW,6,2,2,18,11,DWWWWWWWWW,LLWLLLWLDD
+Empoli,Atalanta,2-0,/match/empoli-fc/atalanta/2007,2007,22,serie_a,20,38,0,2,0,7,36,7,8,6,19,19,LDDWWLDDDDLDWWLWWWWWD,5,4,2,12,8,9,35,7,7,7,36,32,WDDWDLWDWWWDLWWDLWWLD,2,3,5,13,17,DWLDDDWLWWW,DWLWWDWDWL
+Ascoli,Milan,2-5,/match/ascoli/milan/2007,2007,22,serie_a,20,38,2,2,5,20,16,2,6,13,16,34,WDWDDLWDLWLDWDWLWWWLL,1,4,5,9,14,5,40,9,8,4,26,17,WLWDDDLLLWLDWDDDWLWDW,3,6,1,11,7,DDLLLDDLWL,LDDLWDDDLD
+Udinese,Sampdoria,1-0,/match/udinese/sampdoria/2007,2007,22,serie_a,20,38,0,1,0,10,34,8,5,8,23,25,WWDWDLDDLWWWWDWWLLWWL,5,3,2,11,6,12,30,6,6,9,28,30,LDDDWDWWWWWWLLDLWWDWL,2,2,6,9,15,WWDDLWDWLW,DDWWWWLLWW
+Parma,Fiorentina,2-0,/match/parma-fc/fiorentina/2007,2007,22,serie_a,20,38,0,2,0,19,20,3,6,12,17,36,DLWLWLWWWDLWWDDDDLWWW,3,2,5,9,17,4,41,11,4,6,33,21,LWWWWLWLLWWDDWLDLWDWW,4,3,4,10,11,LLLWWLDDLW,WWLLWDDLLDW
+Siena,Torino,1-0,/match/siena/torino-fc/2007,2007,22,serie_a,20,38,0,1,0,14,30,5,10,6,18,22,LLLDDWDDLDLWDWDDWDDWW,2,6,2,12,12,16,25,5,7,9,17,27,DWLDLWDLDDWWLWDLLDLWL,2,5,3,7,10,LDWDDLDDDW,WDDDWLDLDW
+Milan,Livorno,2-1,/match/milan/livorno/2007,2007,23,serie_a,20,38,0,2,1,4,42,10,8,4,31,19,WLWDDDLLLWLDWDDDWLWDWL,6,2,3,15,10,12,34,6,8,8,23,33,WWDDLLDWDWWWDLWDWDWDWW,2,2,7,13,27,WWDLLLWDWWW,WDLLWWDWWWW
+Sampdoria,Ascoli,2-0,/match/sampdoria/ascoli/2007,2007,23,serie_a,20,38,0,2,0,14,30,6,6,10,28,31,LDDDWDWWWWWWLLDLWWDWLW,4,4,3,19,15,20,16,2,6,14,18,39,WDWDDLWDLWLDWDWLWWWLLL,1,2,8,7,20,LDWDWWLDWDL,WWDWDWWWWWL
+Palermo FC,Empoli,0-1,/match/palermo/empoli-fc/2007,2007,23,serie_a,20,38,2,0,1,3,45,13,3,6,39,27,WLWWLLLWLWWWLDWWWDWDLL,8,0,3,28,15,6,40,8,8,6,21,19,LDDWWLDDDDLDWWLWWWWWDW,2,4,4,7,11,WWLWWWLWWWL,LDWDDLWWWD
+Messina,Catania,1-1,/match/messina/catania/2007,2007,23,serie_a,20,38,1,1,1,19,23,3,7,12,22,39,WDWDLWDWWDDLWLWWDWDWLW,3,4,4,13,16,10,37,8,6,8,30,38,LDWDWWWDDLWWWDWWWWWLDL,2,3,6,11,26,WWLDWDLLDDL,LWWWDLWDWWD
+Fiorentina,Udinese,2-0,/match/fiorentina/udinese/2007,2007,23,serie_a,20,38,0,2,0,5,41,11,4,7,33,23,LWWWWLWLLWWDDWLDLWDWWW,7,1,2,23,10,7,38,9,5,8,24,25,WWDWDLDDLWWWWDWWLLWWLW,3,2,6,12,19,LWWWLWWDWW,WDLDWWWWLWL
+Chievo,Inter,0-2,/match/chievo/internazionale/2007,2007,23,serie_a,20,38,2,0,2,17,24,4,7,11,21,30,LDLWLWDLWDWDWLLDWWWWDD,3,3,5,10,11,1,58,18,3,1,47,20,LDLWDWDWLWLWLWLWLWLWLL,9,2,0,23,9,LLLLDDWLWWD,LLDDLLLLLLL
+Cagliari,Siena,2-2,/match/cagliari/siena/2007,2007,23,serie_a,20,38,1,2,2,15,29,4,10,8,17,25,LWDDDDDDWDDWWDDWLWWLLW,3,5,3,8,10,13,34,6,10,6,19,22,LLLDDWDDLDLWDWDDWDDWWW,3,4,4,6,10,LDDDWWDDLWL,LLDDLWWDWDW
+Atalanta,Lazio,0-0,/match/atalanta/lazio/2007,2007,23,serie_a,20,38,1,0,0,11,35,7,7,8,36,34,WDDWDLWDWWWDLWWDLWWLDW,5,4,2,23,15,8,38,9,7,6,33,18,WLLWLDWWDDWLWWWDLLDDLD,5,2,4,19,12,WDDWDWLWLWD,WLLWWDLWDLL
+Roma,Parma,3-0,/match/roma/parma-fc/2007,2007,23,serie_a,20,38,0,3,0,2,52,15,4,3,46,18,WLLLWWDDLWLWLWWWLWDDWL,8,2,1,25,6,18,24,4,6,12,19,36,DLWLWLWWWDLWWDDDDLWWWW,0,4,7,8,19,WLWDDWWWWWW,DWWWDWWDDWW
+Torino,Reggina,1-2,/match/torino-fc/reggina/2007,2007,23,serie_a,20,38,2,1,2,16,25,5,7,10,17,28,DWLDLWDLDDWWLWDLLDLWLW,3,2,6,10,17,9,37,8,6,8,29,29,WWWDDWWWDLLWDDWLWWWDLW,2,3,6,11,18,DLLWLDWWLLL,WWDWDLWDWWL
+Empoli,Roma,1-0,/match/empoli-fc/roma/2007,2007,24,serie_a,20,38,0,1,0,6,42,9,8,6,22,19,LDDWWLDDDDLDWWLWWWWWDWL,6,4,2,14,8,2,56,16,4,3,49,18,WLLLWWDDLWLWLWWWLWDDWLW,7,2,2,21,12,DWLDDDWLWWWW,LLWLLLWLDDL
+Inter,Cagliari,1-0,/match/internazionale/cagliari/2007,2007,24,serie_a,20,38,0,1,0,1,60,19,3,1,49,20,LDLWDWDWLWLWLWLWLWLWLLL,9,1,1,24,11,15,31,4,11,8,19,27,LWDDDDDDWDDWWDDWLWWLLWD,1,5,5,9,15,DWWWWWWWWWL,WDDDDDWWWLW
+Siena,Milan,3-4,/match/siena/milan/2007,2007,24,serie_a,20,38,2,3,4,12,35,6,11,6,21,24,LLLDDWDDLDLWDWDDWDDWWWD,3,6,2,13,12,3,46,11,8,4,33,20,WLWDDDLLLWLDWDDDWLWDWLW,4,6,1,16,9,LDWDDLDDDWW,LDDLWDDDLDL
+Parma,Sampdoria,0-1,/match/parma-fc/sampdoria/2007,2007,24,serie_a,20,38,2,0,1,19,24,4,6,13,19,39,DLWLWLWWWDLWWDDDDLWWWWW,4,2,5,11,17,14,34,7,6,10,30,31,LDDDWDWWWWWWLLDLWWDWLWW,2,2,7,9,16,LLLWWLDDLWW,DDWWWWLLWWW
+Palermo FC,Chievo,1-1,/match/palermo/chievo/2007,2007,24,serie_a,20,38,1,1,1,4,45,13,3,7,39,28,WLWWLLLWLWWWLDWWWDWDLLL,8,0,4,28,16,18,24,4,7,12,21,32,LDLWLWDLWDWDWLLDWWWWDDL,1,4,6,11,19,WWLWWWLWWWLL,DWWDWWLDWWD
+Livorno,Messina,2-1,/match/livorno/messina/2007,2007,24,serie_a,20,38,0,2,1,13,34,6,8,9,24,35,WWDDLLDWDWWWDLWDWDWDWWW,4,6,1,10,6,17,25,3,8,12,23,40,WDWDLWDWWDDLWLWWDWDWLWD,0,3,8,9,23,WDDDWWLDDDW,DDWWDWWWWWW
+Lazio,Torino,2-0,/match/lazio/torino-fc/2007,2007,24,serie_a,20,38,0,2,0,7,39,9,8,6,33,18,WLLWLDWWDDWLWWWDLLDDLDD,4,5,2,14,6,16,25,5,7,11,18,30,DWLDLWDLDDWWLWDLLDLWLWL,2,5,4,7,11,LWDDWWWLDDD,WDDDWLDLDWW
+Catania,Fiorentina,0-1,/match/catania/fiorentina/2007,2007,24,serie_a,20,38,2,0,1,10,38,8,7,8,31,39,LDWDWWWDDLWWWDWWWWWLDLD,6,3,2,19,12,5,45,12,4,7,35,23,LWWWWLWLLWWDDWLDLWDWWWW,4,3,5,10,13,DDWDWWWWWLL,WWLLWDDLLDWW
+Ascoli,Udinese,2-2,/match/ascoli/udinese/2007,2007,24,serie_a,20,38,1,2,2,20,16,2,6,15,18,41,WDWDDLWDLWLDWDWLWWWLLLW,1,4,6,11,19,9,38,9,5,9,24,27,WWDWDLDDLWWWWDWWLLWWLWW,3,2,7,12,21,DDLLLDDLWLL,WDLDWWWWLWLW
+Reggina,Atalanta,1-1,/match/reggina/atalanta/2007,2007,24,serie_a,20,38,1,1,1,8,39,9,6,8,31,30,WWWDDWWWDLLWDDWLWWWDLWL,6,3,2,18,11,11,37,7,8,8,36,34,WDDWDLWDWWWDLWWDLWWLDWD,2,3,6,13,19,WDWWLDWLWDW,DWLWWDWDWLW
+Chievo,Torino,3-0,/match/chievo/torino-fc/2007,2007,25,serie_a,20,38,0,3,0,18,25,4,8,12,22,33,LDLWLWDLWDWDWLLDWWWWDDLD,3,3,6,10,13,16,25,5,7,12,18,32,DWLDLWDLDDWWLWDLLDLWLWLW,2,5,5,7,13,LLLLDDWLWWDL,WDDDWLDLDWWW
+Atalanta,Palermo FC,1-1,/match/atalanta/palermo/2007,2007,25,serie_a,20,38,1,1,1,11,38,7,9,8,37,35,WDDWDLWDWWWDLWWDLWWLDWDD,5,5,2,23,15,4,47,13,4,7,40,29,WLWWLLLWLWWWLDWWWDWDLLLD,5,3,3,11,12,WDDWDWLWLWDD,LWLLLWDWDDL
+Messina,Siena,1-0,/match/messina/siena/2007,2007,25,serie_a,20,38,0,1,0,17,25,3,8,13,24,42,WDWDLWDWWDDLWLWWDWDWLWDW,3,5,4,14,17,14,35,6,11,7,24,28,LLLDDWDDLDLWDWDDWDDWWWDL,3,5,4,8,12,WWLDWDLLDDLD,LLDDLWWDWDWD
+Livorno,Ascoli,0-0,/match/livorno/ascoli/2007,2007,25,serie_a,20,38,1,0,0,10,38,7,8,9,26,36,WWDDLLDWDWWWDLWDWDWDWWWW,5,6,1,12,7,20,18,2,7,15,20,43,WDWDDLWDLWLDWDWLWWWLLLWD,1,2,9,7,22,WDDDWWLDDDWW,WWDWDWWWWWLW
+Fiorentina,Empoli,2-0,/match/fiorentina/empoli-fc/2007,2007,25,serie_a,20,38,0,2,0,5,47,13,4,7,36,23,LWWWWLWLLWWDDWLDLWDWWWWL,8,1,2,25,10,6,46,10,8,6,23,19,LDDWWLDDDDLDWWLWWWWWDWLW,3,4,4,8,11,LWWWLWWDWWW,LDWDDLWWWDL
+Catania,Inter,2-5,/match/catania/internazionale/2007,2007,25,serie_a,20,38,2,2,5,12,38,8,7,9,31,40,LDWDWWWDDLWWWDWWWWWLDLDL,6,3,3,19,13,1,64,20,3,1,50,20,LDLWDWDWLWLWLWLWLWLWLLLW,10,2,0,25,9,DDWDWWWWWLLL,LLDDLLLLLLLL
+Cagliari,Lazio,0-2,/match/cagliari/lazio/2007,2007,25,serie_a,20,38,2,0,2,15,31,4,11,9,19,28,LWDDDDDDWDDWWDDWLWWLLWDW,3,6,3,10,12,7,43,10,8,6,35,18,WLLWLDWWDDWLWWWDLLDDLDDW,5,3,4,19,12,LDDDWWDDLWLD,WLLWWDLWDLLD
+Roma,Reggina,3-0,/match/roma/reggina/2007,2007,25,serie_a,20,38,0,3,0,2,56,16,4,4,49,19,WLLLWWDDLWLWLWWWLWDDWLWW,9,2,1,28,6,8,41,9,7,8,32,31,WWWDDWWWDLLWDDWLWWWDLWLD,3,3,6,13,19,WLWDDWWWWWWW,WWDWDLWDWWLL
+Udinese,Parma,3-3,/match/udinese/parma-fc/2007,2007,25,serie_a,20,38,1,3,3,9,39,9,6,9,26,29,WWDWDLDDLWWWWDWWLLWWLWWD,6,3,2,12,6,19,24,4,6,14,19,40,DLWLWLWWWDLWWDDDDLWWWWWL,0,4,8,8,22,WWDDLWDWLWW,DWWWDWWDDWWW
+Milan,Sampdoria,1-0,/match/milan/sampdoria/2007,2007,25,serie_a,20,38,0,1,0,3,48,12,8,4,37,23,WLWDDDLLLWLDWDDDWLWDWLWL,7,2,3,17,11,13,36,8,6,10,31,31,LDDDWDWWWWWWLLDLWWDWLWWL,3,2,7,10,16,WWDLLLWDWWWW,DDWWWWLLWWWL
+Ascoli,Parma,0-0,/match/ascoli/parma-fc/2007,2007,26,serie_a,20,38,1,0,0,20,19,2,8,15,20,43,WDWDDLWDLWLDWDWLWWWLLLWDD,1,5,6,13,21,19,25,4,7,14,22,43,DLWLWLWWWDLWWDDDDLWWWWWLD,0,5,8,11,25,DDLLLDDLWLLD,DWWWDWWDDWWWD
+Siena,Livorno,0-0,/match/siena/livorno/2007,2007,26,serie_a,20,38,1,0,0,14,35,6,11,8,24,29,LLLDDWDDLDLWDWDDWDDWWWDLW,3,6,3,16,16,11,40,7,9,9,26,36,WWDDLLDWDWWWDLWDWDWDWWWWD,2,2,8,14,29,LDWDDLDDDWWL,WDLLWWDWWWWW
+Sampdoria,Atalanta,2-1,/match/sampdoria/atalanta/2007,2007,26,serie_a,20,38,0,2,1,13,36,8,6,11,31,32,LDDDWDWWWWWWLLDLWWDWLWWLW,5,4,3,21,15,10,40,7,10,8,38,36,WDDWDLWDWWWDLWWDLWWLDWDDD,2,4,6,14,20,LDWDWWLDWDLW,DWLWWDWDWLWD
+Reggina,Fiorentina,1-1,/match/reggina/fiorentina/2007,2007,26,serie_a,20,38,1,1,1,8,41,9,7,9,32,34,WWWDDWWWDLLWDDWLWWWDLWLDW,6,4,2,19,12,4,51,14,4,7,38,23,LWWWWLWLLWWDDWLDLWDWWWWLW,5,3,5,11,13,WDWWLDWLWDWD,WWLLWDDLLDWWL
+Palermo FC,Milan,0-0,/match/palermo/milan/2007,2007,26,serie_a,20,38,1,0,0,5,48,13,5,7,41,30,WLWWLLLWLWWWLDWWWDWDLLLDD,8,1,4,29,17,3,52,13,8,4,38,23,WLWDDDLLLWLDWDDDWLWDWLWLW,5,6,1,20,12,WWLWWWLWWWLLD,LDDLWDDDLDLL
+Lazio,Catania,3-1,/match/lazio/catania/2007,2007,26,serie_a,20,38,0,3,1,7,45,11,8,6,37,18,WLLWLDWWDDWLWWWDLLDDLDDWL,5,5,2,16,6,12,38,8,7,10,33,45,LDWDWWWDDLWWWDWWWWWLDLDLL,2,4,6,12,27,LWDDWWWLDDDW,LWWWDLWDWWDD
+Empoli,Messina,3-1,/match/empoli-fc/messina/2007,2007,26,serie_a,20,38,0,3,1,6,46,10,8,7,23,21,LDDWWLDDDDLDWWLWWWWWDWLWW,7,4,2,15,8,16,29,4,8,13,25,42,WDWDLWDWWDDLWLWWDWDWLWDWW,0,3,9,10,25,DWLDDDWLWWWWW,DDWWDWWWWWWW
+Chievo,Roma,2-2,/match/chievo/roma/2007,2007,26,serie_a,20,38,1,2,2,17,29,5,8,12,25,33,LDLWLWDLWDWDWLLDWWWWDDLDW,4,3,6,13,13,2,60,17,4,4,52,19,WLLLWWDDLWLWLWWWLWDDWLWWW,7,2,3,21,13,LLLLDDWLWWDLW,LLWLLLWLDDLW
+Torino,Cagliari,1-0,/match/torino-fc/cagliari/2007,2007,26,serie_a,20,38,0,1,0,18,25,5,7,13,18,35,DWLDLWDLDDWWLWDLLDLWLWLWW,3,2,7,11,19,15,31,4,11,10,19,30,LWDDDDDDWDDWWDDWLWWLLWDWL,1,5,6,9,16,DLLWLDWWLLLL,WDDDDDWWWLWW
+Inter,Udinese,1-1,/match/internazionale/udinese/2007,2007,26,serie_a,20,38,1,1,1,1,66,21,3,1,55,22,LDLWDWDWLWLWLWLWLWLWLLLWL,10,1,1,25,11,9,41,9,7,9,29,32,WWDWDLDDLWWWWDWWLLWWLWWDD,3,3,7,14,23,DWWWWWWWWWLW,WDLDWWWWLWLWD
+Ascoli,Roma,1-1,/match/ascoli/roma/2007,2007,27,serie_a,20,38,1,1,1,20,21,2,9,15,20,43,WDWDDLWDLWLDWDWLWWWLLLWDDD,1,6,6,13,21,2,61,17,5,4,54,21,WLLLWWDDLWLWLWWWLWDDWLWWWD,7,3,3,23,15,DDLLLDDLWLLDD,LLWLLLWLDDLWD
+Livorno,Inter,1-2,/match/livorno/internazionale/2007,2007,27,serie_a,20,38,2,1,2,10,41,7,10,9,26,36,WWDDLLDWDWWWDLWDWDWDWWWWDD,5,7,1,12,7,1,68,21,4,1,56,23,LDLWDWDWLWLWLWLWLWLWLLLWLD,11,2,0,30,11,WDDDWWLDDDWWD,LLDDLLLLLLLLL
+Milan,Chievo,3-1,/match/milan/chievo/2007,2007,27,serie_a,20,38,0,3,1,3,53,13,9,4,38,23,WLWDDDLLLWLDWDDDWLWDWLWLWD,8,2,3,18,11,16,31,5,9,12,27,35,LDLWLWDLWDWDWLLDWWWWDDLDWD,1,5,6,12,20,WWDLLLWDWWWWW,DWWDWWLDWWDD
+Parma,Reggina,2-2,/match/parma-fc/reggina/2007,2007,27,serie_a,20,38,1,2,2,19,26,4,8,14,22,43,DLWLWLWWWDLWWDDDDLWWWWWLDD,4,2,6,11,18,8,43,9,8,9,33,35,WWWDDWWWDLLWDDWLWWWDLWLDWD,3,3,7,13,22,LLLWWLDDLWWL,WWDWDLWDWWLLW
+Messina,Palermo FC,2-0,/match/messina/palermo/2007,2007,27,serie_a,20,38,0,2,0,17,29,4,8,14,26,45,WDWDLWDWWDDLWLWWDWDWLWDWWW,4,5,4,15,17,5,50,13,6,7,41,30,WLWWLLLWLWWWLDWWWDWDLLLDDD,5,4,3,12,13,WWLDWDLLDDLDW,LWLLLWDWDDLD
+Lazio,Sampdoria,1-0,/match/lazio/sampdoria/2007,2007,27,serie_a,20,38,0,1,0,7,49,12,8,6,40,19,WLLWLDWWDDWLWWWDLLDDLDDWLW,6,5,2,19,7,12,40,9,6,11,33,33,LDDDWDWWWWWWLLDLWWDWLWWLWW,3,2,8,10,17,LWDDWWWLDDDWW,DDWWWWLLWWWLW
+Fiorentina,Torino,5-1,/match/fiorentina/torino-fc/2007,2007,27,serie_a,20,38,0,5,1,4,52,14,5,7,39,24,LWWWWLWLLWWDDWLDLWDWWWWLWD,9,1,2,27,10,18,29,6,7,13,19,35,DWLDLWDLDDWWLWDLLDLWLWLWWW,2,5,6,7,16,LWWWLWWDWWWW,WDDDWLDLDWWWW
+Catania,Siena,1-1,/match/catania/siena/2007,2007,27,serie_a,20,38,1,1,1,13,38,8,7,11,34,48,LDWDWWWDDLWWWDWWWWWLDLDLLW,6,3,4,21,18,14,37,6,12,8,24,29,LLLDDWDDLDLWDWDDWDDWWWDLWD,3,5,5,8,13,DDWDWWWWWLLLL,LLDDLWWDWDWDW
+Cagliari,Atalanta,2-0,/match/cagliari/atalanta/2007,2007,27,serie_a,20,38,0,2,0,15,31,4,11,11,19,31,LWDDDDDDWDDWWDDWLWWLLWDWLW,3,6,4,10,14,11,40,7,10,9,39,38,WDDWDLWDWWWDLWWDLWWLDWDDDW,2,4,7,15,22,LDDDWWDDLWLDL,DWLWWDWDWLWDW
+Udinese,Empoli,0-1,/match/udinese/empoli-fc/2007,2007,27,serie_a,20,38,2,0,1,9,42,9,8,9,30,33,WWDWDLDDLWWWWDWWLLWWLWWDDD,6,4,2,15,9,6,50,11,8,7,26,22,LDDWWLDDDDLDWWLWWWWWDWLWWW,3,4,5,8,13,WWDDLWDWLWWD,LDWDDLWWWDLW
+Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/2007,2007,28,serie_a,20,38,1,1,1,13,40,9,6,12,33,34,LDDDWDWWWWWWLLDLWWDWLWWLWWW,6,4,3,23,16,15,35,5,11,11,21,31,LWDDDDDDWDDWWDDWLWWLLWDWLWW,1,5,7,9,17,LDWDWWLDWDLWW,WDDDDDWWWLWWW
+Siena,Ascoli,0-1,/match/siena/ascoli/2007,2007,28,serie_a,20,38,2,0,1,14,38,6,13,8,25,30,LLLDDWDDLDLWDWDDWDDWWWDLWDD,3,7,3,16,16,20,23,2,10,15,21,44,WDWDDLWDLWLDWDWLWWWLLLWDDDD,1,3,9,7,22,LDWDDLDDDWWLD,WWDWDWWWWWLWD
+Reggina,Lazio,2-3,/match/reggina/lazio/2007,2007,28,serie_a,20,38,2,2,3,8,44,9,9,9,35,37,WWWDDWWWDLLWDDWLWWWDLWLDWDD,6,5,2,20,13,5,53,13,8,6,41,19,WLLWLDWWDDWLWWWDLLDDLDDWLWW,6,3,4,21,12,WDWWLDWLWDWDD,WLLWWDLWDLLDL
+Palermo FC,Fiorentina,1-1,/match/palermo/fiorentina/2007,2007,28,serie_a,20,38,1,1,1,7,50,13,6,8,41,32,WLWWLLLWLWWWLDWWWDWDLLLDDDW,8,2,4,29,17,4,56,15,5,7,44,25,LWWWWLWLLWWDDWLDLWDWWWWLWDW,5,4,5,12,14,WWLWWWLWWWLLDD,WWLLWDDLLDWWLD
+Inter,Milan,2-1,/match/internazionale/milan/2007,2007,28,serie_a,20,38,0,2,1,1,70,22,4,1,58,24,LDLWDWDWLWLWLWLWLWLWLLLWLDL,10,2,1,26,12,3,57,14,9,4,41,24,WLWDDDLLLWLDWDDDWLWDWLWLWDW,5,7,1,20,12,DWWWWWWWWWLWD,LDDLWDDDLDLLD
+Empoli,Livorno,2-2,/match/empoli-fc/livorno/2007,2007,28,serie_a,20,38,1,2,2,6,52,12,8,7,27,22,LDDWWLDDDDLDWWLWWWWWDWLWWWL,8,4,2,18,9,10,41,7,10,10,27,38,WWDDLLDWDWWWDLWDWDWDWWWWDDL,2,3,8,14,29,DWLDDDWLWWWWWW,WDLLWWDWWWWWD
+Chievo,Messina,1-1,/match/chievo/messina/2007,2007,28,serie_a,20,38,1,1,1,17,31,5,9,13,28,38,LDLWLWDLWDWDWLLDWWWWDDLDWDW,4,4,6,15,15,16,33,5,8,14,28,45,WDWDLWDWWDDLWLWWDWDWLWDWWWW,0,3,10,11,28,LLLLDDWLWWDLWD,DDWWDWWWWWWWW
+Atalanta,Parma,1-1,/match/atalanta/parma-fc/2007,2007,28,serie_a,20,38,1,1,1,12,40,7,10,10,39,40,WDDWDLWDWWWDLWWDLWWLDWDDDWW,5,6,2,24,16,19,28,4,9,14,24,45,DLWLWLWWWDLWWDDDDLWWWWWLDDD,0,6,8,11,25,WDDWDWLWLWDDD,DWWWDWWDDWWWDD
+Torino,Catania,1-0,/match/torino-fc/catania/2007,2007,28,serie_a,20,38,0,1,0,18,29,6,7,14,20,40,DWLDLWDLDDWWLWDLLDLWLWLWWWW,4,2,7,12,19,11,40,8,8,11,35,49,LDWDWWWDDLWWWDWWWWWLDLDLLWD,2,4,7,13,30,DLLWLDWWLLLLW,LWWWDLWDWWDDW
+Roma,Udinese,3-1,/match/roma/udinese/2007,2007,28,serie_a,20,38,0,3,1,2,62,17,6,4,55,22,WLLLWWDDLWLWLWWWLWDDWLWWWDD,10,2,1,31,6,9,42,9,8,10,30,34,WWDWDLDDLWWWWDWWLLWWLWWDDDL,3,4,7,15,24,WLWDDWWWWWWWW,WDLDWWWWLWLWDD
+Sampdoria,Palermo FC,1-1,/match/sampdoria/palermo/2007,2007,29,serie_a,20,38,1,1,1,9,42,9,7,12,34,35,LDDDWDWWWWWWLLDLWWDWLWWLWWWD,6,5,3,24,17,7,52,13,7,8,42,33,WLWWLLLWLWWWLDWWWDWDLLLDDDWD,5,4,4,12,15,LDWDWWLDWDLWWD,LWLLLWDWDDLDW
+Parma,Siena,1-0,/match/parma-fc/siena/2007,2007,29,serie_a,20,38,0,1,0,19,29,4,10,14,25,46,DLWLWLWWWDLWWDDDDLWWWWWLDDDD,4,3,6,13,20,14,38,6,13,9,25,31,LLLDDWDDLDLWDWDDWDDWWWDLWDDL,3,6,5,9,14,LLLWWLDDLWWLD,LLDDLWWDWDWDWD
+Messina,Torino,0-3,/match/messina/torino-fc/2007,2007,29,serie_a,20,38,2,0,3,16,34,5,9,14,29,46,WDWDLWDWWDDLWLWWDWDWLWDWWWWD,5,5,4,17,17,18,33,7,7,14,21,40,DWLDLWDLDDWWLWDLLDLWLWLWWWWW,2,5,7,8,21,WWLDWDLLDDLDWW,WDDDWLDLDWWWWW
+Fiorentina,Roma,0-0,/match/fiorentina/roma/2007,2007,29,serie_a,20,38,1,0,0,4,57,15,6,7,45,26,LWWWWLWLLWWDDWLDLWDWWWWLWDWD,10,1,2,32,11,2,66,18,6,4,58,23,WLLLWWDDLWLWLWWWLWDDWLWWWDDW,7,4,3,24,16,LWWWLWWDWWWWW,LLWLLLWLDDLWDD
+Catania,Reggina,1-4,/match/catania/reggina/2007,2007,29,serie_a,20,38,2,1,4,13,40,8,8,12,35,50,LDWDWWWDDLWWWDWWWWWLDLDLLWDW,6,4,4,22,19,8,44,9,9,10,37,40,WWWDDWWWDLLWDDWLWWWDLWLDWDDL,3,4,7,15,24,DDWDWWWWWLLLLD,WWDWDLWDWWLLWD
+Cagliari,Chievo,0-2,/match/cagliari/chievo/2007,2007,29,serie_a,20,38,2,0,2,15,36,5,12,11,22,32,LWDDDDDDWDDWWDDWLWWLLWDWLWWD,4,6,4,12,14,17,33,5,10,13,29,39,LDLWLWDLWDWDWLLDWWWWDDLDWDWD,1,5,7,13,23,LDDDWWDDLWLDLW,DWWDWWLDWWDDW
+Ascoli,Inter,1-2,/match/ascoli/internazionale/2007,2007,29,serie_a,20,38,2,1,2,20,25,3,10,15,22,44,WDWDDLWDLWLDWDWLWWWLLLWDDDDL,1,7,6,14,22,1,74,23,4,1,60,25,LDLWDWDWLWLWLWLWLWLWLLLWLDLW,12,2,0,32,12,DDLLLDDLWLLDDD,LLDDLLLLLLLLLL
+Milan,Atalanta,1-0,/match/milan/atalanta/2007,2007,29,serie_a,20,38,0,1,0,3,57,14,9,5,42,26,WLWDDDLLLWLDWDDDWLWDWLWLWDWW,9,2,3,21,12,12,42,7,11,10,40,41,WDDWDLWDWWWDLWWDLWWLDWDDDWWD,2,4,8,15,24,WWDLLLWDWWWWWW,DWLWWDWDWLWDWW
+Udinese,Livorno,4-0,/match/udinese/livorno/2007,2007,29,serie_a,20,38,0,4,0,10,42,9,8,11,31,37,WWDWDLDDLWWWWDWWLLWWLWWDDDLW,6,4,3,15,10,11,42,7,11,10,29,40,WWDDLLDWDWWWDLWDWDWDWWWWDDLD,2,4,8,16,31,WWDDLWDWLWWDL,WDLLWWDWWWWWDD
+Lazio,Empoli,3-1,/match/lazio/empoli-fc/2007,2007,29,serie_a,20,38,0,3,1,5,55,14,8,6,44,21,WLLWLDWWDDWLWWWDLLDDLDDWLWWL,7,5,2,20,7,6,54,12,9,7,29,24,LDDWWLDDDDLDWWLWWWWWDWLWWWLD,4,4,5,9,13,LWDDWWWLDDDWWW,LDWDDLWWWDLWL
+Reggina,Siena,0-1,/match/reggina/siena/2007,2007,30,serie_a,20,38,2,0,1,8,46,10,9,10,41,41,WWWDDWWWDLLWDDWLWWWDLWLDWDDLL,6,5,3,22,16,14,38,6,13,10,25,32,LLLDDWDDLDLWDWDDWDDWWWDLWDDLW,3,6,6,9,15,WDWWLDWLWDWDDL,LLDDLWWDWDWDWDW
+Roma,Milan,1-1,/match/roma/milan/2007,2007,30,serie_a,20,38,1,1,1,2,67,18,7,4,58,23,WLLLWWDDLWLWLWWWLWDDWLWWWDDWD,11,2,1,34,7,3,61,15,9,5,43,26,WLWDDDLLLWLDWDDDWLWDWLWLWDWWW,5,7,2,21,14,WLWDDWWWWWWWWW,LDDLWDDDLDLLDW
+Torino,Palermo FC,0-0,/match/torino-fc/palermo/2007,2007,30,serie_a,20,38,1,0,0,17,35,8,7,14,24,40,DWLDLWDLDDWWLWDLLDLWLWLWWWWWL,5,2,7,13,19,7,53,13,8,8,43,34,WLWWLLLWLWWWLDWWWDWDLLLDDDWDD,5,5,4,13,16,DLLWLDWWLLLLWW,LWLLLWDWDDLDWD
+Livorno,Catania,4-1,/match/livorno/catania/2007,2007,30,serie_a,20,38,0,4,1,12,42,7,11,11,29,44,WWDDLLDWDWWWDLWDWDWDWWWWDDLDW,5,7,2,13,9,13,40,8,8,13,36,54,LDWDWWWDDLWWWDWWWWWLDLDLLWDWL,2,4,8,13,31,WDDDWWLDDDWWDL,LWWWDLWDWWDDWW
+Inter,Parma,2-0,/match/internazionale/parma-fc/2007,2007,30,serie_a,20,38,0,2,0,1,76,24,4,1,62,26,LDLWDWDWLWLWLWLWLWLWLLLWLDLWL,11,2,1,28,13,19,33,5,10,14,26,46,DLWLWLWWWDLWWDDDDLWWWWWLDDDDW,0,7,8,12,26,DWWWWWWWWWLWDW,DWWWDWWDDWWWDDD
+Empoli,Ascoli,4-1,/match/empoli-fc/ascoli/2007,2007,30,serie_a,20,38,0,4,1,6,54,12,9,8,30,27,LDDWWLDDDDLDWWLWWWWWDWLWWWLDW,8,5,2,20,11,20,25,3,10,16,23,46,WDWDDLWDLWLDWDWLWWWLLLWDDDDLL,2,3,9,8,22,DWLDDDWLWWWWWWD,WWDWDWWWWWLWDL
+Chievo,Sampdoria,1-1,/match/chievo/sampdoria/2007,2007,30,serie_a,20,38,1,1,1,16,35,6,10,13,31,39,LDLWLWDLWDWDWLLDWWWWDDLDWDWDL,4,5,6,16,16,10,44,9,8,12,35,36,LDDDWDWWWWWWLLDLWWDWLWWLWWWDD,3,2,9,10,18,LLLLDDWLWWDLWDD,DDWWWWLLWWWLWW
+Cagliari,Messina,2-0,/match/cagliari/messina/2007,2007,30,serie_a,20,38,0,2,0,15,36,5,12,12,22,34,LWDDDDDDWDDWWDDWLWWLLWDWLWWDL,4,6,5,12,16,18,34,5,9,15,29,49,WDWDLWDWWDDLWLWWDWDWLWDWWWWDL,0,4,10,12,29,LDDDWWDDLWLDLWL,DDWWDWWWWWWWWD
+Atalanta,Fiorentina,2-2,/match/atalanta/fiorentina/2007,2007,30,serie_a,20,38,1,2,2,11,42,7,11,11,40,42,WDDWDLWDWWWDLWWDLWWLDWDDDWWDW,5,7,2,25,17,4,59,15,7,7,45,26,LWWWWLWLLWWDDWLDLWDWWWWLWDWDD,5,5,5,13,15,WDDWDWLWLWDDDD,WWLLWDDLLDWWLDD
+Udinese,Lazio,2-4,/match/udinese/lazio/2007,2007,30,serie_a,20,38,2,2,4,9,46,10,8,11,35,37,WWDWDLDDLWWWWDWWLLWWLWWDDDLWW,7,4,3,19,10,5,59,15,8,6,47,22,WLLWLDWWDDWLWWWDLLDDLDDWLWWLW,7,3,4,24,14,WWDDLWDWLWWDLW,WLLWWDLWDLLDLL
+Siena,Udinese,2-2,/match/siena/udinese/2007,2007,31,serie_a,20,38,1,2,2,14,40,7,13,10,26,32,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWL,3,7,4,16,17,10,46,10,8,12,37,41,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWL,3,4,8,16,27,LDWDDLDDDWWLDL,WDLDWWWWLWLWDDW
+Sampdoria,Torino,1-0,/match/sampdoria/torino-fc/2007,2007,31,serie_a,20,38,0,1,0,11,45,9,9,12,36,37,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDD,6,6,3,25,18,17,37,8,8,14,24,40,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLD,3,5,7,11,21,LDWDWWLDWDLWWDD,WDDDWLDLDWWWWWL
+Reggina,Inter,0-0,/match/reggina/internazionale/2007,2007,31,serie_a,20,38,1,0,0,9,46,10,9,11,41,42,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLL,6,5,4,22,17,1,80,25,4,1,64,26,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLW,13,2,0,34,13,WDWWLDWLWDWDDLL,LLDDLLLLLLLLLLL
+Parma,Livorno,1-0,/match/parma-fc/livorno/2007,2007,31,serie_a,20,38,0,1,0,19,33,5,10,15,26,48,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWW,5,3,6,14,20,8,46,8,11,11,33,45,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWW,2,4,9,16,35,LLLWWLDDLWWLDW,WDLLWWDWWWWWDDW
+Palermo FC,Cagliari,1-3,/match/palermo/cagliari/2007,2007,31,serie_a,20,38,2,1,3,7,54,13,9,8,43,34,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDD,8,3,4,30,18,15,40,6,12,12,24,34,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLW,1,6,7,10,18,WWLWWWLWWWLLDDD,WDDDDDWWWLWWWD
+Lazio,Messina,1-0,/match/lazio/messina/2007,2007,31,serie_a,20,38,0,1,0,4,61,16,8,6,51,24,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWL,8,5,2,23,8,18,34,5,9,16,29,51,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLW,0,4,11,12,31,LWDDWWWLDDDWWWW,DDWWDWWWWWWWWDW
+Fiorentina,Ascoli,4-0,/match/fiorentina/ascoli/2007,2007,31,serie_a,20,38,0,4,0,5,60,15,8,7,47,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDD,10,2,2,32,11,20,25,3,10,17,24,50,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLW,2,3,10,9,26,LWWWLWWDWWWWWD,WWDWDWWWWWLWDLW
+Catania,Roma,0-2,/match/catania/roma/2007,2007,31,serie_a,20,38,2,0,2,13,40,8,8,14,37,58,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLW,6,4,5,23,23,2,69,18,8,4,59,24,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDD,7,5,3,24,16,DDWDWWWWWLLLLDL,LLWLLLWLDDLWDDD
+Atalanta,Chievo,1-0,/match/atalanta/chievo/2007,2007,31,serie_a,20,38,0,1,0,12,44,7,12,11,42,44,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWD,5,8,2,27,19,16,37,6,11,13,32,40,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLD,2,5,7,15,23,WDDWDWLWLWDDDDD,DWWDWWLDWWDDWL
+Milan,Empoli,3-1,/match/milan/empoli-fc/2007,2007,31,serie_a,20,38,0,3,1,3,62,15,10,5,44,27,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWD,10,2,3,22,12,6,58,13,9,8,34,28,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWW,4,4,6,10,16,WWDLLLWDWWWWWWW,LDWDDLWWWDLWLW
+Cagliari,Empoli,0-0,/match/cagliari/empoli-fc/2007,2007,32,serie_a,20,38,1,0,0,14,42,7,12,12,27,35,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWL,5,6,5,14,16,6,58,13,9,9,35,31,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWW,4,4,7,11,19,LDDDWWDDLWLDLWLW,LDWDDLWWWDLWLWW
+Udinese,Chievo,2-1,/match/udinese/chievo/2007,2007,32,serie_a,20,38,0,2,1,11,47,10,9,12,39,43,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLD,7,4,4,21,14,16,37,6,11,14,32,41,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDW,2,5,8,15,24,WWDDLWDWLWWDLWL,DWWDWWLDWWDDWLW
+Parma,Catania,1-1,/match/parma-fc/catania/2007,2007,32,serie_a,20,38,1,1,1,18,37,6,10,15,27,48,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWW,6,3,6,15,20,15,40,8,8,15,37,60,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWL,2,4,9,14,35,LLLWWLDDLWWLDWW,LWWWDLWDWWDDWWW
+Messina,Milan,1-3,/match/messina/milan/2007,2007,32,serie_a,20,38,2,1,3,19,34,5,9,17,29,52,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWW,5,5,5,17,20,3,66,16,10,5,47,28,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDW,5,8,2,22,15,WWLDWDLLDDLDWWL,LDDLWDDDLDLLDWD
+Livorno,Reggina,1-1,/match/livorno/reggina/2007,2007,32,serie_a,20,38,1,1,1,12,46,8,11,12,33,46,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWW,6,7,2,17,10,9,48,10,10,11,41,42,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLD,4,4,7,19,25,WDDDWWLDDDWWDLW,WWDWDLWDWWLLWDL
+Torino,Atalanta,1-2,/match/torino-fc/atalanta/2007,2007,32,serie_a,20,38,2,1,2,17,37,8,8,15,24,41,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDW,5,3,7,13,19,10,48,8,12,11,43,44,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDW,2,4,9,15,25,DLLWLDWWLLLLWWD,DWLWWDWDWLWDWWW
+Fiorentina,Siena,1-0,/match/fiorentina/siena/2007,2007,32,serie_a,20,38,0,1,0,5,64,16,8,7,51,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDW,11,2,2,36,11,13,42,7,14,10,28,34,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLD,4,6,6,10,15,LWWWLWWDWWWWWDW,LLDDLWWDWDWDWDWL
+Ascoli,Lazio,2-2,/match/ascoli/lazio/2007,2007,32,serie_a,20,38,1,2,2,20,25,3,10,18,24,54,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWW,1,7,7,15,24,4,65,17,8,6,52,24,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLW,8,3,4,28,16,DDLLLDDLWLLDDDL,WLLWWDLWDLLDLLL
+Roma,Sampdoria,4-0,/match/roma/sampdoria/2007,2007,32,serie_a,20,38,0,4,0,2,71,19,8,4,61,24,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDL,11,3,1,35,8,8,49,10,9,12,37,37,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDW,3,3,9,11,19,WLWDDWWWWWWWWWD,DDWWWWLLWWWLWWD
+Inter,Palermo FC,2-2,/match/internazionale/palermo/2007,2007,32,serie_a,20,38,1,2,2,1,81,25,5,1,64,26,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWD,12,2,1,30,13,7,54,13,9,9,44,37,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDL,5,6,4,13,16,DWWWWWWWWWLWDWW,LWLLLWDWDDLDWDD
+Sampdoria,Messina,3-1,/match/sampdoria/messina/2007,2007,33,serie_a,20,38,0,3,1,11,49,10,9,13,37,41,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWW,7,6,3,26,18,19,34,5,9,18,30,55,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWL,0,4,12,12,32,LDWDWWLDWDLWWDDW,DDWWDWWWWWWWWDWW
+Milan,Cagliari,3-1,/match/milan/cagliari/2007,2007,33,serie_a,20,38,0,3,1,3,68,17,10,5,50,29,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWL,11,2,3,25,13,13,44,7,13,12,27,35,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLD,2,6,7,13,19,WWDLLLWDWWWWWWWW,WDDDDDWWWLWWWDL
+Siena,Inter,1-2,/match/siena/internazionale/2007,2007,33,serie_a,20,38,2,1,2,14,42,7,14,11,28,35,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDW,3,8,4,18,19,1,83,25,6,1,66,28,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDD,13,3,0,34,13,LDWDDLDDDWWLDLD,LLDDLLLLLLLLLLLD
+Reggina,Udinese,1-1,/match/reggina/udinese/2007,2007,33,serie_a,20,38,1,1,1,10,49,10,11,11,42,43,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDD,6,6,4,22,17,8,51,11,9,12,41,44,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDW,3,5,8,18,29,WDWWLDWLWDWDDLLD,WDLDWWWWLWLWDDWD
+Lazio,Fiorentina,0-1,/match/lazio/fiorentina/2007,2007,33,serie_a,20,38,2,0,1,5,66,17,9,6,54,26,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWD,9,5,2,24,8,4,68,17,8,7,52,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWW,5,6,5,15,17,LWDDWWWLDDDWWWWW,WWLLWDDLLDWWLDDD
+Empoli,Torino,0-0,/match/empoli-fc/torino-fc/2007,2007,33,serie_a,20,38,1,0,0,6,59,13,10,9,35,31,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWD,9,5,2,24,12,18,37,8,8,16,25,43,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWL,3,5,8,11,22,DWLDDDWLWWWWWWDW,WDDDWLDLDWWWWWLW
+Chievo,Livorno,2-1,/match/chievo/livorno/2007,2007,33,serie_a,20,38,0,2,1,17,37,6,11,15,33,43,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWW,4,6,6,17,17,12,48,8,12,12,34,47,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWD,2,4,10,16,36,LLLLDDWLWWDLWDDD,WDLLWWDWWWWWDDWW
+Atalanta,Roma,2-1,/match/atalanta/roma/2007,2007,33,serie_a,20,38,0,2,1,9,50,9,12,11,45,45,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWL,6,8,2,28,19,2,75,20,8,4,65,24,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLW,8,5,3,26,16,WDDWDWLWLWDDDDDW,LLWLLLWLDDLWDDDL
+Palermo FC,Parma,3-4,/match/palermo/parma-fc/2007,2007,33,serie_a,20,38,2,3,4,7,55,13,10,9,46,39,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLD,8,3,5,31,21,16,39,6,11,15,28,49,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWD,0,7,9,12,28,WWLWWWLWWWLLDDDL,DWWWDWWDDWWWDDDW
+Catania,Ascoli,3-3,/match/catania/ascoli/2007,2007,33,serie_a,20,38,1,3,3,15,41,8,9,15,38,61,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLD,6,4,6,23,25,20,27,3,11,18,26,56,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWD,2,3,11,9,30,DDWDWWWWWLLLLDLL,WWDWDWWWWWLWDLWW
+Fiorentina,Chievo,1-0,/match/fiorentina/chievo/2007,2007,34,serie_a,20,38,0,1,0,4,70,18,8,7,53,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWL,12,2,2,37,11,17,41,7,11,15,35,44,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWW,2,5,9,16,26,LWWWLWWDWWWWWDWW,DWWDWWLDWWDDWLWW
+Torino,Milan,0-1,/match/torino-fc/milan/2007,2007,34,serie_a,20,38,2,0,1,18,38,8,9,16,25,43,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLD,5,3,8,14,21,3,72,18,10,5,53,30,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLW,6,8,2,25,16,DLLWLDWWLLLLWWDL,LDDLWDDDLDLLDWDL
+Siena,Sampdoria,0-2,/match/siena/sampdoria/2007,2007,34,serie_a,20,38,2,0,2,15,42,7,14,12,29,37,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWL,3,8,5,19,21,9,53,11,9,13,40,42,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWW,3,3,10,11,23,LDWDDLDDDWWLDLDL,DDWWWWLLWWWLWWDW
+Parma,Cagliari,2-1,/match/parma-fc/cagliari/2007,2007,34,serie_a,20,38,0,2,1,16,41,7,11,15,32,52,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDL,6,4,6,16,21,13,44,7,13,13,28,38,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDW,2,6,8,14,22,LLLWWLDDLWWLDWWD,WDDDDDWWWLWWWDLW
+Messina,Atalanta,0-0,/match/messina/atalanta/2007,2007,34,serie_a,20,38,1,0,0,19,34,5,9,19,31,58,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLW,5,5,6,18,23,8,54,10,12,11,47,46,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLW,3,4,9,17,26,WWLDWDLLDDLDWWLL,DWLWWDWDWLWDWWWL
+Livorno,Palermo FC,1-2,/match/livorno/palermo/2007,2007,34,serie_a,20,38,2,1,2,12,48,8,12,13,35,49,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDW,6,8,2,18,11,7,55,13,10,10,49,43,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDL,5,7,4,15,18,WDDDWWLDDDWWDLWD,LWLLLWDWDDLDWDDD
+Inter,Empoli,3-1,/match/internazionale/empoli-fc/2007,2007,34,serie_a,20,38,0,3,1,1,85,26,6,1,68,29,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDL,12,3,1,32,15,6,61,13,11,9,35,31,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDD,4,5,7,11,19,DWWWWWWWWWLWDWWD,LDWDDLWWWDLWLWWD
+Ascoli,Reggina,2-3,/match/ascoli/reggina/2007,2007,34,serie_a,20,38,2,2,3,20,28,3,12,18,29,59,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDD,1,8,7,17,26,11,51,10,12,11,43,44,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDD,4,5,7,20,26,DDLLLDDLWLLDDDLD,WWDWDLWDWWLLWDLD
+Roma,Lazio,0-0,/match/roma/lazio/2007,2007,34,serie_a,20,38,1,0,0,2,75,20,8,5,66,26,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWW,12,3,1,39,8,5,66,17,9,7,54,27,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDL,8,4,4,30,18,WLWDDWWWWWWWWWDW,WLLWWDLWDLLDLLLD
+Udinese,Catania,0-1,/match/udinese/catania/2007,2007,34,serie_a,20,38,2,0,1,10,52,11,10,12,42,45,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWD,8,4,4,23,15,14,43,8,10,15,41,64,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDD,2,5,9,15,36,WWDDLWDWLWWDLWLW,LWWWDLWDWWDDWWWD
+Milan,Fiorentina,0-0,/match/milan/fiorentina/2007,2007,35,serie_a,20,38,1,0,0,3,74,19,10,5,54,30,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWL,12,2,3,28,14,4,74,19,8,7,54,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLW,6,6,5,16,17,WWDLLLWDWWWWWWWWW,WWLLWDDLLDWWLDDDL
+Sampdoria,Reggina,0-0,/match/sampdoria/reggina/2007,2007,35,serie_a,20,38,1,0,0,9,55,12,9,13,42,42,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWL,8,6,3,29,19,10,53,11,12,11,46,46,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDL,5,5,7,23,28,LDWDWWLDWDLWWDDWW,WWDWDLWDWWLLWDLDL
+Palermo FC,Roma,1-2,/match/palermo/roma/2007,2007,35,serie_a,20,38,2,1,2,7,57,14,10,10,51,44,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLL,8,3,6,34,25,2,77,20,9,5,66,26,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWD,8,5,4,27,18,WWLWWWLWWWLLDDDLL,LLWLLLWLDDLWDDDLW
+Messina,Inter,0-1,/match/messina/internazionale/2007,2007,35,serie_a,20,38,2,0,1,19,36,5,10,19,31,58,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWD,5,6,6,18,23,1,89,27,6,1,71,30,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLW,14,3,0,36,14,WWLDWDLLDDLDWWLLD,LLDDLLLLLLLLLLLDL
+Lazio,Livorno,1-0,/match/lazio/livorno/2007,2007,35,serie_a,20,38,0,1,0,5,67,17,10,7,54,27,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLD,9,5,3,24,9,12,48,8,12,14,36,51,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWL,2,4,11,17,38,LWDDWWWLDDDWWWWWL,WDLLWWDWWWWWDDWWW
+Empoli,Catania,2-1,/match/empoli-fc/catania/2007,2007,35,serie_a,20,38,0,2,1,6,61,13,11,10,36,34,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDW,9,6,2,24,12,13,45,9,10,15,42,64,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDL,3,5,9,16,36,DWLDDDWLWWWWWWDWD,LWWWDLWDWWDDWWWDL
+Chievo,Parma,1-0,/match/chievo/parma-fc/2007,2007,35,serie_a,20,38,0,1,0,17,41,7,11,16,35,45,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWW,5,6,6,19,18,14,45,8,11,15,34,53,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLW,1,7,9,16,31,LLLLDDWLWWDLWDDDW,DWWWDWWDDWWWDDDWL
+Cagliari,Udinese,2-1,/match/cagliari/udinese/2007,2007,35,serie_a,20,38,0,2,1,15,44,7,13,14,29,40,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWW,5,7,5,14,16,11,52,11,10,13,42,46,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDL,3,6,8,19,30,LDDDWWDDLWLDLWLWD,WDLDWWWWLWLWDDWDD
+Atalanta,Siena,3-1,/match/atalanta/siena/2007,2007,35,serie_a,20,38,0,3,1,8,55,10,13,11,47,46,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWD,7,8,2,30,20,16,42,7,14,13,29,39,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLL,4,6,7,10,16,WDDWDWLWLWDDDDDWW,LLDDLWWDWDWDWDWLW
+Torino,Ascoli,1-0,/match/torino-fc/ascoli/2007,2007,35,serie_a,20,38,0,1,0,18,38,8,9,17,25,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDL,5,3,9,14,22,20,28,3,12,19,31,62,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDL,2,4,11,12,33,DLLWLDWWLLLLWWDLL,WWDWDWWWWWLWDLWWD
+Roma,Torino,0-1,/match/roma/torino-fc/2007,2007,36,serie_a,20,38,2,0,1,2,79,21,9,5,68,27,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWDL,12,4,1,39,8,18,42,9,9,17,26,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDLW,3,6,8,11,22,WLWDDWWWWWWWWWDWD,WDDDWLDLDWWWWWLWD
+Siena,Empoli,2-0,/match/siena/empoli-fc/2007,2007,36,serie_a,20,38,0,2,0,17,42,7,14,14,30,42,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLLW,3,8,6,19,23,6,65,14,11,10,38,35,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDWW,4,5,8,12,22,LDWDDLDDDWWLDLDLL,LDWDDLWWWDLWLWWDW
+Reggina,Chievo,1-1,/match/reggina/chievo/2007,2007,36,serie_a,20,38,1,1,1,10,54,11,13,11,46,46,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDLD,6,7,4,23,18,16,45,8,11,16,36,45,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWWW,2,5,10,16,27,WDWWLDWLWDWDDLLDD,DWWDWWLDWWDDWLWWW
+Parma,Messina,4-1,/match/parma-fc/messina/2007,2007,36,serie_a,20,38,0,4,1,15,45,8,11,16,34,54,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLWW,7,4,6,18,22,19,36,5,10,20,31,59,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWDL,0,4,13,13,35,LLLWWLDDLWWLDWWDW,DDWWDWWWWWWWWDWWW
+Livorno,Sampdoria,1-0,/match/livorno/sampdoria/2007,2007,36,serie_a,20,38,0,1,0,12,48,8,12,15,36,52,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWLW,6,8,3,19,13,9,57,12,10,13,42,42,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWLD,4,3,10,13,23,WDDDWWLDDDWWDLWDL,DDWWWWLLWWWLWWDWL
+Inter,Lazio,4-3,/match/internazionale/lazio/2007,2007,36,serie_a,20,38,0,4,3,1,91,28,6,1,72,30,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLWL,13,3,1,35,16,5,71,18,10,7,55,27,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLDW,8,5,4,30,18,DWWWWWWWWWLWDWWDW,WLLWWDLWDLLDLLLDD
+Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/2007,2007,36,serie_a,20,38,0,1,0,4,75,19,9,7,54,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLWD,13,2,2,38,11,13,48,8,13,14,31,41,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWWW,2,6,9,15,24,LWWWLWWDWWWWWDWWW,WDDDDDWWWLWWWDLWW
+Catania,Milan,1-1,/match/catania/milan/2007,2007,36,serie_a,20,38,1,1,1,14,45,9,10,16,43,66,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDLW,6,5,6,26,28,3,76,19,11,5,54,30,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWLD,7,8,2,26,16,DDWDWWWWWLLLLDLLD,LDDLWDDDLDLLDWDLL
+Ascoli,Palermo FC,3-2,/match/ascoli/palermo/2007,2007,36,serie_a,20,38,0,3,2,20,28,3,12,20,31,63,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDLW,1,8,8,19,29,8,57,14,10,11,52,46,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLLL,6,7,4,17,19,DDLLLDDLWLLDDDLDL,LWLLLWDWDDLDWDDDL
+Udinese,Atalanta,2-3,/match/udinese/atalanta/2007,2007,36,serie_a,20,38,2,2,3,11,52,11,10,14,43,48,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDLW,8,4,5,23,16,7,59,11,13,11,50,47,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWDW,3,5,9,17,26,WWDDLWDWLWWDLWLWL,DWLWWDWDWLWDWWWLD
+Milan,Udinese,2-3,/match/milan/udinese/2007,2007,37,serie_a,20,38,2,2,3,4,77,19,12,5,55,31,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWLDD,12,3,3,28,14,12,52,11,10,15,45,51,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDLWL,3,6,9,20,32,WWDLLLWDWWWWWWWWWD,WDLDWWWWLWLWDDWDDW
+Sampdoria,Catania,1-0,/match/sampdoria/catania/2007,2007,37,serie_a,20,38,0,1,0,9,57,12,10,14,42,43,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWLDW,8,7,3,29,19,15,47,9,11,16,44,67,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDLWD,3,5,10,17,38,LDWDWWLDWDLWWDDWWD,LWWWDLWDWWDDWWWDLW
+Palermo FC,Siena,2-1,/match/palermo/siena/2007,2007,37,serie_a,20,38,0,2,1,8,57,14,10,12,54,49,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLLLW,8,3,7,35,27,17,46,8,14,14,32,42,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLLWW,4,6,8,11,19,WWLWWWLWWWLLDDDLLL,LLDDLWWDWDWDWDWLWW
+Messina,Fiorentina,2-2,/match/messina/fiorentina/2007,2007,37,serie_a,20,38,1,2,2,19,36,5,10,21,32,63,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWDLW,5,6,7,18,24,2,79,20,9,7,55,28,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLWDW,6,7,5,16,17,WWLDWDLLDDLDWWLLDL,WWLLWDDLLDWWLDDDLD
+Lazio,Parma,0-0,/match/lazio/parma-fc/2007,2007,37,serie_a,20,38,1,0,0,5,71,18,10,8,58,31,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLDWW,10,5,3,25,9,13,49,9,11,16,38,55,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLWWW,1,7,10,16,32,LWDDWWWLDDDWWWWWLW,DWWWDWWDDWWWDDDWLW
+Empoli,Reggina,3-3,/match/empoli-fc/reggina/2007,2007,37,serie_a,20,38,1,3,3,6,65,14,11,11,38,37,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDWWW,10,6,2,26,13,10,56,11,14,11,47,47,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDLDD,5,6,7,23,28,DWLDDDWLWWWWWWDWDW,WWDWDLWDWWLLWDLDLD
+Chievo,Ascoli,1-0,/match/chievo/ascoli/2007,2007,37,serie_a,20,38,0,1,0,16,46,8,12,16,37,46,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWWWD,6,6,6,20,18,20,32,4,12,20,34,65,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDLWW,2,4,12,12,34,LLLLDDWLWWDLWDDDWW,WWDWDWWWWWLWDLWWDW
+Cagliari,Roma,3-2,/match/cagliari/roma/2007,2007,37,serie_a,20,38,0,3,2,14,48,8,13,15,31,42,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWWWW,6,7,5,16,17,3,79,21,9,6,68,28,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWDLL,9,5,4,29,19,LDDDWWDDLWLDLWLWDW,LLWLLLWLDDLWDDDLWL
+Atalanta,Inter,1-1,/match/atalanta/internazionale/2007,2007,37,serie_a,20,38,1,1,1,7,61,12,13,11,53,49,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWDWL,8,8,2,33,21,1,95,29,6,1,76,33,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLWLW,15,3,0,37,14,WDDWDWLWLWDDDDDWWW,LLDDLLLLLLLLLLLDLL
+Torino,Livorno,0-0,/match/torino-fc/livorno/2007,2007,37,serie_a,20,38,1,0,0,18,44,10,9,17,27,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDLWL,6,3,9,15,22,11,52,9,12,15,37,52,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWLWW,2,4,12,17,39,DLLWLDWWLLLLWWDLLW,WDLLWWDWWWWWDDWWWW
+Roma,Messina,4-3,/match/roma/messina/2007,2007,38,serie_a,20,38,0,4,3,3,79,21,9,7,70,31,WLLLWWDDLWLWLWWWLWDDWLWWWDDWDDLWWDLLW,12,4,2,39,9,19,38,5,11,21,34,65,WDWDLWDWWDDLWLWWDWDWLWDWWWWDLWWLWDLWD,0,4,14,14,39,WLWDDWWWWWWWWWDWDL,DDWWDWWWWWWWWDWWWW
+Siena,Lazio,2-1,/match/siena/lazio/2007,2007,38,serie_a,20,38,0,2,1,17,46,8,14,15,33,44,LLLDDWDDLDLWDWDDWDDWWWDLWDDLWLDWLLWWW,4,8,6,21,23,5,73,18,11,8,58,31,WLLWLDWWDDWLWWWDLLDDLDDWLWWLWLWDLDWWD,8,5,5,33,22,LDWDDLDDDWWLDLDLLW,WLLWWDLWDLLDLLLDDW
+Reggina,Milan,2-0,/match/reggina/milan/2007,2007,38,serie_a,20,38,0,2,0,10,57,11,15,11,50,50,WWWDDWWWDLLWDDWLWWWDLWLDWDDLLLDDDLDDD,6,8,4,24,19,4,77,19,12,6,57,34,WLWDDDLLLWLDWDDDWLWDWLWLWDWWWDWLWLDDL,7,9,2,27,17,WDWWLDWLWDWDDLLDDD,LDDLWDDDLDLLDWDLLD
+Parma,Empoli,3-1,/match/parma-fc/empoli-fc/2007,2007,38,serie_a,20,38,0,3,1,14,50,9,12,16,38,55,DLWLWLWWWDLWWDDDDLWWWWWLDDDDWWWDLWWWD,8,4,6,22,23,6,67,14,12,11,41,40,LDDWWLDDDDLDWWLWWWWWDWLWWWLDWWWDDWWWD,4,5,9,12,24,LLLWWLDDLWWLDWWDWW,LDWDDLWWWDLWLWWDWW
+Livorno,Atalanta,4-2,/match/livorno/atalanta/2007,2007,38,serie_a,20,38,0,4,2,12,53,9,13,15,37,52,WWDDLLDWDWWWDLWDWDWDWWWWDDLDWWWDWLWWD,7,8,3,20,13,7,63,12,14,11,54,50,WDDWDLWDWWWDLWWDLWWLDWDDDWWDWDWLWDWLD,4,5,9,20,28,WDDDWWLDDDWWDLWDLW,DWLWWDWDWLWDWWWLDL
+Inter,Torino,3-0,/match/internazionale/torino-fc/2007,2007,38,serie_a,20,38,0,3,0,1,96,29,7,1,77,34,LDLWDWDWLWLWLWLWLWLWLLLWLDLWLWDDLWLWD,14,3,1,39,19,18,46,10,10,17,27,44,DWLDLWDLDDWWLWDLLDLWLWLWWWWWLDWLDLWLD,4,6,8,12,22,DWWWWWWWWWLWDWWDWW,WDDDWLDLDWWWWWLWDL
+Fiorentina,Sampdoria,5-1,/match/fiorentina/sampdoria/2007,2007,38,serie_a,20,38,0,5,1,2,80,20,10,7,57,30,LWWWWLWLLWWDDWLDLWDWWWWLWDWDDDWWLWDWD,14,2,2,39,11,9,61,13,10,14,43,43,LDDDWDWWWWWWLLDLWWDWLWWLWWWDDDWWWLDWW,4,3,11,13,24,LWWWLWWDWWWWWDWWWW,DDWWWWLLWWWLWWDWLW
+Catania,Chievo,2-0,/match/catania/chievo/2007,2007,38,serie_a,20,38,0,2,0,16,47,9,11,17,44,68,LDWDWWWDDLWWWDWWWWWLDLDLLWDWLWLDDLWDW,6,6,6,27,29,15,50,9,12,16,38,46,LDLWLWDLWDWDWLLDWWWWDDLDWDWDLDWWWWWDW,2,6,10,17,28,DDWDWWWWWLLLLDLLDD,DWWDWWLDWWDDWLWWWD
+Ascoli,Cagliari,2-1,/match/ascoli/cagliari/2007,2007,38,serie_a,20,38,0,2,1,20,32,4,12,21,34,66,WDWDDLWDLWLDWDWLWWWLLLWDDDDLLWWDDLWWW,2,8,8,22,31,13,52,9,13,15,34,44,LWDDDDDDWDDWWDDWLWWLLWDWLWWDLWLDWWWWW,2,6,10,15,25,DDLLLDDLWLLDDDLDLW,WDDDDDWWWLWWWDLWWW
+Udinese,Palermo FC,1-2,/match/udinese/palermo/2007,2007,38,serie_a,20,38,2,1,2,11,54,12,10,15,48,53,WWDWDLDDLWWWWDWWLLWWLWWDDDLWWLDWDLWLL,8,4,6,25,19,8,61,15,10,12,56,50,WLWWLLLWLWWWLDWWWDWDLLLDDDWDDDLDLLLWW,6,7,5,19,22,WWDDLWDWLWWDLWLWLL,LWLLLWDWDDLDWDDDLW

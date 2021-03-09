@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Ajaccio,Troyes,0-1,/match/ajaccio/troyes/2019,2019,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Gazélec Ajaccio,Paris FC,1-1,/match/gazelec-ajaccio/paris-sg/2019,2019,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Clermont,Chateauroux,0-0,/match/clermont-foot/berrichonne-chateauroux/2019,2019,1,ligue_2,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Grenoble,Sochaux,1-0,/match/grenoble-foot-38/sochaux/2019,2019,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Nancy,Béziers,0-2,/match/nancy/beziers/2019,2019,1,ligue_2,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Orléans,Lens,0-2,/match/orleans/lens/2019,2019,1,ligue_2,20,38,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Red Star,Niort,1-2,/match/red-star/chamois-niortais/2019,2019,1,ligue_2,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Valenciennes,Auxerre,3-1,/match/valenciennes-afc/auxerre/2019,2019,1,ligue_2,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lorient,Le Havre,0-0,/match/lorient/havre-ac/2019,2019,1,ligue_2,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Stade Brestois,Metz,0-1,/match/stade-brestois-29/metz/2019,2019,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Auxerre,Gazélec Ajaccio,2-3,/match/auxerre/gazelec-ajaccio/2019,2019,2,ligue_2,20,38,2,2,3,17,0,0,1,1,3,W,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
-Béziers,Ajaccio,0-1,/match/beziers/ajaccio/2019,2019,2,ligue_2,20,38,2,0,1,9,1,0,0,2,0,L,0,0,0,0,0,15,0,0,1,0,1,L,0,0,0,0,0,,
-Le Havre,Grenoble,1-1,/match/havre-ac/grenoble-foot-38/2019,2019,2,ligue_2,20,38,1,1,1,13,0,1,0,0,0,D,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
-Metz,Orléans,5-1,/match/metz/orleans/2019,2019,2,ligue_2,20,38,0,5,1,6,1,0,0,1,0,L,0,0,0,0,0,14,0,0,1,0,2,L,0,0,0,0,0,,
-Niort,Clermont,4-2,/match/chamois-niortais/clermont-foot/2019,2019,2,ligue_2,20,38,0,4,2,7,1,0,0,2,1,L,0,0,0,0,0,10,0,1,0,0,0,D,0,0,0,0,0,,
-Paris FC,Nancy,2-0,/match/paris-sg/nancy/2019,2019,2,ligue_2,20,38,0,2,0,11,0,1,0,1,1,D,0,0,0,0,0,20,0,0,1,0,2,L,0,0,0,0,0,,
-Sochaux,Valenciennes,0-1,/match/sochaux/valenciennes-afc/2019,2019,2,ligue_2,20,38,2,0,1,19,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
-Troyes,Stade Brestois,1-2,/match/troyes/stade-brestois-29/2019,2019,2,ligue_2,20,38,2,1,2,3,1,0,0,1,0,L,0,0,0,0,0,18,0,0,1,0,1,L,0,0,0,0,0,,
-Lens,Red Star,1-0,/match/lens/red-star/2019,2019,2,ligue_2,20,38,0,1,0,4,1,0,0,2,0,L,0,0,0,0,0,16,0,0,1,1,2,L,0,0,0,0,0,,
-Chateauroux,Lorient,1-2,/match/berrichonne-chateauroux/lorient/2019,2019,2,ligue_2,20,38,2,1,2,12,0,1,0,0,0,D,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
-Ajaccio,Sochaux,2-3,/match/ajaccio/sochaux/2019,2019,3,ligue_2,20,38,2,2,3,13,1,0,1,1,1,LL,0,0,1,0,1,19,0,0,2,0,2,WL,0,0,1,0,1,L,W
-Gazélec Ajaccio,Lorient,1-3,/match/gazelec-ajaccio/lorient/2019,2019,3,ligue_2,20,38,2,1,3,8,1,1,0,4,3,DL,0,1,0,1,1,7,1,1,0,2,1,DL,1,0,0,2,1,D,L
-Stade Brestois,Paris FC,1-1,/match/stade-brestois-29/paris-sg/2019,2019,3,ligue_2,20,38,1,1,1,14,1,0,1,2,2,LL,0,0,1,0,1,6,1,1,0,3,1,DW,0,1,0,1,1,L,D
-Grenoble,Niort,1-0,/match/grenoble-foot-38/chamois-niortais/2019,2019,3,ligue_2,20,38,0,1,0,5,1,1,0,2,1,WD,1,0,0,1,0,4,2,0,0,6,3,LW,1,0,0,2,1,W,L
-Nancy,Lens,0-3,/match/nancy/lens/2019,2019,3,ligue_2,20,38,2,0,3,20,0,0,2,0,4,LW,0,0,1,0,2,3,2,0,0,3,0,LW,1,0,0,2,0,L,L
-Orléans,Auxerre,0-3,/match/orleans/auxerre/2019,2019,3,ligue_2,20,38,2,0,3,16,0,0,2,1,7,LW,0,0,1,0,2,18,0,0,2,3,6,WL,0,0,1,1,3,L,W
-Red Star,Le Havre,0-1,/match/red-star/havre-ac/2019,2019,3,ligue_2,20,38,2,0,1,17,0,0,2,1,3,LW,0,0,1,1,2,9,0,2,0,1,1,DD,0,1,0,0,0,L,D
-Troyes,Béziers,0-1,/match/troyes/beziers/2019,2019,3,ligue_2,20,38,2,0,1,12,1,0,1,2,2,LL,0,0,1,1,2,10,1,0,1,2,1,LL,1,0,0,2,0,L,L
-Valenciennes,Chateauroux,1-1,/match/valenciennes-afc/berrichonne-chateauroux/2019,2019,3,ligue_2,20,38,1,1,1,2,2,0,0,4,1,WL,1,0,0,3,1,15,0,1,1,1,2,DL,0,1,0,0,0,W,D
-Clermont,Metz,2-3,/match/clermont-foot/metz/2019,2019,3,ligue_2,20,38,2,2,3,11,0,1,1,2,4,DW,0,1,0,0,0,1,2,0,0,6,1,LW,1,0,0,1,0,D,L
-Gazélec Ajaccio,Grenoble,2-0,/match/gazelec-ajaccio/grenoble-foot-38/2019,2019,4,ligue_2,20,38,0,2,0,9,1,1,1,5,6,DLL,0,1,1,2,4,1,2,1,0,3,1,WDW,0,1,0,1,1,DL,D
-Auxerre,Nancy,1-0,/match/auxerre/nancy/2019,2019,4,ligue_2,20,38,0,1,0,14,1,0,2,6,6,WLL,0,0,1,2,3,20,0,0,3,0,7,LWL,0,0,1,0,2,L,W
-Chateauroux,Red Star,1-1,/match/berrichonne-chateauroux/red-star/2019,2019,4,ligue_2,20,38,1,1,1,12,0,2,1,2,3,DLD,0,0,1,1,2,19,0,0,3,1,4,LWL,0,0,1,0,1,L,W
-Le Havre,Clermont,0-0,/match/havre-ac/clermont-foot/2019,2019,4,ligue_2,20,38,1,0,0,8,1,2,0,2,1,DDL,0,1,0,1,1,15,0,1,2,4,7,DWL,0,0,1,2,4,D,W
-Lorient,Valenciennes,3-1,/match/lorient/valenciennes-afc/2019,2019,4,ligue_2,20,38,0,3,1,7,2,1,0,5,2,DLL,0,1,0,0,0,4,2,1,0,5,2,WLD,1,0,0,1,0,D,L
-Niort,Orléans,1-1,/match/chamois-niortais/orleans/2019,2019,4,ligue_2,20,38,1,1,1,5,2,0,1,6,4,LWW,1,0,0,4,2,18,0,0,3,1,10,LWL,0,0,1,1,5,W,W
-Paris FC,Béziers,1-0,/match/paris-sg/beziers/2019,2019,4,ligue_2,20,38,0,1,0,6,1,2,0,4,2,DWD,1,0,0,2,0,10,2,0,1,3,1,LLL,2,0,0,3,0,W,LL
-Sochaux,Stade Brestois,2-0,/match/sochaux/stade-brestois-29/2019,2019,4,ligue_2,20,38,0,2,0,13,1,0,2,3,4,WLL,0,0,1,0,1,11,1,1,1,3,3,LLD,1,0,0,2,1,L,L
-Lens,Troyes,2-0,/match/lens/troyes/2019,2019,4,ligue_2,20,38,0,2,0,3,3,0,0,6,0,LWL,1,0,0,1,0,17,1,0,2,2,3,LLL,1,0,0,1,0,W,L
-Metz,Ajaccio,3-1,/match/metz/ajaccio/2019,2019,4,ligue_2,20,38,0,3,1,2,3,0,0,9,3,LWL,1,0,0,5,1,16,1,0,2,3,4,LLL,1,0,0,1,0,W,L
-Ajaccio,Lorient,0-0,/match/ajaccio/lorient/2019,2019,5,ligue_2,20,38,1,0,0,16,1,0,3,4,7,LLLW,0,0,2,2,4,4,3,1,0,8,3,DLLW,2,0,0,5,2,LL,LL
-Stade Brestois,Le Havre,1-0,/match/stade-brestois-29/havre-ac/2019,2019,5,ligue_2,20,38,0,1,0,12,1,1,2,3,5,LLDW,0,1,1,1,2,9,1,3,0,2,1,DDLD,1,1,0,1,0,LD,DL
-Clermont,Sochaux,1-0,/match/clermont-foot/sochaux/2019,2019,5,ligue_2,20,38,0,1,0,15,0,2,2,4,7,DWLD,0,1,1,2,3,10,2,0,2,5,4,WLLW,1,0,1,3,3,DL,WL
-Grenoble,Chateauroux,0-0,/match/grenoble-foot-38/berrichonne-chateauroux/2019,2019,5,ligue_2,20,38,1,0,0,5,2,1,1,3,3,WDWW,2,0,0,2,0,13,0,3,1,3,4,DLDD,0,2,0,1,1,WW,DD
-Nancy,Niort,0-1,/match/nancy/chamois-niortais/2019,2019,5,ligue_2,20,38,2,0,1,20,0,0,4,0,8,LWLW,0,0,2,0,5,7,2,1,1,7,5,LWWD,1,0,1,2,2,LL,LW
-Orléans,Paris FC,4-0,/match/orleans/paris-sg/2019,2019,5,ligue_2,20,38,0,4,0,18,0,1,3,2,11,LWLD,0,0,2,0,5,3,2,2,0,5,2,DWDW,0,2,0,2,2,LL,DD
-Red Star,Auxerre,1-0,/match/red-star/auxerre/2019,2019,5,ligue_2,20,38,0,1,0,19,0,1,3,2,5,LWLD,0,0,2,1,3,11,2,0,2,7,6,WLLW,1,0,1,4,3,LL,WL
-Troyes,Metz,0-1,/match/troyes/metz/2019,2019,5,ligue_2,20,38,2,0,1,17,1,0,3,2,5,LLLW,0,0,2,1,3,2,4,0,0,12,4,LWLW,2,0,0,4,2,LL,LL
-Valenciennes,Gazélec Ajaccio,0-0,/match/valenciennes-afc/gazelec-ajaccio/2019,2019,5,ligue_2,20,38,1,0,0,6,2,1,1,6,5,WLDW,1,1,0,4,2,8,2,1,1,7,6,DLLW,1,0,0,3,2,WD,L
-Béziers,Lens,0-0,/match/beziers/lens/2019,2019,5,ligue_2,20,38,1,0,0,14,2,0,2,3,2,LLLW,0,0,1,0,1,1,4,0,0,8,0,LWLW,2,0,0,5,0,L,LL
-Gazélec Ajaccio,Red Star,2-1,/match/gazelec-ajaccio/red-star/2019,2019,6,ligue_2,20,38,0,2,1,8,2,2,1,7,6,DLLWD,1,1,1,4,4,17,1,1,3,3,5,LWLDW,0,1,1,1,2,DLW,WD
-Auxerre,Stade Brestois,0-2,/match/auxerre/stade-brestois-29/2019,2019,6,ligue_2,20,38,2,0,2,13,2,0,3,7,7,WLLWW,1,0,1,3,3,9,2,1,2,4,5,LLDWW,1,0,1,2,3,LW,LW
-Chateauroux,Nancy,1-0,/match/berrichonne-chateauroux/nancy/2019,2019,6,ligue_2,20,38,0,1,0,15,0,4,1,3,4,DLDDD,0,1,1,2,3,20,0,0,5,0,9,LWLWL,0,0,2,0,3,LD,WW
-Le Havre,Orléans,3-1,/match/havre-ac/orleans/2019,2019,6,ligue_2,20,38,0,3,1,10,1,3,1,2,2,DDLDW,0,2,0,1,1,16,1,1,3,6,11,LWLDW,0,1,1,2,6,DD,WD
-Niort,Ajaccio,2-0,/match/chamois-niortais/ajaccio/2019,2019,6,ligue_2,20,38,0,2,0,7,3,1,1,8,5,LWWDL,1,1,0,5,3,18,1,1,3,4,7,LLLWD,1,0,1,2,3,WD,LW
-Paris FC,Troyes,2-0,/match/paris-sg/troyes/2019,2019,6,ligue_2,20,38,0,2,0,5,2,2,1,5,6,DWDWW,2,0,0,3,0,19,1,0,4,2,6,LLLWL,1,0,1,1,2,WW,LW
-Sochaux,Béziers,1-0,/match/sochaux/beziers/2019,2019,6,ligue_2,20,38,0,1,0,14,2,0,3,5,5,WLLWW,1,0,1,2,1,12,2,1,2,3,2,LLLWD,2,0,1,3,1,LW,LLW
-Valenciennes,Clermont,0-4,/match/valenciennes-afc/clermont-foot/2019,2019,6,ligue_2,20,38,2,0,4,6,2,2,1,6,5,WLDWD,1,2,0,4,2,11,1,2,2,5,7,DWLDW,0,1,1,2,4,WDD,WD
-Metz,Lens,2-0,/match/metz/lens/2019,2019,6,ligue_2,20,38,0,2,0,1,5,0,0,13,4,LWLWL,2,0,0,8,2,2,4,1,0,8,0,LWLWD,2,1,0,5,0,WW,LLD
-Lorient,Grenoble,1-0,/match/lorient/grenoble-foot-38/2019,2019,6,ligue_2,20,38,0,1,0,3,3,2,0,8,3,DLLWD,1,1,0,3,1,4,2,2,1,3,3,WDWWD,0,1,1,1,3,DW,DW
-Ajaccio,Paris FC,0-0,/match/ajaccio/paris-sg/2019,2019,7,ligue_2,20,38,1,0,0,18,1,1,4,4,9,LLLWDW,0,1,2,2,4,3,3,2,1,7,6,DWDWWW,0,2,1,2,6,LLD,DDW
-Stade Brestois,Gazélec Ajaccio,4-1,/match/stade-brestois-29/gazelec-ajaccio/2019,2019,7,ligue_2,20,38,0,4,1,11,3,1,2,6,5,LLDWWL,1,1,1,2,2,5,3,2,1,9,7,DLLWDW,1,1,0,3,2,LDW,LD
-Clermont,Auxerre,2-0,/match/clermont-foot/auxerre/2019,2019,7,ligue_2,20,38,0,2,0,13,2,2,2,9,7,DWLDWL,1,1,1,3,3,14,2,0,4,7,9,WLLWWL,1,0,2,4,4,DLW,WLW
-Grenoble,Valenciennes,4-2,/match/grenoble-foot-38/valenciennes-afc/2019,2019,7,ligue_2,20,38,0,4,2,7,2,2,2,3,4,WDWWDW,2,1,0,2,0,10,2,2,2,6,9,WLDWDL,1,0,1,2,3,WWD,LW
-Nancy,Le Havre,0-1,/match/nancy/havre-ac/2019,2019,7,ligue_2,20,38,2,0,1,20,0,0,6,0,10,LWLWLW,0,0,3,0,6,8,2,3,1,5,3,DDLDWW,1,1,1,1,1,LLL,DLW
-Orléans,Chateauroux,2-0,/match/orleans/berrichonne-chateauroux/2019,2019,7,ligue_2,20,38,0,2,0,16,1,1,4,7,14,LWLDWW,1,0,2,4,5,12,1,4,1,4,4,DLDDDW,0,3,0,1,1,LLW,DDD
-Red Star,Lorient,0-3,/match/red-star/lorient/2019,2019,7,ligue_2,20,38,2,0,3,17,1,1,4,4,7,LWLDWW,1,0,2,2,3,2,4,2,0,9,3,DLLWDW,2,1,0,5,2,LLW,LLD
-Troyes,Niort,2-0,/match/troyes/chamois-niortais/2019,2019,7,ligue_2,20,38,0,2,0,19,1,0,5,2,8,LLLWLW,0,0,3,1,4,4,4,1,1,10,5,LWWDLW,2,0,1,3,2,LLL,LWL
-Lens,Sochaux,2-0,/match/lens/sochaux/2019,2019,7,ligue_2,20,38,0,2,0,6,4,1,1,8,2,LWLWDW,2,0,0,3,0,9,3,0,3,6,5,WLLWWW,1,0,2,3,4,WW,WLW
-Béziers,Metz,1-3,/match/beziers/metz/2019,2019,7,ligue_2,20,38,2,1,3,15,2,1,3,3,3,LLLWDW,0,1,1,0,1,1,6,0,0,15,4,LWLWLW,3,0,0,5,2,LD,LLL
-Gazélec Ajaccio,Nancy,0-1,/match/gazelec-ajaccio/nancy/2019,2019,8,ligue_2,20,38,2,0,1,8,3,2,2,10,11,DLLWDWW,2,1,1,6,5,20,0,0,7,0,11,LWLWLWL,0,0,3,0,4,DLWW,WWW
-Auxerre,Ajaccio,0-0,/match/auxerre/ajaccio/2019,2019,8,ligue_2,20,38,1,0,0,15,2,0,5,7,11,WLLWWLW,1,0,2,3,5,17,1,2,4,4,9,LLLWDWD,1,0,2,2,5,LWL,LWW
-Chateauroux,Béziers,2-0,/match/berrichonne-chateauroux/beziers/2019,2019,8,ligue_2,20,38,0,2,0,13,1,4,2,4,6,DLDDDWW,1,1,1,3,3,16,2,1,4,4,6,LLLWDWL,2,0,2,3,2,LDW,LLWW
-Grenoble,Stade Brestois,1-2,/match/grenoble-foot-38/stade-brestois-29/2019,2019,8,ligue_2,20,38,2,1,2,5,3,2,2,7,6,WDWWDWW,3,1,0,6,2,6,4,1,2,10,6,LLDWWLW,2,0,1,4,3,WWDW,LWL
-Le Havre,Troyes,1-1,/match/havre-ac/troyes/2019,2019,8,ligue_2,20,38,1,1,1,9,3,3,1,6,3,DDLDWWL,1,2,0,4,2,18,2,0,5,4,8,LLLWLWW,1,0,2,1,4,DDW,LWW
-Lorient,Clermont,0-0,/match/lorient/clermont-foot/2019,2019,8,ligue_2,20,38,1,0,0,3,5,2,0,12,3,DLLWDWL,2,1,0,4,1,10,3,2,2,11,7,DWLDWLW,1,1,1,6,4,DWW,WDL
-Sochaux,Orléans,0-1,/match/sochaux/orleans/2019,2019,8,ligue_2,20,38,2,0,1,11,3,0,4,6,7,WLLWWWW,2,0,1,3,1,14,2,1,4,9,14,LWLDWWW,0,1,2,3,9,LWW,WDW
-Valenciennes,Red Star,4-1,/match/valenciennes-afc/red-star/2019,2019,8,ligue_2,20,38,0,4,1,12,2,2,3,8,13,WLDWDLW,1,2,1,4,6,19,1,1,5,4,10,LWLDWWL,0,1,2,2,4,WDDL,WDW
-Paris FC,Metz,2-1,/match/paris-sg/metz/2019,2019,8,ligue_2,20,38,0,2,1,4,3,3,1,7,6,DWDWWWD,3,0,0,5,0,1,7,0,0,18,5,LWLWLWL,4,0,0,8,3,WWW,LLLL
-Niort,Lens,1-2,/match/chamois-niortais/lens/2019,2019,8,ligue_2,20,38,2,1,2,7,4,1,2,10,7,LWWDLWW,2,1,0,7,3,2,5,1,1,10,2,LWLWDWW,2,1,1,5,2,WDW,LLDW
-Ajaccio,Valenciennes,3-1,/match/ajaccio/valenciennes-afc/2019,2019,9,ligue_2,20,38,0,3,1,16,1,3,4,4,9,LLLWDWDD,0,2,2,2,4,10,3,2,3,12,14,WLDWDLWW,1,0,2,4,7,LLDD,LWW
-Béziers,Niort,1-1,/match/beziers/chamois-niortais/2019,2019,9,ligue_2,20,38,1,1,1,18,2,1,5,4,8,LLLWDWLW,0,1,2,1,4,8,4,1,3,11,9,LWWDLWWL,2,0,2,3,4,LDL,LWLW
-Stade Brestois,Chateauroux,5-1,/match/stade-brestois-29/berrichonne-chateauroux/2019,2019,9,ligue_2,20,38,0,5,1,5,5,1,2,12,7,LLDWWLWL,2,1,1,6,3,12,2,4,2,6,6,DLDDDWWW,0,3,1,1,3,LDWW,DDDW
-Clermont,Gazélec Ajaccio,1-1,/match/clermont-foot/gazelec-ajaccio/2019,2019,9,ligue_2,20,38,1,1,1,9,3,3,2,11,7,DWLDWLWD,2,1,1,5,3,11,3,2,3,10,12,DLLWDWWL,1,1,1,4,6,DLWW,LDW
-Lens,Paris FC,0-0,/match/lens/paris-sg/2019,2019,9,ligue_2,20,38,1,0,0,4,6,1,1,12,3,LWLWDWWL,3,0,0,5,0,3,4,3,1,9,7,DWDWWWDW,0,3,1,2,6,WWW,DDWD
-Nancy,Sochaux,0-0,/match/nancy/sochaux/2019,2019,9,ligue_2,20,38,1,0,0,20,1,0,7,1,11,LWLWLWLL,0,0,4,0,7,14,3,0,5,6,8,WLLWWWWL,1,0,3,3,6,LLLL,WLWW
-Orléans,Lorient,2-0,/match/orleans/lorient/2019,2019,9,ligue_2,20,38,0,2,0,13,3,1,4,10,14,LWLDWWWL,2,0,2,6,5,2,5,3,0,12,3,DLLWDWLD,3,1,0,8,2,LLWW,LLDL
-Red Star,Grenoble,2-3,/match/red-star/grenoble-foot-38/2019,2019,9,ligue_2,20,38,2,2,3,19,1,1,6,5,14,LWLDWWLW,1,0,3,2,6,6,3,2,3,8,8,WDWWDWWL,0,1,2,1,4,LLWL,DWW
-Metz,Le Havre,0-1,/match/metz/havre-ac/2019,2019,9,ligue_2,20,38,2,0,1,1,7,0,1,19,7,LWLWLWLW,3,0,0,10,2,7,3,4,1,7,4,DDLDWWLD,2,1,1,2,1,WWW,DLWL
-Troyes,Auxerre,1-0,/match/troyes/auxerre/2019,2019,9,ligue_2,20,38,0,1,0,17,2,1,5,5,9,LLLWLWWD,1,0,3,3,4,15,2,1,5,7,11,WLLWWLWD,1,0,3,4,6,LLLW,WLWW
-Gazélec Ajaccio,Orléans,0-2,/match/gazelec-ajaccio/orleans/2019,2019,10,ligue_2,20,38,2,0,2,11,3,3,3,11,13,DLLWDWWLD,2,1,2,6,6,10,4,1,4,12,14,LWLDWWWLW,1,1,2,4,9,DLWWL,WDWL
-Chateauroux,Troyes,0-3,/match/berrichonne-chateauroux/troyes/2019,2019,10,ligue_2,20,38,2,0,3,13,2,4,3,7,11,DLDDDWWWW,2,1,1,5,3,16,3,1,5,6,9,LLLWLWWDW,1,1,2,2,5,LDWW,LWWD
-Grenoble,Clermont,1-0,/match/grenoble-foot-38/clermont-foot/2019,2019,10,ligue_2,20,38,0,1,0,6,4,2,3,11,10,WDWWDWWLL,3,1,1,7,4,8,3,4,2,12,8,DWLDWLWDD,1,2,1,6,4,WWDWL,WDLD
-Le Havre,Béziers,2-3,/match/havre-ac/beziers/2019,2019,10,ligue_2,20,38,2,2,3,7,4,4,1,8,4,DDLDWWLDL,1,3,0,5,3,18,2,2,5,5,9,LLLWDWLWD,2,0,3,3,4,DDWD,LLWWW
-Lorient,Nancy,4-1,/match/lorient/nancy/2019,2019,10,ligue_2,20,38,0,4,1,5,5,3,1,12,5,DLLWDWLDW,2,2,0,4,1,20,1,1,7,1,11,LWLWLWLLD,1,0,3,1,4,DWWD,WWWL
-Niort,Paris FC,1-0,/match/chamois-niortais/paris-sg/2019,2019,10,ligue_2,20,38,0,1,0,9,4,2,3,12,10,LWWDLWWLD,2,1,1,8,5,3,4,4,1,9,7,DWDWWWDWD,0,4,1,2,6,WDWL,DDWDD
-Red Star,Ajaccio,2-0,/match/red-star/ajaccio/2019,2019,10,ligue_2,20,38,0,2,0,19,1,1,7,7,17,LWLDWWLWL,1,0,4,4,9,15,2,3,4,7,10,LLLWDWDDW,1,1,2,2,5,LLWLL,LWWD
-Valenciennes,Stade Brestois,1-3,/match/valenciennes-afc/stade-brestois-29/2019,2019,10,ligue_2,20,38,2,1,3,12,3,2,4,13,17,WLDWDLWWW,2,2,1,8,7,4,6,1,2,17,8,LLDWWLWLW,3,0,1,6,4,WDDLW,LWLL
-Auxerre,Lens,1-2,/match/auxerre/lens/2019,2019,10,ligue_2,20,38,2,1,2,17,2,1,6,7,12,WLLWWLWDW,1,1,2,3,5,1,6,2,1,12,3,LWLWDWWLD,3,1,1,7,3,LWLD,LLDWL
-Sochaux,Metz,1-2,/match/sochaux/metz/2019,2019,10,ligue_2,20,38,2,1,2,14,3,1,5,6,8,WLLWWWWLD,2,0,2,3,2,2,7,0,2,19,8,LWLWLWLWL,4,0,1,9,5,LWWL,LLLLW
-Ajaccio,Le Havre,3-2,/match/ajaccio/havre-ac/2019,2019,11,ligue_2,20,38,0,3,2,16,2,3,5,7,12,LLLWDWDDWW,1,2,2,5,5,8,4,4,2,10,7,DDLDWWLDLL,3,1,1,3,1,LLDDW,DLWLL
-Auxerre,Béziers,2-0,/match/auxerre/beziers/2019,2019,11,ligue_2,20,38,0,2,0,19,2,1,7,8,14,WLLWWLWDWL,1,1,3,4,7,17,3,2,5,8,11,LLLWDWLWDL,3,0,3,6,6,LWLDL,LLWWWL
-Clermont,Red Star,0-0,/match/clermont-foot/red-star/2019,2019,11,ligue_2,20,38,1,0,0,10,3,4,3,12,9,DWLDWLWDDW,2,2,1,6,4,18,2,1,7,9,17,LWLDWWLWLW,0,1,3,3,8,DLWWD,WDWW
-Metz,Niort,3-0,/match/metz/chamois-niortais/2019,2019,11,ligue_2,20,38,0,3,0,4,8,0,2,21,9,LWLWLWLWLL,3,0,1,10,3,7,5,2,3,13,10,LWWDLWWLDW,2,1,2,4,5,WWWL,LWLWD
-Nancy,Grenoble,1-2,/match/nancy/grenoble-foot-38/2019,2019,11,ligue_2,20,38,2,1,2,20,1,1,8,2,15,LWLWLWLLDW,0,1,4,0,7,5,5,2,3,12,10,WDWWDWWLLW,1,1,2,4,6,LLLLD,DWWL
-Orléans,Valenciennes,1-0,/match/orleans/valenciennes-afc/2019,2019,11,ligue_2,20,38,0,1,0,9,5,1,4,14,14,LWLDWWWLWL,3,0,2,8,5,11,3,2,5,14,20,WLDWDLWWWL,1,0,3,5,10,LLWWW,LWWW
-Paris FC,Chateauroux,0-0,/match/paris-sg/berrichonne-chateauroux/2019,2019,11,ligue_2,20,38,1,0,0,6,4,4,2,9,8,DWDWWWDWDW,4,0,0,7,1,13,2,4,4,7,14,DLDDDWWWWL,0,3,2,2,8,WWWW,DDDWW
-Troyes,Sochaux,1-2,/match/troyes/sochaux/2019,2019,11,ligue_2,20,38,2,1,2,14,4,1,5,9,9,LLLWLWWDWL,2,0,3,4,4,15,3,1,6,7,10,WLLWWWWLDL,1,1,3,3,6,LLLWW,WLWWD
-Stade Brestois,Lorient,3-2,/match/stade-brestois-29/lorient/2019,2019,11,ligue_2,20,38,0,3,2,3,7,1,2,20,9,LLDWWLWLWL,3,1,1,11,4,2,6,3,1,16,6,DLLWDWLDWW,3,1,1,8,4,LDWWW,LLDLW
-Lens,Gazélec Ajaccio,5-0,/match/lens/gazelec-ajaccio/2019,2019,11,ligue_2,20,38,0,5,0,1,7,2,1,14,4,LWLWDWWLDL,3,1,0,5,0,12,3,3,4,11,15,DLLWDWWLDL,1,2,1,5,7,WWWD,LDWD
-Gazélec Ajaccio,Béziers,0-1,/match/gazelec-ajaccio/beziers/2019,2019,12,ligue_2,20,38,2,0,1,14,3,3,5,11,20,DLLWDWWLDLW,2,1,3,6,8,18,3,2,6,8,13,LLLWDWLWDLW,3,0,4,6,8,DLWWLL,LLWWWLW
-Auxerre,Paris FC,0-2,/match/auxerre/paris-sg/2019,2019,12,ligue_2,20,38,2,0,2,17,3,1,7,10,14,WLLWWLWDWLW,2,1,3,6,7,6,4,5,2,9,8,DWDWWWDWDWD,0,4,2,2,7,LWLDLW,DDWDDW
-Chateauroux,Ajaccio,2-2,/match/berrichonne-chateauroux/ajaccio/2019,2019,12,ligue_2,20,38,1,2,2,12,2,5,4,7,14,DLDDDWWWWLD,2,1,2,5,6,11,3,3,5,10,14,LLLWDWDDWWW,1,1,3,2,7,LDWWL,LWWDW
-Grenoble,Troyes,0-2,/match/grenoble-foot-38/troyes/2019,2019,12,ligue_2,20,38,2,0,2,4,6,2,3,14,11,WDWWDWWLLWL,4,1,1,8,4,15,4,1,6,10,11,LLLWLWWDWLL,2,1,2,5,5,WWDWLW,LWWDL
-Lorient,Metz,0-0,/match/lorient/metz/2019,2019,12,ligue_2,20,38,1,0,0,5,6,3,2,18,9,DLLWDWLDWWW,3,2,0,8,2,3,9,0,2,24,9,LWLWLWLWLLW,5,0,1,11,6,DWWDW,LLLLWL
-Red Star,Orléans,0-4,/match/red-star/orleans/2019,2019,12,ligue_2,20,38,2,0,4,19,2,2,7,9,17,LWLDWWLWLWD,2,0,4,6,9,7,6,1,4,15,14,LWLDWWWLWLW,2,1,2,6,9,LLWLLW,WDWLL
-Sochaux,Niort,0-3,/match/sochaux/chamois-niortais/2019,2019,12,ligue_2,20,38,2,0,3,16,4,1,6,9,11,WLLWWWWLDLL,2,0,3,4,4,8,5,2,4,13,13,LWWDLWWLDWW,2,1,3,4,8,LWWLL,LWLWDW
-Valenciennes,Nancy,1-1,/match/valenciennes-afc/nancy/2019,2019,12,ligue_2,20,38,1,1,1,13,3,2,6,14,21,WLDWDLWWWLW,2,2,2,9,10,20,1,1,9,3,17,LWLWLWLLDWL,1,0,4,2,8,WDDLWL,WWWLW
-Le Havre,Lens,2-1,/match/havre-ac/lens/2019,2019,12,ligue_2,20,38,0,2,1,10,4,4,3,12,10,DDLDWWLDLLW,1,3,1,7,6,1,8,2,1,19,4,LWLWDWWLDLW,4,1,1,9,4,DDWDL,LLDWLL
-Clermont,Stade Brestois,2-2,/match/clermont-foot/stade-brestois-29/2019,2019,12,ligue_2,20,38,1,2,2,9,3,5,3,12,9,DWLDWLWDDWD,2,3,1,6,4,2,8,1,2,23,11,LLDWWLWLWLW,4,0,1,9,5,DLWWDD,LWLLL
-Ajaccio,Gazélec Ajaccio,1-2,/match/ajaccio/gazelec-ajaccio/2019,2019,13,ligue_2,20,38,2,1,2,12,3,4,5,12,16,LLLWDWDDWWWD,2,2,2,8,7,15,3,3,6,11,21,DLLWDWWLDLWL,1,2,2,5,12,LLDDWW,LDWDW
-Stade Brestois,Red Star,1-1,/match/stade-brestois-29/red-star/2019,2019,13,ligue_2,20,38,1,1,1,3,8,2,2,25,13,LLDWWLWLWLWD,4,1,1,14,6,19,2,2,8,9,21,LWLDWWLWLWDL,0,2,3,3,8,LDWWWW,WDWWD
-Nancy,Clermont,0-1,/match/nancy/clermont-foot/2019,2019,13,ligue_2,20,38,2,0,1,20,1,2,9,4,18,LWLWLWLLDWLD,0,1,5,1,9,10,3,6,3,14,11,DWLDWLWDDWDD,1,2,2,6,5,LLLLDL,WDLDW
-Paris FC,Sochaux,0-0,/match/paris-sg/sochaux/2019,2019,13,ligue_2,20,38,1,0,0,5,5,5,2,11,8,DWDWWWDWDWDL,4,1,0,7,1,16,4,1,7,9,14,WLLWWWWLDLLL,2,1,3,5,7,WWWWD,WLWWDL
-Béziers,Lorient,0-1,/match/beziers/lorient/2019,2019,13,ligue_2,20,38,2,0,1,18,4,2,6,9,13,LLLWDWLWDLWL,0,2,2,2,5,4,6,4,2,18,9,DLLWDWLDWWWD,3,1,2,10,7,LDLD,LLDLWW
-Lens,Chateauroux,0-1,/match/lens/berrichonne-chateauroux/2019,2019,13,ligue_2,20,38,2,0,1,1,8,2,2,20,6,LWLWDWWLDLWW,4,1,0,10,0,13,2,6,4,9,16,DLDDDWWWWLDD,0,4,2,2,8,WWWDW,DDDWWD
-Niort,Le Havre,1-0,/match/chamois-niortais/havre-ac/2019,2019,13,ligue_2,20,38,0,1,0,8,6,2,4,16,13,LWWDLWWLDWWL,3,1,1,9,5,9,5,4,3,14,11,DDLDWWLDLLWW,3,1,2,5,4,WDWLW,DLWLLW
-Orléans,Grenoble,0-3,/match/orleans/grenoble-foot-38/2019,2019,13,ligue_2,20,38,2,0,3,7,7,1,4,19,14,LWLDWWWLWLWL,4,0,2,9,5,6,6,2,4,14,13,WDWWDWWLLWLL,2,1,2,6,7,LLWWWW,DWWLL
-Troyes,Valenciennes,4-2,/match/troyes/valenciennes-afc/2019,2019,13,ligue_2,20,38,0,4,2,14,5,1,6,12,11,LLLWLWWDWLLL,2,0,4,5,6,11,3,3,6,15,22,WLDWDLWWWLWD,1,0,4,5,11,LLLWWL,LWWWW
-Metz,Auxerre,0-1,/match/metz/auxerre/2019,2019,13,ligue_2,20,38,2,0,1,2,9,1,2,24,9,LWLWLWLWLLWD,4,0,1,13,3,17,3,1,8,10,16,WLLWWLWDWLWL,1,0,4,4,7,WWWLW,WLWWW
-Gazélec Ajaccio,Troyes,2-1,/match/gazelec-ajaccio/troyes/2019,2019,14,ligue_2,20,38,0,2,1,13,4,3,6,13,22,DLLWDWWLDLWLL,2,1,4,6,9,11,6,1,6,16,13,LLLWLWWDWLLLW,3,1,2,7,5,DLWWLLL,LWWDLL
-Auxerre,Niort,0-0,/match/auxerre/chamois-niortais/2019,2019,14,ligue_2,20,38,1,0,0,17,4,1,8,11,16,WLLWWLWDWLWLL,2,1,4,6,9,7,7,2,4,17,13,LWWDLWWLDWWLW,3,1,3,7,8,LWLDLWL,LWLWDWL
-Chateauroux,Metz,1-2,/match/berrichonne-chateauroux/metz/2019,2019,14,ligue_2,20,38,2,1,2,12,3,6,4,10,16,DLDDDWWWWLDDL,2,2,2,7,8,4,9,1,3,24,10,LWLWLWLWLLWDL,5,1,1,11,6,LDWWLD,LLLLWLD
-Clermont,Orléans,3-0,/match/clermont-foot/orleans/2019,2019,14,ligue_2,20,38,0,3,0,9,4,6,3,15,11,DWLDWLWDDWDDL,2,4,1,8,6,8,7,1,5,19,17,LWLDWWWLWLWLL,3,1,2,10,9,DLWWDDD,WDWLLL
-Grenoble,Ajaccio,2-0,/match/grenoble-foot-38/ajaccio/2019,2019,14,ligue_2,20,38,0,2,0,6,7,2,4,17,13,WDWWDWWLLWLLL,4,1,2,8,6,15,3,4,6,13,18,LLLWDWDDWWWDL,1,2,3,4,9,WWDWLWL,LWWDWD
-Le Havre,Sochaux,3-2,/match/havre-ac/sochaux/2019,2019,14,ligue_2,20,38,0,3,2,10,5,4,4,14,12,DDLDWWLDLLWWW,2,3,1,9,7,16,4,2,7,9,14,WLLWWWWLDLLLD,2,2,3,5,7,DDWDLW,WLWWDLD
-Lorient,Paris FC,2-1,/match/lorient/paris-sg/2019,2019,14,ligue_2,20,38,0,2,1,3,7,4,2,19,9,DLLWDWLDWWWDL,3,3,0,8,2,5,5,6,2,11,8,DWDWWWDWDWDLD,1,4,2,4,7,DWWDWD,DDWDDWL
-Red Star,Béziers,0-3,/match/red-star/beziers/2019,2019,14,ligue_2,20,38,2,0,3,19,2,3,8,10,22,LWLDWWLWLWDLD,2,0,5,6,13,18,4,2,7,9,14,LLLWDWLWDLWLL,4,0,4,7,8,LLWLLWL,LLWWWLWL
-Valenciennes,Lens,4-2,/match/valenciennes-afc/lens/2019,2019,14,ligue_2,20,38,0,4,2,14,3,3,7,17,26,WLDWDLWWWLWDW,2,3,2,10,11,2,8,2,3,20,7,LWLWDWWLDLWWL,4,1,2,10,6,WDDLWLD,LLDWLLW
-Stade Brestois,Nancy,2-1,/match/stade-brestois-29/nancy/2019,2019,14,ligue_2,20,38,0,2,1,1,8,3,2,26,14,LLDWWLWLWLWDD,4,2,1,15,7,20,1,2,10,4,19,LWLWLWLLDWLDL,1,1,4,3,9,LDWWWWD,WWWLWD
-Ajaccio,Clermont,0-0,/match/ajaccio/clermont-foot/2019,2019,15,ligue_2,20,38,1,0,0,15,3,4,7,13,20,LLLWDWDDWWWDLW,2,2,3,9,9,8,5,6,3,18,11,DWLDWLWDDWDDLW,2,2,2,7,5,LLDDWWL,WDLDWL
-Béziers,Valenciennes,1-1,/match/beziers/valenciennes-afc/2019,2019,15,ligue_2,20,38,1,1,1,18,5,2,7,12,14,LLLWDWLWDLWLLL,0,2,3,2,6,12,4,3,7,21,28,WLDWDLWWWLWDWW,1,0,5,7,15,LDLDL,LWWWWW
-Nancy,Red Star,1-0,/match/nancy/red-star/2019,2019,15,ligue_2,20,38,0,1,0,20,1,2,11,5,21,LWLWLWLLDWLDLW,0,1,6,1,10,19,2,3,9,10,25,LWLDWWLWLWDLDL,0,3,3,4,9,LLLLDLL,WDWWDD
-Niort,Chateauroux,0-1,/match/chamois-niortais/berrichonne-chateauroux/2019,2019,15,ligue_2,20,38,2,0,1,7,7,3,4,17,13,LWWDLWWLDWWLWD,4,1,1,10,5,14,3,6,5,11,18,DLDDDWWWWLDDLL,1,4,2,3,8,WDWLWW,DDDWWDL
-Orléans,Stade Brestois,0-0,/match/orleans/stade-brestois-29/2019,2019,15,ligue_2,20,38,1,0,0,10,7,1,6,19,20,LWLDWWWLWLWLLW,4,0,3,9,8,1,9,3,2,28,15,LLDWWLWLWLWDDW,4,1,1,11,7,LLWWWWL,LWLLLD
-Paris FC,Le Havre,1-0,/match/paris-sg/havre-ac/2019,2019,15,ligue_2,20,38,0,1,0,6,5,6,3,12,10,DWDWWWDWDWDLDW,4,2,0,7,1,9,6,4,4,17,14,DDLDWWLDLLWWWW,3,1,3,5,5,WWWWDD,DLWLLWW
-Sochaux,Auxerre,1-4,/match/sochaux/auxerre/2019,2019,15,ligue_2,20,38,2,1,4,17,4,2,8,11,17,WLLWWWWLDLLLDW,2,0,4,4,7,16,4,2,8,11,16,WLLWWLWDWLWLLD,2,0,4,5,7,LWWLLL,WLWWWL
-Troyes,Lorient,2-0,/match/troyes/lorient/2019,2019,15,ligue_2,20,38,0,2,0,13,6,1,7,17,15,LLLWLWWDWLLLWW,3,0,4,9,8,2,8,4,2,21,10,DLLWDWLDWWWDLW,4,1,2,11,7,LLLWWLW,LLDLWWL
-Lens,Grenoble,0-0,/match/lens/grenoble-foot-38/2019,2019,15,ligue_2,20,38,1,0,0,5,8,2,4,22,11,LWLWDWWLDLWWLW,4,1,1,10,1,4,8,2,4,19,13,WDWWDWWLLWLLLW,3,1,2,9,7,WWWDWL,DWWLLL
-Metz,Gazélec Ajaccio,1-0,/match/metz/gazelec-ajaccio/2019,2019,15,ligue_2,20,38,0,1,0,3,10,1,3,26,11,LWLWLWLWLLWDLL,4,0,2,13,4,11,5,3,6,15,23,DLLWDWWLDLWLLW,2,2,2,7,13,WWWLWL,LDWDWL
-Gazélec Ajaccio,Niort,0-1,/match/gazelec-ajaccio/chamois-niortais/2019,2019,16,ligue_2,20,38,2,0,1,14,5,3,7,15,24,DLLWDWWLDLWLLWW,3,1,4,8,10,8,7,3,5,17,14,LWWDLWWLDWWLWDL,3,2,3,7,8,DLWWLLLW,LWLWDWLD
-Stade Brestois,Ajaccio,2-0,/match/stade-brestois-29/ajaccio/2019,2019,16,ligue_2,20,38,0,2,0,1,9,4,2,28,15,LLDWWLWLWLWDDWD,5,2,1,17,8,15,3,5,7,13,20,LLLWDWDDWWWDLWD,1,2,4,4,11,LDWWWWDW,LWWDWDW
-Chateauroux,Sochaux,1-0,/match/berrichonne-chateauroux/sochaux/2019,2019,16,ligue_2,20,38,0,1,0,13,4,6,5,12,18,DLDDDWWWWLDDLLL,2,2,3,8,10,18,4,2,9,12,21,WLLWWWWLDLLLDWL,2,2,4,7,10,LDWWLDL,WLWWDLDW
-Clermont,Béziers,2-0,/match/clermont-foot/beziers/2019,2019,16,ligue_2,20,38,0,2,0,7,5,7,3,18,11,DWLDWLWDDWDDLWD,3,4,1,11,6,17,5,3,7,13,15,LLLWDWLWDLWLLLD,5,0,4,10,8,DLWWDDDW,LLWWWLWLL
-Le Havre,Auxerre,1-1,/match/havre-ac/auxerre/2019,2019,16,ligue_2,20,38,1,1,1,9,6,4,5,17,15,DDLDWWLDLLWWWWW,3,3,1,12,9,16,5,2,8,15,17,WLLWWLWDWLWLLDL,3,0,4,9,8,DDWDLWW,WLWWWLL
-Lorient,Lens,2-2,/match/lorient/lens/2019,2019,16,ligue_2,20,38,1,2,2,3,8,4,3,21,12,DLLWDWLDWWWDLWW,4,3,0,10,3,6,8,3,4,22,11,LWLWDWWLDLWWLWD,4,1,3,12,10,DWWDWDW,LLDWLLWW
-Orléans,Nancy,1-2,/match/orleans/nancy/2019,2019,16,ligue_2,20,38,2,1,2,10,7,2,6,19,20,LWLDWWWLWLWLLWD,4,1,3,9,8,20,2,2,11,6,21,LWLWLWLLDWLDLWW,1,1,5,4,11,LLWWWWLD,WWWLWDW
-Red Star,Troyes,0-3,/match/red-star/troyes/2019,2019,16,ligue_2,20,38,2,0,3,19,2,3,10,10,26,LWLDWWLWLWDLDLW,2,0,6,6,16,11,7,1,7,19,15,LLLWLWWDWLLLWWW,3,1,3,8,7,LLWLLWLL,LWWDLLW
-Valenciennes,Paris FC,0-0,/match/valenciennes-afc/paris-sg/2019,2019,16,ligue_2,20,38,1,0,0,12,4,4,7,22,29,WLDWDLWWWLWDWWD,3,3,2,14,13,5,6,6,3,13,10,DWDWWWDWDWDLDWW,1,4,3,5,9,WDDLWLDW,DDWDDWLW
-Grenoble,Metz,1-1,/match/grenoble-foot-38/metz/2019,2019,16,ligue_2,20,38,1,1,1,4,8,3,4,19,13,WDWWDWWLLWLLLWD,5,1,2,10,6,2,11,1,3,27,11,LWLWLWLWLLWDLLW,6,1,1,13,7,WWDWLWLW,LLLLWLDL
-Auxerre,Lorient,0-0,/match/auxerre/lorient/2019,2019,17,ligue_2,20,38,1,0,0,15,5,3,8,16,18,WLLWWLWDWLWLLDLD,2,2,4,6,9,3,8,5,3,23,14,DLLWDWLDWWWDLWWD,4,1,3,11,9,LWLDLWLD,LLDLWWLW
-Ajaccio,Nancy,1-1,/match/ajaccio/nancy/2019,2019,17,ligue_2,20,38,1,1,1,16,3,5,8,13,22,LLLWDWDDWWWDLWDW,2,3,3,9,9,20,3,2,11,8,22,LWLWLWLLDWLDLWWL,2,1,5,6,12,LLDDWWLD,WWWLWDWL
-Béziers,Grenoble,0-3,/match/beziers/grenoble-foot-38/2019,2019,17,ligue_2,20,38,2,0,3,17,5,3,8,13,17,LLLWDWLWDLWLLLDW,0,3,3,3,7,4,8,4,4,20,14,WDWWDWWLLWLLLWDD,3,2,2,9,7,LDLDLD,DWWLLLD
-Le Havre,Chateauroux,2-1,/match/havre-ac/berrichonne-chateauroux/2019,2019,17,ligue_2,20,38,0,2,1,9,6,5,5,18,16,DDLDWWLDLLWWWWWD,3,4,1,13,10,12,5,6,5,13,18,DLDDDWWWWLDDLLLW,2,4,2,4,8,DDWDLWWD,DDDWWDLL
-Lens,Stade Brestois,2-1,/match/lens/stade-brestois-29/2019,2019,17,ligue_2,20,38,0,2,1,7,8,4,4,24,13,LWLWDWWLDLWWLWDD,4,2,1,10,1,1,10,4,2,30,15,LLDWWLWLWLWDDWDW,4,2,1,11,7,WWWDWLD,LWLLLDD
-Metz,Red Star,2-0,/match/metz/red-star/2019,2019,17,ligue_2,20,38,0,2,0,2,11,2,3,28,12,LWLWLWLWLLWDLLWD,5,0,2,14,4,19,2,3,11,10,29,LWLDWWLWLWDLDLWL,0,3,4,4,10,WWWLWLW,WDWWDDW
-Niort,Valenciennes,1-0,/match/chamois-niortais/valenciennes-afc/2019,2019,17,ligue_2,20,38,0,1,0,8,8,3,5,18,14,LWWDLWWLDWWLWDLL,4,1,2,10,6,13,4,5,7,22,29,WLDWDLWWWLWDWWDD,1,1,5,8,16,WDWLWWL,LWWWWWD
-Paris FC,Clermont,3-0,/match/paris-sg/clermont-foot/2019,2019,17,ligue_2,20,38,0,3,0,5,6,7,3,13,10,DWDWWWDWDWDLDWWD,5,2,0,8,1,6,6,7,3,20,11,DWLDWLWDDWDDLWDW,2,3,2,7,5,WWWWDDW,WDLDWLD
-Sochaux,Gazélec Ajaccio,2-0,/match/sochaux/gazelec-ajaccio/2019,2019,17,ligue_2,20,38,0,2,0,18,4,2,10,12,22,WLLWWWWLDLLLDWLW,2,0,5,5,11,14,5,3,8,15,25,DLLWDWWLDLWLLWWL,2,2,3,7,14,LWWLLLL,LDWDWLW
-Troyes,Orléans,3-2,/match/troyes/orleans/2019,2019,17,ligue_2,20,38,0,3,2,10,8,1,7,22,15,LLLWLWWDWLLLWWWL,4,0,4,11,8,11,7,2,7,20,22,LWLDWWWLWLWLLWDL,3,1,3,10,12,LLLWWLWW,WDWLLLW
-Gazélec Ajaccio,Le Havre,1-1,/match/gazelec-ajaccio/havre-ac/2019,2019,18,ligue_2,20,38,1,1,1,15,5,3,9,15,27,DLLWDWWLDLWLLWWLW,3,1,5,8,11,9,7,5,5,20,17,DDLDWWLDLLWWWWWDW,3,1,4,5,6,DLWWLLLWL,DLWLLWWW
-Stade Brestois,Béziers,3-0,/match/stade-brestois-29/beziers/2019,2019,18,ligue_2,20,38,0,3,0,1,10,4,3,31,17,LLDWWLWLWLWDDWDWW,6,2,1,19,8,18,5,3,9,13,20,LLLWDWLWDLWLLLDWL,5,0,5,10,10,LDWWWWDWW,LLWWWLWLLW
-Chateauroux,Auxerre,0-0,/match/berrichonne-chateauroux/auxerre/2019,2019,18,ligue_2,20,38,1,0,0,12,5,6,6,14,20,DLDDDWWWWLDDLLLWW,3,2,3,9,10,14,5,4,8,16,18,WLLWWLWDWLWLLDLDD,3,1,4,10,9,LDWWLDLW,WLWWWLLD
-Grenoble,Paris FC,0-1,/match/grenoble-foot-38/paris-sg/2019,2019,18,ligue_2,20,38,2,0,1,5,9,4,4,23,14,WDWWDWWLLWLLLWDDL,5,2,2,11,7,3,7,7,3,16,10,DWDWWWDWDWDLDWWDW,1,5,3,5,9,WWDWLWLWD,DDWDDWLWD
-Lorient,Niort,1-1,/match/lorient/chamois-niortais/2019,2019,18,ligue_2,20,38,1,1,1,4,8,6,3,23,14,DLLWDWLDWWWDLWWDD,4,4,0,12,5,7,9,3,5,19,14,LWWDLWWLDWWLWDLLW,4,2,3,8,8,DWWDWDWD,LWLWDWLDL
-Nancy,Troyes,1-1,/match/nancy/troyes/2019,2019,18,ligue_2,20,38,1,1,1,19,3,3,11,9,23,LWLWLWLLDWLDLWWLD,1,1,6,2,10,10,9,1,7,25,17,LLLWLWWDWLLLWWWLW,4,1,3,11,7,LLLLDLLW,LWWDLLWL
-Orléans,Ajaccio,1-3,/match/orleans/ajaccio/2019,2019,18,ligue_2,20,38,2,1,3,11,7,2,8,22,25,LWLDWWWLWLWLLWDLW,4,1,4,10,10,16,3,6,8,14,23,LLLWDWDDWWWDLWDWD,1,2,5,4,13,LLWWWWLDL,LWWDWDWW
-Red Star,Sochaux,3-0,/match/red-star/sochaux/2019,2019,18,ligue_2,20,38,0,3,0,20,2,3,12,10,31,LWLDWWLWLWDLDLWLW,2,0,7,6,19,17,5,2,10,14,22,WLLWWWWLDLLLDWLWW,2,2,5,7,11,LLWLLWLLL,WLWWDLDWW
-Clermont,Lens,0-0,/match/clermont-foot/lens/2019,2019,18,ligue_2,20,38,1,0,0,8,6,7,4,20,14,DWLDWLWDDWDDLWDWW,4,4,1,13,6,6,9,4,4,26,14,LWLWDWWLDLWWLWDDW,4,2,3,14,12,DLWWDDDWW,LLDWLLWWD
-Valenciennes,Metz,0-2,/match/valenciennes-afc/metz/2019,2019,18,ligue_2,20,38,2,0,2,13,4,5,8,22,30,WLDWDLWWWLWDWWDDW,3,4,2,14,13,2,12,2,3,30,12,LWLWLWLWLLWDLLWDW,6,2,1,14,8,WDDLWLDWD,LLLLWLDLD
-Auxerre,Grenoble,4-0,/match/auxerre/grenoble-foot-38/2019,2019,19,ligue_2,20,38,0,4,0,14,5,5,8,16,18,WLLWWLWDWLWLLDLDDD,2,3,4,6,9,6,9,4,5,23,15,WDWWDWWLLWLLLWDDLL,4,2,2,12,7,LWLDLWLDD,DWWLLLDL
-Béziers,Orléans,1-2,/match/beziers/orleans/2019,2019,19,ligue_2,20,38,2,1,2,18,5,3,10,13,23,LLLWDWLWDLWLLLDWLW,0,3,4,3,10,12,7,2,9,23,28,LWLDWWWLWLWLLWDLWL,3,1,4,12,15,LDLDLDL,WDWLLLWW
-Chateauroux,Gazélec Ajaccio,0-1,/match/berrichonne-chateauroux/gazelec-ajaccio/2019,2019,19,ligue_2,20,38,2,0,1,11,5,7,6,14,20,DLDDDWWWWLDDLLLWWD,3,3,3,9,10,15,5,4,9,16,28,DLLWDWWLDLWLLWWLWD,2,2,4,7,16,LDWWLDLWD,LDWDWLWW
-Niort,Stade Brestois,1-1,/match/chamois-niortais/stade-brestois-29/2019,2019,19,ligue_2,20,38,1,1,1,7,9,4,5,20,15,LWWDLWWLDWWLWDLLWD,5,1,2,11,6,1,11,4,3,34,17,LLDWWLWLWLWDDWDWWW,4,2,2,12,9,WDWLWWLW,LWLLLDDW
-Paris FC,Red Star,1-1,/match/paris-sg/red-star/2019,2019,19,ligue_2,20,38,1,1,1,3,8,7,3,17,10,DWDWWWDWDWDLDWWDWL,6,2,0,11,1,19,3,3,12,13,31,LWLDWWLWLWDLDLWLWW,0,3,5,4,12,WWWWDDWW,WDWWDDWW
-Troyes,Clermont,0-1,/match/troyes/clermont-foot/2019,2019,19,ligue_2,20,38,2,0,1,10,9,2,7,26,18,LLLWLWWDWLLLWWWLWD,5,0,4,14,10,8,6,8,4,20,14,DWLDWLWDDWDDLWDWWD,2,3,3,7,8,LLLWWLWWW,WDLDWLDW
-Lens,Ajaccio,1-2,/match/lens/ajaccio/2019,2019,19,ligue_2,20,38,2,1,2,5,9,5,4,26,14,LWLWDWWLDLWWLWDDWD,5,2,1,12,2,16,4,6,8,17,24,LLLWDWDDWWWDLWDWDL,2,2,5,7,14,WWWDWLDW,LWWDWDWWL
-Sochaux,Lorient,1-0,/match/sochaux/lorient/2019,2019,19,ligue_2,20,38,0,1,0,17,5,2,11,14,25,WLLWWWWLDLLLDWLWWW,3,0,5,7,11,4,8,7,3,24,15,DLLWDWLDWWWDLWWDDD,4,2,3,11,9,LWWLLLLW,LLDLWWLWD
-Le Havre,Valenciennes,4-3,/match/havre-ac/valenciennes-afc/2019,2019,19,ligue_2,20,38,0,4,3,9,7,6,5,21,18,DDLDWWLDLLWWWWWDWD,4,4,1,15,11,13,4,5,9,22,32,WLDWDLWWWLWDWWDDWL,1,1,6,8,17,DDWDLWWDW,LWWWWWDW
-Metz,Nancy,3-0,/match/metz/nancy/2019,2019,19,ligue_2,20,38,0,3,0,2,13,2,3,32,12,LWLWLWLWLLWDLLWDWL,6,0,2,16,4,20,3,4,11,10,24,LWLWLWLLDWLDLWWLDD,2,2,5,7,13,WWWLWLWW,WWWLWDWLD
-Ajaccio,Béziers,2-1,/match/ajaccio/beziers/2019,2019,20,ligue_2,20,38,0,2,1,15,5,6,8,19,25,LLLWDWDDWWWDLWDWDLL,2,4,3,10,10,18,5,3,11,14,25,LLLWDWLWDLWLLLDWLWL,5,0,6,10,13,LLDDWWLDD,LLWWWLWLLWW
-Gazélec Ajaccio,Auxerre,0-4,/match/gazelec-ajaccio/auxerre/2019,2019,20,ligue_2,20,38,2,0,4,14,6,4,9,17,28,DLLWDWWLDLWLLWWLWDL,3,2,5,9,12,12,6,5,8,20,18,WLLWWLWDWLWLLDLDDDW,3,2,4,10,9,DLWWLLLWLD,WLWWWLLDD
-Clermont,Niort,3-2,/match/clermont-foot/chamois-niortais/2019,2019,20,ligue_2,20,38,0,3,2,8,7,8,4,21,14,DWLDWLWDDWDDLWDWWDL,4,5,1,13,6,7,9,5,5,21,16,LWWDLWWLDWWLWDLLWDD,4,3,3,9,9,DLWWDDDWWD,LWLWDWLDLD
-Lorient,Chateauroux,2-1,/match/lorient/berrichonne-chateauroux/2019,2019,20,ligue_2,20,38,0,2,1,4,8,7,4,24,16,DLLWDWLDWWWDLWWDDDW,4,5,0,13,6,13,5,7,7,14,21,DLDDDWWWWLDDLLLWWDL,2,4,3,5,10,DWWDWDWDD,DDDWWDLLW
-Nancy,Paris FC,1-2,/match/nancy/paris-sg/2019,2019,20,ligue_2,20,38,2,1,2,20,3,4,12,10,27,LWLWLWLLDWLDLWWLDDW,1,2,6,3,11,3,8,8,3,18,11,DWDWWWDWDWDLDWWDWLD,2,5,3,6,9,LLLLDLLWD,DDWDDWLWDL
-Orléans,Metz,0-1,/match/orleans/metz/2019,2019,20,ligue_2,20,38,2,0,1,11,8,2,9,25,29,LWLDWWWLWLWLLWDLWLL,4,1,5,11,13,1,14,2,3,35,12,LWLWLWLWLLWDLLWDWLW,7,2,1,16,8,LLWWWWLDLL,LLLLWLDLDL
-Valenciennes,Sochaux,1-0,/match/valenciennes-afc/sochaux/2019,2019,20,ligue_2,20,38,0,1,0,16,4,5,10,25,36,WLDWDLWWWLWDWWDDWLW,3,4,3,14,15,17,6,2,11,15,25,WLLWWWWLDLLLDWLWWWW,2,2,6,7,14,WDDLWLDWDL,WLWWDLDWWW
-Stade Brestois,Troyes,1-1,/match/stade-brestois-29/troyes/2019,2019,20,ligue_2,20,38,1,1,1,2,11,5,3,35,18,LLDWWLWLWLWDDWDWWWD,7,2,1,22,8,10,9,2,8,26,19,LLLWLWWDWLLLWWWLWDL,4,2,3,12,8,LDWWWWDWWW,LWWDLLWLD
-Grenoble,Le Havre,0-0,/match/grenoble-foot-38/havre-ac/2019,2019,20,ligue_2,20,38,1,0,0,9,9,4,6,23,19,WDWWDWWLLWLLLWDDLLW,5,2,3,11,8,5,8,6,5,25,21,DDLDWWLDLLWWWWWDWDW,3,2,4,6,7,WWDWLWLWDL,DLWLLWWWD
-Red Star,Lens,1-0,/match/red-star/lens/2019,2019,20,ligue_2,20,38,0,1,0,19,3,4,12,14,32,LWLDWWLWLWDLDLWLWWD,3,0,7,9,19,6,9,5,5,27,16,LWLWDWWLDLWWLWDDWDL,4,3,3,14,12,LLWLLWLLLW,LLDWLLWWDD
-Auxerre,Orléans,3-0,/match/auxerre/orleans/2019,2019,21,ligue_2,20,38,0,3,0,12,7,5,8,24,18,WLLWWLWDWLWLLDLDDDWL,3,3,4,10,9,14,8,2,10,25,30,LWLDWWWLWLWLLWDLWLLL,4,1,4,14,16,LWLDLWLDDW,WDWLLLWWL
-Béziers,Troyes,0-0,/match/beziers/troyes/2019,2019,21,ligue_2,20,38,1,0,0,19,5,3,12,15,27,LLLWDWLWDLWLLLDWLWLW,0,3,5,4,12,10,9,3,8,27,20,LLLWLWWDWLLLWWWLWDLD,4,3,3,13,9,LDLDLDLL,LWWDLLWLDD
-Chateauroux,Valenciennes,1-1,/match/berrichonne-chateauroux/valenciennes-afc/2019,2019,21,ligue_2,20,38,1,1,1,15,5,7,8,15,23,DLDDDWWWWLDDLLLWWDLW,3,3,4,9,11,13,5,5,10,26,36,WLDWDLWWWLWDWWDDWLWW,1,1,7,11,21,LDWWLDLWDL,LWWWWWDWW
-Lorient,Gazélec Ajaccio,0-1,/match/lorient/gazelec-ajaccio/2019,2019,21,ligue_2,20,38,2,0,1,4,9,7,4,26,17,DLLWDWLDWWWDLWWDDDWW,5,5,0,15,7,16,6,4,10,17,32,DLLWDWWLDLWLLWWLWDLL,3,2,4,8,16,DWWDWDWDDW,LDWDWLWWL
-Metz,Clermont,1-2,/match/metz/clermont-foot/2019,2019,21,ligue_2,20,38,2,1,2,1,15,2,3,36,12,LWLWLWLWLLWDLLWDWLWL,7,0,2,19,4,5,8,8,4,24,16,DWLDWLWDDWDDLWDWWDLW,3,3,3,8,8,WWWLWLWWW,WDLDWLDWL
-Sochaux,Ajaccio,0-0,/match/sochaux/ajaccio/2019,2019,21,ligue_2,20,38,1,0,0,17,6,2,12,15,26,WLLWWWWLDLLLDWLWWWWW,4,0,5,8,11,11,6,6,8,21,26,LLLWDWDDWWWDLWDWDLLW,3,2,5,9,15,LWWLLLLWW,LWWDWDWWLL
-Lens,Nancy,2-1,/match/lens/nancy/2019,2019,21,ligue_2,20,38,0,2,1,8,9,5,6,27,17,LWLWDWWLDLWWLWDDWDLW,5,2,2,13,4,20,3,4,13,11,29,LWLWLWLLDWLDLWWLDDWL,2,2,6,7,16,WWWDWLDWL,WWWLWDWLDW
-Niort,Grenoble,1-1,/match/chamois-niortais/grenoble-foot-38/2019,2019,21,ligue_2,20,38,1,1,1,9,9,5,6,23,19,LWWDLWWLDWWLWDLLWDDW,5,2,2,12,7,7,9,5,6,23,19,WDWWDWWLLWLLLWDDLLWD,4,2,3,12,11,WDWLWWLWD,DWWLLLDLW
-Paris FC,Stade Brestois,0-1,/match/paris-sg/stade-brestois-29/2019,2019,21,ligue_2,20,38,2,0,1,3,9,8,3,20,12,DWDWWWDWDWDLDWWDWLDL,6,3,0,12,2,2,11,6,3,36,19,LLDWWLWLWLWDDWDWWWDD,4,3,2,13,10,WWWWDDWWD,LWLLLDDWD
-Le Havre,Red Star,1-0,/match/havre-ac/red-star/2019,2019,21,ligue_2,20,38,0,1,0,6,8,7,5,25,21,DDLDWWLDLLWWWWWDWDWD,5,4,1,19,14,18,4,4,12,15,32,LWLDWWLWLWDLDLWLWWDW,0,4,5,5,13,DDWDLWWDWW,WDWWDDWWD
-Ajaccio,Metz,0-0,/match/ajaccio/metz/2019,2019,22,ligue_2,20,38,1,0,0,12,6,7,8,21,26,LLLWDWDDWWWDLWDWDLLWD,3,4,3,12,11,2,15,2,4,37,14,LWLWLWLWLLWDLLWDWLWLL,8,2,1,17,8,LLDDWWLDDW,LLLLWLDLDLL
-Grenoble,Gazélec Ajaccio,1-1,/match/grenoble-foot-38/gazelec-ajaccio/2019,2019,22,ligue_2,20,38,1,1,1,8,9,6,6,24,20,WDWWDWWLLWLLLWDDLLWDD,5,3,3,11,8,16,7,4,10,18,32,DLLWDWWLDLWLLWWLWDLLL,4,2,4,9,16,WWDWLWLWDLD,LDWDWLWWLL
-Nancy,Auxerre,1-0,/match/nancy/auxerre/2019,2019,22,ligue_2,20,38,0,1,0,20,3,4,14,12,31,LWLWLWLLDWLDLWWLDDWLW,1,2,7,4,13,10,8,5,8,27,18,WLLWWLWDWLWLLDLDDDWLW,4,2,4,14,9,LLLLDLLWDL,WLWWWLLDDL
-Red Star,Chateauroux,1-3,/match/red-star/berrichonne-chateauroux/2019,2019,22,ligue_2,20,38,2,1,3,18,4,4,13,15,33,LWLDWWLWLWDLDLWLWWDWW,4,0,7,10,19,14,5,8,8,16,24,DLDDDWWWWLDDLLLWWDLWD,2,4,4,6,12,LLWLLWLLLWW,DDDWWDLLWW
-Valenciennes,Lorient,1-2,/match/valenciennes-afc/lorient/2019,2019,22,ligue_2,20,38,2,1,2,13,5,6,10,27,37,WLDWDLWWWLWDWWDDWLWWD,4,4,3,15,15,6,9,7,5,26,18,DLLWDWLDWWWDLWWDDDWWL,4,2,4,11,10,WDDLWLDWDLW,LLDLWWLWDW
-Stade Brestois,Sochaux,1-0,/match/stade-brestois-29/sochaux/2019,2019,22,ligue_2,20,38,0,1,0,1,12,6,3,37,19,LLDWWLWLWLWDDWDWWWDDL,7,3,1,23,9,17,6,3,12,15,26,WLLWWWWLDLLLDWLWWWWWD,2,2,7,7,15,LDWWWWDWWWD,WLWWDLDWWWW
-Orléans,Niort,1-0,/match/orleans/chamois-niortais/2019,2019,22,ligue_2,20,38,0,1,0,15,8,2,11,25,33,LWLDWWWLWLWLLWDLWLLLW,4,1,6,11,14,9,9,6,6,24,20,LWWDLWWLDWWLWDLLWDDWD,4,3,4,11,12,LLWWWWLDLLL,LWLWDWLDLDW
-Béziers,Paris FC,0-1,/match/beziers/paris-sg/2019,2019,22,ligue_2,20,38,2,0,1,19,5,4,12,15,27,LLLWDWLWDLWLLLDWLWLWD,0,4,5,4,12,3,9,8,4,20,13,DWDWWWDWDWDLDWWDWLDLL,3,5,3,8,10,LDLDLDLLD,DDWDDWLWDLL
-Clermont,Le Havre,0-0,/match/clermont-foot/havre-ac/2019,2019,22,ligue_2,20,38,1,0,0,4,9,8,4,26,17,DWLDWLWDDWDDLWDWWDLWL,5,5,1,16,8,5,9,7,5,26,21,DDLDWWLDLLWWWWWDWDWDW,3,3,4,6,7,DLWWDDDWWDW,DLWLLWWWDD
-Troyes,Lens,1-0,/match/troyes/lens/2019,2019,22,ligue_2,20,38,0,1,0,11,9,4,8,27,20,LLLWLWWDWLLLWWWLWDLDD,5,0,5,14,11,7,10,5,6,29,18,LWLWDWWLDLWWLWDDWDLWW,4,3,4,14,13,LLLWWLWWWL,LLDWLLWWDDW
-Auxerre,Red Star,0-0,/match/auxerre/red-star/2019,2019,23,ligue_2,20,38,1,0,0,11,8,5,9,27,19,WLLWWLWDWLWLLDLDDDWLWW,4,3,4,13,9,18,4,4,14,16,36,LWLDWWLWLWDLDLWLWWDWWL,0,4,6,5,14,LWLDLWLDDWW,WDWWDDWWDW
-Chateauroux,Grenoble,2-2,/match/berrichonne-chateauroux/grenoble-foot-38/2019,2019,23,ligue_2,20,38,1,2,2,14,6,8,8,19,25,DLDDDWWWWLDDLLLWWDLWDL,3,4,4,10,12,8,9,7,6,25,21,WDWWDWWLLWLLLWDDLLWDDD,4,3,3,13,12,LDWWLDLWDLD,DWWLLLDLWD
-Le Havre,Stade Brestois,1-1,/match/havre-ac/stade-brestois-29/2019,2019,23,ligue_2,20,38,1,1,1,5,9,8,5,26,21,DDLDWWLDLLWWWWWDWDWDWD,6,4,1,20,14,1,13,6,3,38,19,LLDWWLWLWLWDDWDWWWDDLW,5,3,2,14,10,DDWDLWWDWWW,LWLLLDDWDL
-Lorient,Ajaccio,1-0,/match/lorient/ajaccio/2019,2019,23,ligue_2,20,38,0,1,0,6,10,7,5,28,19,DLLWDWLDWWWDLWWDDDWWLL,5,5,1,15,8,12,6,8,8,21,26,LLLWDWDDWWWDLWDWDLLWDD,3,3,5,9,15,DWWDWDWDDWL,LWWDWDWWLLD
-Metz,Troyes,1-1,/match/metz/troyes/2019,2019,23,ligue_2,20,38,1,1,1,2,15,3,4,37,14,LWLWLWLWLLWDLLWDWLWLLD,7,0,3,20,6,10,10,4,8,28,20,LLLWLWWDWLLLWWWLWDLDDW,4,4,3,13,9,WWWLWLWWWL,LWWDLLWLDDD
-Niort,Nancy,1-1,/match/chamois-niortais/nancy/2019,2019,23,ligue_2,20,38,1,1,1,9,9,6,7,24,21,LWWDLWWLDWWLWDLLWDDWDW,5,3,2,13,8,20,4,4,14,13,31,LWLWLWLLDWLDLWWLDDWLWW,2,2,7,8,18,WDWLWWLWDD,WWWLWDWLDWW
-Paris FC,Orléans,0-0,/match/paris-sg/orleans/2019,2019,23,ligue_2,20,38,1,0,0,3,10,8,4,21,13,DWDWWWDWDWDLDWWDWLDLLL,6,3,1,12,3,13,9,2,11,26,33,LWLDWWWLWLWLLWDLWLLLWW,4,1,5,14,19,WWWWDDWWDL,WDWLLLWWLW
-Sochaux,Clermont,2-1,/match/sochaux/clermont-foot/2019,2019,23,ligue_2,20,38,0,2,1,17,6,3,13,15,27,WLLWWWWLDLLLDWLWWWWWDW,4,1,5,8,11,4,9,9,4,26,17,DWLDWLWDDWDDLWDWWDLWLD,4,3,3,10,9,LWWLLLLWWD,WDLDWLDWLL
-Gazélec Ajaccio,Valenciennes,0-0,/match/gazelec-ajaccio/valenciennes-afc/2019,2019,23,ligue_2,20,38,1,0,0,16,7,5,10,19,33,DLLWDWWLDLWLLWWLWDLLLD,3,2,6,9,16,15,5,6,11,28,39,WLDWDLWWWLWDWWDDWLWWDL,1,2,7,12,22,DLWWLLLWLDL,LWWWWWDWWD
-Lens,Béziers,3-0,/match/lens/beziers/2019,2019,23,ligue_2,20,38,0,3,0,7,10,5,7,29,19,LWLWDWWLDLWWLWDDWDLWWW,6,2,2,15,5,19,5,4,13,15,28,LLLWDWLWDLWLLLDWLWLWDL,5,0,7,11,15,WWWDWLDWLW,LLWWWLWLLWWW
-Ajaccio,Niort,1-0,/match/ajaccio/chamois-niortais/2019,2019,24,ligue_2,20,38,0,1,0,14,6,8,9,21,27,LLLWDWDDWWWDLWDWDLLWDDW,3,5,3,12,11,9,9,7,7,25,22,LWWDLWWLDWWLWDLLWDDWDWD,4,3,5,11,13,LLDDWWLDDWD,LWLWDWLDLDWW
-Béziers,Sochaux,0-0,/match/beziers/sochaux/2019,2019,24,ligue_2,20,38,1,0,0,20,5,4,14,15,31,LLLWDWLWDLWLLLDWLWLWDLW,0,4,6,4,13,17,7,3,13,17,28,WLLWWWWLDLLLDWLWWWWWDWW,2,2,8,7,16,LDLDLDLLDL,WLWWDLDWWWWW
-Clermont,Valenciennes,0-1,/match/clermont-foot/valenciennes-afc/2019,2019,24,ligue_2,20,38,2,0,1,6,9,9,5,27,19,DWLDWLWDDWDDLWDWWDLWLDW,5,6,1,16,8,15,5,7,11,28,39,WLDWDLWWWLWDWWDDWLWWDLD,1,3,7,12,22,DLWWDDDWWDWD,LWWWWWDWWDD
-Grenoble,Lorient,0-1,/match/grenoble-foot-38/lorient/2019,2019,24,ligue_2,20,38,2,0,1,8,9,8,6,27,23,WDWWDWWLLWLLLWDDLLWDDDD,5,4,3,12,9,3,11,7,5,29,19,DLLWDWLDWWWDLWWDDDWWLLW,5,2,4,13,11,WWDWLWLWDLDD,LLDLWWLWDWL
-Nancy,Chateauroux,0-1,/match/nancy/berrichonne-chateauroux/2019,2019,24,ligue_2,20,38,2,0,1,19,4,5,14,14,32,LWLWLWLLDWLDLWWLDDWLWWD,2,2,7,5,13,13,6,9,8,21,27,DLDDDWWWWLDDLLLWWDLWDLD,3,4,4,9,13,LLLLDLLWDLW,DDDWWDLLWWL
-Orléans,Le Havre,1-1,/match/orleans/havre-ac/2019,2019,24,ligue_2,20,38,1,1,1,12,9,3,11,26,33,LWLDWWWLWLWLLWDLWLLLWWD,5,1,6,12,14,5,9,9,5,27,22,DDLDWWLDLLWWWWWDWDWDWDD,3,4,4,6,7,LLWWWWLDLLLW,DLWLLWWWDDD
-Red Star,Gazélec Ajaccio,1-1,/match/red-star/gazelec-ajaccio/2019,2019,24,ligue_2,20,38,1,1,1,18,4,5,14,16,36,LWLDWWLWLWDLDLWLWWDWWLD,4,0,8,11,22,16,7,6,10,19,33,DLLWDWWLDLWLLWWLWDLLLDD,4,3,4,10,17,LLWLLWLLLWWL,LDWDWLWWLLD
-Troyes,Paris FC,0-1,/match/troyes/paris-sg/2019,2019,24,ligue_2,20,38,2,0,1,10,10,5,8,29,21,LLLWLWWDWLLLWWWLWDLDDWD,6,0,5,15,11,4,10,9,4,21,13,DWDWWWDWDWDLDWWDWLDLLLD,4,5,3,9,10,LLLWWLWWWLW,DDWDDWLWDLLL
-Lens,Metz,0-0,/match/lens/metz/2019,2019,24,ligue_2,20,38,1,0,0,7,11,5,7,32,19,LWLWDWWLDLWWLWDDWDLWWWW,7,2,2,18,5,2,15,4,4,38,15,LWLWLWLWLLWDLLWDWLWLLDD,8,3,1,17,8,WWWDWLDWLWW,LLLLWLDLDLLD
-Stade Brestois,Auxerre,1-0,/match/stade-brestois-29/auxerre/2019,2019,24,ligue_2,20,38,0,1,0,1,13,7,3,39,20,LLDWWLWLWLWDDWDWWWDDLWD,8,3,1,24,9,11,8,6,9,27,19,WLLWWLWDWLWLLDLDDDWLWWD,4,2,5,14,10,LDWWWWDWWWDW,WLWWWLLDDLW
-Gazélec Ajaccio,Stade Brestois,1-1,/match/gazelec-ajaccio/stade-brestois-29/2019,2019,25,ligue_2,20,38,1,1,1,16,7,7,10,20,34,DLLWDWWLDLWLLWWLWDLLLDDD,3,3,6,9,16,1,14,7,3,40,20,LLDWWLWLWLWDDWDWWWDDLWDW,5,4,2,15,11,DLWWLLLWLDLD,LWLLLDDWDLD
-Auxerre,Clermont,1-0,/match/auxerre/clermont-foot/2019,2019,25,ligue_2,20,38,0,1,0,13,8,6,10,27,20,WLLWWLWDWLWLLDLDDDWLWWDW,4,4,4,13,9,7,9,9,6,27,20,DWLDWLWDDWDDLWDWWDLWLDWL,4,3,4,11,11,LWLDLWLDDWWD,WDLDWLDWLLW
-Chateauroux,Orléans,1-2,/match/berrichonne-chateauroux/orleans/2019,2019,25,ligue_2,20,38,2,1,2,12,7,9,8,22,27,DLDDDWWWWLDDLLLWWDLWDLDL,3,5,4,12,14,14,9,4,11,27,34,LWLDWWWLWLWLLWDLWLLLWWDD,4,2,5,14,19,LDWWLDLWDLDD,WDWLLLWWLWD
-Le Havre,Nancy,0-2,/match/havre-ac/nancy/2019,2019,25,ligue_2,20,38,2,0,2,5,9,10,5,28,23,DDLDWWLDLLWWWWWDWDWDWDDD,6,5,1,21,15,20,4,5,15,14,33,LWLWLWLLDWLDLWWLDDWLWWDL,2,3,7,9,19,DDWDLWWDWWWD,WWWLWDWLDWWD
-Lorient,Red Star,2-1,/match/lorient/red-star/2019,2019,25,ligue_2,20,38,0,2,1,3,12,7,5,30,19,DLLWDWLDWWWDLWWDDDWWLLWL,6,5,1,16,8,18,4,6,14,17,37,LWLDWWLWLWDLDLWLWWDWWLDD,0,5,6,5,14,DWWDWDWDDWLW,WDWWDDWWDWD
-Niort,Troyes,1-1,/match/chamois-niortais/troyes/2019,2019,25,ligue_2,20,38,1,1,1,9,9,7,8,25,23,LWWDLWWLDWWLWDLLWDDWDWDW,5,4,2,14,9,10,10,5,9,29,22,LLLWLWWDWLLLWWWLWDLDDWDL,4,5,3,14,10,WDWLWWLWDDD,LWWDLLWLDDDD
-Paris FC,Ajaccio,1-1,/match/paris-sg/ajaccio/2019,2019,25,ligue_2,20,38,1,1,1,4,11,9,4,22,13,DWDWWWDWDWDLDWWDWLDLLLDL,6,4,1,12,3,11,7,8,9,22,27,LLLWDWDDWWWDLWDWDLLWDDWW,3,3,6,9,16,WWWWDDWWDLD,LWWDWDWWLLDW
-Valenciennes,Grenoble,3-2,/match/valenciennes-afc/grenoble-foot-38/2019,2019,25,ligue_2,20,38,0,3,2,15,6,7,11,29,39,WLDWDLWWWLWDWWDDWLWWDLDL,4,4,4,16,17,8,9,8,7,27,24,WDWWDWWLLWLLLWDDLLWDDDDL,4,4,3,15,14,WDDLWLDWDLWL,DWWLLLDLWDD
-Sochaux,Lens,0-1,/match/sochaux/lens/2019,2019,25,ligue_2,20,38,2,0,1,17,7,4,13,17,28,WLLWWWWLDLLLDWLWWWWWDWWD,5,1,5,10,12,6,11,6,7,32,19,LWLWDWWLDLWWLWDDWDLWWWWD,4,3,5,14,14,LWWLLLLWWDW,LLDWLLWWDDWW
-Metz,Béziers,1-0,/match/metz/beziers/2019,2019,25,ligue_2,20,38,0,1,0,2,15,5,4,38,15,LWLWLWLWLLWDLLWDWLWLLDDD,7,1,3,21,7,19,5,5,14,15,31,LLLWDWLWDLWLLLDWLWLWDLWD,5,0,8,11,18,WWWLWLWWWLD,LLWWWLWLLWWWW
-Ajaccio,Auxerre,2-1,/match/ajaccio/auxerre/2019,2019,26,ligue_2,20,38,0,2,1,13,7,9,9,23,28,LLLWDWDDWWWDLWDWDLLWDDWWD,4,5,3,13,11,10,9,6,10,28,20,WLLWWLWDWLWLLDLDDDWLWWDWW,4,2,6,14,11,LLDDWWLDDWDW,WLWWWLLDDLWW
-Béziers,Chateauroux,1-1,/match/beziers/berrichonne-chateauroux/2019,2019,26,ligue_2,20,38,1,1,1,20,5,5,15,15,32,LLLWDWLWDLWLLLDWLWLWDLWDW,0,5,6,4,13,15,7,9,9,23,29,DLDDDWWWWLDDLLLWWDLWDLDLL,4,4,4,10,13,LDLDLDLLDLD,DDDWWDLLWWLL
-Stade Brestois,Grenoble,3-1,/match/stade-brestois-29/grenoble-foot-38/2019,2019,26,ligue_2,20,38,0,3,1,1,14,8,3,41,21,LLDWWLWLWLWDDWDWWWDDLWDWD,9,3,1,25,9,9,9,8,8,29,27,WDWWDWWLLWLLLWDDLLWDDDDLW,4,4,4,17,17,LDWWWWDWWWDWW,DWWLLLDLWDDW
-Clermont,Lorient,0-1,/match/clermont-foot/lorient/2019,2019,26,ligue_2,20,38,2,0,1,7,9,9,7,27,21,DWLDWLWDDWDDLWDWWDLWLDWLW,5,6,2,16,9,3,13,7,5,32,20,DLLWDWLDWWWDLWWDDDWWLLWLW,6,2,4,14,11,DLWWDDDWWDWDL,LLDLWWLWDWLL
-Metz,Paris FC,2-0,/match/metz/paris-sg/2019,2019,26,ligue_2,20,38,0,2,0,2,16,5,4,39,15,LWLWLWLWLLWDLLWDWLWLLDDDW,8,1,3,22,7,4,11,10,4,23,14,DWDWWWDWDWDLDWWDWLDLLLDLD,5,5,3,10,10,WWWLWLWWWLDW,DDWDDWLWDLLLL
-Nancy,Gazélec Ajaccio,3-1,/match/nancy/gazelec-ajaccio/2019,2019,26,ligue_2,20,38,0,3,1,19,5,5,15,16,33,LWLWLWLLDWLDLWWLDDWLWWDLL,2,2,8,5,14,16,7,8,10,21,35,DLLWDWWLDLWLLWWLWDLLLDDDD,4,4,4,11,18,LLLLDLLWDLWL,LDWDWLWWLLDD
-Orléans,Sochaux,2-0,/match/orleans/sochaux/2019,2019,26,ligue_2,20,38,0,2,0,12,10,4,11,29,35,LWLDWWWLWLWLLWDLWLLLWWDDL,5,2,6,13,15,17,7,4,14,17,29,WLLWWWWLDLLLDWLWWWWWDWWDL,2,3,8,7,16,LLWWWWLDLLLWD,WLWWDLDWWWWWD
-Red Star,Valenciennes,1-0,/match/red-star/valenciennes-afc/2019,2019,26,ligue_2,20,38,0,1,0,18,4,6,15,18,39,LWLDWWLWLWDLDLWLWWDWWLDDW,4,1,8,12,23,14,7,7,11,32,41,WLDWDLWWWLWDWWDDWLWWDLDLW,2,3,7,13,22,LLWLLWLLLWWLD,LWWWWWDWWDDL
-Troyes,Le Havre,2-1,/match/troyes/havre-ac/2019,2019,26,ligue_2,20,38,0,2,1,11,10,6,9,30,23,LLLWLWWDWLLLWWWLWDLDDWDLD,6,0,6,15,12,6,9,10,6,28,25,DDLDWWLDLLWWWWWDWDWDWDDDL,3,5,4,7,8,LLLWWLWWWLWL,DLWLLWWWDDDD
-Lens,Niort,4-1,/match/lens/chamois-niortais/2019,2019,26,ligue_2,20,38,0,4,1,5,12,6,7,33,19,LWLWDWWLDLWWLWDDWDLWWWWDL,7,3,2,18,5,8,9,8,8,26,24,LWWDLWWLDWWLWDLLWDDWDWDWD,4,3,6,11,14,WWWDWLDWLWWD,LWLWDWLDLDWWW
-Gazélec Ajaccio,Clermont,0-3,/match/gazelec-ajaccio/clermont-foot/2019,2019,27,ligue_2,20,38,2,0,3,16,7,8,11,22,38,DLLWDWWLDLWLLWWLWDLLLDDDDW,3,4,6,10,17,7,9,9,8,27,22,DWLDWLWDDWDDLWDWWDLWLDWLWL,4,3,5,11,12,DLWWLLLWLDLDD,WDLDWLDWLLWW
-Auxerre,Troyes,0-2,/match/auxerre/troyes/2019,2019,27,ligue_2,20,38,2,0,2,13,9,6,11,29,22,WLLWWLWDWLWLLDLDDDWLWWDWWW,5,4,4,14,9,8,11,6,9,32,24,LLLWLWWDWLLLWWWLWDLDDWDLDW,4,6,3,15,11,LWLDLWLDDWWDW,LWWDLLWLDDDDD
-Chateauroux,Stade Brestois,2-2,/match/berrichonne-chateauroux/stade-brestois-29/2019,2019,27,ligue_2,20,38,1,2,2,15,7,10,9,24,30,DLDDDWWWWLDDLLLWWDLWDLDLLD,3,5,5,13,16,1,15,8,3,44,22,LLDWWLWLWLWDDWDWWWDDLWDWDW,5,5,2,16,12,LDWWLDLWDLDDL,LWLLLDDWDLDD
-Grenoble,Red Star,2-0,/match/grenoble-foot-38/red-star/2019,2019,27,ligue_2,20,38,0,2,0,10,9,8,9,30,30,WDWWDWWLLWLLLWDDLLWDDDDLWW,5,4,4,12,10,18,5,6,15,19,39,LWLDWWLWLWDLDLWLWWDWWLDDWW,0,5,7,6,16,WWDWLWLWDLDDL,WDWWDDWWDWDW
-Niort,Béziers,0-0,/match/chamois-niortais/beziers/2019,2019,27,ligue_2,20,38,1,0,0,9,9,8,9,27,28,LWWDLWWLDWWLWDLLWDDWDWDWDW,5,5,2,15,10,20,5,6,15,16,33,LLLWDWLWDLWLLLDWLWLWDLWDWD,5,0,9,11,19,WDWLWWLWDDDD,LLWWWLWLLWWWWW
-Sochaux,Nancy,0-4,/match/sochaux/nancy/2019,2019,27,ligue_2,20,38,2,0,4,17,7,4,15,17,31,WLLWWWWLDLLLDWLWWWWWDWWDLW,5,1,6,10,13,19,6,5,15,19,34,LWLWLWLLDWLDLWWLDDWLWWDLLW,3,3,7,11,19,LWWLLLLWWDWL,WWWLWDWLDWWDL
-Valenciennes,Ajaccio,4-0,/match/valenciennes-afc/ajaccio/2019,2019,27,ligue_2,20,38,0,4,0,14,7,7,12,32,42,WLDWDLWWWLWDWWDDWLWWDLDLWW,5,4,4,19,19,12,8,9,9,25,29,LLLWDWDDWWWDLWDWDLLWDDWWDW,3,4,6,10,17,WDDLWLDWDLWLW,LWWDWDWWLLDWD
-Lorient,Orléans,1-3,/match/lorient/orleans/2019,2019,27,ligue_2,20,38,2,1,3,3,14,7,5,33,20,DLLWDWLDWWWDLWWDDDWWLLWLWL,7,5,1,18,9,11,11,4,11,31,35,LWLDWWWLWLWLLWDLWLLLWWDDLW,5,2,5,16,20,DWWDWDWDDWLWW,WDWLLLWWLWDL
-Paris FC,Lens,2-0,/match/paris-sg/lens/2019,2019,27,ligue_2,20,38,0,2,0,5,11,10,5,23,16,DWDWWWDWDWDLDWWDWLDLLLDLDW,6,5,1,13,4,4,13,6,7,37,20,LWLWDWWLDLWWLWDDWDLWWWWDLW,5,3,5,15,14,WWWWDDWWDLDD,LLDWLLWWDDWWL
-Le Havre,Metz,2-2,/match/havre-ac/metz/2019,2019,27,ligue_2,20,38,1,2,2,6,9,10,7,29,27,DDLDWWLDLLWWWWWDWDWDWDDDLW,6,5,2,21,17,2,17,5,4,41,15,LWLWLWLWLLWDLLWDWLWLLDDDWW,8,4,1,17,8,DDWDLWWDWWWDL,LLLLWLDLDLLDD
-Ajaccio,Red Star,0-0,/match/ajaccio/red-star/2019,2019,28,ligue_2,20,38,1,0,0,12,8,9,10,25,33,LLLWDWDDWWWDLWDWDLLWDDWWDWW,5,5,3,15,12,18,5,6,16,19,41,LWLDWWLWLWDLDLWLWWDWWLDDWWW,0,5,8,6,18,LLDDWWLDDWDWW,WDWWDDWWDWDWW
-Béziers,Le Havre,1-1,/match/beziers/havre-ac/2019,2019,28,ligue_2,20,38,1,1,1,20,5,7,15,16,33,LLLWDWLWDLWLLLDWLWLWDLWDWDD,0,6,6,5,14,6,9,11,7,31,29,DDLDWWLDLLWWWWWDWDWDWDDDLWD,3,5,5,8,10,LDLDLDLLDLDD,DLWLLWWWDDDDW
-Stade Brestois,Valenciennes,2-5,/match/stade-brestois-29/valenciennes-afc/2019,2019,28,ligue_2,20,38,2,2,5,1,15,9,3,46,24,LLDWWLWLWLWDDWDWWWDDLWDWDWD,10,3,1,28,10,13,8,7,12,36,42,WLDWDLWWWLWDWWDDWLWWDLDLWWW,2,3,8,13,23,LDWWWWDWWWDWWW,LWWWWWDWWDDLW
-Clermont,Grenoble,1-1,/match/clermont-foot/grenoble-foot-38/2019,2019,28,ligue_2,20,38,1,1,1,7,10,9,8,30,22,DWLDWLWDDWDDLWDWWDLWLDWLWLL,5,6,3,16,10,9,10,8,9,32,30,WDWWDWWLLWLLLWDDLLWDDDDLWWW,4,4,5,18,20,DLWWDDDWWDWDLL,DWWLLLDLWDDWW
-Nancy,Lorient,3-2,/match/nancy/lorient/2019,2019,28,ligue_2,20,38,0,3,2,19,7,5,15,23,34,LWLWLWLLDWLDLWWLDDWLWWDLLWL,3,2,8,8,15,3,14,7,6,34,23,DLLWDWLDWWWDLWWDDDWWLLWLWLL,7,2,4,15,11,LLLLDLLWDLWLW,LLDLWWLWDWLLL
-Orléans,Gazélec Ajaccio,2-2,/match/orleans/gazelec-ajaccio/2019,2019,28,ligue_2,20,38,1,2,2,11,12,4,11,34,36,LWLDWWWLWLWLLWDLWLLLWWDDLWL,6,2,6,15,15,16,7,8,12,22,41,DLLWDWWLDLWLLWWLWDLLLDDDDWL,4,4,5,12,21,LLWWWWLDLLLWDW,LDWDWLWWLLDDW
-Paris FC,Niort,0-0,/match/paris-sg/chamois-niortais/2019,2019,28,ligue_2,20,38,1,0,0,4,12,10,5,25,16,DWDWWWDWDWDLDWWDWLDLLLDLDWW,7,5,1,15,4,10,9,9,9,27,28,LWWDLWWLDWWLWDLLWDDWDWDWDWD,4,3,7,12,18,WWWWDDWWDLDDW,LWLWDWLDLDWWWW
-Troyes,Chateauroux,1-0,/match/troyes/berrichonne-chateauroux/2019,2019,28,ligue_2,20,38,0,1,0,8,12,6,9,34,24,LLLWLWWDWLLLWWWLWDLDDWDLDWL,7,0,6,17,13,15,7,11,9,26,32,DLDDDWWWWLDDLLLWWDLWDLDLLDD,4,5,4,11,14,LLLWWLWWWLWLW,DDDWWDLLWWLLD
-Lens,Auxerre,2-0,/match/lens/auxerre/2019,2019,28,ligue_2,20,38,0,2,0,5,13,6,8,37,22,LWLWDWWLDLWWLWDDWDLWWWWDLWW,8,3,2,22,6,14,9,6,12,29,24,WLLWWLWDWLWLLDLDDDWLWWDWWWL,4,2,7,15,13,WWWDWLDWLWWDW,WLWWWLLDDLWWW
-Metz,Sochaux,1-1,/match/metz/sochaux/2019,2019,28,ligue_2,20,38,1,1,1,2,17,6,4,43,17,LWLWLWLWLLWDLLWDWLWLLDDDWWD,9,1,3,24,7,17,7,4,16,17,35,WLLWWWWLDLLLDWLWWWWWDWWDLWL,2,3,9,7,18,WWWLWLWWWLDWW,WLWWDLDWWWWWDW
-Béziers,Auxerre,1-0,/match/beziers/auxerre/2019,2019,29,ligue_2,20,38,0,1,0,20,5,8,15,17,34,LLLWDWLWDLWLLLDWLWLWDLWDWDDD,0,7,6,6,15,14,9,6,13,29,26,WLLWWLWDWLWLLDLDDDWLWWDWWWLW,4,2,8,15,15,LDLDLDLLDLDDD,WLWWWLLDDLWWWW
-Chateauroux,Paris FC,0-1,/match/berrichonne-chateauroux/paris-sg/2019,2019,29,ligue_2,20,38,2,0,1,15,7,11,10,26,33,DLDDDWWWWLDDLLLWWDLWDLDLLDDW,3,6,5,15,18,3,12,11,5,25,16,DWDWWWDWDWDLDWWDWLDLLLDLDWWD,5,5,4,10,12,LDWWLDLWDLDDLD,DDWDDWLWDLLLLW
-Grenoble,Nancy,1-0,/match/grenoble-foot-38/nancy/2019,2019,29,ligue_2,20,38,0,1,0,9,10,9,9,33,31,WDWWDWWLLWLLLWDDLLWDDDDLWWWD,6,4,4,14,10,17,8,5,15,26,36,LWLWLWLLDWLDLWWLDDWLWWDLLWLW,4,3,7,15,19,WWDWLWLWDLDDLW,WWWLWDWLDWWDLL
-Le Havre,Ajaccio,3-1,/match/havre-ac/ajaccio/2019,2019,29,ligue_2,20,38,0,3,1,6,9,12,7,32,30,DDLDWWLDLLWWWWWDWDWDWDDDLWDD,6,6,2,23,19,12,8,10,10,25,33,LLLWDWDDWWWDLWDWDLLWDDWWDWWD,3,4,7,10,21,DDWDLWWDWWWDLD,LWWDWDWWLLDWDW
-Niort,Metz,0-3,/match/chamois-niortais/metz/2019,2019,29,ligue_2,20,38,2,0,3,11,9,10,9,27,28,LWWDLWWLDWWLWDLLWDDWDWDWDWDD,5,6,2,15,10,2,17,7,4,44,18,LWLWLWLWLLWDLLWDWLWLLDDDWWDD,8,5,1,19,10,WDWLWWLWDDDDD,LLLLWLDLDLLDDD
-Red Star,Clermont,0-4,/match/red-star/clermont-foot/2019,2019,29,ligue_2,20,38,2,0,4,19,5,7,16,19,41,LWLDWWLWLWDLDLWLWWDWWLDDWWWD,5,1,8,13,23,8,10,10,8,31,23,DWLDWLWDDWDDLWDWWDLWLDWLWLLD,5,3,5,14,12,LLWLLWLLLWWLDW,WDLDWLDWLLWWL
-Sochaux,Troyes,0-0,/match/sochaux/troyes/2019,2019,29,ligue_2,20,38,1,0,0,18,7,5,16,18,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLD,5,1,7,10,17,7,13,6,9,35,24,LLLWLWWDWLLLWWWLWDLDDWDLDWLW,5,6,3,17,11,LWWLLLLWWDWLL,LWWDLLWLDDDDDL
-Valenciennes,Orléans,1-4,/match/valenciennes-afc/orleans/2019,2019,29,ligue_2,20,38,2,1,4,13,9,7,12,41,44,WLDWDLWWWLWDWWDDWLWWDLDLWWWL,6,4,4,23,19,10,12,5,11,36,38,LWLDWWWLWLWLLWDLWLLLWWDDLWLD,6,2,5,19,21,WDDLWLDWDLWLWW,WDWLLLWWLWDLL
-Lorient,Stade Brestois,1-1,/match/lorient/stade-brestois-29/2019,2019,29,ligue_2,20,38,1,1,1,5,14,7,7,36,26,DLLWDWLDWWWDLWWDDDWWLLWLWLLW,7,5,2,19,12,1,15,9,4,48,29,LLDWWLWLWLWDDWDWWWDDLWDWDWDL,5,6,2,18,14,DWWDWDWDDWLWWL,LWLLLDDWDLDDD
-Gazélec Ajaccio,Lens,1-0,/match/gazelec-ajaccio/lens/2019,2019,29,ligue_2,20,38,0,1,0,16,7,9,12,24,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLD,3,4,7,10,20,4,14,6,8,39,22,LWLWDWWLDLWWLWDDWDLWWWWDLWWW,5,3,6,15,16,DLWWLLLWLDLDDL,LLDWLLWWDDWWLW
-Ajaccio,Chateauroux,1-1,/match/ajaccio/berrichonne-chateauroux/2019,2019,30,ligue_2,20,38,1,1,1,12,8,10,11,26,36,LLLWDWDDWWWDLWDWDLLWDDWWDWWDW,5,6,3,15,12,15,7,11,11,26,34,DLDDDWWWWLDDLLLWWDLWDLDLLDDWL,4,5,5,11,15,LLDDWWLDDWDWWD,DDDWWDLLWWLLDW
-Béziers,Gazélec Ajaccio,0-0,/match/beziers/gazelec-ajaccio/2019,2019,30,ligue_2,20,38,1,0,0,19,6,8,15,18,34,LLLWDWLWDLWLLLDWLWLWDLWDWDDDW,1,7,6,7,15,16,8,9,12,25,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLDW,4,5,5,14,23,LDLDLDLLDLDDDW,LDWDWLWWLLDDWD
-Stade Brestois,Clermont,0-0,/match/stade-brestois-29/clermont-foot/2019,2019,30,ligue_2,20,38,1,0,0,1,15,10,4,49,30,LLDWWLWLWLWDDWDWWWDDLWDWDWDLD,10,3,2,30,15,8,11,10,8,35,23,DWLDWLWDDWDDLWDWWDLWLDWLWLLDL,6,3,5,18,12,LDWWWWDWWWDWWWL,WDLDWLDWLLWWLL
-Nancy,Valenciennes,0-2,/match/nancy/valenciennes-afc/2019,2019,30,ligue_2,20,38,2,0,2,18,8,5,16,26,37,LWLWLWLLDWLDLWWLDDWLWWDLLWLWW,4,2,8,11,17,13,9,7,13,42,48,WLDWDLWWWLWDWWDDWLWWDLDLWWWLL,3,3,8,18,25,LLLLDLLWDLWLWW,LWWWWWDWWDDLWL
-Niort,Sochaux,0-1,/match/chamois-niortais/sochaux/2019,2019,30,ligue_2,20,38,2,0,1,11,9,10,10,27,31,LWWDLWWLDWWLWDLLWDDWDWDWDWDDL,5,6,3,15,13,17,7,6,16,18,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLDD,2,4,9,8,19,WDWLWWLWDDDDDL,WLWWDLDWWWWWDWD
-Orléans,Red Star,2-2,/match/orleans/red-star/2019,2019,30,ligue_2,20,38,1,2,2,10,13,5,11,40,39,LWLDWWWLWLWLLWDLWLLLWWDDLWLDL,6,3,6,17,17,20,5,7,17,19,45,LWLDWWLWLWDLDLWLWWDWWLDDWWWDL,0,6,8,6,18,LLWWWWLDLLLWDWD,WDWWDDWWDWDWWD
-Paris FC,Auxerre,3-0,/match/paris-sg/auxerre/2019,2019,30,ligue_2,20,38,0,3,0,3,13,11,5,26,16,DWDWWWDWDWDLDWWDWLDLLLDLDWWDL,7,6,1,15,4,14,9,6,14,29,27,WLLWWLWDWLWLLDLDDDWLWWDWWWLWW,4,2,9,15,16,WWWWDDWWDLDDWD,WLWWWLLDDLWWWWW
-Troyes,Grenoble,2-1,/match/troyes/grenoble-foot-38/2019,2019,30,ligue_2,20,38,0,2,1,7,13,7,9,35,24,LLLWLWWDWLLLWWWLWDLDDWDLDWLWD,8,0,6,18,13,9,11,9,9,34,31,WDWWDWWLLWLLLWDDLLWDDDDLWWWDW,4,5,5,19,21,LLLWWLWWWLWLWW,DWWLLLDLWDDWWD
-Metz,Lorient,2-1,/match/metz/lorient/2019,2019,30,ligue_2,20,38,0,2,1,2,18,7,4,47,18,LWLWLWLWLLWDLLWDWLWLLDDDWWDDL,9,2,3,25,8,4,14,8,7,37,27,DLLWDWLDWWWDLWWDDDWWLLWLWLLWD,7,2,5,17,14,WWWLWLWWWLDWWD,LLDLWWLWDWLLLW
-Lens,Le Havre,0-0,/match/lens/havre-ac/2019,2019,30,ligue_2,20,38,1,0,0,5,14,6,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWW,9,3,2,24,6,6,10,12,7,35,31,DDLDWWLDLLWWWWWDWDWDWDDDLWDDW,3,6,5,9,11,WWWDWLDWLWWDWW,DLWLLWWWDDDDWD
-Gazélec Ajaccio,Ajaccio,1-0,/match/gazelec-ajaccio/ajaccio/2019,2019,31,ligue_2,20,38,0,1,0,16,8,10,12,25,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWD,4,4,7,11,20,11,8,11,11,27,37,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWD,3,4,8,11,24,DLWWLLLWLDLDDLW,LWWDWDWWLLDWDWW
-Clermont,Nancy,2-3,/match/clermont-foot/nancy/2019,2019,31,ligue_2,20,38,2,2,3,8,11,11,8,35,23,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLD,5,7,3,17,11,18,8,5,17,26,39,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWL,4,3,8,15,20,DLWWDDDWWDWDLLD,WWWLWDWLDWWDLLW
-Grenoble,Orléans,0-4,/match/grenoble-foot-38/orleans/2019,2019,31,ligue_2,20,38,2,0,4,9,11,9,10,35,33,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWW,7,4,4,15,10,10,13,6,11,42,41,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLD,7,2,5,23,22,WWDWLWLWDLDDLWW,WDWLLLWWLWDLLL
-Le Havre,Niort,0-0,/match/havre-ac/chamois-niortais/2019,2019,31,ligue_2,20,38,1,0,0,6,10,13,7,35,31,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWD,7,6,2,26,20,12,9,10,11,27,32,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLL,4,4,7,12,18,DDWDLWWDWWWDLDW,LWLWDWLDLDWWWWD
-Lorient,Béziers,3-1,/match/lorient/beziers/2019,2019,31,ligue_2,20,38,0,3,1,5,14,8,8,38,29,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDW,7,6,2,20,13,19,6,9,15,18,34,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWD,5,1,9,11,19,DWWDWDWDDWLWWLD,LLWWWLWLLWWWWWD
-Red Star,Stade Brestois,0-2,/match/red-star/stade-brestois-29/2019,2019,31,ligue_2,20,38,2,0,2,20,5,8,17,21,47,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLD,5,1,9,13,27,2,15,11,4,49,30,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDD,5,7,2,19,15,LLWLLWLLLWWLDWL,LWLLLDDWDLDDDD
-Sochaux,Paris FC,1-0,/match/sochaux/paris-sg/2019,2019,31,ligue_2,20,38,0,1,0,17,8,6,16,19,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDL,5,2,7,10,17,3,14,11,5,29,16,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLW,6,5,4,11,12,LWWLLLLWWDWLLD,DDWDDWLWDLLLLWL
-Valenciennes,Troyes,0-1,/match/valenciennes-afc/troyes/2019,2019,31,ligue_2,20,38,2,0,1,13,10,7,13,44,48,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLL,6,4,5,24,23,7,14,7,9,37,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDW,5,7,3,17,11,WDDLWLDWDLWLWWL,LWWDLLWLDDDDDLD
-Auxerre,Metz,0-0,/match/auxerre/metz/2019,2019,31,ligue_2,20,38,1,0,0,14,9,6,15,29,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWW,5,4,5,14,11,1,19,7,4,49,19,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLW,9,5,1,22,10,LWLDLWLDDWWDWL,LLLLWLDLDLLDDDL
-Chateauroux,Lens,0-0,/match/berrichonne-chateauroux/lens/2019,2019,31,ligue_2,20,38,1,0,0,15,7,12,11,27,35,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLD,3,6,6,15,19,4,14,7,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWD,5,3,7,15,17,LDWWLDLWDLDDLDL,LLDWLLWWDDWWLWW
-Ajaccio,Grenoble,1-2,/match/ajaccio/grenoble-foot-38/2019,2019,32,ligue_2,20,38,2,1,2,12,8,11,12,27,38,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDW,5,7,3,16,13,10,11,9,11,35,37,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWL,4,5,6,20,23,LLDDWWLDDWDWWDD,DWWLLLDLWDDWWDW
-Béziers,Red Star,1-3,/match/beziers/red-star/2019,2019,32,ligue_2,20,38,2,1,3,19,6,9,16,19,37,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDW,1,8,6,7,15,20,5,8,18,21,49,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDL,0,7,8,8,20,LDLDLDLLDLDDDWD,WDWWDDWWDWDWWDD
-Lens,Valenciennes,0-0,/match/lens/valenciennes-afc/2019,2019,32,ligue_2,20,38,1,0,0,5,14,8,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDD,9,4,2,24,6,13,10,7,14,44,49,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLL,4,3,8,20,25,WWWDWLDWLWWDWWD,LWWWWWDWWDDLWLL
-Metz,Chateauroux,2-1,/match/metz/berrichonne-chateauroux/2019,2019,32,ligue_2,20,38,0,2,1,1,19,8,4,49,19,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWD,10,2,3,27,9,16,7,13,11,27,35,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDD,4,6,5,12,16,WWWLWLWWWLDWWDW,DDDWWDLLWWLLDWD
-Nancy,Stade Brestois,2-3,/match/nancy/stade-brestois-29/2019,2019,32,ligue_2,20,38,2,2,3,18,9,5,17,29,41,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLL,4,2,9,11,19,2,16,11,4,51,30,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDL,6,7,2,21,15,LLLLDLLWDLWLWWL,LWLLLDDWDLDDDDL
-Niort,Auxerre,0-0,/match/chamois-niortais/auxerre/2019,2019,32,ligue_2,20,38,1,0,0,11,9,11,11,27,32,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLD,5,6,4,15,14,15,9,7,15,29,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWD,4,2,10,15,19,WDWLWWLWDDDDDLL,WLWWWLLDDLWWWWWW
-Orléans,Clermont,2-1,/match/orleans/clermont-foot/2019,2019,32,ligue_2,20,38,0,2,1,9,14,6,11,46,41,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDL,6,4,6,19,19,8,11,11,9,37,26,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDL,6,4,5,18,12,LLWWWWLDLLLWDWDD,WDLDWLDWLLWWLLD
-Sochaux,Le Havre,1-3,/match/sochaux/havre-ac/2019,2019,32,ligue_2,20,38,2,1,3,17,9,6,16,20,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLW,6,2,7,11,17,6,10,14,7,35,31,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDD,3,7,5,9,11,LWWLLLLWWDWLLDW,DLWLLWWWDDDDWDD
-Troyes,Gazélec Ajaccio,1-0,/match/troyes/gazelec-ajaccio/2019,2019,32,ligue_2,20,38,0,1,0,7,15,7,9,38,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWL,9,0,6,20,14,14,9,10,12,26,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDW,4,6,5,14,23,LLLWWLWWWLWLWWW,LDWDWLWWLLDDWDD
-Paris FC,Lorient,2-2,/match/paris-sg/lorient/2019,2019,32,ligue_2,20,38,1,2,2,3,14,11,6,29,17,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWW,8,6,1,18,4,4,15,8,8,41,30,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWW,7,2,6,18,16,WWWWDDWWDLDDWDW,LLDLWWLWDWLLLWW
-Gazélec Ajaccio,Metz,0-2,/match/gazelec-ajaccio/metz/2019,2019,33,ligue_2,20,38,2,0,2,14,9,10,13,26,44,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWW,5,4,7,12,20,1,20,8,4,51,20,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDW,9,6,1,22,10,DLWWLLLWLDLDDLWW,LLLLWLDLDLLDDDLD
-Auxerre,Sochaux,1-0,/match/auxerre/sochaux/2019,2019,33,ligue_2,20,38,0,1,0,15,9,8,15,29,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDD,5,5,5,14,11,17,9,6,17,21,39,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWL,3,4,9,9,19,LWLDLWLDDWWDWLD,WLWWDLDWWWWWDWDL
-Stade Brestois,Orléans,3-1,/match/stade-brestois-29/orleans/2019,2019,33,ligue_2,20,38,0,3,1,2,17,11,4,54,32,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLL,10,4,2,30,15,8,15,6,11,48,42,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLW,8,2,5,27,22,LDWWWWDWWWDWWWLD,WDWLLLWWLWDLLLL
-Chateauroux,Niort,2-1,/match/berrichonne-chateauroux/chamois-niortais/2019,2019,33,ligue_2,20,38,0,2,1,16,7,13,12,28,37,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDW,3,7,6,15,19,11,9,12,11,27,32,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDD,4,5,7,12,18,LDWWLDLWDLDDLDLD,LWLWDWLDLDWWWWDD
-Clermont,Ajaccio,0-0,/match/clermont-foot/ajaccio/2019,2019,33,ligue_2,20,38,1,0,0,10,11,11,10,38,28,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLW,5,7,4,19,14,12,8,11,13,28,40,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWL,3,4,9,11,25,DLWWDDDWWDWDLLDL,LWWDWDWWLLDWDWWW
-Le Havre,Paris FC,2-1,/match/havre-ac/paris-sg/2019,2019,33,ligue_2,20,38,0,2,1,7,11,14,7,38,32,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDL,7,7,2,26,20,3,14,12,6,31,19,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWD,6,5,5,11,13,DDWDLWWDWWWDLDWD,DDWDDWLWDLLLLWLW
-Lorient,Troyes,0-3,/match/lorient/troyes/2019,2019,33,ligue_2,20,38,2,0,3,4,15,9,8,43,32,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWD,8,6,2,23,14,6,16,7,9,39,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLW,6,7,3,18,11,DWWDWDWDDWLWWLDW,LWWDLLWLDDDDDLDL
-Red Star,Nancy,1-1,/match/red-star/nancy/2019,2019,33,ligue_2,20,38,1,1,1,20,6,8,18,24,50,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLL,5,1,10,13,29,18,9,5,18,31,44,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLL,5,3,8,18,22,LLWLLWLLLWWLDWLL,WWWLWDWLDWWDLLWL
-Valenciennes,Béziers,5-6,/match/valenciennes-afc/beziers/2019,2019,33,ligue_2,20,38,2,5,6,13,10,8,14,44,49,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLD,6,4,6,24,24,19,6,9,17,20,40,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWL,5,1,10,12,22,WDDLWLDWDLWLWWLL,LLWWWLWLLWWWWWDW
-Grenoble,Lens,0-2,/match/grenoble-foot-38/lens/2019,2019,33,ligue_2,20,38,2,0,2,9,12,9,11,37,38,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLL,7,4,5,15,14,5,14,9,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDD,5,4,7,15,17,WWDWLWLWDLDDLWWL,LLDWLLWWDDWWLWWD
-Paris FC,Valenciennes,0-0,/match/paris-sg/valenciennes-afc/2019,2019,34,ligue_2,20,38,1,0,0,3,14,12,7,32,21,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDW,8,7,1,20,6,14,10,8,15,49,55,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDL,4,4,8,20,25,WWWWDDWWDLDDWDWD,LWWWWWDWWDDLWLLD
-Ajaccio,Stade Brestois,0-2,/match/ajaccio/stade-brestois-29/2019,2019,34,ligue_2,20,38,2,0,2,12,8,12,13,28,40,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLD,5,7,4,17,15,2,18,11,4,57,33,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLW,7,7,2,24,17,LLDDWWLDDWDWWDDL,LWLLLDDWDLDDDDLL
-Auxerre,Le Havre,0-1,/match/auxerre/havre-ac/2019,2019,34,ligue_2,20,38,2,0,1,13,10,8,15,30,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDW,6,5,5,15,11,7,12,14,7,40,33,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLW,4,7,5,12,12,LWLDLWLDDWWDWLDW,DLWLLWWWDDDDWDDL
-Béziers,Clermont,1-1,/match/beziers/clermont-foot/2019,2019,34,ligue_2,20,38,1,1,1,19,7,9,17,26,45,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLL,1,8,7,8,18,9,11,12,10,38,28,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWD,6,4,6,19,14,LDLDLDLLDLDDDWDL,WDLDWLDWLLWWLLDW
-Lens,Lorient,0-1,/match/lens/lorient/2019,2019,34,ligue_2,20,38,2,0,1,4,15,9,9,41,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDL,9,5,2,24,6,5,15,9,9,43,35,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDL,7,3,6,20,18,WWWDWLDWLWWDWWDD,LLDLWWLWDWLLLWWD
-Metz,Grenoble,1-1,/match/metz/grenoble-foot-38/2019,2019,34,ligue_2,20,38,1,1,1,1,21,8,4,53,20,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWL,11,2,3,29,10,10,12,9,12,37,40,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLL,5,5,6,22,24,WWWLWLWWWLDWWDWW,DWWLLLDLWDDWWDWL
-Nancy,Orléans,1-0,/match/nancy/orleans/2019,2019,34,ligue_2,20,38,0,1,0,18,9,6,18,32,45,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLD,4,2,10,13,22,8,15,6,12,49,45,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWW,8,2,6,28,25,LLLLDLLWDLWLWWLL,WDWLLLWWLWDLLLLW
-Niort,Gazélec Ajaccio,1-1,/match/chamois-niortais/gazelec-ajaccio/2019,2019,34,ligue_2,20,38,1,1,1,11,9,12,12,28,34,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDW,5,7,4,15,14,16,9,10,14,26,46,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWL,4,6,6,14,24,WDWLWWLWDDDDDLLD,LDWDWLWWLLDDWDDW
-Sochaux,Chateauroux,0-0,/match/sochaux/berrichonne-chateauroux/2019,2019,34,ligue_2,20,38,1,0,0,17,9,6,18,21,40,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLW,6,2,8,12,20,15,8,13,12,30,38,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWW,4,6,6,13,18,LWWLLLLWWDWLLDWL,DDDWWDLLWWLLDWDW
-Troyes,Red Star,2-0,/match/troyes/red-star/2019,2019,34,ligue_2,20,38,0,2,0,6,17,7,9,42,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWL,10,0,6,21,14,20,6,9,18,25,51,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLD,1,7,8,11,21,LLLWWLWWWLWLWWWW,WDWWDDWWDWDWWDDL
-Gazélec Ajaccio,Sochaux,0-2,/match/gazelec-ajaccio/sochaux/2019,2019,35,ligue_2,20,38,2,0,2,16,9,11,14,27,47,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLD,5,4,8,12,22,17,9,7,18,21,40,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWD,3,4,10,9,20,DLWWLLLWLDLDDLWWL,WLWWDLDWWWWWDWDLW
-Chateauroux,Le Havre,1-0,/match/berrichonne-chateauroux/havre-ac/2019,2019,35,ligue_2,20,38,0,1,0,15,8,14,12,30,38,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWD,4,7,6,17,20,6,13,14,7,41,33,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWL,5,7,5,13,12,LDWWLDLWDLDDLDLDW,DLWLLWWWDDDDWDDLL
-Clermont,Paris FC,1-1,/match/clermont-foot/paris-sg/2019,2019,35,ligue_2,20,38,1,1,1,9,11,13,10,39,29,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDD,5,8,4,19,14,3,14,13,7,32,21,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWD,6,5,6,12,15,DLWWDDDWWDWDLLDLD,DDWDDWLWDLLLLWLWW
-Grenoble,Béziers,4-2,/match/grenoble-foot-38/beziers/2019,2019,35,ligue_2,20,38,0,4,2,10,12,10,12,38,41,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLD,7,4,6,15,16,19,7,10,17,27,46,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLD,6,1,10,18,27,WWDWLWLWDLDDLWWLL,LLWWWLWLLWWWWWDWL
-Nancy,Ajaccio,1-0,/match/nancy/ajaccio/2019,2019,35,ligue_2,20,38,0,1,0,18,10,6,18,33,45,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDW,5,2,10,14,22,12,8,12,14,28,42,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDL,3,5,9,11,25,LLLLDLLWDLWLWWLLW,LWWDWDWWLLDWDWWWD
-Orléans,Troyes,0-1,/match/orleans/troyes/2019,2019,35,ligue_2,20,38,2,0,1,8,15,6,13,49,46,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWW,7,4,6,21,20,4,18,7,9,44,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLW,7,7,3,21,11,LLWWWWLDLLLWDWDDW,LWWDLLWLDDDDDLDLL
-Red Star,Metz,1-2,/match/red-star/metz/2019,2019,35,ligue_2,20,38,2,1,2,20,6,9,19,25,53,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDW,5,2,10,14,30,1,21,9,4,54,21,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLD,10,6,1,24,10,LLWLLWLLLWWLDWLLD,LLLLWLDLDLLDDDLDL
-Valenciennes,Niort,1-2,/match/valenciennes-afc/chamois-niortais/2019,2019,35,ligue_2,20,38,2,1,2,14,10,9,15,49,55,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLD,6,4,7,29,30,11,9,13,12,29,35,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWD,4,5,8,13,20,WDDLWLDWDLWLWWLLL,LWLWDWLDLDWWWWDDW
-Stade Brestois,Lens,2-0,/match/stade-brestois-29/lens/2019,2019,35,ligue_2,20,38,0,2,0,2,19,11,4,59,33,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWL,11,4,2,33,16,7,15,9,10,41,24,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLL,6,4,7,17,17,LDWWWWDWWWDWWWLDW,LLDWLLWWDDWWLWWDL
-Lorient,Auxerre,2-2,/match/lorient/auxerre/2019,2019,35,ligue_2,20,38,1,2,2,5,16,9,9,44,35,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLL,8,6,3,23,17,13,10,8,16,30,31,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWL,4,3,10,15,19,DWWDWDWDDWLWWLDWL,WLWWWLLDDLWWWWWWD
-Ajaccio,Orléans,1-0,/match/ajaccio/orleans/2019,2019,36,ligue_2,20,38,0,1,0,14,8,12,15,28,43,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDLW,5,7,5,17,17,10,15,6,14,49,47,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWWL,8,2,7,28,26,LLDDWWLDDWDWWDDLL,WDWLLLWWLWDLLLLWW
-Auxerre,Chateauroux,1-2,/match/auxerre/berrichonne-chateauroux/2019,2019,36,ligue_2,20,38,2,1,2,13,10,9,16,32,33,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWLD,6,5,6,15,12,12,9,14,12,31,38,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWDW,4,7,6,13,18,LWLDLWLDDWWDWLDWL,DDDWWDLLWWLLDWDWD
-Béziers,Stade Brestois,1-0,/match/beziers/stade-brestois-29/2019,2019,36,ligue_2,20,38,0,1,0,19,7,10,18,29,50,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLDW,1,9,7,9,19,1,20,11,4,61,33,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWLW,8,7,2,26,17,LDLDLDLLDLDDDWDLD,LWLLLDDWDLDDDDLLL
-Le Havre,Gazélec Ajaccio,2-2,/match/havre-ac/gazelec-ajaccio/2019,2019,36,ligue_2,20,38,1,2,2,6,13,14,8,41,34,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWLW,8,7,2,28,21,16,9,11,15,27,49,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLDL,4,7,6,15,25,DDWDLWWDWWWDLDWDW,LDWDWLWWLLDDWDDWD
-Metz,Valenciennes,3-0,/match/metz/valenciennes-afc/2019,2019,36,ligue_2,20,38,0,3,0,2,22,9,4,56,22,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLDL,11,3,3,30,11,15,10,9,16,50,57,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLDL,4,5,8,20,25,WWWLWLWWWLDWWDWWD,LWWWWWDWWDDLWLLDD
-Paris FC,Grenoble,1-0,/match/paris-sg/grenoble-foot-38/2019,2019,36,ligue_2,20,38,0,1,0,4,14,14,7,33,22,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWDD,8,8,1,20,6,8,13,10,12,42,43,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLDW,5,6,6,23,25,WWWWDDWWDLDDWDWDD,DWWLLLDLWDDWWDWLD
-Sochaux,Red Star,1-2,/match/sochaux/red-star/2019,2019,36,ligue_2,20,38,2,1,2,17,10,7,18,23,40,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWDL,6,3,8,12,20,20,6,9,20,26,55,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDWL,1,7,9,11,23,LWWLLLLWWDWLLDWLD,WDWWDDWWDWDWWDDLW
-Troyes,Nancy,2-1,/match/troyes/nancy/2019,2019,36,ligue_2,20,38,0,2,1,3,19,7,9,45,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLWL,11,0,6,23,14,18,11,6,18,34,45,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDWW,5,4,8,19,23,LLLWWLWWWLWLWWWWW,WWWLWDWLDWWDLLWLD
-Lens,Clermont,1-0,/match/lens/clermont-foot/2019,2019,36,ligue_2,20,38,0,1,0,7,15,9,11,41,26,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLLW,9,5,3,24,7,9,11,14,10,40,30,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDDD,6,5,6,20,15,WWWDWLDWLWWDWWDDL,WDLDWLDWLLWWLLDWD
-Niort,Lorient,2-2,/match/chamois-niortais/lorient/2019,2019,36,ligue_2,20,38,1,2,2,11,10,13,12,31,36,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWDL,5,8,4,16,15,5,16,10,9,46,37,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLLD,8,3,6,21,18,WDWLWWLWDDDDDLLDD,LLDLWWLWDWLLLWWDL
-Ajaccio,Lens,0-2,/match/ajaccio/lens/2019,2019,37,ligue_2,20,38,2,0,2,13,9,12,15,29,43,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDLWW,6,7,5,18,17,6,16,9,11,42,26,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLLWW,6,4,8,17,19,LLDDWWLDDWDWWDDLLW,LLDWLLWWDDWWLWWDLW
-Gazélec Ajaccio,Chateauroux,1-2,/match/gazelec-ajaccio/berrichonne-chateauroux/2019,2019,37,ligue_2,20,38,2,1,2,16,9,12,15,29,51,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLDLD,5,4,9,12,24,12,10,14,12,33,39,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWDWL,5,7,6,15,19,DLWWLLLWLDLDDLWWLL,DDDWWDLLWWLLDWDWDL
-Stade Brestois,Niort,3-0,/match/stade-brestois-29/chamois-niortais/2019,2019,37,ligue_2,20,38,0,3,0,2,20,11,5,61,34,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWLWW,12,4,2,35,16,11,10,14,12,33,38,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWDLD,5,5,8,15,21,LDWWWWDWWWDWWWLDWW,LWLWDWLDLDWWWWDDWL
-Clermont,Troyes,2-4,/match/clermont-foot/troyes/2019,2019,37,ligue_2,20,38,2,2,4,9,11,14,11,40,31,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDDDW,5,9,4,20,15,3,20,7,9,47,26,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLWLW,8,7,3,22,11,DLWWDDDWWDWDLLDLDD,LWWDLLWLDDDDDLDLLL
-Grenoble,Auxerre,0-0,/match/grenoble-foot-38/auxerre/2019,2019,37,ligue_2,20,38,1,0,0,8,13,10,13,42,44,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLDWW,8,4,6,19,18,14,10,9,17,33,35,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWLDL,4,4,10,17,21,WWDWLWLWDLDDLWWLLW,WLWWWLLDDLWWWWWWDD
-Lorient,Sochaux,0-0,/match/lorient/sochaux/2019,2019,37,ligue_2,20,38,1,0,0,5,16,11,9,48,39,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLLDD,8,7,3,25,19,17,10,7,19,24,42,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWDLL,4,4,10,11,20,DWWDWDWDDWLWWLDWLD,WLWWDLDWWWWWDWDLWL
-Nancy,Metz,1-0,/match/nancy/metz/2019,2019,37,ligue_2,20,38,0,1,0,18,11,6,19,35,47,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDWWW,6,2,10,15,22,1,23,9,4,59,22,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLDLW,11,6,1,26,11,LLLLDLLWDLWLWWLLWW,LLLLWLDLDLLDDDLDLL
-Orléans,Béziers,0-0,/match/orleans/beziers/2019,2019,37,ligue_2,20,38,1,0,0,10,15,6,15,49,48,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWWLW,7,4,7,21,21,19,8,10,18,30,50,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLDWW,6,1,11,20,31,LLWWWWLDLLLWDWDDWL,LLWWWLWLLWWWWWDWLW
-Red Star,Paris FC,0-1,/match/red-star/paris-sg/2019,2019,37,ligue_2,20,38,2,0,1,20,7,9,20,28,56,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDWLL,5,2,11,15,32,4,15,14,7,34,22,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWDDW,6,6,6,13,16,LLWLLWLLLWWLDWLLDL,DDWDDWLWDLLLLWLWWD
-Valenciennes,Le Havre,1-0,/match/valenciennes-afc/havre-ac/2019,2019,37,ligue_2,20,38,0,1,0,15,10,9,17,50,60,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLDLW,6,4,8,30,32,7,13,15,8,43,36,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWLWD,5,7,6,13,13,WDDLWLDWDLWLWWLLLL,DLWLLWWWDDDDWDDLLW
-Auxerre,Valenciennes,1-1,/match/auxerre/valenciennes-afc/2019,2019,38,ligue_2,20,38,1,1,1,15,10,10,17,33,35,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWLDLD,6,5,7,16,14,14,11,9,17,51,60,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLDLWW,4,5,9,20,28,LWLDLWLDDWWDWLDWLL,LWWWWWDWWDDLWLLDDW
-Béziers,Nancy,3-0,/match/beziers/nancy/2019,2019,38,ligue_2,20,38,0,3,0,19,8,11,18,30,50,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLDWWD,2,9,7,10,19,16,12,6,19,36,47,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDWWWW,5,4,9,20,25,LDLDLDLLDLDDDWDLDW,WWWLWDWLDWWDLLWLDW
-Chateauroux,Clermont,2-2,/match/berrichonne-chateauroux/clermont-foot/2019,2019,38,ligue_2,20,38,1,2,2,11,11,14,12,35,40,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWDWLL,5,7,6,18,20,10,11,14,12,42,35,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDDDWL,6,5,7,20,16,LDWWLDLWDLDDLDLDWW,WDLDWLDWLLWWLLDWDW
-Le Havre,Lorient,2-3,/match/havre-ac/lorient/2019,2019,38,ligue_2,20,38,2,2,3,7,13,15,9,43,37,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWLWDW,8,8,2,30,23,5,16,12,9,48,39,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLLDDD,8,4,6,23,20,DDWDLWWDWWWDLDWDWD,LLDLWWLWDWLLLWWDLD
-Lens,Orléans,5-2,/match/lens/orleans/2019,2019,38,ligue_2,20,38,0,5,2,6,17,9,11,44,26,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLLWWL,10,5,3,25,7,9,15,7,15,49,48,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWWLWD,8,2,8,28,27,WWWDWLDWLWWDWWDDLW,WDWLLLWWLWDLLLLWWW
-Metz,Stade Brestois,1-0,/match/metz/stade-brestois-29/2019,2019,38,ligue_2,20,38,0,1,0,2,23,9,5,59,23,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLDLWW,12,3,3,33,11,1,21,11,5,64,34,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWLWWW,8,7,3,26,18,WWWLWLWWWLDWWDWWDW,LWLLLDDWDLDDDDLLLW
-Niort,Red Star,1-0,/match/chamois-niortais/red-star/2019,2019,38,ligue_2,20,38,0,1,0,12,10,14,13,33,41,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWDLDW,5,9,4,18,17,20,7,9,21,28,57,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDWLLL,2,7,9,13,24,WDWLWWLWDDDDDLLDDD,WDWWDDWWDWDWWDDLWL
-Paris FC,Gazélec Ajaccio,1-0,/match/paris-sg/gazelec-ajaccio/2019,2019,38,ligue_2,20,38,0,1,0,4,16,14,7,35,22,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWDDWL,9,8,1,21,6,17,9,12,16,30,53,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLDLDL,4,8,6,17,27,WWWWDDWWDLDDWDWDDW,LDWDWLWWLLDDWDDWDD
-Sochaux,Grenoble,3-1,/match/sochaux/grenoble-foot-38/2019,2019,38,ligue_2,20,38,0,3,1,18,10,8,19,24,42,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWDLLD,6,3,9,13,22,8,13,11,13,42,44,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLDWWD,5,6,7,23,26,LWWLLLLWWDWLLDWLDL,DWWLLLDLWDDWWDWLDW
-Troyes,Ajaccio,0-0,/match/troyes/ajaccio/2019,2019,38,ligue_2,20,38,1,0,0,3,21,7,9,51,28,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLWLWL,12,0,6,25,15,13,9,12,16,29,45,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDLWWL,3,5,10,11,26,LLLWWLWWWLWLWWWWWW,LWWDWDWWLLDWDWWWDW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Ajaccio,Troyes,0-1,/match/ajaccio/troyes/2019,2019,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Gazélec Ajaccio,Paris FC,1-1,/match/gazelec-ajaccio/paris-sg/2019,2019,1,ligue_2,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Clermont,Chateauroux,0-0,/match/clermont-foot/berrichonne-chateauroux/2019,2019,1,ligue_2,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Grenoble,Sochaux,1-0,/match/grenoble-foot-38/sochaux/2019,2019,1,ligue_2,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nancy,Béziers,0-2,/match/nancy/beziers/2019,2019,1,ligue_2,20,38,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Orléans,Lens,0-2,/match/orleans/lens/2019,2019,1,ligue_2,20,38,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Red Star,Niort,1-2,/match/red-star/chamois-niortais/2019,2019,1,ligue_2,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Valenciennes,Auxerre,3-1,/match/valenciennes-afc/auxerre/2019,2019,1,ligue_2,20,38,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lorient,Le Havre,0-0,/match/lorient/havre-ac/2019,2019,1,ligue_2,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Stade Brestois,Metz,0-1,/match/stade-brestois-29/metz/2019,2019,1,ligue_2,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Auxerre,Gazélec Ajaccio,2-3,/match/auxerre/gazelec-ajaccio/2019,2019,2,ligue_2,20,38,2,2,3,18,0,0,0,1,1,3,W,0,0,0,0,0,8,2,0,1,0,1,1,D,0,0,0,0,0,,
+Béziers,Ajaccio,0-1,/match/beziers/ajaccio/2019,2019,2,ligue_2,20,38,2,0,1,6,2,1,0,0,2,0,L,0,0,0,0,0,15,0,0,0,1,0,1,L,0,0,0,0,0,,
+Le Havre,Grenoble,1-1,/match/havre-ac/grenoble-foot-38/2019,2019,2,ligue_2,20,38,1,1,1,11,1,0,1,0,0,0,D,0,0,0,0,0,1,4,1,0,0,1,0,W,0,0,0,0,0,,
+Metz,Orléans,5-1,/match/metz/orleans/2019,2019,2,ligue_2,20,38,0,5,1,7,2,1,0,0,1,0,L,0,0,0,0,0,20,0,0,0,1,0,2,L,0,0,0,0,0,,
+Niort,Clermont,4-2,/match/chamois-niortais/clermont-foot/2019,2019,2,ligue_2,20,38,0,4,2,5,2,1,0,0,2,1,L,0,0,0,0,0,9,2,0,1,0,0,0,D,0,0,0,0,0,,
+Paris FC,Nancy,2-0,/match/paris-sg/nancy/2019,2019,2,ligue_2,20,38,0,2,0,13,1,0,1,0,1,1,D,0,0,0,0,0,17,0,0,0,1,0,2,L,0,0,0,0,0,,
+Sochaux,Valenciennes,0-1,/match/sochaux/valenciennes-afc/2019,2019,2,ligue_2,20,38,2,0,1,16,0,0,0,1,0,1,W,0,0,0,0,0,2,4,1,0,0,3,1,W,0,0,0,0,0,,
+Troyes,Stade Brestois,1-2,/match/troyes/stade-brestois-29/2019,2019,2,ligue_2,20,38,2,1,2,10,2,1,0,0,1,0,L,0,0,0,0,0,19,0,0,0,1,0,1,L,0,0,0,0,0,,
+Lens,Red Star,1-0,/match/lens/red-star/2019,2019,2,ligue_2,20,38,0,1,0,3,2,1,0,0,2,0,L,0,0,0,0,0,14,0,0,0,1,1,2,L,0,0,0,0,0,,
+Chateauroux,Lorient,1-2,/match/berrichonne-chateauroux/lorient/2019,2019,2,ligue_2,20,38,2,1,2,12,1,0,1,0,0,0,D,0,0,0,0,0,4,2,0,1,0,0,0,D,0,0,0,0,0,,
+Ajaccio,Sochaux,2-3,/match/ajaccio/sochaux/2019,2019,3,ligue_2,20,38,2,2,3,13,2,1,0,1,1,1,LL,0,0,1,0,1,17,0,0,0,2,0,2,WL,0,0,1,0,1,L,W
+Gazélec Ajaccio,Lorient,1-3,/match/gazelec-ajaccio/lorient/2019,2019,3,ligue_2,20,38,2,1,3,8,4,1,1,0,4,3,DL,0,1,0,1,1,7,4,1,1,0,2,1,DL,1,0,0,2,1,D,L
+Stade Brestois,Paris FC,1-1,/match/stade-brestois-29/paris-sg/2019,2019,3,ligue_2,20,38,1,1,1,14,2,1,0,1,2,2,LL,0,0,1,0,1,6,5,1,1,0,3,1,DW,0,1,0,1,1,L,D
+Grenoble,Niort,1-0,/match/grenoble-foot-38/chamois-niortais/2019,2019,3,ligue_2,20,38,0,1,0,5,5,1,1,0,2,1,WD,1,0,0,1,0,3,6,2,0,0,6,3,LW,1,0,0,2,1,W,L
+Nancy,Lens,0-3,/match/nancy/lens/2019,2019,3,ligue_2,20,38,2,0,3,18,0,0,0,2,0,4,LW,0,0,1,0,2,2,6,2,0,0,3,0,LW,1,0,0,2,0,L,L
+Orléans,Auxerre,0-3,/match/orleans/auxerre/2019,2019,3,ligue_2,20,38,2,0,3,20,0,0,0,2,1,7,LW,0,0,1,0,2,19,0,0,0,2,3,6,WL,0,0,1,1,3,L,W
+Red Star,Le Havre,0-1,/match/red-star/havre-ac/2019,2019,3,ligue_2,20,38,2,0,1,16,0,0,0,2,1,3,LW,0,0,1,1,2,9,3,0,2,0,1,1,DD,0,1,0,0,0,L,D
+Troyes,Béziers,0-1,/match/troyes/beziers/2019,2019,3,ligue_2,20,38,2,0,1,10,2,1,0,1,2,2,LL,0,0,1,1,2,12,2,1,0,1,2,1,LL,1,0,0,2,0,L,L
+Valenciennes,Chateauroux,1-1,/match/valenciennes-afc/berrichonne-chateauroux/2019,2019,3,ligue_2,20,38,1,1,1,1,6,2,0,0,4,1,WL,1,0,0,3,1,15,1,0,1,1,1,2,DL,0,1,0,0,0,W,D
+Clermont,Metz,2-3,/match/clermont-foot/metz/2019,2019,3,ligue_2,20,38,2,2,3,11,2,0,1,1,2,4,DW,0,1,0,0,0,4,6,2,0,0,6,1,LW,1,0,0,1,0,D,L
+Gazélec Ajaccio,Grenoble,2-0,/match/gazelec-ajaccio/grenoble-foot-38/2019,2019,4,ligue_2,20,38,0,2,0,9,4,1,1,1,5,6,DLL,0,1,1,2,4,1,9,2,1,0,3,1,WDW,0,1,0,1,1,DL,D
+Auxerre,Nancy,1-0,/match/auxerre/nancy/2019,2019,4,ligue_2,20,38,0,1,0,13,2,1,0,2,6,6,WLL,0,0,1,2,3,19,0,0,0,3,0,7,LWL,0,0,1,0,2,L,W
+Chateauroux,Red Star,1-1,/match/berrichonne-chateauroux/red-star/2019,2019,4,ligue_2,20,38,1,1,1,12,2,0,2,1,2,3,DLD,0,0,1,1,2,18,0,0,0,3,1,4,LWL,0,0,1,0,1,L,W
+Le Havre,Clermont,0-0,/match/havre-ac/clermont-foot/2019,2019,4,ligue_2,20,38,1,0,0,8,5,1,2,0,2,1,DDL,0,1,0,1,1,15,2,0,1,2,4,7,DWL,0,0,1,2,4,D,W
+Lorient,Valenciennes,3-1,/match/lorient/valenciennes-afc/2019,2019,4,ligue_2,20,38,0,3,1,7,6,2,1,0,5,2,DLL,0,1,0,0,0,2,8,2,1,0,5,2,WLD,1,0,0,1,0,D,L
+Niort,Orléans,1-1,/match/chamois-niortais/orleans/2019,2019,4,ligue_2,20,38,1,1,1,5,6,2,0,1,6,4,LWW,1,0,0,4,2,20,0,0,0,3,1,10,LWL,0,0,1,1,5,W,W
+Paris FC,Béziers,1-0,/match/paris-sg/beziers/2019,2019,4,ligue_2,20,38,0,1,0,6,6,1,2,0,4,2,DWD,1,0,0,2,0,10,4,2,0,1,3,1,LLL,2,0,0,3,0,W,LL
+Sochaux,Stade Brestois,2-0,/match/sochaux/stade-brestois-29/2019,2019,4,ligue_2,20,38,0,2,0,14,2,1,0,2,3,4,WLL,0,0,1,0,1,11,4,1,1,1,3,3,LLD,1,0,0,2,1,L,L
+Lens,Troyes,2-0,/match/lens/troyes/2019,2019,4,ligue_2,20,38,0,2,0,4,8,3,0,0,6,0,LWL,1,0,0,1,0,17,2,1,0,2,2,3,LLL,1,0,0,1,0,W,L
+Metz,Ajaccio,3-1,/match/metz/ajaccio/2019,2019,4,ligue_2,20,38,0,3,1,3,8,3,0,0,9,3,LWL,1,0,0,5,1,16,2,1,0,2,3,4,LLL,1,0,0,1,0,W,L
+Ajaccio,Lorient,0-0,/match/ajaccio/lorient/2019,2019,5,ligue_2,20,38,1,0,0,16,2,1,0,3,4,7,LLLW,0,0,2,2,4,4,10,3,1,0,8,3,DLLW,2,0,0,5,2,LL,LL
+Stade Brestois,Le Havre,1-0,/match/stade-brestois-29/havre-ac/2019,2019,5,ligue_2,20,38,0,1,0,12,4,1,1,2,3,5,LLDW,0,1,1,1,2,9,7,1,3,0,2,1,DDLD,1,1,0,1,0,LD,DL
+Clermont,Sochaux,1-0,/match/clermont-foot/sochaux/2019,2019,5,ligue_2,20,38,0,1,0,15,3,0,2,2,4,7,DWLD,0,1,1,2,3,11,6,2,0,2,5,4,WLLW,1,0,1,3,3,DL,WL
+Grenoble,Chateauroux,0-0,/match/grenoble-foot-38/berrichonne-chateauroux/2019,2019,5,ligue_2,20,38,1,0,0,5,9,2,1,1,3,3,WDWW,2,0,0,2,0,13,4,0,3,1,3,4,DLDD,0,2,0,1,1,WW,DD
+Nancy,Niort,0-1,/match/nancy/chamois-niortais/2019,2019,5,ligue_2,20,38,2,0,1,20,0,0,0,4,0,8,LWLW,0,0,2,0,5,6,8,2,1,1,7,5,LWWD,1,0,1,2,2,LL,LW
+Orléans,Paris FC,4-0,/match/orleans/paris-sg/2019,2019,5,ligue_2,20,38,0,4,0,19,1,0,1,3,2,11,LWLD,0,0,2,0,5,3,10,2,2,0,5,2,DWDW,0,2,0,2,2,LL,DD
+Red Star,Auxerre,1-0,/match/red-star/auxerre/2019,2019,5,ligue_2,20,38,0,1,0,18,1,0,1,3,2,5,LWLD,0,0,2,1,3,10,6,2,0,2,7,6,WLLW,1,0,1,4,3,LL,WL
+Troyes,Metz,0-1,/match/troyes/metz/2019,2019,5,ligue_2,20,38,2,0,1,17,2,1,0,3,2,5,LLLW,0,0,2,1,3,1,12,4,0,0,12,4,LWLW,2,0,0,4,2,LL,LL
+Valenciennes,Gazélec Ajaccio,0-0,/match/valenciennes-afc/gazelec-ajaccio/2019,2019,5,ligue_2,20,38,1,0,0,8,8,2,1,1,6,5,WLDW,1,1,0,4,2,7,8,2,1,1,7,6,DLLW,1,0,0,3,2,WD,L
+Béziers,Lens,0-0,/match/beziers/lens/2019,2019,5,ligue_2,20,38,1,0,0,14,4,2,0,2,3,2,LLLW,0,0,1,0,1,2,12,4,0,0,8,0,LWLW,2,0,0,5,0,L,LL
+Gazélec Ajaccio,Red Star,2-1,/match/gazelec-ajaccio/red-star/2019,2019,6,ligue_2,20,38,0,2,1,8,9,2,2,1,7,6,DLLWD,1,1,1,4,4,16,5,1,1,3,3,5,LWLDW,0,1,1,1,2,DLW,WD
+Auxerre,Stade Brestois,0-2,/match/auxerre/stade-brestois-29/2019,2019,6,ligue_2,20,38,2,0,2,14,6,2,0,3,7,7,WLLWW,1,0,1,3,3,9,8,2,1,2,4,5,LLDWW,1,0,1,2,3,LW,LW
+Chateauroux,Nancy,1-0,/match/berrichonne-chateauroux/nancy/2019,2019,6,ligue_2,20,38,0,1,0,15,5,0,4,1,3,4,DLDDD,0,1,1,2,3,20,0,0,0,5,0,9,LWLWL,0,0,2,0,3,LD,WW
+Le Havre,Orléans,3-1,/match/havre-ac/orleans/2019,2019,6,ligue_2,20,38,0,3,1,10,7,1,3,1,2,2,DDLDW,0,2,0,1,1,17,5,1,1,3,6,11,LWLDW,0,1,1,2,6,DD,WD
+Niort,Ajaccio,2-0,/match/chamois-niortais/ajaccio/2019,2019,6,ligue_2,20,38,0,2,0,6,10,3,1,1,8,5,LWWDL,1,1,0,5,3,18,4,1,1,3,4,7,LLLWD,1,0,1,2,3,WD,LW
+Paris FC,Troyes,2-0,/match/paris-sg/troyes/2019,2019,6,ligue_2,20,38,0,2,0,5,10,2,2,1,5,6,DWDWW,2,0,0,3,0,19,2,1,0,4,2,6,LLLWL,1,0,1,1,2,WW,LW
+Sochaux,Béziers,1-0,/match/sochaux/beziers/2019,2019,6,ligue_2,20,38,0,1,0,13,6,2,0,3,5,5,WLLWW,1,0,1,2,1,12,6,2,1,2,3,2,LLLWD,2,0,1,3,1,LW,LLW
+Valenciennes,Clermont,0-4,/match/valenciennes-afc/clermont-foot/2019,2019,6,ligue_2,20,38,2,0,4,7,10,2,2,1,6,5,WLDWD,1,2,0,4,2,11,7,1,2,2,5,7,DWLDW,0,1,1,2,4,WDD,WD
+Metz,Lens,2-0,/match/metz/lens/2019,2019,6,ligue_2,20,38,0,2,0,1,14,5,0,0,13,4,LWLWL,2,0,0,8,2,2,13,4,1,0,8,0,LWLWD,2,1,0,5,0,WW,LLD
+Lorient,Grenoble,1-0,/match/lorient/grenoble-foot-38/2019,2019,6,ligue_2,20,38,0,1,0,3,11,3,2,0,8,3,DLLWD,1,1,0,3,1,4,11,2,2,1,3,3,WDWWD,0,1,1,1,3,DW,DW
+Ajaccio,Paris FC,0-0,/match/ajaccio/paris-sg/2019,2019,7,ligue_2,20,38,1,0,0,18,4,1,1,4,4,9,LLLWDW,0,1,2,2,4,3,14,3,2,1,7,6,DWDWWW,0,2,1,2,6,LLD,DDW
+Stade Brestois,Gazélec Ajaccio,4-1,/match/stade-brestois-29/gazelec-ajaccio/2019,2019,7,ligue_2,20,38,0,4,1,11,10,3,1,2,6,5,LLDWWL,1,1,1,2,2,5,13,3,2,1,9,7,DLLWDW,1,1,0,3,2,LDW,LD
+Clermont,Auxerre,2-0,/match/clermont-foot/auxerre/2019,2019,7,ligue_2,20,38,0,2,0,13,9,2,2,2,9,7,DWLDWL,1,1,1,3,3,14,6,2,0,4,7,9,WLLWWL,1,0,2,4,4,DLW,WLW
+Grenoble,Valenciennes,4-2,/match/grenoble-foot-38/valenciennes-afc/2019,2019,7,ligue_2,20,38,0,4,2,7,11,2,2,2,3,4,WDWWDW,2,1,0,2,0,10,10,2,2,2,6,9,WLDWDL,1,0,1,2,3,WWD,LW
+Nancy,Le Havre,0-1,/match/nancy/havre-ac/2019,2019,7,ligue_2,20,38,2,0,1,20,0,0,0,6,0,10,LWLWLW,0,0,3,0,6,8,11,2,3,1,5,3,DDLDWW,1,1,1,1,1,LLL,DLW
+Orléans,Chateauroux,2-0,/match/orleans/berrichonne-chateauroux/2019,2019,7,ligue_2,20,38,0,2,0,17,5,1,1,4,7,14,LWLDWW,1,0,2,4,5,12,9,1,4,1,4,4,DLDDDW,0,3,0,1,1,LLW,DDD
+Red Star,Lorient,0-3,/match/red-star/lorient/2019,2019,7,ligue_2,20,38,2,0,3,16,5,1,1,4,4,7,LWLDWW,1,0,2,2,3,2,15,4,2,0,9,3,DLLWDW,2,1,0,5,2,LLW,LLD
+Troyes,Niort,2-0,/match/troyes/chamois-niortais/2019,2019,7,ligue_2,20,38,0,2,0,19,2,1,0,5,2,8,LLLWLW,0,0,3,1,4,4,14,4,1,1,10,5,LWWDLW,2,0,1,3,2,LLL,LWL
+Lens,Sochaux,2-0,/match/lens/sochaux/2019,2019,7,ligue_2,20,38,0,2,0,6,13,4,1,1,8,2,LWLWDW,2,0,0,3,0,9,10,3,0,3,6,5,WLLWWW,1,0,2,3,4,WW,WLW
+Béziers,Metz,1-3,/match/beziers/metz/2019,2019,7,ligue_2,20,38,2,1,3,15,6,2,1,3,3,3,LLLWDW,0,1,1,0,1,1,18,6,0,0,15,4,LWLWLW,3,0,0,5,2,LD,LLL
+Gazélec Ajaccio,Nancy,0-1,/match/gazelec-ajaccio/nancy/2019,2019,8,ligue_2,20,38,2,0,1,8,13,3,2,2,10,11,DLLWDWW,2,1,1,6,5,20,0,0,0,7,0,11,LWLWLWL,0,0,3,0,4,DLWW,WWW
+Auxerre,Ajaccio,0-0,/match/auxerre/ajaccio/2019,2019,8,ligue_2,20,38,1,0,0,15,6,2,0,5,7,11,WLLWWLW,1,0,2,3,5,17,6,1,2,4,4,9,LLLWDWD,1,0,2,2,5,LWL,LWW
+Chateauroux,Béziers,2-0,/match/berrichonne-chateauroux/beziers/2019,2019,8,ligue_2,20,38,0,2,0,13,9,1,4,2,4,6,DLDDDWW,1,1,1,3,3,16,6,2,1,4,4,6,LLLWDWL,2,0,2,3,2,LDW,LLWW
+Grenoble,Stade Brestois,1-2,/match/grenoble-foot-38/stade-brestois-29/2019,2019,8,ligue_2,20,38,2,1,2,5,15,3,2,2,7,6,WDWWDWW,3,1,0,6,2,6,14,4,1,2,10,6,LLDWWLW,2,0,1,4,3,WWDW,LWL
+Le Havre,Troyes,1-1,/match/havre-ac/troyes/2019,2019,8,ligue_2,20,38,1,1,1,9,13,3,3,1,6,3,DDLDWWL,1,2,0,4,2,18,6,2,0,5,4,8,LLLWLWW,1,0,2,1,4,DDW,LWW
+Lorient,Clermont,0-0,/match/lorient/clermont-foot/2019,2019,8,ligue_2,20,38,1,0,0,3,17,5,2,0,12,3,DLLWDWL,2,1,0,4,1,10,13,3,2,2,11,7,DWLDWLW,1,1,1,6,4,DWW,WDL
+Sochaux,Orléans,0-1,/match/sochaux/orleans/2019,2019,8,ligue_2,20,38,2,0,1,11,10,3,0,4,6,7,WLLWWWW,2,0,1,3,1,14,9,2,1,4,9,14,LWLDWWW,0,1,2,3,9,LWW,WDW
+Valenciennes,Red Star,4-1,/match/valenciennes-afc/red-star/2019,2019,8,ligue_2,20,38,0,4,1,12,10,2,2,3,8,13,WLDWDLW,1,2,1,4,6,19,5,1,1,5,4,10,LWLDWWL,0,1,2,2,4,WDDL,WDW
+Paris FC,Metz,2-1,/match/paris-sg/metz/2019,2019,8,ligue_2,20,38,0,2,1,4,15,3,3,1,7,6,DWDWWWD,3,0,0,5,0,1,20,7,0,0,18,5,LWLWLWL,4,0,0,8,3,WWW,LLLL
+Niort,Lens,1-2,/match/chamois-niortais/lens/2019,2019,8,ligue_2,20,38,2,1,2,7,14,4,1,2,10,7,LWWDLWW,2,1,0,7,3,2,17,5,1,1,10,2,LWLWDWW,2,1,1,5,2,WDW,LLDW
+Ajaccio,Valenciennes,3-1,/match/ajaccio/valenciennes-afc/2019,2019,9,ligue_2,20,38,0,3,1,16,7,1,3,4,4,9,LLLWDWDD,0,2,2,2,4,10,14,3,2,3,12,14,WLDWDLWW,1,0,2,4,7,LLDD,LWW
+Béziers,Niort,1-1,/match/beziers/chamois-niortais/2019,2019,9,ligue_2,20,38,1,1,1,18,6,2,1,5,4,8,LLLWDWLW,0,1,2,1,4,8,14,4,1,3,11,9,LWWDLWWL,2,0,2,3,4,LDL,LWLW
+Stade Brestois,Chateauroux,5-1,/match/stade-brestois-29/berrichonne-chateauroux/2019,2019,9,ligue_2,20,38,0,5,1,5,16,5,1,2,12,7,LLDWWLWL,2,1,1,6,3,12,13,2,4,2,6,6,DLDDDWWW,0,3,1,1,3,LDWW,DDDW
+Clermont,Gazélec Ajaccio,1-1,/match/clermont-foot/gazelec-ajaccio/2019,2019,9,ligue_2,20,38,1,1,1,9,14,3,3,2,11,7,DWLDWLWD,2,1,1,5,3,11,13,3,2,3,10,12,DLLWDWWL,1,1,1,4,6,DLWW,LDW
+Lens,Paris FC,0-0,/match/lens/paris-sg/2019,2019,9,ligue_2,20,38,1,0,0,4,19,6,1,1,12,3,LWLWDWWL,3,0,0,5,0,3,19,4,3,1,9,7,DWDWWWDW,0,3,1,2,6,WWW,DDWD
+Nancy,Sochaux,0-0,/match/nancy/sochaux/2019,2019,9,ligue_2,20,38,1,0,0,20,2,1,0,7,1,11,LWLWLWLL,0,0,4,0,7,14,10,3,0,5,6,8,WLLWWWWL,1,0,3,3,6,LLLL,WLWW
+Orléans,Lorient,2-0,/match/orleans/lorient/2019,2019,9,ligue_2,20,38,0,2,0,13,11,3,1,4,10,14,LWLDWWWL,2,0,2,6,5,2,19,5,3,0,12,3,DLLWDWLD,3,1,0,8,2,LLWW,LLDL
+Red Star,Grenoble,2-3,/match/red-star/grenoble-foot-38/2019,2019,9,ligue_2,20,38,2,2,3,19,5,1,1,6,5,14,LWLDWWLW,1,0,3,2,6,6,15,3,2,3,8,8,WDWWDWWL,0,1,2,1,4,LLWL,DWW
+Metz,Le Havre,0-1,/match/metz/havre-ac/2019,2019,9,ligue_2,20,38,2,0,1,1,20,7,0,1,19,7,LWLWLWLW,3,0,0,10,2,7,15,3,4,1,7,4,DDLDWWLD,2,1,1,2,1,WWW,DLWL
+Troyes,Auxerre,1-0,/match/troyes/auxerre/2019,2019,9,ligue_2,20,38,0,1,0,17,7,2,1,5,5,9,LLLWLWWD,1,0,3,3,4,15,8,2,1,5,7,11,WLLWWLWD,1,0,3,4,6,LLLW,WLWW
+Gazélec Ajaccio,Orléans,0-2,/match/gazelec-ajaccio/orleans/2019,2019,10,ligue_2,20,38,2,0,2,11,14,3,3,3,11,13,DLLWDWWLD,2,1,2,6,6,10,15,4,1,4,12,14,LWLDWWWLW,1,1,2,4,9,DLWWL,WDWL
+Chateauroux,Troyes,0-3,/match/berrichonne-chateauroux/troyes/2019,2019,10,ligue_2,20,38,2,0,3,13,13,2,4,3,7,11,DLDDDWWWW,2,1,1,5,3,16,11,3,1,5,6,9,LLLWLWWDW,1,1,2,2,5,LDWW,LWWD
+Grenoble,Clermont,1-0,/match/grenoble-foot-38/clermont-foot/2019,2019,10,ligue_2,20,38,0,1,0,6,17,4,2,3,11,10,WDWWDWWLL,3,1,1,7,4,8,16,3,4,2,12,8,DWLDWLWDD,1,2,1,6,4,WWDWL,WDLD
+Le Havre,Béziers,2-3,/match/havre-ac/beziers/2019,2019,10,ligue_2,20,38,2,2,3,7,17,4,4,1,8,4,DDLDWWLDL,1,3,0,5,3,18,8,2,2,5,5,9,LLLWDWLWD,2,0,3,3,4,DDWD,LLWWW
+Lorient,Nancy,4-1,/match/lorient/nancy/2019,2019,10,ligue_2,20,38,0,4,1,5,19,5,3,1,12,5,DLLWDWLDW,2,2,0,4,1,20,4,1,1,7,1,11,LWLWLWLLD,1,0,3,1,4,DWWD,WWWL
+Niort,Paris FC,1-0,/match/chamois-niortais/paris-sg/2019,2019,10,ligue_2,20,38,0,1,0,9,15,4,2,3,12,10,LWWDLWWLD,2,1,1,8,5,3,20,4,4,1,9,7,DWDWWWDWD,0,4,1,2,6,WDWL,DDWDD
+Red Star,Ajaccio,2-0,/match/red-star/ajaccio/2019,2019,10,ligue_2,20,38,0,2,0,19,5,1,1,7,7,17,LWLDWWLWL,1,0,4,4,9,15,11,2,3,4,7,10,LLLWDWDDW,1,1,2,2,5,LLWLL,LWWD
+Valenciennes,Stade Brestois,1-3,/match/valenciennes-afc/stade-brestois-29/2019,2019,10,ligue_2,20,38,2,1,3,12,14,3,2,4,13,17,WLDWDLWWW,2,2,1,8,7,4,20,6,1,2,17,8,LLDWWLWLW,3,0,1,6,4,WDDLW,LWLL
+Auxerre,Lens,1-2,/match/auxerre/lens/2019,2019,10,ligue_2,20,38,2,1,2,17,8,2,1,6,7,12,WLLWWLWDW,1,1,2,3,5,1,21,6,2,1,12,3,LWLWDWWLD,3,1,1,7,3,LWLD,LLDWL
+Sochaux,Metz,1-2,/match/sochaux/metz/2019,2019,10,ligue_2,20,38,2,1,2,14,11,3,1,5,6,8,WLLWWWWLD,2,0,2,3,2,2,20,7,0,2,19,8,LWLWLWLWL,4,0,1,9,5,LWWL,LLLLW
+Ajaccio,Le Havre,3-2,/match/ajaccio/havre-ac/2019,2019,11,ligue_2,20,38,0,3,2,16,11,2,3,5,7,12,LLLWDWDDWW,1,2,2,5,5,8,17,4,4,2,10,7,DDLDWWLDLL,3,1,1,3,1,LLDDW,DLWLL
+Auxerre,Béziers,2-0,/match/auxerre/beziers/2019,2019,11,ligue_2,20,38,0,2,0,19,8,2,1,7,8,14,WLLWWLWDWL,1,1,3,4,7,17,10,3,2,5,8,11,LLLWDWLWDL,3,0,3,6,6,LWLDL,LLWWWL
+Clermont,Red Star,0-0,/match/clermont-foot/red-star/2019,2019,11,ligue_2,20,38,1,0,0,10,16,3,4,3,12,9,DWLDWLWDDW,2,2,1,6,4,18,9,2,1,7,9,17,LWLDWWLWLW,0,1,3,3,8,DLWWD,WDWW
+Metz,Niort,3-0,/match/metz/chamois-niortais/2019,2019,11,ligue_2,20,38,0,3,0,4,22,8,0,2,21,9,LWLWLWLWLL,3,0,1,10,3,7,19,5,2,3,13,10,LWWDLWWLDW,2,1,2,4,5,WWWL,LWLWD
+Nancy,Grenoble,1-2,/match/nancy/grenoble-foot-38/2019,2019,11,ligue_2,20,38,2,1,2,20,4,1,1,8,2,15,LWLWLWLLDW,0,1,4,0,7,5,21,5,2,3,12,10,WDWWDWWLLW,1,1,2,4,6,LLLLD,DWWL
+Orléans,Valenciennes,1-0,/match/orleans/valenciennes-afc/2019,2019,11,ligue_2,20,38,0,1,0,9,17,5,1,4,14,14,LWLDWWWLWL,3,0,2,8,5,11,14,3,2,5,14,20,WLDWDLWWWL,1,0,3,5,10,LLWWW,LWWW
+Paris FC,Chateauroux,0-0,/match/paris-sg/berrichonne-chateauroux/2019,2019,11,ligue_2,20,38,1,0,0,6,20,4,4,2,9,8,DWDWWWDWDW,4,0,0,7,1,13,13,2,4,4,7,14,DLDDDWWWWL,0,3,2,2,8,WWWW,DDDWW
+Troyes,Sochaux,1-2,/match/troyes/sochaux/2019,2019,11,ligue_2,20,38,2,1,2,14,13,4,1,5,9,9,LLLWLWWDWL,2,0,3,4,4,15,11,3,1,6,7,10,WLLWWWWLDL,1,1,3,3,6,LLLWW,WLWWD
+Stade Brestois,Lorient,3-2,/match/stade-brestois-29/lorient/2019,2019,11,ligue_2,20,38,0,3,2,3,22,7,1,2,20,9,LLDWWLWLWL,3,1,1,11,4,2,23,6,3,1,16,6,DLLWDWLDWW,3,1,1,8,4,LDWWW,LLDLW
+Lens,Gazélec Ajaccio,5-0,/match/lens/gazelec-ajaccio/2019,2019,11,ligue_2,20,38,0,5,0,1,23,7,2,1,14,4,LWLWDWWLDL,3,1,0,5,0,12,14,3,3,4,11,15,DLLWDWWLDL,1,2,1,5,7,WWWD,LDWD
+Gazélec Ajaccio,Béziers,0-1,/match/gazelec-ajaccio/beziers/2019,2019,12,ligue_2,20,38,2,0,1,14,14,3,3,5,11,20,DLLWDWWLDLW,2,1,3,6,8,18,10,3,2,6,8,13,LLLWDWLWDLW,3,0,4,6,8,DLWWLL,LLWWWLW
+Auxerre,Paris FC,0-2,/match/auxerre/paris-sg/2019,2019,12,ligue_2,20,38,2,0,2,17,12,3,1,7,10,14,WLLWWLWDWLW,2,1,3,6,7,6,22,4,5,2,9,8,DWDWWWDWDWD,0,4,2,2,7,LWLDLW,DDWDDW
+Chateauroux,Ajaccio,2-2,/match/berrichonne-chateauroux/ajaccio/2019,2019,12,ligue_2,20,38,1,2,2,12,14,2,5,4,7,14,DLDDDWWWWLD,2,1,2,5,6,11,15,3,3,5,10,14,LLLWDWDDWWW,1,1,3,2,7,LDWWL,LWWDW
+Grenoble,Troyes,0-2,/match/grenoble-foot-38/troyes/2019,2019,12,ligue_2,20,38,2,0,2,4,23,6,2,3,14,11,WDWWDWWLLWL,4,1,1,8,4,15,13,4,1,6,10,11,LLLWLWWDWLL,2,1,2,5,5,WWDWLW,LWWDL
+Lorient,Metz,0-0,/match/lorient/metz/2019,2019,12,ligue_2,20,38,1,0,0,5,23,6,3,2,18,9,DLLWDWLDWWW,3,2,0,8,2,3,26,9,0,2,24,9,LWLWLWLWLLW,5,0,1,11,6,DWWDW,LLLLWL
+Red Star,Orléans,0-4,/match/red-star/orleans/2019,2019,12,ligue_2,20,38,2,0,4,19,10,2,2,7,9,17,LWLDWWLWLWD,2,0,4,6,9,7,21,6,1,4,15,14,LWLDWWWLWLW,2,1,2,6,9,LLWLLW,WDWLL
+Sochaux,Niort,0-3,/match/sochaux/chamois-niortais/2019,2019,12,ligue_2,20,38,2,0,3,16,13,4,1,6,9,11,WLLWWWWLDLL,2,0,3,4,4,8,19,5,2,4,13,13,LWWDLWWLDWW,2,1,3,4,8,LWWLL,LWLWDW
+Valenciennes,Nancy,1-1,/match/valenciennes-afc/nancy/2019,2019,12,ligue_2,20,38,1,1,1,13,14,3,2,6,14,21,WLDWDLWWWLW,2,2,2,9,10,20,4,1,1,9,3,17,LWLWLWLLDWL,1,0,4,2,8,WDDLWL,WWWLW
+Le Havre,Lens,2-1,/match/havre-ac/lens/2019,2019,12,ligue_2,20,38,0,2,1,10,17,4,4,3,12,10,DDLDWWLDLLW,1,3,1,7,6,1,27,8,2,1,19,4,LWLWDWWLDLW,4,1,1,9,4,DDWDL,LLDWLL
+Clermont,Stade Brestois,2-2,/match/clermont-foot/stade-brestois-29/2019,2019,12,ligue_2,20,38,1,2,2,9,18,3,5,3,12,9,DWLDWLWDDWD,2,3,1,6,4,2,26,8,1,2,23,11,LLDWWLWLWLW,4,0,1,9,5,DLWWDD,LWLLL
+Ajaccio,Gazélec Ajaccio,1-2,/match/ajaccio/gazelec-ajaccio/2019,2019,13,ligue_2,20,38,2,1,2,12,16,3,4,5,12,16,LLLWDWDDWWWD,2,2,2,8,7,15,14,3,3,6,11,21,DLLWDWWLDLWL,1,2,2,5,12,LLDDWW,LDWDW
+Stade Brestois,Red Star,1-1,/match/stade-brestois-29/red-star/2019,2019,13,ligue_2,20,38,1,1,1,3,27,8,2,2,25,13,LLDWWLWLWLWD,4,1,1,14,6,19,10,2,2,8,9,21,LWLDWWLWLWDL,0,2,3,3,8,LDWWWW,WDWWD
+Nancy,Clermont,0-1,/match/nancy/clermont-foot/2019,2019,13,ligue_2,20,38,2,0,1,20,5,1,2,9,4,18,LWLWLWLLDWLD,0,1,5,1,9,10,20,3,6,3,14,11,DWLDWLWDDWDD,1,2,2,6,5,LLLLDL,WDLDW
+Paris FC,Sochaux,0-0,/match/paris-sg/sochaux/2019,2019,13,ligue_2,20,38,1,0,0,5,24,5,5,2,11,8,DWDWWWDWDWDL,4,1,0,7,1,16,13,4,1,7,9,14,WLLWWWWLDLLL,2,1,3,5,7,WWWWD,WLWWDL
+Béziers,Lorient,0-1,/match/beziers/lorient/2019,2019,13,ligue_2,20,38,2,0,1,18,12,4,2,6,9,13,LLLWDWLWDLWL,0,2,2,2,5,4,25,6,4,2,18,9,DLLWDWLDWWWD,3,1,2,10,7,LDLD,LLDLWW
+Lens,Chateauroux,0-1,/match/lens/berrichonne-chateauroux/2019,2019,13,ligue_2,20,38,2,0,1,1,27,8,2,2,20,6,LWLWDWWLDLWW,4,1,0,10,0,13,16,2,6,4,9,16,DLDDDWWWWLDD,0,4,2,2,8,WWWDW,DDDWWD
+Niort,Le Havre,1-0,/match/chamois-niortais/havre-ac/2019,2019,13,ligue_2,20,38,0,1,0,8,21,6,2,4,16,13,LWWDLWWLDWWL,3,1,1,9,5,9,21,5,4,3,14,11,DDLDWWLDLLWW,3,1,2,5,4,WDWLW,DLWLLW
+Orléans,Grenoble,0-3,/match/orleans/grenoble-foot-38/2019,2019,13,ligue_2,20,38,2,0,3,7,23,7,1,4,19,14,LWLDWWWLWLWL,4,0,2,9,5,6,23,6,2,4,14,13,WDWWDWWLLWLL,2,1,2,6,7,LLWWWW,DWWLL
+Troyes,Valenciennes,4-2,/match/troyes/valenciennes-afc/2019,2019,13,ligue_2,20,38,0,4,2,14,15,5,1,6,12,11,LLLWLWWDWLLL,2,0,4,5,6,11,16,3,3,6,15,22,WLDWDLWWWLWD,1,0,4,5,11,LLLWWL,LWWWW
+Metz,Auxerre,0-1,/match/metz/auxerre/2019,2019,13,ligue_2,20,38,2,0,1,2,27,9,1,2,24,9,LWLWLWLWLLWD,4,0,1,13,3,17,12,3,1,8,10,16,WLLWWLWDWLWL,1,0,4,4,7,WWWLW,WLWWW
+Gazélec Ajaccio,Troyes,2-1,/match/gazelec-ajaccio/troyes/2019,2019,14,ligue_2,20,38,0,2,1,13,16,4,3,6,13,22,DLLWDWWLDLWLL,2,1,4,6,9,11,19,6,1,6,16,13,LLLWLWWDWLLLW,3,1,2,7,5,DLWWLLL,LWWDLL
+Auxerre,Niort,0-0,/match/auxerre/chamois-niortais/2019,2019,14,ligue_2,20,38,1,0,0,17,14,4,1,8,11,16,WLLWWLWDWLWLL,2,1,4,6,9,7,25,7,2,4,17,13,LWWDLWWLDWWLW,3,1,3,7,8,LWLDLWL,LWLWDWL
+Chateauroux,Metz,1-2,/match/berrichonne-chateauroux/metz/2019,2019,14,ligue_2,20,38,2,1,2,12,18,3,6,4,10,16,DLDDDWWWWLDDL,2,2,2,7,8,4,27,9,1,3,24,10,LWLWLWLWLLWDL,5,1,1,11,6,LDWWLD,LLLLWLD
+Clermont,Orléans,3-0,/match/clermont-foot/orleans/2019,2019,14,ligue_2,20,38,0,3,0,9,22,4,6,3,15,11,DWLDWLWDDWDDL,2,4,1,8,6,8,23,7,1,5,19,17,LWLDWWWLWLWLL,3,1,2,10,9,DLWWDDD,WDWLLL
+Grenoble,Ajaccio,2-0,/match/grenoble-foot-38/ajaccio/2019,2019,14,ligue_2,20,38,0,2,0,6,25,7,2,4,17,13,WDWWDWWLLWLLL,4,1,2,8,6,15,16,3,4,6,13,18,LLLWDWDDWWWDL,1,2,3,4,9,WWDWLWL,LWWDWD
+Le Havre,Sochaux,3-2,/match/havre-ac/sochaux/2019,2019,14,ligue_2,20,38,0,3,2,10,21,5,4,4,14,12,DDLDWWLDLLWWW,2,3,1,9,7,16,14,4,2,7,9,14,WLLWWWWLDLLLD,2,2,3,5,7,DDWDLW,WLWWDLD
+Lorient,Paris FC,2-1,/match/lorient/paris-sg/2019,2019,14,ligue_2,20,38,0,2,1,3,27,7,4,2,19,9,DLLWDWLDWWWDL,3,3,0,8,2,5,26,5,6,2,11,8,DWDWWWDWDWDLD,1,4,2,4,7,DWWDWD,DDWDDWL
+Red Star,Béziers,0-3,/match/red-star/beziers/2019,2019,14,ligue_2,20,38,2,0,3,19,11,2,3,8,10,22,LWLDWWLWLWDLD,2,0,5,6,13,18,12,4,2,7,9,14,LLLWDWLWDLWLL,4,0,4,7,8,LLWLLWL,LLWWWLWL
+Valenciennes,Lens,4-2,/match/valenciennes-afc/lens/2019,2019,14,ligue_2,20,38,0,4,2,14,16,3,3,7,17,26,WLDWDLWWWLWDW,2,3,2,10,11,2,27,8,2,3,20,7,LWLWDWWLDLWWL,4,1,2,10,6,WDDLWLD,LLDWLLW
+Stade Brestois,Nancy,2-1,/match/stade-brestois-29/nancy/2019,2019,14,ligue_2,20,38,0,2,1,1,29,8,3,2,26,14,LLDWWLWLWLWDD,4,2,1,15,7,20,5,1,2,10,4,19,LWLWLWLLDWLDL,1,1,4,3,9,LDWWWWD,WWWLWD
+Ajaccio,Clermont,0-0,/match/ajaccio/clermont-foot/2019,2019,15,ligue_2,20,38,1,0,0,15,16,3,4,7,13,20,LLLWDWDDWWWDLW,2,2,3,9,9,8,26,5,6,3,18,11,DWLDWLWDDWDDLW,2,2,2,7,5,LLDDWWL,WDLDWL
+Béziers,Valenciennes,1-1,/match/beziers/valenciennes-afc/2019,2019,15,ligue_2,20,38,1,1,1,18,14,5,2,7,12,14,LLLWDWLWDLWLLL,0,2,3,2,6,12,20,4,3,7,21,28,WLDWDLWWWLWDWW,1,0,5,7,15,LDLDL,LWWWWW
+Nancy,Red Star,1-0,/match/nancy/red-star/2019,2019,15,ligue_2,20,38,0,1,0,20,5,1,2,11,5,21,LWLWLWLLDWLDLW,0,1,6,1,10,19,11,2,3,9,10,25,LWLDWWLWLWDLDL,0,3,3,4,9,LLLLDLL,WDWWDD
+Niort,Chateauroux,0-1,/match/chamois-niortais/berrichonne-chateauroux/2019,2019,15,ligue_2,20,38,2,0,1,7,26,7,3,4,17,13,LWWDLWWLDWWLWD,4,1,1,10,5,14,18,3,6,5,11,18,DLDDDWWWWLDDLL,1,4,2,3,8,WDWLWW,DDDWWDL
+Orléans,Stade Brestois,0-0,/match/orleans/stade-brestois-29/2019,2019,15,ligue_2,20,38,1,0,0,10,23,7,1,6,19,20,LWLDWWWLWLWLLW,4,0,3,9,8,1,33,9,3,2,28,15,LLDWWLWLWLWDDW,4,1,1,11,7,LLWWWWL,LWLLLD
+Paris FC,Le Havre,1-0,/match/paris-sg/havre-ac/2019,2019,15,ligue_2,20,38,0,1,0,6,26,5,6,3,12,10,DWDWWWDWDWDLDW,4,2,0,7,1,9,25,6,4,4,17,14,DDLDWWLDLLWWWW,3,1,3,5,5,WWWWDD,DLWLLWW
+Sochaux,Auxerre,1-4,/match/sochaux/auxerre/2019,2019,15,ligue_2,20,38,2,1,4,17,14,4,2,8,11,17,WLLWWWWLDLLLDW,2,0,4,4,7,16,16,4,2,8,11,16,WLLWWLWDWLWLLD,2,0,4,5,7,LWWLLL,WLWWWL
+Troyes,Lorient,2-0,/match/troyes/lorient/2019,2019,15,ligue_2,20,38,0,2,0,13,19,6,1,7,17,15,LLLWLWWDWLLLWW,3,0,4,9,8,2,31,8,4,2,21,10,DLLWDWLDWWWDLW,4,1,2,11,7,LLLWWLW,LLDLWWL
+Lens,Grenoble,0-0,/match/lens/grenoble-foot-38/2019,2019,15,ligue_2,20,38,1,0,0,5,27,8,2,4,22,11,LWLWDWWLDLWWLW,4,1,1,10,1,4,29,8,2,4,19,13,WDWWDWWLLWLLLW,3,1,2,9,7,WWWDWL,DWWLLL
+Metz,Gazélec Ajaccio,1-0,/match/metz/gazelec-ajaccio/2019,2019,15,ligue_2,20,38,0,1,0,3,29,10,1,3,26,11,LWLWLWLWLLWDLL,4,0,2,13,4,11,20,5,3,6,15,23,DLLWDWWLDLWLLW,2,2,2,7,13,WWWLWL,LDWDWL
+Gazélec Ajaccio,Niort,0-1,/match/gazelec-ajaccio/chamois-niortais/2019,2019,16,ligue_2,20,38,2,0,1,14,20,5,3,7,15,24,DLLWDWWLDLWLLWW,3,1,4,8,10,8,26,7,3,5,17,14,LWWDLWWLDWWLWDL,3,2,3,7,8,DLWWLLLW,LWLWDWLD
+Stade Brestois,Ajaccio,2-0,/match/stade-brestois-29/ajaccio/2019,2019,16,ligue_2,20,38,0,2,0,1,34,9,4,2,28,15,LLDWWLWLWLWDDWD,5,2,1,17,8,15,18,3,5,7,13,20,LLLWDWDDWWWDLWD,1,2,4,4,11,LDWWWWDW,LWWDWDW
+Chateauroux,Sochaux,1-0,/match/berrichonne-chateauroux/sochaux/2019,2019,16,ligue_2,20,38,0,1,0,13,20,4,6,5,12,18,DLDDDWWWWLDDLLL,2,2,3,8,10,18,14,4,2,9,12,21,WLLWWWWLDLLLDWL,2,2,4,7,10,LDWWLDL,WLWWDLDW
+Clermont,Béziers,2-0,/match/clermont-foot/beziers/2019,2019,16,ligue_2,20,38,0,2,0,7,27,5,7,3,18,11,DWLDWLWDDWDDLWD,3,4,1,11,6,17,16,5,3,7,13,15,LLLWDWLWDLWLLLD,5,0,4,10,8,DLWWDDDW,LLWWWLWLL
+Le Havre,Auxerre,1-1,/match/havre-ac/auxerre/2019,2019,16,ligue_2,20,38,1,1,1,9,25,6,4,5,17,15,DDLDWWLDLLWWWWW,3,3,1,12,9,16,18,5,2,8,15,17,WLLWWLWDWLWLLDL,3,0,4,9,8,DDWDLWW,WLWWWLL
+Lorient,Lens,2-2,/match/lorient/lens/2019,2019,16,ligue_2,20,38,1,2,2,3,31,8,4,3,21,12,DLLWDWLDWWWDLWW,4,3,0,10,3,6,29,8,3,4,22,11,LWLWDWWLDLWWLWD,4,1,3,12,10,DWWDWDW,LLDWLLWW
+Orléans,Nancy,1-2,/match/orleans/nancy/2019,2019,16,ligue_2,20,38,2,1,2,10,25,7,2,6,19,20,LWLDWWWLWLWLLWD,4,1,3,9,8,20,9,2,2,11,6,21,LWLWLWLLDWLDLWW,1,1,5,4,11,LLWWWWLD,WWWLWDW
+Red Star,Troyes,0-3,/match/red-star/troyes/2019,2019,16,ligue_2,20,38,2,0,3,19,11,2,3,10,10,26,LWLDWWLWLWDLDLW,2,0,6,6,16,11,23,7,1,7,19,15,LLLWLWWDWLLLWWW,3,1,3,8,7,LLWLLWLL,LWWDLLW
+Valenciennes,Paris FC,0-0,/match/valenciennes-afc/paris-sg/2019,2019,16,ligue_2,20,38,1,0,0,12,21,4,4,7,22,29,WLDWDLWWWLWDWWD,3,3,2,14,13,5,30,6,6,3,13,10,DWDWWWDWDWDLDWW,1,4,3,5,9,WDDLWLDW,DDWDDWLW
+Grenoble,Metz,1-1,/match/grenoble-foot-38/metz/2019,2019,16,ligue_2,20,38,1,1,1,4,30,8,3,4,19,13,WDWWDWWLLWLLLWD,5,1,2,10,6,2,33,11,1,3,27,11,LWLWLWLWLLWDLLW,6,1,1,13,7,WWDWLWLW,LLLLWLDL
+Auxerre,Lorient,0-0,/match/auxerre/lorient/2019,2019,17,ligue_2,20,38,1,0,0,15,19,5,3,8,16,18,WLLWWLWDWLWLLDLD,2,2,4,6,9,3,33,8,5,3,23,14,DLLWDWLDWWWDLWWD,4,1,3,11,9,LWLDLWLD,LLDLWWLW
+Ajaccio,Nancy,1-1,/match/ajaccio/nancy/2019,2019,17,ligue_2,20,38,1,1,1,16,18,3,5,8,13,22,LLLWDWDDWWWDLWDW,2,3,3,9,9,20,11,3,2,11,8,22,LWLWLWLLDWLDLWWL,2,1,5,6,12,LLDDWWLD,WWWLWDWL
+Béziers,Grenoble,0-3,/match/beziers/grenoble-foot-38/2019,2019,17,ligue_2,20,38,2,0,3,17,16,5,3,8,13,17,LLLWDWLWDLWLLLDW,0,3,3,3,7,4,32,8,4,4,20,14,WDWWDWWLLWLLLWDD,3,2,2,9,7,LDLDLD,DWWLLLD
+Le Havre,Chateauroux,2-1,/match/havre-ac/berrichonne-chateauroux/2019,2019,17,ligue_2,20,38,0,2,1,9,27,6,5,5,18,16,DDLDWWLDLLWWWWWD,3,4,1,13,10,12,24,5,6,5,13,18,DLDDDWWWWLDDLLLW,2,4,2,4,8,DDWDLWWD,DDDWWDLL
+Lens,Stade Brestois,2-1,/match/lens/stade-brestois-29/2019,2019,17,ligue_2,20,38,0,2,1,7,30,8,4,4,24,13,LWLWDWWLDLWWLWDD,4,2,1,10,1,1,38,10,4,2,30,15,LLDWWLWLWLWDDWDW,4,2,1,11,7,WWWDWLD,LWLLLDD
+Metz,Red Star,2-0,/match/metz/red-star/2019,2019,17,ligue_2,20,38,0,2,0,2,34,11,2,3,28,12,LWLWLWLWLLWDLLWD,5,0,2,14,4,19,11,2,3,11,10,29,LWLDWWLWLWDLDLWL,0,3,4,4,10,WWWLWLW,WDWWDDW
+Niort,Valenciennes,1-0,/match/chamois-niortais/valenciennes-afc/2019,2019,17,ligue_2,20,38,0,1,0,8,28,8,3,5,18,14,LWWDLWWLDWWLWDLL,4,1,2,10,6,13,23,4,5,7,22,29,WLDWDLWWWLWDWWDD,1,1,5,8,16,WDWLWWL,LWWWWWD
+Paris FC,Clermont,3-0,/match/paris-sg/clermont-foot/2019,2019,17,ligue_2,20,38,0,3,0,5,31,6,7,3,13,10,DWDWWWDWDWDLDWWD,5,2,0,8,1,6,31,6,7,3,20,11,DWLDWLWDDWDDLWDW,2,3,2,7,5,WWWWDDW,WDLDWLD
+Sochaux,Gazélec Ajaccio,2-0,/match/sochaux/gazelec-ajaccio/2019,2019,17,ligue_2,20,38,0,2,0,18,14,4,2,10,12,22,WLLWWWWLDLLLDWLW,2,0,5,5,11,14,20,5,3,8,15,25,DLLWDWWLDLWLLWWL,2,2,3,7,14,LWWLLLL,LDWDWLW
+Troyes,Orléans,3-2,/match/troyes/orleans/2019,2019,17,ligue_2,20,38,0,3,2,10,25,8,1,7,22,15,LLLWLWWDWLLLWWWL,4,0,4,11,8,11,25,7,2,7,20,22,LWLDWWWLWLWLLWDL,3,1,3,10,12,LLLWWLWW,WDWLLLW
+Gazélec Ajaccio,Le Havre,1-1,/match/gazelec-ajaccio/havre-ac/2019,2019,18,ligue_2,20,38,1,1,1,15,20,5,3,9,15,27,DLLWDWWLDLWLLWWLW,3,1,5,8,11,9,31,7,5,5,20,17,DDLDWWLDLLWWWWWDW,3,1,4,5,6,DLWWLLLWL,DLWLLWWW
+Stade Brestois,Béziers,3-0,/match/stade-brestois-29/beziers/2019,2019,18,ligue_2,20,38,0,3,0,1,38,10,4,3,31,17,LLDWWLWLWLWDDWDWW,6,2,1,19,8,18,16,5,3,9,13,20,LLLWDWLWDLWLLLDWL,5,0,5,10,10,LDWWWWDWW,LLWWWLWLLW
+Chateauroux,Auxerre,0-0,/match/berrichonne-chateauroux/auxerre/2019,2019,18,ligue_2,20,38,1,0,0,12,24,5,6,6,14,20,DLDDDWWWWLDDLLLWW,3,2,3,9,10,14,21,5,4,8,16,18,WLLWWLWDWLWLLDLDD,3,1,4,10,9,LDWWLDLW,WLWWWLLD
+Grenoble,Paris FC,0-1,/match/grenoble-foot-38/paris-sg/2019,2019,18,ligue_2,20,38,2,0,1,5,34,9,4,4,23,14,WDWWDWWLLWLLLWDDL,5,2,2,11,7,3,35,7,7,3,16,10,DWDWWWDWDWDLDWWDW,1,5,3,5,9,WWDWLWLWD,DDWDDWLWD
+Lorient,Niort,1-1,/match/lorient/chamois-niortais/2019,2019,18,ligue_2,20,38,1,1,1,4,34,8,6,3,23,14,DLLWDWLDWWWDLWWDD,4,4,0,12,5,7,32,9,3,5,19,14,LWWDLWWLDWWLWDLLW,4,2,3,8,8,DWWDWDWD,LWLWDWLDL
+Nancy,Troyes,1-1,/match/nancy/troyes/2019,2019,18,ligue_2,20,38,1,1,1,19,12,3,3,11,9,23,LWLWLWLLDWLDLWWLD,1,1,6,2,10,10,29,9,1,7,25,17,LLLWLWWDWLLLWWWLW,4,1,3,11,7,LLLLDLLW,LWWDLLWL
+Orléans,Ajaccio,1-3,/match/orleans/ajaccio/2019,2019,18,ligue_2,20,38,2,1,3,11,25,7,2,8,22,25,LWLDWWWLWLWLLWDLW,4,1,4,10,10,16,20,3,6,8,14,23,LLLWDWDDWWWDLWDWD,1,2,5,4,13,LLWWWWLDL,LWWDWDWW
+Red Star,Sochaux,3-0,/match/red-star/sochaux/2019,2019,18,ligue_2,20,38,0,3,0,20,11,2,3,12,10,31,LWLDWWLWLWDLDLWLW,2,0,7,6,19,17,18,5,2,10,14,22,WLLWWWWLDLLLDWLWW,2,2,5,7,11,LLWLLWLLL,WLWWDLDWW
+Clermont,Lens,0-0,/match/clermont-foot/lens/2019,2019,18,ligue_2,20,38,1,0,0,8,31,6,7,4,20,14,DWLDWLWDDWDDLWDWW,4,4,1,13,6,6,34,9,4,4,26,14,LWLWDWWLDLWWLWDDW,4,2,3,14,12,DLWWDDDWW,LLDWLLWWD
+Valenciennes,Metz,0-2,/match/valenciennes-afc/metz/2019,2019,18,ligue_2,20,38,2,0,2,13,23,4,5,8,22,30,WLDWDLWWWLWDWWDDW,3,4,2,14,13,2,38,12,2,3,30,12,LWLWLWLWLLWDLLWDW,6,2,1,14,8,WDDLWLDWD,LLLLWLDLD
+Auxerre,Grenoble,4-0,/match/auxerre/grenoble-foot-38/2019,2019,19,ligue_2,20,38,0,4,0,14,22,5,5,8,16,18,WLLWWLWDWLWLLDLDDD,2,3,4,6,9,6,34,9,4,5,23,15,WDWWDWWLLWLLLWDDLL,4,2,2,12,7,LWLDLWLDD,DWWLLLDL
+Béziers,Orléans,1-2,/match/beziers/orleans/2019,2019,19,ligue_2,20,38,2,1,2,18,16,5,3,10,13,23,LLLWDWLWDLWLLLDWLW,0,3,4,3,10,12,25,7,2,9,23,28,LWLDWWWLWLWLLWDLWL,3,1,4,12,15,LDLDLDL,WDWLLLWW
+Chateauroux,Gazélec Ajaccio,0-1,/match/berrichonne-chateauroux/gazelec-ajaccio/2019,2019,19,ligue_2,20,38,2,0,1,11,26,5,7,6,14,20,DLDDDWWWWLDDLLLWWD,3,3,3,9,10,15,22,5,4,9,16,28,DLLWDWWLDLWLLWWLWD,2,2,4,7,16,LDWWLDLWD,LDWDWLWW
+Niort,Stade Brestois,1-1,/match/chamois-niortais/stade-brestois-29/2019,2019,19,ligue_2,20,38,1,1,1,7,33,9,4,5,20,15,LWWDLWWLDWWLWDLLWD,5,1,2,11,6,1,42,11,4,3,34,17,LLDWWLWLWLWDDWDWWW,4,2,2,12,9,WDWLWWLW,LWLLLDDW
+Paris FC,Red Star,1-1,/match/paris-sg/red-star/2019,2019,19,ligue_2,20,38,1,1,1,3,37,8,7,3,17,10,DWDWWWDWDWDLDWWDWL,6,2,0,11,1,19,15,3,3,12,13,31,LWLDWWLWLWDLDLWLWW,0,3,5,4,12,WWWWDDWW,WDWWDDWW
+Troyes,Clermont,0-1,/match/troyes/clermont-foot/2019,2019,19,ligue_2,20,38,2,0,1,10,30,9,2,7,26,18,LLLWLWWDWLLLWWWLWD,5,0,4,14,10,8,33,6,8,4,20,14,DWLDWLWDDWDDLWDWWD,2,3,3,7,8,LLLWWLWWW,WDLDWLDW
+Lens,Ajaccio,1-2,/match/lens/ajaccio/2019,2019,19,ligue_2,20,38,2,1,2,5,35,9,5,4,26,14,LWLWDWWLDLWWLWDDWD,5,2,1,12,2,16,22,4,6,8,17,24,LLLWDWDDWWWDLWDWDL,2,2,5,7,14,WWWDWLDW,LWWDWDWWL
+Sochaux,Lorient,1-0,/match/sochaux/lorient/2019,2019,19,ligue_2,20,38,0,1,0,17,18,5,2,11,14,25,WLLWWWWLDLLLDWLWWW,3,0,5,7,11,4,36,8,7,3,24,15,DLLWDWLDWWWDLWWDDD,4,2,3,11,9,LWWLLLLW,LLDLWWLWD
+Le Havre,Valenciennes,4-3,/match/havre-ac/valenciennes-afc/2019,2019,19,ligue_2,20,38,0,4,3,9,32,7,6,5,21,18,DDLDWWLDLLWWWWWDWD,4,4,1,15,11,13,23,4,5,9,22,32,WLDWDLWWWLWDWWDDWL,1,1,6,8,17,DDWDLWWDW,LWWWWWDW
+Metz,Nancy,3-0,/match/metz/nancy/2019,2019,19,ligue_2,20,38,0,3,0,2,40,13,2,3,32,12,LWLWLWLWLLWDLLWDWL,6,0,2,16,4,20,14,3,4,11,10,24,LWLWLWLLDWLDLWWLDD,2,2,5,7,13,WWWLWLWW,WWWLWDWLD
+Ajaccio,Béziers,2-1,/match/ajaccio/beziers/2019,2019,20,ligue_2,20,38,0,2,1,15,24,5,6,8,19,25,LLLWDWDDWWWDLWDWDLL,2,4,3,10,10,18,16,5,3,11,14,25,LLLWDWLWDLWLLLDWLWL,5,0,6,10,13,LLDDWWLDD,LLWWWLWLLWW
+Gazélec Ajaccio,Auxerre,0-4,/match/gazelec-ajaccio/auxerre/2019,2019,20,ligue_2,20,38,2,0,4,14,24,6,4,9,17,28,DLLWDWWLDLWLLWWLWDL,3,2,5,9,12,12,26,6,5,8,20,18,WLLWWLWDWLWLLDLDDDW,3,2,4,10,9,DLWWLLLWLD,WLWWWLLDD
+Clermont,Niort,3-2,/match/clermont-foot/chamois-niortais/2019,2019,20,ligue_2,20,38,0,3,2,8,35,7,8,4,21,14,DWLDWLWDDWDDLWDWWDL,4,5,1,13,6,7,35,9,5,5,21,16,LWWDLWWLDWWLWDLLWDD,4,3,3,9,9,DLWWDDDWWD,LWLWDWLDLD
+Lorient,Chateauroux,2-1,/match/lorient/berrichonne-chateauroux/2019,2019,20,ligue_2,20,38,0,2,1,4,36,8,7,4,24,16,DLLWDWLDWWWDLWWDDDW,4,5,0,13,6,13,26,5,7,7,14,21,DLDDDWWWWLDDLLLWWDL,2,4,3,5,10,DWWDWDWDD,DDDWWDLLW
+Nancy,Paris FC,1-2,/match/nancy/paris-sg/2019,2019,20,ligue_2,20,38,2,1,2,20,14,3,4,12,10,27,LWLWLWLLDWLDLWWLDDW,1,2,6,3,11,3,39,8,8,3,18,11,DWDWWWDWDWDLDWWDWLD,2,5,3,6,9,LLLLDLLWD,DDWDDWLWDL
+Orléans,Metz,0-1,/match/orleans/metz/2019,2019,20,ligue_2,20,38,2,0,1,11,27,8,2,9,25,29,LWLDWWWLWLWLLWDLWLL,4,1,5,11,13,1,44,14,2,3,35,12,LWLWLWLWLLWDLLWDWLW,7,2,1,16,8,LLWWWWLDLL,LLLLWLDLDL
+Valenciennes,Sochaux,1-0,/match/valenciennes-afc/sochaux/2019,2019,20,ligue_2,20,38,0,1,0,16,23,4,5,10,25,36,WLDWDLWWWLWDWWDDWLW,3,4,3,14,15,17,22,6,2,11,15,25,WLLWWWWLDLLLDWLWWWW,2,2,6,7,14,WDDLWLDWDL,WLWWDLDWWW
+Stade Brestois,Troyes,1-1,/match/stade-brestois-29/troyes/2019,2019,20,ligue_2,20,38,1,1,1,2,43,11,5,3,35,18,LLDWWLWLWLWDDWDWWWD,7,2,1,22,8,10,30,9,2,8,26,19,LLLWLWWDWLLLWWWLWDL,4,2,3,12,8,LDWWWWDWWW,LWWDLLWLD
+Grenoble,Le Havre,0-0,/match/grenoble-foot-38/havre-ac/2019,2019,20,ligue_2,20,38,1,0,0,9,34,9,4,6,23,19,WDWWDWWLLWLLLWDDLLW,5,2,3,11,8,5,36,8,6,5,25,21,DDLDWWLDLLWWWWWDWDW,3,2,4,6,7,WWDWLWLWDL,DLWLLWWWD
+Red Star,Lens,1-0,/match/red-star/lens/2019,2019,20,ligue_2,20,38,0,1,0,19,16,3,4,12,14,32,LWLDWWLWLWDLDLWLWWD,3,0,7,9,19,6,35,9,5,5,27,16,LWLWDWWLDLWWLWDDWDL,4,3,3,14,12,LLWLLWLLLW,LLDWLLWWDD
+Auxerre,Orléans,3-0,/match/auxerre/orleans/2019,2019,21,ligue_2,20,38,0,3,0,12,28,7,5,8,24,18,WLLWWLWDWLWLLDLDDDWL,3,3,4,10,9,14,27,8,2,10,25,30,LWLDWWWLWLWLLWDLWLLL,4,1,4,14,16,LWLDLWLDDW,WDWLLLWWL
+Béziers,Troyes,0-0,/match/beziers/troyes/2019,2019,21,ligue_2,20,38,1,0,0,19,16,5,3,12,15,27,LLLWDWLWDLWLLLDWLWLW,0,3,5,4,12,10,31,9,3,8,27,20,LLLWLWWDWLLLWWWLWDLD,4,3,3,13,9,LDLDLDLL,LWWDLLWLDD
+Chateauroux,Valenciennes,1-1,/match/berrichonne-chateauroux/valenciennes-afc/2019,2019,21,ligue_2,20,38,1,1,1,15,26,5,7,8,15,23,DLDDDWWWWLDDLLLWWDLW,3,3,4,9,11,13,27,5,5,10,26,36,WLDWDLWWWLWDWWDDWLWW,1,1,7,11,21,LDWWLDLWDL,LWWWWWDWW
+Lorient,Gazélec Ajaccio,0-1,/match/lorient/gazelec-ajaccio/2019,2019,21,ligue_2,20,38,2,0,1,4,40,9,7,4,26,17,DLLWDWLDWWWDLWWDDDWW,5,5,0,15,7,16,24,6,4,10,17,32,DLLWDWWLDLWLLWWLWDLL,3,2,4,8,16,DWWDWDWDDW,LDWDWLWWL
+Metz,Clermont,1-2,/match/metz/clermont-foot/2019,2019,21,ligue_2,20,38,2,1,2,1,46,15,2,3,36,12,LWLWLWLWLLWDLLWDWLWL,7,0,2,19,4,5,39,8,8,4,24,16,DWLDWLWDDWDDLWDWWDLW,3,3,3,8,8,WWWLWLWWW,WDLDWLDWL
+Sochaux,Ajaccio,0-0,/match/sochaux/ajaccio/2019,2019,21,ligue_2,20,38,1,0,0,17,22,6,2,12,15,26,WLLWWWWLDLLLDWLWWWWW,4,0,5,8,11,11,28,6,6,8,21,26,LLLWDWDDWWWDLWDWDLLW,3,2,5,9,15,LWWLLLLWW,LWWDWDWWLL
+Lens,Nancy,2-1,/match/lens/nancy/2019,2019,21,ligue_2,20,38,0,2,1,8,35,9,5,6,27,17,LWLWDWWLDLWWLWDDWDLW,5,2,2,13,4,20,14,3,4,13,11,29,LWLWLWLLDWLDLWWLDDWL,2,2,6,7,16,WWWDWLDWL,WWWLWDWLDW
+Niort,Grenoble,1-1,/match/chamois-niortais/grenoble-foot-38/2019,2019,21,ligue_2,20,38,1,1,1,9,35,9,5,6,23,19,LWWDLWWLDWWLWDLLWDDW,5,2,2,12,7,7,36,9,5,6,23,19,WDWWDWWLLWLLLWDDLLWD,4,2,3,12,11,WDWLWWLWD,DWWLLLDLW
+Paris FC,Stade Brestois,0-1,/match/paris-sg/stade-brestois-29/2019,2019,21,ligue_2,20,38,2,0,1,3,41,9,8,3,20,12,DWDWWWDWDWDLDWWDWLDL,6,3,0,12,2,2,45,11,6,3,36,19,LLDWWLWLWLWDDWDWWWDD,4,3,2,13,10,WWWWDDWWD,LWLLLDDWD
+Le Havre,Red Star,1-0,/match/havre-ac/red-star/2019,2019,21,ligue_2,20,38,0,1,0,6,37,8,7,5,25,21,DDLDWWLDLLWWWWWDWDWD,5,4,1,19,14,18,20,4,4,12,15,32,LWLDWWLWLWDLDLWLWWDW,0,4,5,5,13,DDWDLWWDWW,WDWWDDWWD
+Ajaccio,Metz,0-0,/match/ajaccio/metz/2019,2019,22,ligue_2,20,38,1,0,0,12,29,6,7,8,21,26,LLLWDWDDWWWDLWDWDLLWD,3,4,3,12,11,2,46,15,2,4,37,14,LWLWLWLWLLWDLLWDWLWLL,8,2,1,17,8,LLDDWWLDDW,LLLLWLDLDLL
+Grenoble,Gazélec Ajaccio,1-1,/match/grenoble-foot-38/gazelec-ajaccio/2019,2019,22,ligue_2,20,38,1,1,1,8,37,9,6,6,24,20,WDWWDWWLLWLLLWDDLLWDD,5,3,3,11,8,16,26,7,4,10,18,32,DLLWDWWLDLWLLWWLWDLLL,4,2,4,9,16,WWDWLWLWDLD,LDWDWLWWLL
+Nancy,Auxerre,1-0,/match/nancy/auxerre/2019,2019,22,ligue_2,20,38,0,1,0,20,14,3,4,14,12,31,LWLWLWLLDWLDLWWLDDWLW,1,2,7,4,13,10,32,8,5,8,27,18,WLLWWLWDWLWLLDLDDDWLW,4,2,4,14,9,LLLLDLLWDL,WLWWWLLDDL
+Red Star,Chateauroux,1-3,/match/red-star/berrichonne-chateauroux/2019,2019,22,ligue_2,20,38,2,1,3,18,20,4,4,13,15,33,LWLDWWLWLWDLDLWLWWDWW,4,0,7,10,19,14,28,5,8,8,16,24,DLDDDWWWWLDDLLLWWDLWD,2,4,4,6,12,LLWLLWLLLWW,DDDWWDLLWW
+Valenciennes,Lorient,1-2,/match/valenciennes-afc/lorient/2019,2019,22,ligue_2,20,38,2,1,2,13,28,5,6,10,27,37,WLDWDLWWWLWDWWDDWLWWD,4,4,3,15,15,6,40,9,7,5,26,18,DLLWDWLDWWWDLWWDDDWWL,4,2,4,11,10,WDDLWLDWDLW,LLDLWWLWDW
+Stade Brestois,Sochaux,1-0,/match/stade-brestois-29/sochaux/2019,2019,22,ligue_2,20,38,0,1,0,1,47,12,6,3,37,19,LLDWWLWLWLWDDWDWWWDDL,7,3,1,23,9,17,24,6,3,12,15,26,WLLWWWWLDLLLDWLWWWWWD,2,2,7,7,15,LDWWWWDWWWD,WLWWDLDWWWW
+Orléans,Niort,1-0,/match/orleans/chamois-niortais/2019,2019,22,ligue_2,20,38,0,1,0,15,27,8,2,11,25,33,LWLDWWWLWLWLLWDLWLLLW,4,1,6,11,14,9,37,9,6,6,24,20,LWWDLWWLDWWLWDLLWDDWD,4,3,4,11,12,LLWWWWLDLLL,LWLWDWLDLDW
+Béziers,Paris FC,0-1,/match/beziers/paris-sg/2019,2019,22,ligue_2,20,38,2,0,1,19,18,5,4,12,15,27,LLLWDWLWDLWLLLDWLWLWD,0,4,5,4,12,3,41,9,8,4,20,13,DWDWWWDWDWDLDWWDWLDLL,3,5,3,8,10,LDLDLDLLD,DDWDDWLWDLL
+Clermont,Le Havre,0-0,/match/clermont-foot/havre-ac/2019,2019,22,ligue_2,20,38,1,0,0,4,41,9,8,4,26,17,DWLDWLWDDWDDLWDWWDLWL,5,5,1,16,8,5,41,9,7,5,26,21,DDLDWWLDLLWWWWWDWDWDW,3,3,4,6,7,DLWWDDDWWDW,DLWLLWWWDD
+Troyes,Lens,1-0,/match/troyes/lens/2019,2019,22,ligue_2,20,38,0,1,0,11,32,9,4,8,27,20,LLLWLWWDWLLLWWWLWDLDD,5,0,5,14,11,7,39,10,5,6,29,18,LWLWDWWLDLWWLWDDWDLWW,4,3,4,14,13,LLLWWLWWWL,LLDWLLWWDDW
+Auxerre,Red Star,0-0,/match/auxerre/red-star/2019,2019,23,ligue_2,20,38,1,0,0,11,32,8,5,9,27,19,WLLWWLWDWLWLLDLDDDWLWW,4,3,4,13,9,18,20,4,4,14,16,36,LWLDWWLWLWDLDLWLWWDWWL,0,4,6,5,14,LWLDLWLDDWW,WDWWDDWWDW
+Chateauroux,Grenoble,2-2,/match/berrichonne-chateauroux/grenoble-foot-38/2019,2019,23,ligue_2,20,38,1,2,2,14,30,6,8,8,19,25,DLDDDWWWWLDDLLLWWDLWDL,3,4,4,10,12,8,39,9,7,6,25,21,WDWWDWWLLWLLLWDDLLWDDD,4,3,3,13,12,LDWWLDLWDLD,DWWLLLDLWD
+Le Havre,Stade Brestois,1-1,/match/havre-ac/stade-brestois-29/2019,2019,23,ligue_2,20,38,1,1,1,5,42,9,8,5,26,21,DDLDWWLDLLWWWWWDWDWDWD,6,4,1,20,14,1,51,13,6,3,38,19,LLDWWLWLWLWDDWDWWWDDLW,5,3,2,14,10,DDWDLWWDWWW,LWLLLDDWDL
+Lorient,Ajaccio,1-0,/match/lorient/ajaccio/2019,2019,23,ligue_2,20,38,0,1,0,6,42,10,7,5,28,19,DLLWDWLDWWWDLWWDDDWWLL,5,5,1,15,8,12,31,6,8,8,21,26,LLLWDWDDWWWDLWDWDLLWDD,3,3,5,9,15,DWWDWDWDDWL,LWWDWDWWLLD
+Metz,Troyes,1-1,/match/metz/troyes/2019,2019,23,ligue_2,20,38,1,1,1,2,47,15,3,4,37,14,LWLWLWLWLLWDLLWDWLWLLD,7,0,3,20,6,10,36,10,4,8,28,20,LLLWLWWDWLLLWWWLWDLDDW,4,4,3,13,9,WWWLWLWWWL,LWWDLLWLDDD
+Niort,Nancy,1-1,/match/chamois-niortais/nancy/2019,2019,23,ligue_2,20,38,1,1,1,9,37,9,6,7,24,21,LWWDLWWLDWWLWDLLWDDWDW,5,3,2,13,8,20,18,4,4,14,13,31,LWLWLWLLDWLDLWWLDDWLWW,2,2,7,8,18,WDWLWWLWDD,WWWLWDWLDWW
+Paris FC,Orléans,0-0,/match/paris-sg/orleans/2019,2019,23,ligue_2,20,38,1,0,0,3,43,10,8,4,21,13,DWDWWWDWDWDLDWWDWLDLLL,6,3,1,12,3,13,31,9,2,11,26,33,LWLDWWWLWLWLLWDLWLLLWW,4,1,5,14,19,WWWWDDWWDL,WDWLLLWWLW
+Sochaux,Clermont,2-1,/match/sochaux/clermont-foot/2019,2019,23,ligue_2,20,38,0,2,1,17,24,6,3,13,15,27,WLLWWWWLDLLLDWLWWWWWDW,4,1,5,8,11,4,43,9,9,4,26,17,DWLDWLWDDWDDLWDWWDLWLD,4,3,3,10,9,LWWLLLLWWD,WDLDWLDWLL
+Gazélec Ajaccio,Valenciennes,0-0,/match/gazelec-ajaccio/valenciennes-afc/2019,2019,23,ligue_2,20,38,1,0,0,16,27,7,5,10,19,33,DLLWDWWLDLWLLWWLWDLLLD,3,2,6,9,16,15,28,5,6,11,28,39,WLDWDLWWWLWDWWDDWLWWDL,1,2,7,12,22,DLWWLLLWLDL,LWWWWWDWWD
+Lens,Béziers,3-0,/match/lens/beziers/2019,2019,23,ligue_2,20,38,0,3,0,7,39,10,5,7,29,19,LWLWDWWLDLWWLWDDWDLWWW,6,2,2,15,5,19,18,5,4,13,15,28,LLLWDWLWDLWLLLDWLWLWDL,5,0,7,11,15,WWWDWLDWLW,LLWWWLWLLWWW
+Ajaccio,Niort,1-0,/match/ajaccio/chamois-niortais/2019,2019,24,ligue_2,20,38,0,1,0,14,31,6,8,9,21,27,LLLWDWDDWWWDLWDWDLLWDDW,3,5,3,12,11,9,39,9,7,7,25,22,LWWDLWWLDWWLWDLLWDDWDWD,4,3,5,11,13,LLDDWWLDDWD,LWLWDWLDLDWW
+Béziers,Sochaux,0-0,/match/beziers/sochaux/2019,2019,24,ligue_2,20,38,1,0,0,20,18,5,4,14,15,31,LLLWDWLWDLWLLLDWLWLWDLW,0,4,6,4,13,17,28,7,3,13,17,28,WLLWWWWLDLLLDWLWWWWWDWW,2,2,8,7,16,LDLDLDLLDL,WLWWDLDWWWWW
+Clermont,Valenciennes,0-1,/match/clermont-foot/valenciennes-afc/2019,2019,24,ligue_2,20,38,2,0,1,6,43,9,9,5,27,19,DWLDWLWDDWDDLWDWWDLWLDW,5,6,1,16,8,15,29,5,7,11,28,39,WLDWDLWWWLWDWWDDWLWWDLD,1,3,7,12,22,DLWWDDDWWDWD,LWWWWWDWWDD
+Grenoble,Lorient,0-1,/match/grenoble-foot-38/lorient/2019,2019,24,ligue_2,20,38,2,0,1,8,40,9,8,6,27,23,WDWWDWWLLWLLLWDDLLWDDDD,5,4,3,12,9,3,46,11,7,5,29,19,DLLWDWLDWWWDLWWDDDWWLLW,5,2,4,13,11,WWDWLWLWDLDD,LLDLWWLWDWL
+Nancy,Chateauroux,0-1,/match/nancy/berrichonne-chateauroux/2019,2019,24,ligue_2,20,38,2,0,1,19,19,4,5,14,14,32,LWLWLWLLDWLDLWWLDDWLWWD,2,2,7,5,13,13,32,6,9,8,21,27,DLDDDWWWWLDDLLLWWDLWDLD,3,4,4,9,13,LLLLDLLWDLW,DDDWWDLLWWL
+Orléans,Le Havre,1-1,/match/orleans/havre-ac/2019,2019,24,ligue_2,20,38,1,1,1,12,32,9,3,11,26,33,LWLDWWWLWLWLLWDLWLLLWWD,5,1,6,12,14,5,44,9,9,5,27,22,DDLDWWLDLLWWWWWDWDWDWDD,3,4,4,6,7,LLWWWWLDLLLW,DLWLLWWWDDD
+Red Star,Gazélec Ajaccio,1-1,/match/red-star/gazelec-ajaccio/2019,2019,24,ligue_2,20,38,1,1,1,18,21,4,5,14,16,36,LWLDWWLWLWDLDLWLWWDWWLD,4,0,8,11,22,16,29,7,6,10,19,33,DLLWDWWLDLWLLWWLWDLLLDD,4,3,4,10,17,LLWLLWLLLWWL,LDWDWLWWLLD
+Troyes,Paris FC,0-1,/match/troyes/paris-sg/2019,2019,24,ligue_2,20,38,2,0,1,10,37,10,5,8,29,21,LLLWLWWDWLLLWWWLWDLDDWD,6,0,5,15,11,4,45,10,9,4,21,13,DWDWWWDWDWDLDWWDWLDLLLD,4,5,3,9,10,LLLWWLWWWLW,DDWDDWLWDLLL
+Lens,Metz,0-0,/match/lens/metz/2019,2019,24,ligue_2,20,38,1,0,0,7,43,11,5,7,32,19,LWLWDWWLDLWWLWDDWDLWWWW,7,2,2,18,5,2,49,15,4,4,38,15,LWLWLWLWLLWDLLWDWLWLLDD,8,3,1,17,8,WWWDWLDWLWW,LLLLWLDLDLLD
+Stade Brestois,Auxerre,1-0,/match/stade-brestois-29/auxerre/2019,2019,24,ligue_2,20,38,0,1,0,1,52,13,7,3,39,20,LLDWWLWLWLWDDWDWWWDDLWD,8,3,1,24,9,11,34,8,6,9,27,19,WLLWWLWDWLWLLDLDDDWLWWD,4,2,5,14,10,LDWWWWDWWWDW,WLWWWLLDDLW
+Gazélec Ajaccio,Stade Brestois,1-1,/match/gazelec-ajaccio/stade-brestois-29/2019,2019,25,ligue_2,20,38,1,1,1,16,30,7,7,10,20,34,DLLWDWWLDLWLLWWLWDLLLDDD,3,3,6,9,16,1,56,14,7,3,40,20,LLDWWLWLWLWDDWDWWWDDLWDW,5,4,2,15,11,DLWWLLLWLDLD,LWLLLDDWDLD
+Auxerre,Clermont,1-0,/match/auxerre/clermont-foot/2019,2019,25,ligue_2,20,38,0,1,0,13,34,8,6,10,27,20,WLLWWLWDWLWLLDLDDDWLWWDW,4,4,4,13,9,7,43,9,9,6,27,20,DWLDWLWDDWDDLWDWWDLWLDWL,4,3,4,11,11,LWLDLWLDDWWD,WDLDWLDWLLW
+Chateauroux,Orléans,1-2,/match/berrichonne-chateauroux/orleans/2019,2019,25,ligue_2,20,38,2,1,2,12,34,7,9,8,22,27,DLDDDWWWWLDDLLLWWDLWDLDL,3,5,4,12,14,14,34,9,4,11,27,34,LWLDWWWLWLWLLWDLWLLLWWDD,4,2,5,14,19,LDWWLDLWDLDD,WDWLLLWWLWD
+Le Havre,Nancy,0-2,/match/havre-ac/nancy/2019,2019,25,ligue_2,20,38,2,0,2,5,45,9,10,5,28,23,DDLDWWLDLLWWWWWDWDWDWDDD,6,5,1,21,15,20,19,4,5,15,14,33,LWLWLWLLDWLDLWWLDDWLWWDL,2,3,7,9,19,DDWDLWWDWWWD,WWWLWDWLDWWD
+Lorient,Red Star,2-1,/match/lorient/red-star/2019,2019,25,ligue_2,20,38,0,2,1,3,48,12,7,5,30,19,DLLWDWLDWWWDLWWDDDWWLLWL,6,5,1,16,8,18,23,4,6,14,17,37,LWLDWWLWLWDLDLWLWWDWWLDD,0,5,6,5,14,DWWDWDWDDWLW,WDWWDDWWDWD
+Niort,Troyes,1-1,/match/chamois-niortais/troyes/2019,2019,25,ligue_2,20,38,1,1,1,9,39,9,7,8,25,23,LWWDLWWLDWWLWDLLWDDWDWDW,5,4,2,14,9,10,37,10,5,9,29,22,LLLWLWWDWLLLWWWLWDLDDWDL,4,5,3,14,10,WDWLWWLWDDD,LWWDLLWLDDDD
+Paris FC,Ajaccio,1-1,/match/paris-sg/ajaccio/2019,2019,25,ligue_2,20,38,1,1,1,4,47,11,9,4,22,13,DWDWWWDWDWDLDWWDWLDLLLDL,6,4,1,12,3,11,35,7,8,9,22,27,LLLWDWDDWWWDLWDWDLLWDDWW,3,3,6,9,16,WWWWDDWWDLD,LWWDWDWWLLDW
+Valenciennes,Grenoble,3-2,/match/valenciennes-afc/grenoble-foot-38/2019,2019,25,ligue_2,20,38,0,3,2,15,31,6,7,11,29,39,WLDWDLWWWLWDWWDDWLWWDLDL,4,4,4,16,17,8,40,9,8,7,27,24,WDWWDWWLLWLLLWDDLLWDDDDL,4,4,3,15,14,WDDLWLDWDLWL,DWWLLLDLWDD
+Sochaux,Lens,0-1,/match/sochaux/lens/2019,2019,25,ligue_2,20,38,2,0,1,17,29,7,4,13,17,28,WLLWWWWLDLLLDWLWWWWWDWWD,5,1,5,10,12,6,45,11,6,7,32,19,LWLWDWWLDLWWLWDDWDLWWWWD,4,3,5,14,14,LWWLLLLWWDW,LLDWLLWWDDWW
+Metz,Béziers,1-0,/match/metz/beziers/2019,2019,25,ligue_2,20,38,0,1,0,2,50,15,5,4,38,15,LWLWLWLWLLWDLLWDWLWLLDDD,7,1,3,21,7,19,20,5,5,14,15,31,LLLWDWLWDLWLLLDWLWLWDLWD,5,0,8,11,18,WWWLWLWWWLD,LLWWWLWLLWWWW
+Ajaccio,Auxerre,2-1,/match/ajaccio/auxerre/2019,2019,26,ligue_2,20,38,0,2,1,13,36,7,9,9,23,28,LLLWDWDDWWWDLWDWDLLWDDWWD,4,5,3,13,11,10,38,9,6,10,28,20,WLLWWLWDWLWLLDLDDDWLWWDWW,4,2,6,14,11,LLDDWWLDDWDW,WLWWWLLDDLWW
+Béziers,Chateauroux,1-1,/match/beziers/berrichonne-chateauroux/2019,2019,26,ligue_2,20,38,1,1,1,20,20,5,5,15,15,32,LLLWDWLWDLWLLLDWLWLWDLWDW,0,5,6,4,13,15,34,7,9,9,23,29,DLDDDWWWWLDDLLLWWDLWDLDLL,4,4,4,10,13,LDLDLDLLDLD,DDDWWDLLWWLL
+Stade Brestois,Grenoble,3-1,/match/stade-brestois-29/grenoble-foot-38/2019,2019,26,ligue_2,20,38,0,3,1,1,57,14,8,3,41,21,LLDWWLWLWLWDDWDWWWDDLWDWD,9,3,1,25,9,9,40,9,8,8,29,27,WDWWDWWLLWLLLWDDLLWDDDDLW,4,4,4,17,17,LDWWWWDWWWDWW,DWWLLLDLWDDW
+Clermont,Lorient,0-1,/match/clermont-foot/lorient/2019,2019,26,ligue_2,20,38,2,0,1,7,43,9,9,7,27,21,DWLDWLWDDWDDLWDWWDLWLDWLW,5,6,2,16,9,3,52,13,7,5,32,20,DLLWDWLDWWWDLWWDDDWWLLWLW,6,2,4,14,11,DLWWDDDWWDWDL,LLDLWWLWDWLL
+Metz,Paris FC,2-0,/match/metz/paris-sg/2019,2019,26,ligue_2,20,38,0,2,0,2,54,16,5,4,39,15,LWLWLWLWLLWDLLWDWLWLLDDDW,8,1,3,22,7,4,49,11,10,4,23,14,DWDWWWDWDWDLDWWDWLDLLLDLD,5,5,3,10,10,WWWLWLWWWLDW,DDWDDWLWDLLLL
+Nancy,Gazélec Ajaccio,3-1,/match/nancy/gazelec-ajaccio/2019,2019,26,ligue_2,20,38,0,3,1,19,21,5,5,15,16,33,LWLWLWLLDWLDLWWLDDWLWWDLL,2,2,8,5,14,16,32,7,8,10,21,35,DLLWDWWLDLWLLWWLWDLLLDDDD,4,4,4,11,18,LLLLDLLWDLWL,LDWDWLWWLLDD
+Orléans,Sochaux,2-0,/match/orleans/sochaux/2019,2019,26,ligue_2,20,38,0,2,0,12,36,10,4,11,29,35,LWLDWWWLWLWLLWDLWLLLWWDDL,5,2,6,13,15,17,29,7,4,14,17,29,WLLWWWWLDLLLDWLWWWWWDWWDL,2,3,8,7,16,LLWWWWLDLLLWD,WLWWDLDWWWWWD
+Red Star,Valenciennes,1-0,/match/red-star/valenciennes-afc/2019,2019,26,ligue_2,20,38,0,1,0,18,23,4,6,15,18,39,LWLDWWLWLWDLDLWLWWDWWLDDW,4,1,8,12,23,14,35,7,7,11,32,41,WLDWDLWWWLWDWWDDWLWWDLDLW,2,3,7,13,22,LLWLLWLLLWWLD,LWWWWWDWWDDL
+Troyes,Le Havre,2-1,/match/troyes/havre-ac/2019,2019,26,ligue_2,20,38,0,2,1,11,38,10,6,9,30,23,LLLWLWWDWLLLWWWLWDLDDWDLD,6,0,6,15,12,6,45,9,10,6,28,25,DDLDWWLDLLWWWWWDWDWDWDDDL,3,5,4,7,8,LLLWWLWWWLWL,DLWLLWWWDDDD
+Lens,Niort,4-1,/match/lens/chamois-niortais/2019,2019,26,ligue_2,20,38,0,4,1,5,47,12,6,7,33,19,LWLWDWWLDLWWLWDDWDLWWWWDL,7,3,2,18,5,8,41,9,8,8,26,24,LWWDLWWLDWWLWDLLWDDWDWDWD,4,3,6,11,14,WWWDWLDWLWWD,LWLWDWLDLDWWW
+Gazélec Ajaccio,Clermont,0-3,/match/gazelec-ajaccio/clermont-foot/2019,2019,27,ligue_2,20,38,2,0,3,16,32,7,8,11,22,38,DLLWDWWLDLWLLWWLWDLLLDDDDW,3,4,6,10,17,7,43,9,9,8,27,22,DWLDWLWDDWDDLWDWWDLWLDWLWL,4,3,5,11,12,DLWWLLLWLDLDD,WDLDWLDWLLWW
+Auxerre,Troyes,0-2,/match/auxerre/troyes/2019,2019,27,ligue_2,20,38,2,0,2,13,38,9,6,11,29,22,WLLWWLWDWLWLLDLDDDWLWWDWWW,5,4,4,14,9,8,42,11,6,9,32,24,LLLWLWWDWLLLWWWLWDLDDWDLDW,4,6,3,15,11,LWLDLWLDDWWDW,LWWDLLWLDDDDD
+Chateauroux,Stade Brestois,2-2,/match/berrichonne-chateauroux/stade-brestois-29/2019,2019,27,ligue_2,20,38,1,2,2,15,35,7,10,9,24,30,DLDDDWWWWLDDLLLWWDLWDLDLLD,3,5,5,13,16,1,61,15,8,3,44,22,LLDWWLWLWLWDDWDWWWDDLWDWDW,5,5,2,16,12,LDWWLDLWDLDDL,LWLLLDDWDLDD
+Grenoble,Red Star,2-0,/match/grenoble-foot-38/red-star/2019,2019,27,ligue_2,20,38,0,2,0,10,40,9,8,9,30,30,WDWWDWWLLWLLLWDDLLWDDDDLWW,5,4,4,12,10,18,27,5,6,15,19,39,LWLDWWLWLWDLDLWLWWDWWLDDWW,0,5,7,6,16,WWDWLWLWDLDDL,WDWWDDWWDWDW
+Niort,Béziers,0-0,/match/chamois-niortais/beziers/2019,2019,27,ligue_2,20,38,1,0,0,9,41,9,8,9,27,28,LWWDLWWLDWWLWDLLWDDWDWDWDW,5,5,2,15,10,20,22,5,6,15,16,33,LLLWDWLWDLWLLLDWLWLWDLWDWD,5,0,9,11,19,WDWLWWLWDDDD,LLWWWLWLLWWWWW
+Sochaux,Nancy,0-4,/match/sochaux/nancy/2019,2019,27,ligue_2,20,38,2,0,4,17,29,7,4,15,17,31,WLLWWWWLDLLLDWLWWWWWDWWDLW,5,1,6,10,13,19,25,6,5,15,19,34,LWLWLWLLDWLDLWWLDDWLWWDLLW,3,3,7,11,19,LWWLLLLWWDWL,WWWLWDWLDWWDL
+Valenciennes,Ajaccio,4-0,/match/valenciennes-afc/ajaccio/2019,2019,27,ligue_2,20,38,0,4,0,14,35,7,7,12,32,42,WLDWDLWWWLWDWWDDWLWWDLDLWW,5,4,4,19,19,12,40,8,9,9,25,29,LLLWDWDDWWWDLWDWDLLWDDWWDW,3,4,6,10,17,WDDLWLDWDLWLW,LWWDWDWWLLDWD
+Lorient,Orléans,1-3,/match/lorient/orleans/2019,2019,27,ligue_2,20,38,2,1,3,3,54,14,7,5,33,20,DLLWDWLDWWWDLWWDDDWWLLWLWL,7,5,1,18,9,11,40,11,4,11,31,35,LWLDWWWLWLWLLWDLWLLLWWDDLW,5,2,5,16,20,DWWDWDWDDWLWW,WDWLLLWWLWDL
+Paris FC,Lens,2-0,/match/paris-sg/lens/2019,2019,27,ligue_2,20,38,0,2,0,5,49,11,10,5,23,16,DWDWWWDWDWDLDWWDWLDLLLDLDW,6,5,1,13,4,4,51,13,6,7,37,20,LWLWDWWLDLWWLWDDWDLWWWWDLW,5,3,5,15,14,WWWWDDWWDLDD,LLDWLLWWDDWWL
+Le Havre,Metz,2-2,/match/havre-ac/metz/2019,2019,27,ligue_2,20,38,1,2,2,6,45,9,10,7,29,27,DDLDWWLDLLWWWWWDWDWDWDDDLW,6,5,2,21,17,2,58,17,5,4,41,15,LWLWLWLWLLWDLLWDWLWLLDDDWW,8,4,1,17,8,DDWDLWWDWWWDL,LLLLWLDLDLLDD
+Ajaccio,Red Star,0-0,/match/ajaccio/red-star/2019,2019,28,ligue_2,20,38,1,0,0,12,40,8,9,10,25,33,LLLWDWDDWWWDLWDWDLLWDDWWDWW,5,5,3,15,12,18,27,5,6,16,19,41,LWLDWWLWLWDLDLWLWWDWWLDDWWW,0,5,8,6,18,LLDDWWLDDWDWW,WDWWDDWWDWDWW
+Béziers,Le Havre,1-1,/match/beziers/havre-ac/2019,2019,28,ligue_2,20,38,1,1,1,20,23,5,7,15,16,33,LLLWDWLWDLWLLLDWLWLWDLWDWDD,0,6,6,5,14,6,47,9,11,7,31,29,DDLDWWLDLLWWWWWDWDWDWDDDLWD,3,5,5,8,10,LDLDLDLLDLDD,DLWLLWWWDDDDW
+Stade Brestois,Valenciennes,2-5,/match/stade-brestois-29/valenciennes-afc/2019,2019,28,ligue_2,20,38,2,2,5,1,62,15,9,3,46,24,LLDWWLWLWLWDDWDWWWDDLWDWDWD,10,3,1,28,10,13,39,8,7,12,36,42,WLDWDLWWWLWDWWDDWLWWDLDLWWW,2,3,8,13,23,LDWWWWDWWWDWWW,LWWWWWDWWDDLW
+Clermont,Grenoble,1-1,/match/clermont-foot/grenoble-foot-38/2019,2019,28,ligue_2,20,38,1,1,1,7,45,10,9,8,30,22,DWLDWLWDDWDDLWDWWDLWLDWLWLL,5,6,3,16,10,9,44,10,8,9,32,30,WDWWDWWLLWLLLWDDLLWDDDDLWWW,4,4,5,18,20,DLWWDDDWWDWDLL,DWWLLLDLWDDWW
+Nancy,Lorient,3-2,/match/nancy/lorient/2019,2019,28,ligue_2,20,38,0,3,2,19,27,7,5,15,23,34,LWLWLWLLDWLDLWWLDDWLWWDLLWL,3,2,8,8,15,3,54,14,7,6,34,23,DLLWDWLDWWWDLWWDDDWWLLWLWLL,7,2,4,15,11,LLLLDLLWDLWLW,LLDLWWLWDWLLL
+Orléans,Gazélec Ajaccio,2-2,/match/orleans/gazelec-ajaccio/2019,2019,28,ligue_2,20,38,1,2,2,11,42,12,4,11,34,36,LWLDWWWLWLWLLWDLWLLLWWDDLWL,6,2,6,15,15,16,32,7,8,12,22,41,DLLWDWWLDLWLLWWLWDLLLDDDDWL,4,4,5,12,21,LLWWWWLDLLLWDW,LDWDWLWWLLDDW
+Paris FC,Niort,0-0,/match/paris-sg/chamois-niortais/2019,2019,28,ligue_2,20,38,1,0,0,4,53,12,10,5,25,16,DWDWWWDWDWDLDWWDWLDLLLDLDWW,7,5,1,15,4,10,43,9,9,9,27,28,LWWDLWWLDWWLWDLLWDDWDWDWDWD,4,3,7,12,18,WWWWDDWWDLDDW,LWLWDWLDLDWWWW
+Troyes,Chateauroux,1-0,/match/troyes/berrichonne-chateauroux/2019,2019,28,ligue_2,20,38,0,1,0,8,44,12,6,9,34,24,LLLWLWWDWLLLWWWLWDLDDWDLDWL,7,0,6,17,13,15,37,7,11,9,26,32,DLDDDWWWWLDDLLLWWDLWDLDLLDD,4,5,4,11,14,LLLWWLWWWLWLW,DDDWWDLLWWLLD
+Lens,Auxerre,2-0,/match/lens/auxerre/2019,2019,28,ligue_2,20,38,0,2,0,5,51,13,6,8,37,22,LWLWDWWLDLWWLWDDWDLWWWWDLWW,8,3,2,22,6,14,38,9,6,12,29,24,WLLWWLWDWLWLLDLDDDWLWWDWWWL,4,2,7,15,13,WWWDWLDWLWWDW,WLWWWLLDDLWWW
+Metz,Sochaux,1-1,/match/metz/sochaux/2019,2019,28,ligue_2,20,38,1,1,1,2,59,17,6,4,43,17,LWLWLWLWLLWDLLWDWLWLLDDDWWD,9,1,3,24,7,17,29,7,4,16,17,35,WLLWWWWLDLLLDWLWWWWWDWWDLWL,2,3,9,7,18,WWWLWLWWWLDWW,WLWWDLDWWWWWDW
+Béziers,Auxerre,1-0,/match/beziers/auxerre/2019,2019,29,ligue_2,20,38,0,1,0,20,25,5,8,15,17,34,LLLWDWLWDLWLLLDWLWLWDLWDWDDD,0,7,6,6,15,14,38,9,6,13,29,26,WLLWWLWDWLWLLDLDDDWLWWDWWWLW,4,2,8,15,15,LDLDLDLLDLDDD,WLWWWLLDDLWWWW
+Chateauroux,Paris FC,0-1,/match/berrichonne-chateauroux/paris-sg/2019,2019,29,ligue_2,20,38,2,0,1,15,37,7,11,10,26,33,DLDDDWWWWLDDLLLWWDLWDLDLLDDW,3,6,5,15,18,3,55,12,11,5,25,16,DWDWWWDWDWDLDWWDWLDLLLDLDWWD,5,5,4,10,12,LDWWLDLWDLDDLD,DDWDDWLWDLLLLW
+Grenoble,Nancy,1-0,/match/grenoble-foot-38/nancy/2019,2019,29,ligue_2,20,38,0,1,0,9,45,10,9,9,33,31,WDWWDWWLLWLLLWDDLLWDDDDLWWWD,6,4,4,14,10,17,31,8,5,15,26,36,LWLWLWLLDWLDLWWLDDWLWWDLLWLW,4,3,7,15,19,WWDWLWLWDLDDLW,WWWLWDWLDWWDLL
+Le Havre,Ajaccio,3-1,/match/havre-ac/ajaccio/2019,2019,29,ligue_2,20,38,0,3,1,6,48,9,12,7,32,30,DDLDWWLDLLWWWWWDWDWDWDDDLWDD,6,6,2,23,19,12,42,8,10,10,25,33,LLLWDWDDWWWDLWDWDLLWDDWWDWWD,3,4,7,10,21,DDWDLWWDWWWDLD,LWWDWDWWLLDWDW
+Niort,Metz,0-3,/match/chamois-niortais/metz/2019,2019,29,ligue_2,20,38,2,0,3,11,44,9,10,9,27,28,LWWDLWWLDWWLWDLLWDDWDWDWDWDD,5,6,2,15,10,2,61,17,7,4,44,18,LWLWLWLWLLWDLLWDWLWLLDDDWWDD,8,5,1,19,10,WDWLWWLWDDDDD,LLLLWLDLDLLDDD
+Red Star,Clermont,0-4,/match/red-star/clermont-foot/2019,2019,29,ligue_2,20,38,2,0,4,19,28,5,7,16,19,41,LWLDWWLWLWDLDLWLWWDWWLDDWWWD,5,1,8,13,23,8,47,10,10,8,31,23,DWLDWLWDDWDDLWDWWDLWLDWLWLLD,5,3,5,14,12,LLWLLWLLLWWLDW,WDLDWLDWLLWWL
+Sochaux,Troyes,0-0,/match/sochaux/troyes/2019,2019,29,ligue_2,20,38,1,0,0,18,30,7,5,16,18,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLD,5,1,7,10,17,7,48,13,6,9,35,24,LLLWLWWDWLLLWWWLWDLDDWDLDWLW,5,6,3,17,11,LWWLLLLWWDWLL,LWWDLLWLDDDDDL
+Valenciennes,Orléans,1-4,/match/valenciennes-afc/orleans/2019,2019,29,ligue_2,20,38,2,1,4,13,41,9,7,12,41,44,WLDWDLWWWLWDWWDDWLWWDLDLWWWL,6,4,4,23,19,10,44,12,5,11,36,38,LWLDWWWLWLWLLWDLWLLLWWDDLWLD,6,2,5,19,21,WDDLWLDWDLWLWW,WDWLLLWWLWDLL
+Lorient,Stade Brestois,1-1,/match/lorient/stade-brestois-29/2019,2019,29,ligue_2,20,38,1,1,1,5,54,14,7,7,36,26,DLLWDWLDWWWDLWWDDDWWLLWLWLLW,7,5,2,19,12,1,62,15,9,4,48,29,LLDWWLWLWLWDDWDWWWDDLWDWDWDL,5,6,2,18,14,DWWDWDWDDWLWWL,LWLLLDDWDLDDD
+Gazélec Ajaccio,Lens,1-0,/match/gazelec-ajaccio/lens/2019,2019,29,ligue_2,20,38,0,1,0,16,33,7,9,12,24,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLD,3,4,7,10,20,4,55,14,6,8,39,22,LWLWDWWLDLWWLWDDWDLWWWWDLWWW,5,3,6,15,16,DLWWLLLWLDLDDL,LLDWLLWWDDWWLW
+Ajaccio,Chateauroux,1-1,/match/ajaccio/berrichonne-chateauroux/2019,2019,30,ligue_2,20,38,1,1,1,12,42,8,10,11,26,36,LLLWDWDDWWWDLWDWDLLWDDWWDWWDW,5,6,3,15,12,15,37,7,11,11,26,34,DLDDDWWWWLDDLLLWWDLWDLDLLDDWL,4,5,5,11,15,LLDDWWLDDWDWWD,DDDWWDLLWWLLDW
+Béziers,Gazélec Ajaccio,0-0,/match/beziers/gazelec-ajaccio/2019,2019,30,ligue_2,20,38,1,0,0,19,29,6,8,15,18,34,LLLWDWLWDLWLLLDWLWLWDLWDWDDDW,1,7,6,7,15,16,37,8,9,12,25,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLDW,4,5,5,14,23,LDLDLDLLDLDDDW,LDWDWLWWLLDDWD
+Stade Brestois,Clermont,0-0,/match/stade-brestois-29/clermont-foot/2019,2019,30,ligue_2,20,38,1,0,0,1,63,15,10,4,49,30,LLDWWLWLWLWDDWDWWWDDLWDWDWDLD,10,3,2,30,15,8,49,11,10,8,35,23,DWLDWLWDDWDDLWDWWDLWLDWLWLLDL,6,3,5,18,12,LDWWWWDWWWDWWWL,WDLDWLDWLLWWLL
+Nancy,Valenciennes,0-2,/match/nancy/valenciennes-afc/2019,2019,30,ligue_2,20,38,2,0,2,18,31,8,5,16,26,37,LWLWLWLLDWLDLWWLDDWLWWDLLWLWW,4,2,8,11,17,13,41,9,7,13,42,48,WLDWDLWWWLWDWWDDWLWWDLDLWWWLL,3,3,8,18,25,LLLLDLLWDLWLWW,LWWWWWDWWDDLWL
+Niort,Sochaux,0-1,/match/chamois-niortais/sochaux/2019,2019,30,ligue_2,20,38,2,0,1,11,44,9,10,10,27,31,LWWDLWWLDWWLWDLLWDDWDWDWDWDDL,5,6,3,15,13,17,32,7,6,16,18,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLDD,2,4,9,8,19,WDWLWWLWDDDDDL,WLWWDLDWWWWWDWD
+Orléans,Red Star,2-2,/match/orleans/red-star/2019,2019,30,ligue_2,20,38,1,2,2,10,46,13,5,11,40,39,LWLDWWWLWLWLLWDLWLLLWWDDLWLDL,6,3,6,17,17,20,28,5,7,17,19,45,LWLDWWLWLWDLDLWLWWDWWLDDWWWDL,0,6,8,6,18,LLWWWWLDLLLWDWD,WDWWDDWWDWDWWD
+Paris FC,Auxerre,3-0,/match/paris-sg/auxerre/2019,2019,30,ligue_2,20,38,0,3,0,3,57,13,11,5,26,16,DWDWWWDWDWDLDWWDWLDLLLDLDWWDL,7,6,1,15,4,14,38,9,6,14,29,27,WLLWWLWDWLWLLDLDDDWLWWDWWWLWW,4,2,9,15,16,WWWWDDWWDLDDWD,WLWWWLLDDLWWWWW
+Troyes,Grenoble,2-1,/match/troyes/grenoble-foot-38/2019,2019,30,ligue_2,20,38,0,2,1,7,49,13,7,9,35,24,LLLWLWWDWLLLWWWLWDLDDWDLDWLWD,8,0,6,18,13,9,49,11,9,9,34,31,WDWWDWWLLWLLLWDDLLWDDDDLWWWDW,4,5,5,19,21,LLLWWLWWWLWLWW,DWWLLLDLWDDWWD
+Metz,Lorient,2-1,/match/metz/lorient/2019,2019,30,ligue_2,20,38,0,2,1,2,63,18,7,4,47,18,LWLWLWLWLLWDLLWDWLWLLDDDWWDDL,9,2,3,25,8,4,56,14,8,7,37,27,DLLWDWLDWWWDLWWDDDWWLLWLWLLWD,7,2,5,17,14,WWWLWLWWWLDWWD,LLDLWWLWDWLLLW
+Lens,Le Havre,0-0,/match/lens/havre-ac/2019,2019,30,ligue_2,20,38,1,0,0,5,55,14,6,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWW,9,3,2,24,6,6,52,10,12,7,35,31,DDLDWWLDLLWWWWWDWDWDWDDDLWDDW,3,6,5,9,11,WWWDWLDWLWWDWW,DLWLLWWWDDDDWD
+Gazélec Ajaccio,Ajaccio,1-0,/match/gazelec-ajaccio/ajaccio/2019,2019,31,ligue_2,20,38,0,1,0,16,38,8,10,12,25,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWD,4,4,7,11,20,11,44,8,11,11,27,37,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWD,3,4,8,11,24,DLWWLLLWLDLDDLW,LWWDWDWWLLDWDWW
+Clermont,Nancy,2-3,/match/clermont-foot/nancy/2019,2019,31,ligue_2,20,38,2,2,3,8,50,11,11,8,35,23,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLD,5,7,3,17,11,18,31,8,5,17,26,39,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWL,4,3,8,15,20,DLWWDDDWWDWDLLD,WWWLWDWLDWWDLLW
+Grenoble,Orléans,0-4,/match/grenoble-foot-38/orleans/2019,2019,31,ligue_2,20,38,2,0,4,9,49,11,9,10,35,33,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWW,7,4,4,15,10,10,48,13,6,11,42,41,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLD,7,2,5,23,22,WWDWLWLWDLDDLWW,WDWLLLWWLWDLLL
+Le Havre,Niort,0-0,/match/havre-ac/chamois-niortais/2019,2019,31,ligue_2,20,38,1,0,0,6,53,10,13,7,35,31,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWD,7,6,2,26,20,12,44,9,10,11,27,32,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLL,4,4,7,12,18,DDWDLWWDWWWDLDW,LWLWDWLDLDWWWWD
+Lorient,Béziers,3-1,/match/lorient/beziers/2019,2019,31,ligue_2,20,38,0,3,1,5,56,14,8,8,38,29,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDW,7,6,2,20,13,19,31,6,9,15,18,34,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWD,5,1,9,11,19,DWWDWDWDDWLWWLD,LLWWWLWLLWWWWWD
+Red Star,Stade Brestois,0-2,/match/red-star/stade-brestois-29/2019,2019,31,ligue_2,20,38,2,0,2,20,29,5,8,17,21,47,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLD,5,1,9,13,27,2,65,15,11,4,49,30,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDD,5,7,2,19,15,LLWLLWLLLWWLDWL,LWLLLDDWDLDDDD
+Sochaux,Paris FC,1-0,/match/sochaux/paris-sg/2019,2019,31,ligue_2,20,38,0,1,0,17,34,8,6,16,19,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDL,5,2,7,10,17,3,61,14,11,5,29,16,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLW,6,5,4,11,12,LWWLLLLWWDWLLD,DDWDDWLWDLLLLWL
+Valenciennes,Troyes,0-1,/match/valenciennes-afc/troyes/2019,2019,31,ligue_2,20,38,2,0,1,13,43,10,7,13,44,48,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLL,6,4,5,24,23,7,53,14,7,9,37,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDW,5,7,3,17,11,WDDLWLDWDLWLWWL,LWWDLLWLDDDDDLD
+Auxerre,Metz,0-0,/match/auxerre/metz/2019,2019,31,ligue_2,20,38,1,0,0,14,38,9,6,15,29,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWW,5,4,5,14,11,1,67,19,7,4,49,19,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLW,9,5,1,22,10,LWLDLWLDDWWDWL,LLLLWLDLDLLDDDL
+Chateauroux,Lens,0-0,/match/berrichonne-chateauroux/lens/2019,2019,31,ligue_2,20,38,1,0,0,15,38,7,12,11,27,35,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLD,3,6,6,15,19,4,57,14,7,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWD,5,3,7,15,17,LDWWLDLWDLDDLDL,LLDWLLWWDDWWLWW
+Ajaccio,Grenoble,1-2,/match/ajaccio/grenoble-foot-38/2019,2019,32,ligue_2,20,38,2,1,2,12,44,8,11,12,27,38,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDW,5,7,3,16,13,10,49,11,9,11,35,37,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWL,4,5,6,20,23,LLDDWWLDDWDWWDD,DWWLLLDLWDDWWDW
+Béziers,Red Star,1-3,/match/beziers/red-star/2019,2019,32,ligue_2,20,38,2,1,3,19,31,6,9,16,19,37,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDW,1,8,6,7,15,20,29,5,8,18,21,49,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDL,0,7,8,8,20,LDLDLDLLDLDDDWD,WDWWDDWWDWDWWDD
+Lens,Valenciennes,0-0,/match/lens/valenciennes-afc/2019,2019,32,ligue_2,20,38,1,0,0,5,58,14,8,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDD,9,4,2,24,6,13,43,10,7,14,44,49,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLL,4,3,8,20,25,WWWDWLDWLWWDWWD,LWWWWWDWWDDLWLL
+Metz,Chateauroux,2-1,/match/metz/berrichonne-chateauroux/2019,2019,32,ligue_2,20,38,0,2,1,1,68,19,8,4,49,19,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWD,10,2,3,27,9,16,40,7,13,11,27,35,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDD,4,6,5,12,16,WWWLWLWWWLDWWDW,DDDWWDLLWWLLDWD
+Nancy,Stade Brestois,2-3,/match/nancy/stade-brestois-29/2019,2019,32,ligue_2,20,38,2,2,3,18,33,9,5,17,29,41,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLL,4,2,9,11,19,2,67,16,11,4,51,30,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDL,6,7,2,21,15,LLLLDLLWDLWLWWL,LWLLLDDWDLDDDDL
+Niort,Auxerre,0-0,/match/chamois-niortais/auxerre/2019,2019,32,ligue_2,20,38,1,0,0,11,45,9,11,11,27,32,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLD,5,6,4,15,14,15,40,9,7,15,29,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWD,4,2,10,15,19,WDWLWWLWDDDDDLL,WLWWWLLDDLWWWWWW
+Orléans,Clermont,2-1,/match/orleans/clermont-foot/2019,2019,32,ligue_2,20,38,0,2,1,9,50,14,6,11,46,41,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDL,6,4,6,19,19,8,50,11,11,9,37,26,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDL,6,4,5,18,12,LLWWWWLDLLLWDWDD,WDLDWLDWLLWWLLD
+Sochaux,Le Havre,1-3,/match/sochaux/havre-ac/2019,2019,32,ligue_2,20,38,2,1,3,17,38,9,6,16,20,36,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLW,6,2,7,11,17,6,55,10,14,7,35,31,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDD,3,7,5,9,11,LWWLLLLWWDWLLDW,DLWLLWWWDDDDWDD
+Troyes,Gazélec Ajaccio,1-0,/match/troyes/gazelec-ajaccio/2019,2019,32,ligue_2,20,38,0,1,0,7,55,15,7,9,38,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWL,9,0,6,20,14,14,42,9,10,12,26,43,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDW,4,6,5,14,23,LLLWWLWWWLWLWWW,LDWDWLWWLLDDWDD
+Paris FC,Lorient,2-2,/match/paris-sg/lorient/2019,2019,32,ligue_2,20,38,1,2,2,3,61,14,11,6,29,17,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWW,8,6,1,18,4,4,60,15,8,8,41,30,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWW,7,2,6,18,16,WWWWDDWWDLDDWDW,LLDLWWLWDWLLLWW
+Gazélec Ajaccio,Metz,0-2,/match/gazelec-ajaccio/metz/2019,2019,33,ligue_2,20,38,2,0,2,14,42,9,10,13,26,44,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWW,5,4,7,12,20,1,72,20,8,4,51,20,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDW,9,6,1,22,10,DLWWLLLWLDLDDLWW,LLLLWLDLDLLDDDLD
+Auxerre,Sochaux,1-0,/match/auxerre/sochaux/2019,2019,33,ligue_2,20,38,0,1,0,15,41,9,8,15,29,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDD,5,5,5,14,11,17,38,9,6,17,21,39,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWL,3,4,9,9,19,LWLDLWLDDWWDWLD,WLWWDLDWWWWWDWDL
+Stade Brestois,Orléans,3-1,/match/stade-brestois-29/orleans/2019,2019,33,ligue_2,20,38,0,3,1,2,69,17,11,4,54,32,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLL,10,4,2,30,15,8,54,15,6,11,48,42,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLW,8,2,5,27,22,LDWWWWDWWWDWWWLD,WDWLLLWWLWDLLLL
+Chateauroux,Niort,2-1,/match/berrichonne-chateauroux/chamois-niortais/2019,2019,33,ligue_2,20,38,0,2,1,16,40,7,13,12,28,37,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDW,3,7,6,15,19,11,47,9,12,11,27,32,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDD,4,5,7,12,18,LDWWLDLWDLDDLDLD,LWLWDWLDLDWWWWDD
+Clermont,Ajaccio,0-0,/match/clermont-foot/ajaccio/2019,2019,33,ligue_2,20,38,1,0,0,10,50,11,11,10,38,28,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLW,5,7,4,19,14,12,44,8,11,13,28,40,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWL,3,4,9,11,25,DLWWDDDWWDWDLLDL,LWWDWDWWLLDWDWWW
+Le Havre,Paris FC,2-1,/match/havre-ac/paris-sg/2019,2019,33,ligue_2,20,38,0,2,1,7,57,11,14,7,38,32,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDL,7,7,2,26,20,3,63,14,12,6,31,19,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWD,6,5,5,11,13,DDWDLWWDWWWDLDWD,DDWDDWLWDLLLLWLW
+Lorient,Troyes,0-3,/match/lorient/troyes/2019,2019,33,ligue_2,20,38,2,0,3,4,61,15,9,8,43,32,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWD,8,6,2,23,14,6,59,16,7,9,39,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLW,6,7,3,18,11,DWWDWDWDDWLWWLDW,LWWDLLWLDDDDDLDL
+Red Star,Nancy,1-1,/match/red-star/nancy/2019,2019,33,ligue_2,20,38,1,1,1,20,31,6,8,18,24,50,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLL,5,1,10,13,29,18,33,9,5,18,31,44,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLL,5,3,8,18,22,LLWLLWLLLWWLDWLL,WWWLWDWLDWWDLLWL
+Valenciennes,Béziers,5-6,/match/valenciennes-afc/beziers/2019,2019,33,ligue_2,20,38,2,5,6,13,44,10,8,14,44,49,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLD,6,4,6,24,24,19,31,6,9,17,20,40,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWL,5,1,10,12,22,WDDLWLDWDLWLWWLL,LLWWWLWLLWWWWWDW
+Grenoble,Lens,0-2,/match/grenoble-foot-38/lens/2019,2019,33,ligue_2,20,38,2,0,2,9,51,12,9,11,37,38,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLL,7,4,5,15,14,5,60,14,9,9,39,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDD,5,4,7,15,17,WWDWLWLWDLDDLWWL,LLDWLLWWDDWWLWWD
+Paris FC,Valenciennes,0-0,/match/paris-sg/valenciennes-afc/2019,2019,34,ligue_2,20,38,1,0,0,3,63,14,12,7,32,21,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDW,8,7,1,20,6,14,44,10,8,15,49,55,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDL,4,4,8,20,25,WWWWDDWWDLDDWDWD,LWWWWWDWWDDLWLLD
+Ajaccio,Stade Brestois,0-2,/match/ajaccio/stade-brestois-29/2019,2019,34,ligue_2,20,38,2,0,2,12,45,8,12,13,28,40,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLD,5,7,4,17,15,2,73,18,11,4,57,33,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLW,7,7,2,24,17,LLDDWWLDDWDWWDDL,LWLLLDDWDLDDDDLL
+Auxerre,Le Havre,0-1,/match/auxerre/havre-ac/2019,2019,34,ligue_2,20,38,2,0,1,13,45,10,8,15,30,30,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDW,6,5,5,15,11,7,61,12,14,7,40,33,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLW,4,7,5,12,12,LWLDLWLDDWWDWLDW,DLWLLWWWDDDDWDDL
+Béziers,Clermont,1-1,/match/beziers/clermont-foot/2019,2019,34,ligue_2,20,38,1,1,1,19,33,7,9,17,26,45,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLL,1,8,7,8,18,9,52,11,12,10,38,28,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWD,6,4,6,19,14,LDLDLDLLDLDDDWDL,WDLDWLDWLLWWLLDW
+Lens,Lorient,0-1,/match/lens/lorient/2019,2019,34,ligue_2,20,38,2,0,1,4,62,15,9,9,41,23,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDL,9,5,2,24,6,5,61,15,9,9,43,35,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDL,7,3,6,20,18,WWWDWLDWLWWDWWDD,LLDLWWLWDWLLLWWD
+Metz,Grenoble,1-1,/match/metz/grenoble-foot-38/2019,2019,34,ligue_2,20,38,1,1,1,1,74,21,8,4,53,20,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWL,11,2,3,29,10,10,51,12,9,12,37,40,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLL,5,5,6,22,24,WWWLWLWWWLDWWDWW,DWWLLLDLWDDWWDWL
+Nancy,Orléans,1-0,/match/nancy/orleans/2019,2019,34,ligue_2,20,38,0,1,0,18,34,9,6,18,32,45,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLD,4,2,10,13,22,8,54,15,6,12,49,45,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWW,8,2,6,28,25,LLLLDLLWDLWLWWLL,WDWLLLWWLWDLLLLW
+Niort,Gazélec Ajaccio,1-1,/match/chamois-niortais/gazelec-ajaccio/2019,2019,34,ligue_2,20,38,1,1,1,11,47,9,12,12,28,34,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDW,5,7,4,15,14,16,42,9,10,14,26,46,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWL,4,6,6,14,24,WDWLWWLWDDDDDLLD,LDWDWLWWLLDDWDDW
+Sochaux,Chateauroux,0-0,/match/sochaux/berrichonne-chateauroux/2019,2019,34,ligue_2,20,38,1,0,0,17,38,9,6,18,21,40,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLW,6,2,8,12,20,15,44,8,13,12,30,38,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWW,4,6,6,13,18,LWWLLLLWWDWLLDWL,DDDWWDLLWWLLDWDW
+Troyes,Red Star,2-0,/match/troyes/red-star/2019,2019,34,ligue_2,20,38,0,2,0,6,61,17,7,9,42,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWL,10,0,6,21,14,20,33,6,9,18,25,51,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLD,1,7,8,11,21,LLLWWLWWWLWLWWWW,WDWWDDWWDWDWWDDL
+Gazélec Ajaccio,Sochaux,0-2,/match/gazelec-ajaccio/sochaux/2019,2019,35,ligue_2,20,38,2,0,2,16,43,9,11,14,27,47,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLD,5,4,8,12,22,17,40,9,7,18,21,40,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWD,3,4,10,9,20,DLWWLLLWLDLDDLWWL,WLWWDLDWWWWWDWDLW
+Chateauroux,Le Havre,1-0,/match/berrichonne-chateauroux/havre-ac/2019,2019,35,ligue_2,20,38,0,1,0,15,45,8,14,12,30,38,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWD,4,7,6,17,20,6,63,13,14,7,41,33,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWL,5,7,5,13,12,LDWWLDLWDLDDLDLDW,DLWLLWWWDDDDWDDLL
+Clermont,Paris FC,1-1,/match/clermont-foot/paris-sg/2019,2019,35,ligue_2,20,38,1,1,1,9,53,11,13,10,39,29,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDD,5,8,4,19,14,3,65,14,13,7,32,21,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWD,6,5,6,12,15,DLWWDDDWWDWDLLDLD,DDWDDWLWDLLLLWLWW
+Grenoble,Béziers,4-2,/match/grenoble-foot-38/beziers/2019,2019,35,ligue_2,20,38,0,4,2,10,52,12,10,12,38,41,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLD,7,4,6,15,16,19,35,7,10,17,27,46,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLD,6,1,10,18,27,WWDWLWLWDLDDLWWLL,LLWWWLWLLWWWWWDWL
+Nancy,Ajaccio,1-0,/match/nancy/ajaccio/2019,2019,35,ligue_2,20,38,0,1,0,18,38,10,6,18,33,45,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDW,5,2,10,14,22,12,45,8,12,14,28,42,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDL,3,5,9,11,25,LLLLDLLWDLWLWWLLW,LWWDWDWWLLDWDWWWD
+Orléans,Troyes,0-1,/match/orleans/troyes/2019,2019,35,ligue_2,20,38,2,0,1,8,54,15,6,13,49,46,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWW,7,4,6,21,20,4,65,18,7,9,44,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLW,7,7,3,21,11,LLWWWWLDLLLWDWDDW,LWWDLLWLDDDDDLDLL
+Red Star,Metz,1-2,/match/red-star/metz/2019,2019,35,ligue_2,20,38,2,1,2,20,33,6,9,19,25,53,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDW,5,2,10,14,30,1,76,21,9,4,54,21,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLD,10,6,1,24,10,LLWLLWLLLWWLDWLLD,LLLLWLDLDLLDDDLDL
+Valenciennes,Niort,1-2,/match/valenciennes-afc/chamois-niortais/2019,2019,35,ligue_2,20,38,2,1,2,14,45,10,9,15,49,55,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLD,6,4,7,29,30,11,49,9,13,12,29,35,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWD,4,5,8,13,20,WDDLWLDWDLWLWWLLL,LWLWDWLDLDWWWWDDW
+Stade Brestois,Lens,2-0,/match/stade-brestois-29/lens/2019,2019,35,ligue_2,20,38,0,2,0,2,75,19,11,4,59,33,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWL,11,4,2,33,16,7,62,15,9,10,41,24,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLL,6,4,7,17,17,LDWWWWDWWWDWWWLDW,LLDWLLWWDDWWLWWDL
+Lorient,Auxerre,2-2,/match/lorient/auxerre/2019,2019,35,ligue_2,20,38,1,2,2,5,63,16,9,9,44,35,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLL,8,6,3,23,17,13,45,10,8,16,30,31,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWL,4,3,10,15,19,DWWDWDWDDWLWWLDWL,WLWWWLLDDLWWWWWWD
+Ajaccio,Orléans,1-0,/match/ajaccio/orleans/2019,2019,36,ligue_2,20,38,0,1,0,14,45,8,12,15,28,43,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDLW,5,7,5,17,17,10,54,15,6,14,49,47,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWWL,8,2,7,28,26,LLDDWWLDDWDWWDDLL,WDWLLLWWLWDLLLLWW
+Auxerre,Chateauroux,1-2,/match/auxerre/berrichonne-chateauroux/2019,2019,36,ligue_2,20,38,2,1,2,13,46,10,9,16,32,33,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWLD,6,5,6,15,12,12,49,9,14,12,31,38,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWDW,4,7,6,13,18,LWLDLWLDDWWDWLDWL,DDDWWDLLWWLLDWDWD
+Béziers,Stade Brestois,1-0,/match/beziers/stade-brestois-29/2019,2019,36,ligue_2,20,38,0,1,0,19,35,7,10,18,29,50,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLDW,1,9,7,9,19,1,79,20,11,4,61,33,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWLW,8,7,2,26,17,LDLDLDLLDLDDDWDLD,LWLLLDDWDLDDDDLLL
+Le Havre,Gazélec Ajaccio,2-2,/match/havre-ac/gazelec-ajaccio/2019,2019,36,ligue_2,20,38,1,2,2,6,63,13,14,8,41,34,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWLW,8,7,2,28,21,16,43,9,11,15,27,49,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLDL,4,7,6,15,25,DDWDLWWDWWWDLDWDW,LDWDWLWWLLDDWDDWD
+Metz,Valenciennes,3-0,/match/metz/valenciennes-afc/2019,2019,36,ligue_2,20,38,0,3,0,2,78,22,9,4,56,22,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLDL,11,3,3,30,11,15,45,10,9,16,50,57,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLDL,4,5,8,20,25,WWWLWLWWWLDWWDWWD,LWWWWWDWWDDLWLLDD
+Paris FC,Grenoble,1-0,/match/paris-sg/grenoble-foot-38/2019,2019,36,ligue_2,20,38,0,1,0,4,66,14,14,7,33,22,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWDD,8,8,1,20,6,8,56,13,10,12,42,43,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLDW,5,6,6,23,25,WWWWDDWWDLDDWDWDD,DWWLLLDLWDDWWDWLD
+Sochaux,Red Star,1-2,/match/sochaux/red-star/2019,2019,36,ligue_2,20,38,2,1,2,17,42,10,7,18,23,40,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWDL,6,3,8,12,20,20,33,6,9,20,26,55,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDWL,1,7,9,11,23,LWWLLLLWWDWLLDWLD,WDWWDDWWDWDWWDDLW
+Troyes,Nancy,2-1,/match/troyes/nancy/2019,2019,36,ligue_2,20,38,0,2,1,3,67,19,7,9,45,25,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLWL,11,0,6,23,14,18,42,11,6,18,34,45,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDWW,5,4,8,19,23,LLLWWLWWWLWLWWWWW,WWWLWDWLDWWDLLWLD
+Lens,Clermont,1-0,/match/lens/clermont-foot/2019,2019,36,ligue_2,20,38,0,1,0,7,62,15,9,11,41,26,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLLW,9,5,3,24,7,9,55,11,14,10,40,30,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDDD,6,5,6,20,15,WWWDWLDWLWWDWWDDL,WDLDWLDWLLWWLLDWD
+Niort,Lorient,2-2,/match/chamois-niortais/lorient/2019,2019,36,ligue_2,20,38,1,2,2,11,51,10,13,12,31,36,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWDL,5,8,4,16,15,5,65,16,10,9,46,37,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLLD,8,3,6,21,18,WDWLWWLWDDDDDLLDD,LLDLWWLWDWLLLWWDL
+Ajaccio,Lens,0-2,/match/ajaccio/lens/2019,2019,37,ligue_2,20,38,2,0,2,13,49,9,12,15,29,43,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDLWW,6,7,5,18,17,6,66,16,9,11,42,26,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLLWW,6,4,8,17,19,LLDDWWLDDWDWWDDLLW,LLDWLLWWDDWWLWWDLW
+Gazélec Ajaccio,Chateauroux,1-2,/match/gazelec-ajaccio/berrichonne-chateauroux/2019,2019,37,ligue_2,20,38,2,1,2,16,44,9,12,15,29,51,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLDLD,5,4,9,12,24,12,51,10,14,12,33,39,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWDWL,5,7,6,15,19,DLWWLLLWLDLDDLWWLL,DDDWWDLLWWLLDWDWDL
+Stade Brestois,Niort,3-0,/match/stade-brestois-29/chamois-niortais/2019,2019,37,ligue_2,20,38,0,3,0,2,79,20,11,5,61,34,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWLWW,12,4,2,35,16,11,53,10,14,12,33,38,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWDLD,5,5,8,15,21,LDWWWWDWWWDWWWLDWW,LWLWDWLDLDWWWWDDWL
+Clermont,Troyes,2-4,/match/clermont-foot/troyes/2019,2019,37,ligue_2,20,38,2,2,4,9,55,11,14,11,40,31,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDDDW,5,9,4,20,15,3,71,20,7,9,47,26,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLWLW,8,7,3,22,11,DLWWDDDWWDWDLLDLDD,LWWDLLWLDDDDDLDLLL
+Grenoble,Auxerre,0-0,/match/grenoble-foot-38/auxerre/2019,2019,37,ligue_2,20,38,1,0,0,8,56,13,10,13,42,44,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLDWW,8,4,6,19,18,14,46,10,9,17,33,35,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWLDL,4,4,10,17,21,WWDWLWLWDLDDLWWLLW,WLWWWLLDDLWWWWWWDD
+Lorient,Sochaux,0-0,/match/lorient/sochaux/2019,2019,37,ligue_2,20,38,1,0,0,5,66,16,11,9,48,39,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLLDD,8,7,3,25,19,17,42,10,7,19,24,42,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWDLL,4,4,10,11,20,DWWDWDWDDWLWWLDWLD,WLWWDLDWWWWWDWDLWL
+Nancy,Metz,1-0,/match/nancy/metz/2019,2019,37,ligue_2,20,38,0,1,0,18,42,11,6,19,35,47,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDWWW,6,2,10,15,22,1,82,23,9,4,59,22,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLDLW,11,6,1,26,11,LLLLDLLWDLWLWWLLWW,LLLLWLDLDLLDDDLDLL
+Orléans,Béziers,0-0,/match/orleans/beziers/2019,2019,37,ligue_2,20,38,1,0,0,10,54,15,6,15,49,48,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWWLW,7,4,7,21,21,19,39,8,10,18,30,50,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLDWW,6,1,11,20,31,LLWWWWLDLLLWDWDDWL,LLWWWLWLLWWWWWDWLW
+Red Star,Paris FC,0-1,/match/red-star/paris-sg/2019,2019,37,ligue_2,20,38,2,0,1,20,35,7,9,20,28,56,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDWLL,5,2,11,15,32,4,70,15,14,7,34,22,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWDDW,6,6,6,13,16,LLWLLWLLLWWLDWLLDL,DDWDDWLWDLLLLWLWWD
+Valenciennes,Le Havre,1-0,/match/valenciennes-afc/havre-ac/2019,2019,37,ligue_2,20,38,0,1,0,15,45,10,9,17,50,60,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLDLW,6,4,8,30,32,7,65,13,15,8,43,36,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWLWD,5,7,6,13,13,WDDLWLDWDLWLWWLLLL,DLWLLWWWDDDDWDDLLW
+Auxerre,Valenciennes,1-1,/match/auxerre/valenciennes-afc/2019,2019,38,ligue_2,20,38,1,1,1,15,47,10,10,17,33,35,WLLWWLWDWLWLLDLDDDWLWWDWWWLWWWDDWLDLD,6,5,7,16,14,14,49,11,9,17,51,60,WLDWDLWWWLWDWWDDWLWWDLDLWWWLLLLDLDLWW,4,5,9,20,28,LWLDLWLDDWWDWLDWLL,LWWWWWDWWDDLWLLDDW
+Béziers,Nancy,3-0,/match/beziers/nancy/2019,2019,38,ligue_2,20,38,0,3,0,19,40,8,11,18,30,50,LLLWDWLWDLWLLLDWLWLWDLWDWDDDWDWLLDWWD,2,9,7,10,19,16,46,12,6,19,36,47,LWLWLWLLDWLDLWWLDDWLWWDLLWLWWLLLDWWWW,5,4,9,20,25,LDLDLDLLDLDDDWDLDW,WWWLWDWLDWWDLLWLDW
+Chateauroux,Clermont,2-2,/match/berrichonne-chateauroux/clermont-foot/2019,2019,38,ligue_2,20,38,1,2,2,11,53,11,14,12,35,40,DLDDDWWWWLDDLLLWWDLWDLDLLDDWLDDWWDWLL,5,7,6,18,20,10,55,11,14,12,42,35,DWLDWLWDDWDDLWDWWDLWLDWLWLLDLDLWDDDWL,6,5,7,20,16,LDWWLDLWDLDDLDLDWW,WDLDWLDWLLWWLLDWDW
+Le Havre,Lorient,2-3,/match/havre-ac/lorient/2019,2019,38,ligue_2,20,38,2,2,3,7,65,13,15,9,43,37,DDLDWWLDLLWWWWWDWDWDWDDDLWDDWDDLWLWDW,8,8,2,30,23,5,68,16,12,9,48,39,DLLWDWLDWWWDLWWDDDWWLLWLWLLWDWWDLLDDD,8,4,6,23,20,DDWDLWWDWWWDLDWDWD,LLDLWWLWDWLLLWWDLD
+Lens,Orléans,5-2,/match/lens/orleans/2019,2019,38,ligue_2,20,38,0,5,2,6,68,17,9,11,44,26,LWLWDWWLDLWWLWDDWDLWWWWDLWWWWDDDLLWWL,10,5,3,25,7,9,56,15,7,15,49,48,LWLDWWWLWLWLLWDLWLLLWWDDLWLDLDLWWWLWD,8,2,8,28,27,WWWDWLDWLWWDWWDDLW,WDWLLLWWLWDLLLLWWW
+Metz,Stade Brestois,1-0,/match/metz/stade-brestois-29/2019,2019,38,ligue_2,20,38,0,1,0,2,82,23,9,5,59,23,LWLWLWLWLLWDLLWDWLWLLDDDWWDDLWDWLDLWW,12,3,3,33,11,1,83,21,11,5,64,34,LLDWWLWLWLWDDWDWWWDDLWDWDWDLDDLLWLWWW,8,7,3,26,18,WWWLWLWWWLDWWDWWDW,LWLLLDDWDLDDDDLLLW
+Niort,Red Star,1-0,/match/chamois-niortais/red-star/2019,2019,38,ligue_2,20,38,0,1,0,12,53,10,14,13,33,41,LWWDLWWLDWWLWDLLWDDWDWDWDWDDLLDDWDLDW,5,9,4,18,17,20,35,7,9,21,28,57,LWLDWWLWLWDLDLWLWWDWWLDDWWWDLDLLDWLLL,2,7,9,13,24,WDWLWWLWDDDDDLLDDD,WDWWDDWWDWDWWDDLWL
+Paris FC,Gazélec Ajaccio,1-0,/match/paris-sg/gazelec-ajaccio/2019,2019,38,ligue_2,20,38,0,1,0,4,72,16,14,7,35,22,DWDWWWDWDWDLDWWDWLDLLLDLDWWDLWWDWDDWL,9,8,1,21,6,17,44,9,12,16,30,53,DLLWDWWLDLWLLWWLWDLLLDDDDWLDWDWWLDLDL,4,8,6,17,27,WWWWDDWWDLDDWDWDDW,LDWDWLWWLLDDWDDWDD
+Sochaux,Grenoble,3-1,/match/sochaux/grenoble-foot-38/2019,2019,38,ligue_2,20,38,0,3,1,18,43,10,8,19,24,42,WLLWWWWLDLLLDWLWWWWWDWWDLWLDDLWLWDLLD,6,3,9,13,22,8,58,13,11,13,42,44,WDWWDWWLLWLLLWDDLLWDDDDLWWWDWWLLLDWWD,5,6,7,23,26,LWWLLLLWWDWLLDWLDL,DWWLLLDLWDDWWDWLDW
+Troyes,Ajaccio,0-0,/match/troyes/ajaccio/2019,2019,38,ligue_2,20,38,1,0,0,3,73,21,7,9,51,28,LLLWLWWDWLLLWWWLWDLDDWDLDWLWDWLWLWLWL,12,0,6,25,15,13,49,9,12,16,29,45,LLLWDWDDWWWDLWDWDLLWDDWWDWWDWDWLDLWWL,3,5,10,11,26,LLLWWLWWWLWLWWWWWW,LWWDWDWWLLDWDWWWDW

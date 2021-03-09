@@ -1,214 +1,214 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Heerenveen,Willem II,2-0,/match/heerenveen/willem-ii/2021,2021,1,eredivisie,18,24,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-PEC Zwolle,Feyenoord,0-2,/match/fc-zwolle/feyenoord/2021,2021,1,eredivisie,18,24,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Twente 1965,Fortuna Sittard,2-0,/match/fc-twente-1965/fortuna-sittard/2021,2021,1,eredivisie,18,24,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Emmen,VVV Venlo,3-5,/match/emmen/vvv/2021,2021,1,eredivisie,18,24,2,3,5,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Heracles,ADO Den Haag,2-0,/match/heracles/ado-den-haag/2021,2021,1,eredivisie,18,24,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sparta Rotterdam,Ajax,0-1,/match/sparta-rotterdam/ajax/2021,2021,1,eredivisie,18,24,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Groningen,PSV,1-3,/match/fc-groningen/psv/2021,2021,1,eredivisie,18,24,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-RKC Waalwijk,Vitesse,0-1,/match/rkc-waalwijk/vitesse/2021,2021,1,eredivisie,18,24,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Utrecht,AZ Alkmaar,2-2,/match/fc-utrecht/az/2021,2021,1,eredivisie,18,24,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-VVV Venlo,Utrecht,1-1,/match/vvv/fc-utrecht/2021,2021,2,eredivisie,18,24,1,1,1,4,1,0,0,5,3,L,0,0,0,0,0,7,0,1,0,2,2,D,0,0,0,0,0,,
-AZ Alkmaar,PEC Zwolle,1-1,/match/az/fc-zwolle/2021,2021,2,eredivisie,18,24,1,1,1,10,0,1,0,2,2,D,0,0,0,0,0,14,0,0,1,0,2,L,0,0,0,0,0,,
-Vitesse,Sparta Rotterdam,2-0,/match/vitesse/sparta-rotterdam/2021,2021,2,eredivisie,18,24,0,2,0,9,1,0,0,1,0,L,0,0,0,0,0,13,0,0,1,0,1,L,0,0,0,0,0,,
-PSV,Emmen,2-1,/match/psv/emmen/2021,2021,2,eredivisie,18,24,0,2,1,6,1,0,0,3,1,L,0,0,0,0,0,18,0,0,1,3,5,L,0,0,0,0,0,,
-Fortuna Sittard,Heerenveen,1-3,/match/fortuna-sittard/heerenveen/2021,2021,2,eredivisie,18,24,2,1,3,17,0,0,1,0,2,W,0,0,0,0,0,1,1,0,0,2,0,W,0,0,0,0,0,,
-ADO Den Haag,Groningen,0-1,/match/ado-den-haag/fc-groningen/2021,2021,2,eredivisie,18,24,2,0,1,11,0,0,1,0,2,W,0,0,0,0,0,12,0,0,1,1,3,L,0,0,0,0,0,,
-Feyenoord,Twente 1965,1-1,/match/feyenoord/fc-twente-1965/2021,2021,2,eredivisie,18,24,1,1,1,5,1,0,0,2,0,L,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
-Willem II,Heracles,4-0,/match/willem-ii/heracles/2021,2021,2,eredivisie,18,24,0,4,0,15,0,0,1,0,2,W,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
-Ajax,RKC Waalwijk,3-0,/match/ajax/rkc-waalwijk/2021,2021,2,eredivisie,18,24,0,3,0,8,1,0,0,1,0,L,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
-Twente 1965,Groningen,3-1,/match/fc-twente-1965/fc-groningen/2021,2021,3,eredivisie,18,24,0,3,1,5,1,1,0,3,1,WD,1,0,0,2,0,12,1,0,1,2,3,LL,1,0,0,1,0,W,L
-PEC Zwolle,Sparta Rotterdam,4-0,/match/fc-zwolle/sparta-rotterdam/2021,2021,3,eredivisie,18,24,0,4,0,13,0,1,1,1,3,LD,0,0,1,0,2,15,0,0,2,0,3,LW,0,0,1,0,2,L,W
-Fortuna Sittard,AZ Alkmaar,3-3,/match/fortuna-sittard/az/2021,2021,3,eredivisie,18,24,1,3,3,17,0,0,2,1,5,WL,0,0,1,1,3,10,0,2,0,3,3,DD,0,1,0,2,2,L,D
-Heerenveen,VVV Venlo,1-0,/match/heerenveen/vvv/2021,2021,3,eredivisie,18,24,0,1,0,1,2,0,0,5,1,WL,1,0,0,2,0,7,1,1,0,6,4,LD,1,0,0,5,3,W,L
-Ajax,Vitesse,2-1,/match/ajax/vitesse/2021,2021,3,eredivisie,18,24,0,2,1,3,2,0,0,4,0,LW,1,0,0,3,0,4,2,0,0,3,0,LW,1,0,0,1,0,W,L
-Feyenoord,ADO Den Haag,4-2,/match/feyenoord/ado-den-haag/2021,2021,3,eredivisie,18,24,0,4,2,8,1,1,0,3,1,LD,0,1,0,1,1,14,0,0,2,0,3,WL,0,0,1,0,2,D,W
-Utrecht,RKC Waalwijk,3-1,/match/fc-utrecht/rkc-waalwijk/2021,2021,3,eredivisie,18,24,0,3,1,11,0,2,0,3,3,DD,0,1,0,2,2,16,0,0,2,0,4,LW,0,0,1,0,3,D,W
-Heracles,PSV,1-1,/match/heracles/psv/2021,2021,3,eredivisie,18,24,1,1,1,6,1,0,1,2,4,WW,1,0,0,2,0,2,2,0,0,5,2,LW,1,0,0,3,1,W,L
-Emmen,Willem II,1-1,/match/emmen/willem-ii/2021,2021,3,eredivisie,18,24,1,1,1,18,0,0,2,4,7,LW,0,0,1,3,5,9,1,0,1,4,2,WW,0,0,1,0,2,L,W
-Utrecht,Heerenveen,1-1,/match/fc-utrecht/heerenveen/2021,2021,4,eredivisie,18,24,1,1,1,5,1,2,0,6,4,DDW,1,1,0,5,3,1,3,0,0,6,1,WLW,1,0,0,3,1,DW,L
-Vitesse,Heracles,3-0,/match/vitesse/heracles/2021,2021,4,eredivisie,18,24,0,3,0,7,2,0,1,4,2,LWW,1,0,0,2,0,8,1,1,1,3,5,WWD,0,0,1,0,4,W,W
-VVV Venlo,ADO Den Haag,1-2,/match/vvv/ado-den-haag/2021,2021,4,eredivisie,18,24,2,1,2,12,1,1,1,6,5,LDW,0,1,0,1,1,16,0,0,3,2,7,WLW,0,0,2,2,6,D,WW
-Twente 1965,Emmen,1-1,/match/fc-twente-1965/emmen/2021,2021,4,eredivisie,18,24,1,1,1,3,2,1,0,6,2,WDW,2,0,0,5,1,15,0,1,2,5,8,LWD,0,0,1,1,2,WW,W
-Groningen,Ajax,1-0,/match/fc-groningen/ajax/2021,2021,4,eredivisie,18,24,0,1,0,13,1,0,2,3,6,LLW,0,0,1,1,3,2,3,0,0,6,1,LWW,1,0,0,1,0,L,L
-Sparta Rotterdam,AZ Alkmaar,4-4,/match/sparta-rotterdam/az/2021,2021,4,eredivisie,18,24,1,4,4,17,0,0,3,0,7,LWW,0,0,1,0,1,11,0,3,0,6,6,DDD,0,2,0,5,5,L,DD
-Willem II,Feyenoord,1-4,/match/willem-ii/feyenoord/2021,2021,4,eredivisie,18,24,2,1,4,10,1,1,1,5,3,WWD,1,0,0,4,0,4,2,1,0,7,3,LDW,1,0,0,2,0,W,L
-PSV,Fortuna Sittard,2-0,/match/psv/fortuna-sittard/2021,2021,4,eredivisie,18,24,0,2,0,6,2,1,0,6,3,LWD,1,0,0,2,1,14,0,1,2,4,8,WLD,0,0,1,0,2,W,W
-RKC Waalwijk,PEC Zwolle,1-1,/match/rkc-waalwijk/fc-zwolle/2021,2021,4,eredivisie,18,24,1,1,1,18,0,0,3,1,7,LWW,0,0,1,0,1,9,1,1,1,5,3,LDW,0,1,0,1,1,L,D
-Heracles,RKC Waalwijk,0-1,/match/heracles/rkc-waalwijk/2021,2021,5,eredivisie,18,24,2,0,1,9,1,1,2,3,8,WWDW,1,1,0,3,1,18,0,1,3,2,8,LWWD,0,0,2,1,6,WD,WW
-AZ Alkmaar,VVV Venlo,2-2,/match/az/vvv/2021,2021,5,eredivisie,18,24,1,2,2,12,0,4,0,10,10,DDDD,0,1,0,1,1,13,1,1,2,7,7,LDWL,1,0,1,5,4,D,LW
-Willem II,Twente 1965,0-3,/match/willem-ii/fc-twente-1965/2021,2021,5,eredivisie,18,24,2,0,3,11,1,1,2,6,7,WWDL,1,0,1,5,4,2,2,2,0,7,3,WDWD,0,1,0,1,1,WL,D
-Feyenoord,Sparta Rotterdam,1-1,/match/feyenoord/sparta-rotterdam/2021,2021,5,eredivisie,18,24,1,1,1,4,3,1,0,11,4,LDWL,1,1,0,5,3,17,0,1,3,4,11,LWWD,0,0,2,0,6,DW,WW
-Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2021,2021,5,eredivisie,18,24,0,5,1,6,3,0,1,6,2,LWWW,2,0,0,5,1,1,3,1,0,7,2,WLWD,1,1,0,4,2,WW,LD
-ADO Den Haag,Vitesse,0-2,/match/ado-den-haag/vitesse/2021,2021,5,eredivisie,18,24,2,0,2,16,1,0,3,4,8,WLWL,0,0,1,0,1,5,3,0,1,7,2,LWWW,1,0,1,2,2,L,LW
-Groningen,Utrecht,0-0,/match/fc-groningen/fc-utrecht/2021,2021,5,eredivisie,18,24,1,0,0,8,2,0,2,4,6,LLWW,1,0,1,2,3,7,1,3,0,7,5,DDWD,0,1,0,1,1,LW,D
-PEC Zwolle,PSV,0-3,/match/fc-zwolle/psv/2021,2021,5,eredivisie,18,24,2,0,3,10,1,2,1,6,4,LDWD,1,0,1,4,2,3,3,1,0,8,3,LWDW,1,1,0,4,2,LW,LD
-Emmen,Fortuna Sittard,2-2,/match/emmen/fortuna-sittard/2021,2021,5,eredivisie,18,24,1,2,2,14,0,2,2,6,9,LWDD,0,1,1,4,6,15,0,1,3,4,10,WLDW,0,0,2,0,4,LD,WW
-Utrecht,Twente 1965,2-1,/match/fc-utrecht/fc-twente-1965/2021,2021,6,eredivisie,18,24,0,2,1,7,1,4,0,7,5,DDWDD,1,2,0,6,4,2,3,2,0,10,3,WDWDL,1,1,0,4,1,DWD,DL
-PEC Zwolle,Willem II,0-0,/match/fc-zwolle/willem-ii/2021,2021,6,eredivisie,18,24,1,0,0,10,1,2,2,6,7,LDWDL,1,0,2,4,5,12,1,1,3,6,10,WWDLL,0,1,1,1,3,LWL,WD
-Heerenveen,Emmen,4-0,/match/heerenveen/emmen/2021,2021,6,eredivisie,18,24,0,4,0,6,3,1,1,8,7,WLWDW,2,0,0,3,0,14,0,3,2,8,11,LWDDD,0,1,1,2,3,WW,WD
-Fortuna Sittard,Groningen,1-3,/match/fortuna-sittard/fc-groningen/2021,2021,6,eredivisie,18,24,2,1,3,16,0,2,3,6,12,WLDWD,0,1,1,4,6,8,2,1,2,4,6,LLWWD,1,0,1,2,3,LD,LW
-Vitesse,PSV,2-1,/match/vitesse/psv/2021,2021,6,eredivisie,18,24,0,2,1,5,4,0,1,9,2,LWWWL,2,0,0,5,0,3,4,1,0,11,3,LWDWL,2,1,0,7,2,WW,LDL
-Sparta Rotterdam,Heracles,1-1,/match/sparta-rotterdam/heracles/2021,2021,6,eredivisie,18,24,1,1,1,17,0,2,3,5,12,LWWDD,0,1,1,4,5,11,1,1,3,3,9,WWDWL,0,0,2,0,7,LD,WW
-RKC Waalwijk,Feyenoord,2-2,/match/rkc-waalwijk/feyenoord/2021,2021,6,eredivisie,18,24,1,2,2,15,1,1,3,3,8,LWWDL,0,1,1,1,2,4,3,2,0,12,5,LDWLD,2,0,0,6,1,LD,LL
-ADO Den Haag,AZ Alkmaar,2-2,/match/ado-den-haag/az/2021,2021,6,eredivisie,18,24,1,2,2,18,1,0,4,4,10,WLWLL,0,0,2,0,3,9,0,5,0,12,12,DDDDD,0,3,0,9,9,LL,DDD
-Twente 1965,PEC Zwolle,5-1,/match/fc-twente-1965/fc-zwolle/2021,2021,7,eredivisie,18,24,0,5,1,5,3,2,1,11,5,WDWDLW,2,1,0,6,2,9,1,3,2,6,7,LDWDLD,0,2,0,2,2,WWD,DD
-Ajax,Fortuna Sittard,5-2,/match/ajax/fortuna-sittard/2021,2021,7,eredivisie,18,24,0,5,2,3,4,0,1,11,3,LWWWW,3,0,0,10,2,18,0,2,4,7,15,WLDWDL,0,1,2,2,6,WWW,WWD
-Groningen,VVV Venlo,2-1,/match/fc-groningen/vvv/2021,2021,7,eredivisie,18,24,0,2,1,8,3,1,2,7,7,LLWWDL,1,1,1,2,3,14,1,2,2,9,9,LDWLD,1,1,1,7,6,LWD,LWD
-Willem II,Vitesse,1-3,/match/willem-ii/vitesse/2021,2021,7,eredivisie,18,24,2,1,3,12,1,2,3,6,10,WWDLLD,1,0,2,5,7,1,5,0,1,11,3,LWWWLW,2,0,1,4,2,WLL,LWL
-Heracles,Utrecht,4-1,/match/heracles/fc-utrecht/2021,2021,7,eredivisie,18,24,0,4,1,11,1,2,3,4,10,WWDWLD,1,1,1,3,2,4,2,4,0,9,6,DDWDDW,0,2,0,1,1,WDL,DD
-Sparta Rotterdam,Heerenveen,1-4,/match/sparta-rotterdam/heerenveen/2021,2021,7,eredivisie,18,24,2,1,4,16,0,3,3,6,13,LWWDDD,0,2,1,5,6,2,4,1,1,12,7,WLWDWW,1,1,1,5,7,LDD,LDW
-Emmen,Feyenoord,2-3,/match/emmen/feyenoord/2021,2021,7,eredivisie,18,24,2,2,3,15,0,3,3,8,15,LWDDDW,0,2,1,6,8,7,3,3,0,14,7,LDWLDD,2,1,0,8,3,LDD,LLD
-PSV,ADO Den Haag,4-0,/match/psv/ado-den-haag/2021,2021,7,eredivisie,18,24,0,4,0,6,4,1,1,12,5,LWDWLW,2,0,0,4,1,17,1,1,4,6,12,WLWLLD,1,0,2,4,7,WW,WWL
-AZ Alkmaar,RKC Waalwijk,3-0,/match/az/rkc-waalwijk/2021,2021,7,eredivisie,18,24,0,3,0,10,0,6,0,14,14,DDDDDD,0,2,0,3,3,13,1,2,3,5,10,LWWDLD,1,0,2,2,6,DD,WWL
-Fortuna Sittard,PEC Zwolle,2-2,/match/fortuna-sittard/fc-zwolle/2021,2021,8,eredivisie,18,24,1,2,2,18,0,2,5,9,20,WLDWDLW,0,1,2,5,9,11,1,3,3,7,12,LDWDLDW,0,2,1,3,7,LDL,DDW
-ADO Den Haag,Twente 1965,2-4,/match/ado-den-haag/fc-twente-1965/2021,2021,8,eredivisie,18,24,2,2,4,17,1,1,5,6,16,WLWLLDW,0,1,2,2,5,4,4,2,1,16,6,WDWDLWW,1,1,1,5,3,LLD,DLW
-VVV Venlo,Heracles,3-2,/match/vvv/heracles/2021,2021,8,eredivisie,18,24,0,3,2,14,1,2,3,10,11,LDWLDW,0,1,1,2,3,10,2,2,3,8,11,WWDWLDW,0,1,2,1,8,DL,WWD
-RKC Waalwijk,Sparta Rotterdam,0-2,/match/rkc-waalwijk/sparta-rotterdam/2021,2021,8,eredivisie,18,24,2,0,2,13,1,2,4,5,13,LWWDLDW,0,2,1,3,4,16,0,3,4,7,17,LWWDDDL,0,1,2,1,7,LDD,WWD
-Utrecht,Ajax,0-3,/match/fc-utrecht/ajax/2021,2021,8,eredivisie,18,24,2,0,3,7,2,4,1,10,10,DDWDDWW,2,2,0,8,5,2,5,0,1,16,5,LWWWWW,1,0,1,1,1,DWDW,LW
-Vitesse,Emmen,3-1,/match/vitesse/emmen/2021,2021,8,eredivisie,18,24,0,3,1,1,6,0,1,14,4,LWWWLWL,3,0,0,7,1,15,0,3,4,10,18,LWDDDWL,0,1,2,2,7,WWW,WDW
-Feyenoord,Groningen,2-0,/match/feyenoord/fc-groningen/2021,2021,8,eredivisie,18,24,0,2,0,6,4,3,0,17,9,LDWLDDL,1,2,0,6,4,8,4,1,2,9,8,LLWWDLW,2,0,1,5,4,DWD,LWL
-Heerenveen,AZ Alkmaar,0-3,/match/heerenveen/az/2021,2021,8,eredivisie,18,24,2,0,3,3,5,1,1,16,8,WLWDWWL,3,0,0,7,0,9,1,6,0,17,14,DDDDDDW,0,4,0,11,11,WWW,DDDD
-PSV,Willem II,3-0,/match/psv/willem-ii/2021,2021,8,eredivisie,18,24,0,3,0,5,5,1,1,16,5,LWDWLWW,3,0,0,8,1,12,1,2,4,7,13,WWDLLDL,0,2,1,1,3,WWW,WDD
-Willem II,VVV Venlo,2-1,/match/willem-ii/vvv/2021,2021,9,eredivisie,18,24,0,2,1,14,1,2,5,7,16,WWDLLDLW,1,0,3,6,10,12,2,2,3,13,13,LDWLDWW,1,1,2,8,8,WLLL,LWDW
-Groningen,Vitesse,1-1,/match/fc-groningen/vitesse/2021,2021,9,eredivisie,18,24,1,1,1,8,4,1,3,9,10,LLWWDLWW,2,1,1,4,4,1,7,0,1,17,5,LWWWLWLW,3,0,1,7,3,LWDW,LWLL
-PEC Zwolle,Utrecht,1-1,/match/fc-zwolle/fc-utrecht/2021,2021,9,eredivisie,18,24,1,1,1,11,1,4,3,9,14,LDWDLDWD,1,1,2,4,5,7,2,4,2,10,13,DDWDDWWL,0,2,1,2,5,LWLD,DDW
-Ajax,Heracles,5-0,/match/ajax/heracles/2021,2021,9,eredivisie,18,24,0,5,0,3,6,0,1,19,5,LWWWWWL,4,0,0,15,4,10,2,2,4,10,14,WWDWLDWW,0,1,3,3,11,WWWW,WWDW
-Sparta Rotterdam,ADO Den Haag,6-0,/match/sparta-rotterdam/ado-den-haag/2021,2021,9,eredivisie,18,24,0,6,0,13,1,3,4,9,17,LWWDDDLL,0,2,2,6,10,18,1,1,6,8,20,WLWLLDWL,1,0,3,4,11,LDDL,WWLW
-Fortuna Sittard,Feyenoord,1-3,/match/fortuna-sittard/feyenoord/2021,2021,9,eredivisie,18,24,2,1,3,17,0,3,5,11,22,WLDWDLWD,0,2,2,7,11,5,5,3,0,19,9,LDWLDDLW,3,1,0,11,5,LDLD,LLDL
-Twente 1965,PSV,1-1,/match/fc-twente-1965/psv/2021,2021,9,eredivisie,18,24,1,1,1,4,5,2,1,20,8,WDWDLWWL,3,1,0,11,3,2,6,1,1,19,5,LWDWLWWW,2,1,1,8,4,WWDW,LDLW
-RKC Waalwijk,Heerenveen,1-1,/match/rkc-waalwijk/heerenveen/2021,2021,9,eredivisie,18,24,1,1,1,15,1,2,5,5,15,LWWDLDWL,0,2,2,3,6,6,5,1,2,16,11,WLWDWWLL,2,1,1,9,8,LDDL,LDWL
-AZ Alkmaar,Emmen,1-0,/match/az/emmen/2021,2021,9,eredivisie,18,24,0,1,0,9,2,6,0,20,14,DDDDDDWL,1,2,0,6,3,16,0,3,5,11,21,LWDDDWLW,0,1,3,3,10,DDW,WDWW
-Twente 1965,RKC Waalwijk,0-2,/match/fc-twente-1965/rkc-waalwijk/2021,2021,10,eredivisie,18,24,2,0,2,4,5,3,1,21,9,WDWDLWWLD,3,2,0,12,4,15,1,3,5,6,16,LWWDLDWLD,1,0,3,2,9,WWDWD,WWLW
-Emmen,Ajax,0-5,/match/emmen/ajax/2021,2021,10,eredivisie,18,24,2,0,5,16,0,3,6,11,22,LWDDDWLWW,0,2,2,8,11,1,7,0,1,24,5,LWWWWWLW,2,0,1,4,1,LDDL,LWL
-ADO Den Haag,Heerenveen,1-1,/match/ado-den-haag/heerenveen/2021,2021,10,eredivisie,18,24,1,1,1,18,1,1,7,8,26,WLWLLDWLW,0,1,3,4,9,6,5,2,2,17,12,WLWDWWLLD,2,2,1,10,9,LLDL,LDWLD
-VVV Venlo,PEC Zwolle,2-2,/match/vvv/fc-zwolle/2021,2021,10,eredivisie,18,24,1,2,2,14,2,2,4,14,15,LDWLDWWW,1,1,1,5,5,12,1,5,3,10,15,LDWDLDWDD,0,3,1,5,9,DLW,DDWD
-Vitesse,Fortuna Sittard,2-0,/match/vitesse/fortuna-sittard/2021,2021,10,eredivisie,18,24,0,2,0,2,7,1,1,18,6,LWWWLWLWD,4,0,0,10,2,17,0,3,6,12,25,WLDWDLWDL,0,1,3,4,11,WWWW,WWDW
-Groningen,Willem II,1-0,/match/fc-groningen/willem-ii/2021,2021,10,eredivisie,18,24,0,1,0,8,4,2,3,10,11,LLWWDLWWD,2,2,1,5,5,13,2,2,5,9,17,WWDLLDLWW,0,2,2,1,6,LWDWD,WDDW
-Feyenoord,Utrecht,1-1,/match/feyenoord/fc-utrecht/2021,2021,10,eredivisie,18,24,1,1,1,5,6,3,0,22,10,LDWLDDLWL,2,2,0,8,4,9,2,5,2,11,14,DDWDDWWLD,0,3,1,3,6,DWDW,DDWD
-Heracles,AZ Alkmaar,1-2,/match/heracles/az/2021,2021,10,eredivisie,18,24,2,1,2,11,2,2,5,10,19,WWDWLDWWW,2,1,1,7,3,7,3,6,0,21,14,DDDDDDWLW,1,4,0,14,11,WDLW,DDDDL
-PSV,Sparta Rotterdam,1-0,/match/psv/sparta-rotterdam/2021,2021,10,eredivisie,18,24,0,1,0,3,6,2,1,20,6,LWDWLWWWD,4,0,0,11,1,10,2,3,4,15,17,LWWDDDLLW,1,1,2,3,7,WWWW,WWDL
-Sparta Rotterdam,Emmen,2-1,/match/sparta-rotterdam/emmen/2021,2021,11,eredivisie,18,24,0,2,1,12,2,3,5,15,18,LWWDDDLLWW,1,2,2,12,10,17,0,3,7,11,27,LWDDDWLWWL,0,1,4,3,11,LDDLW,WDWWW
-RKC Waalwijk,VVV Venlo,3-2,/match/rkc-waalwijk/vvv/2021,2021,11,eredivisie,18,24,0,3,2,15,2,3,5,8,16,LWWDLDWLDL,0,3,2,4,7,11,2,3,4,16,17,LDWLDWWWD,1,1,3,9,10,LDDLD,LWDWW
-Fortuna Sittard,Willem II,3-2,/match/fortuna-sittard/willem-ii/2021,2021,11,eredivisie,18,24,0,3,2,18,0,3,7,12,27,WLDWDLWDLW,0,2,3,8,14,14,2,2,6,9,18,WWDLLDLWWW,0,2,3,1,7,LDLDL,WDDWW
-Ajax,Twente 1965,1-2,/match/ajax/fc-twente-1965/2021,2021,11,eredivisie,18,24,2,1,2,2,8,0,1,29,5,LWWWWWLWL,5,0,0,20,4,5,5,3,2,21,11,WDWDLWWLDL,2,1,1,9,5,WWWWW,DLWL
-PEC Zwolle,Vitesse,2-1,/match/fc-zwolle/vitesse/2021,2021,11,eredivisie,18,24,0,2,1,10,1,6,3,12,17,LDWDLDWDDD,1,2,2,5,6,1,8,1,1,20,6,LWWWLWLWDW,3,1,1,8,4,LWLDD,LWLLD
-Feyenoord,Heracles,0-0,/match/feyenoord/heracles/2021,2021,11,eredivisie,18,24,1,0,0,4,6,4,0,23,11,LDWLDDLWLD,2,3,0,9,5,13,2,2,6,11,21,WWDWLDWWWL,0,1,4,3,16,DWDWD,WWDWW
-AZ Alkmaar,Groningen,1-2,/match/az/fc-groningen/2021,2021,11,eredivisie,18,24,2,1,2,6,4,6,0,23,15,DDDDDDWLWL,2,2,0,7,3,7,5,2,3,11,11,LLWWDLWWDW,2,0,2,5,6,DDWW,LWLW
-Utrecht,ADO Den Haag,1-1,/match/fc-utrecht/ado-den-haag/2021,2021,11,eredivisie,18,24,1,1,1,9,2,6,2,12,15,DDWDDWWLDD,2,2,1,8,8,16,1,2,7,9,27,WLWLLDWLWD,1,0,4,4,17,DWDWL,WWLWW
-Heerenveen,PSV,2-2,/match/heerenveen/psv/2021,2021,11,eredivisie,18,24,1,2,2,8,5,3,2,18,13,WLWDWWLLDD,3,0,1,7,3,3,7,2,1,21,6,LWDWLWWWDW,2,2,1,9,5,WWWL,LDLWD
-Heracles,Fortuna Sittard,1-2,/match/heracles/fortuna-sittard/2021,2021,12,eredivisie,18,24,2,1,2,13,2,3,6,11,21,WWDWLDWWWLD,2,1,2,8,5,16,1,3,7,15,29,WLDWDLWDLWW,0,1,4,4,13,WDLWL,WWDWW
-Groningen,RKC Waalwijk,2-0,/match/fc-groningen/rkc-waalwijk/2021,2021,12,eredivisie,18,24,0,2,0,6,6,2,3,13,12,LLWWDLWWDWL,3,2,1,6,5,12,3,3,5,11,18,LWWDLDWLDLW,2,0,3,4,9,LWDWDW,WWLWL
-Emmen,ADO Den Haag,1-1,/match/emmen/ado-den-haag/2021,2021,12,eredivisie,18,24,1,1,1,18,0,3,8,12,29,LWDDDWLWWLW,0,2,3,8,16,17,1,3,7,10,28,WLWLLDWLWDD,1,1,4,5,18,LDDLL,WWLWWD
-Ajax,PEC Zwolle,4-0,/match/ajax/fc-zwolle/2021,2021,12,eredivisie,18,24,0,4,0,3,8,0,2,30,7,LWWWWWLWLL,5,0,1,21,6,10,2,6,3,14,18,LDWDLDWDDDW,0,4,1,7,11,WWWWWL,DDWDD
-Vitesse,Heerenveen,1-1,/match/vitesse/heerenveen/2021,2021,12,eredivisie,18,24,1,1,1,1,8,1,2,21,8,LWWWLWLWDWW,5,0,0,12,2,7,5,4,2,20,15,WLWDWWLLDDD,2,3,1,11,10,WWWWW,LDWLDD
-VVV Venlo,Feyenoord,0-3,/match/vvv/feyenoord/2021,2021,12,eredivisie,18,24,2,0,3,14,2,3,5,18,20,LDWLDWWWDW,1,2,1,7,7,4,6,5,0,23,11,LDWLDDLWLDD,4,1,0,14,6,DLWD,LLDLL
-Willem II,Sparta Rotterdam,1-3,/match/willem-ii/sparta-rotterdam/2021,2021,12,eredivisie,18,24,2,1,3,15,2,2,7,11,21,WWDLLDLWWWW,2,0,3,8,11,11,3,3,5,17,19,LWWDDDLLWWW,1,1,3,3,8,WLLLW,WWDLW
-PSV,Utrecht,2-1,/match/psv/fc-utrecht/2021,2021,12,eredivisie,18,24,0,2,1,2,7,3,1,23,8,LWDWLWWWDWD,5,0,0,12,1,9,2,7,2,13,16,DDWDDWWLDDD,0,4,1,4,7,WWWWW,DDWDD
-Twente 1965,AZ Alkmaar,1-3,/match/fc-twente-1965/az/2021,2021,12,eredivisie,18,24,2,1,3,5,6,3,2,23,12,WDWDLWWLDLL,3,2,1,12,6,8,4,6,1,24,17,DDDDDDWLWLL,2,4,0,16,12,WWDWDL,DDDDLL
-PEC Zwolle,Emmen,0-0,/match/fc-zwolle/emmen/2021,2021,13,eredivisie,18,24,1,0,0,11,2,6,4,14,22,LDWDLDWDDDWW,2,2,2,7,7,18,0,4,8,13,30,LWDDDWLWWLWD,0,1,5,4,13,LWLDDW,WDWWWW
-Sparta Rotterdam,Groningen,2-3,/match/sparta-rotterdam/fc-groningen/2021,2021,13,eredivisie,18,24,2,2,3,10,4,3,5,20,20,LWWDDDLLWWWL,2,2,2,14,11,5,7,2,3,15,12,LLWWDLWWDWLW,3,0,2,7,7,LDDLWW,LWLWL
-VVV Venlo,Twente 1965,1-2,/match/vvv/fc-twente-1965/2021,2021,13,eredivisie,18,24,2,1,2,14,2,3,6,18,23,LDWLDWWWDWL,1,2,2,7,10,6,6,3,3,24,15,WDWDLWWLDLLL,3,1,1,11,6,DLWDL,DLWLL
-RKC Waalwijk,PSV,1-4,/match/rkc-waalwijk/psv/2021,2021,13,eredivisie,18,24,2,1,4,12,3,3,6,11,20,LWWDLDWLDLWW,1,3,2,7,9,1,8,3,1,25,9,LWDWLWWWDWDW,2,3,1,11,7,LDDLDW,LDLWDD
-Utrecht,Fortuna Sittard,1-1,/match/fc-utrecht/fortuna-sittard/2021,2021,13,eredivisie,18,24,1,1,1,9,2,7,3,14,18,DDWDDWWLDDDW,2,3,1,9,9,15,2,3,7,17,30,WLDWDLWDLWWL,1,1,4,6,14,DWDWLD,WWDWWL
-Vitesse,Feyenoord,1-0,/match/vitesse/feyenoord/2021,2021,13,eredivisie,18,24,0,1,0,3,8,2,2,22,9,LWWWLWLWDWWD,5,1,0,13,3,4,7,5,0,26,11,LDWLDDLWLDDL,5,1,0,17,6,WWWWWD,LLDLLL
-ADO Den Haag,Ajax,2-4,/match/ado-den-haag/ajax/2021,2021,13,eredivisie,18,24,2,2,4,17,1,4,7,11,29,WLWLLDWLWDDD,0,2,3,5,10,2,9,0,2,34,7,LWWWWWLWLLW,3,0,1,9,1,LLDLD,LWLL
-Heerenveen,Heracles,1-2,/match/heerenveen/heracles/2021,2021,13,eredivisie,18,24,2,1,2,7,5,5,2,21,16,WLWDWWLLDDDD,3,1,1,9,5,13,2,3,7,12,23,WWDWLDWWWLDL,0,2,4,3,16,WWWLD,WWDWWD
-AZ Alkmaar,Willem II,5-3,/match/az/willem-ii/2021,2021,13,eredivisie,18,24,0,5,3,8,5,6,1,27,18,DDDDDDWLWLLL,2,2,1,8,5,16,2,2,8,12,24,WWDLLDLWWWWL,0,2,4,3,10,DDWWL,WDDWWW
-Fortuna Sittard,RKC Waalwijk,2-1,/match/fortuna-sittard/rkc-waalwijk/2021,2021,14,eredivisie,18,24,0,2,1,14,2,4,7,18,31,WLDWDLWDLWWLD,1,2,3,11,16,12,3,3,7,12,24,LWWDLDWLDLWWL,2,0,4,4,11,LDLDLW,WWLWLW
-Emmen,Utrecht,2-3,/match/emmen/fc-utrecht/2021,2021,14,eredivisie,18,24,2,2,3,18,0,5,8,13,30,LWDDDWLWWLWDD,0,3,3,9,17,9,2,8,3,15,19,DDWDDWWLDDDWD,0,4,2,5,9,LDDLLD,DDWDDW
-PSV,VVV Venlo,4-1,/match/psv/vvv/2021,2021,14,eredivisie,18,24,0,4,1,1,9,3,1,29,10,LWDWLWWWDWDWL,6,0,0,14,2,15,2,3,7,19,25,LDWLDWWWDWLL,1,1,4,11,13,WWWWWW,LWDWWW
-Twente 1965,Sparta Rotterdam,0-2,/match/fc-twente-1965/sparta-rotterdam/2021,2021,14,eredivisie,18,24,2,0,2,7,7,3,3,26,16,WDWDLWWLDLLLL,3,2,2,13,9,11,4,3,6,22,23,LWWDDDLLWWWLL,2,1,3,6,9,WWDWDLL,WWDLWL
-AZ Alkmaar,Vitesse,3-1,/match/az/vitesse/2021,2021,14,eredivisie,18,24,0,3,1,6,6,6,1,32,21,DDDDDDWLWLLLW,3,2,1,13,8,2,9,2,2,23,9,LWWWLWLWDWWDW,3,1,2,9,6,DDWWLW,LWLLDW
-Willem II,Ajax,1-1,/match/willem-ii/ajax/2021,2021,14,eredivisie,18,24,1,1,1,16,2,2,9,15,29,WWDLLDLWWWWLW,2,0,4,9,14,3,10,0,2,38,9,LWWWWWLWLLWL,4,0,1,13,3,WLLLWL,LWLLL
-Groningen,Heracles,0-1,/match/fc-groningen/heracles/2021,2021,14,eredivisie,18,24,2,0,1,4,8,2,3,18,14,LLWWDLWWDWLWL,4,2,1,8,5,13,3,3,7,14,24,WWDWLDWWWLDLL,1,2,4,5,17,LWDWDWW,WWDWWDL
-ADO Den Haag,PEC Zwolle,0-2,/match/ado-den-haag/fc-zwolle/2021,2021,14,eredivisie,18,24,2,0,2,17,1,4,8,13,33,WLWLLDWLWDDDL,0,2,4,7,14,10,2,7,4,14,22,LDWDLDWDDDWWD,0,4,2,7,15,LLDLDL,DDWDDW
-Feyenoord,Heerenveen,3-0,/match/feyenoord/heerenveen/2021,2021,14,eredivisie,18,24,0,3,0,5,7,5,1,26,12,LDWLDDLWLDDLW,2,4,0,9,5,8,5,5,3,22,18,WLWDWWLLDDDDL,2,4,1,12,11,DWDWDD,LDWLDDD
-RKC Waalwijk,ADO Den Haag,0-1,/match/rkc-waalwijk/ado-den-haag/2021,2021,15,eredivisie,18,24,2,0,1,14,3,3,8,13,26,LWWDLDWLDLWWLW,1,3,3,8,13,17,1,4,9,13,35,WLWLLDWLWDDDLL,1,2,4,6,19,LDDLDWL,WWLWWDD
-Emmen,Twente 1965,1-4,/match/emmen/fc-twente-1965/2021,2021,15,eredivisie,18,24,2,1,4,18,0,5,9,15,33,LWDDDWLWWLWDDL,0,3,4,11,20,7,7,3,4,26,18,WDWDLWWLDLLLLL,4,1,1,13,7,LDDLLDL,DLWLLL
-Heracles,Vitesse,0-2,/match/heracles/vitesse/2021,2021,15,eredivisie,18,24,2,0,2,12,4,3,7,15,24,WWDWLDWWWLDLLL,2,1,3,9,7,2,9,2,3,24,12,LWWWLWLWDWWDWW,3,1,3,10,9,WDLWLL,LWLLDWW
-PEC Zwolle,AZ Alkmaar,1-1,/match/fc-zwolle/az/2021,2021,15,eredivisie,18,24,1,1,1,10,3,7,4,16,22,LDWDLDWDDDWWDL,2,3,2,7,7,5,7,6,1,35,22,DDDDDDWLWLLLWW,3,4,0,19,13,LWLDDWD,DDDDLLL
-Utrecht,Groningen,2-2,/match/fc-utrecht/fc-groningen/2021,2021,15,eredivisie,18,24,1,2,2,9,3,8,3,18,21,DDWDDWWLDDDWDL,2,4,1,10,10,6,8,2,4,18,15,LLWWDLWWDWLWLL,4,0,2,10,9,DWDWLDD,LWLWLL
-Sparta Rotterdam,Feyenoord,0-2,/match/sparta-rotterdam/feyenoord/2021,2021,15,eredivisie,18,24,2,0,2,11,5,3,6,24,23,LWWDDDLLWWWLLL,2,2,3,16,14,4,8,5,1,29,12,LDWLDDLWLDDLWW,5,1,1,17,7,LDDLWWL,LLDLLLW
-Heerenveen,Fortuna Sittard,1-3,/match/heerenveen/fortuna-sittard/2021,2021,15,eredivisie,18,24,2,1,3,8,5,5,4,22,21,WLWDWWLLDDDDLW,3,1,2,10,7,13,3,4,7,20,32,WLDWDLWDLWWLDW,1,2,4,7,15,WWWLDL,WWDWWLD
-VVV Venlo,Willem II,2-1,/match/vvv/willem-ii/2021,2021,15,eredivisie,18,24,0,2,1,16,2,3,8,20,29,LDWLDWWWDWLLW,1,2,3,8,12,15,2,3,9,16,30,WWDLLDLWWWWLWD,0,2,5,6,15,DLWDLL,WDDWWWW
-Ajax,PSV,2-2,/match/ajax/psv/2021,2021,15,eredivisie,18,24,1,2,2,3,10,1,2,39,10,LWWWWWLWLLWLD,6,0,1,25,6,1,10,3,1,33,11,LWDWLWWWDWDWLW,3,3,1,15,8,WWWWWLW,LDLWDDL
-Vitesse,Utrecht,1-0,/match/vitesse/fc-utrecht/2021,2021,16,eredivisie,18,24,0,1,0,3,10,2,3,26,12,LWWWLWLWDWWDWWL,6,1,0,14,3,8,3,9,3,20,23,DDWDDWWLDDDWDLD,1,4,2,8,11,WWWWWDW,DDWDDWL
-Heracles,Emmen,4-0,/match/heracles/emmen/2021,2021,16,eredivisie,18,24,0,4,0,13,4,3,8,15,26,WWDWLDWWWLDLLLL,2,1,4,9,9,18,0,5,10,16,37,LWDDDWLWWLWDDLL,0,2,5,4,13,WDLWLLL,WDWWWWD
-PSV,AZ Alkmaar,1-3,/match/psv/az/2021,2021,16,eredivisie,18,24,2,1,3,1,10,4,1,35,13,LWDWLWWWDWDWLWD,7,0,0,18,3,5,7,7,1,36,23,DDDDDDWLWLLLWWD,3,5,0,20,14,WWWWWWW,DDDDLLLD
-Fortuna Sittard,Sparta Rotterdam,0-1,/match/fortuna-sittard/sparta-rotterdam/2021,2021,16,eredivisie,18,24,2,0,1,12,4,4,7,23,33,WLDWDLWDLWWLDWL,2,2,3,13,17,11,5,3,7,24,25,LWWDDDLLWWWLLLL,3,1,3,8,9,LDLDLWW,WWDLWLL
-ADO Den Haag,VVV Venlo,1-4,/match/ado-den-haag/vvv/2021,2021,16,eredivisie,18,24,2,1,4,17,2,4,9,14,35,WLWLLDWLWDDDLLL,0,2,5,7,16,14,3,3,8,22,30,LDWLDWWWDWLLWW,1,1,5,12,17,LLDLDLL,LWDWWWW
-Feyenoord,PEC Zwolle,1-0,/match/feyenoord/fc-zwolle/2021,2021,16,eredivisie,18,24,0,1,0,4,9,5,1,31,12,LDWLDDLWLDDLWWL,3,4,0,12,5,9,3,8,4,17,23,LDWDLDWDDDWWDLD,1,4,2,9,15,DWDWDDW,DDWDDWL
-Heerenveen,RKC Waalwijk,1-1,/match/heerenveen/rkc-waalwijk/2021,2021,16,eredivisie,18,24,1,1,1,10,5,5,5,23,24,WLWDWWLLDDDDLWL,3,1,3,11,10,15,3,3,9,13,27,LWWDLDWLDLWWLWL,2,0,5,5,13,WWWLDLL,WWLWLWW
-Twente 1965,Ajax,1-3,/match/fc-twente-1965/ajax/2021,2021,16,eredivisie,18,24,2,1,3,7,8,3,4,30,19,WDWDLWWLDLLLLLL,3,2,3,13,11,2,10,2,2,41,12,LWWWWWLWLLWLDD,4,1,1,14,4,WWDWDLLL,LWLLLD
-Willem II,Groningen,2-3,/match/willem-ii/fc-groningen/2021,2021,16,eredivisie,18,24,2,2,3,16,2,3,10,17,32,WWDLLDLWWWWLWDW,2,1,4,10,15,6,8,3,4,20,17,LLWWDLWWDWLWLLD,4,1,2,12,11,WLLLWLD,LWLWLLD
-Emmen,Vitesse,1-4,/match/emmen/vitesse/2021,2021,17,eredivisie,18,24,2,1,4,18,0,5,11,16,41,LWDDDWLWWLWDDLLW,0,3,5,12,24,1,11,2,3,27,12,LWWWLWLWDWWDWWLW,4,1,3,12,9,LDDLLDLL,LWLLDWWL
-Sparta Rotterdam,PSV,3-5,/match/sparta-rotterdam/psv/2021,2021,17,eredivisie,18,24,2,3,5,11,6,3,7,25,25,LWWDDDLLWWWLLLLL,2,2,4,16,16,2,10,4,2,36,16,LWDWLWWWDWDWLWDL,3,4,1,17,10,LDDLWWLL,LDLWDDLD
-Utrecht,Heracles,2-0,/match/fc-utrecht/heracles/2021,2021,17,eredivisie,18,24,0,2,0,9,3,9,4,20,24,DDWDDWWLDDDWDLDW,2,5,1,12,12,12,5,3,8,19,26,WWDWLDWWWLDLLLLW,2,2,4,6,17,DWDWLDDD,WWDWWDLL
-PEC Zwolle,Fortuna Sittard,0-2,/match/fc-zwolle/fortuna-sittard/2021,2021,17,eredivisie,18,24,2,0,2,10,3,8,5,17,24,LDWDLDWDDDWWDLDW,2,4,2,8,8,13,4,4,8,23,34,WLDWDLWDLWWLDWLL,2,2,4,10,16,LWLDDWDD,WWDWWLDL
-AZ Alkmaar,ADO Den Haag,2-1,/match/az/ado-den-haag/2021,2021,17,eredivisie,18,24,0,2,1,5,8,7,1,39,24,DDDDDDWLWLLLWWDL,4,2,1,16,9,17,2,4,10,15,39,WLWLLDWLWDDDLLLL,2,2,4,7,19,DDWWLWW,WWLWWDDL
-RKC Waalwijk,Willem II,1-1,/match/rkc-waalwijk/willem-ii/2021,2021,17,eredivisie,18,24,1,1,1,15,3,4,9,14,28,LWWDLDWLDLWWLWLD,1,3,4,8,14,16,2,3,11,19,35,WWDLLDLWWWWLWDWL,0,2,6,7,17,LDDLDWLL,WDDWWWWW
-Groningen,Twente 1965,2-2,/match/fc-groningen/fc-twente-1965/2021,2021,17,eredivisie,18,24,1,2,2,6,9,3,4,23,19,LLWWDLWWDWLWLLDL,4,2,2,8,6,7,8,3,5,31,22,WDWDLWWLDLLLLLLL,5,1,1,17,8,LWDWDWWL,DLWLLLL
-VVV Venlo,Heerenveen,1-1,/match/vvv/heerenveen/2021,2021,17,eredivisie,18,24,1,1,1,14,4,3,8,26,31,LDWLDWWWDWLLWWL,2,2,3,10,13,8,5,6,5,24,25,WLWDWWLLDDDDLWLD,2,4,2,12,14,DLWDLLW,LDWLDDDW
-Ajax,Feyenoord,1-0,/match/ajax/feyenoord/2021,2021,17,eredivisie,18,24,0,1,0,3,11,2,2,44,13,LWWWWWLWLLWLDDL,6,1,1,27,8,4,10,5,1,32,12,LDWLDDLWLDDLWWLW,6,1,1,19,7,WWWWWLWD,LLDLLLWL
-Willem II,PEC Zwolle,1-3,/match/willem-ii/fc-zwolle/2021,2021,18,eredivisie,18,24,2,1,3,16,2,4,11,20,36,WWDLLDLWWWWLWDWLD,2,1,5,12,18,10,3,8,6,17,26,LDWDLDWDDDWWDLDWL,1,4,3,9,16,WLLLWLDL,DDWDDWLW
-ADO Den Haag,Emmen,0-0,/match/ado-den-haag/emmen/2021,2021,18,eredivisie,18,24,1,0,0,17,2,4,11,16,41,WLWLLDWLWDDDLLLLW,0,2,6,8,20,18,0,5,12,17,45,LWDDDWLWWLWDDLLWL,0,2,6,4,17,LLDLDLLL,WDWWWWDW
-Vitesse,Groningen,1-0,/match/vitesse/fc-groningen/2021,2021,18,eredivisie,18,24,0,1,0,1,12,2,3,31,13,LWWWLWLWDWWDWWLWL,7,1,0,15,3,6,9,4,4,25,21,LLWWDLWWDWLWLLDLD,5,1,2,15,13,WWWWWDWW,LWLWLLDL
-PSV,RKC Waalwijk,2-0,/match/psv/rkc-waalwijk/2021,2021,18,eredivisie,18,24,0,2,0,3,11,4,2,41,19,LWDWLWWWDWDWLWDLL,7,0,1,19,6,15,3,5,9,15,29,LWWDLDWLDLWWLWLDD,2,1,5,6,14,WWWWWWWL,WWLWLWWD
-Heracles,Heerenveen,1-0,/match/heracles/heerenveen/2021,2021,18,eredivisie,18,24,0,1,0,12,5,3,9,19,28,WWDWLDWWWLDLLLLWW,3,1,4,13,9,9,5,7,5,25,26,WLWDWWLLDDDDLWLDD,2,5,2,13,15,WDLWLLLW,LDWLDDDWD
-Fortuna Sittard,Ajax,1-2,/match/fortuna-sittard/ajax/2021,2021,18,eredivisie,18,24,2,1,2,13,5,4,8,25,34,WLDWDLWDLWWLDWLLL,2,2,4,13,18,2,12,2,2,45,13,LWWWWWLWLLWLDDLW,5,1,1,17,5,LDLDLWWL,LWLLLDL
-Twente 1965,VVV Venlo,0-1,/match/fc-twente-1965/vvv/2021,2021,18,eredivisie,18,24,2,0,1,7,8,4,5,33,24,WDWDLWWLDLLLLLLLD,3,2,4,14,14,14,4,4,8,27,32,LDWLDWWWDWLLWWLD,2,1,5,16,18,WWDWDLLLL,LWDWWWWL
-Utrecht,Sparta Rotterdam,1-0,/match/fc-utrecht/sparta-rotterdam/2021,2021,18,eredivisie,18,24,0,1,0,8,4,9,4,22,24,DDWDDWWLDDDWDLDWW,3,5,1,14,12,11,6,3,8,28,30,LWWDDDLLWWWLLLLLL,4,1,3,9,9,DWDWLDDDW,WWDLWLLL
-Feyenoord,AZ Alkmaar,2-3,/match/feyenoord/az/2021,2021,18,eredivisie,18,24,2,2,3,4,10,5,2,32,13,LDWLDDLWLDDLWWLWW,4,4,0,13,5,5,9,7,1,41,25,DDDDDDWLWLLLWWDLW,4,5,0,23,15,DWDWDDWW,DDDDLLLDL
-PEC Zwolle,Heracles,2-2,/match/fc-zwolle/heracles/2021,2021,19,eredivisie,18,24,1,2,2,11,4,8,6,20,27,LDWDLDWDDDWWDLDWLL,2,4,3,8,10,10,6,3,9,20,28,WWDWLDWWWLDLLLLWWW,2,2,5,6,19,LWLDDWDDL,WWDWWDLLW
-Emmen,PSV,0-2,/match/emmen/psv/2021,2021,19,eredivisie,18,24,2,0,2,18,0,6,12,17,45,LWDDDWLWWLWDDLLWLD,0,3,6,13,28,2,12,4,2,43,19,LWDWLWWWDWDWLWDLLW,4,4,1,22,13,LDDLLDLLL,LDLWDDLDL
-Groningen,ADO Den Haag,3-0,/match/fc-groningen/ado-den-haag/2021,2021,19,eredivisie,18,24,0,3,0,6,9,4,5,25,22,LLWWDLWWDWLWLLDLDW,4,3,2,10,8,17,2,5,11,16,41,WLWLLDWLWDDDLLLLWD,2,2,5,8,21,LWDWDWWLD,WWLWWDDLW
-AZ Alkmaar,Utrecht,0-1,/match/az/fc-utrecht/2021,2021,19,eredivisie,18,24,2,0,1,4,10,7,1,44,27,DDDDDDWLWLLLWWDLWL,5,2,1,18,10,7,5,9,4,23,24,DDWDDWWLDDDWDLDWWW,1,4,3,8,12,DDWWLWWW,DDWDDWLW
-RKC Waalwijk,Fortuna Sittard,1-2,/match/rkc-waalwijk/fortuna-sittard/2021,2021,19,eredivisie,18,24,2,1,2,15,3,5,10,15,31,LWWDLDWLDLWWLWLDDW,1,4,4,9,15,14,5,4,9,26,36,WLDWDLWDLWWLDWLLLL,3,2,4,12,16,LDDLDWLLD,WWDWWLDLL
-VVV Venlo,Vitesse,4-1,/match/vvv/vitesse/2021,2021,19,eredivisie,18,24,0,4,1,13,5,4,8,28,32,LDWLDWWWDWLLWWLDL,2,3,3,11,14,1,13,2,3,32,13,LWWWLWLWDWWDWWLWLW,5,1,3,16,10,DLWDLLWD,LWLLDWWLL
-Heerenveen,Feyenoord,3-0,/match/heerenveen/feyenoord/2021,2021,19,eredivisie,18,24,0,3,0,9,5,7,6,25,27,WLWDWWLLDDDDLWLDDW,3,2,3,12,11,5,10,5,3,34,16,LDWLDDLWLDDLWWLWWL,6,1,2,19,8,WWWLDLLD,LLDLLLWLW
-Sparta Rotterdam,Twente 1965,0-0,/match/sparta-rotterdam/fc-twente-1965/2021,2021,19,eredivisie,18,24,1,0,0,12,6,3,9,28,31,LWWDDDLLWWWLLLLLLW,2,2,5,19,21,8,8,4,6,33,25,WDWDLWWLDLLLLLLLDL,5,2,1,19,10,LDDLWWLLL,DLWLLLLD
-Ajax,Willem II,3-1,/match/ajax/willem-ii/2021,2021,19,eredivisie,18,24,0,3,1,3,13,2,2,47,14,LWWWWWLWLLWLDDLWL,7,1,1,28,8,16,2,4,12,21,39,WWDLLDLWWWWLWDWLDL,0,3,6,8,18,WWWWWLWDW,WDDWWWWWD
-Heracles,Groningen,1-0,/match/heracles/fc-groningen/2021,2021,20,eredivisie,18,24,0,1,0,12,6,4,9,22,30,WWDWLDWWWLDLLLLWWWD,4,1,4,14,9,6,10,4,5,28,22,LLWWDLWWDWLWLLDLDWW,5,1,3,15,14,WDLWLLLWW,LWLWLLDLW
-Utrecht,PEC Zwolle,3-3,/match/fc-utrecht/fc-zwolle/2021,2021,20,eredivisie,18,24,1,3,3,7,6,9,4,24,24,DDWDDWWLDDDWDLDWWWL,4,5,1,15,12,10,4,9,6,22,29,LDWDLDWDDDWWDLDWLLD,2,4,3,12,17,DWDWLDDDWW,DDWDDWLWL
-Fortuna Sittard,VVV Venlo,3-2,/match/fortuna-sittard/vvv/2021,2021,20,eredivisie,18,24,0,3,2,14,6,4,9,28,37,WLDWDLWDLWWLDWLLLLL,2,2,5,14,20,11,6,4,8,32,33,LDWLDWWWDWLLWWLDLW,3,1,5,17,18,LDLDLWWLL,LWDWWWWLL
-Vitesse,RKC Waalwijk,1-1,/match/vitesse/rkc-waalwijk/2021,2021,20,eredivisie,18,24,1,1,1,3,13,2,4,33,17,LWWWLWLWDWWDWWLWLWW,8,1,0,16,3,15,3,5,11,16,33,LWWDLDWLDLWWLWLDDWL,2,1,6,6,16,WWWWWDWWW,WWLWLWWDW
-Twente 1965,Heerenveen,0-0,/match/fc-twente-1965/heerenveen/2021,2021,20,eredivisie,18,24,1,0,0,8,8,5,6,33,25,WDWDLWWLDLLLLLLLDLD,3,2,5,14,15,9,6,7,6,28,27,WLWDWWLLDDDDLWLDDWW,2,5,3,13,16,WWDWDLLLLL,LDWLDDDWDW
-Feyenoord,PSV,3-1,/match/feyenoord/psv/2021,2021,20,eredivisie,18,24,0,3,1,5,10,5,4,34,19,LDWLDDLWLDDLWWLWWLW,4,4,1,15,8,2,13,4,2,45,19,LWDWLWWWDWDWLWDLLWL,5,4,1,24,13,DWDWDDWWL,LDLWDDLDLL
-Willem II,Emmen,2-0,/match/willem-ii/emmen/2021,2021,20,eredivisie,18,24,0,2,0,16,2,4,13,22,42,WWDLLDLWWWWLWDWLDLW,2,1,6,13,21,18,0,6,13,17,47,LWDDDWLWWLWDDLLWLDL,0,3,6,4,17,WLLLWLDLL,WDWWWWDWD
-AZ Alkmaar,Ajax,0-3,/match/az/ajax/2021,2021,20,eredivisie,18,24,2,0,3,4,10,7,2,44,28,DDDDDDWLWLLLWWDLWLL,5,2,2,18,11,1,14,2,2,50,15,LWWWWWLWLLWLDDLWLW,6,1,1,19,6,DDWWLWWWL,LWLLLDLL
-ADO Den Haag,Sparta Rotterdam,1-1,/match/ado-den-haag/sparta-rotterdam/2021,2021,20,eredivisie,18,24,1,1,1,17,2,5,12,16,44,WLWLLDWLWDDDLLLLWDW,0,3,6,8,20,13,6,4,9,28,31,LWWDDDLLWWWLLLLLLWD,4,1,4,9,10,LLDLDLLLD,WWDLWLLLW
-Fortuna Sittard,Heracles,0-1,/match/fortuna-sittard/heracles/2021,2021,21,eredivisie,18,24,2,0,1,12,7,4,9,31,39,WLDWDLWDLWWLDWLLLLLW,3,2,5,17,22,10,7,4,9,23,30,WWDWLDWWWLDLLLLWWWDW,2,3,5,8,21,LDLDLWWLLW,WWDWWDLLWD
-PEC Zwolle,RKC Waalwijk,1-1,/match/fc-zwolle/rkc-waalwijk/2021,2021,21,eredivisie,18,24,1,1,1,11,4,10,6,25,32,LDWDLDWDDDWWDLDWLLDD,2,5,3,10,12,15,3,6,11,17,34,LWWDLDWLDLWWLWLDDWLD,2,2,6,7,17,LWLDDWDDLD,WWLWLWWDWD
-Emmen,AZ Alkmaar,0-1,/match/emmen/az/2021,2021,21,eredivisie,18,24,2,0,1,18,0,6,14,17,49,LWDDDWLWWLWDDLLWLDLW,0,3,7,13,30,5,10,7,3,44,31,DDDDDDWLWLLLWWDLWLLL,5,5,0,26,17,LDDLLDLLLL,DDDDLLLDLL
-PSV,Twente 1965,3-0,/match/psv/fc-twente-1965/2021,2021,21,eredivisie,18,24,0,3,0,3,13,4,3,46,22,LWDWLWWWDWDWLWDLLWLW,8,0,1,21,6,8,8,6,6,33,25,WDWDLWWLDLLLLLLLDLDD,5,3,1,19,10,WWWWWWWLW,DLWLLLLDD
-Heerenveen,Vitesse,1-0,/match/heerenveen/vitesse/2021,2021,21,eredivisie,18,24,0,1,0,9,6,8,6,28,27,WLWDWWLLDDDDLWLDDWWD,4,2,3,15,11,2,13,3,4,34,18,LWWWLWLWDWWDWWLWLWWD,5,1,4,17,14,WWWLDLLDW,LWLLDWWLLW
-Willem II,ADO Den Haag,1-1,/match/willem-ii/ado-den-haag/2021,2021,21,eredivisie,18,24,1,1,1,16,3,4,13,24,42,WWDLLDLWWWWLWDWLDLWW,3,1,6,15,21,17,2,6,12,17,45,WLWLLDWLWDDDLLLLWDWD,2,2,6,8,24,WLLLWLDLLW,WWLWWDDLWW
-Groningen,Feyenoord,0-0,/match/fc-groningen/feyenoord/2021,2021,21,eredivisie,18,24,1,0,0,6,10,4,6,28,23,LLWWDLWWDWLWLLDLDWWW,5,3,2,13,8,4,11,5,4,37,20,LDWLDDLWLDDLWWLWWLWW,6,1,3,19,11,LWDWDWWLDW,LLDLLLWLWW
-RKC Waalwijk,Emmen,1-0,/match/rkc-waalwijk/emmen/2021,2021,22,eredivisie,18,24,0,1,0,15,3,7,11,18,35,LWWDLDWLDLWWLWLDDWLDD,1,4,5,10,17,18,0,6,15,17,50,LWDDDWLWWLWDDLLWLDLWL,0,3,7,4,19,LDDLDWLLDL,WDWWWWDWDW
-Groningen,PEC Zwolle,1-0,/match/fc-groningen/fc-zwolle/2021,2021,22,eredivisie,18,24,0,1,0,6,10,5,6,28,23,LLWWDLWWDWLWLLDLDWWWD,5,4,2,13,8,11,4,11,6,26,33,LDWDLDWDDDWWDLDWLLDDD,2,5,3,15,20,LWDWDWWLDWD,DDWDDWLWLD
-Sparta Rotterdam,Fortuna Sittard,1-2,/match/sparta-rotterdam/fortuna-sittard/2021,2021,22,eredivisie,18,24,2,1,2,14,6,5,9,29,32,LWWDDDLLWWWLLLLLLWDD,2,3,5,19,21,12,7,4,10,31,40,WLDWDLWDLWWLDWLLLLLWL,4,2,4,14,17,LDDLWWLLLD,WWDWWLDLLL
-ADO Den Haag,PSV,2-2,/match/ado-den-haag/psv/2021,2021,22,eredivisie,18,24,1,2,2,17,2,7,12,18,46,WLWLLDWLWDDDLLLLWDWDD,0,4,6,9,21,1,14,4,3,49,22,LWDWLWWWDWDWLWDLLWLWW,5,4,2,25,16,LLDLDLLLDD,LDLWDDLDLLW
-Heracles,Ajax,0-2,/match/heracles/ajax/2021,2021,22,eredivisie,18,24,2,0,2,9,8,4,9,24,30,WWDWLDWWWLDLLLLWWWDWL,5,1,4,15,9,2,15,2,2,53,15,LWWWWWLWLLWLDDLWLWL,7,1,1,22,6,WDLWLLLWWW,LWLLLDLLL
-AZ Alkmaar,Heerenveen,3-1,/match/az/heerenveen/2021,2021,22,eredivisie,18,24,0,3,1,5,11,7,3,45,31,DDDDDDWLWLLLWWDLWLLLL,5,2,3,18,14,8,7,8,6,29,27,WLWDWWLLDDDDLWLDDWWDW,2,6,3,13,16,DDWWLWWWLL,LDWLDDDWDWD
-Utrecht,VVV Venlo,3-1,/match/fc-utrecht/vvv/2021,2021,22,eredivisie,18,24,0,3,1,7,6,10,4,27,27,DDWDDWWLDDDWDLDWWWLD,4,6,1,18,15,13,6,4,9,34,36,LDWLDWWWDWLLWWLDLWW,3,1,6,19,21,DWDWLDDDWWD,LWDWWWWLLW
-Feyenoord,Willem II,5-0,/match/feyenoord/willem-ii/2021,2021,22,eredivisie,18,24,0,5,0,4,11,6,4,37,20,LDWLDDLWLDDLWWLWWLWWD,5,4,1,18,9,16,3,5,13,25,43,WWDLLDLWWWWLWDWLDLWWD,0,3,7,9,21,DWDWDDWWLW,WDDWWWWWDW
-Vitesse,Twente 1965,0-2,/match/vitesse/fc-twente-1965/2021,2021,22,eredivisie,18,24,2,0,2,3,13,3,5,34,19,LWWWLWLWDWWDWWLWLWWDW,8,2,0,17,4,10,8,6,7,33,28,WDWDLWWLDLLLLLLLDLDDW,5,3,2,19,13,WWWWWDWWWD,DLWLLLLDDW
-Willem II,Utrecht,0-6,/match/willem-ii/fc-utrecht/2021,2021,23,eredivisie,18,24,2,0,6,16,3,5,14,25,48,WWDLLDLWWWWLWDWLDLWWDW,3,2,6,16,22,7,7,10,4,30,28,DDWDDWWLDDDWDLDWWWLDW,2,4,3,9,12,WLLLWLDLLWD,DDWDDWLWL
-Emmen,PEC Zwolle,3-2,/match/emmen/fc-zwolle/2021,2021,23,eredivisie,18,24,0,3,2,18,0,6,16,17,51,LWDDDWLWWLWDDLLWLDLWLW,0,3,8,13,31,11,4,11,7,26,34,LDWDLDWDDDWWDLDWLLDDDW,2,5,4,15,21,LDDLLDLLLLL,DDWDDWLWLDW
-VVV Venlo,AZ Alkmaar,1-4,/match/vvv/az/2021,2021,23,eredivisie,18,24,2,1,4,13,6,4,10,35,39,LDWLDWWWDWLLWWLDLWWW,3,3,3,15,15,5,12,7,3,48,32,DDDDDDWLWLLLWWDLWLLLLW,6,5,0,27,17,DLWDLLWDW,DDDDLLLDLLL
-Fortuna Sittard,ADO Den Haag,2-0,/match/fortuna-sittard/ado-den-haag/2021,2021,23,eredivisie,18,24,0,2,0,12,8,4,10,33,41,WLDWDLWDLWWLDWLLLLLWLL,3,2,6,17,23,17,2,8,12,20,48,WLWLLDWLWDDDLLLLWDWDDD,2,3,6,9,25,LDLDLWWLLWL,WWLWWDDLWWD
-Twente 1965,Feyenoord,2-2,/match/fc-twente-1965/feyenoord/2021,2021,23,eredivisie,18,24,1,2,2,9,9,6,7,35,28,WDWDLWWLDLLLLLLLDLDDWL,3,3,5,14,15,4,12,6,4,42,20,LDWLDDLWLDDLWWLWWLWWDW,6,2,3,19,11,WWDWDLLLLLD,LLDLLLWLWWD
-RKC Waalwijk,Heracles,3-0,/match/rkc-waalwijk/heracles/2021,2021,23,eredivisie,18,24,0,3,0,15,4,7,11,19,35,LWWDLDWLDLWWLWLDDWLDDW,2,4,5,11,17,10,8,4,10,24,32,WWDWLDWWWLDLLLLWWWDWLL,3,3,5,9,21,LDDLDWLLDLW,WWDWWDLLWDL
-Heerenveen,Groningen,1-1,/match/heerenveen/fc-groningen/2021,2021,23,eredivisie,18,24,1,1,1,8,7,8,7,30,30,WLWDWWLLDDDDLWLDDWWDWW,5,2,3,16,11,6,11,5,6,29,23,LLWWDLWWDWLWLLDLDWWWDW,5,1,4,15,15,WWWLDLLDWW,LWLWLLDLWW
-PSV,Vitesse,3-1,/match/psv/vitesse/2021,2021,23,eredivisie,18,24,0,3,1,1,14,5,3,51,24,LWDWLWWWDWDWLWDLLWLWWD,9,0,1,24,6,3,13,3,6,34,21,LWWWLWLWDWWDWWLWLWWDWL,5,1,5,17,15,WWWWWWWLWW,LWLLDWWLLWW
-Ajax,Sparta Rotterdam,4-2,/match/ajax/sparta-rotterdam/2021,2021,23,eredivisie,18,24,0,4,2,2,16,2,2,55,15,LWWWWWLWLLWLDDLWLWLL,8,1,1,31,9,14,6,5,10,30,34,LWWDDDLLWWWLLLLLLWDDL,4,2,4,10,11,WWWWWLWDWW,WWDLWLLLWD
-PEC Zwolle,Heerenveen,4-1,/match/fc-zwolle/heerenveen/2021,2021,24,eredivisie,18,24,0,4,1,12,4,11,8,28,37,LDWDLDWDDDWWDLDWLLDDDWW,2,6,3,11,13,8,7,9,7,31,31,WLWDWWLLDDDDLWLDDWWDWWD,2,6,4,14,19,LWLDDWDDLDD,LDWLDDDWDWDW
-Utrecht,Emmen,0-1,/match/fc-utrecht/emmen/2021,2021,24,eredivisie,18,24,2,0,1,7,8,10,4,36,28,DDWDDWWLDDDWDLDWWWLDWL,5,6,1,21,16,18,1,6,16,20,53,LWDDDWLWWLWDDLLWLDLWLWW,0,3,8,4,20,DWDWLDDDWWDW,WDWWWWDWDWW
-ADO Den Haag,RKC Waalwijk,0-0,/match/ado-den-haag/rkc-waalwijk/2021,2021,24,eredivisie,18,24,1,0,0,17,2,8,13,20,50,WLWLLDWLWDDDLLLLWDWDDDW,0,5,6,11,23,13,5,7,11,22,35,LWWDLDWLDLWWLWLDDWLDDWW,2,3,6,8,18,LLDLDLLLDDD,WWLWLWWDWDD
-Vitesse,VVV Venlo,4-1,/match/vitesse/vvv/2021,2021,24,eredivisie,18,24,0,4,1,3,13,3,7,35,24,LWWWLWLWDWWDWWLWLWWDWLW,8,2,1,17,6,14,6,4,11,36,43,LDWLDWWWDWLLWWLDLWWWL,3,1,7,20,24,WWWWWDWWWDL,LWDWWWWLLWW
-Heracles,Twente 1965,2-2,/match/heracles/fc-twente-1965/2021,2021,24,eredivisie,18,24,1,2,2,11,8,4,11,24,35,WWDWLDWWWLDLLLLWWWDWLLW,5,1,5,15,11,9,9,7,7,37,30,WDWDLWWLDLLLLLLLDLDDWLD,6,3,2,21,13,WDLWLLLWWWL,DLWLLLLDDWL
-Sparta Rotterdam,Willem II,0-2,/match/sparta-rotterdam/willem-ii/2021,2021,24,eredivisie,18,24,2,0,2,15,6,5,11,32,38,LWWDDDLLWWWLLLLLLWDDLW,2,3,6,20,23,16,3,5,15,25,54,WWDLLDLWWWWLWDWLDLWWDWL,0,3,8,9,26,LDDLWWLLLDL,WDDWWWWWDWW
-Groningen,Fortuna Sittard,1-0,/match/fc-groningen/fortuna-sittard/2021,2021,24,eredivisie,18,24,0,1,0,6,11,6,6,30,24,LLWWDLWWDWLWLLDLDWWWDWD,6,4,2,14,8,10,9,4,10,35,41,WLDWDLWDLWWLDWLLLLLWLLW,5,2,4,16,18,LWDWDWWLDWDW,WWDWWLDLLLL
-PSV,Ajax,1-1,/match/psv/ajax/2021,2021,24,eredivisie,18,24,1,1,1,1,15,5,3,54,25,LWDWLWWWDWDWLWDLLWLWWDW,10,0,1,27,7,2,17,2,2,59,17,LWWWWWLWLLWLDDLWLWLLW,8,1,1,24,6,WWWWWWWLWWW,LWLLLDLLLL
-AZ Alkmaar,Feyenoord,4-2,/match/az/feyenoord/2021,2021,24,eredivisie,18,24,0,4,2,5,13,7,3,52,33,DDDDDDWLWLLLWWDLWLLLLWL,6,2,3,21,15,4,12,7,4,44,22,LDWLDDLWLDDLWWLWWLWWDWD,6,3,3,21,13,DDWWLWWWLLW,LLDLLLWLWWDD
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Heerenveen,Willem II,2-0,/match/heerenveen/willem-ii/2021,2021,1,eredivisie,18,24,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PEC Zwolle,Feyenoord,0-2,/match/fc-zwolle/feyenoord/2021,2021,1,eredivisie,18,24,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Twente 1965,Fortuna Sittard,2-0,/match/fc-twente-1965/fortuna-sittard/2021,2021,1,eredivisie,18,24,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Emmen,VVV Venlo,3-5,/match/emmen/vvv/2021,2021,1,eredivisie,18,24,2,3,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Heracles,ADO Den Haag,2-0,/match/heracles/ado-den-haag/2021,2021,1,eredivisie,18,24,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sparta Rotterdam,Ajax,0-1,/match/sparta-rotterdam/ajax/2021,2021,1,eredivisie,18,24,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Groningen,PSV,1-3,/match/fc-groningen/psv/2021,2021,1,eredivisie,18,24,2,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+RKC Waalwijk,Vitesse,0-1,/match/rkc-waalwijk/vitesse/2021,2021,1,eredivisie,18,24,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Utrecht,AZ Alkmaar,2-2,/match/fc-utrecht/az/2021,2021,1,eredivisie,18,24,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+VVV Venlo,Utrecht,1-1,/match/vvv/fc-utrecht/2021,2021,2,eredivisie,18,24,1,1,1,5,2,1,0,0,5,3,L,0,0,0,0,0,4,2,0,1,0,2,2,D,0,0,0,0,0,,
+AZ Alkmaar,PEC Zwolle,1-1,/match/az/fc-zwolle/2021,2021,2,eredivisie,18,24,1,1,1,10,1,0,1,0,2,2,D,0,0,0,0,0,16,0,0,0,1,0,2,L,0,0,0,0,0,,
+Vitesse,Sparta Rotterdam,2-0,/match/vitesse/sparta-rotterdam/2021,2021,2,eredivisie,18,24,0,2,0,9,2,1,0,0,1,0,L,0,0,0,0,0,18,0,0,0,1,0,1,L,0,0,0,0,0,,
+PSV,Emmen,2-1,/match/psv/emmen/2021,2021,2,eredivisie,18,24,0,2,1,8,2,1,0,0,3,1,L,0,0,0,0,0,11,0,0,0,1,3,5,L,0,0,0,0,0,,
+Fortuna Sittard,Heerenveen,1-3,/match/fortuna-sittard/heerenveen/2021,2021,2,eredivisie,18,24,2,1,3,15,0,0,0,1,0,2,W,0,0,0,0,0,3,4,1,0,0,2,0,W,0,0,0,0,0,,
+ADO Den Haag,Groningen,0-1,/match/ado-den-haag/fc-groningen/2021,2021,2,eredivisie,18,24,2,0,1,12,0,0,0,1,0,2,W,0,0,0,0,0,17,0,0,0,1,1,3,L,0,0,0,0,0,,
+Feyenoord,Twente 1965,1-1,/match/feyenoord/fc-twente-1965/2021,2021,2,eredivisie,18,24,1,1,1,6,2,1,0,0,2,0,L,0,0,0,0,0,2,4,1,0,0,2,0,W,0,0,0,0,0,,
+Willem II,Heracles,4-0,/match/willem-ii/heracles/2021,2021,2,eredivisie,18,24,0,4,0,13,0,0,0,1,0,2,W,0,0,0,0,0,1,4,1,0,0,2,0,W,0,0,0,0,0,,
+Ajax,RKC Waalwijk,3-0,/match/ajax/rkc-waalwijk/2021,2021,2,eredivisie,18,24,0,3,0,7,2,1,0,0,1,0,L,0,0,0,0,0,14,0,0,0,1,0,1,L,0,0,0,0,0,,
+Twente 1965,Groningen,3-1,/match/fc-twente-1965/fc-groningen/2021,2021,3,eredivisie,18,24,0,3,1,5,5,1,1,0,3,1,WD,1,0,0,2,0,12,2,1,0,1,2,3,LL,1,0,0,1,0,W,L
+PEC Zwolle,Sparta Rotterdam,4-0,/match/fc-zwolle/sparta-rotterdam/2021,2021,3,eredivisie,18,24,0,4,0,13,1,0,1,1,1,3,LD,0,0,1,0,2,18,0,0,0,2,0,3,LW,0,0,1,0,2,L,W
+Fortuna Sittard,AZ Alkmaar,3-3,/match/fortuna-sittard/az/2021,2021,3,eredivisie,18,24,1,3,3,17,0,0,0,2,1,5,WL,0,0,1,1,3,10,3,0,2,0,3,3,DD,0,1,0,2,2,L,D
+Heerenveen,VVV Venlo,1-0,/match/heerenveen/vvv/2021,2021,3,eredivisie,18,24,0,1,0,1,6,2,0,0,5,1,WL,1,0,0,2,0,8,4,1,1,0,6,4,LD,1,0,0,5,3,W,L
+Ajax,Vitesse,2-1,/match/ajax/vitesse/2021,2021,3,eredivisie,18,24,0,2,1,2,6,2,0,0,4,0,LW,1,0,0,3,0,4,6,2,0,0,3,0,LW,1,0,0,1,0,W,L
+Feyenoord,ADO Den Haag,4-2,/match/feyenoord/ado-den-haag/2021,2021,3,eredivisie,18,24,0,4,2,9,4,1,1,0,3,1,LD,0,1,0,1,1,15,0,0,0,2,0,3,WL,0,0,1,0,2,D,W
+Utrecht,RKC Waalwijk,3-1,/match/fc-utrecht/rkc-waalwijk/2021,2021,3,eredivisie,18,24,0,3,1,11,3,0,2,0,3,3,DD,0,1,0,2,2,16,0,0,0,2,0,4,LW,0,0,1,0,3,D,W
+Heracles,PSV,1-1,/match/heracles/psv/2021,2021,3,eredivisie,18,24,1,1,1,6,4,1,0,1,2,4,WW,1,0,0,2,0,3,6,2,0,0,5,2,LW,1,0,0,3,1,W,L
+Emmen,Willem II,1-1,/match/emmen/willem-ii/2021,2021,3,eredivisie,18,24,1,1,1,14,0,0,0,2,4,7,LW,0,0,1,3,5,7,4,1,0,1,4,2,WW,0,0,1,0,2,L,W
+Utrecht,Heerenveen,1-1,/match/fc-utrecht/heerenveen/2021,2021,4,eredivisie,18,24,1,1,1,5,7,1,2,0,6,4,DDW,1,1,0,5,3,1,10,3,0,0,6,1,WLW,1,0,0,3,1,DW,L
+Vitesse,Heracles,3-0,/match/vitesse/heracles/2021,2021,4,eredivisie,18,24,0,3,0,7,6,2,0,1,4,2,LWW,1,0,0,2,0,8,6,1,1,1,3,5,WWD,0,0,1,0,4,W,W
+VVV Venlo,ADO Den Haag,1-2,/match/vvv/ado-den-haag/2021,2021,4,eredivisie,18,24,2,1,2,12,4,1,1,1,6,5,LDW,0,1,0,1,1,16,0,0,0,3,2,7,WLW,0,0,2,2,6,D,WW
+Twente 1965,Emmen,1-1,/match/fc-twente-1965/emmen/2021,2021,4,eredivisie,18,24,1,1,1,3,9,2,1,0,6,2,WDW,2,0,0,5,1,14,2,0,1,2,5,8,LWD,0,0,1,1,2,WW,W
+Groningen,Ajax,1-0,/match/fc-groningen/ajax/2021,2021,4,eredivisie,18,24,0,1,0,13,2,1,0,2,3,6,LLW,0,0,1,1,3,2,10,3,0,0,6,1,LWW,1,0,0,1,0,L,L
+Sparta Rotterdam,AZ Alkmaar,4-4,/match/sparta-rotterdam/az/2021,2021,4,eredivisie,18,24,1,4,4,18,0,0,0,3,0,7,LWW,0,0,1,0,1,11,4,0,3,0,6,6,DDD,0,2,0,5,5,L,DD
+Willem II,Feyenoord,1-4,/match/willem-ii/feyenoord/2021,2021,4,eredivisie,18,24,2,1,4,9,5,1,1,1,5,3,WWD,1,0,0,4,0,4,8,2,1,0,7,3,LDW,1,0,0,2,0,W,L
+PSV,Fortuna Sittard,2-0,/match/psv/fortuna-sittard/2021,2021,4,eredivisie,18,24,0,2,0,6,7,2,1,0,6,3,LWD,1,0,0,2,1,15,2,0,1,2,4,8,WLD,0,0,1,0,2,W,W
+RKC Waalwijk,PEC Zwolle,1-1,/match/rkc-waalwijk/fc-zwolle/2021,2021,4,eredivisie,18,24,1,1,1,17,0,0,0,3,1,7,LWW,0,0,1,0,1,10,5,1,1,1,5,3,LDW,0,1,0,1,1,L,D
+Heracles,RKC Waalwijk,0-1,/match/heracles/rkc-waalwijk/2021,2021,5,eredivisie,18,24,2,0,1,10,6,1,1,2,3,8,WWDW,1,1,0,3,1,17,2,0,1,3,2,8,LWWD,0,0,2,1,6,WD,WW
+AZ Alkmaar,VVV Venlo,2-2,/match/az/vvv/2021,2021,5,eredivisie,18,24,1,2,2,12,5,0,4,0,10,10,DDDD,0,1,0,1,1,13,4,1,1,2,7,7,LDWL,1,0,1,5,4,D,LW
+Willem II,Twente 1965,0-3,/match/willem-ii/fc-twente-1965/2021,2021,5,eredivisie,18,24,2,0,3,11,5,1,1,2,6,7,WWDL,1,0,1,5,4,2,11,2,2,0,7,3,WDWD,0,1,0,1,1,WL,D
+Feyenoord,Sparta Rotterdam,1-1,/match/feyenoord/sparta-rotterdam/2021,2021,5,eredivisie,18,24,1,1,1,5,10,3,1,0,11,4,LDWL,1,1,0,5,3,18,2,0,1,3,4,11,LWWD,0,0,2,0,6,DW,WW
+Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2021,2021,5,eredivisie,18,24,0,5,1,4,10,3,0,1,6,2,LWWW,2,0,0,5,1,1,11,3,1,0,7,2,WLWD,1,1,0,4,2,WW,LD
+ADO Den Haag,Vitesse,0-2,/match/ado-den-haag/vitesse/2021,2021,5,eredivisie,18,24,2,0,2,16,2,1,0,3,4,8,WLWL,0,0,1,0,1,6,10,3,0,1,7,2,LWWW,1,0,1,2,2,L,LW
+Groningen,Utrecht,0-0,/match/fc-groningen/fc-utrecht/2021,2021,5,eredivisie,18,24,1,0,0,8,6,2,0,2,4,6,LLWW,1,0,1,2,3,7,9,1,3,0,7,5,DDWD,0,1,0,1,1,LW,D
+PEC Zwolle,PSV,0-3,/match/fc-zwolle/psv/2021,2021,5,eredivisie,18,24,2,0,3,9,6,1,2,1,6,4,LDWD,1,0,1,4,2,3,11,3,1,0,8,3,LWDW,1,1,0,4,2,LW,LD
+Emmen,Fortuna Sittard,2-2,/match/emmen/fortuna-sittard/2021,2021,5,eredivisie,18,24,1,2,2,14,3,0,2,2,6,9,LWDD,0,1,1,4,6,15,2,0,1,3,4,10,WLDW,0,0,2,0,4,LD,WW
+Utrecht,Twente 1965,2-1,/match/fc-utrecht/fc-twente-1965/2021,2021,6,eredivisie,18,24,0,2,1,7,10,1,4,0,7,5,DDWDD,1,2,0,6,4,2,13,3,2,0,10,3,WDWDL,1,1,0,4,1,DWD,DL
+PEC Zwolle,Willem II,0-0,/match/fc-zwolle/willem-ii/2021,2021,6,eredivisie,18,24,1,0,0,11,6,1,2,2,6,7,LDWDL,1,0,2,4,5,12,5,1,1,3,6,10,WWDLL,0,1,1,1,3,LWL,WD
+Heerenveen,Emmen,4-0,/match/heerenveen/emmen/2021,2021,6,eredivisie,18,24,0,4,0,6,11,3,1,1,8,7,WLWDW,2,0,0,3,0,14,5,0,3,2,8,11,LWDDD,0,1,1,2,3,WW,WD
+Fortuna Sittard,Groningen,1-3,/match/fortuna-sittard/fc-groningen/2021,2021,6,eredivisie,18,24,2,1,3,16,3,0,2,3,6,12,WLDWD,0,1,1,4,6,8,8,2,1,2,4,6,LLWWD,1,0,1,2,3,LD,LW
+Vitesse,PSV,2-1,/match/vitesse/psv/2021,2021,6,eredivisie,18,24,0,2,1,5,12,4,0,1,9,2,LWWWL,2,0,0,5,0,3,13,4,1,0,11,3,LWDWL,2,1,0,7,2,WW,LDL
+Sparta Rotterdam,Heracles,1-1,/match/sparta-rotterdam/heracles/2021,2021,6,eredivisie,18,24,1,1,1,17,3,0,2,3,5,12,LWWDD,0,1,1,4,5,10,6,1,1,3,3,9,WWDWL,0,0,2,0,7,LD,WW
+RKC Waalwijk,Feyenoord,2-2,/match/rkc-waalwijk/feyenoord/2021,2021,6,eredivisie,18,24,1,2,2,15,4,1,1,3,3,8,LWWDL,0,1,1,1,2,4,12,3,2,0,12,5,LDWLD,2,0,0,6,1,LD,LL
+ADO Den Haag,AZ Alkmaar,2-2,/match/ado-den-haag/az/2021,2021,6,eredivisie,18,24,1,2,2,18,2,1,0,4,4,10,WLWLL,0,0,2,0,3,9,7,0,5,0,12,12,DDDDD,0,3,0,9,9,LL,DDD
+Twente 1965,PEC Zwolle,5-1,/match/fc-twente-1965/fc-zwolle/2021,2021,7,eredivisie,18,24,0,5,1,7,13,3,2,1,11,5,WDWDLW,2,1,0,6,2,9,8,1,3,2,6,7,LDWDLD,0,2,0,2,2,WWD,DD
+Ajax,Fortuna Sittard,5-2,/match/ajax/fortuna-sittard/2021,2021,7,eredivisie,18,24,0,5,2,3,14,4,0,1,11,3,LWWWW,3,0,0,10,2,18,3,0,2,4,7,15,WLDWDL,0,1,2,2,6,WWW,WWD
+Groningen,VVV Venlo,2-1,/match/fc-groningen/vvv/2021,2021,7,eredivisie,18,24,0,2,1,8,10,3,1,2,7,7,LLWWDL,1,1,1,2,3,14,5,1,2,2,9,9,LDWLD,1,1,1,7,6,LWD,LWD
+Willem II,Vitesse,1-3,/match/willem-ii/vitesse/2021,2021,7,eredivisie,18,24,2,1,3,12,6,1,2,3,6,10,WWDLLD,1,0,2,5,7,1,16,5,0,1,11,3,LWWWLW,2,0,1,4,2,WLL,LWL
+Heracles,Utrecht,4-1,/match/heracles/fc-utrecht/2021,2021,7,eredivisie,18,24,0,4,1,11,7,1,2,3,4,10,WWDWLD,1,1,1,3,2,4,14,2,4,0,9,6,DDWDDW,0,2,0,1,1,WDL,DD
+Sparta Rotterdam,Heerenveen,1-4,/match/sparta-rotterdam/heerenveen/2021,2021,7,eredivisie,18,24,2,1,4,16,5,0,3,3,6,13,LWWDDD,0,2,1,5,6,2,15,4,1,1,12,7,WLWDWW,1,1,1,5,7,LDD,LDW
+Emmen,Feyenoord,2-3,/match/emmen/feyenoord/2021,2021,7,eredivisie,18,24,2,2,3,15,5,0,3,3,8,15,LWDDDW,0,2,1,6,8,6,13,3,3,0,14,7,LDWLDD,2,1,0,8,3,LDD,LLD
+PSV,ADO Den Haag,4-0,/match/psv/ado-den-haag/2021,2021,7,eredivisie,18,24,0,4,0,5,13,4,1,1,12,5,LWDWLW,2,0,0,4,1,17,4,1,1,4,6,12,WLWLLD,1,0,2,4,7,WW,WWL
+AZ Alkmaar,RKC Waalwijk,3-0,/match/az/rkc-waalwijk/2021,2021,7,eredivisie,18,24,0,3,0,10,8,0,6,0,14,14,DDDDDD,0,2,0,3,3,13,6,1,2,3,5,10,LWWDLD,1,0,2,2,6,DD,WWL
+Fortuna Sittard,PEC Zwolle,2-2,/match/fortuna-sittard/fc-zwolle/2021,2021,8,eredivisie,18,24,1,2,2,18,3,0,2,5,9,20,WLDWDLW,0,1,2,5,9,11,8,1,3,3,7,12,LDWDLDW,0,2,1,3,7,LDL,DDW
+ADO Den Haag,Twente 1965,2-4,/match/ado-den-haag/fc-twente-1965/2021,2021,8,eredivisie,18,24,2,2,4,17,4,1,1,5,6,16,WLWLLDW,0,1,2,2,5,5,17,4,2,1,16,6,WDWDLWW,1,1,1,5,3,LLD,DLW
+VVV Venlo,Heracles,3-2,/match/vvv/heracles/2021,2021,8,eredivisie,18,24,0,3,2,14,5,1,2,3,10,11,LDWLDW,0,1,1,2,3,10,11,2,2,3,8,11,WWDWLDW,0,1,2,1,8,DL,WWD
+RKC Waalwijk,Sparta Rotterdam,0-2,/match/rkc-waalwijk/sparta-rotterdam/2021,2021,8,eredivisie,18,24,2,0,2,13,6,1,2,4,5,13,LWWDLDW,0,2,1,3,4,16,5,0,3,4,7,17,LWWDDDL,0,1,2,1,7,LDD,WWD
+Utrecht,Ajax,0-3,/match/fc-utrecht/ajax/2021,2021,8,eredivisie,18,24,2,0,3,7,14,2,4,1,10,10,DDWDDWW,2,2,0,8,5,2,18,5,0,1,16,5,LWWWWW,1,0,1,1,1,DWDW,LW
+Vitesse,Emmen,3-1,/match/vitesse/emmen/2021,2021,8,eredivisie,18,24,0,3,1,1,18,6,0,1,14,4,LWWWLWL,3,0,0,7,1,15,5,0,3,4,10,18,LWDDDWL,0,1,2,2,7,WWW,WDW
+Feyenoord,Groningen,2-0,/match/feyenoord/fc-groningen/2021,2021,8,eredivisie,18,24,0,2,0,6,15,4,3,0,17,9,LDWLDDL,1,2,0,6,4,8,14,4,1,2,9,8,LLWWDLW,2,0,1,5,4,DWD,LWL
+Heerenveen,AZ Alkmaar,0-3,/match/heerenveen/az/2021,2021,8,eredivisie,18,24,2,0,3,3,17,5,1,1,16,8,WLWDWWL,3,0,0,7,0,9,12,1,6,0,17,14,DDDDDDW,0,4,0,11,11,WWW,DDDD
+PSV,Willem II,3-0,/match/psv/willem-ii/2021,2021,8,eredivisie,18,24,0,3,0,4,17,5,1,1,16,5,LWDWLWW,3,0,0,8,1,12,6,1,2,4,7,13,WWDLLDL,0,2,1,1,3,WWW,WDD
+Willem II,VVV Venlo,2-1,/match/willem-ii/vvv/2021,2021,9,eredivisie,18,24,0,2,1,14,6,1,2,5,7,16,WWDLLDLW,1,0,3,6,10,12,9,2,2,3,13,13,LDWLDWW,1,1,2,8,8,WLLL,LWDW
+Groningen,Vitesse,1-1,/match/fc-groningen/vitesse/2021,2021,9,eredivisie,18,24,1,1,1,8,14,4,1,3,9,10,LLWWDLWW,2,1,1,4,4,1,22,7,0,1,17,5,LWWWLWLW,3,0,1,7,3,LWDW,LWLL
+PEC Zwolle,Utrecht,1-1,/match/fc-zwolle/fc-utrecht/2021,2021,9,eredivisie,18,24,1,1,1,11,9,1,4,3,9,14,LDWDLDWD,1,1,2,4,5,7,14,2,4,2,10,13,DDWDDWWL,0,2,1,2,5,LWLD,DDW
+Ajax,Heracles,5-0,/match/ajax/heracles/2021,2021,9,eredivisie,18,24,0,5,0,3,20,6,0,1,19,5,LWWWWWL,4,0,0,15,4,10,11,2,2,4,10,14,WWDWLDWW,0,1,3,3,11,WWWW,WWDW
+Sparta Rotterdam,ADO Den Haag,6-0,/match/sparta-rotterdam/ado-den-haag/2021,2021,9,eredivisie,18,24,0,6,0,13,7,1,3,4,9,17,LWWDDDLL,0,2,2,6,10,18,4,1,1,6,8,20,WLWLLDWL,1,0,3,4,11,LDDL,WWLW
+Fortuna Sittard,Feyenoord,1-3,/match/fortuna-sittard/feyenoord/2021,2021,9,eredivisie,18,24,2,1,3,17,5,0,3,5,11,22,WLDWDLWD,0,2,2,7,11,5,19,5,3,0,19,9,LDWLDDLW,3,1,0,11,5,LDLD,LLDL
+Twente 1965,PSV,1-1,/match/fc-twente-1965/psv/2021,2021,9,eredivisie,18,24,1,1,1,4,19,5,2,1,20,8,WDWDLWWL,3,1,0,11,3,2,21,6,1,1,19,5,LWDWLWWW,2,1,1,8,4,WWDW,LDLW
+RKC Waalwijk,Heerenveen,1-1,/match/rkc-waalwijk/heerenveen/2021,2021,9,eredivisie,18,24,1,1,1,15,6,1,2,5,5,15,LWWDLDWL,0,2,2,3,6,6,17,5,1,2,16,11,WLWDWWLL,2,1,1,9,8,LDDL,LDWL
+AZ Alkmaar,Emmen,1-0,/match/az/emmen/2021,2021,9,eredivisie,18,24,0,1,0,9,14,2,6,0,20,14,DDDDDDWL,1,2,0,6,3,16,5,0,3,5,11,21,LWDDDWLW,0,1,3,3,10,DDW,WDWW
+Twente 1965,RKC Waalwijk,0-2,/match/fc-twente-1965/rkc-waalwijk/2021,2021,10,eredivisie,18,24,2,0,2,4,21,5,3,1,21,9,WDWDLWWLD,3,2,0,12,4,15,8,1,3,5,6,16,LWWDLDWLD,1,0,3,2,9,WWDWD,WWLW
+Emmen,Ajax,0-5,/match/emmen/ajax/2021,2021,10,eredivisie,18,24,2,0,5,16,5,0,3,6,11,22,LWDDDWLWW,0,2,2,8,11,1,24,7,0,1,24,5,LWWWWWLW,2,0,1,4,1,LDDL,LWL
+ADO Den Haag,Heerenveen,1-1,/match/ado-den-haag/heerenveen/2021,2021,10,eredivisie,18,24,1,1,1,18,4,1,1,7,8,26,WLWLLDWLW,0,1,3,4,9,6,18,5,2,2,17,12,WLWDWWLLD,2,2,1,10,9,LLDL,LDWLD
+VVV Venlo,PEC Zwolle,2-2,/match/vvv/fc-zwolle/2021,2021,10,eredivisie,18,24,1,2,2,14,9,2,2,4,14,15,LDWLDWWW,1,1,1,5,5,12,11,1,5,3,10,15,LDWDLDWDD,0,3,1,5,9,DLW,DDWD
+Vitesse,Fortuna Sittard,2-0,/match/vitesse/fortuna-sittard/2021,2021,10,eredivisie,18,24,0,2,0,2,23,7,1,1,18,6,LWWWLWLWD,4,0,0,10,2,17,5,0,3,6,12,25,WLDWDLWDL,0,1,3,4,11,WWWW,WWDW
+Groningen,Willem II,1-0,/match/fc-groningen/willem-ii/2021,2021,10,eredivisie,18,24,0,1,0,8,16,4,2,3,10,11,LLWWDLWWD,2,2,1,5,5,13,10,2,2,5,9,17,WWDLLDLWW,0,2,2,1,6,LWDWD,WDDW
+Feyenoord,Utrecht,1-1,/match/feyenoord/fc-utrecht/2021,2021,10,eredivisie,18,24,1,1,1,5,21,6,3,0,22,10,LDWLDDLWL,2,2,0,8,4,9,15,2,5,2,11,14,DDWDDWWLD,0,3,1,3,6,DWDW,DDWD
+Heracles,AZ Alkmaar,1-2,/match/heracles/az/2021,2021,10,eredivisie,18,24,2,1,2,11,11,2,2,5,10,19,WWDWLDWWW,2,1,1,7,3,7,18,3,6,0,21,14,DDDDDDWLW,1,4,0,14,11,WDLW,DDDDL
+PSV,Sparta Rotterdam,1-0,/match/psv/sparta-rotterdam/2021,2021,10,eredivisie,18,24,0,1,0,3,22,6,2,1,20,6,LWDWLWWWD,4,0,0,11,1,10,11,2,3,4,15,17,LWWDDDLLW,1,1,2,3,7,WWWW,WWDL
+Sparta Rotterdam,Emmen,2-1,/match/sparta-rotterdam/emmen/2021,2021,11,eredivisie,18,24,0,2,1,12,11,2,3,5,15,18,LWWDDDLLWW,1,2,2,12,10,17,5,0,3,7,11,27,LWDDDWLWWL,0,1,4,3,11,LDDLW,WDWWW
+RKC Waalwijk,VVV Venlo,3-2,/match/rkc-waalwijk/vvv/2021,2021,11,eredivisie,18,24,0,3,2,15,10,2,3,5,8,16,LWWDLDWLDL,0,3,2,4,7,11,11,2,3,4,16,17,LDWLDWWWD,1,1,3,9,10,LDDLD,LWDWW
+Fortuna Sittard,Willem II,3-2,/match/fortuna-sittard/willem-ii/2021,2021,11,eredivisie,18,24,0,3,2,18,5,0,3,7,12,27,WLDWDLWDLW,0,2,3,8,14,14,10,2,2,6,9,18,WWDLLDLWWW,0,2,3,1,7,LDLDL,WDDWW
+Ajax,Twente 1965,1-2,/match/ajax/fc-twente-1965/2021,2021,11,eredivisie,18,24,2,1,2,2,26,8,0,1,29,5,LWWWWWLWL,5,0,0,20,4,5,21,5,3,2,21,11,WDWDLWWLDL,2,1,1,9,5,WWWWW,DLWL
+PEC Zwolle,Vitesse,2-1,/match/fc-zwolle/vitesse/2021,2021,11,eredivisie,18,24,0,2,1,10,12,1,6,3,12,17,LDWDLDWDDD,1,2,2,5,6,1,27,8,1,1,20,6,LWWWLWLWDW,3,1,1,8,4,LWLDD,LWLLD
+Feyenoord,Heracles,0-0,/match/feyenoord/heracles/2021,2021,11,eredivisie,18,24,1,0,0,4,23,6,4,0,23,11,LDWLDDLWLD,2,3,0,9,5,13,11,2,2,6,11,21,WWDWLDWWWL,0,1,4,3,16,DWDWD,WWDWW
+AZ Alkmaar,Groningen,1-2,/match/az/fc-groningen/2021,2021,11,eredivisie,18,24,2,1,2,6,20,4,6,0,23,15,DDDDDDWLWL,2,2,0,7,3,7,20,5,2,3,11,11,LLWWDLWWDW,2,0,2,5,6,DDWW,LWLW
+Utrecht,ADO Den Haag,1-1,/match/fc-utrecht/ado-den-haag/2021,2021,11,eredivisie,18,24,1,1,1,9,16,2,6,2,12,15,DDWDDWWLDD,2,2,1,8,8,16,6,1,2,7,9,27,WLWLLDWLWD,1,0,4,4,17,DWDWL,WWLWW
+Heerenveen,PSV,2-2,/match/heerenveen/psv/2021,2021,11,eredivisie,18,24,1,2,2,8,19,5,3,2,18,13,WLWDWWLLDD,3,0,1,7,3,3,26,7,2,1,21,6,LWDWLWWWDW,2,2,1,9,5,WWWL,LDLWD
+Heracles,Fortuna Sittard,1-2,/match/heracles/fortuna-sittard/2021,2021,12,eredivisie,18,24,2,1,2,13,12,2,3,6,11,21,WWDWLDWWWLD,2,1,2,8,5,16,9,1,3,7,15,29,WLDWDLWDLWW,0,1,4,4,13,WDLWL,WWDWW
+Groningen,RKC Waalwijk,2-0,/match/fc-groningen/rkc-waalwijk/2021,2021,12,eredivisie,18,24,0,2,0,6,22,6,2,3,13,12,LLWWDLWWDWL,3,2,1,6,5,12,14,3,3,5,11,18,LWWDLDWLDLW,2,0,3,4,9,LWDWDW,WWLWL
+Emmen,ADO Den Haag,1-1,/match/emmen/ado-den-haag/2021,2021,12,eredivisie,18,24,1,1,1,18,5,0,3,8,12,29,LWDDDWLWWLW,0,2,3,8,16,17,7,1,3,7,10,28,WLWLLDWLWDD,1,1,4,5,18,LDDLL,WWLWWD
+Ajax,PEC Zwolle,4-0,/match/ajax/fc-zwolle/2021,2021,12,eredivisie,18,24,0,4,0,3,26,8,0,2,30,7,LWWWWWLWLL,5,0,1,21,6,10,16,2,6,3,14,18,LDWDLDWDDDW,0,4,1,7,11,WWWWWL,DDWDD
+Vitesse,Heerenveen,1-1,/match/vitesse/heerenveen/2021,2021,12,eredivisie,18,24,1,1,1,1,27,8,1,2,21,8,LWWWLWLWDWW,5,0,0,12,2,7,21,5,4,2,20,15,WLWDWWLLDDD,2,3,1,11,10,WWWWW,LDWLDD
+VVV Venlo,Feyenoord,0-3,/match/vvv/feyenoord/2021,2021,12,eredivisie,18,24,2,0,3,14,11,2,3,5,18,20,LDWLDWWWDW,1,2,1,7,7,4,25,6,5,0,23,11,LDWLDDLWLDD,4,1,0,14,6,DLWD,LLDLL
+Willem II,Sparta Rotterdam,1-3,/match/willem-ii/sparta-rotterdam/2021,2021,12,eredivisie,18,24,2,1,3,15,10,2,2,7,11,21,WWDLLDLWWWW,2,0,3,8,11,11,15,3,3,5,17,19,LWWDDDLLWWW,1,1,3,3,8,WLLLW,WWDLW
+PSV,Utrecht,2-1,/match/psv/fc-utrecht/2021,2021,12,eredivisie,18,24,0,2,1,2,27,7,3,1,23,8,LWDWLWWWDWD,5,0,0,12,1,9,18,2,7,2,13,16,DDWDDWWLDDD,0,4,1,4,7,WWWWW,DDWDD
+Twente 1965,AZ Alkmaar,1-3,/match/fc-twente-1965/az/2021,2021,12,eredivisie,18,24,2,1,3,5,23,6,3,2,23,12,WDWDLWWLDLL,3,2,1,12,6,8,20,4,6,1,24,17,DDDDDDWLWLL,2,4,0,16,12,WWDWDL,DDDDLL
+PEC Zwolle,Emmen,0-0,/match/fc-zwolle/emmen/2021,2021,13,eredivisie,18,24,1,0,0,11,16,2,6,4,14,22,LDWDLDWDDDWW,2,2,2,7,7,18,7,0,4,8,13,30,LWDDDWLWWLWD,0,1,5,4,13,LWLDDW,WDWWWW
+Sparta Rotterdam,Groningen,2-3,/match/sparta-rotterdam/fc-groningen/2021,2021,13,eredivisie,18,24,2,2,3,10,17,4,3,5,20,20,LWWDDDLLWWWL,2,2,2,14,11,5,26,7,2,3,15,12,LLWWDLWWDWLW,3,0,2,7,7,LDDLWW,LWLWL
+VVV Venlo,Twente 1965,1-2,/match/vvv/fc-twente-1965/2021,2021,13,eredivisie,18,24,2,1,2,14,11,2,3,6,18,23,LDWLDWWWDWL,1,2,2,7,10,6,23,6,3,3,24,15,WDWDLWWLDLLL,3,1,1,11,6,DLWDL,DLWLL
+RKC Waalwijk,PSV,1-4,/match/rkc-waalwijk/psv/2021,2021,13,eredivisie,18,24,2,1,4,12,14,3,3,6,11,20,LWWDLDWLDLWW,1,3,2,7,9,1,31,8,3,1,25,9,LWDWLWWWDWDW,2,3,1,11,7,LDDLDW,LDLWDD
+Utrecht,Fortuna Sittard,1-1,/match/fc-utrecht/fortuna-sittard/2021,2021,13,eredivisie,18,24,1,1,1,9,18,2,7,3,14,18,DDWDDWWLDDDW,2,3,1,9,9,15,11,2,3,7,17,30,WLDWDLWDLWWL,1,1,4,6,14,DWDWLD,WWDWWL
+Vitesse,Feyenoord,1-0,/match/vitesse/feyenoord/2021,2021,13,eredivisie,18,24,0,1,0,3,29,8,2,2,22,9,LWWWLWLWDWWD,5,1,0,13,3,4,27,7,5,0,26,11,LDWLDDLWLDDL,5,1,0,17,6,WWWWWD,LLDLLL
+ADO Den Haag,Ajax,2-4,/match/ado-den-haag/ajax/2021,2021,13,eredivisie,18,24,2,2,4,17,8,1,4,7,11,29,WLWLLDWLWDDD,0,2,3,5,10,2,30,9,0,2,34,7,LWWWWWLWLLW,3,0,1,9,1,LLDLD,LWLL
+Heerenveen,Heracles,1-2,/match/heerenveen/heracles/2021,2021,13,eredivisie,18,24,2,1,2,7,22,5,5,2,21,16,WLWDWWLLDDDD,3,1,1,9,5,13,12,2,3,7,12,23,WWDWLDWWWLDL,0,2,4,3,16,WWWLD,WWDWWD
+AZ Alkmaar,Willem II,5-3,/match/az/willem-ii/2021,2021,13,eredivisie,18,24,0,5,3,8,22,5,6,1,27,18,DDDDDDWLWLLL,2,2,1,8,5,16,10,2,2,8,12,24,WWDLLDLWWWWL,0,2,4,3,10,DDWWL,WDDWWW
+Fortuna Sittard,RKC Waalwijk,2-1,/match/fortuna-sittard/rkc-waalwijk/2021,2021,14,eredivisie,18,24,0,2,1,14,12,2,4,7,18,31,WLDWDLWDLWWLD,1,2,3,11,16,12,14,3,3,7,12,24,LWWDLDWLDLWWL,2,0,4,4,11,LDLDLW,WWLWLW
+Emmen,Utrecht,2-3,/match/emmen/fc-utrecht/2021,2021,14,eredivisie,18,24,2,2,3,18,8,0,5,8,13,30,LWDDDWLWWLWDD,0,3,3,9,17,9,20,2,8,3,15,19,DDWDDWWLDDDWD,0,4,2,5,9,LDDLLD,DDWDDW
+PSV,VVV Venlo,4-1,/match/psv/vvv/2021,2021,14,eredivisie,18,24,0,4,1,1,33,9,3,1,29,10,LWDWLWWWDWDWL,6,0,0,14,2,15,11,2,3,7,19,25,LDWLDWWWDWLL,1,1,4,11,13,WWWWWW,LWDWWW
+Twente 1965,Sparta Rotterdam,0-2,/match/fc-twente-1965/sparta-rotterdam/2021,2021,14,eredivisie,18,24,2,0,2,7,25,7,3,3,26,16,WDWDLWWLDLLLL,3,2,2,13,9,11,17,4,3,6,22,23,LWWDDDLLWWWLL,2,1,3,6,9,WWDWDLL,WWDLWL
+AZ Alkmaar,Vitesse,3-1,/match/az/vitesse/2021,2021,14,eredivisie,18,24,0,3,1,6,26,6,6,1,32,21,DDDDDDWLWLLLW,3,2,1,13,8,2,33,9,2,2,23,9,LWWWLWLWDWWDW,3,1,2,9,6,DDWWLW,LWLLDW
+Willem II,Ajax,1-1,/match/willem-ii/ajax/2021,2021,14,eredivisie,18,24,1,1,1,16,10,2,2,9,15,29,WWDLLDLWWWWLW,2,0,4,9,14,3,32,10,0,2,38,9,LWWWWWLWLLWL,4,0,1,13,3,WLLLWL,LWLLL
+Groningen,Heracles,0-1,/match/fc-groningen/heracles/2021,2021,14,eredivisie,18,24,2,0,1,4,28,8,2,3,18,14,LLWWDLWWDWLWL,4,2,1,8,5,13,14,3,3,7,14,24,WWDWLDWWWLDLL,1,2,4,5,17,LWDWDWW,WWDWWDL
+ADO Den Haag,PEC Zwolle,0-2,/match/ado-den-haag/fc-zwolle/2021,2021,14,eredivisie,18,24,2,0,2,17,8,1,4,8,13,33,WLWLLDWLWDDDL,0,2,4,7,14,10,18,2,7,4,14,22,LDWDLDWDDDWWD,0,4,2,7,15,LLDLDL,DDWDDW
+Feyenoord,Heerenveen,3-0,/match/feyenoord/heerenveen/2021,2021,14,eredivisie,18,24,0,3,0,5,27,7,5,1,26,12,LDWLDDLWLDDLW,2,4,0,9,5,8,22,5,5,3,22,18,WLWDWWLLDDDDL,2,4,1,12,11,DWDWDD,LDWLDDD
+RKC Waalwijk,ADO Den Haag,0-1,/match/rkc-waalwijk/ado-den-haag/2021,2021,15,eredivisie,18,24,2,0,1,14,14,3,3,8,13,26,LWWDLDWLDLWWLW,1,3,3,8,13,17,8,1,4,9,13,35,WLWLLDWLWDDDLL,1,2,4,6,19,LDDLDWL,WWLWWDD
+Emmen,Twente 1965,1-4,/match/emmen/fc-twente-1965/2021,2021,15,eredivisie,18,24,2,1,4,18,8,0,5,9,15,33,LWDDDWLWWLWDDL,0,3,4,11,20,7,25,7,3,4,26,18,WDWDLWWLDLLLLL,4,1,1,13,7,LDDLLDL,DLWLLL
+Heracles,Vitesse,0-2,/match/heracles/vitesse/2021,2021,15,eredivisie,18,24,2,0,2,12,16,4,3,7,15,24,WWDWLDWWWLDLLL,2,1,3,9,7,2,33,9,2,3,24,12,LWWWLWLWDWWDWW,3,1,3,10,9,WDLWLL,LWLLDWW
+PEC Zwolle,AZ Alkmaar,1-1,/match/fc-zwolle/az/2021,2021,15,eredivisie,18,24,1,1,1,10,20,3,7,4,16,22,LDWDLDWDDDWWDL,2,3,2,7,7,5,30,7,6,1,35,22,DDDDDDWLWLLLWW,3,4,0,19,13,LWLDDWD,DDDDLLL
+Utrecht,Groningen,2-2,/match/fc-utrecht/fc-groningen/2021,2021,15,eredivisie,18,24,1,2,2,9,22,3,8,3,18,21,DDWDDWWLDDDWDL,2,4,1,10,10,6,28,8,2,4,18,15,LLWWDLWWDWLWLL,4,0,2,10,9,DWDWLDD,LWLWLL
+Sparta Rotterdam,Feyenoord,0-2,/match/sparta-rotterdam/feyenoord/2021,2021,15,eredivisie,18,24,2,0,2,11,19,5,3,6,24,23,LWWDDDLLWWWLLL,2,2,3,16,14,4,31,8,5,1,29,12,LDWLDDLWLDDLWW,5,1,1,17,7,LDDLWWL,LLDLLLW
+Heerenveen,Fortuna Sittard,1-3,/match/heerenveen/fortuna-sittard/2021,2021,15,eredivisie,18,24,2,1,3,8,22,5,5,4,22,21,WLWDWWLLDDDDLW,3,1,2,10,7,13,16,3,4,7,20,32,WLDWDLWDLWWLDW,1,2,4,7,15,WWWLDL,WWDWWLD
+VVV Venlo,Willem II,2-1,/match/vvv/willem-ii/2021,2021,15,eredivisie,18,24,0,2,1,16,11,2,3,8,20,29,LDWLDWWWDWLLW,1,2,3,8,12,15,12,2,3,9,16,30,WWDLLDLWWWWLWD,0,2,5,6,15,DLWDLL,WDDWWWW
+Ajax,PSV,2-2,/match/ajax/psv/2021,2021,15,eredivisie,18,24,1,2,2,3,33,10,1,2,39,10,LWWWWWLWLLWLD,6,0,1,25,6,1,37,10,3,1,33,11,LWDWLWWWDWDWLW,3,3,1,15,8,WWWWWLW,LDLWDDL
+Vitesse,Utrecht,1-0,/match/vitesse/fc-utrecht/2021,2021,16,eredivisie,18,24,0,1,0,3,35,10,2,3,26,12,LWWWLWLWDWWDWWL,6,1,0,14,3,8,24,3,9,3,20,23,DDWDDWWLDDDWDLD,1,4,2,8,11,WWWWWDW,DDWDDWL
+Heracles,Emmen,4-0,/match/heracles/emmen/2021,2021,16,eredivisie,18,24,0,4,0,13,16,4,3,8,15,26,WWDWLDWWWLDLLLL,2,1,4,9,9,18,8,0,5,10,16,37,LWDDDWLWWLWDDLL,0,2,5,4,13,WDLWLLL,WDWWWWD
+PSV,AZ Alkmaar,1-3,/match/psv/az/2021,2021,16,eredivisie,18,24,2,1,3,1,38,10,4,1,35,13,LWDWLWWWDWDWLWD,7,0,0,18,3,5,31,7,7,1,36,23,DDDDDDWLWLLLWWD,3,5,0,20,14,WWWWWWW,DDDDLLLD
+Fortuna Sittard,Sparta Rotterdam,0-1,/match/fortuna-sittard/sparta-rotterdam/2021,2021,16,eredivisie,18,24,2,0,1,12,18,4,4,7,23,33,WLDWDLWDLWWLDWL,2,2,3,13,17,11,19,5,3,7,24,25,LWWDDDLLWWWLLLL,3,1,3,8,9,LDLDLWW,WWDLWLL
+ADO Den Haag,VVV Venlo,1-4,/match/ado-den-haag/vvv/2021,2021,16,eredivisie,18,24,2,1,4,17,10,2,4,9,14,35,WLWLLDWLWDDDLLL,0,2,5,7,16,14,15,3,3,8,22,30,LDWLDWWWDWLLWW,1,1,5,12,17,LLDLDLL,LWDWWWW
+Feyenoord,PEC Zwolle,1-0,/match/feyenoord/fc-zwolle/2021,2021,16,eredivisie,18,24,0,1,0,4,33,9,5,1,31,12,LDWLDDLWLDDLWWL,3,4,0,12,5,9,22,3,8,4,17,23,LDWDLDWDDDWWDLD,1,4,2,9,15,DWDWDDW,DDWDDWL
+Heerenveen,RKC Waalwijk,1-1,/match/heerenveen/rkc-waalwijk/2021,2021,16,eredivisie,18,24,1,1,1,10,22,5,5,5,23,24,WLWDWWLLDDDDLWL,3,1,3,11,10,15,14,3,3,9,13,27,LWWDLDWLDLWWLWL,2,0,5,5,13,WWWLDLL,WWLWLWW
+Twente 1965,Ajax,1-3,/match/fc-twente-1965/ajax/2021,2021,16,eredivisie,18,24,2,1,3,7,27,8,3,4,30,19,WDWDLWWLDLLLLLL,3,2,3,13,11,2,35,10,2,2,41,12,LWWWWWLWLLWLDD,4,1,1,14,4,WWDWDLLL,LWLLLD
+Willem II,Groningen,2-3,/match/willem-ii/fc-groningen/2021,2021,16,eredivisie,18,24,2,2,3,16,12,2,3,10,17,32,WWDLLDLWWWWLWDW,2,1,4,10,15,6,29,8,3,4,20,17,LLWWDLWWDWLWLLD,4,1,2,12,11,WLLLWLD,LWLWLLD
+Emmen,Vitesse,1-4,/match/emmen/vitesse/2021,2021,17,eredivisie,18,24,2,1,4,18,8,0,5,11,16,41,LWDDDWLWWLWDDLLW,0,3,5,12,24,1,39,11,2,3,27,12,LWWWLWLWDWWDWWLW,4,1,3,12,9,LDDLLDLL,LWLLDWWL
+Sparta Rotterdam,PSV,3-5,/match/sparta-rotterdam/psv/2021,2021,17,eredivisie,18,24,2,3,5,11,21,6,3,7,25,25,LWWDDDLLWWWLLLLL,2,2,4,16,16,2,38,10,4,2,36,16,LWDWLWWWDWDWLWDL,3,4,1,17,10,LDDLWWLL,LDLWDDLD
+Utrecht,Heracles,2-0,/match/fc-utrecht/heracles/2021,2021,17,eredivisie,18,24,0,2,0,9,24,3,9,4,20,24,DDWDDWWLDDDWDLDW,2,5,1,12,12,12,20,5,3,8,19,26,WWDWLDWWWLDLLLLW,2,2,4,6,17,DWDWLDDD,WWDWWDLL
+PEC Zwolle,Fortuna Sittard,0-2,/match/fc-zwolle/fortuna-sittard/2021,2021,17,eredivisie,18,24,2,0,2,10,22,3,8,5,17,24,LDWDLDWDDDWWDLDW,2,4,2,8,8,13,18,4,4,8,23,34,WLDWDLWDLWWLDWLL,2,2,4,10,16,LWLDDWDD,WWDWWLDL
+AZ Alkmaar,ADO Den Haag,2-1,/match/az/ado-den-haag/2021,2021,17,eredivisie,18,24,0,2,1,5,33,8,7,1,39,24,DDDDDDWLWLLLWWDL,4,2,1,16,9,17,10,2,4,10,15,39,WLWLLDWLWDDDLLLL,2,2,4,7,19,DDWWLWW,WWLWWDDL
+RKC Waalwijk,Willem II,1-1,/match/rkc-waalwijk/willem-ii/2021,2021,17,eredivisie,18,24,1,1,1,15,15,3,4,9,14,28,LWWDLDWLDLWWLWLD,1,3,4,8,14,16,12,2,3,11,19,35,WWDLLDLWWWWLWDWL,0,2,6,7,17,LDDLDWLL,WDDWWWWW
+Groningen,Twente 1965,2-2,/match/fc-groningen/fc-twente-1965/2021,2021,17,eredivisie,18,24,1,2,2,6,31,9,3,4,23,19,LLWWDLWWDWLWLLDL,4,2,2,8,6,7,27,8,3,5,31,22,WDWDLWWLDLLLLLLL,5,1,1,17,8,LWDWDWWL,DLWLLLL
+VVV Venlo,Heerenveen,1-1,/match/vvv/heerenveen/2021,2021,17,eredivisie,18,24,1,1,1,14,17,4,3,8,26,31,LDWLDWWWDWLLWWL,2,2,3,10,13,8,24,5,6,5,24,25,WLWDWWLLDDDDLWLD,2,4,2,12,14,DLWDLLW,LDWLDDDW
+Ajax,Feyenoord,1-0,/match/ajax/feyenoord/2021,2021,17,eredivisie,18,24,0,1,0,3,37,11,2,2,44,13,LWWWWWLWLLWLDDL,6,1,1,27,8,4,37,10,5,1,32,12,LDWLDDLWLDDLWWLW,6,1,1,19,7,WWWWWLWD,LLDLLLWL
+Willem II,PEC Zwolle,1-3,/match/willem-ii/fc-zwolle/2021,2021,18,eredivisie,18,24,2,1,3,16,13,2,4,11,20,36,WWDLLDLWWWWLWDWLD,2,1,5,12,18,10,22,3,8,6,17,26,LDWDLDWDDDWWDLDWL,1,4,3,9,16,WLLLWLDL,DDWDDWLW
+ADO Den Haag,Emmen,0-0,/match/ado-den-haag/emmen/2021,2021,18,eredivisie,18,24,1,0,0,17,10,2,4,11,16,41,WLWLLDWLWDDDLLLLW,0,2,6,8,20,18,8,0,5,12,17,45,LWDDDWLWWLWDDLLWL,0,2,6,4,17,LLDLDLLL,WDWWWWDW
+Vitesse,Groningen,1-0,/match/vitesse/fc-groningen/2021,2021,18,eredivisie,18,24,0,1,0,1,41,12,2,3,31,13,LWWWLWLWDWWDWWLWL,7,1,0,15,3,6,33,9,4,4,25,21,LLWWDLWWDWLWLLDLD,5,1,2,15,13,WWWWWDWW,LWLWLLDL
+PSV,RKC Waalwijk,2-0,/match/psv/rkc-waalwijk/2021,2021,18,eredivisie,18,24,0,2,0,3,40,11,4,2,41,19,LWDWLWWWDWDWLWDLL,7,0,1,19,6,15,17,3,5,9,15,29,LWWDLDWLDLWWLWLDD,2,1,5,6,14,WWWWWWWL,WWLWLWWD
+Heracles,Heerenveen,1-0,/match/heracles/heerenveen/2021,2021,18,eredivisie,18,24,0,1,0,12,20,5,3,9,19,28,WWDWLDWWWLDLLLLWW,3,1,4,13,9,9,25,5,7,5,25,26,WLWDWWLLDDDDLWLDD,2,5,2,13,15,WDLWLLLW,LDWLDDDWD
+Fortuna Sittard,Ajax,1-2,/match/fortuna-sittard/ajax/2021,2021,18,eredivisie,18,24,2,1,2,13,20,5,4,8,25,34,WLDWDLWDLWWLDWLLL,2,2,4,13,18,2,41,12,2,2,45,13,LWWWWWLWLLWLDDLW,5,1,1,17,5,LDLDLWWL,LWLLLDL
+Twente 1965,VVV Venlo,0-1,/match/fc-twente-1965/vvv/2021,2021,18,eredivisie,18,24,2,0,1,7,28,8,4,5,33,24,WDWDLWWLDLLLLLLLD,3,2,4,14,14,14,19,4,4,8,27,32,LDWLDWWWDWLLWWLD,2,1,5,16,18,WWDWDLLLL,LWDWWWWL
+Utrecht,Sparta Rotterdam,1-0,/match/fc-utrecht/sparta-rotterdam/2021,2021,18,eredivisie,18,24,0,1,0,8,28,4,9,4,22,24,DDWDDWWLDDDWDLDWW,3,5,1,14,12,11,21,6,3,8,28,30,LWWDDDLLWWWLLLLLL,4,1,3,9,9,DWDWLDDDW,WWDLWLLL
+Feyenoord,AZ Alkmaar,2-3,/match/feyenoord/az/2021,2021,18,eredivisie,18,24,2,2,3,4,37,10,5,2,32,13,LDWLDDLWLDDLWWLWW,4,4,0,13,5,5,37,9,7,1,41,25,DDDDDDWLWLLLWWDLW,4,5,0,23,15,DWDWDDWW,DDDDLLLDL
+PEC Zwolle,Heracles,2-2,/match/fc-zwolle/heracles/2021,2021,19,eredivisie,18,24,1,2,2,11,24,4,8,6,20,27,LDWDLDWDDDWWDLDWLL,2,4,3,8,10,10,24,6,3,9,20,28,WWDWLDWWWLDLLLLWWW,2,2,5,6,19,LWLDDWDDL,WWDWWDLLW
+Emmen,PSV,0-2,/match/emmen/psv/2021,2021,19,eredivisie,18,24,2,0,2,18,9,0,6,12,17,45,LWDDDWLWWLWDDLLWLD,0,3,6,13,28,2,44,12,4,2,43,19,LWDWLWWWDWDWLWDLLW,4,4,1,22,13,LDDLLDLLL,LDLWDDLDL
+Groningen,ADO Den Haag,3-0,/match/fc-groningen/ado-den-haag/2021,2021,19,eredivisie,18,24,0,3,0,6,33,9,4,5,25,22,LLWWDLWWDWLWLLDLDW,4,3,2,10,8,17,12,2,5,11,16,41,WLWLLDWLWDDDLLLLWD,2,2,5,8,21,LWDWDWWLD,WWLWWDDLW
+AZ Alkmaar,Utrecht,0-1,/match/az/fc-utrecht/2021,2021,19,eredivisie,18,24,2,0,1,4,39,10,7,1,44,27,DDDDDDWLWLLLWWDLWL,5,2,1,18,10,7,32,5,9,4,23,24,DDWDDWWLDDDWDLDWWW,1,4,3,8,12,DDWWLWWW,DDWDDWLW
+RKC Waalwijk,Fortuna Sittard,1-2,/match/rkc-waalwijk/fortuna-sittard/2021,2021,19,eredivisie,18,24,2,1,2,15,17,3,5,10,15,31,LWWDLDWLDLWWLWLDDW,1,4,4,9,15,14,20,5,4,9,26,36,WLDWDLWDLWWLDWLLLL,3,2,4,12,16,LDDLDWLLD,WWDWWLDLL
+VVV Venlo,Vitesse,4-1,/match/vvv/vitesse/2021,2021,19,eredivisie,18,24,0,4,1,13,21,5,4,8,28,32,LDWLDWWWDWLLWWLDL,2,3,3,11,14,1,45,13,2,3,32,13,LWWWLWLWDWWDWWLWLW,5,1,3,16,10,DLWDLLWD,LWLLDWWLL
+Heerenveen,Feyenoord,3-0,/match/heerenveen/feyenoord/2021,2021,19,eredivisie,18,24,0,3,0,9,25,5,7,6,25,27,WLWDWWLLDDDDLWLDDW,3,2,3,12,11,5,37,10,5,3,34,16,LDWLDDLWLDDLWWLWWL,6,1,2,19,8,WWWLDLLD,LLDLLLWLW
+Sparta Rotterdam,Twente 1965,0-0,/match/sparta-rotterdam/fc-twente-1965/2021,2021,19,eredivisie,18,24,1,0,0,12,21,6,3,9,28,31,LWWDDDLLWWWLLLLLLW,2,2,5,19,21,8,28,8,4,6,33,25,WDWDLWWLDLLLLLLLDL,5,2,1,19,10,LDDLWWLLL,DLWLLLLD
+Ajax,Willem II,3-1,/match/ajax/willem-ii/2021,2021,19,eredivisie,18,24,0,3,1,3,43,13,2,2,47,14,LWWWWWLWLLWLDDLWL,7,1,1,28,8,16,13,2,4,12,21,39,WWDLLDLWWWWLWDWLDL,0,3,6,8,18,WWWWWLWDW,WDDWWWWWD
+Heracles,Groningen,1-0,/match/heracles/fc-groningen/2021,2021,20,eredivisie,18,24,0,1,0,12,25,6,4,9,22,30,WWDWLDWWWLDLLLLWWWD,4,1,4,14,9,6,37,10,4,5,28,22,LLWWDLWWDWLWLLDLDWW,5,1,3,15,14,WDLWLLLWW,LWLWLLDLW
+Utrecht,PEC Zwolle,3-3,/match/fc-utrecht/fc-zwolle/2021,2021,20,eredivisie,18,24,1,3,3,7,34,6,9,4,24,24,DDWDDWWLDDDWDLDWWWL,4,5,1,15,12,10,26,4,9,6,22,29,LDWDLDWDDDWWDLDWLLD,2,4,3,12,17,DWDWLDDDWW,DDWDDWLWL
+Fortuna Sittard,VVV Venlo,3-2,/match/fortuna-sittard/vvv/2021,2021,20,eredivisie,18,24,0,3,2,14,22,6,4,9,28,37,WLDWDLWDLWWLDWLLLLL,2,2,5,14,20,11,25,6,4,8,32,33,LDWLDWWWDWLLWWLDLW,3,1,5,17,18,LDLDLWWLL,LWDWWWWLL
+Vitesse,RKC Waalwijk,1-1,/match/vitesse/rkc-waalwijk/2021,2021,20,eredivisie,18,24,1,1,1,3,45,13,2,4,33,17,LWWWLWLWDWWDWWLWLWW,8,1,0,16,3,15,17,3,5,11,16,33,LWWDLDWLDLWWLWLDDWL,2,1,6,6,16,WWWWWDWWW,WWLWLWWDW
+Twente 1965,Heerenveen,0-0,/match/fc-twente-1965/heerenveen/2021,2021,20,eredivisie,18,24,1,0,0,8,29,8,5,6,33,25,WDWDLWWLDLLLLLLLDLD,3,2,5,14,15,9,29,6,7,6,28,27,WLWDWWLLDDDDLWLDDWW,2,5,3,13,16,WWDWDLLLLL,LDWLDDDWDW
+Feyenoord,PSV,3-1,/match/feyenoord/psv/2021,2021,20,eredivisie,18,24,0,3,1,5,37,10,5,4,34,19,LDWLDDLWLDDLWWLWWLW,4,4,1,15,8,2,46,13,4,2,45,19,LWDWLWWWDWDWLWDLLWL,5,4,1,24,13,DWDWDDWWL,LDLWDDLDLL
+Willem II,Emmen,2-0,/match/willem-ii/emmen/2021,2021,20,eredivisie,18,24,0,2,0,16,13,2,4,13,22,42,WWDLLDLWWWWLWDWLDLW,2,1,6,13,21,18,9,0,6,13,17,47,LWDDDWLWWLWDDLLWLDL,0,3,6,4,17,WLLLWLDLL,WDWWWWDWD
+AZ Alkmaar,Ajax,0-3,/match/az/ajax/2021,2021,20,eredivisie,18,24,2,0,3,4,39,10,7,2,44,28,DDDDDDWLWLLLWWDLWLL,5,2,2,18,11,1,47,14,2,2,50,15,LWWWWWLWLLWLDDLWLW,6,1,1,19,6,DDWWLWWWL,LWLLLDLL
+ADO Den Haag,Sparta Rotterdam,1-1,/match/ado-den-haag/sparta-rotterdam/2021,2021,20,eredivisie,18,24,1,1,1,17,12,2,5,12,16,44,WLWLLDWLWDDDLLLLWDW,0,3,6,8,20,13,23,6,4,9,28,31,LWWDDDLLWWWLLLLLLWD,4,1,4,9,10,LLDLDLLLD,WWDLWLLLW
+Fortuna Sittard,Heracles,0-1,/match/fortuna-sittard/heracles/2021,2021,21,eredivisie,18,24,2,0,1,12,26,7,4,9,31,39,WLDWDLWDLWWLDWLLLLLW,3,2,5,17,22,10,29,7,4,9,23,30,WWDWLDWWWLDLLLLWWWDW,2,3,5,8,21,LDLDLWWLLW,WWDWWDLLWD
+PEC Zwolle,RKC Waalwijk,1-1,/match/fc-zwolle/rkc-waalwijk/2021,2021,21,eredivisie,18,24,1,1,1,11,27,4,10,6,25,32,LDWDLDWDDDWWDLDWLLDD,2,5,3,10,12,15,18,3,6,11,17,34,LWWDLDWLDLWWLWLDDWLD,2,2,6,7,17,LWLDDWDDLD,WWLWLWWDWD
+Emmen,AZ Alkmaar,0-1,/match/emmen/az/2021,2021,21,eredivisie,18,24,2,0,1,18,9,0,6,14,17,49,LWDDDWLWWLWDDLLWLDLW,0,3,7,13,30,5,39,10,7,3,44,31,DDDDDDWLWLLLWWDLWLLL,5,5,0,26,17,LDDLLDLLLL,DDDDLLLDLL
+PSV,Twente 1965,3-0,/match/psv/fc-twente-1965/2021,2021,21,eredivisie,18,24,0,3,0,3,46,13,4,3,46,22,LWDWLWWWDWDWLWDLLWLW,8,0,1,21,6,8,31,8,6,6,33,25,WDWDLWWLDLLLLLLLDLDD,5,3,1,19,10,WWWWWWWLW,DLWLLLLDD
+Heerenveen,Vitesse,1-0,/match/heerenveen/vitesse/2021,2021,21,eredivisie,18,24,0,1,0,9,30,6,8,6,28,27,WLWDWWLLDDDDLWLDDWWD,4,2,3,15,11,2,47,13,3,4,34,18,LWWWLWLWDWWDWWLWLWWD,5,1,4,17,14,WWWLDLLDW,LWLLDWWLLW
+Willem II,ADO Den Haag,1-1,/match/willem-ii/ado-den-haag/2021,2021,21,eredivisie,18,24,1,1,1,16,17,3,4,13,24,42,WWDLLDLWWWWLWDWLDLWW,3,1,6,15,21,17,14,2,6,12,17,45,WLWLLDWLWDDDLLLLWDWD,2,2,6,8,24,WLLLWLDLLW,WWLWWDDLWW
+Groningen,Feyenoord,0-0,/match/fc-groningen/feyenoord/2021,2021,21,eredivisie,18,24,1,0,0,6,37,10,4,6,28,23,LLWWDLWWDWLWLLDLDWWW,5,3,2,13,8,4,41,11,5,4,37,20,LDWLDDLWLDDLWWLWWLWW,6,1,3,19,11,LWDWDWWLDW,LLDLLLWLWW
+RKC Waalwijk,Emmen,1-0,/match/rkc-waalwijk/emmen/2021,2021,22,eredivisie,18,24,0,1,0,15,19,3,7,11,18,35,LWWDLDWLDLWWLWLDDWLDD,1,4,5,10,17,18,9,0,6,15,17,50,LWDDDWLWWLWDDLLWLDLWL,0,3,7,4,19,LDDLDWLLDL,WDWWWWDWDW
+Groningen,PEC Zwolle,1-0,/match/fc-groningen/fc-zwolle/2021,2021,22,eredivisie,18,24,0,1,0,6,39,10,5,6,28,23,LLWWDLWWDWLWLLDLDWWWD,5,4,2,13,8,11,29,4,11,6,26,33,LDWDLDWDDDWWDLDWLLDDD,2,5,3,15,20,LWDWDWWLDWD,DDWDDWLWLD
+Sparta Rotterdam,Fortuna Sittard,1-2,/match/sparta-rotterdam/fortuna-sittard/2021,2021,22,eredivisie,18,24,2,1,2,14,24,6,5,9,29,32,LWWDDDLLWWWLLLLLLWDD,2,3,5,19,21,12,26,7,4,10,31,40,WLDWDLWDLWWLDWLLLLLWL,4,2,4,14,17,LDDLWWLLLD,WWDWWLDLLL
+ADO Den Haag,PSV,2-2,/match/ado-den-haag/psv/2021,2021,22,eredivisie,18,24,1,2,2,17,15,2,7,12,18,46,WLWLLDWLWDDDLLLLWDWDD,0,4,6,9,21,1,50,14,4,3,49,22,LWDWLWWWDWDWLWDLLWLWW,5,4,2,25,16,LLDLDLLLDD,LDLWDDLDLLW
+Heracles,Ajax,0-2,/match/heracles/ajax/2021,2021,22,eredivisie,18,24,2,0,2,9,31,8,4,9,24,30,WWDWLDWWWLDLLLLWWWDWL,5,1,4,15,9,2,49,15,2,2,53,15,LWWWWWLWLLWLDDLWLWL,7,1,1,22,6,WDLWLLLWWW,LWLLLDLLL
+AZ Alkmaar,Heerenveen,3-1,/match/az/heerenveen/2021,2021,22,eredivisie,18,24,0,3,1,5,41,11,7,3,45,31,DDDDDDWLWLLLWWDLWLLLL,5,2,3,18,14,8,34,7,8,6,29,27,WLWDWWLLDDDDLWLDDWWDW,2,6,3,13,16,DDWWLWWWLL,LDWLDDDWDWD
+Utrecht,VVV Venlo,3-1,/match/fc-utrecht/vvv/2021,2021,22,eredivisie,18,24,0,3,1,7,36,6,10,4,27,27,DDWDDWWLDDDWDLDWWWLD,4,6,1,18,15,13,25,6,4,9,34,36,LDWLDWWWDWLLWWLDLWW,3,1,6,19,21,DWDWLDDDWWD,LWDWWWWLLW
+Feyenoord,Willem II,5-0,/match/feyenoord/willem-ii/2021,2021,22,eredivisie,18,24,0,5,0,4,42,11,6,4,37,20,LDWLDDLWLDDLWWLWWLWWD,5,4,1,18,9,16,19,3,5,13,25,43,WWDLLDLWWWWLWDWLDLWWD,0,3,7,9,21,DWDWDDWWLW,WDDWWWWWDW
+Vitesse,Twente 1965,0-2,/match/vitesse/fc-twente-1965/2021,2021,22,eredivisie,18,24,2,0,2,3,47,13,3,5,34,19,LWWWLWLWDWWDWWLWLWWDW,8,2,0,17,4,10,31,8,6,7,33,28,WDWDLWWLDLLLLLLLDLDDW,5,3,2,19,13,WWWWWDWWWD,DLWLLLLDDW
+Willem II,Utrecht,0-6,/match/willem-ii/fc-utrecht/2021,2021,23,eredivisie,18,24,2,0,6,16,19,3,5,14,25,48,WWDLLDLWWWWLWDWLDLWWDW,3,2,6,16,22,7,40,7,10,4,30,28,DDWDDWWLDDDWDLDWWWLDW,2,4,3,9,12,WLLLWLDLLWD,DDWDDWLWL
+Emmen,PEC Zwolle,3-2,/match/emmen/fc-zwolle/2021,2021,23,eredivisie,18,24,0,3,2,18,9,0,6,16,17,51,LWDDDWLWWLWDDLLWLDLWLW,0,3,8,13,31,11,29,4,11,7,26,34,LDWDLDWDDDWWDLDWLLDDDW,2,5,4,15,21,LDDLLDLLLLL,DDWDDWLWLDW
+VVV Venlo,AZ Alkmaar,1-4,/match/vvv/az/2021,2021,23,eredivisie,18,24,2,1,4,13,25,6,4,10,35,39,LDWLDWWWDWLLWWLDLWWW,3,3,3,15,15,5,45,12,7,3,48,32,DDDDDDWLWLLLWWDLWLLLLW,6,5,0,27,17,DLWDLLWDW,DDDDLLLDLLL
+Fortuna Sittard,ADO Den Haag,2-0,/match/fortuna-sittard/ado-den-haag/2021,2021,23,eredivisie,18,24,0,2,0,12,28,8,4,10,33,41,WLDWDLWDLWWLDWLLLLLWLL,3,2,6,17,23,17,17,2,8,12,20,48,WLWLLDWLWDDDLLLLWDWDDD,2,3,6,9,25,LDLDLWWLLWL,WWLWWDDLWWD
+Twente 1965,Feyenoord,2-2,/match/fc-twente-1965/feyenoord/2021,2021,23,eredivisie,18,24,1,2,2,9,33,9,6,7,35,28,WDWDLWWLDLLLLLLLDLDDWL,3,3,5,14,15,4,46,12,6,4,42,20,LDWLDDLWLDDLWWLWWLWWDW,6,2,3,19,11,WWDWDLLLLLD,LLDLLLWLWWD
+RKC Waalwijk,Heracles,3-0,/match/rkc-waalwijk/heracles/2021,2021,23,eredivisie,18,24,0,3,0,15,23,4,7,11,19,35,LWWDLDWLDLWWLWLDDWLDDW,2,4,5,11,17,10,31,8,4,10,24,32,WWDWLDWWWLDLLLLWWWDWLL,3,3,5,9,21,LDDLDWLLDLW,WWDWWDLLWDL
+Heerenveen,Groningen,1-1,/match/heerenveen/fc-groningen/2021,2021,23,eredivisie,18,24,1,1,1,8,34,7,8,7,30,30,WLWDWWLLDDDDLWLDDWWDWW,5,2,3,16,11,6,43,11,5,6,29,23,LLWWDLWWDWLWLLDLDWWWDW,5,1,4,15,15,WWWLDLLDWW,LWLWLLDLWW
+PSV,Vitesse,3-1,/match/psv/vitesse/2021,2021,23,eredivisie,18,24,0,3,1,1,51,14,5,3,51,24,LWDWLWWWDWDWLWDLLWLWWD,9,0,1,24,6,3,47,13,3,6,34,21,LWWWLWLWDWWDWWLWLWWDWL,5,1,5,17,15,WWWWWWWLWW,LWLLDWWLLWW
+Ajax,Sparta Rotterdam,4-2,/match/ajax/sparta-rotterdam/2021,2021,23,eredivisie,18,24,0,4,2,2,51,16,2,2,55,15,LWWWWWLWLLWLDDLWLWLL,8,1,1,31,9,14,24,6,5,10,30,34,LWWDDDLLWWWLLLLLLWDDL,4,2,4,10,11,WWWWWLWDWW,WWDLWLLLWD
+PEC Zwolle,Heerenveen,4-1,/match/fc-zwolle/heerenveen/2021,2021,24,eredivisie,18,24,0,4,1,12,29,4,11,8,28,37,LDWDLDWDDDWWDLDWLLDDDWW,2,6,3,11,13,8,36,7,9,7,31,31,WLWDWWLLDDDDLWLDDWWDWWD,2,6,4,14,19,LWLDDWDDLDD,LDWLDDDWDWDW
+Utrecht,Emmen,0-1,/match/fc-utrecht/emmen/2021,2021,24,eredivisie,18,24,2,0,1,7,42,8,10,4,36,28,DDWDDWWLDDDWDLDWWWLDWL,5,6,1,21,16,18,13,1,6,16,20,53,LWDDDWLWWLWDDLLWLDLWLWW,0,3,8,4,20,DWDWLDDDWWDW,WDWWWWDWDWW
+ADO Den Haag,RKC Waalwijk,0-0,/match/ado-den-haag/rkc-waalwijk/2021,2021,24,eredivisie,18,24,1,0,0,17,17,2,8,13,20,50,WLWLLDWLWDDDLLLLWDWDDDW,0,5,6,11,23,13,27,5,7,11,22,35,LWWDLDWLDLWWLWLDDWLDDWW,2,3,6,8,18,LLDLDLLLDDD,WWLWLWWDWDD
+Vitesse,VVV Venlo,4-1,/match/vitesse/vvv/2021,2021,24,eredivisie,18,24,0,4,1,3,47,13,3,7,35,24,LWWWLWLWDWWDWWLWLWWDWLW,8,2,1,17,6,14,25,6,4,11,36,43,LDWLDWWWDWLLWWLDLWWWL,3,1,7,20,24,WWWWWDWWWDL,LWDWWWWLLWW
+Heracles,Twente 1965,2-2,/match/heracles/fc-twente-1965/2021,2021,24,eredivisie,18,24,1,2,2,11,31,8,4,11,24,35,WWDWLDWWWLDLLLLWWWDWLLW,5,1,5,15,11,9,35,9,7,7,37,30,WDWDLWWLDLLLLLLLDLDDWLD,6,3,2,21,13,WDLWLLLWWWL,DLWLLLLDDWL
+Sparta Rotterdam,Willem II,0-2,/match/sparta-rotterdam/willem-ii/2021,2021,24,eredivisie,18,24,2,0,2,15,24,6,5,11,32,38,LWWDDDLLWWWLLLLLLWDDLW,2,3,6,20,23,16,19,3,5,15,25,54,WWDLLDLWWWWLWDWLDLWWDWL,0,3,8,9,26,LDDLWWLLLDL,WDDWWWWWDWW
+Groningen,Fortuna Sittard,1-0,/match/fc-groningen/fortuna-sittard/2021,2021,24,eredivisie,18,24,0,1,0,6,44,11,6,6,30,24,LLWWDLWWDWLWLLDLDWWWDWD,6,4,2,14,8,10,32,9,4,10,35,41,WLDWDLWDLWWLDWLLLLLWLLW,5,2,4,16,18,LWDWDWWLDWDW,WWDWWLDLLLL
+PSV,Ajax,1-1,/match/psv/ajax/2021,2021,24,eredivisie,18,24,1,1,1,1,55,15,5,3,54,25,LWDWLWWWDWDWLWDLLWLWWDW,10,0,1,27,7,2,55,17,2,2,59,17,LWWWWWLWLLWLDDLWLWLLW,8,1,1,24,6,WWWWWWWLWWW,LWLLLDLLLL
+AZ Alkmaar,Feyenoord,4-2,/match/az/feyenoord/2021,2021,24,eredivisie,18,24,0,4,2,5,47,13,7,3,52,33,DDDDDDWLWLLLWWDLWLLLLWL,6,2,3,21,15,4,47,12,7,4,44,22,LDWLDDLWLDDLWWLWWLWWDWD,6,3,3,21,13,DDWWLWWWLLW,LLDLLLWLWWDD

@@ -1,307 +1,307 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-NEC Nijmegen,PEC Zwolle,1-1,/match/nec/fc-zwolle/2017,2017,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-ADO Den Haag,Go Ahead Eagles,3-0,/match/ado-den-haag/go-ahead-eagles/2017,2017,1,eredivisie,18,34,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Utrecht,PSV,1-2,/match/fc-utrecht/psv/2017,2017,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Twente 1965,Excelsior,1-2,/match/fc-twente-1965/excelsior/2017,2017,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Willem II,Vitesse,1-4,/match/willem-ii/vitesse/2017,2017,1,eredivisie,18,34,2,1,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Groningen,Feyenoord,0-5,/match/fc-groningen/feyenoord/2017,2017,1,eredivisie,18,34,2,0,5,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-AZ Alkmaar,Heerenveen,2-2,/match/az/heerenveen/2017,2017,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sparta Rotterdam,Ajax,1-3,/match/sparta-rotterdam/ajax/2017,2017,1,eredivisie,18,34,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Roda JC,Heracles,1-1,/match/roda-jc/heracles/2017,2017,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Heerenveen,Utrecht,2-2,/match/heerenveen/fc-utrecht/2017,2017,2,eredivisie,18,34,1,2,2,11,0,1,0,2,2,D,0,0,0,0,0,18,0,0,1,1,2,L,0,0,0,0,0,,
-Excelsior,Groningen,2-0,/match/excelsior/fc-groningen/2017,2017,2,eredivisie,18,34,0,2,0,9,1,0,0,2,1,L,0,0,0,0,0,13,0,0,1,0,5,L,0,0,0,0,0,,
-Ajax,Roda JC,2-2,/match/ajax/roda-jc/2017,2017,2,eredivisie,18,34,1,2,2,7,1,0,0,3,1,L,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
-Vitesse,ADO Den Haag,1-2,/match/vitesse/ado-den-haag/2017,2017,2,eredivisie,18,34,2,1,2,3,1,0,0,4,1,L,0,0,0,0,0,1,1,0,0,3,0,W,0,0,0,0,0,,
-PEC Zwolle,Sparta Rotterdam,0-3,/match/fc-zwolle/sparta-rotterdam/2017,2017,2,eredivisie,18,34,2,0,3,10,0,1,0,1,1,D,0,0,0,0,0,16,0,0,1,1,3,L,0,0,0,0,0,,
-Heracles,Willem II,3-1,/match/heracles/willem-ii/2017,2017,2,eredivisie,18,34,0,3,1,12,0,1,0,1,1,D,0,0,0,0,0,14,0,0,1,1,4,L,0,0,0,0,0,,
-Go Ahead Eagles,NEC Nijmegen,2-2,/match/go-ahead-eagles/nec/2017,2017,2,eredivisie,18,34,1,2,2,15,0,0,1,0,3,W,0,0,0,0,0,4,0,1,0,1,1,D,0,0,0,0,0,,
-Feyenoord,Twente 1965,2-0,/match/feyenoord/fc-twente-1965/2017,2017,2,eredivisie,18,34,0,2,0,6,1,0,0,5,0,L,0,0,0,0,0,17,0,0,1,1,2,L,0,0,0,0,0,,
-PSV,AZ Alkmaar,1-0,/match/psv/az/2017,2017,2,eredivisie,18,34,0,1,0,5,1,0,0,2,1,L,0,0,0,0,0,2,0,1,0,2,2,D,0,0,0,0,0,,
-Excelsior,ADO Den Haag,1-2,/match/excelsior/ado-den-haag/2017,2017,3,eredivisie,18,34,2,1,2,4,2,0,0,4,1,LW,1,0,0,2,0,1,2,0,0,5,1,WL,1,0,0,2,1,W,L
-Roda JC,Vitesse,0-1,/match/roda-jc/vitesse/2017,2017,3,eredivisie,18,34,2,0,1,8,0,2,0,3,3,DD,0,1,0,1,1,11,1,0,1,5,3,LL,1,0,0,4,1,D,L
-Ajax,Willem II,1-2,/match/ajax/willem-ii/2017,2017,3,eredivisie,18,34,2,1,2,6,1,1,0,5,3,LD,0,1,0,2,2,16,0,0,2,2,7,LW,0,0,1,1,3,D,W
-PEC Zwolle,PSV,0-4,/match/fc-zwolle/psv/2017,2017,3,eredivisie,18,34,2,0,4,14,0,1,1,1,4,DL,0,0,1,0,3,2,2,0,0,3,1,LW,1,0,0,2,1,L,L
-NEC Nijmegen,Heerenveen,2-1,/match/nec/heerenveen/2017,2017,3,eredivisie,18,34,0,2,1,7,0,2,0,3,3,DD,0,1,0,1,1,9,0,2,0,4,4,DD,0,1,0,2,2,D,D
-Groningen,Twente 1965,3-4,/match/fc-groningen/fc-twente-1965/2017,2017,3,eredivisie,18,34,2,3,4,17,0,0,2,0,7,LW,0,0,1,0,5,18,0,0,2,1,4,LW,0,0,1,0,2,L,W
-Sparta Rotterdam,Go Ahead Eagles,1-0,/match/sparta-rotterdam/go-ahead-eagles/2017,2017,3,eredivisie,18,34,0,1,0,13,1,0,1,4,3,LL,0,0,1,1,3,10,0,1,1,2,5,WD,0,0,1,0,3,L,W
-Utrecht,AZ Alkmaar,1-2,/match/fc-utrecht/az/2017,2017,3,eredivisie,18,34,2,1,2,15,0,1,1,3,4,LD,0,0,1,1,2,12,0,1,1,2,3,DW,0,0,1,0,1,L,W
-Heracles,Feyenoord,0-1,/match/heracles/feyenoord/2017,2017,3,eredivisie,18,34,2,0,1,5,1,1,0,4,2,DW,1,0,0,3,1,3,2,0,0,7,0,LW,1,0,0,5,0,W,L
-Vitesse,Utrecht,1-1,/match/vitesse/fc-utrecht/2017,2017,4,eredivisie,18,34,1,1,1,9,2,0,1,6,3,LLL,0,0,1,1,2,16,0,1,2,4,6,LDL,0,1,0,2,2,L,D
-Willem II,Roda JC,0-0,/match/willem-ii/roda-jc/2017,2017,4,eredivisie,18,34,1,0,0,13,1,0,2,4,8,LWL,0,0,1,1,4,11,0,2,1,3,4,DDL,0,1,0,2,2,L,D
-Feyenoord,Excelsior,4-1,/match/feyenoord/excelsior/2017,2017,4,eredivisie,18,34,0,4,1,2,3,0,0,8,0,LWL,1,0,0,2,0,5,2,0,1,5,3,LWL,1,0,0,2,1,W,L
-Heerenveen,PEC Zwolle,1-0,/match/heerenveen/fc-zwolle/2017,2017,4,eredivisie,18,34,0,1,0,12,0,2,1,5,6,DDW,0,1,0,2,2,17,0,1,2,1,8,DLL,0,1,0,1,1,D,D
-Twente 1965,Sparta Rotterdam,3-1,/match/fc-twente-1965/sparta-rotterdam/2017,2017,4,eredivisie,18,34,0,3,1,15,1,0,2,5,7,LWL,0,0,1,1,2,6,2,0,1,5,3,LLW,1,0,0,3,0,L,L
-PSV,Groningen,0-0,/match/psv/fc-groningen/2017,2017,4,eredivisie,18,34,1,0,0,3,3,0,0,7,1,LWL,1,0,0,1,0,18,0,0,3,3,11,LWL,0,0,1,0,2,W,W
-ADO Den Haag,Heracles,1-1,/match/ado-den-haag/heracles/2017,2017,4,eredivisie,18,34,1,1,1,1,3,0,0,7,2,WLL,1,0,0,3,0,7,1,1,1,4,3,DWL,0,1,0,1,1,W,D
-Go Ahead Eagles,Ajax,0-3,/match/go-ahead-eagles/ajax/2017,2017,4,eredivisie,18,34,2,0,3,14,0,1,2,2,6,WDW,0,1,0,2,2,8,1,1,1,6,5,LDL,1,0,0,3,1,D,L
-AZ Alkmaar,NEC Nijmegen,2-0,/match/az/nec/2017,2017,4,eredivisie,18,34,0,2,0,10,1,1,1,4,4,DWL,0,1,0,2,2,4,1,2,0,5,4,DDW,0,1,0,2,2,D,D
-AZ Alkmaar,Willem II,2-0,/match/az/willem-ii/2017,2017,5,eredivisie,18,34,0,2,0,4,2,1,1,6,4,DWLW,1,1,0,4,2,14,1,1,2,4,8,LWLD,1,0,1,3,4,DW,WL
-PEC Zwolle,Utrecht,1-1,/match/fc-zwolle/fc-utrecht/2017,2017,5,eredivisie,18,34,1,1,1,17,0,1,3,1,9,DLLW,0,0,2,0,7,16,0,2,2,5,7,LDLD,0,2,0,3,3,LL,DD
-NEC Nijmegen,PSV,0-4,/match/nec/psv/2017,2017,5,eredivisie,18,34,2,0,4,5,1,2,1,5,6,DDWW,1,1,0,3,2,3,3,1,0,7,1,LWLD,2,0,0,6,1,DW,LL
-Excelsior,Heracles,3-1,/match/excelsior/heracles/2017,2017,5,eredivisie,18,34,0,3,1,7,2,0,2,6,7,LWLW,1,0,1,3,2,9,1,2,1,5,4,DWLD,0,2,0,2,2,WL,DD
-Heerenveen,Twente 1965,3-1,/match/heerenveen/fc-twente-1965/2017,2017,5,eredivisie,18,34,0,3,1,6,1,2,1,6,6,DDWW,1,1,0,3,2,12,2,0,2,8,8,LWLW,1,0,1,4,5,DW,WL
-Feyenoord,ADO Den Haag,3-1,/match/feyenoord/ado-den-haag/2017,2017,5,eredivisie,18,34,0,3,1,1,4,0,0,12,1,LWLW,2,0,0,6,1,2,3,1,0,8,3,WLLD,2,0,0,4,2,WW,LL
-Go Ahead Eagles,Roda JC,2-0,/match/go-ahead-eagles/roda-jc/2017,2017,5,eredivisie,18,34,0,2,0,15,0,1,3,2,9,WDWL,0,1,1,2,5,13,0,3,1,3,4,DDLD,0,2,0,2,2,DL,DD
-Groningen,Sparta Rotterdam,1-1,/match/fc-groningen/sparta-rotterdam/2017,2017,5,eredivisie,18,34,1,1,1,18,0,1,3,3,11,LWLD,0,0,2,3,9,8,2,0,2,6,6,LLWW,1,0,1,4,3,LL,LW
-Ajax,Vitesse,1-0,/match/ajax/vitesse/2017,2017,5,eredivisie,18,34,0,1,0,10,2,1,1,9,5,LDLL,0,1,1,3,4,11,2,1,1,7,4,LLLD,2,0,0,5,1,DL,LL
-Utrecht,Groningen,1-5,/match/fc-utrecht/fc-groningen/2017,2017,6,eredivisie,18,34,2,1,5,16,0,3,2,6,8,LDLDD,0,0,2,2,4,18,0,2,3,4,12,LWLDD,0,1,1,0,2,LL,WD
-Twente 1965,ADO Den Haag,4-1,/match/fc-twente-1965/ado-den-haag/2017,2017,6,eredivisie,18,34,0,4,1,12,2,0,3,9,11,LWLWW,1,0,1,4,3,6,3,1,1,9,6,WLLDW,2,0,1,5,5,LW,LLW
-Roda JC,Heerenveen,0-3,/match/roda-jc/heerenveen/2017,2017,6,eredivisie,18,34,2,0,3,14,0,3,2,3,6,DDLDW,0,1,1,1,2,4,2,2,1,9,7,DDWWW,0,1,1,3,4,DL,DW
-Vitesse,Go Ahead Eagles,2-0,/match/vitesse/go-ahead-eagles/2017,2017,6,eredivisie,18,34,0,2,0,11,2,1,2,7,5,LLLDW,0,1,1,2,3,13,1,1,3,4,9,WDWLW,0,0,2,0,4,LD,WW
-Willem II,Excelsior,1-1,/match/willem-ii/excelsior/2017,2017,6,eredivisie,18,34,1,1,1,15,1,1,3,4,10,LWLDW,0,1,1,1,4,5,3,0,2,9,8,LWLWW,1,0,1,3,5,LD,LW
-Sparta Rotterdam,NEC Nijmegen,2-0,/match/sparta-rotterdam/nec/2017,2017,6,eredivisie,18,34,0,2,0,8,2,1,2,7,7,LLWWD,1,0,1,2,3,9,1,2,2,5,10,DDWWL,0,1,1,2,4,LW,DW
-PSV,Feyenoord,0-1,/match/psv/feyenoord/2017,2017,6,eredivisie,18,34,2,0,1,2,4,1,0,11,1,LWLDL,1,1,0,1,0,1,5,0,0,15,2,LWLWW,2,0,0,6,0,WD,LL
-PEC Zwolle,AZ Alkmaar,0-2,/match/fc-zwolle/az/2017,2017,6,eredivisie,18,34,2,0,2,17,0,2,3,2,10,DLLWD,0,1,2,1,8,3,3,1,1,8,4,DWLWW,1,0,1,2,2,LLD,WL
-Heracles,Ajax,0-2,/match/heracles/ajax/2017,2017,6,eredivisie,18,34,2,0,2,10,1,2,2,6,7,DWLDW,1,0,1,3,2,7,3,1,1,10,5,LDLLW,2,0,0,6,1,WL,LL
-ADO Den Haag,Heerenveen,0-3,/match/ado-den-haag/heerenveen/2017,2017,7,eredivisie,18,34,2,0,3,8,3,1,2,10,10,WLLDWW,1,1,0,4,1,3,3,2,1,12,7,DDWWWL,1,1,1,6,4,WD,DWL
-Groningen,Heracles,0-0,/match/fc-groningen/heracles/2017,2017,7,eredivisie,18,34,1,0,0,15,1,2,3,9,13,LWLDDL,0,1,2,4,10,13,1,2,3,6,9,DWLDWL,0,2,1,3,5,LLD,DDW
-Ajax,PEC Zwolle,5-1,/match/ajax/fc-zwolle/2017,2017,7,eredivisie,18,34,0,5,1,4,4,1,1,12,5,LDLLWL,1,1,1,4,4,18,0,2,4,2,12,DLLWDL,0,1,1,1,2,DLW,DW
-AZ Alkmaar,Go Ahead Eagles,2-2,/match/az/go-ahead-eagles/2017,2017,7,eredivisie,18,34,1,2,2,2,4,1,1,10,4,DWLWWL,2,1,0,6,2,14,1,1,4,4,11,WDWLWW,0,0,3,0,6,DWW,WWW
-Excelsior,PSV,1-3,/match/excelsior/psv/2017,2017,7,eredivisie,18,34,2,1,3,6,3,1,2,10,9,LWLWWD,2,0,1,6,3,5,4,1,1,11,2,LWLDLL,3,0,0,10,1,WLW,LLL
-NEC Nijmegen,Willem II,0-0,/match/nec/willem-ii/2017,2017,7,eredivisie,18,34,1,0,0,11,1,2,3,5,12,DDWWLW,1,1,1,3,6,12,1,2,3,5,11,LWLDWD,1,0,2,3,6,DWL,WLW
-Utrecht,Sparta Rotterdam,2-0,/match/fc-utrecht/sparta-rotterdam/2017,2017,7,eredivisie,18,34,0,2,0,17,0,3,3,7,13,LDLDDL,0,0,3,3,9,7,3,1,2,9,7,LLWWDW,1,1,1,5,4,LLL,LWD
-Twente 1965,Vitesse,2-1,/match/fc-twente-1965/vitesse/2017,2017,7,eredivisie,18,34,0,2,1,10,3,0,3,13,12,LWLWWW,2,0,1,8,4,9,3,1,2,9,5,LLLDWW,2,0,1,5,2,LWW,LLW
-Feyenoord,Roda JC,5-0,/match/feyenoord/roda-jc/2017,2017,7,eredivisie,18,34,0,5,0,1,6,0,0,16,2,LWLWWL,3,0,0,9,2,16,0,3,3,3,9,DDLDWL,0,2,1,2,4,WWW,DDW
-PEC Zwolle,ADO Den Haag,2-1,/match/fc-zwolle/ado-den-haag/2017,2017,8,eredivisie,18,34,0,2,1,18,0,2,5,3,17,DLLWDLW,0,1,3,1,10,9,3,1,3,10,13,WLLDWWL,2,0,2,6,9,LLDL,LLWW
-Vitesse,Groningen,2-1,/match/vitesse/fc-groningen/2017,2017,8,eredivisie,18,34,0,2,1,10,3,1,3,10,7,LLLDWWW,1,1,1,4,3,15,1,3,3,9,13,LWLDDLD,1,1,1,5,3,LDW,WDL
-Heerenveen,PSV,1-1,/match/heerenveen/psv/2017,2017,8,eredivisie,18,34,1,1,1,4,4,2,1,15,7,DDWWWLL,2,1,0,6,3,6,5,1,1,14,3,LWLDLLL,4,0,0,13,2,DWW,LLLL
-Roda JC,NEC Nijmegen,0-1,/match/roda-jc/nec/2017,2017,8,eredivisie,18,34,2,0,1,17,0,3,4,3,14,DDLDWLW,0,1,2,1,5,11,1,3,3,5,12,DDWWLWD,0,1,2,2,6,DLL,DWW
-Go Ahead Eagles,Excelsior,3-0,/match/go-ahead-eagles/excelsior/2017,2017,8,eredivisie,18,34,0,3,0,14,1,2,4,6,13,WDWLWWD,1,1,1,4,5,7,3,1,3,11,12,LWLWWDL,1,1,1,4,6,DLW,LWD
-Ajax,Utrecht,3-2,/match/ajax/fc-utrecht/2017,2017,8,eredivisie,18,34,0,3,2,3,5,1,1,17,6,LDLLWLW,2,1,1,9,5,16,1,3,3,9,13,LDLDDLW,0,3,0,4,4,DLWW,DDD
-Willem II,Feyenoord,0-2,/match/willem-ii/feyenoord/2017,2017,8,eredivisie,18,34,2,0,2,12,1,3,3,5,11,LWLDWDD,0,2,1,2,5,1,7,0,0,21,2,LWLWWLW,3,0,0,7,0,LDD,LLL
-Heracles,Twente 1965,1-1,/match/heracles/fc-twente-1965/2017,2017,8,eredivisie,18,34,1,1,1,13,1,3,3,6,9,DWLDWLD,1,0,2,3,4,5,4,0,3,15,13,LWLWWWW,1,0,2,5,8,WLL,WLW
-Sparta Rotterdam,AZ Alkmaar,1-1,/match/sparta-rotterdam/az/2017,2017,8,eredivisie,18,34,1,1,1,8,3,1,3,9,9,LLWWDWW,2,0,1,4,3,2,4,2,1,12,6,DWLWWLD,2,0,1,4,2,LWW,WLL
-Sparta Rotterdam,Willem II,2-2,/match/sparta-rotterdam/willem-ii/2017,2017,9,eredivisie,18,34,1,2,2,8,3,2,3,10,10,LLWWDWWD,2,1,1,5,4,14,1,3,4,5,13,LWLDWDDL,1,1,2,3,6,LWWD,WLWD
-Utrecht,Go Ahead Eagles,3-0,/match/fc-utrecht/go-ahead-eagles/2017,2017,9,eredivisie,18,34,0,3,0,16,1,3,4,11,16,LDLDDLWW,1,0,3,5,9,11,2,2,4,9,13,WDWLWWDW,0,1,3,2,8,LLLW,WWWD
-PSV,Heracles,1-1,/match/psv/heracles/2017,2017,9,eredivisie,18,34,1,1,1,6,5,2,1,15,4,LWLDLLLD,1,1,1,1,1,13,1,4,3,7,10,DWLDWLDD,0,3,1,3,5,WDL,DDWD
-AZ Alkmaar,Vitesse,2-2,/match/az/vitesse/2017,2017,9,eredivisie,18,34,1,2,2,3,4,3,1,13,7,DWLWWLDD,2,2,0,8,4,7,4,1,3,12,8,LLLDWWWW,2,0,2,6,4,DWWD,LLWW
-Groningen,Heerenveen,0-3,/match/fc-groningen/heerenveen/2017,2017,9,eredivisie,18,34,2,0,3,15,1,3,4,10,15,LWLDDLDW,0,2,2,4,10,4,4,3,1,16,8,DDWWWLLD,2,1,1,9,4,LLDD,DWLL
-Twente 1965,PEC Zwolle,2-2,/match/fc-twente-1965/fc-zwolle/2017,2017,9,eredivisie,18,34,1,2,2,5,4,1,3,16,14,LWLWWWWD,3,0,1,10,5,17,1,2,5,5,18,DLLWDLWW,0,1,2,2,7,LWWW,DWW
-Excelsior,Roda JC,0-1,/match/excelsior/roda-jc/2017,2017,9,eredivisie,18,34,2,0,1,9,3,1,4,11,15,LWLWWDLW,2,0,2,7,6,18,0,3,5,3,15,DDLDWLWL,0,2,2,2,9,WLWL,DDWW
-NEC Nijmegen,Feyenoord,1-2,/match/nec/feyenoord/2017,2017,9,eredivisie,18,34,2,1,2,10,2,3,3,6,12,DDWWLWDL,1,2,1,3,6,1,8,0,0,23,2,LWLWWLWL,4,0,0,9,0,DWLD,LLLL
-ADO Den Haag,Ajax,0-2,/match/ado-den-haag/ajax/2017,2017,9,eredivisie,18,34,2,0,2,12,3,1,4,11,15,WLLDWWLW,1,1,1,4,4,2,6,1,1,20,8,LDLLWLWW,3,0,0,8,1,WDL,LLL
-Excelsior,PEC Zwolle,0-2,/match/excelsior/fc-zwolle/2017,2017,10,eredivisie,18,34,2,0,2,12,3,1,5,11,16,LWLWWDLWL,2,0,3,7,7,16,1,3,5,7,20,DLLWDLWWD,0,2,2,4,9,WLWLL,DWWD
-Go Ahead Eagles,Twente 1965,0-2,/match/go-ahead-eagles/fc-twente-1965/2017,2017,10,eredivisie,18,34,2,0,2,9,2,2,5,9,16,WDWLWWDWW,2,1,1,7,5,5,4,2,3,18,16,LWLWWWWDD,1,1,2,6,9,DLWW,WLWD
-PSV,Sparta Rotterdam,1-0,/match/psv/sparta-rotterdam/2017,2017,10,eredivisie,18,34,0,1,0,6,5,3,1,16,5,LWLDLLLDD,1,2,1,2,2,8,3,3,3,12,12,LLWWDWWDD,1,1,2,5,6,WDLD,LWDW
-Roda JC,ADO Den Haag,1-1,/match/roda-jc/ado-den-haag/2017,2017,10,eredivisie,18,34,1,1,1,18,1,3,5,4,15,DDLDWLWLL,0,1,3,1,6,13,3,1,5,11,17,WLLDWWLWL,2,0,3,7,11,DLLL,LLWWW
-Willem II,Utrecht,0-1,/match/willem-ii/fc-utrecht/2017,2017,10,eredivisie,18,34,2,0,1,15,1,4,4,7,15,LWLDWDDLD,0,2,2,2,7,10,2,3,4,14,16,LDLDDLWWW,0,3,1,6,7,LDDL,DDDW
-NEC Nijmegen,Vitesse,1-1,/match/nec/vitesse/2017,2017,10,eredivisie,18,34,1,1,1,11,2,3,4,7,14,DDWWLWDLL,1,2,2,4,8,7,4,2,3,14,10,LLLDWWWWD,2,1,2,8,6,DWLDL,LLWWD
-Feyenoord,Ajax,1-1,/match/feyenoord/ajax/2017,2017,10,eredivisie,18,34,1,1,1,1,9,0,0,25,3,LWLWWLWLL,4,0,0,14,2,2,7,1,1,22,8,LDLLWLWWL,4,0,0,10,1,WWWW,LLLL
-Groningen,AZ Alkmaar,2-0,/match/fc-groningen/az/2017,2017,10,eredivisie,18,34,0,2,0,17,1,3,5,10,18,LWLDDLDWL,0,2,3,4,13,3,4,4,1,15,9,DWLWWLDDD,2,1,1,5,3,LLDDL,WLLD
-Heerenveen,Heracles,3-1,/match/heerenveen/heracles/2017,2017,10,eredivisie,18,34,0,3,1,4,5,3,1,19,8,DDWWWLLDL,2,2,0,7,4,14,1,5,3,8,11,DWLDWLDDD,0,4,1,4,6,DWWD,DDWDD
-Twente 1965,Roda JC,0-0,/match/fc-twente-1965/roda-jc/2017,2017,11,eredivisie,18,34,1,0,0,6,5,2,3,20,16,LWLWWWWDDL,3,1,1,12,7,18,1,4,5,5,16,DDLDWLWLLD,1,2,2,3,9,LWWWD,DDWWL
-Willem II,Groningen,2-1,/match/willem-ii/fc-groningen/2017,2017,11,eredivisie,18,34,0,2,1,17,1,4,5,7,16,LWLDWDDLDL,0,2,3,2,8,14,2,3,5,12,18,LWLDDLDWLW,1,1,2,6,5,LDDLL,WDLW
-Heracles,Sparta Rotterdam,2-2,/match/heracles/sparta-rotterdam/2017,2017,11,eredivisie,18,34,1,2,2,15,1,5,4,9,14,DWLDWLDDDW,1,1,2,4,5,8,3,3,4,12,13,LLWWDWWDDW,1,1,3,5,7,WLLD,LWDWW
-Vitesse,PSV,0-2,/match/vitesse/psv/2017,2017,11,eredivisie,18,34,2,0,2,7,4,3,3,15,11,LLLDWWWWDD,2,1,1,6,4,4,6,3,1,17,5,LWLDLLLDDW,4,1,0,14,3,LDWW,LLLLD
-Ajax,Excelsior,1-0,/match/ajax/excelsior/2017,2017,11,eredivisie,18,34,0,1,0,2,7,2,1,23,9,LDLLWLWWLD,3,1,1,12,7,12,3,1,6,11,18,LWLWWDLWLL,1,1,2,4,9,DLWWW,LWDW
-PEC Zwolle,Go Ahead Eagles,3-1,/match/fc-zwolle/go-ahead-eagles/2017,2017,11,eredivisie,18,34,0,3,1,16,2,3,5,9,20,DLLWDLWWDL,1,1,3,3,11,11,2,2,6,9,18,WDWLWWDWWL,0,1,4,2,11,LLDLW,WWWDW
-Feyenoord,Heerenveen,2-2,/match/feyenoord/heerenveen/2017,2017,11,eredivisie,18,34,1,2,2,1,9,1,0,26,4,LWLWWLWLLD,4,1,0,15,3,3,6,3,1,22,9,DDWWWLLDLW,3,1,1,12,4,WWWWD,DWLLL
-Utrecht,NEC Nijmegen,1-1,/match/fc-utrecht/nec/2017,2017,11,eredivisie,18,34,1,1,1,10,3,3,4,15,16,LDLDDLWWWL,2,0,3,8,9,9,2,4,4,8,15,DDWWLWDLLD,1,1,2,3,6,LLLWW,DWWL
-ADO Den Haag,AZ Alkmaar,0-1,/match/ado-den-haag/az/2017,2017,11,eredivisie,18,34,2,0,1,13,3,2,5,12,18,WLLDWWLWLD,1,1,2,4,6,5,4,4,2,15,11,DWLWWLDDDW,2,1,2,5,5,WDLL,WLLDW
-Sparta Rotterdam,Heerenveen,3-1,/match/sparta-rotterdam/heerenveen/2017,2017,12,eredivisie,18,34,0,3,1,8,3,4,4,14,15,LLWWDWWDDWD,2,2,1,7,6,3,6,4,1,24,11,DDWWWLLDLWD,3,2,1,14,6,LWWDD,DWLLLD
-ADO Den Haag,Willem II,1-0,/match/ado-den-haag/willem-ii/2017,2017,12,eredivisie,18,34,0,1,0,16,3,2,6,12,19,WLLDWWLWLDL,1,1,3,4,7,13,2,4,5,9,17,LWLDWDDLDLW,1,2,2,5,8,WDLLL,WLWDD
-NEC Nijmegen,Groningen,1-1,/match/nec/fc-groningen/2017,2017,12,eredivisie,18,34,1,1,1,10,2,5,4,9,16,DDWWLWDLLDD,1,3,2,5,9,17,2,3,6,13,20,LWLDDLDWLWW,1,1,3,7,7,DWLDLD,WDLWW
-PSV,Twente 1965,1-1,/match/psv/fc-twente-1965/2017,2017,12,eredivisie,18,34,1,1,1,4,7,3,1,19,5,LWLDLLLDDWL,2,2,1,3,2,6,5,3,3,20,16,LWLWWWWDDLD,2,1,2,8,9,WDLDW,WLWDL
-PEC Zwolle,Roda JC,0-0,/match/fc-zwolle/roda-jc/2017,2017,12,eredivisie,18,34,1,0,0,11,3,3,5,12,21,DLLWDLWWDLW,2,1,3,6,12,18,1,5,5,5,16,DDLDWLWLLDD,1,3,2,3,9,LLDLWW,DDWWLD
-Utrecht,Excelsior,2-1,/match/fc-utrecht/excelsior/2017,2017,12,eredivisie,18,34,0,2,1,9,3,4,4,16,17,LDLDDLWWWLD,2,1,3,9,10,15,3,1,7,11,19,LWLWWDLWLLW,1,1,3,4,10,LLLWWD,LWDWW
-AZ Alkmaar,Ajax,2-2,/match/az/ajax/2017,2017,12,eredivisie,18,34,1,2,2,5,5,4,2,16,11,DWLWWLDDDWL,2,3,0,10,6,2,8,2,1,24,9,LDLLWLWWLDW,4,1,0,11,2,DWWDD,LLLLD
-Vitesse,Heracles,1-2,/match/vitesse/heracles/2017,2017,12,eredivisie,18,34,2,1,2,7,4,3,4,15,13,LLLDWWWWDDL,2,1,2,6,6,12,1,6,4,11,16,DWLDWLDDDWD,0,4,2,5,9,LDWWL,DDWDDW
-Go Ahead Eagles,Feyenoord,1-0,/match/go-ahead-eagles/feyenoord/2017,2017,12,eredivisie,18,34,0,1,0,14,2,2,7,10,21,WDWLWWDWWLW,2,1,2,7,7,1,9,2,0,28,6,LWLWWLWLLDD,5,0,0,11,1,DLWWL,LLLLL
-Heerenveen,Vitesse,1-1,/match/heerenveen/vitesse/2017,2017,13,eredivisie,18,34,1,1,1,4,6,4,2,25,14,DDWWWLLDLWDW,3,2,0,10,5,11,4,3,5,16,15,LLLDWWWWDDLL,2,2,2,9,7,DWWDW,LLWWDD
-Heracles,Go Ahead Eagles,2-1,/match/heracles/go-ahead-eagles/2017,2017,13,eredivisie,18,34,0,2,1,14,2,6,4,13,17,DWLDWLDDDWDL,1,2,2,6,7,12,3,2,7,11,21,WDWLWWDWWLWW,0,1,5,3,14,WLLDD,WWWDWW
-Willem II,PSV,0-0,/match/willem-ii/psv/2017,2017,13,eredivisie,18,34,1,0,0,15,2,4,6,9,18,LWLDWDDLDLWW,1,2,3,4,9,3,7,4,1,20,6,LWLDLLLDDWLD,5,1,0,16,3,LDDLLW,LLLLDL
-Excelsior,Sparta Rotterdam,3-2,/match/excelsior/sparta-rotterdam/2017,2017,13,eredivisie,18,34,0,3,2,17,3,1,8,12,21,LWLWWDLWLLWW,2,0,4,7,9,7,4,4,4,17,16,LLWWDWWDDWDW,1,2,3,7,9,WLWLLL,LWDWWD
-Groningen,ADO Den Haag,2-1,/match/fc-groningen/ado-den-haag/2017,2017,13,eredivisie,18,34,0,2,1,16,2,4,6,14,21,LWLDDLDWLWWD,1,2,3,6,13,13,4,2,6,13,19,WLLDWWLWLDLW,2,1,3,8,12,LLDDLW,LLWWWD
-Roda JC,AZ Alkmaar,1-1,/match/roda-jc/az/2017,2017,13,eredivisie,18,34,1,1,1,18,1,6,5,5,16,DDLDWLWLLDDD,0,2,3,2,7,5,5,5,2,18,13,DWLWWLDDDWLD,3,1,2,6,5,DLLLD,WLLDWL
-Ajax,NEC Nijmegen,5-0,/match/ajax/nec/2017,2017,13,eredivisie,18,34,0,5,0,2,8,3,1,26,11,LDLLWLWWLDWD,4,1,1,13,7,10,2,6,4,10,17,DDWWLWDLLDDD,1,2,2,4,7,DLWWWW,DWWLD
-Twente 1965,Utrecht,1-1,/match/fc-twente-1965/fc-utrecht/2017,2017,13,eredivisie,18,34,1,1,1,6,5,4,3,21,17,LWLWWWWDDLDD,3,2,1,12,7,8,4,4,4,18,18,LDLDDLWWWLDW,1,3,1,7,7,LWWWDD,DDDWL
-Feyenoord,PEC Zwolle,3-0,/match/feyenoord/fc-zwolle/2017,2017,13,eredivisie,18,34,0,3,0,1,9,2,1,28,7,LWLWWLWLLDDW,4,2,0,17,5,9,3,4,5,12,21,DLLWDLWWDLWD,1,2,2,6,9,WWWWDD,DWWDL
-Go Ahead Eagles,Willem II,0-1,/match/go-ahead-eagles/willem-ii/2017,2017,14,eredivisie,18,34,2,0,1,15,3,2,8,12,23,WDWLWWDWWLWWW,3,1,2,8,7,17,2,5,6,9,18,LWLDWDDLDLWWD,1,2,3,5,9,DLWWLW,WLWDDW
-Vitesse,Excelsior,2-2,/match/vitesse/excelsior/2017,2017,14,eredivisie,18,34,1,2,2,10,4,4,5,17,16,LLLDWWWWDDLLD,2,1,3,7,8,16,4,1,8,15,23,LWLWWDLWLLWWW,1,1,4,5,12,LDWWLL,LWDWWW
-PSV,ADO Den Haag,3-1,/match/psv/ado-den-haag/2017,2017,14,eredivisie,18,34,0,3,1,3,7,5,1,20,6,LWLDLLLDDWLDD,2,3,1,4,3,14,4,2,7,14,21,WLLDWWLWLDLWW,2,1,4,9,14,WDLDWD,LLWWWDW
-PEC Zwolle,Groningen,0-4,/match/fc-zwolle/fc-groningen/2017,2017,14,eredivisie,18,34,2,0,4,13,3,4,6,12,24,DLLWDLWWDLWDW,2,2,3,6,12,11,3,4,6,16,22,LWLDDLDWLWWDW,1,2,3,8,8,LLDLWWD,WDLWWD
-NEC Nijmegen,Twente 1965,3-2,/match/nec/fc-twente-1965/2017,2017,14,eredivisie,18,34,0,3,2,12,2,6,5,10,22,DDWWLWDLLDDDW,1,4,2,6,10,6,5,5,3,22,18,LWLWWWWDDLDDD,2,2,2,9,10,DWLDLDD,WLWDLD
-Sparta Rotterdam,Roda JC,2-2,/match/sparta-rotterdam/roda-jc/2017,2017,14,eredivisie,18,34,1,2,2,7,4,4,5,19,19,LLWWDWWDDWDWW,3,2,1,10,7,18,1,7,5,6,17,DDLDWLWLLDDDD,1,4,2,3,9,LWWDDW,DDWWLDD
-AZ Alkmaar,Heracles,5-1,/match/az/heracles/2017,2017,14,eredivisie,18,34,0,5,1,5,5,6,2,19,14,DWLWWLDDDWLDD,2,4,0,12,8,9,3,6,4,15,18,DWLDWLDDDWDLW,1,4,2,7,10,DWWDDD,DDWDDWL
-Heerenveen,Ajax,0-1,/match/heerenveen/ajax/2017,2017,14,eredivisie,18,34,2,0,1,4,6,5,2,26,15,DDWWWLLDLWDWD,3,3,0,11,6,2,9,3,1,31,11,LDLLWLWWLDWDW,4,2,0,13,4,DWWDWD,LLLLDD
-Utrecht,Feyenoord,3-3,/match/fc-utrecht/feyenoord/2017,2017,14,eredivisie,18,34,1,3,3,8,4,5,4,19,19,LDLDDLWWWLDWD,3,1,3,11,11,1,10,2,1,31,7,LWLWWLWLLDDWW,5,0,1,11,2,LLLWWDW,LLLLLW
-Heracles,NEC Nijmegen,2-0,/match/heracles/nec/2017,2017,15,eredivisie,18,34,0,2,0,12,3,6,5,16,23,DWLDWLDDDWDLWW,2,2,2,8,8,9,3,6,5,13,24,DDWWLWDLLDDDWW,1,2,3,4,12,WLLDDW,DWWLDW
-Go Ahead Eagles,Heerenveen,1-3,/match/go-ahead-eagles/heerenveen/2017,2017,15,eredivisie,18,34,2,1,3,17,3,2,9,12,24,WDWLWWDWWLWWWL,3,1,3,8,8,5,6,5,3,26,16,DDWWWLLDLWDWDL,3,2,2,15,9,DLWWLWL,DWLLLDW
-Excelsior,AZ Alkmaar,3-3,/match/excelsior/az/2017,2017,15,eredivisie,18,34,1,3,3,14,4,2,8,17,25,LWLWWDLWLLWWWD,3,0,4,10,11,4,6,6,2,24,15,DWLWWLDDDWLDDW,3,2,2,7,6,WLWLLLW,WLLDWLD
-Roda JC,PSV,0-0,/match/roda-jc/psv/2017,2017,15,eredivisie,18,34,1,0,0,18,1,8,5,8,19,DDLDWLWLLDDDDD,0,3,3,3,8,3,8,5,1,23,7,LWLDLLLDDWLDDW,5,2,0,16,3,DLLLDD,LLLLDLD
-Vitesse,PEC Zwolle,3-1,/match/vitesse/fc-zwolle/2017,2017,15,eredivisie,18,34,0,3,1,10,4,5,5,19,18,LLLDWWWWDDLLDD,2,2,3,9,10,13,3,4,7,12,28,DLLWDLWWDLWDWL,1,2,3,6,12,LDWWLLD,DWWDLW
-ADO Den Haag,Utrecht,0-2,/match/ado-den-haag/fc-utrecht/2017,2017,15,eredivisie,18,34,2,0,2,16,4,2,8,15,24,WLLDWWLWLDLWWW,2,1,3,5,7,8,4,6,4,22,22,LDLDDLWWWLDWDD,1,4,1,8,8,WDLLLW,DDDWLD
-Feyenoord,Sparta Rotterdam,6-1,/match/feyenoord/sparta-rotterdam/2017,2017,15,eredivisie,18,34,0,6,1,1,10,3,1,34,10,LWLWWLWLLDDWWD,5,2,0,20,5,7,4,5,5,21,21,LLWWDWWDDWDWWD,1,2,4,9,12,WWWWDDW,LWDWWDW
-Willem II,Twente 1965,0-0,/match/willem-ii/fc-twente-1965/2017,2017,15,eredivisie,18,34,1,0,0,15,3,5,6,10,18,LWLDWDDLDLWWDL,1,3,3,4,9,6,5,5,4,24,21,LWLWWWWDDLDDDW,2,2,3,11,13,LDDLLWD,WLWDLDW
-Ajax,Groningen,2-0,/match/ajax/fc-groningen/2017,2017,15,eredivisie,18,34,0,2,0,2,10,3,1,32,11,LDLLWLWWLDWDWL,5,1,1,18,7,11,4,4,6,20,22,LWLDDLDWLWWDWL,2,2,3,12,8,DLWWWWW,WDLWWDL
-Groningen,Roda JC,2-0,/match/fc-groningen/roda-jc/2017,2017,16,eredivisie,18,34,0,2,0,12,4,4,7,20,24,LWLDDLDWLWWDWLW,2,2,3,8,14,18,1,9,5,8,19,DDLDWLWLLDDDDDD,1,5,2,5,11,LLDDLWW,DDWWLDDD
-NEC Nijmegen,ADO Den Haag,3-0,/match/nec/ado-den-haag/2017,2017,16,eredivisie,18,34,0,3,0,11,3,6,6,13,26,DDWWLWDLLDDDWWW,2,4,2,9,12,16,4,2,9,15,26,WLLDWWLWLDLWWWL,2,1,5,10,17,DWLDLDDW,LLWWWDWW
-Heerenveen,Excelsior,2-1,/match/heerenveen/excelsior/2017,2017,16,eredivisie,18,34,0,2,1,5,7,5,3,29,17,DDWWWLLDLWDWDLL,3,3,1,11,7,13,4,3,8,20,28,LWLWWDLWLLWWWDD,1,2,4,7,14,DWWDWDL,LWDWWWD
-PSV,Go Ahead Eagles,1-0,/match/psv/go-ahead-eagles/2017,2017,16,eredivisie,18,34,0,1,0,3,8,6,1,23,7,LWLDLLLDDWLDDWD,3,3,1,7,4,17,3,2,10,13,27,WDWLWWDWWLWWWLL,0,1,6,4,16,WDLDWDW,WWWDWWW
-PEC Zwolle,Willem II,0-0,/match/fc-zwolle/willem-ii/2017,2017,16,eredivisie,18,34,1,0,0,15,3,4,8,13,31,DLLWDLWWDLWDWLW,2,2,4,6,16,14,3,6,6,10,18,LWLDWDDLDLWWDLD,2,2,3,6,9,LLDLWWDL,WLWDDWL
-Sparta Rotterdam,Vitesse,0-1,/match/sparta-rotterdam/vitesse/2017,2017,16,eredivisie,18,34,2,0,1,9,4,5,6,22,27,LLWWDWWDDWDWWDW,3,3,1,12,9,8,5,5,5,22,19,LLLDWWWWDDLLDDW,2,3,2,10,8,LWWDDWD,LLWWDDD
-AZ Alkmaar,Feyenoord,0-4,/match/az/feyenoord/2017,2017,16,eredivisie,18,34,2,0,4,4,6,7,2,27,18,DWLWWLDDDWLDDWD,3,4,0,17,9,1,11,3,1,40,11,LWLWWLWLLDDWWDW,5,1,1,14,5,DWWDDDW,LLLLLWD
-Utrecht,Heracles,2-0,/match/fc-utrecht/heracles/2017,2017,16,eredivisie,18,34,0,2,0,7,5,6,4,24,22,LDLDDLWWWLDWDDL,3,2,3,14,14,10,4,6,5,18,23,DWLDWLDDDWDLWWW,1,4,3,8,15,LLLWWDWD,DDWDDWLW
-Twente 1965,Ajax,1-0,/match/fc-twente-1965/ajax/2017,2017,16,eredivisie,18,34,0,1,0,6,5,6,4,24,21,LWLWWWWDDLDDDWD,3,3,1,13,8,2,11,3,1,34,11,LDLLWLWWLDWDWLW,5,2,0,14,4,LWWWDDD,LLLLDDL
-Willem II,Heerenveen,2-1,/match/willem-ii/heerenveen/2017,2017,17,eredivisie,18,34,0,2,1,13,3,7,6,10,18,LWLDWDDLDLWWDLDD,1,4,3,4,9,4,8,5,3,31,18,DDWWWLLDLWDWDLLW,4,2,2,18,10,LDDLLWDD,DWLLLDWL
-Roda JC,Utrecht,0-0,/match/roda-jc/fc-utrecht/2017,2017,17,eredivisie,18,34,1,0,0,18,1,9,6,8,21,DDLDWLWLLDDDDDDW,0,4,3,3,8,7,6,6,4,26,22,LDLDDLWWWLDWDDLW,2,4,1,10,8,DLLLDDD,DDDWLDL
-Feyenoord,Vitesse,3-1,/match/feyenoord/vitesse/2017,2017,17,eredivisie,18,34,0,3,1,1,12,3,1,44,11,LWLWWLWLLDDWWDWL,6,2,0,26,6,8,6,5,5,23,19,LLLDWWWWDDLLDDWL,3,3,2,11,8,WWWWDDWW,LLWWDDDL
-Twente 1965,AZ Alkmaar,1-2,/match/fc-twente-1965/az/2017,2017,17,eredivisie,18,34,2,1,2,6,6,6,4,25,21,LWLWWWWDDLDDDWDW,4,3,1,14,8,5,6,7,3,27,22,DWLWWLDDDWLDDWDL,3,3,2,10,9,LWWWDDDW,WLLDWLDD
-Excelsior,NEC Nijmegen,2-2,/match/excelsior/nec/2017,2017,17,eredivisie,18,34,1,2,2,14,4,3,9,21,30,LWLWWDLWLLWWWDDW,3,1,4,13,14,9,4,6,6,16,26,DDWWLWDLLDDDWWWW,1,2,4,4,14,WLWLLLWD,DWWLDWW
-ADO Den Haag,Sparta Rotterdam,1-0,/match/ado-den-haag/sparta-rotterdam/2017,2017,17,eredivisie,18,34,0,1,0,16,4,2,10,15,29,WLLDWWLWLDLWWWLW,2,1,4,5,9,12,4,5,7,22,28,LLWWDWWDDWDWWDWL,1,2,5,10,18,WDLLLWL,LWDWWDWW
-Heracles,PEC Zwolle,3-0,/match/heracles/fc-zwolle/2017,2017,17,eredivisie,18,34,0,3,0,11,4,6,6,18,25,DWLDWLDDDWDLWWWW,3,2,2,10,8,15,3,5,8,13,31,DLLWDLWWDLWDWLWD,1,2,4,7,15,WLLDDWW,DWWDLWW
-Groningen,Go Ahead Eagles,1-1,/match/fc-groningen/go-ahead-eagles/2017,2017,17,eredivisie,18,34,1,1,1,10,5,4,7,22,24,LWLDDLDWLWWDWLWW,3,2,3,10,14,17,3,2,11,13,28,WDWLWWDWWLWWWLLW,0,1,7,4,17,LLDDLWWW,WWWDWWWW
-Ajax,PSV,1-1,/match/ajax/psv/2017,2017,17,eredivisie,18,34,1,1,1,2,11,3,2,34,12,LDLLWLWWLDWDWLWW,6,1,1,20,7,3,9,6,1,24,7,LWLDLLLDDWLDDWDW,5,3,0,16,3,DLWWWWWW,LLLLDLDD
-Go Ahead Eagles,AZ Alkmaar,1-3,/match/go-ahead-eagles/az/2017,2017,18,eredivisie,18,34,2,1,3,18,3,3,11,14,29,WDWLWWDWWLWWWLLWD,3,1,4,9,11,5,7,7,3,29,23,DWLWWLDDDWLDDWDLL,4,3,2,12,10,DLWWLWLL,WLLDWLDDL
-Heerenveen,ADO Den Haag,2-0,/match/heerenveen/ado-den-haag/2017,2017,18,eredivisie,18,34,0,2,0,4,8,5,4,32,20,DDWWWLLDLWDWDLLWW,4,3,1,13,8,15,5,2,10,16,29,WLLDWWLWLDLWWWLWW,2,1,6,10,20,DWWDWDLW,LLWWWDWWW
-Heracles,Groningen,1-4,/match/heracles/fc-groningen/2017,2017,18,eredivisie,18,34,2,1,4,8,5,6,6,21,25,DWLDWLDDDWDLWWWWW,4,2,2,13,8,11,5,5,7,23,25,LWLDDLDWLWWDWLWWD,2,2,4,12,10,WLLDDWWW,WDLWWDLW
-PSV,Excelsior,2-0,/match/psv/excelsior/2017,2017,18,eredivisie,18,34,0,2,0,3,9,7,1,25,8,LWLDLLLDDWLDDWDWD,4,3,1,8,4,14,4,4,9,23,32,LWLWWDLWLLWWWDDWD,1,2,5,8,16,WDLDWDWW,LWDWWWDW
-Sparta Rotterdam,Utrecht,1-2,/match/sparta-rotterdam/fc-utrecht/2017,2017,18,eredivisie,18,34,2,1,2,13,4,5,8,22,29,LLWWDWWDDWDWWDWLW,3,3,2,12,10,7,6,7,4,26,22,LDLDDLWWWLDWDDLWD,2,5,1,10,8,LWWDDWDL,DDDWLDLD
-Roda JC,Feyenoord,0-2,/match/roda-jc/feyenoord/2017,2017,18,eredivisie,18,34,2,0,2,17,1,10,6,8,21,DDLDWLWLLDDDDDDWD,0,5,3,3,8,1,13,3,1,47,12,LWLWWLWLLDDWWDWLW,6,1,1,18,5,DLLLDDDD,LLLLLWDL
-PEC Zwolle,Ajax,1-3,/match/fc-zwolle/ajax/2017,2017,18,eredivisie,18,34,2,1,3,16,3,5,9,13,34,DLLWDLWWDLWDWLWDW,2,3,4,6,16,2,11,4,2,35,13,LDLLWLWWLDWDWLWWD,5,2,1,14,5,LLDLWWDLD,LLLLDDLW
-Vitesse,Twente 1965,3-1,/match/vitesse/fc-twente-1965/2017,2017,18,eredivisie,18,34,0,3,1,9,6,5,6,24,22,LLLDWWWWDDLLDDWLW,3,2,3,12,11,6,6,6,5,26,23,LWLWWWWDDLDDDWDWL,2,3,3,11,13,LDWWLLDW,WLWDLDWD
-Willem II,NEC Nijmegen,0-1,/match/willem-ii/nec/2017,2017,18,eredivisie,18,34,2,0,1,12,4,7,6,12,19,LWLDWDDLDLWWDLDDW,2,4,3,6,10,10,4,7,6,18,28,DDWWLWDLLDDDWWWWD,1,3,4,6,16,LDDLLWDDW,DWWLDWWD
-Twente 1965,Heracles,1-0,/match/fc-twente-1965/heracles/2017,2017,19,eredivisie,18,34,0,1,0,8,6,6,6,27,26,LWLWWWWDDLDDDWDWLW,4,3,2,15,10,10,5,6,7,22,29,DWLDWLDDDWDLWWWWWL,1,4,4,8,17,LWWWDDDWL,DDWDDWLWW
-AZ Alkmaar,Sparta Rotterdam,1-1,/match/az/sparta-rotterdam/2017,2017,19,eredivisie,18,34,1,1,1,5,8,7,3,32,24,DWLWWLDDDWLDDWDLLL,3,4,1,17,13,13,4,5,9,23,31,LLWWDWWDDWDWWDWLWL,1,2,6,10,19,DWWDDDWL,LWDWWDWWW
-ADO Den Haag,PEC Zwolle,1-2,/match/ado-den-haag/fc-zwolle/2017,2017,19,eredivisie,18,34,2,1,2,15,5,2,11,16,31,WLLDWWLWLDLWWWLWWW,3,1,4,6,9,16,3,5,10,14,37,DLLWDLWWDLWDWLWDWL,1,2,5,7,18,WDLLLWLW,DWWDLWWW
-Feyenoord,Willem II,1-0,/match/feyenoord/willem-ii/2017,2017,19,eredivisie,18,34,0,1,0,1,14,3,1,49,12,LWLWWLWLLDDWWDWLWL,7,2,0,29,7,12,4,7,7,12,20,LWLDWDDLDLWWDLDDWL,2,3,3,6,9,WWWWDDWWW,WLWDDWLD
-Groningen,Vitesse,1-1,/match/fc-groningen/vitesse/2017,2017,19,eredivisie,18,34,1,1,1,11,6,5,7,27,26,LWLDDLDWLWWDWLWWDL,3,3,3,11,15,7,7,5,6,27,23,LLLDWWWWDDLLDDWLWW,3,3,3,12,11,LLDDLWWWD,LLWWDDDLW
-Utrecht,Ajax,0-1,/match/fc-utrecht/ajax/2017,2017,19,eredivisie,18,34,2,0,1,6,7,7,4,28,23,LDLDDLWWWLDWDDLWDL,4,2,3,16,14,2,12,4,2,38,14,LDLLWLWWLDWDWLWWDL,6,2,1,17,6,LLLWWDWDW,LLLLDDLWL
-Excelsior,Go Ahead Eagles,1-1,/match/excelsior/go-ahead-eagles/2017,2017,19,eredivisie,18,34,1,1,1,14,4,4,10,23,34,LWLWWDLWLLWWWDDWDW,3,2,4,15,16,18,3,3,12,15,32,WDWLWWDWWLWWWLLWDL,0,2,7,5,18,WLWLLLWDD,WWWDWWWWD
-NEC Nijmegen,Roda JC,2-0,/match/nec/roda-jc/2017,2017,19,eredivisie,18,34,0,2,0,9,5,7,6,19,28,DDWWLWDLLDDDWWWWDL,3,4,2,12,12,17,1,10,7,8,23,DDLDWLWLLDDDDDDWDL,1,5,3,5,13,DWLDLDDWW,DDWWLDDDW
-PSV,Heerenveen,4-3,/match/psv/heerenveen/2017,2017,19,eredivisie,18,34,0,4,3,3,10,7,1,27,8,LWLDLLLDDWLDDWDWDW,5,3,1,10,4,4,9,5,4,34,20,DDWWWLLDLWDWDLLWWW,4,2,3,19,12,WDLDWDWWW,DWLLLDWLW
-Willem II,Sparta Rotterdam,3-2,/match/willem-ii/sparta-rotterdam/2017,2017,20,eredivisie,18,34,0,3,2,12,4,7,8,12,21,LWLDWDDLDLWWDLDDWLW,2,4,4,6,11,13,4,6,9,24,32,LLWWDWWDDWDWWDWLWLD,1,3,6,11,20,LDDLLWDDWL,LWDWWDWWWD
-Go Ahead Eagles,Utrecht,0-1,/match/go-ahead-eagles/fc-utrecht/2017,2017,20,eredivisie,18,34,2,0,1,18,3,4,12,16,33,WDWLWWDWWLWWWLLWDLD,3,1,5,10,14,7,7,7,5,28,24,LDLDDLWWWLDWDDLWDLL,3,5,1,12,9,DLWWLWLLL,DDDWLDLDL
-Heracles,PSV,1-2,/match/heracles/psv/2017,2017,20,eredivisie,18,34,2,1,2,11,5,6,8,22,30,DWLDWLDDDWDLWWWWWLW,4,2,3,14,12,2,11,7,1,31,11,LWLDLLLDDWLDDWDWDWW,5,4,0,17,4,WLLDDWWWL,LLLLDLDDD
-Roda JC,Excelsior,4-0,/match/roda-jc/excelsior/2017,2017,20,eredivisie,18,34,0,4,0,17,1,10,8,8,25,DDLDWLWLLDDDDDDWDLW,0,5,4,3,10,14,4,5,10,24,35,LWLWWDLWLLWWWDDWDWD,1,2,6,8,18,DLLLDDDDL,LWDWWWDWW
-Heerenveen,Groningen,0-0,/match/heerenveen/fc-groningen/2017,2017,20,eredivisie,18,34,1,0,0,4,9,5,5,37,24,DDWWWLLDLWDWDLLWWWW,5,3,1,15,8,10,6,6,7,28,27,LWLDDLDWLWWDWLWWDLD,3,2,4,16,11,DWWDWDLWW,WDLWWDLWL
-Vitesse,AZ Alkmaar,2-1,/match/vitesse/az/2017,2017,20,eredivisie,18,34,0,2,1,9,7,6,6,28,24,LLLDWWWWDDLLDDWLWWD,4,2,3,15,12,5,8,8,3,33,25,DWLWWLDDDWLDDWDLLLD,5,3,2,15,11,LDWWLLDWW,WLLDWLDDLL
-Ajax,ADO Den Haag,3-0,/match/ajax/ado-den-haag/2017,2017,20,eredivisie,18,34,0,3,0,3,13,4,2,39,14,LDLLWLWWLDWDWLWWDLL,6,2,1,21,8,16,5,2,12,17,33,WLLDWWLWLDLWWWLWWWL,2,1,7,10,22,DLWWWWWWD,LLWWWDWWWW
-PEC Zwolle,Twente 1965,1-2,/match/fc-zwolle/fc-twente-1965/2017,2017,20,eredivisie,18,34,2,1,2,15,4,5,10,16,38,DLLWDLWWDLWDWLWDWLL,2,3,5,7,19,6,7,6,6,28,26,LWLWWWWDDLDDDWDWLWW,2,3,4,12,16,LLDLWWDLDL,WLWDLDWDW
-Feyenoord,NEC Nijmegen,4-0,/match/feyenoord/nec/2017,2017,20,eredivisie,18,34,0,4,0,1,15,3,1,50,12,LWLWWLWLLDDWWDWLWLW,8,2,0,30,7,8,6,7,6,21,28,DDWWLWDLLDDDWWWWDLW,2,3,4,7,16,WWWWDDWWWW,DWWLDWWDL
-ADO Den Haag,Vitesse,0-2,/match/ado-den-haag/vitesse/2017,2017,21,eredivisie,18,34,2,0,2,17,5,2,13,17,36,WLLDWWLWLDLWWWLWWWLW,3,1,5,7,11,7,8,6,6,30,25,LLLDWWWWDDLLDDWLWWDW,3,4,3,13,12,WDLLLWLWL,LLWWDDDLWD
-NEC Nijmegen,Go Ahead Eagles,1-2,/match/nec/go-ahead-eagles/2017,2017,21,eredivisie,18,34,2,1,2,9,6,7,7,21,32,DDWWLWDLLDDDWWWWDLWW,4,4,2,14,12,18,3,4,13,16,34,WDWLWWDWWLWWWLLWDLDL,0,3,7,6,19,DWLDLDDWWW,WWWDWWWWDD
-AZ Alkmaar,PSV,2-4,/match/az/psv/2017,2017,21,eredivisie,18,34,2,2,4,5,8,8,4,34,27,DWLWWLDDDWLDDWDLLLDW,3,5,1,18,14,3,12,7,1,33,12,LWLDLLLDDWLDDWDWDWWL,6,4,0,19,5,DWWDDDWLD,LLLLDLDDDL
-Willem II,Heracles,1-3,/match/willem-ii/heracles/2017,2017,21,eredivisie,18,34,2,1,3,11,5,7,8,15,23,LWLDWDDLDLWWDLDDWLWW,3,4,4,9,13,12,5,6,9,23,32,DWLDWLDDDWDLWWWWWLWL,1,4,5,8,18,LDDLLWDDWLW,DDWDDWLWWW
-Groningen,Excelsior,1-1,/match/fc-groningen/excelsior/2017,2017,21,eredivisie,18,34,1,1,1,10,6,7,7,28,27,LWLDDLDWLWWDWLWWDLDD,3,4,3,12,16,14,4,5,11,24,39,LWLWWDLWLLWWWDDWDWDW,1,2,7,8,22,LLDDLWWWDD,LWDWWWDWWW
-Roda JC,Ajax,0-2,/match/roda-jc/ajax/2017,2017,21,eredivisie,18,34,2,0,2,15,2,10,8,12,25,DDLDWLWLLDDDDDDWDLWW,1,5,4,7,10,2,14,4,2,42,14,LDLLWLWWLDWDWLWWDLLW,7,2,1,18,6,DLLLDDDDLW,LLLLDDLWLL
-Sparta Rotterdam,PEC Zwolle,2-3,/match/sparta-rotterdam/fc-zwolle/2017,2017,21,eredivisie,18,34,2,2,3,13,4,6,10,26,35,LLWWDWWDDWDWWDWLWLDW,3,3,3,13,12,16,4,5,11,17,40,DLLWDLWWDLWDWLWDWLLL,2,2,5,9,19,LWWDDWDLL,DWWDLWWWL
-Twente 1965,Feyenoord,0-2,/match/fc-twente-1965/feyenoord/2017,2017,21,eredivisie,18,34,2,0,2,6,8,6,6,30,27,LWLWWWWDDLDDDWDWLWWL,5,3,2,16,10,1,16,3,1,54,12,LWLWWLWLLDDWWDWLWLWW,7,1,1,20,5,LWWWDDDWLW,LLLLLWDLL
-Utrecht,Heerenveen,1-0,/match/fc-utrecht/heerenveen/2017,2017,21,eredivisie,18,34,0,1,0,8,8,7,5,29,24,LDLDDLWWWLDWDDLWDLLL,4,2,4,16,15,4,9,6,5,37,24,DDWWWLLDLWDWDLLWWWWD,4,2,4,22,16,LLLWWDWDWL,DWLLLDWLWW
-PEC Zwolle,NEC Nijmegen,2-0,/match/fc-zwolle/nec/2017,2017,22,eredivisie,18,34,0,2,0,15,5,5,11,20,42,DLLWDLWWDLWDWLWDWLLLL,2,3,6,8,21,10,6,7,8,22,34,DDWWLWDLLDDDWWWWDLWWL,2,3,5,7,20,LLDLWWDLDLL,DWWLDWWDLW
-Heracles,Roda JC,2-2,/match/heracles/roda-jc/2017,2017,22,eredivisie,18,34,1,2,2,11,6,6,9,26,33,DWLDWLDDDWDLWWWWWLWLL,4,2,4,15,14,16,2,10,9,12,27,DDLDWLWLLDDDDDDWDLWWL,1,5,4,5,15,WLLDDWWWLL,DDWWLDDDWW
-Feyenoord,Groningen,2-0,/match/feyenoord/fc-groningen/2017,2017,22,eredivisie,18,34,0,2,0,1,17,3,1,56,12,LWLWWLWLLDDWWDWLWLWWL,9,2,0,34,7,9,6,8,7,29,28,LWLDDLDWLWWDWLWWDLDDD,3,3,4,16,11,WWWWDDWWWWW,WDLWWDLWLD
-Go Ahead Eagles,ADO Den Haag,3-1,/match/go-ahead-eagles/ado-den-haag/2017,2017,22,eredivisie,18,34,0,3,1,18,4,4,13,18,35,WDWLWWDWWLWWWLLWDLDLL,3,1,6,10,15,17,5,2,14,17,38,WLLDWWLWLDLWWWLWWWLWL,2,1,8,10,25,DLWWLWLLLL,LLWWWDWWWWW
-Vitesse,Willem II,0-2,/match/vitesse/willem-ii/2017,2017,22,eredivisie,18,34,2,0,2,6,9,6,6,32,25,LLLDWWWWDDLLDDWLWWDWL,5,2,3,17,13,12,5,7,9,16,26,LWLDWDDLDLWWDLDDWLWWL,2,3,4,6,10,LDWWLLDWWW,WLWDDWLDW
-Excelsior,Twente 1965,1-1,/match/excelsior/fc-twente-1965/2017,2017,22,eredivisie,18,34,1,1,1,14,4,6,11,25,40,LWLWWDLWLLWWWDDWDWDWD,3,3,4,16,17,8,8,6,7,30,29,LWLWWWWDDLDDDWDWLWWLL,3,3,4,14,17,WLWLLLWDDD,WLWDLDWDWL
-Ajax,Sparta Rotterdam,2-0,/match/ajax/sparta-rotterdam/2017,2017,22,eredivisie,18,34,0,2,0,2,15,4,2,44,14,LDLLWLWWLDWDWLWWDLLWL,7,2,1,24,8,13,4,6,11,28,38,LLWWDWWDDWDWWDWLWLDWL,1,3,7,13,23,DLWWWWWWDW,LWDWWDWWWDW
-Heerenveen,AZ Alkmaar,1-2,/match/heerenveen/az/2017,2017,22,eredivisie,18,34,2,1,2,4,9,6,6,37,25,DDWWWLLDLWDWDLLWWWWDW,5,4,1,15,8,7,8,8,5,36,31,DWLWWLDDDWLDDWDLLLDWL,5,3,3,16,13,DWWDWDLWWD,WLLDWLDDLLW
-PSV,Utrecht,3-0,/match/psv/fc-utrecht/2017,2017,22,eredivisie,18,34,0,3,0,3,13,7,1,37,14,LWLDLLLDDWLDDWDWDWWLL,6,3,1,14,7,5,9,7,5,30,24,LDLDDLWWWLDWDDLWDLLLW,4,5,1,13,9,WDLDWDWWWW,DDDWLDLDLL
-Roda JC,Go Ahead Eagles,1-0,/match/roda-jc/go-ahead-eagles/2017,2017,23,eredivisie,18,34,0,1,0,17,2,11,9,14,29,DDLDWLWLLDDDDDDWDLWWLD,1,5,5,7,12,16,5,4,13,21,36,WDWLWWDWWLWWWLLWDLDLLW,1,3,7,8,20,DLLLDDDDLWL,WWWDWWWWDDL
-Twente 1965,Heerenveen,1-0,/match/fc-twente-1965/heerenveen/2017,2017,23,eredivisie,18,34,0,1,0,8,8,7,7,31,30,LWLWWWWDDLDDDWDWLWWLLD,5,3,3,16,12,4,9,6,7,38,27,DDWWWLLDLWDWDLLWWWWDWL,4,2,5,22,17,LWWWDDDWLWL,DWLLLDWLWWW
-PSV,NEC Nijmegen,3-1,/match/psv/nec/2017,2017,23,eredivisie,18,34,0,3,1,3,14,7,1,40,14,LWLDLLLDDWLDDWDWDWWLLW,7,3,1,17,7,9,6,7,9,22,36,DDWWLWDLLDDDWWWWDLWWLW,2,3,6,7,22,WDLDWDWWWWW,DWWLDWWDLWW
-Heracles,Excelsior,4-0,/match/heracles/excelsior/2017,2017,23,eredivisie,18,34,0,4,0,11,6,7,9,28,35,DWLDWLDDDWDLWWWWWLWLLD,4,3,4,17,16,14,4,7,11,26,41,LWLWWDLWLLWWWDDWDWDWDD,1,3,7,9,23,WLLDDWWWLLD,LWDWWWDWWWD
-Utrecht,PEC Zwolle,3-1,/match/fc-utrecht/fc-zwolle/2017,2017,23,eredivisie,18,34,0,3,1,5,9,7,6,30,27,LDLDDLWWWLDWDDLWDLLLWW,5,2,4,17,15,13,6,5,11,22,42,DLLWDLWWDLWDWLWDWLLLLW,3,2,5,12,21,LLLWWDWDWLW,DWWDLWWWLL
-Willem II,AZ Alkmaar,1-1,/match/willem-ii/az/2017,2017,23,eredivisie,18,34,1,1,1,12,6,7,9,18,26,LWLDWDDLDLWWDLDDWLWWLL,3,4,5,10,16,6,9,8,5,38,32,DWLWWLDDDWLDDWDLLLDWLL,6,3,3,18,14,LDDLLWDDWLWL,WLLDWLDDLLWL
-Sparta Rotterdam,Groningen,2-2,/match/sparta-rotterdam/fc-groningen/2017,2017,23,eredivisie,18,34,1,2,2,15,4,6,12,28,40,LLWWDWWDDWDWWDWLWLDWLW,3,3,4,15,15,10,6,8,8,29,30,LWLDDLDWLWWDWLWWDLDDDW,3,3,5,16,13,LWWDDWDLLL,WDLWWDLWLDW
-Vitesse,Ajax,0-1,/match/vitesse/ajax/2017,2017,23,eredivisie,18,34,2,0,1,7,9,6,7,32,27,LLLDWWWWDDLLDDWLWWDWLL,5,2,4,17,15,2,16,4,2,46,14,LDLLWLWWLDWDWLWWDLLWLW,8,2,1,20,6,LDWWLLDWWWL,LLLLDDLWLLL
-ADO Den Haag,Feyenoord,0-1,/match/ado-den-haag/feyenoord/2017,2017,23,eredivisie,18,34,2,0,1,18,5,2,15,18,41,WLLDWWLWLDLWWWLWWWLWLW,3,1,6,7,13,1,18,3,1,58,12,LWLWWLWLLDDWWDWLWLWWLW,8,1,1,22,5,WDLLLWLWLL,LLLLLWDLLL
-ADO Den Haag,Twente 1965,1-1,/match/ado-den-haag/fc-twente-1965/2017,2017,24,eredivisie,18,34,1,1,1,18,5,2,16,18,42,WLLDWWLWLDLWWWLWWWLWLWL,3,1,7,7,14,5,9,7,7,32,30,LWLWWWWDDLDDDWDWLWWLLDW,3,4,4,15,18,WDLLLWLWLLL,WLWDLDWDWLD
-Groningen,Utrecht,2-3,/match/fc-groningen/fc-utrecht/2017,2017,24,eredivisie,18,34,2,2,3,10,6,9,8,31,32,LWLDDLDWLWWDWLWWDLDDDWD,3,5,3,13,17,4,10,7,6,33,28,LDLDDLWWWLDWDDLWDLLLWWW,4,5,2,13,12,LLDDLWWWDDD,DDDWLDLDLLW
-Excelsior,Willem II,0-2,/match/excelsior/willem-ii/2017,2017,24,eredivisie,18,34,2,0,2,15,4,7,12,26,45,LWLWWDLWLLWWWDDWDWDWDDW,3,4,4,17,18,12,6,8,9,19,27,LWLDWDDLDLWWDLDDWLWWLLD,3,3,4,8,10,WLWLLLWDDDD,WLWDDWLDWL
-NEC Nijmegen,Sparta Rotterdam,0-1,/match/nec/sparta-rotterdam/2017,2017,24,eredivisie,18,34,2,0,1,11,6,7,10,23,39,DDWWLWDLLDDDWWWWDLWWLWW,4,4,3,15,14,16,4,7,12,30,42,LLWWDWWDDWDWWDWLWLDWLWD,1,3,8,13,25,DWLDLDDWWWL,LWDWWDWWWDWW
-Heerenveen,Roda JC,3-0,/match/heerenveen/roda-jc/2017,2017,24,eredivisie,18,34,0,3,0,6,9,6,8,38,28,DDWWWLLDLWDWDLLWWWWDWLW,5,4,2,16,10,14,3,11,9,15,29,DDLDWLWLLDDDDDDWDLWWLDW,1,6,4,7,17,DWWDWDLWWDL,DDWWLDDDWWD
-Go Ahead Eagles,Vitesse,1-3,/match/go-ahead-eagles/vitesse/2017,2017,24,eredivisie,18,34,2,1,3,17,5,4,14,21,37,WDWLWWDWWLWWWLLWDLDLLWW,4,1,6,13,16,8,9,6,8,32,28,LLLDWWWWDDLLDDWLWWDWLLL,4,4,3,15,12,DLWWLWLLLLW,LLWWDDDLWDL
-AZ Alkmaar,PEC Zwolle,1-1,/match/az/fc-zwolle/2017,2017,24,eredivisie,18,34,1,1,1,7,9,9,5,39,33,DWLWWLDDDWLDDWDLLLDWLLD,3,5,2,20,18,13,6,5,12,23,45,DLLWDLWWDLWDWLWDWLLLLWW,3,2,6,13,24,DWWDDDWLDL,DWWDLWWWLLW
-Feyenoord,PSV,2-1,/match/feyenoord/psv/2017,2017,24,eredivisie,18,34,0,2,1,1,19,3,1,59,12,LWLWWLWLLDDWWDWLWLWWLWL,10,2,0,36,7,3,15,7,1,43,15,LWLDLLLDDWLDDWDWDWWLLWW,7,4,0,23,7,WWWWDDWWWWWW,LLLLDLDDDLL
-Ajax,Heracles,4-1,/match/ajax/heracles/2017,2017,24,eredivisie,18,34,0,4,1,2,17,4,2,47,14,LDLLWLWWLDWDWLWWDLLWLWL,8,2,1,26,8,9,7,7,9,32,35,DWLDWLDDDWDLWWWWWLWLLDW,2,4,5,11,19,DLWWWWWWDWW,DDWDDWLWWWL
-Heerenveen,Go Ahead Eagles,2-2,/match/heerenveen/go-ahead-eagles/2017,2017,25,eredivisie,18,34,1,2,2,5,10,6,8,41,28,DDWWWLLDLWDWDLLWWWWDWLWW,6,4,2,19,10,17,5,4,15,22,40,WDWLWWDWWLWWWLLWDLDLLWWL,1,3,8,8,21,DWWDWDLWWDLW,WWWDWWWWDDLW
-Twente 1965,Willem II,2-1,/match/fc-twente-1965/willem-ii/2017,2017,25,eredivisie,18,34,0,2,1,6,9,8,7,33,31,LWLWWWWDDLDDDWDWLWWLLDWD,6,3,3,17,12,10,7,8,9,21,27,LWLDWDDLDLWWDLDDWLWWLLDL,4,3,4,10,10,LWWWDDDWLWLW,WLWDDWLDWLL
-PSV,Roda JC,4-0,/match/psv/roda-jc/2017,2017,25,eredivisie,18,34,0,4,0,3,15,7,2,44,17,LWLDLLLDDWLDDWDWDWWLLWWW,8,3,1,20,8,15,3,11,10,15,32,DDLDWLWLLDDDDDDWDLWWLDWW,1,6,5,7,20,WDLDWDWWWWWW,DDWWLDDDWWDW
-PEC Zwolle,Vitesse,3-1,/match/fc-zwolle/vitesse/2017,2017,25,eredivisie,18,34,0,3,1,13,6,6,12,24,46,DLLWDLWWDLWDWLWDWLLLLWWD,3,3,6,10,21,8,10,6,8,35,29,LLLDWWWWDDLLDDWLWWDWLLLL,5,4,3,18,13,LLDLWWDLDLLW,LLWWDDDLWDLL
-AZ Alkmaar,Excelsior,1-1,/match/az/excelsior/2017,2017,25,eredivisie,18,34,1,1,1,7,9,10,5,40,34,DWLWWLDDDWLDDWDLLLDWLLDD,3,6,2,21,19,16,4,7,13,26,47,LWLWWDLWLLWWWDDWDWDWDDWL,1,3,8,9,27,DWWDDDWLDLD,LWDWWWDWWWDW
-Sparta Rotterdam,Feyenoord,1-0,/match/sparta-rotterdam/feyenoord/2017,2017,25,eredivisie,18,34,0,1,0,14,5,7,12,31,42,LLWWDWWDDWDWWDWLWLDWLWDL,3,4,4,17,17,1,20,3,1,61,13,LWLWWLWLLDDWWDWLWLWWLWLW,9,1,1,23,5,LWWDDWDLLLD,LLLLLWDLLLL
-Groningen,Ajax,1-1,/match/fc-groningen/ajax/2017,2017,25,eredivisie,18,34,1,1,1,11,6,9,9,33,35,LWLDDLDWLWWDWLWWDLDDDWDL,3,5,4,15,20,2,18,4,2,51,15,LDLLWLWWLDWDWLWWDLLWLWLW,9,2,1,21,6,LLDDLWWWDDDL,LLLLDDLWLLLL
-Utrecht,ADO Den Haag,1-1,/match/fc-utrecht/ado-den-haag/2017,2017,25,eredivisie,18,34,1,1,1,4,11,7,6,36,30,LDLDDLWWWLDWDDLWDLLLWWWL,6,2,4,20,16,18,5,3,16,19,43,WLLDWWLWLDLWWWLWWWLWLWLD,2,1,9,11,28,LLLWWDWDWLWW,LLWWWDWWWWWW
-NEC Nijmegen,Heracles,3-1,/match/nec/heracles/2017,2017,25,eredivisie,18,34,0,3,1,12,6,7,11,23,40,DDWWLWDLLDDDWWWWDLWWLWWL,4,4,4,15,15,9,7,7,10,33,39,DWLDWLDDDWDLWWWWWLWLLDWW,2,4,6,12,23,DWLDLDDWWWLL,DDWDDWLWWWLW
-Vitesse,Sparta Rotterdam,5-0,/match/vitesse/sparta-rotterdam/2017,2017,26,eredivisie,18,34,0,5,0,8,10,6,9,36,32,LLLDWWWWDDLLDDWLWWDWLLLLW,5,2,5,17,16,14,6,7,12,32,42,LLWWDWWDDWDWWDWLWLDWLWDLW,2,3,8,14,25,LDWWLLDWWWLL,LWDWWDWWWDWWL
-ADO Den Haag,NEC Nijmegen,1-0,/match/ado-den-haag/nec/2017,2017,26,eredivisie,18,34,0,1,0,18,5,4,16,20,44,WLLDWWLWLDLWWWLWWWLWLWLDD,3,2,7,8,15,9,7,7,11,26,41,DDWWLWDLLDDDWWWWDLWWLWWLW,2,3,7,8,25,WDLLLWLWLLLD,DWWLDWWDLWWW
-Go Ahead Eagles,PSV,1-3,/match/go-ahead-eagles/psv/2017,2017,26,eredivisie,18,34,2,1,3,17,5,5,15,24,42,WDWLWWDWWLWWWLLWDLDLLWWLD,4,1,7,14,19,3,16,7,2,48,17,LWLDLLLDDWLDDWDWDWWLLWWWW,7,4,1,24,9,DLWWLWLLLLWL,LLLLDLDDDLLW
-Heracles,Utrecht,2-1,/match/heracles/fc-utrecht/2017,2017,26,eredivisie,18,34,0,2,1,10,7,7,11,34,42,DWLDWLDDDWDLWWWWWLWLLDWWW,5,3,4,21,16,4,11,8,6,37,31,LDLDDLWWWLDWDDLWDLLLWWWLD,5,5,2,16,14,WLLDDWWWLLDW,DDDWLDLDLLWL
-Excelsior,Heerenveen,4-1,/match/excelsior/heerenveen/2017,2017,26,eredivisie,18,34,0,4,1,16,4,8,13,27,48,LWLWWDLWLLWWWDDWDWDWDDWLD,3,4,5,17,20,6,10,7,8,43,30,DDWWWLLDLWDWDLLWWWWDWLWWD,4,2,6,22,18,WLWLLLWDDDDL,DWLLLDWLWWWW
-Willem II,PEC Zwolle,2-0,/match/willem-ii/fc-zwolle/2017,2017,26,eredivisie,18,34,0,2,0,12,7,8,10,22,29,LWLDWDDLDLWWDLDDWLWWLLDLW,3,5,5,11,17,13,7,6,12,27,47,DLLWDLWWDLWDWLWDWLLLLWWDW,3,3,6,14,25,LDDLLWDDWLWLD,DWWDLWWWLLWD
-Feyenoord,AZ Alkmaar,5-2,/match/feyenoord/az/2017,2017,26,eredivisie,18,34,0,5,2,1,20,3,2,61,14,LWLWWLWLLDDWWDWLWLWWLWLWW,11,2,0,38,8,7,9,11,5,41,35,DWLWWLDDDWLDDWDLLLDWLLDDD,6,4,3,19,15,WWWWDDWWWWWWW,WLLDWLDDLLWLD
-Roda JC,Groningen,3-1,/match/roda-jc/fc-groningen/2017,2017,26,eredivisie,18,34,0,3,1,15,3,11,11,15,36,DDLDWLWLLDDDDDDWDLWWLDWWW,2,5,5,8,12,11,6,10,9,34,36,LWLDDLDWLWWDWLWWDLDDDWDLD,3,4,5,18,15,DLLLDDDDLWLW,WDLWWDLWLDWD
-Ajax,Twente 1965,3-0,/match/ajax/fc-twente-1965/2017,2017,26,eredivisie,18,34,0,3,0,2,18,5,2,52,16,LDLLWLWWLDWDWLWWDLLWLWLWD,9,2,1,30,9,5,10,8,7,35,32,LWLWWWWDDLDDDWDWLWWLLDWDW,3,5,4,16,19,DLWWWWWWDWWW,WLWDLDWDWLDD
-Roda JC,Twente 1965,0-3,/match/roda-jc/fc-twente-1965/2017,2017,27,eredivisie,18,34,2,0,3,15,4,11,11,18,37,DDLDWLWLLDDDDDDWDLWWLDWWWW,3,5,5,11,13,5,10,8,8,35,35,LWLWWWWDDLDDDWDWLWWLLDWDWW,3,5,5,16,22,DLLLDDDDLWLWW,WLWDLDWDWLDDW
-Groningen,Willem II,1-1,/match/fc-groningen/willem-ii/2017,2017,27,eredivisie,18,34,1,1,1,12,6,10,10,35,39,LWLDDLDWLWWDWLWWDLDDDWDLDW,3,6,4,16,21,10,8,8,10,24,29,LWLDWDDLDLWWDLDDWLWWLLDLWW,4,3,5,11,12,LLDDLWWWDDDLD,WLWDDWLDWLLW
-NEC Nijmegen,Utrecht,0-3,/match/nec/fc-utrecht/2017,2017,27,eredivisie,18,34,2,0,3,11,7,7,12,26,42,DDWWLWDLLDDDWWWWDLWWLWWLWW,5,4,4,18,16,4,11,8,7,38,33,LDLDDLWWWLDWDDLWDLLLWWWLDW,5,5,3,17,16,DWLDLDDWWWLLW,DDDWLDLDLLWLW
-PSV,Vitesse,1-0,/match/psv/vitesse/2017,2017,27,eredivisie,18,34,0,1,0,3,17,7,2,51,18,LWLDLLLDDWLDDWDWDWWLLWWWWL,9,3,1,24,8,8,11,6,9,41,32,LLLDWWWWDDLLDDWLWWDWLLLLWW,5,4,4,19,16,WDLDWDWWWWWWW,LLWWDDDLWDLLW
-Sparta Rotterdam,Heracles,3-1,/match/sparta-rotterdam/heracles/2017,2017,27,eredivisie,18,34,0,3,1,14,6,7,13,32,47,LLWWDWWDDWDWWDWLWLDWLWDLWW,4,4,4,18,17,9,8,7,11,36,43,DWLDWLDDDWDLWWWWWLWLLDWWWW,2,4,7,13,26,LWWDDWDLLLDW,DDWDDWLWWWLWW
-Heerenveen,Feyenoord,1-2,/match/heerenveen/feyenoord/2017,2017,27,eredivisie,18,34,2,1,2,6,10,7,9,44,34,DDWWWLLDLWDWDLLWWWWDWLWWDW,6,5,2,21,12,1,21,3,2,66,16,LWLWWLWLLDDWWDWLWLWWLWLWWW,9,1,2,23,6,DWWDWDLWWDLWD,LLLLLWDLLLLW
-Excelsior,Ajax,1-1,/match/excelsior/ajax/2017,2017,27,eredivisie,18,34,1,1,1,16,5,8,13,31,49,LWLWWDLWLLWWWDDWDWDWDDWLDW,4,4,5,21,21,2,19,5,2,55,16,LDLLWLWWLDWDWLWWDLLWLWLWDW,9,3,1,22,7,WLWLLLWDDDDLW,LLLLDDLWLLLLD
-Go Ahead Eagles,PEC Zwolle,1-3,/match/go-ahead-eagles/fc-zwolle/2017,2017,27,eredivisie,18,34,2,1,3,18,5,5,16,25,45,WDWLWWDWWLWWWLLWDLDLLWWLDL,4,1,8,15,22,13,7,6,13,27,49,DLLWDLWWDLWDWLWDWLLLLWWDWW,3,3,7,14,27,DLWWLWLLLLWLL,DWWDLWWWLLWDW
-AZ Alkmaar,ADO Den Haag,4-0,/match/az/ado-den-haag/2017,2017,27,eredivisie,18,34,0,4,0,7,9,11,6,43,40,DWLWWLDDDWLDDWDLLLDWLLDDDW,3,7,2,22,20,17,6,4,16,21,44,WLLDWWLWLDLWWWLWWWLWLWLDDW,2,2,9,12,29,DWWDDDWLDLDD,LLWWWDWWWWWWD
-AZ Alkmaar,Groningen,0-0,/match/az/fc-groningen/2017,2017,28,eredivisie,18,34,1,0,0,6,10,11,6,47,40,DWLWWLDDDWLDDWDLLLDWLLDDDWW,4,7,2,26,20,11,6,11,10,36,40,LWLDDLDWLWWDWLWWDLDDDWDLDWD,3,4,6,19,18,DWWDDDWLDLDDW,WDLWWDLWLDWDW
-PEC Zwolle,Excelsior,1-1,/match/fc-zwolle/excelsior/2017,2017,28,eredivisie,18,34,1,1,1,14,8,6,13,30,50,DLLWDLWWDLWDWLWDWLLLLWWDWWL,4,3,6,13,22,15,5,9,13,32,50,LWLWWDLWLLWWWDDWDWDWDDWLDWD,1,4,8,10,28,LLDLWWDLDLLWW,LWDWWWDWWWDWD
-Sparta Rotterdam,PSV,0-2,/match/sparta-rotterdam/psv/2017,2017,28,eredivisie,18,34,2,0,2,13,7,7,13,35,48,LLWWDWWDDWDWWDWLWLDWLWDLWWW,5,4,4,21,18,3,18,7,2,52,18,LWLDLLLDDWLDDWDWDWWLLWWWWLW,8,4,1,27,10,LWWDDWDLLLDWW,LLLLDLDDDLLWL
-Heracles,Heerenveen,4-1,/match/heracles/heerenveen/2017,2017,28,eredivisie,18,34,0,4,1,10,8,7,12,37,46,DWLDWLDDDWDLWWWWWLWLLDWWWWW,6,3,4,23,17,7,10,7,10,45,36,DDWWWLLDLWDWDLLWWWWDWLWWDWL,4,2,7,23,22,WLLDDWWWLLDWW,DWLLLDWLWWWWW
-Utrecht,Willem II,2-0,/match/fc-utrecht/willem-ii/2017,2017,28,eredivisie,18,34,0,2,0,4,12,8,7,41,33,LDLDDLWWWLDWDDLWDLLLWWWLDWL,6,3,4,21,17,9,8,9,10,25,30,LWLDWDDLDLWWDLDDWLWWLLDLWWD,4,4,5,12,13,LLLWWDWDWLWWD,WLWDDWLDWLLWD
-Vitesse,NEC Nijmegen,2-1,/match/vitesse/nec/2017,2017,28,eredivisie,18,34,0,2,1,8,11,6,10,41,33,LLLDWWWWDDLLDDWLWWDWLLLLWWW,6,2,5,22,16,12,7,7,13,26,45,DDWWLWDLLDDDWWWWDLWWLWWLWWL,2,3,8,8,26,LDWWLLDWWWLLW,DWWLDWWDLWWWW
-Ajax,Feyenoord,2-1,/match/ajax/feyenoord/2017,2017,28,eredivisie,18,34,0,2,1,2,19,6,2,56,17,LDLLWLWWLDWDWLWWDLLWLWLWDWD,10,2,1,33,9,1,22,3,2,68,17,LWLWWLWLLDDWWDWLWLWWLWLWWWL,10,1,2,25,7,DLWWWWWWDWWWW,LLLLLWDLLLLWL
-ADO Den Haag,Roda JC,4-1,/match/ado-den-haag/roda-jc/2017,2017,28,eredivisie,18,34,0,4,1,17,6,4,17,21,48,WLLDWWLWLDLWWWLWWWLWLWLDDWW,4,2,7,9,15,16,4,11,12,18,40,DDLDWLWLLDDDDDDWDLWWLDWWWWL,1,6,6,7,24,WDLLLWLWLLLDW,DDWWLDDDWWDWW
-Twente 1965,Go Ahead Eagles,1-2,/match/fc-twente-1965/go-ahead-eagles/2017,2017,28,eredivisie,18,34,2,1,2,5,11,8,8,38,35,LWLWWWWDDLDDDWDWLWWLLDWDWWL,7,3,3,19,13,18,5,5,17,26,48,WDWLWWDWWLWWWLLWDLDLLWWLDLL,1,4,8,10,23,LWWWDDDWLWLWW,WWWDWWWWDDLWD
-Excelsior,Utrecht,1-3,/match/excelsior/fc-utrecht/2017,2017,29,eredivisie,18,34,2,1,3,15,5,10,13,33,51,LWLWWDLWLLWWWDDWDWDWDDWLDWDD,4,5,5,22,22,4,13,8,7,43,33,LDLDDLWWWLDWDDLWDLLLWWWLDWLW,6,5,3,20,16,WLWLLLWDDDDLWD,DDDWLDLDLLWLWL
-Heerenveen,Sparta Rotterdam,3-0,/match/heerenveen/sparta-rotterdam/2017,2017,29,eredivisie,18,34,0,3,0,8,10,7,11,46,40,DDWWWLLDLWDWDLLWWWWDWLWWDWLW,6,5,3,22,14,13,7,7,14,35,50,LLWWDWWDDWDWWDWLWLDWLWDLWWWL,2,3,9,14,30,DWWDWDLWWDLWDL,LWDWWDWWWDWWLW
-Heracles,Vitesse,0-1,/match/heracles/vitesse/2017,2017,29,eredivisie,18,34,2,0,1,9,9,7,12,41,47,DWLDWLDDDWDLWWWWWLWLLDWWWWWW,7,3,4,27,18,7,12,6,10,43,34,LLLDWWWWDDLLDDWLWWDWLLLLWWWW,5,4,5,19,17,WLLDDWWWLLDWWW,LLWWDDDLWDLLWW
-Groningen,NEC Nijmegen,2-0,/match/fc-groningen/nec/2017,2017,29,eredivisie,18,34,0,2,0,11,6,12,10,36,40,LWLDDLDWLWWDWLWWDLDDDWDLDWDD,3,7,4,17,22,12,7,7,14,27,47,DDWWLWDLLDDDWWWWDLWWLWWLWWLW,2,3,9,9,28,LLDDLWWWDDDLDD,DWWLDWWDLWWWWW
-Ajax,AZ Alkmaar,4-1,/match/ajax/az/2017,2017,29,eredivisie,18,34,0,4,1,2,20,6,2,58,18,LDLLWLWWLDWDWLWWDLLWLWLWDWDW,11,2,1,35,10,5,10,12,6,47,40,DWLWWLDDDWLDDWDLLLDWLLDDDWWD,6,4,4,21,20,DLWWWWWWDWWWWW,WLLDWLDDLLWLDW
-Feyenoord,Go Ahead Eagles,8-0,/match/feyenoord/go-ahead-eagles/2017,2017,29,eredivisie,18,34,0,8,0,1,22,3,3,69,19,LWLWWLWLLDDWWDWLWLWWLWLWWWLW,12,2,0,43,10,18,6,5,17,28,49,WDWLWWDWWLWWWLLWDLDLLWWLDLLL,2,4,8,12,24,WWWWDDWWWWWWWW,WWWDWWWWDDLWDL
-Willem II,ADO Den Haag,1-2,/match/willem-ii/ado-den-haag/2017,2017,29,eredivisie,18,34,2,1,2,10,8,9,11,25,32,LWLDWDDLDLWWDLDDWLWWLLDLWWDW,4,5,5,13,17,17,7,4,17,25,49,WLLDWWLWLDLWWWLWWWLWLWLDDWWW,2,2,10,12,33,LDDLLWDDWLWLDW,LLWWWDWWWWWWDW
-Roda JC,PEC Zwolle,2-1,/match/roda-jc/fc-zwolle/2017,2017,29,eredivisie,18,34,0,2,1,16,4,11,13,19,44,DDLDWLWLLDDDDDDWDLWWLDWWWWLW,3,5,6,11,16,14,8,7,13,31,51,DLLWDLWWDLWDWLWDWLLLLWWDWWLD,4,3,7,17,28,DLLLDDDDLWLWWL,DWWDLWWWLLWDWL
-Twente 1965,PSV,2-2,/match/fc-twente-1965/psv/2017,2017,29,eredivisie,18,34,1,2,2,6,11,8,9,39,37,LWLWWWWDDLDDDWDWLWWLLDWDWWLL,7,3,4,20,15,3,19,7,2,54,18,LWLDLLLDDWLDDWDWDWWLLWWWWLWL,9,4,1,29,10,LWWWDDDWLWLWWL,LLLLDLDDDLLWLL
-Sparta Rotterdam,Excelsior,2-3,/match/sparta-rotterdam/excelsior/2017,2017,30,eredivisie,18,34,2,2,3,13,7,7,15,35,53,LLWWDWWDDWDWWDWLWLDWLWDLWWWLW,5,4,5,21,20,16,5,10,14,34,54,LWLWWDLWLLWWWDDWDWDWDDWLDWDDL,1,5,8,11,29,LWWDDWDLLLDWWL,LWDWWWDWWWDWDD
-Vitesse,Heerenveen,4-2,/match/vitesse/heerenveen/2017,2017,30,eredivisie,18,34,0,4,2,7,13,6,10,44,34,LLLDWWWWDDLLDDWLWWDWLLLLWWWWL,7,2,5,24,17,8,11,7,11,49,40,DDWWWLLDLWDWDLLWWWWDWLWWDWLWW,4,2,8,24,26,LDWWLLDWWWLLWW,DWLLLDWLWWWWWW
-ADO Den Haag,Groningen,4-3,/match/ado-den-haag/fc-groningen/2017,2017,30,eredivisie,18,34,0,4,3,17,8,4,17,27,50,WLLDWWLWLDLWWWLWWWLWLWLDDWWWL,5,2,7,13,16,10,7,12,10,38,40,LWLDDLDWLWWDWLWWDLDDDWDLDWDDW,3,5,6,19,18,WDLLLWLWLLLDWW,WDLWWDLWLDWDWD
-NEC Nijmegen,Ajax,1-5,/match/nec/ajax/2017,2017,30,eredivisie,18,34,2,1,5,12,7,7,15,27,49,DDWWLWDLLDDDWWWWDLWWLWWLWWLWW,5,4,5,18,19,2,21,6,2,62,19,LDLLWLWWLDWDWLWWDLLWLWLWDWDWW,9,4,1,23,8,DWLDLDDWWWLLWL,LLLLDDLWLLLLDD
-Go Ahead Eagles,Heracles,1-4,/match/go-ahead-eagles/heracles/2017,2017,30,eredivisie,18,34,2,1,4,18,6,5,18,28,57,WDWLWWDWWLWWWLLWDLDLLWWLDLLLW,4,1,9,16,25,9,9,7,13,41,48,DWLDWLDDDWDLWWWWWLWLLDWWWWWWL,2,4,8,14,29,DLWWLWLLLLWLLL,DDWDDWLWWWLWWW
-AZ Alkmaar,Roda JC,1-1,/match/az/roda-jc/2017,2017,30,eredivisie,18,34,1,1,1,6,10,12,7,48,44,DWLWWLDDDWLDDWDLLLDWLLDDDWWDW,4,8,2,26,20,15,5,11,13,21,45,DDLDWLWLLDDDDDDWDLWWLDWWWWLWW,1,6,7,8,28,DWWDDDWLDLDDWD,DDWWLDDDWWDWWW
-PEC Zwolle,Feyenoord,2-2,/match/fc-zwolle/feyenoord/2017,2017,30,eredivisie,18,34,1,2,2,14,8,7,14,32,53,DLLWDLWWDLWDWLWDWLLLLWWDWWLDW,4,4,6,14,23,1,23,3,3,77,19,LWLWWLWLLDDWWDWLWLWWLWLWWWLWW,10,1,3,26,9,LLDLWWDLDLLWWD,LLLLLWDLLLLWLW
-Utrecht,Twente 1965,3-0,/match/fc-utrecht/fc-twente-1965/2017,2017,30,eredivisie,18,34,0,3,0,4,14,8,7,46,34,LDLDDLWWWLDWDDLWDLLLWWWLDWLWL,7,3,4,23,17,5,11,9,9,41,39,LWLWWWWDDLDDDWDWLWWLLDWDWWLLD,4,5,5,19,22,LLLWWDWDWLWWDW,WLWDLDWDWLDDWL
-PSV,Willem II,5-0,/match/psv/willem-ii/2017,2017,30,eredivisie,18,34,0,5,0,3,19,8,2,56,20,LWLDLLLDDWLDDWDWDWWLLWWWWLWLD,10,3,1,25,8,11,8,9,12,26,34,LWLDWDDLDLWWDLDDWLWWLLDLWWDWL,4,4,6,12,15,WDLDWDWWWWWWWW,WLWDDWLDWLLWDW
-Heracles,AZ Alkmaar,1-2,/match/heracles/az/2017,2017,31,eredivisie,18,34,2,1,2,9,10,7,13,45,49,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLL,7,3,5,27,19,6,10,13,7,49,45,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWD,6,4,5,22,24,WLLDDWWWLLDWWWL,WLLDWLDDLLWLDWW
-Roda JC,Sparta Rotterdam,3-1,/match/roda-jc/sparta-rotterdam/2017,2017,31,eredivisie,18,34,0,3,1,16,5,12,13,22,46,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWD,4,5,6,13,17,15,7,7,16,37,56,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWL,2,3,10,14,33,DLLLDDDDLWLWWLW,LWDWWDWWWDWWLWW
-ADO Den Haag,PSV,1-1,/match/ado-den-haag/psv/2017,2017,31,eredivisie,18,34,1,1,1,13,9,4,17,31,53,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLW,6,2,7,17,19,3,20,8,2,61,20,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDW,9,5,1,31,12,WDLLLWLWLLLDWWW,LLLLDLDDDLLWLLD
-Excelsior,Vitesse,1-0,/match/excelsior/vitesse/2017,2017,31,eredivisie,18,34,0,1,0,17,6,10,14,37,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLL,4,5,6,23,25,5,14,6,10,48,36,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLW,6,4,5,20,17,WLWLLLWDDDDLWDL,LLWWDDDLWDLLWWL
-Twente 1965,NEC Nijmegen,3-0,/match/fc-twente-1965/nec/2017,2017,31,eredivisie,18,34,0,3,0,7,11,9,10,41,42,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDW,7,4,4,22,17,14,7,7,16,28,54,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWL,2,3,10,9,30,LWWWDDDWLWLWWLD,DWWLDWWDLWWWWWW
-Willem II,Go Ahead Eagles,2-0,/match/willem-ii/go-ahead-eagles/2017,2017,31,eredivisie,18,34,0,2,0,11,8,9,13,26,39,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLW,4,5,6,14,19,18,6,5,19,29,61,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWL,2,4,9,12,32,LDDLLWDDWLWLDWL,WWWDWWWWDDLWDLW
-Feyenoord,Utrecht,2-0,/match/feyenoord/fc-utrecht/2017,2017,31,eredivisie,18,34,0,2,0,1,23,4,3,79,21,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWD,13,2,0,51,10,4,15,8,7,49,34,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLW,7,5,3,23,17,WWWWDDWWWWWWWWW,DDDWLDLDLLWLWLL
-Groningen,PEC Zwolle,5-1,/match/fc-groningen/fc-zwolle/2017,2017,31,eredivisie,18,34,0,5,1,10,7,12,11,41,44,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWW,4,7,4,19,22,12,8,8,14,34,55,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWD,4,3,8,18,30,LLDDLWWWDDDLDDW,DWWDLWWWLLWDWLW
-Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2017,2017,31,eredivisie,18,34,0,5,1,2,22,6,2,67,20,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWL,12,2,1,39,11,8,11,7,12,51,44,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWW,4,2,9,26,30,DLWWWWWWDWWWWWW,DWLLLDWLWWWWWWW
-Heerenveen,Willem II,1-0,/match/heerenveen/willem-ii/2017,2017,32,eredivisie,18,34,0,1,0,8,11,7,13,52,49,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWWW,7,5,3,25,14,11,9,9,13,28,39,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLWW,4,4,7,12,20,DWWDWDLWWDLWDLW,WLWDDWLDWLLWDWW
-NEC Nijmegen,Excelsior,0-1,/match/nec/excelsior/2017,2017,32,eredivisie,18,34,2,0,1,16,7,7,17,28,57,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWLW,5,4,6,19,24,13,7,10,14,38,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLLW,2,5,8,14,31,DWLDLDDWWWLLWLL,LWDWWWDWWWDWDDL
-PEC Zwolle,Heracles,1-2,/match/fc-zwolle/heracles/2017,2017,32,eredivisie,18,34,2,1,2,15,8,8,15,35,60,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWDW,4,5,6,16,25,10,10,7,14,46,51,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLLL,3,4,8,18,30,LLDLWWDLDLLWWDD,DDWDDWLWWWLWWWL
-AZ Alkmaar,Twente 1965,2-1,/match/az/fc-twente-1965/2017,2017,32,eredivisie,18,34,0,2,1,7,11,13,7,51,46,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWDL,4,9,2,27,21,5,12,9,10,44,42,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDWW,4,5,6,19,25,DWWDDDWLDLDDWDD,WLWDLDWDWLDDWLW
-Go Ahead Eagles,Groningen,2-3,/match/go-ahead-eagles/fc-groningen/2017,2017,32,eredivisie,18,34,2,2,3,18,6,5,20,29,63,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWLW,4,1,10,17,29,9,8,12,11,46,45,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWWW,3,5,7,22,22,DLWWLWLLLLWLLLL,WDLWWDLWLDWDWDW
-Utrecht,Roda JC,1-0,/match/fc-utrecht/roda-jc/2017,2017,32,eredivisie,18,34,0,1,0,4,15,8,8,49,36,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLWW,8,3,4,26,17,12,6,12,13,25,47,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWDW,1,7,7,9,29,LLLWWDWDWLWWDWW,DDWWLDDDWWDWWWD
-Sparta Rotterdam,ADO Den Haag,0-1,/match/sparta-rotterdam/ado-den-haag/2017,2017,32,eredivisie,18,34,2,0,1,17,7,7,17,38,59,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWLW,5,4,6,23,23,14,9,5,17,32,54,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLWD,3,2,10,14,34,LWWDDWDLLLDWWLL,LLWWWDWWWWWWDWL
-Vitesse,Feyenoord,0-2,/match/vitesse/feyenoord/2017,2017,32,eredivisie,18,34,2,0,2,6,14,6,11,48,37,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLWW,8,2,5,28,19,1,24,4,3,81,21,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWDW,10,2,3,28,11,LDWWLLDWWWLLWWW,LLLLLWDLLLLWLWD
-PSV,Ajax,1-0,/match/psv/ajax/2017,2017,32,eredivisie,18,34,0,1,0,3,20,9,2,62,21,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDWD,11,3,1,30,8,2,23,6,2,72,21,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWLW,10,4,1,28,9,WDLDWDWWWWWWWWW,LLLLDDLWLLLLDDL
-Ajax,Go Ahead Eagles,4-0,/match/ajax/go-ahead-eagles/2017,2017,33,eredivisie,18,34,0,4,0,2,23,6,3,72,22,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWLWW,13,2,1,44,12,18,6,5,21,31,66,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWLWL,2,4,10,12,34,DLWWWWWWDWWWWWWW,WWWDWWWWDDLWDLWW
-Excelsior,Feyenoord,3-0,/match/excelsior/feyenoord/2017,2017,33,eredivisie,18,34,0,3,0,12,8,10,14,39,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLLWL,5,5,6,24,25,1,25,4,3,83,21,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWDWL,11,2,3,30,11,WLWLLLWDDDDLWDLW,LLLLLWDLLLLWLWDL
-Groningen,PSV,1-1,/match/fc-groningen/psv/2017,2017,33,eredivisie,18,34,1,1,1,9,9,12,11,49,47,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWWWL,5,7,4,24,23,3,21,9,2,63,21,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDWDW,9,6,1,32,13,LLDDLWWWDDDLDDWW,LLLLDLDDDLLWLLDD
-Heracles,ADO Den Haag,4-0,/match/heracles/ado-den-haag/2017,2017,33,eredivisie,18,34,0,4,0,10,11,7,14,48,52,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLLLL,7,3,6,28,21,13,10,5,17,33,54,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLWDL,4,2,10,15,34,WLLDDWWWLLDWWWLL,LLWWWDWWWWWWDWLL
-NEC Nijmegen,AZ Alkmaar,2-1,/match/nec/az/2017,2017,33,eredivisie,18,34,0,2,1,16,7,7,18,28,58,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWLWL,5,4,7,19,25,5,12,13,7,53,47,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWDLW,7,4,5,24,25,DWLDLDDWWWLLWLLL,WLLDWLDDLLWLDWWL
-Roda JC,Willem II,1-0,/match/roda-jc/willem-ii/2017,2017,33,eredivisie,18,34,0,1,0,14,6,12,14,25,48,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWDWW,5,5,6,16,18,11,9,9,14,28,40,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLWWW,4,4,8,12,21,DLLLDDDDLWLWWLWW,WLWDDWLDWLLWDWWW
-Utrecht,Vitesse,1-0,/match/fc-utrecht/vitesse/2017,2017,33,eredivisie,18,34,0,1,0,4,16,8,8,50,36,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLWWW,9,3,4,27,17,7,14,6,12,48,39,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLWWL,6,4,6,20,18,LLLWWDWDWLWWDWWW,LLWWDDDLWDLLWWLW
-PEC Zwolle,Heerenveen,2-1,/match/fc-zwolle/heerenveen/2017,2017,33,eredivisie,18,34,0,2,1,15,8,8,16,36,62,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWDWL,4,5,7,17,27,8,12,7,13,53,49,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWWWW,4,2,10,27,35,LLDLWWDLDLLWWDDL,DWLLLDWLWWWWWWWW
-Sparta Rotterdam,Twente 1965,1-0,/match/sparta-rotterdam/fc-twente-1965/2017,2017,33,eredivisie,18,34,0,1,0,17,7,7,18,38,60,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWLWL,5,4,7,23,24,6,12,9,11,45,44,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDWWW,4,5,7,20,27,LWWDDWDLLLDWWLLL,WLWDLDWDWLDDWLWW
-AZ Alkmaar,Utrecht,2-3,/match/az/fc-utrecht/2017,2017,34,eredivisie,18,34,2,2,3,5,12,13,8,54,49,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWDLWW,5,9,2,29,22,4,17,8,8,51,36,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLWWWW,7,5,4,23,19,DWWDDDWLDLDDWDDW,DDDWLDLDLLWLWLLW
-ADO Den Haag,Excelsior,4-1,/match/ado-den-haag/excelsior/2017,2017,34,eredivisie,18,34,0,4,1,15,10,5,18,33,58,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLWDLW,6,3,7,18,20,11,9,10,14,42,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLLWLW,3,5,8,15,31,WDLLLWLWLLLDWWWD,LWDWWWDWWWDWDDLL
-Feyenoord,Heracles,3-1,/match/feyenoord/heracles/2017,2017,34,eredivisie,18,34,0,3,1,1,25,4,4,83,24,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWDWLW,14,2,0,53,10,9,12,7,14,52,52,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLLLLW,4,4,8,20,31,WWWWDDWWWWWWWWWW,DDWDDWLWWWLWWWLL
-Go Ahead Eagles,Sparta Rotterdam,1-3,/match/go-ahead-eagles/sparta-rotterdam/2017,2017,34,eredivisie,18,34,2,1,3,18,6,5,22,31,70,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWLWLW,4,1,11,19,32,17,8,7,18,39,60,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWLWLW,2,3,11,15,36,DLWWLWLLLLWLLLLL,LWDWWDWWWDWWLWWW
-Heerenveen,NEC Nijmegen,0-2,/match/heerenveen/nec/2017,2017,34,eredivisie,18,34,2,0,2,8,12,7,14,54,51,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWWWWW,8,5,3,26,14,16,8,7,18,30,59,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWLWLW,2,3,11,9,33,DWWDWDLWWDLWDLWW,DWWLDWWDLWWWWWWW
-PSV,PEC Zwolle,4-1,/match/psv/fc-zwolle/2017,2017,34,eredivisie,18,34,0,4,1,3,21,10,2,64,22,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDWDWD,12,3,1,31,8,14,9,8,16,38,63,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWDWLW,4,3,9,19,35,WDLDWDWWWWWWWWWW,DWWDLWWWLLWDWLWW
-Vitesse,Roda JC,3-0,/match/vitesse/roda-jc/2017,2017,34,eredivisie,18,34,0,3,0,7,14,6,13,48,40,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLWWLW,8,2,6,28,21,12,7,12,14,26,48,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWDWWW,1,7,8,9,30,LDWWLLDWWWLLWWWL,DDWWLDDDWWDWWWDW
-Willem II,Ajax,1-3,/match/willem-ii/ajax/2017,2017,34,eredivisie,18,34,2,1,3,13,9,9,15,28,41,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLWWWW,5,5,6,16,19,2,24,6,3,76,22,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWLWWW,10,4,2,28,10,LDDLLWDDWLWLDWLW,LLLLDDLWLLLLDDLW
-Twente 1965,Groningen,3-5,/match/fc-twente-1965/fc-groningen/2017,2017,34,eredivisie,18,34,2,3,5,6,12,9,12,45,45,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDWWWW,8,4,4,25,17,10,9,13,11,50,48,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWWWLD,4,5,7,25,24,LWWWDDDWLWLWWLDW,WDLWWDLWLDWDWDWL
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+NEC Nijmegen,PEC Zwolle,1-1,/match/nec/fc-zwolle/2017,2017,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+ADO Den Haag,Go Ahead Eagles,3-0,/match/ado-den-haag/go-ahead-eagles/2017,2017,1,eredivisie,18,34,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Utrecht,PSV,1-2,/match/fc-utrecht/psv/2017,2017,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Twente 1965,Excelsior,1-2,/match/fc-twente-1965/excelsior/2017,2017,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Willem II,Vitesse,1-4,/match/willem-ii/vitesse/2017,2017,1,eredivisie,18,34,2,1,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Groningen,Feyenoord,0-5,/match/fc-groningen/feyenoord/2017,2017,1,eredivisie,18,34,2,0,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+AZ Alkmaar,Heerenveen,2-2,/match/az/heerenveen/2017,2017,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sparta Rotterdam,Ajax,1-3,/match/sparta-rotterdam/ajax/2017,2017,1,eredivisie,18,34,2,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Roda JC,Heracles,1-1,/match/roda-jc/heracles/2017,2017,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Heerenveen,Utrecht,2-2,/match/heerenveen/fc-utrecht/2017,2017,2,eredivisie,18,34,1,2,2,10,1,0,1,0,2,2,D,0,0,0,0,0,14,0,0,0,1,1,2,L,0,0,0,0,0,,
+Excelsior,Groningen,2-0,/match/excelsior/fc-groningen/2017,2017,2,eredivisie,18,34,0,2,0,9,2,1,0,0,2,1,L,0,0,0,0,0,18,0,0,0,1,0,5,L,0,0,0,0,0,,
+Ajax,Roda JC,2-2,/match/ajax/roda-jc/2017,2017,2,eredivisie,18,34,1,2,2,4,2,1,0,0,3,1,L,0,0,0,0,0,5,2,0,1,0,1,1,D,0,0,0,0,0,,
+Vitesse,ADO Den Haag,1-2,/match/vitesse/ado-den-haag/2017,2017,2,eredivisie,18,34,2,1,2,6,2,1,0,0,4,1,L,0,0,0,0,0,1,4,1,0,0,3,0,W,0,0,0,0,0,,
+PEC Zwolle,Sparta Rotterdam,0-3,/match/fc-zwolle/sparta-rotterdam/2017,2017,2,eredivisie,18,34,2,0,3,11,1,0,1,0,1,1,D,0,0,0,0,0,16,0,0,0,1,1,3,L,0,0,0,0,0,,
+Heracles,Willem II,3-1,/match/heracles/willem-ii/2017,2017,2,eredivisie,18,34,0,3,1,12,1,0,1,0,1,1,D,0,0,0,0,0,13,0,0,0,1,1,4,L,0,0,0,0,0,,
+Go Ahead Eagles,NEC Nijmegen,2-2,/match/go-ahead-eagles/nec/2017,2017,2,eredivisie,18,34,1,2,2,15,0,0,0,1,0,3,W,0,0,0,0,0,7,2,0,1,0,1,1,D,0,0,0,0,0,,
+Feyenoord,Twente 1965,2-0,/match/feyenoord/fc-twente-1965/2017,2017,2,eredivisie,18,34,0,2,0,3,2,1,0,0,5,0,L,0,0,0,0,0,17,0,0,0,1,1,2,L,0,0,0,0,0,,
+PSV,AZ Alkmaar,1-0,/match/psv/az/2017,2017,2,eredivisie,18,34,0,1,0,2,2,1,0,0,2,1,L,0,0,0,0,0,8,2,0,1,0,2,2,D,0,0,0,0,0,,
+Excelsior,ADO Den Haag,1-2,/match/excelsior/ado-den-haag/2017,2017,3,eredivisie,18,34,2,1,2,2,6,2,0,0,4,1,LW,1,0,0,2,0,1,6,2,0,0,5,1,WL,1,0,0,2,1,W,L
+Roda JC,Vitesse,0-1,/match/roda-jc/vitesse/2017,2017,3,eredivisie,18,34,2,0,1,9,3,0,2,0,3,3,DD,0,1,0,1,1,11,2,1,0,1,5,3,LL,1,0,0,4,1,D,L
+Ajax,Willem II,1-2,/match/ajax/willem-ii/2017,2017,3,eredivisie,18,34,2,1,2,6,4,1,1,0,5,3,LD,0,1,0,2,2,16,0,0,0,2,2,7,LW,0,0,1,1,3,D,W
+PEC Zwolle,PSV,0-4,/match/fc-zwolle/psv/2017,2017,3,eredivisie,18,34,2,0,4,14,1,0,1,1,1,4,DL,0,0,1,0,3,4,6,2,0,0,3,1,LW,1,0,0,2,1,L,L
+NEC Nijmegen,Heerenveen,2-1,/match/nec/heerenveen/2017,2017,3,eredivisie,18,34,0,2,1,8,3,0,2,0,3,3,DD,0,1,0,1,1,7,3,0,2,0,4,4,DD,0,1,0,2,2,D,D
+Groningen,Twente 1965,3-4,/match/fc-groningen/fc-twente-1965/2017,2017,3,eredivisie,18,34,2,3,4,18,0,0,0,2,0,7,LW,0,0,1,0,5,17,0,0,0,2,1,4,LW,0,0,1,0,2,L,W
+Sparta Rotterdam,Go Ahead Eagles,1-0,/match/sparta-rotterdam/go-ahead-eagles/2017,2017,3,eredivisie,18,34,0,1,0,13,2,1,0,1,4,3,LL,0,0,1,1,3,12,2,0,1,1,2,5,WD,0,0,1,0,3,L,W
+Utrecht,AZ Alkmaar,1-2,/match/fc-utrecht/az/2017,2017,3,eredivisie,18,34,2,1,2,15,1,0,1,1,3,4,LD,0,0,1,1,2,10,2,0,1,1,2,3,DW,0,0,1,0,1,L,W
+Heracles,Feyenoord,0-1,/match/heracles/feyenoord/2017,2017,3,eredivisie,18,34,2,0,1,5,5,1,1,0,4,2,DW,1,0,0,3,1,3,6,2,0,0,7,0,LW,1,0,0,5,0,W,L
+Vitesse,Utrecht,1-1,/match/vitesse/fc-utrecht/2017,2017,4,eredivisie,18,34,1,1,1,8,4,2,0,1,6,3,LLL,0,0,1,1,2,17,1,0,1,2,4,6,LDL,0,1,0,2,2,L,D
+Willem II,Roda JC,0-0,/match/willem-ii/roda-jc/2017,2017,4,eredivisie,18,34,1,0,0,14,2,1,0,2,4,8,LWL,0,0,1,1,4,11,3,0,2,1,3,4,DDL,0,1,0,2,2,L,D
+Feyenoord,Excelsior,4-1,/match/feyenoord/excelsior/2017,2017,4,eredivisie,18,34,0,4,1,2,8,3,0,0,8,0,LWL,1,0,0,2,0,5,6,2,0,1,5,3,LWL,1,0,0,2,1,W,L
+Heerenveen,PEC Zwolle,1-0,/match/heerenveen/fc-zwolle/2017,2017,4,eredivisie,18,34,0,1,0,12,3,0,2,1,5,6,DDW,0,1,0,2,2,16,1,0,1,2,1,8,DLL,0,1,0,1,1,D,D
+Twente 1965,Sparta Rotterdam,3-1,/match/fc-twente-1965/sparta-rotterdam/2017,2017,4,eredivisie,18,34,0,3,1,15,2,1,0,2,5,7,LWL,0,0,1,1,2,6,6,2,0,1,5,3,LLW,1,0,0,3,0,L,L
+PSV,Groningen,0-0,/match/psv/fc-groningen/2017,2017,4,eredivisie,18,34,1,0,0,3,8,3,0,0,7,1,LWL,1,0,0,1,0,18,0,0,0,3,3,11,LWL,0,0,1,0,2,W,W
+ADO Den Haag,Heracles,1-1,/match/ado-den-haag/heracles/2017,2017,4,eredivisie,18,34,1,1,1,1,8,3,0,0,7,2,WLL,1,0,0,3,0,7,5,1,1,1,4,3,DWL,0,1,0,1,1,W,D
+Go Ahead Eagles,Ajax,0-3,/match/go-ahead-eagles/ajax/2017,2017,4,eredivisie,18,34,2,0,3,13,2,0,1,2,2,6,WDW,0,1,0,2,2,10,4,1,1,1,6,5,LDL,1,0,0,3,1,D,L
+AZ Alkmaar,NEC Nijmegen,2-0,/match/az/nec/2017,2017,4,eredivisie,18,34,0,2,0,9,4,1,1,1,4,4,DWL,0,1,0,2,2,4,7,1,2,0,5,4,DDW,0,1,0,2,2,D,D
+AZ Alkmaar,Willem II,2-0,/match/az/willem-ii/2017,2017,5,eredivisie,18,34,0,2,0,4,8,2,1,1,6,4,DWLW,1,1,0,4,2,14,4,1,1,2,4,8,LWLD,1,0,1,3,4,DW,WL
+PEC Zwolle,Utrecht,1-1,/match/fc-zwolle/fc-utrecht/2017,2017,5,eredivisie,18,34,1,1,1,17,1,0,1,3,1,9,DLLW,0,0,2,0,7,16,2,0,2,2,5,7,LDLD,0,2,0,3,3,LL,DD
+NEC Nijmegen,PSV,0-4,/match/nec/psv/2017,2017,5,eredivisie,18,34,2,0,4,5,7,1,2,1,5,6,DDWW,1,1,0,3,2,3,10,3,1,0,7,1,LWLD,2,0,0,6,1,DW,LL
+Excelsior,Heracles,3-1,/match/excelsior/heracles/2017,2017,5,eredivisie,18,34,0,3,1,12,6,2,0,2,6,7,LWLW,1,0,1,3,2,10,6,1,2,1,5,4,DWLD,0,2,0,2,2,WL,DD
+Heerenveen,Twente 1965,3-1,/match/heerenveen/fc-twente-1965/2017,2017,5,eredivisie,18,34,0,3,1,6,7,1,2,1,6,6,DDWW,1,1,0,3,2,7,6,2,0,2,8,8,LWLW,1,0,1,4,5,DW,WL
+Feyenoord,ADO Den Haag,3-1,/match/feyenoord/ado-den-haag/2017,2017,5,eredivisie,18,34,0,3,1,1,12,4,0,0,12,1,LWLW,2,0,0,6,1,2,10,3,1,0,8,3,WLLD,2,0,0,4,2,WW,LL
+Go Ahead Eagles,Roda JC,2-0,/match/go-ahead-eagles/roda-jc/2017,2017,5,eredivisie,18,34,0,2,0,15,2,0,1,3,2,9,WDWL,0,1,1,2,5,13,4,0,3,1,3,4,DDLD,0,2,0,2,2,DL,DD
+Groningen,Sparta Rotterdam,1-1,/match/fc-groningen/sparta-rotterdam/2017,2017,5,eredivisie,18,34,1,1,1,18,1,0,1,3,3,11,LWLD,0,0,2,3,9,11,6,2,0,2,6,6,LLWW,1,0,1,4,3,LL,LW
+Ajax,Vitesse,1-0,/match/ajax/vitesse/2017,2017,5,eredivisie,18,34,0,1,0,8,6,2,1,1,9,5,LDLL,0,1,1,3,4,9,6,2,1,1,7,4,LLLD,2,0,0,5,1,DL,LL
+Utrecht,Groningen,1-5,/match/fc-utrecht/fc-groningen/2017,2017,6,eredivisie,18,34,2,1,5,16,3,0,3,2,6,8,LDLDD,0,0,2,2,4,18,3,0,2,3,4,12,LWLDD,0,1,1,0,2,LL,WD
+Twente 1965,ADO Den Haag,4-1,/match/fc-twente-1965/ado-den-haag/2017,2017,6,eredivisie,18,34,0,4,1,13,6,2,0,3,9,11,LWLWW,1,0,1,4,3,7,10,3,1,1,9,6,WLLDW,2,0,1,5,5,LW,LLW
+Roda JC,Heerenveen,0-3,/match/roda-jc/heerenveen/2017,2017,6,eredivisie,18,34,2,0,3,14,4,0,3,2,3,6,DDLDW,0,1,1,1,2,4,11,2,2,1,9,7,DDWWW,0,1,1,3,4,DL,DW
+Vitesse,Go Ahead Eagles,2-0,/match/vitesse/go-ahead-eagles/2017,2017,6,eredivisie,18,34,0,2,0,12,6,2,1,2,7,5,LLLDW,0,1,1,2,3,10,6,1,1,3,4,9,WDWLW,0,0,2,0,4,LD,WW
+Willem II,Excelsior,1-1,/match/willem-ii/excelsior/2017,2017,6,eredivisie,18,34,1,1,1,15,4,1,1,3,4,10,LWLDW,0,1,1,1,4,6,10,3,0,2,9,8,LWLWW,1,0,1,3,5,LD,LW
+Sparta Rotterdam,NEC Nijmegen,2-0,/match/sparta-rotterdam/nec/2017,2017,6,eredivisie,18,34,0,2,0,8,7,2,1,2,7,7,LLWWD,1,0,1,2,3,9,7,1,2,2,5,10,DDWWL,0,1,1,2,4,LW,DW
+PSV,Feyenoord,0-1,/match/psv/feyenoord/2017,2017,6,eredivisie,18,34,2,0,1,2,12,4,1,0,11,1,LWLDL,1,1,0,1,0,1,16,5,0,0,15,2,LWLWW,2,0,0,6,0,WD,LL
+PEC Zwolle,AZ Alkmaar,0-2,/match/fc-zwolle/az/2017,2017,6,eredivisie,18,34,2,0,2,17,3,0,2,3,2,10,DLLWD,0,1,2,1,8,3,12,3,1,1,8,4,DWLWW,1,0,1,2,2,LLD,WL
+Heracles,Ajax,0-2,/match/heracles/ajax/2017,2017,6,eredivisie,18,34,2,0,2,11,6,1,2,2,6,7,DWLDW,1,0,1,3,2,5,10,3,1,1,10,5,LDLLW,2,0,0,6,1,WL,LL
+ADO Den Haag,Heerenveen,0-3,/match/ado-den-haag/heerenveen/2017,2017,7,eredivisie,18,34,2,0,3,9,10,3,1,2,10,10,WLLDWW,1,1,0,4,1,3,13,3,2,1,12,7,DDWWWL,1,1,1,6,4,WD,DWL
+Groningen,Heracles,0-0,/match/fc-groningen/heracles/2017,2017,7,eredivisie,18,34,1,0,0,15,5,1,2,3,9,13,LWLDDL,0,1,2,4,10,14,6,1,2,3,6,9,DWLDWL,0,2,1,3,5,LLD,DDW
+Ajax,PEC Zwolle,5-1,/match/ajax/fc-zwolle/2017,2017,7,eredivisie,18,34,0,5,1,4,12,4,1,1,12,5,LDLLWL,1,1,1,4,4,18,3,0,2,4,2,12,DLLWDL,0,1,1,1,2,DLW,DW
+AZ Alkmaar,Go Ahead Eagles,2-2,/match/az/go-ahead-eagles/2017,2017,7,eredivisie,18,34,1,2,2,2,14,4,1,1,10,4,DWLWWL,2,1,0,6,2,13,6,1,1,4,4,11,WDWLWW,0,0,3,0,6,DWW,WWW
+Excelsior,PSV,1-3,/match/excelsior/psv/2017,2017,7,eredivisie,18,34,2,1,3,6,11,3,1,2,10,9,LWLWWD,2,0,1,6,3,5,12,4,1,1,11,2,LWLDLL,3,0,0,10,1,WLW,LLL
+NEC Nijmegen,Willem II,0-0,/match/nec/willem-ii/2017,2017,7,eredivisie,18,34,1,0,0,11,7,1,2,3,5,12,DDWWLW,1,1,1,3,6,12,6,1,2,3,5,11,LWLDWD,1,0,2,3,6,DWL,WLW
+Utrecht,Sparta Rotterdam,2-0,/match/fc-utrecht/sparta-rotterdam/2017,2017,7,eredivisie,18,34,0,2,0,17,3,0,3,3,7,13,LDLDDL,0,0,3,3,9,7,11,3,1,2,9,7,LLWWDW,1,1,1,5,4,LLL,LWD
+Twente 1965,Vitesse,2-1,/match/fc-twente-1965/vitesse/2017,2017,7,eredivisie,18,34,0,2,1,8,10,3,0,3,13,12,LWLWWW,2,0,1,8,4,10,10,3,1,2,9,5,LLLDWW,2,0,1,5,2,LWW,LLW
+Feyenoord,Roda JC,5-0,/match/feyenoord/roda-jc/2017,2017,7,eredivisie,18,34,0,5,0,1,18,6,0,0,16,2,LWLWWL,3,0,0,9,2,16,4,0,3,3,3,9,DDLDWL,0,2,1,2,4,WWW,DDW
+PEC Zwolle,ADO Den Haag,2-1,/match/fc-zwolle/ado-den-haag/2017,2017,8,eredivisie,18,34,0,2,1,18,3,0,2,5,3,17,DLLWDLW,0,1,3,1,10,10,10,3,1,3,10,13,WLLDWWL,2,0,2,6,9,LLDL,LLWW
+Vitesse,Groningen,2-1,/match/vitesse/fc-groningen/2017,2017,8,eredivisie,18,34,0,2,1,9,10,3,1,3,10,7,LLLDWWW,1,1,1,4,3,15,7,1,3,3,9,13,LWLDDLD,1,1,1,5,3,LDW,WDL
+Heerenveen,PSV,1-1,/match/heerenveen/psv/2017,2017,8,eredivisie,18,34,1,1,1,4,15,4,2,1,15,7,DDWWWLL,2,1,0,6,3,5,14,5,1,1,14,3,LWLDLLL,4,0,0,13,2,DWW,LLLL
+Roda JC,NEC Nijmegen,0-1,/match/roda-jc/nec/2017,2017,8,eredivisie,18,34,2,0,1,17,4,0,3,4,3,14,DDLDWLW,0,1,2,1,5,11,9,1,3,3,5,12,DDWWLWD,0,1,2,2,6,DLL,DWW
+Go Ahead Eagles,Excelsior,3-0,/match/go-ahead-eagles/excelsior/2017,2017,8,eredivisie,18,34,0,3,0,13,7,1,2,4,6,13,WDWLWWD,1,1,1,4,5,7,11,3,1,3,11,12,LWLWWDL,1,1,1,4,6,DLW,LWD
+Ajax,Utrecht,3-2,/match/ajax/fc-utrecht/2017,2017,8,eredivisie,18,34,0,3,2,3,16,5,1,1,17,6,LDLLWLW,2,1,1,9,5,16,7,1,3,3,9,13,LDLDDLW,0,3,0,4,4,DLWW,DDD
+Willem II,Feyenoord,0-2,/match/willem-ii/feyenoord/2017,2017,8,eredivisie,18,34,2,0,2,12,7,1,3,3,5,11,LWLDWDD,0,2,1,2,5,1,22,7,0,0,21,2,LWLWWLW,3,0,0,7,0,LDD,LLL
+Heracles,Twente 1965,1-1,/match/heracles/fc-twente-1965/2017,2017,8,eredivisie,18,34,1,1,1,14,7,1,3,3,6,9,DWLDWLD,1,0,2,3,4,6,14,4,0,3,15,13,LWLWWWW,1,0,2,5,8,WLL,WLW
+Sparta Rotterdam,AZ Alkmaar,1-1,/match/sparta-rotterdam/az/2017,2017,8,eredivisie,18,34,1,1,1,8,11,3,1,3,9,9,LLWWDWW,2,0,1,4,3,2,16,4,2,1,12,6,DWLWWLD,2,0,1,4,2,LWW,WLL
+Sparta Rotterdam,Willem II,2-2,/match/sparta-rotterdam/willem-ii/2017,2017,9,eredivisie,18,34,1,2,2,8,13,3,2,3,10,10,LLWWDWWD,2,1,1,5,4,14,7,1,3,4,5,13,LWLDWDDL,1,1,2,3,6,LWWD,WLWD
+Utrecht,Go Ahead Eagles,3-0,/match/fc-utrecht/go-ahead-eagles/2017,2017,9,eredivisie,18,34,0,3,0,16,7,1,3,4,11,16,LDLDDLWW,1,0,3,5,9,9,11,2,2,4,9,13,WDWLWWDW,0,1,3,2,8,LLLW,WWWD
+PSV,Heracles,1-1,/match/psv/heracles/2017,2017,9,eredivisie,18,34,1,1,1,5,15,5,2,1,15,4,LWLDLLLD,1,1,1,1,1,13,9,1,4,3,7,10,DWLDWLDD,0,3,1,3,5,WDL,DDWD
+AZ Alkmaar,Vitesse,2-2,/match/az/vitesse/2017,2017,9,eredivisie,18,34,1,2,2,4,17,4,3,1,13,7,DWLWWLDD,2,2,0,8,4,7,14,4,1,3,12,8,LLLDWWWW,2,0,2,6,4,DWWD,LLWW
+Groningen,Heerenveen,0-3,/match/fc-groningen/heerenveen/2017,2017,9,eredivisie,18,34,2,0,3,15,7,1,3,4,10,15,LWLDDLDW,0,2,2,4,10,3,17,4,3,1,16,8,DDWWWLLD,2,1,1,9,4,LLDD,DWLL
+Twente 1965,PEC Zwolle,2-2,/match/fc-twente-1965/fc-zwolle/2017,2017,9,eredivisie,18,34,1,2,2,6,15,4,1,3,16,14,LWLWWWWD,3,0,1,10,5,17,7,1,2,5,5,18,DLLWDLWW,0,1,2,2,7,LWWW,DWW
+Excelsior,Roda JC,0-1,/match/excelsior/roda-jc/2017,2017,9,eredivisie,18,34,2,0,1,10,11,3,1,4,11,15,LWLWWDLW,2,0,2,7,6,18,4,0,3,5,3,15,DDLDWLWL,0,2,2,2,9,WLWL,DDWW
+NEC Nijmegen,Feyenoord,1-2,/match/nec/feyenoord/2017,2017,9,eredivisie,18,34,2,1,2,11,11,2,3,3,6,12,DDWWLWDL,1,2,1,3,6,1,24,8,0,0,23,2,LWLWWLWL,4,0,0,9,0,DWLD,LLLL
+ADO Den Haag,Ajax,0-2,/match/ado-den-haag/ajax/2017,2017,9,eredivisie,18,34,2,0,2,12,10,3,1,4,11,15,WLLDWWLW,1,1,1,4,4,2,20,6,1,1,20,8,LDLLWLWW,3,0,0,8,1,WDL,LLL
+Excelsior,PEC Zwolle,0-2,/match/excelsior/fc-zwolle/2017,2017,10,eredivisie,18,34,2,0,2,11,11,3,1,5,11,16,LWLWWDLWL,2,0,3,7,7,16,8,1,3,5,7,20,DLLWDLWWD,0,2,2,4,9,WLWLL,DWWD
+Go Ahead Eagles,Twente 1965,0-2,/match/go-ahead-eagles/fc-twente-1965/2017,2017,10,eredivisie,18,34,2,0,2,12,11,2,2,5,9,16,WDWLWWDWW,2,1,1,7,5,6,17,4,2,3,18,16,LWLWWWWDD,1,1,2,6,9,DLWW,WLWD
+PSV,Sparta Rotterdam,1-0,/match/psv/sparta-rotterdam/2017,2017,10,eredivisie,18,34,0,1,0,5,17,5,3,1,16,5,LWLDLLLDD,1,2,1,2,2,8,15,3,3,3,12,12,LLWWDWWDD,1,1,2,5,6,WDLD,LWDW
+Roda JC,ADO Den Haag,1-1,/match/roda-jc/ado-den-haag/2017,2017,10,eredivisie,18,34,1,1,1,18,6,1,3,5,4,15,DDLDWLWLL,0,1,3,1,6,13,10,3,1,5,11,17,WLLDWWLWL,2,0,3,7,11,DLLL,LLWWW
+Willem II,Utrecht,0-1,/match/willem-ii/fc-utrecht/2017,2017,10,eredivisie,18,34,2,0,1,15,8,1,4,4,7,15,LWLDWDDLD,0,2,2,2,7,10,11,2,3,4,14,16,LDLDDLWWW,0,3,1,6,7,LDDL,DDDW
+NEC Nijmegen,Vitesse,1-1,/match/nec/vitesse/2017,2017,10,eredivisie,18,34,1,1,1,9,11,2,3,4,7,14,DDWWLWDLL,1,2,2,4,8,7,15,4,2,3,14,10,LLLDWWWWD,2,1,2,8,6,DWLDL,LLWWD
+Feyenoord,Ajax,1-1,/match/feyenoord/ajax/2017,2017,10,eredivisie,18,34,1,1,1,1,26,9,0,0,25,3,LWLWWLWLL,4,0,0,14,2,2,22,7,1,1,22,8,LDLLWLWWL,4,0,0,10,1,WWWW,LLLL
+Groningen,AZ Alkmaar,2-0,/match/fc-groningen/az/2017,2017,10,eredivisie,18,34,0,2,0,17,7,1,3,5,10,18,LWLDDLDWL,0,2,3,4,13,4,19,4,4,1,15,9,DWLWWLDDD,2,1,1,5,3,LLDDL,WLLD
+Heerenveen,Heracles,3-1,/match/heerenveen/heracles/2017,2017,10,eredivisie,18,34,0,3,1,3,19,5,3,1,19,8,DDWWWLLDL,2,2,0,7,4,14,10,1,5,3,8,11,DWLDWLDDD,0,4,1,4,6,DWWD,DDWDD
+Twente 1965,Roda JC,0-0,/match/fc-twente-1965/roda-jc/2017,2017,11,eredivisie,18,34,1,0,0,6,19,5,2,3,20,16,LWLWWWWDDL,3,1,1,12,7,18,8,1,4,5,5,16,DDLDWLWLLD,1,2,2,3,9,LWWWD,DDWWL
+Willem II,Groningen,2-1,/match/willem-ii/fc-groningen/2017,2017,11,eredivisie,18,34,0,2,1,17,8,1,4,5,7,16,LWLDWDDLDL,0,2,3,2,8,14,11,2,3,5,12,18,LWLDDLDWLW,1,1,2,6,5,LDDLL,WDLW
+Heracles,Sparta Rotterdam,2-2,/match/heracles/sparta-rotterdam/2017,2017,11,eredivisie,18,34,1,2,2,15,10,1,5,4,9,14,DWLDWLDDDW,1,1,2,4,5,8,15,3,3,4,12,13,LLWWDWWDDW,1,1,3,5,7,WLLD,LWDWW
+Vitesse,PSV,0-2,/match/vitesse/psv/2017,2017,11,eredivisie,18,34,2,0,2,7,16,4,3,3,15,11,LLLDWWWWDD,2,1,1,6,4,4,21,6,3,1,17,5,LWLDLLLDDW,4,1,0,14,3,LDWW,LLLLD
+Ajax,Excelsior,1-0,/match/ajax/excelsior/2017,2017,11,eredivisie,18,34,0,1,0,2,23,7,2,1,23,9,LDLLWLWWLD,3,1,1,12,7,11,11,3,1,6,11,18,LWLWWDLWLL,1,1,2,4,9,DLWWW,LWDW
+PEC Zwolle,Go Ahead Eagles,3-1,/match/fc-zwolle/go-ahead-eagles/2017,2017,11,eredivisie,18,34,0,3,1,16,10,2,3,5,9,20,DLLWDLWWDL,1,1,3,3,11,12,11,2,2,6,9,18,WDWLWWDWWL,0,1,4,2,11,LLDLW,WWWDW
+Feyenoord,Heerenveen,2-2,/match/feyenoord/heerenveen/2017,2017,11,eredivisie,18,34,1,2,2,1,28,9,1,0,26,4,LWLWWLWLLD,4,1,0,15,3,3,23,6,3,1,22,9,DDWWWLLDLW,3,1,1,12,4,WWWWD,DWLLL
+Utrecht,NEC Nijmegen,1-1,/match/fc-utrecht/nec/2017,2017,11,eredivisie,18,34,1,1,1,9,13,3,3,4,15,16,LDLDDLWWWL,2,0,3,8,9,10,13,2,4,4,8,15,DDWWLWDLLD,1,1,2,3,6,LLLWW,DWWL
+ADO Den Haag,AZ Alkmaar,0-1,/match/ado-den-haag/az/2017,2017,11,eredivisie,18,34,2,0,1,13,11,3,2,5,12,18,WLLDWWLWLD,1,1,2,4,6,5,19,4,4,2,15,11,DWLWWLDDDW,2,1,2,5,5,WDLL,WLLDW
+Sparta Rotterdam,Heerenveen,3-1,/match/sparta-rotterdam/heerenveen/2017,2017,12,eredivisie,18,34,0,3,1,8,16,3,4,4,14,15,LLWWDWWDDWD,2,2,1,7,6,3,24,6,4,1,24,11,DDWWWLLDLWD,3,2,1,14,6,LWWDD,DWLLLD
+ADO Den Haag,Willem II,1-0,/match/ado-den-haag/willem-ii/2017,2017,12,eredivisie,18,34,0,1,0,15,11,3,2,6,12,19,WLLDWWLWLDL,1,1,3,4,7,13,12,2,4,5,9,17,LWLDWDDLDLW,1,2,2,5,8,WDLLL,WLWDD
+NEC Nijmegen,Groningen,1-1,/match/nec/fc-groningen/2017,2017,12,eredivisie,18,34,1,1,1,11,14,2,5,4,9,16,DDWWLWDLLDD,1,3,2,5,9,16,11,2,3,6,13,20,LWLDDLDWLWW,1,1,3,7,7,DWLDLD,WDLWW
+PSV,Twente 1965,1-1,/match/psv/fc-twente-1965/2017,2017,12,eredivisie,18,34,1,1,1,4,23,7,3,1,19,5,LWLDLLLDDWL,2,2,1,3,2,6,21,5,3,3,20,16,LWLWWWWDDLD,2,1,2,8,9,WDLDW,WLWDL
+PEC Zwolle,Roda JC,0-0,/match/fc-zwolle/roda-jc/2017,2017,12,eredivisie,18,34,1,0,0,10,14,3,3,5,12,21,DLLWDLWWDLW,2,1,3,6,12,18,9,1,5,5,5,16,DDLDWLWLLDD,1,3,2,3,9,LLDLWW,DDWWLD
+Utrecht,Excelsior,2-1,/match/fc-utrecht/excelsior/2017,2017,12,eredivisie,18,34,0,2,1,9,15,3,4,4,16,17,LDLDDLWWWLD,2,1,3,9,10,17,11,3,1,7,11,19,LWLWWDLWLLW,1,1,3,4,10,LLLWWD,LWDWW
+AZ Alkmaar,Ajax,2-2,/match/az/ajax/2017,2017,12,eredivisie,18,34,1,2,2,5,21,5,4,2,16,11,DWLWWLDDDWL,2,3,0,10,6,2,27,8,2,1,24,9,LDLLWLWWLDW,4,1,0,11,2,DWWDD,LLLLD
+Vitesse,Heracles,1-2,/match/vitesse/heracles/2017,2017,12,eredivisie,18,34,2,1,2,7,16,4,3,4,15,13,LLLDWWWWDDL,2,1,2,6,6,12,12,1,6,4,11,16,DWLDWLDDDWD,0,4,2,5,9,LDWWL,DDWDDW
+Go Ahead Eagles,Feyenoord,1-0,/match/go-ahead-eagles/feyenoord/2017,2017,12,eredivisie,18,34,0,1,0,14,11,2,2,7,10,21,WDWLWWDWWLW,2,1,2,7,7,1,30,9,2,0,28,6,LWLWWLWLLDD,5,0,0,11,1,DLWWL,LLLLL
+Heerenveen,Vitesse,1-1,/match/heerenveen/vitesse/2017,2017,13,eredivisie,18,34,1,1,1,4,24,6,4,2,25,14,DDWWWLLDLWDW,3,2,0,10,5,11,16,4,3,5,16,15,LLLDWWWWDDLL,2,2,2,9,7,DWWDW,LLWWDD
+Heracles,Go Ahead Eagles,2-1,/match/heracles/go-ahead-eagles/2017,2017,13,eredivisie,18,34,0,2,1,14,14,2,6,4,13,17,DWLDWLDDDWDL,1,2,2,6,7,12,15,3,2,7,11,21,WDWLWWDWWLWW,0,1,5,3,14,WLLDD,WWWDWW
+Willem II,PSV,0-0,/match/willem-ii/psv/2017,2017,13,eredivisie,18,34,1,0,0,15,12,2,4,6,9,18,LWLDWDDLDLWW,1,2,3,4,9,3,25,7,4,1,20,6,LWLDLLLDDWLD,5,1,0,16,3,LDDLLW,LLLLDL
+Excelsior,Sparta Rotterdam,3-2,/match/excelsior/sparta-rotterdam/2017,2017,13,eredivisie,18,34,0,3,2,17,11,3,1,8,12,21,LWLWWDLWLLWW,2,0,4,7,9,7,20,4,4,4,17,16,LLWWDWWDDWDW,1,2,3,7,9,WLWLLL,LWDWWD
+Groningen,ADO Den Haag,2-1,/match/fc-groningen/ado-den-haag/2017,2017,13,eredivisie,18,34,0,2,1,16,12,2,4,6,14,21,LWLDDLDWLWWD,1,2,3,6,13,13,15,4,2,6,13,19,WLLDWWLWLDLW,2,1,3,8,12,LLDDLW,LLWWWD
+Roda JC,AZ Alkmaar,1-1,/match/roda-jc/az/2017,2017,13,eredivisie,18,34,1,1,1,18,10,1,6,5,5,16,DDLDWLWLLDDD,0,2,3,2,7,5,23,5,5,2,18,13,DWLWWLDDDWLD,3,1,2,6,5,DLLLD,WLLDWL
+Ajax,NEC Nijmegen,5-0,/match/ajax/nec/2017,2017,13,eredivisie,18,34,0,5,0,2,28,8,3,1,26,11,LDLLWLWWLDWD,4,1,1,13,7,9,16,2,6,4,10,17,DDWWLWDLLDDD,1,2,2,4,7,DLWWWW,DWWLD
+Twente 1965,Utrecht,1-1,/match/fc-twente-1965/fc-utrecht/2017,2017,13,eredivisie,18,34,1,1,1,6,22,5,4,3,21,17,LWLWWWWDDLDD,3,2,1,12,7,8,19,4,4,4,18,18,LDLDDLWWWLDW,1,3,1,7,7,LWWWDD,DDDWL
+Feyenoord,PEC Zwolle,3-0,/match/feyenoord/fc-zwolle/2017,2017,13,eredivisie,18,34,0,3,0,1,30,9,2,1,28,7,LWLWWLWLLDDW,4,2,0,17,5,10,16,3,4,5,12,21,DLLWDLWWDLWD,1,2,2,6,9,WWWWDD,DWWDL
+Go Ahead Eagles,Willem II,0-1,/match/go-ahead-eagles/willem-ii/2017,2017,14,eredivisie,18,34,2,0,1,15,15,3,2,8,12,23,WDWLWWDWWLWWW,3,1,2,8,7,17,14,2,5,6,9,18,LWLDWDDLDLWWD,1,2,3,5,9,DLWWLW,WLWDDW
+Vitesse,Excelsior,2-2,/match/vitesse/excelsior/2017,2017,14,eredivisie,18,34,1,2,2,10,17,4,4,5,17,16,LLLDWWWWDDLLD,2,1,3,7,8,16,15,4,1,8,15,23,LWLWWDLWLLWWW,1,1,4,5,12,LDWWLL,LWDWWW
+PSV,ADO Den Haag,3-1,/match/psv/ado-den-haag/2017,2017,14,eredivisie,18,34,0,3,1,3,26,7,5,1,20,6,LWLDLLLDDWLDD,2,3,1,4,3,14,15,4,2,7,14,21,WLLDWWLWLDLWW,2,1,4,9,14,WDLDWD,LLWWWDW
+PEC Zwolle,Groningen,0-4,/match/fc-zwolle/fc-groningen/2017,2017,14,eredivisie,18,34,2,0,4,12,16,3,4,6,12,24,DLLWDLWWDLWDW,2,2,3,6,12,11,16,3,4,6,16,22,LWLDDLDWLWWDW,1,2,3,8,8,LLDLWWD,WDLWWD
+NEC Nijmegen,Twente 1965,3-2,/match/nec/fc-twente-1965/2017,2017,14,eredivisie,18,34,0,3,2,13,16,2,6,5,10,22,DDWWLWDLLDDDW,1,4,2,6,10,6,24,5,5,3,22,18,LWLWWWWDDLDDD,2,2,2,9,10,DWLDLDD,WLWDLD
+Sparta Rotterdam,Roda JC,2-2,/match/sparta-rotterdam/roda-jc/2017,2017,14,eredivisie,18,34,1,2,2,7,20,4,4,5,19,19,LLWWDWWDDWDWW,3,2,1,10,7,18,12,1,7,5,6,17,DDLDWLWLLDDDD,1,4,2,3,9,LWWDDW,DDWWLDD
+AZ Alkmaar,Heracles,5-1,/match/az/heracles/2017,2017,14,eredivisie,18,34,0,5,1,5,24,5,6,2,19,14,DWLWWLDDDWLDD,2,4,0,12,8,9,18,3,6,4,15,18,DWLDWLDDDWDLW,1,4,2,7,10,DWWDDD,DDWDDWL
+Heerenveen,Ajax,0-1,/match/heerenveen/ajax/2017,2017,14,eredivisie,18,34,2,0,1,4,26,6,5,2,26,15,DDWWWLLDLWDWD,3,3,0,11,6,2,32,9,3,1,31,11,LDLLWLWWLDWDW,4,2,0,13,4,DWWDWD,LLLLDD
+Utrecht,Feyenoord,3-3,/match/fc-utrecht/feyenoord/2017,2017,14,eredivisie,18,34,1,3,3,8,20,4,5,4,19,19,LDLDDLWWWLDWD,3,1,3,11,11,1,34,10,2,1,31,7,LWLWWLWLLDDWW,5,0,1,11,2,LLLWWDW,LLLLLW
+Heracles,NEC Nijmegen,2-0,/match/heracles/nec/2017,2017,15,eredivisie,18,34,0,2,0,12,18,3,6,5,16,23,DWLDWLDDDWDLWW,2,2,2,8,8,9,20,3,6,5,13,24,DDWWLWDLLDDDWW,1,2,3,4,12,WLLDDW,DWWLDW
+Go Ahead Eagles,Heerenveen,1-3,/match/go-ahead-eagles/heerenveen/2017,2017,15,eredivisie,18,34,2,1,3,17,15,3,2,9,12,24,WDWLWWDWWLWWWL,3,1,3,8,8,5,26,6,5,3,26,16,DDWWWLLDLWDWDL,3,2,2,15,9,DLWWLWL,DWLLLDW
+Excelsior,AZ Alkmaar,3-3,/match/excelsior/az/2017,2017,15,eredivisie,18,34,1,3,3,14,16,4,2,8,17,25,LWLWWDLWLLWWWD,3,0,4,10,11,4,28,6,6,2,24,15,DWLWWLDDDWLDDW,3,2,2,7,6,WLWLLLW,WLLDWLD
+Roda JC,PSV,0-0,/match/roda-jc/psv/2017,2017,15,eredivisie,18,34,1,0,0,18,13,1,8,5,8,19,DDLDWLWLLDDDDD,0,3,3,3,8,3,30,8,5,1,23,7,LWLDLLLDDWLDDW,5,2,0,16,3,DLLLDD,LLLLDLD
+Vitesse,PEC Zwolle,3-1,/match/vitesse/fc-zwolle/2017,2017,15,eredivisie,18,34,0,3,1,10,19,4,5,5,19,18,LLLDWWWWDDLLDD,2,2,3,9,10,13,16,3,4,7,12,28,DLLWDLWWDLWDWL,1,2,3,6,12,LDWWLLD,DWWDLW
+ADO Den Haag,Utrecht,0-2,/match/ado-den-haag/fc-utrecht/2017,2017,15,eredivisie,18,34,2,0,2,16,15,4,2,8,15,24,WLLDWWLWLDLWWW,2,1,3,5,7,8,22,4,6,4,22,22,LDLDDLWWWLDWDD,1,4,1,8,8,WDLLLW,DDDWLD
+Feyenoord,Sparta Rotterdam,6-1,/match/feyenoord/sparta-rotterdam/2017,2017,15,eredivisie,18,34,0,6,1,1,35,10,3,1,34,10,LWLWWLWLLDDWWD,5,2,0,20,5,7,22,4,5,5,21,21,LLWWDWWDDWDWWD,1,2,4,9,12,WWWWDDW,LWDWWDW
+Willem II,Twente 1965,0-0,/match/willem-ii/fc-twente-1965/2017,2017,15,eredivisie,18,34,1,0,0,15,16,3,5,6,10,18,LWLDWDDLDLWWDL,1,3,3,4,9,6,24,5,5,4,24,21,LWLWWWWDDLDDDW,2,2,3,11,13,LDDLLWD,WLWDLDW
+Ajax,Groningen,2-0,/match/ajax/fc-groningen/2017,2017,15,eredivisie,18,34,0,2,0,2,34,10,3,1,32,11,LDLLWLWWLDWDWL,5,1,1,18,7,11,18,4,4,6,20,22,LWLDDLDWLWWDWL,2,2,3,12,8,DLWWWWW,WDLWWDL
+Groningen,Roda JC,2-0,/match/fc-groningen/roda-jc/2017,2017,16,eredivisie,18,34,0,2,0,12,18,4,4,7,20,24,LWLDDLDWLWWDWLW,2,2,3,8,14,18,15,1,9,5,8,19,DDLDWLWLLDDDDDD,1,5,2,5,11,LLDDLWW,DDWWLDDD
+NEC Nijmegen,ADO Den Haag,3-0,/match/nec/ado-den-haag/2017,2017,16,eredivisie,18,34,0,3,0,11,20,3,6,6,13,26,DDWWLWDLLDDDWWW,2,4,2,9,12,16,15,4,2,9,15,26,WLLDWWLWLDLWWWL,2,1,5,10,17,DWLDLDDW,LLWWWDWW
+Heerenveen,Excelsior,2-1,/match/heerenveen/excelsior/2017,2017,16,eredivisie,18,34,0,2,1,5,28,7,5,3,29,17,DDWWWLLDLWDWDLL,3,3,1,11,7,13,18,4,3,8,20,28,LWLWWDLWLLWWWDD,1,2,4,7,14,DWWDWDL,LWDWWWD
+PSV,Go Ahead Eagles,1-0,/match/psv/go-ahead-eagles/2017,2017,16,eredivisie,18,34,0,1,0,3,31,8,6,1,23,7,LWLDLLLDDWLDDWD,3,3,1,7,4,17,15,3,2,10,13,27,WDWLWWDWWLWWWLL,0,1,6,4,16,WDLDWDW,WWWDWWW
+PEC Zwolle,Willem II,0-0,/match/fc-zwolle/willem-ii/2017,2017,16,eredivisie,18,34,1,0,0,15,16,3,4,8,13,31,DLLWDLWWDLWDWLW,2,2,4,6,16,14,18,3,6,6,10,18,LWLDWDDLDLWWDLD,2,2,3,6,9,LLDLWWDL,WLWDDWL
+Sparta Rotterdam,Vitesse,0-1,/match/sparta-rotterdam/vitesse/2017,2017,16,eredivisie,18,34,2,0,1,9,22,4,5,6,22,27,LLWWDWWDDWDWWDW,3,3,1,12,9,8,23,5,5,5,22,19,LLLDWWWWDDLLDDW,2,3,2,10,8,LWWDDWD,LLWWDDD
+AZ Alkmaar,Feyenoord,0-4,/match/az/feyenoord/2017,2017,16,eredivisie,18,34,2,0,4,4,29,6,7,2,27,18,DWLWWLDDDWLDDWD,3,4,0,17,9,1,39,11,3,1,40,11,LWLWWLWLLDDWWDW,5,1,1,14,5,DWWDDDW,LLLLLWD
+Utrecht,Heracles,2-0,/match/fc-utrecht/heracles/2017,2017,16,eredivisie,18,34,0,2,0,7,24,5,6,4,24,22,LDLDDLWWWLDWDDL,3,2,3,14,14,10,22,4,6,5,18,23,DWLDWLDDDWDLWWW,1,4,3,8,15,LLLWWDWD,DDWDDWLW
+Twente 1965,Ajax,1-0,/match/fc-twente-1965/ajax/2017,2017,16,eredivisie,18,34,0,1,0,6,25,5,6,4,24,21,LWLWWWWDDLDDDWD,3,3,1,13,8,2,38,11,3,1,34,11,LDLLWLWWLDWDWLW,5,2,0,14,4,LWWWDDD,LLLLDDL
+Willem II,Heerenveen,2-1,/match/willem-ii/heerenveen/2017,2017,17,eredivisie,18,34,0,2,1,13,19,3,7,6,10,18,LWLDWDDLDLWWDLDD,1,4,3,4,9,4,32,8,5,3,31,18,DDWWWLLDLWDWDLLW,4,2,2,18,10,LDDLLWDD,DWLLLDWL
+Roda JC,Utrecht,0-0,/match/roda-jc/fc-utrecht/2017,2017,17,eredivisie,18,34,1,0,0,18,15,1,9,6,8,21,DDLDWLWLLDDDDDDW,0,4,3,3,8,7,28,6,6,4,26,22,LDLDDLWWWLDWDDLW,2,4,1,10,8,DLLLDDD,DDDWLDL
+Feyenoord,Vitesse,3-1,/match/feyenoord/vitesse/2017,2017,17,eredivisie,18,34,0,3,1,1,41,12,3,1,44,11,LWLWWLWLLDDWWDWL,6,2,0,26,6,8,25,6,5,5,23,19,LLLDWWWWDDLLDDWL,3,3,2,11,8,WWWWDDWW,LLWWDDDL
+Twente 1965,AZ Alkmaar,1-2,/match/fc-twente-1965/az/2017,2017,17,eredivisie,18,34,2,1,2,6,29,6,6,4,25,21,LWLWWWWDDLDDDWDW,4,3,1,14,8,5,29,6,7,3,27,22,DWLWWLDDDWLDDWDL,3,3,2,10,9,LWWWDDDW,WLLDWLDD
+Excelsior,NEC Nijmegen,2-2,/match/excelsior/nec/2017,2017,17,eredivisie,18,34,1,2,2,14,18,4,3,9,21,30,LWLWWDLWLLWWWDDW,3,1,4,13,14,9,24,4,6,6,16,26,DDWWLWDLLDDDWWWW,1,2,4,4,14,WLWLLLWD,DWWLDWW
+ADO Den Haag,Sparta Rotterdam,1-0,/match/ado-den-haag/sparta-rotterdam/2017,2017,17,eredivisie,18,34,0,1,0,16,15,4,2,10,15,29,WLLDWWLWLDLWWWLW,2,1,4,5,9,12,22,4,5,7,22,28,LLWWDWWDDWDWWDWL,1,2,5,10,18,WDLLLWL,LWDWWDWW
+Heracles,PEC Zwolle,3-0,/match/heracles/fc-zwolle/2017,2017,17,eredivisie,18,34,0,3,0,11,22,4,6,6,18,25,DWLDWLDDDWDLWWWW,3,2,2,10,8,15,18,3,5,8,13,31,DLLWDLWWDLWDWLWD,1,2,4,7,15,WLLDDWW,DWWDLWW
+Groningen,Go Ahead Eagles,1-1,/match/fc-groningen/go-ahead-eagles/2017,2017,17,eredivisie,18,34,1,1,1,10,22,5,4,7,22,24,LWLDDLDWLWWDWLWW,3,2,3,10,14,17,15,3,2,11,13,28,WDWLWWDWWLWWWLLW,0,1,7,4,17,LLDDLWWW,WWWDWWWW
+Ajax,PSV,1-1,/match/ajax/psv/2017,2017,17,eredivisie,18,34,1,1,1,2,38,11,3,2,34,12,LDLLWLWWLDWDWLWW,6,1,1,20,7,3,35,9,6,1,24,7,LWLDLLLDDWLDDWDW,5,3,0,16,3,DLWWWWWW,LLLLDLDD
+Go Ahead Eagles,AZ Alkmaar,1-3,/match/go-ahead-eagles/az/2017,2017,18,eredivisie,18,34,2,1,3,18,16,3,3,11,14,29,WDWLWWDWWLWWWLLWD,3,1,4,9,11,5,31,7,7,3,29,23,DWLWWLDDDWLDDWDLL,4,3,2,12,10,DLWWLWLL,WLLDWLDDL
+Heerenveen,ADO Den Haag,2-0,/match/heerenveen/ado-den-haag/2017,2017,18,eredivisie,18,34,0,2,0,4,32,8,5,4,32,20,DDWWWLLDLWDWDLLWW,4,3,1,13,8,15,19,5,2,10,16,29,WLLDWWLWLDLWWWLWW,2,1,6,10,20,DWWDWDLW,LLWWWDWWW
+Heracles,Groningen,1-4,/match/heracles/fc-groningen/2017,2017,18,eredivisie,18,34,2,1,4,8,26,5,6,6,21,25,DWLDWLDDDWDLWWWWW,4,2,2,13,8,11,24,5,5,7,23,25,LWLDDLDWLWWDWLWWD,2,2,4,12,10,WLLDDWWW,WDLWWDLW
+PSV,Excelsior,2-0,/match/psv/excelsior/2017,2017,18,eredivisie,18,34,0,2,0,3,36,9,7,1,25,8,LWLDLLLDDWLDDWDWD,4,3,1,8,4,14,20,4,4,9,23,32,LWLWWDLWLLWWWDDWD,1,2,5,8,16,WDLDWDWW,LWDWWWDW
+Sparta Rotterdam,Utrecht,1-2,/match/sparta-rotterdam/fc-utrecht/2017,2017,18,eredivisie,18,34,2,1,2,13,22,4,5,8,22,29,LLWWDWWDDWDWWDWLW,3,3,2,12,10,7,29,6,7,4,26,22,LDLDDLWWWLDWDDLWD,2,5,1,10,8,LWWDDWDL,DDDWLDLD
+Roda JC,Feyenoord,0-2,/match/roda-jc/feyenoord/2017,2017,18,eredivisie,18,34,2,0,2,17,17,1,10,6,8,21,DDLDWLWLLDDDDDDWD,0,5,3,3,8,1,45,13,3,1,47,12,LWLWWLWLLDDWWDWLW,6,1,1,18,5,DLLLDDDD,LLLLLWDL
+PEC Zwolle,Ajax,1-3,/match/fc-zwolle/ajax/2017,2017,18,eredivisie,18,34,2,1,3,16,18,3,5,9,13,34,DLLWDLWWDLWDWLWDW,2,3,4,6,16,2,40,11,4,2,35,13,LDLLWLWWLDWDWLWWD,5,2,1,14,5,LLDLWWDLD,LLLLDDLW
+Vitesse,Twente 1965,3-1,/match/vitesse/fc-twente-1965/2017,2017,18,eredivisie,18,34,0,3,1,9,25,6,5,6,24,22,LLLDWWWWDDLLDDWLW,3,2,3,12,11,6,29,6,6,5,26,23,LWLWWWWDDLDDDWDWL,2,3,3,11,13,LDWWLLDW,WLWDLDWD
+Willem II,NEC Nijmegen,0-1,/match/willem-ii/nec/2017,2017,18,eredivisie,18,34,2,0,1,12,23,4,7,6,12,19,LWLDWDDLDLWWDLDDW,2,4,3,6,10,10,25,4,7,6,18,28,DDWWLWDLLDDDWWWWD,1,3,4,6,16,LDDLLWDDW,DWWLDWWD
+Twente 1965,Heracles,1-0,/match/fc-twente-1965/heracles/2017,2017,19,eredivisie,18,34,0,1,0,8,29,6,6,6,27,26,LWLWWWWDDLDDDWDWLW,4,3,2,15,10,10,26,5,6,7,22,29,DWLDWLDDDWDLWWWWWL,1,4,4,8,17,LWWWDDDWL,DDWDDWLWW
+AZ Alkmaar,Sparta Rotterdam,1-1,/match/az/sparta-rotterdam/2017,2017,19,eredivisie,18,34,1,1,1,5,33,8,7,3,32,24,DWLWWLDDDWLDDWDLLL,3,4,1,17,13,13,22,4,5,9,23,31,LLWWDWWDDWDWWDWLWL,1,2,6,10,19,DWWDDDWL,LWDWWDWWW
+ADO Den Haag,PEC Zwolle,1-2,/match/ado-den-haag/fc-zwolle/2017,2017,19,eredivisie,18,34,2,1,2,15,19,5,2,11,16,31,WLLDWWLWLDLWWWLWWW,3,1,4,6,9,16,18,3,5,10,14,37,DLLWDLWWDLWDWLWDWL,1,2,5,7,18,WDLLLWLW,DWWDLWWW
+Feyenoord,Willem II,1-0,/match/feyenoord/willem-ii/2017,2017,19,eredivisie,18,34,0,1,0,1,47,14,3,1,49,12,LWLWWLWLLDDWWDWLWL,7,2,0,29,7,12,23,4,7,7,12,20,LWLDWDDLDLWWDLDDWL,2,3,3,6,9,WWWWDDWWW,WLWDDWLD
+Groningen,Vitesse,1-1,/match/fc-groningen/vitesse/2017,2017,19,eredivisie,18,34,1,1,1,11,26,6,5,7,27,26,LWLDDLDWLWWDWLWWDL,3,3,3,11,15,7,29,7,5,6,27,23,LLLDWWWWDDLLDDWLWW,3,3,3,12,11,LLDDLWWWD,LLWWDDDLW
+Utrecht,Ajax,0-1,/match/fc-utrecht/ajax/2017,2017,19,eredivisie,18,34,2,0,1,6,31,7,7,4,28,23,LDLDDLWWWLDWDDLWDL,4,2,3,16,14,2,42,12,4,2,38,14,LDLLWLWWLDWDWLWWDL,6,2,1,17,6,LLLWWDWDW,LLLLDDLWL
+Excelsior,Go Ahead Eagles,1-1,/match/excelsior/go-ahead-eagles/2017,2017,19,eredivisie,18,34,1,1,1,14,20,4,4,10,23,34,LWLWWDLWLLWWWDDWDW,3,2,4,15,16,18,16,3,3,12,15,32,WDWLWWDWWLWWWLLWDL,0,2,7,5,18,WLWLLLWDD,WWWDWWWWD
+NEC Nijmegen,Roda JC,2-0,/match/nec/roda-jc/2017,2017,19,eredivisie,18,34,0,2,0,9,27,5,7,6,19,28,DDWWLWDLLDDDWWWWDL,3,4,2,12,12,17,17,1,10,7,8,23,DDLDWLWLLDDDDDDWDL,1,5,3,5,13,DWLDLDDWW,DDWWLDDDW
+PSV,Heerenveen,4-3,/match/psv/heerenveen/2017,2017,19,eredivisie,18,34,0,4,3,3,40,10,7,1,27,8,LWLDLLLDDWLDDWDWDW,5,3,1,10,4,4,36,9,5,4,34,20,DDWWWLLDLWDWDLLWWW,4,2,3,19,12,WDLDWDWWW,DWLLLDWLW
+Willem II,Sparta Rotterdam,3-2,/match/willem-ii/sparta-rotterdam/2017,2017,20,eredivisie,18,34,0,3,2,12,23,4,7,8,12,21,LWLDWDDLDLWWDLDDWLW,2,4,4,6,11,13,23,4,6,9,24,32,LLWWDWWDDWDWWDWLWLD,1,3,6,11,20,LDDLLWDDWL,LWDWWDWWWD
+Go Ahead Eagles,Utrecht,0-1,/match/go-ahead-eagles/fc-utrecht/2017,2017,20,eredivisie,18,34,2,0,1,18,17,3,4,12,16,33,WDWLWWDWWLWWWLLWDLD,3,1,5,10,14,7,31,7,7,5,28,24,LDLDDLWWWLDWDDLWDLL,3,5,1,12,9,DLWWLWLLL,DDDWLDLDL
+Heracles,PSV,1-2,/match/heracles/psv/2017,2017,20,eredivisie,18,34,2,1,2,11,26,5,6,8,22,30,DWLDWLDDDWDLWWWWWLW,4,2,3,14,12,2,44,11,7,1,31,11,LWLDLLLDDWLDDWDWDWW,5,4,0,17,4,WLLDDWWWL,LLLLDLDDD
+Roda JC,Excelsior,4-0,/match/roda-jc/excelsior/2017,2017,20,eredivisie,18,34,0,4,0,17,17,1,10,8,8,25,DDLDWLWLLDDDDDDWDLW,0,5,4,3,10,14,22,4,5,10,24,35,LWLWWDLWLLWWWDDWDWD,1,2,6,8,18,DLLLDDDDL,LWDWWWDWW
+Heerenveen,Groningen,0-0,/match/heerenveen/fc-groningen/2017,2017,20,eredivisie,18,34,1,0,0,4,36,9,5,5,37,24,DDWWWLLDLWDWDLLWWWW,5,3,1,15,8,10,28,6,6,7,28,27,LWLDDLDWLWWDWLWWDLD,3,2,4,16,11,DWWDWDLWW,WDLWWDLWL
+Vitesse,AZ Alkmaar,2-1,/match/vitesse/az/2017,2017,20,eredivisie,18,34,0,2,1,9,30,7,6,6,28,24,LLLDWWWWDDLLDDWLWWD,4,2,3,15,12,5,35,8,8,3,33,25,DWLWWLDDDWLDDWDLLLD,5,3,2,15,11,LDWWLLDWW,WLLDWLDDLL
+Ajax,ADO Den Haag,3-0,/match/ajax/ado-den-haag/2017,2017,20,eredivisie,18,34,0,3,0,3,44,13,4,2,39,14,LDLLWLWWLDWDWLWWDLL,6,2,1,21,8,16,19,5,2,12,17,33,WLLDWWLWLDLWWWLWWWL,2,1,7,10,22,DLWWWWWWD,LLWWWDWWWW
+PEC Zwolle,Twente 1965,1-2,/match/fc-zwolle/fc-twente-1965/2017,2017,20,eredivisie,18,34,2,1,2,15,20,4,5,10,16,38,DLLWDLWWDLWDWLWDWLL,2,3,5,7,19,6,33,7,6,6,28,26,LWLWWWWDDLDDDWDWLWW,2,3,4,12,16,LLDLWWDLDL,WLWDLDWDW
+Feyenoord,NEC Nijmegen,4-0,/match/feyenoord/nec/2017,2017,20,eredivisie,18,34,0,4,0,1,51,15,3,1,50,12,LWLWWLWLLDDWWDWLWLW,8,2,0,30,7,8,31,6,7,6,21,28,DDWWLWDLLDDDWWWWDLW,2,3,4,7,16,WWWWDDWWWW,DWWLDWWDL
+ADO Den Haag,Vitesse,0-2,/match/ado-den-haag/vitesse/2017,2017,21,eredivisie,18,34,2,0,2,17,19,5,2,13,17,36,WLLDWWLWLDLWWWLWWWLW,3,1,5,7,11,7,34,8,6,6,30,25,LLLDWWWWDDLLDDWLWWDW,3,4,3,13,12,WDLLLWLWL,LLWWDDDLWD
+NEC Nijmegen,Go Ahead Eagles,1-2,/match/nec/go-ahead-eagles/2017,2017,21,eredivisie,18,34,2,1,2,9,31,6,7,7,21,32,DDWWLWDLLDDDWWWWDLWW,4,4,2,14,12,18,17,3,4,13,16,34,WDWLWWDWWLWWWLLWDLDL,0,3,7,6,19,DWLDLDDWWW,WWWDWWWWDD
+AZ Alkmaar,PSV,2-4,/match/az/psv/2017,2017,21,eredivisie,18,34,2,2,4,5,35,8,8,4,34,27,DWLWWLDDDWLDDWDLLLDW,3,5,1,18,14,3,46,12,7,1,33,12,LWLDLLLDDWLDDWDWDWWL,6,4,0,19,5,DWWDDDWLD,LLLLDLDDDL
+Willem II,Heracles,1-3,/match/willem-ii/heracles/2017,2017,21,eredivisie,18,34,2,1,3,11,27,5,7,8,15,23,LWLDWDDLDLWWDLDDWLWW,3,4,4,9,13,12,26,5,6,9,23,32,DWLDWLDDDWDLWWWWWLWL,1,4,5,8,18,LDDLLWDDWLW,DDWDDWLWWW
+Groningen,Excelsior,1-1,/match/fc-groningen/excelsior/2017,2017,21,eredivisie,18,34,1,1,1,10,29,6,7,7,28,27,LWLDDLDWLWWDWLWWDLDD,3,4,3,12,16,14,22,4,5,11,24,39,LWLWWDLWLLWWWDDWDWDW,1,2,7,8,22,LLDDLWWWDD,LWDWWWDWWW
+Roda JC,Ajax,0-2,/match/roda-jc/ajax/2017,2017,21,eredivisie,18,34,2,0,2,15,21,2,10,8,12,25,DDLDWLWLLDDDDDDWDLWW,1,5,4,7,10,2,48,14,4,2,42,14,LDLLWLWWLDWDWLWWDLLW,7,2,1,18,6,DLLLDDDDLW,LLLLDDLWLL
+Sparta Rotterdam,PEC Zwolle,2-3,/match/sparta-rotterdam/fc-zwolle/2017,2017,21,eredivisie,18,34,2,2,3,13,23,4,6,10,26,35,LLWWDWWDDWDWWDWLWLDW,3,3,3,13,12,16,20,4,5,11,17,40,DLLWDLWWDLWDWLWDWLLL,2,2,5,9,19,LWWDDWDLL,DWWDLWWWL
+Twente 1965,Feyenoord,0-2,/match/fc-twente-1965/feyenoord/2017,2017,21,eredivisie,18,34,2,0,2,6,35,8,6,6,30,27,LWLWWWWDDLDDDWDWLWWL,5,3,2,16,10,1,55,16,3,1,54,12,LWLWWLWLLDDWWDWLWLWW,7,1,1,20,5,LWWWDDDWLW,LLLLLWDLL
+Utrecht,Heerenveen,1-0,/match/fc-utrecht/heerenveen/2017,2017,21,eredivisie,18,34,0,1,0,8,33,8,7,5,29,24,LDLDDLWWWLDWDDLWDLLL,4,2,4,16,15,4,38,9,6,5,37,24,DDWWWLLDLWDWDLLWWWWD,4,2,4,22,16,LLLWWDWDWL,DWLLLDWLWW
+PEC Zwolle,NEC Nijmegen,2-0,/match/fc-zwolle/nec/2017,2017,22,eredivisie,18,34,0,2,0,15,22,5,5,11,20,42,DLLWDLWWDLWDWLWDWLLLL,2,3,6,8,21,10,31,6,7,8,22,34,DDWWLWDLLDDDWWWWDLWWL,2,3,5,7,20,LLDLWWDLDLL,DWWLDWWDLW
+Heracles,Roda JC,2-2,/match/heracles/roda-jc/2017,2017,22,eredivisie,18,34,1,2,2,11,28,6,6,9,26,33,DWLDWLDDDWDLWWWWWLWLL,4,2,4,15,14,16,21,2,10,9,12,27,DDLDWLWLLDDDDDDWDLWWL,1,5,4,5,15,WLLDDWWWLL,DDWWLDDDWW
+Feyenoord,Groningen,2-0,/match/feyenoord/fc-groningen/2017,2017,22,eredivisie,18,34,0,2,0,1,57,17,3,1,56,12,LWLWWLWLLDDWWDWLWLWWL,9,2,0,34,7,9,31,6,8,7,29,28,LWLDDLDWLWWDWLWWDLDDD,3,3,4,16,11,WWWWDDWWWWW,WDLWWDLWLD
+Go Ahead Eagles,ADO Den Haag,3-1,/match/go-ahead-eagles/ado-den-haag/2017,2017,22,eredivisie,18,34,0,3,1,18,19,4,4,13,18,35,WDWLWWDWWLWWWLLWDLDLL,3,1,6,10,15,17,19,5,2,14,17,38,WLLDWWLWLDLWWWLWWWLWL,2,1,8,10,25,DLWWLWLLLL,LLWWWDWWWWW
+Vitesse,Willem II,0-2,/match/vitesse/willem-ii/2017,2017,22,eredivisie,18,34,2,0,2,6,36,9,6,6,32,25,LLLDWWWWDDLLDDWLWWDWL,5,2,3,17,13,12,27,5,7,9,16,26,LWLDWDDLDLWWDLDDWLWWL,2,3,4,6,10,LDWWLLDWWW,WLWDDWLDW
+Excelsior,Twente 1965,1-1,/match/excelsior/fc-twente-1965/2017,2017,22,eredivisie,18,34,1,1,1,14,23,4,6,11,25,40,LWLWWDLWLLWWWDDWDWDWD,3,3,4,16,17,8,35,8,6,7,30,29,LWLWWWWDDLDDDWDWLWWLL,3,3,4,14,17,WLWLLLWDDD,WLWDLDWDWL
+Ajax,Sparta Rotterdam,2-0,/match/ajax/sparta-rotterdam/2017,2017,22,eredivisie,18,34,0,2,0,2,50,15,4,2,44,14,LDLLWLWWLDWDWLWWDLLWL,7,2,1,24,8,13,23,4,6,11,28,38,LLWWDWWDDWDWWDWLWLDWL,1,3,7,13,23,DLWWWWWWDW,LWDWWDWWWDW
+Heerenveen,AZ Alkmaar,1-2,/match/heerenveen/az/2017,2017,22,eredivisie,18,34,2,1,2,4,38,9,6,6,37,25,DDWWWLLDLWDWDLLWWWWDW,5,4,1,15,8,7,35,8,8,5,36,31,DWLWWLDDDWLDDWDLLLDWL,5,3,3,16,13,DWWDWDLWWD,WLLDWLDDLLW
+PSV,Utrecht,3-0,/match/psv/fc-utrecht/2017,2017,22,eredivisie,18,34,0,3,0,3,48,13,7,1,37,14,LWLDLLLDDWLDDWDWDWWLL,6,3,1,14,7,5,37,9,7,5,30,24,LDLDDLWWWLDWDDLWDLLLW,4,5,1,13,9,WDLDWDWWWW,DDDWLDLDLL
+Roda JC,Go Ahead Eagles,1-0,/match/roda-jc/go-ahead-eagles/2017,2017,23,eredivisie,18,34,0,1,0,17,22,2,11,9,14,29,DDLDWLWLLDDDDDDWDLWWLD,1,5,5,7,12,16,23,5,4,13,21,36,WDWLWWDWWLWWWLLWDLDLLW,1,3,7,8,20,DLLLDDDDLWL,WWWDWWWWDDL
+Twente 1965,Heerenveen,1-0,/match/fc-twente-1965/heerenveen/2017,2017,23,eredivisie,18,34,0,1,0,8,36,8,7,7,31,30,LWLWWWWDDLDDDWDWLWWLLD,5,3,3,16,12,4,38,9,6,7,38,27,DDWWWLLDLWDWDLLWWWWDWL,4,2,5,22,17,LWWWDDDWLWL,DWLLLDWLWWW
+PSV,NEC Nijmegen,3-1,/match/psv/nec/2017,2017,23,eredivisie,18,34,0,3,1,3,52,14,7,1,40,14,LWLDLLLDDWLDDWDWDWWLLW,7,3,1,17,7,9,31,6,7,9,22,36,DDWWLWDLLDDDWWWWDLWWLW,2,3,6,7,22,WDLDWDWWWWW,DWWLDWWDLWW
+Heracles,Excelsior,4-0,/match/heracles/excelsior/2017,2017,23,eredivisie,18,34,0,4,0,11,30,6,7,9,28,35,DWLDWLDDDWDLWWWWWLWLLD,4,3,4,17,16,14,25,4,7,11,26,41,LWLWWDLWLLWWWDDWDWDWDD,1,3,7,9,23,WLLDDWWWLLD,LWDWWWDWWWD
+Utrecht,PEC Zwolle,3-1,/match/fc-utrecht/fc-zwolle/2017,2017,23,eredivisie,18,34,0,3,1,5,37,9,7,6,30,27,LDLDDLWWWLDWDDLWDLLLWW,5,2,4,17,15,13,26,6,5,11,22,42,DLLWDLWWDLWDWLWDWLLLLW,3,2,5,12,21,LLLWWDWDWLW,DWWDLWWWLL
+Willem II,AZ Alkmaar,1-1,/match/willem-ii/az/2017,2017,23,eredivisie,18,34,1,1,1,12,29,6,7,9,18,26,LWLDWDDLDLWWDLDDWLWWLL,3,4,5,10,16,6,37,9,8,5,38,32,DWLWWLDDDWLDDWDLLLDWLL,6,3,3,18,14,LDDLLWDDWLWL,WLLDWLDDLLWL
+Sparta Rotterdam,Groningen,2-2,/match/sparta-rotterdam/fc-groningen/2017,2017,23,eredivisie,18,34,1,2,2,15,23,4,6,12,28,40,LLWWDWWDDWDWWDWLWLDWLW,3,3,4,15,15,10,31,6,8,8,29,30,LWLDDLDWLWWDWLWWDLDDDW,3,3,5,16,13,LWWDDWDLLL,WDLWWDLWLDW
+Vitesse,Ajax,0-1,/match/vitesse/ajax/2017,2017,23,eredivisie,18,34,2,0,1,7,36,9,6,7,32,27,LLLDWWWWDDLLDDWLWWDWLL,5,2,4,17,15,2,54,16,4,2,46,14,LDLLWLWWLDWDWLWWDLLWLW,8,2,1,20,6,LDWWLLDWWWL,LLLLDDLWLLL
+ADO Den Haag,Feyenoord,0-1,/match/ado-den-haag/feyenoord/2017,2017,23,eredivisie,18,34,2,0,1,18,19,5,2,15,18,41,WLLDWWLWLDLWWWLWWWLWLW,3,1,6,7,13,1,61,18,3,1,58,12,LWLWWLWLLDDWWDWLWLWWLW,8,1,1,22,5,WDLLLWLWLL,LLLLLWDLLL
+ADO Den Haag,Twente 1965,1-1,/match/ado-den-haag/fc-twente-1965/2017,2017,24,eredivisie,18,34,1,1,1,18,19,5,2,16,18,42,WLLDWWLWLDLWWWLWWWLWLWL,3,1,7,7,14,5,40,9,7,7,32,30,LWLWWWWDDLDDDWDWLWWLLDW,3,4,4,15,18,WDLLLWLWLLL,WLWDLDWDWLD
+Groningen,Utrecht,2-3,/match/fc-groningen/fc-utrecht/2017,2017,24,eredivisie,18,34,2,2,3,10,32,6,9,8,31,32,LWLDDLDWLWWDWLWWDLDDDWD,3,5,3,13,17,4,41,10,7,6,33,28,LDLDDLWWWLDWDDLWDLLLWWW,4,5,2,13,12,LLDDLWWWDDD,DDDWLDLDLLW
+Excelsior,Willem II,0-2,/match/excelsior/willem-ii/2017,2017,24,eredivisie,18,34,2,0,2,15,25,4,7,12,26,45,LWLWWDLWLLWWWDDWDWDWDDW,3,4,4,17,18,12,31,6,8,9,19,27,LWLDWDDLDLWWDLDDWLWWLLD,3,3,4,8,10,WLWLLLWDDDD,WLWDDWLDWL
+NEC Nijmegen,Sparta Rotterdam,0-1,/match/nec/sparta-rotterdam/2017,2017,24,eredivisie,18,34,2,0,1,11,31,6,7,10,23,39,DDWWLWDLLDDDWWWWDLWWLWW,4,4,3,15,14,16,25,4,7,12,30,42,LLWWDWWDDWDWWDWLWLDWLWD,1,3,8,13,25,DWLDLDDWWWL,LWDWWDWWWDWW
+Heerenveen,Roda JC,3-0,/match/heerenveen/roda-jc/2017,2017,24,eredivisie,18,34,0,3,0,6,38,9,6,8,38,28,DDWWWLLDLWDWDLLWWWWDWLW,5,4,2,16,10,14,26,3,11,9,15,29,DDLDWLWLLDDDDDDWDLWWLDW,1,6,4,7,17,DWWDWDLWWDL,DDWWLDDDWWD
+Go Ahead Eagles,Vitesse,1-3,/match/go-ahead-eagles/vitesse/2017,2017,24,eredivisie,18,34,2,1,3,17,23,5,4,14,21,37,WDWLWWDWWLWWWLLWDLDLLWW,4,1,6,13,16,8,36,9,6,8,32,28,LLLDWWWWDDLLDDWLWWDWLLL,4,4,3,15,12,DLWWLWLLLLW,LLWWDDDLWDL
+AZ Alkmaar,PEC Zwolle,1-1,/match/az/fc-zwolle/2017,2017,24,eredivisie,18,34,1,1,1,7,38,9,9,5,39,33,DWLWWLDDDWLDDWDLLLDWLLD,3,5,2,20,18,13,26,6,5,12,23,45,DLLWDLWWDLWDWLWDWLLLLWW,3,2,6,13,24,DWWDDDWLDL,DWWDLWWWLLW
+Feyenoord,PSV,2-1,/match/feyenoord/psv/2017,2017,24,eredivisie,18,34,0,2,1,1,63,19,3,1,59,12,LWLWWLWLLDDWWDWLWLWWLWL,10,2,0,36,7,3,56,15,7,1,43,15,LWLDLLLDDWLDDWDWDWWLLWW,7,4,0,23,7,WWWWDDWWWWWW,LLLLDLDDDLL
+Ajax,Heracles,4-1,/match/ajax/heracles/2017,2017,24,eredivisie,18,34,0,4,1,2,56,17,4,2,47,14,LDLLWLWWLDWDWLWWDLLWLWL,8,2,1,26,8,9,34,7,7,9,32,35,DWLDWLDDDWDLWWWWWLWLLDW,2,4,5,11,19,DLWWWWWWDWW,DDWDDWLWWWL
+Heerenveen,Go Ahead Eagles,2-2,/match/heerenveen/go-ahead-eagles/2017,2017,25,eredivisie,18,34,1,2,2,5,42,10,6,8,41,28,DDWWWLLDLWDWDLLWWWWDWLWW,6,4,2,19,10,17,23,5,4,15,22,40,WDWLWWDWWLWWWLLWDLDLLWWL,1,3,8,8,21,DWWDWDLWWDLW,WWWDWWWWDDLW
+Twente 1965,Willem II,2-1,/match/fc-twente-1965/willem-ii/2017,2017,25,eredivisie,18,34,0,2,1,6,41,9,8,7,33,31,LWLWWWWDDLDDDWDWLWWLLDWD,6,3,3,17,12,10,33,7,8,9,21,27,LWLDWDDLDLWWDLDDWLWWLLDL,4,3,4,10,10,LWWWDDDWLWLW,WLWDDWLDWLL
+PSV,Roda JC,4-0,/match/psv/roda-jc/2017,2017,25,eredivisie,18,34,0,4,0,3,56,15,7,2,44,17,LWLDLLLDDWLDDWDWDWWLLWWW,8,3,1,20,8,15,26,3,11,10,15,32,DDLDWLWLLDDDDDDWDLWWLDWW,1,6,5,7,20,WDLDWDWWWWWW,DDWWLDDDWWDW
+PEC Zwolle,Vitesse,3-1,/match/fc-zwolle/vitesse/2017,2017,25,eredivisie,18,34,0,3,1,13,27,6,6,12,24,46,DLLWDLWWDLWDWLWDWLLLLWWD,3,3,6,10,21,8,38,10,6,8,35,29,LLLDWWWWDDLLDDWLWWDWLLLL,5,4,3,18,13,LLDLWWDLDLLW,LLWWDDDLWDLL
+AZ Alkmaar,Excelsior,1-1,/match/az/excelsior/2017,2017,25,eredivisie,18,34,1,1,1,7,40,9,10,5,40,34,DWLWWLDDDWLDDWDLLLDWLLDD,3,6,2,21,19,16,25,4,7,13,26,47,LWLWWDLWLLWWWDDWDWDWDDWL,1,3,8,9,27,DWWDDDWLDLD,LWDWWWDWWWDW
+Sparta Rotterdam,Feyenoord,1-0,/match/sparta-rotterdam/feyenoord/2017,2017,25,eredivisie,18,34,0,1,0,14,27,5,7,12,31,42,LLWWDWWDDWDWWDWLWLDWLWDL,3,4,4,17,17,1,67,20,3,1,61,13,LWLWWLWLLDDWWDWLWLWWLWLW,9,1,1,23,5,LWWDDWDLLLD,LLLLLWDLLLL
+Groningen,Ajax,1-1,/match/fc-groningen/ajax/2017,2017,25,eredivisie,18,34,1,1,1,11,32,6,9,9,33,35,LWLDDLDWLWWDWLWWDLDDDWDL,3,5,4,15,20,2,60,18,4,2,51,15,LDLLWLWWLDWDWLWWDLLWLWLW,9,2,1,21,6,LLDDLWWWDDDL,LLLLDDLWLLLL
+Utrecht,ADO Den Haag,1-1,/match/fc-utrecht/ado-den-haag/2017,2017,25,eredivisie,18,34,1,1,1,4,43,11,7,6,36,30,LDLDDLWWWLDWDDLWDLLLWWWL,6,2,4,20,16,18,21,5,3,16,19,43,WLLDWWLWLDLWWWLWWWLWLWLD,2,1,9,11,28,LLLWWDWDWLWW,LLWWWDWWWWWW
+NEC Nijmegen,Heracles,3-1,/match/nec/heracles/2017,2017,25,eredivisie,18,34,0,3,1,12,31,6,7,11,23,40,DDWWLWDLLDDDWWWWDLWWLWWL,4,4,4,15,15,9,34,7,7,10,33,39,DWLDWLDDDWDLWWWWWLWLLDWW,2,4,6,12,23,DWLDLDDWWWLL,DDWDDWLWWWLW
+Vitesse,Sparta Rotterdam,5-0,/match/vitesse/sparta-rotterdam/2017,2017,26,eredivisie,18,34,0,5,0,8,38,10,6,9,36,32,LLLDWWWWDDLLDDWLWWDWLLLLW,5,2,5,17,16,14,31,6,7,12,32,42,LLWWDWWDDWDWWDWLWLDWLWDLW,2,3,8,14,25,LDWWLLDWWWLL,LWDWWDWWWDWWL
+ADO Den Haag,NEC Nijmegen,1-0,/match/ado-den-haag/nec/2017,2017,26,eredivisie,18,34,0,1,0,18,22,5,4,16,20,44,WLLDWWLWLDLWWWLWWWLWLWLDD,3,2,7,8,15,9,35,7,7,11,26,41,DDWWLWDLLDDDWWWWDLWWLWWLW,2,3,7,8,25,WDLLLWLWLLLD,DWWLDWWDLWWW
+Go Ahead Eagles,PSV,1-3,/match/go-ahead-eagles/psv/2017,2017,26,eredivisie,18,34,2,1,3,17,24,5,5,15,24,42,WDWLWWDWWLWWWLLWDLDLLWWLD,4,1,7,14,19,3,60,16,7,2,48,17,LWLDLLLDDWLDDWDWDWWLLWWWW,7,4,1,24,9,DLWWLWLLLLWL,LLLLDLDDDLLW
+Heracles,Utrecht,2-1,/match/heracles/fc-utrecht/2017,2017,26,eredivisie,18,34,0,2,1,10,34,7,7,11,34,42,DWLDWLDDDWDLWWWWWLWLLDWWW,5,3,4,21,16,4,45,11,8,6,37,31,LDLDDLWWWLDWDDLWDLLLWWWLD,5,5,2,16,14,WLLDDWWWLLDW,DDDWLDLDLLWL
+Excelsior,Heerenveen,4-1,/match/excelsior/heerenveen/2017,2017,26,eredivisie,18,34,0,4,1,16,26,4,8,13,27,48,LWLWWDLWLLWWWDDWDWDWDDWLD,3,4,5,17,20,6,44,10,7,8,43,30,DDWWWLLDLWDWDLLWWWWDWLWWD,4,2,6,22,18,WLWLLLWDDDDL,DWLLLDWLWWWW
+Willem II,PEC Zwolle,2-0,/match/willem-ii/fc-zwolle/2017,2017,26,eredivisie,18,34,0,2,0,12,33,7,8,10,22,29,LWLDWDDLDLWWDLDDWLWWLLDLW,3,5,5,11,17,13,31,7,6,12,27,47,DLLWDLWWDLWDWLWDWLLLLWWDW,3,3,6,14,25,LDDLLWDDWLWLD,DWWDLWWWLLWD
+Feyenoord,AZ Alkmaar,5-2,/match/feyenoord/az/2017,2017,26,eredivisie,18,34,0,5,2,1,67,20,3,2,61,14,LWLWWLWLLDDWWDWLWLWWLWLWW,11,2,0,38,8,7,42,9,11,5,41,35,DWLWWLDDDWLDDWDLLLDWLLDDD,6,4,3,19,15,WWWWDDWWWWWWW,WLLDWLDDLLWLD
+Roda JC,Groningen,3-1,/match/roda-jc/fc-groningen/2017,2017,26,eredivisie,18,34,0,3,1,15,26,3,11,11,15,36,DDLDWLWLLDDDDDDWDLWWLDWWW,2,5,5,8,12,11,34,6,10,9,34,36,LWLDDLDWLWWDWLWWDLDDDWDLD,3,4,5,18,15,DLLLDDDDLWLW,WDLWWDLWLDWD
+Ajax,Twente 1965,3-0,/match/ajax/fc-twente-1965/2017,2017,26,eredivisie,18,34,0,3,0,2,61,18,5,2,52,16,LDLLWLWWLDWDWLWWDLLWLWLWD,9,2,1,30,9,5,45,10,8,7,35,32,LWLWWWWDDLDDDWDWLWWLLDWDW,3,5,4,16,19,DLWWWWWWDWWW,WLWDLDWDWLDD
+Roda JC,Twente 1965,0-3,/match/roda-jc/fc-twente-1965/2017,2017,27,eredivisie,18,34,2,0,3,15,30,4,11,11,18,37,DDLDWLWLLDDDDDDWDLWWLDWWWW,3,5,5,11,13,5,45,10,8,8,35,35,LWLWWWWDDLDDDWDWLWWLLDWDWW,3,5,5,16,22,DLLLDDDDLWLWW,WLWDLDWDWLDDW
+Groningen,Willem II,1-1,/match/fc-groningen/willem-ii/2017,2017,27,eredivisie,18,34,1,1,1,12,34,6,10,10,35,39,LWLDDLDWLWWDWLWWDLDDDWDLDW,3,6,4,16,21,10,37,8,8,10,24,29,LWLDWDDLDLWWDLDDWLWWLLDLWW,4,3,5,11,12,LLDDLWWWDDDLD,WLWDDWLDWLLW
+NEC Nijmegen,Utrecht,0-3,/match/nec/fc-utrecht/2017,2017,27,eredivisie,18,34,2,0,3,11,35,7,7,12,26,42,DDWWLWDLLDDDWWWWDLWWLWWLWW,5,4,4,18,16,4,45,11,8,7,38,33,LDLDDLWWWLDWDDLWDLLLWWWLDW,5,5,3,17,16,DWLDLDDWWWLLW,DDDWLDLDLLWLW
+PSV,Vitesse,1-0,/match/psv/vitesse/2017,2017,27,eredivisie,18,34,0,1,0,3,62,17,7,2,51,18,LWLDLLLDDWLDDWDWDWWLLWWWWL,9,3,1,24,8,8,42,11,6,9,41,32,LLLDWWWWDDLLDDWLWWDWLLLLWW,5,4,4,19,16,WDLDWDWWWWWWW,LLWWDDDLWDLLW
+Sparta Rotterdam,Heracles,3-1,/match/sparta-rotterdam/heracles/2017,2017,27,eredivisie,18,34,0,3,1,14,31,6,7,13,32,47,LLWWDWWDDWDWWDWLWLDWLWDLWW,4,4,4,18,17,9,38,8,7,11,36,43,DWLDWLDDDWDLWWWWWLWLLDWWWW,2,4,7,13,26,LWWDDWDLLLDW,DDWDDWLWWWLWW
+Heerenveen,Feyenoord,1-2,/match/heerenveen/feyenoord/2017,2017,27,eredivisie,18,34,2,1,2,6,44,10,7,9,44,34,DDWWWLLDLWDWDLLWWWWDWLWWDW,6,5,2,21,12,1,71,21,3,2,66,16,LWLWWLWLLDDWWDWLWLWWLWLWWW,9,1,2,23,6,DWWDWDLWWDLWD,LLLLLWDLLLLW
+Excelsior,Ajax,1-1,/match/excelsior/ajax/2017,2017,27,eredivisie,18,34,1,1,1,16,30,5,8,13,31,49,LWLWWDLWLLWWWDDWDWDWDDWLDW,4,4,5,21,21,2,65,19,5,2,55,16,LDLLWLWWLDWDWLWWDLLWLWLWDW,9,3,1,22,7,WLWLLLWDDDDLW,LLLLDDLWLLLLD
+Go Ahead Eagles,PEC Zwolle,1-3,/match/go-ahead-eagles/fc-zwolle/2017,2017,27,eredivisie,18,34,2,1,3,18,24,5,5,16,25,45,WDWLWWDWWLWWWLLWDLDLLWWLDL,4,1,8,15,22,13,31,7,6,13,27,49,DLLWDLWWDLWDWLWDWLLLLWWDWW,3,3,7,14,27,DLWWLWLLLLWLL,DWWDLWWWLLWDW
+AZ Alkmaar,ADO Den Haag,4-0,/match/az/ado-den-haag/2017,2017,27,eredivisie,18,34,0,4,0,7,42,9,11,6,43,40,DWLWWLDDDWLDDWDLLLDWLLDDDW,3,7,2,22,20,17,26,6,4,16,21,44,WLLDWWLWLDLWWWLWWWLWLWLDDW,2,2,9,12,29,DWWDDDWLDLDD,LLWWWDWWWWWWD
+AZ Alkmaar,Groningen,0-0,/match/az/fc-groningen/2017,2017,28,eredivisie,18,34,1,0,0,6,46,10,11,6,47,40,DWLWWLDDDWLDDWDLLLDWLLDDDWW,4,7,2,26,20,11,36,6,11,10,36,40,LWLDDLDWLWWDWLWWDLDDDWDLDWD,3,4,6,19,18,DWWDDDWLDLDDW,WDLWWDLWLDWDW
+PEC Zwolle,Excelsior,1-1,/match/fc-zwolle/excelsior/2017,2017,28,eredivisie,18,34,1,1,1,14,33,8,6,13,30,50,DLLWDLWWDLWDWLWDWLLLLWWDWWL,4,3,6,13,22,15,32,5,9,13,32,50,LWLWWDLWLLWWWDDWDWDWDDWLDWD,1,4,8,10,28,LLDLWWDLDLLWW,LWDWWWDWWWDWD
+Sparta Rotterdam,PSV,0-2,/match/sparta-rotterdam/psv/2017,2017,28,eredivisie,18,34,2,0,2,13,35,7,7,13,35,48,LLWWDWWDDWDWWDWLWLDWLWDLWWW,5,4,4,21,18,3,66,18,7,2,52,18,LWLDLLLDDWLDDWDWDWWLLWWWWLW,8,4,1,27,10,LWWDDWDLLLDWW,LLLLDLDDDLLWL
+Heracles,Heerenveen,4-1,/match/heracles/heerenveen/2017,2017,28,eredivisie,18,34,0,4,1,10,38,8,7,12,37,46,DWLDWLDDDWDLWWWWWLWLLDWWWWW,6,3,4,23,17,7,44,10,7,10,45,36,DDWWWLLDLWDWDLLWWWWDWLWWDWL,4,2,7,23,22,WLLDDWWWLLDWW,DWLLLDWLWWWWW
+Utrecht,Willem II,2-0,/match/fc-utrecht/willem-ii/2017,2017,28,eredivisie,18,34,0,2,0,4,47,12,8,7,41,33,LDLDDLWWWLDWDDLWDLLLWWWLDWL,6,3,4,21,17,9,38,8,9,10,25,30,LWLDWDDLDLWWDLDDWLWWLLDLWWD,4,4,5,12,13,LLLWWDWDWLWWD,WLWDDWLDWLLWD
+Vitesse,NEC Nijmegen,2-1,/match/vitesse/nec/2017,2017,28,eredivisie,18,34,0,2,1,8,42,11,6,10,41,33,LLLDWWWWDDLLDDWLWWDWLLLLWWW,6,2,5,22,16,12,35,7,7,13,26,45,DDWWLWDLLDDDWWWWDLWWLWWLWWL,2,3,8,8,26,LDWWLLDWWWLLW,DWWLDWWDLWWWW
+Ajax,Feyenoord,2-1,/match/ajax/feyenoord/2017,2017,28,eredivisie,18,34,0,2,1,2,66,19,6,2,56,17,LDLLWLWWLDWDWLWWDLLWLWLWDWD,10,2,1,33,9,1,73,22,3,2,68,17,LWLWWLWLLDDWWDWLWLWWLWLWWWL,10,1,2,25,7,DLWWWWWWDWWWW,LLLLLWDLLLLWL
+ADO Den Haag,Roda JC,4-1,/match/ado-den-haag/roda-jc/2017,2017,28,eredivisie,18,34,0,4,1,17,26,6,4,17,21,48,WLLDWWLWLDLWWWLWWWLWLWLDDWW,4,2,7,9,15,16,30,4,11,12,18,40,DDLDWLWLLDDDDDDWDLWWLDWWWWL,1,6,6,7,24,WDLLLWLWLLLDW,DDWWLDDDWWDWW
+Twente 1965,Go Ahead Eagles,1-2,/match/fc-twente-1965/go-ahead-eagles/2017,2017,28,eredivisie,18,34,2,1,2,5,47,11,8,8,38,35,LWLWWWWDDLDDDWDWLWWLLDWDWWL,7,3,3,19,13,18,24,5,5,17,26,48,WDWLWWDWWLWWWLLWDLDLLWWLDLL,1,4,8,10,23,LWWWDDDWLWLWW,WWWDWWWWDDLWD
+Excelsior,Utrecht,1-3,/match/excelsior/fc-utrecht/2017,2017,29,eredivisie,18,34,2,1,3,15,33,5,10,13,33,51,LWLWWDLWLLWWWDDWDWDWDDWLDWDD,4,5,5,22,22,4,51,13,8,7,43,33,LDLDDLWWWLDWDDLWDLLLWWWLDWLW,6,5,3,20,16,WLWLLLWDDDDLWD,DDDWLDLDLLWLWL
+Heerenveen,Sparta Rotterdam,3-0,/match/heerenveen/sparta-rotterdam/2017,2017,29,eredivisie,18,34,0,3,0,8,44,10,7,11,46,40,DDWWWLLDLWDWDLLWWWWDWLWWDWLW,6,5,3,22,14,13,35,7,7,14,35,50,LLWWDWWDDWDWWDWLWLDWLWDLWWWL,2,3,9,14,30,DWWDWDLWWDLWDL,LWDWWDWWWDWWLW
+Heracles,Vitesse,0-1,/match/heracles/vitesse/2017,2017,29,eredivisie,18,34,2,0,1,9,42,9,7,12,41,47,DWLDWLDDDWDLWWWWWLWLLDWWWWWW,7,3,4,27,18,7,46,12,6,10,43,34,LLLDWWWWDDLLDDWLWWDWLLLLWWWW,5,4,5,19,17,WLLDDWWWLLDWWW,LLWWDDDLWDLLWW
+Groningen,NEC Nijmegen,2-0,/match/fc-groningen/nec/2017,2017,29,eredivisie,18,34,0,2,0,11,37,6,12,10,36,40,LWLDDLDWLWWDWLWWDLDDDWDLDWDD,3,7,4,17,22,12,35,7,7,14,27,47,DDWWLWDLLDDDWWWWDLWWLWWLWWLW,2,3,9,9,28,LLDDLWWWDDDLDD,DWWLDWWDLWWWWW
+Ajax,AZ Alkmaar,4-1,/match/ajax/az/2017,2017,29,eredivisie,18,34,0,4,1,2,70,20,6,2,58,18,LDLLWLWWLDWDWLWWDLLWLWLWDWDW,11,2,1,35,10,5,48,10,12,6,47,40,DWLWWLDDDWLDDWDLLLDWLLDDDWWD,6,4,4,21,20,DLWWWWWWDWWWWW,WLLDWLDDLLWLDW
+Feyenoord,Go Ahead Eagles,8-0,/match/feyenoord/go-ahead-eagles/2017,2017,29,eredivisie,18,34,0,8,0,1,73,22,3,3,69,19,LWLWWLWLLDDWWDWLWLWWLWLWWWLW,12,2,0,43,10,18,26,6,5,17,28,49,WDWLWWDWWLWWWLLWDLDLLWWLDLLL,2,4,8,12,24,WWWWDDWWWWWWWW,WWWDWWWWDDLWDL
+Willem II,ADO Den Haag,1-2,/match/willem-ii/ado-den-haag/2017,2017,29,eredivisie,18,34,2,1,2,10,38,8,9,11,25,32,LWLDWDDLDLWWDLDDWLWWLLDLWWDW,4,5,5,13,17,17,30,7,4,17,25,49,WLLDWWLWLDLWWWLWWWLWLWLDDWWW,2,2,10,12,33,LDDLLWDDWLWLDW,LLWWWDWWWWWWDW
+Roda JC,PEC Zwolle,2-1,/match/roda-jc/fc-zwolle/2017,2017,29,eredivisie,18,34,0,2,1,16,30,4,11,13,19,44,DDLDWLWLLDDDDDDWDLWWLDWWWWLW,3,5,6,11,16,14,35,8,7,13,31,51,DLLWDLWWDLWDWLWDWLLLLWWDWWLD,4,3,7,17,28,DLLLDDDDLWLWWL,DWWDLWWWLLWDWL
+Twente 1965,PSV,2-2,/match/fc-twente-1965/psv/2017,2017,29,eredivisie,18,34,1,2,2,6,47,11,8,9,39,37,LWLWWWWDDLDDDWDWLWWLLDWDWWLL,7,3,4,20,15,3,68,19,7,2,54,18,LWLDLLLDDWLDDWDWDWWLLWWWWLWL,9,4,1,29,10,LWWWDDDWLWLWWL,LLLLDLDDDLLWLL
+Sparta Rotterdam,Excelsior,2-3,/match/sparta-rotterdam/excelsior/2017,2017,30,eredivisie,18,34,2,2,3,13,35,7,7,15,35,53,LLWWDWWDDWDWWDWLWLDWLWDLWWWLW,5,4,5,21,20,16,33,5,10,14,34,54,LWLWWDLWLLWWWDDWDWDWDDWLDWDDL,1,5,8,11,29,LWWDDWDLLLDWWL,LWDWWWDWWWDWDD
+Vitesse,Heerenveen,4-2,/match/vitesse/heerenveen/2017,2017,30,eredivisie,18,34,0,4,2,7,48,13,6,10,44,34,LLLDWWWWDDLLDDWLWWDWLLLLWWWWL,7,2,5,24,17,8,48,11,7,11,49,40,DDWWWLLDLWDWDLLWWWWDWLWWDWLWW,4,2,8,24,26,LDWWLLDWWWLLWW,DWLLLDWLWWWWWW
+ADO Den Haag,Groningen,4-3,/match/ado-den-haag/fc-groningen/2017,2017,30,eredivisie,18,34,0,4,3,17,32,8,4,17,27,50,WLLDWWLWLDLWWWLWWWLWLWLDDWWWL,5,2,7,13,16,10,41,7,12,10,38,40,LWLDDLDWLWWDWLWWDLDDDWDLDWDDW,3,5,6,19,18,WDLLLWLWLLLDWW,WDLWWDLWLDWDWD
+NEC Nijmegen,Ajax,1-5,/match/nec/ajax/2017,2017,30,eredivisie,18,34,2,1,5,12,35,7,7,15,27,49,DDWWLWDLLDDDWWWWDLWWLWWLWWLWW,5,4,5,18,19,2,74,21,6,2,62,19,LDLLWLWWLDWDWLWWDLLWLWLWDWDWW,9,4,1,23,8,DWLDLDDWWWLLWL,LLLLDDLWLLLLDD
+Go Ahead Eagles,Heracles,1-4,/match/go-ahead-eagles/heracles/2017,2017,30,eredivisie,18,34,2,1,4,18,26,6,5,18,28,57,WDWLWWDWWLWWWLLWDLDLLWWLDLLLW,4,1,9,16,25,9,42,9,7,13,41,48,DWLDWLDDDWDLWWWWWLWLLDWWWWWWL,2,4,8,14,29,DLWWLWLLLLWLLL,DDWDDWLWWWLWWW
+AZ Alkmaar,Roda JC,1-1,/match/az/roda-jc/2017,2017,30,eredivisie,18,34,1,1,1,6,48,10,12,7,48,44,DWLWWLDDDWLDDWDLLLDWLLDDDWWDW,4,8,2,26,20,15,34,5,11,13,21,45,DDLDWLWLLDDDDDDWDLWWLDWWWWLWW,1,6,7,8,28,DWWDDDWLDLDDWD,DDWWLDDDWWDWWW
+PEC Zwolle,Feyenoord,2-2,/match/fc-zwolle/feyenoord/2017,2017,30,eredivisie,18,34,1,2,2,14,35,8,7,14,32,53,DLLWDLWWDLWDWLWDWLLLLWWDWWLDW,4,4,6,14,23,1,77,23,3,3,77,19,LWLWWLWLLDDWWDWLWLWWLWLWWWLWW,10,1,3,26,9,LLDLWWDLDLLWWD,LLLLLWDLLLLWLW
+Utrecht,Twente 1965,3-0,/match/fc-utrecht/fc-twente-1965/2017,2017,30,eredivisie,18,34,0,3,0,4,53,14,8,7,46,34,LDLDDLWWWLDWDDLWDLLLWWWLDWLWL,7,3,4,23,17,5,49,11,9,9,41,39,LWLWWWWDDLDDDWDWLWWLLDWDWWLLD,4,5,5,19,22,LLLWWDWDWLWWDW,WLWDLDWDWLDDWL
+PSV,Willem II,5-0,/match/psv/willem-ii/2017,2017,30,eredivisie,18,34,0,5,0,3,69,19,8,2,56,20,LWLDLLLDDWLDDWDWDWWLLWWWWLWLD,10,3,1,25,8,11,38,8,9,12,26,34,LWLDWDDLDLWWDLDDWLWWLLDLWWDWL,4,4,6,12,15,WDLDWDWWWWWWWW,WLWDDWLDWLLWDW
+Heracles,AZ Alkmaar,1-2,/match/heracles/az/2017,2017,31,eredivisie,18,34,2,1,2,9,44,10,7,13,45,49,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLL,7,3,5,27,19,6,50,10,13,7,49,45,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWD,6,4,5,22,24,WLLDDWWWLLDWWWL,WLLDWLDDLLWLDWW
+Roda JC,Sparta Rotterdam,3-1,/match/roda-jc/sparta-rotterdam/2017,2017,31,eredivisie,18,34,0,3,1,16,35,5,12,13,22,46,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWD,4,5,6,13,17,15,35,7,7,16,37,56,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWL,2,3,10,14,33,DLLLDDDDLWLWWLW,LWDWWDWWWDWWLWW
+ADO Den Haag,PSV,1-1,/match/ado-den-haag/psv/2017,2017,31,eredivisie,18,34,1,1,1,13,36,9,4,17,31,53,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLW,6,2,7,17,19,3,73,20,8,2,61,20,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDW,9,5,1,31,12,WDLLLWLWLLLDWWW,LLLLDLDDDLLWLLD
+Excelsior,Vitesse,1-0,/match/excelsior/vitesse/2017,2017,31,eredivisie,18,34,0,1,0,17,35,6,10,14,37,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLL,4,5,6,23,25,5,52,14,6,10,48,36,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLW,6,4,5,20,17,WLWLLLWDDDDLWDL,LLWWDDDLWDLLWWL
+Twente 1965,NEC Nijmegen,3-0,/match/fc-twente-1965/nec/2017,2017,31,eredivisie,18,34,0,3,0,7,49,11,9,10,41,42,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDW,7,4,4,22,17,14,35,7,7,16,28,54,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWL,2,3,10,9,30,LWWWDDDWLWLWWLD,DWWLDWWDLWWWWWW
+Willem II,Go Ahead Eagles,2-0,/match/willem-ii/go-ahead-eagles/2017,2017,31,eredivisie,18,34,0,2,0,11,38,8,9,13,26,39,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLW,4,5,6,14,19,18,26,6,5,19,29,61,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWL,2,4,9,12,32,LDDLLWDDWLWLDWL,WWWDWWWWDDLWDLW
+Feyenoord,Utrecht,2-0,/match/feyenoord/fc-utrecht/2017,2017,31,eredivisie,18,34,0,2,0,1,78,23,4,3,79,21,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWD,13,2,0,51,10,4,57,15,8,7,49,34,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLW,7,5,3,23,17,WWWWDDWWWWWWWWW,DDDWLDLDLLWLWLL
+Groningen,PEC Zwolle,5-1,/match/fc-groningen/fc-zwolle/2017,2017,31,eredivisie,18,34,0,5,1,10,41,7,12,11,41,44,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWW,4,7,4,19,22,12,37,8,8,14,34,55,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWD,4,3,8,18,30,LLDDLWWWDDDLDDW,DWWDLWWWLLWDWLW
+Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2017,2017,31,eredivisie,18,34,0,5,1,2,76,22,6,2,67,20,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWL,12,2,1,39,11,8,48,11,7,12,51,44,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWW,4,2,9,26,30,DLWWWWWWDWWWWWW,DWLLLDWLWWWWWWW
+Heerenveen,Willem II,1-0,/match/heerenveen/willem-ii/2017,2017,32,eredivisie,18,34,0,1,0,8,48,11,7,13,52,49,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWWW,7,5,3,25,14,11,42,9,9,13,28,39,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLWW,4,4,7,12,20,DWWDWDLWWDLWDLW,WLWDDWLDWLLWDWW
+NEC Nijmegen,Excelsior,0-1,/match/nec/excelsior/2017,2017,32,eredivisie,18,34,2,0,1,16,35,7,7,17,28,57,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWLW,5,4,6,19,24,13,39,7,10,14,38,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLLW,2,5,8,14,31,DWLDLDDWWWLLWLL,LWDWWWDWWWDWDDL
+PEC Zwolle,Heracles,1-2,/match/fc-zwolle/heracles/2017,2017,32,eredivisie,18,34,2,1,2,15,37,8,8,15,35,60,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWDW,4,5,6,16,25,10,44,10,7,14,46,51,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLLL,3,4,8,18,30,LLDLWWDLDLLWWDD,DDWDDWLWWWLWWWL
+AZ Alkmaar,Twente 1965,2-1,/match/az/fc-twente-1965/2017,2017,32,eredivisie,18,34,0,2,1,7,52,11,13,7,51,46,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWDL,4,9,2,27,21,5,53,12,9,10,44,42,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDWW,4,5,6,19,25,DWWDDDWLDLDDWDD,WLWDLDWDWLDDWLW
+Go Ahead Eagles,Groningen,2-3,/match/go-ahead-eagles/fc-groningen/2017,2017,32,eredivisie,18,34,2,2,3,18,26,6,5,20,29,63,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWLW,4,1,10,17,29,9,45,8,12,11,46,45,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWWW,3,5,7,22,22,DLWWLWLLLLWLLLL,WDLWWDLWLDWDWDW
+Utrecht,Roda JC,1-0,/match/fc-utrecht/roda-jc/2017,2017,32,eredivisie,18,34,0,1,0,4,57,15,8,8,49,36,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLWW,8,3,4,26,17,12,39,6,12,13,25,47,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWDW,1,7,7,9,29,LLLWWDWDWLWWDWW,DDWWLDDDWWDWWWD
+Sparta Rotterdam,ADO Den Haag,0-1,/match/sparta-rotterdam/ado-den-haag/2017,2017,32,eredivisie,18,34,2,0,1,17,35,7,7,17,38,59,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWLW,5,4,6,23,23,14,38,9,5,17,32,54,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLWD,3,2,10,14,34,LWWDDWDLLLDWWLL,LLWWWDWWWWWWDWL
+Vitesse,Feyenoord,0-2,/match/vitesse/feyenoord/2017,2017,32,eredivisie,18,34,2,0,2,6,52,14,6,11,48,37,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLWW,8,2,5,28,19,1,82,24,4,3,81,21,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWDW,10,2,3,28,11,LDWWLLDWWWLLWWW,LLLLLWDLLLLWLWD
+PSV,Ajax,1-0,/match/psv/ajax/2017,2017,32,eredivisie,18,34,0,1,0,3,74,20,9,2,62,21,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDWD,11,3,1,30,8,2,80,23,6,2,72,21,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWLW,10,4,1,28,9,WDLDWDWWWWWWWWW,LLLLDDLWLLLLDDL
+Ajax,Go Ahead Eagles,4-0,/match/ajax/go-ahead-eagles/2017,2017,33,eredivisie,18,34,0,4,0,2,80,23,6,3,72,22,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWLWW,13,2,1,44,12,18,26,6,5,21,31,66,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWLWL,2,4,10,12,34,DLWWWWWWDWWWWWWW,WWWDWWWWDDLWDLWW
+Excelsior,Feyenoord,3-0,/match/excelsior/feyenoord/2017,2017,33,eredivisie,18,34,0,3,0,12,41,8,10,14,39,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLLWL,5,5,6,24,25,1,84,25,4,3,83,21,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWDWL,11,2,3,30,11,WLWLLLWDDDDLWDLW,LLLLLWDLLLLWLWDL
+Groningen,PSV,1-1,/match/fc-groningen/psv/2017,2017,33,eredivisie,18,34,1,1,1,9,47,9,12,11,49,47,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWWWL,5,7,4,24,23,3,78,21,9,2,63,21,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDWDW,9,6,1,32,13,LLDDLWWWDDDLDDWW,LLLLDLDDDLLWLLDD
+Heracles,ADO Den Haag,4-0,/match/heracles/ado-den-haag/2017,2017,33,eredivisie,18,34,0,4,0,10,46,11,7,14,48,52,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLLLL,7,3,6,28,21,13,40,10,5,17,33,54,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLWDL,4,2,10,15,34,WLLDDWWWLLDWWWLL,LLWWWDWWWWWWDWLL
+NEC Nijmegen,AZ Alkmaar,2-1,/match/nec/az/2017,2017,33,eredivisie,18,34,0,2,1,16,35,7,7,18,28,58,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWLWL,5,4,7,19,25,5,56,12,13,7,53,47,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWDLW,7,4,5,24,25,DWLDLDDWWWLLWLLL,WLLDWLDDLLWLDWWL
+Roda JC,Willem II,1-0,/match/roda-jc/willem-ii/2017,2017,33,eredivisie,18,34,0,1,0,14,39,6,12,14,25,48,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWDWW,5,5,6,16,18,11,42,9,9,14,28,40,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLWWW,4,4,8,12,21,DLLLDDDDLWLWWLWW,WLWDDWLDWLLWDWWW
+Utrecht,Vitesse,1-0,/match/fc-utrecht/vitesse/2017,2017,33,eredivisie,18,34,0,1,0,4,61,16,8,8,50,36,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLWWW,9,3,4,27,17,7,52,14,6,12,48,39,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLWWL,6,4,6,20,18,LLLWWDWDWLWWDWWW,LLWWDDDLWDLLWWLW
+PEC Zwolle,Heerenveen,2-1,/match/fc-zwolle/heerenveen/2017,2017,33,eredivisie,18,34,0,2,1,15,37,8,8,16,36,62,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWDWL,4,5,7,17,27,8,52,12,7,13,53,49,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWWWW,4,2,10,27,35,LLDLWWDLDLLWWDDL,DWLLLDWLWWWWWWWW
+Sparta Rotterdam,Twente 1965,1-0,/match/sparta-rotterdam/fc-twente-1965/2017,2017,33,eredivisie,18,34,0,1,0,17,35,7,7,18,38,60,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWLWL,5,4,7,23,24,6,53,12,9,11,45,44,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDWWW,4,5,7,20,27,LWWDDWDLLLDWWLLL,WLWDLDWDWLDDWLWW
+AZ Alkmaar,Utrecht,2-3,/match/az/fc-utrecht/2017,2017,34,eredivisie,18,34,2,2,3,5,56,12,13,8,54,49,DWLWWLDDDWLDDWDLLLDWLLDDDWWDWDLWW,5,9,2,29,22,4,65,17,8,8,51,36,LDLDDLWWWLDWDDLWDLLLWWWLDWLWLWWWW,7,5,4,23,19,DWWDDDWLDLDDWDDW,DDDWLDLDLLWLWLLW
+ADO Den Haag,Excelsior,4-1,/match/ado-den-haag/excelsior/2017,2017,34,eredivisie,18,34,0,4,1,15,40,10,5,18,33,58,WLLDWWLWLDLWWWLWWWLWLWLDDWWWLWDLW,6,3,7,18,20,11,45,9,10,14,42,56,LWLWWDLWLLWWWDDWDWDWDDWLDWDDLLWLW,3,5,8,15,31,WDLLLWLWLLLDWWWD,LWDWWWDWWWDWDDLL
+Feyenoord,Heracles,3-1,/match/feyenoord/heracles/2017,2017,34,eredivisie,18,34,0,3,1,1,84,25,4,4,83,24,LWLWWLWLLDDWWDWLWLWWLWLWWWLWWDWLW,14,2,0,53,10,9,50,12,7,14,52,52,DWLDWLDDDWDLWWWWWLWLLDWWWWWWLLLLW,4,4,8,20,31,WWWWDDWWWWWWWWWW,DDWDDWLWWWLWWWLL
+Go Ahead Eagles,Sparta Rotterdam,1-3,/match/go-ahead-eagles/sparta-rotterdam/2017,2017,34,eredivisie,18,34,2,1,3,18,26,6,5,22,31,70,WDWLWWDWWLWWWLLWDLDLLWWLDLLLWLWLW,4,1,11,19,32,17,39,8,7,18,39,60,LLWWDWWDDWDWWDWLWLDWLWDLWWWLWLWLW,2,3,11,15,36,DLWWLWLLLLWLLLLL,LWDWWDWWWDWWLWWW
+Heerenveen,NEC Nijmegen,0-2,/match/heerenveen/nec/2017,2017,34,eredivisie,18,34,2,0,2,8,52,12,7,14,54,51,DDWWWLLDLWDWDLLWWWWDWLWWDWLWWWWWW,8,5,3,26,14,16,39,8,7,18,30,59,DDWWLWDLLDDDWWWWDLWWLWWLWWLWWLWLW,2,3,11,9,33,DWWDWDLWWDLWDLWW,DWWLDWWDLWWWWWWW
+PSV,PEC Zwolle,4-1,/match/psv/fc-zwolle/2017,2017,34,eredivisie,18,34,0,4,1,3,79,21,10,2,64,22,LWLDLLLDDWLDDWDWDWWLLWWWWLWLDWDWD,12,3,1,31,8,14,41,9,8,16,38,63,DLLWDLWWDLWDWLWDWLLLLWWDWWLDWDWLW,4,3,9,19,35,WDLDWDWWWWWWWWWW,DWWDLWWWLLWDWLWW
+Vitesse,Roda JC,3-0,/match/vitesse/roda-jc/2017,2017,34,eredivisie,18,34,0,3,0,7,52,14,6,13,48,40,LLLDWWWWDDLLDDWLWWDWLLLLWWWWLWWLW,8,2,6,28,21,12,43,7,12,14,26,48,DDLDWLWLLDDDDDDWDLWWLDWWWWLWWDWWW,1,7,8,9,30,LDWWLLDWWWLLWWWL,DDWWLDDDWWDWWWDW
+Willem II,Ajax,1-3,/match/willem-ii/ajax/2017,2017,34,eredivisie,18,34,2,1,3,13,42,9,9,15,28,41,LWLDWDDLDLWWDLDDWLWWLLDLWWDWLWWWW,5,5,6,16,19,2,84,24,6,3,76,22,LDLLWLWWLDWDWLWWDLLWLWLWDWDWWLWWW,10,4,2,28,10,LDDLLWDDWLWLDWLW,LLLLDDLWLLLLDDLW
+Twente 1965,Groningen,3-5,/match/fc-twente-1965/fc-groningen/2017,2017,34,eredivisie,18,34,2,3,5,6,53,12,9,12,45,45,LWLWWWWDDLDDDWDWLWWLLDWDWWLLDWWWW,8,4,4,25,17,10,49,9,13,11,50,48,LWLDDLDWLWWDWLWWDLDDDWDLDWDDWWWLD,4,5,7,25,24,LWWWDDDWLWLWWLDW,WDLWWDLWLDWDWDWL

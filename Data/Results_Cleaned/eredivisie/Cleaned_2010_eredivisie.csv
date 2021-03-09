@@ -1,307 +1,307 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Heerenveen,Roda JC,0-0,/match/heerenveen/roda-jc/2010,2010,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Willem II,Vitesse,3-1,/match/willem-ii/vitesse/2010,2010,1,eredivisie,18,34,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Heracles,AZ Alkmaar,3-2,/match/heracles/az/2010,2010,1,eredivisie,18,34,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sparta Rotterdam,Twente 1965,0-2,/match/sparta-rotterdam/fc-twente-1965/2010,2010,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-RKC Waalwijk,Utrecht,0-1,/match/rkc-waalwijk/fc-utrecht/2010,2010,1,eredivisie,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-ADO Den Haag,NAC Breda,1-2,/match/ado-den-haag/nac-breda/2010,2010,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Feyenoord,NEC Nijmegen,2-0,/match/feyenoord/nec/2010,2010,1,eredivisie,18,34,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Groningen,Ajax,0-2,/match/fc-groningen/ajax/2010,2010,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-PSV,VVV Venlo,3-3,/match/psv/vvv/2010,2010,1,eredivisie,18,34,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-NEC Nijmegen,Heerenveen,4-1,/match/nec/heerenveen/2010,2010,2,eredivisie,18,34,0,4,1,17,0,0,1,0,2,W,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
-AZ Alkmaar,Sparta Rotterdam,2-0,/match/az/sparta-rotterdam/2010,2010,2,eredivisie,18,34,0,2,0,14,0,0,1,2,3,W,0,0,0,0,0,18,0,0,1,0,2,L,0,0,0,0,0,,
-Ajax,RKC Waalwijk,4-1,/match/ajax/rkc-waalwijk/2010,2010,2,eredivisie,18,34,0,4,1,6,1,0,0,2,0,L,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
-Roda JC,Groningen,1-1,/match/roda-jc/fc-groningen/2010,2010,2,eredivisie,18,34,1,1,1,10,0,1,0,0,0,D,0,0,0,0,0,12,0,0,1,0,2,L,0,0,0,0,0,,
-NAC Breda,Heracles,0-0,/match/nac-breda/heracles/2010,2010,2,eredivisie,18,34,1,0,0,5,1,0,0,2,1,L,0,0,0,0,0,1,1,0,0,3,2,W,0,0,0,0,0,,
-Vitesse,Feyenoord,0-0,/match/vitesse/feyenoord/2010,2010,2,eredivisie,18,34,1,0,0,15,0,0,1,1,3,W,0,0,0,0,0,3,1,0,0,2,0,W,0,0,0,0,0,,
-Twente 1965,PSV,1-1,/match/fc-twente-1965/psv/2010,2010,2,eredivisie,18,34,1,1,1,9,1,0,0,2,0,L,0,0,0,0,0,7,0,1,0,3,3,D,0,0,0,0,0,,
-Utrecht,Willem II,1-0,/match/fc-utrecht/willem-ii/2010,2010,2,eredivisie,18,34,0,1,0,4,1,0,0,1,0,L,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
-VVV Venlo,ADO Den Haag,2-2,/match/vvv/ado-den-haag/2010,2010,2,eredivisie,18,34,1,2,2,11,0,1,0,3,3,D,0,0,0,0,0,13,0,0,1,1,2,L,0,0,0,0,0,,
-Sparta Rotterdam,Willem II,2-1,/match/sparta-rotterdam/willem-ii/2010,2010,3,eredivisie,18,34,0,2,1,18,0,0,2,0,4,LW,0,0,1,0,2,9,1,0,1,3,2,WW,0,0,1,0,1,L,W
-ADO Den Haag,Twente 1965,0-1,/match/ado-den-haag/fc-twente-1965/2010,2010,3,eredivisie,18,34,2,0,1,16,0,1,1,3,4,LD,0,0,1,1,2,8,1,1,0,3,1,LD,1,0,0,2,0,L,L
-RKC Waalwijk,AZ Alkmaar,0-6,/match/rkc-waalwijk/az/2010,2010,3,eredivisie,18,34,2,0,6,17,0,0,2,1,5,LW,0,0,1,0,1,7,1,0,1,4,3,WW,0,0,1,2,3,L,W
-Heerenveen,Vitesse,1-0,/match/heerenveen/vitesse/2010,2010,3,eredivisie,18,34,0,1,0,13,0,1,1,1,4,DW,0,1,0,0,0,14,0,1,1,1,3,WD,0,0,1,1,3,D,W
-PSV,Ajax,4-3,/match/psv/ajax/2010,2010,3,eredivisie,18,34,0,4,3,12,0,2,0,4,4,DD,0,1,0,3,3,2,2,0,0,6,1,LW,1,0,0,2,0,D,L
-Roda JC,NEC Nijmegen,1-0,/match/roda-jc/nec/2010,2010,3,eredivisie,18,34,0,1,0,11,0,2,0,1,1,DD,0,1,0,1,1,6,1,0,1,4,3,WW,0,0,1,0,2,D,W
-Heracles,Feyenoord,0-1,/match/heracles/feyenoord/2010,2010,3,eredivisie,18,34,2,0,1,3,1,1,0,3,2,WD,1,0,0,3,2,4,1,1,0,2,0,WD,0,1,0,0,0,W,D
-Utrecht,VVV Venlo,2-2,/match/fc-utrecht/vvv/2010,2010,3,eredivisie,18,34,1,2,2,1,2,0,0,2,0,LW,1,0,0,1,0,10,0,2,0,5,5,DD,0,1,0,3,3,W,D
-Groningen,NAC Breda,1-2,/match/fc-groningen/nac-breda/2010,2010,3,eredivisie,18,34,2,1,2,15,0,1,1,1,3,LD,0,0,1,0,2,5,1,1,0,2,1,LD,1,0,0,2,1,L,L
-Vitesse,ADO Den Haag,1-3,/match/vitesse/ado-den-haag/2010,2010,4,eredivisie,18,34,2,1,3,15,0,1,2,1,4,WDW,0,1,0,0,0,17,0,1,2,3,5,LDL,0,1,0,2,2,D,D
-Willem II,Heracles,0-1,/match/willem-ii/heracles/2010,2010,4,eredivisie,18,34,2,0,1,12,1,0,2,4,4,WWW,1,0,0,3,1,10,1,1,1,3,3,WDL,0,1,0,0,0,W,D
-VVV Venlo,Groningen,2-2,/match/vvv/fc-groningen/2010,2010,4,eredivisie,18,34,1,2,2,11,0,3,0,7,7,DDD,0,1,0,2,2,16,0,1,2,2,5,LDL,0,1,0,1,1,D,D
-Twente 1965,RKC Waalwijk,2-1,/match/fc-twente-1965/rkc-waalwijk/2010,2010,4,eredivisie,18,34,0,2,1,8,2,1,0,4,1,LDL,0,1,0,1,1,18,0,0,3,1,11,LWL,0,0,1,1,4,D,W
-Ajax,Sparta Rotterdam,0-0,/match/ajax/sparta-rotterdam/2010,2010,4,eredivisie,18,34,1,0,0,9,2,0,1,9,5,LWW,1,0,0,4,1,14,1,0,2,2,5,LWW,0,0,1,0,2,W,W
-Heerenveen,AZ Alkmaar,0-2,/match/heerenveen/az/2010,2010,4,eredivisie,18,34,2,0,2,6,1,1,1,2,4,DWW,1,1,0,1,0,7,2,0,1,10,3,WWL,1,0,1,8,3,DW,WL
-PSV,NAC Breda,3-1,/match/psv/nac-breda/2010,2010,4,eredivisie,18,34,0,3,1,4,1,2,0,8,7,DDW,1,1,0,7,6,5,2,1,0,4,2,LDL,2,0,0,4,2,DW,LL
-Feyenoord,Roda JC,4-0,/match/feyenoord/roda-jc/2010,2010,4,eredivisie,18,34,0,4,0,3,2,1,0,3,0,WDL,1,0,0,2,0,2,1,2,0,2,1,DDW,0,1,0,0,0,W,D
-NEC Nijmegen,Utrecht,1-1,/match/nec/fc-utrecht/2010,2010,4,eredivisie,18,34,1,1,1,13,1,0,2,4,4,WWW,1,0,0,4,1,1,2,1,0,4,2,LWD,1,0,0,1,0,W,L
-RKC Waalwijk,ADO Den Haag,0-2,/match/rkc-waalwijk/ado-den-haag/2010,2010,5,eredivisie,18,34,2,0,2,18,0,0,4,2,13,LWLW,0,0,2,0,7,15,1,1,2,6,6,LDLL,1,1,0,5,3,LL,DL
-Roda JC,Vitesse,3-4,/match/roda-jc/vitesse/2010,2010,5,eredivisie,18,34,2,3,4,7,1,2,1,2,5,DDWW,1,1,0,2,1,16,0,1,3,2,7,WDWL,0,0,2,1,4,DW,WW
-NEC Nijmegen,VVV Venlo,1-1,/match/nec/vvv/2010,2010,5,eredivisie,18,34,1,1,1,12,1,1,2,5,5,WWWD,1,1,0,5,2,11,0,4,0,9,9,DDDD,0,2,0,5,5,WD,DD
-AZ Alkmaar,Willem II,2-1,/match/az/willem-ii/2010,2010,5,eredivisie,18,34,0,2,1,6,3,0,1,12,3,WWLL,1,0,0,2,0,14,1,0,3,4,5,WWWL,0,0,2,1,3,W,WW
-Utrecht,Sparta Rotterdam,2-0,/match/fc-utrecht/sparta-rotterdam/2010,2010,5,eredivisie,18,34,0,2,0,4,2,2,0,5,3,LWDD,1,1,0,3,2,13,1,1,2,2,5,LWWD,0,1,1,0,2,WD,WD
-Feyenoord,Twente 1965,1-1,/match/feyenoord/fc-twente-1965/2010,2010,5,eredivisie,18,34,1,1,1,1,3,1,0,7,0,WDLW,2,0,0,6,0,3,3,1,0,6,2,LDLW,2,0,0,3,0,WW,LL
-Groningen,PSV,0-2,/match/fc-groningen/psv/2010,2010,5,eredivisie,18,34,2,0,2,17,0,2,2,4,7,LDLD,0,0,2,1,4,2,2,2,0,11,8,DDWW,0,1,0,1,1,LL,D
-NAC Breda,Heerenveen,2-0,/match/nac-breda/heerenveen/2010,2010,5,eredivisie,18,34,0,2,0,10,2,1,1,5,5,LDLW,0,1,0,0,0,9,1,1,2,2,6,DWWL,0,0,1,1,4,D,W
-Heracles,Ajax,0-3,/match/heracles/ajax/2010,2010,5,eredivisie,18,34,2,0,3,8,2,1,1,4,3,WDLL,1,0,1,3,3,5,2,1,1,9,5,LWWD,1,0,1,5,4,WL,LW
-PSV,Roda JC,3-0,/match/psv/roda-jc/2010,2010,6,eredivisie,18,34,0,3,0,3,3,2,0,13,8,DDWWL,2,1,0,10,7,9,1,2,2,5,9,DDWWL,0,1,1,0,4,DWW,DW
-Twente 1965,Utrecht,3-2,/match/fc-twente-1965/fc-utrecht/2010,2010,6,eredivisie,18,34,0,3,2,5,3,2,0,7,3,LDLWD,1,1,0,3,2,2,3,2,0,7,3,LWDDW,1,1,0,2,1,DW,LD
-Heerenveen,Groningen,0-1,/match/heerenveen/fc-groningen/2010,2010,6,eredivisie,18,34,2,0,1,12,1,1,3,2,8,DWWLW,1,1,1,1,2,17,0,2,3,4,9,LDLDL,0,2,0,3,3,DWL,DD
-ADO Den Haag,AZ Alkmaar,2-1,/match/ado-den-haag/az/2010,2010,6,eredivisie,18,34,0,2,1,14,2,1,2,8,6,LDLLL,0,0,2,1,3,4,4,0,1,14,4,WWLLW,2,0,1,10,3,LL,WLL
-Willem II,Feyenoord,2-3,/match/willem-ii/feyenoord/2010,2010,6,eredivisie,18,34,2,2,3,15,1,0,4,5,7,WWWLW,1,0,1,3,2,1,3,2,0,8,1,WDLWD,1,1,0,1,0,WL,DL
-Sparta Rotterdam,RKC Waalwijk,1-0,/match/sparta-rotterdam/rkc-waalwijk/2010,2010,6,eredivisie,18,34,0,1,0,13,1,1,3,2,7,LWWDW,1,0,1,2,3,18,0,0,5,2,15,LWLWL,0,0,2,2,6,LW,WW
-Ajax,NAC Breda,6-0,/match/ajax/nac-breda/2010,2010,6,eredivisie,18,34,0,6,0,7,3,1,1,12,5,LWWDL,1,1,0,4,1,6,3,1,1,7,5,LDLWW,2,0,1,5,5,WD,LLW
-VVV Venlo,Heracles,1-0,/match/vvv/heracles/2010,2010,6,eredivisie,18,34,0,1,0,11,0,5,0,10,10,DDDDD,0,2,0,4,4,10,2,1,2,4,6,WDLLL,1,1,0,1,0,DD,DL
-Vitesse,NEC Nijmegen,2-2,/match/vitesse/nec/2010,2010,6,eredivisie,18,34,1,2,2,16,1,1,3,6,10,WDWLL,0,1,1,1,3,8,1,2,2,6,6,WWWDD,0,0,2,0,3,DL,WW
-Willem II,Groningen,2-1,/match/willem-ii/fc-groningen/2010,2010,7,eredivisie,18,34,0,2,1,16,1,0,5,7,10,WWWLWL,1,0,2,5,5,17,1,2,3,5,9,LDLDLL,1,2,0,4,3,WLL,DDL
-Heracles,Sparta Rotterdam,1-1,/match/heracles/sparta-rotterdam/2010,2010,7,eredivisie,18,34,1,1,1,12,2,1,3,4,7,WDLLLW,1,0,2,3,6,9,2,1,3,3,7,LWWDWW,0,1,2,0,4,WLL,WDW
-Vitesse,RKC Waalwijk,3-1,/match/vitesse/rkc-waalwijk/2010,2010,7,eredivisie,18,34,0,3,1,15,1,2,3,8,12,WDWLLD,0,2,1,3,5,18,0,0,6,2,16,LWLWLW,0,0,3,2,7,DLD,WWW
-Roda JC,NAC Breda,2-0,/match/roda-jc/nac-breda/2010,2010,7,eredivisie,18,34,0,2,0,13,1,2,3,5,12,DDWWLW,1,1,1,5,5,8,3,1,2,7,11,LDLWWW,2,0,2,5,11,DWL,LLWW
-AZ Alkmaar,NEC Nijmegen,0-1,/match/az/nec/2010,2010,7,eredivisie,18,34,2,0,1,6,4,0,2,15,6,WWLLWW,2,0,0,4,1,10,1,3,2,8,8,WWWDDD,0,1,2,2,5,WW,WWD
-ADO Den Haag,Utrecht,0-1,/match/ado-den-haag/fc-utrecht/2010,2010,7,eredivisie,18,34,2,0,1,11,3,1,2,10,7,LDLLLW,1,0,2,3,4,5,3,2,1,9,6,LWDDWW,1,1,1,4,4,LLW,LDW
-Heerenveen,Twente 1965,0-2,/match/heerenveen/fc-twente-1965/2010,2010,7,eredivisie,18,34,2,0,2,14,1,1,4,2,9,DWWLWL,1,1,2,1,3,3,4,2,0,10,5,LDLWDW,2,1,0,4,1,DWLL,LLD
-Feyenoord,PSV,1-3,/match/feyenoord/psv/2010,2010,7,eredivisie,18,34,2,1,3,2,4,2,0,11,3,WDLWDL,2,1,0,7,1,1,4,2,0,16,8,DDWWLW,1,1,0,3,1,WWD,DL
-VVV Venlo,Ajax,0-4,/match/vvv/ajax/2010,2010,7,eredivisie,18,34,2,0,4,7,1,5,0,11,10,DDDDDW,1,2,0,5,4,4,4,1,1,18,5,LWWDLW,2,0,1,8,4,DDW,LWL
-Utrecht,AZ Alkmaar,1-0,/match/fc-utrecht/az/2010,2010,8,eredivisie,18,34,0,1,0,5,4,2,1,10,6,LWDDWWL,2,1,0,5,2,6,4,0,3,15,7,WWLLWWL,2,0,2,11,5,WDW,WLLW
-PSV,Willem II,3-1,/match/psv/willem-ii/2010,2010,8,eredivisie,18,34,0,3,1,1,5,2,0,19,9,DDWWLWL,3,1,0,13,7,15,2,0,5,9,11,WWWLWLW,0,0,3,2,5,DWWW,WWW
-RKC Waalwijk,Roda JC,4-1,/match/rkc-waalwijk/roda-jc/2010,2010,8,eredivisie,18,34,0,4,1,18,0,0,7,3,19,LWLWLWW,0,0,3,0,9,7,2,2,3,7,12,DDWWLWW,0,1,2,0,7,LLL,DWW
-Twente 1965,VVV Venlo,2-1,/match/fc-twente-1965/vvv/2010,2010,8,eredivisie,18,34,0,2,1,2,5,2,0,12,5,LDLWDWL,2,1,0,6,4,9,1,5,1,11,14,DDDDDWL,0,3,0,6,6,DWW,DDD
-Ajax,ADO Den Haag,3-0,/match/ajax/ado-den-haag/2010,2010,8,eredivisie,18,34,0,3,0,3,5,1,1,22,5,LWWDLWL,2,1,0,10,1,13,3,1,3,10,8,LDLLLWL,2,1,0,7,3,WDW,DLL
-Groningen,Vitesse,1-0,/match/fc-groningen/vitesse/2010,2010,8,eredivisie,18,34,0,1,0,17,1,2,4,6,11,LDLDLLW,0,0,3,1,6,12,2,2,3,11,13,WDWLLDW,1,0,2,5,7,LLL,WWL
-Sparta Rotterdam,Heerenveen,0-2,/match/sparta-rotterdam/heerenveen/2010,2010,8,eredivisie,18,34,2,0,2,10,2,2,3,4,8,LWWDWWD,2,0,1,3,3,16,1,1,5,2,11,DWWLWLL,0,0,2,1,6,LWW,WW
-NAC Breda,Feyenoord,0-2,/match/nac-breda/feyenoord/2010,2010,8,eredivisie,18,34,2,0,2,11,3,1,3,7,13,LDLWWWW,1,1,0,2,0,4,4,2,1,12,6,WDLWDLL,2,1,0,4,2,DW,DLL
-NEC Nijmegen,Heracles,0-2,/match/nec/heracles/2010,2010,8,eredivisie,18,34,2,0,2,8,2,3,2,9,8,WWWDDDL,1,2,0,6,3,14,2,2,3,5,8,WDLLLWD,1,1,1,1,1,WDD,DLW
-Vitesse,Sparta Rotterdam,2-0,/match/vitesse/sparta-rotterdam/2010,2010,9,eredivisie,18,34,0,2,0,11,2,2,4,11,14,WDWLLDWW,1,2,1,6,6,12,2,2,4,4,10,LWWDWWDL,0,2,2,1,5,DLDW,WDWD
-ADO Den Haag,Groningen,1-1,/match/ado-den-haag/fc-groningen/2010,2010,9,eredivisie,18,34,1,1,1,14,3,1,4,10,11,LDLLLWLW,1,0,3,3,5,17,2,2,4,7,11,LDLDLLWW,1,2,1,5,5,LLWL,DDLW
-AZ Alkmaar,NAC Breda,1-0,/match/az/nac-breda/2010,2010,9,eredivisie,18,34,0,1,0,6,4,0,4,15,8,WWLLWWLW,2,0,1,4,2,13,3,1,4,7,15,LDLWWWWL,2,0,3,5,13,WWL,LLWWW
-Willem II,NEC Nijmegen,1-1,/match/willem-ii/nec/2010,2010,9,eredivisie,18,34,1,1,1,15,2,0,6,10,14,WWWLWLWW,2,0,2,7,6,8,2,3,3,9,10,WWWDDDLL,1,1,2,3,5,WLLW,WWDL
-Feyenoord,RKC Waalwijk,3-0,/match/feyenoord/rkc-waalwijk/2010,2010,9,eredivisie,18,34,0,3,0,5,5,2,1,14,6,WDLWDLLL,2,1,1,8,4,18,1,0,7,7,20,LWLWLWWW,0,0,4,3,10,WWDL,WWWW
-Roda JC,Ajax,2-2,/match/roda-jc/ajax/2010,2010,9,eredivisie,18,34,1,2,2,7,2,2,4,8,16,DDWWLWWW,2,1,1,7,5,3,6,1,1,25,5,LWWDLWLW,3,0,1,12,4,DWLW,LWLL
-Heracles,Twente 1965,1-3,/match/heracles/fc-twente-1965/2010,2010,9,eredivisie,18,34,2,1,3,10,3,2,3,7,8,WDLLLWDL,1,1,2,4,7,2,6,2,0,14,6,LDLWDWLW,3,1,0,6,1,WLLD,LLDL
-Heerenveen,VVV Venlo,1-1,/match/heerenveen/vvv/2010,2010,9,eredivisie,18,34,1,1,1,16,2,1,5,4,11,DWWLWLLL,1,1,3,1,5,9,1,5,2,12,16,DDDDDWLW,0,3,1,7,8,DWLLL,DDDW
-Utrecht,PSV,0-0,/match/fc-utrecht/psv/2010,2010,9,eredivisie,18,34,1,0,0,4,5,2,1,11,6,LWDDWWLW,3,1,0,6,2,1,6,2,0,22,10,DDWWLWLW,2,1,0,6,2,WDWW,DLL
-Ajax,Willem II,4-0,/match/ajax/willem-ii/2010,2010,10,eredivisie,18,34,0,4,0,3,6,2,1,27,7,LWWDLWLWD,3,1,0,13,1,15,2,1,6,11,15,WWWLWLWWD,0,0,4,3,8,WDWW,WWWW
-Twente 1965,AZ Alkmaar,3-2,/match/fc-twente-1965/az/2010,2010,10,eredivisie,18,34,0,3,2,2,7,2,0,17,7,LDLWDWLWL,3,1,0,8,5,6,5,0,4,16,8,WWLLWWLWW,2,0,3,11,6,DWWW,WLLWW
-NAC Breda,Vitesse,4-0,/match/nac-breda/vitesse/2010,2010,10,eredivisie,18,34,0,4,0,13,3,1,5,7,16,LDLWWWWLW,1,1,1,2,2,7,3,2,4,13,14,WDWLLDWWW,1,0,3,5,8,DWL,WWLW
-PSV,Heerenveen,1-0,/match/psv/heerenveen/2010,2010,10,eredivisie,18,34,0,1,0,1,6,3,0,22,10,DDWWLWLWD,4,1,0,16,8,16,2,2,5,5,12,DWWLWLLLD,1,0,2,3,6,DWWWW,WWL
-VVV Venlo,Roda JC,1-1,/match/vvv/roda-jc/2010,2010,10,eredivisie,18,34,1,1,1,10,1,6,2,13,17,DDDDDWLWD,1,2,1,5,8,8,2,3,4,10,18,DDWWLWWWD,0,1,3,1,11,DDWL,DWWW
-RKC Waalwijk,Heracles,0-1,/match/rkc-waalwijk/heracles/2010,2010,10,eredivisie,18,34,2,0,1,18,1,0,8,7,23,LWLWLWWWW,1,0,3,4,10,12,3,2,4,8,11,WDLLLWDLL,2,1,1,3,1,LLLW,DLWL
-NEC Nijmegen,ADO Den Haag,1-1,/match/nec/ado-den-haag/2010,2010,10,eredivisie,18,34,1,1,1,9,2,4,3,10,11,WWWDDDLLD,1,2,1,6,5,11,3,2,4,11,12,LDLLLWLWD,2,1,1,7,6,WDDL,DLLW
-Groningen,Utrecht,0-0,/match/fc-groningen/fc-utrecht/2010,2010,10,eredivisie,18,34,1,0,0,17,2,3,4,8,12,LDLDLLWWD,1,0,3,2,6,4,5,3,1,11,6,LWDDWWLWD,2,1,1,5,4,LLLW,LDWL
-Sparta Rotterdam,Feyenoord,2-1,/match/sparta-rotterdam/feyenoord/2010,2010,10,eredivisie,18,34,0,2,1,14,2,2,5,4,12,LWWDWWDLW,2,0,2,3,5,5,6,2,1,17,6,WDLWDLLLW,3,1,0,6,2,LWWL,DLLL
-Utrecht,Roda JC,2-1,/match/fc-utrecht/roda-jc/2010,2010,11,eredivisie,18,34,0,2,1,4,5,4,1,11,6,LWDDWWLWDD,3,2,0,6,2,11,2,4,4,11,19,DDWWLWWWDD,0,2,3,2,12,WDWWD,DWWWD
-ADO Den Haag,Sparta Rotterdam,2-3,/match/ado-den-haag/sparta-rotterdam/2010,2010,11,eredivisie,18,34,2,2,3,14,3,3,4,12,13,LDLLLWLWDD,1,1,3,4,6,7,3,2,5,6,13,LWWDWWDLWW,0,2,3,1,7,LLWLD,WDWDW
-Feyenoord,VVV Venlo,1-0,/match/feyenoord/vvv/2010,2010,11,eredivisie,18,34,0,1,0,5,6,2,2,18,8,WDLWDLLLWW,3,1,1,11,4,9,1,7,2,14,18,DDDDDWLWDD,0,4,1,8,9,WWDLW,DDDWD
-Vitesse,Heracles,0-2,/match/vitesse/heracles/2010,2010,11,eredivisie,18,34,2,0,2,12,3,2,5,13,18,WDWLLDWWWW,2,2,1,8,6,13,4,2,4,9,11,WDLLLWDLLL,3,1,1,4,1,DLDWW,DLWLL
-NAC Breda,RKC Waalwijk,1-0,/match/nac-breda/rkc-waalwijk/2010,2010,11,eredivisie,18,34,0,1,0,8,4,1,5,11,16,LDLWWWWLWW,2,1,1,6,2,18,1,0,9,7,24,LWLWLWWWWL,0,0,5,3,13,DWLW,WWWWW
-Twente 1965,Groningen,4-0,/match/fc-twente-1965/fc-groningen/2010,2010,11,eredivisie,18,34,0,4,0,2,8,2,0,20,9,LDLWDWLWLW,4,1,0,11,7,15,2,4,4,8,12,LDLDLLWWDD,1,3,1,6,6,DWWWW,DDLWD
-AZ Alkmaar,Ajax,2-4,/match/az/ajax/2010,2010,11,eredivisie,18,34,2,2,4,6,5,0,5,18,11,WWLLWWLWWW,3,0,1,5,2,3,7,2,1,31,7,LWWDLWLWDW,3,1,1,14,6,WWLW,LWLLD
-Willem II,Heerenveen,4-1,/match/willem-ii/heerenveen/2010,2010,11,eredivisie,18,34,0,4,1,16,2,1,7,11,19,WWWLWLWWDW,2,1,2,8,7,17,2,2,6,5,13,DWWLWLLLDW,1,0,3,3,7,WLLWD,WWLW
-NEC Nijmegen,PSV,0-4,/match/nec/psv/2010,2010,11,eredivisie,18,34,2,0,4,10,2,5,3,11,12,WWWDDDLLDD,1,3,1,7,6,1,7,3,0,23,10,DDWWLWLWDW,2,2,0,6,2,WDDLD,DLLD
-VVV Venlo,NAC Breda,1-1,/match/vvv/nac-breda/2010,2010,12,eredivisie,18,34,1,1,1,14,1,7,3,14,19,DDDDDWLWDDW,1,3,1,6,9,6,5,1,5,12,16,LDLWWWWLWWW,2,0,4,5,14,DDWLD,LLWWWW
-Heerenveen,ADO Den Haag,3-0,/match/heerenveen/ado-den-haag/2010,2010,12,eredivisie,18,34,0,3,0,17,2,2,7,6,17,DWWLWLLLDWW,1,2,3,2,6,15,3,3,5,14,16,LDLLLWLWDDL,2,2,1,8,7,DWLLLD,DLLWD
-Roda JC,Twente 1965,1-2,/match/roda-jc/fc-twente-1965/2010,2010,12,eredivisie,18,34,2,1,2,13,2,4,5,12,21,DDWWLWWWDDW,2,2,1,9,7,1,9,2,0,24,9,LDLWDWLWLWW,4,1,0,9,2,DWLWD,LLDLL
-PSV,Vitesse,1-0,/match/psv/vitesse/2010,2010,12,eredivisie,18,34,0,1,0,2,8,3,0,27,10,DDWWLWLWDWL,5,1,0,17,8,10,3,2,6,13,20,WDWLLDWWWWL,1,0,4,5,12,DWWWWW,WWLWW
-Groningen,AZ Alkmaar,0-1,/match/fc-groningen/az/2010,2010,12,eredivisie,18,34,2,0,1,16,2,4,5,8,16,LDLDLLWWDDW,1,1,3,2,6,7,5,0,6,20,15,WWLLWWLWWWL,2,0,4,13,9,LLLWD,WLLWWW
-Ajax,Feyenoord,5-1,/match/ajax/feyenoord/2010,2010,12,eredivisie,18,34,0,5,1,3,8,2,1,35,9,LWWDLWLWDWL,4,1,0,17,1,5,7,2,2,19,8,WDLWDLLLWWW,3,1,1,7,4,WDWWW,DLLLW
-RKC Waalwijk,Willem II,0-1,/match/rkc-waalwijk/willem-ii/2010,2010,12,eredivisie,18,34,2,0,1,18,1,0,10,7,25,LWLWLWWWWLW,1,0,4,4,11,11,3,1,7,15,20,WWWLWLWWDWW,0,0,5,3,12,LLLWL,WWWWW
-Sparta Rotterdam,NEC Nijmegen,2-0,/match/sparta-rotterdam/nec/2010,2010,12,eredivisie,18,34,0,2,0,8,4,2,5,9,15,LWWDWWDLWWL,3,0,2,5,6,12,2,5,4,11,16,WWWDDDLLDDL,1,2,2,4,6,LWWLW,WWDLD
-Heracles,Utrecht,3-1,/match/heracles/fc-utrecht/2010,2010,12,eredivisie,18,34,0,3,1,9,5,2,4,11,11,WDLLLWDLLLL,1,1,3,5,10,4,6,4,1,13,7,LWDDWWLWDDW,2,2,1,5,4,WLLDL,LDWLD
-Groningen,Heracles,4-1,/match/fc-groningen/heracles/2010,2010,13,eredivisie,18,34,0,4,1,17,2,4,6,8,17,LDLDLLWWDDWL,1,1,4,2,7,8,6,2,4,14,12,WDLLLWDLLLLW,4,1,1,6,1,LLLWDL,DLWLLL
-Vitesse,VVV Venlo,2-0,/match/vitesse/vvv/2010,2010,13,eredivisie,18,34,0,2,0,13,3,2,7,13,21,WDWLLDWWWWLW,2,2,2,8,8,10,1,8,3,15,20,DDDDDWLWDDWD,0,4,2,8,10,DLDWWL,DDDWDW
-Sparta Rotterdam,Roda JC,1-2,/match/sparta-rotterdam/roda-jc/2010,2010,13,eredivisie,18,34,2,1,2,6,5,2,5,11,15,LWWDWWDLWWLW,4,0,2,7,6,14,2,4,6,13,23,DDWWLWWWDDWL,0,2,4,3,14,LWWLWW,DWWWDW
-NEC Nijmegen,RKC Waalwijk,0-1,/match/nec/rkc-waalwijk/2010,2010,13,eredivisie,18,34,2,0,1,15,2,5,5,11,18,WWWDDDLLDDLW,1,3,2,7,10,18,1,0,11,7,26,LWLWLWWWWLWL,0,0,6,3,14,WDDLDL,WWWWWW
-NAC Breda,Willem II,4-0,/match/nac-breda/willem-ii/2010,2010,13,eredivisie,18,34,0,4,0,7,5,2,5,13,17,LDLWWWWLWWWD,3,1,1,7,2,11,4,1,7,16,20,WWWLWLWWDWWL,1,0,5,4,12,DWLWW,WWWWWL
-ADO Den Haag,PSV,1-5,/match/ado-den-haag/psv/2010,2010,13,eredivisie,18,34,2,1,5,16,3,3,6,14,19,LDLLLWLWDDLW,1,1,4,6,9,1,9,3,0,28,10,DDWWLWLWDWLW,3,2,0,10,2,LLWLDL,DLLDL
-AZ Alkmaar,Feyenoord,1-1,/match/az/feyenoord/2010,2010,13,eredivisie,18,34,1,1,1,9,6,0,6,21,15,WWLLWWLWWWLL,3,0,2,7,6,5,7,2,3,20,13,WDLWDLLLWWWW,3,1,2,8,9,WWLWL,DLLLWW
-Utrecht,Heerenveen,2-3,/match/fc-utrecht/heerenveen/2010,2010,13,eredivisie,18,34,2,2,3,4,6,4,2,14,10,LWDDWWLWDDWW,4,2,0,8,3,12,3,2,7,9,17,DWWLWLLLDWWW,1,0,4,4,11,WDWWDW,WWLWW
-Twente 1965,Ajax,1-0,/match/fc-twente-1965/ajax/2010,2010,13,eredivisie,18,34,0,1,0,2,10,2,0,26,10,LDLWDWLWLWWL,5,1,0,15,7,3,9,2,1,40,10,LWWDLWLWDWLW,4,1,1,18,8,DWWWWW,LWLLDL
-Roda JC,AZ Alkmaar,2-4,/match/roda-jc/az/2010,2010,14,eredivisie,18,34,2,2,4,11,3,4,6,15,24,DDWWLWWWDDWLL,2,2,2,10,9,8,6,1,6,22,16,WWLLWWLWWWLLD,3,0,4,14,9,DWLWDL,WLLWWWL
-NAC Breda,NEC Nijmegen,3-3,/match/nac-breda/nec/2010,2010,14,eredivisie,18,34,1,3,3,6,6,2,5,17,17,LDLWWWWLWWWDW,4,1,1,11,2,16,2,5,6,11,19,WWWDDDLLDDLWL,1,2,3,4,8,DWLWWW,WWDLDW
-RKC Waalwijk,Groningen,3-1,/match/rkc-waalwijk/fc-groningen/2010,2010,14,eredivisie,18,34,0,3,1,18,2,0,11,8,26,LWLWLWWWWLWLL,1,0,5,4,12,15,3,4,6,12,18,LDLDLLWWDDWLW,1,3,2,6,10,LLLWLL,DDLWDW
-Twente 1965,Vitesse,1-0,/match/fc-twente-1965/vitesse/2010,2010,14,eredivisie,18,34,0,1,0,1,11,2,0,27,10,LDLWDWLWLWWLW,6,1,0,16,7,10,4,2,7,15,21,WDWLLDWWWWLWW,1,0,5,5,13,DWWWWWW,WWLWWW
-Feyenoord,Utrecht,0-0,/match/feyenoord/fc-utrecht/2010,2010,14,eredivisie,18,34,1,0,0,5,7,3,3,21,14,WDLWDLLLWWWWD,4,1,1,12,4,4,6,4,3,16,13,LWDDWWLWDDWWL,2,2,2,6,7,WWDLWW,LDWLDW
-Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2010,2010,14,eredivisie,18,34,0,5,1,3,9,2,2,40,11,LWWDLWLWDWLWW,5,1,0,22,2,13,4,2,7,12,19,DWWLWLLLDWWWL,2,0,4,7,13,WDWWWW,WWLWWL
-Willem II,ADO Den Haag,1-1,/match/willem-ii/ado-den-haag/2010,2010,14,eredivisie,18,34,1,1,1,14,4,1,8,16,24,WWWLWLWWDWWLW,3,1,2,12,8,17,3,3,7,15,24,LDLLLWLWDDLWL,2,2,2,8,10,WLLWDW,DLLWDW
-VVV Venlo,Sparta Rotterdam,5-0,/match/vvv/sparta-rotterdam/2010,2010,14,eredivisie,18,34,0,5,0,12,1,8,4,15,22,DDDDDWLWDDWDW,1,4,1,7,10,7,5,2,6,12,17,LWWDWWDLWWLWL,1,2,3,4,9,DDWLDD,WDWDWL
-PSV,Heracles,4-0,/match/psv/heracles/2010,2010,14,eredivisie,18,34,0,4,0,2,10,3,0,33,11,DDWWLWLWDWLWL,6,1,0,18,8,9,6,2,5,15,16,WDLLLWDLLLLWW,4,1,2,7,5,DWWWWWW,DLWLLLW
-Sparta Rotterdam,PSV,2-3,/match/sparta-rotterdam/psv/2010,2010,15,eredivisie,18,34,2,2,3,9,5,2,7,12,22,LWWDWWDLWWLWLW,4,0,3,8,8,2,11,3,0,37,11,DDWWLWLWDWLWLW,4,2,0,15,3,LWWLWWL,DLLDLL
-AZ Alkmaar,VVV Venlo,2-0,/match/az/vvv/2010,2010,15,eredivisie,18,34,0,2,0,7,7,1,6,26,18,WWLLWWLWWWLLDL,3,1,2,8,7,8,2,8,4,20,22,DDDDDWLWDDWDWW,0,4,3,8,12,WWLWLD,DDDWDWW
-Heracles,Roda JC,3-2,/match/heracles/roda-jc/2010,2010,15,eredivisie,18,34,0,3,2,10,6,2,6,15,20,WDLLLWDLLLLWWW,2,1,3,8,11,14,3,4,7,17,28,DDWWLWWWDDWLLL,1,2,4,5,15,WLLDLW,DWWWDWL
-Heerenveen,RKC Waalwijk,3-1,/match/heerenveen/rkc-waalwijk/2010,2010,15,eredivisie,18,34,0,3,1,13,4,2,8,13,24,DWWLWLLLDWWWLW,2,2,3,5,6,18,3,0,11,11,27,LWLWLWWWWLWLLW,1,0,6,4,14,DWLLLDW,WWWWWWL
-Willem II,Twente 1965,1-3,/match/willem-ii/fc-twente-1965/2010,2010,15,eredivisie,18,34,2,1,3,11,4,2,8,17,25,WWWLWLWWDWWLWD,3,2,2,13,9,1,12,2,0,28,10,LDLWDWLWLWWLWW,5,1,0,11,3,WLLWDWD,LLDLLL
-Vitesse,Ajax,1-5,/match/vitesse/ajax/2010,2010,15,eredivisie,18,34,2,1,5,12,4,2,8,15,22,WDWLLDWWWWLWWW,3,2,2,10,8,3,10,2,2,45,12,LWWDLWLWDWLWWW,4,1,2,18,9,DLDWWLW,LWLLDLW
-ADO Den Haag,Feyenoord,0-2,/match/ado-den-haag/feyenoord/2010,2010,15,eredivisie,18,34,2,0,2,17,3,4,7,16,25,LDLLLWLWDDLWLD,1,1,5,7,14,4,7,4,3,21,14,WDLWDLLLWWWWDD,3,2,2,9,10,LLWLDLL,DLLLWWD
-Utrecht,NAC Breda,3-1,/match/fc-utrecht/nac-breda/2010,2010,15,eredivisie,18,34,0,3,1,5,6,5,3,16,13,LWDDWWLWDDWWLD,4,2,1,10,6,6,6,3,5,20,20,LDLWWWWLWWWDWD,2,1,4,6,15,WDWWDWL,LLWWWWD
-Groningen,NEC Nijmegen,2-2,/match/fc-groningen/nec/2010,2010,15,eredivisie,18,34,1,2,2,15,3,4,7,13,21,LDLDLLWWDDWLWW,2,1,4,6,8,16,2,6,6,14,22,WWWDDDLLDDLWLD,1,3,3,7,11,LLLWDLW,WWDLDWD
-VVV Venlo,Willem II,2-1,/match/vvv/willem-ii/2010,2010,16,eredivisie,18,34,0,2,1,10,2,8,5,20,24,DDDDDWLWDDWDWWW,2,4,1,12,10,12,4,2,9,18,28,WWWLWLWWDWWLWDL,1,0,6,4,16,DDWLDDW,WWWWWLW
-AZ Alkmaar,Vitesse,1-2,/match/az/vitesse/2010,2010,16,eredivisie,18,34,2,1,2,6,8,1,6,28,18,WWLLWWLWWWLLDLW,4,1,2,10,7,13,4,2,9,16,27,WDWLLDWWWWLWWWL,1,0,6,5,14,WWLWLDW,WWLWWWW
-Roda JC,ADO Den Haag,1-1,/match/roda-jc/ado-den-haag/2010,2010,16,eredivisie,18,34,1,1,1,15,3,4,8,19,31,DDWWLWWWDDWLLLW,2,2,3,12,13,17,3,4,8,16,27,LDLLLWLWDDLWLDL,2,3,2,9,11,DWLWDLL,DLLWDWD
-NAC Breda,Sparta Rotterdam,2-2,/match/nac-breda/sparta-rotterdam/2010,2010,16,eredivisie,18,34,1,2,2,7,6,3,6,21,23,LDLWWWWLWWWDWDW,4,2,1,14,5,9,5,2,8,14,25,LWWDWWDLWWLWLWL,1,2,4,4,14,DWLWWWD,WDWDWLW
-Utrecht,Ajax,2-0,/match/fc-utrecht/ajax/2010,2010,16,eredivisie,18,34,0,2,0,4,7,5,3,19,14,LWDDWWLWDDWWLDW,5,2,1,13,7,3,11,2,2,50,13,LWWDLWLWDWLWWWL,5,1,2,23,10,WDWWDWLW,LWLLDLWL
-RKC Waalwijk,PSV,0-2,/match/rkc-waalwijk/psv/2010,2010,16,eredivisie,18,34,2,0,2,18,3,0,12,12,30,LWLWLWWWWLWLLWW,2,0,5,7,13,2,12,3,0,40,13,DDWWLWLWDWLWLWL,5,2,0,18,5,LLLWLLW,DLLDLLL
-Feyenoord,Groningen,3-1,/match/feyenoord/fc-groningen/2010,2010,16,eredivisie,18,34,0,3,1,5,8,4,3,23,14,WDLWDLLLWWWWDDL,4,2,1,12,4,14,3,5,7,15,23,LDLDLLWWDDWLWWD,1,3,3,7,13,WWDLWWD,DDLWDWW
-NEC Nijmegen,Twente 1965,3-4,/match/nec/fc-twente-1965/2010,2010,16,eredivisie,18,34,2,3,4,16,2,7,6,16,24,WWWDDDLLDDLWLDD,1,3,3,7,11,1,13,2,0,31,11,LDLWDWLWLWWLWWL,6,1,0,14,4,WDDLDLL,LLDLLLL
-Heracles,Heerenveen,3-1,/match/heracles/heerenveen/2010,2010,16,eredivisie,18,34,0,3,1,8,7,2,6,18,22,WDLLLWDLLLLWWWW,3,1,3,11,13,11,5,2,8,16,25,DWWLWLLLDWWWLWW,2,0,5,8,18,WLLDLWW,WWLWWLW
-Ajax,NEC Nijmegen,3-0,/match/ajax/nec/2010,2010,17,eredivisie,18,34,0,3,0,3,11,2,3,50,15,LWWDLWLWDWLWWWLW,6,1,0,27,3,16,2,7,7,19,28,WWWDDDLLDDLWLDDL,1,4,3,9,13,WDWWWWW,WWDLDWDD
-VVV Venlo,RKC Waalwijk,3-0,/match/vvv/rkc-waalwijk/2010,2010,17,eredivisie,18,34,0,3,0,9,3,8,5,22,25,DDDDDWLWDDWDWWWW,3,4,1,14,11,18,3,0,13,12,32,LWLWLWWWWLWLLWWL,1,0,7,5,17,DDWLDDWW,WWWWWWLW
-Twente 1965,NAC Breda,3-1,/match/fc-twente-1965/nac-breda/2010,2010,17,eredivisie,18,34,0,3,1,1,14,2,0,35,14,LDLWDWLWLWWLWWLL,7,1,0,17,7,6,6,4,6,23,25,LDLWWWWLWWWDWDWD,2,1,5,7,18,DWWWWWWW,LLWWWWDW
-Heerenveen,Feyenoord,0-2,/match/heerenveen/feyenoord/2010,2010,17,eredivisie,18,34,2,0,2,11,5,2,9,17,28,DWWLWLLLDWWWLWWW,3,2,3,8,7,5,9,4,3,26,15,WDLWDLLLWWWWDDLW,4,2,2,11,10,DWLLLDWW,DLLLWWDL
-PSV,AZ Alkmaar,1-0,/match/psv/az/2010,2010,17,eredivisie,18,34,0,1,0,2,13,3,0,42,13,DDWWLWLWDWLWLWLL,7,1,0,22,8,8,8,1,7,29,20,WWLLWWLWWWLLDLWL,4,0,4,18,11,DWWWWWWW,WLLWWWLL
-Vitesse,Utrecht,2-2,/match/vitesse/fc-utrecht/2010,2010,17,eredivisie,18,34,1,2,2,12,5,2,9,18,28,WDWLLDWWWWLWWWLL,3,2,3,11,13,4,8,5,3,21,14,LWDDWWLWDDWWLDWW,2,3,2,6,7,DLDWWLWL,LDWLDWD
-Willem II,Roda JC,1-3,/match/willem-ii/roda-jc/2010,2010,17,eredivisie,18,34,2,1,3,13,4,2,10,19,30,WWWLWLWWDWWLWDLW,3,2,3,14,12,14,3,5,8,20,32,DDWWLWWWDDWLLLWD,1,2,5,7,18,WLLWDWDL,DWWWDWLW
-ADO Den Haag,Heracles,1-4,/match/ado-den-haag/heracles/2010,2010,17,eredivisie,18,34,2,1,4,17,3,5,8,17,28,LDLLLWLWDDLWLDLD,1,1,6,7,16,7,8,2,6,21,23,WDLLLWDLLLLWWWWW,4,1,3,7,9,LLWLDLLL,DLWLLLWW
-Sparta Rotterdam,Groningen,2-4,/match/sparta-rotterdam/fc-groningen/2010,2010,17,eredivisie,18,34,2,2,4,10,5,3,8,16,27,LWWDWWDLWWLWLWLD,4,0,4,10,11,15,3,5,8,16,26,LDLDLLWWDDWLWWDW,1,3,4,8,16,LWWLWWLL,DDLWDWWW
-Heracles,VVV Venlo,1-0,/match/heracles/vvv/2010,2010,18,eredivisie,18,34,0,1,0,6,9,2,6,25,24,WDLLLWDLLLLWWWWWL,4,1,3,14,14,7,4,8,5,25,25,DDDDDWLWDDWDWWWWW,0,4,4,8,14,WLLDLWWW,DDDWDWWW
-AZ Alkmaar,ADO Den Haag,3-0,/match/az/ado-den-haag/2010,2010,18,eredivisie,18,34,0,3,0,9,8,1,8,29,21,WWLLWWLWWWLLDLWLW,4,1,3,11,9,17,3,5,9,18,32,LDLLLWLWDDLWLDLDL,2,4,2,10,12,WWLWLDWL,DLLWDWDD
-Feyenoord,Willem II,1-0,/match/feyenoord/willem-ii/2010,2010,18,eredivisie,18,34,0,1,0,5,10,4,3,28,15,WDLWDLLLWWWWDDLWL,5,2,1,15,5,15,4,2,11,20,33,WWWLWLWWDWWLWDLWL,1,0,7,5,18,WWDLWWDW,WWWWWLWW
-RKC Waalwijk,Sparta Rotterdam,4-1,/match/rkc-waalwijk/sparta-rotterdam/2010,2010,18,eredivisie,18,34,0,4,1,18,3,0,14,12,35,LWLWLWWWWLWLLWWLW,2,0,6,7,15,11,5,3,9,18,31,LWWDWWDLWWLWLWLDL,1,3,4,6,16,LLLWLLWL,WDWDWLWD
-NEC Nijmegen,Vitesse,2-1,/match/nec/vitesse/2010,2010,18,eredivisie,18,34,0,2,1,16,2,7,8,19,31,WWWDDDLLDDLWLDDLW,1,3,4,10,15,10,5,3,9,20,30,WDWLLDWWWWLWWWLLD,2,0,6,7,15,WDDLDLLL,WWLWWWWL
-Utrecht,Twente 1965,0-0,/match/fc-utrecht/fc-twente-1965/2010,2010,18,eredivisie,18,34,1,0,0,4,8,6,3,23,16,LWDDWWLWDDWWLDWWD,6,2,1,15,7,1,15,2,0,38,15,LDLWDWLWLWWLWWLLW,7,1,0,18,7,WDWWDWLWW,LLDLLLLL
-NAC Breda,Ajax,1-1,/match/nac-breda/ajax/2010,2010,18,eredivisie,18,34,1,1,1,8,6,4,7,24,28,LDLWWWWLWWWDWDWDW,4,3,1,16,7,3,12,2,3,53,15,LWWDLWLWDWLWWWLWW,5,1,3,23,12,DWLWWWDD,LWLLDLWLW
-Roda JC,PSV,0-1,/match/roda-jc/psv/2010,2010,18,eredivisie,18,34,2,0,1,13,4,5,8,23,33,DDWWLWWWDDWLLLWDL,2,3,3,13,14,2,14,3,0,43,13,DDWWLWLWDWLWLWLLW,6,2,0,20,5,DWLWDLLD,DLLDLLLL
-Groningen,Heerenveen,2-0,/match/fc-groningen/heerenveen/2010,2010,18,eredivisie,18,34,0,2,0,14,4,5,8,20,28,LDLDLLWWDDWLWWDWL,2,2,4,8,10,12,5,2,10,17,30,DWWLWLLLDWWWLWWWL,2,0,6,9,21,LLLWDLWD,WWLWWLWW
-PSV,NEC Nijmegen,3-0,/match/psv/nec/2010,2010,19,eredivisie,18,34,0,3,0,2,15,3,0,44,13,DDWWLWLWDWLWLWLLWL,8,1,0,23,8,15,3,7,8,21,32,WWWDDDLLDDLWLDDLWW,1,4,4,9,16,DWWWWWWWW,WWDLDWDDW
-Heracles,Vitesse,1-2,/match/heracles/vitesse/2010,2010,19,eredivisie,18,34,2,1,2,6,10,2,6,26,24,WDLLLWDLLLLWWWWWLW,5,1,3,15,14,11,5,3,10,21,32,WDWLLDWWWWLWWWLLDW,2,0,7,8,17,WLLDLWWWW,WWLWWWWLW
-Roda JC,Utrecht,2-0,/match/roda-jc/fc-utrecht/2010,2010,19,eredivisie,18,34,0,2,0,14,4,5,9,23,34,DDWWLWWWDDWLLLWDLL,2,3,4,13,15,5,8,7,3,23,16,LWDDWWLWDDWWLDWWDD,2,4,2,8,9,DWLWDLLDL,LDWLDWDD
-Heerenveen,Willem II,4-2,/match/heerenveen/willem-ii/2010,2010,19,eredivisie,18,34,0,4,2,13,5,2,11,17,32,DWWLWLLLDWWWLWWWLW,3,2,4,8,9,16,4,2,12,20,34,WWWLWLWWDWWLWDLWLW,1,0,8,5,19,DWLLLDWWL,WWWWWLWWW
-RKC Waalwijk,NAC Breda,0-1,/match/rkc-waalwijk/nac-breda/2010,2010,19,eredivisie,18,34,2,0,1,18,4,0,14,16,36,LWLWLWWWWLWLLWWLWW,3,0,6,11,16,8,6,5,7,25,29,LDLWWWWLWWWDWDWDWD,2,1,6,8,21,LLLWLLWLW,LLWWWWDWW
-Ajax,AZ Alkmaar,1-0,/match/ajax/az/2010,2010,19,eredivisie,18,34,0,1,0,3,12,3,3,54,16,LWWDLWLWDWLWWWLWWD,7,1,0,30,3,7,9,1,8,32,21,WWLLWWLWWWLLDLWLWW,4,0,5,18,12,WDWWWWWW,WLLWWWLLW
-Groningen,Twente 1965,0-0,/match/fc-groningen/fc-twente-1965/2010,2010,19,eredivisie,18,34,1,0,0,10,5,5,8,22,28,LDLDLLWWDDWLWWDWLW,3,2,4,10,10,1,15,3,0,38,15,LDLWDWLWLWWLWWLLWD,7,2,0,18,7,LLLWDLWDW,LLDLLLLLD
-VVV Venlo,Feyenoord,1-1,/match/vvv/feyenoord/2010,2010,19,eredivisie,18,34,1,1,1,9,4,8,6,25,26,DDDDDWLWDDWDWWWWWW,4,4,1,17,11,4,11,4,3,29,15,WDLWDLLLWWWWDDLWLW,5,2,2,13,10,DDWLDDWWW,DLLLWWDLL
-Sparta Rotterdam,ADO Den Haag,0-0,/match/sparta-rotterdam/ado-den-haag/2010,2010,19,eredivisie,18,34,1,0,0,12,5,3,10,19,35,LWWDWWDLWWLWLWLDLW,4,0,5,12,15,17,3,5,10,18,35,LDLLLWLWDDLWLDLDLW,2,4,3,10,15,LWWLWWLLL,DLLWDWDDW
-Willem II,RKC Waalwijk,2-1,/match/willem-ii/rkc-waalwijk/2010,2010,20,eredivisie,18,34,0,2,1,16,4,2,13,22,38,WWWLWLWWDWWLWDLWLWW,3,2,4,15,15,18,4,0,15,16,37,LWLWLWWWWLWLLWWLWWL,1,0,8,5,20,WLLWDWDLL,WWWWWWLWW
-NEC Nijmegen,Sparta Rotterdam,1-0,/match/nec/sparta-rotterdam/2010,2010,20,eredivisie,18,34,0,1,0,15,3,7,9,21,35,WWWDDDLLDDLWLDDLWWW,2,3,4,12,16,14,5,4,10,19,35,LWWDWWDLWWLWLWLDLWD,1,3,5,7,20,WDDLDLLLW,WDWDWLWDW
-NAC Breda,VVV Venlo,2-0,/match/nac-breda/vvv/2010,2010,20,eredivisie,18,34,0,2,0,7,7,5,7,26,29,LDLWWWWLWWWDWDWDWDL,4,4,1,17,8,9,4,9,6,26,27,DDDDDWLWDDWDWWWWWWD,0,4,5,8,15,DWLWWWDDD,DDDWDWWWW
-AZ Alkmaar,Groningen,0-1,/match/az/fc-groningen/2010,2010,20,eredivisie,18,34,2,0,1,8,9,1,9,32,22,WWLLWWLWWWLLDLWLWWW,5,1,3,14,9,10,5,6,8,22,28,LDLDLLWWDDWLWWDWLWD,2,3,4,12,18,WWLWLDWLW,DDLWDWWWL
-ADO Den Haag,Heerenveen,2-1,/match/ado-den-haag/heerenveen/2010,2010,20,eredivisie,18,34,0,2,1,17,3,6,10,18,35,LDLLLWLWDDLWLDLDLWD,1,1,7,8,20,12,6,2,11,21,34,DWWLWLLLDWWWLWWWLWW,2,0,7,9,23,LLWLDLLLL,WWLWWLWWW
-Feyenoord,Ajax,1-1,/match/feyenoord/ajax/2010,2010,20,eredivisie,18,34,1,1,1,4,11,5,3,30,16,WDLWDLLLWWWWDDLWLWD,6,2,1,16,5,3,13,3,3,55,16,LWWDLWLWDWLWWWLWWDW,5,2,3,24,13,WWDLWWDWW,LWLLDLWLWD
-Twente 1965,Roda JC,2-0,/match/fc-twente-1965/roda-jc/2010,2010,20,eredivisie,18,34,0,2,0,2,15,4,0,38,15,LDLWDWLWLWWLWWLLWDD,8,1,0,20,8,13,5,5,9,25,34,DDWWLWWWDDWLLLWDLLW,2,2,5,10,19,DWWWWWWWW,DWWWDWLWL
-Utrecht,Heracles,0-0,/match/fc-utrecht/heracles/2010,2010,20,eredivisie,18,34,1,0,0,5,8,7,4,23,18,LWDDWWLWDDWWLDWWDDW,6,3,1,15,7,6,10,2,7,27,26,WDLLLWDLLLLWWWWWLWL,5,1,3,11,10,WDWWDWLWWD,DLWLLLWWL
-Vitesse,PSV,0-0,/match/vitesse/psv/2010,2010,20,eredivisie,18,34,1,0,0,11,6,3,10,23,33,WDWLLDWWWWLWWWLLDWL,3,3,3,13,15,1,16,3,0,47,13,DDWWLWLWDWLWLWLLWLW,7,2,0,21,5,DLDWWLWLD,DLLDLLLLL
-VVV Venlo,Heerenveen,3-1,/match/vvv/heerenveen/2010,2010,21,eredivisie,18,34,0,3,1,9,4,9,7,26,29,DDDDDWLWDDWDWWWWWWDW,4,5,1,18,12,12,6,2,12,22,36,DWWLWLLLDWWWLWWWLWWW,2,0,8,10,25,DDWLDDWWWD,WWLWWLWWWW
-NAC Breda,AZ Alkmaar,1-1,/match/nac-breda/az/2010,2010,21,eredivisie,18,34,1,1,1,6,8,5,7,28,29,LDLWWWWLWWWDWDWDWDLW,5,4,1,19,8,8,9,1,10,32,23,WWLLWWLWWWLLDLWLWWWL,4,0,6,18,13,DWLWWWDDDW,WLLWWWLLWW
-Groningen,ADO Den Haag,2-0,/match/fc-groningen/ado-den-haag/2010,2010,21,eredivisie,18,34,0,2,0,10,6,6,8,23,28,LDLDLLWWDDWLWWDWLWDL,3,3,4,10,10,17,4,6,10,20,36,LDLLLWLWDDLWLDLDLWDW,2,5,3,10,15,LLLWDLWDWD,DLLWDWDDWD
-Twente 1965,Heracles,2-0,/match/fc-twente-1965/heracles/2010,2010,21,eredivisie,18,34,0,2,0,2,16,4,0,40,15,LDLWDWLWLWWLWWLLWDDW,9,1,0,22,8,7,10,3,7,27,26,WDLLLWDLLLLWWWWWLWLD,5,2,3,11,10,DWWWWWWWWW,DLWLLLWWLD
-PSV,Utrecht,2-1,/match/psv/fc-utrecht/2010,2010,21,eredivisie,18,34,0,2,1,1,16,4,0,47,13,DDWWLWLWDWLWLWLLWLWD,9,1,0,26,8,5,8,8,4,23,18,LWDDWWLWDDWWLDWWDDWD,2,4,3,8,11,DWWWWWWWWW,LDWLDWDDW
-Ajax,Roda JC,4-0,/match/ajax/roda-jc/2010,2010,21,eredivisie,18,34,0,4,0,3,13,4,3,56,17,LWWDLWLWDWLWWWLWWDWD,8,1,0,31,3,13,5,5,10,25,36,DDWWLWWWDDWLLLWDLLWW,2,2,6,10,21,WDWWWWWWW,DWWWDWLWLW
-Sparta Rotterdam,Vitesse,1-1,/match/sparta-rotterdam/vitesse/2010,2010,21,eredivisie,18,34,1,1,1,15,5,4,11,19,36,LWWDWWDLWWLWLWLDLWDW,4,1,5,12,15,11,6,4,10,23,33,WDWLLDWWWWLWWWLLDWLD,3,0,7,10,18,LWWLWWLLLD,WWLWWWWLWL
-RKC Waalwijk,Feyenoord,0-1,/match/rkc-waalwijk/feyenoord/2010,2010,21,eredivisie,18,34,2,0,1,18,4,0,16,17,39,LWLWLWWWWLWLLWWLWWLW,3,0,7,11,17,4,11,6,3,31,17,WDLWDLLLWWWWDDLWLWDD,5,3,2,14,11,LLLWLLWLWL,DLLLWWDLLD
-NEC Nijmegen,Willem II,2-1,/match/nec/willem-ii/2010,2010,21,eredivisie,18,34,0,2,1,14,4,7,9,22,35,WWWDDDLLDDLWLDDLWWWW,3,3,4,13,16,16,5,2,13,24,39,WWWLWLWWDWWLWDLWLWWW,1,0,9,7,23,WDDLDLLLWW,WWWWWLWWWW
-Willem II,NAC Breda,1-2,/match/willem-ii/nac-breda/2010,2010,22,eredivisie,18,34,2,1,2,16,5,2,14,25,41,WWWLWLWWDWWLWDLWLWWWW,4,2,4,17,16,6,8,6,7,29,30,LDLWWWWLWWWDWDWDWDLWD,3,1,6,9,21,WLLWDWDLLW,LLWWWWDWWL
-PSV,ADO Den Haag,2-0,/match/psv/ado-den-haag/2010,2010,22,eredivisie,18,34,0,2,0,1,17,4,0,49,14,DDWWLWLWDWLWLWLLWLWDW,10,1,0,28,9,17,4,6,11,20,38,LDLLLWLWDDLWLDLDLWDWW,2,5,4,10,17,DWWWWWWWWWW,DLLWDWDDWDW
-Roda JC,Sparta Rotterdam,2-1,/match/roda-jc/sparta-rotterdam/2010,2010,22,eredivisie,18,34,0,2,1,15,5,5,11,25,40,DDWWLWWWDDWLLLWDLLWWW,3,3,4,15,15,13,5,5,11,20,37,LWWDWWDLWWLWLWLDLWDWD,1,3,6,7,21,DWLWDLLDLW,WDWDWLWDWW
-Heerenveen,Utrecht,2-0,/match/heerenveen/fc-utrecht/2010,2010,22,eredivisie,18,34,0,2,0,14,6,2,13,23,39,DWWLWLLLDWWWLWWWLWWWW,4,2,4,12,11,5,8,8,5,24,20,LWDDWWLWDDWWLDWWDDWDW,2,4,4,9,13,DWLLLDWWLW,LDWLDWDDWW
-Heracles,Groningen,4-3,/match/heracles/fc-groningen/2010,2010,22,eredivisie,18,34,0,4,3,8,10,3,8,27,28,WDLLLWDLLLLWWWWWLWLDW,5,1,4,16,16,9,7,6,8,25,28,LDLDLLWWDDWLWWDWLWDLW,3,3,4,13,18,WLLDLWWWWL,DDLWDWWWLL
-RKC Waalwijk,NEC Nijmegen,0-1,/match/rkc-waalwijk/nec/2010,2010,22,eredivisie,18,34,2,0,1,18,4,0,17,17,40,LWLWLWWWWLWLLWWLWWLWL,3,0,8,11,18,11,5,7,9,24,36,WWWDDDLLDDLWLDDLWWWWW,1,4,5,9,19,LLLWLLWLWLL,WWDLDWDDWW
-Feyenoord,AZ Alkmaar,1-2,/match/feyenoord/az/2010,2010,22,eredivisie,18,34,2,1,2,4,12,6,3,32,17,WDLWDLLLWWWWDDLWLWDDL,6,3,1,17,6,10,9,2,10,33,24,WWLLWWLWWWLLDLWLWWWLD,4,1,6,19,14,WWDLWWDWWD,WLLWWWLLWWD
-VVV Venlo,Vitesse,2-0,/match/vvv/vitesse/2010,2010,22,eredivisie,18,34,0,2,0,7,5,9,7,29,30,DDDDDWLWDDWDWWWWWWDWW,5,5,1,21,13,12,6,5,10,24,34,WDWLLDWWWWLWWWLLDWLDD,3,1,7,11,19,DDWLDDWWWDW,WWLWWWWLWLD
-Ajax,Twente 1965,3-0,/match/ajax/fc-twente-1965/2010,2010,22,eredivisie,18,34,0,3,0,3,14,4,3,60,17,LWWDLWLWDWLWWWLWWDWDW,9,1,0,35,3,2,17,4,0,42,15,LDLWDWLWLWWLWWLLWDDWW,7,3,0,18,7,WDWWWWWWWW,LLDLLLLLDD
-NEC Nijmegen,NAC Breda,4-2,/match/nec/nac-breda/2010,2010,23,eredivisie,18,34,0,4,2,11,6,7,9,25,36,WWWDDDLLDDLWLDDLWWWWWL,4,3,4,15,17,6,9,6,7,31,31,LDLWWWWLWWWDWDWDWDLWDL,4,1,6,11,22,WDDLDLLLWWW,LLWWWWDWWLL
-Vitesse,Twente 1965,1-2,/match/vitesse/fc-twente-1965/2010,2010,23,eredivisie,18,34,2,1,2,14,6,5,11,24,36,WDWLLDWWWWLWWWLLDWLDDW,3,4,3,13,15,2,17,4,1,42,18,LDLWDWLWLWWLWWLLWDDWWW,7,3,1,18,10,DLDWWLWLDD,LLDLLLLLDDW
-Heerenveen,Ajax,0-2,/match/heerenveen/ajax/2010,2010,23,eredivisie,18,34,2,0,2,12,7,2,13,25,39,DWWLWLLLDWWWLWWWLWWWWW,5,2,4,14,11,3,15,4,3,63,17,LWWDLWLWDWLWWWLWWDWDWW,5,3,3,25,14,DWLLLDWWLWW,LWLLDLWLWDD
-ADO Den Haag,Willem II,3-0,/match/ado-den-haag/willem-ii/2010,2010,23,eredivisie,18,34,0,3,0,17,4,6,12,20,40,LDLLLWLWDDLWLDLDLWDWWW,2,1,7,10,21,16,5,2,15,26,43,WWWLWLWWDWWLWDLWLWWWWL,1,0,10,8,25,LLWLDLLLLW,WWWWWLWWWWW
-AZ Alkmaar,Roda JC,2-0,/match/az/roda-jc/2010,2010,23,eredivisie,18,34,0,2,0,9,10,2,10,35,25,WWLLWWLWWWLLDLWLWWWLDL,5,1,4,14,10,13,6,5,11,27,41,DDWWLWWWDDWLLLWDLLWWWW,2,2,7,10,25,WWLWLDWLWL,DWWWDWLWLWW
-Utrecht,Feyenoord,0-0,/match/fc-utrecht/feyenoord/2010,2010,23,eredivisie,18,34,1,0,0,5,8,8,6,24,22,LWDDWWLWDDWWLDWWDDWDWW,6,4,1,15,7,4,12,6,4,33,19,WDLWDLLLWWWWDDLWLWDDLL,6,3,2,15,11,WDWWDWLWWDD,DLLLWWDLLDL
-Heracles,PSV,0-1,/match/heracles/psv/2010,2010,23,eredivisie,18,34,2,0,1,8,11,3,8,31,31,WDLLLWDLLLLWWWWWLWLDWW,6,1,4,20,19,1,18,4,0,51,14,DDWWLWLWDWLWLWLLWLWDWW,7,3,0,21,5,WLLDLWWWWLW,DLLDLLLLLD
-Sparta Rotterdam,VVV Venlo,2-0,/match/sparta-rotterdam/vvv/2010,2010,23,eredivisie,18,34,0,2,0,15,5,5,12,21,39,LWWDWWDLWWLWLWLDLWDWDW,4,2,5,13,16,7,6,9,7,31,30,DDDDDWLWDDWDWWWWWWDWWW,0,4,6,8,17,LWWLWWLLLDD,DDDWDWWWWW
-Groningen,RKC Waalwijk,2-1,/match/fc-groningen/rkc-waalwijk/2010,2010,23,eredivisie,18,34,0,2,1,10,7,6,9,28,32,LDLDLLWWDDWLWWDWLWDLWW,4,3,4,12,10,18,4,0,18,17,41,LWLWLWWWWLWLLWWLWWLWLL,1,0,9,6,22,LLLWDLWDWDW,WWWWWWLWWW
-Roda JC,Heracles,2-1,/match/roda-jc/heracles/2010,2010,24,eredivisie,18,34,0,2,1,14,6,5,12,27,43,DDWWLWWWDDWLLLWDLLWWWWW,4,3,4,17,16,8,11,3,9,31,32,WDLLLWDLLLLWWWWWLWLDWWL,5,2,4,11,12,DWLWDLLDLWW,DLWLLLWWLDW
-NAC Breda,Utrecht,0-2,/match/nac-breda/fc-utrecht/2010,2010,24,eredivisie,18,34,2,0,2,6,9,6,8,33,35,LDLWWWWLWWWDWDWDWDLWDLW,5,5,1,20,9,5,8,9,6,24,22,LWDDWWLWDDWWLDWWDDWDWWD,2,4,5,9,15,DWLWWWDDDWD,LDWLDWDDWWW
-VVV Venlo,AZ Alkmaar,3-3,/match/vvv/az/2010,2010,24,eredivisie,18,34,1,3,3,7,6,9,8,31,32,DDDDDWLWDDWDWWWWWWDWWWW,6,5,1,23,13,9,11,2,10,37,25,WWLLWWLWWWLLDLWLWWWLDLW,5,1,6,21,15,DDWLDDWWWDWW,WLLWWWLLWWDL
-RKC Waalwijk,Heerenveen,1-2,/match/rkc-waalwijk/heerenveen/2010,2010,24,eredivisie,18,34,2,1,2,18,4,0,19,18,43,LWLWLWWWWLWLLWWLWWLWLLW,3,0,9,11,19,13,7,2,14,25,41,DWWLWLLLDWWWLWWWLWWWWWL,2,0,9,11,28,LLLWLLWLWLLL,WWLWWLWWWWW
-NEC Nijmegen,Groningen,0-2,/match/nec/fc-groningen/2010,2010,24,eredivisie,18,34,2,0,2,11,7,7,9,29,38,WWWDDDLLDDLWLDDLWWWWWLW,5,3,4,19,19,10,8,6,9,30,33,LDLDLLWWDDWLWWDWLWDLWWW,3,3,5,16,22,WDDLDLLLWWWW,DDLWDWWWLLW
-Feyenoord,ADO Den Haag,2-2,/match/feyenoord/ado-den-haag/2010,2010,24,eredivisie,18,34,1,2,2,4,12,7,4,33,19,WDLWDLLLWWWWDDLWLWDDLLD,6,3,2,18,8,16,5,6,12,23,40,LDLLLWLWDDLWLDLDLWDWWWW,2,5,5,10,19,WWDLWWDWWDL,DLLWDWDDWDWW
-Twente 1965,Willem II,1-0,/match/fc-twente-1965/willem-ii/2010,2010,24,eredivisie,18,34,0,1,0,2,18,4,1,44,19,LDLWDWLWLWWLWWLLWDDWWWL,10,1,0,24,8,17,5,2,16,26,46,WWWLWLWWDWWLWDLWLWWWWLW,1,0,11,8,28,DWWWWWWWWWW,WWWWWLWWWWWW
-PSV,Sparta Rotterdam,1-1,/match/psv/sparta-rotterdam/2010,2010,24,eredivisie,18,34,1,1,1,1,19,4,0,52,14,DDWWLWLWDWLWLWLLWLWDWWL,11,1,0,30,9,12,6,5,12,23,39,LWWDWWDLWWLWLWLDLWDWDWW,1,3,7,8,23,DWWWWWWWWWWW,WDWDWLWDWWW
-Ajax,Vitesse,4-0,/match/ajax/vitesse/2010,2010,24,eredivisie,18,34,0,4,0,3,16,4,3,65,17,LWWDLWLWDWLWWWLWWDWDWWL,10,1,0,38,3,15,6,5,12,25,38,WDWLLDWWWWLWWWLLDWLDDWL,3,1,8,11,21,WDWWWWWWWWW,WWLWWWWLWLDW
-ADO Den Haag,Roda JC,1-2,/match/ado-den-haag/roda-jc/2010,2010,25,eredivisie,18,34,2,1,2,16,5,7,12,25,42,LDLLLWLWDDLWLDLDLWDWWWWD,3,1,7,13,21,12,7,5,12,29,44,DDWWLWWWDDWLLLWDLLWWWWWW,2,2,8,10,27,LLWLDLLLLWW,DWWWDWLWLWWW
-Heerenveen,Heracles,1-2,/match/heerenveen/heracles/2010,2010,25,eredivisie,18,34,2,1,2,14,8,2,14,27,42,DWWLWLLLDWWWLWWWLWWWWWLL,5,2,5,14,13,8,11,3,10,32,34,WDLLLWDLLLLWWWWWLWLDWWLW,5,2,5,12,14,DWLLLDWWLWWL,DLWLLLWWLDWW
-Vitesse,AZ Alkmaar,0-3,/match/vitesse/az/2010,2010,25,eredivisie,18,34,2,0,3,15,6,5,13,25,42,WDWLLDWWWWLWWWLLDWLDDWLW,3,4,4,14,17,9,11,3,10,40,28,WWLLWWLWWWLLDLWLWWWLDLWD,5,2,6,24,18,DLDWWLWLDDL,WLLWWWLLWWDLD
-Willem II,VVV Venlo,2-1,/match/willem-ii/vvv/2010,2010,25,eredivisie,18,34,0,2,1,17,5,2,17,26,47,WWWLWLWWDWWLWDLWLWWWWLWW,4,2,5,18,18,6,6,10,8,34,35,DDDDDWLWDDWDWWWWWWDWWWWD,0,4,7,8,19,WLLWDWDLLWL,DDDWDWWWWWW
-Ajax,Utrecht,4-0,/match/ajax/fc-utrecht/2010,2010,25,eredivisie,18,34,0,4,0,3,17,4,3,69,17,LWWDLWLWDWLWWWLWWDWDWWLW,11,1,0,42,3,5,9,9,6,26,22,LWDDWWLWDDWWLDWWDDWDWWDL,3,4,5,11,15,WDWWWWWWWWWW,LDWLDWDDWWWL
-PSV,RKC Waalwijk,5-1,/match/psv/rkc-waalwijk/2010,2010,25,eredivisie,18,34,0,5,1,1,19,5,0,53,15,DDWWLWLWDWLWLWLLWLWDWWLD,11,2,0,31,10,18,4,0,20,19,45,LWLWLWWWWLWLLWWLWWLWLLWL,1,0,10,7,24,DWWWWWWWWWWWD,WWWWWWLWWWW
-Groningen,Feyenoord,2-3,/match/fc-groningen/feyenoord/2010,2010,25,eredivisie,18,34,2,2,3,10,9,6,9,32,33,LDLDLLWWDDWLWWDWLWDLWWWL,5,3,4,14,11,4,12,8,4,35,21,WDLWDLLLWWWWDDLWLWDDLLDD,6,4,2,15,11,LLLWDLWDWDWW,DLLLWWDLLDLD
-Twente 1965,NEC Nijmegen,2-1,/match/fc-twente-1965/nec/2010,2010,25,eredivisie,18,34,0,2,1,2,19,4,1,45,19,LDLWDWLWLWWLWWLLWDDWWWLW,11,1,0,25,8,11,7,7,10,29,40,WWWDDDLLDDLWLDDLWWWWWLWL,2,4,5,10,19,DWWWWWWWWWWW,WWDLDWDDWWL
-Sparta Rotterdam,NAC Breda,2-2,/match/sparta-rotterdam/nac-breda/2010,2010,25,eredivisie,18,34,1,2,2,13,6,6,12,24,40,LWWDWWDLWWLWLWLDLWDWDWWD,5,2,5,15,16,7,9,6,9,33,37,LDLWWWWLWWWDWDWDWDLWDLWL,4,1,7,13,26,LWWLWWLLLDDW,LLWWWWDWWLLW
-AZ Alkmaar,Heerenveen,4-1,/match/az/heerenveen/2010,2010,26,eredivisie,18,34,0,4,1,9,12,3,10,43,28,WWLLWWLWWWLLDLWLWWWLDLWDL,6,1,4,16,10,14,8,2,15,28,44,DWWLWLLLDWWWLWWWLWWWWWLLL,3,0,9,13,29,WWLWLDWLWLW,WWLWWLWWWWWL
-ADO Den Haag,Vitesse,1-1,/match/ado-den-haag/vitesse/2010,2010,26,eredivisie,18,34,1,1,1,17,5,7,13,26,44,LDLLLWLWDDLWLDLDLWDWWWWDL,3,1,8,14,23,15,6,5,14,25,45,WDWLLDWWWWLWWWLLDWLDDWLWL,3,1,9,11,25,LLWLDLLLLWWL,WWLWWWWLWLDWW
-Heracles,Willem II,3-2,/match/heracles/willem-ii/2010,2010,26,eredivisie,18,34,0,3,2,8,12,3,10,34,35,WDLLLWDLLLLWWWWWLWLDWWLWL,6,1,5,20,20,16,6,2,17,28,48,WWWLWLWWDWWLWDLWLWWWWLWWW,1,0,12,8,29,WLLDLWWWWLWL,WWWWWLWWWWWWW
-NAC Breda,PSV,2-1,/match/nac-breda/psv/2010,2010,26,eredivisie,18,34,0,2,1,7,9,7,9,35,39,LDLWWWWLWWWDWDWDWDLWDLWLD,5,5,2,20,11,1,20,5,0,58,16,DDWWLWLWDWLWLWLLWLWDWWLDW,8,3,0,22,5,DWLWWWDDDWDL,DLLDLLLLLDL
-Roda JC,Feyenoord,2-4,/match/roda-jc/feyenoord/2010,2010,26,eredivisie,18,34,2,2,4,12,8,5,12,31,45,DDWWLWWWDDWLLLWDLLWWWWWWL,5,3,4,19,17,4,13,8,4,38,23,WDLWDLLLWWWWDDLWLWDDLLDDL,7,4,2,18,13,DWLWDLLDLWWW,DLLLWWDLLDLDL
-Sparta Rotterdam,Ajax,0-3,/match/sparta-rotterdam/ajax/2010,2010,26,eredivisie,18,34,2,0,3,13,6,7,12,26,42,LWWDWWDLWWLWLWLDLWDWDWWDD,5,3,5,17,18,3,18,4,3,73,17,LWWDLWLWDWLWWWLWWDWDWWLWW,6,3,3,27,14,LWWLWWLLLDDWD,LWLLDLWLWDDL
-Groningen,VVV Venlo,1-0,/match/fc-groningen/vvv/2010,2010,26,eredivisie,18,34,0,1,0,10,9,6,10,34,36,LDLDLLWWDDWLWWDWLWDLWWWLL,5,3,5,16,14,6,6,10,9,35,37,DDDDDWLWDDWDWWWWWWDWWWWDW,0,4,8,9,21,LLLWDLWDWDWWL,DDDWDWWWWWWW
-Utrecht,NEC Nijmegen,1-0,/match/fc-utrecht/nec/2010,2010,26,eredivisie,18,34,0,1,0,5,9,9,7,26,26,LWDDWWLWDDWWLDWWDDWDWWDLW,6,5,1,15,7,11,7,7,11,30,42,WWWDDDLLDDLWLDDLWWWWWLWLW,2,4,6,11,21,WDWWDWLWWDDD,WWDLDWDDWWLW
-RKC Waalwijk,Twente 1965,0-1,/match/rkc-waalwijk/fc-twente-1965/2010,2010,26,eredivisie,18,34,2,0,1,18,4,0,21,20,50,LWLWLWWWWLWLLWWLWWLWLLWLW,3,0,10,12,21,2,20,4,1,47,20,LDLWDWLWLWWLWWLLWDDWWWLWW,8,3,1,20,11,LLLWLLWLWLLLL,LLDLLLLLDDWL
-Twente 1965,ADO Den Haag,3-1,/match/fc-twente-1965/ado-den-haag/2010,2010,27,eredivisie,18,34,0,3,1,2,21,4,1,48,20,LDLWDWLWLWWLWWLLWDDWWWLWWL,12,1,0,27,9,17,5,8,13,27,45,LDLLLWLWDDLWLDLDLWDWWWWDLD,2,6,5,12,21,DWWWWWWWWWWWW,DLLWDWDDWDWWD
-NAC Breda,Groningen,0-3,/match/nac-breda/fc-groningen/2010,2010,27,eredivisie,18,34,2,0,3,7,10,7,9,37,40,LDLWWWWLWWWDWDWDWDLWDLWLDW,6,5,2,22,12,9,10,6,10,35,36,LDLDLLWWDDWLWWDWLWDLWWWLLW,4,3,5,18,22,DWLWWWDDDWDLW,DDLWDWWWLLWL
-VVV Venlo,Utrecht,0-1,/match/vvv/fc-utrecht/2010,2010,27,eredivisie,18,34,2,0,1,10,6,10,10,35,38,DDDDDWLWDDWDWWWWWWDWWWWDWW,6,6,1,26,16,5,10,9,7,27,26,LWDDWWLWDDWWLDWWDDWDWWDLWW,3,4,6,11,19,DDWLDDWWWDWWD,LDWLDWDDWWWLW
-AZ Alkmaar,RKC Waalwijk,6-2,/match/az/rkc-waalwijk/2010,2010,27,eredivisie,18,34,0,6,2,6,13,3,10,47,29,WWLLWWLWWWLLDLWLWWWLDLWDLW,7,1,4,20,11,18,4,0,22,20,51,LWLWLWWWWLWLLWWLWWLWLLWLWL,1,0,11,8,29,WWLWLDWLWLWW,WWWWWWLWWWWW
-NEC Nijmegen,Roda JC,0-2,/match/nec/roda-jc/2010,2010,27,eredivisie,18,34,2,0,2,11,7,7,12,30,43,WWWDDDLLDDLWLDDLWWWWWLWLWW,5,3,5,19,21,12,8,5,13,33,49,DDWWLWWWDDWLLLWDLLWWWWWWLL,3,2,8,12,28,WDDLDLLLWWWWL,DWWWDWLWLWWWL
-Feyenoord,Heracles,1-1,/match/feyenoord/heracles/2010,2010,27,eredivisie,18,34,1,1,1,4,14,8,4,42,25,WDLWDLLLWWWWDDLWLWDDLLDDLL,6,4,2,20,10,8,13,3,10,37,37,WDLLLWDLLLLWWWWWLWLDWWLWLW,6,2,5,14,15,WWDLWWDWWDLD,DLWLLLWWLDWWL
-Vitesse,Heerenveen,0-1,/match/vitesse/heerenveen/2010,2010,27,eredivisie,18,34,2,0,1,15,6,6,14,26,46,WDWLLDWWWWLWWWLLDWLDDWLWLD,3,4,5,14,20,14,8,2,16,29,48,DWWLWLLLDWWWLWWWLWWWWWLLLW,3,0,10,14,33,DLDWWLWLDDLL,WWLWWLWWWWWLW
-Willem II,Sparta Rotterdam,3-1,/match/willem-ii/sparta-rotterdam/2010,2010,27,eredivisie,18,34,0,3,1,16,6,2,18,30,51,WWWLWLWWDWWLWDLWLWWWWLWWWW,5,2,5,20,19,13,6,7,13,26,45,LWWDWWDLWWLWLWLDLWDWDWWDDL,1,4,7,9,24,WLLWDWDLLWLW,WDWDWLWDWWWD
-Ajax,PSV,4-1,/match/ajax/psv/2010,2010,27,eredivisie,18,34,0,4,1,3,19,4,3,76,17,LWWDLWLWDWLWWWLWWDWDWWLWWL,12,1,0,46,3,1,20,5,1,59,18,DDWWLWLWDWLWLWLLWLWDWWLDWW,8,3,1,23,7,WDWWWWWWWWWWW,DLLDLLLLLDLW
-Heerenveen,NEC Nijmegen,4-1,/match/heerenveen/nec/2010,2010,28,eredivisie,18,34,0,4,1,14,9,2,16,30,48,DWWLWLLLDWWWLWWWLWWWWWLLLWL,5,2,6,15,15,12,7,7,13,30,45,WWWDDDLLDDLWLDDLWWWWWLWLWWL,2,4,7,11,22,DWLLLDWWLWWLL,WWDLDWDDWWLWW
-Willem II,Utrecht,0-3,/match/willem-ii/fc-utrecht/2010,2010,28,eredivisie,18,34,2,0,3,15,7,2,18,33,52,WWWLWLWWDWWLWDLWLWWWWLWWWWW,6,2,5,23,20,5,11,9,7,28,26,LWDDWWLWDDWWLDWWDDWDWWDLWWL,4,4,6,12,19,WLLWDWDLLWLWW,LDWLDWDDWWWLWL
-PSV,Twente 1965,1-1,/match/psv/fc-twente-1965/2010,2010,28,eredivisie,18,34,1,1,1,2,20,5,2,60,22,DDWWLWLWDWLWLWLLWLWDWWLDWWW,12,2,0,36,11,1,22,4,1,51,21,LDLWDWLWLWWLWWLLWDDWWWLWWLW,9,3,1,21,11,DWWWWWWWWWWWDW,LLDLLLLLDDWLL
-Heracles,NAC Breda,3-0,/match/heracles/nac-breda/2010,2010,28,eredivisie,18,34,0,3,0,7,13,4,10,38,38,WDLLLWDLLLLWWWWWLWLDWWLWLWD,7,1,5,23,22,8,10,7,10,37,43,LDLWWWWLWWWDWDWDWDLWDLWLDWL,4,2,7,15,28,WLLDLWWWWLWLW,LLWWWWDWWLLWD
-RKC Waalwijk,Ajax,1-5,/match/rkc-waalwijk/ajax/2010,2010,28,eredivisie,18,34,2,1,5,18,4,0,23,22,57,LWLWLWWWWLWLLWWLWWLWLLWLWLW,3,0,11,12,22,3,20,4,3,80,18,LWWDLWLWDWLWWWLWWDWDWWLWWLW,7,3,3,30,14,LLLWLLWLWLLLLL,LWLLDLWLWDDLL
-ADO Den Haag,VVV Venlo,0-0,/match/ado-den-haag/vvv/2010,2010,28,eredivisie,18,34,1,0,0,17,5,8,14,28,48,LDLLLWLWDDLWLDLDLWDWWWWDLDW,3,2,8,15,24,10,6,10,11,35,39,DDDDDWLWDDWDWWWWWWDWWWWDWWL,0,4,9,9,22,LLWLDLLLLWWLD,DDDWDWWWWWWWW
-Sparta Rotterdam,AZ Alkmaar,0-1,/match/sparta-rotterdam/az/2010,2010,28,eredivisie,18,34,2,0,1,13,6,7,14,27,48,LWWDWWDLWWLWLWLDLWDWDWWDDLW,5,3,6,17,21,6,14,3,10,53,31,WWLLWWLWWWLLDLWLWWWLDLWDLWW,6,2,6,27,18,LWWLWWLLLDDWDL,WLLWWWLLWWDLDL
-Groningen,Roda JC,1-0,/match/fc-groningen/roda-jc/2010,2010,28,eredivisie,18,34,0,1,0,9,11,6,10,38,36,LDLDLLWWDDWLWWDWLWDLWWWLLWL,6,3,5,17,14,11,9,5,13,35,49,DDWWLWWWDDWLLLWDLLWWWWWWLLL,4,2,8,14,28,LLLWDLWDWDWWLW,DWWWDWLWLWWWLL
-Feyenoord,Vitesse,2-1,/match/feyenoord/vitesse/2010,2010,28,eredivisie,18,34,0,2,1,4,14,9,4,43,26,WDLWDLLLWWWWDDLWLWDDLLDDLLD,6,5,2,21,11,16,6,6,15,26,47,WDWLLDWWWWLWWWLLDWLDDWLWLDL,3,2,9,12,26,WWDLWWDWWDLDD,WWLWWWWLWLDWWD
-NAC Breda,ADO Den Haag,3-0,/match/nac-breda/ado-den-haag/2010,2010,29,eredivisie,18,34,0,3,0,9,10,7,11,37,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLW,6,5,3,22,15,17,5,9,14,28,48,LDLLLWLWDDLWLDLDLWDWWWWDLDWD,2,6,6,13,24,DWLWWWDDDWDLWL,DLLWDWDDWDWWDW
-Vitesse,Willem II,2-1,/match/vitesse/willem-ii/2010,2010,29,eredivisie,18,34,0,2,1,16,6,6,16,27,49,WDWLLDWWWWLWWWLLDWLDDWLWLDLW,3,4,6,14,21,15,7,2,19,33,55,WWWLWLWWDWWLWDLWLWWWWLWWWWWL,1,0,13,10,32,DLDWWLWLDDLLL,WWWWWLWWWWWWWW
-Roda JC,Heerenveen,4-2,/match/roda-jc/heerenveen/2010,2010,29,eredivisie,18,34,0,4,2,11,9,5,14,35,50,DDWWLWWWDDWLLLWDLLWWWWWWLLLW,5,3,5,21,21,12,10,2,16,34,49,DWWLWLLLDWWWLWWWLWWWWWLLLWLW,4,0,10,15,33,DWLWDLLDLWWWL,WWLWWLWWWWWLWL
-AZ Alkmaar,Heracles,3-2,/match/az/heracles/2010,2010,29,eredivisie,18,34,0,3,2,6,15,3,10,54,31,WWLLWWLWWWLLDLWLWWWLDLWDLWWL,8,1,4,26,13,7,14,4,10,41,38,WDLLLWDLLLLWWWWWLWLDWWLWLWDW,6,3,5,15,16,WWLWLDWLWLWWW,DLWLLLWWLDWWLD
-Twente 1965,Sparta Rotterdam,3-0,/match/fc-twente-1965/sparta-rotterdam/2010,2010,29,eredivisie,18,34,0,3,0,1,22,5,1,52,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWD,13,1,0,30,10,14,6,7,15,27,49,LWWDWWDLWWLWLWLDLWDWDWWDDLWL,1,4,8,10,27,DWWWWWWWWWWWWW,WDWDWLWDWWWDW
-NEC Nijmegen,Feyenoord,0-0,/match/nec/feyenoord/2010,2010,29,eredivisie,18,34,1,0,0,13,7,7,14,31,49,WWWDDDLLDDLWLDDLWWWWWLWLWWLW,5,3,6,19,23,4,15,9,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDW,8,4,2,22,15,WDDLDLLLWWWWLL,DLLLWWDLLDLDLL
-Ajax,Groningen,3-0,/match/ajax/fc-groningen/2010,2010,29,eredivisie,18,34,0,3,0,3,21,4,3,85,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWL,13,1,0,50,4,8,12,6,10,39,36,LDLDLLWWDDWLWWDWLWDLWWWLLWLW,5,3,5,21,22,WDWWWWWWWWWWWW,DDLWDWWWLLWLL
-Utrecht,RKC Waalwijk,2-0,/match/fc-utrecht/rkc-waalwijk/2010,2010,29,eredivisie,18,34,0,2,0,5,12,9,7,31,26,LWDDWWLWDDWWLDWWDDWDWWDLWWLL,7,5,1,16,7,18,4,0,24,23,62,LWLWLWWWWLWLLWWLWWLWLLWLWLWL,1,0,12,10,35,WDWWDWLWWDDDW,WWWWWWLWWWWWW
-VVV Venlo,PSV,2-4,/match/vvv/psv/2010,2010,29,eredivisie,18,34,2,2,4,10,6,11,11,35,39,DDDDDWLWDDWDWWWWWWDWWWWDWWLD,6,6,2,26,17,2,20,6,2,61,23,DDWWLWLWDWLWLWLLWLWDWWLDWWWD,8,3,2,24,11,DDWLDDWWWDWWDL,DLLDLLLLLDLWW
-VVV Venlo,Twente 1965,0-2,/match/vvv/fc-twente-1965/2010,2010,30,eredivisie,18,34,2,0,2,10,6,11,12,37,43,DDDDDWLWDDWDWWWWWWDWWWWDWWLDL,6,6,3,28,21,1,23,5,1,55,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWDW,9,4,1,22,12,DDWLDDWWWDWWDLL,LLDLLLLLDDWLLD
-Vitesse,Groningen,3-0,/match/vitesse/fc-groningen/2010,2010,30,eredivisie,18,34,0,3,0,15,7,6,16,29,50,WDWLLDWWWWLWWWLLDWLDDWLWLDLWW,4,4,6,16,22,9,12,6,11,39,39,LDLDLLWWDDWLWWDWLWDLWWWLLWLWW,5,3,6,21,25,DLDWWLWLDDLLLW,DDLWDWWWLLWLLW
-AZ Alkmaar,Utrecht,2-0,/match/az/fc-utrecht/2010,2010,30,eredivisie,18,34,0,2,0,6,16,3,10,57,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLW,9,1,4,29,15,5,13,9,7,33,26,LWDDWWLWDDWWLDWWDDWDWWDLWWLLW,5,4,6,15,19,WWLWLDWLWLWWWW,LDWLDWDDWWWLWLL
-Roda JC,RKC Waalwijk,5-1,/match/roda-jc/rkc-waalwijk/2010,2010,30,eredivisie,18,34,0,5,1,11,10,5,14,39,52,DDWWLWWWDDWLLLWDLLWWWWWWLLLWW,6,3,5,25,23,18,4,0,25,23,64,LWLWLWWWWLWLLWWLWWLWLLWLWLWLW,1,0,13,10,37,DWLWDLLDLWWWLW,WWWWWWLWWWWWWW
-Heerenveen,Sparta Rotterdam,4-1,/match/heerenveen/sparta-rotterdam/2010,2010,30,eredivisie,18,34,0,4,1,12,10,2,17,36,53,DWWLWLLLDWWWLWWWLWWWWWLLLWLWW,6,2,6,19,16,14,6,7,16,27,52,LWWDWWDLWWLWLWLDLWDWDWWDDLWLW,1,4,9,10,30,DWLLLDWWLWWLLW,WDWDWLWDWWWDWW
-Feyenoord,NAC Breda,0-0,/match/feyenoord/nac-breda/2010,2010,30,eredivisie,18,34,1,0,0,4,15,10,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWD,7,5,2,23,12,8,11,7,11,40,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLWW,4,2,8,15,31,WWDLWWDWWDLDDW,LLWWWWDWWLLWDW
-ADO Den Haag,Ajax,0-1,/match/ado-den-haag/ajax/2010,2010,30,eredivisie,18,34,2,0,1,17,5,9,15,28,51,LDLLLWLWDDLWLDLDLWDWWWWDLDWDW,3,3,8,15,24,2,22,4,3,88,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLW,8,3,3,35,15,LLWLDLLLLWWLDD,LWLLDLWLWDDLLL
-Heracles,NEC Nijmegen,2-0,/match/heracles/nec/2010,2010,30,eredivisie,18,34,0,2,0,7,14,4,11,43,41,WDLLLWDLLLLWWWWWLWLDWWLWLWDWW,8,1,5,26,22,13,7,8,14,31,49,WWWDDDLLDDLWLDDLWWWWWLWLWWLWD,2,4,8,12,26,WLLDLWWWWLWLWW,WWDLDWDDWWLWWW
-Willem II,PSV,0-1,/match/willem-ii/psv/2010,2010,30,eredivisie,18,34,2,0,1,16,7,2,20,34,57,WWWLWLWWDWWLWDLWLWWWWLWWWWWLW,6,2,6,23,23,3,21,6,2,65,25,DDWWLWLWDWLWLWLLWLWDWWLDWWWDL,9,3,2,28,13,WLLWDWDLLWLWWL,DLLDLLLLLDLWWL
-RKC Waalwijk,Vitesse,4-1,/match/rkc-waalwijk/vitesse/2010,2010,31,eredivisie,18,34,0,4,1,18,4,0,26,24,69,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWW,3,0,12,13,27,14,8,6,16,32,50,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWW,3,2,10,13,28,LLLWLLWLWLLLLLL,WWLWWWWLWLDWWDW
-Twente 1965,Heerenveen,2-0,/match/fc-twente-1965/heerenveen/2010,2010,31,eredivisie,18,34,0,2,0,1,24,5,1,57,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWL,14,1,0,33,10,12,11,2,17,40,54,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWW,4,0,11,17,37,DWWWWWWWWWWWWWW,WWLWWLWWWWWLWLW
-NEC Nijmegen,AZ Alkmaar,0-0,/match/nec/az/2010,2010,31,eredivisie,18,34,1,0,0,13,7,8,15,31,51,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDW,5,4,6,19,23,5,17,3,10,59,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWW,7,2,6,28,18,WDDLDLLLWWWWLLD,WLLWWWLLWWDLDLL
-NAC Breda,Roda JC,1-0,/match/nac-breda/roda-jc/2010,2010,31,eredivisie,18,34,0,1,0,8,11,8,11,40,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWD,7,5,3,25,15,10,11,5,14,44,53,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWW,4,2,9,14,29,DWLWWWDDDWDLWLW,DWWWDWLWLWWWLLW
-Sparta Rotterdam,Heracles,1-1,/match/sparta-rotterdam/heracles/2010,2010,31,eredivisie,18,34,1,1,1,15,6,7,17,28,56,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWW,5,3,7,17,22,7,15,4,11,45,41,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWW,6,3,6,17,19,LWWLWWLLLDDWDLL,DLWLLLWWLDWWLDW
-PSV,Feyenoord,0-0,/match/psv/feyenoord/2010,2010,31,eredivisie,18,34,1,0,0,3,22,6,2,66,25,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLL,12,3,0,37,12,4,15,11,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDD,8,5,2,22,15,DWWWWWWWWWWWDWD,DLLLWWDLLDLDLLD
-Utrecht,ADO Den Haag,0-2,/match/fc-utrecht/ado-den-haag/2010,2010,31,eredivisie,18,34,2,0,2,6,13,9,8,33,28,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWW,8,5,1,18,7,17,5,9,16,28,52,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWL,2,6,7,13,27,WDWWDWLWWDDDWW,DLLWDWDDWDWWDWW
-Ajax,VVV Venlo,7-0,/match/ajax/vvv/2010,2010,31,eredivisie,18,34,0,7,0,2,23,4,3,89,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWL,14,1,0,53,4,11,6,11,13,37,45,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLL,0,5,9,9,22,WDWWWWWWWWWWWWW,DDDWDWWWWWWWWD
-Groningen,Willem II,4-0,/match/fc-groningen/willem-ii/2010,2010,31,eredivisie,18,34,0,4,0,9,12,6,12,39,42,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWW,7,3,5,18,14,16,7,2,21,34,58,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWL,1,0,14,11,34,LLLWDLWDWDWWLWW,WWWWWLWWWWWWWWW
-Heracles,RKC Waalwijk,4-1,/match/heracles/rkc-waalwijk/2010,2010,32,eredivisie,18,34,0,4,1,7,15,5,11,46,42,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWWD,9,1,5,28,22,18,5,0,26,28,70,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWWW,1,0,14,11,42,WLLDLWWWWLWLWWW,WWWWWWLWWWWWWWW
-Vitesse,NAC Breda,1-1,/match/vitesse/nac-breda/2010,2010,32,eredivisie,18,34,1,1,1,14,8,6,17,33,54,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWWW,5,4,6,19,22,8,12,8,11,41,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWDW,4,3,8,15,31,DLDWWLWLDDLLLWW,LLWWWWDWWLLWDWD
-AZ Alkmaar,Twente 1965,1-0,/match/az/fc-twente-1965/2010,2010,32,eredivisie,18,34,0,1,0,5,17,4,10,59,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWWD,10,1,4,31,15,1,25,5,1,59,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWLW,10,4,1,24,12,WWLWLDWLWLWWWWW,LLDLLLLLDDWLLDL
-Willem II,Ajax,0-2,/match/willem-ii/ajax/2010,2010,32,eredivisie,18,34,2,0,2,16,7,2,22,34,62,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWLW,6,2,7,23,24,2,24,4,3,96,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWLW,9,3,3,36,15,WLLWDWDLLWLWWLL,LWLLDLWLWDDLLLL
-Roda JC,VVV Venlo,4-2,/match/roda-jc/vvv/2010,2010,32,eredivisie,18,34,0,4,2,10,11,5,15,44,54,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWWW,7,3,5,30,24,11,6,11,14,37,52,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLLW,0,5,10,9,29,DWLWDLLDLWWWLWW,DDDWDWWWWWWWWDW
-Feyenoord,Sparta Rotterdam,3-0,/match/feyenoord/sparta-rotterdam/2010,2010,32,eredivisie,18,34,0,3,0,4,15,12,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDDD,7,6,2,23,12,15,6,8,17,29,57,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWWD,1,4,10,11,34,WWDLWWDWWDLDDWD,WDWDWLWDWWWDWWW
-Heerenveen,PSV,2-2,/match/heerenveen/psv/2010,2010,32,eredivisie,18,34,1,2,2,12,11,2,18,40,56,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWWW,7,2,6,23,17,3,22,7,2,66,25,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLLD,10,3,2,29,13,DWLLLDWWLWWLLWW,DLLDLLLLLDLWWLL
-ADO Den Haag,NEC Nijmegen,2-3,/match/ado-den-haag/nec/2010,2010,32,eredivisie,18,34,2,2,3,17,6,9,16,30,52,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWLL,3,3,9,15,25,13,7,9,15,31,51,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDWD,2,4,9,12,28,LLWLDLLLLWWLDDL,WWDLDWDDWWLWWWW
-Utrecht,Groningen,1-1,/match/fc-utrecht/fc-groningen/2010,2010,32,eredivisie,18,34,1,1,1,6,13,9,9,33,30,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWWL,8,5,2,18,9,9,13,6,12,43,42,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWWW,5,3,7,21,28,WDWWDWLWWDDDWWL,DDLWDWWWLLWLLWW
-Heerenveen,NAC Breda,0-0,/match/heerenveen/nac-breda/2010,2010,33,eredivisie,18,34,1,0,0,11,11,3,18,42,58,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWWWD,7,3,6,25,19,8,12,9,11,42,47,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWDWD,4,4,8,16,32,DWLLLDWWLWWLLWWD,LLWWWWDWWLLWDWDD
-Twente 1965,Feyenoord,2-0,/match/fc-twente-1965/feyenoord/2010,2010,33,eredivisie,18,34,0,2,0,1,25,5,2,59,23,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWLWW,15,1,0,35,10,4,16,12,4,48,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDDDW,8,6,2,22,15,DWWWWWWWWWWWWWWW,DLLLWWDLLDLDLLDD
-PSV,Groningen,3-1,/match/psv/fc-groningen/2010,2010,33,eredivisie,18,34,0,3,1,3,22,8,2,68,27,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLLDD,12,4,0,37,12,9,13,7,12,44,43,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWWWD,5,4,7,22,29,DWWWWWWWWWWWDWDD,DDLWDWWWLLWLLWWD
-Willem II,AZ Alkmaar,0-3,/match/willem-ii/az/2010,2010,33,eredivisie,18,34,2,0,3,16,7,2,23,34,64,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWLWL,6,2,8,23,26,5,18,4,10,60,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWWDW,7,3,6,28,18,WLLWDWDLLWLWWLLL,WLLWWWLLWWDLDLLD
-ADO Den Haag,RKC Waalwijk,4-0,/match/ado-den-haag/rkc-waalwijk/2010,2010,33,eredivisie,18,34,0,4,0,17,6,9,17,32,55,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWLLL,3,3,10,17,28,18,5,0,27,29,74,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWWWW,1,0,15,12,46,LLWLDLLLLWWLDDLL,WWWWWWLWWWWWWWWW
-Vitesse,Roda JC,2-5,/match/vitesse/roda-jc/2010,2010,33,eredivisie,18,34,2,2,5,14,8,7,17,34,55,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWWWD,5,5,6,20,23,10,12,5,15,48,56,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWWWW,4,2,10,14,30,DLDWWLWLDDLLLWWD,DWWWDWLWLWWWLLWW
-VVV Venlo,NEC Nijmegen,2-0,/match/vvv/nec/2010,2010,33,eredivisie,18,34,0,2,0,12,6,11,15,39,56,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLLWW,6,6,4,28,23,13,8,9,15,34,53,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDWDL,3,4,9,15,30,DDWLDDWWWDWWDLLL,WWDLDWDDWWLWWWWL
-Sparta Rotterdam,Utrecht,0-3,/match/sparta-rotterdam/fc-utrecht/2010,2010,33,eredivisie,18,34,2,0,3,15,6,8,18,29,60,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWWDW,5,4,7,18,23,6,13,10,9,34,31,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWWLD,5,4,7,15,21,LWWLWWLLLDDWDLLD,LDWLDWDDWWWLWLLW
-Ajax,Heracles,4-0,/match/ajax/heracles/2010,2010,33,eredivisie,18,34,0,4,0,2,25,4,3,98,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWLWL,15,1,0,60,4,7,16,5,11,50,43,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWWDW,6,4,6,18,20,WDWWWWWWWWWWWWWW,DLWLLLWWLDWWLDWD
-AZ Alkmaar,PSV,1-1,/match/az/psv/2010,2010,34,eredivisie,18,34,1,1,1,5,19,4,10,63,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWWDWL,11,1,4,32,15,3,23,8,2,71,28,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLLDDW,10,4,2,31,15,WWLWLDWLWLWWWWWW,DLLDLLLLLDLWWLLD
-Feyenoord,Heerenveen,6-2,/match/feyenoord/heerenveen/2010,2010,34,eredivisie,18,34,0,6,2,4,16,12,5,48,29,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDDDWW,8,6,2,26,12,12,11,4,18,42,58,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWWWDD,4,0,12,17,39,WWDLWWDWWDLDDWDW,WWLWWLWWWWWLWLWW
-RKC Waalwijk,VVV Venlo,1-2,/match/rkc-waalwijk/vvv/2010,2010,34,eredivisie,18,34,2,1,2,18,5,0,28,29,78,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWWWWW,4,0,12,17,28,11,7,11,15,41,56,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLLWWW,0,5,11,11,33,LLLWLLWLWLLLLLLW,DDDWDWWWWWWWWDWW
-Heracles,ADO Den Haag,4-2,/match/heracles/ado-den-haag/2010,2010,34,eredivisie,18,34,0,4,2,7,16,5,12,50,47,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWWDWW,10,1,5,32,23,16,7,9,17,36,55,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWLLLW,3,6,7,15,27,WLLDLWWWWLWLWWWW,DLLWDWDDWDWWDWWL
-Utrecht,Vitesse,2-2,/match/fc-utrecht/vitesse/2010,2010,34,eredivisie,18,34,1,2,2,6,14,10,9,37,31,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWWLDL,8,6,2,19,10,14,8,7,18,36,60,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWWWDL,3,2,11,14,32,WDWWDWLWWDDDWWLD,WWLWWWWLWLDWWDWW
-Groningen,Sparta Rotterdam,3-1,/match/fc-groningen/sparta-rotterdam/2010,2010,34,eredivisie,18,34,0,3,1,9,13,7,13,45,46,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWWWDW,8,3,5,22,14,15,6,8,19,29,63,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWWDWL,1,4,11,11,37,LLLWDLWDWDWWLWWW,WDWDWLWDWWWDWWWW
-NEC Nijmegen,Ajax,1-4,/match/nec/ajax/2010,2010,34,eredivisie,18,34,2,1,4,13,8,9,16,34,55,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDWDLW,5,5,6,19,23,2,26,4,3,102,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWLWLW,10,3,3,38,15,WDDLDLLLWWWWLLDD,LWLLDLWLWDDLLLLL
-Roda JC,Willem II,3-2,/match/roda-jc/willem-ii/2010,2010,34,eredivisie,18,34,0,3,2,10,13,5,15,53,58,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWWWWL,8,3,5,34,26,17,7,2,24,34,67,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWLWLL,1,0,15,11,38,DWLWDLLDLWWWLWWW,WWWWWLWWWWWWWWWW
-NAC Breda,Twente 1965,0-2,/match/nac-breda/fc-twente-1965/2010,2010,34,eredivisie,18,34,2,0,2,8,12,10,11,42,47,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWDWDD,8,5,3,26,15,1,26,5,2,61,23,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWLWWW,10,4,2,24,13,DWLWWWDDDWDLWLWW,LLDLLLLLDDWLLDLW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Heerenveen,Roda JC,0-0,/match/heerenveen/roda-jc/2010,2010,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Willem II,Vitesse,3-1,/match/willem-ii/vitesse/2010,2010,1,eredivisie,18,34,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Heracles,AZ Alkmaar,3-2,/match/heracles/az/2010,2010,1,eredivisie,18,34,0,3,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sparta Rotterdam,Twente 1965,0-2,/match/sparta-rotterdam/fc-twente-1965/2010,2010,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+RKC Waalwijk,Utrecht,0-1,/match/rkc-waalwijk/fc-utrecht/2010,2010,1,eredivisie,18,34,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+ADO Den Haag,NAC Breda,1-2,/match/ado-den-haag/nac-breda/2010,2010,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Feyenoord,NEC Nijmegen,2-0,/match/feyenoord/nec/2010,2010,1,eredivisie,18,34,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Groningen,Ajax,0-2,/match/fc-groningen/ajax/2010,2010,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+PSV,VVV Venlo,3-3,/match/psv/vvv/2010,2010,1,eredivisie,18,34,1,3,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+NEC Nijmegen,Heerenveen,4-1,/match/nec/heerenveen/2010,2010,2,eredivisie,18,34,0,4,1,15,0,0,0,1,0,2,W,0,0,0,0,0,6,2,0,1,0,0,0,D,0,0,0,0,0,,
+AZ Alkmaar,Sparta Rotterdam,2-0,/match/az/sparta-rotterdam/2010,2010,2,eredivisie,18,34,0,2,0,16,0,0,0,1,2,3,W,0,0,0,0,0,18,0,0,0,1,0,2,L,0,0,0,0,0,,
+Ajax,RKC Waalwijk,4-1,/match/ajax/rkc-waalwijk/2010,2010,2,eredivisie,18,34,0,4,1,5,2,1,0,0,2,0,L,0,0,0,0,0,12,0,0,0,1,0,1,L,0,0,0,0,0,,
+Roda JC,Groningen,1-1,/match/roda-jc/fc-groningen/2010,2010,2,eredivisie,18,34,1,1,1,10,1,0,1,0,0,0,D,0,0,0,0,0,17,0,0,0,1,0,2,L,0,0,0,0,0,,
+NAC Breda,Heracles,0-0,/match/nac-breda/heracles/2010,2010,2,eredivisie,18,34,1,0,0,9,2,1,0,0,2,1,L,0,0,0,0,0,1,4,1,0,0,3,2,W,0,0,0,0,0,,
+Vitesse,Feyenoord,0-0,/match/vitesse/feyenoord/2010,2010,2,eredivisie,18,34,1,0,0,14,0,0,0,1,1,3,W,0,0,0,0,0,3,4,1,0,0,2,0,W,0,0,0,0,0,,
+Twente 1965,PSV,1-1,/match/fc-twente-1965/psv/2010,2010,2,eredivisie,18,34,1,1,1,4,2,1,0,0,2,0,L,0,0,0,0,0,8,2,0,1,0,3,3,D,0,0,0,0,0,,
+Utrecht,Willem II,1-0,/match/fc-utrecht/willem-ii/2010,2010,2,eredivisie,18,34,0,1,0,7,2,1,0,0,1,0,L,0,0,0,0,0,2,4,1,0,0,3,1,W,0,0,0,0,0,,
+VVV Venlo,ADO Den Haag,2-2,/match/vvv/ado-den-haag/2010,2010,2,eredivisie,18,34,1,2,2,11,1,0,1,0,3,3,D,0,0,0,0,0,13,0,0,0,1,1,2,L,0,0,0,0,0,,
+Sparta Rotterdam,Willem II,2-1,/match/sparta-rotterdam/willem-ii/2010,2010,3,eredivisie,18,34,0,2,1,18,0,0,0,2,0,4,LW,0,0,1,0,2,9,4,1,0,1,3,2,WW,0,0,1,0,1,L,W
+ADO Den Haag,Twente 1965,0-1,/match/ado-den-haag/fc-twente-1965/2010,2010,3,eredivisie,18,34,2,0,1,15,1,0,1,1,3,4,LD,0,0,1,1,2,5,4,1,1,0,3,1,LD,1,0,0,2,0,L,L
+RKC Waalwijk,AZ Alkmaar,0-6,/match/rkc-waalwijk/az/2010,2010,3,eredivisie,18,34,2,0,6,17,0,0,0,2,1,5,LW,0,0,1,0,1,6,4,1,0,1,4,3,WW,0,0,1,2,3,L,W
+Heerenveen,Vitesse,1-0,/match/heerenveen/vitesse/2010,2010,3,eredivisie,18,34,0,1,0,14,2,0,1,1,1,4,DW,0,1,0,0,0,13,2,0,1,1,1,3,WD,0,0,1,1,3,D,W
+PSV,Ajax,4-3,/match/psv/ajax/2010,2010,3,eredivisie,18,34,0,4,3,12,3,0,2,0,4,4,DD,0,1,0,3,3,1,6,2,0,0,6,1,LW,1,0,0,2,0,D,L
+Roda JC,NEC Nijmegen,1-0,/match/roda-jc/nec/2010,2010,3,eredivisie,18,34,0,1,0,11,3,0,2,0,1,1,DD,0,1,0,1,1,7,4,1,0,1,4,3,WW,0,0,1,0,2,D,W
+Heracles,Feyenoord,0-1,/match/heracles/feyenoord/2010,2010,3,eredivisie,18,34,2,0,1,3,5,1,1,0,3,2,WD,1,0,0,3,2,4,5,1,1,0,2,0,WD,0,1,0,0,0,W,D
+Utrecht,VVV Venlo,2-2,/match/fc-utrecht/vvv/2010,2010,3,eredivisie,18,34,1,2,2,2,6,2,0,0,2,0,LW,1,0,0,1,0,10,3,0,2,0,5,5,DD,0,1,0,3,3,W,D
+Groningen,NAC Breda,1-2,/match/fc-groningen/nac-breda/2010,2010,3,eredivisie,18,34,2,1,2,16,1,0,1,1,1,3,LD,0,0,1,0,2,8,4,1,1,0,2,1,LD,1,0,0,2,1,L,L
+Vitesse,ADO Den Haag,1-3,/match/vitesse/ado-den-haag/2010,2010,4,eredivisie,18,34,2,1,3,15,2,0,1,2,1,4,WDW,0,1,0,0,0,16,1,0,1,2,3,5,LDL,0,1,0,2,2,D,D
+Willem II,Heracles,0-1,/match/willem-ii/heracles/2010,2010,4,eredivisie,18,34,2,0,1,12,4,1,0,2,4,4,WWW,1,0,0,3,1,10,5,1,1,1,3,3,WDL,0,1,0,0,0,W,D
+VVV Venlo,Groningen,2-2,/match/vvv/fc-groningen/2010,2010,4,eredivisie,18,34,1,2,2,11,4,0,3,0,7,7,DDD,0,1,0,2,2,17,1,0,1,2,2,5,LDL,0,1,0,1,1,D,D
+Twente 1965,RKC Waalwijk,2-1,/match/fc-twente-1965/rkc-waalwijk/2010,2010,4,eredivisie,18,34,0,2,1,6,6,2,1,0,4,1,LDL,0,1,0,1,1,18,0,0,0,3,1,11,LWL,0,0,1,1,4,D,W
+Ajax,Sparta Rotterdam,0-0,/match/ajax/sparta-rotterdam/2010,2010,4,eredivisie,18,34,1,0,0,5,6,2,0,1,9,5,LWW,1,0,0,4,1,14,4,1,0,2,2,5,LWW,0,0,1,0,2,W,W
+Heerenveen,AZ Alkmaar,0-2,/match/heerenveen/az/2010,2010,4,eredivisie,18,34,2,0,2,8,6,1,1,1,2,4,DWW,1,1,0,1,0,7,6,2,0,1,10,3,WWL,1,0,1,8,3,DW,WL
+PSV,NAC Breda,3-1,/match/psv/nac-breda/2010,2010,4,eredivisie,18,34,0,3,1,4,7,1,2,0,8,7,DDW,1,1,0,7,6,9,6,2,1,0,4,2,LDL,2,0,0,4,2,DW,LL
+Feyenoord,Roda JC,4-0,/match/feyenoord/roda-jc/2010,2010,4,eredivisie,18,34,0,4,0,3,7,2,1,0,3,0,WDL,1,0,0,2,0,2,7,1,2,0,2,1,DDW,0,1,0,0,0,W,D
+NEC Nijmegen,Utrecht,1-1,/match/nec/fc-utrecht/2010,2010,4,eredivisie,18,34,1,1,1,13,4,1,0,2,4,4,WWW,1,0,0,4,1,1,8,2,1,0,4,2,LWD,1,0,0,1,0,W,L
+RKC Waalwijk,ADO Den Haag,0-2,/match/rkc-waalwijk/ado-den-haag/2010,2010,5,eredivisie,18,34,2,0,2,18,0,0,0,4,2,13,LWLW,0,0,2,0,7,15,3,1,1,2,6,6,LDLL,1,1,0,5,3,LL,DL
+Roda JC,Vitesse,3-4,/match/roda-jc/vitesse/2010,2010,5,eredivisie,18,34,2,3,4,7,7,1,2,1,2,5,DDWW,1,1,0,2,1,16,2,0,1,3,2,7,WDWL,0,0,2,1,4,DW,WW
+NEC Nijmegen,VVV Venlo,1-1,/match/nec/vvv/2010,2010,5,eredivisie,18,34,1,1,1,12,6,1,1,2,5,5,WWWD,1,1,0,5,2,11,6,0,4,0,9,9,DDDD,0,2,0,5,5,WD,DD
+AZ Alkmaar,Willem II,2-1,/match/az/willem-ii/2010,2010,5,eredivisie,18,34,0,2,1,6,8,3,0,1,12,3,WWLL,1,0,0,2,0,14,4,1,0,3,4,5,WWWL,0,0,2,1,3,W,WW
+Utrecht,Sparta Rotterdam,2-0,/match/fc-utrecht/sparta-rotterdam/2010,2010,5,eredivisie,18,34,0,2,0,4,9,2,2,0,5,3,LWDD,1,1,0,3,2,13,5,1,1,2,2,5,LWWD,0,1,1,0,2,WD,WD
+Feyenoord,Twente 1965,1-1,/match/feyenoord/fc-twente-1965/2010,2010,5,eredivisie,18,34,1,1,1,1,11,3,1,0,7,0,WDLW,2,0,0,6,0,3,10,3,1,0,6,2,LDLW,2,0,0,3,0,WW,LL
+Groningen,PSV,0-2,/match/fc-groningen/psv/2010,2010,5,eredivisie,18,34,2,0,2,17,2,0,2,2,4,7,LDLD,0,0,2,1,4,2,11,2,2,0,11,8,DDWW,0,1,0,1,1,LL,D
+NAC Breda,Heerenveen,2-0,/match/nac-breda/heerenveen/2010,2010,5,eredivisie,18,34,0,2,0,9,6,2,1,1,5,5,LDLW,0,1,0,0,0,10,6,1,1,2,2,6,DWWL,0,0,1,1,4,D,W
+Heracles,Ajax,0-3,/match/heracles/ajax/2010,2010,5,eredivisie,18,34,2,0,3,8,7,2,1,1,4,3,WDLL,1,0,1,3,3,5,8,2,1,1,9,5,LWWD,1,0,1,5,4,WL,LW
+PSV,Roda JC,3-0,/match/psv/roda-jc/2010,2010,6,eredivisie,18,34,0,3,0,3,13,3,2,0,13,8,DDWWL,2,1,0,10,7,9,7,1,2,2,5,9,DDWWL,0,1,1,0,4,DWW,DW
+Twente 1965,Utrecht,3-2,/match/fc-twente-1965/fc-utrecht/2010,2010,6,eredivisie,18,34,0,3,2,5,11,3,2,0,7,3,LDLWD,1,1,0,3,2,2,13,3,2,0,7,3,LWDDW,1,1,0,2,1,DW,LD
+Heerenveen,Groningen,0-1,/match/heerenveen/fc-groningen/2010,2010,6,eredivisie,18,34,2,0,1,12,6,1,1,3,2,8,DWWLW,1,1,1,1,2,17,2,0,2,3,4,9,LDLDL,0,2,0,3,3,DWL,DD
+ADO Den Haag,AZ Alkmaar,2-1,/match/ado-den-haag/az/2010,2010,6,eredivisie,18,34,0,2,1,14,5,2,1,2,8,6,LDLLL,0,0,2,1,3,4,12,4,0,1,14,4,WWLLW,2,0,1,10,3,LL,WLL
+Willem II,Feyenoord,2-3,/match/willem-ii/feyenoord/2010,2010,6,eredivisie,18,34,2,2,3,15,4,1,0,4,5,7,WWWLW,1,0,1,3,2,1,13,3,2,0,8,1,WDLWD,1,1,0,1,0,WL,DL
+Sparta Rotterdam,RKC Waalwijk,1-0,/match/sparta-rotterdam/rkc-waalwijk/2010,2010,6,eredivisie,18,34,0,1,0,13,5,1,1,3,2,7,LWWDW,1,0,1,2,3,18,0,0,0,5,2,15,LWLWL,0,0,2,2,6,LW,WW
+Ajax,NAC Breda,6-0,/match/ajax/nac-breda/2010,2010,6,eredivisie,18,34,0,6,0,6,10,3,1,1,12,5,LWWDL,1,1,0,4,1,7,10,3,1,1,7,5,LDLWW,2,0,1,5,5,WD,LLW
+VVV Venlo,Heracles,1-0,/match/vvv/heracles/2010,2010,6,eredivisie,18,34,0,1,0,11,7,0,5,0,10,10,DDDDD,0,2,0,4,4,10,7,2,1,2,4,6,WDLLL,1,1,0,1,0,DD,DL
+Vitesse,NEC Nijmegen,2-2,/match/vitesse/nec/2010,2010,6,eredivisie,18,34,1,2,2,16,4,1,1,3,6,10,WDWLL,0,1,1,1,3,8,8,1,2,2,6,6,WWWDD,0,0,2,0,3,DL,WW
+Willem II,Groningen,2-1,/match/willem-ii/fc-groningen/2010,2010,7,eredivisie,18,34,0,2,1,16,4,1,0,5,7,10,WWWLWL,1,0,2,5,5,17,4,1,2,3,5,9,LDLDLL,1,2,0,4,3,WLL,DDL
+Heracles,Sparta Rotterdam,1-1,/match/heracles/sparta-rotterdam/2010,2010,7,eredivisie,18,34,1,1,1,12,7,2,1,3,4,7,WDLLLW,1,0,2,3,6,9,9,2,1,3,3,7,LWWDWW,0,1,2,0,4,WLL,WDW
+Vitesse,RKC Waalwijk,3-1,/match/vitesse/rkc-waalwijk/2010,2010,7,eredivisie,18,34,0,3,1,15,6,1,2,3,8,12,WDWLLD,0,2,1,3,5,18,0,0,0,6,2,16,LWLWLW,0,0,3,2,7,DLD,WWW
+Roda JC,NAC Breda,2-0,/match/roda-jc/nac-breda/2010,2010,7,eredivisie,18,34,0,2,0,13,7,1,2,3,5,12,DDWWLW,1,1,1,5,5,8,10,3,1,2,7,11,LDLWWW,2,0,2,5,11,DWL,LLWW
+AZ Alkmaar,NEC Nijmegen,0-1,/match/az/nec/2010,2010,7,eredivisie,18,34,2,0,1,6,12,4,0,2,15,6,WWLLWW,2,0,0,4,1,10,9,1,3,2,8,8,WWWDDD,0,1,2,2,5,WW,WWD
+ADO Den Haag,Utrecht,0-1,/match/ado-den-haag/fc-utrecht/2010,2010,7,eredivisie,18,34,2,0,1,11,9,3,1,2,10,7,LDLLLW,1,0,2,3,4,5,13,3,2,1,9,6,LWDDWW,1,1,1,4,4,LLW,LDW
+Heerenveen,Twente 1965,0-2,/match/heerenveen/fc-twente-1965/2010,2010,7,eredivisie,18,34,2,0,2,14,6,1,1,4,2,9,DWWLWL,1,1,2,1,3,3,15,4,2,0,10,5,LDLWDW,2,1,0,4,1,DWLL,LLD
+Feyenoord,PSV,1-3,/match/feyenoord/psv/2010,2010,7,eredivisie,18,34,2,1,3,2,15,4,2,0,11,3,WDLWDL,2,1,0,7,1,1,17,4,2,0,16,8,DDWWLW,1,1,0,3,1,WWD,DL
+VVV Venlo,Ajax,0-4,/match/vvv/ajax/2010,2010,7,eredivisie,18,34,2,0,4,7,11,1,5,0,11,10,DDDDDW,1,2,0,5,4,4,14,4,1,1,18,5,LWWDLW,2,0,1,8,4,DDW,LWL
+Utrecht,AZ Alkmaar,1-0,/match/fc-utrecht/az/2010,2010,8,eredivisie,18,34,0,1,0,5,15,4,2,1,10,6,LWDDWWL,2,1,0,5,2,6,12,4,0,3,15,7,WWLLWWL,2,0,2,11,5,WDW,WLLW
+PSV,Willem II,3-1,/match/psv/willem-ii/2010,2010,8,eredivisie,18,34,0,3,1,1,19,5,2,0,19,9,DDWWLWL,3,1,0,13,7,15,8,2,0,5,9,11,WWWLWLW,0,0,3,2,5,DWWW,WWW
+RKC Waalwijk,Roda JC,4-1,/match/rkc-waalwijk/roda-jc/2010,2010,8,eredivisie,18,34,0,4,1,18,0,0,0,7,3,19,LWLWLWW,0,0,3,0,9,7,11,2,2,3,7,12,DDWWLWW,0,1,2,0,7,LLL,DWW
+Twente 1965,VVV Venlo,2-1,/match/fc-twente-1965/vvv/2010,2010,8,eredivisie,18,34,0,2,1,2,17,5,2,0,12,5,LDLWDWL,2,1,0,6,4,9,11,1,5,1,11,14,DDDDDWL,0,3,0,6,6,DWW,DDD
+Ajax,ADO Den Haag,3-0,/match/ajax/ado-den-haag/2010,2010,8,eredivisie,18,34,0,3,0,3,16,5,1,1,22,5,LWWDLWL,2,1,0,10,1,13,9,3,1,3,10,8,LDLLLWL,2,1,0,7,3,WDW,DLL
+Groningen,Vitesse,1-0,/match/fc-groningen/vitesse/2010,2010,8,eredivisie,18,34,0,1,0,17,4,1,2,4,6,11,LDLDLLW,0,0,3,1,6,12,10,2,2,3,11,13,WDWLLDW,1,0,2,5,7,LLL,WWL
+Sparta Rotterdam,Heerenveen,0-2,/match/sparta-rotterdam/heerenveen/2010,2010,8,eredivisie,18,34,2,0,2,10,10,2,2,3,4,8,LWWDWWD,2,0,1,3,3,16,6,1,1,5,2,11,DWWLWLL,0,0,2,1,6,LWW,WW
+NAC Breda,Feyenoord,0-2,/match/nac-breda/feyenoord/2010,2010,8,eredivisie,18,34,2,0,2,11,10,3,1,3,7,13,LDLWWWW,1,1,0,2,0,4,15,4,2,1,12,6,WDLWDLL,2,1,0,4,2,DW,DLL
+NEC Nijmegen,Heracles,0-2,/match/nec/heracles/2010,2010,8,eredivisie,18,34,2,0,2,8,11,2,3,2,9,8,WWWDDDL,1,2,0,6,3,14,9,2,2,3,5,8,WDLLLWD,1,1,1,1,1,WDD,DLW
+Vitesse,Sparta Rotterdam,2-0,/match/vitesse/sparta-rotterdam/2010,2010,9,eredivisie,18,34,0,2,0,11,10,2,2,4,11,14,WDWLLDWW,1,2,1,6,6,12,10,2,2,4,4,10,LWWDWWDL,0,2,2,1,5,DLDW,WDWD
+ADO Den Haag,Groningen,1-1,/match/ado-den-haag/fc-groningen/2010,2010,9,eredivisie,18,34,1,1,1,14,9,3,1,4,10,11,LDLLLWLW,1,0,3,3,5,17,8,2,2,4,7,11,LDLDLLWW,1,2,1,5,5,LLWL,DDLW
+AZ Alkmaar,NAC Breda,1-0,/match/az/nac-breda/2010,2010,9,eredivisie,18,34,0,1,0,6,12,4,0,4,15,8,WWLLWWLW,2,0,1,4,2,13,10,3,1,4,7,15,LDLWWWWL,2,0,3,5,13,WWL,LLWWW
+Willem II,NEC Nijmegen,1-1,/match/willem-ii/nec/2010,2010,9,eredivisie,18,34,1,1,1,15,8,2,0,6,10,14,WWWLWLWW,2,0,2,7,6,8,11,2,3,3,9,10,WWWDDDLL,1,1,2,3,5,WLLW,WWDL
+Feyenoord,RKC Waalwijk,3-0,/match/feyenoord/rkc-waalwijk/2010,2010,9,eredivisie,18,34,0,3,0,5,17,5,2,1,14,6,WDLWDLLL,2,1,1,8,4,18,4,1,0,7,7,20,LWLWLWWW,0,0,4,3,10,WWDL,WWWW
+Roda JC,Ajax,2-2,/match/roda-jc/ajax/2010,2010,9,eredivisie,18,34,1,2,2,7,11,2,2,4,8,16,DDWWLWWW,2,1,1,7,5,3,20,6,1,1,25,5,LWWDLWLW,3,0,1,12,4,DWLW,LWLL
+Heracles,Twente 1965,1-3,/match/heracles/fc-twente-1965/2010,2010,9,eredivisie,18,34,2,1,3,10,11,3,2,3,7,8,WDLLLWDL,1,1,2,4,7,2,21,6,2,0,14,6,LDLWDWLW,3,1,0,6,1,WLLD,LLDL
+Heerenveen,VVV Venlo,1-1,/match/heerenveen/vvv/2010,2010,9,eredivisie,18,34,1,1,1,16,8,2,1,5,4,11,DWWLWLLL,1,1,3,1,5,9,11,1,5,2,12,16,DDDDDWLW,0,3,1,7,8,DWLLL,DDDW
+Utrecht,PSV,0-0,/match/fc-utrecht/psv/2010,2010,9,eredivisie,18,34,1,0,0,4,19,5,2,1,11,6,LWDDWWLW,3,1,0,6,2,1,23,6,2,0,22,10,DDWWLWLW,2,1,0,6,2,WDWW,DLL
+Ajax,Willem II,4-0,/match/ajax/willem-ii/2010,2010,10,eredivisie,18,34,0,4,0,3,21,6,2,1,27,7,LWWDLWLWD,3,1,0,13,1,15,10,2,1,6,11,15,WWWLWLWWD,0,0,4,3,8,WDWW,WWWW
+Twente 1965,AZ Alkmaar,3-2,/match/fc-twente-1965/az/2010,2010,10,eredivisie,18,34,0,3,2,2,23,7,2,0,17,7,LDLWDWLWL,3,1,0,8,5,6,16,5,0,4,16,8,WWLLWWLWW,2,0,3,11,6,DWWW,WLLWW
+NAC Breda,Vitesse,4-0,/match/nac-breda/vitesse/2010,2010,10,eredivisie,18,34,0,4,0,13,10,3,1,5,7,16,LDLWWWWLW,1,1,1,2,2,7,14,3,2,4,13,14,WDWLLDWWW,1,0,3,5,8,DWL,WWLW
+PSV,Heerenveen,1-0,/match/psv/heerenveen/2010,2010,10,eredivisie,18,34,0,1,0,1,24,6,3,0,22,10,DDWWLWLWD,4,1,0,16,8,16,10,2,2,5,5,12,DWWLWLLLD,1,0,2,3,6,DWWWW,WWL
+VVV Venlo,Roda JC,1-1,/match/vvv/roda-jc/2010,2010,10,eredivisie,18,34,1,1,1,10,12,1,6,2,13,17,DDDDDWLWD,1,2,1,5,8,8,13,2,3,4,10,18,DDWWLWWWD,0,1,3,1,11,DDWL,DWWW
+RKC Waalwijk,Heracles,0-1,/match/rkc-waalwijk/heracles/2010,2010,10,eredivisie,18,34,2,0,1,18,4,1,0,8,7,23,LWLWLWWWW,1,0,3,4,10,12,11,3,2,4,8,11,WDLLLWDLL,2,1,1,3,1,LLLW,DLWL
+NEC Nijmegen,ADO Den Haag,1-1,/match/nec/ado-den-haag/2010,2010,10,eredivisie,18,34,1,1,1,9,12,2,4,3,10,11,WWWDDDLLD,1,2,1,6,5,11,11,3,2,4,11,12,LDLLLWLWD,2,1,1,7,6,WDDL,DLLW
+Groningen,Utrecht,0-0,/match/fc-groningen/fc-utrecht/2010,2010,10,eredivisie,18,34,1,0,0,17,9,2,3,4,8,12,LDLDLLWWD,1,0,3,2,6,4,21,5,3,1,11,6,LWDDWWLWD,2,1,1,5,4,LLLW,LDWL
+Sparta Rotterdam,Feyenoord,2-1,/match/sparta-rotterdam/feyenoord/2010,2010,10,eredivisie,18,34,0,2,1,14,10,2,2,5,4,12,LWWDWWDLW,2,0,2,3,5,5,21,6,2,1,17,6,WDLWDLLLW,3,1,0,6,2,LWWL,DLLL
+Utrecht,Roda JC,2-1,/match/fc-utrecht/roda-jc/2010,2010,11,eredivisie,18,34,0,2,1,4,22,5,4,1,11,6,LWDDWWLWDD,3,2,0,6,2,11,14,2,4,4,11,19,DDWWLWWWDD,0,2,3,2,12,WDWWD,DWWWD
+ADO Den Haag,Sparta Rotterdam,2-3,/match/ado-den-haag/sparta-rotterdam/2010,2010,11,eredivisie,18,34,2,2,3,14,12,3,3,4,12,13,LDLLLWLWDD,1,1,3,4,6,7,14,3,2,5,6,13,LWWDWWDLWW,0,2,3,1,7,LLWLD,WDWDW
+Feyenoord,VVV Venlo,1-0,/match/feyenoord/vvv/2010,2010,11,eredivisie,18,34,0,1,0,5,21,6,2,2,18,8,WDLWDLLLWW,3,1,1,11,4,9,14,1,7,2,14,18,DDDDDWLWDD,0,4,1,8,9,WWDLW,DDDWD
+Vitesse,Heracles,0-2,/match/vitesse/heracles/2010,2010,11,eredivisie,18,34,2,0,2,12,14,3,2,5,13,18,WDWLLDWWWW,2,2,1,8,6,13,13,4,2,4,9,11,WDLLLWDLLL,3,1,1,4,1,DLDWW,DLWLL
+NAC Breda,RKC Waalwijk,1-0,/match/nac-breda/rkc-waalwijk/2010,2010,11,eredivisie,18,34,0,1,0,8,14,4,1,5,11,16,LDLWWWWLWW,2,1,1,6,2,18,4,1,0,9,7,24,LWLWLWWWWL,0,0,5,3,13,DWLW,WWWWW
+Twente 1965,Groningen,4-0,/match/fc-twente-1965/fc-groningen/2010,2010,11,eredivisie,18,34,0,4,0,2,27,8,2,0,20,9,LDLWDWLWLW,4,1,0,11,7,15,11,2,4,4,8,12,LDLDLLWWDD,1,3,1,6,6,DWWWW,DDLWD
+AZ Alkmaar,Ajax,2-4,/match/az/ajax/2010,2010,11,eredivisie,18,34,2,2,4,6,16,5,0,5,18,11,WWLLWWLWWW,3,0,1,5,2,3,25,7,2,1,31,7,LWWDLWLWDW,3,1,1,14,6,WWLW,LWLLD
+Willem II,Heerenveen,4-1,/match/willem-ii/heerenveen/2010,2010,11,eredivisie,18,34,0,4,1,16,10,2,1,7,11,19,WWWLWLWWDW,2,1,2,8,7,17,10,2,2,6,5,13,DWWLWLLLDW,1,0,3,3,7,WLLWD,WWLW
+NEC Nijmegen,PSV,0-4,/match/nec/psv/2010,2010,11,eredivisie,18,34,2,0,4,10,14,2,5,3,11,12,WWWDDDLLDD,1,3,1,7,6,1,28,7,3,0,23,10,DDWWLWLWDW,2,2,0,6,2,WDDLD,DLLD
+VVV Venlo,NAC Breda,1-1,/match/vvv/nac-breda/2010,2010,12,eredivisie,18,34,1,1,1,14,14,1,7,3,14,19,DDDDDWLWDDW,1,3,1,6,9,6,18,5,1,5,12,16,LDLWWWWLWWW,2,0,4,5,14,DDWLD,LLWWWW
+Heerenveen,ADO Den Haag,3-0,/match/heerenveen/ado-den-haag/2010,2010,12,eredivisie,18,34,0,3,0,17,10,2,2,7,6,17,DWWLWLLLDWW,1,2,3,2,6,15,12,3,3,5,14,16,LDLLLWLWDDL,2,2,1,8,7,DWLLLD,DLLWD
+Roda JC,Twente 1965,1-2,/match/roda-jc/fc-twente-1965/2010,2010,12,eredivisie,18,34,2,1,2,13,14,2,4,5,12,21,DDWWLWWWDDW,2,2,1,9,7,1,31,9,2,0,24,9,LDLWDWLWLWW,4,1,0,9,2,DWLWD,LLDLL
+PSV,Vitesse,1-0,/match/psv/vitesse/2010,2010,12,eredivisie,18,34,0,1,0,2,30,8,3,0,27,10,DDWWLWLWDWL,5,1,0,17,8,10,14,3,2,6,13,20,WDWLLDWWWWL,1,0,4,5,12,DWWWWW,WWLWW
+Groningen,AZ Alkmaar,0-1,/match/fc-groningen/az/2010,2010,12,eredivisie,18,34,2,0,1,16,11,2,4,5,8,16,LDLDLLWWDDW,1,1,3,2,6,7,16,5,0,6,20,15,WWLLWWLWWWL,2,0,4,13,9,LLLWD,WLLWWW
+Ajax,Feyenoord,5-1,/match/ajax/feyenoord/2010,2010,12,eredivisie,18,34,0,5,1,3,27,8,2,1,35,9,LWWDLWLWDWL,4,1,0,17,1,5,25,7,2,2,19,8,WDLWDLLLWWW,3,1,1,7,4,WDWWW,DLLLW
+RKC Waalwijk,Willem II,0-1,/match/rkc-waalwijk/willem-ii/2010,2010,12,eredivisie,18,34,2,0,1,18,4,1,0,10,7,25,LWLWLWWWWLW,1,0,4,4,11,11,14,3,1,7,15,20,WWWLWLWWDWW,0,0,5,3,12,LLLWL,WWWWW
+Sparta Rotterdam,NEC Nijmegen,2-0,/match/sparta-rotterdam/nec/2010,2010,12,eredivisie,18,34,0,2,0,8,16,4,2,5,9,15,LWWDWWDLWWL,3,0,2,5,6,12,14,2,5,4,11,16,WWWDDDLLDDL,1,2,2,4,6,LWWLW,WWDLD
+Heracles,Utrecht,3-1,/match/heracles/fc-utrecht/2010,2010,12,eredivisie,18,34,0,3,1,9,15,5,2,4,11,11,WDLLLWDLLLL,1,1,3,5,10,4,26,6,4,1,13,7,LWDDWWLWDDW,2,2,1,5,4,WLLDL,LDWLD
+Groningen,Heracles,4-1,/match/fc-groningen/heracles/2010,2010,13,eredivisie,18,34,0,4,1,17,11,2,4,6,8,17,LDLDLLWWDDWL,1,1,4,2,7,8,19,6,2,4,14,12,WDLLLWDLLLLW,4,1,1,6,1,LLLWDL,DLWLLL
+Vitesse,VVV Venlo,2-0,/match/vitesse/vvv/2010,2010,13,eredivisie,18,34,0,2,0,13,14,3,2,7,13,21,WDWLLDWWWWLW,2,2,2,8,8,10,16,1,8,3,15,20,DDDDDWLWDDWD,0,4,2,8,10,DLDWWL,DDDWDW
+Sparta Rotterdam,Roda JC,1-2,/match/sparta-rotterdam/roda-jc/2010,2010,13,eredivisie,18,34,2,1,2,6,20,5,2,5,11,15,LWWDWWDLWWLW,4,0,2,7,6,14,14,2,4,6,13,23,DDWWLWWWDDWL,0,2,4,3,14,LWWLWW,DWWWDW
+NEC Nijmegen,RKC Waalwijk,0-1,/match/nec/rkc-waalwijk/2010,2010,13,eredivisie,18,34,2,0,1,15,14,2,5,5,11,18,WWWDDDLLDDLW,1,3,2,7,10,18,4,1,0,11,7,26,LWLWLWWWWLWL,0,0,6,3,14,WDDLDL,WWWWWW
+NAC Breda,Willem II,4-0,/match/nac-breda/willem-ii/2010,2010,13,eredivisie,18,34,0,4,0,7,19,5,2,5,13,17,LDLWWWWLWWWD,3,1,1,7,2,11,16,4,1,7,16,20,WWWLWLWWDWWL,1,0,5,4,12,DWLWW,WWWWWL
+ADO Den Haag,PSV,1-5,/match/ado-den-haag/psv/2010,2010,13,eredivisie,18,34,2,1,5,16,12,3,3,6,14,19,LDLLLWLWDDLW,1,1,4,6,9,1,34,9,3,0,28,10,DDWWLWLWDWLW,3,2,0,10,2,LLWLDL,DLLDL
+AZ Alkmaar,Feyenoord,1-1,/match/az/feyenoord/2010,2010,13,eredivisie,18,34,1,1,1,9,18,6,0,6,21,15,WWLLWWLWWWLL,3,0,2,7,6,5,25,7,2,3,20,13,WDLWDLLLWWWW,3,1,2,8,9,WWLWL,DLLLWW
+Utrecht,Heerenveen,2-3,/match/fc-utrecht/heerenveen/2010,2010,13,eredivisie,18,34,2,2,3,4,26,6,4,2,14,10,LWDDWWLWDDWW,4,2,0,8,3,12,14,3,2,7,9,17,DWWLWLLLDWWW,1,0,4,4,11,WDWWDW,WWLWW
+Twente 1965,Ajax,1-0,/match/fc-twente-1965/ajax/2010,2010,13,eredivisie,18,34,0,1,0,2,33,10,2,0,26,10,LDLWDWLWLWWL,5,1,0,15,7,3,31,9,2,1,40,10,LWWDLWLWDWLW,4,1,1,18,8,DWWWWW,LWLLDL
+Roda JC,AZ Alkmaar,2-4,/match/roda-jc/az/2010,2010,14,eredivisie,18,34,2,2,4,11,16,3,4,6,15,24,DDWWLWWWDDWLL,2,2,2,10,9,8,20,6,1,6,22,16,WWLLWWLWWWLLD,3,0,4,14,9,DWLWDL,WLLWWWL
+NAC Breda,NEC Nijmegen,3-3,/match/nac-breda/nec/2010,2010,14,eredivisie,18,34,1,3,3,6,23,6,2,5,17,17,LDLWWWWLWWWDW,4,1,1,11,2,16,14,2,5,6,11,19,WWWDDDLLDDLWL,1,2,3,4,8,DWLWWW,WWDLDW
+RKC Waalwijk,Groningen,3-1,/match/rkc-waalwijk/fc-groningen/2010,2010,14,eredivisie,18,34,0,3,1,18,6,2,0,11,8,26,LWLWLWWWWLWLL,1,0,5,4,12,15,15,3,4,6,12,18,LDLDLLWWDDWLW,1,3,2,6,10,LLLWLL,DDLWDW
+Twente 1965,Vitesse,1-0,/match/fc-twente-1965/vitesse/2010,2010,14,eredivisie,18,34,0,1,0,1,37,11,2,0,27,10,LDLWDWLWLWWLW,6,1,0,16,7,10,18,4,2,7,15,21,WDWLLDWWWWLWW,1,0,5,5,13,DWWWWWW,WWLWWW
+Feyenoord,Utrecht,0-0,/match/feyenoord/fc-utrecht/2010,2010,14,eredivisie,18,34,1,0,0,5,26,7,3,3,21,14,WDLWDLLLWWWWD,4,1,1,12,4,4,26,6,4,3,16,13,LWDDWWLWDDWWL,2,2,2,6,7,WWDLWW,LDWLDW
+Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2010,2010,14,eredivisie,18,34,0,5,1,3,31,9,2,2,40,11,LWWDLWLWDWLWW,5,1,0,22,2,13,16,4,2,7,12,19,DWWLWLLLDWWWL,2,0,4,7,13,WDWWWW,WWLWWL
+Willem II,ADO Den Haag,1-1,/match/willem-ii/ado-den-haag/2010,2010,14,eredivisie,18,34,1,1,1,14,16,4,1,8,16,24,WWWLWLWWDWWLW,3,1,2,12,8,17,12,3,3,7,15,24,LDLLLWLWDDLWL,2,2,2,8,10,WLLWDW,DLLWDW
+VVV Venlo,Sparta Rotterdam,5-0,/match/vvv/sparta-rotterdam/2010,2010,14,eredivisie,18,34,0,5,0,12,16,1,8,4,15,22,DDDDDWLWDDWDW,1,4,1,7,10,7,20,5,2,6,12,17,LWWDWWDLWWLWL,1,2,3,4,9,DDWLDD,WDWDWL
+PSV,Heracles,4-0,/match/psv/heracles/2010,2010,14,eredivisie,18,34,0,4,0,2,36,10,3,0,33,11,DDWWLWLWDWLWL,6,1,0,18,8,9,19,6,2,5,15,16,WDLLLWDLLLLWW,4,1,2,7,5,DWWWWWW,DLWLLLW
+Sparta Rotterdam,PSV,2-3,/match/sparta-rotterdam/psv/2010,2010,15,eredivisie,18,34,2,2,3,9,20,5,2,7,12,22,LWWDWWDLWWLWLW,4,0,3,8,8,2,40,11,3,0,37,11,DDWWLWLWDWLWLW,4,2,0,15,3,LWWLWWL,DLLDLL
+AZ Alkmaar,VVV Venlo,2-0,/match/az/vvv/2010,2010,15,eredivisie,18,34,0,2,0,7,22,7,1,6,26,18,WWLLWWLWWWLLDL,3,1,2,8,7,8,20,2,8,4,20,22,DDDDDWLWDDWDWW,0,4,3,8,12,WWLWLD,DDDWDWW
+Heracles,Roda JC,3-2,/match/heracles/roda-jc/2010,2010,15,eredivisie,18,34,0,3,2,10,19,6,2,6,15,20,WDLLLWDLLLLWWW,2,1,3,8,11,14,16,3,4,7,17,28,DDWWLWWWDDWLLL,1,2,4,5,15,WLLDLW,DWWWDWL
+Heerenveen,RKC Waalwijk,3-1,/match/heerenveen/rkc-waalwijk/2010,2010,15,eredivisie,18,34,0,3,1,13,16,4,2,8,13,24,DWWLWLLLDWWWLW,2,2,3,5,6,18,10,3,0,11,11,27,LWLWLWWWWLWLLW,1,0,6,4,14,DWLLLDW,WWWWWWL
+Willem II,Twente 1965,1-3,/match/willem-ii/fc-twente-1965/2010,2010,15,eredivisie,18,34,2,1,3,11,18,4,2,8,17,25,WWWLWLWWDWWLWD,3,2,2,13,9,1,41,12,2,0,28,10,LDLWDWLWLWWLWW,5,1,0,11,3,WLLWDWD,LLDLLL
+Vitesse,Ajax,1-5,/match/vitesse/ajax/2010,2010,15,eredivisie,18,34,2,1,5,12,18,4,2,8,15,22,WDWLLDWWWWLWWW,3,2,2,10,8,3,35,10,2,2,45,12,LWWDLWLWDWLWWW,4,1,2,18,9,DLDWWLW,LWLLDLW
+ADO Den Haag,Feyenoord,0-2,/match/ado-den-haag/feyenoord/2010,2010,15,eredivisie,18,34,2,0,2,17,13,3,4,7,16,25,LDLLLWLWDDLWLD,1,1,5,7,14,4,28,7,4,3,21,14,WDLWDLLLWWWWDD,3,2,2,9,10,LLWLDLL,DLLLWWD
+Utrecht,NAC Breda,3-1,/match/fc-utrecht/nac-breda/2010,2010,15,eredivisie,18,34,0,3,1,5,27,6,5,3,16,13,LWDDWWLWDDWWLD,4,2,1,10,6,6,25,6,3,5,20,20,LDLWWWWLWWWDWD,2,1,4,6,15,WDWWDWL,LLWWWWD
+Groningen,NEC Nijmegen,2-2,/match/fc-groningen/nec/2010,2010,15,eredivisie,18,34,1,2,2,15,15,3,4,7,13,21,LDLDLLWWDDWLWW,2,1,4,6,8,16,15,2,6,6,14,22,WWWDDDLLDDLWLD,1,3,3,7,11,LLLWDLW,WWDLDWD
+VVV Venlo,Willem II,2-1,/match/vvv/willem-ii/2010,2010,16,eredivisie,18,34,0,2,1,10,20,2,8,5,20,24,DDDDDWLWDDWDWWW,2,4,1,12,10,12,18,4,2,9,18,28,WWWLWLWWDWWLWDL,1,0,6,4,16,DDWLDDW,WWWWWLW
+AZ Alkmaar,Vitesse,1-2,/match/az/vitesse/2010,2010,16,eredivisie,18,34,2,1,2,6,26,8,1,6,28,18,WWLLWWLWWWLLDLW,4,1,2,10,7,13,18,4,2,9,16,27,WDWLLDWWWWLWWWL,1,0,6,5,14,WWLWLDW,WWLWWWW
+Roda JC,ADO Den Haag,1-1,/match/roda-jc/ado-den-haag/2010,2010,16,eredivisie,18,34,1,1,1,15,16,3,4,8,19,31,DDWWLWWWDDWLLLW,2,2,3,12,13,17,13,3,4,8,16,27,LDLLLWLWDDLWLDL,2,3,2,9,11,DWLWDLL,DLLWDWD
+NAC Breda,Sparta Rotterdam,2-2,/match/nac-breda/sparta-rotterdam/2010,2010,16,eredivisie,18,34,1,2,2,7,25,6,3,6,21,23,LDLWWWWLWWWDWDW,4,2,1,14,5,9,20,5,2,8,14,25,LWWDWWDLWWLWLWL,1,2,4,4,14,DWLWWWD,WDWDWLW
+Utrecht,Ajax,2-0,/match/fc-utrecht/ajax/2010,2010,16,eredivisie,18,34,0,2,0,4,31,7,5,3,19,14,LWDDWWLWDDWWLDW,5,2,1,13,7,3,37,11,2,2,50,13,LWWDLWLWDWLWWWL,5,1,2,23,10,WDWWDWLW,LWLLDLWL
+RKC Waalwijk,PSV,0-2,/match/rkc-waalwijk/psv/2010,2010,16,eredivisie,18,34,2,0,2,18,10,3,0,12,12,30,LWLWLWWWWLWLLWW,2,0,5,7,13,2,42,12,3,0,40,13,DDWWLWLWDWLWLWL,5,2,0,18,5,LLLWLLW,DLLDLLL
+Feyenoord,Groningen,3-1,/match/feyenoord/fc-groningen/2010,2010,16,eredivisie,18,34,0,3,1,5,30,8,4,3,23,14,WDLWDLLLWWWWDDL,4,2,1,12,4,14,17,3,5,7,15,23,LDLDLLWWDDWLWWD,1,3,3,7,13,WWDLWWD,DDLWDWW
+NEC Nijmegen,Twente 1965,3-4,/match/nec/fc-twente-1965/2010,2010,16,eredivisie,18,34,2,3,4,16,16,2,7,6,16,24,WWWDDDLLDDLWLDD,1,3,3,7,11,1,43,13,2,0,31,11,LDLWDWLWLWWLWWL,6,1,0,14,4,WDDLDLL,LLDLLLL
+Heracles,Heerenveen,3-1,/match/heracles/heerenveen/2010,2010,16,eredivisie,18,34,0,3,1,8,23,7,2,6,18,22,WDLLLWDLLLLWWWW,3,1,3,11,13,11,20,5,2,8,16,25,DWWLWLLLDWWWLWW,2,0,5,8,18,WLLDLWW,WWLWWLW
+Ajax,NEC Nijmegen,3-0,/match/ajax/nec/2010,2010,17,eredivisie,18,34,0,3,0,3,37,11,2,3,50,15,LWWDLWLWDWLWWWLW,6,1,0,27,3,16,16,2,7,7,19,28,WWWDDDLLDDLWLDDL,1,4,3,9,13,WDWWWWW,WWDLDWDD
+VVV Venlo,RKC Waalwijk,3-0,/match/vvv/rkc-waalwijk/2010,2010,17,eredivisie,18,34,0,3,0,9,24,3,8,5,22,25,DDDDDWLWDDWDWWWW,3,4,1,14,11,18,10,3,0,13,12,32,LWLWLWWWWLWLLWWL,1,0,7,5,17,DDWLDDWW,WWWWWWLW
+Twente 1965,NAC Breda,3-1,/match/fc-twente-1965/nac-breda/2010,2010,17,eredivisie,18,34,0,3,1,1,45,14,2,0,35,14,LDLWDWLWLWWLWWLL,7,1,0,17,7,6,27,6,4,6,23,25,LDLWWWWLWWWDWDWD,2,1,5,7,18,DWWWWWWW,LLWWWWDW
+Heerenveen,Feyenoord,0-2,/match/heerenveen/feyenoord/2010,2010,17,eredivisie,18,34,2,0,2,11,20,5,2,9,17,28,DWWLWLLLDWWWLWWW,3,2,3,8,7,5,34,9,4,3,26,15,WDLWDLLLWWWWDDLW,4,2,2,11,10,DWLLLDWW,DLLLWWDL
+PSV,AZ Alkmaar,1-0,/match/psv/az/2010,2010,17,eredivisie,18,34,0,1,0,2,44,13,3,0,42,13,DDWWLWLWDWLWLWLL,7,1,0,22,8,8,26,8,1,7,29,20,WWLLWWLWWWLLDLWL,4,0,4,18,11,DWWWWWWW,WLLWWWLL
+Vitesse,Utrecht,2-2,/match/vitesse/fc-utrecht/2010,2010,17,eredivisie,18,34,1,2,2,12,20,5,2,9,18,28,WDWLLDWWWWLWWWLL,3,2,3,11,13,4,35,8,5,3,21,14,LWDDWWLWDDWWLDWW,2,3,2,6,7,DLDWWLWL,LDWLDWD
+Willem II,Roda JC,1-3,/match/willem-ii/roda-jc/2010,2010,17,eredivisie,18,34,2,1,3,13,18,4,2,10,19,30,WWWLWLWWDWWLWDLW,3,2,3,14,12,14,18,3,5,8,20,32,DDWWLWWWDDWLLLWD,1,2,5,7,18,WLLWDWDL,DWWWDWLW
+ADO Den Haag,Heracles,1-4,/match/ado-den-haag/heracles/2010,2010,17,eredivisie,18,34,2,1,4,17,14,3,5,8,17,28,LDLLLWLWDDLWLDLD,1,1,6,7,16,7,27,8,2,6,21,23,WDLLLWDLLLLWWWWW,4,1,3,7,9,LLWLDLLL,DLWLLLWW
+Sparta Rotterdam,Groningen,2-4,/match/sparta-rotterdam/fc-groningen/2010,2010,17,eredivisie,18,34,2,2,4,10,21,5,3,8,16,27,LWWDWWDLWWLWLWLD,4,0,4,10,11,15,17,3,5,8,16,26,LDLDLLWWDDWLWWDW,1,3,4,8,16,LWWLWWLL,DDLWDWWW
+Heracles,VVV Venlo,1-0,/match/heracles/vvv/2010,2010,18,eredivisie,18,34,0,1,0,6,29,9,2,6,25,24,WDLLLWDLLLLWWWWWL,4,1,3,14,14,7,28,4,8,5,25,25,DDDDDWLWDDWDWWWWW,0,4,4,8,14,WLLDLWWW,DDDWDWWW
+AZ Alkmaar,ADO Den Haag,3-0,/match/az/ado-den-haag/2010,2010,18,eredivisie,18,34,0,3,0,9,26,8,1,8,29,21,WWLLWWLWWWLLDLWLW,4,1,3,11,9,17,14,3,5,9,18,32,LDLLLWLWDDLWLDLDL,2,4,2,10,12,WWLWLDWL,DLLWDWDD
+Feyenoord,Willem II,1-0,/match/feyenoord/willem-ii/2010,2010,18,eredivisie,18,34,0,1,0,5,36,10,4,3,28,15,WDLWDLLLWWWWDDLWL,5,2,1,15,5,15,18,4,2,11,20,33,WWWLWLWWDWWLWDLWL,1,0,7,5,18,WWDLWWDW,WWWWWLWW
+RKC Waalwijk,Sparta Rotterdam,4-1,/match/rkc-waalwijk/sparta-rotterdam/2010,2010,18,eredivisie,18,34,0,4,1,18,10,3,0,14,12,35,LWLWLWWWWLWLLWWLW,2,0,6,7,15,11,21,5,3,9,18,31,LWWDWWDLWWLWLWLDL,1,3,4,6,16,LLLWLLWL,WDWDWLWD
+NEC Nijmegen,Vitesse,2-1,/match/nec/vitesse/2010,2010,18,eredivisie,18,34,0,2,1,16,16,2,7,8,19,31,WWWDDDLLDDLWLDDLW,1,3,4,10,15,10,22,5,3,9,20,30,WDWLLDWWWWLWWWLLD,2,0,6,7,15,WDDLDLLL,WWLWWWWL
+Utrecht,Twente 1965,0-0,/match/fc-utrecht/fc-twente-1965/2010,2010,18,eredivisie,18,34,1,0,0,4,36,8,6,3,23,16,LWDDWWLWDDWWLDWWD,6,2,1,15,7,1,49,15,2,0,38,15,LDLWDWLWLWWLWWLLW,7,1,0,18,7,WDWWDWLWW,LLDLLLLL
+NAC Breda,Ajax,1-1,/match/nac-breda/ajax/2010,2010,18,eredivisie,18,34,1,1,1,8,27,6,4,7,24,28,LDLWWWWLWWWDWDWDW,4,3,1,16,7,3,41,12,2,3,53,15,LWWDLWLWDWLWWWLWW,5,1,3,23,12,DWLWWWDD,LWLLDLWLW
+Roda JC,PSV,0-1,/match/roda-jc/psv/2010,2010,18,eredivisie,18,34,2,0,1,13,20,4,5,8,23,33,DDWWLWWWDDWLLLWDL,2,3,3,13,14,2,48,14,3,0,43,13,DDWWLWLWDWLWLWLLW,6,2,0,20,5,DWLWDLLD,DLLDLLLL
+Groningen,Heerenveen,2-0,/match/fc-groningen/heerenveen/2010,2010,18,eredivisie,18,34,0,2,0,14,19,4,5,8,20,28,LDLDLLWWDDWLWWDWL,2,2,4,8,10,12,20,5,2,10,17,30,DWWLWLLLDWWWLWWWL,2,0,6,9,21,LLLWDLWD,WWLWWLWW
+PSV,NEC Nijmegen,3-0,/match/psv/nec/2010,2010,19,eredivisie,18,34,0,3,0,2,50,15,3,0,44,13,DDWWLWLWDWLWLWLLWL,8,1,0,23,8,15,20,3,7,8,21,32,WWWDDDLLDDLWLDDLWW,1,4,4,9,16,DWWWWWWWW,WWDLDWDDW
+Heracles,Vitesse,1-2,/match/heracles/vitesse/2010,2010,19,eredivisie,18,34,2,1,2,6,33,10,2,6,26,24,WDLLLWDLLLLWWWWWLW,5,1,3,15,14,11,22,5,3,10,21,32,WDWLLDWWWWLWWWLLDW,2,0,7,8,17,WLLDLWWWW,WWLWWWWLW
+Roda JC,Utrecht,2-0,/match/roda-jc/fc-utrecht/2010,2010,19,eredivisie,18,34,0,2,0,14,20,4,5,9,23,34,DDWWLWWWDDWLLLWDLL,2,3,4,13,15,5,38,8,7,3,23,16,LWDDWWLWDDWWLDWWDD,2,4,2,8,9,DWLWDLLDL,LDWLDWDD
+Heerenveen,Willem II,4-2,/match/heerenveen/willem-ii/2010,2010,19,eredivisie,18,34,0,4,2,13,20,5,2,11,17,32,DWWLWLLLDWWWLWWWLW,3,2,4,8,9,16,18,4,2,12,20,34,WWWLWLWWDWWLWDLWLW,1,0,8,5,19,DWLLLDWWL,WWWWWLWWW
+RKC Waalwijk,NAC Breda,0-1,/match/rkc-waalwijk/nac-breda/2010,2010,19,eredivisie,18,34,2,0,1,18,14,4,0,14,16,36,LWLWLWWWWLWLLWWLWW,3,0,6,11,16,8,29,6,5,7,25,29,LDLWWWWLWWWDWDWDWD,2,1,6,8,21,LLLWLLWLW,LLWWWWDWW
+Ajax,AZ Alkmaar,1-0,/match/ajax/az/2010,2010,19,eredivisie,18,34,0,1,0,3,42,12,3,3,54,16,LWWDLWLWDWLWWWLWWD,7,1,0,30,3,7,30,9,1,8,32,21,WWLLWWLWWWLLDLWLWW,4,0,5,18,12,WDWWWWWW,WLLWWWLLW
+Groningen,Twente 1965,0-0,/match/fc-groningen/fc-twente-1965/2010,2010,19,eredivisie,18,34,1,0,0,10,23,5,5,8,22,28,LDLDLLWWDDWLWWDWLW,3,2,4,10,10,1,50,15,3,0,38,15,LDLWDWLWLWWLWWLLWD,7,2,0,18,7,LLLWDLWDW,LLDLLLLLD
+VVV Venlo,Feyenoord,1-1,/match/vvv/feyenoord/2010,2010,19,eredivisie,18,34,1,1,1,9,28,4,8,6,25,26,DDDDDWLWDDWDWWWWWW,4,4,1,17,11,4,40,11,4,3,29,15,WDLWDLLLWWWWDDLWLW,5,2,2,13,10,DDWLDDWWW,DLLLWWDLL
+Sparta Rotterdam,ADO Den Haag,0-0,/match/sparta-rotterdam/ado-den-haag/2010,2010,19,eredivisie,18,34,1,0,0,12,21,5,3,10,19,35,LWWDWWDLWWLWLWLDLW,4,0,5,12,15,17,14,3,5,10,18,35,LDLLLWLWDDLWLDLDLW,2,4,3,10,15,LWWLWWLLL,DLLWDWDDW
+Willem II,RKC Waalwijk,2-1,/match/willem-ii/rkc-waalwijk/2010,2010,20,eredivisie,18,34,0,2,1,16,18,4,2,13,22,38,WWWLWLWWDWWLWDLWLWW,3,2,4,15,15,18,14,4,0,15,16,37,LWLWLWWWWLWLLWWLWWL,1,0,8,5,20,WLLWDWDLL,WWWWWWLWW
+NEC Nijmegen,Sparta Rotterdam,1-0,/match/nec/sparta-rotterdam/2010,2010,20,eredivisie,18,34,0,1,0,15,20,3,7,9,21,35,WWWDDDLLDDLWLDDLWWW,2,3,4,12,16,14,23,5,4,10,19,35,LWWDWWDLWWLWLWLDLWD,1,3,5,7,20,WDDLDLLLW,WDWDWLWDW
+NAC Breda,VVV Venlo,2-0,/match/nac-breda/vvv/2010,2010,20,eredivisie,18,34,0,2,0,7,31,7,5,7,26,29,LDLWWWWLWWWDWDWDWDL,4,4,1,17,8,9,30,4,9,6,26,27,DDDDDWLWDDWDWWWWWWD,0,4,5,8,15,DWLWWWDDD,DDDWDWWWW
+AZ Alkmaar,Groningen,0-1,/match/az/fc-groningen/2010,2010,20,eredivisie,18,34,2,0,1,8,30,9,1,9,32,22,WWLLWWLWWWLLDLWLWWW,5,1,3,14,9,10,25,5,6,8,22,28,LDLDLLWWDDWLWWDWLWD,2,3,4,12,18,WWLWLDWLW,DDLWDWWWL
+ADO Den Haag,Heerenveen,2-1,/match/ado-den-haag/heerenveen/2010,2010,20,eredivisie,18,34,0,2,1,17,15,3,6,10,18,35,LDLLLWLWDDLWLDLDLWD,1,1,7,8,20,12,24,6,2,11,21,34,DWWLWLLLDWWWLWWWLWW,2,0,7,9,23,LLWLDLLLL,WWLWWLWWW
+Feyenoord,Ajax,1-1,/match/feyenoord/ajax/2010,2010,20,eredivisie,18,34,1,1,1,4,41,11,5,3,30,16,WDLWDLLLWWWWDDLWLWD,6,2,1,16,5,3,46,13,3,3,55,16,LWWDLWLWDWLWWWLWWDW,5,2,3,24,13,WWDLWWDWW,LWLLDLWLWD
+Twente 1965,Roda JC,2-0,/match/fc-twente-1965/roda-jc/2010,2010,20,eredivisie,18,34,0,2,0,2,51,15,4,0,38,15,LDLWDWLWLWWLWWLLWDD,8,1,0,20,8,13,24,5,5,9,25,34,DDWWLWWWDDWLLLWDLLW,2,2,5,10,19,DWWWWWWWW,DWWWDWLWL
+Utrecht,Heracles,0-0,/match/fc-utrecht/heracles/2010,2010,20,eredivisie,18,34,1,0,0,5,38,8,7,4,23,18,LWDDWWLWDDWWLDWWDDW,6,3,1,15,7,6,33,10,2,7,27,26,WDLLLWDLLLLWWWWWLWL,5,1,3,11,10,WDWWDWLWWD,DLWLLLWWL
+Vitesse,PSV,0-0,/match/vitesse/psv/2010,2010,20,eredivisie,18,34,1,0,0,11,24,6,3,10,23,33,WDWLLDWWWWLWWWLLDWL,3,3,3,13,15,1,54,16,3,0,47,13,DDWWLWLWDWLWLWLLWLW,7,2,0,21,5,DLDWWLWLD,DLLDLLLLL
+VVV Venlo,Heerenveen,3-1,/match/vvv/heerenveen/2010,2010,21,eredivisie,18,34,0,3,1,9,30,4,9,7,26,29,DDDDDWLWDDWDWWWWWWDW,4,5,1,18,12,12,24,6,2,12,22,36,DWWLWLLLDWWWLWWWLWWW,2,0,8,10,25,DDWLDDWWWD,WWLWWLWWWW
+NAC Breda,AZ Alkmaar,1-1,/match/nac-breda/az/2010,2010,21,eredivisie,18,34,1,1,1,6,35,8,5,7,28,29,LDLWWWWLWWWDWDWDWDLW,5,4,1,19,8,8,30,9,1,10,32,23,WWLLWWLWWWLLDLWLWWWL,4,0,6,18,13,DWLWWWDDDW,WLLWWWLLWW
+Groningen,ADO Den Haag,2-0,/match/fc-groningen/ado-den-haag/2010,2010,21,eredivisie,18,34,0,2,0,10,27,6,6,8,23,28,LDLDLLWWDDWLWWDWLWDL,3,3,4,10,10,17,19,4,6,10,20,36,LDLLLWLWDDLWLDLDLWDW,2,5,3,10,15,LLLWDLWDWD,DLLWDWDDWD
+Twente 1965,Heracles,2-0,/match/fc-twente-1965/heracles/2010,2010,21,eredivisie,18,34,0,2,0,2,55,16,4,0,40,15,LDLWDWLWLWWLWWLLWDDW,9,1,0,22,8,7,34,10,3,7,27,26,WDLLLWDLLLLWWWWWLWLD,5,2,3,11,10,DWWWWWWWWW,DLWLLLWWLD
+PSV,Utrecht,2-1,/match/psv/fc-utrecht/2010,2010,21,eredivisie,18,34,0,2,1,1,55,16,4,0,47,13,DDWWLWLWDWLWLWLLWLWD,9,1,0,26,8,5,40,8,8,4,23,18,LWDDWWLWDDWWLDWWDDWD,2,4,3,8,11,DWWWWWWWWW,LDWLDWDDW
+Ajax,Roda JC,4-0,/match/ajax/roda-jc/2010,2010,21,eredivisie,18,34,0,4,0,3,47,13,4,3,56,17,LWWDLWLWDWLWWWLWWDWD,8,1,0,31,3,13,24,5,5,10,25,36,DDWWLWWWDDWLLLWDLLWW,2,2,6,10,21,WDWWWWWWW,DWWWDWLWLW
+Sparta Rotterdam,Vitesse,1-1,/match/sparta-rotterdam/vitesse/2010,2010,21,eredivisie,18,34,1,1,1,15,23,5,4,11,19,36,LWWDWWDLWWLWLWLDLWDW,4,1,5,12,15,11,26,6,4,10,23,33,WDWLLDWWWWLWWWLLDWLD,3,0,7,10,18,LWWLWWLLLD,WWLWWWWLWL
+RKC Waalwijk,Feyenoord,0-1,/match/rkc-waalwijk/feyenoord/2010,2010,21,eredivisie,18,34,2,0,1,18,14,4,0,16,17,39,LWLWLWWWWLWLLWWLWWLW,3,0,7,11,17,4,43,11,6,3,31,17,WDLWDLLLWWWWDDLWLWDD,5,3,2,14,11,LLLWLLWLWL,DLLLWWDLLD
+NEC Nijmegen,Willem II,2-1,/match/nec/willem-ii/2010,2010,21,eredivisie,18,34,0,2,1,14,24,4,7,9,22,35,WWWDDDLLDDLWLDDLWWWW,3,3,4,13,16,16,22,5,2,13,24,39,WWWLWLWWDWWLWDLWLWWW,1,0,9,7,23,WDDLDLLLWW,WWWWWLWWWW
+Willem II,NAC Breda,1-2,/match/willem-ii/nac-breda/2010,2010,22,eredivisie,18,34,2,1,2,16,22,5,2,14,25,41,WWWLWLWWDWWLWDLWLWWWW,4,2,4,17,16,6,37,8,6,7,29,30,LDLWWWWLWWWDWDWDWDLWD,3,1,6,9,21,WLLWDWDLLW,LLWWWWDWWL
+PSV,ADO Den Haag,2-0,/match/psv/ado-den-haag/2010,2010,22,eredivisie,18,34,0,2,0,1,59,17,4,0,49,14,DDWWLWLWDWLWLWLLWLWDW,10,1,0,28,9,17,19,4,6,11,20,38,LDLLLWLWDDLWLDLDLWDWW,2,5,4,10,17,DWWWWWWWWWW,DLLWDWDDWDW
+Roda JC,Sparta Rotterdam,2-1,/match/roda-jc/sparta-rotterdam/2010,2010,22,eredivisie,18,34,0,2,1,15,24,5,5,11,25,40,DDWWLWWWDDWLLLWDLLWWW,3,3,4,15,15,13,25,5,5,11,20,37,LWWDWWDLWWLWLWLDLWDWD,1,3,6,7,21,DWLWDLLDLW,WDWDWLWDWW
+Heerenveen,Utrecht,2-0,/match/heerenveen/fc-utrecht/2010,2010,22,eredivisie,18,34,0,2,0,14,24,6,2,13,23,39,DWWLWLLLDWWWLWWWLWWWW,4,2,4,12,11,5,40,8,8,5,24,20,LWDDWWLWDDWWLDWWDDWDW,2,4,4,9,13,DWLLLDWWLW,LDWLDWDDWW
+Heracles,Groningen,4-3,/match/heracles/fc-groningen/2010,2010,22,eredivisie,18,34,0,4,3,8,34,10,3,8,27,28,WDLLLWDLLLLWWWWWLWLDW,5,1,4,16,16,9,31,7,6,8,25,28,LDLDLLWWDDWLWWDWLWDLW,3,3,4,13,18,WLLDLWWWWL,DDLWDWWWLL
+RKC Waalwijk,NEC Nijmegen,0-1,/match/rkc-waalwijk/nec/2010,2010,22,eredivisie,18,34,2,0,1,18,14,4,0,17,17,40,LWLWLWWWWLWLLWWLWWLWL,3,0,8,11,18,11,28,5,7,9,24,36,WWWDDDLLDDLWLDDLWWWWW,1,4,5,9,19,LLLWLLWLWLL,WWDLDWDDWW
+Feyenoord,AZ Alkmaar,1-2,/match/feyenoord/az/2010,2010,22,eredivisie,18,34,2,1,2,4,45,12,6,3,32,17,WDLWDLLLWWWWDDLWLWDDL,6,3,1,17,6,10,31,9,2,10,33,24,WWLLWWLWWWLLDLWLWWWLD,4,1,6,19,14,WWDLWWDWWD,WLLWWWLLWWD
+VVV Venlo,Vitesse,2-0,/match/vvv/vitesse/2010,2010,22,eredivisie,18,34,0,2,0,7,34,5,9,7,29,30,DDDDDWLWDDWDWWWWWWDWW,5,5,1,21,13,12,27,6,5,10,24,34,WDWLLDWWWWLWWWLLDWLDD,3,1,7,11,19,DDWLDDWWWDW,WWLWWWWLWLD
+Ajax,Twente 1965,3-0,/match/ajax/fc-twente-1965/2010,2010,22,eredivisie,18,34,0,3,0,3,51,14,4,3,60,17,LWWDLWLWDWLWWWLWWDWDW,9,1,0,35,3,2,59,17,4,0,42,15,LDLWDWLWLWWLWWLLWDDWW,7,3,0,18,7,WDWWWWWWWW,LLDLLLLLDD
+NEC Nijmegen,NAC Breda,4-2,/match/nec/nac-breda/2010,2010,23,eredivisie,18,34,0,4,2,11,30,6,7,9,25,36,WWWDDDLLDDLWLDDLWWWWWL,4,3,4,15,17,6,39,9,6,7,31,31,LDLWWWWLWWWDWDWDWDLWDL,4,1,6,11,22,WDDLDLLLWWW,LLWWWWDWWLL
+Vitesse,Twente 1965,1-2,/match/vitesse/fc-twente-1965/2010,2010,23,eredivisie,18,34,2,1,2,14,27,6,5,11,24,36,WDWLLDWWWWLWWWLLDWLDDW,3,4,3,13,15,2,59,17,4,1,42,18,LDLWDWLWLWWLWWLLWDDWWW,7,3,1,18,10,DLDWWLWLDD,LLDLLLLLDDW
+Heerenveen,Ajax,0-2,/match/heerenveen/ajax/2010,2010,23,eredivisie,18,34,2,0,2,12,28,7,2,13,25,39,DWWLWLLLDWWWLWWWLWWWWW,5,2,4,14,11,3,55,15,4,3,63,17,LWWDLWLWDWLWWWLWWDWDWW,5,3,3,25,14,DWLLLDWWLWW,LWLLDLWLWDD
+ADO Den Haag,Willem II,3-0,/match/ado-den-haag/willem-ii/2010,2010,23,eredivisie,18,34,0,3,0,17,19,4,6,12,20,40,LDLLLWLWDDLWLDLDLWDWWW,2,1,7,10,21,16,22,5,2,15,26,43,WWWLWLWWDWWLWDLWLWWWWL,1,0,10,8,25,LLWLDLLLLW,WWWWWLWWWWW
+AZ Alkmaar,Roda JC,2-0,/match/az/roda-jc/2010,2010,23,eredivisie,18,34,0,2,0,9,33,10,2,10,35,25,WWLLWWLWWWLLDLWLWWWLDL,5,1,4,14,10,13,28,6,5,11,27,41,DDWWLWWWDDWLLLWDLLWWWW,2,2,7,10,25,WWLWLDWLWL,DWWWDWLWLWW
+Utrecht,Feyenoord,0-0,/match/fc-utrecht/feyenoord/2010,2010,23,eredivisie,18,34,1,0,0,5,40,8,8,6,24,22,LWDDWWLWDDWWLDWWDDWDWW,6,4,1,15,7,4,45,12,6,4,33,19,WDLWDLLLWWWWDDLWLWDDLL,6,3,2,15,11,WDWWDWLWWDD,DLLLWWDLLDL
+Heracles,PSV,0-1,/match/heracles/psv/2010,2010,23,eredivisie,18,34,2,0,1,8,38,11,3,8,31,31,WDLLLWDLLLLWWWWWLWLDWW,6,1,4,20,19,1,63,18,4,0,51,14,DDWWLWLWDWLWLWLLWLWDWW,7,3,0,21,5,WLLDLWWWWLW,DLLDLLLLLD
+Sparta Rotterdam,VVV Venlo,2-0,/match/sparta-rotterdam/vvv/2010,2010,23,eredivisie,18,34,0,2,0,15,25,5,5,12,21,39,LWWDWWDLWWLWLWLDLWDWDW,4,2,5,13,16,7,38,6,9,7,31,30,DDDDDWLWDDWDWWWWWWDWWW,0,4,6,8,17,LWWLWWLLLDD,DDDWDWWWWW
+Groningen,RKC Waalwijk,2-1,/match/fc-groningen/rkc-waalwijk/2010,2010,23,eredivisie,18,34,0,2,1,10,31,7,6,9,28,32,LDLDLLWWDDWLWWDWLWDLWW,4,3,4,12,10,18,14,4,0,18,17,41,LWLWLWWWWLWLLWWLWWLWLL,1,0,9,6,22,LLLWDLWDWDW,WWWWWWLWWW
+Roda JC,Heracles,2-1,/match/roda-jc/heracles/2010,2010,24,eredivisie,18,34,0,2,1,14,28,6,5,12,27,43,DDWWLWWWDDWLLLWDLLWWWWW,4,3,4,17,16,8,38,11,3,9,31,32,WDLLLWDLLLLWWWWWLWLDWWL,5,2,4,11,12,DWLWDLLDLWW,DLWLLLWWLDW
+NAC Breda,Utrecht,0-2,/match/nac-breda/fc-utrecht/2010,2010,24,eredivisie,18,34,2,0,2,6,39,9,6,8,33,35,LDLWWWWLWWWDWDWDWDLWDLW,5,5,1,20,9,5,42,8,9,6,24,22,LWDDWWLWDDWWLDWWDDWDWWD,2,4,5,9,15,DWLWWWDDDWD,LDWLDWDDWWW
+VVV Venlo,AZ Alkmaar,3-3,/match/vvv/az/2010,2010,24,eredivisie,18,34,1,3,3,7,38,6,9,8,31,32,DDDDDWLWDDWDWWWWWWDWWWW,6,5,1,23,13,9,37,11,2,10,37,25,WWLLWWLWWWLLDLWLWWWLDLW,5,1,6,21,15,DDWLDDWWWDWW,WLLWWWLLWWDL
+RKC Waalwijk,Heerenveen,1-2,/match/rkc-waalwijk/heerenveen/2010,2010,24,eredivisie,18,34,2,1,2,18,14,4,0,19,18,43,LWLWLWWWWLWLLWWLWWLWLLW,3,0,9,11,19,13,28,7,2,14,25,41,DWWLWLLLDWWWLWWWLWWWWWL,2,0,9,11,28,LLLWLLWLWLLL,WWLWWLWWWWW
+NEC Nijmegen,Groningen,0-2,/match/nec/fc-groningen/2010,2010,24,eredivisie,18,34,2,0,2,11,34,7,7,9,29,38,WWWDDDLLDDLWLDDLWWWWWLW,5,3,4,19,19,10,35,8,6,9,30,33,LDLDLLWWDDWLWWDWLWDLWWW,3,3,5,16,22,WDDLDLLLWWWW,DDLWDWWWLLW
+Feyenoord,ADO Den Haag,2-2,/match/feyenoord/ado-den-haag/2010,2010,24,eredivisie,18,34,1,2,2,4,46,12,7,4,33,19,WDLWDLLLWWWWDDLWLWDDLLD,6,3,2,18,8,16,23,5,6,12,23,40,LDLLLWLWDDLWLDLDLWDWWWW,2,5,5,10,19,WWDLWWDWWDL,DLLWDWDDWDWW
+Twente 1965,Willem II,1-0,/match/fc-twente-1965/willem-ii/2010,2010,24,eredivisie,18,34,0,1,0,2,61,18,4,1,44,19,LDLWDWLWLWWLWWLLWDDWWWL,10,1,0,24,8,17,22,5,2,16,26,46,WWWLWLWWDWWLWDLWLWWWWLW,1,0,11,8,28,DWWWWWWWWWW,WWWWWLWWWWWW
+PSV,Sparta Rotterdam,1-1,/match/psv/sparta-rotterdam/2010,2010,24,eredivisie,18,34,1,1,1,1,65,19,4,0,52,14,DDWWLWLWDWLWLWLLWLWDWWL,11,1,0,30,9,12,29,6,5,12,23,39,LWWDWWDLWWLWLWLDLWDWDWW,1,3,7,8,23,DWWWWWWWWWWW,WDWDWLWDWWW
+Ajax,Vitesse,4-0,/match/ajax/vitesse/2010,2010,24,eredivisie,18,34,0,4,0,3,57,16,4,3,65,17,LWWDLWLWDWLWWWLWWDWDWWL,10,1,0,38,3,15,27,6,5,12,25,38,WDWLLDWWWWLWWWLLDWLDDWL,3,1,8,11,21,WDWWWWWWWWW,WWLWWWWLWLDW
+ADO Den Haag,Roda JC,1-2,/match/ado-den-haag/roda-jc/2010,2010,25,eredivisie,18,34,2,1,2,16,24,5,7,12,25,42,LDLLLWLWDDLWLDLDLWDWWWWD,3,1,7,13,21,12,32,7,5,12,29,44,DDWWLWWWDDWLLLWDLLWWWWWW,2,2,8,10,27,LLWLDLLLLWW,DWWWDWLWLWWW
+Heerenveen,Heracles,1-2,/match/heerenveen/heracles/2010,2010,25,eredivisie,18,34,2,1,2,14,30,8,2,14,27,42,DWWLWLLLDWWWLWWWLWWWWWLL,5,2,5,14,13,8,38,11,3,10,32,34,WDLLLWDLLLLWWWWWLWLDWWLW,5,2,5,12,14,DWLLLDWWLWWL,DLWLLLWWLDWW
+Vitesse,AZ Alkmaar,0-3,/match/vitesse/az/2010,2010,25,eredivisie,18,34,2,0,3,15,27,6,5,13,25,42,WDWLLDWWWWLWWWLLDWLDDWLW,3,4,4,14,17,9,38,11,3,10,40,28,WWLLWWLWWWLLDLWLWWWLDLWD,5,2,6,24,18,DLDWWLWLDDL,WLLWWWLLWWDLD
+Willem II,VVV Venlo,2-1,/match/willem-ii/vvv/2010,2010,25,eredivisie,18,34,0,2,1,17,22,5,2,17,26,47,WWWLWLWWDWWLWDLWLWWWWLWW,4,2,5,18,18,6,40,6,10,8,34,35,DDDDDWLWDDWDWWWWWWDWWWWD,0,4,7,8,19,WLLWDWDLLWL,DDDWDWWWWWW
+Ajax,Utrecht,4-0,/match/ajax/fc-utrecht/2010,2010,25,eredivisie,18,34,0,4,0,3,61,17,4,3,69,17,LWWDLWLWDWLWWWLWWDWDWWLW,11,1,0,42,3,5,44,9,9,6,26,22,LWDDWWLWDDWWLDWWDDWDWWDL,3,4,5,11,15,WDWWWWWWWWWW,LDWLDWDDWWWL
+PSV,RKC Waalwijk,5-1,/match/psv/rkc-waalwijk/2010,2010,25,eredivisie,18,34,0,5,1,1,67,19,5,0,53,15,DDWWLWLWDWLWLWLLWLWDWWLD,11,2,0,31,10,18,14,4,0,20,19,45,LWLWLWWWWLWLLWWLWWLWLLWL,1,0,10,7,24,DWWWWWWWWWWWD,WWWWWWLWWWW
+Groningen,Feyenoord,2-3,/match/fc-groningen/feyenoord/2010,2010,25,eredivisie,18,34,2,2,3,10,37,9,6,9,32,33,LDLDLLWWDDWLWWDWLWDLWWWL,5,3,4,14,11,4,48,12,8,4,35,21,WDLWDLLLWWWWDDLWLWDDLLDD,6,4,2,15,11,LLLWDLWDWDWW,DLLLWWDLLDLD
+Twente 1965,NEC Nijmegen,2-1,/match/fc-twente-1965/nec/2010,2010,25,eredivisie,18,34,0,2,1,2,65,19,4,1,45,19,LDLWDWLWLWWLWWLLWDDWWWLW,11,1,0,25,8,11,34,7,7,10,29,40,WWWDDDLLDDLWLDDLWWWWWLWL,2,4,5,10,19,DWWWWWWWWWWW,WWDLDWDDWWL
+Sparta Rotterdam,NAC Breda,2-2,/match/sparta-rotterdam/nac-breda/2010,2010,25,eredivisie,18,34,1,2,2,13,30,6,6,12,24,40,LWWDWWDLWWLWLWLDLWDWDWWD,5,2,5,15,16,7,39,9,6,9,33,37,LDLWWWWLWWWDWDWDWDLWDLWL,4,1,7,13,26,LWWLWWLLLDDW,LLWWWWDWWLLW
+AZ Alkmaar,Heerenveen,4-1,/match/az/heerenveen/2010,2010,26,eredivisie,18,34,0,4,1,9,40,12,3,10,43,28,WWLLWWLWWWLLDLWLWWWLDLWDL,6,1,4,16,10,14,30,8,2,15,28,44,DWWLWLLLDWWWLWWWLWWWWWLLL,3,0,9,13,29,WWLWLDWLWLW,WWLWWLWWWWWL
+ADO Den Haag,Vitesse,1-1,/match/ado-den-haag/vitesse/2010,2010,26,eredivisie,18,34,1,1,1,17,24,5,7,13,26,44,LDLLLWLWDDLWLDLDLWDWWWWDL,3,1,8,14,23,15,27,6,5,14,25,45,WDWLLDWWWWLWWWLLDWLDDWLWL,3,1,9,11,25,LLWLDLLLLWWL,WWLWWWWLWLDWW
+Heracles,Willem II,3-2,/match/heracles/willem-ii/2010,2010,26,eredivisie,18,34,0,3,2,8,40,12,3,10,34,35,WDLLLWDLLLLWWWWWLWLDWWLWL,6,1,5,20,20,16,26,6,2,17,28,48,WWWLWLWWDWWLWDLWLWWWWLWWW,1,0,12,8,29,WLLDLWWWWLWL,WWWWWLWWWWWWW
+NAC Breda,PSV,2-1,/match/nac-breda/psv/2010,2010,26,eredivisie,18,34,0,2,1,7,40,9,7,9,35,39,LDLWWWWLWWWDWDWDWDLWDLWLD,5,5,2,20,11,1,71,20,5,0,58,16,DDWWLWLWDWLWLWLLWLWDWWLDW,8,3,0,22,5,DWLWWWDDDWDL,DLLDLLLLLDL
+Roda JC,Feyenoord,2-4,/match/roda-jc/feyenoord/2010,2010,26,eredivisie,18,34,2,2,4,12,34,8,5,12,31,45,DDWWLWWWDDWLLLWDLLWWWWWWL,5,3,4,19,17,4,50,13,8,4,38,23,WDLWDLLLWWWWDDLWLWDDLLDDL,7,4,2,18,13,DWLWDLLDLWWW,DLLLWWDLLDLDL
+Sparta Rotterdam,Ajax,0-3,/match/sparta-rotterdam/ajax/2010,2010,26,eredivisie,18,34,2,0,3,13,32,6,7,12,26,42,LWWDWWDLWWLWLWLDLWDWDWWDD,5,3,5,17,18,3,65,18,4,3,73,17,LWWDLWLWDWLWWWLWWDWDWWLWW,6,3,3,27,14,LWWLWWLLLDDWD,LWLLDLWLWDDL
+Groningen,VVV Venlo,1-0,/match/fc-groningen/vvv/2010,2010,26,eredivisie,18,34,0,1,0,10,37,9,6,10,34,36,LDLDLLWWDDWLWWDWLWDLWWWLL,5,3,5,16,14,6,40,6,10,9,35,37,DDDDDWLWDDWDWWWWWWDWWWWDW,0,4,8,9,21,LLLWDLWDWDWWL,DDDWDWWWWWWW
+Utrecht,NEC Nijmegen,1-0,/match/fc-utrecht/nec/2010,2010,26,eredivisie,18,34,0,1,0,5,44,9,9,7,26,26,LWDDWWLWDDWWLDWWDDWDWWDLW,6,5,1,15,7,11,34,7,7,11,30,42,WWWDDDLLDDLWLDDLWWWWWLWLW,2,4,6,11,21,WDWWDWLWWDDD,WWDLDWDDWWLW
+RKC Waalwijk,Twente 1965,0-1,/match/rkc-waalwijk/fc-twente-1965/2010,2010,26,eredivisie,18,34,2,0,1,18,14,4,0,21,20,50,LWLWLWWWWLWLLWWLWWLWLLWLW,3,0,10,12,21,2,69,20,4,1,47,20,LDLWDWLWLWWLWWLLWDDWWWLWW,8,3,1,20,11,LLLWLLWLWLLLL,LLDLLLLLDDWL
+Twente 1965,ADO Den Haag,3-1,/match/fc-twente-1965/ado-den-haag/2010,2010,27,eredivisie,18,34,0,3,1,2,71,21,4,1,48,20,LDLWDWLWLWWLWWLLWDDWWWLWWL,12,1,0,27,9,17,26,5,8,13,27,45,LDLLLWLWDDLWLDLDLWDWWWWDLD,2,6,5,12,21,DWWWWWWWWWWWW,DLLWDWDDWDWWD
+NAC Breda,Groningen,0-3,/match/nac-breda/fc-groningen/2010,2010,27,eredivisie,18,34,2,0,3,7,44,10,7,9,37,40,LDLWWWWLWWWDWDWDWDLWDLWLDW,6,5,2,22,12,9,41,10,6,10,35,36,LDLDLLWWDDWLWWDWLWDLWWWLLW,4,3,5,18,22,DWLWWWDDDWDLW,DDLWDWWWLLWL
+VVV Venlo,Utrecht,0-1,/match/vvv/fc-utrecht/2010,2010,27,eredivisie,18,34,2,0,1,10,40,6,10,10,35,38,DDDDDWLWDDWDWWWWWWDWWWWDWW,6,6,1,26,16,5,48,10,9,7,27,26,LWDDWWLWDDWWLDWWDDWDWWDLWW,3,4,6,11,19,DDWLDDWWWDWWD,LDWLDWDDWWWLW
+AZ Alkmaar,RKC Waalwijk,6-2,/match/az/rkc-waalwijk/2010,2010,27,eredivisie,18,34,0,6,2,6,44,13,3,10,47,29,WWLLWWLWWWLLDLWLWWWLDLWDLW,7,1,4,20,11,18,14,4,0,22,20,51,LWLWLWWWWLWLLWWLWWLWLLWLWL,1,0,11,8,29,WWLWLDWLWLWW,WWWWWWLWWWWW
+NEC Nijmegen,Roda JC,0-2,/match/nec/roda-jc/2010,2010,27,eredivisie,18,34,2,0,2,11,34,7,7,12,30,43,WWWDDDLLDDLWLDDLWWWWWLWLWW,5,3,5,19,21,12,34,8,5,13,33,49,DDWWLWWWDDWLLLWDLLWWWWWWLL,3,2,8,12,28,WDDLDLLLWWWWL,DWWWDWLWLWWWL
+Feyenoord,Heracles,1-1,/match/feyenoord/heracles/2010,2010,27,eredivisie,18,34,1,1,1,4,52,14,8,4,42,25,WDLWDLLLWWWWDDLWLWDDLLDDLL,6,4,2,20,10,8,44,13,3,10,37,37,WDLLLWDLLLLWWWWWLWLDWWLWLW,6,2,5,14,15,WWDLWWDWWDLD,DLWLLLWWLDWWL
+Vitesse,Heerenveen,0-1,/match/vitesse/heerenveen/2010,2010,27,eredivisie,18,34,2,0,1,15,28,6,6,14,26,46,WDWLLDWWWWLWWWLLDWLDDWLWLD,3,4,5,14,20,14,30,8,2,16,29,48,DWWLWLLLDWWWLWWWLWWWWWLLLW,3,0,10,14,33,DLDWWLWLDDLL,WWLWWLWWWWWLW
+Willem II,Sparta Rotterdam,3-1,/match/willem-ii/sparta-rotterdam/2010,2010,27,eredivisie,18,34,0,3,1,16,26,6,2,18,30,51,WWWLWLWWDWWLWDLWLWWWWLWWWW,5,2,5,20,19,13,32,6,7,13,26,45,LWWDWWDLWWLWLWLDLWDWDWWDDL,1,4,7,9,24,WLLWDWDLLWLW,WDWDWLWDWWWD
+Ajax,PSV,4-1,/match/ajax/psv/2010,2010,27,eredivisie,18,34,0,4,1,3,67,19,4,3,76,17,LWWDLWLWDWLWWWLWWDWDWWLWWL,12,1,0,46,3,1,71,20,5,1,59,18,DDWWLWLWDWLWLWLLWLWDWWLDWW,8,3,1,23,7,WDWWWWWWWWWWW,DLLDLLLLLDLW
+Heerenveen,NEC Nijmegen,4-1,/match/heerenveen/nec/2010,2010,28,eredivisie,18,34,0,4,1,14,32,9,2,16,30,48,DWWLWLLLDWWWLWWWLWWWWWLLLWL,5,2,6,15,15,12,34,7,7,13,30,45,WWWDDDLLDDLWLDDLWWWWWLWLWWL,2,4,7,11,22,DWLLLDWWLWWLL,WWDLDWDDWWLWW
+Willem II,Utrecht,0-3,/match/willem-ii/fc-utrecht/2010,2010,28,eredivisie,18,34,2,0,3,15,30,7,2,18,33,52,WWWLWLWWDWWLWDLWLWWWWLWWWWW,6,2,5,23,20,5,50,11,9,7,28,26,LWDDWWLWDDWWLDWWDDWDWWDLWWL,4,4,6,12,19,WLLWDWDLLWLWW,LDWLDWDDWWWLWL
+PSV,Twente 1965,1-1,/match/psv/fc-twente-1965/2010,2010,28,eredivisie,18,34,1,1,1,2,71,20,5,2,60,22,DDWWLWLWDWLWLWLLWLWDWWLDWWW,12,2,0,36,11,1,75,22,4,1,51,21,LDLWDWLWLWWLWWLLWDDWWWLWWLW,9,3,1,21,11,DWWWWWWWWWWWDW,LLDLLLLLDDWLL
+Heracles,NAC Breda,3-0,/match/heracles/nac-breda/2010,2010,28,eredivisie,18,34,0,3,0,7,45,13,4,10,38,38,WDLLLWDLLLLWWWWWLWLDWWLWLWD,7,1,5,23,22,8,44,10,7,10,37,43,LDLWWWWLWWWDWDWDWDLWDLWLDWL,4,2,7,15,28,WLLDLWWWWLWLW,LLWWWWDWWLLWD
+RKC Waalwijk,Ajax,1-5,/match/rkc-waalwijk/ajax/2010,2010,28,eredivisie,18,34,2,1,5,18,14,4,0,23,22,57,LWLWLWWWWLWLLWWLWWLWLLWLWLW,3,0,11,12,22,3,71,20,4,3,80,18,LWWDLWLWDWLWWWLWWDWDWWLWWLW,7,3,3,30,14,LLLWLLWLWLLLLL,LWLLDLWLWDDLL
+ADO Den Haag,VVV Venlo,0-0,/match/ado-den-haag/vvv/2010,2010,28,eredivisie,18,34,1,0,0,17,26,5,8,14,28,48,LDLLLWLWDDLWLDLDLWDWWWWDLDW,3,2,8,15,24,10,40,6,10,11,35,39,DDDDDWLWDDWDWWWWWWDWWWWDWWL,0,4,9,9,22,LLWLDLLLLWWLD,DDDWDWWWWWWWW
+Sparta Rotterdam,AZ Alkmaar,0-1,/match/sparta-rotterdam/az/2010,2010,28,eredivisie,18,34,2,0,1,13,32,6,7,14,27,48,LWWDWWDLWWLWLWLDLWDWDWWDDLW,5,3,6,17,21,6,48,14,3,10,53,31,WWLLWWLWWWLLDLWLWWWLDLWDLWW,6,2,6,27,18,LWWLWWLLLDDWDL,WLLWWWLLWWDLDL
+Groningen,Roda JC,1-0,/match/fc-groningen/roda-jc/2010,2010,28,eredivisie,18,34,0,1,0,9,43,11,6,10,38,36,LDLDLLWWDDWLWWDWLWDLWWWLLWL,6,3,5,17,14,11,36,9,5,13,35,49,DDWWLWWWDDWLLLWDLLWWWWWWLLL,4,2,8,14,28,LLLWDLWDWDWWLW,DWWWDWLWLWWWLL
+Feyenoord,Vitesse,2-1,/match/feyenoord/vitesse/2010,2010,28,eredivisie,18,34,0,2,1,4,54,14,9,4,43,26,WDLWDLLLWWWWDDLWLWDDLLDDLLD,6,5,2,21,11,16,28,6,6,15,26,47,WDWLLDWWWWLWWWLLDWLDDWLWLDL,3,2,9,12,26,WWDLWWDWWDLDD,WWLWWWWLWLDWWD
+NAC Breda,ADO Den Haag,3-0,/match/nac-breda/ado-den-haag/2010,2010,29,eredivisie,18,34,0,3,0,9,44,10,7,11,37,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLW,6,5,3,22,15,17,28,5,9,14,28,48,LDLLLWLWDDLWLDLDLWDWWWWDLDWD,2,6,6,13,24,DWLWWWDDDWDLWL,DLLWDWDDWDWWDW
+Vitesse,Willem II,2-1,/match/vitesse/willem-ii/2010,2010,29,eredivisie,18,34,0,2,1,16,28,6,6,16,27,49,WDWLLDWWWWLWWWLLDWLDDWLWLDLW,3,4,6,14,21,15,30,7,2,19,33,55,WWWLWLWWDWWLWDLWLWWWWLWWWWWL,1,0,13,10,32,DLDWWLWLDDLLL,WWWWWLWWWWWWWW
+Roda JC,Heerenveen,4-2,/match/roda-jc/heerenveen/2010,2010,29,eredivisie,18,34,0,4,2,11,36,9,5,14,35,50,DDWWLWWWDDWLLLWDLLWWWWWWLLLW,5,3,5,21,21,12,36,10,2,16,34,49,DWWLWLLLDWWWLWWWLWWWWWLLLWLW,4,0,10,15,33,DWLWDLLDLWWWL,WWLWWLWWWWWLWL
+AZ Alkmaar,Heracles,3-2,/match/az/heracles/2010,2010,29,eredivisie,18,34,0,3,2,6,50,15,3,10,54,31,WWLLWWLWWWLLDLWLWWWLDLWDLWWL,8,1,4,26,13,7,49,14,4,10,41,38,WDLLLWDLLLLWWWWWLWLDWWLWLWDW,6,3,5,15,16,WWLWLDWLWLWWW,DLWLLLWWLDWWLD
+Twente 1965,Sparta Rotterdam,3-0,/match/fc-twente-1965/sparta-rotterdam/2010,2010,29,eredivisie,18,34,0,3,0,1,76,22,5,1,52,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWD,13,1,0,30,10,14,32,6,7,15,27,49,LWWDWWDLWWLWLWLDLWDWDWWDDLWL,1,4,8,10,27,DWWWWWWWWWWWWW,WDWDWLWDWWWDW
+NEC Nijmegen,Feyenoord,0-0,/match/nec/feyenoord/2010,2010,29,eredivisie,18,34,1,0,0,13,34,7,7,14,31,49,WWWDDDLLDDLWLDDLWWWWWLWLWWLW,5,3,6,19,23,4,58,15,9,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDW,8,4,2,22,15,WDDLDLLLWWWWLL,DLLLWWDLLDLDLL
+Ajax,Groningen,3-0,/match/ajax/fc-groningen/2010,2010,29,eredivisie,18,34,0,3,0,3,73,21,4,3,85,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWL,13,1,0,50,4,8,47,12,6,10,39,36,LDLDLLWWDDWLWWDWLWDLWWWLLWLW,5,3,5,21,22,WDWWWWWWWWWWWW,DDLWDWWWLLWLL
+Utrecht,RKC Waalwijk,2-0,/match/fc-utrecht/rkc-waalwijk/2010,2010,29,eredivisie,18,34,0,2,0,5,52,12,9,7,31,26,LWDDWWLWDDWWLDWWDDWDWWDLWWLL,7,5,1,16,7,18,14,4,0,24,23,62,LWLWLWWWWLWLLWWLWWLWLLWLWLWL,1,0,12,10,35,WDWWDWLWWDDDW,WWWWWWLWWWWWW
+VVV Venlo,PSV,2-4,/match/vvv/psv/2010,2010,29,eredivisie,18,34,2,2,4,10,41,6,11,11,35,39,DDDDDWLWDDWDWWWWWWDWWWWDWWLD,6,6,2,26,17,2,73,20,6,2,61,23,DDWWLWLWDWLWLWLLWLWDWWLDWWWD,8,3,2,24,11,DDWLDDWWWDWWDL,DLLDLLLLLDLWW
+VVV Venlo,Twente 1965,0-2,/match/vvv/fc-twente-1965/2010,2010,30,eredivisie,18,34,2,0,2,10,41,6,11,12,37,43,DDDDDWLWDDWDWWWWWWDWWWWDWWLDL,6,6,3,28,21,1,80,23,5,1,55,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWDW,9,4,1,22,12,DDWLDDWWWDWWDLL,LLDLLLLLDDWLLD
+Vitesse,Groningen,3-0,/match/vitesse/fc-groningen/2010,2010,30,eredivisie,18,34,0,3,0,15,32,7,6,16,29,50,WDWLLDWWWWLWWWLLDWLDDWLWLDLWW,4,4,6,16,22,9,47,12,6,11,39,39,LDLDLLWWDDWLWWDWLWDLWWWLLWLWW,5,3,6,21,25,DLDWWLWLDDLLLW,DDLWDWWWLLWLLW
+AZ Alkmaar,Utrecht,2-0,/match/az/fc-utrecht/2010,2010,30,eredivisie,18,34,0,2,0,6,54,16,3,10,57,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLW,9,1,4,29,15,5,56,13,9,7,33,26,LWDDWWLWDDWWLDWWDDWDWWDLWWLLW,5,4,6,15,19,WWLWLDWLWLWWWW,LDWLDWDDWWWLWLL
+Roda JC,RKC Waalwijk,5-1,/match/roda-jc/rkc-waalwijk/2010,2010,30,eredivisie,18,34,0,5,1,11,40,10,5,14,39,52,DDWWLWWWDDWLLLWDLLWWWWWWLLLWW,6,3,5,25,23,18,14,4,0,25,23,64,LWLWLWWWWLWLLWWLWWLWLLWLWLWLW,1,0,13,10,37,DWLWDLLDLWWWLW,WWWWWWLWWWWWWW
+Heerenveen,Sparta Rotterdam,4-1,/match/heerenveen/sparta-rotterdam/2010,2010,30,eredivisie,18,34,0,4,1,12,36,10,2,17,36,53,DWWLWLLLDWWWLWWWLWWWWWLLLWLWW,6,2,6,19,16,14,32,6,7,16,27,52,LWWDWWDLWWLWLWLDLWDWDWWDDLWLW,1,4,9,10,30,DWLLLDWWLWWLLW,WDWDWLWDWWWDWW
+Feyenoord,NAC Breda,0-0,/match/feyenoord/nac-breda/2010,2010,30,eredivisie,18,34,1,0,0,4,59,15,10,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWD,7,5,2,23,12,8,48,11,7,11,40,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLWW,4,2,8,15,31,WWDLWWDWWDLDDW,LLWWWWDWWLLWDW
+ADO Den Haag,Ajax,0-1,/match/ado-den-haag/ajax/2010,2010,30,eredivisie,18,34,2,0,1,17,28,5,9,15,28,51,LDLLLWLWDDLWLDLDLWDWWWWDLDWDW,3,3,8,15,24,2,77,22,4,3,88,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLW,8,3,3,35,15,LLWLDLLLLWWLDD,LWLLDLWLWDDLLL
+Heracles,NEC Nijmegen,2-0,/match/heracles/nec/2010,2010,30,eredivisie,18,34,0,2,0,7,49,14,4,11,43,41,WDLLLWDLLLLWWWWWLWLDWWLWLWDWW,8,1,5,26,22,13,36,7,8,14,31,49,WWWDDDLLDDLWLDDLWWWWWLWLWWLWD,2,4,8,12,26,WLLDLWWWWLWLWW,WWDLDWDDWWLWWW
+Willem II,PSV,0-1,/match/willem-ii/psv/2010,2010,30,eredivisie,18,34,2,0,1,16,30,7,2,20,34,57,WWWLWLWWDWWLWDLWLWWWWLWWWWWLW,6,2,6,23,23,3,75,21,6,2,65,25,DDWWLWLWDWLWLWLLWLWDWWLDWWWDL,9,3,2,28,13,WLLWDWDLLWLWWL,DLLDLLLLLDLWWL
+RKC Waalwijk,Vitesse,4-1,/match/rkc-waalwijk/vitesse/2010,2010,31,eredivisie,18,34,0,4,1,18,14,4,0,26,24,69,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWW,3,0,12,13,27,14,36,8,6,16,32,50,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWW,3,2,10,13,28,LLLWLLWLWLLLLLL,WWLWWWWLWLDWWDW
+Twente 1965,Heerenveen,2-0,/match/fc-twente-1965/heerenveen/2010,2010,31,eredivisie,18,34,0,2,0,1,82,24,5,1,57,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWL,14,1,0,33,10,12,40,11,2,17,40,54,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWW,4,0,11,17,37,DWWWWWWWWWWWWWW,WWLWWLWWWWWLWLW
+NEC Nijmegen,AZ Alkmaar,0-0,/match/nec/az/2010,2010,31,eredivisie,18,34,1,0,0,13,36,7,8,15,31,51,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDW,5,4,6,19,23,5,58,17,3,10,59,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWW,7,2,6,28,18,WDDLDLLLWWWWLLD,WLLWWWLLWWDLDLL
+NAC Breda,Roda JC,1-0,/match/nac-breda/roda-jc/2010,2010,31,eredivisie,18,34,0,1,0,8,49,11,8,11,40,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWD,7,5,3,25,15,10,44,11,5,14,44,53,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWW,4,2,9,14,29,DWLWWWDDDWDLWLW,DWWWDWLWLWWWLLW
+Sparta Rotterdam,Heracles,1-1,/match/sparta-rotterdam/heracles/2010,2010,31,eredivisie,18,34,1,1,1,15,32,6,7,17,28,56,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWW,5,3,7,17,22,7,53,15,4,11,45,41,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWW,6,3,6,17,19,LWWLWWLLLDDWDLL,DLWLLLWWLDWWLDW
+PSV,Feyenoord,0-0,/match/psv/feyenoord/2010,2010,31,eredivisie,18,34,1,0,0,3,77,22,6,2,66,25,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLL,12,3,0,37,12,4,61,15,11,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDD,8,5,2,22,15,DWWWWWWWWWWWDWD,DLLLWWDLLDLDLLD
+Utrecht,ADO Den Haag,0-2,/match/fc-utrecht/ado-den-haag/2010,2010,31,eredivisie,18,34,2,0,2,6,56,13,9,8,33,28,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWW,8,5,1,18,7,17,28,5,9,16,28,52,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWL,2,6,7,13,27,WDWWDWLWWDDDWW,DLLWDWDDWDWWDWW
+Ajax,VVV Venlo,7-0,/match/ajax/vvv/2010,2010,31,eredivisie,18,34,0,7,0,2,79,23,4,3,89,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWL,14,1,0,53,4,11,41,6,11,13,37,45,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLL,0,5,9,9,22,WDWWWWWWWWWWWWW,DDDWDWWWWWWWWD
+Groningen,Willem II,4-0,/match/fc-groningen/willem-ii/2010,2010,31,eredivisie,18,34,0,4,0,9,47,12,6,12,39,42,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWW,7,3,5,18,14,16,30,7,2,21,34,58,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWL,1,0,14,11,34,LLLWDLWDWDWWLWW,WWWWWLWWWWWWWWW
+Heracles,RKC Waalwijk,4-1,/match/heracles/rkc-waalwijk/2010,2010,32,eredivisie,18,34,0,4,1,7,54,15,5,11,46,42,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWWD,9,1,5,28,22,18,18,5,0,26,28,70,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWWW,1,0,14,11,42,WLLDLWWWWLWLWWW,WWWWWWLWWWWWWWW
+Vitesse,NAC Breda,1-1,/match/vitesse/nac-breda/2010,2010,32,eredivisie,18,34,1,1,1,14,36,8,6,17,33,54,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWWW,5,4,6,19,22,8,53,12,8,11,41,46,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWDW,4,3,8,15,31,DLDWWLWLDDLLLWW,LLWWWWDWWLLWDWD
+AZ Alkmaar,Twente 1965,1-0,/match/az/fc-twente-1965/2010,2010,32,eredivisie,18,34,0,1,0,5,59,17,4,10,59,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWWD,10,1,4,31,15,1,86,25,5,1,59,22,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWLW,10,4,1,24,12,WWLWLDWLWLWWWWW,LLDLLLLLDDWLLDL
+Willem II,Ajax,0-2,/match/willem-ii/ajax/2010,2010,32,eredivisie,18,34,2,0,2,16,30,7,2,22,34,62,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWLW,6,2,7,23,24,2,83,24,4,3,96,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWLW,9,3,3,36,15,WLLWDWDLLWLWWLL,LWLLDLWLWDDLLLL
+Roda JC,VVV Venlo,4-2,/match/roda-jc/vvv/2010,2010,32,eredivisie,18,34,0,4,2,10,44,11,5,15,44,54,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWWW,7,3,5,30,24,11,41,6,11,14,37,52,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLLW,0,5,10,9,29,DWLWDLLDLWWWLWW,DDDWDWWWWWWWWDW
+Feyenoord,Sparta Rotterdam,3-0,/match/feyenoord/sparta-rotterdam/2010,2010,32,eredivisie,18,34,0,3,0,4,62,15,12,4,45,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDDD,7,6,2,23,12,15,34,6,8,17,29,57,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWWD,1,4,10,11,34,WWDLWWDWWDLDDWD,WDWDWLWDWWWDWWW
+Heerenveen,PSV,2-2,/match/heerenveen/psv/2010,2010,32,eredivisie,18,34,1,2,2,12,40,11,2,18,40,56,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWWW,7,2,6,23,17,3,79,22,7,2,66,25,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLLD,10,3,2,29,13,DWLLLDWWLWWLLWW,DLLDLLLLLDLWWLL
+ADO Den Haag,NEC Nijmegen,2-3,/match/ado-den-haag/nec/2010,2010,32,eredivisie,18,34,2,2,3,17,30,6,9,16,30,52,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWLL,3,3,9,15,25,13,38,7,9,15,31,51,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDWD,2,4,9,12,28,LLWLDLLLLWWLDDL,WWDLDWDDWWLWWWW
+Utrecht,Groningen,1-1,/match/fc-utrecht/fc-groningen/2010,2010,32,eredivisie,18,34,1,1,1,6,56,13,9,9,33,30,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWWL,8,5,2,18,9,9,51,13,6,12,43,42,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWWW,5,3,7,21,28,WDWWDWLWWDDDWWL,DDLWDWWWLLWLLWW
+Heerenveen,NAC Breda,0-0,/match/heerenveen/nac-breda/2010,2010,33,eredivisie,18,34,1,0,0,11,42,11,3,18,42,58,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWWWD,7,3,6,25,19,8,54,12,9,11,42,47,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWDWD,4,4,8,16,32,DWLLLDWWLWWLLWWD,LLWWWWDWWLLWDWDD
+Twente 1965,Feyenoord,2-0,/match/fc-twente-1965/feyenoord/2010,2010,33,eredivisie,18,34,0,2,0,1,86,25,5,2,59,23,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWLWW,15,1,0,35,10,4,66,16,12,4,48,27,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDDDW,8,6,2,22,15,DWWWWWWWWWWWWWWW,DLLLWWDLLDLDLLDD
+PSV,Groningen,3-1,/match/psv/fc-groningen/2010,2010,33,eredivisie,18,34,0,3,1,3,80,22,8,2,68,27,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLLDD,12,4,0,37,12,9,52,13,7,12,44,43,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWWWD,5,4,7,22,29,DWWWWWWWWWWWDWDD,DDLWDWWWLLWLLWWD
+Willem II,AZ Alkmaar,0-3,/match/willem-ii/az/2010,2010,33,eredivisie,18,34,2,0,3,16,30,7,2,23,34,64,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWLWL,6,2,8,23,26,5,63,18,4,10,60,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWWDW,7,3,6,28,18,WLLWDWDLLWLWWLLL,WLLWWWLLWWDLDLLD
+ADO Den Haag,RKC Waalwijk,4-0,/match/ado-den-haag/rkc-waalwijk/2010,2010,33,eredivisie,18,34,0,4,0,17,30,6,9,17,32,55,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWLLL,3,3,10,17,28,18,18,5,0,27,29,74,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWWWW,1,0,15,12,46,LLWLDLLLLWWLDDLL,WWWWWWLWWWWWWWWW
+Vitesse,Roda JC,2-5,/match/vitesse/roda-jc/2010,2010,33,eredivisie,18,34,2,2,5,14,38,8,7,17,34,55,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWWWD,5,5,6,20,23,10,48,12,5,15,48,56,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWWWW,4,2,10,14,30,DLDWWLWLDDLLLWWD,DWWWDWLWLWWWLLWW
+VVV Venlo,NEC Nijmegen,2-0,/match/vvv/nec/2010,2010,33,eredivisie,18,34,0,2,0,12,41,6,11,15,39,56,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLLWW,6,6,4,28,23,13,40,8,9,15,34,53,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDWDL,3,4,9,15,30,DDWLDDWWWDWWDLLL,WWDLDWDDWWLWWWWL
+Sparta Rotterdam,Utrecht,0-3,/match/sparta-rotterdam/fc-utrecht/2010,2010,33,eredivisie,18,34,2,0,3,15,34,6,8,18,29,60,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWWDW,5,4,7,18,23,6,58,13,10,9,34,31,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWWLD,5,4,7,15,21,LWWLWWLLLDDWDLLD,LDWLDWDDWWWLWLLW
+Ajax,Heracles,4-0,/match/ajax/heracles/2010,2010,33,eredivisie,18,34,0,4,0,2,85,25,4,3,98,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWLWL,15,1,0,60,4,7,58,16,5,11,50,43,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWWDW,6,4,6,18,20,WDWWWWWWWWWWWWWW,DLWLLLWWLDWWLDWD
+AZ Alkmaar,PSV,1-1,/match/az/psv/2010,2010,34,eredivisie,18,34,1,1,1,5,65,19,4,10,63,33,WWLLWWLWWWLLDLWLWWWLDLWDLWWLWWDWL,11,1,4,32,15,3,84,23,8,2,71,28,DDWWLWLWDWLWLWLLWLWDWWLDWWWDLLDDW,10,4,2,31,15,WWLWLDWLWLWWWWWW,DLLDLLLLLDLWWLLD
+Feyenoord,Heerenveen,6-2,/match/feyenoord/heerenveen/2010,2010,34,eredivisie,18,34,0,6,2,4,66,16,12,5,48,29,WDLWDLLLWWWWDDLWLWDDLLDDLLDWDDDWW,8,6,2,26,12,12,44,11,4,18,42,58,DWWLWLLLDWWWLWWWLWWWWWLLLWLWWWWDD,4,0,12,17,39,WWDLWWDWWDLDDWDW,WWLWWLWWWWWLWLWW
+RKC Waalwijk,VVV Venlo,1-2,/match/rkc-waalwijk/vvv/2010,2010,34,eredivisie,18,34,2,1,2,18,18,5,0,28,29,78,LWLWLWWWWLWLLWWLWWLWLLWLWLWLWWWWW,4,0,12,17,28,11,45,7,11,15,41,56,DDDDDWLWDDWDWWWWWWDWWWWDWWLDLLWWW,0,5,11,11,33,LLLWLLWLWLLLLLLW,DDDWDWWWWWWWWDWW
+Heracles,ADO Den Haag,4-2,/match/heracles/ado-den-haag/2010,2010,34,eredivisie,18,34,0,4,2,7,58,16,5,12,50,47,WDLLLWDLLLLWWWWWLWLDWWLWLWDWWWDWW,10,1,5,32,23,16,34,7,9,17,36,55,LDLLLWLWDDLWLDLDLWDWWWWDLDWDWLLLW,3,6,7,15,27,WLLDLWWWWLWLWWWW,DLLWDWDDWDWWDWWL
+Utrecht,Vitesse,2-2,/match/fc-utrecht/vitesse/2010,2010,34,eredivisie,18,34,1,2,2,6,60,14,10,9,37,31,LWDDWWLWDDWWLDWWDDWDWWDLWWLLWWLDL,8,6,2,19,10,14,38,8,7,18,36,60,WDWLLDWWWWLWWWLLDWLDDWLWLDLWWWWDL,3,2,11,14,32,WDWWDWLWWDDDWWLD,WWLWWWWLWLDWWDWW
+Groningen,Sparta Rotterdam,3-1,/match/fc-groningen/sparta-rotterdam/2010,2010,34,eredivisie,18,34,0,3,1,9,52,13,7,13,45,46,LDLDLLWWDDWLWWDWLWDLWWWLLWLWWWWDW,8,3,5,22,14,15,34,6,8,19,29,63,LWWDWWDLWWLWLWLDLWDWDWWDDLWLWWDWL,1,4,11,11,37,LLLWDLWDWDWWLWWW,WDWDWLWDWWWDWWWW
+NEC Nijmegen,Ajax,1-4,/match/nec/ajax/2010,2010,34,eredivisie,18,34,2,1,4,13,40,8,9,16,34,55,WWWDDDLLDDLWLDDLWWWWWLWLWWLWDWDLW,5,5,6,19,23,2,89,26,4,3,102,19,LWWDLWLWDWLWWWLWWDWDWWLWWLWLWLWLW,10,3,3,38,15,WDDLDLLLWWWWLLDD,LWLLDLWLWDDLLLLL
+Roda JC,Willem II,3-2,/match/roda-jc/willem-ii/2010,2010,34,eredivisie,18,34,0,3,2,10,50,13,5,15,53,58,DDWWLWWWDDWLLLWDLLWWWWWWLLLWWWWWL,8,3,5,34,26,17,30,7,2,24,34,67,WWWLWLWWDWWLWDLWLWWWWLWWWWWLWLWLL,1,0,15,11,38,DWLWDLLDLWWWLWWW,WWWWWLWWWWWWWWWW
+NAC Breda,Twente 1965,0-2,/match/nac-breda/fc-twente-1965/2010,2010,34,eredivisie,18,34,2,0,2,8,55,12,10,11,42,47,LDLWWWWLWWWDWDWDWDLWDLWLDWLWWDWDD,8,5,3,26,15,1,90,26,5,2,61,23,LDLWDWLWLWWLWWLLWDDWWWLWWLWDWLWWW,10,4,2,24,13,DWLWWWDDDWDLWLWW,LLDLLLLLDDWLLDLW

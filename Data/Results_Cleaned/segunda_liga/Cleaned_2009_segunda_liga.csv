@@ -1,241 +1,241 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Olhanense,Estoril,3-2,/match/sc-olhanense/estoril/2009,2009,1,segunda_liga,16,30,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-SC Freamunde,União de Leiria,1-0,/match/sc-freamunde/uniao-leiria/2009,2009,1,segunda_liga,16,30,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Beira Mar SC,CD Santa Clara,0-0,/match/beira-mar/santa-clara/2009,2009,1,segunda_liga,16,30,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-UD Oliveirense,Gil Vicente,1-1,/match/ud-oliveirense/gil-vicente/2009,2009,1,segunda_liga,16,30,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Desportivo Aves,SP. Covilhã,2-0,/match/desportivo-aves/sporting-covilha/2009,2009,1,segunda_liga,16,30,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Boavista,Vizela,2-1,/match/boavista/vizela/2009,2009,1,segunda_liga,16,30,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Feirense,Gondomar,2-0,/match/feirense/gondomar/2009,2009,1,segunda_liga,16,30,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Portimonense,Varzim,2-1,/match/portimonense/varzim/2009,2009,1,segunda_liga,16,30,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-União de Leiria,Portimonense,0-1,/match/uniao-leiria/portimonense/2009,2009,2,segunda_liga,16,30,2,0,1,14,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,,
-Varzim,Boavista,2-0,/match/varzim/boavista/2009,2009,2,segunda_liga,16,30,0,2,0,11,0,0,1,1,2,W,0,0,0,0,0,6,1,0,0,2,1,W,0,0,0,0,0,,
-Gil Vicente,Feirense,2-1,/match/gil-vicente/feirense/2009,2009,2,segunda_liga,16,30,0,2,1,9,0,1,0,1,1,D,0,0,0,0,0,5,1,0,0,2,0,W,0,0,0,0,0,,
-Estoril,UD Oliveirense,0-0,/match/estoril/ud-oliveirense/2009,2009,2,segunda_liga,16,30,1,0,0,16,0,0,1,2,3,W,0,0,0,0,0,7,0,1,0,1,1,D,0,0,0,0,0,,
-CD Santa Clara,SC Freamunde,1-0,/match/santa-clara/sc-freamunde/2009,2009,2,segunda_liga,16,30,0,1,0,10,0,1,0,0,0,D,0,0,0,0,0,1,1,0,0,1,0,W,0,0,0,0,0,,
-Gondomar,Beira Mar SC,0-0,/match/gondomar/beira-mar/2009,2009,2,segunda_liga,16,30,1,0,0,15,0,0,1,0,2,W,0,0,0,0,0,8,0,1,0,0,0,D,0,0,0,0,0,,
-SP. Covilhã,Olhanense,4-3,/match/sporting-covilha/sc-olhanense/2009,2009,2,segunda_liga,16,30,0,4,3,12,0,0,1,0,2,W,0,0,0,0,0,3,1,0,0,3,2,W,0,0,0,0,0,,
-Vizela,Desportivo Aves,0-2,/match/vizela/desportivo-aves/2009,2009,2,segunda_liga,16,30,2,0,2,13,0,0,1,1,2,W,0,0,0,0,0,4,1,0,0,2,0,W,0,0,0,0,0,,
-SC Freamunde,Gondomar,2-0,/match/sc-freamunde/gondomar/2009,2009,3,segunda_liga,16,30,0,2,0,5,1,0,1,1,1,WW,1,0,0,1,0,13,0,1,1,0,2,WD,0,0,1,0,2,W,W
-Olhanense,Vizela,1-0,/match/sc-olhanense/vizela/2009,2009,3,segunda_liga,16,30,0,1,0,6,1,0,1,6,6,WW,1,0,0,3,2,15,0,0,2,1,4,WL,0,0,1,1,2,W,W
-União de Leiria,CD Santa Clara,1-1,/match/uniao-leiria/santa-clara/2009,2009,3,segunda_liga,16,30,1,1,1,16,0,0,2,0,2,WL,0,0,1,0,1,4,1,1,0,1,0,DW,0,1,0,0,0,L,D
-Beira Mar SC,Gil Vicente,0-0,/match/beira-mar/gil-vicente/2009,2009,3,segunda_liga,16,30,1,0,0,12,0,2,0,0,0,DD,0,1,0,0,0,3,1,1,0,3,2,DW,0,1,0,1,1,D,D
-Feirense,Estoril,1-0,/match/feirense/estoril/2009,2009,3,segunda_liga,16,30,0,1,0,7,1,0,1,3,2,WW,1,0,0,2,0,14,0,1,1,2,3,WD,0,0,1,2,3,W,W
-Desportivo Aves,Varzim,0-0,/match/desportivo-aves/varzim/2009,2009,3,segunda_liga,16,30,1,0,0,2,2,0,0,4,0,WL,1,0,0,2,0,9,1,0,1,3,2,WW,0,0,1,1,2,W,W
-Portimonense,Boavista,0-1,/match/portimonense/boavista/2009,2009,3,segunda_liga,16,30,2,0,1,1,2,0,0,3,1,WL,1,0,0,2,1,8,1,0,1,2,3,WW,0,0,1,0,2,W,W
-UD Oliveirense,SP. Covilhã,1-2,/match/ud-oliveirense/sporting-covilha/2009,2009,3,segunda_liga,16,30,2,1,2,11,0,2,0,1,1,DD,0,1,0,1,1,10,1,0,1,4,5,WW,0,0,1,0,2,D,W
-CD Santa Clara,Portimonense,3-0,/match/santa-clara/portimonense/2009,2009,4,segunda_liga,16,30,0,3,0,7,1,2,0,2,1,DWD,1,0,0,1,0,5,2,0,1,3,2,WLL,1,0,0,1,0,W,L
-Gondomar,União de Leiria,0-1,/match/gondomar/uniao-leiria/2009,2009,4,segunda_liga,16,30,2,0,1,13,0,1,2,0,4,WDW,0,1,0,0,0,15,0,1,2,1,3,WLD,0,0,1,0,1,D,W
-Gil Vicente,SC Freamunde,0-0,/match/gil-vicente/sc-freamunde/2009,2009,4,segunda_liga,16,30,1,0,0,6,1,2,0,3,2,DWD,1,0,0,2,1,2,2,0,1,3,1,WWW,0,0,1,0,1,W,W
-Estoril,Beira Mar SC,2-0,/match/estoril/beira-mar/2009,2009,4,segunda_liga,16,30,0,2,0,14,0,1,2,2,4,WDW,0,1,0,0,0,11,0,3,0,0,0,DDD,0,1,0,0,0,D,D
-SP. Covilhã,Feirense,0-0,/match/sporting-covilha/feirense/2009,2009,4,segunda_liga,16,30,1,0,0,9,2,0,1,6,6,WWL,1,0,0,4,3,4,2,0,1,4,2,WWW,0,0,1,1,2,W,W
-Vizela,UD Oliveirense,2-1,/match/vizela/ud-oliveirense/2009,2009,4,segunda_liga,16,30,0,2,1,16,0,0,3,1,5,WLW,0,0,1,0,2,12,0,2,1,2,3,DDL,0,1,0,0,0,L,D
-Varzim,Olhanense,2-1,/match/varzim/sc-olhanense/2009,2009,4,segunda_liga,16,30,0,2,1,10,1,1,1,3,2,WWD,1,0,0,2,0,3,2,0,1,7,6,WWW,0,0,1,3,4,W,W
-Boavista,Desportivo Aves,1-1,/match/boavista/desportivo-aves/2009,2009,4,segunda_liga,16,30,1,1,1,8,2,0,1,3,3,WWL,1,0,0,2,1,1,2,1,0,4,0,WLD,1,0,0,2,0,W,L
-Beira Mar SC,SP. Covilhã,0-1,/match/beira-mar/sporting-covilha/2009,2009,5,segunda_liga,16,30,2,0,1,12,0,3,1,0,2,DDDW,0,2,0,0,0,9,2,1,1,6,6,WWLD,1,0,1,2,3,DD,WL
-SC Freamunde,Estoril,0-1,/match/sc-freamunde/estoril/2009,2009,5,segunda_liga,16,30,2,0,1,3,2,1,1,3,1,WWWD,2,0,0,3,0,11,1,1,2,4,4,WDWW,0,0,2,2,4,WW,WW
-UD Oliveirense,Varzim,2-1,/match/ud-oliveirense/varzim/2009,2009,5,segunda_liga,16,30,0,2,1,15,0,2,2,3,5,DDLW,0,1,1,2,3,5,2,1,1,5,3,WWDW,0,1,1,1,2,DL,WD
-Olhanense,Boavista,1-1,/match/sc-olhanense/boavista/2009,2009,5,segunda_liga,16,30,1,1,1,6,2,0,2,8,8,WWWW,2,0,0,4,2,8,2,1,1,4,4,WWLD,1,0,1,1,2,WW,WL
-União de Leiria,Gil Vicente,1-1,/match/uniao-leiria/gil-vicente/2009,2009,5,segunda_liga,16,30,1,1,1,13,1,1,2,2,3,WLDL,0,1,1,1,2,7,1,3,0,3,2,DWDD,0,2,0,1,1,LD,DD
-Feirense,Vizela,0-0,/match/feirense/vizela/2009,2009,5,segunda_liga,16,30,1,0,0,4,2,1,1,4,2,WWWD,2,0,0,3,0,14,1,0,3,3,6,WLWW,0,0,2,1,3,WW,WW
-Portimonense,Desportivo Aves,5-2,/match/portimonense/desportivo-aves/2009,2009,5,segunda_liga,16,30,0,5,2,10,2,0,2,3,5,WLLW,1,0,1,2,2,2,2,2,0,5,1,WLDD,1,1,0,3,1,WL,LD
-CD Santa Clara,Gondomar,2-1,/match/santa-clara/gondomar/2009,2009,5,segunda_liga,16,30,0,2,1,1,2,2,0,5,1,DWDW,2,0,0,4,0,16,0,1,3,0,5,WDWL,0,0,2,0,4,WW,WW
-Gondomar,Portimonense,0-0,/match/gondomar/portimonense/2009,2009,6,segunda_liga,16,30,1,0,0,16,0,1,4,1,7,WDWLW,0,1,1,0,1,5,3,0,2,8,7,WLLWW,1,0,1,1,3,DL,LW
-Gil Vicente,CD Santa Clara,3-2,/match/gil-vicente/santa-clara/2009,2009,6,segunda_liga,16,30,0,3,2,9,1,4,0,4,3,DWDDD,1,1,0,2,1,1,3,2,0,7,2,DWDWW,0,2,0,1,1,WD,DD
-Desportivo Aves,Olhanense,1-2,/match/desportivo-aves/sc-olhanense/2009,2009,6,segunda_liga,16,30,2,1,2,6,2,2,1,7,6,WLDDW,1,1,0,2,0,3,2,1,2,9,9,WWWWD,0,0,2,4,6,WD,WW
-Vizela,Beira Mar SC,0-3,/match/vizela/beira-mar/2009,2009,6,segunda_liga,16,30,2,0,3,15,1,1,3,3,6,WLWWD,1,0,1,2,3,14,0,3,2,0,3,DDDWL,0,1,1,0,2,LW,DW
-Boavista,UD Oliveirense,1-0,/match/boavista/ud-oliveirense/2009,2009,6,segunda_liga,16,30,0,1,0,10,2,2,1,5,5,WWLDD,1,1,0,3,2,12,1,2,2,5,6,DDLWW,0,1,1,1,2,WD,DW
-Estoril,União de Leiria,2-2,/match/estoril/uniao-leiria/2009,2009,6,segunda_liga,16,30,1,2,2,11,2,1,2,5,4,WDWWL,1,1,0,2,0,13,1,2,2,3,4,WLDLD,1,0,1,1,1,DW,WL
-SP. Covilhã,SC Freamunde,1-1,/match/sporting-covilha/sc-freamunde/2009,2009,6,segunda_liga,16,30,1,1,1,4,3,1,1,7,6,WWLDL,1,1,0,4,3,7,2,1,2,3,2,WWWDL,0,1,1,0,1,WD,WD
-Varzim,Feirense,2-1,/match/varzim/feirense/2009,2009,6,segunda_liga,16,30,0,2,1,8,2,1,2,6,5,WWDWW,2,0,0,4,1,2,2,2,1,4,2,WWWDD,0,1,1,1,2,WW,WD
-Portimonense,Olhanense,2-3,/match/portimonense/sc-olhanense/2009,2009,7,segunda_liga,16,30,2,2,3,8,3,1,2,8,7,WLLWWD,2,0,1,7,4,5,3,1,2,11,10,WWWWDL,1,0,2,6,7,WLW,WWL
-Feirense,Boavista,2-0,/match/feirense/boavista/2009,2009,7,segunda_liga,16,30,0,2,0,7,2,2,2,5,4,WWWDDW,2,1,0,3,0,4,3,2,1,6,5,WWLDDW,1,1,1,2,3,WWD,WLD
-Gondomar,Gil Vicente,3-0,/match/gondomar/gil-vicente/2009,2009,7,segunda_liga,16,30,0,3,0,16,0,2,4,1,7,WDWLWD,0,2,1,0,1,3,2,4,0,7,5,DWDDDW,0,3,0,2,2,DLD,DDD
-SC Freamunde,Vizela,1-1,/match/sc-freamunde/vizela/2009,2009,7,segunda_liga,16,30,1,1,1,9,2,2,2,4,3,WWWDLD,2,0,1,3,1,15,1,1,4,3,9,WLWWDL,0,1,2,1,3,WWL,WWD
-UD Oliveirense,Desportivo Aves,0-0,/match/ud-oliveirense/desportivo-aves/2009,2009,7,segunda_liga,16,30,1,0,0,12,1,2,3,5,7,DDLWWW,1,1,1,4,4,11,2,2,2,8,8,WLDDWL,1,1,1,5,6,DLW,LDW
-União de Leiria,SP. Covilhã,1-1,/match/uniao-leiria/sporting-covilha/2009,2009,7,segunda_liga,16,30,1,1,1,13,1,3,2,5,6,WLDLDD,0,2,1,2,3,6,3,2,1,8,7,WWLDLD,2,0,1,3,3,LDD,WLL
-Beira Mar SC,Varzim,1-1,/match/beira-mar/varzim/2009,2009,7,segunda_liga,16,30,1,1,1,14,1,3,2,3,3,DDDWLL,0,2,1,0,1,2,3,1,2,8,6,WWDWWW,0,1,2,2,4,DDL,WDW
-CD Santa Clara,Estoril,1-1,/match/santa-clara/estoril/2009,2009,7,segunda_liga,16,30,1,1,1,1,3,2,1,9,5,DWDWWW,3,0,0,6,1,10,2,2,2,7,6,WDWWLD,1,0,2,3,4,WWW,WWL
-SP. Covilhã,CD Santa Clara,2-4,/match/sporting-covilha/santa-clara/2009,2009,8,segunda_liga,16,30,2,2,4,7,3,3,1,9,8,WWLDLDD,1,2,0,5,4,1,3,3,1,10,6,DWDWWWD,0,2,1,3,4,WDD,DDW
-Vizela,União de Leiria,3-2,/match/vizela/uniao-leiria/2009,2009,8,segunda_liga,16,30,0,3,2,16,1,2,4,4,10,WLWWDLD,1,0,2,2,6,13,1,4,2,6,7,WLDLDDD,1,1,1,3,3,LWL,WLD
-Boavista,Beira Mar SC,1-2,/match/boavista/beira-mar/2009,2009,8,segunda_liga,16,30,2,1,2,6,3,2,2,6,7,WWLDDWW,2,1,0,4,2,14,1,4,2,4,4,DDDWLLD,1,1,1,3,2,WDW,DWL
-Desportivo Aves,Feirense,1-0,/match/desportivo-aves/feirense/2009,2009,8,segunda_liga,16,30,0,1,0,11,2,3,2,8,8,WLDDWLD,1,1,1,3,2,2,3,2,2,7,4,WWWDDWW,0,1,2,2,4,WDL,WDW
-Olhanense,UD Oliveirense,3-0,/match/sc-olhanense/ud-oliveirense/2009,2009,8,segunda_liga,16,30,0,3,0,4,4,1,2,14,12,WWWWDLL,2,1,0,5,3,12,1,3,3,5,7,DDLWWWD,0,1,2,1,3,WWD,DWW
-Estoril,Gondomar,0-0,/match/estoril/gondomar/2009,2009,8,segunda_liga,16,30,1,0,0,10,2,3,2,8,7,WDWWLDD,1,2,0,4,2,15,1,2,4,4,7,WDWLWDW,0,0,3,1,6,DWD,WWW
-Gil Vicente,Portimonense,0-0,/match/gil-vicente/portimonense/2009,2009,8,segunda_liga,16,30,1,0,0,5,2,4,1,7,8,DWDDDWW,2,1,0,5,3,9,3,1,3,10,10,WLLWWDL,1,1,1,1,3,WDW,LWD
-Varzim,SC Freamunde,2-1,/match/varzim/sc-freamunde/2009,2009,8,segunda_liga,16,30,0,2,1,3,3,2,2,9,7,WWDWWWD,3,0,0,6,2,8,2,3,2,5,4,WWWDLDD,0,2,1,1,2,WWW,WDD
-SC Freamunde,Boavista,2-0,/match/sc-freamunde/boavista/2009,2009,9,segunda_liga,16,30,0,2,0,10,2,3,3,6,6,WWWDLDDW,2,1,1,4,2,7,3,2,3,7,9,WWLDDWWL,1,1,2,2,5,WWLD,WLDW
-Gondomar,SP. Covilhã,1-1,/match/gondomar/sporting-covilha/2009,2009,9,segunda_liga,16,30,1,1,1,16,1,3,4,4,7,WDWLWDWD,1,2,1,3,1,8,3,3,2,11,12,WWLDLDDL,2,1,1,4,4,DLDW,WLLD
-Beira Mar SC,Desportivo Aves,4-0,/match/beira-mar/desportivo-aves/2009,2009,9,segunda_liga,16,30,0,4,0,12,2,4,2,6,5,DDDWLLDL,0,3,1,1,2,6,3,3,2,9,8,WLDDWLDW,1,2,1,5,6,DDLD,LDWD
-Feirense,Olhanense,3-1,/match/feirense/sc-olhanense/2009,2009,9,segunda_liga,16,30,0,3,1,4,3,2,3,7,5,WWWDDWWW,3,1,0,5,0,3,5,1,2,17,12,WWWWDLLW,2,0,2,9,9,WWDW,WWLL
-Gil Vicente,Estoril,2-2,/match/gil-vicente/estoril/2009,2009,9,segunda_liga,16,30,1,2,2,5,2,5,1,7,8,DWDDDWWD,2,2,0,5,3,9,2,4,2,8,7,WDWWLDDD,1,1,2,4,5,WDWD,WWLD
-União de Leiria,Varzim,1-0,/match/uniao-leiria/varzim/2009,2009,9,segunda_liga,16,30,0,1,0,15,1,4,3,8,10,WLDLDDDW,0,3,1,3,4,2,4,2,2,11,8,WWDWWWDW,0,2,2,3,5,LDDD,WDWD
-Portimonense,UD Oliveirense,1-0,/match/portimonense/ud-oliveirense/2009,2009,9,segunda_liga,16,30,0,1,0,11,3,2,3,10,10,WLLWWDLD,2,0,2,9,7,14,1,3,4,5,10,DDLWWWDW,0,1,3,1,6,WLWL,DWWW
-CD Santa Clara,Vizela,5-1,/match/santa-clara/vizela/2009,2009,9,segunda_liga,16,30,0,5,1,1,4,3,1,14,8,DWDWWWDL,3,1,0,7,2,13,2,2,4,7,12,WLWWDLDW,0,2,2,2,4,WWWD,WWDD
-Estoril,Portimonense,0-0,/match/estoril/portimonense/2009,2009,10,segunda_liga,16,30,1,0,0,11,2,5,2,10,9,WDWWLDDDD,1,3,0,4,2,7,4,2,3,11,10,WLLWWDLDW,1,2,1,1,3,DWDD,LWDD
-Vizela,Gondomar,1-0,/match/vizela/gondomar/2009,2009,10,segunda_liga,16,30,0,1,0,15,2,2,5,8,17,WLWWDLDWW,2,0,2,5,8,14,1,4,4,5,8,WDWLWDWDD,0,1,3,1,6,LWLW,WWWD
-Boavista,União de Leiria,2-0,/match/boavista/uniao-leiria/2009,2009,10,segunda_liga,16,30,0,2,0,12,3,2,4,7,11,WWLDDWWLW,2,1,1,5,4,13,2,4,3,9,10,WLDLDDDWW,1,1,2,5,6,WDWL,WLDW
-Desportivo Aves,SC Freamunde,0-1,/match/desportivo-aves/sc-freamunde/2009,2009,10,segunda_liga,16,30,2,0,1,9,3,3,3,9,12,WLDDWLDWW,2,1,1,4,2,6,3,3,3,8,6,WWWDLDDWW,0,2,2,2,4,WDLW,WDDW
-Olhanense,Beira Mar SC,2-0,/match/sc-olhanense/beira-mar/2009,2009,10,segunda_liga,16,30,0,2,0,4,5,1,3,18,15,WWWWDLLWW,3,1,0,8,3,8,3,4,2,10,5,DDDWLLDLW,2,1,1,5,3,WWDW,DWLL
-UD Oliveirense,Feirense,2-1,/match/ud-oliveirense/feirense/2009,2009,10,segunda_liga,16,30,0,2,1,16,1,3,5,5,11,DDLWWWDWW,1,2,1,4,4,2,4,2,3,10,6,WWWDDWWWW,0,1,3,2,5,DLWD,WDWW
-SP. Covilhã,Gil Vicente,1-2,/match/sporting-covilha/gil-vicente/2009,2009,10,segunda_liga,16,30,2,1,2,10,3,4,2,12,13,WWLDLDDLD,1,2,1,7,8,5,2,6,1,9,10,DWDDDWWDD,0,3,1,2,5,WDDL,DDDW
-Varzim,CD Santa Clara,2-1,/match/varzim/santa-clara/2009,2009,10,segunda_liga,16,30,0,2,1,3,4,2,3,11,9,WWDWWWDWW,4,0,0,8,3,1,5,3,1,19,9,DWDWWWDLW,1,2,1,7,6,WWWW,DDWL
-CD Santa Clara,Boavista,3-1,/match/santa-clara/boavista/2009,2009,11,segunda_liga,16,30,0,3,1,1,5,3,2,20,11,DWDWWWDLWW,4,1,0,12,3,8,4,2,4,9,11,WWLDDWWLWW,1,1,3,2,7,WWWDW,WLDWW
-Gondomar,Varzim,2-1,/match/gondomar/varzim/2009,2009,11,segunda_liga,16,30,0,2,1,16,1,4,5,5,9,WDWLWDWDDW,1,3,1,4,2,2,5,2,3,13,10,WWDWWWDWWW,0,2,3,3,6,DLDWD,WDWDW
-SC Freamunde,Olhanense,1-3,/match/sc-freamunde/sc-olhanense/2009,2009,11,segunda_liga,16,30,2,1,3,6,4,3,3,9,6,WWWDLDDWWL,3,1,1,6,2,3,6,1,3,20,15,WWWWDLLWWW,2,0,3,10,12,WWLDW,WWLLW
-Beira Mar SC,UD Oliveirense,2-1,/match/beira-mar/ud-oliveirense/2009,2009,11,segunda_liga,16,30,0,2,1,10,3,4,3,10,7,DDDWLLDLWW,1,3,1,5,2,15,2,3,5,7,12,DDLWWWDWWW,0,1,4,1,7,DDLDW,DWWWW
-Estoril,SP. Covilhã,3-1,/match/estoril/sporting-covilha/2009,2009,11,segunda_liga,16,30,0,3,1,9,2,6,2,10,9,WDWWLDDDDD,1,4,0,4,2,12,3,4,3,13,15,WWLDLDDLDL,2,2,1,5,5,DWDDD,WLLDD
-Gil Vicente,Vizela,1-1,/match/gil-vicente/vizela/2009,2009,11,segunda_liga,16,30,1,1,1,5,3,6,1,11,11,DWDDDWWDDL,2,3,0,7,5,13,3,2,5,9,17,WLWWDLDWWW,0,2,3,3,9,WDWDD,WWDDW
-União de Leiria,Desportivo Aves,1-1,/match/uniao-leiria/desportivo-aves/2009,2009,11,segunda_liga,16,30,1,1,1,14,2,4,4,9,12,WLDLDDDWWW,1,3,1,4,4,11,3,3,4,9,13,WLDDWLDWWL,1,2,2,5,10,LDDDW,LDWDW
-Portimonense,Feirense,1-3,/match/portimonense/feirense/2009,2009,11,segunda_liga,16,30,2,1,3,7,4,3,3,11,10,WLLWWDLDWD,3,0,2,10,7,4,4,2,4,11,8,WWWDDWWWWW,0,1,4,3,7,WLWLW,WDWWW
-Vizela,Estoril,1-0,/match/vizela/estoril/2009,2009,12,segunda_liga,16,30,0,1,0,12,3,3,5,10,18,WLWWDLDWWWD,3,0,2,6,8,6,3,6,2,13,10,WDWWLDDDDDW,1,2,2,6,7,LWLWW,WWLDD
-Varzim,Gil Vicente,2-3,/match/varzim/gil-vicente/2009,2009,12,segunda_liga,16,30,2,2,3,3,5,2,4,14,12,WWDWWWDWWWW,5,0,0,10,4,5,3,7,1,12,12,DWDDDWWDDLD,1,3,1,4,6,WWWWW,DDDWL
-SP. Covilhã,Portimonense,4-1,/match/sporting-covilha/portimonense/2009,2009,12,segunda_liga,16,30,0,4,1,15,3,4,4,14,18,WWLDLDDLDLW,1,2,2,8,10,9,4,3,4,12,13,WLLWWDLDWDL,1,3,1,1,3,WDDLL,LWDDD
-Boavista,Gondomar,1-2,/match/boavista/gondomar/2009,2009,12,segunda_liga,16,30,2,1,2,10,4,2,5,10,14,WWLDDWWLWWW,3,1,1,7,4,14,2,4,5,7,10,WDWLWDWDDWW,0,1,4,1,7,WDWLW,WWWDW
-Desportivo Aves,CD Santa Clara,1-1,/match/desportivo-aves/santa-clara/2009,2009,12,segunda_liga,16,30,1,1,1,11,3,4,4,10,14,WLDDWLDWWLD,2,1,2,4,3,1,6,3,2,23,12,DWDWWWDLWWW,1,2,2,8,8,WDLWL,DDWLW
-Olhanense,União de Leiria,0-0,/match/sc-olhanense/uniao-leiria/2009,2009,12,segunda_liga,16,30,1,0,0,2,7,1,3,23,16,WWWWDLLWWWL,4,1,0,10,3,13,2,5,4,10,13,WLDLDDDWWWD,1,1,3,5,8,WWDWW,WLDWW
-UD Oliveirense,SC Freamunde,2-1,/match/ud-oliveirense/sc-freamunde/2009,2009,12,segunda_liga,16,30,0,2,1,16,2,3,6,8,14,DDLWWWDWWWW,2,2,1,6,5,8,4,3,4,10,9,WWWDLDDWWLL,1,2,2,3,4,DLWDW,WDDWL
-Feirense,Beira Mar SC,2-0,/match/feirense/beira-mar/2009,2009,12,segunda_liga,16,30,0,2,0,4,5,2,4,14,9,WWWDDWWWWWL,4,1,0,8,1,7,4,4,3,12,8,DDDWLLDLWWW,2,1,2,5,5,WWDWW,DWLLW
-CD Santa Clara,Olhanense,0-2,/match/santa-clara/sc-olhanense/2009,2009,13,segunda_liga,16,30,2,0,2,1,6,4,2,24,13,DWDWWWDLWWWD,5,1,0,15,4,2,7,2,3,23,16,WWWWDLLWWWLD,3,0,3,13,13,WWWDWW,WWLLWL
-SP. Covilhã,Vizela,1-1,/match/sporting-covilha/vizela/2009,2009,13,segunda_liga,16,30,1,1,1,10,4,4,4,18,19,WWLDLDDLDLWW,2,2,2,12,11,8,4,3,5,11,18,WLWWDLDWWWDW,0,3,3,4,10,WDDLLW,WWDDWD
-Estoril,Varzim,1-0,/match/estoril/varzim/2009,2009,13,segunda_liga,16,30,0,1,0,6,3,6,3,13,11,WDWWLDDDDDWW,2,4,0,7,3,5,5,2,5,16,15,WWDWWWDWWWWL,0,2,4,4,8,DWDDDW,WDWDWW
-Gondomar,Desportivo Aves,0-1,/match/gondomar/desportivo-aves/2009,2009,13,segunda_liga,16,30,2,0,1,14,3,4,5,9,11,WDWLWDWDDWWL,2,3,1,6,3,13,3,5,4,11,15,WLDDWLDWWLDD,1,3,2,6,11,DLDWDW,LDWDWD
-SC Freamunde,Feirense,2-2,/match/sc-freamunde/feirense/2009,2009,13,segunda_liga,16,30,1,2,2,9,4,3,5,11,11,WWWDLDDWWLLW,3,1,2,7,5,3,6,2,4,16,9,WWWDDWWWWWLW,1,1,4,6,8,WWLDWL,WDWWWL
-Gil Vicente,Boavista,2-0,/match/gil-vicente/boavista/2009,2009,13,segunda_liga,16,30,0,2,0,4,4,7,1,15,14,DWDDDWWDDLDL,2,4,0,8,6,12,4,2,6,11,16,WWLDDWWLWWWL,1,1,4,3,10,WDWDDD,WLDWWW
-União de Leiria,UD Oliveirense,1-0,/match/uniao-leiria/ud-oliveirense/2009,2009,13,segunda_liga,16,30,0,1,0,16,2,6,4,10,13,WLDLDDDWWWDD,1,4,1,5,5,15,3,3,6,10,15,DDLWWWDWWWWW,0,1,5,2,9,LDDDWD,DWWWWW
-Portimonense,Beira Mar SC,1-1,/match/portimonense/beira-mar/2009,2009,13,segunda_liga,16,30,1,1,1,11,4,3,5,13,17,WLLWWDLDWDLW,3,0,3,11,10,7,4,4,4,12,10,DDDWLLDLWWWW,2,1,3,5,7,WLWLWL,DWLLWW
-UD Oliveirense,CD Santa Clara,1-2,/match/ud-oliveirense/santa-clara/2009,2009,14,segunda_liga,16,30,2,1,2,16,3,3,7,10,16,DDLWWWDWWWWWW,3,2,1,8,6,2,6,4,3,24,15,DWDWWWDLWWWDL,1,3,2,9,9,DLWDWW,DDWLWD
-Boavista,Estoril,2-0,/match/boavista/estoril/2009,2009,14,segunda_liga,16,30,0,2,0,14,4,2,7,11,18,WWLDDWWLWWWLW,3,1,2,8,6,5,4,6,3,14,11,WDWWLDDDDDWWW,1,2,3,6,8,WDWLWL,WWLDDW
-Desportivo Aves,Gil Vicente,2-0,/match/desportivo-aves/gil-vicente/2009,2009,14,segunda_liga,16,30,0,2,0,13,4,5,4,12,15,WLDDWLDWWLDDL,2,2,2,5,4,3,5,7,1,17,14,DWDDDWWDDLDLW,2,3,1,7,8,WDLWLD,DDDWLL
-Olhanense,Gondomar,2-0,/match/sc-olhanense/gondomar/2009,2009,14,segunda_liga,16,30,0,2,0,1,8,2,3,25,16,WWWWDLLWWWLDL,4,2,0,10,3,15,3,4,6,9,12,WDWLWDWDDWWLL,1,1,4,3,8,WWDWWD,WWWDWL
-Feirense,União de Leiria,0-0,/match/feirense/uniao-leiria/2009,2009,14,segunda_liga,16,30,1,0,0,4,6,3,4,18,11,WWWDDWWWWWLWD,5,1,0,10,1,11,3,6,4,11,13,WLDLDDDWWWDDW,1,2,3,5,8,WWDWWW,WLDWWD
-Beira Mar SC,SC Freamunde,1-0,/match/beira-mar/sc-freamunde/2009,2009,14,segunda_liga,16,30,0,1,0,7,4,5,4,13,11,DDDWLLDLWWWWD,2,3,1,7,3,9,4,4,5,13,13,WWWDLDDWWLLWD,1,2,3,4,6,DDLDWW,WDDWLW
-Portimonense,Vizela,2-2,/match/portimonense/vizela/2009,2009,14,segunda_liga,16,30,1,2,2,12,4,4,5,14,18,WLLWWDLDWDLWD,3,1,3,12,11,8,4,4,5,12,19,WLWWDLDWWWDWD,0,4,3,5,11,WLWLWLD,WWDDWDD
-Varzim,SP. Covilhã,1-1,/match/varzim/sporting-covilha/2009,2009,14,segunda_liga,16,30,1,1,1,6,5,2,6,16,16,WWDWWWDWWWWLW,5,0,1,12,7,10,4,5,4,19,20,WWLDLDDLDLWWD,2,2,2,6,8,WWWWWL,WLLDDW
-Gil Vicente,Olhanense,3-0,/match/gil-vicente/sc-olhanense/2009,2009,15,segunda_liga,16,30,0,3,0,4,5,7,2,17,16,DWDDDWWDDLDLWW,3,4,0,10,6,1,9,2,3,27,16,WWWWDLLWWWLDLW,4,0,3,15,13,WDWDDDW,WWLLWLL
-Vizela,Varzim,1-1,/match/vizela/varzim/2009,2009,15,segunda_liga,16,30,1,1,1,9,4,5,5,14,21,WLWWDLDWWWDWDD,4,0,2,7,8,6,5,3,6,17,17,WWDWWWDWWWWLWD,0,2,5,4,9,LWLWWW,WDWDWWW
-SP. Covilhã,Boavista,1-0,/match/sporting-covilha/boavista/2009,2009,15,segunda_liga,16,30,0,1,0,10,4,6,4,20,21,WWLDLDDLDLWWDD,2,3,2,13,12,13,5,2,7,13,18,WWLDDWWLWWWLWW,1,1,5,3,12,WDDLLWD,WLDWWWW
-Estoril,Desportivo Aves,3-2,/match/estoril/desportivo-aves/2009,2009,15,segunda_liga,16,30,0,3,2,5,4,6,4,14,13,WDWWLDDDDDWWWW,3,4,0,8,3,8,5,5,4,14,15,WLDDWLDWWLDDLW,2,3,2,7,11,DWDDDWW,LDWDWDL
-Gondomar,UD Oliveirense,0-0,/match/gondomar/ud-oliveirense/2009,2009,15,segunda_liga,16,30,1,0,0,15,3,4,7,9,14,WDWLWDWDDWWLLW,2,3,2,6,4,16,3,3,8,11,18,DDLWWWDWWWWWWL,0,1,6,2,10,DLDWDWL,DWWWWWW
-SC Freamunde,Portimonense,0-0,/match/sc-freamunde/portimonense/2009,2009,15,segunda_liga,16,30,1,0,0,14,4,4,6,13,14,WWWDLDDWWLLWDW,3,2,2,9,7,12,4,5,5,16,20,WLLWWDLDWDLWDD,1,3,2,2,7,WWLDWLD,LWDDDW
-CD Santa Clara,Feirense,1-0,/match/santa-clara/feirense/2009,2009,15,segunda_liga,16,30,0,1,0,2,7,4,3,26,16,DWDWWWDLWWWDLL,5,1,1,15,6,3,6,4,4,18,11,WWWDDWWWWWLWDD,1,2,4,8,10,WWWDWWL,WDWWWLD
-União de Leiria,Beira Mar SC,2-1,/match/uniao-leiria/beira-mar/2009,2009,15,segunda_liga,16,30,0,2,1,11,3,7,4,11,13,WLDLDDDWWWDDWD,2,4,1,6,5,7,5,5,4,14,11,DDDWLLDLWWWWDW,2,2,3,6,8,LDDDWDW,DWLLWWD
-Estoril,Olhanense,2-1,/match/estoril/sc-olhanense/2009,2009,16,segunda_liga,16,30,0,2,1,5,5,6,4,17,15,WDWWLDDDDDWWWWW,4,4,0,11,5,2,9,2,4,27,19,WWWWDLLWWWLDLWW,4,0,4,15,16,DWDDDWWW,WWLLWLLW
-Gondomar,Feirense,0-1,/match/gondomar/feirense/2009,2009,16,segunda_liga,16,30,2,0,1,15,3,5,7,9,14,WDWLWDWDDWWLLWD,2,4,2,6,4,4,6,4,5,18,12,WWWDDWWWWWLWDDW,1,2,5,8,11,DLDWDWLD,WDWWWLDW
-SP. Covilhã,Desportivo Aves,0-2,/match/sporting-covilha/desportivo-aves/2009,2009,16,segunda_liga,16,30,2,0,2,7,5,6,4,21,21,WWLDLDDLDLWWDDW,3,3,2,14,12,10,5,5,5,16,18,WLDDWLDWWLDDLWW,2,3,3,9,14,WDDLLWDW,LDWDWDLW
-Vizela,Boavista,0-0,/match/vizela/boavista/2009,2009,16,segunda_liga,16,30,1,0,0,11,4,6,5,15,22,WLWWDLDWWWDWDDD,4,1,2,8,9,14,5,2,8,13,19,WWLDDWWLWWWLWWW,1,1,6,3,13,LWLWWWD,WLDWWWWW
-União de Leiria,SC Freamunde,3-0,/match/uniao-leiria/sc-freamunde/2009,2009,16,segunda_liga,16,30,0,3,0,8,4,7,4,13,14,WLDLDDDWWWDDWDW,3,4,1,8,6,13,4,5,6,13,14,WWWDLDDWWLLWDWD,1,2,4,4,7,LDDDWDWW,WDDWLWW
-CD Santa Clara,Beira Mar SC,1-0,/match/santa-clara/beira-mar/2009,2009,16,segunda_liga,16,30,0,1,0,1,8,4,3,27,16,DWDWWWDLWWWDLLW,6,1,1,16,6,9,5,5,5,15,13,DDDWLLDLWWWWDWW,2,2,4,7,10,WWWDWWLW,DWLLWWDW
-Gil Vicente,UD Oliveirense,1-1,/match/gil-vicente/ud-oliveirense/2009,2009,16,segunda_liga,16,30,1,1,1,3,6,7,2,20,16,DWDDDWWDDLDLWWW,4,4,0,13,6,16,3,4,8,11,18,DDLWWWDWWWWWWLD,0,2,6,2,10,WDWDDDWW,DWWWWWWD
-Varzim,Portimonense,1-0,/match/varzim/portimonense/2009,2009,16,segunda_liga,16,30,0,1,0,6,5,4,6,18,18,WWDWWWDWWWWLWDD,5,1,1,13,8,12,4,6,5,16,20,WLLWWDLDWDLWDDD,1,4,2,2,7,WWWWWLD,LWDDDWD
-SC Freamunde,CD Santa Clara,2-1,/match/sc-freamunde/santa-clara/2009,2009,17,segunda_liga,16,30,0,2,1,13,4,5,7,13,17,WWWDLDDWWLLWDWDW,3,3,2,9,7,1,9,4,3,28,16,DWDWWWDLWWWDLLWW,2,3,2,11,10,WWLDWLDD,DDWLWDL
-Beira Mar SC,Gondomar,2-1,/match/beira-mar/gondomar/2009,2009,17,segunda_liga,16,30,0,2,1,11,5,5,6,15,14,DDDWLLDLWWWWDWWW,3,3,1,8,3,15,3,5,8,9,15,WDWLWDWDDWWLLWDL,1,1,5,3,10,DDLDWWW,WWWDWLW
-Feirense,Gil Vicente,2-1,/match/feirense/gil-vicente/2009,2009,17,segunda_liga,16,30,0,2,1,5,7,4,5,19,12,WWWDDWWWWWLWDDWL,5,2,0,10,1,2,6,8,2,21,17,DWDDDWWDDLDLWWWD,2,3,2,7,10,WWDWWWD,DDDWLLW
-UD Oliveirense,Estoril,0-2,/match/ud-oliveirense/estoril/2009,2009,17,segunda_liga,16,30,2,0,2,16,3,5,8,12,19,DDLWWWDWWWWWWLDD,3,2,2,9,8,4,6,6,4,19,16,WDWWLDDDDDWWWWWW,1,2,4,6,10,DLWDWWL,WWLDDWW
-Olhanense,SP. Covilhã,1-2,/match/sc-olhanense/sporting-covilha/2009,2009,17,segunda_liga,16,30,2,1,2,3,9,2,5,28,21,WWWWDLLWWWLDLWWW,5,2,0,12,3,8,5,6,5,21,23,WWLDLDDLDLWWDDWL,2,3,2,7,9,WWDWWDW,WLLDDWD
-Desportivo Aves,Vizela,1-3,/match/desportivo-aves/vizela/2009,2009,17,segunda_liga,16,30,2,1,3,9,6,5,5,18,18,WLDDWLDWWLDDLWWL,3,2,2,7,4,10,4,7,5,15,22,WLWWDLDWWWDWDDDD,0,5,3,7,13,WDLWLDW,WWDDWDDD
-Boavista,Varzim,2-0,/match/boavista/varzim/2009,2009,17,segunda_liga,16,30,0,2,0,14,5,3,8,13,19,WWLDDWWLWWWLWWWD,4,1,2,10,6,6,6,4,6,19,18,WWDWWWDWWWWLWDDW,0,3,5,5,10,WDWLWLW,WDWDWWWD
-Portimonense,União de Leiria,0-1,/match/portimonense/uniao-leiria/2009,2009,17,segunda_liga,16,30,2,0,1,12,4,6,6,16,21,WLLWWDLDWDLWDDDW,3,2,3,14,13,7,5,7,4,16,14,WLDLDDDWWWDDWDWW,1,3,3,5,8,WLWLWLDD,WLDWWDD
-Vizela,Olhanense,0-0,/match/vizela/sc-olhanense/2009,2009,18,segunda_liga,16,30,1,0,0,10,5,7,5,18,23,WLWWDLDWWWDWDDDDL,4,2,2,8,9,5,9,2,6,29,23,WWWWDLLWWWLDLWWWL,4,0,5,16,18,LWLWWWDD,WWLLWLLWW
-Estoril,Feirense,2-2,/match/estoril/feirense/2009,2009,18,segunda_liga,16,30,1,2,2,2,7,6,4,21,16,WDWWLDDDDDWWWWWWL,5,4,0,13,6,3,8,4,5,21,13,WWWDDWWWWWLWDDWLW,2,2,5,9,11,DWDDDWWWW,WDWWWLDWL
-SP. Covilhã,UD Oliveirense,3-2,/match/sporting-covilha/ud-oliveirense/2009,2009,18,segunda_liga,16,30,0,3,2,9,6,6,5,23,24,WWLDLDDLDLWWDDWLL,3,3,3,14,14,16,3,5,9,12,21,DDLWWWDWWWWWWLDDL,0,3,6,3,11,WDDLLWDWL,DWWWWWWDD
-Boavista,Portimonense,0-1,/match/boavista/portimonense/2009,2009,18,segunda_liga,16,30,2,0,1,12,6,3,8,15,19,WWLDDWWLWWWLWWWDW,5,1,2,12,6,14,4,6,7,16,22,WLLWWDLDWDLWDDDWL,1,4,3,2,8,WDWLWLWW,LWDDDWDW
-Gondomar,SC Freamunde,1-3,/match/gondomar/sc-freamunde/2009,2009,18,segunda_liga,16,30,2,1,3,15,3,5,9,10,17,WDWLWDWDDWWLLWDLW,2,4,3,6,5,11,5,5,7,15,18,WWWDLDDWWLLWDWDWW,1,2,5,4,10,DLDWDWLDL,WDDWLWWW
-CD Santa Clara,União de Leiria,2-0,/match/santa-clara/uniao-leiria/2009,2009,18,segunda_liga,16,30,0,2,0,1,9,4,4,29,18,DWDWWWDLWWWDLLWWW,7,1,1,17,6,6,6,7,4,17,14,WLDLDDDWWWDDWDWWL,2,3,3,6,8,WWWDWWLWW,WLDWWDDL
-Gil Vicente,Beira Mar SC,2-2,/match/gil-vicente/beira-mar/2009,2009,18,segunda_liga,16,30,1,2,2,4,6,8,3,22,19,DWDDDWWDDLDLWWWDW,4,5,0,14,7,8,6,5,6,17,15,DDDWLLDLWWWWDWWWW,2,2,5,7,11,WDWDDDWWD,DWLLWWDWW
-Varzim,Desportivo Aves,1-0,/match/varzim/desportivo-aves/2009,2009,18,segunda_liga,16,30,0,1,0,7,6,4,7,19,20,WWDWWWDWWWWLWDDWW,6,1,1,14,8,13,6,5,6,19,21,WLDDWLDWWLDDLWWLL,3,3,3,11,14,WWWWWLDW,LDWDWDLWL
-Portimonense,CD Santa Clara,1-1,/match/portimonense/santa-clara/2009,2009,19,segunda_liga,16,30,1,1,1,14,5,6,7,17,22,WLLWWDLDWDLWDDDWLL,3,2,4,14,14,1,10,4,4,31,18,DWDWWWDLWWWDLLWWWW,2,3,3,12,12,WLWLWLDDL,DDWLWDLW
-SC Freamunde,Gil Vicente,1-0,/match/sc-freamunde/gil-vicente/2009,2009,19,segunda_liga,16,30,0,1,0,11,6,5,7,18,19,WWWDLDDWWLLWDWDWWL,4,3,2,11,8,4,6,9,3,24,21,DWDDDWWDDLDLWWWDWD,2,3,3,8,12,WWLDWLDDW,DDDWLLWW
-Beira Mar SC,Estoril,3-1,/match/beira-mar/estoril/2009,2009,19,segunda_liga,16,30,0,3,1,9,6,6,6,19,17,DDDWLLDLWWWWDWWWWD,4,3,1,10,4,2,7,7,4,23,18,WDWWLDDDDDWWWWWWLD,2,2,4,8,10,DDLDWWWW,WWLDDWWL
-Feirense,SP. Covilhã,2-1,/match/feirense/sporting-covilha/2009,2009,19,segunda_liga,16,30,0,2,1,3,8,5,5,23,15,WWWDDWWWWWLWDDWLWD,6,2,0,12,2,8,7,6,5,26,26,WWLDLDDLDLWWDDWLLW,3,3,2,9,10,WWDWWWDW,WLLDDWDL
-UD Oliveirense,Vizela,0-0,/match/ud-oliveirense/vizela/2009,2009,19,segunda_liga,16,30,1,0,0,16,3,5,10,14,24,DDLWWWDWWWWWWLDDLW,3,2,3,9,10,10,5,8,5,18,23,WLWWDLDWWWDWDDDDLD,1,5,3,10,14,DLWDWWLL,WWDDWDDDL
-Olhanense,Varzim,1-0,/match/sc-olhanense/varzim/2009,2009,19,segunda_liga,16,30,0,1,0,5,9,3,6,29,23,WWWWDLLWWWLDLWWWLD,5,2,1,13,5,6,7,4,7,20,20,WWDWWWDWWWWLWDDWWW,0,3,6,5,12,WWDWWDWL,WDWDWWWDW
-Desportivo Aves,Boavista,2-0,/match/desportivo-aves/boavista/2009,2009,19,segunda_liga,16,30,0,2,0,13,6,5,7,19,22,WLDDWLDWWLDDLWWLLW,3,2,3,8,7,12,6,3,9,15,20,WWLDDWWLWWWLWWWDWL,1,2,6,3,13,WDLWLDWL,WLDWWWWWD
-União de Leiria,Gondomar,3-1,/match/uniao-leiria/gondomar/2009,2009,19,segunda_liga,16,30,0,3,1,7,6,7,5,17,16,WLDLDDDWWWDDWDWWLW,4,4,1,11,6,15,3,5,10,11,20,WDWLWDWDDWWLLWDLWL,1,1,6,4,12,LDDDWDWWW,WWWDWLWW
-Gondomar,CD Santa Clara,1-2,/match/gondomar/santa-clara/2009,2009,20,segunda_liga,16,30,2,1,2,16,3,5,11,12,23,WDWLWDWDDWWLLWDLWLW,2,4,4,7,8,1,10,5,4,32,19,DWDWWWDLWWWDLLWWWWD,2,4,3,13,13,DLDWDWLDLL,DDWLWDLWD
-Estoril,SC Freamunde,3-0,/match/estoril/sc-freamunde/2009,2009,20,segunda_liga,16,30,0,3,0,4,7,7,5,24,21,WDWWLDDDDDWWWWWWLDW,5,5,0,15,8,9,7,5,7,19,19,WWWDLDDWWLLWDWDWWLW,2,2,5,7,11,DWDDDWWWWD,WDDWLWWWL
-Boavista,Olhanense,1-4,/match/boavista/sc-olhanense/2009,2009,20,segunda_liga,16,30,2,1,4,13,6,3,10,15,22,WWLDDWWLWWWLWWWDWLW,5,1,3,12,7,3,10,3,6,30,23,WWWWDLLWWWLDLWWWLDW,4,1,5,16,18,WDWLWLWWL,WWLLWLLWWD
-Desportivo Aves,Portimonense,0-0,/match/desportivo-aves/portimonense/2009,2009,20,segunda_liga,16,30,1,0,0,12,7,5,7,21,22,WLDDWLDWWLDDLWWLLWW,4,2,3,10,7,14,5,7,7,18,23,WLLWWDLDWDLWDDDWLLD,2,4,3,3,8,WDLWLDWLW,LWDDDWDWL
-Gil Vicente,União de Leiria,1-1,/match/gil-vicente/uniao-leiria/2009,2009,20,segunda_liga,16,30,1,1,1,5,6,9,4,24,22,DWDDDWWDDLDLWWWDWDW,4,6,0,16,9,6,7,7,5,20,17,WLDLDDDWWWDDWDWWLWW,2,3,4,6,10,WDWDDDWWDD,WLDWWDDLW
-SP. Covilhã,Beira Mar SC,3-1,/match/sporting-covilha/beira-mar/2009,2009,20,segunda_liga,16,30,0,3,1,10,7,6,6,27,28,WWLDLDDLDLWWDDWLLWW,4,3,3,17,16,8,7,6,6,22,18,DDDWLLDLWWWWDWWWWDW,2,3,5,9,13,WDDLLWDWLW,DWLLWWDWWD
-Vizela,Feirense,0-0,/match/vizela/feirense/2009,2009,20,segunda_liga,16,30,1,0,0,11,5,9,5,18,23,WLWWDLDWWWDWDDDDLDD,4,3,2,8,9,2,9,5,5,25,16,WWWDDWWWWWLWDDWLWDW,2,3,5,11,13,LWLWWWDDD,WDWWWLDWLD
-Varzim,UD Oliveirense,1-1,/match/varzim/ud-oliveirense/2009,2009,20,segunda_liga,16,30,1,1,1,7,7,4,8,20,21,WWDWWWDWWWWLWDDWWWW,7,1,1,15,8,15,3,6,10,14,24,DDLWWWDWWWWWWLDDLWD,0,3,7,5,14,WWWWWLDWW,DWWWWWWDDW
-Feirense,Varzim,1-2,/match/feirense/varzim/2009,2009,21,segunda_liga,16,30,2,1,2,2,9,6,5,25,16,WWWDDWWWWWLWDDWLWDWD,7,2,0,14,3,7,7,5,8,21,22,WWDWWWDWWWWLWDDWWWWD,0,3,7,5,13,WWDWWWDWW,WDWDWWWDWW
-SC Freamunde,SP. Covilhã,0-0,/match/sc-freamunde/sporting-covilha/2009,2009,21,segunda_liga,16,30,1,0,0,10,7,5,8,19,22,WWWDLDDWWLLWDWDWWLWW,5,3,2,12,8,8,8,6,6,30,29,WWLDLDDLDLWWDDWLLWWW,3,3,3,10,12,WWLDWLDDWW,WLLDDWDLW
-UD Oliveirense,Boavista,2-0,/match/ud-oliveirense/boavista/2009,2009,21,segunda_liga,16,30,0,2,0,15,3,7,10,15,25,DDLWWWDWWWWWWLDDLWDD,3,3,3,9,10,14,6,3,11,16,26,WWLDDWWLWWWLWWWDWLWL,1,2,7,3,15,DLWDWWLLD,WLDWWWWWDW
-Olhanense,Desportivo Aves,2-0,/match/sc-olhanense/desportivo-aves/2009,2009,21,segunda_liga,16,30,0,2,0,4,11,3,6,34,24,WWWWDLLWWWLDLWWWLDWL,6,2,1,14,5,12,7,6,7,21,22,WLDDWLDWWLDDLWWLLWWD,3,3,4,11,15,WWDWWDWLW,LDWDWDLWLW
-Portimonense,Gondomar,2-2,/match/portimonense/gondomar/2009,2009,21,segunda_liga,16,30,1,2,2,13,5,8,7,18,23,WLLWWDLDWDLWDDDWLLDD,3,3,4,15,15,16,3,5,12,13,25,WDWLWDWDDWWLLWDLWLWL,1,1,7,5,15,WLWLWLDDLD,WWWDWLWWW
-CD Santa Clara,Gil Vicente,0-2,/match/santa-clara/gil-vicente/2009,2009,21,segunda_liga,16,30,2,0,2,1,11,5,4,34,20,DWDWWWDLWWWDLLWWWWDL,8,1,1,19,6,5,6,10,4,25,23,DWDDDWWDDLDLWWWDWDWD,2,3,4,8,13,WWWDWWLWWW,DDDWLLWWW
-União de Leiria,Estoril,4-2,/match/uniao-leiria/estoril/2009,2009,21,segunda_liga,16,30,0,4,2,6,7,8,5,21,18,WLDLDDDWWWDDWDWWLWWD,5,4,1,14,7,3,8,7,5,27,21,WDWWLDDDDDWWWWWWLDWW,2,2,5,9,13,LDDDWDWWWW,WWLDDWWLW
-Beira Mar SC,Vizela,1-1,/match/beira-mar/vizela/2009,2009,21,segunda_liga,16,30,1,1,1,9,7,6,7,23,21,DDDWLLDLWWWWDWWWWDWW,5,3,1,13,5,11,5,10,5,18,23,WLWWDLDWWWDWDDDDLDDD,1,6,3,10,14,DDLDWWWWW,WWDDWDDDLD
-Olhanense,Portimonense,4-0,/match/sc-olhanense/portimonense/2009,2009,22,segunda_liga,16,30,0,4,0,2,12,3,6,36,24,WWWWDLLWWWLDLWWWLDWLW,7,2,1,16,5,13,5,9,7,20,25,WLLWWDLDWDLWDDDWLLDDD,2,5,3,3,8,WWDWWDWLWW,LWDDDWDWLD
-Gil Vicente,Gondomar,3-3,/match/gil-vicente/gondomar/2009,2009,22,segunda_liga,16,30,1,3,3,6,7,10,4,27,23,DWDDDWWDDLDLWWWDWDWDL,4,7,0,17,10,16,3,6,12,15,27,WDWLWDWDDWWLLWDLWLWLD,1,2,7,7,17,WDWDDDWWDDD,WWWDWLWWWD
-Estoril,CD Santa Clara,1-2,/match/estoril/santa-clara/2009,2009,22,segunda_liga,16,30,2,1,2,4,8,7,6,29,25,WDWWLDDDDDWWWWWWLDWWW,6,5,0,18,8,1,11,5,5,34,22,DWDWWWDLWWWDLLWWWWDLL,3,4,3,15,14,DWDDDWWWWDW,DDWLWDLWDL
-SP. Covilhã,União de Leiria,2-3,/match/sporting-covilha/uniao-leiria/2009,2009,22,segunda_liga,16,30,2,2,3,8,8,7,6,30,29,WWLDLDDLDLWWDDWLLWWWD,5,3,3,20,17,5,8,8,5,25,20,WLDLDDDWWWDDWDWWLWWDW,2,4,4,7,11,WDDLLWDWLWW,WLDWWDDLWD
-Vizela,SC Freamunde,1-1,/match/vizela/sc-freamunde/2009,2009,22,segunda_liga,16,30,1,1,1,11,5,11,5,19,24,WLWWDLDWWWDWDDDDLDDDD,4,4,2,8,9,10,7,6,8,19,22,WWWDLDDWWLLWDWDWWLWWD,2,2,6,7,14,LWLWWWDDDD,WDDWLWWWLW
-Varzim,Beira Mar SC,1-0,/match/varzim/beira-mar/2009,2009,22,segunda_liga,16,30,0,1,0,7,8,5,8,23,23,WWDWWWDWWWWLWDDWWWWDL,7,2,1,16,9,9,7,7,7,24,22,DDDWLLDLWWWWDWWWWDWWD,2,3,6,10,16,WWWWWLDWWD,DWLLWWDWWDW
-Boavista,Feirense,2-2,/match/boavista/feirense/2009,2009,22,segunda_liga,16,30,1,2,2,14,6,3,12,16,28,WWLDDWWLWWWLWWWDWLWLW,5,1,4,13,11,3,9,6,6,26,18,WWWDDWWWWWLWDDWLWDWDL,2,4,5,11,13,WDWLWLWWLL,WDWWWLDWLDD
-Desportivo Aves,UD Oliveirense,2-2,/match/desportivo-aves/ud-oliveirense/2009,2009,22,segunda_liga,16,30,1,2,2,12,7,6,8,21,24,WLDDWLDWWLDDLWWLLWWDW,4,3,3,10,7,15,4,7,10,17,25,DDLWWWDWWWWWWLDDLWDDW,0,4,7,6,15,WDLWLDWLWD,DWWWWWWDDWD
-União de Leiria,Vizela,1-1,/match/uniao-leiria/vizela/2009,2009,23,segunda_liga,16,30,1,1,1,3,9,8,5,28,22,WLDLDDDWWWDDWDWWLWWDWL,6,4,1,18,9,11,5,12,5,20,25,WLWWDLDWWWDWDDDDLDDDDD,1,7,3,11,15,LDDDWDWWWWW,WWDDWDDDLDD
-Beira Mar SC,Boavista,3-1,/match/beira-mar/boavista/2009,2009,23,segunda_liga,16,30,0,3,1,9,7,7,8,24,23,DDDWLLDLWWWWDWWWWDWWDW,5,4,1,14,6,14,6,4,12,18,30,WWLDDWWLWWWLWWWDWLWLWD,1,2,8,3,17,DDLDWWWWWD,WLDWWWWWDWW
-SC Freamunde,Varzim,2-1,/match/sc-freamunde/varzim/2009,2009,23,segunda_liga,16,30,0,2,1,10,7,7,8,20,23,WWWDLDDWWLLWDWDWWLWWDD,5,4,2,12,8,6,9,5,8,24,23,WWDWWWDWWWWLWDDWWWWDLW,1,3,7,7,14,WWLDWLDDWWD,WDWDWWWDWWL
-Portimonense,Gil Vicente,3-0,/match/portimonense/gil-vicente/2009,2009,23,segunda_liga,16,30,0,3,0,13,5,9,8,20,29,WLLWWDLDWDLWDDDWLLDDDW,3,4,4,17,17,5,7,11,4,30,26,DWDDDWWDDLDLWWWDWDWDLD,3,3,4,10,13,WLWLWLDDLDD,DDDWLLWWWL
-Gondomar,Estoril,3-0,/match/gondomar/estoril/2009,2009,23,segunda_liga,16,30,0,3,0,16,3,7,12,18,30,WDWLWDWDDWWLLWDLWLWLDD,2,4,5,8,10,7,8,7,7,30,27,WDWWLDDDDDWWWWWWLDWWWL,2,2,6,11,17,DLDWDWLDLLL,WWLDDWWLWW
-CD Santa Clara,SP. Covilhã,1-1,/match/santa-clara/sporting-covilha/2009,2009,23,segunda_liga,16,30,1,1,1,2,12,5,5,36,23,DWDWWWDLWWWDLLWWWWDLLL,8,1,2,19,8,8,8,7,7,32,32,WWLDLDDLDLWWDDWLLWWWDL,3,4,3,10,12,WWWDWWLWWWL,WLLDDWDLWD
-Feirense,Desportivo Aves,2-1,/match/feirense/desportivo-aves/2009,2009,23,segunda_liga,16,30,0,2,1,4,9,7,6,28,20,WWWDDWWWWWLWDDWLWDWDLD,7,2,1,15,5,12,7,7,8,23,26,WLDDWLDWWLDDLWWLLWWDWD,3,3,5,11,17,WWDWWWDWWL,LDWDWDLWLWW
-UD Oliveirense,Olhanense,1-0,/match/ud-oliveirense/sc-olhanense/2009,2009,23,segunda_liga,16,30,0,1,0,15,4,8,10,19,27,DDLWWWDWWWWWWLDDLWDDWD,4,3,3,11,10,1,13,3,6,40,24,WWWWDLLWWWLDLWWWLDWLWW,5,1,5,20,19,DLWDWWLLDW,WWLLWLLWWDL
-Desportivo Aves,Beira Mar SC,1-0,/match/desportivo-aves/beira-mar/2009,2009,24,segunda_liga,16,30,0,1,0,12,7,7,9,24,28,WLDDWLDWWLDDLWWLLWWDWDW,4,4,3,12,9,8,8,7,8,27,24,DDDWLLDLWWWWDWWWWDWWDWW,2,3,7,10,17,WDLWLDWLWDD,DWLLWWDWWDWW
-Vizela,CD Santa Clara,1-2,/match/vizela/santa-clara/2009,2009,24,segunda_liga,16,30,2,1,2,11,5,13,5,21,26,WLWWDLDWWWDWDDDDLDDDDDD,4,5,2,9,10,1,12,6,5,37,24,DWDWWWDLWWWDLLWWWWDLLLD,4,4,3,17,15,LWLWWWDDDDD,DDWLWDLWDLL
-Estoril,Gil Vicente,2-1,/match/estoril/gil-vicente/2009,2009,24,segunda_liga,16,30,0,2,1,7,8,7,8,30,30,WDWWLDDDDDWWWWWWLDWWWLW,6,5,1,19,10,5,7,11,5,30,29,DWDDDWWDDLDLWWWDWDWDLDW,3,3,5,10,16,DWDDDWWWWDWL,DDDWLLWWWLW
-SP. Covilhã,Gondomar,1-3,/match/sporting-covilha/gondomar/2009,2009,24,segunda_liga,16,30,2,1,3,10,8,8,7,33,33,WWLDLDDLDLWWDDWLLWWWDLD,5,3,4,22,20,16,4,7,12,21,30,WDWLWDWDDWWLLWDLWLWLDDW,1,3,7,10,20,WDDLLWDWLWWL,WWWDWLWWWDD
-Varzim,União de Leiria,0-2,/match/varzim/uniao-leiria/2009,2009,24,segunda_liga,16,30,2,0,2,6,9,5,9,25,25,WWDWWWDWWWWLWDDWWWWDLWW,8,2,1,17,9,4,9,9,5,29,23,WLDLDDDWWWDDWDWWLWWDWLD,3,4,4,10,13,WWWWWLDWWDW,WLDWWDDLWDL
-Boavista,SC Freamunde,2-1,/match/boavista/sc-freamunde/2009,2009,24,segunda_liga,16,30,0,2,1,15,6,4,13,19,33,WWLDDWWLWWWLWWWDWLWLWDW,5,2,4,15,13,9,8,7,8,22,24,WWWDLDDWWLLWDWDWWLWWDDW,2,3,6,8,15,WDWLWLWWLLD,WDDWLWWWLWD
-Olhanense,Feirense,2-1,/match/sc-olhanense/feirense/2009,2009,24,segunda_liga,16,30,0,2,1,2,13,3,7,40,25,WWWWDLLWWWLDLWWWLDWLWWW,8,2,1,20,5,3,10,7,6,30,21,WWWDDWWWWWLWDDWLWDWDLDW,2,5,5,13,15,WWDWWDWLWWW,WDWWWLDWLDDD
-UD Oliveirense,Portimonense,0-0,/match/ud-oliveirense/portimonense/2009,2009,24,segunda_liga,16,30,1,0,0,14,5,8,10,20,27,DDLWWWDWWWWWWLDDLWDDWDW,5,3,3,12,10,13,6,9,8,23,29,WLLWWDLDWDLWDDDWLLDDDWW,2,5,4,3,12,DLWDWWLLDWW,LWDDDWDWLDW
-Beira Mar SC,Olhanense,1-1,/match/beira-mar/sc-olhanense/2009,2009,25,segunda_liga,16,30,1,1,1,8,8,7,9,27,25,DDDWLLDLWWWWDWWWWDWWDWWW,6,4,1,17,7,1,14,3,7,42,26,WWWWDLLWWWLDLWWWLDWLWWWW,5,1,6,20,20,DDLDWWWWWDW,WWLLWLLWWDLW
-SC Freamunde,Desportivo Aves,1-2,/match/sc-freamunde/desportivo-aves/2009,2009,25,segunda_liga,16,30,2,1,2,9,8,7,9,23,26,WWWDLDDWWLLWDWDWWLWWDDWW,6,4,2,14,9,11,8,7,9,25,28,WLDDWLDWWLDDLWWLLWWDWDWW,3,3,6,12,19,WWLDWLDDWWDW,LDWDWDLWLWWW
-Portimonense,Estoril,1-2,/match/portimonense/estoril/2009,2009,25,segunda_liga,16,30,2,1,2,13,6,10,8,23,29,WLLWWDLDWDLWDDDWLLDDDWWD,4,4,4,20,17,5,9,7,8,32,31,WDWWLDDDDDWWWWWWLDWWWLWW,2,2,7,11,20,WLWLWLDDLDDW,WWLDDWWLWWW
-Gil Vicente,SP. Covilhã,1-1,/match/gil-vicente/sporting-covilha/2009,2009,25,segunda_liga,16,30,1,1,1,6,7,11,6,31,31,DWDDDWWDDLDLWWWDWDWDLDWW,4,8,0,20,13,10,8,8,8,34,36,WWLDLDDLDLWWDDWLLWWWDLDL,3,5,3,11,13,WDWDDDWWDDDD,WLLDDWDLWDD
-Gondomar,Vizela,2-0,/match/gondomar/vizela/2009,2009,25,segunda_liga,16,30,0,2,0,16,5,7,12,24,31,WDWLWDWDDWWLLWDLWLWLDDWL,3,4,5,11,10,12,5,13,6,22,28,WLWWDLDWWWDWDDDDLDDDDDDL,1,8,3,12,16,DLDWDWLDLLLW,WWDDWDDDLDDD
-CD Santa Clara,Varzim,1-0,/match/santa-clara/varzim/2009,2009,25,segunda_liga,16,30,0,1,0,2,13,6,5,39,25,DWDWWWDLWWWDLLWWWWDLLLDL,8,2,2,20,9,7,9,5,10,25,27,WWDWWWDWWWWLWDDWWWWDLWWL,1,3,8,8,16,WWWDWWLWWWLD,WDWDWWWDWWLW
-União de Leiria,Boavista,2-0,/match/uniao-leiria/boavista/2009,2009,25,segunda_liga,16,30,0,2,0,3,10,9,5,31,23,WLDLDDDWWWDDWDWWLWWDWLDL,6,5,1,19,10,15,7,4,13,21,34,WWLDDWWLWWWLWWWDWLWLWDWW,1,2,9,4,20,LDDDWDWWWWWD,WLDWWWWWDWWW
-Feirense,UD Oliveirense,0-1,/match/feirense/ud-oliveirense/2009,2009,25,segunda_liga,16,30,2,0,1,4,10,7,7,31,23,WWWDDWWWWWLWDDWLWDWDLDWW,8,2,1,17,6,14,5,9,10,20,27,DDLWWWDWWWWWWLDDLWDDWDWD,0,5,7,8,17,WWDWWWDWWLW,DWWWWWWDDWDD
-Boavista,CD Santa Clara,3-1,/match/boavista/santa-clara/2009,2009,26,segunda_liga,16,30,0,3,1,15,7,4,14,21,36,WWLDDWWLWWWLWWWDWLWLWDWWW,6,2,4,17,14,1,14,6,5,40,25,DWDWWWDLWWWDLLWWWWDLLLDLW,5,4,3,19,16,WDWLWLWWLLDW,DDWLWDLWDLLL
-Desportivo Aves,União de Leiria,0-2,/match/desportivo-aves/uniao-leiria/2009,2009,26,segunda_liga,16,30,2,0,2,10,9,7,9,27,29,WLDDWLDWWLDDLWWLLWWDWDWWL,5,4,3,13,9,3,11,9,5,33,23,WLDLDDDWWWDDWDWWLWWDWLDLW,4,4,4,12,13,WDLWLDWLWDDW,WLDWWDDLWDLL
-SP. Covilhã,Estoril,2-1,/match/sporting-covilha/estoril/2009,2009,26,segunda_liga,16,30,0,2,1,11,8,9,8,35,37,WWLDLDDLDLWWDDWLLWWWDLDLD,5,3,5,23,23,4,10,7,8,34,32,WDWWLDDDDDWWWWWWLDWWWLWWL,3,2,7,13,21,WDDLLWDWLWWLL,WWLDDWWLWWWL
-Vizela,Gil Vicente,1-1,/match/vizela/gil-vicente/2009,2009,26,segunda_liga,16,30,1,1,1,12,5,13,7,22,30,WLWWDLDWWWDWDDDDLDDDDDDLW,4,5,3,10,12,6,7,12,6,32,32,DWDDDWWDDLDLWWWDWDWDLDWWD,3,3,6,11,18,LWLWWWDDDDDL,DDDWLLWWWLWW
-Varzim,Gondomar,1-0,/match/varzim/gondomar/2009,2009,26,segunda_liga,16,30,0,1,0,7,9,5,11,25,28,WWDWWWDWWWWLWDDWWWWDLWWLW,8,2,2,17,11,16,6,7,12,26,31,WDWLWDWDDWWLLWDLWLWLDDWLW,2,3,7,13,21,WWWWWLDWWDWL,WWWDWLWWWDDL
-Olhanense,SC Freamunde,5-0,/match/sc-olhanense/sc-freamunde/2009,2009,26,segunda_liga,16,30,0,5,0,2,14,4,7,43,27,WWWWDLLWWWLDLWWWLDWLWWWWD,9,2,1,22,6,9,8,7,10,24,28,WWWDLDDWWLLWDWDWWLWWDDWWL,2,3,7,9,17,WWDWWDWLWWWW,WDDWLWWWLWDW
-UD Oliveirense,Beira Mar SC,0-0,/match/ud-oliveirense/beira-mar/2009,2009,26,segunda_liga,16,30,1,0,0,13,6,9,10,21,27,DDLWWWDWWWWWWLDDLWDDWDWDL,5,4,3,12,10,8,8,8,9,28,26,DDDWLLDLWWWWDWWWWDWWDWWWD,2,3,8,10,18,DLWDWWLLDWWD,DWLLWWDWWDWWW
-Feirense,Portimonense,1-1,/match/feirense/portimonense/2009,2009,26,segunda_liga,16,30,1,1,1,5,10,7,8,31,24,WWWDDWWWWWLWDDWLWDWDLDWWL,8,2,2,17,7,14,6,10,9,24,31,WLLWWDLDWDLWDDDWLLDDDWWDL,2,6,4,3,12,WWDWWWDWWLWL,LWDDDWDWLDWD
-Gil Vicente,Varzim,1-2,/match/gil-vicente/varzim/2009,2009,27,segunda_liga,16,30,2,1,2,7,7,13,6,33,33,DWDDDWWDDLDLWWWDWDWDLDWWDD,4,9,0,21,14,6,10,5,11,26,28,WWDWWWDWWWWLWDDWWWWDLWWLWW,1,3,9,8,17,WDWDDDWWDDDDD,WDWDWWWDWWLWW
-União de Leiria,Olhanense,5-1,/match/uniao-leiria/sc-olhanense/2009,2009,27,segunda_liga,16,30,0,5,1,3,12,9,5,35,23,WLDLDDDWWWDDWDWWLWWDWLDLWL,7,5,1,21,10,1,15,4,7,48,27,WWWWDLLWWWLDLWWWLDWLWWWWDW,5,2,6,21,21,LDDDWDWWWWWDW,WWLLWLLWWDLWD
-SC Freamunde,UD Oliveirense,1-0,/match/sc-freamunde/ud-oliveirense/2009,2009,27,segunda_liga,16,30,0,1,0,10,8,7,11,24,33,WWWDLDDWWLLWDWDWWLWWDDWWLW,6,4,3,15,11,13,6,10,10,21,27,DDLWWWDWWWWWWLDDLWDDWDWDLD,1,5,7,9,17,WWLDWLDDWWDWL,DWWWWWWDDWDDL
-Portimonense,SP. Covilhã,1-0,/match/portimonense/sporting-covilha/2009,2009,27,segunda_liga,16,30,0,1,0,15,6,11,9,25,32,WLLWWDLDWDLWDDDWLLDDDWWDLD,4,4,5,21,19,9,9,9,8,37,38,WWLDLDDLDLWWDDWLLWWWDLDLDW,3,6,3,12,14,WLWLWLDDLDDWL,WLLDDWDLWDDD
-Estoril,Vizela,0-0,/match/estoril/vizela/2009,2009,27,segunda_liga,16,30,1,0,0,5,10,7,9,35,34,WDWWLDDDDDWWWWWWLDWWWLWWLW,7,5,1,21,11,12,5,14,7,23,31,WLWWDLDWWWDWDDDDLDDDDDDLWD,1,8,4,12,18,DWDDDWWWWDWLW,WWDDWDDDLDDDW
-Gondomar,Boavista,1-1,/match/gondomar/boavista/2009,2009,27,segunda_liga,16,30,1,1,1,16,6,7,13,26,32,WDWLWDWDDWWLLWDLWLWLDDWLWW,4,4,5,13,10,14,8,4,14,24,37,WWLDDWWLWWWLWWWDWLWLWDWWWW,1,2,10,4,22,DLDWDWLDLLLWW,WLDWWWWWDWWWW
-CD Santa Clara,Desportivo Aves,1-1,/match/santa-clara/desportivo-aves/2009,2009,27,segunda_liga,16,30,1,1,1,2,14,6,6,41,28,DWDWWWDLWWWDLLWWWWDLLLDLWW,9,2,2,21,9,11,9,7,10,27,31,WLDDWLDWWLDDLWWLLWWDWDWWLL,4,3,6,14,20,WWWDWWLWWWLDW,LDWDWDLWLWWWL
-Beira Mar SC,Feirense,2-2,/match/beira-mar/feirense/2009,2009,27,segunda_liga,16,30,1,2,2,8,8,9,9,28,26,DDDWLLDLWWWWDWWWWDWWDWWWDD,6,5,1,18,8,4,10,8,8,32,25,WWWDDWWWWWLWDDWLWDWDLDWWLD,2,5,6,14,17,DDLDWWWWWDWD,WDWWWLDWLDDDW
-Olhanense,CD Santa Clara,1-0,/match/sc-olhanense/santa-clara/2009,2009,28,segunda_liga,16,30,0,1,0,1,15,4,8,49,32,WWWWDLLWWWLDLWWWLDWLWWWWDWW,10,2,1,27,6,2,14,7,6,42,29,DWDWWWDLWWWDLLWWWWDLLLDLWWD,5,4,4,20,19,WWDWWDWLWWWWW,DDWLWDLWDLLLW
-Vizela,SP. Covilhã,1-0,/match/vizela/sporting-covilha/2009,2009,28,segunda_liga,16,30,0,1,0,12,5,15,7,23,31,WLWWDLDWWWDWDDDDLDDDDDDLWDD,4,6,3,11,13,10,9,9,9,37,39,WWLDLDDLDLWWDDWLLWWWDLDLDWW,3,6,4,12,15,LWLWWWDDDDDLD,WLLDDWDLWDDDW
-Varzim,Estoril,0-3,/match/varzim/estoril/2009,2009,28,segunda_liga,16,30,2,0,3,6,11,5,11,28,29,WWDWWWDWWWWLWDDWWWWDLWWLWWL,9,2,2,18,11,5,10,8,9,35,34,WDWWLDDDDDWWWWWWLDWWWLWWLWD,3,2,8,14,23,WWWWWLDWWDWLW,WWLDDWWLWWWLW
-Boavista,Gil Vicente,0-1,/match/boavista/gil-vicente/2009,2009,28,segunda_liga,16,30,2,0,1,15,8,5,14,25,38,WWLDDWWLWWWLWWWDWLWLWDWWWWD,7,2,4,20,15,7,7,13,7,34,35,DWDDDWWDDLDLWWWDWDWDLDWWDDL,3,4,6,12,19,WDWLWLWWLLDWW,DDDWLLWWWLWWD
-Desportivo Aves,Gondomar,0-1,/match/desportivo-aves/gondomar/2009,2009,28,segunda_liga,16,30,2,0,1,11,9,8,10,28,32,WLDDWLDWWLDDLWWLLWWDWDWWLLD,5,4,4,13,11,16,6,8,13,27,33,WDWLWDWDDWWLLWDLWLWLDDWLWWD,2,3,8,13,22,WDLWLDWLWDDWL,WWWDWLWWWDDLW
-UD Oliveirense,União de Leiria,2-1,/match/ud-oliveirense/uniao-leiria/2009,2009,28,segunda_liga,16,30,0,2,1,14,6,10,11,21,28,DDLWWWDWWWWWWLDDLWDDWDWDLDW,5,5,3,12,10,3,13,9,5,40,24,WLDLDDDWWWDDWDWWLWWDWLDLWLW,5,4,4,14,13,DLWDWWLLDWWDD,WLDWWDDLWDLLL
-Feirense,SC Freamunde,1-5,/match/feirense/sc-freamunde/2009,2009,28,segunda_liga,16,30,2,1,5,4,10,9,8,34,27,WWWDDWWWWWLWDDWLWDWDLDWWLDD,8,3,2,18,8,9,9,7,11,25,33,WWWDLDDWWLLWDWDWWLWWDDWWLWW,2,3,8,9,22,WWDWWWDWWLWLD,WDDWLWWWLWDWW
-Beira Mar SC,Portimonense,0-0,/match/beira-mar/portimonense/2009,2009,28,segunda_liga,16,30,1,0,0,8,8,10,9,30,28,DDDWLLDLWWWWDWWWWDWWDWWWDDD,6,6,1,20,10,13,7,11,9,26,32,WLLWWDLDWDLWDDDWLLDDDWWDLDW,2,7,4,4,13,DDLDWWWWWDWDD,LWDDDWDWLDWDD
-Vizela,Portimonense,2-2,/match/vizela/portimonense/2009,2009,29,segunda_liga,16,30,1,2,2,10,6,15,7,24,31,WLWWDLDWWWDWDDDDLDDDDDDLWDDW,5,6,3,12,13,14,7,12,9,26,32,WLLWWDLDWDLWDDDWLLDDDWWDLDWD,2,8,4,4,13,LWLWWWDDDDDLDW,LWDDDWDWLDWDDD
-SP. Covilhã,Varzim,1-1,/match/sporting-covilha/varzim/2009,2009,29,segunda_liga,16,30,1,1,1,11,9,9,10,37,40,WWLDLDDLDLWWDDWLLWWWDLDLDWWW,6,3,5,25,24,6,11,5,12,28,32,WWDWWWDWWWWLWDDWWWWDLWWLWWLL,2,3,9,10,18,WDDLLWDWLWWLLW,WDWDWWWDWWLWWL
-Estoril,Boavista,1-2,/match/estoril/boavista/2009,2009,29,segunda_liga,16,30,2,1,2,4,11,8,9,38,34,WDWWLDDDDDWWWWWWLDWWWLWWLWDL,7,6,1,21,11,15,8,5,15,25,39,WWLDDWWLWWWLWWWDWLWLWDWWWWDL,1,3,10,5,23,DWDDDWWWWDWLWD,WLDWWWWWDWWWWD
-Gil Vicente,Desportivo Aves,1-1,/match/gil-vicente/desportivo-aves/2009,2009,29,segunda_liga,16,30,1,1,1,7,8,13,7,35,35,DWDDDWWDDLDLWWWDWDWDLDWWDDLL,4,9,1,22,16,13,9,8,11,28,33,WLDDWLDWWLDDLWWLLWWDWDWWLLDL,4,4,6,15,21,WDWDDDWWDDDDDL,LDWDWDLWLWWWLD
-Gondomar,Olhanense,0-1,/match/gondomar/sc-olhanense/2009,2009,29,segunda_liga,16,30,2,0,1,16,7,8,13,28,33,WDWLWDWDDWWLLWDLWLWLDDWLWWDL,4,5,5,14,11,1,16,4,8,50,32,WWWWDLLWWWLDLWWWLDWLWWWWDWWW,5,2,7,22,26,DLDWDWLDLLLWWD,WWLLWLLWWDLWDW
-CD Santa Clara,UD Oliveirense,3-1,/match/santa-clara/ud-oliveirense/2009,2009,29,segunda_liga,16,30,0,3,1,2,14,7,7,42,30,DWDWWWDLWWWDLLWWWWDLLLDLWWDW,9,3,2,22,10,12,7,10,11,23,29,DDLWWWDWWWWWWLDDLWDDWDWDLDWW,1,5,8,9,18,WWWDWWLWWWLDWD,DWWWWWWDDWDDLW
-União de Leiria,Feirense,2-1,/match/uniao-leiria/feirense/2009,2009,29,segunda_liga,16,30,0,2,1,3,13,9,6,41,26,WLDLDDDWWWDDWDWWLWWDWLDLWLWW,8,5,1,26,11,5,10,9,9,35,32,WWWDDWWWWWLWDDWLWDWDLDWWLDDL,2,6,6,16,19,LDDDWDWWWWWDWW,WDWWWLDWLDDDWD
-SC Freamunde,Beira Mar SC,1-0,/match/sc-freamunde/beira-mar/2009,2009,29,segunda_liga,16,30,0,1,0,9,10,7,11,30,34,WWWDLDDWWLLWDWDWWLWWDDWWLWWL,7,4,3,16,11,8,8,11,9,30,28,DDDWLLDLWWWWDWWWWDWWDWWWDDDD,2,4,8,10,18,WWLDWLDDWWDWLW,DWLLWWDWWDWWWD
-Olhanense,Gil Vicente,1-0,/match/sc-olhanense/gil-vicente/2009,2009,30,segunda_liga,16,30,0,1,0,1,17,4,8,51,32,WWWWDLLWWWLDLWWWLDWLWWWWDWWWL,11,2,1,28,6,8,8,14,7,36,36,DWDDDWWDDLDLWWWDWDWDLDWWDDLLD,4,4,6,13,19,WWDWWDWLWWWWWW,DDDWLLWWWLWWDL
-Varzim,Vizela,0-2,/match/varzim/vizela/2009,2009,30,segunda_liga,16,30,2,0,2,7,11,6,12,29,33,WWDWWWDWWWWLWDDWWWWDLWWLWWLLD,9,2,3,18,14,10,6,16,7,26,33,WLWWDLDWWWDWDDDDLDDDDDDLWDDWD,1,9,4,12,18,WWWWWLDWWDWLWL,WWDDWDDDLDDDWD
-Boavista,SP. Covilhã,1-4,/match/boavista/sporting-covilha/2009,2009,30,segunda_liga,16,30,2,1,4,15,9,5,15,27,40,WWLDDWWLWWWLWWWDWLWLWDWWWWDLL,7,2,5,20,16,11,9,10,10,38,41,WWLDLDDLDLWWDDWLLWWWDLDLDWWWD,3,6,5,12,16,WDWLWLWWLLDWWL,WLLDDWDLWDDDWW
-Desportivo Aves,Estoril,1-2,/match/desportivo-aves/estoril/2009,2009,30,segunda_liga,16,30,2,1,2,13,9,9,11,29,34,WLDDWLDWWLDDLWWLLWWDWDWWLLDLD,5,4,5,13,12,4,11,8,10,39,36,WDWWLDDDDDWWWWWWLDWWWLWWLWDLL,4,2,8,17,23,WDLWLDWLWDDWLL,WWLDDWWLWWWLWL
-UD Oliveirense,Gondomar,1-1,/match/ud-oliveirense/gondomar/2009,2009,30,segunda_liga,16,30,1,1,1,12,7,10,12,24,32,DDLWWWDWWWWWWLDDLWDDWDWDLDWWW,6,5,3,14,11,16,7,8,14,28,34,WDWLWDWDDWWLLWDLWLWLDDWLWWDLL,3,3,8,14,22,DLWDWWLLDWWDDW,WWWDWLWWWDDLWL
-Feirense,CD Santa Clara,1-0,/match/feirense/santa-clara/2009,2009,30,segunda_liga,16,30,0,1,0,6,10,9,10,36,34,WWWDDWWWWWLWDDWLWDWDLDWWLDDLW,8,3,3,19,13,2,15,7,7,45,31,DWDWWWDLWWWDLLWWWWDLLLDLWWDWW,5,4,5,20,20,WWDWWWDWWLWLDL,DDWLWDLWDLLLWW
-Beira Mar SC,União de Leiria,2-3,/match/beira-mar/uniao-leiria/2009,2009,30,segunda_liga,16,30,2,2,3,9,8,11,10,30,29,DDDWLLDLWWWWDWWWWDWWDWWWDDDDW,6,7,1,20,10,3,14,9,6,43,27,WLDLDDDWWWDDWDWWLWWDWLDLWLWWW,5,4,5,15,15,DDLDWWWWWDWDDD,WLDWWDDLWDLLLW
-Portimonense,SC Freamunde,1-1,/match/portimonense/sc-freamunde/2009,2009,30,segunda_liga,16,30,1,1,1,14,7,13,9,28,34,WLLWWDLDWDLWDDDWLLDDDWWDLDWDD,5,4,5,22,19,5,11,7,11,31,34,WWWDLDDWWLLWDWDWWLWWDDWWLWWLW,3,3,8,14,23,WLWLWLDDLDDWLW,WDDWLWWWLWDWWL
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Olhanense,Estoril,3-2,/match/sc-olhanense/estoril/2009,2009,1,segunda_liga,16,30,0,3,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SC Freamunde,União de Leiria,1-0,/match/sc-freamunde/uniao-leiria/2009,2009,1,segunda_liga,16,30,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Beira Mar SC,CD Santa Clara,0-0,/match/beira-mar/santa-clara/2009,2009,1,segunda_liga,16,30,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+UD Oliveirense,Gil Vicente,1-1,/match/ud-oliveirense/gil-vicente/2009,2009,1,segunda_liga,16,30,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Desportivo Aves,SP. Covilhã,2-0,/match/desportivo-aves/sporting-covilha/2009,2009,1,segunda_liga,16,30,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Boavista,Vizela,2-1,/match/boavista/vizela/2009,2009,1,segunda_liga,16,30,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Feirense,Gondomar,2-0,/match/feirense/gondomar/2009,2009,1,segunda_liga,16,30,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Portimonense,Varzim,2-1,/match/portimonense/varzim/2009,2009,1,segunda_liga,16,30,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+União de Leiria,Portimonense,0-1,/match/uniao-leiria/portimonense/2009,2009,2,segunda_liga,16,30,2,0,1,15,0,0,0,1,0,1,W,0,0,0,0,0,4,4,1,0,0,2,1,W,0,0,0,0,0,,
+Varzim,Boavista,2-0,/match/varzim/boavista/2009,2009,2,segunda_liga,16,30,0,2,0,16,0,0,0,1,1,2,W,0,0,0,0,0,6,4,1,0,0,2,1,W,0,0,0,0,0,,
+Gil Vicente,Feirense,2-1,/match/gil-vicente/feirense/2009,2009,2,segunda_liga,16,30,0,2,1,9,1,0,1,0,1,1,D,0,0,0,0,0,3,4,1,0,0,2,0,W,0,0,0,0,0,,
+Estoril,UD Oliveirense,0-0,/match/estoril/ud-oliveirense/2009,2009,2,segunda_liga,16,30,1,0,0,13,0,0,0,1,2,3,W,0,0,0,0,0,8,2,0,1,0,1,1,D,0,0,0,0,0,,
+CD Santa Clara,SC Freamunde,1-0,/match/santa-clara/sc-freamunde/2009,2009,2,segunda_liga,16,30,0,1,0,10,1,0,1,0,0,0,D,0,0,0,0,0,1,4,1,0,0,1,0,W,0,0,0,0,0,,
+Gondomar,Beira Mar SC,0-0,/match/gondomar/beira-mar/2009,2009,2,segunda_liga,16,30,1,0,0,14,0,0,0,1,0,2,W,0,0,0,0,0,7,2,0,1,0,0,0,D,0,0,0,0,0,,
+SP. Covilhã,Olhanense,4-3,/match/sporting-covilha/sc-olhanense/2009,2009,2,segunda_liga,16,30,0,4,3,11,0,0,0,1,0,2,W,0,0,0,0,0,2,4,1,0,0,3,2,W,0,0,0,0,0,,
+Vizela,Desportivo Aves,0-2,/match/vizela/desportivo-aves/2009,2009,2,segunda_liga,16,30,2,0,2,12,0,0,0,1,1,2,W,0,0,0,0,0,5,4,1,0,0,2,0,W,0,0,0,0,0,,
+SC Freamunde,Gondomar,2-0,/match/sc-freamunde/gondomar/2009,2009,3,segunda_liga,16,30,0,2,0,5,4,1,0,1,1,1,WW,1,0,0,1,0,14,2,0,1,1,0,2,WD,0,0,1,0,2,W,W
+Olhanense,Vizela,1-0,/match/sc-olhanense/vizela/2009,2009,3,segunda_liga,16,30,0,1,0,6,4,1,0,1,6,6,WW,1,0,0,3,2,15,0,0,0,2,1,4,WL,0,0,1,1,2,W,W
+União de Leiria,CD Santa Clara,1-1,/match/uniao-leiria/santa-clara/2009,2009,3,segunda_liga,16,30,1,1,1,16,0,0,0,2,0,2,WL,0,0,1,0,1,4,5,1,1,0,1,0,DW,0,1,0,0,0,L,D
+Beira Mar SC,Gil Vicente,0-0,/match/beira-mar/gil-vicente/2009,2009,3,segunda_liga,16,30,1,0,0,11,3,0,2,0,0,0,DD,0,1,0,0,0,3,5,1,1,0,3,2,DW,0,1,0,1,1,D,D
+Feirense,Estoril,1-0,/match/feirense/estoril/2009,2009,3,segunda_liga,16,30,0,1,0,7,4,1,0,1,3,2,WW,1,0,0,2,0,13,2,0,1,1,2,3,WD,0,0,1,2,3,W,W
+Desportivo Aves,Varzim,0-0,/match/desportivo-aves/varzim/2009,2009,3,segunda_liga,16,30,1,0,0,2,6,2,0,0,4,0,WL,1,0,0,2,0,10,4,1,0,1,3,2,WW,0,0,1,1,2,W,W
+Portimonense,Boavista,0-1,/match/portimonense/boavista/2009,2009,3,segunda_liga,16,30,2,0,1,1,6,2,0,0,3,1,WL,1,0,0,2,1,8,4,1,0,1,2,3,WW,0,0,1,0,2,W,W
+UD Oliveirense,SP. Covilhã,1-2,/match/ud-oliveirense/sporting-covilha/2009,2009,3,segunda_liga,16,30,2,1,2,12,3,0,2,0,1,1,DD,0,1,0,1,1,9,4,1,0,1,4,5,WW,0,0,1,0,2,D,W
+CD Santa Clara,Portimonense,3-0,/match/santa-clara/portimonense/2009,2009,4,segunda_liga,16,30,0,3,0,7,6,1,2,0,2,1,DWD,1,0,0,1,0,5,6,2,0,1,3,2,WLL,1,0,0,1,0,W,L
+Gondomar,União de Leiria,0-1,/match/gondomar/uniao-leiria/2009,2009,4,segunda_liga,16,30,2,0,1,14,2,0,1,2,0,4,WDW,0,1,0,0,0,15,2,0,1,2,1,3,WLD,0,0,1,0,1,D,W
+Gil Vicente,SC Freamunde,0-0,/match/gil-vicente/sc-freamunde/2009,2009,4,segunda_liga,16,30,1,0,0,6,6,1,2,0,3,2,DWD,1,0,0,2,1,2,8,2,0,1,3,1,WWW,0,0,1,0,1,W,W
+Estoril,Beira Mar SC,2-0,/match/estoril/beira-mar/2009,2009,4,segunda_liga,16,30,0,2,0,13,2,0,1,2,2,4,WDW,0,1,0,0,0,11,5,0,3,0,0,0,DDD,0,1,0,0,0,D,D
+SP. Covilhã,Feirense,0-0,/match/sporting-covilha/feirense/2009,2009,4,segunda_liga,16,30,1,0,0,9,6,2,0,1,6,6,WWL,1,0,0,4,3,4,8,2,0,1,4,2,WWW,0,0,1,1,2,W,W
+Vizela,UD Oliveirense,2-1,/match/vizela/ud-oliveirense/2009,2009,4,segunda_liga,16,30,0,2,1,16,0,0,0,3,1,5,WLW,0,0,1,0,2,12,3,0,2,1,2,3,DDL,0,1,0,0,0,L,D
+Varzim,Olhanense,2-1,/match/varzim/sc-olhanense/2009,2009,4,segunda_liga,16,30,0,2,1,10,5,1,1,1,3,2,WWD,1,0,0,2,0,3,8,2,0,1,7,6,WWW,0,0,1,3,4,W,W
+Boavista,Desportivo Aves,1-1,/match/boavista/desportivo-aves/2009,2009,4,segunda_liga,16,30,1,1,1,8,6,2,0,1,3,3,WWL,1,0,0,2,1,1,8,2,1,0,4,0,WLD,1,0,0,2,0,W,L
+Beira Mar SC,SP. Covilhã,0-1,/match/beira-mar/sporting-covilha/2009,2009,5,segunda_liga,16,30,2,0,1,12,5,0,3,1,0,2,DDDW,0,2,0,0,0,9,8,2,1,1,6,6,WWLD,1,0,1,2,3,DD,WL
+SC Freamunde,Estoril,0-1,/match/sc-freamunde/estoril/2009,2009,5,segunda_liga,16,30,2,0,1,3,9,2,1,1,3,1,WWWD,2,0,0,3,0,11,6,1,1,2,4,4,WDWW,0,0,2,2,4,WW,WW
+UD Oliveirense,Varzim,2-1,/match/ud-oliveirense/varzim/2009,2009,5,segunda_liga,16,30,0,2,1,15,3,0,2,2,3,5,DDLW,0,1,1,2,3,5,9,2,1,1,5,3,WWDW,0,1,1,1,2,DL,WD
+Olhanense,Boavista,1-1,/match/sc-olhanense/boavista/2009,2009,5,segunda_liga,16,30,1,1,1,6,8,2,0,2,8,8,WWWW,2,0,0,4,2,8,8,2,1,1,4,4,WWLD,1,0,1,1,2,WW,WL
+União de Leiria,Gil Vicente,1-1,/match/uniao-leiria/gil-vicente/2009,2009,5,segunda_liga,16,30,1,1,1,13,4,1,1,2,2,3,WLDL,0,1,1,1,2,7,8,1,3,0,3,2,DWDD,0,2,0,1,1,LD,DD
+Feirense,Vizela,0-0,/match/feirense/vizela/2009,2009,5,segunda_liga,16,30,1,0,0,4,9,2,1,1,4,2,WWWD,2,0,0,3,0,14,4,1,0,3,3,6,WLWW,0,0,2,1,3,WW,WW
+Portimonense,Desportivo Aves,5-2,/match/portimonense/desportivo-aves/2009,2009,5,segunda_liga,16,30,0,5,2,10,6,2,0,2,3,5,WLLW,1,0,1,2,2,2,9,2,2,0,5,1,WLDD,1,1,0,3,1,WL,LD
+CD Santa Clara,Gondomar,2-1,/match/santa-clara/gondomar/2009,2009,5,segunda_liga,16,30,0,2,1,1,10,2,2,0,5,1,DWDW,2,0,0,4,0,16,2,0,1,3,0,5,WDWL,0,0,2,0,4,WW,WW
+Gondomar,Portimonense,0-0,/match/gondomar/portimonense/2009,2009,6,segunda_liga,16,30,1,0,0,16,2,0,1,4,1,7,WDWLW,0,1,1,0,1,5,10,3,0,2,8,7,WLLWW,1,0,1,1,3,DL,LW
+Gil Vicente,CD Santa Clara,3-2,/match/gil-vicente/santa-clara/2009,2009,6,segunda_liga,16,30,0,3,2,9,9,1,4,0,4,3,DWDDD,1,1,0,2,1,1,14,3,2,0,7,2,DWDWW,0,2,0,1,1,WD,DD
+Desportivo Aves,Olhanense,1-2,/match/desportivo-aves/sc-olhanense/2009,2009,6,segunda_liga,16,30,2,1,2,6,9,2,2,1,7,6,WLDDW,1,1,0,2,0,3,10,2,1,2,9,9,WWWWD,0,0,2,4,6,WD,WW
+Vizela,Beira Mar SC,0-3,/match/vizela/beira-mar/2009,2009,6,segunda_liga,16,30,2,0,3,15,5,1,1,3,3,6,WLWWD,1,0,1,2,3,14,5,0,3,2,0,3,DDDWL,0,1,1,0,2,LW,DW
+Boavista,UD Oliveirense,1-0,/match/boavista/ud-oliveirense/2009,2009,6,segunda_liga,16,30,0,1,0,10,9,2,2,1,5,5,WWLDD,1,1,0,3,2,12,7,1,2,2,5,6,DDLWW,0,1,1,1,2,WD,DW
+Estoril,União de Leiria,2-2,/match/estoril/uniao-leiria/2009,2009,6,segunda_liga,16,30,1,2,2,11,8,2,1,2,5,4,WDWWL,1,1,0,2,0,13,6,1,2,2,3,4,WLDLD,1,0,1,1,1,DW,WL
+SP. Covilhã,SC Freamunde,1-1,/match/sporting-covilha/sc-freamunde/2009,2009,6,segunda_liga,16,30,1,1,1,4,10,3,1,1,7,6,WWLDL,1,1,0,4,3,7,9,2,1,2,3,2,WWWDL,0,1,1,0,1,WD,WD
+Varzim,Feirense,2-1,/match/varzim/feirense/2009,2009,6,segunda_liga,16,30,0,2,1,8,9,2,1,2,6,5,WWDWW,2,0,0,4,1,2,11,2,2,1,4,2,WWWDD,0,1,1,1,2,WW,WD
+Portimonense,Olhanense,2-3,/match/portimonense/sc-olhanense/2009,2009,7,segunda_liga,16,30,2,2,3,8,11,3,1,2,8,7,WLLWWD,2,0,1,7,4,5,12,3,1,2,11,10,WWWWDL,1,0,2,6,7,WLW,WWL
+Feirense,Boavista,2-0,/match/feirense/boavista/2009,2009,7,segunda_liga,16,30,0,2,0,7,11,2,2,2,5,4,WWWDDW,2,1,0,3,0,4,13,3,2,1,6,5,WWLDDW,1,1,1,2,3,WWD,WLD
+Gondomar,Gil Vicente,3-0,/match/gondomar/gil-vicente/2009,2009,7,segunda_liga,16,30,0,3,0,16,4,0,2,4,1,7,WDWLWD,0,2,1,0,1,3,13,2,4,0,7,5,DWDDDW,0,3,0,2,2,DLD,DDD
+SC Freamunde,Vizela,1-1,/match/sc-freamunde/vizela/2009,2009,7,segunda_liga,16,30,1,1,1,9,10,2,2,2,4,3,WWWDLD,2,0,1,3,1,15,5,1,1,4,3,9,WLWWDL,0,1,2,1,3,WWL,WWD
+UD Oliveirense,Desportivo Aves,0-0,/match/ud-oliveirense/desportivo-aves/2009,2009,7,segunda_liga,16,30,1,0,0,12,7,1,2,3,5,7,DDLWWW,1,1,1,4,4,11,9,2,2,2,8,8,WLDDWL,1,1,1,5,6,DLW,LDW
+União de Leiria,SP. Covilhã,1-1,/match/uniao-leiria/sporting-covilha/2009,2009,7,segunda_liga,16,30,1,1,1,13,7,1,3,2,5,6,WLDLDD,0,2,1,2,3,6,12,3,2,1,8,7,WWLDLD,2,0,1,3,3,LDD,WLL
+Beira Mar SC,Varzim,1-1,/match/beira-mar/varzim/2009,2009,7,segunda_liga,16,30,1,1,1,14,7,1,3,2,3,3,DDDWLL,0,2,1,0,1,2,13,3,1,2,8,6,WWDWWW,0,1,2,2,4,DDL,WDW
+CD Santa Clara,Estoril,1-1,/match/santa-clara/estoril/2009,2009,7,segunda_liga,16,30,1,1,1,1,14,3,2,1,9,5,DWDWWW,3,0,0,6,1,10,10,2,2,2,7,6,WDWWLD,1,0,2,3,4,WWW,WWL
+SP. Covilhã,CD Santa Clara,2-4,/match/sporting-covilha/santa-clara/2009,2009,8,segunda_liga,16,30,2,2,4,7,13,3,3,1,9,8,WWLDLDD,1,2,0,5,4,1,16,3,3,1,10,6,DWDWWWD,0,2,1,3,4,WDD,DDW
+Vizela,União de Leiria,3-2,/match/vizela/uniao-leiria/2009,2009,8,segunda_liga,16,30,0,3,2,16,6,1,2,4,4,10,WLWWDLD,1,0,2,2,6,13,9,1,4,2,6,7,WLDLDDD,1,1,1,3,3,LWL,WLD
+Boavista,Beira Mar SC,1-2,/match/boavista/beira-mar/2009,2009,8,segunda_liga,16,30,2,1,2,6,13,3,2,2,6,7,WWLDDWW,2,1,0,4,2,14,9,1,4,2,4,4,DDDWLLD,1,1,1,3,2,WDW,DWL
+Desportivo Aves,Feirense,1-0,/match/desportivo-aves/feirense/2009,2009,8,segunda_liga,16,30,0,1,0,11,10,2,3,2,8,8,WLDDWLD,1,1,1,3,2,2,15,3,2,2,7,4,WWWDDWW,0,1,2,2,4,WDL,WDW
+Olhanense,UD Oliveirense,3-0,/match/sc-olhanense/ud-oliveirense/2009,2009,8,segunda_liga,16,30,0,3,0,4,14,4,1,2,14,12,WWWWDLL,2,1,0,5,3,12,9,1,3,3,5,7,DDLWWWD,0,1,2,1,3,WWD,DWW
+Estoril,Gondomar,0-0,/match/estoril/gondomar/2009,2009,8,segunda_liga,16,30,1,0,0,10,11,2,3,2,8,7,WDWWLDD,1,2,0,4,2,15,8,1,2,4,4,7,WDWLWDW,0,0,3,1,6,DWD,WWW
+Gil Vicente,Portimonense,0-0,/match/gil-vicente/portimonense/2009,2009,8,segunda_liga,16,30,1,0,0,5,13,2,4,1,7,8,DWDDDWW,2,1,0,5,3,9,11,3,1,3,10,10,WLLWWDL,1,1,1,1,3,WDW,LWD
+Varzim,SC Freamunde,2-1,/match/varzim/sc-freamunde/2009,2009,8,segunda_liga,16,30,0,2,1,3,14,3,2,2,9,7,WWDWWWD,3,0,0,6,2,8,12,2,3,2,5,4,WWWDLDD,0,2,1,1,2,WWW,WDD
+SC Freamunde,Boavista,2-0,/match/sc-freamunde/boavista/2009,2009,9,segunda_liga,16,30,0,2,0,10,12,2,3,3,6,6,WWWDLDDW,2,1,1,4,2,7,13,3,2,3,7,9,WWLDDWWL,1,1,2,2,5,WWLD,WLDW
+Gondomar,SP. Covilhã,1-1,/match/gondomar/sporting-covilha/2009,2009,9,segunda_liga,16,30,1,1,1,16,9,1,3,4,4,7,WDWLWDWD,1,2,1,3,1,8,13,3,3,2,11,12,WWLDLDDL,2,1,1,4,4,DLDW,WLLD
+Beira Mar SC,Desportivo Aves,4-0,/match/beira-mar/desportivo-aves/2009,2009,9,segunda_liga,16,30,0,4,0,12,11,2,4,2,6,5,DDDWLLDL,0,3,1,1,2,6,14,3,3,2,9,8,WLDDWLDW,1,2,1,5,6,DDLD,LDWD
+Feirense,Olhanense,3-1,/match/feirense/sc-olhanense/2009,2009,9,segunda_liga,16,30,0,3,1,4,15,3,2,3,7,5,WWWDDWWW,3,1,0,5,0,3,18,5,1,2,17,12,WWWWDLLW,2,0,2,9,9,WWDW,WWLL
+Gil Vicente,Estoril,2-2,/match/gil-vicente/estoril/2009,2009,9,segunda_liga,16,30,1,2,2,5,15,2,5,1,7,8,DWDDDWWD,2,2,0,5,3,9,13,2,4,2,8,7,WDWWLDDD,1,1,2,4,5,WDWD,WWLD
+União de Leiria,Varzim,1-0,/match/uniao-leiria/varzim/2009,2009,9,segunda_liga,16,30,0,1,0,15,9,1,4,3,8,10,WLDLDDDW,0,3,1,3,4,2,18,4,2,2,11,8,WWDWWWDW,0,2,2,3,5,LDDD,WDWD
+Portimonense,UD Oliveirense,1-0,/match/portimonense/ud-oliveirense/2009,2009,9,segunda_liga,16,30,0,1,0,11,12,3,2,3,10,10,WLLWWDLD,2,0,2,9,7,14,9,1,3,4,5,10,DDLWWWDW,0,1,3,1,6,WLWL,DWWW
+CD Santa Clara,Vizela,5-1,/match/santa-clara/vizela/2009,2009,9,segunda_liga,16,30,0,5,1,1,18,4,3,1,14,8,DWDWWWDL,3,1,0,7,2,13,10,2,2,4,7,12,WLWWDLDW,0,2,2,2,4,WWWD,WWDD
+Estoril,Portimonense,0-0,/match/estoril/portimonense/2009,2009,10,segunda_liga,16,30,1,0,0,11,14,2,5,2,10,9,WDWWLDDDD,1,3,0,4,2,7,16,4,2,3,11,10,WLLWWDLDW,1,2,1,1,3,DWDD,LWDD
+Vizela,Gondomar,1-0,/match/vizela/gondomar/2009,2009,10,segunda_liga,16,30,0,1,0,15,10,2,2,5,8,17,WLWWDLDWW,2,0,2,5,8,14,11,1,4,4,5,8,WDWLWDWDD,0,1,3,1,6,LWLW,WWWD
+Boavista,União de Leiria,2-0,/match/boavista/uniao-leiria/2009,2009,10,segunda_liga,16,30,0,2,0,12,13,3,2,4,7,11,WWLDDWWLW,2,1,1,5,4,13,13,2,4,3,9,10,WLDLDDDWW,1,1,2,5,6,WDWL,WLDW
+Desportivo Aves,SC Freamunde,0-1,/match/desportivo-aves/sc-freamunde/2009,2009,10,segunda_liga,16,30,2,0,1,9,14,3,3,3,9,12,WLDDWLDWW,2,1,1,4,2,6,16,3,3,3,8,6,WWWDLDDWW,0,2,2,2,4,WDLW,WDDW
+Olhanense,Beira Mar SC,2-0,/match/sc-olhanense/beira-mar/2009,2009,10,segunda_liga,16,30,0,2,0,4,18,5,1,3,18,15,WWWWDLLWW,3,1,0,8,3,8,15,3,4,2,10,5,DDDWLLDLW,2,1,1,5,3,WWDW,DWLL
+UD Oliveirense,Feirense,2-1,/match/ud-oliveirense/feirense/2009,2009,10,segunda_liga,16,30,0,2,1,16,9,1,3,5,5,11,DDLWWWDWW,1,2,1,4,4,2,19,4,2,3,10,6,WWWDDWWWW,0,1,3,2,5,DLWD,WDWW
+SP. Covilhã,Gil Vicente,1-2,/match/sporting-covilha/gil-vicente/2009,2009,10,segunda_liga,16,30,2,1,2,10,14,3,4,2,12,13,WWLDLDDLD,1,2,1,7,8,5,17,2,6,1,9,10,DWDDDWWDD,0,3,1,2,5,WDDL,DDDW
+Varzim,CD Santa Clara,2-1,/match/varzim/santa-clara/2009,2009,10,segunda_liga,16,30,0,2,1,3,18,4,2,3,11,9,WWDWWWDWW,4,0,0,8,3,1,22,5,3,1,19,9,DWDWWWDLW,1,2,1,7,6,WWWW,DDWL
+CD Santa Clara,Boavista,3-1,/match/santa-clara/boavista/2009,2009,11,segunda_liga,16,30,0,3,1,1,22,5,3,2,20,11,DWDWWWDLWW,4,1,0,12,3,8,17,4,2,4,9,11,WWLDDWWLWW,1,1,3,2,7,WWWDW,WLDWW
+Gondomar,Varzim,2-1,/match/gondomar/varzim/2009,2009,11,segunda_liga,16,30,0,2,1,16,11,1,4,5,5,9,WDWLWDWDDW,1,3,1,4,2,2,22,5,2,3,13,10,WWDWWWDWWW,0,2,3,3,6,DLDWD,WDWDW
+SC Freamunde,Olhanense,1-3,/match/sc-freamunde/sc-olhanense/2009,2009,11,segunda_liga,16,30,2,1,3,6,18,4,3,3,9,6,WWWDLDDWWL,3,1,1,6,2,3,22,6,1,3,20,15,WWWWDLLWWW,2,0,3,10,12,WWLDW,WWLLW
+Beira Mar SC,UD Oliveirense,2-1,/match/beira-mar/ud-oliveirense/2009,2009,11,segunda_liga,16,30,0,2,1,10,15,3,4,3,10,7,DDDWLLDLWW,1,3,1,5,2,15,13,2,3,5,7,12,DDLWWWDWWW,0,1,4,1,7,DDLDW,DWWWW
+Estoril,SP. Covilhã,3-1,/match/estoril/sporting-covilha/2009,2009,11,segunda_liga,16,30,0,3,1,9,16,2,6,2,10,9,WDWWLDDDDD,1,4,0,4,2,12,14,3,4,3,13,15,WWLDLDDLDL,2,2,1,5,5,DWDDD,WLLDD
+Gil Vicente,Vizela,1-1,/match/gil-vicente/vizela/2009,2009,11,segunda_liga,16,30,1,1,1,5,19,3,6,1,11,11,DWDDDWWDDL,2,3,0,7,5,13,14,3,2,5,9,17,WLWWDLDWWW,0,2,3,3,9,WDWDD,WWDDW
+União de Leiria,Desportivo Aves,1-1,/match/uniao-leiria/desportivo-aves/2009,2009,11,segunda_liga,16,30,1,1,1,14,13,2,4,4,9,12,WLDLDDDWWW,1,3,1,4,4,11,14,3,3,4,9,13,WLDDWLDWWL,1,2,2,5,10,LDDDW,LDWDW
+Portimonense,Feirense,1-3,/match/portimonense/feirense/2009,2009,11,segunda_liga,16,30,2,1,3,7,17,4,3,3,11,10,WLLWWDLDWD,3,0,2,10,7,4,19,4,2,4,11,8,WWWDDWWWWW,0,1,4,3,7,WLWLW,WDWWW
+Vizela,Estoril,1-0,/match/vizela/estoril/2009,2009,12,segunda_liga,16,30,0,1,0,12,15,3,3,5,10,18,WLWWDLDWWWD,3,0,2,6,8,6,20,3,6,2,13,10,WDWWLDDDDDW,1,2,2,6,7,LWLWW,WWLDD
+Varzim,Gil Vicente,2-3,/match/varzim/gil-vicente/2009,2009,12,segunda_liga,16,30,2,2,3,3,22,5,2,4,14,12,WWDWWWDWWWW,5,0,0,10,4,5,21,3,7,1,12,12,DWDDDWWDDLD,1,3,1,4,6,WWWWW,DDDWL
+SP. Covilhã,Portimonense,4-1,/match/sporting-covilha/portimonense/2009,2009,12,segunda_liga,16,30,0,4,1,15,14,3,4,4,14,18,WWLDLDDLDLW,1,2,2,8,10,9,17,4,3,4,12,13,WLLWWDLDWDL,1,3,1,1,3,WDDLL,LWDDD
+Boavista,Gondomar,1-2,/match/boavista/gondomar/2009,2009,12,segunda_liga,16,30,2,1,2,10,17,4,2,5,10,14,WWLDDWWLWWW,3,1,1,7,4,14,15,2,4,5,7,10,WDWLWDWDDWW,0,1,4,1,7,WDWLW,WWWDW
+Desportivo Aves,CD Santa Clara,1-1,/match/desportivo-aves/santa-clara/2009,2009,12,segunda_liga,16,30,1,1,1,11,15,3,4,4,10,14,WLDDWLDWWLD,2,1,2,4,3,1,26,6,3,2,23,12,DWDWWWDLWWW,1,2,2,8,8,WDLWL,DDWLW
+Olhanense,União de Leiria,0-0,/match/sc-olhanense/uniao-leiria/2009,2009,12,segunda_liga,16,30,1,0,0,2,24,7,1,3,23,16,WWWWDLLWWWL,4,1,0,10,3,13,15,2,5,4,10,13,WLDLDDDWWWD,1,1,3,5,8,WWDWW,WLDWW
+UD Oliveirense,SC Freamunde,2-1,/match/ud-oliveirense/sc-freamunde/2009,2009,12,segunda_liga,16,30,0,2,1,16,13,2,3,6,8,14,DDLWWWDWWWW,2,2,1,6,5,8,18,4,3,4,10,9,WWWDLDDWWLL,1,2,2,3,4,DLWDW,WDDWL
+Feirense,Beira Mar SC,2-0,/match/feirense/beira-mar/2009,2009,12,segunda_liga,16,30,0,2,0,4,21,5,2,4,14,9,WWWDDWWWWWL,4,1,0,8,1,7,19,4,4,3,12,8,DDDWLLDLWWW,2,1,2,5,5,WWDWW,DWLLW
+CD Santa Clara,Olhanense,0-2,/match/santa-clara/sc-olhanense/2009,2009,13,segunda_liga,16,30,2,0,2,1,27,6,4,2,24,13,DWDWWWDLWWWD,5,1,0,15,4,2,26,7,2,3,23,16,WWWWDLLWWWLD,3,0,3,13,13,WWWDWW,WWLLWL
+SP. Covilhã,Vizela,1-1,/match/sporting-covilha/vizela/2009,2009,13,segunda_liga,16,30,1,1,1,10,18,4,4,4,18,19,WWLDLDDLDLWW,2,2,2,12,11,8,19,4,3,5,11,18,WLWWDLDWWWDW,0,3,3,4,10,WDDLLW,WWDDWD
+Estoril,Varzim,1-0,/match/estoril/varzim/2009,2009,13,segunda_liga,16,30,0,1,0,6,20,3,6,3,13,11,WDWWLDDDDDWW,2,4,0,7,3,5,22,5,2,5,16,15,WWDWWWDWWWWL,0,2,4,4,8,DWDDDW,WDWDWW
+Gondomar,Desportivo Aves,0-1,/match/gondomar/desportivo-aves/2009,2009,13,segunda_liga,16,30,2,0,1,14,17,3,4,5,9,11,WDWLWDWDDWWL,2,3,1,6,3,13,17,3,5,4,11,15,WLDDWLDWWLDD,1,3,2,6,11,DLDWDW,LDWDWD
+SC Freamunde,Feirense,2-2,/match/sc-freamunde/feirense/2009,2009,13,segunda_liga,16,30,1,2,2,9,18,4,3,5,11,11,WWWDLDDWWLLW,3,1,2,7,5,3,25,6,2,4,16,9,WWWDDWWWWWLW,1,1,4,6,8,WWLDWL,WDWWWL
+Gil Vicente,Boavista,2-0,/match/gil-vicente/boavista/2009,2009,13,segunda_liga,16,30,0,2,0,4,23,4,7,1,15,14,DWDDDWWDDLDL,2,4,0,8,6,12,17,4,2,6,11,16,WWLDDWWLWWWL,1,1,4,3,10,WDWDDD,WLDWWW
+União de Leiria,UD Oliveirense,1-0,/match/uniao-leiria/ud-oliveirense/2009,2009,13,segunda_liga,16,30,0,1,0,16,16,2,6,4,10,13,WLDLDDDWWWDD,1,4,1,5,5,15,17,3,3,6,10,15,DDLWWWDWWWWW,0,1,5,2,9,LDDDWD,DWWWWW
+Portimonense,Beira Mar SC,1-1,/match/portimonense/beira-mar/2009,2009,13,segunda_liga,16,30,1,1,1,11,17,4,3,5,13,17,WLLWWDLDWDLW,3,0,3,11,10,7,19,4,4,4,12,10,DDDWLLDLWWWW,2,1,3,5,7,WLWLWL,DWLLWW
+UD Oliveirense,CD Santa Clara,1-2,/match/ud-oliveirense/santa-clara/2009,2009,14,segunda_liga,16,30,2,1,2,16,17,3,3,7,10,16,DDLWWWDWWWWWW,3,2,1,8,6,2,27,6,4,3,24,15,DWDWWWDLWWWDL,1,3,2,9,9,DLWDWW,DDWLWD
+Boavista,Estoril,2-0,/match/boavista/estoril/2009,2009,14,segunda_liga,16,30,0,2,0,14,17,4,2,7,11,18,WWLDDWWLWWWLW,3,1,2,8,6,5,24,4,6,3,14,11,WDWWLDDDDDWWW,1,2,3,6,8,WDWLWL,WWLDDW
+Desportivo Aves,Gil Vicente,2-0,/match/desportivo-aves/gil-vicente/2009,2009,14,segunda_liga,16,30,0,2,0,13,19,4,5,4,12,15,WLDDWLDWWLDDL,2,2,2,5,4,3,27,5,7,1,17,14,DWDDDWWDDLDLW,2,3,1,7,8,WDLWLD,DDDWLL
+Olhanense,Gondomar,2-0,/match/sc-olhanense/gondomar/2009,2009,14,segunda_liga,16,30,0,2,0,1,28,8,2,3,25,16,WWWWDLLWWWLDL,4,2,0,10,3,15,17,3,4,6,9,12,WDWLWDWDDWWLL,1,1,4,3,8,WWDWWD,WWWDWL
+Feirense,União de Leiria,0-0,/match/feirense/uniao-leiria/2009,2009,14,segunda_liga,16,30,1,0,0,4,26,6,3,4,18,11,WWWDDWWWWWLWD,5,1,0,10,1,11,20,3,6,4,11,13,WLDLDDDWWWDDW,1,2,3,5,8,WWDWWW,WLDWWD
+Beira Mar SC,SC Freamunde,1-0,/match/beira-mar/sc-freamunde/2009,2009,14,segunda_liga,16,30,0,1,0,7,20,4,5,4,13,11,DDDWLLDLWWWWD,2,3,1,7,3,9,20,4,4,5,13,13,WWWDLDDWWLLWD,1,2,3,4,6,DDLDWW,WDDWLW
+Portimonense,Vizela,2-2,/match/portimonense/vizela/2009,2009,14,segunda_liga,16,30,1,2,2,12,19,4,4,5,14,18,WLLWWDLDWDLWD,3,1,3,12,11,8,20,4,4,5,12,19,WLWWDLDWWWDWD,0,4,3,5,11,WLWLWLD,WWDDWDD
+Varzim,SP. Covilhã,1-1,/match/varzim/sporting-covilha/2009,2009,14,segunda_liga,16,30,1,1,1,6,22,5,2,6,16,16,WWDWWWDWWWWLW,5,0,1,12,7,10,20,4,5,4,19,20,WWLDLDDLDLWWD,2,2,2,6,8,WWWWWL,WLLDDW
+Gil Vicente,Olhanense,3-0,/match/gil-vicente/sc-olhanense/2009,2009,15,segunda_liga,16,30,0,3,0,4,27,5,7,2,17,16,DWDDDWWDDLDLWW,3,4,0,10,6,1,32,9,2,3,27,16,WWWWDLLWWWLDLW,4,0,3,15,13,WDWDDDW,WWLLWLL
+Vizela,Varzim,1-1,/match/vizela/varzim/2009,2009,15,segunda_liga,16,30,1,1,1,9,21,4,5,5,14,21,WLWWDLDWWWDWDD,4,0,2,7,8,6,24,5,3,6,17,17,WWDWWWDWWWWLWD,0,2,5,4,9,LWLWWW,WDWDWWW
+SP. Covilhã,Boavista,1-0,/match/sporting-covilha/boavista/2009,2009,15,segunda_liga,16,30,0,1,0,10,21,4,6,4,20,21,WWLDLDDLDLWWDD,2,3,2,13,12,13,21,5,2,7,13,18,WWLDDWWLWWWLWW,1,1,5,3,12,WDDLLWD,WLDWWWW
+Estoril,Desportivo Aves,3-2,/match/estoril/desportivo-aves/2009,2009,15,segunda_liga,16,30,0,3,2,5,24,4,6,4,14,13,WDWWLDDDDDWWWW,3,4,0,8,3,8,23,5,5,4,14,15,WLDDWLDWWLDDLW,2,3,2,7,11,DWDDDWW,LDWDWDL
+Gondomar,UD Oliveirense,0-0,/match/gondomar/ud-oliveirense/2009,2009,15,segunda_liga,16,30,1,0,0,15,17,3,4,7,9,14,WDWLWDWDDWWLLW,2,3,2,6,4,16,17,3,3,8,11,18,DDLWWWDWWWWWWL,0,1,6,2,10,DLDWDWL,DWWWWWW
+SC Freamunde,Portimonense,0-0,/match/sc-freamunde/portimonense/2009,2009,15,segunda_liga,16,30,1,0,0,14,20,4,4,6,13,14,WWWDLDDWWLLWDW,3,2,2,9,7,12,21,4,5,5,16,20,WLLWWDLDWDLWDD,1,3,2,2,7,WWLDWLD,LWDDDW
+CD Santa Clara,Feirense,1-0,/match/santa-clara/feirense/2009,2009,15,segunda_liga,16,30,0,1,0,2,29,7,4,3,26,16,DWDWWWDLWWWDLL,5,1,1,15,6,3,28,6,4,4,18,11,WWWDDWWWWWLWDD,1,2,4,8,10,WWWDWWL,WDWWWLD
+União de Leiria,Beira Mar SC,2-1,/match/uniao-leiria/beira-mar/2009,2009,15,segunda_liga,16,30,0,2,1,11,21,3,7,4,11,13,WLDLDDDWWWDDWD,2,4,1,6,5,7,24,5,5,4,14,11,DDDWLLDLWWWWDW,2,2,3,6,8,LDDDWDW,DWLLWWD
+Estoril,Olhanense,2-1,/match/estoril/sc-olhanense/2009,2009,16,segunda_liga,16,30,0,2,1,5,28,5,6,4,17,15,WDWWLDDDDDWWWWW,4,4,0,11,5,2,32,9,2,4,27,19,WWWWDLLWWWLDLWW,4,0,4,15,16,DWDDDWWW,WWLLWLLW
+Gondomar,Feirense,0-1,/match/gondomar/feirense/2009,2009,16,segunda_liga,16,30,2,0,1,15,19,3,5,7,9,14,WDWLWDWDDWWLLWD,2,4,2,6,4,4,28,6,4,5,18,12,WWWDDWWWWWLWDDW,1,2,5,8,11,DLDWDWLD,WDWWWLDW
+SP. Covilhã,Desportivo Aves,0-2,/match/sporting-covilha/desportivo-aves/2009,2009,16,segunda_liga,16,30,2,0,2,7,25,5,6,4,21,21,WWLDLDDLDLWWDDW,3,3,2,14,12,10,23,5,5,5,16,18,WLDDWLDWWLDDLWW,2,3,3,9,14,WDDLLWDW,LDWDWDLW
+Vizela,Boavista,0-0,/match/vizela/boavista/2009,2009,16,segunda_liga,16,30,1,0,0,11,23,4,6,5,15,22,WLWWDLDWWWDWDDD,4,1,2,8,9,14,21,5,2,8,13,19,WWLDDWWLWWWLWWW,1,1,6,3,13,LWLWWWD,WLDWWWWW
+União de Leiria,SC Freamunde,3-0,/match/uniao-leiria/sc-freamunde/2009,2009,16,segunda_liga,16,30,0,3,0,8,25,4,7,4,13,14,WLDLDDDWWWDDWDW,3,4,1,8,6,13,22,4,5,6,13,14,WWWDLDDWWLLWDWD,1,2,4,4,7,LDDDWDWW,WDDWLWW
+CD Santa Clara,Beira Mar SC,1-0,/match/santa-clara/beira-mar/2009,2009,16,segunda_liga,16,30,0,1,0,1,33,8,4,3,27,16,DWDWWWDLWWWDLLW,6,1,1,16,6,9,24,5,5,5,15,13,DDDWLLDLWWWWDWW,2,2,4,7,10,WWWDWWLW,DWLLWWDW
+Gil Vicente,UD Oliveirense,1-1,/match/gil-vicente/ud-oliveirense/2009,2009,16,segunda_liga,16,30,1,1,1,3,31,6,7,2,20,16,DWDDDWWDDLDLWWW,4,4,0,13,6,16,18,3,4,8,11,18,DDLWWWDWWWWWWLD,0,2,6,2,10,WDWDDDWW,DWWWWWWD
+Varzim,Portimonense,1-0,/match/varzim/portimonense/2009,2009,16,segunda_liga,16,30,0,1,0,6,25,5,4,6,18,18,WWDWWWDWWWWLWDD,5,1,1,13,8,12,22,4,6,5,16,20,WLLWWDLDWDLWDDD,1,4,2,2,7,WWWWWLD,LWDDDWD
+SC Freamunde,CD Santa Clara,2-1,/match/sc-freamunde/santa-clara/2009,2009,17,segunda_liga,16,30,0,2,1,13,22,4,5,7,13,17,WWWDLDDWWLLWDWDW,3,3,2,9,7,1,37,9,4,3,28,16,DWDWWWDLWWWDLLWW,2,3,2,11,10,WWLDWLDD,DDWLWDL
+Beira Mar SC,Gondomar,2-1,/match/beira-mar/gondomar/2009,2009,17,segunda_liga,16,30,0,2,1,11,24,5,5,6,15,14,DDDWLLDLWWWWDWWW,3,3,1,8,3,15,19,3,5,8,9,15,WDWLWDWDDWWLLWDL,1,1,5,3,10,DDLDWWW,WWWDWLW
+Feirense,Gil Vicente,2-1,/match/feirense/gil-vicente/2009,2009,17,segunda_liga,16,30,0,2,1,5,30,7,4,5,19,12,WWWDDWWWWWLWDDWL,5,2,0,10,1,2,33,6,8,2,21,17,DWDDDWWDDLDLWWWD,2,3,2,7,10,WWDWWWD,DDDWLLW
+UD Oliveirense,Estoril,0-2,/match/ud-oliveirense/estoril/2009,2009,17,segunda_liga,16,30,2,0,2,16,19,3,5,8,12,19,DDLWWWDWWWWWWLDD,3,2,2,9,8,4,32,6,6,4,19,16,WDWWLDDDDDWWWWWW,1,2,4,6,10,DLWDWWL,WWLDDWW
+Olhanense,SP. Covilhã,1-2,/match/sc-olhanense/sporting-covilha/2009,2009,17,segunda_liga,16,30,2,1,2,3,32,9,2,5,28,21,WWWWDLLWWWLDLWWW,5,2,0,12,3,8,25,5,6,5,21,23,WWLDLDDLDLWWDDWL,2,3,2,7,9,WWDWWDW,WLLDDWD
+Desportivo Aves,Vizela,1-3,/match/desportivo-aves/vizela/2009,2009,17,segunda_liga,16,30,2,1,3,9,25,6,5,5,18,18,WLDDWLDWWLDDLWWL,3,2,2,7,4,10,25,4,7,5,15,22,WLWWDLDWWWDWDDDD,0,5,3,7,13,WDLWLDW,WWDDWDDD
+Boavista,Varzim,2-0,/match/boavista/varzim/2009,2009,17,segunda_liga,16,30,0,2,0,14,22,5,3,8,13,19,WWLDDWWLWWWLWWWD,4,1,2,10,6,6,29,6,4,6,19,18,WWDWWWDWWWWLWDDW,0,3,5,5,10,WDWLWLW,WDWDWWWD
+Portimonense,União de Leiria,0-1,/match/portimonense/uniao-leiria/2009,2009,17,segunda_liga,16,30,2,0,1,12,22,4,6,6,16,21,WLLWWDLDWDLWDDDW,3,2,3,14,13,7,29,5,7,4,16,14,WLDLDDDWWWDDWDWW,1,3,3,5,8,WLWLWLDD,WLDWWDD
+Vizela,Olhanense,0-0,/match/vizela/sc-olhanense/2009,2009,18,segunda_liga,16,30,1,0,0,10,27,5,7,5,18,23,WLWWDLDWWWDWDDDDL,4,2,2,8,9,5,32,9,2,6,29,23,WWWWDLLWWWLDLWWWL,4,0,5,16,18,LWLWWWDD,WWLLWLLWW
+Estoril,Feirense,2-2,/match/estoril/feirense/2009,2009,18,segunda_liga,16,30,1,2,2,2,34,7,6,4,21,16,WDWWLDDDDDWWWWWWL,5,4,0,13,6,3,34,8,4,5,21,13,WWWDDWWWWWLWDDWLW,2,2,5,9,11,DWDDDWWWW,WDWWWLDWL
+SP. Covilhã,UD Oliveirense,3-2,/match/sporting-covilha/ud-oliveirense/2009,2009,18,segunda_liga,16,30,0,3,2,9,27,6,6,5,23,24,WWLDLDDLDLWWDDWLL,3,3,3,14,14,16,19,3,5,9,12,21,DDLWWWDWWWWWWLDDL,0,3,6,3,11,WDDLLWDWL,DWWWWWWDD
+Boavista,Portimonense,0-1,/match/boavista/portimonense/2009,2009,18,segunda_liga,16,30,2,0,1,12,26,6,3,8,15,19,WWLDDWWLWWWLWWWDW,5,1,2,12,6,14,22,4,6,7,16,22,WLLWWDLDWDLWDDDWL,1,4,3,2,8,WDWLWLWW,LWDDDWDW
+Gondomar,SC Freamunde,1-3,/match/gondomar/sc-freamunde/2009,2009,18,segunda_liga,16,30,2,1,3,15,19,3,5,9,10,17,WDWLWDWDDWWLLWDLW,2,4,3,6,5,11,26,5,5,7,15,18,WWWDLDDWWLLWDWDWW,1,2,5,4,10,DLDWDWLDL,WDDWLWWW
+CD Santa Clara,União de Leiria,2-0,/match/santa-clara/uniao-leiria/2009,2009,18,segunda_liga,16,30,0,2,0,1,37,9,4,4,29,18,DWDWWWDLWWWDLLWWW,7,1,1,17,6,6,31,6,7,4,17,14,WLDLDDDWWWDDWDWWL,2,3,3,6,8,WWWDWWLWW,WLDWWDDL
+Gil Vicente,Beira Mar SC,2-2,/match/gil-vicente/beira-mar/2009,2009,18,segunda_liga,16,30,1,2,2,4,33,6,8,3,22,19,DWDDDWWDDLDLWWWDW,4,5,0,14,7,8,28,6,5,6,17,15,DDDWLLDLWWWWDWWWW,2,2,5,7,11,WDWDDDWWD,DWLLWWDWW
+Varzim,Desportivo Aves,1-0,/match/varzim/desportivo-aves/2009,2009,18,segunda_liga,16,30,0,1,0,7,29,6,4,7,19,20,WWDWWWDWWWWLWDDWW,6,1,1,14,8,13,25,6,5,6,19,21,WLDDWLDWWLDDLWWLL,3,3,3,11,14,WWWWWLDW,LDWDWDLWL
+Portimonense,CD Santa Clara,1-1,/match/portimonense/santa-clara/2009,2009,19,segunda_liga,16,30,1,1,1,14,24,5,6,7,17,22,WLLWWDLDWDLWDDDWLL,3,2,4,14,14,1,41,10,4,4,31,18,DWDWWWDLWWWDLLWWWW,2,3,3,12,12,WLWLWLDDL,DDWLWDLW
+SC Freamunde,Gil Vicente,1-0,/match/sc-freamunde/gil-vicente/2009,2009,19,segunda_liga,16,30,0,1,0,11,28,6,5,7,18,19,WWWDLDDWWLLWDWDWWL,4,3,2,11,8,4,35,6,9,3,24,21,DWDDDWWDDLDLWWWDWD,2,3,3,8,12,WWLDWLDDW,DDDWLLWW
+Beira Mar SC,Estoril,3-1,/match/beira-mar/estoril/2009,2009,19,segunda_liga,16,30,0,3,1,9,29,6,6,6,19,17,DDDWLLDLWWWWDWWWWD,4,3,1,10,4,2,36,7,7,4,23,18,WDWWLDDDDDWWWWWWLD,2,2,4,8,10,DDLDWWWW,WWLDDWWL
+Feirense,SP. Covilhã,2-1,/match/feirense/sporting-covilha/2009,2009,19,segunda_liga,16,30,0,2,1,3,35,8,5,5,23,15,WWWDDWWWWWLWDDWLWD,6,2,0,12,2,8,31,7,6,5,26,26,WWLDLDDLDLWWDDWLLW,3,3,2,9,10,WWDWWWDW,WLLDDWDL
+UD Oliveirense,Vizela,0-0,/match/ud-oliveirense/vizela/2009,2009,19,segunda_liga,16,30,1,0,0,16,19,3,5,10,14,24,DDLWWWDWWWWWWLDDLW,3,2,3,9,10,10,29,5,8,5,18,23,WLWWDLDWWWDWDDDDLD,1,5,3,10,14,DLWDWWLL,WWDDWDDDL
+Olhanense,Varzim,1-0,/match/sc-olhanense/varzim/2009,2009,19,segunda_liga,16,30,0,1,0,5,33,9,3,6,29,23,WWWWDLLWWWLDLWWWLD,5,2,1,13,5,6,33,7,4,7,20,20,WWDWWWDWWWWLWDDWWW,0,3,6,5,12,WWDWWDWL,WDWDWWWDW
+Desportivo Aves,Boavista,2-0,/match/desportivo-aves/boavista/2009,2009,19,segunda_liga,16,30,0,2,0,13,25,6,5,7,19,22,WLDDWLDWWLDDLWWLLW,3,2,3,8,7,12,26,6,3,9,15,20,WWLDDWWLWWWLWWWDWL,1,2,6,3,13,WDLWLDWL,WLDWWWWWD
+União de Leiria,Gondomar,3-1,/match/uniao-leiria/gondomar/2009,2009,19,segunda_liga,16,30,0,3,1,7,31,6,7,5,17,16,WLDLDDDWWWDDWDWWLW,4,4,1,11,6,15,19,3,5,10,11,20,WDWLWDWDDWWLLWDLWL,1,1,6,4,12,LDDDWDWWW,WWWDWLWW
+Gondomar,CD Santa Clara,1-2,/match/gondomar/santa-clara/2009,2009,20,segunda_liga,16,30,2,1,2,16,19,3,5,11,12,23,WDWLWDWDDWWLLWDLWLW,2,4,4,7,8,1,42,10,5,4,32,19,DWDWWWDLWWWDLLWWWWD,2,4,3,13,13,DLDWDWLDLL,DDWLWDLWD
+Estoril,SC Freamunde,3-0,/match/estoril/sc-freamunde/2009,2009,20,segunda_liga,16,30,0,3,0,4,36,7,7,5,24,21,WDWWLDDDDDWWWWWWLDW,5,5,0,15,8,9,32,7,5,7,19,19,WWWDLDDWWLLWDWDWWLW,2,2,5,7,11,DWDDDWWWWD,WDDWLWWWL
+Boavista,Olhanense,1-4,/match/boavista/sc-olhanense/2009,2009,20,segunda_liga,16,30,2,1,4,13,26,6,3,10,15,22,WWLDDWWLWWWLWWWDWLW,5,1,3,12,7,3,37,10,3,6,30,23,WWWWDLLWWWLDLWWWLDW,4,1,5,16,18,WDWLWLWWL,WWLLWLLWWD
+Desportivo Aves,Portimonense,0-0,/match/desportivo-aves/portimonense/2009,2009,20,segunda_liga,16,30,1,0,0,12,29,7,5,7,21,22,WLDDWLDWWLDDLWWLLWW,4,2,3,10,7,14,26,5,7,7,18,23,WLLWWDLDWDLWDDDWLLD,2,4,3,3,8,WDLWLDWLW,LWDDDWDWL
+Gil Vicente,União de Leiria,1-1,/match/gil-vicente/uniao-leiria/2009,2009,20,segunda_liga,16,30,1,1,1,5,35,6,9,4,24,22,DWDDDWWDDLDLWWWDWDW,4,6,0,16,9,6,35,7,7,5,20,17,WLDLDDDWWWDDWDWWLWW,2,3,4,6,10,WDWDDDWWDD,WLDWWDDLW
+SP. Covilhã,Beira Mar SC,3-1,/match/sporting-covilha/beira-mar/2009,2009,20,segunda_liga,16,30,0,3,1,10,31,7,6,6,27,28,WWLDLDDLDLWWDDWLLWW,4,3,3,17,16,8,33,7,6,6,22,18,DDDWLLDLWWWWDWWWWDW,2,3,5,9,13,WDDLLWDWLW,DWLLWWDWWD
+Vizela,Feirense,0-0,/match/vizela/feirense/2009,2009,20,segunda_liga,16,30,1,0,0,11,30,5,9,5,18,23,WLWWDLDWWWDWDDDDLDD,4,3,2,8,9,2,39,9,5,5,25,16,WWWDDWWWWWLWDDWLWDW,2,3,5,11,13,LWLWWWDDD,WDWWWLDWLD
+Varzim,UD Oliveirense,1-1,/match/varzim/ud-oliveirense/2009,2009,20,segunda_liga,16,30,1,1,1,7,33,7,4,8,20,21,WWDWWWDWWWWLWDDWWWW,7,1,1,15,8,15,21,3,6,10,14,24,DDLWWWDWWWWWWLDDLWD,0,3,7,5,14,WWWWWLDWW,DWWWWWWDDW
+Feirense,Varzim,1-2,/match/feirense/varzim/2009,2009,21,segunda_liga,16,30,2,1,2,2,40,9,6,5,25,16,WWWDDWWWWWLWDDWLWDWD,7,2,0,14,3,7,35,7,5,8,21,22,WWDWWWDWWWWLWDDWWWWD,0,3,7,5,13,WWDWWWDWW,WDWDWWWDWW
+SC Freamunde,SP. Covilhã,0-0,/match/sc-freamunde/sporting-covilha/2009,2009,21,segunda_liga,16,30,1,0,0,10,32,7,5,8,19,22,WWWDLDDWWLLWDWDWWLWW,5,3,2,12,8,8,35,8,6,6,30,29,WWLDLDDLDLWWDDWLLWWW,3,3,3,10,12,WWLDWLDDWW,WLLDDWDLW
+UD Oliveirense,Boavista,2-0,/match/ud-oliveirense/boavista/2009,2009,21,segunda_liga,16,30,0,2,0,15,22,3,7,10,15,25,DDLWWWDWWWWWWLDDLWDD,3,3,3,9,10,14,26,6,3,11,16,26,WWLDDWWLWWWLWWWDWLWL,1,2,7,3,15,DLWDWWLLD,WLDWWWWWDW
+Olhanense,Desportivo Aves,2-0,/match/sc-olhanense/desportivo-aves/2009,2009,21,segunda_liga,16,30,0,2,0,4,39,11,3,6,34,24,WWWWDLLWWWLDLWWWLDWL,6,2,1,14,5,12,31,7,6,7,21,22,WLDDWLDWWLDDLWWLLWWD,3,3,4,11,15,WWDWWDWLW,LDWDWDLWLW
+Portimonense,Gondomar,2-2,/match/portimonense/gondomar/2009,2009,21,segunda_liga,16,30,1,2,2,13,27,5,8,7,18,23,WLLWWDLDWDLWDDDWLLDD,3,3,4,15,15,16,19,3,5,12,13,25,WDWLWDWDDWWLLWDLWLWL,1,1,7,5,15,WLWLWLDDLD,WWWDWLWWW
+CD Santa Clara,Gil Vicente,0-2,/match/santa-clara/gil-vicente/2009,2009,21,segunda_liga,16,30,2,0,2,1,44,11,5,4,34,20,DWDWWWDLWWWDLLWWWWDL,8,1,1,19,6,5,37,6,10,4,25,23,DWDDDWWDDLDLWWWDWDWD,2,3,4,8,13,WWWDWWLWWW,DDDWLLWWW
+União de Leiria,Estoril,4-2,/match/uniao-leiria/estoril/2009,2009,21,segunda_liga,16,30,0,4,2,6,36,7,8,5,21,18,WLDLDDDWWWDDWDWWLWWD,5,4,1,14,7,3,40,8,7,5,27,21,WDWWLDDDDDWWWWWWLDWW,2,2,5,9,13,LDDDWDWWWW,WWLDDWWLW
+Beira Mar SC,Vizela,1-1,/match/beira-mar/vizela/2009,2009,21,segunda_liga,16,30,1,1,1,9,33,7,6,7,23,21,DDDWLLDLWWWWDWWWWDWW,5,3,1,13,5,11,32,5,10,5,18,23,WLWWDLDWWWDWDDDDLDDD,1,6,3,10,14,DDLDWWWWW,WWDDWDDDLD
+Olhanense,Portimonense,4-0,/match/sc-olhanense/portimonense/2009,2009,22,segunda_liga,16,30,0,4,0,2,43,12,3,6,36,24,WWWWDLLWWWLDLWWWLDWLW,7,2,1,16,5,13,29,5,9,7,20,25,WLLWWDLDWDLWDDDWLLDDD,2,5,3,3,8,WWDWWDWLWW,LWDDDWDWLD
+Gil Vicente,Gondomar,3-3,/match/gil-vicente/gondomar/2009,2009,22,segunda_liga,16,30,1,3,3,6,39,7,10,4,27,23,DWDDDWWDDLDLWWWDWDWDL,4,7,0,17,10,16,20,3,6,12,15,27,WDWLWDWDDWWLLWDLWLWLD,1,2,7,7,17,WDWDDDWWDDD,WWWDWLWWWD
+Estoril,CD Santa Clara,1-2,/match/estoril/santa-clara/2009,2009,22,segunda_liga,16,30,2,1,2,4,40,8,7,6,29,25,WDWWLDDDDDWWWWWWLDWWW,6,5,0,18,8,1,44,11,5,5,34,22,DWDWWWDLWWWDLLWWWWDLL,3,4,3,15,14,DWDDDWWWWDW,DDWLWDLWDL
+SP. Covilhã,União de Leiria,2-3,/match/sporting-covilha/uniao-leiria/2009,2009,22,segunda_liga,16,30,2,2,3,8,36,8,7,6,30,29,WWLDLDDLDLWWDDWLLWWWD,5,3,3,20,17,5,40,8,8,5,25,20,WLDLDDDWWWDDWDWWLWWDW,2,4,4,7,11,WDDLLWDWLWW,WLDWWDDLWD
+Vizela,SC Freamunde,1-1,/match/vizela/sc-freamunde/2009,2009,22,segunda_liga,16,30,1,1,1,11,33,5,11,5,19,24,WLWWDLDWWWDWDDDDLDDDD,4,4,2,8,9,10,34,7,6,8,19,22,WWWDLDDWWLLWDWDWWLWWD,2,2,6,7,14,LWLWWWDDDD,WDDWLWWWLW
+Varzim,Beira Mar SC,1-0,/match/varzim/beira-mar/2009,2009,22,segunda_liga,16,30,0,1,0,7,37,8,5,8,23,23,WWDWWWDWWWWLWDDWWWWDL,7,2,1,16,9,9,35,7,7,7,24,22,DDDWLLDLWWWWDWWWWDWWD,2,3,6,10,16,WWWWWLDWWD,DWLLWWDWWDW
+Boavista,Feirense,2-2,/match/boavista/feirense/2009,2009,22,segunda_liga,16,30,1,2,2,14,26,6,3,12,16,28,WWLDDWWLWWWLWWWDWLWLW,5,1,4,13,11,3,40,9,6,6,26,18,WWWDDWWWWWLWDDWLWDWDL,2,4,5,11,13,WDWLWLWWLL,WDWWWLDWLDD
+Desportivo Aves,UD Oliveirense,2-2,/match/desportivo-aves/ud-oliveirense/2009,2009,22,segunda_liga,16,30,1,2,2,12,31,7,6,8,21,24,WLDDWLDWWLDDLWWLLWWDW,4,3,3,10,7,15,26,4,7,10,17,25,DDLWWWDWWWWWWLDDLWDDW,0,4,7,6,15,WDLWLDWLWD,DWWWWWWDDWD
+União de Leiria,Vizela,1-1,/match/uniao-leiria/vizela/2009,2009,23,segunda_liga,16,30,1,1,1,3,42,9,8,5,28,22,WLDLDDDWWWDDWDWWLWWDWL,6,4,1,18,9,11,35,5,12,5,20,25,WLWWDLDWWWDWDDDDLDDDDD,1,7,3,11,15,LDDDWDWWWWW,WWDDWDDDLDD
+Beira Mar SC,Boavista,3-1,/match/beira-mar/boavista/2009,2009,23,segunda_liga,16,30,0,3,1,9,35,7,7,8,24,23,DDDWLLDLWWWWDWWWWDWWDW,5,4,1,14,6,14,28,6,4,12,18,30,WWLDDWWLWWWLWWWDWLWLWD,1,2,8,3,17,DDLDWWWWWD,WLDWWWWWDWW
+SC Freamunde,Varzim,2-1,/match/sc-freamunde/varzim/2009,2009,23,segunda_liga,16,30,0,2,1,10,35,7,7,8,20,23,WWWDLDDWWLLWDWDWWLWWDD,5,4,2,12,8,6,41,9,5,8,24,23,WWDWWWDWWWWLWDDWWWWDLW,1,3,7,7,14,WWLDWLDDWWD,WDWDWWWDWWL
+Portimonense,Gil Vicente,3-0,/match/portimonense/gil-vicente/2009,2009,23,segunda_liga,16,30,0,3,0,13,29,5,9,8,20,29,WLLWWDLDWDLWDDDWLLDDDW,3,4,4,17,17,5,41,7,11,4,30,26,DWDDDWWDDLDLWWWDWDWDLD,3,3,4,10,13,WLWLWLDDLDD,DDDWLLWWWL
+Gondomar,Estoril,3-0,/match/gondomar/estoril/2009,2009,23,segunda_liga,16,30,0,3,0,16,21,3,7,12,18,30,WDWLWDWDDWWLLWDLWLWLDD,2,4,5,8,10,7,40,8,7,7,30,27,WDWWLDDDDDWWWWWWLDWWWL,2,2,6,11,17,DLDWDWLDLLL,WWLDDWWLWW
+CD Santa Clara,SP. Covilhã,1-1,/match/santa-clara/sporting-covilha/2009,2009,23,segunda_liga,16,30,1,1,1,2,46,12,5,5,36,23,DWDWWWDLWWWDLLWWWWDLLL,8,1,2,19,8,8,36,8,7,7,32,32,WWLDLDDLDLWWDDWLLWWWDL,3,4,3,10,12,WWWDWWLWWWL,WLLDDWDLWD
+Feirense,Desportivo Aves,2-1,/match/feirense/desportivo-aves/2009,2009,23,segunda_liga,16,30,0,2,1,4,41,9,7,6,28,20,WWWDDWWWWWLWDDWLWDWDLD,7,2,1,15,5,12,33,7,7,8,23,26,WLDDWLDWWLDDLWWLLWWDWD,3,3,5,11,17,WWDWWWDWWL,LDWDWDLWLWW
+UD Oliveirense,Olhanense,1-0,/match/ud-oliveirense/sc-olhanense/2009,2009,23,segunda_liga,16,30,0,1,0,15,27,4,8,10,19,27,DDLWWWDWWWWWWLDDLWDDWD,4,3,3,11,10,1,47,13,3,6,40,24,WWWWDLLWWWLDLWWWLDWLWW,5,1,5,20,19,DLWDWWLLDW,WWLLWLLWWDL
+Desportivo Aves,Beira Mar SC,1-0,/match/desportivo-aves/beira-mar/2009,2009,24,segunda_liga,16,30,0,1,0,12,33,7,7,9,24,28,WLDDWLDWWLDDLWWLLWWDWDW,4,4,3,12,9,8,39,8,7,8,27,24,DDDWLLDLWWWWDWWWWDWWDWW,2,3,7,10,17,WDLWLDWLWDD,DWLLWWDWWDWW
+Vizela,CD Santa Clara,1-2,/match/vizela/santa-clara/2009,2009,24,segunda_liga,16,30,2,1,2,11,36,5,13,5,21,26,WLWWDLDWWWDWDDDDLDDDDDD,4,5,2,9,10,1,48,12,6,5,37,24,DWDWWWDLWWWDLLWWWWDLLLD,4,4,3,17,15,LWLWWWDDDDD,DDWLWDLWDLL
+Estoril,Gil Vicente,2-1,/match/estoril/gil-vicente/2009,2009,24,segunda_liga,16,30,0,2,1,7,40,8,7,8,30,30,WDWWLDDDDDWWWWWWLDWWWLW,6,5,1,19,10,5,41,7,11,5,30,29,DWDDDWWDDLDLWWWDWDWDLDW,3,3,5,10,16,DWDDDWWWWDWL,DDDWLLWWWLW
+SP. Covilhã,Gondomar,1-3,/match/sporting-covilha/gondomar/2009,2009,24,segunda_liga,16,30,2,1,3,10,37,8,8,7,33,33,WWLDLDDLDLWWDDWLLWWWDLD,5,3,4,22,20,16,25,4,7,12,21,30,WDWLWDWDDWWLLWDLWLWLDDW,1,3,7,10,20,WDDLLWDWLWWL,WWWDWLWWWDD
+Varzim,União de Leiria,0-2,/match/varzim/uniao-leiria/2009,2009,24,segunda_liga,16,30,2,0,2,6,41,9,5,9,25,25,WWDWWWDWWWWLWDDWWWWDLWW,8,2,1,17,9,4,44,9,9,5,29,23,WLDLDDDWWWDDWDWWLWWDWLD,3,4,4,10,13,WWWWWLDWWDW,WLDWWDDLWDL
+Boavista,SC Freamunde,2-1,/match/boavista/sc-freamunde/2009,2009,24,segunda_liga,16,30,0,2,1,15,28,6,4,13,19,33,WWLDDWWLWWWLWWWDWLWLWDW,5,2,4,15,13,9,39,8,7,8,22,24,WWWDLDDWWLLWDWDWWLWWDDW,2,3,6,8,15,WDWLWLWWLLD,WDDWLWWWLWD
+Olhanense,Feirense,2-1,/match/sc-olhanense/feirense/2009,2009,24,segunda_liga,16,30,0,2,1,2,47,13,3,7,40,25,WWWWDLLWWWLDLWWWLDWLWWW,8,2,1,20,5,3,45,10,7,6,30,21,WWWDDWWWWWLWDDWLWDWDLDW,2,5,5,13,15,WWDWWDWLWWW,WDWWWLDWLDDD
+UD Oliveirense,Portimonense,0-0,/match/ud-oliveirense/portimonense/2009,2009,24,segunda_liga,16,30,1,0,0,14,31,5,8,10,20,27,DDLWWWDWWWWWWLDDLWDDWDW,5,3,3,12,10,13,33,6,9,8,23,29,WLLWWDLDWDLWDDDWLLDDDWW,2,5,4,3,12,DLWDWWLLDWW,LWDDDWDWLDW
+Beira Mar SC,Olhanense,1-1,/match/beira-mar/sc-olhanense/2009,2009,25,segunda_liga,16,30,1,1,1,8,39,8,7,9,27,25,DDDWLLDLWWWWDWWWWDWWDWWW,6,4,1,17,7,1,51,14,3,7,42,26,WWWWDLLWWWLDLWWWLDWLWWWW,5,1,6,20,20,DDLDWWWWWDW,WWLLWLLWWDLW
+SC Freamunde,Desportivo Aves,1-2,/match/sc-freamunde/desportivo-aves/2009,2009,25,segunda_liga,16,30,2,1,2,9,39,8,7,9,23,26,WWWDLDDWWLLWDWDWWLWWDDWW,6,4,2,14,9,11,37,8,7,9,25,28,WLDDWLDWWLDDLWWLLWWDWDWW,3,3,6,12,19,WWLDWLDDWWDW,LDWDWDLWLWWW
+Portimonense,Estoril,1-2,/match/portimonense/estoril/2009,2009,25,segunda_liga,16,30,2,1,2,13,34,6,10,8,23,29,WLLWWDLDWDLWDDDWLLDDDWWD,4,4,4,20,17,5,44,9,7,8,32,31,WDWWLDDDDDWWWWWWLDWWWLWW,2,2,7,11,20,WLWLWLDDLDDW,WWLDDWWLWWW
+Gil Vicente,SP. Covilhã,1-1,/match/gil-vicente/sporting-covilha/2009,2009,25,segunda_liga,16,30,1,1,1,6,41,7,11,6,31,31,DWDDDWWDDLDLWWWDWDWDLDWW,4,8,0,20,13,10,37,8,8,8,34,36,WWLDLDDLDLWWDDWLLWWWDLDL,3,5,3,11,13,WDWDDDWWDDDD,WLLDDWDLWDD
+Gondomar,Vizela,2-0,/match/gondomar/vizela/2009,2009,25,segunda_liga,16,30,0,2,0,16,27,5,7,12,24,31,WDWLWDWDDWWLLWDLWLWLDDWL,3,4,5,11,10,12,36,5,13,6,22,28,WLWWDLDWWWDWDDDDLDDDDDDL,1,8,3,12,16,DLDWDWLDLLLW,WWDDWDDDLDDD
+CD Santa Clara,Varzim,1-0,/match/santa-clara/varzim/2009,2009,25,segunda_liga,16,30,0,1,0,2,50,13,6,5,39,25,DWDWWWDLWWWDLLWWWWDLLLDL,8,2,2,20,9,7,41,9,5,10,25,27,WWDWWWDWWWWLWDDWWWWDLWWL,1,3,8,8,16,WWWDWWLWWWLD,WDWDWWWDWWLW
+União de Leiria,Boavista,2-0,/match/uniao-leiria/boavista/2009,2009,25,segunda_liga,16,30,0,2,0,3,46,10,9,5,31,23,WLDLDDDWWWDDWDWWLWWDWLDL,6,5,1,19,10,15,32,7,4,13,21,34,WWLDDWWLWWWLWWWDWLWLWDWW,1,2,9,4,20,LDDDWDWWWWWD,WLDWWWWWDWWW
+Feirense,UD Oliveirense,0-1,/match/feirense/ud-oliveirense/2009,2009,25,segunda_liga,16,30,2,0,1,4,45,10,7,7,31,23,WWWDDWWWWWLWDDWLWDWDLDWW,8,2,1,17,6,14,33,5,9,10,20,27,DDLWWWDWWWWWWLDDLWDDWDWD,0,5,7,8,17,WWDWWWDWWLW,DWWWWWWDDWDD
+Boavista,CD Santa Clara,3-1,/match/boavista/santa-clara/2009,2009,26,segunda_liga,16,30,0,3,1,15,32,7,4,14,21,36,WWLDDWWLWWWLWWWDWLWLWDWWW,6,2,4,17,14,1,54,14,6,5,40,25,DWDWWWDLWWWDLLWWWWDLLLDLW,5,4,3,19,16,WDWLWLWWLLDW,DDWLWDLWDLLL
+Desportivo Aves,União de Leiria,0-2,/match/desportivo-aves/uniao-leiria/2009,2009,26,segunda_liga,16,30,2,0,2,10,39,9,7,9,27,29,WLDDWLDWWLDDLWWLLWWDWDWWL,5,4,3,13,9,3,50,11,9,5,33,23,WLDLDDDWWWDDWDWWLWWDWLDLW,4,4,4,12,13,WDLWLDWLWDDW,WLDWWDDLWDLL
+SP. Covilhã,Estoril,2-1,/match/sporting-covilha/estoril/2009,2009,26,segunda_liga,16,30,0,2,1,11,38,8,9,8,35,37,WWLDLDDLDLWWDDWLLWWWDLDLD,5,3,5,23,23,4,46,10,7,8,34,32,WDWWLDDDDDWWWWWWLDWWWLWWL,3,2,7,13,21,WDDLLWDWLWWLL,WWLDDWWLWWWL
+Vizela,Gil Vicente,1-1,/match/vizela/gil-vicente/2009,2009,26,segunda_liga,16,30,1,1,1,12,36,5,13,7,22,30,WLWWDLDWWWDWDDDDLDDDDDDLW,4,5,3,10,12,6,43,7,12,6,32,32,DWDDDWWDDLDLWWWDWDWDLDWWD,3,3,6,11,18,LWLWWWDDDDDL,DDDWLLWWWLWW
+Varzim,Gondomar,1-0,/match/varzim/gondomar/2009,2009,26,segunda_liga,16,30,0,1,0,7,41,9,5,11,25,28,WWDWWWDWWWWLWDDWWWWDLWWLW,8,2,2,17,11,16,31,6,7,12,26,31,WDWLWDWDDWWLLWDLWLWLDDWLW,2,3,7,13,21,WWWWWLDWWDWL,WWWDWLWWWDDL
+Olhanense,SC Freamunde,5-0,/match/sc-olhanense/sc-freamunde/2009,2009,26,segunda_liga,16,30,0,5,0,2,52,14,4,7,43,27,WWWWDLLWWWLDLWWWLDWLWWWWD,9,2,1,22,6,9,39,8,7,10,24,28,WWWDLDDWWLLWDWDWWLWWDDWWL,2,3,7,9,17,WWDWWDWLWWWW,WDDWLWWWLWDW
+UD Oliveirense,Beira Mar SC,0-0,/match/ud-oliveirense/beira-mar/2009,2009,26,segunda_liga,16,30,1,0,0,13,35,6,9,10,21,27,DDLWWWDWWWWWWLDDLWDDWDWDL,5,4,3,12,10,8,41,8,8,9,28,26,DDDWLLDLWWWWDWWWWDWWDWWWD,2,3,8,10,18,DLWDWWLLDWWD,DWLLWWDWWDWWW
+Feirense,Portimonense,1-1,/match/feirense/portimonense/2009,2009,26,segunda_liga,16,30,1,1,1,5,45,10,7,8,31,24,WWWDDWWWWWLWDDWLWDWDLDWWL,8,2,2,17,7,14,34,6,10,9,24,31,WLLWWDLDWDLWDDDWLLDDDWWDL,2,6,4,3,12,WWDWWWDWWLWL,LWDDDWDWLDWD
+Gil Vicente,Varzim,1-2,/match/gil-vicente/varzim/2009,2009,27,segunda_liga,16,30,2,1,2,7,44,7,13,6,33,33,DWDDDWWDDLDLWWWDWDWDLDWWDD,4,9,0,21,14,6,45,10,5,11,26,28,WWDWWWDWWWWLWDDWWWWDLWWLWW,1,3,9,8,17,WDWDDDWWDDDDD,WDWDWWWDWWLWW
+União de Leiria,Olhanense,5-1,/match/uniao-leiria/sc-olhanense/2009,2009,27,segunda_liga,16,30,0,5,1,3,52,12,9,5,35,23,WLDLDDDWWWDDWDWWLWWDWLDLWL,7,5,1,21,10,1,56,15,4,7,48,27,WWWWDLLWWWLDLWWWLDWLWWWWDW,5,2,6,21,21,LDDDWDWWWWWDW,WWLLWLLWWDLWD
+SC Freamunde,UD Oliveirense,1-0,/match/sc-freamunde/ud-oliveirense/2009,2009,27,segunda_liga,16,30,0,1,0,10,39,8,7,11,24,33,WWWDLDDWWLLWDWDWWLWWDDWWLW,6,4,3,15,11,13,37,6,10,10,21,27,DDLWWWDWWWWWWLDDLWDDWDWDLD,1,5,7,9,17,WWLDWLDDWWDWL,DWWWWWWDDWDDL
+Portimonense,SP. Covilhã,1-0,/match/portimonense/sporting-covilha/2009,2009,27,segunda_liga,16,30,0,1,0,15,35,6,11,9,25,32,WLLWWDLDWDLWDDDWLLDDDWWDLD,4,4,5,21,19,9,42,9,9,8,37,38,WWLDLDDLDLWWDDWLLWWWDLDLDW,3,6,3,12,14,WLWLWLDDLDDWL,WLLDDWDLWDDD
+Estoril,Vizela,0-0,/match/estoril/vizela/2009,2009,27,segunda_liga,16,30,1,0,0,5,46,10,7,9,35,34,WDWWLDDDDDWWWWWWLDWWWLWWLW,7,5,1,21,11,12,38,5,14,7,23,31,WLWWDLDWWWDWDDDDLDDDDDDLWD,1,8,4,12,18,DWDDDWWWWDWLW,WWDDWDDDLDDDW
+Gondomar,Boavista,1-1,/match/gondomar/boavista/2009,2009,27,segunda_liga,16,30,1,1,1,16,31,6,7,13,26,32,WDWLWDWDDWWLLWDLWLWLDDWLWW,4,4,5,13,10,14,36,8,4,14,24,37,WWLDDWWLWWWLWWWDWLWLWDWWWW,1,2,10,4,22,DLDWDWLDLLLWW,WLDWWWWWDWWWW
+CD Santa Clara,Desportivo Aves,1-1,/match/santa-clara/desportivo-aves/2009,2009,27,segunda_liga,16,30,1,1,1,2,54,14,6,6,41,28,DWDWWWDLWWWDLLWWWWDLLLDLWW,9,2,2,21,9,11,39,9,7,10,27,31,WLDDWLDWWLDDLWWLLWWDWDWWLL,4,3,6,14,20,WWWDWWLWWWLDW,LDWDWDLWLWWWL
+Beira Mar SC,Feirense,2-2,/match/beira-mar/feirense/2009,2009,27,segunda_liga,16,30,1,2,2,8,42,8,9,9,28,26,DDDWLLDLWWWWDWWWWDWWDWWWDD,6,5,1,18,8,4,47,10,8,8,32,25,WWWDDWWWWWLWDDWLWDWDLDWWLD,2,5,6,14,17,DDLDWWWWWDWD,WDWWWLDWLDDDW
+Olhanense,CD Santa Clara,1-0,/match/sc-olhanense/santa-clara/2009,2009,28,segunda_liga,16,30,0,1,0,1,56,15,4,8,49,32,WWWWDLLWWWLDLWWWLDWLWWWWDWW,10,2,1,27,6,2,56,14,7,6,42,29,DWDWWWDLWWWDLLWWWWDLLLDLWWD,5,4,4,20,19,WWDWWDWLWWWWW,DDWLWDLWDLLLW
+Vizela,SP. Covilhã,1-0,/match/vizela/sporting-covilha/2009,2009,28,segunda_liga,16,30,0,1,0,12,39,5,15,7,23,31,WLWWDLDWWWDWDDDDLDDDDDDLWDD,4,6,3,11,13,10,42,9,9,9,37,39,WWLDLDDLDLWWDDWLLWWWDLDLDWW,3,6,4,12,15,LWLWWWDDDDDLD,WLLDDWDLWDDDW
+Varzim,Estoril,0-3,/match/varzim/estoril/2009,2009,28,segunda_liga,16,30,2,0,3,6,47,11,5,11,28,29,WWDWWWDWWWWLWDDWWWWDLWWLWWL,9,2,2,18,11,5,48,10,8,9,35,34,WDWWLDDDDDWWWWWWLDWWWLWWLWD,3,2,8,14,23,WWWWWLDWWDWLW,WWLDDWWLWWWLW
+Boavista,Gil Vicente,0-1,/match/boavista/gil-vicente/2009,2009,28,segunda_liga,16,30,2,0,1,15,37,8,5,14,25,38,WWLDDWWLWWWLWWWDWLWLWDWWWWD,7,2,4,20,15,7,44,7,13,7,34,35,DWDDDWWDDLDLWWWDWDWDLDWWDDL,3,4,6,12,19,WDWLWLWWLLDWW,DDDWLLWWWLWWD
+Desportivo Aves,Gondomar,0-1,/match/desportivo-aves/gondomar/2009,2009,28,segunda_liga,16,30,2,0,1,11,40,9,8,10,28,32,WLDDWLDWWLDDLWWLLWWDWDWWLLD,5,4,4,13,11,16,33,6,8,13,27,33,WDWLWDWDDWWLLWDLWLWLDDWLWWD,2,3,8,13,22,WDLWLDWLWDDWL,WWWDWLWWWDDLW
+UD Oliveirense,União de Leiria,2-1,/match/ud-oliveirense/uniao-leiria/2009,2009,28,segunda_liga,16,30,0,2,1,14,37,6,10,11,21,28,DDLWWWDWWWWWWLDDLWDDWDWDLDW,5,5,3,12,10,3,56,13,9,5,40,24,WLDLDDDWWWDDWDWWLWWDWLDLWLW,5,4,4,14,13,DLWDWWLLDWWDD,WLDWWDDLWDLLL
+Feirense,SC Freamunde,1-5,/match/feirense/sc-freamunde/2009,2009,28,segunda_liga,16,30,2,1,5,4,48,10,9,8,34,27,WWWDDWWWWWLWDDWLWDWDLDWWLDD,8,3,2,18,8,9,43,9,7,11,25,33,WWWDLDDWWLLWDWDWWLWWDDWWLWW,2,3,8,9,22,WWDWWWDWWLWLD,WDDWLWWWLWDWW
+Beira Mar SC,Portimonense,0-0,/match/beira-mar/portimonense/2009,2009,28,segunda_liga,16,30,1,0,0,8,44,8,10,9,30,28,DDDWLLDLWWWWDWWWWDWWDWWWDDD,6,6,1,20,10,13,39,7,11,9,26,32,WLLWWDLDWDLWDDDWLLDDDWWDLDW,2,7,4,4,13,DDLDWWWWWDWDD,LWDDDWDWLDWDD
+Vizela,Portimonense,2-2,/match/vizela/portimonense/2009,2009,29,segunda_liga,16,30,1,2,2,10,43,6,15,7,24,31,WLWWDLDWWWDWDDDDLDDDDDDLWDDW,5,6,3,12,13,14,40,7,12,9,26,32,WLLWWDLDWDLWDDDWLLDDDWWDLDWD,2,8,4,4,13,LWLWWWDDDDDLDW,LWDDDWDWLDWDDD
+SP. Covilhã,Varzim,1-1,/match/sporting-covilha/varzim/2009,2009,29,segunda_liga,16,30,1,1,1,11,42,9,9,10,37,40,WWLDLDDLDLWWDDWLLWWWDLDLDWWW,6,3,5,25,24,6,47,11,5,12,28,32,WWDWWWDWWWWLWDDWWWWDLWWLWWLL,2,3,9,10,18,WDDLLWDWLWWLLW,WDWDWWWDWWLWWL
+Estoril,Boavista,1-2,/match/estoril/boavista/2009,2009,29,segunda_liga,16,30,2,1,2,4,50,11,8,9,38,34,WDWWLDDDDDWWWWWWLDWWWLWWLWDL,7,6,1,21,11,15,37,8,5,15,25,39,WWLDDWWLWWWLWWWDWLWLWDWWWWDL,1,3,10,5,23,DWDDDWWWWDWLWD,WLDWWWWWDWWWWD
+Gil Vicente,Desportivo Aves,1-1,/match/gil-vicente/desportivo-aves/2009,2009,29,segunda_liga,16,30,1,1,1,7,46,8,13,7,35,35,DWDDDWWDDLDLWWWDWDWDLDWWDDLL,4,9,1,22,16,13,40,9,8,11,28,33,WLDDWLDWWLDDLWWLLWWDWDWWLLDL,4,4,6,15,21,WDWDDDWWDDDDDL,LDWDWDLWLWWWLD
+Gondomar,Olhanense,0-1,/match/gondomar/sc-olhanense/2009,2009,29,segunda_liga,16,30,2,0,1,16,35,7,8,13,28,33,WDWLWDWDDWWLLWDLWLWLDDWLWWDL,4,5,5,14,11,1,60,16,4,8,50,32,WWWWDLLWWWLDLWWWLDWLWWWWDWWW,5,2,7,22,26,DLDWDWLDLLLWWD,WWLLWLLWWDLWDW
+CD Santa Clara,UD Oliveirense,3-1,/match/santa-clara/ud-oliveirense/2009,2009,29,segunda_liga,16,30,0,3,1,2,56,14,7,7,42,30,DWDWWWDLWWWDLLWWWWDLLLDLWWDW,9,3,2,22,10,12,41,7,10,11,23,29,DDLWWWDWWWWWWLDDLWDDWDWDLDWW,1,5,8,9,18,WWWDWWLWWWLDWD,DWWWWWWDDWDDLW
+União de Leiria,Feirense,2-1,/match/uniao-leiria/feirense/2009,2009,29,segunda_liga,16,30,0,2,1,3,56,13,9,6,41,26,WLDLDDDWWWDDWDWWLWWDWLDLWLWW,8,5,1,26,11,5,48,10,9,9,35,32,WWWDDWWWWWLWDDWLWDWDLDWWLDDL,2,6,6,16,19,LDDDWDWWWWWDWW,WDWWWLDWLDDDWD
+SC Freamunde,Beira Mar SC,1-0,/match/sc-freamunde/beira-mar/2009,2009,29,segunda_liga,16,30,0,1,0,9,45,10,7,11,30,34,WWWDLDDWWLLWDWDWWLWWDDWWLWWL,7,4,3,16,11,8,46,8,11,9,30,28,DDDWLLDLWWWWDWWWWDWWDWWWDDDD,2,4,8,10,18,WWLDWLDDWWDWLW,DWLLWWDWWDWWWD
+Olhanense,Gil Vicente,1-0,/match/sc-olhanense/gil-vicente/2009,2009,30,segunda_liga,16,30,0,1,0,1,62,17,4,8,51,32,WWWWDLLWWWLDLWWWLDWLWWWWDWWWL,11,2,1,28,6,8,48,8,14,7,36,36,DWDDDWWDDLDLWWWDWDWDLDWWDDLLD,4,4,6,13,19,WWDWWDWLWWWWWW,DDDWLLWWWLWWDL
+Varzim,Vizela,0-2,/match/varzim/vizela/2009,2009,30,segunda_liga,16,30,2,0,2,7,48,11,6,12,29,33,WWDWWWDWWWWLWDDWWWWDLWWLWWLLD,9,2,3,18,14,10,45,6,16,7,26,33,WLWWDLDWWWDWDDDDLDDDDDDLWDDWD,1,9,4,12,18,WWWWWLDWWDWLWL,WWDDWDDDLDDDWD
+Boavista,SP. Covilhã,1-4,/match/boavista/sporting-covilha/2009,2009,30,segunda_liga,16,30,2,1,4,15,39,9,5,15,27,40,WWLDDWWLWWWLWWWDWLWLWDWWWWDLL,7,2,5,20,16,11,44,9,10,10,38,41,WWLDLDDLDLWWDDWLLWWWDLDLDWWWD,3,6,5,12,16,WDWLWLWWLLDWWL,WLLDDWDLWDDDWW
+Desportivo Aves,Estoril,1-2,/match/desportivo-aves/estoril/2009,2009,30,segunda_liga,16,30,2,1,2,13,41,9,9,11,29,34,WLDDWLDWWLDDLWWLLWWDWDWWLLDLD,5,4,5,13,12,4,50,11,8,10,39,36,WDWWLDDDDDWWWWWWLDWWWLWWLWDLL,4,2,8,17,23,WDLWLDWLWDDWLL,WWLDDWWLWWWLWL
+UD Oliveirense,Gondomar,1-1,/match/ud-oliveirense/gondomar/2009,2009,30,segunda_liga,16,30,1,1,1,12,41,7,10,12,24,32,DDLWWWDWWWWWWLDDLWDDWDWDLDWWW,6,5,3,14,11,16,35,7,8,14,28,34,WDWLWDWDDWWLLWDLWLWLDDWLWWDLL,3,3,8,14,22,DLWDWWLLDWWDDW,WWWDWLWWWDDLWL
+Feirense,CD Santa Clara,1-0,/match/feirense/santa-clara/2009,2009,30,segunda_liga,16,30,0,1,0,6,48,10,9,10,36,34,WWWDDWWWWWLWDDWLWDWDLDWWLDDLW,8,3,3,19,13,2,60,15,7,7,45,31,DWDWWWDLWWWDLLWWWWDLLLDLWWDWW,5,4,5,20,20,WWDWWWDWWLWLDL,DDWLWDLWDLLLWW
+Beira Mar SC,União de Leiria,2-3,/match/beira-mar/uniao-leiria/2009,2009,30,segunda_liga,16,30,2,2,3,9,46,8,11,10,30,29,DDDWLLDLWWWWDWWWWDWWDWWWDDDDW,6,7,1,20,10,3,60,14,9,6,43,27,WLDLDDDWWWDDWDWWLWWDWLDLWLWWW,5,4,5,15,15,DDLDWWWWWDWDDD,WLDWWDDLWDLLLW
+Portimonense,SC Freamunde,1-1,/match/portimonense/sc-freamunde/2009,2009,30,segunda_liga,16,30,1,1,1,14,41,7,13,9,28,34,WLLWWDLDWDLWDDDWLLDDDWWDLDWDD,5,4,5,22,19,5,49,11,7,11,31,34,WWWDLDDWWLLWDWDWWLWWDDWWLWWLW,3,3,8,14,23,WLWLWLDDLDDWLW,WDDWLWWWLWDWWL

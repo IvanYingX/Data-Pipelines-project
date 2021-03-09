@@ -1,307 +1,307 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Heerenveen,Willem II,0-0,/match/heerenveen/willem-ii/2008,2008,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-NAC Breda,Groningen,0-3,/match/nac-breda/fc-groningen/2008,2008,1,eredivisie,18,34,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-AZ Alkmaar,VVV Venlo,4-0,/match/az/vvv/2008,2008,1,eredivisie,18,34,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Excelsior,Twente 1965,0-2,/match/excelsior/fc-twente-1965/2008,2008,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-NEC Nijmegen,Roda JC,1-1,/match/nec/roda-jc/2008,2008,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-De Graafschap,Ajax,1-8,/match/graafschap/ajax/2008,2008,1,eredivisie,18,34,2,1,8,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Utrecht,Feyenoord,0-3,/match/fc-utrecht/feyenoord/2008,2008,1,eredivisie,18,34,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Heracles,PSV,0-2,/match/heracles/psv/2008,2008,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sparta Rotterdam,Vitesse,1-2,/match/sparta-rotterdam/vitesse/2008,2008,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Roda JC,Heracles,2-1,/match/roda-jc/heracles/2008,2008,2,eredivisie,18,34,0,2,1,10,0,1,0,1,1,D,0,0,0,0,0,13,0,0,1,0,2,L,0,0,0,0,0,,
-PSV,NEC Nijmegen,5-0,/match/psv/nec/2008,2008,2,eredivisie,18,34,0,5,0,6,1,0,0,2,0,L,0,0,0,0,0,3,0,1,0,1,1,D,0,0,0,0,0,,
-VVV Venlo,Excelsior,3-1,/match/vvv/excelsior/2008,2008,2,eredivisie,18,34,0,3,1,14,0,0,1,0,4,W,0,0,0,0,0,12,0,0,1,0,2,L,0,0,0,0,0,,
-Willem II,Sparta Rotterdam,2-2,/match/willem-ii/sparta-rotterdam/2008,2008,2,eredivisie,18,34,1,2,2,11,0,1,0,0,0,D,0,0,0,0,0,16,0,0,1,1,2,L,0,0,0,0,0,,
-Vitesse,AZ Alkmaar,1-0,/match/vitesse/az/2008,2008,2,eredivisie,18,34,0,1,0,4,1,0,0,2,1,L,0,0,0,0,0,1,1,0,0,4,0,W,0,0,0,0,0,,
-Ajax,Heerenveen,4-1,/match/ajax/heerenveen/2008,2008,2,eredivisie,18,34,0,4,1,5,1,0,0,8,1,L,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
-Groningen,De Graafschap,0-2,/match/fc-groningen/graafschap/2008,2008,2,eredivisie,18,34,2,0,2,9,1,0,0,3,0,L,0,0,0,0,0,17,0,0,1,1,8,L,0,0,0,0,0,,
-Twente 1965,Utrecht,2-2,/match/fc-twente-1965/fc-utrecht/2008,2008,2,eredivisie,18,34,1,2,2,8,1,0,0,2,0,L,0,0,0,0,0,18,0,0,1,0,3,L,0,0,0,0,0,,
-Feyenoord,NAC Breda,5-0,/match/feyenoord/nac-breda/2008,2008,2,eredivisie,18,34,0,5,0,2,1,0,0,3,0,L,0,0,0,0,0,15,0,0,1,0,3,L,0,0,0,0,0,,
-AZ Alkmaar,Excelsior,3-0,/match/az/excelsior/2008,2008,3,eredivisie,18,34,0,3,0,8,1,0,1,4,1,WW,1,0,0,4,0,16,0,0,2,1,5,LW,0,0,1,1,3,W,W
-NAC Breda,Heracles,4-1,/match/nac-breda/heracles/2008,2008,3,eredivisie,18,34,0,4,1,18,0,0,2,0,8,LW,0,0,1,0,3,17,0,0,2,1,4,LW,0,0,1,1,2,L,W
-Heerenveen,Sparta Rotterdam,3-3,/match/heerenveen/sparta-rotterdam/2008,2008,3,eredivisie,18,34,1,3,3,11,0,1,1,1,4,DW,0,1,0,0,0,14,0,1,1,3,4,LD,0,1,0,2,2,D,D
-Twente 1965,PSV,0-0,/match/fc-twente-1965/psv/2008,2008,3,eredivisie,18,34,1,0,0,6,1,1,0,4,2,LD,0,1,0,2,2,3,2,0,0,7,0,LW,1,0,0,2,0,D,L
-Feyenoord,Willem II,2-0,/match/feyenoord/willem-ii/2008,2008,3,eredivisie,18,34,0,2,0,4,2,0,0,8,0,LW,1,0,0,5,0,9,0,2,0,2,2,DD,0,1,0,0,0,W,D
-Vitesse,NEC Nijmegen,1-0,/match/vitesse/nec/2008,2008,3,eredivisie,18,34,0,1,0,1,2,0,0,3,1,LW,1,0,0,1,0,12,0,1,1,1,6,DW,0,0,1,0,5,W,W
-VVV Venlo,Roda JC,3-5,/match/vvv/roda-jc/2008,2008,3,eredivisie,18,34,2,3,5,7,1,0,1,3,5,WW,1,0,0,3,1,5,1,1,0,3,2,DW,0,1,0,1,1,W,D
-Ajax,Groningen,2-2,/match/ajax/fc-groningen/2008,2008,3,eredivisie,18,34,1,2,2,2,2,0,0,12,2,LW,1,0,0,4,1,10,1,0,1,3,2,LL,1,0,0,3,0,W,L
-Utrecht,De Graafschap,2-2,/match/fc-utrecht/graafschap/2008,2008,3,eredivisie,18,34,1,2,2,15,0,1,1,2,5,LD,0,0,1,0,3,13,1,0,1,3,8,LL,1,0,0,2,0,L,L
-Groningen,Utrecht,0-2,/match/fc-groningen/fc-utrecht/2008,2008,4,eredivisie,18,34,2,0,2,14,1,1,1,5,4,LLD,0,0,1,0,2,13,0,2,1,4,7,LDD,0,1,0,2,2,L,D
-PSV,Vitesse,1-0,/match/psv/vitesse/2008,2008,4,eredivisie,18,34,0,1,0,5,2,1,0,7,0,LWD,1,0,0,5,0,1,3,0,0,4,1,LWW,1,0,0,2,1,W,L
-De Graafschap,VVV Venlo,3-2,/match/graafschap/vvv/2008,2008,4,eredivisie,18,34,0,3,2,12,1,1,1,5,10,LLD,0,0,1,1,8,10,1,0,2,6,10,WWL,0,0,1,0,4,L,W
-Excelsior,Heerenveen,2-5,/match/excelsior/heerenveen/2008,2008,4,eredivisie,18,34,2,2,5,17,0,0,3,1,8,LWW,0,0,1,0,2,8,0,2,1,4,7,DWD,0,0,1,1,4,L,W
-Heracles,Ajax,0-1,/match/heracles/ajax/2008,2008,4,eredivisie,18,34,2,0,1,18,0,0,3,2,8,LWW,0,0,1,0,2,3,2,1,0,14,4,LWD,1,0,0,8,1,L,L
-Roda JC,Feyenoord,1-3,/match/roda-jc/feyenoord/2008,2008,4,eredivisie,18,34,2,1,3,6,2,1,0,8,5,DWL,1,0,0,2,1,2,3,0,0,10,0,LWW,1,0,0,3,0,W,L
-NEC Nijmegen,NAC Breda,0-1,/match/nec/nac-breda/2008,2008,4,eredivisie,18,34,2,0,1,15,0,1,2,1,7,DWW,0,1,0,1,1,9,1,0,2,4,9,LWW,0,0,1,0,5,D,W
-Sparta Rotterdam,AZ Alkmaar,2-2,/match/sparta-rotterdam/az/2008,2008,4,eredivisie,18,34,1,2,2,16,0,2,1,6,7,LDD,0,0,1,1,2,4,2,0,1,7,1,WWW,0,0,1,0,1,L,W
-Willem II,Twente 1965,1-3,/match/willem-ii/fc-twente-1965/2008,2008,4,eredivisie,18,34,2,1,3,11,0,2,1,2,4,DDW,0,1,0,2,2,7,1,2,0,4,2,LDD,1,0,0,2,0,D,L
-VVV Venlo,NAC Breda,1-3,/match/vvv/nac-breda/2008,2008,5,eredivisie,18,34,2,1,3,13,1,0,3,8,13,WWLW,1,0,1,6,6,10,2,0,2,5,9,LWWL,1,0,1,1,5,WL,WL
-Willem II,Roda JC,1-0,/match/willem-ii/roda-jc/2008,2008,5,eredivisie,18,34,0,1,0,15,0,2,2,3,7,DDWL,0,1,1,3,5,7,2,1,1,9,8,DWLL,1,1,0,6,4,DL,DL
-Sparta Rotterdam,Heracles,1-1,/match/sparta-rotterdam/heracles/2008,2008,5,eredivisie,18,34,1,1,1,12,0,3,1,8,9,LDDD,0,1,1,3,4,18,0,0,4,2,9,LWWL,0,0,2,2,6,LD,WW
-Vitesse,De Graafschap,0-2,/match/vitesse/graafschap/2008,2008,5,eredivisie,18,34,2,0,2,3,3,0,1,4,2,LWWW,2,0,0,2,0,8,2,1,1,8,12,LLDW,1,1,0,4,2,WW,LD
-AZ Alkmaar,Ajax,2-3,/match/az/ajax/2008,2008,5,eredivisie,18,34,2,2,3,5,2,1,1,9,3,WWWD,2,0,0,7,0,4,3,1,0,15,4,LWDL,2,0,0,9,1,WW,LL
-Excelsior,Groningen,1-3,/match/excelsior/fc-groningen/2008,2008,5,eredivisie,18,34,2,1,3,17,0,0,4,3,13,LWWL,0,0,2,2,7,14,1,1,2,5,6,LLDL,1,1,0,5,2,LL,LD
-Twente 1965,NEC Nijmegen,3-0,/match/fc-twente-1965/nec/2008,2008,5,eredivisie,18,34,0,3,0,6,2,2,0,7,3,LDDL,0,2,0,2,2,16,0,1,3,1,8,DWWL,0,0,2,0,6,DD,WW
-PSV,Feyenoord,4-0,/match/psv/feyenoord/2008,2008,5,eredivisie,18,34,0,4,0,2,3,1,0,8,0,LWDW,2,0,0,6,0,1,4,0,0,13,1,LWWL,2,0,0,6,1,WW,LL
-Heerenveen,Utrecht,2-3,/match/heerenveen/fc-utrecht/2008,2008,5,eredivisie,18,34,2,2,3,9,1,2,1,9,9,DWDL,0,2,0,3,3,11,1,2,1,6,7,LDDL,1,1,0,4,2,DD,DL
-Groningen,Sparta Rotterdam,1-0,/match/fc-groningen/sparta-rotterdam/2008,2008,6,eredivisie,18,34,0,1,0,14,2,1,2,8,7,LLDLL,0,0,2,0,4,13,0,4,1,9,10,LDDDD,0,2,0,5,5,LL,DD
-NAC Breda,PSV,1-1,/match/nac-breda/psv/2008,2008,6,eredivisie,18,34,1,1,1,8,3,0,2,8,10,LWWLL,1,0,1,4,4,1,4,1,0,12,0,LWDWW,1,1,0,2,0,LW,LD
-Roda JC,Excelsior,3-3,/match/roda-jc/excelsior/2008,2008,6,eredivisie,18,34,1,3,3,9,2,1,2,9,9,DWLLW,1,0,1,3,4,18,0,0,5,4,16,LWWLL,0,0,2,1,6,WL,WW
-Feyenoord,Heerenveen,2-0,/match/feyenoord/heerenveen/2008,2008,6,eredivisie,18,34,0,2,0,2,4,0,1,13,5,LWWLW,2,0,0,7,0,12,1,2,2,11,12,DWDLL,1,0,1,6,6,WW,WL
-Ajax,VVV Venlo,6-1,/match/ajax/vvv/2008,2008,6,eredivisie,18,34,0,6,1,3,4,1,0,18,6,LWDLL,1,1,0,6,3,15,1,0,4,9,16,WWLWL,0,0,2,2,7,WD,WW
-De Graafschap,Twente 1965,0-0,/match/graafschap/fc-twente-1965/2008,2008,6,eredivisie,18,34,1,0,0,6,3,1,1,10,12,LLDWL,1,0,1,4,10,4,3,2,0,10,3,LDDLW,2,0,0,5,1,LW,LL
-Utrecht,Vitesse,2-4,/match/fc-utrecht/vitesse/2008,2008,6,eredivisie,18,34,2,2,4,10,2,2,1,9,9,LDDLL,0,1,1,2,5,5,3,0,2,4,4,LWWWL,1,0,1,2,2,LD,LW
-Heracles,AZ Alkmaar,2-1,/match/heracles/az/2008,2008,6,eredivisie,18,34,0,2,1,17,0,1,4,3,10,LWWLD,0,0,2,0,3,7,2,1,2,11,6,WWWDL,0,1,1,2,3,LL,WD
-NEC Nijmegen,Willem II,1-0,/match/nec/willem-ii/2008,2008,6,eredivisie,18,34,0,1,0,16,0,1,4,1,11,DWWLW,0,1,1,1,2,11,1,2,2,4,7,DDWLW,0,1,1,0,2,DL,DW
-VVV Venlo,Utrecht,1-2,/match/vvv/fc-utrecht/2008,2008,7,eredivisie,18,34,2,1,2,17,1,0,5,10,22,WWLWLW,1,0,2,7,9,11,2,2,2,11,13,LDDLLL,2,1,0,7,4,WLL,DLL
-NAC Breda,De Graafschap,1-0,/match/nac-breda/graafschap/2008,2008,7,eredivisie,18,34,0,1,0,7,3,1,2,9,11,LWWLLD,1,1,1,5,5,6,3,2,1,10,12,LLDWLD,2,1,0,6,2,LWD,LDL
-PSV,Willem II,3-0,/match/psv/willem-ii/2008,2008,7,eredivisie,18,34,0,3,0,1,4,2,0,13,1,LWDWWD,3,0,0,10,0,12,1,2,3,4,8,DDWLWW,0,1,2,0,3,WWW,DWW
-Excelsior,NEC Nijmegen,2-0,/match/excelsior/nec/2008,2008,7,eredivisie,18,34,0,2,0,18,0,1,5,7,19,LWWLLD,0,0,3,3,10,15,1,1,4,2,11,DWWLWW,0,0,3,0,9,LLL,WWW
-Twente 1965,Roda JC,0-1,/match/fc-twente-1965/roda-jc/2008,2008,7,eredivisie,18,34,2,0,1,4,3,3,0,10,3,LDDLWD,1,2,0,5,2,10,2,2,2,12,12,DWLLWD,1,1,1,6,5,DDW,DLW
-Sparta Rotterdam,Ajax,2-2,/match/sparta-rotterdam/ajax/2008,2008,7,eredivisie,18,34,1,2,2,14,0,4,2,9,11,LDDDDW,0,2,1,4,5,2,5,1,0,24,7,LWDLLW,3,0,0,12,3,LDD,LLL
-Vitesse,Feyenoord,0-1,/match/vitesse/feyenoord/2008,2008,7,eredivisie,18,34,2,0,1,5,4,0,2,8,6,LWWWLL,2,0,1,2,2,3,5,0,1,15,5,LWWLWW,2,0,1,6,5,WWL,LLW
-AZ Alkmaar,Groningen,2-2,/match/az/fc-groningen/2008,2008,7,eredivisie,18,34,1,2,2,9,2,1,3,12,8,WWWDLW,2,0,1,9,3,8,3,1,2,9,7,LLDLLW,2,1,0,8,3,WWL,LDL
-Heerenveen,Heracles,9-0,/match/heerenveen/heracles/2008,2008,7,eredivisie,18,34,0,9,0,13,1,2,3,11,14,DWDLLW,0,2,1,5,6,16,1,1,4,5,11,LWWLDW,0,1,2,3,7,DDL,WWD
-De Graafschap,Sparta Rotterdam,4-0,/match/graafschap/sparta-rotterdam/2008,2008,8,eredivisie,18,34,0,4,0,9,3,2,2,10,13,LLDWLDW,1,1,1,4,10,13,0,5,2,11,13,LDDDDWD,0,2,1,5,6,LWD,DDW
-Ajax,NEC Nijmegen,0-0,/match/ajax/nec/2008,2008,8,eredivisie,18,34,1,0,0,3,5,2,0,26,9,LWDLLWD,2,1,0,12,4,15,1,1,5,2,13,DWWLWWW,0,0,4,0,11,WDW,WWWW
-PSV,VVV Venlo,3-1,/match/psv/vvv/2008,2008,8,eredivisie,18,34,0,3,1,1,5,2,0,16,1,LWDWWDW,4,0,0,13,0,18,1,0,6,11,24,WWLWLWL,0,0,3,3,13,WWWW,WWW
-Feyenoord,Excelsior,1-0,/match/feyenoord/excelsior/2008,2008,8,eredivisie,18,34,0,1,0,2,6,0,1,16,5,LWWLWWL,3,0,0,9,0,17,1,1,5,9,19,LWWLLDW,0,1,2,4,9,WWW,WWD
-Heracles,Vitesse,2-2,/match/heracles/vitesse/2008,2008,8,eredivisie,18,34,1,2,2,16,1,1,5,5,20,LWWLDWW,1,0,2,2,4,6,4,0,3,8,7,LWWWLLL,2,0,1,6,4,LLW,LWL
-AZ Alkmaar,Heerenveen,0-1,/match/az/heerenveen/2008,2008,8,eredivisie,18,34,2,0,1,7,2,2,3,14,10,WWWDLWD,2,1,1,11,5,11,2,2,3,20,14,DWDLLWW,1,0,2,6,8,WWLD,WLW
-Groningen,Twente 1965,1-0,/match/fc-groningen/fc-twente-1965/2008,2008,8,eredivisie,18,34,0,1,0,10,3,2,2,11,9,LLDLLWD,1,0,2,1,4,5,3,3,1,10,4,LDDLWDL,2,1,0,5,1,LLW,LLD
-Roda JC,Utrecht,1-1,/match/roda-jc/fc-utrecht/2008,2008,8,eredivisie,18,34,1,1,1,8,3,2,2,13,12,DWLLWDL,1,1,1,6,7,12,3,2,2,13,14,LDDLLLL,3,1,0,9,5,WLD,DLLL
-Willem II,NAC Breda,0-0,/match/willem-ii/nac-breda/2008,2008,8,eredivisie,18,34,1,0,0,14,1,2,4,4,11,DDWLWWW,1,1,1,4,5,4,4,1,2,10,11,LWWLLDW,2,0,1,4,6,DLW,WLL
-Vitesse,Willem II,1-0,/match/vitesse/willem-ii/2008,2008,9,eredivisie,18,34,0,1,0,8,4,1,3,10,9,LWWWLLLD,2,0,2,2,3,13,1,3,4,4,11,DDWLWWWD,0,1,3,0,6,WWLL,DWWW
-Roda JC,De Graafschap,1-0,/match/roda-jc/graafschap/2008,2008,9,eredivisie,18,34,0,1,0,7,3,3,2,14,13,DWLLWDLD,1,2,1,7,8,4,4,2,2,14,13,LLDWLDWW,2,1,1,6,3,WLDD,LDLW
-VVV Venlo,Heerenveen,0-4,/match/vvv/heerenveen/2008,2008,9,eredivisie,18,34,2,0,4,18,1,0,7,12,27,WWLWLWLW,1,0,3,8,11,10,3,2,3,21,14,DWDLLWWL,2,0,2,7,8,WLLL,WLWL
-Excelsior,Heracles,1-1,/match/excelsior/heracles/2008,2008,9,eredivisie,18,34,1,1,1,17,1,1,6,9,20,LWWLLDWW,1,0,3,5,10,16,1,2,5,7,22,LWWLDWWD,0,1,3,3,16,LLLW,WWDW
-Twente 1965,Feyenoord,2-0,/match/fc-twente-1965/feyenoord/2008,2008,9,eredivisie,18,34,0,2,0,9,3,3,2,10,5,LDDLWDLW,1,2,1,5,3,2,7,0,1,17,5,LWWLWWLW,3,0,1,7,5,DDWL,LLWL
-Utrecht,Ajax,0-1,/match/fc-utrecht/ajax/2008,2008,9,eredivisie,18,34,2,0,1,12,3,3,2,14,15,LDDLLLLD,0,1,2,4,9,3,5,3,0,26,9,LWDLLWDD,3,1,0,14,5,LDL,LLLD
-NAC Breda,AZ Alkmaar,2-3,/match/nac-breda/az/2008,2008,9,eredivisie,18,34,2,2,3,5,4,2,2,10,11,LWWLLDWD,2,1,1,6,5,11,2,2,4,14,11,WWWDLWDL,0,1,2,3,5,LWDW,WDW
-NEC Nijmegen,Groningen,5-1,/match/nec/fc-groningen/2008,2008,9,eredivisie,18,34,0,5,1,15,1,2,5,2,13,DWWLWWWD,1,1,1,2,2,6,4,2,2,12,9,LLDLLWDW,2,2,0,10,5,DLW,LDLD
-Sparta Rotterdam,PSV,1-4,/match/sparta-rotterdam/psv/2008,2008,9,eredivisie,18,34,2,1,4,14,0,5,3,11,17,LDDDDWDW,0,3,1,6,7,1,6,2,0,19,2,LWDWWDWW,1,2,0,3,1,LDDD,LDD
-Willem II,VVV Venlo,1-2,/match/willem-ii/vvv/2008,2008,10,eredivisie,18,34,2,1,2,14,1,3,5,4,12,DDWLWWWDW,1,2,1,4,5,18,1,0,8,12,31,WWLWLWLWL,0,0,4,4,16,DLWD,WWWW
-Excelsior,Sparta Rotterdam,4-3,/match/excelsior/sparta-rotterdam/2008,2008,10,eredivisie,18,34,0,4,3,17,1,2,6,10,21,LWWLLDWWD,1,1,3,6,11,15,0,5,4,12,21,LDDDDWDWL,0,2,2,5,10,LLLWD,DDWW
-Heerenveen,PSV,2-1,/match/heerenveen/psv/2008,2008,10,eredivisie,18,34,0,2,1,9,4,2,3,25,14,DWDLLWWLL,1,2,1,14,6,1,7,2,0,23,3,LWDWWDWWL,2,2,0,7,2,DDLW,LDDL
-AZ Alkmaar,NEC Nijmegen,4-0,/match/az/nec/2008,2008,10,eredivisie,18,34,0,4,0,11,3,2,4,17,13,WWWDLWDLL,2,1,2,11,6,12,2,2,5,7,14,DWWLWWWDW,0,1,4,0,11,WWLDL,WWWWD
-Ajax,Roda JC,4-2,/match/ajax/roda-jc/2008,2008,10,eredivisie,18,34,0,4,2,3,6,3,0,27,9,LWDLLWDDL,2,2,0,12,4,5,4,3,2,15,13,DWLLWDLDW,2,1,1,7,5,WDWD,DLWL
-Groningen,Vitesse,0-0,/match/fc-groningen/vitesse/2008,2008,10,eredivisie,18,34,1,0,0,10,4,2,3,13,14,LLDLLWDWW,2,0,2,2,4,6,5,1,3,11,9,LWWWLLLDW,2,1,1,8,6,LLWW,LWLD
-Utrecht,NAC Breda,0-1,/match/fc-utrecht/nac-breda/2008,2008,10,eredivisie,18,34,2,0,1,13,3,3,3,14,16,LDDLLLLDL,0,1,3,4,10,8,4,2,3,12,14,LWWLLDWDL,2,1,1,4,6,LDLL,WLLD
-Feyenoord,De Graafschap,2-0,/match/feyenoord/graafschap/2008,2008,10,eredivisie,18,34,0,2,0,2,7,0,2,17,7,LWWLWWLWW,4,0,0,10,0,7,4,2,3,14,14,LLDWLDWWW,2,1,2,6,4,WWWW,LDLWW
-Heracles,Twente 1965,0-3,/match/heracles/fc-twente-1965/2008,2008,10,eredivisie,18,34,2,0,3,16,1,3,5,8,23,LWWLDWWDD,1,1,2,4,6,4,4,3,2,12,5,LDDLWDLWW,2,1,1,5,2,LLWD,LLDW
-NEC Nijmegen,Heracles,3-0,/match/nec/heracles/2008,2008,11,eredivisie,18,34,0,3,0,12,2,2,6,7,18,DWWLWWWDWW,2,1,1,7,3,17,1,3,6,8,26,LWWLDWWDDL,0,2,3,4,17,DLWW,WWDWD
-VVV Venlo,Sparta Rotterdam,2-0,/match/vvv/sparta-rotterdam/2008,2008,11,eredivisie,18,34,0,2,0,18,2,0,8,14,32,WWLWLWLWLL,1,0,4,8,15,16,0,5,5,15,25,LDDDDWDWLW,0,2,3,8,14,WLLLL,DDWWW
-Willem II,Utrecht,1-4,/match/willem-ii/fc-utrecht/2008,2008,11,eredivisie,18,34,2,1,4,15,1,3,6,5,14,DDWLWWWDWL,1,2,2,5,7,14,3,3,4,14,17,LDDLLLLDLL,3,2,0,10,6,DLWDL,DLLLD
-De Graafschap,Excelsior,1-1,/match/graafschap/excelsior/2008,2008,11,eredivisie,18,34,1,1,1,11,4,2,4,14,16,LLDWLDWWWW,2,1,1,8,10,13,2,2,6,14,24,LWWLLDWWDW,0,1,3,4,10,LWDW,WWDW
-Twente 1965,NAC Breda,1-1,/match/fc-twente-1965/nac-breda/2008,2008,11,eredivisie,18,34,1,1,1,4,5,3,2,15,5,LDDLWDLWWL,2,2,1,7,3,9,5,2,3,13,14,LWWLLDWDLL,3,1,1,5,6,DDWLW,WLLDL
-Feyenoord,Ajax,2-2,/match/feyenoord/ajax/2008,2008,11,eredivisie,18,34,1,2,2,2,8,0,2,19,7,LWWLWWLWWW,5,0,0,12,0,3,7,3,0,31,11,LWDLLWDDLW,4,1,0,15,5,WWWWW,LLLDL
-PSV,AZ Alkmaar,1-1,/match/psv/az/2008,2008,11,eredivisie,18,34,1,1,1,1,7,2,1,24,5,LWDWWDWWLW,5,0,0,16,1,8,4,2,4,21,13,WWWDLWDLLW,1,1,2,6,7,WWWWW,WDWL
-Roda JC,Groningen,5-1,/match/roda-jc/fc-groningen/2008,2008,11,eredivisie,18,34,0,5,1,7,4,3,3,17,17,DWLLWDLDWW,2,2,1,8,8,10,4,3,3,13,14,LLDLLWDWWD,2,2,1,11,10,WLDDW,LDLDW
-Vitesse,Heerenveen,0-1,/match/vitesse/heerenveen/2008,2008,11,eredivisie,18,34,2,0,1,5,5,2,3,11,9,LWWWLLLDWD,3,0,2,3,3,6,5,2,3,27,15,DWDLLWWLLW,3,0,2,11,8,WWLLW,WLWLL
-NAC Breda,Roda JC,0-0,/match/nac-breda/roda-jc/2008,2008,12,eredivisie,18,34,1,0,0,9,5,3,3,14,15,LWWLLDWDLLD,2,1,2,8,8,5,5,3,3,22,18,DWLLWDLDWWW,2,1,2,9,9,LWDWL,DLWLW
-Heerenveen,De Graafschap,2-3,/match/heerenveen/graafschap/2008,2008,12,eredivisie,18,34,2,2,3,6,6,2,3,28,15,DWDLLWWLLWL,2,2,1,16,7,10,4,3,4,15,17,LLDWLDWWWWD,2,1,3,6,6,DDLWW,LDLWWW
-AZ Alkmaar,Willem II,2-0,/match/az/willem-ii/2008,2008,12,eredivisie,18,34,0,2,0,8,4,3,4,22,14,WWWDLWDLLWD,3,1,2,15,6,16,1,3,7,6,18,DDWLWWWDWLL,0,1,4,0,7,WWLDLW,DWWWW
-Excelsior,PSV,1-4,/match/excelsior/psv/2008,2008,12,eredivisie,18,34,2,1,4,13,2,3,6,15,25,LWWLLDWWDWD,2,1,3,10,14,1,7,3,1,25,6,LWDWWDWWLWD,2,2,1,8,4,LLLWDW,LDDLW
-Heracles,VVV Venlo,0-0,/match/heracles/vvv/2008,2008,12,eredivisie,18,34,1,0,0,18,1,3,7,8,29,LWWLDWWDDLW,1,1,3,4,9,15,3,0,8,16,32,WWLWLWLWLLW,1,0,4,6,17,LLWDL,WWWWL
-Ajax,Vitesse,4-1,/match/ajax/vitesse/2008,2008,12,eredivisie,18,34,0,4,1,3,7,4,0,33,13,LWDLLWDDLWD,3,2,0,16,6,7,5,2,4,11,10,LWWWLLLDWDL,2,2,1,8,6,WDWDW,LWLDD
-Groningen,Feyenoord,3-2,/match/fc-groningen/feyenoord/2008,2008,12,eredivisie,18,34,0,3,2,11,4,3,4,14,19,LLDLLWDWWDW,2,1,2,2,4,2,8,1,2,21,9,LWWLWWLWWWD,3,0,2,7,7,LLWWD,LLWLW
-Utrecht,NEC Nijmegen,3-2,/match/fc-utrecht/nec/2008,2008,12,eredivisie,18,34,0,3,2,14,4,3,4,18,18,LDDLLLLDLLL,0,1,4,4,11,12,3,2,6,10,18,DWWLWWWDWWW,0,1,5,0,15,LDLLL,WWWWDW
-Sparta Rotterdam,Twente 1965,1-1,/match/sparta-rotterdam/fc-twente-1965/2008,2008,12,eredivisie,18,34,1,1,1,17,0,5,6,15,27,LDDDDWDWLWW,0,3,2,7,11,4,5,4,2,16,6,LDDLWDLWWLD,3,1,1,8,2,LDDDL,LLDWL
-Utrecht,Sparta Rotterdam,7-1,/match/fc-utrecht/sparta-rotterdam/2008,2008,13,eredivisie,18,34,0,7,1,12,5,3,4,21,20,LDDLLLLDLLLW,1,1,4,7,13,16,0,6,6,16,28,LDDDDWDWLWWD,0,2,4,8,16,LDLLLW,DDWWWW
-Groningen,VVV Venlo,1-0,/match/fc-groningen/vvv/2008,2008,13,eredivisie,18,34,0,1,0,8,5,3,4,17,21,LLDLLWDWWDWW,3,1,2,5,6,15,3,1,8,16,32,WWLWLWLWLLWD,1,1,4,6,17,LLWWDW,WWWWLD
-Roda JC,Vitesse,3-2,/match/roda-jc/vitesse/2008,2008,13,eredivisie,18,34,0,3,2,5,5,4,3,22,18,DWLLWDLDWWWD,3,2,1,13,9,11,5,2,5,12,14,LWWWLLLDWDLW,2,2,2,9,10,WLDDWW,LWLDDW
-Willem II,Excelsior,6-0,/match/willem-ii/excelsior/2008,2008,13,eredivisie,18,34,0,6,0,18,1,3,8,6,20,DDWLWWWDWLLW,1,2,3,6,11,14,2,3,7,16,29,LWWLLDWWDWDL,0,2,3,5,11,DLWDLL,WWDWD
-De Graafschap,PSV,0-1,/match/graafschap/psv/2008,2008,13,eredivisie,18,34,2,0,1,10,5,3,4,18,19,LLDWLDWWWWDL,2,2,1,9,11,1,8,3,1,29,7,LWDWWDWWLWDL,3,2,1,12,5,LWDWD,LDDLWL
-Ajax,NAC Breda,1-3,/match/ajax/nac-breda/2008,2008,13,eredivisie,18,34,2,1,3,2,8,4,0,37,14,LWDLLWDDLWDW,4,2,0,20,7,9,5,4,3,14,15,LWWLLDWDLLDD,3,2,1,6,7,WDWDWW,WLLDLD
-Twente 1965,AZ Alkmaar,2-1,/match/fc-twente-1965/az/2008,2008,13,eredivisie,18,34,0,2,1,4,5,5,2,17,7,LDDLWDLWWLDD,2,3,1,8,4,6,5,3,4,24,14,WWWDLWDLLWDW,1,2,2,7,8,DDWLWD,WDWLD
-Feyenoord,Heracles,6-0,/match/feyenoord/heracles/2008,2008,13,eredivisie,18,34,0,6,0,3,8,1,3,23,12,LWWLWWLWWWDW,5,1,0,14,2,17,1,4,7,8,29,LWWLDWWDDLWD,0,2,4,4,20,WWWWWD,WWDWDW
-NEC Nijmegen,Heerenveen,0-1,/match/nec/heerenveen/2008,2008,13,eredivisie,18,34,2,0,1,13,3,2,7,12,21,DWWLWWWDWWWW,3,1,1,10,3,7,6,2,4,30,18,DWDLLWWLLWLL,4,0,2,12,8,DLWWW,WLWLLL
-PSV,Roda JC,2-4,/match/psv/roda-jc/2008,2008,14,eredivisie,18,34,2,2,4,1,9,3,1,30,7,LWDWWDWWLWDLL,5,1,0,17,2,5,6,4,3,25,20,DWLLWDLDWWWDW,2,2,2,9,9,WWWWWD,DLWLWD
-Willem II,Ajax,2-3,/match/willem-ii/ajax/2008,2008,14,eredivisie,18,34,2,2,3,14,2,3,8,12,20,DDWLWWWDWLLWW,2,2,3,12,11,3,8,4,1,38,17,LWDLLWDDLWDWL,4,2,0,17,7,DLWDLLW,LLLDLD
-Excelsior,NAC Breda,0-3,/match/excelsior/nac-breda/2008,2008,14,eredivisie,18,34,2,0,3,15,2,3,8,16,35,LWWLLDWWDWDLW,2,1,4,11,18,9,6,4,3,17,16,LWWLLDWDLLDDL,4,2,1,9,8,LLLWDWL,WLLDLDL
-Heracles,De Graafschap,2-0,/match/heracles/graafschap/2008,2008,14,eredivisie,18,34,0,2,0,18,1,4,8,8,35,LWWLDWWDDLWDW,1,2,3,4,9,11,5,3,5,18,20,LLDWLDWWWWDLL,3,1,3,9,8,LLWDLD,LDLWWWL
-Vitesse,Twente 1965,2-2,/match/vitesse/fc-twente-1965/2008,2008,14,eredivisie,18,34,1,2,2,12,5,2,6,14,17,LWWWLLLDWDLWW,3,0,3,3,4,4,6,5,2,19,8,LDDLWDLWWLDDW,3,2,1,9,3,WWLLWL,LLDWLD
-VVV Venlo,Feyenoord,0-0,/match/vvv/feyenoord/2008,2008,14,eredivisie,18,34,1,0,0,16,3,1,9,16,33,WWLWLWLWLLWDW,2,0,4,10,15,2,9,1,3,29,12,LWWLWWLWWWDWW,3,0,3,9,10,WLLLLW,LLWLWW
-AZ Alkmaar,Utrecht,2-1,/match/az/fc-utrecht/2008,2008,14,eredivisie,18,34,0,2,1,7,5,3,5,25,16,WWWDLWDLLWDWW,4,1,2,17,6,10,6,3,4,28,21,LDDLLLLDLLLWW,4,2,0,14,7,WWLDLWW,DLLLDL
-Heerenveen,Groningen,4-2,/match/heerenveen/fc-groningen/2008,2008,14,eredivisie,18,34,0,4,2,8,7,2,4,31,18,DWDLLWWLLWLLL,2,2,2,18,10,6,6,3,4,18,21,LLDLLWDWWDWWW,2,2,2,12,15,DDLWWL,LDLDWW
-Sparta Rotterdam,NEC Nijmegen,1-0,/match/sparta-rotterdam/nec/2008,2008,14,eredivisie,18,34,0,1,0,17,0,6,7,17,35,LDDDDWDWLWWDW,0,4,2,8,12,13,3,2,8,12,22,DWWLWWWDWWWWL,0,1,6,2,18,LDDDLD,WWWWDWW
-Roda JC,Sparta Rotterdam,2-3,/match/roda-jc/sparta-rotterdam/2008,2008,15,eredivisie,18,34,2,2,3,4,7,4,3,29,22,DWLLWDLDWWWDWL,4,2,1,16,11,14,1,6,7,18,35,LDDDDWDWLWWDWW,0,2,5,9,23,WLDDWWW,DDWWWWW
-Twente 1965,VVV Venlo,1-1,/match/fc-twente-1965/vvv/2008,2008,15,eredivisie,18,34,1,1,1,5,6,6,2,21,10,LDDLWDLWWLDDWD,3,3,1,10,5,17,3,2,9,16,33,WWLWLWLWLLWDWD,1,1,5,6,18,DDWLWDW,WWWWLDW
-NAC Breda,Heerenveen,1-5,/match/nac-breda/heerenveen/2008,2008,15,eredivisie,18,34,2,1,5,9,7,4,3,20,16,LWWLLDWDLLDDLL,2,2,2,8,8,7,8,2,4,35,20,DWDLLWWLLWLLLW,5,0,2,13,8,LWDWLD,WLWLLLL
-De Graafschap,NEC Nijmegen,1-1,/match/graafschap/nec/2008,2008,15,eredivisie,18,34,1,1,1,12,5,3,6,18,22,LLDWLDWWWWDLLW,2,2,2,9,12,13,3,2,9,12,23,DWWLWWWDWWWWLW,0,1,7,2,19,LWDWDL,WWWWDWWW
-Groningen,Willem II,1-0,/match/fc-groningen/willem-ii/2008,2008,15,eredivisie,18,34,0,1,0,8,6,3,5,20,25,LLDLLWDWWDWWWW,4,1,2,6,6,16,2,3,9,14,23,DDWLWWWDWLLWWL,0,1,5,0,9,LLWWDWW,DWWWWW
-Utrecht,Heracles,3-1,/match/fc-utrecht/heracles/2008,2008,15,eredivisie,18,34,0,3,1,11,6,3,5,29,23,LDDLLLLDLLLWWW,2,1,4,14,14,15,2,4,8,10,35,LWWLDWWDDLWDWW,0,2,5,4,26,LDLLLWW,WWDWDWW
-Vitesse,Excelsior,3-0,/match/vitesse/excelsior/2008,2008,15,eredivisie,18,34,0,3,0,10,5,3,6,16,19,LWWWLLLDWDLWWD,3,1,3,5,6,18,2,3,9,16,38,LWWLLDWWDWDLWL,0,2,4,5,17,WWLLWLD,WWDWDW
-Ajax,PSV,0-2,/match/ajax/psv/2008,2008,15,eredivisie,18,34,2,0,2,3,9,4,1,41,19,LWDLLWDDLWDWLL,4,2,1,21,10,2,9,3,2,32,11,LWDWWDWWLWDLLL,4,2,1,13,5,WDWDWWL,LDDLWLL
-Feyenoord,AZ Alkmaar,2-2,/match/feyenoord/az/2008,2008,15,eredivisie,18,34,1,2,2,1,9,2,3,29,12,LWWLWWLWWWDWWD,6,1,0,20,2,6,6,3,5,27,17,WWWDLWDLLWDWWW,1,2,3,8,10,WWWWWDW,WDWLDW
-Willem II,De Graafschap,1-2,/match/willem-ii/graafschap/2008,2008,16,eredivisie,18,34,2,1,2,17,2,3,10,14,24,DDWLWWWDWLLWWLW,2,2,4,14,14,12,5,4,6,19,23,LLDWLDWWWWDLLWD,3,1,4,9,10,DLWDLLWL,LDLWWWLW
-PSV,Utrecht,4-1,/match/psv/fc-utrecht/2008,2008,16,eredivisie,18,34,0,4,1,2,10,3,2,34,11,LWDWWDWWLWDLLLL,5,1,1,19,6,9,7,3,5,32,24,LDDLLLLDLLLWWWW,4,2,1,15,9,WWWWWDL,DLLLDLW
-Heerenveen,Twente 1965,1-2,/match/heerenveen/fc-twente-1965/2008,2008,16,eredivisie,18,34,2,1,2,6,9,2,4,40,21,DWDLLWWLLWLLLWL,3,2,2,22,12,4,6,7,2,22,11,LDDLWDLWWLDDWDD,3,3,1,11,5,DDLWWLW,LLDWLDD
-Heracles,Groningen,1-2,/match/heracles/fc-groningen/2008,2008,16,eredivisie,18,34,2,1,2,15,2,4,9,11,38,LWWLDWWDDLWDWWW,2,2,3,6,9,7,7,3,5,21,25,LLDLLWDWWDWWWWW,2,2,3,14,19,LLWDLDW,LDLDWWW
-Excelsior,Ajax,2-1,/match/excelsior/ajax/2008,2008,16,eredivisie,18,34,0,2,1,18,2,3,10,16,41,LWWLLDWWDWDLWLW,2,1,5,11,21,3,9,4,2,41,21,LWDLLWDDLWDWLLL,5,2,0,20,9,LLLWDWLL,LLLDLDL
-NEC Nijmegen,Feyenoord,0-2,/match/nec/feyenoord/2008,2008,16,eredivisie,18,34,2,0,2,13,3,3,9,13,24,DWWLWWWDWWWWLWD,3,1,2,10,4,1,9,3,3,31,14,LWWLWWLWWWDWWDD,3,1,3,9,10,DLWWWL,LLWLWWD
-VVV Venlo,Vitesse,2-0,/match/vvv/vitesse/2008,2008,16,eredivisie,18,34,0,2,0,16,3,3,9,17,34,WWLWLWLWLLWDWDD,2,1,4,10,15,10,6,3,6,19,19,LWWWLLLDWDLWWDW,2,2,3,11,13,WLLLLWD,LWLDDWW
-AZ Alkmaar,Roda JC,1-1,/match/az/roda-jc/2008,2008,16,eredivisie,18,34,1,1,1,8,6,4,5,29,19,WWWDLWDLLWDWWWD,5,1,2,19,7,5,7,4,4,31,25,DWLLWDLDWWWDWLL,3,2,2,13,11,WWLDLWWW,DLWLWDL
-Sparta Rotterdam,NAC Breda,0-1,/match/sparta-rotterdam/nac-breda/2008,2008,16,eredivisie,18,34,2,0,1,14,2,6,7,21,37,LDDDDWDWLWWDWWL,1,4,2,9,12,11,7,4,4,21,21,LWWLLDWDLLDDLLL,5,2,1,12,8,LDDDLDW,WLLDLDLL
-Feyenoord,Sparta Rotterdam,2-0,/match/feyenoord/sparta-rotterdam/2008,2008,17,eredivisie,18,34,0,2,0,2,10,3,3,33,14,LWWLWWLWWWDWWDDL,6,2,0,22,4,15,2,6,8,21,38,LDDDDWDWLWWDWWLL,1,2,5,12,25,WWWWWDWD,DDWWWWWL
-NEC Nijmegen,VVV Venlo,2-2,/match/nec/vvv/2008,2008,17,eredivisie,18,34,1,2,2,14,3,3,10,13,26,DWWLWWWDWWWWLWDL,3,1,3,10,6,13,4,3,9,19,34,WWLWLWLWLLWDWDDW,1,2,5,7,19,DLWWWLL,WWWWLDWD
-Groningen,PSV,2-1,/match/fc-groningen/psv/2008,2008,17,eredivisie,18,34,0,2,1,5,8,3,5,23,26,LLDLLWDWWDWWWWWL,5,1,2,7,6,1,11,3,2,38,12,LWDWWDWWLWDLLLLW,5,2,1,15,5,LLWWDWWW,LDDLWLLL
-Utrecht,Excelsior,4-1,/match/fc-utrecht/excelsior/2008,2008,17,eredivisie,18,34,0,4,1,11,7,3,6,33,28,LDDLLLLDLLLWWWWW,3,1,4,17,15,16,3,3,10,18,42,LWWLLDWWDWDLWLWW,0,2,5,5,20,LDLLLWWW,WWDWDWW
-NAC Breda,Vitesse,1-2,/match/nac-breda/vitesse/2008,2008,17,eredivisie,18,34,2,1,2,9,8,4,4,22,21,LWWLLDWDLLDDLLLL,2,2,3,9,13,10,6,3,7,19,21,LWWWLLLDWDLWWDWW,2,2,4,11,15,LWDWLDL,LWLDDWWW
-Roda JC,Heerenveen,1-0,/match/roda-jc/heerenveen/2008,2008,17,eredivisie,18,34,0,1,0,6,7,5,4,32,26,DWLLWDLDWWWDWLLD,4,2,2,18,14,8,9,2,5,41,23,DWDLLWWLLWLLLWLL,6,0,2,18,9,WLDDWWWL,WLWLLLLL
-Ajax,Twente 1965,2-2,/match/ajax/fc-twente-1965/2008,2008,17,eredivisie,18,34,1,2,2,3,9,4,3,42,23,LWDLLWDDLWDWLLLW,4,2,2,21,12,4,7,7,2,24,12,LDDLWDLWWLDDWDDL,4,3,1,13,6,WDWDWWLL,LLDWLDDL
-Heracles,Willem II,1-0,/match/heracles/willem-ii/2008,2008,17,eredivisie,18,34,0,1,0,17,2,4,10,12,40,LWWLDWWDDLWDWWWL,2,2,4,7,11,18,2,3,11,15,26,DDWLWWWDWLLWWLWL,0,1,6,0,10,LLWDLDWL,DWWWWWW
-De Graafschap,AZ Alkmaar,1-2,/match/graafschap/az/2008,2008,17,eredivisie,18,34,2,1,2,12,6,4,6,21,24,LLDWLDWWWWDLLWDL,2,3,2,10,13,7,6,5,5,30,20,WWWDLWDLLWDWWWDD,1,3,3,10,12,LWDWDLD,WDWLDWD
-Sparta Rotterdam,Groningen,1-3,/match/sparta-rotterdam/fc-groningen/2008,2008,18,eredivisie,18,34,2,1,3,16,2,6,9,21,40,LDDDDWDWLWWDWWLLW,1,4,3,9,13,4,9,3,5,25,27,LLDLLWDWWDWWWWWLW,3,2,3,16,20,LDDDLDWL,LDLDWWWL
-VVV Venlo,Ajax,2-2,/match/vvv/ajax/2008,2008,18,eredivisie,18,34,1,2,2,13,4,4,9,21,36,WWLWLWLWLLWDWDDWD,3,1,4,12,15,3,9,5,3,44,25,LWDLLWDDLWDWLLLWD,5,2,1,21,11,WLLLLWDW,LLLDLDLW
-AZ Alkmaar,Heracles,1-0,/match/az/heracles/2008,2008,18,eredivisie,18,34,0,1,0,7,7,5,5,32,21,WWWDLWDLLWDWWWDDL,5,2,2,20,8,15,3,4,10,13,40,LWWLDWWDDLWDWWWLW,0,2,6,5,29,WWLDLWWWD,WWDWDWWW
-Excelsior,Roda JC,1-2,/match/excelsior/roda-jc/2008,2008,18,eredivisie,18,34,2,1,2,17,3,3,11,19,46,LWWLLDWWDWDLWLWWW,3,1,5,13,22,5,8,5,4,33,26,DWLLWDLDWWWDWLLDW,3,3,2,14,12,LLLWDWLLW,DLWLWDLD
-Twente 1965,De Graafschap,2-0,/match/fc-twente-1965/graafschap/2008,2008,18,eredivisie,18,34,0,2,0,6,7,8,2,26,14,LDDLWDLWWLDDWDDLD,3,4,1,11,6,12,6,4,7,22,26,LLDWLDWWWWDLLWDLL,4,1,4,11,11,DDWLWDWD,LDLWWWLWL
-PSV,NAC Breda,2-0,/match/psv/nac-breda/2008,2008,18,eredivisie,18,34,0,2,0,2,11,3,3,39,14,LWDWWDWWLWDLLLLWW,6,1,1,23,7,11,8,4,5,23,23,LWWLLDWDLLDDLLLLL,6,2,1,13,8,WWWWWDLW,WLLDLDLLL
-Heerenveen,Feyenoord,1-1,/match/heerenveen/feyenoord/2008,2008,18,eredivisie,18,34,1,1,1,8,9,2,6,41,24,DWDLLWWLLWLLLWLLW,3,2,3,23,14,1,11,3,3,35,14,LWWLWWLWWWDWWDDLW,4,1,3,11,10,DDLWWLWL,LLWLWWDL
-Vitesse,Utrecht,2-2,/match/vitesse/fc-utrecht/2008,2008,18,eredivisie,18,34,1,2,2,10,7,3,7,21,22,LWWWLLLDWDLWWDWWL,4,1,3,8,6,9,8,3,6,37,29,LDDLLLLDLLLWWWWWW,4,2,2,16,13,WWLLWLDW,DLLLDLWW
-Willem II,NEC Nijmegen,3-0,/match/willem-ii/nec/2008,2008,18,eredivisie,18,34,0,3,0,18,2,3,12,15,27,DDWLWWWDWLLWWLWLW,2,2,5,15,16,14,3,4,10,15,28,DWWLWWWDWWWWLWDLD,0,2,7,3,20,DLWDLLWLL,WWWWDWWWD
-NEC Nijmegen,Twente 1965,2-2,/match/nec/fc-twente-1965/2008,2008,19,eredivisie,18,34,1,2,2,14,3,4,11,15,31,DWWLWWWDWWWWLWDLDW,3,2,3,12,8,4,8,8,2,28,14,LDDLWDLWWLDDWDDLDW,4,4,1,15,8,DLWWWLLD,LLDWLDDLD
-Groningen,Excelsior,3-2,/match/fc-groningen/excelsior/2008,2008,19,eredivisie,18,34,0,3,2,3,10,3,5,28,28,LLDLLWDWWDWWWWWLWL,6,1,2,9,7,18,3,3,12,20,48,LWWLLDWWDWDLWLWWWL,0,2,6,6,24,LLWWDWWWW,WWDWDWWW
-NAC Breda,VVV Venlo,0-0,/match/nac-breda/vvv/2008,2008,19,eredivisie,18,34,1,0,0,11,8,4,6,23,25,LWWLLDWDLLDDLLLLLW,2,2,4,10,15,13,4,5,9,23,38,WWLWLWLWLLWDWDDWDD,1,3,5,9,21,LWDWLDLL,WWWWLDWDD
-Roda JC,Willem II,1-1,/match/roda-jc/willem-ii/2008,2008,19,eredivisie,18,34,1,1,1,6,9,5,4,35,27,DWLLWDLDWWWDWLLDWL,5,2,2,19,14,16,3,3,12,18,27,DDWLWWWDWLLWWLWLWW,0,1,7,0,11,WLDDWWWLW,DWWWWWWW
-Feyenoord,PSV,0-1,/match/feyenoord/psv/2008,2008,19,eredivisie,18,34,2,0,1,1,11,4,3,36,15,LWWLWWLWWWDWWDDLWD,7,2,0,24,4,2,12,3,3,41,14,LWDWWDWWLWDLLLLWWW,5,2,2,16,7,WWWWWDWDW,LDDLWLLLW
-De Graafschap,Vitesse,0-3,/match/graafschap/vitesse/2008,2008,19,eredivisie,18,34,2,0,3,12,6,4,8,22,28,LLDWLDWWWWDLLWDLLW,2,3,3,11,15,10,7,4,7,23,24,LWWWLLLDWDLWWDWWLD,3,2,4,13,16,LWDWDLDL,LWLDDWWWL
-Ajax,AZ Alkmaar,6-1,/match/ajax/az/2008,2008,19,eredivisie,18,34,0,6,1,5,9,6,3,46,27,LWDLLWDDLWDWLLLWDD,4,3,2,23,14,7,8,5,5,33,21,WWWDLWDLLWDWWWDDLW,2,3,3,12,13,WDWDWWLLD,WDWLDWDL
-Utrecht,Heerenveen,2-2,/match/fc-utrecht/heerenveen/2008,2008,19,eredivisie,18,34,1,2,2,9,8,4,6,39,31,LDDLLLLDLLLWWWWWWD,4,1,4,21,16,8,9,3,6,42,25,DWDLLWWLLWLLLWLLWD,6,0,3,18,10,LDLLLWWWW,WLWLLLLLW
-Heracles,Sparta Rotterdam,2-0,/match/heracles/sparta-rotterdam/2008,2008,19,eredivisie,18,34,0,2,0,15,3,4,11,13,41,LWWLDWWDDLWDWWWLWW,3,2,4,8,11,17,2,6,10,22,43,LDDDDWDWLWWDWWLLWL,1,2,6,12,27,LLWDLDWLW,DDWWWWWLW
-Excelsior,Feyenoord,2-1,/match/excelsior/feyenoord/2008,2008,20,eredivisie,18,34,0,2,1,18,3,3,13,22,51,LWWLLDWWDWDLWLWWWLW,3,1,6,14,24,2,11,4,4,36,16,LWWLWWLWWWDWWDDLWDL,4,2,3,12,11,LLLWDWLLWL,LLWLWWDLD
-NAC Breda,Willem II,1-0,/match/nac-breda/willem-ii/2008,2008,20,eredivisie,18,34,0,1,0,11,8,5,6,23,25,LWWLLDWDLLDDLLLLLWD,2,3,4,10,15,16,3,4,12,19,28,DDWLWWWDWLLWWLWLWWD,0,2,7,1,12,LWDWLDLLD,DWWWWWWWD
-Heerenveen,AZ Alkmaar,4-0,/match/heerenveen/az/2008,2008,20,eredivisie,18,34,0,4,0,8,9,4,6,44,27,DWDLLWWLLWLLLWLLWDD,3,3,3,24,15,7,8,5,6,34,27,WWWDLWDLLWDWWWDDLWW,2,3,4,13,19,DDLWWLWLD,WDWLDWDLW
-Utrecht,Roda JC,3-1,/match/fc-utrecht/roda-jc/2008,2008,20,eredivisie,18,34,0,3,1,9,8,5,6,41,33,LDDLLLLDLLLWWWWWWDD,4,2,4,23,18,6,9,6,4,36,28,DWLLWDLDWWWDWLLDWLD,4,3,2,16,13,LDLLLWWWWD,DLWLWDLDL
-Vitesse,Heracles,2-0,/match/vitesse/heracles/2008,2008,20,eredivisie,18,34,0,2,0,10,8,4,7,26,24,LWWWLLLDWDLWWDWWLDL,4,2,3,10,8,14,4,4,11,15,41,LWWLDWWDDLWDWWWLWWW,0,2,7,5,30,WWLLWLDWD,WWDWDWWWW
-NEC Nijmegen,Ajax,1-1,/match/nec/ajax/2008,2008,20,eredivisie,18,34,1,1,1,15,3,5,11,17,33,DWWLWWWDWWWWLWDLDWD,3,3,3,14,10,4,10,6,3,52,28,LWDLLWDDLWDWLLLWDDW,5,3,1,23,13,DLWWWLLDD,LLLDLDLWD
-VVV Venlo,PSV,1-1,/match/vvv/psv/2008,2008,20,eredivisie,18,34,1,1,1,13,4,6,9,23,38,WWLWLWLWLLWDWDDWDDD,3,2,4,14,17,1,13,3,3,42,14,LWDWWDWWLWDLLLLWWWL,6,2,2,17,7,WLLLLWDWD,LDDLWLLLWL
-Twente 1965,Groningen,3-1,/match/fc-twente-1965/fc-groningen/2008,2008,20,eredivisie,18,34,0,3,1,5,8,9,2,30,16,LDDLWDLWWLDDWDDLDWD,4,4,1,13,6,3,11,3,5,31,30,LLDLLWDWWDWWWWWLWLW,4,2,3,19,21,DDWLWDWDW,LDLDWWWLL
-Sparta Rotterdam,De Graafschap,6-1,/match/sparta-rotterdam/graafschap/2008,2008,20,eredivisie,18,34,0,6,1,17,2,6,11,22,45,LDDDDWDWLWWDWWLLWLW,1,4,4,10,16,12,6,4,9,22,31,LLDWLDWWWWDLLWDLLWL,4,1,5,11,13,LDDDLDWLL,LDLWWWLWLW
-AZ Alkmaar,NAC Breda,1-2,/match/az/nac-breda/2008,2008,21,eredivisie,18,34,2,1,2,7,8,5,7,34,31,WWWDLWDLLWDWWWDDLWWW,6,2,2,21,8,11,9,5,6,24,25,LWWLLDWDLLDDLLLLLWDW,6,2,2,13,10,WWLDLWWWDW,WLLDLDLLLW
-Heracles,Excelsior,2-0,/match/heracles/excelsior/2008,2008,21,eredivisie,18,34,0,2,0,14,4,4,12,15,43,LWWLDWWDDLWDWWWLWWWW,4,2,4,10,11,17,4,3,13,24,52,LWWLLDWWDWDLWLWWWLWW,0,2,7,8,27,LLWDLDWLWW,WWDWDWWWW
-Willem II,Vitesse,4-0,/match/willem-ii/vitesse/2008,2008,21,eredivisie,18,34,0,4,0,18,3,4,13,19,29,DDWLWWWDWLLWWLWLWWDW,3,2,5,18,16,10,9,4,7,28,24,LWWWLLLDWDLWWDWWLDLW,4,2,4,16,16,DLWDLLWLLW,LWLDDWWWLL
-Ajax,Utrecht,2-0,/match/ajax/fc-utrecht/2008,2008,21,eredivisie,18,34,0,2,0,5,10,7,3,53,29,LWDLLWDDLWDWLLLWDDWD,5,3,2,29,15,9,9,5,6,44,34,LDDLLLLDLLLWWWWWWDDW,4,3,2,18,15,WDWDWWLLDW,DLLLDLWWD
-De Graafschap,Roda JC,2-1,/match/graafschap/roda-jc/2008,2008,21,eredivisie,18,34,0,2,1,13,6,4,10,23,37,LLDWLDWWWWDLLWDLLWLW,2,3,4,11,18,6,9,6,5,37,31,DWLLWDLDWWWDWLLDWLDW,4,3,3,17,16,LWDWDLDLL,DLWLWDLDLW
-Groningen,NEC Nijmegen,5-1,/match/fc-groningen/nec/2008,2008,21,eredivisie,18,34,0,5,1,4,11,3,6,32,33,LLDLLWDWWDWWWWWLWLWW,7,1,2,12,9,15,3,6,11,18,34,DWWLWWWDWWWWLWDLDWDD,0,2,8,3,23,LLWWDWWWWW,WWWWDWWWDW
-PSV,Sparta Rotterdam,3-1,/match/psv/sparta-rotterdam/2008,2008,21,eredivisie,18,34,0,3,1,1,13,4,3,43,15,LWDWWDWWLWDLLLLWWWLD,7,1,1,25,7,16,3,6,11,28,46,LDDDDWDWLWWDWWLLWLWW,1,2,7,12,29,WWWWWDLWW,DDWWWWWLWW
-Heerenveen,VVV Venlo,5-1,/match/heerenveen/vvv/2008,2008,21,eredivisie,18,34,0,5,1,8,10,4,6,48,27,DWDLLWWLLWLLLWLLWDDW,4,3,3,28,15,12,4,7,9,24,39,WWLWLWLWLLWDWDDWDDDD,1,4,5,9,21,DDLWWLWLDW,WWWWLDWDDD
-Feyenoord,Twente 1965,3-1,/match/feyenoord/fc-twente-1965/2008,2008,21,eredivisie,18,34,0,3,1,2,11,4,5,37,18,LWWLWWLWWWDWWDDLWDLW,7,2,1,24,5,3,9,9,2,33,17,LDDLWDLWWLDDWDDLDWDW,4,5,1,17,10,WWWWWDWDWL,LLDWLDDLDD
-Willem II,AZ Alkmaar,3-0,/match/willem-ii/az/2008,2008,22,eredivisie,18,34,0,3,0,16,4,4,13,23,29,DDWLWWWDWLLWWLWLWWDWW,4,2,5,22,16,8,8,5,8,35,33,WWWDLWDLLWDWWWDDLWWWL,2,3,5,13,23,DLWDLLWLLWW,WDWLDWDLWW
-PSV,Excelsior,2-1,/match/psv/excelsior/2008,2008,22,eredivisie,18,34,0,2,1,1,14,4,3,46,16,LWDWWDWWLWDLLLLWWWLDW,8,1,1,28,8,18,4,3,14,24,54,LWWLLDWWDWDLWLWWWLWWW,0,2,8,8,29,WWWWWDLWWW,WWDWDWWWWW
-Roda JC,NAC Breda,0-2,/match/roda-jc/nac-breda/2008,2008,22,eredivisie,18,34,2,0,2,7,9,6,6,38,33,DWLLWDLDWWWDWLLDWLDWW,5,3,2,20,15,10,10,5,6,26,26,LWWLLDWDLLDDLLLLLWDWL,7,2,2,15,11,WLDDWWWLWD,WLLDLDLLLWL
-De Graafschap,Heerenveen,0-3,/match/graafschap/heerenveen/2008,2008,22,eredivisie,18,34,2,0,3,12,7,4,10,25,38,LLDWLDWWWWDLLWDLLWLWW,3,3,4,13,19,6,11,4,6,53,28,DWDLLWWLLWLLLWLLWDDWW,6,1,3,20,12,LWDWDLDLLW,WLWLLLLLWD
-NEC Nijmegen,Utrecht,2-0,/match/nec/fc-utrecht/2008,2008,22,eredivisie,18,34,0,2,0,15,3,6,12,19,39,DWWLWWWDWWWWLWDLDWDDW,3,4,3,15,11,9,9,5,7,44,36,LDDLLLLDLLLWWWWWWDDWW,4,3,3,18,17,DLWWWLLDDD,DLLLDLWWDW
-Vitesse,Ajax,2-2,/match/vitesse/ajax/2008,2008,22,eredivisie,18,34,1,2,2,11,9,4,8,28,28,LWWWLLLDWDLWWDWWLDLWW,5,2,3,12,8,4,11,7,3,55,29,LWDLLWDDLWDWLLLWDDWDW,5,4,1,24,14,WWLLWLDWDW,LLLDLDLWDD
-VVV Venlo,Heracles,0-5,/match/vvv/heracles/2008,2008,22,eredivisie,18,34,2,0,5,14,4,7,10,25,44,WWLWLWLWLLWDWDDWDDDDW,3,3,4,15,18,13,5,4,12,17,43,LWWLDWWDDLWDWWWLWWWWW,0,2,8,5,32,WLLLLWDWDD,WWDWDWWWWW
-Twente 1965,Sparta Rotterdam,1-2,/match/fc-twente-1965/sparta-rotterdam/2008,2008,22,eredivisie,18,34,2,1,2,5,9,9,3,34,20,LDDLWDLWWLDDWDDLDWDWW,5,4,1,16,7,17,3,6,12,29,49,LDDDDWDWLWWDWWLLWLWWW,1,2,8,13,32,DDWLWDWDWW,DDWWWWWLWWW
-Feyenoord,Groningen,1-1,/match/feyenoord/fc-groningen/2008,2008,22,eredivisie,18,34,1,1,1,2,12,4,5,40,19,LWWLWWLWWWDWWDDLWDLWW,8,2,1,27,6,3,12,3,6,37,34,LLDLLWDWWDWWWWWLWLWWW,4,2,4,20,24,WWWWWDWDWLW,LDLDWWWLLW
-NAC Breda,Twente 1965,1-0,/match/nac-breda/fc-twente-1965/2008,2008,23,eredivisie,18,34,0,1,0,9,11,5,6,28,26,LWWLLDWDLLDDLLLLLWDWLL,3,3,4,11,15,5,9,9,4,35,22,LDDLWDLWWLDDWDDLDWDWWL,4,5,2,18,13,LWDWLDLLDW,LLDWLDDLDDW
-Heerenveen,Vitesse,7-0,/match/heerenveen/vitesse/2008,2008,23,eredivisie,18,34,0,7,0,6,12,4,6,56,28,DWDLLWWLLWLLLWLLWDDWWL,5,3,3,33,16,8,9,5,8,30,30,LWWWLLLDWDLWWDWWLDLWWD,4,2,5,16,20,DDLWWLWLDWW,LWLDDWWWLLW
-AZ Alkmaar,PSV,0-2,/match/az/psv/2008,2008,23,eredivisie,18,34,2,0,2,11,8,5,9,35,36,WWWDLWDLLWDWWWDDLWWWLW,6,2,3,22,10,1,15,4,3,48,17,LWDWWDWWLWDLLLLWWWLDWW,6,3,2,18,8,WWLDLWWWDWL,LDDLWLLLWLD
-Excelsior,De Graafschap,1-1,/match/excelsior/graafschap/2008,2008,23,eredivisie,18,34,1,1,1,18,4,3,15,25,56,LWWLLDWWDWDLWLWWWLWWWW,4,1,6,16,25,13,7,4,11,25,41,LLDWLDWWWWDLLWDLLWLWWL,4,1,6,12,19,LLLWDWLLWLW,LDLWWWLWLWW
-Heracles,NEC Nijmegen,0-2,/match/heracles/nec/2008,2008,23,eredivisie,18,34,2,0,2,12,6,4,12,22,43,LWWLDWWDDLWDWWWLWWWWWL,5,2,4,12,11,14,4,6,12,21,39,DWWLWWWDWWWWLWDLDWDDWW,0,2,9,4,28,LLWDLDWLWWW,WWWWDWWWDWW
-Ajax,Feyenoord,3-0,/match/ajax/feyenoord/2008,2008,23,eredivisie,18,34,0,3,0,4,11,8,3,57,31,LWDLLWDDLWDWLLLWDDWDWD,6,3,2,31,15,2,12,5,5,41,20,LWWLWWLWWWDWWDDLWDLWWD,4,2,4,13,13,WDWDWWLLDWW,LLWLWWDLDW
-Groningen,Roda JC,1-1,/match/fc-groningen/roda-jc/2008,2008,23,eredivisie,18,34,1,1,1,3,12,4,6,38,35,LLDLLWDWWDWWWWWLWLWWWD,8,1,2,17,10,7,9,6,7,38,35,DWLLWDLDWWWDWLLDWLDWWL,4,3,4,18,18,LLWWDWWWWWW,DLWLWDLDLWW
-Utrecht,Willem II,2-0,/match/fc-utrecht/willem-ii/2008,2008,23,eredivisie,18,34,0,2,0,10,9,5,8,44,38,LDDLLLLDLLLWWWWWWDDWWW,5,2,4,26,19,15,5,4,13,26,29,DDWLWWWDWLLWWLWLWWDWWW,0,2,8,1,13,LDLLLWWWWDW,DWWWWWWWDW
-Sparta Rotterdam,VVV Venlo,2-0,/match/sparta-rotterdam/vvv/2008,2008,23,eredivisie,18,34,0,2,0,17,4,6,12,31,50,LDDDDWDWLWWDWWLLWLWWWL,2,4,4,16,17,16,4,7,11,25,49,WWLWLWLWLLWDWDDWDDDDWL,1,4,6,10,26,LDDDLDWLLW,WWWWLDWDDDW
-Twente 1965,Heracles,2-1,/match/fc-twente-1965/heracles/2008,2008,24,eredivisie,18,34,0,2,1,6,9,9,5,35,23,LDDLWDLWWLDDWDDLDWDWWLW,5,4,2,17,9,12,6,4,13,22,45,LWWLDWWDDLWDWWWLWWWWWLL,1,2,8,10,32,DDWLWDWDWWL,WWDWDWWWWWL
-NAC Breda,Utrecht,1-0,/match/nac-breda/fc-utrecht/2008,2008,24,eredivisie,18,34,0,1,0,7,12,5,6,29,26,LWWLLDWDLLDDLLLLLWDWLLW,4,3,4,12,15,8,10,5,8,46,38,LDDLLLLDLLLWWWWWWDDWWWW,4,3,4,18,19,LWDWLDLLDWW,DLLLDLWWDWW
-PSV,Heerenveen,1-1,/match/psv/heerenveen/2008,2008,24,eredivisie,18,34,1,1,1,1,16,4,3,50,17,LWDWWDWWLWDLLLLWWWLDWWL,9,1,1,30,9,5,13,4,6,63,28,DWDLLWWLLWLLLWLLWDDWWLW,7,1,3,23,12,WWWWWDLWWWW,WLWLLLLLWDL
-De Graafschap,Feyenoord,1-3,/match/graafschap/feyenoord/2008,2008,24,eredivisie,18,34,2,1,3,13,7,5,11,26,42,LLDWLDWWWWDLLWDLLWLWWLD,3,3,5,13,22,3,12,5,6,41,23,LWWLWWLWWWDWWDDLWDLWWDW,4,2,5,13,16,LWDWDLDLLWL,LLWLWWDLDWW
-Vitesse,Groningen,2-1,/match/vitesse/fc-groningen/2008,2008,24,eredivisie,18,34,0,2,1,10,9,5,9,30,37,LWWWLLLDWDLWWDWWLDLWWDW,5,3,3,14,10,4,12,5,6,39,36,LLDLLWDWWDWWWWWLWLWWWDD,4,3,4,21,25,WWLLWLDWDWD,LDLDWWWLLWD
-Roda JC,Ajax,2-1,/match/roda-jc/ajax/2008,2008,24,eredivisie,18,34,0,2,1,9,9,7,7,39,36,DWLLWDLDWWWDWLLDWLDWWLD,5,3,3,20,17,2,12,8,3,60,31,LWDLLWDDLWDWLLLWDDWDWDW,5,5,1,26,16,WLDDWWWLWDL,LLLDLDLWDDD
-VVV Venlo,Willem II,1-1,/match/vvv/willem-ii/2008,2008,24,eredivisie,18,34,1,1,1,17,4,7,12,25,51,WWLWLWLWLLWDWDDWDDDDWLW,3,3,5,15,23,15,5,4,14,26,31,DDWLWWWDWLLWWLWLWWDWWWW,0,2,9,1,15,WLLLLWDWDDL,DWWWWWWWDWW
-NEC Nijmegen,AZ Alkmaar,5-2,/match/nec/az/2008,2008,24,eredivisie,18,34,0,5,2,14,5,6,12,23,39,DWWLWWWDWWWWLWDLDWDDWWL,4,4,3,17,11,11,8,5,10,35,38,WWWDLWDLLWDWWWDDLWWWLWL,2,3,6,13,26,DLWWWLLDDDW,WDWLDWDLWWW
-Sparta Rotterdam,Excelsior,0-1,/match/sparta-rotterdam/excelsior/2008,2008,24,eredivisie,18,34,2,0,1,16,5,6,12,33,50,LDDDDWDWLWWDWWLLWLWWWLW,3,4,4,18,17,18,4,4,15,26,57,LWWLLDWWDWDLWLWWWLWWWWD,0,2,9,9,31,LDDDLDWLLWW,WWDWDWWWWWW
-Ajax,Sparta Rotterdam,6-2,/match/ajax/sparta-rotterdam/2008,2008,25,eredivisie,18,34,0,6,2,3,12,8,4,61,33,LWDLLWDDLWDWLLLWDDWDWDWW,7,3,2,34,15,16,5,6,13,33,51,LDDDDWDWLWWDWWLLWLWWWLWL,2,2,8,15,33,WDWDWWLLDWWW,DDWWWWWLWWWL
-Roda JC,Twente 1965,3-1,/match/roda-jc/fc-twente-1965/2008,2008,25,eredivisie,18,34,0,3,1,8,10,7,7,41,37,DWLLWDLDWWWDWLLDWLDWWLDW,6,3,3,22,18,6,10,9,5,37,24,LDDLWDLWWLDDWDDLDWDWWLWW,4,5,3,18,14,WLDDWWWLWDLW,LLDWLDDLDDWW
-Willem II,PSV,0-1,/match/willem-ii/psv/2008,2008,25,eredivisie,18,34,2,0,1,15,5,5,14,27,32,DDWLWWWDWLLWWLWLWWDWWWWD,5,2,5,25,16,1,16,5,3,51,18,LWDWWDWWLWDLLLLWWWLDWWLD,7,3,2,20,8,DLWDLLWLLWWW,LDDLWLLLWLDL
-Heracles,Heerenveen,2-2,/match/heracles/heerenveen/2008,2008,25,eredivisie,18,34,1,2,2,13,6,4,14,23,47,LWWLDWWDDLWDWWWLWWWWWLLW,5,2,5,12,13,5,13,5,6,64,29,DWDLLWWLLWLLLWLLWDDWWLWD,7,2,3,24,13,LLWDLDWLWWWL,WLWLLLLLWDLD
-NEC Nijmegen,Excelsior,0-1,/match/nec/excelsior/2008,2008,25,eredivisie,18,34,2,0,1,12,6,6,12,28,41,DWWLWWWDWWWWLWDLDWDDWWLW,5,4,3,22,13,18,5,4,15,27,57,LWWLLDWWDWDLWLWWWLWWWWDL,1,2,9,10,31,DLWWWLLDDDWW,WWDWDWWWWWWL
-De Graafschap,NAC Breda,0-1,/match/graafschap/nac-breda/2008,2008,25,eredivisie,18,34,2,0,1,14,7,5,12,27,45,LLDWLDWWWWDLLWDLLWLWWLDL,3,3,6,14,25,7,13,5,6,30,26,LWWLLDWDLLDDLLLLLWDWLLWW,8,2,2,17,11,LWDWDLDLLWLL,WLLDLDLLLWLL
-Groningen,AZ Alkmaar,2-1,/match/fc-groningen/az/2008,2008,25,eredivisie,18,34,0,2,1,4,12,5,7,40,38,LLDLLWDWWDWWWWWLWLWWWDDW,8,2,2,18,11,11,8,5,11,37,43,WWWDLWDLLWDWWWDDLWWWLWLW,2,3,7,15,31,LLWWDWWWWWWD,WDWLDWDLWWWW
-Utrecht,VVV Venlo,1-4,/match/fc-utrecht/vvv/2008,2008,25,eredivisie,18,34,2,1,4,10,10,5,9,46,39,LDDLLLLDLLLWWWWWWDDWWWWW,6,2,4,28,19,17,4,8,12,26,52,WWLWLWLWLLWDWDDWDDDDWLWD,1,4,7,10,28,LDLLLWWWWDWW,WWWWLDWDDDWW
-Feyenoord,Vitesse,1-0,/match/feyenoord/vitesse/2008,2008,25,eredivisie,18,34,0,1,0,2,13,5,6,44,24,LWWLWWLWWWDWWDDLWDLWWDWL,8,3,1,28,7,9,10,5,9,32,38,LWWWLLLDWDLWWDWWLDLWWDWW,4,2,6,16,27,WWWWWDWDWLWD,LWLDDWWWLLWW
-Sparta Rotterdam,Utrecht,2-1,/match/sparta-rotterdam/fc-utrecht/2008,2008,26,eredivisie,18,34,0,2,1,17,5,6,14,35,57,LDDDDWDWLWWDWWLLWLWWWLWLW,3,4,5,18,18,10,10,5,10,47,43,LDDLLLLDLLLWWWWWWDDWWWWWL,4,3,5,18,20,LDDDLDWLLWWL,DLLLDLWWDWWW
-AZ Alkmaar,Twente 1965,0-0,/match/az/fc-twente-1965/2008,2008,26,eredivisie,18,34,1,0,0,11,8,5,12,38,45,WWWDLWDLLWDWWWDDLWWWLWLWW,6,2,4,22,12,8,10,9,6,38,27,LDDLWDLWWLDDWDDLDWDWWLWWW,4,5,4,19,17,WWLDLWWWDWLL,LLDWLDDLDDWWW
-Excelsior,Willem II,0-0,/match/excelsior/willem-ii/2008,2008,26,eredivisie,18,34,1,0,0,18,6,4,15,28,57,LWWLLDWWDWDLWLWWWLWWWWDLL,4,2,6,17,26,16,5,5,15,27,33,DDWLWWWDWLLWWLWLWWDWWWWDL,0,3,9,2,16,LLLWDWLLWLWD,DWWWWWWWDWWD
-Heracles,Feyenoord,3-3,/match/heracles/feyenoord/2008,2008,26,eredivisie,18,34,1,3,3,13,6,5,14,25,49,LWWLDWWDDLWDWWWLWWWWWLLWD,5,3,5,14,15,2,14,5,6,45,24,LWWLWWLWWWDWWDDLWDLWWDWLW,5,2,5,16,17,LLWDLDWLWWWLD,LLWLWWDLDWWL
-Vitesse,Roda JC,1-1,/match/vitesse/roda-jc/2008,2008,26,eredivisie,18,34,1,1,1,9,10,5,10,32,39,LWWWLLLDWDLWWDWWLDLWWDWWW,6,3,3,16,11,7,11,7,7,44,38,DWLLWDLDWWWDWLLDWLDWWLDWW,4,4,4,19,19,WWLLWLDWDWDW,DLWLWDLDLWWD
-NAC Breda,Ajax,2-3,/match/nac-breda/ajax/2008,2008,26,eredivisie,18,34,2,2,3,6,14,5,6,31,26,LWWLLDWDLLDDLLLLLWDWLLWWL,5,3,4,13,15,3,13,8,4,67,35,LWDLLWDDLWDWLLLWDDWDWDWWW,5,5,2,27,18,LWDWLDLLDWWW,LLLDLDLWDDDW
-VVV Venlo,Groningen,2-5,/match/vvv/fc-groningen/2008,2008,26,eredivisie,18,34,2,2,5,15,5,8,12,30,53,WWLWLWLWLLWDWDDWDDDDWLWDL,3,4,5,16,24,4,13,5,7,42,39,LLDLLWDWWDWWWWWLWLWWWDDWW,4,3,5,22,27,WLLLLWDWDDLD,LDLDWWWLLWDW
-PSV,De Graafschap,4-1,/match/psv/graafschap/2008,2008,26,eredivisie,18,34,0,4,1,1,17,5,3,52,18,LWDWWDWWLWDLLLLWWWLDWWLDL,9,2,1,31,10,14,7,5,13,27,46,LLDWLDWWWWDLLWDLLWLWWLDLL,4,2,6,13,20,WWWWWDLWWWWD,LDLWWWLWLWWD
-Heerenveen,NEC Nijmegen,2-3,/match/heerenveen/nec/2008,2008,26,eredivisie,18,34,2,2,3,5,13,6,6,66,31,DWDLLWWLLWLLLWLLWDDWWLWDD,6,3,3,40,16,12,6,6,13,28,42,DWWLWWWDWWWWLWDLDWDDWWLWL,1,2,9,6,28,DDLWWLWLDWWW,WWWWDWWWDWWL
-Vitesse,VVV Venlo,1-3,/match/vitesse/vvv/2008,2008,27,eredivisie,18,34,2,1,3,9,10,6,10,33,40,LWWWLLLDWDLWWDWWLDLWWDWWWD,6,4,3,17,12,16,5,8,13,32,58,WWLWLWLWLLWDWDDWDDDDWLWDLL,2,4,7,14,29,WWLLWLDWDWDWD,WWWWLDWDDDWWL
-NAC Breda,Sparta Rotterdam,3-0,/match/nac-breda/sparta-rotterdam/2008,2008,27,eredivisie,18,34,0,3,0,7,14,5,7,33,29,LWWLLDWDLLDDLLLLLWDWLLWWLL,5,3,5,15,18,14,6,6,14,37,58,LDDDDWDWLWWDWWLLWLWWWLWLWW,2,2,9,17,39,LWDWLDLLDWWWL,DDWWWWWLWWWLW
-Roda JC,AZ Alkmaar,1-1,/match/roda-jc/az/2008,2008,27,eredivisie,18,34,1,1,1,6,11,8,7,45,39,DWLLWDLDWWWDWLLDWLDWWLDWWD,7,3,3,25,19,11,8,6,12,38,45,WWWDLWDLLWDWWWDDLWWWLWLWWD,2,3,8,16,33,WLDDWWWLWDLWW,WDWLDWDLWWWWW
-De Graafschap,Willem II,1-2,/match/graafschap/willem-ii/2008,2008,27,eredivisie,18,34,2,1,2,15,7,5,14,28,50,LLDWLDWWWWDLLWDLLWLWWLDLLW,3,3,7,14,26,17,5,6,15,27,33,DDWLWWWDWLLWWLWLWWDWWWWDLD,0,4,9,2,16,LWDWDLDLLWLLL,DWWWWWWWDWWDD
-Twente 1965,Heerenveen,1-0,/match/fc-twente-1965/heerenveen/2008,2008,27,eredivisie,18,34,0,1,0,8,10,10,6,38,27,LDDLWDLWWLDDWDDLDWDWWLWWWD,6,4,2,19,10,5,13,6,7,68,34,DWDLLWWLLWLLLWLLWDDWWLWDDL,7,3,3,26,15,DDWLWDWDWWLW,WLWLLLLLWDLDD
-Ajax,Excelsior,4-0,/match/ajax/excelsior/2008,2008,27,eredivisie,18,34,0,4,0,3,14,8,4,70,37,LWDLLWDDLWDWLLLWDDWDWDWWWL,8,3,2,40,17,18,6,5,15,28,57,LWWLLDWWDWDLWLWWWLWWWWDLLD,2,2,9,11,31,WDWDWWLLDWWWW,WWDWDWWWWWWLL
-Groningen,Heracles,1-2,/match/fc-groningen/heracles/2008,2008,27,eredivisie,18,34,2,1,2,4,14,5,7,47,41,LLDLLWDWWDWWWWWLWLWWWDDWWL,9,2,2,20,12,13,6,6,14,28,52,LWWLDWWDDLWDWWWLWWWWWLLWDD,1,2,9,11,34,LLWWDWWWWWWDW,WWDWDWWWWWLW
-Utrecht,PSV,3-1,/match/fc-utrecht/psv/2008,2008,27,eredivisie,18,34,0,3,1,10,10,5,11,48,45,LDDLLLLDLLLWWWWWWDDWWWWWLW,6,2,5,29,23,1,18,5,3,56,19,LWDWWDWWLWDLLLLWWWLDWWLDLW,8,3,2,21,8,LDLLLWWWWDWWL,LDDLWLLLWLDLL
-Feyenoord,NEC Nijmegen,1-3,/match/feyenoord/nec/2008,2008,27,eredivisie,18,34,2,1,3,2,14,6,6,48,27,LWWLWWLWWWDWWDDLWDLWWDWLWD,9,3,1,29,7,12,7,6,13,31,44,DWWLWWWDWWWWLWDLDWDDWWLWLL,2,2,9,9,30,WWWWWDWDWLWDW,WWWWDWWWDWWLL
-Heracles,Utrecht,2-1,/match/heracles/fc-utrecht/2008,2008,28,eredivisie,18,34,0,2,1,13,7,6,14,30,53,LWWLDWWDDLWDWWWLWWWWWLLWDDL,5,4,5,17,18,9,11,5,11,51,46,LDDLLLLDLLLWWWWWWDDWWWWWLWW,4,3,6,19,22,LLWDLDWLWWWLDD,DLLLDLWWDWWWW
-Willem II,Groningen,1-2,/match/willem-ii/fc-groningen/2008,2008,28,eredivisie,18,34,2,1,2,16,6,6,15,29,34,DDWLWWWDWLLWWLWLWWDWWWWDLDL,5,2,6,25,17,4,14,5,8,48,43,LLDLLWDWWDWWWWWLWLWWWDDWWLL,5,3,5,27,29,DLWDLLWLLWWWL,LDLDWWWLLWDWL
-Excelsior,Vitesse,1-2,/match/excelsior/vitesse/2008,2008,28,eredivisie,18,34,2,1,2,18,6,5,16,28,61,LWWLLDWWDWDLWLWWWLWWWWDLLDW,4,3,6,17,26,10,10,6,11,34,43,LWWWLLLDWDLWWDWWLDLWWDWWWDL,4,2,7,16,28,LLLWDWLLWLWDD,LWLDDWWWLLWWW
-NEC Nijmegen,De Graafschap,3-1,/match/nec/graafschap/2008,2008,28,eredivisie,18,34,0,3,1,12,8,6,13,34,45,DWWLWWWDWWWWLWDLDWDDWWLWLLL,5,4,4,22,14,17,7,5,15,29,52,LLDWLDWWWWDLLWDLLWLWWLDLLWL,4,2,7,14,24,DLWWWLLDDDWWL,LDLWWWLWLWWDW
-Heerenveen,NAC Breda,3-0,/match/heerenveen/nac-breda/2008,2008,28,eredivisie,18,34,0,3,0,8,13,6,8,68,35,DWDLLWWLLWLLLWLLWDDWWLWDDLW,6,3,4,42,19,5,15,5,7,36,29,LWWLLDWDLLDDLLLLLWDWLLWWLLW,9,2,2,18,11,DDLWWLWLDWWWL,WLLDLDLLLWLLL
-Sparta Rotterdam,Roda JC,4-1,/match/sparta-rotterdam/roda-jc/2008,2008,28,eredivisie,18,34,0,4,1,14,6,6,15,37,61,LDDDDWDWLWWDWWLLWLWWWLWLWWW,4,4,5,20,19,7,11,9,7,46,40,DWLLWDLDWWWDWLLDWLDWWLDWWDD,4,5,4,20,20,LDDDLDWLLWWLW,DLWLWDLDLWWDD
-VVV Venlo,Twente 1965,0-2,/match/vvv/fc-twente-1965/2008,2008,28,eredivisie,18,34,2,0,2,15,6,8,13,35,59,WWLWLWLWLLWDWDDWDDDDWLWDLLL,3,4,6,18,29,6,11,10,6,39,27,LDDLWDLWWLDDWDDLDWDWWLWWWDW,4,6,4,19,17,WLLLLWDWDDLDL,LLDWLDDLDDWWWD
-AZ Alkmaar,Feyenoord,0-1,/match/az/feyenoord/2008,2008,28,eredivisie,18,34,2,0,1,11,8,7,12,39,46,WWWDLWDLLWDWWWDDLWWWLWLWWDD,6,3,4,22,12,3,14,6,7,49,30,LWWLWWLWWWDWWDDLWDLWWDWLWDL,5,3,5,19,20,WWLDLWWWDWLLD,LLWLWWDLDWWLD
-PSV,Ajax,0-0,/match/psv/ajax/2008,2008,28,eredivisie,18,34,1,0,0,1,18,5,4,57,22,LWDWWDWWLWDLLLLWWWLDWWLDLWW,10,2,1,35,11,2,15,8,4,74,37,LWDLLWDDLWDWLLLWDDWDWDWWWLW,6,5,2,30,20,WWWWWDLWWWWDW,LLLDLDLWDDDWL
-Groningen,Heerenveen,0-1,/match/fc-groningen/heerenveen/2008,2008,29,eredivisie,18,34,2,0,1,4,15,5,8,50,44,LLDLLWDWWDWWWWWLWLWWWDDWWLLL,9,2,3,21,14,6,14,6,8,71,35,DWDLLWWLLWLLLWLLWDDWWLWDDLWW,7,3,4,26,16,LLWWDWWWWWWDWL,WLWLLLLLWDLDDW
-De Graafschap,Heracles,0-0,/match/graafschap/heracles/2008,2008,29,eredivisie,18,34,1,0,0,17,7,5,16,30,55,LLDWLDWWWWDLLWDLLWLWWLDLLWLW,3,3,8,15,28,13,8,6,14,32,54,LWWLDWWDDLWDWWWLWWWWWLLWDDLW,2,2,9,13,35,LWDWDLDLLWLLLL,WWDWDWWWWWLWL
-Twente 1965,Vitesse,4-3,/match/fc-twente-1965/vitesse/2008,2008,29,eredivisie,18,34,0,4,3,5,12,10,6,41,27,LDDLWDLWWLDDWDDLDWDWWLWWWDWL,7,4,2,20,10,9,11,6,11,36,44,LWWWLLLDWDLWWDWWLDLWWDWWWDLL,5,2,7,18,29,DDWLWDWDWWLWW,LWLDDWWWLLWWWL
-Feyenoord,VVV Venlo,4-1,/match/feyenoord/vvv/2008,2008,29,eredivisie,18,34,0,4,1,3,15,6,7,50,30,LWWLWWLWWWDWWDDLWDLWWDWLWDLL,9,3,2,30,10,15,6,8,14,35,61,WWLWLWLWLLWDWDDWDDDDWLWDLLLL,3,4,7,17,30,WWWWWDWDWLWDWL,WWWWLDWDDDWWLL
-NAC Breda,Excelsior,2-0,/match/nac-breda/excelsior/2008,2008,29,eredivisie,18,34,0,2,0,7,15,5,8,36,32,LWWLLDWDLLDDLLLLLWDWLLWWLLWW,6,3,5,18,18,18,6,5,17,29,63,LWWLLDWWDWDLWLWWWLWWWWDLLDWL,2,2,10,11,35,LWDWLDLLDWWWLW,WWDWDWWWWWWLLW
-Ajax,Willem II,4-1,/match/ajax/willem-ii/2008,2008,29,eredivisie,18,34,0,4,1,2,15,9,4,74,37,LWDLLWDDLWDWLLLWDDWDWDWWWLWD,9,3,2,44,17,16,6,6,16,30,36,DDWLWWWDWLLWWLWLWWDWWWWDLDLL,1,4,9,4,17,WDWDWWLLDWWWWW,DWWWWWWWDWWDDL
-Utrecht,AZ Alkmaar,2-2,/match/fc-utrecht/az/2008,2008,29,eredivisie,18,34,1,2,2,10,11,5,12,52,48,LDDLLLLDLLLWWWWWWDDWWWWWLWWW,7,2,5,32,24,12,8,7,13,39,47,WWWDLWDLLWDWWWDDLWWWLWLWWDDL,2,4,8,17,34,LDLLLWWWWDWWLW,WDWLDWDLWWWWWD
-NEC Nijmegen,Sparta Rotterdam,4-2,/match/nec/sparta-rotterdam/2008,2008,29,eredivisie,18,34,0,4,2,11,9,6,13,37,46,DWWLWWWDWWWWLWDLDWDDWWLWLLLW,6,4,4,25,15,14,7,6,15,41,62,LDDDDWDWLWWDWWLLWLWWWLWLWWWW,2,2,10,17,42,DLWWWLLDDDWWLW,DDWWWWWLWWWLWW
-Roda JC,PSV,1-1,/match/roda-jc/psv/2008,2008,29,eredivisie,18,34,1,1,1,8,11,9,8,47,44,DWLLWDLDWWWDWLLDWLDWWLDWWDDW,7,4,3,26,20,1,18,6,4,57,22,LWDWWDWWLWDLLLLWWWLDWWLDLWWD,8,3,3,22,11,WLDDWWWLWDLWWD,LDDLWLLLWLDLLW
-Vitesse,NAC Breda,3-3,/match/vitesse/nac-breda/2008,2008,30,eredivisie,18,34,1,3,3,10,11,6,12,39,48,LWWWLLLDWDLWWDWWLDLWWDWWWDLLW,6,4,4,18,15,6,16,5,8,38,32,LWWLLDWDLLDDLLLLLWDWLLWWLLWWW,9,2,3,18,14,WWLLWLDWDWDWDL,WLLDLDLLLWLLLW
-PSV,Groningen,3-0,/match/psv/fc-groningen/2008,2008,30,eredivisie,18,34,0,3,0,1,18,7,4,58,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDD,10,3,1,35,11,5,15,5,9,50,45,LLDLLWDWWDWWWWWLWLWWWDDWWLLLL,6,3,5,29,30,WWWWWDLWWWWDWD,LDLDWWWLLWDWLL
-Heerenveen,Roda JC,4-3,/match/heerenveen/roda-jc/2008,2008,30,eredivisie,18,34,0,4,3,7,15,6,8,72,35,DWDLLWWLLWLLLWLLWDDWWLWDDLWWL,7,3,4,45,19,8,11,10,8,48,45,DWLLWDLDWWWDWLLDWLDWWLDWWDDWD,4,5,5,21,24,DDLWWLWLDWWWLW,DLWLWDLDLWWDDW
-AZ Alkmaar,De Graafschap,0-0,/match/az/graafschap/2008,2008,30,eredivisie,18,34,1,0,0,12,8,8,13,41,49,WWWDLWDLLWDWWWDDLWWWLWLWWDDLD,6,3,5,22,13,17,7,6,16,30,55,LLDWLDWWWWDLLWDLLWLWWLDLLWLWD,4,2,8,15,27,WWLDLWWWDWLLDL,LDLWWWLWLWWDWW
-Excelsior,Utrecht,0-2,/match/excelsior/fc-utrecht/2008,2008,30,eredivisie,18,34,2,0,2,18,6,5,18,29,65,LWWLLDWWDWDLWLWWWLWWWWDLLDWLW,4,3,7,18,28,9,11,6,12,54,50,LDDLLLLDLLLWWWWWWDDWWWWWLWWWD,4,3,7,20,24,LLLWDWLLWLWDDL,DLLLDLWWDWWWWW
-VVV Venlo,NEC Nijmegen,1-2,/match/vvv/nec/2008,2008,30,eredivisie,18,34,2,1,2,15,6,8,15,36,65,WWLWLWLWLLWDWDDWDDDDWLWDLLLLW,3,4,7,18,31,11,10,6,13,41,48,DWWLWWWDWWWWLWDLDWDDWWLWLLLWW,3,2,9,12,31,WLLLLWDWDDLDLL,WWWWDWWWDWWLLL
-Twente 1965,Ajax,2-1,/match/fc-twente-1965/ajax/2008,2008,30,eredivisie,18,34,0,2,1,4,13,10,6,45,30,LDDLWDLWWLDDWDDLDWDWWLWWWDWLW,8,4,2,24,13,2,16,9,4,78,38,LWDLLWDDLWDWLLLWDDWDWDWWWLWDW,6,6,2,30,20,DDWLWDWDWWLWWW,LLLDLDLWDDDWLD
-Sparta Rotterdam,Feyenoord,3-2,/match/sparta-rotterdam/feyenoord/2008,2008,30,eredivisie,18,34,0,3,2,14,7,6,16,43,66,LDDDDWDWLWWDWWLLWLWWWLWLWWWWW,5,4,5,24,20,3,16,6,7,54,31,LWWLWWLWWWDWWDDLWDLWWDWLWDLLW,6,3,5,20,20,LDDDLDWLLWWLWW,LLWLWWDLDWWLDL
-Willem II,Heracles,2-1,/match/willem-ii/heracles/2008,2008,30,eredivisie,18,34,0,2,1,16,6,6,17,31,40,DDWLWWWDWLLWWLWLWWDWWWWDLDLLW,5,2,7,26,19,13,8,7,14,32,54,LWWLDWWDDLWDWWWLWWWWWLLWDDLWD,2,3,9,13,35,DLWDLLWLLWWWLL,WWDWDWWWWWLWLD
-De Graafschap,Groningen,1-1,/match/graafschap/fc-groningen/2008,2008,31,eredivisie,18,34,1,1,1,16,7,7,16,30,55,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDD,3,4,8,15,28,6,15,5,10,50,48,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLW,6,3,6,29,33,LWDWDLDLLWLLLLD,LDLDWWWLLWDWLLW
-Heerenveen,Ajax,2-4,/match/heerenveen/ajax/2008,2008,31,eredivisie,18,34,2,2,4,5,16,6,8,76,38,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLW,8,3,4,49,22,2,16,9,5,79,40,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWW,6,6,3,31,22,DDLWWLWLDWWWLWW,LLLDLDLWDDDWLDW
-Excelsior,VVV Venlo,2-1,/match/excelsior/vvv/2008,2008,31,eredivisie,18,34,0,2,1,18,6,5,19,29,67,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWL,4,3,8,18,30,17,6,8,16,37,67,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWL,3,4,8,18,34,LLLWDWLLWLWDDLL,WWWWLDWDDDWWLLW
-Heracles,Roda JC,0-0,/match/heracles/roda-jc/2008,2008,31,eredivisie,18,34,1,0,0,13,8,7,15,33,56,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDW,6,4,5,19,19,8,11,10,9,51,49,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDW,4,5,6,24,28,LLWDLDWLWWWLDDW,DLWLWDLDLWWDDWW
-NEC Nijmegen,PSV,0-0,/match/nec/psv/2008,2008,31,eredivisie,18,34,1,0,0,10,11,6,13,43,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWL,7,4,4,29,17,1,19,7,4,61,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDW,8,4,3,23,12,DLWWWLLDDDWWLWW,LDDLWLLLWLDLLWD
-NAC Breda,Feyenoord,3-1,/match/nac-breda/feyenoord/2008,2008,31,eredivisie,18,34,0,3,1,7,16,6,8,41,35,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWD,7,3,5,20,18,3,16,6,8,56,34,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWW,6,3,6,22,23,LWDWLDLLDWWWLWW,LLWLWWDLDWWLDLW
-AZ Alkmaar,Vitesse,2-1,/match/az/vitesse/2008,2008,31,eredivisie,18,34,0,2,1,12,8,9,13,41,49,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDD,6,4,5,22,13,11,11,7,12,42,51,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWD,5,2,8,21,33,WWLDLWWWDWLLDLD,LWLDDWWWLLWWWLW
-Utrecht,Twente 1965,0-1,/match/fc-utrecht/fc-twente-1965/2008,2008,31,eredivisie,18,34,2,0,1,9,12,6,12,56,50,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDL,7,3,5,34,26,4,14,10,6,47,31,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWW,5,6,4,21,17,LDLLLWWWWDWWLWD,LLDWLDDLDDWWWDL
-Sparta Rotterdam,Willem II,2-2,/match/sparta-rotterdam/willem-ii/2008,2008,31,eredivisie,18,34,1,2,2,14,8,6,16,46,68,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWW,6,4,5,27,22,15,7,6,17,33,41,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWW,1,4,10,5,21,LDDDLDWLLWWLWWW,DWWWWWWWDWWDDLW
-Roda JC,NEC Nijmegen,0-2,/match/roda-jc/nec/2008,2008,32,eredivisie,18,34,2,0,2,8,11,11,9,51,49,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDWD,7,5,3,27,21,9,11,7,13,43,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWLD,4,2,9,14,32,WLDDWWWLWDLWWDD,WWWWDWWWDWWLLLL
-Willem II,Heerenveen,2-3,/match/willem-ii/heerenveen/2008,2008,32,eredivisie,18,34,2,2,3,15,7,7,17,35,43,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWWD,6,2,7,28,20,6,16,6,9,78,42,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLWL,8,3,4,27,16,DLWDLLWLLWWWLLW,WLWLLLLLWDLDDWL
-Twente 1965,Excelsior,1-0,/match/fc-twente-1965/excelsior/2008,2008,32,eredivisie,18,34,0,1,0,3,15,10,6,48,31,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWWL,9,4,2,26,14,17,7,5,19,31,68,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWLW,2,2,11,11,37,DDWLWDWDWWLWWWW,WWDWDWWWWWWLLWW
-Vitesse,Sparta Rotterdam,3-0,/match/vitesse/sparta-rotterdam/2008,2008,32,eredivisie,18,34,0,3,0,11,11,7,13,43,53,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWDW,6,5,4,21,18,14,8,7,16,48,70,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWWD,2,2,11,19,46,WWLLWLDWDWDWDLD,DDWWWWWLWWWLWWW
-VVV Venlo,AZ Alkmaar,2-3,/match/vvv/az/2008,2008,32,eredivisie,18,34,2,2,3,18,6,8,17,38,69,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWLW,3,4,8,19,33,12,9,9,13,43,50,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDDW,2,5,8,19,36,WLLLLWDWDDLDLLL,WDWLDWDLWWWWWDD
-Ajax,De Graafschap,4-1,/match/ajax/graafschap/2008,2008,32,eredivisie,18,34,0,4,1,2,17,9,5,83,42,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWWL,10,3,2,48,18,16,7,8,16,31,56,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDDD,4,3,8,15,27,WDWDWWLLDWWWWWW,LDLWWWLWLWWDWWD
-Groningen,NAC Breda,1-2,/match/fc-groningen/nac-breda/2008,2008,32,eredivisie,18,34,2,1,2,7,15,6,10,51,49,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLWD,9,2,4,21,15,5,17,6,8,44,36,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWDW,9,3,3,21,17,LLWWDWWWWWWDWLL,WLLDLDLLLWLLLWD
-Feyenoord,Utrecht,3-1,/match/feyenoord/fc-utrecht/2008,2008,32,eredivisie,18,34,0,3,1,4,16,6,9,57,37,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWWW,10,3,2,34,11,10,12,6,13,56,51,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDLL,5,3,7,22,24,WWWWWDWDWLWDWLW,DLLLDLWWDWWWWWL
-PSV,Heracles,2-0,/match/psv/heracles/2008,2008,32,eredivisie,18,34,0,2,0,1,19,8,4,61,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDWD,11,3,1,38,11,13,8,8,15,33,56,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDWD,2,3,10,14,37,WWWWWDLWWWWDWDW,WWDWDWWWWWLWLDW
-De Graafschap,Utrecht,1-1,/match/graafschap/fc-utrecht/2008,2008,33,eredivisie,18,34,1,1,1,16,7,8,17,32,60,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDDDW,3,5,8,16,29,12,12,6,14,57,54,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDLLW,5,3,8,23,27,LWDWDLDLLWLLLLDD,DLLLDLWWDWWWWWLW
-Excelsior,AZ Alkmaar,1-1,/match/excelsior/az/2008,2008,33,eredivisie,18,34,1,1,1,17,7,5,20,31,69,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWLWW,5,3,8,20,31,11,10,9,13,46,52,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDDWL,3,5,8,22,38,LLLWDWLLWLWDDLLW,WDWLDWDLWWWWWDDL
-Heracles,NAC Breda,0-1,/match/heracles/nac-breda/2008,2008,33,eredivisie,18,34,2,0,1,13,8,8,16,33,58,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDWDW,6,5,5,19,19,5,18,6,8,46,37,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWDWL,10,3,3,23,18,LLWDLDWLWWWLDDWD,WLLDLDLLLWLLLWDL
-NEC Nijmegen,Vitesse,1-0,/match/nec/vitesse/2008,2008,33,eredivisie,18,34,0,1,0,9,12,7,13,45,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWLDL,7,5,4,29,17,10,12,7,13,46,53,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWDWW,5,2,9,22,35,DLWWWLLDDDWWLWWD,LWLDDWWWLLWWWLWW
-PSV,Twente 1965,1-1,/match/psv/fc-twente-1965/2008,2008,33,eredivisie,18,34,1,1,1,1,20,8,4,63,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDWDW,12,3,1,40,11,3,16,10,6,49,31,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWWLW,6,6,4,22,17,WWWWWDLWWWWDWDWW,LLDWLDDLDDWWWDLL
-Roda JC,VVV Venlo,4-1,/match/roda-jc/vvv/2008,2008,33,eredivisie,18,34,0,4,1,8,11,11,10,51,51,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDWDL,7,5,4,27,23,18,6,8,18,40,72,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWLWL,3,4,9,19,36,WLDDWWWLWDLWWDDL,WWWWLDWDDDWWLLWW
-Sparta Rotterdam,Heerenveen,4-2,/match/sparta-rotterdam/heerenveen/2008,2008,33,eredivisie,18,34,0,4,2,14,8,7,17,48,73,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWWDW,6,5,5,29,24,6,17,6,9,81,44,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLWLL,9,3,4,30,18,LDDDLDWLLWWLWWWD,WLWLLLLLWDLDDWLL
-Willem II,Feyenoord,3-1,/match/willem-ii/feyenoord/2008,2008,33,eredivisie,18,34,0,3,1,15,7,7,18,37,46,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWWDL,6,2,8,30,23,4,17,6,9,60,38,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWWWW,6,3,7,23,26,DLWDLLWLLWWWLLWL,LLWLWWDLDWWLDLWW
-Groningen,Ajax,1-2,/match/fc-groningen/ajax/2008,2008,33,eredivisie,18,34,2,1,2,7,15,6,11,52,51,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLWDL,9,2,5,22,17,2,18,9,5,87,43,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWWLW,7,6,3,35,24,LLWWDWWWWWWDWLLL,LLLDLDLWDDDWLDWL
-Ajax,Heracles,5-1,/match/ajax/heracles/2008,2008,34,eredivisie,18,34,0,5,1,2,19,9,5,89,44,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWWLWL,11,3,2,52,19,14,8,8,17,33,59,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDWDWL,2,3,11,14,39,WDWDWWLLDWWWWWWW,WWDWDWWWWWLWLDWW
-AZ Alkmaar,Sparta Rotterdam,1-0,/match/az/sparta-rotterdam/2008,2008,34,eredivisie,18,34,0,1,0,11,10,10,13,47,53,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDDWLD,7,4,5,24,14,13,9,7,17,52,75,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWWDWW,2,2,12,19,49,WWLDLWWWDWLLDLDW,DDWWWWWLWWWLWWWW
-Twente 1965,Willem II,2-0,/match/fc-twente-1965/willem-ii/2008,2008,34,eredivisie,18,34,0,2,0,3,16,11,6,50,32,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWWLWD,10,4,2,27,14,15,8,7,18,40,47,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWWDLW,1,5,10,7,23,DDWLWDWDWWLWWWWW,DWWWWWWWDWWDDLWD
-Utrecht,Groningen,1-0,/match/fc-utrecht/fc-groningen/2008,2008,34,eredivisie,18,34,0,1,0,12,12,7,14,58,55,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDLLWD,7,3,6,34,27,7,15,6,12,53,53,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLWDLL,6,4,6,30,34,LDLLLWWWWDWWLWDL,LDLDWWWLLWDWLLWD
-Feyenoord,Roda JC,3-0,/match/feyenoord/roda-jc/2008,2008,34,eredivisie,18,34,0,3,0,4,17,6,10,61,41,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWWWWW,11,3,2,37,12,8,12,11,10,55,52,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDWDLW,4,6,6,24,28,WWWWWDWDWLWDWLWW,DLWLWDLDLWWDDWWD
-NAC Breda,NEC Nijmegen,1-3,/match/nac-breda/nec/2008,2008,34,eredivisie,18,34,2,1,3,5,19,6,8,47,37,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWDWLL,8,3,5,23,19,9,13,7,13,46,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWLDLW,5,2,9,16,32,LWDWLDLLDWWWLWWW,WWWWDWWWDWWLLLLL
-Heerenveen,Excelsior,5-0,/match/heerenveen/excelsior/2008,2008,34,eredivisie,18,34,0,5,0,6,17,6,10,83,48,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLWLLW,8,3,5,51,26,17,7,6,20,32,70,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWLWWD,2,2,12,11,38,DDLWWLWLDWWWLWWL,WWDWDWWWWWWLLWWW
-Vitesse,PSV,0-1,/match/vitesse/psv/2008,2008,34,eredivisie,18,34,2,0,1,10,12,7,14,46,54,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWDWWW,7,5,4,24,18,1,20,9,4,64,24,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDWDWD,8,5,3,23,12,WWLLWLDWDWDWDLDW,LDDLWLLLWLDLLWDD
-VVV Venlo,De Graafschap,3-0,/match/vvv/graafschap/2008,2008,34,eredivisie,18,34,0,3,0,18,6,8,19,41,76,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWLWLW,3,4,9,21,36,16,7,9,17,33,61,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDDDWD,4,3,9,16,31,WLLLLWDWDDLDLLLL,LDLWWWLWLWWDWWDW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Heerenveen,Willem II,0-0,/match/heerenveen/willem-ii/2008,2008,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+NAC Breda,Groningen,0-3,/match/nac-breda/fc-groningen/2008,2008,1,eredivisie,18,34,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+AZ Alkmaar,VVV Venlo,4-0,/match/az/vvv/2008,2008,1,eredivisie,18,34,0,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Excelsior,Twente 1965,0-2,/match/excelsior/fc-twente-1965/2008,2008,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+NEC Nijmegen,Roda JC,1-1,/match/nec/roda-jc/2008,2008,1,eredivisie,18,34,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+De Graafschap,Ajax,1-8,/match/graafschap/ajax/2008,2008,1,eredivisie,18,34,2,1,8,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Utrecht,Feyenoord,0-3,/match/fc-utrecht/feyenoord/2008,2008,1,eredivisie,18,34,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Heracles,PSV,0-2,/match/heracles/psv/2008,2008,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sparta Rotterdam,Vitesse,1-2,/match/sparta-rotterdam/vitesse/2008,2008,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Roda JC,Heracles,2-1,/match/roda-jc/heracles/2008,2008,2,eredivisie,18,34,0,2,1,10,1,0,1,0,1,1,D,0,0,0,0,0,17,0,0,0,1,0,2,L,0,0,0,0,0,,
+PSV,NEC Nijmegen,5-0,/match/psv/nec/2008,2008,2,eredivisie,18,34,0,5,0,2,2,1,0,0,2,0,L,0,0,0,0,0,9,2,0,1,0,1,1,D,0,0,0,0,0,,
+VVV Venlo,Excelsior,3-1,/match/vvv/excelsior/2008,2008,2,eredivisie,18,34,0,3,1,15,0,0,0,1,0,4,W,0,0,0,0,0,18,0,0,0,1,0,2,L,0,0,0,0,0,,
+Willem II,Sparta Rotterdam,2-2,/match/willem-ii/sparta-rotterdam/2008,2008,2,eredivisie,18,34,1,2,2,11,1,0,1,0,0,0,D,0,0,0,0,0,12,0,0,0,1,1,2,L,0,0,0,0,0,,
+Vitesse,AZ Alkmaar,1-0,/match/vitesse/az/2008,2008,2,eredivisie,18,34,0,1,0,8,2,1,0,0,2,1,L,0,0,0,0,0,1,4,1,0,0,4,0,W,0,0,0,0,0,,
+Ajax,Heerenveen,4-1,/match/ajax/heerenveen/2008,2008,2,eredivisie,18,34,0,4,1,6,2,1,0,0,8,1,L,0,0,0,0,0,7,2,0,1,0,0,0,D,0,0,0,0,0,,
+Groningen,De Graafschap,0-2,/match/fc-groningen/graafschap/2008,2008,2,eredivisie,18,34,2,0,2,3,2,1,0,0,3,0,L,0,0,0,0,0,14,0,0,0,1,1,8,L,0,0,0,0,0,,
+Twente 1965,Utrecht,2-2,/match/fc-twente-1965/fc-utrecht/2008,2008,2,eredivisie,18,34,1,2,2,4,2,1,0,0,2,0,L,0,0,0,0,0,13,0,0,0,1,0,3,L,0,0,0,0,0,,
+Feyenoord,NAC Breda,5-0,/match/feyenoord/nac-breda/2008,2008,2,eredivisie,18,34,0,5,0,5,2,1,0,0,3,0,L,0,0,0,0,0,16,0,0,0,1,0,3,L,0,0,0,0,0,,
+AZ Alkmaar,Excelsior,3-0,/match/az/excelsior/2008,2008,3,eredivisie,18,34,0,3,0,7,4,1,0,1,4,1,WW,1,0,0,4,0,18,0,0,0,2,1,5,LW,0,0,1,1,3,W,W
+NAC Breda,Heracles,4-1,/match/nac-breda/heracles/2008,2008,3,eredivisie,18,34,0,4,1,16,0,0,0,2,0,8,LW,0,0,1,0,3,17,0,0,0,2,1,4,LW,0,0,1,1,2,L,W
+Heerenveen,Sparta Rotterdam,3-3,/match/heerenveen/sparta-rotterdam/2008,2008,3,eredivisie,18,34,1,3,3,10,2,0,1,1,1,4,DW,0,1,0,0,0,14,1,0,1,1,3,4,LD,0,1,0,2,2,D,D
+Twente 1965,PSV,0-0,/match/fc-twente-1965/psv/2008,2008,3,eredivisie,18,34,1,0,0,8,4,1,1,0,4,2,LD,0,1,0,2,2,2,6,2,0,0,7,0,LW,1,0,0,2,0,D,L
+Feyenoord,Willem II,2-0,/match/feyenoord/willem-ii/2008,2008,3,eredivisie,18,34,0,2,0,3,6,2,0,0,8,0,LW,1,0,0,5,0,9,3,0,2,0,2,2,DD,0,1,0,0,0,W,D
+Vitesse,NEC Nijmegen,1-0,/match/vitesse/nec/2008,2008,3,eredivisie,18,34,0,1,0,1,6,2,0,0,3,1,LW,1,0,0,1,0,11,2,0,1,1,1,6,DW,0,0,1,0,5,W,W
+VVV Venlo,Roda JC,3-5,/match/vvv/roda-jc/2008,2008,3,eredivisie,18,34,2,3,5,6,4,1,0,1,3,5,WW,1,0,0,3,1,5,5,1,1,0,3,2,DW,0,1,0,1,1,W,D
+Ajax,Groningen,2-2,/match/ajax/fc-groningen/2008,2008,3,eredivisie,18,34,1,2,2,4,6,2,0,0,12,2,LW,1,0,0,4,1,13,2,1,0,1,3,2,LL,1,0,0,3,0,W,L
+Utrecht,De Graafschap,2-2,/match/fc-utrecht/graafschap/2008,2008,3,eredivisie,18,34,1,2,2,15,1,0,1,1,2,5,LD,0,0,1,0,3,12,2,1,0,1,3,8,LL,1,0,0,2,0,L,L
+Groningen,Utrecht,0-2,/match/fc-groningen/fc-utrecht/2008,2008,4,eredivisie,18,34,2,0,2,13,3,1,1,1,5,4,LLD,0,0,1,0,2,14,3,0,2,1,4,7,LDD,0,1,0,2,2,L,D
+PSV,Vitesse,1-0,/match/psv/vitesse/2008,2008,4,eredivisie,18,34,0,1,0,5,7,2,1,0,7,0,LWD,1,0,0,5,0,1,10,3,0,0,4,1,LWW,1,0,0,2,1,W,L
+De Graafschap,VVV Venlo,3-2,/match/graafschap/vvv/2008,2008,4,eredivisie,18,34,0,3,2,12,3,1,1,1,5,10,LLD,0,0,1,1,8,10,4,1,0,2,6,10,WWL,0,0,1,0,4,L,W
+Excelsior,Heerenveen,2-5,/match/excelsior/heerenveen/2008,2008,4,eredivisie,18,34,2,2,5,18,0,0,0,3,1,8,LWW,0,0,1,0,2,9,4,0,2,1,4,7,DWD,0,0,1,1,4,L,W
+Heracles,Ajax,0-1,/match/heracles/ajax/2008,2008,4,eredivisie,18,34,2,0,1,17,0,0,0,3,2,8,LWW,0,0,1,0,2,3,8,2,1,0,14,4,LWD,1,0,0,8,1,L,L
+Roda JC,Feyenoord,1-3,/match/roda-jc/feyenoord/2008,2008,4,eredivisie,18,34,2,1,3,6,7,2,1,0,8,5,DWL,1,0,0,2,1,2,10,3,0,0,10,0,LWW,1,0,0,3,0,W,L
+NEC Nijmegen,NAC Breda,0-1,/match/nec/nac-breda/2008,2008,4,eredivisie,18,34,2,0,1,15,2,0,1,2,1,7,DWW,0,1,0,1,1,8,4,1,0,2,4,9,LWW,0,0,1,0,5,D,W
+Sparta Rotterdam,AZ Alkmaar,2-2,/match/sparta-rotterdam/az/2008,2008,4,eredivisie,18,34,1,2,2,16,2,0,2,1,6,7,LDD,0,0,1,1,2,4,8,2,0,1,7,1,WWW,0,0,1,0,1,L,W
+Willem II,Twente 1965,1-3,/match/willem-ii/fc-twente-1965/2008,2008,4,eredivisie,18,34,2,1,3,11,3,0,2,1,2,4,DDW,0,1,0,2,2,7,6,1,2,0,4,2,LDD,1,0,0,2,0,D,L
+VVV Venlo,NAC Breda,1-3,/match/vvv/nac-breda/2008,2008,5,eredivisie,18,34,2,1,3,13,4,1,0,3,8,13,WWLW,1,0,1,6,6,9,6,2,0,2,5,9,LWWL,1,0,1,1,5,WL,WL
+Willem II,Roda JC,1-0,/match/willem-ii/roda-jc/2008,2008,5,eredivisie,18,34,0,1,0,15,3,0,2,2,3,7,DDWL,0,1,1,3,5,7,7,2,1,1,9,8,DWLL,1,1,0,6,4,DL,DL
+Sparta Rotterdam,Heracles,1-1,/match/sparta-rotterdam/heracles/2008,2008,5,eredivisie,18,34,1,1,1,12,4,0,3,1,8,9,LDDD,0,1,1,3,4,17,0,0,0,4,2,9,LWWL,0,0,2,2,6,LD,WW
+Vitesse,De Graafschap,0-2,/match/vitesse/graafschap/2008,2008,5,eredivisie,18,34,2,0,2,3,10,3,0,1,4,2,LWWW,2,0,0,2,0,8,7,2,1,1,8,12,LLDW,1,1,0,4,2,WW,LD
+AZ Alkmaar,Ajax,2-3,/match/az/ajax/2008,2008,5,eredivisie,18,34,2,2,3,5,9,2,1,1,9,3,WWWD,2,0,0,7,0,4,10,3,1,0,15,4,LWDL,2,0,0,9,1,WW,LL
+Excelsior,Groningen,1-3,/match/excelsior/fc-groningen/2008,2008,5,eredivisie,18,34,2,1,3,18,0,0,0,4,3,13,LWWL,0,0,2,2,7,14,3,1,1,2,5,6,LLDL,1,1,0,5,2,LL,LD
+Twente 1965,NEC Nijmegen,3-0,/match/fc-twente-1965/nec/2008,2008,5,eredivisie,18,34,0,3,0,6,8,2,2,0,7,3,LDDL,0,2,0,2,2,16,2,0,1,3,1,8,DWWL,0,0,2,0,6,DD,WW
+PSV,Feyenoord,4-0,/match/psv/feyenoord/2008,2008,5,eredivisie,18,34,0,4,0,2,11,3,1,0,8,0,LWDW,2,0,0,6,0,1,12,4,0,0,13,1,LWWL,2,0,0,6,1,WW,LL
+Heerenveen,Utrecht,2-3,/match/heerenveen/fc-utrecht/2008,2008,5,eredivisie,18,34,2,2,3,10,6,1,2,1,9,9,DWDL,0,2,0,3,3,11,5,1,2,1,6,7,LDDL,1,1,0,4,2,DD,DL
+Groningen,Sparta Rotterdam,1-0,/match/fc-groningen/sparta-rotterdam/2008,2008,6,eredivisie,18,34,0,1,0,14,5,2,1,2,8,7,LLDLL,0,0,2,0,4,13,6,0,4,1,9,10,LDDDD,0,2,0,5,5,LL,DD
+NAC Breda,PSV,1-1,/match/nac-breda/psv/2008,2008,6,eredivisie,18,34,1,1,1,8,8,3,0,2,8,10,LWWLL,1,0,1,4,4,1,15,4,1,0,12,0,LWDWW,1,1,0,2,0,LW,LD
+Roda JC,Excelsior,3-3,/match/roda-jc/excelsior/2008,2008,6,eredivisie,18,34,1,3,3,10,7,2,1,2,9,9,DWLLW,1,0,1,3,4,18,0,0,0,5,4,16,LWWLL,0,0,2,1,6,WL,WW
+Feyenoord,Heerenveen,2-0,/match/feyenoord/heerenveen/2008,2008,6,eredivisie,18,34,0,2,0,2,12,4,0,1,13,5,LWWLW,2,0,0,7,0,12,6,1,2,2,11,12,DWDLL,1,0,1,6,6,WW,WL
+Ajax,VVV Venlo,6-1,/match/ajax/vvv/2008,2008,6,eredivisie,18,34,0,6,1,3,12,4,1,0,18,6,LWDLL,1,1,0,6,3,15,4,1,0,4,9,16,WWLWL,0,0,2,2,7,WD,WW
+De Graafschap,Twente 1965,0-0,/match/graafschap/fc-twente-1965/2008,2008,6,eredivisie,18,34,1,0,0,7,9,3,1,1,10,12,LLDWL,1,0,1,4,10,4,12,3,2,0,10,3,LDDLW,2,0,0,5,1,LW,LL
+Utrecht,Vitesse,2-4,/match/fc-utrecht/vitesse/2008,2008,6,eredivisie,18,34,2,2,4,11,7,2,2,1,9,9,LDDLL,0,1,1,2,5,5,10,3,0,2,4,4,LWWWL,1,0,1,2,2,LD,LW
+Heracles,AZ Alkmaar,2-1,/match/heracles/az/2008,2008,6,eredivisie,18,34,0,2,1,17,1,0,1,4,3,10,LWWLD,0,0,2,0,3,6,9,2,1,2,11,6,WWWDL,0,1,1,2,3,LL,WD
+NEC Nijmegen,Willem II,1-0,/match/nec/willem-ii/2008,2008,6,eredivisie,18,34,0,1,0,16,2,0,1,4,1,11,DWWLW,0,1,1,1,2,9,7,1,2,2,4,7,DDWLW,0,1,1,0,2,DL,DW
+VVV Venlo,Utrecht,1-2,/match/vvv/fc-utrecht/2008,2008,7,eredivisie,18,34,2,1,2,17,4,1,0,5,10,22,WWLWLW,1,0,2,7,9,12,7,2,2,2,11,13,LDDLLL,2,1,0,7,4,WLL,DLL
+NAC Breda,De Graafschap,1-0,/match/nac-breda/graafschap/2008,2008,7,eredivisie,18,34,0,1,0,7,10,3,1,2,9,11,LWWLLD,1,1,1,5,5,6,11,3,2,1,10,12,LLDWLD,2,1,0,6,2,LWD,LDL
+PSV,Willem II,3-0,/match/psv/willem-ii/2008,2008,7,eredivisie,18,34,0,3,0,1,16,4,2,0,13,1,LWDWWD,3,0,0,10,0,11,7,1,2,3,4,8,DDWLWW,0,1,2,0,3,WWW,DWW
+Excelsior,NEC Nijmegen,2-0,/match/excelsior/nec/2008,2008,7,eredivisie,18,34,0,2,0,18,1,0,1,5,7,19,LWWLLD,0,0,3,3,10,15,6,1,1,4,2,11,DWWLWW,0,0,3,0,9,LLL,WWW
+Twente 1965,Roda JC,0-1,/match/fc-twente-1965/roda-jc/2008,2008,7,eredivisie,18,34,2,0,1,4,13,3,3,0,10,3,LDDLWD,1,2,0,5,2,9,9,2,2,2,12,12,DWLLWD,1,1,1,6,5,DDW,DLW
+Sparta Rotterdam,Ajax,2-2,/match/sparta-rotterdam/ajax/2008,2008,7,eredivisie,18,34,1,2,2,14,6,0,4,2,9,11,LDDDDW,0,2,1,4,5,3,16,5,1,0,24,7,LWDLLW,3,0,0,12,3,LDD,LLL
+Vitesse,Feyenoord,0-1,/match/vitesse/feyenoord/2008,2008,7,eredivisie,18,34,2,0,1,5,12,4,0,2,8,6,LWWWLL,2,0,1,2,2,2,16,5,0,1,15,5,LWWLWW,2,0,1,6,5,WWL,LLW
+AZ Alkmaar,Groningen,2-2,/match/az/fc-groningen/2008,2008,7,eredivisie,18,34,1,2,2,10,9,2,1,3,12,8,WWWDLW,2,0,1,9,3,8,9,3,1,2,9,7,LLDLLW,2,1,0,8,3,WWL,LDL
+Heerenveen,Heracles,9-0,/match/heerenveen/heracles/2008,2008,7,eredivisie,18,34,0,9,0,13,6,1,2,3,11,14,DWDLLW,0,2,1,5,6,16,5,1,1,4,5,11,LWWLDW,0,1,2,3,7,DDL,WWD
+De Graafschap,Sparta Rotterdam,4-0,/match/graafschap/sparta-rotterdam/2008,2008,8,eredivisie,18,34,0,4,0,9,11,3,2,2,10,13,LLDWLDW,1,1,1,4,10,13,8,0,5,2,11,13,LDDDDWD,0,2,1,5,6,LWD,DDW
+Ajax,NEC Nijmegen,0-0,/match/ajax/nec/2008,2008,8,eredivisie,18,34,1,0,0,3,17,5,2,0,26,9,LWDLLWD,2,1,0,12,4,15,6,1,1,5,2,13,DWWLWWW,0,0,4,0,11,WDW,WWWW
+PSV,VVV Venlo,3-1,/match/psv/vvv/2008,2008,8,eredivisie,18,34,0,3,1,1,20,5,2,0,16,1,LWDWWDW,4,0,0,13,0,18,4,1,0,6,11,24,WWLWLWL,0,0,3,3,13,WWWW,WWW
+Feyenoord,Excelsior,1-0,/match/feyenoord/excelsior/2008,2008,8,eredivisie,18,34,0,1,0,2,18,6,0,1,16,5,LWWLWWL,3,0,0,9,0,17,5,1,1,5,9,19,LWWLLDW,0,1,2,4,9,WWW,WWD
+Heracles,Vitesse,2-2,/match/heracles/vitesse/2008,2008,8,eredivisie,18,34,1,2,2,16,5,1,1,5,5,20,LWWLDWW,1,0,2,2,4,6,12,4,0,3,8,7,LWWWLLL,2,0,1,6,4,LLW,LWL
+AZ Alkmaar,Heerenveen,0-1,/match/az/heerenveen/2008,2008,8,eredivisie,18,34,2,0,1,8,11,2,2,3,14,10,WWWDLWD,2,1,1,11,5,11,10,2,2,3,20,14,DWDLLWW,1,0,2,6,8,WWLD,WLW
+Groningen,Twente 1965,1-0,/match/fc-groningen/fc-twente-1965/2008,2008,8,eredivisie,18,34,0,1,0,10,10,3,2,2,11,9,LLDLLWD,1,0,2,1,4,5,13,3,3,1,10,4,LDDLWDL,2,1,0,5,1,LLW,LLD
+Roda JC,Utrecht,1-1,/match/roda-jc/fc-utrecht/2008,2008,8,eredivisie,18,34,1,1,1,7,11,3,2,2,13,12,DWLLWDL,1,1,1,6,7,12,9,3,2,2,13,14,LDDLLLL,3,1,0,9,5,WLD,DLLL
+Willem II,NAC Breda,0-0,/match/willem-ii/nac-breda/2008,2008,8,eredivisie,18,34,1,0,0,14,7,1,2,4,4,11,DDWLWWW,1,1,1,4,5,4,14,4,1,2,10,11,LWWLLDW,2,0,1,4,6,DLW,WLL
+Vitesse,Willem II,1-0,/match/vitesse/willem-ii/2008,2008,9,eredivisie,18,34,0,1,0,8,13,4,1,3,10,9,LWWWLLLD,2,0,2,2,3,13,9,1,3,4,4,11,DDWLWWWD,0,1,3,0,6,WWLL,DWWW
+Roda JC,De Graafschap,1-0,/match/roda-jc/graafschap/2008,2008,9,eredivisie,18,34,0,1,0,7,13,3,3,2,14,13,DWLLWDLD,1,2,1,7,8,4,15,4,2,2,14,13,LLDWLDWW,2,1,1,6,3,WLDD,LDLW
+VVV Venlo,Heerenveen,0-4,/match/vvv/heerenveen/2008,2008,9,eredivisie,18,34,2,0,4,18,4,1,0,7,12,27,WWLWLWLW,1,0,3,8,11,10,12,3,2,3,21,14,DWDLLWWL,2,0,2,7,8,WLLL,WLWL
+Excelsior,Heracles,1-1,/match/excelsior/heracles/2008,2008,9,eredivisie,18,34,1,1,1,17,5,1,1,6,9,20,LWWLLDWW,1,0,3,5,10,16,7,1,2,5,7,22,LWWLDWWD,0,1,3,3,16,LLLW,WWDW
+Twente 1965,Feyenoord,2-0,/match/fc-twente-1965/feyenoord/2008,2008,9,eredivisie,18,34,0,2,0,9,13,3,3,2,10,5,LDDLWDLW,1,2,1,5,3,2,22,7,0,1,17,5,LWWLWWLW,3,0,1,7,5,DDWL,LLWL
+Utrecht,Ajax,0-1,/match/fc-utrecht/ajax/2008,2008,9,eredivisie,18,34,2,0,1,12,10,3,3,2,14,15,LDDLLLLD,0,1,2,4,9,3,19,5,3,0,26,9,LWDLLWDD,3,1,0,14,5,LDL,LLLD
+NAC Breda,AZ Alkmaar,2-3,/match/nac-breda/az/2008,2008,9,eredivisie,18,34,2,2,3,5,15,4,2,2,10,11,LWWLLDWD,2,1,1,6,5,11,11,2,2,4,14,11,WWWDLWDL,0,1,2,3,5,LWDW,WDW
+NEC Nijmegen,Groningen,5-1,/match/nec/fc-groningen/2008,2008,9,eredivisie,18,34,0,5,1,15,7,1,2,5,2,13,DWWLWWWD,1,1,1,2,2,6,14,4,2,2,12,9,LLDLLWDW,2,2,0,10,5,DLW,LDLD
+Sparta Rotterdam,PSV,1-4,/match/sparta-rotterdam/psv/2008,2008,9,eredivisie,18,34,2,1,4,14,8,0,5,3,11,17,LDDDDWDW,0,3,1,6,7,1,24,6,2,0,19,2,LWDWWDWW,1,2,0,3,1,LDDD,LDD
+Willem II,VVV Venlo,1-2,/match/willem-ii/vvv/2008,2008,10,eredivisie,18,34,2,1,2,14,9,1,3,5,4,12,DDWLWWWDW,1,2,1,4,5,18,4,1,0,8,12,31,WWLWLWLWL,0,0,4,4,16,DLWD,WWWW
+Excelsior,Sparta Rotterdam,4-3,/match/excelsior/sparta-rotterdam/2008,2008,10,eredivisie,18,34,0,4,3,17,7,1,2,6,10,21,LWWLLDWWD,1,1,3,6,11,15,8,0,5,4,12,21,LDDDDWDWL,0,2,2,5,10,LLLWD,DDWW
+Heerenveen,PSV,2-1,/match/heerenveen/psv/2008,2008,10,eredivisie,18,34,0,2,1,9,14,4,2,3,25,14,DWDLLWWLL,1,2,1,14,6,1,26,7,2,0,23,3,LWDWWDWWL,2,2,0,7,2,DDLW,LDDL
+AZ Alkmaar,NEC Nijmegen,4-0,/match/az/nec/2008,2008,10,eredivisie,18,34,0,4,0,11,13,3,2,4,17,13,WWWDLWDLL,2,1,2,11,6,12,11,2,2,5,7,14,DWWLWWWDW,0,1,4,0,11,WWLDL,WWWWD
+Ajax,Roda JC,4-2,/match/ajax/roda-jc/2008,2008,10,eredivisie,18,34,0,4,2,3,21,6,3,0,27,9,LWDLLWDDL,2,2,0,12,4,5,17,4,3,2,15,13,DWLLWDLDW,2,1,1,7,5,WDWD,DLWL
+Groningen,Vitesse,0-0,/match/fc-groningen/vitesse/2008,2008,10,eredivisie,18,34,1,0,0,10,14,4,2,3,13,14,LLDLLWDWW,2,0,2,2,4,6,17,5,1,3,11,9,LWWWLLLDW,2,1,1,8,6,LLWW,LWLD
+Utrecht,NAC Breda,0-1,/match/fc-utrecht/nac-breda/2008,2008,10,eredivisie,18,34,2,0,1,13,10,3,3,3,14,16,LDDLLLLDL,0,1,3,4,10,8,15,4,2,3,12,14,LWWLLDWDL,2,1,1,4,6,LDLL,WLLD
+Feyenoord,De Graafschap,2-0,/match/feyenoord/graafschap/2008,2008,10,eredivisie,18,34,0,2,0,2,22,7,0,2,17,7,LWWLWWLWW,4,0,0,10,0,7,15,4,2,3,14,14,LLDWLDWWW,2,1,2,6,4,WWWW,LDLWW
+Heracles,Twente 1965,0-3,/match/heracles/fc-twente-1965/2008,2008,10,eredivisie,18,34,2,0,3,16,8,1,3,5,8,23,LWWLDWWDD,1,1,2,4,6,4,17,4,3,2,12,5,LDDLWDLWW,2,1,1,5,2,LLWD,LLDW
+NEC Nijmegen,Heracles,3-0,/match/nec/heracles/2008,2008,11,eredivisie,18,34,0,3,0,12,11,2,2,6,7,18,DWWLWWWDWW,2,1,1,7,3,17,8,1,3,6,8,26,LWWLDWWDDL,0,2,3,4,17,DLWW,WWDWD
+VVV Venlo,Sparta Rotterdam,2-0,/match/vvv/sparta-rotterdam/2008,2008,11,eredivisie,18,34,0,2,0,18,6,2,0,8,14,32,WWLWLWLWLL,1,0,4,8,15,16,8,0,5,5,15,25,LDDDDWDWLW,0,2,3,8,14,WLLLL,DDWWW
+Willem II,Utrecht,1-4,/match/willem-ii/fc-utrecht/2008,2008,11,eredivisie,18,34,2,1,4,15,9,1,3,6,5,14,DDWLWWWDWL,1,2,2,5,7,14,10,3,3,4,14,17,LDDLLLLDLL,3,2,0,10,6,DLWDL,DLLLD
+De Graafschap,Excelsior,1-1,/match/graafschap/excelsior/2008,2008,11,eredivisie,18,34,1,1,1,11,15,4,2,4,14,16,LLDWLDWWWW,2,1,1,8,10,13,11,2,2,6,14,24,LWWLLDWWDW,0,1,3,4,10,LWDW,WWDW
+Twente 1965,NAC Breda,1-1,/match/fc-twente-1965/nac-breda/2008,2008,11,eredivisie,18,34,1,1,1,4,19,5,3,2,15,5,LDDLWDLWWL,2,2,1,7,3,9,17,5,2,3,13,14,LWWLLDWDLL,3,1,1,5,6,DDWLW,WLLDL
+Feyenoord,Ajax,2-2,/match/feyenoord/ajax/2008,2008,11,eredivisie,18,34,1,2,2,2,26,8,0,2,19,7,LWWLWWLWWW,5,0,0,12,0,3,25,7,3,0,31,11,LWDLLWDDLW,4,1,0,15,5,WWWWW,LLLDL
+PSV,AZ Alkmaar,1-1,/match/psv/az/2008,2008,11,eredivisie,18,34,1,1,1,1,26,7,2,1,24,5,LWDWWDWWLW,5,0,0,16,1,8,17,4,2,4,21,13,WWWDLWDLLW,1,1,2,6,7,WWWWW,WDWL
+Roda JC,Groningen,5-1,/match/roda-jc/fc-groningen/2008,2008,11,eredivisie,18,34,0,5,1,7,17,4,3,3,17,17,DWLLWDLDWW,2,2,1,8,8,10,16,4,3,3,13,14,LLDLLWDWWD,2,2,1,11,10,WLDDW,LDLDW
+Vitesse,Heerenveen,0-1,/match/vitesse/heerenveen/2008,2008,11,eredivisie,18,34,2,0,1,5,18,5,2,3,11,9,LWWWLLLDWD,3,0,2,3,3,6,18,5,2,3,27,15,DWDLLWWLLW,3,0,2,11,8,WWLLW,WLWLL
+NAC Breda,Roda JC,0-0,/match/nac-breda/roda-jc/2008,2008,12,eredivisie,18,34,1,0,0,9,18,5,3,3,14,15,LWWLLDWDLLD,2,1,2,8,8,5,21,5,3,3,22,18,DWLLWDLDWWW,2,1,2,9,9,LWDWL,DLWLW
+Heerenveen,De Graafschap,2-3,/match/heerenveen/graafschap/2008,2008,12,eredivisie,18,34,2,2,3,6,20,6,2,3,28,15,DWDLLWWLLWL,2,2,1,16,7,10,17,4,3,4,15,17,LLDWLDWWWWD,2,1,3,6,6,DDLWW,LDLWWW
+AZ Alkmaar,Willem II,2-0,/match/az/willem-ii/2008,2008,12,eredivisie,18,34,0,2,0,8,18,4,3,4,22,14,WWWDLWDLLWD,3,1,2,15,6,16,9,1,3,7,6,18,DDWLWWWDWLL,0,1,4,0,7,WWLDLW,DWWWW
+Excelsior,PSV,1-4,/match/excelsior/psv/2008,2008,12,eredivisie,18,34,2,1,4,13,12,2,3,6,15,25,LWWLLDWWDWD,2,1,3,10,14,1,28,7,3,1,25,6,LWDWWDWWLWD,2,2,1,8,4,LLLWDW,LDDLW
+Heracles,VVV Venlo,0-0,/match/heracles/vvv/2008,2008,12,eredivisie,18,34,1,0,0,18,8,1,3,7,8,29,LWWLDWWDDLW,1,1,3,4,9,15,10,3,0,8,16,32,WWLWLWLWLLW,1,0,4,6,17,LLWDL,WWWWL
+Ajax,Vitesse,4-1,/match/ajax/vitesse/2008,2008,12,eredivisie,18,34,0,4,1,3,26,7,4,0,33,13,LWDLLWDDLWD,3,2,0,16,6,7,18,5,2,4,11,10,LWWWLLLDWDL,2,2,1,8,6,WDWDW,LWLDD
+Groningen,Feyenoord,3-2,/match/fc-groningen/feyenoord/2008,2008,12,eredivisie,18,34,0,3,2,11,16,4,3,4,14,19,LLDLLWDWWDW,2,1,2,2,4,2,28,8,1,2,21,9,LWWLWWLWWWD,3,0,2,7,7,LLWWD,LLWLW
+Utrecht,NEC Nijmegen,3-2,/match/fc-utrecht/nec/2008,2008,12,eredivisie,18,34,0,3,2,14,12,4,3,4,18,18,LDDLLLLDLLL,0,1,4,4,11,12,15,3,2,6,10,18,DWWLWWWDWWW,0,1,5,0,15,LDLLL,WWWWDW
+Sparta Rotterdam,Twente 1965,1-1,/match/sparta-rotterdam/fc-twente-1965/2008,2008,12,eredivisie,18,34,1,1,1,17,8,0,5,6,15,27,LDDDDWDWLWW,0,3,2,7,11,4,21,5,4,2,16,6,LDDLWDLWWLD,3,1,1,8,2,LDDDL,LLDWL
+Utrecht,Sparta Rotterdam,7-1,/match/fc-utrecht/sparta-rotterdam/2008,2008,13,eredivisie,18,34,0,7,1,12,16,5,3,4,21,20,LDDLLLLDLLLW,1,1,4,7,13,16,10,0,6,6,16,28,LDDDDWDWLWWD,0,2,4,8,16,LDLLLW,DDWWWW
+Groningen,VVV Venlo,1-0,/match/fc-groningen/vvv/2008,2008,13,eredivisie,18,34,0,1,0,8,20,5,3,4,17,21,LLDLLWDWWDWW,3,1,2,5,6,15,11,3,1,8,16,32,WWLWLWLWLLWD,1,1,4,6,17,LLWWDW,WWWWLD
+Roda JC,Vitesse,3-2,/match/roda-jc/vitesse/2008,2008,13,eredivisie,18,34,0,3,2,5,22,5,4,3,22,18,DWLLWDLDWWWD,3,2,1,13,9,11,18,5,2,5,12,14,LWWWLLLDWDLW,2,2,2,9,10,WLDDWW,LWLDDW
+Willem II,Excelsior,6-0,/match/willem-ii/excelsior/2008,2008,13,eredivisie,18,34,0,6,0,18,9,1,3,8,6,20,DDWLWWWDWLLW,1,2,3,6,11,14,12,2,3,7,16,29,LWWLLDWWDWDL,0,2,3,5,11,DLWDLL,WWDWD
+De Graafschap,PSV,0-1,/match/graafschap/psv/2008,2008,13,eredivisie,18,34,2,0,1,10,19,5,3,4,18,19,LLDWLDWWWWDL,2,2,1,9,11,1,30,8,3,1,29,7,LWDWWDWWLWDL,3,2,1,12,5,LWDWD,LDDLWL
+Ajax,NAC Breda,1-3,/match/ajax/nac-breda/2008,2008,13,eredivisie,18,34,2,1,3,2,30,8,4,0,37,14,LWDLLWDDLWDW,4,2,0,20,7,9,20,5,4,3,14,15,LWWLLDWDLLDD,3,2,1,6,7,WDWDWW,WLLDLD
+Twente 1965,AZ Alkmaar,2-1,/match/fc-twente-1965/az/2008,2008,13,eredivisie,18,34,0,2,1,4,22,5,5,2,17,7,LDDLWDLWWLDD,2,3,1,8,4,6,22,5,3,4,24,14,WWWDLWDLLWDW,1,2,2,7,8,DDWLWD,WDWLD
+Feyenoord,Heracles,6-0,/match/feyenoord/heracles/2008,2008,13,eredivisie,18,34,0,6,0,3,28,8,1,3,23,12,LWWLWWLWWWDW,5,1,0,14,2,17,10,1,4,7,8,29,LWWLDWWDDLWD,0,2,4,4,20,WWWWWD,WWDWDW
+NEC Nijmegen,Heerenveen,0-1,/match/nec/heerenveen/2008,2008,13,eredivisie,18,34,2,0,1,13,15,3,2,7,12,21,DWWLWWWDWWWW,3,1,1,10,3,7,20,6,2,4,30,18,DWDLLWWLLWLL,4,0,2,12,8,DLWWW,WLWLLL
+PSV,Roda JC,2-4,/match/psv/roda-jc/2008,2008,14,eredivisie,18,34,2,2,4,1,32,9,3,1,30,7,LWDWWDWWLWDLL,5,1,0,17,2,5,26,6,4,3,25,20,DWLLWDLDWWWDW,2,2,2,9,9,WWWWWD,DLWLWD
+Willem II,Ajax,2-3,/match/willem-ii/ajax/2008,2008,14,eredivisie,18,34,2,2,3,14,13,2,3,8,12,20,DDWLWWWDWLLWW,2,2,3,12,11,3,30,8,4,1,38,17,LWDLLWDDLWDWL,4,2,0,17,7,DLWDLLW,LLLDLD
+Excelsior,NAC Breda,0-3,/match/excelsior/nac-breda/2008,2008,14,eredivisie,18,34,2,0,3,15,12,2,3,8,16,35,LWWLLDWWDWDLW,2,1,4,11,18,9,22,6,4,3,17,16,LWWLLDWDLLDDL,4,2,1,9,8,LLLWDWL,WLLDLDL
+Heracles,De Graafschap,2-0,/match/heracles/graafschap/2008,2008,14,eredivisie,18,34,0,2,0,18,10,1,4,8,8,35,LWWLDWWDDLWDW,1,2,3,4,9,11,19,5,3,5,18,20,LLDWLDWWWWDLL,3,1,3,9,8,LLWDLD,LDLWWWL
+Vitesse,Twente 1965,2-2,/match/vitesse/fc-twente-1965/2008,2008,14,eredivisie,18,34,1,2,2,12,18,5,2,6,14,17,LWWWLLLDWDLWW,3,0,3,3,4,4,26,6,5,2,19,8,LDDLWDLWWLDDW,3,2,1,9,3,WWLLWL,LLDWLD
+VVV Venlo,Feyenoord,0-0,/match/vvv/feyenoord/2008,2008,14,eredivisie,18,34,1,0,0,16,11,3,1,9,16,33,WWLWLWLWLLWDW,2,0,4,10,15,2,32,9,1,3,29,12,LWWLWWLWWWDWW,3,0,3,9,10,WLLLLW,LLWLWW
+AZ Alkmaar,Utrecht,2-1,/match/az/fc-utrecht/2008,2008,14,eredivisie,18,34,0,2,1,7,22,5,3,5,25,16,WWWDLWDLLWDWW,4,1,2,17,6,10,20,6,3,4,28,21,LDDLLLLDLLLWW,4,2,0,14,7,WWLDLWW,DLLLDL
+Heerenveen,Groningen,4-2,/match/heerenveen/fc-groningen/2008,2008,14,eredivisie,18,34,0,4,2,8,22,7,2,4,31,18,DWDLLWWLLWLLL,2,2,2,18,10,6,24,6,3,4,18,21,LLDLLWDWWDWWW,2,2,2,12,15,DDLWWL,LDLDWW
+Sparta Rotterdam,NEC Nijmegen,1-0,/match/sparta-rotterdam/nec/2008,2008,14,eredivisie,18,34,0,1,0,17,10,0,6,7,17,35,LDDDDWDWLWWDW,0,4,2,8,12,13,15,3,2,8,12,22,DWWLWWWDWWWWL,0,1,6,2,18,LDDDLD,WWWWDWW
+Roda JC,Sparta Rotterdam,2-3,/match/roda-jc/sparta-rotterdam/2008,2008,15,eredivisie,18,34,2,2,3,4,28,7,4,3,29,22,DWLLWDLDWWWDWL,4,2,1,16,11,14,14,1,6,7,18,35,LDDDDWDWLWWDWW,0,2,5,9,23,WLDDWWW,DDWWWWW
+Twente 1965,VVV Venlo,1-1,/match/fc-twente-1965/vvv/2008,2008,15,eredivisie,18,34,1,1,1,5,27,6,6,2,21,10,LDDLWDLWWLDDWD,3,3,1,10,5,17,13,3,2,9,16,33,WWLWLWLWLLWDWD,1,1,5,6,18,DDWLWDW,WWWWLDW
+NAC Breda,Heerenveen,1-5,/match/nac-breda/heerenveen/2008,2008,15,eredivisie,18,34,2,1,5,9,24,7,4,3,20,16,LWWLLDWDLLDDLL,2,2,2,8,8,7,26,8,2,4,35,20,DWDLLWWLLWLLLW,5,0,2,13,8,LWDWLD,WLWLLLL
+De Graafschap,NEC Nijmegen,1-1,/match/graafschap/nec/2008,2008,15,eredivisie,18,34,1,1,1,12,19,5,3,6,18,22,LLDWLDWWWWDLLW,2,2,2,9,12,13,15,3,2,9,12,23,DWWLWWWDWWWWLW,0,1,7,2,19,LWDWDL,WWWWDWWW
+Groningen,Willem II,1-0,/match/fc-groningen/willem-ii/2008,2008,15,eredivisie,18,34,0,1,0,8,24,6,3,5,20,25,LLDLLWDWWDWWWW,4,1,2,6,6,16,13,2,3,9,14,23,DDWLWWWDWLLWWL,0,1,5,0,9,LLWWDWW,DWWWWW
+Utrecht,Heracles,3-1,/match/fc-utrecht/heracles/2008,2008,15,eredivisie,18,34,0,3,1,11,20,6,3,5,29,23,LDDLLLLDLLLWWW,2,1,4,14,14,15,14,2,4,8,10,35,LWWLDWWDDLWDWW,0,2,5,4,26,LDLLLWW,WWDWDWW
+Vitesse,Excelsior,3-0,/match/vitesse/excelsior/2008,2008,15,eredivisie,18,34,0,3,0,10,20,5,3,6,16,19,LWWWLLLDWDLWWD,3,1,3,5,6,18,12,2,3,9,16,38,LWWLLDWWDWDLWL,0,2,4,5,17,WWLLWLD,WWDWDW
+Ajax,PSV,0-2,/match/ajax/psv/2008,2008,15,eredivisie,18,34,2,0,2,3,32,9,4,1,41,19,LWDLLWDDLWDWLL,4,2,1,21,10,2,32,9,3,2,32,11,LWDWWDWWLWDLLL,4,2,1,13,5,WDWDWWL,LDDLWLL
+Feyenoord,AZ Alkmaar,2-2,/match/feyenoord/az/2008,2008,15,eredivisie,18,34,1,2,2,1,33,9,2,3,29,12,LWWLWWLWWWDWWD,6,1,0,20,2,6,26,6,3,5,27,17,WWWDLWDLLWDWWW,1,2,3,8,10,WWWWWDW,WDWLDW
+Willem II,De Graafschap,1-2,/match/willem-ii/graafschap/2008,2008,16,eredivisie,18,34,2,1,2,17,13,2,3,10,14,24,DDWLWWWDWLLWWLW,2,2,4,14,14,12,21,5,4,6,19,23,LLDWLDWWWWDLLWD,3,1,4,9,10,DLWDLLWL,LDLWWWLW
+PSV,Utrecht,4-1,/match/psv/fc-utrecht/2008,2008,16,eredivisie,18,34,0,4,1,2,34,10,3,2,34,11,LWDWWDWWLWDLLLL,5,1,1,19,6,9,24,7,3,5,32,24,LDDLLLLDLLLWWWW,4,2,1,15,9,WWWWWDL,DLLLDLW
+Heerenveen,Twente 1965,1-2,/match/heerenveen/fc-twente-1965/2008,2008,16,eredivisie,18,34,2,1,2,6,28,9,2,4,40,21,DWDLLWWLLWLLLWL,3,2,2,22,12,4,29,6,7,2,22,11,LDDLWDLWWLDDWDD,3,3,1,11,5,DDLWWLW,LLDWLDD
+Heracles,Groningen,1-2,/match/heracles/fc-groningen/2008,2008,16,eredivisie,18,34,2,1,2,15,14,2,4,9,11,38,LWWLDWWDDLWDWWW,2,2,3,6,9,7,28,7,3,5,21,25,LLDLLWDWWDWWWWW,2,2,3,14,19,LLWDLDW,LDLDWWW
+Excelsior,Ajax,2-1,/match/excelsior/ajax/2008,2008,16,eredivisie,18,34,0,2,1,18,12,2,3,10,16,41,LWWLLDWWDWDLWLW,2,1,5,11,21,3,32,9,4,2,41,21,LWDLLWDDLWDWLLL,5,2,0,20,9,LLLWDWLL,LLLDLDL
+NEC Nijmegen,Feyenoord,0-2,/match/nec/feyenoord/2008,2008,16,eredivisie,18,34,2,0,2,13,16,3,3,9,13,24,DWWLWWWDWWWWLWD,3,1,2,10,4,1,35,9,3,3,31,14,LWWLWWLWWWDWWDD,3,1,3,9,10,DLWWWL,LLWLWWD
+VVV Venlo,Vitesse,2-0,/match/vvv/vitesse/2008,2008,16,eredivisie,18,34,0,2,0,16,14,3,3,9,17,34,WWLWLWLWLLWDWDD,2,1,4,10,15,10,24,6,3,6,19,19,LWWWLLLDWDLWWDW,2,2,3,11,13,WLLLLWD,LWLDDWW
+AZ Alkmaar,Roda JC,1-1,/match/az/roda-jc/2008,2008,16,eredivisie,18,34,1,1,1,8,27,6,4,5,29,19,WWWDLWDLLWDWWWD,5,1,2,19,7,5,28,7,4,4,31,25,DWLLWDLDWWWDWLL,3,2,2,13,11,WWLDLWWW,DLWLWDL
+Sparta Rotterdam,NAC Breda,0-1,/match/sparta-rotterdam/nac-breda/2008,2008,16,eredivisie,18,34,2,0,1,14,16,2,6,7,21,37,LDDDDWDWLWWDWWL,1,4,2,9,12,11,24,7,4,4,21,21,LWWLLDWDLLDDLLL,5,2,1,12,8,LDDDLDW,WLLDLDLL
+Feyenoord,Sparta Rotterdam,2-0,/match/feyenoord/sparta-rotterdam/2008,2008,17,eredivisie,18,34,0,2,0,2,37,10,3,3,33,14,LWWLWWLWWWDWWDDL,6,2,0,22,4,15,16,2,6,8,21,38,LDDDDWDWLWWDWWLL,1,2,5,12,25,WWWWWDWD,DDWWWWWL
+NEC Nijmegen,VVV Venlo,2-2,/match/nec/vvv/2008,2008,17,eredivisie,18,34,1,2,2,14,16,3,3,10,13,26,DWWLWWWDWWWWLWDL,3,1,3,10,6,13,18,4,3,9,19,34,WWLWLWLWLLWDWDDW,1,2,5,7,19,DLWWWLL,WWWWLDWD
+Groningen,PSV,2-1,/match/fc-groningen/psv/2008,2008,17,eredivisie,18,34,0,2,1,5,30,8,3,5,23,26,LLDLLWDWWDWWWWWL,5,1,2,7,6,1,38,11,3,2,38,12,LWDWWDWWLWDLLLLW,5,2,1,15,5,LLWWDWWW,LDDLWLLL
+Utrecht,Excelsior,4-1,/match/fc-utrecht/excelsior/2008,2008,17,eredivisie,18,34,0,4,1,11,24,7,3,6,33,28,LDDLLLLDLLLWWWWW,3,1,4,17,15,16,16,3,3,10,18,42,LWWLLDWWDWDLWLWW,0,2,5,5,20,LDLLLWWW,WWDWDWW
+NAC Breda,Vitesse,1-2,/match/nac-breda/vitesse/2008,2008,17,eredivisie,18,34,2,1,2,9,26,8,4,4,22,21,LWWLLDWDLLDDLLLL,2,2,3,9,13,10,24,6,3,7,19,21,LWWWLLLDWDLWWDWW,2,2,4,11,15,LWDWLDL,LWLDDWWW
+Roda JC,Heerenveen,1-0,/match/roda-jc/heerenveen/2008,2008,17,eredivisie,18,34,0,1,0,6,29,7,5,4,32,26,DWLLWDLDWWWDWLLD,4,2,2,18,14,8,28,9,2,5,41,23,DWDLLWWLLWLLLWLL,6,0,2,18,9,WLDDWWWL,WLWLLLLL
+Ajax,Twente 1965,2-2,/match/ajax/fc-twente-1965/2008,2008,17,eredivisie,18,34,1,2,2,3,32,9,4,3,42,23,LWDLLWDDLWDWLLLW,4,2,2,21,12,4,31,7,7,2,24,12,LDDLWDLWWLDDWDDL,4,3,1,13,6,WDWDWWLL,LLDWLDDL
+Heracles,Willem II,1-0,/match/heracles/willem-ii/2008,2008,17,eredivisie,18,34,0,1,0,17,14,2,4,10,12,40,LWWLDWWDDLWDWWWL,2,2,4,7,11,18,13,2,3,11,15,26,DDWLWWWDWLLWWLWL,0,1,6,0,10,LLWDLDWL,DWWWWWW
+De Graafschap,AZ Alkmaar,1-2,/match/graafschap/az/2008,2008,17,eredivisie,18,34,2,1,2,12,23,6,4,6,21,24,LLDWLDWWWWDLLWDL,2,3,2,10,13,7,29,6,5,5,30,20,WWWDLWDLLWDWWWDD,1,3,3,10,12,LWDWDLD,WDWLDWD
+Sparta Rotterdam,Groningen,1-3,/match/sparta-rotterdam/fc-groningen/2008,2008,18,eredivisie,18,34,2,1,3,16,16,2,6,9,21,40,LDDDDWDWLWWDWWLLW,1,4,3,9,13,4,34,9,3,5,25,27,LLDLLWDWWDWWWWWLW,3,2,3,16,20,LDDDLDWL,LDLDWWWL
+VVV Venlo,Ajax,2-2,/match/vvv/ajax/2008,2008,18,eredivisie,18,34,1,2,2,13,19,4,4,9,21,36,WWLWLWLWLLWDWDDWD,3,1,4,12,15,3,34,9,5,3,44,25,LWDLLWDDLWDWLLLWD,5,2,1,21,11,WLLLLWDW,LLLDLDLW
+AZ Alkmaar,Heracles,1-0,/match/az/heracles/2008,2008,18,eredivisie,18,34,0,1,0,7,31,7,5,5,32,21,WWWDLWDLLWDWWWDDL,5,2,2,20,8,15,18,3,4,10,13,40,LWWLDWWDDLWDWWWLW,0,2,6,5,29,WWLDLWWWD,WWDWDWWW
+Excelsior,Roda JC,1-2,/match/excelsior/roda-jc/2008,2008,18,eredivisie,18,34,2,1,2,17,16,3,3,11,19,46,LWWLLDWWDWDLWLWWW,3,1,5,13,22,5,33,8,5,4,33,26,DWLLWDLDWWWDWLLDW,3,3,2,14,12,LLLWDWLLW,DLWLWDLD
+Twente 1965,De Graafschap,2-0,/match/fc-twente-1965/graafschap/2008,2008,18,eredivisie,18,34,0,2,0,6,32,7,8,2,26,14,LDDLWDLWWLDDWDDLD,3,4,1,11,6,12,23,6,4,7,22,26,LLDWLDWWWWDLLWDLL,4,1,4,11,11,DDWLWDWD,LDLWWWLWL
+PSV,NAC Breda,2-0,/match/psv/nac-breda/2008,2008,18,eredivisie,18,34,0,2,0,2,38,11,3,3,39,14,LWDWWDWWLWDLLLLWW,6,1,1,23,7,11,26,8,4,5,23,23,LWWLLDWDLLDDLLLLL,6,2,1,13,8,WWWWWDLW,WLLDLDLLL
+Heerenveen,Feyenoord,1-1,/match/heerenveen/feyenoord/2008,2008,18,eredivisie,18,34,1,1,1,8,28,9,2,6,41,24,DWDLLWWLLWLLLWLLW,3,2,3,23,14,1,41,11,3,3,35,14,LWWLWWLWWWDWWDDLW,4,1,3,11,10,DDLWWLWL,LLWLWWDL
+Vitesse,Utrecht,2-2,/match/vitesse/fc-utrecht/2008,2008,18,eredivisie,18,34,1,2,2,10,26,7,3,7,21,22,LWWWLLLDWDLWWDWWL,4,1,3,8,6,9,28,8,3,6,37,29,LDDLLLLDLLLWWWWWW,4,2,2,16,13,WWLLWLDW,DLLLDLWW
+Willem II,NEC Nijmegen,3-0,/match/willem-ii/nec/2008,2008,18,eredivisie,18,34,0,3,0,18,13,2,3,12,15,27,DDWLWWWDWLLWWLWLW,2,2,5,15,16,14,18,3,4,10,15,28,DWWLWWWDWWWWLWDLD,0,2,7,3,20,DLWDLLWLL,WWWWDWWWD
+NEC Nijmegen,Twente 1965,2-2,/match/nec/fc-twente-1965/2008,2008,19,eredivisie,18,34,1,2,2,14,18,3,4,11,15,31,DWWLWWWDWWWWLWDLDW,3,2,3,12,8,4,36,8,8,2,28,14,LDDLWDLWWLDDWDDLDW,4,4,1,15,8,DLWWWLLD,LLDWLDDLD
+Groningen,Excelsior,3-2,/match/fc-groningen/excelsior/2008,2008,19,eredivisie,18,34,0,3,2,3,36,10,3,5,28,28,LLDLLWDWWDWWWWWLWL,6,1,2,9,7,18,16,3,3,12,20,48,LWWLLDWWDWDLWLWWWL,0,2,6,6,24,LLWWDWWWW,WWDWDWWW
+NAC Breda,VVV Venlo,0-0,/match/nac-breda/vvv/2008,2008,19,eredivisie,18,34,1,0,0,11,26,8,4,6,23,25,LWWLLDWDLLDDLLLLLW,2,2,4,10,15,13,21,4,5,9,23,38,WWLWLWLWLLWDWDDWDD,1,3,5,9,21,LWDWLDLL,WWWWLDWDD
+Roda JC,Willem II,1-1,/match/roda-jc/willem-ii/2008,2008,19,eredivisie,18,34,1,1,1,6,35,9,5,4,35,27,DWLLWDLDWWWDWLLDWL,5,2,2,19,14,16,17,3,3,12,18,27,DDWLWWWDWLLWWLWLWW,0,1,7,0,11,WLDDWWWLW,DWWWWWWW
+Feyenoord,PSV,0-1,/match/feyenoord/psv/2008,2008,19,eredivisie,18,34,2,0,1,1,42,11,4,3,36,15,LWWLWWLWWWDWWDDLWD,7,2,0,24,4,2,42,12,3,3,41,14,LWDWWDWWLWDLLLLWWW,5,2,2,16,7,WWWWWDWDW,LDDLWLLLW
+De Graafschap,Vitesse,0-3,/match/graafschap/vitesse/2008,2008,19,eredivisie,18,34,2,0,3,12,23,6,4,8,22,28,LLDWLDWWWWDLLWDLLW,2,3,3,11,15,10,28,7,4,7,23,24,LWWWLLLDWDLWWDWWLD,3,2,4,13,16,LWDWDLDL,LWLDDWWWL
+Ajax,AZ Alkmaar,6-1,/match/ajax/az/2008,2008,19,eredivisie,18,34,0,6,1,5,35,9,6,3,46,27,LWDLLWDDLWDWLLLWDD,4,3,2,23,14,7,35,8,5,5,33,21,WWWDLWDLLWDWWWDDLW,2,3,3,12,13,WDWDWWLLD,WDWLDWDL
+Utrecht,Heerenveen,2-2,/match/fc-utrecht/heerenveen/2008,2008,19,eredivisie,18,34,1,2,2,9,29,8,4,6,39,31,LDDLLLLDLLLWWWWWWD,4,1,4,21,16,8,30,9,3,6,42,25,DWDLLWWLLWLLLWLLWD,6,0,3,18,10,LDLLLWWWW,WLWLLLLLW
+Heracles,Sparta Rotterdam,2-0,/match/heracles/sparta-rotterdam/2008,2008,19,eredivisie,18,34,0,2,0,15,18,3,4,11,13,41,LWWLDWWDDLWDWWWLWW,3,2,4,8,11,17,16,2,6,10,22,43,LDDDDWDWLWWDWWLLWL,1,2,6,12,27,LLWDLDWLW,DDWWWWWLW
+Excelsior,Feyenoord,2-1,/match/excelsior/feyenoord/2008,2008,20,eredivisie,18,34,0,2,1,18,16,3,3,13,22,51,LWWLLDWWDWDLWLWWWLW,3,1,6,14,24,2,42,11,4,4,36,16,LWWLWWLWWWDWWDDLWDL,4,2,3,12,11,LLLWDWLLWL,LLWLWWDLD
+NAC Breda,Willem II,1-0,/match/nac-breda/willem-ii/2008,2008,20,eredivisie,18,34,0,1,0,11,28,8,5,6,23,25,LWWLLDWDLLDDLLLLLWD,2,3,4,10,15,16,18,3,4,12,19,28,DDWLWWWDWLLWWLWLWWD,0,2,7,1,12,LWDWLDLLD,DWWWWWWWD
+Heerenveen,AZ Alkmaar,4-0,/match/heerenveen/az/2008,2008,20,eredivisie,18,34,0,4,0,8,31,9,4,6,44,27,DWDLLWWLLWLLLWLLWDD,3,3,3,24,15,7,35,8,5,6,34,27,WWWDLWDLLWDWWWDDLWW,2,3,4,13,19,DDLWWLWLD,WDWLDWDLW
+Utrecht,Roda JC,3-1,/match/fc-utrecht/roda-jc/2008,2008,20,eredivisie,18,34,0,3,1,9,31,8,5,6,41,33,LDDLLLLDLLLWWWWWWDD,4,2,4,23,18,6,37,9,6,4,36,28,DWLLWDLDWWWDWLLDWLD,4,3,2,16,13,LDLLLWWWWD,DLWLWDLDL
+Vitesse,Heracles,2-0,/match/vitesse/heracles/2008,2008,20,eredivisie,18,34,0,2,0,10,30,8,4,7,26,24,LWWWLLLDWDLWWDWWLDL,4,2,3,10,8,14,22,4,4,11,15,41,LWWLDWWDDLWDWWWLWWW,0,2,7,5,30,WWLLWLDWD,WWDWDWWWW
+NEC Nijmegen,Ajax,1-1,/match/nec/ajax/2008,2008,20,eredivisie,18,34,1,1,1,15,20,3,5,11,17,33,DWWLWWWDWWWWLWDLDWD,3,3,3,14,10,4,39,10,6,3,52,28,LWDLLWDDLWDWLLLWDDW,5,3,1,23,13,DLWWWLLDD,LLLDLDLWD
+VVV Venlo,PSV,1-1,/match/vvv/psv/2008,2008,20,eredivisie,18,34,1,1,1,13,22,4,6,9,23,38,WWLWLWLWLLWDWDDWDDD,3,2,4,14,17,1,44,13,3,3,42,14,LWDWWDWWLWDLLLLWWWL,6,2,2,17,7,WLLLLWDWD,LDDLWLLLWL
+Twente 1965,Groningen,3-1,/match/fc-twente-1965/fc-groningen/2008,2008,20,eredivisie,18,34,0,3,1,5,37,8,9,2,30,16,LDDLWDLWWLDDWDDLDWD,4,4,1,13,6,3,40,11,3,5,31,30,LLDLLWDWWDWWWWWLWLW,4,2,3,19,21,DDWLWDWDW,LDLDWWWLL
+Sparta Rotterdam,De Graafschap,6-1,/match/sparta-rotterdam/graafschap/2008,2008,20,eredivisie,18,34,0,6,1,17,16,2,6,11,22,45,LDDDDWDWLWWDWWLLWLW,1,4,4,10,16,12,23,6,4,9,22,31,LLDWLDWWWWDLLWDLLWL,4,1,5,11,13,LDDDLDWLL,LDLWWWLWLW
+AZ Alkmaar,NAC Breda,1-2,/match/az/nac-breda/2008,2008,21,eredivisie,18,34,2,1,2,7,35,8,5,7,34,31,WWWDLWDLLWDWWWDDLWWW,6,2,2,21,8,11,32,9,5,6,24,25,LWWLLDWDLLDDLLLLLWDW,6,2,2,13,10,WWLDLWWWDW,WLLDLDLLLW
+Heracles,Excelsior,2-0,/match/heracles/excelsior/2008,2008,21,eredivisie,18,34,0,2,0,14,22,4,4,12,15,43,LWWLDWWDDLWDWWWLWWWW,4,2,4,10,11,17,20,4,3,13,24,52,LWWLLDWWDWDLWLWWWLWW,0,2,7,8,27,LLWDLDWLWW,WWDWDWWWW
+Willem II,Vitesse,4-0,/match/willem-ii/vitesse/2008,2008,21,eredivisie,18,34,0,4,0,18,18,3,4,13,19,29,DDWLWWWDWLLWWLWLWWDW,3,2,5,18,16,10,34,9,4,7,28,24,LWWWLLLDWDLWWDWWLDLW,4,2,4,16,16,DLWDLLWLLW,LWLDDWWWLL
+Ajax,Utrecht,2-0,/match/ajax/fc-utrecht/2008,2008,21,eredivisie,18,34,0,2,0,5,40,10,7,3,53,29,LWDLLWDDLWDWLLLWDDWD,5,3,2,29,15,9,35,9,5,6,44,34,LDDLLLLDLLLWWWWWWDDW,4,3,2,18,15,WDWDWWLLDW,DLLLDLWWD
+De Graafschap,Roda JC,2-1,/match/graafschap/roda-jc/2008,2008,21,eredivisie,18,34,0,2,1,13,23,6,4,10,23,37,LLDWLDWWWWDLLWDLLWLW,2,3,4,11,18,6,37,9,6,5,37,31,DWLLWDLDWWWDWLLDWLDW,4,3,3,17,16,LWDWDLDLL,DLWLWDLDLW
+Groningen,NEC Nijmegen,5-1,/match/fc-groningen/nec/2008,2008,21,eredivisie,18,34,0,5,1,4,40,11,3,6,32,33,LLDLLWDWWDWWWWWLWLWW,7,1,2,12,9,15,22,3,6,11,18,34,DWWLWWWDWWWWLWDLDWDD,0,2,8,3,23,LLWWDWWWWW,WWWWDWWWDW
+PSV,Sparta Rotterdam,3-1,/match/psv/sparta-rotterdam/2008,2008,21,eredivisie,18,34,0,3,1,1,45,13,4,3,43,15,LWDWWDWWLWDLLLLWWWLD,7,1,1,25,7,16,20,3,6,11,28,46,LDDDDWDWLWWDWWLLWLWW,1,2,7,12,29,WWWWWDLWW,DDWWWWWLWW
+Heerenveen,VVV Venlo,5-1,/match/heerenveen/vvv/2008,2008,21,eredivisie,18,34,0,5,1,8,35,10,4,6,48,27,DWDLLWWLLWLLLWLLWDDW,4,3,3,28,15,12,24,4,7,9,24,39,WWLWLWLWLLWDWDDWDDDD,1,4,5,9,21,DDLWWLWLDW,WWWWLDWDDD
+Feyenoord,Twente 1965,3-1,/match/feyenoord/fc-twente-1965/2008,2008,21,eredivisie,18,34,0,3,1,2,42,11,4,5,37,18,LWWLWWLWWWDWWDDLWDLW,7,2,1,24,5,3,41,9,9,2,33,17,LDDLWDLWWLDDWDDLDWDW,4,5,1,17,10,WWWWWDWDWL,LLDWLDDLDD
+Willem II,AZ Alkmaar,3-0,/match/willem-ii/az/2008,2008,22,eredivisie,18,34,0,3,0,16,22,4,4,13,23,29,DDWLWWWDWLLWWLWLWWDWW,4,2,5,22,16,8,35,8,5,8,35,33,WWWDLWDLLWDWWWDDLWWWL,2,3,5,13,23,DLWDLLWLLWW,WDWLDWDLWW
+PSV,Excelsior,2-1,/match/psv/excelsior/2008,2008,22,eredivisie,18,34,0,2,1,1,49,14,4,3,46,16,LWDWWDWWLWDLLLLWWWLDW,8,1,1,28,8,18,20,4,3,14,24,54,LWWLLDWWDWDLWLWWWLWWW,0,2,8,8,29,WWWWWDLWWW,WWDWDWWWWW
+Roda JC,NAC Breda,0-2,/match/roda-jc/nac-breda/2008,2008,22,eredivisie,18,34,2,0,2,7,37,9,6,6,38,33,DWLLWDLDWWWDWLLDWLDWW,5,3,2,20,15,10,34,10,5,6,26,26,LWWLLDWDLLDDLLLLLWDWL,7,2,2,15,11,WLDDWWWLWD,WLLDLDLLLWL
+De Graafschap,Heerenveen,0-3,/match/graafschap/heerenveen/2008,2008,22,eredivisie,18,34,2,0,3,12,27,7,4,10,25,38,LLDWLDWWWWDLLWDLLWLWW,3,3,4,13,19,6,39,11,4,6,53,28,DWDLLWWLLWLLLWLLWDDWW,6,1,3,20,12,LWDWDLDLLW,WLWLLLLLWD
+NEC Nijmegen,Utrecht,2-0,/match/nec/fc-utrecht/2008,2008,22,eredivisie,18,34,0,2,0,15,22,3,6,12,19,39,DWWLWWWDWWWWLWDLDWDDW,3,4,3,15,11,9,35,9,5,7,44,36,LDDLLLLDLLLWWWWWWDDWW,4,3,3,18,17,DLWWWLLDDD,DLLLDLWWDW
+Vitesse,Ajax,2-2,/match/vitesse/ajax/2008,2008,22,eredivisie,18,34,1,2,2,11,34,9,4,8,28,28,LWWWLLLDWDLWWDWWLDLWW,5,2,3,12,8,4,44,11,7,3,55,29,LWDLLWDDLWDWLLLWDDWDW,5,4,1,24,14,WWLLWLDWDW,LLLDLDLWDD
+VVV Venlo,Heracles,0-5,/match/vvv/heracles/2008,2008,22,eredivisie,18,34,2,0,5,14,24,4,7,10,25,44,WWLWLWLWLLWDWDDWDDDDW,3,3,4,15,18,13,26,5,4,12,17,43,LWWLDWWDDLWDWWWLWWWWW,0,2,8,5,32,WLLLLWDWDD,WWDWDWWWWW
+Twente 1965,Sparta Rotterdam,1-2,/match/fc-twente-1965/sparta-rotterdam/2008,2008,22,eredivisie,18,34,2,1,2,5,41,9,9,3,34,20,LDDLWDLWWLDDWDDLDWDWW,5,4,1,16,7,17,20,3,6,12,29,49,LDDDDWDWLWWDWWLLWLWWW,1,2,8,13,32,DDWLWDWDWW,DDWWWWWLWWW
+Feyenoord,Groningen,1-1,/match/feyenoord/fc-groningen/2008,2008,22,eredivisie,18,34,1,1,1,2,46,12,4,5,40,19,LWWLWWLWWWDWWDDLWDLWW,8,2,1,27,6,3,44,12,3,6,37,34,LLDLLWDWWDWWWWWLWLWWW,4,2,4,20,24,WWWWWDWDWLW,LDLDWWWLLW
+NAC Breda,Twente 1965,1-0,/match/nac-breda/fc-twente-1965/2008,2008,23,eredivisie,18,34,0,1,0,9,36,11,5,6,28,26,LWWLLDWDLLDDLLLLLWDWLL,3,3,4,11,15,5,41,9,9,4,35,22,LDDLWDLWWLDDWDDLDWDWWL,4,5,2,18,13,LWDWLDLLDW,LLDWLDDLDDW
+Heerenveen,Vitesse,7-0,/match/heerenveen/vitesse/2008,2008,23,eredivisie,18,34,0,7,0,6,41,12,4,6,56,28,DWDLLWWLLWLLLWLLWDDWWL,5,3,3,33,16,8,36,9,5,8,30,30,LWWWLLLDWDLWWDWWLDLWWD,4,2,5,16,20,DDLWWLWLDWW,LWLDDWWWLLW
+AZ Alkmaar,PSV,0-2,/match/az/psv/2008,2008,23,eredivisie,18,34,2,0,2,11,35,8,5,9,35,36,WWWDLWDLLWDWWWDDLWWWLW,6,2,3,22,10,1,53,15,4,3,48,17,LWDWWDWWLWDLLLLWWWLDWW,6,3,2,18,8,WWLDLWWWDWL,LDDLWLLLWLD
+Excelsior,De Graafschap,1-1,/match/excelsior/graafschap/2008,2008,23,eredivisie,18,34,1,1,1,18,20,4,3,15,25,56,LWWLLDWWDWDLWLWWWLWWWW,4,1,6,16,25,13,27,7,4,11,25,41,LLDWLDWWWWDLLWDLLWLWWL,4,1,6,12,19,LLLWDWLLWLW,LDLWWWLWLWW
+Heracles,NEC Nijmegen,0-2,/match/heracles/nec/2008,2008,23,eredivisie,18,34,2,0,2,12,28,6,4,12,22,43,LWWLDWWDDLWDWWWLWWWWWL,5,2,4,12,11,14,26,4,6,12,21,39,DWWLWWWDWWWWLWDLDWDDWW,0,2,9,4,28,LLWDLDWLWWW,WWWWDWWWDWW
+Ajax,Feyenoord,3-0,/match/ajax/feyenoord/2008,2008,23,eredivisie,18,34,0,3,0,4,45,11,8,3,57,31,LWDLLWDDLWDWLLLWDDWDWD,6,3,2,31,15,2,48,12,5,5,41,20,LWWLWWLWWWDWWDDLWDLWWD,4,2,4,13,13,WDWDWWLLDWW,LLWLWWDLDW
+Groningen,Roda JC,1-1,/match/fc-groningen/roda-jc/2008,2008,23,eredivisie,18,34,1,1,1,3,45,12,4,6,38,35,LLDLLWDWWDWWWWWLWLWWWD,8,1,2,17,10,7,37,9,6,7,38,35,DWLLWDLDWWWDWLLDWLDWWL,4,3,4,18,18,LLWWDWWWWWW,DLWLWDLDLWW
+Utrecht,Willem II,2-0,/match/fc-utrecht/willem-ii/2008,2008,23,eredivisie,18,34,0,2,0,10,35,9,5,8,44,38,LDDLLLLDLLLWWWWWWDDWWW,5,2,4,26,19,15,26,5,4,13,26,29,DDWLWWWDWLLWWLWLWWDWWW,0,2,8,1,13,LDLLLWWWWDW,DWWWWWWWDW
+Sparta Rotterdam,VVV Venlo,2-0,/match/sparta-rotterdam/vvv/2008,2008,23,eredivisie,18,34,0,2,0,17,22,4,6,12,31,50,LDDDDWDWLWWDWWLLWLWWWL,2,4,4,16,17,16,24,4,7,11,25,49,WWLWLWLWLLWDWDDWDDDDWL,1,4,6,10,26,LDDDLDWLLW,WWWWLDWDDDW
+Twente 1965,Heracles,2-1,/match/fc-twente-1965/heracles/2008,2008,24,eredivisie,18,34,0,2,1,6,41,9,9,5,35,23,LDDLWDLWWLDDWDDLDWDWWLW,5,4,2,17,9,12,28,6,4,13,22,45,LWWLDWWDDLWDWWWLWWWWWLL,1,2,8,10,32,DDWLWDWDWWL,WWDWDWWWWWL
+NAC Breda,Utrecht,1-0,/match/nac-breda/fc-utrecht/2008,2008,24,eredivisie,18,34,0,1,0,7,40,12,5,6,29,26,LWWLLDWDLLDDLLLLLWDWLLW,4,3,4,12,15,8,39,10,5,8,46,38,LDDLLLLDLLLWWWWWWDDWWWW,4,3,4,18,19,LWDWLDLLDWW,DLLLDLWWDWW
+PSV,Heerenveen,1-1,/match/psv/heerenveen/2008,2008,24,eredivisie,18,34,1,1,1,1,55,16,4,3,50,17,LWDWWDWWLWDLLLLWWWLDWWL,9,1,1,30,9,5,45,13,4,6,63,28,DWDLLWWLLWLLLWLLWDDWWLW,7,1,3,23,12,WWWWWDLWWWW,WLWLLLLLWDL
+De Graafschap,Feyenoord,1-3,/match/graafschap/feyenoord/2008,2008,24,eredivisie,18,34,2,1,3,13,28,7,5,11,26,42,LLDWLDWWWWDLLWDLLWLWWLD,3,3,5,13,22,3,48,12,5,6,41,23,LWWLWWLWWWDWWDDLWDLWWDW,4,2,5,13,16,LWDWDLDLLWL,LLWLWWDLDWW
+Vitesse,Groningen,2-1,/match/vitesse/fc-groningen/2008,2008,24,eredivisie,18,34,0,2,1,10,36,9,5,9,30,37,LWWWLLLDWDLWWDWWLDLWWDW,5,3,3,14,10,4,47,12,5,6,39,36,LLDLLWDWWDWWWWWLWLWWWDD,4,3,4,21,25,WWLLWLDWDWD,LDLDWWWLLWD
+Roda JC,Ajax,2-1,/match/roda-jc/ajax/2008,2008,24,eredivisie,18,34,0,2,1,9,38,9,7,7,39,36,DWLLWDLDWWWDWLLDWLDWWLD,5,3,3,20,17,2,49,12,8,3,60,31,LWDLLWDDLWDWLLLWDDWDWDW,5,5,1,26,16,WLDDWWWLWDL,LLLDLDLWDDD
+VVV Venlo,Willem II,1-1,/match/vvv/willem-ii/2008,2008,24,eredivisie,18,34,1,1,1,17,24,4,7,12,25,51,WWLWLWLWLLWDWDDWDDDDWLW,3,3,5,15,23,15,26,5,4,14,26,31,DDWLWWWDWLLWWLWLWWDWWWW,0,2,9,1,15,WLLLLWDWDDL,DWWWWWWWDWW
+NEC Nijmegen,AZ Alkmaar,5-2,/match/nec/az/2008,2008,24,eredivisie,18,34,0,5,2,14,28,5,6,12,23,39,DWWLWWWDWWWWLWDLDWDDWWL,4,4,3,17,11,11,35,8,5,10,35,38,WWWDLWDLLWDWWWDDLWWWLWL,2,3,6,13,26,DLWWWLLDDDW,WDWLDWDLWWW
+Sparta Rotterdam,Excelsior,0-1,/match/sparta-rotterdam/excelsior/2008,2008,24,eredivisie,18,34,2,0,1,16,26,5,6,12,33,50,LDDDDWDWLWWDWWLLWLWWWLW,3,4,4,18,17,18,22,4,4,15,26,57,LWWLLDWWDWDLWLWWWLWWWWD,0,2,9,9,31,LDDDLDWLLWW,WWDWDWWWWWW
+Ajax,Sparta Rotterdam,6-2,/match/ajax/sparta-rotterdam/2008,2008,25,eredivisie,18,34,0,6,2,3,49,12,8,4,61,33,LWDLLWDDLWDWLLLWDDWDWDWW,7,3,2,34,15,16,26,5,6,13,33,51,LDDDDWDWLWWDWWLLWLWWWLWL,2,2,8,15,33,WDWDWWLLDWWW,DDWWWWWLWWWL
+Roda JC,Twente 1965,3-1,/match/roda-jc/fc-twente-1965/2008,2008,25,eredivisie,18,34,0,3,1,8,42,10,7,7,41,37,DWLLWDLDWWWDWLLDWLDWWLDW,6,3,3,22,18,6,45,10,9,5,37,24,LDDLWDLWWLDDWDDLDWDWWLWW,4,5,3,18,14,WLDDWWWLWDLW,LLDWLDDLDDWW
+Willem II,PSV,0-1,/match/willem-ii/psv/2008,2008,25,eredivisie,18,34,2,0,1,15,27,5,5,14,27,32,DDWLWWWDWLLWWLWLWWDWWWWD,5,2,5,25,16,1,57,16,5,3,51,18,LWDWWDWWLWDLLLLWWWLDWWLD,7,3,2,20,8,DLWDLLWLLWWW,LDDLWLLLWLDL
+Heracles,Heerenveen,2-2,/match/heracles/heerenveen/2008,2008,25,eredivisie,18,34,1,2,2,13,28,6,4,14,23,47,LWWLDWWDDLWDWWWLWWWWWLLW,5,2,5,12,13,5,46,13,5,6,64,29,DWDLLWWLLWLLLWLLWDDWWLWD,7,2,3,24,13,LLWDLDWLWWWL,WLWLLLLLWDLD
+NEC Nijmegen,Excelsior,0-1,/match/nec/excelsior/2008,2008,25,eredivisie,18,34,2,0,1,12,32,6,6,12,28,41,DWWLWWWDWWWWLWDLDWDDWWLW,5,4,3,22,13,18,24,5,4,15,27,57,LWWLLDWWDWDLWLWWWLWWWWDL,1,2,9,10,31,DLWWWLLDDDWW,WWDWDWWWWWWL
+De Graafschap,NAC Breda,0-1,/match/graafschap/nac-breda/2008,2008,25,eredivisie,18,34,2,0,1,14,28,7,5,12,27,45,LLDWLDWWWWDLLWDLLWLWWLDL,3,3,6,14,25,7,44,13,5,6,30,26,LWWLLDWDLLDDLLLLLWDWLLWW,8,2,2,17,11,LWDWDLDLLWLL,WLLDLDLLLWLL
+Groningen,AZ Alkmaar,2-1,/match/fc-groningen/az/2008,2008,25,eredivisie,18,34,0,2,1,4,47,12,5,7,40,38,LLDLLWDWWDWWWWWLWLWWWDDW,8,2,2,18,11,11,35,8,5,11,37,43,WWWDLWDLLWDWWWDDLWWWLWLW,2,3,7,15,31,LLWWDWWWWWWD,WDWLDWDLWWWW
+Utrecht,VVV Venlo,1-4,/match/fc-utrecht/vvv/2008,2008,25,eredivisie,18,34,2,1,4,10,39,10,5,9,46,39,LDDLLLLDLLLWWWWWWDDWWWWW,6,2,4,28,19,17,26,4,8,12,26,52,WWLWLWLWLLWDWDDWDDDDWLWD,1,4,7,10,28,LDLLLWWWWDWW,WWWWLDWDDDWW
+Feyenoord,Vitesse,1-0,/match/feyenoord/vitesse/2008,2008,25,eredivisie,18,34,0,1,0,2,50,13,5,6,44,24,LWWLWWLWWWDWWDDLWDLWWDWL,8,3,1,28,7,9,40,10,5,9,32,38,LWWWLLLDWDLWWDWWLDLWWDWW,4,2,6,16,27,WWWWWDWDWLWD,LWLDDWWWLLWW
+Sparta Rotterdam,Utrecht,2-1,/match/sparta-rotterdam/fc-utrecht/2008,2008,26,eredivisie,18,34,0,2,1,17,26,5,6,14,35,57,LDDDDWDWLWWDWWLLWLWWWLWLW,3,4,5,18,18,10,39,10,5,10,47,43,LDDLLLLDLLLWWWWWWDDWWWWWL,4,3,5,18,20,LDDDLDWLLWWL,DLLLDLWWDWWW
+AZ Alkmaar,Twente 1965,0-0,/match/az/fc-twente-1965/2008,2008,26,eredivisie,18,34,1,0,0,11,35,8,5,12,38,45,WWWDLWDLLWDWWWDDLWWWLWLWW,6,2,4,22,12,8,45,10,9,6,38,27,LDDLWDLWWLDDWDDLDWDWWLWWW,4,5,4,19,17,WWLDLWWWDWLL,LLDWLDDLDDWWW
+Excelsior,Willem II,0-0,/match/excelsior/willem-ii/2008,2008,26,eredivisie,18,34,1,0,0,18,26,6,4,15,28,57,LWWLLDWWDWDLWLWWWLWWWWDLL,4,2,6,17,26,16,27,5,5,15,27,33,DDWLWWWDWLLWWLWLWWDWWWWDL,0,3,9,2,16,LLLWDWLLWLWD,DWWWWWWWDWWD
+Heracles,Feyenoord,3-3,/match/heracles/feyenoord/2008,2008,26,eredivisie,18,34,1,3,3,13,30,6,5,14,25,49,LWWLDWWDDLWDWWWLWWWWWLLWD,5,3,5,14,15,2,54,14,5,6,45,24,LWWLWWLWWWDWWDDLWDLWWDWLW,5,2,5,16,17,LLWDLDWLWWWLD,LLWLWWDLDWWL
+Vitesse,Roda JC,1-1,/match/vitesse/roda-jc/2008,2008,26,eredivisie,18,34,1,1,1,9,40,10,5,10,32,39,LWWWLLLDWDLWWDWWLDLWWDWWW,6,3,3,16,11,7,46,11,7,7,44,38,DWLLWDLDWWWDWLLDWLDWWLDWW,4,4,4,19,19,WWLLWLDWDWDW,DLWLWDLDLWWD
+NAC Breda,Ajax,2-3,/match/nac-breda/ajax/2008,2008,26,eredivisie,18,34,2,2,3,6,46,14,5,6,31,26,LWWLLDWDLLDDLLLLLWDWLLWWL,5,3,4,13,15,3,53,13,8,4,67,35,LWDLLWDDLWDWLLLWDDWDWDWWW,5,5,2,27,18,LWDWLDLLDWWW,LLLDLDLWDDDW
+VVV Venlo,Groningen,2-5,/match/vvv/fc-groningen/2008,2008,26,eredivisie,18,34,2,2,5,15,28,5,8,12,30,53,WWLWLWLWLLWDWDDWDDDDWLWDL,3,4,5,16,24,4,51,13,5,7,42,39,LLDLLWDWWDWWWWWLWLWWWDDWW,4,3,5,22,27,WLLLLWDWDDLD,LDLDWWWLLWDW
+PSV,De Graafschap,4-1,/match/psv/graafschap/2008,2008,26,eredivisie,18,34,0,4,1,1,59,17,5,3,52,18,LWDWWDWWLWDLLLLWWWLDWWLDL,9,2,1,31,10,14,28,7,5,13,27,46,LLDWLDWWWWDLLWDLLWLWWLDLL,4,2,6,13,20,WWWWWDLWWWWD,LDLWWWLWLWWD
+Heerenveen,NEC Nijmegen,2-3,/match/heerenveen/nec/2008,2008,26,eredivisie,18,34,2,2,3,5,47,13,6,6,66,31,DWDLLWWLLWLLLWLLWDDWWLWDD,6,3,3,40,16,12,32,6,6,13,28,42,DWWLWWWDWWWWLWDLDWDDWWLWL,1,2,9,6,28,DDLWWLWLDWWW,WWWWDWWWDWWL
+Vitesse,VVV Venlo,1-3,/match/vitesse/vvv/2008,2008,27,eredivisie,18,34,2,1,3,9,42,10,6,10,33,40,LWWWLLLDWDLWWDWWLDLWWDWWWD,6,4,3,17,12,16,28,5,8,13,32,58,WWLWLWLWLLWDWDDWDDDDWLWDLL,2,4,7,14,29,WWLLWLDWDWDWD,WWWWLDWDDDWWL
+NAC Breda,Sparta Rotterdam,3-0,/match/nac-breda/sparta-rotterdam/2008,2008,27,eredivisie,18,34,0,3,0,7,46,14,5,7,33,29,LWWLLDWDLLDDLLLLLWDWLLWWLL,5,3,5,15,18,14,30,6,6,14,37,58,LDDDDWDWLWWDWWLLWLWWWLWLWW,2,2,9,17,39,LWDWLDLLDWWWL,DDWWWWWLWWWLW
+Roda JC,AZ Alkmaar,1-1,/match/roda-jc/az/2008,2008,27,eredivisie,18,34,1,1,1,6,47,11,8,7,45,39,DWLLWDLDWWWDWLLDWLDWWLDWWD,7,3,3,25,19,11,37,8,6,12,38,45,WWWDLWDLLWDWWWDDLWWWLWLWWD,2,3,8,16,33,WLDDWWWLWDLWW,WDWLDWDLWWWWW
+De Graafschap,Willem II,1-2,/match/graafschap/willem-ii/2008,2008,27,eredivisie,18,34,2,1,2,15,28,7,5,14,28,50,LLDWLDWWWWDLLWDLLWLWWLDLLW,3,3,7,14,26,17,28,5,6,15,27,33,DDWLWWWDWLLWWLWLWWDWWWWDLD,0,4,9,2,16,LWDWDLDLLWLLL,DWWWWWWWDWWDD
+Twente 1965,Heerenveen,1-0,/match/fc-twente-1965/heerenveen/2008,2008,27,eredivisie,18,34,0,1,0,8,46,10,10,6,38,27,LDDLWDLWWLDDWDDLDWDWWLWWWD,6,4,2,19,10,5,47,13,6,7,68,34,DWDLLWWLLWLLLWLLWDDWWLWDDL,7,3,3,26,15,DDWLWDWDWWLW,WLWLLLLLWDLDD
+Ajax,Excelsior,4-0,/match/ajax/excelsior/2008,2008,27,eredivisie,18,34,0,4,0,3,55,14,8,4,70,37,LWDLLWDDLWDWLLLWDDWDWDWWWL,8,3,2,40,17,18,28,6,5,15,28,57,LWWLLDWWDWDLWLWWWLWWWWDLLD,2,2,9,11,31,WDWDWWLLDWWWW,WWDWDWWWWWWLL
+Groningen,Heracles,1-2,/match/fc-groningen/heracles/2008,2008,27,eredivisie,18,34,2,1,2,4,53,14,5,7,47,41,LLDLLWDWWDWWWWWLWLWWWDDWWL,9,2,2,20,12,13,32,6,6,14,28,52,LWWLDWWDDLWDWWWLWWWWWLLWDD,1,2,9,11,34,LLWWDWWWWWWDW,WWDWDWWWWWLW
+Utrecht,PSV,3-1,/match/fc-utrecht/psv/2008,2008,27,eredivisie,18,34,0,3,1,10,39,10,5,11,48,45,LDDLLLLDLLLWWWWWWDDWWWWWLW,6,2,5,29,23,1,63,18,5,3,56,19,LWDWWDWWLWDLLLLWWWLDWWLDLW,8,3,2,21,8,LDLLLWWWWDWWL,LDDLWLLLWLDLL
+Feyenoord,NEC Nijmegen,1-3,/match/feyenoord/nec/2008,2008,27,eredivisie,18,34,2,1,3,2,55,14,6,6,48,27,LWWLWWLWWWDWWDDLWDLWWDWLWD,9,3,1,29,7,12,34,7,6,13,31,44,DWWLWWWDWWWWLWDLDWDDWWLWLL,2,2,9,9,30,WWWWWDWDWLWDW,WWWWDWWWDWWLL
+Heracles,Utrecht,2-1,/match/heracles/fc-utrecht/2008,2008,28,eredivisie,18,34,0,2,1,13,34,7,6,14,30,53,LWWLDWWDDLWDWWWLWWWWWLLWDDL,5,4,5,17,18,9,43,11,5,11,51,46,LDDLLLLDLLLWWWWWWDDWWWWWLWW,4,3,6,19,22,LLWDLDWLWWWLDD,DLLLDLWWDWWWW
+Willem II,Groningen,1-2,/match/willem-ii/fc-groningen/2008,2008,28,eredivisie,18,34,2,1,2,16,30,6,6,15,29,34,DDWLWWWDWLLWWLWLWWDWWWWDLDL,5,2,6,25,17,4,53,14,5,8,48,43,LLDLLWDWWDWWWWWLWLWWWDDWWLL,5,3,5,27,29,DLWDLLWLLWWWL,LDLDWWWLLWDWL
+Excelsior,Vitesse,1-2,/match/excelsior/vitesse/2008,2008,28,eredivisie,18,34,2,1,2,18,28,6,5,16,28,61,LWWLLDWWDWDLWLWWWLWWWWDLLDW,4,3,6,17,26,10,42,10,6,11,34,43,LWWWLLLDWDLWWDWWLDLWWDWWWDL,4,2,7,16,28,LLLWDWLLWLWDD,LWLDDWWWLLWWW
+NEC Nijmegen,De Graafschap,3-1,/match/nec/graafschap/2008,2008,28,eredivisie,18,34,0,3,1,12,36,8,6,13,34,45,DWWLWWWDWWWWLWDLDWDDWWLWLLL,5,4,4,22,14,17,28,7,5,15,29,52,LLDWLDWWWWDLLWDLLWLWWLDLLWL,4,2,7,14,24,DLWWWLLDDDWWL,LDLWWWLWLWWDW
+Heerenveen,NAC Breda,3-0,/match/heerenveen/nac-breda/2008,2008,28,eredivisie,18,34,0,3,0,8,47,13,6,8,68,35,DWDLLWWLLWLLLWLLWDDWWLWDDLW,6,3,4,42,19,5,50,15,5,7,36,29,LWWLLDWDLLDDLLLLLWDWLLWWLLW,9,2,2,18,11,DDLWWLWLDWWWL,WLLDLDLLLWLLL
+Sparta Rotterdam,Roda JC,4-1,/match/sparta-rotterdam/roda-jc/2008,2008,28,eredivisie,18,34,0,4,1,14,30,6,6,15,37,61,LDDDDWDWLWWDWWLLWLWWWLWLWWW,4,4,5,20,19,7,49,11,9,7,46,40,DWLLWDLDWWWDWLLDWLDWWLDWWDD,4,5,4,20,20,LDDDLDWLLWWLW,DLWLWDLDLWWDD
+VVV Venlo,Twente 1965,0-2,/match/vvv/fc-twente-1965/2008,2008,28,eredivisie,18,34,2,0,2,15,30,6,8,13,35,59,WWLWLWLWLLWDWDDWDDDDWLWDLLL,3,4,6,18,29,6,50,11,10,6,39,27,LDDLWDLWWLDDWDDLDWDWWLWWWDW,4,6,4,19,17,WLLLLWDWDDLDL,LLDWLDDLDDWWWD
+AZ Alkmaar,Feyenoord,0-1,/match/az/feyenoord/2008,2008,28,eredivisie,18,34,2,0,1,11,38,8,7,12,39,46,WWWDLWDLLWDWWWDDLWWWLWLWWDD,6,3,4,22,12,3,55,14,6,7,49,30,LWWLWWLWWWDWWDDLWDLWWDWLWDL,5,3,5,19,20,WWLDLWWWDWLLD,LLWLWWDLDWWLD
+PSV,Ajax,0-0,/match/psv/ajax/2008,2008,28,eredivisie,18,34,1,0,0,1,63,18,5,4,57,22,LWDWWDWWLWDLLLLWWWLDWWLDLWW,10,2,1,35,11,2,59,15,8,4,74,37,LWDLLWDDLWDWLLLWDDWDWDWWWLW,6,5,2,30,20,WWWWWDLWWWWDW,LLLDLDLWDDDWL
+Groningen,Heerenveen,0-1,/match/fc-groningen/heerenveen/2008,2008,29,eredivisie,18,34,2,0,1,4,55,15,5,8,50,44,LLDLLWDWWDWWWWWLWLWWWDDWWLLL,9,2,3,21,14,6,51,14,6,8,71,35,DWDLLWWLLWLLLWLLWDDWWLWDDLWW,7,3,4,26,16,LLWWDWWWWWWDWL,WLWLLLLLWDLDDW
+De Graafschap,Heracles,0-0,/match/graafschap/heracles/2008,2008,29,eredivisie,18,34,1,0,0,17,28,7,5,16,30,55,LLDWLDWWWWDLLWDLLWLWWLDLLWLW,3,3,8,15,28,13,38,8,6,14,32,54,LWWLDWWDDLWDWWWLWWWWWLLWDDLW,2,2,9,13,35,LWDWDLDLLWLLLL,WWDWDWWWWWLWL
+Twente 1965,Vitesse,4-3,/match/fc-twente-1965/vitesse/2008,2008,29,eredivisie,18,34,0,4,3,5,52,12,10,6,41,27,LDDLWDLWWLDDWDDLDWDWWLWWWDWL,7,4,2,20,10,9,44,11,6,11,36,44,LWWWLLLDWDLWWDWWLDLWWDWWWDLL,5,2,7,18,29,DDWLWDWDWWLWW,LWLDDWWWLLWWWL
+Feyenoord,VVV Venlo,4-1,/match/feyenoord/vvv/2008,2008,29,eredivisie,18,34,0,4,1,3,57,15,6,7,50,30,LWWLWWLWWWDWWDDLWDLWWDWLWDLL,9,3,2,30,10,15,30,6,8,14,35,61,WWLWLWLWLLWDWDDWDDDDWLWDLLLL,3,4,7,17,30,WWWWWDWDWLWDWL,WWWWLDWDDDWWLL
+NAC Breda,Excelsior,2-0,/match/nac-breda/excelsior/2008,2008,29,eredivisie,18,34,0,2,0,7,50,15,5,8,36,32,LWWLLDWDLLDDLLLLLWDWLLWWLLWW,6,3,5,18,18,18,28,6,5,17,29,63,LWWLLDWWDWDLWLWWWLWWWWDLLDWL,2,2,10,11,35,LWDWLDLLDWWWLW,WWDWDWWWWWWLLW
+Ajax,Willem II,4-1,/match/ajax/willem-ii/2008,2008,29,eredivisie,18,34,0,4,1,2,60,15,9,4,74,37,LWDLLWDDLWDWLLLWDDWDWDWWWLWD,9,3,2,44,17,16,30,6,6,16,30,36,DDWLWWWDWLLWWLWLWWDWWWWDLDLL,1,4,9,4,17,WDWDWWLLDWWWWW,DWWWWWWWDWWDDL
+Utrecht,AZ Alkmaar,2-2,/match/fc-utrecht/az/2008,2008,29,eredivisie,18,34,1,2,2,10,43,11,5,12,52,48,LDDLLLLDLLLWWWWWWDDWWWWWLWWW,7,2,5,32,24,12,38,8,7,13,39,47,WWWDLWDLLWDWWWDDLWWWLWLWWDDL,2,4,8,17,34,LDLLLWWWWDWWLW,WDWLDWDLWWWWWD
+NEC Nijmegen,Sparta Rotterdam,4-2,/match/nec/sparta-rotterdam/2008,2008,29,eredivisie,18,34,0,4,2,11,40,9,6,13,37,46,DWWLWWWDWWWWLWDLDWDDWWLWLLLW,6,4,4,25,15,14,34,7,6,15,41,62,LDDDDWDWLWWDWWLLWLWWWLWLWWWW,2,2,10,17,42,DLWWWLLDDDWWLW,DDWWWWWLWWWLWW
+Roda JC,PSV,1-1,/match/roda-jc/psv/2008,2008,29,eredivisie,18,34,1,1,1,8,49,11,9,8,47,44,DWLLWDLDWWWDWLLDWLDWWLDWWDDW,7,4,3,26,20,1,65,18,6,4,57,22,LWDWWDWWLWDLLLLWWWLDWWLDLWWD,8,3,3,22,11,WLDDWWWLWDLWWD,LDDLWLLLWLDLLW
+Vitesse,NAC Breda,3-3,/match/vitesse/nac-breda/2008,2008,30,eredivisie,18,34,1,3,3,10,44,11,6,12,39,48,LWWWLLLDWDLWWDWWLDLWWDWWWDLLW,6,4,4,18,15,6,54,16,5,8,38,32,LWWLLDWDLLDDLLLLLWDWLLWWLLWWW,9,2,3,18,14,WWLLWLDWDWDWDL,WLLDLDLLLWLLLW
+PSV,Groningen,3-0,/match/psv/fc-groningen/2008,2008,30,eredivisie,18,34,0,3,0,1,66,18,7,4,58,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDD,10,3,1,35,11,5,55,15,5,9,50,45,LLDLLWDWWDWWWWWLWLWWWDDWWLLLL,6,3,5,29,30,WWWWWDLWWWWDWD,LDLDWWWLLWDWLL
+Heerenveen,Roda JC,4-3,/match/heerenveen/roda-jc/2008,2008,30,eredivisie,18,34,0,4,3,7,53,15,6,8,72,35,DWDLLWWLLWLLLWLLWDDWWLWDDLWWL,7,3,4,45,19,8,51,11,10,8,48,45,DWLLWDLDWWWDWLLDWLDWWLDWWDDWD,4,5,5,21,24,DDLWWLWLDWWWLW,DLWLWDLDLWWDDW
+AZ Alkmaar,De Graafschap,0-0,/match/az/graafschap/2008,2008,30,eredivisie,18,34,1,0,0,12,39,8,8,13,41,49,WWWDLWDLLWDWWWDDLWWWLWLWWDDLD,6,3,5,22,13,17,30,7,6,16,30,55,LLDWLDWWWWDLLWDLLWLWWLDLLWLWD,4,2,8,15,27,WWLDLWWWDWLLDL,LDLWWWLWLWWDWW
+Excelsior,Utrecht,0-2,/match/excelsior/fc-utrecht/2008,2008,30,eredivisie,18,34,2,0,2,18,28,6,5,18,29,65,LWWLLDWWDWDLWLWWWLWWWWDLLDWLW,4,3,7,18,28,9,45,11,6,12,54,50,LDDLLLLDLLLWWWWWWDDWWWWWLWWWD,4,3,7,20,24,LLLWDWLLWLWDDL,DLLLDLWWDWWWWW
+VVV Venlo,NEC Nijmegen,1-2,/match/vvv/nec/2008,2008,30,eredivisie,18,34,2,1,2,15,30,6,8,15,36,65,WWLWLWLWLLWDWDDWDDDDWLWDLLLLW,3,4,7,18,31,11,44,10,6,13,41,48,DWWLWWWDWWWWLWDLDWDDWWLWLLLWW,3,2,9,12,31,WLLLLWDWDDLDLL,WWWWDWWWDWWLLL
+Twente 1965,Ajax,2-1,/match/fc-twente-1965/ajax/2008,2008,30,eredivisie,18,34,0,2,1,4,56,13,10,6,45,30,LDDLWDLWWLDDWDDLDWDWWLWWWDWLW,8,4,2,24,13,2,64,16,9,4,78,38,LWDLLWDDLWDWLLLWDDWDWDWWWLWDW,6,6,2,30,20,DDWLWDWDWWLWWW,LLLDLDLWDDDWLD
+Sparta Rotterdam,Feyenoord,3-2,/match/sparta-rotterdam/feyenoord/2008,2008,30,eredivisie,18,34,0,3,2,14,34,7,6,16,43,66,LDDDDWDWLWWDWWLLWLWWWLWLWWWWW,5,4,5,24,20,3,61,16,6,7,54,31,LWWLWWLWWWDWWDDLWDLWWDWLWDLLW,6,3,5,20,20,LDDDLDWLLWWLWW,LLWLWWDLDWWLDL
+Willem II,Heracles,2-1,/match/willem-ii/heracles/2008,2008,30,eredivisie,18,34,0,2,1,16,30,6,6,17,31,40,DDWLWWWDWLLWWLWLWWDWWWWDLDLLW,5,2,7,26,19,13,39,8,7,14,32,54,LWWLDWWDDLWDWWWLWWWWWLLWDDLWD,2,3,9,13,35,DLWDLLWLLWWWLL,WWDWDWWWWWLWLD
+De Graafschap,Groningen,1-1,/match/graafschap/fc-groningen/2008,2008,31,eredivisie,18,34,1,1,1,16,31,7,7,16,30,55,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDD,3,4,8,15,28,6,55,15,5,10,50,48,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLW,6,3,6,29,33,LWDWDLDLLWLLLLD,LDLDWWWLLWDWLLW
+Heerenveen,Ajax,2-4,/match/heerenveen/ajax/2008,2008,31,eredivisie,18,34,2,2,4,5,57,16,6,8,76,38,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLW,8,3,4,49,22,2,64,16,9,5,79,40,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWW,6,6,3,31,22,DDLWWLWLDWWWLWW,LLLDLDLWDDDWLDW
+Excelsior,VVV Venlo,2-1,/match/excelsior/vvv/2008,2008,31,eredivisie,18,34,0,2,1,18,28,6,5,19,29,67,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWL,4,3,8,18,30,17,30,6,8,16,37,67,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWL,3,4,8,18,34,LLLWDWLLWLWDDLL,WWWWLDWDDDWWLLW
+Heracles,Roda JC,0-0,/match/heracles/roda-jc/2008,2008,31,eredivisie,18,34,1,0,0,13,39,8,7,15,33,56,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDW,6,4,5,19,19,8,51,11,10,9,51,49,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDW,4,5,6,24,28,LLWDLDWLWWWLDDW,DLWLWDLDLWWDDWW
+NEC Nijmegen,PSV,0-0,/match/nec/psv/2008,2008,31,eredivisie,18,34,1,0,0,10,46,11,6,13,43,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWL,7,4,4,29,17,1,70,19,7,4,61,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDW,8,4,3,23,12,DLWWWLLDDDWWLWW,LDDLWLLLWLDLLWD
+NAC Breda,Feyenoord,3-1,/match/nac-breda/feyenoord/2008,2008,31,eredivisie,18,34,0,3,1,7,55,16,6,8,41,35,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWD,7,3,5,20,18,3,61,16,6,8,56,34,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWW,6,3,6,22,23,LWDWLDLLDWWWLWW,LLWLWWDLDWWLDLW
+AZ Alkmaar,Vitesse,2-1,/match/az/vitesse/2008,2008,31,eredivisie,18,34,0,2,1,12,41,8,9,13,41,49,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDD,6,4,5,22,13,11,46,11,7,12,42,51,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWD,5,2,8,21,33,WWLDLWWWDWLLDLD,LWLDDWWWLLWWWLW
+Utrecht,Twente 1965,0-1,/match/fc-utrecht/fc-twente-1965/2008,2008,31,eredivisie,18,34,2,0,1,9,47,12,6,12,56,50,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDL,7,3,5,34,26,4,60,14,10,6,47,31,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWW,5,6,4,21,17,LDLLLWWWWDWWLWD,LLDWLDDLDDWWWDL
+Sparta Rotterdam,Willem II,2-2,/match/sparta-rotterdam/willem-ii/2008,2008,31,eredivisie,18,34,1,2,2,14,38,8,6,16,46,68,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWW,6,4,5,27,22,15,34,7,6,17,33,41,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWW,1,4,10,5,21,LDDDLDWLLWWLWWW,DWWWWWWWDWWDDLW
+Roda JC,NEC Nijmegen,0-2,/match/roda-jc/nec/2008,2008,32,eredivisie,18,34,2,0,2,8,52,11,11,9,51,49,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDWD,7,5,3,27,21,9,48,11,7,13,43,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWLD,4,2,9,14,32,WLDDWWWLWDLWWDD,WWWWDWWWDWWLLLL
+Willem II,Heerenveen,2-3,/match/willem-ii/heerenveen/2008,2008,32,eredivisie,18,34,2,2,3,15,35,7,7,17,35,43,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWWD,6,2,7,28,20,6,57,16,6,9,78,42,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLWL,8,3,4,27,16,DLWDLLWLLWWWLLW,WLWLLLLLWDLDDWL
+Twente 1965,Excelsior,1-0,/match/fc-twente-1965/excelsior/2008,2008,32,eredivisie,18,34,0,1,0,3,62,15,10,6,48,31,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWWL,9,4,2,26,14,17,32,7,5,19,31,68,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWLW,2,2,11,11,37,DDWLWDWDWWLWWWW,WWDWDWWWWWWLLWW
+Vitesse,Sparta Rotterdam,3-0,/match/vitesse/sparta-rotterdam/2008,2008,32,eredivisie,18,34,0,3,0,11,46,11,7,13,43,53,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWDW,6,5,4,21,18,14,40,8,7,16,48,70,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWWD,2,2,11,19,46,WWLLWLDWDWDWDLD,DDWWWWWLWWWLWWW
+VVV Venlo,AZ Alkmaar,2-3,/match/vvv/az/2008,2008,32,eredivisie,18,34,2,2,3,18,30,6,8,17,38,69,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWLW,3,4,8,19,33,12,45,9,9,13,43,50,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDDW,2,5,8,19,36,WLLLLWDWDDLDLLL,WDWLDWDLWWWWWDD
+Ajax,De Graafschap,4-1,/match/ajax/graafschap/2008,2008,32,eredivisie,18,34,0,4,1,2,66,17,9,5,83,42,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWWL,10,3,2,48,18,16,33,7,8,16,31,56,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDDD,4,3,8,15,27,WDWDWWLLDWWWWWW,LDLWWWLWLWWDWWD
+Groningen,NAC Breda,1-2,/match/fc-groningen/nac-breda/2008,2008,32,eredivisie,18,34,2,1,2,7,56,15,6,10,51,49,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLWD,9,2,4,21,15,5,59,17,6,8,44,36,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWDW,9,3,3,21,17,LLWWDWWWWWWDWLL,WLLDLDLLLWLLLWD
+Feyenoord,Utrecht,3-1,/match/feyenoord/fc-utrecht/2008,2008,32,eredivisie,18,34,0,3,1,4,61,16,6,9,57,37,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWWW,10,3,2,34,11,10,47,12,6,13,56,51,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDLL,5,3,7,22,24,WWWWWDWDWLWDWLW,DLLLDLWWDWWWWWL
+PSV,Heracles,2-0,/match/psv/heracles/2008,2008,32,eredivisie,18,34,0,2,0,1,71,19,8,4,61,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDWD,11,3,1,38,11,13,41,8,8,15,33,56,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDWD,2,3,10,14,37,WWWWWDLWWWWDWDW,WWDWDWWWWWLWLDW
+De Graafschap,Utrecht,1-1,/match/graafschap/fc-utrecht/2008,2008,33,eredivisie,18,34,1,1,1,16,33,7,8,17,32,60,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDDDW,3,5,8,16,29,12,47,12,6,14,57,54,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDLLW,5,3,8,23,27,LWDWDLDLLWLLLLDD,DLLLDLWWDWWWWWLW
+Excelsior,AZ Alkmaar,1-1,/match/excelsior/az/2008,2008,33,eredivisie,18,34,1,1,1,17,32,7,5,20,31,69,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWLWW,5,3,8,20,31,11,47,10,9,13,46,52,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDDWL,3,5,8,22,38,LLLWDWLLWLWDDLLW,WDWLDWDLWWWWWDDL
+Heracles,NAC Breda,0-1,/match/heracles/nac-breda/2008,2008,33,eredivisie,18,34,2,0,1,13,41,8,8,16,33,58,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDWDW,6,5,5,19,19,5,61,18,6,8,46,37,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWDWL,10,3,3,23,18,LLWDLDWLWWWLDDWD,WLLDLDLLLWLLLWDL
+NEC Nijmegen,Vitesse,1-0,/match/nec/vitesse/2008,2008,33,eredivisie,18,34,0,1,0,9,50,12,7,13,45,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWLDL,7,5,4,29,17,10,50,12,7,13,46,53,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWDWW,5,2,9,22,35,DLWWWLLDDDWWLWWD,LWLDDWWWLLWWWLWW
+PSV,Twente 1965,1-1,/match/psv/fc-twente-1965/2008,2008,33,eredivisie,18,34,1,1,1,1,75,20,8,4,63,23,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDWDW,12,3,1,40,11,3,66,16,10,6,49,31,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWWLW,6,6,4,22,17,WWWWWDLWWWWDWDWW,LLDWLDDLDDWWWDLL
+Roda JC,VVV Venlo,4-1,/match/roda-jc/vvv/2008,2008,33,eredivisie,18,34,0,4,1,8,52,11,11,10,51,51,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDWDL,7,5,4,27,23,18,30,6,8,18,40,72,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWLWL,3,4,9,19,36,WLDDWWWLWDLWWDDL,WWWWLDWDDDWWLLWW
+Sparta Rotterdam,Heerenveen,4-2,/match/sparta-rotterdam/heerenveen/2008,2008,33,eredivisie,18,34,0,4,2,14,40,8,7,17,48,73,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWWDW,6,5,5,29,24,6,59,17,6,9,81,44,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLWLL,9,3,4,30,18,LDDDLDWLLWWLWWWD,WLWLLLLLWDLDDWLL
+Willem II,Feyenoord,3-1,/match/willem-ii/feyenoord/2008,2008,33,eredivisie,18,34,0,3,1,15,35,7,7,18,37,46,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWWDL,6,2,8,30,23,4,65,17,6,9,60,38,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWWWW,6,3,7,23,26,DLWDLLWLLWWWLLWL,LLWLWWDLDWWLDLWW
+Groningen,Ajax,1-2,/match/fc-groningen/ajax/2008,2008,33,eredivisie,18,34,2,1,2,7,56,15,6,11,52,51,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLWDL,9,2,5,22,17,2,70,18,9,5,87,43,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWWLW,7,6,3,35,24,LLWWDWWWWWWDWLLL,LLLDLDLWDDDWLDWL
+Ajax,Heracles,5-1,/match/ajax/heracles/2008,2008,34,eredivisie,18,34,0,5,1,2,72,19,9,5,89,44,LWDLLWDDLWDWLLLWDDWDWDWWWLWDWWLWL,11,3,2,52,19,14,41,8,8,17,33,59,LWWLDWWDDLWDWWWLWWWWWLLWDDLWDWDWL,2,3,11,14,39,WDWDWWLLDWWWWWWW,WWDWDWWWWWLWLDWW
+AZ Alkmaar,Sparta Rotterdam,1-0,/match/az/sparta-rotterdam/2008,2008,34,eredivisie,18,34,0,1,0,11,48,10,10,13,47,53,WWWDLWDLLWDWWWDDLWWWLWLWWDDLDDWLD,7,4,5,24,14,13,44,9,7,17,52,75,LDDDDWDWLWWDWWLLWLWWWLWLWWWWWWDWW,2,2,12,19,49,WWLDLWWWDWLLDLDW,DDWWWWWLWWWLWWWW
+Twente 1965,Willem II,2-0,/match/fc-twente-1965/willem-ii/2008,2008,34,eredivisie,18,34,0,2,0,3,67,16,11,6,50,32,LDDLWDLWWLDDWDDLDWDWWLWWWDWLWWLWD,10,4,2,27,14,15,39,8,7,18,40,47,DDWLWWWDWLLWWLWLWWDWWWWDLDLLWWDLW,1,5,10,7,23,DDWLWDWDWWLWWWWW,DWWWWWWWDWWDDLWD
+Utrecht,Groningen,1-0,/match/fc-utrecht/fc-groningen/2008,2008,34,eredivisie,18,34,0,1,0,12,48,12,7,14,58,55,LDDLLLLDLLLWWWWWWDDWWWWWLWWWDLLWD,7,3,6,34,27,7,56,15,6,12,53,53,LLDLLWDWWDWWWWWLWLWWWDDWWLLLLWDLL,6,4,6,30,34,LDLLLWWWWDWWLWDL,LDLDWWWLLWDWLLWD
+Feyenoord,Roda JC,3-0,/match/feyenoord/roda-jc/2008,2008,34,eredivisie,18,34,0,3,0,4,65,17,6,10,61,41,LWWLWWLWWWDWWDDLWDLWWDWLWDLLWWWWW,11,3,2,37,12,8,56,12,11,10,55,52,DWLLWDLDWWWDWLLDWLDWWLDWWDDWDWDLW,4,6,6,24,28,WWWWWDWDWLWDWLWW,DLWLWDLDLWWDDWWD
+NAC Breda,NEC Nijmegen,1-3,/match/nac-breda/nec/2008,2008,34,eredivisie,18,34,2,1,3,5,63,19,6,8,47,37,LWWLLDWDLLDDLLLLLWDWLLWWLLWWWDWLL,8,3,5,23,19,9,54,13,7,13,46,49,DWWLWWWDWWWWLWDLDWDDWWLWLLLWWLDLW,5,2,9,16,32,LWDWLDLLDWWWLWWW,WWWWDWWWDWWLLLLL
+Heerenveen,Excelsior,5-0,/match/heerenveen/excelsior/2008,2008,34,eredivisie,18,34,0,5,0,6,59,17,6,10,83,48,DWDLLWWLLWLLLWLLWDDWWLWDDLWWLWLLW,8,3,5,51,26,17,34,7,6,20,32,70,LWWLLDWWDWDLWLWWWLWWWWDLLDWLWLWWD,2,2,12,11,38,DDLWWLWLDWWWLWWL,WWDWDWWWWWWLLWWW
+Vitesse,PSV,0-1,/match/vitesse/psv/2008,2008,34,eredivisie,18,34,2,0,1,10,50,12,7,14,46,54,LWWWLLLDWDLWWDWWLDLWWDWWWDLLWDWWW,7,5,4,24,18,1,77,20,9,4,64,24,LWDWWDWWLWDLLLLWWWLDWWLDLWWDDWDWD,8,5,3,23,12,WWLLWLDWDWDWDLDW,LDDLWLLLWLDLLWDD
+VVV Venlo,De Graafschap,3-0,/match/vvv/graafschap/2008,2008,34,eredivisie,18,34,0,3,0,18,30,6,8,19,41,76,WWLWLWLWLLWDWDDWDDDDWLWDLLLLWLWLW,3,4,9,21,36,16,35,7,9,17,33,61,LLDWLDWWWWDLLWDLLWLWWLDLLWLWDDDWD,4,3,9,16,31,WLLLLWDWDDLDLLLL,LDLWWWLWLWWDWWDW

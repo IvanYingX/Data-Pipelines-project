@@ -1,241 +1,241 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Beira Mar SC,SP. Covilhã,0-1,/match/beira-mar/sporting-covilha/2010,2010,1,segunda_liga,16,30,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Gil Vicente,Penafiel,3-1,/match/gil-vicente/penafiel/2010,2010,1,segunda_liga,16,30,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-SC Freamunde,Desportivo Aves,0-0,/match/sc-freamunde/desportivo-aves/2010,2010,1,segunda_liga,16,30,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Varzim,UD Oliveirense,0-0,/match/varzim/ud-oliveirense/2010,2010,1,segunda_liga,16,30,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-CD Santa Clara,Fatima,1-0,/match/santa-clara/fatima/2010,2010,1,segunda_liga,16,30,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Trofense,Carregado,3-0,/match/trofense/carregado/2010,2010,1,segunda_liga,16,30,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Chaves,Feirense,0-1,/match/chaves/feirense/2010,2010,1,segunda_liga,16,30,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Estoril,Portimonense,1-3,/match/estoril/portimonense/2010,2010,1,segunda_liga,16,30,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Penafiel,CD Santa Clara,2-2,/match/penafiel/santa-clara/2010,2010,2,segunda_liga,16,30,1,2,2,15,0,0,1,1,3,W,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
-UD Oliveirense,Estoril,0-0,/match/ud-oliveirense/estoril/2010,2010,2,segunda_liga,16,30,1,0,0,9,0,1,0,0,0,D,0,0,0,0,0,16,0,0,1,1,3,L,0,0,0,0,0,,
-Carregado,Gil Vicente,1-0,/match/carregado/gil-vicente/2010,2010,2,segunda_liga,16,30,0,1,0,11,0,0,1,0,3,W,0,0,0,0,0,1,1,0,0,3,1,W,0,0,0,0,0,,
-Desportivo Aves,Chaves,2-2,/match/desportivo-aves/chaves/2010,2010,2,segunda_liga,16,30,1,2,2,10,0,1,0,0,0,D,0,0,0,0,0,14,0,0,1,0,1,L,0,0,0,0,0,,
-SP. Covilhã,SC Freamunde,2-3,/match/sporting-covilha/sc-freamunde/2010,2010,2,segunda_liga,16,30,2,2,3,7,1,0,0,1,0,L,0,0,0,0,0,4,0,1,0,0,0,D,0,0,0,0,0,,
-Fatima,Trofense,2-1,/match/fatima/trofense/2010,2010,2,segunda_liga,16,30,0,2,1,12,0,0,1,0,1,W,0,0,0,0,0,2,1,0,0,3,0,W,0,0,0,0,0,,
-Feirense,Varzim,4-0,/match/feirense/varzim/2010,2010,2,segunda_liga,16,30,0,4,0,8,1,0,0,1,0,L,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
-Portimonense,Beira Mar SC,2-1,/match/portimonense/beira-mar/2010,2010,2,segunda_liga,16,30,0,2,1,6,1,0,0,3,1,L,0,0,0,0,0,13,0,0,1,0,1,L,0,0,0,0,0,,
-Estoril,Varzim,1-1,/match/estoril/varzim/2010,2010,3,segunda_liga,16,30,1,1,1,15,0,1,1,1,3,LD,0,0,1,1,3,11,0,1,1,0,4,DW,0,0,1,0,4,L,W
-Chaves,Portimonense,1-1,/match/chaves/portimonense/2010,2010,3,segunda_liga,16,30,1,1,1,14,0,1,1,2,3,LD,0,0,1,0,1,1,2,0,0,5,2,LW,1,0,0,3,1,L,L
-CD Santa Clara,UD Oliveirense,1-2,/match/santa-clara/ud-oliveirense/2010,2010,3,segunda_liga,16,30,2,1,2,3,1,1,0,3,2,WD,1,0,0,1,0,9,0,2,0,0,0,DD,0,1,0,0,0,W,D
-Penafiel,Carregado,1-1,/match/penafiel/carregado/2010,2010,3,segunda_liga,16,30,1,1,1,13,0,1,1,3,5,WD,0,1,0,2,2,7,1,0,1,1,3,WW,0,0,1,0,3,D,W
-Beira Mar SC,Feirense,1-0,/match/beira-mar/feirense/2010,2010,3,segunda_liga,16,30,0,1,0,16,0,0,2,1,3,LW,0,0,1,0,1,2,2,0,0,5,0,LW,1,0,0,1,0,L,L
-Trofense,Desportivo Aves,2-2,/match/trofense/desportivo-aves/2010,2010,3,segunda_liga,16,30,1,2,2,5,1,0,1,4,2,WW,1,0,0,3,0,10,0,2,0,2,2,DD,0,1,0,0,0,W,D
-SC Freamunde,Fatima,1-1,/match/sc-freamunde/fatima/2010,2010,3,segunda_liga,16,30,1,1,1,6,1,1,0,3,2,DL,0,1,0,0,0,8,1,0,1,2,2,WW,0,0,1,0,1,D,W
-Gil Vicente,SP. Covilhã,3-0,/match/gil-vicente/sporting-covilha/2010,2010,3,segunda_liga,16,30,0,3,0,4,1,0,1,3,2,WW,1,0,0,3,1,12,1,0,1,3,3,LL,1,0,0,1,0,W,L
-SP. Covilhã,Estoril,3-1,/match/sporting-covilha/estoril/2010,2010,4,segunda_liga,16,30,0,3,1,16,1,0,2,3,6,LLW,0,0,1,2,3,15,0,2,1,2,4,LDD,0,1,0,0,0,L,D
-Feirense,Trofense,3-0,/match/feirense/trofense/2010,2010,4,segunda_liga,16,30,0,3,0,3,2,0,1,5,1,LWW,1,0,0,4,0,4,1,1,1,6,4,WWD,0,0,1,1,2,W,W
-Varzim,Chaves,1-0,/match/varzim/chaves/2010,2010,4,segunda_liga,16,30,0,1,0,13,0,2,1,1,5,DWD,0,1,0,0,0,14,0,2,1,3,4,LDD,0,1,0,2,2,D,D
-Portimonense,Gil Vicente,0-3,/match/portimonense/gil-vicente/2010,2010,4,segunda_liga,16,30,2,0,3,2,2,1,0,6,3,LWD,1,0,0,2,1,1,2,0,1,6,2,WWW,0,0,1,0,1,W,W
-UD Oliveirense,SC Freamunde,2-1,/match/ud-oliveirense/sc-freamunde/2010,2010,4,segunda_liga,16,30,0,2,1,9,1,2,0,2,1,DDL,0,1,0,0,0,5,1,2,0,4,3,DLD,1,0,0,3,2,D,L
-Desportivo Aves,Penafiel,3-2,/match/desportivo-aves/penafiel/2010,2010,4,segunda_liga,16,30,0,3,2,10,0,3,0,4,4,DDD,0,1,0,2,2,11,0,2,1,4,6,WDD,0,0,1,1,3,D,W
-Fatima,Beira Mar SC,1-2,/match/fatima/beira-mar/2010,2010,4,segunda_liga,16,30,2,1,2,8,1,1,1,3,3,WWD,1,0,0,2,1,12,1,0,2,2,3,LWW,0,0,1,1,2,W,W
-Carregado,CD Santa Clara,1-2,/match/carregado/santa-clara/2010,2010,4,segunda_liga,16,30,2,1,2,7,1,1,1,2,4,WWD,1,0,0,1,0,6,1,1,1,4,4,WDL,0,1,0,2,2,W,D
-CD Santa Clara,Feirense,1-1,/match/santa-clara/feirense/2010,2010,5,segunda_liga,16,30,1,1,1,6,2,1,1,6,5,WDLL,1,0,1,2,2,2,3,0,1,8,1,LWWW,1,0,1,1,1,WL,LW
-Trofense,Portimonense,0-3,/match/trofense/portimonense/2010,2010,5,segunda_liga,16,30,2,0,3,8,1,1,2,6,7,WWDW,1,1,0,5,2,5,2,1,1,6,6,LWDL,1,1,0,4,2,WD,LD
-SC Freamunde,Varzim,2-1,/match/sc-freamunde/varzim/2010,2010,5,segunda_liga,16,30,0,2,1,9,1,2,1,5,5,DLDW,0,2,0,1,1,7,1,2,1,2,5,DWDW,0,1,1,1,5,DD,WD
-Carregado,Desportivo Aves,0-0,/match/carregado/desportivo-aves/2010,2010,5,segunda_liga,16,30,1,0,0,12,1,1,2,3,6,WWDL,1,0,1,2,2,4,1,3,0,7,6,DDDW,0,2,0,2,2,WL,DD
-Penafiel,SP. Covilhã,1-0,/match/penafiel/sporting-covilha/2010,2010,5,segunda_liga,16,30,0,1,0,14,0,2,2,6,9,WDDW,0,2,0,3,3,11,2,0,2,6,7,LLWW,1,0,1,1,3,DD,LW
-Gil Vicente,Fatima,1-1,/match/gil-vicente/fatima/2010,2010,5,segunda_liga,16,30,1,1,1,1,3,0,1,9,2,WWWL,2,0,0,6,1,13,1,1,2,4,5,WWDL,0,1,1,1,2,WW,WD
-Chaves,Estoril,1-1,/match/chaves/estoril/2010,2010,5,segunda_liga,16,30,1,1,1,15,0,2,2,3,5,LDDW,0,1,1,1,2,16,0,2,2,3,7,LDDW,0,1,1,1,3,LD,DW
-Beira Mar SC,UD Oliveirense,1-0,/match/beira-mar/ud-oliveirense/2010,2010,5,segunda_liga,16,30,0,1,0,10,2,0,2,4,4,LWWL,1,0,1,1,1,3,2,2,0,4,2,DDLW,1,1,0,2,1,LW,DL
-Estoril,Beira Mar SC,2-0,/match/estoril/beira-mar/2010,2010,6,segunda_liga,16,30,0,2,0,16,0,3,2,4,8,LDDWD,0,1,1,2,4,4,3,0,2,5,4,LWWLW,1,0,1,3,3,LD,WL
-Portimonense,SC Freamunde,1-0,/match/portimonense/sc-freamunde/2010,2010,6,segunda_liga,16,30,0,1,0,7,3,1,1,9,6,LWDLL,1,0,1,2,4,3,2,2,1,7,6,DLDWW,1,0,1,4,4,WL,LW
-UD Oliveirense,Chaves,1-3,/match/ud-oliveirense/chaves/2010,2010,6,segunda_liga,16,30,2,1,3,5,2,2,1,4,3,DDLWW,1,1,0,2,1,15,0,3,2,4,6,LDDWD,0,1,1,2,3,DW,DW
-SP. Covilhã,Trofense,2-1,/match/sporting-covilha/trofense/2010,2010,6,segunda_liga,16,30,0,2,1,13,2,0,3,6,8,LLWWW,1,0,1,5,4,12,1,1,3,6,10,WWDWL,0,0,2,1,5,LW,WW
-Fatima,Carregado,1-2,/match/fatima/carregado/2010,2010,6,segunda_liga,16,30,2,1,2,14,1,2,2,5,6,WWDLD,1,0,1,3,3,11,1,2,2,3,6,WWDLD,0,1,1,1,4,WL,WD
-Feirense,Penafiel,1-1,/match/feirense/penafiel/2010,2010,6,segunda_liga,16,30,1,1,1,2,3,1,1,9,2,LWWWD,2,0,0,7,0,9,1,2,2,7,9,WDDWW,0,0,2,3,6,WW,WW
-Varzim,CD Santa Clara,1-2,/match/varzim/santa-clara/2010,2010,6,segunda_liga,16,30,2,1,2,10,1,2,2,3,7,DWDWW,1,1,0,1,0,8,2,2,1,7,6,WDLLD,1,1,0,4,3,DW,DL
-Desportivo Aves,Gil Vicente,2-2,/match/desportivo-aves/gil-vicente/2010,2010,6,segunda_liga,16,30,1,2,2,6,1,4,0,7,6,DDDWD,1,1,0,5,4,1,3,1,1,10,3,WWWLD,1,0,1,3,1,DW,WL
-CD Santa Clara,Estoril,1-1,/match/santa-clara/estoril/2010,2010,7,segunda_liga,16,30,1,1,1,5,3,2,1,9,7,WDLLDL,1,1,1,3,3,12,1,3,2,6,8,LDDWDW,0,2,1,2,4,WLD,DWD
-Penafiel,Portimonense,1-0,/match/penafiel/portimonense/2010,2010,7,segunda_liga,16,30,0,1,0,10,1,3,2,8,10,WDDWWD,1,2,0,4,3,3,4,1,1,10,6,LWDLLW,2,1,0,7,2,DDW,LDL
-Desportivo Aves,Fatima,0-1,/match/desportivo-aves/fatima/2010,2010,7,segunda_liga,16,30,2,0,1,4,1,5,0,9,8,DDDWDD,1,2,0,7,6,16,1,2,3,6,8,WWDLDL,0,2,1,2,3,DWD,WDD
-Beira Mar SC,Chaves,2-1,/match/beira-mar/chaves/2010,2010,7,segunda_liga,16,30,0,2,1,7,3,0,3,5,6,LWWLWW,2,0,1,2,1,14,1,3,2,7,7,LDDWDL,1,1,1,5,4,LWW,DWL
-Trofense,UD Oliveirense,1-0,/match/trofense/ud-oliveirense/2010,2010,7,segunda_liga,16,30,0,1,0,15,1,1,4,7,12,WWDWLW,1,1,1,5,5,9,2,2,2,5,6,DDLWWL,1,1,1,2,2,WDL,DLW
-Gil Vicente,Varzim,1-2,/match/gil-vicente/varzim/2010,2010,7,segunda_liga,16,30,2,1,2,1,3,2,1,12,5,WWWLDD,2,1,0,7,2,13,1,2,3,4,9,DWDWWL,0,1,2,2,7,WWD,WDW
-SC Freamunde,Feirense,1-2,/match/sc-freamunde/feirense/2010,2010,7,segunda_liga,16,30,2,1,2,6,2,2,2,7,7,DLDWWW,1,2,0,3,2,2,3,2,1,10,3,LWWWDD,1,1,1,2,2,DDW,LWD
-Carregado,SP. Covilhã,1-1,/match/carregado/sporting-covilha/2010,2010,7,segunda_liga,16,30,1,1,1,11,2,2,2,5,7,WWDLDL,1,1,1,2,2,8,3,0,3,8,9,LLWWWW,1,0,2,1,4,WLD,LWW
-Portimonense,CD Santa Clara,0-0,/match/portimonense/santa-clara/2010,2010,8,segunda_liga,16,30,1,0,0,4,4,1,2,10,7,LWDLLWW,2,0,1,3,4,5,3,3,1,10,8,WDLLDLD,2,1,0,6,4,WLW,DLL
-Feirense,Gil Vicente,0-1,/match/feirense/gil-vicente/2010,2010,8,segunda_liga,16,30,2,0,1,1,4,2,1,12,4,LWWWDDL,2,1,0,8,1,3,3,2,2,13,7,WWWLDDL,1,1,1,5,3,WWD,WLD
-Fatima,Penafiel,2-2,/match/fatima/penafiel/2010,2010,8,segunda_liga,16,30,1,2,2,15,2,2,3,7,8,WWDLDLL,1,0,2,4,5,6,2,3,2,9,10,WDDWWDW,0,1,2,4,7,WLL,WWD
-Chaves,SC Freamunde,1-1,/match/chaves/sc-freamunde/2010,2010,8,segunda_liga,16,30,1,1,1,16,1,3,3,8,9,LDDWDLW,0,2,1,2,3,10,2,2,3,8,9,DLDWWWL,1,0,2,4,5,LDD,LWW
-UD Oliveirense,Carregado,3-0,/match/ud-oliveirense/carregado/2010,2010,8,segunda_liga,16,30,0,3,0,12,2,2,3,5,7,DDLWWLW,1,1,1,3,4,9,2,3,2,6,8,WWDLDLD,1,1,1,3,5,DWL,WDL
-Estoril,Trofense,1-1,/match/estoril/trofense/2010,2010,8,segunda_liga,16,30,1,1,1,13,1,4,2,7,9,LDDWDWD,1,1,1,4,4,11,2,1,4,8,12,WWDWLWW,0,0,3,2,7,LDW,WWW
-SP. Covilhã,Desportivo Aves,1-2,/match/sporting-covilha/desportivo-aves/2010,2010,8,segunda_liga,16,30,2,1,2,8,3,1,3,9,10,LLWWWWD,2,0,1,7,5,7,1,5,1,9,9,DDDWDDL,0,3,0,2,2,LWW,DDD
-Varzim,Beira Mar SC,1-1,/match/varzim/beira-mar/2010,2010,8,segunda_liga,16,30,1,1,1,14,2,2,3,6,10,DWDWWLL,1,1,1,2,2,2,4,0,3,7,7,LWWLWWW,1,0,2,3,5,DWL,WLW
-Carregado,Portimonense,1-3,/match/carregado/portimonense/2010,2010,9,segunda_liga,16,30,2,1,3,10,2,3,3,6,11,WWDLDLDW,1,2,1,3,3,4,4,2,2,10,7,LWDLLWWD,2,1,1,7,3,WLDD,LDLW
-Desportivo Aves,Feirense,1-1,/match/desportivo-aves/feirense/2010,2010,9,segunda_liga,16,30,1,1,1,7,2,5,1,11,10,DDDWDDLL,1,2,1,7,7,1,4,2,2,12,5,LWWWDDLL,2,1,1,4,3,DWDL,LWDL
-SC Freamunde,Beira Mar SC,1-2,/match/sc-freamunde/beira-mar/2010,2010,9,segunda_liga,16,30,2,1,2,11,2,3,3,9,10,DLDWWWLD,1,2,1,4,4,2,4,1,3,8,8,LWWLWWWD,1,1,2,4,6,DDWL,WLWD
-CD Santa Clara,Chaves,3-0,/match/santa-clara/chaves/2010,2010,9,segunda_liga,16,30,0,3,0,5,3,4,1,10,8,WDLLDLDD,1,2,1,4,4,16,1,4,3,9,10,LDDWDLWD,1,1,2,6,6,WLDD,DWLW
-Gil Vicente,Estoril,0-2,/match/gil-vicente/estoril/2010,2010,9,segunda_liga,16,30,2,0,2,3,4,2,2,14,7,WWWLDDLL,2,1,1,8,4,13,1,5,2,8,10,LDDWDWDD,0,3,1,3,5,WWDL,DWDD
-Fatima,SP. Covilhã,3-0,/match/fatima/sporting-covilha/2010,2010,9,segunda_liga,16,30,0,3,0,15,2,3,3,9,10,WWDLDLLD,1,1,2,6,7,9,3,1,4,10,12,LLWWWWDL,1,1,2,2,5,WLLD,LWWD
-Penafiel,UD Oliveirense,0-2,/match/penafiel/ud-oliveirense/2010,2010,9,segunda_liga,16,30,2,0,2,6,2,4,2,11,12,WDDWWDWD,2,2,0,5,3,8,3,2,3,8,7,DDLWWLWW,1,1,2,2,3,DDWW,DLWW
-Trofense,Varzim,2-1,/match/trofense/varzim/2010,2010,9,segunda_liga,16,30,0,2,1,12,2,2,4,9,13,WWDWLWWD,2,1,1,6,5,14,2,3,3,7,11,DWDWWLLD,1,1,2,4,8,WDLW,WDWL
-Estoril,SC Freamunde,0-0,/match/estoril/sc-freamunde/2010,2010,10,segunda_liga,16,30,1,0,0,11,2,5,2,10,10,LDDWDWDDL,1,2,1,5,5,14,2,3,4,10,12,DLDWWWLDL,1,1,2,5,6,LDWD,LWWD
-Feirense,Carregado,1-0,/match/feirense/carregado/2010,2010,10,segunda_liga,16,30,0,1,0,4,4,3,2,13,6,LWWWDDLLD,2,1,1,8,2,13,2,3,4,7,14,WWDLDLDWL,1,1,2,3,8,WWDL,WDLW
-Beira Mar SC,Trofense,1-2,/match/beira-mar/trofense/2010,2010,10,segunda_liga,16,30,2,1,2,2,5,1,3,10,9,LWWLWWWDL,3,0,1,4,2,8,3,2,4,11,14,WWDWLWWDW,0,1,3,3,8,LWWW,WWWD
-UD Oliveirense,Gil Vicente,1-1,/match/ud-oliveirense/gil-vicente/2010,2010,10,segunda_liga,16,30,1,1,1,7,4,2,3,10,7,DDLWWLWWL,2,1,1,6,4,5,4,2,3,14,9,WWWLDDLLL,2,1,1,6,3,DWLW,WLDL
-Chaves,Penafiel,2-0,/match/chaves/penafiel/2010,2010,10,segunda_liga,16,30,0,2,0,16,1,4,4,9,13,LDDWDLWDW,0,3,1,3,4,9,2,4,3,11,14,WDDWWDWDL,0,2,2,6,9,LDDD,WWDD
-Varzim,Desportivo Aves,0-0,/match/varzim/desportivo-aves/2010,2010,10,segunda_liga,16,30,1,0,0,15,2,3,4,8,13,DWDWWLLDW,1,2,1,3,3,6,2,6,1,12,11,DDDWDDLLD,1,3,0,4,3,DWLD,DDDL
-Portimonense,Fatima,3-3,/match/portimonense/fatima/2010,2010,10,segunda_liga,16,30,1,3,3,3,5,2,2,13,8,LWDLLWWDL,2,1,1,3,4,10,3,3,3,12,10,WWDLDLLDW,1,2,1,3,3,WLWD,WDDL
-SP. Covilhã,CD Santa Clara,2-2,/match/sporting-covilha/santa-clara/2010,2010,10,segunda_liga,16,30,1,2,2,12,3,1,5,10,15,LLWWWWDLW,2,0,2,8,7,1,4,4,1,13,8,WDLLDLDDW,2,2,0,6,4,LWWL,DLLD
-SP. Covilhã,Portimonense,3-1,/match/sporting-covilha/portimonense/2010,2010,11,segunda_liga,16,30,0,3,1,12,3,2,5,12,17,LLWWWWDLWD,2,1,2,10,9,3,5,3,2,16,11,LWDLLWWDLD,3,1,1,10,4,LWWLD,LDLWL
-Desportivo Aves,UD Oliveirense,2-1,/match/desportivo-aves/ud-oliveirense/2010,2010,11,segunda_liga,16,30,0,2,1,8,2,7,1,12,11,DDDWDDLLDD,1,3,1,8,8,5,4,3,3,11,8,DDLWWLWWLD,2,1,2,4,3,DWDLD,DLWWL
-Carregado,Estoril,1-2,/match/carregado/estoril/2010,2010,11,segunda_liga,16,30,2,1,2,16,2,3,5,7,15,WWDLDLDWLW,1,2,2,4,6,10,2,6,2,10,10,LDDWDWDDLD,1,3,1,5,5,WLDDL,DWDDL
-Penafiel,Varzim,0-0,/match/penafiel/varzim/2010,2010,11,segunda_liga,16,30,1,0,0,11,2,4,4,11,16,WDDWWDWDLW,2,2,1,5,5,13,2,4,4,8,13,DWDWWLLDWD,1,1,3,5,10,DDWWL,WDWLW
-CD Santa Clara,Beira Mar SC,1-1,/match/santa-clara/beira-mar/2010,2010,11,segunda_liga,16,30,1,1,1,2,4,5,1,15,10,WDLLDLDDWD,2,2,1,7,4,4,5,1,4,11,11,LWWLWWWDLL,2,1,2,6,7,WLDDW,WLWDL
-Gil Vicente,Chaves,0-3,/match/gil-vicente/chaves/2010,2010,11,segunda_liga,16,30,2,0,3,7,4,3,3,15,10,WWWLDDLLLD,2,1,2,8,6,14,2,4,4,11,13,LDDWDLWDWW,1,1,3,6,9,WWDLL,DWLWW
-Trofense,SC Freamunde,4-0,/match/trofense/sc-freamunde/2010,2010,11,segunda_liga,16,30,0,4,0,6,4,2,4,13,15,WWDWLWWDWL,3,1,1,8,6,15,2,4,4,10,12,DLDWWWLDLD,1,2,2,5,6,WDLWW,LWWDD
-Fatima,Feirense,1-0,/match/fatima/feirense/2010,2010,11,segunda_liga,16,30,0,1,0,9,3,4,3,15,13,WWDLDLLDWD,2,1,2,9,7,1,5,3,2,14,6,LWWWDDLLDW,2,2,1,5,4,WLLDW,LWDLD
-Estoril,Penafiel,0-0,/match/estoril/penafiel/2010,2010,12,segunda_liga,16,30,1,0,0,9,3,6,2,12,11,LDDWDWDDLDL,1,3,1,5,5,12,2,5,4,11,16,WDDWWDWDLWD,0,2,3,6,11,LDWDD,WWDDW
-Portimonense,Desportivo Aves,1-1,/match/portimonense/desportivo-aves/2010,2010,12,segunda_liga,16,30,1,1,1,5,5,3,3,17,14,LWDLLWWDLDW,2,2,1,6,7,4,3,7,1,14,12,DDDWDDLLDDW,1,4,0,4,3,WLWDD,DDDLD
-Feirense,SP. Covilhã,3-2,/match/feirense/sporting-covilha/2010,2010,12,segunda_liga,16,30,0,3,2,3,5,3,3,14,7,LWWWDDLLDWW,3,1,1,9,2,10,4,2,5,15,18,LLWWWWDLWDW,1,1,3,2,8,WWDLW,LWWDW
-SC Freamunde,CD Santa Clara,1-2,/match/sc-freamunde/santa-clara/2010,2010,12,segunda_liga,16,30,2,1,2,15,2,4,5,10,16,DLDWWWLDLDW,1,2,2,5,6,1,4,6,1,16,11,WDLLDLDDWDD,2,3,0,8,6,DDWLL,DLLDD
-Chaves,Trofense,1-1,/match/chaves/trofense/2010,2010,12,segunda_liga,16,30,1,1,1,13,3,4,4,14,13,LDDWDLWDWWL,1,3,1,5,4,2,5,2,4,17,15,WWDWLWWDWLW,1,1,3,5,9,LDDDW,WWWDL
-Varzim,Carregado,1-1,/match/varzim/carregado/2010,2010,12,segunda_liga,16,30,1,1,1,14,2,5,4,8,13,DWDWWLLDWDD,1,3,1,3,3,16,2,3,6,8,17,WWDLDLDWLWL,1,1,3,3,9,DWLDD,WDLWW
-Beira Mar SC,Gil Vicente,2-1,/match/beira-mar/gil-vicente/2010,2010,12,segunda_liga,16,30,0,2,1,7,5,2,4,12,12,LWWLWWWDLLD,3,0,2,5,4,11,4,3,4,15,13,WWWLDDLLLDL,2,2,1,7,4,LWWWL,WLDLD
-UD Oliveirense,Fatima,1-0,/match/ud-oliveirense/fatima/2010,2010,12,segunda_liga,16,30,0,1,0,8,4,3,4,12,10,DDLWWLWWLDW,2,2,1,7,5,6,4,4,3,16,13,WWDLDLLDWDW,1,3,1,6,6,DWLWD,WDDLD
-Portimonense,Feirense,1-0,/match/portimonense/feirense/2010,2010,13,segunda_liga,16,30,0,1,0,6,5,4,3,18,15,LWDLLWWDLDWD,2,3,1,7,8,1,6,3,3,17,9,LWWWDDLLDWWW,2,2,2,5,5,WLWDDD,LWDLDW
-Desportivo Aves,Estoril,0-1,/match/desportivo-aves/estoril/2010,2010,13,segunda_liga,16,30,2,0,1,5,3,8,1,15,13,DDDWDDLLDDWD,2,3,1,10,9,9,3,7,2,12,11,LDDWDWDDLDLD,2,3,1,7,6,DWDLDW,DWDDLL
-Penafiel,Beira Mar SC,0-2,/match/penafiel/beira-mar/2010,2010,13,segunda_liga,16,30,2,0,2,11,2,6,4,11,16,WDDWWDWDLWDD,2,3,1,5,5,4,6,2,4,14,13,LWWLWWWDLLDW,2,2,2,7,8,DDWWLD,WLWDLD
-CD Santa Clara,Trofense,3-1,/match/santa-clara/trofense/2010,2010,13,segunda_liga,16,30,0,3,1,2,5,6,1,18,12,WDLLDLDDWDDL,2,3,1,8,5,3,5,3,4,18,16,WWDWLWWDWLWD,1,2,3,6,10,WLDDWD,WWWDLD
-Fatima,Varzim,0-0,/match/fatima/varzim/2010,2010,13,segunda_liga,16,30,1,0,0,8,4,4,4,16,14,WWDLDLLDWDWW,3,1,2,10,7,14,2,6,4,9,14,DWDWWLLDWDDD,1,2,3,5,10,WLLDWW,WDWLWD
-Gil Vicente,SC Freamunde,1-1,/match/gil-vicente/sc-freamunde/2010,2010,13,segunda_liga,16,30,1,1,1,13,4,3,5,16,15,WWWLDDLLLDLW,2,1,3,8,9,15,2,4,6,11,18,DLDWWWLDLDWL,1,2,3,5,10,WWDLLL,LWWDDW
-Carregado,Chaves,1-2,/match/carregado/chaves/2010,2010,13,segunda_liga,16,30,2,1,2,16,2,4,6,9,18,WWDLDLDWLWLD,1,2,3,5,8,12,3,5,4,15,14,LDDWDLWDWWLD,2,1,3,9,9,WLDDLL,DWLWWL
-SP. Covilhã,UD Oliveirense,1-1,/match/sporting-covilha/ud-oliveirense/2010,2010,13,segunda_liga,16,30,1,1,1,10,4,2,6,17,21,LLWWWWDLWDWW,3,1,2,13,10,7,5,3,4,13,10,DDLWWLWWLDWW,2,1,3,5,5,LWWLDW,DLWWLW
-Estoril,Fatima,0-1,/match/estoril/fatima/2010,2010,14,segunda_liga,16,30,2,0,1,9,4,7,2,13,11,LDDWDWDDLDLDL,1,4,1,5,5,8,4,5,4,16,14,WWDLDLLDWDWWD,1,3,2,6,7,LDWDDD,WDDLDW
-Varzim,Portimonense,0-0,/match/varzim/portimonense/2010,2010,14,segunda_liga,16,30,1,0,0,14,2,7,4,9,14,DWDWWLLDWDDDD,1,4,1,4,4,2,6,4,3,19,15,LWDLLWWDLDWDW,3,1,2,11,7,DWLDDD,LDLWLW
-UD Oliveirense,Feirense,0-0,/match/ud-oliveirense/feirense/2010,2010,14,segunda_liga,16,30,1,0,0,6,5,4,4,14,11,DDLWWLWWLDWWD,3,2,1,8,5,3,6,3,4,17,10,LWWWDDLLDWWWW,2,2,3,5,6,DWLWDW,LWDLDWW
-SC Freamunde,Carregado,3-0,/match/sc-freamunde/carregado/2010,2010,14,segunda_liga,16,30,0,3,0,15,2,5,6,12,19,DLDWWWLDLDWLD,1,2,3,6,8,16,2,4,7,10,20,WWDLDLDWLWLDL,1,2,3,4,10,DDWLLL,WDLWWD
-Beira Mar SC,Desportivo Aves,3-2,/match/beira-mar/desportivo-aves/2010,2010,14,segunda_liga,16,30,0,3,2,4,7,2,4,16,13,LWWLWWWDLLDWL,4,0,2,7,5,7,3,8,2,15,14,DDDWDDLLDDWDL,1,5,0,5,4,LWWWLW,DDDLDD
-CD Santa Clara,Gil Vicente,0-0,/match/santa-clara/gil-vicente/2010,2010,14,segunda_liga,16,30,1,0,0,1,6,6,1,21,13,WDLLDLDDWDDLW,3,3,1,11,6,12,4,4,5,17,16,WWWLDDLLLDLWD,2,2,2,8,6,WLDDWDW,WLDLDW
-Trofense,Penafiel,0-0,/match/trofense/penafiel/2010,2010,14,segunda_liga,16,30,1,0,0,5,5,3,5,19,19,WWDWLWWDWLWDW,4,1,1,12,6,13,2,6,5,11,18,WDDWWDWDLWDDL,0,3,3,6,11,WDLWWW,WWDDWD
-Chaves,SP. Covilhã,3-1,/match/chaves/sporting-covilha/2010,2010,14,segunda_liga,16,30,0,3,1,11,4,5,4,17,15,LDDWDLWDWWLDL,1,4,1,6,5,10,4,3,6,18,22,LLWWWWDLWDWWD,1,1,4,4,11,LDDDWD,LWWDWW
-Desportivo Aves,CD Santa Clara,0-0,/match/desportivo-aves/santa-clara/2010,2010,15,segunda_liga,16,30,1,0,0,9,3,8,3,17,17,DDDWDDLLDDWDLW,2,3,2,10,10,1,6,7,1,21,13,WDLLDLDDWDDLWD,3,3,0,10,7,DWDLDWL,DLLDDL
-Gil Vicente,Trofense,4-0,/match/gil-vicente/trofense/2010,2010,15,segunda_liga,16,30,0,4,0,12,4,5,5,17,16,WWWLDDLLLDLWDD,2,2,3,9,10,5,5,4,5,19,19,WWDWLWWDWLWDWD,1,2,4,7,13,WWDLLLD,WWWDLDW
-Carregado,Beira Mar SC,0-2,/match/carregado/beira-mar/2010,2010,15,segunda_liga,16,30,2,0,2,16,2,4,8,10,23,WWDLDLDWLWLDLW,1,2,4,6,10,2,8,2,4,19,15,LWWLWWWDLLDWLW,3,2,2,9,8,WLDDLLL,WLWDLDL
-Feirense,Estoril,1-1,/match/feirense/estoril/2010,2010,15,segunda_liga,16,30,1,1,1,4,6,4,4,17,10,LWWWDDLLDWWWWD,4,1,1,12,4,10,4,7,3,13,12,LDDWDWDDLDLDLL,3,3,1,8,6,WWDLWW,DWDDLLL
-Penafiel,SC Freamunde,2-3,/match/penafiel/sc-freamunde/2010,2010,15,segunda_liga,16,30,2,2,3,14,2,7,5,11,18,WDDWWDWDLWDDLD,2,3,2,5,7,15,3,5,6,15,19,DLDWWWLDLDWLDW,1,3,3,6,11,DDWWLDL,LWWDDWD
-Fatima,Chaves,0-0,/match/fatima/chaves/2010,2010,15,segunda_liga,16,30,1,0,0,7,5,5,4,17,14,WWDLDLLDWDWWDL,3,2,2,10,7,8,5,5,4,20,16,LDDWDLWDWWLDLW,3,1,3,11,10,WLLDWWD,DWLWWLL
-Portimonense,UD Oliveirense,3-1,/match/portimonense/ud-oliveirense/2010,2010,15,segunda_liga,16,30,0,3,1,3,6,5,3,19,15,LWDLLWWDLDWDWD,3,3,1,8,8,6,5,5,4,14,11,DDLWWLWWLDWWDD,2,2,3,6,6,WLWDDDW,DLWWLWD
-SP. Covilhã,Varzim,0-0,/match/sporting-covilha/varzim/2010,2010,15,segunda_liga,16,30,1,0,0,11,4,3,7,19,25,LLWWWWDLWDWWDW,3,2,2,14,11,13,2,8,4,9,14,DWDWWLLDWDDDDD,1,3,3,5,10,LWWLDWD,WDWLWDD
-SP. Covilhã,Beira Mar SC,2-2,/match/sporting-covilha/beira-mar/2010,2010,16,segunda_liga,16,30,1,2,2,12,4,4,7,19,25,LLWWWWDLWDWWDWD,3,3,2,14,11,2,9,2,4,21,15,LWWLWWWDLLDWLWL,4,2,2,11,8,LWWLDWDD,WLWDLDLL
-Desportivo Aves,SC Freamunde,1-2,/match/desportivo-aves/sc-freamunde/2010,2010,16,segunda_liga,16,30,2,1,2,9,3,9,3,17,17,DDDWDDLLDDWDLWD,2,4,2,10,10,14,4,5,6,18,21,DLDWWWLDLDWLDWL,2,3,3,9,13,DWDLDWLD,LWWDDWDL
-Fatima,CD Santa Clara,2-5,/match/fatima/santa-clara/2010,2010,16,segunda_liga,16,30,2,2,5,5,5,6,4,17,14,WWDLDLLDWDWWDLD,3,3,2,10,7,1,6,8,1,21,13,WDLLDLDDWDDLWDD,3,4,0,10,7,WLLDWWDD,DLLDDLD
-UD Oliveirense,Varzim,3-0,/match/ud-oliveirense/varzim/2010,2010,16,segunda_liga,16,30,0,3,0,7,5,5,5,15,14,DDLWWLWWLDWWDDW,3,3,1,8,5,13,2,9,4,9,14,DWDWWLLDWDDDDDD,1,4,3,5,10,DWLWDWD,WDWLWDDD
-Penafiel,Gil Vicente,0-0,/match/penafiel/gil-vicente/2010,2010,16,segunda_liga,16,30,1,0,0,15,2,7,6,13,21,WDDWWDWDLWDDLDL,2,3,3,7,10,10,5,5,5,21,16,WWWLDDLLLDLWDDW,2,3,2,8,6,DDWWLDLL,WLDLDWD
-Feirense,Chaves,1-0,/match/feirense/chaves/2010,2010,16,segunda_liga,16,30,0,1,0,4,6,5,4,18,11,LWWWDDLLDWWWWDD,4,2,1,13,5,8,5,6,4,20,16,LDDWDLWDWWLDLWD,3,2,3,11,10,WWDLWWD,DWLWWLLD
-Portimonense,Estoril,2-1,/match/portimonense/estoril/2010,2010,16,segunda_liga,16,30,0,2,1,3,7,5,3,22,16,LWDLLWWDLDWDWDW,4,3,1,11,9,11,4,8,3,14,13,LDDWDWDDLDLDLLD,3,4,1,9,7,WLWDDDWW,DWDDLLLD
-Carregado,Trofense,2-3,/match/carregado/trofense/2010,2010,16,segunda_liga,16,30,2,2,3,16,2,4,9,10,25,WWDLDLDWLWLDLWL,1,2,5,6,12,6,5,4,6,19,23,WWDWLWWDWLWDWDW,1,2,5,7,17,WLDDLLLL,WWWDLDWW
-Beira Mar SC,Portimonense,2-0,/match/beira-mar/portimonense/2010,2010,17,segunda_liga,16,30,0,2,0,3,9,3,4,23,17,LWWLWWWDLLDWLWLD,5,0,2,10,7,1,8,5,3,24,17,LWDLLWWDLDWDWDWW,3,2,2,11,7,LWWWLWW,LDLWLWD
-Estoril,UD Oliveirense,0-1,/match/estoril/ud-oliveirense/2010,2010,17,segunda_liga,16,30,2,0,1,12,4,8,4,15,15,LDDWDWDDLDLDLLDW,1,4,2,5,6,5,6,5,5,18,14,DDLWWLWWLDWWDDWW,2,2,4,7,9,LDWDDDL,DLWWLWDW
-Varzim,Feirense,2-1,/match/varzim/feirense/2010,2010,17,segunda_liga,16,30,0,2,1,14,2,9,5,9,17,DWDWWLLDWDDDDDDW,1,5,1,4,4,4,7,5,4,19,11,LWWWDDLLDWWWWDDW,2,3,3,5,6,DWLDDDD,LWDLDWWD
-SC Freamunde,SP. Covilhã,3-2,/match/sc-freamunde/sporting-covilha/2010,2010,17,segunda_liga,16,30,0,3,2,13,5,5,6,20,22,DLDWWWLDLDWLDWLL,2,2,3,9,8,11,4,5,7,21,27,LLWWWWDLWDWWDWDD,1,1,5,5,14,DDWLLLW,LWWDWWW
-Chaves,Desportivo Aves,0-1,/match/chaves/desportivo-aves/2010,2010,17,segunda_liga,16,30,2,0,1,8,5,6,5,20,17,LDDWDLWDWWLDLWDW,2,4,1,9,6,10,3,9,4,18,19,DDDWDDLLDDWDLWDL,1,5,1,7,7,LDDDWDW,DDDLDDW
-CD Santa Clara,Penafiel,0-1,/match/santa-clara/penafiel/2010,2010,17,segunda_liga,16,30,2,0,1,2,7,8,1,26,15,WDLLDLDDWDDLWDDL,3,4,1,11,6,15,2,8,6,13,21,WDDWWDWDLWDDLDLD,0,4,3,6,11,WLDDWDWD,WWDDWDD
-Trofense,Fatima,1-0,/match/trofense/fatima/2010,2010,17,segunda_liga,16,30,0,1,0,6,6,4,6,22,25,WWDWLWWDWLWDWDWL,4,2,1,12,6,7,5,6,5,19,19,WWDLDLLDWDWWDLDL,2,3,2,7,7,WDLWWWD,WDDLDWL
-Gil Vicente,Carregado,0-1,/match/gil-vicente/carregado/2010,2010,17,segunda_liga,16,30,2,0,1,9,5,6,5,21,16,WWWLDDLLLDLWDDWD,3,2,3,13,10,16,2,4,10,12,28,WWDLDLDWLWLDLWLL,1,2,4,4,13,WWDLLLDW,WDLWWDW
-Feirense,Beira Mar SC,0-2,/match/feirense/beira-mar/2010,2010,18,segunda_liga,16,30,2,0,2,4,7,5,5,20,13,LWWWDDLLDWWWWDDWW,5,2,1,14,5,1,10,3,4,25,17,LWWLWWWDLLDWLWLDW,4,3,2,13,10,WWDLWWDW,WLWDLDLLD
-Varzim,Estoril,0-0,/match/varzim/estoril/2010,2010,18,segunda_liga,16,30,1,0,0,12,3,9,5,11,18,DWDWWLLDWDDDDDDWW,2,5,1,6,5,14,4,8,5,15,16,LDDWDWDDLDLDLLDWL,3,4,2,10,9,DWLDDDDW,DWDDLLLDW
-UD Oliveirense,CD Santa Clara,1-0,/match/ud-oliveirense/santa-clara/2010,2010,18,segunda_liga,16,30,0,1,0,5,7,5,5,19,14,DDLWWLWWLDWWDDWWL,4,3,1,11,5,3,7,8,2,26,16,WDLLDLDDWDDLWDDLL,4,4,0,15,9,DWLWDWDW,DLLDDLDL
-Desportivo Aves,Trofense,1-0,/match/desportivo-aves/trofense/2010,2010,18,segunda_liga,16,30,0,1,0,8,4,9,4,19,19,DDDWDDLLDDWDLWDLL,2,4,3,11,12,6,7,4,6,23,25,WWDWLWWDWLWDWDWLW,2,2,5,10,19,DWDLDWLDL,WWWDLDWWL
-Portimonense,Chaves,2-1,/match/portimonense/chaves/2010,2010,18,segunda_liga,16,30,0,2,1,2,8,5,4,24,19,LWDLLWWDLDWDWDWWW,5,3,1,13,10,10,5,6,6,20,18,LDDWDLWDWWLDLWDWL,3,2,4,11,11,WLWDDDWWW,DWLWWLLDW
-Carregado,Penafiel,0-3,/match/carregado/penafiel/2010,2010,18,segunda_liga,16,30,2,0,3,16,3,4,10,13,28,WWDLDLDWLWLDLWLLL,1,2,6,8,15,15,3,8,6,14,21,WDDWWDWDLWDDLDLDL,1,4,3,7,11,WLDDLLLLL,WWDDWDDL
-SP. Covilhã,Gil Vicente,1-2,/match/sporting-covilha/gil-vicente/2010,2010,18,segunda_liga,16,30,2,1,2,13,4,5,8,23,30,LLWWWWDLWDWWDWDDW,3,4,2,16,13,11,5,6,6,21,17,WWWLDDLLLDLWDDWDL,2,4,2,8,6,LWWLDWDDD,WLDLDWDD
-Fatima,SC Freamunde,1-1,/match/fatima/sc-freamunde/2010,2010,18,segunda_liga,16,30,1,1,1,7,5,6,6,19,20,WWDLDLLDWDWWDLDLW,3,3,3,12,12,9,6,5,6,23,24,DLDWWWLDLDWLDWLLW,3,3,3,11,14,WLLDWWDDL,LWWDDWDLL
-SC Freamunde,UD Oliveirense,1-2,/match/sc-freamunde/ud-oliveirense/2010,2010,19,segunda_liga,16,30,2,1,2,9,6,6,6,24,25,DLDWWWLDLDWLDWLLWD,3,2,3,12,10,3,8,5,5,20,14,DDLWWLWWLDWWDDWWLW,3,2,4,8,9,DDWLLLWW,DLWWLWDWL
-Estoril,SP. Covilhã,1-0,/match/estoril/sporting-covilha/2010,2010,19,segunda_liga,16,30,0,1,0,15,4,9,5,15,16,LDDWDWDDLDLDLLDWLD,1,4,3,5,7,14,4,5,9,24,32,LLWWWWDLWDWWDWDDWL,1,1,6,7,17,LDWDDDLL,LWWDWWWW
-Trofense,Feirense,0-2,/match/trofense/feirense/2010,2010,19,segunda_liga,16,30,2,0,2,6,7,4,7,23,26,WWDWLWWDWLWDWDWLWW,5,2,1,13,6,5,7,5,6,20,15,LWWWDDLLDWWWWDDWWL,2,3,4,6,8,WDLWWWDW,LWDLDWWDW
-Chaves,Varzim,0-1,/match/chaves/varzim/2010,2010,19,segunda_liga,16,30,2,0,1,12,5,6,7,21,20,LDDWDLWDWWLDLWDWLW,2,4,2,9,7,11,3,10,5,11,18,DWDWWLLDWDDDDDDWWD,1,4,4,5,13,LDDDWDWL,WDWLWDDDW
-Penafiel,Desportivo Aves,1-1,/match/penafiel/desportivo-aves/2010,2010,19,segunda_liga,16,30,1,1,1,13,4,8,6,17,21,WDDWWDWDLWDDLDLDLL,2,4,3,7,10,7,5,9,4,20,19,DDDWDDLLDDWDLWDLLW,2,5,1,8,7,DDWWLDLLD,DDDLDDWL
-CD Santa Clara,Carregado,1-0,/match/santa-clara/carregado/2010,2010,19,segunda_liga,16,30,0,1,0,4,7,8,3,26,17,WDLLDLDDWDDLWDDLLW,3,4,2,11,7,16,3,4,11,13,31,WWDLDLDWLWLDLWLLLL,2,2,4,5,13,WLDDWDWDL,WDLWWDWL
-Beira Mar SC,Fatima,0-1,/match/beira-mar/fatima/2010,2010,19,segunda_liga,16,30,2,0,1,2,11,3,4,27,17,LWWLWWWDLLDWLWLDWL,6,0,2,12,7,8,5,7,6,20,21,WWDLDLLDWDWWDLDLWD,2,3,3,7,8,LWWWLWWW,WDDLDWLW
-Gil Vicente,Portimonense,0-2,/match/gil-vicente/portimonense/2010,2010,19,segunda_liga,16,30,2,0,2,10,6,6,6,23,18,WWWLDDLLLDLWDDWDLL,3,2,4,13,11,1,9,5,4,26,20,LWDLLWWDLDWDWDWWWW,3,2,3,11,9,WWDLLLDWL,LDLWLWDW
-UD Oliveirense,Beira Mar SC,2-1,/match/ud-oliveirense/beira-mar/2010,2010,20,segunda_liga,16,30,0,2,1,3,9,5,5,22,15,DDLWWLWWLDWWDDWWLWL,5,3,1,12,5,2,11,3,5,27,18,LWWLWWWDLLDWLWLDWLL,5,3,2,15,10,DWLWDWDWW,WLWDLDLLDL
-Feirense,CD Santa Clara,2-1,/match/feirense/santa-clara/2010,2010,20,segunda_liga,16,30,0,2,1,5,8,5,6,22,15,LWWWDDLLDWWWWDDWWLL,5,2,2,14,7,4,8,8,3,27,17,WDLLDLDDWDDLWDDLLWW,4,4,1,15,10,WWDLWWDWL,DLLDDLDLW
-Desportivo Aves,Carregado,2-1,/match/desportivo-aves/carregado/2010,2010,20,segunda_liga,16,30,0,2,1,7,5,10,4,21,20,DDDWDDLLDDWDLWDLLWD,3,4,3,12,12,16,3,4,12,13,32,WWDLDLDWLWLDLWLLLLW,2,2,5,5,14,DWDLDWLDLW,WDLWWDWLW
-SP. Covilhã,Penafiel,2-1,/match/sporting-covilha/penafiel/2010,2010,20,segunda_liga,16,30,0,2,1,15,4,5,10,24,33,LLWWWWDLWDWWDWDDWLW,3,4,3,17,15,13,4,9,6,18,22,WDDWWDWDLWDDLDLDLLD,2,4,3,10,11,LWWLDWDDDL,WWDDWDDLL
-Estoril,Chaves,2-2,/match/estoril/chaves/2010,2010,20,segunda_liga,16,30,1,2,2,10,5,9,5,16,16,LDDWDWDDLDLDLLDWLDW,2,4,3,6,7,14,5,6,8,21,21,LDDWDLWDWWLDLWDWLWL,3,2,5,12,13,LDWDDDLLW,DWLWWLLDWW
-Portimonense,Trofense,1-3,/match/portimonense/trofense/2010,2010,20,segunda_liga,16,30,2,1,3,1,10,5,4,28,20,LWDLLWWDLDWDWDWWWWL,6,3,1,15,11,6,7,4,8,23,28,WWDWLWWDWLWDWDWLWWL,2,2,6,10,20,WLWDDDWWWW,WWWDLDWWLW
-Fatima,Gil Vicente,0-0,/match/fatima/gil-vicente/2010,2010,20,segunda_liga,16,30,1,0,0,8,6,7,6,21,21,WWDLDLLDWDWWDLDLWDL,3,4,3,13,13,12,6,6,7,23,20,WWWLDDLLLDLWDDWDLLL,3,4,2,10,7,WLLDWWDDLD,WLDLDWDDL
-Varzim,SC Freamunde,2-2,/match/varzim/sc-freamunde/2010,2010,20,segunda_liga,16,30,1,2,2,9,4,10,5,12,18,DWDWWLLDWDDDDDDWWDL,2,6,1,6,5,11,6,6,7,25,27,DLDWWWLDLDWLDWLLWDL,3,4,3,12,15,DWLDDDDWD,LWWDDWDLLD
-Gil Vicente,Desportivo Aves,0-2,/match/gil-vicente/desportivo-aves/2010,2010,21,segunda_liga,16,30,2,0,2,12,6,7,7,23,20,WWWLDDLLLDLWDDWDLLLD,3,2,5,13,13,6,6,10,4,23,21,DDDWDDLLDDWDLWDLLWDW,2,6,1,9,8,WWDLLLDWLL,DDDLDDWLD
-Chaves,UD Oliveirense,0-0,/match/chaves/ud-oliveirense/2010,2010,21,segunda_liga,16,30,1,0,0,15,5,7,8,23,23,LDDWDLWDWWLDLWDWLWLD,2,4,3,9,8,2,10,5,5,24,16,DDLWWLWWLDWWDDWWLWLW,4,2,4,10,10,LDDDWDWLL,DLWWLWDWLL
-SC Freamunde,Portimonense,0-3,/match/sc-freamunde/portimonense/2010,2010,21,segunda_liga,16,30,2,0,3,11,6,7,7,27,29,DLDWWWLDLDWLDWLLWDLD,3,2,4,13,12,1,10,5,5,29,23,LWDLLWWDLDWDWDWWWWLL,4,2,3,13,9,DDWLLLWWL,LDLWLWDWL
-Penafiel,Feirense,1-1,/match/penafiel/feirense/2010,2010,21,segunda_liga,16,30,1,1,1,14,4,9,7,19,24,WDDWWDWDLWDDLDLDLLDW,2,5,3,8,11,4,9,5,6,24,16,LWWWDDLLDWWWWDDWWLLW,3,3,4,8,8,DDWWLDLLDD,LWDLDWWDWL
-CD Santa Clara,Varzim,2-1,/match/santa-clara/varzim/2010,2010,21,segunda_liga,16,30,0,2,1,5,8,8,4,28,19,WDLLDLDDWDDLWDDLLWWW,4,4,2,12,7,9,4,11,5,14,20,DWDWWLLDWDDDDDDWWDLD,2,4,4,6,13,WLDDWDWDLW,WDWLWDDDWL
-Trofense,SP. Covilhã,2-2,/match/trofense/sporting-covilha/2010,2010,21,segunda_liga,16,30,1,2,2,7,8,4,8,26,29,WWDWLWWDWLWDWDWLWWLL,5,2,2,13,8,13,5,5,10,26,34,LLWWWWDLWDWWDWDDWLWW,1,1,7,7,18,WDLWWWDWL,LWWDWWWWW
-Carregado,Fatima,1-1,/match/carregado/fatima/2010,2010,21,segunda_liga,16,30,1,1,1,16,3,4,13,14,34,WWDLDLDWLWLDLWLLLLWW,1,2,7,8,18,8,6,8,6,21,21,WWDLDLLDWDWWDLDLWDLD,3,3,3,8,8,WLDDLLLLLL,WDDLDWLWL
-Beira Mar SC,Estoril,3-1,/match/beira-mar/estoril/2010,2010,21,segunda_liga,16,30,0,3,1,3,11,3,6,28,20,LWWLWWWDLLDWLWLDWLLW,6,0,3,12,8,10,5,10,5,18,18,LDDWDWDDLDLDLLDWLDWD,3,5,2,10,9,LWWWLWWWL,DWDDLLLDWD
-Chaves,Beira Mar SC,1-1,/match/chaves/beira-mar/2010,2010,22,segunda_liga,16,30,1,1,1,15,5,8,8,23,23,LDDWDLWDWWLDLWDWLWLDD,2,5,3,9,8,3,12,3,6,31,21,LWWLWWWDLLDWLWLDWLLWW,5,3,3,16,12,LDDDWDWLLD,WLWDLDLLDLW
-Estoril,CD Santa Clara,0-0,/match/estoril/santa-clara/2010,2010,22,segunda_liga,16,30,1,0,0,10,5,10,6,19,21,LDDWDWDDLDLDLLDWLDWDW,2,5,3,8,9,4,9,8,4,30,20,WDLLDLDDWDDLWDDLLWWWW,4,4,2,16,12,LDWDDDLLWD,DLLDDLDLWW
-UD Oliveirense,Trofense,3-1,/match/ud-oliveirense/trofense/2010,2010,22,segunda_liga,16,30,0,3,1,2,10,6,5,24,16,DDLWWLWWLDWWDDWWLWLWD,6,3,1,14,6,7,8,5,8,28,31,WWDWLWWDWLWDWDWLWWLLD,3,2,6,13,21,DWLWDWDWWW,WWWDLDWWLWL
-Feirense,SC Freamunde,1-1,/match/feirense/sc-freamunde/2010,2010,22,segunda_liga,16,30,1,1,1,5,9,6,6,25,17,LWWWDDLLDWWWWDDWWLLWD,6,2,2,16,8,13,6,7,8,27,32,DLDWWWLDLDWLDWLLWDLDL,3,5,3,14,17,WWDLWWDWLW,LWWDDWDLLDD
-Fatima,Desportivo Aves,1-0,/match/fatima/desportivo-aves/2010,2010,22,segunda_liga,16,30,0,1,0,8,6,9,6,22,22,WWDLDLLDWDWWDLDLWDLDD,3,5,3,13,13,6,7,10,4,25,21,DDDWDDLLDDWDLWDLLWDWL,3,6,1,11,8,WLLDWWDDLDD,DDDLDDWLDL
-Portimonense,Penafiel,1-3,/match/portimonense/penafiel/2010,2010,22,segunda_liga,16,30,2,1,3,1,11,5,5,32,23,LWDLLWWDLDWDWDWWWWLLL,6,3,2,16,14,12,4,10,7,20,25,WDDWWDWDLWDDLDLDLLDWD,2,4,4,11,13,WLWDDDWWWWL,WWDDWDDLLW
-SP. Covilhã,Carregado,1-0,/match/sporting-covilha/carregado/2010,2010,22,segunda_liga,16,30,0,1,0,11,5,6,10,28,36,LLWWWWDLWDWWDWDDWLWWD,4,4,3,19,16,16,3,5,13,15,35,WWDLDLDWLWLDLWLLLLWWD,2,2,6,6,16,LWWLDWDDDLW,WDLWWDWLWW
-Varzim,Gil Vicente,2-1,/match/varzim/gil-vicente/2010,2010,22,segunda_liga,16,30,0,2,1,9,4,11,6,15,22,DWDWWLLDWDDDDDDWWDLDW,2,7,1,8,7,14,6,7,8,23,22,WWWLDDLLLDLWDDWDLLLDL,3,5,2,10,7,DWLDDDDWDD,WLDLDWDDLD
-CD Santa Clara,Portimonense,3-0,/match/santa-clara/portimonense/2010,2010,23,segunda_liga,16,30,0,3,0,4,9,9,4,30,20,WDLLDLDDWDDLWDDLLWWWWD,5,4,2,14,8,2,11,5,6,33,26,LWDLLWWDLDWDWDWWWWLLLL,5,2,3,16,9,WLDDWDWDLWW,LDLWLWDWLL
-Carregado,UD Oliveirense,4-1,/match/carregado/ud-oliveirense/2010,2010,23,segunda_liga,16,30,0,4,1,16,3,5,14,15,36,WWDLDLDWLWLDLWLLLLWWDW,1,3,7,9,19,1,11,6,5,27,17,DDLWWLWWLDWWDDWWLWLWDW,4,3,4,10,10,WLDDLLLLLLD,DLWWLWDWLLD
-SC Freamunde,Chaves,2-0,/match/sc-freamunde/chaves/2010,2010,23,segunda_liga,16,30,0,2,0,14,6,8,8,28,33,DLDWWWLDLDWLDWLLWDLDLD,3,2,5,13,15,13,5,9,8,24,24,LDDWDLWDWWLDLWDWLWLDDD,3,3,5,14,15,DDWLLLWWLL,DWLWWLLDWWD
-Desportivo Aves,SP. Covilhã,3-0,/match/desportivo-aves/sporting-covilha/2010,2010,23,segunda_liga,16,30,0,3,0,6,7,10,5,25,22,DDDWDDLLDDWDLWDLLWDWLW,4,4,3,14,13,10,6,6,10,29,36,LLWWWWDLWDWWDWDDWLWWDW,1,2,7,9,20,DWDLDWLDLWW,LWWDWWWWWD
-Beira Mar SC,Varzim,3-0,/match/beira-mar/varzim/2010,2010,23,segunda_liga,16,30,0,3,0,3,12,4,6,32,22,LWWLWWWDLLDWLWLDWLLWWD,7,0,3,15,9,9,5,11,6,17,23,DWDWWLLDWDDDDDDWWDLDWW,2,4,5,7,15,LWWWLWWWLW,WDWLWDDDWLW
-Gil Vicente,Feirense,1-1,/match/gil-vicente/feirense/2010,2010,23,segunda_liga,16,30,1,1,1,15,6,7,9,24,24,WWWLDDLLLDLWDDWDLLLDLW,3,2,6,13,15,5,9,7,6,26,18,LWWWDDLLDWWWWDDWWLLWDD,3,4,4,9,9,WWDLLLDWLLL,LWDLDWWDWLD
-Trofense,Estoril,1-1,/match/trofense/estoril/2010,2010,23,segunda_liga,16,30,1,1,1,8,8,5,9,29,34,WWDWLWWDWLWDWDWLWWLLDW,5,3,2,15,10,11,5,11,6,19,21,LDDWDWDDLDLDLLDWLDWDWD,3,5,3,11,12,WDLWWWDWLD,DWDDLLLDWDW
-Penafiel,Fatima,2-1,/match/penafiel/fatima/2010,2010,23,segunda_liga,16,30,0,2,1,12,5,10,7,23,26,WDDWWDWDLWDDLDLDLLDWDL,2,6,3,9,12,7,7,9,6,23,22,WWDLDLLDWDWWDLDLWDLDDW,3,4,3,9,9,DDWWLDLLDDD,WDDLDWLWLD
-Estoril,Gil Vicente,0-2,/match/estoril/gil-vicente/2010,2010,24,segunda_liga,16,30,2,0,2,12,5,12,6,20,22,LDDWDWDDLDLDLLDWLDWDWDD,2,6,3,8,9,15,6,8,9,25,25,WWWLDDLLLDLWDDWDLLLDLWD,3,5,3,11,9,LDWDDDLLWDD,WLDLDWDDLDW
-Chaves,CD Santa Clara,0-3,/match/chaves/santa-clara/2010,2010,24,segunda_liga,16,30,2,0,3,14,5,9,9,24,26,LDDWDLWDWWLDLWDWLWLDDDW,2,6,3,10,9,3,10,9,4,33,20,WDLLDLDDWDDLWDDLLWWWWDW,4,5,2,16,12,LDDDWDWLLDD,DLLDDLDLWWD
-UD Oliveirense,Penafiel,2-0,/match/ud-oliveirense/penafiel/2010,2010,24,segunda_liga,16,30,0,2,0,2,11,6,6,28,21,DDLWWLWWLDWWDDWWLWLWDWW,7,3,1,17,7,10,6,10,7,25,27,WDDWWDWDLWDDLDLDLLDWDLW,3,4,4,14,14,DWLWDWDWWWW,WWDDWDDLLWL
-SP. Covilhã,Fatima,2-2,/match/sporting-covilha/fatima/2010,2010,24,segunda_liga,16,30,1,2,2,11,6,6,11,29,39,LLWWWWDLWDWWDWDDWLWWDWW,5,4,3,20,16,7,7,9,7,24,24,WWDLDLLDWDWWDLDLWDLDDWW,3,4,4,10,11,LWWLDWDDDLWW,WDDLDWLWLDW
-Beira Mar SC,SC Freamunde,1-3,/match/beira-mar/sc-freamunde/2010,2010,24,segunda_liga,16,30,2,1,3,1,13,4,6,35,22,LWWLWWWDLLDWLWLDWLLWWDW,8,0,3,18,9,13,7,8,8,30,33,DLDWWWLDLDWLDWLLWDLDLDW,3,6,3,15,18,LWWWLWWWLWW,LWWDDWDLLDDD
-Portimonense,Carregado,1-0,/match/portimonense/carregado/2010,2010,24,segunda_liga,16,30,0,1,0,4,11,5,7,33,29,LWDLLWWDLDWDWDWWWWLLLLW,6,3,3,17,17,16,4,5,14,19,37,WWDLDLDWLWLDLWLLLLWWDWW,2,2,7,6,17,WLWDDDWWWWLL,WDLWWDWLWWW
-Varzim,Trofense,0-1,/match/varzim/trofense/2010,2010,24,segunda_liga,16,30,2,0,1,9,5,11,7,17,26,DWDWWLLDWDDDDDDWWDLDWWW,3,7,1,10,8,8,8,6,9,30,35,WWDWLWWDWLWDWDWLWWLLDWD,3,2,7,14,24,DWLDDDDWDDW,WWWDLDWWLWLW
-Feirense,Desportivo Aves,1-0,/match/feirense/desportivo-aves/2010,2010,24,segunda_liga,16,30,0,1,0,5,9,8,6,27,19,LWWWDDLLDWWWWDDWWLLWDDD,6,3,2,17,9,6,8,10,5,28,22,DDDWDDLLDDWDLWDLLWDWLWW,3,6,2,11,9,WWDLWWDWLWD,DDDLDDWLDLW
-Trofense,Beira Mar SC,0-1,/match/trofense/beira-mar/2010,2010,25,segunda_liga,16,30,2,0,1,7,9,6,9,31,35,WWDWLWWDWLWDWDWLWWLLDWDL,5,4,2,16,11,3,13,4,7,36,25,LWWLWWWDLLDWLWLDWLLWWDWL,5,4,3,17,13,WDLWWWDWLDD,WLWDLDLLDLWD
-Fatima,Portimonense,0-1,/match/fatima/portimonense/2010,2010,25,segunda_liga,16,30,2,0,1,8,7,10,7,26,26,WWDLDLLDWDWWDLDLWDLDDWWD,4,5,3,14,13,4,12,5,7,34,29,LWDLLWWDLDWDWDWWWWLLLLWW,5,2,4,16,12,WLLDWWDDLDDW,LDLWLWDWLLW
-SC Freamunde,Estoril,0-2,/match/sc-freamunde/estoril/2010,2010,25,segunda_liga,16,30,2,0,2,12,8,8,8,33,34,DLDWWWLDLDWLDWLLWDLDLDWL,4,2,5,15,15,13,5,12,7,20,24,LDDWDWDDLDLDLLDWLDWDWDDL,3,6,3,12,13,DDWLLLWWLLW,DWDDLLLDWDWD
-Penafiel,Chaves,2-0,/match/penafiel/chaves/2010,2010,25,segunda_liga,16,30,0,2,0,10,6,10,8,25,29,WDDWWDWDLWDDLDLDLLDWDLWW,3,6,3,11,13,15,5,9,10,24,29,LDDWDLWDWWLDLWDWLWLDDDWL,3,3,6,14,17,DDWWLDLLDDDW,DWLWWLLDWWDW
-Desportivo Aves,Varzim,2-0,/match/desportivo-aves/varzim/2010,2010,25,segunda_liga,16,30,0,2,0,6,8,10,6,28,23,DDDWDDLLDDWDLWDLLWDWLWWW,5,4,3,17,13,9,5,11,8,17,27,DWDWWLLDWDDDDDDWWDLDWWWL,2,4,6,7,18,DWDLDWLDLWWW,WDWLWDDDWLWW
-Gil Vicente,UD Oliveirense,1-0,/match/gil-vicente/ud-oliveirense/2010,2010,25,segunda_liga,16,30,0,1,0,14,7,8,9,27,25,WWWLDDLLLDLWDDWDLLLDLWDL,3,3,6,14,16,1,12,6,6,30,21,DDLWWLWWLDWWDDWWLWLWDWWW,4,3,5,11,14,WWDLLLDWLLLD,DLWWLWDWLLDW
-Carregado,Feirense,0-1,/match/carregado/feirense/2010,2010,25,segunda_liga,16,30,2,0,1,16,4,5,15,19,38,WWDLDLDWLWLDLWLLLLWWDWWW,2,3,7,13,20,5,10,8,6,28,19,LWWWDDLLDWWWWDDWWLLWDDDW,3,5,4,10,10,WLDDLLLLLLDW,LWDLDWWDWLDD
-CD Santa Clara,SP. Covilhã,1-1,/match/santa-clara/sporting-covilha/2010,2010,25,segunda_liga,16,30,1,1,1,2,11,9,4,36,20,WDLLDLDDWDDLWDDLLWWWWDWL,6,4,2,17,8,11,6,7,11,31,41,LLWWWWDLWDWWDWDDWLWWDWWD,1,2,8,9,23,WLDDWDWDLWWW,LWWDWWWWWDW
-Estoril,Carregado,1-1,/match/estoril/carregado/2010,2010,26,segunda_liga,16,30,1,1,1,14,6,12,7,22,24,LDDWDWDDLDLDLLDWLDWDWDDLL,2,6,4,8,11,16,4,5,16,19,39,WWDLDLDWLWLDLWLLLLWWDWWWL,2,2,8,6,18,LDWDDDLLWDDL,WDLWWDWLWWWW
-Chaves,Gil Vicente,1-1,/match/chaves/gil-vicente/2010,2010,26,segunda_liga,16,30,1,1,1,15,5,9,11,24,31,LDDWDLWDWWLDLWDWLWLDDDWLW,2,6,4,10,12,11,8,8,9,28,25,WWWLDDLLLDLWDDWDLLLDLWDLW,4,5,3,13,9,LDDDWDWLLDDL,WLDLDWDDLDWL
-Beira Mar SC,CD Santa Clara,1-1,/match/beira-mar/santa-clara/2010,2010,26,segunda_liga,16,30,1,1,1,3,14,4,7,37,25,LWWLWWWDLLDWLWLDWLLWWDWLL,8,0,4,19,12,2,11,10,4,37,21,WDLLDLDDWDDLWDDLLWWWWDWLD,5,5,2,19,12,LWWWLWWWLWWL,DLLDDLDLWWDL
-SC Freamunde,Trofense,2-3,/match/sc-freamunde/trofense/2010,2010,26,segunda_liga,16,30,2,2,3,13,8,8,9,33,36,DLDWWWLDLDWLDWLLWDLDLDWLL,4,2,6,15,17,7,9,6,10,31,36,WWDWLWWDWLWDWDWLWWLLDWDLL,4,2,7,15,24,DDWLLLWWLLWL,WWWDLDWWLWLWL
-Portimonense,SP. Covilhã,2-0,/match/portimonense/sporting-covilha/2010,2010,26,segunda_liga,16,30,0,2,0,4,13,5,7,35,29,LWDLLWWDLDWDWDWWWWLLLLWWL,7,3,3,18,17,10,6,8,11,32,42,LLWWWWDLWDWWDWDDWLWWDWWDD,1,3,8,10,24,WLWDDDWWWWLLW,LWWDWWWWWDWD
-Feirense,Fatima,1-1,/match/feirense/fatima/2010,2010,26,segunda_liga,16,30,1,1,1,5,11,8,6,29,19,LWWWDDLLDWWWWDDWWLLWDDDWL,7,3,2,18,9,9,7,10,8,26,27,WWDLDLLDWDWWDLDLWDLDDWWDL,3,5,4,12,13,WWDLWWDWLWDW,WDDLDWLWLDWD
-UD Oliveirense,Desportivo Aves,3-1,/match/ud-oliveirense/desportivo-aves/2010,2010,26,segunda_liga,16,30,0,3,1,1,12,6,7,30,22,DDLWWLWWLDWWDDWWLWLWDWWWW,8,3,1,19,7,6,9,10,6,30,23,DDDWDDLLDDWDLWDLLWDWLWWWW,3,6,3,11,10,DWLWDWDWWWWW,DDDLDDWLDLWW
-Varzim,Penafiel,2-2,/match/varzim/penafiel/2010,2010,26,segunda_liga,16,30,1,2,2,12,5,11,9,17,29,DWDWWLLDWDDDDDDWWDLDWWWLW,3,7,2,10,9,8,7,10,8,27,29,WDDWWDWDLWDDLDLDLLDWDLWWW,3,4,5,14,16,DWLDDDDWDDWL,WWDDWDDLLWLW
-Gil Vicente,Beira Mar SC,1-1,/match/gil-vicente/beira-mar/2010,2010,27,segunda_liga,16,30,1,1,1,10,8,9,9,29,26,WWWLDDLLLDLWDDWDLLLDLWDLWD,4,3,6,15,16,4,14,5,7,38,26,LWWLWWWDLLDWLWLDWLLWWDWLLD,6,4,3,18,13,WWDLLLDWLLLDW,WLWDLDLLDLWDL
-SP. Covilhã,Feirense,1-1,/match/sporting-covilha/feirense/2010,2010,27,segunda_liga,16,30,1,1,1,13,6,8,12,32,44,LLWWWWDLWDWWDWDDWLWWDWWDDW,5,5,3,22,18,5,11,9,6,30,20,LWWWDDLLDWWWWDDWWLLWDDDWLD,4,5,4,11,10,LWWLDWDDDLWWD,LWDLDWWDWLDDL
-CD Santa Clara,SC Freamunde,3-2,/match/santa-clara/sc-freamunde/2010,2010,27,segunda_liga,16,30,0,3,2,3,11,11,4,38,22,WDLLDLDDWDDLWDDLLWWWWDWLDD,6,5,2,18,9,14,8,8,10,35,39,DLDWWWLDLDWLDWLLWDLDLDWLLL,4,6,3,18,19,WLDDWDWDLWWWD,LWWDDWDLLDDDL
-Penafiel,Estoril,1-0,/match/penafiel/estoril/2010,2010,27,segunda_liga,16,30,0,1,0,8,7,11,8,29,31,WDDWWDWDLWDDLDLDLLDWDLWWWD,4,6,3,13,13,12,6,13,7,23,25,LDDWDWDDLDLDLLDWLDWDWDDLLD,4,6,3,14,13,DDWWLDLLDDDWW,DWDDLLLDWDWDL
-Carregado,Varzim,3-2,/match/carregado/varzim/2010,2010,27,segunda_liga,16,30,0,3,2,16,4,6,16,20,40,WWDLDLDWLWLDLWLLLLWWDWWWLD,2,3,8,13,21,11,5,12,9,19,31,DWDWWLLDWDDDDDDWWDLDWWWLWD,2,4,7,7,20,WLDDLLLLLLDWL,WDWLWDDDWLWWW
-Fatima,UD Oliveirense,1-1,/match/fatima/ud-oliveirense/2010,2010,27,segunda_liga,16,30,1,1,1,9,7,11,8,27,28,WWDLDLLDWDWWDLDLWDLDDWWDLD,4,5,4,14,14,1,13,6,7,33,23,DDLWWLWWLDWWDDWWLWLWDWWWWW,4,3,6,11,15,WLLDWWDDLDDWL,DLWWLWDWLLDWW
-Trofense,Chaves,2-1,/match/trofense/chaves/2010,2010,27,segunda_liga,16,30,0,2,1,7,10,6,10,34,38,WWDWLWWDWLWDWDWLWWLLDWDLLL,5,4,3,16,12,15,5,10,11,25,32,LDDWDLWDWWLDLWDWLWLDDDWLWD,3,3,7,14,19,WDLWWWDWLDDL,DWLWWLLDWWDWW
-Desportivo Aves,Portimonense,1-1,/match/desportivo-aves/portimonense/2010,2010,27,segunda_liga,16,30,1,1,1,6,9,10,7,31,26,DDDWDDLLDDWDLWDLLWDWLWWWWW,6,4,3,19,13,2,14,5,7,37,29,LWDLLWWDLDWDWDWWWWLLLLWWLW,6,2,4,17,12,DWDLDWLDLWWWW,LDLWLWDWLLWL
-Feirense,Portimonense,2-1,/match/feirense/portimonense/2010,2010,28,segunda_liga,16,30,0,2,1,5,11,10,6,31,21,LWWWDDLLDWWWWDDWWLLWDDDWLDD,7,4,2,19,10,3,14,6,7,38,30,LWDLLWWDLDWDWDWWWWLLLLWWLWD,6,3,4,18,13,WWDLWWDWLWDWD,LDLWLWDWLLWLD
-Estoril,Desportivo Aves,1-0,/match/estoril/desportivo-aves/2010,2010,28,segunda_liga,16,30,0,1,0,13,6,13,8,23,26,LDDWDWDDLDLDLLDWLDWDWDDLLDW,2,7,4,9,12,6,9,11,7,32,27,DDDWDDLLDDWDLWDLLWDWLWWWWWD,3,6,4,12,13,LDWDDDLLWDDLD,DDDLDDWLDLWWW
-Trofense,CD Santa Clara,5-2,/match/trofense/santa-clara/2010,2010,28,segunda_liga,16,30,0,5,2,7,11,6,10,36,39,WWDWLWWDWLWDWDWLWWLLDWDLLLW,6,4,3,18,13,2,12,11,4,41,24,WDLLDLDDWDDLWDDLLWWWWDWLDDW,5,6,2,20,13,WDLWWWDWLDDLW,DLLDDLDLWWDLD
-SC Freamunde,Gil Vicente,3-2,/match/sc-freamunde/gil-vicente/2010,2010,28,segunda_liga,16,30,0,3,2,14,8,8,11,37,42,DLDWWWLDLDWLDWLLWDLDLDWLLLW,4,2,7,17,20,10,8,10,9,30,27,WWWLDDLLLDLWDDWDLLLDLWDLWDD,4,6,3,14,10,DDWLLLWWLLWLL,WLDLDWDDLDWLD
-Chaves,Carregado,2-0,/match/chaves/carregado/2010,2010,28,segunda_liga,16,30,0,2,0,15,5,10,12,26,34,LDDWDLWDWWLDLWDWLWLDDDWLWDW,2,7,4,11,13,16,5,6,16,23,42,WWDLDLDWLWLDLWLLLLWWDWWWLDW,2,3,8,7,19,LDDDWDWLLDDLD,WDLWWDWLWWWWD
-Beira Mar SC,Penafiel,1-2,/match/beira-mar/penafiel/2010,2010,28,segunda_liga,16,30,2,1,2,4,14,6,7,39,27,LWWLWWWDLLDWLWLDWLLWWDWLLDD,8,1,4,20,13,8,8,11,8,30,31,WDDWWDWDLWDDLDLDLLDWDLWWWDW,3,5,5,16,18,LWWWLWWWLWWLD,WWDDWDDLLWLWD
-Varzim,Fatima,1-1,/match/varzim/fatima/2010,2010,28,segunda_liga,16,30,1,1,1,12,5,12,10,21,34,DWDWWLLDWDDDDDDWWDLDWWWLWDW,3,8,2,12,11,9,7,12,8,28,29,WWDLDLLDWDWWDLDLWDLDDWWDLDD,3,6,4,13,14,DWLDDDDWDDWLD,WDDLDWLWLDWDD
-UD Oliveirense,SP. Covilhã,3-0,/match/ud-oliveirense/sporting-covilha/2010,2010,28,segunda_liga,16,30,0,3,0,1,13,7,7,34,24,DDLWWLWWLDWWDDWWLWLWDWWWWWD,9,3,1,22,8,11,6,9,12,33,45,LLWWWWDLWDWWDWDDWLWWDWWDDWD,1,3,9,10,26,DWLWDWDWWWWWW,LWWDWWWWWDWDW
-Carregado,SC Freamunde,3-2,/match/carregado/sc-freamunde/2010,2010,29,segunda_liga,16,30,0,3,2,16,5,6,17,23,44,WWDLDLDWLWLDLWLLLLWWDWWWLDWW,3,3,8,16,23,13,9,8,11,40,44,DLDWWWLDLDWLDWLLWDLDLDWLLLWW,4,6,4,20,22,WLDDLLLLLLDWLW,LWWDDWDLLDDDLW
-Penafiel,Trofense,0-1,/match/penafiel/trofense/2010,2010,29,segunda_liga,16,30,2,0,1,8,9,11,8,32,32,WDDWWDWDLWDDLDLDLLDWDLWWWDWL,5,6,3,14,13,6,12,6,10,41,41,WWDWLWWDWLWDWDWLWWLLDWDLLLWW,5,2,7,18,26,DDWWLDLLDDDWWW,WWWDLDWWLWLWLL
-Gil Vicente,CD Santa Clara,0-0,/match/gil-vicente/santa-clara/2010,2010,29,segunda_liga,16,30,1,0,0,11,8,10,10,32,30,WWWLDDLLLDLWDDWDLLLDLWDLWDDW,4,4,6,16,17,2,12,11,5,43,29,WDLLDLDDWDDLWDDLLWWWWDWLDDWW,5,6,3,22,18,WWDLLLDWLLLDWD,DLLDDLDLWWDLDW
-Desportivo Aves,Beira Mar SC,1-3,/match/desportivo-aves/beira-mar/2010,2010,29,segunda_liga,16,30,2,1,3,7,9,11,8,32,28,DDDWDDLLDDWDLWDLLWDWLWWWWWDW,6,5,3,20,14,5,14,6,8,40,29,LWWLWWWDLLDWLWLDWLLWWDWLLDDL,6,5,3,19,14,DWDLDWLDLWWWWD,WLWDLDLLDLWDLD
-Fatima,Estoril,1-1,/match/fatima/estoril/2010,2010,29,segunda_liga,16,30,1,1,1,9,7,13,8,29,30,WWDLDLLDWDWWDLDLWDLDDWWDLDDD,4,6,4,15,15,10,7,13,8,24,26,LDDWDWDDLDLDLLDWLDWDWDDLLDWW,4,6,4,14,14,WLLDWWDDLDDWLD,DWDDLLLDWDWDLW
-Feirense,UD Oliveirense,2-1,/match/feirense/ud-oliveirense/2010,2010,29,segunda_liga,16,30,0,2,1,3,12,10,6,33,22,LWWWDDLLDWWWWDDWWLLWDDDWLDDW,8,4,2,21,11,1,14,7,7,37,24,DDLWWLWWLDWWDDWWLWLWDWWWWWDW,4,4,6,12,16,WWDLWWDWLWDWDW,DLWWLWDWLLDWWD
-Portimonense,Varzim,3-2,/match/portimonense/varzim/2010,2010,29,segunda_liga,16,30,0,3,2,4,14,6,8,39,32,LWDLLWWDLDWDWDWWWWLLLLWWLWDW,8,3,3,20,17,12,5,13,10,22,35,DWDWWLLDWDDDDDDWWDLDWWWLWDWD,2,4,8,9,23,WLWDDDWWWWLLWW,WDWLWDDDWLWWWW
-SP. Covilhã,Chaves,2-0,/match/sporting-covilha/chaves/2010,2010,29,segunda_liga,16,30,0,2,0,14,6,9,13,33,48,LLWWWWDLWDWWDWDDWLWWDWWDDWDW,5,6,3,23,19,15,6,10,12,28,34,LDDWDLWDWWLDLWDWLWLDDDWLWDWW,3,3,8,15,21,LWWLDWDDDLWWDD,DWLWWLLDWWDWWW
-Varzim,SP. Covilhã,1-0,/match/varzim/sporting-covilha/2010,2010,30,segunda_liga,16,30,0,1,0,13,5,13,11,24,38,DWDWWLLDWDDDDDDWWDLDWWWLWDWDW,3,9,2,13,12,11,7,9,13,35,48,LLWWWWDLWDWWDWDDWLWWDWWDDWDWW,1,3,10,10,29,DWLDDDDWDDWLDD,LWWDWWWWWDWDWW
-Estoril,Feirense,1-2,/match/estoril/feirense/2010,2010,30,segunda_liga,16,30,2,1,2,10,7,14,8,25,27,LDDWDWDDLDLDLLDWLDWDWDDLLDWWD,3,7,4,10,12,2,13,10,6,35,23,LWWWDDLLDWWWWDDWWLLWDDDWLDDWW,4,6,4,12,11,LDWDDDLLWDDLDW,LWDLDWWDWLDDLD
-Chaves,Fatima,0-1,/match/chaves/fatima/2010,2010,30,segunda_liga,16,30,2,0,1,15,6,10,13,28,36,LDDWDLWDWWLDLWDWLWLDDDWLWDWWW,3,7,4,13,13,9,7,14,8,30,31,WWDLDLLDWDWWDLDLWDLDDWWDLDDDD,3,7,4,14,15,LDDDWDWLLDDLDW,WDDLDWLWLDWDDD
-UD Oliveirense,Portimonense,0-1,/match/ud-oliveirense/portimonense/2010,2010,30,segunda_liga,16,30,2,0,1,1,14,7,8,38,26,DDLWWLWWLDWWDDWWLWLWDWWWWWDWW,10,3,1,25,8,3,15,6,8,42,34,LWDLLWWDLDWDWDWWWWLLLLWWLWDWW,6,3,5,19,15,DWLWDWDWWWWWWW,LDLWLWDWLLWLDW
-Beira Mar SC,Carregado,1-0,/match/beira-mar/carregado/2010,2010,30,segunda_liga,16,30,0,1,0,5,15,6,8,43,30,LWWLWWWDLLDWLWLDWLLWWDWLLDDLL,8,1,5,21,15,16,6,6,17,26,46,WWDLDLDWLWLDLWLLLLWWDWWWLDWWW,2,3,9,7,21,LWWWLWWWLWWLDL,WDLWWDWLWWWWDW
-Trofense,Gil Vicente,2-4,/match/trofense/gil-vicente/2010,2010,30,segunda_liga,16,30,2,2,4,6,13,6,10,42,41,WWDWLWWDWLWDWDWLWWLLDWDLLLWWL,7,4,3,23,15,12,8,11,10,32,30,WWWLDDLLLDLWDDWDLLLDLWDLWDDWD,4,6,4,16,13,WDLWWWDWLDDLWW,WLDLDWDDLDWLDW
-SC Freamunde,Penafiel,1-3,/match/sc-freamunde/penafiel/2010,2010,30,segunda_liga,16,30,2,1,3,14,9,8,12,42,47,DLDWWWLDLDWLDWLLWDLDLDWLLLWWW,5,2,7,20,22,8,9,11,9,32,33,WDDWWDWDLWDDLDLDLLDWDLWWWDWLL,4,5,5,18,19,DDWLLLWWLLWLLW,WWDDWDDLLWLWDL
-CD Santa Clara,Desportivo Aves,2-0,/match/santa-clara/desportivo-aves/2010,2010,30,segunda_liga,16,30,0,2,0,4,12,12,5,43,29,WDLLDLDDWDDLWDDLLWWWWDWLDDWWD,7,5,2,21,11,7,9,11,9,33,31,DDDWDDLLDDWDLWDLLWDWLWWWWWDWL,3,6,5,12,14,WLDDWDWDLWWWDW,DDDLDDWLDLWWWW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Beira Mar SC,SP. Covilhã,0-1,/match/beira-mar/sporting-covilha/2010,2010,1,segunda_liga,16,30,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Gil Vicente,Penafiel,3-1,/match/gil-vicente/penafiel/2010,2010,1,segunda_liga,16,30,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+SC Freamunde,Desportivo Aves,0-0,/match/sc-freamunde/desportivo-aves/2010,2010,1,segunda_liga,16,30,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Varzim,UD Oliveirense,0-0,/match/varzim/ud-oliveirense/2010,2010,1,segunda_liga,16,30,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+CD Santa Clara,Fatima,1-0,/match/santa-clara/fatima/2010,2010,1,segunda_liga,16,30,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Trofense,Carregado,3-0,/match/trofense/carregado/2010,2010,1,segunda_liga,16,30,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chaves,Feirense,0-1,/match/chaves/feirense/2010,2010,1,segunda_liga,16,30,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Estoril,Portimonense,1-3,/match/estoril/portimonense/2010,2010,1,segunda_liga,16,30,2,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Penafiel,CD Santa Clara,2-2,/match/penafiel/santa-clara/2010,2010,2,segunda_liga,16,30,1,2,2,14,0,0,0,1,1,3,W,0,0,0,0,0,3,4,1,0,0,1,0,W,0,0,0,0,0,,
+UD Oliveirense,Estoril,0-0,/match/ud-oliveirense/estoril/2010,2010,2,segunda_liga,16,30,1,0,0,10,1,0,1,0,0,0,D,0,0,0,0,0,13,0,0,0,1,1,3,L,0,0,0,0,0,,
+Carregado,Gil Vicente,1-0,/match/carregado/gil-vicente/2010,2010,2,segunda_liga,16,30,0,1,0,16,0,0,0,1,0,3,W,0,0,0,0,0,1,4,1,0,0,3,1,W,0,0,0,0,0,,
+Desportivo Aves,Chaves,2-2,/match/desportivo-aves/chaves/2010,2010,2,segunda_liga,16,30,1,2,2,9,1,0,1,0,0,0,D,0,0,0,0,0,15,0,0,0,1,0,1,L,0,0,0,0,0,,
+SP. Covilhã,SC Freamunde,2-3,/match/sporting-covilha/sc-freamunde/2010,2010,2,segunda_liga,16,30,2,2,3,5,2,1,0,0,1,0,L,0,0,0,0,0,4,2,0,1,0,0,0,D,0,0,0,0,0,,
+Fatima,Trofense,2-1,/match/fatima/trofense/2010,2010,2,segunda_liga,16,30,0,2,1,12,0,0,0,1,0,1,W,0,0,0,0,0,2,4,1,0,0,3,0,W,0,0,0,0,0,,
+Feirense,Varzim,4-0,/match/feirense/varzim/2010,2010,2,segunda_liga,16,30,0,4,0,6,2,1,0,0,1,0,L,0,0,0,0,0,8,2,0,1,0,0,0,D,0,0,0,0,0,,
+Portimonense,Beira Mar SC,2-1,/match/portimonense/beira-mar/2010,2010,2,segunda_liga,16,30,0,2,1,7,2,1,0,0,3,1,L,0,0,0,0,0,11,0,0,0,1,0,1,L,0,0,0,0,0,,
+Estoril,Varzim,1-1,/match/estoril/varzim/2010,2010,3,segunda_liga,16,30,1,1,1,14,1,0,1,1,1,3,LD,0,0,1,1,3,12,2,0,1,1,0,4,DW,0,0,1,0,4,L,W
+Chaves,Portimonense,1-1,/match/chaves/portimonense/2010,2010,3,segunda_liga,16,30,1,1,1,15,1,0,1,1,2,3,LD,0,0,1,0,1,2,6,2,0,0,5,2,LW,1,0,0,3,1,L,L
+CD Santa Clara,UD Oliveirense,1-2,/match/santa-clara/ud-oliveirense/2010,2010,3,segunda_liga,16,30,2,1,2,3,5,1,1,0,3,2,WD,1,0,0,1,0,10,3,0,2,0,0,0,DD,0,1,0,0,0,W,D
+Penafiel,Carregado,1-1,/match/penafiel/carregado/2010,2010,3,segunda_liga,16,30,1,1,1,13,2,0,1,1,3,5,WD,0,1,0,2,2,8,4,1,0,1,1,3,WW,0,0,1,0,3,D,W
+Beira Mar SC,Feirense,1-0,/match/beira-mar/feirense/2010,2010,3,segunda_liga,16,30,0,1,0,16,0,0,0,2,1,3,LW,0,0,1,0,1,1,6,2,0,0,5,0,LW,1,0,0,1,0,L,L
+Trofense,Desportivo Aves,2-2,/match/trofense/desportivo-aves/2010,2010,3,segunda_liga,16,30,1,2,2,5,4,1,0,1,4,2,WW,1,0,0,3,0,9,3,0,2,0,2,2,DD,0,1,0,0,0,W,D
+SC Freamunde,Fatima,1-1,/match/sc-freamunde/fatima/2010,2010,3,segunda_liga,16,30,1,1,1,6,4,1,1,0,3,2,DL,0,1,0,0,0,7,4,1,0,1,2,2,WW,0,0,1,0,1,D,W
+Gil Vicente,SP. Covilhã,3-0,/match/gil-vicente/sporting-covilha/2010,2010,3,segunda_liga,16,30,0,3,0,4,4,1,0,1,3,2,WW,1,0,0,3,1,11,2,1,0,1,3,3,LL,1,0,0,1,0,W,L
+SP. Covilhã,Estoril,3-1,/match/sporting-covilha/estoril/2010,2010,4,segunda_liga,16,30,0,3,1,16,2,1,0,2,3,6,LLW,0,0,1,2,3,14,3,0,2,1,2,4,LDD,0,1,0,0,0,L,D
+Feirense,Trofense,3-0,/match/feirense/trofense/2010,2010,4,segunda_liga,16,30,0,3,0,3,6,2,0,1,5,1,LWW,1,0,0,4,0,4,6,1,1,1,6,4,WWD,0,0,1,1,2,W,W
+Varzim,Chaves,1-0,/match/varzim/chaves/2010,2010,4,segunda_liga,16,30,0,1,0,13,3,0,2,1,1,5,DWD,0,1,0,0,0,15,3,0,2,1,3,4,LDD,0,1,0,2,2,D,D
+Portimonense,Gil Vicente,0-3,/match/portimonense/gil-vicente/2010,2010,4,segunda_liga,16,30,2,0,3,2,7,2,1,0,6,3,LWD,1,0,0,2,1,1,8,2,0,1,6,2,WWW,0,0,1,0,1,W,W
+UD Oliveirense,SC Freamunde,2-1,/match/ud-oliveirense/sc-freamunde/2010,2010,4,segunda_liga,16,30,0,2,1,9,5,1,2,0,2,1,DDL,0,1,0,0,0,5,6,1,2,0,4,3,DLD,1,0,0,3,2,D,L
+Desportivo Aves,Penafiel,3-2,/match/desportivo-aves/penafiel/2010,2010,4,segunda_liga,16,30,0,3,2,10,4,0,3,0,4,4,DDD,0,1,0,2,2,11,4,0,2,1,4,6,WDD,0,0,1,1,3,D,W
+Fatima,Beira Mar SC,1-2,/match/fatima/beira-mar/2010,2010,4,segunda_liga,16,30,2,1,2,7,5,1,1,1,3,3,WWD,1,0,0,2,1,12,4,1,0,2,2,3,LWW,0,0,1,1,2,W,W
+Carregado,CD Santa Clara,1-2,/match/carregado/santa-clara/2010,2010,4,segunda_liga,16,30,2,1,2,8,5,1,1,1,2,4,WWD,1,0,0,1,0,6,5,1,1,1,4,4,WDL,0,1,0,2,2,W,D
+CD Santa Clara,Feirense,1-1,/match/santa-clara/feirense/2010,2010,5,segunda_liga,16,30,1,1,1,6,7,2,1,1,6,5,WDLL,1,0,1,2,2,2,10,3,0,1,8,1,LWWW,1,0,1,1,1,WL,LW
+Trofense,Portimonense,0-3,/match/trofense/portimonense/2010,2010,5,segunda_liga,16,30,2,0,3,8,6,1,1,2,6,7,WWDW,1,1,0,5,2,5,7,2,1,1,6,6,LWDL,1,1,0,4,2,WD,LD
+SC Freamunde,Varzim,2-1,/match/sc-freamunde/varzim/2010,2010,5,segunda_liga,16,30,0,2,1,9,6,1,2,1,5,5,DLDW,0,2,0,1,1,7,7,1,2,1,2,5,DWDW,0,1,1,1,5,DD,WD
+Carregado,Desportivo Aves,0-0,/match/carregado/desportivo-aves/2010,2010,5,segunda_liga,16,30,1,0,0,13,5,1,1,2,3,6,WWDL,1,0,1,2,2,4,8,1,3,0,7,6,DDDW,0,2,0,2,2,WL,DD
+Penafiel,SP. Covilhã,1-0,/match/penafiel/sporting-covilha/2010,2010,5,segunda_liga,16,30,0,1,0,14,4,0,2,2,6,9,WDDW,0,2,0,3,3,11,6,2,0,2,6,7,LLWW,1,0,1,1,3,DD,LW
+Gil Vicente,Fatima,1-1,/match/gil-vicente/fatima/2010,2010,5,segunda_liga,16,30,1,1,1,1,10,3,0,1,9,2,WWWL,2,0,0,6,1,12,5,1,1,2,4,5,WWDL,0,1,1,1,2,WW,WD
+Chaves,Estoril,1-1,/match/chaves/estoril/2010,2010,5,segunda_liga,16,30,1,1,1,16,3,0,2,2,3,5,LDDW,0,1,1,1,2,15,3,0,2,2,3,7,LDDW,0,1,1,1,3,LD,DW
+Beira Mar SC,UD Oliveirense,1-0,/match/beira-mar/ud-oliveirense/2010,2010,5,segunda_liga,16,30,0,1,0,10,6,2,0,2,4,4,LWWL,1,0,1,1,1,3,9,2,2,0,4,2,DDLW,1,1,0,2,1,LW,DL
+Estoril,Beira Mar SC,2-0,/match/estoril/beira-mar/2010,2010,6,segunda_liga,16,30,0,2,0,16,4,0,3,2,4,8,LDDWD,0,1,1,2,4,4,10,3,0,2,5,4,LWWLW,1,0,1,3,3,LD,WL
+Portimonense,SC Freamunde,1-0,/match/portimonense/sc-freamunde/2010,2010,6,segunda_liga,16,30,0,1,0,7,9,3,1,1,9,6,LWDLL,1,0,1,2,4,3,10,2,2,1,7,6,DLDWW,1,0,1,4,4,WL,LW
+UD Oliveirense,Chaves,1-3,/match/ud-oliveirense/chaves/2010,2010,6,segunda_liga,16,30,2,1,3,5,9,2,2,1,4,3,DDLWW,1,1,0,2,1,15,5,0,3,2,4,6,LDDWD,0,1,1,2,3,DW,DW
+SP. Covilhã,Trofense,2-1,/match/sporting-covilha/trofense/2010,2010,6,segunda_liga,16,30,0,2,1,13,6,2,0,3,6,8,LLWWW,1,0,1,5,4,12,6,1,1,3,6,10,WWDWL,0,0,2,1,5,LW,WW
+Fatima,Carregado,1-2,/match/fatima/carregado/2010,2010,6,segunda_liga,16,30,2,1,2,14,6,1,2,2,5,6,WWDLD,1,0,1,3,3,11,7,1,2,2,3,6,WWDLD,0,1,1,1,4,WL,WD
+Feirense,Penafiel,1-1,/match/feirense/penafiel/2010,2010,6,segunda_liga,16,30,1,1,1,2,11,3,1,1,9,2,LWWWD,2,0,0,7,0,9,8,1,2,2,7,9,WDDWW,0,0,2,3,6,WW,WW
+Varzim,CD Santa Clara,1-2,/match/varzim/santa-clara/2010,2010,6,segunda_liga,16,30,2,1,2,10,7,1,2,2,3,7,DWDWW,1,1,0,1,0,8,9,2,2,1,7,6,WDLLD,1,1,0,4,3,DW,DL
+Desportivo Aves,Gil Vicente,2-2,/match/desportivo-aves/gil-vicente/2010,2010,6,segunda_liga,16,30,1,2,2,6,9,1,4,0,7,6,DDDWD,1,1,0,5,4,1,12,3,1,1,10,3,WWWLD,1,0,1,3,1,DW,WL
+CD Santa Clara,Estoril,1-1,/match/santa-clara/estoril/2010,2010,7,segunda_liga,16,30,1,1,1,5,11,3,2,1,9,7,WDLLDL,1,1,1,3,3,12,8,1,3,2,6,8,LDDWDW,0,2,1,2,4,WLD,DWD
+Penafiel,Portimonense,1-0,/match/penafiel/portimonense/2010,2010,7,segunda_liga,16,30,0,1,0,10,9,1,3,2,8,10,WDDWWD,1,2,0,4,3,3,13,4,1,1,10,6,LWDLLW,2,1,0,7,2,DDW,LDL
+Desportivo Aves,Fatima,0-1,/match/desportivo-aves/fatima/2010,2010,7,segunda_liga,16,30,2,0,1,4,11,1,5,0,9,8,DDDWDD,1,2,0,7,6,16,6,1,2,3,6,8,WWDLDL,0,2,1,2,3,DWD,WDD
+Beira Mar SC,Chaves,2-1,/match/beira-mar/chaves/2010,2010,7,segunda_liga,16,30,0,2,1,7,10,3,0,3,5,6,LWWLWW,2,0,1,2,1,14,7,1,3,2,7,7,LDDWDL,1,1,1,5,4,LWW,DWL
+Trofense,UD Oliveirense,1-0,/match/trofense/ud-oliveirense/2010,2010,7,segunda_liga,16,30,0,1,0,15,6,1,1,4,7,12,WWDWLW,1,1,1,5,5,9,9,2,2,2,5,6,DDLWWL,1,1,1,2,2,WDL,DLW
+Gil Vicente,Varzim,1-2,/match/gil-vicente/varzim/2010,2010,7,segunda_liga,16,30,2,1,2,1,13,3,2,1,12,5,WWWLDD,2,1,0,7,2,13,7,1,2,3,4,9,DWDWWL,0,1,2,2,7,WWD,WDW
+SC Freamunde,Feirense,1-2,/match/sc-freamunde/feirense/2010,2010,7,segunda_liga,16,30,2,1,2,6,10,2,2,2,7,7,DLDWWW,1,2,0,3,2,2,13,3,2,1,10,3,LWWWDD,1,1,1,2,2,DDW,LWD
+Carregado,SP. Covilhã,1-1,/match/carregado/sporting-covilha/2010,2010,7,segunda_liga,16,30,1,1,1,11,9,2,2,2,5,7,WWDLDL,1,1,1,2,2,8,10,3,0,3,8,9,LLWWWW,1,0,2,1,4,WLD,LWW
+Portimonense,CD Santa Clara,0-0,/match/portimonense/santa-clara/2010,2010,8,segunda_liga,16,30,1,0,0,4,13,4,1,2,10,7,LWDLLWW,2,0,1,3,4,5,13,3,3,1,10,8,WDLLDLD,2,1,0,6,4,WLW,DLL
+Feirense,Gil Vicente,0-1,/match/feirense/gil-vicente/2010,2010,8,segunda_liga,16,30,2,0,1,1,15,4,2,1,12,4,LWWWDDL,2,1,0,8,1,3,13,3,2,2,13,7,WWWLDDL,1,1,1,5,3,WWD,WLD
+Fatima,Penafiel,2-2,/match/fatima/penafiel/2010,2010,8,segunda_liga,16,30,1,2,2,15,8,2,2,3,7,8,WWDLDLL,1,0,2,4,5,6,13,2,3,2,9,10,WDDWWDW,0,1,2,4,7,WLL,WWD
+Chaves,SC Freamunde,1-1,/match/chaves/sc-freamunde/2010,2010,8,segunda_liga,16,30,1,1,1,16,7,1,3,3,8,9,LDDWDLW,0,2,1,2,3,10,10,2,2,3,8,9,DLDWWWL,1,0,2,4,5,LDD,LWW
+UD Oliveirense,Carregado,3-0,/match/ud-oliveirense/carregado/2010,2010,8,segunda_liga,16,30,0,3,0,12,9,2,2,3,5,7,DDLWWLW,1,1,1,3,4,9,11,2,3,2,6,8,WWDLDLD,1,1,1,3,5,DWL,WDL
+Estoril,Trofense,1-1,/match/estoril/trofense/2010,2010,8,segunda_liga,16,30,1,1,1,13,9,1,4,2,7,9,LDDWDWD,1,1,1,4,4,11,10,2,1,4,8,12,WWDWLWW,0,0,3,2,7,LDW,WWW
+SP. Covilhã,Desportivo Aves,1-2,/match/sporting-covilha/desportivo-aves/2010,2010,8,segunda_liga,16,30,2,1,2,8,11,3,1,3,9,10,LLWWWWD,2,0,1,7,5,7,11,1,5,1,9,9,DDDWDDL,0,3,0,2,2,LWW,DDD
+Varzim,Beira Mar SC,1-1,/match/varzim/beira-mar/2010,2010,8,segunda_liga,16,30,1,1,1,14,9,2,2,3,6,10,DWDWWLL,1,1,1,2,2,2,14,4,0,3,7,7,LWWLWWW,1,0,2,3,5,DWL,WLW
+Carregado,Portimonense,1-3,/match/carregado/portimonense/2010,2010,9,segunda_liga,16,30,2,1,3,10,11,2,3,3,6,11,WWDLDLDW,1,2,1,3,3,4,15,4,2,2,10,7,LWDLLWWD,2,1,1,7,3,WLDD,LDLW
+Desportivo Aves,Feirense,1-1,/match/desportivo-aves/feirense/2010,2010,9,segunda_liga,16,30,1,1,1,7,13,2,5,1,11,10,DDDWDDLL,1,2,1,7,7,1,15,4,2,2,12,5,LWWWDDLL,2,1,1,4,3,DWDL,LWDL
+SC Freamunde,Beira Mar SC,1-2,/match/sc-freamunde/beira-mar/2010,2010,9,segunda_liga,16,30,2,1,2,11,11,2,3,3,9,10,DLDWWWLD,1,2,1,4,4,2,15,4,1,3,8,8,LWWLWWWD,1,1,2,4,6,DDWL,WLWD
+CD Santa Clara,Chaves,3-0,/match/santa-clara/chaves/2010,2010,9,segunda_liga,16,30,0,3,0,5,14,3,4,1,10,8,WDLLDLDD,1,2,1,4,4,16,9,1,4,3,9,10,LDDWDLWD,1,1,2,6,6,WLDD,DWLW
+Gil Vicente,Estoril,0-2,/match/gil-vicente/estoril/2010,2010,9,segunda_liga,16,30,2,0,2,3,15,4,2,2,14,7,WWWLDDLL,2,1,1,8,4,13,11,1,5,2,8,10,LDDWDWDD,0,3,1,3,5,WWDL,DWDD
+Fatima,SP. Covilhã,3-0,/match/fatima/sporting-covilha/2010,2010,9,segunda_liga,16,30,0,3,0,15,10,2,3,3,9,10,WWDLDLLD,1,1,2,6,7,9,11,3,1,4,10,12,LLWWWWDL,1,1,2,2,5,WLLD,LWWD
+Penafiel,UD Oliveirense,0-2,/match/penafiel/ud-oliveirense/2010,2010,9,segunda_liga,16,30,2,0,2,6,14,2,4,2,11,12,WDDWWDWD,2,2,0,5,3,8,13,3,2,3,8,7,DDLWWLWW,1,1,2,2,3,DDWW,DLWW
+Trofense,Varzim,2-1,/match/trofense/varzim/2010,2010,9,segunda_liga,16,30,0,2,1,12,11,2,2,4,9,13,WWDWLWWD,2,1,1,6,5,14,11,2,3,3,7,11,DWDWWLLD,1,1,2,4,8,WDLW,WDWL
+Estoril,SC Freamunde,0-0,/match/estoril/sc-freamunde/2010,2010,10,segunda_liga,16,30,1,0,0,11,13,2,5,2,10,10,LDDWDWDDL,1,2,1,5,5,14,11,2,3,4,10,12,DLDWWWLDL,1,1,2,5,6,LDWD,LWWD
+Feirense,Carregado,1-0,/match/feirense/carregado/2010,2010,10,segunda_liga,16,30,0,1,0,4,16,4,3,2,13,6,LWWWDDLLD,2,1,1,8,2,13,11,2,3,4,7,14,WWDLDLDWL,1,1,2,3,8,WWDL,WDLW
+Beira Mar SC,Trofense,1-2,/match/beira-mar/trofense/2010,2010,10,segunda_liga,16,30,2,1,2,2,17,5,1,3,10,9,LWWLWWWDL,3,0,1,4,2,8,15,3,2,4,11,14,WWDWLWWDW,0,1,3,3,8,LWWW,WWWD
+UD Oliveirense,Gil Vicente,1-1,/match/ud-oliveirense/gil-vicente/2010,2010,10,segunda_liga,16,30,1,1,1,7,15,4,2,3,10,7,DDLWWLWWL,2,1,1,6,4,5,15,4,2,3,14,9,WWWLDDLLL,2,1,1,6,3,DWLW,WLDL
+Chaves,Penafiel,2-0,/match/chaves/penafiel/2010,2010,10,segunda_liga,16,30,0,2,0,16,9,1,4,4,9,13,LDDWDLWDW,0,3,1,3,4,9,14,2,4,3,11,14,WDDWWDWDL,0,2,2,6,9,LDDD,WWDD
+Varzim,Desportivo Aves,0-0,/match/varzim/desportivo-aves/2010,2010,10,segunda_liga,16,30,1,0,0,15,11,2,3,4,8,13,DWDWWLLDW,1,2,1,3,3,6,15,2,6,1,12,11,DDDWDDLLD,1,3,0,4,3,DWLD,DDDL
+Portimonense,Fatima,3-3,/match/portimonense/fatima/2010,2010,10,segunda_liga,16,30,1,3,3,3,17,5,2,2,13,8,LWDLLWWDL,2,1,1,3,4,10,14,3,3,3,12,10,WWDLDLLDW,1,2,1,3,3,WLWD,WDDL
+SP. Covilhã,CD Santa Clara,2-2,/match/sporting-covilha/santa-clara/2010,2010,10,segunda_liga,16,30,1,2,2,12,11,3,1,5,10,15,LLWWWWDLW,2,0,2,8,7,1,18,4,4,1,13,8,WDLLDLDDW,2,2,0,6,4,LWWL,DLLD
+SP. Covilhã,Portimonense,3-1,/match/sporting-covilha/portimonense/2010,2010,11,segunda_liga,16,30,0,3,1,12,13,3,2,5,12,17,LLWWWWDLWD,2,1,2,10,9,3,19,5,3,2,16,11,LWDLLWWDLD,3,1,1,10,4,LWWLD,LDLWL
+Desportivo Aves,UD Oliveirense,2-1,/match/desportivo-aves/ud-oliveirense/2010,2010,11,segunda_liga,16,30,0,2,1,8,16,2,7,1,12,11,DDDWDDLLDD,1,3,1,8,8,5,17,4,3,3,11,8,DDLWWLWWLD,2,1,2,4,3,DWDLD,DLWWL
+Carregado,Estoril,1-2,/match/carregado/estoril/2010,2010,11,segunda_liga,16,30,2,1,2,16,11,2,3,5,7,15,WWDLDLDWLW,1,2,2,4,6,10,15,2,6,2,10,10,LDDWDWDDLD,1,3,1,5,5,WLDDL,DWDDL
+Penafiel,Varzim,0-0,/match/penafiel/varzim/2010,2010,11,segunda_liga,16,30,1,0,0,11,14,2,4,4,11,16,WDDWWDWDLW,2,2,1,5,5,13,13,2,4,4,8,13,DWDWWLLDWD,1,1,3,5,10,DDWWL,WDWLW
+CD Santa Clara,Beira Mar SC,1-1,/match/santa-clara/beira-mar/2010,2010,11,segunda_liga,16,30,1,1,1,2,19,4,5,1,15,10,WDLLDLDDWD,2,2,1,7,4,4,17,5,1,4,11,11,LWWLWWWDLL,2,1,2,6,7,WLDDW,WLWDL
+Gil Vicente,Chaves,0-3,/match/gil-vicente/chaves/2010,2010,11,segunda_liga,16,30,2,0,3,7,16,4,3,3,15,10,WWWLDDLLLD,2,1,2,8,6,14,13,2,4,4,11,13,LDDWDLWDWW,1,1,3,6,9,WWDLL,DWLWW
+Trofense,SC Freamunde,4-0,/match/trofense/sc-freamunde/2010,2010,11,segunda_liga,16,30,0,4,0,6,17,4,2,4,13,15,WWDWLWWDWL,3,1,1,8,6,15,12,2,4,4,10,12,DLDWWWLDLD,1,2,2,5,6,WDLWW,LWWDD
+Fatima,Feirense,1-0,/match/fatima/feirense/2010,2010,11,segunda_liga,16,30,0,1,0,9,15,3,4,3,15,13,WWDLDLLDWD,2,1,2,9,7,1,20,5,3,2,14,6,LWWWDDLLDW,2,2,1,5,4,WLLDW,LWDLD
+Estoril,Penafiel,0-0,/match/estoril/penafiel/2010,2010,12,segunda_liga,16,30,1,0,0,9,17,3,6,2,12,11,LDDWDWDDLDL,1,3,1,5,5,12,16,2,5,4,11,16,WDDWWDWDLWD,0,2,3,6,11,LDWDD,WWDDW
+Portimonense,Desportivo Aves,1-1,/match/portimonense/desportivo-aves/2010,2010,12,segunda_liga,16,30,1,1,1,5,19,5,3,3,17,14,LWDLLWWDLDW,2,2,1,6,7,4,20,3,7,1,14,12,DDDWDDLLDDW,1,4,0,4,3,WLWDD,DDDLD
+Feirense,SP. Covilhã,3-2,/match/feirense/sporting-covilha/2010,2010,12,segunda_liga,16,30,0,3,2,3,20,5,3,3,14,7,LWWWDDLLDWW,3,1,1,9,2,10,17,4,2,5,15,18,LLWWWWDLWDW,1,1,3,2,8,WWDLW,LWWDW
+SC Freamunde,CD Santa Clara,1-2,/match/sc-freamunde/santa-clara/2010,2010,12,segunda_liga,16,30,2,1,2,15,12,2,4,5,10,16,DLDWWWLDLDW,1,2,2,5,6,1,21,4,6,1,16,11,WDLLDLDDWDD,2,3,0,8,6,DDWLL,DLLDD
+Chaves,Trofense,1-1,/match/chaves/trofense/2010,2010,12,segunda_liga,16,30,1,1,1,13,15,3,4,4,14,13,LDDWDLWDWWL,1,3,1,5,4,2,21,5,2,4,17,15,WWDWLWWDWLW,1,1,3,5,9,LDDDW,WWWDL
+Varzim,Carregado,1-1,/match/varzim/carregado/2010,2010,12,segunda_liga,16,30,1,1,1,14,14,2,5,4,8,13,DWDWWLLDWDD,1,3,1,3,3,16,11,2,3,6,8,17,WWDLDLDWLWL,1,1,3,3,9,DWLDD,WDLWW
+Beira Mar SC,Gil Vicente,2-1,/match/beira-mar/gil-vicente/2010,2010,12,segunda_liga,16,30,0,2,1,7,18,5,2,4,12,12,LWWLWWWDLLD,3,0,2,5,4,11,16,4,3,4,15,13,WWWLDDLLLDL,2,2,1,7,4,LWWWL,WLDLD
+UD Oliveirense,Fatima,1-0,/match/ud-oliveirense/fatima/2010,2010,12,segunda_liga,16,30,0,1,0,8,17,4,3,4,12,10,DDLWWLWWLDW,2,2,1,7,5,6,19,4,4,3,16,13,WWDLDLLDWDW,1,3,1,6,6,DWLWD,WDDLD
+Portimonense,Feirense,1-0,/match/portimonense/feirense/2010,2010,13,segunda_liga,16,30,0,1,0,6,21,5,4,3,18,15,LWDLLWWDLDWD,2,3,1,7,8,1,24,6,3,3,17,9,LWWWDDLLDWWW,2,2,2,5,5,WLWDDD,LWDLDW
+Desportivo Aves,Estoril,0-1,/match/desportivo-aves/estoril/2010,2010,13,segunda_liga,16,30,2,0,1,5,21,3,8,1,15,13,DDDWDDLLDDWD,2,3,1,10,9,9,19,3,7,2,12,11,LDDWDWDDLDLD,2,3,1,7,6,DWDLDW,DWDDLL
+Penafiel,Beira Mar SC,0-2,/match/penafiel/beira-mar/2010,2010,13,segunda_liga,16,30,2,0,2,11,17,2,6,4,11,16,WDDWWDWDLWDD,2,3,1,5,5,4,22,6,2,4,14,13,LWWLWWWDLLDW,2,2,2,7,8,DDWWLD,WLWDLD
+CD Santa Clara,Trofense,3-1,/match/santa-clara/trofense/2010,2010,13,segunda_liga,16,30,0,3,1,2,23,5,6,1,18,12,WDLLDLDDWDDL,2,3,1,8,5,3,22,5,3,4,18,16,WWDWLWWDWLWD,1,2,3,6,10,WLDDWD,WWWDLD
+Fatima,Varzim,0-0,/match/fatima/varzim/2010,2010,13,segunda_liga,16,30,1,0,0,8,19,4,4,4,16,14,WWDLDLLDWDWW,3,1,2,10,7,14,16,2,6,4,9,14,DWDWWLLDWDDD,1,2,3,5,10,WLLDWW,WDWLWD
+Gil Vicente,SC Freamunde,1-1,/match/gil-vicente/sc-freamunde/2010,2010,13,segunda_liga,16,30,1,1,1,13,16,4,3,5,16,15,WWWLDDLLLDLW,2,1,3,8,9,15,12,2,4,6,11,18,DLDWWWLDLDWL,1,2,3,5,10,WWDLLL,LWWDDW
+Carregado,Chaves,1-2,/match/carregado/chaves/2010,2010,13,segunda_liga,16,30,2,1,2,16,12,2,4,6,9,18,WWDLDLDWLWLD,1,2,3,5,8,12,17,3,5,4,15,14,LDDWDLWDWWLD,2,1,3,9,9,WLDDLL,DWLWWL
+SP. Covilhã,UD Oliveirense,1-1,/match/sporting-covilha/ud-oliveirense/2010,2010,13,segunda_liga,16,30,1,1,1,10,17,4,2,6,17,21,LLWWWWDLWDWW,3,1,2,13,10,7,21,5,3,4,13,10,DDLWWLWWLDWW,2,1,3,5,5,LWWLDW,DLWWLW
+Estoril,Fatima,0-1,/match/estoril/fatima/2010,2010,14,segunda_liga,16,30,2,0,1,9,21,4,7,2,13,11,LDDWDWDDLDLDL,1,4,1,5,5,8,21,4,5,4,16,14,WWDLDLLDWDWWD,1,3,2,6,7,LDWDDD,WDDLDW
+Varzim,Portimonense,0-0,/match/varzim/portimonense/2010,2010,14,segunda_liga,16,30,1,0,0,14,17,2,7,4,9,14,DWDWWLLDWDDDD,1,4,1,4,4,2,25,6,4,3,19,15,LWDLLWWDLDWDW,3,1,2,11,7,DWLDDD,LDLWLW
+UD Oliveirense,Feirense,0-0,/match/ud-oliveirense/feirense/2010,2010,14,segunda_liga,16,30,1,0,0,6,22,5,4,4,14,11,DDLWWLWWLDWWD,3,2,1,8,5,3,24,6,3,4,17,10,LWWWDDLLDWWWW,2,2,3,5,6,DWLWDW,LWDLDWW
+SC Freamunde,Carregado,3-0,/match/sc-freamunde/carregado/2010,2010,14,segunda_liga,16,30,0,3,0,15,13,2,5,6,12,19,DLDWWWLDLDWLD,1,2,3,6,8,16,12,2,4,7,10,20,WWDLDLDWLWLDL,1,2,3,4,10,DDWLLL,WDLWWD
+Beira Mar SC,Desportivo Aves,3-2,/match/beira-mar/desportivo-aves/2010,2010,14,segunda_liga,16,30,0,3,2,4,24,7,2,4,16,13,LWWLWWWDLLDWL,4,0,2,7,5,7,21,3,8,2,15,14,DDDWDDLLDDWDL,1,5,0,5,4,LWWWLW,DDDLDD
+CD Santa Clara,Gil Vicente,0-0,/match/santa-clara/gil-vicente/2010,2010,14,segunda_liga,16,30,1,0,0,1,27,6,6,1,21,13,WDLLDLDDWDDLW,3,3,1,11,6,12,18,4,4,5,17,16,WWWLDDLLLDLWD,2,2,2,8,6,WLDDWDW,WLDLDW
+Trofense,Penafiel,0-0,/match/trofense/penafiel/2010,2010,14,segunda_liga,16,30,1,0,0,5,22,5,3,5,19,19,WWDWLWWDWLWDW,4,1,1,12,6,13,17,2,6,5,11,18,WDDWWDWDLWDDL,0,3,3,6,11,WDLWWW,WWDDWD
+Chaves,SP. Covilhã,3-1,/match/chaves/sporting-covilha/2010,2010,14,segunda_liga,16,30,0,3,1,11,19,4,5,4,17,15,LDDWDLWDWWLDL,1,4,1,6,5,10,19,4,3,6,18,22,LLWWWWDLWDWWD,1,1,4,4,11,LDDDWD,LWWDWW
+Desportivo Aves,CD Santa Clara,0-0,/match/desportivo-aves/santa-clara/2010,2010,15,segunda_liga,16,30,1,0,0,9,21,3,8,3,17,17,DDDWDDLLDDWDLW,2,3,2,10,10,1,29,6,7,1,21,13,WDLLDLDDWDDLWD,3,3,0,10,7,DWDLDWL,DLLDDL
+Gil Vicente,Trofense,4-0,/match/gil-vicente/trofense/2010,2010,15,segunda_liga,16,30,0,4,0,12,19,4,5,5,17,16,WWWLDDLLLDLWDD,2,2,3,9,10,5,24,5,4,5,19,19,WWDWLWWDWLWDWD,1,2,4,7,13,WWDLLLD,WWWDLDW
+Carregado,Beira Mar SC,0-2,/match/carregado/beira-mar/2010,2010,15,segunda_liga,16,30,2,0,2,16,12,2,4,8,10,23,WWDLDLDWLWLDLW,1,2,4,6,10,2,28,8,2,4,19,15,LWWLWWWDLLDWLW,3,2,2,9,8,WLDDLLL,WLWDLDL
+Feirense,Estoril,1-1,/match/feirense/estoril/2010,2010,15,segunda_liga,16,30,1,1,1,4,25,6,4,4,17,10,LWWWDDLLDWWWWD,4,1,1,12,4,10,21,4,7,3,13,12,LDDWDWDDLDLDLL,3,3,1,8,6,WWDLWW,DWDDLLL
+Penafiel,SC Freamunde,2-3,/match/penafiel/sc-freamunde/2010,2010,15,segunda_liga,16,30,2,2,3,14,18,2,7,5,11,18,WDDWWDWDLWDDLD,2,3,2,5,7,15,17,3,5,6,15,19,DLDWWWLDLDWLDW,1,3,3,6,11,DDWWLDL,LWWDDWD
+Fatima,Chaves,0-0,/match/fatima/chaves/2010,2010,15,segunda_liga,16,30,1,0,0,7,23,5,5,4,17,14,WWDLDLLDWDWWDL,3,2,2,10,7,8,23,5,5,4,20,16,LDDWDLWDWWLDLW,3,1,3,11,10,WLLDWWD,DWLWWLL
+Portimonense,UD Oliveirense,3-1,/match/portimonense/ud-oliveirense/2010,2010,15,segunda_liga,16,30,0,3,1,3,26,6,5,3,19,15,LWDLLWWDLDWDWD,3,3,1,8,8,6,24,5,5,4,14,11,DDLWWLWWLDWWDD,2,2,3,6,6,WLWDDDW,DLWWLWD
+SP. Covilhã,Varzim,0-0,/match/sporting-covilha/varzim/2010,2010,15,segunda_liga,16,30,1,0,0,11,19,4,3,7,19,25,LLWWWWDLWDWWDW,3,2,2,14,11,13,19,2,8,4,9,14,DWDWWLLDWDDDDD,1,3,3,5,10,LWWLDWD,WDWLWDD
+SP. Covilhã,Beira Mar SC,2-2,/match/sporting-covilha/beira-mar/2010,2010,16,segunda_liga,16,30,1,2,2,12,21,4,4,7,19,25,LLWWWWDLWDWWDWD,3,3,2,14,11,2,30,9,2,4,21,15,LWWLWWWDLLDWLWL,4,2,2,11,8,LWWLDWDD,WLWDLDLL
+Desportivo Aves,SC Freamunde,1-2,/match/desportivo-aves/sc-freamunde/2010,2010,16,segunda_liga,16,30,2,1,2,9,23,3,9,3,17,17,DDDWDDLLDDWDLWD,2,4,2,10,10,14,19,4,5,6,18,21,DLDWWWLDLDWLDWL,2,3,3,9,13,DWDLDWLD,LWWDDWDL
+Fatima,CD Santa Clara,2-5,/match/fatima/santa-clara/2010,2010,16,segunda_liga,16,30,2,2,5,5,25,5,6,4,17,14,WWDLDLLDWDWWDLD,3,3,2,10,7,1,30,6,8,1,21,13,WDLLDLDDWDDLWDD,3,4,0,10,7,WLLDWWDD,DLLDDLD
+UD Oliveirense,Varzim,3-0,/match/ud-oliveirense/varzim/2010,2010,16,segunda_liga,16,30,0,3,0,7,24,5,5,5,15,14,DDLWWLWWLDWWDDW,3,3,1,8,5,13,20,2,9,4,9,14,DWDWWLLDWDDDDDD,1,4,3,5,10,DWLWDWD,WDWLWDDD
+Penafiel,Gil Vicente,0-0,/match/penafiel/gil-vicente/2010,2010,16,segunda_liga,16,30,1,0,0,15,18,2,7,6,13,21,WDDWWDWDLWDDLDL,2,3,3,7,10,10,23,5,5,5,21,16,WWWLDDLLLDLWDDW,2,3,2,8,6,DDWWLDLL,WLDLDWD
+Feirense,Chaves,1-0,/match/feirense/chaves/2010,2010,16,segunda_liga,16,30,0,1,0,4,27,6,5,4,18,11,LWWWDDLLDWWWWDD,4,2,1,13,5,8,24,5,6,4,20,16,LDDWDLWDWWLDLWD,3,2,3,11,10,WWDLWWD,DWLWWLLD
+Portimonense,Estoril,2-1,/match/portimonense/estoril/2010,2010,16,segunda_liga,16,30,0,2,1,3,30,7,5,3,22,16,LWDLLWWDLDWDWDW,4,3,1,11,9,11,22,4,8,3,14,13,LDDWDWDDLDLDLLD,3,4,1,9,7,WLWDDDWW,DWDDLLLD
+Carregado,Trofense,2-3,/match/carregado/trofense/2010,2010,16,segunda_liga,16,30,2,2,3,16,12,2,4,9,10,25,WWDLDLDWLWLDLWL,1,2,5,6,12,6,24,5,4,6,19,23,WWDWLWWDWLWDWDW,1,2,5,7,17,WLDDLLLL,WWWDLDWW
+Beira Mar SC,Portimonense,2-0,/match/beira-mar/portimonense/2010,2010,17,segunda_liga,16,30,0,2,0,3,31,9,3,4,23,17,LWWLWWWDLLDWLWLD,5,0,2,10,7,1,34,8,5,3,24,17,LWDLLWWDLDWDWDWW,3,2,2,11,7,LWWWLWW,LDLWLWD
+Estoril,UD Oliveirense,0-1,/match/estoril/ud-oliveirense/2010,2010,17,segunda_liga,16,30,2,0,1,12,22,4,8,4,15,15,LDDWDWDDLDLDLLDW,1,4,2,5,6,5,28,6,5,5,18,14,DDLWWLWWLDWWDDWW,2,2,4,7,9,LDWDDDL,DLWWLWDW
+Varzim,Feirense,2-1,/match/varzim/feirense/2010,2010,17,segunda_liga,16,30,0,2,1,14,20,2,9,5,9,17,DWDWWLLDWDDDDDDW,1,5,1,4,4,4,31,7,5,4,19,11,LWWWDDLLDWWWWDDW,2,3,3,5,6,DWLDDDD,LWDLDWWD
+SC Freamunde,SP. Covilhã,3-2,/match/sc-freamunde/sporting-covilha/2010,2010,17,segunda_liga,16,30,0,3,2,13,21,5,5,6,20,22,DLDWWWLDLDWLDWLL,2,2,3,9,8,11,23,4,5,7,21,27,LLWWWWDLWDWWDWDD,1,1,5,5,14,DDWLLLW,LWWDWWW
+Chaves,Desportivo Aves,0-1,/match/chaves/desportivo-aves/2010,2010,17,segunda_liga,16,30,2,0,1,8,24,5,6,5,20,17,LDDWDLWDWWLDLWDW,2,4,1,9,6,10,23,3,9,4,18,19,DDDWDDLLDDWDLWDL,1,5,1,7,7,LDDDWDW,DDDLDDW
+CD Santa Clara,Penafiel,0-1,/match/santa-clara/penafiel/2010,2010,17,segunda_liga,16,30,2,0,1,2,32,7,8,1,26,15,WDLLDLDDWDDLWDDL,3,4,1,11,6,15,20,2,8,6,13,21,WDDWWDWDLWDDLDLD,0,4,3,6,11,WLDDWDWD,WWDDWDD
+Trofense,Fatima,1-0,/match/trofense/fatima/2010,2010,17,segunda_liga,16,30,0,1,0,6,26,6,4,6,22,25,WWDWLWWDWLWDWDWL,4,2,1,12,6,7,25,5,6,5,19,19,WWDLDLLDWDWWDLDL,2,3,2,7,7,WDLWWWD,WDDLDWL
+Gil Vicente,Carregado,0-1,/match/gil-vicente/carregado/2010,2010,17,segunda_liga,16,30,2,0,1,9,24,5,6,5,21,16,WWWLDDLLLDLWDDWD,3,2,3,13,10,16,12,2,4,10,12,28,WWDLDLDWLWLDLWLL,1,2,4,4,13,WWDLLLDW,WDLWWDW
+Feirense,Beira Mar SC,0-2,/match/feirense/beira-mar/2010,2010,18,segunda_liga,16,30,2,0,2,4,31,7,5,5,20,13,LWWWDDLLDWWWWDDWW,5,2,1,14,5,1,35,10,3,4,25,17,LWWLWWWDLLDWLWLDW,4,3,2,13,10,WWDLWWDW,WLWDLDLLD
+Varzim,Estoril,0-0,/match/varzim/estoril/2010,2010,18,segunda_liga,16,30,1,0,0,12,24,3,9,5,11,18,DWDWWLLDWDDDDDDWW,2,5,1,6,5,14,22,4,8,5,15,16,LDDWDWDDLDLDLLDWL,3,4,2,10,9,DWLDDDDW,DWDDLLLDW
+UD Oliveirense,CD Santa Clara,1-0,/match/ud-oliveirense/santa-clara/2010,2010,18,segunda_liga,16,30,0,1,0,5,30,7,5,5,19,14,DDLWWLWWLDWWDDWWL,4,3,1,11,5,3,32,7,8,2,26,16,WDLLDLDDWDDLWDDLL,4,4,0,15,9,DWLWDWDW,DLLDDLDL
+Desportivo Aves,Trofense,1-0,/match/desportivo-aves/trofense/2010,2010,18,segunda_liga,16,30,0,1,0,8,25,4,9,4,19,19,DDDWDDLLDDWDLWDLL,2,4,3,11,12,6,30,7,4,6,23,25,WWDWLWWDWLWDWDWLW,2,2,5,10,19,DWDLDWLDL,WWWDLDWWL
+Portimonense,Chaves,2-1,/match/portimonense/chaves/2010,2010,18,segunda_liga,16,30,0,2,1,2,34,8,5,4,24,19,LWDLLWWDLDWDWDWWW,5,3,1,13,10,10,24,5,6,6,20,18,LDDWDLWDWWLDLWDWL,3,2,4,11,11,WLWDDDWWW,DWLWWLLDW
+Carregado,Penafiel,0-3,/match/carregado/penafiel/2010,2010,18,segunda_liga,16,30,2,0,3,16,14,3,4,10,13,28,WWDLDLDWLWLDLWLLL,1,2,6,8,15,15,22,3,8,6,14,21,WDDWWDWDLWDDLDLDL,1,4,3,7,11,WLDDLLLLL,WWDDWDDL
+SP. Covilhã,Gil Vicente,1-2,/match/sporting-covilha/gil-vicente/2010,2010,18,segunda_liga,16,30,2,1,2,13,23,4,5,8,23,30,LLWWWWDLWDWWDWDDW,3,4,2,16,13,11,24,5,6,6,21,17,WWWLDDLLLDLWDDWDL,2,4,2,8,6,LWWLDWDDD,WLDLDWDD
+Fatima,SC Freamunde,1-1,/match/fatima/sc-freamunde/2010,2010,18,segunda_liga,16,30,1,1,1,7,25,5,6,6,19,20,WWDLDLLDWDWWDLDLW,3,3,3,12,12,9,25,6,5,6,23,24,DLDWWWLDLDWLDWLLW,3,3,3,11,14,WLLDWWDDL,LWWDDWDLL
+SC Freamunde,UD Oliveirense,1-2,/match/sc-freamunde/ud-oliveirense/2010,2010,19,segunda_liga,16,30,2,1,2,9,26,6,6,6,24,25,DLDWWWLDLDWLDWLLWD,3,2,3,12,10,3,34,8,5,5,20,14,DDLWWLWWLDWWDDWWLW,3,2,4,8,9,DDWLLLWW,DLWWLWDWL
+Estoril,SP. Covilhã,1-0,/match/estoril/sporting-covilha/2010,2010,19,segunda_liga,16,30,0,1,0,15,23,4,9,5,15,16,LDDWDWDDLDLDLLDWLD,1,4,3,5,7,14,23,4,5,9,24,32,LLWWWWDLWDWWDWDDWL,1,1,6,7,17,LDWDDDLL,LWWDWWWW
+Trofense,Feirense,0-2,/match/trofense/feirense/2010,2010,19,segunda_liga,16,30,2,0,2,6,30,7,4,7,23,26,WWDWLWWDWLWDWDWLWW,5,2,1,13,6,5,31,7,5,6,20,15,LWWWDDLLDWWWWDDWWL,2,3,4,6,8,WDLWWWDW,LWDLDWWDW
+Chaves,Varzim,0-1,/match/chaves/varzim/2010,2010,19,segunda_liga,16,30,2,0,1,12,24,5,6,7,21,20,LDDWDLWDWWLDLWDWLW,2,4,2,9,7,11,26,3,10,5,11,18,DWDWWLLDWDDDDDDWWD,1,4,4,5,13,LDDDWDWL,WDWLWDDDW
+Penafiel,Desportivo Aves,1-1,/match/penafiel/desportivo-aves/2010,2010,19,segunda_liga,16,30,1,1,1,13,24,4,8,6,17,21,WDDWWDWDLWDDLDLDLL,2,4,3,7,10,7,29,5,9,4,20,19,DDDWDDLLDDWDLWDLLW,2,5,1,8,7,DDWWLDLLD,DDDLDDWL
+CD Santa Clara,Carregado,1-0,/match/santa-clara/carregado/2010,2010,19,segunda_liga,16,30,0,1,0,4,32,7,8,3,26,17,WDLLDLDDWDDLWDDLLW,3,4,2,11,7,16,14,3,4,11,13,31,WWDLDLDWLWLDLWLLLL,2,2,4,5,13,WLDDWDWDL,WDLWWDWL
+Beira Mar SC,Fatima,0-1,/match/beira-mar/fatima/2010,2010,19,segunda_liga,16,30,2,0,1,2,37,11,3,4,27,17,LWWLWWWDLLDWLWLDWL,6,0,2,12,7,8,27,5,7,6,20,21,WWDLDLLDWDWWDLDLWD,2,3,3,7,8,LWWWLWWW,WDDLDWLW
+Gil Vicente,Portimonense,0-2,/match/gil-vicente/portimonense/2010,2010,19,segunda_liga,16,30,2,0,2,10,26,6,6,6,23,18,WWWLDDLLLDLWDDWDLL,3,2,4,13,11,1,38,9,5,4,26,20,LWDLLWWDLDWDWDWWWW,3,2,3,11,9,WWDLLLDWL,LDLWLWDW
+UD Oliveirense,Beira Mar SC,2-1,/match/ud-oliveirense/beira-mar/2010,2010,20,segunda_liga,16,30,0,2,1,3,36,9,5,5,22,15,DDLWWLWWLDWWDDWWLWL,5,3,1,12,5,2,37,11,3,5,27,18,LWWLWWWDLLDWLWLDWLL,5,3,2,15,10,DWLWDWDWW,WLWDLDLLDL
+Feirense,CD Santa Clara,2-1,/match/feirense/santa-clara/2010,2010,20,segunda_liga,16,30,0,2,1,5,33,8,5,6,22,15,LWWWDDLLDWWWWDDWWLL,5,2,2,14,7,4,36,8,8,3,27,17,WDLLDLDDWDDLWDDLLWW,4,4,1,15,10,WWDLWWDWL,DLLDDLDLW
+Desportivo Aves,Carregado,2-1,/match/desportivo-aves/carregado/2010,2010,20,segunda_liga,16,30,0,2,1,7,30,5,10,4,21,20,DDDWDDLLDDWDLWDLLWD,3,4,3,12,12,16,14,3,4,12,13,32,WWDLDLDWLWLDLWLLLLW,2,2,5,5,14,DWDLDWLDLW,WDLWWDWLW
+SP. Covilhã,Penafiel,2-1,/match/sporting-covilha/penafiel/2010,2010,20,segunda_liga,16,30,0,2,1,15,23,4,5,10,24,33,LLWWWWDLWDWWDWDDWLW,3,4,3,17,15,13,26,4,9,6,18,22,WDDWWDWDLWDDLDLDLLD,2,4,3,10,11,LWWLDWDDDL,WWDDWDDLL
+Estoril,Chaves,2-2,/match/estoril/chaves/2010,2010,20,segunda_liga,16,30,1,2,2,10,27,5,9,5,16,16,LDDWDWDDLDLDLLDWLDW,2,4,3,6,7,14,24,5,6,8,21,21,LDDWDLWDWWLDLWDWLWL,3,2,5,12,13,LDWDDDLLW,DWLWWLLDWW
+Portimonense,Trofense,1-3,/match/portimonense/trofense/2010,2010,20,segunda_liga,16,30,2,1,3,1,40,10,5,4,28,20,LWDLLWWDLDWDWDWWWWL,6,3,1,15,11,6,30,7,4,8,23,28,WWDWLWWDWLWDWDWLWWL,2,2,6,10,20,WLWDDDWWWW,WWWDLDWWLW
+Fatima,Gil Vicente,0-0,/match/fatima/gil-vicente/2010,2010,20,segunda_liga,16,30,1,0,0,8,29,6,7,6,21,21,WWDLDLLDWDWWDLDLWDL,3,4,3,13,13,12,26,6,6,7,23,20,WWWLDDLLLDLWDDWDLLL,3,4,2,10,7,WLLDWWDDLD,WLDLDWDDL
+Varzim,SC Freamunde,2-2,/match/varzim/sc-freamunde/2010,2010,20,segunda_liga,16,30,1,2,2,9,28,4,10,5,12,18,DWDWWLLDWDDDDDDWWDL,2,6,1,6,5,11,26,6,6,7,25,27,DLDWWWLDLDWLDWLLWDL,3,4,3,12,15,DWLDDDDWD,LWWDDWDLLD
+Gil Vicente,Desportivo Aves,0-2,/match/gil-vicente/desportivo-aves/2010,2010,21,segunda_liga,16,30,2,0,2,12,27,6,7,7,23,20,WWWLDDLLLDLWDDWDLLLD,3,2,5,13,13,6,34,6,10,4,23,21,DDDWDDLLDDWDLWDLLWDW,2,6,1,9,8,WWDLLLDWLL,DDDLDDWLD
+Chaves,UD Oliveirense,0-0,/match/chaves/ud-oliveirense/2010,2010,21,segunda_liga,16,30,1,0,0,15,25,5,7,8,23,23,LDDWDLWDWWLDLWDWLWLD,2,4,3,9,8,2,40,10,5,5,24,16,DDLWWLWWLDWWDDWWLWLW,4,2,4,10,10,LDDDWDWLL,DLWWLWDWLL
+SC Freamunde,Portimonense,0-3,/match/sc-freamunde/portimonense/2010,2010,21,segunda_liga,16,30,2,0,3,11,27,6,7,7,27,29,DLDWWWLDLDWLDWLLWDLD,3,2,4,13,12,1,40,10,5,5,29,23,LWDLLWWDLDWDWDWWWWLL,4,2,3,13,9,DDWLLLWWL,LDLWLWDWL
+Penafiel,Feirense,1-1,/match/penafiel/feirense/2010,2010,21,segunda_liga,16,30,1,1,1,14,26,4,9,7,19,24,WDDWWDWDLWDDLDLDLLDW,2,5,3,8,11,4,37,9,5,6,24,16,LWWWDDLLDWWWWDDWWLLW,3,3,4,8,8,DDWWLDLLDD,LWDLDWWDWL
+CD Santa Clara,Varzim,2-1,/match/santa-clara/varzim/2010,2010,21,segunda_liga,16,30,0,2,1,5,36,8,8,4,28,19,WDLLDLDDWDDLWDDLLWWW,4,4,2,12,7,9,30,4,11,5,14,20,DWDWWLLDWDDDDDDWWDLD,2,4,4,6,13,WLDDWDWDLW,WDWLWDDDWL
+Trofense,SP. Covilhã,2-2,/match/trofense/sporting-covilha/2010,2010,21,segunda_liga,16,30,1,2,2,7,32,8,4,8,26,29,WWDWLWWDWLWDWDWLWWLL,5,2,2,13,8,13,27,5,5,10,26,34,LLWWWWDLWDWWDWDDWLWW,1,1,7,7,18,WDLWWWDWL,LWWDWWWWW
+Carregado,Fatima,1-1,/match/carregado/fatima/2010,2010,21,segunda_liga,16,30,1,1,1,16,14,3,4,13,14,34,WWDLDLDWLWLDLWLLLLWW,1,2,7,8,18,8,31,6,8,6,21,21,WWDLDLLDWDWWDLDLWDLD,3,3,3,8,8,WLDDLLLLLL,WDDLDWLWL
+Beira Mar SC,Estoril,3-1,/match/beira-mar/estoril/2010,2010,21,segunda_liga,16,30,0,3,1,3,37,11,3,6,28,20,LWWLWWWDLLDWLWLDWLLW,6,0,3,12,8,10,29,5,10,5,18,18,LDDWDWDDLDLDLLDWLDWD,3,5,2,10,9,LWWWLWWWL,DWDDLLLDWD
+Chaves,Beira Mar SC,1-1,/match/chaves/beira-mar/2010,2010,22,segunda_liga,16,30,1,1,1,15,27,5,8,8,23,23,LDDWDLWDWWLDLWDWLWLDD,2,5,3,9,8,3,41,12,3,6,31,21,LWWLWWWDLLDWLWLDWLLWW,5,3,3,16,12,LDDDWDWLLD,WLWDLDLLDLW
+Estoril,CD Santa Clara,0-0,/match/estoril/santa-clara/2010,2010,22,segunda_liga,16,30,1,0,0,10,29,5,10,6,19,21,LDDWDWDDLDLDLLDWLDWDW,2,5,3,8,9,4,40,9,8,4,30,20,WDLLDLDDWDDLWDDLLWWWW,4,4,2,16,12,LDWDDDLLWD,DLLDDLDLWW
+UD Oliveirense,Trofense,3-1,/match/ud-oliveirense/trofense/2010,2010,22,segunda_liga,16,30,0,3,1,2,41,10,6,5,24,16,DDLWWLWWLDWWDDWWLWLWD,6,3,1,14,6,7,34,8,5,8,28,31,WWDWLWWDWLWDWDWLWWLLD,3,2,6,13,21,DWLWDWDWWW,WWWDLDWWLWL
+Feirense,SC Freamunde,1-1,/match/feirense/sc-freamunde/2010,2010,22,segunda_liga,16,30,1,1,1,5,38,9,6,6,25,17,LWWWDDLLDWWWWDDWWLLWD,6,2,2,16,8,13,27,6,7,8,27,32,DLDWWWLDLDWLDWLLWDLDL,3,5,3,14,17,WWDLWWDWLW,LWWDDWDLLDD
+Fatima,Desportivo Aves,1-0,/match/fatima/desportivo-aves/2010,2010,22,segunda_liga,16,30,0,1,0,8,32,6,9,6,22,22,WWDLDLLDWDWWDLDLWDLDD,3,5,3,13,13,6,36,7,10,4,25,21,DDDWDDLLDDWDLWDLLWDWL,3,6,1,11,8,WLLDWWDDLDD,DDDLDDWLDL
+Portimonense,Penafiel,1-3,/match/portimonense/penafiel/2010,2010,22,segunda_liga,16,30,2,1,3,1,42,11,5,5,32,23,LWDLLWWDLDWDWDWWWWLLL,6,3,2,16,14,12,28,4,10,7,20,25,WDDWWDWDLWDDLDLDLLDWD,2,4,4,11,13,WLWDDDWWWWL,WWDDWDDLLW
+SP. Covilhã,Carregado,1-0,/match/sporting-covilha/carregado/2010,2010,22,segunda_liga,16,30,0,1,0,11,28,5,6,10,28,36,LLWWWWDLWDWWDWDDWLWWD,4,4,3,19,16,16,16,3,5,13,15,35,WWDLDLDWLWLDLWLLLLWWD,2,2,6,6,16,LWWLDWDDDLW,WDLWWDWLWW
+Varzim,Gil Vicente,2-1,/match/varzim/gil-vicente/2010,2010,22,segunda_liga,16,30,0,2,1,9,30,4,11,6,15,22,DWDWWLLDWDDDDDDWWDLDW,2,7,1,8,7,14,27,6,7,8,23,22,WWWLDDLLLDLWDDWDLLLDL,3,5,2,10,7,DWLDDDDWDD,WLDLDWDDLD
+CD Santa Clara,Portimonense,3-0,/match/santa-clara/portimonense/2010,2010,23,segunda_liga,16,30,0,3,0,4,41,9,9,4,30,20,WDLLDLDDWDDLWDDLLWWWWD,5,4,2,14,8,2,42,11,5,6,33,26,LWDLLWWDLDWDWDWWWWLLLL,5,2,3,16,9,WLDDWDWDLWW,LDLWLWDWLL
+Carregado,UD Oliveirense,4-1,/match/carregado/ud-oliveirense/2010,2010,23,segunda_liga,16,30,0,4,1,16,16,3,5,14,15,36,WWDLDLDWLWLDLWLLLLWWDW,1,3,7,9,19,1,45,11,6,5,27,17,DDLWWLWWLDWWDDWWLWLWDW,4,3,4,10,10,WLDDLLLLLLD,DLWWLWDWLLD
+SC Freamunde,Chaves,2-0,/match/sc-freamunde/chaves/2010,2010,23,segunda_liga,16,30,0,2,0,14,28,6,8,8,28,33,DLDWWWLDLDWLDWLLWDLDLD,3,2,5,13,15,13,29,5,9,8,24,24,LDDWDLWDWWLDLWDWLWLDDD,3,3,5,14,15,DDWLLLWWLL,DWLWWLLDWWD
+Desportivo Aves,SP. Covilhã,3-0,/match/desportivo-aves/sporting-covilha/2010,2010,23,segunda_liga,16,30,0,3,0,6,36,7,10,5,25,22,DDDWDDLLDDWDLWDLLWDWLW,4,4,3,14,13,10,32,6,6,10,29,36,LLWWWWDLWDWWDWDDWLWWDW,1,2,7,9,20,DWDLDWLDLWW,LWWDWWWWWD
+Beira Mar SC,Varzim,3-0,/match/beira-mar/varzim/2010,2010,23,segunda_liga,16,30,0,3,0,3,42,12,4,6,32,22,LWWLWWWDLLDWLWLDWLLWWD,7,0,3,15,9,9,34,5,11,6,17,23,DWDWWLLDWDDDDDDWWDLDWW,2,4,5,7,15,LWWWLWWWLW,WDWLWDDDWLW
+Gil Vicente,Feirense,1-1,/match/gil-vicente/feirense/2010,2010,23,segunda_liga,16,30,1,1,1,15,27,6,7,9,24,24,WWWLDDLLLDLWDDWDLLLDLW,3,2,6,13,15,5,40,9,7,6,26,18,LWWWDDLLDWWWWDDWWLLWDD,3,4,4,9,9,WWDLLLDWLLL,LWDLDWWDWLD
+Trofense,Estoril,1-1,/match/trofense/estoril/2010,2010,23,segunda_liga,16,30,1,1,1,8,34,8,5,9,29,34,WWDWLWWDWLWDWDWLWWLLDW,5,3,2,15,10,11,31,5,11,6,19,21,LDDWDWDDLDLDLLDWLDWDWD,3,5,3,11,12,WDLWWWDWLD,DWDDLLLDWDW
+Penafiel,Fatima,2-1,/match/penafiel/fatima/2010,2010,23,segunda_liga,16,30,0,2,1,12,30,5,10,7,23,26,WDDWWDWDLWDDLDLDLLDWDL,2,6,3,9,12,7,36,7,9,6,23,22,WWDLDLLDWDWWDLDLWDLDDW,3,4,3,9,9,DDWWLDLLDDD,WDDLDWLWLD
+Estoril,Gil Vicente,0-2,/match/estoril/gil-vicente/2010,2010,24,segunda_liga,16,30,2,0,2,12,32,5,12,6,20,22,LDDWDWDDLDLDLLDWLDWDWDD,2,6,3,8,9,15,29,6,8,9,25,25,WWWLDDLLLDLWDDWDLLLDLWD,3,5,3,11,9,LDWDDDLLWDD,WLDLDWDDLDW
+Chaves,CD Santa Clara,0-3,/match/chaves/santa-clara/2010,2010,24,segunda_liga,16,30,2,0,3,14,29,5,9,9,24,26,LDDWDLWDWWLDLWDWLWLDDDW,2,6,3,10,9,3,45,10,9,4,33,20,WDLLDLDDWDDLWDDLLWWWWDW,4,5,2,16,12,LDDDWDWLLDD,DLLDDLDLWWD
+UD Oliveirense,Penafiel,2-0,/match/ud-oliveirense/penafiel/2010,2010,24,segunda_liga,16,30,0,2,0,2,45,11,6,6,28,21,DDLWWLWWLDWWDDWWLWLWDWW,7,3,1,17,7,10,34,6,10,7,25,27,WDDWWDWDLWDDLDLDLLDWDLW,3,4,4,14,14,DWLWDWDWWWW,WWDDWDDLLWL
+SP. Covilhã,Fatima,2-2,/match/sporting-covilha/fatima/2010,2010,24,segunda_liga,16,30,1,2,2,11,32,6,6,11,29,39,LLWWWWDLWDWWDWDDWLWWDWW,5,4,3,20,16,7,36,7,9,7,24,24,WWDLDLLDWDWWDLDLWDLDDWW,3,4,4,10,11,LWWLDWDDDLWW,WDDLDWLWLDW
+Beira Mar SC,SC Freamunde,1-3,/match/beira-mar/sc-freamunde/2010,2010,24,segunda_liga,16,30,2,1,3,1,46,13,4,6,35,22,LWWLWWWDLLDWLWLDWLLWWDW,8,0,3,18,9,13,32,7,8,8,30,33,DLDWWWLDLDWLDWLLWDLDLDW,3,6,3,15,18,LWWWLWWWLWW,LWWDDWDLLDDD
+Portimonense,Carregado,1-0,/match/portimonense/carregado/2010,2010,24,segunda_liga,16,30,0,1,0,4,42,11,5,7,33,29,LWDLLWWDLDWDWDWWWWLLLLW,6,3,3,17,17,16,20,4,5,14,19,37,WWDLDLDWLWLDLWLLLLWWDWW,2,2,7,6,17,WLWDDDWWWWLL,WDLWWDWLWWW
+Varzim,Trofense,0-1,/match/varzim/trofense/2010,2010,24,segunda_liga,16,30,2,0,1,9,34,5,11,7,17,26,DWDWWLLDWDDDDDDWWDLDWWW,3,7,1,10,8,8,36,8,6,9,30,35,WWDWLWWDWLWDWDWLWWLLDWD,3,2,7,14,24,DWLDDDDWDDW,WWWDLDWWLWLW
+Feirense,Desportivo Aves,1-0,/match/feirense/desportivo-aves/2010,2010,24,segunda_liga,16,30,0,1,0,5,41,9,8,6,27,19,LWWWDDLLDWWWWDDWWLLWDDD,6,3,2,17,9,6,40,8,10,5,28,22,DDDWDDLLDDWDLWDLLWDWLWW,3,6,2,11,9,WWDLWWDWLWD,DDDLDDWLDLW
+Trofense,Beira Mar SC,0-1,/match/trofense/beira-mar/2010,2010,25,segunda_liga,16,30,2,0,1,7,38,9,6,9,31,35,WWDWLWWDWLWDWDWLWWLLDWDL,5,4,2,16,11,3,46,13,4,7,36,25,LWWLWWWDLLDWLWLDWLLWWDWL,5,4,3,17,13,WDLWWWDWLDD,WLWDLDLLDLWD
+Fatima,Portimonense,0-1,/match/fatima/portimonense/2010,2010,25,segunda_liga,16,30,2,0,1,8,37,7,10,7,26,26,WWDLDLLDWDWWDLDLWDLDDWWD,4,5,3,14,13,4,46,12,5,7,34,29,LWDLLWWDLDWDWDWWWWLLLLWW,5,2,4,16,12,WLLDWWDDLDDW,LDLWLWDWLLW
+SC Freamunde,Estoril,0-2,/match/sc-freamunde/estoril/2010,2010,25,segunda_liga,16,30,2,0,2,12,34,8,8,8,33,34,DLDWWWLDLDWLDWLLWDLDLDWL,4,2,5,15,15,13,32,5,12,7,20,24,LDDWDWDDLDLDLLDWLDWDWDDL,3,6,3,12,13,DDWLLLWWLLW,DWDDLLLDWDWD
+Penafiel,Chaves,2-0,/match/penafiel/chaves/2010,2010,25,segunda_liga,16,30,0,2,0,10,34,6,10,8,25,29,WDDWWDWDLWDDLDLDLLDWDLWW,3,6,3,11,13,15,29,5,9,10,24,29,LDDWDLWDWWLDLWDWLWLDDDWL,3,3,6,14,17,DDWWLDLLDDDW,DWLWWLLDWWDW
+Desportivo Aves,Varzim,2-0,/match/desportivo-aves/varzim/2010,2010,25,segunda_liga,16,30,0,2,0,6,40,8,10,6,28,23,DDDWDDLLDDWDLWDLLWDWLWWW,5,4,3,17,13,9,34,5,11,8,17,27,DWDWWLLDWDDDDDDWWDLDWWWL,2,4,6,7,18,DWDLDWLDLWWW,WDWLWDDDWLWW
+Gil Vicente,UD Oliveirense,1-0,/match/gil-vicente/ud-oliveirense/2010,2010,25,segunda_liga,16,30,0,1,0,14,31,7,8,9,27,25,WWWLDDLLLDLWDDWDLLLDLWDL,3,3,6,14,16,1,49,12,6,6,30,21,DDLWWLWWLDWWDDWWLWLWDWWW,4,3,5,11,14,WWDLLLDWLLLD,DLWWLWDWLLDW
+Carregado,Feirense,0-1,/match/carregado/feirense/2010,2010,25,segunda_liga,16,30,2,0,1,16,20,4,5,15,19,38,WWDLDLDWLWLDLWLLLLWWDWWW,2,3,7,13,20,5,45,10,8,6,28,19,LWWWDDLLDWWWWDDWWLLWDDDW,3,5,4,10,10,WLDDLLLLLLDW,LWDLDWWDWLDD
+CD Santa Clara,SP. Covilhã,1-1,/match/santa-clara/sporting-covilha/2010,2010,25,segunda_liga,16,30,1,1,1,2,47,11,9,4,36,20,WDLLDLDDWDDLWDDLLWWWWDWL,6,4,2,17,8,11,34,6,7,11,31,41,LLWWWWDLWDWWDWDDWLWWDWWD,1,2,8,9,23,WLDDWDWDLWWW,LWWDWWWWWDW
+Estoril,Carregado,1-1,/match/estoril/carregado/2010,2010,26,segunda_liga,16,30,1,1,1,14,34,6,12,7,22,24,LDDWDWDDLDLDLLDWLDWDWDDLL,2,6,4,8,11,16,20,4,5,16,19,39,WWDLDLDWLWLDLWLLLLWWDWWWL,2,2,8,6,18,LDWDDDLLWDDL,WDLWWDWLWWWW
+Chaves,Gil Vicente,1-1,/match/chaves/gil-vicente/2010,2010,26,segunda_liga,16,30,1,1,1,15,29,5,9,11,24,31,LDDWDLWDWWLDLWDWLWLDDDWLW,2,6,4,10,12,11,35,8,8,9,28,25,WWWLDDLLLDLWDDWDLLLDLWDLW,4,5,3,13,9,LDDDWDWLLDDL,WLDLDWDDLDWL
+Beira Mar SC,CD Santa Clara,1-1,/match/beira-mar/santa-clara/2010,2010,26,segunda_liga,16,30,1,1,1,3,48,14,4,7,37,25,LWWLWWWDLLDWLWLDWLLWWDWLL,8,0,4,19,12,2,49,11,10,4,37,21,WDLLDLDDWDDLWDDLLWWWWDWLD,5,5,2,19,12,LWWWLWWWLWWL,DLLDDLDLWWDL
+SC Freamunde,Trofense,2-3,/match/sc-freamunde/trofense/2010,2010,26,segunda_liga,16,30,2,2,3,13,34,8,8,9,33,36,DLDWWWLDLDWLDWLLWDLDLDWLL,4,2,6,15,17,7,38,9,6,10,31,36,WWDWLWWDWLWDWDWLWWLLDWDLL,4,2,7,15,24,DDWLLLWWLLWL,WWWDLDWWLWLWL
+Portimonense,SP. Covilhã,2-0,/match/portimonense/sporting-covilha/2010,2010,26,segunda_liga,16,30,0,2,0,4,48,13,5,7,35,29,LWDLLWWDLDWDWDWWWWLLLLWWL,7,3,3,18,17,10,35,6,8,11,32,42,LLWWWWDLWDWWDWDDWLWWDWWDD,1,3,8,10,24,WLWDDDWWWWLLW,LWWDWWWWWDWD
+Feirense,Fatima,1-1,/match/feirense/fatima/2010,2010,26,segunda_liga,16,30,1,1,1,5,47,11,8,6,29,19,LWWWDDLLDWWWWDDWWLLWDDDWL,7,3,2,18,9,9,37,7,10,8,26,27,WWDLDLLDWDWWDLDLWDLDDWWDL,3,5,4,12,13,WWDLWWDWLWDW,WDDLDWLWLDWD
+UD Oliveirense,Desportivo Aves,3-1,/match/ud-oliveirense/desportivo-aves/2010,2010,26,segunda_liga,16,30,0,3,1,1,49,12,6,7,30,22,DDLWWLWWLDWWDDWWLWLWDWWWW,8,3,1,19,7,6,44,9,10,6,30,23,DDDWDDLLDDWDLWDLLWDWLWWWW,3,6,3,11,10,DWLWDWDWWWWW,DDDLDDWLDLWW
+Varzim,Penafiel,2-2,/match/varzim/penafiel/2010,2010,26,segunda_liga,16,30,1,2,2,12,34,5,11,9,17,29,DWDWWLLDWDDDDDDWWDLDWWWLW,3,7,2,10,9,8,38,7,10,8,27,29,WDDWWDWDLWDDLDLDLLDWDLWWW,3,4,5,14,16,DWLDDDDWDDWL,WWDDWDDLLWLW
+Gil Vicente,Beira Mar SC,1-1,/match/gil-vicente/beira-mar/2010,2010,27,segunda_liga,16,30,1,1,1,10,36,8,9,9,29,26,WWWLDDLLLDLWDDWDLLLDLWDLWD,4,3,6,15,16,4,50,14,5,7,38,26,LWWLWWWDLLDWLWLDWLLWWDWLLD,6,4,3,18,13,WWDLLLDWLLLDW,WLWDLDLLDLWDL
+SP. Covilhã,Feirense,1-1,/match/sporting-covilha/feirense/2010,2010,27,segunda_liga,16,30,1,1,1,13,35,6,8,12,32,44,LLWWWWDLWDWWDWDDWLWWDWWDDW,5,5,3,22,18,5,49,11,9,6,30,20,LWWWDDLLDWWWWDDWWLLWDDDWLD,4,5,4,11,10,LWWLDWDDDLWWD,LWDLDWWDWLDDL
+CD Santa Clara,SC Freamunde,3-2,/match/santa-clara/sc-freamunde/2010,2010,27,segunda_liga,16,30,0,3,2,3,50,11,11,4,38,22,WDLLDLDDWDDLWDDLLWWWWDWLDD,6,5,2,18,9,14,34,8,8,10,35,39,DLDWWWLDLDWLDWLLWDLDLDWLLL,4,6,3,18,19,WLDDWDWDLWWWD,LWWDDWDLLDDDL
+Penafiel,Estoril,1-0,/match/penafiel/estoril/2010,2010,27,segunda_liga,16,30,0,1,0,8,39,7,11,8,29,31,WDDWWDWDLWDDLDLDLLDWDLWWWD,4,6,3,13,13,12,36,6,13,7,23,25,LDDWDWDDLDLDLLDWLDWDWDDLLD,4,6,3,14,13,DDWWLDLLDDDWW,DWDDLLLDWDWDL
+Carregado,Varzim,3-2,/match/carregado/varzim/2010,2010,27,segunda_liga,16,30,0,3,2,16,21,4,6,16,20,40,WWDLDLDWLWLDLWLLLLWWDWWWLD,2,3,8,13,21,11,36,5,12,9,19,31,DWDWWLLDWDDDDDDWWDLDWWWLWD,2,4,7,7,20,WLDDLLLLLLDWL,WDWLWDDDWLWWW
+Fatima,UD Oliveirense,1-1,/match/fatima/ud-oliveirense/2010,2010,27,segunda_liga,16,30,1,1,1,9,38,7,11,8,27,28,WWDLDLLDWDWWDLDLWDLDDWWDLD,4,5,4,14,14,1,53,13,6,7,33,23,DDLWWLWWLDWWDDWWLWLWDWWWWW,4,3,6,11,15,WLLDWWDDLDDWL,DLWWLWDWLLDWW
+Trofense,Chaves,2-1,/match/trofense/chaves/2010,2010,27,segunda_liga,16,30,0,2,1,7,40,10,6,10,34,38,WWDWLWWDWLWDWDWLWWLLDWDLLL,5,4,3,16,12,15,31,5,10,11,25,32,LDDWDLWDWWLDLWDWLWLDDDWLWD,3,3,7,14,19,WDLWWWDWLDDL,DWLWWLLDWWDWW
+Desportivo Aves,Portimonense,1-1,/match/desportivo-aves/portimonense/2010,2010,27,segunda_liga,16,30,1,1,1,6,44,9,10,7,31,26,DDDWDDLLDDWDLWDLLWDWLWWWWW,6,4,3,19,13,2,52,14,5,7,37,29,LWDLLWWDLDWDWDWWWWLLLLWWLW,6,2,4,17,12,DWDLDWLDLWWWW,LDLWLWDWLLWL
+Feirense,Portimonense,2-1,/match/feirense/portimonense/2010,2010,28,segunda_liga,16,30,0,2,1,5,50,11,10,6,31,21,LWWWDDLLDWWWWDDWWLLWDDDWLDD,7,4,2,19,10,3,53,14,6,7,38,30,LWDLLWWDLDWDWDWWWWLLLLWWLWD,6,3,4,18,13,WWDLWWDWLWDWD,LDLWLWDWLLWLD
+Estoril,Desportivo Aves,1-0,/match/estoril/desportivo-aves/2010,2010,28,segunda_liga,16,30,0,1,0,13,36,6,13,8,23,26,LDDWDWDDLDLDLLDWLDWDWDDLLDW,2,7,4,9,12,6,46,9,11,7,32,27,DDDWDDLLDDWDLWDLLWDWLWWWWWD,3,6,4,12,13,LDWDDDLLWDDLD,DDDLDDWLDLWWW
+Trofense,CD Santa Clara,5-2,/match/trofense/santa-clara/2010,2010,28,segunda_liga,16,30,0,5,2,7,44,11,6,10,36,39,WWDWLWWDWLWDWDWLWWLLDWDLLLW,6,4,3,18,13,2,54,12,11,4,41,24,WDLLDLDDWDDLWDDLLWWWWDWLDDW,5,6,2,20,13,WDLWWWDWLDDLW,DLLDDLDLWWDLD
+SC Freamunde,Gil Vicente,3-2,/match/sc-freamunde/gil-vicente/2010,2010,28,segunda_liga,16,30,0,3,2,14,34,8,8,11,37,42,DLDWWWLDLDWLDWLLWDLDLDWLLLW,4,2,7,17,20,10,38,8,10,9,30,27,WWWLDDLLLDLWDDWDLLLDLWDLWDD,4,6,3,14,10,DDWLLLWWLLWLL,WLDLDWDDLDWLD
+Chaves,Carregado,2-0,/match/chaves/carregado/2010,2010,28,segunda_liga,16,30,0,2,0,15,31,5,10,12,26,34,LDDWDLWDWWLDLWDWLWLDDDWLWDW,2,7,4,11,13,16,25,5,6,16,23,42,WWDLDLDWLWLDLWLLLLWWDWWWLDW,2,3,8,7,19,LDDDWDWLLDDLD,WDLWWDWLWWWWD
+Beira Mar SC,Penafiel,1-2,/match/beira-mar/penafiel/2010,2010,28,segunda_liga,16,30,2,1,2,4,51,14,6,7,39,27,LWWLWWWDLLDWLWLDWLLWWDWLLDD,8,1,4,20,13,8,43,8,11,8,30,31,WDDWWDWDLWDDLDLDLLDWDLWWWDW,3,5,5,16,18,LWWWLWWWLWWLD,WWDDWDDLLWLWD
+Varzim,Fatima,1-1,/match/varzim/fatima/2010,2010,28,segunda_liga,16,30,1,1,1,12,36,5,12,10,21,34,DWDWWLLDWDDDDDDWWDLDWWWLWDW,3,8,2,12,11,9,40,7,12,8,28,29,WWDLDLLDWDWWDLDLWDLDDWWDLDD,3,6,4,13,14,DWLDDDDWDDWLD,WDDLDWLWLDWDD
+UD Oliveirense,SP. Covilhã,3-0,/match/ud-oliveirense/sporting-covilha/2010,2010,28,segunda_liga,16,30,0,3,0,1,54,13,7,7,34,24,DDLWWLWWLDWWDDWWLWLWDWWWWWD,9,3,1,22,8,11,37,6,9,12,33,45,LLWWWWDLWDWWDWDDWLWWDWWDDWD,1,3,9,10,26,DWLWDWDWWWWWW,LWWDWWWWWDWDW
+Carregado,SC Freamunde,3-2,/match/carregado/sc-freamunde/2010,2010,29,segunda_liga,16,30,0,3,2,16,25,5,6,17,23,44,WWDLDLDWLWLDLWLLLLWWDWWWLDWW,3,3,8,16,23,13,38,9,8,11,40,44,DLDWWWLDLDWLDWLLWDLDLDWLLLWW,4,6,4,20,22,WLDDLLLLLLDWLW,LWWDDWDLLDDDLW
+Penafiel,Trofense,0-1,/match/penafiel/trofense/2010,2010,29,segunda_liga,16,30,2,0,1,8,45,9,11,8,32,32,WDDWWDWDLWDDLDLDLLDWDLWWWDWL,5,6,3,14,13,6,48,12,6,10,41,41,WWDWLWWDWLWDWDWLWWLLDWDLLLWW,5,2,7,18,26,DDWWLDLLDDDWWW,WWWDLDWWLWLWLL
+Gil Vicente,CD Santa Clara,0-0,/match/gil-vicente/santa-clara/2010,2010,29,segunda_liga,16,30,1,0,0,11,38,8,10,10,32,30,WWWLDDLLLDLWDDWDLLLDLWDLWDDW,4,4,6,16,17,2,54,12,11,5,43,29,WDLLDLDDWDDLWDDLLWWWWDWLDDWW,5,6,3,22,18,WWDLLLDWLLLDWD,DLLDDLDLWWDLDW
+Desportivo Aves,Beira Mar SC,1-3,/match/desportivo-aves/beira-mar/2010,2010,29,segunda_liga,16,30,2,1,3,7,46,9,11,8,32,28,DDDWDDLLDDWDLWDLLWDWLWWWWWDW,6,5,3,20,14,5,51,14,6,8,40,29,LWWLWWWDLLDWLWLDWLLWWDWLLDDL,6,5,3,19,14,DWDLDWLDLWWWWD,WLWDLDLLDLWDLD
+Fatima,Estoril,1-1,/match/fatima/estoril/2010,2010,29,segunda_liga,16,30,1,1,1,9,41,7,13,8,29,30,WWDLDLLDWDWWDLDLWDLDDWWDLDDD,4,6,4,15,15,10,40,7,13,8,24,26,LDDWDWDDLDLDLLDWLDWDWDDLLDWW,4,6,4,14,14,WLLDWWDDLDDWLD,DWDDLLLDWDWDLW
+Feirense,UD Oliveirense,2-1,/match/feirense/ud-oliveirense/2010,2010,29,segunda_liga,16,30,0,2,1,3,54,12,10,6,33,22,LWWWDDLLDWWWWDDWWLLWDDDWLDDW,8,4,2,21,11,1,58,14,7,7,37,24,DDLWWLWWLDWWDDWWLWLWDWWWWWDW,4,4,6,12,16,WWDLWWDWLWDWDW,DLWWLWDWLLDWWD
+Portimonense,Varzim,3-2,/match/portimonense/varzim/2010,2010,29,segunda_liga,16,30,0,3,2,4,53,14,6,8,39,32,LWDLLWWDLDWDWDWWWWLLLLWWLWDW,8,3,3,20,17,12,38,5,13,10,22,35,DWDWWLLDWDDDDDDWWDLDWWWLWDWD,2,4,8,9,23,WLWDDDWWWWLLWW,WDWLWDDDWLWWWW
+SP. Covilhã,Chaves,2-0,/match/sporting-covilha/chaves/2010,2010,29,segunda_liga,16,30,0,2,0,14,37,6,9,13,33,48,LLWWWWDLWDWWDWDDWLWWDWWDDWDW,5,6,3,23,19,15,35,6,10,12,28,34,LDDWDLWDWWLDLWDWLWLDDDWLWDWW,3,3,8,15,21,LWWLDWDDDLWWDD,DWLWWLLDWWDWWW
+Varzim,SP. Covilhã,1-0,/match/varzim/sporting-covilha/2010,2010,30,segunda_liga,16,30,0,1,0,13,38,5,13,11,24,38,DWDWWLLDWDDDDDDWWDLDWWWLWDWDW,3,9,2,13,12,11,41,7,9,13,35,48,LLWWWWDLWDWWDWDDWLWWDWWDDWDWW,1,3,10,10,29,DWLDDDDWDDWLDD,LWWDWWWWWDWDWW
+Estoril,Feirense,1-2,/match/estoril/feirense/2010,2010,30,segunda_liga,16,30,2,1,2,10,41,7,14,8,25,27,LDDWDWDDLDLDLLDWLDWDWDDLLDWWD,3,7,4,10,12,2,58,13,10,6,35,23,LWWWDDLLDWWWWDDWWLLWDDDWLDDWW,4,6,4,12,11,LDWDDDLLWDDLDW,LWDLDWWDWLDDLD
+Chaves,Fatima,0-1,/match/chaves/fatima/2010,2010,30,segunda_liga,16,30,2,0,1,15,35,6,10,13,28,36,LDDWDLWDWWLDLWDWLWLDDDWLWDWWW,3,7,4,13,13,9,43,7,14,8,30,31,WWDLDLLDWDWWDLDLWDLDDWWDLDDDD,3,7,4,14,15,LDDDWDWLLDDLDW,WDDLDWLWLDWDDD
+UD Oliveirense,Portimonense,0-1,/match/ud-oliveirense/portimonense/2010,2010,30,segunda_liga,16,30,2,0,1,1,58,14,7,8,38,26,DDLWWLWWLDWWDDWWLWLWDWWWWWDWW,10,3,1,25,8,3,57,15,6,8,42,34,LWDLLWWDLDWDWDWWWWLLLLWWLWDWW,6,3,5,19,15,DWLWDWDWWWWWWW,LDLWLWDWLLWLDW
+Beira Mar SC,Carregado,1-0,/match/beira-mar/carregado/2010,2010,30,segunda_liga,16,30,0,1,0,5,53,15,6,8,43,30,LWWLWWWDLLDWLWLDWLLWWDWLLDDLL,8,1,5,21,15,16,29,6,6,17,26,46,WWDLDLDWLWLDLWLLLLWWDWWWLDWWW,2,3,9,7,21,LWWWLWWWLWWLDL,WDLWWDWLWWWWDW
+Trofense,Gil Vicente,2-4,/match/trofense/gil-vicente/2010,2010,30,segunda_liga,16,30,2,2,4,6,50,13,6,10,42,41,WWDWLWWDWLWDWDWLWWLLDWDLLLWWL,7,4,3,23,15,12,40,8,11,10,32,30,WWWLDDLLLDLWDDWDLLLDLWDLWDDWD,4,6,4,16,13,WDLWWWDWLDDLWW,WLDLDWDDLDWLDW
+SC Freamunde,Penafiel,1-3,/match/sc-freamunde/penafiel/2010,2010,30,segunda_liga,16,30,2,1,3,14,38,9,8,12,42,47,DLDWWWLDLDWLDWLLWDLDLDWLLLWWW,5,2,7,20,22,8,45,9,11,9,32,33,WDDWWDWDLWDDLDLDLLDWDLWWWDWLL,4,5,5,18,19,DDWLLLWWLLWLLW,WWDDWDDLLWLWDL
+CD Santa Clara,Desportivo Aves,2-0,/match/santa-clara/desportivo-aves/2010,2010,30,segunda_liga,16,30,0,2,0,4,55,12,12,5,43,29,WDLLDLDDWDDLWDDLLWWWWDWLDDWWD,7,5,2,21,11,7,46,9,11,9,33,31,DDDWDDLLDDWDLWDLLWDWLWWWWWDWL,3,6,5,12,14,WLDDWDWDLWWWDW,DDDLDDWLDLWWWW

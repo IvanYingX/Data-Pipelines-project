@@ -1,307 +1,307 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Excelsior,Feyenoord,0-2,/match/excelsior/feyenoord/2012,2012,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Roda JC,Groningen,2-1,/match/roda-jc/fc-groningen/2012,2012,1,eredivisie,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Heerenveen,NEC Nijmegen,2-2,/match/heerenveen/nec/2012,2012,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-RKC Waalwijk,Heracles,2-2,/match/rkc-waalwijk/heracles/2012,2012,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-VVV Venlo,Utrecht,0-0,/match/vvv/fc-utrecht/2012,2012,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-AZ Alkmaar,PSV,3-1,/match/az/psv/2012,2012,1,eredivisie,18,34,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-De Graafschap,Ajax,1-4,/match/graafschap/ajax/2012,2012,1,eredivisie,18,34,2,1,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-ADO Den Haag,Vitesse,0-0,/match/ado-den-haag/vitesse/2012,2012,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-NAC Breda,Twente 1965,0-1,/match/nac-breda/fc-twente-1965/2012,2012,1,eredivisie,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Twente 1965,AZ Alkmaar,2-0,/match/fc-twente-1965/az/2012,2012,2,eredivisie,18,34,0,2,0,4,1,0,0,1,0,L,0,0,0,0,0,2,1,0,0,3,1,W,0,0,0,0,0,,
-Vitesse,VVV Venlo,4-0,/match/vitesse/vvv/2012,2012,2,eredivisie,18,34,0,4,0,10,0,1,0,0,0,D,0,0,0,0,0,3,0,1,0,0,0,D,0,0,0,0,0,,
-PSV,RKC Waalwijk,1-0,/match/psv/rkc-waalwijk/2012,2012,2,eredivisie,18,34,0,1,0,14,0,0,1,1,3,W,0,0,0,0,0,9,0,1,0,2,2,D,0,0,0,0,0,,
-Feyenoord,Roda JC,3-0,/match/feyenoord/roda-jc/2012,2012,2,eredivisie,18,34,0,3,0,5,1,0,0,2,0,L,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
-Heracles,NAC Breda,2-1,/match/heracles/nac-breda/2012,2012,2,eredivisie,18,34,0,2,1,11,0,1,0,2,2,D,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
-Utrecht,De Graafschap,2-2,/match/fc-utrecht/graafschap/2012,2012,2,eredivisie,18,34,1,2,2,13,0,1,0,0,0,D,0,0,0,0,0,17,0,0,1,1,4,L,0,0,0,0,0,,
-Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2012,2012,2,eredivisie,18,34,0,5,1,8,1,0,0,4,1,L,0,0,0,0,0,6,0,1,0,2,2,D,0,0,0,0,0,,
-Groningen,ADO Den Haag,4-2,/match/fc-groningen/ado-den-haag/2012,2012,2,eredivisie,18,34,0,4,2,15,0,0,1,1,2,W,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
-NEC Nijmegen,Excelsior,2-0,/match/nec/excelsior/2012,2012,2,eredivisie,18,34,0,2,0,12,0,1,0,2,2,D,0,0,0,0,0,18,0,0,1,0,2,L,0,0,0,0,0,,
-Roda JC,RKC Waalwijk,0-2,/match/roda-jc/rkc-waalwijk/2012,2012,3,eredivisie,18,34,2,0,2,10,1,0,1,2,4,WW,1,0,0,2,1,12,0,1,1,2,3,DW,0,0,1,0,1,W,W
-Vitesse,Utrecht,2-1,/match/vitesse/fc-utrecht/2012,2012,3,eredivisie,18,34,0,2,1,4,1,1,0,4,0,DW,1,0,0,4,0,11,0,2,0,2,2,DD,0,1,0,0,0,W,D
-Heerenveen,Twente 1965,1-5,/match/heerenveen/fc-twente-1965/2012,2012,3,eredivisie,18,34,2,1,5,14,0,1,1,3,7,DW,0,1,0,2,2,1,2,0,0,3,0,LW,1,0,0,1,0,D,L
-Excelsior,De Graafschap,1-1,/match/excelsior/graafschap/2012,2012,3,eredivisie,18,34,1,1,1,18,0,0,2,0,4,LW,0,0,1,0,2,16,0,1,1,3,6,LD,0,1,0,2,2,L,D
-NAC Breda,Groningen,2-2,/match/nac-breda/fc-groningen/2012,2012,3,eredivisie,18,34,1,2,2,17,0,0,2,1,3,LW,0,0,1,0,1,8,1,0,1,5,4,WW,0,0,1,1,2,L,W
-Heracles,Feyenoord,1-1,/match/heracles/feyenoord/2012,2012,3,eredivisie,18,34,1,1,1,6,1,1,0,4,3,DW,1,0,0,2,1,2,2,0,0,5,0,LW,1,0,0,2,0,W,L
-AZ Alkmaar,NEC Nijmegen,4-0,/match/az/nec/2012,2012,3,eredivisie,18,34,0,4,0,7,1,0,1,3,3,WW,1,0,0,3,1,5,1,1,0,4,2,DW,0,1,0,2,2,W,D
-VVV Venlo,Ajax,2-2,/match/vvv/ajax/2012,2012,3,eredivisie,18,34,1,2,2,15,0,1,1,0,4,DW,0,1,0,0,0,3,2,0,0,9,2,LW,1,0,0,4,1,D,L
-ADO Den Haag,PSV,0-3,/match/ado-den-haag/psv/2012,2012,3,eredivisie,18,34,2,0,3,13,0,1,1,2,4,DW,0,1,0,0,0,9,1,0,1,2,3,WW,0,0,1,1,3,D,W
-Ajax,Vitesse,4-1,/match/ajax/vitesse/2012,2012,4,eredivisie,18,34,0,4,1,4,2,1,0,11,4,LWD,1,0,0,5,1,1,2,1,0,6,1,DWW,0,1,0,0,0,W,D
-RKC Waalwijk,NAC Breda,2-1,/match/rkc-waalwijk/nac-breda/2012,2012,4,eredivisie,18,34,0,2,1,10,1,1,1,4,3,DWL,0,1,0,2,2,17,0,1,2,3,5,LWD,0,0,1,1,2,D,W
-Twente 1965,VVV Venlo,4-1,/match/fc-twente-1965/vvv/2012,2012,4,eredivisie,18,34,0,4,1,2,3,0,0,8,1,LWL,1,0,0,2,0,11,0,2,1,2,6,DWD,0,0,1,0,4,W,W
-NEC Nijmegen,Heracles,2-1,/match/nec/heracles/2012,2012,4,eredivisie,18,34,0,2,1,8,1,1,1,4,6,DWW,1,0,0,2,0,5,1,2,0,5,4,DWD,0,1,0,2,2,W,D
-Utrecht,Roda JC,3-1,/match/fc-utrecht/roda-jc/2012,2012,4,eredivisie,18,34,0,3,1,13,0,2,1,3,4,DDW,0,1,0,2,2,12,1,0,2,2,6,WWL,0,0,1,0,3,D,W
-De Graafschap,ADO Den Haag,0-3,/match/graafschap/ado-den-haag/2012,2012,4,eredivisie,18,34,2,0,3,16,0,2,1,4,7,LDD,0,0,1,1,4,14,0,1,2,2,7,DWL,0,0,1,2,4,L,W
-Groningen,AZ Alkmaar,0-3,/match/fc-groningen/az/2012,2012,4,eredivisie,18,34,2,0,3,9,1,1,1,7,6,WWD,1,0,0,4,2,3,2,0,1,7,3,WWW,0,0,1,0,2,W,W
-Feyenoord,Heerenveen,2-2,/match/feyenoord/heerenveen/2012,2012,4,eredivisie,18,34,1,2,2,6,2,1,0,6,1,LWD,1,0,0,3,0,15,0,1,2,4,12,DWL,0,0,1,1,5,W,W
-PSV,Excelsior,6-1,/match/psv/excelsior/2012,2012,4,eredivisie,18,34,0,6,1,7,2,0,1,5,3,WWL,1,0,0,1,0,18,0,1,2,1,5,LWD,0,0,1,0,2,W,W
-Roda JC,Twente 1965,2-1,/match/roda-jc/fc-twente-1965/2012,2012,5,eredivisie,18,34,0,2,1,13,1,0,3,3,9,WWLW,1,0,1,2,3,1,4,0,0,12,2,LWLW,2,0,0,6,1,WL,LL
-De Graafschap,NEC Nijmegen,1-0,/match/graafschap/nec/2012,2012,5,eredivisie,18,34,0,1,0,16,0,2,2,4,10,LDDL,0,0,2,1,7,6,2,1,1,6,7,DWWW,0,1,1,2,6,LL,DW
-ADO Den Haag,RKC Waalwijk,0-1,/match/ado-den-haag/rkc-waalwijk/2012,2012,5,eredivisie,18,34,2,0,1,14,1,1,2,5,7,DWLL,0,1,1,0,3,8,2,1,1,6,4,DWLW,1,0,1,2,1,DL,WL
-AZ Alkmaar,Vitesse,4-0,/match/az/vitesse/2012,2012,5,eredivisie,18,34,0,4,0,3,3,0,1,10,3,WWWL,2,0,0,7,1,5,2,1,1,7,5,DWWW,0,1,1,1,4,WW,DW
-Heracles,Ajax,2-3,/match/heracles/ajax/2012,2012,5,eredivisie,18,34,2,2,3,9,1,2,1,6,6,DWDW,1,1,0,3,2,2,3,1,0,15,5,LWDW,1,1,0,6,3,WD,LD
-Heerenveen,Groningen,3-0,/match/heerenveen/fc-groningen/2012,2012,5,eredivisie,18,34,0,3,0,15,0,2,2,6,14,DWLD,0,1,1,3,7,11,1,1,2,7,9,WWDL,0,1,1,3,4,DL,WD
-NAC Breda,Feyenoord,1-3,/match/nac-breda/feyenoord/2012,2012,5,eredivisie,18,34,2,1,3,17,0,1,3,4,7,LWDW,0,1,1,2,3,7,2,2,0,8,3,LWDD,1,1,0,3,1,LD,LD
-VVV Venlo,PSV,3-3,/match/vvv/psv/2012,2012,5,eredivisie,18,34,1,3,3,12,0,2,2,3,10,DWDW,0,2,0,2,2,4,3,0,1,11,4,WWLW,1,0,1,4,3,DD,WL
-Excelsior,Utrecht,2-3,/match/excelsior/fc-utrecht/2012,2012,5,eredivisie,18,34,2,2,3,18,0,1,3,2,11,LWDW,0,1,1,1,3,10,1,2,1,6,5,DDWW,0,1,1,1,2,LD,DW
-NEC Nijmegen,NAC Breda,1-2,/match/nec/nac-breda/2012,2012,6,eredivisie,18,34,2,1,2,8,2,1,2,6,8,DWWWW,2,0,0,4,1,17,0,1,4,5,10,LWDWL,0,0,2,2,4,WW,WW
-Groningen,Excelsior,2-0,/match/fc-groningen/excelsior/2012,2012,6,eredivisie,18,34,0,2,0,15,1,1,3,7,12,WWDLW,1,0,1,4,5,18,0,1,4,4,14,LWDWL,0,0,2,1,8,WL,WW
-VVV Venlo,Heerenveen,0-3,/match/vvv/heerenveen/2012,2012,6,eredivisie,18,34,2,0,3,13,0,3,2,6,13,DWDWD,0,3,0,5,5,12,1,2,2,9,14,DWLDW,0,1,1,3,7,DDD,WD
-Vitesse,Roda JC,5-0,/match/vitesse/roda-jc/2012,2012,6,eredivisie,18,34,0,5,0,9,2,1,2,7,9,DWWWW,2,0,0,6,1,10,2,0,3,5,10,WWLWW,0,0,2,1,6,WW,WW
-Feyenoord,De Graafschap,4-0,/match/feyenoord/graafschap/2012,2012,6,eredivisie,18,34,0,4,0,4,3,2,0,11,4,LWDDL,1,1,0,5,2,14,1,2,2,5,10,LDDLW,0,2,0,3,3,WD,DD
-PSV,Ajax,2-2,/match/psv/ajax/2012,2012,6,eredivisie,18,34,1,2,2,5,3,1,1,14,7,WWLWD,2,0,0,7,1,2,4,1,0,18,7,LWDWL,2,1,0,9,5,WW,LDL
-RKC Waalwijk,AZ Alkmaar,1-2,/match/rkc-waalwijk/az/2012,2012,6,eredivisie,18,34,2,1,2,6,3,1,1,7,4,DWLWL,1,1,0,4,3,1,4,0,1,14,3,WWWLW,1,0,1,3,2,DW,WL
-Twente 1965,ADO Den Haag,5-2,/match/fc-twente-1965/ado-den-haag/2012,2012,6,eredivisie,18,34,0,5,2,3,4,0,1,13,4,LWLWW,2,0,0,6,1,16,1,1,3,5,8,DWLLL,1,0,1,5,4,WW,WL
-Utrecht,Heracles,2-2,/match/fc-utrecht/heracles/2012,2012,6,eredivisie,18,34,1,2,2,7,2,2,1,9,7,DDWWL,1,1,0,5,3,11,1,2,2,8,9,DWDWL,0,1,1,3,4,DW,DW
-PSV,Roda JC,7-1,/match/psv/roda-jc/2012,2012,7,eredivisie,18,34,0,7,1,5,3,2,1,16,9,WWLWDD,2,1,0,9,3,12,2,0,4,5,15,WWLWWW,0,0,3,1,11,WWD,WWW
-ADO Den Haag,VVV Venlo,2-0,/match/ado-den-haag/vvv/2012,2012,7,eredivisie,18,34,0,2,0,16,1,1,4,7,13,DWLLLW,0,1,2,0,4,14,0,3,3,6,16,DWDWDL,0,0,2,1,8,DLL,WW
-Heerenveen,Heracles,1-1,/match/heerenveen/heracles/2012,2012,7,eredivisie,18,34,1,1,1,9,2,2,2,12,14,DWLDWL,1,1,1,6,7,13,1,3,2,10,11,DWDWLD,0,2,1,5,6,DLW,DWD
-NAC Breda,Utrecht,1-0,/match/nac-breda/fc-utrecht/2012,2012,7,eredivisie,18,34,0,1,0,17,1,1,4,7,11,LWDWLL,0,1,2,3,6,7,2,3,1,11,9,DDWWLD,1,1,1,4,4,LDL,DWL
-Ajax,Twente 1965,1-1,/match/ajax/fc-twente-1965/2012,2012,7,eredivisie,18,34,1,1,1,4,4,2,0,20,9,LWDWLD,2,0,0,9,2,2,5,0,1,18,6,LWLWWW,2,0,1,7,3,WW,LLW
-AZ Alkmaar,Feyenoord,2-1,/match/az/feyenoord/2012,2012,7,eredivisie,18,34,0,2,1,1,5,0,1,16,4,WWWLWL,3,0,0,11,1,3,4,2,0,15,4,LWDDLW,2,1,0,6,2,WWW,LDL
-RKC Waalwijk,NEC Nijmegen,2-0,/match/rkc-waalwijk/nec/2012,2012,7,eredivisie,18,34,0,2,0,8,3,1,2,8,6,DWLWLL,1,1,1,5,5,10,2,1,3,7,10,DWWWWL,0,1,2,2,7,DWL,DWW
-De Graafschap,Groningen,2-3,/match/graafschap/fc-groningen/2012,2012,7,eredivisie,18,34,2,2,3,15,1,2,3,5,14,LDDLWW,1,0,2,2,7,11,2,1,3,9,12,WWDLWW,0,1,2,3,7,LLW,WDW
-Excelsior,Vitesse,0-2,/match/excelsior/vitesse/2012,2012,7,eredivisie,18,34,2,0,2,18,0,1,5,4,16,LWDWLW,0,1,2,3,6,6,3,1,2,12,9,DWWWWW,0,1,2,1,8,LDL,DWW
-Heracles,De Graafschap,2-0,/match/heracles/graafschap/2012,2012,8,eredivisie,18,34,0,2,0,11,1,4,2,11,12,DWDWLDD,1,1,1,5,5,17,1,2,4,7,17,LDDLWWL,0,2,1,3,7,WDL,DDW
-Utrecht,RKC Waalwijk,3-0,/match/fc-utrecht/rkc-waalwijk/2012,2012,8,eredivisie,18,34,0,3,0,8,2,3,2,11,10,DDWWLDW,1,2,0,7,5,7,4,1,2,10,6,DWLWLLW,2,0,1,3,1,DWD,WLL
-Vitesse,Heerenveen,1-1,/match/vitesse/heerenveen/2012,2012,8,eredivisie,18,34,1,1,1,6,4,1,2,14,9,DWWWWWL,3,0,0,11,1,9,2,3,2,13,15,DWLDWLD,1,1,1,6,7,WWW,WDL
-Roda JC,NAC Breda,4-3,/match/roda-jc/nac-breda/2012,2012,8,eredivisie,18,34,0,4,3,13,2,0,5,6,22,WWLWWWW,2,0,1,4,4,15,2,1,4,8,11,LWDWLLW,1,0,2,4,5,WLW,WWL
-VVV Venlo,AZ Alkmaar,1-3,/match/vvv/az/2012,2012,8,eredivisie,18,34,2,1,3,16,0,3,4,6,18,DWDWDLW,0,3,1,5,8,1,6,0,1,18,5,WWWLWLW,2,0,1,5,3,DDDL,WLL
-Twente 1965,Excelsior,2-2,/match/fc-twente-1965/excelsior/2012,2012,8,eredivisie,18,34,1,2,2,3,5,1,1,19,7,LWLWWWD,3,0,0,11,3,18,0,1,6,4,18,LWDWLWL,0,0,3,1,10,WWW,WWW
-Groningen,Ajax,1-0,/match/fc-groningen/ajax/2012,2012,8,eredivisie,18,34,0,1,0,10,3,1,3,12,14,WWDLWWL,2,0,1,6,5,4,4,3,0,21,10,LWDWLDD,2,2,0,11,7,WLW,LDLD
-Feyenoord,ADO Den Haag,0-3,/match/feyenoord/ado-den-haag/2012,2012,8,eredivisie,18,34,2,0,3,5,4,2,1,16,6,LWDDLWW,2,1,0,9,2,14,2,1,4,9,13,DWLLLWW,1,0,2,7,9,WDW,WLW
-NEC Nijmegen,PSV,0-2,/match/nec/psv/2012,2012,8,eredivisie,18,34,2,0,2,12,2,1,4,7,12,DWWWWLW,2,0,1,5,3,2,4,2,1,23,10,WWLWDDW,1,1,1,7,6,WWL,WLD
-Ajax,AZ Alkmaar,2-2,/match/ajax/az/2012,2012,9,eredivisie,18,34,1,2,2,5,4,3,1,21,11,LWDWLDDW,2,1,0,10,3,1,7,0,1,21,6,WWWLWLWL,3,0,1,8,4,WWD,WLLL
-Heracles,Groningen,2-1,/match/heracles/fc-groningen/2012,2012,9,eredivisie,18,34,0,2,1,10,2,4,2,13,12,DWDWLDDW,2,1,1,7,5,7,4,1,3,13,14,WWDLWWLW,1,1,2,6,9,WDLW,WDWL
-RKC Waalwijk,Twente 1965,0-4,/match/rkc-waalwijk/fc-twente-1965/2012,2012,9,eredivisie,18,34,2,0,4,9,4,1,3,10,9,DWLWLLWW,2,1,1,7,5,2,5,2,1,21,9,LWLWWWDD,2,1,1,8,4,DWLW,LLWD
-Heerenveen,De Graafschap,1-1,/match/heerenveen/graafschap/2012,2012,9,eredivisie,18,34,1,1,1,11,2,4,2,14,16,DWLDWLDD,1,2,1,7,8,17,1,2,5,7,19,LDDLWWLW,0,2,2,3,9,DLWD,DDWW
-PSV,Utrecht,1-0,/match/psv/fc-utrecht/2012,2012,9,eredivisie,18,34,0,1,0,3,5,2,1,25,10,WWLWDDWL,3,1,0,16,4,6,3,3,2,14,10,DDWWLDWW,1,1,2,4,5,WWDW,DWLW
-NEC Nijmegen,Vitesse,0-1,/match/nec/vitesse/2012,2012,9,eredivisie,18,34,2,0,1,14,2,1,5,7,14,DWWWWLWL,2,0,2,5,5,4,4,2,2,15,10,DWWWWWLD,1,1,2,3,8,WWLL,DWWL
-Roda JC,ADO Den Haag,4-1,/match/roda-jc/ado-den-haag/2012,2012,9,eredivisie,18,34,0,4,1,12,3,0,5,10,25,WWLWWWWW,3,0,1,8,7,13,3,1,4,12,13,DWLLLWWL,2,0,2,10,9,WLWW,WLWL
-Feyenoord,VVV Venlo,4-0,/match/feyenoord/vvv/2012,2012,9,eredivisie,18,34,0,4,0,8,4,2,2,16,9,LWDDLWWL,2,1,1,9,5,16,0,3,5,7,21,DWDWDLWL,0,0,3,1,10,WDWL,WWW
-NAC Breda,Excelsior,2-0,/match/nac-breda/excelsior/2012,2012,9,eredivisie,18,34,0,2,0,15,2,1,5,11,15,LWDWLLWW,1,1,2,4,6,18,0,2,6,6,20,LWDWLWLD,0,1,3,3,12,LDLW,WWWD
-De Graafschap,NAC Breda,3-1,/match/graafschap/nac-breda/2012,2012,10,eredivisie,18,34,0,3,1,16,1,3,5,8,20,LDDLWWLWD,1,0,3,4,10,13,3,1,5,13,15,LWDWLLWWW,1,0,3,7,9,LLWL,WWLW
-VVV Venlo,RKC Waalwijk,4-1,/match/vvv/rkc-waalwijk/2012,2012,10,eredivisie,18,34,0,4,1,17,0,3,6,7,25,DWDWDLWLW,0,3,2,6,11,11,4,1,4,10,13,DWLWLLWWL,2,0,2,3,4,DDDLL,WLLW
-Excelsior,Heracles,0-2,/match/excelsior/heracles/2012,2012,10,eredivisie,18,34,2,0,2,18,0,2,7,6,22,LWDWLWLDW,0,1,3,3,8,7,3,4,2,15,13,DWDWLDDWW,0,3,1,6,7,LDLL,DWDD
-ADO Den Haag,NEC Nijmegen,1-0,/match/ado-den-haag/nec/2012,2012,10,eredivisie,18,34,0,1,0,14,3,1,5,13,17,DWLLLWWLW,1,1,2,2,4,15,2,1,6,7,15,DWWWWLWLL,0,1,3,2,9,DLLW,DWWW
-Utrecht,Heerenveen,1-4,/match/fc-utrecht/heerenveen/2012,2012,10,eredivisie,18,34,2,1,4,10,3,3,3,14,11,DDWWLDWWW,2,2,0,10,5,12,2,5,2,15,17,DWLDWLDDD,1,2,1,7,8,DWDW,WDLD
-Ajax,Feyenoord,1-1,/match/ajax/feyenoord/2012,2012,10,eredivisie,18,34,1,1,1,6,4,4,1,23,13,LWDWLDDWD,2,2,0,12,5,4,5,2,2,20,9,LWDDLWWLW,2,1,1,7,4,WWDD,LDLW
-AZ Alkmaar,Roda JC,1-0,/match/az/roda-jc/2012,2012,10,eredivisie,18,34,0,1,0,1,7,1,1,23,8,WWWLWLWLD,4,0,0,13,2,8,4,0,5,14,26,WWLWWWWWW,0,0,4,2,18,WWWW,WWWW
-Groningen,Twente 1965,1-1,/match/fc-groningen/fc-twente-1965/2012,2012,10,eredivisie,18,34,1,1,1,9,4,1,4,14,16,WWDLWWLWW,3,0,1,7,5,3,6,2,1,25,9,LWLWWWDDL,3,1,1,12,4,WLWW,LLWDL
-Vitesse,PSV,1-1,/match/vitesse/psv/2012,2012,10,eredivisie,18,34,1,1,1,5,5,2,2,16,10,DWWWWWLDL,3,1,0,12,2,2,6,2,1,26,10,WWLWDDWLW,2,1,1,9,6,WWWD,WLDL
-NAC Breda,VVV Venlo,3-1,/match/nac-breda/vvv/2012,2012,11,eredivisie,18,34,0,3,1,14,3,1,6,14,18,LWDWLLWWWW,2,1,2,6,6,16,1,3,6,11,26,DWDWDLWLWW,0,0,4,1,14,LDLWW,WWWW
-Roda JC,Ajax,0-4,/match/roda-jc/ajax/2012,2012,11,eredivisie,18,34,2,0,4,10,4,0,6,14,27,WWLWWWWWWW,4,0,1,12,8,6,4,5,1,24,14,LWDWLDDWDD,2,2,1,11,8,WLWWW,LDLDW
-Excelsior,RKC Waalwijk,1-0,/match/excelsior/rkc-waalwijk/2012,2012,11,eredivisie,18,34,0,1,0,18,0,2,8,6,24,LWDWLWLDWL,0,1,4,3,10,12,4,1,5,11,17,DWLWLLWWLW,2,0,3,4,8,LDLLL,WLLWW
-Heerenveen,ADO Den Haag,4-0,/match/heerenveen/ado-den-haag/2012,2012,11,eredivisie,18,34,0,4,0,9,3,5,2,19,18,DWLDWLDDDL,1,3,1,8,9,13,4,1,5,14,17,DWLLLWWLWW,2,0,3,11,13,DLWDD,WLWLW
-Twente 1965,PSV,2-2,/match/fc-twente-1965/psv/2012,2012,11,eredivisie,18,34,1,2,2,3,6,3,1,26,10,LWLWWWDDLD,3,1,0,13,5,2,6,3,1,27,11,WWLWDDWLWD,2,2,1,10,7,WWWD,WLDLD
-De Graafschap,Vitesse,0-1,/match/graafschap/vitesse/2012,2012,11,eredivisie,18,34,2,0,1,15,2,3,5,11,21,LDDLWWLWDW,2,0,3,7,11,4,5,3,2,17,11,DWWWWWLDLD,2,1,2,4,8,LLWLW,DWWLL
-Groningen,Feyenoord,6-0,/match/fc-groningen/feyenoord/2012,2012,11,eredivisie,18,34,0,6,0,8,4,2,4,15,17,WWDLWWLWWD,3,1,1,8,6,5,5,3,2,21,10,LWDDLWWLWD,2,2,1,8,5,WLWWD,LDLWD
-NEC Nijmegen,Utrecht,3-1,/match/nec/fc-utrecht/2012,2012,11,eredivisie,18,34,0,3,1,17,2,1,7,7,16,DWWWWLWLLW,2,0,3,5,6,11,3,3,4,15,15,DDWWLDWWWL,1,1,3,4,6,WWLLL,DWLWW
-Heracles,AZ Alkmaar,0-1,/match/heracles/az/2012,2012,11,eredivisie,18,34,2,0,1,7,4,4,2,17,13,DWDWLDDWWL,3,1,1,9,6,1,8,1,1,24,8,WWWLWLWLDW,3,1,1,10,6,WDLWW,WLLLD
-VVV Venlo,Excelsior,0-0,/match/vvv/excelsior/2012,2012,12,eredivisie,18,34,1,0,0,17,1,3,7,12,29,DWDWDLWLWWW,1,3,2,10,12,18,1,2,8,7,24,LWDWLWLDWLW,0,1,4,3,14,DDDLLW,WWWDW
-NAC Breda,Vitesse,1-0,/match/nac-breda/vitesse/2012,2012,12,eredivisie,18,34,0,1,0,10,4,1,6,17,19,LWDWLLWWWWW,3,1,2,9,7,4,6,3,2,18,11,DWWWWWLDLDL,3,1,2,5,8,LDLWWW,DWWLLL
-Roda JC,Heerenveen,1-2,/match/roda-jc/heerenveen/2012,2012,12,eredivisie,18,34,2,1,2,11,4,0,7,14,31,WWLWWWWWWWL,4,0,2,12,12,8,4,5,2,23,18,DWLDWLDDDLW,2,2,1,11,9,WLWWWL,WDLDL
-RKC Waalwijk,Groningen,1-1,/match/rkc-waalwijk/fc-groningen/2012,2012,12,eredivisie,18,34,1,1,1,13,4,1,6,11,18,DWLWLLWWLWW,2,1,2,7,9,6,5,2,4,21,17,WWDLWWLWWDW,1,1,3,7,11,DWLWL,WDWLW
-Feyenoord,NEC Nijmegen,0-1,/match/feyenoord/nec/2012,2012,12,eredivisie,18,34,2,0,1,7,5,3,3,21,16,LWDDLWWLWDW,3,1,1,13,5,15,3,1,7,10,17,DWWWWLWLLWW,0,1,4,2,10,WDWLW,DWWWW
-Utrecht,Ajax,6-4,/match/fc-utrecht/ajax/2012,2012,12,eredivisie,18,34,0,6,4,12,3,3,5,16,18,DDWWLDWWWLW,2,2,1,11,9,5,5,5,1,28,14,LWDWLDDWDDL,3,2,1,15,8,DWDWL,LDLDWL
-Twente 1965,De Graafschap,4-0,/match/fc-twente-1965/graafschap/2012,2012,12,eredivisie,18,34,0,4,0,3,6,4,1,28,12,LWLWWWDDLDD,3,2,0,15,7,16,2,3,6,11,22,LDDLWWLWDWL,0,3,2,4,10,WWWDD,DDWWD
-AZ Alkmaar,ADO Den Haag,3-0,/match/az/ado-den-haag/2012,2012,12,eredivisie,18,34,0,3,0,1,9,1,1,25,8,WWWLWLWLDWL,5,0,0,14,2,14,4,1,6,14,21,DWLLLWWLWWW,2,0,4,11,17,WWWWW,WLWLWW
-PSV,Heracles,4-1,/match/psv/heracles/2012,2012,12,eredivisie,18,34,0,4,1,2,6,4,1,29,13,WWLWDDWLWDD,4,1,0,17,4,9,4,4,3,17,14,DWDWLDDWWLL,1,3,1,8,7,WWDWW,DWDDL
-De Graafschap,PSV,1-3,/match/graafschap/psv/2012,2012,13,eredivisie,18,34,2,1,3,17,2,3,7,11,26,LDDLWWLWDWLW,2,0,4,7,12,2,7,4,1,33,14,WWLWDDWLWDDW,2,3,1,12,9,LLWLWL,WLDLDD
-NEC Nijmegen,Roda JC,1-2,/match/nec/roda-jc/2012,2012,13,eredivisie,18,34,2,1,2,14,4,1,7,11,17,DWWWWLWLLWWL,3,0,3,8,7,12,4,0,8,15,33,WWLWWWWWWWLL,0,0,5,2,19,WWLLLW,WWWWW
-Heerenveen,RKC Waalwijk,1-1,/match/heerenveen/rkc-waalwijk/2012,2012,13,eredivisie,18,34,1,1,1,5,5,5,2,25,19,DWLDWLDDDLWL,2,3,1,12,9,13,4,2,6,12,19,DWLWLLWWLWWD,2,0,4,4,9,DLWDDW,WLLWWW
-Heracles,Twente 1965,1-1,/match/heracles/fc-twente-1965/2012,2012,13,eredivisie,18,34,1,1,1,10,4,4,4,18,18,DWDWLDDWWLLW,3,1,2,9,7,3,7,4,1,32,12,LWLWWWDDLDDW,3,2,1,13,5,WDLWWL,LLWDLD
-Ajax,NAC Breda,2-2,/match/ajax/nac-breda/2012,2012,13,eredivisie,18,34,1,2,2,6,5,5,2,32,20,LWDWLDDWDDLW,2,3,0,13,6,8,5,1,6,18,19,LWDWLLWWWWWW,1,0,4,8,12,WWDDD,WWLWW
-ADO Den Haag,Utrecht,2-2,/match/ado-den-haag/fc-utrecht/2012,2012,13,eredivisie,18,34,1,2,2,15,4,1,7,14,24,DWLLLWWLWWWW,2,1,2,3,4,11,4,3,5,22,22,DDWWLDWWWLWW,1,1,4,5,9,DLLWW,DWLWWW
-Vitesse,Feyenoord,0-4,/match/vitesse/feyenoord/2012,2012,13,eredivisie,18,34,2,0,4,4,6,3,3,18,12,DWWWWWLDLDLW,3,2,0,13,3,9,5,3,4,21,17,LWDDLWWLWDWL,2,2,2,8,11,WWWDD,LDLWDW
-Groningen,VVV Venlo,2-1,/match/fc-groningen/vvv/2012,2012,13,eredivisie,18,34,0,2,1,7,5,3,4,22,18,WWDLWWLWWDWD,4,1,1,14,6,16,1,4,7,12,29,DWDWDLWLWWWD,0,0,5,2,17,WLWWDW,WWWWW
-Excelsior,AZ Alkmaar,0-0,/match/excelsior/az/2012,2012,13,eredivisie,18,34,1,0,0,18,1,3,8,7,24,LWDWLWLDWLWD,1,1,4,4,10,1,10,1,1,28,8,WWWLWLWLDWLW,4,1,1,11,6,LDLLLW,WLLLDL
-AZ Alkmaar,Utrecht,2-0,/match/az/fc-utrecht/2012,2012,14,eredivisie,18,34,0,2,0,1,10,2,1,28,8,WWWLWLWLDWLWD,6,0,0,17,2,11,4,4,5,24,24,DDWWLDWWWLWWD,1,2,4,7,11,WWWWWW,DWLWWWD
-NAC Breda,Heerenveen,2-2,/match/nac-breda/heerenveen/2012,2012,14,eredivisie,18,34,1,2,2,10,5,2,6,20,21,LWDWLLWWWWWWD,4,1,2,10,7,5,5,6,2,26,20,DWLDWLDDDLWLD,3,2,1,13,10,LDLWWWW,WDLDLL
-VVV Venlo,De Graafschap,1-2,/match/vvv/graafschap/2012,2012,14,eredivisie,18,34,2,1,2,16,1,4,8,13,31,DWDWDLWLWWWDW,1,4,2,10,12,17,2,3,8,12,29,LDDLWWLWDWLWL,0,3,3,4,14,DDDLLWD,DDWWDW
-Roda JC,Heracles,3-1,/match/roda-jc/heracles/2012,2012,14,eredivisie,18,34,0,3,1,12,5,0,8,17,34,WWLWWWWWWWLLL,4,0,3,13,14,9,4,5,4,19,19,DWDWLDDWWLLWD,1,3,2,9,11,WLWWWLL,DWDDLW
-PSV,Groningen,6-1,/match/psv/fc-groningen/2012,2012,14,eredivisie,18,34,0,6,1,2,8,4,1,36,15,WWLWDDWLWDDWL,5,1,0,21,5,4,6,3,4,24,19,WWDLWWLWWDWDW,1,2,3,8,12,WWDWWW,WDWLWD
-RKC Waalwijk,Feyenoord,1-2,/match/rkc-waalwijk/feyenoord/2012,2012,14,eredivisie,18,34,2,1,2,13,4,3,6,13,20,DWLWLLWWLWWDD,2,2,2,8,10,8,6,3,4,25,17,LWDDLWWLWDWLL,3,2,2,12,11,DWLWLD,LDLWDWL
-Excelsior,ADO Den Haag,1-1,/match/excelsior/ado-den-haag/2012,2012,14,eredivisie,18,34,1,1,1,18,1,4,8,7,24,LWDWLWLDWLWDD,1,2,4,4,10,14,4,2,7,16,26,DWLLLWWLWWWWD,2,0,5,11,20,LDLLLWD,WLWLWWW
-NEC Nijmegen,Ajax,0-3,/match/nec/ajax/2012,2012,14,eredivisie,18,34,2,0,3,15,4,1,8,12,19,DWWWWLWLLWWLL,3,0,4,9,9,6,5,6,2,34,22,LWDWLDDWDDLWD,3,2,2,19,14,WWLLLWL,LDLDWLW
-Twente 1965,Vitesse,0-0,/match/fc-twente-1965/vitesse/2012,2012,14,eredivisie,18,34,1,0,0,3,7,5,1,33,13,LWLWWWDDLDDWD,4,2,0,19,7,7,6,3,4,18,16,DWWWWWLDLDLWL,3,1,3,5,9,WWWDDW,DWWLLLW
-Heracles,VVV Venlo,7-0,/match/heracles/vvv/2012,2012,15,eredivisie,18,34,0,7,0,11,4,5,5,20,22,DWDWLDDWWLLWDW,3,2,2,10,8,17,1,4,9,14,33,DWDWDLWLWWWDWL,0,0,6,3,19,WDLWWLD,WWWWWW
-Groningen,NEC Nijmegen,3-3,/match/fc-groningen/nec/2012,2012,15,eredivisie,18,34,1,3,3,4,6,3,5,25,25,WWDLWWLWWDWDWW,5,1,1,16,7,15,4,1,9,12,22,DWWWWLWLLWWLLL,1,1,4,3,10,WLWWDWW,DWWWWL
-ADO Den Haag,NAC Breda,3-0,/match/ado-den-haag/nac-breda/2012,2012,15,eredivisie,18,34,0,3,0,14,4,3,7,17,27,DWLLLWWLWWWWDD,2,2,2,5,6,9,5,3,6,22,23,LWDWLLWWWWWWDD,1,1,4,10,14,DLLWWD,WWLWWD
-De Graafschap,Roda JC,1-2,/match/graafschap/roda-jc/2012,2012,15,eredivisie,18,34,2,1,2,16,3,3,8,14,30,LDDLWWLWDWLWLL,2,0,5,8,15,10,6,0,8,20,35,WWLWWWWWWWLLLW,1,0,5,4,20,LLWLWLL,WWWWWL
-Ajax,Excelsior,4-1,/match/ajax/excelsior/2012,2012,15,eredivisie,18,34,0,4,1,5,6,6,2,37,22,LWDWLDDWDDLWDL,2,4,0,15,8,18,1,5,8,8,25,LWDWLWLDWLWDDD,0,2,4,3,14,WWDDDD,WWWDWD
-Feyenoord,PSV,2-0,/match/feyenoord/psv/2012,2012,15,eredivisie,18,34,0,2,0,8,7,3,4,27,18,LWDDLWWLWDWLLL,3,1,2,13,6,2,9,4,1,42,16,WWLWDDWLWDDWLW,3,3,1,15,10,WDWLWL,WLDLDDL
-Vitesse,RKC Waalwijk,4-0,/match/vitesse/rkc-waalwijk/2012,2012,15,eredivisie,18,34,0,4,0,7,6,4,4,18,16,DWWWWWLDLDLWLD,3,2,1,13,7,13,4,3,7,14,22,DWLWLLWWLWWDDL,2,1,4,5,10,WWWDDL,WLLWWWD
-Utrecht,Twente 1965,2-6,/match/fc-utrecht/fc-twente-1965/2012,2012,15,eredivisie,18,34,2,2,6,12,4,4,6,24,26,DDWWLDWWWLWWDW,3,2,1,17,13,3,7,6,1,33,13,LWLWWWDDLDDWDD,3,3,1,14,6,DWDWLW,LLWDLDD
-Heerenveen,AZ Alkmaar,5-1,/match/heerenveen/az/2012,2012,15,eredivisie,18,34,0,5,1,6,5,7,2,28,22,DWLDWLDDDLWLDD,2,4,1,13,10,1,11,2,1,30,8,WWWLWLWLDWLWDW,4,2,1,11,6,DLWDDWD,WLLLDLD
-ADO Den Haag,Heracles,2-0,/match/ado-den-haag/heracles/2012,2012,16,eredivisie,18,34,0,2,0,12,5,3,7,20,27,DWLLLWWLWWWWDDW,3,2,2,8,6,9,5,5,5,27,22,DWDWLDDWWLLWDWW,1,3,3,10,14,DLLWWDW,DWDDLWW
-Twente 1965,NEC Nijmegen,2-0,/match/fc-twente-1965/nec/2012,2012,16,eredivisie,18,34,0,2,0,3,8,6,1,39,15,LWLWWWDDLDDWDDL,4,3,0,19,7,15,4,2,9,15,25,DWWWWLWLLWWLLLD,1,2,4,6,13,WWWDDWD,DWWWWLD
-AZ Alkmaar,De Graafschap,4-0,/match/az/graafschap/2012,2012,16,eredivisie,18,34,0,4,0,1,11,2,2,31,13,WWWLWLWLDWLWDWW,7,0,0,19,2,16,3,3,9,15,32,LDDLWWLWDWLWLLL,1,3,3,6,15,WWWWWWW,DDWWDWL
-Excelsior,Heerenveen,0-5,/match/excelsior/heerenveen/2012,2012,16,eredivisie,18,34,2,0,5,18,1,5,9,9,29,LWDWLWLDWLWDDDW,1,3,4,5,11,5,6,7,2,33,23,DWLDWLDDDLWLDDW,3,3,1,15,12,LDLLLWDD,WDLDLLD
-PSV,NAC Breda,1-0,/match/psv/nac-breda/2012,2012,16,eredivisie,18,34,0,1,0,2,9,4,2,42,18,WWLWDDWLWDDWLWW,6,1,0,27,6,11,5,3,7,22,26,LWDWLLWWWWWWDDW,1,1,5,10,17,WWDWWWW,WWLWWDW
-VVV Venlo,Roda JC,2-0,/match/vvv/roda-jc/2012,2012,16,eredivisie,18,34,0,2,0,17,1,4,10,14,40,DWDWDLWLWWWDWLW,1,4,3,11,14,10,7,0,8,22,36,WWLWWWWWWWLLLWL,2,0,5,6,21,DDDLLWDL,WWWWWLL
-Utrecht,Feyenoord,2-2,/match/fc-utrecht/feyenoord/2012,2012,16,eredivisie,18,34,1,2,2,13,4,4,7,26,32,DDWWLDWWWLWWDWL,3,2,2,19,19,8,8,3,4,29,18,LWDDLWWLWDWLLLW,4,2,2,14,12,DWDWLWL,LDLWDWLL
-RKC Waalwijk,Ajax,0-1,/match/rkc-waalwijk/ajax/2012,2012,16,eredivisie,18,34,2,0,1,14,4,3,8,14,26,DWLWLLWWLWWDDLW,2,2,3,9,12,4,7,6,2,41,23,LWDWLDDWDDLWDLW,4,2,2,22,14,DWLWLDL,LDLDWLWL
-Vitesse,Groningen,0-0,/match/vitesse/fc-groningen/2012,2012,16,eredivisie,18,34,1,0,0,7,7,4,4,22,16,DWWWWWLDLDLWLDW,4,2,1,17,7,6,6,4,5,28,28,WWDLWWLWWDWDWWD,1,2,4,9,18,WWWDDLW,WDWLWDW
-De Graafschap,RKC Waalwijk,1-3,/match/graafschap/rkc-waalwijk/2012,2012,17,eredivisie,18,34,2,1,3,17,3,3,10,15,36,LDDLWWLWDWLWLLLW,2,0,6,9,17,14,4,3,9,14,27,DWLWLLWWLWWDDLWL,2,1,5,5,14,LLWLWLLL,WLLWWWDW
-Heracles,Vitesse,0-1,/match/heracles/vitesse/2012,2012,17,eredivisie,18,34,2,0,1,10,5,5,6,27,24,DWDWLDDWWLLWDWWW,4,2,2,17,8,6,7,5,4,22,16,DWWWWWLDLDLWLDWD,3,2,3,5,9,WDLWWLDW,DWWLLLWD
-Roda JC,Excelsior,7-0,/match/roda-jc/excelsior/2012,2012,17,eredivisie,18,34,0,7,0,11,7,0,9,22,38,WWLWWWWWWWLLLWLW,5,0,3,16,15,18,1,5,10,9,34,LWDWLWLDWLWDDDWL,0,2,5,4,18,WLWWWLLW,WWWDWDW
-NEC Nijmegen,VVV Venlo,2-0,/match/nec/vvv/2012,2012,17,eredivisie,18,34,0,2,0,15,4,2,10,15,27,DWWWWLWLLWWLLLDW,3,0,5,9,12,16,2,4,10,16,40,DWDWDLWLWWWDWLWW,0,0,7,3,26,WWLLLWLL,WWWWWWW
-Groningen,Utrecht,1-0,/match/fc-groningen/fc-utrecht/2012,2012,17,eredivisie,18,34,0,1,0,7,6,5,5,28,28,WWDLWWLWWDWDWWDD,5,2,1,19,10,13,4,5,7,28,34,DDWWLDWWWLWWDWLD,1,2,5,7,13,WLWWDWWD,DWLWWWDW
-Ajax,ADO Den Haag,4-0,/match/ajax/ado-den-haag/2012,2012,17,eredivisie,18,34,0,4,0,4,8,6,2,42,23,LWDWLDDWDDLWDLWL,3,4,0,19,9,9,6,3,7,22,27,DWLLLWWLWWWWDDWW,2,1,5,12,21,WWDDDDW,WLWLWWWD
-NAC Breda,AZ Alkmaar,2-1,/match/nac-breda/az/2012,2012,17,eredivisie,18,34,0,2,1,12,5,3,8,22,27,LWDWLLWWWWWWDDWW,4,2,2,12,9,1,12,2,2,35,13,WWWLWLWLDWLWDWWW,4,2,2,12,11,LDLWWWWD,WLLLDLDW
-Feyenoord,Twente 1965,3-2,/match/feyenoord/fc-twente-1965/2012,2012,17,eredivisie,18,34,0,3,2,8,8,4,4,31,20,LWDDLWWLWDWLLLWD,4,1,2,15,6,3,9,6,1,41,15,LWLWWWDDLDDWDDLW,4,3,1,20,8,WDWLWLW,LLWDLDDL
-Heerenveen,PSV,1-5,/match/heerenveen/psv/2012,2012,17,eredivisie,18,34,2,1,5,5,7,7,2,38,23,DWLDWLDDDLWLDDWL,3,4,1,18,11,2,10,4,2,43,18,WWLWDDWLWDDWLWWW,3,3,2,15,12,DLWDDWDW,WLDLDDLW
-ADO Den Haag,Roda JC,3-3,/match/ado-den-haag/roda-jc/2012,2012,18,eredivisie,18,34,1,3,3,12,6,3,8,22,31,DWLLLWWLWWWWDDWWW,4,2,2,10,6,9,8,0,9,29,38,WWLWWWWWWWLLLWLWW,2,0,6,6,23,DLLWWDWW,WWWWWLLW
-De Graafschap,Heerenveen,0-2,/match/graafschap/heerenveen/2012,2012,18,eredivisie,18,34,2,0,2,17,3,3,11,16,39,LDDLWWLWDWLWLLLWL,2,0,7,10,20,8,7,7,3,39,28,DWLDWLDDDLWLDDWLL,4,3,1,20,12,LLWLWLLLL,WDLDLLDL
-Excelsior,NAC Breda,3-0,/match/excelsior/nac-breda/2012,2012,18,eredivisie,18,34,0,3,0,18,1,5,11,9,41,LWDWLWLDWLWDDDWLW,1,3,5,5,16,10,6,3,8,24,28,LWDWLLWWWWWWDDWWW,1,1,6,10,18,LDLLLWDDL,WWLWWDWW
-Twente 1965,RKC Waalwijk,5-0,/match/fc-twente-1965/rkc-waalwijk/2012,2012,18,eredivisie,18,34,0,5,0,3,9,6,2,43,18,LWLWWWDDLDDWDDLWW,5,3,0,21,7,15,5,3,9,17,28,DWLWLLWWLWWDDLWLL,3,1,5,8,15,WWWDDWDW,WLLWWWDWL
-Vitesse,NEC Nijmegen,0-1,/match/vitesse/nec/2012,2012,18,eredivisie,18,34,2,0,1,7,8,5,4,23,16,DWWWWWLDLDLWLDWDL,4,3,1,17,7,14,5,2,10,17,27,DWWWWLWLLWWLLLDWW,1,2,5,6,15,WWWDDLWD,DWWWWLDW
-VVV Venlo,Feyenoord,2-1,/match/vvv/feyenoord/2012,2012,18,eredivisie,18,34,0,2,1,16,2,4,11,16,42,DWDWDLWLWWWDWLWWW,2,4,3,13,14,6,9,4,4,34,22,LWDDLWWLWDWLLLWDW,4,3,2,16,14,DDDLLWDLW,LDLWDWLLD
-AZ Alkmaar,Ajax,1-1,/match/az/ajax/2012,2012,18,eredivisie,18,34,1,1,1,1,12,2,3,36,15,WWWLWLWLDWLWDWWWW,8,0,0,23,2,4,9,6,2,46,23,LWDWLDDWDDLWDLWLW,5,2,2,23,14,WWWWWWWW,LDLDWLWLL
-Groningen,Heracles,2-1,/match/fc-groningen/heracles/2012,2012,18,eredivisie,18,34,0,2,1,5,7,5,5,29,28,WWDLWWLWWDWDWWDDW,6,2,1,20,10,11,5,5,7,27,25,DWDWLDDWWLLWDWWWL,1,3,4,10,16,WLWWDWWDW,DWDDLWWW
-Utrecht,PSV,1-1,/match/fc-utrecht/psv/2012,2012,18,eredivisie,18,34,1,1,1,13,4,5,8,28,35,DDWWLDWWWLWWDWLDW,3,3,2,21,21,2,11,4,2,48,19,WWLWDDWLWDDWLWWWL,4,3,2,20,13,DWDWLWLD,WLDLDDLWL
-PSV,Vitesse,3-1,/match/psv/vitesse/2012,2012,19,eredivisie,18,34,0,3,1,2,11,5,2,49,20,WWLWDDWLWDDWLWWWLD,7,1,0,28,6,8,8,5,5,23,17,DWWWWWLDLDLWLDWDLL,4,2,3,6,9,WWDWWWWW,DWWLLLWDL
-Heerenveen,Utrecht,2-0,/match/heerenveen/fc-utrecht/2012,2012,19,eredivisie,18,34,0,2,0,7,8,7,3,41,28,DWLDWLDDDLWLDDWLLL,3,4,2,19,16,13,4,6,8,29,36,DDWWLDWWWLWWDWLDWD,1,2,6,7,14,DLWDDWDWL,DWLWWWDWW
-NAC Breda,De Graafschap,1-1,/match/nac-breda/graafschap/2012,2012,19,eredivisie,18,34,1,1,1,11,6,3,9,24,31,LWDWLLWWWWWWDDWWWW,5,2,2,14,10,18,3,3,12,16,41,LDDLWWLWDWLWLLLWLL,1,3,4,6,19,LDLWWWWDW,DDWWDWLW
-Heracles,Excelsior,3-0,/match/heracles/excelsior/2012,2012,19,eredivisie,18,34,0,3,0,12,5,5,8,28,27,DWDWLDDWWLLWDWWWLW,4,2,3,17,9,17,2,5,11,12,41,LWDWLWLDWLWDDDWLWW,0,2,6,4,25,WDLWWLDWL,WWWDWDWW
-Roda JC,AZ Alkmaar,2-0,/match/roda-jc/az/2012,2012,19,eredivisie,18,34,0,2,0,9,8,1,9,32,41,WWLWWWWWWWLLLWLWWD,6,0,3,23,15,1,12,3,3,37,16,WWWLWLWLDWLWDWWWWD,4,2,3,13,13,WLWWWLLWW,WLLLDLDWW
-Feyenoord,Ajax,4-2,/match/feyenoord/ajax/2012,2012,19,eredivisie,18,34,0,4,2,6,9,4,5,35,24,LWDDLWWLWDWLLLWDWW,5,1,2,18,8,4,9,7,2,47,24,LWDWLDDWDDLWDLWLWD,5,3,2,24,15,WDWLWLWW,LDLDWLWLLD
-RKC Waalwijk,VVV Venlo,4-0,/match/rkc-waalwijk/vvv/2012,2012,19,eredivisie,18,34,0,4,0,16,5,3,10,17,33,DWLWLLWWLWWDDLWLLW,2,2,4,9,13,15,3,4,11,18,43,DWDWDLWLWWWDWLWWWW,0,0,8,3,28,DWLWLDLL,WWWWWWWW
-Twente 1965,Groningen,4-1,/match/fc-twente-1965/fc-groningen/2012,2012,19,eredivisie,18,34,0,4,1,3,10,6,2,48,18,LWLWWWDDLDDWDDLWWW,6,3,0,26,7,5,8,5,5,31,29,WWDLWWLWWDWDWWDDWW,1,3,4,9,18,WWWDDWDWW,WDWLWDWD
-NEC Nijmegen,ADO Den Haag,2-0,/match/nec/ado-den-haag/2012,2012,19,eredivisie,18,34,0,2,0,14,6,2,10,18,27,DWWWWLWLLWWLLLDWWL,4,0,5,11,12,10,6,4,8,25,34,DWLLLWWLWWWWDDWWWD,2,1,6,12,25,WWLLLWLLW,WLWLWWWDW
-Heerenveen,Roda JC,4-3,/match/heerenveen/roda-jc/2012,2012,20,eredivisie,18,34,0,4,3,7,9,7,3,43,28,DWLDWLDDDLWLDDWLLLW,4,4,2,21,16,8,9,1,9,34,41,WWLWWWWWWWLLLWLWWDW,2,1,6,9,26,DLWDDWDWLW,WWWWWLLWD
-Excelsior,VVV Venlo,3-1,/match/excelsior/vvv/2012,2012,20,eredivisie,18,34,0,3,1,17,2,5,12,12,44,LWDWLWLDWLWDDDWLWWW,2,3,5,8,16,16,3,4,12,18,47,DWDWDLWLWWWDWLWWWWW,0,0,9,3,32,LDLLLWDDLW,WWWWWWWWW
-Vitesse,NAC Breda,1-0,/match/vitesse/nac-breda/2012,2012,20,eredivisie,18,34,0,1,0,9,8,5,6,24,20,DWWWWWLDLDLWLDWDLLW,4,3,2,17,8,11,6,4,9,25,32,LWDWLLWWWWWWDDWWWWD,1,1,7,10,21,WWWDDLWDL,WWLWWDWWW
-Ajax,Utrecht,0-2,/match/ajax/fc-utrecht/2012,2012,20,eredivisie,18,34,2,0,2,4,9,7,3,49,28,LWDWLDDWDDLWDLWLWDW,4,4,0,23,9,14,4,6,9,29,38,DDWWLDWWWLWWDWLDWDW,1,2,7,7,16,WWDDDDWW,DWLWWWDWWW
-Heracles,PSV,1-1,/match/heracles/psv/2012,2012,20,eredivisie,18,34,1,1,1,10,6,5,8,31,27,DWDWLDDWWLLWDWWWLWW,5,2,3,20,9,1,12,5,2,52,21,WWLWDDWLWDDWLWWWLDW,4,4,2,21,14,WDLWWLDWLW,WLDLDDLWLD
-NEC Nijmegen,Feyenoord,0-2,/match/nec/feyenoord/2012,2012,20,eredivisie,18,34,2,0,2,13,7,2,10,20,27,DWWWWLWLLWWLLLDWWLW,5,0,5,13,12,6,10,4,5,39,26,LWDDLWWLWDWLLLWDWWW,4,3,3,17,16,WWLLLWLLWW,LDLWDWLLDW
-Groningen,RKC Waalwijk,0-3,/match/fc-groningen/rkc-waalwijk/2012,2012,20,eredivisie,18,34,2,0,3,5,8,5,6,32,33,WWDLWWLWWDWDWWDDWWW,7,2,1,22,11,15,6,3,10,21,33,DWLWLLWWLWWDDLWLLWW,3,1,6,8,20,WLWWDWWDWW,WLLWWWDWLW
-ADO Den Haag,AZ Alkmaar,0-6,/match/ado-den-haag/az/2012,2012,20,eredivisie,18,34,2,0,6,12,6,4,9,25,36,DWLLLWWLWWWWDDWWWDW,4,3,2,13,9,3,12,3,4,37,18,WWWLWLWLDWLWDWWWWDW,4,2,4,13,15,DLLWWDWWD,WLLLDLDWWW
-De Graafschap,Twente 1965,1-2,/match/graafschap/fc-twente-1965/2012,2012,20,eredivisie,18,34,2,1,2,18,3,4,12,17,42,LDDLWWLWDWLWLLLWLLD,2,0,8,10,22,2,11,6,2,52,19,LWLWWWDDLDDWDDLWWWW,4,3,2,22,11,LLWLWLLLLL,LLWDLDDLW
-Twente 1965,Heracles,2-3,/match/fc-twente-1965/heracles/2012,2012,21,eredivisie,18,34,2,2,3,2,12,6,2,54,20,LWLWWWDDLDDWDDLWWWWL,7,3,0,30,8,10,6,6,8,32,28,DWDWLDDWWLLWDWWWLWWD,1,3,5,11,18,WWWDDWDWWW,DWDDLWWWW
-AZ Alkmaar,Excelsior,2-0,/match/az/excelsior/2012,2012,21,eredivisie,18,34,0,2,0,3,13,3,4,43,18,WWWLWLWLDWLWDWWWWDWL,8,1,0,24,3,17,3,5,12,15,45,LWDWLWLDWLWDDDWLWWWW,0,2,7,4,28,WWWWWWWWD,WWWDWDWWW
-VVV Venlo,Groningen,2-0,/match/vvv/fc-groningen/2012,2012,21,eredivisie,18,34,0,2,0,16,3,4,13,19,50,DWDWDLWLWWWDWLWWWWWW,3,4,3,15,15,7,8,5,7,32,36,WWDLWWLWWDWDWWDDWWWL,1,3,5,10,22,DDDLLWDLWW,WDWLWDWDW
-Roda JC,NEC Nijmegen,1-0,/match/roda-jc/nec/2012,2012,21,eredivisie,18,34,0,1,0,9,9,1,10,37,45,WWLWWWWWWWLLLWLWWDWW,7,0,3,25,15,13,7,2,11,20,29,DWWWWLWLLWWLLLDWWLWL,2,2,5,7,15,WLWWWLLWWW,DWWWWLDWL
-NAC Breda,Ajax,0-2,/match/nac-breda/ajax/2012,2012,21,eredivisie,18,34,2,0,2,11,6,4,10,25,33,LWDWLLWWWWWWDDWWWWDW,5,3,2,15,11,6,9,7,4,49,30,LWDWLDDWDDLWDLWLWDWL,5,3,3,26,19,LDLWWWWDWD,LDLDWLWLLDW
-Utrecht,ADO Den Haag,1-1,/match/fc-utrecht/ado-den-haag/2012,2012,21,eredivisie,18,34,1,1,1,14,5,6,9,31,38,DDWWLDWWWLWWDWLDWDWL,3,4,2,22,22,12,6,4,10,25,42,DWLLLWWLWWWWDDWWWDWL,2,1,7,12,27,DWDWLWLDD,WLWLWWWDWW
-PSV,De Graafschap,4-1,/match/psv/graafschap/2012,2012,21,eredivisie,18,34,0,4,1,1,12,6,2,53,22,WWLWDDWLWDDWLWWWLDWD,8,1,0,31,7,18,3,4,13,18,44,LDDLWWLWDWLWLLLWLLDL,1,4,4,7,20,WWDWWWWWW,DDWWDWLWD
-RKC Waalwijk,Heerenveen,0-1,/match/rkc-waalwijk/heerenveen/2012,2012,21,eredivisie,18,34,2,0,1,15,7,3,10,24,33,DWLWLLWWLWWDDLWLLWWL,3,2,4,13,13,4,10,7,3,47,31,DWLDWLDDDLWLDDWLLLWW,5,3,1,22,12,DWLWLDLLW,WDLDLLDLL
-Feyenoord,Vitesse,3-1,/match/feyenoord/vitesse/2012,2012,21,eredivisie,18,34,0,3,1,5,11,4,5,41,26,LWDDLWWLWDWLLLWDWWWL,6,1,2,22,10,8,9,5,6,25,20,DWWWWWLDLDLWLDWDLLWW,4,2,4,7,12,WDWLWLWWW,DWWLLLWDLW
-Heerenveen,NAC Breda,1-0,/match/heerenveen/nac-breda/2012,2012,22,eredivisie,18,34,0,1,0,4,11,7,3,48,31,DWLDWLDDDLWLDDWLLLWWL,5,4,2,25,19,11,6,4,11,25,35,LWDWLLWWWWWWDDWWWWDWL,1,1,8,10,22,DLWDDWDWLWW,WWLWWDWWWW
-Feyenoord,RKC Waalwijk,1-1,/match/feyenoord/rkc-waalwijk/2012,2012,22,eredivisie,18,34,1,1,1,5,12,4,5,44,27,LWDDLWWLWDWLLLWDWWWLW,7,1,2,25,11,15,7,3,11,24,34,DWLWLLWWLWWDDLWLLWWLL,4,1,6,11,20,WDWLWLWWWW,WLLWWWDWLWL
-ADO Den Haag,Excelsior,1-1,/match/ado-den-haag/excelsior/2012,2012,22,eredivisie,18,34,1,1,1,12,6,5,10,26,43,DWLLLWWLWWWWDDWWWDWLD,4,3,3,13,15,17,3,5,13,15,47,LWDWLWLDWLWDDDWLWWWWW,0,2,8,4,30,DLLWWDWWDL,WWWDWDWWWW
-De Graafschap,VVV Venlo,1-4,/match/graafschap/vvv/2012,2012,22,eredivisie,18,34,2,1,4,18,3,4,14,19,48,LDDLWWLWDWLWLLLWLLDLW,2,0,9,11,24,16,4,4,13,21,50,DWDWDLWLWWWDWLWWWWWWW,0,0,10,4,35,LLWLWLLLLLL,WWWWWWWWWW
-Heracles,Roda JC,2-1,/match/heracles/roda-jc/2012,2012,22,eredivisie,18,34,0,2,1,10,7,6,8,35,30,DWDWLDDWWLLWDWWWLWWDL,5,3,3,21,10,8,10,1,10,38,45,WWLWWWWWWWLLLWLWWDWWW,2,1,7,12,30,WDLWWLDWLWD,WWWWWLLWDW
-Groningen,PSV,3-0,/match/fc-groningen/psv/2012,2012,22,eredivisie,18,34,0,3,0,7,8,5,8,32,38,WWDLWWLWWDWDWWDDWWWLW,7,2,2,22,14,1,13,6,2,57,23,WWLWDDWLWDDWLWWWLDWDW,4,5,2,22,15,WLWWDWWDWWL,WLDLDDLWLDD
-Ajax,NEC Nijmegen,4-1,/match/ajax/nec/2012,2012,22,eredivisie,18,34,0,4,1,6,10,7,4,51,30,LWDWLDDWDDLWDLWLWDWLL,4,4,1,23,11,14,7,2,12,20,30,DWWWWLWLLWWLLLDWWLWLW,2,2,6,7,16,WWDDDDWWL,DWWWWLDWLW
-Utrecht,AZ Alkmaar,3-0,/match/fc-utrecht/az/2012,2012,22,eredivisie,18,34,0,3,0,13,5,7,9,32,39,DDWWLDWWWLWWDWLDWDWLD,3,5,2,23,23,2,14,3,4,45,18,WWWLWLWLDWLWDWWWWDWLW,5,2,4,19,15,DWDWLWLDDD,WLLLDLDWWWL
-Vitesse,Twente 1965,1-4,/match/vitesse/fc-twente-1965/2012,2012,22,eredivisie,18,34,2,1,4,9,9,5,7,26,23,DWWWWWLDLDLWLDWDLLWWW,5,3,2,18,8,3,12,6,3,56,23,LWLWWWDDLDDWDDLWWWWLL,5,3,2,24,12,WWWDDLWDLW,LLWDLDDLWL
-RKC Waalwijk,Vitesse,1-0,/match/rkc-waalwijk/vitesse/2012,2012,23,eredivisie,18,34,0,1,0,15,7,4,11,25,35,DWLWLLWWLWWDDLWLLWWLLD,3,2,5,13,14,10,9,5,8,27,27,DWWWWWLDLDLWLDWDLLWWWL,4,2,5,8,15,DWLWLDLLWL,DWWLLLWDLWW
-NAC Breda,ADO Den Haag,4-0,/match/nac-breda/ado-den-haag/2012,2012,23,eredivisie,18,34,0,4,0,13,6,4,12,25,36,LWDWLLWWWWWWDDWWWWDWLW,5,3,3,15,13,12,6,6,10,27,44,DWLLLWWLWWWWDDWWWDWLDD,2,2,7,13,28,LDLWWWWDWDL,WLWLWWWDWWD
-VVV Venlo,Heracles,3-1,/match/vvv/heracles/2012,2012,23,eredivisie,18,34,0,3,1,16,5,4,13,25,51,DWDWDLWLWWWDWLWWWWWWWL,4,4,3,17,15,8,8,6,8,37,31,DWDWLDDWWLLWDWWWLWWDLW,2,3,5,14,20,DDDLLWDLWWW,DWDDLWWWWL
-Roda JC,De Graafschap,0-2,/match/roda-jc/graafschap/2012,2012,23,eredivisie,18,34,2,0,2,9,10,1,11,39,47,WWLWWWWWWWLLLWLWWDWWWW,8,0,3,26,15,18,3,4,15,20,52,LDDLWWLWDWLWLLLWLLDLWL,1,4,5,8,24,WLWWWLLWWWW,DDWWDWLWDW
-NEC Nijmegen,Groningen,4-0,/match/nec/fc-groningen/2012,2012,23,eredivisie,18,34,0,4,0,14,7,2,13,21,34,DWWWWLWLLWWLLLDWWLWLWW,5,0,6,13,14,7,9,5,8,35,38,WWDLWWLWWDWDWWDDWWWLWW,1,3,6,10,24,WWLLLWLLWWL,WDWLWDWDWW
-Excelsior,Ajax,1-4,/match/excelsior/ajax/2012,2012,23,eredivisie,18,34,2,1,4,17,3,6,13,16,48,LWDWLWLDWLWDDDWLWWWWWD,3,3,5,11,17,6,11,7,4,55,31,LWDWLDDWDDLWDLWLWDWLLW,6,3,3,28,19,LDLLLWDDLWW,LDLDWLWLLDWL
-Twente 1965,Utrecht,1-0,/match/fc-twente-1965/fc-utrecht/2012,2012,23,eredivisie,18,34,0,1,0,3,13,6,3,60,24,LWLWWWDDLDDWDDLWWWWLLL,7,3,1,32,11,11,6,7,9,35,39,DDWWLDWWWLWWDWLDWDWLDW,2,2,7,9,16,WWWDDWDWWWL,DWLWWWDWWWL
-PSV,Feyenoord,3-2,/match/psv/feyenoord/2012,2012,23,eredivisie,18,34,0,3,2,1,13,6,3,57,26,WWLWDDWLWDDWLWWWLDWDWW,9,1,0,35,8,5,12,5,5,45,28,LWDDLWWLWDWLLLWDWWWLWD,5,3,3,19,16,WWDWWWWWWW,LDLWDWLLDWL
-AZ Alkmaar,Heerenveen,3-3,/match/az/heerenveen/2012,2012,23,eredivisie,18,34,1,3,3,2,14,3,5,45,21,WWWLWLWLDWLWDWWWWDWLWW,9,1,0,26,3,4,12,7,3,49,31,DWLDWLDDDLWLDDWLLLWWLW,6,3,1,23,12,WWWWWWWWDW,WDLDLLDLLL
-ADO Den Haag,Heerenveen,0-0,/match/ado-den-haag/heerenveen/2012,2012,24,eredivisie,18,34,1,0,0,13,6,6,11,27,48,DWLLLWWLWWWWDDWWWDWLDDW,4,4,3,14,16,4,12,8,3,52,34,DWLDWLDDDLWLDDWLLLWWLWD,6,4,1,26,15,DLLWWDWWDLD,WDLDLLDLLLD
-VVV Venlo,NAC Breda,2-1,/match/vvv/nac-breda/2012,2012,24,eredivisie,18,34,0,2,1,16,6,4,13,28,52,DWDWDLWLWWWDWLWWWWWWWLW,5,4,3,20,16,11,7,4,12,29,36,LWDWLLWWWWWWDDWWWWDWLWW,1,1,9,10,23,DDDLLWDLWWWW,WWLWWDWWWWW
-RKC Waalwijk,Excelsior,1-0,/match/rkc-waalwijk/excelsior/2012,2012,24,eredivisie,18,34,0,1,0,15,8,4,11,26,35,DWLWLLWWLWWDDLWLLWWLLDW,4,2,5,14,14,17,3,6,14,17,52,LWDWLWLDWLWDDDWLWWWWWDL,0,3,8,5,31,DWLWLDLLWLW,WWWDWDWWWWD
-AZ Alkmaar,Heracles,3-1,/match/az/heracles/2012,2012,24,eredivisie,18,34,0,3,1,3,14,4,5,48,24,WWWLWLWLDWLWDWWWWDWLWWD,9,2,0,29,6,8,8,6,9,38,34,DWDWLDDWWLLWDWWWLWWDLWW,2,3,6,15,23,WWWWWWWWDWD,DWDDLWWWWLW
-Vitesse,De Graafschap,2-0,/match/vitesse/graafschap/2012,2012,24,eredivisie,18,34,0,2,0,10,9,5,9,27,28,DWWWWWLDLDLWLDWDLLWWWLW,5,3,3,19,12,18,4,4,15,22,52,LDDLWWLWDWLWLLLWLLDLWLL,2,4,5,10,24,WWWDDLWDLWL,DDWWDWLWDWL
-Ajax,Roda JC,4-1,/match/ajax/roda-jc/2012,2012,24,eredivisie,18,34,0,4,1,6,12,7,4,59,32,LWDWLDDWDDLWDLWLWDWLLWL,5,4,1,27,12,9,10,1,12,39,49,WWLWWWWWWWLLLWLWWDWWWWL,2,1,8,13,32,WWDDDDWWLW,WWWWWLLWDWW
-Utrecht,NEC Nijmegen,0-0,/match/fc-utrecht/nec/2012,2012,24,eredivisie,18,34,1,0,0,12,6,7,10,35,40,DDWWLDWWWLWWDWLDWDWLDWW,4,5,2,26,23,14,8,2,13,25,34,DWWWWLWLLWWLLLDWWLWLWWW,2,2,7,8,20,DWDWLWLDDDW,DWWWWLDWLWW
-Feyenoord,Groningen,1-0,/match/feyenoord/fc-groningen/2012,2012,24,eredivisie,18,34,0,1,0,5,12,5,6,47,31,LWDDLWWLWDWLLLWDWWWLWDW,7,2,2,26,12,7,9,5,9,35,42,WWDLWWLWWDWDWWDDWWWLWWW,1,3,7,10,28,WDWLWLWWWWD,WDWLWDWDWWW
-PSV,Twente 1965,2-6,/match/psv/fc-twente-1965/2012,2012,24,eredivisie,18,34,2,2,6,1,14,6,3,60,28,WWLWDDWLWDDWLWWWLDWDWWW,10,1,0,38,10,2,14,6,3,61,24,LWLWWWDDLDDWDDLWWWWLLLW,6,3,2,28,13,WWDWWWWWWWW,LLWDLDDLWLL
-Roda JC,VVV Venlo,3-1,/match/roda-jc/vvv/2012,2012,25,eredivisie,18,34,0,3,1,9,10,1,13,40,53,WWLWWWWWWWLLLWLWWDWWWWLW,8,0,4,26,17,13,7,4,13,30,53,DWDWDLWLWWWDWLWWWWWWWLWW,1,0,10,8,36,WLWWWLLWWWWL,WWWWWWWWWWL
-Groningen,Vitesse,1-3,/match/fc-groningen/vitesse/2012,2012,25,eredivisie,18,34,2,1,3,7,9,5,10,35,43,WWDLWWLWWDWDWWDDWWWLWWWW,8,2,2,25,14,8,10,5,9,29,28,DWWWWWLDLDLWLDWDLLWWWLWW,4,2,6,8,16,WLWWDWWDWWLW,DWWLLLWDLWWW
-Heracles,ADO Den Haag,0-2,/match/heracles/ado-den-haag/2012,2012,25,eredivisie,18,34,2,0,2,10,8,6,10,39,37,DWDWLDDWWLLWDWWWLWWDLWWW,6,3,3,23,11,15,6,7,11,27,48,DWLLLWWLWWWWDDWWWDWLDDWD,2,2,8,13,32,WDLWWLDWLWDW,WLWLWWWDWWDW
-Heerenveen,Excelsior,4-2,/match/heerenveen/excelsior/2012,2012,25,eredivisie,18,34,0,4,2,4,12,9,3,52,34,DWLDWLDDDLWLDDWLLLWWLWDD,6,4,2,26,19,17,3,6,15,17,53,LWDWLWLDWLWDDDWLWWWWWDLW,0,3,9,5,32,DLWDDWDWLWWW,WWWDWDWWWWDW
-NAC Breda,PSV,3-1,/match/nac-breda/psv/2012,2012,25,eredivisie,18,34,0,3,1,14,7,4,13,30,38,LWDWLLWWWWWWDDWWWWDWLWWW,6,3,3,19,13,2,14,6,4,62,34,WWLWDDWLWDDWLWWWLDWDWWWL,4,5,3,22,18,LDLWWWWDWDLW,WLDLDDLWLDDW
-NEC Nijmegen,Twente 1965,3-1,/match/nec/fc-twente-1965/2012,2012,25,eredivisie,18,34,0,3,1,16,8,3,13,25,34,DWWWWLWLLWWLLLDWWLWLWWWD,6,0,6,17,14,3,15,6,3,67,26,LWLWWWDDLDDWDDLWWWWLLLWL,7,3,2,34,15,WWLLLWLLWWLW,LLWDLDDLWLLL
-Feyenoord,Utrecht,1-1,/match/feyenoord/fc-utrecht/2012,2012,25,eredivisie,18,34,1,1,1,5,13,5,6,48,31,LWDDLWWLWDWLLLWDWWWLWDWW,8,2,2,27,12,11,6,8,10,35,40,DDWWLDWWWLWWDWLDWDWLDWWD,2,2,8,9,17,WDWLWLWWWWDW,DWLWWWDWWWLW
-Ajax,RKC Waalwijk,3-0,/match/ajax/rkc-waalwijk/2012,2012,25,eredivisie,18,34,0,3,0,6,13,7,4,63,33,LWDWLDDWDDLWDLWLWDWLLWLW,6,4,1,31,13,12,9,4,11,27,35,DWLWLLWWLWWDDLWLLWWLLDWW,4,2,6,12,21,WWDDDDWWLWW,WLLWWWDWLWLD
-De Graafschap,AZ Alkmaar,0-2,/match/graafschap/az/2012,2012,25,eredivisie,18,34,2,0,2,18,4,4,16,22,54,LDDLWWLWDWLWLLLWLLDLWLLW,2,0,10,12,28,1,15,4,5,51,25,WWWLWLWLDWLWDWWWWDWLWWDW,5,2,5,19,18,LLWLWLLLLLLL,WLLLDLDWWWLW
-Vitesse,Heracles,2-0,/match/vitesse/heracles/2012,2012,26,eredivisie,18,34,0,2,0,7,11,5,9,32,29,DWWWWWLDLDLWLDWDLLWWWLWWL,6,3,3,21,12,11,8,6,11,39,39,DWDWLDDWWLLWDWWWLWWDLWWWL,2,3,7,16,26,WWWDDLWDLWLW,DWDDLWWWWLWW
-RKC Waalwijk,De Graafschap,1-0,/match/rkc-waalwijk/graafschap/2012,2012,26,eredivisie,18,34,0,1,0,14,9,4,12,27,38,DWLWLLWWLWWDDLWLLWWLLDWWW,5,2,5,15,14,18,4,4,17,22,56,LDDLWWLWDWLWLLLWLLDLWLLWL,2,4,6,10,26,DWLWLDLLWLWW,DDWWDWLWDWLW
-Excelsior,Roda JC,2-1,/match/excelsior/roda-jc/2012,2012,26,eredivisie,18,34,0,2,1,17,3,6,16,19,57,LWDWLWLDWLWDDDWLWWWWWDLWW,3,3,6,12,21,9,11,1,13,43,54,WWLWWWWWWWLLLWLWWDWWWWLWW,2,1,9,14,36,LDLLLWDDLWWL,WWWWWLLWDWWW
-VVV Venlo,NEC Nijmegen,0-2,/match/vvv/nec/2012,2012,26,eredivisie,18,34,2,0,2,15,7,4,14,31,56,DWDWDLWLWWWDWLWWWWWWWLWWW,6,4,3,22,17,13,9,3,13,28,35,DWWWWLWLLWWLLLDWWLWLWWWDW,2,3,7,8,20,DDDLLWDLWWWWW,DWWWWLDWLWWD
-ADO Den Haag,Ajax,0-2,/match/ado-den-haag/ajax/2012,2012,26,eredivisie,18,34,2,0,2,16,7,7,11,29,48,DWLLLWWLWWWWDDWWWDWLDDWDL,4,5,3,14,16,5,14,7,4,66,33,LWDWLDDWDDLWDLWLWDWLLWLWW,7,3,3,32,20,DLLWWDWWDLDD,LDLDWLWLLDWLL
-PSV,Heerenveen,5-1,/match/psv/heerenveen/2012,2012,26,eredivisie,18,34,0,5,1,3,14,6,5,63,37,WWLWDDWLWDDWLWWWLDWDWWWLW,10,1,1,40,16,4,13,9,3,56,36,DWLDWLDDDLWLDDWLLLWWLWDDW,6,5,1,26,15,WWDWWWWWWWWL,WDLDLLDLLLDD
-Twente 1965,Feyenoord,0-2,/match/fc-twente-1965/feyenoord/2012,2012,26,eredivisie,18,34,2,0,2,2,15,6,4,68,29,LWLWWWDDLDDWDDLWWWWLLLWLW,8,3,1,33,11,6,13,6,6,49,32,LWDDLWWLWDWLLLWDWWWLWDWWD,5,3,4,21,19,WWWDDWDWWWLW,LDLWDWLLDWLW
-Utrecht,Groningen,3-1,/match/fc-utrecht/fc-groningen/2012,2012,26,eredivisie,18,34,0,3,1,12,6,9,10,36,41,DDWWLDWWWLWWDWLDWDWLDWWDD,4,6,2,26,23,8,9,5,11,36,46,WWDLWWLWWDWDWWDDWWWLWWWWL,1,3,8,10,29,DWDWLWLDDDWD,WDWLWDWDWWWW
-AZ Alkmaar,NAC Breda,0-0,/match/az/nac-breda/2012,2012,26,eredivisie,18,34,1,0,0,1,16,4,5,53,25,WWWLWLWLDWLWDWWWWDWLWWDWL,10,2,0,32,7,10,8,4,13,33,39,LWDWLLWWWWWWDDWWWWDWLWWWW,1,1,10,11,25,WWWWWWWWDWDW,WWLWWDWWWWWW
-Excelsior,Groningen,0-1,/match/excelsior/fc-groningen/2012,2012,27,eredivisie,18,34,2,0,1,17,4,6,16,21,58,LWDWLWLDWLWDDDWLWWWWWDLWWW,4,3,6,14,22,8,9,5,12,37,49,WWDLWWLWWDWDWWDDWWWLWWWWLW,1,3,9,11,32,LDLLLWDDLWWLW,WDWLWDWDWWWWW
-Roda JC,Vitesse,3-1,/match/roda-jc/vitesse/2012,2012,27,eredivisie,18,34,0,3,1,9,11,1,14,44,56,WWLWWWWWWWLLLWLWWDWWWWLWWW,9,0,4,29,18,7,12,5,9,34,29,DWWWWWLDLDLWLDWDLLWWWLWWLW,5,2,6,11,17,WLWWWLLWWWWLW,DWWLLLWDLWWWL
-NAC Breda,NEC Nijmegen,1-1,/match/nac-breda/nec/2012,2012,27,eredivisie,18,34,1,1,1,12,8,5,13,33,39,LWDWLLWWWWWWDDWWWWDWLWWWWD,7,3,3,22,14,13,10,3,13,30,35,DWWWWLWLLWWLLLDWWLWLWWWDWL,3,3,7,10,20,LDLWWWWDWDLWW,DWWWWLDWLWWDL
-Heerenveen,VVV Venlo,4-1,/match/heerenveen/vvv/2012,2012,27,eredivisie,18,34,0,4,1,5,13,9,4,57,41,DWLDWLDDDLWLDDWLLLWWLWDDWW,7,4,2,30,21,15,7,4,15,31,58,DWDWDLWLWWWDWLWWWWWWWLWWWL,1,0,11,9,39,DLWDDWDWLWWWW,WWWWWWWWWWLW
-ADO Den Haag,Twente 1965,1-1,/match/ado-den-haag/fc-twente-1965/2012,2012,27,eredivisie,18,34,1,1,1,16,7,7,12,29,50,DWLLLWWLWWWWDDWWWDWLDDWDLL,4,5,4,14,18,4,15,6,5,68,31,LWLWWWDDLDDWDDLWWWWLLLWLWL,7,3,3,35,18,DLLWWDWWDLDDL,LLWDLDDLWLLLW
-AZ Alkmaar,RKC Waalwijk,1-0,/match/az/rkc-waalwijk/2012,2012,27,eredivisie,18,34,0,1,0,1,16,5,5,53,25,WWWLWLWLDWLWDWWWWDWLWWDWLD,10,3,0,32,7,11,10,4,12,28,38,DWLWLLWWLWWDDLWLLWWLLDWWWW,4,2,7,12,24,WWWWWWWWDWDWD,WLLWWWDWLWLDW
-Heracles,Utrecht,3-1,/match/heracles/fc-utrecht/2012,2012,27,eredivisie,18,34,0,3,1,14,8,6,12,39,41,DWDWLDDWWLLWDWWWLWWDLWWWLW,6,3,4,23,13,10,7,9,10,39,42,DDWWLDWWWLWWDWLDWDWLDWWDDW,2,3,8,10,18,WDLWWLDWLWDWL,DWLWWWDWWWLWD
-De Graafschap,Feyenoord,0-3,/match/graafschap/feyenoord/2012,2012,27,eredivisie,18,34,2,0,3,18,4,4,18,22,57,LDDLWWLWDWLWLLLWLLDLWLLWLW,2,0,11,12,30,6,14,6,6,51,32,LWDDLWWLWDWLLLWDWWWLWDWWDL,6,3,4,23,19,LLWLWLLLLLLLL,LDLWDWLLDWLWL
-Ajax,PSV,2-0,/match/ajax/psv/2012,2012,27,eredivisie,18,34,0,2,0,3,15,7,4,68,33,LWDWLDDWDDLWDLWLWDWLLWLWWL,7,4,1,34,13,2,15,6,5,68,38,WWLWDDWLWDDWLWWWLDWDWWWLWW,4,5,4,23,21,WWDDDDWWLWWW,WLDLDDLWLDDWW
-Utrecht,Excelsior,3-2,/match/fc-utrecht/excelsior/2012,2012,28,eredivisie,18,34,0,3,2,12,7,9,11,40,45,DDWWLDWWWLWWDWLDWDWLDWWDDWW,5,6,2,29,24,17,4,6,17,21,59,LWDWLWLDWLWDDDWLWWWWWDLWWWL,0,3,10,7,36,DWDWLWLDDDWDW,WWWDWDWWWWDWW
-Groningen,Heerenveen,1-3,/match/fc-groningen/heerenveen/2012,2012,28,eredivisie,18,34,2,1,3,9,10,5,12,38,49,WWDLWWLWWDWDWWDDWWWLWWWWLWL,8,2,3,26,17,4,14,9,4,61,42,DWLDWLDDDLWLDDWLLLWWLWDDWWW,6,5,2,27,20,WLWWDWWDWWLWL,WDLDLLDLLLDDW
-PSV,VVV Venlo,2-0,/match/psv/vvv/2012,2012,28,eredivisie,18,34,0,2,0,3,15,6,6,68,40,WWLWDDWLWDDWLWWWLDWDWWWLWWW,11,1,1,45,17,16,7,4,16,32,62,DWDWDLWLWWWDWLWWWWWWWLWWWLW,1,0,12,10,43,WWDWWWWWWWWLW,WWWWWWWWWWLWW
-Twente 1965,Roda JC,2-0,/match/fc-twente-1965/roda-jc/2012,2012,28,eredivisie,18,34,0,2,0,5,15,7,5,69,32,LWLWWWDDLDDWDDLWWWWLLLWLWLD,8,3,2,33,13,8,12,1,14,47,57,WWLWWWWWWWLLLWLWWDWWWWLWWWW,2,1,10,15,38,WWWDDWDWWWLWL,WWWWWLLWDWWWW
-Feyenoord,NAC Breda,3-1,/match/feyenoord/nac-breda/2012,2012,28,eredivisie,18,34,0,3,1,6,15,6,6,54,32,LWDDLWWLWDWLLLWDWWWLWDWWDLL,8,3,2,28,13,11,8,6,13,34,40,LWDWLLWWWWWWDDWWWWDWLWWWWDD,1,2,10,11,25,WDWLWLWWWWDWD,WWLWWDWWWWWWD
-NEC Nijmegen,De Graafschap,2-0,/match/nec/graafschap/2012,2012,28,eredivisie,18,34,0,2,0,13,10,4,13,31,36,DWWWWLWLLWWLLLDWWLWLWWWDWLD,7,0,6,20,15,18,4,4,19,22,60,LDDLWWLWDWLWLLLWLLDLWLLWLWL,2,4,7,10,27,WWLLLWLLWWLWW,DDWWDWLWDWLWW
-RKC Waalwijk,ADO Den Haag,1-0,/match/rkc-waalwijk/ado-den-haag/2012,2012,28,eredivisie,18,34,0,1,0,14,10,4,13,28,39,DWLWLLWWLWWDDLWLLWWLLDWWWWW,6,2,5,16,14,15,7,8,12,30,51,DWLLLWWLWWWWDDWWWDWLDDWDLLD,3,2,8,15,32,DWLWLDLLWLWWW,WLWLWWWDWWDWL
-Ajax,Heracles,6-0,/match/ajax/heracles/2012,2012,28,eredivisie,18,34,0,6,0,2,16,7,4,70,33,LWDWLDDWDDLWDLWLWDWLLWLWWLW,8,4,1,36,13,10,9,6,12,42,42,DWDWLDDWWLLWDWWWLWWDLWWWLWW,2,3,8,16,28,WWDDDDWWLWWWW,DWDDLWWWWLWWW
-Vitesse,AZ Alkmaar,2-2,/match/vitesse/az/2012,2012,28,eredivisie,18,34,1,2,2,7,12,5,10,35,32,DWWWWWLDLDLWLDWDLLWWWLWWLWW,7,3,3,23,12,1,17,5,5,54,25,WWWLWLWLDWLWDWWWWDWLWWDWLDW,6,2,5,21,18,WWWDDLWDLWLWW,WLLLDLDWWWLWL
-Excelsior,NEC Nijmegen,0-2,/match/excelsior/nec/2012,2012,29,eredivisie,18,34,2,0,2,17,4,6,18,23,62,LWDWLWLDWLWDDDWLWWWWWDLWWWLW,4,3,7,14,23,11,11,4,13,33,36,DWWWWLWLLWWLLLDWWLWLWWWDWLDW,3,4,7,11,21,LDLLLWDDLWWLWL,DWWWWLDWLWWDLD
-AZ Alkmaar,Twente 1965,2-2,/match/az/fc-twente-1965/2012,2012,29,eredivisie,18,34,1,2,2,1,17,6,5,56,27,WWWLWLWLDWLWDWWWWDWLWWDWLDWD,11,3,0,33,7,4,16,7,5,71,32,LWLWWWDDLDDWDDLWWWWLLLWLWLDW,7,4,3,36,19,WWWWWWWWDWDWDW,LLWDLDDLWLLLWD
-NAC Breda,Heracles,1-2,/match/nac-breda/heracles/2012,2012,29,eredivisie,18,34,2,1,2,14,8,6,14,35,43,LWDWLLWWWWWWDDWWWWDWLWWWWDDW,7,4,3,23,15,13,9,6,13,42,48,DWDWLDDWWLLWDWWWLWWDLWWWLWWW,2,3,9,16,34,LDLWWWWDWDLWWD,DWDDLWWWWLWWWW
-Roda JC,Feyenoord,0-0,/match/roda-jc/feyenoord/2012,2012,29,eredivisie,18,34,1,0,0,8,12,1,15,47,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWW,10,0,4,32,19,6,16,6,6,57,33,LWDDLWWLWDWLLLWDWWWLWDWWDLLW,7,3,4,26,19,WLWWWLLWWWWLWW,LDLWDWLLDWLWLL
-RKC Waalwijk,PSV,2-1,/match/rkc-waalwijk/psv/2012,2012,29,eredivisie,18,34,0,2,1,12,11,4,13,29,39,DWLWLLWWLWWDDLWLLWWLLDWWWWWW,7,2,5,17,14,2,16,6,6,70,40,WWLWDDWLWDDWLWWWLDWDWWWLWWWW,4,5,5,23,23,DWLWLDLLWLWWWW,WLDLDDLWLDDWWW
-Heerenveen,Ajax,0-5,/match/heerenveen/ajax/2012,2012,29,eredivisie,18,34,2,0,5,5,15,9,4,64,43,DWLDWLDDDLWLDDWLLLWWLWDDWWWL,8,4,2,34,22,3,17,7,4,76,33,LWDWLDDWDDLWDLWLWDWLLWLWWLWW,8,3,3,34,20,DLWDDWDWLWWWWW,LDLDWLWLLDWLLL
-De Graafschap,Utrecht,3-0,/match/graafschap/fc-utrecht/2012,2012,29,eredivisie,18,34,0,3,0,18,4,4,20,22,62,LDDLWWLWDWLWLLLWLLDLWLLWLWLW,2,0,12,12,33,10,8,9,11,43,47,DDWWLDWWWLWWDWLDWDWLDWWDDWWW,2,3,9,11,21,LLWLWLLLLLLLLL,DWLWWWDWWWLWDW
-VVV Venlo,Vitesse,1-3,/match/vvv/vitesse/2012,2012,29,eredivisie,18,34,2,1,3,16,7,4,17,32,64,DWDWDLWLWWWDWLWWWWWWWLWWWLWW,6,4,4,22,19,7,12,6,10,37,34,DWWWWWLDLDLWLDWDLLWWWLWWLWWD,5,2,7,12,20,DDDLLWDLWWWWWL,DWWLLLWDLWWWLW
-ADO Den Haag,Groningen,3-0,/match/ado-den-haag/fc-groningen/2012,2012,29,eredivisie,18,34,0,3,0,15,7,8,13,30,52,DWLLLWWLWWWWDDWWWDWLDDWDLLDW,4,6,4,15,19,9,10,5,13,39,52,WWDLWWLWWDWDWWDDWWWLWWWWLWLL,2,3,9,12,32,DLLWWDWWDLDDLD,WDWLWDWDWWWWWL
-PSV,AZ Alkmaar,3-2,/match/psv/az/2012,2012,30,eredivisie,18,34,0,3,2,3,16,6,7,71,42,WWLWDDWLWDDWLWWWLDWDWWWLWWWWW,12,1,1,47,17,1,17,7,5,58,29,WWWLWLWLDWLWDWWWWDWLWWDWLDWDD,6,3,5,23,20,WWDWWWWWWWWLWW,WLLLDLDWWWLWLD
-NEC Nijmegen,Heerenveen,2-4,/match/nec/heerenveen/2012,2012,30,eredivisie,18,34,2,2,4,10,12,4,13,35,36,DWWWWLWLLWWLLLDWWLWLWWWDWLDWL,8,0,6,22,15,6,15,9,5,64,48,DWLDWLDDDLWLDDWLLLWWLWDDWWWLL,7,5,2,30,21,WWLLLWLLWWLWWW,WDLDLLDLLLDDWL
-Feyenoord,Excelsior,3-0,/match/feyenoord/excelsior/2012,2012,30,eredivisie,18,34,0,3,0,5,16,7,6,57,33,LWDDLWWLWDWLLLWDWWWLWDWWDLLWD,9,3,2,31,14,17,4,6,19,23,64,LWDWLWLDWLWDDDWLWWWWWDLWWWLWL,0,3,11,9,39,WDWLWLWWWWDWDW,WWWDWDWWWWDWWW
-Twente 1965,NAC Breda,2-2,/match/fc-twente-1965/nac-breda/2012,2012,30,eredivisie,18,34,1,2,2,4,16,8,5,73,34,LWLWWWDDLDDWDDLWWWWLLLWLWLDWD,9,3,2,35,13,14,8,6,15,36,45,LWDWLLWWWWWWDDWWWWDWLWWWWDDWL,1,2,11,12,28,WWWDDWDWWWLWLW,WWLWWDWWWWWWDW
-Groningen,Roda JC,0-1,/match/fc-groningen/roda-jc/2012,2012,30,eredivisie,18,34,2,0,1,13,10,5,14,39,55,WWDLWWLWWDWDWWDDWWWLWWWWLWLLW,8,2,4,27,20,8,12,2,15,47,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWWD,2,1,11,15,40,WLWWDWWDWWLWLL,WWWWWLLWDWWWWW
-Vitesse,ADO Den Haag,1-0,/match/vitesse/ado-den-haag/2012,2012,30,eredivisie,18,34,0,1,0,7,13,6,10,40,35,DWWWWWLDLDLWLDWDLLWWWLWWLWWDL,7,4,3,25,14,15,8,8,13,33,52,DWLLLWWLWWWWDDWWWDWLDDWDLLDWW,3,2,9,15,33,WWWDDLWDLWLWWD,WLWLWWWDWWDWLW
-Ajax,De Graafschap,3-1,/match/ajax/graafschap/2012,2012,30,eredivisie,18,34,0,3,1,2,18,7,4,81,33,LWDWLDDWDDLWDLWLWDWLLWLWWLWWL,9,4,1,42,13,18,5,4,20,25,62,LDDLWWLWDWLWLLLWLLDLWLLWLWLWW,2,4,8,10,29,WWDDDDWWLWWWWW,DDWWDWLWDWLWWW
-Utrecht,VVV Venlo,4-2,/match/fc-utrecht/vvv/2012,2012,30,eredivisie,18,34,0,4,2,12,8,9,12,43,50,DDWWLDWWWLWWDWLDWDWLDWWDDWWWW,6,6,2,32,26,16,7,4,18,33,67,DWDWDLWLWWWDWLWWWWWWWLWWWLWWL,1,0,13,10,45,DWDWLWLDDDWDWW,WWWWWWWWWWLWWW
-Heracles,RKC Waalwijk,1-1,/match/heracles/rkc-waalwijk/2012,2012,30,eredivisie,18,34,1,1,1,11,10,6,13,44,49,DWDWLDDWWLLWDWWWLWWDLWWWLWWWL,7,3,4,26,14,9,12,4,13,31,40,DWLWLLWWLWWDDLWLLWWLLDWWWWWWW,4,2,8,12,25,WDLWWLDWLWDWLW,WLLWWWDWLWLDWW
-NAC Breda,Roda JC,0-3,/match/nac-breda/roda-jc/2012,2012,31,eredivisie,18,34,2,0,3,14,8,7,15,38,47,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLD,7,4,4,24,17,8,13,2,15,48,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDL,3,1,11,16,40,LDLWWWWDWDLWWDL,WWWWWLLWDWWWWWL
-Heerenveen,Vitesse,1-1,/match/heerenveen/vitesse/2012,2012,31,eredivisie,18,34,1,1,1,6,16,9,5,68,50,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLL,8,4,3,34,27,7,14,6,10,41,35,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLW,6,2,7,15,21,DLWDDWDWLWWWWWL,DWWLLLWDLWWWLWL
-De Graafschap,Heracles,2-3,/match/graafschap/heracles/2012,2012,31,eredivisie,18,34,2,2,3,18,5,4,21,26,65,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWW,3,0,12,15,33,11,10,7,13,45,50,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLD,3,3,9,18,35,LLWLWLLLLLLLLLW,DWDDLWWWWLWWWWL
-RKC Waalwijk,Utrecht,0-2,/match/rkc-waalwijk/fc-utrecht/2012,2012,31,eredivisie,18,34,2,0,2,10,12,5,13,32,41,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWD,8,2,5,19,15,9,9,9,12,47,52,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWW,2,3,10,11,24,DWLWLDLLWLWWWWW,DWLWWWDWWWLWDWW
-Excelsior,Twente 1965,0-1,/match/excelsior/fc-twente-1965/2012,2012,31,eredivisie,18,34,2,0,1,17,4,6,20,23,67,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLW,4,3,8,14,25,5,16,9,5,75,36,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDD,7,5,3,38,21,LDLLLWDDLWWLWLL,LLWDLDDLWLLLWDD
-ADO Den Haag,Feyenoord,1-2,/match/ado-den-haag/feyenoord/2012,2012,31,eredivisie,18,34,2,1,2,15,8,8,14,33,53,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWW,5,6,4,18,19,4,17,7,6,60,33,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDW,7,4,4,26,19,DLLWWDWWDLDDLDW,LDLWDWLLDWLWLLD
-AZ Alkmaar,VVV Venlo,2-1,/match/az/vvv/2012,2012,31,eredivisie,18,34,0,2,1,2,17,7,6,60,32,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDW,11,4,0,35,9,16,7,4,19,35,71,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLW,1,0,14,12,49,WWWWWWWWDWDWDWD,WWWWWWWWWWLWWWW
-PSV,NEC Nijmegen,2-1,/match/psv/nec/2012,2012,31,eredivisie,18,34,0,2,1,3,17,6,7,74,44,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWW,13,1,1,50,19,12,12,4,14,37,40,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLL,4,4,7,13,21,WWDWWWWWWWWLWWW,DWWWWLDWLWWDLDL
-Ajax,Groningen,2-0,/match/ajax/fc-groningen/2012,2012,31,eredivisie,18,34,0,2,0,1,19,7,4,84,34,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLW,10,4,1,45,14,13,10,5,15,39,56,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWL,2,3,10,12,35,WWDDDDWWLWWWWWW,WDWLWDWDWWWWWLW
-Groningen,De Graafschap,1-1,/match/fc-groningen/graafschap/2012,2012,32,eredivisie,18,34,1,1,1,13,10,5,16,39,58,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWLW,8,2,5,27,21,18,5,4,22,28,68,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWWL,2,4,9,11,32,WLWWDWWDWWLWLLL,DDWWDWLWDWLWWWW
-Heracles,Heerenveen,2-4,/match/heracles/heerenveen/2012,2012,32,eredivisie,18,34,2,2,4,10,11,7,13,48,52,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLDL,7,4,4,27,15,6,16,10,5,69,51,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLLD,8,5,2,34,23,WDLWWLDWLWDWLWD,WDLDLLDLLLDDWLL
-Vitesse,Excelsior,3-2,/match/vitesse/excelsior/2012,2012,32,eredivisie,18,34,0,3,2,7,14,7,10,42,36,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLWD,8,4,3,26,14,17,4,6,21,23,68,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLWL,0,3,12,9,42,WWWDDLWDLWLWWDW,WWWDWDWWWWDWWWW
-Utrecht,NAC Breda,1-3,/match/fc-utrecht/nac-breda/2012,2012,32,eredivisie,18,34,2,1,3,9,10,9,12,49,52,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWWL,7,6,2,36,28,14,8,7,16,38,50,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLDL,1,3,11,14,30,DWDWLWLDDDWDWWW,WWLWWDWWWWWWDWD
-VVV Venlo,ADO Den Haag,2-1,/match/vvv/ado-den-haag/2012,2012,32,eredivisie,18,34,0,2,1,16,7,4,20,36,73,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLWW,6,4,5,23,22,15,8,8,15,34,55,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWWL,3,2,10,15,34,DDDLLWDLWWWWWLL,WLWLWWWDWWDWLWW
-Roda JC,PSV,1-3,/match/roda-jc/psv/2012,2012,32,eredivisie,18,34,2,1,3,8,14,2,15,51,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDLL,10,1,4,32,19,2,18,6,7,76,45,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWWW,4,5,6,24,25,WLWWWLLWWWWLWWD,WLDLDDLWLDDWWWW
-Twente 1965,Ajax,1-2,/match/fc-twente-1965/ajax/2012,2012,32,eredivisie,18,34,2,1,2,5,17,9,5,76,36,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDDL,9,4,2,37,15,1,20,7,4,86,34,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLWW,9,3,3,39,20,WWWDDWDWWWLWLWD,LDLDWLWLLDWLLLL
-Feyenoord,AZ Alkmaar,1-0,/match/feyenoord/az/2012,2012,32,eredivisie,18,34,0,1,0,4,18,7,6,62,34,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDWL,10,3,2,34,14,3,18,7,6,62,33,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDWW,6,3,6,25,23,WDWLWLWWWWDWDWW,WLLLDLDWWWLWLDW
-NEC Nijmegen,RKC Waalwijk,1-1,/match/nec/rkc-waalwijk/2012,2012,32,eredivisie,18,34,1,1,1,12,12,4,15,38,42,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLLW,8,0,7,24,19,11,12,5,14,32,43,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWDL,4,3,8,13,26,WWLLLWLLWWLWWWL,WLLWWWDWLWLDWWD
-Groningen,NAC Breda,1-1,/match/fc-groningen/nac-breda/2012,2012,33,eredivisie,18,34,1,1,1,13,10,6,16,40,59,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWLWD,8,3,5,28,22,14,9,7,16,41,51,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLDLL,2,3,11,17,31,WLWWDWWDWWLWLLLD,WWLWWDWWWWWWDWDL
-Utrecht,Vitesse,2-2,/match/fc-utrecht/vitesse/2012,2012,33,eredivisie,18,34,1,2,2,9,10,9,13,50,55,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWWLL,7,6,3,37,31,7,15,7,10,45,38,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLWDW,6,3,7,16,22,DWDWLWLDDDWDWWWL,DWWLLLWDLWWWLWLD
-NEC Nijmegen,AZ Alkmaar,1-1,/match/nec/az/2012,2012,33,eredivisie,18,34,1,1,1,12,12,5,15,39,43,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLLWD,8,1,7,25,20,3,18,7,7,62,34,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDWWW,6,3,7,25,24,WWLLLWLLWWLWWWLD,WLLLDLDWWWLWLDWW
-De Graafschap,Excelsior,2-2,/match/graafschap/excelsior/2012,2012,33,eredivisie,18,34,1,2,2,18,5,5,22,29,69,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWWLD,3,0,13,17,36,17,4,6,22,25,71,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLWLW,0,3,13,11,45,LLWLWLLLLLLLLLWL,WWWDWDWWWWDWWWWW
-RKC Waalwijk,Roda JC,5-2,/match/rkc-waalwijk/roda-jc/2012,2012,33,eredivisie,18,34,0,5,2,10,12,6,14,33,44,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWDLD,8,2,6,19,17,8,14,2,16,52,62,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDLLL,4,1,11,19,40,DWLWLDLLWLWWWWWL,WWWWWLLWDWWWWWLL
-Ajax,VVV Venlo,2-0,/match/ajax/vvv/2012,2012,33,eredivisie,18,34,0,2,0,1,21,7,4,88,35,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLWWL,11,4,1,47,14,16,8,4,20,38,74,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLWWW,1,0,15,13,51,WWDDDDWWLWWWWWWW,WWWWWWWWWWLWWWWW
-Feyenoord,Heracles,4-1,/match/feyenoord/heracles/2012,2012,33,eredivisie,18,34,0,4,1,4,19,7,6,63,34,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDWLW,11,3,2,35,14,11,11,7,14,50,56,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLDLL,4,3,9,21,37,WDWLWLWWWWDWDWWW,DWDDLWWWWLWWWWLL
-PSV,ADO Den Haag,5-0,/match/psv/ado-den-haag/2012,2012,33,eredivisie,18,34,0,5,0,2,19,6,7,79,46,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWWWL,14,1,1,52,20,15,8,8,16,35,57,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWWLW,3,2,11,16,36,WWDWWWWWWWWLWWWW,WLWLWWWDWWDWLWWW
-Twente 1965,Heerenveen,3-4,/match/fc-twente-1965/heerenveen/2012,2012,33,eredivisie,18,34,2,3,4,5,17,9,6,77,38,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDDLL,9,4,3,38,17,6,17,10,5,73,53,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLLDL,9,5,2,38,25,WWWDDWDWWWLWLWDL,WDLDLLDLLLDDWLLL
-ADO Den Haag,De Graafschap,3-5,/match/ado-den-haag/graafschap/2012,2012,34,eredivisie,18,34,2,3,5,15,8,8,17,35,62,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWWLWW,5,6,5,19,21,18,5,6,22,31,71,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWWLDD,2,5,9,12,33,DLLWWDWWDLDDLDWL,DDWWDWLWDWLWWWWD
-NAC Breda,RKC Waalwijk,3-2,/match/nac-breda/rkc-waalwijk/2012,2012,34,eredivisie,18,34,0,3,2,14,9,8,16,42,52,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLDLLD,7,4,5,24,20,8,13,6,14,38,46,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWDLDW,4,4,8,14,27,LDLWWWWDWDLWWDLL,WLLWWWDWLWLDWWDD
-Vitesse,Ajax,1-3,/match/vitesse/ajax/2012,2012,34,eredivisie,18,34,2,1,3,7,15,8,10,47,40,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLWDWD,9,4,3,29,16,1,22,7,4,90,35,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLWWLW,10,3,3,41,21,WWWDDLWDLWLWWDWW,LDLDWLWLLDWLLLLL
-Excelsior,PSV,1-3,/match/excelsior/psv/2012,2012,34,eredivisie,18,34,2,1,3,17,4,7,22,27,73,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLWLWD,4,3,9,14,26,2,20,6,7,84,46,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWWWLW,5,5,6,27,26,LDLLLWDDLWWLWLLL,WLDLDDLWLDDWWWWL
-Heerenveen,Feyenoord,2-3,/match/heerenveen/feyenoord/2012,2012,34,eredivisie,18,34,2,2,3,5,18,10,5,77,56,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLLDLL,8,5,3,35,28,3,20,7,6,67,35,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDWLWW,8,4,4,28,20,DLWDDWDWLWWWWWLD,LDLWDWLLDWLWLLDL
-Roda JC,Utrecht,1-3,/match/roda-jc/fc-utrecht/2012,2012,34,eredivisie,18,34,2,1,3,10,14,2,17,54,67,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDLLLW,10,1,5,33,22,9,10,10,13,52,57,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWWLLD,3,3,10,13,24,WLWWWLLWWWWLWWDL,DWLWWWDWWWLWDWWL
-VVV Venlo,Twente 1965,4-2,/match/vvv/fc-twente-1965/2012,2012,34,eredivisie,18,34,0,4,2,16,8,4,21,38,76,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLWWWW,7,4,5,25,23,6,17,9,7,80,42,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDDLLL,8,5,3,39,21,DDDLLWDLWWWWWLLW,LLWDLDDLWLLLWDDL
-AZ Alkmaar,Groningen,1-0,/match/az/fc-groningen/2012,2012,34,eredivisie,18,34,0,1,0,4,18,8,7,63,35,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDWWWD,12,4,0,37,10,13,10,7,16,41,60,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWLWDD,2,3,11,12,37,WWWWWWWWDWDWDWDW,WDWLWDWDWWWWWLWW
-Heracles,NEC Nijmegen,1-2,/match/heracles/nec/2012,2012,34,eredivisie,18,34,2,1,2,12,11,7,15,51,60,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLDLLW,7,4,5,29,19,11,12,6,15,40,44,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLLWDD,4,4,8,14,23,WDLWWLDWLWDWLWDL,DWWWWLDWLWWDLDLW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Excelsior,Feyenoord,0-2,/match/excelsior/feyenoord/2012,2012,1,eredivisie,18,34,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Roda JC,Groningen,2-1,/match/roda-jc/fc-groningen/2012,2012,1,eredivisie,18,34,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Heerenveen,NEC Nijmegen,2-2,/match/heerenveen/nec/2012,2012,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+RKC Waalwijk,Heracles,2-2,/match/rkc-waalwijk/heracles/2012,2012,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+VVV Venlo,Utrecht,0-0,/match/vvv/fc-utrecht/2012,2012,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+AZ Alkmaar,PSV,3-1,/match/az/psv/2012,2012,1,eredivisie,18,34,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+De Graafschap,Ajax,1-4,/match/graafschap/ajax/2012,2012,1,eredivisie,18,34,2,1,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+ADO Den Haag,Vitesse,0-0,/match/ado-den-haag/vitesse/2012,2012,1,eredivisie,18,34,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+NAC Breda,Twente 1965,0-1,/match/nac-breda/fc-twente-1965/2012,2012,1,eredivisie,18,34,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Twente 1965,AZ Alkmaar,2-0,/match/fc-twente-1965/az/2012,2012,2,eredivisie,18,34,0,2,0,4,2,1,0,0,1,0,L,0,0,0,0,0,1,4,1,0,0,3,1,W,0,0,0,0,0,,
+Vitesse,VVV Venlo,4-0,/match/vitesse/vvv/2012,2012,2,eredivisie,18,34,0,4,0,11,1,0,1,0,0,0,D,0,0,0,0,0,9,2,0,1,0,0,0,D,0,0,0,0,0,,
+PSV,RKC Waalwijk,1-0,/match/psv/rkc-waalwijk/2012,2012,2,eredivisie,18,34,0,1,0,15,0,0,0,1,1,3,W,0,0,0,0,0,5,2,0,1,0,2,2,D,0,0,0,0,0,,
+Feyenoord,Roda JC,3-0,/match/feyenoord/roda-jc/2012,2012,2,eredivisie,18,34,0,3,0,8,2,1,0,0,2,0,L,0,0,0,0,0,2,4,1,0,0,2,1,W,0,0,0,0,0,,
+Heracles,NAC Breda,2-1,/match/heracles/nac-breda/2012,2012,2,eredivisie,18,34,0,2,1,10,1,0,1,0,2,2,D,0,0,0,0,0,17,0,0,0,1,0,1,L,0,0,0,0,0,,
+Utrecht,De Graafschap,2-2,/match/fc-utrecht/graafschap/2012,2012,2,eredivisie,18,34,1,2,2,13,1,0,1,0,0,0,D,0,0,0,0,0,16,0,0,0,1,1,4,L,0,0,0,0,0,,
+Ajax,Heerenveen,5-1,/match/ajax/heerenveen/2012,2012,2,eredivisie,18,34,0,5,1,7,2,1,0,0,4,1,L,0,0,0,0,0,3,2,0,1,0,2,2,D,0,0,0,0,0,,
+Groningen,ADO Den Haag,4-2,/match/fc-groningen/ado-den-haag/2012,2012,2,eredivisie,18,34,0,4,2,14,0,0,0,1,1,2,W,0,0,0,0,0,6,2,0,1,0,0,0,D,0,0,0,0,0,,
+NEC Nijmegen,Excelsior,2-0,/match/nec/excelsior/2012,2012,2,eredivisie,18,34,0,2,0,12,1,0,1,0,2,2,D,0,0,0,0,0,18,0,0,0,1,0,2,L,0,0,0,0,0,,
+Roda JC,RKC Waalwijk,0-2,/match/roda-jc/rkc-waalwijk/2012,2012,3,eredivisie,18,34,2,0,2,7,4,1,0,1,2,4,WW,1,0,0,2,1,14,2,0,1,1,2,3,DW,0,0,1,0,1,W,W
+Vitesse,Utrecht,2-1,/match/vitesse/fc-utrecht/2012,2012,3,eredivisie,18,34,0,2,1,6,5,1,1,0,4,0,DW,1,0,0,4,0,11,3,0,2,0,2,2,DD,0,1,0,0,0,W,D
+Heerenveen,Twente 1965,1-5,/match/heerenveen/fc-twente-1965/2012,2012,3,eredivisie,18,34,2,1,5,15,2,0,1,1,3,7,DW,0,1,0,2,2,1,6,2,0,0,3,0,LW,1,0,0,1,0,D,L
+Excelsior,De Graafschap,1-1,/match/excelsior/graafschap/2012,2012,3,eredivisie,18,34,1,1,1,18,0,0,0,2,0,4,LW,0,0,1,0,2,16,1,0,1,1,3,6,LD,0,1,0,2,2,L,D
+NAC Breda,Groningen,2-2,/match/nac-breda/fc-groningen/2012,2012,3,eredivisie,18,34,1,2,2,17,0,0,0,2,1,3,LW,0,0,1,0,1,9,4,1,0,1,5,4,WW,0,0,1,1,2,L,W
+Heracles,Feyenoord,1-1,/match/heracles/feyenoord/2012,2012,3,eredivisie,18,34,1,1,1,4,5,1,1,0,4,3,DW,1,0,0,2,1,3,6,2,0,0,5,0,LW,1,0,0,2,0,W,L
+AZ Alkmaar,NEC Nijmegen,4-0,/match/az/nec/2012,2012,3,eredivisie,18,34,0,4,0,10,4,1,0,1,3,3,WW,1,0,0,3,1,5,5,1,1,0,4,2,DW,0,1,0,2,2,W,D
+VVV Venlo,Ajax,2-2,/match/vvv/ajax/2012,2012,3,eredivisie,18,34,1,2,2,12,2,0,1,1,0,4,DW,0,1,0,0,0,2,6,2,0,0,9,2,LW,1,0,0,4,1,D,L
+ADO Den Haag,PSV,0-3,/match/ado-den-haag/psv/2012,2012,3,eredivisie,18,34,2,0,3,13,2,0,1,1,2,4,DW,0,1,0,0,0,8,4,1,0,1,2,3,WW,0,0,1,1,3,D,W
+Ajax,Vitesse,4-1,/match/ajax/vitesse/2012,2012,4,eredivisie,18,34,0,4,1,6,7,2,1,0,11,4,LWD,1,0,0,5,1,1,9,2,1,0,6,1,DWW,0,1,0,0,0,W,D
+RKC Waalwijk,NAC Breda,2-1,/match/rkc-waalwijk/nac-breda/2012,2012,4,eredivisie,18,34,0,2,1,12,4,1,1,1,4,3,DWL,0,1,0,2,2,17,2,0,1,2,3,5,LWD,0,0,1,1,2,D,W
+Twente 1965,VVV Venlo,4-1,/match/fc-twente-1965/vvv/2012,2012,4,eredivisie,18,34,0,4,1,2,8,3,0,0,8,1,LWL,1,0,0,2,0,11,4,0,2,1,2,6,DWD,0,0,1,0,4,W,W
+NEC Nijmegen,Heracles,2-1,/match/nec/heracles/2012,2012,4,eredivisie,18,34,0,2,1,8,5,1,1,1,4,6,DWW,1,0,0,2,0,4,7,1,2,0,5,4,DWD,0,1,0,2,2,W,D
+Utrecht,Roda JC,3-1,/match/fc-utrecht/roda-jc/2012,2012,4,eredivisie,18,34,0,3,1,13,3,0,2,1,3,4,DDW,0,1,0,2,2,10,4,1,0,2,2,6,WWL,0,0,1,0,3,D,W
+De Graafschap,ADO Den Haag,0-3,/match/graafschap/ado-den-haag/2012,2012,4,eredivisie,18,34,2,0,3,16,2,0,2,1,4,7,LDD,0,0,1,1,4,14,2,0,1,2,2,7,DWL,0,0,1,2,4,L,W
+Groningen,AZ Alkmaar,0-3,/match/fc-groningen/az/2012,2012,4,eredivisie,18,34,2,0,3,9,5,1,1,1,7,6,WWD,1,0,0,4,2,3,8,2,0,1,7,3,WWW,0,0,1,0,2,W,W
+Feyenoord,Heerenveen,2-2,/match/feyenoord/heerenveen/2012,2012,4,eredivisie,18,34,1,2,2,5,7,2,1,0,6,1,LWD,1,0,0,3,0,15,2,0,1,2,4,12,DWL,0,0,1,1,5,W,W
+PSV,Excelsior,6-1,/match/psv/excelsior/2012,2012,4,eredivisie,18,34,0,6,1,7,6,2,0,1,5,3,WWL,1,0,0,1,0,18,2,0,1,2,1,5,LWD,0,0,1,0,2,W,W
+Roda JC,Twente 1965,2-1,/match/roda-jc/fc-twente-1965/2012,2012,5,eredivisie,18,34,0,2,1,13,4,1,0,3,3,9,WWLW,1,0,1,2,3,1,12,4,0,0,12,2,LWLW,2,0,0,6,1,WL,LL
+De Graafschap,NEC Nijmegen,1-0,/match/graafschap/nec/2012,2012,5,eredivisie,18,34,0,1,0,16,2,0,2,2,4,10,LDDL,0,0,2,1,7,7,9,2,1,1,6,7,DWWW,0,1,1,2,6,LL,DW
+ADO Den Haag,RKC Waalwijk,0-1,/match/ado-den-haag/rkc-waalwijk/2012,2012,5,eredivisie,18,34,2,0,1,12,4,1,1,2,5,7,DWLL,0,1,1,0,3,8,8,2,1,1,6,4,DWLW,1,0,1,2,1,DL,WL
+AZ Alkmaar,Vitesse,4-0,/match/az/vitesse/2012,2012,5,eredivisie,18,34,0,4,0,3,10,3,0,1,10,3,WWWL,2,0,0,7,1,5,9,2,1,1,7,5,DWWW,0,1,1,1,4,WW,DW
+Heracles,Ajax,2-3,/match/heracles/ajax/2012,2012,5,eredivisie,18,34,2,2,3,10,7,1,2,1,6,6,DWDW,1,1,0,3,2,2,11,3,1,0,15,5,LWDW,1,1,0,6,3,WD,LD
+Heerenveen,Groningen,3-0,/match/heerenveen/fc-groningen/2012,2012,5,eredivisie,18,34,0,3,0,15,3,0,2,2,6,14,DWLD,0,1,1,3,7,11,5,1,1,2,7,9,WWDL,0,1,1,3,4,DL,WD
+NAC Breda,Feyenoord,1-3,/match/nac-breda/feyenoord/2012,2012,5,eredivisie,18,34,2,1,3,17,2,0,1,3,4,7,LWDW,0,1,1,2,3,6,9,2,2,0,8,3,LWDD,1,1,0,3,1,LD,LD
+VVV Venlo,PSV,3-3,/match/vvv/psv/2012,2012,5,eredivisie,18,34,1,3,3,14,4,0,2,2,3,10,DWDW,0,2,0,2,2,4,10,3,0,1,11,4,WWLW,1,0,1,4,3,DD,WL
+Excelsior,Utrecht,2-3,/match/excelsior/fc-utrecht/2012,2012,5,eredivisie,18,34,2,2,3,18,2,0,1,3,2,11,LWDW,0,1,1,1,3,9,7,1,2,1,6,5,DDWW,0,1,1,1,2,LD,DW
+NEC Nijmegen,NAC Breda,1-2,/match/nec/nac-breda/2012,2012,6,eredivisie,18,34,2,1,2,8,9,2,1,2,6,8,DWWWW,2,0,0,4,1,17,2,0,1,4,5,10,LWDWL,0,0,2,2,4,WW,WW
+Groningen,Excelsior,2-0,/match/fc-groningen/excelsior/2012,2012,6,eredivisie,18,34,0,2,0,15,5,1,1,3,7,12,WWDLW,1,0,1,4,5,18,2,0,1,4,4,14,LWDWL,0,0,2,1,8,WL,WW
+VVV Venlo,Heerenveen,0-3,/match/vvv/heerenveen/2012,2012,6,eredivisie,18,34,2,0,3,13,6,0,3,2,6,13,DWDWD,0,3,0,5,5,11,7,1,2,2,9,14,DWLDW,0,1,1,3,7,DDD,WD
+Vitesse,Roda JC,5-0,/match/vitesse/roda-jc/2012,2012,6,eredivisie,18,34,0,5,0,7,9,2,1,2,7,9,DWWWW,2,0,0,6,1,10,8,2,0,3,5,10,WWLWW,0,0,2,1,6,WW,WW
+Feyenoord,De Graafschap,4-0,/match/feyenoord/graafschap/2012,2012,6,eredivisie,18,34,0,4,0,5,11,3,2,0,11,4,LWDDL,1,1,0,5,2,14,6,1,2,2,5,10,LDDLW,0,2,0,3,3,WD,DD
+PSV,Ajax,2-2,/match/psv/ajax/2012,2012,6,eredivisie,18,34,1,2,2,4,11,3,1,1,14,7,WWLWD,2,0,0,7,1,2,13,4,1,0,18,7,LWDWL,2,1,0,9,5,WW,LDL
+RKC Waalwijk,AZ Alkmaar,1-2,/match/rkc-waalwijk/az/2012,2012,6,eredivisie,18,34,2,1,2,6,10,3,1,1,7,4,DWLWL,1,1,0,4,3,1,14,4,0,1,14,3,WWWLW,1,0,1,3,2,DW,WL
+Twente 1965,ADO Den Haag,5-2,/match/fc-twente-1965/ado-den-haag/2012,2012,6,eredivisie,18,34,0,5,2,3,12,4,0,1,13,4,LWLWW,2,0,0,6,1,16,4,1,1,3,5,8,DWLLL,1,0,1,5,4,WW,WL
+Utrecht,Heracles,2-2,/match/fc-utrecht/heracles/2012,2012,6,eredivisie,18,34,1,2,2,9,9,2,2,1,9,7,DDWWL,1,1,0,5,3,12,7,1,2,2,8,9,DWDWL,0,1,1,3,4,DW,DW
+PSV,Roda JC,7-1,/match/psv/roda-jc/2012,2012,7,eredivisie,18,34,0,7,1,5,13,3,2,1,16,9,WWLWDD,2,1,0,9,3,12,8,2,0,4,5,15,WWLWWW,0,0,3,1,11,WWD,WWW
+ADO Den Haag,VVV Venlo,2-0,/match/ado-den-haag/vvv/2012,2012,7,eredivisie,18,34,0,2,0,16,4,1,1,4,7,13,DWLLLW,0,1,2,0,4,14,6,0,3,3,6,16,DWDWDL,0,0,2,1,8,DLL,WW
+Heerenveen,Heracles,1-1,/match/heerenveen/heracles/2012,2012,7,eredivisie,18,34,1,1,1,11,9,2,2,2,12,14,DWLDWL,1,1,1,6,7,13,8,1,3,2,10,11,DWDWLD,0,2,1,5,6,DLW,DWD
+NAC Breda,Utrecht,1-0,/match/nac-breda/fc-utrecht/2012,2012,7,eredivisie,18,34,0,1,0,17,4,1,1,4,7,11,LWDWLL,0,1,2,3,6,7,11,2,3,1,11,9,DDWWLD,1,1,1,4,4,LDL,DWL
+Ajax,Twente 1965,1-1,/match/ajax/fc-twente-1965/2012,2012,7,eredivisie,18,34,1,1,1,4,14,4,2,0,20,9,LWDWLD,2,0,0,9,2,2,16,5,0,1,18,6,LWLWWW,2,0,1,7,3,WW,LLW
+AZ Alkmaar,Feyenoord,2-1,/match/az/feyenoord/2012,2012,7,eredivisie,18,34,0,2,1,1,16,5,0,1,16,4,WWWLWL,3,0,0,11,1,3,15,4,2,0,15,4,LWDDLW,2,1,0,6,2,WWW,LDL
+RKC Waalwijk,NEC Nijmegen,2-0,/match/rkc-waalwijk/nec/2012,2012,7,eredivisie,18,34,0,2,0,8,10,3,1,2,8,6,DWLWLL,1,1,1,5,5,10,9,2,1,3,7,10,DWWWWL,0,1,2,2,7,DWL,DWW
+De Graafschap,Groningen,2-3,/match/graafschap/fc-groningen/2012,2012,7,eredivisie,18,34,2,2,3,15,6,1,2,3,5,14,LDDLWW,1,0,2,2,7,9,9,2,1,3,9,12,WWDLWW,0,1,2,3,7,LLW,WDW
+Excelsior,Vitesse,0-2,/match/excelsior/vitesse/2012,2012,7,eredivisie,18,34,2,0,2,18,2,0,1,5,4,16,LWDWLW,0,1,2,3,6,6,13,3,1,2,12,9,DWWWWW,0,1,2,1,8,LDL,DWW
+Heracles,De Graafschap,2-0,/match/heracles/graafschap/2012,2012,8,eredivisie,18,34,0,2,0,11,9,1,4,2,11,12,DWDWLDD,1,1,1,5,5,17,6,1,2,4,7,17,LDDLWWL,0,2,1,3,7,WDL,DDW
+Utrecht,RKC Waalwijk,3-0,/match/fc-utrecht/rkc-waalwijk/2012,2012,8,eredivisie,18,34,0,3,0,8,11,2,3,2,11,10,DDWWLDW,1,2,0,7,5,7,14,4,1,2,10,6,DWLWLLW,2,0,1,3,1,DWD,WLL
+Vitesse,Heerenveen,1-1,/match/vitesse/heerenveen/2012,2012,8,eredivisie,18,34,1,1,1,6,15,4,1,2,14,9,DWWWWWL,3,0,0,11,1,10,11,2,3,2,13,15,DWLDWLD,1,1,1,6,7,WWW,WDL
+Roda JC,NAC Breda,4-3,/match/roda-jc/nac-breda/2012,2012,8,eredivisie,18,34,0,4,3,13,8,2,0,5,6,22,WWLWWWW,2,0,1,4,4,15,8,2,1,4,8,11,LWDWLLW,1,0,2,4,5,WLW,WWL
+VVV Venlo,AZ Alkmaar,1-3,/match/vvv/az/2012,2012,8,eredivisie,18,34,2,1,3,16,6,0,3,4,6,18,DWDWDLW,0,3,1,5,8,1,20,6,0,1,18,5,WWWLWLW,2,0,1,5,3,DDDL,WLL
+Twente 1965,Excelsior,2-2,/match/fc-twente-1965/excelsior/2012,2012,8,eredivisie,18,34,1,2,2,3,17,5,1,1,19,7,LWLWWWD,3,0,0,11,3,18,2,0,1,6,4,18,LWDWLWL,0,0,3,1,10,WWW,WWW
+Groningen,Ajax,1-0,/match/fc-groningen/ajax/2012,2012,8,eredivisie,18,34,0,1,0,9,11,3,1,3,12,14,WWDLWWL,2,0,1,6,5,4,16,4,3,0,21,10,LWDWLDD,2,2,0,11,7,WLW,LDLD
+Feyenoord,ADO Den Haag,0-3,/match/feyenoord/ado-den-haag/2012,2012,8,eredivisie,18,34,2,0,3,5,15,4,2,1,16,6,LWDDLWW,2,1,0,9,2,14,8,2,1,4,9,13,DWLLLWW,1,0,2,7,9,WDW,WLW
+NEC Nijmegen,PSV,0-2,/match/nec/psv/2012,2012,8,eredivisie,18,34,2,0,2,12,9,2,1,4,7,12,DWWWWLW,2,0,1,5,3,2,17,4,2,1,23,10,WWLWDDW,1,1,1,7,6,WWL,WLD
+Ajax,AZ Alkmaar,2-2,/match/ajax/az/2012,2012,9,eredivisie,18,34,1,2,2,5,16,4,3,1,21,11,LWDWLDDW,2,1,0,10,3,1,22,7,0,1,21,6,WWWLWLWL,3,0,1,8,4,WWD,WLLL
+Heracles,Groningen,2-1,/match/heracles/fc-groningen/2012,2012,9,eredivisie,18,34,0,2,1,10,13,2,4,2,13,12,DWDWLDDW,2,1,1,7,5,8,15,4,1,3,13,14,WWDLWWLW,1,1,2,6,9,WDLW,WDWL
+RKC Waalwijk,Twente 1965,0-4,/match/rkc-waalwijk/fc-twente-1965/2012,2012,9,eredivisie,18,34,2,0,4,9,14,4,1,3,10,9,DWLWLLWW,2,1,1,7,5,2,19,5,2,1,21,9,LWLWWWDD,2,1,1,8,4,DWLW,LLWD
+Heerenveen,De Graafschap,1-1,/match/heerenveen/graafschap/2012,2012,9,eredivisie,18,34,1,1,1,12,12,2,4,2,14,16,DWLDWLDD,1,2,1,7,8,17,6,1,2,5,7,19,LDDLWWLW,0,2,2,3,9,DLWD,DDWW
+PSV,Utrecht,1-0,/match/psv/fc-utrecht/2012,2012,9,eredivisie,18,34,0,1,0,3,19,5,2,1,25,10,WWLWDDWL,3,1,0,16,4,7,15,3,3,2,14,10,DDWWLDWW,1,1,2,4,5,WWDW,DWLW
+NEC Nijmegen,Vitesse,0-1,/match/nec/vitesse/2012,2012,9,eredivisie,18,34,2,0,1,14,9,2,1,5,7,14,DWWWWLWL,2,0,2,5,5,4,17,4,2,2,15,10,DWWWWWLD,1,1,2,3,8,WWLL,DWWL
+Roda JC,ADO Den Haag,4-1,/match/roda-jc/ado-den-haag/2012,2012,9,eredivisie,18,34,0,4,1,11,12,3,0,5,10,25,WWLWWWWW,3,0,1,8,7,13,10,3,1,4,12,13,DWLLLWWL,2,0,2,10,9,WLWW,WLWL
+Feyenoord,VVV Venlo,4-0,/match/feyenoord/vvv/2012,2012,9,eredivisie,18,34,0,4,0,6,15,4,2,2,16,9,LWDDLWWL,2,1,1,9,5,16,6,0,3,5,7,21,DWDWDLWL,0,0,3,1,10,WDWL,WWW
+NAC Breda,Excelsior,2-0,/match/nac-breda/excelsior/2012,2012,9,eredivisie,18,34,0,2,0,15,8,2,1,5,11,15,LWDWLLWW,1,1,2,4,6,18,3,0,2,6,6,20,LWDWLWLD,0,1,3,3,12,LDLW,WWWD
+De Graafschap,NAC Breda,3-1,/match/graafschap/nac-breda/2012,2012,10,eredivisie,18,34,0,3,1,16,7,1,3,5,8,20,LDDLWWLWD,1,0,3,4,10,13,12,3,1,5,13,15,LWDWLLWWW,1,0,3,7,9,LLWL,WWLW
+VVV Venlo,RKC Waalwijk,4-1,/match/vvv/rkc-waalwijk/2012,2012,10,eredivisie,18,34,0,4,1,17,6,0,3,6,7,25,DWDWDLWLW,0,3,2,6,11,11,14,4,1,4,10,13,DWLWLLWWL,2,0,2,3,4,DDDLL,WLLW
+Excelsior,Heracles,0-2,/match/excelsior/heracles/2012,2012,10,eredivisie,18,34,2,0,2,18,3,0,2,7,6,22,LWDWLWLDW,0,1,3,3,8,7,17,3,4,2,15,13,DWDWLDDWW,0,3,1,6,7,LDLL,DWDD
+ADO Den Haag,NEC Nijmegen,1-0,/match/ado-den-haag/nec/2012,2012,10,eredivisie,18,34,0,1,0,14,10,3,1,5,13,17,DWLLLWWLW,1,1,2,2,4,15,9,2,1,6,7,15,DWWWWLWLL,0,1,3,2,9,DLLW,DWWW
+Utrecht,Heerenveen,1-4,/match/fc-utrecht/heerenveen/2012,2012,10,eredivisie,18,34,2,1,4,10,15,3,3,3,14,11,DDWWLDWWW,2,2,0,10,5,12,14,2,5,2,15,17,DWLDWLDDD,1,2,1,7,8,DWDW,WDLD
+Ajax,Feyenoord,1-1,/match/ajax/feyenoord/2012,2012,10,eredivisie,18,34,1,1,1,6,18,4,4,1,23,13,LWDWLDDWD,2,2,0,12,5,5,19,5,2,2,20,9,LWDDLWWLW,2,1,1,7,4,WWDD,LDLW
+AZ Alkmaar,Roda JC,1-0,/match/az/roda-jc/2012,2012,10,eredivisie,18,34,0,1,0,1,23,7,1,1,23,8,WWWLWLWLD,4,0,0,13,2,8,16,4,0,5,14,26,WWLWWWWWW,0,0,4,2,18,WWWW,WWWW
+Groningen,Twente 1965,1-1,/match/fc-groningen/fc-twente-1965/2012,2012,10,eredivisie,18,34,1,1,1,9,15,4,1,4,14,16,WWDLWWLWW,3,0,1,7,5,3,21,6,2,1,25,9,LWLWWWDDL,3,1,1,12,4,WLWW,LLWDL
+Vitesse,PSV,1-1,/match/vitesse/psv/2012,2012,10,eredivisie,18,34,1,1,1,4,19,5,2,2,16,10,DWWWWWLDL,3,1,0,12,2,2,23,6,2,1,26,10,WWLWDDWLW,2,1,1,9,6,WWWD,WLDL
+NAC Breda,VVV Venlo,3-1,/match/nac-breda/vvv/2012,2012,11,eredivisie,18,34,0,3,1,14,12,3,1,6,14,18,LWDWLLWWWW,2,1,2,6,6,16,10,1,3,6,11,26,DWDWDLWLWW,0,0,4,1,14,LDLWW,WWWW
+Roda JC,Ajax,0-4,/match/roda-jc/ajax/2012,2012,11,eredivisie,18,34,2,0,4,10,16,4,0,6,14,27,WWLWWWWWWW,4,0,1,12,8,6,20,4,5,1,24,14,LWDWLDDWDD,2,2,1,11,8,WLWWW,LDLDW
+Excelsior,RKC Waalwijk,1-0,/match/excelsior/rkc-waalwijk/2012,2012,11,eredivisie,18,34,0,1,0,18,3,0,2,8,6,24,LWDWLWLDWL,0,1,4,3,10,12,14,4,1,5,11,17,DWLWLLWWLW,2,0,3,4,8,LDLLL,WLLWW
+Heerenveen,ADO Den Haag,4-0,/match/heerenveen/ado-den-haag/2012,2012,11,eredivisie,18,34,0,4,0,9,16,3,5,2,19,18,DWLDWLDDDL,1,3,1,8,9,13,14,4,1,5,14,17,DWLLLWWLWW,2,0,3,11,13,DLWDD,WLWLW
+Twente 1965,PSV,2-2,/match/fc-twente-1965/psv/2012,2012,11,eredivisie,18,34,1,2,2,3,22,6,3,1,26,10,LWLWWWDDLD,3,1,0,13,5,2,24,6,3,1,27,11,WWLWDDWLWD,2,2,1,10,7,WWWD,WLDLD
+De Graafschap,Vitesse,0-1,/match/graafschap/vitesse/2012,2012,11,eredivisie,18,34,2,0,1,15,11,2,3,5,11,21,LDDLWWLWDW,2,0,3,7,11,4,21,5,3,2,17,11,DWWWWWLDLD,2,1,2,4,8,LLWLW,DWWLL
+Groningen,Feyenoord,6-0,/match/fc-groningen/feyenoord/2012,2012,11,eredivisie,18,34,0,6,0,8,17,4,2,4,15,17,WWDLWWLWWD,3,1,1,8,6,5,20,5,3,2,21,10,LWDDLWWLWD,2,2,1,8,5,WLWWD,LDLWD
+NEC Nijmegen,Utrecht,3-1,/match/nec/fc-utrecht/2012,2012,11,eredivisie,18,34,0,3,1,17,9,2,1,7,7,16,DWWWWLWLLW,2,0,3,5,6,11,15,3,3,4,15,15,DDWWLDWWWL,1,1,3,4,6,WWLLL,DWLWW
+Heracles,AZ Alkmaar,0-1,/match/heracles/az/2012,2012,11,eredivisie,18,34,2,0,1,7,19,4,4,2,17,13,DWDWLDDWWL,3,1,1,9,6,1,27,8,1,1,24,8,WWWLWLWLDW,3,1,1,10,6,WDLWW,WLLLD
+VVV Venlo,Excelsior,0-0,/match/vvv/excelsior/2012,2012,12,eredivisie,18,34,1,0,0,17,10,1,3,7,12,29,DWDWDLWLWWW,1,3,2,10,12,18,7,1,2,8,7,24,LWDWLWLDWLW,0,1,4,3,14,DDDLLW,WWWDW
+NAC Breda,Vitesse,1-0,/match/nac-breda/vitesse/2012,2012,12,eredivisie,18,34,0,1,0,10,16,4,1,6,17,19,LWDWLLWWWWW,3,1,2,9,7,4,23,6,3,2,18,11,DWWWWWLDLDL,3,1,2,5,8,LDLWWW,DWWLLL
+Roda JC,Heerenveen,1-2,/match/roda-jc/heerenveen/2012,2012,12,eredivisie,18,34,2,1,2,11,16,4,0,7,14,31,WWLWWWWWWWL,4,0,2,12,12,8,20,4,5,2,23,18,DWLDWLDDDLW,2,2,1,11,9,WLWWWL,WDLDL
+RKC Waalwijk,Groningen,1-1,/match/rkc-waalwijk/fc-groningen/2012,2012,12,eredivisie,18,34,1,1,1,13,14,4,1,6,11,18,DWLWLLWWLWW,2,1,2,7,9,6,21,5,2,4,21,17,WWDLWWLWWDW,1,1,3,7,11,DWLWL,WDWLW
+Feyenoord,NEC Nijmegen,0-1,/match/feyenoord/nec/2012,2012,12,eredivisie,18,34,2,0,1,7,20,5,3,3,21,16,LWDDLWWLWDW,3,1,1,13,5,15,13,3,1,7,10,17,DWWWWLWLLWW,0,1,4,2,10,WDWLW,DWWWW
+Utrecht,Ajax,6-4,/match/fc-utrecht/ajax/2012,2012,12,eredivisie,18,34,0,6,4,12,15,3,3,5,16,18,DDWWLDWWWLW,2,2,1,11,9,5,22,5,5,1,28,14,LWDWLDDWDDL,3,2,1,15,8,DWDWL,LDLDWL
+Twente 1965,De Graafschap,4-0,/match/fc-twente-1965/graafschap/2012,2012,12,eredivisie,18,34,0,4,0,3,24,6,4,1,28,12,LWLWWWDDLDD,3,2,0,15,7,16,11,2,3,6,11,22,LDDLWWLWDWL,0,3,2,4,10,WWWDD,DDWWD
+AZ Alkmaar,ADO Den Haag,3-0,/match/az/ado-den-haag/2012,2012,12,eredivisie,18,34,0,3,0,1,29,9,1,1,25,8,WWWLWLWLDWL,5,0,0,14,2,14,14,4,1,6,14,21,DWLLLWWLWWW,2,0,4,11,17,WWWWW,WLWLWW
+PSV,Heracles,4-1,/match/psv/heracles/2012,2012,12,eredivisie,18,34,0,4,1,2,25,6,4,1,29,13,WWLWDDWLWDD,4,1,0,17,4,9,19,4,4,3,17,14,DWDWLDDWWLL,1,3,1,8,7,WWDWW,DWDDL
+De Graafschap,PSV,1-3,/match/graafschap/psv/2012,2012,13,eredivisie,18,34,2,1,3,17,11,2,3,7,11,26,LDDLWWLWDWLW,2,0,4,7,12,2,29,7,4,1,33,14,WWLWDDWLWDDW,2,3,1,12,9,LLWLWL,WLDLDD
+NEC Nijmegen,Roda JC,1-2,/match/nec/roda-jc/2012,2012,13,eredivisie,18,34,2,1,2,14,15,4,1,7,11,17,DWWWWLWLLWWL,3,0,3,8,7,12,16,4,0,8,15,33,WWLWWWWWWWLL,0,0,5,2,19,WWLLLW,WWWWW
+Heerenveen,RKC Waalwijk,1-1,/match/heerenveen/rkc-waalwijk/2012,2012,13,eredivisie,18,34,1,1,1,5,22,5,5,2,25,19,DWLDWLDDDLWL,2,3,1,12,9,13,16,4,2,6,12,19,DWLWLLWWLWWD,2,0,4,4,9,DLWDDW,WLLWWW
+Heracles,Twente 1965,1-1,/match/heracles/fc-twente-1965/2012,2012,13,eredivisie,18,34,1,1,1,10,19,4,4,4,18,18,DWDWLDDWWLLW,3,1,2,9,7,3,28,7,4,1,32,12,LWLWWWDDLDDW,3,2,1,13,5,WDLWWL,LLWDLD
+Ajax,NAC Breda,2-2,/match/ajax/nac-breda/2012,2012,13,eredivisie,18,34,1,2,2,6,22,5,5,2,32,20,LWDWLDDWDDLW,2,3,0,13,6,8,20,5,1,6,18,19,LWDWLLWWWWWW,1,0,4,8,12,WWDDD,WWLWW
+ADO Den Haag,Utrecht,2-2,/match/ado-den-haag/fc-utrecht/2012,2012,13,eredivisie,18,34,1,2,2,15,14,4,1,7,14,24,DWLLLWWLWWWW,2,1,2,3,4,11,19,4,3,5,22,22,DDWWLDWWWLWW,1,1,4,5,9,DLLWW,DWLWWW
+Vitesse,Feyenoord,0-4,/match/vitesse/feyenoord/2012,2012,13,eredivisie,18,34,2,0,4,4,23,6,3,3,18,12,DWWWWWLDLDLW,3,2,0,13,3,9,20,5,3,4,21,17,LWDDLWWLWDWL,2,2,2,8,11,WWWDD,LDLWDW
+Groningen,VVV Venlo,2-1,/match/fc-groningen/vvv/2012,2012,13,eredivisie,18,34,0,2,1,7,22,5,3,4,22,18,WWDLWWLWWDWD,4,1,1,14,6,16,12,1,4,7,12,29,DWDWDLWLWWWD,0,0,5,2,17,WLWWDW,WWWWW
+Excelsior,AZ Alkmaar,0-0,/match/excelsior/az/2012,2012,13,eredivisie,18,34,1,0,0,18,8,1,3,8,7,24,LWDWLWLDWLWD,1,1,4,4,10,1,33,10,1,1,28,8,WWWLWLWLDWLW,4,1,1,11,6,LDLLLW,WLLLDL
+AZ Alkmaar,Utrecht,2-0,/match/az/fc-utrecht/2012,2012,14,eredivisie,18,34,0,2,0,1,34,10,2,1,28,8,WWWLWLWLDWLWD,6,0,0,17,2,11,20,4,4,5,24,24,DDWWLDWWWLWWD,1,2,4,7,11,WWWWWW,DWLWWWD
+NAC Breda,Heerenveen,2-2,/match/nac-breda/heerenveen/2012,2012,14,eredivisie,18,34,1,2,2,10,21,5,2,6,20,21,LWDWLLWWWWWWD,4,1,2,10,7,5,24,5,6,2,26,20,DWLDWLDDDLWLD,3,2,1,13,10,LDLWWWW,WDLDLL
+VVV Venlo,De Graafschap,1-2,/match/vvv/graafschap/2012,2012,14,eredivisie,18,34,2,1,2,16,12,1,4,8,13,31,DWDWDLWLWWWDW,1,4,2,10,12,17,11,2,3,8,12,29,LDDLWWLWDWLWL,0,3,3,4,14,DDDLLWD,DDWWDW
+Roda JC,Heracles,3-1,/match/roda-jc/heracles/2012,2012,14,eredivisie,18,34,0,3,1,12,18,5,0,8,17,34,WWLWWWWWWWLLL,4,0,3,13,14,9,21,4,5,4,19,19,DWDWLDDWWLLWD,1,3,2,9,11,WLWWWLL,DWDDLW
+PSV,Groningen,6-1,/match/psv/fc-groningen/2012,2012,14,eredivisie,18,34,0,6,1,2,31,8,4,1,36,15,WWLWDDWLWDDWL,5,1,0,21,5,4,26,6,3,4,24,19,WWDLWWLWWDWDW,1,2,3,8,12,WWDWWW,WDWLWD
+RKC Waalwijk,Feyenoord,1-2,/match/rkc-waalwijk/feyenoord/2012,2012,14,eredivisie,18,34,2,1,2,13,17,4,3,6,13,20,DWLWLLWWLWWDD,2,2,2,8,10,8,22,6,3,4,25,17,LWDDLWWLWDWLL,3,2,2,12,11,DWLWLD,LDLWDWL
+Excelsior,ADO Den Haag,1-1,/match/excelsior/ado-den-haag/2012,2012,14,eredivisie,18,34,1,1,1,18,10,1,4,8,7,24,LWDWLWLDWLWDD,1,2,4,4,10,14,16,4,2,7,16,26,DWLLLWWLWWWWD,2,0,5,11,20,LDLLLWD,WLWLWWW
+NEC Nijmegen,Ajax,0-3,/match/nec/ajax/2012,2012,14,eredivisie,18,34,2,0,3,15,15,4,1,8,12,19,DWWWWLWLLWWLL,3,0,4,9,9,6,24,5,6,2,34,22,LWDWLDDWDDLWD,3,2,2,19,14,WWLLLWL,LDLDWLW
+Twente 1965,Vitesse,0-0,/match/fc-twente-1965/vitesse/2012,2012,14,eredivisie,18,34,1,0,0,3,29,7,5,1,33,13,LWLWWWDDLDDWD,4,2,0,19,7,7,23,6,3,4,18,16,DWWWWWLDLDLWL,3,1,3,5,9,WWWDDW,DWWLLLW
+Heracles,VVV Venlo,7-0,/match/heracles/vvv/2012,2012,15,eredivisie,18,34,0,7,0,11,21,4,5,5,20,22,DWDWLDDWWLLWDW,3,2,2,10,8,17,12,1,4,9,14,33,DWDWDLWLWWWDWL,0,0,6,3,19,WDLWWLD,WWWWWW
+Groningen,NEC Nijmegen,3-3,/match/fc-groningen/nec/2012,2012,15,eredivisie,18,34,1,3,3,4,26,6,3,5,25,25,WWDLWWLWWDWDWW,5,1,1,16,7,15,15,4,1,9,12,22,DWWWWLWLLWWLLL,1,1,4,3,10,WLWWDWW,DWWWWL
+ADO Den Haag,NAC Breda,3-0,/match/ado-den-haag/nac-breda/2012,2012,15,eredivisie,18,34,0,3,0,14,17,4,3,7,17,27,DWLLLWWLWWWWDD,2,2,2,5,6,9,23,5,3,6,22,23,LWDWLLWWWWWWDD,1,1,4,10,14,DLLWWD,WWLWWD
+De Graafschap,Roda JC,1-2,/match/graafschap/roda-jc/2012,2012,15,eredivisie,18,34,2,1,2,16,13,3,3,8,14,30,LDDLWWLWDWLWLL,2,0,5,8,15,10,22,6,0,8,20,35,WWLWWWWWWWLLLW,1,0,5,4,20,LLWLWLL,WWWWWL
+Ajax,Excelsior,4-1,/match/ajax/excelsior/2012,2012,15,eredivisie,18,34,0,4,1,5,26,6,6,2,37,22,LWDWLDDWDDLWDL,2,4,0,15,8,18,12,1,5,8,8,25,LWDWLWLDWLWDDD,0,2,4,3,14,WWDDDD,WWWDWD
+Feyenoord,PSV,2-0,/match/feyenoord/psv/2012,2012,15,eredivisie,18,34,0,2,0,8,24,7,3,4,27,18,LWDDLWWLWDWLLL,3,1,2,13,6,2,35,9,4,1,42,16,WWLWDDWLWDDWLW,3,3,1,15,10,WDWLWL,WLDLDDL
+Vitesse,RKC Waalwijk,4-0,/match/vitesse/rkc-waalwijk/2012,2012,15,eredivisie,18,34,0,4,0,7,24,6,4,4,18,16,DWWWWWLDLDLWLD,3,2,1,13,7,13,17,4,3,7,14,22,DWLWLLWWLWWDDL,2,1,4,5,10,WWWDDL,WLLWWWD
+Utrecht,Twente 1965,2-6,/match/fc-utrecht/fc-twente-1965/2012,2012,15,eredivisie,18,34,2,2,6,12,20,4,4,6,24,26,DDWWLDWWWLWWDW,3,2,1,17,13,3,31,7,6,1,33,13,LWLWWWDDLDDWDD,3,3,1,14,6,DWDWLW,LLWDLDD
+Heerenveen,AZ Alkmaar,5-1,/match/heerenveen/az/2012,2012,15,eredivisie,18,34,0,5,1,6,25,5,7,2,28,22,DWLDWLDDDLWLDD,2,4,1,13,10,1,38,11,2,1,30,8,WWWLWLWLDWLWDW,4,2,1,11,6,DLWDDWD,WLLLDLD
+ADO Den Haag,Heracles,2-0,/match/ado-den-haag/heracles/2012,2012,16,eredivisie,18,34,0,2,0,12,21,5,3,7,20,27,DWLLLWWLWWWWDDW,3,2,2,8,6,9,25,5,5,5,27,22,DWDWLDDWWLLWDWW,1,3,3,10,14,DLLWWDW,DWDDLWW
+Twente 1965,NEC Nijmegen,2-0,/match/fc-twente-1965/nec/2012,2012,16,eredivisie,18,34,0,2,0,3,33,8,6,1,39,15,LWLWWWDDLDDWDDL,4,3,0,19,7,15,16,4,2,9,15,25,DWWWWLWLLWWLLLD,1,2,4,6,13,WWWDDWD,DWWWWLD
+AZ Alkmaar,De Graafschap,4-0,/match/az/graafschap/2012,2012,16,eredivisie,18,34,0,4,0,1,38,11,2,2,31,13,WWWLWLWLDWLWDWW,7,0,0,19,2,16,13,3,3,9,15,32,LDDLWWLWDWLWLLL,1,3,3,6,15,WWWWWWW,DDWWDWL
+Excelsior,Heerenveen,0-5,/match/excelsior/heerenveen/2012,2012,16,eredivisie,18,34,2,0,5,18,12,1,5,9,9,29,LWDWLWLDWLWDDDW,1,3,4,5,11,5,29,6,7,2,33,23,DWLDWLDDDLWLDDW,3,3,1,15,12,LDLLLWDD,WDLDLLD
+PSV,NAC Breda,1-0,/match/psv/nac-breda/2012,2012,16,eredivisie,18,34,0,1,0,2,35,9,4,2,42,18,WWLWDDWLWDDWLWW,6,1,0,27,6,11,23,5,3,7,22,26,LWDWLLWWWWWWDDW,1,1,5,10,17,WWDWWWW,WWLWWDW
+VVV Venlo,Roda JC,2-0,/match/vvv/roda-jc/2012,2012,16,eredivisie,18,34,0,2,0,17,12,1,4,10,14,40,DWDWDLWLWWWDWLW,1,4,3,11,14,10,24,7,0,8,22,36,WWLWWWWWWWLLLWL,2,0,5,6,21,DDDLLWDL,WWWWWLL
+Utrecht,Feyenoord,2-2,/match/fc-utrecht/feyenoord/2012,2012,16,eredivisie,18,34,1,2,2,13,20,4,4,7,26,32,DDWWLDWWWLWWDWL,3,2,2,19,19,8,28,8,3,4,29,18,LWDDLWWLWDWLLLW,4,2,2,14,12,DWDWLWL,LDLWDWLL
+RKC Waalwijk,Ajax,0-1,/match/rkc-waalwijk/ajax/2012,2012,16,eredivisie,18,34,2,0,1,14,17,4,3,8,14,26,DWLWLLWWLWWDDLW,2,2,3,9,12,4,30,7,6,2,41,23,LWDWLDDWDDLWDLW,4,2,2,22,14,DWLWLDL,LDLDWLWL
+Vitesse,Groningen,0-0,/match/vitesse/fc-groningen/2012,2012,16,eredivisie,18,34,1,0,0,7,28,7,4,4,22,16,DWWWWWLDLDLWLDW,4,2,1,17,7,6,28,6,4,5,28,28,WWDLWWLWWDWDWWD,1,2,4,9,18,WWWDDLW,WDWLWDW
+De Graafschap,RKC Waalwijk,1-3,/match/graafschap/rkc-waalwijk/2012,2012,17,eredivisie,18,34,2,1,3,17,13,3,3,10,15,36,LDDLWWLWDWLWLLLW,2,0,6,9,17,14,17,4,3,9,14,27,DWLWLLWWLWWDDLWL,2,1,5,5,14,LLWLWLLL,WLLWWWDW
+Heracles,Vitesse,0-1,/match/heracles/vitesse/2012,2012,17,eredivisie,18,34,2,0,1,10,25,5,5,6,27,24,DWDWLDDWWLLWDWWW,4,2,2,17,8,6,30,7,5,4,22,16,DWWWWWLDLDLWLDWD,3,2,3,5,9,WDLWWLDW,DWWLLLWD
+Roda JC,Excelsior,7-0,/match/roda-jc/excelsior/2012,2012,17,eredivisie,18,34,0,7,0,11,24,7,0,9,22,38,WWLWWWWWWWLLLWLW,5,0,3,16,15,18,12,1,5,10,9,34,LWDWLWLDWLWDDDWL,0,2,5,4,18,WLWWWLLW,WWWDWDW
+NEC Nijmegen,VVV Venlo,2-0,/match/nec/vvv/2012,2012,17,eredivisie,18,34,0,2,0,15,16,4,2,10,15,27,DWWWWLWLLWWLLLDW,3,0,5,9,12,16,16,2,4,10,16,40,DWDWDLWLWWWDWLWW,0,0,7,3,26,WWLLLWLL,WWWWWWW
+Groningen,Utrecht,1-0,/match/fc-groningen/fc-utrecht/2012,2012,17,eredivisie,18,34,0,1,0,7,29,6,5,5,28,28,WWDLWWLWWDWDWWDD,5,2,1,19,10,13,22,4,5,7,28,34,DDWWLDWWWLWWDWLD,1,2,5,7,13,WLWWDWWD,DWLWWWDW
+Ajax,ADO Den Haag,4-0,/match/ajax/ado-den-haag/2012,2012,17,eredivisie,18,34,0,4,0,4,32,8,6,2,42,23,LWDWLDDWDDLWDLWL,3,4,0,19,9,9,25,6,3,7,22,27,DWLLLWWLWWWWDDWW,2,1,5,12,21,WWDDDDW,WLWLWWWD
+NAC Breda,AZ Alkmaar,2-1,/match/nac-breda/az/2012,2012,17,eredivisie,18,34,0,2,1,12,23,5,3,8,22,27,LWDWLLWWWWWWDDWW,4,2,2,12,9,1,42,12,2,2,35,13,WWWLWLWLDWLWDWWW,4,2,2,12,11,LDLWWWWD,WLLLDLDW
+Feyenoord,Twente 1965,3-2,/match/feyenoord/fc-twente-1965/2012,2012,17,eredivisie,18,34,0,3,2,8,29,8,4,4,31,20,LWDDLWWLWDWLLLWD,4,1,2,15,6,3,37,9,6,1,41,15,LWLWWWDDLDDWDDLW,4,3,1,20,8,WDWLWLW,LLWDLDDL
+Heerenveen,PSV,1-5,/match/heerenveen/psv/2012,2012,17,eredivisie,18,34,2,1,5,5,31,7,7,2,38,23,DWLDWLDDDLWLDDWL,3,4,1,18,11,2,39,10,4,2,43,18,WWLWDDWLWDDWLWWW,3,3,2,15,12,DLWDDWDW,WLDLDDLW
+ADO Den Haag,Roda JC,3-3,/match/ado-den-haag/roda-jc/2012,2012,18,eredivisie,18,34,1,3,3,12,25,6,3,8,22,31,DWLLLWWLWWWWDDWWW,4,2,2,10,6,9,28,8,0,9,29,38,WWLWWWWWWWLLLWLWW,2,0,6,6,23,DLLWWDWW,WWWWWLLW
+De Graafschap,Heerenveen,0-2,/match/graafschap/heerenveen/2012,2012,18,eredivisie,18,34,2,0,2,17,13,3,3,11,16,39,LDDLWWLWDWLWLLLWL,2,0,7,10,20,8,31,7,7,3,39,28,DWLDWLDDDLWLDDWLL,4,3,1,20,12,LLWLWLLLL,WDLDLLDL
+Excelsior,NAC Breda,3-0,/match/excelsior/nac-breda/2012,2012,18,eredivisie,18,34,0,3,0,18,12,1,5,11,9,41,LWDWLWLDWLWDDDWLW,1,3,5,5,16,10,27,6,3,8,24,28,LWDWLLWWWWWWDDWWW,1,1,6,10,18,LDLLLWDDL,WWLWWDWW
+Twente 1965,RKC Waalwijk,5-0,/match/fc-twente-1965/rkc-waalwijk/2012,2012,18,eredivisie,18,34,0,5,0,3,37,9,6,2,43,18,LWLWWWDDLDDWDDLWW,5,3,0,21,7,15,19,5,3,9,17,28,DWLWLLWWLWWDDLWLL,3,1,5,8,15,WWWDDWDW,WLLWWWDWL
+Vitesse,NEC Nijmegen,0-1,/match/vitesse/nec/2012,2012,18,eredivisie,18,34,2,0,1,7,32,8,5,4,23,16,DWWWWWLDLDLWLDWDL,4,3,1,17,7,14,20,5,2,10,17,27,DWWWWLWLLWWLLLDWW,1,2,5,6,15,WWWDDLWD,DWWWWLDW
+VVV Venlo,Feyenoord,2-1,/match/vvv/feyenoord/2012,2012,18,eredivisie,18,34,0,2,1,16,16,2,4,11,16,42,DWDWDLWLWWWDWLWWW,2,4,3,13,14,6,33,9,4,4,34,22,LWDDLWWLWDWLLLWDW,4,3,2,16,14,DDDLLWDLW,LDLWDWLLD
+AZ Alkmaar,Ajax,1-1,/match/az/ajax/2012,2012,18,eredivisie,18,34,1,1,1,1,42,12,2,3,36,15,WWWLWLWLDWLWDWWWW,8,0,0,23,2,4,36,9,6,2,46,23,LWDWLDDWDDLWDLWLW,5,2,2,23,14,WWWWWWWW,LDLDWLWLL
+Groningen,Heracles,2-1,/match/fc-groningen/heracles/2012,2012,18,eredivisie,18,34,0,2,1,5,33,7,5,5,29,28,WWDLWWLWWDWDWWDDW,6,2,1,20,10,11,25,5,5,7,27,25,DWDWLDDWWLLWDWWWL,1,3,4,10,16,WLWWDWWDW,DWDDLWWW
+Utrecht,PSV,1-1,/match/fc-utrecht/psv/2012,2012,18,eredivisie,18,34,1,1,1,13,22,4,5,8,28,35,DDWWLDWWWLWWDWLDW,3,3,2,21,21,2,41,11,4,2,48,19,WWLWDDWLWDDWLWWWL,4,3,2,20,13,DWDWLWLD,WLDLDDLWL
+PSV,Vitesse,3-1,/match/psv/vitesse/2012,2012,19,eredivisie,18,34,0,3,1,2,42,11,5,2,49,20,WWLWDDWLWDDWLWWWLD,7,1,0,28,6,8,32,8,5,5,23,17,DWWWWWLDLDLWLDWDLL,4,2,3,6,9,WWDWWWWW,DWWLLLWDL
+Heerenveen,Utrecht,2-0,/match/heerenveen/fc-utrecht/2012,2012,19,eredivisie,18,34,0,2,0,7,33,8,7,3,41,28,DWLDWLDDDLWLDDWLLL,3,4,2,19,16,13,24,4,6,8,29,36,DDWWLDWWWLWWDWLDWD,1,2,6,7,14,DLWDDWDWL,DWLWWWDWW
+NAC Breda,De Graafschap,1-1,/match/nac-breda/graafschap/2012,2012,19,eredivisie,18,34,1,1,1,11,27,6,3,9,24,31,LWDWLLWWWWWWDDWWWW,5,2,2,14,10,18,13,3,3,12,16,41,LDDLWWLWDWLWLLLWLL,1,3,4,6,19,LDLWWWWDW,DDWWDWLW
+Heracles,Excelsior,3-0,/match/heracles/excelsior/2012,2012,19,eredivisie,18,34,0,3,0,12,25,5,5,8,28,27,DWDWLDDWWLLWDWWWLW,4,2,3,17,9,17,16,2,5,11,12,41,LWDWLWLDWLWDDDWLWW,0,2,6,4,25,WDLWWLDWL,WWWDWDWW
+Roda JC,AZ Alkmaar,2-0,/match/roda-jc/az/2012,2012,19,eredivisie,18,34,0,2,0,9,29,8,1,9,32,41,WWLWWWWWWWLLLWLWWD,6,0,3,23,15,1,44,12,3,3,37,16,WWWLWLWLDWLWDWWWWD,4,2,3,13,13,WLWWWLLWW,WLLLDLDWW
+Feyenoord,Ajax,4-2,/match/feyenoord/ajax/2012,2012,19,eredivisie,18,34,0,4,2,6,33,9,4,5,35,24,LWDDLWWLWDWLLLWDWW,5,1,2,18,8,4,37,9,7,2,47,24,LWDWLDDWDDLWDLWLWD,5,3,2,24,15,WDWLWLWW,LDLDWLWLLD
+RKC Waalwijk,VVV Venlo,4-0,/match/rkc-waalwijk/vvv/2012,2012,19,eredivisie,18,34,0,4,0,16,19,5,3,10,17,33,DWLWLLWWLWWDDLWLLW,2,2,4,9,13,15,20,3,4,11,18,43,DWDWDLWLWWWDWLWWWW,0,0,8,3,28,DWLWLDLL,WWWWWWWW
+Twente 1965,Groningen,4-1,/match/fc-twente-1965/fc-groningen/2012,2012,19,eredivisie,18,34,0,4,1,3,41,10,6,2,48,18,LWLWWWDDLDDWDDLWWW,6,3,0,26,7,5,37,8,5,5,31,29,WWDLWWLWWDWDWWDDWW,1,3,4,9,18,WWWDDWDWW,WDWLWDWD
+NEC Nijmegen,ADO Den Haag,2-0,/match/nec/ado-den-haag/2012,2012,19,eredivisie,18,34,0,2,0,14,22,6,2,10,18,27,DWWWWLWLLWWLLLDWWL,4,0,5,11,12,10,27,6,4,8,25,34,DWLLLWWLWWWWDDWWWD,2,1,6,12,25,WWLLLWLLW,WLWLWWWDW
+Heerenveen,Roda JC,4-3,/match/heerenveen/roda-jc/2012,2012,20,eredivisie,18,34,0,4,3,7,37,9,7,3,43,28,DWLDWLDDDLWLDDWLLLW,4,4,2,21,16,8,33,9,1,9,34,41,WWLWWWWWWWLLLWLWWDW,2,1,6,9,26,DLWDDWDWLW,WWWWWLLWD
+Excelsior,VVV Venlo,3-1,/match/excelsior/vvv/2012,2012,20,eredivisie,18,34,0,3,1,17,16,2,5,12,12,44,LWDWLWLDWLWDDDWLWWW,2,3,5,8,16,16,20,3,4,12,18,47,DWDWDLWLWWWDWLWWWWW,0,0,9,3,32,LDLLLWDDLW,WWWWWWWWW
+Vitesse,NAC Breda,1-0,/match/vitesse/nac-breda/2012,2012,20,eredivisie,18,34,0,1,0,9,32,8,5,6,24,20,DWWWWWLDLDLWLDWDLLW,4,3,2,17,8,11,29,6,4,9,25,32,LWDWLLWWWWWWDDWWWWD,1,1,7,10,21,WWWDDLWDL,WWLWWDWWW
+Ajax,Utrecht,0-2,/match/ajax/fc-utrecht/2012,2012,20,eredivisie,18,34,2,0,2,4,37,9,7,3,49,28,LWDWLDDWDDLWDLWLWDW,4,4,0,23,9,14,24,4,6,9,29,38,DDWWLDWWWLWWDWLDWDW,1,2,7,7,16,WWDDDDWW,DWLWWWDWWW
+Heracles,PSV,1-1,/match/heracles/psv/2012,2012,20,eredivisie,18,34,1,1,1,10,29,6,5,8,31,27,DWDWLDDWWLLWDWWWLWW,5,2,3,20,9,1,46,12,5,2,52,21,WWLWDDWLWDDWLWWWLDW,4,4,2,21,14,WDLWWLDWLW,WLDLDDLWLD
+NEC Nijmegen,Feyenoord,0-2,/match/nec/feyenoord/2012,2012,20,eredivisie,18,34,2,0,2,13,26,7,2,10,20,27,DWWWWLWLLWWLLLDWWLW,5,0,5,13,12,6,37,10,4,5,39,26,LWDDLWWLWDWLLLWDWWW,4,3,3,17,16,WWLLLWLLWW,LDLWDWLLDW
+Groningen,RKC Waalwijk,0-3,/match/fc-groningen/rkc-waalwijk/2012,2012,20,eredivisie,18,34,2,0,3,5,37,8,5,6,32,33,WWDLWWLWWDWDWWDDWWW,7,2,1,22,11,15,23,6,3,10,21,33,DWLWLLWWLWWDDLWLLWW,3,1,6,8,20,WLWWDWWDWW,WLLWWWDWLW
+ADO Den Haag,AZ Alkmaar,0-6,/match/ado-den-haag/az/2012,2012,20,eredivisie,18,34,2,0,6,12,27,6,4,9,25,36,DWLLLWWLWWWWDDWWWDW,4,3,2,13,9,3,44,12,3,4,37,18,WWWLWLWLDWLWDWWWWDW,4,2,4,13,15,DLLWWDWWD,WLLLDLDWWW
+De Graafschap,Twente 1965,1-2,/match/graafschap/fc-twente-1965/2012,2012,20,eredivisie,18,34,2,1,2,18,14,3,4,12,17,42,LDDLWWLWDWLWLLLWLLD,2,0,8,10,22,2,45,11,6,2,52,19,LWLWWWDDLDDWDDLWWWW,4,3,2,22,11,LLWLWLLLLL,LLWDLDDLW
+Twente 1965,Heracles,2-3,/match/fc-twente-1965/heracles/2012,2012,21,eredivisie,18,34,2,2,3,2,47,12,6,2,54,20,LWLWWWDDLDDWDDLWWWWL,7,3,0,30,8,10,31,6,6,8,32,28,DWDWLDDWWLLWDWWWLWWD,1,3,5,11,18,WWWDDWDWWW,DWDDLWWWW
+AZ Alkmaar,Excelsior,2-0,/match/az/excelsior/2012,2012,21,eredivisie,18,34,0,2,0,3,46,13,3,4,43,18,WWWLWLWLDWLWDWWWWDWL,8,1,0,24,3,17,20,3,5,12,15,45,LWDWLWLDWLWDDDWLWWWW,0,2,7,4,28,WWWWWWWWD,WWWDWDWWW
+VVV Venlo,Groningen,2-0,/match/vvv/fc-groningen/2012,2012,21,eredivisie,18,34,0,2,0,16,20,3,4,13,19,50,DWDWDLWLWWWDWLWWWWWW,3,4,3,15,15,7,37,8,5,7,32,36,WWDLWWLWWDWDWWDDWWWL,1,3,5,10,22,DDDLLWDLWW,WDWLWDWDW
+Roda JC,NEC Nijmegen,1-0,/match/roda-jc/nec/2012,2012,21,eredivisie,18,34,0,1,0,9,33,9,1,10,37,45,WWLWWWWWWWLLLWLWWDWW,7,0,3,25,15,13,26,7,2,11,20,29,DWWWWLWLLWWLLLDWWLWL,2,2,5,7,15,WLWWWLLWWW,DWWWWLDWL
+NAC Breda,Ajax,0-2,/match/nac-breda/ajax/2012,2012,21,eredivisie,18,34,2,0,2,11,29,6,4,10,25,33,LWDWLLWWWWWWDDWWWWDW,5,3,2,15,11,6,37,9,7,4,49,30,LWDWLDDWDDLWDLWLWDWL,5,3,3,26,19,LDLWWWWDWD,LDLDWLWLLDW
+Utrecht,ADO Den Haag,1-1,/match/fc-utrecht/ado-den-haag/2012,2012,21,eredivisie,18,34,1,1,1,14,26,5,6,9,31,38,DDWWLDWWWLWWDWLDWDWL,3,4,2,22,22,12,27,6,4,10,25,42,DWLLLWWLWWWWDDWWWDWL,2,1,7,12,27,DWDWLWLDD,WLWLWWWDWW
+PSV,De Graafschap,4-1,/match/psv/graafschap/2012,2012,21,eredivisie,18,34,0,4,1,1,47,12,6,2,53,22,WWLWDDWLWDDWLWWWLDWD,8,1,0,31,7,18,14,3,4,13,18,44,LDDLWWLWDWLWLLLWLLDL,1,4,4,7,20,WWDWWWWWW,DDWWDWLWD
+RKC Waalwijk,Heerenveen,0-1,/match/rkc-waalwijk/heerenveen/2012,2012,21,eredivisie,18,34,2,0,1,15,25,7,3,10,24,33,DWLWLLWWLWWDDLWLLWWL,3,2,4,13,13,4,41,10,7,3,47,31,DWLDWLDDDLWLDDWLLLWW,5,3,1,22,12,DWLWLDLLW,WDLDLLDLL
+Feyenoord,Vitesse,3-1,/match/feyenoord/vitesse/2012,2012,21,eredivisie,18,34,0,3,1,5,39,11,4,5,41,26,LWDDLWWLWDWLLLWDWWWL,6,1,2,22,10,8,36,9,5,6,25,20,DWWWWWLDLDLWLDWDLLWW,4,2,4,7,12,WDWLWLWWW,DWWLLLWDLW
+Heerenveen,NAC Breda,1-0,/match/heerenveen/nac-breda/2012,2012,22,eredivisie,18,34,0,1,0,4,43,11,7,3,48,31,DWLDWLDDDLWLDDWLLLWWL,5,4,2,25,19,11,29,6,4,11,25,35,LWDWLLWWWWWWDDWWWWDWL,1,1,8,10,22,DLWDDWDWLWW,WWLWWDWWWW
+Feyenoord,RKC Waalwijk,1-1,/match/feyenoord/rkc-waalwijk/2012,2012,22,eredivisie,18,34,1,1,1,5,43,12,4,5,44,27,LWDDLWWLWDWLLLWDWWWLW,7,1,2,25,11,15,25,7,3,11,24,34,DWLWLLWWLWWDDLWLLWWLL,4,1,6,11,20,WDWLWLWWWW,WLLWWWDWLWL
+ADO Den Haag,Excelsior,1-1,/match/ado-den-haag/excelsior/2012,2012,22,eredivisie,18,34,1,1,1,12,28,6,5,10,26,43,DWLLLWWLWWWWDDWWWDWLD,4,3,3,13,15,17,20,3,5,13,15,47,LWDWLWLDWLWDDDWLWWWWW,0,2,8,4,30,DLLWWDWWDL,WWWDWDWWWW
+De Graafschap,VVV Venlo,1-4,/match/graafschap/vvv/2012,2012,22,eredivisie,18,34,2,1,4,18,14,3,4,14,19,48,LDDLWWLWDWLWLLLWLLDLW,2,0,9,11,24,16,24,4,4,13,21,50,DWDWDLWLWWWDWLWWWWWWW,0,0,10,4,35,LLWLWLLLLLL,WWWWWWWWWW
+Heracles,Roda JC,2-1,/match/heracles/roda-jc/2012,2012,22,eredivisie,18,34,0,2,1,10,33,7,6,8,35,30,DWDWLDDWWLLWDWWWLWWDL,5,3,3,21,10,8,37,10,1,10,38,45,WWLWWWWWWWLLLWLWWDWWW,2,1,7,12,30,WDLWWLDWLWD,WWWWWLLWDW
+Groningen,PSV,3-0,/match/fc-groningen/psv/2012,2012,22,eredivisie,18,34,0,3,0,7,37,8,5,8,32,38,WWDLWWLWWDWDWWDDWWWLW,7,2,2,22,14,1,51,13,6,2,57,23,WWLWDDWLWDDWLWWWLDWDW,4,5,2,22,15,WLWWDWWDWWL,WLDLDDLWLDD
+Ajax,NEC Nijmegen,4-1,/match/ajax/nec/2012,2012,22,eredivisie,18,34,0,4,1,6,39,10,7,4,51,30,LWDWLDDWDDLWDLWLWDWLL,4,4,1,23,11,14,26,7,2,12,20,30,DWWWWLWLLWWLLLDWWLWLW,2,2,6,7,16,WWDDDDWWL,DWWWWLDWLW
+Utrecht,AZ Alkmaar,3-0,/match/fc-utrecht/az/2012,2012,22,eredivisie,18,34,0,3,0,13,28,5,7,9,32,39,DDWWLDWWWLWWDWLDWDWLD,3,5,2,23,23,2,50,14,3,4,45,18,WWWLWLWLDWLWDWWWWDWLW,5,2,4,19,15,DWDWLWLDDD,WLLLDLDWWWL
+Vitesse,Twente 1965,1-4,/match/vitesse/fc-twente-1965/2012,2012,22,eredivisie,18,34,2,1,4,9,36,9,5,7,26,23,DWWWWWLDLDLWLDWDLLWWW,5,3,2,18,8,3,47,12,6,3,56,23,LWLWWWDDLDDWDDLWWWWLL,5,3,2,24,12,WWWDDLWDLW,LLWDLDDLWL
+RKC Waalwijk,Vitesse,1-0,/match/rkc-waalwijk/vitesse/2012,2012,23,eredivisie,18,34,0,1,0,15,26,7,4,11,25,35,DWLWLLWWLWWDDLWLLWWLLD,3,2,5,13,14,10,36,9,5,8,27,27,DWWWWWLDLDLWLDWDLLWWWL,4,2,5,8,15,DWLWLDLLWL,DWWLLLWDLWW
+NAC Breda,ADO Den Haag,4-0,/match/nac-breda/ado-den-haag/2012,2012,23,eredivisie,18,34,0,4,0,13,29,6,4,12,25,36,LWDWLLWWWWWWDDWWWWDWLW,5,3,3,15,13,12,30,6,6,10,27,44,DWLLLWWLWWWWDDWWWDWLDD,2,2,7,13,28,LDLWWWWDWDL,WLWLWWWDWWD
+VVV Venlo,Heracles,3-1,/match/vvv/heracles/2012,2012,23,eredivisie,18,34,0,3,1,16,26,5,4,13,25,51,DWDWDLWLWWWDWLWWWWWWWL,4,4,3,17,15,8,37,8,6,8,37,31,DWDWLDDWWLLWDWWWLWWDLW,2,3,5,14,20,DDDLLWDLWWW,DWDDLWWWWL
+Roda JC,De Graafschap,0-2,/match/roda-jc/graafschap/2012,2012,23,eredivisie,18,34,2,0,2,9,37,10,1,11,39,47,WWLWWWWWWWLLLWLWWDWWWW,8,0,3,26,15,18,14,3,4,15,20,52,LDDLWWLWDWLWLLLWLLDLWL,1,4,5,8,24,WLWWWLLWWWW,DDWWDWLWDW
+NEC Nijmegen,Groningen,4-0,/match/nec/fc-groningen/2012,2012,23,eredivisie,18,34,0,4,0,14,26,7,2,13,21,34,DWWWWLWLLWWLLLDWWLWLWW,5,0,6,13,14,7,41,9,5,8,35,38,WWDLWWLWWDWDWWDDWWWLWW,1,3,6,10,24,WWLLLWLLWWL,WDWLWDWDWW
+Excelsior,Ajax,1-4,/match/excelsior/ajax/2012,2012,23,eredivisie,18,34,2,1,4,17,21,3,6,13,16,48,LWDWLWLDWLWDDDWLWWWWWD,3,3,5,11,17,6,43,11,7,4,55,31,LWDWLDDWDDLWDLWLWDWLLW,6,3,3,28,19,LDLLLWDDLWW,LDLDWLWLLDWL
+Twente 1965,Utrecht,1-0,/match/fc-twente-1965/fc-utrecht/2012,2012,23,eredivisie,18,34,0,1,0,3,49,13,6,3,60,24,LWLWWWDDLDDWDDLWWWWLLL,7,3,1,32,11,11,32,6,7,9,35,39,DDWWLDWWWLWWDWLDWDWLDW,2,2,7,9,16,WWWDDWDWWWL,DWLWWWDWWWL
+PSV,Feyenoord,3-2,/match/psv/feyenoord/2012,2012,23,eredivisie,18,34,0,3,2,1,51,13,6,3,57,26,WWLWDDWLWDDWLWWWLDWDWW,9,1,0,35,8,5,45,12,5,5,45,28,LWDDLWWLWDWLLLWDWWWLWD,5,3,3,19,16,WWDWWWWWWW,LDLWDWLLDWL
+AZ Alkmaar,Heerenveen,3-3,/match/az/heerenveen/2012,2012,23,eredivisie,18,34,1,3,3,2,50,14,3,5,45,21,WWWLWLWLDWLWDWWWWDWLWW,9,1,0,26,3,4,47,12,7,3,49,31,DWLDWLDDDLWLDDWLLLWWLW,6,3,1,23,12,WWWWWWWWDW,WDLDLLDLLL
+ADO Den Haag,Heerenveen,0-0,/match/ado-den-haag/heerenveen/2012,2012,24,eredivisie,18,34,1,0,0,13,30,6,6,11,27,48,DWLLLWWLWWWWDDWWWDWLDDW,4,4,3,14,16,4,48,12,8,3,52,34,DWLDWLDDDLWLDDWLLLWWLWD,6,4,1,26,15,DLLWWDWWDLD,WDLDLLDLLLD
+VVV Venlo,NAC Breda,2-1,/match/vvv/nac-breda/2012,2012,24,eredivisie,18,34,0,2,1,16,30,6,4,13,28,52,DWDWDLWLWWWDWLWWWWWWWLW,5,4,3,20,16,11,33,7,4,12,29,36,LWDWLLWWWWWWDDWWWWDWLWW,1,1,9,10,23,DDDLLWDLWWWW,WWLWWDWWWWW
+RKC Waalwijk,Excelsior,1-0,/match/rkc-waalwijk/excelsior/2012,2012,24,eredivisie,18,34,0,1,0,15,30,8,4,11,26,35,DWLWLLWWLWWDDLWLLWWLLDW,4,2,5,14,14,17,21,3,6,14,17,52,LWDWLWLDWLWDDDWLWWWWWDL,0,3,8,5,31,DWLWLDLLWLW,WWWDWDWWWWD
+AZ Alkmaar,Heracles,3-1,/match/az/heracles/2012,2012,24,eredivisie,18,34,0,3,1,3,52,14,4,5,48,24,WWWLWLWLDWLWDWWWWDWLWWD,9,2,0,29,6,8,37,8,6,9,38,34,DWDWLDDWWLLWDWWWLWWDLWW,2,3,6,15,23,WWWWWWWWDWD,DWDDLWWWWLW
+Vitesse,De Graafschap,2-0,/match/vitesse/graafschap/2012,2012,24,eredivisie,18,34,0,2,0,10,36,9,5,9,27,28,DWWWWWLDLDLWLDWDLLWWWLW,5,3,3,19,12,18,16,4,4,15,22,52,LDDLWWLWDWLWLLLWLLDLWLL,2,4,5,10,24,WWWDDLWDLWL,DDWWDWLWDWL
+Ajax,Roda JC,4-1,/match/ajax/roda-jc/2012,2012,24,eredivisie,18,34,0,4,1,6,45,12,7,4,59,32,LWDWLDDWDDLWDLWLWDWLLWL,5,4,1,27,12,9,37,10,1,12,39,49,WWLWWWWWWWLLLWLWWDWWWWL,2,1,8,13,32,WWDDDDWWLW,WWWWWLLWDWW
+Utrecht,NEC Nijmegen,0-0,/match/fc-utrecht/nec/2012,2012,24,eredivisie,18,34,1,0,0,12,32,6,7,10,35,40,DDWWLDWWWLWWDWLDWDWLDWW,4,5,2,26,23,14,30,8,2,13,25,34,DWWWWLWLLWWLLLDWWLWLWWW,2,2,7,8,20,DWDWLWLDDDW,DWWWWLDWLWW
+Feyenoord,Groningen,1-0,/match/feyenoord/fc-groningen/2012,2012,24,eredivisie,18,34,0,1,0,5,45,12,5,6,47,31,LWDDLWWLWDWLLLWDWWWLWDW,7,2,2,26,12,7,41,9,5,9,35,42,WWDLWWLWWDWDWWDDWWWLWWW,1,3,7,10,28,WDWLWLWWWWD,WDWLWDWDWWW
+PSV,Twente 1965,2-6,/match/psv/fc-twente-1965/2012,2012,24,eredivisie,18,34,2,2,6,1,55,14,6,3,60,28,WWLWDDWLWDDWLWWWLDWDWWW,10,1,0,38,10,2,53,14,6,3,61,24,LWLWWWDDLDDWDDLWWWWLLLW,6,3,2,28,13,WWDWWWWWWWW,LLWDLDDLWLL
+Roda JC,VVV Venlo,3-1,/match/roda-jc/vvv/2012,2012,25,eredivisie,18,34,0,3,1,9,37,10,1,13,40,53,WWLWWWWWWWLLLWLWWDWWWWLW,8,0,4,26,17,13,34,7,4,13,30,53,DWDWDLWLWWWDWLWWWWWWWLWW,1,0,10,8,36,WLWWWLLWWWWL,WWWWWWWWWWL
+Groningen,Vitesse,1-3,/match/fc-groningen/vitesse/2012,2012,25,eredivisie,18,34,2,1,3,7,41,9,5,10,35,43,WWDLWWLWWDWDWWDDWWWLWWWW,8,2,2,25,14,8,40,10,5,9,29,28,DWWWWWLDLDLWLDWDLLWWWLWW,4,2,6,8,16,WLWWDWWDWWLW,DWWLLLWDLWWW
+Heracles,ADO Den Haag,0-2,/match/heracles/ado-den-haag/2012,2012,25,eredivisie,18,34,2,0,2,10,37,8,6,10,39,37,DWDWLDDWWLLWDWWWLWWDLWWW,6,3,3,23,11,15,32,6,7,11,27,48,DWLLLWWLWWWWDDWWWDWLDDWD,2,2,8,13,32,WDLWWLDWLWDW,WLWLWWWDWWDW
+Heerenveen,Excelsior,4-2,/match/heerenveen/excelsior/2012,2012,25,eredivisie,18,34,0,4,2,4,49,12,9,3,52,34,DWLDWLDDDLWLDDWLLLWWLWDD,6,4,2,26,19,17,21,3,6,15,17,53,LWDWLWLDWLWDDDWLWWWWWDLW,0,3,9,5,32,DLWDDWDWLWWW,WWWDWDWWWWDW
+NAC Breda,PSV,3-1,/match/nac-breda/psv/2012,2012,25,eredivisie,18,34,0,3,1,14,33,7,4,13,30,38,LWDWLLWWWWWWDDWWWWDWLWWW,6,3,3,19,13,2,55,14,6,4,62,34,WWLWDDWLWDDWLWWWLDWDWWWL,4,5,3,22,18,LDLWWWWDWDLW,WLDLDDLWLDDW
+NEC Nijmegen,Twente 1965,3-1,/match/nec/fc-twente-1965/2012,2012,25,eredivisie,18,34,0,3,1,16,31,8,3,13,25,34,DWWWWLWLLWWLLLDWWLWLWWWD,6,0,6,17,14,3,55,15,6,3,67,26,LWLWWWDDLDDWDDLWWWWLLLWL,7,3,2,34,15,WWLLLWLLWWLW,LLWDLDDLWLLL
+Feyenoord,Utrecht,1-1,/match/feyenoord/fc-utrecht/2012,2012,25,eredivisie,18,34,1,1,1,5,49,13,5,6,48,31,LWDDLWWLWDWLLLWDWWWLWDWW,8,2,2,27,12,11,34,6,8,10,35,40,DDWWLDWWWLWWDWLDWDWLDWWD,2,2,8,9,17,WDWLWLWWWWDW,DWLWWWDWWWLW
+Ajax,RKC Waalwijk,3-0,/match/ajax/rkc-waalwijk/2012,2012,25,eredivisie,18,34,0,3,0,6,49,13,7,4,63,33,LWDWLDDWDDLWDLWLWDWLLWLW,6,4,1,31,13,12,34,9,4,11,27,35,DWLWLLWWLWWDDLWLLWWLLDWW,4,2,6,12,21,WWDDDDWWLWW,WLLWWWDWLWLD
+De Graafschap,AZ Alkmaar,0-2,/match/graafschap/az/2012,2012,25,eredivisie,18,34,2,0,2,18,16,4,4,16,22,54,LDDLWWLWDWLWLLLWLLDLWLLW,2,0,10,12,28,1,56,15,4,5,51,25,WWWLWLWLDWLWDWWWWDWLWWDW,5,2,5,19,18,LLWLWLLLLLLL,WLLLDLDWWWLW
+Vitesse,Heracles,2-0,/match/vitesse/heracles/2012,2012,26,eredivisie,18,34,0,2,0,7,42,11,5,9,32,29,DWWWWWLDLDLWLDWDLLWWWLWWL,6,3,3,21,12,11,37,8,6,11,39,39,DWDWLDDWWLLWDWWWLWWDLWWWL,2,3,7,16,26,WWWDDLWDLWLW,DWDDLWWWWLWW
+RKC Waalwijk,De Graafschap,1-0,/match/rkc-waalwijk/graafschap/2012,2012,26,eredivisie,18,34,0,1,0,14,34,9,4,12,27,38,DWLWLLWWLWWDDLWLLWWLLDWWW,5,2,5,15,14,18,16,4,4,17,22,56,LDDLWWLWDWLWLLLWLLDLWLLWL,2,4,6,10,26,DWLWLDLLWLWW,DDWWDWLWDWLW
+Excelsior,Roda JC,2-1,/match/excelsior/roda-jc/2012,2012,26,eredivisie,18,34,0,2,1,17,21,3,6,16,19,57,LWDWLWLDWLWDDDWLWWWWWDLWW,3,3,6,12,21,9,41,11,1,13,43,54,WWLWWWWWWWLLLWLWWDWWWWLWW,2,1,9,14,36,LDLLLWDDLWWL,WWWWWLLWDWWW
+VVV Venlo,NEC Nijmegen,0-2,/match/vvv/nec/2012,2012,26,eredivisie,18,34,2,0,2,15,34,7,4,14,31,56,DWDWDLWLWWWDWLWWWWWWWLWWW,6,4,3,22,17,13,35,9,3,13,28,35,DWWWWLWLLWWLLLDWWLWLWWWDW,2,3,7,8,20,DDDLLWDLWWWWW,DWWWWLDWLWWD
+ADO Den Haag,Ajax,0-2,/match/ado-den-haag/ajax/2012,2012,26,eredivisie,18,34,2,0,2,16,34,7,7,11,29,48,DWLLLWWLWWWWDDWWWDWLDDWDL,4,5,3,14,16,5,53,14,7,4,66,33,LWDWLDDWDDLWDLWLWDWLLWLWW,7,3,3,32,20,DLLWWDWWDLDD,LDLDWLWLLDWLL
+PSV,Heerenveen,5-1,/match/psv/heerenveen/2012,2012,26,eredivisie,18,34,0,5,1,3,55,14,6,5,63,37,WWLWDDWLWDDWLWWWLDWDWWWLW,10,1,1,40,16,4,53,13,9,3,56,36,DWLDWLDDDLWLDDWLLLWWLWDDW,6,5,1,26,15,WWDWWWWWWWWL,WDLDLLDLLLDD
+Twente 1965,Feyenoord,0-2,/match/fc-twente-1965/feyenoord/2012,2012,26,eredivisie,18,34,2,0,2,2,55,15,6,4,68,29,LWLWWWDDLDDWDDLWWWWLLLWLW,8,3,1,33,11,6,51,13,6,6,49,32,LWDDLWWLWDWLLLWDWWWLWDWWD,5,3,4,21,19,WWWDDWDWWWLW,LDLWDWLLDWLW
+Utrecht,Groningen,3-1,/match/fc-utrecht/fc-groningen/2012,2012,26,eredivisie,18,34,0,3,1,12,35,6,9,10,36,41,DDWWLDWWWLWWDWLDWDWLDWWDD,4,6,2,26,23,8,41,9,5,11,36,46,WWDLWWLWWDWDWWDDWWWLWWWWL,1,3,8,10,29,DWDWLWLDDDWD,WDWLWDWDWWWW
+AZ Alkmaar,NAC Breda,0-0,/match/az/nac-breda/2012,2012,26,eredivisie,18,34,1,0,0,1,58,16,4,5,53,25,WWWLWLWLDWLWDWWWWDWLWWDWL,10,2,0,32,7,10,37,8,4,13,33,39,LWDWLLWWWWWWDDWWWWDWLWWWW,1,1,10,11,25,WWWWWWWWDWDW,WWLWWDWWWWWW
+Excelsior,Groningen,0-1,/match/excelsior/fc-groningen/2012,2012,27,eredivisie,18,34,2,0,1,17,25,4,6,16,21,58,LWDWLWLDWLWDDDWLWWWWWDLWWW,4,3,6,14,22,8,41,9,5,12,37,49,WWDLWWLWWDWDWWDDWWWLWWWWLW,1,3,9,11,32,LDLLLWDDLWWLW,WDWLWDWDWWWWW
+Roda JC,Vitesse,3-1,/match/roda-jc/vitesse/2012,2012,27,eredivisie,18,34,0,3,1,9,41,11,1,14,44,56,WWLWWWWWWWLLLWLWWDWWWWLWWW,9,0,4,29,18,7,46,12,5,9,34,29,DWWWWWLDLDLWLDWDLLWWWLWWLW,5,2,6,11,17,WLWWWLLWWWWLW,DWWLLLWDLWWWL
+NAC Breda,NEC Nijmegen,1-1,/match/nac-breda/nec/2012,2012,27,eredivisie,18,34,1,1,1,12,38,8,5,13,33,39,LWDWLLWWWWWWDDWWWWDWLWWWWD,7,3,3,22,14,13,37,10,3,13,30,35,DWWWWLWLLWWLLLDWWLWLWWWDWL,3,3,7,10,20,LDLWWWWDWDLWW,DWWWWLDWLWWDL
+Heerenveen,VVV Venlo,4-1,/match/heerenveen/vvv/2012,2012,27,eredivisie,18,34,0,4,1,5,53,13,9,4,57,41,DWLDWLDDDLWLDDWLLLWWLWDDWW,7,4,2,30,21,15,34,7,4,15,31,58,DWDWDLWLWWWDWLWWWWWWWLWWWL,1,0,11,9,39,DLWDDWDWLWWWW,WWWWWWWWWWLW
+ADO Den Haag,Twente 1965,1-1,/match/ado-den-haag/fc-twente-1965/2012,2012,27,eredivisie,18,34,1,1,1,16,34,7,7,12,29,50,DWLLLWWLWWWWDDWWWDWLDDWDLL,4,5,4,14,18,4,55,15,6,5,68,31,LWLWWWDDLDDWDDLWWWWLLLWLWL,7,3,3,35,18,DLLWWDWWDLDDL,LLWDLDDLWLLLW
+AZ Alkmaar,RKC Waalwijk,1-0,/match/az/rkc-waalwijk/2012,2012,27,eredivisie,18,34,0,1,0,1,60,16,5,5,53,25,WWWLWLWLDWLWDWWWWDWLWWDWLD,10,3,0,32,7,11,38,10,4,12,28,38,DWLWLLWWLWWDDLWLLWWLLDWWWW,4,2,7,12,24,WWWWWWWWDWDWD,WLLWWWDWLWLDW
+Heracles,Utrecht,3-1,/match/heracles/fc-utrecht/2012,2012,27,eredivisie,18,34,0,3,1,14,37,8,6,12,39,41,DWDWLDDWWLLWDWWWLWWDLWWWLW,6,3,4,23,13,10,39,7,9,10,39,42,DDWWLDWWWLWWDWLDWDWLDWWDDW,2,3,8,10,18,WDLWWLDWLWDWL,DWLWWWDWWWLWD
+De Graafschap,Feyenoord,0-3,/match/graafschap/feyenoord/2012,2012,27,eredivisie,18,34,2,0,3,18,16,4,4,18,22,57,LDDLWWLWDWLWLLLWLLDLWLLWLW,2,0,11,12,30,6,53,14,6,6,51,32,LWDDLWWLWDWLLLWDWWWLWDWWDL,6,3,4,23,19,LLWLWLLLLLLLL,LDLWDWLLDWLWL
+Ajax,PSV,2-0,/match/ajax/psv/2012,2012,27,eredivisie,18,34,0,2,0,3,55,15,7,4,68,33,LWDWLDDWDDLWDLWLWDWLLWLWWL,7,4,1,34,13,2,59,15,6,5,68,38,WWLWDDWLWDDWLWWWLDWDWWWLWW,4,5,4,23,21,WWDDDDWWLWWW,WLDLDDLWLDDWW
+Utrecht,Excelsior,3-2,/match/fc-utrecht/excelsior/2012,2012,28,eredivisie,18,34,0,3,2,12,39,7,9,11,40,45,DDWWLDWWWLWWDWLDWDWLDWWDDWW,5,6,2,29,24,17,25,4,6,17,21,59,LWDWLWLDWLWDDDWLWWWWWDLWWWL,0,3,10,7,36,DWDWLWLDDDWDW,WWWDWDWWWWDWW
+Groningen,Heerenveen,1-3,/match/fc-groningen/heerenveen/2012,2012,28,eredivisie,18,34,2,1,3,9,43,10,5,12,38,49,WWDLWWLWWDWDWWDDWWWLWWWWLWL,8,2,3,26,17,4,57,14,9,4,61,42,DWLDWLDDDLWLDDWLLLWWLWDDWWW,6,5,2,27,20,WLWWDWWDWWLWL,WDLDLLDLLLDDW
+PSV,VVV Venlo,2-0,/match/psv/vvv/2012,2012,28,eredivisie,18,34,0,2,0,3,59,15,6,6,68,40,WWLWDDWLWDDWLWWWLDWDWWWLWWW,11,1,1,45,17,16,34,7,4,16,32,62,DWDWDLWLWWWDWLWWWWWWWLWWWLW,1,0,12,10,43,WWDWWWWWWWWLW,WWWWWWWWWWLWW
+Twente 1965,Roda JC,2-0,/match/fc-twente-1965/roda-jc/2012,2012,28,eredivisie,18,34,0,2,0,5,56,15,7,5,69,32,LWLWWWDDLDDWDDLWWWWLLLWLWLD,8,3,2,33,13,8,45,12,1,14,47,57,WWLWWWWWWWLLLWLWWDWWWWLWWWW,2,1,10,15,38,WWWDDWDWWWLWL,WWWWWLLWDWWWW
+Feyenoord,NAC Breda,3-1,/match/feyenoord/nac-breda/2012,2012,28,eredivisie,18,34,0,3,1,6,55,15,6,6,54,32,LWDDLWWLWDWLLLWDWWWLWDWWDLL,8,3,2,28,13,11,40,8,6,13,34,40,LWDWLLWWWWWWDDWWWWDWLWWWWDD,1,2,10,11,25,WDWLWLWWWWDWD,WWLWWDWWWWWWD
+NEC Nijmegen,De Graafschap,2-0,/match/nec/graafschap/2012,2012,28,eredivisie,18,34,0,2,0,13,38,10,4,13,31,36,DWWWWLWLLWWLLLDWWLWLWWWDWLD,7,0,6,20,15,18,16,4,4,19,22,60,LDDLWWLWDWLWLLLWLLDLWLLWLWL,2,4,7,10,27,WWLLLWLLWWLWW,DDWWDWLWDWLWW
+RKC Waalwijk,ADO Den Haag,1-0,/match/rkc-waalwijk/ado-den-haag/2012,2012,28,eredivisie,18,34,0,1,0,14,38,10,4,13,28,39,DWLWLLWWLWWDDLWLLWWLLDWWWWW,6,2,5,16,14,15,36,7,8,12,30,51,DWLLLWWLWWWWDDWWWDWLDDWDLLD,3,2,8,15,32,DWLWLDLLWLWWW,WLWLWWWDWWDWL
+Ajax,Heracles,6-0,/match/ajax/heracles/2012,2012,28,eredivisie,18,34,0,6,0,2,59,16,7,4,70,33,LWDWLDDWDDLWDLWLWDWLLWLWWLW,8,4,1,36,13,10,41,9,6,12,42,42,DWDWLDDWWLLWDWWWLWWDLWWWLWW,2,3,8,16,28,WWDDDDWWLWWWW,DWDDLWWWWLWWW
+Vitesse,AZ Alkmaar,2-2,/match/vitesse/az/2012,2012,28,eredivisie,18,34,1,2,2,7,46,12,5,10,35,32,DWWWWWLDLDLWLDWDLLWWWLWWLWW,7,3,3,23,12,1,64,17,5,5,54,25,WWWLWLWLDWLWDWWWWDWLWWDWLDW,6,2,5,21,18,WWWDDLWDLWLWW,WLLLDLDWWWLWL
+Excelsior,NEC Nijmegen,0-2,/match/excelsior/nec/2012,2012,29,eredivisie,18,34,2,0,2,17,25,4,6,18,23,62,LWDWLWLDWLWDDDWLWWWWWDLWWWLW,4,3,7,14,23,11,42,11,4,13,33,36,DWWWWLWLLWWLLLDWWLWLWWWDWLDW,3,4,7,11,21,LDLLLWDDLWWLWL,DWWWWLDWLWWDLD
+AZ Alkmaar,Twente 1965,2-2,/match/az/fc-twente-1965/2012,2012,29,eredivisie,18,34,1,2,2,1,65,17,6,5,56,27,WWWLWLWLDWLWDWWWWDWLWWDWLDWD,11,3,0,33,7,4,60,16,7,5,71,32,LWLWWWDDLDDWDDLWWWWLLLWLWLDW,7,4,3,36,19,WWWWWWWWDWDWDW,LLWDLDDLWLLLWD
+NAC Breda,Heracles,1-2,/match/nac-breda/heracles/2012,2012,29,eredivisie,18,34,2,1,2,14,40,8,6,14,35,43,LWDWLLWWWWWWDDWWWWDWLWWWWDDW,7,4,3,23,15,13,41,9,6,13,42,48,DWDWLDDWWLLWDWWWLWWDLWWWLWWW,2,3,9,16,34,LDLWWWWDWDLWWD,DWDDLWWWWLWWWW
+Roda JC,Feyenoord,0-0,/match/roda-jc/feyenoord/2012,2012,29,eredivisie,18,34,1,0,0,8,45,12,1,15,47,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWW,10,0,4,32,19,6,59,16,6,6,57,33,LWDDLWWLWDWLLLWDWWWLWDWWDLLW,7,3,4,26,19,WLWWWLLWWWWLWW,LDLWDWLLDWLWLL
+RKC Waalwijk,PSV,2-1,/match/rkc-waalwijk/psv/2012,2012,29,eredivisie,18,34,0,2,1,12,42,11,4,13,29,39,DWLWLLWWLWWDDLWLLWWLLDWWWWWW,7,2,5,17,14,2,63,16,6,6,70,40,WWLWDDWLWDDWLWWWLDWDWWWLWWWW,4,5,5,23,23,DWLWLDLLWLWWWW,WLDLDDLWLDDWWW
+Heerenveen,Ajax,0-5,/match/heerenveen/ajax/2012,2012,29,eredivisie,18,34,2,0,5,5,59,15,9,4,64,43,DWLDWLDDDLWLDDWLLLWWLWDDWWWL,8,4,2,34,22,3,63,17,7,4,76,33,LWDWLDDWDDLWDLWLWDWLLWLWWLWW,8,3,3,34,20,DLWDDWDWLWWWWW,LDLDWLWLLDWLLL
+De Graafschap,Utrecht,3-0,/match/graafschap/fc-utrecht/2012,2012,29,eredivisie,18,34,0,3,0,18,16,4,4,20,22,62,LDDLWWLWDWLWLLLWLLDLWLLWLWLW,2,0,12,12,33,10,43,8,9,11,43,47,DDWWLDWWWLWWDWLDWDWLDWWDDWWW,2,3,9,11,21,LLWLWLLLLLLLLL,DWLWWWDWWWLWDW
+VVV Venlo,Vitesse,1-3,/match/vvv/vitesse/2012,2012,29,eredivisie,18,34,2,1,3,16,34,7,4,17,32,64,DWDWDLWLWWWDWLWWWWWWWLWWWLWW,6,4,4,22,19,7,48,12,6,10,37,34,DWWWWWLDLDLWLDWDLLWWWLWWLWWD,5,2,7,12,20,DDDLLWDLWWWWWL,DWWLLLWDLWWWLW
+ADO Den Haag,Groningen,3-0,/match/ado-den-haag/fc-groningen/2012,2012,29,eredivisie,18,34,0,3,0,15,36,7,8,13,30,52,DWLLLWWLWWWWDDWWWDWLDDWDLLDW,4,6,4,15,19,9,43,10,5,13,39,52,WWDLWWLWWDWDWWDDWWWLWWWWLWLL,2,3,9,12,32,DLLWWDWWDLDDLD,WDWLWDWDWWWWWL
+PSV,AZ Alkmaar,3-2,/match/psv/az/2012,2012,30,eredivisie,18,34,0,3,2,3,63,16,6,7,71,42,WWLWDDWLWDDWLWWWLDWDWWWLWWWWW,12,1,1,47,17,1,67,17,7,5,58,29,WWWLWLWLDWLWDWWWWDWLWWDWLDWDD,6,3,5,23,20,WWDWWWWWWWWLWW,WLLLDLDWWWLWLD
+NEC Nijmegen,Heerenveen,2-4,/match/nec/heerenveen/2012,2012,30,eredivisie,18,34,2,2,4,10,44,12,4,13,35,36,DWWWWLWLLWWLLLDWWLWLWWWDWLDWL,8,0,6,22,15,6,59,15,9,5,64,48,DWLDWLDDDLWLDDWLLLWWLWDDWWWLL,7,5,2,30,21,WWLLLWLLWWLWWW,WDLDLLDLLLDDWL
+Feyenoord,Excelsior,3-0,/match/feyenoord/excelsior/2012,2012,30,eredivisie,18,34,0,3,0,5,60,16,7,6,57,33,LWDDLWWLWDWLLLWDWWWLWDWWDLLWD,9,3,2,31,14,17,25,4,6,19,23,64,LWDWLWLDWLWDDDWLWWWWWDLWWWLWL,0,3,11,9,39,WDWLWLWWWWDWDW,WWWDWDWWWWDWWW
+Twente 1965,NAC Breda,2-2,/match/fc-twente-1965/nac-breda/2012,2012,30,eredivisie,18,34,1,2,2,4,61,16,8,5,73,34,LWLWWWDDLDDWDDLWWWWLLLWLWLDWD,9,3,2,35,13,14,40,8,6,15,36,45,LWDWLLWWWWWWDDWWWWDWLWWWWDDWL,1,2,11,12,28,WWWDDWDWWWLWLW,WWLWWDWWWWWWDW
+Groningen,Roda JC,0-1,/match/fc-groningen/roda-jc/2012,2012,30,eredivisie,18,34,2,0,1,13,43,10,5,14,39,55,WWDLWWLWWDWDWWDDWWWLWWWWLWLLW,8,2,4,27,20,8,47,12,2,15,47,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWWD,2,1,11,15,40,WLWWDWWDWWLWLL,WWWWWLLWDWWWWW
+Vitesse,ADO Den Haag,1-0,/match/vitesse/ado-den-haag/2012,2012,30,eredivisie,18,34,0,1,0,7,50,13,6,10,40,35,DWWWWWLDLDLWLDWDLLWWWLWWLWWDL,7,4,3,25,14,15,40,8,8,13,33,52,DWLLLWWLWWWWDDWWWDWLDDWDLLDWW,3,2,9,15,33,WWWDDLWDLWLWWD,WLWLWWWDWWDWLW
+Ajax,De Graafschap,3-1,/match/ajax/graafschap/2012,2012,30,eredivisie,18,34,0,3,1,2,65,18,7,4,81,33,LWDWLDDWDDLWDLWLWDWLLWLWWLWWL,9,4,1,42,13,18,20,5,4,20,25,62,LDDLWWLWDWLWLLLWLLDLWLLWLWLWW,2,4,8,10,29,WWDDDDWWLWWWWW,DDWWDWLWDWLWWW
+Utrecht,VVV Venlo,4-2,/match/fc-utrecht/vvv/2012,2012,30,eredivisie,18,34,0,4,2,12,43,8,9,12,43,50,DDWWLDWWWLWWDWLDWDWLDWWDDWWWW,6,6,2,32,26,16,34,7,4,18,33,67,DWDWDLWLWWWDWLWWWWWWWLWWWLWWL,1,0,13,10,45,DWDWLWLDDDWDWW,WWWWWWWWWWLWWW
+Heracles,RKC Waalwijk,1-1,/match/heracles/rkc-waalwijk/2012,2012,30,eredivisie,18,34,1,1,1,11,43,10,6,13,44,49,DWDWLDDWWLLWDWWWLWWDLWWWLWWWL,7,3,4,26,14,9,46,12,4,13,31,40,DWLWLLWWLWWDDLWLLWWLLDWWWWWWW,4,2,8,12,25,WDLWWLDWLWDWLW,WLLWWWDWLWLDWW
+NAC Breda,Roda JC,0-3,/match/nac-breda/roda-jc/2012,2012,31,eredivisie,18,34,2,0,3,14,41,8,7,15,38,47,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLD,7,4,4,24,17,8,49,13,2,15,48,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDL,3,1,11,16,40,LDLWWWWDWDLWWDL,WWWWWLLWDWWWWWL
+Heerenveen,Vitesse,1-1,/match/heerenveen/vitesse/2012,2012,31,eredivisie,18,34,1,1,1,6,61,16,9,5,68,50,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLL,8,4,3,34,27,7,54,14,6,10,41,35,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLW,6,2,7,15,21,DLWDDWDWLWWWWWL,DWWLLLWDLWWWLWL
+De Graafschap,Heracles,2-3,/match/graafschap/heracles/2012,2012,31,eredivisie,18,34,2,2,3,18,20,5,4,21,26,65,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWW,3,0,12,15,33,11,45,10,7,13,45,50,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLD,3,3,9,18,35,LLWLWLLLLLLLLLW,DWDDLWWWWLWWWWL
+RKC Waalwijk,Utrecht,0-2,/match/rkc-waalwijk/fc-utrecht/2012,2012,31,eredivisie,18,34,2,0,2,10,47,12,5,13,32,41,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWD,8,2,5,19,15,9,47,9,9,12,47,52,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWW,2,3,10,11,24,DWLWLDLLWLWWWWW,DWLWWWDWWWLWDWW
+Excelsior,Twente 1965,0-1,/match/excelsior/fc-twente-1965/2012,2012,31,eredivisie,18,34,2,0,1,17,25,4,6,20,23,67,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLW,4,3,8,14,25,5,63,16,9,5,75,36,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDD,7,5,3,38,21,LDLLLWDDLWWLWLL,LLWDLDDLWLLLWDD
+ADO Den Haag,Feyenoord,1-2,/match/ado-den-haag/feyenoord/2012,2012,31,eredivisie,18,34,2,1,2,15,40,8,8,14,33,53,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWW,5,6,4,18,19,4,64,17,7,6,60,33,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDW,7,4,4,26,19,DLLWWDWWDLDDLDW,LDLWDWLLDWLWLLD
+AZ Alkmaar,VVV Venlo,2-1,/match/az/vvv/2012,2012,31,eredivisie,18,34,0,2,1,2,67,17,7,6,60,32,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDW,11,4,0,35,9,16,34,7,4,19,35,71,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLW,1,0,14,12,49,WWWWWWWWDWDWDWD,WWWWWWWWWWLWWWW
+PSV,NEC Nijmegen,2-1,/match/psv/nec/2012,2012,31,eredivisie,18,34,0,2,1,3,67,17,6,7,74,44,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWW,13,1,1,50,19,12,44,12,4,14,37,40,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLL,4,4,7,13,21,WWDWWWWWWWWLWWW,DWWWWLDWLWWDLDL
+Ajax,Groningen,2-0,/match/ajax/fc-groningen/2012,2012,31,eredivisie,18,34,0,2,0,1,69,19,7,4,84,34,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLW,10,4,1,45,14,13,43,10,5,15,39,56,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWL,2,3,10,12,35,WWDDDDWWLWWWWWW,WDWLWDWDWWWWWLW
+Groningen,De Graafschap,1-1,/match/fc-groningen/graafschap/2012,2012,32,eredivisie,18,34,1,1,1,13,43,10,5,16,39,58,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWLW,8,2,5,27,21,18,20,5,4,22,28,68,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWWL,2,4,9,11,32,WLWWDWWDWWLWLLL,DDWWDWLWDWLWWWW
+Heracles,Heerenveen,2-4,/match/heracles/heerenveen/2012,2012,32,eredivisie,18,34,2,2,4,10,47,11,7,13,48,52,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLDL,7,4,4,27,15,6,63,16,10,5,69,51,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLLD,8,5,2,34,23,WDLWWLDWLWDWLWD,WDLDLLDLLLDDWLL
+Vitesse,Excelsior,3-2,/match/vitesse/excelsior/2012,2012,32,eredivisie,18,34,0,3,2,7,55,14,7,10,42,36,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLWD,8,4,3,26,14,17,25,4,6,21,23,68,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLWL,0,3,12,9,42,WWWDDLWDLWLWWDW,WWWDWDWWWWDWWWW
+Utrecht,NAC Breda,1-3,/match/fc-utrecht/nac-breda/2012,2012,32,eredivisie,18,34,2,1,3,9,49,10,9,12,49,52,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWWL,7,6,2,36,28,14,41,8,7,16,38,50,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLDL,1,3,11,14,30,DWDWLWLDDDWDWWW,WWLWWDWWWWWWDWD
+VVV Venlo,ADO Den Haag,2-1,/match/vvv/ado-den-haag/2012,2012,32,eredivisie,18,34,0,2,1,16,34,7,4,20,36,73,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLWW,6,4,5,23,22,15,40,8,8,15,34,55,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWWL,3,2,10,15,34,DDDLLWDLWWWWWLL,WLWLWWWDWWDWLWW
+Roda JC,PSV,1-3,/match/roda-jc/psv/2012,2012,32,eredivisie,18,34,2,1,3,8,51,14,2,15,51,59,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDLL,10,1,4,32,19,2,71,18,6,7,76,45,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWWW,4,5,6,24,25,WLWWWLLWWWWLWWD,WLDLDDLWLDDWWWW
+Twente 1965,Ajax,1-2,/match/fc-twente-1965/ajax/2012,2012,32,eredivisie,18,34,2,1,2,5,65,17,9,5,76,36,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDDL,9,4,2,37,15,1,73,20,7,4,86,34,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLWW,9,3,3,39,20,WWWDDWDWWWLWLWD,LDLDWLWLLDWLLLL
+Feyenoord,AZ Alkmaar,1-0,/match/feyenoord/az/2012,2012,32,eredivisie,18,34,0,1,0,4,66,18,7,6,62,34,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDWL,10,3,2,34,14,3,71,18,7,6,62,33,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDWW,6,3,6,25,23,WDWLWLWWWWDWDWW,WLLLDLDWWWLWLDW
+NEC Nijmegen,RKC Waalwijk,1-1,/match/nec/rkc-waalwijk/2012,2012,32,eredivisie,18,34,1,1,1,12,44,12,4,15,38,42,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLLW,8,0,7,24,19,11,47,12,5,14,32,43,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWDL,4,3,8,13,26,WWLLLWLLWWLWWWL,WLLWWWDWLWLDWWD
+Groningen,NAC Breda,1-1,/match/fc-groningen/nac-breda/2012,2012,33,eredivisie,18,34,1,1,1,13,45,10,6,16,40,59,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWLWD,8,3,5,28,22,14,43,9,7,16,41,51,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLDLL,2,3,11,17,31,WLWWDWWDWWLWLLLD,WWLWWDWWWWWWDWDL
+Utrecht,Vitesse,2-2,/match/fc-utrecht/vitesse/2012,2012,33,eredivisie,18,34,1,2,2,9,49,10,9,13,50,55,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWWLL,7,6,3,37,31,7,59,15,7,10,45,38,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLWDW,6,3,7,16,22,DWDWLWLDDDWDWWWL,DWWLLLWDLWWWLWLD
+NEC Nijmegen,AZ Alkmaar,1-1,/match/nec/az/2012,2012,33,eredivisie,18,34,1,1,1,12,46,12,5,15,39,43,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLLWD,8,1,7,25,20,3,71,18,7,7,62,34,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDWWW,6,3,7,25,24,WWLLLWLLWWLWWWLD,WLLLDLDWWWLWLDWW
+De Graafschap,Excelsior,2-2,/match/graafschap/excelsior/2012,2012,33,eredivisie,18,34,1,2,2,18,21,5,5,22,29,69,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWWLD,3,0,13,17,36,17,25,4,6,22,25,71,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLWLW,0,3,13,11,45,LLWLWLLLLLLLLLWL,WWWDWDWWWWDWWWWW
+RKC Waalwijk,Roda JC,5-2,/match/rkc-waalwijk/roda-jc/2012,2012,33,eredivisie,18,34,0,5,2,10,48,12,6,14,33,44,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWDLD,8,2,6,19,17,8,51,14,2,16,52,62,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDLLL,4,1,11,19,40,DWLWLDLLWLWWWWWL,WWWWWLLWDWWWWWLL
+Ajax,VVV Venlo,2-0,/match/ajax/vvv/2012,2012,33,eredivisie,18,34,0,2,0,1,75,21,7,4,88,35,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLWWL,11,4,1,47,14,16,38,8,4,20,38,74,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLWWW,1,0,15,13,51,WWDDDDWWLWWWWWWW,WWWWWWWWWWLWWWWW
+Feyenoord,Heracles,4-1,/match/feyenoord/heracles/2012,2012,33,eredivisie,18,34,0,4,1,4,70,19,7,6,63,34,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDWLW,11,3,2,35,14,11,47,11,7,14,50,56,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLDLL,4,3,9,21,37,WDWLWLWWWWDWDWWW,DWDDLWWWWLWWWWLL
+PSV,ADO Den Haag,5-0,/match/psv/ado-den-haag/2012,2012,33,eredivisie,18,34,0,5,0,2,73,19,6,7,79,46,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWWWL,14,1,1,52,20,15,40,8,8,16,35,57,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWWLW,3,2,11,16,36,WWDWWWWWWWWLWWWW,WLWLWWWDWWDWLWWW
+Twente 1965,Heerenveen,3-4,/match/fc-twente-1965/heerenveen/2012,2012,33,eredivisie,18,34,2,3,4,5,65,17,9,6,77,38,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDDLL,9,4,3,38,17,6,65,17,10,5,73,53,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLLDL,9,5,2,38,25,WWWDDWDWWWLWLWDL,WDLDLLDLLLDDWLLL
+ADO Den Haag,De Graafschap,3-5,/match/ado-den-haag/graafschap/2012,2012,34,eredivisie,18,34,2,3,5,15,40,8,8,17,35,62,DWLLLWWLWWWWDDWWWDWLDDWDLLDWWWLWW,5,6,5,19,21,18,23,5,6,22,31,71,LDDLWWLWDWLWLLLWLLDLWLLWLWLWWWLDD,2,5,9,12,33,DLLWWDWWDLDDLDWL,DDWWDWLWDWLWWWWD
+NAC Breda,RKC Waalwijk,3-2,/match/nac-breda/rkc-waalwijk/2012,2012,34,eredivisie,18,34,0,3,2,14,44,9,8,16,42,52,LWDWLLWWWWWWDDWWWWDWLWWWWDDWLDLLD,7,4,5,24,20,8,52,13,6,14,38,46,DWLWLLWWLWWDDLWLLWWLLDWWWWWWWDLDW,4,4,8,14,27,LDLWWWWDWDLWWDLL,WLLWWWDWLWLDWWDD
+Vitesse,Ajax,1-3,/match/vitesse/ajax/2012,2012,34,eredivisie,18,34,2,1,3,7,60,15,8,10,47,40,DWWWWWLDLDLWLDWDLLWWWLWWLWWDLWDWD,9,4,3,29,16,1,79,22,7,4,90,35,LWDWLDDWDDLWDLWLWDWLLWLWWLWWLWWLW,10,3,3,41,21,WWWDDLWDLWLWWDWW,LDLDWLWLLDWLLLLL
+Excelsior,PSV,1-3,/match/excelsior/psv/2012,2012,34,eredivisie,18,34,2,1,3,17,26,4,7,22,27,73,LWDWLWLDWLWDDDWLWWWWWDLWWWLWLWLWD,4,3,9,14,26,2,77,20,6,7,84,46,WWLWDDWLWDDWLWWWLDWDWWWLWWWWWWWLW,5,5,6,27,26,LDLLLWDDLWWLWLLL,WLDLDDLWLDDWWWWL
+Heerenveen,Feyenoord,2-3,/match/heerenveen/feyenoord/2012,2012,34,eredivisie,18,34,2,2,3,5,67,18,10,5,77,56,DWLDWLDDDLWLDDWLLLWWLWDDWWWLLLDLL,8,5,3,35,28,3,74,20,7,6,67,35,LWDDLWWLWDWLLLWDWWWLWDWWDLLWDWLWW,8,4,4,28,20,DLWDDWDWLWWWWWLD,LDLWDWLLDWLWLLDL
+Roda JC,Utrecht,1-3,/match/roda-jc/fc-utrecht/2012,2012,34,eredivisie,18,34,2,1,3,10,51,14,2,17,54,67,WWLWWWWWWWLLLWLWWDWWWWLWWWWWDLLLW,10,1,5,33,22,9,51,10,10,13,52,57,DDWWLDWWWLWWDWLDWDWLDWWDDWWWWWLLD,3,3,10,13,24,WLWWWLLWWWWLWWDL,DWLWWWDWWWLWDWWL
+VVV Venlo,Twente 1965,4-2,/match/vvv/fc-twente-1965/2012,2012,34,eredivisie,18,34,0,4,2,16,38,8,4,21,38,76,DWDWDLWLWWWDWLWWWWWWWLWWWLWWLWWWW,7,4,5,25,23,6,65,17,9,7,80,42,LWLWWWDDLDDWDDLWWWWLLLWLWLDWDDLLL,8,5,3,39,21,DDDLLWDLWWWWWLLW,LLWDLDDLWLLLWDDL
+AZ Alkmaar,Groningen,1-0,/match/az/fc-groningen/2012,2012,34,eredivisie,18,34,0,1,0,4,72,18,8,7,63,35,WWWLWLWLDWLWDWWWWDWLWWDWLDWDDWWWD,12,4,0,37,10,13,47,10,7,16,41,60,WWDLWWLWWDWDWWDDWWWLWWWWLWLLWLWDD,2,3,11,12,37,WWWWWWWWDWDWDWDW,WDWLWDWDWWWWWLWW
+Heracles,NEC Nijmegen,1-2,/match/heracles/nec/2012,2012,34,eredivisie,18,34,2,1,2,12,47,11,7,15,51,60,DWDWLDDWWLLWDWWWLWWDLWWWLWWWLDLLW,7,4,5,29,19,11,48,12,6,15,40,44,DWWWWLWLLWWLLLDWWLWLWWWDWLDWLLWDD,4,4,8,14,23,WDLWWLDWLWDWLWDL,DWWWWLDWLWWDLDLW

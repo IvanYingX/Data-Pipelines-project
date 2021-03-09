@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Bastia,PSG,2-2,/match/bastia/paris-saint-germain-fc/1996,1996,1,ligue_1,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Guingamp,FC Martigues,2-0,/match/guingamp/fc-martigues/1996,1996,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Montpellier,Strasbourg,2-2,/match/montpellier-hsc/strasbourg/1996,1996,1,ligue_1,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Cannes,Olympique Lyonnais,3-0,/match/as-cannes/olympique-lyonnais/1996,1996,1,ligue_1,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-FC Gueugnon,Metz,0-0,/match/fc-gueugnon/metz/1996,1996,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lens,Le Havre,2-0,/match/lens/havre-ac/1996,1996,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Saint-Étienne,Nice,1-1,/match/saint-etienne/nice/1996,1996,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Girondins Bordeaux,Lille,1-0,/match/bordeaux/lillestrom/1996,1996,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Nantes,Auxerre,1-0,/match/nantes/auxerre/1996,1996,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Monaco,Stade Rennais,3-1,/match/monaco/stade-rennes/1996,1996,1,ligue_1,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Nice,Monaco,1-2,/match/nice/monaco/1996,1996,2,ligue_1,20,38,2,1,2,13,0,1,0,1,1,D,0,0,0,0,0,1,1,0,0,3,1,W,0,0,0,0,0,,
-FC Martigues,Nantes,0-4,/match/fc-martigues/nantes/1996,1996,2,ligue_1,20,38,2,0,4,15,0,0,1,0,2,W,0,0,0,0,0,5,1,0,0,1,0,W,0,0,0,0,0,,
-Olympique Lyonnais,Montpellier,3-2,/match/olympique-lyonnais/montpellier-hsc/1996,1996,2,ligue_1,20,38,0,3,2,20,0,0,1,0,3,W,0,0,0,0,0,7,0,1,0,2,2,D,0,0,0,0,0,,
-Strasbourg,Le Havre,3-0,/match/strasbourg/havre-ac/1996,1996,2,ligue_1,20,38,0,3,0,14,0,1,0,2,2,D,0,0,0,0,0,17,0,0,1,0,2,W,0,0,1,0,2,,W
-Stade Rennais,Cannes,3-2,/match/stade-rennes/as-cannes/1996,1996,2,ligue_1,20,38,0,3,2,16,0,0,1,1,3,W,0,0,0,0,0,3,1,0,0,3,0,W,0,0,0,0,0,,
-Metz,Lens,2-0,/match/metz/lens/1996,1996,2,ligue_1,20,38,0,2,0,12,0,1,0,0,0,D,0,0,0,0,0,4,1,0,0,2,0,W,0,0,0,0,0,,
-PSG,Guingamp,1-1,/match/paris-saint-germain-fc/guingamp/1996,1996,2,ligue_1,20,38,1,1,1,11,0,1,0,2,2,D,0,0,0,0,0,2,1,0,0,2,0,W,0,0,0,0,0,,
-Lille,Bastia,0-2,/match/lillestrom/bastia/1996,1996,2,ligue_1,20,38,2,0,2,18,0,0,1,0,1,W,0,0,0,0,0,8,0,1,0,2,2,D,0,0,0,0,0,,
-Auxerre,FC Gueugnon,4-0,/match/auxerre/fc-gueugnon/1996,1996,2,ligue_1,20,38,0,4,0,19,0,0,1,0,1,W,0,0,0,0,0,10,0,1,0,0,0,D,0,0,0,0,0,,
-Girondins Bordeaux,Saint-Étienne,2-0,/match/bordeaux/saint-etienne/1996,1996,2,ligue_1,20,38,0,2,0,6,1,0,0,1,0,W,1,0,0,1,0,9,0,1,0,1,1,D,0,0,0,0,0,W,
-Nantes,PSG,1-2,/match/nantes/paris-saint-germain-fc/1996,1996,3,ligue_1,20,38,2,1,2,3,2,0,0,5,0,WL,1,0,0,1,0,13,0,2,0,3,3,DD,0,1,0,2,2,W,D
-FC Gueugnon,FC Martigues,0-0,/match/fc-gueugnon/fc-martigues/1996,1996,3,ligue_1,20,38,1,0,0,14,0,1,1,0,4,DW,0,1,0,0,0,18,0,0,2,0,6,WL,0,0,1,0,2,D,W
-Lens,Strasbourg,0-0,/match/lens/strasbourg/1996,1996,3,ligue_1,20,38,1,0,0,11,1,0,1,2,2,WW,1,0,0,2,0,5,1,1,0,5,2,DW,0,1,0,2,2,W,D
-Montpellier,Stade Rennais,3-1,/match/montpellier-hsc/stade-rennes/1996,1996,3,ligue_1,20,38,0,3,1,16,0,1,1,4,5,DW,0,1,0,2,2,8,1,0,1,4,5,WW,0,0,1,1,3,D,W
-Le Havre,Olympique Lyonnais,2-1,/match/havre-ac/olympique-lyonnais/1996,1996,3,ligue_1,20,38,0,2,1,19,0,0,2,0,5,WW,0,0,0,0,0,9,1,0,1,3,5,WW,0,0,1,0,3,,W
-Monaco,Auxerre,2-2,/match/monaco/auxerre/1996,1996,3,ligue_1,20,38,1,2,2,2,2,0,0,5,2,WL,1,0,0,3,1,7,1,0,1,4,1,WW,0,0,1,0,1,W,W
-Saint-Étienne,Lille,1-1,/match/saint-etienne/lillestrom/1996,1996,3,ligue_1,20,38,1,1,1,15,0,1,1,1,3,DW,0,1,0,1,1,20,0,0,2,0,3,WL,0,0,1,0,1,D,W
-Bastia,Girondins Bordeaux,2-0,/match/bastia/bordeaux/1996,1996,3,ligue_1,20,38,0,2,0,10,1,1,0,4,2,DL,0,1,0,2,2,1,2,0,0,3,0,WW,0,0,0,0,0,D,
-Cannes,Metz,1-2,/match/as-cannes/metz/1996,1996,3,ligue_1,20,38,2,1,2,12,1,0,1,5,3,WW,1,0,0,3,0,6,1,1,0,2,0,DW,0,1,0,0,0,W,D
-Guingamp,Nice,0-0,/match/guingamp/nice/1996,1996,3,ligue_1,20,38,1,0,0,4,1,1,0,3,1,WD,1,0,0,2,0,17,0,1,1,2,3,DL,0,1,0,1,1,W,D
-PSG,Saint-Étienne,4-0,/match/paris-saint-germain-fc/saint-etienne/1996,1996,4,ligue_1,20,38,0,4,0,11,1,2,0,5,4,DDL,0,1,0,1,1,16,0,2,1,2,4,DWD,0,0,1,0,2,D,W
-Stade Rennais,Le Havre,1-0,/match/stade-rennes/havre-ac/1996,1996,4,ligue_1,20,38,0,1,0,12,1,0,2,5,8,WWW,1,0,0,3,2,17,1,0,2,2,6,WWW,0,0,2,0,5,W,WW
-Metz,Montpellier,1-0,/match/metz/montpellier-hsc/1996,1996,4,ligue_1,20,38,0,1,0,5,2,1,0,4,1,DWL,1,0,0,2,0,6,1,1,1,7,6,DWW,0,0,1,2,3,W,W
-Nice,FC Gueugnon,3-1,/match/nice/fc-gueugnon/1996,1996,4,ligue_1,20,38,0,3,1,18,0,2,1,2,3,DLD,0,0,1,1,2,15,0,2,1,0,4,DWD,0,0,1,0,4,L,W
-Bastia,Monaco,2-1,/match/bastia/monaco/1996,1996,4,ligue_1,20,38,0,2,1,2,2,1,0,6,2,DLW,1,1,0,4,2,3,2,1,0,7,4,WLD,1,0,0,2,1,DW,L
-Lille,Guingamp,0-3,/match/lillestrom/guingamp/1996,1996,4,ligue_1,20,38,2,0,3,20,0,1,2,1,4,WLD,0,0,1,0,2,4,1,2,0,3,1,WDD,0,1,0,1,1,L,D
-Auxerre,Lens,0-1,/match/auxerre/lens/1996,1996,4,ligue_1,20,38,2,0,1,10,1,1,1,6,3,WWD,1,0,0,4,0,7,1,1,1,2,2,WWD,0,0,1,0,2,W,W
-FC Martigues,Cannes,2-1,/match/fc-martigues/as-cannes/1996,1996,4,ligue_1,20,38,0,2,1,19,0,1,2,0,6,WLD,0,0,1,0,4,14,1,0,2,6,5,WWL,0,0,1,2,3,L,W
-Girondins Bordeaux,Nantes,3-0,/match/bordeaux/nantes/1996,1996,4,ligue_1,20,38,0,3,0,1,2,0,1,3,2,WWW,2,0,0,3,0,9,2,0,1,6,2,WLL,1,0,0,4,0,WW,L
-Olympique Lyonnais,Strasbourg,1-1,/match/olympique-lyonnais/strasbourg/1996,1996,4,ligue_1,20,38,1,1,1,13,1,0,2,4,7,WWW,1,0,0,3,2,8,1,2,0,5,2,DWD,0,2,0,2,2,W,DD
-Nantes,Nice,1-0,/match/nantes/nice/1996,1996,5,ligue_1,20,38,0,1,0,11,2,0,2,6,5,WLLW,1,0,1,2,2,13,1,2,1,5,4,DLDW,0,2,0,1,1,WL,DD
-Le Havre,Metz,0-0,/match/havre-ac/metz/1996,1996,5,ligue_1,20,38,1,0,0,19,1,0,3,2,7,WWWW,1,0,0,2,1,3,3,1,0,5,1,DWLW,1,1,0,2,1,W,DL
-Montpellier,Auxerre,3-1,/match/montpellier-hsc/auxerre/1996,1996,5,ligue_1,20,38,0,3,1,10,1,1,2,7,7,DWWW,1,1,0,5,3,14,1,1,2,6,4,WWDL,0,1,1,2,3,DW,WD
-Lens,Olympique Lyonnais,2-2,/match/lens/olympique-lyonnais/1996,1996,5,ligue_1,20,38,1,2,2,6,2,1,1,3,2,WWDL,1,1,0,2,0,12,1,1,2,5,8,WWWD,0,0,2,1,5,WD,WW
-Cannes,Lille,2-1,/match/as-cannes/lillestrom/1996,1996,5,ligue_1,20,38,0,2,1,16,1,0,3,7,7,WWLW,1,0,1,4,2,20,0,1,3,1,7,WLDL,0,1,1,1,2,WL,WD
-Monaco,FC Martigues,0-1,/match/monaco/fc-martigues/1996,1996,5,ligue_1,20,38,2,0,1,7,2,1,1,8,6,WLDW,1,1,0,5,3,15,1,1,2,2,7,WLDW,0,1,1,0,2,WD,WD
-FC Gueugnon,PSG,1-3,/match/fc-gueugnon/paris-saint-germain-fc/1996,1996,5,ligue_1,20,38,2,1,3,17,0,2,2,1,7,DWDW,0,2,0,0,0,4,2,2,0,9,4,DDLW,1,1,0,4,3,DD,DL
-Saint-Étienne,Bastia,3-0,/match/saint-etienne/bastia/1996,1996,5,ligue_1,20,38,0,3,0,18,0,2,2,2,8,DWDW,0,2,0,2,2,2,3,1,0,8,3,DLWW,1,0,0,2,0,DD,L
-Strasbourg,Stade Rennais,3-1,/match/strasbourg/stade-rennes/1996,1996,5,ligue_1,20,38,0,3,1,9,1,3,0,6,3,DWDD,1,0,0,3,0,8,2,0,2,6,8,WWWW,0,0,2,2,6,W,WW
-Guingamp,Girondins Bordeaux,1-0,/match/guingamp/bordeaux/1996,1996,5,ligue_1,20,38,0,1,0,5,2,2,0,6,1,WDDL,1,1,0,2,0,1,3,0,1,6,2,WWWW,0,0,1,0,2,WD,W
-Lille,Nantes,0-0,/match/lillestrom/nantes/1996,1996,6,ligue_1,20,38,1,0,0,20,0,1,4,2,9,WLDLW,0,0,2,0,5,8,3,0,2,7,5,WLLWW,1,0,1,4,3,LL,LW
-Nice,Lens,1-1,/match/nice/lens/1996,1996,6,ligue_1,20,38,1,1,1,16,1,2,2,5,5,DLDWW,1,0,1,4,3,9,2,2,1,5,4,WWDLD,1,0,1,1,2,LW,WL
-Stade Rennais,Olympique Lyonnais,1-0,/match/stade-rennes/olympique-lyonnais/1996,1996,6,ligue_1,20,38,0,1,0,10,2,0,3,7,11,WWWWW,2,0,0,4,2,14,1,2,2,7,10,WWWDD,0,1,2,3,7,WW,WWD
-Metz,Strasbourg,3-2,/match/metz/strasbourg/1996,1996,6,ligue_1,20,38,0,3,2,3,3,2,0,5,1,DWLWD,2,0,0,3,0,5,2,3,0,9,4,DWDDW,0,3,0,3,3,WW,DDD
-Saint-Étienne,Guingamp,4-0,/match/saint-etienne/guingamp/1996,1996,6,ligue_1,20,38,0,4,0,13,1,2,2,5,8,DWDWW,1,2,0,5,2,1,3,2,0,7,1,WDDLW,1,1,0,4,1,DDW,DL
-PSG,Le Havre,2-0,/match/paris-saint-germain-fc/havre-ac/1996,1996,6,ligue_1,20,38,0,2,0,6,3,2,0,12,5,DDLWL,1,1,0,5,1,17,1,1,3,2,7,WWWWD,0,0,3,0,6,DW,WWW
-Bastia,FC Gueugnon,1-2,/match/bastia/fc-gueugnon/1996,1996,6,ligue_1,20,38,2,1,2,4,3,1,1,8,6,DLWWW,2,1,0,6,3,19,0,2,3,2,10,DWDWL,0,0,2,1,7,DWW,WW
-Girondins Bordeaux,Monaco,2-4,/match/bordeaux/monaco/1996,1996,6,ligue_1,20,38,2,2,4,2,3,0,2,6,3,WWWWW,3,0,0,6,0,11,2,1,2,8,7,WLDWL,1,0,1,3,3,WWW,LW
-Auxerre,Cannes,5-1,/match/auxerre/as-cannes/1996,1996,6,ligue_1,20,38,0,5,1,18,1,1,3,7,7,WWDLW,1,0,1,4,1,12,2,0,3,9,8,WWLWW,0,0,2,3,5,WL,WW
-FC Martigues,Montpellier,0-1,/match/fc-martigues/montpellier-hsc/1996,1996,6,ligue_1,20,38,2,0,1,15,2,1,2,3,7,WLDWL,1,0,1,2,5,7,2,1,2,10,8,DWWWW,0,0,2,2,4,LW,WW
-Montpellier,Nice,0-1,/match/montpellier-hsc/nice/1996,1996,7,ligue_1,20,38,2,0,1,6,3,1,2,11,8,DWWWWL,2,1,0,8,4,15,1,3,2,6,6,DLDWWD,0,2,1,1,2,DWW,DDW
-Monaco,Lille,2-1,/match/monaco/lillestrom/1996,1996,7,ligue_1,20,38,0,2,1,12,3,1,2,12,9,WLDWLL,1,1,1,5,4,20,0,2,4,2,9,WLDLWD,0,1,2,2,4,WDL,WDW
-Le Havre,Auxerre,0-4,/match/havre-ac/auxerre/1996,1996,7,ligue_1,20,38,2,0,4,18,1,1,4,2,9,WWWWDW,1,1,0,2,1,13,2,1,3,12,8,WWDLWW,0,1,2,3,6,WD,WDW
-Lens,Stade Rennais,1-0,/match/lens/stade-rennes/1996,1996,7,ligue_1,20,38,0,1,0,11,2,3,1,6,5,WWDLDD,1,2,0,4,2,7,3,0,3,8,11,WWWWWW,0,0,3,3,9,WDD,WWW
-Olympique Lyonnais,Metz,1-1,/match/olympique-lyonnais/metz/1996,1996,7,ligue_1,20,38,1,1,1,16,1,2,3,7,11,WWWDDW,1,1,0,4,3,1,4,2,0,8,3,DWLWDW,1,2,0,2,1,WD,DLD
-FC Gueugnon,Girondins Bordeaux,2-2,/match/fc-gueugnon/bordeaux/1996,1996,7,ligue_1,20,38,1,2,2,19,1,2,3,4,11,DWDWLL,0,2,1,1,3,8,3,0,3,8,7,WWWWWL,0,0,2,0,3,DDL,WW
-Nantes,Saint-Étienne,2-2,/match/nantes/saint-etienne/1996,1996,7,ligue_1,20,38,1,2,2,10,3,1,2,7,5,WLLWWD,2,0,1,3,2,4,2,2,2,9,8,DWDWWW,0,0,2,0,6,WLW,WW
-Cannes,PSG,0-2,/match/as-cannes/paris-saint-germain-fc/1996,1996,7,ligue_1,20,38,2,0,2,14,2,0,4,10,13,WWLWWW,2,0,1,6,3,2,4,2,0,14,5,DDLWLW,2,1,0,7,4,WLW,DLL
-Strasbourg,FC Martigues,2-0,/match/strasbourg/fc-martigues/1996,1996,7,ligue_1,20,38,0,2,0,9,2,3,1,11,7,DWDDWW,2,0,0,6,1,17,2,1,3,3,8,WLDWLL,1,1,1,1,2,WW,WDL
-Guingamp,Bastia,1-0,/match/guingamp/bastia/1996,1996,7,ligue_1,20,38,0,1,0,3,3,2,1,7,5,WDDLWW,2,1,0,3,0,5,3,1,2,9,8,DLWWWL,1,0,1,2,3,WDW,LW
-PSG,Monaco,2-1,/match/paris-saint-germain-fc/monaco/1996,1996,8,ligue_1,20,38,0,2,1,3,5,2,0,16,5,DDLWLWL,2,1,0,7,1,6,4,1,2,14,10,WLDWLLW,2,0,1,7,5,DWW,LWL
-FC Martigues,Olympique Lyonnais,1-2,/match/fc-martigues/olympique-lyonnais/1996,1996,8,ligue_1,20,38,2,1,2,18,2,1,4,3,10,WLDWLLW,1,0,2,2,6,15,1,3,3,8,12,WWWDDWD,0,1,3,3,8,LWL,WWDW
-Guingamp,Montpellier,0-0,/match/guingamp/montpellier-hsc/1996,1996,8,ligue_1,20,38,1,0,0,2,4,2,1,8,5,WDDLWWW,3,1,0,4,0,10,3,1,3,11,9,DWWWWLL,1,0,2,3,4,WDWW,WWL
-Saint-Étienne,FC Gueugnon,2-0,/match/saint-etienne/fc-gueugnon/1996,1996,8,ligue_1,20,38,0,2,0,9,2,3,2,11,10,DWDWWWD,2,2,0,9,2,17,1,3,3,6,13,DWDWLLD,1,0,2,3,8,DDWW,WWL
-Bastia,Nantes,4-1,/match/bastia/nantes/1996,1996,8,ligue_1,20,38,0,4,1,12,3,1,3,9,9,DLWWWLW,2,1,1,7,5,8,3,2,2,9,7,WLLWWDD,1,1,1,4,3,DWWL,LWD
-Lille,Lens,1-3,/match/lillestrom/lens/1996,1996,8,ligue_1,20,38,2,1,3,20,0,2,5,3,11,WLDLWDW,0,1,2,0,5,5,3,3,1,7,5,WWDLDDW,1,1,1,2,3,LLD,WLD
-Girondins Bordeaux,Cannes,2-1,/match/bordeaux/as-cannes/1996,1996,8,ligue_1,20,38,0,2,1,7,3,1,3,10,9,WWWWWLD,3,0,1,8,4,16,2,0,5,10,15,WWLWWWL,0,0,3,4,10,WWWL,WWW
-Auxerre,Strasbourg,1-0,/match/auxerre/strasbourg/1996,1996,8,ligue_1,20,38,0,1,0,13,3,1,3,16,8,WWDLWWL,2,0,1,9,2,4,3,3,1,13,7,DWDDWWW,0,3,1,5,6,WLW,DDDW
-Nice,Le Havre,1-2,/match/nice/havre-ac/1996,1996,8,ligue_1,20,38,2,1,2,14,2,3,2,7,6,DLDWWDL,1,1,1,5,4,19,1,1,5,2,13,WWWWDWL,0,0,4,0,8,LWD,WWWW
-Metz,Stade Rennais,0-0,/match/metz/stade-rennes/1996,1996,8,ligue_1,20,38,1,0,0,1,4,3,0,9,4,DWLWDWD,3,0,0,6,2,11,3,0,4,8,12,WWWWWWW,0,0,4,3,10,WWW,WWWW
-Olympique Lyonnais,Auxerre,0-1,/match/olympique-lyonnais/auxerre/1996,1996,9,ligue_1,20,38,2,0,1,14,2,3,3,10,13,WWWDDWDL,1,2,0,5,4,9,4,1,3,17,8,WWDLWWLW,1,1,2,7,6,WDD,WDWL
-Strasbourg,Nice,1-1,/match/strasbourg/nice/1996,1996,9,ligue_1,20,38,1,1,1,8,3,3,2,13,8,DWDDWWWW,3,0,0,8,1,15,2,3,3,8,8,DLDWWDLL,1,2,1,2,2,WWW,DDWL
-Cannes,Saint-Étienne,2-0,/match/as-cannes/saint-etienne/1996,1996,9,ligue_1,20,38,0,2,0,16,2,0,6,11,17,WWLWWWLW,2,0,2,6,5,6,3,3,2,13,10,DWDWWWDW,0,1,2,2,8,WLWL,WWD
-Stade Rennais,FC Martigues,1-3,/match/stade-rennes/fc-martigues/1996,1996,9,ligue_1,20,38,2,1,3,11,3,1,4,8,12,WWWWWWWD,3,0,0,5,2,19,2,1,5,4,12,WLDWLLWL,1,1,2,1,4,WWW,WDLW
-Monaco,Metz,0-1,/match/monaco/metz/1996,1996,9,ligue_1,20,38,2,0,1,10,4,1,3,15,12,WLDWLLWW,2,1,1,7,5,2,4,4,0,9,4,DWLWDWDD,1,3,0,3,2,WDLW,DLDD
-Nantes,Guingamp,0-0,/match/nantes/guingamp/1996,1996,9,ligue_1,20,38,1,0,0,13,3,2,3,10,11,WLLWWDDW,2,1,1,5,4,3,4,3,1,8,5,WDDLWWWD,1,1,1,4,5,WLWD,DLW
-FC Gueugnon,Lille,3-1,/match/fc-gueugnon/lillestrom/1996,1996,9,ligue_1,20,38,0,3,1,17,1,3,4,6,15,DWDWLLDW,0,3,1,3,5,20,0,2,6,4,14,WLDLWDWL,0,1,3,3,6,DDLD,WDWW
-Lens,Bastia,3-1,/match/lens/bastia/1996,1996,9,ligue_1,20,38,0,3,1,4,4,3,1,10,6,WWDLDDWL,2,2,0,5,2,7,4,1,3,13,10,DLWWWLWW,1,0,2,2,4,WDDW,LWW
-Le Havre,Girondins Bordeaux,1-0,/match/havre-ac/bordeaux/1996,1996,9,ligue_1,20,38,0,1,0,18,2,1,5,4,14,WWWWDWLL,1,1,1,2,5,5,4,1,3,12,10,WWWWWLDW,0,1,2,2,5,WDL,WWD
-Montpellier,PSG,1-0,/match/montpellier-hsc/paris-saint-germain-fc/1996,1996,9,ligue_1,20,38,0,1,0,12,3,2,3,11,9,DWWWWLLD,2,1,1,8,5,1,6,2,0,18,6,DDLWLWLW,3,1,0,9,4,DWWL,DLLL
-Saint-Étienne,Monaco,2-4,/match/saint-etienne/monaco/1996,1996,10,ligue_1,20,38,2,2,4,6,3,3,3,13,12,DWDWWWDWW,3,2,0,11,2,12,4,1,4,15,13,WLDWLLWWL,2,0,2,8,7,DDWWW,LWLW
-Lille,Le Havre,2-0,/match/lillestrom/havre-ac/1996,1996,10,ligue_1,20,38,0,2,0,20,0,2,7,5,17,WLDLWDWLW,0,1,3,1,8,16,3,1,5,5,14,WWWWDWLLW,1,0,4,2,9,LLDL,WWWWL
-FC Martigues,Metz,0-1,/match/fc-martigues/metz/1996,1996,10,ligue_1,20,38,2,0,1,19,3,1,5,7,13,WLDWLLWLL,1,0,3,3,8,3,5,4,0,10,4,DWLWDWDDL,2,3,0,4,2,LWLL,DLDDL
-Guingamp,FC Gueugnon,0-0,/match/guingamp/fc-gueugnon/1996,1996,10,ligue_1,20,38,1,0,0,4,4,4,1,8,5,WDDLWWWDD,3,2,0,4,0,15,2,3,4,9,16,DWDWLLDWW,1,0,3,3,10,WDWWD,WWLW
-Nice,Olympique Lyonnais,1-0,/match/nice/olympique-lyonnais/1996,1996,10,ligue_1,20,38,0,1,0,18,2,4,3,9,9,DLDWWDLLD,1,1,2,6,6,17,2,3,4,10,14,WWWDDWDLL,1,1,3,5,9,LWDL,WWDWL
-Bastia,Cannes,2-1,/match/bastia/as-cannes/1996,1996,10,ligue_1,20,38,0,2,1,10,4,1,4,14,13,DLWWWLWWW,3,1,1,11,6,14,3,0,6,13,17,WWLWWWLWW,0,0,4,5,12,DWWLW,WWWW
-Girondins Bordeaux,Montpellier,3-0,/match/bordeaux/montpellier-hsc/1996,1996,10,ligue_1,20,38,0,3,0,5,4,1,4,12,11,WWWWWLDWW,4,0,1,10,5,9,4,2,3,12,9,DWWWWLLDW,1,1,2,3,4,WWWLW,WWLD
-Auxerre,Stade Rennais,2-1,/match/auxerre/stade-rennes/1996,1996,10,ligue_1,20,38,0,2,1,8,5,1,3,18,8,WWDLWWLWL,3,0,1,10,2,13,3,1,5,9,15,WWWWWWWDL,0,1,4,3,10,WLWW,WWWWD
-Nantes,Lens,1-1,/match/nantes/lens/1996,1996,10,ligue_1,20,38,1,1,1,11,3,3,3,10,11,WLLWWDDWD,2,2,1,5,4,2,5,3,1,13,7,WWDLDDWLW,2,1,1,5,4,WLWDD,WLDL
-PSG,Strasbourg,2-0,/match/paris-saint-germain-fc/strasbourg/1996,1996,10,ligue_1,20,38,0,2,0,1,6,2,1,18,7,DDLWLWLWW,3,1,0,9,2,7,3,4,2,14,9,DWDDWWWWD,0,3,2,5,7,DWWW,DDDWW
-Cannes,Nice,1-3,/match/as-cannes/nice/1996,1996,11,ligue_1,20,38,2,1,3,16,3,0,7,14,19,WWLWWWLWWW,3,0,2,8,5,13,3,4,3,10,9,DLDWWDLLDW,1,3,1,3,3,WLWLW,DDWLD
-Le Havre,FC Martigues,1-0,/match/havre-ac/fc-martigues/1996,1996,11,ligue_1,20,38,0,1,0,17,3,1,6,5,16,WWWWDWLLWW,2,1,1,3,5,19,3,1,6,7,14,WLDWLLWLLL,2,1,2,4,5,WDLW,WDLWL
-Olympique Lyonnais,Saint-Étienne,2-1,/match/olympique-lyonnais/saint-etienne/1996,1996,11,ligue_1,20,38,0,2,1,18,2,3,5,10,15,WWWDDWDLLW,1,2,1,5,5,11,3,3,4,15,16,DWDWWWDWWL,0,1,3,2,10,WDDL,WWDW
-Stade Rennais,Bastia,2-0,/match/stade-rennes/bastia/1996,1996,11,ligue_1,20,38,0,2,0,14,3,1,6,10,17,WWWWWWWDLW,3,0,1,6,5,7,5,1,4,16,14,DLWWWLWWWW,1,0,3,3,7,WWWL,LWWW
-Monaco,Guingamp,1-0,/match/monaco/guingamp/1996,1996,11,ligue_1,20,38,0,1,0,12,5,1,4,19,15,WLDWLLWWLL,2,1,2,7,6,3,4,5,1,8,5,WDDLWWWDDD,1,2,1,4,5,WDLWL,DLWD
-Metz,Auxerre,3-1,/match/metz/auxerre/1996,1996,11,ligue_1,20,38,0,3,1,2,6,4,0,11,4,DWLWDWDDLL,3,1,0,6,2,6,6,1,3,20,9,WWDLWWLWLW,2,1,2,8,6,WWWD,WDWLL
-FC Gueugnon,Nantes,0-1,/match/fc-gueugnon/nantes/1996,1996,11,ligue_1,20,38,2,0,1,15,2,4,4,9,16,DWDWLLDWWD,1,3,1,6,6,9,3,4,3,11,12,WLLWWDDWDD,1,1,2,5,7,DDLDW,LWDW
-Montpellier,Lille,0-0,/match/montpellier-hsc/lillestrom/1996,1996,11,ligue_1,20,38,1,0,0,8,4,2,4,12,12,DWWWWLLDWW,3,1,1,9,5,20,1,2,7,7,17,WLDLWDWLWW,0,1,4,4,9,DWWLW,WDWWW
-Lens,PSG,3-1,/match/lens/paris-saint-germain-fc/1996,1996,11,ligue_1,20,38,0,3,1,4,5,4,1,14,8,WWDLDDWLWD,3,2,0,8,3,1,7,2,1,20,7,DDLWLWLWWW,3,1,1,9,5,WDDWW,DLLLW
-Strasbourg,Girondins Bordeaux,3-0,/match/strasbourg/bordeaux/1996,1996,11,ligue_1,20,38,0,3,0,10,3,4,3,14,11,DWDDWWWWDW,3,1,0,9,2,5,5,1,4,15,11,WWWWWLDWWW,0,1,3,2,6,WWWD,WWDW
-Nantes,Monaco,2-2,/match/nantes/monaco/1996,1996,12,ligue_1,20,38,1,2,2,11,4,4,3,12,12,WLLWWDDWDDL,2,3,1,6,5,9,6,1,4,20,15,WLDWLLWWLLW,3,0,2,12,9,WLWDDD,LWLWL
-PSG,Stade Rennais,1-1,/match/paris-saint-germain-fc/stade-rennes/1996,1996,12,ligue_1,20,38,1,1,1,3,7,2,2,21,10,DDLWLWLWWWW,4,1,0,11,2,12,4,1,6,12,17,WWWWWWWDLWW,0,1,5,4,12,DWWWW,WWWWDW
-Saint-Étienne,Montpellier,0-2,/match/saint-etienne/montpellier-hsc/1996,1996,12,ligue_1,20,38,2,0,2,13,3,3,5,16,18,DWDWWWDWWLW,3,2,1,13,6,10,4,3,4,12,12,DWWWWLLDWWD,1,1,3,3,7,DDWWWL,WWLDW
-FC Gueugnon,Lens,0-1,/match/fc-gueugnon/lens/1996,1996,12,ligue_1,20,38,2,0,1,17,2,4,5,9,17,DWDWLLDWWDL,1,3,2,6,7,2,6,4,1,17,9,WWDLDDWLWDW,2,2,1,6,5,DDLDWL,WLDLD
-FC Martigues,Auxerre,1-2,/match/fc-martigues/auxerre/1996,1996,12,ligue_1,20,38,2,1,2,19,3,1,7,7,15,WLDWLLWLLLW,1,0,4,3,9,6,6,1,4,21,12,WWDLWWLWLWW,2,1,3,9,9,LWLLL,WDWLLW
-Guingamp,Cannes,2-0,/match/guingamp/as-cannes/1996,1996,12,ligue_1,20,38,0,2,0,4,4,5,2,8,6,WDDLWWWDDDW,3,3,0,4,0,18,3,0,8,15,22,WWLWWWLWWWL,0,0,5,6,14,WDWWDD,WWWWW
-Bastia,Le Havre,1-0,/match/bastia/havre-ac/1996,1996,12,ligue_1,20,38,0,1,0,8,5,1,5,16,16,DLWWWLWWWWW,4,1,1,13,7,15,4,1,6,6,16,WWWWDWLLWWW,1,0,5,2,11,DWWLWW,WWWWLW
-Lille,Strasbourg,2-0,/match/lillestrom/strasbourg/1996,1996,12,ligue_1,20,38,0,2,0,20,1,3,7,7,17,WLDLWDWLWWD,1,1,3,3,8,7,4,4,3,17,11,DWDDWWWWDWW,0,3,3,5,9,LLDLW,DDDWWW
-Girondins Bordeaux,Olympique Lyonnais,1-1,/match/bordeaux/olympique-lyonnais/1996,1996,12,ligue_1,20,38,1,1,1,5,5,1,5,15,14,WWWWWLDWWWW,5,0,1,13,5,16,3,3,5,12,16,WWWDDWDLLWW,1,1,4,5,10,WWWLWW,WWDWLW
-Nice,Metz,0-1,/match/nice/metz/1996,1996,12,ligue_1,20,38,2,0,1,14,4,4,3,13,10,DLDWWDLLDWL,2,1,2,7,6,1,7,4,0,14,5,DWLWDWDDLLW,3,3,0,5,2,LWDLW,DLDDLL
-Lens,FC Martigues,1-0,/match/lens/fc-martigues/1996,1996,13,ligue_1,20,38,0,1,0,2,7,4,1,18,9,WWDLDDWLWDWL,4,2,0,11,4,20,3,1,8,8,17,WLDWLLWLLLWL,2,1,3,4,6,WDDWWW,WDLWLW
-Stade Rennais,Lille,3-1,/match/stade-rennes/lillestrom/1996,1996,13,ligue_1,20,38,0,3,1,12,4,2,6,13,18,WWWWWWWDLWWD,4,0,1,8,5,19,2,3,7,9,17,WLDLWDWLWWDW,0,2,4,4,9,WWWLW,WDWWWD
-Strasbourg,Guingamp,0-0,/match/strasbourg/guingamp/1996,1996,13,ligue_1,20,38,1,0,0,11,4,4,4,17,13,DWDDWWWWDWWW,4,1,0,12,2,4,5,5,2,10,6,WDDLWWWDDDWW,1,2,2,4,6,WWWDW,DLWDW
-Montpellier,Bastia,4-3,/match/montpellier-hsc/bastia/1996,1996,13,ligue_1,20,38,0,4,3,8,5,3,4,14,12,DWWWWLLDWWDL,3,2,1,9,5,5,6,1,5,17,16,DLWWWLWWWWWW,1,0,4,3,9,DWWLWD,LWWWW
-Cannes,Nantes,0-2,/match/as-cannes/nantes/1996,1996,13,ligue_1,20,38,2,0,2,18,3,0,9,15,24,WWLWWWLWWWLW,3,0,3,9,8,9,4,5,3,14,14,WLLWWDDWDDLD,2,1,2,6,7,WLWLWL,LWDWL
-Monaco,FC Gueugnon,0-0,/match/monaco/fc-gueugnon/1996,1996,13,ligue_1,20,38,1,0,0,10,6,2,4,22,17,WLDWLLWWLLWD,3,1,2,8,6,17,2,4,6,9,18,DWDWLLDWWDLL,1,1,3,3,10,WDLWLW,WWLWD
-Metz,Girondins Bordeaux,2-0,/match/metz/bordeaux/1996,1996,13,ligue_1,20,38,0,2,0,1,8,4,0,15,5,DWLWDWDDLLWL,4,1,0,9,3,6,5,2,5,16,15,WWWWWLDWWWWD,0,1,4,2,9,WWWDW,WWDWW
-Auxerre,Nice,2-1,/match/auxerre/nice/1996,1996,13,ligue_1,20,38,0,2,1,7,7,1,4,23,13,WWDLWWLWLWWL,4,0,1,12,3,14,4,4,4,13,11,DLDWWDLLDWLL,2,3,1,6,4,WLWWW,DDWLDL
-Olympique Lyonnais,PSG,0-0,/match/olympique-lyonnais/paris-saint-germain-fc/1996,1996,13,ligue_1,20,38,1,0,0,16,3,4,5,13,17,WWWDDWDLLWWD,2,2,1,7,6,3,7,3,2,22,11,DDLWLWLWWWWD,3,1,2,10,8,WDDLW,DLLLWW
-Le Havre,Saint-Étienne,2-2,/match/havre-ac/saint-etienne/1996,1996,13,ligue_1,20,38,1,2,2,15,4,1,7,6,17,WWWWDWLLWWWW,3,1,1,4,5,13,3,3,6,16,20,DWDWWWDWWLWL,0,1,4,3,12,WDLWW,WWDWW
-Nice,FC Martigues,1-0,/match/nice/fc-martigues/1996,1996,14,ligue_1,20,38,0,1,0,16,4,4,5,14,13,DLDWWDLLDWLLW,2,1,3,7,7,20,3,1,9,8,18,WLDWLLWLLLWLW,2,1,4,4,7,LWDLWL,WDLWLWW
-Monaco,Montpellier,3-1,/match/monaco/montpellier-hsc/1996,1996,14,ligue_1,20,38,0,3,1,8,6,3,4,22,17,WLDWLLWWLLWDD,3,2,2,8,6,6,6,3,4,18,15,DWWWWLLDWWDLW,2,1,3,5,7,WDLWLWD,WWLDWL
-FC Gueugnon,Cannes,1-1,/match/fc-gueugnon/as-cannes/1996,1996,14,ligue_1,20,38,1,1,1,17,2,5,6,9,18,DWDWLLDWWDLLD,1,3,3,6,8,18,3,0,10,15,26,WWLWWWLWWWLWL,0,0,6,6,16,DDLDWLL,WWWWWW
-Guingamp,Le Havre,2-2,/match/guingamp/havre-ac/1996,1996,14,ligue_1,20,38,1,2,2,4,5,6,2,10,6,WDDLWWWDDDWWD,4,3,0,6,0,14,4,2,7,8,19,WWWWDWLLWWWWD,1,0,6,2,12,WDWWDDW,WWWWLWW
-Bastia,Strasbourg,1-1,/match/bastia/strasbourg/1996,1996,14,ligue_1,20,38,1,1,1,7,6,1,6,20,20,DLWWWLWWWWWWW,5,1,1,14,7,9,4,5,4,17,13,DWDDWWWWDWWWD,0,3,4,5,11,DWWLWWW,DDDWWWW
-Lille,Metz,0-0,/match/lillestrom/metz/1996,1996,14,ligue_1,20,38,1,0,0,19,2,3,8,10,20,WLDLWDWLWWDWW,2,1,3,5,8,1,9,4,0,17,5,DWLWDWDDLLWLW,4,3,0,6,2,LLDLWW,DLDDLLL
-Girondins Bordeaux,Stade Rennais,0-0,/match/bordeaux/stade-rennes/1996,1996,14,ligue_1,20,38,1,0,0,11,5,2,6,16,17,WWWWWLDWWWWDW,5,1,1,14,6,12,5,2,6,16,19,WWWWWWWDLWWDW,0,2,5,5,13,WWWLWWD,WWWWDWD
-Nantes,Olympique Lyonnais,0-0,/match/nantes/olympique-lyonnais/1996,1996,14,ligue_1,20,38,1,0,0,10,5,5,3,16,14,WLLWWDDWDDLDL,2,4,1,8,7,15,3,5,5,13,17,WWWDDWDLLWWDD,1,2,4,6,11,WLWDDDD,WWDWLWD
-Saint-Étienne,Lens,1-1,/match/saint-etienne/lens/1996,1996,14,ligue_1,20,38,1,1,1,13,3,4,6,18,22,DWDWWWDWWLWLD,3,2,2,13,8,2,8,4,1,19,9,WWDLDDWLWDWLW,3,2,1,7,5,DDWWWLL,WLDLDL
-PSG,Auxerre,3-1,/match/paris-saint-germain-fc/auxerre/1996,1996,14,ligue_1,20,38,0,3,1,3,7,4,2,22,11,DDLWLWLWWWWDD,4,2,0,12,3,5,8,1,4,25,14,WWDLWWLWLWWLW,3,1,3,11,10,DWWWWD,WDWLLWL
-Metz,PSG,0-3,/match/metz/paris-saint-germain-fc/1996,1996,15,ligue_1,20,38,2,0,3,1,9,5,0,17,5,DWLWDWDDLLWLWD,5,1,0,11,3,3,8,4,2,25,12,DDLWLWLWWWWDDW,3,2,2,10,8,WWWDWW,DLLLWWD
-Cannes,Monaco,1-1,/match/as-cannes/monaco/1996,1996,15,ligue_1,20,38,1,1,1,19,3,1,10,16,27,WWLWWWLWWWLWLD,3,0,4,9,10,6,7,3,4,25,18,WLDWLLWWLLWDDW,3,1,2,14,11,WLWLWLL,LWLWLD
-Lens,Guingamp,0-1,/match/lens/guingamp/1996,1996,15,ligue_1,20,38,2,0,1,2,8,5,1,20,10,WWDLDDWLWDWLWD,5,2,0,12,4,4,5,7,2,12,8,WDDLWWWDDDWWDD,1,3,2,4,6,WDDWWWW,DLWDWD
-Strasbourg,Saint-Étienne,3-1,/match/strasbourg/saint-etienne/1996,1996,15,ligue_1,20,38,0,3,1,11,4,6,4,18,14,DWDDWWWWDWWWDD,4,2,0,12,2,14,3,5,6,19,23,DWDWWWDWWLWLDD,0,2,4,5,14,WWWDWD,WWDWWD
-Olympique Lyonnais,Bastia,1-1,/match/olympique-lyonnais/bastia/1996,1996,15,ligue_1,20,38,1,1,1,16,3,6,5,13,17,WWWDDWDLLWWDDD,2,3,1,7,6,7,6,2,6,21,21,DLWWWLWWWWWWWD,1,0,5,6,13,WDDLWD,LWWWWW
-Le Havre,Nantes,0-1,/match/havre-ac/nantes/1996,1996,15,ligue_1,20,38,2,0,1,15,4,3,7,10,21,WWWWDWLLWWWWDD,3,2,1,6,7,8,5,6,3,16,14,WLLWWDDWDDLDLD,3,1,2,8,7,WDLWWD,LWDWLL
-Stade Rennais,Nice,1-0,/match/stade-rennes/nice/1996,1996,15,ligue_1,20,38,0,1,0,12,5,3,6,16,19,WWWWWWWDLWWDWD,5,0,1,11,6,13,5,4,5,15,13,DLDWWDLLDWLLWW,2,3,2,7,6,WWWLWW,DDWLDLW
-FC Martigues,Girondins Bordeaux,3-1,/match/fc-martigues/bordeaux/1996,1996,15,ligue_1,20,38,0,3,1,20,3,1,10,8,19,WLDWLLWLLLWLWW,1,0,5,4,11,9,5,3,6,16,17,WWWWWLDWWWWDWD,0,1,5,2,11,LWLLLL,WWDWWW
-Auxerre,Lille,1-2,/match/auxerre/lillestrom/1996,1996,15,ligue_1,20,38,2,1,2,5,8,1,5,26,17,WWDLWWLWLWWLWW,5,0,1,14,4,18,2,4,8,10,20,WLDLWDWLWWDWWD,0,2,5,5,12,WLWWWW,WDWWWDW
-Montpellier,FC Gueugnon,2-2,/match/montpellier-hsc/fc-gueugnon/1996,1996,15,ligue_1,20,38,1,2,2,10,6,3,5,19,18,DWWWWLLDWWDLWW,4,2,1,13,8,17,2,6,6,10,19,DWDWLLDWWDLLDD,1,2,3,3,10,DWWLWDW,WWLWDD
-FC Gueugnon,Le Havre,0-1,/match/fc-gueugnon/havre-ac/1996,1996,16,ligue_1,20,38,2,0,1,17,2,7,6,12,21,DWDWLLDWWDLLDDD,1,4,3,7,9,16,4,3,8,10,22,WWWWDWLLWWWWDDL,1,1,6,4,14,DDLDWLLD,WWWWLWWD
-Monaco,Lens,1-1,/match/monaco/lens/1996,1996,16,ligue_1,20,38,1,1,1,5,7,4,4,26,19,WLDWLLWWLLWDDWD,4,2,2,11,7,3,8,5,2,20,11,WWDLDDWLWDWLWDL,3,3,1,8,6,WDLWLWDW,WLDLDLD
-Saint-Étienne,Stade Rennais,0-0,/match/saint-etienne/stade-rennes/1996,1996,16,ligue_1,20,38,1,0,0,15,3,5,7,20,26,DWDWWWDWWLWLDDW,3,3,2,14,9,11,6,3,6,17,19,WWWWWWWDLWWDWDW,0,3,5,5,13,DDWWWLLD,WWWWDWDD
-Guingamp,Olympique Lyonnais,1-0,/match/guingamp/olympique-lyonnais/1996,1996,16,ligue_1,20,38,0,1,0,4,6,7,2,13,8,WDDLWWWDDDWWDDL,4,4,0,8,2,14,3,7,5,14,18,WWWDDWDLLWWDDDD,1,3,4,6,11,WDWWDDWD,WWDWLWDD
-Bastia,Metz,1-0,/match/bastia/metz/1996,1996,16,ligue_1,20,38,0,1,0,7,6,3,6,22,22,DLWWWLWWWWWWWDD,5,2,1,15,8,1,9,5,1,17,8,DWLWDWDDLLWLWDL,4,4,0,6,2,DWWLWWWD,DLDDLLLD
-Lille,FC Martigues,0-0,/match/lillestrom/fc-martigues/1996,1996,16,ligue_1,20,38,1,0,0,18,3,4,8,12,21,WLDLWDWLWWDWWDL,2,2,3,5,8,20,4,1,10,11,20,WLDWLLWLLLWLWWW,2,1,5,4,8,LLDLWWD,WDLWLWWW
-Nantes,Montpellier,1-0,/match/nantes/montpellier-hsc/1996,1996,16,ligue_1,20,38,0,1,0,8,6,6,3,17,14,WLLWWDDWDDLDLDL,2,5,1,8,7,9,6,4,5,21,20,DWWWWLLDWWDLWWD,2,1,4,6,10,WLWDDDDD,WWLDWLW
-Girondins Bordeaux,Auxerre,0-1,/match/bordeaux/auxerre/1996,1996,16,ligue_1,20,38,2,0,1,12,5,3,7,17,20,WWWWWLDWWWWDWDW,5,2,1,14,6,10,8,1,6,27,19,WWDLWWLWLWWLWWL,3,1,4,12,13,WWWLWWDD,WDWLLWLW
-PSG,Nice,3-2,/match/paris-saint-germain-fc/nice/1996,1996,16,ligue_1,20,38,0,3,2,2,9,4,2,28,12,DDLWLWLWWWWDDWL,5,2,0,15,4,13,5,4,6,15,14,DLDWWDLLDWLLWWW,2,3,3,7,7,DWWWWDW,DDWLDLWW
-Cannes,Strasbourg,0-3,/match/as-cannes/strasbourg/1996,1996,16,ligue_1,20,38,2,0,3,19,3,2,10,17,28,WWLWWWLWWWLWLDD,3,1,4,10,11,6,5,6,4,21,15,DWDDWWWWDWWWDDW,0,4,4,6,12,WLWLWLLD,DDDWWWWD
-Stade Rennais,Guingamp,3-0,/match/stade-rennes/guingamp/1996,1996,17,ligue_1,20,38,0,3,0,10,6,4,6,17,19,WWWWWWWDLWWDWDWD,6,0,1,12,6,2,7,7,2,14,8,WDDLWWWDDDWWDDLW,2,3,2,5,6,WWWLWWW,DLWDWDL
-Montpellier,Cannes,3-1,/match/montpellier-hsc/as-cannes/1996,1996,17,ligue_1,20,38,0,3,1,11,6,4,6,21,21,DWWWWLLDWWDLWWDW,4,3,1,15,10,19,3,2,11,17,31,WWLWWWLWWWLWLDDL,0,1,6,7,17,DWWLWDWD,WWWWWWD
-FC Martigues,PSG,2-4,/match/fc-martigues/paris-saint-germain-fc/1996,1996,17,ligue_1,20,38,2,2,4,20,4,2,10,11,20,WLDWLLWLLLWLWWWD,2,0,5,7,12,1,10,4,2,31,14,DDLWLWLWWWWDDWLW,4,2,2,13,8,LWLLLLW,DLLLWWDL
-Le Havre,Monaco,2-1,/match/havre-ac/monaco/1996,1996,17,ligue_1,20,38,0,2,1,16,5,3,8,11,22,WWWWDWLLWWWWDDLL,3,2,2,6,8,7,7,5,4,27,20,WLDWLLWWLLWDDWDD,3,2,2,15,12,WDLWWDL,LWLWLDD
-Lens,Girondins Bordeaux,0-0,/match/lens/bordeaux/1996,1996,17,ligue_1,20,38,1,0,0,4,8,6,2,21,12,WWDLDDWLWDWLWDLD,5,2,1,12,5,12,5,3,8,17,21,WWWWWLDWWWWDWDWL,0,1,6,3,14,WDDWWWWL,WWDWWWW
-Strasbourg,Nantes,1-1,/match/strasbourg/nantes/1996,1996,17,ligue_1,20,38,1,1,1,8,6,6,4,24,15,DWDDWWWWDWWWDDWL,5,2,0,15,3,6,7,6,3,18,14,WLLWWDDWDDLDLDLW,4,1,2,9,7,WWWDWDW,LWDWLLL
-Metz,Saint-Étienne,1-2,/match/metz/saint-etienne/1996,1996,17,ligue_1,20,38,2,1,2,3,9,5,2,17,9,DWLWDWDDLLWLWDLW,5,1,1,11,6,13,3,6,7,20,26,DWDWWWDWWLWLDDWD,0,2,5,6,17,WWWDWWL,WWDWWDW
-Nice,Lille,2-1,/match/nice/lillestrom/1996,1996,17,ligue_1,20,38,0,2,1,14,5,4,7,17,17,DLDWWDLLDWLLWWWW,3,1,3,8,7,17,3,5,8,12,21,WLDLWDWLWWDWWDLD,1,2,5,7,13,LWDLWLW,WDWWWDWL
-Auxerre,Bastia,3-0,/match/auxerre/bastia/1996,1996,17,ligue_1,20,38,0,3,0,9,9,1,6,28,19,WWDLWWLWLWWLWWLL,5,0,2,15,6,5,7,3,6,23,22,DLWWWLWWWWWWWDDW,1,1,5,7,14,WLWWWWL,LWWWWWD
-Olympique Lyonnais,FC Gueugnon,0-0,/match/olympique-lyonnais/fc-gueugnon/1996,1996,17,ligue_1,20,38,1,0,0,15,3,7,6,14,19,WWWDDWDLLWWDDDDW,2,4,1,8,7,18,2,7,7,12,22,DWDWLLDWWDLLDDDL,1,3,3,5,12,WDDLWDD,WWLWDDD
-Bastia,FC Martigues,2-0,/match/bastia/fc-martigues/1996,1996,18,ligue_1,20,38,0,2,0,10,7,3,7,23,25,DLWWWLWWWWWWWDDWW,6,2,1,16,8,20,4,2,11,13,24,WLDWLLWLLLWLWWWDL,2,2,5,4,8,DWWLWWWDW,WDLWLWWWD
-Cannes,Le Havre,0-0,/match/as-cannes/havre-ac/1996,1996,18,ligue_1,20,38,1,0,0,19,3,2,12,18,34,WWLWWWLWWWLWLDDLW,3,1,5,10,14,14,6,3,8,13,23,WWWWDWLLWWWWDDLLW,2,1,6,5,14,WLWLWLLDL,WWWWLWWDL
-Monaco,Olympique Lyonnais,0-2,/match/monaco/olympique-lyonnais/1996,1996,18,ligue_1,20,38,2,0,2,11,7,5,5,28,22,WLDWLLWWLLWDDWDDW,4,3,2,12,8,16,3,8,6,14,19,WWWDDWDLLWWDDDDWD,1,3,5,6,12,WDLWLWDWD,WWDWLWDDW
-Guingamp,Metz,0-0,/match/guingamp/metz/1996,1996,18,ligue_1,20,38,1,0,0,3,7,7,3,14,11,WDDLWWWDDDWWDDLWW,5,4,0,9,2,4,9,5,3,18,11,DWLWDWDDLLWLWDLWL,4,4,1,6,3,WDWWDDWDW,DLDDLLLDW
-Lille,PSG,0-0,/match/lillestrom/paris-saint-germain-fc/1996,1996,18,ligue_1,20,38,1,0,0,17,3,5,9,13,23,WLDLWDWLWWDWWDLDW,2,3,3,5,8,1,11,4,2,35,16,DDLWLWLWWWWDDWLWL,5,2,2,17,10,LLDLWWDD,DLLLWWDLL
-Girondins Bordeaux,Nice,4-1,/match/bordeaux/nice/1996,1996,18,ligue_1,20,38,0,4,1,12,5,4,8,17,21,WWWWWLDWWWWDWDWLD,5,2,2,14,7,13,6,4,7,19,18,DLDWWDLLDWLLWWWWW,2,3,4,9,10,WWWLWWDDL,DDWLDLWWW
-Nantes,Stade Rennais,2-2,/match/nantes/stade-rennes/1996,1996,18,ligue_1,20,38,1,2,2,6,7,7,3,19,15,WLLWWDDWDDLDLDLWD,3,5,1,9,7,7,7,4,6,20,19,WWWWWWWDLWWDWDWDW,0,4,5,5,13,WLWDDDDDW,WWWWDWDDD
-Montpellier,Lens,0-0,/match/montpellier-hsc/lens/1996,1996,18,ligue_1,20,38,1,0,0,9,7,4,6,24,22,DWWWWLLDWWDLWWDWW,5,3,1,18,11,2,8,7,2,21,12,WWDLDDWLWDWLWDLDD,3,4,1,9,7,DWWLWDWDW,WLDLDLDD
-FC Gueugnon,Strasbourg,0-1,/match/fc-gueugnon/strasbourg/1996,1996,18,ligue_1,20,38,2,0,1,18,2,8,7,12,22,DWDWLLDWWDLLDDDLD,1,4,4,7,10,8,6,7,4,25,16,DWDDWWWWDWWWDDWLD,1,4,4,9,12,DDLDWLLDL,DDDWWWWDL
-Saint-Étienne,Auxerre,0-5,/match/saint-etienne/auxerre/1996,1996,18,ligue_1,20,38,2,0,5,15,4,6,7,22,27,DWDWWWDWWLWLDDWDL,3,4,2,14,9,5,10,1,6,31,19,WWDLWWLWLWWLWWLLW,4,1,4,13,13,DDWWWLLDD,WDWLLWLWL
-Strasbourg,Monaco,2-0,/match/strasbourg/monaco/1996,1996,19,ligue_1,20,38,0,2,0,8,7,7,4,26,16,DWDDWWWWDWWWDDWLDL,5,3,0,16,4,12,7,5,6,28,24,WLDWLLWWLLWDDWDDWL,3,2,3,16,14,WWWDWDWD,LWLWLDDW
-Metz,Nantes,0-0,/match/metz/nantes/1996,1996,19,ligue_1,20,38,1,0,0,4,9,6,3,18,11,DWLWDWDDLLWLWDLWLD,5,1,2,12,8,7,7,8,3,21,17,WLLWWDDWDDLDLDLWDD,4,2,2,10,8,WWWDWWLL,LWDWLLLD
-Le Havre,Montpellier,2-2,/match/havre-ac/montpellier-hsc/1996,1996,19,ligue_1,20,38,1,2,2,13,6,4,8,13,23,WWWWDWLLWWWWDDLLWD,4,2,2,8,9,10,7,5,6,24,22,DWWWWLLDWWDLWWDWWD,2,1,5,6,11,WDLWWDLW,WWLDWLWW
-Lens,Cannes,1-1,/match/lens/as-cannes/1996,1996,19,ligue_1,20,38,1,1,1,3,8,8,2,21,12,WWDLDDWLWDWLWDLDDD,5,3,1,12,5,19,3,3,12,18,34,WWLWWWLWWWLWLDDLWD,0,1,7,8,20,WDDWWWWLD,WWWWWWDW
-Olympique Lyonnais,Lille,1-1,/match/olympique-lyonnais/lillestrom/1996,1996,19,ligue_1,20,38,1,1,1,15,4,8,6,16,19,WWWDDWDLLWWDDDDWDL,2,5,1,8,7,17,3,6,9,13,23,WLDLWDWLWWDWWDLDWD,1,2,6,8,15,WDDLWDDD,WDWWWDWLW
-Stade Rennais,FC Gueugnon,2-1,/match/stade-rennes/fc-gueugnon/1996,1996,19,ligue_1,20,38,0,2,1,9,7,5,6,22,21,WWWWWWWDLWWDWDWDWD,7,0,1,15,6,18,2,8,8,12,23,DWDWLLDWWDLLDDDLDL,1,4,3,5,12,WWWLWWWW,WWLWDDDD
-FC Martigues,Saint-Étienne,1-1,/match/fc-martigues/saint-etienne/1996,1996,19,ligue_1,20,38,1,1,1,20,4,2,12,13,26,WLDWLLWLLLWLWWWDLW,2,0,6,9,16,16,4,6,8,22,32,DWDWWWDWWLWLDDWDLL,1,2,5,8,18,LWLLLLWL,WWDWWDWL
-Nice,Bastia,3-1,/match/nice/bastia/1996,1996,19,ligue_1,20,38,0,3,1,14,6,4,8,20,22,DLDWWDLLDWLLWWWWWW,4,1,3,10,8,6,8,3,7,25,25,DLWWWLWWWWWWWDDWWW,1,1,6,7,17,LWDLWLWW,LWWWWWDW
-PSG,Girondins Bordeaux,3-0,/match/paris-saint-germain-fc/bordeaux/1996,1996,19,ligue_1,20,38,0,3,0,1,11,5,2,35,16,DDLWLWLWWWWDDWLWLD,6,2,0,18,6,11,6,4,8,21,22,WWWWWLDWWWWDWDWLDW,0,2,6,3,14,DWWWWDWW,WWDWWWWD
-Auxerre,Guingamp,1-2,/match/auxerre/guingamp/1996,1996,19,ligue_1,20,38,2,1,2,5,11,1,6,36,19,WWDLWWLWLWWLWWLLWL,6,0,2,18,6,2,7,8,3,14,11,WDDLWWWDDDWWDDLWWD,2,3,3,5,9,WLWWWWLW,DLWDWDLW
-FC Gueugnon,Auxerre,0-0,/match/fc-gueugnon/auxerre/1996,1996,20,ligue_1,20,38,1,0,0,18,2,8,9,13,25,DWDWLLDWWDLLDDDLDLW,1,4,5,7,11,7,11,1,7,37,21,WWDLWWLWLWWLWWLLWLL,5,1,4,18,13,DDLDWLLDLL,WDWLLWLWLL
-Monaco,Nice,1-0,/match/monaco/nice/1996,1996,20,ligue_1,20,38,0,1,0,11,7,5,7,28,26,WLDWLLWWLLWDDWDDWLW,4,3,3,12,10,13,7,4,8,23,23,DLDWWDLLDWLLWWWWWWW,2,3,5,10,14,WDLWLWDWDL,DDWLDLWWWW
-Lens,Metz,2-0,/match/lens/metz/1996,1996,20,ligue_1,20,38,0,2,0,2,8,9,2,22,13,WWDLDDWLWDWLWDLDDDD,5,4,1,13,6,5,9,7,3,18,11,DWLWDWDDLLWLWDLWLDD,4,5,1,6,3,WDDWWWWLDD,DLDDLLLDWD
-Le Havre,Strasbourg,2-0,/match/havre-ac/strasbourg/1996,1996,20,ligue_1,20,38,0,2,0,14,6,5,8,15,25,WWWWDWLLWWWWDDLLWDD,4,3,2,10,11,4,8,7,4,28,16,DWDDWWWWDWWWDDWLDLW,2,4,4,10,12,WDLWWDLWD,DDDWWWWDLL
-Montpellier,Olympique Lyonnais,2-1,/match/montpellier-hsc/olympique-lyonnais/1996,1996,20,ligue_1,20,38,0,2,1,10,7,6,6,26,24,DWWWWLLDWWDLWWDWWDD,5,4,1,18,11,15,4,9,6,17,20,WWWDDWDLLWWDDDDWDLD,2,3,5,8,12,DWWLWDWDWD,WWDWLWDDWL
-Cannes,Stade Rennais,3-0,/match/as-cannes/stade-rennes/1996,1996,20,ligue_1,20,38,0,3,0,19,3,4,12,19,35,WWLWWWLWWWLWLDDLWDD,3,2,5,10,14,6,8,5,6,24,22,WWWWWWWDLWWDWDWDWDW,0,5,5,7,15,WLWLWLLDLD,WWWWDWDDDD
-Saint-Étienne,Girondins Bordeaux,2-0,/match/saint-etienne/bordeaux/1996,1996,20,ligue_1,20,38,0,2,0,16,4,7,8,23,33,DWDWWWDWWLWLDDWDLLD,3,4,3,14,14,12,6,4,9,21,25,WWWWWLDWWWWDWDWLDWW,0,2,7,3,17,DDWWWLLDDL,WWDWWWWDW
-Bastia,Lille,4-0,/match/bastia/lillestrom/1996,1996,20,ligue_1,20,38,0,4,0,8,8,3,8,26,28,DLWWWLWWWWWWWDDWWWW,7,2,1,18,8,17,3,7,9,14,24,WLDLWDWLWWDWWDLDWDD,1,3,6,9,16,DWWLWWWDWW,WDWWWDWLWD
-Guingamp,PSG,0-0,/match/guingamp/paris-saint-germain-fc/1996,1996,20,ligue_1,20,38,1,0,0,3,8,8,3,16,12,WDDLWWWDDDWWDDLWWDL,5,5,0,9,2,1,12,5,2,38,16,DDLWLWLWWWWDDWLWLDW,5,3,2,17,10,WDWWDDWDWD,DLLLWWDLLD
-Nantes,FC Martigues,3-0,/match/nantes/fc-martigues/1996,1996,20,ligue_1,20,38,0,3,0,9,7,9,3,21,17,WLLWWDDWDDLDLDLWDDD,3,6,1,11,9,20,4,3,12,14,27,WLDWLLWLLLWLWWWDLWD,2,2,6,4,10,WLWDDDDDWD,WDLWLWWWDW
-Nice,Guingamp,2-1,/match/nice/guingamp/1996,1996,21,ligue_1,20,38,0,2,1,14,7,4,9,23,24,DLDWWDLLDWLLWWWWWWWW,5,1,3,13,9,3,8,9,3,16,12,WDDLWWWDDDWWDDLWWDLD,3,3,3,7,10,LWDLWLWWW,DLWDWDLWL
-Olympique Lyonnais,Le Havre,3-2,/match/olympique-lyonnais/havre-ac/1996,1996,21,ligue_1,20,38,0,3,2,16,4,9,7,18,22,WWWDDWDLLWWDDDDWDLDW,2,6,1,9,8,12,7,5,8,17,25,WWWWDWLLWWWWDDLLWDDW,2,2,6,5,14,WDDLWDDDD,WWWWLWWDLD
-Stade Rennais,Montpellier,1-1,/match/stade-rennes/montpellier-hsc/1996,1996,21,ligue_1,20,38,1,1,1,9,8,5,7,24,25,WWWWWWWDLWWDWDWDWDWW,8,0,1,17,7,7,8,6,6,28,25,DWWWWLLDWWDLWWDWWDDW,2,2,5,8,13,WWWLWWWWW,WWLDWLWWD
-Auxerre,Monaco,1-2,/match/auxerre/monaco/1996,1996,21,ligue_1,20,38,2,1,2,10,11,2,7,37,21,WWDLWWLWLWWLWWLLWLLD,6,0,3,19,8,11,8,5,7,29,26,WLDWLLWWLLWDDWDDWLWW,3,2,4,16,16,WLWWWWLWL,LWLWLDDWW
-FC Martigues,FC Gueugnon,3-0,/match/fc-martigues/fc-gueugnon/1996,1996,21,ligue_1,20,38,0,3,0,20,4,3,13,14,30,WLDWLLWLLLWLWWWDLWDW,2,1,6,10,17,19,2,9,9,13,25,DWDWLLDWWDLLDDDLDLWD,1,4,4,6,14,LWLLLLWLD,WWLWDDDDW
-PSG,Nantes,5-0,/match/paris-saint-germain-fc/nantes/1996,1996,21,ligue_1,20,38,0,5,0,1,12,6,2,38,16,DDLWLWLWWWWDDWLWLDWD,7,2,0,21,6,5,8,9,3,24,17,WLLWWDDWDDLDLDLWDDDW,4,3,2,10,8,DWWWWDWWW,LWDWLLLDD
-Lille,Saint-Étienne,1-1,/match/lillestrom/saint-etienne/1996,1996,21,ligue_1,20,38,1,1,1,18,3,7,10,14,28,WLDLWDWLWWDWWDLDWDDW,2,4,3,5,8,15,5,7,8,25,33,DWDWWWDWWLWLDDWDLLDW,1,3,5,9,19,LLDLWWDDD,WWDWWDWLD
-Girondins Bordeaux,Bastia,1-3,/match/bordeaux/bastia/1996,1996,21,ligue_1,20,38,2,1,3,13,6,4,10,21,27,WWWWWLDWWWWDWDWLDWWW,6,2,2,18,8,4,9,3,8,30,28,DLWWWLWWWWWWWDDWWWWW,1,1,7,8,20,WWWLWWDDLW,LWWWWWDWW
-Metz,Cannes,0-0,/match/metz/as-cannes/1996,1996,21,ligue_1,20,38,1,0,0,8,9,7,4,18,13,DWLWDWDDLLWLWDLWLDDW,5,2,2,12,8,17,4,4,12,22,35,WWLWWWLWWWLWLDDLWDDW,0,2,7,9,21,WWWDWWLLD,WWWWWWDWD
-Strasbourg,Lens,1-2,/match/strasbourg/lens/1996,1996,21,ligue_1,20,38,2,1,2,6,8,7,5,28,18,DWDDWWWWDWWWDDWLDLWW,6,3,0,18,4,2,9,9,2,24,13,WWDLDDWLWDWLWDLDDDDW,3,5,1,9,7,WWWDWDWDW,WLDLDLDDD
-FC Gueugnon,Nice,1-0,/match/fc-gueugnon/nice/1996,1996,22,ligue_1,20,38,0,1,0,19,2,9,10,13,28,DWDWLLDWWDLLDDDLDLWDW,1,5,5,7,11,12,8,4,9,25,25,DLDWWDLLDWLLWWWWWWWWW,2,3,6,10,15,DDLDWLLDLLD,DDWLDLWWWWW
-Le Havre,Stade Rennais,0-0,/match/havre-ac/stade-rennes/1996,1996,22,ligue_1,20,38,1,0,0,13,7,5,9,19,28,WWWWDWLLWWWWDDLLWDDWW,5,3,2,12,11,8,8,6,7,25,26,WWWWWWWDLWWDWDWDWDWWD,0,5,6,7,18,WDLWWDLWDW,WWWWDWDDDDW
-Lens,Auxerre,0-0,/match/lens/auxerre/1996,1996,22,ligue_1,20,38,1,0,0,2,10,9,2,26,14,WWDLDDWLWDWLWDLDDDDWL,6,4,1,15,6,11,11,2,8,38,23,WWDLWWLWLWWLWWLLWLLDL,5,2,4,18,13,WDDWWWWLDDW,WDWLLWLWLLD
-Strasbourg,Olympique Lyonnais,2-2,/match/strasbourg/olympique-lyonnais/1996,1996,22,ligue_1,20,38,1,2,2,9,8,7,6,29,20,DWDDWWWWDWWWDDWLDLWWL,6,3,1,19,6,14,5,9,7,21,24,WWWDDWDLLWWDDDDWDLDWW,2,3,6,9,14,WWWDWDWDWL,WWDWLWDDWLW
-Guingamp,Lille,0-1,/match/guingamp/lillestrom/1996,1996,22,ligue_1,20,38,2,0,1,3,8,9,4,17,14,WDDLWWWDDDWWDDLWWDLDW,5,6,0,9,2,18,3,8,10,15,29,WLDLWDWLWWDWWDLDWDDWD,1,3,7,9,20,WDWWDDWDWDD,WDWWWDWLWDW
-Saint-Étienne,PSG,1-1,/match/saint-etienne/paris-saint-germain-fc/1996,1996,22,ligue_1,20,38,1,1,1,16,5,8,8,26,34,DWDWWWDWWLWLDDWDLLDWD,4,4,3,16,14,1,13,6,2,43,16,DDLWLWLWWWWDDWLWLDWDW,5,4,2,17,10,DDWWWLLDDLW,DLLLWWDLLDD
-Nantes,Girondins Bordeaux,2-0,/match/nantes/bordeaux/1996,1996,22,ligue_1,20,38,0,2,0,5,8,9,4,24,22,WLLWWDDWDDLDLDLWDDDWW,4,6,1,14,9,15,6,4,11,22,30,WWWWWLDWWWWDWDWLDWWWL,0,2,8,3,19,WLWDDDDDWDW,WWDWWWWDWW
-Monaco,Bastia,0-0,/match/monaco/bastia/1996,1996,22,ligue_1,20,38,1,0,0,10,9,5,7,31,27,WLDWLLWWLLWDDWDDWLWWL,5,3,3,13,10,4,10,3,8,33,29,DLWWWLWWWWWWWDDWWWWWL,2,1,7,11,21,WDLWLWDWDLW,LWWWWWDWWL
-Cannes,FC Martigues,2-1,/match/as-cannes/fc-martigues/1996,1996,22,ligue_1,20,38,0,2,1,17,4,5,12,22,35,WWLWWWLWWWLWLDDLWDDWD,4,2,5,13,14,20,5,3,13,17,30,WLDWLLWLLLWLWWWDLWDWW,2,2,7,4,13,WLWLWLLDLDW,WDLWLWWWDWW
-Montpellier,Metz,1-2,/match/montpellier-hsc/metz/1996,1996,22,ligue_1,20,38,2,1,2,6,8,7,6,29,26,DWWWWLLDWWDLWWDWWDDWD,6,4,1,20,12,7,9,8,4,18,13,DWLWDWDDLLWLWDLWLDDWD,4,5,2,6,5,DWWLWDWDWDW,DLDDLLLDWDW
-FC Martigues,Monaco,0-4,/match/fc-martigues/monaco/1996,1996,23,ligue_1,20,38,2,0,4,20,5,3,14,18,32,WLDWLLWLLLWLWWWDLWDWWW,3,1,6,13,17,10,9,6,7,31,27,WLDWLLWWLLWDDWDDWLWWLD,4,2,4,18,17,LWLLLLWLDW,LWLWLDDWWL
-Lille,Cannes,0-2,/match/lillestrom/as-cannes/1996,1996,23,ligue_1,20,38,2,0,2,18,4,8,10,16,29,WLDLWDWLWWDWWDLDWDDWDL,2,5,3,6,9,17,5,5,12,24,36,WWLWWWLWWWLWLDDLWDDWDW,0,3,7,9,21,LLDLWWDDDD,WWWWWWDWDD
-Nice,Nantes,1-0,/match/nice/nantes/1996,1996,23,ligue_1,20,38,0,1,0,13,8,4,10,25,26,DLDWWDLLDWLLWWWWWWWWWW,6,1,3,15,10,3,9,9,4,26,22,WLLWWDDWDDLDLDLWDDDWWW,4,3,3,10,13,LWDLWLWWWW,LWDWLLLDDW
-Olympique Lyonnais,Lens,0-0,/match/olympique-lyonnais/lens/1996,1996,23,ligue_1,20,38,1,0,0,14,5,10,7,23,26,WWWDDWDLLWWDDDDWDLDWWD,3,6,1,12,10,2,10,10,2,26,14,WWDLDDWLWDWLWDLDDDDWLD,4,5,1,11,8,WDDLWDDDDW,WLDLDLDDDL
-Stade Rennais,Strasbourg,0-0,/match/stade-rennes/strasbourg/1996,1996,23,ligue_1,20,38,1,0,0,7,8,7,7,25,26,WWWWWWWDLWWDWDWDWDWWDD,8,1,1,18,8,8,8,8,6,31,22,DWDDWWWWDWWWDDWLDLWWLD,2,4,5,10,14,WWWLWWWWWD,DDDWWWWDLLW
-Metz,Le Havre,2-1,/match/metz/havre-ac/1996,1996,23,ligue_1,20,38,0,2,1,6,10,8,4,20,14,DWLWDWDDLLWLWDLWLDDWDL,5,3,2,12,8,12,7,6,9,19,28,WWWWDWLLWWWWDDLLWDDWWD,2,2,7,7,17,WWWDWWLLDD,WWWWLWWDLDW
-Bastia,Saint-Étienne,0-0,/match/bastia/saint-etienne/1996,1996,23,ligue_1,20,38,1,0,0,4,10,4,8,33,29,DLWWWLWWWWWWWDDWWWWWLD,8,2,1,22,8,15,5,9,8,27,35,DWDWWWDWWLWLDDWDLLDWDD,1,4,5,10,20,DWWLWWWDWWW,WWDWWDWLDD
-Girondins Bordeaux,Guingamp,2-0,/match/bordeaux/guingamp/1996,1996,23,ligue_1,20,38,0,2,0,16,6,4,12,22,32,WWWWWLDWWWWDWDWLDWWWLW,6,2,3,19,11,5,8,9,5,17,15,WDDLWWWDDDWWDDLWWDLDWL,3,3,4,8,12,WWWLWWDDLWL,DLWDWDLWLW
-Auxerre,Montpellier,1-0,/match/auxerre/montpellier-hsc/1996,1996,23,ligue_1,20,38,0,1,0,11,11,3,8,38,23,WWDLWWLWLWWLWWLLWLLDLD,6,0,4,20,10,9,8,7,7,30,28,DWWWWLLDWWDLWWDWWDDWDL,2,3,5,9,14,WLWWWWLWLL,WWLDWLWWDD
-PSG,FC Gueugnon,1-1,/match/paris-saint-germain-fc/fc-gueugnon/1996,1996,23,ligue_1,20,38,1,1,1,1,13,7,2,44,17,DDLWLWLWWWWDDWLWLDWDWD,8,2,0,26,6,19,3,9,10,14,28,DWDWLLDWWDLLDDDLDLWDWW,1,4,5,6,17,DWWWWDWWWW,WWLWDDDDWW
-Le Havre,PSG,1-1,/match/havre-ac/paris-saint-germain-fc/1996,1996,24,ligue_1,20,38,1,1,1,13,7,6,10,20,30,WWWWDWLLWWWWDDLLWDDWWDW,5,4,2,12,11,1,13,8,2,45,18,DDLWLWLWWWWDDWLWLDWDWDD,5,5,2,18,11,WDLWWDLWDWD,DLLLWWDLLDDD
-Cannes,Auxerre,0-1,/match/as-cannes/auxerre/1996,1996,24,ligue_1,20,38,2,0,1,17,6,5,12,26,36,WWLWWWLWWWLWLDDLWDDWDWL,5,2,5,15,15,8,12,3,8,39,23,WWDLWWLWLWWLWWLLWLLDLDW,5,3,4,18,13,WLWLWLLDLDWW,WDWLLWLWLLDD
-Lens,Nice,0-0,/match/lens/nice/1996,1996,24,ligue_1,20,38,1,0,0,2,10,11,2,26,14,WWDLDDWLWDWLWDLDDDDWLDD,6,5,1,15,6,12,9,4,10,26,26,DLDWWDLLDWLLWWWWWWWWWWW,2,3,7,10,16,WDDWWWWLDDWD,DDWLDLWWWWWW
-Olympique Lyonnais,Stade Rennais,2-2,/match/olympique-lyonnais/stade-rennes/1996,1996,24,ligue_1,20,38,1,2,2,14,5,11,7,23,26,WWWDDWDLLWWDDDDWDLDWWDD,3,7,1,12,10,6,8,8,7,25,26,WWWWWWWDLWWDWDWDWDWWDDD,0,6,6,7,18,WDDLWDDDDWD,WWWWDWDDDDWD
-Montpellier,FC Martigues,2-0,/match/montpellier-hsc/fc-martigues/1996,1996,24,ligue_1,20,38,0,2,0,11,8,7,8,30,29,DWWWWLLDWWDLWWDWWDDWDLW,6,4,2,21,14,20,5,3,15,18,36,WLDWLLWLLLWLWWWDLWDWWWL,2,2,8,5,15,DWWLWDWDWDWL,WDLWLWWWDWWW
-FC Gueugnon,Bastia,1-0,/match/fc-gueugnon/bastia/1996,1996,24,ligue_1,20,38,0,1,0,19,3,10,10,15,29,DWDWLLDWWDLLDDDLDLWDWWD,2,5,5,8,11,4,10,5,8,33,29,DLWWWLWWWWWWWDDWWWWWLDD,2,2,7,11,21,DDLDWLLDLLDW,LWWWWWDWWLD
-Strasbourg,Metz,1-2,/match/strasbourg/metz/1996,1996,24,ligue_1,20,38,2,1,2,7,8,9,6,31,22,DWDDWWWWDWWWDDWLDLWWLDD,6,4,1,21,8,3,11,8,4,22,15,DWLWDWDDLLWLWDLWLDDWDLW,5,5,2,8,6,WWWDWDWDWLD,DLDDLLLDWDWL
-Guingamp,Saint-Étienne,3-0,/match/guingamp/saint-etienne/1996,1996,24,ligue_1,20,38,0,3,0,9,8,9,6,17,17,WDDLWWWDDDWWDDLWWDLDWLW,5,6,1,9,3,16,5,10,8,27,35,DWDWWWDWWLWLDDWDLLDWDDD,1,5,5,10,20,WDWWDDWDWDDL,WWDWWDWLDDD
-Nantes,Lille,1-2,/match/nantes/lillestrom/1996,1996,24,ligue_1,20,38,2,1,2,5,9,9,5,26,23,WLLWWDDWDDLDLDLWDDDWWWW,5,6,1,16,9,18,4,8,11,16,31,WLDLWDWLWWDWWDLDWDDWDLL,2,3,7,10,20,WLWDDDDDWDWW,WDWWWDWLWDWL
-Monaco,Girondins Bordeaux,2-0,/match/monaco/bordeaux/1996,1996,24,ligue_1,20,38,0,2,0,10,10,6,7,35,27,WLDWLLWWLLWDDWDDWLWWLDL,5,4,3,13,10,15,7,4,12,24,32,WWWWWLDWWWWDWDWLDWWWLWW,0,2,9,3,21,WDLWLWDWDLWD,WWDWWWWDWWW
-Bastia,Guingamp,0-1,/match/bastia/guingamp/1996,1996,25,ligue_1,20,38,2,0,1,5,10,5,9,33,30,DLWWWLWWWWWWWDDWWWWWLDDW,8,3,1,22,8,4,9,9,6,20,17,WDDLWWWDDDWWDDLWWDLDWLWW,3,3,5,8,14,DWWLWWWDWWWD,DLWDWDLWLWW
-Stade Rennais,Lens,2-1,/match/stade-rennes/lens/1996,1996,25,ligue_1,20,38,0,2,1,9,8,9,7,27,28,WWWWWWWDLWWDWDWDWDWWDDDD,8,2,1,18,8,2,10,12,2,26,14,WWDLDDWLWDWLWDLDDDDWLDDD,4,6,1,11,8,WWWLWWWWWDD,WLDLDLDDDLD
-FC Martigues,Strasbourg,2-0,/match/fc-martigues/strasbourg/1996,1996,25,ligue_1,20,38,0,2,0,20,5,3,16,18,38,WLDWLLWLLLWLWWWDLWDWWWLW,3,1,7,13,21,11,8,9,7,32,24,DWDDWWWWDWWWDDWLDLWWLDDL,2,5,5,10,14,LWLLLLWLDWL,DDDWWWWDLLWD
-PSG,Cannes,2-1,/match/paris-saint-germain-fc/as-cannes/1996,1996,25,ligue_1,20,38,0,2,1,1,13,9,2,46,19,DDLWLWLWWWWDDWLWLDWDWDDD,8,3,0,27,7,17,6,5,13,26,37,WWLWWWLWWWLWLDDLWDDWDWLL,1,3,7,11,21,DWWWWDWWWWD,WWWWWWDWDDL
-Lille,Monaco,0-0,/match/lillestrom/monaco/1996,1996,25,ligue_1,20,38,1,0,0,19,5,8,11,18,32,WLDLWDWLWWDWWDLDWDDWDLLL,2,5,4,6,11,6,11,6,7,37,27,WLDWLLWWLLWDDWDDWLWWLDLW,5,2,4,22,17,LLDLWWDDDDL,LWLWLDDWWLL
-Girondins Bordeaux,FC Gueugnon,3-1,/match/bordeaux/fc-gueugnon/1996,1996,25,ligue_1,20,38,0,3,1,15,7,4,13,24,34,WWWWWLDWWWWDWDWLDWWWLWWW,7,2,3,21,11,18,4,10,10,16,29,DWDWLLDWWDLLDDDLDLWDWWDW,1,5,5,7,18,WWWLWWDDLWLW,WWLWDDDDWWD
-Auxerre,Le Havre,1-0,/match/auxerre/havre-ac/1996,1996,25,ligue_1,20,38,0,1,0,7,13,3,8,40,23,WWDLWWLWLWWLWWLLWLLDLDWL,7,0,4,21,10,13,7,7,10,21,31,WWWWDWLLWWWWDDLLWDDWWDWD,2,2,8,8,19,WLWWWWLWLLW,WWWWLWWDLDWW
-Nice,Montpellier,1-2,/match/nice/montpellier-hsc/1996,1996,25,ligue_1,20,38,2,1,2,12,9,5,10,26,26,DLDWWDLLDWLLWWWWWWWWWWWD,7,1,3,16,10,8,9,7,8,32,29,DWWWWLLDWWDLWWDWWDDWDLWW,2,3,6,9,15,LWDLWLWWWWW,WWLDWLWWDDW
-Saint-Étienne,Nantes,0-0,/match/saint-etienne/nantes/1996,1996,25,ligue_1,20,38,1,0,0,16,5,10,9,27,38,DWDWWWDWWLWLDDWDLLDWDDDW,4,5,3,17,15,10,9,9,6,27,25,WLLWWDDWDDLDLDLWDDDWWWWL,4,3,4,10,14,DDWWWLLDDLWD,LWDWLLLDDWW
-Metz,Olympique Lyonnais,0-1,/match/metz/olympique-lyonnais/1996,1996,25,ligue_1,20,38,2,0,1,3,12,8,4,24,16,DWLWDWDDLLWLWDLWLDDWDLWL,6,3,2,14,9,14,5,12,7,25,28,WWWDDWDLLWWDDDDWDLDWWDDD,2,4,6,11,16,WWWDWWLLDDW,WWDWLWDDWLWD
-Lens,Lille,1-1,/match/lens/lillestrom/1996,1996,26,ligue_1,20,38,1,1,1,2,10,12,3,27,16,WWDLDDWLWDWLWDLDDDDWLDDDW,6,6,1,15,6,19,5,9,11,18,32,WLDLWDWLWWDWWDLDWDDWDLLLD,3,3,7,12,21,WDDWWWWLDDWDD,WDWWWDWLWDWLL
-Le Havre,Nice,0-0,/match/havre-ac/nice/1996,1996,26,ligue_1,20,38,1,0,0,15,7,7,11,21,32,WWWWDWLLWWWWDDLLWDDWWDWDW,5,5,2,13,12,12,9,5,11,27,28,DLDWWDLLDWLLWWWWWWWWWWWDL,2,4,7,10,16,WDLWWDLWDWDD,DDWLDLWWWWWWD
-Nantes,Bastia,3-1,/match/nantes/bastia/1996,1996,26,ligue_1,20,38,0,3,1,10,9,10,6,27,25,WLLWWDDWDDLDLDLWDDDWWWWLD,5,6,2,17,11,9,10,5,10,33,31,DLWWWLWWWWWWWDDWWWWWLDDWL,2,2,8,11,22,WLWDDDDDWDWWL,LWWWWWDWWLDW
-Olympique Lyonnais,FC Martigues,5-1,/match/olympique-lyonnais/fc-martigues/1996,1996,26,ligue_1,20,38,0,5,1,13,6,12,7,26,28,WWWDDWDLLWWDDDDWDLDWWDDDL,3,8,1,14,12,20,6,3,16,20,38,WLDWLLWLLLWLWWWDLWDWWWLWW,2,2,9,5,17,WDDLWDDDDWDD,WDLWLWWWDWWWW
-Cannes,Girondins Bordeaux,1-1,/match/as-cannes/bordeaux/1996,1996,26,ligue_1,20,38,1,1,1,17,6,5,14,27,39,WWLWWWLWWWLWLDDLWDDWDWLLW,5,2,6,15,16,14,8,4,13,27,35,WWWWWLDWWWWDWDWLDWWWLWWWW,0,2,10,3,23,WLWLWLLDLDWWL,WWDWWWWDWWWW
-Monaco,PSG,1-0,/match/monaco/paris-saint-germain-fc/1996,1996,26,ligue_1,20,38,0,1,0,7,11,7,7,37,27,WLDWLLWWLLWDDWDDWLWWLDLWD,6,4,3,15,10,1,14,9,2,48,20,DDLWLWLWWWWDDWLWLDWDWDDDW,5,6,2,19,12,WDLWLWDWDLWDW,DLLLWWDLLDDDD
-FC Gueugnon,Saint-Étienne,1-0,/match/fc-gueugnon/saint-etienne/1996,1996,26,ligue_1,20,38,0,1,0,18,4,10,11,17,32,DWDWLLDWWDLLDDDLDLWDWWDWW,3,5,5,9,11,16,5,11,9,27,38,DWDWWWDWWLWLDDWDLLDWDDDWD,1,5,6,10,23,DDLDWLLDLLDWW,WWDWWDWLDDDW
-Strasbourg,Auxerre,1-0,/match/strasbourg/auxerre/1996,1996,26,ligue_1,20,38,0,1,0,11,8,9,8,32,26,DWDDWWWWDWWWDDWLDLWWLDDLW,6,4,2,22,10,5,14,3,8,41,23,WWDLWWLWLWWLWWLLWLLDLDWLW,6,3,4,19,13,WWWDWDWDWLDL,WDWLLWLWLLDDL
-Stade Rennais,Metz,0-0,/match/stade-rennes/metz/1996,1996,26,ligue_1,20,38,1,0,0,6,9,9,7,29,29,WWWWWWWDLWWDWDWDWDWWDDDDW,9,2,1,20,9,3,12,8,5,24,17,DWLWDWDDLLWLWDLWLDDWDLWLL,6,5,2,10,7,WWWLWWWWWDDW,DLDDLLLDWDWLL
-Montpellier,Guingamp,2-1,/match/montpellier-hsc/guingamp/1996,1996,26,ligue_1,20,38,0,2,1,8,10,7,8,34,30,DWWWWLLDWWDLWWDWWDDWDLWWL,7,4,2,23,14,4,10,9,6,21,17,WDDLWWWDDDWWDDLWWDLDWLWWL,4,3,5,9,14,DWWLWDWDWDWLW,DLWDWDLWLWWL
-Auxerre,Olympique Lyonnais,2-0,/match/auxerre/olympique-lyonnais/1996,1996,27,ligue_1,20,38,0,2,0,9,14,3,9,41,24,WWDLWWLWLWWLWWLLWLLDLDWLWW,8,0,4,22,10,12,7,12,7,31,29,WWWDDWDLLWWDDDDWDLDWWDDDLW,3,4,6,12,16,WLWWWWLWLLWW,WWDWLWDDWLWDL
-FC Martigues,Stade Rennais,1-2,/match/fc-martigues/stade-rennes/1996,1996,27,ligue_1,20,38,2,1,2,20,6,3,17,21,43,WLDWLLWLLLWLWWWDLWDWWWLWWW,4,1,7,15,21,3,9,10,7,29,29,WWWWWWWDLWWDWDWDWDWWDDDDWD,0,7,6,9,20,LWLLLLWLDWLW,WWWWDWDDDDWDD
-Bastia,Lens,3-2,/match/bastia/lens/1996,1996,27,ligue_1,20,38,0,3,2,11,10,5,11,34,34,DLWWWLWWWWWWWDDWWWWWLDDWLW,8,3,2,22,9,2,10,13,3,28,17,WWDLDDWLWDWLWDLDDDDWLDDDWD,4,6,2,12,10,DWWLWWWDWWWDL,WLDLDLDDDLDW
-Lille,FC Gueugnon,2-0,/match/lillestrom/fc-gueugnon/1996,1996,27,ligue_1,20,38,0,2,0,19,5,10,11,19,33,WLDLWDWLWWDWWDLDWDDWDLLLDD,2,6,4,6,11,17,5,10,11,18,32,DWDWLLDWWDLLDDDLDLWDWWDWWW,1,5,6,8,21,LLDLWWDDDDLD,WWLWDDDDWWDW
-Girondins Bordeaux,Le Havre,3-1,/match/bordeaux/havre-ac/1996,1996,27,ligue_1,20,38,0,3,1,14,8,5,13,28,36,WWWWWLDWWWWDWDWLDWWWLWWWWD,8,2,3,24,12,15,7,8,11,21,32,WWWWDWLLWWWWDDLLWDDWWDWDWD,2,2,9,8,20,WWWLWWDDLWLWW,WWWWLWWDLDWWW
-Guingamp,Nantes,3-1,/match/guingamp/nantes/1996,1996,27,ligue_1,20,38,0,3,1,8,10,9,7,22,19,WDDLWWWDDDWWDDLWWDLDWLWWLW,6,6,1,12,3,6,10,10,6,30,26,WLLWWDDWDDLDLDLWDDDWWWWLDW,4,4,4,10,14,WDWWDDWDWDDLW,LWDWLLLDDWWD
-Nice,Strasbourg,2-2,/match/nice/strasbourg/1996,1996,27,ligue_1,20,38,1,2,2,13,9,6,11,27,28,DLDWWDLLDWLLWWWWWWWWWWWDLD,7,1,4,17,12,10,9,9,8,33,26,DWDDWWWWDWWWDDWLDLWWLDDLWW,2,5,6,10,16,LWDLWLWWWWWL,DDDWWWWDLLWDW
-PSG,Montpellier,2-3,/match/paris-saint-germain-fc/montpellier-hsc/1996,1996,27,ligue_1,20,38,2,2,3,1,14,9,3,48,21,DDLWLWLWWWWDDWLWLDWDWDDDWW,9,3,0,29,8,5,11,7,8,36,31,DWWWWLLDWWDLWWDWWDDWDLWWLW,3,3,6,11,16,DWWWWDWWWWDW,WWLDWLWWDDWL
-Saint-Étienne,Cannes,2-2,/match/saint-etienne/as-cannes/1996,1996,27,ligue_1,20,38,1,2,2,16,5,11,10,27,39,DWDWWWDWWLWLDDWDLLDWDDDWDW,4,6,3,17,15,18,6,6,14,28,40,WWLWWWLWWWLWLDDLWDDWDWLLWD,1,3,8,12,23,DDWWWLLDDLWDD,WWWWWWDWDDLW
-Metz,Monaco,0-3,/match/metz/monaco/1996,1996,27,ligue_1,20,38,2,0,3,7,12,9,5,24,17,DWLWDWDDLLWLWDLWLDDWDLWLLD,6,3,3,14,10,4,12,7,7,38,27,WLDWLLWWLLWDDWDDWLWWLDLWDW,5,3,4,22,17,WWWDWWLLDDWL,LWLWLDDWWLLD
-Monaco,Saint-Étienne,2-0,/match/monaco/saint-etienne/1996,1996,28,ligue_1,20,38,0,2,0,5,13,7,7,41,27,WLDWLLWWLLWDDWDDWLWWLDLWDWL,7,4,3,16,10,16,5,12,10,29,41,DWDWWWDWWLWLDDWDLLDWDDDWDWD,1,5,7,10,24,WDLWLWDWDLWDWW,WWDWWDWLDDDWW
-Strasbourg,PSG,1-0,/match/strasbourg/paris-saint-germain-fc/1996,1996,28,ligue_1,20,38,0,1,0,11,9,10,8,35,28,DWDDWWWWDWWWDDWLDLWWLDDLWWD,7,4,2,23,10,1,14,9,4,50,24,DDLWLWLWWWWDDWLWLDWDWDDDWWL,5,6,3,19,13,WWWDWDWDWLDLW,DLLLWWDLLDDDDW
-Montpellier,Girondins Bordeaux,3-0,/match/montpellier-hsc/bordeaux/1996,1996,28,ligue_1,20,38,0,3,0,6,12,7,8,39,33,DWWWWLLDWWDLWWDWWDDWDLWWLWL,8,4,2,25,15,12,9,5,13,31,37,WWWWWLDWWWWDWDWLDWWWLWWWWDW,0,3,10,4,24,DWWLWDWDWDWLWW,WWDWWWWDWWWWD
-Olympique Lyonnais,Nice,1-0,/match/olympique-lyonnais/nice/1996,1996,28,ligue_1,20,38,0,1,0,13,7,12,8,31,31,WWWDDWDLLWWDDDDWDLDWWDDDLWW,4,8,1,19,13,14,9,7,11,29,30,DLDWWDLLDWLLWWWWWWWWWWWDLDD,2,5,7,10,16,WDDLWDDDDWDDW,DDWLDLWWWWWWDD
-Cannes,Bastia,1-0,/match/as-cannes/bastia/1996,1996,28,ligue_1,20,38,0,1,0,19,6,7,14,30,42,WWLWWWLWWWLWLDDLWDDWDWLLWDD,5,3,6,16,17,8,11,5,11,37,36,DLWWWLWWWWWWWDDWWWWWLDDWLWW,2,2,9,12,25,WLWLWLLDLDWWLD,LWWWWWDWWLDWW
-Stade Rennais,Auxerre,2-1,/match/stade-rennes/auxerre/1996,1996,28,ligue_1,20,38,0,2,1,4,10,10,7,31,30,WWWWWWWDLWWDWDWDWDWWDDDDWDL,9,3,1,20,9,7,15,3,9,43,24,WWDLWWLWLWWLWWLLWLLDLDWLWWW,6,3,5,19,14,WWWLWWWWWDDWD,WDWLLWLWLLDDLW
-FC Gueugnon,Guingamp,2-2,/match/fc-gueugnon/guingamp/1996,1996,28,ligue_1,20,38,1,2,2,18,5,10,12,18,34,DWDWLLDWWDLLDDDLDLWDWWDWWWW,4,5,5,10,11,3,11,9,7,25,20,WDDLWWWDDDWWDDLWWDLDWLWWLWW,4,3,6,10,16,DDLDWLLDLLDWWW,DLWDWDLWLWWLW
-Metz,FC Martigues,2-0,/match/metz/fc-martigues/1996,1996,28,ligue_1,20,38,0,2,0,9,12,9,6,24,20,DWLWDWDDLLWLWDLWLDDWDLWLLDL,6,3,4,14,13,20,6,3,18,22,45,WLDWLLWLLLWLWWWDLWDWWWLWWWL,2,2,10,6,22,WWWDWWLLDDWLL,WDLWLWWWDWWWWW
-Lens,Nantes,2-1,/match/lens/nantes/1996,1996,28,ligue_1,20,38,0,2,1,2,10,13,4,30,20,WWDLDDWLWDWLWDLDDDDWLDDDWDW,6,7,1,16,7,10,10,10,7,31,29,WLLWWDDWDDLDLDLWDDDWWWWLDWW,4,4,5,11,17,WDDWWWWLDDWDDD,LWDWLLLDDWWDW
-Le Havre,Lille,4-1,/match/havre-ac/lillestrom/1996,1996,28,ligue_1,20,38,0,4,1,15,7,8,12,22,35,WWWWDWLLWWWWDDLLWDDWWDWDWDW,5,6,2,13,12,17,6,10,11,21,33,WLDLWDWLWWDWWDLDWDDWDLLLDDW,3,4,7,13,22,WDLWWDLWDWDDD,WDWWWDWLWDWLLD
-Nice,Cannes,1-2,/match/nice/as-cannes/1996,1996,29,ligue_1,20,38,2,1,2,15,9,7,12,29,31,DLDWWDLLDWLLWWWWWWWWWWWDLDDW,7,2,4,19,14,17,7,7,14,31,42,WWLWWWLWWWLWLDDLWDDWDWLLWDDW,1,4,8,14,25,LWDLWLWWWWWLD,WWWWWWDWDDLWD
-Guingamp,Monaco,0-0,/match/guingamp/monaco/1996,1996,29,ligue_1,20,38,1,0,0,7,11,10,7,27,22,WDDLWWWDDDWWDDLWWDLDWLWWLWWD,7,6,1,15,4,4,14,7,7,43,27,WLDWLLWWLLWDDWDDWLWWLDLWDWLW,6,3,4,25,17,WDWWDDWDWDDLWW,LWLWLDDWWLLDL
-Lille,Montpellier,1-1,/match/lillestrom/montpellier-hsc/1996,1996,29,ligue_1,20,38,1,1,1,19,6,10,12,22,37,WLDLWDWLWWDWWDLDWDDWDLLLDDWW,3,6,4,8,11,5,13,7,8,42,33,DWWWWLLDWWDLWWDWWDDWDLWWLWLW,4,3,6,14,18,LLDLWWDDDDLDW,WWLDWLWWDDWLL
-Saint-Étienne,Olympique Lyonnais,1-1,/match/saint-etienne/olympique-lyonnais/1996,1996,29,ligue_1,20,38,1,1,1,16,5,12,11,29,43,DWDWWWDWWLWLDDWDLLDWDDDWDWDW,4,7,3,19,17,12,8,12,8,32,31,WWWDDWDLLWWDDDDWDLDWWDDDLWWW,3,4,7,12,18,DDWWWLLDDLWDDD,WWDWLWDDWLWDLW
-PSG,Lens,1-0,/match/paris-saint-germain-fc/lens/1996,1996,29,ligue_1,20,38,0,1,0,1,14,9,5,50,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLW,9,3,1,31,11,2,11,13,4,32,21,WWDLDDWLWDWLWDLDDDDWLDDDWDWW,4,6,3,14,13,DWWWWDWWWWDWL,WLDLDLDDDLDWW
-FC Martigues,Le Havre,0-1,/match/fc-martigues/havre-ac/1996,1996,29,ligue_1,20,38,2,0,1,20,6,3,19,22,47,WLDWLLWLLLWLWWWDLWDWWWLWWWLW,4,1,8,16,23,14,8,8,12,26,36,WWWWDWLLWWWWDDLLWDDWWDWDWDWW,2,2,10,9,23,LWLLLLWLDWLWL,WWWWLWWDLDWWWW
-Nantes,FC Gueugnon,1-0,/match/nantes/fc-gueugnon/1996,1996,29,ligue_1,20,38,0,1,0,10,10,10,8,32,31,WLLWWDDWDDLDLDLWDDDWWWWLDWWW,6,6,2,20,12,18,5,11,12,20,36,DWDWLLDWWDLLDDDLDLWDWWDWWWWD,1,5,7,8,23,WLWDDDDDWDWWLW,WWLWDDDDWWDWW
-Auxerre,Metz,0-0,/match/auxerre/metz/1996,1996,29,ligue_1,20,38,1,0,0,8,15,3,10,44,26,WWDLWWLWLWWLWWLLWLLDLDWLWWWW,9,0,4,24,10,6,13,9,6,26,20,DWLWDWDDLLWLWDLWLDDWDLWLLDLW,6,6,2,10,7,WLWWWWLWLLWWW,DLDDLLLDWDWLLD
-Girondins Bordeaux,Strasbourg,1-1,/match/bordeaux/strasbourg/1996,1996,29,ligue_1,20,38,1,1,1,13,9,5,14,31,40,WWWWWLDWWWWDWDWLDWWWLWWWWDWW,9,2,3,27,13,9,10,10,8,36,28,DWDDWWWWDWWWDDWLDLWWLDDLWWDW,2,6,6,12,18,WWWLWWDDLWLWWW,DDDWWWWDLLWDWD
-Bastia,Stade Rennais,0-0,/match/bastia/stade-rennes/1996,1996,29,ligue_1,20,38,1,0,0,11,11,5,12,37,37,DLWWWLWWWWWWWDDWWWWWLDDWLWWW,9,3,2,25,11,3,11,10,7,33,31,WWWWWWWDLWWDWDWDWDWWDDDDWDLW,1,7,6,11,21,DWWLWWWDWWWDLW,WWWWDWDDDDWDDL
-Olympique Lyonnais,Girondins Bordeaux,1-0,/match/olympique-lyonnais/bordeaux/1996,1996,30,ligue_1,20,38,0,1,0,12,8,13,8,33,32,WWWDDWDLLWWDDDDWDLDWWDDDLWWWD,5,8,1,20,13,13,9,6,14,32,41,WWWWWLDWWWWDWDWLDWWWLWWWWDWWD,0,3,11,4,27,WDDLWDDDDWDDWW,WWDWWWWDWWWWDW
-Monaco,Nantes,4-1,/match/monaco/nantes/1996,1996,30,ligue_1,20,38,0,4,1,4,14,8,7,43,27,WLDWLLWWLLWDDWDDWLWWLDLWDWLWD,8,4,3,18,10,9,11,10,8,33,31,WLLWWDDWDDLDLDLWDDDWWWWLDWWWW,4,4,6,12,19,WDLWLWDWDLWDWWW,LWDWLLLDDWWDWW
-Montpellier,Saint-Étienne,1-0,/match/montpellier-hsc/saint-etienne/1996,1996,30,ligue_1,20,38,0,1,0,5,13,8,8,43,34,DWWWWLLDWWDLWWDWWDDWDLWWLWLWD,9,4,2,28,15,16,5,13,11,30,44,DWDWWWDWWLWLDDWDLLDWDDDWDWDWD,1,5,8,10,26,DWWLWDWDWDWLWWW,WWDWWDWLDDDWWW
-Le Havre,Bastia,1-0,/match/havre-ac/bastia/1996,1996,30,ligue_1,20,38,0,1,0,14,9,8,12,27,36,WWWWDWLLWWWWDDLLWDDWWDWDWDWWL,6,6,2,17,13,11,11,6,12,37,37,DLWWWLWWWWWWWDDWWWWWLDDWLWWWD,2,2,10,12,26,WDLWWDLWDWDDDW,LWWWWWDWWLDWWW
-Strasbourg,Lille,2-0,/match/strasbourg/lillestrom/1996,1996,30,ligue_1,20,38,0,2,0,10,10,11,8,37,29,DWDDWWWWDWWWDDWLDLWWLDDLWWDWD,8,4,2,24,10,18,6,11,12,23,38,WLDLWDWLWWDWWDLDWDDWDLLLDDWWD,3,4,8,14,26,WWWDWDWDWLDLWW,WDWWWDWLWDWLLDW
-Stade Rennais,PSG,0-1,/match/stade-rennes/paris-saint-germain-fc/1996,1996,30,ligue_1,20,38,2,0,1,3,11,11,7,33,31,WWWWWWWDLWWDWDWDWDWWDDDDWDLWD,10,3,1,22,10,1,15,9,5,51,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLWW,5,6,4,19,14,WWWLWWWWWDDWDW,DLLLWWDLLDDDDWW
-Lens,FC Gueugnon,2-0,/match/lens/fc-gueugnon/1996,1996,30,ligue_1,20,38,0,2,0,2,11,13,5,32,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWW,7,7,1,18,8,19,5,11,13,20,37,DWDWLLDWWDLLDDDLDLWDWWDWWWWDW,1,5,8,8,24,WDDWWWWLDDWDDDW,WWLWDDDDWWDWWW
-Auxerre,FC Martigues,4-0,/match/auxerre/fc-martigues/1996,1996,30,ligue_1,20,38,0,4,0,8,15,4,10,44,26,WWDLWWLWLWWLWWLLWLLDLDWLWWWWD,9,1,4,24,10,20,6,3,20,22,48,WLDWLLWLLLWLWWWDLWDWWWLWWWLWL,2,2,11,6,24,WLWWWWLWLLWWWD,WDLWLWWWDWWWWWW
-Cannes,Guingamp,3-0,/match/as-cannes/guingamp/1996,1996,30,ligue_1,20,38,0,3,0,17,8,7,14,33,43,WWLWWWLWWWLWLDDLWDDWDWLLWDDWL,6,3,6,17,17,6,11,11,7,27,22,WDDLWWWDDDWWDDLWWDLDWLWWLWWDD,4,4,6,12,18,WLWLWLLDLDWWLDW,DLWDWDLWLWWLWD
-Metz,Nice,4-0,/match/metz/nice/1996,1996,30,ligue_1,20,38,0,4,0,7,13,10,6,26,20,DWLWDWDDLLWLWDLWLDDWDLWLLDLWD,7,3,4,16,13,15,9,7,13,30,33,DLDWWDLLDWLLWWWWWWWWWWWDLDDWL,2,5,8,10,17,WWWDWWLLDDWLLW,DDWLDLWWWWWWDDW
-FC Martigues,Lens,0-1,/match/fc-martigues/lens/1996,1996,31,ligue_1,20,38,2,0,1,20,6,3,21,22,52,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLW,4,1,9,16,24,4,12,13,5,34,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWW,4,6,4,14,14,LWLLLLWLDWLWLL,WLDLDLDDDLDWWW
-FC Gueugnon,Monaco,2-2,/match/fc-gueugnon/monaco/1996,1996,31,ligue_1,20,38,1,2,2,19,5,11,14,20,39,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWW,4,6,5,12,13,2,15,8,7,47,28,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDW,6,4,4,25,17,DDLDWLLDLLDWWWD,LWLWLDDWWLLDLD
-Bastia,Montpellier,1-0,/match/bastia/montpellier-hsc/1996,1996,31,ligue_1,20,38,0,1,0,12,11,6,13,37,38,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDW,9,4,2,25,11,3,14,8,8,44,34,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDW,4,4,6,15,19,DWWLWWWDWWWDLWD,WWLDWLWWDDWLLD
-Saint-Étienne,Le Havre,1-1,/match/saint-etienne/havre-ac/1996,1996,31,ligue_1,20,38,1,1,1,17,5,13,12,30,45,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDW,4,8,3,20,18,13,10,8,12,28,36,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLW,3,2,10,10,23,DDWWWLLDDLWDDDD,WWWWLWWDLDWWWWL
-Nice,Auxerre,1-3,/match/nice/auxerre/1996,1996,31,ligue_1,20,38,2,1,3,16,9,7,14,30,37,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLW,7,2,5,20,16,6,16,4,10,48,26,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDW,6,3,6,20,16,LWDLWLWWWWWLDL,WDWLLWLWLLDDLWW
-Guingamp,Strasbourg,3-0,/match/guingamp/strasbourg/1996,1996,31,ligue_1,20,38,0,3,0,9,11,11,8,27,25,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDW,7,7,1,15,4,8,11,11,8,39,29,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDW,2,7,6,13,19,WDWWDDWDWDDLWWD,DDDWWWWDLLWDWDD
-Lille,Stade Rennais,0-0,/match/lillestrom/stade-rennes/1996,1996,31,ligue_1,20,38,1,0,0,18,6,11,13,23,40,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDW,3,7,4,9,12,7,11,11,8,33,32,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDL,1,8,6,11,21,LLDLWWDDDDLDWD,WWWWDWDDDDWDDLD
-Nantes,Cannes,2-0,/match/nantes/as-cannes/1996,1996,31,ligue_1,20,38,0,2,0,10,11,10,9,34,35,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWW,7,6,2,21,12,15,9,7,14,36,43,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLW,2,4,8,16,26,WLWDDDDDWDWWLWW,WWWWWWDWDDLWDL
-Girondins Bordeaux,Metz,4-0,/match/bordeaux/metz/1996,1996,31,ligue_1,20,38,0,4,0,14,9,6,15,32,42,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDW,9,3,3,28,14,5,14,10,6,30,20,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDW,6,7,2,10,7,WWWLWWDDLWLWWWD,DLDDLLLDWDWLLDD
-PSG,Olympique Lyonnais,2-0,/match/paris-saint-germain-fc/olympique-lyonnais/1996,1996,31,ligue_1,20,38,0,2,0,1,16,9,5,52,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWL,10,3,1,32,11,11,9,13,8,34,32,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDW,3,5,7,13,19,DWWWWDWWWWDWLW,WWDWLWDDWLWDLWD
-Stade Rennais,Girondins Bordeaux,4-3,/match/stade-rennes/bordeaux/1996,1996,32,ligue_1,20,38,0,4,3,8,11,12,8,33,32,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLD,10,3,2,22,11,14,10,6,15,36,42,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWW,0,3,12,4,28,WWWLWWWWWDDWDWL,WWDWWWWDWWWWDWW
-Montpellier,Monaco,0-0,/match/montpellier-hsc/monaco/1996,1996,32,ligue_1,20,38,1,0,0,4,14,8,9,44,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWW,10,4,2,29,15,3,15,9,7,49,30,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWD,6,5,4,27,19,DWWLWDWDWDWLWWWW,LWLWLDDWWLLDLDD
-Le Havre,Guingamp,1-0,/match/havre-ac/guingamp/1996,1996,32,ligue_1,20,38,0,1,0,13,10,9,12,29,37,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWD,7,6,2,18,13,6,12,11,8,30,25,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWW,4,4,7,12,21,WDLWWDLWDWDDDWW,DLWDWDLWLWWLWDW
-Strasbourg,Bastia,4-3,/match/strasbourg/bastia/1996,1996,32,ligue_1,20,38,0,4,3,10,11,11,9,39,32,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWW,9,4,2,26,10,11,12,6,13,38,38,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWW,2,2,11,12,27,WWWDWDWDWLDLWWW,LWWWWWDWWLDWWWW
-Olympique Lyonnais,Nantes,1-1,/match/olympique-lyonnais/nantes/1996,1996,32,ligue_1,20,38,1,1,1,12,9,13,9,34,34,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWW,6,8,1,21,13,9,12,10,9,36,35,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWW,4,4,7,13,23,WDDLWDDDDWDDWWW,LWDWLLLDDWWDWWW
-Metz,Lille,2-0,/match/metz/lillestrom/1996,1996,32,ligue_1,20,38,0,2,0,7,14,10,7,30,24,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWW,8,3,4,20,13,18,6,12,13,23,40,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWD,3,4,9,14,28,WWWDWWLLDDWLLWW,WDWWWDWLWDWLLDWW
-Lens,Saint-Étienne,3-0,/match/lens/saint-etienne/1996,1996,32,ligue_1,20,38,0,3,0,2,13,13,5,35,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWL,8,7,1,20,8,17,5,14,12,31,46,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWD,1,5,9,10,27,WDDWWWWLDDWDDDWW,WWDWWDWLDDDWWWW
-Cannes,FC Gueugnon,2-0,/match/as-cannes/fc-gueugnon/1996,1996,32,ligue_1,20,38,0,2,0,15,9,7,15,36,45,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWW,7,3,6,20,17,19,5,12,14,22,41,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWD,1,5,9,8,26,WLWLWLLDLDWWLDWW,WWLWDDDDWWDWWWW
-FC Martigues,Nice,0-0,/match/fc-martigues/nice/1996,1996,32,ligue_1,20,38,1,0,0,20,6,3,22,22,53,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWL,4,1,10,16,25,16,9,7,15,31,40,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWL,2,5,9,10,21,LWLLLLWLDWLWLLL,DDWLDLWWWWWWDDWW
-Auxerre,PSG,3-0,/match/auxerre/paris-saint-germain-fc/1996,1996,32,ligue_1,20,38,0,3,0,5,17,4,10,51,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWL,10,1,4,28,10,1,17,9,5,54,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLW,6,6,4,20,14,WLWWWWLWLLWWWDW,DLLLWWDLLDDDDWWL
-Nice,Stade Rennais,0-0,/match/nice/stade-rennes/1996,1996,33,ligue_1,20,38,1,0,0,16,9,8,15,31,40,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLD,7,2,6,21,19,7,12,12,8,37,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDW,1,9,6,11,21,LWDLWLWWWWWLDLL,WWWWDWDDDDWDDLDD
-Monaco,Cannes,1-0,/match/monaco/as-cannes/1996,1996,33,ligue_1,20,38,0,1,0,4,15,10,7,49,30,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDD,9,4,3,22,11,15,10,7,15,38,45,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWW,2,4,9,16,28,WDLWLWDWDLWDWWWW,WWWWWWDWDDLWDLW
-Saint-Étienne,Strasbourg,2-0,/match/saint-etienne/strasbourg/1996,1996,33,ligue_1,20,38,0,2,0,17,5,14,13,31,49,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDW,4,9,3,21,19,8,12,11,9,43,35,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWW,2,7,7,13,22,DDWWWLLDDLWDDDDD,DDDWWWWDLLWDWDDW
-FC Gueugnon,Montpellier,0-2,/match/fc-gueugnon/montpellier-hsc/1996,1996,33,ligue_1,20,38,2,0,2,19,5,12,15,22,43,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDW,4,7,5,14,15,5,14,9,9,44,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWD,4,4,7,15,20,DDLDWLLDLLDWWWDD,WWLDWLWWDDWLLDW
-PSG,Metz,2-3,/match/paris-saint-germain-fc/metz/1996,1996,33,ligue_1,20,38,2,2,3,1,17,9,6,54,28,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWW,11,3,1,34,11,6,15,10,7,32,24,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWW,6,7,3,10,11,DWWWWDWWWWDWLWW,DLDDLLLDWDWLLDDW
-Bastia,Olympique Lyonnais,0-0,/match/bastia/olympique-lyonnais/1996,1996,33,ligue_1,20,38,1,0,0,11,12,6,14,41,42,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWW,10,4,2,26,11,12,9,14,9,35,35,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWD,3,5,8,13,21,DWWLWWWDWWWDLWDW,WWDWLWDDWLWDLWDW
-Lille,Auxerre,0-4,/match/lillestrom/auxerre/1996,1996,33,ligue_1,20,38,2,0,4,18,6,12,14,23,42,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDW,3,8,4,9,12,3,18,4,10,54,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLW,7,3,6,23,17,LLDLWWDDDDLDWDD,WDWLLWLWLLDDLWWL
-Nantes,Le Havre,1-1,/match/nantes/havre-ac/1996,1996,33,ligue_1,20,38,1,1,1,10,12,11,9,37,36,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWD,8,6,2,23,12,13,11,9,12,30,37,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDW,3,3,10,11,24,WLWDDDDDWDWWLWWW,WWWWLWWDLDWWWWLD
-Guingamp,Lens,1-0,/match/guingamp/lens/1996,1996,33,ligue_1,20,38,0,1,0,9,12,11,9,30,26,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWW,8,7,1,18,4,2,14,13,5,38,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLW,5,6,4,15,14,WDWWDDWDWDDLWWDW,WLDLDLDDDLDWWWL
-Girondins Bordeaux,FC Martigues,1-1,/match/bordeaux/fc-martigues/1996,1996,33,ligue_1,20,38,1,1,1,14,10,6,16,39,46,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWW,10,3,3,32,14,20,6,4,22,22,53,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLD,2,2,12,6,28,WWWLWWDDLWLWWWDW,WDLWLWWWDWWWWWWW
-Lens,Monaco,2-1,/match/lens/monaco/1996,1996,34,ligue_1,20,38,0,2,1,2,14,13,6,38,23,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWW,9,7,1,23,8,3,16,10,7,50,30,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDW,6,6,4,27,19,WDDWWWWLDDWDDDWWW,LWLWLDDWWLLDLDDD
-Auxerre,Girondins Bordeaux,2-0,/match/auxerre/bordeaux/1996,1996,34,ligue_1,20,38,0,2,0,4,19,4,10,58,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWL,11,1,4,31,10,14,10,7,16,40,47,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWD,0,3,13,7,32,WLWWWWLWLLWWWDWW,WWDWWWWDWWWWDWWW
-FC Martigues,Lille,1-0,/match/fc-martigues/lillestrom/1996,1996,34,ligue_1,20,38,0,1,0,20,6,5,22,23,54,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDD,4,2,10,16,25,18,6,12,15,23,46,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWL,3,4,10,14,30,LWLLLLWLDWLWLLLD,WDWWWDWLWDWLLDWWW
-Nice,PSG,1-2,/match/nice/paris-saint-germain-fc/1996,1996,34,ligue_1,20,38,2,1,2,17,9,9,15,31,40,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDD,7,3,6,21,19,1,17,9,7,56,31,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWL,6,6,5,20,17,LWDLWLWWWWWLDLLD,DLLLWWDLLDDDDWWLW
-Stade Rennais,Saint-Étienne,3-0,/match/stade-rennes/saint-etienne/1996,1996,34,ligue_1,20,38,0,3,0,7,12,13,8,37,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWD,11,3,2,26,14,16,6,14,13,33,49,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWW,1,5,10,10,30,WWWLWWWWWDDWDWLW,WWDWWDWLDDDWWWWW
-Strasbourg,Cannes,1-0,/match/strasbourg/as-cannes/1996,1996,34,ligue_1,20,38,0,1,0,9,12,11,10,43,37,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWW,10,4,2,30,13,15,10,7,16,38,46,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWW,2,4,10,16,29,WWWDWDWDWLDLWWWW,WWWWWWDWDDLWDLWW
-Montpellier,Nantes,1-0,/match/montpellier-hsc/nantes/1996,1996,34,ligue_1,20,38,0,1,0,5,15,9,9,46,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDL,10,5,2,29,15,10,12,12,9,38,37,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDD,4,5,7,14,24,DWWLWDWDWDWLWWWWD,LWDWLLLDDWWDWWWD
-Le Havre,FC Gueugnon,0-2,/match/havre-ac/fc-gueugnon/1996,1996,34,ligue_1,20,38,2,0,2,13,11,10,12,31,38,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWD,8,6,2,19,13,19,5,12,16,22,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWL,1,5,10,8,28,WDLWWDLWDWDDDWWW,WWLWDDDDWWDWWWWW
-Olympique Lyonnais,Guingamp,1-1,/match/olympique-lyonnais/guingamp/1996,1996,34,ligue_1,20,38,1,1,1,12,9,15,9,35,35,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDD,6,9,1,22,14,8,13,11,9,31,26,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWW,4,4,8,12,22,WDDLWDDDDWDDWWWD,DLWDWDLWLWWLWDWW
-Metz,Bastia,2-0,/match/metz/bastia/1996,1996,34,ligue_1,20,38,0,2,0,6,16,10,7,35,26,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWL,9,3,4,22,13,11,12,7,14,41,42,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWD,2,2,12,15,31,WWWDWWLLDDWLLWWW,LWWWWWDWWLDWWWWW
-Bastia,Auxerre,1-1,/match/bastia/auxerre/1996,1996,35,ligue_1,20,38,1,1,1,12,12,7,15,41,44,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDW,10,5,2,26,11,3,20,4,10,60,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLW,8,3,6,27,17,DWWLWWWDWWWDLWDWD,WDWLLWLWLLDDLWWLL
-Guingamp,Stade Rennais,0-0,/match/guingamp/stade-rennes/1996,1996,35,ligue_1,20,38,1,0,0,8,13,12,9,32,27,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWD,9,7,1,19,4,7,13,13,8,40,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDW,1,10,6,11,21,WDWWDDWDWDDLWWDWW,WWWWDWDDDDWDDLDDD
-Nantes,Strasbourg,2-0,/match/nantes/strasbourg/1996,1996,35,ligue_1,20,38,0,2,0,10,12,12,10,38,38,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDW,8,7,2,24,13,9,13,11,10,44,37,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWW,2,7,8,13,24,WLWDDDDDWDWWLWWWD,DDDWWWWDLLWDWDDWW
-Girondins Bordeaux,Lens,0-0,/match/bordeaux/lens/1996,1996,35,ligue_1,20,38,1,0,0,14,10,7,17,40,49,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDW,10,4,3,33,15,2,15,13,6,40,24,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWW,5,6,5,15,15,WWWLWWDDLWLWWWDWD,WLDLDLDDDLDWWWLW
-Lille,Nice,1-0,/match/lillestrom/nice/1996,1996,35,ligue_1,20,38,0,1,0,19,6,12,16,23,47,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLW,3,8,5,9,16,17,9,9,16,32,42,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDL,2,6,9,10,21,LLDLWWDDDDLDWDDL,DDWLDLWWWWWWDDWWD
-Saint-Étienne,Metz,1-1,/match/saint-etienne/metz/1996,1996,35,ligue_1,20,38,1,1,1,16,6,14,14,33,52,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWW,5,9,3,23,19,5,17,10,7,37,26,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLW,7,7,3,13,13,DDWWWLLDDLWDDDDDW,DLDDLLLDWDWLLDDWL
-Monaco,Le Havre,2-1,/match/monaco/havre-ac/1996,1996,35,ligue_1,20,38,0,2,1,6,16,10,8,51,32,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWW,10,4,3,23,11,13,11,10,13,31,40,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDL,3,4,10,12,25,WDLWLWDWDLWDWWWWW,WWWWLWWDLDWWWWLDD
-FC Gueugnon,Olympique Lyonnais,0-0,/match/fc-gueugnon/olympique-lyonnais/1996,1996,35,ligue_1,20,38,1,0,0,18,6,12,16,24,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLL,4,7,6,14,17,11,9,16,9,36,36,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDD,3,6,8,13,21,DDLDWLLDLLDWWWDDL,WWDWLWDDWLWDLWDWD
-Cannes,Montpellier,2-1,/match/as-cannes/montpellier-hsc/1996,1996,35,ligue_1,20,38,0,2,1,15,10,7,17,38,47,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWW,8,3,6,22,17,4,16,9,9,47,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLW,5,4,7,17,20,WLWLWLLDLDWWLDWWW,WWLDWLWWDDWLLDWL
-PSG,FC Martigues,0-0,/match/paris-saint-germain-fc/fc-martigues/1996,1996,35,ligue_1,20,38,1,0,0,1,18,9,7,58,32,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLL,11,3,2,36,14,20,7,5,22,24,54,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDW,2,3,12,7,29,DWWWWDWWWWDWLWWL,WDLWLWWWDWWWWWWWD
-Nice,Girondins Bordeaux,1-0,/match/nice/bordeaux/1996,1996,36,ligue_1,20,38,0,1,0,17,9,9,17,32,43,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDLW,7,3,7,22,21,14,10,8,17,40,49,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDWD,0,3,14,7,34,LWDLWLWWWWWLDLLDL,WWDWWWWDWWWWDWWWW
-Auxerre,Saint-Étienne,2-0,/match/auxerre/saint-etienne/1996,1996,36,ligue_1,20,38,0,2,0,3,20,5,10,61,28,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLWD,12,1,4,33,10,16,6,15,14,34,53,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWWD,1,5,11,10,33,WLWWWWLWLLWWWDWWW,WWDWWDWLDDDWWWWWW
-PSG,Lille,0-1,/match/paris-saint-germain-fc/lillestrom/1996,1996,36,ligue_1,20,38,2,0,1,1,18,10,7,58,32,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLLD,11,4,2,36,14,18,7,12,16,24,47,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLWW,3,4,11,14,31,DWWWWDWWWWDWLWWLD,WDWWWDWLWDWLLDWWWW
-FC Martigues,Bastia,3-1,/match/fc-martigues/bastia/1996,1996,36,ligue_1,20,38,0,3,1,20,7,6,22,24,54,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDWD,5,2,10,17,25,11,12,8,15,42,45,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDWD,2,2,13,15,33,LWLLLLWLDWLWLLLDW,LWWWWWDWWLDWWWWWW
-Metz,Guingamp,3-0,/match/metz/guingamp/1996,1996,36,ligue_1,20,38,0,3,0,6,17,11,7,38,27,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLWD,10,3,4,24,13,8,13,13,9,32,27,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWDD,4,5,8,13,23,WWWDWWLLDDWLLWWWW,DLWDWDLWLWWLWDWWD
-Olympique Lyonnais,Monaco,3-3,/match/olympique-lyonnais/monaco/1996,1996,36,ligue_1,20,38,1,3,3,12,9,17,9,36,36,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDDD,6,10,1,23,15,4,17,10,8,53,33,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWWW,6,6,5,28,21,WDDLWDDDDWDDWWWDD,LWLWLDDWWLLDLDDDW
-Lens,Montpellier,2-1,/match/lens/montpellier-hsc/1996,1996,36,ligue_1,20,38,0,2,1,2,15,14,6,40,24,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWWD,10,7,1,25,9,5,16,9,10,48,37,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLWW,5,4,8,18,22,WDDWWWWLDDWDDDWWWW,WWLDWLWWDDWLLDWLW
-Le Havre,Cannes,0-0,/match/havre-ac/as-cannes/1996,1996,36,ligue_1,20,38,1,0,0,13,11,10,14,32,42,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDLW,8,6,3,19,15,15,11,7,17,40,48,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWWW,2,4,11,16,30,WDLWWDLWDWDDDWWWL,WWWWWWDWDDLWDLWWW
-Stade Rennais,Nantes,2-2,/match/stade-rennes/nantes/1996,1996,36,ligue_1,20,38,1,2,2,7,13,14,8,40,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDWD,12,3,2,29,14,10,13,12,10,40,38,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDWW,4,5,8,14,25,WWWLWWWWWDDWDWLWW,LWDWLLLDDWWDWWWDW
-Strasbourg,FC Gueugnon,0-0,/match/strasbourg/fc-gueugnon/1996,1996,36,ligue_1,20,38,1,0,0,9,13,11,11,44,39,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWWW,11,4,2,31,13,19,6,13,16,24,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLLD,2,5,10,10,28,WWWDWDWDWLDLWWWWW,WWLWDDDDWWDWWWWWL
-FC Gueugnon,Stade Rennais,1-0,/match/fc-gueugnon/stade-rennes/1996,1996,37,ligue_1,20,38,0,1,0,19,6,14,16,24,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLLDD,4,8,6,14,17,6,13,15,8,42,37,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDWDD,1,11,6,11,21,DDLDWLLDLLDWWWDDLD,WWWWDWDDDDWDDLDDDD
-Nantes,Metz,1-0,/match/nantes/metz/1996,1996,37,ligue_1,20,38,0,1,0,10,13,13,10,42,40,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDWWD,9,7,2,26,13,4,18,11,7,41,27,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLWDW,7,8,3,14,14,WLWDDDDDWDWWLWWWDW,DLDDLLLDWDWLLDDWLD
-Lille,Olympique Lyonnais,2-1,/match/lillestrom/olympique-lyonnais/1996,1996,37,ligue_1,20,38,0,2,1,18,8,12,16,25,47,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLWWL,4,8,5,10,16,11,9,18,9,39,39,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDDDD,3,7,8,13,21,LLDLWWDDDDLDWDDLW,WWDWLWDDWLWDLWDWDD
-Saint-Étienne,FC Martigues,2-2,/match/saint-etienne/fc-martigues/1996,1996,37,ligue_1,20,38,1,2,2,17,6,15,15,34,55,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWWDW,5,10,3,24,20,20,8,6,22,27,55,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDWDW,2,4,12,7,29,DDWWWLLDDLWDDDDDWD,WDLWLWWWDWWWWWWWDD
-Guingamp,Auxerre,1-1,/match/guingamp/auxerre/1996,1996,37,ligue_1,20,38,1,1,1,8,13,13,10,32,30,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWDDW,9,8,1,19,4,2,21,5,10,63,28,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLWDW,8,4,6,28,18,WDWWDDWDWDDLWWDWWD,WDWLLWLWLLDDLWWLLD
-Montpellier,Le Havre,2-0,/match/montpellier-hsc/havre-ac/1996,1996,37,ligue_1,20,38,0,2,0,7,16,9,11,49,39,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLWWW,11,5,2,30,15,13,11,11,14,32,42,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDLWD,3,4,11,13,27,DWWLWDWDWDWLWWWWDW,WWWWLWWDLDWWWWLDDW
-Monaco,Strasbourg,5-1,/match/monaco/strasbourg/1996,1996,37,ligue_1,20,38,0,5,1,5,17,11,8,56,36,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWWWD,11,4,3,25,12,9,13,12,11,44,39,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWWWD,2,7,9,13,26,WDLWLWDWDLWDWWWWWW,DDDWWWWDLLWDWDDWWW
-Cannes,Lens,5-2,/match/as-cannes/lens/1996,1996,37,ligue_1,20,38,0,5,2,15,11,8,17,40,48,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWWWD,9,3,6,24,18,1,16,14,6,42,25,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWWDW,5,7,5,15,15,WLWLWLLDLDWWLDWWWW,WLDLDLDDDLDWWWLWD
-Girondins Bordeaux,PSG,2-2,/match/bordeaux/paris-saint-germain-fc/1996,1996,37,ligue_1,20,38,1,2,2,14,10,8,18,40,50,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDWDW,10,5,3,33,15,3,18,10,8,58,33,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLLDL,7,6,5,22,18,WWWLWWDDLWLWWWDWDD,DLLLWWDLLDDDDWWLWL
-Bastia,Nice,1-2,/match/bastia/nice/1996,1996,37,ligue_1,20,38,2,1,2,12,12,8,16,43,48,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDWDW,10,6,2,27,12,16,10,9,17,33,43,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDLWW,2,6,10,10,22,DWWLWWWDWWWDLWDWDD,DDWLDLWWWWWWDDWWDW
-Le Havre,Lens,1-1,/match/havre-ac/lens/1996,1996,38,ligue_1,20,38,1,1,1,13,11,11,15,32,44,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDLWDW,8,7,3,19,15,1,16,14,7,44,30,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWWDWW,5,7,6,17,20,WDLWWDLWDWDDDWWWLD,WLDLDLDDDLDWWWLWDW
-Olympique Lyonnais,Cannes,1-0,/match/olympique-lyonnais/as-cannes/1996,1996,38,ligue_1,20,38,0,1,0,11,9,18,10,40,41,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDDDDW,6,11,1,26,18,15,12,8,17,45,50,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWWWDW,2,5,11,16,30,WDDLWDDDDWDDWWWDDD,WWWWWWDWDDLWDLWWWD
-Stade Rennais,Monaco,2-3,/match/stade-rennes/monaco/1996,1996,38,ligue_1,20,38,2,2,3,7,13,15,9,42,38,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDWDDW,12,4,2,31,16,3,18,11,8,61,37,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWWWDW,6,7,5,31,24,WWWLWWWWWDDWDWLWWD,LWLWLDDWWLLDLDDDWD
-Metz,FC Gueugnon,1-2,/match/metz/fc-gueugnon/1996,1996,38,ligue_1,20,38,2,1,2,5,18,11,8,41,28,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLWDWW,11,3,4,27,13,19,7,14,16,25,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLLDDW,2,6,10,10,28,WWWDWWLLDDWLLWWWWW,WWLWDDDDWWDWWWWWLD
-FC Martigues,Guingamp,2-1,/match/fc-martigues/guingamp/1996,1996,38,ligue_1,20,38,0,2,1,20,8,7,22,29,57,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDWDWD,6,2,10,20,26,9,13,14,10,33,31,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWDDWD,4,5,9,13,26,LWLLLLWLDWLWLLLDWW,DLWDWDLWLWWLWDWWDW
-Nice,Saint-Étienne,2-0,/match/nice/saint-etienne/1996,1996,38,ligue_1,20,38,0,2,0,16,11,9,17,35,44,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDLWWL,8,3,7,23,21,17,6,16,15,36,57,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWWDWD,1,5,12,10,35,LWDLWLWWWWWLDLLDLW,WWDWWDWLDDDWWWWWWW
-PSG,Bastia,5-1,/match/paris-saint-germain-fc/bastia/1996,1996,38,ligue_1,20,38,0,5,1,4,18,11,8,60,35,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLLDLD,11,4,3,36,15,12,12,8,17,44,50,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDWDWL,2,2,14,16,36,DWWWWDWWWWDWLWWLDL,LWWWWWDWWLDWWWWWWW
-Lille,Girondins Bordeaux,0-2,/match/lillestrom/bordeaux/1996,1996,38,ligue_1,20,38,2,0,2,18,9,12,16,27,48,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLWWLW,5,8,5,12,17,14,10,9,18,42,52,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDWDWD,0,3,15,7,35,LLDLWWDDDDLDWDDLWW,WWDWWWWDWWWWDWWWWW
-Auxerre,Nantes,2-1,/match/auxerre/nantes/1996,1996,38,ligue_1,20,38,0,2,1,2,21,6,10,64,29,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLWDWD,13,1,4,35,10,8,14,13,10,43,40,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDWWDW,4,6,8,16,27,WLWWWWLWLLWWWDWWWW,LWDWLLLDDWWDWWWDWD
-Strasbourg,Montpellier,1-0,/match/strasbourg/montpellier-hsc/1996,1996,38,ligue_1,20,38,0,1,0,10,13,12,12,45,44,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWWWDW,11,5,2,31,13,6,17,9,11,51,39,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLWWWW,5,4,9,19,24,WWWDWDWDWLDLWWWWWD,WWLDWLWWDDWLLDWLWW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Bastia,PSG,2-2,/match/bastia/paris-saint-germain-fc/1996,1996,1,ligue_1,20,38,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Guingamp,FC Martigues,2-0,/match/guingamp/fc-martigues/1996,1996,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Montpellier,Strasbourg,2-2,/match/montpellier-hsc/strasbourg/1996,1996,1,ligue_1,20,38,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cannes,Olympique Lyonnais,3-0,/match/as-cannes/olympique-lyonnais/1996,1996,1,ligue_1,20,38,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+FC Gueugnon,Metz,0-0,/match/fc-gueugnon/metz/1996,1996,1,ligue_1,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lens,Le Havre,2-0,/match/lens/havre-ac/1996,1996,1,ligue_1,20,38,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Saint-Étienne,Nice,1-1,/match/saint-etienne/nice/1996,1996,1,ligue_1,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Girondins Bordeaux,Lille,1-0,/match/bordeaux/lillestrom/1996,1996,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nantes,Auxerre,1-0,/match/nantes/auxerre/1996,1996,1,ligue_1,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Monaco,Stade Rennais,3-1,/match/monaco/stade-rennes/1996,1996,1,ligue_1,20,38,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Nice,Monaco,1-2,/match/nice/monaco/1996,1996,2,ligue_1,20,38,2,1,2,12,1,0,1,0,1,1,D,0,0,0,0,0,6,4,1,0,0,3,1,W,0,0,0,0,0,,
+FC Martigues,Nantes,0-4,/match/fc-martigues/nantes/1996,1996,2,ligue_1,20,38,2,0,4,18,0,0,0,1,0,2,W,0,0,0,0,0,5,4,1,0,0,1,0,W,0,0,0,0,0,,
+Olympique Lyonnais,Montpellier,3-2,/match/olympique-lyonnais/montpellier-hsc/1996,1996,2,ligue_1,20,38,0,3,2,16,0,0,0,1,0,3,W,0,0,0,0,0,9,2,0,1,0,2,2,D,0,0,0,0,0,,
+Strasbourg,Le Havre,3-0,/match/strasbourg/havre-ac/1996,1996,2,ligue_1,20,38,0,3,0,13,1,0,1,0,2,2,D,0,0,0,0,0,20,0,0,0,1,0,2,W,0,0,1,0,2,,W
+Stade Rennais,Cannes,3-2,/match/stade-rennes/as-cannes/1996,1996,2,ligue_1,20,38,0,3,2,19,0,0,0,1,1,3,W,0,0,0,0,0,2,4,1,0,0,3,0,W,0,0,0,0,0,,
+Metz,Lens,2-0,/match/metz/lens/1996,1996,2,ligue_1,20,38,0,2,0,14,1,0,1,0,0,0,D,0,0,0,0,0,1,4,1,0,0,2,0,W,0,0,0,0,0,,
+PSG,Guingamp,1-1,/match/paris-saint-germain-fc/guingamp/1996,1996,2,ligue_1,20,38,1,1,1,11,1,0,1,0,2,2,D,0,0,0,0,0,4,4,1,0,0,2,0,W,0,0,0,0,0,,
+Lille,Bastia,0-2,/match/lillestrom/bastia/1996,1996,2,ligue_1,20,38,2,0,2,17,0,0,0,1,0,1,W,0,0,0,0,0,8,2,0,1,0,2,2,D,0,0,0,0,0,,
+Auxerre,FC Gueugnon,4-0,/match/auxerre/fc-gueugnon/1996,1996,2,ligue_1,20,38,0,4,0,15,0,0,0,1,0,1,W,0,0,0,0,0,7,2,0,1,0,0,0,D,0,0,0,0,0,,
+Girondins Bordeaux,Saint-Étienne,2-0,/match/bordeaux/saint-etienne/1996,1996,2,ligue_1,20,38,0,2,0,3,4,1,0,0,1,0,W,1,0,0,1,0,10,2,0,1,0,1,1,D,0,0,0,0,0,W,
+Nantes,PSG,1-2,/match/nantes/paris-saint-germain-fc/1996,1996,3,ligue_1,20,38,2,1,2,2,6,2,0,0,5,0,WL,1,0,0,1,0,13,3,0,2,0,3,3,DD,0,1,0,2,2,W,D
+FC Gueugnon,FC Martigues,0-0,/match/fc-gueugnon/fc-martigues/1996,1996,3,ligue_1,20,38,1,0,0,16,2,0,1,1,0,4,DW,0,1,0,0,0,19,0,0,0,2,0,6,WL,0,0,1,0,2,D,W
+Lens,Strasbourg,0-0,/match/lens/strasbourg/1996,1996,3,ligue_1,20,38,1,0,0,7,4,1,0,1,2,2,WW,1,0,0,2,0,4,5,1,1,0,5,2,DW,0,1,0,2,2,W,D
+Montpellier,Stade Rennais,3-1,/match/montpellier-hsc/stade-rennes/1996,1996,3,ligue_1,20,38,0,3,1,15,2,0,1,1,4,5,DW,0,1,0,2,2,8,4,1,0,1,4,5,WW,0,0,1,1,3,D,W
+Le Havre,Olympique Lyonnais,2-1,/match/havre-ac/olympique-lyonnais/1996,1996,3,ligue_1,20,38,0,2,1,20,0,0,0,2,0,5,WW,0,0,0,0,0,10,4,1,0,1,3,5,WW,0,0,1,0,3,,W
+Monaco,Auxerre,2-2,/match/monaco/auxerre/1996,1996,3,ligue_1,20,38,1,2,2,3,6,2,0,0,5,2,WL,1,0,0,3,1,11,4,1,0,1,4,1,WW,0,0,1,0,1,W,W
+Saint-Étienne,Lille,1-1,/match/saint-etienne/lillestrom/1996,1996,3,ligue_1,20,38,1,1,1,14,2,0,1,1,1,3,DW,0,1,0,1,1,18,0,0,0,2,0,3,WL,0,0,1,0,1,D,W
+Bastia,Girondins Bordeaux,2-0,/match/bastia/bordeaux/1996,1996,3,ligue_1,20,38,0,2,0,9,4,1,1,0,4,2,DL,0,1,0,2,2,1,8,2,0,0,3,0,WW,0,0,0,0,0,D,
+Cannes,Metz,1-2,/match/as-cannes/metz/1996,1996,3,ligue_1,20,38,2,1,2,12,4,1,0,1,5,3,WW,1,0,0,3,0,6,5,1,1,0,2,0,DW,0,1,0,0,0,W,D
+Guingamp,Nice,0-0,/match/guingamp/nice/1996,1996,3,ligue_1,20,38,1,0,0,5,5,1,1,0,3,1,WD,1,0,0,2,0,17,1,0,1,1,2,3,DL,0,1,0,1,1,W,D
+PSG,Saint-Étienne,4-0,/match/paris-saint-germain-fc/saint-etienne/1996,1996,4,ligue_1,20,38,0,4,0,10,5,1,2,0,5,4,DDL,0,1,0,1,1,14,4,0,2,1,2,4,DWD,0,0,1,0,2,D,W
+Stade Rennais,Le Havre,1-0,/match/stade-rennes/havre-ac/1996,1996,4,ligue_1,20,38,0,1,0,15,4,1,0,2,5,8,WWW,1,0,0,3,2,17,4,1,0,2,2,6,WWW,0,0,2,0,5,W,WW
+Metz,Montpellier,1-0,/match/metz/montpellier-hsc/1996,1996,4,ligue_1,20,38,0,1,0,5,7,2,1,0,4,1,DWL,1,0,0,2,0,9,6,1,1,1,7,6,DWW,0,0,1,2,3,W,W
+Nice,FC Gueugnon,3-1,/match/nice/fc-gueugnon/1996,1996,4,ligue_1,20,38,0,3,1,18,2,0,2,1,2,3,DLD,0,0,1,1,2,16,4,0,2,1,0,4,DWD,0,0,1,0,4,L,W
+Bastia,Monaco,2-1,/match/bastia/monaco/1996,1996,4,ligue_1,20,38,0,2,1,3,8,2,1,0,6,2,DLW,1,1,0,4,2,2,8,2,1,0,7,4,WLD,1,0,0,2,1,DW,L
+Lille,Guingamp,0-3,/match/lillestrom/guingamp/1996,1996,4,ligue_1,20,38,2,0,3,19,1,0,1,2,1,4,WLD,0,0,1,0,2,4,7,1,2,0,3,1,WDD,0,1,0,1,1,L,D
+Auxerre,Lens,0-1,/match/auxerre/lens/1996,1996,4,ligue_1,20,38,2,0,1,11,5,1,1,1,6,3,WWD,1,0,0,4,0,8,6,1,1,1,2,2,WWD,0,0,1,0,2,W,W
+FC Martigues,Cannes,2-1,/match/fc-martigues/as-cannes/1996,1996,4,ligue_1,20,38,0,2,1,20,1,0,1,2,0,6,WLD,0,0,1,0,4,12,4,1,0,2,6,5,WWL,0,0,1,2,3,L,W
+Girondins Bordeaux,Nantes,3-0,/match/bordeaux/nantes/1996,1996,4,ligue_1,20,38,0,3,0,1,8,2,0,1,3,2,WWW,2,0,0,3,0,6,6,2,0,1,6,2,WLL,1,0,0,4,0,WW,L
+Olympique Lyonnais,Strasbourg,1-1,/match/olympique-lyonnais/strasbourg/1996,1996,4,ligue_1,20,38,1,1,1,13,4,1,0,2,4,7,WWW,1,0,0,3,2,7,6,1,2,0,5,2,DWD,0,2,0,2,2,W,DD
+Nantes,Nice,1-0,/match/nantes/nice/1996,1996,5,ligue_1,20,38,0,1,0,10,6,2,0,2,6,5,WLLW,1,0,1,2,2,12,6,1,2,1,5,4,DLDW,0,2,0,1,1,WL,DD
+Le Havre,Metz,0-0,/match/havre-ac/metz/1996,1996,5,ligue_1,20,38,1,0,0,18,4,1,0,3,2,7,WWWW,1,0,0,2,1,3,11,3,1,0,5,1,DWLW,1,1,0,2,1,W,DL
+Montpellier,Auxerre,3-1,/match/montpellier-hsc/auxerre/1996,1996,5,ligue_1,20,38,0,3,1,11,6,1,1,2,7,7,DWWW,1,1,0,5,3,14,5,1,1,2,6,4,WWDL,0,1,1,2,3,DW,WD
+Lens,Olympique Lyonnais,2-2,/match/lens/olympique-lyonnais/1996,1996,5,ligue_1,20,38,1,2,2,7,8,2,1,1,3,2,WWDL,1,1,0,2,0,13,6,1,1,2,5,8,WWWD,0,0,2,1,5,WD,WW
+Cannes,Lille,2-1,/match/as-cannes/lillestrom/1996,1996,5,ligue_1,20,38,0,2,1,19,4,1,0,3,7,7,WWLW,1,0,1,4,2,20,1,0,1,3,1,7,WLDL,0,1,1,1,2,WL,WD
+Monaco,FC Martigues,0-1,/match/monaco/fc-martigues/1996,1996,5,ligue_1,20,38,2,0,1,8,8,2,1,1,8,6,WLDW,1,1,0,5,3,15,5,1,1,2,2,7,WLDW,0,1,1,0,2,WD,WD
+FC Gueugnon,PSG,1-3,/match/fc-gueugnon/paris-saint-germain-fc/1996,1996,5,ligue_1,20,38,2,1,3,17,4,0,2,2,1,7,DWDW,0,2,0,0,0,5,9,2,2,0,9,4,DDLW,1,1,0,4,3,DD,DL
+Saint-Étienne,Bastia,3-0,/match/saint-etienne/bastia/1996,1996,5,ligue_1,20,38,0,3,0,16,4,0,2,2,2,8,DWDW,0,2,0,2,2,2,12,3,1,0,8,3,DLWW,1,0,0,2,0,DD,L
+Strasbourg,Stade Rennais,3-1,/match/strasbourg/stade-rennes/1996,1996,5,ligue_1,20,38,0,3,1,9,7,1,3,0,6,3,DWDD,1,0,0,3,0,6,8,2,0,2,6,8,WWWW,0,0,2,2,6,W,WW
+Guingamp,Girondins Bordeaux,1-0,/match/guingamp/bordeaux/1996,1996,5,ligue_1,20,38,0,1,0,4,9,2,2,0,6,1,WDDL,1,1,0,2,0,1,12,3,0,1,6,2,WWWW,0,0,1,0,2,WD,W
+Lille,Nantes,0-0,/match/lillestrom/nantes/1996,1996,6,ligue_1,20,38,1,0,0,20,1,0,1,4,2,9,WLDLW,0,0,2,0,5,7,10,3,0,2,7,5,WLLWW,1,0,1,4,3,LL,LW
+Nice,Lens,1-1,/match/nice/lens/1996,1996,6,ligue_1,20,38,1,1,1,16,6,1,2,2,5,5,DLDWW,1,0,1,4,3,9,10,2,2,1,5,4,WWDLD,1,0,1,1,2,LW,WL
+Stade Rennais,Olympique Lyonnais,1-0,/match/stade-rennes/olympique-lyonnais/1996,1996,6,ligue_1,20,38,0,1,0,11,8,2,0,3,7,11,WWWWW,2,0,0,4,2,14,7,1,2,2,7,10,WWWDD,0,1,2,3,7,WW,WWD
+Metz,Strasbourg,3-2,/match/metz/strasbourg/1996,1996,6,ligue_1,20,38,0,3,2,3,12,3,2,0,5,1,DWLWD,2,0,0,3,0,5,11,2,3,0,9,4,DWDDW,0,3,0,3,3,WW,DDD
+Saint-Étienne,Guingamp,4-0,/match/saint-etienne/guingamp/1996,1996,6,ligue_1,20,38,0,4,0,12,8,1,2,2,5,8,DWDWW,1,2,0,5,2,1,13,3,2,0,7,1,WDDLW,1,1,0,4,1,DDW,DL
+PSG,Le Havre,2-0,/match/paris-saint-germain-fc/havre-ac/1996,1996,6,ligue_1,20,38,0,2,0,6,11,3,2,0,12,5,DDLWL,1,1,0,5,1,17,6,1,1,3,2,7,WWWWD,0,0,3,0,6,DW,WWW
+Bastia,FC Gueugnon,1-2,/match/bastia/fc-gueugnon/1996,1996,6,ligue_1,20,38,2,1,2,4,12,3,1,1,8,6,DLWWW,2,1,0,6,3,19,4,0,2,3,2,10,DWDWL,0,0,2,1,7,DWW,WW
+Girondins Bordeaux,Monaco,2-4,/match/bordeaux/monaco/1996,1996,6,ligue_1,20,38,2,2,4,2,12,3,0,2,6,3,WWWWW,3,0,0,6,0,10,8,2,1,2,8,7,WLDWL,1,0,1,3,3,WWW,LW
+Auxerre,Cannes,5-1,/match/auxerre/as-cannes/1996,1996,6,ligue_1,20,38,0,5,1,18,5,1,1,3,7,7,WWDLW,1,0,1,4,1,13,8,2,0,3,9,8,WWLWW,0,0,2,3,5,WL,WW
+FC Martigues,Montpellier,0-1,/match/fc-martigues/montpellier-hsc/1996,1996,6,ligue_1,20,38,2,0,1,15,7,2,1,2,3,7,WLDWL,1,0,1,2,5,8,10,2,1,2,10,8,DWWWW,0,0,2,2,4,LW,WW
+Montpellier,Nice,0-1,/match/montpellier-hsc/nice/1996,1996,7,ligue_1,20,38,2,0,1,4,12,3,1,2,11,8,DWWWWL,2,1,0,8,4,15,8,1,3,2,6,6,DLDWWD,0,2,1,1,2,DWW,DDW
+Monaco,Lille,2-1,/match/monaco/lillestrom/1996,1996,7,ligue_1,20,38,0,2,1,12,10,3,1,2,12,9,WLDWLL,1,1,1,5,4,20,3,0,2,4,2,9,WLDLWD,0,1,2,2,4,WDL,WDW
+Le Havre,Auxerre,0-4,/match/havre-ac/auxerre/1996,1996,7,ligue_1,20,38,2,0,4,18,6,1,1,4,2,9,WWWWDW,1,1,0,2,1,13,9,2,1,3,12,8,WWDLWW,0,1,2,3,6,WD,WDW
+Lens,Stade Rennais,1-0,/match/lens/stade-rennes/1996,1996,7,ligue_1,20,38,0,1,0,10,11,2,3,1,6,5,WWDLDD,1,2,0,4,2,7,12,3,0,3,8,11,WWWWWW,0,0,3,3,9,WDD,WWW
+Olympique Lyonnais,Metz,1-1,/match/olympique-lyonnais/metz/1996,1996,7,ligue_1,20,38,1,1,1,16,7,1,2,3,7,11,WWWDDW,1,1,0,4,3,1,16,4,2,0,8,3,DWLWDW,1,2,0,2,1,WD,DLD
+FC Gueugnon,Girondins Bordeaux,2-2,/match/fc-gueugnon/bordeaux/1996,1996,7,ligue_1,20,38,1,2,2,19,6,1,2,3,4,11,DWDWLL,0,2,1,1,3,6,12,3,0,3,8,7,WWWWWL,0,0,2,0,3,DDL,WW
+Nantes,Saint-Étienne,2-2,/match/nantes/saint-etienne/1996,1996,7,ligue_1,20,38,1,2,2,9,11,3,1,2,7,5,WLLWWD,2,0,1,3,2,5,12,2,2,2,9,8,DWDWWW,0,0,2,0,6,WLW,WW
+Cannes,PSG,0-2,/match/as-cannes/paris-saint-germain-fc/1996,1996,7,ligue_1,20,38,2,0,2,14,8,2,0,4,10,13,WWLWWW,2,0,1,6,3,2,15,4,2,0,14,5,DDLWLW,2,1,0,7,4,WLW,DLL
+Strasbourg,FC Martigues,2-0,/match/strasbourg/fc-martigues/1996,1996,7,ligue_1,20,38,0,2,0,11,11,2,3,1,11,7,DWDDWW,2,0,0,6,1,17,7,2,1,3,3,8,WLDWLL,1,1,1,1,2,WW,WDL
+Guingamp,Bastia,1-0,/match/guingamp/bastia/1996,1996,7,ligue_1,20,38,0,1,0,3,13,3,2,1,7,5,WDDLWW,2,1,0,3,0,8,12,3,1,2,9,8,DLWWWL,1,0,1,2,3,WDW,LW
+PSG,Monaco,2-1,/match/paris-saint-germain-fc/monaco/1996,1996,8,ligue_1,20,38,0,2,1,3,17,5,2,0,16,5,DDLWLWL,2,1,0,7,1,6,14,4,1,2,14,10,WLDWLLW,2,0,1,7,5,DWW,LWL
+FC Martigues,Olympique Lyonnais,1-2,/match/fc-martigues/olympique-lyonnais/1996,1996,8,ligue_1,20,38,2,1,2,18,7,2,1,4,3,10,WLDWLLW,1,0,2,2,6,15,9,1,3,3,8,12,WWWDDWD,0,1,3,3,8,LWL,WWDW
+Guingamp,Montpellier,0-0,/match/guingamp/montpellier-hsc/1996,1996,8,ligue_1,20,38,1,0,0,2,17,4,2,1,8,5,WDDLWWW,3,1,0,4,0,12,12,3,1,3,11,9,DWWWWLL,1,0,2,3,4,WDWW,WWL
+Saint-Étienne,FC Gueugnon,2-0,/match/saint-etienne/fc-gueugnon/1996,1996,8,ligue_1,20,38,0,2,0,9,13,2,3,2,11,10,DWDWWWD,2,2,0,9,2,17,8,1,3,3,6,13,DWDWLLD,1,0,2,3,8,DDWW,WWL
+Bastia,Nantes,4-1,/match/bastia/nantes/1996,1996,8,ligue_1,20,38,0,4,1,11,12,3,1,3,9,9,DLWWWLW,2,1,1,7,5,8,13,3,2,2,9,7,WLLWWDD,1,1,1,4,3,DWWL,LWD
+Lille,Lens,1-3,/match/lillestrom/lens/1996,1996,8,ligue_1,20,38,2,1,3,20,3,0,2,5,3,11,WLDLWDW,0,1,2,0,5,4,15,3,3,1,7,5,WWDLDDW,1,1,1,2,3,LLD,WLD
+Girondins Bordeaux,Cannes,2-1,/match/bordeaux/as-cannes/1996,1996,8,ligue_1,20,38,0,2,1,7,13,3,1,3,10,9,WWWWWLD,3,0,1,8,4,16,8,2,0,5,10,15,WWLWWWL,0,0,3,4,10,WWWL,WWW
+Auxerre,Strasbourg,1-0,/match/auxerre/strasbourg/1996,1996,8,ligue_1,20,38,0,1,0,13,11,3,1,3,16,8,WWDLWWL,2,0,1,9,2,5,15,3,3,1,13,7,DWDDWWW,0,3,1,5,6,WLW,DDDW
+Nice,Le Havre,1-2,/match/nice/havre-ac/1996,1996,8,ligue_1,20,38,2,1,2,14,10,2,3,2,7,6,DLDWWDL,1,1,1,5,4,19,6,1,1,5,2,13,WWWWDWL,0,0,4,0,8,LWD,WWWW
+Metz,Stade Rennais,0-0,/match/metz/stade-rennes/1996,1996,8,ligue_1,20,38,1,0,0,1,17,4,3,0,9,4,DWLWDWD,3,0,0,6,2,10,12,3,0,4,8,12,WWWWWWW,0,0,4,3,10,WWW,WWWW
+Olympique Lyonnais,Auxerre,0-1,/match/olympique-lyonnais/auxerre/1996,1996,9,ligue_1,20,38,2,0,1,14,11,2,3,3,10,13,WWWDDWDL,1,2,0,5,4,9,15,4,1,3,17,8,WWDLWWLW,1,1,2,7,6,WDD,WDWL
+Strasbourg,Nice,1-1,/match/strasbourg/nice/1996,1996,9,ligue_1,20,38,1,1,1,8,15,3,3,2,13,8,DWDDWWWW,3,0,0,8,1,15,10,2,3,3,8,8,DLDWWDLL,1,2,1,2,2,WWW,DDWL
+Cannes,Saint-Étienne,2-0,/match/as-cannes/saint-etienne/1996,1996,9,ligue_1,20,38,0,2,0,16,8,2,0,6,11,17,WWLWWWLW,2,0,2,6,5,6,17,3,3,2,13,10,DWDWWWDW,0,1,2,2,8,WLWL,WWD
+Stade Rennais,FC Martigues,1-3,/match/stade-rennes/fc-martigues/1996,1996,9,ligue_1,20,38,2,1,3,12,13,3,1,4,8,12,WWWWWWWD,3,0,0,5,2,19,7,2,1,5,4,12,WLDWLLWL,1,1,2,1,4,WWW,WDLW
+Monaco,Metz,0-1,/match/monaco/metz/1996,1996,9,ligue_1,20,38,2,0,1,10,14,4,1,3,15,12,WLDWLLWW,2,1,1,7,5,2,19,4,4,0,9,4,DWLWDWDD,1,3,0,3,2,WDLW,DLDD
+Nantes,Guingamp,0-0,/match/nantes/guingamp/1996,1996,9,ligue_1,20,38,1,0,0,11,13,3,2,3,10,11,WLLWWDDW,2,1,1,5,4,3,19,4,3,1,8,5,WDDLWWWD,1,1,1,4,5,WLWD,DLW
+FC Gueugnon,Lille,3-1,/match/fc-gueugnon/lillestrom/1996,1996,9,ligue_1,20,38,0,3,1,17,8,1,3,4,6,15,DWDWLLDW,0,3,1,3,5,20,3,0,2,6,4,14,WLDLWDWL,0,1,3,3,6,DDLD,WDWW
+Lens,Bastia,3-1,/match/lens/bastia/1996,1996,9,ligue_1,20,38,0,3,1,5,17,4,3,1,10,6,WWDLDDWL,2,2,0,5,2,7,16,4,1,3,13,10,DLWWWLWW,1,0,2,2,4,WDDW,LWW
+Le Havre,Girondins Bordeaux,1-0,/match/havre-ac/bordeaux/1996,1996,9,ligue_1,20,38,0,1,0,18,8,2,1,5,4,14,WWWWDWLL,1,1,1,2,5,4,17,4,1,3,12,10,WWWWWLDW,0,1,2,2,5,WDL,WWD
+Montpellier,PSG,1-0,/match/montpellier-hsc/paris-saint-germain-fc/1996,1996,9,ligue_1,20,38,0,1,0,13,13,3,2,3,11,9,DWWWWLLD,2,1,1,8,5,1,21,6,2,0,18,6,DDLWLWLW,3,1,0,9,4,DWWL,DLLL
+Saint-Étienne,Monaco,2-4,/match/saint-etienne/monaco/1996,1996,10,ligue_1,20,38,2,2,4,6,17,3,3,3,13,12,DWDWWWDWW,3,2,0,11,2,12,14,4,1,4,15,13,WLDWLLWWL,2,0,2,8,7,DDWWW,LWLW
+Lille,Le Havre,2-0,/match/lillestrom/havre-ac/1996,1996,10,ligue_1,20,38,0,2,0,20,3,0,2,7,5,17,WLDLWDWLW,0,1,3,1,8,16,12,3,1,5,5,14,WWWWDWLLW,1,0,4,2,9,LLDL,WWWWL
+FC Martigues,Metz,0-1,/match/fc-martigues/metz/1996,1996,10,ligue_1,20,38,2,0,1,19,9,3,1,5,7,13,WLDWLLWLL,1,0,3,3,8,2,21,5,4,0,10,4,DWLWDWDDL,2,3,0,4,2,LWLL,DLDDL
+Guingamp,FC Gueugnon,0-0,/match/guingamp/fc-gueugnon/1996,1996,10,ligue_1,20,38,1,0,0,4,20,4,4,1,8,5,WDDLWWWDD,3,2,0,4,0,15,12,2,3,4,9,16,DWDWLLDWW,1,0,3,3,10,WDWWD,WWLW
+Nice,Olympique Lyonnais,1-0,/match/nice/olympique-lyonnais/1996,1996,10,ligue_1,20,38,0,1,0,18,11,2,4,3,9,9,DLDWWDLLD,1,1,2,6,6,17,11,2,3,4,10,14,WWWDDWDLL,1,1,3,5,9,LWDL,WWDWL
+Bastia,Cannes,2-1,/match/bastia/as-cannes/1996,1996,10,ligue_1,20,38,0,2,1,10,16,4,1,4,14,13,DLWWWLWWW,3,1,1,11,6,14,12,3,0,6,13,17,WWLWWWLWW,0,0,4,5,12,DWWLW,WWWW
+Girondins Bordeaux,Montpellier,3-0,/match/bordeaux/montpellier-hsc/1996,1996,10,ligue_1,20,38,0,3,0,5,17,4,1,4,12,11,WWWWWLDWW,4,0,1,10,5,9,17,4,2,3,12,9,DWWWWLLDW,1,1,2,3,4,WWWLW,WWLD
+Auxerre,Stade Rennais,2-1,/match/auxerre/stade-rennes/1996,1996,10,ligue_1,20,38,0,2,1,8,17,5,1,3,18,8,WWDLWWLWL,3,0,1,10,2,13,13,3,1,5,9,15,WWWWWWWDL,0,1,4,3,10,WLWW,WWWWD
+Nantes,Lens,1-1,/match/nantes/lens/1996,1996,10,ligue_1,20,38,1,1,1,11,15,3,3,3,10,11,WLLWWDDWD,2,2,1,5,4,3,21,5,3,1,13,7,WWDLDDWLW,2,1,1,5,4,WLWDD,WLDL
+PSG,Strasbourg,2-0,/match/paris-saint-germain-fc/strasbourg/1996,1996,10,ligue_1,20,38,0,2,0,1,21,6,2,1,18,7,DDLWLWLWW,3,1,0,9,2,7,17,3,4,2,14,9,DWDDWWWWD,0,3,2,5,7,DWWW,DDDWW
+Cannes,Nice,1-3,/match/as-cannes/nice/1996,1996,11,ligue_1,20,38,2,1,3,16,12,3,0,7,14,19,WWLWWWLWWW,3,0,2,8,5,13,15,3,4,3,10,9,DLDWWDLLDW,1,3,1,3,3,WLWLW,DDWLD
+Le Havre,FC Martigues,1-0,/match/havre-ac/fc-martigues/1996,1996,11,ligue_1,20,38,0,1,0,17,12,3,1,6,5,16,WWWWDWLLWW,2,1,1,3,5,19,9,3,1,6,7,14,WLDWLLWLLL,2,1,2,4,5,WDLW,WDLWL
+Olympique Lyonnais,Saint-Étienne,2-1,/match/olympique-lyonnais/saint-etienne/1996,1996,11,ligue_1,20,38,0,2,1,18,11,2,3,5,10,15,WWWDDWDLLW,1,2,1,5,5,11,17,3,3,4,15,16,DWDWWWDWWL,0,1,3,2,10,WDDL,WWDW
+Stade Rennais,Bastia,2-0,/match/stade-rennes/bastia/1996,1996,11,ligue_1,20,38,0,2,0,14,13,3,1,6,10,17,WWWWWWWDLW,3,0,1,6,5,7,20,5,1,4,16,14,DLWWWLWWWW,1,0,3,3,7,WWWL,LWWW
+Monaco,Guingamp,1-0,/match/monaco/guingamp/1996,1996,11,ligue_1,20,38,0,1,0,12,16,5,1,4,19,15,WLDWLLWWLL,2,1,2,7,6,4,22,4,5,1,8,5,WDDLWWWDDD,1,2,1,4,5,WDLWL,DLWD
+Metz,Auxerre,3-1,/match/metz/auxerre/1996,1996,11,ligue_1,20,38,0,3,1,2,23,6,4,0,11,4,DWLWDWDDLL,3,1,0,6,2,6,21,6,1,3,20,9,WWDLWWLWLW,2,1,2,8,6,WWWD,WDWLL
+FC Gueugnon,Nantes,0-1,/match/fc-gueugnon/nantes/1996,1996,11,ligue_1,20,38,2,0,1,15,13,2,4,4,9,16,DWDWLLDWWD,1,3,1,6,6,9,17,3,4,3,11,12,WLLWWDDWDD,1,1,2,5,7,DDLDW,LWDW
+Montpellier,Lille,0-0,/match/montpellier-hsc/lillestrom/1996,1996,11,ligue_1,20,38,1,0,0,8,17,4,2,4,12,12,DWWWWLLDWW,3,1,1,9,5,20,7,1,2,7,7,17,WLDLWDWLWW,0,1,4,4,9,DWWLW,WDWWW
+Lens,PSG,3-1,/match/lens/paris-saint-germain-fc/1996,1996,11,ligue_1,20,38,0,3,1,3,22,5,4,1,14,8,WWDLDDWLWD,3,2,0,8,3,1,25,7,2,1,20,7,DDLWLWLWWW,3,1,1,9,5,WDDWW,DLLLW
+Strasbourg,Girondins Bordeaux,3-0,/match/strasbourg/bordeaux/1996,1996,11,ligue_1,20,38,0,3,0,10,17,3,4,3,14,11,DWDDWWWWDW,3,1,0,9,2,5,21,5,1,4,15,11,WWWWWLDWWW,0,1,3,2,6,WWWD,WWDW
+Nantes,Monaco,2-2,/match/nantes/monaco/1996,1996,12,ligue_1,20,38,1,2,2,11,19,4,4,3,12,12,WLLWWDDWDDL,2,3,1,6,5,9,20,6,1,4,20,15,WLDWLLWWLLW,3,0,2,12,9,WLWDDD,LWLWL
+PSG,Stade Rennais,1-1,/match/paris-saint-germain-fc/stade-rennes/1996,1996,12,ligue_1,20,38,1,1,1,3,25,7,2,2,21,10,DDLWLWLWWWW,4,1,0,11,2,12,17,4,1,6,12,17,WWWWWWWDLWW,0,1,5,4,12,DWWWW,WWWWDW
+Saint-Étienne,Montpellier,0-2,/match/saint-etienne/montpellier-hsc/1996,1996,12,ligue_1,20,38,2,0,2,13,17,3,3,5,16,18,DWDWWWDWWLW,3,2,1,13,6,10,19,4,3,4,12,12,DWWWWLLDWWD,1,1,3,3,7,DDWWWL,WWLDW
+FC Gueugnon,Lens,0-1,/match/fc-gueugnon/lens/1996,1996,12,ligue_1,20,38,2,0,1,17,13,2,4,5,9,17,DWDWLLDWWDL,1,3,2,6,7,2,26,6,4,1,17,9,WWDLDDWLWDW,2,2,1,6,5,DDLDWL,WLDLD
+FC Martigues,Auxerre,1-2,/match/fc-martigues/auxerre/1996,1996,12,ligue_1,20,38,2,1,2,19,9,3,1,7,7,15,WLDWLLWLLLW,1,0,4,3,9,6,21,6,1,4,21,12,WWDLWWLWLWW,2,1,3,9,9,LWLLL,WDWLLW
+Guingamp,Cannes,2-0,/match/guingamp/as-cannes/1996,1996,12,ligue_1,20,38,0,2,0,4,22,4,5,2,8,6,WDDLWWWDDDW,3,3,0,4,0,18,12,3,0,8,15,22,WWLWWWLWWWL,0,0,5,6,14,WDWWDD,WWWWW
+Bastia,Le Havre,1-0,/match/bastia/havre-ac/1996,1996,12,ligue_1,20,38,0,1,0,8,20,5,1,5,16,16,DLWWWLWWWWW,4,1,1,13,7,15,16,4,1,6,6,16,WWWWDWLLWWW,1,0,5,2,11,DWWLWW,WWWWLW
+Lille,Strasbourg,2-0,/match/lillestrom/strasbourg/1996,1996,12,ligue_1,20,38,0,2,0,20,8,1,3,7,7,17,WLDLWDWLWWD,1,1,3,3,8,7,21,4,4,3,17,11,DWDDWWWWDWW,0,3,3,5,9,LLDLW,DDDWWW
+Girondins Bordeaux,Olympique Lyonnais,1-1,/match/bordeaux/olympique-lyonnais/1996,1996,12,ligue_1,20,38,1,1,1,5,21,5,1,5,15,14,WWWWWLDWWWW,5,0,1,13,5,16,15,3,3,5,12,16,WWWDDWDLLWW,1,1,4,5,10,WWWLWW,WWDWLW
+Nice,Metz,0-1,/match/nice/metz/1996,1996,12,ligue_1,20,38,2,0,1,14,17,4,4,3,13,10,DLDWWDLLDWL,2,1,2,7,6,1,27,7,4,0,14,5,DWLWDWDDLLW,3,3,0,5,2,LWDLW,DLDDLL
+Lens,FC Martigues,1-0,/match/lens/fc-martigues/1996,1996,13,ligue_1,20,38,0,1,0,2,28,7,4,1,18,9,WWDLDDWLWDWL,4,2,0,11,4,20,9,3,1,8,8,17,WLDWLLWLLLWL,2,1,3,4,6,WDDWWW,WDLWLW
+Stade Rennais,Lille,3-1,/match/stade-rennes/lillestrom/1996,1996,13,ligue_1,20,38,0,3,1,12,18,4,2,6,13,18,WWWWWWWDLWWD,4,0,1,8,5,19,12,2,3,7,9,17,WLDLWDWLWWDW,0,2,4,4,9,WWWLW,WDWWWD
+Strasbourg,Guingamp,0-0,/match/strasbourg/guingamp/1996,1996,13,ligue_1,20,38,1,0,0,11,21,4,4,4,17,13,DWDDWWWWDWWW,4,1,0,12,2,4,26,5,5,2,10,6,WDDLWWWDDDWW,1,2,2,4,6,WWWDW,DLWDW
+Montpellier,Bastia,4-3,/match/montpellier-hsc/bastia/1996,1996,13,ligue_1,20,38,0,4,3,8,21,5,3,4,14,12,DWWWWLLDWWDL,3,2,1,9,5,5,24,6,1,5,17,16,DLWWWLWWWWWW,1,0,4,3,9,DWWLWD,LWWWW
+Cannes,Nantes,0-2,/match/as-cannes/nantes/1996,1996,13,ligue_1,20,38,2,0,2,18,12,3,0,9,15,24,WWLWWWLWWWLW,3,0,3,9,8,9,21,4,5,3,14,14,WLLWWDDWDDLD,2,1,2,6,7,WLWLWL,LWDWL
+Monaco,FC Gueugnon,0-0,/match/monaco/fc-gueugnon/1996,1996,13,ligue_1,20,38,1,0,0,10,21,6,2,4,22,17,WLDWLLWWLLWD,3,1,2,8,6,17,13,2,4,6,9,18,DWDWLLDWWDLL,1,1,3,3,10,WDLWLW,WWLWD
+Metz,Girondins Bordeaux,2-0,/match/metz/bordeaux/1996,1996,13,ligue_1,20,38,0,2,0,1,29,8,4,0,15,5,DWLWDWDDLLWL,4,1,0,9,3,6,23,5,2,5,16,15,WWWWWLDWWWWD,0,1,4,2,9,WWWDW,WWDWW
+Auxerre,Nice,2-1,/match/auxerre/nice/1996,1996,13,ligue_1,20,38,0,2,1,7,23,7,1,4,23,13,WWDLWWLWLWWL,4,0,1,12,3,14,17,4,4,4,13,11,DLDWWDLLDWLL,2,3,1,6,4,WLWWW,DDWLDL
+Olympique Lyonnais,PSG,0-0,/match/olympique-lyonnais/paris-saint-germain-fc/1996,1996,13,ligue_1,20,38,1,0,0,16,16,3,4,5,13,17,WWWDDWDLLWWD,2,2,1,7,6,3,27,7,3,2,22,11,DDLWLWLWWWWD,3,1,2,10,8,WDDLW,DLLLWW
+Le Havre,Saint-Étienne,2-2,/match/havre-ac/saint-etienne/1996,1996,13,ligue_1,20,38,1,2,2,15,16,4,1,7,6,17,WWWWDWLLWWWW,3,1,1,4,5,13,17,3,3,6,16,20,DWDWWWDWWLWL,0,1,4,3,12,WDLWW,WWDWW
+Nice,FC Martigues,1-0,/match/nice/fc-martigues/1996,1996,14,ligue_1,20,38,0,1,0,16,17,4,4,5,14,13,DLDWWDLLDWLLW,2,1,3,7,7,20,9,3,1,9,8,18,WLDWLLWLLLWLW,2,1,4,4,7,LWDLWL,WDLWLWW
+Monaco,Montpellier,3-1,/match/monaco/montpellier-hsc/1996,1996,14,ligue_1,20,38,0,3,1,8,23,6,3,4,22,17,WLDWLLWWLLWDD,3,2,2,8,6,6,25,6,3,4,18,15,DWWWWLLDWWDLW,2,1,3,5,7,WDLWLWD,WWLDWL
+FC Gueugnon,Cannes,1-1,/match/fc-gueugnon/as-cannes/1996,1996,14,ligue_1,20,38,1,1,1,17,14,2,5,6,9,18,DWDWLLDWWDLLD,1,3,3,6,8,18,12,3,0,10,15,26,WWLWWWLWWWLWL,0,0,6,6,16,DDLDWLL,WWWWWW
+Guingamp,Le Havre,2-2,/match/guingamp/havre-ac/1996,1996,14,ligue_1,20,38,1,2,2,4,27,5,6,2,10,6,WDDLWWWDDDWWD,4,3,0,6,0,14,18,4,2,7,8,19,WWWWDWLLWWWWD,1,0,6,2,12,WDWWDDW,WWWWLWW
+Bastia,Strasbourg,1-1,/match/bastia/strasbourg/1996,1996,14,ligue_1,20,38,1,1,1,7,24,6,1,6,20,20,DLWWWLWWWWWWW,5,1,1,14,7,9,23,4,5,4,17,13,DWDDWWWWDWWWD,0,3,4,5,11,DWWLWWW,DDDWWWW
+Lille,Metz,0-0,/match/lillestrom/metz/1996,1996,14,ligue_1,20,38,1,0,0,19,12,2,3,8,10,20,WLDLWDWLWWDWW,2,1,3,5,8,1,33,9,4,0,17,5,DWLWDWDDLLWLW,4,3,0,6,2,LLDLWW,DLDDLLL
+Girondins Bordeaux,Stade Rennais,0-0,/match/bordeaux/stade-rennes/1996,1996,14,ligue_1,20,38,1,0,0,11,23,5,2,6,16,17,WWWWWLDWWWWDW,5,1,1,14,6,12,22,5,2,6,16,19,WWWWWWWDLWWDW,0,2,5,5,13,WWWLWWD,WWWWDWD
+Nantes,Olympique Lyonnais,0-0,/match/nantes/olympique-lyonnais/1996,1996,14,ligue_1,20,38,1,0,0,10,23,5,5,3,16,14,WLLWWDDWDDLDL,2,4,1,8,7,15,18,3,5,5,13,17,WWWDDWDLLWWDD,1,2,4,6,11,WLWDDDD,WWDWLWD
+Saint-Étienne,Lens,1-1,/match/saint-etienne/lens/1996,1996,14,ligue_1,20,38,1,1,1,13,18,3,4,6,18,22,DWDWWWDWWLWLD,3,2,2,13,8,2,32,8,4,1,19,9,WWDLDDWLWDWLW,3,2,1,7,5,DDWWWLL,WLDLDL
+PSG,Auxerre,3-1,/match/paris-saint-germain-fc/auxerre/1996,1996,14,ligue_1,20,38,0,3,1,3,28,7,4,2,22,11,DDLWLWLWWWWDD,4,2,0,12,3,5,27,8,1,4,25,14,WWDLWWLWLWWLW,3,1,3,11,10,DWWWWD,WDWLLWL
+Metz,PSG,0-3,/match/metz/paris-saint-germain-fc/1996,1996,15,ligue_1,20,38,2,0,3,1,34,9,5,0,17,5,DWLWDWDDLLWLWD,5,1,0,11,3,3,32,8,4,2,25,12,DDLWLWLWWWWDDW,3,2,2,10,8,WWWDWW,DLLLWWD
+Cannes,Monaco,1-1,/match/as-cannes/monaco/1996,1996,15,ligue_1,20,38,1,1,1,19,13,3,1,10,16,27,WWLWWWLWWWLWLD,3,0,4,9,10,6,27,7,3,4,25,18,WLDWLLWWLLWDDW,3,1,2,14,11,WLWLWLL,LWLWLD
+Lens,Guingamp,0-1,/match/lens/guingamp/1996,1996,15,ligue_1,20,38,2,0,1,2,33,8,5,1,20,10,WWDLDDWLWDWLWD,5,2,0,12,4,4,29,5,7,2,12,8,WDDLWWWDDDWWDD,1,3,2,4,6,WDDWWWW,DLWDWD
+Strasbourg,Saint-Étienne,3-1,/match/strasbourg/saint-etienne/1996,1996,15,ligue_1,20,38,0,3,1,11,24,4,6,4,18,14,DWDDWWWWDWWWDD,4,2,0,12,2,14,20,3,5,6,19,23,DWDWWWDWWLWLDD,0,2,4,5,14,WWWDWD,WWDWWD
+Olympique Lyonnais,Bastia,1-1,/match/olympique-lyonnais/bastia/1996,1996,15,ligue_1,20,38,1,1,1,16,19,3,6,5,13,17,WWWDDWDLLWWDDD,2,3,1,7,6,7,26,6,2,6,21,21,DLWWWLWWWWWWWD,1,0,5,6,13,WDDLWD,LWWWWW
+Le Havre,Nantes,0-1,/match/havre-ac/nantes/1996,1996,15,ligue_1,20,38,2,0,1,15,19,4,3,7,10,21,WWWWDWLLWWWWDD,3,2,1,6,7,8,25,5,6,3,16,14,WLLWWDDWDDLDLD,3,1,2,8,7,WDLWWD,LWDWLL
+Stade Rennais,Nice,1-0,/match/stade-rennes/nice/1996,1996,15,ligue_1,20,38,0,1,0,12,23,5,3,6,16,19,WWWWWWWDLWWDWD,5,0,1,11,6,13,21,5,4,5,15,13,DLDWWDLLDWLLWW,2,3,2,7,6,WWWLWW,DDWLDLW
+FC Martigues,Girondins Bordeaux,3-1,/match/fc-martigues/bordeaux/1996,1996,15,ligue_1,20,38,0,3,1,20,9,3,1,10,8,19,WLDWLLWLLLWLWW,1,0,5,4,11,9,25,5,3,6,16,17,WWWWWLDWWWWDWD,0,1,5,2,11,LWLLLL,WWDWWW
+Auxerre,Lille,1-2,/match/auxerre/lillestrom/1996,1996,15,ligue_1,20,38,2,1,2,5,27,8,1,5,26,17,WWDLWWLWLWWLWW,5,0,1,14,4,18,14,2,4,8,10,20,WLDLWDWLWWDWWD,0,2,5,5,12,WLWWWW,WDWWWDW
+Montpellier,FC Gueugnon,2-2,/match/montpellier-hsc/fc-gueugnon/1996,1996,15,ligue_1,20,38,1,2,2,10,25,6,3,5,19,18,DWWWWLLDWWDLWW,4,2,1,13,8,17,16,2,6,6,10,19,DWDWLLDWWDLLDD,1,2,3,3,10,DWWLWDW,WWLWDD
+FC Gueugnon,Le Havre,0-1,/match/fc-gueugnon/havre-ac/1996,1996,16,ligue_1,20,38,2,0,1,17,17,2,7,6,12,21,DWDWLLDWWDLLDDD,1,4,3,7,9,16,19,4,3,8,10,22,WWWWDWLLWWWWDDL,1,1,6,4,14,DDLDWLLD,WWWWLWWD
+Monaco,Lens,1-1,/match/monaco/lens/1996,1996,16,ligue_1,20,38,1,1,1,5,28,7,4,4,26,19,WLDWLLWWLLWDDWD,4,2,2,11,7,3,33,8,5,2,20,11,WWDLDDWLWDWLWDL,3,3,1,8,6,WDLWLWDW,WLDLDLD
+Saint-Étienne,Stade Rennais,0-0,/match/saint-etienne/stade-rennes/1996,1996,16,ligue_1,20,38,1,0,0,15,20,3,5,7,20,26,DWDWWWDWWLWLDDW,3,3,2,14,9,11,27,6,3,6,17,19,WWWWWWWDLWWDWDW,0,3,5,5,13,DDWWWLLD,WWWWDWDD
+Guingamp,Olympique Lyonnais,1-0,/match/guingamp/olympique-lyonnais/1996,1996,16,ligue_1,20,38,0,1,0,4,31,6,7,2,13,8,WDDLWWWDDDWWDDL,4,4,0,8,2,14,21,3,7,5,14,18,WWWDDWDLLWWDDDD,1,3,4,6,11,WDWWDDWD,WWDWLWDD
+Bastia,Metz,1-0,/match/bastia/metz/1996,1996,16,ligue_1,20,38,0,1,0,7,27,6,3,6,22,22,DLWWWLWWWWWWWDD,5,2,1,15,8,1,34,9,5,1,17,8,DWLWDWDDLLWLWDL,4,4,0,6,2,DWWLWWWD,DLDDLLLD
+Lille,FC Martigues,0-0,/match/lillestrom/fc-martigues/1996,1996,16,ligue_1,20,38,1,0,0,18,16,3,4,8,12,21,WLDLWDWLWWDWWDL,2,2,3,5,8,20,13,4,1,10,11,20,WLDWLLWLLLWLWWW,2,1,5,4,8,LLDLWWD,WDLWLWWW
+Nantes,Montpellier,1-0,/match/nantes/montpellier-hsc/1996,1996,16,ligue_1,20,38,0,1,0,8,27,6,6,3,17,14,WLLWWDDWDDLDLDL,2,5,1,8,7,9,27,6,4,5,21,20,DWWWWLLDWWDLWWD,2,1,4,6,10,WLWDDDDD,WWLDWLW
+Girondins Bordeaux,Auxerre,0-1,/match/bordeaux/auxerre/1996,1996,16,ligue_1,20,38,2,0,1,12,25,5,3,7,17,20,WWWWWLDWWWWDWDW,5,2,1,14,6,10,27,8,1,6,27,19,WWDLWWLWLWWLWWL,3,1,4,12,13,WWWLWWDD,WDWLLWLW
+PSG,Nice,3-2,/match/paris-saint-germain-fc/nice/1996,1996,16,ligue_1,20,38,0,3,2,2,34,9,4,2,28,12,DDLWLWLWWWWDDWL,5,2,0,15,4,13,21,5,4,6,15,14,DLDWWDLLDWLLWWW,2,3,3,7,7,DWWWWDW,DDWLDLWW
+Cannes,Strasbourg,0-3,/match/as-cannes/strasbourg/1996,1996,16,ligue_1,20,38,2,0,3,19,15,3,2,10,17,28,WWLWWWLWWWLWLDD,3,1,4,10,11,6,28,5,6,4,21,15,DWDDWWWWDWWWDDW,0,4,4,6,12,WLWLWLLD,DDDWWWWD
+Stade Rennais,Guingamp,3-0,/match/stade-rennes/guingamp/1996,1996,17,ligue_1,20,38,0,3,0,10,28,6,4,6,17,19,WWWWWWWDLWWDWDWD,6,0,1,12,6,2,35,7,7,2,14,8,WDDLWWWDDDWWDDLW,2,3,2,5,6,WWWLWWW,DLWDWDL
+Montpellier,Cannes,3-1,/match/montpellier-hsc/as-cannes/1996,1996,17,ligue_1,20,38,0,3,1,11,27,6,4,6,21,21,DWWWWLLDWWDLWWDW,4,3,1,15,10,19,15,3,2,11,17,31,WWLWWWLWWWLWLDDL,0,1,6,7,17,DWWLWDWD,WWWWWWD
+FC Martigues,PSG,2-4,/match/fc-martigues/paris-saint-germain-fc/1996,1996,17,ligue_1,20,38,2,2,4,20,14,4,2,10,11,20,WLDWLLWLLLWLWWWD,2,0,5,7,12,1,38,10,4,2,31,14,DDLWLWLWWWWDDWLW,4,2,2,13,8,LWLLLLW,DLLLWWDL
+Le Havre,Monaco,2-1,/match/havre-ac/monaco/1996,1996,17,ligue_1,20,38,0,2,1,16,21,5,3,8,11,22,WWWWDWLLWWWWDDLL,3,2,2,6,8,7,30,7,5,4,27,20,WLDWLLWWLLWDDWDD,3,2,2,15,12,WDLWWDL,LWLWLDD
+Lens,Girondins Bordeaux,0-0,/match/lens/bordeaux/1996,1996,17,ligue_1,20,38,1,0,0,4,34,8,6,2,21,12,WWDLDDWLWDWLWDLD,5,2,1,12,5,12,25,5,3,8,17,21,WWWWWLDWWWWDWDWL,0,1,6,3,14,WDDWWWWL,WWDWWWW
+Strasbourg,Nantes,1-1,/match/strasbourg/nantes/1996,1996,17,ligue_1,20,38,1,1,1,8,30,6,6,4,24,15,DWDDWWWWDWWWDDWL,5,2,0,15,3,6,31,7,6,3,18,14,WLLWWDDWDDLDLDLW,4,1,2,9,7,WWWDWDW,LWDWLLL
+Metz,Saint-Étienne,1-2,/match/metz/saint-etienne/1996,1996,17,ligue_1,20,38,2,1,2,3,34,9,5,2,17,9,DWLWDWDDLLWLWDLW,5,1,1,11,6,13,22,3,6,7,20,26,DWDWWWDWWLWLDDWD,0,2,5,6,17,WWWDWWL,WWDWWDW
+Nice,Lille,2-1,/match/nice/lillestrom/1996,1996,17,ligue_1,20,38,0,2,1,14,21,5,4,7,17,17,DLDWWDLLDWLLWWWW,3,1,3,8,7,17,18,3,5,8,12,21,WLDLWDWLWWDWWDLD,1,2,5,7,13,LWDLWLW,WDWWWDWL
+Auxerre,Bastia,3-0,/match/auxerre/bastia/1996,1996,17,ligue_1,20,38,0,3,0,9,29,9,1,6,28,19,WWDLWWLWLWWLWWLL,5,0,2,15,6,5,31,7,3,6,23,22,DLWWWLWWWWWWWDDW,1,1,5,7,14,WLWWWWL,LWWWWWD
+Olympique Lyonnais,FC Gueugnon,0-0,/match/olympique-lyonnais/fc-gueugnon/1996,1996,17,ligue_1,20,38,1,0,0,15,21,3,7,6,14,19,WWWDDWDLLWWDDDDW,2,4,1,8,7,18,17,2,7,7,12,22,DWDWLLDWWDLLDDDL,1,3,3,5,12,WDDLWDD,WWLWDDD
+Bastia,FC Martigues,2-0,/match/bastia/fc-martigues/1996,1996,18,ligue_1,20,38,0,2,0,10,31,7,3,7,23,25,DLWWWLWWWWWWWDDWW,6,2,1,16,8,20,14,4,2,11,13,24,WLDWLLWLLLWLWWWDL,2,2,5,4,8,DWWLWWWDW,WDLWLWWWD
+Cannes,Le Havre,0-0,/match/as-cannes/havre-ac/1996,1996,18,ligue_1,20,38,1,0,0,19,15,3,2,12,18,34,WWLWWWLWWWLWLDDLW,3,1,5,10,14,14,25,6,3,8,13,23,WWWWDWLLWWWWDDLLW,2,1,6,5,14,WLWLWLLDL,WWWWLWWDL
+Monaco,Olympique Lyonnais,0-2,/match/monaco/olympique-lyonnais/1996,1996,18,ligue_1,20,38,2,0,2,11,30,7,5,5,28,22,WLDWLLWWLLWDDWDDW,4,3,2,12,8,16,23,3,8,6,14,19,WWWDDWDLLWWDDDDWD,1,3,5,6,12,WDLWLWDWD,WWDWLWDDW
+Guingamp,Metz,0-0,/match/guingamp/metz/1996,1996,18,ligue_1,20,38,1,0,0,3,35,7,7,3,14,11,WDDLWWWDDDWWDDLWW,5,4,0,9,2,4,34,9,5,3,18,11,DWLWDWDDLLWLWDLWL,4,4,1,6,3,WDWWDDWDW,DLDDLLLDW
+Lille,PSG,0-0,/match/lillestrom/paris-saint-germain-fc/1996,1996,18,ligue_1,20,38,1,0,0,17,18,3,5,9,13,23,WLDLWDWLWWDWWDLDW,2,3,3,5,8,1,40,11,4,2,35,16,DDLWLWLWWWWDDWLWL,5,2,2,17,10,LLDLWWDD,DLLLWWDLL
+Girondins Bordeaux,Nice,4-1,/match/bordeaux/nice/1996,1996,18,ligue_1,20,38,0,4,1,12,26,5,4,8,17,21,WWWWWLDWWWWDWDWLD,5,2,2,14,7,13,25,6,4,7,19,18,DLDWWDLLDWLLWWWWW,2,3,4,9,10,WWWLWWDDL,DDWLDLWWW
+Nantes,Stade Rennais,2-2,/match/nantes/stade-rennes/1996,1996,18,ligue_1,20,38,1,2,2,6,32,7,7,3,19,15,WLLWWDDWDDLDLDLWD,3,5,1,9,7,7,32,7,4,6,20,19,WWWWWWWDLWWDWDWDW,0,4,5,5,13,WLWDDDDDW,WWWWDWDDD
+Montpellier,Lens,0-0,/match/montpellier-hsc/lens/1996,1996,18,ligue_1,20,38,1,0,0,9,31,7,4,6,24,22,DWWWWLLDWWDLWWDWW,5,3,1,18,11,2,36,8,7,2,21,12,WWDLDDWLWDWLWDLDD,3,4,1,9,7,DWWLWDWDW,WLDLDLDD
+FC Gueugnon,Strasbourg,0-1,/match/fc-gueugnon/strasbourg/1996,1996,18,ligue_1,20,38,2,0,1,18,18,2,8,7,12,22,DWDWLLDWWDLLDDDLD,1,4,4,7,10,8,32,6,7,4,25,16,DWDDWWWWDWWWDDWLD,1,4,4,9,12,DDLDWLLDL,DDDWWWWDL
+Saint-Étienne,Auxerre,0-5,/match/saint-etienne/auxerre/1996,1996,18,ligue_1,20,38,2,0,5,15,24,4,6,7,22,27,DWDWWWDWWLWLDDWDL,3,4,2,14,9,5,33,10,1,6,31,19,WWDLWWLWLWWLWWLLW,4,1,4,13,13,DDWWWLLDD,WDWLLWLWL
+Strasbourg,Monaco,2-0,/match/strasbourg/monaco/1996,1996,19,ligue_1,20,38,0,2,0,8,34,7,7,4,26,16,DWDDWWWWDWWWDDWLDL,5,3,0,16,4,12,30,7,5,6,28,24,WLDWLLWWLLWDDWDDWL,3,2,3,16,14,WWWDWDWD,LWLWLDDW
+Metz,Nantes,0-0,/match/metz/nantes/1996,1996,19,ligue_1,20,38,1,0,0,4,35,9,6,3,18,11,DWLWDWDDLLWLWDLWLD,5,1,2,12,8,7,34,7,8,3,21,17,WLLWWDDWDDLDLDLWDD,4,2,2,10,8,WWWDWWLL,LWDWLLLD
+Le Havre,Montpellier,2-2,/match/havre-ac/montpellier-hsc/1996,1996,19,ligue_1,20,38,1,2,2,13,26,6,4,8,13,23,WWWWDWLLWWWWDDLLWD,4,2,2,8,9,10,33,7,5,6,24,22,DWWWWLLDWWDLWWDWWD,2,1,5,6,11,WDLWWDLW,WWLDWLWW
+Lens,Cannes,1-1,/match/lens/as-cannes/1996,1996,19,ligue_1,20,38,1,1,1,3,37,8,8,2,21,12,WWDLDDWLWDWLWDLDDD,5,3,1,12,5,19,17,3,3,12,18,34,WWLWWWLWWWLWLDDLWD,0,1,7,8,20,WDDWWWWLD,WWWWWWDW
+Olympique Lyonnais,Lille,1-1,/match/olympique-lyonnais/lillestrom/1996,1996,19,ligue_1,20,38,1,1,1,15,25,4,8,6,16,19,WWWDDWDLLWWDDDDWDL,2,5,1,8,7,17,20,3,6,9,13,23,WLDLWDWLWWDWWDLDWD,1,2,6,8,15,WDDLWDDD,WDWWWDWLW
+Stade Rennais,FC Gueugnon,2-1,/match/stade-rennes/fc-gueugnon/1996,1996,19,ligue_1,20,38,0,2,1,9,33,7,5,6,22,21,WWWWWWWDLWWDWDWDWD,7,0,1,15,6,18,18,2,8,8,12,23,DWDWLLDWWDLLDDDLDL,1,4,3,5,12,WWWLWWWW,WWLWDDDD
+FC Martigues,Saint-Étienne,1-1,/match/fc-martigues/saint-etienne/1996,1996,19,ligue_1,20,38,1,1,1,20,14,4,2,12,13,26,WLDWLLWLLLWLWWWDLW,2,0,6,9,16,16,24,4,6,8,22,32,DWDWWWDWWLWLDDWDLL,1,2,5,8,18,LWLLLLWL,WWDWWDWL
+Nice,Bastia,3-1,/match/nice/bastia/1996,1996,19,ligue_1,20,38,0,3,1,14,25,6,4,8,20,22,DLDWWDLLDWLLWWWWWW,4,1,3,10,8,6,35,8,3,7,25,25,DLWWWLWWWWWWWDDWWW,1,1,6,7,17,LWDLWLWW,LWWWWWDW
+PSG,Girondins Bordeaux,3-0,/match/paris-saint-germain-fc/bordeaux/1996,1996,19,ligue_1,20,38,0,3,0,1,41,11,5,2,35,16,DDLWLWLWWWWDDWLWLD,6,2,0,18,6,11,30,6,4,8,21,22,WWWWWLDWWWWDWDWLDW,0,2,6,3,14,DWWWWDWW,WWDWWWWD
+Auxerre,Guingamp,1-2,/match/auxerre/guingamp/1996,1996,19,ligue_1,20,38,2,1,2,5,35,11,1,6,36,19,WWDLWWLWLWWLWWLLWL,6,0,2,18,6,2,37,7,8,3,14,11,WDDLWWWDDDWWDDLWWD,2,3,3,5,9,WLWWWWLW,DLWDWDLW
+FC Gueugnon,Auxerre,0-0,/match/fc-gueugnon/auxerre/1996,1996,20,ligue_1,20,38,1,0,0,18,18,2,8,9,13,25,DWDWLLDWWDLLDDDLDLW,1,4,5,7,11,7,35,11,1,7,37,21,WWDLWWLWLWWLWWLLWLL,5,1,4,18,13,DDLDWLLDLL,WDWLLWLWLL
+Monaco,Nice,1-0,/match/monaco/nice/1996,1996,20,ligue_1,20,38,0,1,0,11,30,7,5,7,28,26,WLDWLLWWLLWDDWDDWLW,4,3,3,12,10,13,29,7,4,8,23,23,DLDWWDLLDWLLWWWWWWW,2,3,5,10,14,WDLWLWDWDL,DDWLDLWWWW
+Lens,Metz,2-0,/match/lens/metz/1996,1996,20,ligue_1,20,38,0,2,0,2,39,8,9,2,22,13,WWDLDDWLWDWLWDLDDDD,5,4,1,13,6,5,37,9,7,3,18,11,DWLWDWDDLLWLWDLWLDD,4,5,1,6,3,WDDWWWWLDD,DLDDLLLDWD
+Le Havre,Strasbourg,2-0,/match/havre-ac/strasbourg/1996,1996,20,ligue_1,20,38,0,2,0,14,28,6,5,8,15,25,WWWWDWLLWWWWDDLLWDD,4,3,2,10,11,4,38,8,7,4,28,16,DWDDWWWWDWWWDDWLDLW,2,4,4,10,12,WDLWWDLWD,DDDWWWWDLL
+Montpellier,Olympique Lyonnais,2-1,/match/montpellier-hsc/olympique-lyonnais/1996,1996,20,ligue_1,20,38,0,2,1,10,34,7,6,6,26,24,DWWWWLLDWWDLWWDWWDD,5,4,1,18,11,15,27,4,9,6,17,20,WWWDDWDLLWWDDDDWDLD,2,3,5,8,12,DWWLWDWDWD,WWDWLWDDWL
+Cannes,Stade Rennais,3-0,/match/as-cannes/stade-rennes/1996,1996,20,ligue_1,20,38,0,3,0,19,18,3,4,12,19,35,WWLWWWLWWWLWLDDLWDD,3,2,5,10,14,6,37,8,5,6,24,22,WWWWWWWDLWWDWDWDWDW,0,5,5,7,15,WLWLWLLDLD,WWWWDWDDDD
+Saint-Étienne,Girondins Bordeaux,2-0,/match/saint-etienne/bordeaux/1996,1996,20,ligue_1,20,38,0,2,0,16,25,4,7,8,23,33,DWDWWWDWWLWLDDWDLLD,3,4,3,14,14,12,30,6,4,9,21,25,WWWWWLDWWWWDWDWLDWW,0,2,7,3,17,DDWWWLLDDL,WWDWWWWDW
+Bastia,Lille,4-0,/match/bastia/lillestrom/1996,1996,20,ligue_1,20,38,0,4,0,8,35,8,3,8,26,28,DLWWWLWWWWWWWDDWWWW,7,2,1,18,8,17,21,3,7,9,14,24,WLDLWDWLWWDWWDLDWDD,1,3,6,9,16,DWWLWWWDWW,WDWWWDWLWD
+Guingamp,PSG,0-0,/match/guingamp/paris-saint-germain-fc/1996,1996,20,ligue_1,20,38,1,0,0,3,39,8,8,3,16,12,WDDLWWWDDDWWDDLWWDL,5,5,0,9,2,1,45,12,5,2,38,16,DDLWLWLWWWWDDWLWLDW,5,3,2,17,10,WDWWDDWDWD,DLLLWWDLLD
+Nantes,FC Martigues,3-0,/match/nantes/fc-martigues/1996,1996,20,ligue_1,20,38,0,3,0,9,35,7,9,3,21,17,WLLWWDDWDDLDLDLWDDD,3,6,1,11,9,20,16,4,3,12,14,27,WLDWLLWLLLWLWWWDLWD,2,2,6,4,10,WLWDDDDDWD,WDLWLWWWDW
+Nice,Guingamp,2-1,/match/nice/guingamp/1996,1996,21,ligue_1,20,38,0,2,1,14,29,7,4,9,23,24,DLDWWDLLDWLLWWWWWWWW,5,1,3,13,9,3,41,8,9,3,16,12,WDDLWWWDDDWWDDLWWDLD,3,3,3,7,10,LWDLWLWWW,DLWDWDLWL
+Olympique Lyonnais,Le Havre,3-2,/match/olympique-lyonnais/havre-ac/1996,1996,21,ligue_1,20,38,0,3,2,16,27,4,9,7,18,22,WWWDDWDLLWWDDDDWDLDW,2,6,1,9,8,12,32,7,5,8,17,25,WWWWDWLLWWWWDDLLWDDW,2,2,6,5,14,WDDLWDDDD,WWWWLWWDLD
+Stade Rennais,Montpellier,1-1,/match/stade-rennes/montpellier-hsc/1996,1996,21,ligue_1,20,38,1,1,1,9,37,8,5,7,24,25,WWWWWWWDLWWDWDWDWDWW,8,0,1,17,7,7,38,8,6,6,28,25,DWWWWLLDWWDLWWDWWDDW,2,2,5,8,13,WWWLWWWWW,WWLDWLWWD
+Auxerre,Monaco,1-2,/match/auxerre/monaco/1996,1996,21,ligue_1,20,38,2,1,2,10,36,11,2,7,37,21,WWDLWWLWLWWLWWLLWLLD,6,0,3,19,8,11,34,8,5,7,29,26,WLDWLLWWLLWDDWDDWLWW,3,2,4,16,16,WLWWWWLWL,LWLWLDDWW
+FC Martigues,FC Gueugnon,3-0,/match/fc-martigues/fc-gueugnon/1996,1996,21,ligue_1,20,38,0,3,0,20,16,4,3,13,14,30,WLDWLLWLLLWLWWWDLWDW,2,1,6,10,17,19,20,2,9,9,13,25,DWDWLLDWWDLLDDDLDLWD,1,4,4,6,14,LWLLLLWLD,WWLWDDDDW
+PSG,Nantes,5-0,/match/paris-saint-germain-fc/nantes/1996,1996,21,ligue_1,20,38,0,5,0,1,46,12,6,2,38,16,DDLWLWLWWWWDDWLWLDWD,7,2,0,21,6,5,39,8,9,3,24,17,WLLWWDDWDDLDLDLWDDDW,4,3,2,10,8,DWWWWDWWW,LWDWLLLDD
+Lille,Saint-Étienne,1-1,/match/lillestrom/saint-etienne/1996,1996,21,ligue_1,20,38,1,1,1,18,21,3,7,10,14,28,WLDLWDWLWWDWWDLDWDDW,2,4,3,5,8,15,29,5,7,8,25,33,DWDWWWDWWLWLDDWDLLDW,1,3,5,9,19,LLDLWWDDD,WWDWWDWLD
+Girondins Bordeaux,Bastia,1-3,/match/bordeaux/bastia/1996,1996,21,ligue_1,20,38,2,1,3,13,30,6,4,10,21,27,WWWWWLDWWWWDWDWLDWWW,6,2,2,18,8,4,39,9,3,8,30,28,DLWWWLWWWWWWWDDWWWWW,1,1,7,8,20,WWWLWWDDLW,LWWWWWDWW
+Metz,Cannes,0-0,/match/metz/as-cannes/1996,1996,21,ligue_1,20,38,1,0,0,8,37,9,7,4,18,13,DWLWDWDDLLWLWDLWLDDW,5,2,2,12,8,17,22,4,4,12,22,35,WWLWWWLWWWLWLDDLWDDW,0,2,7,9,21,WWWDWWLLD,WWWWWWDWD
+Strasbourg,Lens,1-2,/match/strasbourg/lens/1996,1996,21,ligue_1,20,38,2,1,2,6,38,8,7,5,28,18,DWDDWWWWDWWWDDWLDLWW,6,3,0,18,4,2,43,9,9,2,24,13,WWDLDDWLWDWLWDLDDDDW,3,5,1,9,7,WWWDWDWDW,WLDLDLDDD
+FC Gueugnon,Nice,1-0,/match/fc-gueugnon/nice/1996,1996,22,ligue_1,20,38,0,1,0,19,20,2,9,10,13,28,DWDWLLDWWDLLDDDLDLWDW,1,5,5,7,11,12,33,8,4,9,25,25,DLDWWDLLDWLLWWWWWWWWW,2,3,6,10,15,DDLDWLLDLLD,DDWLDLWWWWW
+Le Havre,Stade Rennais,0-0,/match/havre-ac/stade-rennes/1996,1996,22,ligue_1,20,38,1,0,0,13,32,7,5,9,19,28,WWWWDWLLWWWWDDLLWDDWW,5,3,2,12,11,8,39,8,6,7,25,26,WWWWWWWDLWWDWDWDWDWWD,0,5,6,7,18,WDLWWDLWDW,WWWWDWDDDDW
+Lens,Auxerre,0-0,/match/lens/auxerre/1996,1996,22,ligue_1,20,38,1,0,0,2,45,10,9,2,26,14,WWDLDDWLWDWLWDLDDDDWL,6,4,1,15,6,11,36,11,2,8,38,23,WWDLWWLWLWWLWWLLWLLDL,5,2,4,18,13,WDDWWWWLDDW,WDWLLWLWLLD
+Strasbourg,Olympique Lyonnais,2-2,/match/strasbourg/olympique-lyonnais/1996,1996,22,ligue_1,20,38,1,2,2,9,38,8,7,6,29,20,DWDDWWWWDWWWDDWLDLWWL,6,3,1,19,6,14,31,5,9,7,21,24,WWWDDWDLLWWDDDDWDLDWW,2,3,6,9,14,WWWDWDWDWL,WWDWLWDDWLW
+Guingamp,Lille,0-1,/match/guingamp/lillestrom/1996,1996,22,ligue_1,20,38,2,0,1,3,41,8,9,4,17,14,WDDLWWWDDDWWDDLWWDLDW,5,6,0,9,2,18,23,3,8,10,15,29,WLDLWDWLWWDWWDLDWDDWD,1,3,7,9,20,WDWWDDWDWDD,WDWWWDWLWDW
+Saint-Étienne,PSG,1-1,/match/saint-etienne/paris-saint-germain-fc/1996,1996,22,ligue_1,20,38,1,1,1,16,30,5,8,8,26,34,DWDWWWDWWLWLDDWDLLDWD,4,4,3,16,14,1,50,13,6,2,43,16,DDLWLWLWWWWDDWLWLDWDW,5,4,2,17,10,DDWWWLLDDLW,DLLLWWDLLDD
+Nantes,Girondins Bordeaux,2-0,/match/nantes/bordeaux/1996,1996,22,ligue_1,20,38,0,2,0,5,39,8,9,4,24,22,WLLWWDDWDDLDLDLWDDDWW,4,6,1,14,9,15,30,6,4,11,22,30,WWWWWLDWWWWDWDWLDWWWL,0,2,8,3,19,WLWDDDDDWDW,WWDWWWWDWW
+Monaco,Bastia,0-0,/match/monaco/bastia/1996,1996,22,ligue_1,20,38,1,0,0,10,36,9,5,7,31,27,WLDWLLWWLLWDDWDDWLWWL,5,3,3,13,10,4,41,10,3,8,33,29,DLWWWLWWWWWWWDDWWWWWL,2,1,7,11,21,WDLWLWDWDLW,LWWWWWDWWL
+Cannes,FC Martigues,2-1,/match/as-cannes/fc-martigues/1996,1996,22,ligue_1,20,38,0,2,1,17,23,4,5,12,22,35,WWLWWWLWWWLWLDDLWDDWD,4,2,5,13,14,20,20,5,3,13,17,30,WLDWLLWLLLWLWWWDLWDWW,2,2,7,4,13,WLWLWLLDLDW,WDLWLWWWDWW
+Montpellier,Metz,1-2,/match/montpellier-hsc/metz/1996,1996,22,ligue_1,20,38,2,1,2,6,39,8,7,6,29,26,DWWWWLLDWWDLWWDWWDDWD,6,4,1,20,12,7,39,9,8,4,18,13,DWLWDWDDLLWLWDLWLDDWD,4,5,2,6,5,DWWLWDWDWDW,DLDDLLLDWDW
+FC Martigues,Monaco,0-4,/match/fc-martigues/monaco/1996,1996,23,ligue_1,20,38,2,0,4,20,20,5,3,14,18,32,WLDWLLWLLLWLWWWDLWDWWW,3,1,6,13,17,10,38,9,6,7,31,27,WLDWLLWWLLWDDWDDWLWWLD,4,2,4,18,17,LWLLLLWLDW,LWLWLDDWWL
+Lille,Cannes,0-2,/match/lillestrom/as-cannes/1996,1996,23,ligue_1,20,38,2,0,2,18,25,4,8,10,16,29,WLDLWDWLWWDWWDLDWDDWDL,2,5,3,6,9,17,27,5,5,12,24,36,WWLWWWLWWWLWLDDLWDDWDW,0,3,7,9,21,LLDLWWDDDD,WWWWWWDWDD
+Nice,Nantes,1-0,/match/nice/nantes/1996,1996,23,ligue_1,20,38,0,1,0,13,33,8,4,10,25,26,DLDWWDLLDWLLWWWWWWWWWW,6,1,3,15,10,3,43,9,9,4,26,22,WLLWWDDWDDLDLDLWDDDWWW,4,3,3,10,13,LWDLWLWWWW,LWDWLLLDDW
+Olympique Lyonnais,Lens,0-0,/match/olympique-lyonnais/lens/1996,1996,23,ligue_1,20,38,1,0,0,14,32,5,10,7,23,26,WWWDDWDLLWWDDDDWDLDWWD,3,6,1,12,10,2,47,10,10,2,26,14,WWDLDDWLWDWLWDLDDDDWLD,4,5,1,11,8,WDDLWDDDDW,WLDLDLDDDL
+Stade Rennais,Strasbourg,0-0,/match/stade-rennes/strasbourg/1996,1996,23,ligue_1,20,38,1,0,0,7,40,8,7,7,25,26,WWWWWWWDLWWDWDWDWDWWDD,8,1,1,18,8,8,40,8,8,6,31,22,DWDDWWWWDWWWDDWLDLWWLD,2,4,5,10,14,WWWLWWWWWD,DDDWWWWDLLW
+Metz,Le Havre,2-1,/match/metz/havre-ac/1996,1996,23,ligue_1,20,38,0,2,1,6,41,10,8,4,20,14,DWLWDWDDLLWLWDLWLDDWDL,5,3,2,12,8,12,34,7,6,9,19,28,WWWWDWLLWWWWDDLLWDDWWD,2,2,7,7,17,WWWDWWLLDD,WWWWLWWDLDW
+Bastia,Saint-Étienne,0-0,/match/bastia/saint-etienne/1996,1996,23,ligue_1,20,38,1,0,0,4,42,10,4,8,33,29,DLWWWLWWWWWWWDDWWWWWLD,8,2,1,22,8,15,32,5,9,8,27,35,DWDWWWDWWLWLDDWDLLDWDD,1,4,5,10,20,DWWLWWWDWWW,WWDWWDWLDD
+Girondins Bordeaux,Guingamp,2-0,/match/bordeaux/guingamp/1996,1996,23,ligue_1,20,38,0,2,0,16,30,6,4,12,22,32,WWWWWLDWWWWDWDWLDWWWLW,6,2,3,19,11,5,41,8,9,5,17,15,WDDLWWWDDDWWDDLWWDLDWL,3,3,4,8,12,WWWLWWDDLWL,DLWDWDLWLW
+Auxerre,Montpellier,1-0,/match/auxerre/montpellier-hsc/1996,1996,23,ligue_1,20,38,0,1,0,11,37,11,3,8,38,23,WWDLWWLWLWWLWWLLWLLDLD,6,0,4,20,10,9,39,8,7,7,30,28,DWWWWLLDWWDLWWDWWDDWDL,2,3,5,9,14,WLWWWWLWLL,WWLDWLWWDD
+PSG,FC Gueugnon,1-1,/match/paris-saint-germain-fc/fc-gueugnon/1996,1996,23,ligue_1,20,38,1,1,1,1,51,13,7,2,44,17,DDLWLWLWWWWDDWLWLDWDWD,8,2,0,26,6,19,24,3,9,10,14,28,DWDWLLDWWDLLDDDLDLWDWW,1,4,5,6,17,DWWWWDWWWW,WWLWDDDDWW
+Le Havre,PSG,1-1,/match/havre-ac/paris-saint-germain-fc/1996,1996,24,ligue_1,20,38,1,1,1,13,34,7,6,10,20,30,WWWWDWLLWWWWDDLLWDDWWDW,5,4,2,12,11,1,53,13,8,2,45,18,DDLWLWLWWWWDDWLWLDWDWDD,5,5,2,18,11,WDLWWDLWDWD,DLLLWWDLLDDD
+Cannes,Auxerre,0-1,/match/as-cannes/auxerre/1996,1996,24,ligue_1,20,38,2,0,1,17,29,6,5,12,26,36,WWLWWWLWWWLWLDDLWDDWDWL,5,2,5,15,15,8,41,12,3,8,39,23,WWDLWWLWLWWLWWLLWLLDLDW,5,3,4,18,13,WLWLWLLDLDWW,WDWLLWLWLLDD
+Lens,Nice,0-0,/match/lens/nice/1996,1996,24,ligue_1,20,38,1,0,0,2,48,10,11,2,26,14,WWDLDDWLWDWLWDLDDDDWLDD,6,5,1,15,6,12,37,9,4,10,26,26,DLDWWDLLDWLLWWWWWWWWWWW,2,3,7,10,16,WDDWWWWLDDWD,DDWLDLWWWWWW
+Olympique Lyonnais,Stade Rennais,2-2,/match/olympique-lyonnais/stade-rennes/1996,1996,24,ligue_1,20,38,1,2,2,14,34,5,11,7,23,26,WWWDDWDLLWWDDDDWDLDWWDD,3,7,1,12,10,6,42,8,8,7,25,26,WWWWWWWDLWWDWDWDWDWWDDD,0,6,6,7,18,WDDLWDDDDWD,WWWWDWDDDDWD
+Montpellier,FC Martigues,2-0,/match/montpellier-hsc/fc-martigues/1996,1996,24,ligue_1,20,38,0,2,0,11,39,8,7,8,30,29,DWWWWLLDWWDLWWDWWDDWDLW,6,4,2,21,14,20,20,5,3,15,18,36,WLDWLLWLLLWLWWWDLWDWWWL,2,2,8,5,15,DWWLWDWDWDWL,WDLWLWWWDWWW
+FC Gueugnon,Bastia,1-0,/match/fc-gueugnon/bastia/1996,1996,24,ligue_1,20,38,0,1,0,19,25,3,10,10,15,29,DWDWLLDWWDLLDDDLDLWDWWD,2,5,5,8,11,4,44,10,5,8,33,29,DLWWWLWWWWWWWDDWWWWWLDD,2,2,7,11,21,DDLDWLLDLLDW,LWWWWWDWWLD
+Strasbourg,Metz,1-2,/match/strasbourg/metz/1996,1996,24,ligue_1,20,38,2,1,2,7,41,8,9,6,31,22,DWDDWWWWDWWWDDWLDLWWLDD,6,4,1,21,8,3,45,11,8,4,22,15,DWLWDWDDLLWLWDLWLDDWDLW,5,5,2,8,6,WWWDWDWDWLD,DLDDLLLDWDWL
+Guingamp,Saint-Étienne,3-0,/match/guingamp/saint-etienne/1996,1996,24,ligue_1,20,38,0,3,0,9,41,8,9,6,17,17,WDDLWWWDDDWWDDLWWDLDWLW,5,6,1,9,3,16,33,5,10,8,27,35,DWDWWWDWWLWLDDWDLLDWDDD,1,5,5,10,20,WDWWDDWDWDDL,WWDWWDWLDDD
+Nantes,Lille,1-2,/match/nantes/lillestrom/1996,1996,24,ligue_1,20,38,2,1,2,5,43,9,9,5,26,23,WLLWWDDWDDLDLDLWDDDWWWW,5,6,1,16,9,18,25,4,8,11,16,31,WLDLWDWLWWDWWDLDWDDWDLL,2,3,7,10,20,WLWDDDDDWDWW,WDWWWDWLWDWL
+Monaco,Girondins Bordeaux,2-0,/match/monaco/bordeaux/1996,1996,24,ligue_1,20,38,0,2,0,10,40,10,6,7,35,27,WLDWLLWWLLWDDWDDWLWWLDL,5,4,3,13,10,15,34,7,4,12,24,32,WWWWWLDWWWWDWDWLDWWWLWW,0,2,9,3,21,WDLWLWDWDLWD,WWDWWWWDWWW
+Bastia,Guingamp,0-1,/match/bastia/guingamp/1996,1996,25,ligue_1,20,38,2,0,1,5,44,10,5,9,33,30,DLWWWLWWWWWWWDDWWWWWLDDW,8,3,1,22,8,4,45,9,9,6,20,17,WDDLWWWDDDWWDDLWWDLDWLWW,3,3,5,8,14,DWWLWWWDWWWD,DLWDWDLWLWW
+Stade Rennais,Lens,2-1,/match/stade-rennes/lens/1996,1996,25,ligue_1,20,38,0,2,1,9,43,8,9,7,27,28,WWWWWWWDLWWDWDWDWDWWDDDD,8,2,1,18,8,2,50,10,12,2,26,14,WWDLDDWLWDWLWDLDDDDWLDDD,4,6,1,11,8,WWWLWWWWWDD,WLDLDLDDDLD
+FC Martigues,Strasbourg,2-0,/match/fc-martigues/strasbourg/1996,1996,25,ligue_1,20,38,0,2,0,20,20,5,3,16,18,38,WLDWLLWLLLWLWWWDLWDWWWLW,3,1,7,13,21,11,41,8,9,7,32,24,DWDDWWWWDWWWDDWLDLWWLDDL,2,5,5,10,14,LWLLLLWLDWL,DDDWWWWDLLWD
+PSG,Cannes,2-1,/match/paris-saint-germain-fc/as-cannes/1996,1996,25,ligue_1,20,38,0,2,1,1,54,13,9,2,46,19,DDLWLWLWWWWDDWLWLDWDWDDD,8,3,0,27,7,17,29,6,5,13,26,37,WWLWWWLWWWLWLDDLWDDWDWLL,1,3,7,11,21,DWWWWDWWWWD,WWWWWWDWDDL
+Lille,Monaco,0-0,/match/lillestrom/monaco/1996,1996,25,ligue_1,20,38,1,0,0,19,27,5,8,11,18,32,WLDLWDWLWWDWWDLDWDDWDLLL,2,5,4,6,11,6,44,11,6,7,37,27,WLDWLLWWLLWDDWDDWLWWLDLW,5,2,4,22,17,LLDLWWDDDDL,LWLWLDDWWLL
+Girondins Bordeaux,FC Gueugnon,3-1,/match/bordeaux/fc-gueugnon/1996,1996,25,ligue_1,20,38,0,3,1,15,34,7,4,13,24,34,WWWWWLDWWWWDWDWLDWWWLWWW,7,2,3,21,11,18,29,4,10,10,16,29,DWDWLLDWWDLLDDDLDLWDWWDW,1,5,5,7,18,WWWLWWDDLWLW,WWLWDDDDWWD
+Auxerre,Le Havre,1-0,/match/auxerre/havre-ac/1996,1996,25,ligue_1,20,38,0,1,0,7,43,13,3,8,40,23,WWDLWWLWLWWLWWLLWLLDLDWL,7,0,4,21,10,13,36,7,7,10,21,31,WWWWDWLLWWWWDDLLWDDWWDWD,2,2,8,8,19,WLWWWWLWLLW,WWWWLWWDLDWW
+Nice,Montpellier,1-2,/match/nice/montpellier-hsc/1996,1996,25,ligue_1,20,38,2,1,2,12,38,9,5,10,26,26,DLDWWDLLDWLLWWWWWWWWWWWD,7,1,3,16,10,8,43,9,7,8,32,29,DWWWWLLDWWDLWWDWWDDWDLWW,2,3,6,9,15,LWDLWLWWWWW,WWLDWLWWDDW
+Saint-Étienne,Nantes,0-0,/match/saint-etienne/nantes/1996,1996,25,ligue_1,20,38,1,0,0,16,33,5,10,9,27,38,DWDWWWDWWLWLDDWDLLDWDDDW,4,5,3,17,15,10,43,9,9,6,27,25,WLLWWDDWDDLDLDLWDDDWWWWL,4,3,4,10,14,DDWWWLLDDLWD,LWDWLLLDDWW
+Metz,Olympique Lyonnais,0-1,/match/metz/olympique-lyonnais/1996,1996,25,ligue_1,20,38,2,0,1,3,47,12,8,4,24,16,DWLWDWDDLLWLWDLWLDDWDLWL,6,3,2,14,9,14,36,5,12,7,25,28,WWWDDWDLLWWDDDDWDLDWWDDD,2,4,6,11,16,WWWDWWLLDDW,WWDWLWDDWLWD
+Lens,Lille,1-1,/match/lens/lillestrom/1996,1996,26,ligue_1,20,38,1,1,1,2,50,10,12,3,27,16,WWDLDDWLWDWLWDLDDDDWLDDDW,6,6,1,15,6,19,29,5,9,11,18,32,WLDLWDWLWWDWWDLDWDDWDLLLD,3,3,7,12,21,WDDWWWWLDDWDD,WDWWWDWLWDWLL
+Le Havre,Nice,0-0,/match/havre-ac/nice/1996,1996,26,ligue_1,20,38,1,0,0,15,36,7,7,11,21,32,WWWWDWLLWWWWDDLLWDDWWDWDW,5,5,2,13,12,12,38,9,5,11,27,28,DLDWWDLLDWLLWWWWWWWWWWWDL,2,4,7,10,16,WDLWWDLWDWDD,DDWLDLWWWWWWD
+Nantes,Bastia,3-1,/match/nantes/bastia/1996,1996,26,ligue_1,20,38,0,3,1,10,44,9,10,6,27,25,WLLWWDDWDDLDLDLWDDDWWWWLD,5,6,2,17,11,9,44,10,5,10,33,31,DLWWWLWWWWWWWDDWWWWWLDDWL,2,2,8,11,22,WLWDDDDDWDWWL,LWWWWWDWWLDW
+Olympique Lyonnais,FC Martigues,5-1,/match/olympique-lyonnais/fc-martigues/1996,1996,26,ligue_1,20,38,0,5,1,13,38,6,12,7,26,28,WWWDDWDLLWWDDDDWDLDWWDDDL,3,8,1,14,12,20,24,6,3,16,20,38,WLDWLLWLLLWLWWWDLWDWWWLWW,2,2,9,5,17,WDDLWDDDDWDD,WDLWLWWWDWWWW
+Cannes,Girondins Bordeaux,1-1,/match/as-cannes/bordeaux/1996,1996,26,ligue_1,20,38,1,1,1,17,29,6,5,14,27,39,WWLWWWLWWWLWLDDLWDDWDWLLW,5,2,6,15,16,14,38,8,4,13,27,35,WWWWWLDWWWWDWDWLDWWWLWWWW,0,2,10,3,23,WLWLWLLDLDWWL,WWDWWWWDWWWW
+Monaco,PSG,1-0,/match/monaco/paris-saint-germain-fc/1996,1996,26,ligue_1,20,38,0,1,0,7,45,11,7,7,37,27,WLDWLLWWLLWDDWDDWLWWLDLWD,6,4,3,15,10,1,58,14,9,2,48,20,DDLWLWLWWWWDDWLWLDWDWDDDW,5,6,2,19,12,WDLWLWDWDLWDW,DLLLWWDLLDDDD
+FC Gueugnon,Saint-Étienne,1-0,/match/fc-gueugnon/saint-etienne/1996,1996,26,ligue_1,20,38,0,1,0,18,29,4,10,11,17,32,DWDWLLDWWDLLDDDLDLWDWWDWW,3,5,5,9,11,16,35,5,11,9,27,38,DWDWWWDWWLWLDDWDLLDWDDDWD,1,5,6,10,23,DDLDWLLDLLDWW,WWDWWDWLDDDW
+Strasbourg,Auxerre,1-0,/match/strasbourg/auxerre/1996,1996,26,ligue_1,20,38,0,1,0,11,41,8,9,8,32,26,DWDDWWWWDWWWDDWLDLWWLDDLW,6,4,2,22,10,5,47,14,3,8,41,23,WWDLWWLWLWWLWWLLWLLDLDWLW,6,3,4,19,13,WWWDWDWDWLDL,WDWLLWLWLLDDL
+Stade Rennais,Metz,0-0,/match/stade-rennes/metz/1996,1996,26,ligue_1,20,38,1,0,0,6,47,9,9,7,29,29,WWWWWWWDLWWDWDWDWDWWDDDDW,9,2,1,20,9,3,47,12,8,5,24,17,DWLWDWDDLLWLWDLWLDDWDLWLL,6,5,2,10,7,WWWLWWWWWDDW,DLDDLLLDWDWLL
+Montpellier,Guingamp,2-1,/match/montpellier-hsc/guingamp/1996,1996,26,ligue_1,20,38,0,2,1,8,45,10,7,8,34,30,DWWWWLLDWWDLWWDWWDDWDLWWL,7,4,2,23,14,4,47,10,9,6,21,17,WDDLWWWDDDWWDDLWWDLDWLWWL,4,3,5,9,14,DWWLWDWDWDWLW,DLWDWDLWLWWL
+Auxerre,Olympique Lyonnais,2-0,/match/auxerre/olympique-lyonnais/1996,1996,27,ligue_1,20,38,0,2,0,9,47,14,3,9,41,24,WWDLWWLWLWWLWWLLWLLDLDWLWW,8,0,4,22,10,12,42,7,12,7,31,29,WWWDDWDLLWWDDDDWDLDWWDDDLW,3,4,6,12,16,WLWWWWLWLLWW,WWDWLWDDWLWDL
+FC Martigues,Stade Rennais,1-2,/match/fc-martigues/stade-rennes/1996,1996,27,ligue_1,20,38,2,1,2,20,24,6,3,17,21,43,WLDWLLWLLLWLWWWDLWDWWWLWWW,4,1,7,15,21,3,49,9,10,7,29,29,WWWWWWWDLWWDWDWDWDWWDDDDWD,0,7,6,9,20,LWLLLLWLDWLW,WWWWDWDDDDWDD
+Bastia,Lens,3-2,/match/bastia/lens/1996,1996,27,ligue_1,20,38,0,3,2,11,44,10,5,11,34,34,DLWWWLWWWWWWWDDWWWWWLDDWLW,8,3,2,22,9,2,52,10,13,3,28,17,WWDLDDWLWDWLWDLDDDDWLDDDWD,4,6,2,12,10,DWWLWWWDWWWDL,WLDLDLDDDLDW
+Lille,FC Gueugnon,2-0,/match/lillestrom/fc-gueugnon/1996,1996,27,ligue_1,20,38,0,2,0,19,30,5,10,11,19,33,WLDLWDWLWWDWWDLDWDDWDLLLDD,2,6,4,6,11,17,33,5,10,11,18,32,DWDWLLDWWDLLDDDLDLWDWWDWWW,1,5,6,8,21,LLDLWWDDDDLD,WWLWDDDDWWDW
+Girondins Bordeaux,Le Havre,3-1,/match/bordeaux/havre-ac/1996,1996,27,ligue_1,20,38,0,3,1,14,39,8,5,13,28,36,WWWWWLDWWWWDWDWLDWWWLWWWWD,8,2,3,24,12,15,38,7,8,11,21,32,WWWWDWLLWWWWDDLLWDDWWDWDWD,2,2,9,8,20,WWWLWWDDLWLWW,WWWWLWWDLDWWW
+Guingamp,Nantes,3-1,/match/guingamp/nantes/1996,1996,27,ligue_1,20,38,0,3,1,8,47,10,9,7,22,19,WDDLWWWDDDWWDDLWWDLDWLWWLW,6,6,1,12,3,6,48,10,10,6,30,26,WLLWWDDWDDLDLDLWDDDWWWWLDW,4,4,4,10,14,WDWWDDWDWDDLW,LWDWLLLDDWWD
+Nice,Strasbourg,2-2,/match/nice/strasbourg/1996,1996,27,ligue_1,20,38,1,2,2,13,39,9,6,11,27,28,DLDWWDLLDWLLWWWWWWWWWWWDLD,7,1,4,17,12,10,45,9,9,8,33,26,DWDDWWWWDWWWDDWLDLWWLDDLWW,2,5,6,10,16,LWDLWLWWWWWL,DDDWWWWDLLWDW
+PSG,Montpellier,2-3,/match/paris-saint-germain-fc/montpellier-hsc/1996,1996,27,ligue_1,20,38,2,2,3,1,58,14,9,3,48,21,DDLWLWLWWWWDDWLWLDWDWDDDWW,9,3,0,29,8,5,49,11,7,8,36,31,DWWWWLLDWWDLWWDWWDDWDLWWLW,3,3,6,11,16,DWWWWDWWWWDW,WWLDWLWWDDWL
+Saint-Étienne,Cannes,2-2,/match/saint-etienne/as-cannes/1996,1996,27,ligue_1,20,38,1,2,2,16,35,5,11,10,27,39,DWDWWWDWWLWLDDWDLLDWDDDWDW,4,6,3,17,15,18,31,6,6,14,28,40,WWLWWWLWWWLWLDDLWDDWDWLLWD,1,3,8,12,23,DDWWWLLDDLWDD,WWWWWWDWDDLW
+Metz,Monaco,0-3,/match/metz/monaco/1996,1996,27,ligue_1,20,38,2,0,3,7,48,12,9,5,24,17,DWLWDWDDLLWLWDLWLDDWDLWLLD,6,3,3,14,10,4,49,12,7,7,38,27,WLDWLLWWLLWDDWDDWLWWLDLWDW,5,3,4,22,17,WWWDWWLLDDWL,LWLWLDDWWLLD
+Monaco,Saint-Étienne,2-0,/match/monaco/saint-etienne/1996,1996,28,ligue_1,20,38,0,2,0,5,51,13,7,7,41,27,WLDWLLWWLLWDDWDDWLWWLDLWDWL,7,4,3,16,10,16,37,5,12,10,29,41,DWDWWWDWWLWLDDWDLLDWDDDWDWD,1,5,7,10,24,WDLWLWDWDLWDWW,WWDWWDWLDDDWW
+Strasbourg,PSG,1-0,/match/strasbourg/paris-saint-germain-fc/1996,1996,28,ligue_1,20,38,0,1,0,11,46,9,10,8,35,28,DWDDWWWWDWWWDDWLDLWWLDDLWWD,7,4,2,23,10,1,58,14,9,4,50,24,DDLWLWLWWWWDDWLWLDWDWDDDWWL,5,6,3,19,13,WWWDWDWDWLDLW,DLLLWWDLLDDDDW
+Montpellier,Girondins Bordeaux,3-0,/match/montpellier-hsc/bordeaux/1996,1996,28,ligue_1,20,38,0,3,0,6,51,12,7,8,39,33,DWWWWLLDWWDLWWDWWDDWDLWWLWL,8,4,2,25,15,12,43,9,5,13,31,37,WWWWWLDWWWWDWDWLDWWWLWWWWDW,0,3,10,4,24,DWWLWDWDWDWLWW,WWDWWWWDWWWWD
+Olympique Lyonnais,Nice,1-0,/match/olympique-lyonnais/nice/1996,1996,28,ligue_1,20,38,0,1,0,13,42,7,12,8,31,31,WWWDDWDLLWWDDDDWDLDWWDDDLWW,4,8,1,19,13,14,41,9,7,11,29,30,DLDWWDLLDWLLWWWWWWWWWWWDLDD,2,5,7,10,16,WDDLWDDDDWDDW,DDWLDLWWWWWWDD
+Cannes,Bastia,1-0,/match/as-cannes/bastia/1996,1996,28,ligue_1,20,38,0,1,0,19,32,6,7,14,30,42,WWLWWWLWWWLWLDDLWDDWDWLLWDD,5,3,6,16,17,8,48,11,5,11,37,36,DLWWWLWWWWWWWDDWWWWWLDDWLWW,2,2,9,12,25,WLWLWLLDLDWWLD,LWWWWWDWWLDWW
+Stade Rennais,Auxerre,2-1,/match/stade-rennes/auxerre/1996,1996,28,ligue_1,20,38,0,2,1,4,51,10,10,7,31,30,WWWWWWWDLWWDWDWDWDWWDDDDWDL,9,3,1,20,9,7,51,15,3,9,43,24,WWDLWWLWLWWLWWLLWLLDLDWLWWW,6,3,5,19,14,WWWLWWWWWDDWD,WDWLLWLWLLDDLW
+FC Gueugnon,Guingamp,2-2,/match/fc-gueugnon/guingamp/1996,1996,28,ligue_1,20,38,1,2,2,18,33,5,10,12,18,34,DWDWLLDWWDLLDDDLDLWDWWDWWWW,4,5,5,10,11,3,51,11,9,7,25,20,WDDLWWWDDDWWDDLWWDLDWLWWLWW,4,3,6,10,16,DDLDWLLDLLDWWW,DLWDWDLWLWWLW
+Metz,FC Martigues,2-0,/match/metz/fc-martigues/1996,1996,28,ligue_1,20,38,0,2,0,9,48,12,9,6,24,20,DWLWDWDDLLWLWDLWLDDWDLWLLDL,6,3,4,14,13,20,24,6,3,18,22,45,WLDWLLWLLLWLWWWDLWDWWWLWWWL,2,2,10,6,22,WWWDWWLLDDWLL,WDLWLWWWDWWWWW
+Lens,Nantes,2-1,/match/lens/nantes/1996,1996,28,ligue_1,20,38,0,2,1,2,52,10,13,4,30,20,WWDLDDWLWDWLWDLDDDDWLDDDWDW,6,7,1,16,7,10,48,10,10,7,31,29,WLLWWDDWDDLDLDLWDDDWWWWLDWW,4,4,5,11,17,WDDWWWWLDDWDDD,LWDWLLLDDWWDW
+Le Havre,Lille,4-1,/match/havre-ac/lillestrom/1996,1996,28,ligue_1,20,38,0,4,1,15,38,7,8,12,22,35,WWWWDWLLWWWWDDLLWDDWWDWDWDW,5,6,2,13,12,17,34,6,10,11,21,33,WLDLWDWLWWDWWDLDWDDWDLLLDDW,3,4,7,13,22,WDLWWDLWDWDDD,WDWWWDWLWDWLLD
+Nice,Cannes,1-2,/match/nice/as-cannes/1996,1996,29,ligue_1,20,38,2,1,2,15,41,9,7,12,29,31,DLDWWDLLDWLLWWWWWWWWWWWDLDDW,7,2,4,19,14,17,36,7,7,14,31,42,WWLWWWLWWWLWLDDLWDDWDWLLWDDW,1,4,8,14,25,LWDLWLWWWWWLD,WWWWWWDWDDLWD
+Guingamp,Monaco,0-0,/match/guingamp/monaco/1996,1996,29,ligue_1,20,38,1,0,0,7,52,11,10,7,27,22,WDDLWWWDDDWWDDLWWDLDWLWWLWWD,7,6,1,15,4,4,55,14,7,7,43,27,WLDWLLWWLLWDDWDDWLWWLDLWDWLW,6,3,4,25,17,WDWWDDWDWDDLWW,LWLWLDDWWLLDL
+Lille,Montpellier,1-1,/match/lillestrom/montpellier-hsc/1996,1996,29,ligue_1,20,38,1,1,1,19,34,6,10,12,22,37,WLDLWDWLWWDWWDLDWDDWDLLLDDWW,3,6,4,8,11,5,55,13,7,8,42,33,DWWWWLLDWWDLWWDWWDDWDLWWLWLW,4,3,6,14,18,LLDLWWDDDDLDW,WWLDWLWWDDWLL
+Saint-Étienne,Olympique Lyonnais,1-1,/match/saint-etienne/olympique-lyonnais/1996,1996,29,ligue_1,20,38,1,1,1,16,37,5,12,11,29,43,DWDWWWDWWLWLDDWDLLDWDDDWDWDW,4,7,3,19,17,12,46,8,12,8,32,31,WWWDDWDLLWWDDDDWDLDWWDDDLWWW,3,4,7,12,18,DDWWWLLDDLWDDD,WWDWLWDDWLWDLW
+PSG,Lens,1-0,/match/paris-saint-germain-fc/lens/1996,1996,29,ligue_1,20,38,0,1,0,1,58,14,9,5,50,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLW,9,3,1,31,11,2,56,11,13,4,32,21,WWDLDDWLWDWLWDLDDDDWLDDDWDWW,4,6,3,14,13,DWWWWDWWWWDWL,WLDLDLDDDLDWW
+FC Martigues,Le Havre,0-1,/match/fc-martigues/havre-ac/1996,1996,29,ligue_1,20,38,2,0,1,20,24,6,3,19,22,47,WLDWLLWLLLWLWWWDLWDWWWLWWWLW,4,1,8,16,23,14,42,8,8,12,26,36,WWWWDWLLWWWWDDLLWDDWWDWDWDWW,2,2,10,9,23,LWLLLLWLDWLWL,WWWWLWWDLDWWWW
+Nantes,FC Gueugnon,1-0,/match/nantes/fc-gueugnon/1996,1996,29,ligue_1,20,38,0,1,0,10,48,10,10,8,32,31,WLLWWDDWDDLDLDLWDDDWWWWLDWWW,6,6,2,20,12,18,35,5,11,12,20,36,DWDWLLDWWDLLDDDLDLWDWWDWWWWD,1,5,7,8,23,WLWDDDDDWDWWLW,WWLWDDDDWWDWW
+Auxerre,Metz,0-0,/match/auxerre/metz/1996,1996,29,ligue_1,20,38,1,0,0,8,51,15,3,10,44,26,WWDLWWLWLWWLWWLLWLLDLDWLWWWW,9,0,4,24,10,6,52,13,9,6,26,20,DWLWDWDDLLWLWDLWLDDWDLWLLDLW,6,6,2,10,7,WLWWWWLWLLWWW,DLDDLLLDWDWLLD
+Girondins Bordeaux,Strasbourg,1-1,/match/bordeaux/strasbourg/1996,1996,29,ligue_1,20,38,1,1,1,13,43,9,5,14,31,40,WWWWWLDWWWWDWDWLDWWWLWWWWDWW,9,2,3,27,13,9,50,10,10,8,36,28,DWDDWWWWDWWWDDWLDLWWLDDLWWDW,2,6,6,12,18,WWWLWWDDLWLWWW,DDDWWWWDLLWDWD
+Bastia,Stade Rennais,0-0,/match/bastia/stade-rennes/1996,1996,29,ligue_1,20,38,1,0,0,11,48,11,5,12,37,37,DLWWWLWWWWWWWDDWWWWWLDDWLWWW,9,3,2,25,11,3,55,11,10,7,33,31,WWWWWWWDLWWDWDWDWDWWDDDDWDLW,1,7,6,11,21,DWWLWWWDWWWDLW,WWWWDWDDDDWDDL
+Olympique Lyonnais,Girondins Bordeaux,1-0,/match/olympique-lyonnais/bordeaux/1996,1996,30,ligue_1,20,38,0,1,0,12,47,8,13,8,33,32,WWWDDWDLLWWDDDDWDLDWWDDDLWWWD,5,8,1,20,13,13,45,9,6,14,32,41,WWWWWLDWWWWDWDWLDWWWLWWWWDWWD,0,3,11,4,27,WDDLWDDDDWDDWW,WWDWWWWDWWWWDW
+Monaco,Nantes,4-1,/match/monaco/nantes/1996,1996,30,ligue_1,20,38,0,4,1,4,56,14,8,7,43,27,WLDWLLWWLLWDDWDDWLWWLDLWDWLWD,8,4,3,18,10,9,52,11,10,8,33,31,WLLWWDDWDDLDLDLWDDDWWWWLDWWWW,4,4,6,12,19,WDLWLWDWDLWDWWW,LWDWLLLDDWWDWW
+Montpellier,Saint-Étienne,1-0,/match/montpellier-hsc/saint-etienne/1996,1996,30,ligue_1,20,38,0,1,0,5,56,13,8,8,43,34,DWWWWLLDWWDLWWDWWDDWDLWWLWLWD,9,4,2,28,15,16,39,5,13,11,30,44,DWDWWWDWWLWLDDWDLLDWDDDWDWDWD,1,5,8,10,26,DWWLWDWDWDWLWWW,WWDWWDWLDDDWWW
+Le Havre,Bastia,1-0,/match/havre-ac/bastia/1996,1996,30,ligue_1,20,38,0,1,0,14,44,9,8,12,27,36,WWWWDWLLWWWWDDLLWDDWWDWDWDWWL,6,6,2,17,13,11,50,11,6,12,37,37,DLWWWLWWWWWWWDDWWWWWLDDWLWWWD,2,2,10,12,26,WDLWWDLWDWDDDW,LWWWWWDWWLDWWW
+Strasbourg,Lille,2-0,/match/strasbourg/lillestrom/1996,1996,30,ligue_1,20,38,0,2,0,10,51,10,11,8,37,29,DWDDWWWWDWWWDDWLDLWWLDDLWWDWD,8,4,2,24,10,18,36,6,11,12,23,38,WLDLWDWLWWDWWDLDWDDWDLLLDDWWD,3,4,8,14,26,WWWDWDWDWLDLWW,WDWWWDWLWDWLLDW
+Stade Rennais,PSG,0-1,/match/stade-rennes/paris-saint-germain-fc/1996,1996,30,ligue_1,20,38,2,0,1,3,56,11,11,7,33,31,WWWWWWWDLWWDWDWDWDWWDDDDWDLWD,10,3,1,22,10,1,62,15,9,5,51,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLWW,5,6,4,19,14,WWWLWWWWWDDWDW,DLLLWWDLLDDDDWW
+Lens,FC Gueugnon,2-0,/match/lens/fc-gueugnon/1996,1996,30,ligue_1,20,38,0,2,0,2,56,11,13,5,32,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWW,7,7,1,18,8,19,35,5,11,13,20,37,DWDWLLDWWDLLDDDLDLWDWWDWWWWDW,1,5,8,8,24,WDDWWWWLDDWDDDW,WWLWDDDDWWDWWW
+Auxerre,FC Martigues,4-0,/match/auxerre/fc-martigues/1996,1996,30,ligue_1,20,38,0,4,0,8,53,15,4,10,44,26,WWDLWWLWLWWLWWLLWLLDLDWLWWWWD,9,1,4,24,10,20,24,6,3,20,22,48,WLDWLLWLLLWLWWWDLWDWWWLWWWLWL,2,2,11,6,24,WLWWWWLWLLWWWD,WDLWLWWWDWWWWWW
+Cannes,Guingamp,3-0,/match/as-cannes/guingamp/1996,1996,30,ligue_1,20,38,0,3,0,17,38,8,7,14,33,43,WWLWWWLWWWLWLDDLWDDWDWLLWDDWL,6,3,6,17,17,6,54,11,11,7,27,22,WDDLWWWDDDWWDDLWWDLDWLWWLWWDD,4,4,6,12,18,WLWLWLLDLDWWLDW,DLWDWDLWLWWLWD
+Metz,Nice,4-0,/match/metz/nice/1996,1996,30,ligue_1,20,38,0,4,0,7,53,13,10,6,26,20,DWLWDWDDLLWLWDLWLDDWDLWLLDLWD,7,3,4,16,13,15,41,9,7,13,30,33,DLDWWDLLDWLLWWWWWWWWWWWDLDDWL,2,5,8,10,17,WWWDWWLLDDWLLW,DDWLDLWWWWWWDDW
+FC Martigues,Lens,0-1,/match/fc-martigues/lens/1996,1996,31,ligue_1,20,38,2,0,1,20,24,6,3,21,22,52,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLW,4,1,9,16,24,4,60,12,13,5,34,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWW,4,6,4,14,14,LWLLLLWLDWLWLL,WLDLDLDDDLDWWW
+FC Gueugnon,Monaco,2-2,/match/fc-gueugnon/monaco/1996,1996,31,ligue_1,20,38,1,2,2,19,35,5,11,14,20,39,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWW,4,6,5,12,13,2,60,15,8,7,47,28,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDW,6,4,4,25,17,DDLDWLLDLLDWWWD,LWLWLDDWWLLDLD
+Bastia,Montpellier,1-0,/match/bastia/montpellier-hsc/1996,1996,31,ligue_1,20,38,0,1,0,12,50,11,6,13,37,38,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDW,9,4,2,25,11,3,60,14,8,8,44,34,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDW,4,4,6,15,19,DWWLWWWDWWWDLWD,WWLDWLWWDDWLLD
+Saint-Étienne,Le Havre,1-1,/match/saint-etienne/havre-ac/1996,1996,31,ligue_1,20,38,1,1,1,17,39,5,13,12,30,45,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDW,4,8,3,20,18,13,48,10,8,12,28,36,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLW,3,2,10,10,23,DDWWWLLDDLWDDDD,WWWWLWWDLDWWWWL
+Nice,Auxerre,1-3,/match/nice/auxerre/1996,1996,31,ligue_1,20,38,2,1,3,16,41,9,7,14,30,37,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLW,7,2,5,20,16,6,57,16,4,10,48,26,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDW,6,3,6,20,16,LWDLWLWWWWWLDL,WDWLLWLWLLDDLWW
+Guingamp,Strasbourg,3-0,/match/guingamp/strasbourg/1996,1996,31,ligue_1,20,38,0,3,0,9,54,11,11,8,27,25,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDW,7,7,1,15,4,8,55,11,11,8,39,29,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDW,2,7,6,13,19,WDWWDDWDWDDLWWD,DDDWWWWDLLWDWDD
+Lille,Stade Rennais,0-0,/match/lillestrom/stade-rennes/1996,1996,31,ligue_1,20,38,1,0,0,18,36,6,11,13,23,40,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDW,3,7,4,9,12,7,56,11,11,8,33,32,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDL,1,8,6,11,21,LLDLWWDDDDLDWD,WWWWDWDDDDWDDLD
+Nantes,Cannes,2-0,/match/nantes/as-cannes/1996,1996,31,ligue_1,20,38,0,2,0,10,52,11,10,9,34,35,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWW,7,6,2,21,12,15,42,9,7,14,36,43,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLW,2,4,8,16,26,WLWDDDDDWDWWLWW,WWWWWWDWDDLWDL
+Girondins Bordeaux,Metz,4-0,/match/bordeaux/metz/1996,1996,31,ligue_1,20,38,0,4,0,14,45,9,6,15,32,42,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDW,9,3,3,28,14,5,57,14,10,6,30,20,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDW,6,7,2,10,7,WWWLWWDDLWLWWWD,DLDDLLLDWDWLLDD
+PSG,Olympique Lyonnais,2-0,/match/paris-saint-germain-fc/olympique-lyonnais/1996,1996,31,ligue_1,20,38,0,2,0,1,64,16,9,5,52,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWL,10,3,1,32,11,11,51,9,13,8,34,32,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDW,3,5,7,13,19,DWWWWDWWWWDWLW,WWDWLWDDWLWDLWD
+Stade Rennais,Girondins Bordeaux,4-3,/match/stade-rennes/bordeaux/1996,1996,32,ligue_1,20,38,0,4,3,8,57,11,12,8,33,32,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLD,10,3,2,22,11,14,49,10,6,15,36,42,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWW,0,3,12,4,28,WWWLWWWWWDDWDWL,WWDWWWWDWWWWDWW
+Montpellier,Monaco,0-0,/match/montpellier-hsc/monaco/1996,1996,32,ligue_1,20,38,1,0,0,4,60,14,8,9,44,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWW,10,4,2,29,15,3,61,15,9,7,49,30,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWD,6,5,4,27,19,DWWLWDWDWDWLWWWW,LWLWLDDWWLLDLDD
+Le Havre,Guingamp,1-0,/match/havre-ac/guingamp/1996,1996,32,ligue_1,20,38,0,1,0,13,49,10,9,12,29,37,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWD,7,6,2,18,13,6,58,12,11,8,30,25,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWW,4,4,7,12,21,WDLWWDLWDWDDDWW,DLWDWDLWLWWLWDW
+Strasbourg,Bastia,4-3,/match/strasbourg/bastia/1996,1996,32,ligue_1,20,38,0,4,3,10,55,11,11,9,39,32,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWW,9,4,2,26,10,11,54,12,6,13,38,38,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWW,2,2,11,12,27,WWWDWDWDWLDLWWW,LWWWWWDWWLDWWWW
+Olympique Lyonnais,Nantes,1-1,/match/olympique-lyonnais/nantes/1996,1996,32,ligue_1,20,38,1,1,1,12,51,9,13,9,34,34,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWW,6,8,1,21,13,9,56,12,10,9,36,35,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWW,4,4,7,13,23,WDDLWDDDDWDDWWW,LWDWLLLDDWWDWWW
+Metz,Lille,2-0,/match/metz/lillestrom/1996,1996,32,ligue_1,20,38,0,2,0,7,57,14,10,7,30,24,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWW,8,3,4,20,13,18,38,6,12,13,23,40,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWD,3,4,9,14,28,WWWDWWLLDDWLLWW,WDWWWDWLWDWLLDWW
+Lens,Saint-Étienne,3-0,/match/lens/saint-etienne/1996,1996,32,ligue_1,20,38,0,3,0,2,62,13,13,5,35,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWL,8,7,1,20,8,17,41,5,14,12,31,46,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWD,1,5,9,10,27,WDDWWWWLDDWDDDWW,WWDWWDWLDDDWWWW
+Cannes,FC Gueugnon,2-0,/match/as-cannes/fc-gueugnon/1996,1996,32,ligue_1,20,38,0,2,0,15,42,9,7,15,36,45,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWW,7,3,6,20,17,19,37,5,12,14,22,41,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWD,1,5,9,8,26,WLWLWLLDLDWWLDWW,WWLWDDDDWWDWWWW
+FC Martigues,Nice,0-0,/match/fc-martigues/nice/1996,1996,32,ligue_1,20,38,1,0,0,20,24,6,3,22,22,53,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWL,4,1,10,16,25,16,41,9,7,15,31,40,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWL,2,5,9,10,21,LWLLLLWLDWLWLLL,DDWLDLWWWWWWDDWW
+Auxerre,PSG,3-0,/match/auxerre/paris-saint-germain-fc/1996,1996,32,ligue_1,20,38,0,3,0,5,59,17,4,10,51,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWL,10,1,4,28,10,1,68,17,9,5,54,25,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLW,6,6,4,20,14,WLWWWWLWLLWWWDW,DLLLWWDLLDDDDWWL
+Nice,Stade Rennais,0-0,/match/nice/stade-rennes/1996,1996,33,ligue_1,20,38,1,0,0,16,42,9,8,15,31,40,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLD,7,2,6,21,19,7,61,12,12,8,37,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDW,1,9,6,11,21,LWDLWLWWWWWLDLL,WWWWDWDDDDWDDLDD
+Monaco,Cannes,1-0,/match/monaco/as-cannes/1996,1996,33,ligue_1,20,38,0,1,0,4,62,15,10,7,49,30,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDD,9,4,3,22,11,15,46,10,7,15,38,45,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWW,2,4,9,16,28,WDLWLWDWDLWDWWWW,WWWWWWDWDDLWDLW
+Saint-Étienne,Strasbourg,2-0,/match/saint-etienne/strasbourg/1996,1996,33,ligue_1,20,38,0,2,0,17,41,5,14,13,31,49,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDW,4,9,3,21,19,8,59,12,11,9,43,35,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWW,2,7,7,13,22,DDWWWLLDDLWDDDDD,DDDWWWWDLLWDWDDW
+FC Gueugnon,Montpellier,0-2,/match/fc-gueugnon/montpellier-hsc/1996,1996,33,ligue_1,20,38,2,0,2,19,37,5,12,15,22,43,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDW,4,7,5,14,15,5,62,14,9,9,44,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWD,4,4,7,15,20,DDLDWLLDLLDWWWDD,WWLDWLWWDDWLLDW
+PSG,Metz,2-3,/match/paris-saint-germain-fc/metz/1996,1996,33,ligue_1,20,38,2,2,3,1,68,17,9,6,54,28,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWW,11,3,1,34,11,6,61,15,10,7,32,24,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWW,6,7,3,10,11,DWWWWDWWWWDWLWW,DLDDLLLDWDWLLDDW
+Bastia,Olympique Lyonnais,0-0,/match/bastia/olympique-lyonnais/1996,1996,33,ligue_1,20,38,1,0,0,11,54,12,6,14,41,42,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWW,10,4,2,26,11,12,53,9,14,9,35,35,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWD,3,5,8,13,21,DWWLWWWDWWWDLWDW,WWDWLWDDWLWDLWDW
+Lille,Auxerre,0-4,/match/lillestrom/auxerre/1996,1996,33,ligue_1,20,38,2,0,4,18,38,6,12,14,23,42,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDW,3,8,4,9,12,3,63,18,4,10,54,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLW,7,3,6,23,17,LLDLWWDDDDLDWDD,WDWLLWLWLLDDLWWL
+Nantes,Le Havre,1-1,/match/nantes/havre-ac/1996,1996,33,ligue_1,20,38,1,1,1,10,57,12,11,9,37,36,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWD,8,6,2,23,12,13,53,11,9,12,30,37,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDW,3,3,10,11,24,WLWDDDDDWDWWLWWW,WWWWLWWDLDWWWWLD
+Guingamp,Lens,1-0,/match/guingamp/lens/1996,1996,33,ligue_1,20,38,0,1,0,9,58,12,11,9,30,26,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWW,8,7,1,18,4,2,66,14,13,5,38,22,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLW,5,6,4,15,14,WDWWDDWDWDDLWWDW,WLDLDLDDDLDWWWL
+Girondins Bordeaux,FC Martigues,1-1,/match/bordeaux/fc-martigues/1996,1996,33,ligue_1,20,38,1,1,1,14,49,10,6,16,39,46,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWW,10,3,3,32,14,20,26,6,4,22,22,53,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLD,2,2,12,6,28,WWWLWWDDLWLWWWDW,WDLWLWWWDWWWWWWW
+Lens,Monaco,2-1,/match/lens/monaco/1996,1996,34,ligue_1,20,38,0,2,1,2,66,14,13,6,38,23,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWW,9,7,1,23,8,3,66,16,10,7,50,30,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDW,6,6,4,27,19,WDDWWWWLDDWDDDWWW,LWLWLDDWWLLDLDDD
+Auxerre,Girondins Bordeaux,2-0,/match/auxerre/bordeaux/1996,1996,34,ligue_1,20,38,0,2,0,4,65,19,4,10,58,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWL,11,1,4,31,10,14,51,10,7,16,40,47,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWD,0,3,13,7,32,WLWWWWLWLLWWWDWW,WWDWWWWDWWWWDWWW
+FC Martigues,Lille,1-0,/match/fc-martigues/lillestrom/1996,1996,34,ligue_1,20,38,0,1,0,20,27,6,5,22,23,54,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDD,4,2,10,16,25,18,38,6,12,15,23,46,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWL,3,4,10,14,30,LWLLLLWLDWLWLLLD,WDWWWDWLWDWLLDWWW
+Nice,PSG,1-2,/match/nice/paris-saint-germain-fc/1996,1996,34,ligue_1,20,38,2,1,2,17,44,9,9,15,31,40,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDD,7,3,6,21,19,1,68,17,9,7,56,31,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWL,6,6,5,20,17,LWDLWLWWWWWLDLLD,DLLLWWDLLDDDDWWLW
+Stade Rennais,Saint-Étienne,3-0,/match/stade-rennes/saint-etienne/1996,1996,34,ligue_1,20,38,0,3,0,7,62,12,13,8,37,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWD,11,3,2,26,14,16,45,6,14,13,33,49,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWW,1,5,10,10,30,WWWLWWWWWDDWDWLW,WWDWWDWLDDDWWWWW
+Strasbourg,Cannes,1-0,/match/strasbourg/as-cannes/1996,1996,34,ligue_1,20,38,0,1,0,9,59,12,11,10,43,37,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWW,10,4,2,30,13,15,46,10,7,16,38,46,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWW,2,4,10,16,29,WWWDWDWDWLDLWWWW,WWWWWWDWDDLWDLWW
+Montpellier,Nantes,1-0,/match/montpellier-hsc/nantes/1996,1996,34,ligue_1,20,38,0,1,0,5,64,15,9,9,46,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDL,10,5,2,29,15,10,59,12,12,9,38,37,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDD,4,5,7,14,24,DWWLWDWDWDWLWWWWD,LWDWLLLDDWWDWWWD
+Le Havre,FC Gueugnon,0-2,/match/havre-ac/fc-gueugnon/1996,1996,34,ligue_1,20,38,2,0,2,13,54,11,10,12,31,38,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWD,8,6,2,19,13,19,37,5,12,16,22,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWL,1,5,10,8,28,WDLWWDLWDWDDDWWW,WWLWDDDDWWDWWWWW
+Olympique Lyonnais,Guingamp,1-1,/match/olympique-lyonnais/guingamp/1996,1996,34,ligue_1,20,38,1,1,1,12,54,9,15,9,35,35,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDD,6,9,1,22,14,8,62,13,11,9,31,26,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWW,4,4,8,12,22,WDDLWDDDDWDDWWWD,DLWDWDLWLWWLWDWW
+Metz,Bastia,2-0,/match/metz/bastia/1996,1996,34,ligue_1,20,38,0,2,0,6,63,16,10,7,35,26,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWL,9,3,4,22,13,11,56,12,7,14,41,42,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWD,2,2,12,15,31,WWWDWWLLDDWLLWWW,LWWWWWDWWLDWWWWW
+Bastia,Auxerre,1-1,/match/bastia/auxerre/1996,1996,35,ligue_1,20,38,1,1,1,12,56,12,7,15,41,44,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDW,10,5,2,26,11,3,69,20,4,10,60,27,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLW,8,3,6,27,17,DWWLWWWDWWWDLWDWD,WDWLLWLWLLDDLWWLL
+Guingamp,Stade Rennais,0-0,/match/guingamp/stade-rennes/1996,1996,35,ligue_1,20,38,1,0,0,8,63,13,12,9,32,27,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWD,9,7,1,19,4,7,66,13,13,8,40,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDW,1,10,6,11,21,WDWWDDWDWDDLWWDWW,WWWWDWDDDDWDDLDDD
+Nantes,Strasbourg,2-0,/match/nantes/strasbourg/1996,1996,35,ligue_1,20,38,0,2,0,10,59,12,12,10,38,38,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDW,8,7,2,24,13,9,63,13,11,10,44,37,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWW,2,7,8,13,24,WLWDDDDDWDWWLWWWD,DDDWWWWDLLWDWDDWW
+Girondins Bordeaux,Lens,0-0,/match/bordeaux/lens/1996,1996,35,ligue_1,20,38,1,0,0,14,51,10,7,17,40,49,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDW,10,4,3,33,15,2,70,15,13,6,40,24,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWW,5,6,5,15,15,WWWLWWDDLWLWWWDWD,WLDLDLDDDLDWWWLW
+Lille,Nice,1-0,/match/lillestrom/nice/1996,1996,35,ligue_1,20,38,0,1,0,19,38,6,12,16,23,47,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLW,3,8,5,9,16,17,44,9,9,16,32,42,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDL,2,6,9,10,21,LLDLWWDDDDLDWDDL,DDWLDLWWWWWWDDWWD
+Saint-Étienne,Metz,1-1,/match/saint-etienne/metz/1996,1996,35,ligue_1,20,38,1,1,1,16,45,6,14,14,33,52,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWW,5,9,3,23,19,5,67,17,10,7,37,26,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLW,7,7,3,13,13,DDWWWLLDDLWDDDDDW,DLDDLLLDWDWLLDDWL
+Monaco,Le Havre,2-1,/match/monaco/havre-ac/1996,1996,35,ligue_1,20,38,0,2,1,6,66,16,10,8,51,32,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWW,10,4,3,23,11,13,54,11,10,13,31,40,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDL,3,4,10,12,25,WDLWLWDWDLWDWWWWW,WWWWLWWDLDWWWWLDD
+FC Gueugnon,Olympique Lyonnais,0-0,/match/fc-gueugnon/olympique-lyonnais/1996,1996,35,ligue_1,20,38,1,0,0,18,39,6,12,16,24,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLL,4,7,6,14,17,11,56,9,16,9,36,36,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDD,3,6,8,13,21,DDLDWLLDLLDWWWDDL,WWDWLWDDWLWDLWDWD
+Cannes,Montpellier,2-1,/match/as-cannes/montpellier-hsc/1996,1996,35,ligue_1,20,38,0,2,1,15,46,10,7,17,38,47,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWW,8,3,6,22,17,4,68,16,9,9,47,35,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLW,5,4,7,17,20,WLWLWLLDLDWWLDWWW,WWLDWLWWDDWLLDWL
+PSG,FC Martigues,0-0,/match/paris-saint-germain-fc/fc-martigues/1996,1996,35,ligue_1,20,38,1,0,0,1,70,18,9,7,58,32,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLL,11,3,2,36,14,20,31,7,5,22,24,54,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDW,2,3,12,7,29,DWWWWDWWWWDWLWWL,WDLWLWWWDWWWWWWWD
+Nice,Girondins Bordeaux,1-0,/match/nice/bordeaux/1996,1996,36,ligue_1,20,38,0,1,0,17,44,9,9,17,32,43,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDLW,7,3,7,22,21,14,53,10,8,17,40,49,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDWD,0,3,14,7,34,LWDLWLWWWWWLDLLDL,WWDWWWWDWWWWDWWWW
+Auxerre,Saint-Étienne,2-0,/match/auxerre/saint-etienne/1996,1996,36,ligue_1,20,38,0,2,0,3,70,20,5,10,61,28,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLWD,12,1,4,33,10,16,47,6,15,14,34,53,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWWD,1,5,11,10,33,WLWWWWLWLLWWWDWWW,WWDWWDWLDDDWWWWWW
+PSG,Lille,0-1,/match/paris-saint-germain-fc/lillestrom/1996,1996,36,ligue_1,20,38,2,0,1,1,72,18,10,7,58,32,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLLD,11,4,2,36,14,18,42,7,12,16,24,47,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLWW,3,4,11,14,31,DWWWWDWWWWDWLWWLD,WDWWWDWLWDWLLDWWWW
+FC Martigues,Bastia,3-1,/match/fc-martigues/bastia/1996,1996,36,ligue_1,20,38,0,3,1,20,32,7,6,22,24,54,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDWD,5,2,10,17,25,11,58,12,8,15,42,45,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDWD,2,2,13,15,33,LWLLLLWLDWLWLLLDW,LWWWWWDWWLDWWWWWW
+Metz,Guingamp,3-0,/match/metz/guingamp/1996,1996,36,ligue_1,20,38,0,3,0,6,68,17,11,7,38,27,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLWD,10,3,4,24,13,8,65,13,13,9,32,27,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWDD,4,5,8,13,23,WWWDWWLLDDWLLWWWW,DLWDWDLWLWWLWDWWD
+Olympique Lyonnais,Monaco,3-3,/match/olympique-lyonnais/monaco/1996,1996,36,ligue_1,20,38,1,3,3,12,57,9,17,9,36,36,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDDD,6,10,1,23,15,4,70,17,10,8,53,33,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWWW,6,6,5,28,21,WDDLWDDDDWDDWWWDD,LWLWLDDWWLLDLDDDW
+Lens,Montpellier,2-1,/match/lens/montpellier-hsc/1996,1996,36,ligue_1,20,38,0,2,1,2,71,15,14,6,40,24,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWWD,10,7,1,25,9,5,68,16,9,10,48,37,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLWW,5,4,8,18,22,WDDWWWWLDDWDDDWWWW,WWLDWLWWDDWLLDWLW
+Le Havre,Cannes,0-0,/match/havre-ac/as-cannes/1996,1996,36,ligue_1,20,38,1,0,0,13,54,11,10,14,32,42,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDLW,8,6,3,19,15,15,50,11,7,17,40,48,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWWW,2,4,11,16,30,WDLWWDLWDWDDDWWWL,WWWWWWDWDDLWDLWWW
+Stade Rennais,Nantes,2-2,/match/stade-rennes/nantes/1996,1996,36,ligue_1,20,38,1,2,2,7,67,13,14,8,40,35,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDWD,12,3,2,29,14,10,63,13,12,10,40,38,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDWW,4,5,8,14,25,WWWLWWWWWDDWDWLWW,LWDWLLLDDWWDWWWDW
+Strasbourg,FC Gueugnon,0-0,/match/strasbourg/fc-gueugnon/1996,1996,36,ligue_1,20,38,1,0,0,9,63,13,11,11,44,39,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWWW,11,4,2,31,13,19,41,6,13,16,24,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLLD,2,5,10,10,28,WWWDWDWDWLDLWWWWW,WWLWDDDDWWDWWWWWL
+FC Gueugnon,Stade Rennais,1-0,/match/fc-gueugnon/stade-rennes/1996,1996,37,ligue_1,20,38,0,1,0,19,42,6,14,16,24,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLLDD,4,8,6,14,17,6,69,13,15,8,42,37,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDWDD,1,11,6,11,21,DDLDWLLDLLDWWWDDLD,WWWWDWDDDDWDDLDDDD
+Nantes,Metz,1-0,/match/nantes/metz/1996,1996,37,ligue_1,20,38,0,1,0,10,64,13,13,10,42,40,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDWWD,9,7,2,26,13,4,72,18,11,7,41,27,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLWDW,7,8,3,14,14,WLWDDDDDWDWWLWWWDW,DLDDLLLDWDWLLDDWLD
+Lille,Olympique Lyonnais,2-1,/match/lillestrom/olympique-lyonnais/1996,1996,37,ligue_1,20,38,0,2,1,18,44,8,12,16,25,47,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLWWL,4,8,5,10,16,11,59,9,18,9,39,39,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDDDD,3,7,8,13,21,LLDLWWDDDDLDWDDLW,WWDWLWDDWLWDLWDWDD
+Saint-Étienne,FC Martigues,2-2,/match/saint-etienne/fc-martigues/1996,1996,37,ligue_1,20,38,1,2,2,17,47,6,15,15,34,55,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWWDW,5,10,3,24,20,20,36,8,6,22,27,55,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDWDW,2,4,12,7,29,DDWWWLLDDLWDDDDDWD,WDLWLWWWDWWWWWWWDD
+Guingamp,Auxerre,1-1,/match/guingamp/auxerre/1996,1996,37,ligue_1,20,38,1,1,1,8,65,13,13,10,32,30,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWDDW,9,8,1,19,4,2,74,21,5,10,63,28,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLWDW,8,4,6,28,18,WDWWDDWDWDDLWWDWWD,WDWLLWLWLLDDLWWLLD
+Montpellier,Le Havre,2-0,/match/montpellier-hsc/havre-ac/1996,1996,37,ligue_1,20,38,0,2,0,7,68,16,9,11,49,39,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLWWW,11,5,2,30,15,13,56,11,11,14,32,42,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDLWD,3,4,11,13,27,DWWLWDWDWDWLWWWWDW,WWWWLWWDLDWWWWLDDW
+Monaco,Strasbourg,5-1,/match/monaco/strasbourg/1996,1996,37,ligue_1,20,38,0,5,1,5,71,17,11,8,56,36,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWWWD,11,4,3,25,12,9,65,13,12,11,44,39,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWWWD,2,7,9,13,26,WDLWLWDWDLWDWWWWWW,DDDWWWWDLLWDWDDWWW
+Cannes,Lens,5-2,/match/as-cannes/lens/1996,1996,37,ligue_1,20,38,0,5,2,15,51,11,8,17,40,48,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWWWD,9,3,6,24,18,1,75,16,14,6,42,25,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWWDW,5,7,5,15,15,WLWLWLLDLDWWLDWWWW,WLDLDLDDDLDWWWLWD
+Girondins Bordeaux,PSG,2-2,/match/bordeaux/paris-saint-germain-fc/1996,1996,37,ligue_1,20,38,1,2,2,14,53,10,8,18,40,50,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDWDW,10,5,3,33,15,3,72,18,10,8,58,33,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLLDL,7,6,5,22,18,WWWLWWDDLWLWWWDWDD,DLLLWWDLLDDDDWWLWL
+Bastia,Nice,1-2,/match/bastia/nice/1996,1996,37,ligue_1,20,38,2,1,2,12,58,12,8,16,43,48,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDWDW,10,6,2,27,12,16,48,10,9,17,33,43,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDLWW,2,6,10,10,22,DWWLWWWDWWWDLWDWDD,DDWLDLWWWWWWDDWWDW
+Le Havre,Lens,1-1,/match/havre-ac/lens/1996,1996,38,ligue_1,20,38,1,1,1,13,56,11,11,15,32,44,WWWWDWLLWWWWDDLLWDDWWDWDWDWWLWDWDLWDW,8,7,3,19,15,1,75,16,14,7,44,30,WWDLDDWLWDWLWDLDDDDWLDDDWDWWWWLWWWDWW,5,7,6,17,20,WDLWWDLWDWDDDWWWLD,WLDLDLDDDLDWWWLWDW
+Olympique Lyonnais,Cannes,1-0,/match/olympique-lyonnais/as-cannes/1996,1996,38,ligue_1,20,38,0,1,0,11,59,9,18,10,40,41,WWWDDWDLLWWDDDDWDLDWWDDDLWWWDWWDDDDDW,6,11,1,26,18,15,55,12,8,17,45,50,WWLWWWLWWWLWLDDLWDDWDWLLWDDWLWWWWWWDW,2,5,11,16,30,WDDLWDDDDWDDWWWDDD,WWWWWWDWDDLWDLWWWD
+Stade Rennais,Monaco,2-3,/match/stade-rennes/monaco/1996,1996,38,ligue_1,20,38,2,2,3,7,69,13,15,9,42,38,WWWWWWWDLWWDWDWDWDWWDDDDWDLWDLDWDWDDW,12,4,2,31,16,3,75,18,11,8,61,37,WLDWLLWWLLWDDWDDWLWWLDLWDWLWDWDDWWWDW,6,7,5,31,24,WWWLWWWWWDDWDWLWWD,LWLWLDDWWLLDLDDDWD
+Metz,FC Gueugnon,1-2,/match/metz/fc-gueugnon/1996,1996,38,ligue_1,20,38,2,1,2,5,72,18,11,8,41,28,DWLWDWDDLLWLWDLWLDDWDLWLLDLWDWWWLWDWW,11,3,4,27,13,19,46,7,14,16,25,45,DWDWLLDWWDLLDDDLDLWDWWDWWWWDWWDWLLDDW,2,6,10,10,28,WWWDWWLLDDWLLWWWWW,WWLWDDDDWWDWWWWWLD
+FC Martigues,Guingamp,2-1,/match/fc-martigues/guingamp/1996,1996,38,ligue_1,20,38,0,2,1,20,37,8,7,22,29,57,WLDWLLWLLLWLWWWDLWDWWWLWWWLWLWLDDWDWD,6,2,10,20,26,9,67,13,14,10,33,31,WDDLWWWDDDWWDDLWWDLDWLWWLWWDDWWWWDDWD,4,5,9,13,26,LWLLLLWLDWLWLLLDWW,DLWDWDLWLWWLWDWWDW
+Nice,Saint-Étienne,2-0,/match/nice/saint-etienne/1996,1996,38,ligue_1,20,38,0,2,0,16,50,11,9,17,35,44,DLDWWDLLDWLLWWWWWWWWWWWDLDDWLWLDDLWWL,8,3,7,23,21,17,49,6,16,15,36,57,DWDWWWDWWLWLDDWDLLDWDDDWDWDWDWDWWWDWD,1,5,12,10,35,LWDLWLWWWWWLDLLDLW,WWDWWDWLDDDWWWWWWW
+PSG,Bastia,5-1,/match/paris-saint-germain-fc/bastia/1996,1996,38,ligue_1,20,38,0,5,1,4,73,18,11,8,60,35,DDLWLWLWWWWDDWLWLDWDWDDDWWLWWLWWLLDLD,11,4,3,36,15,12,58,12,8,17,44,50,DLWWWLWWWWWWWDDWWWWWLDDWLWWWDWWWDWDWL,2,2,14,16,36,DWWWWDWWWWDWLWWLDL,LWWWWWDWWLDWWWWWWW
+Lille,Girondins Bordeaux,0-2,/match/lillestrom/bordeaux/1996,1996,38,ligue_1,20,38,2,0,2,18,48,9,12,16,27,48,WLDLWDWLWWDWWDLDWDDWDLLLDDWWDWDWLWWLW,5,8,5,12,17,14,55,10,9,18,42,52,WWWWWLDWWWWDWDWLDWWWLWWWWDWWDWWWDWDWD,0,3,15,7,35,LLDLWWDDDDLDWDDLWW,WWDWWWWDWWWWDWWWWW
+Auxerre,Nantes,2-1,/match/auxerre/nantes/1996,1996,38,ligue_1,20,38,0,2,1,2,75,21,6,10,64,29,WWDLWWLWLWWLWWLLWLLDLDWLWWWWDWLWLWDWD,13,1,4,35,10,8,68,14,13,10,43,40,WLLWWDDWDDLDLDLWDDDWWWWLDWWWWWWDDWWDW,4,6,8,16,27,WLWWWWLWLLWWWDWWWW,LWDWLLLDDWWDWWWDWD
+Strasbourg,Montpellier,1-0,/match/strasbourg/montpellier-hsc/1996,1996,38,ligue_1,20,38,0,1,0,10,65,13,12,12,45,44,DWDDWWWWDWWWDDWLDLWWLDDLWWDWDWWWWWWDW,11,5,2,31,13,6,72,17,9,11,51,39,DWWWWLLDWWDLWWDWWDDWDLWWLWLWDWWDLWWWW,5,4,9,19,24,WWWDWDWDWLDLWWWWWD,WWLDWLWWDDWLLDWLWW

@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Roma,Udinese,4-0,/match/roma/udinese/2017,2017,1,serie_a,20,38,0,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Juventus,Fiorentina,2-1,/match/juventus-fc/fiorentina/2017,2017,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Milan,Torino,3-2,/match/milan/torino-fc/2017,2017,1,serie_a,20,38,0,3,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Chievo,Inter,2-0,/match/chievo/internazionale/2017,2017,1,serie_a,20,38,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Empoli,Sampdoria,0-1,/match/empoli-fc/sampdoria/2017,2017,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Genoa,Cagliari,3-1,/match/genoa/cagliari/2017,2017,1,serie_a,20,38,0,3,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Bologna,Crotone,1-0,/match/bologna/fc-crotone/2017,2017,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Palermo FC,Sassuolo,0-1,/match/palermo/us-sassuolo-calcio/2017,2017,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Pescara,Napoli,2-2,/match/pescara-calcio/napoli/2017,2017,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Atalanta,Lazio,3-4,/match/atalanta/lazio/2017,2017,1,serie_a,20,38,2,3,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lazio,Juventus,0-1,/match/lazio/juventus-fc/2017,2017,2,serie_a,20,38,2,0,1,7,1,0,0,4,3,L,0,0,0,0,0,1,1,0,0,2,1,W,0,0,0,0,0,,
-Napoli,Milan,4-2,/match/napoli/milan/2017,2017,2,serie_a,20,38,0,4,2,11,0,1,0,2,2,D,0,0,0,0,0,3,1,0,0,3,2,W,0,0,0,0,0,,
-Inter,Palermo FC,1-1,/match/internazionale/palermo/2017,2017,2,serie_a,20,38,1,1,1,15,0,0,1,0,2,W,0,0,0,0,0,16,0,0,1,0,1,L,0,0,0,0,0,,
-Torino,Bologna,5-1,/match/torino-fc/bologna/2017,2017,2,serie_a,20,38,0,5,1,12,0,0,1,2,3,W,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
-Sassuolo,Pescara,0-3,/match/us-sassuolo-calcio/pescara-calcio/2017,2017,2,serie_a,20,38,2,0,3,10,1,0,0,1,0,L,0,0,0,0,0,8,0,1,0,2,2,D,0,0,0,0,0,,
-Sampdoria,Atalanta,2-1,/match/sampdoria/atalanta/2017,2017,2,serie_a,20,38,0,2,1,9,1,0,0,1,0,L,0,0,0,0,0,18,0,0,1,3,4,L,0,0,0,0,0,,
-Cagliari,Roma,2-2,/match/cagliari/roma/2017,2017,2,serie_a,20,38,1,2,2,13,0,0,1,1,3,W,0,0,0,0,0,4,1,0,0,4,0,W,0,0,0,0,0,,
-Fiorentina,Chievo,1-0,/match/fiorentina/chievo/2017,2017,2,serie_a,20,38,0,1,0,20,0,0,1,1,2,W,0,0,0,0,0,5,1,0,0,2,0,W,0,0,0,0,0,,
-Crotone,Genoa,1-3,/match/fc-crotone/genoa/2017,2017,2,serie_a,20,38,2,1,3,17,0,0,1,0,1,W,0,0,0,0,0,6,1,0,0,3,1,W,0,0,0,0,0,,
-Udinese,Empoli,2-0,/match/udinese/empoli-fc/2017,2017,2,serie_a,20,38,0,2,0,14,0,0,1,0,4,W,0,0,0,0,0,19,0,0,1,0,1,L,0,0,0,0,0,,
-Juventus,Sassuolo,3-1,/match/juventus-fc/us-sassuolo-calcio/2017,2017,3,serie_a,20,38,0,3,1,1,2,0,0,3,1,WL,1,0,0,2,1,14,1,0,1,1,3,LL,1,0,0,1,0,W,L
-Palermo FC,Napoli,0-3,/match/palermo/napoli/2017,2017,3,serie_a,20,38,2,0,3,17,0,1,1,1,2,LD,0,0,1,0,1,4,1,1,0,6,4,DW,0,1,0,2,2,L,D
-Bologna,Cagliari,2-1,/match/bologna/cagliari/2017,2017,3,serie_a,20,38,0,2,1,9,1,0,1,2,5,WW,1,0,0,1,0,15,0,1,1,3,5,WD,0,0,1,1,3,W,W
-Milan,Udinese,0-1,/match/milan/udinese/2017,2017,3,serie_a,20,38,2,0,1,8,1,0,1,5,6,WW,1,0,0,3,2,11,1,0,1,2,4,WW,0,0,1,0,4,W,W
-Atalanta,Torino,2-1,/match/atalanta/torino-fc/2017,2017,3,serie_a,20,38,0,2,1,19,0,0,2,4,6,LW,0,0,1,3,4,10,1,0,1,7,4,WW,0,0,1,2,3,L,W
-Chievo,Lazio,1-1,/match/chievo/lazio/2017,2017,3,serie_a,20,38,1,1,1,6,1,0,1,2,1,WW,1,0,0,2,0,13,1,0,1,4,4,LL,1,0,0,4,3,W,L
-Roma,Sampdoria,3-2,/match/roma/sampdoria/2017,2017,3,serie_a,20,38,0,3,2,5,1,1,0,6,2,WD,1,0,0,4,0,3,2,0,0,3,1,LW,1,0,0,1,0,W,L
-Pescara,Inter,1-2,/match/pescara-calcio/internazionale/2017,2017,3,serie_a,20,38,2,1,2,7,1,1,0,5,2,DL,0,1,0,2,2,16,0,1,1,1,3,WD,0,0,1,0,2,D,W
-Empoli,Crotone,2-1,/match/empoli-fc/fc-crotone/2017,2017,3,serie_a,20,38,0,2,1,20,0,0,2,0,3,LW,0,0,1,0,1,18,0,0,2,1,4,WL,0,0,1,0,1,L,W
-Genoa,Fiorentina,1-0,/match/genoa/fiorentina/2017,2017,3,serie_a,20,38,0,1,0,2,2,0,0,6,2,WL,1,0,0,3,1,12,1,0,1,2,2,WW,0,0,1,1,2,W,W
-Sampdoria,Milan,0-1,/match/sampdoria/milan/2017,2017,4,serie_a,20,38,2,0,1,8,2,0,1,5,4,LWW,1,0,0,2,1,10,1,0,2,5,7,WWL,0,0,1,2,4,W,W
-Lazio,Pescara,3-0,/match/lazio/pescara-calcio/2017,2017,4,serie_a,20,38,0,3,0,16,1,1,1,5,5,LLD,0,0,1,0,1,9,1,1,1,6,4,DLL,1,0,0,3,0,L,L
-Napoli,Bologna,3-1,/match/napoli/bologna/2017,2017,4,serie_a,20,38,0,3,1,5,2,1,0,9,4,DWL,1,0,0,4,2,4,2,0,1,4,6,WWW,0,0,1,1,5,W,W
-Udinese,Chievo,1-2,/match/udinese/chievo/2017,2017,4,serie_a,20,38,2,1,2,6,2,0,1,3,4,WWL,1,0,0,2,0,7,1,1,1,3,2,WWD,0,0,1,0,1,W,W
-Crotone,Palermo FC,1-1,/match/fc-crotone/palermo/2017,2017,4,serie_a,20,38,1,1,1,20,0,0,3,2,6,WLW,0,0,1,1,3,19,0,1,2,1,5,LDL,0,1,0,1,1,L,D
-Sassuolo,Genoa,2-0,/match/us-sassuolo-calcio/genoa/2017,2017,4,serie_a,20,38,0,2,0,17,1,0,2,2,6,LLW,0,0,1,0,3,2,3,0,0,7,2,WLW,1,0,0,3,1,L,L
-Torino,Empoli,0-0,/match/torino-fc/empoli-fc/2017,2017,4,serie_a,20,38,1,0,0,11,1,0,2,8,6,WWW,1,0,0,5,1,15,1,0,2,2,4,LWW,0,0,1,0,2,W,W
-Cagliari,Atalanta,3-0,/match/cagliari/atalanta/2017,2017,4,serie_a,20,38,0,3,0,18,0,1,2,4,7,WDW,0,1,0,2,2,14,1,0,2,6,7,LWW,0,0,1,1,2,D,W
-Inter,Juventus,2-1,/match/internazionale/juventus-fc/2017,2017,4,serie_a,20,38,0,2,1,13,1,1,1,3,4,WDL,0,1,0,1,1,1,3,0,0,6,2,WLW,1,0,0,1,0,D,L
-Fiorentina,Roma,1-0,/match/fiorentina/roma/2017,2017,4,serie_a,20,38,0,1,0,12,1,0,2,2,3,WWW,1,0,0,1,0,3,2,1,0,9,4,WDW,0,1,0,2,2,W,D
-Milan,Lazio,2-0,/match/milan/lazio/2017,2017,5,serie_a,20,38,0,2,0,13,2,0,2,6,7,WWLL,1,0,1,3,3,9,2,1,1,8,5,LLDW,1,1,0,5,4,WL,LD
-Bologna,Sampdoria,2-0,/match/bologna/sampdoria/2017,2017,5,serie_a,20,38,0,2,0,6,2,0,2,5,9,WWWW,2,0,0,3,1,14,2,0,2,5,5,LWWL,1,0,1,3,3,WW,LW
-Atalanta,Palermo FC,0-1,/match/atalanta/palermo/2017,2017,5,serie_a,20,38,2,0,1,17,1,0,3,6,10,LWWW,1,0,1,5,5,19,0,2,2,2,6,LDLD,0,2,0,2,2,LW,DD
-Roma,Crotone,4-0,/match/roma/fc-crotone/2017,2017,5,serie_a,20,38,0,4,0,4,2,1,1,9,5,WDWW,2,0,0,7,2,20,0,1,3,3,7,WLWD,0,0,2,1,3,WW,WW
-Pescara,Torino,0-0,/match/pescara-calcio/torino-fc/2017,2017,5,serie_a,20,38,1,0,0,18,1,1,2,6,7,DLLW,0,1,1,3,4,12,1,1,2,8,6,WWWD,0,0,2,3,5,DL,WW
-Juventus,Cagliari,4-0,/match/juventus-fc/cagliari/2017,2017,5,serie_a,20,38,0,4,0,2,3,0,1,7,4,WLWW,2,0,0,5,2,10,1,1,2,7,7,WDWW,0,0,2,2,5,WW,WW
-Genoa,Napoli,0-0,/match/genoa/napoli/2017,2017,5,serie_a,20,38,1,0,0,3,3,0,1,7,4,WLWW,2,0,0,4,1,1,3,1,0,12,5,DWLW,1,1,0,5,2,WW,DL
-Empoli,Inter,0-2,/match/empoli-fc/internazionale/2017,2017,5,serie_a,20,38,2,0,2,16,1,1,2,2,4,LWWD,1,0,1,2,2,8,2,1,1,5,5,WDLW,1,0,1,2,3,LW,WL
-Chievo,Sassuolo,2-1,/match/chievo/us-sassuolo-calcio/2017,2017,5,serie_a,20,38,0,2,1,7,2,1,1,5,3,WWDL,1,1,0,3,1,11,2,0,2,4,6,LLWW,1,0,1,2,3,WD,LW
-Udinese,Fiorentina,2-2,/match/udinese/fiorentina/2017,2017,5,serie_a,20,38,1,2,2,15,2,0,2,4,6,WWLL,1,0,1,3,2,5,2,0,2,3,3,WWWW,0,0,2,1,3,WL,WW
-Palermo FC,Juventus,0-1,/match/palermo/juventus-fc/2017,2017,6,serie_a,20,38,2,0,1,19,1,2,2,3,6,LDLDL,0,0,2,0,4,1,4,0,1,11,4,WLWWW,1,0,1,2,2,LL,LW
-Napoli,Chievo,2-0,/match/napoli/chievo/2017,2017,6,serie_a,20,38,0,2,0,3,3,2,0,12,5,DWLWD,2,0,0,7,3,6,3,1,1,7,4,WWDLW,1,0,1,2,2,WW,WL
-Torino,Roma,3-1,/match/torino-fc/roma/2017,2017,6,serie_a,20,38,0,3,1,12,1,2,2,8,6,WWWDD,1,1,0,5,1,2,3,1,1,13,5,WDWWW,0,1,1,2,3,WD,DW
-Sassuolo,Udinese,1-0,/match/us-sassuolo-calcio/udinese/2017,2017,6,serie_a,20,38,0,1,0,14,2,0,3,5,8,LLWWW,1,0,1,2,3,10,2,1,2,6,8,WWLLD,1,0,1,1,4,LW,WL
-Lazio,Empoli,2-0,/match/lazio/empoli-fc/2017,2017,6,serie_a,20,38,0,2,0,11,2,1,2,8,7,LLDWW,1,0,1,3,1,17,1,1,3,2,6,LWWDL,0,1,1,0,2,LW,WD
-Inter,Bologna,1-1,/match/internazionale/bologna/2017,2017,6,serie_a,20,38,1,1,1,7,3,1,1,7,5,WDLWL,1,1,0,3,2,5,3,0,2,7,9,WWWWW,0,0,2,2,8,DW,WW
-Genoa,Pescara,1-1,/match/genoa/pescara-calcio/2017,2017,6,serie_a,20,38,1,1,1,4,3,1,1,7,4,WLWWD,2,1,0,4,1,13,1,2,2,6,7,DLLWD,1,0,1,3,3,WWD,LW
-Fiorentina,Milan,0-0,/match/fiorentina/milan/2017,2017,6,serie_a,20,38,1,0,0,9,2,1,2,5,5,WWWWD,2,0,0,2,0,8,3,0,2,8,7,WWLLW,1,0,1,3,4,WW,WL
-Crotone,Atalanta,1-3,/match/fc-crotone/atalanta/2017,2017,6,serie_a,20,38,2,1,3,20,0,1,4,3,11,WLWDW,0,1,1,2,4,18,1,0,4,6,11,LWWWL,0,0,2,1,5,LD,WW
-Cagliari,Sampdoria,2-1,/match/cagliari/sampdoria/2017,2017,6,serie_a,20,38,0,2,1,16,1,1,3,7,11,WDWWW,1,1,0,5,2,15,2,0,3,5,7,LWWLW,1,0,2,3,5,DW,LWW
-Pescara,Chievo,0-2,/match/pescara-calcio/chievo/2017,2017,7,serie_a,20,38,2,0,2,15,1,3,2,7,8,DLLWDD,0,2,1,3,4,6,3,1,2,7,6,WWDLWW,1,0,2,2,4,DLD,WLW
-Udinese,Lazio,0-3,/match/udinese/lazio/2017,2017,7,serie_a,20,38,2,0,3,14,2,1,3,6,9,WWLLDW,1,1,1,5,4,9,3,1,2,10,7,LLDWWW,1,1,1,5,6,WLD,LDW
-Empoli,Juventus,0-3,/match/empoli-fc/juventus-fc/2017,2017,7,serie_a,20,38,2,0,3,18,1,1,4,2,8,LWWDLW,1,0,2,2,4,1,5,0,1,12,4,WLWWWL,2,0,1,3,2,LWL,LWL
-Cagliari,Crotone,2-1,/match/cagliari/fc-crotone/2017,2017,7,serie_a,20,38,0,2,1,13,2,1,3,9,12,WDWWWW,2,1,0,7,3,20,0,1,5,4,14,WLWDWL,0,0,3,1,7,DWW,WWW
-Bologna,Genoa,0-1,/match/bologna/genoa/2017,2017,7,serie_a,20,38,2,0,1,5,3,1,2,8,10,WWWWWD,3,0,0,5,1,3,3,2,1,8,5,WLWWDD,1,0,1,3,3,WWW,LW
-Sampdoria,Palermo FC,1-1,/match/sampdoria/palermo/2017,2017,7,serie_a,20,38,1,1,1,16,2,0,4,6,9,LWWLWW,1,0,1,2,2,19,1,2,3,3,7,LDLDLL,1,2,0,3,2,WL,DDL
-Atalanta,Napoli,1-0,/match/atalanta/napoli/2017,2017,7,serie_a,20,38,0,1,0,17,2,0,4,9,12,LWWWLL,1,0,2,5,6,2,4,2,0,14,5,DWLWDW,1,2,0,5,2,LWL,DLD
-Milan,Sassuolo,4-3,/match/milan/us-sassuolo-calcio/2017,2017,7,serie_a,20,38,0,4,3,11,3,1,2,8,7,WWLLWD,2,0,1,5,3,12,3,0,3,6,8,LLWWWW,1,0,2,3,5,WLW,LWW
-Torino,Fiorentina,2-1,/match/torino-fc/fiorentina/2017,2017,7,serie_a,20,38,0,2,1,8,2,2,2,11,7,WWWDDW,2,1,0,8,2,10,2,2,2,5,5,WWWWDD,0,1,2,3,5,WDW,WWD
-Roma,Inter,2-1,/match/roma/internazionale/2017,2017,7,serie_a,20,38,0,2,1,4,3,1,2,14,8,WDWWWW,3,0,0,11,2,7,3,2,1,8,6,WDLWLD,2,0,1,4,3,WWW,WLL
-Napoli,Roma,1-3,/match/napoli/roma/2017,2017,8,serie_a,20,38,2,1,3,4,4,2,1,14,6,DWLWDWW,3,0,0,9,3,2,4,1,2,16,9,WDWWWWW,0,1,2,3,6,WWW,DWW
-Pescara,Sampdoria,1-1,/match/pescara-calcio/sampdoria/2017,2017,8,serie_a,20,38,1,1,1,17,1,3,3,7,10,DLLWDDL,0,2,2,3,6,16,2,1,4,7,10,LWWLWWD,1,0,3,4,7,DLDL,LWWW
-Juventus,Udinese,2-1,/match/juventus-fc/udinese/2017,2017,8,serie_a,20,38,0,2,1,1,6,0,1,15,4,WLWWWLL,3,0,0,9,2,15,2,1,4,6,12,WWLLDWL,1,0,2,1,5,WWW,WLW
-Fiorentina,Atalanta,0-0,/match/fiorentina/atalanta/2017,2017,8,serie_a,20,38,1,0,0,12,2,2,3,6,7,WWWWDDW,2,1,0,2,0,14,3,0,4,10,12,LWWWLLW,1,0,2,4,6,WWD,WWL
-Sassuolo,Crotone,2-1,/match/us-sassuolo-calcio/fc-crotone/2017,2017,8,serie_a,20,38,0,2,1,13,3,0,4,9,12,LLWWWWW,2,0,1,3,3,20,0,1,6,5,16,WLWDWLW,0,0,4,2,9,LWW,WWWW
-Lazio,Bologna,1-1,/match/lazio/bologna/2017,2017,8,serie_a,20,38,1,1,1,9,4,1,2,13,7,LLDWWWL,2,0,1,5,1,10,3,1,3,8,11,WWWWWDL,0,1,2,3,9,LWW,WWD
-Inter,Cagliari,1-2,/match/internazionale/cagliari/2017,2017,8,serie_a,20,38,2,1,2,11,3,2,2,9,8,WDLWLDW,1,2,0,4,3,8,3,1,3,11,13,WDWWWWW,0,0,3,2,9,DWD,WWW
-Genoa,Empoli,0-0,/match/genoa/empoli-fc/2017,2017,8,serie_a,20,38,1,0,0,3,4,2,1,9,5,WLWWDDL,2,2,0,5,2,18,1,1,5,2,11,LWWDLWL,0,1,2,0,4,WWDD,WDW
-Chievo,Milan,1-3,/match/chievo/milan/2017,2017,8,serie_a,20,38,2,1,3,7,4,1,2,9,6,WWDLWWL,2,1,0,5,2,6,4,1,2,12,10,WWLLWDW,1,1,1,3,4,WDW,WLD
-Palermo FC,Torino,1-4,/match/palermo/torino-fc/2017,2017,8,serie_a,20,38,2,1,4,19,1,3,3,4,8,LDLDLLD,0,0,3,0,5,5,3,2,2,13,8,WWWDDWW,0,1,2,3,5,LLL,WWD
-Sampdoria,Genoa,2-1,/match/sampdoria/genoa/2017,2017,9,serie_a,20,38,0,2,1,15,2,2,4,8,11,LWWLWWDD,1,1,1,3,3,3,4,3,1,9,5,WLWWDDLD,2,0,1,4,3,WLD,LWL
-Milan,Juventus,1-0,/match/milan/juventus-fc/2017,2017,9,serie_a,20,38,0,1,0,5,5,1,2,15,11,WWLLWDWL,3,0,1,9,6,1,7,0,1,17,5,WLWWWLLW,3,0,1,6,2,WLWW,LWLL
-Udinese,Pescara,3-1,/match/udinese/pescara-calcio/2017,2017,9,serie_a,20,38,0,3,1,17,2,1,5,7,14,WWLLDWLW,1,1,2,5,7,16,1,4,3,8,11,DLLWDDLD,1,1,1,4,4,WLDL,LWD
-Crotone,Napoli,1-2,/match/fc-crotone/napoli/2017,2017,9,serie_a,20,38,2,1,2,20,0,1,7,6,18,WLWDWLWW,0,1,2,3,7,6,4,2,2,15,9,DWLWDWWL,1,2,1,5,3,LDL,DLDW
-Empoli,Chievo,0-0,/match/empoli-fc/chievo/2017,2017,9,serie_a,20,38,1,0,0,18,1,2,5,2,11,LWWDLWLD,1,0,3,2,7,10,4,1,3,10,9,WWDLWWLL,2,0,2,4,4,LWLL,WLWL
-Cagliari,Fiorentina,3-5,/match/cagliari/fiorentina/2017,2017,9,serie_a,20,38,2,3,5,7,4,1,3,13,14,WDWWWWWL,3,1,0,9,4,12,2,3,3,6,7,WWWWDDWD,0,1,3,4,7,DWWW,WWDW
-Torino,Lazio,2-2,/match/torino-fc/lazio/2017,2017,9,serie_a,20,38,1,2,2,4,4,2,2,17,9,WWWDDWWL,3,1,0,10,3,8,4,2,2,14,8,LLDWWWLD,2,1,1,8,6,WDWW,LDWL
-Atalanta,Inter,2-1,/match/atalanta/internazionale/2017,2017,9,serie_a,20,38,0,2,1,14,3,1,4,10,12,LWWWLLWD,2,0,2,6,6,13,3,2,3,10,10,WDLWLDWL,2,0,2,5,5,LWLW,WLLW
-Bologna,Sassuolo,1-1,/match/bologna/us-sassuolo-calcio/2017,2017,9,serie_a,20,38,1,1,1,11,3,2,3,9,12,WWWWWDLD,3,0,1,5,2,9,4,0,4,11,13,LLWWWWWW,1,0,3,6,9,WWWL,LWWW
-Roma,Palermo FC,4-1,/match/roma/palermo/2017,2017,9,serie_a,20,38,0,4,1,2,5,1,2,19,10,WDWWWWWL,4,0,0,13,3,19,1,3,4,5,12,LDLDLLDL,1,3,0,4,3,WWWW,DDLD
-Genoa,Milan,3-0,/match/genoa/milan/2017,2017,10,serie_a,20,38,0,3,0,5,4,3,2,10,7,WLWWDDLDW,2,3,0,5,2,3,6,1,2,16,11,WWLLWDWLW,2,1,1,6,5,WWDDD,WLDL
-Chievo,Bologna,1-1,/match/chievo/bologna/2017,2017,10,serie_a,20,38,1,1,1,11,4,2,3,10,9,WWDLWWLLD,2,1,1,6,5,8,3,3,3,10,13,WWWWWDLDD,0,2,2,4,10,WDWL,WWDD
-Pescara,Atalanta,0-1,/match/pescara-calcio/atalanta/2017,2017,10,serie_a,20,38,2,0,1,17,1,4,4,9,14,DLLWDDLDW,0,3,2,4,7,13,4,1,4,12,13,LWWWLLWDW,1,1,2,4,6,DLDLD,WWLD
-Napoli,Empoli,2-0,/match/napoli/empoli-fc/2017,2017,10,serie_a,20,38,0,2,0,6,5,2,2,17,10,DWLWDWWLL,3,0,1,10,6,18,1,3,5,2,11,LWWDLWLDD,0,2,2,0,4,WWWL,WDWD
-Lazio,Cagliari,4-1,/match/lazio/cagliari/2017,2017,10,serie_a,20,38,0,4,1,7,4,3,2,16,10,LLDWWWLDD,2,1,1,6,2,9,4,1,4,16,19,WDWWWWWLL,1,0,3,4,10,LWWD,WWWL
-Juventus,Sampdoria,4-1,/match/juventus-fc/sampdoria/2017,2017,10,serie_a,20,38,0,4,1,2,7,0,2,17,6,WLWWWLLWW,4,0,0,11,3,14,3,2,4,10,12,LWWLWWDDW,1,1,3,5,8,WWWW,LWWWD
-Inter,Torino,2-1,/match/internazionale/torino-fc/2017,2017,10,serie_a,20,38,0,2,1,15,3,2,4,11,12,WDLWLDWLW,1,2,1,5,5,4,4,3,2,19,11,WWWDDWWLD,1,1,2,7,6,DWDL,WWDL
-Fiorentina,Crotone,1-1,/match/fiorentina/fc-crotone/2017,2017,10,serie_a,20,38,1,1,1,12,3,3,3,11,10,WWWWDDWDL,2,2,0,2,0,20,0,1,8,7,20,WLWDWLWWL,0,0,5,3,11,WWDD,WWWWW
-Sassuolo,Roma,1-3,/match/us-sassuolo-calcio/roma/2017,2017,10,serie_a,20,38,2,1,3,10,4,1,4,12,14,LLWWWWWWD,3,0,1,5,4,1,6,1,2,23,11,WDWWWWWLW,1,1,2,6,7,LWWW,DWWL
-Palermo FC,Udinese,1-3,/match/palermo/udinese/2017,2017,10,serie_a,20,38,2,1,3,19,1,3,5,6,16,LDLDLLDLW,0,0,4,1,9,16,3,1,5,10,15,WWLLDWLWW,1,0,3,2,7,LLLL,WLWW
-Bologna,Fiorentina,0-1,/match/bologna/fiorentina/2017,2017,11,serie_a,20,38,2,0,1,11,3,4,3,11,14,WWWWWDLDDD,3,1,1,6,3,9,3,4,3,12,11,WWWWDDWDLD,1,1,3,9,10,WWWLD,WWDWL
-Juventus,Napoli,2-1,/match/juventus-fc/napoli/2017,2017,11,serie_a,20,38,0,2,1,1,8,0,2,21,7,WLWWWLLWWW,5,0,0,15,4,4,6,2,2,19,10,DWLWDWWLLW,2,2,1,7,4,WWWWW,DLDWL
-Atalanta,Genoa,3-0,/match/atalanta/genoa/2017,2017,11,serie_a,20,38,0,3,0,8,5,1,4,13,13,LWWWLLWDWL,3,0,2,8,7,3,5,3,2,13,7,WLWWDDLDWW,2,0,2,5,5,LWLWW,LWLW
-Crotone,Chievo,2-0,/match/fc-crotone/chievo/2017,2017,11,serie_a,20,38,0,2,0,20,0,2,8,8,21,WLWDWLWWLD,0,1,3,4,9,10,4,3,3,11,10,WWDLWWLLDD,2,1,2,4,4,LDLL,WLWLD
-Empoli,Roma,0-0,/match/empoli-fc/roma/2017,2017,11,serie_a,20,38,1,0,0,18,1,3,6,2,13,LWWDLWLDDW,1,1,3,2,7,2,7,1,2,26,12,WDWWWWWLWL,2,1,2,9,8,LWLLD,DWWLL
-Lazio,Sassuolo,2-1,/match/lazio/us-sassuolo-calcio/2017,2017,11,serie_a,20,38,0,2,1,6,5,3,2,20,11,LLDWWWLDDW,3,1,1,10,3,14,4,1,5,13,17,LLWWWWWWDL,1,1,3,7,10,LWWDW,LWWWD
-Milan,Pescara,1-0,/match/milan/pescara-calcio/2017,2017,11,serie_a,20,38,0,1,0,5,6,1,3,16,14,WWLLWDWLWW,4,0,1,10,6,17,1,4,5,9,15,DLLWDDLDWL,1,1,2,5,7,WLWWW,LWDW
-Sampdoria,Inter,1-0,/match/sampdoria/internazionale/2017,2017,11,serie_a,20,38,0,1,0,16,3,2,5,11,16,LWWLWWDDWW,2,1,1,5,4,13,4,2,4,13,13,WDLWLDWLWW,2,0,3,6,7,WLDW,WLLWW
-Udinese,Torino,2-2,/match/udinese/torino-fc/2017,2017,11,serie_a,20,38,1,2,2,15,4,1,5,13,16,WWLLDWLWWL,2,1,2,8,8,7,4,3,3,20,13,WWWDDWWLDW,1,1,3,8,8,WLDLW,WWDLW
-Cagliari,Palermo FC,2-1,/match/cagliari/palermo/2017,2017,11,serie_a,20,38,0,2,1,12,4,1,5,17,23,WDWWWWWLLW,3,1,1,12,9,19,1,3,6,7,19,LDLDLLDLWL,1,3,1,5,7,DWWWL,DDLDW
-Torino,Cagliari,5-1,/match/torino-fc/cagliari/2017,2017,12,serie_a,20,38,0,5,1,9,4,4,3,22,15,WWWDDWWLDWD,3,2,0,12,5,8,5,1,5,19,24,WDWWWWWLLWW,1,0,4,5,14,WDWWD,WWWLW
-Napoli,Lazio,1-1,/match/napoli/lazio/2017,2017,12,serie_a,20,38,1,1,1,6,6,2,3,20,12,DWLWDWWLLWW,4,0,1,12,6,4,6,3,2,22,12,LLDWWWLDDWW,2,2,1,10,8,WWWLW,LDWLD
-Pescara,Empoli,0-4,/match/pescara-calcio/empoli-fc/2017,2017,12,serie_a,20,38,2,0,4,18,1,4,6,9,16,DLLWDDLDWLW,0,3,3,4,8,17,1,4,6,2,13,LWWDLWLDDWD,0,2,3,0,6,DLDLDL,WDWDW
-Sassuolo,Atalanta,0-3,/match/us-sassuolo-calcio/atalanta/2017,2017,12,serie_a,20,38,2,0,3,16,4,1,6,14,19,LLWWWWWWDLW,3,0,2,6,7,7,6,1,4,16,13,LWWWLLWDWLW,2,1,2,5,6,LWWWL,WWLDL
-Palermo FC,Milan,1-2,/match/palermo/milan/2017,2017,12,serie_a,20,38,2,1,2,20,1,3,7,8,21,LDLDLLDLWLW,0,0,5,2,12,3,7,1,3,17,14,WWLLWDWLWWW,2,1,2,6,8,LLLLL,WLDLW
-Genoa,Udinese,1-1,/match/genoa/udinese/2017,2017,12,serie_a,20,38,1,1,1,5,5,3,3,13,10,WLWWDDLDWWW,3,3,0,8,2,15,4,2,5,15,18,WWLLDWLWWLD,2,0,3,5,8,WWDDDW,WLWWL
-Chievo,Juventus,1-2,/match/chievo/juventus-fc/2017,2017,12,serie_a,20,38,2,1,2,13,4,3,4,11,12,WWDLWWLLDDW,2,2,1,7,6,1,9,0,2,23,8,WLWWWLLWWWW,3,0,2,6,3,WDWLD,LWLLW
-Inter,Crotone,3-0,/match/internazionale/fc-crotone/2017,2017,12,serie_a,20,38,0,3,0,14,4,2,5,13,14,WDLWLDWLWWW,2,2,1,7,6,19,1,2,8,10,21,WLWDWLWWLDW,0,1,5,4,12,DWDLW,WWWWWD
-Fiorentina,Sampdoria,1-1,/match/fiorentina/sampdoria/2017,2017,12,serie_a,20,38,1,1,1,10,4,4,3,13,11,WWWWDDWDLDL,2,3,0,3,1,11,4,2,5,12,16,LWWLWWDDWWW,1,1,4,6,12,WWDDD,LWWWDW
-Roma,Bologna,3-0,/match/roma/bologna/2017,2017,12,serie_a,20,38,0,3,0,2,7,2,2,26,12,WDWWWWWLWLD,5,0,0,17,4,12,3,4,4,11,15,WWWWWDLDDDL,0,3,2,5,11,WWWWW,WWDDD
-Chievo,Cagliari,1-0,/match/chievo/cagliari/2017,2017,13,serie_a,20,38,0,1,0,13,4,3,5,12,14,WWDLWWLLDDWL,2,2,2,8,8,11,5,1,6,20,29,WDWWWWWLLWWW,1,0,5,6,19,WDWLDL,WWWLWW
-Udinese,Napoli,1-2,/match/udinese/napoli/2017,2017,13,serie_a,20,38,2,1,2,15,4,3,5,16,19,WWLLDWLWWLDD,2,2,2,10,10,6,6,3,3,21,13,DWLWDWWLLWWD,2,2,2,8,6,WLDLWD,DLDWLW
-Juventus,Pescara,3-0,/match/juventus-fc/pescara-calcio/2017,2017,13,serie_a,20,38,0,3,0,1,10,0,2,25,9,WLWWWLLWWWWL,6,0,0,17,5,18,1,4,7,9,20,DLLWDDLDWLWL,1,1,3,5,8,WWWWWW,LWDWW
-Sampdoria,Sassuolo,3-2,/match/sampdoria/us-sassuolo-calcio/2017,2017,13,serie_a,20,38,0,3,2,12,4,3,5,13,17,LWWLWWDDWWWD,3,1,1,6,4,16,4,1,7,14,22,LLWWWWWWDLWL,1,1,4,8,12,WLDWW,LWWWDW
-Crotone,Torino,0-2,/match/fc-crotone/torino-fc/2017,2017,13,serie_a,20,38,2,0,2,19,1,2,9,10,24,WLWDWLWWLDWW,1,1,3,6,9,7,5,4,3,27,16,WWWDDWWLDWDW,1,2,3,10,10,LDLLW,WWDLWD
-Empoli,Fiorentina,0-4,/match/empoli-fc/fiorentina/2017,2017,13,serie_a,20,38,2,0,4,17,2,4,6,6,13,LWWDLWLDDWDL,1,2,3,2,7,9,4,5,3,14,12,WWWWDDWDLDLD,2,1,3,10,10,LWLLDD,WWDWLL
-Bologna,Palermo FC,3-1,/match/bologna/palermo/2017,2017,13,serie_a,20,38,0,3,1,14,3,4,5,11,18,WWWWWDLDDDLW,3,1,2,6,4,20,1,3,8,9,23,LDLDLLDLWLWL,1,3,2,6,9,WWWLDL,DDLDWW
-Lazio,Genoa,3-1,/match/lazio/genoa/2017,2017,13,serie_a,20,38,0,3,1,4,6,4,2,23,13,LLDWWWLDDWWD,4,1,1,12,4,5,5,4,3,14,11,WLWWDDLDWWWD,2,0,3,5,8,LWWDWW,LWLWW
-Atalanta,Roma,2-1,/match/atalanta/roma/2017,2017,13,serie_a,20,38,0,2,1,8,7,1,4,19,13,LWWWLLWDWLWL,4,0,2,11,7,2,8,2,2,29,12,WDWWWWWLWLDW,2,2,2,9,8,LWLWWW,DWWLLD
-Milan,Inter,2-2,/match/milan/internazionale/2017,2017,13,serie_a,20,38,1,2,2,3,8,1,3,19,15,WWLLWDWLWWWL,5,0,1,11,6,10,5,2,5,16,14,WDLWLDWLWWWW,2,0,4,6,8,WLWWWW,WLLWWW
-Torino,Chievo,2-1,/match/torino-fc/chievo/2017,2017,14,serie_a,20,38,0,2,1,7,6,4,3,29,16,WWWDDWWLDWDWL,4,2,0,17,6,13,5,3,5,13,14,WWDLWWLLDDWLW,2,1,3,4,6,WDWWDW,WLWLDW
-Empoli,Milan,1-4,/match/empoli-fc/milan/2017,2017,14,serie_a,20,38,2,1,4,17,2,4,7,6,17,LWWDLWLDDWDLL,1,2,4,2,11,3,8,2,3,21,17,WWLLWDWLWWWLD,3,1,2,8,9,LWLLDDL,WLDLWL
-Palermo FC,Lazio,0-1,/match/palermo/lazio/2017,2017,14,serie_a,20,38,2,0,1,20,1,3,9,10,26,LDLDLLDLWLWLW,0,0,6,3,14,4,7,4,2,26,14,LLDWWWLDDWWDW,2,3,1,11,9,LLLLLL,LDWLDD
-Bologna,Atalanta,0-2,/match/bologna/atalanta/2017,2017,14,serie_a,20,38,2,0,2,11,4,4,5,14,19,WWWWWDLDDDLWW,4,1,2,9,5,5,8,1,4,21,14,LWWWLLWDWLWLW,3,1,2,8,6,WWWLDLW,WWLDLL
-Genoa,Juventus,3-1,/match/genoa/juventus-fc/2017,2017,14,serie_a,20,38,0,3,1,8,5,4,4,15,14,WLWWDDLDWWWDW,3,4,0,9,3,1,11,0,2,28,9,WLWWWLLWWWWLW,4,0,2,8,4,WWDDDWD,LWLLWL
-Crotone,Sampdoria,1-1,/match/fc-crotone/sampdoria/2017,2017,14,serie_a,20,38,1,1,1,19,1,2,10,10,26,WLWDWLWWLDWWL,1,1,4,6,11,10,5,3,5,16,19,LWWLWWDDWWWDW,1,2,4,7,13,LDLLWL,LWWWDWD
-Cagliari,Udinese,2-1,/match/cagliari/udinese/2017,2017,14,serie_a,20,38,0,2,1,14,5,1,7,20,30,WDWWWWWLLWWWW,4,1,1,14,10,15,4,3,6,17,21,WWLLDWLWWLDDL,2,1,3,6,9,DWWWLW,WLWWLD
-Roma,Pescara,3-2,/match/roma/pescara-calcio/2017,2017,14,serie_a,20,38,0,3,2,2,8,2,3,30,14,WDWWWWWLWLDWW,6,0,0,20,4,18,1,4,8,9,23,DLLWDDLDWLWLW,1,1,4,5,11,WWWWWW,LWDWWW
-Napoli,Sassuolo,1-1,/match/napoli/us-sassuolo-calcio/2017,2017,14,serie_a,20,38,1,1,1,6,7,3,3,23,14,DWLWDWWLLWWDL,4,1,1,13,7,16,4,1,8,16,25,LLWWWWWWDLWLW,1,1,5,10,15,WWWLWD,LWWWDWW
-Inter,Fiorentina,4-2,/match/internazionale/fiorentina/2017,2017,14,serie_a,20,38,0,4,2,12,5,3,5,18,16,WDLWLDWLWWWWD,3,2,1,10,6,9,5,5,3,18,12,WWWWDDWDLDLDL,3,1,3,14,10,DWDLWW,WWDWLLL
-Napoli,Inter,3-0,/match/napoli/internazionale/2017,2017,15,serie_a,20,38,0,3,0,7,7,4,3,24,15,DWLWDWWLLWWDLD,4,2,1,14,8,9,6,3,5,22,18,WDLWLDWLWWWWDW,2,1,4,8,10,WWWLWDD,WLLWWWD
-Juventus,Atalanta,3-1,/match/juventus-fc/atalanta/2017,2017,15,serie_a,20,38,0,3,1,1,11,0,3,29,12,WLWWWLLWWWWLWW,7,0,0,20,5,6,9,1,4,23,14,LWWWLLWDWLWLWL,4,1,2,10,6,WWWWWWW,WWLDLLL
-Milan,Crotone,2-1,/match/milan/fc-crotone/2017,2017,15,serie_a,20,38,0,2,1,3,9,2,3,25,18,WWLLWDWLWWWLDL,5,1,1,13,8,19,1,3,10,11,27,WLWDWLWWLDWWLD,0,1,6,4,15,WLWWWWD,WWWWWDW
-Lazio,Roma,0-2,/match/lazio/roma/2017,2017,15,serie_a,20,38,2,0,2,4,8,4,2,27,14,LLDWWWLDDWWDWL,5,1,1,15,5,2,9,2,3,33,16,WDWWWWWLWLDWWW,2,2,3,10,10,LWWDWWW,DWWLLDW
-Sassuolo,Empoli,3-0,/match/us-sassuolo-calcio/empoli-fc/2017,2017,15,serie_a,20,38,0,3,0,16,4,2,8,17,26,LLWWWWWWDLWLWD,3,0,3,6,10,17,2,4,8,7,21,LWWDLWLDDWDLLL,1,2,3,4,6,LWWWLL,WDWDWL
-Pescara,Cagliari,1-1,/match/pescara-calcio/cagliari/2017,2017,15,serie_a,20,38,1,1,1,18,1,4,9,11,26,DLLWDDLDWLWLWW,0,3,4,4,12,10,6,1,7,22,31,WDWWWWWLLWWWWW,1,0,6,6,20,DLDLDLL,WWWLWWW
-Sampdoria,Torino,2-0,/match/sampdoria/torino-fc/2017,2017,15,serie_a,20,38,0,2,0,12,5,4,5,17,20,LWWLWWDDWWWDWD,4,1,1,9,6,5,7,4,3,31,17,WWWDDWWLDWDWLW,2,2,3,12,10,WLDWWW,WWDLWDL
-Fiorentina,Palermo FC,2-1,/match/fiorentina/palermo/2017,2017,15,serie_a,20,38,0,2,1,11,5,5,4,20,16,WWWWDDWDLDLDLW,2,4,0,4,2,20,1,3,10,10,27,LDLDLLDLWLWLWL,1,3,3,7,12,WWDDDD,DDLDWWW
-Chievo,Genoa,0-0,/match/chievo/genoa/2017,2017,15,serie_a,20,38,1,0,0,14,5,3,6,14,16,WWDLWWLLDDWLWW,3,2,2,9,8,8,6,4,4,18,15,WLWWDDLDWWWDWW,2,0,4,6,11,WDWLDLW,LWLWWW
-Udinese,Bologna,1-0,/match/udinese/bologna/2017,2017,15,serie_a,20,38,0,1,0,15,4,3,7,18,23,WWLLDWLWWLDDLW,2,2,3,11,12,13,4,4,6,14,21,WWWWWDLDDDLWWL,0,3,3,5,14,WLDLWDL,WWDDDW
-Crotone,Pescara,2-1,/match/fc-crotone/pescara-calcio/2017,2017,16,serie_a,20,38,0,2,1,19,1,3,11,12,29,WLWDWLWWLDWWLDW,1,2,4,7,12,18,1,5,9,12,27,DLLWDDLDWLWLWWD,1,1,5,7,14,LDLLWLD,LWDWWWW
-Sampdoria,Lazio,1-2,/match/sampdoria/lazio/2017,2017,16,serie_a,20,38,2,1,2,9,6,4,5,19,20,LWWLWWDDWWWDWDW,5,1,1,11,6,5,8,4,3,27,16,LLDWWWLDDWWDWLL,3,3,1,12,9,WLDWWWW,LDWLDDL
-Cagliari,Napoli,0-5,/match/cagliari/napoli/2017,2017,16,serie_a,20,38,2,0,5,11,6,2,7,23,32,WDWWWWWLLWWWWWD,5,1,1,16,11,4,8,4,3,27,15,DWLWDWWLLWWDLDW,3,2,2,10,7,DWWWLWW,DLDWLWL
-Atalanta,Udinese,1-3,/match/atalanta/udinese/2017,2017,16,serie_a,20,38,2,1,3,7,9,1,5,24,17,LWWWLLWDWLWLWLW,5,0,2,13,8,15,5,3,7,19,23,WWLLDWLWWLDDLWW,2,1,4,7,11,LWLWWWW,WLWWLDW
-Palermo FC,Chievo,0-2,/match/palermo/chievo/2017,2017,16,serie_a,20,38,2,0,2,20,1,3,11,11,29,LDLDLLDLWLWLWLW,0,0,7,3,15,13,5,4,6,14,16,WWDLWWLLDDWLWWD,2,1,4,5,8,LLLLLLL,WLWLDWW
-Torino,Juventus,1-3,/match/torino-fc/juventus-fc/2017,2017,16,serie_a,20,38,2,1,3,6,7,4,4,31,19,WWWDDWWLDWDWLWW,5,2,0,19,7,1,12,0,3,32,13,WLWWWLLWWWWLWWW,4,0,3,9,7,WDWWDWW,LWLLWLW
-Bologna,Empoli,0-0,/match/bologna/empoli-fc/2017,2017,16,serie_a,20,38,1,0,0,14,4,4,7,14,22,WWWWWDLDDDLWWLW,4,1,3,9,7,17,2,4,9,7,24,LWWDLWLDDWDLLLW,1,2,4,4,9,WWWLDLWL,WDWDWLW
-Inter,Genoa,2-0,/match/internazionale/genoa/2017,2017,16,serie_a,20,38,0,2,0,12,6,3,6,22,21,WDLWLDWLWWWWDWW,4,2,1,14,8,8,6,5,4,18,15,WLWWDDLDWWWDWWD,2,1,4,6,11,DWDLWWW,LWLWWWD
-Fiorentina,Sassuolo,2-1,/match/fiorentina/us-sassuolo-calcio/2017,2017,16,serie_a,20,38,0,2,1,10,6,5,4,22,17,WWWWDDWDLDLDLWW,3,4,0,6,3,16,5,2,8,20,26,LLWWWWWWDLWLWDW,1,2,5,11,16,WWDDDDW,LWWWDWWD
-Roma,Milan,1-0,/match/roma/milan/2017,2017,16,serie_a,20,38,0,1,0,2,10,2,3,35,16,WDWWWWWLWLDWWWL,7,0,0,23,6,3,10,2,3,27,19,WWLLWDWLWWWLDLW,4,1,2,12,10,WWWWWWW,WLDLWLL
-Empoli,Cagliari,2-0,/match/empoli-fc/cagliari/2017,2017,17,serie_a,20,38,0,2,0,17,2,5,9,7,24,LWWDLWLDDWDLLLWD,1,2,5,3,15,13,6,2,8,23,37,WDWWWWWLLWWWWWDL,1,1,6,7,21,LWLLDDLL,WWWLWWWD
-Milan,Atalanta,0-0,/match/milan/atalanta/2017,2017,17,serie_a,20,38,1,0,0,3,10,2,4,27,20,WWLLWDWLWWWLDLWW,6,1,1,15,9,8,9,1,6,25,20,LWWWLLWDWLWLWLWL,4,1,3,11,9,WLWWWWDW,WWLDLLLW
-Juventus,Roma,1-0,/match/juventus-fc/roma/2017,2017,17,serie_a,20,38,0,1,0,1,13,0,3,35,14,WLWWWLLWWWWLWWWL,8,0,0,23,6,2,11,2,3,36,16,WDWWWWWLWLDWWWLW,3,2,3,12,10,WWWWWWWW,DWWLLDWL
-Sassuolo,Inter,0-1,/match/us-sassuolo-calcio/internazionale/2017,2017,17,serie_a,20,38,2,0,1,16,5,2,9,21,28,LLWWWWWWDLWLWDWW,4,0,3,9,10,10,7,3,6,24,21,WDLWLDWLWWWWDWWW,2,1,5,8,13,LWWWLLW,WLLWWWDW
-Pescara,Bologna,0-3,/match/pescara-calcio/bologna/2017,2017,17,serie_a,20,38,2,0,3,19,1,5,10,13,29,DLLWDDLDWLWLWWDW,0,4,4,5,13,14,4,5,7,14,22,WWWWWDLDDDLWWLWD,0,3,4,5,15,DLDLDLLD,WWDDDWW
-Napoli,Torino,5-3,/match/napoli/torino-fc/2017,2017,17,serie_a,20,38,0,5,3,4,9,4,3,32,15,DWLWDWWLLWWDLDWL,5,2,1,17,8,7,7,4,5,32,22,WWWDDWWLDWDWLWWL,2,2,4,12,12,WWWLWDDW,WWDLWDLW
-Chievo,Sampdoria,2-1,/match/chievo/sampdoria/2017,2017,17,serie_a,20,38,0,2,1,12,6,4,6,16,16,WWDLWWLLDDWLWWDL,3,3,2,9,8,11,6,4,6,20,22,LWWLWWDDWWWDWDWL,1,3,4,8,14,WDWLDLWD,LWWWDWDD
-Udinese,Crotone,2-0,/match/udinese/fc-crotone/2017,2017,17,serie_a,20,38,0,2,0,15,6,3,7,22,24,WWLLDWLWWLDDLWWL,3,2,3,12,12,18,2,3,11,14,30,WLWDWLWWLDWWLDWW,0,1,7,5,17,WLDLWDLW,WWWWWDWW
-Lazio,Fiorentina,3-1,/match/lazio/fiorentina/2017,2017,17,serie_a,20,38,0,3,1,5,9,4,3,29,17,LLDWWWLDDWWDWLLL,5,1,2,15,7,6,7,5,4,24,18,WWWWDDWDLDLDLWWW,3,1,4,16,14,LWWDWWWL,WWDWLLLW
-Genoa,Palermo FC,3-4,/match/genoa/palermo/2017,2017,17,serie_a,20,38,2,3,4,9,6,5,5,18,17,WLWWDDLDWWWDWWDW,4,4,0,12,4,20,1,3,12,11,31,LDLDLLDLWLWLWLWL,1,3,4,8,14,WWDDDWDW,DDLDWWWW
-Atalanta,Empoli,2-1,/match/atalanta/empoli-fc/2017,2017,18,serie_a,20,38,0,2,1,9,9,2,6,25,20,LWWWLLWDWLWLWLWLD,5,0,3,14,11,17,3,5,9,9,24,LWWDLWLDDWDLLLWDW,1,3,4,4,9,LWLWWWWL,WDWDWLWD
-Inter,Lazio,3-0,/match/internazionale/lazio/2017,2017,18,serie_a,20,38,0,3,0,7,8,3,6,25,21,WDLWLDWLWWWWDWWWL,5,2,1,16,8,5,10,4,3,32,18,LLDWWWLDDWWDWLLLW,4,3,1,14,10,DWDLWWWW,LDWLDDLL
-Cagliari,Sassuolo,4-3,/match/cagliari/us-sassuolo-calcio/2017,2017,18,serie_a,20,38,0,4,3,15,6,2,9,23,39,WDWWWWWLLWWWWWDLW,5,1,2,16,16,16,5,2,10,21,29,LLWWWWWWDLWLWDWWL,1,2,6,12,18,DWWWLWWL,LWWWDWWDW
-Fiorentina,Napoli,3-3,/match/fiorentina/napoli/2017,2017,18,serie_a,20,38,1,3,3,6,7,5,5,25,21,WWWWDDWDLDLDLWWWW,4,4,0,8,4,3,10,4,3,37,18,DWLWDWWLLWWDLDWLW,4,2,2,15,7,WWDDDDWW,DLDWLWLL
-Palermo FC,Pescara,1-1,/match/palermo/pescara-calcio/2017,2017,18,serie_a,20,38,1,1,1,20,2,3,12,15,34,LDLDLLDLWLWLWLWLL,0,0,8,3,17,19,1,5,11,13,32,DLLWDDLDWLWLWWDWL,1,1,6,8,16,LLLLLLLL,LWDWWWWW
-Roma,Chievo,3-1,/match/roma/chievo/2017,2017,18,serie_a,20,38,0,3,1,2,11,2,4,36,17,WDWWWWWLWLDWWWLWW,8,0,0,24,6,11,7,4,6,18,17,WWDLWWLLDDWLWWDLW,3,1,4,7,8,WWWWWWWW,WLWLDWWL
-Sampdoria,Udinese,0-0,/match/sampdoria/udinese/2017,2017,18,serie_a,20,38,1,0,0,13,6,4,7,21,24,LWWLWWDDWWWDWDWLW,5,1,2,12,8,12,7,3,7,24,24,WWLLDWLWWLDDLWWLW,3,1,4,10,12,WLDWWWWL,WLWWLDWL
-Torino,Genoa,1-0,/match/torino-fc/genoa/2017,2017,18,serie_a,20,38,0,1,0,8,7,4,6,35,27,WWWDDWWLDWDWLWWLW,5,2,1,20,10,10,6,5,6,21,21,WLWWDDLDWWWDWWDWL,2,1,5,6,13,WDWWDWWL,LWLWWWDW
-Crotone,Juventus,0-2,/match/fc-crotone/juventus-fc/2017,2017,18,serie_a,20,38,2,0,2,18,2,3,12,14,32,WLWDWLWWLDWWLDWWW,2,2,4,9,13,1,14,0,3,36,14,WLWWWLLWWWWLWWWLW,5,0,3,12,8,LDLLWLDW,LWLLWLWL
-Bologna,Milan,0-1,/match/bologna/milan/2017,2017,18,serie_a,20,38,2,0,1,14,5,5,7,17,22,WWWWWDLDDDLWWLWDL,4,2,3,9,7,4,10,3,4,27,20,WWLLWDWLWWWLDLWWD,4,1,3,12,11,WWWLDLWLD,WLDLWLLW
-Empoli,Palermo FC,1-0,/match/empoli-fc/palermo/2017,2017,19,serie_a,20,38,0,1,0,17,3,5,10,10,26,LWWDLWLDDWDLLLWDWW,2,2,5,5,15,20,2,4,12,16,35,LDLDLLDLWLWLWLWLLD,2,3,4,12,17,LWLLDDLLW,DDLDWWWWL
-Napoli,Sampdoria,2-1,/match/napoli/sampdoria/2017,2017,19,serie_a,20,38,0,2,1,3,10,5,3,40,21,DWLWDWWLLWWDLDWLWD,6,2,1,22,11,10,6,5,7,21,24,LWWLWWDDWWWDWDWLWD,1,3,5,9,16,WWWLWDDWW,LWWWDWDDW
-Udinese,Inter,1-2,/match/udinese/internazionale/2017,2017,19,serie_a,20,38,2,1,2,14,7,4,7,24,24,WWLLDWLWWLDDLWWLWD,4,2,3,14,12,6,9,3,6,28,21,WDLWLDWLWWWWDWWWLW,3,1,5,9,13,WLDLWDLWW,WLLWWWDWL
-Sassuolo,Torino,0-0,/match/us-sassuolo-calcio/torino-fc/2017,2017,19,serie_a,20,38,1,0,0,16,5,2,11,24,33,LLWWWWWWDLWLWDWWLW,4,0,4,9,11,7,8,4,6,36,27,WWWDDWWLDWDWLWWLWW,2,2,5,15,17,LWWWLLWL,WWDLWDLWW
-Chievo,Atalanta,1-4,/match/chievo/atalanta/2017,2017,19,serie_a,20,38,2,1,4,12,7,4,7,19,20,WWDLWWLLDDWLWWDLWW,4,3,2,11,9,8,10,2,6,27,21,LWWWLLWDWLWLWLWLDW,4,2,3,11,9,WDWLDLWDW,WWLDLLLWD
-Lazio,Crotone,1-0,/match/lazio/fc-crotone/2017,2017,19,serie_a,20,38,0,1,0,5,10,4,4,32,21,LLDWWWLDDWWDWLLLWW,6,1,2,18,8,18,2,3,13,14,34,WLWDWLWWLDWWLDWWWL,0,1,8,5,19,LWWDWWWLW,WWWWWDWWW
-Genoa,Roma,0-1,/match/genoa/roma/2017,2017,19,serie_a,20,38,2,0,1,13,6,5,7,21,22,WLWWDDLDWWWDWWDWLW,4,4,1,15,8,2,12,2,4,39,18,WDWWWWWLWLDWWWLWWW,3,2,4,12,11,WWDDDWDWL,DWWLLDWLW
-Milan,Cagliari,1-0,/match/milan/cagliari/2017,2017,19,serie_a,20,38,0,1,0,4,11,3,4,28,20,WWLLWDWLWWWLDLWWDL,6,2,1,15,9,11,7,2,9,27,42,WDWWWWWLLWWWWWDLWW,1,1,7,7,23,WLWWWWDWD,WWWLWWWDW
-Juventus,Bologna,3-0,/match/juventus-fc/bologna/2017,2017,19,serie_a,20,38,0,3,0,1,15,0,3,38,14,WLWWWLLWWWWLWWWLWL,9,0,0,24,6,15,5,5,8,17,23,WWWWWDLDDDLWWLWDLL,1,3,4,8,15,WWWWWWWWW,WWDDDWWL
-Pescara,Fiorentina,1-2,/match/pescara-calcio/fiorentina/2017,2017,19,serie_a,20,38,2,1,2,19,1,6,11,14,33,DLLWDDLDWLWLWWDWLD,0,4,5,5,16,9,7,6,5,28,24,WWWWDDWDLDLDLWWWWD,3,1,5,17,17,DLDLDLLDL,WWDWLLLWW
-Crotone,Bologna,0-1,/match/fc-crotone/bologna/2017,2017,20,serie_a,20,38,2,0,1,18,2,3,14,14,35,WLWDWLWWLDWWLDWWWLW,2,2,5,9,15,15,5,5,9,17,26,WWWWWDLDDDLWWLWDLLW,1,3,5,8,18,LDLLWLDWL,WWDDDWWLW
-Inter,Chievo,3-1,/match/internazionale/chievo/2017,2017,20,serie_a,20,38,0,3,1,6,10,3,6,30,22,WDLWLDWLWWWWDWWWLWL,6,2,1,19,8,10,7,4,8,20,24,WWDLWWLLDDWLWWDLWWL,3,1,5,8,11,DWDLWWWWW,WLWLDWWLW
-Cagliari,Genoa,4-1,/match/cagliari/genoa/2017,2017,20,serie_a,20,38,0,4,1,12,7,2,10,27,43,WDWWWWWLLWWWWWDLWWW,6,1,2,20,19,11,6,5,8,21,23,WLWWDDLDWWWDWWDWLWL,2,1,6,6,14,DWWWLWWLW,LWLWWWDWW
-Lazio,Atalanta,2-1,/match/lazio/atalanta/2017,2017,20,serie_a,20,38,0,2,1,5,11,4,4,33,21,LLDWWWLDDWWDWLLLWWW,7,1,2,19,8,7,11,2,6,31,22,LWWWLLWDWLWLWLWLDWL,5,2,3,15,10,LWWDWWWLWW,WWLDLLLWDL
-Napoli,Pescara,3-1,/match/napoli/pescara-calcio/2017,2017,20,serie_a,20,38,0,3,1,3,11,5,3,42,22,DWLWDWWLLWWDLDWLWDW,7,2,1,24,12,19,1,6,12,15,35,DLLWDDLDWLWLWWDWLDL,1,2,6,9,17,WWWLWDDWWW,LWDWWWWWD
-Sassuolo,Palermo FC,4-1,/match/us-sassuolo-calcio/palermo/2017,2017,20,serie_a,20,38,0,4,1,16,5,3,11,24,33,LLWWWWWWDLWLWDWWLWD,4,1,4,9,11,20,2,4,13,16,36,LDLDLLDLWLWLWLWLLDW,2,3,5,12,18,LWWWLLWLD,DDLDWWWWLW
-Udinese,Roma,0-1,/match/udinese/roma/2017,2017,20,serie_a,20,38,2,0,1,14,7,4,8,25,26,WWLLDWLWWLDDLWWLWDL,4,2,4,15,14,2,13,2,4,40,18,WDWWWWWLWLDWWWLWWWL,4,2,4,13,11,WLDLWDLWWL,DWWLLDWLWL
-Sampdoria,Empoli,0-0,/match/sampdoria/empoli-fc/2017,2017,20,serie_a,20,38,1,0,0,13,6,5,8,22,26,LWWLWWDDWWWDWDWLWDW,5,2,2,12,8,17,4,5,10,11,26,LWWDLWLDDWDLLLWDWWW,1,3,5,5,11,WLDWWWWLD,WDWDWLWDW
-Fiorentina,Juventus,2-1,/match/fiorentina/juventus-fc/2017,2017,20,serie_a,20,38,0,2,1,9,8,6,5,30,25,WWWWDDWDLDLDLWWWWDL,4,5,0,11,7,1,16,0,3,41,14,WLWWWLLWWWWLWWWLWLW,6,0,3,14,8,WWDDDDWWD,LWLLWLWLL
-Torino,Milan,2-2,/match/torino-fc/milan/2017,2017,20,serie_a,20,38,1,2,2,8,8,5,6,36,27,WWWDDWWLDWDWLWWLWWD,6,2,1,21,10,4,12,3,4,29,20,WWLLWDWLWWWLDLWWDLW,5,1,3,13,11,WDWWDWWLW,WLDLWLLWL
-Chievo,Fiorentina,0-3,/match/chievo/fiorentina/2017,2017,21,serie_a,20,38,2,0,3,13,7,4,9,21,27,WWDLWWLLDDWLWWDLWWLW,4,3,3,12,13,7,9,6,5,32,26,WWWWDDWDLDLDLWWWWDLW,4,1,5,19,18,WDWLDLWDWL,WWDWLLLWWL
-Milan,Napoli,1-2,/match/milan/napoli/2017,2017,21,serie_a,20,38,2,1,2,5,12,4,4,31,22,WWLLWDWLWWWLDLWWDLWD,7,2,1,16,9,3,12,5,3,45,23,DWLWDWWLLWWDLDWLWDWW,4,3,2,18,10,WLWWWWDWDW,DLDWLWLLD
-Juventus,Lazio,2-0,/match/juventus-fc/lazio/2017,2017,21,serie_a,20,38,0,2,0,1,16,0,4,42,16,WLWWWLLWWWWLWWWLWLWW,10,0,0,27,6,4,12,4,4,35,22,LLDWWWLDDWWDWLLLWWWW,4,3,2,14,13,WWWWWWWWWW,LDWLDDLLW
-Bologna,Torino,2-0,/match/bologna/torino-fc/2017,2017,21,serie_a,20,38,0,2,0,15,6,5,9,18,26,WWWWWDLDDDLWWLWDLLWL,4,2,4,9,8,8,8,6,6,38,29,WWWDDWWLDWDWLWWLWWDD,2,3,5,15,17,WWWLDLWLDL,WWDLWDLWWD
-Pescara,Sassuolo,1-3,/match/pescara-calcio/us-sassuolo-calcio/2017,2017,21,serie_a,20,38,2,1,3,19,1,6,13,16,38,DLLWDDLDWLWLWWDWLDLW,0,4,6,6,18,16,6,3,11,28,34,LLWWWWWWDLWLWDWWLWDW,1,2,7,15,22,DLDLDLLDLL,LWWWDWWDWW
-Empoli,Udinese,1-0,/match/empoli-fc/udinese/2017,2017,21,serie_a,20,38,0,1,0,17,4,6,10,11,26,LWWDLWLDDWDLLLWDWWWD,3,2,5,6,15,14,7,4,9,25,27,WWLLDWLWWLDDLWWLWDLL,3,2,4,10,12,LWLLDDLLWW,WLWWLDWLD
-Palermo FC,Inter,0-1,/match/palermo/internazionale/2017,2017,21,serie_a,20,38,2,0,1,20,2,4,14,17,40,LDLDLLDLWLWLWLWLLDWW,0,1,8,4,18,6,11,3,6,33,23,WDLWLDWLWWWWDWWWLWLW,4,1,5,11,14,LLLLLLLLD,WLLWWWDWLL
-Genoa,Crotone,2-2,/match/genoa/fc-crotone/2017,2017,21,serie_a,20,38,1,2,2,12,6,5,9,22,27,WLWWDDLDWWWDWWDWLWLW,4,4,2,15,9,18,2,3,15,14,36,WLWDWLWWLDWWLDWWWLWL,0,1,9,5,20,WWDDDWDWLL,WWWWWDWWWW
-Atalanta,Sampdoria,1-0,/match/atalanta/sampdoria/2017,2017,21,serie_a,20,38,0,1,0,9,11,2,7,32,24,LWWWLLWDWLWLWLWLDWLW,6,0,3,16,12,11,6,6,8,22,26,LWWLWWDDWWWDWDWLWDWD,1,3,6,10,18,LWLWWWWLW,LWWWDWDDWW
-Roma,Cagliari,1-0,/match/roma/cagliari/2017,2017,21,serie_a,20,38,0,1,0,2,14,2,4,41,18,WDWWWWWLWLDWWWLWWWLL,9,0,0,27,7,10,8,2,10,31,44,WDWWWWWLLWWWWWDLWWWW,1,1,8,7,24,WWWWWWWWW,WWWLWWWDWW
-Lazio,Chievo,0-1,/match/lazio/chievo/2017,2017,22,serie_a,20,38,2,0,1,4,12,4,5,35,24,LLDWWWLDDWWDWLLLWWWWW,8,1,2,21,9,14,7,4,10,21,30,WWDLWWLLDDWLWWDLWWLWL,3,1,6,9,14,LWWDWWWLWWW,WLWLDWWLWW
-Inter,Pescara,3-0,/match/internazionale/pescara-calcio/2017,2017,22,serie_a,20,38,0,3,0,6,12,3,6,34,23,WDLWLDWLWWWWDWWWLWLWL,7,2,1,22,9,19,1,6,14,17,41,DLLWDDLDWLWLWWDWLDLWL,1,2,7,10,20,DWDLWWWWWW,LWDWWWWWDW
-Torino,Atalanta,1-1,/match/torino-fc/atalanta/2017,2017,22,serie_a,20,38,1,1,1,9,8,6,7,38,31,WWWDDWWLDWDWLWWLWWDDW,6,3,1,23,12,8,12,2,7,33,24,LWWWLLWDWLWLWLWLDWLWW,5,2,4,16,12,WDWWDWWLWD,WWLDLLLWDLW
-Udinese,Milan,2-1,/match/udinese/milan/2017,2017,22,serie_a,20,38,0,2,1,15,7,4,10,25,28,WWLLDWLWWLDDLWWLWDLLW,4,2,5,15,15,5,12,4,5,32,24,WWLLWDWLWWWLDLWWDLWDL,5,2,3,15,13,WLDLWDLWWLL,WLDLWLLWLD
-Sassuolo,Juventus,0-2,/match/us-sassuolo-calcio/juventus-fc/2017,2017,22,serie_a,20,38,2,0,2,16,7,3,11,31,35,LLWWWWWWDLWLWDWWLWDWL,5,1,4,13,12,1,17,0,4,44,16,WLWWWLLWWWWLWWWLWLWWW,6,0,4,15,10,LWWWLLWLDW,LWLLWLWLLW
-Fiorentina,Genoa,3-3,/match/fiorentina/genoa/2017,2017,22,serie_a,20,38,1,3,3,7,10,6,5,35,26,WWWWDDWDLDLDLWWWWDLWL,5,5,0,13,8,13,6,6,9,24,29,WLWWDDLDWWWDWWDWLWLWD,2,1,7,7,18,WWDDDDWWDW,LWLWWWDWWW
-Crotone,Empoli,4-1,/match/fc-crotone/empoli-fc/2017,2017,22,serie_a,20,38,0,4,1,18,2,4,15,16,38,WLWDWLWWLDWWLDWWWLWLD,2,2,6,9,16,17,5,6,10,12,26,LWWDLWLDDWDLLLWDWWWDW,1,4,5,5,11,LDLLWLDWLL,WDWDWLWDWD
-Cagliari,Bologna,1-1,/match/cagliari/bologna/2017,2017,22,serie_a,20,38,1,1,1,10,8,2,11,31,45,WDWWWWWLLWWWWWDLWWWWW,7,1,2,24,20,11,7,5,9,20,26,WWWWWDLDDDLWWLWDLLWLW,2,3,5,9,18,DWWWLWWLWW,WWDDDWWLWL
-Sampdoria,Roma,3-2,/match/sampdoria/roma/2017,2017,22,serie_a,20,38,0,3,2,12,6,6,9,22,27,LWWLWWDDWWWDWDWLWDWDW,5,3,2,12,8,2,15,2,4,42,18,WDWWWWWLWLDWWWLWWWLLW,5,2,4,14,11,WLDWWWWLDD,DWWLLDWLWLL
-Napoli,Palermo FC,1-1,/match/napoli/palermo/2017,2017,22,serie_a,20,38,1,1,1,3,13,5,3,47,24,DWLWDWWLLWWDLDWLWDWWL,8,2,1,27,13,20,2,4,15,17,41,LDLDLLDLWLWLWLWLLDWWL,2,3,6,13,22,WWWLWDDWWWW,DDLDWWWWLWW
-Bologna,Napoli,1-7,/match/bologna/napoli/2017,2017,23,serie_a,20,38,2,1,7,13,7,6,9,21,27,WWWWWDLDDDLWWLWDLLWLWD,5,2,4,11,8,3,13,6,3,48,25,DWLWDWWLLWWDLDWLWDWWLD,5,3,2,20,11,WWWLDLWLDLW,DLDWLWLLDL
-Milan,Sampdoria,0-1,/match/milan/sampdoria/2017,2017,23,serie_a,20,38,2,0,1,6,12,4,6,33,26,WWLLWDWLWWWLDLWWDLWDLW,7,2,2,17,11,11,7,6,9,25,29,LWWLWWDDWWWDWDWLWDWDWW,1,3,7,10,19,WLWWWWDWDWL,LWWWDWDDWWW
-Empoli,Torino,1-1,/match/empoli-fc/torino-fc/2017,2017,23,serie_a,20,38,1,1,1,17,5,6,11,13,30,LWWDLWLDDWDLLLWDWWWDWW,4,2,5,7,15,9,8,7,7,39,32,WWWDDWWLDWDWLWWLWWDDWD,2,3,6,15,19,LWLLDDLLWWW,WWDLWDLWWDW
-Genoa,Sassuolo,0-1,/match/genoa/us-sassuolo-calcio/2017,2017,23,serie_a,20,38,2,0,1,14,6,7,9,27,32,WLWWDDLDWWWDWWDWLWLWDD,4,5,2,17,11,16,7,3,12,31,37,LLWWWWWWDLWLWDWWLWDWLL,2,2,7,18,23,WWDDDWDWLLD,LWWWDWWDWWL
-Atalanta,Cagliari,2-0,/match/atalanta/cagliari/2017,2017,23,serie_a,20,38,0,2,0,8,12,3,7,34,25,LWWWLLWDWLWLWLWLDWLWWD,7,0,3,17,12,10,8,3,11,32,46,WDWWWWWLLWWWWWDLWWWWWD,1,1,9,7,25,LWLWWWWLWW,WWWLWWWDWWW
-Pescara,Lazio,2-6,/match/pescara-calcio/lazio/2017,2017,23,serie_a,20,38,2,2,6,19,1,6,15,17,44,DLLWDDLDWLWLWWDWLDLWLW,0,4,7,7,21,5,12,4,6,35,25,LLDWWWLDDWWDWLLLWWWWWL,4,3,3,14,15,DLDLDLLDLLL,LDWLDDLLWW
-Chievo,Udinese,0-0,/match/chievo/udinese/2017,2017,23,serie_a,20,38,1,0,0,15,8,4,10,22,30,WWDLWWLLDDWLWWDLWWLWLL,4,3,4,12,16,12,8,4,10,27,29,WWLLDWLWWLDDLWWLWDLLWW,3,2,5,10,13,WDWLDLWDWLL,WLWWLDWLDW
-Palermo FC,Crotone,1-0,/match/palermo/fc-crotone/2017,2017,23,serie_a,20,38,0,1,0,20,2,5,15,18,42,LDLDLLDLWLWLWLWLLDWWLD,0,1,9,4,19,18,3,4,15,20,39,WLWDWLWWLDWWLDWWWLWLDW,0,2,9,7,22,LLLLLLLLDL,WWWWWDWWWWD
-Juventus,Inter,1-0,/match/juventus-fc/internazionale/2017,2017,23,serie_a,20,38,0,1,0,1,18,0,4,46,16,WLWWWLLWWWWLWWWLWLWWWL,11,0,0,29,6,4,13,3,6,37,23,WDLWLDWLWWWWDWWWLWLWLW,5,1,5,12,14,WWWWWWWWWWW,WLLWWWDWLLL
-Roma,Fiorentina,4-0,/match/roma/fiorentina/2017,2017,23,serie_a,20,38,0,4,0,2,15,2,5,44,21,WDWWWWWLWLDWWWLWWWLLWW,10,0,0,28,7,7,10,7,5,38,29,WWWWDDWDLDLDLWWWWDLWLD,5,1,5,22,18,WWWWWWWWWW,WWDWLLLWWLL
-Napoli,Genoa,2-0,/match/napoli/genoa/2017,2017,24,serie_a,20,38,0,2,0,3,14,6,3,55,26,DWLWDWWLLWWDLDWLWDWWLDL,8,3,1,28,14,15,6,7,10,27,33,WLWWDDLDWWWDWWDWLWLWDDL,2,2,7,10,21,WWWLWDDWWWWD,LWLWWWDWWWD
-Fiorentina,Udinese,3-0,/match/fiorentina/udinese/2017,2017,24,serie_a,20,38,0,3,0,8,10,7,6,38,33,WWWWDDWDLDLDLWWWWDLWLDW,5,6,0,16,11,12,8,5,10,27,29,WWLLDWLWWLDDLWWLWDLLWWD,3,3,5,10,13,WWDDDDWWDWD,WLWWLDWLDWD
-Crotone,Roma,0-2,/match/fc-crotone/roma/2017,2017,24,serie_a,20,38,2,0,2,18,3,4,16,20,40,WLWDWLWWLDWWLDWWWLWLDWW,3,2,6,13,17,2,16,2,5,48,21,WDWWWWWLWLDWWWLWWWLLWWW,5,2,5,16,14,LDLLWLDWLLW,DWWLLDWLWLLW
-Torino,Pescara,5-3,/match/torino-fc/pescara-calcio/2017,2017,24,serie_a,20,38,0,5,3,9,8,8,7,40,33,WWWDDWWLDWDWLWWLWWDDWDD,6,4,1,24,13,20,1,6,16,19,50,DLLWDDLDWLWLWWDWLDLWLWL,1,2,8,10,23,WDWWDWWLWDD,LWDWWWWWDWW
-Palermo FC,Atalanta,1-3,/match/palermo/atalanta/2017,2017,24,serie_a,20,38,2,1,3,19,3,5,15,19,42,LDLDLLDLWLWLWLWLLDWWLDW,1,1,9,5,19,6,13,3,7,36,25,LWWWLLWDWLWLWLWLDWLWWDW,5,3,4,17,13,LLLLLLLLDLW,WWLDLLLWDLWD
-Inter,Empoli,2-0,/match/internazionale/empoli-fc/2017,2017,24,serie_a,20,38,0,2,0,4,13,3,7,37,24,WDLWLDWLWWWWDWWWLWLWLWW,8,2,1,25,9,17,5,7,11,14,31,LWWDLWLDDWDLLLWDWWWDWWD,1,4,6,6,15,DWDLWWWWWWW,WDWDWLWDWDW
-Sassuolo,Chievo,1-3,/match/us-sassuolo-calcio/chievo/2017,2017,24,serie_a,20,38,2,1,3,16,8,3,12,32,37,LLWWWWWWDLWLWDWWLWDWLLL,5,1,5,13,14,13,8,5,10,22,30,WWDLWWLLDDWLWWDLWWLWLLD,4,1,6,10,14,LWWWLLWLDWL,WLWLDWWLWWL
-Sampdoria,Bologna,3-1,/match/sampdoria/bologna/2017,2017,24,serie_a,20,38,0,3,1,10,8,6,9,26,29,LWWLWWDDWWWDWDWLWDWDWWL,6,3,2,15,10,14,7,6,10,22,34,WWWWWDLDDDLWWLWDLLWLWDL,2,4,5,10,19,WLDWWWWLDDW,WWDDDWWLWLD
-Cagliari,Juventus,0-2,/match/cagliari/juventus-fc/2017,2017,24,serie_a,20,38,2,0,2,11,8,3,12,32,48,WDWWWWWLLWWWWWDLWWWWWDW,7,2,2,25,21,1,19,0,4,47,16,WLWWWLLWWWWLWWWLWLWWWLW,7,0,4,17,10,DWWWLWWLWWD,LWLLWLWLLWL
-Lazio,Milan,1-1,/match/lazio/milan/2017,2017,24,serie_a,20,38,1,1,1,5,13,4,6,41,27,LLDWWWLDDWWDWLLLWWWWWLL,8,1,3,21,10,7,12,4,7,33,27,WWLLWDWLWWWLDLWWDLWDLWL,5,2,4,16,15,LWWDWWWLWWWL,WLDLWLLWLDW
-Juventus,Palermo FC,4-1,/match/juventus-fc/palermo/2017,2017,25,serie_a,20,38,0,4,1,1,20,0,4,49,16,WLWWWLLWWWWLWWWLWLWWWLWL,12,0,0,30,6,19,3,5,16,20,45,LDLDLLDLWLWLWLWLLDWWLDWL,2,4,6,14,23,WWWWWWWWWWWW,DDLDWWWWLWWD
-Atalanta,Crotone,1-0,/match/atalanta/fc-crotone/2017,2017,25,serie_a,20,38,0,1,0,6,14,3,7,39,26,LWWWLLWDWLWLWLWLDWLWWDWL,8,0,3,19,12,18,3,4,17,20,42,WLWDWLWWLDWWLDWWWLWLDWWL,0,2,10,7,23,LWLWWWWLWWW,WWWWWDWWWWDW
-Empoli,Lazio,1-2,/match/empoli-fc/lazio/2017,2017,25,serie_a,20,38,2,1,2,17,5,7,12,14,33,LWWDLWLDDWDLLLWDWWWDWWDW,4,3,5,8,16,5,13,5,6,42,28,LLDWWWLDDWWDWLLLWWWWWLLD,5,3,3,20,17,LWLLDDLLWWWD,LDWLDDLLWWL
-Bologna,Inter,0-1,/match/bologna/internazionale/2017,2017,25,serie_a,20,38,2,0,1,14,7,6,11,23,37,WWWWWDLDDDLWWLWDLLWLWDLW,5,2,5,12,15,4,14,3,7,39,24,WDLWLDWLWWWWDWWWLWLWLWWW,5,1,6,12,15,WWWLDLWLDLWL,WLLWWWDWLLLW
-Udinese,Sassuolo,1-2,/match/udinese/us-sassuolo-calcio/2017,2017,25,serie_a,20,38,2,1,2,13,8,5,11,27,32,WWLLDWLWWLDDLWWLWDLLWWDW,5,2,5,17,16,16,8,3,13,33,40,LLWWWWWWDLWLWDWWLWDWLLLL,3,2,7,19,23,WLDLWDLWWLLW,LWWWDWWDWWLL
-Chievo,Napoli,1-3,/match/chievo/napoli/2017,2017,25,serie_a,20,38,2,1,3,11,9,5,10,25,31,WWDLWWLLDDWLWWDLWWLWLLDL,4,4,4,12,16,3,15,6,3,57,26,DWLWDWWLLWWDLDWLWDWWLDLW,6,3,2,27,12,WDWLDLWDWLLD,DLDWLWLLDLL
-Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/2017,2017,25,serie_a,20,38,1,1,1,10,9,6,9,29,30,LWWLWWDDWWWDWDWLWDWDWWLW,7,3,2,18,11,12,8,3,13,32,50,WDWWWWWLLWWWWWDLWWWWWDWL,1,1,10,7,27,WLDWWWWLDDWW,WWWLWWWDWWWW
-Pescara,Genoa,5-0,/match/pescara-calcio/genoa/2017,2017,25,serie_a,20,38,0,5,0,20,1,6,17,22,55,DLLWDDLDWLWLWWDWLDLWLWLW,0,4,8,9,27,15,6,7,11,27,35,WLWWDDLDWWWDWWDWLWLWDDLW,2,2,8,10,23,DLDLDLLDLLLL,LWLWWWDWWWDW
-Roma,Torino,4-1,/match/roma/torino-fc/2017,2017,25,serie_a,20,38,0,4,1,2,17,2,5,50,21,WDWWWWWLWLDWWWLWWWLLWWWL,11,0,0,32,7,9,9,8,7,45,36,WWWDDWWLDWDWLWWLWWDDWDDW,2,4,6,16,20,WWWWWWWWWWW,WWDLWDLWWDWD
-Milan,Fiorentina,2-1,/match/milan/fiorentina/2017,2017,25,serie_a,20,38,0,2,1,8,12,5,7,34,28,WWLLWDWLWWWLDLWWDLWDLWLD,7,2,3,17,12,7,11,7,6,41,33,WWWWDDWDLDLDLWWWWDLWLDWW,5,1,6,22,22,WLWWWWDWDWLL,WWDWLLLWWLLW
-Napoli,Atalanta,0-2,/match/napoli/atalanta/2017,2017,26,serie_a,20,38,2,0,2,3,16,6,3,60,27,DWLWDWWLLWWDLDWLWDWWLDLWL,9,3,1,30,14,6,15,3,7,40,26,LWWWLLWDWLWLWLWLDWLWWDWLW,6,3,4,20,14,WWWLWDDWWWWDW,WWLDLLLWDLWDL
-Juventus,Empoli,2-0,/match/juventus-fc/empoli-fc/2017,2017,26,serie_a,20,38,0,2,0,1,21,0,4,53,17,WLWWWLLWWWWLWWWLWLWWWLWLW,13,0,0,34,7,17,5,7,13,15,35,LWWDLWLDDWDLLLWDWWWDWWDWL,1,4,7,6,17,WWWWWWWWWWWWW,WDWDWLWDWDWW
-Palermo FC,Sampdoria,1-1,/match/palermo/sampdoria/2017,2017,26,serie_a,20,38,1,1,1,20,3,5,17,21,49,LDLDLLDLWLWLWLWLLDWWLDWLW,1,1,10,6,22,10,9,7,9,30,31,LWWLWWDDWWWDWDWLWDWDWWLWD,2,3,7,11,19,LLLLLLLLDLWL,LWWWDWDDWWWL
-Chievo,Pescara,2-0,/match/chievo/pescara-calcio/2017,2017,26,serie_a,20,38,0,2,0,12,9,5,11,26,34,WWDLWWLLDDWLWWDLWWLWLLDLL,4,4,5,13,19,19,2,6,17,27,55,DLLWDDLDWLWLWWDWLDLWLWLWW,1,2,9,13,28,WDWLDLWDWLLDL,LWDWWWWWDWWW
-Sassuolo,Milan,0-1,/match/us-sassuolo-calcio/milan/2017,2017,26,serie_a,20,38,2,0,1,16,9,3,13,35,41,LLWWWWWWDLWLWDWWLWDWLLLLL,5,1,6,14,17,7,13,5,7,36,29,WWLLWDWLWWWLDLWWDLWDLWLDW,5,3,4,17,16,LWWWLLWLDWLL,WLDLWLLWLDWD
-Crotone,Cagliari,1-2,/match/fc-crotone/cagliari/2017,2017,26,serie_a,20,38,2,1,2,18,3,4,18,20,43,WLWDWLWWLDWWLDWWWLWLDWWLW,3,2,7,13,19,11,8,4,13,33,51,WDWWWWWLLWWWWWDLWWWWWDWLD,1,2,10,8,28,LDLLWLDWLLWL,WWWLWWWDWWWWD
-Genoa,Bologna,1-1,/match/genoa/bologna/2017,2017,26,serie_a,20,38,1,1,1,15,6,7,12,27,40,WLWWDDLDWWWDWWDWLWLWDDLWW,4,5,3,17,12,14,7,6,12,23,38,WWWWWDLDDDLWWLWDLLWLWDLWL,2,4,6,11,22,WWDDDWDWLLDL,WWDDDWWLWLDW
-Lazio,Udinese,1-0,/match/lazio/udinese/2017,2017,26,serie_a,20,38,0,1,0,5,14,5,6,44,29,LLDWWWLDDWWDWLLLWWWWWLLDL,8,2,3,22,11,13,8,5,12,28,34,WWLLDWLWWLDDLWWLWDLLWWDWL,3,3,6,10,16,LWWDWWWLWWWLD,WLWWLDWLDWDW
-Inter,Roma,1-3,/match/internazionale/roma/2017,2017,26,serie_a,20,38,2,1,3,4,15,3,7,40,24,WDLWLDWLWWWWDWWWLWLWLWWWL,9,2,1,27,9,2,18,2,5,54,22,WDWWWWWLWLDWWWLWWWLLWWWLW,6,2,5,18,14,DWDLWWWWWWWW,DWWLLDWLWLLWL
-Fiorentina,Torino,2-2,/match/fiorentina/torino-fc/2017,2017,26,serie_a,20,38,1,2,2,8,11,7,7,42,35,WWWWDDWDLDLDLWWWWDLWLDWWW,6,6,0,19,11,9,9,8,8,46,40,WWWDDWWLDWDWLWWLWWDDWDDWW,2,4,7,17,24,WWDDDDWWDWDW,WWDLWDLWWDWDW
-Roma,Napoli,1-2,/match/roma/napoli/2017,2017,27,serie_a,20,38,2,1,2,2,19,2,5,57,23,WDWWWWWLWLDWWWLWWWLLWWWLWL,12,0,0,36,8,3,16,6,4,60,29,DWLWDWWLLWWDLDWLWDWWLDLWLL,7,3,2,30,13,WWWWWWWWWWWW,DLDWLWLLDLLL
-Sampdoria,Pescara,3-1,/match/sampdoria/pescara-calcio/2017,2017,27,serie_a,20,38,0,3,1,10,9,8,9,31,32,LWWLWWDDWWWDWDWLWDWDWWLWDD,7,4,2,19,12,19,2,6,18,27,57,DLLWDDLDWLWLWWDWLDLWLWLWWW,1,2,10,13,30,WLDWWWWLDDWWD,LWDWWWWWDWWWW
-Milan,Chievo,3-1,/match/milan/chievo/2017,2017,27,serie_a,20,38,0,3,1,7,14,5,7,37,29,WWLLWDWLWWWLDLWWDLWDLWLDWL,8,2,3,19,13,11,10,5,11,28,34,WWDLWWLLDDWLWWDLWWLWLLDLLW,5,1,6,13,15,WLWWWWDWDWLLW,WLWLDWWLWWLL
-Atalanta,Fiorentina,0-0,/match/atalanta/fiorentina/2017,2017,27,serie_a,20,38,1,0,0,6,16,3,7,42,26,LWWWLLWDWLWLWLWLDWLWWDWLWL,9,0,3,20,12,8,11,8,7,44,37,WWWWDDWDLDLDLWWWWDLWLDWWWD,5,1,7,23,24,LWLWWWWLWWWW,WWDWLLLWWLLWW
-Torino,Palermo FC,3-1,/match/torino-fc/palermo/2017,2017,27,serie_a,20,38,0,3,1,9,9,9,8,48,42,WWWDDWWLDWDWLWWLWWDDWDDWWD,7,4,1,29,16,20,3,6,17,22,50,LDLDLLDLWLWLWLWLLDWWLDWLWD,2,4,7,15,27,WDWWDWWLWDDW,DDLDWWWWLWWDW
-Crotone,Sassuolo,0-0,/match/fc-crotone/us-sassuolo-calcio/2017,2017,27,serie_a,20,38,1,0,0,18,3,4,19,21,45,WLWDWLWWLDWWLDWWWLWLDWWLWL,3,2,8,14,21,16,9,3,14,35,42,LLWWWWWWDLWLWDWWLWDWLLLLLL,4,2,7,21,24,LDLLWLDWLLWLL,LWWWDWWDWWLLL
-Udinese,Juventus,1-1,/match/udinese/juventus-fc/2017,2017,27,serie_a,20,38,1,1,1,14,8,5,13,28,35,WWLLDWLWWLDDLWWLWDLLWWDWLW,5,2,6,18,18,1,22,0,4,55,17,WLWWWLLWWWWLWWWLWLWWWLWLWW,8,0,4,19,10,WLDLWDLWWLLWL,LWLLWLWLLWLL
-Cagliari,Inter,1-5,/match/cagliari/internazionale/2017,2017,27,serie_a,20,38,2,1,5,12,9,4,13,35,52,WDWWWWWLLWWWWWDLWWWWWDWLDL,7,2,3,25,23,5,15,3,8,41,27,WDLWLDWLWWWWDWWWLWLWLWWWLL,6,1,6,13,15,DWWWLWWLWWDL,WLLWWWDWLLLWL
-Empoli,Genoa,0-2,/match/empoli-fc/genoa/2017,2017,27,serie_a,20,38,2,0,2,17,5,7,14,15,37,LWWDLWLDDWDLLLWDWWWDWWDWLW,4,3,6,9,18,13,6,8,12,28,41,WLWWDDLDWWWDWWDWLWLWDDLWWD,2,2,9,10,28,LWLLDDLLWWWDL,LWLWWWDWWWDWW
-Bologna,Lazio,0-2,/match/bologna/lazio/2017,2017,27,serie_a,20,38,2,0,2,15,7,7,12,24,39,WWWWWDLDDDLWWLWDLLWLWDLWLD,5,2,6,12,16,4,15,5,6,45,29,LLDWWWLDDWWDWLLLWWWWWLLDLW,6,3,3,22,18,WWWLDLWLDLWLL,LDWLDDLLWWLL
-Juventus,Milan,2-1,/match/juventus-fc/milan/2017,2017,28,serie_a,20,38,0,2,1,1,22,1,4,56,18,WLWWWLLWWWWLWWWLWLWWWLWLWWD,14,0,0,36,7,7,15,5,7,40,30,WWLLWDWLWWWLDLWWDLWDLWLDWLW,6,3,4,18,16,WWWWWWWWWWWWWW,WLDLWLLWLDWDL
-Genoa,Sampdoria,0-1,/match/genoa/sampdoria/2017,2017,28,serie_a,20,38,2,0,1,13,7,8,12,30,41,WLWWDDLDWWWDWWDWLWLWDDLWWDL,4,6,3,18,13,10,10,8,9,34,33,LWWLWWDDWWWDWDWLWDWDWWLWDDW,2,4,7,12,20,WWDDDWDWLLDLD,LWWWDWDDWWWLD
-Sassuolo,Bologna,0-1,/match/us-sassuolo-calcio/bologna/2017,2017,28,serie_a,20,38,2,0,1,16,9,4,14,35,42,LLWWWWWWDLWLWDWWLWDWLLLLLLD,5,1,7,14,18,15,7,7,13,24,41,WWWWWDLDDDLWWLWDLLWLWDLWLDL,2,5,6,12,23,LWWWLLWLDWLLL,WWDDDWWLWLDWD
-Inter,Atalanta,7-1,/match/internazionale/atalanta/2017,2017,28,serie_a,20,38,0,7,1,5,16,3,8,46,28,WDLWLDWLWWWWDWWWLWLWLWWWLLL,9,2,2,28,12,6,16,4,7,42,26,LWWWLLWDWLWLWLWLDWLWWDWLWLD,7,3,4,22,14,DWDLWWWWWWWWL,WWLDLLLWDLWDLL
-Chievo,Empoli,4-0,/match/chievo/empoli-fc/2017,2017,28,serie_a,20,38,0,4,0,11,10,5,12,29,37,WWDLWWLLDDWLWWDLWWLWLLDLLWW,5,4,5,15,19,17,5,7,15,15,39,LWWDLWLDDWDLLLWDWWWDWWDWLWL,1,4,8,6,19,WDWLDLWDWLLDLW,WDWDWLWDWDWWW
-Napoli,Crotone,3-0,/match/napoli/fc-crotone/2017,2017,28,serie_a,20,38,0,3,0,3,17,6,4,62,30,DWLWDWWLLWWDLDWLWDWWLDLWLLL,9,3,2,30,16,18,3,5,19,21,45,WLWDWLWWLDWWLDWWWLWLDWWLWLD,0,2,11,7,24,WWWLWDDWWWWDWL,WWWWWDWWWWDWW
-Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/2017,2017,28,serie_a,20,38,0,1,0,8,11,9,7,44,37,WWWWDDWDLDLDLWWWWDLWLDWWWDD,6,7,0,21,13,12,9,4,14,36,57,WDWWWWWLLWWWWWDLWWWWWDWLDLL,2,2,10,10,29,WWDDDDWWDWDWD,WWWLWWWDWWWWDL
-Pescara,Udinese,1-3,/match/pescara-calcio/udinese/2017,2017,28,serie_a,20,38,2,1,3,19,2,6,19,28,60,DLLWDDLDWLWLWWDWLDLWLWLWWWW,1,4,8,14,27,14,8,6,13,29,36,WWLLDWLWWLDDLWWLWDLLWWDWLWD,3,3,7,10,17,DLDLDLLDLLLLW,WLWWLDWLDWDWW
-Palermo FC,Roma,0-3,/match/palermo/roma/2017,2017,28,serie_a,20,38,2,0,3,20,3,6,18,23,53,LDLDLLDLWLWLWLWLLDWWLDWLWDW,1,2,10,7,23,2,19,2,6,58,25,WDWWWWWLWLDWWWLWWWLLWWWLWLL,7,2,5,21,15,LLLLLLLLDLWLD,DWWLLDWLWLLWLL
-Lazio,Torino,3-1,/match/lazio/torino-fc/2017,2017,28,serie_a,20,38,0,3,1,4,16,5,6,47,29,LLDWWWLDDWWDWLLLWWWWWLLDLWL,9,2,3,23,11,9,10,9,8,51,43,WWWDDWWLDWDWLWWLWWDDWDDWWDW,2,5,7,19,26,LWWDWWWLWWWLDW,WWDLWDLWWDWDWD
-Torino,Inter,2-2,/match/torino-fc/internazionale/2017,2017,29,serie_a,20,38,1,2,2,10,10,9,9,52,46,WWWDDWWLDWDWLWWLWWDDWDDWWDWW,8,4,1,32,17,5,17,3,8,53,29,WDLWLDWLWWWWDWWWLWLWLWWWLLLW,7,1,6,18,16,WDWWDWWLWDDWW,WLLWWWDWLLLWLL
-Milan,Genoa,1-0,/match/milan/genoa/2017,2017,29,serie_a,20,38,0,1,0,7,15,5,8,41,32,WWLLWDWLWWWLDLWWDLWDLWLDWLWW,9,2,3,22,14,14,7,8,13,30,42,WLWWDDLDWWWDWWDWLWLWDDLWWDLL,3,2,9,12,28,WLWWWWDWDWLLWW,LWLWWWDWWWDWWL
-Empoli,Napoli,2-3,/match/empoli-fc/napoli/2017,2017,29,serie_a,20,38,2,2,3,17,5,7,16,15,43,LWWDLWLDDWDLLLWDWWWDWWDWLWLW,4,3,7,9,20,3,18,6,4,65,30,DWLWDWWLLWWDLDWLWDWWLDLWLLLW,8,3,2,32,14,LWLLDDLLWWWDLL,DLDWLWLLDLLLL
-Bologna,Chievo,4-1,/match/bologna/chievo/2017,2017,29,serie_a,20,38,0,4,1,15,8,7,13,25,41,WWWWWDLDDDLWWLWDLLWLWDLWLDLL,5,2,7,12,18,11,11,5,12,33,37,WWDLWWLLDDWLWWDLWWLWLLDLLWWW,5,1,7,14,18,WWWLDLWLDLWLLL,WLWLDWWLWWLLW
-Atalanta,Pescara,3-0,/match/atalanta/pescara-calcio/2017,2017,29,serie_a,20,38,0,3,0,6,16,4,8,43,33,LWWWLLWDWLWLWLWLDWLWWDWLWLDW,9,1,3,20,12,19,2,6,20,29,63,DLLWDDLDWLWLWWDWLDLWLWLWWWWL,1,2,11,14,33,LWLWWWWLWWWWD,LWDWWWWWDWWWWW
-Cagliari,Lazio,0-0,/match/cagliari/lazio/2017,2017,29,serie_a,20,38,1,0,0,12,9,4,15,36,58,WDWWWWWLLWWWWWDLWWWWWDWLDLLW,7,2,4,26,28,4,17,5,6,50,30,LLDWWWLDDWWDWLLLWWWWWLLDLWLW,7,3,3,24,18,DWWWLWWLWWDLL,LDWLDDLLWWLLL
-Sampdoria,Juventus,0-1,/match/sampdoria/juventus-fc/2017,2017,29,serie_a,20,38,2,0,1,9,11,8,9,35,33,LWWLWWDDWWWDWDWLWDWDWWLWDDWL,8,4,2,22,13,1,23,1,4,58,19,WLWWWLLWWWWLWWWLWLWWWLWLWWDW,8,1,4,20,11,WLDWWWWLDDWWDW,LWLLWLWLLWLLD
-Crotone,Fiorentina,0-1,/match/fc-crotone/fiorentina/2017,2017,29,serie_a,20,38,2,0,1,18,3,5,20,21,48,WLWDWLWWLDWWLDWWWLWLDWWLWLDW,3,3,8,14,21,8,12,9,7,45,37,WWWWDDWDLDLDLWWWWDLWLDWWWDDW,5,2,7,23,24,LDLLWLDWLLWLLD,WWDWLLLWWLLWWD
-Udinese,Palermo FC,4-1,/match/udinese/palermo/2017,2017,29,serie_a,20,38,0,4,1,13,9,6,13,32,37,WWLLDWLWWLDDLWWLWDLLWWDWLWDL,5,3,6,19,19,20,3,6,19,23,56,LDLDLLDLWLWLWLWLLDWWLDWLWDWL,2,4,8,16,30,WLDLWDLWWLLWLD,DDLDWWWWLWWDWW
-Roma,Sassuolo,3-1,/match/roma/us-sassuolo-calcio/2017,2017,29,serie_a,20,38,0,3,1,2,20,2,6,61,25,WDWWWWWLWLDWWWLWWWLLWWWLWLLL,12,0,1,37,10,16,9,4,15,35,43,LLWWWWWWDLWLWDWWLWDWLLLLLLDL,4,3,7,21,24,WWWWWWWWWWWWL,LWWWDWWDWWLLLD
-Sassuolo,Lazio,1-2,/match/us-sassuolo-calcio/lazio/2017,2017,30,serie_a,20,38,2,1,2,16,9,4,16,36,46,LLWWWWWWDLWLWDWWLWDWLLLLLLDLW,5,1,8,14,19,4,17,6,6,50,30,LLDWWWLDDWWDWLLLWWWWWLLDLWLWD,7,4,3,24,18,LWWWLLWLDWLLLL,LDWLDDLLWWLLLD
-Roma,Empoli,2-0,/match/roma/empoli-fc/2017,2017,30,serie_a,20,38,0,2,0,2,21,2,6,64,26,WDWWWWWLWLDWWWLWWWLLWWWLWLLLW,13,0,1,40,11,17,5,7,17,17,46,LWWDLWLDDWDLLLWDWWWDWWDWLWLWL,1,4,9,6,23,WWWWWWWWWWWWLW,WDWDWLWDWDWWWW
-Torino,Udinese,2-2,/match/torino-fc/udinese/2017,2017,30,serie_a,20,38,1,2,2,9,10,10,9,54,48,WWWDDWWLDWDWLWWLWWDDWDDWWDWWD,8,5,1,34,19,12,10,6,13,36,38,WWLLDWLWWLDDLWWLWDLLWWDWLWDLW,4,3,7,13,18,WDWWDWWLWDDWWD,WLWWLDWLDWDWWL
-Pescara,Milan,1-1,/match/pescara-calcio/milan/2017,2017,30,serie_a,20,38,1,1,1,19,2,6,21,29,66,DLLWDDLDWLWLWWDWLDLWLWLWWWWLW,1,4,9,15,30,7,16,5,8,42,32,WWLLWDWLWWWLDLWWDLWDLWLDWLWWW,6,3,5,19,18,DLDLDLLDLLLLWL,WLDLWLLWLDWDLW
-Genoa,Atalanta,0-5,/match/genoa/atalanta/2017,2017,30,serie_a,20,38,2,0,5,15,7,8,14,30,43,WLWWDDLDWWWDWWDWLWLWDDLWWDLLW,4,6,4,18,14,6,17,4,8,46,33,LWWWLLWDWLWLWLWLDWLWWDWLWLDWW,7,3,5,23,21,WWDDDWDWLLDLDL,WWLDLLLWDLWDLLW
-Chievo,Crotone,1-2,/match/chievo/fc-crotone/2017,2017,30,serie_a,20,38,2,1,2,11,11,5,13,34,41,WWDLWWLLDDWLWWDLWWLWLLDLLWWWW,6,4,5,19,19,18,3,5,21,21,49,WLWDWLWWLDWWLDWWWLWLDWWLWLDWL,0,2,12,7,27,WDWLDLWDWLLDLWW,WWWWWDWWWWDWWW
-Palermo FC,Cagliari,1-3,/match/palermo/cagliari/2017,2017,30,serie_a,20,38,2,1,3,20,3,6,20,24,60,LDLDLLDLWLWLWLWLLDWWLDWLWDWLW,1,2,11,7,26,13,9,5,15,36,58,WDWWWWWLLWWWWWDLWWWWWDWLDLLWD,2,2,11,10,30,LLLLLLLLDLWLDL,WWWLWWWDWWWWDLW
-Fiorentina,Bologna,1-0,/match/fiorentina/bologna/2017,2017,30,serie_a,20,38,0,1,0,8,13,9,7,46,37,WWWWDDWDLDLDLWWWWDLWLDWWWDDWL,7,7,0,22,13,14,9,7,13,29,42,WWWWWDLDDDLWWLWDLLWLWDLWLDLLW,3,5,6,13,23,WWDDDDWWDWDWDW,WWDDDWWLWLDWDL
-Napoli,Juventus,1-1,/match/napoli/juventus-fc/2017,2017,30,serie_a,20,38,1,1,1,3,19,6,4,68,32,DWLWDWWLLWWDLDWLWDWWLDLWLLLWL,10,3,2,33,16,1,24,1,4,59,19,WLWWWLLWWWWLWWWLWLWWWLWLWWDWL,9,1,4,21,11,WWWLWDDWWWWDWLW,LWLLWLWLLWLLDL
-Inter,Sampdoria,1-2,/match/internazionale/sampdoria/2017,2017,30,serie_a,20,38,2,1,2,5,17,4,8,55,31,WDLWLDWLWWWWDWWWLWLWLWWWLLLWD,10,2,2,35,13,10,11,8,10,35,34,LWWLWWDDWWWDWDWLWDWDWWLWDDWLL,3,4,7,13,20,DWDLWWWWWWWWLW,LWWWDWDDWWWLDL
-Empoli,Pescara,1-1,/match/empoli-fc/pescara-calcio/2017,2017,31,serie_a,20,38,1,1,1,17,5,7,18,17,48,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLW,4,3,8,11,23,19,2,7,21,30,67,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWD,1,2,12,14,36,LWLLDDLLWWWDLLL,LWDWWWWWDWWWWWW
-Atalanta,Sassuolo,1-1,/match/atalanta/us-sassuolo-calcio/2017,2017,31,serie_a,20,38,1,1,1,5,18,4,8,51,33,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWL,10,1,3,23,12,16,9,4,17,37,48,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWL,4,3,8,22,27,LWLWWWWLWWWWDW,LWWWDWWDWWLLLDW
-Juventus,Chievo,2-0,/match/juventus-fc/chievo/2017,2017,31,serie_a,20,38,0,2,0,1,24,2,4,60,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLD,15,0,0,38,8,11,11,5,14,35,43,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWL,5,1,8,15,22,WWWWWWWWWWWWWWW,WLWLDWWLWWLLWW
-Sampdoria,Fiorentina,2-2,/match/sampdoria/fiorentina/2017,2017,31,serie_a,20,38,1,2,2,10,12,8,10,37,35,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLL,8,4,3,22,14,8,14,9,7,47,37,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLW,6,2,7,24,24,WLDWWWWLDDWWDWL,WWDWLLLWWLLWWDL
-Bologna,Roma,0-3,/match/bologna/roma/2017,2017,31,serie_a,20,38,2,0,3,14,9,7,14,29,43,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWW,6,2,7,16,19,2,22,2,6,66,26,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWW,8,2,5,24,15,WWWLDLWLDLWLLLW,DWWLLDWLWLLWLLL
-Milan,Palermo FC,4-0,/match/milan/palermo/2017,2017,31,serie_a,20,38,0,4,0,7,16,6,8,43,33,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWD,10,2,3,23,14,20,3,6,21,25,63,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWL,2,4,9,17,34,WLWWWWDWDWLLWWW,DDLDWWWWLWWDWWW
-Crotone,Inter,2-1,/match/fc-crotone/internazionale/2017,2017,31,serie_a,20,38,0,2,1,18,4,5,21,23,50,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLL,3,3,9,14,22,6,17,4,9,56,33,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDL,7,2,6,20,18,LDLLWLDWLLWLLDL,WLLWWWDWLLLWLLD
-Udinese,Genoa,3-0,/match/udinese/genoa/2017,2017,31,serie_a,20,38,0,3,0,12,10,7,13,38,40,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWD,6,3,6,23,20,15,7,8,15,30,48,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWL,3,2,10,12,29,WLDLWDLWWLLWLDW,LWLWWWDWWWDWWLW
-Cagliari,Torino,2-3,/match/cagliari/torino-fc/2017,2017,31,serie_a,20,38,2,2,3,13,10,5,15,39,59,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDL,7,3,4,26,28,9,10,11,9,56,50,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDD,2,5,8,20,29,DWWWLWWLWWDLLD,WWDLWDLWWDWDWDW
-Lazio,Napoli,0-3,/match/lazio/napoli/2017,2017,31,serie_a,20,38,2,0,3,4,18,6,6,52,31,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDL,10,2,3,26,12,3,19,7,4,69,33,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLD,9,3,2,35,16,LWWDWWWLWWWLDWW,DLDWLWLLDLLLLL
-Inter,Milan,2-2,/match/internazionale/milan/2017,2017,32,serie_a,20,38,1,2,2,8,17,4,10,57,35,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLW,10,2,3,36,15,5,17,6,8,47,33,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDW,6,4,5,20,19,DWDLWWWWWWWWLWL,WLDLWLLWLDWDLWD
-Roma,Atalanta,1-1,/match/roma/atalanta/2017,2017,32,serie_a,20,38,1,1,1,2,23,2,6,69,26,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWL,14,0,1,42,11,6,18,5,8,52,34,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLD,8,3,5,28,21,WWWWWWWWWWWWLWW,WWLDLLLWDLWDLLWL
-Genoa,Lazio,2-2,/match/genoa/lazio/2017,2017,32,serie_a,20,38,1,2,2,15,7,8,16,30,51,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLW,4,6,5,18,19,4,18,6,7,52,34,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLL,8,4,3,26,19,WWDDDWDWLLDLDLL,LDWLDDLLWWLLLDL
-Pescara,Juventus,0-2,/match/pescara-calcio/juventus-fc/2017,2017,32,serie_a,20,38,2,0,2,19,2,8,21,31,68,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDD,1,5,9,16,31,1,25,2,4,62,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDW,9,2,4,22,12,DLDLDLLDLLLLWLD,LWLLWLWLLWLLDLD
-Fiorentina,Empoli,1-2,/match/fiorentina/empoli-fc/2017,2017,32,serie_a,20,38,2,1,2,7,14,10,7,49,39,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWD,8,7,0,23,13,17,5,8,18,18,49,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWD,1,4,10,6,25,WWDDDDWWDWDWDWW,WDWDWLWDWDWWWWW
-Torino,Crotone,1-1,/match/torino-fc/fc-crotone/2017,2017,32,serie_a,20,38,1,1,1,9,11,11,9,59,52,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDL,8,6,1,36,21,18,5,5,21,25,51,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLW,1,2,12,9,28,WDWWDWWLWDDWWDD,WWWWWDWWWWDWWWL
-Cagliari,Chievo,4-0,/match/cagliari/chievo/2017,2017,32,serie_a,20,38,0,4,0,13,10,5,16,41,62,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLL,7,3,5,28,31,12,11,5,15,35,45,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLW,5,1,9,15,24,DWWWLWWLWWDLLDL,WLWLDWWLWWLLWWW
-Palermo FC,Bologna,0-0,/match/palermo/bologna/2017,2017,32,serie_a,20,38,1,0,0,20,3,6,22,25,67,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLW,1,2,12,8,29,14,9,7,15,29,46,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWL,3,5,7,13,24,LLLLLLLLDLWLDLL,WWDDDWWLWLDWDLW
-Sassuolo,Sampdoria,2-1,/match/us-sassuolo-calcio/sampdoria/2017,2017,32,serie_a,20,38,0,2,1,16,9,5,17,38,49,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLD,5,1,9,15,21,10,12,9,10,39,37,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLD,4,4,7,15,21,LWWWLLWLDWLLLLL,LWWWDWDDWWWLDLL
-Napoli,Udinese,3-0,/match/napoli/udinese/2017,2017,32,serie_a,20,38,0,3,0,3,20,7,4,72,33,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDL,10,4,2,34,17,11,11,7,13,41,40,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDW,4,4,7,15,20,WWWLWDDWWWWDWLWD,WLWWLDWLDWDWWLD
-Atalanta,Bologna,3-2,/match/atalanta/bologna/2017,2017,33,serie_a,20,38,0,3,2,6,18,6,8,53,35,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDD,10,2,3,24,13,14,9,8,15,29,46,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLD,3,6,7,13,24,LWLWWWWLWWWWDWD,WWDDDWWLWLDWDLWD
-Fiorentina,Inter,5-4,/match/fiorentina/internazionale/2017,2017,33,serie_a,20,38,0,5,4,8,14,10,8,50,41,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDL,8,7,1,24,15,7,17,5,10,59,37,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWD,7,2,7,21,20,WWDDDDWWDWDWDWWL,WLLWWWDWLLLWLLDW
-Sassuolo,Napoli,2-2,/match/us-sassuolo-calcio/napoli/2017,2017,33,serie_a,20,38,1,2,2,16,10,5,17,40,50,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDW,6,1,9,17,22,3,21,7,4,75,33,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLW,10,3,2,38,16,LWWWLLWLDWLLLLLW,DLDWLWLLDLLLLLL
-Sampdoria,Crotone,1-2,/match/sampdoria/fc-crotone/2017,2017,33,serie_a,20,38,2,1,2,10,12,9,11,40,39,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDW,8,5,3,24,16,18,5,6,21,26,52,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWD,1,3,12,10,29,WLDWWWWLDDWWDWLD,WWWWWDWWWWDWWWLD
-Milan,Empoli,1-2,/match/milan/empoli-fc/2017,2017,33,serie_a,20,38,2,1,2,5,17,7,8,49,35,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWD,11,2,3,27,14,17,6,8,18,20,50,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDL,2,4,10,8,26,WLWWWWDWDWLLWWWW,WDWDWLWDWDWWWWWL
-Udinese,Cagliari,2-1,/match/udinese/cagliari/2017,2017,33,serie_a,20,38,0,2,1,12,11,7,14,41,43,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWW,7,3,6,26,20,11,11,5,16,45,62,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLW,3,2,11,13,31,WLDLWDLWWLLWLDWW,WWWLWWWDWWWWDLWL
-Lazio,Palermo FC,6-2,/match/lazio/palermo/2017,2017,33,serie_a,20,38,0,6,2,4,18,7,7,54,36,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLD,10,2,4,26,15,20,3,7,22,25,67,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWD,2,4,10,17,38,LWWDWWWLWWWLDWWL,DDLDWWWWLWWDWWWW
-Chievo,Torino,1-3,/match/chievo/torino-fc/2017,2017,33,serie_a,20,38,2,1,3,13,11,5,16,35,49,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWW,6,4,6,20,21,9,11,12,9,60,53,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLD,3,5,8,23,31,WDWLDLWDWLLDLWWL,WWDLWDLWWDWDWDWL
-Juventus,Genoa,4-0,/match/juventus-fc/genoa/2017,2017,33,serie_a,20,38,0,4,0,1,26,2,4,64,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWL,16,0,0,40,8,15,7,9,16,32,53,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWD,3,2,11,12,32,WWWWWWWWWWWWWWWW,LWLWWWDWWWDWWLWW
-Pescara,Roma,1-4,/match/pescara-calcio/roma/2017,2017,33,serie_a,20,38,2,1,4,19,2,8,22,31,70,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDL,1,5,10,16,33,2,23,3,6,70,27,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLD,9,2,5,27,15,DLDLDLLDLLLLWLDL,DWWLLDWLWLLWLLLL
-Atalanta,Juventus,2-2,/match/atalanta/juventus-fc/2017,2017,34,serie_a,20,38,1,2,2,5,19,6,8,56,37,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDW,11,2,3,27,15,1,27,2,4,68,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLW,10,2,4,24,12,LWLWWWWLWWWWDWDW,LWLLWLWLLWLLDLDL
-Torino,Sampdoria,1-1,/match/torino-fc/sampdoria/2017,2017,34,serie_a,20,38,1,1,1,9,12,12,9,63,54,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDL,8,7,1,37,22,10,12,9,12,41,41,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWL,4,4,8,16,23,WDWWDWWLWDDWWDDD,LWWWDWDDWWWLDLLW
-Roma,Lazio,1-3,/match/roma/lazio/2017,2017,34,serie_a,20,38,2,1,3,2,24,3,6,74,28,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDL,14,1,1,43,12,4,19,7,7,60,38,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDW,8,5,3,28,21,WWWWWWWWWWWWLWWD,LDWLDDLLWWLLLDLD
-Genoa,Chievo,1-2,/match/genoa/chievo/2017,2017,34,serie_a,20,38,2,1,2,16,7,9,17,32,57,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDW,4,7,5,20,21,13,11,5,17,36,52,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWL,5,1,10,15,28,WWDDDWDWLLDLDLLD,WLWLDWWLWWLLWWWW
-Empoli,Sassuolo,1-3,/match/empoli-fc/us-sassuolo-calcio/2017,2017,34,serie_a,20,38,2,1,3,17,7,8,18,22,51,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLL,4,4,8,12,24,15,10,6,17,42,52,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWD,4,4,8,23,28,LWLLDDLLWWWDLLLD,LWWWDWWDWWLLLDWD
-Cagliari,Pescara,1-0,/match/cagliari/pescara-calcio/2017,2017,34,serie_a,20,38,0,1,0,12,11,5,17,46,64,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWW,8,3,5,32,31,19,2,8,23,32,74,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLL,1,3,12,15,37,DWWWLWWLWWDLLDLW,LWDWWWWWDWWWWWWD
-Bologna,Udinese,4-0,/match/bologna/udinese/2017,2017,34,serie_a,20,38,0,4,0,14,9,8,16,31,49,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDW,6,2,8,16,22,11,12,7,14,43,44,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWW,4,4,8,15,23,WWWLDLWLDLWLLLWL,WLWWLDWLDWDWWLDW
-Crotone,Milan,1-1,/match/fc-crotone/milan/2017,2017,34,serie_a,20,38,1,1,1,18,6,6,21,28,53,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDL,4,3,9,16,23,6,17,7,9,50,37,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDL,6,5,5,22,21,LDLLWLDWLLWLLDLW,WLDLWLLWLDWDLWDD
-Palermo FC,Fiorentina,2-0,/match/palermo/fiorentina/2017,2017,34,serie_a,20,38,0,2,0,20,3,7,23,27,73,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDW,1,3,12,8,29,7,15,10,8,55,45,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLW,6,3,7,26,26,LLLLLLLLDLWLDLLD,WWDWLLLWWLLWWDLD
-Inter,Napoli,0-1,/match/internazionale/napoli/2017,2017,34,serie_a,20,38,2,0,1,8,17,5,11,63,42,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDW,10,3,3,38,17,3,21,8,4,77,35,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWD,10,4,2,40,18,DWDLWWWWWWWWLWLD,DLDWLWLLDLLLLLLD
-Napoli,Cagliari,3-1,/match/napoli/cagliari/2017,2017,35,serie_a,20,38,0,3,1,3,22,8,4,78,35,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDL,11,4,2,37,17,11,12,5,17,47,64,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWW,3,2,12,14,33,WWWLWDDWWWWDWLWDW,WWWLWWWDWWWWDLWLW
-Juventus,Torino,1-1,/match/juventus-fc/torino-fc/2017,2017,35,serie_a,20,38,1,1,1,1,27,3,4,70,22,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWD,17,0,0,44,8,9,12,13,9,64,55,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLD,4,5,8,26,32,WWWWWWWWWWWWWWWWW,WWDLWDLWWDWDWDWLL
-Udinese,Atalanta,1-1,/match/udinese/atalanta/2017,2017,35,serie_a,20,38,1,1,1,12,12,7,15,43,48,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWW,8,3,6,28,21,5,19,7,8,58,39,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWD,8,4,5,29,22,WLDLWDLWWLLWLDWWW,WWLDLLLWDLWDLLWLD
-Pescara,Crotone,0-1,/match/pescara-calcio/fc-crotone/2017,2017,35,serie_a,20,38,2,0,1,20,2,8,24,32,75,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLW,1,5,11,17,37,18,6,7,21,29,54,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLD,2,3,12,12,30,DLDLDLLDLLLLWLDLL,WWWWWDWWWWDWWWLDL
-Sassuolo,Fiorentina,2-2,/match/us-sassuolo-calcio/fiorentina/2017,2017,35,serie_a,20,38,1,2,2,15,11,6,17,45,53,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDL,6,2,9,19,24,7,15,10,9,55,47,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWW,6,3,8,26,28,LWWWLLWLDWLLLLLWD,WWDWLLLWWLLWWDLDW
-Empoli,Bologna,3-1,/match/empoli-fc/bologna/2017,2017,35,serie_a,20,38,0,3,1,17,7,8,19,23,54,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLL,4,4,9,13,27,14,10,8,16,35,49,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWW,3,6,8,15,27,LWLLDDLLWWWDLLLDL,WWDDDWWLWLDWDLWDW
-Chievo,Palermo FC,1-1,/match/chievo/palermo/2017,2017,35,serie_a,20,38,1,1,1,13,12,5,17,38,53,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLL,6,4,7,21,24,19,4,7,23,29,73,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWW,2,4,11,19,44,WDWLDLWDWLLDLWWLL,DDLDWWWWLWWDWWWWW
-Lazio,Sampdoria,7-3,/match/lazio/sampdoria/2017,2017,35,serie_a,20,38,0,7,3,4,20,7,7,63,39,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWL,11,2,4,32,17,10,12,10,12,42,42,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLD,4,5,8,17,24,LWWDWWWLWWWLDWWLW,LWWWDWDDWWWLDLLWD
-Genoa,Inter,1-0,/match/genoa/internazionale/2017,2017,35,serie_a,20,38,0,1,0,16,7,9,18,33,59,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWL,4,7,6,21,23,8,17,5,12,63,43,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWL,7,2,8,25,25,WWDDDWDWLLDLDLLDL,WLLWWWDWLLLWLLDWW
-Milan,Roma,1-4,/match/milan/roma/2017,2017,35,serie_a,20,38,2,1,4,6,17,8,9,51,38,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLD,11,2,4,28,16,2,24,3,7,75,31,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLL,10,2,5,31,16,WLWWWWDWDWLLWWWWL,DWWLLDWLWLLWLLLLL
-Fiorentina,Lazio,3-2,/match/fiorentina/lazio/2017,2017,36,serie_a,20,38,0,3,2,7,15,11,9,57,49,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWWD,9,7,1,29,19,4,21,7,7,70,42,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWLW,9,5,3,31,22,WWDDDDWWDWDWDWWLW,LDWLDDLLWWLLLDLDL
-Atalanta,Milan,1-1,/match/atalanta/milan/2017,2017,36,serie_a,20,38,1,1,1,5,19,8,8,59,40,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWDD,11,3,3,29,17,6,17,8,10,52,42,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLDL,6,6,5,23,22,LWLWWWWLWWWWDWDWD,WLDLWLLWLDWDLWDDD
-Inter,Sassuolo,1-2,/match/internazionale/us-sassuolo-calcio/2017,2017,36,serie_a,20,38,2,1,2,8,17,5,13,63,44,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWLW,10,3,4,38,18,15,11,7,17,47,55,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDLD,5,4,8,26,29,DWDLWWWWWWWWLWLDL,LWWWDWWDWWLLLDWDL
-Bologna,Pescara,3-1,/match/bologna/pescara-calcio/2017,2017,36,serie_a,20,38,0,3,1,14,10,8,17,36,52,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWWW,7,2,8,20,22,20,2,8,25,32,76,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLWL,1,3,13,15,38,WWWLDLWLDLWLLLWLW,LWDWWWWWDWWWWWWDW
-Torino,Napoli,0-5,/match/torino-fc/napoli/2017,2017,36,serie_a,20,38,2,0,5,9,12,14,9,65,56,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLDD,8,8,1,38,23,2,23,8,4,81,36,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDLW,11,4,2,41,18,WDWWDWWLWDDWWDDDD,DLDWLWLLDLLLLLLDL
-Sampdoria,Chievo,1-1,/match/sampdoria/chievo/2017,2017,36,serie_a,20,38,1,1,1,10,12,10,13,45,49,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLDW,8,5,4,25,18,13,12,6,17,39,54,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLLD,6,1,10,17,29,WLDWWWWLDDWWDWLDL,WLWLDWWLWWLLWWWWL
-Palermo FC,Genoa,1-0,/match/palermo/genoa/2017,2017,36,serie_a,20,38,0,1,0,19,4,8,23,30,74,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWWD,2,3,12,10,29,16,8,9,18,34,59,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWLW,3,2,12,12,36,LLLLLLLLDLWLDLLDW,LWLWWWDWWWDWWLWWW
-Cagliari,Empoli,3-2,/match/cagliari/empoli-fc/2017,2017,36,serie_a,20,38,0,3,2,12,12,5,18,48,67,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWWW,9,3,5,33,31,17,8,8,19,26,55,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLLW,3,4,10,10,27,DWWWLWWLWWDLLDLWW,WDWDWLWDWDWWWWWLL
-Crotone,Udinese,1-0,/match/fc-crotone/udinese/2017,2017,36,serie_a,20,38,0,1,0,18,7,7,21,30,54,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLDL,4,4,9,17,24,11,12,8,15,44,49,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWWD,4,4,9,15,27,LDLLWLDWLLWLLDLWD,WLWWLDWLDWDWWLDWW
-Roma,Juventus,3-1,/match/roma/juventus-fc/2017,2017,36,serie_a,20,38,0,3,1,3,25,3,7,79,32,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLLL,14,1,2,44,15,1,27,4,4,71,23,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWDD,10,3,4,26,14,WWWWWWWWWWWWLWWDL,LWLLWLWLLWLLDLDLD
-Chievo,Roma,3-5,/match/chievo/roma/2017,2017,37,serie_a,20,38,2,3,5,13,12,7,17,40,55,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLLDD,6,5,7,22,25,2,26,3,7,82,33,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLLLW,11,2,5,35,17,WDWLDLWDWLLDLWWLLD,DWWLLDWLWLLWLLLLLL
-Napoli,Fiorentina,4-1,/match/napoli/fiorentina/2017,2017,37,serie_a,20,38,0,4,1,3,24,8,4,86,36,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDLWL,12,4,2,40,18,6,16,11,9,60,51,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWWDW,6,4,8,28,30,WWWLWDDWWWWDWLWDWW,WWDWLLLWWLLWWDLDWD
-Empoli,Atalanta,0-1,/match/empoli-fc/atalanta/2017,2017,37,serie_a,20,38,2,0,1,17,8,8,20,28,58,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLLWW,5,4,9,16,28,5,19,9,8,60,41,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWDDD,8,5,5,30,23,LWLLDDLLWWWDLLLDLW,WWLDLLLWDLWDLLWLDD
-Udinese,Sampdoria,1-1,/match/udinese/sampdoria/2017,2017,37,serie_a,20,38,1,1,1,12,12,8,16,44,50,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWWDW,8,4,6,29,22,10,12,11,13,46,50,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLDWD,4,5,9,20,31,WLDLWDLWWLLWLDWWWD,LWWWDWDDWWWLDLLWDW
-Genoa,Torino,2-1,/match/genoa/torino-fc/2017,2017,37,serie_a,20,38,0,2,1,16,8,9,19,34,60,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWLWW,5,7,6,22,23,9,12,14,10,65,61,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLDDL,4,6,8,27,33,WWDDDWDWLLDLDLLDLW,WWDLWDLWWDWDWDWLLD
-Juventus,Crotone,3-0,/match/juventus-fc/fc-crotone/2017,2017,37,serie_a,20,38,0,3,0,1,27,4,5,72,26,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWDDW,17,1,0,45,9,18,8,7,21,31,54,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLDLW,3,3,12,13,30,WWWWWWWWWWWWWWWWWD,WWWWWDWWWWDWWWLDLL
-Sassuolo,Cagliari,6-2,/match/us-sassuolo-calcio/cagliari/2017,2017,37,serie_a,20,38,0,6,2,15,12,7,17,49,56,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDLDL,6,3,9,21,26,11,13,5,18,51,69,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWWWW,3,2,13,15,36,LWWWLLWLDWLLLLLWDD,WWWLWWWDWWWWDLWLWW
-Milan,Bologna,3-0,/match/milan/bologna/2017,2017,37,serie_a,20,38,0,3,0,7,17,9,10,53,43,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLDLD,11,2,5,29,20,14,11,8,17,39,53,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWWWW,3,6,9,16,30,WLWWWWDWDWLLWWWWLL,WWDDDWWLWLDWDLWDWW
-Lazio,Inter,1-3,/match/lazio/internazionale/2017,2017,37,serie_a,20,38,2,1,3,4,21,7,8,72,45,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWLWW,12,2,4,39,20,8,17,5,14,64,46,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWLWL,7,2,9,25,26,LWWDWWWLWWWLDWWLWW,WLLWWWDWLLLWLLDWWW
-Pescara,Palermo FC,2-0,/match/pescara-calcio/palermo/2017,2017,37,serie_a,20,38,0,2,0,20,2,8,26,33,79,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLWLW,1,5,12,17,38,19,5,8,23,31,74,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWWDW,2,5,11,20,45,DLDLDLLDLLLLWLDLLL,DDLDWWWWLWWDWWWWWD
-Bologna,Juventus,1-2,/match/bologna/juventus-fc/2017,2017,38,serie_a,20,38,2,1,2,15,11,8,18,39,56,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWWWWW,8,2,8,23,23,1,28,4,5,75,26,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWDDWW,10,3,5,27,17,WWWLDLWLDLWLLLWLWW,LWLLWLWLLWLLDLDLDW
-Atalanta,Chievo,1-0,/match/atalanta/chievo/2017,2017,38,serie_a,20,38,0,1,0,5,20,9,8,61,41,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWDDDL,11,4,3,30,18,14,12,7,18,43,60,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLLDDL,6,2,10,18,30,LWLWWWWLWWWWDWDWDD,WLWLDWWLWWLLWWWWLD
-Cagliari,Milan,2-1,/match/cagliari/milan/2017,2017,38,serie_a,20,38,0,2,1,12,13,5,19,53,75,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWWWWW,10,3,5,36,33,6,18,9,10,56,43,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLDLDW,6,7,5,24,23,DWWWLWWLWWDLLDLWWW,WLDLWLLWLDWDLWDDDD
-Roma,Genoa,3-2,/match/roma/genoa/2017,2017,38,serie_a,20,38,0,3,2,3,27,3,7,87,36,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLLLWL,15,1,2,47,16,16,9,9,19,36,61,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWLWWW,3,2,13,12,37,WWWWWWWWWWWWLWWDLW,LWLWWWDWWWDWWLWWWW
-Sampdoria,Napoli,2-4,/match/sampdoria/napoli/2017,2017,38,serie_a,20,38,2,2,4,10,12,12,13,47,51,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLDWDD,8,6,4,26,19,2,25,8,4,90,37,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDLWLW,12,4,2,46,18,WLDWWWWLDDWWDWLDLD,DLDWLWLLDLLLLLLDLL
-Palermo FC,Empoli,2-1,/match/palermo/empoli-fc/2017,2017,38,serie_a,20,38,0,2,1,19,5,8,24,31,76,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWWDWW,3,3,12,11,29,17,8,8,21,28,59,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLLWWL,3,4,11,12,30,LLLLLLLLDLWLDLLDWW,WDWDWLWDWDWWWWWLLW
-Fiorentina,Pescara,2-2,/match/fiorentina/pescara-calcio/2017,2017,38,serie_a,20,38,1,2,2,7,16,11,10,61,55,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWWDWW,10,7,1,32,21,20,3,8,26,35,79,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLWLWW,1,3,14,16,41,WWDDDDWWDWDWDWWLWW,LWDWWWWWDWWWWWWDWW
-Torino,Sassuolo,5-3,/match/torino-fc/us-sassuolo-calcio/2017,2017,38,serie_a,20,38,0,5,3,9,12,14,11,66,63,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLDDLW,8,8,2,38,28,13,13,7,17,55,58,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDLDLW,6,4,8,28,30,WDWWDWWLWDDWWDDDDL,LWWWDWWDWWLLLDWDLL
-Crotone,Lazio,3-1,/match/fc-crotone/lazio/2017,2017,38,serie_a,20,38,0,3,1,18,8,7,22,31,57,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLDLWW,5,4,9,18,24,4,21,7,9,73,48,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWLWWL,9,5,4,33,25,LDLLWLDWLLWLLDLWDW,LDWLDDLLWWLLLDLDLW
-Inter,Udinese,5-2,/match/internazionale/udinese/2017,2017,38,serie_a,20,38,0,5,2,8,18,5,14,67,47,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWLWLL,10,3,5,39,20,11,12,9,16,45,51,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWWDWD,4,4,10,15,28,DWDLWWWWWWWWLWLDLL,WLWWLDWLDWDWWLDWWW
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Roma,Udinese,4-0,/match/roma/udinese/2017,2017,1,serie_a,20,38,0,4,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Juventus,Fiorentina,2-1,/match/juventus-fc/fiorentina/2017,2017,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Milan,Torino,3-2,/match/milan/torino-fc/2017,2017,1,serie_a,20,38,0,3,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Chievo,Inter,2-0,/match/chievo/internazionale/2017,2017,1,serie_a,20,38,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Empoli,Sampdoria,0-1,/match/empoli-fc/sampdoria/2017,2017,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Genoa,Cagliari,3-1,/match/genoa/cagliari/2017,2017,1,serie_a,20,38,0,3,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bologna,Crotone,1-0,/match/bologna/fc-crotone/2017,2017,1,serie_a,20,38,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Palermo FC,Sassuolo,0-1,/match/palermo/us-sassuolo-calcio/2017,2017,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Pescara,Napoli,2-2,/match/pescara-calcio/napoli/2017,2017,1,serie_a,20,38,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Atalanta,Lazio,3-4,/match/atalanta/lazio/2017,2017,1,serie_a,20,38,2,3,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Juventus,0-1,/match/lazio/juventus-fc/2017,2017,2,serie_a,20,38,2,0,1,10,2,1,0,0,4,3,L,0,0,0,0,0,3,4,1,0,0,2,1,W,0,0,0,0,0,,
+Napoli,Milan,4-2,/match/napoli/milan/2017,2017,2,serie_a,20,38,0,4,2,11,1,0,1,0,2,2,D,0,0,0,0,0,6,4,1,0,0,3,2,W,0,0,0,0,0,,
+Inter,Palermo FC,1-1,/match/internazionale/palermo/2017,2017,2,serie_a,20,38,1,1,1,18,0,0,0,1,0,2,W,0,0,0,0,0,16,0,0,0,1,0,1,L,0,0,0,0,0,,
+Torino,Bologna,5-1,/match/torino-fc/bologna/2017,2017,2,serie_a,20,38,0,5,1,19,0,0,0,1,2,3,W,0,0,0,0,0,2,4,1,0,0,1,0,W,0,0,0,0,0,,
+Sassuolo,Pescara,0-3,/match/us-sassuolo-calcio/pescara-calcio/2017,2017,2,serie_a,20,38,2,0,3,9,2,1,0,0,1,0,L,0,0,0,0,0,8,2,0,1,0,2,2,D,0,0,0,0,0,,
+Sampdoria,Atalanta,2-1,/match/sampdoria/atalanta/2017,2017,2,serie_a,20,38,0,2,1,7,2,1,0,0,1,0,L,0,0,0,0,0,14,0,0,0,1,3,4,L,0,0,0,0,0,,
+Cagliari,Roma,2-2,/match/cagliari/roma/2017,2017,2,serie_a,20,38,1,2,2,12,0,0,0,1,1,3,W,0,0,0,0,0,1,4,1,0,0,4,0,W,0,0,0,0,0,,
+Fiorentina,Chievo,1-0,/match/fiorentina/chievo/2017,2017,2,serie_a,20,38,0,1,0,20,0,0,0,1,1,2,W,0,0,0,0,0,5,4,1,0,0,2,0,W,0,0,0,0,0,,
+Crotone,Genoa,1-3,/match/fc-crotone/genoa/2017,2017,2,serie_a,20,38,2,1,3,15,0,0,0,1,0,1,W,0,0,0,0,0,4,4,1,0,0,3,1,W,0,0,0,0,0,,
+Udinese,Empoli,2-0,/match/udinese/empoli-fc/2017,2017,2,serie_a,20,38,0,2,0,13,0,0,0,1,0,4,W,0,0,0,0,0,17,0,0,0,1,0,1,L,0,0,0,0,0,,
+Juventus,Sassuolo,3-1,/match/juventus-fc/us-sassuolo-calcio/2017,2017,3,serie_a,20,38,0,3,1,2,6,2,0,0,3,1,WL,1,0,0,2,1,13,2,1,0,1,1,3,LL,1,0,0,1,0,W,L
+Palermo FC,Napoli,0-3,/match/palermo/napoli/2017,2017,3,serie_a,20,38,2,0,3,17,1,0,1,1,1,2,LD,0,0,1,0,1,5,5,1,1,0,6,4,DW,0,1,0,2,2,L,D
+Bologna,Cagliari,2-1,/match/bologna/cagliari/2017,2017,3,serie_a,20,38,0,2,1,9,4,1,0,1,2,5,WW,1,0,0,1,0,15,2,0,1,1,3,5,WD,0,0,1,1,3,W,W
+Milan,Udinese,0-1,/match/milan/udinese/2017,2017,3,serie_a,20,38,2,0,1,6,4,1,0,1,5,6,WW,1,0,0,3,2,10,4,1,0,1,2,4,WW,0,0,1,0,4,W,W
+Atalanta,Torino,2-1,/match/atalanta/torino-fc/2017,2017,3,serie_a,20,38,0,2,1,18,0,0,0,2,4,6,LW,0,0,1,3,4,11,4,1,0,1,7,4,WW,0,0,1,2,3,L,W
+Chievo,Lazio,1-1,/match/chievo/lazio/2017,2017,3,serie_a,20,38,1,1,1,7,4,1,0,1,2,1,WW,1,0,0,2,0,14,2,1,0,1,4,4,LL,1,0,0,4,3,W,L
+Roma,Sampdoria,3-2,/match/roma/sampdoria/2017,2017,3,serie_a,20,38,0,3,2,4,5,1,1,0,6,2,WD,1,0,0,4,0,1,6,2,0,0,3,1,LW,1,0,0,1,0,W,L
+Pescara,Inter,1-2,/match/pescara-calcio/internazionale/2017,2017,3,serie_a,20,38,2,1,2,8,4,1,1,0,5,2,DL,0,1,0,2,2,16,2,0,1,1,1,3,WD,0,0,1,0,2,D,W
+Empoli,Crotone,2-1,/match/empoli-fc/fc-crotone/2017,2017,3,serie_a,20,38,0,2,1,20,0,0,0,2,0,3,LW,0,0,1,0,1,19,0,0,0,2,1,4,WL,0,0,1,0,1,L,W
+Genoa,Fiorentina,1-0,/match/genoa/fiorentina/2017,2017,3,serie_a,20,38,0,1,0,3,6,2,0,0,6,2,WL,1,0,0,3,1,12,4,1,0,1,2,2,WW,0,0,1,1,2,W,W
+Sampdoria,Milan,0-1,/match/sampdoria/milan/2017,2017,4,serie_a,20,38,2,0,1,6,6,2,0,1,5,4,LWW,1,0,0,2,1,14,4,1,0,2,5,7,WWL,0,0,1,2,4,W,W
+Lazio,Pescara,3-0,/match/lazio/pescara-calcio/2017,2017,4,serie_a,20,38,0,3,0,16,3,1,1,1,5,5,LLD,0,0,1,0,1,13,4,1,1,1,6,4,DLL,1,0,0,3,0,L,L
+Napoli,Bologna,3-1,/match/napoli/bologna/2017,2017,4,serie_a,20,38,0,3,1,5,7,2,1,0,9,4,DWL,1,0,0,4,2,4,8,2,0,1,4,6,WWW,0,0,1,1,5,W,W
+Udinese,Chievo,1-2,/match/udinese/chievo/2017,2017,4,serie_a,20,38,2,1,2,8,6,2,0,1,3,4,WWL,1,0,0,2,0,7,6,1,1,1,3,2,WWD,0,0,1,0,1,W,W
+Crotone,Palermo FC,1-1,/match/fc-crotone/palermo/2017,2017,4,serie_a,20,38,1,1,1,20,0,0,0,3,2,6,WLW,0,0,1,1,3,19,1,0,1,2,1,5,LDL,0,1,0,1,1,L,D
+Sassuolo,Genoa,2-0,/match/us-sassuolo-calcio/genoa/2017,2017,4,serie_a,20,38,0,2,0,17,2,1,0,2,2,6,LLW,0,0,1,0,3,1,10,3,0,0,7,2,WLW,1,0,0,3,1,L,L
+Torino,Empoli,0-0,/match/torino-fc/empoli-fc/2017,2017,4,serie_a,20,38,1,0,0,12,4,1,0,2,8,6,WWW,1,0,0,5,1,15,4,1,0,2,2,4,LWW,0,0,1,0,2,W,W
+Cagliari,Atalanta,3-0,/match/cagliari/atalanta/2017,2017,4,serie_a,20,38,0,3,0,18,2,0,1,2,4,7,WDW,0,1,0,2,2,10,4,1,0,2,6,7,LWW,0,0,1,1,2,D,W
+Inter,Juventus,2-1,/match/internazionale/juventus-fc/2017,2017,4,serie_a,20,38,0,2,1,11,4,1,1,1,3,4,WDL,0,1,0,1,1,2,10,3,0,0,6,2,WLW,1,0,0,1,0,D,L
+Fiorentina,Roma,1-0,/match/fiorentina/roma/2017,2017,4,serie_a,20,38,0,1,0,9,4,1,0,2,2,3,WWW,1,0,0,1,0,3,9,2,1,0,9,4,WDW,0,1,0,2,2,W,D
+Milan,Lazio,2-0,/match/milan/lazio/2017,2017,5,serie_a,20,38,0,2,0,13,6,2,0,2,6,7,WWLL,1,0,1,3,3,9,7,2,1,1,8,5,LLDW,1,1,0,5,4,WL,LD
+Bologna,Sampdoria,2-0,/match/bologna/sampdoria/2017,2017,5,serie_a,20,38,0,2,0,8,8,2,0,2,5,9,WWWW,2,0,0,3,1,11,6,2,0,2,5,5,LWWL,1,0,1,3,3,WW,LW
+Atalanta,Palermo FC,0-1,/match/atalanta/palermo/2017,2017,5,serie_a,20,38,2,0,1,17,4,1,0,3,6,10,LWWW,1,0,1,5,5,19,2,0,2,2,2,6,LDLD,0,2,0,2,2,LW,DD
+Roma,Crotone,4-0,/match/roma/fc-crotone/2017,2017,5,serie_a,20,38,0,4,0,4,9,2,1,1,9,5,WDWW,2,0,0,7,2,20,2,0,1,3,3,7,WLWD,0,0,2,1,3,WW,WW
+Pescara,Torino,0-0,/match/pescara-calcio/torino-fc/2017,2017,5,serie_a,20,38,1,0,0,18,4,1,1,2,6,7,DLLW,0,1,1,3,4,12,6,1,1,2,8,6,WWWD,0,0,2,3,5,DL,WW
+Juventus,Cagliari,4-0,/match/juventus-fc/cagliari/2017,2017,5,serie_a,20,38,0,4,0,3,10,3,0,1,7,4,WLWW,2,0,0,5,2,15,6,1,1,2,7,7,WDWW,0,0,2,2,5,WW,WW
+Genoa,Napoli,0-0,/match/genoa/napoli/2017,2017,5,serie_a,20,38,1,0,0,2,10,3,0,1,7,4,WLWW,2,0,0,4,1,1,11,3,1,0,12,5,DWLW,1,1,0,5,2,WW,DL
+Empoli,Inter,0-2,/match/empoli-fc/internazionale/2017,2017,5,serie_a,20,38,2,0,2,16,5,1,1,2,2,4,LWWD,1,0,1,2,2,7,8,2,1,1,5,5,WDLW,1,0,1,2,3,LW,WL
+Chievo,Sassuolo,2-1,/match/chievo/us-sassuolo-calcio/2017,2017,5,serie_a,20,38,0,2,1,5,8,2,1,1,5,3,WWDL,1,1,0,3,1,14,6,2,0,2,4,6,LLWW,1,0,1,2,3,WD,LW
+Udinese,Fiorentina,2-2,/match/udinese/fiorentina/2017,2017,5,serie_a,20,38,1,2,2,10,6,2,0,2,4,6,WWLL,1,0,1,3,2,6,8,2,0,2,3,3,WWWW,0,0,2,1,3,WL,WW
+Palermo FC,Juventus,0-1,/match/palermo/juventus-fc/2017,2017,6,serie_a,20,38,2,0,1,19,4,1,2,2,3,6,LDLDL,0,0,2,0,4,1,14,4,0,1,11,4,WLWWW,1,0,1,2,2,LL,LW
+Napoli,Chievo,2-0,/match/napoli/chievo/2017,2017,6,serie_a,20,38,0,2,0,3,12,3,2,0,12,5,DWLWD,2,0,0,7,3,4,12,3,1,1,7,4,WWDLW,1,0,1,2,2,WW,WL
+Torino,Roma,3-1,/match/torino-fc/roma/2017,2017,6,serie_a,20,38,0,3,1,12,7,1,2,2,8,6,WWWDD,1,1,0,5,1,2,13,3,1,1,13,5,WDWWW,0,1,1,2,3,WD,DW
+Sassuolo,Udinese,1-0,/match/us-sassuolo-calcio/udinese/2017,2017,6,serie_a,20,38,0,1,0,16,6,2,0,3,5,8,LLWWW,1,0,1,2,3,10,8,2,1,2,6,8,WWLLD,1,0,1,1,4,LW,WL
+Lazio,Empoli,2-0,/match/lazio/empoli-fc/2017,2017,6,serie_a,20,38,0,2,0,11,7,2,1,2,8,7,LLDWW,1,0,1,3,1,17,5,1,1,3,2,6,LWWDL,0,1,1,0,2,LW,WD
+Inter,Bologna,1-1,/match/internazionale/bologna/2017,2017,6,serie_a,20,38,1,1,1,7,10,3,1,1,7,5,WDLWL,1,1,0,3,2,5,12,3,0,2,7,9,WWWWW,0,0,2,2,8,DW,WW
+Genoa,Pescara,1-1,/match/genoa/pescara-calcio/2017,2017,6,serie_a,20,38,1,1,1,6,12,3,1,1,7,4,WLWWD,2,1,0,4,1,14,6,1,2,2,6,7,DLLWD,1,0,1,3,3,WWD,LW
+Fiorentina,Milan,0-0,/match/fiorentina/milan/2017,2017,6,serie_a,20,38,1,0,0,9,9,2,1,2,5,5,WWWWD,2,0,0,2,0,8,10,3,0,2,8,7,WWLLW,1,0,1,3,4,WW,WL
+Crotone,Atalanta,1-3,/match/fc-crotone/atalanta/2017,2017,6,serie_a,20,38,2,1,3,20,2,0,1,4,3,11,WLWDW,0,1,1,2,4,18,4,1,0,4,6,11,LWWWL,0,0,2,1,5,LD,WW
+Cagliari,Sampdoria,2-1,/match/cagliari/sampdoria/2017,2017,6,serie_a,20,38,0,2,1,13,6,1,1,3,7,11,WDWWW,1,1,0,5,2,15,6,2,0,3,5,7,LWWLW,1,0,2,3,5,DW,LWW
+Pescara,Chievo,0-2,/match/pescara-calcio/chievo/2017,2017,7,serie_a,20,38,2,0,2,15,7,1,3,2,7,8,DLLWDD,0,2,1,3,4,6,12,3,1,2,7,6,WWDLWW,1,0,2,2,4,DLD,WLW
+Udinese,Lazio,0-3,/match/udinese/lazio/2017,2017,7,serie_a,20,38,2,0,3,14,8,2,1,3,6,9,WWLLDW,1,1,1,5,4,9,11,3,1,2,10,7,LLDWWW,1,1,1,5,6,WLD,LDW
+Empoli,Juventus,0-3,/match/empoli-fc/juventus-fc/2017,2017,7,serie_a,20,38,2,0,3,18,5,1,1,4,2,8,LWWDLW,1,0,2,2,4,1,16,5,0,1,12,4,WLWWWL,2,0,1,3,2,LWL,LWL
+Cagliari,Crotone,2-1,/match/cagliari/fc-crotone/2017,2017,7,serie_a,20,38,0,2,1,12,10,2,1,3,9,12,WDWWWW,2,1,0,7,3,20,2,0,1,5,4,14,WLWDWL,0,0,3,1,7,DWW,WWW
+Bologna,Genoa,0-1,/match/bologna/genoa/2017,2017,7,serie_a,20,38,2,0,1,5,13,3,1,2,8,10,WWWWWD,3,0,0,5,1,3,14,3,2,1,8,5,WLWWDD,1,0,1,3,3,WWW,LW
+Sampdoria,Palermo FC,1-1,/match/sampdoria/palermo/2017,2017,7,serie_a,20,38,1,1,1,16,6,2,0,4,6,9,LWWLWW,1,0,1,2,2,19,4,1,2,3,3,7,LDLDLL,1,2,0,3,2,WL,DDL
+Atalanta,Napoli,1-0,/match/atalanta/napoli/2017,2017,7,serie_a,20,38,0,1,0,17,6,2,0,4,9,12,LWWWLL,1,0,2,5,6,2,16,4,2,0,14,5,DWLWDW,1,2,0,5,2,LWL,DLD
+Milan,Sassuolo,4-3,/match/milan/us-sassuolo-calcio/2017,2017,7,serie_a,20,38,0,4,3,11,11,3,1,2,8,7,WWLLWD,2,0,1,5,3,13,10,3,0,3,6,8,LLWWWW,1,0,2,3,5,WLW,LWW
+Torino,Fiorentina,2-1,/match/torino-fc/fiorentina/2017,2017,7,serie_a,20,38,0,2,1,8,11,2,2,2,11,7,WWWDDW,2,1,0,8,2,10,11,2,2,2,5,5,WWWWDD,0,1,2,3,5,WDW,WWD
+Roma,Inter,2-1,/match/roma/internazionale/2017,2017,7,serie_a,20,38,0,2,1,4,13,3,1,2,14,8,WDWWWW,3,0,0,11,2,7,12,3,2,1,8,6,WDLWLD,2,0,1,4,3,WWW,WLL
+Napoli,Roma,1-3,/match/napoli/roma/2017,2017,8,serie_a,20,38,2,1,3,4,16,4,2,1,14,6,DWLWDWW,3,0,0,9,3,2,17,4,1,2,16,9,WDWWWWW,0,1,2,3,6,WWW,DWW
+Pescara,Sampdoria,1-1,/match/pescara-calcio/sampdoria/2017,2017,8,serie_a,20,38,1,1,1,17,7,1,3,3,7,10,DLLWDDL,0,2,2,3,6,16,8,2,1,4,7,10,LWWLWWD,1,0,3,4,7,DLDL,LWWW
+Juventus,Udinese,2-1,/match/juventus-fc/udinese/2017,2017,8,serie_a,20,38,0,2,1,1,18,6,0,1,15,4,WLWWWLL,3,0,0,9,2,15,8,2,1,4,6,12,WWLLDWL,1,0,2,1,5,WWW,WLW
+Fiorentina,Atalanta,0-0,/match/fiorentina/atalanta/2017,2017,8,serie_a,20,38,1,0,0,12,11,2,2,3,6,7,WWWWDDW,2,1,0,2,0,14,10,3,0,4,10,12,LWWWLLW,1,0,2,4,6,WWD,WWL
+Sassuolo,Crotone,2-1,/match/us-sassuolo-calcio/fc-crotone/2017,2017,8,serie_a,20,38,0,2,1,13,10,3,0,4,9,12,LLWWWWW,2,0,1,3,3,20,2,0,1,6,5,16,WLWDWLW,0,0,4,2,9,LWW,WWWW
+Lazio,Bologna,1-1,/match/lazio/bologna/2017,2017,8,serie_a,20,38,1,1,1,9,13,4,1,2,13,7,LLDWWWL,2,0,1,5,1,10,13,3,1,3,8,11,WWWWWDL,0,1,2,3,9,LWW,WWD
+Inter,Cagliari,1-2,/match/internazionale/cagliari/2017,2017,8,serie_a,20,38,2,1,2,11,12,3,2,2,9,8,WDLWLDW,1,2,0,4,3,8,14,3,1,3,11,13,WDWWWWW,0,0,3,2,9,DWD,WWW
+Genoa,Empoli,0-0,/match/genoa/empoli-fc/2017,2017,8,serie_a,20,38,1,0,0,3,16,4,2,1,9,5,WLWWDDL,2,2,0,5,2,18,5,1,1,5,2,11,LWWDLWL,0,1,2,0,4,WWDD,WDW
+Chievo,Milan,1-3,/match/chievo/milan/2017,2017,8,serie_a,20,38,2,1,3,7,14,4,1,2,9,6,WWDLWWL,2,1,0,5,2,6,15,4,1,2,12,10,WWLLWDW,1,1,1,3,4,WDW,WLD
+Palermo FC,Torino,1-4,/match/palermo/torino-fc/2017,2017,8,serie_a,20,38,2,1,4,19,5,1,3,3,4,8,LDLDLLD,0,0,3,0,5,5,15,3,2,2,13,8,WWWDDWW,0,1,2,3,5,LLL,WWD
+Sampdoria,Genoa,2-1,/match/sampdoria/genoa/2017,2017,9,serie_a,20,38,0,2,1,15,9,2,2,4,8,11,LWWLWWDD,1,1,1,3,3,3,18,4,3,1,9,5,WLWWDDLD,2,0,1,4,3,WLD,LWL
+Milan,Juventus,1-0,/match/milan/juventus-fc/2017,2017,9,serie_a,20,38,0,1,0,5,17,5,1,2,15,11,WWLLWDWL,3,0,1,9,6,1,22,7,0,1,17,5,WLWWWLLW,3,0,1,6,2,WLWW,LWLL
+Udinese,Pescara,3-1,/match/udinese/pescara-calcio/2017,2017,9,serie_a,20,38,0,3,1,17,8,2,1,5,7,14,WWLLDWLW,1,1,2,5,7,16,9,1,4,3,8,11,DLLWDDLD,1,1,1,4,4,WLDL,LWD
+Crotone,Napoli,1-2,/match/fc-crotone/napoli/2017,2017,9,serie_a,20,38,2,1,2,20,2,0,1,7,6,18,WLWDWLWW,0,1,2,3,7,6,16,4,2,2,15,9,DWLWDWWL,1,2,1,5,3,LDL,DLDW
+Empoli,Chievo,0-0,/match/empoli-fc/chievo/2017,2017,9,serie_a,20,38,1,0,0,18,6,1,2,5,2,11,LWWDLWLD,1,0,3,2,7,10,14,4,1,3,10,9,WWDLWWLL,2,0,2,4,4,LWLL,WLWL
+Cagliari,Fiorentina,3-5,/match/cagliari/fiorentina/2017,2017,9,serie_a,20,38,2,3,5,7,16,4,1,3,13,14,WDWWWWWL,3,1,0,9,4,12,13,2,3,3,6,7,WWWWDDWD,0,1,3,4,7,DWWW,WWDW
+Torino,Lazio,2-2,/match/torino-fc/lazio/2017,2017,9,serie_a,20,38,1,2,2,4,17,4,2,2,17,9,WWWDDWWL,3,1,0,10,3,8,15,4,2,2,14,8,LLDWWWLD,2,1,1,8,6,WDWW,LDWL
+Atalanta,Inter,2-1,/match/atalanta/internazionale/2017,2017,9,serie_a,20,38,0,2,1,14,11,3,1,4,10,12,LWWWLLWD,2,0,2,6,6,13,12,3,2,3,10,10,WDLWLDWL,2,0,2,5,5,LWLW,WLLW
+Bologna,Sassuolo,1-1,/match/bologna/us-sassuolo-calcio/2017,2017,9,serie_a,20,38,1,1,1,11,14,3,2,3,9,12,WWWWWDLD,3,0,1,5,2,9,14,4,0,4,11,13,LLWWWWWW,1,0,3,6,9,WWWL,LWWW
+Roma,Palermo FC,4-1,/match/roma/palermo/2017,2017,9,serie_a,20,38,0,4,1,2,19,5,1,2,19,10,WDWWWWWL,4,0,0,13,3,19,5,1,3,4,5,12,LDLDLLDL,1,3,0,4,3,WWWW,DDLD
+Genoa,Milan,3-0,/match/genoa/milan/2017,2017,10,serie_a,20,38,0,3,0,5,18,4,3,2,10,7,WLWWDDLDW,2,3,0,5,2,3,21,6,1,2,16,11,WWLLWDWLW,2,1,1,6,5,WWDDD,WLDL
+Chievo,Bologna,1-1,/match/chievo/bologna/2017,2017,10,serie_a,20,38,1,1,1,11,15,4,2,3,10,9,WWDLWWLLD,2,1,1,6,5,8,16,3,3,3,10,13,WWWWWDLDD,0,2,2,4,10,WDWL,WWDD
+Pescara,Atalanta,0-1,/match/pescara-calcio/atalanta/2017,2017,10,serie_a,20,38,2,0,1,17,9,1,4,4,9,14,DLLWDDLDW,0,3,2,4,7,13,15,4,1,4,12,13,LWWWLLWDW,1,1,2,4,6,DLDLD,WWLD
+Napoli,Empoli,2-0,/match/napoli/empoli-fc/2017,2017,10,serie_a,20,38,0,2,0,6,18,5,2,2,17,10,DWLWDWWLL,3,0,1,10,6,18,8,1,3,5,2,11,LWWDLWLDD,0,2,2,0,4,WWWL,WDWD
+Lazio,Cagliari,4-1,/match/lazio/cagliari/2017,2017,10,serie_a,20,38,0,4,1,7,16,4,3,2,16,10,LLDWWWLDD,2,1,1,6,2,9,16,4,1,4,16,19,WDWWWWWLL,1,0,3,4,10,LWWD,WWWL
+Juventus,Sampdoria,4-1,/match/juventus-fc/sampdoria/2017,2017,10,serie_a,20,38,0,4,1,2,22,7,0,2,17,6,WLWWWLLWW,4,0,0,11,3,14,13,3,2,4,10,12,LWWLWWDDW,1,1,3,5,8,WWWW,LWWWD
+Inter,Torino,2-1,/match/internazionale/torino-fc/2017,2017,10,serie_a,20,38,0,2,1,15,12,3,2,4,11,12,WDLWLDWLW,1,2,1,5,5,4,19,4,3,2,19,11,WWWDDWWLD,1,1,2,7,6,DWDL,WWDL
+Fiorentina,Crotone,1-1,/match/fiorentina/fc-crotone/2017,2017,10,serie_a,20,38,1,1,1,12,15,3,3,3,11,10,WWWWDDWDL,2,2,0,2,0,20,2,0,1,8,7,20,WLWDWLWWL,0,0,5,3,11,WWDD,WWWWW
+Sassuolo,Roma,1-3,/match/us-sassuolo-calcio/roma/2017,2017,10,serie_a,20,38,2,1,3,10,15,4,1,4,12,14,LLWWWWWWD,3,0,1,5,4,1,23,6,1,2,23,11,WDWWWWWLW,1,1,2,6,7,LWWW,DWWL
+Palermo FC,Udinese,1-3,/match/palermo/udinese/2017,2017,10,serie_a,20,38,2,1,3,19,5,1,3,5,6,16,LDLDLLDLW,0,0,4,1,9,16,12,3,1,5,10,15,WWLLDWLWW,1,0,3,2,7,LLLL,WLWW
+Bologna,Fiorentina,0-1,/match/bologna/fiorentina/2017,2017,11,serie_a,20,38,2,0,1,11,17,3,4,3,11,14,WWWWWDLDDD,3,1,1,6,3,9,17,3,4,3,12,11,WWWWDDWDLD,1,1,3,9,10,WWWLD,WWDWL
+Juventus,Napoli,2-1,/match/juventus-fc/napoli/2017,2017,11,serie_a,20,38,0,2,1,1,26,8,0,2,21,7,WLWWWLLWWW,5,0,0,15,4,4,22,6,2,2,19,10,DWLWDWWLLW,2,2,1,7,4,WWWWW,DLDWL
+Atalanta,Genoa,3-0,/match/atalanta/genoa/2017,2017,11,serie_a,20,38,0,3,0,8,17,5,1,4,13,13,LWWWLLWDWL,3,0,2,8,7,3,22,5,3,2,13,7,WLWWDDLDWW,2,0,2,5,5,LWLWW,LWLW
+Crotone,Chievo,2-0,/match/fc-crotone/chievo/2017,2017,11,serie_a,20,38,0,2,0,20,3,0,2,8,8,21,WLWDWLWWLD,0,1,3,4,9,10,17,4,3,3,11,10,WWDLWWLLDD,2,1,2,4,4,LDLL,WLWLD
+Empoli,Roma,0-0,/match/empoli-fc/roma/2017,2017,11,serie_a,20,38,1,0,0,18,8,1,3,6,2,13,LWWDLWLDDW,1,1,3,2,7,2,25,7,1,2,26,12,WDWWWWWLWL,2,1,2,9,8,LWLLD,DWWLL
+Lazio,Sassuolo,2-1,/match/lazio/us-sassuolo-calcio/2017,2017,11,serie_a,20,38,0,2,1,6,20,5,3,2,20,11,LLDWWWLDDW,3,1,1,10,3,14,15,4,1,5,13,17,LLWWWWWWDL,1,1,3,7,10,LWWDW,LWWWD
+Milan,Pescara,1-0,/match/milan/pescara-calcio/2017,2017,11,serie_a,20,38,0,1,0,5,21,6,1,3,16,14,WWLLWDWLWW,4,0,1,10,6,17,9,1,4,5,9,15,DLLWDDLDWL,1,1,2,5,7,WLWWW,LWDW
+Sampdoria,Inter,1-0,/match/sampdoria/internazionale/2017,2017,11,serie_a,20,38,0,1,0,16,13,3,2,5,11,16,LWWLWWDDWW,2,1,1,5,4,13,16,4,2,4,13,13,WDLWLDWLWW,2,0,3,6,7,WLDW,WLLWW
+Udinese,Torino,2-2,/match/udinese/torino-fc/2017,2017,11,serie_a,20,38,1,2,2,15,14,4,1,5,13,16,WWLLDWLWWL,2,1,2,8,8,7,19,4,3,3,20,13,WWWDDWWLDW,1,1,3,8,8,WLDLW,WWDLW
+Cagliari,Palermo FC,2-1,/match/cagliari/palermo/2017,2017,11,serie_a,20,38,0,2,1,12,16,4,1,5,17,23,WDWWWWWLLW,3,1,1,12,9,19,5,1,3,6,7,19,LDLDLLDLWL,1,3,1,5,7,DWWWL,DDLDW
+Torino,Cagliari,5-1,/match/torino-fc/cagliari/2017,2017,12,serie_a,20,38,0,5,1,9,20,4,4,3,22,15,WWWDDWWLDWD,3,2,0,12,5,8,20,5,1,5,19,24,WDWWWWWLLWW,1,0,4,5,14,WDWWD,WWWLW
+Napoli,Lazio,1-1,/match/napoli/lazio/2017,2017,12,serie_a,20,38,1,1,1,6,22,6,2,3,20,12,DWLWDWWLLWW,4,0,1,12,6,4,24,6,3,2,22,12,LLDWWWLDDWW,2,2,1,10,8,WWWLW,LDWLD
+Pescara,Empoli,0-4,/match/pescara-calcio/empoli-fc/2017,2017,12,serie_a,20,38,2,0,4,18,9,1,4,6,9,16,DLLWDDLDWLW,0,3,3,4,8,17,10,1,4,6,2,13,LWWDLWLDDWD,0,2,3,0,6,DLDLDL,WDWDW
+Sassuolo,Atalanta,0-3,/match/us-sassuolo-calcio/atalanta/2017,2017,12,serie_a,20,38,2,0,3,16,15,4,1,6,14,19,LLWWWWWWDLW,3,0,2,6,7,7,21,6,1,4,16,13,LWWWLLWDWLW,2,1,2,5,6,LWWWL,WWLDL
+Palermo FC,Milan,1-2,/match/palermo/milan/2017,2017,12,serie_a,20,38,2,1,2,20,5,1,3,7,8,21,LDLDLLDLWLW,0,0,5,2,12,3,25,7,1,3,17,14,WWLLWDWLWWW,2,1,2,6,8,LLLLL,WLDLW
+Genoa,Udinese,1-1,/match/genoa/udinese/2017,2017,12,serie_a,20,38,1,1,1,5,22,5,3,3,13,10,WLWWDDLDWWW,3,3,0,8,2,15,16,4,2,5,15,18,WWLLDWLWWLD,2,0,3,5,8,WWDDDW,WLWWL
+Chievo,Juventus,1-2,/match/chievo/juventus-fc/2017,2017,12,serie_a,20,38,2,1,2,13,17,4,3,4,11,12,WWDLWWLLDDW,2,2,1,7,6,1,30,9,0,2,23,8,WLWWWLLWWWW,3,0,2,6,3,WDWLD,LWLLW
+Inter,Crotone,3-0,/match/internazionale/fc-crotone/2017,2017,12,serie_a,20,38,0,3,0,14,16,4,2,5,13,14,WDLWLDWLWWW,2,2,1,7,6,19,7,1,2,8,10,21,WLWDWLWWLDW,0,1,5,4,12,DWDLW,WWWWWD
+Fiorentina,Sampdoria,1-1,/match/fiorentina/sampdoria/2017,2017,12,serie_a,20,38,1,1,1,10,19,4,4,3,13,11,WWWWDDWDLDL,2,3,0,3,1,11,17,4,2,5,12,16,LWWLWWDDWWW,1,1,4,6,12,WWDDD,LWWWDW
+Roma,Bologna,3-0,/match/roma/bologna/2017,2017,12,serie_a,20,38,0,3,0,2,26,7,2,2,26,12,WDWWWWWLWLD,5,0,0,17,4,12,17,3,4,4,11,15,WWWWWDLDDDL,0,3,2,5,11,WWWWW,WWDDD
+Chievo,Cagliari,1-0,/match/chievo/cagliari/2017,2017,13,serie_a,20,38,0,1,0,13,17,4,3,5,12,14,WWDLWWLLDDWL,2,2,2,8,8,11,20,5,1,6,20,29,WDWWWWWLLWWW,1,0,5,6,19,WDWLDL,WWWLWW
+Udinese,Napoli,1-2,/match/udinese/napoli/2017,2017,13,serie_a,20,38,2,1,2,15,17,4,3,5,16,19,WWLLDWLWWLDD,2,2,2,10,10,6,24,6,3,3,21,13,DWLWDWWLLWWD,2,2,2,8,6,WLDLWD,DLDWLW
+Juventus,Pescara,3-0,/match/juventus-fc/pescara-calcio/2017,2017,13,serie_a,20,38,0,3,0,1,32,10,0,2,25,9,WLWWWLLWWWWL,6,0,0,17,5,18,9,1,4,7,9,20,DLLWDDLDWLWL,1,1,3,5,8,WWWWWW,LWDWW
+Sampdoria,Sassuolo,3-2,/match/sampdoria/us-sassuolo-calcio/2017,2017,13,serie_a,20,38,0,3,2,12,18,4,3,5,13,17,LWWLWWDDWWWD,3,1,1,6,4,16,15,4,1,7,14,22,LLWWWWWWDLWL,1,1,4,8,12,WLDWW,LWWWDW
+Crotone,Torino,0-2,/match/fc-crotone/torino-fc/2017,2017,13,serie_a,20,38,2,0,2,19,7,1,2,9,10,24,WLWDWLWWLDWW,1,1,3,6,9,7,24,5,4,3,27,16,WWWDDWWLDWDW,1,2,3,10,10,LDLLW,WWDLWD
+Empoli,Fiorentina,0-4,/match/empoli-fc/fiorentina/2017,2017,13,serie_a,20,38,2,0,4,17,12,2,4,6,6,13,LWWDLWLDDWDL,1,2,3,2,7,9,21,4,5,3,14,12,WWWWDDWDLDLD,2,1,3,10,10,LWLLDD,WWDWLL
+Bologna,Palermo FC,3-1,/match/bologna/palermo/2017,2017,13,serie_a,20,38,0,3,1,14,17,3,4,5,11,18,WWWWWDLDDDLW,3,1,2,6,4,20,5,1,3,8,9,23,LDLDLLDLWLWL,1,3,2,6,9,WWWLDL,DDLDWW
+Lazio,Genoa,3-1,/match/lazio/genoa/2017,2017,13,serie_a,20,38,0,3,1,4,25,6,4,2,23,13,LLDWWWLDDWWD,4,1,1,12,4,5,24,5,4,3,14,11,WLWWDDLDWWWD,2,0,3,5,8,LWWDWW,LWLWW
+Atalanta,Roma,2-1,/match/atalanta/roma/2017,2017,13,serie_a,20,38,0,2,1,8,23,7,1,4,19,13,LWWWLLWDWLWL,4,0,2,11,7,2,30,8,2,2,29,12,WDWWWWWLWLDW,2,2,2,9,8,LWLWWW,DWWLLD
+Milan,Inter,2-2,/match/milan/internazionale/2017,2017,13,serie_a,20,38,1,2,2,3,27,8,1,3,19,15,WWLLWDWLWWWL,5,0,1,11,6,10,20,5,2,5,16,14,WDLWLDWLWWWW,2,0,4,6,8,WLWWWW,WLLWWW
+Torino,Chievo,2-1,/match/torino-fc/chievo/2017,2017,14,serie_a,20,38,0,2,1,7,26,6,4,3,29,16,WWWDDWWLDWDWL,4,2,0,17,6,13,21,5,3,5,13,14,WWDLWWLLDDWLW,2,1,3,4,6,WDWWDW,WLWLDW
+Empoli,Milan,1-4,/match/empoli-fc/milan/2017,2017,14,serie_a,20,38,2,1,4,17,12,2,4,7,6,17,LWWDLWLDDWDLL,1,2,4,2,11,3,29,8,2,3,21,17,WWLLWDWLWWWLD,3,1,2,8,9,LWLLDDL,WLDLWL
+Palermo FC,Lazio,0-1,/match/palermo/lazio/2017,2017,14,serie_a,20,38,2,0,1,20,5,1,3,9,10,26,LDLDLLDLWLWLW,0,0,6,3,14,4,29,7,4,2,26,14,LLDWWWLDDWWDW,2,3,1,11,9,LLLLLL,LDWLDD
+Bologna,Atalanta,0-2,/match/bologna/atalanta/2017,2017,14,serie_a,20,38,2,0,2,11,21,4,4,5,14,19,WWWWWDLDDDLWW,4,1,2,9,5,5,27,8,1,4,21,14,LWWWLLWDWLWLW,3,1,2,8,6,WWWLDLW,WWLDLL
+Genoa,Juventus,3-1,/match/genoa/juventus-fc/2017,2017,14,serie_a,20,38,0,3,1,8,24,5,4,4,15,14,WLWWDDLDWWWDW,3,4,0,9,3,1,36,11,0,2,28,9,WLWWWLLWWWWLW,4,0,2,8,4,WWDDDWD,LWLLWL
+Crotone,Sampdoria,1-1,/match/fc-crotone/sampdoria/2017,2017,14,serie_a,20,38,1,1,1,19,7,1,2,10,10,26,WLWDWLWWLDWWL,1,1,4,6,11,10,22,5,3,5,16,19,LWWLWWDDWWWDW,1,2,4,7,13,LDLLWL,LWWWDWD
+Cagliari,Udinese,2-1,/match/cagliari/udinese/2017,2017,14,serie_a,20,38,0,2,1,14,20,5,1,7,20,30,WDWWWWWLLWWWW,4,1,1,14,10,15,17,4,3,6,17,21,WWLLDWLWWLDDL,2,1,3,6,9,DWWWLW,WLWWLD
+Roma,Pescara,3-2,/match/roma/pescara-calcio/2017,2017,14,serie_a,20,38,0,3,2,2,30,8,2,3,30,14,WDWWWWWLWLDWW,6,0,0,20,4,18,9,1,4,8,9,23,DLLWDDLDWLWLW,1,1,4,5,11,WWWWWW,LWDWWW
+Napoli,Sassuolo,1-1,/match/napoli/us-sassuolo-calcio/2017,2017,14,serie_a,20,38,1,1,1,6,26,7,3,3,23,14,DWLWDWWLLWWDL,4,1,1,13,7,16,15,4,1,8,16,25,LLWWWWWWDLWLW,1,1,5,10,15,WWWLWD,LWWWDWW
+Inter,Fiorentina,4-2,/match/internazionale/fiorentina/2017,2017,14,serie_a,20,38,0,4,2,12,21,5,3,5,18,16,WDLWLDWLWWWWD,3,2,1,10,6,9,23,5,5,3,18,12,WWWWDDWDLDLDL,3,1,3,14,10,DWDLWW,WWDWLLL
+Napoli,Inter,3-0,/match/napoli/internazionale/2017,2017,15,serie_a,20,38,0,3,0,7,28,7,4,3,24,15,DWLWDWWLLWWDLD,4,2,1,14,8,9,25,6,3,5,22,18,WDLWLDWLWWWWDW,2,1,4,8,10,WWWLWDD,WLLWWWD
+Juventus,Atalanta,3-1,/match/juventus-fc/atalanta/2017,2017,15,serie_a,20,38,0,3,1,1,36,11,0,3,29,12,WLWWWLLWWWWLWW,7,0,0,20,5,6,29,9,1,4,23,14,LWWWLLWDWLWLWL,4,1,2,10,6,WWWWWWW,WWLDLLL
+Milan,Crotone,2-1,/match/milan/fc-crotone/2017,2017,15,serie_a,20,38,0,2,1,3,31,9,2,3,25,18,WWLLWDWLWWWLDL,5,1,1,13,8,19,9,1,3,10,11,27,WLWDWLWWLDWWLD,0,1,6,4,15,WLWWWWD,WWWWWDW
+Lazio,Roma,0-2,/match/lazio/roma/2017,2017,15,serie_a,20,38,2,0,2,4,31,8,4,2,27,14,LLDWWWLDDWWDWL,5,1,1,15,5,2,34,9,2,3,33,16,WDWWWWWLWLDWWW,2,2,3,10,10,LWWDWWW,DWWLLDW
+Sassuolo,Empoli,3-0,/match/us-sassuolo-calcio/empoli-fc/2017,2017,15,serie_a,20,38,0,3,0,16,16,4,2,8,17,26,LLWWWWWWDLWLWD,3,0,3,6,10,17,12,2,4,8,7,21,LWWDLWLDDWDLLL,1,2,3,4,6,LWWWLL,WDWDWL
+Pescara,Cagliari,1-1,/match/pescara-calcio/cagliari/2017,2017,15,serie_a,20,38,1,1,1,18,9,1,4,9,11,26,DLLWDDLDWLWLWW,0,3,4,4,12,10,24,6,1,7,22,31,WDWWWWWLLWWWWW,1,0,6,6,20,DLDLDLL,WWWLWWW
+Sampdoria,Torino,2-0,/match/sampdoria/torino-fc/2017,2017,15,serie_a,20,38,0,2,0,12,23,5,4,5,17,20,LWWLWWDDWWWDWD,4,1,1,9,6,5,30,7,4,3,31,17,WWWDDWWLDWDWLW,2,2,3,12,10,WLDWWW,WWDLWDL
+Fiorentina,Palermo FC,2-1,/match/fiorentina/palermo/2017,2017,15,serie_a,20,38,0,2,1,11,23,5,5,4,20,16,WWWWDDWDLDLDLW,2,4,0,4,2,20,5,1,3,10,10,27,LDLDLLDLWLWLWL,1,3,3,7,12,WWDDDD,DDLDWWW
+Chievo,Genoa,0-0,/match/chievo/genoa/2017,2017,15,serie_a,20,38,1,0,0,14,21,5,3,6,14,16,WWDLWWLLDDWLWW,3,2,2,9,8,8,28,6,4,4,18,15,WLWWDDLDWWWDWW,2,0,4,6,11,WDWLDLW,LWLWWW
+Udinese,Bologna,1-0,/match/udinese/bologna/2017,2017,15,serie_a,20,38,0,1,0,15,17,4,3,7,18,23,WWLLDWLWWLDDLW,2,2,3,11,12,13,21,4,4,6,14,21,WWWWWDLDDDLWWL,0,3,3,5,14,WLDLWDL,WWDDDW
+Crotone,Pescara,2-1,/match/fc-crotone/pescara-calcio/2017,2017,16,serie_a,20,38,0,2,1,19,9,1,3,11,12,29,WLWDWLWWLDWWLDW,1,2,4,7,12,18,11,1,5,9,12,27,DLLWDDLDWLWLWWD,1,1,5,7,14,LDLLWLD,LWDWWWW
+Sampdoria,Lazio,1-2,/match/sampdoria/lazio/2017,2017,16,serie_a,20,38,2,1,2,9,27,6,4,5,19,20,LWWLWWDDWWWDWDW,5,1,1,11,6,5,31,8,4,3,27,16,LLDWWWLDDWWDWLL,3,3,1,12,9,WLDWWWW,LDWLDDL
+Cagliari,Napoli,0-5,/match/cagliari/napoli/2017,2017,16,serie_a,20,38,2,0,5,11,25,6,2,7,23,32,WDWWWWWLLWWWWWD,5,1,1,16,11,4,32,8,4,3,27,15,DWLWDWWLLWWDLDW,3,2,2,10,7,DWWWLWW,DLDWLWL
+Atalanta,Udinese,1-3,/match/atalanta/udinese/2017,2017,16,serie_a,20,38,2,1,3,7,29,9,1,5,24,17,LWWWLLWDWLWLWLW,5,0,2,13,8,15,21,5,3,7,19,23,WWLLDWLWWLDDLWW,2,1,4,7,11,LWLWWWW,WLWWLDW
+Palermo FC,Chievo,0-2,/match/palermo/chievo/2017,2017,16,serie_a,20,38,2,0,2,20,5,1,3,11,11,29,LDLDLLDLWLWLWLW,0,0,7,3,15,13,23,5,4,6,14,16,WWDLWWLLDDWLWWD,2,1,4,5,8,LLLLLLL,WLWLDWW
+Torino,Juventus,1-3,/match/torino-fc/juventus-fc/2017,2017,16,serie_a,20,38,2,1,3,6,30,7,4,4,31,19,WWWDDWWLDWDWLWW,5,2,0,19,7,1,40,12,0,3,32,13,WLWWWLLWWWWLWWW,4,0,3,9,7,WDWWDWW,LWLLWLW
+Bologna,Empoli,0-0,/match/bologna/empoli-fc/2017,2017,16,serie_a,20,38,1,0,0,14,21,4,4,7,14,22,WWWWWDLDDDLWWLW,4,1,3,9,7,17,12,2,4,9,7,24,LWWDLWLDDWDLLLW,1,2,4,4,9,WWWLDLWL,WDWDWLW
+Inter,Genoa,2-0,/match/internazionale/genoa/2017,2017,16,serie_a,20,38,0,2,0,12,25,6,3,6,22,21,WDLWLDWLWWWWDWW,4,2,1,14,8,8,29,6,5,4,18,15,WLWWDDLDWWWDWWD,2,1,4,6,11,DWDLWWW,LWLWWWD
+Fiorentina,Sassuolo,2-1,/match/fiorentina/us-sassuolo-calcio/2017,2017,16,serie_a,20,38,0,2,1,10,27,6,5,4,22,17,WWWWDDWDLDLDLWW,3,4,0,6,3,16,20,5,2,8,20,26,LLWWWWWWDLWLWDW,1,2,5,11,16,WWDDDDW,LWWWDWWD
+Roma,Milan,1-0,/match/roma/milan/2017,2017,16,serie_a,20,38,0,1,0,2,36,10,2,3,35,16,WDWWWWWLWLDWWWL,7,0,0,23,6,3,35,10,2,3,27,19,WWLLWDWLWWWLDLW,4,1,2,12,10,WWWWWWW,WLDLWLL
+Empoli,Cagliari,2-0,/match/empoli-fc/cagliari/2017,2017,17,serie_a,20,38,0,2,0,17,13,2,5,9,7,24,LWWDLWLDDWDLLLWD,1,2,5,3,15,13,25,6,2,8,23,37,WDWWWWWLLWWWWWDL,1,1,6,7,21,LWLLDDLL,WWWLWWWD
+Milan,Atalanta,0-0,/match/milan/atalanta/2017,2017,17,serie_a,20,38,1,0,0,3,35,10,2,4,27,20,WWLLWDWLWWWLDLWW,6,1,1,15,9,8,29,9,1,6,25,20,LWWWLLWDWLWLWLWL,4,1,3,11,9,WLWWWWDW,WWLDLLLW
+Juventus,Roma,1-0,/match/juventus-fc/roma/2017,2017,17,serie_a,20,38,0,1,0,1,42,13,0,3,35,14,WLWWWLLWWWWLWWWL,8,0,0,23,6,2,40,11,2,3,36,16,WDWWWWWLWLDWWWLW,3,2,3,12,10,WWWWWWWW,DWWLLDWL
+Sassuolo,Inter,0-1,/match/us-sassuolo-calcio/internazionale/2017,2017,17,serie_a,20,38,2,0,1,16,20,5,2,9,21,28,LLWWWWWWDLWLWDWW,4,0,3,9,10,10,29,7,3,6,24,21,WDLWLDWLWWWWDWWW,2,1,5,8,13,LWWWLLW,WLLWWWDW
+Pescara,Bologna,0-3,/match/pescara-calcio/bologna/2017,2017,17,serie_a,20,38,2,0,3,19,11,1,5,10,13,29,DLLWDDLDWLWLWWDW,0,4,4,5,13,14,23,4,5,7,14,22,WWWWWDLDDDLWWLWD,0,3,4,5,15,DLDLDLLD,WWDDDWW
+Napoli,Torino,5-3,/match/napoli/torino-fc/2017,2017,17,serie_a,20,38,0,5,3,4,34,9,4,3,32,15,DWLWDWWLLWWDLDWL,5,2,1,17,8,7,30,7,4,5,32,22,WWWDDWWLDWDWLWWL,2,2,4,12,12,WWWLWDDW,WWDLWDLW
+Chievo,Sampdoria,2-1,/match/chievo/sampdoria/2017,2017,17,serie_a,20,38,0,2,1,12,25,6,4,6,16,16,WWDLWWLLDDWLWWDL,3,3,2,9,8,11,27,6,4,6,20,22,LWWLWWDDWWWDWDWL,1,3,4,8,14,WDWLDLWD,LWWWDWDD
+Udinese,Crotone,2-0,/match/udinese/fc-crotone/2017,2017,17,serie_a,20,38,0,2,0,15,23,6,3,7,22,24,WWLLDWLWWLDDLWWL,3,2,3,12,12,18,13,2,3,11,14,30,WLWDWLWWLDWWLDWW,0,1,7,5,17,WLDLWDLW,WWWWWDWW
+Lazio,Fiorentina,3-1,/match/lazio/fiorentina/2017,2017,17,serie_a,20,38,0,3,1,5,33,9,4,3,29,17,LLDWWWLDDWWDWLLL,5,1,2,15,7,6,31,7,5,4,24,18,WWWWDDWDLDLDLWWW,3,1,4,16,14,LWWDWWWL,WWDWLLLW
+Genoa,Palermo FC,3-4,/match/genoa/palermo/2017,2017,17,serie_a,20,38,2,3,4,9,29,6,5,5,18,17,WLWWDDLDWWWDWWDW,4,4,0,12,4,20,5,1,3,12,11,31,LDLDLLDLWLWLWLWL,1,3,4,8,14,WWDDDWDW,DDLDWWWW
+Atalanta,Empoli,2-1,/match/atalanta/empoli-fc/2017,2017,18,serie_a,20,38,0,2,1,9,30,9,2,6,25,20,LWWWLLWDWLWLWLWLD,5,0,3,14,11,17,17,3,5,9,9,24,LWWDLWLDDWDLLLWDW,1,3,4,4,9,LWLWWWWL,WDWDWLWD
+Inter,Lazio,3-0,/match/internazionale/lazio/2017,2017,18,serie_a,20,38,0,3,0,7,31,8,3,6,25,21,WDLWLDWLWWWWDWWWL,5,2,1,16,8,5,37,10,4,3,32,18,LLDWWWLDDWWDWLLLW,4,3,1,14,10,DWDLWWWW,LDWLDDLL
+Cagliari,Sassuolo,4-3,/match/cagliari/us-sassuolo-calcio/2017,2017,18,serie_a,20,38,0,4,3,15,25,6,2,9,23,39,WDWWWWWLLWWWWWDLW,5,1,2,16,16,16,20,5,2,10,21,29,LLWWWWWWDLWLWDWWL,1,2,6,12,18,DWWWLWWL,LWWWDWWDW
+Fiorentina,Napoli,3-3,/match/fiorentina/napoli/2017,2017,18,serie_a,20,38,1,3,3,6,31,7,5,5,25,21,WWWWDDWDLDLDLWWWW,4,4,0,8,4,3,38,10,4,3,37,18,DWLWDWWLLWWDLDWLW,4,2,2,15,7,WWDDDDWW,DLDWLWLL
+Palermo FC,Pescara,1-1,/match/palermo/pescara-calcio/2017,2017,18,serie_a,20,38,1,1,1,20,7,2,3,12,15,34,LDLDLLDLWLWLWLWLL,0,0,8,3,17,19,11,1,5,11,13,32,DLLWDDLDWLWLWWDWL,1,1,6,8,16,LLLLLLLL,LWDWWWWW
+Roma,Chievo,3-1,/match/roma/chievo/2017,2017,18,serie_a,20,38,0,3,1,2,40,11,2,4,36,17,WDWWWWWLWLDWWWLWW,8,0,0,24,6,11,29,7,4,6,18,17,WWDLWWLLDDWLWWDLW,3,1,4,7,8,WWWWWWWW,WLWLDWWL
+Sampdoria,Udinese,0-0,/match/sampdoria/udinese/2017,2017,18,serie_a,20,38,1,0,0,13,27,6,4,7,21,24,LWWLWWDDWWWDWDWLW,5,1,2,12,8,12,27,7,3,7,24,24,WWLLDWLWWLDDLWWLW,3,1,4,10,12,WLDWWWWL,WLWWLDWL
+Torino,Genoa,1-0,/match/torino-fc/genoa/2017,2017,18,serie_a,20,38,0,1,0,8,30,7,4,6,35,27,WWWDDWWLDWDWLWWLW,5,2,1,20,10,10,29,6,5,6,21,21,WLWWDDLDWWWDWWDWL,2,1,5,6,13,WDWWDWWL,LWLWWWDW
+Crotone,Juventus,0-2,/match/fc-crotone/juventus-fc/2017,2017,18,serie_a,20,38,2,0,2,18,13,2,3,12,14,32,WLWDWLWWLDWWLDWWW,2,2,4,9,13,1,46,14,0,3,36,14,WLWWWLLWWWWLWWWLW,5,0,3,12,8,LDLLWLDW,LWLLWLWL
+Bologna,Milan,0-1,/match/bologna/milan/2017,2017,18,serie_a,20,38,2,0,1,14,25,5,5,7,17,22,WWWWWDLDDDLWWLWDL,4,2,3,9,7,4,37,10,3,4,27,20,WWLLWDWLWWWLDLWWD,4,1,3,12,11,WWWLDLWLD,WLDLWLLW
+Empoli,Palermo FC,1-0,/match/empoli-fc/palermo/2017,2017,19,serie_a,20,38,0,1,0,17,17,3,5,10,10,26,LWWDLWLDDWDLLLWDWW,2,2,5,5,15,20,9,2,4,12,16,35,LDLDLLDLWLWLWLWLLD,2,3,4,12,17,LWLLDDLLW,DDLDWWWWL
+Napoli,Sampdoria,2-1,/match/napoli/sampdoria/2017,2017,19,serie_a,20,38,0,2,1,3,39,10,5,3,40,21,DWLWDWWLLWWDLDWLWD,6,2,1,22,11,10,29,6,5,7,21,24,LWWLWWDDWWWDWDWLWD,1,3,5,9,16,WWWLWDDWW,LWWWDWDDW
+Udinese,Inter,1-2,/match/udinese/internazionale/2017,2017,19,serie_a,20,38,2,1,2,14,28,7,4,7,24,24,WWLLDWLWWLDDLWWLWD,4,2,3,14,12,6,35,9,3,6,28,21,WDLWLDWLWWWWDWWWLW,3,1,5,9,13,WLDLWDLWW,WLLWWWDWL
+Sassuolo,Torino,0-0,/match/us-sassuolo-calcio/torino-fc/2017,2017,19,serie_a,20,38,1,0,0,16,20,5,2,11,24,33,LLWWWWWWDLWLWDWWLW,4,0,4,9,11,7,34,8,4,6,36,27,WWWDDWWLDWDWLWWLWW,2,2,5,15,17,LWWWLLWL,WWDLWDLWW
+Chievo,Atalanta,1-4,/match/chievo/atalanta/2017,2017,19,serie_a,20,38,2,1,4,12,29,7,4,7,19,20,WWDLWWLLDDWLWWDLWW,4,3,2,11,9,8,34,10,2,6,27,21,LWWWLLWDWLWLWLWLDW,4,2,3,11,9,WDWLDLWDW,WWLDLLLWD
+Lazio,Crotone,1-0,/match/lazio/fc-crotone/2017,2017,19,serie_a,20,38,0,1,0,5,37,10,4,4,32,21,LLDWWWLDDWWDWLLLWW,6,1,2,18,8,18,13,2,3,13,14,34,WLWDWLWWLDWWLDWWWL,0,1,8,5,19,LWWDWWWLW,WWWWWDWWW
+Genoa,Roma,0-1,/match/genoa/roma/2017,2017,19,serie_a,20,38,2,0,1,13,29,6,5,7,21,22,WLWWDDLDWWWDWWDWLW,4,4,1,15,8,2,44,12,2,4,39,18,WDWWWWWLWLDWWWLWWW,3,2,4,12,11,WWDDDWDWL,DWWLLDWLW
+Milan,Cagliari,1-0,/match/milan/cagliari/2017,2017,19,serie_a,20,38,0,1,0,4,39,11,3,4,28,20,WWLLWDWLWWWLDLWWDL,6,2,1,15,9,11,29,7,2,9,27,42,WDWWWWWLLWWWWWDLWW,1,1,7,7,23,WLWWWWDWD,WWWLWWWDW
+Juventus,Bologna,3-0,/match/juventus-fc/bologna/2017,2017,19,serie_a,20,38,0,3,0,1,48,15,0,3,38,14,WLWWWLLWWWWLWWWLWL,9,0,0,24,6,15,25,5,5,8,17,23,WWWWWDLDDDLWWLWDLL,1,3,4,8,15,WWWWWWWWW,WWDDDWWL
+Pescara,Fiorentina,1-2,/match/pescara-calcio/fiorentina/2017,2017,19,serie_a,20,38,2,1,2,19,12,1,6,11,14,33,DLLWDDLDWLWLWWDWLD,0,4,5,5,16,9,33,7,6,5,28,24,WWWWDDWDLDLDLWWWWD,3,1,5,17,17,DLDLDLLDL,WWDWLLLWW
+Crotone,Bologna,0-1,/match/fc-crotone/bologna/2017,2017,20,serie_a,20,38,2,0,1,18,13,2,3,14,14,35,WLWDWLWWLDWWLDWWWLW,2,2,5,9,15,15,25,5,5,9,17,26,WWWWWDLDDDLWWLWDLLW,1,3,5,8,18,LDLLWLDWL,WWDDDWWLW
+Inter,Chievo,3-1,/match/internazionale/chievo/2017,2017,20,serie_a,20,38,0,3,1,6,37,10,3,6,30,22,WDLWLDWLWWWWDWWWLWL,6,2,1,19,8,10,29,7,4,8,20,24,WWDLWWLLDDWLWWDLWWL,3,1,5,8,11,DWDLWWWWW,WLWLDWWLW
+Cagliari,Genoa,4-1,/match/cagliari/genoa/2017,2017,20,serie_a,20,38,0,4,1,12,29,7,2,10,27,43,WDWWWWWLLWWWWWDLWWW,6,1,2,20,19,11,29,6,5,8,21,23,WLWWDDLDWWWDWWDWLWL,2,1,6,6,14,DWWWLWWLW,LWLWWWDWW
+Lazio,Atalanta,2-1,/match/lazio/atalanta/2017,2017,20,serie_a,20,38,0,2,1,5,41,11,4,4,33,21,LLDWWWLDDWWDWLLLWWW,7,1,2,19,8,7,36,11,2,6,31,22,LWWWLLWDWLWLWLWLDWL,5,2,3,15,10,LWWDWWWLWW,WWLDLLLWDL
+Napoli,Pescara,3-1,/match/napoli/pescara-calcio/2017,2017,20,serie_a,20,38,0,3,1,3,43,11,5,3,42,22,DWLWDWWLLWWDLDWLWDW,7,2,1,24,12,19,12,1,6,12,15,35,DLLWDDLDWLWLWWDWLDL,1,2,6,9,17,WWWLWDDWWW,LWDWWWWWD
+Sassuolo,Palermo FC,4-1,/match/us-sassuolo-calcio/palermo/2017,2017,20,serie_a,20,38,0,4,1,16,22,5,3,11,24,33,LLWWWWWWDLWLWDWWLWD,4,1,4,9,11,20,9,2,4,13,16,36,LDLDLLDLWLWLWLWLLDW,2,3,5,12,18,LWWWLLWLD,DDLDWWWWLW
+Udinese,Roma,0-1,/match/udinese/roma/2017,2017,20,serie_a,20,38,2,0,1,14,28,7,4,8,25,26,WWLLDWLWWLDDLWWLWDL,4,2,4,15,14,2,46,13,2,4,40,18,WDWWWWWLWLDWWWLWWWL,4,2,4,13,11,WLDLWDLWWL,DWWLLDWLWL
+Sampdoria,Empoli,0-0,/match/sampdoria/empoli-fc/2017,2017,20,serie_a,20,38,1,0,0,13,29,6,5,8,22,26,LWWLWWDDWWWDWDWLWDW,5,2,2,12,8,17,21,4,5,10,11,26,LWWDLWLDDWDLLLWDWWW,1,3,5,5,11,WLDWWWWLD,WDWDWLWDW
+Fiorentina,Juventus,2-1,/match/fiorentina/juventus-fc/2017,2017,20,serie_a,20,38,0,2,1,9,35,8,6,5,30,25,WWWWDDWDLDLDLWWWWDL,4,5,0,11,7,1,52,16,0,3,41,14,WLWWWLLWWWWLWWWLWLW,6,0,3,14,8,WWDDDDWWD,LWLLWLWLL
+Torino,Milan,2-2,/match/torino-fc/milan/2017,2017,20,serie_a,20,38,1,2,2,8,35,8,5,6,36,27,WWWDDWWLDWDWLWWLWWD,6,2,1,21,10,4,43,12,3,4,29,20,WWLLWDWLWWWLDLWWDLW,5,1,3,13,11,WDWWDWWLW,WLDLWLLWL
+Chievo,Fiorentina,0-3,/match/chievo/fiorentina/2017,2017,21,serie_a,20,38,2,0,3,13,29,7,4,9,21,27,WWDLWWLLDDWLWWDLWWLW,4,3,3,12,13,7,39,9,6,5,32,26,WWWWDDWDLDLDLWWWWDLW,4,1,5,19,18,WDWLDLWDWL,WWDWLLLWWL
+Milan,Napoli,1-2,/match/milan/napoli/2017,2017,21,serie_a,20,38,2,1,2,5,44,12,4,4,31,22,WWLLWDWLWWWLDLWWDLWD,7,2,1,16,9,3,47,12,5,3,45,23,DWLWDWWLLWWDLDWLWDWW,4,3,2,18,10,WLWWWWDWDW,DLDWLWLLD
+Juventus,Lazio,2-0,/match/juventus-fc/lazio/2017,2017,21,serie_a,20,38,0,2,0,1,52,16,0,4,42,16,WLWWWLLWWWWLWWWLWLWW,10,0,0,27,6,4,45,12,4,4,35,22,LLDWWWLDDWWDWLLLWWWW,4,3,2,14,13,WWWWWWWWWW,LDWLDDLLW
+Bologna,Torino,2-0,/match/bologna/torino-fc/2017,2017,21,serie_a,20,38,0,2,0,15,27,6,5,9,18,26,WWWWWDLDDDLWWLWDLLWL,4,2,4,9,8,8,37,8,6,6,38,29,WWWDDWWLDWDWLWWLWWDD,2,3,5,15,17,WWWLDLWLDL,WWDLWDLWWD
+Pescara,Sassuolo,1-3,/match/pescara-calcio/us-sassuolo-calcio/2017,2017,21,serie_a,20,38,2,1,3,19,12,1,6,13,16,38,DLLWDDLDWLWLWWDWLDLW,0,4,6,6,18,16,26,6,3,11,28,34,LLWWWWWWDLWLWDWWLWDW,1,2,7,15,22,DLDLDLLDLL,LWWWDWWDWW
+Empoli,Udinese,1-0,/match/empoli-fc/udinese/2017,2017,21,serie_a,20,38,0,1,0,17,22,4,6,10,11,26,LWWDLWLDDWDLLLWDWWWD,3,2,5,6,15,14,28,7,4,9,25,27,WWLLDWLWWLDDLWWLWDLL,3,2,4,10,12,LWLLDDLLWW,WLWWLDWLD
+Palermo FC,Inter,0-1,/match/palermo/internazionale/2017,2017,21,serie_a,20,38,2,0,1,20,9,2,4,14,17,40,LDLDLLDLWLWLWLWLLDWW,0,1,8,4,18,6,41,11,3,6,33,23,WDLWLDWLWWWWDWWWLWLW,4,1,5,11,14,LLLLLLLLD,WLLWWWDWLL
+Genoa,Crotone,2-2,/match/genoa/fc-crotone/2017,2017,21,serie_a,20,38,1,2,2,12,29,6,5,9,22,27,WLWWDDLDWWWDWWDWLWLW,4,4,2,15,9,18,13,2,3,15,14,36,WLWDWLWWLDWWLDWWWLWL,0,1,9,5,20,WWDDDWDWLL,WWWWWDWWWW
+Atalanta,Sampdoria,1-0,/match/atalanta/sampdoria/2017,2017,21,serie_a,20,38,0,1,0,9,36,11,2,7,32,24,LWWWLLWDWLWLWLWLDWLW,6,0,3,16,12,11,31,6,6,8,22,26,LWWLWWDDWWWDWDWLWDWD,1,3,6,10,18,LWLWWWWLW,LWWWDWDDWW
+Roma,Cagliari,1-0,/match/roma/cagliari/2017,2017,21,serie_a,20,38,0,1,0,2,48,14,2,4,41,18,WDWWWWWLWLDWWWLWWWLL,9,0,0,27,7,10,33,8,2,10,31,44,WDWWWWWLLWWWWWDLWWWW,1,1,8,7,24,WWWWWWWWW,WWWLWWWDWW
+Lazio,Chievo,0-1,/match/lazio/chievo/2017,2017,22,serie_a,20,38,2,0,1,4,45,12,4,5,35,24,LLDWWWLDDWWDWLLLWWWWW,8,1,2,21,9,14,29,7,4,10,21,30,WWDLWWLLDDWLWWDLWWLWL,3,1,6,9,14,LWWDWWWLWWW,WLWLDWWLWW
+Inter,Pescara,3-0,/match/internazionale/pescara-calcio/2017,2017,22,serie_a,20,38,0,3,0,6,43,12,3,6,34,23,WDLWLDWLWWWWDWWWLWLWL,7,2,1,22,9,19,12,1,6,14,17,41,DLLWDDLDWLWLWWDWLDLWL,1,2,7,10,20,DWDLWWWWWW,LWDWWWWWDW
+Torino,Atalanta,1-1,/match/torino-fc/atalanta/2017,2017,22,serie_a,20,38,1,1,1,9,37,8,6,7,38,31,WWWDDWWLDWDWLWWLWWDDW,6,3,1,23,12,8,40,12,2,7,33,24,LWWWLLWDWLWLWLWLDWLWW,5,2,4,16,12,WDWWDWWLWD,WWLDLLLWDLW
+Udinese,Milan,2-1,/match/udinese/milan/2017,2017,22,serie_a,20,38,0,2,1,15,28,7,4,10,25,28,WWLLDWLWWLDDLWWLWDLLW,4,2,5,15,15,5,44,12,4,5,32,24,WWLLWDWLWWWLDLWWDLWDL,5,2,3,15,13,WLDLWDLWWLL,WLDLWLLWLD
+Sassuolo,Juventus,0-2,/match/us-sassuolo-calcio/juventus-fc/2017,2017,22,serie_a,20,38,2,0,2,16,28,7,3,11,31,35,LLWWWWWWDLWLWDWWLWDWL,5,1,4,13,12,1,56,17,0,4,44,16,WLWWWLLWWWWLWWWLWLWWW,6,0,4,15,10,LWWWLLWLDW,LWLLWLWLLW
+Fiorentina,Genoa,3-3,/match/fiorentina/genoa/2017,2017,22,serie_a,20,38,1,3,3,7,41,10,6,5,35,26,WWWWDDWDLDLDLWWWWDLWL,5,5,0,13,8,13,31,6,6,9,24,29,WLWWDDLDWWWDWWDWLWLWD,2,1,7,7,18,WWDDDDWWDW,LWLWWWDWWW
+Crotone,Empoli,4-1,/match/fc-crotone/empoli-fc/2017,2017,22,serie_a,20,38,0,4,1,18,14,2,4,15,16,38,WLWDWLWWLDWWLDWWWLWLD,2,2,6,9,16,17,26,5,6,10,12,26,LWWDLWLDDWDLLLWDWWWDW,1,4,5,5,11,LDLLWLDWLL,WDWDWLWDWD
+Cagliari,Bologna,1-1,/match/cagliari/bologna/2017,2017,22,serie_a,20,38,1,1,1,10,33,8,2,11,31,45,WDWWWWWLLWWWWWDLWWWWW,7,1,2,24,20,11,31,7,5,9,20,26,WWWWWDLDDDLWWLWDLLWLW,2,3,5,9,18,DWWWLWWLWW,WWDDDWWLWL
+Sampdoria,Roma,3-2,/match/sampdoria/roma/2017,2017,22,serie_a,20,38,0,3,2,12,31,6,6,9,22,27,LWWLWWDDWWWDWDWLWDWDW,5,3,2,12,8,2,52,15,2,4,42,18,WDWWWWWLWLDWWWLWWWLLW,5,2,4,14,11,WLDWWWWLDD,DWWLLDWLWLL
+Napoli,Palermo FC,1-1,/match/napoli/palermo/2017,2017,22,serie_a,20,38,1,1,1,3,49,13,5,3,47,24,DWLWDWWLLWWDLDWLWDWWL,8,2,1,27,13,20,9,2,4,15,17,41,LDLDLLDLWLWLWLWLLDWWL,2,3,6,13,22,WWWLWDDWWWW,DDLDWWWWLWW
+Bologna,Napoli,1-7,/match/bologna/napoli/2017,2017,23,serie_a,20,38,2,1,7,13,32,7,6,9,21,27,WWWWWDLDDDLWWLWDLLWLWD,5,2,4,11,8,3,51,13,6,3,48,25,DWLWDWWLLWWDLDWLWDWWLD,5,3,2,20,11,WWWLDLWLDLW,DLDWLWLLDL
+Milan,Sampdoria,0-1,/match/milan/sampdoria/2017,2017,23,serie_a,20,38,2,0,1,6,44,12,4,6,33,26,WWLLWDWLWWWLDLWWDLWDLW,7,2,2,17,11,11,35,7,6,9,25,29,LWWLWWDDWWWDWDWLWDWDWW,1,3,7,10,19,WLWWWWDWDWL,LWWWDWDDWWW
+Empoli,Torino,1-1,/match/empoli-fc/torino-fc/2017,2017,23,serie_a,20,38,1,1,1,17,26,5,6,11,13,30,LWWDLWLDDWDLLLWDWWWDWW,4,2,5,7,15,9,39,8,7,7,39,32,WWWDDWWLDWDWLWWLWWDDWD,2,3,6,15,19,LWLLDDLLWWW,WWDLWDLWWDW
+Genoa,Sassuolo,0-1,/match/genoa/us-sassuolo-calcio/2017,2017,23,serie_a,20,38,2,0,1,14,32,6,7,9,27,32,WLWWDDLDWWWDWWDWLWLWDD,4,5,2,17,11,16,28,7,3,12,31,37,LLWWWWWWDLWLWDWWLWDWLL,2,2,7,18,23,WWDDDWDWLLD,LWWWDWWDWWL
+Atalanta,Cagliari,2-0,/match/atalanta/cagliari/2017,2017,23,serie_a,20,38,0,2,0,8,41,12,3,7,34,25,LWWWLLWDWLWLWLWLDWLWWD,7,0,3,17,12,10,35,8,3,11,32,46,WDWWWWWLLWWWWWDLWWWWWD,1,1,9,7,25,LWLWWWWLWW,WWWLWWWDWWW
+Pescara,Lazio,2-6,/match/pescara-calcio/lazio/2017,2017,23,serie_a,20,38,2,2,6,19,12,1,6,15,17,44,DLLWDDLDWLWLWWDWLDLWLW,0,4,7,7,21,5,45,12,4,6,35,25,LLDWWWLDDWWDWLLLWWWWWL,4,3,3,14,15,DLDLDLLDLLL,LDWLDDLLWW
+Chievo,Udinese,0-0,/match/chievo/udinese/2017,2017,23,serie_a,20,38,1,0,0,15,31,8,4,10,22,30,WWDLWWLLDDWLWWDLWWLWLL,4,3,4,12,16,12,32,8,4,10,27,29,WWLLDWLWWLDDLWWLWDLLWW,3,2,5,10,13,WDWLDLWDWLL,WLWWLDWLDW
+Palermo FC,Crotone,1-0,/match/palermo/fc-crotone/2017,2017,23,serie_a,20,38,0,1,0,20,10,2,5,15,18,42,LDLDLLDLWLWLWLWLLDWWLD,0,1,9,4,19,18,18,3,4,15,20,39,WLWDWLWWLDWWLDWWWLWLDW,0,2,9,7,22,LLLLLLLLDL,WWWWWDWWWWD
+Juventus,Inter,1-0,/match/juventus-fc/internazionale/2017,2017,23,serie_a,20,38,0,1,0,1,58,18,0,4,46,16,WLWWWLLWWWWLWWWLWLWWWL,11,0,0,29,6,4,47,13,3,6,37,23,WDLWLDWLWWWWDWWWLWLWLW,5,1,5,12,14,WWWWWWWWWWW,WLLWWWDWLLL
+Roma,Fiorentina,4-0,/match/roma/fiorentina/2017,2017,23,serie_a,20,38,0,4,0,2,52,15,2,5,44,21,WDWWWWWLWLDWWWLWWWLLWW,10,0,0,28,7,7,43,10,7,5,38,29,WWWWDDWDLDLDLWWWWDLWLD,5,1,5,22,18,WWWWWWWWWW,WWDWLLLWWLL
+Napoli,Genoa,2-0,/match/napoli/genoa/2017,2017,24,serie_a,20,38,0,2,0,3,53,14,6,3,55,26,DWLWDWWLLWWDLDWLWDWWLDL,8,3,1,28,14,15,32,6,7,10,27,33,WLWWDDLDWWWDWWDWLWLWDDL,2,2,7,10,21,WWWLWDDWWWWD,LWLWWWDWWWD
+Fiorentina,Udinese,3-0,/match/fiorentina/udinese/2017,2017,24,serie_a,20,38,0,3,0,8,43,10,7,6,38,33,WWWWDDWDLDLDLWWWWDLWLDW,5,6,0,16,11,12,33,8,5,10,27,29,WWLLDWLWWLDDLWWLWDLLWWD,3,3,5,10,13,WWDDDDWWDWD,WLWWLDWLDWD
+Crotone,Roma,0-2,/match/fc-crotone/roma/2017,2017,24,serie_a,20,38,2,0,2,18,18,3,4,16,20,40,WLWDWLWWLDWWLDWWWLWLDWW,3,2,6,13,17,2,56,16,2,5,48,21,WDWWWWWLWLDWWWLWWWLLWWW,5,2,5,16,14,LDLLWLDWLLW,DWWLLDWLWLLW
+Torino,Pescara,5-3,/match/torino-fc/pescara-calcio/2017,2017,24,serie_a,20,38,0,5,3,9,40,8,8,7,40,33,WWWDDWWLDWDWLWWLWWDDWDD,6,4,1,24,13,20,12,1,6,16,19,50,DLLWDDLDWLWLWWDWLDLWLWL,1,2,8,10,23,WDWWDWWLWDD,LWDWWWWWDWW
+Palermo FC,Atalanta,1-3,/match/palermo/atalanta/2017,2017,24,serie_a,20,38,2,1,3,19,14,3,5,15,19,42,LDLDLLDLWLWLWLWLLDWWLDW,1,1,9,5,19,6,45,13,3,7,36,25,LWWWLLWDWLWLWLWLDWLWWDW,5,3,4,17,13,LLLLLLLLDLW,WWLDLLLWDLWD
+Inter,Empoli,2-0,/match/internazionale/empoli-fc/2017,2017,24,serie_a,20,38,0,2,0,4,47,13,3,7,37,24,WDLWLDWLWWWWDWWWLWLWLWW,8,2,1,25,9,17,28,5,7,11,14,31,LWWDLWLDDWDLLLWDWWWDWWD,1,4,6,6,15,DWDLWWWWWWW,WDWDWLWDWDW
+Sassuolo,Chievo,1-3,/match/us-sassuolo-calcio/chievo/2017,2017,24,serie_a,20,38,2,1,3,16,30,8,3,12,32,37,LLWWWWWWDLWLWDWWLWDWLLL,5,1,5,13,14,13,33,8,5,10,22,30,WWDLWWLLDDWLWWDLWWLWLLD,4,1,6,10,14,LWWWLLWLDWL,WLWLDWWLWWL
+Sampdoria,Bologna,3-1,/match/sampdoria/bologna/2017,2017,24,serie_a,20,38,0,3,1,10,37,8,6,9,26,29,LWWLWWDDWWWDWDWLWDWDWWL,6,3,2,15,10,14,32,7,6,10,22,34,WWWWWDLDDDLWWLWDLLWLWDL,2,4,5,10,19,WLDWWWWLDDW,WWDDDWWLWLD
+Cagliari,Juventus,0-2,/match/cagliari/juventus-fc/2017,2017,24,serie_a,20,38,2,0,2,11,35,8,3,12,32,48,WDWWWWWLLWWWWWDLWWWWWDW,7,2,2,25,21,1,62,19,0,4,47,16,WLWWWLLWWWWLWWWLWLWWWLW,7,0,4,17,10,DWWWLWWLWWD,LWLLWLWLLWL
+Lazio,Milan,1-1,/match/lazio/milan/2017,2017,24,serie_a,20,38,1,1,1,5,47,13,4,6,41,27,LLDWWWLDDWWDWLLLWWWWWLL,8,1,3,21,10,7,44,12,4,7,33,27,WWLLWDWLWWWLDLWWDLWDLWL,5,2,4,16,15,LWWDWWWLWWWL,WLDLWLLWLDW
+Juventus,Palermo FC,4-1,/match/juventus-fc/palermo/2017,2017,25,serie_a,20,38,0,4,1,1,64,20,0,4,49,16,WLWWWLLWWWWLWWWLWLWWWLWL,12,0,0,30,6,19,14,3,5,16,20,45,LDLDLLDLWLWLWLWLLDWWLDWL,2,4,6,14,23,WWWWWWWWWWWW,DDLDWWWWLWWD
+Atalanta,Crotone,1-0,/match/atalanta/fc-crotone/2017,2017,25,serie_a,20,38,0,1,0,6,47,14,3,7,39,26,LWWWLLWDWLWLWLWLDWLWWDWL,8,0,3,19,12,18,18,3,4,17,20,42,WLWDWLWWLDWWLDWWWLWLDWWL,0,2,10,7,23,LWLWWWWLWWW,WWWWWDWWWWDW
+Empoli,Lazio,1-2,/match/empoli-fc/lazio/2017,2017,25,serie_a,20,38,2,1,2,17,28,5,7,12,14,33,LWWDLWLDDWDLLLWDWWWDWWDW,4,3,5,8,16,5,49,13,5,6,42,28,LLDWWWLDDWWDWLLLWWWWWLLD,5,3,3,20,17,LWLLDDLLWWWD,LDWLDDLLWWL
+Bologna,Inter,0-1,/match/bologna/internazionale/2017,2017,25,serie_a,20,38,2,0,1,14,32,7,6,11,23,37,WWWWWDLDDDLWWLWDLLWLWDLW,5,2,5,12,15,4,51,14,3,7,39,24,WDLWLDWLWWWWDWWWLWLWLWWW,5,1,6,12,15,WWWLDLWLDLWL,WLLWWWDWLLLW
+Udinese,Sassuolo,1-2,/match/udinese/us-sassuolo-calcio/2017,2017,25,serie_a,20,38,2,1,2,13,33,8,5,11,27,32,WWLLDWLWWLDDLWWLWDLLWWDW,5,2,5,17,16,16,30,8,3,13,33,40,LLWWWWWWDLWLWDWWLWDWLLLL,3,2,7,19,23,WLDLWDLWWLLW,LWWWDWWDWWLL
+Chievo,Napoli,1-3,/match/chievo/napoli/2017,2017,25,serie_a,20,38,2,1,3,11,35,9,5,10,25,31,WWDLWWLLDDWLWWDLWWLWLLDL,4,4,4,12,16,3,57,15,6,3,57,26,DWLWDWWLLWWDLDWLWDWWLDLW,6,3,2,27,12,WDWLDLWDWLLD,DLDWLWLLDLL
+Sampdoria,Cagliari,1-1,/match/sampdoria/cagliari/2017,2017,25,serie_a,20,38,1,1,1,10,41,9,6,9,29,30,LWWLWWDDWWWDWDWLWDWDWWLW,7,3,2,18,11,12,35,8,3,13,32,50,WDWWWWWLLWWWWWDLWWWWWDWL,1,1,10,7,27,WLDWWWWLDDWW,WWWLWWWDWWWW
+Pescara,Genoa,5-0,/match/pescara-calcio/genoa/2017,2017,25,serie_a,20,38,0,5,0,20,12,1,6,17,22,55,DLLWDDLDWLWLWWDWLDLWLWLW,0,4,8,9,27,15,32,6,7,11,27,35,WLWWDDLDWWWDWWDWLWLWDDLW,2,2,8,10,23,DLDLDLLDLLLL,LWLWWWDWWWDW
+Roma,Torino,4-1,/match/roma/torino-fc/2017,2017,25,serie_a,20,38,0,4,1,2,58,17,2,5,50,21,WDWWWWWLWLDWWWLWWWLLWWWL,11,0,0,32,7,9,44,9,8,7,45,36,WWWDDWWLDWDWLWWLWWDDWDDW,2,4,6,16,20,WWWWWWWWWWW,WWDLWDLWWDWD
+Milan,Fiorentina,2-1,/match/milan/fiorentina/2017,2017,25,serie_a,20,38,0,2,1,8,45,12,5,7,34,28,WWLLWDWLWWWLDLWWDLWDLWLD,7,2,3,17,12,7,47,11,7,6,41,33,WWWWDDWDLDLDLWWWWDLWLDWW,5,1,6,22,22,WLWWWWDWDWLL,WWDWLLLWWLLW
+Napoli,Atalanta,0-2,/match/napoli/atalanta/2017,2017,26,serie_a,20,38,2,0,2,3,59,16,6,3,60,27,DWLWDWWLLWWDLDWLWDWWLDLWL,9,3,1,30,14,6,51,15,3,7,40,26,LWWWLLWDWLWLWLWLDWLWWDWLW,6,3,4,20,14,WWWLWDDWWWWDW,WWLDLLLWDLWDL
+Juventus,Empoli,2-0,/match/juventus-fc/empoli-fc/2017,2017,26,serie_a,20,38,0,2,0,1,68,21,0,4,53,17,WLWWWLLWWWWLWWWLWLWWWLWLW,13,0,0,34,7,17,28,5,7,13,15,35,LWWDLWLDDWDLLLWDWWWDWWDWL,1,4,7,6,17,WWWWWWWWWWWWW,WDWDWLWDWDWW
+Palermo FC,Sampdoria,1-1,/match/palermo/sampdoria/2017,2017,26,serie_a,20,38,1,1,1,20,14,3,5,17,21,49,LDLDLLDLWLWLWLWLLDWWLDWLW,1,1,10,6,22,10,43,9,7,9,30,31,LWWLWWDDWWWDWDWLWDWDWWLWD,2,3,7,11,19,LLLLLLLLDLWL,LWWWDWDDWWWL
+Chievo,Pescara,2-0,/match/chievo/pescara-calcio/2017,2017,26,serie_a,20,38,0,2,0,12,35,9,5,11,26,34,WWDLWWLLDDWLWWDLWWLWLLDLL,4,4,5,13,19,19,16,2,6,17,27,55,DLLWDDLDWLWLWWDWLDLWLWLWW,1,2,9,13,28,WDWLDLWDWLLDL,LWDWWWWWDWWW
+Sassuolo,Milan,0-1,/match/us-sassuolo-calcio/milan/2017,2017,26,serie_a,20,38,2,0,1,16,32,9,3,13,35,41,LLWWWWWWDLWLWDWWLWDWLLLLL,5,1,6,14,17,7,49,13,5,7,36,29,WWLLWDWLWWWLDLWWDLWDLWLDW,5,3,4,17,16,LWWWLLWLDWLL,WLDLWLLWLDWD
+Crotone,Cagliari,1-2,/match/fc-crotone/cagliari/2017,2017,26,serie_a,20,38,2,1,2,18,18,3,4,18,20,43,WLWDWLWWLDWWLDWWWLWLDWWLW,3,2,7,13,19,11,36,8,4,13,33,51,WDWWWWWLLWWWWWDLWWWWWDWLD,1,2,10,8,28,LDLLWLDWLLWL,WWWLWWWDWWWWD
+Genoa,Bologna,1-1,/match/genoa/bologna/2017,2017,26,serie_a,20,38,1,1,1,15,32,6,7,12,27,40,WLWWDDLDWWWDWWDWLWLWDDLWW,4,5,3,17,12,14,32,7,6,12,23,38,WWWWWDLDDDLWWLWDLLWLWDLWL,2,4,6,11,22,WWDDDWDWLLDL,WWDDDWWLWLDW
+Lazio,Udinese,1-0,/match/lazio/udinese/2017,2017,26,serie_a,20,38,0,1,0,5,51,14,5,6,44,29,LLDWWWLDDWWDWLLLWWWWWLLDL,8,2,3,22,11,13,33,8,5,12,28,34,WWLLDWLWWLDDLWWLWDLLWWDWL,3,3,6,10,16,LWWDWWWLWWWLD,WLWWLDWLDWDW
+Inter,Roma,1-3,/match/internazionale/roma/2017,2017,26,serie_a,20,38,2,1,3,4,53,15,3,7,40,24,WDLWLDWLWWWWDWWWLWLWLWWWL,9,2,1,27,9,2,62,18,2,5,54,22,WDWWWWWLWLDWWWLWWWLLWWWLW,6,2,5,18,14,DWDLWWWWWWWW,DWWLLDWLWLLWL
+Fiorentina,Torino,2-2,/match/fiorentina/torino-fc/2017,2017,26,serie_a,20,38,1,2,2,8,47,11,7,7,42,35,WWWWDDWDLDLDLWWWWDLWLDWWW,6,6,0,19,11,9,44,9,8,8,46,40,WWWDDWWLDWDWLWWLWWDDWDDWW,2,4,7,17,24,WWDDDDWWDWDW,WWDLWDLWWDWDW
+Roma,Napoli,1-2,/match/roma/napoli/2017,2017,27,serie_a,20,38,2,1,2,2,64,19,2,5,57,23,WDWWWWWLWLDWWWLWWWLLWWWLWL,12,0,0,36,8,3,59,16,6,4,60,29,DWLWDWWLLWWDLDWLWDWWLDLWLL,7,3,2,30,13,WWWWWWWWWWWW,DLDWLWLLDLLL
+Sampdoria,Pescara,3-1,/match/sampdoria/pescara-calcio/2017,2017,27,serie_a,20,38,0,3,1,10,44,9,8,9,31,32,LWWLWWDDWWWDWDWLWDWDWWLWDD,7,4,2,19,12,19,16,2,6,18,27,57,DLLWDDLDWLWLWWDWLDLWLWLWWW,1,2,10,13,30,WLDWWWWLDDWWD,LWDWWWWWDWWWW
+Milan,Chievo,3-1,/match/milan/chievo/2017,2017,27,serie_a,20,38,0,3,1,7,51,14,5,7,37,29,WWLLWDWLWWWLDLWWDLWDLWLDWL,8,2,3,19,13,11,39,10,5,11,28,34,WWDLWWLLDDWLWWDLWWLWLLDLLW,5,1,6,13,15,WLWWWWDWDWLLW,WLWLDWWLWWLL
+Atalanta,Fiorentina,0-0,/match/atalanta/fiorentina/2017,2017,27,serie_a,20,38,1,0,0,6,53,16,3,7,42,26,LWWWLLWDWLWLWLWLDWLWWDWLWL,9,0,3,20,12,8,49,11,8,7,44,37,WWWWDDWDLDLDLWWWWDLWLDWWWD,5,1,7,23,24,LWLWWWWLWWWW,WWDWLLLWWLLWW
+Torino,Palermo FC,3-1,/match/torino-fc/palermo/2017,2017,27,serie_a,20,38,0,3,1,9,45,9,9,8,48,42,WWWDDWWLDWDWLWWLWWDDWDDWWD,7,4,1,29,16,20,16,3,6,17,22,50,LDLDLLDLWLWLWLWLLDWWLDWLWD,2,4,7,15,27,WDWWDWWLWDDW,DDLDWWWWLWWDW
+Crotone,Sassuolo,0-0,/match/fc-crotone/us-sassuolo-calcio/2017,2017,27,serie_a,20,38,1,0,0,18,18,3,4,19,21,45,WLWDWLWWLDWWLDWWWLWLDWWLWL,3,2,8,14,21,16,32,9,3,14,35,42,LLWWWWWWDLWLWDWWLWDWLLLLLL,4,2,7,21,24,LDLLWLDWLLWLL,LWWWDWWDWWLLL
+Udinese,Juventus,1-1,/match/udinese/juventus-fc/2017,2017,27,serie_a,20,38,1,1,1,14,33,8,5,13,28,35,WWLLDWLWWLDDLWWLWDLLWWDWLW,5,2,6,18,18,1,72,22,0,4,55,17,WLWWWLLWWWWLWWWLWLWWWLWLWW,8,0,4,19,10,WLDLWDLWWLLWL,LWLLWLWLLWLL
+Cagliari,Inter,1-5,/match/cagliari/internazionale/2017,2017,27,serie_a,20,38,2,1,5,12,38,9,4,13,35,52,WDWWWWWLLWWWWWDLWWWWWDWLDL,7,2,3,25,23,5,53,15,3,8,41,27,WDLWLDWLWWWWDWWWLWLWLWWWLL,6,1,6,13,15,DWWWLWWLWWDL,WLLWWWDWLLLWL
+Empoli,Genoa,0-2,/match/empoli-fc/genoa/2017,2017,27,serie_a,20,38,2,0,2,17,28,5,7,14,15,37,LWWDLWLDDWDLLLWDWWWDWWDWLW,4,3,6,9,18,13,34,6,8,12,28,41,WLWWDDLDWWWDWWDWLWLWDDLWWD,2,2,9,10,28,LWLLDDLLWWWDL,LWLWWWDWWWDWW
+Bologna,Lazio,0-2,/match/bologna/lazio/2017,2017,27,serie_a,20,38,2,0,2,15,33,7,7,12,24,39,WWWWWDLDDDLWWLWDLLWLWDLWLD,5,2,6,12,16,4,55,15,5,6,45,29,LLDWWWLDDWWDWLLLWWWWWLLDLW,6,3,3,22,18,WWWLDLWLDLWLL,LDWLDDLLWWLL
+Juventus,Milan,2-1,/match/juventus-fc/milan/2017,2017,28,serie_a,20,38,0,2,1,1,73,22,1,4,56,18,WLWWWLLWWWWLWWWLWLWWWLWLWWD,14,0,0,36,7,7,55,15,5,7,40,30,WWLLWDWLWWWLDLWWDLWDLWLDWLW,6,3,4,18,16,WWWWWWWWWWWWWW,WLDLWLLWLDWDL
+Genoa,Sampdoria,0-1,/match/genoa/sampdoria/2017,2017,28,serie_a,20,38,2,0,1,13,36,7,8,12,30,41,WLWWDDLDWWWDWWDWLWLWDDLWWDL,4,6,3,18,13,10,48,10,8,9,34,33,LWWLWWDDWWWDWDWLWDWDWWLWDDW,2,4,7,12,20,WWDDDWDWLLDLD,LWWWDWDDWWWLD
+Sassuolo,Bologna,0-1,/match/us-sassuolo-calcio/bologna/2017,2017,28,serie_a,20,38,2,0,1,16,33,9,4,14,35,42,LLWWWWWWDLWLWDWWLWDWLLLLLLD,5,1,7,14,18,15,33,7,7,13,24,41,WWWWWDLDDDLWWLWDLLWLWDLWLDL,2,5,6,12,23,LWWWLLWLDWLLL,WWDDDWWLWLDWD
+Inter,Atalanta,7-1,/match/internazionale/atalanta/2017,2017,28,serie_a,20,38,0,7,1,5,55,16,3,8,46,28,WDLWLDWLWWWWDWWWLWLWLWWWLLL,9,2,2,28,12,6,55,16,4,7,42,26,LWWWLLWDWLWLWLWLDWLWWDWLWLD,7,3,4,22,14,DWDLWWWWWWWWL,WWLDLLLWDLWDLL
+Chievo,Empoli,4-0,/match/chievo/empoli-fc/2017,2017,28,serie_a,20,38,0,4,0,11,39,10,5,12,29,37,WWDLWWLLDDWLWWDLWWLWLLDLLWW,5,4,5,15,19,17,28,5,7,15,15,39,LWWDLWLDDWDLLLWDWWWDWWDWLWL,1,4,8,6,19,WDWLDLWDWLLDLW,WDWDWLWDWDWWW
+Napoli,Crotone,3-0,/match/napoli/fc-crotone/2017,2017,28,serie_a,20,38,0,3,0,3,61,17,6,4,62,30,DWLWDWWLLWWDLDWLWDWWLDLWLLL,9,3,2,30,16,18,20,3,5,19,21,45,WLWDWLWWLDWWLDWWWLWLDWWLWLD,0,2,11,7,24,WWWLWDDWWWWDWL,WWWWWDWWWWDWW
+Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/2017,2017,28,serie_a,20,38,0,1,0,8,50,11,9,7,44,37,WWWWDDWDLDLDLWWWWDLWLDWWWDD,6,7,0,21,13,12,38,9,4,14,36,57,WDWWWWWLLWWWWWDLWWWWWDWLDLL,2,2,10,10,29,WWDDDDWWDWDWD,WWWLWWWDWWWWDL
+Pescara,Udinese,1-3,/match/pescara-calcio/udinese/2017,2017,28,serie_a,20,38,2,1,3,19,16,2,6,19,28,60,DLLWDDLDWLWLWWDWLDLWLWLWWWW,1,4,8,14,27,14,35,8,6,13,29,36,WWLLDWLWWLDDLWWLWDLLWWDWLWD,3,3,7,10,17,DLDLDLLDLLLLW,WLWWLDWLDWDWW
+Palermo FC,Roma,0-3,/match/palermo/roma/2017,2017,28,serie_a,20,38,2,0,3,20,16,3,6,18,23,53,LDLDLLDLWLWLWLWLLDWWLDWLWDW,1,2,10,7,23,2,64,19,2,6,58,25,WDWWWWWLWLDWWWLWWWLLWWWLWLL,7,2,5,21,15,LLLLLLLLDLWLD,DWWLLDWLWLLWLL
+Lazio,Torino,3-1,/match/lazio/torino-fc/2017,2017,28,serie_a,20,38,0,3,1,4,57,16,5,6,47,29,LLDWWWLDDWWDWLLLWWWWWLLDLWL,9,2,3,23,11,9,49,10,9,8,51,43,WWWDDWWLDWDWLWWLWWDDWDDWWDW,2,5,7,19,26,LWWDWWWLWWWLDW,WWDLWDLWWDWDWD
+Torino,Inter,2-2,/match/torino-fc/internazionale/2017,2017,29,serie_a,20,38,1,2,2,10,49,10,9,9,52,46,WWWDDWWLDWDWLWWLWWDDWDDWWDWW,8,4,1,32,17,5,59,17,3,8,53,29,WDLWLDWLWWWWDWWWLWLWLWWWLLLW,7,1,6,18,16,WDWWDWWLWDDWW,WLLWWWDWLLLWLL
+Milan,Genoa,1-0,/match/milan/genoa/2017,2017,29,serie_a,20,38,0,1,0,7,55,15,5,8,41,32,WWLLWDWLWWWLDLWWDLWDLWLDWLWW,9,2,3,22,14,14,36,7,8,13,30,42,WLWWDDLDWWWDWWDWLWLWDDLWWDLL,3,2,9,12,28,WLWWWWDWDWLLWW,LWLWWWDWWWDWWL
+Empoli,Napoli,2-3,/match/empoli-fc/napoli/2017,2017,29,serie_a,20,38,2,2,3,17,28,5,7,16,15,43,LWWDLWLDDWDLLLWDWWWDWWDWLWLW,4,3,7,9,20,3,65,18,6,4,65,30,DWLWDWWLLWWDLDWLWDWWLDLWLLLW,8,3,2,32,14,LWLLDDLLWWWDLL,DLDWLWLLDLLLL
+Bologna,Chievo,4-1,/match/bologna/chievo/2017,2017,29,serie_a,20,38,0,4,1,15,35,8,7,13,25,41,WWWWWDLDDDLWWLWDLLWLWDLWLDLL,5,2,7,12,18,11,43,11,5,12,33,37,WWDLWWLLDDWLWWDLWWLWLLDLLWWW,5,1,7,14,18,WWWLDLWLDLWLLL,WLWLDWWLWWLLW
+Atalanta,Pescara,3-0,/match/atalanta/pescara-calcio/2017,2017,29,serie_a,20,38,0,3,0,6,55,16,4,8,43,33,LWWWLLWDWLWLWLWLDWLWWDWLWLDW,9,1,3,20,12,19,16,2,6,20,29,63,DLLWDDLDWLWLWWDWLDLWLWLWWWWL,1,2,11,14,33,LWLWWWWLWWWWD,LWDWWWWWDWWWWW
+Cagliari,Lazio,0-0,/match/cagliari/lazio/2017,2017,29,serie_a,20,38,1,0,0,12,38,9,4,15,36,58,WDWWWWWLLWWWWWDLWWWWWDWLDLLW,7,2,4,26,28,4,61,17,5,6,50,30,LLDWWWLDDWWDWLLLWWWWWLLDLWLW,7,3,3,24,18,DWWWLWWLWWDLL,LDWLDDLLWWLLL
+Sampdoria,Juventus,0-1,/match/sampdoria/juventus-fc/2017,2017,29,serie_a,20,38,2,0,1,9,50,11,8,9,35,33,LWWLWWDDWWWDWDWLWDWDWWLWDDWL,8,4,2,22,13,1,77,23,1,4,58,19,WLWWWLLWWWWLWWWLWLWWWLWLWWDW,8,1,4,20,11,WLDWWWWLDDWWDW,LWLLWLWLLWLLD
+Crotone,Fiorentina,0-1,/match/fc-crotone/fiorentina/2017,2017,29,serie_a,20,38,2,0,1,18,20,3,5,20,21,48,WLWDWLWWLDWWLDWWWLWLDWWLWLDW,3,3,8,14,21,8,54,12,9,7,45,37,WWWWDDWDLDLDLWWWWDLWLDWWWDDW,5,2,7,23,24,LDLLWLDWLLWLLD,WWDWLLLWWLLWWD
+Udinese,Palermo FC,4-1,/match/udinese/palermo/2017,2017,29,serie_a,20,38,0,4,1,13,37,9,6,13,32,37,WWLLDWLWWLDDLWWLWDLLWWDWLWDL,5,3,6,19,19,20,16,3,6,19,23,56,LDLDLLDLWLWLWLWLLDWWLDWLWDWL,2,4,8,16,30,WLDLWDLWWLLWLD,DDLDWWWWLWWDWW
+Roma,Sassuolo,3-1,/match/roma/us-sassuolo-calcio/2017,2017,29,serie_a,20,38,0,3,1,2,66,20,2,6,61,25,WDWWWWWLWLDWWWLWWWLLWWWLWLLL,12,0,1,37,10,16,33,9,4,15,35,43,LLWWWWWWDLWLWDWWLWDWLLLLLLDL,4,3,7,21,24,WWWWWWWWWWWWL,LWWWDWWDWWLLLD
+Sassuolo,Lazio,1-2,/match/us-sassuolo-calcio/lazio/2017,2017,30,serie_a,20,38,2,1,2,16,33,9,4,16,36,46,LLWWWWWWDLWLWDWWLWDWLLLLLLDLW,5,1,8,14,19,4,62,17,6,6,50,30,LLDWWWLDDWWDWLLLWWWWWLLDLWLWD,7,4,3,24,18,LWWWLLWLDWLLLL,LDWLDDLLWWLLLD
+Roma,Empoli,2-0,/match/roma/empoli-fc/2017,2017,30,serie_a,20,38,0,2,0,2,70,21,2,6,64,26,WDWWWWWLWLDWWWLWWWLLWWWLWLLLW,13,0,1,40,11,17,28,5,7,17,17,46,LWWDLWLDDWDLLLWDWWWDWWDWLWLWL,1,4,9,6,23,WWWWWWWWWWWWLW,WDWDWLWDWDWWWW
+Torino,Udinese,2-2,/match/torino-fc/udinese/2017,2017,30,serie_a,20,38,1,2,2,9,51,10,10,9,54,48,WWWDDWWLDWDWLWWLWWDDWDDWWDWWD,8,5,1,34,19,12,41,10,6,13,36,38,WWLLDWLWWLDDLWWLWDLLWWDWLWDLW,4,3,7,13,18,WDWWDWWLWDDWWD,WLWWLDWLDWDWWL
+Pescara,Milan,1-1,/match/pescara-calcio/milan/2017,2017,30,serie_a,20,38,1,1,1,19,16,2,6,21,29,66,DLLWDDLDWLWLWWDWLDLWLWLWWWWLW,1,4,9,15,30,7,59,16,5,8,42,32,WWLLWDWLWWWLDLWWDLWDLWLDWLWWW,6,3,5,19,18,DLDLDLLDLLLLWL,WLDLWLLWLDWDLW
+Genoa,Atalanta,0-5,/match/genoa/atalanta/2017,2017,30,serie_a,20,38,2,0,5,15,36,7,8,14,30,43,WLWWDDLDWWWDWWDWLWLWDDLWWDLLW,4,6,4,18,14,6,59,17,4,8,46,33,LWWWLLWDWLWLWLWLDWLWWDWLWLDWW,7,3,5,23,21,WWDDDWDWLLDLDL,WWLDLLLWDLWDLLW
+Chievo,Crotone,1-2,/match/chievo/fc-crotone/2017,2017,30,serie_a,20,38,2,1,2,11,43,11,5,13,34,41,WWDLWWLLDDWLWWDLWWLWLLDLLWWWW,6,4,5,19,19,18,20,3,5,21,21,49,WLWDWLWWLDWWLDWWWLWLDWWLWLDWL,0,2,12,7,27,WDWLDLWDWLLDLWW,WWWWWDWWWWDWWW
+Palermo FC,Cagliari,1-3,/match/palermo/cagliari/2017,2017,30,serie_a,20,38,2,1,3,20,16,3,6,20,24,60,LDLDLLDLWLWLWLWLLDWWLDWLWDWLW,1,2,11,7,26,13,40,9,5,15,36,58,WDWWWWWLLWWWWWDLWWWWWDWLDLLWD,2,2,11,10,30,LLLLLLLLDLWLDL,WWWLWWWDWWWWDLW
+Fiorentina,Bologna,1-0,/match/fiorentina/bologna/2017,2017,30,serie_a,20,38,0,1,0,8,56,13,9,7,46,37,WWWWDDWDLDLDLWWWWDLWLDWWWDDWL,7,7,0,22,13,14,39,9,7,13,29,42,WWWWWDLDDDLWWLWDLLWLWDLWLDLLW,3,5,6,13,23,WWDDDDWWDWDWDW,WWDDDWWLWLDWDL
+Napoli,Juventus,1-1,/match/napoli/juventus-fc/2017,2017,30,serie_a,20,38,1,1,1,3,67,19,6,4,68,32,DWLWDWWLLWWDLDWLWDWWLDLWLLLWL,10,3,2,33,16,1,79,24,1,4,59,19,WLWWWLLWWWWLWWWLWLWWWLWLWWDWL,9,1,4,21,11,WWWLWDDWWWWDWLW,LWLLWLWLLWLLDL
+Inter,Sampdoria,1-2,/match/internazionale/sampdoria/2017,2017,30,serie_a,20,38,2,1,2,5,60,17,4,8,55,31,WDLWLDWLWWWWDWWWLWLWLWWWLLLWD,10,2,2,35,13,10,50,11,8,10,35,34,LWWLWWDDWWWDWDWLWDWDWWLWDDWLL,3,4,7,13,20,DWDLWWWWWWWWLW,LWWWDWDDWWWLDL
+Empoli,Pescara,1-1,/match/empoli-fc/pescara-calcio/2017,2017,31,serie_a,20,38,1,1,1,17,28,5,7,18,17,48,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLW,4,3,8,11,23,19,18,2,7,21,30,67,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWD,1,2,12,14,36,LWLLDDLLWWWDLLL,LWDWWWWWDWWWWWW
+Atalanta,Sassuolo,1-1,/match/atalanta/us-sassuolo-calcio/2017,2017,31,serie_a,20,38,1,1,1,5,61,18,4,8,51,33,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWL,10,1,3,23,12,16,33,9,4,17,37,48,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWL,4,3,8,22,27,LWLWWWWLWWWWDW,LWWWDWWDWWLLLDW
+Juventus,Chievo,2-0,/match/juventus-fc/chievo/2017,2017,31,serie_a,20,38,0,2,0,1,80,24,2,4,60,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLD,15,0,0,38,8,11,43,11,5,14,35,43,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWL,5,1,8,15,22,WWWWWWWWWWWWWWW,WLWLDWWLWWLLWW
+Sampdoria,Fiorentina,2-2,/match/sampdoria/fiorentina/2017,2017,31,serie_a,20,38,1,2,2,10,52,12,8,10,37,35,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLL,8,4,3,22,14,8,60,14,9,7,47,37,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLW,6,2,7,24,24,WLDWWWWLDDWWDWL,WWDWLLLWWLLWWDL
+Bologna,Roma,0-3,/match/bologna/roma/2017,2017,31,serie_a,20,38,2,0,3,14,39,9,7,14,29,43,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWW,6,2,7,16,19,2,74,22,2,6,66,26,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWW,8,2,5,24,15,WWWLDLWLDLWLLLW,DWWLLDWLWLLWLLL
+Milan,Palermo FC,4-0,/match/milan/palermo/2017,2017,31,serie_a,20,38,0,4,0,7,60,16,6,8,43,33,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWD,10,2,3,23,14,20,16,3,6,21,25,63,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWL,2,4,9,17,34,WLWWWWDWDWLLWWW,DDLDWWWWLWWDWWW
+Crotone,Inter,2-1,/match/fc-crotone/internazionale/2017,2017,31,serie_a,20,38,0,2,1,18,22,4,5,21,23,50,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLL,3,3,9,14,22,6,60,17,4,9,56,33,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDL,7,2,6,20,18,LDLLWLDWLLWLLDL,WLLWWWDWLLLWLLD
+Udinese,Genoa,3-0,/match/udinese/genoa/2017,2017,31,serie_a,20,38,0,3,0,12,42,10,7,13,38,40,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWD,6,3,6,23,20,15,36,7,8,15,30,48,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWL,3,2,10,12,29,WLDLWDLWWLLWLDW,LWLWWWDWWWDWWLW
+Cagliari,Torino,2-3,/match/cagliari/torino-fc/2017,2017,31,serie_a,20,38,2,2,3,13,42,10,5,15,39,59,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDL,7,3,4,26,28,9,53,10,11,9,56,50,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDD,2,5,8,20,29,DWWWLWWLWWDLLD,WWDLWDLWWDWDWDW
+Lazio,Napoli,0-3,/match/lazio/napoli/2017,2017,31,serie_a,20,38,2,0,3,4,64,18,6,6,52,31,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDL,10,2,3,26,12,3,69,19,7,4,69,33,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLD,9,3,2,35,16,LWWDWWWLWWWLDWW,DLDWLWLLDLLLLL
+Inter,Milan,2-2,/match/internazionale/milan/2017,2017,32,serie_a,20,38,1,2,2,8,60,17,4,10,57,35,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLW,10,2,3,36,15,5,64,17,6,8,47,33,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDW,6,4,5,20,19,DWDLWWWWWWWWLWL,WLDLWLLWLDWDLWD
+Roma,Atalanta,1-1,/match/roma/atalanta/2017,2017,32,serie_a,20,38,1,1,1,2,76,23,2,6,69,26,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWL,14,0,1,42,11,6,63,18,5,8,52,34,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLD,8,3,5,28,21,WWWWWWWWWWWWLWW,WWLDLLLWDLWDLLWL
+Genoa,Lazio,2-2,/match/genoa/lazio/2017,2017,32,serie_a,20,38,1,2,2,15,36,7,8,16,30,51,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLW,4,6,5,18,19,4,64,18,6,7,52,34,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLL,8,4,3,26,19,WWDDDWDWLLDLDLL,LDWLDDLLWWLLLDL
+Pescara,Juventus,0-2,/match/pescara-calcio/juventus-fc/2017,2017,32,serie_a,20,38,2,0,2,19,19,2,8,21,31,68,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDD,1,5,9,16,31,1,84,25,2,4,62,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDW,9,2,4,22,12,DLDLDLLDLLLLWLD,LWLLWLWLLWLLDLD
+Fiorentina,Empoli,1-2,/match/fiorentina/empoli-fc/2017,2017,32,serie_a,20,38,2,1,2,7,61,14,10,7,49,39,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWD,8,7,0,23,13,17,30,5,8,18,18,49,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWD,1,4,10,6,25,WWDDDDWWDWDWDWW,WDWDWLWDWDWWWWW
+Torino,Crotone,1-1,/match/torino-fc/fc-crotone/2017,2017,32,serie_a,20,38,1,1,1,9,55,11,11,9,59,52,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDL,8,6,1,36,21,18,26,5,5,21,25,51,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLW,1,2,12,9,28,WDWWDWWLWDDWWDD,WWWWWDWWWWDWWWL
+Cagliari,Chievo,4-0,/match/cagliari/chievo/2017,2017,32,serie_a,20,38,0,4,0,13,42,10,5,16,41,62,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLL,7,3,5,28,31,12,43,11,5,15,35,45,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLW,5,1,9,15,24,DWWWLWWLWWDLLDL,WLWLDWWLWWLLWWW
+Palermo FC,Bologna,0-0,/match/palermo/bologna/2017,2017,32,serie_a,20,38,1,0,0,20,16,3,6,22,25,67,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLW,1,2,12,8,29,14,39,9,7,15,29,46,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWL,3,5,7,13,24,LLLLLLLLDLWLDLL,WWDDDWWLWLDWDLW
+Sassuolo,Sampdoria,2-1,/match/us-sassuolo-calcio/sampdoria/2017,2017,32,serie_a,20,38,0,2,1,16,34,9,5,17,38,49,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLD,5,1,9,15,21,10,54,12,9,10,39,37,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLD,4,4,7,15,21,LWWWLLWLDWLLLLL,LWWWDWDDWWWLDLL
+Napoli,Udinese,3-0,/match/napoli/udinese/2017,2017,32,serie_a,20,38,0,3,0,3,71,20,7,4,72,33,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDL,10,4,2,34,17,11,46,11,7,13,41,40,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDW,4,4,7,15,20,WWWLWDDWWWWDWLWD,WLWWLDWLDWDWWLD
+Atalanta,Bologna,3-2,/match/atalanta/bologna/2017,2017,33,serie_a,20,38,0,3,2,6,64,18,6,8,53,35,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDD,10,2,3,24,13,14,40,9,8,15,29,46,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLD,3,6,7,13,24,LWLWWWWLWWWWDWD,WWDDDWWLWLDWDLWD
+Fiorentina,Inter,5-4,/match/fiorentina/internazionale/2017,2017,33,serie_a,20,38,0,5,4,8,61,14,10,8,50,41,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDL,8,7,1,24,15,7,62,17,5,10,59,37,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWD,7,2,7,21,20,WWDDDDWWDWDWDWWL,WLLWWWDWLLLWLLDW
+Sassuolo,Napoli,2-2,/match/us-sassuolo-calcio/napoli/2017,2017,33,serie_a,20,38,1,2,2,16,38,10,5,17,40,50,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDW,6,1,9,17,22,3,75,21,7,4,75,33,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLW,10,3,2,38,16,LWWWLLWLDWLLLLLW,DLDWLWLLDLLLLLL
+Sampdoria,Crotone,1-2,/match/sampdoria/fc-crotone/2017,2017,33,serie_a,20,38,2,1,2,10,54,12,9,11,40,39,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDW,8,5,3,24,16,18,27,5,6,21,26,52,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWD,1,3,12,10,29,WLDWWWWLDDWWDWLD,WWWWWDWWWWDWWWLD
+Milan,Empoli,1-2,/match/milan/empoli-fc/2017,2017,33,serie_a,20,38,2,1,2,5,65,17,7,8,49,35,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWD,11,2,3,27,14,17,32,6,8,18,20,50,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDL,2,4,10,8,26,WLWWWWDWDWLLWWWW,WDWDWLWDWDWWWWWL
+Udinese,Cagliari,2-1,/match/udinese/cagliari/2017,2017,33,serie_a,20,38,0,2,1,12,46,11,7,14,41,43,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWW,7,3,6,26,20,11,46,11,5,16,45,62,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLW,3,2,11,13,31,WLDLWDLWWLLWLDWW,WWWLWWWDWWWWDLWL
+Lazio,Palermo FC,6-2,/match/lazio/palermo/2017,2017,33,serie_a,20,38,0,6,2,4,65,18,7,7,54,36,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLD,10,2,4,26,15,20,18,3,7,22,25,67,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWD,2,4,10,17,38,LWWDWWWLWWWLDWWL,DDLDWWWWLWWDWWWW
+Chievo,Torino,1-3,/match/chievo/torino-fc/2017,2017,33,serie_a,20,38,2,1,3,13,43,11,5,16,35,49,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWW,6,4,6,20,21,9,57,11,12,9,60,53,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLD,3,5,8,23,31,WDWLDLWDWLLDLWWL,WWDLWDLWWDWDWDWL
+Juventus,Genoa,4-0,/match/juventus-fc/genoa/2017,2017,33,serie_a,20,38,0,4,0,1,86,26,2,4,64,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWL,16,0,0,40,8,15,38,7,9,16,32,53,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWD,3,2,11,12,32,WWWWWWWWWWWWWWWW,LWLWWWDWWWDWWLWW
+Pescara,Roma,1-4,/match/pescara-calcio/roma/2017,2017,33,serie_a,20,38,2,1,4,19,19,2,8,22,31,70,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDL,1,5,10,16,33,2,78,23,3,6,70,27,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLD,9,2,5,27,15,DLDLDLLDLLLLWLDL,DWWLLDWLWLLWLLLL
+Atalanta,Juventus,2-2,/match/atalanta/juventus-fc/2017,2017,34,serie_a,20,38,1,2,2,5,68,19,6,8,56,37,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDW,11,2,3,27,15,1,90,27,2,4,68,20,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLW,10,2,4,24,12,LWLWWWWLWWWWDWDW,LWLLWLWLLWLLDLDL
+Torino,Sampdoria,1-1,/match/torino-fc/sampdoria/2017,2017,34,serie_a,20,38,1,1,1,9,59,12,12,9,63,54,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDL,8,7,1,37,22,10,54,12,9,12,41,41,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWL,4,4,8,16,23,WDWWDWWLWDDWWDDD,LWWWDWDDWWWLDLLW
+Roma,Lazio,1-3,/match/roma/lazio/2017,2017,34,serie_a,20,38,2,1,3,2,80,24,3,6,74,28,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDL,14,1,1,43,12,4,69,19,7,7,60,38,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDW,8,5,3,28,21,WWWWWWWWWWWWLWWD,LDWLDDLLWWLLLDLD
+Genoa,Chievo,1-2,/match/genoa/chievo/2017,2017,34,serie_a,20,38,2,1,2,16,38,7,9,17,32,57,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDW,4,7,5,20,21,13,43,11,5,17,36,52,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWL,5,1,10,15,28,WWDDDWDWLLDLDLLD,WLWLDWWLWWLLWWWW
+Empoli,Sassuolo,1-3,/match/empoli-fc/us-sassuolo-calcio/2017,2017,34,serie_a,20,38,2,1,3,17,34,7,8,18,22,51,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLL,4,4,8,12,24,15,40,10,6,17,42,52,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWD,4,4,8,23,28,LWLLDDLLWWWDLLLD,LWWWDWWDWWLLLDWD
+Cagliari,Pescara,1-0,/match/cagliari/pescara-calcio/2017,2017,34,serie_a,20,38,0,1,0,12,46,11,5,17,46,64,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWW,8,3,5,32,31,19,19,2,8,23,32,74,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLL,1,3,12,15,37,DWWWLWWLWWDLLDLW,LWDWWWWWDWWWWWWD
+Bologna,Udinese,4-0,/match/bologna/udinese/2017,2017,34,serie_a,20,38,0,4,0,14,40,9,8,16,31,49,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDW,6,2,8,16,22,11,50,12,7,14,43,44,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWW,4,4,8,15,23,WWWLDLWLDLWLLLWL,WLWWLDWLDWDWWLDW
+Crotone,Milan,1-1,/match/fc-crotone/milan/2017,2017,34,serie_a,20,38,1,1,1,18,29,6,6,21,28,53,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDL,4,3,9,16,23,6,65,17,7,9,50,37,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDL,6,5,5,22,21,LDLLWLDWLLWLLDLW,WLDLWLLWLDWDLWDD
+Palermo FC,Fiorentina,2-0,/match/palermo/fiorentina/2017,2017,34,serie_a,20,38,0,2,0,20,18,3,7,23,27,73,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDW,1,3,12,8,29,7,65,15,10,8,55,45,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLW,6,3,7,26,26,LLLLLLLLDLWLDLLD,WWDWLLLWWLLWWDLD
+Inter,Napoli,0-1,/match/internazionale/napoli/2017,2017,34,serie_a,20,38,2,0,1,8,62,17,5,11,63,42,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDW,10,3,3,38,17,3,76,21,8,4,77,35,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWD,10,4,2,40,18,DWDLWWWWWWWWLWLD,DLDWLWLLDLLLLLLD
+Napoli,Cagliari,3-1,/match/napoli/cagliari/2017,2017,35,serie_a,20,38,0,3,1,3,78,22,8,4,78,35,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDL,11,4,2,37,17,11,50,12,5,17,47,64,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWW,3,2,12,14,33,WWWLWDDWWWWDWLWDW,WWWLWWWDWWWWDLWLW
+Juventus,Torino,1-1,/match/juventus-fc/torino-fc/2017,2017,35,serie_a,20,38,1,1,1,1,91,27,3,4,70,22,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWD,17,0,0,44,8,9,61,12,13,9,64,55,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLD,4,5,8,26,32,WWWWWWWWWWWWWWWWW,WWDLWDLWWDWDWDWLL
+Udinese,Atalanta,1-1,/match/udinese/atalanta/2017,2017,35,serie_a,20,38,1,1,1,12,50,12,7,15,43,48,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWW,8,3,6,28,21,5,70,19,7,8,58,39,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWD,8,4,5,29,22,WLDLWDLWWLLWLDWWW,WWLDLLLWDLWDLLWLD
+Pescara,Crotone,0-1,/match/pescara-calcio/fc-crotone/2017,2017,35,serie_a,20,38,2,0,1,20,19,2,8,24,32,75,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLW,1,5,11,17,37,18,31,6,7,21,29,54,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLD,2,3,12,12,30,DLDLDLLDLLLLWLDLL,WWWWWDWWWWDWWWLDL
+Sassuolo,Fiorentina,2-2,/match/us-sassuolo-calcio/fiorentina/2017,2017,35,serie_a,20,38,1,2,2,15,42,11,6,17,45,53,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDL,6,2,9,19,24,7,65,15,10,9,55,47,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWW,6,3,8,26,28,LWWWLLWLDWLLLLLWD,WWDWLLLWWLLWWDLDW
+Empoli,Bologna,3-1,/match/empoli-fc/bologna/2017,2017,35,serie_a,20,38,0,3,1,17,34,7,8,19,23,54,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLL,4,4,9,13,27,14,44,10,8,16,35,49,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWW,3,6,8,15,27,LWLLDDLLWWWDLLLDL,WWDDDWWLWLDWDLWDW
+Chievo,Palermo FC,1-1,/match/chievo/palermo/2017,2017,35,serie_a,20,38,1,1,1,13,45,12,5,17,38,53,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLL,6,4,7,21,24,19,22,4,7,23,29,73,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWW,2,4,11,19,44,WDWLDLWDWLLDLWWLL,DDLDWWWWLWWDWWWWW
+Lazio,Sampdoria,7-3,/match/lazio/sampdoria/2017,2017,35,serie_a,20,38,0,7,3,4,71,20,7,7,63,39,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWL,11,2,4,32,17,10,55,12,10,12,42,42,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLD,4,5,8,17,24,LWWDWWWLWWWLDWWLW,LWWWDWDDWWWLDLLWD
+Genoa,Inter,1-0,/match/genoa/internazionale/2017,2017,35,serie_a,20,38,0,1,0,16,38,7,9,18,33,59,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWL,4,7,6,21,23,8,62,17,5,12,63,43,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWL,7,2,8,25,25,WWDDDWDWLLDLDLLDL,WLLWWWDWLLLWLLDWW
+Milan,Roma,1-4,/match/milan/roma/2017,2017,35,serie_a,20,38,2,1,4,6,66,17,8,9,51,38,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLD,11,2,4,28,16,2,80,24,3,7,75,31,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLL,10,2,5,31,16,WLWWWWDWDWLLWWWWL,DWWLLDWLWLLWLLLLL
+Fiorentina,Lazio,3-2,/match/fiorentina/lazio/2017,2017,36,serie_a,20,38,0,3,2,7,66,15,11,9,57,49,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWWD,9,7,1,29,19,4,75,21,7,7,70,42,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWLW,9,5,3,31,22,WWDDDDWWDWDWDWWLW,LDWLDDLLWWLLLDLDL
+Atalanta,Milan,1-1,/match/atalanta/milan/2017,2017,36,serie_a,20,38,1,1,1,5,71,19,8,8,59,40,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWDD,11,3,3,29,17,6,66,17,8,10,52,42,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLDL,6,6,5,23,22,LWLWWWWLWWWWDWDWD,WLDLWLLWLDWDLWDDD
+Inter,Sassuolo,1-2,/match/internazionale/us-sassuolo-calcio/2017,2017,36,serie_a,20,38,2,1,2,8,62,17,5,13,63,44,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWLW,10,3,4,38,18,15,44,11,7,17,47,55,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDLD,5,4,8,26,29,DWDLWWWWWWWWLWLDL,LWWWDWWDWWLLLDWDL
+Bologna,Pescara,3-1,/match/bologna/pescara-calcio/2017,2017,36,serie_a,20,38,0,3,1,14,44,10,8,17,36,52,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWWW,7,2,8,20,22,20,19,2,8,25,32,76,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLWL,1,3,13,15,38,WWWLDLWLDLWLLLWLW,LWDWWWWWDWWWWWWDW
+Torino,Napoli,0-5,/match/torino-fc/napoli/2017,2017,36,serie_a,20,38,2,0,5,9,62,12,14,9,65,56,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLDD,8,8,1,38,23,2,82,23,8,4,81,36,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDLW,11,4,2,41,18,WDWWDWWLWDDWWDDDD,DLDWLWLLDLLLLLLDL
+Sampdoria,Chievo,1-1,/match/sampdoria/chievo/2017,2017,36,serie_a,20,38,1,1,1,10,55,12,10,13,45,49,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLDW,8,5,4,25,18,13,47,12,6,17,39,54,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLLD,6,1,10,17,29,WLDWWWWLDDWWDWLDL,WLWLDWWLWWLLWWWWL
+Palermo FC,Genoa,1-0,/match/palermo/genoa/2017,2017,36,serie_a,20,38,0,1,0,19,23,4,8,23,30,74,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWWD,2,3,12,10,29,16,42,8,9,18,34,59,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWLW,3,2,12,12,36,LLLLLLLLDLWLDLLDW,LWLWWWDWWWDWWLWWW
+Cagliari,Empoli,3-2,/match/cagliari/empoli-fc/2017,2017,36,serie_a,20,38,0,3,2,12,50,12,5,18,48,67,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWWW,9,3,5,33,31,17,38,8,8,19,26,55,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLLW,3,4,10,10,27,DWWWLWWLWWDLLDLWW,WDWDWLWDWDWWWWWLL
+Crotone,Udinese,1-0,/match/fc-crotone/udinese/2017,2017,36,serie_a,20,38,0,1,0,18,33,7,7,21,30,54,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLDL,4,4,9,17,24,11,52,12,8,15,44,49,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWWD,4,4,9,15,27,LDLLWLDWLLWLLDLWD,WLWWLDWLDWDWWLDWW
+Roma,Juventus,3-1,/match/roma/juventus-fc/2017,2017,36,serie_a,20,38,0,3,1,3,82,25,3,7,79,32,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLLL,14,1,2,44,15,1,93,27,4,4,71,23,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWDD,10,3,4,26,14,WWWWWWWWWWWWLWWDL,LWLLWLWLLWLLDLDLD
+Chievo,Roma,3-5,/match/chievo/roma/2017,2017,37,serie_a,20,38,2,3,5,13,48,12,7,17,40,55,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLLDD,6,5,7,22,25,2,86,26,3,7,82,33,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLLLW,11,2,5,35,17,WDWLDLWDWLLDLWWLLD,DWWLLDWLWLLWLLLLLL
+Napoli,Fiorentina,4-1,/match/napoli/fiorentina/2017,2017,37,serie_a,20,38,0,4,1,3,84,24,8,4,86,36,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDLWL,12,4,2,40,18,6,70,16,11,9,60,51,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWWDW,6,4,8,28,30,WWWLWDDWWWWDWLWDWW,WWDWLLLWWLLWWDLDWD
+Empoli,Atalanta,0-1,/match/empoli-fc/atalanta/2017,2017,37,serie_a,20,38,2,0,1,17,38,8,8,20,28,58,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLLWW,5,4,9,16,28,5,73,19,9,8,60,41,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWDDD,8,5,5,30,23,LWLLDDLLWWWDLLLDLW,WWLDLLLWDLWDLLWLDD
+Udinese,Sampdoria,1-1,/match/udinese/sampdoria/2017,2017,37,serie_a,20,38,1,1,1,12,52,12,8,16,44,50,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWWDW,8,4,6,29,22,10,57,12,11,13,46,50,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLDWD,4,5,9,20,31,WLDLWDLWWLLWLDWWWD,LWWWDWDDWWWLDLLWDW
+Genoa,Torino,2-1,/match/genoa/torino-fc/2017,2017,37,serie_a,20,38,0,2,1,16,42,8,9,19,34,60,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWLWW,5,7,6,22,23,9,62,12,14,10,65,61,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLDDL,4,6,8,27,33,WWDDDWDWLLDLDLLDLW,WWDLWDLWWDWDWDWLLD
+Juventus,Crotone,3-0,/match/juventus-fc/fc-crotone/2017,2017,37,serie_a,20,38,0,3,0,1,93,27,4,5,72,26,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWDDW,17,1,0,45,9,18,37,8,7,21,31,54,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLDLW,3,3,12,13,30,WWWWWWWWWWWWWWWWWD,WWWWWDWWWWDWWWLDLL
+Sassuolo,Cagliari,6-2,/match/us-sassuolo-calcio/cagliari/2017,2017,37,serie_a,20,38,0,6,2,15,46,12,7,17,49,56,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDLDL,6,3,9,21,26,11,54,13,5,18,51,69,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWWWW,3,2,13,15,36,LWWWLLWLDWLLLLLWDD,WWWLWWWDWWWWDLWLWW
+Milan,Bologna,3-0,/match/milan/bologna/2017,2017,37,serie_a,20,38,0,3,0,7,67,17,9,10,53,43,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLDLD,11,2,5,29,20,14,48,11,8,17,39,53,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWWWW,3,6,9,16,30,WLWWWWDWDWLLWWWWLL,WWDDDWWLWLDWDLWDWW
+Lazio,Inter,1-3,/match/lazio/internazionale/2017,2017,37,serie_a,20,38,2,1,3,4,75,21,7,8,72,45,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWLWW,12,2,4,39,20,8,62,17,5,14,64,46,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWLWL,7,2,9,25,26,LWWDWWWLWWWLDWWLWW,WLLWWWDWLLLWLLDWWW
+Pescara,Palermo FC,2-0,/match/pescara-calcio/palermo/2017,2017,37,serie_a,20,38,0,2,0,20,19,2,8,26,33,79,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLWLW,1,5,12,17,38,19,27,5,8,23,31,74,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWWDW,2,5,11,20,45,DLDLDLLDLLLLWLDLLL,DDLDWWWWLWWDWWWWWD
+Bologna,Juventus,1-2,/match/bologna/juventus-fc/2017,2017,38,serie_a,20,38,2,1,2,15,48,11,8,18,39,56,WWWWWDLDDDLWWLWDLLWLWDLWLDLLWWLDWWWWW,8,2,8,23,23,1,97,28,4,5,75,26,WLWWWLLWWWWLWWWLWLWWWLWLWWDWLDWLWDDWW,10,3,5,27,17,WWWLDLWLDLWLLLWLWW,LWLLWLWLLWLLDLDLDW
+Atalanta,Chievo,1-0,/match/atalanta/chievo/2017,2017,38,serie_a,20,38,0,1,0,5,75,20,9,8,61,41,LWWWLLWDWLWLWLWLDWLWWDWLWLDWWLDDWDDDL,11,4,3,30,18,14,48,12,7,18,43,60,WWDLWWLLDDWLWWDLWWLWLLDLLWWWWLWWLLDDL,6,2,10,18,30,LWLWWWWLWWWWDWDWDD,WLWLDWWLWWLLWWWWLD
+Cagliari,Milan,2-1,/match/cagliari/milan/2017,2017,38,serie_a,20,38,0,2,1,12,54,13,5,19,53,75,WDWWWWWLLWWWWWDLWWWWWDWLDLLWDLLWWWWWW,10,3,5,36,33,6,71,18,9,10,56,43,WWLLWDWLWWWLDLWWDLWDLWLDWLWWWDWDLDLDW,6,7,5,24,23,DWWWLWWLWWDLLDLWWW,WLDLWLLWLDWDLWDDDD
+Roma,Genoa,3-2,/match/roma/genoa/2017,2017,38,serie_a,20,38,0,3,2,3,88,27,3,7,87,36,WDWWWWWLWLDWWWLWWWLLWWWLWLLLWWLDLLLWL,15,1,2,47,16,16,46,9,9,19,36,61,WLWWDDLDWWWDWWDWLWLWDDLWWDLLWLWDWLWWW,3,2,13,12,37,WWWWWWWWWWWWLWWDLW,LWLWWWDWWWDWWLWWWW
+Sampdoria,Napoli,2-4,/match/sampdoria/napoli/2017,2017,38,serie_a,20,38,2,2,4,10,58,12,12,13,47,51,LWWLWWDDWWWDWDWLWDWDWWLWDDWLLLDWLDWDD,8,6,4,26,19,2,88,25,8,4,90,37,DWLWDWWLLWWDLDWLWDWWLDLWLLLWLDLWDLWLW,12,4,2,46,18,WLDWWWWLDDWWDWLDLD,DLDWLWLLDLLLLLLDLL
+Palermo FC,Empoli,2-1,/match/palermo/empoli-fc/2017,2017,38,serie_a,20,38,0,2,1,19,27,5,8,24,31,76,LDLDLLDLWLWLWLWLLDWWLDWLWDWLWLWDWWDWW,3,3,12,11,29,17,38,8,8,21,28,59,LWWDLWLDDWDLLLWDWWWDWWDWLWLWLWDLLLWWL,3,4,11,12,30,LLLLLLLLDLWLDLLDWW,WDWDWLWDWDWWWWWLLW
+Fiorentina,Pescara,2-2,/match/fiorentina/pescara-calcio/2017,2017,38,serie_a,20,38,1,2,2,7,70,16,11,10,61,55,WWWWDDWDLDLDLWWWWDLWLDWWWDDWLWDLWWDWW,10,7,1,32,21,20,23,3,8,26,35,79,DLLWDDLDWLWLWWDWLDLWLWLWWWWLWDDLLWLWW,1,3,14,16,41,WWDDDDWWDWDWDWWLWW,LWDWWWWWDWWWWWWDWW
+Torino,Sassuolo,5-3,/match/torino-fc/us-sassuolo-calcio/2017,2017,38,serie_a,20,38,0,5,3,9,62,12,14,11,66,63,WWWDDWWLDWDWLWWLWWDDWDDWWDWWDDLDLDDLW,8,8,2,38,28,13,50,13,7,17,55,58,LLWWWWWWDLWLWDWWLWDWLLLLLLDLWLDWDLDLW,6,4,8,28,30,WDWWDWWLWDDWWDDDDL,LWWWDWWDWWLLLDWDLL
+Crotone,Lazio,3-1,/match/fc-crotone/lazio/2017,2017,38,serie_a,20,38,0,3,1,18,37,8,7,22,31,57,WLWDWLWWLDWWLDWWWLWLDWWLWLDWLLWDLDLWW,5,4,9,18,24,4,75,21,7,9,73,48,LLDWWWLDDWWDWLLLWWWWWLLDLWLWDLLDWLWWL,9,5,4,33,25,LDLLWLDWLLWLLDLWDW,LDWLDDLLWWLLLDLDLW
+Inter,Udinese,5-2,/match/internazionale/udinese/2017,2017,38,serie_a,20,38,0,5,2,8,64,18,5,14,67,47,WDLWLDWLWWWWDWWWLWLWLWWWLLLWDLWDWLWLL,10,3,5,39,20,11,54,12,9,16,45,51,WWLLDWLWWLDDLWWLWDLLWWDWLWDLWDWWWWDWD,4,4,10,15,28,DWDLWWWWWWWWLWLDLL,WLWWLDWLDWDWWLDWWW

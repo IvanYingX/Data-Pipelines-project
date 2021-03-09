@@ -1,381 +1,381 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Juventus,Cagliari,3-0,/match/juventus-fc/cagliari/2018,2018,1,serie_a,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Hellas Verona,Napoli,1-3,/match/hellas-verona-fc/napoli/2018,2018,1,serie_a,20,38,2,1,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Atalanta,Roma,0-1,/match/atalanta/roma/2018,2018,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Crotone,Milan,0-3,/match/fc-crotone/milan/2018,2018,1,serie_a,20,38,2,0,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Inter,Fiorentina,3-0,/match/internazionale/fiorentina/2018,2018,1,serie_a,20,38,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Bologna,Torino,1-1,/match/bologna/torino-fc/2018,2018,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lazio,SPAL,0-0,/match/lazio/spal-1907/2018,2018,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sampdoria,Benevento,2-1,/match/sampdoria/benevento-calcio/2018,2018,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sassuolo,Genoa,0-0,/match/us-sassuolo-calcio/genoa/2018,2018,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Udinese,Chievo,1-2,/match/udinese/chievo/2018,2018,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Benevento,Bologna,0-1,/match/benevento-calcio/bologna/2018,2018,2,serie_a,20,38,2,0,1,18,0,0,1,1,2,W,0,0,0,0,0,4,0,1,0,1,1,D,0,0,0,0,0,,
-Genoa,Juventus,2-4,/match/genoa/juventus-fc/2018,2018,2,serie_a,20,38,2,2,4,11,0,1,0,0,0,D,0,0,0,0,0,1,1,0,0,3,0,W,0,0,0,0,0,,
-Roma,Inter,1-3,/match/roma/internazionale/2018,2018,2,serie_a,20,38,2,1,3,6,1,0,0,1,0,L,0,0,0,0,0,3,1,0,0,3,0,W,0,0,0,0,0,,
-Torino,Sassuolo,3-0,/match/torino-fc/us-sassuolo-calcio/2018,2018,2,serie_a,20,38,0,3,0,12,0,1,0,1,1,D,0,0,0,0,0,10,0,1,0,0,0,D,0,0,0,0,0,,
-Fiorentina,Sampdoria,1-2,/match/fiorentina/sampdoria/2018,2018,2,serie_a,20,38,2,1,2,20,0,0,1,0,3,W,0,0,0,0,0,2,1,0,0,2,1,W,0,0,0,0,0,,
-Crotone,Hellas Verona,0-0,/match/fc-crotone/hellas-verona-fc/2018,2018,2,serie_a,20,38,1,0,0,16,0,0,1,0,3,L,0,0,1,0,3,15,0,0,1,1,3,L,0,0,0,0,0,L,
-Napoli,Atalanta,3-1,/match/napoli/atalanta/2018,2018,2,serie_a,20,38,0,3,1,5,1,0,0,3,1,L,0,0,0,0,0,19,0,0,1,0,1,L,0,0,0,0,0,,
-Chievo,Lazio,1-2,/match/chievo/lazio/2018,2018,2,serie_a,20,38,2,1,2,9,1,0,0,2,1,L,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
-SPAL,Udinese,3-2,/match/spal-1907/udinese/2018,2018,2,serie_a,20,38,0,3,2,13,0,1,0,0,0,D,0,0,0,0,0,14,0,0,1,1,2,L,0,0,0,0,0,,
-Milan,Cagliari,2-1,/match/milan/cagliari/2018,2018,2,serie_a,20,38,0,2,1,8,1,0,0,3,0,L,0,0,0,0,0,17,0,0,1,0,3,W,0,0,1,0,3,,W
-Juventus,Chievo,3-0,/match/juventus-fc/chievo/2018,2018,3,serie_a,20,38,0,3,0,1,2,0,0,7,2,WL,1,0,0,3,0,11,1,0,1,3,3,LL,1,0,0,2,1,W,L
-Inter,SPAL,2-0,/match/internazionale/spal-1907/2018,2018,3,serie_a,20,38,0,2,0,2,2,0,0,6,1,WL,1,0,0,3,0,7,1,1,0,3,2,DW,0,1,0,0,0,W,D
-Atalanta,Sassuolo,2-1,/match/atalanta/us-sassuolo-calcio/2018,2018,3,serie_a,20,38,0,2,1,19,0,0,2,1,4,LW,0,0,1,0,1,12,0,1,1,0,3,DW,0,0,1,0,3,L,W
-Hellas Verona,Fiorentina,0-5,/match/hellas-verona-fc/fiorentina/2018,2018,3,serie_a,20,38,2,0,5,14,0,1,1,1,3,LD,0,0,1,1,3,20,0,0,2,1,5,WL,0,0,1,0,3,L,W
-Cagliari,Crotone,1-0,/match/cagliari/fc-crotone/2018,2018,3,serie_a,20,38,0,1,0,17,0,0,2,1,5,WW,0,0,0,0,0,13,0,1,1,0,3,LD,0,0,0,0,0,,
-Udinese,Genoa,1-0,/match/udinese/genoa/2018,2018,3,serie_a,20,38,0,1,0,16,0,0,2,3,5,LW,0,0,1,1,2,15,0,1,1,2,4,DL,0,1,0,0,0,L,D
-Lazio,Milan,4-1,/match/lazio/milan/2018,2018,3,serie_a,20,38,0,4,1,9,1,1,0,2,1,DL,0,1,0,0,0,4,2,0,0,5,1,LW,1,0,0,3,0,D,L
-Benevento,Torino,0-1,/match/benevento-calcio/torino-fc/2018,2018,3,serie_a,20,38,2,0,1,18,0,0,2,1,3,WL,0,0,1,0,1,6,1,1,0,4,1,DW,0,1,0,1,1,L,D
-Bologna,Napoli,0-3,/match/bologna/napoli/2018,2018,3,serie_a,20,38,2,0,3,8,1,1,0,2,1,DL,0,1,0,1,1,3,2,0,0,6,2,LW,1,0,0,3,1,D,L
-Sampdoria,Roma,1-1,/match/sampdoria/roma/2018,2018,3,serie_a,20,38,1,1,1,5,2,0,0,4,2,WL,1,0,0,2,1,10,1,0,1,2,3,LL,1,0,0,1,0,W,L
-Crotone,Inter,0-2,/match/fc-crotone/internazionale/2018,2018,4,serie_a,20,38,2,0,2,15,0,1,2,0,4,LDW,0,1,1,0,3,2,3,0,0,8,1,WLW,1,0,0,3,1,LD,L
-Fiorentina,Bologna,2-1,/match/fiorentina/bologna/2018,2018,4,serie_a,20,38,0,2,1,17,1,0,2,6,5,WLL,0,0,1,1,2,10,1,1,1,2,4,DLL,1,0,0,1,0,L,L
-Roma,Hellas Verona,3-0,/match/roma/hellas-verona-fc/2018,2018,4,serie_a,20,38,0,3,0,13,1,1,1,3,4,LLD,0,0,1,1,3,19,0,1,2,1,8,LDL,0,1,0,0,0,L,D
-Sassuolo,Juventus,1-3,/match/us-sassuolo-calcio/juventus-fc/2018,2018,4,serie_a,20,38,2,1,3,16,0,1,2,1,5,DWW,0,1,0,0,0,1,3,0,0,10,2,WLW,1,0,0,4,2,D,L
-Torino,Sampdoria,2-2,/match/torino-fc/sampdoria/2018,2018,4,serie_a,20,38,1,2,2,6,2,1,0,5,1,DWL,1,0,0,3,0,4,2,1,0,5,3,WLD,1,0,0,2,1,W,L
-SPAL,Cagliari,0-2,/match/spal-1907/cagliari/2018,2018,4,serie_a,20,38,2,0,2,8,1,1,1,3,4,DWW,1,0,0,3,2,12,1,0,2,2,5,WWW,0,0,2,1,5,W,WW
-Napoli,Benevento,6-0,/match/napoli/benevento-calcio/2018,2018,4,serie_a,20,38,0,6,0,3,3,0,0,9,2,LWL,1,0,0,3,1,20,0,0,3,1,4,WLL,0,0,1,1,2,W,W
-Milan,Udinese,2-1,/match/milan/udinese/2018,2018,4,serie_a,20,38,0,2,1,7,2,0,1,6,5,LWW,1,0,0,2,1,9,1,0,2,4,5,LWW,0,0,1,2,3,W,W
-Chievo,Atalanta,1-1,/match/chievo/atalanta/2018,2018,4,serie_a,20,38,1,1,1,14,1,0,2,3,6,LLW,0,0,1,1,2,11,1,0,2,3,5,LWW,0,0,1,1,3,L,W
-Genoa,Lazio,2-3,/match/genoa/lazio/2018,2018,4,serie_a,20,38,2,2,3,18,0,1,2,2,5,DLW,0,0,1,2,4,5,2,1,0,6,2,DLW,1,0,0,2,1,L,L
-Bologna,Inter,1-1,/match/bologna/internazionale/2018,2018,5,serie_a,20,38,1,1,1,13,1,1,2,3,6,DLLW,0,1,1,1,4,2,4,0,0,10,1,WLWL,2,0,0,5,1,DL,LL
-Benevento,Roma,0-4,/match/benevento-calcio/roma/2018,2018,5,serie_a,20,38,2,0,4,20,0,0,4,1,10,WLLW,0,0,2,0,2,8,2,1,1,6,4,LLDW,1,1,0,2,1,LL,LD
-Atalanta,Crotone,5-1,/match/atalanta/fc-crotone/2018,2018,5,serie_a,20,38,0,5,1,11,1,1,2,4,6,LWWD,1,0,1,2,2,16,0,1,3,0,6,LDWL,0,0,1,0,1,LW,W
-Milan,SPAL,2-0,/match/milan/spal-1907/2018,2018,5,serie_a,20,38,0,2,0,5,3,0,1,8,6,LWWW,2,0,0,4,2,12,1,1,2,3,6,DWWL,0,1,1,0,2,WW,DW
-Lazio,Napoli,1-4,/match/lazio/napoli/2018,2018,5,serie_a,20,38,2,1,4,4,3,1,0,9,4,DLWL,1,1,0,4,1,3,4,0,0,15,2,LWLW,2,0,0,6,1,DW,LL
-Juventus,Fiorentina,1-0,/match/juventus-fc/fiorentina/2018,2018,5,serie_a,20,38,0,1,0,1,4,0,0,13,3,WLWL,2,0,0,6,0,9,2,0,2,8,6,WLLW,1,0,1,5,3,WW,WL
-Hellas Verona,Sampdoria,0-0,/match/hellas-verona-fc/sampdoria/2018,2018,5,serie_a,20,38,1,0,0,19,0,1,3,1,11,LDLW,0,0,2,1,8,6,2,2,0,7,5,WLDD,1,1,0,4,3,LL,LD
-Genoa,Chievo,1-1,/match/genoa/chievo/2018,2018,5,serie_a,20,38,1,1,1,18,0,1,3,4,8,DLWL,0,0,2,4,7,15,1,1,2,4,7,LLWD,1,0,1,2,4,LL,LW
-Cagliari,Sassuolo,0-1,/match/cagliari/us-sassuolo-calcio/2018,2018,5,serie_a,20,38,2,0,1,10,2,0,2,4,5,WWWL,1,0,0,1,0,17,0,1,3,2,8,DWWL,0,0,2,1,5,W,WW
-Udinese,Torino,2-3,/match/udinese/torino-fc/2018,2018,5,serie_a,20,38,2,2,3,14,1,0,3,5,7,LWWW,1,0,1,2,2,7,2,2,0,7,3,DWLD,1,1,0,2,1,LW,DL
-Roma,Udinese,3-1,/match/roma/udinese/2018,2018,6,serie_a,20,38,0,3,1,9,3,1,1,10,4,LLDWL,1,0,1,4,3,15,1,0,4,7,10,LWWWL,0,0,2,3,5,LW,WW
-SPAL,Napoli,2-3,/match/spal-1907/napoli/2018,2018,6,serie_a,20,38,2,2,3,13,1,1,3,3,8,DWWLW,1,0,1,3,4,2,5,0,0,19,3,LWLWL,3,0,0,10,2,WL,LLL
-Juventus,Torino,4-0,/match/juventus-fc/torino-fc/2018,2018,6,serie_a,20,38,0,4,0,1,5,0,0,14,3,WLWLW,3,0,0,7,0,5,3,2,0,10,5,DWLDL,2,1,0,5,3,WWW,DLL
-Sampdoria,Milan,2-0,/match/sampdoria/milan/2018,2018,6,serie_a,20,38,0,2,0,7,2,3,0,7,5,WLDDD,1,1,0,3,2,3,4,0,1,10,6,LWWWW,1,0,1,4,4,WD,LW
-Hellas Verona,Lazio,0-3,/match/hellas-verona-fc/lazio/2018,2018,6,serie_a,20,38,2,0,3,18,0,2,3,1,11,LDLWD,0,1,2,1,8,6,3,1,1,10,8,DLWLL,2,0,0,5,3,LLD,LL
-Inter,Genoa,1-0,/match/internazionale/genoa/2018,2018,6,serie_a,20,38,0,1,0,4,4,1,0,11,2,WLWLD,2,0,0,5,0,17,0,2,3,5,9,DLWLD,0,1,1,0,1,WW,DW
-Crotone,Benevento,2-0,/match/fc-crotone/benevento-calcio/2018,2018,6,serie_a,20,38,0,2,0,19,0,1,4,1,11,LDWLW,0,1,2,0,5,20,0,0,5,1,14,WLLWL,0,0,2,1,8,LDL,WW
-Cagliari,Chievo,0-2,/match/cagliari/chievo/2018,2018,6,serie_a,20,38,2,0,2,11,2,0,3,4,6,WWWLL,1,0,1,1,1,14,1,2,2,5,8,LLWDD,1,1,1,3,5,WL,LWD
-Sassuolo,Bologna,0-1,/match/us-sassuolo-calcio/bologna/2018,2018,6,serie_a,20,38,2,0,1,16,1,1,3,3,8,DWWLL,0,1,1,1,3,12,1,2,2,4,7,DLLWD,1,0,1,2,2,DL,LW
-Fiorentina,Atalanta,1-1,/match/fiorentina/atalanta/2018,2018,6,serie_a,20,38,1,1,1,10,2,0,3,8,7,WLLWW,1,0,1,3,3,8,2,1,2,9,7,LWWDW,0,1,1,2,4,LW,WD
-Udinese,Sampdoria,4-0,/match/udinese/sampdoria/2018,2018,7,serie_a,20,38,0,4,0,16,1,0,5,8,13,LWWWLW,1,0,2,4,5,5,3,3,0,9,5,WLDDDW,1,2,0,4,3,LWL,LDD
-Genoa,Bologna,0-1,/match/genoa/bologna/2018,2018,7,serie_a,20,38,2,0,1,18,0,2,4,5,10,DLWLDW,0,1,2,5,8,11,2,2,2,5,7,DLLWDL,2,0,1,3,2,LLD,LWL
-Napoli,Cagliari,3-0,/match/napoli/cagliari/2018,2018,7,serie_a,20,38,0,3,0,3,6,0,0,22,5,LWLWLL,2,0,0,9,1,14,2,0,4,4,8,WWWLLL,1,0,2,3,5,WW,WWL
-Benevento,Inter,1-2,/match/benevento-calcio/internazionale/2018,2018,7,serie_a,20,38,2,1,2,20,0,0,6,1,16,WLLWLW,0,0,3,0,6,2,5,1,0,12,2,WLWLDW,2,1,0,6,2,LLL,LLD
-Chievo,Fiorentina,2-1,/match/chievo/fiorentina/2018,2018,7,serie_a,20,38,0,2,1,12,2,2,2,7,8,LLWDDL,0,1,1,2,3,10,2,1,3,9,8,WLLWWD,1,0,2,5,4,LD,WLW
-Lazio,Sassuolo,6-1,/match/lazio/us-sassuolo-calcio/2018,2018,7,serie_a,20,38,0,6,1,7,4,1,1,13,8,DLWLLL,1,1,1,5,5,17,1,1,4,3,9,DWWLLL,1,0,2,2,5,DWL,WWL
-Torino,Hellas Verona,2-2,/match/torino-fc/hellas-verona-fc/2018,2018,7,serie_a,20,38,1,2,2,8,3,2,1,10,9,DWLDLW,1,1,0,5,2,19,0,2,4,1,14,LDLWDL,0,1,1,0,3,WD,DW
-SPAL,Crotone,1-1,/match/spal-1907/fc-crotone/2018,2018,7,serie_a,20,38,1,1,1,15,1,1,4,5,11,DWWLWL,1,0,2,5,7,13,1,1,4,3,11,LDWLWW,0,0,2,1,6,WLL,WW
-Milan,Roma,0-2,/match/milan/roma/2018,2018,7,serie_a,20,38,2,0,2,4,4,0,2,10,8,LWWWWW,3,0,0,6,2,6,4,1,1,13,5,LLDWLW,2,1,0,6,1,WWW,LDL
-Atalanta,Juventus,2-2,/match/atalanta/juventus-fc/2018,2018,7,serie_a,20,38,1,2,2,9,2,2,2,10,8,LWWDWD,2,0,1,7,3,1,6,0,0,18,3,WLWLWW,2,0,0,7,3,LWW,LL
-Juventus,Lazio,1-2,/match/juventus-fc/lazio/2018,2018,8,serie_a,20,38,2,1,2,1,6,1,0,20,5,WLWLWWD,4,0,0,11,0,4,5,1,1,19,9,DLWLLLW,3,0,0,8,3,WWWW,LLL
-Roma,Napoli,0-1,/match/roma/napoli/2018,2018,8,serie_a,20,38,2,0,1,5,5,1,1,15,5,LLDWLWL,2,0,1,7,4,2,7,0,0,25,5,LWLWLLW,4,0,0,13,4,LWW,LLLL
-Fiorentina,Udinese,2-1,/match/fiorentina/udinese/2018,2018,8,serie_a,20,38,0,2,1,12,2,1,4,10,10,WLLWWDW,1,1,1,4,4,13,2,0,5,12,13,LWWWLWW,0,0,3,4,8,LWD,WWW
-Bologna,SPAL,2-1,/match/bologna/spal-1907/2018,2018,8,serie_a,20,38,0,2,1,11,3,2,2,6,7,DLLWDLL,0,2,1,2,5,15,1,2,4,6,12,DWWLWLD,0,1,2,0,4,DLD,DWW
-Sampdoria,Atalanta,3-1,/match/sampdoria/atalanta/2018,2018,8,serie_a,20,38,0,3,1,7,3,3,1,9,9,WLDDDWW,2,1,0,5,2,9,2,3,2,12,10,LWWDWDD,0,2,1,3,5,WDW,WDD
-Sassuolo,Chievo,0-0,/match/us-sassuolo-calcio/chievo/2018,2018,8,serie_a,20,38,1,0,0,17,1,1,5,4,15,DWWLLLW,0,1,2,1,4,10,3,2,2,9,9,LLWDDLW,2,1,1,5,5,DLL,LWDL
-Crotone,Torino,2-2,/match/fc-crotone/torino-fc/2018,2018,8,serie_a,20,38,1,2,2,14,1,2,4,4,12,LDWLWWD,1,1,2,2,5,8,3,3,1,12,11,DWLDLWD,2,1,1,5,7,LDLW,DLLW
-Cagliari,Genoa,2-3,/match/cagliari/genoa/2018,2018,8,serie_a,20,38,2,2,3,16,2,0,5,4,11,WWWLLLW,1,0,2,1,3,19,0,2,5,5,11,DLWLDWL,0,1,2,0,2,WLL,DWW
-Inter,Milan,3-2,/match/internazionale/milan/2018,2018,8,serie_a,20,38,0,3,2,3,6,1,0,14,3,WLWLDWL,3,0,0,6,0,6,4,0,3,10,10,LWWWWWL,1,0,2,4,6,WWW,LWW
-Hellas Verona,Benevento,1-0,/match/hellas-verona-fc/benevento-calcio/2018,2018,8,serie_a,20,38,0,1,0,18,0,3,4,3,16,LDLWDLD,0,1,3,1,11,20,0,0,7,2,18,WLLWLWL,0,0,3,1,10,LLDL,WWW
-Sampdoria,Crotone,5-0,/match/sampdoria/fc-crotone/2018,2018,9,serie_a,20,38,0,5,0,5,4,3,1,12,10,WLDDDWWW,3,1,0,8,3,13,1,3,4,6,14,LDWLWWDD,0,1,2,2,7,WDWW,WWD
-Napoli,Inter,0-0,/match/napoli/internazionale/2018,2018,9,serie_a,20,38,1,0,0,2,8,0,0,26,5,LWLWLLWL,3,0,0,12,1,1,7,1,0,17,5,WLWLDWLW,3,1,0,8,3,WWW,LLDL
-Chievo,Hellas Verona,3-2,/match/chievo/hellas-verona-fc/2018,2018,9,serie_a,20,38,0,3,2,11,3,3,2,9,9,LLWDDLWD,1,1,1,4,4,15,1,3,4,4,16,LDLWDLDW,0,2,1,2,5,LDW,DWD
-Torino,Roma,0-1,/match/torino-fc/roma/2018,2018,9,serie_a,20,38,2,0,1,7,3,4,1,14,13,DWLDLWDD,1,2,0,7,4,6,5,1,2,15,6,LLDWLWLL,3,1,0,8,1,WDD,LDLL
-SPAL,Sassuolo,0-1,/match/spal-1907/us-sassuolo-calcio/2018,2018,9,serie_a,20,38,2,0,1,16,1,2,5,7,14,DWWLWLDW,1,1,2,6,8,18,1,2,5,4,15,DWWLLLWD,1,0,3,3,11,WLLD,WWLW
-Atalanta,Bologna,1-0,/match/atalanta/bologna/2018,2018,9,serie_a,20,38,0,1,0,10,2,3,3,13,13,LWWDWDDW,2,1,1,9,5,8,4,2,2,8,8,DLLWDLLW,3,0,1,4,2,LWWD,LWLL
-Milan,Genoa,0-0,/match/milan/genoa/2018,2018,9,serie_a,20,38,1,0,0,9,4,0,4,12,13,LWWWWWLW,3,0,1,6,4,19,1,2,5,8,13,DLWLDWLL,1,1,2,3,4,WWWL,DWWL
-Benevento,Fiorentina,0-3,/match/benevento-calcio/fiorentina/2018,2018,9,serie_a,20,38,2,0,3,20,0,0,8,2,19,WLLWLWLW,0,0,4,1,8,12,3,1,4,12,11,WLLWWDWW,1,0,3,6,6,LLLL,WLWW
-Udinese,Juventus,2-6,/match/udinese/juventus-fc/2018,2018,9,serie_a,20,38,2,2,6,14,2,0,6,13,15,LWWWLWWW,2,0,2,8,5,3,6,1,1,21,7,WLWLWWDL,2,1,0,9,5,LWLW,LLD
-Lazio,Cagliari,3-0,/match/lazio/cagliari/2018,2018,9,serie_a,20,38,0,3,0,4,6,1,1,21,10,DLWLLLWL,2,1,1,11,6,17,2,0,6,6,14,WWWLLLWL,1,0,3,3,8,DWLW,WWLW
-Inter,Sampdoria,3-2,/match/internazionale/sampdoria/2018,2018,10,serie_a,20,38,0,3,2,1,7,2,0,17,5,WLWLDWLWD,4,0,0,9,2,5,5,3,1,17,10,WLDDDWWWW,1,2,1,4,7,WWWW,LDDW
-Atalanta,Hellas Verona,3-0,/match/atalanta/hellas-verona-fc/2018,2018,10,serie_a,20,38,0,3,0,8,3,3,3,14,13,LWWDWDDWW,3,1,1,10,5,15,1,3,5,6,19,LDLWDLDWW,0,2,2,4,8,LWWDW,DWDW
-Roma,Crotone,1-0,/match/roma/fc-crotone/2018,2018,10,serie_a,20,38,0,1,0,6,6,1,2,16,6,LLDWLWLLL,2,0,2,7,5,13,1,3,5,6,19,LDWLWWDDW,0,1,3,2,12,LWWL,WWDW
-Juventus,SPAL,4-1,/match/juventus-fc/spal-1907/2018,2018,10,serie_a,20,38,0,4,1,3,7,1,1,27,9,WLWLWWDLL,4,0,1,12,2,17,1,2,6,7,15,DWWLWLDWL,0,1,3,1,6,WWWWL,DWWW
-Genoa,Napoli,2-3,/match/genoa/napoli/2018,2018,10,serie_a,20,38,2,2,3,19,1,3,5,8,13,DLWLDWLLD,0,1,3,5,9,2,8,1,0,26,5,LWLWLLWLD,5,0,0,14,4,LLDL,LLLLL
-Fiorentina,Torino,3-0,/match/fiorentina/torino-fc/2018,2018,10,serie_a,20,38,0,3,0,12,4,1,4,15,11,WLLWWDWWL,2,1,1,6,5,11,3,4,2,14,14,DWLDLWDDL,2,2,1,7,9,LWDW,DLLWD
-Chievo,Milan,1-4,/match/chievo/milan/2018,2018,10,serie_a,20,38,2,1,4,9,4,3,2,12,11,LLWDDLWDW,2,1,1,7,6,7,4,1,4,12,13,LWWWWWLWD,1,0,3,6,9,LDWW,LWWW
-Cagliari,Benevento,2-1,/match/cagliari/benevento-calcio/2018,2018,10,serie_a,20,38,0,2,1,18,2,0,7,6,17,WWWLLLWLW,1,0,3,3,6,20,0,0,9,2,22,WLLWLWLWL,0,0,4,1,11,WLLL,WWWW
-Bologna,Lazio,1-2,/match/bologna/lazio/2018,2018,10,serie_a,20,38,2,1,2,10,4,2,3,8,9,DLLWDLLWW,1,2,1,4,6,4,7,1,1,24,10,DLWLLLWLW,4,0,0,10,4,DLDW,LLLL
-Sassuolo,Udinese,0-1,/match/us-sassuolo-calcio/udinese/2018,2018,10,serie_a,20,38,2,0,1,16,2,2,5,5,15,DWWLLLWDL,0,2,2,1,4,14,2,0,7,15,21,LWWWLWWWL,0,0,4,5,10,DLLD,WWWW
-Milan,Juventus,0-2,/match/milan/juventus-fc/2018,2018,11,serie_a,20,38,2,0,2,8,5,1,4,16,14,LWWWWWLWDL,3,1,1,6,4,2,8,1,1,31,10,WLWLWWDLLW,3,1,0,15,7,WWWLD,LLDL
-Roma,Bologna,1-0,/match/roma/bologna/2018,2018,11,serie_a,20,38,0,1,0,6,7,1,2,17,6,LLDWLWLLLW,3,0,2,8,5,12,4,2,4,9,11,DLLWDLLWWL,3,0,2,4,3,LWWLW,LWLLW
-Benevento,Lazio,1-5,/match/benevento-calcio/lazio/2018,2018,11,serie_a,20,38,2,1,5,20,0,0,10,3,24,WLLWLWLWLW,0,0,5,1,11,4,8,1,1,26,11,DLWLLLWLWL,5,0,0,12,5,LLLLL,LLLLL
-Napoli,Sassuolo,3-1,/match/napoli/us-sassuolo-calcio/2018,2018,11,serie_a,20,38,0,3,1,3,9,1,0,29,7,LWLWLLWLDL,3,1,0,12,1,17,2,2,6,5,16,DWWLLLWDLL,2,0,3,4,11,WWWD,WWLWL
-Crotone,Fiorentina,2-1,/match/fc-crotone/fiorentina/2018,2018,11,serie_a,20,38,0,2,1,15,1,3,6,6,20,LDWLWWDDWW,1,2,2,4,7,9,5,1,4,18,11,WLLWWDWWLW,2,0,3,9,6,LDLWD,WLWWL
-Sampdoria,Chievo,4-1,/match/sampdoria/chievo/2018,2018,11,serie_a,20,38,0,4,1,5,5,3,2,19,13,WLDDDWWWWW,4,1,0,13,3,10,4,3,3,13,15,LLWDDLWDWL,2,2,1,5,5,WDWWW,LWDLD
-SPAL,Genoa,1-0,/match/spal-1907/genoa/2018,2018,11,serie_a,20,38,0,1,0,18,1,2,7,8,19,DWWLWLDWLW,1,1,3,6,9,19,1,3,6,10,16,DLWLDWLLDL,1,2,2,3,4,WLLDL,DWWLD
-Udinese,Atalanta,2-1,/match/udinese/atalanta/2018,2018,11,serie_a,20,38,0,2,1,13,3,0,7,16,21,LWWWLWWWLL,2,0,3,10,11,7,4,3,3,17,13,LWWDWDDWWW,0,2,2,4,8,LWLWL,WDDW
-Torino,Cagliari,2-1,/match/torino-fc/cagliari/2018,2018,11,serie_a,20,38,0,2,1,11,3,4,3,14,17,DWLDLWDDLW,1,2,1,7,5,14,3,0,7,8,18,WWWLLLWLWW,1,0,4,3,11,WDDL,WWLWW
-Hellas Verona,Inter,1-2,/match/hellas-verona-fc/internazionale/2018,2018,11,serie_a,20,38,2,1,2,16,1,3,6,6,22,LDLWDLDWWW,1,1,3,2,11,1,8,2,0,20,7,WLWLDWLWDW,3,2,0,8,3,LLDLW,LLDLD
-Bologna,Crotone,2-3,/match/bologna/fc-crotone/2018,2018,12,serie_a,20,38,2,2,3,12,4,2,5,9,12,DLLWDLLWWLW,1,2,2,5,8,14,2,3,6,8,21,LDWLWWDDWWW,0,1,4,2,13,DLDWL,WWDWW
-Genoa,Sampdoria,0-2,/match/genoa/sampdoria/2018,2018,12,serie_a,20,38,2,0,2,19,1,3,7,10,17,DLWLDWLLDLW,0,1,4,7,12,5,6,3,2,23,14,WLDDDWWWWWW,1,2,2,6,10,LLDLL,LDDWW
-Inter,Torino,1-1,/match/internazionale/torino-fc/2018,2018,12,serie_a,20,38,1,1,1,1,9,2,0,22,8,WLWLDWLWDWL,5,0,0,12,4,9,4,4,3,16,18,DWLDLWDDLWW,2,2,2,7,12,WWWWW,DLLWDW
-Cagliari,Hellas Verona,2-1,/match/cagliari/hellas-verona-fc/2018,2018,12,serie_a,20,38,0,2,1,16,3,0,8,9,20,WWWLLLWLWWW,2,0,3,5,7,17,1,3,7,7,24,LDLWDLDWWWL,0,2,3,4,11,WLLLW,DWDWW
-Chievo,Napoli,0-0,/match/chievo/napoli/2018,2018,12,serie_a,20,38,1,0,0,11,4,3,4,14,19,LLWDDLWDWLW,2,1,2,8,10,2,10,1,0,32,8,LWLWLLWLDLW,6,0,0,17,6,LDWWL,LLLLLL
-Fiorentina,Roma,2-4,/match/fiorentina/roma/2018,2018,12,serie_a,20,38,2,2,4,8,5,1,5,19,13,WLLWWDWWLWW,3,1,1,9,5,6,8,1,2,18,6,LLDWLWLLLWW,4,1,0,9,1,LWDWW,LDLLL
-Juventus,Benevento,2-1,/match/juventus-fc/benevento-calcio/2018,2018,12,serie_a,20,38,0,2,1,3,9,1,1,33,10,WLWLWWDLLWL,5,0,1,16,3,20,0,0,11,4,29,WLLWLWLWLWL,0,0,5,2,13,WWWWLW,WWWWW
-Atalanta,SPAL,1-1,/match/atalanta/spal-1907/2018,2018,12,serie_a,20,38,1,1,1,7,4,3,4,18,15,LWWDWDDWWWW,4,1,1,13,5,15,2,2,7,9,19,DWWLWLDWLWW,0,1,4,2,10,LWWDWW,DWWWW
-Sassuolo,Milan,0-2,/match/us-sassuolo-calcio/milan/2018,2018,12,serie_a,20,38,2,0,2,18,2,2,7,6,19,DWWLLLWDLLW,0,2,3,1,5,10,5,1,5,16,16,LWWWWWLWDLL,2,0,3,10,10,DLLDL,LWWWL
-Lazio,Udinese,3-0,/match/lazio/udinese/2018,2018,12,serie_a,20,38,0,3,0,4,9,1,1,31,12,DLWLLLWLWLL,3,1,1,14,6,13,4,0,7,18,22,LWWWLWWWLLW,1,0,4,6,10,DWLWW,WWWWL
-Roma,Lazio,2-1,/match/roma/lazio/2018,2018,13,serie_a,20,38,0,2,1,6,9,1,2,22,8,LLDWLWLLLWWL,4,0,2,9,5,4,10,1,1,34,12,DLWLLLWLWLLW,6,0,0,17,6,LWWLWW,LLLLLL
-Napoli,Milan,2-1,/match/napoli/milan/2018,2018,13,serie_a,20,38,0,2,1,3,10,2,0,32,8,LWLWLLWLDLWD,4,1,0,15,2,8,6,1,5,18,16,LWWWWWLWDLLL,3,0,3,12,10,WWWDW,LWWWLL
-Crotone,Genoa,0-1,/match/fc-crotone/genoa/2018,2018,13,serie_a,20,38,2,0,1,12,3,3,6,11,23,LDWLWWDDWWWL,2,2,2,6,8,19,1,3,8,10,19,DLWLDWLLDLWL,1,2,3,3,5,LDLWDW,DWWLDW
-Torino,Chievo,1-1,/match/torino-fc/chievo/2018,2018,13,serie_a,20,38,1,1,1,9,4,5,3,17,19,DWLDLWDDLWWD,2,2,1,9,6,10,4,4,4,14,19,LLWDDLWDWLWD,2,2,2,6,9,WDDLW,LWDLDW
-SPAL,Fiorentina,1-1,/match/spal-1907/fiorentina/2018,2018,13,serie_a,20,38,1,1,1,16,2,3,7,10,20,DWWLWLDWLWWD,2,1,3,7,9,11,5,1,6,21,17,WLLWWDWWLWWL,2,0,4,10,8,WLLDLW,WLWWLW
-Sampdoria,Juventus,3-2,/match/sampdoria/juventus-fc/2018,2018,13,serie_a,20,38,0,3,2,5,7,3,2,25,14,WLDDDWWWWWWL,5,1,0,17,4,1,10,1,1,35,11,WLWLWWDLLWLW,4,1,0,17,7,WDWWWW,LLDLL
-Benevento,Sassuolo,1-2,/match/benevento-calcio/us-sassuolo-calcio/2018,2018,13,serie_a,20,38,2,1,2,20,0,0,12,5,31,WLLWLWLWLWLW,0,0,6,2,16,18,2,2,8,6,21,DWWLLLWDLLWL,2,0,4,5,14,LLLLLL,WWLWLW
-Udinese,Cagliari,0-1,/match/udinese/cagliari/2018,2018,13,serie_a,20,38,2,0,1,14,4,0,8,18,25,LWWWLWWWLLWW,3,0,3,12,12,15,4,0,8,11,21,WWWLLLWLWWWW,1,0,5,4,13,LWLWLW,WWLWWW
-Inter,Atalanta,2-0,/match/internazionale/atalanta/2018,2018,13,serie_a,20,38,0,2,0,2,9,3,0,23,9,WLWLDWLWDWLD,5,1,0,13,5,7,4,4,4,19,16,LWWDWDDWWWWD,0,2,3,5,10,WWWWWD,WDDWW
-Hellas Verona,Bologna,2-3,/match/hellas-verona-fc/bologna/2018,2018,13,serie_a,20,38,2,2,3,17,1,3,8,8,26,LDLWDLDWWWLW,1,1,4,3,13,13,4,2,6,11,15,DLLWDLLWWLWL,3,0,3,4,4,LLDLWL,LWLLWW
-Bologna,Sampdoria,3-0,/match/bologna/sampdoria/2018,2018,14,serie_a,20,38,0,3,0,12,5,2,6,14,17,DLLWDLLWWLWLL,1,2,3,7,11,4,8,3,2,28,16,WLDDDWWWWWWLW,2,2,2,8,10,DLDWLL,LDDWWL
-Chievo,SPAL,2-1,/match/chievo/spal-1907/2018,2018,14,serie_a,20,38,0,2,1,11,4,5,4,15,20,LLWDDLWDWLWDD,2,2,2,8,10,16,2,4,7,11,21,DWWLWLDWLWWDD,0,2,4,3,11,LDWWLD,DWWWWD
-Sassuolo,Hellas Verona,0-2,/match/us-sassuolo-calcio/hellas-verona-fc/2018,2018,14,serie_a,20,38,2,0,2,17,3,2,8,8,22,DWWLLLWDLLWLL,0,2,4,1,7,18,1,3,9,10,29,LDLWDLDWWWLWL,0,2,4,5,13,DLLDLL,DWDWWW
-Cagliari,Inter,1-3,/match/cagliari/internazionale/2018,2018,14,serie_a,20,38,2,1,3,13,5,0,8,12,21,WWWLLLWLWWWWL,3,0,3,7,8,1,10,3,0,25,9,WLWLDWLWDWLDW,4,2,0,10,4,WLLLWW,LLDLDL
-Udinese,Napoli,0-1,/match/udinese/napoli/2018,2018,14,serie_a,20,38,2,0,1,15,4,0,9,18,26,LWWWLWWWLLWWL,3,0,4,12,13,2,11,2,0,34,9,LWLWLLWLDLWDW,6,1,0,17,6,LWLWLWL,LLLLLLD
-Genoa,Roma,1-1,/match/genoa/roma/2018,2018,14,serie_a,20,38,1,1,1,19,2,3,8,11,19,DLWLDWLLDLWLL,0,1,5,7,14,5,10,1,2,24,9,LLDWLWLLLWWLW,5,1,0,13,3,LLDLLL,LDLLLL
-Milan,Torino,0-0,/match/milan/torino-fc/2018,2018,14,serie_a,20,38,1,0,0,9,6,1,6,19,18,LWWWWWLWDLLLW,3,1,2,6,6,8,4,6,3,18,20,DWLDLWDDLWWDD,2,3,2,8,13,WWWLDL,DLLWDWD
-Lazio,Fiorentina,1-1,/match/lazio/fiorentina/2018,2018,14,serie_a,20,38,1,1,1,6,10,1,2,35,14,DLWLLLWLWLLWW,4,1,1,17,6,10,5,2,6,22,18,WLLWWDWWLWWLD,2,1,4,11,9,DWLWWW,WLWWLWD
-Juventus,Crotone,3-0,/match/juventus-fc/fc-crotone/2018,2018,14,serie_a,20,38,0,3,0,3,10,1,2,37,14,WLWLWWDLLWLWW,6,0,1,18,4,14,3,3,7,11,24,LDWLWWDDWWWLL,1,1,4,5,15,WWWWLWW,WWDWWL
-Atalanta,Benevento,1-0,/match/atalanta/benevento-calcio/2018,2018,14,serie_a,20,38,0,1,0,7,4,4,5,19,18,LWWDWDDWWWWDW,4,2,1,14,6,20,0,0,13,6,33,WLLWLWLWLWLWL,0,0,6,3,15,LWWDWWD,WWWWWW
-Roma,SPAL,3-1,/match/roma/spal-1907/2018,2018,15,serie_a,20,38,0,3,1,5,10,2,2,25,10,LLDWLWLLLWWLWD,5,0,2,11,6,16,2,4,8,12,23,DWWLWLDWLWWDDW,0,2,5,4,13,LWWLWWW,DWWWWDW
-Napoli,Juventus,0-1,/match/napoli/juventus-fc/2018,2018,15,serie_a,20,38,2,0,1,2,12,2,0,35,9,LWLWLLWLDLWDWL,5,1,0,17,3,3,11,1,2,40,14,WLWLWWDLLWLWWW,4,1,1,19,10,WWWDWW,LLDLLW
-Torino,Atalanta,1-1,/match/torino-fc/atalanta/2018,2018,15,serie_a,20,38,1,1,1,10,4,7,3,18,20,DWLDLWDDLWWDDD,2,3,1,10,7,7,5,4,5,20,18,LWWDWDDWWWWDWW,0,2,4,5,12,WDDLWD,WDDWWW
-Benevento,Milan,2-2,/match/benevento-calcio/milan/2018,2018,15,serie_a,20,38,1,2,2,20,0,0,14,6,34,WLLWLWLWLWLWLW,0,0,7,3,18,9,6,2,6,19,18,LWWWWWLWDLLLWD,3,0,4,13,12,LLLLLLL,LWWWLLW
-Fiorentina,Sassuolo,3-0,/match/fiorentina/us-sassuolo-calcio/2018,2018,15,serie_a,20,38,0,3,0,11,5,3,6,23,19,WLLWWDWWLWWLDD,3,1,2,11,9,17,3,2,9,8,24,DWWLLLWDLLWLLL,3,0,4,7,15,LWDWWL,WWLWLWL
-Bologna,Cagliari,1-1,/match/bologna/cagliari/2018,2018,15,serie_a,20,38,1,1,1,12,6,2,6,17,17,DLLWDLLWWLWLLW,2,2,3,10,11,13,5,0,9,13,24,WWWLLLWLWWWWLL,2,0,5,5,13,DLDWLLW,WWLWWWL
-Inter,Chievo,5-0,/match/internazionale/chievo/2018,2018,15,serie_a,20,38,0,5,0,1,11,3,0,28,10,WLWLDWLWDWLDWL,6,1,0,15,5,8,5,5,4,17,21,LLWDDLWDWLWDDW,2,3,2,7,10,WWWWWDW,LWDLDWD
-Sampdoria,Lazio,1-2,/match/sampdoria/lazio/2018,2018,15,serie_a,20,38,2,1,2,4,8,3,3,28,19,WLDDDWWWWWWLWW,6,1,0,20,6,6,10,2,2,36,15,DLWLLLWLWLLWWD,6,0,1,18,8,WDWWWWW,LLLLLLW
-Crotone,Udinese,0-3,/match/fc-crotone/udinese/2018,2018,15,serie_a,20,38,2,0,3,14,3,3,8,11,27,LDWLWWDDWWWLLW,2,2,3,6,9,15,4,0,10,18,27,LWWWLWWWLLWWLL,1,0,5,6,13,LDLWDWL,WWWWLW
-Hellas Verona,Genoa,0-1,/match/hellas-verona-fc/genoa/2018,2018,15,serie_a,20,38,2,0,1,18,2,3,9,12,29,LDLWDLDWWWLWLL,1,1,5,5,16,19,2,4,8,12,20,DLWLDWLLDLWLLD,2,2,3,4,5,LLDLWLL,DWWLDWL
-Cagliari,Sampdoria,2-2,/match/cagliari/sampdoria/2018,2018,16,serie_a,20,38,1,2,2,13,5,1,9,14,25,WWWLLLWLWWWWLLD,3,0,4,8,11,6,8,3,4,29,21,WLDDDWWWWWWLWWL,2,2,3,8,13,WLLLWWL,LDDWWLW
-Juventus,Inter,0-0,/match/juventus-fc/internazionale/2018,2018,16,serie_a,20,38,1,0,0,2,12,1,2,41,14,WLWLWWDLLWLWWWL,7,0,1,21,4,1,12,3,0,33,10,WLWLDWLWDWLDWLW,5,2,0,13,5,WWWWLWWW,LLDLDLL
-Chievo,Roma,0-0,/match/chievo/roma/2018,2018,16,serie_a,20,38,1,0,0,11,5,5,5,17,26,LLWDDLWDWLWDDWW,3,2,2,10,11,4,11,2,2,28,11,LLDWLWLLLWWLWDW,5,2,0,14,4,LDWWLDW,LDLLLLD
-SPAL,Hellas Verona,2-2,/match/spal-1907/hellas-verona-fc/2018,2018,16,serie_a,20,38,1,2,2,16,2,4,9,13,26,DWWLWLDWLWWDDWW,2,2,3,8,10,19,2,3,10,12,30,LDLWDLDWWWLWLLL,1,2,4,7,13,WLLDLWD,DWDWWWL
-Napoli,Fiorentina,0-0,/match/napoli/fiorentina/2018,2018,16,serie_a,20,38,1,0,0,3,12,2,1,35,10,LWLWLLWLDLWDWLL,5,1,1,17,4,9,6,3,6,26,19,WLLWWDWWLWWLDDW,2,2,4,12,10,WWWDWWL,WLWWLWDD
-Udinese,Benevento,2-0,/match/udinese/benevento-calcio/2018,2018,16,serie_a,20,38,0,2,0,14,5,0,10,21,27,LWWWLWWWLLWWLLL,3,0,5,12,14,20,0,1,14,8,36,WLLWLWLWLWLWLWD,0,0,7,3,16,LWLWLWLL,WWWWWWW
-Sassuolo,Crotone,2-1,/match/us-sassuolo-calcio/fc-crotone/2018,2018,16,serie_a,20,38,0,2,1,18,3,2,10,8,27,DWWLLLWDLLWLLLW,0,2,5,1,9,15,3,3,9,11,30,LDWLWWDDWWWLLWL,1,1,5,5,18,DLLDLLL,WWDWWLW
-Milan,Bologna,2-1,/match/milan/bologna/2018,2018,16,serie_a,20,38,0,2,1,10,6,3,6,21,20,LWWWWWLWDLLLWDD,3,2,2,6,6,12,6,3,6,18,18,DLLWDLLWWLWLLWD,4,0,3,7,6,WWWLDLD,LWLLWWL
-Lazio,Torino,1-3,/match/lazio/torino-fc/2018,2018,16,serie_a,20,38,2,1,3,5,11,2,2,38,16,DLWLLLWLWLLWWDL,4,2,1,18,7,8,4,8,3,19,21,DWLDLWDDLWWDDDD,2,4,2,8,13,DWLWWWD,DLLWDWDD
-Genoa,Atalanta,1-2,/match/genoa/atalanta/2018,2018,16,serie_a,20,38,2,1,2,17,3,4,8,13,20,DLWLDWLLDLWLLDL,0,2,5,8,15,7,5,5,5,21,19,LWWDWDDWWWWDWWD,0,3,4,6,13,LLDLLLD,WDDWWWD
-Inter,Udinese,1-3,/match/internazionale/udinese/2018,2018,17,serie_a,20,38,2,1,3,1,12,4,0,33,10,WLWLDWLWDWLDWLWD,7,1,0,20,5,13,6,0,10,23,27,LWWWLWWWLLWWLLLW,2,0,5,9,13,WWWWWDWW,WWWWLWL
-Torino,Napoli,1-3,/match/torino-fc/napoli/2018,2018,17,serie_a,20,38,2,1,3,9,5,8,3,22,22,DWLDLWDDLWWDDDDL,2,4,1,11,8,3,12,3,1,35,10,LWLWLLWLDLWDWLLD,7,1,0,18,6,WDDLWDD,LLLLLLDL
-Roma,Cagliari,1-0,/match/roma/cagliari/2018,2018,17,serie_a,20,38,0,1,0,4,11,3,2,28,11,LLDWLWLLLWWLWDWD,6,0,2,14,7,14,5,2,9,16,27,WWWLLLWLWWWWLLDD,2,1,5,6,14,LWWLWWWW,WWLWWWLD
-Hellas Verona,Milan,3-0,/match/hellas-verona-fc/milan/2018,2018,17,serie_a,20,38,0,3,0,19,2,4,10,14,32,LDLWDLDWWWLWLLLD,1,1,6,5,17,8,7,3,6,23,21,LWWWWWLWDLLLWDDW,3,1,4,15,14,LLDLWLLL,LWWWLLWD
-Fiorentina,Genoa,0-0,/match/fiorentina/genoa/2018,2018,17,serie_a,20,38,1,0,0,11,6,4,6,26,19,WLLWWDWWLWWLDDWD,4,1,2,14,9,18,3,4,9,14,22,DLWLDWLLDLWLLDLL,3,2,3,5,5,LWDWWLW,DWWLDWLL
-Crotone,Chievo,1-0,/match/fc-crotone/chievo/2018,2018,17,serie_a,20,38,0,1,0,16,3,3,10,12,32,LDWLWWDDWWWLLWLW,2,2,4,6,12,10,5,6,5,17,26,LLWDDLWDWLWDDWWD,2,3,3,7,15,LDLWDWLL,LWDLDWDW
-Bologna,Juventus,0-3,/match/bologna/juventus-fc/2018,2018,17,serie_a,20,38,2,0,3,12,6,3,7,19,20,DLLWDLLWWLWLLWDW,2,3,3,11,12,2,12,2,2,41,14,WLWLWWDLLWLWWWLD,5,1,1,20,10,DLDWLLWD,LLDLLWL
-Sampdoria,Sassuolo,0-1,/match/sampdoria/us-sassuolo-calcio/2018,2018,17,serie_a,20,38,2,0,1,6,8,4,4,31,23,WLDDDWWWWWWLWWLD,6,1,1,21,8,17,4,2,10,10,28,DWWLLLWDLLWLLLWW,3,0,5,7,18,WDWWWWWL,WWLWLWLW
-Benevento,SPAL,1-2,/match/benevento-calcio/spal-1907/2018,2018,17,serie_a,20,38,2,1,2,20,0,1,15,8,38,WLLWLWLWLWLWLWDW,0,1,7,5,20,15,2,5,9,15,28,DWWLWLDWLWWDDWWD,0,2,6,5,16,LLLLLLLD,DWWWWDWW
-Atalanta,Lazio,3-3,/match/atalanta/lazio/2018,2018,17,serie_a,20,38,1,3,3,7,6,5,5,23,20,LWWDWDDWWWWDWWDL,5,2,1,15,6,5,11,2,3,39,19,DLWLLLWLWLLWWDLL,7,0,1,20,9,LWWDWWDW,LLLLLLWL
-Chievo,Bologna,2-3,/match/chievo/bologna/2018,2018,18,serie_a,20,38,2,2,3,11,5,6,6,17,27,LLWDDLWDWLWDDWWDW,3,3,2,10,11,12,6,3,8,19,23,DLLWDLLWWLWLLWDWL,4,0,4,8,8,LDWWLDWD,LWLLWWLW
-Cagliari,Fiorentina,0-1,/match/cagliari/fiorentina/2018,2018,18,serie_a,20,38,2,0,1,14,5,2,10,16,28,WWWLLLWLWWWWLLDDW,3,1,4,10,13,8,6,5,6,26,19,WLLWWDWWLWWLDDWDD,2,3,4,12,10,WLLLWWLD,WLWWLWDDD
-Lazio,Crotone,4-0,/match/lazio/fc-crotone/2018,2018,18,serie_a,20,38,0,4,0,5,11,3,3,42,22,DLWLLLWLWLLWWDLLD,4,2,2,19,10,15,4,3,10,13,32,LDWLWWDDWWWLLWLWW,1,1,6,6,20,DWLWWWDL,WWDWWLWW
-SPAL,Torino,2-2,/match/spal-1907/torino-fc/2018,2018,18,serie_a,20,38,1,2,2,16,3,5,9,17,29,DWWLWLDWLWWDDWWDL,2,3,3,10,12,10,5,8,4,23,25,DWLDLWDDLWWDDDDLL,3,4,2,11,14,WLLDLWDD,DLLWDWDDL
-Sassuolo,Inter,1-0,/match/us-sassuolo-calcio/internazionale/2018,2018,18,serie_a,20,38,0,1,0,17,5,2,10,11,28,DWWLLLWDLLWLLLWWL,1,2,5,3,10,1,12,4,1,34,13,WLWLDWLWDWLDWLWDL,5,3,0,13,5,DLLDLLLW,LLDLDLLD
-Napoli,Sampdoria,3-2,/match/napoli/sampdoria/2018,2018,18,serie_a,20,38,0,3,2,3,13,3,1,38,11,LWLWLLWLDLWDWLLDL,5,2,1,17,4,6,8,4,5,31,24,WLDDDWWWWWWLWWLDL,2,3,3,10,15,WWWDWWLD,LDDWWLWD
-Udinese,Hellas Verona,4-0,/match/udinese/hellas-verona-fc/2018,2018,18,serie_a,20,38,0,4,0,13,7,0,10,26,28,LWWWLWWWLLWWLLLWL,4,0,5,14,14,18,3,4,10,17,32,LDLWDLDWWWLWLLLDW,1,3,4,9,15,LWLWLWLLW,DWDWWWLD
-Genoa,Benevento,1-0,/match/genoa/benevento-calcio/2018,2018,18,serie_a,20,38,0,1,0,19,3,5,9,14,22,DLWLDWLLDLWLLDLLD,0,2,6,9,17,20,0,1,16,9,40,WLLWLWLWLWLWLWDWL,0,0,8,3,18,LLDLLLDL,WWWWWWWW
-Milan,Atalanta,0-2,/match/milan/atalanta/2018,2018,18,serie_a,20,38,2,0,2,9,7,3,7,23,24,LWWWWWLWDLLLWDDWW,4,2,2,8,7,7,6,6,5,26,23,LWWDWDDWWWWDWWDLD,1,3,4,8,14,WWWLDLDW,WDDWWWDL
-Juventus,Roma,1-0,/match/juventus-fc/roma/2018,2018,18,serie_a,20,38,0,1,0,2,13,2,2,44,14,WLWLWWDLLWLWWWLDL,7,1,1,21,4,4,12,3,2,29,11,LLDWLWLLLWWLWDWDW,5,3,0,14,4,WWWWLWWWD,LDLLLLDD
-Crotone,Napoli,0-1,/match/fc-crotone/napoli/2018,2018,19,serie_a,20,38,2,0,1,17,4,3,11,13,36,LDWLWWDDWWWLLWLWWW,3,2,4,7,12,2,14,3,1,41,13,LWLWLLWLDLWDWLLDLW,8,1,0,21,7,LDLWDWLLW,LLLLLLDLL
-Fiorentina,Milan,1-1,/match/fiorentina/milan/2018,2018,19,serie_a,20,38,1,1,1,8,7,5,6,27,19,WLLWWDWWLWWLDDWDDL,4,2,2,14,9,9,7,3,8,23,26,LWWWWWLWDLLLWDDWWL,3,1,5,15,17,LWDWWLWD,LWWWLLWDW
-Atalanta,Cagliari,1-2,/match/atalanta/cagliari/2018,2018,19,serie_a,20,38,2,1,2,7,7,6,5,28,23,LWWDWDDWWWWDWWDLDL,5,3,1,18,9,16,5,2,11,16,29,WWWLLLWLWWWWLLDDWL,2,1,6,6,15,LWWDWWDWD,WWLWWWLDW
-Sampdoria,SPAL,2-0,/match/sampdoria/spal-1907/2018,2018,19,serie_a,20,38,0,2,0,6,8,4,6,33,27,WLDDDWWWWWWLWWLDLW,6,1,2,21,9,14,3,6,9,19,31,DWWLWLDWLWWDDWWDLD,1,2,6,7,17,WDWWWWWLL,DWWWWDWWL
-Roma,Sassuolo,1-1,/match/roma/us-sassuolo-calcio/2018,2018,19,serie_a,20,38,1,1,1,4,12,3,3,29,12,LLDWLWLLLWWLWDWDWW,7,0,2,15,7,15,6,2,10,12,28,DWWLLLWDLLWLLLWWLW,4,0,5,8,18,LWWLWWWWW,WWLWLWLWL
-Torino,Genoa,0-0,/match/torino-fc/genoa/2018,2018,19,serie_a,20,38,1,0,0,10,5,9,4,25,27,DWLDLWDDLWWDDDDLLD,2,4,2,12,11,18,4,5,9,15,22,DLWLDWLLDLWLLDLLDW,3,3,3,5,5,WDDLWDDL,DWWLDWLLD
-Bologna,Udinese,1-2,/match/bologna/udinese/2018,2018,19,serie_a,20,38,2,1,2,13,7,3,8,22,25,DLLWDLLWWLWLLWDWLL,2,3,4,11,15,11,8,0,10,30,28,LWWWLWWWLLWWLLLWLW,3,0,5,12,14,DLDWLLWDL,WWWWLWLL
-Benevento,Chievo,1-0,/match/benevento-calcio/chievo/2018,2018,19,serie_a,20,38,0,1,0,20,0,1,17,9,41,WLLWLWLWLWLWLWDWLW,0,1,8,6,22,12,5,6,7,19,30,LLWDDLWDWLWDDWWDWL,2,3,4,7,16,LLLLLLLDL,LWDLDWDWW
-Inter,Lazio,0-0,/match/internazionale/lazio/2018,2018,19,serie_a,20,38,1,0,0,3,12,4,2,34,14,WLWLDWLWDWLDWLWDLW,7,1,1,21,8,5,12,3,3,46,22,DLWLLLWLWLLWWDLLDW,7,1,1,23,12,WWWWWDWWL,LLLLLLWLD
-Hellas Verona,Juventus,1-3,/match/hellas-verona-fc/juventus-fc/2018,2018,19,serie_a,20,38,2,1,3,19,3,4,11,17,36,LDLWDLDWWWLWLLLDWW,2,1,6,8,17,1,14,2,2,45,14,WLWLWWDLLWLWWWLDLW,6,1,1,23,10,LLDLWLLLW,LLDLLWLL
-Chievo,Udinese,1-1,/match/chievo/udinese/2018,2018,20,serie_a,20,38,1,1,1,12,5,6,8,19,31,LLWDDLWDWLWDDWWDWLW,3,3,3,12,14,10,9,0,10,32,29,LWWWLWWWLLWWLLLWLWL,4,0,5,14,15,LDWWLDWDL,WWWWLWLLL
-Fiorentina,Inter,1-1,/match/fiorentina/internazionale/2018,2018,20,serie_a,20,38,1,1,1,8,7,6,6,28,20,WLLWWDWWLWWLDDWDDLD,4,3,2,15,10,3,12,5,2,34,14,WLWLDWLWDWLDWLWDLWD,5,3,1,13,6,LWDWWLWDD,LLDLDLLDW
-Torino,Bologna,3-0,/match/torino-fc/bologna/2018,2018,20,serie_a,20,38,0,3,0,9,5,10,4,25,27,DWLDLWDDLWWDDDDLLDD,2,5,2,12,11,13,7,3,9,23,27,DLLWDLLWWLWLLWDWLLL,5,0,4,11,10,WDDLWDDLD,LWLLWWLWL
-Milan,Crotone,1-0,/match/milan/fc-crotone/2018,2018,20,serie_a,20,38,0,1,0,11,7,4,8,24,27,LWWWWWLWDLLLWDDWWLD,4,2,3,8,9,17,4,3,12,13,37,LDWLWWDDWWWLLWLWWWL,1,1,7,6,24,WWWLDLDWL,WWDWWLWWW
-Napoli,Hellas Verona,2-0,/match/napoli/hellas-verona-fc/2018,2018,20,serie_a,20,38,0,2,0,2,15,3,1,42,13,LWLWLLWLDLWDWLLDLWL,6,2,1,20,6,19,3,4,12,18,39,LDLWDLDWWWLWLLLDWWL,1,3,5,9,19,WWWDWWLDW,DWDWWWLDW
-Genoa,Sassuolo,1-0,/match/genoa/us-sassuolo-calcio/2018,2018,20,serie_a,20,38,0,1,0,18,4,6,9,15,22,DLWLDWLLDLWLLDLLDWD,1,2,6,10,17,14,6,3,10,13,29,DWWLLLWDLLWLLLWWLWD,4,1,5,9,19,LLDLLLDLW,WWLWLWLWLD
-SPAL,Lazio,2-5,/match/spal-1907/lazio/2018,2018,20,serie_a,20,38,2,2,5,16,3,6,10,19,33,DWWLWLDWLWWDDWWDLDW,2,4,3,12,14,5,12,4,3,46,22,DLWLLLWLWLLWWDLLDWD,7,2,1,23,12,WLLDLWDDD,LLLLLLWLDD
-Benevento,Sampdoria,3-2,/match/benevento-calcio/sampdoria/2018,2018,20,serie_a,20,38,0,3,2,20,1,1,17,10,41,WLLWLWLWLWLWLWDWLWW,1,1,8,7,22,6,9,4,6,35,27,WLDDDWWWWWWLWWLDLWW,2,3,4,12,18,LLLLLLLDLW,LDDWWLWDW
-Roma,Atalanta,1-2,/match/roma/atalanta/2018,2018,20,serie_a,20,38,2,1,2,4,12,4,3,30,13,LLDWLWLLLWWLWDWDWWD,7,1,2,16,8,7,7,6,6,29,25,LWWDWDDWWWWDWWDLDLL,2,3,4,10,14,LWWLWWWWWD,WDDWWWDLL
-Cagliari,Juventus,0-1,/match/cagliari/juventus-fc/2018,2018,20,serie_a,20,38,2,0,1,15,6,2,11,18,30,WWWLLLWLWWWWLLDDWLL,3,1,5,10,14,1,15,2,2,48,15,WLWLWWDLLWLWWWLDLWL,7,1,1,26,11,WLLLWWLDL,LLDLLWLLL
-Atalanta,Napoli,0-1,/match/atalanta/napoli/2018,2018,21,serie_a,20,38,2,0,1,7,8,6,6,31,26,LWWDWDDWWWWDWWDLDLLL,5,3,2,19,11,2,16,3,1,44,13,LWLWLLWLDLWDWLLDLWLW,9,1,0,22,7,LWWDWWDWDL,LLLLLLDLLL
-Bologna,Benevento,3-0,/match/bologna/benevento-calcio/2018,2018,21,serie_a,20,38,0,3,0,13,7,3,10,23,30,DLLWDLLWWLWLLWDWLLLW,2,3,5,12,17,20,2,1,17,13,43,WLLWLWLWLWLWLWDWLWWW,0,0,9,3,19,DLDWLLWDLL,WWWWWWWWW
-Udinese,SPAL,1-1,/match/udinese/spal-1907/2018,2018,21,serie_a,20,38,1,1,1,11,9,1,10,33,30,LWWWLWWWLLWWLLLWLWLD,5,0,5,18,14,17,3,6,11,21,38,DWWLWLDWLWWDDWWDLDWL,1,2,7,7,19,LWLWLWLLWW,DWWWWDWWLW
-Sassuolo,Torino,1-1,/match/us-sassuolo-calcio/torino-fc/2018,2018,21,serie_a,20,38,1,1,1,15,6,3,11,13,30,DWWLLLWDLLWLLLWWLWDW,2,2,5,4,10,9,6,10,4,28,27,DWLDLWDDLWWDDDDLLDDW,3,5,2,13,16,DLLDLLLWW,DLLWDWDDLD
-Sampdoria,Fiorentina,3-1,/match/sampdoria/fiorentina/2018,2018,21,serie_a,20,38,0,3,1,6,9,4,7,37,30,WLDDDWWWWWWLWWLDLWWW,7,1,2,23,9,8,7,7,6,29,21,WLLWWDWWLWWLDDWDDLDD,3,3,4,13,10,WDWWWWWLLW,WLWWLWDDDL
-Hellas Verona,Crotone,0-3,/match/hellas-verona-fc/fc-crotone/2018,2018,21,serie_a,20,38,2,0,3,19,3,4,13,18,41,LDLWDLDWWWLWLLLDWWLW,2,1,7,9,20,18,4,3,13,13,38,LDWLWWDDWWWLLWLWWWLW,1,1,8,6,25,LLDLWLLLWL,WWDWWLWWWW
-Lazio,Chievo,5-1,/match/lazio/chievo/2018,2018,21,serie_a,20,38,0,5,1,5,13,4,3,51,24,DLWLLLWLWLLWWDLLDWDL,5,2,2,23,10,12,5,7,8,20,32,LLWDDLWDWLWDDWWDWLWD,2,3,5,7,17,DWLWWWDLW,LWDLDWDWWW
-Cagliari,Milan,1-2,/match/cagliari/milan/2018,2018,21,serie_a,20,38,2,1,2,16,6,2,12,18,31,WWWLLLWLWWWWLLDDWLLL,3,1,6,10,15,10,8,4,8,25,27,LWWWWWLWDLLLWDDWWLDW,3,2,5,16,18,WLLLWWLDLL,LWWWLLWDWD
-Inter,Roma,1-1,/match/internazionale/roma/2018,2018,21,serie_a,20,38,1,1,1,3,12,6,2,35,15,WLWLDWLWDWLDWLWDLWDD,7,2,1,21,8,4,12,4,4,31,15,LLDWLWLLLWWLWDWDWWDL,5,3,1,14,5,WWWWWDWWLD,LDLLLLDDW
-Juventus,Genoa,1-0,/match/juventus-fc/genoa/2018,2018,21,serie_a,20,38,0,1,0,1,16,2,2,49,15,WLWLWWDLLWLWWWLDLWLL,8,1,1,22,4,14,5,6,9,16,22,DLWLDWLLDLWLLDLLDWDW,3,4,3,5,5,WWWWLWWWDW,DWWLDWLLDD
-Sassuolo,Atalanta,0-3,/match/us-sassuolo-calcio/atalanta/2018,2018,22,serie_a,20,38,2,0,3,14,6,4,11,14,31,DWWLLLWDLLWLLLWWLWDWD,2,3,5,5,11,7,8,6,7,31,27,LWWDWDDWWWWDWWDLDLLLL,3,3,4,12,15,DLLDLLLWWD,WDDWWWDLLL
-Chievo,Juventus,0-2,/match/chievo/juventus-fc/2018,2018,22,serie_a,20,38,2,0,2,13,5,7,9,21,37,LLWDDLWDWLWDDWWDWLWDW,3,4,3,13,15,1,17,2,2,50,15,WLWLWWDLLWLWWWLDLWLLW,8,1,1,27,11,LDWWLDWDLD,LLDLLWLLLL
-SPAL,Inter,1-1,/match/spal-1907/internazionale/2018,2018,22,serie_a,20,38,1,1,1,17,3,7,11,22,39,DWWLWLDWLWWDDWWDLDWLD,2,4,4,14,19,3,12,7,2,36,16,WLWLDWLWDWLDWLWDLWDDD,5,4,1,14,7,WLLDLWDDDL,LLDLDLLDWD
-Crotone,Cagliari,1-1,/match/fc-crotone/cagliari/2018,2018,22,serie_a,20,38,1,1,1,18,5,3,13,16,38,LDWLWWDDWWWLLWLWWWLWL,3,2,5,7,13,16,6,2,13,19,33,WWWLLLWLWWWWLLDDWLLLL,3,1,6,8,16,LDLWDWLLWL,WWLWWWLDWL
-Fiorentina,Hellas Verona,1-4,/match/fiorentina/hellas-verona-fc/2018,2018,22,serie_a,20,38,2,1,4,10,7,7,7,30,24,WLLWWDWWLWWLDDWDDLDDW,4,4,2,16,11,19,3,4,14,18,44,LDLWDLDWWWLWLLLDWWLWL,1,3,6,9,21,LWDWWLWDDD,DWDWWWLDWW
-Napoli,Bologna,3-1,/match/napoli/bologna/2018,2018,22,serie_a,20,38,0,3,1,2,17,3,1,45,13,LWLWLLWLDLWDWLLDLWLWL,7,2,1,22,6,12,8,3,10,26,30,DLLWDLLWWLWLLWDWLLLWW,5,0,5,11,13,WWWDWWLDWW,LWLLWWLWLW
-Torino,Benevento,3-0,/match/torino-fc/benevento-calcio/2018,2018,22,serie_a,20,38,0,3,0,8,6,11,4,29,28,DWLDLWDDLWWDDDDLLDDWD,3,5,2,15,11,20,2,1,18,13,46,WLLWLWLWLWLWLWDWLWWWW,0,0,10,3,22,WDDLWDDLDW,WWWWWWWWWW
-Genoa,Udinese,0-1,/match/genoa/udinese/2018,2018,22,serie_a,20,38,2,0,1,15,5,6,10,16,23,DLWLDWLLDLWLLDLLDWDWW,2,2,6,11,17,11,9,2,10,34,31,LWWWLWWWLLWWLLLWLWLDD,4,1,5,15,16,LLDLLLDLWW,WWWWLWLLLD
-Milan,Lazio,2-1,/match/milan/lazio/2018,2018,22,serie_a,20,38,0,2,1,9,9,4,8,27,28,LWWWWWLWDLLLWDDWWLDWL,5,2,3,9,9,4,14,4,3,56,25,DLWLLLWLWLLWWDLLDWDLW,8,2,1,28,14,WWWLDLDWLW,LLLLLLWLDDL
-Roma,Sampdoria,0-1,/match/roma/sampdoria/2018,2018,22,serie_a,20,38,2,0,1,5,12,5,4,32,16,LLDWLWLLLWWLWDWDWWDLD,7,1,3,17,10,6,10,4,7,40,31,WLDDDWWWWWWLWWLDLWWWW,2,3,5,14,21,LWWLWWWWWDL,LDDWWLWDWW
-Sampdoria,Torino,1-1,/match/sampdoria/torino-fc/2018,2018,23,serie_a,20,38,1,1,1,6,11,4,7,41,31,WLDDDWWWWWWLWWLDLWWWWL,8,1,2,26,10,7,7,11,4,32,28,DWLDLWDDLWWDDDDLLDDWDW,3,6,2,14,17,WDWWWWWLLWW,DLLWDWDDLDD
-Inter,Crotone,1-1,/match/internazionale/fc-crotone/2018,2018,23,serie_a,20,38,1,1,1,3,12,8,2,37,17,WLWLDWLWDWLDWLWDLWDDDD,7,3,1,22,9,16,5,4,13,17,39,LDWLWWDDWWWLLWLWWWLWLD,2,1,8,9,25,WWWWWDWWLDD,WWDWWLWWWWL
-Hellas Verona,Roma,0-1,/match/hellas-verona-fc/roma/2018,2018,23,serie_a,20,38,2,0,1,19,4,4,14,22,45,LDLWDLDWWWLWLLLDWWLWLL,2,1,8,9,23,5,12,5,5,32,17,LLDWLWLLLWWLWDWDWWDLDL,5,4,1,15,6,LLDLWLLLWLL,LDLLLLDDWD
-Cagliari,SPAL,2-0,/match/cagliari/spal-1907/2018,2018,23,serie_a,20,38,0,2,0,18,6,3,13,20,34,WWWLLLWLWWWWLLDDWLLLLD,3,1,7,11,17,15,3,8,11,23,40,DWWLWLDWLWWDDWWDLDWLDD,1,3,7,8,20,WLLLWWLDLLL,DWWWWDWWLWD
-Juventus,Sassuolo,7-0,/match/juventus-fc/us-sassuolo-calcio/2018,2018,23,serie_a,20,38,0,7,0,1,18,2,2,52,15,WLWLWWDLLWLWWWLDLWLLWL,9,1,1,23,4,14,6,4,12,14,34,DWWLLLWDLLWLLLWWLWDWDL,4,1,6,9,20,WWWWLWWWDWW,WWLWLWLWLDW
-Atalanta,Chievo,1-0,/match/atalanta/chievo/2018,2018,23,serie_a,20,38,0,1,0,9,9,6,7,34,27,LWWDWDDWWWWDWWDLDLLLLL,5,3,3,19,12,13,5,7,10,21,39,LLWDDLWDWLWDDWWDWLWDWL,2,3,6,8,22,LWWDWWDWDLL,LWDLDWDWWWW
-Udinese,Milan,1-1,/match/udinese/milan/2018,2018,23,serie_a,20,38,1,1,1,10,10,2,10,35,31,LWWWLWWWLLWWLLLWLWLDDL,5,1,5,19,15,8,10,4,8,29,29,LWWWWWLWDLLLWDDWWLDWLW,4,2,5,18,19,LWLWLWLLWWD,LWWWLLWDWDL
-Bologna,Fiorentina,1-2,/match/bologna/fiorentina/2018,2018,23,serie_a,20,38,2,1,2,12,8,3,11,27,33,DLLWDLLWWLWLLWDWLLLWWW,3,3,5,15,17,11,7,7,8,31,28,WLLWWDWWLWWLDDWDDLDDWL,3,3,5,14,13,DLDWLLWDLLW,WLWWLWDDDLW
-Benevento,Napoli,0-2,/match/benevento-calcio/napoli/2018,2018,23,serie_a,20,38,2,0,2,20,2,1,19,13,49,WLLWLWLWLWLWLWDWLWWWWW,2,1,8,10,24,2,18,3,1,48,14,LWLWLLWLDLWDWLLDLWLWLW,10,1,0,23,7,LLLLLLLDLWW,LLLLLLDLLLL
-Lazio,Genoa,1-2,/match/lazio/genoa/2018,2018,23,serie_a,20,38,2,1,2,4,14,4,4,57,27,DLWLLLWLWLLWWDLLDWDLWW,6,2,2,28,11,17,5,6,11,16,24,DLWLDWLLDLWLLDLLDWDWWL,3,4,4,5,6,DWLWWWDLWW,DWWLDWLLDDW
-Fiorentina,Juventus,0-2,/match/fiorentina/juventus-fc/2018,2018,24,serie_a,20,38,2,0,2,10,8,7,8,33,29,WLLWWDWWLWWLDDWDDLDDWLL,4,4,3,17,15,1,19,2,2,59,15,WLWLWWDLLWLWWWLDLWLLWLW,9,1,1,29,11,LWDWWLWDDDL,LLDLLWLLLLL
-SPAL,Milan,0-4,/match/spal-1907/milan/2018,2018,24,serie_a,20,38,2,0,4,18,3,8,12,23,42,DWWLWLDWLWWDDWWDLDWLDDW,2,5,4,15,20,9,10,5,8,30,30,LWWWWWLWDLLLWDDWWLDWLWD,4,3,5,19,20,WLLDLWDDDLD,LWWWLLWDWDLD
-Crotone,Atalanta,1-1,/match/fc-crotone/atalanta/2018,2018,24,serie_a,20,38,1,1,1,15,5,5,13,18,40,LDWLWWDDWWWLLWLWWWLWLDD,3,3,5,8,14,7,10,6,7,35,27,LWWDWDDWWWWDWWDLDLLLLLW,4,3,4,15,15,LDLWDWLLWLD,WDDWWWDLLLL
-Napoli,Lazio,4-1,/match/napoli/lazio/2018,2018,24,serie_a,20,38,0,4,1,2,19,3,1,50,14,LWLWLLWLDLWDWLLDLWLWLWL,8,2,1,25,7,4,14,4,5,58,29,DLWLLLWLWLLWWDLLDWDLWWL,8,2,2,29,16,WWWDWWLDWWW,LLLLLLWLDDLW
-Sassuolo,Cagliari,0-0,/match/us-sassuolo-calcio/cagliari/2018,2018,24,serie_a,20,38,1,0,0,17,6,4,13,14,41,DWWLLLWDLLWLLLWWLWDWDLW,2,3,6,5,14,14,7,3,13,22,34,WWWLLLWLWWWWLLDDWLLLLDW,3,2,6,9,17,DLLDLLLWWDL,WWLWWWLDWLD
-Sampdoria,Hellas Verona,2-0,/match/sampdoria/hellas-verona-fc/2018,2018,24,serie_a,20,38,0,2,0,6,11,5,7,42,32,WLDDDWWWWWWLWWLDLWWWWLD,8,2,2,27,11,19,4,4,15,22,46,LDLWDLDWWWLWLLLDWWLWLLL,2,3,6,13,22,WDWWWWWLLWWD,DWDWWWLDWWL
-Chievo,Genoa,0-1,/match/chievo/genoa/2018,2018,24,serie_a,20,38,2,0,1,13,5,7,11,21,40,LLWDDLWDWLWDDWWDWLWDWLW,3,4,4,13,17,16,6,6,11,18,25,DLWLDWLLDLWLLDLLDWDWWLL,4,4,4,7,7,LDWWLDWDLDL,DWWLDWLLDDWL
-Inter,Bologna,2-1,/match/internazionale/bologna/2018,2018,24,serie_a,20,38,0,2,1,3,12,9,2,38,18,WLWLDWLWDWLDWLWDLWDDDDD,7,4,1,23,10,12,8,3,12,28,35,DLLWDLLWWLWLLWDWLLLWWWL,5,0,6,12,16,WWWWWDWWLDDD,LWLLWWLWLWW
-Torino,Udinese,2-0,/match/torino-fc/udinese/2018,2018,24,serie_a,20,38,0,2,0,8,7,12,4,33,29,DWLDLWDDLWWDDDDLLDDWDWD,4,5,2,18,11,11,10,3,10,36,32,LWWWLWWWLLWWLLLWLWLDDLD,5,1,5,16,16,WDDLWDDLDWW,WWWWLWLLLDL
-Roma,Benevento,5-2,/match/roma/benevento-calcio/2018,2018,24,serie_a,20,38,0,5,2,5,13,5,5,33,17,LLDWLWLLLWWLWDWDWWDLDLL,7,1,4,17,11,20,2,1,20,13,51,WLLWLWLWLWLWLWDWLWWWWWL,0,0,11,3,25,LWWLWWWWWDLL,WWWWWWWWWWW
-Udinese,Roma,0-2,/match/udinese/roma/2018,2018,25,serie_a,20,38,2,0,2,10,10,3,11,36,34,LWWWLWWWLLWWLLLWLWLDDLDW,5,2,5,20,16,4,14,5,5,38,19,LLDWLWLLLWWLWDWDWWDLDLLW,6,4,1,16,6,LWLWLWLLWWDD,LDLLLLDDWDL
-Chievo,Cagliari,2-1,/match/chievo/cagliari/2018,2018,25,serie_a,20,38,0,2,1,13,5,7,12,21,41,LLWDDLWDWLWDDWWDWLWDWLWL,3,4,5,13,18,14,7,4,13,22,34,WWWLLLWLWWWWLLDDWLLLLDWD,3,3,6,9,17,LDWWLDWDLDLL,WWLWWWLDWLDD
-Genoa,Inter,2-0,/match/genoa/internazionale/2018,2018,25,serie_a,20,38,0,2,0,16,7,6,11,19,25,DLWLDWLLDLWLLDLLDWDWWLLL,2,2,7,11,18,3,13,9,2,40,19,WLWLDWLWDWLDWLWDLWDDDDDW,5,5,1,15,8,LLDLLLDLWWL,LLDLDLLDWDD
-Torino,Juventus,0-1,/match/torino-fc/juventus-fc/2018,2018,25,serie_a,20,38,2,0,1,7,8,12,4,35,29,DWLDLWDDLWWDDDDLLDDWDWDW,5,5,2,20,11,1,20,2,2,61,15,WLWLWWDLLWLWWWLDLWLLWLWL,10,1,1,31,11,WDDLWDDLDWWW,LLDLLWLLLLLL
-Benevento,Crotone,3-2,/match/benevento-calcio/fc-crotone/2018,2018,25,serie_a,20,38,0,3,2,20,2,1,21,15,56,WLLWLWLWLWLWLWDWLWWWWWLW,2,1,9,10,26,15,5,6,13,19,41,LDWLWWDDWWWLLWLWWWLWLDDD,2,2,8,10,26,LLLLLLLDLWWL,WWDWWLWWWWLD
-Bologna,Sassuolo,2-1,/match/bologna/us-sassuolo-calcio/2018,2018,25,serie_a,20,38,0,2,1,12,8,3,13,29,37,DLLWDLLWWLWLLWDWLLLWWWLW,3,3,6,16,19,17,6,5,13,14,41,DWWLLLWDLLWLLLWWLWDWDLWD,4,1,7,9,27,DLDWLLWDLLWL,WWLWLWLWLDWW
-Napoli,SPAL,1-0,/match/napoli/spal-1907/2018,2018,25,serie_a,20,38,0,1,0,2,20,3,1,54,15,LWLWLLWLDLWDWLLDLWLWLWLW,9,2,1,29,8,18,3,8,13,23,46,DWWLWLDWLWWDDWWDLDWLDDWL,1,3,8,8,22,WWWDWWLDWWWW,DWWWWDWWLWDW
-Atalanta,Fiorentina,1-1,/match/atalanta/fiorentina/2018,2018,25,serie_a,20,38,1,1,1,8,10,7,7,36,28,LWWDWDDWWWWDWWDLDLLLLLWD,6,3,3,20,12,11,8,7,9,33,31,WLLWWDWWLWWLDDWDDLDDWLLL,4,3,5,16,14,LWWDWWDWDLLW,WLWWLWDDDLWL
-Milan,Sampdoria,1-0,/match/milan/sampdoria/2018,2018,25,serie_a,20,38,0,1,0,9,11,5,8,34,30,LWWWWWLWDLLLWDDWWLDWLWDL,6,2,3,11,10,5,12,5,7,44,32,WLDDDWWWWWWLWWLDLWWWWLDW,3,3,5,15,21,WWWLDLDWLWW,LDDWWLWDWWL
-Lazio,Hellas Verona,2-0,/match/lazio/hellas-verona-fc/2018,2018,25,serie_a,20,38,0,2,0,6,14,4,6,59,33,DLWLLLWLWLLWWDLLDWDLWWLW,6,2,3,29,13,19,4,4,16,22,48,LDLWDLDWWWLWLLLDWWLWLLLW,2,3,7,13,24,DWLWWWDLWWL,DWDWWWLDWWLW
-Bologna,Genoa,2-0,/match/bologna/genoa/2018,2018,26,serie_a,20,38,0,2,0,12,9,3,13,31,38,DLLWDLLWWLWLLWDWLLLWWWLWW,4,3,6,18,20,14,8,6,11,21,25,DLWLDWLLDLWLLDLLDWDWWLLLW,5,4,4,8,7,DLDWLLWDLLWLW,DWWLDWLLDDWLL
-Inter,Benevento,2-0,/match/internazionale/benevento-calcio/2018,2018,26,serie_a,20,38,0,2,0,3,13,9,3,40,21,WLWLDWLWDWLDWLWDLWDDDDDWW,8,4,1,25,11,20,3,1,21,18,58,WLLWLWLWLWLWLWDWLWWWWWLWW,0,0,12,5,30,WWWWWDWWLDDDW,WWWWWWWWWWWW
-Crotone,SPAL,2-3,/match/fc-crotone/spal-1907/2018,2018,26,serie_a,20,38,2,2,3,16,5,6,14,21,44,LDWLWWDDWWWLLWLWWWLWLDDDW,3,4,5,9,15,18,3,8,14,23,47,DWWLWLDWLWWDDWWDLDWLDDWLW,1,3,9,8,23,LDLWDWLLWLDD,DWWWWDWWLWDWW
-Sampdoria,Udinese,2-1,/match/sampdoria/udinese/2018,2018,26,serie_a,20,38,0,2,1,6,12,5,8,44,33,WLDDDWWWWWWLWWLDLWWWWLDWW,9,2,2,29,11,11,10,3,12,36,36,LWWWLWWWLLWWLLLWLWLDDLDWL,5,1,6,16,18,WDWWWWWLLWWDW,WWWWLWLLLDLW
-Fiorentina,Chievo,1-0,/match/fiorentina/chievo/2018,2018,26,serie_a,20,38,0,1,0,10,8,8,9,34,32,WLLWWDWWLWWLDDWDDLDDWLLLD,4,4,4,17,17,13,6,7,12,23,42,LLWDDLWDWLWDDWWDWLWDWLWLW,2,3,7,8,23,LWDWWLWDDDLL,LWDLDWDWWWWW
-Sassuolo,Lazio,0-3,/match/us-sassuolo-calcio/lazio/2018,2018,26,serie_a,20,38,2,0,3,17,6,5,14,15,43,DWWLLLWDLLWLLLWWLWDWDLWDW,2,4,6,5,14,5,15,4,6,61,33,DLWLLLWLWLLWWDLLDWDLWWLWW,8,2,3,30,20,DLLDLLLWWDLD,LLLLLLWLDDLWW
-Hellas Verona,Torino,2-1,/match/hellas-verona-fc/torino-fc/2018,2018,26,serie_a,20,38,0,2,1,19,4,4,17,22,50,LDLWDLDWWWLWLLLDWWLWLLLWW,2,1,9,9,24,9,8,12,5,35,30,DWLDLWDDLWWDDDDLLDDWDWDWL,3,7,2,15,18,LLDLWLLLWLLL,DLLWDWDDLDDD
-Roma,Milan,0-2,/match/roma/milan/2018,2018,26,serie_a,20,38,2,0,2,4,15,5,5,40,19,LLDWLWLLLWWLWDWDWWDLDLLWL,8,1,4,22,13,7,12,5,8,35,30,LWWWWWLWDLLLWDDWWLDWLWDLW,5,3,5,23,20,LWWLWWWWWDLLW,LWWWLLWDWDLDL
-Cagliari,Napoli,0-5,/match/cagliari/napoli/2018,2018,26,serie_a,20,38,2,0,5,15,7,4,14,23,36,WWWLLLWLWWWWLLDDWLLLLDWDW,4,1,7,13,17,1,21,3,1,55,15,LWLWLLWLDLWDWLLDLWLWLWLWW,11,1,0,25,7,WLLLWWLDLLLW,LLLLLLDLLLLL
-Juventus,Atalanta,2-0,/match/juventus-fc/atalanta/2018,2018,26,serie_a,20,38,0,2,0,2,21,2,2,62,15,WLWLWWDLLWLWWWLDLWLLWLWLL,10,1,1,30,4,8,10,8,7,37,29,LWWDWDDWWWWDWWDLDLLLLLWDD,4,4,4,16,16,WWWWLWWWDWWW,WDDWWWDLLLLD
-SPAL,Bologna,1-0,/match/spal-1907/bologna/2018,2018,27,serie_a,20,38,0,1,0,18,4,8,14,26,49,DWWLWLDWLWWDDWWDLDWLDDWLWL,2,5,5,15,24,11,10,3,13,33,38,DLLWDLLWWLWLLWDWLLLWWWLWWW,5,0,7,13,18,WLLDLWDDDLDL,LWLLWWLWLWWW
-Lazio,Juventus,0-1,/match/lazio/juventus-fc/2018,2018,27,serie_a,20,38,2,0,1,6,16,4,6,64,33,DLWLLLWLWLLWWDLLDWDLWWLWWL,7,2,3,31,13,2,22,2,2,64,15,WLWLWWDLLWLWWWLDLWLLWLWLLW,11,1,1,32,11,DWLWWWDLWWLW,LLDLLWLLLLLLL
-Napoli,Roma,2-4,/match/napoli/roma/2018,2018,27,serie_a,20,38,2,2,4,1,22,3,1,60,15,LWLWLLWLDLWDWLLDLWLWLWLWWL,10,2,1,30,8,5,15,5,6,40,21,LLDWLWLLLWWLWDWDWWDLDLLWLL,7,4,1,18,6,WWWDWWLDWWWWW,LDLLLLDDWDLL
-Genoa,Cagliari,2-1,/match/genoa/cagliari/2018,2018,27,serie_a,20,38,0,2,1,14,8,6,12,21,27,DLWLDWLLDLWLLDLLDWDWWLLLWW,3,2,7,13,18,15,7,4,15,23,41,WWWLLLWLWWWWLLDDWLLLLDWDWL,3,3,7,10,19,LLDLLLDLWWLW,WWLWWWLDWLDDW
-Atalanta,Sampdoria,1-2,/match/atalanta/sampdoria/2018,2018,27,serie_a,20,38,2,1,2,8,10,8,8,37,31,LWWDWDDWWWWDWWDLDLLLLLWDDW,6,4,3,21,13,4,13,5,8,46,34,WLDDDWWWWWWLWWLDLWWWWLDWWW,3,3,6,15,22,LWWDWWDWDLLWD,LDDWWLWDWWLW
-Udinese,Fiorentina,0-2,/match/udinese/fiorentina/2018,2018,27,serie_a,20,38,2,0,2,12,10,3,13,37,38,LWWWLWWWLLWWLLLWLWLDDLDWLW,5,2,6,20,18,10,9,8,9,35,32,WLLWWDWWLWWLDDWDDLDDWLLLDW,4,4,5,17,15,LWLWLWLLWWDDL,WLWWLWDDDLWLD
-Benevento,Hellas Verona,3-0,/match/benevento-calcio/hellas-verona-fc/2018,2018,27,serie_a,20,38,0,3,0,20,3,1,22,18,60,WLLWLWLWLWLWLWDWLWWWWWLWWW,3,1,9,13,28,19,5,4,17,24,51,LDLWDLDWWWLWLLLDWWLWLLLWWW,2,3,8,13,26,LLLLLLLDLWWLW,DWDWWWLDWWLWW
-Milan,Inter,0-0,/match/milan/internazionale/2018,2018,27,serie_a,20,38,1,0,0,7,13,5,8,37,30,LWWWWWLWDLLLWDDWWLDWLWDLWL,7,2,3,12,10,3,14,9,3,42,21,WLWLDWLWDWLDWLWDLWDDDDDWWW,5,5,2,15,10,WWWLDLDWLWWW,LLDLDLLDWDDW
-Torino,Crotone,4-1,/match/torino-fc/fc-crotone/2018,2018,27,serie_a,20,38,0,4,1,9,8,12,6,36,32,DWLDLWDDLWWDDDDLLDDWDWDWLW,5,5,3,20,12,16,5,6,15,23,47,LDWLWWDDWWWLLWLWWWLWLDDDWL,2,2,9,12,29,WDDLWDDLDWWWL,WWDWWLWWWWLDW
-Chievo,Sassuolo,1-1,/match/chievo/us-sassuolo-calcio/2018,2018,27,serie_a,20,38,1,1,1,13,6,7,13,23,43,LLWDDLWDWLWDDWWDWLWDWLWLWW,4,4,5,15,19,17,6,5,15,15,46,DWWLLLWDLLWLLLWWLWDWDLWDWL,4,1,8,10,29,LDWWLDWDLDLLW,WWLWLWLWLDWWW
-Roma,Torino,3-0,/match/roma/torino-fc/2018,2018,28,serie_a,20,38,0,3,0,5,16,5,6,44,23,LLDWLWLLLWWLWDWDWWDLDLLWLLL,8,1,5,22,15,8,9,12,6,40,33,DWLDLWDDLWWDDDDLLDDWDWDWLWW,3,7,3,16,20,LWWLWWWWWDLLWL,DLLWDWDDLDDDW
-Hellas Verona,Chievo,1-0,/match/hellas-verona-fc/chievo/2018,2018,28,serie_a,20,38,0,1,0,19,5,4,18,24,54,LDLWDLDWWWLWLLLDWWLWLLLWWWW,3,1,9,11,25,14,6,8,13,24,44,LLWDDLWDWLWDDWWDWLWDWLWLWWD,2,3,8,8,24,LLDLWLLLWLLLW,LWDLDWDWWWWWW
-Fiorentina,Benevento,1-0,/match/fiorentina/benevento-calcio/2018,2018,28,serie_a,20,38,0,1,0,10,10,8,9,37,32,WLLWWDWWLWWLDDWDDLDDWLLLDWL,5,4,4,18,17,20,4,1,22,21,60,WLLWLWLWLWLWLWDWLWWWWWLWWWW,0,0,13,5,32,LWDWWLWDDDLLW,WWWWWWWWWWWWW
-Bologna,Atalanta,0-1,/match/bologna/atalanta/2018,2018,28,serie_a,20,38,2,0,1,11,10,3,14,33,39,DLLWDLLWWLWLLWDWLLLWWWLWWWW,5,3,6,20,20,9,10,8,9,38,33,LWWDWDDWWWWDWWDLDLLLLLWDDWL,4,4,5,16,18,DLDWLLWDLLWLWW,WDDWWWDLLLLDW
-Sassuolo,SPAL,1-1,/match/us-sassuolo-calcio/spal-1907/2018,2018,28,serie_a,20,38,1,1,1,18,6,6,15,16,47,DWWLLLWDLLWLLLWWLWDWDLWDWLD,2,4,7,5,17,15,5,8,14,27,49,DWWLWLDWLWWDDWWDLDWLDDWLWLW,2,3,9,11,25,DLLDLLLWWDLDL,DWWWWDWWLWDWWL
-Crotone,Sampdoria,4-1,/match/fc-crotone/sampdoria/2018,2018,28,serie_a,20,38,0,4,1,17,5,6,16,24,51,LDWLWWDDWWWLLWLWWWLWLDDDWLW,3,4,6,11,18,4,14,5,8,48,35,WLDDDWWWWWWLWWLDLWWWWLDWWWL,4,3,6,17,23,LDLWDWLLWLDDL,LDDWWLWDWWLWL
-Juventus,Udinese,2-0,/match/juventus-fc/udinese/2018,2018,28,serie_a,20,38,0,2,0,1,23,2,2,65,15,WLWLWWDLLWLWWWLDLWLLWLWLLWL,11,1,1,32,4,12,10,3,14,37,40,LWWWLWWWLLWWLLLWLWLDDLDWLWL,5,1,7,17,20,WWWWLWWWDWWWW,WWWWLWLLLDLWW
-Cagliari,Lazio,2-2,/match/cagliari/lazio/2018,2018,28,serie_a,20,38,1,2,2,16,7,4,16,24,43,WWWLLLWLWWWWLLDDWLLLLDWDWLW,4,1,8,13,22,6,16,4,7,64,34,DLWLLLWLWLLWWDLLDWDLWWLWWLL,9,2,3,33,20,WLLLWWLDLLLWL,LLLLLLWLDDLWWL
-Genoa,Milan,0-1,/match/genoa/milan/2018,2018,28,serie_a,20,38,2,0,1,13,9,6,12,23,28,DLWLDWLLDLWLLDLLDWDWWLLLWWW,4,2,7,15,19,7,13,6,8,37,30,LWWWWWLWDLLLWDDWWLDWLWDLWLD,6,3,5,25,20,LLDLLLDLWWLWW,LWWWLLWDWDLDLL
-Inter,Napoli,0-0,/match/internazionale/napoli/2018,2018,28,serie_a,20,38,1,0,0,3,14,10,3,42,21,WLWLDWLWDWLDWLWDLWDDDDDWWWD,9,4,1,27,11,2,22,3,2,62,19,LWLWLLWLDLWDWLLDLWLWLWLWWLL,12,1,0,30,7,WWWWWDWWLDDDWW,LLLLLLDLLLLLL
-Udinese,Sassuolo,1-2,/match/udinese/us-sassuolo-calcio/2018,2018,29,serie_a,20,38,2,1,2,12,10,3,15,37,42,LWWWLWWWLLWWLLLWLWLDDLDWLWLW,5,2,7,20,20,18,6,7,15,17,48,DWWLLLWDLLWLLLWWLWDWDLWDWLDD,4,2,8,11,30,LWLWLWLLWWDDLL,WWLWLWLWLDWWWD
-SPAL,Juventus,0-0,/match/spal-1907/juventus-fc/2018,2018,29,serie_a,20,38,1,0,0,15,5,9,14,28,50,DWWLWLDWLWWDDWWDLDWLDDWLWLWD,3,5,5,16,24,1,24,2,2,67,15,WLWLWWDLLWLWWWLDLWLLWLWLLWLW,12,1,1,33,11,WLLDLWDDDLDLW,LLDLLWLLLLLLLL
-Sampdoria,Inter,0-5,/match/sampdoria/internazionale/2018,2018,29,serie_a,20,38,2,0,5,5,14,5,9,49,39,WLDDDWWWWWWLWWLDLWWWWLDWWWLW,10,2,2,31,12,3,14,11,3,42,21,WLWLDWLWDWLDWLWDLWDDDDDWWWDD,5,6,2,15,10,WDWWWWWLLWWDWW,LLDLDLLDWDDWD
-Crotone,Roma,0-2,/match/fc-crotone/roma/2018,2018,29,serie_a,20,38,2,0,2,16,6,6,16,28,52,LDWLWWDDWWWLLWLWWWLWLDDDWLWW,4,4,6,15,19,4,17,5,6,47,23,LLDWLWLLLWWLWDWDWWDLDLLWLLLW,8,4,1,22,8,LDLWDWLLWLDDLW,LDLLLLDDWDLLL
-Hellas Verona,Atalanta,0-5,/match/hellas-verona-fc/atalanta/2018,2018,29,serie_a,20,38,2,0,5,19,6,4,18,25,54,LDLWDLDWWWLWLLLDWWLWLLLWWWWW,4,1,9,12,25,9,11,8,9,39,33,LWWDWDDWWWWDWWDLDLLLLLWDDWLL,5,4,5,17,18,LLDLWLLLWLLLWW,WDDWWWDLLLLDWL
-Torino,Fiorentina,1-2,/match/torino-fc/fiorentina/2018,2018,29,serie_a,20,38,2,1,2,8,9,12,7,40,36,DWLDLWDDLWWDDDDLLDDWDWDWLWWW,6,5,3,24,13,10,11,8,9,38,32,WLLWWDWWLWWLDDWDDLDDWLLLDWLW,5,4,5,19,15,WDDLWDDLDWWWLW,WLWWLWDDDLWLDL
-Milan,Chievo,3-2,/match/milan/chievo/2018,2018,29,serie_a,20,38,0,3,2,7,14,6,8,38,30,LWWWWWLWDLLLWDDWWLDWLWDLWLDL,7,3,3,12,10,14,6,8,14,24,45,LLWDDLWDWLWDDWWDWLWDWLWLWWDW,2,3,9,8,25,WWWLDLDWLWWWD,LWDLDWDWWWWWWW
-Benevento,Cagliari,1-2,/match/benevento-calcio/cagliari/2018,2018,29,serie_a,20,38,2,1,2,20,4,1,23,21,61,WLLWLWLWLWLWLWDWLWWWWWLWWWWW,4,1,9,16,28,17,7,5,16,26,45,WWWLLLWLWWWWLLDDWLLLLDWDWLWD,3,3,8,11,21,LLLLLLLDLWWLWW,WWLWWWLDWLDDWW
-Lazio,Bologna,1-1,/match/lazio/bologna/2018,2018,29,serie_a,20,38,1,1,1,6,16,5,7,66,36,DLWLLLWLWLLWWDLLDWDLWWLWWLLD,7,2,4,31,14,11,10,3,15,33,40,DLLWDLLWWLWLLWDWLLLWWWLWWWWL,5,0,8,13,19,DWLWWWDLWWLWL,LWLLWWLWLWWWW
-Napoli,Genoa,1-0,/match/napoli/genoa/2018,2018,29,serie_a,20,38,0,1,0,2,22,4,2,62,19,LWLWLLWLDLWDWLLDLWLWLWLWWLLD,10,2,2,32,12,13,9,6,13,23,29,DLWLDWLLDLWLLDLLDWDWWLLLWWWL,5,4,5,8,9,WWWDWWLDWWWWWL,DWWLDWLLDDWLLW
-Bologna,Roma,1-1,/match/bologna/roma/2018,2018,30,serie_a,20,38,1,1,1,11,10,4,15,34,41,DLLWDLLWWLWLLWDWLLLWWWLWWWWLD,5,3,7,20,21,4,18,5,6,49,23,LLDWLWLLLWWLWDWDWWDLDLLWLLLWL,9,4,1,24,8,DLDWLLWDLLWLWWL,LDLLLLDDWDLLLL
-Cagliari,Torino,0-4,/match/cagliari/torino-fc/2018,2018,30,serie_a,20,38,2,0,4,16,8,5,16,28,46,WWWLLLWLWWWWLLDDWLLLLDWDWLWDL,4,2,8,15,24,10,9,12,8,41,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWL,3,7,4,16,23,WLLLWWLDLLLWLD,DLLWDWDDLDDDWW
-Genoa,SPAL,1-1,/match/genoa/spal-1907/2018,2018,30,serie_a,20,38,1,1,1,13,9,6,14,23,30,DLWLDWLLDLWLLDLLDWDWWLLLWWWLW,4,2,8,15,20,15,5,10,14,28,50,DWWLWLDWLWWDDWWDLDWLDDWLWLWDD,2,4,9,12,26,LLDLLLDLWWLWWL,DWWWWDWWLWDWWLD
-Lazio,Benevento,6-2,/match/lazio/benevento-calcio/2018,2018,30,serie_a,20,38,0,6,2,6,16,6,7,67,37,DLWLLLWLWLLWWDLLDWDLWWLWWLLDD,7,3,4,32,15,20,4,1,24,22,63,WLLWLWLWLWLWLWDWLWWWWWLWWWWWL,0,0,14,5,33,DWLWWWDLWWLWLD,WWWWWWWWWWWWWW
-Inter,Hellas Verona,3-0,/match/internazionale/hellas-verona-fc/2018,2018,30,serie_a,20,38,0,3,0,3,15,11,3,47,21,WLWLDWLWDWLDWLWDLWDDDDDWWWDDL,9,5,1,27,11,19,6,4,19,25,59,LDLWDLDWWWLWLLLDWWLWLLLWWWWWL,2,3,9,13,29,WWWWWDWWLDDDWWD,DWDWWWLDWWLWWW
-Fiorentina,Crotone,2-0,/match/fiorentina/fc-crotone/2018,2018,30,serie_a,20,38,0,2,0,9,12,8,9,40,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWL,6,4,4,19,17,17,6,6,17,28,54,LDWLWWDDWWWLLWLWWWLWLDDDWLWWL,2,2,10,13,33,LWDWWLWDDDLLWW,WWDWWLWWWWLDWW
-Atalanta,Udinese,2-0,/match/atalanta/udinese/2018,2018,30,serie_a,20,38,0,2,0,8,12,8,9,44,33,LWWDWDDWWWWDWWDLDLLLLLWDDWLLL,6,4,4,22,15,12,10,3,16,38,44,LWWWLWWWLLWWLLLWLWLDDLDWLWLWL,5,1,8,17,22,LWWDWWDWDLLWDL,WWWWLWLLLDLWWW
-Sassuolo,Napoli,1-1,/match/us-sassuolo-calcio/napoli/2018,2018,30,serie_a,20,38,1,1,1,18,7,7,15,19,49,DWWLLLWDLLWLLLWWLWDWDLWDWLDDL,2,5,7,6,18,2,23,4,2,63,19,LWLWLLWLDLWDWLLDLWLWLWLWWLLDW,12,2,0,30,7,DLLDLLLWWDLDLD,LLLLLLDLLLLLLD
-Chievo,Sampdoria,2-1,/match/chievo/sampdoria/2018,2018,30,serie_a,20,38,0,2,1,14,6,8,15,26,48,LLWDDLWDWLWDDWWDWLWDWLWLWWDWW,4,5,5,16,20,5,14,5,10,49,44,WLDDDWWWWWWLWWLDLWWWWLDWWWLWL,4,3,7,18,27,LDWWLDWDLDLLWD,LDDWWLWDWWLWLW
-Juventus,Milan,3-1,/match/juventus-fc/milan/2018,2018,30,serie_a,20,38,0,3,1,1,24,3,2,67,15,WLWLWWDLLWLWWWLDLWLLWLWLLWLWD,12,1,1,34,4,7,15,6,8,41,32,LWWWWWLWDLLLWDDWWLDWLWDLWLDLW,7,3,5,26,20,WWWWLWWWDWWWWW,LWWWLLWDWDLDLLL
-Benevento,Juventus,2-4,/match/benevento-calcio/juventus-fc/2018,2018,31,serie_a,20,38,2,2,4,20,4,1,25,24,69,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLW,4,1,10,17,30,1,25,3,2,70,16,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDW,12,2,1,33,11,LLLLLLLDLWWLWWL,LLDLLWLLLLLLLLD
-SPAL,Atalanta,1-1,/match/spal-1907/atalanta/2018,2018,31,serie_a,20,38,1,1,1,15,5,11,14,29,51,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDD,3,6,5,16,24,8,13,8,9,46,33,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLW,6,4,5,22,18,WLLDLWDDDLDLWD,WDDWWWDLLLLDWLL
-Roma,Fiorentina,0-2,/match/roma/fiorentina/2018,2018,31,serie_a,20,38,2,0,2,4,18,6,6,50,24,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLD,9,1,5,25,15,9,13,8,9,42,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLW,6,4,5,21,16,LWWLWWWWWDLLWLW,WLWWLWDDDLWLDLL
-Sampdoria,Genoa,0-0,/match/sampdoria/genoa/2018,2018,31,serie_a,20,38,1,0,0,6,14,5,11,50,46,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLW,10,2,3,31,17,13,9,7,14,24,31,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWD,5,4,6,8,10,WDWWWWWLLWWDWWL,DWWLDWLLDDWLLWW
-Torino,Inter,1-0,/match/torino-fc/internazionale/2018,2018,31,serie_a,20,38,0,1,0,10,10,12,8,45,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLL,6,5,4,25,15,3,16,11,3,50,21,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLW,6,6,2,20,10,WDDLWDDLDWWWLWL,LLDLDLLDWDDWDL
-Napoli,Chievo,2-1,/match/napoli/chievo/2018,2018,31,serie_a,20,38,0,2,1,2,23,5,2,64,20,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWD,11,2,2,33,12,12,7,8,15,28,49,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWW,2,3,10,10,28,WWWDWWLDWWWWWLW,LWDLDWDWWWWWWWW
-Hellas Verona,Cagliari,1-0,/match/hellas-verona-fc/cagliari/2018,2018,31,serie_a,20,38,0,1,0,19,6,4,20,25,62,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLW,4,1,10,12,30,17,8,5,17,28,50,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLL,4,3,8,13,22,LLDLWLLLWLLLWWL,WWLWWWLDWLDDWWL
-Crotone,Bologna,1-0,/match/fc-crotone/bologna/2018,2018,31,serie_a,20,38,0,1,0,18,6,6,18,28,56,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLW,4,4,7,15,21,11,10,5,15,35,42,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDD,5,1,8,14,20,LDLWDWLLWLDDLWL,LWLLWWLWLWWWWD
-Udinese,Lazio,1-2,/match/udinese/lazio/2018,2018,31,serie_a,20,38,2,1,2,14,10,3,17,38,46,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLW,5,2,8,21,22,5,17,6,7,73,39,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDW,9,3,3,35,22,LWLWLWLLWWDDLLL,LLLLLLWLDDLWWLD
-Milan,Sassuolo,1-1,/match/milan/us-sassuolo-calcio/2018,2018,31,serie_a,20,38,1,1,1,7,15,6,9,42,35,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWW,8,3,3,15,12,16,7,8,15,20,50,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLD,5,2,8,13,31,WWWLDLDWLWWWDW,WWLWLWLWLDWWWDL
-Cagliari,Udinese,2-1,/match/cagliari/udinese/2018,2018,32,serie_a,20,38,0,2,1,18,8,5,18,28,51,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLW,4,2,9,15,28,14,10,3,18,39,48,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWL,5,1,9,17,24,WLLLWWLDLLLWLDL,WWWWLWLLLDLWWWW
-Genoa,Crotone,1-0,/match/genoa/fc-crotone/2018,2018,32,serie_a,20,38,0,1,0,13,9,8,14,24,31,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDD,4,3,8,16,21,16,7,6,18,29,56,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWW,2,2,11,13,35,LLDLLLDLWWLWWLD,WWDWWLWWWWLDWWW
-Chievo,Torino,0-0,/match/chievo/torino-fc/2018,2018,32,serie_a,20,38,1,0,0,12,7,8,16,29,51,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWW,5,5,5,18,21,10,11,12,8,46,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLW,4,7,4,20,23,LDWWLDWDLDLLWDW,DLLWDWDDLDDDWWL
-Atalanta,Inter,0-0,/match/atalanta/internazionale/2018,2018,32,serie_a,20,38,1,0,0,9,13,9,9,47,34,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWD,7,4,4,24,15,3,16,11,4,50,22,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWW,6,6,3,20,11,LWWDWWDWDLLWDLW,LLDLDLLDWDDWDLW
-Fiorentina,SPAL,0-0,/match/fiorentina/spal-1907/2018,2018,32,serie_a,20,38,1,0,0,8,14,8,9,44,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWL,7,4,4,21,17,15,5,12,14,30,52,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDD,2,5,9,13,27,LWDWWLWDDDLLWWW,DWWWWDWWLWDWWLDD
-Sassuolo,Benevento,2-2,/match/us-sassuolo-calcio/benevento-calcio/2018,2018,32,serie_a,20,38,1,2,2,17,7,9,15,21,51,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDD,2,6,7,7,19,20,4,1,26,26,73,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWL,0,0,15,7,39,DLLDLLLWWDLDLDD,WWWWWWWWWWWWWWW
-Milan,Napoli,0-0,/match/milan/napoli/2018,2018,32,serie_a,20,38,1,0,0,7,15,7,9,43,36,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWD,8,4,3,16,13,2,24,5,2,66,21,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDW,12,3,0,31,8,WWWLDLDWLWWWDWD,LLLLLLDLLLLLLDD
-Bologna,Hellas Verona,2-0,/match/bologna/hellas-verona-fc/2018,2018,32,serie_a,20,38,0,2,0,11,10,5,16,35,43,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDW,5,4,7,21,22,19,7,4,20,26,62,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWW,2,3,10,13,32,DLDWLLWDLLWLWWLD,DWDWWWLDWWLWWWW
-Juventus,Sampdoria,3-0,/match/juventus-fc/sampdoria/2018,2018,32,serie_a,20,38,0,3,0,1,26,3,2,74,18,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWL,13,1,1,37,5,6,14,6,11,50,46,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWD,4,3,8,19,29,WWWWLWWWDWWWWWW,LDDWWLWDWWLWLWW
-Lazio,Roma,0-0,/match/lazio/roma/2018,2018,32,serie_a,20,38,1,0,0,5,18,6,7,75,40,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWL,8,3,4,38,17,4,18,6,7,50,26,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDL,9,5,1,25,9,DWLWWWDLWWLWLDW,LDLLLLDDWDLLLLD
-Inter,Cagliari,4-0,/match/internazionale/cagliari/2018,2018,33,serie_a,20,38,0,4,0,3,16,12,4,50,22,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWD,10,5,1,30,11,17,9,5,18,30,52,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWW,4,3,9,13,23,WWWWWDWWLDDDWWDW,WWLWWWLDWLDDWWLW
-Benevento,Atalanta,0-3,/match/benevento-calcio/atalanta/2018,2018,33,serie_a,20,38,2,0,3,20,4,2,26,28,75,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLD,4,1,11,19,34,9,13,10,9,47,34,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDD,6,5,5,23,19,LLLLLLLDLWWLWWLL,WDDWWWDLLLLDWLLD
-Hellas Verona,Sassuolo,0-1,/match/hellas-verona-fc/us-sassuolo-calcio/2018,2018,33,serie_a,20,38,2,0,1,19,7,4,21,26,64,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWW,5,1,10,13,30,16,7,10,15,23,53,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDD,5,3,8,14,32,LLDLWLLLWLLLWWLW,WWLWLWLWLDWWWDLD
-Torino,Milan,1-1,/match/torino-fc/milan/2018,2018,33,serie_a,20,38,1,1,1,10,11,13,8,46,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWD,7,5,4,26,15,6,15,8,9,43,36,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDD,7,3,6,27,23,WDDLWDDLDWWWLWLW,LWWWLLWDWDLDLLLW
-Fiorentina,Lazio,3-4,/match/fiorentina/lazio/2018,2018,33,serie_a,20,38,2,3,4,8,14,9,9,44,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLD,7,5,4,21,17,4,18,7,7,75,40,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLD,10,3,3,37,23,LWDWWLWDDDLLWWWD,LLLLLLWLDDLWWLDL
-Crotone,Juventus,1-1,/match/fc-crotone/juventus-fc/2018,2018,33,serie_a,20,38,1,1,1,18,7,6,19,29,57,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWW,5,4,7,16,21,1,27,3,2,77,18,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLW,13,2,1,37,13,LDLWDWLLWLDDLWLW,LLDLLWLLLLLLLLDL
-Roma,Genoa,2-1,/match/roma/genoa/2018,2018,33,serie_a,20,38,0,2,1,5,18,7,7,50,26,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLD,9,1,6,25,17,12,10,8,14,25,31,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDW,5,5,6,8,10,LWWLWWWWWDLLWLWL,DWWLDWLLDDWLLWWD
-SPAL,Chievo,0-0,/match/spal-1907/chievo/2018,2018,33,serie_a,20,38,1,0,0,14,5,13,14,30,52,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDD,3,7,5,17,25,13,7,9,16,29,51,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWD,2,3,11,11,30,WLLDLWDDDLDLWDD,LWDLDWDWWWWWWWWW
-Sampdoria,Bologna,1-0,/match/sampdoria/bologna/2018,2018,33,serie_a,20,38,0,1,0,7,14,6,12,50,49,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDW,10,3,3,31,17,11,11,5,16,37,43,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWW,5,1,9,14,21,WDWWWWWLLWWDWWLD,LWLLWWLWLWWWWDW
-Napoli,Udinese,4-2,/match/napoli/udinese/2018,2018,33,serie_a,20,38,0,4,2,2,24,6,2,66,21,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWD,12,2,2,35,13,15,10,3,19,40,50,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLW,5,1,10,18,26,WWWDWWLDWWWWWLWW,WWWWLWLLLDLWWWWW
-SPAL,Roma,0-3,/match/spal-1907/roma/2018,2018,34,serie_a,20,38,2,0,3,14,5,14,14,30,52,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDD,3,8,5,17,25,4,19,7,7,52,27,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDW,9,6,1,25,9,WLLDLWDDDLDLWDDD,LDLLLLDDWDLLLLDD
-Sassuolo,Fiorentina,1-0,/match/us-sassuolo-calcio/fiorentina/2018,2018,34,serie_a,20,38,0,1,0,15,8,10,15,24,53,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDL,2,7,7,9,21,9,14,9,10,47,37,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDL,7,4,5,23,16,DLLDLLLWWDLDLDDD,WLWWLWDDDLWLDLLL
-Milan,Benevento,0-1,/match/milan/benevento-calcio/2018,2018,34,serie_a,20,38,2,0,1,7,15,9,9,44,37,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDD,8,5,3,16,13,20,4,2,27,28,78,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDL,0,1,15,9,41,WWWLDLDWLWWWDWDD,WWWWWWWWWWWWWWWD
-Cagliari,Bologna,0-0,/match/cagliari/bologna/2018,2018,34,serie_a,20,38,1,0,0,18,9,5,19,30,56,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWW,5,2,9,17,29,11,11,5,17,37,44,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWW,5,1,10,14,22,WLLLWWLDLLLWLDLW,LWLLWWLWLWWWWDWW
-Lazio,Sampdoria,4-0,/match/lazio/sampdoria/2018,2018,34,serie_a,20,38,0,4,0,5,19,7,7,79,43,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDL,8,4,4,38,17,6,15,6,12,51,49,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWW,4,3,9,19,32,DWLWWWDLWWLWLDWD,LDDWWLWDWWLWLWWW
-Chievo,Inter,1-2,/match/chievo/internazionale/2018,2018,34,serie_a,20,38,2,1,2,13,7,10,16,29,51,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDD,5,6,5,18,21,3,17,12,4,54,22,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDW,6,7,3,20,11,LDWWLDWDLDLLWDWD,LLDLDLLDWDDWDLWD
-Udinese,Crotone,1-2,/match/udinese/fc-crotone/2018,2018,34,serie_a,20,38,2,1,2,17,10,3,20,42,54,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWW,5,2,9,22,24,16,7,7,19,30,58,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWD,2,2,12,13,36,LWLWLWLLWWDDLLLL,WWDWWLWWWWLDWWWW
-Atalanta,Torino,2-1,/match/atalanta/torino-fc/2018,2018,34,serie_a,20,38,0,2,1,8,14,10,9,50,34,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDL,7,5,4,24,15,10,11,14,8,47,39,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDD,4,8,4,20,23,LWWDWWDWDLLWDLWD,DLLWDWDDLDDDWWLD
-Juventus,Napoli,0-1,/match/juventus-fc/napoli/2018,2018,34,serie_a,20,38,2,0,1,1,27,4,2,78,19,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWD,14,1,1,40,5,2,25,6,2,70,23,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDW,12,4,0,31,8,WWWWLWWWDWWWWWWW,LLLLLLDLLLLLLDDD
-Genoa,Hellas Verona,3-1,/match/genoa/hellas-verona-fc/2018,2018,34,serie_a,20,38,0,3,1,12,10,8,15,26,33,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWW,5,3,8,17,21,19,7,4,22,26,65,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWL,2,3,11,13,34,LLDLLLDLWWLWWLDW,DWDWWWLDWWLWWWWW
-Roma,Chievo,4-1,/match/roma/chievo/2018,2018,35,serie_a,20,38,0,4,1,5,20,7,7,55,27,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWL,10,1,6,27,18,14,7,10,17,30,53,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDL,2,4,11,11,30,LWWLWWWWWDLLWLWLW,LWDLDWDWWWWWWWWWD
-Inter,Juventus,2-3,/match/internazionale/juventus-fc/2018,2018,35,serie_a,20,38,2,2,3,3,18,12,4,56,23,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWL,11,5,1,34,11,1,27,4,3,78,20,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDL,13,3,1,38,14,WWWWWDWWLDDDWWDWW,LLDLLWLLLLLLLLDLD
-Crotone,Sassuolo,4-1,/match/fc-crotone/us-sassuolo-calcio/2018,2018,35,serie_a,20,38,0,4,1,16,8,7,19,32,59,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDL,5,5,7,17,22,13,9,10,15,25,53,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLW,6,3,8,15,32,LDLWDWLLWLDDLWLWD,WWLWLWLWLDWWWDLDL
-Sampdoria,Cagliari,4-1,/match/sampdoria/cagliari/2018,2018,35,serie_a,20,38,0,4,1,6,15,6,13,51,53,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWW,11,3,3,32,17,17,9,6,19,30,56,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWD,4,3,10,13,27,WDWWWWWLLWWDWWLDW,WWLWWWLDWLDDWWLWW
-Hellas Verona,SPAL,1-3,/match/hellas-verona-fc/spal-1907/2018,2018,35,serie_a,20,38,2,1,3,19,7,4,23,27,68,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLW,5,1,11,13,31,15,5,14,15,30,55,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDL,2,6,9,13,27,LLDLWLLLWLLLWWLWL,DWWWWDWWLWDWWLDDD
-Bologna,Milan,1-2,/match/bologna/milan/2018,2018,35,serie_a,20,38,2,1,2,12,11,6,17,37,44,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWD,6,4,7,23,22,8,15,9,10,44,38,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDL,7,4,6,28,24,DLDWLLWDLLWLWWLDW,LWWWLLWDWDLDLLLWD
-Atalanta,Genoa,3-1,/match/atalanta/genoa/2018,2018,35,serie_a,20,38,0,3,1,7,15,10,9,52,35,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLW,8,5,4,26,16,11,11,8,15,29,34,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWW,5,5,7,9,12,LWWDWWDWDLLWDLWDW,DWWLDWLLDDWLLWWDW
-Benevento,Udinese,3-3,/match/benevento-calcio/udinese/2018,2018,35,serie_a,20,38,1,3,3,20,5,2,27,29,78,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLL,4,1,12,19,37,18,10,3,21,43,56,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWL,5,1,11,20,30,LLLLLLLDLWWLWWLLL,WWWWLWLLLDLWWWWWW
-Fiorentina,Napoli,3-0,/match/fiorentina/napoli/2018,2018,35,serie_a,20,38,0,3,0,9,14,9,11,47,38,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLW,7,5,5,24,21,2,26,6,2,71,23,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWL,13,4,0,32,8,LWDWWLWDDDLLWWWDL,LLLLLLDLLLLLLDDDL
-Torino,Lazio,0-1,/match/torino-fc/lazio/2018,2018,35,serie_a,20,38,2,0,1,10,11,14,9,48,41,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDW,7,6,4,27,16,4,20,7,7,83,43,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLW,11,3,3,41,26,WDDLWDDLDWWWLWLWD,LLLLLLWLDDLWWLDLL
-Milan,Hellas Verona,4-1,/match/milan/hellas-verona-fc/2018,2018,36,serie_a,20,38,0,4,1,8,16,9,10,46,39,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDLL,8,5,4,16,14,19,7,4,24,28,71,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLWL,2,3,12,14,37,WWWLDLDWLWWWDWDDL,DWDWWWLDWWLWWWWWW
-Juventus,Bologna,3-1,/match/juventus-fc/bologna/2018,2018,36,serie_a,20,38,0,3,1,1,28,4,3,81,22,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDLL,14,1,2,40,6,12,11,6,18,38,46,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWDL,5,2,10,14,22,WWWWLWWWDWWWWWWWL,LWLLWWLWLWWWWDWWD
-Udinese,Inter,0-4,/match/udinese/internazionale/2018,2018,36,serie_a,20,38,2,0,4,18,10,4,21,46,59,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWLD,5,2,10,23,26,3,18,12,5,58,26,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWLL,7,7,3,22,12,LWLWLWLLWWDDLLLLL,LLDLDLLDWDDWDLWDL
-Lazio,Atalanta,1-1,/match/lazio/atalanta/2018,2018,36,serie_a,20,38,1,1,1,5,21,7,7,84,43,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLWL,9,4,4,42,17,7,16,10,9,55,36,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLWW,7,5,5,26,19,DWLWWWDLWWLWLDWDW,WDDWWWDLLLLDWLLDL
-Genoa,Fiorentina,2-3,/match/genoa/fiorentina/2018,2018,36,serie_a,20,38,2,2,3,11,11,8,16,30,37,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWWW,6,3,8,20,22,9,15,9,11,50,38,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLWW,7,4,6,23,17,LLDLLLDLWWLWWLDWW,WLWWLWDDDLWLDLLLW
-Chievo,Crotone,2-1,/match/chievo/fc-crotone/2018,2018,36,serie_a,20,38,0,2,1,15,7,10,18,31,57,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDLW,5,6,6,19,23,13,9,7,19,36,60,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDLW,3,2,12,15,37,LDWWLDWDLDLLWDWDL,WWDWWLWWWWLDWWWWL
-SPAL,Benevento,2-0,/match/spal-1907/benevento-calcio/2018,2018,36,serie_a,20,38,0,2,0,16,6,14,15,33,56,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDLL,3,8,6,17,28,20,5,3,27,32,81,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLLD,1,1,15,10,41,WLLDLWDDDLDLWDDDL,WWWWWWWWWWWWWWWDL
-Napoli,Torino,2-2,/match/napoli/torino-fc/2018,2018,36,serie_a,20,38,1,2,2,2,26,6,3,71,26,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWLW,13,2,2,39,15,10,11,14,10,48,42,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDWL,4,8,5,21,25,WWWDWWLDWWWWWLWWW,DLLWDWDDLDDDWWLDW
-Sassuolo,Sampdoria,1-0,/match/us-sassuolo-calcio/sampdoria/2018,2018,36,serie_a,20,38,0,1,0,14,9,10,16,26,57,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLWW,3,7,7,10,21,6,16,6,13,55,54,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWWW,4,3,10,19,36,DLLDLLLWWDLDLDDDW,LDDWWLWDWWLWLWWWW
-Cagliari,Roma,0-1,/match/cagliari/roma/2018,2018,36,serie_a,20,38,2,0,1,17,9,6,20,31,60,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWDW,5,3,9,17,29,4,21,7,7,59,28,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWLW,10,6,1,28,9,WLLLWWLDLLLWLDLWD,LDLLLLDDWDLLLLDDL
-Benevento,Genoa,1-0,/match/benevento-calcio/genoa/2018,2018,37,serie_a,20,38,0,1,0,20,5,3,28,32,83,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLLDW,4,2,12,22,40,12,11,8,17,32,40,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWWWL,5,5,8,10,15,LLLLLLLDLWWLWWLLLD,DWWLDWLLDDWLLWWDWW
-Inter,Sassuolo,1-2,/match/internazionale/us-sassuolo-calcio/2018,2018,37,serie_a,20,38,2,1,2,3,19,12,5,62,26,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWLLL,11,5,2,36,14,11,10,10,16,27,57,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLWWW,6,3,9,16,36,WWWWWDWWLDDDWWDWWL,WWLWLWLWLDWWWDLDLW
-Fiorentina,Cagliari,0-1,/match/fiorentina/cagliari/2018,2018,37,serie_a,20,38,2,0,1,9,16,9,11,53,40,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLWWL,8,5,5,27,21,17,9,6,21,31,61,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWDWL,4,3,11,14,31,LWDWWLWDDDLLWWWDLW,WWLWWWLDWLDDWWLWWW
-Torino,SPAL,2-1,/match/torino-fc/spal-1907/2018,2018,37,serie_a,20,38,0,2,1,10,11,15,10,50,44,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDWLD,7,6,5,27,17,15,7,14,15,35,56,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDLLW,3,6,9,16,28,WDDLWDDLDWWWLWLWDL,DWWWWDWWLWDWWLDDDL
-Hellas Verona,Udinese,0-1,/match/hellas-verona-fc/udinese/2018,2018,37,serie_a,20,38,2,0,1,19,7,4,25,29,75,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLWLW,5,1,12,14,34,18,10,4,22,46,63,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWLDL,5,2,11,23,33,LLDLWLLLWLLLWWLWLL,WWWWLWLLLDLWWWWWWD
-Crotone,Lazio,2-2,/match/fc-crotone/lazio/2018,2018,37,serie_a,20,38,1,2,2,16,9,7,20,37,62,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDLWW,6,5,7,21,23,5,21,8,7,85,44,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLWLD,12,3,3,42,26,LDLWDWLLWLDDLWLWDW,LLLLLLWLDDLWWLDLLL
-Bologna,Chievo,1-2,/match/bologna/chievo/2018,2018,37,serie_a,20,38,2,1,2,13,11,6,19,39,49,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWDLW,6,4,8,24,24,14,8,10,18,33,58,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDLWW,2,4,12,12,34,DLDWLLWDLLWLWWLDWL,LWDLDWDWWWWWWWWWDW
-Atalanta,Milan,1-1,/match/atalanta/milan/2018,2018,37,serie_a,20,38,1,1,1,6,16,11,9,56,37,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLWWD,9,5,4,29,17,7,17,9,10,50,40,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDLLW,8,4,6,30,25,LWWDWWDWDLLWDLWDWW,LWWWLLWDWDLDLLLWDL
-Sampdoria,Napoli,0-2,/match/sampdoria/napoli/2018,2018,37,serie_a,20,38,2,0,2,8,16,6,14,55,55,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWWWW,12,3,3,36,18,2,26,7,3,73,28,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWLWD,13,4,1,32,11,WDWWWWWLLWWDWWLDWW,LLLLLLDLLLLLLDDDLW
-Roma,Juventus,0-0,/match/roma/juventus-fc/2018,2018,37,serie_a,20,38,1,0,0,4,22,7,7,60,28,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWLWL,11,1,6,31,19,1,29,4,3,84,23,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDLLW,14,3,1,41,16,LWWLWWWWWDLLWLWLWW,LLDLLWLLLLLLLLDLDL
-Juventus,Hellas Verona,2-1,/match/juventus-fc/hellas-verona-fc/2018,2018,38,serie_a,20,38,0,2,1,1,29,5,3,84,23,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDLLWD,15,1,2,43,7,19,7,4,26,29,76,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLWLWL,2,3,13,15,41,WWWWLWWWDWWWWWWWLW,DWDWWWLDWWLWWWWWWW
-Genoa,Torino,1-2,/match/genoa/torino-fc/2018,2018,38,serie_a,20,38,2,1,2,13,11,8,18,32,41,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWWWLW,6,3,9,22,25,10,12,15,10,52,45,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDWLDW,4,9,5,23,27,LLDLLLDLWWLWWLDWWL,DLLWDWDDLDDDWWLDWD
-Udinese,Bologna,1-0,/match/udinese/bologna/2018,2018,38,serie_a,20,38,0,1,0,18,11,4,22,47,63,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWLDLL,5,2,11,23,30,14,11,6,20,40,51,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWDLWL,5,2,11,15,25,LWLWLWLLWWDDLLLLLL,LWLLWWLWLWWWWDWWDW
-Napoli,Crotone,2-1,/match/napoli/fc-crotone/2018,2018,38,serie_a,20,38,0,2,1,2,27,7,3,75,28,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWLWDL,13,3,2,41,17,16,9,8,20,39,64,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDLWWD,3,2,13,16,39,WWWDWWLDWWWWWLWWWD,WWDWWLWWWWLDWWWWLW
-Milan,Fiorentina,5-1,/match/milan/fiorentina/2018,2018,38,serie_a,20,38,0,5,1,7,17,10,10,51,41,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDLLWD,9,5,4,20,15,9,16,9,12,53,41,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLWWLL,8,4,6,26,19,WWWLDLDWLWWWDWDDLW,WLWWLWDDDLWLDLLLWL
-Chievo,Benevento,1-0,/match/chievo/benevento-calcio/2018,2018,38,serie_a,20,38,0,1,0,12,9,10,18,35,59,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDLWWL,6,6,6,21,24,20,6,3,28,33,83,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLLDWW,1,1,16,10,43,LDWWLDWDLDLLWDWDLW,WWWWWWWWWWWWWWWDLW
-SPAL,Sampdoria,3-1,/match/spal-1907/sampdoria/2018,2018,38,serie_a,20,38,0,3,1,15,7,14,16,36,58,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDLLWW,4,8,6,19,28,8,16,6,15,55,57,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWWWWL,4,3,11,19,37,WLLDLWDDDLDLWDDDLW,LDDWWLWDWWLWLWWWWW
-Cagliari,Atalanta,1-0,/match/cagliari/atalanta/2018,2018,38,serie_a,20,38,0,1,0,17,10,6,21,32,61,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWDWLL,5,3,10,17,30,6,16,12,9,57,38,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLWWDD,7,6,5,27,20,WLLLWWLDLLLWLDLWDL,WDDWWWDLLLLDWLLDLD
-Lazio,Inter,2-3,/match/lazio/internazionale/2018,2018,38,serie_a,20,38,2,2,3,5,21,9,7,87,46,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLWLDD,9,5,4,43,18,3,19,12,6,63,28,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWLLLL,8,7,3,26,12,DWLWWWDLWWLWLDWDWD,LLDLDLLDWDDWDLWDLL
-Sassuolo,Roma,0-1,/match/us-sassuolo-calcio/roma/2018,2018,38,serie_a,20,38,2,0,1,11,11,10,16,29,58,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLWWWL,4,7,7,11,21,4,22,8,7,60,28,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWLWLD,11,6,1,29,9,DLLDLLLWWDLDLDDDWW,LDLLLLDDWDLLLLDDLL
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Juventus,Cagliari,3-0,/match/juventus-fc/cagliari/2018,2018,1,serie_a,20,38,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Hellas Verona,Napoli,1-3,/match/hellas-verona-fc/napoli/2018,2018,1,serie_a,20,38,2,1,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Atalanta,Roma,0-1,/match/atalanta/roma/2018,2018,1,serie_a,20,38,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Crotone,Milan,0-3,/match/fc-crotone/milan/2018,2018,1,serie_a,20,38,2,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Inter,Fiorentina,3-0,/match/internazionale/fiorentina/2018,2018,1,serie_a,20,38,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Bologna,Torino,1-1,/match/bologna/torino-fc/2018,2018,1,serie_a,20,38,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,SPAL,0-0,/match/lazio/spal-1907/2018,2018,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Benevento,2-1,/match/sampdoria/benevento-calcio/2018,2018,1,serie_a,20,38,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sassuolo,Genoa,0-0,/match/us-sassuolo-calcio/genoa/2018,2018,1,serie_a,20,38,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Udinese,Chievo,1-2,/match/udinese/chievo/2018,2018,1,serie_a,20,38,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Benevento,Bologna,0-1,/match/benevento-calcio/bologna/2018,2018,2,serie_a,20,38,2,0,1,18,0,0,0,1,1,2,W,0,0,0,0,0,9,2,0,1,0,1,1,D,0,0,0,0,0,,
+Genoa,Juventus,2-4,/match/genoa/juventus-fc/2018,2018,2,serie_a,20,38,2,2,4,12,1,0,1,0,0,0,D,0,0,0,0,0,2,4,1,0,0,3,0,W,0,0,0,0,0,,
+Roma,Inter,1-3,/match/roma/internazionale/2018,2018,2,serie_a,20,38,2,1,3,4,2,1,0,0,1,0,L,0,0,0,0,0,1,4,1,0,0,3,0,W,0,0,0,0,0,,
+Torino,Sassuolo,3-0,/match/torino-fc/us-sassuolo-calcio/2018,2018,2,serie_a,20,38,0,3,0,11,1,0,1,0,1,1,D,0,0,0,0,0,7,2,0,1,0,0,0,D,0,0,0,0,0,,
+Fiorentina,Sampdoria,1-2,/match/fiorentina/sampdoria/2018,2018,2,serie_a,20,38,2,1,2,16,0,0,0,1,0,3,W,0,0,0,0,0,3,4,1,0,0,2,1,W,0,0,0,0,0,,
+Crotone,Hellas Verona,0-0,/match/fc-crotone/hellas-verona-fc/2018,2018,2,serie_a,20,38,1,0,0,14,0,0,0,1,0,3,L,0,0,1,0,3,20,0,0,0,1,1,3,L,0,0,0,0,0,L,
+Napoli,Atalanta,3-1,/match/napoli/atalanta/2018,2018,2,serie_a,20,38,0,3,1,5,2,1,0,0,3,1,L,0,0,0,0,0,19,0,0,0,1,0,1,L,0,0,0,0,0,,
+Chievo,Lazio,1-2,/match/chievo/lazio/2018,2018,2,serie_a,20,38,2,1,2,10,2,1,0,0,2,1,L,0,0,0,0,0,6,2,0,1,0,0,0,D,0,0,0,0,0,,
+SPAL,Udinese,3-2,/match/spal-1907/udinese/2018,2018,2,serie_a,20,38,0,3,2,13,1,0,1,0,0,0,D,0,0,0,0,0,15,0,0,0,1,1,2,L,0,0,0,0,0,,
+Milan,Cagliari,2-1,/match/milan/cagliari/2018,2018,2,serie_a,20,38,0,2,1,8,2,1,0,0,3,0,L,0,0,0,0,0,17,0,0,0,1,0,3,W,0,0,1,0,3,,W
+Juventus,Chievo,3-0,/match/juventus-fc/chievo/2018,2018,3,serie_a,20,38,0,3,0,5,6,2,0,0,7,2,WL,1,0,0,3,0,11,2,1,0,1,3,3,LL,1,0,0,2,1,W,L
+Inter,SPAL,2-0,/match/internazionale/spal-1907/2018,2018,3,serie_a,20,38,0,2,0,1,6,2,0,0,6,1,WL,1,0,0,3,0,6,5,1,1,0,3,2,DW,0,1,0,0,0,W,D
+Atalanta,Sassuolo,2-1,/match/atalanta/us-sassuolo-calcio/2018,2018,3,serie_a,20,38,0,2,1,20,0,0,0,2,1,4,LW,0,0,1,0,1,10,2,0,1,1,0,3,DW,0,0,1,0,3,L,W
+Hellas Verona,Fiorentina,0-5,/match/hellas-verona-fc/fiorentina/2018,2018,3,serie_a,20,38,2,0,5,15,1,0,1,1,1,3,LD,0,0,1,1,3,17,0,0,0,2,1,5,WL,0,0,1,0,3,L,W
+Cagliari,Crotone,1-0,/match/cagliari/fc-crotone/2018,2018,3,serie_a,20,38,0,1,0,18,0,0,0,2,1,5,WW,0,0,0,0,0,13,2,0,1,1,0,3,LD,0,0,0,0,0,,
+Udinese,Genoa,1-0,/match/udinese/genoa/2018,2018,3,serie_a,20,38,0,1,0,16,0,0,0,2,3,5,LW,0,0,1,1,2,14,1,0,1,1,2,4,DL,0,1,0,0,0,L,D
+Lazio,Milan,4-1,/match/lazio/milan/2018,2018,3,serie_a,20,38,0,4,1,9,4,1,1,0,2,1,DL,0,1,0,0,0,2,6,2,0,0,5,1,LW,1,0,0,3,0,D,L
+Benevento,Torino,0-1,/match/benevento-calcio/torino-fc/2018,2018,3,serie_a,20,38,2,0,1,19,0,0,0,2,1,3,WL,0,0,1,0,1,7,5,1,1,0,4,1,DW,0,1,0,1,1,L,D
+Bologna,Napoli,0-3,/match/bologna/napoli/2018,2018,3,serie_a,20,38,2,0,3,8,4,1,1,0,2,1,DL,0,1,0,1,1,4,6,2,0,0,6,2,LW,1,0,0,3,1,D,L
+Sampdoria,Roma,1-1,/match/sampdoria/roma/2018,2018,3,serie_a,20,38,1,1,1,3,6,2,0,0,4,2,WL,1,0,0,2,1,12,2,1,0,1,2,3,LL,1,0,0,1,0,W,L
+Crotone,Inter,0-2,/match/fc-crotone/internazionale/2018,2018,4,serie_a,20,38,2,0,2,14,2,0,1,2,0,4,LDW,0,1,1,0,3,1,10,3,0,0,8,1,WLW,1,0,0,3,1,LD,L
+Fiorentina,Bologna,2-1,/match/fiorentina/bologna/2018,2018,4,serie_a,20,38,0,2,1,16,2,1,0,2,6,5,WLL,0,0,1,1,2,12,4,1,1,1,2,4,DLL,1,0,0,1,0,L,L
+Roma,Hellas Verona,3-0,/match/roma/hellas-verona-fc/2018,2018,4,serie_a,20,38,0,3,0,13,3,1,1,1,3,4,LLD,0,0,1,1,3,19,1,0,1,2,1,8,LDL,0,1,0,0,0,L,D
+Sassuolo,Juventus,1-3,/match/us-sassuolo-calcio/juventus-fc/2018,2018,4,serie_a,20,38,2,1,3,15,2,0,1,2,1,5,DWW,0,1,0,0,0,2,10,3,0,0,10,2,WLW,1,0,0,4,2,D,L
+Torino,Sampdoria,2-2,/match/torino-fc/sampdoria/2018,2018,4,serie_a,20,38,1,2,2,6,7,2,1,0,5,1,DWL,1,0,0,3,0,3,8,2,1,0,5,3,WLD,1,0,0,2,1,W,L
+SPAL,Cagliari,0-2,/match/spal-1907/cagliari/2018,2018,4,serie_a,20,38,2,0,2,8,5,1,1,1,3,4,DWW,1,0,0,3,2,9,4,1,0,2,2,5,WWW,0,0,2,1,5,W,WW
+Napoli,Benevento,6-0,/match/napoli/benevento-calcio/2018,2018,4,serie_a,20,38,0,6,0,4,8,3,0,0,9,2,LWL,1,0,0,3,1,20,0,0,0,3,1,4,WLL,0,0,1,1,2,W,W
+Milan,Udinese,2-1,/match/milan/udinese/2018,2018,4,serie_a,20,38,0,2,1,7,6,2,0,1,6,5,LWW,1,0,0,2,1,10,4,1,0,2,4,5,LWW,0,0,1,2,3,W,W
+Chievo,Atalanta,1-1,/match/chievo/atalanta/2018,2018,4,serie_a,20,38,1,1,1,17,2,1,0,2,3,6,LLW,0,0,1,1,2,11,4,1,0,2,3,5,LWW,0,0,1,1,3,L,W
+Genoa,Lazio,2-3,/match/genoa/lazio/2018,2018,4,serie_a,20,38,2,2,3,18,1,0,1,2,2,5,DLW,0,0,1,2,4,5,8,2,1,0,6,2,DLW,1,0,0,2,1,L,L
+Bologna,Inter,1-1,/match/bologna/internazionale/2018,2018,5,serie_a,20,38,1,1,1,13,4,1,1,2,3,6,DLLW,0,1,1,1,4,1,12,4,0,0,10,1,WLWL,2,0,0,5,1,DL,LL
+Benevento,Roma,0-4,/match/benevento-calcio/roma/2018,2018,5,serie_a,20,38,2,0,4,20,0,0,0,4,1,10,WLLW,0,0,2,0,2,8,7,2,1,1,6,4,LLDW,1,1,0,2,1,LL,LD
+Atalanta,Crotone,5-1,/match/atalanta/fc-crotone/2018,2018,5,serie_a,20,38,0,5,1,11,5,1,1,2,4,6,LWWD,1,0,1,2,2,16,2,0,1,3,0,6,LDWL,0,0,1,0,1,LW,W
+Milan,SPAL,2-0,/match/milan/spal-1907/2018,2018,5,serie_a,20,38,0,2,0,5,10,3,0,1,8,6,LWWW,2,0,0,4,2,12,5,1,1,2,3,6,DWWL,0,1,1,0,2,WW,DW
+Lazio,Napoli,1-4,/match/lazio/napoli/2018,2018,5,serie_a,20,38,2,1,4,4,10,3,1,0,9,4,DLWL,1,1,0,4,1,3,12,4,0,0,15,2,LWLW,2,0,0,6,1,DW,LL
+Juventus,Fiorentina,1-0,/match/juventus-fc/fiorentina/2018,2018,5,serie_a,20,38,0,1,0,2,12,4,0,0,13,3,WLWL,2,0,0,6,0,9,6,2,0,2,8,6,WLLW,1,0,1,5,3,WW,WL
+Hellas Verona,Sampdoria,0-0,/match/hellas-verona-fc/sampdoria/2018,2018,5,serie_a,20,38,1,0,0,19,1,0,1,3,1,11,LDLW,0,0,2,1,8,6,9,2,2,0,7,5,WLDD,1,1,0,4,3,LL,LD
+Genoa,Chievo,1-1,/match/genoa/chievo/2018,2018,5,serie_a,20,38,1,1,1,18,1,0,1,3,4,8,DLWL,0,0,2,4,7,15,4,1,1,2,4,7,LLWD,1,0,1,2,4,LL,LW
+Cagliari,Sassuolo,0-1,/match/cagliari/us-sassuolo-calcio/2018,2018,5,serie_a,20,38,2,0,1,10,6,2,0,2,4,5,WWWL,1,0,0,1,0,17,2,0,1,3,2,8,DWWL,0,0,2,1,5,W,WW
+Udinese,Torino,2-3,/match/udinese/torino-fc/2018,2018,5,serie_a,20,38,2,2,3,14,4,1,0,3,5,7,LWWW,1,0,1,2,2,7,9,2,2,0,7,3,DWLD,1,1,0,2,1,LW,DL
+Roma,Udinese,3-1,/match/roma/udinese/2018,2018,6,serie_a,20,38,0,3,1,9,9,3,1,1,10,4,LLDWL,1,0,1,4,3,15,4,1,0,4,7,10,LWWWL,0,0,2,3,5,LW,WW
+SPAL,Napoli,2-3,/match/spal-1907/napoli/2018,2018,6,serie_a,20,38,2,2,3,13,5,1,1,3,3,8,DWWLW,1,0,1,3,4,2,14,5,0,0,19,3,LWLWL,3,0,0,10,2,WL,LLL
+Juventus,Torino,4-0,/match/juventus-fc/torino-fc/2018,2018,6,serie_a,20,38,0,4,0,1,16,5,0,0,14,3,WLWLW,3,0,0,7,0,5,11,3,2,0,10,5,DWLDL,2,1,0,5,3,WWW,DLL
+Sampdoria,Milan,2-0,/match/sampdoria/milan/2018,2018,6,serie_a,20,38,0,2,0,7,10,2,3,0,7,5,WLDDD,1,1,0,3,2,3,14,4,0,1,10,6,LWWWW,1,0,1,4,4,WD,LW
+Hellas Verona,Lazio,0-3,/match/hellas-verona-fc/lazio/2018,2018,6,serie_a,20,38,2,0,3,18,3,0,2,3,1,11,LDLWD,0,1,2,1,8,6,10,3,1,1,10,8,DLWLL,2,0,0,5,3,LLD,LL
+Inter,Genoa,1-0,/match/internazionale/genoa/2018,2018,6,serie_a,20,38,0,1,0,4,13,4,1,0,11,2,WLWLD,2,0,0,5,0,17,3,0,2,3,5,9,DLWLD,0,1,1,0,1,WW,DW
+Crotone,Benevento,2-0,/match/fc-crotone/benevento-calcio/2018,2018,6,serie_a,20,38,0,2,0,19,2,0,1,4,1,11,LDWLW,0,1,2,0,5,20,0,0,0,5,1,14,WLLWL,0,0,2,1,8,LDL,WW
+Cagliari,Chievo,0-2,/match/cagliari/chievo/2018,2018,6,serie_a,20,38,2,0,2,11,6,2,0,3,4,6,WWWLL,1,0,1,1,1,14,5,1,2,2,5,8,LLWDD,1,1,1,3,5,WL,LWD
+Sassuolo,Bologna,0-1,/match/us-sassuolo-calcio/bologna/2018,2018,6,serie_a,20,38,2,0,1,16,4,1,1,3,3,8,DWWLL,0,1,1,1,3,12,6,1,2,2,4,7,DLLWD,1,0,1,2,2,DL,LW
+Fiorentina,Atalanta,1-1,/match/fiorentina/atalanta/2018,2018,6,serie_a,20,38,1,1,1,10,6,2,0,3,8,7,WLLWW,1,0,1,3,3,8,9,2,1,2,9,7,LWWDW,0,1,1,2,4,LW,WD
+Udinese,Sampdoria,4-0,/match/udinese/sampdoria/2018,2018,7,serie_a,20,38,0,4,0,16,4,1,0,5,8,13,LWWWLW,1,0,2,4,5,5,14,3,3,0,9,5,WLDDDW,1,2,0,4,3,LWL,LDD
+Genoa,Bologna,0-1,/match/genoa/bologna/2018,2018,7,serie_a,20,38,2,0,1,18,3,0,2,4,5,10,DLWLDW,0,1,2,5,8,11,8,2,2,2,5,7,DLLWDL,2,0,1,3,2,LLD,LWL
+Napoli,Cagliari,3-0,/match/napoli/cagliari/2018,2018,7,serie_a,20,38,0,3,0,3,16,6,0,0,22,5,LWLWLL,2,0,0,9,1,14,6,2,0,4,4,8,WWWLLL,1,0,2,3,5,WW,WWL
+Benevento,Inter,1-2,/match/benevento-calcio/internazionale/2018,2018,7,serie_a,20,38,2,1,2,20,0,0,0,6,1,16,WLLWLW,0,0,3,0,6,2,17,5,1,0,12,2,WLWLDW,2,1,0,6,2,LLL,LLD
+Chievo,Fiorentina,2-1,/match/chievo/fiorentina/2018,2018,7,serie_a,20,38,0,2,1,12,7,2,2,2,7,8,LLWDDL,0,1,1,2,3,10,8,2,1,3,9,8,WLLWWD,1,0,2,5,4,LD,WLW
+Lazio,Sassuolo,6-1,/match/lazio/us-sassuolo-calcio/2018,2018,7,serie_a,20,38,0,6,1,7,12,4,1,1,13,8,DLWLLL,1,1,1,5,5,17,4,1,1,4,3,9,DWWLLL,1,0,2,2,5,DWL,WWL
+Torino,Hellas Verona,2-2,/match/torino-fc/hellas-verona-fc/2018,2018,7,serie_a,20,38,1,2,2,8,11,3,2,1,10,9,DWLDLW,1,1,0,5,2,19,3,0,2,4,1,14,LDLWDL,0,1,1,0,3,WD,DW
+SPAL,Crotone,1-1,/match/spal-1907/fc-crotone/2018,2018,7,serie_a,20,38,1,1,1,15,5,1,1,4,5,11,DWWLWL,1,0,2,5,7,13,6,1,1,4,3,11,LDWLWW,0,0,2,1,6,WLL,WW
+Milan,Roma,0-2,/match/milan/roma/2018,2018,7,serie_a,20,38,2,0,2,4,14,4,0,2,10,8,LWWWWW,3,0,0,6,2,6,13,4,1,1,13,5,LLDWLW,2,1,0,6,1,WWW,LDL
+Atalanta,Juventus,2-2,/match/atalanta/juventus-fc/2018,2018,7,serie_a,20,38,1,2,2,9,10,2,2,2,10,8,LWWDWD,2,0,1,7,3,1,20,6,0,0,18,3,WLWLWW,2,0,0,7,3,LWW,LL
+Juventus,Lazio,1-2,/match/juventus-fc/lazio/2018,2018,8,serie_a,20,38,2,1,2,1,21,6,1,0,20,5,WLWLWWD,4,0,0,11,0,4,16,5,1,1,19,9,DLWLLLW,3,0,0,8,3,WWWW,LLL
+Roma,Napoli,0-1,/match/roma/napoli/2018,2018,8,serie_a,20,38,2,0,1,5,15,5,1,1,15,5,LLDWLWL,2,0,1,7,4,2,20,7,0,0,25,5,LWLWLLW,4,0,0,13,4,LWW,LLLL
+Fiorentina,Udinese,2-1,/match/fiorentina/udinese/2018,2018,8,serie_a,20,38,0,2,1,12,8,2,1,4,10,10,WLLWWDW,1,1,1,4,4,13,8,2,0,5,12,13,LWWWLWW,0,0,3,4,8,LWD,WWW
+Bologna,SPAL,2-1,/match/bologna/spal-1907/2018,2018,8,serie_a,20,38,0,2,1,11,10,3,2,2,6,7,DLLWDLL,0,2,1,2,5,15,7,1,2,4,6,12,DWWLWLD,0,1,2,0,4,DLD,DWW
+Sampdoria,Atalanta,3-1,/match/sampdoria/atalanta/2018,2018,8,serie_a,20,38,0,3,1,7,14,3,3,1,9,9,WLDDDWW,2,1,0,5,2,9,12,2,3,2,12,10,LWWDWDD,0,2,1,3,5,WDW,WDD
+Sassuolo,Chievo,0-0,/match/us-sassuolo-calcio/chievo/2018,2018,8,serie_a,20,38,1,0,0,17,4,1,1,5,4,15,DWWLLLW,0,1,2,1,4,10,11,3,2,2,9,9,LLWDDLW,2,1,1,5,5,DLL,LWDL
+Crotone,Torino,2-2,/match/fc-crotone/torino-fc/2018,2018,8,serie_a,20,38,1,2,2,14,7,1,2,4,4,12,LDWLWWD,1,1,2,2,5,8,13,3,3,1,12,11,DWLDLWD,2,1,1,5,7,LDLW,DLLW
+Cagliari,Genoa,2-3,/match/cagliari/genoa/2018,2018,8,serie_a,20,38,2,2,3,16,6,2,0,5,4,11,WWWLLLW,1,0,2,1,3,19,3,0,2,5,5,11,DLWLDWL,0,1,2,0,2,WLL,DWW
+Inter,Milan,3-2,/match/internazionale/milan/2018,2018,8,serie_a,20,38,0,3,2,3,19,6,1,0,14,3,WLWLDWL,3,0,0,6,0,6,14,4,0,3,10,10,LWWWWWL,1,0,2,4,6,WWW,LWW
+Hellas Verona,Benevento,1-0,/match/hellas-verona-fc/benevento-calcio/2018,2018,8,serie_a,20,38,0,1,0,18,4,0,3,4,3,16,LDLWDLD,0,1,3,1,11,20,0,0,0,7,2,18,WLLWLWL,0,0,3,1,10,LLDL,WWW
+Sampdoria,Crotone,5-0,/match/sampdoria/fc-crotone/2018,2018,9,serie_a,20,38,0,5,0,5,18,4,3,1,12,10,WLDDDWWW,3,1,0,8,3,13,9,1,3,4,6,14,LDWLWWDD,0,1,2,2,7,WDWW,WWD
+Napoli,Inter,0-0,/match/napoli/internazionale/2018,2018,9,serie_a,20,38,1,0,0,2,22,8,0,0,26,5,LWLWLLWL,3,0,0,12,1,1,23,7,1,0,17,5,WLWLDWLW,3,1,0,8,3,WWW,LLDL
+Chievo,Hellas Verona,3-2,/match/chievo/hellas-verona-fc/2018,2018,9,serie_a,20,38,0,3,2,11,12,3,3,2,9,9,LLWDDLWD,1,1,1,4,4,15,8,1,3,4,4,16,LDLWDLDW,0,2,1,2,5,LDW,DWD
+Torino,Roma,0-1,/match/torino-fc/roma/2018,2018,9,serie_a,20,38,2,0,1,7,14,3,4,1,14,13,DWLDLWDD,1,2,0,7,4,6,15,5,1,2,15,6,LLDWLWLL,3,1,0,8,1,WDD,LDLL
+SPAL,Sassuolo,0-1,/match/spal-1907/us-sassuolo-calcio/2018,2018,9,serie_a,20,38,2,0,1,16,7,1,2,5,7,14,DWWLWLDW,1,1,2,6,8,18,6,1,2,5,4,15,DWWLLLWD,1,0,3,3,11,WLLD,WWLW
+Atalanta,Bologna,1-0,/match/atalanta/bologna/2018,2018,9,serie_a,20,38,0,1,0,10,12,2,3,3,13,13,LWWDWDDW,2,1,1,9,5,8,14,4,2,2,8,8,DLLWDLLW,3,0,1,4,2,LWWD,LWLL
+Milan,Genoa,0-0,/match/milan/genoa/2018,2018,9,serie_a,20,38,1,0,0,9,14,4,0,4,12,13,LWWWWWLW,3,0,1,6,4,19,5,1,2,5,8,13,DLWLDWLL,1,1,2,3,4,WWWL,DWWL
+Benevento,Fiorentina,0-3,/match/benevento-calcio/fiorentina/2018,2018,9,serie_a,20,38,2,0,3,20,0,0,0,8,2,19,WLLWLWLW,0,0,4,1,8,12,12,3,1,4,12,11,WLLWWDWW,1,0,3,6,6,LLLL,WLWW
+Udinese,Juventus,2-6,/match/udinese/juventus-fc/2018,2018,9,serie_a,20,38,2,2,6,14,8,2,0,6,13,15,LWWWLWWW,2,0,2,8,5,3,21,6,1,1,21,7,WLWLWWDL,2,1,0,9,5,LWLW,LLD
+Lazio,Cagliari,3-0,/match/lazio/cagliari/2018,2018,9,serie_a,20,38,0,3,0,4,18,6,1,1,21,10,DLWLLLWL,2,1,1,11,6,17,6,2,0,6,6,14,WWWLLLWL,1,0,3,3,8,DWLW,WWLW
+Inter,Sampdoria,3-2,/match/internazionale/sampdoria/2018,2018,10,serie_a,20,38,0,3,2,1,24,7,2,0,17,5,WLWLDWLWD,4,0,0,9,2,5,22,5,3,1,17,10,WLDDDWWWW,1,2,1,4,7,WWWW,LDDW
+Atalanta,Hellas Verona,3-0,/match/atalanta/hellas-verona-fc/2018,2018,10,serie_a,20,38,0,3,0,8,16,3,3,3,14,13,LWWDWDDWW,3,1,1,10,5,15,8,1,3,5,6,19,LDLWDLDWW,0,2,2,4,8,LWWDW,DWDW
+Roma,Crotone,1-0,/match/roma/fc-crotone/2018,2018,10,serie_a,20,38,0,1,0,6,17,6,1,2,16,6,LLDWLWLLL,2,0,2,7,5,13,9,1,3,5,6,19,LDWLWWDDW,0,1,3,2,12,LWWL,WWDW
+Juventus,SPAL,4-1,/match/juventus-fc/spal-1907/2018,2018,10,serie_a,20,38,0,4,1,3,23,7,1,1,27,9,WLWLWWDLL,4,0,1,12,2,17,7,1,2,6,7,15,DWWLWLDWL,0,1,3,1,6,WWWWL,DWWW
+Genoa,Napoli,2-3,/match/genoa/napoli/2018,2018,10,serie_a,20,38,2,2,3,19,6,1,3,5,8,13,DLWLDWLLD,0,1,3,5,9,2,24,8,1,0,26,5,LWLWLLWLD,5,0,0,14,4,LLDL,LLLLL
+Fiorentina,Torino,3-0,/match/fiorentina/torino-fc/2018,2018,10,serie_a,20,38,0,3,0,12,14,4,1,4,15,11,WLLWWDWWL,2,1,1,6,5,11,14,3,4,2,14,14,DWLDLWDDL,2,2,1,7,9,LWDW,DLLWD
+Chievo,Milan,1-4,/match/chievo/milan/2018,2018,10,serie_a,20,38,2,1,4,9,16,4,3,2,12,11,LLWDDLWDW,2,1,1,7,6,7,16,4,1,4,12,13,LWWWWWLWD,1,0,3,6,9,LDWW,LWWW
+Cagliari,Benevento,2-1,/match/cagliari/benevento-calcio/2018,2018,10,serie_a,20,38,0,2,1,18,6,2,0,7,6,17,WWWLLLWLW,1,0,3,3,6,20,0,0,0,9,2,22,WLLWLWLWL,0,0,4,1,11,WLLL,WWWW
+Bologna,Lazio,1-2,/match/bologna/lazio/2018,2018,10,serie_a,20,38,2,1,2,10,14,4,2,3,8,9,DLLWDLLWW,1,2,1,4,6,4,22,7,1,1,24,10,DLWLLLWLW,4,0,0,10,4,DLDW,LLLL
+Sassuolo,Udinese,0-1,/match/us-sassuolo-calcio/udinese/2018,2018,10,serie_a,20,38,2,0,1,16,8,2,2,5,5,15,DWWLLLWDL,0,2,2,1,4,14,8,2,0,7,15,21,LWWWLWWWL,0,0,4,5,10,DLLD,WWWW
+Milan,Juventus,0-2,/match/milan/juventus-fc/2018,2018,11,serie_a,20,38,2,0,2,8,18,5,1,4,16,14,LWWWWWLWDL,3,1,1,6,4,2,27,8,1,1,31,10,WLWLWWDLLW,3,1,0,15,7,WWWLD,LLDL
+Roma,Bologna,1-0,/match/roma/bologna/2018,2018,11,serie_a,20,38,0,1,0,6,21,7,1,2,17,6,LLDWLWLLLW,3,0,2,8,5,12,14,4,2,4,9,11,DLLWDLLWWL,3,0,2,4,3,LWWLW,LWLLW
+Benevento,Lazio,1-5,/match/benevento-calcio/lazio/2018,2018,11,serie_a,20,38,2,1,5,20,0,0,0,10,3,24,WLLWLWLWLW,0,0,5,1,11,4,24,8,1,1,26,11,DLWLLLWLWL,5,0,0,12,5,LLLLL,LLLLL
+Napoli,Sassuolo,3-1,/match/napoli/us-sassuolo-calcio/2018,2018,11,serie_a,20,38,0,3,1,3,26,9,1,0,29,7,LWLWLLWLDL,3,1,0,12,1,17,8,2,2,6,5,16,DWWLLLWDLL,2,0,3,4,11,WWWD,WWLWL
+Crotone,Fiorentina,2-1,/match/fc-crotone/fiorentina/2018,2018,11,serie_a,20,38,0,2,1,15,9,1,3,6,6,20,LDWLWWDDWW,1,2,2,4,7,9,18,5,1,4,18,11,WLLWWDWWLW,2,0,3,9,6,LDLWD,WLWWL
+Sampdoria,Chievo,4-1,/match/sampdoria/chievo/2018,2018,11,serie_a,20,38,0,4,1,5,22,5,3,2,19,13,WLDDDWWWWW,4,1,0,13,3,10,16,4,3,3,13,15,LLWDDLWDWL,2,2,1,5,5,WDWWW,LWDLD
+SPAL,Genoa,1-0,/match/spal-1907/genoa/2018,2018,11,serie_a,20,38,0,1,0,18,7,1,2,7,8,19,DWWLWLDWLW,1,1,3,6,9,19,6,1,3,6,10,16,DLWLDWLLDL,1,2,2,3,4,WLLDL,DWWLD
+Udinese,Atalanta,2-1,/match/udinese/atalanta/2018,2018,11,serie_a,20,38,0,2,1,13,10,3,0,7,16,21,LWWWLWWWLL,2,0,3,10,11,7,20,4,3,3,17,13,LWWDWDDWWW,0,2,2,4,8,LWLWL,WDDW
+Torino,Cagliari,2-1,/match/torino-fc/cagliari/2018,2018,11,serie_a,20,38,0,2,1,11,14,3,4,3,14,17,DWLDLWDDLW,1,2,1,7,5,14,10,3,0,7,8,18,WWWLLLWLWW,1,0,4,3,11,WDDL,WWLWW
+Hellas Verona,Inter,1-2,/match/hellas-verona-fc/internazionale/2018,2018,11,serie_a,20,38,2,1,2,16,8,1,3,6,6,22,LDLWDLDWWW,1,1,3,2,11,1,28,8,2,0,20,7,WLWLDWLWDW,3,2,0,8,3,LLDLW,LLDLD
+Bologna,Crotone,2-3,/match/bologna/fc-crotone/2018,2018,12,serie_a,20,38,2,2,3,12,14,4,2,5,9,12,DLLWDLLWWLW,1,2,2,5,8,14,13,2,3,6,8,21,LDWLWWDDWWW,0,1,4,2,13,DLDWL,WWDWW
+Genoa,Sampdoria,0-2,/match/genoa/sampdoria/2018,2018,12,serie_a,20,38,2,0,2,19,6,1,3,7,10,17,DLWLDWLLDLW,0,1,4,7,12,5,26,6,3,2,23,14,WLDDDWWWWWW,1,2,2,6,10,LLDLL,LDDWW
+Inter,Torino,1-1,/match/internazionale/torino-fc/2018,2018,12,serie_a,20,38,1,1,1,1,30,9,2,0,22,8,WLWLDWLWDWL,5,0,0,12,4,9,18,4,4,3,16,18,DWLDLWDDLWW,2,2,2,7,12,WWWWW,DLLWDW
+Cagliari,Hellas Verona,2-1,/match/cagliari/hellas-verona-fc/2018,2018,12,serie_a,20,38,0,2,1,16,10,3,0,8,9,20,WWWLLLWLWWW,2,0,3,5,7,17,8,1,3,7,7,24,LDLWDLDWWWL,0,2,3,4,11,WLLLW,DWDWW
+Chievo,Napoli,0-0,/match/chievo/napoli/2018,2018,12,serie_a,20,38,1,0,0,11,16,4,3,4,14,19,LLWDDLWDWLW,2,1,2,8,10,2,30,10,1,0,32,8,LWLWLLWLDLW,6,0,0,17,6,LDWWL,LLLLLL
+Fiorentina,Roma,2-4,/match/fiorentina/roma/2018,2018,12,serie_a,20,38,2,2,4,8,18,5,1,5,19,13,WLLWWDWWLWW,3,1,1,9,5,6,25,8,1,2,18,6,LLDWLWLLLWW,4,1,0,9,1,LWDWW,LDLLL
+Juventus,Benevento,2-1,/match/juventus-fc/benevento-calcio/2018,2018,12,serie_a,20,38,0,2,1,3,29,9,1,1,33,10,WLWLWWDLLWL,5,0,1,16,3,20,0,0,0,11,4,29,WLLWLWLWLWL,0,0,5,2,13,WWWWLW,WWWWW
+Atalanta,SPAL,1-1,/match/atalanta/spal-1907/2018,2018,12,serie_a,20,38,1,1,1,7,20,4,3,4,18,15,LWWDWDDWWWW,4,1,1,13,5,15,11,2,2,7,9,19,DWWLWLDWLWW,0,1,4,2,10,LWWDWW,DWWWW
+Sassuolo,Milan,0-2,/match/us-sassuolo-calcio/milan/2018,2018,12,serie_a,20,38,2,0,2,18,8,2,2,7,6,19,DWWLLLWDLLW,0,2,3,1,5,10,18,5,1,5,16,16,LWWWWWLWDLL,2,0,3,10,10,DLLDL,LWWWL
+Lazio,Udinese,3-0,/match/lazio/udinese/2018,2018,12,serie_a,20,38,0,3,0,4,26,9,1,1,31,12,DLWLLLWLWLL,3,1,1,14,6,13,14,4,0,7,18,22,LWWWLWWWLLW,1,0,4,6,10,DWLWW,WWWWL
+Roma,Lazio,2-1,/match/roma/lazio/2018,2018,13,serie_a,20,38,0,2,1,6,27,9,1,2,22,8,LLDWLWLLLWWL,4,0,2,9,5,4,30,10,1,1,34,12,DLWLLLWLWLLW,6,0,0,17,6,LWWLWW,LLLLLL
+Napoli,Milan,2-1,/match/napoli/milan/2018,2018,13,serie_a,20,38,0,2,1,3,31,10,2,0,32,8,LWLWLLWLDLWD,4,1,0,15,2,8,20,6,1,5,18,16,LWWWWWLWDLLL,3,0,3,12,10,WWWDW,LWWWLL
+Crotone,Genoa,0-1,/match/fc-crotone/genoa/2018,2018,13,serie_a,20,38,2,0,1,12,15,3,3,6,11,23,LDWLWWDDWWWL,2,2,2,6,8,19,6,1,3,8,10,19,DLWLDWLLDLWL,1,2,3,3,5,LDLWDW,DWWLDW
+Torino,Chievo,1-1,/match/torino-fc/chievo/2018,2018,13,serie_a,20,38,1,1,1,9,19,4,5,3,17,19,DWLDLWDDLWWD,2,2,1,9,6,10,18,4,4,4,14,19,LLWDDLWDWLWD,2,2,2,6,9,WDDLW,LWDLDW
+SPAL,Fiorentina,1-1,/match/spal-1907/fiorentina/2018,2018,13,serie_a,20,38,1,1,1,16,12,2,3,7,10,20,DWWLWLDWLWWD,2,1,3,7,9,11,18,5,1,6,21,17,WLLWWDWWLWWL,2,0,4,10,8,WLLDLW,WLWWLW
+Sampdoria,Juventus,3-2,/match/sampdoria/juventus-fc/2018,2018,13,serie_a,20,38,0,3,2,5,28,7,3,2,25,14,WLDDDWWWWWWL,5,1,0,17,4,1,33,10,1,1,35,11,WLWLWWDLLWLW,4,1,0,17,7,WDWWWW,LLDLL
+Benevento,Sassuolo,1-2,/match/benevento-calcio/us-sassuolo-calcio/2018,2018,13,serie_a,20,38,2,1,2,20,0,0,0,12,5,31,WLLWLWLWLWLW,0,0,6,2,16,18,8,2,2,8,6,21,DWWLLLWDLLWL,2,0,4,5,14,LLLLLL,WWLWLW
+Udinese,Cagliari,0-1,/match/udinese/cagliari/2018,2018,13,serie_a,20,38,2,0,1,14,14,4,0,8,18,25,LWWWLWWWLLWW,3,0,3,12,12,15,14,4,0,8,11,21,WWWLLLWLWWWW,1,0,5,4,13,LWLWLW,WWLWWW
+Inter,Atalanta,2-0,/match/internazionale/atalanta/2018,2018,13,serie_a,20,38,0,2,0,2,32,9,3,0,23,9,WLWLDWLWDWLD,5,1,0,13,5,7,22,4,4,4,19,16,LWWDWDDWWWWD,0,2,3,5,10,WWWWWD,WDDWW
+Hellas Verona,Bologna,2-3,/match/hellas-verona-fc/bologna/2018,2018,13,serie_a,20,38,2,2,3,17,8,1,3,8,8,26,LDLWDLDWWWLW,1,1,4,3,13,13,14,4,2,6,11,15,DLLWDLLWWLWL,3,0,3,4,4,LLDLWL,LWLLWW
+Bologna,Sampdoria,3-0,/match/bologna/sampdoria/2018,2018,14,serie_a,20,38,0,3,0,12,16,5,2,6,14,17,DLLWDLLWWLWLL,1,2,3,7,11,4,32,8,3,2,28,16,WLDDDWWWWWWLW,2,2,2,8,10,DLDWLL,LDDWWL
+Chievo,SPAL,2-1,/match/chievo/spal-1907/2018,2018,14,serie_a,20,38,0,2,1,11,19,4,5,4,15,20,LLWDDLWDWLWDD,2,2,2,8,10,16,14,2,4,7,11,21,DWWLWLDWLWWDD,0,2,4,3,11,LDWWLD,DWWWWD
+Sassuolo,Hellas Verona,0-2,/match/us-sassuolo-calcio/hellas-verona-fc/2018,2018,14,serie_a,20,38,2,0,2,17,10,3,2,8,8,22,DWWLLLWDLLWLL,0,2,4,1,7,18,8,1,3,9,10,29,LDLWDLDWWWLWL,0,2,4,5,13,DLLDLL,DWDWWW
+Cagliari,Inter,1-3,/match/cagliari/internazionale/2018,2018,14,serie_a,20,38,2,1,3,13,16,5,0,8,12,21,WWWLLLWLWWWWL,3,0,3,7,8,1,36,10,3,0,25,9,WLWLDWLWDWLDW,4,2,0,10,4,WLLLWW,LLDLDL
+Udinese,Napoli,0-1,/match/udinese/napoli/2018,2018,14,serie_a,20,38,2,0,1,15,14,4,0,9,18,26,LWWWLWWWLLWWL,3,0,4,12,13,2,35,11,2,0,34,9,LWLWLLWLDLWDW,6,1,0,17,6,LWLWLWL,LLLLLLD
+Genoa,Roma,1-1,/match/genoa/roma/2018,2018,14,serie_a,20,38,1,1,1,19,8,2,3,8,11,19,DLWLDWLLDLWLL,0,1,5,7,14,5,31,10,1,2,24,9,LLDWLWLLLWWLW,5,1,0,13,3,LLDLLL,LDLLLL
+Milan,Torino,0-0,/match/milan/torino-fc/2018,2018,14,serie_a,20,38,1,0,0,9,20,6,1,6,19,18,LWWWWWLWDLLLW,3,1,2,6,6,8,21,4,6,3,18,20,DWLDLWDDLWWDD,2,3,2,8,13,WWWLDL,DLLWDWD
+Lazio,Fiorentina,1-1,/match/lazio/fiorentina/2018,2018,14,serie_a,20,38,1,1,1,6,30,10,1,2,35,14,DLWLLLWLWLLWW,4,1,1,17,6,10,19,5,2,6,22,18,WLLWWDWWLWWLD,2,1,4,11,9,DWLWWW,WLWWLWD
+Juventus,Crotone,3-0,/match/juventus-fc/fc-crotone/2018,2018,14,serie_a,20,38,0,3,0,3,33,10,1,2,37,14,WLWLWWDLLWLWW,6,0,1,18,4,14,15,3,3,7,11,24,LDWLWWDDWWWLL,1,1,4,5,15,WWWWLWW,WWDWWL
+Atalanta,Benevento,1-0,/match/atalanta/benevento-calcio/2018,2018,14,serie_a,20,38,0,1,0,7,22,4,4,5,19,18,LWWDWDDWWWWDW,4,2,1,14,6,20,0,0,0,13,6,33,WLLWLWLWLWLWL,0,0,6,3,15,LWWDWWD,WWWWWW
+Roma,SPAL,3-1,/match/roma/spal-1907/2018,2018,15,serie_a,20,38,0,3,1,5,32,10,2,2,25,10,LLDWLWLLLWWLWD,5,0,2,11,6,16,14,2,4,8,12,23,DWWLWLDWLWWDDW,0,2,5,4,13,LWWLWWW,DWWWWDW
+Napoli,Juventus,0-1,/match/napoli/juventus-fc/2018,2018,15,serie_a,20,38,2,0,1,2,37,12,2,0,35,9,LWLWLLWLDLWDWL,5,1,0,17,3,3,37,11,1,2,40,14,WLWLWWDLLWLWWW,4,1,1,19,10,WWWDWW,LLDLLW
+Torino,Atalanta,1-1,/match/torino-fc/atalanta/2018,2018,15,serie_a,20,38,1,1,1,10,22,4,7,3,18,20,DWLDLWDDLWWDDD,2,3,1,10,7,7,26,5,4,5,20,18,LWWDWDDWWWWDWW,0,2,4,5,12,WDDLWD,WDDWWW
+Benevento,Milan,2-2,/match/benevento-calcio/milan/2018,2018,15,serie_a,20,38,1,2,2,20,0,0,0,14,6,34,WLLWLWLWLWLWLW,0,0,7,3,18,9,22,6,2,6,19,18,LWWWWWLWDLLLWD,3,0,4,13,12,LLLLLLL,LWWWLLW
+Fiorentina,Sassuolo,3-0,/match/fiorentina/us-sassuolo-calcio/2018,2018,15,serie_a,20,38,0,3,0,11,20,5,3,6,23,19,WLLWWDWWLWWLDD,3,1,2,11,9,17,10,3,2,9,8,24,DWWLLLWDLLWLLL,3,0,4,7,15,LWDWWL,WWLWLWL
+Bologna,Cagliari,1-1,/match/bologna/cagliari/2018,2018,15,serie_a,20,38,1,1,1,12,20,6,2,6,17,17,DLLWDLLWWLWLLW,2,2,3,10,11,13,16,5,0,9,13,24,WWWLLLWLWWWWLL,2,0,5,5,13,DLDWLLW,WWLWWWL
+Inter,Chievo,5-0,/match/internazionale/chievo/2018,2018,15,serie_a,20,38,0,5,0,1,38,11,3,0,28,10,WLWLDWLWDWLDWL,6,1,0,15,5,8,23,5,5,4,17,21,LLWDDLWDWLWDDW,2,3,2,7,10,WWWWWDW,LWDLDWD
+Sampdoria,Lazio,1-2,/match/sampdoria/lazio/2018,2018,15,serie_a,20,38,2,1,2,4,32,8,3,3,28,19,WLDDDWWWWWWLWW,6,1,0,20,6,6,32,10,2,2,36,15,DLWLLLWLWLLWWD,6,0,1,18,8,WDWWWWW,LLLLLLW
+Crotone,Udinese,0-3,/match/fc-crotone/udinese/2018,2018,15,serie_a,20,38,2,0,3,14,15,3,3,8,11,27,LDWLWWDDWWWLLW,2,2,3,6,9,15,14,4,0,10,18,27,LWWWLWWWLLWWLL,1,0,5,6,13,LDLWDWL,WWWWLW
+Hellas Verona,Genoa,0-1,/match/hellas-verona-fc/genoa/2018,2018,15,serie_a,20,38,2,0,1,18,10,2,3,9,12,29,LDLWDLDWWWLWLL,1,1,5,5,16,19,10,2,4,8,12,20,DLWLDWLLDLWLLD,2,2,3,4,5,LLDLWLL,DWWLDWL
+Cagliari,Sampdoria,2-2,/match/cagliari/sampdoria/2018,2018,16,serie_a,20,38,1,2,2,13,17,5,1,9,14,25,WWWLLLWLWWWWLLD,3,0,4,8,11,6,32,8,3,4,29,21,WLDDDWWWWWWLWWL,2,2,3,8,13,WLLLWWL,LDDWWLW
+Juventus,Inter,0-0,/match/juventus-fc/internazionale/2018,2018,16,serie_a,20,38,1,0,0,2,39,12,1,2,41,14,WLWLWWDLLWLWWWL,7,0,1,21,4,1,42,12,3,0,33,10,WLWLDWLWDWLDWLW,5,2,0,13,5,WWWWLWWW,LLDLDLL
+Chievo,Roma,0-0,/match/chievo/roma/2018,2018,16,serie_a,20,38,1,0,0,11,23,5,5,5,17,26,LLWDDLWDWLWDDWW,3,2,2,10,11,4,36,11,2,2,28,11,LLDWLWLLLWWLWDW,5,2,0,14,4,LDWWLDW,LDLLLLD
+SPAL,Hellas Verona,2-2,/match/spal-1907/hellas-verona-fc/2018,2018,16,serie_a,20,38,1,2,2,16,14,2,4,9,13,26,DWWLWLDWLWWDDWW,2,2,3,8,10,19,10,2,3,10,12,30,LDLWDLDWWWLWLLL,1,2,4,7,13,WLLDLWD,DWDWWWL
+Napoli,Fiorentina,0-0,/match/napoli/fiorentina/2018,2018,16,serie_a,20,38,1,0,0,3,37,12,2,1,35,10,LWLWLLWLDLWDWLL,5,1,1,17,4,9,24,6,3,6,26,19,WLLWWDWWLWWLDDW,2,2,4,12,10,WWWDWWL,WLWWLWDD
+Udinese,Benevento,2-0,/match/udinese/benevento-calcio/2018,2018,16,serie_a,20,38,0,2,0,14,16,5,0,10,21,27,LWWWLWWWLLWWLLL,3,0,5,12,14,20,2,0,1,14,8,36,WLLWLWLWLWLWLWD,0,0,7,3,16,LWLWLWLL,WWWWWWW
+Sassuolo,Crotone,2-1,/match/us-sassuolo-calcio/fc-crotone/2018,2018,16,serie_a,20,38,0,2,1,18,10,3,2,10,8,27,DWWLLLWDLLWLLLW,0,2,5,1,9,15,15,3,3,9,11,30,LDWLWWDDWWWLLWL,1,1,5,5,18,DLLDLLL,WWDWWLW
+Milan,Bologna,2-1,/match/milan/bologna/2018,2018,16,serie_a,20,38,0,2,1,10,23,6,3,6,21,20,LWWWWWLWDLLLWDD,3,2,2,6,6,12,22,6,3,6,18,18,DLLWDLLWWLWLLWD,4,0,3,7,6,WWWLDLD,LWLLWWL
+Lazio,Torino,1-3,/match/lazio/torino-fc/2018,2018,16,serie_a,20,38,2,1,3,5,34,11,2,2,38,16,DLWLLLWLWLLWWDL,4,2,1,18,7,8,24,4,8,3,19,21,DWLDLWDDLWWDDDD,2,4,2,8,13,DWLWWWD,DLLWDWDD
+Genoa,Atalanta,1-2,/match/genoa/atalanta/2018,2018,16,serie_a,20,38,2,1,2,17,12,3,4,8,13,20,DLWLDWLLDLWLLDL,0,2,5,8,15,7,27,5,5,5,21,19,LWWDWDDWWWWDWWD,0,3,4,6,13,LLDLLLD,WDDWWWD
+Inter,Udinese,1-3,/match/internazionale/udinese/2018,2018,17,serie_a,20,38,2,1,3,1,43,12,4,0,33,10,WLWLDWLWDWLDWLWD,7,1,0,20,5,13,20,6,0,10,23,27,LWWWLWWWLLWWLLLW,2,0,5,9,13,WWWWWDWW,WWWWLWL
+Torino,Napoli,1-3,/match/torino-fc/napoli/2018,2018,17,serie_a,20,38,2,1,3,9,26,5,8,3,22,22,DWLDLWDDLWWDDDDL,2,4,1,11,8,3,39,12,3,1,35,10,LWLWLLWLDLWDWLLD,7,1,0,18,6,WDDLWDD,LLLLLLDL
+Roma,Cagliari,1-0,/match/roma/cagliari/2018,2018,17,serie_a,20,38,0,1,0,4,37,11,3,2,28,11,LLDWLWLLLWWLWDWD,6,0,2,14,7,14,19,5,2,9,16,27,WWWLLLWLWWWWLLDD,2,1,5,6,14,LWWLWWWW,WWLWWWLD
+Hellas Verona,Milan,3-0,/match/hellas-verona-fc/milan/2018,2018,17,serie_a,20,38,0,3,0,19,11,2,4,10,14,32,LDLWDLDWWWLWLLLD,1,1,6,5,17,8,27,7,3,6,23,21,LWWWWWLWDLLLWDDW,3,1,4,15,14,LLDLWLLL,LWWWLLWD
+Fiorentina,Genoa,0-0,/match/fiorentina/genoa/2018,2018,17,serie_a,20,38,1,0,0,11,25,6,4,6,26,19,WLLWWDWWLWWLDDWD,4,1,2,14,9,18,12,3,4,9,14,22,DLWLDWLLDLWLLDLL,3,2,3,5,5,LWDWWLW,DWWLDWLL
+Crotone,Chievo,1-0,/match/fc-crotone/chievo/2018,2018,17,serie_a,20,38,0,1,0,16,15,3,3,10,12,32,LDWLWWDDWWWLLWLW,2,2,4,6,12,10,25,5,6,5,17,26,LLWDDLWDWLWDDWWD,2,3,3,7,15,LDLWDWLL,LWDLDWDW
+Bologna,Juventus,0-3,/match/bologna/juventus-fc/2018,2018,17,serie_a,20,38,2,0,3,12,22,6,3,7,19,20,DLLWDLLWWLWLLWDW,2,3,3,11,12,2,41,12,2,2,41,14,WLWLWWDLLWLWWWLD,5,1,1,20,10,DLDWLLWD,LLDLLWL
+Sampdoria,Sassuolo,0-1,/match/sampdoria/us-sassuolo-calcio/2018,2018,17,serie_a,20,38,2,0,1,6,33,8,4,4,31,23,WLDDDWWWWWWLWWLD,6,1,1,21,8,17,14,4,2,10,10,28,DWWLLLWDLLWLLLWW,3,0,5,7,18,WDWWWWWL,WWLWLWLW
+Benevento,SPAL,1-2,/match/benevento-calcio/spal-1907/2018,2018,17,serie_a,20,38,2,1,2,20,2,0,1,15,8,38,WLLWLWLWLWLWLWDW,0,1,7,5,20,15,16,2,5,9,15,28,DWWLWLDWLWWDDWWD,0,2,6,5,16,LLLLLLLD,DWWWWDWW
+Atalanta,Lazio,3-3,/match/atalanta/lazio/2018,2018,17,serie_a,20,38,1,3,3,7,29,6,5,5,23,20,LWWDWDDWWWWDWWDL,5,2,1,15,6,5,34,11,2,3,39,19,DLWLLLWLWLLWWDLL,7,0,1,20,9,LWWDWWDW,LLLLLLWL
+Chievo,Bologna,2-3,/match/chievo/bologna/2018,2018,18,serie_a,20,38,2,2,3,11,25,5,6,6,17,27,LLWDDLWDWLWDDWWDW,3,3,2,10,11,12,22,6,3,8,19,23,DLLWDLLWWLWLLWDWL,4,0,4,8,8,LDWWLDWD,LWLLWWLW
+Cagliari,Fiorentina,0-1,/match/cagliari/fiorentina/2018,2018,18,serie_a,20,38,2,0,1,14,19,5,2,10,16,28,WWWLLLWLWWWWLLDDW,3,1,4,10,13,8,27,6,5,6,26,19,WLLWWDWWLWWLDDWDD,2,3,4,12,10,WLLLWWLD,WLWWLWDDD
+Lazio,Crotone,4-0,/match/lazio/fc-crotone/2018,2018,18,serie_a,20,38,0,4,0,5,35,11,3,3,42,22,DLWLLLWLWLLWWDLLD,4,2,2,19,10,15,19,4,3,10,13,32,LDWLWWDDWWWLLWLWW,1,1,6,6,20,DWLWWWDL,WWDWWLWW
+SPAL,Torino,2-2,/match/spal-1907/torino-fc/2018,2018,18,serie_a,20,38,1,2,2,16,18,3,5,9,17,29,DWWLWLDWLWWDDWWDL,2,3,3,10,12,10,26,5,8,4,23,25,DWLDLWDDLWWDDDDLL,3,4,2,11,14,WLLDLWDD,DLLWDWDDL
+Sassuolo,Inter,1-0,/match/us-sassuolo-calcio/internazionale/2018,2018,18,serie_a,20,38,0,1,0,17,16,5,2,10,11,28,DWWLLLWDLLWLLLWWL,1,2,5,3,10,1,43,12,4,1,34,13,WLWLDWLWDWLDWLWDL,5,3,0,13,5,DLLDLLLW,LLDLDLLD
+Napoli,Sampdoria,3-2,/match/napoli/sampdoria/2018,2018,18,serie_a,20,38,0,3,2,3,41,13,3,1,38,11,LWLWLLWLDLWDWLLDL,5,2,1,17,4,6,33,8,4,5,31,24,WLDDDWWWWWWLWWLDL,2,3,3,10,15,WWWDWWLD,LDDWWLWD
+Udinese,Hellas Verona,4-0,/match/udinese/hellas-verona-fc/2018,2018,18,serie_a,20,38,0,4,0,13,22,7,0,10,26,28,LWWWLWWWLLWWLLLWL,4,0,5,14,14,18,15,3,4,10,17,32,LDLWDLDWWWLWLLLDW,1,3,4,9,15,LWLWLWLLW,DWDWWWLD
+Genoa,Benevento,1-0,/match/genoa/benevento-calcio/2018,2018,18,serie_a,20,38,0,1,0,19,13,3,5,9,14,22,DLWLDWLLDLWLLDLLD,0,2,6,9,17,20,2,0,1,16,9,40,WLLWLWLWLWLWLWDWL,0,0,8,3,18,LLDLLLDL,WWWWWWWW
+Milan,Atalanta,0-2,/match/milan/atalanta/2018,2018,18,serie_a,20,38,2,0,2,9,27,7,3,7,23,24,LWWWWWLWDLLLWDDWW,4,2,2,8,7,7,31,6,6,5,26,23,LWWDWDDWWWWDWWDLD,1,3,4,8,14,WWWLDLDW,WDDWWWDL
+Juventus,Roma,1-0,/match/juventus-fc/roma/2018,2018,18,serie_a,20,38,0,1,0,2,43,13,2,2,44,14,WLWLWWDLLWLWWWLDL,7,1,1,21,4,4,41,12,3,2,29,11,LLDWLWLLLWWLWDWDW,5,3,0,14,4,WWWWLWWWD,LDLLLLDD
+Crotone,Napoli,0-1,/match/fc-crotone/napoli/2018,2018,19,serie_a,20,38,2,0,1,17,19,4,3,11,13,36,LDWLWWDDWWWLLWLWWW,3,2,4,7,12,2,45,14,3,1,41,13,LWLWLLWLDLWDWLLDLW,8,1,0,21,7,LDLWDWLLW,LLLLLLDLL
+Fiorentina,Milan,1-1,/match/fiorentina/milan/2018,2018,19,serie_a,20,38,1,1,1,8,29,7,5,6,27,19,WLLWWDWWLWWLDDWDDL,4,2,2,14,9,9,27,7,3,8,23,26,LWWWWWLWDLLLWDDWWL,3,1,5,15,17,LWDWWLWD,LWWWLLWDW
+Atalanta,Cagliari,1-2,/match/atalanta/cagliari/2018,2018,19,serie_a,20,38,2,1,2,7,33,7,6,5,28,23,LWWDWDDWWWWDWWDLDL,5,3,1,18,9,16,19,5,2,11,16,29,WWWLLLWLWWWWLLDDWL,2,1,6,6,15,LWWDWWDWD,WWLWWWLDW
+Sampdoria,SPAL,2-0,/match/sampdoria/spal-1907/2018,2018,19,serie_a,20,38,0,2,0,6,33,8,4,6,33,27,WLDDDWWWWWWLWWLDLW,6,1,2,21,9,14,20,3,6,9,19,31,DWWLWLDWLWWDDWWDLD,1,2,6,7,17,WDWWWWWLL,DWWWWDWWL
+Roma,Sassuolo,1-1,/match/roma/us-sassuolo-calcio/2018,2018,19,serie_a,20,38,1,1,1,4,41,12,3,3,29,12,LLDWLWLLLWWLWDWDWW,7,0,2,15,7,15,20,6,2,10,12,28,DWWLLLWDLLWLLLWWLW,4,0,5,8,18,LWWLWWWWW,WWLWLWLWL
+Torino,Genoa,0-0,/match/torino-fc/genoa/2018,2018,19,serie_a,20,38,1,0,0,10,27,5,9,4,25,27,DWLDLWDDLWWDDDDLLD,2,4,2,12,11,18,17,4,5,9,15,22,DLWLDWLLDLWLLDLLDW,3,3,3,5,5,WDDLWDDL,DWWLDWLLD
+Bologna,Udinese,1-2,/match/bologna/udinese/2018,2018,19,serie_a,20,38,2,1,2,13,24,7,3,8,22,25,DLLWDLLWWLWLLWDWLL,2,3,4,11,15,11,26,8,0,10,30,28,LWWWLWWWLLWWLLLWLW,3,0,5,12,14,DLDWLLWDL,WWWWLWLL
+Benevento,Chievo,1-0,/match/benevento-calcio/chievo/2018,2018,19,serie_a,20,38,0,1,0,20,2,0,1,17,9,41,WLLWLWLWLWLWLWDWLW,0,1,8,6,22,12,25,5,6,7,19,30,LLWDDLWDWLWDDWWDWL,2,3,4,7,16,LLLLLLLDL,LWDLDWDWW
+Inter,Lazio,0-0,/match/internazionale/lazio/2018,2018,19,serie_a,20,38,1,0,0,3,43,12,4,2,34,14,WLWLDWLWDWLDWLWDLW,7,1,1,21,8,5,39,12,3,3,46,22,DLWLLLWLWLLWWDLLDW,7,1,1,23,12,WWWWWDWWL,LLLLLLWLD
+Hellas Verona,Juventus,1-3,/match/hellas-verona-fc/juventus-fc/2018,2018,19,serie_a,20,38,2,1,3,19,15,3,4,11,17,36,LDLWDLDWWWLWLLLDWW,2,1,6,8,17,1,47,14,2,2,45,14,WLWLWWDLLWLWWWLDLW,6,1,1,23,10,LLDLWLLLW,LLDLLWLL
+Chievo,Udinese,1-1,/match/chievo/udinese/2018,2018,20,serie_a,20,38,1,1,1,12,25,5,6,8,19,31,LLWDDLWDWLWDDWWDWLW,3,3,3,12,14,10,28,9,0,10,32,29,LWWWLWWWLLWWLLLWLWL,4,0,5,14,15,LDWWLDWDL,WWWWLWLLL
+Fiorentina,Inter,1-1,/match/fiorentina/internazionale/2018,2018,20,serie_a,20,38,1,1,1,8,31,7,6,6,28,20,WLLWWDWWLWWLDDWDDLD,4,3,2,15,10,3,45,12,5,2,34,14,WLWLDWLWDWLDWLWDLWD,5,3,1,13,6,LWDWWLWDD,LLDLDLLDW
+Torino,Bologna,3-0,/match/torino-fc/bologna/2018,2018,20,serie_a,20,38,0,3,0,9,29,5,10,4,25,27,DWLDLWDDLWWDDDDLLDD,2,5,2,12,11,13,24,7,3,9,23,27,DLLWDLLWWLWLLWDWLLL,5,0,4,11,10,WDDLWDDLD,LWLLWWLWL
+Milan,Crotone,1-0,/match/milan/fc-crotone/2018,2018,20,serie_a,20,38,0,1,0,11,28,7,4,8,24,27,LWWWWWLWDLLLWDDWWLD,4,2,3,8,9,17,19,4,3,12,13,37,LDWLWWDDWWWLLWLWWWL,1,1,7,6,24,WWWLDLDWL,WWDWWLWWW
+Napoli,Hellas Verona,2-0,/match/napoli/hellas-verona-fc/2018,2018,20,serie_a,20,38,0,2,0,2,47,15,3,1,42,13,LWLWLLWLDLWDWLLDLWL,6,2,1,20,6,19,15,3,4,12,18,39,LDLWDLDWWWLWLLLDWWL,1,3,5,9,19,WWWDWWLDW,DWDWWWLDW
+Genoa,Sassuolo,1-0,/match/genoa/us-sassuolo-calcio/2018,2018,20,serie_a,20,38,0,1,0,18,18,4,6,9,15,22,DLWLDWLLDLWLLDLLDWD,1,2,6,10,17,14,21,6,3,10,13,29,DWWLLLWDLLWLLLWWLWD,4,1,5,9,19,LLDLLLDLW,WWLWLWLWLD
+SPAL,Lazio,2-5,/match/spal-1907/lazio/2018,2018,20,serie_a,20,38,2,2,5,16,20,3,6,10,19,33,DWWLWLDWLWWDDWWDLDW,2,4,3,12,14,5,40,12,4,3,46,22,DLWLLLWLWLLWWDLLDWD,7,2,1,23,12,WLLDLWDDD,LLLLLLWLDD
+Benevento,Sampdoria,3-2,/match/benevento-calcio/sampdoria/2018,2018,20,serie_a,20,38,0,3,2,20,6,1,1,17,10,41,WLLWLWLWLWLWLWDWLWW,1,1,8,7,22,6,37,9,4,6,35,27,WLDDDWWWWWWLWWLDLWW,2,3,4,12,18,LLLLLLLDLW,LDDWWLWDW
+Roma,Atalanta,1-2,/match/roma/atalanta/2018,2018,20,serie_a,20,38,2,1,2,4,43,12,4,3,30,13,LLDWLWLLLWWLWDWDWWD,7,1,2,16,8,7,33,7,6,6,29,25,LWWDWDDWWWWDWWDLDLL,2,3,4,10,14,LWWLWWWWWD,WDDWWWDLL
+Cagliari,Juventus,0-1,/match/cagliari/juventus-fc/2018,2018,20,serie_a,20,38,2,0,1,15,21,6,2,11,18,30,WWWLLLWLWWWWLLDDWLL,3,1,5,10,14,1,49,15,2,2,48,15,WLWLWWDLLWLWWWLDLWL,7,1,1,26,11,WLLLWWLDL,LLDLLWLLL
+Atalanta,Napoli,0-1,/match/atalanta/napoli/2018,2018,21,serie_a,20,38,2,0,1,7,35,8,6,6,31,26,LWWDWDDWWWWDWWDLDLLL,5,3,2,19,11,2,51,16,3,1,44,13,LWLWLLWLDLWDWLLDLWLW,9,1,0,22,7,LWWDWWDWDL,LLLLLLDLLL
+Bologna,Benevento,3-0,/match/bologna/benevento-calcio/2018,2018,21,serie_a,20,38,0,3,0,13,24,7,3,10,23,30,DLLWDLLWWLWLLWDWLLLW,2,3,5,12,17,20,10,2,1,17,13,43,WLLWLWLWLWLWLWDWLWWW,0,0,9,3,19,DLDWLLWDLL,WWWWWWWWW
+Udinese,SPAL,1-1,/match/udinese/spal-1907/2018,2018,21,serie_a,20,38,1,1,1,11,29,9,1,10,33,30,LWWWLWWWLLWWLLLWLWLD,5,0,5,18,14,17,20,3,6,11,21,38,DWWLWLDWLWWDDWWDLDWL,1,2,7,7,19,LWLWLWLLWW,DWWWWDWWLW
+Sassuolo,Torino,1-1,/match/us-sassuolo-calcio/torino-fc/2018,2018,21,serie_a,20,38,1,1,1,15,21,6,3,11,13,30,DWWLLLWDLLWLLLWWLWDW,2,2,5,4,10,9,33,6,10,4,28,27,DWLDLWDDLWWDDDDLLDDW,3,5,2,13,16,DLLDLLLWW,DLLWDWDDLD
+Sampdoria,Fiorentina,3-1,/match/sampdoria/fiorentina/2018,2018,21,serie_a,20,38,0,3,1,6,37,9,4,7,37,30,WLDDDWWWWWWLWWLDLWWW,7,1,2,23,9,8,33,7,7,6,29,21,WLLWWDWWLWWLDDWDDLDD,3,3,4,13,10,WDWWWWWLLW,WLWWLWDDDL
+Hellas Verona,Crotone,0-3,/match/hellas-verona-fc/fc-crotone/2018,2018,21,serie_a,20,38,2,0,3,19,15,3,4,13,18,41,LDLWDLDWWWLWLLLDWWLW,2,1,7,9,20,18,19,4,3,13,13,38,LDWLWWDDWWWLLWLWWWLW,1,1,8,6,25,LLDLWLLLWL,WWDWWLWWWW
+Lazio,Chievo,5-1,/match/lazio/chievo/2018,2018,21,serie_a,20,38,0,5,1,5,42,13,4,3,51,24,DLWLLLWLWLLWWDLLDWDL,5,2,2,23,10,12,27,5,7,8,20,32,LLWDDLWDWLWDDWWDWLWD,2,3,5,7,17,DWLWWWDLW,LWDLDWDWWW
+Cagliari,Milan,1-2,/match/cagliari/milan/2018,2018,21,serie_a,20,38,2,1,2,16,21,6,2,12,18,31,WWWLLLWLWWWWLLDDWLLL,3,1,6,10,15,10,32,8,4,8,25,27,LWWWWWLWDLLLWDDWWLDW,3,2,5,16,18,WLLLWWLDLL,LWWWLLWDWD
+Inter,Roma,1-1,/match/internazionale/roma/2018,2018,21,serie_a,20,38,1,1,1,3,46,12,6,2,35,15,WLWLDWLWDWLDWLWDLWDD,7,2,1,21,8,4,43,12,4,4,31,15,LLDWLWLLLWWLWDWDWWDL,5,3,1,14,5,WWWWWDWWLD,LDLLLLDDW
+Juventus,Genoa,1-0,/match/juventus-fc/genoa/2018,2018,21,serie_a,20,38,0,1,0,1,51,16,2,2,49,15,WLWLWWDLLWLWWWLDLWLL,8,1,1,22,4,14,22,5,6,9,16,22,DLWLDWLLDLWLLDLLDWDW,3,4,3,5,5,WWWWLWWWDW,DWWLDWLLDD
+Sassuolo,Atalanta,0-3,/match/us-sassuolo-calcio/atalanta/2018,2018,22,serie_a,20,38,2,0,3,14,23,6,4,11,14,31,DWWLLLWDLLWLLLWWLWDWD,2,3,5,5,11,7,35,8,6,7,31,27,LWWDWDDWWWWDWWDLDLLLL,3,3,4,12,15,DLLDLLLWWD,WDDWWWDLLL
+Chievo,Juventus,0-2,/match/chievo/juventus-fc/2018,2018,22,serie_a,20,38,2,0,2,13,27,5,7,9,21,37,LLWDDLWDWLWDDWWDWLWDW,3,4,3,13,15,1,55,17,2,2,50,15,WLWLWWDLLWLWWWLDLWLLW,8,1,1,27,11,LDWWLDWDLD,LLDLLWLLLL
+SPAL,Inter,1-1,/match/spal-1907/internazionale/2018,2018,22,serie_a,20,38,1,1,1,17,21,3,7,11,22,39,DWWLWLDWLWWDDWWDLDWLD,2,4,4,14,19,3,48,12,7,2,36,16,WLWLDWLWDWLDWLWDLWDDD,5,4,1,14,7,WLLDLWDDDL,LLDLDLLDWD
+Crotone,Cagliari,1-1,/match/fc-crotone/cagliari/2018,2018,22,serie_a,20,38,1,1,1,18,21,5,3,13,16,38,LDWLWWDDWWWLLWLWWWLWL,3,2,5,7,13,16,21,6,2,13,19,33,WWWLLLWLWWWWLLDDWLLLL,3,1,6,8,16,LDLWDWLLWL,WWLWWWLDWL
+Fiorentina,Hellas Verona,1-4,/match/fiorentina/hellas-verona-fc/2018,2018,22,serie_a,20,38,2,1,4,10,33,7,7,7,30,24,WLLWWDWWLWWLDDWDDLDDW,4,4,2,16,11,19,15,3,4,14,18,44,LDLWDLDWWWLWLLLDWWLWL,1,3,6,9,21,LWDWWLWDDD,DWDWWWLDWW
+Napoli,Bologna,3-1,/match/napoli/bologna/2018,2018,22,serie_a,20,38,0,3,1,2,53,17,3,1,45,13,LWLWLLWLDLWDWLLDLWLWL,7,2,1,22,6,12,28,8,3,10,26,30,DLLWDLLWWLWLLWDWLLLWW,5,0,5,11,13,WWWDWWLDWW,LWLLWWLWLW
+Torino,Benevento,3-0,/match/torino-fc/benevento-calcio/2018,2018,22,serie_a,20,38,0,3,0,8,34,6,11,4,29,28,DWLDLWDDLWWDDDDLLDDWD,3,5,2,15,11,20,10,2,1,18,13,46,WLLWLWLWLWLWLWDWLWWWW,0,0,10,3,22,WDDLWDDLDW,WWWWWWWWWW
+Genoa,Udinese,0-1,/match/genoa/udinese/2018,2018,22,serie_a,20,38,2,0,1,15,22,5,6,10,16,23,DLWLDWLLDLWLLDLLDWDWW,2,2,6,11,17,11,31,9,2,10,34,31,LWWWLWWWLLWWLLLWLWLDD,4,1,5,15,16,LLDLLLDLWW,WWWWLWLLLD
+Milan,Lazio,2-1,/match/milan/lazio/2018,2018,22,serie_a,20,38,0,2,1,9,34,9,4,8,27,28,LWWWWWLWDLLLWDDWWLDWL,5,2,3,9,9,4,46,14,4,3,56,25,DLWLLLWLWLLWWDLLDWDLW,8,2,1,28,14,WWWLDLDWLW,LLLLLLWLDDL
+Roma,Sampdoria,0-1,/match/roma/sampdoria/2018,2018,22,serie_a,20,38,2,0,1,5,44,12,5,4,32,16,LLDWLWLLLWWLWDWDWWDLD,7,1,3,17,10,6,41,10,4,7,40,31,WLDDDWWWWWWLWWLDLWWWW,2,3,5,14,21,LWWLWWWWWDL,LDDWWLWDWW
+Sampdoria,Torino,1-1,/match/sampdoria/torino-fc/2018,2018,23,serie_a,20,38,1,1,1,6,43,11,4,7,41,31,WLDDDWWWWWWLWWLDLWWWWL,8,1,2,26,10,7,38,7,11,4,32,28,DWLDLWDDLWWDDDDLLDDWDW,3,6,2,14,17,WDWWWWWLLWW,DLLWDWDDLDD
+Inter,Crotone,1-1,/match/internazionale/fc-crotone/2018,2018,23,serie_a,20,38,1,1,1,3,49,12,8,2,37,17,WLWLDWLWDWLDWLWDLWDDDD,7,3,1,22,9,16,23,5,4,13,17,39,LDWLWWDDWWWLLWLWWWLWLD,2,1,8,9,25,WWWWWDWWLDD,WWDWWLWWWWL
+Hellas Verona,Roma,0-1,/match/hellas-verona-fc/roma/2018,2018,23,serie_a,20,38,2,0,1,19,17,4,4,14,22,45,LDLWDLDWWWLWLLLDWWLWLL,2,1,8,9,23,5,44,12,5,5,32,17,LLDWLWLLLWWLWDWDWWDLDL,5,4,1,15,6,LLDLWLLLWLL,LDLLLLDDWD
+Cagliari,SPAL,2-0,/match/cagliari/spal-1907/2018,2018,23,serie_a,20,38,0,2,0,18,22,6,3,13,20,34,WWWLLLWLWWWWLLDDWLLLLD,3,1,7,11,17,15,23,3,8,11,23,40,DWWLWLDWLWWDDWWDLDWLDD,1,3,7,8,20,WLLLWWLDLLL,DWWWWDWWLWD
+Juventus,Sassuolo,7-0,/match/juventus-fc/us-sassuolo-calcio/2018,2018,23,serie_a,20,38,0,7,0,1,57,18,2,2,52,15,WLWLWWDLLWLWWWLDLWLLWL,9,1,1,23,4,14,23,6,4,12,14,34,DWWLLLWDLLWLLLWWLWDWDL,4,1,6,9,20,WWWWLWWWDWW,WWLWLWLWLDW
+Atalanta,Chievo,1-0,/match/atalanta/chievo/2018,2018,23,serie_a,20,38,0,1,0,9,37,9,6,7,34,27,LWWDWDDWWWWDWWDLDLLLLL,5,3,3,19,12,13,27,5,7,10,21,39,LLWDDLWDWLWDDWWDWLWDWL,2,3,6,8,22,LWWDWWDWDLL,LWDLDWDWWWW
+Udinese,Milan,1-1,/match/udinese/milan/2018,2018,23,serie_a,20,38,1,1,1,10,33,10,2,10,35,31,LWWWLWWWLLWWLLLWLWLDDL,5,1,5,19,15,8,38,10,4,8,29,29,LWWWWWLWDLLLWDDWWLDWLW,4,2,5,18,19,LWLWLWLLWWD,LWWWLLWDWDL
+Bologna,Fiorentina,1-2,/match/bologna/fiorentina/2018,2018,23,serie_a,20,38,2,1,2,12,28,8,3,11,27,33,DLLWDLLWWLWLLWDWLLLWWW,3,3,5,15,17,11,33,7,7,8,31,28,WLLWWDWWLWWLDDWDDLDDWL,3,3,5,14,13,DLDWLLWDLLW,WLWWLWDDDLW
+Benevento,Napoli,0-2,/match/benevento-calcio/napoli/2018,2018,23,serie_a,20,38,2,0,2,20,10,2,1,19,13,49,WLLWLWLWLWLWLWDWLWWWWW,2,1,8,10,24,2,57,18,3,1,48,14,LWLWLLWLDLWDWLLDLWLWLW,10,1,0,23,7,LLLLLLLDLWW,LLLLLLDLLLL
+Lazio,Genoa,1-2,/match/lazio/genoa/2018,2018,23,serie_a,20,38,2,1,2,4,46,14,4,4,57,27,DLWLLLWLWLLWWDLLDWDLWW,6,2,2,28,11,17,22,5,6,11,16,24,DLWLDWLLDLWLLDLLDWDWWL,3,4,4,5,6,DWLWWWDLWW,DWWLDWLLDDW
+Fiorentina,Juventus,0-2,/match/fiorentina/juventus-fc/2018,2018,24,serie_a,20,38,2,0,2,10,35,8,7,8,33,29,WLLWWDWWLWWLDDWDDLDDWLL,4,4,3,17,15,1,61,19,2,2,59,15,WLWLWWDLLWLWWWLDLWLLWLW,9,1,1,29,11,LWDWWLWDDDL,LLDLLWLLLLL
+SPAL,Milan,0-4,/match/spal-1907/milan/2018,2018,24,serie_a,20,38,2,0,4,18,23,3,8,12,23,42,DWWLWLDWLWWDDWWDLDWLDDW,2,5,4,15,20,9,39,10,5,8,30,30,LWWWWWLWDLLLWDDWWLDWLWD,4,3,5,19,20,WLLDLWDDDLD,LWWWLLWDWDLD
+Crotone,Atalanta,1-1,/match/fc-crotone/atalanta/2018,2018,24,serie_a,20,38,1,1,1,15,24,5,5,13,18,40,LDWLWWDDWWWLLWLWWWLWLDD,3,3,5,8,14,7,41,10,6,7,35,27,LWWDWDDWWWWDWWDLDLLLLLW,4,3,4,15,15,LDLWDWLLWLD,WDDWWWDLLLL
+Napoli,Lazio,4-1,/match/napoli/lazio/2018,2018,24,serie_a,20,38,0,4,1,2,59,19,3,1,50,14,LWLWLLWLDLWDWLLDLWLWLWL,8,2,1,25,7,4,46,14,4,5,58,29,DLWLLLWLWLLWWDLLDWDLWWL,8,2,2,29,16,WWWDWWLDWWW,LLLLLLWLDDLW
+Sassuolo,Cagliari,0-0,/match/us-sassuolo-calcio/cagliari/2018,2018,24,serie_a,20,38,1,0,0,17,23,6,4,13,14,41,DWWLLLWDLLWLLLWWLWDWDLW,2,3,6,5,14,14,26,7,3,13,22,34,WWWLLLWLWWWWLLDDWLLLLDW,3,2,6,9,17,DLLDLLLWWDL,WWLWWWLDWLD
+Sampdoria,Hellas Verona,2-0,/match/sampdoria/hellas-verona-fc/2018,2018,24,serie_a,20,38,0,2,0,6,45,11,5,7,42,32,WLDDDWWWWWWLWWLDLWWWWLD,8,2,2,27,11,19,17,4,4,15,22,46,LDLWDLDWWWLWLLLDWWLWLLL,2,3,6,13,22,WDWWWWWLLWWD,DWDWWWLDWWL
+Chievo,Genoa,0-1,/match/chievo/genoa/2018,2018,24,serie_a,20,38,2,0,1,13,27,5,7,11,21,40,LLWDDLWDWLWDDWWDWLWDWLW,3,4,4,13,17,16,24,6,6,11,18,25,DLWLDWLLDLWLLDLLDWDWWLL,4,4,4,7,7,LDWWLDWDLDL,DWWLDWLLDDWL
+Inter,Bologna,2-1,/match/internazionale/bologna/2018,2018,24,serie_a,20,38,0,2,1,3,51,12,9,2,38,18,WLWLDWLWDWLDWLWDLWDDDDD,7,4,1,23,10,12,28,8,3,12,28,35,DLLWDLLWWLWLLWDWLLLWWWL,5,0,6,12,16,WWWWWDWWLDDD,LWLLWWLWLWW
+Torino,Udinese,2-0,/match/torino-fc/udinese/2018,2018,24,serie_a,20,38,0,2,0,8,39,7,12,4,33,29,DWLDLWDDLWWDDDDLLDDWDWD,4,5,2,18,11,11,35,10,3,10,36,32,LWWWLWWWLLWWLLLWLWLDDLD,5,1,5,16,16,WDDLWDDLDWW,WWWWLWLLLDL
+Roma,Benevento,5-2,/match/roma/benevento-calcio/2018,2018,24,serie_a,20,38,0,5,2,5,46,13,5,5,33,17,LLDWLWLLLWWLWDWDWWDLDLL,7,1,4,17,11,20,10,2,1,20,13,51,WLLWLWLWLWLWLWDWLWWWWWL,0,0,11,3,25,LWWLWWWWWDLL,WWWWWWWWWWW
+Udinese,Roma,0-2,/match/udinese/roma/2018,2018,25,serie_a,20,38,2,0,2,10,35,10,3,11,36,34,LWWWLWWWLLWWLLLWLWLDDLDW,5,2,5,20,16,4,50,14,5,5,38,19,LLDWLWLLLWWLWDWDWWDLDLLW,6,4,1,16,6,LWLWLWLLWWDD,LDLLLLDDWDL
+Chievo,Cagliari,2-1,/match/chievo/cagliari/2018,2018,25,serie_a,20,38,0,2,1,13,27,5,7,12,21,41,LLWDDLWDWLWDDWWDWLWDWLWL,3,4,5,13,18,14,27,7,4,13,22,34,WWWLLLWLWWWWLLDDWLLLLDWD,3,3,6,9,17,LDWWLDWDLDLL,WWLWWWLDWLDD
+Genoa,Inter,2-0,/match/genoa/internazionale/2018,2018,25,serie_a,20,38,0,2,0,16,26,7,6,11,19,25,DLWLDWLLDLWLLDLLDWDWWLLL,2,2,7,11,18,3,55,13,9,2,40,19,WLWLDWLWDWLDWLWDLWDDDDDW,5,5,1,15,8,LLDLLLDLWWL,LLDLDLLDWDD
+Torino,Juventus,0-1,/match/torino-fc/juventus-fc/2018,2018,25,serie_a,20,38,2,0,1,7,43,8,12,4,35,29,DWLDLWDDLWWDDDDLLDDWDWDW,5,5,2,20,11,1,63,20,2,2,61,15,WLWLWWDLLWLWWWLDLWLLWLWL,10,1,1,31,11,WDDLWDDLDWWW,LLDLLWLLLLLL
+Benevento,Crotone,3-2,/match/benevento-calcio/fc-crotone/2018,2018,25,serie_a,20,38,0,3,2,20,10,2,1,21,15,56,WLLWLWLWLWLWLWDWLWWWWWLW,2,1,9,10,26,15,26,5,6,13,19,41,LDWLWWDDWWWLLWLWWWLWLDDD,2,2,8,10,26,LLLLLLLDLWWL,WWDWWLWWWWLD
+Bologna,Sassuolo,2-1,/match/bologna/us-sassuolo-calcio/2018,2018,25,serie_a,20,38,0,2,1,12,28,8,3,13,29,37,DLLWDLLWWLWLLWDWLLLWWWLW,3,3,6,16,19,17,25,6,5,13,14,41,DWWLLLWDLLWLLLWWLWDWDLWD,4,1,7,9,27,DLDWLLWDLLWL,WWLWLWLWLDWW
+Napoli,SPAL,1-0,/match/napoli/spal-1907/2018,2018,25,serie_a,20,38,0,1,0,2,63,20,3,1,54,15,LWLWLLWLDLWDWLLDLWLWLWLW,9,2,1,29,8,18,23,3,8,13,23,46,DWWLWLDWLWWDDWWDLDWLDDWL,1,3,8,8,22,WWWDWWLDWWWW,DWWWWDWWLWDW
+Atalanta,Fiorentina,1-1,/match/atalanta/fiorentina/2018,2018,25,serie_a,20,38,1,1,1,8,42,10,7,7,36,28,LWWDWDDWWWWDWWDLDLLLLLWD,6,3,3,20,12,11,35,8,7,9,33,31,WLLWWDWWLWWLDDWDDLDDWLLL,4,3,5,16,14,LWWDWWDWDLLW,WLWWLWDDDLWL
+Milan,Sampdoria,1-0,/match/milan/sampdoria/2018,2018,25,serie_a,20,38,0,1,0,9,41,11,5,8,34,30,LWWWWWLWDLLLWDDWWLDWLWDL,6,2,3,11,10,5,49,12,5,7,44,32,WLDDDWWWWWWLWWLDLWWWWLDW,3,3,5,15,21,WWWLDLDWLWW,LDDWWLWDWWL
+Lazio,Hellas Verona,2-0,/match/lazio/hellas-verona-fc/2018,2018,25,serie_a,20,38,0,2,0,6,46,14,4,6,59,33,DLWLLLWLWLLWWDLLDWDLWWLW,6,2,3,29,13,19,17,4,4,16,22,48,LDLWDLDWWWLWLLLDWWLWLLLW,2,3,7,13,24,DWLWWWDLWWL,DWDWWWLDWWLW
+Bologna,Genoa,2-0,/match/bologna/genoa/2018,2018,26,serie_a,20,38,0,2,0,12,32,9,3,13,31,38,DLLWDLLWWLWLLWDWLLLWWWLWW,4,3,6,18,20,14,30,8,6,11,21,25,DLWLDWLLDLWLLDLLDWDWWLLLW,5,4,4,8,7,DLDWLLWDLLWLW,DWWLDWLLDDWLL
+Inter,Benevento,2-0,/match/internazionale/benevento-calcio/2018,2018,26,serie_a,20,38,0,2,0,3,55,13,9,3,40,21,WLWLDWLWDWLDWLWDLWDDDDDWW,8,4,1,25,11,20,14,3,1,21,18,58,WLLWLWLWLWLWLWDWLWWWWWLWW,0,0,12,5,30,WWWWWDWWLDDDW,WWWWWWWWWWWW
+Crotone,SPAL,2-3,/match/fc-crotone/spal-1907/2018,2018,26,serie_a,20,38,2,2,3,16,26,5,6,14,21,44,LDWLWWDDWWWLLWLWWWLWLDDDW,3,4,5,9,15,18,23,3,8,14,23,47,DWWLWLDWLWWDDWWDLDWLDDWLW,1,3,9,8,23,LDLWDWLLWLDD,DWWWWDWWLWDWW
+Sampdoria,Udinese,2-1,/match/sampdoria/udinese/2018,2018,26,serie_a,20,38,0,2,1,6,49,12,5,8,44,33,WLDDDWWWWWWLWWLDLWWWWLDWW,9,2,2,29,11,11,35,10,3,12,36,36,LWWWLWWWLLWWLLLWLWLDDLDWL,5,1,6,16,18,WDWWWWWLLWWDW,WWWWLWLLLDLW
+Fiorentina,Chievo,1-0,/match/fiorentina/chievo/2018,2018,26,serie_a,20,38,0,1,0,10,36,8,8,9,34,32,WLLWWDWWLWWLDDWDDLDDWLLLD,4,4,4,17,17,13,31,6,7,12,23,42,LLWDDLWDWLWDDWWDWLWDWLWLW,2,3,7,8,23,LWDWWLWDDDLL,LWDLDWDWWWWW
+Sassuolo,Lazio,0-3,/match/us-sassuolo-calcio/lazio/2018,2018,26,serie_a,20,38,2,0,3,17,25,6,5,14,15,43,DWWLLLWDLLWLLLWWLWDWDLWDW,2,4,6,5,14,5,50,15,4,6,61,33,DLWLLLWLWLLWWDLLDWDLWWLWW,8,2,3,30,20,DLLDLLLWWDLD,LLLLLLWLDDLWW
+Hellas Verona,Torino,2-1,/match/hellas-verona-fc/torino-fc/2018,2018,26,serie_a,20,38,0,2,1,19,17,4,4,17,22,50,LDLWDLDWWWLWLLLDWWLWLLLWW,2,1,9,9,24,9,43,8,12,5,35,30,DWLDLWDDLWWDDDDLLDDWDWDWL,3,7,2,15,18,LLDLWLLLWLLL,DLLWDWDDLDDD
+Roma,Milan,0-2,/match/roma/milan/2018,2018,26,serie_a,20,38,2,0,2,4,52,15,5,5,40,19,LLDWLWLLLWWLWDWDWWDLDLLWL,8,1,4,22,13,7,45,12,5,8,35,30,LWWWWWLWDLLLWDDWWLDWLWDLW,5,3,5,23,20,LWWLWWWWWDLLW,LWWWLLWDWDLDL
+Cagliari,Napoli,0-5,/match/cagliari/napoli/2018,2018,26,serie_a,20,38,2,0,5,15,27,7,4,14,23,36,WWWLLLWLWWWWLLDDWLLLLDWDW,4,1,7,13,17,1,67,21,3,1,55,15,LWLWLLWLDLWDWLLDLWLWLWLWW,11,1,0,25,7,WLLLWWLDLLLW,LLLLLLDLLLLL
+Juventus,Atalanta,2-0,/match/juventus-fc/atalanta/2018,2018,26,serie_a,20,38,0,2,0,2,65,21,2,2,62,15,WLWLWWDLLWLWWWLDLWLLWLWLL,10,1,1,30,4,8,44,10,8,7,37,29,LWWDWDDWWWWDWWDLDLLLLLWDD,4,4,4,16,16,WWWWLWWWDWWW,WDDWWWDLLLLD
+SPAL,Bologna,1-0,/match/spal-1907/bologna/2018,2018,27,serie_a,20,38,0,1,0,18,25,4,8,14,26,49,DWWLWLDWLWWDDWWDLDWLDDWLWL,2,5,5,15,24,11,36,10,3,13,33,38,DLLWDLLWWLWLLWDWLLLWWWLWWW,5,0,7,13,18,WLLDLWDDDLDL,LWLLWWLWLWWW
+Lazio,Juventus,0-1,/match/lazio/juventus-fc/2018,2018,27,serie_a,20,38,2,0,1,6,52,16,4,6,64,33,DLWLLLWLWLLWWDLLDWDLWWLWWL,7,2,3,31,13,2,69,22,2,2,64,15,WLWLWWDLLWLWWWLDLWLLWLWLLW,11,1,1,32,11,DWLWWWDLWWLW,LLDLLWLLLLLLL
+Napoli,Roma,2-4,/match/napoli/roma/2018,2018,27,serie_a,20,38,2,2,4,1,69,22,3,1,60,15,LWLWLLWLDLWDWLLDLWLWLWLWWL,10,2,1,30,8,5,52,15,5,6,40,21,LLDWLWLLLWWLWDWDWWDLDLLWLL,7,4,1,18,6,WWWDWWLDWWWWW,LDLLLLDDWDLL
+Genoa,Cagliari,2-1,/match/genoa/cagliari/2018,2018,27,serie_a,20,38,0,2,1,14,30,8,6,12,21,27,DLWLDWLLDLWLLDLLDWDWWLLLWW,3,2,7,13,18,15,27,7,4,15,23,41,WWWLLLWLWWWWLLDDWLLLLDWDWL,3,3,7,10,19,LLDLLLDLWWLW,WWLWWWLDWLDDW
+Atalanta,Sampdoria,1-2,/match/atalanta/sampdoria/2018,2018,27,serie_a,20,38,2,1,2,8,44,10,8,8,37,31,LWWDWDDWWWWDWWDLDLLLLLWDDW,6,4,3,21,13,4,53,13,5,8,46,34,WLDDDWWWWWWLWWLDLWWWWLDWWW,3,3,6,15,22,LWWDWWDWDLLWD,LDDWWLWDWWLW
+Udinese,Fiorentina,0-2,/match/udinese/fiorentina/2018,2018,27,serie_a,20,38,2,0,2,12,35,10,3,13,37,38,LWWWLWWWLLWWLLLWLWLDDLDWLW,5,2,6,20,18,10,40,9,8,9,35,32,WLLWWDWWLWWLDDWDDLDDWLLLDW,4,4,5,17,15,LWLWLWLLWWDDL,WLWWLWDDDLWLD
+Benevento,Hellas Verona,3-0,/match/benevento-calcio/hellas-verona-fc/2018,2018,27,serie_a,20,38,0,3,0,20,14,3,1,22,18,60,WLLWLWLWLWLWLWDWLWWWWWLWWW,3,1,9,13,28,19,21,5,4,17,24,51,LDLWDLDWWWLWLLLDWWLWLLLWWW,2,3,8,13,26,LLLLLLLDLWWLW,DWDWWWLDWWLWW
+Milan,Inter,0-0,/match/milan/internazionale/2018,2018,27,serie_a,20,38,1,0,0,7,47,13,5,8,37,30,LWWWWWLWDLLLWDDWWLDWLWDLWL,7,2,3,12,10,3,59,14,9,3,42,21,WLWLDWLWDWLDWLWDLWDDDDDWWW,5,5,2,15,10,WWWLDLDWLWWW,LLDLDLLDWDDW
+Torino,Crotone,4-1,/match/torino-fc/fc-crotone/2018,2018,27,serie_a,20,38,0,4,1,9,43,8,12,6,36,32,DWLDLWDDLWWDDDDLLDDWDWDWLW,5,5,3,20,12,16,26,5,6,15,23,47,LDWLWWDDWWWLLWLWWWLWLDDDWL,2,2,9,12,29,WDDLWDDLDWWWL,WWDWWLWWWWLDW
+Chievo,Sassuolo,1-1,/match/chievo/us-sassuolo-calcio/2018,2018,27,serie_a,20,38,1,1,1,13,31,6,7,13,23,43,LLWDDLWDWLWDDWWDWLWDWLWLWW,4,4,5,15,19,17,25,6,5,15,15,46,DWWLLLWDLLWLLLWWLWDWDLWDWL,4,1,8,10,29,LDWWLDWDLDLLW,WWLWLWLWLDWWW
+Roma,Torino,3-0,/match/roma/torino-fc/2018,2018,28,serie_a,20,38,0,3,0,5,54,16,5,6,44,23,LLDWLWLLLWWLWDWDWWDLDLLWLLL,8,1,5,22,15,8,47,9,12,6,40,33,DWLDLWDDLWWDDDDLLDDWDWDWLWW,3,7,3,16,20,LWWLWWWWWDLLWL,DLLWDWDDLDDDW
+Hellas Verona,Chievo,1-0,/match/hellas-verona-fc/chievo/2018,2018,28,serie_a,20,38,0,1,0,19,21,5,4,18,24,54,LDLWDLDWWWLWLLLDWWLWLLLWWWW,3,1,9,11,25,14,33,6,8,13,24,44,LLWDDLWDWLWDDWWDWLWDWLWLWWD,2,3,8,8,24,LLDLWLLLWLLLW,LWDLDWDWWWWWW
+Fiorentina,Benevento,1-0,/match/fiorentina/benevento-calcio/2018,2018,28,serie_a,20,38,0,1,0,10,42,10,8,9,37,32,WLLWWDWWLWWLDDWDDLDDWLLLDWL,5,4,4,18,17,20,18,4,1,22,21,60,WLLWLWLWLWLWLWDWLWWWWWLWWWW,0,0,13,5,32,LWDWWLWDDDLLW,WWWWWWWWWWWWW
+Bologna,Atalanta,0-1,/match/bologna/atalanta/2018,2018,28,serie_a,20,38,2,0,1,11,36,10,3,14,33,39,DLLWDLLWWLWLLWDWLLLWWWLWWWW,5,3,6,20,20,9,44,10,8,9,38,33,LWWDWDDWWWWDWWDLDLLLLLWDDWL,4,4,5,16,18,DLDWLLWDLLWLWW,WDDWWWDLLLLDW
+Sassuolo,SPAL,1-1,/match/us-sassuolo-calcio/spal-1907/2018,2018,28,serie_a,20,38,1,1,1,18,26,6,6,15,16,47,DWWLLLWDLLWLLLWWLWDWDLWDWLD,2,4,7,5,17,15,29,5,8,14,27,49,DWWLWLDWLWWDDWWDLDWLDDWLWLW,2,3,9,11,25,DLLDLLLWWDLDL,DWWWWDWWLWDWWL
+Crotone,Sampdoria,4-1,/match/fc-crotone/sampdoria/2018,2018,28,serie_a,20,38,0,4,1,17,26,5,6,16,24,51,LDWLWWDDWWWLLWLWWWLWLDDDWLW,3,4,6,11,18,4,55,14,5,8,48,35,WLDDDWWWWWWLWWLDLWWWWLDWWWL,4,3,6,17,23,LDLWDWLLWLDDL,LDDWWLWDWWLWL
+Juventus,Udinese,2-0,/match/juventus-fc/udinese/2018,2018,28,serie_a,20,38,0,2,0,1,71,23,2,2,65,15,WLWLWWDLLWLWWWLDLWLLWLWLLWL,11,1,1,32,4,12,35,10,3,14,37,40,LWWWLWWWLLWWLLLWLWLDDLDWLWL,5,1,7,17,20,WWWWLWWWDWWWW,WWWWLWLLLDLWW
+Cagliari,Lazio,2-2,/match/cagliari/lazio/2018,2018,28,serie_a,20,38,1,2,2,16,27,7,4,16,24,43,WWWLLLWLWWWWLLDDWLLLLDWDWLW,4,1,8,13,22,6,52,16,4,7,64,34,DLWLLLWLWLLWWDLLDWDLWWLWWLL,9,2,3,33,20,WLLLWWLDLLLWL,LLLLLLWLDDLWWL
+Genoa,Milan,0-1,/match/genoa/milan/2018,2018,28,serie_a,20,38,2,0,1,13,34,9,6,12,23,28,DLWLDWLLDLWLLDLLDWDWWLLLWWW,4,2,7,15,19,7,49,13,6,8,37,30,LWWWWWLWDLLLWDDWWLDWLWDLWLD,6,3,5,25,20,LLDLLLDLWWLWW,LWWWLLWDWDLDLL
+Inter,Napoli,0-0,/match/internazionale/napoli/2018,2018,28,serie_a,20,38,1,0,0,3,60,14,10,3,42,21,WLWLDWLWDWLDWLWDLWDDDDDWWWD,9,4,1,27,11,2,69,22,3,2,62,19,LWLWLLWLDLWDWLLDLWLWLWLWWLL,12,1,0,30,7,WWWWWDWWLDDDWW,LLLLLLDLLLLLL
+Udinese,Sassuolo,1-2,/match/udinese/us-sassuolo-calcio/2018,2018,29,serie_a,20,38,2,1,2,12,35,10,3,15,37,42,LWWWLWWWLLWWLLLWLWLDDLDWLWLW,5,2,7,20,20,18,28,6,7,15,17,48,DWWLLLWDLLWLLLWWLWDWDLWDWLDD,4,2,8,11,30,LWLWLWLLWWDDLL,WWLWLWLWLDWWWD
+SPAL,Juventus,0-0,/match/spal-1907/juventus-fc/2018,2018,29,serie_a,20,38,1,0,0,15,30,5,9,14,28,50,DWWLWLDWLWWDDWWDLDWLDDWLWLWD,3,5,5,16,24,1,75,24,2,2,67,15,WLWLWWDLLWLWWWLDLWLLWLWLLWLW,12,1,1,33,11,WLLDLWDDDLDLW,LLDLLWLLLLLLLL
+Sampdoria,Inter,0-5,/match/sampdoria/internazionale/2018,2018,29,serie_a,20,38,2,0,5,5,55,14,5,9,49,39,WLDDDWWWWWWLWWLDLWWWWLDWWWLW,10,2,2,31,12,3,62,14,11,3,42,21,WLWLDWLWDWLDWLWDLWDDDDDWWWDD,5,6,2,15,10,WDWWWWWLLWWDWW,LLDLDLLDWDDWD
+Crotone,Roma,0-2,/match/fc-crotone/roma/2018,2018,29,serie_a,20,38,2,0,2,16,30,6,6,16,28,52,LDWLWWDDWWWLLWLWWWLWLDDDWLWW,4,4,6,15,19,4,58,17,5,6,47,23,LLDWLWLLLWWLWDWDWWDLDLLWLLLW,8,4,1,22,8,LDLWDWLLWLDDLW,LDLLLLDDWDLLL
+Hellas Verona,Atalanta,0-5,/match/hellas-verona-fc/atalanta/2018,2018,29,serie_a,20,38,2,0,5,19,25,6,4,18,25,54,LDLWDLDWWWLWLLLDWWLWLLLWWWWW,4,1,9,12,25,9,46,11,8,9,39,33,LWWDWDDWWWWDWWDLDLLLLLWDDWLL,5,4,5,17,18,LLDLWLLLWLLLWW,WDDWWWDLLLLDWL
+Torino,Fiorentina,1-2,/match/torino-fc/fiorentina/2018,2018,29,serie_a,20,38,2,1,2,8,47,9,12,7,40,36,DWLDLWDDLWWDDDDLLDDWDWDWLWWW,6,5,3,24,13,10,46,11,8,9,38,32,WLLWWDWWLWWLDDWDDLDDWLLLDWLW,5,4,5,19,15,WDDLWDDLDWWWLW,WLWWLWDDDLWLDL
+Milan,Chievo,3-2,/match/milan/chievo/2018,2018,29,serie_a,20,38,0,3,2,7,51,14,6,8,38,30,LWWWWWLWDLLLWDDWWLDWLWDLWLDL,7,3,3,12,10,14,33,6,8,14,24,45,LLWDDLWDWLWDDWWDWLWDWLWLWWDW,2,3,9,8,25,WWWLDLDWLWWWD,LWDLDWDWWWWWWW
+Benevento,Cagliari,1-2,/match/benevento-calcio/cagliari/2018,2018,29,serie_a,20,38,2,1,2,20,18,4,1,23,21,61,WLLWLWLWLWLWLWDWLWWWWWLWWWWW,4,1,9,16,28,17,29,7,5,16,26,45,WWWLLLWLWWWWLLDDWLLLLDWDWLWD,3,3,8,11,21,LLLLLLLDLWWLWW,WWLWWWLDWLDDWW
+Lazio,Bologna,1-1,/match/lazio/bologna/2018,2018,29,serie_a,20,38,1,1,1,6,53,16,5,7,66,36,DLWLLLWLWLLWWDLLDWDLWWLWWLLD,7,2,4,31,14,11,36,10,3,15,33,40,DLLWDLLWWLWLLWDWLLLWWWLWWWWL,5,0,8,13,19,DWLWWWDLWWLWL,LWLLWWLWLWWWW
+Napoli,Genoa,1-0,/match/napoli/genoa/2018,2018,29,serie_a,20,38,0,1,0,2,70,22,4,2,62,19,LWLWLLWLDLWDWLLDLWLWLWLWWLLD,10,2,2,32,12,13,34,9,6,13,23,29,DLWLDWLLDLWLLDLLDWDWWLLLWWWL,5,4,5,8,9,WWWDWWLDWWWWWL,DWWLDWLLDDWLLW
+Bologna,Roma,1-1,/match/bologna/roma/2018,2018,30,serie_a,20,38,1,1,1,11,37,10,4,15,34,41,DLLWDLLWWLWLLWDWLLLWWWLWWWWLD,5,3,7,20,21,4,60,18,5,6,49,23,LLDWLWLLLWWLWDWDWWDLDLLWLLLWL,9,4,1,24,8,DLDWLLWDLLWLWWL,LDLLLLDDWDLLLL
+Cagliari,Torino,0-4,/match/cagliari/torino-fc/2018,2018,30,serie_a,20,38,2,0,4,16,31,8,5,16,28,46,WWWLLLWLWWWWLLDDWLLLLDWDWLWDL,4,2,8,15,24,10,47,9,12,8,41,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWL,3,7,4,16,23,WLLLWWLDLLLWLD,DLLWDWDDLDDDWW
+Genoa,SPAL,1-1,/match/genoa/spal-1907/2018,2018,30,serie_a,20,38,1,1,1,13,34,9,6,14,23,30,DLWLDWLLDLWLLDLLDWDWWLLLWWWLW,4,2,8,15,20,15,32,5,10,14,28,50,DWWLWLDWLWWDDWWDLDWLDDWLWLWDD,2,4,9,12,26,LLDLLLDLWWLWWL,DWWWWDWWLWDWWLD
+Lazio,Benevento,6-2,/match/lazio/benevento-calcio/2018,2018,30,serie_a,20,38,0,6,2,6,55,16,6,7,67,37,DLWLLLWLWLLWWDLLDWDLWWLWWLLDD,7,3,4,32,15,20,18,4,1,24,22,63,WLLWLWLWLWLWLWDWLWWWWWLWWWWWL,0,0,14,5,33,DWLWWWDLWWLWLD,WWWWWWWWWWWWWW
+Inter,Hellas Verona,3-0,/match/internazionale/hellas-verona-fc/2018,2018,30,serie_a,20,38,0,3,0,3,64,15,11,3,47,21,WLWLDWLWDWLDWLWDLWDDDDDWWWDDL,9,5,1,27,11,19,25,6,4,19,25,59,LDLWDLDWWWLWLLLDWWLWLLLWWWWWL,2,3,9,13,29,WWWWWDWWLDDDWWD,DWDWWWLDWWLWWW
+Fiorentina,Crotone,2-0,/match/fiorentina/fc-crotone/2018,2018,30,serie_a,20,38,0,2,0,9,48,12,8,9,40,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWL,6,4,4,19,17,17,30,6,6,17,28,54,LDWLWWDDWWWLLWLWWWLWLDDDWLWWL,2,2,10,13,33,LWDWWLWDDDLLWW,WWDWWLWWWWLDWW
+Atalanta,Udinese,2-0,/match/atalanta/udinese/2018,2018,30,serie_a,20,38,0,2,0,8,48,12,8,9,44,33,LWWDWDDWWWWDWWDLDLLLLLWDDWLLL,6,4,4,22,15,12,35,10,3,16,38,44,LWWWLWWWLLWWLLLWLWLDDLDWLWLWL,5,1,8,17,22,LWWDWWDWDLLWDL,WWWWLWLLLDLWWW
+Sassuolo,Napoli,1-1,/match/us-sassuolo-calcio/napoli/2018,2018,30,serie_a,20,38,1,1,1,18,30,7,7,15,19,49,DWWLLLWDLLWLLLWWLWDWDLWDWLDDL,2,5,7,6,18,2,74,23,4,2,63,19,LWLWLLWLDLWDWLLDLWLWLWLWWLLDW,12,2,0,30,7,DLLDLLLWWDLDLD,LLLLLLDLLLLLLD
+Chievo,Sampdoria,2-1,/match/chievo/sampdoria/2018,2018,30,serie_a,20,38,0,2,1,14,33,6,8,15,26,48,LLWDDLWDWLWDDWWDWLWDWLWLWWDWW,4,5,5,16,20,5,55,14,5,10,49,44,WLDDDWWWWWWLWWLDLWWWWLDWWWLWL,4,3,7,18,27,LDWWLDWDLDLLWD,LDDWWLWDWWLWLW
+Juventus,Milan,3-1,/match/juventus-fc/milan/2018,2018,30,serie_a,20,38,0,3,1,1,76,24,3,2,67,15,WLWLWWDLLWLWWWLDLWLLWLWLLWLWD,12,1,1,34,4,7,55,15,6,8,41,32,LWWWWWLWDLLLWDDWWLDWLWDLWLDLW,7,3,5,26,20,WWWWLWWWDWWWWW,LWWWLLWDWDLDLLL
+Benevento,Juventus,2-4,/match/benevento-calcio/juventus-fc/2018,2018,31,serie_a,20,38,2,2,4,20,18,4,1,25,24,69,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLW,4,1,10,17,30,1,80,25,3,2,70,16,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDW,12,2,1,33,11,LLLLLLLDLWWLWWL,LLDLLWLLLLLLLLD
+SPAL,Atalanta,1-1,/match/spal-1907/atalanta/2018,2018,31,serie_a,20,38,1,1,1,15,33,5,11,14,29,51,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDD,3,6,5,16,24,8,52,13,8,9,46,33,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLW,6,4,5,22,18,WLLDLWDDDLDLWD,WDDWWWDLLLLDWLL
+Roma,Fiorentina,0-2,/match/roma/fiorentina/2018,2018,31,serie_a,20,38,2,0,2,4,61,18,6,6,50,24,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLD,9,1,5,25,15,9,52,13,8,9,42,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLW,6,4,5,21,16,LWWLWWWWWDLLWLW,WLWWLWDDDLWLDLL
+Sampdoria,Genoa,0-0,/match/sampdoria/genoa/2018,2018,31,serie_a,20,38,1,0,0,6,55,14,5,11,50,46,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLW,10,2,3,31,17,13,36,9,7,14,24,31,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWD,5,4,6,8,10,WDWWWWWLLWWDWWL,DWWLDWLLDDWLLWW
+Torino,Inter,1-0,/match/torino-fc/internazionale/2018,2018,31,serie_a,20,38,0,1,0,10,49,10,12,8,45,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLL,6,5,4,25,15,3,68,16,11,3,50,21,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLW,6,6,2,20,10,WDDLWDDLDWWWLWL,LLDLDLLDWDDWDL
+Napoli,Chievo,2-1,/match/napoli/chievo/2018,2018,31,serie_a,20,38,0,2,1,2,75,23,5,2,64,20,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWD,11,2,2,33,12,12,37,7,8,15,28,49,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWW,2,3,10,10,28,WWWDWWLDWWWWWLW,LWDLDWDWWWWWWWW
+Hellas Verona,Cagliari,1-0,/match/hellas-verona-fc/cagliari/2018,2018,31,serie_a,20,38,0,1,0,19,25,6,4,20,25,62,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLW,4,1,10,12,30,17,31,8,5,17,28,50,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLL,4,3,8,13,22,LLDLWLLLWLLLWWL,WWLWWWLDWLDDWWL
+Crotone,Bologna,1-0,/match/fc-crotone/bologna/2018,2018,31,serie_a,20,38,0,1,0,18,30,6,6,18,28,56,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLW,4,4,7,15,21,11,39,10,5,15,35,42,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDD,5,1,8,14,20,LDLWDWLLWLDDLWL,LWLLWWLWLWWWWD
+Udinese,Lazio,1-2,/match/udinese/lazio/2018,2018,31,serie_a,20,38,2,1,2,14,35,10,3,17,38,46,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLW,5,2,8,21,22,5,59,17,6,7,73,39,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDW,9,3,3,35,22,LWLWLWLLWWDDLLL,LLLLLLWLDDLWWLD
+Milan,Sassuolo,1-1,/match/milan/us-sassuolo-calcio/2018,2018,31,serie_a,20,38,1,1,1,7,55,15,6,9,42,35,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWW,8,3,3,15,12,16,32,7,8,15,20,50,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLD,5,2,8,13,31,WWWLDLDWLWWWDW,WWLWLWLWLDWWWDL
+Cagliari,Udinese,2-1,/match/cagliari/udinese/2018,2018,32,serie_a,20,38,0,2,1,18,31,8,5,18,28,51,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLW,4,2,9,15,28,14,35,10,3,18,39,48,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWL,5,1,9,17,24,WLLLWWLDLLLWLDL,WWWWLWLLLDLWWWW
+Genoa,Crotone,1-0,/match/genoa/fc-crotone/2018,2018,32,serie_a,20,38,0,1,0,13,37,9,8,14,24,31,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDD,4,3,8,16,21,16,34,7,6,18,29,56,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWW,2,2,11,13,35,LLDLLLDLWWLWWLD,WWDWWLWWWWLDWWW
+Chievo,Torino,0-0,/match/chievo/torino-fc/2018,2018,32,serie_a,20,38,1,0,0,12,37,7,8,16,29,51,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWW,5,5,5,18,21,10,53,11,12,8,46,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLW,4,7,4,20,23,LDWWLDWDLDLLWDW,DLLWDWDDLDDDWWL
+Atalanta,Inter,0-0,/match/atalanta/internazionale/2018,2018,32,serie_a,20,38,1,0,0,9,53,13,9,9,47,34,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWD,7,4,4,24,15,3,68,16,11,4,50,22,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWW,6,6,3,20,11,LWWDWWDWDLLWDLW,LLDLDLLDWDDWDLW
+Fiorentina,SPAL,0-0,/match/fiorentina/spal-1907/2018,2018,32,serie_a,20,38,1,0,0,8,54,14,8,9,44,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWL,7,4,4,21,17,15,35,5,12,14,30,52,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDD,2,5,9,13,27,LWDWWLWDDDLLWWW,DWWWWDWWLWDWWLDD
+Sassuolo,Benevento,2-2,/match/us-sassuolo-calcio/benevento-calcio/2018,2018,32,serie_a,20,38,1,2,2,17,33,7,9,15,21,51,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDD,2,6,7,7,19,20,18,4,1,26,26,73,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWL,0,0,15,7,39,DLLDLLLWWDLDLDD,WWWWWWWWWWWWWWW
+Milan,Napoli,0-0,/match/milan/napoli/2018,2018,32,serie_a,20,38,1,0,0,7,57,15,7,9,43,36,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWD,8,4,3,16,13,2,79,24,5,2,66,21,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDW,12,3,0,31,8,WWWLDLDWLWWWDWD,LLLLLLDLLLLLLDD
+Bologna,Hellas Verona,2-0,/match/bologna/hellas-verona-fc/2018,2018,32,serie_a,20,38,0,2,0,11,39,10,5,16,35,43,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDW,5,4,7,21,22,19,29,7,4,20,26,62,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWW,2,3,10,13,32,DLDWLLWDLLWLWWLD,DWDWWWLDWWLWWWW
+Juventus,Sampdoria,3-0,/match/juventus-fc/sampdoria/2018,2018,32,serie_a,20,38,0,3,0,1,82,26,3,2,74,18,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWL,13,1,1,37,5,6,57,14,6,11,50,46,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWD,4,3,8,19,29,WWWWLWWWDWWWWWW,LDDWWLWDWWLWLWW
+Lazio,Roma,0-0,/match/lazio/roma/2018,2018,32,serie_a,20,38,1,0,0,5,61,18,6,7,75,40,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWL,8,3,4,38,17,4,61,18,6,7,50,26,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDL,9,5,1,25,9,DWLWWWDLWWLWLDW,LDLLLLDDWDLLLLD
+Inter,Cagliari,4-0,/match/internazionale/cagliari/2018,2018,33,serie_a,20,38,0,4,0,3,69,16,12,4,50,22,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWD,10,5,1,30,11,17,35,9,5,18,30,52,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWW,4,3,9,13,23,WWWWWDWWLDDDWWDW,WWLWWWLDWLDDWWLW
+Benevento,Atalanta,0-3,/match/benevento-calcio/atalanta/2018,2018,33,serie_a,20,38,2,0,3,20,19,4,2,26,28,75,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLD,4,1,11,19,34,9,55,13,10,9,47,34,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDD,6,5,5,23,19,LLLLLLLDLWWLWWLL,WDDWWWDLLLLDWLLD
+Hellas Verona,Sassuolo,0-1,/match/hellas-verona-fc/us-sassuolo-calcio/2018,2018,33,serie_a,20,38,2,0,1,19,29,7,4,21,26,64,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWW,5,1,10,13,30,16,35,7,10,15,23,53,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDD,5,3,8,14,32,LLDLWLLLWLLLWWLW,WWLWLWLWLDWWWDLD
+Torino,Milan,1-1,/match/torino-fc/milan/2018,2018,33,serie_a,20,38,1,1,1,10,54,11,13,8,46,38,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWD,7,5,4,26,15,6,59,15,8,9,43,36,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDD,7,3,6,27,23,WDDLWDDLDWWWLWLW,LWWWLLWDWDLDLLLW
+Fiorentina,Lazio,3-4,/match/fiorentina/lazio/2018,2018,33,serie_a,20,38,2,3,4,8,56,14,9,9,44,33,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLD,7,5,4,21,17,4,63,18,7,7,75,40,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLD,10,3,3,37,23,LWDWWLWDDDLLWWWD,LLLLLLWLDDLWWLDL
+Crotone,Juventus,1-1,/match/fc-crotone/juventus-fc/2018,2018,33,serie_a,20,38,1,1,1,18,34,7,6,19,29,57,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWW,5,4,7,16,21,1,86,27,3,2,77,18,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLW,13,2,1,37,13,LDLWDWLLWLDDLWLW,LLDLLWLLLLLLLLDL
+Roma,Genoa,2-1,/match/roma/genoa/2018,2018,33,serie_a,20,38,0,2,1,5,62,18,7,7,50,26,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLD,9,1,6,25,17,12,41,10,8,14,25,31,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDW,5,5,6,8,10,LWWLWWWWWDLLWLWL,DWWLDWLLDDWLLWWD
+SPAL,Chievo,0-0,/match/spal-1907/chievo/2018,2018,33,serie_a,20,38,1,0,0,14,36,5,13,14,30,52,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDD,3,7,5,17,25,13,39,7,9,16,29,51,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWD,2,3,11,11,30,WLLDLWDDDLDLWDD,LWDLDWDWWWWWWWWW
+Sampdoria,Bologna,1-0,/match/sampdoria/bologna/2018,2018,33,serie_a,20,38,0,1,0,7,57,14,6,12,50,49,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDW,10,3,3,31,17,11,43,11,5,16,37,43,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWW,5,1,9,14,21,WDWWWWWLLWWDWWLD,LWLLWWLWLWWWWDW
+Napoli,Udinese,4-2,/match/napoli/udinese/2018,2018,33,serie_a,20,38,0,4,2,2,80,24,6,2,66,21,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWD,12,2,2,35,13,15,35,10,3,19,40,50,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLW,5,1,10,18,26,WWWDWWLDWWWWWLWW,WWWWLWLLLDLWWWWW
+SPAL,Roma,0-3,/match/spal-1907/roma/2018,2018,34,serie_a,20,38,2,0,3,14,38,5,14,14,30,52,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDD,3,8,5,17,25,4,66,19,7,7,52,27,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDW,9,6,1,25,9,WLLDLWDDDLDLWDDD,LDLLLLDDWDLLLLDD
+Sassuolo,Fiorentina,1-0,/match/us-sassuolo-calcio/fiorentina/2018,2018,34,serie_a,20,38,0,1,0,15,37,8,10,15,24,53,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDL,2,7,7,9,21,9,56,14,9,10,47,37,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDL,7,4,5,23,16,DLLDLLLWWDLDLDDD,WLWWLWDDDLWLDLLL
+Milan,Benevento,0-1,/match/milan/benevento-calcio/2018,2018,34,serie_a,20,38,2,0,1,7,60,15,9,9,44,37,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDD,8,5,3,16,13,20,19,4,2,27,28,78,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDL,0,1,15,9,41,WWWLDLDWLWWWDWDD,WWWWWWWWWWWWWWWD
+Cagliari,Bologna,0-0,/match/cagliari/bologna/2018,2018,34,serie_a,20,38,1,0,0,18,35,9,5,19,30,56,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWW,5,2,9,17,29,11,43,11,5,17,37,44,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWW,5,1,10,14,22,WLLLWWLDLLLWLDLW,LWLLWWLWLWWWWDWW
+Lazio,Sampdoria,4-0,/match/lazio/sampdoria/2018,2018,34,serie_a,20,38,0,4,0,5,65,19,7,7,79,43,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDL,8,4,4,38,17,6,61,15,6,12,51,49,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWW,4,3,9,19,32,DWLWWWDLWWLWLDWD,LDDWWLWDWWLWLWWW
+Chievo,Inter,1-2,/match/chievo/internazionale/2018,2018,34,serie_a,20,38,2,1,2,13,40,7,10,16,29,51,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDD,5,6,5,18,21,3,73,17,12,4,54,22,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDW,6,7,3,20,11,LDWWLDWDLDLLWDWD,LLDLDLLDWDDWDLWD
+Udinese,Crotone,1-2,/match/udinese/fc-crotone/2018,2018,34,serie_a,20,38,2,1,2,17,35,10,3,20,42,54,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWW,5,2,9,22,24,16,36,7,7,19,30,58,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWD,2,2,12,13,36,LWLWLWLLWWDDLLLL,WWDWWLWWWWLDWWWW
+Atalanta,Torino,2-1,/match/atalanta/torino-fc/2018,2018,34,serie_a,20,38,0,2,1,8,57,14,10,9,50,34,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDL,7,5,4,24,15,10,56,11,14,8,47,39,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDD,4,8,4,20,23,LWWDWWDWDLLWDLWD,DLLWDWDDLDDDWWLD
+Juventus,Napoli,0-1,/match/juventus-fc/napoli/2018,2018,34,serie_a,20,38,2,0,1,1,87,27,4,2,78,19,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWD,14,1,1,40,5,2,84,25,6,2,70,23,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDW,12,4,0,31,8,WWWWLWWWDWWWWWWW,LLLLLLDLLLLLLDDD
+Genoa,Hellas Verona,3-1,/match/genoa/hellas-verona-fc/2018,2018,34,serie_a,20,38,0,3,1,12,41,10,8,15,26,33,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWW,5,3,8,17,21,19,29,7,4,22,26,65,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWL,2,3,11,13,34,LLDLLLDLWWLWWLDW,DWDWWWLDWWLWWWWW
+Roma,Chievo,4-1,/match/roma/chievo/2018,2018,35,serie_a,20,38,0,4,1,5,68,20,7,7,55,27,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWL,10,1,6,27,18,14,40,7,10,17,30,53,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDL,2,4,11,11,30,LWWLWWWWWDLLWLWLW,LWDLDWDWWWWWWWWWD
+Inter,Juventus,2-3,/match/internazionale/juventus-fc/2018,2018,35,serie_a,20,38,2,2,3,3,75,18,12,4,56,23,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWL,11,5,1,34,11,1,87,27,4,3,78,20,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDL,13,3,1,38,14,WWWWWDWWLDDDWWDWW,LLDLLWLLLLLLLLDLD
+Crotone,Sassuolo,4-1,/match/fc-crotone/us-sassuolo-calcio/2018,2018,35,serie_a,20,38,0,4,1,16,38,8,7,19,32,59,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDL,5,5,7,17,22,13,41,9,10,15,25,53,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLW,6,3,8,15,32,LDLWDWLLWLDDLWLWD,WWLWLWLWLDWWWDLDL
+Sampdoria,Cagliari,4-1,/match/sampdoria/cagliari/2018,2018,35,serie_a,20,38,0,4,1,6,61,15,6,13,51,53,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWW,11,3,3,32,17,17,37,9,6,19,30,56,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWD,4,3,10,13,27,WDWWWWWLLWWDWWLDW,WWLWWWLDWLDDWWLWW
+Hellas Verona,SPAL,1-3,/match/hellas-verona-fc/spal-1907/2018,2018,35,serie_a,20,38,2,1,3,19,29,7,4,23,27,68,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLW,5,1,11,13,31,15,38,5,14,15,30,55,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDL,2,6,9,13,27,LLDLWLLLWLLLWWLWL,DWWWWDWWLWDWWLDDD
+Bologna,Milan,1-2,/match/bologna/milan/2018,2018,35,serie_a,20,38,2,1,2,12,44,11,6,17,37,44,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWD,6,4,7,23,22,8,60,15,9,10,44,38,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDL,7,4,6,28,24,DLDWLLWDLLWLWWLDW,LWWWLLWDWDLDLLLWD
+Atalanta,Genoa,3-1,/match/atalanta/genoa/2018,2018,35,serie_a,20,38,0,3,1,7,61,15,10,9,52,35,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLW,8,5,4,26,16,11,45,11,8,15,29,34,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWW,5,5,7,9,12,LWWDWWDWDLLWDLWDW,DWWLDWLLDDWLLWWDW
+Benevento,Udinese,3-3,/match/benevento-calcio/udinese/2018,2018,35,serie_a,20,38,1,3,3,20,21,5,2,27,29,78,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLL,4,1,12,19,37,18,35,10,3,21,43,56,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWL,5,1,11,20,30,LLLLLLLDLWWLWWLLL,WWWWLWLLLDLWWWWWW
+Fiorentina,Napoli,3-0,/match/fiorentina/napoli/2018,2018,35,serie_a,20,38,0,3,0,9,56,14,9,11,47,38,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLW,7,5,5,24,21,2,86,26,6,2,71,23,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWL,13,4,0,32,8,LWDWWLWDDDLLWWWDL,LLLLLLDLLLLLLDDDL
+Torino,Lazio,0-1,/match/torino-fc/lazio/2018,2018,35,serie_a,20,38,2,0,1,10,56,11,14,9,48,41,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDW,7,6,4,27,16,4,69,20,7,7,83,43,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLW,11,3,3,41,26,WDDLWDDLDWWWLWLWD,LLLLLLWLDDLWWLDLL
+Milan,Hellas Verona,4-1,/match/milan/hellas-verona-fc/2018,2018,36,serie_a,20,38,0,4,1,8,62,16,9,10,46,39,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDLL,8,5,4,16,14,19,29,7,4,24,28,71,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLWL,2,3,12,14,37,WWWLDLDWLWWWDWDDL,DWDWWWLDWWLWWWWWW
+Juventus,Bologna,3-1,/match/juventus-fc/bologna/2018,2018,36,serie_a,20,38,0,3,1,1,89,28,4,3,81,22,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDLL,14,1,2,40,6,12,44,11,6,18,38,46,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWDL,5,2,10,14,22,WWWWLWWWDWWWWWWWL,LWLLWWLWLWWWWDWWD
+Udinese,Inter,0-4,/match/udinese/internazionale/2018,2018,36,serie_a,20,38,2,0,4,18,36,10,4,21,46,59,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWLD,5,2,10,23,26,3,75,18,12,5,58,26,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWLL,7,7,3,22,12,LWLWLWLLWWDDLLLLL,LLDLDLLDWDDWDLWDL
+Lazio,Atalanta,1-1,/match/lazio/atalanta/2018,2018,36,serie_a,20,38,1,1,1,5,71,21,7,7,84,43,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLWL,9,4,4,42,17,7,65,16,10,9,55,36,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLWW,7,5,5,26,19,DWLWWWDLWWLWLDWDW,WDDWWWDLLLLDWLLDL
+Genoa,Fiorentina,2-3,/match/genoa/fiorentina/2018,2018,36,serie_a,20,38,2,2,3,11,45,11,8,16,30,37,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWWW,6,3,8,20,22,9,60,15,9,11,50,38,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLWW,7,4,6,23,17,LLDLLLDLWWLWWLDWW,WLWWLWDDDLWLDLLLW
+Chievo,Crotone,2-1,/match/chievo/fc-crotone/2018,2018,36,serie_a,20,38,0,2,1,15,40,7,10,18,31,57,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDLW,5,6,6,19,23,13,42,9,7,19,36,60,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDLW,3,2,12,15,37,LDWWLDWDLDLLWDWDL,WWDWWLWWWWLDWWWWL
+SPAL,Benevento,2-0,/match/spal-1907/benevento-calcio/2018,2018,36,serie_a,20,38,0,2,0,16,40,6,14,15,33,56,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDLL,3,8,6,17,28,20,23,5,3,27,32,81,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLLD,1,1,15,10,41,WLLDLWDDDLDLWDDDL,WWWWWWWWWWWWWWWDL
+Napoli,Torino,2-2,/match/napoli/torino-fc/2018,2018,36,serie_a,20,38,1,2,2,2,86,26,6,3,71,26,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWLW,13,2,2,39,15,10,56,11,14,10,48,42,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDWL,4,8,5,21,25,WWWDWWLDWWWWWLWWW,DLLWDWDDLDDDWWLDW
+Sassuolo,Sampdoria,1-0,/match/us-sassuolo-calcio/sampdoria/2018,2018,36,serie_a,20,38,0,1,0,14,41,9,10,16,26,57,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLWW,3,7,7,10,21,6,65,16,6,13,55,54,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWWW,4,3,10,19,36,DLLDLLLWWDLDLDDDW,LDDWWLWDWWLWLWWWW
+Cagliari,Roma,0-1,/match/cagliari/roma/2018,2018,36,serie_a,20,38,2,0,1,17,37,9,6,20,31,60,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWDW,5,3,9,17,29,4,72,21,7,7,59,28,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWLW,10,6,1,28,9,WLLLWWLDLLLWLDLWD,LDLLLLDDWDLLLLDDL
+Benevento,Genoa,1-0,/match/benevento-calcio/genoa/2018,2018,37,serie_a,20,38,0,1,0,20,23,5,3,28,32,83,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLLDW,4,2,12,22,40,12,45,11,8,17,32,40,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWWWL,5,5,8,10,15,LLLLLLLDLWWLWWLLLD,DWWLDWLLDDWLLWWDWW
+Inter,Sassuolo,1-2,/match/internazionale/us-sassuolo-calcio/2018,2018,37,serie_a,20,38,2,1,2,3,77,19,12,5,62,26,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWLLL,11,5,2,36,14,11,45,10,10,16,27,57,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLWWW,6,3,9,16,36,WWWWWDWWLDDDWWDWWL,WWLWLWLWLDWWWDLDLW
+Fiorentina,Cagliari,0-1,/match/fiorentina/cagliari/2018,2018,37,serie_a,20,38,2,0,1,9,62,16,9,11,53,40,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLWWL,8,5,5,27,21,17,37,9,6,21,31,61,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWDWL,4,3,11,14,31,LWDWWLWDDDLLWWWDLW,WWLWWWLDWLDDWWLWWW
+Torino,SPAL,2-1,/match/torino-fc/spal-1907/2018,2018,37,serie_a,20,38,0,2,1,10,57,11,15,10,50,44,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDWLD,7,6,5,27,17,15,44,7,14,15,35,56,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDLLW,3,6,9,16,28,WDDLWDDLDWWWLWLWDL,DWWWWDWWLWDWWLDDDL
+Hellas Verona,Udinese,0-1,/match/hellas-verona-fc/udinese/2018,2018,37,serie_a,20,38,2,0,1,19,29,7,4,25,29,75,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLWLW,5,1,12,14,34,18,36,10,4,22,46,63,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWLDL,5,2,11,23,33,LLDLWLLLWLLLWWLWLL,WWWWLWLLLDLWWWWWWD
+Crotone,Lazio,2-2,/match/fc-crotone/lazio/2018,2018,37,serie_a,20,38,1,2,2,16,42,9,7,20,37,62,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDLWW,6,5,7,21,23,5,73,21,8,7,85,44,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLWLD,12,3,3,42,26,LDLWDWLLWLDDLWLWDW,LLLLLLWLDDLWWLDLLL
+Bologna,Chievo,1-2,/match/bologna/chievo/2018,2018,37,serie_a,20,38,2,1,2,13,44,11,6,19,39,49,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWDLW,6,4,8,24,24,14,44,8,10,18,33,58,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDLWW,2,4,12,12,34,DLDWLLWDLLWLWWLDWL,LWDLDWDWWWWWWWWWDW
+Atalanta,Milan,1-1,/match/atalanta/milan/2018,2018,37,serie_a,20,38,1,1,1,6,66,16,11,9,56,37,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLWWD,9,5,4,29,17,7,66,17,9,10,50,40,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDLLW,8,4,6,30,25,LWWDWWDWDLLWDLWDWW,LWWWLLWDWDLDLLLWDL
+Sampdoria,Napoli,0-2,/match/sampdoria/napoli/2018,2018,37,serie_a,20,38,2,0,2,8,65,16,6,14,55,55,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWWWW,12,3,3,36,18,2,88,26,7,3,73,28,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWLWD,13,4,1,32,11,WDWWWWWLLWWDWWLDWW,LLLLLLDLLLLLLDDDLW
+Roma,Juventus,0-0,/match/roma/juventus-fc/2018,2018,37,serie_a,20,38,1,0,0,4,74,22,7,7,60,28,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWLWL,11,1,6,31,19,1,93,29,4,3,84,23,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDLLW,14,3,1,41,16,LWWLWWWWWDLLWLWLWW,LLDLLWLLLLLLLLDLDL
+Juventus,Hellas Verona,2-1,/match/juventus-fc/hellas-verona-fc/2018,2018,38,serie_a,20,38,0,2,1,1,94,29,5,3,84,23,WLWLWWDLLWLWWWLDLWLLWLWLLWLWDWLWDLLWD,15,1,2,43,7,19,29,7,4,26,29,76,LDLWDLDWWWLWLLLDWWLWLLLWWWWWLWWWLWLWL,2,3,13,15,41,WWWWLWWWDWWWWWWWLW,DWDWWWLDWWLWWWWWWW
+Genoa,Torino,1-2,/match/genoa/torino-fc/2018,2018,38,serie_a,20,38,2,1,2,13,45,11,8,18,32,41,DLWLDWLLDLWLLDLLDWDWWLLLWWWLWDDWWWWLW,6,3,9,22,25,10,61,12,15,10,52,45,DWLDLWDDLWWDDDDLLDDWDWDWLWWWLLWDDWLDW,4,9,5,23,27,LLDLLLDLWWLWWLDWWL,DLLWDWDDLDDDWWLDWD
+Udinese,Bologna,1-0,/match/udinese/bologna/2018,2018,38,serie_a,20,38,0,1,0,18,38,11,4,22,47,63,LWWWLWWWLLWWLLLWLWLDDLDWLWLWLWLWWLDLL,5,2,11,23,30,14,44,11,6,20,40,51,DLLWDLLWWLWLLWDWLLLWWWLWWWWLDDWWWDLWL,5,2,11,15,25,LWLWLWLLWWDDLLLLLL,LWLLWWLWLWWWWDWWDW
+Napoli,Crotone,2-1,/match/napoli/fc-crotone/2018,2018,38,serie_a,20,38,0,2,1,2,90,27,7,3,75,28,LWLWLLWLDLWDWLLDLWLWLWLWWLLDWDWDWLWDL,13,3,2,41,17,16,44,9,8,20,39,64,LDWLWWDDWWWLLWLWWWLWLDDDWLWWLWWWDLWWD,3,2,13,16,39,WWWDWWLDWWWWWLWWWD,WWDWWLWWWWLDWWWWLW
+Milan,Fiorentina,5-1,/match/milan/fiorentina/2018,2018,38,serie_a,20,38,0,5,1,7,67,17,10,10,51,41,LWWWWWLWDLLLWDDWWLDWLWDLWLDLWWDDDLLWD,9,5,4,20,15,9,62,16,9,12,53,41,WLLWWDWWLWWLDDWDDLDDWLLLDWLWLWLDLWWLL,8,4,6,26,19,WWWLDLDWLWWWDWDDLW,WLWWLWDDDLWLDLLLWL
+Chievo,Benevento,1-0,/match/chievo/benevento-calcio/2018,2018,38,serie_a,20,38,0,1,0,12,46,9,10,18,35,59,LLWDDLWDWLWDDWWDWLWDWLWLWWDWWWWDDLWWL,6,6,6,21,24,20,27,6,3,28,33,83,WLLWLWLWLWLWLWDWLWWWWWLWWWWWLWLDLLDWW,1,1,16,10,43,LDWWLDWDLDLLWDWDLW,WWWWWWWWWWWWWWWDLW
+SPAL,Sampdoria,3-1,/match/spal-1907/sampdoria/2018,2018,38,serie_a,20,38,0,3,1,15,44,7,14,16,36,58,DWWLWLDWLWWDDWWDLDWLDDWLWLWDDDDDDLLWW,4,8,6,19,28,8,65,16,6,15,55,57,WLDDDWWWWWWLWWLDLWWWWLDWWWLWLWDWWWWWL,4,3,11,19,37,WLLDLWDDDLDLWDDDLW,LDDWWLWDWWLWLWWWWW
+Cagliari,Atalanta,1-0,/match/cagliari/atalanta/2018,2018,38,serie_a,20,38,0,1,0,17,39,10,6,21,32,61,WWWLLLWLWWWWLLDDWLLLLDWDWLWDLLWWWDWLL,5,3,10,17,30,6,68,16,12,9,57,38,LWWDWDDWWWWDWWDLDLLLLLWDDWLLLWDDLWWDD,7,6,5,27,20,WLLLWWLDLLLWLDLWDL,WDDWWWDLLLLDWLLDLD
+Lazio,Inter,2-3,/match/lazio/internazionale/2018,2018,38,serie_a,20,38,2,2,3,5,74,21,9,7,87,46,DLWLLLWLWLLWWDLLDWDLWWLWWLLDDWLDLWLDD,9,5,4,43,18,3,77,19,12,6,63,28,WLWLDWLWDWLDWLWDLWDDDDDWWWDDLWWDWLLLL,8,7,3,26,12,DWLWWWDLWWLWLDWDWD,LLDLDLLDWDDWDLWDLL
+Sassuolo,Roma,0-1,/match/us-sassuolo-calcio/roma/2018,2018,38,serie_a,20,38,2,0,1,11,47,11,10,16,29,58,DWWLLLWDLLWLLLWWLWDWDLWDWLDDLDDDLWWWL,4,7,7,11,21,4,76,22,8,7,60,28,LLDWLWLLLWWLWDWDWWDLDLLWLLLWLDLDWLWLD,11,6,1,29,9,DLLDLLLWWDLDLDDDWW,LDLLLLDDWDLLLLDDLL

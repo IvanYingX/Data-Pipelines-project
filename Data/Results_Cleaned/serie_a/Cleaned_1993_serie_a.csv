@@ -1,307 +1,307 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Atalanta,Parma,2-1,/match/atalanta/parma-fc/1993,1993,1,serie_a,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sampdoria,Lazio,3-3,/match/sampdoria/lazio/1993,1993,1,serie_a,18,34,1,3,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Napoli,Brescia,0-0,/match/napoli/brescia/1993,1993,1,serie_a,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Cagliari,Juventus,0-0,/match/cagliari/juventus-fc/1993,1993,1,serie_a,18,34,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Udinese,Inter,2-1,/match/udinese/internazionale/1993,1993,1,serie_a,18,34,0,2,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Fiorentina,Genoa,1-1,/match/fiorentina/genoa/1993,1993,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Milan,Calcio Foggia,1-0,/match/milan/us-foggia/1993,1993,1,serie_a,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Roma,Pescara,0-1,/match/roma/pescara-calcio/1993,1993,1,serie_a,18,34,2,0,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Torino,Ancona,4-1,/match/torino-fc/ancona/1993,1993,1,serie_a,18,34,0,4,1,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lazio,Fiorentina,2-2,/match/lazio/fiorentina/1993,1993,2,serie_a,18,34,1,2,2,12,0,1,0,3,3,D,0,0,0,0,0,8,0,1,0,1,1,D,0,0,0,0,0,,
-Calcio Foggia,Napoli,2-4,/match/us-foggia/napoli/1993,1993,2,serie_a,18,34,2,2,4,17,0,0,1,0,1,W,0,0,0,0,0,5,0,1,0,0,0,D,0,0,0,0,0,,
-Juventus,Atalanta,4-1,/match/juventus-fc/atalanta/1993,1993,2,serie_a,18,34,0,4,1,13,0,1,0,0,0,D,0,0,0,0,0,4,1,0,0,2,1,W,0,0,0,0,0,,
-Inter,Cagliari,3-1,/match/internazionale/cagliari/1993,1993,2,serie_a,18,34,0,3,1,18,0,0,1,1,2,W,0,0,0,0,0,7,0,1,0,0,0,D,0,0,0,0,0,,
-Parma,Udinese,3-1,/match/parma-fc/udinese/1993,1993,2,serie_a,18,34,0,3,1,16,0,0,1,1,2,W,0,0,0,0,0,3,1,0,0,2,1,W,0,0,0,0,0,,
-Genoa,Roma,0-0,/match/genoa/roma/1993,1993,2,serie_a,18,34,1,0,0,10,0,1,0,1,1,D,0,0,0,0,0,14,0,0,1,0,1,L,0,0,0,0,0,,
-Brescia,Torino,0-0,/match/brescia/torino-fc/1993,1993,2,serie_a,18,34,1,0,0,11,0,1,0,0,0,D,0,0,0,0,0,1,1,0,0,4,1,W,0,0,0,0,0,,
-Ancona,Sampdoria,2-3,/match/ancona/sampdoria/1993,1993,2,serie_a,18,34,2,2,3,15,0,0,1,1,4,W,0,0,0,0,0,6,0,1,0,3,3,D,0,0,0,0,0,,
-Pescara,Milan,4-5,/match/pescara-calcio/milan/1993,1993,2,serie_a,18,34,2,4,5,9,1,0,0,1,0,L,0,0,0,0,0,2,1,0,0,1,0,W,0,0,0,0,0,,
-Roma,Calcio Foggia,3-1,/match/roma/us-foggia/1993,1993,3,serie_a,18,34,0,3,1,16,0,1,1,0,1,LD,0,0,1,0,1,18,0,0,2,2,5,WL,0,0,1,0,1,L,W
-Milan,Atalanta,2-0,/match/milan/atalanta/1993,1993,3,serie_a,18,34,0,2,0,1,2,0,0,6,4,WL,1,0,0,1,0,8,1,0,1,3,5,WW,0,0,1,1,4,W,W
-Torino,Parma,3-0,/match/torino-fc/parma-fc/1993,1993,3,serie_a,18,34,0,3,0,2,1,1,0,4,1,WD,1,0,0,4,1,5,1,0,1,4,3,WW,0,0,1,1,2,W,W
-Napoli,Inter,1-2,/match/napoli/internazionale/1993,1993,3,serie_a,18,34,2,1,2,7,1,1,0,4,2,DL,0,1,0,0,0,6,1,0,1,4,3,WW,0,0,1,1,2,D,W
-Cagliari,Lazio,1-1,/match/cagliari/lazio/1993,1993,3,serie_a,18,34,1,1,1,14,0,1,1,1,3,DW,0,1,0,0,0,12,0,2,0,5,5,DD,0,1,0,3,3,D,D
-Genoa,Juventus,2-2,/match/genoa/juventus-fc/1993,1993,3,serie_a,18,34,1,2,2,13,0,2,0,1,1,DD,0,1,0,0,0,3,1,1,0,4,1,DW,0,1,0,0,0,D,D
-Udinese,Sampdoria,1-2,/match/udinese/sampdoria/1993,1993,3,serie_a,18,34,2,1,2,9,1,0,1,3,4,WW,1,0,0,2,1,4,1,1,0,6,5,DL,1,0,0,3,2,W,L
-Brescia,Pescara,1-0,/match/brescia/pescara-calcio/1993,1993,3,serie_a,18,34,0,1,0,11,0,2,0,0,0,DD,0,1,0,0,0,15,1,0,1,5,5,LL,1,0,0,1,0,D,L
-Fiorentina,Ancona,7-1,/match/fiorentina/ancona/1993,1993,3,serie_a,18,34,0,7,1,10,0,2,0,3,3,DD,0,1,0,1,1,17,0,0,2,3,7,WL,0,0,1,1,4,D,W
-Juventus,Roma,1-1,/match/juventus-fc/roma/1993,1993,4,serie_a,18,34,1,1,1,7,1,2,0,6,3,DWD,1,0,0,4,1,9,1,1,1,3,2,LDW,0,1,0,0,0,W,D
-Inter,Fiorentina,2-2,/match/internazionale/fiorentina/1993,1993,4,serie_a,18,34,1,2,2,5,2,0,1,6,4,WWL,1,0,0,3,1,4,1,2,0,10,4,DDW,0,1,0,2,2,W,D
-Parma,Brescia,2-0,/match/parma-fc/brescia/1993,1993,4,serie_a,18,34,0,2,0,10,1,0,2,4,6,WWW,1,0,0,3,1,3,1,2,0,1,0,DDW,0,1,0,0,0,W,D
-Lazio,Genoa,1-1,/match/lazio/genoa/1993,1993,4,serie_a,18,34,1,1,1,14,0,3,0,6,6,DDD,0,1,0,2,2,8,0,3,0,3,3,DDD,0,1,0,1,1,D,D
-Atalanta,Cagliari,2-1,/match/atalanta/cagliari/1993,1993,4,serie_a,18,34,0,2,1,12,1,0,2,3,7,WWW,1,0,0,2,1,15,0,2,1,2,4,DWD,0,0,1,1,3,W,W
-Calcio Foggia,Udinese,1-0,/match/us-foggia/udinese/1993,1993,4,serie_a,18,34,0,1,0,18,0,0,3,3,8,WLW,0,0,1,2,4,13,1,0,2,4,6,WWL,0,0,1,1,3,L,W
-Ancona,Napoli,1-1,/match/ancona/napoli/1993,1993,4,serie_a,18,34,1,1,1,17,0,0,3,4,14,WLW,0,0,1,2,3,11,1,1,1,5,4,DLL,1,0,0,4,2,L,L
-Pescara,Torino,2-2,/match/pescara-calcio/torino-fc/1993,1993,4,serie_a,18,34,1,2,2,16,1,0,2,5,6,LLW,0,0,1,4,5,2,2,1,0,7,1,WDW,0,1,0,0,0,L,D
-Sampdoria,Milan,1-2,/match/sampdoria/milan/1993,1993,4,serie_a,18,34,2,1,2,6,2,1,0,8,6,DLL,0,1,0,3,3,1,3,0,0,8,4,WLW,1,0,0,5,4,D,L
-Cagliari,Roma,1-0,/match/cagliari/roma/1993,1993,5,serie_a,18,34,0,1,0,15,0,2,2,3,6,DWDW,0,2,0,1,1,11,1,2,1,4,3,LDWD,0,2,0,1,1,DD,DD
-Inter,Atalanta,1-0,/match/internazionale/atalanta/1993,1993,5,serie_a,18,34,0,1,0,6,2,1,1,8,6,WWLD,1,1,0,5,3,4,2,0,2,5,8,WWWW,0,0,2,1,6,WD,WW
-Torino,Sampdoria,2-2,/match/torino-fc/sampdoria/1993,1993,5,serie_a,18,34,1,2,2,2,2,2,0,9,3,WDWD,2,0,0,7,1,9,2,1,1,9,8,DLLL,2,0,0,5,3,WW,LL
-Lazio,Parma,5-2,/match/lazio/parma-fc/1993,1993,5,serie_a,18,34,0,5,2,12,0,4,0,7,7,DDDD,0,2,0,3,3,5,2,0,2,6,6,WWWW,0,0,2,1,5,DD,WW
-Udinese,Pescara,5-2,/match/udinese/pescara-calcio/1993,1993,5,serie_a,18,34,0,5,2,14,1,0,3,4,7,WWLW,1,0,1,3,3,16,1,1,2,7,8,LLWD,1,0,1,1,1,WL,LW
-Napoli,Juventus,2-3,/match/napoli/juventus-fc/1993,1993,5,serie_a,18,34,2,2,3,13,1,2,1,6,5,DLLD,0,1,1,1,2,3,1,3,0,7,4,DWDD,0,2,0,2,2,DL,DD
-Genoa,Ancona,4-4,/match/genoa/ancona/1993,1993,5,serie_a,18,34,1,4,4,10,0,4,0,4,4,DDDD,0,2,0,2,2,18,0,1,3,5,15,WLWD,0,0,2,2,11,DD,WW
-Brescia,Calcio Foggia,4-1,/match/brescia/us-foggia/1993,1993,5,serie_a,18,34,0,4,1,8,1,2,1,1,2,DDWW,1,1,0,1,0,17,1,0,3,4,8,WLWW,0,0,2,1,4,DW,WW
-Fiorentina,Milan,3-7,/match/fiorentina/milan/1993,1993,5,serie_a,18,34,2,3,7,7,1,3,0,12,6,DDWD,1,1,0,8,2,1,4,0,0,10,5,WLWL,2,0,0,7,5,DW,LL
-Juventus,Brescia,0-0,/match/juventus-fc/brescia/1993,1993,6,serie_a,18,34,1,0,0,5,2,3,0,10,6,DWDDL,1,1,0,5,2,4,2,2,1,5,3,DDWWW,0,1,1,0,2,WD,DW
-Milan,Lazio,5-3,/match/milan/lazio/1993,1993,6,serie_a,18,34,0,5,3,1,5,0,0,17,8,WLWLL,2,0,0,3,0,6,1,4,0,12,9,DDDDW,0,2,0,4,4,WW,DD
-Sampdoria,Cagliari,2-0,/match/sampdoria/cagliari/1993,1993,6,serie_a,18,34,0,2,0,13,2,2,1,11,10,DLLLD,0,1,1,4,5,7,1,2,2,4,6,DWDWW,0,0,2,2,5,DL,WW
-Atalanta,Torino,0-0,/match/atalanta/torino-fc/1993,1993,6,serie_a,18,34,1,0,0,12,2,0,3,5,9,WWWWW,2,0,0,4,2,2,2,3,0,11,5,WDWDD,0,2,0,2,2,WW,DD
-Pescara,Fiorentina,0-2,/match/pescara-calcio/fiorentina/1993,1993,6,serie_a,18,34,2,0,2,16,1,1,3,9,13,LLWDW,0,1,1,6,7,10,1,3,1,15,13,DDWDL,0,2,0,4,4,LD,DD
-Roma,Inter,4-1,/match/roma/internazionale/1993,1993,6,serie_a,18,34,0,4,1,14,1,2,2,4,4,LDWDW,1,0,1,3,2,3,3,1,1,9,6,WWLDW,1,0,1,3,3,LW,WL
-Parma,Ancona,3-0,/match/parma-fc/ancona/1993,1993,6,serie_a,18,34,0,3,0,11,2,0,3,8,11,WWWWW,2,0,0,5,1,18,0,2,3,9,19,WLWDD,0,1,2,6,15,WW,WWD
-Udinese,Napoli,2-0,/match/udinese/napoli/1993,1993,6,serie_a,18,34,0,2,0,8,2,0,3,9,9,WWLWW,2,0,1,8,5,15,1,2,2,8,8,DLLDL,1,1,0,5,3,WLW,LD
-Calcio Foggia,Genoa,2-2,/match/us-foggia/genoa/1993,1993,6,serie_a,18,34,1,2,2,17,1,0,4,5,12,WLWWW,1,0,1,3,4,9,0,5,0,8,8,DDDDD,0,2,0,2,2,LW,DD
-Lazio,Atalanta,3-0,/match/lazio/atalanta/1993,1993,7,serie_a,18,34,0,3,0,12,1,4,1,15,14,DDDDWW,1,2,0,8,5,10,2,1,3,5,9,WWWWWD,0,0,3,1,7,DDW,WWW
-Parma,Milan,0-2,/match/parma-fc/milan/1993,1993,7,serie_a,18,34,2,0,2,3,3,0,3,11,11,WWWWWW,3,0,0,8,1,1,6,0,0,22,11,WLWLLW,3,0,0,14,8,WWW,LLL
-Inter,Juventus,3-1,/match/internazionale/juventus-fc/1993,1993,7,serie_a,18,34,0,3,1,4,3,1,2,10,10,WWLDWW,2,1,0,6,3,6,2,4,0,10,6,DWDDLD,1,2,0,5,4,WDW,DDL
-Torino,Udinese,1-0,/match/torino-fc/udinese/1993,1993,7,serie_a,18,34,0,1,0,2,2,4,0,11,5,WDWDDD,2,1,0,9,3,7,3,0,3,11,9,WWLWWW,0,0,2,1,4,WWD,WW
-Napoli,Roma,2-1,/match/napoli/roma/1993,1993,7,serie_a,18,34,0,2,1,16,1,2,3,8,10,DLLDLW,0,1,2,3,5,9,2,2,2,8,5,LDWDWW,0,2,1,1,2,DLL,DDW
-Ancona,Calcio Foggia,3-0,/match/ancona/us-foggia/1993,1993,7,serie_a,18,34,0,3,0,18,0,2,4,9,22,WLWDDW,0,1,1,3,4,15,1,1,4,7,14,WLWWWD,0,0,3,2,8,LD,WWW
-Genoa,Pescara,4-3,/match/genoa/pescara-calcio/1993,1993,7,serie_a,18,34,0,4,3,13,0,6,0,10,10,DDDDDD,0,3,0,6,6,17,1,1,4,9,15,LLWDWL,1,0,2,3,6,DDD,LWW
-Brescia,Cagliari,0-2,/match/brescia/cagliari/1993,1993,7,serie_a,18,34,2,0,2,5,2,3,1,5,3,DDWWWD,2,1,0,5,1,14,1,2,3,4,8,DWDWWW,0,0,3,2,7,DWW,WWW
-Fiorentina,Sampdoria,4-0,/match/fiorentina/sampdoria/1993,1993,7,serie_a,18,34,0,4,0,11,2,3,1,17,13,DDWDLL,1,1,1,11,9,8,3,2,1,13,10,DLLLDW,2,1,0,7,5,DWL,LLD
-Cagliari,Fiorentina,2-1,/match/cagliari/fiorentina/1993,1993,8,serie_a,18,34,0,2,1,12,2,2,3,6,8,DWDWWWL,1,2,0,2,1,4,3,3,1,21,13,DDWDLLW,1,2,0,6,4,DDW,DDL
-Milan,Torino,0-0,/match/milan/torino-fc/1993,1993,8,serie_a,18,34,1,0,0,1,7,0,0,24,11,WLWLLWL,3,0,0,8,3,2,3,4,0,12,5,WDWDDDW,0,3,0,2,2,WWW,DDD
-Sampdoria,Genoa,4-1,/match/sampdoria/genoa/1993,1993,8,serie_a,18,34,0,4,1,11,3,2,2,13,14,DLLLDWW,1,1,1,6,5,6,1,6,0,14,13,DDDDDDW,0,3,0,4,4,DLW,DDD
-Atalanta,Napoli,3-2,/match/atalanta/napoli/1993,1993,8,serie_a,18,34,0,3,2,13,2,1,4,5,12,WWWWWDW,2,1,0,4,2,15,2,2,3,10,11,DLLDLWW,1,1,1,5,5,WWD,LDW
-Pescara,Inter,1-4,/match/pescara-calcio/internazionale/1993,1993,8,serie_a,18,34,2,1,4,18,1,1,5,12,19,LLWDWLW,0,1,2,6,9,3,4,1,2,13,11,WWLDWWW,1,0,2,4,7,LDL,WLW
-Roma,Brescia,2-3,/match/roma/brescia/1993,1993,8,serie_a,18,34,2,2,3,14,2,2,3,9,7,LDWDWWW,2,0,1,7,3,8,2,3,2,5,5,DDWWWDL,0,2,1,0,2,LWW,DWD
-Juventus,Ancona,5-1,/match/juventus-fc/ancona/1993,1993,8,serie_a,18,34,0,5,1,9,2,4,1,11,9,DWDDLDW,1,2,0,5,2,16,1,2,4,12,22,WLWDDWW,0,1,3,6,18,WDD,WWDW
-Udinese,Lazio,0-0,/match/udinese/lazio/1993,1993,8,serie_a,18,34,1,0,0,10,3,0,4,11,10,WWLWWWW,3,0,1,10,5,5,2,4,1,18,14,DDDDWWW,0,2,1,7,9,WLWW,DDW
-Calcio Foggia,Parma,1-0,/match/us-foggia/parma-fc/1993,1993,8,serie_a,18,34,0,1,0,17,1,1,5,7,17,WLWWWDW,1,1,1,5,6,7,3,0,4,11,13,WWWWWWL,0,0,3,3,10,LWD,WWW
-Lazio,Torino,1-2,/match/lazio/torino-fc/1993,1993,9,serie_a,18,34,2,1,2,5,2,5,1,18,14,DDDDWWWD,2,2,0,11,5,3,3,5,0,12,5,WDWDDDWD,0,4,0,2,2,DDWW,DDDD
-Inter,Sampdoria,0-0,/match/internazionale/sampdoria/1993,1993,9,serie_a,18,34,1,0,0,2,5,1,2,17,12,WWLDWWWL,3,1,0,9,4,6,4,2,2,17,15,DLLLDWWW,2,1,1,7,9,WDWW,LLDW
-Atalanta,Calcio Foggia,2-1,/match/atalanta/us-foggia/1993,1993,9,serie_a,18,34,0,2,1,7,3,1,4,8,14,WWWWWDWW,3,1,0,7,4,15,2,1,5,8,17,WLWWWDWW,0,0,4,2,11,WWDW,WWWW
-Juventus,Udinese,5-1,/match/juventus-fc/udinese/1993,1993,9,serie_a,18,34,0,5,1,4,3,4,1,16,10,DWDDLDWW,2,2,0,10,3,9,3,1,4,11,10,WWLWWWWD,0,0,3,1,5,WDDW,WWW
-Parma,Pescara,1-0,/match/parma-fc/pescara-calcio/1993,1993,9,serie_a,18,34,0,1,0,13,3,0,5,11,14,WWWWWWLW,3,0,1,8,3,18,1,1,6,13,23,LLWDWLWL,1,0,3,6,10,WWWL,LWWW
-Ancona,Brescia,5-1,/match/ancona/brescia/1993,1993,9,serie_a,18,34,0,5,1,17,1,2,5,13,27,WLWDDWWW,1,1,1,6,4,10,3,3,2,8,7,DDWWWDLL,1,2,1,3,4,LDW,DWDL
-Napoli,Milan,1-5,/match/napoli/milan/1993,1993,9,serie_a,18,34,2,1,5,16,2,2,4,12,14,DLLDLWWW,1,1,2,5,6,1,7,1,0,24,11,WLWLLWLD,4,0,0,16,8,DLLW,LLLL
-Fiorentina,Roma,2-1,/match/fiorentina/roma/1993,1993,9,serie_a,18,34,0,2,1,11,3,3,2,22,15,DDWDLLWW,2,1,1,15,9,14,2,2,4,11,10,LDWDWWWL,0,2,2,2,4,DWLW,DDWW
-Genoa,Cagliari,2-3,/match/genoa/cagliari/1993,1993,9,serie_a,18,34,2,2,3,12,1,6,1,15,17,DDDDDDWW,1,3,0,10,9,8,3,2,3,8,9,DWDWWWLW,1,0,3,4,7,DDDW,WWWL
-Torino,Juventus,1-2,/match/torino-fc/juventus-fc/1993,1993,10,serie_a,18,34,2,1,2,2,4,5,0,14,6,WDWDDDWDL,3,1,0,10,3,3,4,4,1,21,11,DWDDLDWWW,1,2,1,6,7,WWDW,DDLW
-Milan,Inter,1-1,/match/milan/internazionale/1993,1993,10,serie_a,18,34,1,1,1,1,8,1,0,29,12,WLWLLWLDL,3,1,0,8,3,4,5,2,2,17,12,WWLDWWWLD,2,0,2,8,8,WWWD,WLWL
-Sampdoria,Napoli,3-1,/match/sampdoria/napoli/1993,1993,10,serie_a,18,34,0,3,1,7,4,3,2,17,15,DLLLDWWWD,2,1,1,10,6,17,2,2,5,13,19,DLLDLWWWL,1,1,2,7,8,DLWW,LDWW
-Cagliari,Parma,0-1,/match/cagliari/parma-fc/1993,1993,10,serie_a,18,34,2,0,1,8,4,2,3,11,11,DWDWWWLWL,2,2,0,4,2,9,4,0,5,12,14,WWWWWWLWW,0,0,4,3,11,DDWW,WWWW
-Calcio Foggia,Lazio,2-1,/match/us-foggia/lazio/1993,1993,10,serie_a,18,34,0,2,1,16,2,1,6,9,19,WLWWWDWWW,2,1,1,6,6,10,2,5,2,19,16,DDDDWWWDL,0,3,1,7,9,LWDW,DDWD
-Udinese,Genoa,3-0,/match/udinese/genoa/1993,1993,10,serie_a,18,34,0,3,0,12,3,1,5,12,15,WWLWWWWDW,3,1,1,10,5,13,1,6,2,17,20,DDDDDDWWL,0,3,1,5,8,WLWWD,DDDW
-Roma,Ancona,2-1,/match/roma/ancona/1993,1993,10,serie_a,18,34,0,2,1,15,2,2,5,12,12,LDWDWWWLW,2,0,2,9,6,14,2,2,5,18,28,WLWDDWWWW,0,1,4,7,23,LWWL,WWDWW
-Pescara,Atalanta,2-0,/match/pescara-calcio/atalanta/1993,1993,10,serie_a,18,34,0,2,0,18,1,1,7,13,24,LLWDWLWLW,0,1,3,7,13,6,4,1,4,10,15,WWWWWDWWW,0,0,4,1,10,LDLL,WWWW
-Brescia,Fiorentina,1-1,/match/brescia/fiorentina/1993,1993,10,serie_a,18,34,1,1,1,11,3,3,3,9,12,DDWWWDLLW,2,1,1,5,3,5,4,3,2,24,16,DDWDLLWWW,1,2,1,7,6,DWWL,DDLW
-Parma,Sampdoria,1-0,/match/parma-fc/sampdoria/1993,1993,11,serie_a,18,34,0,1,0,9,5,0,5,13,14,WWWWWWLWWL,4,0,1,9,3,4,5,3,2,20,16,DLLLDWWWDW,2,2,1,7,9,WWWLW,LLDWD
-Inter,Brescia,2-1,/match/internazionale/brescia/1993,1993,11,serie_a,18,34,0,2,1,3,5,3,2,18,13,WWLDWWWLDD,3,2,0,9,4,11,3,4,3,10,13,DDWWWDLLWD,1,2,2,4,9,WDWWD,DWDLW
-Juventus,Milan,0-1,/match/juventus-fc/milan/1993,1993,11,serie_a,18,34,2,0,1,2,5,4,1,23,12,DWDDLDWWWL,3,2,0,15,4,1,8,2,0,30,13,WLWLLWLDLD,5,0,0,21,9,WDDWW,LLLLL
-Lazio,Roma,1-1,/match/lazio/roma/1993,1993,11,serie_a,18,34,1,1,1,12,2,5,3,20,18,DDDDWWWDLW,2,2,1,12,7,13,3,2,5,14,13,LDWDWWWLWW,0,2,3,3,6,DDWWL,DDWWW
-Genoa,Torino,2-1,/match/genoa/torino-fc/1993,1993,11,serie_a,18,34,0,2,1,15,1,6,3,17,23,DDDDDDWWLW,1,3,1,12,12,5,4,5,1,15,8,WDWDDDWDLL,1,4,0,4,3,DDDWL,DDDDL
-Atalanta,Udinese,2-0,/match/atalanta/udinese/1993,1993,11,serie_a,18,34,0,2,0,8,4,1,5,10,17,WWWWWDWWWW,4,1,0,9,5,7,4,1,5,15,15,WWLWWWWDWW,0,0,4,2,10,WWDWW,WWWW
-Ancona,Cagliari,0-1,/match/ancona/cagliari/1993,1993,11,serie_a,18,34,2,0,1,16,2,2,6,19,30,WLWDDWWWWW,2,1,1,11,5,10,4,2,4,11,12,DWDWWWLWLL,2,0,3,7,9,LDWW,WWWLL
-Napoli,Fiorentina,4-1,/match/napoli/fiorentina/1993,1993,11,serie_a,18,34,0,4,1,17,2,2,6,14,22,DLLDLWWWLW,1,1,3,6,11,6,4,4,2,25,17,DDWDLLWWWD,1,3,1,8,7,DLLWL,DDLWD
-Calcio Foggia,Pescara,1-0,/match/us-foggia/pescara-calcio/1993,1993,11,serie_a,18,34,0,1,0,14,3,1,6,11,20,WLWWWDWWWW,3,1,1,8,7,18,2,1,7,15,24,LLWDWLWLWW,1,0,4,6,11,LWDWW,LWWWW
-Cagliari,Napoli,1-0,/match/cagliari/napoli/1993,1993,12,serie_a,18,34,0,1,0,10,5,2,4,12,12,DWDWWWLWLLL,2,2,1,4,3,16,3,2,6,18,23,DLLDLWWWLWW,1,1,3,8,11,DDWWL,LDWWW
-Milan,Udinese,1-1,/match/milan/udinese/1993,1993,12,serie_a,18,34,1,1,1,1,9,2,0,31,13,WLWLLWLDLDL,3,2,0,9,4,11,4,1,6,15,17,WWLWWWWDWWW,0,0,5,2,12,WWWDD,WWWWW
-Sampdoria,Atalanta,2-3,/match/sampdoria/atalanta/1993,1993,12,serie_a,18,34,2,2,3,6,5,3,3,20,17,DLLLDWWWDWW,3,1,1,13,7,4,5,1,5,12,17,WWWWWDWWWWW,0,0,5,1,12,DLWWW,WWWWW
-Torino,Calcio Foggia,1-1,/match/torino-fc/us-foggia/1993,1993,12,serie_a,18,34,1,1,1,7,4,5,2,16,10,WDWDDDWDLLW,3,1,1,11,5,9,4,1,6,12,20,WLWWWDWWWWW,0,0,5,3,13,WWDWL,WWWWW
-Pescara,Lazio,2-3,/match/pescara-calcio/lazio/1993,1993,12,serie_a,18,34,2,2,3,18,2,1,8,15,25,LLWDWLWLWWW,1,1,3,9,13,12,2,6,3,21,19,DDDDWWWDLWD,0,3,2,8,11,LDLLW,DDWDW
-Roma,Parma,1-0,/match/roma/parma-fc/1993,1993,12,serie_a,18,34,0,1,0,15,3,3,5,15,14,LDWDWWWLWWD,3,0,2,11,7,5,6,0,5,14,14,WWWWWWLWWLW,1,0,4,4,11,LWWLW,WWWWL
-Ancona,Inter,3-0,/match/ancona/internazionale/1993,1993,12,serie_a,18,34,0,3,0,17,2,2,7,19,31,WLWDDWWWWWL,2,1,2,11,6,2,6,3,2,20,14,WWLDWWWLDDW,2,1,2,9,9,LDWWL,WLWLD
-Brescia,Genoa,2-2,/match/brescia/genoa/1993,1993,12,serie_a,18,34,1,2,2,14,3,4,4,11,15,DDWWWDLLWDW,2,2,1,6,4,13,2,6,3,19,24,DDDDDDWWLWW,0,3,2,5,11,DWWLD,DDDWW
-Fiorentina,Juventus,2-0,/match/fiorentina/juventus-fc/1993,1993,12,serie_a,18,34,0,2,0,8,4,4,3,26,21,DDWDLLWWWDW,3,1,1,17,10,3,5,4,2,23,13,DWDDLDWWWLL,2,2,1,8,8,DWLWW,DDLWL
-Torino,Roma,0-0,/match/torino-fc/roma/1993,1993,13,serie_a,18,34,1,0,0,5,4,6,2,17,11,WDWDDDWDLLWD,3,2,1,12,6,13,4,3,5,16,14,LDWDWWWLWWDW,0,3,3,4,7,WWDWLD,DDWWWD
-Atalanta,Brescia,1-1,/match/atalanta/brescia/1993,1993,13,serie_a,18,34,1,1,1,3,6,1,5,15,19,WWWWWDWWWWWL,5,1,0,11,5,15,3,5,4,13,17,DDWWWDLLWDWD,1,2,3,5,11,WWDWWW,DWDLWW
-Lazio,Inter,3-1,/match/lazio/internazionale/1993,1993,13,serie_a,18,34,0,3,1,12,3,6,3,24,21,DDDDWWWDLWDL,2,3,1,13,8,2,6,3,3,20,17,WWLDWWWLDDWW,2,1,3,9,12,DDWWLD,WLWLDW
-Parma,Fiorentina,1-1,/match/parma-fc/fiorentina/1993,1993,13,serie_a,18,34,1,1,1,7,6,0,6,14,15,WWWWWWLWWLWW,5,0,1,10,3,4,5,4,3,28,21,DDWDLLWWWDWW,1,3,2,9,11,WWWLWW,DDLWDW
-Calcio Foggia,Juventus,2-1,/match/us-foggia/juventus-fc/1993,1993,13,serie_a,18,34,0,2,1,10,4,2,6,13,21,WLWWWDWWWWWD,4,1,1,9,7,8,5,4,3,23,15,DWDDLDWWWLLW,2,2,2,8,10,LWDWWW,DDLWLW
-Pescara,Sampdoria,2-2,/match/pescara-calcio/sampdoria/1993,1993,13,serie_a,18,34,1,2,2,18,2,1,9,17,28,LLWDWLWLWWWL,1,1,4,11,16,9,5,3,4,22,20,DLLLDWWWDWWL,2,2,2,7,10,LDLLWL,LLDWDW
-Milan,Ancona,2-0,/match/milan/ancona/1993,1993,13,serie_a,18,34,0,2,0,1,9,3,0,32,14,WLWLLWLDLDLD,3,3,0,10,5,16,3,2,7,22,31,WLWDDWWWWWLW,0,1,5,8,25,WWWDDD,WWDWWW
-Udinese,Cagliari,2-1,/match/udinese/cagliari/1993,1993,13,serie_a,18,34,0,2,1,11,4,2,6,16,18,WWLWWWWDWWWD,4,1,1,13,5,6,6,2,4,13,12,DWDWWWLWLLLW,3,0,3,8,9,WLWWDW,WWWLLL
-Genoa,Napoli,2-1,/match/genoa/napoli/1993,1993,13,serie_a,18,34,0,2,1,14,2,7,3,21,26,DDDDDDWWLWWD,2,3,1,14,13,17,3,2,7,18,24,DLLDLWWWLWWW,1,1,4,8,12,DDDWLW,LDWWWW
-Cagliari,Torino,0-0,/match/cagliari/torino-fc/1993,1993,14,serie_a,18,34,1,0,0,11,6,2,5,14,14,DWDWWWLWLLLWW,3,2,1,5,3,5,4,7,2,17,11,WDWDDDWDLLWDD,1,4,1,5,5,DDWWLW,DDDDLW
-Juventus,Parma,2-2,/match/juventus-fc/parma-fc/1993,1993,14,serie_a,18,34,1,2,2,10,5,4,4,24,17,DWDDLDWWWLLWW,3,2,1,15,5,6,6,1,6,15,16,WWWWWWLWWLWWD,1,0,5,4,12,WDDWWL,WWWWLW
-Roma,Milan,0-1,/match/roma/milan/1993,1993,14,serie_a,18,34,2,0,1,14,4,4,5,16,14,LDWDWWWLWWDWD,4,0,2,12,7,1,10,3,0,34,14,WLWLLWLDLDLDW,6,0,0,22,9,LWWLWW,LLLLLL
-Inter,Genoa,4-0,/match/internazionale/genoa/1993,1993,14,serie_a,18,34,0,4,0,3,6,3,4,21,20,WWLDWWWLDDWWW,4,2,0,11,5,12,3,7,3,23,27,DDDDDDWWLWWDW,0,4,2,7,13,WDWWDW,DDDWWD
-Sampdoria,Calcio Foggia,3-3,/match/sampdoria/us-foggia/1993,1993,14,serie_a,18,34,1,3,3,13,5,4,4,24,22,DLLLDWWWDWWLD,3,1,2,15,10,9,5,2,6,15,22,WLWWWDWWWWWDW,0,1,5,4,14,DLWWWL,WWWWWD
-Fiorentina,Atalanta,0-1,/match/fiorentina/atalanta/1993,1993,14,serie_a,18,34,2,0,1,4,5,5,3,29,22,DDWDLLWWWDWWD,4,1,1,19,10,2,6,2,5,16,20,WWWWWDWWWWWLD,1,0,5,4,14,DWLWWW,WWWWWL
-Ancona,Lazio,0-3,/match/ancona/lazio/1993,1993,14,serie_a,18,34,2,0,3,16,3,2,8,22,33,WLWDDWWWWWLWW,3,1,2,14,6,7,4,6,3,27,22,DDDDWWWDLWDLW,1,3,2,11,13,LDWWLW,DDWDWL
-Napoli,Pescara,2-0,/match/napoli/pescara-calcio/1993,1993,14,serie_a,18,34,0,2,0,17,3,2,8,19,26,DLLDLWWWLWWWW,2,1,3,10,12,18,2,2,9,19,30,LLWDWLWLWWWLD,1,0,5,6,12,DLLWLW,LWWWWW
-Brescia,Udinese,2-1,/match/brescia/udinese/1993,1993,14,serie_a,18,34,0,2,1,15,3,6,4,14,18,DDWWWDLLWDWDD,2,3,1,8,6,8,5,2,6,18,19,WWLWWWWDWWWDW,0,1,5,3,13,DWWLDD,WWWWWD
-Lazio,Brescia,2-0,/match/lazio/brescia/1993,1993,15,serie_a,18,34,0,2,0,6,5,6,3,30,22,DDDDWWWDLWDLWL,3,3,1,16,9,13,4,6,4,16,19,DDWWWDLLWDWDDW,1,3,3,6,12,DDWWLDW,DWDLWWD
-Milan,Cagliari,1-0,/match/milan/cagliari/1993,1993,15,serie_a,18,34,0,1,0,1,11,3,0,35,14,WLWLLWLDLDLDWL,4,3,0,12,5,8,6,3,5,14,14,DWDWWWLWLLLWWD,3,0,4,9,11,WWWDDDW,WWWLLLW
-Parma,Genoa,1-0,/match/parma-fc/genoa/1993,1993,15,serie_a,18,34,0,1,0,5,6,2,6,17,18,WWWWWWLWWLWWDD,5,1,1,11,4,14,3,7,4,23,31,DDDDDDWWLWWDWW,0,4,3,7,17,WWWLWWD,DDDWWDW
-Atalanta,Roma,3-1,/match/atalanta/roma/1993,1993,15,serie_a,18,34,0,3,1,3,7,2,5,17,20,WWWWWDWWWWWLDL,5,2,0,12,6,15,4,4,6,16,15,LDWDWWWLWWDWDL,0,4,3,4,7,WWDWWWD,DDWWWDD
-Sampdoria,Juventus,1-1,/match/sampdoria/juventus-fc/1993,1993,15,serie_a,18,34,1,1,1,12,5,5,4,27,25,DLLLDWWWDWWLDD,3,2,2,18,13,9,5,5,4,26,19,DWDDLDWWWLLWWD,2,2,3,9,12,DLWWWLD,DDLWLWW
-Pescara,Ancona,4-3,/match/pescara-calcio/ancona/1993,1993,15,serie_a,18,34,0,4,3,18,2,2,10,19,32,LLWDWLWLWWWLDW,1,2,4,13,18,17,3,2,9,22,36,WLWDDWWWWWLWWL,0,1,6,8,27,LDLLWLD,WWDWWWW
-Udinese,Fiorentina,4-0,/match/udinese/fiorentina/1993,1993,15,serie_a,18,34,0,4,0,11,5,2,7,19,21,WWLWWWWDWWWDWW,5,1,1,15,6,10,5,5,4,29,23,DDWDLLWWWDWWDL,1,4,2,10,12,WLWWDWW,DDLWDWD
-Calcio Foggia,Inter,1-3,/match/us-foggia/internazionale/1993,1993,15,serie_a,18,34,2,1,3,7,5,3,6,18,25,WLWWWDWWWWWDWD,5,1,1,11,8,2,7,3,4,25,20,WWLDWWWLDDWWWW,2,1,4,10,15,LWDWWWW,WLWLDWW
-Torino,Napoli,0-1,/match/torino-fc/napoli/1993,1993,15,serie_a,18,34,2,0,1,4,4,8,2,17,11,WDWDDDWDLLWDDD,3,3,1,12,6,16,4,2,8,21,26,DLLDLWWWLWWWWW,1,1,5,9,14,WWDWLDD,LDWWWWW
-Roma,Sampdoria,0-0,/match/roma/sampdoria/1993,1993,16,serie_a,18,34,1,0,0,15,4,4,7,17,18,LDWDWWWLWWDWDLW,4,0,3,12,8,8,5,6,4,28,26,DLLLDWWWDWWLDDD,2,3,2,9,12,LWWLWWL,LLDWDWD
-Inter,Parma,2-1,/match/internazionale/parma-fc/1993,1993,16,serie_a,18,34,0,2,1,3,8,3,4,28,21,WWLDWWWLDDWWWWL,5,2,0,15,5,4,7,2,6,18,18,WWWWWWLWWLWWDDW,1,1,5,6,14,WDWWDWW,WWWWLWD
-Cagliari,Calcio Foggia,1-1,/match/cagliari/us-foggia/1993,1993,16,serie_a,18,34,1,1,1,11,6,3,6,14,15,DWDWWWLWLLLWWDW,3,3,1,5,3,12,5,3,7,19,28,WLWWWDWWWWWDWDL,0,2,5,7,17,DDWWLWD,WWWWWDD
-Napoli,Lazio,3-1,/match/napoli/lazio/1993,1993,16,serie_a,18,34,0,3,1,16,5,2,8,22,26,DLLDLWWWLWWWWWL,3,1,3,12,12,5,6,6,3,32,22,DDDDWWWDLWDLWLW,2,3,2,14,13,DLLWLWW,DDWDWLL
-Genoa,Atalanta,1-0,/match/genoa/atalanta/1993,1993,16,serie_a,18,34,0,1,0,14,3,7,5,23,32,DDDDDDWWLWWDWWW,3,3,1,16,14,2,8,2,5,20,21,WWWWWDWWWWWLDLW,2,0,5,5,14,DDDWLWW,WWWWWLL
-Juventus,Pescara,2-1,/match/juventus-fc/pescara-calcio/1993,1993,16,serie_a,18,34,0,2,1,9,5,6,4,27,20,DWDDLDWWWLLWWDD,3,3,1,17,7,18,3,2,10,23,35,LLWDWLWLWWWLDWW,1,0,6,6,14,WDDWWLD,LWWWWWW
-Ancona,Udinese,1-0,/match/ancona/udinese/1993,1993,16,serie_a,18,34,0,1,0,17,3,2,10,25,40,WLWDDWWWWWLWWLW,3,1,3,14,9,6,6,2,7,23,21,WWLWWWWDWWWDWWW,0,1,6,4,15,LDWWLWL,WWWWWDW
-Brescia,Milan,0-1,/match/brescia/milan/1993,1993,16,serie_a,18,34,2,0,1,13,4,6,5,16,21,DDWWWDLLWDWDDWW,3,3,1,10,7,1,12,3,0,36,14,WLWLLWLDLDLDWLW,7,0,0,23,9,DWWLDDW,LLLLLLL
-Fiorentina,Torino,0-0,/match/fiorentina/torino-fc/1993,1993,16,serie_a,18,34,1,0,0,10,5,5,5,29,27,DDWDLLWWWDWWDLW,4,1,2,19,11,7,4,8,3,17,12,WDWDDDWDLLWDDDL,1,5,1,5,5,DWLWWWL,DDDDLWD
-Lazio,Juventus,1-1,/match/lazio/juventus-fc/1993,1993,17,serie_a,18,34,1,1,1,5,6,6,4,33,25,DDDDWWWDLWDLWLWW,4,3,1,18,9,6,6,6,4,29,21,DWDDLDWWWLLWWDDW,2,3,3,10,13,DDWWLDWW,DDLWLWWD
-Milan,Genoa,1-0,/match/milan/genoa/1993,1993,17,serie_a,18,34,0,1,0,1,13,3,0,37,14,WLWLLWLDLDLDWLWL,5,3,0,13,5,8,4,7,5,24,32,DDDDDDWWLWWDWWWW,0,4,4,7,18,WWWDDDWW,DDDWWDWW
-Parma,Napoli,1-1,/match/parma-fc/napoli/1993,1993,17,serie_a,18,34,1,1,1,4,7,2,7,19,20,WWWWWWLWWLWWDDWW,6,1,1,12,4,15,6,2,8,25,27,DLLDLWWWLWWWWWLW,2,1,5,10,14,WWWLWWDW,LDWWWWWL
-Sampdoria,Brescia,1-0,/match/sampdoria/brescia/1993,1993,17,serie_a,18,34,0,1,0,11,5,7,4,28,26,DLLLDWWWDWWLDDDD,3,3,2,19,14,14,4,6,6,16,22,DDWWWDLLWDWDDWWL,1,3,4,6,14,DLWWWLDD,DWDLWWDW
-Atalanta,Ancona,2-1,/match/atalanta/ancona/1993,1993,17,serie_a,18,34,0,2,1,3,8,2,6,20,22,WWWWWDWWWWWLDLWW,6,2,0,15,7,17,4,2,10,26,40,WLWDDWWWWWLWWLWW,0,1,7,11,31,WWDWWWDW,WWDWWWWW
-Torino,Inter,1-2,/match/torino-fc/internazionale/1993,1993,17,serie_a,18,34,2,1,2,12,4,9,3,17,12,WDWDDDWDLLWDDDLD,3,3,2,12,7,2,9,3,4,30,22,WWLDWWWLDDWWWWLW,3,1,4,13,16,WWDWLDDL,WLWLDWWL
-Pescara,Cagliari,0-1,/match/pescara-calcio/cagliari/1993,1993,17,serie_a,18,34,2,0,1,18,3,2,11,24,37,LLWDWLWLWWWLDWWW,2,2,4,17,21,9,6,4,6,15,16,DWDWWWLWLLLWWDWD,3,0,5,9,12,LDLLWLDW,WWWLLLWW
-Udinese,Roma,1-2,/match/udinese/roma/1993,1993,17,serie_a,18,34,2,1,2,7,6,2,8,23,22,WWLWWWWDWWWDWWWW,6,1,1,19,6,16,4,5,7,17,18,LDWDWWWLWWDWDLWD,0,4,4,5,10,WLWWDWWW,DDWWWDDW
-Calcio Foggia,Fiorentina,1-0,/match/us-foggia/fiorentina/1993,1993,17,serie_a,18,34,0,1,0,13,5,4,7,20,29,WLWWWDWWWWWDWDLD,5,1,2,12,11,10,5,6,5,29,27,DDWDLLWWWDWWDLWD,1,4,3,10,16,LWDWWWWL,DDLWDWDW
-Lazio,Sampdoria,2-1,/match/lazio/sampdoria/1993,1993,18,serie_a,18,34,0,2,1,5,6,7,4,34,26,DDDDWWWDLWDLWLWWD,4,4,1,19,10,7,6,7,4,29,26,DLLLDWWWDWWLDDDDW,2,4,2,9,12,DDWWLDWWD,LLDWDWDD
-Parma,Atalanta,0-0,/match/parma-fc/atalanta/1993,1993,18,serie_a,18,34,1,0,0,4,7,3,7,20,21,WWWWWWLWWLWWDDWWD,6,2,1,13,5,3,9,2,6,22,23,WWWWWDWWWWWLDLWWW,2,0,6,5,15,WWWLWWDWD,WWWWWLLW
-Juventus,Cagliari,2-1,/match/juventus-fc/cagliari/1993,1993,18,serie_a,18,34,0,2,1,6,6,7,4,30,22,DWDDLDWWWLLWWDDWD,4,3,1,19,8,9,7,4,6,16,16,DWDWWWLWLLLWWDWDL,4,0,5,10,12,WDDWWLDW,WWWLLLWWL
-Inter,Udinese,2-2,/match/internazionale/udinese/1993,1993,18,serie_a,18,34,1,2,2,2,10,3,4,32,23,WWLDWWWLDDWWWWLWL,6,2,0,17,6,10,6,2,9,24,24,WWLWWWWDWWWDWWWWL,0,1,7,4,16,WDWWDWWW,WWWWWDWW
-Calcio Foggia,Milan,2-2,/match/us-foggia/milan/1993,1993,18,serie_a,18,34,1,2,2,8,6,4,7,21,29,WLWWWDWWWWWDWDLDW,6,1,2,13,11,1,14,3,0,38,14,WLWLLWLDLDLDWLWLW,8,0,0,24,9,LWDWWWWLW,LLLLLLLL
-Genoa,Fiorentina,2-2,/match/genoa/fiorentina/1993,1993,18,serie_a,18,34,1,2,2,13,4,7,6,24,33,DDDDDDWWLWWDWWWWW,4,3,1,17,14,12,5,6,6,29,28,DDWDLLWWWDWWDLWDW,1,4,4,10,17,DDDWLWWW,DDLWDWDWW
-Ancona,Torino,0-1,/match/ancona/torino-fc/1993,1993,18,serie_a,18,34,2,0,1,17,4,2,11,27,42,WLWDDWWWWWLWWLWWW,4,1,3,15,9,11,4,9,4,18,14,WDWDDDWDLLWDDDLDL,1,6,1,5,5,LDWWLWLW,DDDDLWDD
-Pescara,Roma,1-1,/match/pescara-calcio/roma/1993,1993,18,serie_a,18,34,1,1,1,18,3,2,12,24,38,LLWDWLWLWWWLDWWWL,2,2,5,17,22,15,5,5,7,19,19,LDWDWWWLWWDWDLWDL,1,4,4,7,11,LDLLWLDWL,DDWWWDDWL
-Brescia,Napoli,2-1,/match/brescia/napoli/1993,1993,18,serie_a,18,34,0,2,1,16,4,6,7,16,23,DDWWWDLLWDWDDWWLW,3,3,2,10,8,14,6,3,8,26,28,DLLDLWWWLWWWWWLWD,2,2,5,11,15,DWWLDDWL,LDWWWWWLD
-Roma,Genoa,3-0,/match/roma/genoa/1993,1993,19,serie_a,18,34,0,3,0,15,5,6,7,20,20,LDWDWWWLWWDWDLWDLD,4,1,3,12,8,10,4,8,6,26,35,DDDDDDWWLWWDWWWWWD,0,4,5,7,19,LWWLWWLD,DDDWWDWWW
-Atalanta,Juventus,2-1,/match/atalanta/juventus-fc/1993,1993,19,serie_a,18,34,0,2,1,3,9,3,6,22,23,WWWWWDWWWWWLDLWWWD,7,2,0,17,8,5,7,7,4,32,23,DWDDLDWWWLLWWDDWDW,2,4,3,11,14,WWDWWWDWW,DDLWLWWDD
-Torino,Brescia,1-0,/match/torino-fc/brescia/1993,1993,19,serie_a,18,34,0,1,0,9,5,9,4,19,14,WDWDDDWDLLWDDDLDLL,3,3,3,13,9,14,5,6,7,18,24,DDWWWDLLWDWDDWWLWW,1,3,5,6,15,WWDWLDDLL,DWDLWWDWW
-Cagliari,Inter,0-0,/match/cagliari/internazionale/1993,1993,19,serie_a,18,34,1,0,0,12,7,4,7,17,18,DWDWWWLWLLLWWDWDLW,3,4,1,6,4,2,10,4,4,34,25,WWLDWWWLDDWWWWLWLD,4,1,4,15,17,DDWWLWDD,WLWLDWWLL
-Napoli,Calcio Foggia,2-0,/match/napoli/us-foggia/1993,1993,19,serie_a,18,34,0,2,0,16,6,3,9,27,30,DLLDLWWWLWWWWWLWDW,4,1,3,15,13,7,6,5,7,23,31,WLWWWDWWWWWDWDLDWD,0,3,5,8,18,DLLWLWWW,WWWWWDDD
-Fiorentina,Lazio,0-2,/match/fiorentina/lazio/1993,1993,19,serie_a,18,34,2,0,2,13,5,7,6,31,30,DDWDLLWWWDWWDLWDWD,4,2,2,19,11,4,7,7,4,36,27,DDDDWWWDLWDLWLWWDW,2,3,3,15,16,DWLWWWLD,DDWDWLLW
-Sampdoria,Ancona,3-1,/match/sampdoria/ancona/1993,1993,19,serie_a,18,34,0,3,1,8,6,7,5,30,28,DLLLDWWWDWWLDDDDWW,4,3,2,20,14,17,4,2,12,27,43,WLWDDWWWWWLWWLWWWL,0,1,8,12,33,DLWWWLDDW,WWDWWWWWW
-Milan,Pescara,4-0,/match/milan/pescara-calcio/1993,1993,19,serie_a,18,34,0,4,0,1,14,4,0,40,16,WLWLLWLDLDLDWLWLWD,6,3,0,14,5,18,3,3,12,25,39,LLWDWLWLWWWLDWWWLD,1,0,7,7,16,WWWDDDWWW,LWWWWWWW
-Udinese,Parma,1-0,/match/udinese/parma-fc/1993,1993,19,serie_a,18,34,0,1,0,11,6,3,9,26,26,WWLWWWWDWWWDWWWWLD,6,1,2,20,8,6,7,4,7,20,21,WWWWWWLWWLWWDDWWDD,1,1,6,7,16,WLWWDWWWL,WWWWLWDW
-Lazio,Cagliari,1-2,/match/lazio/cagliari/1993,1993,20,serie_a,18,34,2,1,2,4,8,7,4,38,27,DDDDWWWDLWDLWLWWDWL,5,4,1,21,11,11,7,5,7,17,18,DWDWWWLWLLLWWDWDLWD,4,0,6,11,14,DDWWLDWWDW,WWWLLLWWLW
-Parma,Torino,2-2,/match/parma-fc/torino-fc/1993,1993,20,serie_a,18,34,1,2,2,7,7,4,8,20,22,WWWWWWLWWLWWDDWWDDW,6,3,1,13,5,8,6,9,4,20,14,WDWDDDWDLLWDDDLDLLW,2,6,1,6,5,WWWLWWDWDD,DDDDLWDDL
-Juventus,Genoa,1-0,/match/juventus-fc/genoa/1993,1993,20,serie_a,18,34,0,1,0,5,7,7,5,33,25,DWDDLDWWWLLWWDDWDWW,5,3,1,21,9,14,4,8,7,26,38,DDDDDDWWLWWDWWWWWDW,0,4,6,7,22,WDDWWLDWW,DDDWWDWWWW
-Inter,Napoli,0-0,/match/internazionale/napoli/1993,1993,20,serie_a,18,34,1,0,0,3,10,5,4,34,25,WWLDWWWLDDWWWWLWLDD,6,3,0,19,8,13,7,3,9,29,30,DLLDLWWWLWWWWWLWDWW,2,2,6,12,17,WDWWDWWWD,LDWWWWWLDW
-Sampdoria,Udinese,2-0,/match/sampdoria/udinese/1993,1993,20,serie_a,18,34,0,2,0,6,7,7,5,33,29,DLLLDWWWDWWLDDDDWWW,5,3,2,23,15,9,7,3,9,27,26,WWLWWWWDWWWDWWWWLDW,0,2,7,6,18,DLWWWLDDWW,WWWWWDWWD
-Atalanta,Milan,1-1,/match/atalanta/milan/1993,1993,20,serie_a,18,34,1,1,1,2,10,3,6,24,24,WWWWWDWWWWWLDLWWWDW,8,2,0,19,9,1,15,4,0,44,16,WLWLLWLDLDLDWLWLWDW,8,1,0,26,11,WWDWWWDWWW,LLLLLLLLD
-Ancona,Fiorentina,2-1,/match/ancona/fiorentina/1993,1993,20,serie_a,18,34,0,2,1,17,4,2,13,28,46,WLWDDWWWWWLWWLWWWLW,4,1,4,15,10,16,5,7,7,31,32,DDWDLLWWWDWWDLWDWDL,1,5,4,12,19,LDWWLWLWL,DDLWDWDWWD
-Pescara,Brescia,2-0,/match/pescara-calcio/brescia/1993,1993,20,serie_a,18,34,0,2,0,18,3,3,13,25,43,LLWDWLWLWWWLDWWWLDW,2,3,5,18,23,15,5,6,8,18,25,DDWWWDLLWDWDDWWLWWW,1,3,6,6,16,LDLLWLDWLD,DWDLWWDWWW
-Calcio Foggia,Roma,0-0,/match/us-foggia/roma/1993,1993,20,serie_a,18,34,1,0,0,10,6,5,8,23,33,WLWWWDWWWWWDWDLDWDW,6,2,2,15,13,12,6,6,7,23,20,LDWDWWWLWWDWDLWDLDW,1,5,4,8,12,LWDWWWWLWD,DDWWWDDWLD
-Genoa,Lazio,2-3,/match/genoa/lazio/1993,1993,21,serie_a,18,34,2,2,3,14,4,8,8,26,39,DDDDDDWWLWWDWWWWWDWW,4,4,1,19,16,6,8,7,5,39,29,DDDDWWWDLWDLWLWWDWLL,3,3,3,17,16,DDDWLWWWD,DDWDWLLWL
-Cagliari,Atalanta,2-1,/match/cagliari/atalanta/1993,1993,21,serie_a,18,34,0,2,1,11,8,5,7,19,19,DWDWWWLWLLLWWDWDLWDL,3,5,1,6,4,2,10,4,6,25,25,WWWWWDWWWWWLDLWWWDWD,2,1,6,5,15,DDWWLWDDD,WWWWWLLWD
-Milan,Sampdoria,4-0,/match/milan/sampdoria/1993,1993,21,serie_a,18,34,0,4,0,1,15,5,0,45,17,WLWLLWLDLDLDWLWLWDWD,7,3,0,18,5,5,8,7,5,35,29,DLLLDWWWDWWLDDDDWWWW,2,4,3,10,14,WWWDDDWWWW,LLDWDWDDW
-Roma,Juventus,2-1,/match/roma/juventus-fc/1993,1993,21,serie_a,18,34,0,2,1,12,6,7,7,23,20,LDWDWWWLWWDWDLWDLDWD,5,1,3,15,8,4,8,7,5,34,25,DWDDLDWWWLLWWDDWDWWW,2,4,4,12,16,LWWLWWLDW,DDLWLWWDDW
-Torino,Pescara,3-1,/match/torino-fc/pescara-calcio/1993,1993,21,serie_a,18,34,0,3,1,9,6,10,4,22,16,WDWDDDWDLLWDDDLDLLWD,4,3,3,14,9,18,4,3,13,27,43,LLWDWLWLWWWLDWWWLDWW,1,0,8,7,20,WWDWLDDLLW,LWWWWWWWW
-Fiorentina,Inter,2-2,/match/fiorentina/internazionale/1993,1993,21,serie_a,18,34,1,2,2,16,5,7,8,32,34,DDWDLLWWWDWWDLWDWDLW,4,2,3,19,13,3,10,6,4,34,25,WWLDWWWLDDWWWWLWLDDD,4,2,4,15,17,DWLWWWLDL,WLWLDWWLLD
-Napoli,Ancona,0-0,/match/napoli/ancona/1993,1993,21,serie_a,18,34,1,0,0,13,7,4,9,29,30,DLLDLWWWLWWWWWLWDWWD,5,1,3,17,13,17,5,2,13,30,47,WLWDDWWWWWLWWLWWWLWW,0,1,9,13,36,DLLWLWWWW,WWDWWWWWWW
-Brescia,Parma,0-1,/match/brescia/parma-fc/1993,1993,21,serie_a,18,34,2,0,1,15,5,6,9,18,27,DDWWWDLLWDWDDWWLWWWW,4,3,2,12,9,7,7,5,8,22,24,WWWWWWLWWLWWDDWWDDWD,1,1,7,7,17,DWWLDDWLW,WWWWLWDWW
-Udinese,Calcio Foggia,3-2,/match/udinese/us-foggia/1993,1993,21,serie_a,18,34,0,3,2,10,7,3,10,27,28,WWLWWWWDWWWDWWWWLDWW,7,1,2,21,8,8,6,6,8,23,33,WLWWWDWWWWWDWDLDWDWD,0,3,6,8,20,WLWWDWWWLW,WWWWWDDDW
-Calcio Foggia,Brescia,0-0,/match/us-foggia/brescia/1993,1993,22,serie_a,18,34,1,0,0,12,6,6,9,25,36,WLWWWDWWWWWDWDLDWDWDW,6,3,2,15,13,16,5,6,10,18,28,DDWWWDLLWDWDDWWLWWWWL,1,3,7,6,18,LWDWWWWLWDD,DWDLWWDWWWW
-Pescara,Udinese,2-2,/match/pescara-calcio/udinese/1993,1993,22,serie_a,18,34,1,2,2,18,4,3,14,28,46,LLWDWLWLWWWLDWWWLDWWW,3,3,5,20,23,10,8,3,10,30,30,WWLWWWWDWWWDWWWWLDWWW,0,2,8,6,20,LDLLWLDWLDW,WWWWWDWWDW
-Ancona,Genoa,0-0,/match/ancona/genoa/1993,1993,22,serie_a,18,34,1,0,0,17,5,3,13,30,47,WLWDDWWWWWLWWLWWWLWWD,5,1,4,17,11,15,4,8,9,28,42,DDDDDDWWLWWDWWWWWDWWL,0,4,7,7,23,LDWWLWLWLW,DDDWWDWWWWW
-Roma,Cagliari,1-1,/match/roma/cagliari/1993,1993,22,serie_a,18,34,1,1,1,11,7,7,7,25,21,LDWDWWWLWWDWDLWDLDWDW,6,1,3,17,9,9,9,5,7,21,20,DWDWWWLWLLLWWDWDLWDLW,5,0,6,13,15,LWWLWWLDWW,WWWLLLWWLWL
-Atalanta,Inter,1-1,/match/atalanta/internazionale/1993,1993,22,serie_a,18,34,1,1,1,2,10,4,7,26,27,WWWWWDWWWWWLDLWWWDWDW,8,3,0,20,10,3,10,7,4,36,27,WWLDWWWLDDWWWWLWLDDDD,4,3,4,17,19,WWDWWWDWWWD,WLWLDWWLLDD
-Milan,Fiorentina,2-0,/match/milan/fiorentina/1993,1993,22,serie_a,18,34,0,2,0,1,16,5,0,49,17,WLWLLWLDLDLDWLWLWDWDW,8,3,0,22,5,14,5,8,8,34,36,DDWDLLWWWDWWDLWDWDLWD,1,5,5,13,21,WWWDDDWWWWW,DDLWDWDWWDW
-Juventus,Napoli,4-3,/match/juventus-fc/napoli/1993,1993,22,serie_a,18,34,0,4,3,5,8,7,6,35,27,DWDDLDWWWLLWWDDWDWWWW,6,3,1,22,9,13,7,5,9,29,30,DLLDLWWWLWWWWWLWDWWDD,2,3,6,12,17,WDDWWLDWWW,LDWWWWWLDWD
-Parma,Lazio,2-1,/match/parma-fc/lazio/1993,1993,22,serie_a,18,34,0,2,1,7,8,5,8,23,24,WWWWWWLWWLWWDDWWDDWDL,6,4,1,15,7,4,9,7,5,42,31,DDDDWWWDLWDLWLWWDWLLL,4,3,3,20,18,WWWLWWDWDDD,DDWDWLLWLL
-Sampdoria,Torino,0-1,/match/sampdoria/torino-fc/1993,1993,22,serie_a,18,34,2,0,1,6,8,7,6,35,33,DLLLDWWWDWWLDDDDWWWWW,6,3,2,25,15,8,7,10,4,25,17,WDWDDDWDLLWDDDLDLLWDW,2,7,1,8,7,DLWWWLDDWWW,DDDDLWDDLD
-Genoa,Calcio Foggia,0-0,/match/genoa/us-foggia/1993,1993,23,serie_a,18,34,1,0,0,15,4,9,9,28,42,DDDDDDWWLWWDWWWWWDWWLD,4,4,2,21,19,12,6,7,9,25,36,WLWWWDWWWWWDWDLDWDWDWD,0,3,7,10,23,DDDWLWWWDL,WWWWWDDDWW
-Brescia,Juventus,2-0,/match/brescia/juventus-fc/1993,1993,23,serie_a,18,34,0,2,0,16,5,7,10,18,28,DDWWWDLLWDWDDWWLWWWWLD,4,3,3,12,10,4,9,7,6,39,30,DWDDLDWWWLLWWDDWDWWWWW,2,4,5,13,18,DWWLDDWLWL,DDLWLWWDDWW
-Ancona,Parma,1-1,/match/ancona/parma-fc/1993,1993,23,serie_a,18,34,1,1,1,17,5,4,13,30,47,WLWDDWWWWWLWWLWWWLWWDD,5,2,4,17,11,5,9,5,8,25,25,WWWWWWLWWLWWDDWWDDWDLW,2,1,7,8,17,LDWWLWLWLWD,WWWWLWDWWL
-Napoli,Udinese,3-0,/match/napoli/udinese/1993,1993,23,serie_a,18,34,0,3,0,13,7,5,10,32,34,DLLDLWWWLWWWWWLWDWWDDW,5,2,3,17,13,9,8,4,10,32,32,WWLWWWWDWWWDWWWWLDWWWD,0,3,8,8,22,DLLWLWWWWD,WWWWWDWWDWD
-Fiorentina,Pescara,2-0,/match/fiorentina/pescara-calcio/1993,1993,23,serie_a,18,34,0,2,0,14,5,8,9,34,38,DDWDLLWWWDWWDLWDWDLWDW,4,3,3,21,15,18,4,4,14,30,48,LLWDWLWLWWWLDWWWLDWWWD,1,0,9,8,23,DWLWWWLDLD,LWWWWWWWWW
-Torino,Atalanta,1-1,/match/torino-fc/atalanta/1993,1993,23,serie_a,18,34,1,1,1,7,8,10,4,26,17,WDWDDDWDLLWDDDLDLLWDWL,5,3,3,17,10,2,10,5,7,27,28,WWWWWDWWWWWLDLWWWDWDWD,2,1,7,6,17,WWDWLDDLLWW,WWWWWLLWDW
-Lazio,Milan,2-2,/match/lazio/milan/1993,1993,23,serie_a,18,34,1,2,2,6,9,7,6,43,33,DDDDWWWDLWDLWLWWDWLLLW,5,4,2,22,13,1,17,5,0,51,17,WLWLLWLDLDLDWLWLWDWDWW,8,2,0,27,12,DDWWLDWWDWL,LLLLLLLLDD
-Inter,Roma,1-1,/match/internazionale/roma/1993,1993,23,serie_a,18,34,1,1,1,3,10,8,4,37,28,WWLDWWWLDDWWWWLWLDDDDD,6,4,0,19,8,11,7,8,7,26,22,LDWDWWWLWWDWDLWDLDWDWD,1,6,4,8,12,WDWWDWWWDD,DDWWWDDWLDD
-Cagliari,Sampdoria,0-2,/match/cagliari/sampdoria/1993,1993,23,serie_a,18,34,2,0,2,10,9,6,7,22,21,DWDWWWLWLLLWWDWDLWDLWD,4,5,1,8,5,8,8,7,7,35,34,DLLLDWWWDWWLDDDDWWWWWL,2,4,4,10,18,DDWWLWDDDW,LLDWDWDDWW
-Sampdoria,Fiorentina,2-0,/match/sampdoria/fiorentina/1993,1993,24,serie_a,18,34,0,2,0,8,9,7,7,37,34,DLLLDWWWDWWLDDDDWWWWWLL,6,3,3,25,16,14,6,8,9,36,38,DDWDLLWWWDWWDLWDWDLWDWW,1,5,6,13,23,DLWWWLDDWWWL,DDLWDWDWWDWW
-Milan,Parma,0-1,/match/milan/parma-fc/1993,1993,24,serie_a,18,34,2,0,1,1,17,6,0,53,19,WLWLLWLDLDLDWLWLWDWDWWD,9,3,0,24,5,5,9,6,8,26,26,WWWWWWLWWLWWDDWWDDWDLWD,2,2,7,9,18,WWWDDDWWWWWW,WWWWLWDWWLD
-Juventus,Inter,0-2,/match/juventus-fc/internazionale/1993,1993,24,serie_a,18,34,2,0,2,4,9,7,7,39,32,DWDDLDWWWLLWWDDWDWWWWWW,7,3,1,26,12,3,10,9,4,38,29,WWLDWWWLDDWWWWLWLDDDDDD,4,4,4,18,20,WDDWWLDWWWW,WLWLDWWLLDDD
-Roma,Napoli,1-1,/match/roma/napoli/1993,1993,24,serie_a,18,34,1,1,1,9,7,9,7,27,23,LDWDWWWLWWDWDLWDLDWDWDD,6,2,3,18,10,13,8,5,10,35,34,DLLDLWWWLWWWWWLWDWWDDWW,2,3,7,15,21,LWWLWWLDWWD,LDWWWWWLDWDW
-Udinese,Torino,1-0,/match/udinese/torino-fc/1993,1993,24,serie_a,18,34,0,1,0,11,8,4,11,32,35,WWLWWWWDWWWDWWWWLDWWWDW,8,1,2,24,10,7,8,11,4,27,18,WDWDDDWDLLWDDDLDLLWDWLD,3,7,1,9,7,WLWWDWWWLWW,DDDDLWDDLDL
-Pescara,Genoa,1-2,/match/pescara-calcio/genoa/1993,1993,24,serie_a,18,34,2,1,2,18,4,4,15,30,50,LLWDWLWLWWWLDWWWLDWWWDW,3,4,5,22,25,16,4,10,9,28,42,DDDDDDWWLWWDWWWWWDWWLDD,0,5,7,7,23,LDLLWLDWLDWD,DDDWWDWWWWWD
-Atalanta,Lazio,2-2,/match/atalanta/lazio/1993,1993,24,serie_a,18,34,1,2,2,2,10,6,7,28,29,WWWWWDWWWWWLDLWWWDWDWDD,8,4,0,21,11,6,9,8,6,45,35,DDDDWWWDLWDLWLWWDWLLLWD,4,3,4,21,20,WWDWWWDWWWDD,DDWDWLLWLLW
-Calcio Foggia,Ancona,1-0,/match/us-foggia/ancona/1993,1993,24,serie_a,18,34,0,1,0,12,6,8,9,25,36,WLWWWDWWWWWDWDLDWDWDWDD,6,4,2,15,13,17,5,5,13,31,48,WLWDDWWWWWLWWLWWWLWWDDD,0,2,9,13,36,LWDWWWWLWDDD,WWDWWWWWWWD
-Cagliari,Brescia,3-1,/match/cagliari/brescia/1993,1993,24,serie_a,18,34,0,3,1,10,9,6,8,22,23,DWDWWWLWLLLWWDWDLWDLWDL,4,5,2,8,7,15,6,7,10,20,28,DDWWWDLLWDWDDWWLWWWWLDW,1,4,7,6,18,DDWWLWDDDWL,DWDLWWDWWWWD
-Genoa,Sampdoria,0-0,/match/genoa/sampdoria/1993,1993,25,serie_a,18,34,1,0,0,15,5,10,9,30,43,DDDDDDWWLWWDWWWWWDWWLDDL,4,5,2,21,19,5,10,7,7,39,34,DLLLDWWWDWWLDDDDWWWWWLLW,3,4,4,12,18,DDDWLWWWDLD,LLDWDWDDWWL
-Torino,Milan,1-1,/match/torino-fc/milan/1993,1993,25,serie_a,18,34,1,1,1,10,8,11,5,27,19,WDWDDDWDLLWDDDLDLLWDWLDW,5,4,3,18,11,1,17,6,1,53,20,WLWLLWLDLDLDWLWLWDWDWWDL,8,3,0,29,14,WWDWLDDLLWWD,LLLLLLLLDDD
-Parma,Calcio Foggia,4-0,/match/parma-fc/us-foggia/1993,1993,25,serie_a,18,34,0,4,0,4,10,6,8,27,26,WWWWWWLWWLWWDDWWDDWDLWDL,7,4,1,17,8,11,7,8,9,26,36,WLWWWDWWWWWDWDLDWDWDWDDW,0,4,7,10,23,WWWLWWDWDDDW,WWWWWDDDWWD
-Lazio,Udinese,4-0,/match/lazio/udinese/1993,1993,25,serie_a,18,34,0,4,0,7,9,9,6,47,37,DDDDWWWDLWDLWLWWDWLLLWDD,5,5,2,24,15,8,9,4,11,33,35,WWLWWWWDWWWDWWWWLDWWWDWW,0,3,9,8,25,DDWWLDWWDWLD,WWWWWDWWDWDW
-Ancona,Juventus,0-1,/match/ancona/juventus-fc/1993,1993,25,serie_a,18,34,2,0,1,17,5,5,14,31,49,WLWDDWWWWWLWWLWWWLWWDDDW,5,3,4,18,12,6,9,7,8,39,34,DWDDLDWWWLLWWDDWDWWWWWWL,2,4,6,13,20,LDWWLWLWLWDD,DDLWLWWDDWWW
-Fiorentina,Cagliari,2-1,/match/fiorentina/cagliari/1993,1993,25,serie_a,18,34,0,2,1,14,6,8,10,36,40,DDWDLLWWWDWWDLWDWDLWDWWW,5,3,3,23,15,9,10,6,8,25,24,DWDWWWLWLLLWWDWDLWDLWDLW,5,1,6,14,16,DWLWWWLDLDW,WWWLLLWWLWLD
-Inter,Pescara,2-0,/match/internazionale/pescara-calcio/1993,1993,25,serie_a,18,34,0,2,0,3,11,9,4,40,29,WWLDWWWLDDWWWWLWLDDDDDDL,6,5,0,20,9,18,4,4,16,31,52,LLWDWLWLWWWLDWWWLDWWWDWL,1,0,10,8,25,WDWWDWWWDDD,LWWWWWWWWWW
-Brescia,Roma,0-2,/match/brescia/roma/1993,1993,25,serie_a,18,34,2,0,2,16,6,7,11,21,31,DDWWWDLLWDWDDWWLWWWWLDWW,5,3,3,14,10,12,7,10,7,28,24,LDWDWWWLWWDWDLWDLDWDWDDD,1,7,4,9,13,DWWLDDWLWLW,DDWWWDDWLDDD
-Napoli,Atalanta,1-0,/match/napoli/atalanta/1993,1993,25,serie_a,18,34,0,1,0,13,8,6,10,36,35,DLLDLWWWLWWWWWLWDWWDDWWD,6,2,3,20,13,2,10,7,7,30,31,WWWWWDWWWWWLDLWWWDWDWDDD,2,2,7,7,18,DLLWLWWWWDW,WWWWWLLWDWD
-Udinese,Juventus,0-0,/match/udinese/juventus-fc/1993,1993,26,serie_a,18,34,1,0,0,10,9,4,12,33,39,WWLWWWWDWWWDWWWWLDWWWDWWW,9,1,2,25,10,7,10,7,8,40,34,DWDDLDWWWLLWWDDWDWWWWWWLL,3,4,6,14,20,WLWWDWWWLWWW,DDLWLWWDDWWWL
-Calcio Foggia,Atalanta,1-0,/match/us-foggia/atalanta/1993,1993,26,serie_a,18,34,0,1,0,12,7,8,10,26,40,WLWWWDWWWWWDWDLDWDWDWDDWW,7,4,2,16,13,3,10,7,8,30,32,WWWWWDWWWWWLDLWWWDWDWDDDW,2,2,8,7,19,LWDWWWWLWDDDW,WWWWWLLWDWDW
-Roma,Fiorentina,1-1,/match/roma/fiorentina/1993,1993,26,serie_a,18,34,1,1,1,11,8,10,7,30,24,LDWDWWWLWWDWDLWDLDWDWDDDL,6,3,3,19,11,14,7,8,10,38,41,DDWDLLWWWDWWDLWDWDLWDWWWW,1,5,7,13,25,LWWLWWLDWWDD,DDLWDWDWWDWWW
-Cagliari,Genoa,3-0,/match/cagliari/genoa/1993,1993,26,serie_a,18,34,0,3,0,9,10,6,9,26,26,DWDWWWLWLLLWWDWDLWDLWDLWW,5,5,2,11,8,15,5,11,9,30,43,DDDDDDWWLWWDWWWWWDWWLDDLD,1,5,7,9,24,DDWWLWDDDWLW,DDDWWDWWWWWDL
-Brescia,Ancona,1-1,/match/brescia/ancona/1993,1993,26,serie_a,18,34,1,1,1,16,6,7,12,21,33,DDWWWDLLWDWDDWWLWWWWLDWWL,5,3,4,14,12,17,5,5,15,31,50,WLWDDWWWWWLWWLWWWLWWDDDWL,0,2,10,13,37,DWWLDDWLWLWL,WWDWWWWWWWDW
-Pescara,Parma,0-2,/match/pescara-calcio/parma-fc/1993,1993,26,serie_a,18,34,2,0,2,18,4,4,17,31,54,LLWDWLWLWWWLDWWWLDWWWDWLW,3,4,6,23,27,4,11,6,8,31,26,WWWWWWLWWLWWDDWWDDWDLWDLW,3,2,7,10,18,LDLLWLDWLDWDL,WWWWLWDWWLDL
-Sampdoria,Inter,1-3,/match/sampdoria/internazionale/1993,1993,26,serie_a,18,34,2,1,3,6,10,8,7,39,34,DLLLDWWWDWWLDDDDWWWWWLLWD,7,3,3,27,16,2,12,9,4,42,29,WWLDWWWLDDWWWWLWLDDDDDDLW,5,4,4,20,20,DLWWWLDDWWWLW,WLWLDWWLLDDDL
-Milan,Napoli,2-2,/match/milan/napoli/1993,1993,26,serie_a,18,34,1,2,2,1,17,7,1,54,21,WLWLLWLDLDLDWLWLWDWDWWDLD,9,3,1,24,6,13,9,6,10,37,35,DLLDLWWWLWWWWWLWDWWDDWWDW,2,4,7,16,22,WWWDDDWWWWWWL,LDWWWWWLDWDWD
-Torino,Lazio,1-1,/match/torino-fc/lazio/1993,1993,26,serie_a,18,34,1,1,1,8,8,12,5,28,20,WDWDDDWDLLWDDDLDLLWDWLDWD,5,5,3,19,12,5,10,9,6,51,37,DDDDWWWDLWDLWLWWDWLLLWDDW,4,4,4,23,22,WWDWLDDLLWWDD,DDWDWLLWLLWD
-Juventus,Torino,2-1,/match/juventus-fc/torino-fc/1993,1993,27,serie_a,18,34,0,2,1,7,10,8,8,40,34,DWDDLDWWWLLWWDDWDWWWWWWLLD,7,3,2,26,14,8,8,13,5,29,21,WDWDDDWDLLWDDDLDLLWDWLDWDD,3,7,2,9,8,WDDWWLDWWWWL,DDDDLWDDLDLW
-Inter,Milan,1-1,/match/internazionale/milan/1993,1993,27,serie_a,18,34,1,1,1,2,13,9,4,45,30,WWLDWWWLDDWWWWLWLDDDDDDLWL,7,5,0,22,9,1,17,8,1,56,23,WLWLLWLDLDLDWLWLWDWDWWDLDD,8,4,0,30,15,WDWWDWWWDDDW,LLLLLLLLDDDD
-Napoli,Sampdoria,1-1,/match/napoli/sampdoria/1993,1993,27,serie_a,18,34,1,1,1,13,9,7,10,39,37,DLLDLWWWLWWWWWLWDWWDDWWDWD,7,2,3,21,13,6,10,8,8,40,37,DLLLDWWWDWWLDDDDWWWWWLLWDL,3,5,4,12,18,DLLWLWWWWDWW,LLDWDWDDWWLD
-Atalanta,Pescara,2-1,/match/atalanta/pescara-calcio/1993,1993,27,serie_a,18,34,0,2,1,4,10,7,9,30,33,WWWWWDWWWWWLDLWWWDWDWDDDWW,8,5,0,23,13,18,4,4,18,31,56,LLWDWLWLWWWLDWWWLDWWWDWLWL,1,0,11,8,27,WWDWWWDWWWDDD,LWWWWWWWWWWW
-Genoa,Udinese,1-0,/match/genoa/udinese/1993,1993,27,serie_a,18,34,0,1,0,15,5,11,10,30,46,DDDDDDWWLWWDWWWWWDWWLDDLDW,4,6,2,21,19,11,9,5,12,33,39,WWLWWWWDWWWDWWWWLDWWWDWWWD,0,3,10,8,29,DDDWLWWWDLDD,WWWWWDWWDWDWW
-Ancona,Roma,1-1,/match/ancona/roma/1993,1993,27,serie_a,18,34,1,1,1,17,5,6,15,32,51,WLWDDWWWWWLWWLWWWLWWDDDWLD,5,3,5,18,13,12,8,11,7,31,25,LDWDWWWLWWDWDLWDLDWDWDDDLD,2,7,4,11,13,LDWWLWLWLWDDL,DDWWWDDWLDDDL
-Fiorentina,Brescia,2-2,/match/fiorentina/brescia/1993,1993,27,serie_a,18,34,1,2,2,14,7,9,10,39,42,DDWDLLWWWDWWDLWDWDLWDWWWWD,6,3,3,25,16,16,6,8,12,22,34,DDWWWDLLWDWDDWWLWWWWLDWWLD,1,4,8,7,21,DWLWWWLDLDWW,DWDLWWDWWWWDW
-Parma,Cagliari,3-1,/match/parma-fc/cagliari/1993,1993,27,serie_a,18,34,0,3,1,3,12,6,8,33,26,WWWWWWLWWLWWDDWWDDWDLWDLWL,8,4,1,21,8,9,11,6,9,29,26,DWDWWWLWLLLWWDWDLWDLWDLWWW,5,1,7,15,18,WWWLWWDWDDDWW,WWWLLLWWLWLDW
-Lazio,Calcio Foggia,1-1,/match/lazio/us-foggia/1993,1993,27,serie_a,18,34,1,1,1,5,10,10,6,52,38,DDDDWWWDLWDLWLWWDWLLLWDDWD,6,5,2,28,15,10,8,8,10,27,40,WLWWWDWWWWWDWDLDWDWDWDDWWW,0,4,8,10,27,DDWWLDWWDWLDW,WWWWWDDDWWDW
-Roma,Lazio,0-0,/match/roma/lazio/1993,1993,28,serie_a,18,34,1,0,0,11,8,12,7,32,26,LDWDWWWLWWDWDLWDLDWDWDDDLDD,6,4,3,20,12,5,10,11,6,53,39,DDDDWWWDLWDLWLWWDWLLLWDDWDD,4,5,4,24,23,LWWLWWLDWWDDD,DDWDWLLWLLWDD
-Sampdoria,Parma,2-1,/match/sampdoria/parma-fc/1993,1993,28,serie_a,18,34,0,2,1,7,10,9,8,41,38,DLLLDWWWDWWLDDDDWWWWWLLWDLD,7,3,4,28,19,3,13,6,8,36,27,WWWWWWLWWLWWDDWWDDWDLWDLWLW,4,2,7,12,18,DLWWWLDDWWWLWL,WWWWLWDWWLDLL
-Torino,Genoa,1-1,/match/torino-fc/genoa/1993,1993,28,serie_a,18,34,1,1,1,10,8,13,6,30,23,WDWDDDWDLLWDDDLDLLWDWLDWDDW,5,6,3,20,13,15,6,11,10,31,46,DDDDDDWWLWWDWWWWWDWWLDDLDWW,1,5,8,9,27,WWDWLDDLLWWDDD,DDDWWDWWWWWDLW
-Milan,Juventus,1-3,/match/milan/juventus-fc/1993,1993,28,serie_a,18,34,2,1,3,1,17,9,1,57,24,WLWLLWLDLDLDWLWLWDWDWWDLDDD,9,4,1,26,8,6,11,8,8,42,35,DWDDLDWWWLLWWDDWDWWWWWWLLDW,3,5,6,14,20,WWWDDDWWWWWWLD,DDLWLWWDDWWWLD
-Fiorentina,Napoli,1-1,/match/fiorentina/napoli/1993,1993,28,serie_a,18,34,1,1,1,14,7,10,10,41,44,DDWDLLWWWDWWDLWDWDLWDWWWWDD,6,4,3,27,18,13,9,8,10,40,38,DLLDLWWWLWWWWWLWDWWDDWWDWDD,2,5,7,18,24,DWLWWWLDLDWWD,LDWWWWWLDWDWDD
-Udinese,Atalanta,1-2,/match/udinese/atalanta/1993,1993,28,serie_a,18,34,2,1,2,12,9,5,13,33,40,WWLWWWWDWWWDWWWWLDWWWDWWWDW,9,2,2,25,10,4,11,7,9,32,34,WWWWWDWWWWWLDLWWWDWDWDDDWWW,2,2,9,7,20,WLWWDWWWLWWWD,WWWWWLLWDWDWW
-Brescia,Inter,1-3,/match/brescia/internazionale/1993,1993,28,serie_a,18,34,2,1,3,16,6,9,12,24,36,DDWWWDLLWDWDDWWLWWWWLDWWLDD,5,4,4,15,13,2,13,10,4,46,31,WWLDWWWLDDWWWWLWLDDDDDDLWLD,6,4,4,23,21,DWWLDDWLWLWLD,WLWLDWWLLDDDLL
-Pescara,Calcio Foggia,2-4,/match/pescara-calcio/us-foggia/1993,1993,28,serie_a,18,34,2,2,4,18,4,4,19,32,58,LLWDWLWLWWWLDWWWLDWWWDWLWLW,3,4,7,23,29,9,8,9,10,28,41,WLWWWDWWWWWDWDLDWDWDWDDWWWD,0,5,8,11,28,LDLLWLDWLDWDLL,WWWWWDDDWWDWD
-Cagliari,Ancona,3-0,/match/cagliari/ancona/1993,1993,28,serie_a,18,34,0,3,0,8,11,6,10,30,29,DWDWWWLWLLLWWDWDLWDLWDLWWWW,6,5,2,14,8,17,5,7,15,33,52,WLWDDWWWWWLWWLWWWLWWDDDWLDD,0,3,10,14,38,DDWWLWDDDWLWW,WWDWWWWWWWDWD
-Juventus,Fiorentina,3-0,/match/juventus-fc/fiorentina/1993,1993,29,serie_a,18,34,0,3,0,5,12,8,8,45,36,DWDDLDWWWLLWWDDWDWWWWWWLLDWL,8,3,2,28,15,14,7,11,10,42,45,DDWDLLWWWDWWDLWDWDLWDWWWWDDD,1,6,7,14,26,WDDWWLDWWWWLW,DDLWDWDWWDWWWD
-Atalanta,Sampdoria,1-2,/match/atalanta/sampdoria/1993,1993,29,serie_a,18,34,2,1,2,4,12,7,9,34,35,WWWWWDWWWWWLDLWWWDWDWDDDWWWL,9,5,0,25,14,7,11,9,8,43,39,DLLLDWWWDWWLDDDDWWWWWLLWDLDW,3,6,4,13,19,WWDWWWDWWWDDDW,LLDWDWDDWWLDD
-Parma,Roma,3-1,/match/parma-fc/roma/1993,1993,29,serie_a,18,34,0,3,1,3,13,6,9,37,29,WWWWWWLWWLWWDDWWDDWDLWDLWLWW,9,4,1,24,9,11,8,13,7,32,26,LDWDWWWLWWDWDLWDLDWDWDDDLDDD,2,8,4,12,14,WWWLWWDWDDDWWW,DDWWWDDWLDDDLD
-Calcio Foggia,Torino,0-0,/match/us-foggia/torino-fc/1993,1993,29,serie_a,18,34,1,0,0,10,9,9,10,32,43,WLWWWDWWWWWDWDLDWDWDWDDWWWDL,8,4,2,17,13,9,8,14,6,31,24,WDWDDDWDLLWDDDLDLLWDWLDWDDWD,3,7,3,10,10,LWDWWWWLWDDDWW,DDDDLWDDLDLWW
-Udinese,Milan,0-0,/match/udinese/milan/1993,1993,29,serie_a,18,34,1,0,0,13,9,5,14,34,42,WWLWWWWDWWWDWWWWLDWWWDWWWDWL,9,2,3,26,12,1,17,9,2,58,27,WLWLLWLDLDLDWLWLWDWDWWDLDDDL,8,5,0,31,16,WLWWDWWWLWWWDL,LLLLLLLLDDDDD
-Lazio,Pescara,2-1,/match/lazio/pescara-calcio/1993,1993,29,serie_a,18,34,0,2,1,6,10,12,6,53,39,DDDDWWWDLWDLWLWWDWLLLWDDWDDD,6,6,2,29,16,18,4,4,20,34,62,LLWDWLWLWWWLDWWWLDWWWDWLWLWL,1,0,12,9,29,DDWWLDWWDWLDWD,LWWWWWWWWWWWW
-Inter,Ancona,3-0,/match/internazionale/ancona/1993,1993,29,serie_a,18,34,0,3,0,2,14,10,4,49,32,WWLDWWWLDDWWWWLWLDDDDDDLWLDL,7,6,0,23,10,17,5,7,16,33,55,WLWDDWWWWWLWWLWWWLWWDDDWLDDW,0,3,11,14,41,WDWWDWWWDDDWD,WWDWWWWWWWDWDW
-Genoa,Brescia,1-1,/match/genoa/brescia/1993,1993,29,serie_a,18,34,1,1,1,15,6,12,10,32,47,DDDDDDWWLWWDWWWWWDWWLDDLDWWD,5,6,2,22,19,16,6,9,13,25,39,DDWWWDLLWDWDDWWLWWWWLDWWLDDL,1,5,8,9,23,DDDWLWWWDLDDW,DWDLWWDWWWWDWD
-Napoli,Cagliari,1-0,/match/napoli/cagliari/1993,1993,29,serie_a,18,34,0,1,0,12,9,9,10,41,39,DLLDLWWWLWWWWWLWDWWDDWWDWDDD,7,3,3,22,14,8,12,6,10,33,29,DWDWWWLWLLLWWDWDLWDLWDLWWWWW,5,1,8,16,21,DLLWLWWWWDWWD,WWWLLLWWLWLDWW
-Fiorentina,Parma,1-1,/match/fiorentina/parma-fc/1993,1993,30,serie_a,18,34,1,1,1,14,7,11,11,42,48,DDWDLLWWWDWWDLWDWDLWDWWWWDDDW,6,5,3,28,19,3,14,6,9,40,30,WWWWWWLWWLWWDDWWDDWDLWDLWLWWW,4,2,8,13,20,DWLWWWLDLDWWDD,WWWWLWDWWLDLLW
-Sampdoria,Pescara,1-1,/match/sampdoria/pescara-calcio/1993,1993,30,serie_a,18,34,1,1,1,7,12,9,8,45,40,DLLLDWWWDWWLDDDDWWWWWLLWDLDWL,8,3,4,30,20,18,4,4,21,35,64,LLWDWLWLWWWLDWWWLDWWWDWLWLWLW,1,0,13,10,31,DLWWWLDDWWWLWLW,LWWWWWWWWWWWWW
-Ancona,Milan,1-3,/match/ancona/milan/1993,1993,30,serie_a,18,34,2,1,3,17,5,7,17,33,58,WLWDDWWWWWLWWLWWWLWWDDDWLDDWW,5,4,5,19,14,1,17,10,2,58,27,WLWLLWLDLDLDWLWLWDWDWWDLDDDLD,8,6,0,31,16,LDWWLWLWLWDDLD,LLLLLLLLDDDDDD
-Napoli,Genoa,2-2,/match/napoli/genoa/1993,1993,30,serie_a,18,34,1,2,2,11,10,9,10,42,39,DLLDLWWWLWWWWWLWDWWDDWWDWDDDW,8,3,3,23,14,15,6,13,10,33,48,DDDDDDWWLWWDWWWWWDWWLDDLDWWDD,1,6,8,10,28,DLLWLWWWWDWWDW,DDDWWDWWWWWDLWD
-Brescia,Atalanta,2-0,/match/brescia/atalanta/1993,1993,30,serie_a,18,34,0,2,0,16,6,10,13,26,40,DDWWWDLLWDWDDWWLWWWWLDWWLDDLD,5,4,5,16,16,5,12,7,10,35,37,WWWWWDWWWWWLDLWWWDWDWDDDWWWLL,3,2,9,9,21,DWWLDDWLWLWLDL,WWWWWLLWDWDWWL
-Roma,Torino,4-5,/match/roma/torino-fc/1993,1993,30,serie_a,18,34,2,4,5,12,8,13,8,33,29,LDWDWWWLWWDWDLWDLDWDWDDDLDDDW,6,5,3,20,12,10,8,15,6,31,24,WDWDDDWDLLWDDDLDLLWDWLDWDDWDD,3,8,3,10,10,LWWLWWLDWWDDDD,DDDDLWDDLDLWWD
-Juventus,Calcio Foggia,4-2,/match/juventus-fc/us-foggia/1993,1993,30,serie_a,18,34,0,4,2,4,13,8,8,48,36,DWDDLDWWWLLWWDDWDWWWWWWLLDWLW,9,3,2,31,15,8,9,10,10,32,43,WLWWWDWWWWWDWDLDWDWDWDDWWWDLD,1,5,8,15,30,WDDWWLDWWWWLWW,WWWWWDDDWWDWDL
-Inter,Lazio,2-0,/match/internazionale/lazio/1993,1993,30,serie_a,18,34,0,2,0,2,15,10,4,52,32,WWLDWWWLDDWWWWLWLDDDDDDLWLDLW,8,6,0,26,10,6,11,12,6,55,40,DDDDWWWDLWDLWLWWDWLLLWDDWDDDW,4,6,4,24,23,WDWWDWWWDDDWDW,DDWDWLLWLLWDDD
-Cagliari,Udinese,1-1,/match/cagliari/udinese/1993,1993,30,serie_a,18,34,1,1,1,9,12,6,11,33,30,DWDWWWLWLLLWWDWDLWDLWDLWWWWWW,7,5,2,17,8,13,9,6,14,34,42,WWLWWWWDWWWDWWWWLDWWWDWWWDWLD,0,3,11,8,30,DDWWLWDDDWLWWW,WWWWWDWWDWDWWW
-Udinese,Brescia,2-2,/match/udinese/brescia/1993,1993,31,serie_a,18,34,1,2,2,13,9,7,14,35,43,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDD,9,3,3,26,12,16,7,10,13,28,40,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDW,1,6,8,10,24,WLWWDWWWLWWWDLD,DWDLWWDWWWWDWDD
-Lazio,Ancona,5-0,/match/lazio/ancona/1993,1993,31,serie_a,18,34,0,5,0,6,11,12,7,55,42,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWW,7,6,2,31,17,17,5,7,18,34,61,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWL,0,3,12,14,44,DDWWLDWWDWLDWDW,WWDWWWWWWWDWDWW
-Pescara,Napoli,3-0,/match/pescara-calcio/napoli/1993,1993,31,serie_a,18,34,0,3,0,18,4,5,21,36,65,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWD,3,4,8,25,33,9,10,10,10,44,41,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWD,2,6,7,19,25,LDLLWLDWLDWDLLL,LDWWWWWLDWDWDDD
-Genoa,Inter,1-1,/match/genoa/internazionale/1993,1993,31,serie_a,18,34,1,1,1,15,6,14,10,35,50,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDD,5,7,2,23,20,2,16,10,4,54,32,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWW,7,4,4,26,22,DDDWLWWWDLDDWD,WLWLDWWLLDDDLLL
-Calcio Foggia,Sampdoria,1-0,/match/us-foggia/sampdoria/1993,1993,31,serie_a,18,34,0,1,0,11,9,10,11,34,47,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDW,8,5,2,17,13,7,12,10,8,46,41,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLD,4,6,4,15,20,LWDWWWWLWDDDWWD,LLDWDWDDWWLDDL
-Milan,Roma,0-0,/match/milan/roma/1993,1993,31,serie_a,18,34,1,0,0,1,18,10,2,61,28,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDL,9,4,2,27,11,12,8,13,9,37,34,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWL,2,8,5,13,17,WWWDDDWWWWWWLDL,DDWWWDDWLDDDLDW
-Atalanta,Fiorentina,2-1,/match/atalanta/fiorentina/1993,1993,31,serie_a,18,34,0,2,1,5,12,7,11,35,39,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLW,9,5,1,26,16,14,7,12,11,43,49,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWD,1,6,8,14,29,WWDWWWDWWWDDDWL,DDLWDWDWWDWWWDW
-Parma,Juventus,2-1,/match/parma-fc/juventus-fc/1993,1993,31,serie_a,18,34,0,2,1,3,14,7,9,41,31,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWD,10,4,1,27,10,4,14,8,8,52,38,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWW,4,5,6,17,21,WWWLWWDWDDDWWWW,DDLWLWWDDWWWLDL
-Torino,Cagliari,0-5,/match/torino-fc/cagliari/1993,1993,31,serie_a,18,34,2,0,5,10,9,15,6,36,28,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDL,5,7,3,21,14,8,12,7,11,34,31,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWD,5,1,9,16,22,WWDWLDDLLWWDDDD,WWWLLLWWLWLDWWW
-Genoa,Parma,1-1,/match/genoa/parma-fc/1993,1993,32,serie_a,18,34,1,1,1,14,6,15,10,36,51,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDDD,5,8,2,24,21,3,15,7,9,43,32,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWDW,4,3,8,14,21,DDDWLWWWDLDDWDD,WWWWLWDWWLDLLWD
-Brescia,Lazio,2-0,/match/brescia/lazio/1993,1993,32,serie_a,18,34,0,2,0,16,7,11,13,30,42,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDWD,6,4,5,18,16,6,12,12,7,60,42,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWWW,4,6,5,24,25,DWWLDDWLWLWLDLW,DDWDWLLWLLWDDDW
-Ancona,Pescara,5-3,/match/ancona/pescara-calcio/1993,1993,32,serie_a,18,34,0,5,3,17,5,7,19,34,66,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWLW,5,4,6,20,17,18,5,5,21,39,65,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWDW,1,1,13,11,32,LDWWLWLWLWDDLDL,LWWWWWWWWWWWWWD
-Napoli,Torino,1-1,/match/napoli/torino-fc/1993,1993,32,serie_a,18,34,1,1,1,11,10,10,11,44,44,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWDW,8,4,3,25,16,10,9,15,7,36,33,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDLL,4,8,3,15,14,DLLWLWWWWDWWDWD,DDDDLWDDLDLWWDL
-Fiorentina,Udinese,2-2,/match/fiorentina/udinese/1993,1993,32,serie_a,18,34,1,2,2,15,7,12,12,44,51,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWDW,6,6,3,29,20,12,9,8,14,37,45,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDDD,0,4,11,9,31,DWLWWWLDLDWWDDD,WWWWWDWWDWDWWWD
-Roma,Atalanta,2-2,/match/roma/atalanta/1993,1993,32,serie_a,18,34,1,2,2,13,8,14,9,37,34,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWLD,6,5,4,24,17,5,13,7,11,37,40,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLWW,3,2,10,9,23,LWWLWWLDWWDDDDL,WWWWWLLWDWDWWLW
-Juventus,Sampdoria,1-1,/match/juventus-fc/sampdoria/1993,1993,32,serie_a,18,34,1,1,1,4,14,8,9,53,40,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWWW,10,3,2,35,17,7,12,10,9,46,42,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLDW,4,6,5,15,21,WDDWWLDWWWWLWWW,LLDWDWDDWWLDDLW
-Inter,Calcio Foggia,1-1,/match/internazionale/us-foggia/1993,1993,32,serie_a,18,34,1,1,1,2,16,11,4,55,33,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWWD,9,6,0,28,10,9,10,10,11,35,47,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDWW,1,5,9,17,34,WDWWDWWWDDDWDWW,WWWWWDDDWWDWDLW
-Cagliari,Milan,1-1,/match/cagliari/milan/1993,1993,32,serie_a,18,34,1,1,1,8,13,7,11,39,31,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWDL,7,6,2,18,9,1,18,11,2,61,28,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDLD,9,6,0,34,17,DDWWLWDDDWLWWWD,LLLLLLLLDDDDDDL
-Torino,Fiorentina,1-1,/match/torino-fc/fiorentina/1993,1993,33,serie_a,18,34,1,1,1,11,9,16,7,37,34,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDLLD,5,7,4,21,19,15,7,13,12,46,53,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWDWD,1,6,9,15,31,WWDWLDDLLWWDDDDL,DDLWDWDWWDWWWDWW
-Pescara,Juventus,5-1,/match/pescara-calcio/juventus-fc/1993,1993,33,serie_a,18,34,0,5,1,18,5,5,22,42,70,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWDWW,4,4,8,28,33,4,14,9,9,54,41,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWWWD,4,5,7,18,23,LDLLWLDWLDWDLLLW,DDLWLWWDDWWWLDLW
-Udinese,Ancona,2-0,/match/udinese/ancona/1993,1993,33,serie_a,18,34,0,2,0,12,9,9,14,39,47,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDDDD,9,4,3,28,14,17,6,7,19,39,69,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWLWW,0,3,13,14,49,WLWWDWWWLWWWDLDD,WWDWWWWWWWDWDWWW
-Atalanta,Genoa,1-2,/match/atalanta/genoa/1993,1993,33,serie_a,18,34,2,1,2,5,13,8,11,39,42,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLWWD,10,5,1,28,17,14,6,16,10,37,52,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDDDD,1,7,8,12,30,WWDWWWDWWWDDDWLW,DDDWWDWWWWWDLWDD
-Calcio Foggia,Cagliari,1-1,/match/us-foggia/cagliari/1993,1993,33,serie_a,18,34,1,1,1,9,10,11,11,36,48,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDWWD,9,5,2,18,13,8,13,8,11,40,32,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWDLD,6,1,9,21,22,LWDWWWWLWDDDWWDW,WWWLLLWWLWLDWWWL
-Sampdoria,Roma,2-2,/match/sampdoria/roma/1993,1993,33,serie_a,18,34,1,2,2,7,12,11,9,47,43,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLDWD,8,4,4,31,21,13,8,15,9,39,36,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWLDD,2,9,5,13,17,DLWWWLDDWWWLWLWD,DDWWWDDWLDDDLDWD
-Parma,Inter,2-0,/match/parma-fc/internazionale/1993,1993,33,serie_a,18,34,0,2,0,3,15,8,9,44,33,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWDWD,11,4,1,29,11,2,16,12,4,56,34,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWWDD,7,5,4,27,23,WWWLWWDWDDDWWWWW,WLWLDWWLLDDDLLLD
-Milan,Brescia,1-1,/match/milan/brescia/1993,1993,33,serie_a,18,34,1,1,1,1,18,12,2,62,29,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDLDD,9,5,2,27,11,16,8,11,13,32,42,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDWDW,1,7,8,12,26,WWWDDDWWWWWWLDLD,DWDLWWDWWWWDWDDD
-Lazio,Napoli,4-3,/match/lazio/napoli/1993,1993,33,serie_a,18,34,0,4,3,6,12,12,8,60,44,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWWWW,8,6,2,36,17,10,10,11,11,45,45,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWDWD,2,6,8,19,28,DDWWLDWWDWLDWDWW,LDWWWWWLDWDWDDDW
-Brescia,Sampdoria,3-1,/match/brescia/sampdoria/1993,1993,34,serie_a,18,34,0,3,1,16,8,12,13,33,43,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDWDWD,7,4,5,20,16,7,12,12,9,49,45,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLDWDD,4,7,5,16,22,DWWLDDWLWLWLDLWW,LLDWDWDDWWLDDLWD
-Cagliari,Pescara,4-0,/match/cagliari/pescara-calcio/1993,1993,34,serie_a,18,34,0,4,0,8,13,9,11,41,33,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWDLDD,7,7,2,19,10,18,6,5,22,47,71,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWDWWW,1,1,14,14,37,DDWWLWDDDWLWWWDD,LWWWWWWWWWWWWWDW
-Ancona,Atalanta,0-2,/match/ancona/atalanta/1993,1993,34,serie_a,18,34,2,0,2,17,6,7,20,39,71,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWLWWW,6,4,6,25,20,6,13,8,12,40,44,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLWWDL,3,3,10,11,25,LDWWLWLWLWDDLDLW,WWWWWLLWDWDWWLWD
-Fiorentina,Calcio Foggia,6-2,/match/fiorentina/us-foggia/1993,1993,34,serie_a,18,34,0,6,2,15,7,14,12,47,54,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWDWDD,6,7,3,31,22,9,10,12,11,37,49,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDWWDD,1,6,9,18,35,DWLWWWLDLDWWDDDD,WWWWWDDDWWDWDLWD
-Roma,Udinese,1-1,/match/roma/udinese/1993,1993,34,serie_a,18,34,1,1,1,13,8,16,9,41,38,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWLDDD,6,6,4,26,19,10,10,9,14,41,47,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDDDDW,0,5,11,11,33,LWWLWWLDWWDDDDLD,WWWWWDWWDWDWWWDD
-Inter,Torino,3-0,/match/internazionale/torino-fc/1993,1993,34,serie_a,18,34,0,3,0,2,16,12,5,56,36,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWWDDW,9,7,0,29,11,11,9,17,7,38,35,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDLLDD,4,9,3,16,15,WDWWDWWWDDDWDWWD,DDDDLWDDLDLWWDLD
-Juventus,Lazio,4-1,/match/juventus-fc/lazio/1993,1993,34,serie_a,18,34,0,4,1,5,14,9,10,55,46,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWWWDW,10,4,2,36,18,4,13,12,8,64,47,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWWWWW,4,6,6,24,27,WDDWWLDWWWWLWWWD,DDWDWLLWLLWDDDWW
-Napoli,Parma,1-1,/match/napoli/parma-fc/1993,1993,34,serie_a,18,34,1,1,1,12,10,11,12,48,49,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWDWDW,8,5,3,26,17,3,16,8,9,46,33,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWDWDW,4,4,8,15,22,DLLWLWWWWDWWDWDD,WWWWLWDWWLDLLWDD
-Genoa,Milan,2-2,/match/genoa/milan/1993,1993,34,serie_a,18,34,1,2,2,14,7,16,10,39,53,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDDDDL,5,9,2,25,22,1,18,13,2,63,30,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDLDDD,9,7,0,35,18,DDDWLWWWDLDDWDDD,LLLLLLLLDDDDDDLD
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Atalanta,Parma,2-1,/match/atalanta/parma-fc/1993,1993,1,serie_a,18,34,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sampdoria,Lazio,3-3,/match/sampdoria/lazio/1993,1993,1,serie_a,18,34,1,3,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Napoli,Brescia,0-0,/match/napoli/brescia/1993,1993,1,serie_a,18,34,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cagliari,Juventus,0-0,/match/cagliari/juventus-fc/1993,1993,1,serie_a,18,34,1,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Udinese,Inter,2-1,/match/udinese/internazionale/1993,1993,1,serie_a,18,34,0,2,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Fiorentina,Genoa,1-1,/match/fiorentina/genoa/1993,1993,1,serie_a,18,34,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Milan,Calcio Foggia,1-0,/match/milan/us-foggia/1993,1993,1,serie_a,18,34,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Roma,Pescara,0-1,/match/roma/pescara-calcio/1993,1993,1,serie_a,18,34,2,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Torino,Ancona,4-1,/match/torino-fc/ancona/1993,1993,1,serie_a,18,34,0,4,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Fiorentina,2-2,/match/lazio/fiorentina/1993,1993,2,serie_a,18,34,1,2,2,12,1,0,1,0,3,3,D,0,0,0,0,0,5,2,0,1,0,1,1,D,0,0,0,0,0,,
+Calcio Foggia,Napoli,2-4,/match/us-foggia/napoli/1993,1993,2,serie_a,18,34,2,2,4,14,0,0,0,1,0,1,W,0,0,0,0,0,7,2,0,1,0,0,0,D,0,0,0,0,0,,
+Juventus,Atalanta,4-1,/match/juventus-fc/atalanta/1993,1993,2,serie_a,18,34,0,4,1,11,1,0,1,0,0,0,D,0,0,0,0,0,2,4,1,0,0,2,1,W,0,0,0,0,0,,
+Inter,Cagliari,3-1,/match/internazionale/cagliari/1993,1993,2,serie_a,18,34,0,3,1,17,0,0,0,1,1,2,W,0,0,0,0,0,9,2,0,1,0,0,0,D,0,0,0,0,0,,
+Parma,Udinese,3-1,/match/parma-fc/udinese/1993,1993,2,serie_a,18,34,0,3,1,15,0,0,0,1,1,2,W,0,0,0,0,0,1,4,1,0,0,2,1,W,0,0,0,0,0,,
+Genoa,Roma,0-0,/match/genoa/roma/1993,1993,2,serie_a,18,34,1,0,0,13,1,0,1,0,1,1,D,0,0,0,0,0,18,0,0,0,1,0,1,L,0,0,0,0,0,,
+Brescia,Torino,0-0,/match/brescia/torino-fc/1993,1993,2,serie_a,18,34,1,0,0,10,1,0,1,0,0,0,D,0,0,0,0,0,3,4,1,0,0,4,1,W,0,0,0,0,0,,
+Ancona,Sampdoria,2-3,/match/ancona/sampdoria/1993,1993,2,serie_a,18,34,2,2,3,16,0,0,0,1,1,4,W,0,0,0,0,0,8,2,0,1,0,3,3,D,0,0,0,0,0,,
+Pescara,Milan,4-5,/match/pescara-calcio/milan/1993,1993,2,serie_a,18,34,2,4,5,6,2,1,0,0,1,0,L,0,0,0,0,0,4,4,1,0,0,1,0,W,0,0,0,0,0,,
+Roma,Calcio Foggia,3-1,/match/roma/us-foggia/1993,1993,3,serie_a,18,34,0,3,1,16,1,0,1,1,0,1,LD,0,0,1,0,1,17,0,0,0,2,2,5,WL,0,0,1,0,1,L,W
+Milan,Atalanta,2-0,/match/milan/atalanta/1993,1993,3,serie_a,18,34,0,2,0,1,6,2,0,0,6,4,WL,1,0,0,1,0,9,4,1,0,1,3,5,WW,0,0,1,1,4,W,W
+Torino,Parma,3-0,/match/torino-fc/parma-fc/1993,1993,3,serie_a,18,34,0,3,0,2,5,1,1,0,4,1,WD,1,0,0,4,1,6,4,1,0,1,4,3,WW,0,0,1,1,2,W,W
+Napoli,Inter,1-2,/match/napoli/internazionale/1993,1993,3,serie_a,18,34,2,1,2,7,4,1,1,0,4,2,DL,0,1,0,0,0,5,4,1,0,1,4,3,WW,0,0,1,1,2,D,W
+Cagliari,Lazio,1-1,/match/cagliari/lazio/1993,1993,3,serie_a,18,34,1,1,1,14,2,0,1,1,1,3,DW,0,1,0,0,0,10,3,0,2,0,5,5,DD,0,1,0,3,3,D,D
+Genoa,Juventus,2-2,/match/genoa/juventus-fc/1993,1993,3,serie_a,18,34,1,2,2,11,3,0,2,0,1,1,DD,0,1,0,0,0,3,5,1,1,0,4,1,DW,0,1,0,0,0,D,D
+Udinese,Sampdoria,1-2,/match/udinese/sampdoria/1993,1993,3,serie_a,18,34,2,1,2,4,4,1,0,1,3,4,WW,1,0,0,2,1,8,4,1,1,0,6,5,DL,1,0,0,3,2,W,L
+Brescia,Pescara,1-0,/match/brescia/pescara-calcio/1993,1993,3,serie_a,18,34,0,1,0,12,3,0,2,0,0,0,DD,0,1,0,0,0,15,2,1,0,1,5,5,LL,1,0,0,1,0,D,L
+Fiorentina,Ancona,7-1,/match/fiorentina/ancona/1993,1993,3,serie_a,18,34,0,7,1,13,3,0,2,0,3,3,DD,0,1,0,1,1,18,0,0,0,2,3,7,WL,0,0,1,1,4,D,W
+Juventus,Roma,1-1,/match/juventus-fc/roma/1993,1993,4,serie_a,18,34,1,1,1,5,6,1,2,0,6,3,DWD,1,0,0,4,1,9,5,1,1,1,3,2,LDW,0,1,0,0,0,W,D
+Inter,Fiorentina,2-2,/match/internazionale/fiorentina/1993,1993,4,serie_a,18,34,1,2,2,6,6,2,0,1,6,4,WWL,1,0,0,3,1,3,7,1,2,0,10,4,DDW,0,1,0,2,2,W,D
+Parma,Brescia,2-0,/match/parma-fc/brescia/1993,1993,4,serie_a,18,34,0,2,0,14,4,1,0,2,4,6,WWW,1,0,0,3,1,4,7,1,2,0,1,0,DDW,0,1,0,0,0,W,D
+Lazio,Genoa,1-1,/match/lazio/genoa/1993,1993,4,serie_a,18,34,1,1,1,11,4,0,3,0,6,6,DDD,0,1,0,2,2,8,5,0,3,0,3,3,DDD,0,1,0,1,1,D,D
+Atalanta,Cagliari,2-1,/match/atalanta/cagliari/1993,1993,4,serie_a,18,34,0,2,1,12,4,1,0,2,3,7,WWW,1,0,0,2,1,10,4,0,2,1,2,4,DWD,0,0,1,1,3,W,W
+Calcio Foggia,Udinese,1-0,/match/us-foggia/udinese/1993,1993,4,serie_a,18,34,0,1,0,17,0,0,0,3,3,8,WLW,0,0,1,2,4,15,4,1,0,2,4,6,WWL,0,0,1,1,3,L,W
+Ancona,Napoli,1-1,/match/ancona/napoli/1993,1993,4,serie_a,18,34,1,1,1,18,0,0,0,3,4,14,WLW,0,0,1,2,3,13,4,1,1,1,5,4,DLL,1,0,0,4,2,L,L
+Pescara,Torino,2-2,/match/pescara-calcio/torino-fc/1993,1993,4,serie_a,18,34,1,2,2,16,2,1,0,2,5,6,LLW,0,0,1,4,5,2,9,2,1,0,7,1,WDW,0,1,0,0,0,L,D
+Sampdoria,Milan,1-2,/match/sampdoria/milan/1993,1993,4,serie_a,18,34,2,1,2,7,6,2,1,0,8,6,DLL,0,1,0,3,3,1,10,3,0,0,8,4,WLW,1,0,0,5,4,D,L
+Cagliari,Roma,1-0,/match/cagliari/roma/1993,1993,5,serie_a,18,34,0,1,0,16,4,0,2,2,3,6,DWDW,0,2,0,1,1,11,6,1,2,1,4,3,LDWD,0,2,0,1,1,DD,DD
+Inter,Atalanta,1-0,/match/internazionale/atalanta/1993,1993,5,serie_a,18,34,0,1,0,5,8,2,1,1,8,6,WWLD,1,1,0,5,3,6,8,2,0,2,5,8,WWWW,0,0,2,1,6,WD,WW
+Torino,Sampdoria,2-2,/match/torino-fc/sampdoria/1993,1993,5,serie_a,18,34,1,2,2,2,10,2,2,0,9,3,WDWD,2,0,0,7,1,9,6,2,1,1,9,8,DLLL,2,0,0,5,3,WW,LL
+Lazio,Parma,5-2,/match/lazio/parma-fc/1993,1993,5,serie_a,18,34,0,5,2,12,6,0,4,0,7,7,DDDD,0,2,0,3,3,7,8,2,0,2,6,6,WWWW,0,0,2,1,5,DD,WW
+Udinese,Pescara,5-2,/match/udinese/pescara-calcio/1993,1993,5,serie_a,18,34,0,5,2,17,4,1,0,3,4,7,WWLW,1,0,1,3,3,14,4,1,1,2,7,8,LLWD,1,0,1,1,1,WL,LW
+Napoli,Juventus,2-3,/match/napoli/juventus-fc/1993,1993,5,serie_a,18,34,2,2,3,13,5,1,2,1,6,5,DLLD,0,1,1,1,2,4,8,1,3,0,7,4,DWDD,0,2,0,2,2,DL,DD
+Genoa,Ancona,4-4,/match/genoa/ancona/1993,1993,5,serie_a,18,34,1,4,4,10,6,0,4,0,4,4,DDDD,0,2,0,2,2,18,2,0,1,3,5,15,WLWD,0,0,2,2,11,DD,WW
+Brescia,Calcio Foggia,4-1,/match/brescia/us-foggia/1993,1993,5,serie_a,18,34,0,4,1,8,7,1,2,1,1,2,DDWW,1,1,0,1,0,15,4,1,0,3,4,8,WLWW,0,0,2,1,4,DW,WW
+Fiorentina,Milan,3-7,/match/fiorentina/milan/1993,1993,5,serie_a,18,34,2,3,7,3,8,1,3,0,12,6,DDWD,1,1,0,8,2,1,12,4,0,0,10,5,WLWL,2,0,0,7,5,DW,LL
+Juventus,Brescia,0-0,/match/juventus-fc/brescia/1993,1993,6,serie_a,18,34,1,0,0,5,10,2,3,0,10,6,DWDDL,1,1,0,5,2,4,11,2,2,1,5,3,DDWWW,0,1,1,0,2,WD,DW
+Milan,Lazio,5-3,/match/milan/lazio/1993,1993,6,serie_a,18,34,0,5,3,1,14,5,0,0,17,8,WLWLL,2,0,0,3,0,6,10,1,4,0,12,9,DDDDW,0,2,0,4,4,WW,DD
+Sampdoria,Cagliari,2-0,/match/sampdoria/cagliari/1993,1993,6,serie_a,18,34,0,2,0,13,7,2,2,1,11,10,DLLLD,0,1,1,4,5,8,8,1,2,2,4,6,DWDWW,0,0,2,2,5,DL,WW
+Atalanta,Torino,0-0,/match/atalanta/torino-fc/1993,1993,6,serie_a,18,34,1,0,0,11,8,2,0,3,5,9,WWWWW,2,0,0,4,2,2,12,2,3,0,11,5,WDWDD,0,2,0,2,2,WW,DD
+Pescara,Fiorentina,0-2,/match/pescara-calcio/fiorentina/1993,1993,6,serie_a,18,34,2,0,2,16,4,1,1,3,9,13,LLWDW,0,1,1,6,7,12,8,1,3,1,15,13,DDWDL,0,2,0,4,4,LD,DD
+Roma,Inter,4-1,/match/roma/internazionale/1993,1993,6,serie_a,18,34,0,4,1,14,6,1,2,2,4,4,LDWDW,1,0,1,3,2,3,12,3,1,1,9,6,WWLDW,1,0,1,3,3,LW,WL
+Parma,Ancona,3-0,/match/parma-fc/ancona/1993,1993,6,serie_a,18,34,0,3,0,10,8,2,0,3,8,11,WWWWW,2,0,0,5,1,18,3,0,2,3,9,19,WLWDD,0,1,2,6,15,WW,WWD
+Udinese,Napoli,2-0,/match/udinese/napoli/1993,1993,6,serie_a,18,34,0,2,0,7,8,2,0,3,9,9,WWLWW,2,0,1,8,5,15,5,1,2,2,8,8,DLLDL,1,1,0,5,3,WLW,LD
+Calcio Foggia,Genoa,2-2,/match/us-foggia/genoa/1993,1993,6,serie_a,18,34,1,2,2,17,4,1,0,4,5,12,WLWWW,1,0,1,3,4,9,8,0,5,0,8,8,DDDDD,0,2,0,2,2,LW,DD
+Lazio,Atalanta,3-0,/match/lazio/atalanta/1993,1993,7,serie_a,18,34,0,3,0,9,10,1,4,1,15,14,DDDDWW,1,2,0,8,5,10,10,2,1,3,5,9,WWWWWD,0,0,3,1,7,DDW,WWW
+Parma,Milan,0-2,/match/parma-fc/milan/1993,1993,7,serie_a,18,34,2,0,2,5,12,3,0,3,11,11,WWWWWW,3,0,0,8,1,1,18,6,0,0,22,11,WLWLLW,3,0,0,14,8,WWW,LLL
+Inter,Juventus,3-1,/match/internazionale/juventus-fc/1993,1993,7,serie_a,18,34,0,3,1,7,12,3,1,2,10,10,WWLDWW,2,1,0,6,3,3,12,2,4,0,10,6,DWDDLD,1,2,0,5,4,WDW,DDL
+Torino,Udinese,1-0,/match/torino-fc/udinese/1993,1993,7,serie_a,18,34,0,1,0,2,13,2,4,0,11,5,WDWDDD,2,1,0,9,3,4,12,3,0,3,11,9,WWLWWW,0,0,2,1,4,WWD,WW
+Napoli,Roma,2-1,/match/napoli/roma/1993,1993,7,serie_a,18,34,0,2,1,16,5,1,2,3,8,10,DLLDLW,0,1,2,3,5,12,10,2,2,2,8,5,LDWDWW,0,2,1,1,2,DLL,DDW
+Ancona,Calcio Foggia,3-0,/match/ancona/us-foggia/1993,1993,7,serie_a,18,34,0,3,0,18,3,0,2,4,9,22,WLWDDW,0,1,1,3,4,15,6,1,1,4,7,14,WLWWWD,0,0,3,2,8,LD,WWW
+Genoa,Pescara,4-3,/match/genoa/pescara-calcio/1993,1993,7,serie_a,18,34,0,4,3,13,9,0,6,0,10,10,DDDDDD,0,3,0,6,6,17,4,1,1,4,9,15,LLWDWL,1,0,2,3,6,DDD,LWW
+Brescia,Cagliari,0-2,/match/brescia/cagliari/1993,1993,7,serie_a,18,34,2,0,2,6,12,2,3,1,5,3,DDWWWD,2,1,0,5,1,14,8,1,2,3,4,8,DWDWWW,0,0,3,2,7,DWW,WWW
+Fiorentina,Sampdoria,4-0,/match/fiorentina/sampdoria/1993,1993,7,serie_a,18,34,0,4,0,11,10,2,3,1,17,13,DDWDLL,1,1,1,11,9,8,11,3,2,1,13,10,DLLLDW,2,1,0,7,5,DWL,LLD
+Cagliari,Fiorentina,2-1,/match/cagliari/fiorentina/1993,1993,8,serie_a,18,34,0,2,1,12,10,2,2,3,6,8,DWDWWWL,1,2,0,2,1,5,14,3,3,1,21,13,DDWDLLW,1,2,0,6,4,DDW,DDL
+Milan,Torino,0-0,/match/milan/torino-fc/1993,1993,8,serie_a,18,34,1,0,0,1,20,7,0,0,24,11,WLWLLWL,3,0,0,8,3,2,17,3,4,0,12,5,WDWDDDW,0,3,0,2,2,WWW,DDD
+Sampdoria,Genoa,4-1,/match/sampdoria/genoa/1993,1993,8,serie_a,18,34,0,4,1,11,11,3,2,2,13,14,DLLLDWW,1,1,1,6,5,6,13,1,6,0,14,13,DDDDDDW,0,3,0,4,4,DLW,DDD
+Atalanta,Napoli,3-2,/match/atalanta/napoli/1993,1993,8,serie_a,18,34,0,3,2,13,10,2,1,4,5,12,WWWWWDW,2,1,0,4,2,15,9,2,2,3,10,11,DLLDLWW,1,1,1,5,5,WWD,LDW
+Pescara,Inter,1-4,/match/pescara-calcio/internazionale/1993,1993,8,serie_a,18,34,2,1,4,18,4,1,1,5,12,19,LLWDWLW,0,1,2,6,9,3,16,4,1,2,13,11,WWLDWWW,1,0,2,4,7,LDL,WLW
+Roma,Brescia,2-3,/match/roma/brescia/1993,1993,8,serie_a,18,34,2,2,3,14,10,2,2,3,9,7,LDWDWWW,2,0,1,7,3,10,12,2,3,2,5,5,DDWWWDL,0,2,1,0,2,LWW,DWD
+Juventus,Ancona,5-1,/match/juventus-fc/ancona/1993,1993,8,serie_a,18,34,0,5,1,7,12,2,4,1,11,9,DWDDLDW,1,2,0,5,2,16,7,1,2,4,12,22,WLWDDWW,0,1,3,6,18,WDD,WWDW
+Udinese,Lazio,0-0,/match/udinese/lazio/1993,1993,8,serie_a,18,34,1,0,0,8,12,3,0,4,11,10,WWLWWWW,3,0,1,10,5,4,14,2,4,1,18,14,DDDDWWW,0,2,1,7,9,WLWW,DDW
+Calcio Foggia,Parma,1-0,/match/us-foggia/parma-fc/1993,1993,8,serie_a,18,34,0,1,0,17,6,1,1,5,7,17,WLWWWDW,1,1,1,5,6,9,12,3,0,4,11,13,WWWWWWL,0,0,3,3,10,LWD,WWW
+Lazio,Torino,1-2,/match/lazio/torino-fc/1993,1993,9,serie_a,18,34,2,1,2,5,15,2,5,1,18,14,DDDDWWWD,2,2,0,11,5,2,18,3,5,0,12,5,WDWDDDWD,0,4,0,2,2,DDWW,DDDD
+Inter,Sampdoria,0-0,/match/internazionale/sampdoria/1993,1993,9,serie_a,18,34,1,0,0,3,18,5,1,2,17,12,WWLDWWWL,3,1,0,9,4,6,15,4,2,2,17,15,DLLLDWWW,2,1,1,7,9,WDWW,LLDW
+Atalanta,Calcio Foggia,2-1,/match/atalanta/us-foggia/1993,1993,9,serie_a,18,34,0,2,1,7,14,3,1,4,8,14,WWWWWDWW,3,1,0,7,4,15,10,2,1,5,8,17,WLWWWDWW,0,0,4,2,11,WWDW,WWWW
+Juventus,Udinese,5-1,/match/juventus-fc/udinese/1993,1993,9,serie_a,18,34,0,5,1,4,16,3,4,1,16,10,DWDDLDWW,2,2,0,10,3,10,14,3,1,4,11,10,WWLWWWWD,0,0,3,1,5,WDDW,WWW
+Parma,Pescara,1-0,/match/parma-fc/pescara-calcio/1993,1993,9,serie_a,18,34,0,1,0,13,12,3,0,5,11,14,WWWWWWLW,3,0,1,8,3,18,4,1,1,6,13,23,LLWDWLWL,1,0,3,6,10,WWWL,LWWW
+Ancona,Brescia,5-1,/match/ancona/brescia/1993,1993,9,serie_a,18,34,0,5,1,17,7,1,2,5,13,27,WLWDDWWW,1,1,1,6,4,9,14,3,3,2,8,7,DDWWWDLL,1,2,1,3,4,LDW,DWDL
+Napoli,Milan,1-5,/match/napoli/milan/1993,1993,9,serie_a,18,34,2,1,5,16,9,2,2,4,12,14,DLLDLWWW,1,1,2,5,6,1,22,7,1,0,24,11,WLWLLWLD,4,0,0,16,8,DLLW,LLLL
+Fiorentina,Roma,2-1,/match/fiorentina/roma/1993,1993,9,serie_a,18,34,0,2,1,11,14,3,3,2,22,15,DDWDLLWW,2,1,1,15,9,14,10,2,2,4,11,10,LDWDWWWL,0,2,2,2,4,DWLW,DDWW
+Genoa,Cagliari,2-3,/match/genoa/cagliari/1993,1993,9,serie_a,18,34,2,2,3,12,13,1,6,1,15,17,DDDDDDWW,1,3,0,10,9,8,14,3,2,3,8,9,DWDWWWLW,1,0,3,4,7,DDDW,WWWL
+Torino,Juventus,1-2,/match/torino-fc/juventus-fc/1993,1993,10,serie_a,18,34,2,1,2,4,20,4,5,0,14,6,WDWDDDWDL,3,1,0,10,3,3,20,4,4,1,21,11,DWDDLDWWW,1,2,1,6,7,WWDW,DDLW
+Milan,Inter,1-1,/match/milan/internazionale/1993,1993,10,serie_a,18,34,1,1,1,1,24,8,1,0,29,12,WLWLLWLDL,3,1,0,8,3,2,20,5,2,2,17,12,WWLDWWWLD,2,0,2,8,8,WWWD,WLWL
+Sampdoria,Napoli,3-1,/match/sampdoria/napoli/1993,1993,10,serie_a,18,34,0,3,1,7,16,4,3,2,17,15,DLLLDWWWD,2,1,1,10,6,17,9,2,2,5,13,19,DLLDLWWWL,1,1,2,7,8,DLWW,LDWW
+Cagliari,Parma,0-1,/match/cagliari/parma-fc/1993,1993,10,serie_a,18,34,2,0,1,8,16,4,2,3,11,11,DWDWWWLWL,2,2,0,4,2,9,16,4,0,5,12,14,WWWWWWLWW,0,0,4,3,11,DDWW,WWWW
+Calcio Foggia,Lazio,2-1,/match/us-foggia/lazio/1993,1993,10,serie_a,18,34,0,2,1,16,10,2,1,6,9,19,WLWWWDWWW,2,1,1,6,6,10,15,2,5,2,19,16,DDDDWWWDL,0,3,1,7,9,LWDW,DDWD
+Udinese,Genoa,3-0,/match/udinese/genoa/1993,1993,10,serie_a,18,34,0,3,0,11,14,3,1,5,12,15,WWLWWWWDW,3,1,1,10,5,13,13,1,6,2,17,20,DDDDDDWWL,0,3,1,5,8,WLWWD,DDDW
+Roma,Ancona,2-1,/match/roma/ancona/1993,1993,10,serie_a,18,34,0,2,1,15,10,2,2,5,12,12,LDWDWWWLW,2,0,2,9,6,14,11,2,2,5,18,28,WLWDDWWWW,0,1,4,7,23,LWWL,WWDWW
+Pescara,Atalanta,2-0,/match/pescara-calcio/atalanta/1993,1993,10,serie_a,18,34,0,2,0,18,4,1,1,7,13,24,LLWDWLWLW,0,1,3,7,13,6,18,4,1,4,10,15,WWWWWDWWW,0,0,4,1,10,LDLL,WWWW
+Brescia,Fiorentina,1-1,/match/brescia/fiorentina/1993,1993,10,serie_a,18,34,1,1,1,12,14,3,3,3,9,12,DDWWWDLLW,2,1,1,5,3,5,18,4,3,2,24,16,DDWDLLWWW,1,2,1,7,6,DWWL,DDLW
+Parma,Sampdoria,1-0,/match/parma-fc/sampdoria/1993,1993,11,serie_a,18,34,0,1,0,8,18,5,0,5,13,14,WWWWWWLWWL,4,0,1,9,3,5,20,5,3,2,20,16,DLLLDWWWDW,2,2,1,7,9,WWWLW,LLDWD
+Inter,Brescia,2-1,/match/internazionale/brescia/1993,1993,11,serie_a,18,34,0,2,1,3,21,5,3,2,18,13,WWLDWWWLDD,3,2,0,9,4,10,16,3,4,3,10,13,DDWWWDLLWD,1,2,2,4,9,WDWWD,DWDLW
+Juventus,Milan,0-1,/match/juventus-fc/milan/1993,1993,11,serie_a,18,34,2,0,1,2,22,5,4,1,23,12,DWDDLDWWWL,3,2,0,15,4,1,26,8,2,0,30,13,WLWLLWLDLD,5,0,0,21,9,WDDWW,LLLLL
+Lazio,Roma,1-1,/match/lazio/roma/1993,1993,11,serie_a,18,34,1,1,1,12,15,2,5,3,20,18,DDDDWWWDLW,2,2,1,12,7,13,14,3,2,5,14,13,LDWDWWWLWW,0,2,3,3,6,DDWWL,DDWWW
+Genoa,Torino,2-1,/match/genoa/torino-fc/1993,1993,11,serie_a,18,34,0,2,1,15,13,1,6,3,17,23,DDDDDDWWLW,1,3,1,12,12,4,20,4,5,1,15,8,WDWDDDWDLL,1,4,0,4,3,DDDWL,DDDDL
+Atalanta,Udinese,2-0,/match/atalanta/udinese/1993,1993,11,serie_a,18,34,0,2,0,7,18,4,1,5,10,17,WWWWWDWWWW,4,1,0,9,5,9,18,4,1,5,15,15,WWLWWWWDWW,0,0,4,2,10,WWDWW,WWWW
+Ancona,Cagliari,0-1,/match/ancona/cagliari/1993,1993,11,serie_a,18,34,2,0,1,16,11,2,2,6,19,30,WLWDDWWWWW,2,1,1,11,5,11,16,4,2,4,11,12,DWDWWWLWLL,2,0,3,7,9,LDWW,WWWLL
+Napoli,Fiorentina,4-1,/match/napoli/fiorentina/1993,1993,11,serie_a,18,34,0,4,1,17,9,2,2,6,14,22,DLLDLWWWLW,1,1,3,6,11,6,19,4,4,2,25,17,DDWDLLWWWD,1,3,1,8,7,DLLWL,DDLWD
+Calcio Foggia,Pescara,1-0,/match/us-foggia/pescara-calcio/1993,1993,11,serie_a,18,34,0,1,0,14,14,3,1,6,11,20,WLWWWDWWWW,3,1,1,8,7,18,8,2,1,7,15,24,LLWDWLWLWW,1,0,4,6,11,LWDWW,LWWWW
+Cagliari,Napoli,1-0,/match/cagliari/napoli/1993,1993,12,serie_a,18,34,0,1,0,11,18,5,2,4,12,12,DWDWWWLWLLL,2,2,1,4,3,16,13,3,2,6,18,23,DLLDLWWWLWW,1,1,3,8,11,DDWWL,LDWWW
+Milan,Udinese,1-1,/match/milan/udinese/1993,1993,12,serie_a,18,34,1,1,1,1,28,9,2,0,31,13,WLWLLWLDLDL,3,2,0,9,4,10,18,4,1,6,15,17,WWLWWWWDWWW,0,0,5,2,12,WWWDD,WWWWW
+Sampdoria,Atalanta,2-3,/match/sampdoria/atalanta/1993,1993,12,serie_a,18,34,2,2,3,7,20,5,3,3,20,17,DLLLDWWWDWW,3,1,1,13,7,3,22,5,1,5,12,17,WWWWWDWWWWW,0,0,5,1,12,DLWWW,WWWWW
+Torino,Calcio Foggia,1-1,/match/torino-fc/us-foggia/1993,1993,12,serie_a,18,34,1,1,1,6,20,4,5,2,16,10,WDWDDDWDLLW,3,1,1,11,5,9,18,4,1,6,12,20,WLWWWDWWWWW,0,0,5,3,13,WWDWL,WWWWW
+Pescara,Lazio,2-3,/match/pescara-calcio/lazio/1993,1993,12,serie_a,18,34,2,2,3,18,8,2,1,8,15,25,LLWDWLWLWWW,1,1,3,9,13,12,17,2,6,3,21,19,DDDDWWWDLWD,0,3,2,8,11,LDLLW,DDWDW
+Roma,Parma,1-0,/match/roma/parma-fc/1993,1993,12,serie_a,18,34,0,1,0,15,15,3,3,5,15,14,LDWDWWWLWWD,3,0,2,11,7,4,22,6,0,5,14,14,WWWWWWLWWLW,1,0,4,4,11,LWWLW,WWWWL
+Ancona,Inter,3-0,/match/ancona/internazionale/1993,1993,12,serie_a,18,34,0,3,0,17,11,2,2,7,19,31,WLWDDWWWWWL,2,1,2,11,6,2,25,6,3,2,20,14,WWLDWWWLDDW,2,1,2,9,9,LDWWL,WLWLD
+Brescia,Genoa,2-2,/match/brescia/genoa/1993,1993,12,serie_a,18,34,1,2,2,14,16,3,4,4,11,15,DDWWWDLLWDW,2,2,1,6,4,13,17,2,6,3,19,24,DDDDDDWWLWW,0,3,2,5,11,DWWLD,DDDWW
+Fiorentina,Juventus,2-0,/match/fiorentina/juventus-fc/1993,1993,12,serie_a,18,34,0,2,0,8,19,4,4,3,26,21,DDWDLLWWWDW,3,1,1,17,10,5,22,5,4,2,23,13,DWDDLDWWWLL,2,2,1,8,8,DWLWW,DDLWL
+Torino,Roma,0-0,/match/torino-fc/roma/1993,1993,13,serie_a,18,34,1,0,0,7,22,4,6,2,17,11,WDWDDDWDLLWD,3,2,1,12,6,11,19,4,3,5,16,14,LDWDWWWLWWDW,0,3,3,4,7,WWDWLD,DDWWWD
+Atalanta,Brescia,1-1,/match/atalanta/brescia/1993,1993,13,serie_a,18,34,1,1,1,3,24,6,1,5,15,19,WWWWWDWWWWWL,5,1,0,11,5,15,18,3,5,4,13,17,DDWWWDLLWDWD,1,2,3,5,11,WWDWWW,DWDLWW
+Lazio,Inter,3-1,/match/lazio/internazionale/1993,1993,13,serie_a,18,34,0,3,1,10,19,3,6,3,24,21,DDDDWWWDLWDL,2,3,1,13,8,2,25,6,3,3,20,17,WWLDWWWLDDWW,2,1,3,9,12,DDWWLD,WLWLDW
+Parma,Fiorentina,1-1,/match/parma-fc/fiorentina/1993,1993,13,serie_a,18,34,1,1,1,5,22,6,0,6,14,15,WWWWWWLWWLWW,5,0,1,10,3,4,23,5,4,3,28,21,DDWDLLWWWDWW,1,3,2,9,11,WWWLWW,DDLWDW
+Calcio Foggia,Juventus,2-1,/match/us-foggia/juventus-fc/1993,1993,13,serie_a,18,34,0,2,1,13,19,4,2,6,13,21,WLWWWDWWWWWD,4,1,1,9,7,6,22,5,4,3,23,15,DWDDLDWWWLLW,2,2,2,8,10,LWDWWW,DDLWLW
+Pescara,Sampdoria,2-2,/match/pescara-calcio/sampdoria/1993,1993,13,serie_a,18,34,1,2,2,18,8,2,1,9,17,28,LLWDWLWLWWWL,1,1,4,11,16,9,20,5,3,4,22,20,DLLLDWWWDWWL,2,2,2,7,10,LDLLWL,LLDWDW
+Milan,Ancona,2-0,/match/milan/ancona/1993,1993,13,serie_a,18,34,0,2,0,1,30,9,3,0,32,14,WLWLLWLDLDLD,3,3,0,10,5,16,15,3,2,7,22,31,WLWDDWWWWWLW,0,1,5,8,25,WWWDDD,WWDWWW
+Udinese,Cagliari,2-1,/match/udinese/cagliari/1993,1993,13,serie_a,18,34,0,2,1,12,19,4,2,6,16,18,WWLWWWWDWWWD,4,1,1,13,5,8,22,6,2,4,13,12,DWDWWWLWLLLW,3,0,3,8,9,WLWWDW,WWWLLL
+Genoa,Napoli,2-1,/match/genoa/napoli/1993,1993,13,serie_a,18,34,0,2,1,14,18,2,7,3,21,26,DDDDDDWWLWWD,2,3,1,14,13,17,13,3,2,7,18,24,DLLDLWWWLWWW,1,1,4,8,12,DDDWLW,LDWWWW
+Cagliari,Torino,0-0,/match/cagliari/torino-fc/1993,1993,14,serie_a,18,34,1,0,0,10,22,6,2,5,14,14,DWDWWWLWLLLWW,3,2,1,5,3,6,24,4,7,2,17,11,WDWDDDWDLLWDD,1,4,1,5,5,DDWWLW,DDDDLW
+Juventus,Parma,2-2,/match/juventus-fc/parma-fc/1993,1993,14,serie_a,18,34,1,2,2,11,22,5,4,4,24,17,DWDDLDWWWLLWW,3,2,1,15,5,5,24,6,1,6,15,16,WWWWWWLWWLWWD,1,0,5,4,12,WDDWWL,WWWWLW
+Roma,Milan,0-1,/match/roma/milan/1993,1993,14,serie_a,18,34,2,0,1,14,20,4,4,5,16,14,LDWDWWWLWWDWD,4,0,2,12,7,1,34,10,3,0,34,14,WLWLLWLDLDLDW,6,0,0,22,9,LWWLWW,LLLLLL
+Inter,Genoa,4-0,/match/internazionale/genoa/1993,1993,14,serie_a,18,34,0,4,0,3,25,6,3,4,21,20,WWLDWWWLDDWWW,4,2,0,11,5,12,22,3,7,3,23,27,DDDDDDWWLWWDW,0,4,2,7,13,WDWWDW,DDDWWD
+Sampdoria,Calcio Foggia,3-3,/match/sampdoria/us-foggia/1993,1993,14,serie_a,18,34,1,3,3,13,21,5,4,4,24,22,DLLLDWWWDWWLD,3,1,2,15,10,7,23,5,2,6,15,22,WLWWWDWWWWWDW,0,1,5,4,14,DLWWWL,WWWWWD
+Fiorentina,Atalanta,0-1,/match/fiorentina/atalanta/1993,1993,14,serie_a,18,34,2,0,1,4,24,5,5,3,29,22,DDWDLLWWWDWWD,4,1,1,19,10,2,26,6,2,5,16,20,WWWWWDWWWWWLD,1,0,5,4,14,DWLWWW,WWWWWL
+Ancona,Lazio,0-3,/match/ancona/lazio/1993,1993,14,serie_a,18,34,2,0,3,16,15,3,2,8,22,33,WLWDDWWWWWLWW,3,1,2,14,6,9,23,4,6,3,27,22,DDDDWWWDLWDLW,1,3,2,11,13,LDWWLW,DDWDWL
+Napoli,Pescara,2-0,/match/napoli/pescara-calcio/1993,1993,14,serie_a,18,34,0,2,0,17,13,3,2,8,19,26,DLLDLWWWLWWWW,2,1,3,10,12,18,10,2,2,9,19,30,LLWDWLWLWWWLD,1,0,5,6,12,DLLWLW,LWWWWW
+Brescia,Udinese,2-1,/match/brescia/udinese/1993,1993,14,serie_a,18,34,0,2,1,15,19,3,6,4,14,18,DDWWWDLLWDWDD,2,3,1,8,6,8,23,5,2,6,18,19,WWLWWWWDWWWDW,0,1,5,3,13,DWWLDD,WWWWWD
+Lazio,Brescia,2-0,/match/lazio/brescia/1993,1993,15,serie_a,18,34,0,2,0,4,25,5,6,3,30,22,DDDDWWWDLWDLWL,3,3,1,16,9,13,23,4,6,4,16,19,DDWWWDLLWDWDDW,1,3,3,6,12,DDWWLDW,DWDLWWD
+Milan,Cagliari,1-0,/match/milan/cagliari/1993,1993,15,serie_a,18,34,0,1,0,1,36,11,3,0,35,14,WLWLLWLDLDLDWL,4,3,0,12,5,8,24,6,3,5,14,14,DWDWWWLWLLLWWD,3,0,4,9,11,WWWDDDW,WWWLLLW
+Parma,Genoa,1-0,/match/parma-fc/genoa/1993,1993,15,serie_a,18,34,0,1,0,5,25,6,2,6,17,18,WWWWWWLWWLWWDD,5,1,1,11,4,14,22,3,7,4,23,31,DDDDDDWWLWWDWW,0,4,3,7,17,WWWLWWD,DDDWWDW
+Atalanta,Roma,3-1,/match/atalanta/roma/1993,1993,15,serie_a,18,34,0,3,1,3,28,7,2,5,17,20,WWWWWDWWWWWLDL,5,2,0,12,6,15,20,4,4,6,16,15,LDWDWWWLWWDWDL,0,4,3,4,7,WWDWWWD,DDWWWDD
+Sampdoria,Juventus,1-1,/match/sampdoria/juventus-fc/1993,1993,15,serie_a,18,34,1,1,1,12,23,5,5,4,27,25,DLLLDWWWDWWLDD,3,2,2,18,13,7,24,5,5,4,26,19,DWDDLDWWWLLWWD,2,2,3,9,12,DLWWWLD,DDLWLWW
+Pescara,Ancona,4-3,/match/pescara-calcio/ancona/1993,1993,15,serie_a,18,34,0,4,3,18,10,2,2,10,19,32,LLWDWLWLWWWLDW,1,2,4,13,18,17,15,3,2,9,22,36,WLWDDWWWWWLWWL,0,1,6,8,27,LDLLWLD,WWDWWWW
+Udinese,Fiorentina,4-0,/match/udinese/fiorentina/1993,1993,15,serie_a,18,34,0,4,0,11,23,5,2,7,19,21,WWLWWWWDWWWDWW,5,1,1,15,6,10,24,5,5,4,29,23,DDWDLLWWWDWWDL,1,4,2,10,12,WLWWDWW,DDLWDWD
+Calcio Foggia,Inter,1-3,/match/us-foggia/internazionale/1993,1993,15,serie_a,18,34,2,1,3,9,24,5,3,6,18,25,WLWWWDWWWWWDWD,5,1,1,11,8,2,29,7,3,4,25,20,WWLDWWWLDDWWWW,2,1,4,10,15,LWDWWWW,WLWLDWW
+Torino,Napoli,0-1,/match/torino-fc/napoli/1993,1993,15,serie_a,18,34,2,0,1,6,25,4,8,2,17,11,WDWDDDWDLLWDDD,3,3,1,12,6,16,17,4,2,8,21,26,DLLDLWWWLWWWWW,1,1,5,9,14,WWDWLDD,LDWWWWW
+Roma,Sampdoria,0-0,/match/roma/sampdoria/1993,1993,16,serie_a,18,34,1,0,0,15,20,4,4,7,17,18,LDWDWWWLWWDWDLW,4,0,3,12,8,9,25,5,6,4,28,26,DLLLDWWWDWWLDDD,2,3,2,9,12,LWWLWWL,LLDWDWD
+Inter,Parma,2-1,/match/internazionale/parma-fc/1993,1993,16,serie_a,18,34,0,2,1,3,31,8,3,4,28,21,WWLDWWWLDDWWWWL,5,2,0,15,5,5,29,7,2,6,18,18,WWWWWWLWWLWWDDW,1,1,5,6,14,WDWWDWW,WWWWLWD
+Cagliari,Calcio Foggia,1-1,/match/cagliari/us-foggia/1993,1993,16,serie_a,18,34,1,1,1,12,24,6,3,6,14,15,DWDWWWLWLLLWWDW,3,3,1,5,3,11,24,5,3,7,19,28,WLWWWDWWWWWDWDL,0,2,5,7,17,DDWWLWD,WWWWWDD
+Napoli,Lazio,3-1,/match/napoli/lazio/1993,1993,16,serie_a,18,34,0,3,1,16,19,5,2,8,22,26,DLLDLWWWLWWWWWL,3,1,3,12,12,4,29,6,6,3,32,22,DDDDWWWDLWDLWLW,2,3,2,14,13,DLLWLWW,DDWDWLL
+Genoa,Atalanta,1-0,/match/genoa/atalanta/1993,1993,16,serie_a,18,34,0,1,0,14,22,3,7,5,23,32,DDDDDDWWLWWDWWW,3,3,1,16,14,2,32,8,2,5,20,21,WWWWWDWWWWWLDLW,2,0,5,5,14,DDDWLWW,WWWWWLL
+Juventus,Pescara,2-1,/match/juventus-fc/pescara-calcio/1993,1993,16,serie_a,18,34,0,2,1,8,25,5,6,4,27,20,DWDDLDWWWLLWWDD,3,3,1,17,7,18,14,3,2,10,23,35,LLWDWLWLWWWLDWW,1,0,6,6,14,WDDWWLD,LWWWWWW
+Ancona,Udinese,1-0,/match/ancona/udinese/1993,1993,16,serie_a,18,34,0,1,0,17,15,3,2,10,25,40,WLWDDWWWWWLWWLW,3,1,3,14,9,6,27,6,2,7,23,21,WWLWWWWDWWWDWWW,0,1,6,4,15,LDWWLWL,WWWWWDW
+Brescia,Milan,0-1,/match/brescia/milan/1993,1993,16,serie_a,18,34,2,0,1,13,23,4,6,5,16,21,DDWWWDLLWDWDDWW,3,3,1,10,7,1,40,12,3,0,36,14,WLWLLWLDLDLDWLW,7,0,0,23,9,DWWLDDW,LLLLLLL
+Fiorentina,Torino,0-0,/match/fiorentina/torino-fc/1993,1993,16,serie_a,18,34,1,0,0,10,24,5,5,5,29,27,DDWDLLWWWDWWDLW,4,1,2,19,11,7,25,4,8,3,17,12,WDWDDDWDLLWDDDL,1,5,1,5,5,DWLWWWL,DDDDLWD
+Lazio,Juventus,1-1,/match/lazio/juventus-fc/1993,1993,17,serie_a,18,34,1,1,1,4,29,6,6,4,33,25,DDDDWWWDLWDLWLWW,4,3,1,18,9,6,29,6,6,4,29,21,DWDDLDWWWLLWWDDW,2,3,3,10,13,DDWWLDWW,DDLWLWWD
+Milan,Genoa,1-0,/match/milan/genoa/1993,1993,17,serie_a,18,34,0,1,0,1,42,13,3,0,37,14,WLWLLWLDLDLDWLWL,5,3,0,13,5,8,26,4,7,5,24,32,DDDDDDWWLWWDWWWW,0,4,4,7,18,WWWDDDWW,DDDWWDWW
+Parma,Napoli,1-1,/match/parma-fc/napoli/1993,1993,17,serie_a,18,34,1,1,1,5,29,7,2,7,19,20,WWWWWWLWWLWWDDWW,6,1,1,12,4,15,23,6,2,8,25,27,DLLDLWWWLWWWWWLW,2,1,5,10,14,WWWLWWDW,LDWWWWWL
+Sampdoria,Brescia,1-0,/match/sampdoria/brescia/1993,1993,17,serie_a,18,34,0,1,0,11,26,5,7,4,28,26,DLLLDWWWDWWLDDDD,3,3,2,19,14,14,23,4,6,6,16,22,DDWWWDLLWDWDDWWL,1,3,4,6,14,DLWWWLDD,DWDLWWDW
+Atalanta,Ancona,2-1,/match/atalanta/ancona/1993,1993,17,serie_a,18,34,0,2,1,3,32,8,2,6,20,22,WWWWWDWWWWWLDLWW,6,2,0,15,7,17,19,4,2,10,26,40,WLWDDWWWWWLWWLWW,0,1,7,11,31,WWDWWWDW,WWDWWWWW
+Torino,Inter,1-2,/match/torino-fc/internazionale/1993,1993,17,serie_a,18,34,2,1,2,12,26,4,9,3,17,12,WDWDDDWDLLWDDDLD,3,3,2,12,7,2,35,9,3,4,30,22,WWLDWWWLDDWWWWLW,3,1,4,13,16,WWDWLDDL,WLWLDWWL
+Pescara,Cagliari,0-1,/match/pescara-calcio/cagliari/1993,1993,17,serie_a,18,34,2,0,1,18,14,3,2,11,24,37,LLWDWLWLWWWLDWWW,2,2,4,17,21,9,26,6,4,6,15,16,DWDWWWLWLLLWWDWD,3,0,5,9,12,LDLLWLDW,WWWLLLWW
+Udinese,Roma,1-2,/match/udinese/roma/1993,1993,17,serie_a,18,34,2,1,2,7,27,6,2,8,23,22,WWLWWWWDWWWDWWWW,6,1,1,19,6,16,22,4,5,7,17,18,LDWDWWWLWWDWDLWD,0,4,4,5,10,WLWWDWWW,DDWWWDDW
+Calcio Foggia,Fiorentina,1-0,/match/us-foggia/fiorentina/1993,1993,17,serie_a,18,34,0,1,0,13,25,5,4,7,20,29,WLWWWDWWWWWDWDLD,5,1,2,12,11,10,26,5,6,5,29,27,DDWDLLWWWDWWDLWD,1,4,3,10,16,LWDWWWWL,DDLWDWDW
+Lazio,Sampdoria,2-1,/match/lazio/sampdoria/1993,1993,18,serie_a,18,34,0,2,1,4,31,6,7,4,34,26,DDDDWWWDLWDLWLWWD,4,4,1,19,10,7,30,6,7,4,29,26,DLLLDWWWDWWLDDDDW,2,4,2,9,12,DDWWLDWWD,LLDWDWDD
+Parma,Atalanta,0-0,/match/parma-fc/atalanta/1993,1993,18,serie_a,18,34,1,0,0,5,31,7,3,7,20,21,WWWWWWLWWLWWDDWWD,6,2,1,13,5,3,36,9,2,6,22,23,WWWWWDWWWWWLDLWWW,2,0,6,5,15,WWWLWWDWD,WWWWWLLW
+Juventus,Cagliari,2-1,/match/juventus-fc/cagliari/1993,1993,18,serie_a,18,34,0,2,1,6,30,6,7,4,30,22,DWDDLDWWWLLWWDDWD,4,3,1,19,8,9,28,7,4,6,16,16,DWDWWWLWLLLWWDWDL,4,0,5,10,12,WDDWWLDW,WWWLLLWWL
+Inter,Udinese,2-2,/match/internazionale/udinese/1993,1993,18,serie_a,18,34,1,2,2,2,37,10,3,4,32,23,WWLDWWWLDDWWWWLWL,6,2,0,17,6,10,27,6,2,9,24,24,WWLWWWWDWWWDWWWWL,0,1,7,4,16,WDWWDWWW,WWWWWDWW
+Calcio Foggia,Milan,2-2,/match/us-foggia/milan/1993,1993,18,serie_a,18,34,1,2,2,8,29,6,4,7,21,29,WLWWWDWWWWWDWDLDW,6,1,2,13,11,1,46,14,3,0,38,14,WLWLLWLDLDLDWLWLW,8,0,0,24,9,LWDWWWWLW,LLLLLLLL
+Genoa,Fiorentina,2-2,/match/genoa/fiorentina/1993,1993,18,serie_a,18,34,1,2,2,13,26,4,7,6,24,33,DDDDDDWWLWWDWWWWW,4,3,1,17,14,12,26,5,6,6,29,28,DDWDLLWWWDWWDLWDW,1,4,4,10,17,DDDWLWWW,DDLWDWDWW
+Ancona,Torino,0-1,/match/ancona/torino-fc/1993,1993,18,serie_a,18,34,2,0,1,17,19,4,2,11,27,42,WLWDDWWWWWLWWLWWW,4,1,3,15,9,11,26,4,9,4,18,14,WDWDDDWDLLWDDDLDL,1,6,1,5,5,LDWWLWLW,DDDDLWDD
+Pescara,Roma,1-1,/match/pescara-calcio/roma/1993,1993,18,serie_a,18,34,1,1,1,18,14,3,2,12,24,38,LLWDWLWLWWWLDWWWL,2,2,5,17,22,15,24,5,5,7,19,19,LDWDWWWLWWDWDLWDL,1,4,4,7,11,LDLLWLDWL,DDWWWDDWL
+Brescia,Napoli,2-1,/match/brescia/napoli/1993,1993,18,serie_a,18,34,0,2,1,16,23,4,6,7,16,23,DDWWWDLLWDWDDWWLW,3,3,2,10,8,14,24,6,3,8,26,28,DLLDLWWWLWWWWWLWD,2,2,5,11,15,DWWLDDWL,LDWWWWWLD
+Roma,Genoa,3-0,/match/roma/genoa/1993,1993,19,serie_a,18,34,0,3,0,15,25,5,6,7,20,20,LDWDWWWLWWDWDLWDLD,4,1,3,12,8,10,28,4,8,6,26,35,DDDDDDWWLWWDWWWWWD,0,4,5,7,19,LWWLWWLD,DDDWWDWWW
+Atalanta,Juventus,2-1,/match/atalanta/juventus-fc/1993,1993,19,serie_a,18,34,0,2,1,3,37,9,3,6,22,23,WWWWWDWWWWWLDLWWWD,7,2,0,17,8,5,34,7,7,4,32,23,DWDDLDWWWLLWWDDWDW,2,4,3,11,14,WWDWWWDWW,DDLWLWWDD
+Torino,Brescia,1-0,/match/torino-fc/brescia/1993,1993,19,serie_a,18,34,0,1,0,9,28,5,9,4,19,14,WDWDDDWDLLWDDDLDLL,3,3,3,13,9,14,27,5,6,7,18,24,DDWWWDLLWDWDDWWLWW,1,3,5,6,15,WWDWLDDLL,DWDLWWDWW
+Cagliari,Inter,0-0,/match/cagliari/internazionale/1993,1993,19,serie_a,18,34,1,0,0,12,28,7,4,7,17,18,DWDWWWLWLLLWWDWDLW,3,4,1,6,4,2,39,10,4,4,34,25,WWLDWWWLDDWWWWLWLD,4,1,4,15,17,DDWWLWDD,WLWLDWWLL
+Napoli,Calcio Foggia,2-0,/match/napoli/us-foggia/1993,1993,19,serie_a,18,34,0,2,0,16,24,6,3,9,27,30,DLLDLWWWLWWWWWLWDW,4,1,3,15,13,7,31,6,5,7,23,31,WLWWWDWWWWWDWDLDWD,0,3,5,8,18,DLLWLWWW,WWWWWDDD
+Fiorentina,Lazio,0-2,/match/fiorentina/lazio/1993,1993,19,serie_a,18,34,2,0,2,13,27,5,7,6,31,30,DDWDLLWWWDWWDLWDWD,4,2,2,19,11,4,35,7,7,4,36,27,DDDDWWWDLWDLWLWWDW,2,3,3,15,16,DWLWWWLD,DDWDWLLW
+Sampdoria,Ancona,3-1,/match/sampdoria/ancona/1993,1993,19,serie_a,18,34,0,3,1,8,30,6,7,5,30,28,DLLLDWWWDWWLDDDDWW,4,3,2,20,14,17,19,4,2,12,27,43,WLWDDWWWWWLWWLWWWL,0,1,8,12,33,DLWWWLDDW,WWDWWWWWW
+Milan,Pescara,4-0,/match/milan/pescara-calcio/1993,1993,19,serie_a,18,34,0,4,0,1,47,14,4,0,40,16,WLWLLWLDLDLDWLWLWD,6,3,0,14,5,18,16,3,3,12,25,39,LLWDWLWLWWWLDWWWLD,1,0,7,7,16,WWWDDDWWW,LWWWWWWW
+Udinese,Parma,1-0,/match/udinese/parma-fc/1993,1993,19,serie_a,18,34,0,1,0,11,28,6,3,9,26,26,WWLWWWWDWWWDWWWWLD,6,1,2,20,8,6,33,7,4,7,20,21,WWWWWWLWWLWWDDWWDD,1,1,6,7,16,WLWWDWWWL,WWWWLWDW
+Lazio,Cagliari,1-2,/match/lazio/cagliari/1993,1993,20,serie_a,18,34,2,1,2,4,37,8,7,4,38,27,DDDDWWWDLWDLWLWWDWL,5,4,1,21,11,11,30,7,5,7,17,18,DWDWWWLWLLLWWDWDLWD,4,0,6,11,14,DDWWLDWWDW,WWWLLLWWLW
+Parma,Torino,2-2,/match/parma-fc/torino-fc/1993,1993,20,serie_a,18,34,1,2,2,7,33,7,4,8,20,22,WWWWWWLWWLWWDDWWDDW,6,3,1,13,5,8,32,6,9,4,20,14,WDWDDDWDLLWDDDLDLLW,2,6,1,6,5,WWWLWWDWDD,DDDDLWDDL
+Juventus,Genoa,1-0,/match/juventus-fc/genoa/1993,1993,20,serie_a,18,34,0,1,0,5,34,7,7,5,33,25,DWDDLDWWWLLWWDDWDWW,5,3,1,21,9,14,28,4,8,7,26,38,DDDDDDWWLWWDWWWWWDW,0,4,6,7,22,WDDWWLDWW,DDDWWDWWWW
+Inter,Napoli,0-0,/match/internazionale/napoli/1993,1993,20,serie_a,18,34,1,0,0,3,40,10,5,4,34,25,WWLDWWWLDDWWWWLWLDD,6,3,0,19,8,13,28,7,3,9,29,30,DLLDLWWWLWWWWWLWDWW,2,2,6,12,17,WDWWDWWWD,LDWWWWWLDW
+Sampdoria,Udinese,2-0,/match/sampdoria/udinese/1993,1993,20,serie_a,18,34,0,2,0,6,34,7,7,5,33,29,DLLLDWWWDWWLDDDDWWW,5,3,2,23,15,9,32,7,3,9,27,26,WWLWWWWDWWWDWWWWLDW,0,2,7,6,18,DLWWWLDDWW,WWWWWDWWD
+Atalanta,Milan,1-1,/match/atalanta/milan/1993,1993,20,serie_a,18,34,1,1,1,2,41,10,3,6,24,24,WWWWWDWWWWWLDLWWWDW,8,2,0,19,9,1,51,15,4,0,44,16,WLWLLWLDLDLDWLWLWDW,8,1,0,26,11,WWDWWWDWWW,LLLLLLLLD
+Ancona,Fiorentina,2-1,/match/ancona/fiorentina/1993,1993,20,serie_a,18,34,0,2,1,17,19,4,2,13,28,46,WLWDDWWWWWLWWLWWWLW,4,1,4,15,10,16,27,5,7,7,31,32,DDWDLLWWWDWWDLWDWDL,1,5,4,12,19,LDWWLWLWL,DDLWDWDWWD
+Pescara,Brescia,2-0,/match/pescara-calcio/brescia/1993,1993,20,serie_a,18,34,0,2,0,18,16,3,3,13,25,43,LLWDWLWLWWWLDWWWLDW,2,3,5,18,23,15,27,5,6,8,18,25,DDWWWDLLWDWDDWWLWWW,1,3,6,6,16,LDLLWLDWLD,DWDLWWDWWW
+Calcio Foggia,Roma,0-0,/match/us-foggia/roma/1993,1993,20,serie_a,18,34,1,0,0,10,31,6,5,8,23,33,WLWWWDWWWWWDWDLDWDW,6,2,2,15,13,12,29,6,6,7,23,20,LDWDWWWLWWDWDLWDLDW,1,5,4,8,12,LWDWWWWLWD,DDWWWDDWLD
+Genoa,Lazio,2-3,/match/genoa/lazio/1993,1993,21,serie_a,18,34,2,2,3,14,28,4,8,8,26,39,DDDDDDWWLWWDWWWWWDWW,4,4,1,19,16,6,37,8,7,5,39,29,DDDDWWWDLWDLWLWWDWLL,3,3,3,17,16,DDDWLWWWD,DDWDWLLWL
+Cagliari,Atalanta,2-1,/match/cagliari/atalanta/1993,1993,21,serie_a,18,34,0,2,1,11,32,8,5,7,19,19,DWDWWWLWLLLWWDWDLWDL,3,5,1,6,4,2,43,10,4,6,25,25,WWWWWDWWWWWLDLWWWDWD,2,1,6,5,15,DDWWLWDDD,WWWWWLLWD
+Milan,Sampdoria,4-0,/match/milan/sampdoria/1993,1993,21,serie_a,18,34,0,4,0,1,52,15,5,0,45,17,WLWLLWLDLDLDWLWLWDWD,7,3,0,18,5,5,38,8,7,5,35,29,DLLLDWWWDWWLDDDDWWWW,2,4,3,10,14,WWWDDDWWWW,LLDWDWDDW
+Roma,Juventus,2-1,/match/roma/juventus-fc/1993,1993,21,serie_a,18,34,0,2,1,12,30,6,7,7,23,20,LDWDWWWLWWDWDLWDLDWD,5,1,3,15,8,4,38,8,7,5,34,25,DWDDLDWWWLLWWDDWDWWW,2,4,4,12,16,LWWLWWLDW,DDLWLWWDDW
+Torino,Pescara,3-1,/match/torino-fc/pescara-calcio/1993,1993,21,serie_a,18,34,0,3,1,9,33,6,10,4,22,16,WDWDDDWDLLWDDDLDLLWD,4,3,3,14,9,18,20,4,3,13,27,43,LLWDWLWLWWWLDWWWLDWW,1,0,8,7,20,WWDWLDDLLW,LWWWWWWWW
+Fiorentina,Inter,2-2,/match/fiorentina/internazionale/1993,1993,21,serie_a,18,34,1,2,2,16,27,5,7,8,32,34,DDWDLLWWWDWWDLWDWDLW,4,2,3,19,13,3,42,10,6,4,34,25,WWLDWWWLDDWWWWLWLDDD,4,2,4,15,17,DWLWWWLDL,WLWLDWWLLD
+Napoli,Ancona,0-0,/match/napoli/ancona/1993,1993,21,serie_a,18,34,1,0,0,13,29,7,4,9,29,30,DLLDLWWWLWWWWWLWDWWD,5,1,3,17,13,17,23,5,2,13,30,47,WLWDDWWWWWLWWLWWWLWW,0,1,9,13,36,DLLWLWWWW,WWDWWWWWWW
+Brescia,Parma,0-1,/match/brescia/parma-fc/1993,1993,21,serie_a,18,34,2,0,1,15,27,5,6,9,18,27,DDWWWDLLWDWDDWWLWWWW,4,3,2,12,9,7,35,7,5,8,22,24,WWWWWWLWWLWWDDWWDDWD,1,1,7,7,17,DWWLDDWLW,WWWWLWDWW
+Udinese,Calcio Foggia,3-2,/match/udinese/us-foggia/1993,1993,21,serie_a,18,34,0,3,2,10,32,7,3,10,27,28,WWLWWWWDWWWDWWWWLDWW,7,1,2,21,8,8,33,6,6,8,23,33,WLWWWDWWWWWDWDLDWDWD,0,3,6,8,20,WLWWDWWWLW,WWWWWDDDW
+Calcio Foggia,Brescia,0-0,/match/us-foggia/brescia/1993,1993,22,serie_a,18,34,1,0,0,12,33,6,6,9,25,36,WLWWWDWWWWWDWDLDWDWDW,6,3,2,15,13,16,27,5,6,10,18,28,DDWWWDLLWDWDDWWLWWWWL,1,3,7,6,18,LWDWWWWLWDD,DWDLWWDWWWW
+Pescara,Udinese,2-2,/match/pescara-calcio/udinese/1993,1993,22,serie_a,18,34,1,2,2,18,20,4,3,14,28,46,LLWDWLWLWWWLDWWWLDWWW,3,3,5,20,23,10,36,8,3,10,30,30,WWLWWWWDWWWDWWWWLDWWW,0,2,8,6,20,LDLLWLDWLDW,WWWWWDWWDW
+Ancona,Genoa,0-0,/match/ancona/genoa/1993,1993,22,serie_a,18,34,1,0,0,17,24,5,3,13,30,47,WLWDDWWWWWLWWLWWWLWWD,5,1,4,17,11,15,28,4,8,9,28,42,DDDDDDWWLWWDWWWWWDWWL,0,4,7,7,23,LDWWLWLWLW,DDDWWDWWWWW
+Roma,Cagliari,1-1,/match/roma/cagliari/1993,1993,22,serie_a,18,34,1,1,1,11,34,7,7,7,25,21,LDWDWWWLWWDWDLWDLDWDW,6,1,3,17,9,9,36,9,5,7,21,20,DWDWWWLWLLLWWDWDLWDLW,5,0,6,13,15,LWWLWWLDWW,WWWLLLWWLWL
+Atalanta,Inter,1-1,/match/atalanta/internazionale/1993,1993,22,serie_a,18,34,1,1,1,2,43,10,4,7,26,27,WWWWWDWWWWWLDLWWWDWDW,8,3,0,20,10,3,43,10,7,4,36,27,WWLDWWWLDDWWWWLWLDDDD,4,3,4,17,19,WWDWWWDWWWD,WLWLDWWLLDD
+Milan,Fiorentina,2-0,/match/milan/fiorentina/1993,1993,22,serie_a,18,34,0,2,0,1,56,16,5,0,49,17,WLWLLWLDLDLDWLWLWDWDW,8,3,0,22,5,14,29,5,8,8,34,36,DDWDLLWWWDWWDLWDWDLWD,1,5,5,13,21,WWWDDDWWWWW,DDLWDWDWWDW
+Juventus,Napoli,4-3,/match/juventus-fc/napoli/1993,1993,22,serie_a,18,34,0,4,3,5,38,8,7,6,35,27,DWDDLDWWWLLWWDDWDWWWW,6,3,1,22,9,13,31,7,5,9,29,30,DLLDLWWWLWWWWWLWDWWDD,2,3,6,12,17,WDDWWLDWWW,LDWWWWWLDWD
+Parma,Lazio,2-1,/match/parma-fc/lazio/1993,1993,22,serie_a,18,34,0,2,1,7,37,8,5,8,23,24,WWWWWWLWWLWWDDWWDDWDL,6,4,1,15,7,4,39,9,7,5,42,31,DDDDWWWDLWDLWLWWDWLLL,4,3,3,20,18,WWWLWWDWDDD,DDWDWLLWLL
+Sampdoria,Torino,0-1,/match/sampdoria/torino-fc/1993,1993,22,serie_a,18,34,2,0,1,6,38,8,7,6,35,33,DLLLDWWWDWWLDDDDWWWWW,6,3,2,25,15,8,37,7,10,4,25,17,WDWDDDWDLLWDDDLDLLWDW,2,7,1,8,7,DLWWWLDDWWW,DDDDLWDDLD
+Genoa,Calcio Foggia,0-0,/match/genoa/us-foggia/1993,1993,23,serie_a,18,34,1,0,0,15,29,4,9,9,28,42,DDDDDDWWLWWDWWWWWDWWLD,4,4,2,21,19,12,35,6,7,9,25,36,WLWWWDWWWWWDWDLDWDWDWD,0,3,7,10,23,DDDWLWWWDL,WWWWWDDDWW
+Brescia,Juventus,2-0,/match/brescia/juventus-fc/1993,1993,23,serie_a,18,34,0,2,0,16,28,5,7,10,18,28,DDWWWDLLWDWDDWWLWWWWLD,4,3,3,12,10,4,42,9,7,6,39,30,DWDDLDWWWLLWWDDWDWWWWW,2,4,5,13,18,DWWLDDWLWL,DDLWLWWDDWW
+Ancona,Parma,1-1,/match/ancona/parma-fc/1993,1993,23,serie_a,18,34,1,1,1,17,26,5,4,13,30,47,WLWDDWWWWWLWWLWWWLWWDD,5,2,4,17,11,5,41,9,5,8,25,25,WWWWWWLWWLWWDDWWDDWDLW,2,1,7,8,17,LDWWLWLWLWD,WWWWLWDWWL
+Napoli,Udinese,3-0,/match/napoli/udinese/1993,1993,23,serie_a,18,34,0,3,0,13,31,7,5,10,32,34,DLLDLWWWLWWWWWLWDWWDDW,5,2,3,17,13,9,37,8,4,10,32,32,WWLWWWWDWWWDWWWWLDWWWD,0,3,8,8,22,DLLWLWWWWD,WWWWWDWWDWD
+Fiorentina,Pescara,2-0,/match/fiorentina/pescara-calcio/1993,1993,23,serie_a,18,34,0,2,0,14,29,5,8,9,34,38,DDWDLLWWWDWWDLWDWDLWDW,4,3,3,21,15,18,22,4,4,14,30,48,LLWDWLWLWWWLDWWWLDWWWD,1,0,9,8,23,DWLWWWLDLD,LWWWWWWWWW
+Torino,Atalanta,1-1,/match/torino-fc/atalanta/1993,1993,23,serie_a,18,34,1,1,1,7,39,8,10,4,26,17,WDWDDDWDLLWDDDLDLLWDWL,5,3,3,17,10,2,45,10,5,7,27,28,WWWWWDWWWWWLDLWWWDWDWD,2,1,7,6,17,WWDWLDDLLWW,WWWWWLLWDW
+Lazio,Milan,2-2,/match/lazio/milan/1993,1993,23,serie_a,18,34,1,2,2,6,39,9,7,6,43,33,DDDDWWWDLWDLWLWWDWLLLW,5,4,2,22,13,1,60,17,5,0,51,17,WLWLLWLDLDLDWLWLWDWDWW,8,2,0,27,12,DDWWLDWWDWL,LLLLLLLLDD
+Inter,Roma,1-1,/match/internazionale/roma/1993,1993,23,serie_a,18,34,1,1,1,3,44,10,8,4,37,28,WWLDWWWLDDWWWWLWLDDDDD,6,4,0,19,8,11,36,7,8,7,26,22,LDWDWWWLWWDWDLWDLDWDWD,1,6,4,8,12,WDWWDWWWDD,DDWWWDDWLDD
+Cagliari,Sampdoria,0-2,/match/cagliari/sampdoria/1993,1993,23,serie_a,18,34,2,0,2,10,37,9,6,7,22,21,DWDWWWLWLLLWWDWDLWDLWD,4,5,1,8,5,8,38,8,7,7,35,34,DLLLDWWWDWWLDDDDWWWWWL,2,4,4,10,18,DDWWLWDDDW,LLDWDWDDWW
+Sampdoria,Fiorentina,2-0,/match/sampdoria/fiorentina/1993,1993,24,serie_a,18,34,0,2,0,8,40,9,7,7,37,34,DLLLDWWWDWWLDDDDWWWWWLL,6,3,3,25,16,14,33,6,8,9,36,38,DDWDLLWWWDWWDLWDWDLWDWW,1,5,6,13,23,DLWWWLDDWWWL,DDLWDWDWWDWW
+Milan,Parma,0-1,/match/milan/parma-fc/1993,1993,24,serie_a,18,34,2,0,1,1,61,17,6,0,53,19,WLWLLWLDLDLDWLWLWDWDWWD,9,3,0,24,5,5,42,9,6,8,26,26,WWWWWWLWWLWWDDWWDDWDLWD,2,2,7,9,18,WWWDDDWWWWWW,WWWWLWDWWLD
+Juventus,Inter,0-2,/match/juventus-fc/internazionale/1993,1993,24,serie_a,18,34,2,0,2,4,42,9,7,7,39,32,DWDDLDWWWLLWWDDWDWWWWWW,7,3,1,26,12,3,46,10,9,4,38,29,WWLDWWWLDDWWWWLWLDDDDDD,4,4,4,18,20,WDDWWLDWWWW,WLWLDWWLLDDD
+Roma,Napoli,1-1,/match/roma/napoli/1993,1993,24,serie_a,18,34,1,1,1,9,37,7,9,7,27,23,LDWDWWWLWWDWDLWDLDWDWDD,6,2,3,18,10,13,35,8,5,10,35,34,DLLDLWWWLWWWWWLWDWWDDWW,2,3,7,15,21,LWWLWWLDWWD,LDWWWWWLDWDW
+Udinese,Torino,1-0,/match/udinese/torino-fc/1993,1993,24,serie_a,18,34,0,1,0,11,37,8,4,11,32,35,WWLWWWWDWWWDWWWWLDWWWDW,8,1,2,24,10,7,41,8,11,4,27,18,WDWDDDWDLLWDDDLDLLWDWLD,3,7,1,9,7,WLWWDWWWLWW,DDDDLWDDLDL
+Pescara,Genoa,1-2,/match/pescara-calcio/genoa/1993,1993,24,serie_a,18,34,2,1,2,18,22,4,4,15,30,50,LLWDWLWLWWWLDWWWLDWWWDW,3,4,5,22,25,16,31,4,10,9,28,42,DDDDDDWWLWWDWWWWWDWWLDD,0,5,7,7,23,LDLLWLDWLDWD,DDDWWDWWWWWD
+Atalanta,Lazio,2-2,/match/atalanta/lazio/1993,1993,24,serie_a,18,34,1,2,2,2,46,10,6,7,28,29,WWWWWDWWWWWLDLWWWDWDWDD,8,4,0,21,11,6,41,9,8,6,45,35,DDDDWWWDLWDLWLWWDWLLLWD,4,3,4,21,20,WWDWWWDWWWDD,DDWDWLLWLLW
+Calcio Foggia,Ancona,1-0,/match/us-foggia/ancona/1993,1993,24,serie_a,18,34,0,1,0,12,36,6,8,9,25,36,WLWWWDWWWWWDWDLDWDWDWDD,6,4,2,15,13,17,28,5,5,13,31,48,WLWDDWWWWWLWWLWWWLWWDDD,0,2,9,13,36,LWDWWWWLWDDD,WWDWWWWWWWD
+Cagliari,Brescia,3-1,/match/cagliari/brescia/1993,1993,24,serie_a,18,34,0,3,1,10,37,9,6,8,22,23,DWDWWWLWLLLWWDWDLWDLWDL,4,5,2,8,7,15,32,6,7,10,20,28,DDWWWDLLWDWDDWWLWWWWLDW,1,4,7,6,18,DDWWLWDDDWL,DWDLWWDWWWWD
+Genoa,Sampdoria,0-0,/match/genoa/sampdoria/1993,1993,25,serie_a,18,34,1,0,0,15,33,5,10,9,30,43,DDDDDDWWLWWDWWWWWDWWLDDL,4,5,2,21,19,5,44,10,7,7,39,34,DLLLDWWWDWWLDDDDWWWWWLLW,3,4,4,12,18,DDDWLWWWDLD,LLDWDWDDWWL
+Torino,Milan,1-1,/match/torino-fc/milan/1993,1993,25,serie_a,18,34,1,1,1,10,41,8,11,5,27,19,WDWDDDWDLLWDDDLDLLWDWLDW,5,4,3,18,11,1,61,17,6,1,53,20,WLWLLWLDLDLDWLWLWDWDWWDL,8,3,0,29,14,WWDWLDDLLWWD,LLLLLLLLDDD
+Parma,Calcio Foggia,4-0,/match/parma-fc/us-foggia/1993,1993,25,serie_a,18,34,0,4,0,4,44,10,6,8,27,26,WWWWWWLWWLWWDDWWDDWDLWDL,7,4,1,17,8,11,40,7,8,9,26,36,WLWWWDWWWWWDWDLDWDWDWDDW,0,4,7,10,23,WWWLWWDWDDDW,WWWWWDDDWWD
+Lazio,Udinese,4-0,/match/lazio/udinese/1993,1993,25,serie_a,18,34,0,4,0,7,42,9,9,6,47,37,DDDDWWWDLWDLWLWWDWLLLWDD,5,5,2,24,15,8,41,9,4,11,33,35,WWLWWWWDWWWDWWWWLDWWWDWW,0,3,9,8,25,DDWWLDWWDWLD,WWWWWDWWDWDW
+Ancona,Juventus,0-1,/match/ancona/juventus-fc/1993,1993,25,serie_a,18,34,2,0,1,17,28,5,5,14,31,49,WLWDDWWWWWLWWLWWWLWWDDDW,5,3,4,18,12,6,42,9,7,8,39,34,DWDDLDWWWLLWWDDWDWWWWWWL,2,4,6,13,20,LDWWLWLWLWDD,DDLWLWWDDWWW
+Fiorentina,Cagliari,2-1,/match/fiorentina/cagliari/1993,1993,25,serie_a,18,34,0,2,1,14,33,6,8,10,36,40,DDWDLLWWWDWWDLWDWDLWDWWW,5,3,3,23,15,9,41,10,6,8,25,24,DWDWWWLWLLLWWDWDLWDLWDLW,5,1,6,14,16,DWLWWWLDLDW,WWWLLLWWLWLD
+Inter,Pescara,2-0,/match/internazionale/pescara-calcio/1993,1993,25,serie_a,18,34,0,2,0,3,48,11,9,4,40,29,WWLDWWWLDDWWWWLWLDDDDDDL,6,5,0,20,9,18,22,4,4,16,31,52,LLWDWLWLWWWLDWWWLDWWWDWL,1,0,10,8,25,WDWWDWWWDDD,LWWWWWWWWWW
+Brescia,Roma,0-2,/match/brescia/roma/1993,1993,25,serie_a,18,34,2,0,2,16,32,6,7,11,21,31,DDWWWDLLWDWDDWWLWWWWLDWW,5,3,3,14,10,12,39,7,10,7,28,24,LDWDWWWLWWDWDLWDLDWDWDDD,1,7,4,9,13,DWWLDDWLWLW,DDWWWDDWLDDD
+Napoli,Atalanta,1-0,/match/napoli/atalanta/1993,1993,25,serie_a,18,34,0,1,0,13,36,8,6,10,36,35,DLLDLWWWLWWWWWLWDWWDDWWD,6,2,3,20,13,2,48,10,7,7,30,31,WWWWWDWWWWWLDLWWWDWDWDDD,2,2,7,7,18,DLLWLWWWWDW,WWWWWLLWDWD
+Udinese,Juventus,0-0,/match/udinese/juventus-fc/1993,1993,26,serie_a,18,34,1,0,0,10,41,9,4,12,33,39,WWLWWWWDWWWDWWWWLDWWWDWWW,9,1,2,25,10,7,44,10,7,8,40,34,DWDDLDWWWLLWWDDWDWWWWWWLL,3,4,6,14,20,WLWWDWWWLWWW,DDLWLWWDDWWWL
+Calcio Foggia,Atalanta,1-0,/match/us-foggia/atalanta/1993,1993,26,serie_a,18,34,0,1,0,12,40,7,8,10,26,40,WLWWWDWWWWWDWDLDWDWDWDDWW,7,4,2,16,13,3,48,10,7,8,30,32,WWWWWDWWWWWLDLWWWDWDWDDDW,2,2,8,7,19,LWDWWWWLWDDDW,WWWWWLLWDWDW
+Roma,Fiorentina,1-1,/match/roma/fiorentina/1993,1993,26,serie_a,18,34,1,1,1,11,41,8,10,7,30,24,LDWDWWWLWWDWDLWDLDWDWDDDL,6,3,3,19,11,14,37,7,8,10,38,41,DDWDLLWWWDWWDLWDWDLWDWWWW,1,5,7,13,25,LWWLWWLDWWDD,DDLWDWDWWDWWW
+Cagliari,Genoa,3-0,/match/cagliari/genoa/1993,1993,26,serie_a,18,34,0,3,0,9,41,10,6,9,26,26,DWDWWWLWLLLWWDWDLWDLWDLWW,5,5,2,11,8,15,35,5,11,9,30,43,DDDDDDWWLWWDWWWWWDWWLDDLD,1,5,7,9,24,DDWWLWDDDWLW,DDDWWDWWWWWDL
+Brescia,Ancona,1-1,/match/brescia/ancona/1993,1993,26,serie_a,18,34,1,1,1,16,32,6,7,12,21,33,DDWWWDLLWDWDDWWLWWWWLDWWL,5,3,4,14,12,17,28,5,5,15,31,50,WLWDDWWWWWLWWLWWWLWWDDDWL,0,2,10,13,37,DWWLDDWLWLWL,WWDWWWWWWWDW
+Pescara,Parma,0-2,/match/pescara-calcio/parma-fc/1993,1993,26,serie_a,18,34,2,0,2,18,22,4,4,17,31,54,LLWDWLWLWWWLDWWWLDWWWDWLW,3,4,6,23,27,4,48,11,6,8,31,26,WWWWWWLWWLWWDDWWDDWDLWDLW,3,2,7,10,18,LDLLWLDWLDWDL,WWWWLWDWWLDL
+Sampdoria,Inter,1-3,/match/sampdoria/internazionale/1993,1993,26,serie_a,18,34,2,1,3,6,45,10,8,7,39,34,DLLLDWWWDWWLDDDDWWWWWLLWD,7,3,3,27,16,2,52,12,9,4,42,29,WWLDWWWLDDWWWWLWLDDDDDDLW,5,4,4,20,20,DLWWWLDDWWWLW,WLWLDWWLLDDDL
+Milan,Napoli,2-2,/match/milan/napoli/1993,1993,26,serie_a,18,34,1,2,2,1,62,17,7,1,54,21,WLWLLWLDLDLDWLWLWDWDWWDLD,9,3,1,24,6,13,40,9,6,10,37,35,DLLDLWWWLWWWWWLWDWWDDWWDW,2,4,7,16,22,WWWDDDWWWWWWL,LDWWWWWLDWDWD
+Torino,Lazio,1-1,/match/torino-fc/lazio/1993,1993,26,serie_a,18,34,1,1,1,8,43,8,12,5,28,20,WDWDDDWDLLWDDDLDLLWDWLDWD,5,5,3,19,12,5,46,10,9,6,51,37,DDDDWWWDLWDLWLWWDWLLLWDDW,4,4,4,23,22,WWDWLDDLLWWDD,DDWDWLLWLLWD
+Juventus,Torino,2-1,/match/juventus-fc/torino-fc/1993,1993,27,serie_a,18,34,0,2,1,7,45,10,8,8,40,34,DWDDLDWWWLLWWDDWDWWWWWWLLD,7,3,2,26,14,8,45,8,13,5,29,21,WDWDDDWDLLWDDDLDLLWDWLDWDD,3,7,2,9,8,WDDWWLDWWWWL,DDDDLWDDLDLW
+Inter,Milan,1-1,/match/internazionale/milan/1993,1993,27,serie_a,18,34,1,1,1,2,54,13,9,4,45,30,WWLDWWWLDDWWWWLWLDDDDDDLWL,7,5,0,22,9,1,64,17,8,1,56,23,WLWLLWLDLDLDWLWLWDWDWWDLDD,8,4,0,30,15,WDWWDWWWDDDW,LLLLLLLLDDDD
+Napoli,Sampdoria,1-1,/match/napoli/sampdoria/1993,1993,27,serie_a,18,34,1,1,1,13,41,9,7,10,39,37,DLLDLWWWLWWWWWLWDWWDDWWDWD,7,2,3,21,13,6,45,10,8,8,40,37,DLLLDWWWDWWLDDDDWWWWWLLWDL,3,5,4,12,18,DLLWLWWWWDWW,LLDWDWDDWWLD
+Atalanta,Pescara,2-1,/match/atalanta/pescara-calcio/1993,1993,27,serie_a,18,34,0,2,1,4,48,10,7,9,30,33,WWWWWDWWWWWLDLWWWDWDWDDDWW,8,5,0,23,13,18,22,4,4,18,31,56,LLWDWLWLWWWLDWWWLDWWWDWLWL,1,0,11,8,27,WWDWWWDWWWDDD,LWWWWWWWWWWW
+Genoa,Udinese,1-0,/match/genoa/udinese/1993,1993,27,serie_a,18,34,0,1,0,15,35,5,11,10,30,46,DDDDDDWWLWWDWWWWWDWWLDDLDW,4,6,2,21,19,11,43,9,5,12,33,39,WWLWWWWDWWWDWWWWLDWWWDWWWD,0,3,10,8,29,DDDWLWWWDLDD,WWWWWDWWDWDWW
+Ancona,Roma,1-1,/match/ancona/roma/1993,1993,27,serie_a,18,34,1,1,1,17,29,5,6,15,32,51,WLWDDWWWWWLWWLWWWLWWDDDWLD,5,3,5,18,13,12,43,8,11,7,31,25,LDWDWWWLWWDWDLWDLDWDWDDDLD,2,7,4,11,13,LDWWLWLWLWDDL,DDWWWDDWLDDDL
+Fiorentina,Brescia,2-2,/match/fiorentina/brescia/1993,1993,27,serie_a,18,34,1,2,2,14,38,7,9,10,39,42,DDWDLLWWWDWWDLWDWDLWDWWWWD,6,3,3,25,16,16,34,6,8,12,22,34,DDWWWDLLWDWDDWWLWWWWLDWWLD,1,4,8,7,21,DWLWWWLDLDWW,DWDLWWDWWWWDW
+Parma,Cagliari,3-1,/match/parma-fc/cagliari/1993,1993,27,serie_a,18,34,0,3,1,3,50,12,6,8,33,26,WWWWWWLWWLWWDDWWDDWDLWDLWL,8,4,1,21,8,9,45,11,6,9,29,26,DWDWWWLWLLLWWDWDLWDLWDLWWW,5,1,7,15,18,WWWLWWDWDDDWW,WWWLLLWWLWLDW
+Lazio,Calcio Foggia,1-1,/match/lazio/us-foggia/1993,1993,27,serie_a,18,34,1,1,1,5,47,10,10,6,52,38,DDDDWWWDLWDLWLWWDWLLLWDDWD,6,5,2,28,15,10,44,8,8,10,27,40,WLWWWDWWWWWDWDLDWDWDWDDWWW,0,4,8,10,27,DDWWLDWWDWLDW,WWWWWDDDWWDW
+Roma,Lazio,0-0,/match/roma/lazio/1993,1993,28,serie_a,18,34,1,0,0,11,44,8,12,7,32,26,LDWDWWWLWWDWDLWDLDWDWDDDLDD,6,4,3,20,12,5,49,10,11,6,53,39,DDDDWWWDLWDLWLWWDWLLLWDDWDD,4,5,4,24,23,LWWLWWLDWWDDD,DDWDWLLWLLWDD
+Sampdoria,Parma,2-1,/match/sampdoria/parma-fc/1993,1993,28,serie_a,18,34,0,2,1,7,46,10,9,8,41,38,DLLLDWWWDWWLDDDDWWWWWLLWDLD,7,3,4,28,19,3,54,13,6,8,36,27,WWWWWWLWWLWWDDWWDDWDLWDLWLW,4,2,7,12,18,DLWWWLDDWWWLWL,WWWWLWDWWLDLL
+Torino,Genoa,1-1,/match/torino-fc/genoa/1993,1993,28,serie_a,18,34,1,1,1,10,45,8,13,6,30,23,WDWDDDWDLLWDDDLDLLWDWLDWDDW,5,6,3,20,13,15,39,6,11,10,31,46,DDDDDDWWLWWDWWWWWDWWLDDLDWW,1,5,8,9,27,WWDWLDDLLWWDDD,DDDWWDWWWWWDLW
+Milan,Juventus,1-3,/match/milan/juventus-fc/1993,1993,28,serie_a,18,34,2,1,3,1,65,17,9,1,57,24,WLWLLWLDLDLDWLWLWDWDWWDLDDD,9,4,1,26,8,6,49,11,8,8,42,35,DWDDLDWWWLLWWDDWDWWWWWWLLDW,3,5,6,14,20,WWWDDDWWWWWWLD,DDLWLWWDDWWWLD
+Fiorentina,Napoli,1-1,/match/fiorentina/napoli/1993,1993,28,serie_a,18,34,1,1,1,14,40,7,10,10,41,44,DDWDLLWWWDWWDLWDWDLWDWWWWDD,6,4,3,27,18,13,43,9,8,10,40,38,DLLDLWWWLWWWWWLWDWWDDWWDWDD,2,5,7,18,24,DWLWWWLDLDWWD,LDWWWWWLDWDWDD
+Udinese,Atalanta,1-2,/match/udinese/atalanta/1993,1993,28,serie_a,18,34,2,1,2,12,43,9,5,13,33,40,WWLWWWWDWWWDWWWWLDWWWDWWWDW,9,2,2,25,10,4,52,11,7,9,32,34,WWWWWDWWWWWLDLWWWDWDWDDDWWW,2,2,9,7,20,WLWWDWWWLWWWD,WWWWWLLWDWDWW
+Brescia,Inter,1-3,/match/brescia/internazionale/1993,1993,28,serie_a,18,34,2,1,3,16,35,6,9,12,24,36,DDWWWDLLWDWDDWWLWWWWLDWWLDD,5,4,4,15,13,2,56,13,10,4,46,31,WWLDWWWLDDWWWWLWLDDDDDDLWLD,6,4,4,23,21,DWWLDDWLWLWLD,WLWLDWWLLDDDLL
+Pescara,Calcio Foggia,2-4,/match/pescara-calcio/us-foggia/1993,1993,28,serie_a,18,34,2,2,4,18,22,4,4,19,32,58,LLWDWLWLWWWLDWWWLDWWWDWLWLW,3,4,7,23,29,9,45,8,9,10,28,41,WLWWWDWWWWWDWDLDWDWDWDDWWWD,0,5,8,11,28,LDLLWLDWLDWDLL,WWWWWDDDWWDWD
+Cagliari,Ancona,3-0,/match/cagliari/ancona/1993,1993,28,serie_a,18,34,0,3,0,8,45,11,6,10,30,29,DWDWWWLWLLLWWDWDLWDLWDLWWWW,6,5,2,14,8,17,31,5,7,15,33,52,WLWDDWWWWWLWWLWWWLWWDDDWLDD,0,3,10,14,38,DDWWLWDDDWLWW,WWDWWWWWWWDWD
+Juventus,Fiorentina,3-0,/match/juventus-fc/fiorentina/1993,1993,29,serie_a,18,34,0,3,0,5,51,12,8,8,45,36,DWDDLDWWWLLWWDDWDWWWWWWLLDWL,8,3,2,28,15,14,42,7,11,10,42,45,DDWDLLWWWDWWDLWDWDLWDWWWWDDD,1,6,7,14,26,WDDWWLDWWWWLW,DDLWDWDWWDWWWD
+Atalanta,Sampdoria,1-2,/match/atalanta/sampdoria/1993,1993,29,serie_a,18,34,2,1,2,4,54,12,7,9,34,35,WWWWWDWWWWWLDLWWWDWDWDDDWWWL,9,5,0,25,14,7,50,11,9,8,43,39,DLLLDWWWDWWLDDDDWWWWWLLWDLDW,3,6,4,13,19,WWDWWWDWWWDDDW,LLDWDWDDWWLDD
+Parma,Roma,3-1,/match/parma-fc/roma/1993,1993,29,serie_a,18,34,0,3,1,3,54,13,6,9,37,29,WWWWWWLWWLWWDDWWDDWDLWDLWLWW,9,4,1,24,9,11,46,8,13,7,32,26,LDWDWWWLWWDWDLWDLDWDWDDDLDDD,2,8,4,12,14,WWWLWWDWDDDWWW,DDWWWDDWLDDDLD
+Calcio Foggia,Torino,0-0,/match/us-foggia/torino-fc/1993,1993,29,serie_a,18,34,1,0,0,10,47,9,9,10,32,43,WLWWWDWWWWWDWDLDWDWDWDDWWWDL,8,4,2,17,13,9,47,8,14,6,31,24,WDWDDDWDLLWDDDLDLLWDWLDWDDWD,3,7,3,10,10,LWDWWWWLWDDDWW,DDDDLWDDLDLWW
+Udinese,Milan,0-0,/match/udinese/milan/1993,1993,29,serie_a,18,34,1,0,0,13,43,9,5,14,34,42,WWLWWWWDWWWDWWWWLDWWWDWWWDWL,9,2,3,26,12,1,65,17,9,2,58,27,WLWLLWLDLDLDWLWLWDWDWWDLDDDL,8,5,0,31,16,WLWWDWWWLWWWDL,LLLLLLLLDDDDD
+Lazio,Pescara,2-1,/match/lazio/pescara-calcio/1993,1993,29,serie_a,18,34,0,2,1,6,50,10,12,6,53,39,DDDDWWWDLWDLWLWWDWLLLWDDWDDD,6,6,2,29,16,18,22,4,4,20,34,62,LLWDWLWLWWWLDWWWLDWWWDWLWLWL,1,0,12,9,29,DDWWLDWWDWLDWD,LWWWWWWWWWWWW
+Inter,Ancona,3-0,/match/internazionale/ancona/1993,1993,29,serie_a,18,34,0,3,0,2,58,14,10,4,49,32,WWLDWWWLDDWWWWLWLDDDDDDLWLDL,7,6,0,23,10,17,31,5,7,16,33,55,WLWDDWWWWWLWWLWWWLWWDDDWLDDW,0,3,11,14,41,WDWWDWWWDDDWD,WWDWWWWWWWDWDW
+Genoa,Brescia,1-1,/match/genoa/brescia/1993,1993,29,serie_a,18,34,1,1,1,15,40,6,12,10,32,47,DDDDDDWWLWWDWWWWWDWWLDDLDWWD,5,6,2,22,19,16,35,6,9,13,25,39,DDWWWDLLWDWDDWWLWWWWLDWWLDDL,1,5,8,9,23,DDDWLWWWDLDDW,DWDLWWDWWWWDWD
+Napoli,Cagliari,1-0,/match/napoli/cagliari/1993,1993,29,serie_a,18,34,0,1,0,12,44,9,9,10,41,39,DLLDLWWWLWWWWWLWDWWDDWWDWDDD,7,3,3,22,14,8,49,12,6,10,33,29,DWDWWWLWLLLWWDWDLWDLWDLWWWWW,5,1,8,16,21,DLLWLWWWWDWWD,WWWLLLWWLWLDWW
+Fiorentina,Parma,1-1,/match/fiorentina/parma-fc/1993,1993,30,serie_a,18,34,1,1,1,14,42,7,11,11,42,48,DDWDLLWWWDWWDLWDWDLWDWWWWDDDW,6,5,3,28,19,3,58,14,6,9,40,30,WWWWWWLWWLWWDDWWDDWDLWDLWLWWW,4,2,8,13,20,DWLWWWLDLDWWDD,WWWWLWDWWLDLLW
+Sampdoria,Pescara,1-1,/match/sampdoria/pescara-calcio/1993,1993,30,serie_a,18,34,1,1,1,7,52,12,9,8,45,40,DLLLDWWWDWWLDDDDWWWWWLLWDLDWL,8,3,4,30,20,18,22,4,4,21,35,64,LLWDWLWLWWWLDWWWLDWWWDWLWLWLW,1,0,13,10,31,DLWWWLDDWWWLWLW,LWWWWWWWWWWWWW
+Ancona,Milan,1-3,/match/ancona/milan/1993,1993,30,serie_a,18,34,2,1,3,17,31,5,7,17,33,58,WLWDDWWWWWLWWLWWWLWWDDDWLDDWW,5,4,5,19,14,1,66,17,10,2,58,27,WLWLLWLDLDLDWLWLWDWDWWDLDDDLD,8,6,0,31,16,LDWWLWLWLWDDLD,LLLLLLLLDDDDDD
+Napoli,Genoa,2-2,/match/napoli/genoa/1993,1993,30,serie_a,18,34,1,2,2,11,48,10,9,10,42,39,DLLDLWWWLWWWWWLWDWWDDWWDWDDDW,8,3,3,23,14,15,42,6,13,10,33,48,DDDDDDWWLWWDWWWWWDWWLDDLDWWDD,1,6,8,10,28,DLLWLWWWWDWWDW,DDDWWDWWWWWDLWD
+Brescia,Atalanta,2-0,/match/brescia/atalanta/1993,1993,30,serie_a,18,34,0,2,0,16,36,6,10,13,26,40,DDWWWDLLWDWDDWWLWWWWLDWWLDDLD,5,4,5,16,16,5,54,12,7,10,35,37,WWWWWDWWWWWLDLWWWDWDWDDDWWWLL,3,2,9,9,21,DWWLDDWLWLWLDL,WWWWWLLWDWDWWL
+Roma,Torino,4-5,/match/roma/torino-fc/1993,1993,30,serie_a,18,34,2,4,5,12,46,8,13,8,33,29,LDWDWWWLWWDWDLWDLDWDWDDDLDDDW,6,5,3,20,12,10,48,8,15,6,31,24,WDWDDDWDLLWDDDLDLLWDWLDWDDWDD,3,8,3,10,10,LWWLWWLDWWDDDD,DDDDLWDDLDLWWD
+Juventus,Calcio Foggia,4-2,/match/juventus-fc/us-foggia/1993,1993,30,serie_a,18,34,0,4,2,4,55,13,8,8,48,36,DWDDLDWWWLLWWDDWDWWWWWWLLDWLW,9,3,2,31,15,8,49,9,10,10,32,43,WLWWWDWWWWWDWDLDWDWDWDDWWWDLD,1,5,8,15,30,WDDWWLDWWWWLWW,WWWWWDDDWWDWDL
+Inter,Lazio,2-0,/match/internazionale/lazio/1993,1993,30,serie_a,18,34,0,2,0,2,62,15,10,4,52,32,WWLDWWWLDDWWWWLWLDDDDDDLWLDLW,8,6,0,26,10,6,54,11,12,6,55,40,DDDDWWWDLWDLWLWWDWLLLWDDWDDDW,4,6,4,24,23,WDWWDWWWDDDWDW,DDWDWLLWLLWDDD
+Cagliari,Udinese,1-1,/match/cagliari/udinese/1993,1993,30,serie_a,18,34,1,1,1,9,49,12,6,11,33,30,DWDWWWLWLLLWWDWDLWDLWDLWWWWWW,7,5,2,17,8,13,45,9,6,14,34,42,WWLWWWWDWWWDWWWWLDWWWDWWWDWLD,0,3,11,8,30,DDWWLWDDDWLWWW,WWWWWDWWDWDWWW
+Udinese,Brescia,2-2,/match/udinese/brescia/1993,1993,31,serie_a,18,34,1,2,2,13,46,9,7,14,35,43,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDD,9,3,3,26,12,16,40,7,10,13,28,40,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDW,1,6,8,10,24,WLWWDWWWLWWWDLD,DWDLWWDWWWWDWDD
+Lazio,Ancona,5-0,/match/lazio/ancona/1993,1993,31,serie_a,18,34,0,5,0,6,54,11,12,7,55,42,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWW,7,6,2,31,17,17,31,5,7,18,34,61,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWL,0,3,12,14,44,DDWWLDWWDWLDWDW,WWDWWWWWWWDWDWW
+Pescara,Napoli,3-0,/match/pescara-calcio/napoli/1993,1993,31,serie_a,18,34,0,3,0,18,23,4,5,21,36,65,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWD,3,4,8,25,33,9,50,10,10,10,44,41,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWD,2,6,7,19,25,LDLLWLDWLDWDLLL,LDWWWWWLDWDWDDD
+Genoa,Inter,1-1,/match/genoa/internazionale/1993,1993,31,serie_a,18,34,1,1,1,15,43,6,14,10,35,50,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDD,5,7,2,23,20,2,66,16,10,4,54,32,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWW,7,4,4,26,22,DDDWLWWWDLDDWD,WLWLDWWLLDDDLLL
+Calcio Foggia,Sampdoria,1-0,/match/us-foggia/sampdoria/1993,1993,31,serie_a,18,34,0,1,0,11,49,9,10,11,34,47,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDW,8,5,2,17,13,7,54,12,10,8,46,41,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLD,4,6,4,15,20,LWDWWWWLWDDDWWD,LLDWDWDDWWLDDL
+Milan,Roma,0-0,/match/milan/roma/1993,1993,31,serie_a,18,34,1,0,0,1,68,18,10,2,61,28,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDL,9,4,2,27,11,12,46,8,13,9,37,34,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWL,2,8,5,13,17,WWWDDDWWWWWWLDL,DDWWWDDWLDDDLDW
+Atalanta,Fiorentina,2-1,/match/atalanta/fiorentina/1993,1993,31,serie_a,18,34,0,2,1,5,54,12,7,11,35,39,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLW,9,5,1,26,16,14,44,7,12,11,43,49,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWD,1,6,8,14,29,WWDWWWDWWWDDDWL,DDLWDWDWWDWWWDW
+Parma,Juventus,2-1,/match/parma-fc/juventus-fc/1993,1993,31,serie_a,18,34,0,2,1,3,59,14,7,9,41,31,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWD,10,4,1,27,10,4,59,14,8,8,52,38,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWW,4,5,6,17,21,WWWLWWDWDDDWWWW,DDLWLWWDDWWWLDL
+Torino,Cagliari,0-5,/match/torino-fc/cagliari/1993,1993,31,serie_a,18,34,2,0,5,10,50,9,15,6,36,28,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDL,5,7,3,21,14,8,51,12,7,11,34,31,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWD,5,1,9,16,22,WWDWLDDLLWWDDDD,WWWLLLWWLWLDWWW
+Genoa,Parma,1-1,/match/genoa/parma-fc/1993,1993,32,serie_a,18,34,1,1,1,14,45,6,15,10,36,51,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDDD,5,8,2,24,21,3,63,15,7,9,43,32,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWDW,4,3,8,14,21,DDDWLWWWDLDDWDD,WWWWLWDWWLDLLWD
+Brescia,Lazio,2-0,/match/brescia/lazio/1993,1993,32,serie_a,18,34,0,2,0,16,41,7,11,13,30,42,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDWD,6,4,5,18,16,6,58,12,12,7,60,42,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWWW,4,6,5,24,25,DWWLDDWLWLWLDLW,DDWDWLLWLLWDDDW
+Ancona,Pescara,5-3,/match/ancona/pescara-calcio/1993,1993,32,serie_a,18,34,0,5,3,17,31,5,7,19,34,66,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWLW,5,4,6,20,17,18,27,5,5,21,39,65,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWDW,1,1,13,11,32,LDWWLWLWLWDDLDL,LWWWWWWWWWWWWWD
+Napoli,Torino,1-1,/match/napoli/torino-fc/1993,1993,32,serie_a,18,34,1,1,1,11,50,10,10,11,44,44,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWDW,8,4,3,25,16,10,50,9,15,7,36,33,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDLL,4,8,3,15,14,DLLWLWWWWDWWDWD,DDDDLWDDLDLWWDL
+Fiorentina,Udinese,2-2,/match/fiorentina/udinese/1993,1993,32,serie_a,18,34,1,2,2,15,44,7,12,12,44,51,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWDW,6,6,3,29,20,12,48,9,8,14,37,45,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDDD,0,4,11,9,31,DWLWWWLDLDWWDDD,WWWWWDWWDWDWWWD
+Roma,Atalanta,2-2,/match/roma/atalanta/1993,1993,32,serie_a,18,34,1,2,2,13,47,8,14,9,37,34,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWLD,6,5,4,24,17,5,58,13,7,11,37,40,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLWW,3,2,10,9,23,LWWLWWLDWWDDDDL,WWWWWLLWDWDWWLW
+Juventus,Sampdoria,1-1,/match/juventus-fc/sampdoria/1993,1993,32,serie_a,18,34,1,1,1,4,59,14,8,9,53,40,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWWW,10,3,2,35,17,7,54,12,10,9,46,42,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLDW,4,6,5,15,21,WDDWWLDWWWWLWWW,LLDWDWDDWWLDDLW
+Inter,Calcio Foggia,1-1,/match/internazionale/us-foggia/1993,1993,32,serie_a,18,34,1,1,1,2,67,16,11,4,55,33,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWWD,9,6,0,28,10,9,53,10,10,11,35,47,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDWW,1,5,9,17,34,WDWWDWWWDDDWDWW,WWWWWDDDWWDWDLW
+Cagliari,Milan,1-1,/match/cagliari/milan/1993,1993,32,serie_a,18,34,1,1,1,8,53,13,7,11,39,31,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWDL,7,6,2,18,9,1,70,18,11,2,61,28,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDLD,9,6,0,34,17,DDWWLWDDDWLWWWD,LLLLLLLLDDDDDDL
+Torino,Fiorentina,1-1,/match/torino-fc/fiorentina/1993,1993,33,serie_a,18,34,1,1,1,11,51,9,16,7,37,34,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDLLD,5,7,4,21,19,15,46,7,13,12,46,53,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWDWD,1,6,9,15,31,WWDWLDDLLWWDDDDL,DDLWDWDWWDWWWDWW
+Pescara,Juventus,5-1,/match/pescara-calcio/juventus-fc/1993,1993,33,serie_a,18,34,0,5,1,18,27,5,5,22,42,70,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWDWW,4,4,8,28,33,4,61,14,9,9,54,41,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWWWD,4,5,7,18,23,LDLLWLDWLDWDLLLW,DDLWLWWDDWWWLDLW
+Udinese,Ancona,2-0,/match/udinese/ancona/1993,1993,33,serie_a,18,34,0,2,0,12,49,9,9,14,39,47,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDDDD,9,4,3,28,14,17,35,6,7,19,39,69,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWLWW,0,3,13,14,49,WLWWDWWWLWWWDLDD,WWDWWWWWWWDWDWWW
+Atalanta,Genoa,1-2,/match/atalanta/genoa/1993,1993,33,serie_a,18,34,2,1,2,5,59,13,8,11,39,42,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLWWD,10,5,1,28,17,14,47,6,16,10,37,52,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDDDD,1,7,8,12,30,WWDWWWDWWWDDDWLW,DDDWWDWWWWWDLWDD
+Calcio Foggia,Cagliari,1-1,/match/us-foggia/cagliari/1993,1993,33,serie_a,18,34,1,1,1,9,54,10,11,11,36,48,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDWWD,9,5,2,18,13,8,55,13,8,11,40,32,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWDLD,6,1,9,21,22,LWDWWWWLWDDDWWDW,WWWLLLWWLWLDWWWL
+Sampdoria,Roma,2-2,/match/sampdoria/roma/1993,1993,33,serie_a,18,34,1,2,2,7,55,12,11,9,47,43,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLDWD,8,4,4,31,21,13,49,8,15,9,39,36,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWLDD,2,9,5,13,17,DLWWWLDDWWWLWLWD,DDWWWDDWLDDDLDWD
+Parma,Inter,2-0,/match/parma-fc/internazionale/1993,1993,33,serie_a,18,34,0,2,0,3,64,15,8,9,44,33,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWDWD,11,4,1,29,11,2,69,16,12,4,56,34,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWWDD,7,5,4,27,23,WWWLWWDWDDDWWWWW,WLWLDWWLLDDDLLLD
+Milan,Brescia,1-1,/match/milan/brescia/1993,1993,33,serie_a,18,34,1,1,1,1,71,18,12,2,62,29,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDLDD,9,5,2,27,11,16,45,8,11,13,32,42,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDWDW,1,7,8,12,26,WWWDDDWWWWWWLDLD,DWDLWWDWWWWDWDDD
+Lazio,Napoli,4-3,/match/lazio/napoli/1993,1993,33,serie_a,18,34,0,4,3,6,58,12,12,8,60,44,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWWWW,8,6,2,36,17,10,52,10,11,11,45,45,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWDWD,2,6,8,19,28,DDWWLDWWDWLDWDWW,LDWWWWWLDWDWDDDW
+Brescia,Sampdoria,3-1,/match/brescia/sampdoria/1993,1993,34,serie_a,18,34,0,3,1,16,46,8,12,13,33,43,DDWWWDLLWDWDDWWLWWWWLDWWLDDLDWDWD,7,4,5,20,16,7,57,12,12,9,49,45,DLLLDWWWDWWLDDDDWWWWWLLWDLDWLDWDD,4,7,5,16,22,DWWLDDWLWLWLDLWW,LLDWDWDDWWLDDLWD
+Cagliari,Pescara,4-0,/match/cagliari/pescara-calcio/1993,1993,34,serie_a,18,34,0,4,0,8,56,13,9,11,41,33,DWDWWWLWLLLWWDWDLWDLWDLWWWWWWDLDD,7,7,2,19,10,18,31,6,5,22,47,71,LLWDWLWLWWWLDWWWLDWWWDWLWLWLWDWWW,1,1,14,14,37,DDWWLWDDDWLWWWDD,LWWWWWWWWWWWWWDW
+Ancona,Atalanta,0-2,/match/ancona/atalanta/1993,1993,34,serie_a,18,34,2,0,2,17,35,6,7,20,39,71,WLWDDWWWWWLWWLWWWLWWDDDWLDDWWLWWW,6,4,6,25,20,6,59,13,8,12,40,44,WWWWWDWWWWWLDLWWWDWDWDDDWWWLLWWDL,3,3,10,11,25,LDWWLWLWLWDDLDLW,WWWWWLLWDWDWWLWD
+Fiorentina,Calcio Foggia,6-2,/match/fiorentina/us-foggia/1993,1993,34,serie_a,18,34,0,6,2,15,47,7,14,12,47,54,DDWDLLWWWDWWDLWDWDLWDWWWWDDDWDWDD,6,7,3,31,22,9,56,10,12,11,37,49,WLWWWDWWWWWDWDLDWDWDWDDWWWDLDWWDD,1,6,9,18,35,DWLWWWLDLDWWDDDD,WWWWWDDDWWDWDLWD
+Roma,Udinese,1-1,/match/roma/udinese/1993,1993,34,serie_a,18,34,1,1,1,13,50,8,16,9,41,38,LDWDWWWLWWDWDLWDLDWDWDDDLDDDWLDDD,6,6,4,26,19,10,53,10,9,14,41,47,WWLWWWWDWWWDWWWWLDWWWDWWWDWLDDDDW,0,5,11,11,33,LWWLWWLDWWDDDDLD,WWWWWDWWDWDWWWDD
+Inter,Torino,3-0,/match/internazionale/torino-fc/1993,1993,34,serie_a,18,34,0,3,0,2,69,16,12,5,56,36,WWLDWWWLDDWWWWLWLDDDDDDLWLDLWWDDW,9,7,0,29,11,11,53,9,17,7,38,35,WDWDDDWDLLWDDDLDLLWDWLDWDDWDDLLDD,4,9,3,16,15,WDWWDWWWDDDWDWWD,DDDDLWDDLDLWWDLD
+Juventus,Lazio,4-1,/match/juventus-fc/lazio/1993,1993,34,serie_a,18,34,0,4,1,5,61,14,9,10,55,46,DWDDLDWWWLLWWDDWDWWWWWWLLDWLWWWDW,10,4,2,36,18,4,62,13,12,8,64,47,DDDDWWWDLWDLWLWWDWLLLWDDWDDDWWWWW,4,6,6,24,27,WDDWWLDWWWWLWWWD,DDWDWLLWLLWDDDWW
+Napoli,Parma,1-1,/match/napoli/parma-fc/1993,1993,34,serie_a,18,34,1,1,1,12,52,10,11,12,48,49,DLLDLWWWLWWWWWLWDWWDDWWDWDDDWDWDW,8,5,3,26,17,3,68,16,8,9,46,33,WWWWWWLWWLWWDDWWDDWDLWDLWLWWWDWDW,4,4,8,15,22,DLLWLWWWWDWWDWDD,WWWWLWDWWLDLLWDD
+Genoa,Milan,2-2,/match/genoa/milan/1993,1993,34,serie_a,18,34,1,2,2,14,49,7,16,10,39,53,DDDDDDWWLWWDWWWWWDWWLDDLDWWDDDDDL,5,9,2,25,22,1,73,18,13,2,63,30,WLWLLWLDLDLDWLWLWDWDWWDLDDDLDLDDD,9,7,0,35,18,DDDWLWWWDLDDWDDD,LLLLLLLLDDDDDDLD

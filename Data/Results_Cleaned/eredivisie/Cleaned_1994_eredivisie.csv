@@ -1,307 +1,307 @@
-Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Willem II,MVV Maastricht,1-0,/match/willem-ii/mvv/1994,1994,1,eredivisie,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Heerenveen,Sparta Rotterdam,1-0,/match/heerenveen/sparta-rotterdam/1994,1994,1,eredivisie,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-NAC Breda,Roda JC,2-3,/match/nac-breda/roda-jc/1994,1994,1,eredivisie,18,34,2,2,3,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Go Ahead Eagles,Vitesse,1-4,/match/go-ahead-eagles/vitesse/1994,1994,1,eredivisie,18,34,2,1,4,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Feyenoord,Cambuur,1-0,/match/feyenoord/sc-cambuur-leeuwarden/1994,1994,1,eredivisie,18,34,0,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-FC Volendam,Utrecht,2-2,/match/fc-volendam/fc-utrecht/1994,1994,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Twente 1965,VVV Venlo,3-0,/match/fc-twente-1965/vvv/1994,1994,1,eredivisie,18,34,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Groningen,PSV,1-2,/match/fc-groningen/psv/1994,1994,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Ajax,RKC Waalwijk,3-0,/match/ajax/rkc-waalwijk/1994,1994,1,eredivisie,18,34,0,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Cambuur,NAC Breda,1-3,/match/sc-cambuur-leeuwarden/nac-breda/1994,1994,2,eredivisie,18,34,2,1,3,12,0,0,1,0,1,W,0,0,0,0,0,14,0,0,1,2,3,L,0,0,0,0,0,,
-PSV,Go Ahead Eagles,3-0,/match/psv/go-ahead-eagles/1994,1994,2,eredivisie,18,34,0,3,0,8,1,0,0,2,1,L,0,0,0,0,0,11,0,0,1,1,4,L,0,0,0,0,0,,
-Sparta Rotterdam,Willem II,1-0,/match/sparta-rotterdam/willem-ii/1994,1994,2,eredivisie,18,34,0,1,0,18,0,0,1,0,1,W,0,0,0,0,0,4,1,0,0,1,0,W,0,0,0,0,0,,
-Roda JC,FC Volendam,2-0,/match/roda-jc/fc-volendam/1994,1994,2,eredivisie,18,34,0,2,0,6,1,0,0,3,2,L,0,0,0,0,0,9,0,1,0,2,2,D,0,0,0,0,0,,
-RKC Waalwijk,Twente 1965,1-3,/match/rkc-waalwijk/fc-twente-1965/1994,1994,2,eredivisie,18,34,2,1,3,17,0,0,1,0,3,W,0,0,0,0,0,2,1,0,0,3,0,W,0,0,0,0,0,,
-MVV Maastricht,Ajax,1-1,/match/mvv/ajax/1994,1994,2,eredivisie,18,34,1,1,1,15,0,0,1,0,1,W,0,0,0,0,0,1,1,0,0,3,0,W,0,0,0,0,0,,
-Utrecht,Groningen,2-0,/match/fc-utrecht/fc-groningen/1994,1994,2,eredivisie,18,34,0,2,0,10,0,1,0,2,2,D,0,0,0,0,0,16,0,0,1,1,2,L,0,0,0,0,0,,
-Vitesse,Heerenveen,3-0,/match/vitesse/heerenveen/1994,1994,2,eredivisie,18,34,0,3,0,7,1,0,0,4,1,L,0,0,0,0,0,3,1,0,0,1,0,W,0,0,0,0,0,,
-VVV Venlo,Feyenoord,1-1,/match/vvv/feyenoord/1994,1994,2,eredivisie,18,34,1,1,1,13,0,0,1,0,3,W,0,0,0,0,0,5,1,0,0,1,0,W,0,0,0,0,0,,
-Willem II,Vitesse,0-3,/match/willem-ii/vitesse/1994,1994,3,eredivisie,18,34,2,0,3,8,1,0,1,1,1,WW,1,0,0,1,0,4,2,0,0,7,1,LW,1,0,0,4,1,W,L
-Heerenveen,PSV,0-0,/match/heerenveen/psv/1994,1994,3,eredivisie,18,34,1,0,0,9,1,0,1,1,3,WW,1,0,0,1,0,3,2,0,0,5,1,LW,1,0,0,2,1,W,L
-NAC Breda,VVV Venlo,4-1,/match/nac-breda/vvv/1994,1994,3,eredivisie,18,34,0,4,1,13,1,0,1,5,4,LL,0,0,1,2,3,12,0,1,1,1,4,WD,0,0,1,0,3,L,W
-MVV Maastricht,RKC Waalwijk,1-1,/match/mvv/rkc-waalwijk/1994,1994,3,eredivisie,18,34,1,1,1,14,0,1,1,1,2,WD,0,1,0,1,1,18,0,0,2,1,6,WL,0,0,1,0,3,D,W
-Go Ahead Eagles,Utrecht,4-0,/match/go-ahead-eagles/fc-utrecht/1994,1994,3,eredivisie,18,34,0,4,0,15,0,0,2,1,7,LW,0,0,1,1,4,6,1,1,0,4,2,DW,0,1,0,2,2,L,D
-Feyenoord,Twente 1965,1-0,/match/feyenoord/fc-twente-1965/1994,1994,3,eredivisie,18,34,0,1,0,7,1,1,0,2,1,WD,1,0,0,1,0,2,2,0,0,6,1,WL,1,0,0,3,1,W,L
-FC Volendam,Cambuur,4-1,/match/fc-volendam/sc-cambuur-leeuwarden/1994,1994,3,eredivisie,18,34,0,4,1,11,0,1,1,2,4,DW,0,1,0,2,2,16,0,0,2,1,4,WL,0,0,1,0,1,D,W
-Groningen,Roda JC,3-5,/match/fc-groningen/roda-jc/1994,1994,3,eredivisie,18,34,2,3,5,17,0,0,2,1,4,LW,0,0,1,1,2,1,2,0,0,5,2,LW,1,0,0,3,2,L,L
-Ajax,Sparta Rotterdam,3-0,/match/ajax/sparta-rotterdam/1994,1994,3,eredivisie,18,34,0,3,0,5,1,1,0,4,1,WD,1,0,0,3,0,10,1,0,1,1,1,WW,0,0,1,0,1,W,W
-VVV Venlo,FC Volendam,2-0,/match/vvv/fc-volendam/1994,1994,4,eredivisie,18,34,0,2,0,15,0,1,2,2,8,WDW,0,1,0,1,1,9,1,1,1,6,5,DWW,0,0,1,0,2,D,W
-PSV,Willem II,2-1,/match/psv/willem-ii/1994,1994,4,eredivisie,18,34,0,2,1,5,2,1,0,5,1,LWD,1,0,0,3,0,14,1,0,2,1,4,WWL,0,0,1,0,1,W,W
-Vitesse,Ajax,0-1,/match/vitesse/ajax/1994,1994,4,eredivisie,18,34,2,0,1,4,3,0,0,10,1,LWL,1,0,0,3,0,1,2,1,0,7,1,WDW,0,1,0,1,1,W,D
-Sparta Rotterdam,MVV Maastricht,2-2,/match/sparta-rotterdam/mvv/1994,1994,4,eredivisie,18,34,1,2,2,13,1,0,2,1,4,WWW,1,0,0,1,0,12,0,2,1,2,3,WDD,0,0,1,0,1,W,W
-Roda JC,Go Ahead Eagles,2-1,/match/roda-jc/go-ahead-eagles/1994,1994,4,eredivisie,18,34,0,2,1,3,3,0,0,10,5,LWL,1,0,0,2,0,11,1,0,2,5,7,LWW,0,0,1,0,3,W,W
-Utrecht,Heerenveen,0-1,/match/fc-utrecht/heerenveen/1994,1994,4,eredivisie,18,34,2,0,1,10,1,1,1,4,6,DWW,1,0,0,2,0,7,1,1,1,1,3,WWD,0,0,1,0,3,W,W
-Twente 1965,NAC Breda,0-1,/match/fc-twente-1965/nac-breda/1994,1994,4,eredivisie,18,34,2,0,1,8,2,0,1,6,2,WLW,1,0,0,3,0,6,2,0,1,9,5,LLW,1,0,0,3,1,W,L
-Cambuur,Groningen,0-2,/match/sc-cambuur-leeuwarden/fc-groningen/1994,1994,4,eredivisie,18,34,2,0,2,17,0,0,3,2,8,WLW,0,0,1,1,3,18,0,0,3,4,9,LWL,0,0,1,0,2,L,W
-RKC Waalwijk,Feyenoord,1-2,/match/rkc-waalwijk/feyenoord/1994,1994,4,eredivisie,18,34,2,1,2,16,0,1,2,2,7,WLD,0,0,1,1,3,2,2,1,0,3,1,WDW,0,1,0,1,1,L,D
-Willem II,Utrecht,4-1,/match/willem-ii/fc-utrecht/1994,1994,5,eredivisie,18,34,0,4,1,14,1,0,3,2,6,WWLW,1,0,1,1,3,12,1,1,2,4,7,DWWL,0,1,1,2,6,WL,DW
-Heerenveen,Roda JC,0-0,/match/heerenveen/roda-jc/1994,1994,5,eredivisie,18,34,1,0,0,7,2,1,1,2,3,WWDL,1,1,0,1,0,1,4,0,0,12,6,LWLW,2,0,0,8,5,WD,LL
-MVV Maastricht,Vitesse,0-2,/match/mvv/vitesse/1994,1994,5,eredivisie,18,34,2,0,2,13,0,3,1,4,5,WDDD,0,2,0,2,2,5,3,0,1,10,2,LWLL,2,0,0,7,1,DD,LL
-Go Ahead Eagles,Cambuur,3-0,/match/go-ahead-eagles/sc-cambuur-leeuwarden/1994,1994,5,eredivisie,18,34,0,3,0,15,1,0,3,6,9,LWWW,1,0,1,5,4,18,0,0,4,2,10,WLWL,0,0,2,1,5,LW,WW
-Ajax,PSV,2-0,/match/ajax/psv/1994,1994,5,eredivisie,18,34,0,2,0,2,3,1,0,8,1,WDWL,2,0,0,6,0,3,3,1,0,7,2,LWDW,1,1,0,2,1,WW,LD
-Groningen,VVV Venlo,0-3,/match/fc-groningen/vvv/1994,1994,5,eredivisie,18,34,2,0,3,16,1,0,3,6,9,LWLL,0,0,2,4,7,11,1,1,2,4,8,WDWW,0,0,2,1,7,LL,WW
-FC Volendam,Twente 1965,2-5,/match/fc-volendam/fc-twente-1965/1994,1994,5,eredivisie,18,34,2,2,5,10,1,1,2,6,7,DWWW,1,1,0,6,3,9,2,0,2,6,3,WLWL,1,0,1,3,2,DW,LW
-NAC Breda,Feyenoord,1-2,/match/nac-breda/feyenoord/1994,1994,5,eredivisie,18,34,2,1,2,6,3,0,1,10,5,LLWL,1,0,1,6,4,4,3,1,0,5,2,WDWL,1,1,0,3,2,LW,DL
-Sparta Rotterdam,RKC Waalwijk,1-1,/match/sparta-rotterdam/rkc-waalwijk/1994,1994,5,eredivisie,18,34,1,1,1,8,1,1,2,3,6,WWWD,1,1,0,3,2,17,0,1,3,3,9,WLDL,0,1,1,1,4,WD,WD
-Utrecht,Ajax,1-4,/match/fc-utrecht/ajax/1994,1994,6,eredivisie,18,34,2,1,4,15,1,1,3,5,11,DWWLW,1,0,1,2,1,1,4,1,0,10,1,WDWLW,1,1,0,2,1,WL,DL
-Roda JC,Willem II,1-1,/match/roda-jc/willem-ii/1994,1994,6,eredivisie,18,34,1,1,1,2,4,1,0,12,6,LWLWD,2,0,0,4,1,7,2,0,3,6,7,WWLWW,0,0,2,1,3,WW,WW
-RKC Waalwijk,NAC Breda,1-0,/match/rkc-waalwijk/nac-breda/1994,1994,6,eredivisie,18,34,0,1,0,17,0,2,3,4,10,WLDLD,0,0,2,2,5,8,3,0,2,11,7,LLWLL,2,0,0,4,1,LL,LL
-Feyenoord,FC Volendam,2-0,/match/feyenoord/fc-volendam/1994,1994,6,eredivisie,18,34,0,2,0,3,4,1,0,7,3,WDWLL,2,0,0,2,0,13,1,1,3,8,12,DWWWL,0,0,2,0,4,WW,WW
-PSV,MVV Maastricht,4-2,/match/psv/mvv/1994,1994,6,eredivisie,18,34,0,4,2,4,3,1,1,7,4,LWDWW,2,0,0,5,1,14,0,3,2,4,7,WDDDL,0,1,1,2,3,WW,WD
-Cambuur,Heerenveen,1-2,/match/sc-cambuur-leeuwarden/heerenveen/1994,1994,6,eredivisie,18,34,2,1,2,18,0,0,5,2,13,WLWLW,0,0,2,1,5,6,2,2,1,2,3,WWDLD,1,0,1,1,3,LL,WL
-Vitesse,Sparta Rotterdam,2-0,/match/vitesse/sparta-rotterdam/1994,1994,6,eredivisie,18,34,0,2,0,5,4,0,1,12,2,LWLLL,1,0,1,3,1,9,1,2,2,4,7,WWWDD,0,0,2,0,4,WL,WW
-VVV Venlo,Go Ahead Eagles,1-0,/match/vvv/go-ahead-eagles/1994,1994,6,eredivisie,18,34,0,1,0,11,2,1,2,7,8,WDWWL,1,1,0,3,1,12,2,0,3,9,9,LWWWW,0,0,2,1,5,DW,WW
-Twente 1965,Groningen,0-1,/match/fc-twente-1965/fc-groningen/1994,1994,6,eredivisie,18,34,2,0,1,10,3,0,2,11,5,WLWLL,1,0,1,3,1,16,1,0,4,6,12,LWLLL,1,0,1,2,2,WL,WL
-MVV Maastricht,Utrecht,2-1,/match/mvv/fc-utrecht/1994,1994,7,eredivisie,18,34,0,2,1,15,0,3,3,6,11,WDDDLW,0,2,1,2,4,16,1,1,4,6,15,DWWLWL,0,1,2,3,10,DDL,DWW
-Heerenveen,VVV Venlo,1-0,/match/heerenveen/vvv/1994,1994,7,eredivisie,18,34,0,1,0,6,3,2,1,4,4,WWDLDL,1,2,0,1,0,7,3,1,2,8,8,WDWWLW,1,0,2,4,7,WDD,WWL
-Sparta Rotterdam,PSV,0-0,/match/sparta-rotterdam/psv/1994,1994,7,eredivisie,18,34,1,0,0,11,1,2,3,4,9,WWWDDW,1,2,0,4,3,4,4,1,1,11,6,LWDWWW,1,1,1,2,3,WDD,LDW
-Willem II,Cambuur,4-1,/match/willem-ii/sc-cambuur-leeuwarden/1994,1994,7,eredivisie,18,34,0,4,1,8,2,1,3,7,8,WWLWWD,2,0,1,5,4,18,0,0,6,3,15,WLWLWL,0,0,3,1,8,WLW,WWW
-Ajax,Roda JC,2-0,/match/ajax/roda-jc/1994,1994,7,eredivisie,18,34,0,2,0,1,5,1,0,14,2,WDWLWL,3,0,0,8,0,3,4,2,0,13,7,LWLWDD,2,1,0,8,5,WWW,LLD
-Groningen,Feyenoord,0-4,/match/fc-groningen/feyenoord/1994,1994,7,eredivisie,18,34,2,0,4,17,2,0,4,7,12,LWLLLL,0,0,3,4,10,2,5,1,0,9,3,WDWLLW,2,1,0,5,3,LLL,DLL
-FC Volendam,NAC Breda,1-3,/match/fc-volendam/nac-breda/1994,1994,7,eredivisie,18,34,2,1,3,13,1,1,4,8,14,DWWWLW,1,1,1,8,8,12,3,0,3,11,8,LLWLLW,2,0,1,4,2,DWL,LLW
-Go Ahead Eagles,Twente 1965,3-3,/match/go-ahead-eagles/fc-twente-1965/1994,1994,7,eredivisie,18,34,1,3,3,9,2,0,4,9,10,LWWWWW,2,0,1,8,4,10,3,0,3,11,6,WLWLLL,2,0,1,8,4,LWW,LWL
-Vitesse,RKC Waalwijk,4-1,/match/vitesse/rkc-waalwijk/1994,1994,7,eredivisie,18,34,0,4,1,5,5,0,1,14,2,LWLLLW,2,0,1,5,1,14,1,2,3,5,10,WLDLDW,0,2,1,2,5,WLW,WDD
-NAC Breda,Groningen,2-1,/match/nac-breda/fc-groningen/1994,1994,8,eredivisie,18,34,0,2,1,11,4,0,3,14,9,LLWLLWL,1,0,2,7,6,17,2,0,5,7,16,LWLLLLL,2,0,1,3,2,LWL,WLL
-Utrecht,Sparta Rotterdam,3-1,/match/fc-utrecht/sparta-rotterdam/1994,1994,8,eredivisie,18,34,0,3,1,16,1,1,5,7,17,DWWLWLW,1,0,2,3,5,10,1,3,3,4,9,WWWDDWD,0,0,3,0,6,WLL,WWW
-Twente 1965,Heerenveen,2-1,/match/fc-twente-1965/heerenveen/1994,1994,8,eredivisie,18,34,0,2,1,13,3,1,3,14,9,WLWLLLD,1,0,2,3,2,5,4,2,1,5,4,WWDLDLW,2,0,1,3,4,WLL,WLL
-Feyenoord,Go Ahead Eagles,1-0,/match/feyenoord/go-ahead-eagles/1994,1994,8,eredivisie,18,34,0,1,0,2,6,1,0,13,3,WDWLLWL,3,0,0,4,0,9,2,1,4,12,13,LWWWWWD,0,0,3,1,6,WWW,WWW
-RKC Waalwijk,FC Volendam,1-3,/match/rkc-waalwijk/fc-volendam/1994,1994,8,eredivisie,18,34,2,1,3,14,1,2,4,6,14,WLDLDWW,1,0,2,3,5,15,1,1,5,9,17,DWWWLWL,0,0,3,0,6,LLW,WWW
-Roda JC,MVV Maastricht,4-1,/match/roda-jc/mvv/1994,1994,8,eredivisie,18,34,0,4,1,6,4,2,1,13,9,LWLWDDW,2,1,0,5,2,12,1,3,3,8,12,WDDDLWW,0,1,2,4,7,WWD,WDW
-Cambuur,Ajax,0-3,/match/sc-cambuur-leeuwarden/ajax/1994,1994,8,eredivisie,18,34,2,0,3,18,0,0,7,4,19,WLWLWLW,0,0,3,2,7,1,6,1,0,16,2,WDWLWLW,2,1,0,6,2,LLL,DLL
-PSV,Vitesse,0-1,/match/psv/vitesse/1994,1994,8,eredivisie,18,34,2,0,1,4,4,2,1,11,6,LWDWWWD,3,0,0,9,3,3,6,0,1,18,3,LWLLLWW,3,0,0,9,1,WWW,LLL
-VVV Venlo,Willem II,0-0,/match/vvv/willem-ii/1994,1994,8,eredivisie,18,34,1,0,0,8,3,1,3,8,9,WDWWLWW,2,1,0,4,1,7,3,1,3,11,9,WWLWWDW,0,1,2,2,4,DWW,WWD
-PSV,RKC Waalwijk,1-1,/match/psv/rkc-waalwijk/1994,1994,9,eredivisie,18,34,1,1,1,5,4,2,2,11,7,LWDWWWDL,3,0,1,9,4,16,1,2,5,7,17,WLDLDWWL,0,2,2,3,9,WWWL,WDDW
-Willem II,Twente 1965,2-0,/match/willem-ii/fc-twente-1965/1994,1994,9,eredivisie,18,34,0,2,0,8,3,2,3,11,9,WWLWWDWD,3,0,1,9,5,10,4,1,3,16,10,WLWLLLDW,2,1,1,11,7,WLWW,LWLD
-MVV Maastricht,Cambuur,0-0,/match/mvv/sc-cambuur-leeuwarden/1994,1994,9,eredivisie,18,34,1,0,0,13,1,3,4,9,16,WDDDLWWW,1,2,1,4,5,18,0,0,8,4,22,WLWLWLWL,0,0,4,2,12,DDLW,WWWW
-Go Ahead Eagles,NAC Breda,0-0,/match/go-ahead-eagles/nac-breda/1994,1994,9,eredivisie,18,34,1,0,0,12,2,1,5,12,14,LWWWWWDW,2,1,1,11,7,7,5,0,3,16,10,LLWLLWLW,3,0,1,7,3,LWWD,LLWL
-Ajax,VVV Venlo,2-0,/match/ajax/vvv/1994,1994,9,eredivisie,18,34,0,2,0,1,7,1,0,19,2,WDWLWLWL,4,0,0,10,0,9,3,2,3,8,9,WDWWLWWD,1,0,3,4,8,WWWW,WWLW
-Sparta Rotterdam,Roda JC,2-0,/match/sparta-rotterdam/roda-jc/1994,1994,9,eredivisie,18,34,0,2,0,11,1,3,4,5,12,WWWDDWDW,1,3,0,4,3,4,5,2,1,17,10,LWLWDDWW,2,1,1,8,7,WDDD,LLDW
-Vitesse,Utrecht,2-2,/match/vitesse/fc-utrecht/1994,1994,9,eredivisie,18,34,1,2,2,3,7,0,1,19,3,LWLLLWWL,3,0,1,9,2,14,2,1,5,10,18,DWWLWLWW,0,1,3,4,12,WLWW,DWWW
-Heerenveen,Feyenoord,1-3,/match/heerenveen/feyenoord/1994,1994,9,eredivisie,18,34,2,1,3,6,4,2,2,6,6,WWDLDLWW,2,2,0,2,0,2,7,1,0,14,3,WDWLLWLW,3,1,0,9,3,WDDW,DLLL
-Groningen,FC Volendam,0-0,/match/fc-groningen/fc-volendam/1994,1994,9,eredivisie,18,34,1,0,0,17,2,0,6,8,18,LWLLLLLW,0,0,4,4,14,15,2,1,5,12,18,DWWWLWLL,1,0,3,3,7,LLLL,WWWL
-Roda JC,Vitesse,2-1,/match/roda-jc/vitesse/1994,1994,10,eredivisie,18,34,0,2,1,4,5,2,2,17,12,LWLWDDWWW,3,1,0,9,3,3,7,1,1,21,5,LWLLLWWLD,4,0,0,10,1,WWDW,LLLL
-VVV Venlo,MVV Maastricht,1-7,/match/vvv/mvv/1994,1994,10,eredivisie,18,34,2,1,7,10,3,2,4,8,11,WDWWLWWDW,2,2,0,4,1,13,1,4,4,9,16,WDDDLWWWD,0,1,3,5,11,DWWD,WDWW
-Cambuur,Sparta Rotterdam,1-1,/match/sc-cambuur-leeuwarden/sparta-rotterdam/1994,1994,10,eredivisie,18,34,1,1,1,18,0,1,8,4,22,WLWLWLWLD,0,0,4,2,10,9,2,3,4,7,12,WWWDDWDWW,0,0,4,1,9,LLLL,WWWW
-NAC Breda,Heerenveen,6-0,/match/nac-breda/heerenveen/1994,1994,10,eredivisie,18,34,0,6,0,8,5,1,3,16,10,LLWLLWLWD,2,0,2,9,7,7,4,2,3,7,9,WWDLDLWWL,2,0,2,4,6,LWLW,WLLW
-FC Volendam,Go Ahead Eagles,0-1,/match/fc-volendam/go-ahead-eagles/1994,1994,10,eredivisie,18,34,2,0,1,15,2,2,5,12,18,DWWWLWLLD,1,1,2,9,11,12,2,2,5,12,14,LWWWWWDWD,0,0,4,1,7,DWLL,WWWW
-Twente 1965,Ajax,2-1,/match/fc-twente-1965/ajax/1994,1994,10,eredivisie,18,34,0,2,1,11,4,1,4,16,12,WLWLLLDWW,2,0,2,5,3,1,8,1,0,21,2,WDWLWLWLW,3,1,0,9,2,WLLW,DLLL
-Utrecht,PSV,0-4,/match/fc-utrecht/psv/1994,1994,10,eredivisie,18,34,2,0,4,14,2,2,5,12,20,DWWLWLWWD,2,0,2,6,6,5,4,3,2,12,8,LWDWWWDLD,1,2,1,2,3,WLLW,LDWD
-Feyenoord,Willem II,2-0,/match/feyenoord/willem-ii/1994,1994,10,eredivisie,18,34,0,2,0,2,8,1,0,17,4,WDWLLWLWL,4,0,0,5,0,6,4,2,3,13,9,WWLWWDWDW,0,2,2,2,4,WWWW,WWDD
-RKC Waalwijk,Groningen,2-3,/match/rkc-waalwijk/fc-groningen/1994,1994,10,eredivisie,18,34,2,2,3,16,1,3,5,8,18,WLDLDWWLD,1,0,3,4,8,17,2,1,6,8,18,LWLLLLLWD,2,0,2,4,4,LLWL,WLLW
-MVV Maastricht,Twente 1965,0-2,/match/mvv/fc-twente-1965/1994,1994,11,eredivisie,18,34,2,0,2,13,2,4,4,16,17,WDDDLWWWDL,1,3,1,4,5,8,5,1,4,18,13,WLWLLLDWWW,2,1,2,11,9,DDLWD,LWLDW
-Go Ahead Eagles,Groningen,3-0,/match/go-ahead-eagles/fc-groningen/1994,1994,11,eredivisie,18,34,0,3,0,11,3,2,5,13,14,LWWWWWDWDL,2,2,1,11,7,16,3,1,6,11,20,LWLLLLLWDL,3,0,2,7,6,LWWDD,WLLWL
-PSV,Roda JC,2-0,/match/psv/roda-jc/1994,1994,11,eredivisie,18,34,0,2,0,5,5,3,2,16,8,LWDWWWDLDL,3,1,1,10,5,3,6,2,2,19,13,LWLWDDWWWW,2,1,2,8,9,WWWLD,LLDWW
-Heerenveen,FC Volendam,3-1,/match/heerenveen/fc-volendam/1994,1994,11,eredivisie,18,34,0,3,1,9,4,2,4,7,15,WWDLDLWWLW,2,2,1,3,3,15,2,2,6,12,19,DWWWLWLLDL,1,1,3,3,7,WDDWL,WWWLD
-Vitesse,Cambuur,2-1,/match/vitesse/sc-cambuur-leeuwarden/1994,1994,11,eredivisie,18,34,0,2,1,4,7,1,2,22,7,LWLLLWWLDW,3,1,1,11,4,18,0,2,8,5,23,WLWLWLWLDD,0,1,4,2,12,WLWWD,WWWWD
-Sparta Rotterdam,VVV Venlo,2-2,/match/sparta-rotterdam/vvv/1994,1994,11,eredivisie,18,34,1,2,2,10,2,4,4,8,13,WWWDDWDWWD,2,3,0,6,3,12,3,2,5,9,18,WDWWLWWDWL,1,0,4,4,10,WDDDW,WWLWW
-Ajax,Feyenoord,2-2,/match/ajax/feyenoord/1994,1994,11,eredivisie,18,34,1,2,2,2,8,1,1,22,4,WDWLWLWLWW,5,0,0,12,0,1,9,1,0,19,4,WDWLLWLWLW,4,1,0,12,4,WWWWW,DLLLL
-Utrecht,RKC Waalwijk,3-1,/match/fc-utrecht/rkc-waalwijk/1994,1994,11,eredivisie,18,34,0,3,1,14,2,2,6,12,24,DWWLWLWWDL,2,0,3,6,10,17,1,3,6,10,21,WLDLDWWLDL,0,3,2,4,10,WLLWL,WDDWD
-Willem II,NAC Breda,2-0,/match/willem-ii/nac-breda/1994,1994,11,eredivisie,18,34,0,2,0,7,4,2,4,13,11,WWLWWDWDWW,4,0,1,11,5,6,6,1,3,22,10,LLWLLWLWDW,3,1,1,7,3,WLWWW,LLWLD
-VVV Venlo,Vitesse,2-1,/match/vvv/vitesse/1994,1994,12,eredivisie,18,34,0,2,1,12,3,3,5,11,20,WDWWLWWDWLD,2,2,1,5,8,3,8,1,2,24,8,LWLLLWWLDWW,4,0,1,11,3,DWWDL,LLLLW
-Roda JC,Utrecht,4-0,/match/roda-jc/fc-utrecht/1994,1994,12,eredivisie,18,34,0,4,0,5,6,2,3,19,15,LWLWDDWWWWW,4,1,0,11,4,13,3,2,6,15,25,DWWLWLWWDLW,0,2,3,6,14,WWDWW,DWWWD
-NAC Breda,Ajax,0-5,/match/nac-breda/ajax/1994,1994,12,eredivisie,18,34,2,0,5,8,6,1,4,22,12,LLWLLWLWDWW,3,0,2,15,7,2,8,2,1,24,6,WDWLWLWLWWD,3,1,1,10,4,LWLWW,DLLLW
-Cambuur,PSV,1-3,/match/sc-cambuur-leeuwarden/psv/1994,1994,12,eredivisie,18,34,2,1,3,18,0,2,9,6,25,WLWLWLWLDDW,0,1,4,3,11,4,6,3,2,18,8,LWDWWWDLDLW,2,2,1,6,3,LLLLD,LDWDL
-Groningen,Heerenveen,2-2,/match/fc-groningen/heerenveen/1994,1994,12,eredivisie,18,34,1,2,2,16,3,1,7,11,23,LWLLLLLWDLW,0,1,4,4,14,7,5,2,4,10,16,WWDLDLWWLWW,2,0,3,4,12,LLLLD,WLLWW
-Twente 1965,Sparta Rotterdam,0-0,/match/fc-twente-1965/sparta-rotterdam/1994,1994,12,eredivisie,18,34,1,0,0,9,6,1,4,20,13,WLWLLLDWWWL,3,0,2,7,4,11,2,5,4,10,15,WWWDDWDWWDD,0,1,4,2,10,WLLWW,WWWWD
-FC Volendam,Willem II,0-3,/match/fc-volendam/willem-ii/1994,1994,12,eredivisie,18,34,2,0,3,15,2,2,7,13,22,DWWWLWLLDLW,1,1,3,9,12,6,5,2,4,15,11,WWLWWDWDWWW,0,2,3,2,6,DWLLL,WWDDW
-Feyenoord,MVV Maastricht,4-0,/match/feyenoord/mvv/1994,1994,12,eredivisie,18,34,0,4,0,1,9,2,0,21,6,WDWLLWLWLWD,5,0,0,7,0,14,2,4,5,16,19,WDDDLWWWDLL,1,1,3,12,12,WWWWW,WDWWL
-RKC Waalwijk,Go Ahead Eagles,1-2,/match/rkc-waalwijk/go-ahead-eagles/1994,1994,12,eredivisie,18,34,2,1,2,17,1,3,7,11,24,WLDLDWWLDLW,1,0,4,6,11,10,4,2,5,16,14,LWWWWWDWDLW,1,0,4,2,7,LLWLL,WWWWL
-MVV Maastricht,NAC Breda,2-1,/match/mvv/nac-breda/1994,1994,13,eredivisie,18,34,0,2,1,14,2,4,6,16,23,WDDDLWWWDLLW,1,3,2,4,7,10,6,1,5,22,17,LLWLLWLWDWWL,3,1,2,7,5,DDLWDL,LLWLDW
-PSV,VVV Venlo,3-2,/match/psv/vvv/1994,1994,13,eredivisie,18,34,0,3,2,5,7,3,2,21,9,LWDWWWDLDLWL,4,1,1,12,5,11,4,3,5,13,21,WDWWLWWDWLDW,1,1,4,6,12,WWWLDW,WWLWWD
-Heerenveen,Go Ahead Eagles,1-4,/match/heerenveen/go-ahead-eagles/1994,1994,13,eredivisie,18,34,2,1,4,8,5,3,4,12,18,WWDLDLWWLWWD,3,2,1,6,4,9,5,2,5,18,15,LWWWWWDWDLWL,2,0,4,4,8,WDDWLW,WWWWLL
-Willem II,Groningen,4-1,/match/willem-ii/fc-groningen/1994,1994,13,eredivisie,18,34,0,4,1,6,6,2,4,18,11,WWLWWDWDWWWL,5,0,1,13,5,15,3,2,7,13,25,LWLLLLLWDLWD,3,0,3,7,9,WLWWWW,WLLWLW
-Ajax,FC Volendam,3-1,/match/ajax/fc-volendam/1994,1994,13,eredivisie,18,34,0,3,1,2,9,2,1,29,6,WDWLWLWLWWDL,5,1,0,14,2,16,2,2,8,13,25,DWWWLWLLDLWL,1,1,4,4,10,WWWWWD,WWWLDW
-Utrecht,Cambuur,2-0,/match/fc-utrecht/sc-cambuur-leeuwarden/1994,1994,13,eredivisie,18,34,0,2,0,13,3,2,7,15,29,DWWLWLWWDLWW,3,0,3,9,11,18,0,2,10,7,28,WLWLWLWLDDWL,0,1,5,3,14,WLLWLW,WWWWDW
-Roda JC,RKC Waalwijk,2-0,/match/roda-jc/rkc-waalwijk/1994,1994,13,eredivisie,18,34,0,2,0,3,7,2,3,23,15,LWLWDDWWWWWW,5,1,0,15,4,17,1,3,8,12,26,WLDLDWWLDLWL,0,3,3,5,13,WWDWWW,WDDWDW
-Sparta Rotterdam,Feyenoord,3-4,/match/sparta-rotterdam/feyenoord/1994,1994,13,eredivisie,18,34,2,3,4,12,2,6,4,10,15,WWWDDWDWWDDD,2,4,0,8,5,1,10,2,0,25,6,WDWLLWLWLWDW,4,2,0,14,6,WDDDWD,DLLLLD
-Vitesse,Twente 1965,3-0,/match/vitesse/fc-twente-1965/1994,1994,13,eredivisie,18,34,0,3,0,4,8,1,3,25,10,LWLLLWWLDWWW,4,1,1,13,5,7,6,2,4,20,13,WLWLLLDWWWLD,3,1,2,13,9,WLWWDW,LWLDWL
-VVV Venlo,Utrecht,1-1,/match/vvv/fc-utrecht/1994,1994,14,eredivisie,18,34,1,1,1,10,4,3,6,15,24,WDWWLWWDWLDWW,3,2,1,7,9,13,4,2,7,17,29,DWWLWLWWDLWWW,0,2,4,6,18,DWWDLW,DWWWDW
-Go Ahead Eagles,Willem II,3-0,/match/go-ahead-eagles/willem-ii/1994,1994,14,eredivisie,18,34,0,3,0,7,6,2,5,22,16,LWWWWWDWDLWLL,3,2,1,14,7,6,7,2,4,22,12,WWLWWDWDWWWLW,1,2,3,5,6,LWWDDW,WWDDWL
-NAC Breda,Sparta Rotterdam,4-3,/match/nac-breda/sparta-rotterdam/1994,1994,14,eredivisie,18,34,0,4,3,11,6,1,6,23,19,LLWLLWLWDWWLW,3,0,3,15,12,12,2,6,5,13,19,WWWDDWDWWDDDL,0,2,4,2,10,LWLWWL,WWWWDD
-Groningen,Ajax,0-4,/match/fc-groningen/ajax/1994,1994,14,eredivisie,18,34,2,0,4,15,3,2,8,14,29,LWLLLLLWDLWDW,0,2,4,6,16,2,10,2,1,32,7,WDWLWLWLWWDLW,4,1,1,15,4,LLLLDD,DLLLWL
-FC Volendam,MVV Maastricht,5-0,/match/fc-volendam/mvv/1994,1994,14,eredivisie,18,34,0,5,0,16,2,2,9,14,28,DWWWLWLLDLWLW,1,1,4,9,15,14,3,4,6,18,24,WDDDLWWWDLLWW,1,1,4,12,16,DWLLLL,WDWWLW
-Feyenoord,Vitesse,1-1,/match/feyenoord/vitesse/1994,1994,14,eredivisie,18,34,1,1,1,1,11,2,0,29,9,WDWLLWLWLWDWL,6,0,0,11,0,4,9,1,3,28,10,LWLLLWWLDWWWW,4,0,2,12,5,WWWWWW,LLLLWW
-RKC Waalwijk,Heerenveen,1-1,/match/rkc-waalwijk/heerenveen/1994,1994,14,eredivisie,18,34,1,1,1,17,1,3,9,12,28,WLDLDWWLDLWLW,1,0,5,7,13,9,5,3,5,13,22,WWDLDLWWLWWDL,2,1,3,6,14,LLWLLL,WLLWWD
-Cambuur,Roda JC,0-1,/match/sc-cambuur-leeuwarden/roda-jc/1994,1994,14,eredivisie,18,34,2,0,1,18,0,2,11,7,30,WLWLWLWLDDWLW,0,1,5,4,14,3,8,2,3,25,15,LWLWDDWWWWWWW,2,1,3,8,11,LLLLDL,LLDWWW
-Twente 1965,PSV,0-0,/match/fc-twente-1965/psv/1994,1994,14,eredivisie,18,34,1,0,0,8,6,2,5,20,16,WLWLLLDWWWLDW,3,1,2,7,4,5,8,3,2,24,11,LWDWWWDLDLWLW,3,2,1,9,4,WLLWWD,LDWDLL
-Willem II,Heerenveen,1-1,/match/willem-ii/heerenveen/1994,1994,15,eredivisie,18,34,1,1,1,6,7,2,5,22,15,WWLWWDWDWWWLWW,6,0,1,17,6,10,5,4,5,14,23,WWDLDLWWLWWDLD,2,2,3,7,15,WLWWWWW,WLLWWDD
-Roda JC,VVV Venlo,0-0,/match/roda-jc/vvv/1994,1994,15,eredivisie,18,34,1,0,0,3,9,2,3,26,15,LWLWDDWWWWWWWL,6,1,0,17,4,11,4,4,6,16,25,WDWWLWWDWLDWWD,1,1,5,8,15,WWDWWWW,WWLWWDW
-Utrecht,Twente 1965,1-0,/match/fc-utrecht/fc-twente-1965/1994,1994,15,eredivisie,18,34,0,1,0,12,4,3,7,18,30,DWWLWLWWDLWWWD,4,0,3,11,11,9,6,3,5,20,16,WLWLLLDWWWLDWD,3,1,3,13,12,WLLWLWW,LWLDWLW
-PSV,Feyenoord,1-3,/match/psv/feyenoord/1994,1994,15,eredivisie,18,34,2,1,3,5,8,4,2,24,11,LWDWWWDLDLWLWD,5,1,1,15,7,1,11,3,0,30,10,WDWLLWLWLWDWLD,5,2,0,18,9,WWWLDWW,DLLLLDL
-Ajax,Go Ahead Eagles,4-0,/match/ajax/go-ahead-eagles/1994,1994,15,eredivisie,18,34,0,4,0,2,11,2,1,36,7,WDWLWLWLWWDLWL,6,1,0,17,3,7,7,2,5,25,16,LWWWWWDWDLWLLW,3,0,4,8,9,WWWWWDW,WWWWLLL
-Cambuur,RKC Waalwijk,1-1,/match/sc-cambuur-leeuwarden/rkc-waalwijk/1994,1994,15,eredivisie,18,34,1,1,1,18,0,2,12,7,31,WLWLWLWLDDWLWL,0,1,6,4,15,17,1,4,9,13,29,WLDLDWWLDLWLWD,0,3,4,5,15,LLLLDLL,WDDWDWW
-Sparta Rotterdam,FC Volendam,4-1,/match/sparta-rotterdam/fc-volendam/1994,1994,15,eredivisie,18,34,0,4,1,13,2,6,6,16,23,WWWDDWDWWDDDLW,2,4,1,11,9,15,3,2,9,19,28,DWWWLWLLDLWLWW,1,1,5,5,13,WDDDWDL,WWWLDWW
-Vitesse,NAC Breda,3-1,/match/vitesse/nac-breda/1994,1994,15,eredivisie,18,34,0,3,1,4,9,2,3,29,11,LWLLLWWLDWWWWD,5,1,1,16,5,8,7,1,6,27,22,LLWLLWLWDWWLWW,3,1,3,8,7,WLWWDWW,LLWLDWW
-MVV Maastricht,Groningen,2-0,/match/mvv/fc-groningen/1994,1994,15,eredivisie,18,34,0,2,0,14,3,4,7,18,29,WDDDLWWWDLLWWW,2,3,2,6,8,16,3,2,9,14,33,LWLLLLLWDLWDWL,3,0,4,8,13,DDLWDLW,WLLWLWW
-Go Ahead Eagles,MVV Maastricht,2-2,/match/go-ahead-eagles/mvv/1994,1994,16,eredivisie,18,34,1,2,2,7,7,2,6,25,20,LWWWWWDWDLWLLWW,4,2,1,17,7,14,4,4,7,20,29,WDDDLWWWDLLWWWW,1,1,5,12,21,LWWDDWW,WDWWLWW
-NAC Breda,PSV,2-2,/match/nac-breda/psv/1994,1994,16,eredivisie,18,34,1,2,2,11,7,1,7,28,25,LLWLLWLWDWWLWWW,4,0,3,19,15,5,8,4,3,25,14,LWDWWWDLDLWLWDL,3,3,1,9,4,LWLWWLW,LDWDLLD
-Groningen,Sparta Rotterdam,1-4,/match/fc-groningen/sparta-rotterdam/1994,1994,16,eredivisie,18,34,2,1,4,16,3,2,10,14,35,LWLLLLLWDLWDWLW,0,2,5,6,20,13,3,6,6,20,24,WWWDDWDWWDDDLWW,0,2,5,5,14,LLLLDDL,WWWWDDW
-Willem II,RKC Waalwijk,4-1,/match/willem-ii/rkc-waalwijk/1994,1994,16,eredivisie,18,34,0,4,1,6,7,3,5,23,16,WWLWWDWDWWWLWWD,6,1,1,18,7,17,1,5,9,14,30,WLDLDWWLDLWLWDD,0,4,4,6,16,WLWWWWWD,WDDWDWWD
-Twente 1965,Roda JC,2-1,/match/fc-twente-1965/roda-jc/1994,1994,16,eredivisie,18,34,0,2,1,10,6,3,6,20,17,WLWLLLDWWWLDWDW,3,2,2,7,4,3,9,3,3,26,15,LWLWDDWWWWWWWLD,3,1,3,9,11,WLLWWDD,LLDWWWL
-FC Volendam,Vitesse,2-0,/match/fc-volendam/vitesse/1994,1994,16,eredivisie,18,34,0,2,0,15,3,2,10,20,32,DWWWLWLLDLWLWWW,2,1,4,14,15,4,10,2,3,32,12,LWLLLWWLDWWWWDW,4,1,2,13,6,DWLLLLW,LLLLWWD
-Feyenoord,Utrecht,1-1,/match/feyenoord/fc-utrecht/1994,1994,16,eredivisie,18,34,1,1,1,2,12,3,0,33,11,WDWLLWLWLWDWLDL,6,1,0,12,1,8,5,3,7,19,30,DWWLWLWWDLWWWDW,0,3,4,7,19,WWWWWWD,DWWWDWD
-VVV Venlo,Cambuur,1-0,/match/vvv/sc-cambuur-leeuwarden/1994,1994,16,eredivisie,18,34,0,1,0,12,4,5,6,16,25,WDWWLWWDWLDWWDD,3,3,1,8,10,18,0,3,12,8,32,WLWLWLWLDDWLWLD,0,1,6,3,16,DWWDLWD,WWWWDWW
-Heerenveen,Ajax,1-4,/match/heerenveen/ajax/1994,1994,16,eredivisie,18,34,2,1,4,9,5,5,5,15,24,WWDLDLWWLWWDLDD,3,2,2,7,8,1,12,2,1,40,7,WDWLWLWLWWDLWLW,5,1,1,19,4,WDDWLWL,DLLLWLL
-Cambuur,Twente 1965,1-1,/match/sc-cambuur-leeuwarden/fc-twente-1965/1994,1994,17,eredivisie,18,34,1,1,1,18,0,3,13,8,33,WLWLWLWLDDWLWLDW,0,2,6,5,16,8,7,3,6,22,18,WLWLLLDWWWLDWDWW,3,1,4,13,13,LLLLDLLD,LWLDWLWW
-Roda JC,Feyenoord,1-0,/match/roda-jc/feyenoord/1994,1994,17,eredivisie,18,34,0,1,0,3,9,3,4,27,17,LWLWDDWWWWWWWLDW,6,2,0,17,4,2,12,4,0,34,12,WDWLLWLWLWDWLDLD,6,2,0,21,10,WWDWWWWD,DLLLLDLL
-MVV Maastricht,Heerenveen,3-1,/match/mvv/heerenveen/1994,1994,17,eredivisie,18,34,0,3,1,14,4,5,7,22,31,WDDDLWWWDLLWWWWD,3,3,2,8,8,13,5,5,6,16,28,WWDLDLWWLWWDLDDL,2,3,3,8,16,DDLWDLWW,WLLWWDDD
-PSV,FC Volendam,3-0,/match/psv/fc-volendam/1994,1994,17,eredivisie,18,34,0,3,0,6,8,5,3,27,16,LWDWWWDLDLWLWDLD,5,1,2,16,10,15,4,2,10,22,32,DWWWLWLLDLWLWWWW,1,1,6,6,17,WWWLDWWL,WWWLDWWW
-Ajax,Willem II,3-1,/match/ajax/willem-ii/1994,1994,17,eredivisie,18,34,0,3,1,1,13,2,1,44,8,WDWLWLWLWWDLWLWL,7,1,0,21,3,5,8,3,5,27,17,WWLWWDWDWWWLWWDW,1,2,4,5,9,WWWWWDWW,WWDDWLW
-Utrecht,NAC Breda,0-5,/match/fc-utrecht/nac-breda/1994,1994,17,eredivisie,18,34,2,0,5,11,5,4,7,20,31,DWWLWLWWDLWWWDWD,5,0,3,12,11,10,7,2,7,30,27,LLWLLWLWDWWLWWWD,3,1,4,9,10,WLLWLWWW,LLWLDWWW
-RKC Waalwijk,VVV Venlo,1-2,/match/rkc-waalwijk/vvv/1994,1994,17,eredivisie,18,34,2,1,2,17,1,5,10,15,34,WLDLDWWLDLWLWDDW,1,1,5,8,14,9,5,5,6,17,25,WDWWLWWDWLDWWDDW,1,2,5,8,15,LLWLLLD,WWLWWDWD
-Sparta Rotterdam,Go Ahead Eagles,1-0,/match/sparta-rotterdam/go-ahead-eagles/1994,1994,17,eredivisie,18,34,0,1,0,12,4,6,6,24,25,WWWDDWDWWDDDLWWL,3,4,1,15,10,7,7,3,6,27,22,LWWWWWDWDLWLLWWD,3,0,5,8,13,WDDDWDLW,WWWWLLLW
-Vitesse,Groningen,4-1,/match/vitesse/fc-groningen/1994,1994,17,eredivisie,18,34,0,4,1,4,10,2,4,32,14,LWLLLWWLDWWWWDWW,6,1,1,19,6,16,3,2,11,15,39,LWLLLLLWDLWDWLWL,3,0,5,8,15,WLWWDWWW,WLLWLWWW
-MVV Maastricht,Willem II,1-0,/match/mvv/willem-ii/1994,1994,18,eredivisie,18,34,0,1,0,12,5,5,7,25,32,WDDDLWWWDLLWWWWDW,4,3,2,11,9,6,8,3,6,28,20,WWLWWDWDWWWLWWDWW,1,2,5,6,12,DDLWDLWWW,WWDDWLWW
-PSV,Groningen,1-1,/match/psv/fc-groningen/1994,1994,18,eredivisie,18,34,1,1,1,5,9,5,3,30,16,LWDWWWDLDLWLWDLDW,6,1,2,19,10,16,3,2,12,16,43,LWLLLLLWDLWDWLWLW,3,0,6,9,19,WWWLDWWLW,WLLWLWWWW
-VVV Venlo,Twente 1965,0-0,/match/vvv/fc-twente-1965/1994,1994,18,eredivisie,18,34,1,0,0,10,6,5,6,19,26,WDWWLWWDWLDWWDDWL,4,3,1,9,10,9,7,4,6,23,19,WLWLLLDWWWLDWDWWD,3,2,4,14,14,DWWDLWDW,LWLDWLWWD
-Utrecht,FC Volendam,3-1,/match/fc-utrecht/fc-volendam/1994,1994,18,eredivisie,18,34,0,3,1,13,5,4,8,20,36,DWWLWLWWDLWWWDWDL,5,0,4,12,16,15,4,2,11,22,35,DWWWLWLLDLWLWWWWW,1,1,7,6,20,WLLWLWWWL,WWWLDWWWW
-Sparta Rotterdam,Heerenveen,3-0,/match/sparta-rotterdam/heerenveen/1994,1994,18,eredivisie,18,34,0,3,0,7,5,6,6,25,25,WWWDDWDWWDDDLWWLW,4,4,1,16,10,14,5,5,7,17,31,WWDLDLWWLWWDLDDLW,2,3,4,9,19,WDDDWDLWW,WLLWWDDDW
-Vitesse,Go Ahead Eagles,5-0,/match/vitesse/go-ahead-eagles/1994,1994,18,eredivisie,18,34,0,5,0,4,11,2,4,36,15,LWLLLWWLDWWWWDWWW,7,1,1,23,7,8,7,3,7,27,23,LWWWWWDWDLWLLWWDW,3,0,6,8,14,WLWWDWWWW,WWWWLLLWW
-RKC Waalwijk,Ajax,0-3,/match/rkc-waalwijk/ajax/1994,1994,18,eredivisie,18,34,2,0,3,17,1,5,11,16,36,WLDLDWWLDLWLWDDWL,1,1,6,9,16,1,14,2,1,47,9,WDWLWLWLWWDLWLWLW,6,1,1,23,5,LLWLLLDL,DLLLWLLL
-Roda JC,NAC Breda,1-2,/match/roda-jc/nac-breda/1994,1994,18,eredivisie,18,34,2,1,2,3,10,3,4,28,17,LWLWDDWWWWWWWLDWW,7,2,0,18,4,11,8,2,7,35,27,LLWLLWLWDWWLWWWDL,4,1,4,14,10,WWDWWWWDW,LLWLDWWWL
-Cambuur,Feyenoord,0-0,/match/sc-cambuur-leeuwarden/feyenoord/1994,1994,18,eredivisie,18,34,1,0,0,18,0,4,13,9,34,WLWLWLWLDDWLWLDWD,0,3,6,6,17,2,12,4,1,34,13,WDWLLWLWLWDWLDLDW,6,2,1,21,11,LLLLDLLDD,DLLLLDLLW
-Go Ahead Eagles,PSV,0-4,/match/go-ahead-eagles/psv/1994,1994,19,eredivisie,18,34,2,0,4,12,7,3,8,27,28,LWWWWWDWDLWLLWWDWW,4,3,1,19,9,5,9,6,3,31,17,LWDWWWDLDLWLWDLDWD,3,4,1,11,6,LWWDDWWD,LDWDLLDD
-NAC Breda,Cambuur,2-0,/match/nac-breda/sc-cambuur-leeuwarden/1994,1994,19,eredivisie,18,34,0,2,0,11,9,2,7,37,28,LLWLLWLWDWWLWWWDLL,4,1,3,21,17,18,0,5,13,9,34,WLWLWLWLDDWLWLDWDD,0,1,7,3,17,LWLWWLWD,WWWWDWWW
-Heerenveen,Vitesse,0-4,/match/heerenveen/vitesse/1994,1994,19,eredivisie,18,34,2,0,4,14,5,5,8,17,34,WWDLDLWWLWWDLDDLWW,3,2,3,8,12,3,12,2,4,41,15,LWLLLWWLDWWWWDWWWW,4,1,3,13,8,WDDWLWLL,LLLLWWDW
-Willem II,Sparta Rotterdam,5-1,/match/willem-ii/sparta-rotterdam/1994,1994,19,eredivisie,18,34,0,5,1,6,8,3,7,28,21,WWLWWDWDWWWLWWDWWW,7,1,1,22,8,7,6,6,6,28,25,WWWDDWDWWDDDLWWLWW,1,2,5,9,15,WLWWWWWDW,WWWWDDWL
-Ajax,MVV Maastricht,4-1,/match/ajax/mvv/1994,1994,19,eredivisie,18,34,0,4,1,1,15,2,1,50,9,WDWLWLWLWWDLWLWLWL,8,1,0,24,4,8,6,5,7,26,32,WDDDLWWWDLLWWWWDWW,1,2,5,14,23,WWWWWDWWW,WDWWLWWD
-Groningen,Utrecht,4-1,/match/fc-groningen/fc-utrecht/1994,1994,19,eredivisie,18,34,0,4,1,16,3,3,12,17,44,LWLLLLLWDLWDWLWLWD,0,2,6,7,24,13,6,4,8,23,37,DWWLWLWWDLWWWDWDLW,0,4,4,8,20,LLLLDDLL,DWWWDWDD
-Twente 1965,RKC Waalwijk,2-1,/match/fc-twente-1965/rkc-waalwijk/1994,1994,19,eredivisie,18,34,0,2,1,10,7,5,6,23,19,WLWLLLDWWWLDWDWWDD,4,2,2,9,5,17,1,5,12,16,39,WLDLDWWLDLWLWDDWLL,0,4,5,7,20,WLLWWDDW,WDDWDWWDW
-Feyenoord,VVV Venlo,5-0,/match/feyenoord/vvv/1994,1994,19,eredivisie,18,34,0,5,0,2,12,5,1,34,13,WDWLLWLWLWDWLDLDWD,6,2,0,13,2,9,6,6,6,19,26,WDWWLWWDWLDWWDDWLD,2,2,5,10,16,WWWWWWDD,WWLWWDWDL
-FC Volendam,Roda JC,2-0,/match/fc-volendam/roda-jc/1994,1994,19,eredivisie,18,34,0,2,0,15,4,2,12,23,38,DWWWLWLLDLWLWWWWWW,3,1,4,16,15,4,10,3,5,29,19,LWLWDDWWWWWWWLDWWL,3,1,4,10,13,DWLLLLWW,LLDWWWLW
-VVV Venlo,NAC Breda,1-1,/match/vvv/nac-breda/1994,1994,20,eredivisie,18,34,1,1,1,10,6,6,7,19,31,WDWWLWWDWLDWWDDWLDW,4,4,1,9,10,7,10,2,7,39,28,LLWLLWLWDWWLWWWDLLW,5,1,4,16,11,DWWDLWDWD,LLWLDWWWLL
-Cambuur,FC Volendam,3-1,/match/sc-cambuur-leeuwarden/fc-volendam/1994,1994,20,eredivisie,18,34,0,3,1,18,0,5,14,9,36,WLWLWLWLDDWLWLDWDDW,0,4,6,6,17,15,5,2,12,25,38,DWWWLWLLDLWLWWWWWWW,1,1,8,7,23,LLLLDLLDDD,WWWLDWWWWW
-PSV,Heerenveen,1-1,/match/psv/heerenveen/1994,1994,20,eredivisie,18,34,1,1,1,4,10,6,3,35,17,LWDWWWDLDLWLWDLDWDL,6,2,2,20,11,14,5,5,9,17,38,WWDLDLWWLWWDLDDLWWL,2,3,5,9,22,WWWLDWWLWD,WLLWWDDDWW
-Vitesse,Willem II,0-1,/match/vitesse/willem-ii/1994,1994,20,eredivisie,18,34,2,0,1,3,13,2,4,45,15,LWLLLWWLDWWWWDWWWWL,8,1,1,28,7,6,9,3,7,33,22,WWLWWDWDWWWLWWDWWWW,1,2,6,6,13,WLWWDWWWWW,WWDDWLWWW
-Utrecht,Go Ahead Eagles,2-0,/match/fc-utrecht/go-ahead-eagles/1994,1994,20,eredivisie,18,34,0,2,0,13,6,4,9,24,41,DWWLWLWWDLWWWDWDLWW,6,0,4,15,17,12,7,3,9,27,32,LWWWWWDWDLWLLWWDWWL,3,0,7,8,19,WLLWLWWWLW,WWWWLLLWWW
-Sparta Rotterdam,Ajax,0-1,/match/sparta-rotterdam/ajax/1994,1994,20,eredivisie,18,34,2,0,1,9,6,6,7,29,30,WWWDDWDWWDDDLWWLWWW,5,4,1,19,10,1,16,2,1,54,10,WDWLWLWLWWDLWLWLWLW,7,1,1,26,5,WDDDWDLWWW,DLLLWLLLL
-RKC Waalwijk,MVV Maastricht,0-2,/match/rkc-waalwijk/mvv/1994,1994,20,eredivisie,18,34,2,0,2,17,1,5,13,17,41,WLDLDWWLDLWLWDDWLLW,1,1,7,9,19,11,6,5,8,27,36,WDDDLWWWDLLWWWWDWWW,1,2,6,15,27,LLWLLLDLL,WDWWLWWDW
-Roda JC,Groningen,2-0,/match/roda-jc/fc-groningen/1994,1994,20,eredivisie,18,34,0,2,0,5,10,3,6,29,21,LWLWDDWWWWWWWLDWWLW,7,2,1,19,6,16,4,3,12,21,45,LWLLLLLWDLWDWLWLWDW,3,1,6,10,20,WWDWWWWDWL,WLLWLWWWWD
-Twente 1965,Feyenoord,1-1,/match/fc-twente-1965/feyenoord/1994,1994,20,eredivisie,18,34,1,1,1,8,8,5,6,25,20,WLWLLLDWWWLDWDWWDDW,5,2,2,11,6,2,13,5,1,39,13,WDWLLWLWLWDWLDLDWDW,6,3,1,21,11,WLLWWDDWW,DLLLLDLLWD
-Go Ahead Eagles,Roda JC,3-1,/match/go-ahead-eagles/roda-jc/1994,1994,21,eredivisie,18,34,0,3,1,13,7,3,10,27,34,LWWWWWDWDLWLLWWDWWLW,4,3,2,19,13,4,11,3,6,31,21,LWLWDDWWWWWWWLDWWLWW,3,1,5,10,15,LWWDDWWDL,LLDWWWLWW
-NAC Breda,Twente 1965,2-1,/match/nac-breda/fc-twente-1965/1994,1994,21,eredivisie,18,34,0,2,1,8,10,3,7,40,29,LLWLLWLWDWWLWWWDLLWD,5,1,3,23,17,7,8,6,6,26,21,WLWLLLDWWWLDWDWWDDWD,3,3,4,14,14,LWLWWLWDW,LWLDWLWWDD
-Heerenveen,Utrecht,1-0,/match/heerenveen/fc-utrecht/1994,1994,21,eredivisie,18,34,0,1,0,14,5,6,9,18,39,WWDLDLWWLWWDLDDLWWLD,3,2,4,8,16,10,7,4,9,26,41,DWWLWLWWDLWWWDWDLWWW,0,4,5,9,24,WDDWLWLLL,DWWWDWDDW
-Ajax,Vitesse,3-1,/match/ajax/vitesse/1994,1994,21,eredivisie,18,34,0,3,1,1,17,2,1,55,10,WDWLWLWLWWDLWLWLWLWL,9,1,0,28,5,3,13,2,5,45,16,LWLLLWWLDWWWWDWWWWLL,5,1,3,17,8,WWWWWDWWWW,LLLLWWDWL
-Groningen,Cambuur,2-2,/match/fc-groningen/sc-cambuur-leeuwarden/1994,1994,21,eredivisie,18,34,1,2,2,16,4,3,13,21,47,LWLLLLLWDLWDWLWLWDWW,1,2,6,11,25,17,1,5,14,12,37,WLWLWLWLDDWLWLDWDDWW,0,1,8,3,19,LLLLDDLLW,WWWWDWWWW
-FC Volendam,VVV Venlo,1-1,/match/fc-volendam/vvv/1994,1994,21,eredivisie,18,34,1,1,1,15,5,2,13,26,41,DWWWLWLLDLWLWWWWWWWW,4,1,4,18,15,11,6,7,7,20,32,WDWWLWWDWLDWWDDWLDWD,2,2,6,10,21,DWLLLLWWW,WWLWWDWDLW
-Feyenoord,RKC Waalwijk,1-1,/match/feyenoord/rkc-waalwijk/1994,1994,21,eredivisie,18,34,1,1,1,2,13,6,1,40,14,WDWLLWLWLWDWLDLDWDWD,7,2,0,18,2,18,1,5,14,17,43,WLDLDWWLDLWLWDDWLLWL,0,4,6,8,22,WWWWWWDDW,WDDWDWWDWW
-MVV Maastricht,Sparta Rotterdam,0-0,/match/mvv/sparta-rotterdam/1994,1994,21,eredivisie,18,34,1,0,0,9,7,5,8,29,36,WDDDLWWWDLLWWWWDWWWL,5,3,2,12,9,12,6,6,8,29,31,WWWDDWDWWDDDLWWLWWWL,1,2,6,10,20,DDLWDLWWWW,WWWWDDWLW
-Willem II,PSV,1-1,/match/willem-ii/psv/1994,1994,21,eredivisie,18,34,1,1,1,6,10,3,7,34,22,WWLWWDWDWWWLWWDWWWWL,8,1,1,27,9,5,10,7,3,36,18,LWDWWWDLDLWLWDLDWDLD,4,4,1,15,6,WLWWWWWDWW,LDWDLLDDL
-Cambuur,Go Ahead Eagles,1-0,/match/sc-cambuur-leeuwarden/go-ahead-eagles/1994,1994,22,eredivisie,18,34,0,1,0,17,1,6,14,14,39,WLWLWLWLDDWLWLDWDDWWD,1,4,6,9,18,12,8,3,10,30,35,LWWWWWDWDLWLLWWDWWLWW,3,0,8,8,21,LLLLDLLDDDW,WWWWLLLWWWW
-VVV Venlo,Groningen,1-3,/match/vvv/fc-groningen/1994,1994,22,eredivisie,18,34,2,1,3,10,6,8,7,21,33,WDWWLWWDWLDWWDDWLDWDD,4,5,1,10,11,16,4,4,13,23,49,LWLLLLLWDLWDWLWLWDWWD,3,1,7,10,22,DWWDLWDWDD,WLLWLWWWWDW
-Vitesse,MVV Maastricht,1-3,/match/vitesse/mvv/1994,1994,22,eredivisie,18,34,2,1,3,3,13,2,6,46,19,LWLLLWWLDWWWWDWWWWLLW,8,1,2,28,8,9,7,6,8,29,36,WDDDLWWWDLLWWWWDWWWLD,2,2,6,17,27,WLWWDWWWWWL,WDWWLWWDWL
-RKC Waalwijk,Sparta Rotterdam,3-1,/match/rkc-waalwijk/sparta-rotterdam/1994,1994,22,eredivisie,18,34,0,3,1,18,1,6,14,18,44,WLDLDWWLDLWLWDDWLLWLD,1,1,8,9,21,11,6,7,8,29,31,WWWDDWDWWDDDLWWLWWWLD,1,3,6,10,20,LLWLLLDLLL,WWWWDDWLWD
-Roda JC,Heerenveen,1-1,/match/roda-jc/heerenveen/1994,1994,22,eredivisie,18,34,1,1,1,4,11,3,7,32,24,LWLWDDWWWWWWWLDWWLWWW,8,2,1,21,6,14,6,6,9,19,39,WWDLDLWWLWWDLDDLWWLDW,2,4,5,10,23,WWDWWWWDWLW,WLLWWDDDWWD
-PSV,Ajax,4-1,/match/psv/ajax/1994,1994,22,eredivisie,18,34,0,4,1,5,10,8,3,37,19,LWDWWWDLDLWLWDLDWDLDD,6,3,2,21,12,1,18,2,1,58,11,WDWLWLWLWWDLWLWLWLWLW,8,1,1,27,5,WWWLDWWLWDD,DLLLWLLLLL
-Feyenoord,NAC Breda,1-1,/match/feyenoord/nac-breda/1994,1994,22,eredivisie,18,34,1,1,1,2,13,7,1,41,15,WDWLLWLWLWDWLDLDWDWDD,7,3,0,19,3,7,11,3,7,42,30,LLWLLWLWDWWLWWWDLLWDW,5,2,4,17,12,WWWWWWDDWD,LLWLDWWWLLD
-Twente 1965,FC Volendam,2-0,/match/fc-twente-1965/fc-volendam/1994,1994,22,eredivisie,18,34,0,2,0,8,8,6,7,27,23,WLWLLLDWWWLDWDWWDDWDW,5,3,2,12,7,15,5,3,13,27,42,DWWWLWLLDLWLWWWWWWWWD,1,1,9,8,26,WLLWWDDWWD,WWWLDWWWWWW
-Utrecht,Willem II,1-1,/match/fc-utrecht/willem-ii/1994,1994,22,eredivisie,18,34,1,1,1,13,7,4,10,26,42,DWWLWLWWDLWWWDWDLWWWW,7,0,4,17,17,6,10,4,7,35,23,WWLWWDWDWWWLWWDWWWWLD,2,2,6,7,13,WLLWLWWWLWW,WWDDWLWWWL
-MVV Maastricht,PSV,2-1,/match/mvv/psv/1994,1994,23,eredivisie,18,34,0,2,1,9,8,6,8,32,37,WDDDLWWWDLLWWWWDWWWLDL,5,4,2,12,9,3,11,8,3,41,20,LWDWWWDLDLWLWDLDWDLDDW,4,5,1,16,7,DDLWDLWWWWD,LDWDLLDDLD
-Heerenveen,Cambuur,1-2,/match/heerenveen/sc-cambuur-leeuwarden/1994,1994,23,eredivisie,18,34,2,1,2,14,6,7,9,20,40,WWDLDLWWLWWDLDDLWWLDWD,4,2,4,9,16,17,2,6,14,15,39,WLWLWLWLDDWLWLDWDDWWDW,0,2,8,5,21,WDDWLWLLLW,WWWWDWWWWD
-Go Ahead Eagles,VVV Venlo,2-0,/match/go-ahead-eagles/vvv/1994,1994,23,eredivisie,18,34,0,2,0,13,8,3,11,30,36,LWWWWWDWDLWLLWWDWWLWWW,5,3,2,22,14,11,6,8,8,22,36,WDWWLWWDWLDWWDDWLDWDDL,2,3,6,11,22,LWWDDWWDLW,WWLWWDWDLWD
-NAC Breda,RKC Waalwijk,3-0,/match/nac-breda/rkc-waalwijk/1994,1994,23,eredivisie,18,34,0,3,0,7,11,4,7,43,31,LLWLLWLWDWWLWWWDLLWDWD,6,1,3,25,18,18,2,6,14,21,45,WLDLDWWLDLWLWDDWLLWLDW,0,5,6,9,23,LWLWWLWDWW,WDDWDWWDWWD
-Willem II,Roda JC,0-3,/match/willem-ii/roda-jc/1994,1994,23,eredivisie,18,34,2,0,3,6,10,5,7,36,24,WWLWWDWDWWWLWWDWWWWLDD,8,2,1,28,10,5,11,4,7,33,25,LWLWDDWWWWWWWLDWWLWWWD,3,1,6,11,18,WLWWWWWDWWD,LLDWWWLWWW
-Ajax,Utrecht,3-0,/match/ajax/fc-utrecht/1994,1994,23,eredivisie,18,34,0,3,0,1,18,2,2,59,15,WDWLWLWLWWDLWLWLWLWLWW,10,1,0,31,6,10,7,5,10,27,43,DWWLWLWWDLWWWDWDLWWWWD,0,4,6,9,25,WWWWWDWWWWW,DWWWDWDDWW
-Groningen,Twente 1965,1-1,/match/fc-groningen/fc-twente-1965/1994,1994,23,eredivisie,18,34,1,1,1,16,5,4,13,26,50,LWLLLLLWDLWDWLWLWDWWDL,1,3,6,13,27,8,9,6,7,29,23,WLWLLLDWWWLDWDWWDDWDWW,3,3,5,15,16,LLLLDDLLWD,LWLDWLWWDDW
-FC Volendam,Feyenoord,0-1,/match/fc-volendam/feyenoord/1994,1994,23,eredivisie,18,34,2,0,1,15,5,3,14,27,44,DWWWLWLLDLWLWWWWWWWWDW,4,2,4,19,16,2,13,8,1,42,16,WDWLLWLWLWDWLDLDWDWDDD,6,4,1,22,12,DWLLLLWWWD,DLLLLDLLWDD
-Sparta Rotterdam,Vitesse,4-1,/match/sparta-rotterdam/vitesse/1994,1994,23,eredivisie,18,34,0,4,1,12,6,7,9,30,34,WWWDDWDWWDDDLWWLWWWLDW,5,4,2,19,11,4,13,2,7,47,22,LWLLLWWLDWWWWDWWWWLLWL,5,1,4,18,11,WDDDWDLWWWL,LLLLWWDWLW
-Twente 1965,Go Ahead Eagles,1-1,/match/fc-twente-1965/go-ahead-eagles/1994,1994,24,eredivisie,18,34,1,1,1,8,9,7,7,30,24,WLWLLLDWWWLDWDWWDDWDWWD,6,3,2,14,7,11,9,3,11,32,36,LWWWWWDWDLWLLWWDWWLWWWW,3,0,9,8,22,WLLWWDDWWDW,WWWWLLLWWWWW
-Utrecht,MVV Maastricht,3-0,/match/fc-utrecht/mvv/1994,1994,24,eredivisie,18,34,0,3,0,12,7,5,11,27,46,DWWLWLWWDLWWWDWDLWWWWDW,7,1,4,18,18,9,9,6,8,34,38,WDDDLWWWDLLWWWWDWWWLDLW,3,2,6,20,28,WLLWLWWWLWWD,WDWWLWWDWLL
-PSV,Sparta Rotterdam,2-1,/match/psv/sparta-rotterdam/1994,1994,24,eredivisie,18,34,0,2,1,3,11,8,4,42,22,LWDWWWDLDLWLWDLDWDLDDWW,7,3,2,25,13,10,7,7,9,34,35,WWWDDWDWWDDDLWWLWWWLDWW,1,3,7,11,23,WWWLDWWLWDDW,WWWWDDWLWDW
-NAC Breda,FC Volendam,3-1,/match/nac-breda/fc-volendam/1994,1994,24,eredivisie,18,34,0,3,1,7,12,4,7,46,31,LLWLLWLWDWWLWWWDLLWDWDW,7,1,3,28,18,15,5,3,15,27,45,DWWWLWLLDLWLWWWWWWWWDWL,1,1,10,8,28,LWLWWLWDWWW,WWWLDWWWWWWW
-Cambuur,Willem II,0-1,/match/sc-cambuur-leeuwarden/willem-ii/1994,1994,24,eredivisie,18,34,2,0,1,17,3,6,14,17,40,WLWLWLWLDDWLWLDWDDWWDWL,2,4,6,10,18,6,10,5,8,36,27,WWLWWDWDWWWLWWDWWWWLDDL,2,3,6,8,14,LLLLDLLDDDWW,WWDDWLWWWLD
-Feyenoord,Groningen,2-2,/match/feyenoord/fc-groningen/1994,1994,24,eredivisie,18,34,1,2,2,2,14,8,1,43,16,WDWLLWLWLWDWLDLDWDWDDDL,7,4,0,20,4,16,5,5,13,27,51,LWLLLLLWDLWDWLWLWDWWDLD,4,1,7,13,23,WWWWWWDDWDD,WLLWLWWWWDWL
-RKC Waalwijk,Vitesse,0-0,/match/rkc-waalwijk/vitesse/1994,1994,24,eredivisie,18,34,1,0,0,18,2,6,15,21,48,WLDLDWWLDLWLWDDWLLWLDWW,2,1,8,12,22,5,13,2,8,48,26,LWLLLWWLDWWWWDWWWWLLWLW,5,1,5,19,15,LLWLLLDLLLW,LLLLWWDWLWW
-Roda JC,Ajax,1-2,/match/roda-jc/ajax/1994,1994,24,eredivisie,18,34,2,1,2,4,12,4,7,36,25,LWLWDDWWWWWWWLDWWLWWWDL,8,3,1,22,7,1,19,2,2,62,15,WDWLWLWLWWDLWLWLWLWLWWW,8,1,2,28,9,WWDWWWWDWLWD,DLLLWLLLLLW
-VVV Venlo,Heerenveen,1-1,/match/vvv/heerenveen/1994,1994,24,eredivisie,18,34,1,1,1,13,6,8,9,22,38,WDWWLWWDWLDWWDDWLDWDDLW,4,5,2,11,14,14,6,7,10,21,42,WWDLDLWWLWWDLDDLWWLDWDL,2,5,5,11,24,DWWDLWDWDDL,WLLWWDDDWWDD
-MVV Maastricht,Roda JC,1-0,/match/mvv/roda-jc/1994,1994,25,eredivisie,18,34,0,1,0,9,9,6,9,34,41,WDDDLWWWDLLWWWWDWWWLDLWW,6,4,2,14,10,4,12,4,8,37,27,LWLWDDWWWWWWWLDWWLWWWDLL,4,1,6,14,18,DDLWDLWWWWDW,LLDWWWLWWWL
-Willem II,VVV Venlo,3-0,/match/willem-ii/vvv/1994,1994,25,eredivisie,18,34,0,3,0,7,11,5,8,37,27,WWLWWDWDWWWLWWDWWWWLDDLL,8,2,2,28,13,13,6,9,9,23,39,WDWWLWWDWLDWWDDWLDWDDLWD,2,3,7,11,24,WLWWWWWDWWDL,WWLWWDWDLWDW
-Ajax,Cambuur,3-2,/match/ajax/sc-cambuur-leeuwarden/1994,1994,25,eredivisie,18,34,0,3,2,1,20,2,2,64,16,WDWLWLWLWWDLWLWLWLWLWWWL,11,1,0,34,6,17,3,6,15,17,41,WLWLWLWLDDWLWLDWDDWWDWLL,1,2,8,7,22,WWWWWDWWWWWW,WWWWDWWWWDL
-Groningen,NAC Breda,0-0,/match/fc-groningen/nac-breda/1994,1994,25,eredivisie,18,34,1,0,0,16,5,6,13,29,53,LWLLLLLWDLWDWLWLWDWWDLDD,1,4,6,14,28,5,13,4,7,49,32,LLWLLWLWDWWLWWWDLLWDWDWW,5,3,4,18,13,LLLLDDLLWDD,LLWLDWWWLLDD
-FC Volendam,RKC Waalwijk,3-1,/match/fc-volendam/rkc-waalwijk/1994,1994,25,eredivisie,18,34,0,3,1,15,5,3,16,28,48,DWWWLWLLDLWLWWWWWWWWDWLW,4,2,5,19,17,18,2,7,15,21,48,WLDLDWWLDLWLWDDWLLWLDWWD,0,5,7,9,26,DWLLLLWWWDL,WDDWDWWDWWDW
-Go Ahead Eagles,Feyenoord,1-1,/match/go-ahead-eagles/feyenoord/1994,1994,25,eredivisie,18,34,1,1,1,12,9,4,11,33,37,LWWWWWDWDLWLLWWDWWLWWWWD,6,3,2,24,14,2,14,9,1,45,18,WDWLLWLWLWDWLDLDWDWDDDLD,7,4,1,23,12,LWWDDWWDLWW,DLLLLDLLWDDL
-Sparta Rotterdam,Utrecht,3-2,/match/sparta-rotterdam/fc-utrecht/1994,1994,25,eredivisie,18,34,0,3,2,11,7,7,10,35,37,WWWDDWDWWDDDLWWLWWWLDWWW,6,4,2,23,12,10,8,5,11,30,46,DWWLWLWWDLWWWDWDLWWWWDWW,0,4,7,9,28,WDDDWDLWWWLW,DWWWDWDDWWW
-Vitesse,PSV,0-0,/match/vitesse/psv/1994,1994,25,eredivisie,18,34,1,0,0,6,13,3,8,48,26,LWLLLWWLDWWWWDWWWWLLWLWD,8,1,3,29,11,3,12,8,4,44,23,LWDWWWDLDLWLWDLDWDLDDWWW,4,5,2,17,9,WLWWDWWWWWLL,LDWDLLDDLDW
-Heerenveen,Twente 1965,2-2,/match/heerenveen/fc-twente-1965/1994,1994,25,eredivisie,18,34,1,2,2,14,6,8,10,22,43,WWDLDLWWLWWDLDDLWWLDWDLD,4,2,5,10,18,8,9,8,7,31,25,WLWLLLDWWWLDWDWWDDWDWWDD,3,4,5,16,17,WDDWLWLLLWL,LWLDWLWWDDWD
-Feyenoord,Heerenveen,0-0,/match/feyenoord/heerenveen/1994,1994,26,eredivisie,18,34,1,0,0,2,14,10,1,46,19,WDWLLWLWLWDWLDLDWDWDDDLDD,7,5,0,22,6,14,6,9,10,24,45,WWDLDLWWLWWDLDDLWWLDWDLDD,2,6,5,12,25,WWWWWWDDWDDD,WLLWWDDDWWDDD
-Cambuur,MVV Maastricht,2-1,/match/sc-cambuur-leeuwarden/mvv/1994,1994,26,eredivisie,18,34,0,2,1,17,3,6,16,19,44,WLWLWLWLDDWLWLDWDDWWDWLLW,2,4,7,10,19,8,10,6,9,35,41,WDDDLWWWDLLWWWWDWWWLDLWWW,3,2,7,20,31,LLLLDLLDDDWWL,WDWWLWWDWLLW
-NAC Breda,Go Ahead Eagles,2-2,/match/nac-breda/go-ahead-eagles/1994,1994,26,eredivisie,18,34,1,2,2,5,13,5,7,49,32,LLWLLWLWDWWLWWWDLLWDWDWWD,8,1,3,31,19,11,9,5,11,34,38,LWWWWWDWDLWLLWWDWWLWWWWDD,3,1,9,9,23,LWLWWLWDWWWW,WWWWLLLWWWWWD
-VVV Venlo,Ajax,0-1,/match/vvv/ajax/1994,1994,26,eredivisie,18,34,2,0,1,13,6,9,10,23,42,WDWWLWWDWLDWWDDWLDWDDLWDW,4,6,2,12,15,1,21,2,2,67,18,WDWLWLWLWWDLWLWLWLWLWWWLW,9,1,2,30,10,DWWDLWDWDDLD,DLLLWLLLLLWL
-Roda JC,Sparta Rotterdam,4-0,/match/roda-jc/sparta-rotterdam/1994,1994,26,eredivisie,18,34,0,4,0,7,12,4,9,37,28,LWLWDDWWWWWWWLDWWLWWWDLLW,8,3,2,23,9,10,8,7,10,38,39,WWWDDWDWWDDDLWWLWWWLDWWWW,1,3,8,12,25,WWDWWWWDWLWDL,WWWWDDWLWDWW
-Utrecht,Vitesse,2-1,/match/fc-utrecht/vitesse/1994,1994,26,eredivisie,18,34,0,2,1,12,8,5,12,32,49,DWWLWLWWDLWWWDWDLWWWWDWWW,8,1,4,21,18,6,13,4,8,48,26,LWLLLWWLDWWWWDWWWWLLWLWDD,5,2,5,19,15,WLLWLWWWLWWDW,LLLLWWDWLWWD
-FC Volendam,Groningen,1-0,/match/fc-volendam/fc-groningen/1994,1994,26,eredivisie,18,34,0,1,0,15,6,3,16,31,49,DWWWLWLLDLWLWWWWWWWWDWLWW,5,2,5,22,18,16,5,7,13,29,53,LWLLLLLWDLWDWLWLWDWWDLDDD,4,2,7,15,25,DWLLLLWWWDLW,WLLWLWWWWDWLD
-RKC Waalwijk,PSV,1-1,/match/rkc-waalwijk/psv/1994,1994,26,eredivisie,18,34,1,1,1,18,2,7,16,22,51,WLDLDWWLDLWLWDDWLLWLDWWDW,2,2,8,12,22,3,12,9,4,44,23,LWDWWWDLDLWLWDLDWDLDDWWWD,4,6,2,17,9,LLWLLLDLLLWD,LDWDLLDDLDWD
-Twente 1965,Willem II,4-0,/match/fc-twente-1965/willem-ii/1994,1994,26,eredivisie,18,34,0,4,0,9,9,9,7,33,27,WLWLLLDWWWLDWDWWDDWDWWDDD,6,4,2,15,8,4,12,5,8,40,27,WWLWWDWDWWWLWWDWWWWLDDLLW,3,3,6,9,14,WLLWWDDWWDWD,WWDDWLWWWLDL
-Heerenveen,NAC Breda,1-3,/match/heerenveen/nac-breda/1994,1994,27,eredivisie,18,34,2,1,3,14,6,10,10,24,45,WWDLDLWWLWWDLDDLWWLDWDLDDD,4,3,5,12,20,5,13,6,7,51,34,LLWLLWLWDWWLWWWDLLWDWDWWDD,5,4,4,18,13,WDDWLWLLLWLD,LLWLDWWWLLDDD
-Go Ahead Eagles,FC Volendam,0-1,/match/go-ahead-eagles/fc-volendam/1994,1994,27,eredivisie,18,34,2,0,1,12,9,6,11,36,40,LWWWWWDWDLWLLWWDWWLWWWWDDD,6,4,2,25,15,15,7,3,16,32,49,DWWWLWLLDLWLWWWWWWWWDWLWWW,1,1,11,9,31,LWWDDWWDLWWD,WWWLDWWWWWWWW
-MVV Maastricht,VVV Venlo,0-0,/match/mvv/vvv/1994,1994,27,eredivisie,18,34,1,0,0,9,10,6,10,36,43,WDDDLWWWDLLWWWWDWWWLDLWWWW,7,4,2,15,10,13,6,9,11,23,43,WDWWLWWDWLDWWDDWLDWDDLWDWL,2,3,8,11,27,DDLWDLWWWWDWW,WWLWWDWDLWDWW
-Groningen,RKC Waalwijk,1-2,/match/fc-groningen/rkc-waalwijk/1994,1994,27,eredivisie,18,34,2,1,2,16,5,7,14,29,54,LWLLLLLWDLWDWLWLWDWWDLDDDW,1,5,6,14,28,18,2,8,16,23,52,WLDLDWWLDLWLWDDWLLWLDWWDWD,0,5,8,10,29,LLLLDDLLWDDD,WDDWDWWDWWDWW
-PSV,Utrecht,1-0,/match/psv/fc-utrecht/1994,1994,27,eredivisie,18,34,0,1,0,3,12,10,4,45,24,LWDWWWDLDLWLWDLDWDLDDWWWDD,8,3,2,27,14,10,9,5,12,34,50,DWWLWLWWDLWWWDWDLWWWWDWWWW,0,4,8,11,31,WWWLDWWLWDDWW,DWWWDWDDWWWW
-Sparta Rotterdam,Cambuur,4-0,/match/sparta-rotterdam/sc-cambuur-leeuwarden/1994,1994,27,eredivisie,18,34,0,4,0,11,8,7,11,38,43,WWWDDWDWWDDDLWWLWWWLDWWWWW,7,4,2,26,14,17,4,6,16,21,45,WLWLWLWLDDWLWLDWDDWWDWLLWW,1,2,9,9,25,WDDDWDLWWWLWW,WWWWDWWWWDLW
-Vitesse,Roda JC,1-3,/match/vitesse/roda-jc/1994,1994,27,eredivisie,18,34,2,1,3,7,13,4,9,49,28,LWLLLWWLDWWWWDWWWWLLWLWDDW,8,2,3,29,11,4,13,4,9,41,28,LWLWDDWWWWWWWLDWWLWWWDLLWW,4,1,7,14,19,WLWWDWWWWWLLD,LLDWWWLWWWLW
-Willem II,Feyenoord,2-1,/match/willem-ii/feyenoord/1994,1994,27,eredivisie,18,34,0,2,1,6,12,5,9,40,31,WWLWWDWDWWWLWWDWWWWLDDLLWW,9,2,2,31,13,2,14,11,1,46,19,WDWLLWLWLWDWLDLDWDWDDDLDDD,7,5,1,24,13,WLWWWWWDWWDLW,DLLLLDLLWDDLD
-Ajax,Twente 1965,6-0,/match/ajax/fc-twente-1965/1994,1994,27,eredivisie,18,34,0,6,0,1,22,2,2,68,18,WDWLWLWLWWDLWLWLWLWLWWWLWL,12,1,0,37,8,8,10,9,7,37,27,WLWLLLDWWWLDWDWWDDWDWWDDDW,3,5,5,18,19,WWWWWDWWWWWWW,LWLDWLWWDDWDD
-Roda JC,PSV,4-0,/match/roda-jc/psv/1994,1994,28,eredivisie,18,34,0,4,0,4,14,4,9,44,29,LWLWDDWWWWWWWLDWWLWWWDLLWWL,9,3,2,27,9,3,13,10,4,46,24,LWDWWWDLDLWLWDLDWDLDDWWWDDW,4,7,2,18,10,WWDWWWWDWLWDLW,LDWDLLDDLDWDD
-NAC Breda,Willem II,1-1,/match/nac-breda/willem-ii/1994,1994,28,eredivisie,18,34,1,1,1,6,14,6,7,54,35,LLWLLWLWDWWLWWWDLLWDWDWWDDL,8,2,3,33,21,5,13,5,9,42,32,WWLWWDWDWWWLWWDWWWWLDDLLWWW,3,3,7,9,18,LWLWWLWDWWWWD,WWDDWLWWWLDLW
-VVV Venlo,Sparta Rotterdam,1-4,/match/vvv/sparta-rotterdam/1994,1994,28,eredivisie,18,34,2,1,4,13,6,10,11,23,43,WDWWLWWDWLDWWDDWLDWDDLWDWLD,4,6,3,12,16,10,9,7,11,42,43,WWWDDWDWWDDDLWWLWWWLDWWWWWW,1,3,9,12,29,DWWDLWDWDDLDL,WWWWDDWLWDWWW
-Feyenoord,Ajax,2-1,/match/feyenoord/ajax/1994,1994,28,eredivisie,18,34,0,2,1,2,14,11,2,47,21,WDWLLWLWLWDWLDLDWDWDDDLDDDW,7,6,0,22,6,1,23,2,2,74,18,WDWLWLWLWWDLWLWLWLWLWWWLWLW,10,1,2,31,10,WWWWWWDDWDDDD,DLLLWLLLLLWLL
-RKC Waalwijk,Utrecht,3-0,/match/rkc-waalwijk/fc-utrecht/1994,1994,28,eredivisie,18,34,0,3,0,18,3,8,16,25,53,WLDLDWWLDLWLWDDWLLWLDWWDWDL,2,3,8,13,23,11,9,5,13,34,51,DWWLWLWWDLWWWDWDLWWWWDWWWWW,0,4,9,11,32,LLWLLLDLLLWDD,DWWWDWDDWWWWW
-FC Volendam,Heerenveen,3-0,/match/fc-volendam/heerenveen/1994,1994,28,eredivisie,18,34,0,3,0,15,8,3,16,33,49,DWWWLWLLDLWLWWWWWWWWDWLWWWL,6,2,5,23,18,14,6,10,11,25,48,WWDLDLWWLWWDLDDLWWLDWDLDDDL,2,7,5,12,25,DWLLLLWWWDLWW,WLLWWDDDWWDDDD
-Cambuur,Vitesse,1-3,/match/sc-cambuur-leeuwarden/vitesse/1994,1994,28,eredivisie,18,34,2,1,3,17,4,6,17,21,49,WLWLWLWLDDWLWLDWDDWWDWLLWWW,3,4,7,12,20,7,13,4,10,50,31,LWLLLWWLDWWWWDWWWWLLWLWDDWL,5,2,6,20,17,LLLLDLLDDDWWLW,LLLLWWDWLWWDW
-Groningen,Go Ahead Eagles,3-1,/match/fc-groningen/go-ahead-eagles/1994,1994,28,eredivisie,18,34,0,3,1,16,5,7,15,30,56,LWLLLLLWDLWDWLWLWDWWDLDDDWL,1,5,7,15,30,12,9,6,12,36,41,LWWWWWDWDLWLLWWDWWLWWWWDDDL,3,2,9,11,25,LLLLDDLLWDDDL,WWWWLLLWWWWWDD
-Twente 1965,MVV Maastricht,4-2,/match/fc-twente-1965/mvv/1994,1994,28,eredivisie,18,34,0,4,2,8,10,9,8,37,33,WLWLLLDWWWLDWDWWDDWDWWDDDWW,7,4,2,19,8,9,10,7,10,36,43,WDDDLWWWDLLWWWWDWWWLDLWWWWD,3,2,8,21,33,WLLWWDDWWDWDW,WDWWLWWDWLLWW
-MVV Maastricht,Feyenoord,1-1,/match/mvv/feyenoord/1994,1994,29,eredivisie,18,34,1,1,1,10,10,7,11,38,47,WDDDLWWWDLLWWWWDWWWLDLWWWWDW,7,5,2,15,10,2,15,11,2,49,22,WDWLLWLWLWDWLDLDWDWDDDLDDDWW,7,5,2,25,15,DDLWDLWWWWDWWD,DLLLLDLLWDDLDW
-PSV,Cambuur,2-0,/match/psv/sc-cambuur-leeuwarden/1994,1994,29,eredivisie,18,34,0,2,0,3,13,10,5,46,28,LWDWWWDLDLWLWDLDWDLDDWWWDDWW,9,3,2,28,14,18,4,6,18,22,52,WLWLWLWLDDWLWLDWDDWWDWLLWWWL,1,2,10,9,29,WWWLDWWLWDDWWW,WWWWDWWWWDLWW
-Utrecht,Roda JC,1-1,/match/fc-utrecht/roda-jc/1994,1994,29,eredivisie,18,34,1,1,1,11,9,5,14,34,54,DWWLWLWWDLWWWDWDLWWWWDWWWWWW,9,1,4,23,19,4,15,4,9,48,29,LWLWDDWWWWWWWLDWWLWWWDLLWWLW,5,1,7,17,20,WLLWLWWWLWWDWW,LLDWWWLWWWLWL
-Go Ahead Eagles,RKC Waalwijk,2-0,/match/go-ahead-eagles/rkc-waalwijk/1994,1994,29,eredivisie,18,34,0,2,0,12,9,6,13,37,44,LWWWWWDWDLWLLWWDWWLWWWWDDDLW,6,4,3,25,16,17,4,8,16,28,53,WLDLDWWLDLWLWDDWLLWLDWWDWDLW,1,5,8,12,30,LWWDDWWDLWWDL,WDDWDWWDWWDWWL
-Sparta Rotterdam,Twente 1965,2-5,/match/sparta-rotterdam/fc-twente-1965/1994,1994,29,eredivisie,18,34,2,2,5,9,10,7,11,46,44,WWWDDWDWWDDDLWWLWWWLDWWWWWWL,8,4,2,30,14,7,11,9,8,41,35,WLWLLLDWWWLDWDWWDDWDWWDDDWWW,3,5,6,18,25,WDDDWDLWWWLWWW,LWLDWLWWDDWDDW
-Vitesse,VVV Venlo,4-0,/match/vitesse/vvv/1994,1994,29,eredivisie,18,34,0,4,0,8,14,4,10,53,32,LWLLLWWLDWWWWDWWWWLLWLWDDWLL,8,2,4,30,14,14,6,10,12,24,47,WDWWLWWDWLDWWDDWLDWDDLWDWLDL,2,4,8,11,27,WLWWDWWWWWLLDL,WWLWWDWDLWDWWD
-Willem II,FC Volendam,0-2,/match/willem-ii/fc-volendam/1994,1994,29,eredivisie,18,34,2,0,2,5,13,6,9,43,33,WWLWWDWDWWWLWWDWWWWLDDLLWWWD,10,2,2,33,14,13,9,3,16,36,49,DWWWLWLLDLWLWWWWWWWWDWLWWWLW,2,1,11,10,31,WLWWWWWDWWDLWW,WWWLDWWWWWWWWL
-Heerenveen,Groningen,2-0,/match/heerenveen/fc-groningen/1994,1994,29,eredivisie,18,34,0,2,0,15,6,10,12,25,51,WWDLDLWWLWWDLDDLWWLDWDLDDDLW,4,3,6,13,23,16,6,7,15,33,57,LWLLLLLWDLWDWLWLWDWWDLDDDWLW,4,2,8,15,26,WDDWLWLLLWLDL,WLLWLWWWWDWLDW
-Ajax,NAC Breda,5-0,/match/ajax/nac-breda/1994,1994,29,eredivisie,18,34,0,5,0,1,23,2,3,75,20,WDWLWLWLWWDLWLWLWLWLWWWLWLWW,13,1,0,43,8,6,14,7,7,55,36,LLWLLWLWDWWLWWWDLLWDWDWWDDLD,6,4,4,21,14,WWWWWDWWWWWWWW,LLWLDWWWLLDDDL
-VVV Venlo,PSV,0-3,/match/vvv/psv/1994,1994,30,eredivisie,18,34,2,0,3,15,6,10,13,24,51,WDWWLWWDWLDWWDDWLDWDDLWDWLDLW,4,6,4,13,20,3,14,10,5,48,28,LWDWWWDLDLWLWDLDWDLDDWWWDDWWW,4,7,3,18,14,DWWDLWDWDDLDLL,LDWDLLDDLDWDDW
-Cambuur,Utrecht,2-1,/match/sc-cambuur-leeuwarden/fc-utrecht/1994,1994,30,eredivisie,18,34,0,2,1,18,4,6,19,22,54,WLWLWLWLDDWLWLDWDDWWDWLLWWWLW,3,4,8,13,23,11,9,6,14,35,55,DWWLWLWWDLWWWDWDLWWWWDWWWWWWD,0,4,10,11,35,LLLLDLLDDDWWLWL,DWWWDWDDWWWWWW
-Go Ahead Eagles,Heerenveen,2-3,/match/go-ahead-eagles/heerenveen/1994,1994,30,eredivisie,18,34,2,2,3,12,10,6,13,39,44,LWWWWWDWDLWLLWWDWWLWWWWDDDLWW,7,4,3,27,16,14,7,10,12,27,51,WWDLDLWWLWWDLDDLWWLDWDLDDDLWW,2,7,6,12,28,LWWDDWWDLWWDLW,WLLWWDDDWWDDDDW
-NAC Breda,MVV Maastricht,1-4,/match/nac-breda/mvv/1994,1994,30,eredivisie,18,34,2,1,4,6,14,7,8,55,41,LLWLLWLWDWWLWWWDLLWDWDWWDDLDW,8,3,3,34,22,9,10,8,11,39,48,WDDDLWWWDLLWWWWDWWWLDLWWWWDWD,3,2,9,23,37,LWLWWLWDWWWWDD,WDWWLWWDWLLWWW
-RKC Waalwijk,Roda JC,1-1,/match/rkc-waalwijk/roda-jc/1994,1994,30,eredivisie,18,34,1,1,1,17,4,8,17,28,55,WLDLDWWLDLWLWDDWLLWLDWWDWDLWW,3,3,8,16,23,4,15,5,9,49,30,LWLWDDWWWWWWWLDWWLWWWDLLWWLWD,5,2,7,18,21,LLWLLLDLLLWDDW,LLDWWWLWWWLWLD
-Groningen,Willem II,4-1,/match/fc-groningen/willem-ii/1994,1994,30,eredivisie,18,34,0,4,1,16,6,7,16,33,59,LWLLLLLWDLWDWLWLWDWWDLDDDWLWW,2,5,7,18,31,5,13,6,10,43,35,WWLWWDWDWWWLWWDWWWWLDDLLWWWDL,3,4,7,10,19,LLLLDDLLWDDDLW,WWDDWLWWWLDLWD
-Twente 1965,Vitesse,0-1,/match/fc-twente-1965/vitesse/1994,1994,30,eredivisie,18,34,2,0,1,8,12,9,8,46,37,WLWLLLDWWWLDWDWWDDWDWWDDDWWWL,8,4,2,23,10,7,15,4,10,57,32,LWLLLWWLDWWWWDWWWWLLWLWDDWLLW,6,2,6,23,18,WLLWWDDWWDWDWW,LLLLWWDWLWWDWL
-Feyenoord,Sparta Rotterdam,5-1,/match/feyenoord/sparta-rotterdam/1994,1994,30,eredivisie,18,34,0,5,1,2,15,12,2,50,23,WDWLLWLWLWDWLDLDWDWDDDLDDDWWD,8,6,0,24,7,10,10,7,12,48,49,WWWDDWDWWDDDLWWLWWWLDWWWWWWLL,2,3,9,16,30,WWWWWWDDWDDDDW,WWWWDDWLWDWWWL
-FC Volendam,Ajax,1-0,/match/fc-volendam/ajax/1994,1994,30,eredivisie,18,34,0,1,0,13,10,3,16,38,49,DWWWLWLLDLWLWWWWWWWWDWLWWWLWL,7,2,5,26,18,1,24,2,3,80,20,WDWLWLWLWWDLWLWLWLWLWWWLWLWWW,10,1,3,32,12,DWLLLLWWWDLWWW,DLLLWLLLLLWLLW
-PSV,Twente 1965,3-2,/match/psv/fc-twente-1965/1994,1994,31,eredivisie,18,34,0,3,2,3,15,10,5,51,28,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWL,10,3,2,30,14,8,12,9,9,46,38,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLL,4,5,6,23,27,WWWLDWWLWDDWWWW,LWLDWLWWDDWDDWL
-MVV Maastricht,FC Volendam,1-1,/match/mvv/fc-volendam/1994,1994,31,eredivisie,18,34,1,1,1,9,11,8,11,43,49,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDL,7,6,2,16,11,13,11,3,16,39,49,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLW,3,1,11,12,31,DDLWDLWWWWDWWDD,WWWLDWWWWWWWWLL
-Heerenveen,RKC Waalwijk,0-3,/match/heerenveen/rkc-waalwijk/1994,1994,31,eredivisie,18,34,2,0,3,14,8,10,12,30,53,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWL,5,3,6,15,23,18,4,9,17,29,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWD,1,5,9,12,32,WDDWLWLLLWLDLW,WDDWDWWDWWDWWLW
-Sparta Rotterdam,NAC Breda,0-0,/match/sparta-rotterdam/nac-breda/1994,1994,31,eredivisie,18,34,1,0,0,10,10,7,13,49,54,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLW,8,4,3,32,19,7,14,7,9,56,45,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWL,6,4,5,21,19,WDDDWDLWWWLWWWL,LLWLDWWWLLDDDLW
-Willem II,Go Ahead Eagles,0-0,/match/willem-ii/go-ahead-eagles/1994,1994,31,eredivisie,18,34,1,0,0,6,13,6,11,44,39,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLW,10,2,3,33,16,12,10,6,14,41,47,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWL,3,2,10,12,28,WLWWWWWDWWDLWWL,WWWWLLLWWWWWDDW
-Roda JC,Cambuur,1-1,/match/roda-jc/sc-cambuur-leeuwarden/1994,1994,31,eredivisie,18,34,1,1,1,4,15,6,9,50,31,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDD,10,3,2,31,9,17,5,6,19,24,55,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWW,1,2,11,9,31,WWDWWWWDWLWDLWW,WWWWDWWWWDLWWW
-Utrecht,VVV Venlo,2-3,/match/fc-utrecht/vvv/1994,1994,31,eredivisie,18,34,2,2,3,11,9,6,15,36,57,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDW,9,2,4,24,20,15,6,10,14,24,54,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWL,2,4,9,11,31,WLLWLWWWLWWDWWD,WWLWWDWDLWDWWDW
-Vitesse,Feyenoord,1-2,/match/vitesse/feyenoord/1994,1994,31,eredivisie,18,34,2,1,2,5,16,4,10,58,32,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWL,9,2,4,34,14,2,16,12,2,55,24,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDW,7,6,2,26,16,WLWWDWWWWWLLDLW,DLLLLDLLWDDLDWD
-Ajax,Groningen,0-2,/match/ajax/fc-groningen/1994,1994,31,eredivisie,18,34,2,0,2,1,24,2,4,80,21,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWW,14,1,0,48,8,16,7,7,16,37,60,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWW,4,2,9,15,28,WWWWWDWWWWWWWWW,WLLWLWWWWDWLDWW
-NAC Breda,Vitesse,2-2,/match/nac-breda/vitesse/1994,1994,32,eredivisie,18,34,1,2,2,7,14,8,9,56,45,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWLD,8,3,4,35,26,5,16,4,11,59,34,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWLL,7,2,6,24,18,LWLWWLWDWWWWDDL,LLLLWWDWLWWDWLL
-Heerenveen,Willem II,1-2,/match/heerenveen/willem-ii/1994,1994,32,eredivisie,18,34,2,1,2,14,8,10,13,30,56,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWLL,5,3,7,15,26,6,13,7,11,44,39,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLWD,3,4,8,11,23,WDDWLWLLLWLDLWL,WWDDWLWWWLDLWDW
-VVV Venlo,Roda JC,2-2,/match/vvv/roda-jc/1994,1994,32,eredivisie,18,34,1,2,2,15,7,10,14,27,56,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWLL,4,6,5,13,23,4,15,7,9,51,32,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDDD,5,3,7,19,22,DWWDLWDWDDLDLLL,LLDWWWLWWWLWLDD
-Groningen,MVV Maastricht,3-2,/match/fc-groningen/mvv/1994,1994,32,eredivisie,18,34,0,3,2,16,8,7,16,39,60,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWWL,3,5,7,22,32,9,11,9,11,44,50,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDLD,4,2,9,27,38,LLLLDDLLWDDDLWW,WDWWLWWDWLLWWWL
-Twente 1965,Utrecht,1-0,/match/fc-twente-1965/fc-utrecht/1994,1994,32,eredivisie,18,34,0,1,0,8,12,9,10,48,41,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLLW,8,4,3,23,11,12,9,6,16,38,60,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDWL,0,4,11,12,37,WLLWWDDWWDWDWWL,DWWWDWDDWWWWWWW
-FC Volendam,Sparta Rotterdam,2-1,/match/fc-volendam/sparta-rotterdam/1994,1994,32,eredivisie,18,34,0,2,1,13,11,4,16,40,50,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLWD,8,2,5,27,18,10,10,8,13,49,54,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLWD,2,3,10,17,35,DWLLLLWWWDLWWWW,WWWWDDWLWDWWWLW
-Go Ahead Eagles,Ajax,0-3,/match/go-ahead-eagles/ajax/1994,1994,32,eredivisie,18,34,2,0,3,11,10,7,14,41,47,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWLD,7,4,4,29,19,1,24,2,5,80,23,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWWL,10,1,4,32,13,LWWDDWWDLWWDLWL,DLLLWLLLLLWLLWW
-RKC Waalwijk,Cambuur,3-0,/match/rkc-waalwijk/sc-cambuur-leeuwarden/1994,1994,32,eredivisie,18,34,0,3,0,18,5,9,17,32,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWDL,3,4,8,17,24,17,5,7,19,25,56,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWWD,1,3,11,10,32,LLWLLLDLLLWDDWD,WWWWDWWWWDLWWWD
-Feyenoord,PSV,2-1,/match/feyenoord/psv/1994,1994,32,eredivisie,18,34,0,2,1,2,17,12,2,57,25,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDWL,9,6,0,29,8,3,16,10,5,54,30,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWLW,5,7,3,21,14,WWWWWWDDWDDDDWW,LDWDLLDDLDWDDWL
-Ajax,Heerenveen,2-1,/match/ajax/heerenveen/1994,1994,33,eredivisie,18,34,0,2,1,1,25,2,5,83,23,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWWLL,14,1,1,48,10,15,8,10,14,31,58,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWLLL,3,7,6,15,30,WWWWWDWWWWWWWWWL,WLLWWDDDWWDDDDWL
-Cambuur,VVV Venlo,2-1,/match/sc-cambuur-leeuwarden/vvv/1994,1994,33,eredivisie,18,34,0,2,1,18,5,7,20,25,59,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWWDW,4,4,8,15,24,14,7,11,14,29,58,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWLLD,3,4,9,14,33,LLLLDLLDDDWWLWLW,WWLWWDWDLWDWWDWL
-Utrecht,Feyenoord,0-0,/match/fc-utrecht/feyenoord/1994,1994,33,eredivisie,18,34,1,0,0,13,9,6,17,38,61,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDWLW,9,2,5,26,23,2,18,12,2,59,26,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDWLW,8,6,2,28,17,WLLWLWWWLWWDWWDL,DLLLLDLLWDDLDWDL
-MVV Maastricht,Go Ahead Eagles,2-2,/match/mvv/go-ahead-eagles/1994,1994,33,eredivisie,18,34,1,2,2,9,11,9,12,46,53,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDLDW,7,7,2,17,12,12,10,7,15,41,50,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWLDL,3,3,10,12,28,DDLWDLWWWWDWWDDD,WWWWLLLWWWWWDDWD
-PSV,NAC Breda,3-1,/match/psv/nac-breda/1994,1994,33,eredivisie,18,34,0,3,1,3,16,10,6,55,32,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWLWW,11,3,2,33,16,7,14,9,9,58,47,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWLDD,6,5,5,21,19,WWWLDWWLWDDWWWWW,LLWLDWWWLLDDDLWD
-RKC Waalwijk,Willem II,1-0,/match/rkc-waalwijk/willem-ii/1994,1994,33,eredivisie,18,34,0,1,0,17,6,9,17,35,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWDLW,4,4,8,20,24,5,14,7,11,46,40,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLWDL,4,4,8,13,24,LLWLLLDLLLWDDWDW,WWDDWLWWWLDLWDWL
-Roda JC,Twente 1965,1-4,/match/roda-jc/fc-twente-1965/1994,1994,33,eredivisie,18,34,2,1,4,4,15,8,9,53,34,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDDDD,10,4,2,32,10,8,13,9,10,49,41,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLLWW,4,5,7,25,30,WWDWWWWDWLWDLWWD,LWLDWLWWDDWDDWLW
-Sparta Rotterdam,Groningen,3-0,/match/sparta-rotterdam/fc-groningen/1994,1994,33,eredivisie,18,34,0,3,0,10,10,8,14,50,56,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLWDW,8,5,3,32,19,16,9,7,16,42,62,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWWLW,5,2,9,17,28,WDDDWDLWWWLWWWLD,WLLWLWWWWDWLDWWL
-Vitesse,FC Volendam,2-1,/match/vitesse/fc-volendam/1994,1994,33,eredivisie,18,34,0,2,1,6,16,5,11,61,36,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWLLD,9,2,5,35,16,11,12,4,16,42,51,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLWDW,3,2,11,13,32,WLWWDWWWWWLLDLWL,WWWLDWWWWWWWWLLD
-Groningen,Vitesse,0-0,/match/fc-groningen/vitesse/1994,1994,34,eredivisie,18,34,1,0,0,16,9,7,17,42,65,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWWLWW,4,5,7,25,34,5,17,5,11,63,37,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWLLDW,7,3,6,26,20,LLLLDDLLWDDDLWWW,LLLLWWDWLWWDWLLD
-Twente 1965,Cambuur,4-1,/match/fc-twente-1965/sc-cambuur-leeuwarden/1994,1994,34,eredivisie,18,34,0,4,1,6,14,9,10,53,42,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLLWWL,9,4,3,24,11,18,6,7,20,27,60,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWWDWW,1,3,12,10,35,WLLWWDDWWDWDWWLW,WWWWDWWWWDLWWWDW
-FC Volendam,PSV,3-2,/match/fc-volendam/psv/1994,1994,34,eredivisie,18,34,0,3,2,11,12,4,17,43,53,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLWDWW,9,2,5,29,19,3,17,10,6,58,33,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWLWWW,5,7,4,22,16,DWLLLLWWWDLWWWWW,LDWDLLDDLDWDDWLW
-Feyenoord,Roda JC,2-1,/match/feyenoord/roda-jc/1994,1994,34,eredivisie,18,34,0,2,1,2,18,13,2,59,26,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDWLWD,10,6,0,31,9,4,15,8,10,54,38,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDDDDL,5,4,7,21,24,WWWWWWDDWDDDDWWW,LLDWWWLWWWLWLDDD
-Go Ahead Eagles,Sparta Rotterdam,1-5,/match/go-ahead-eagles/sparta-rotterdam/1994,1994,34,eredivisie,18,34,2,1,5,12,10,8,15,43,52,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWLDLD,7,4,5,29,22,10,11,8,14,53,56,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLWDWW,2,3,11,18,37,LWWDDWWDLWWDLWLL,WWWWDDWLWDWWWLWW
-NAC Breda,Utrecht,2-2,/match/nac-breda/fc-utrecht/1994,1994,34,eredivisie,18,34,1,2,2,8,14,9,10,59,50,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWLDDW,8,4,4,37,28,13,9,7,17,38,61,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDWLWD,0,4,12,12,38,LWLWWLWDWWWWDDLD,DWWWDWDDWWWWWWWW
-Heerenveen,MVV Maastricht,3-1,/match/heerenveen/mvv/1994,1994,34,eredivisie,18,34,0,3,1,15,8,10,15,32,60,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWLLLW,5,3,8,16,28,9,11,10,12,48,55,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDLDWD,4,2,10,29,41,WDDWLWLLLWLDLWLL,WDWWLWWDWLLWWWLW
-VVV Venlo,RKC Waalwijk,0-2,/match/vvv/rkc-waalwijk/1994,1994,34,eredivisie,18,34,2,0,2,14,7,11,15,30,60,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWLLDW,4,7,5,15,25,17,7,9,17,36,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWDLWW,2,5,9,15,32,DWWDLWDWDDLDLLLD,WDDWDWWDWWDWWLWL
-Willem II,Ajax,2-1,/match/willem-ii/ajax/1994,1994,34,eredivisie,18,34,0,2,1,7,14,7,12,46,41,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLWDLW,10,3,3,33,16,1,26,2,5,85,24,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWWLLW,11,1,4,35,13,WLWWWWWDWWDLWWLD,DLLLWLLLLLWLLWWL
+Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
+Willem II,MVV Maastricht,1-0,/match/willem-ii/mvv/1994,1994,1,eredivisie,18,34,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Heerenveen,Sparta Rotterdam,1-0,/match/heerenveen/sparta-rotterdam/1994,1994,1,eredivisie,18,34,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+NAC Breda,Roda JC,2-3,/match/nac-breda/roda-jc/1994,1994,1,eredivisie,18,34,2,2,3,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Go Ahead Eagles,Vitesse,1-4,/match/go-ahead-eagles/vitesse/1994,1994,1,eredivisie,18,34,2,1,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Feyenoord,Cambuur,1-0,/match/feyenoord/sc-cambuur-leeuwarden/1994,1994,1,eredivisie,18,34,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+FC Volendam,Utrecht,2-2,/match/fc-volendam/fc-utrecht/1994,1994,1,eredivisie,18,34,1,2,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Twente 1965,VVV Venlo,3-0,/match/fc-twente-1965/vvv/1994,1994,1,eredivisie,18,34,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Groningen,PSV,1-2,/match/fc-groningen/psv/1994,1994,1,eredivisie,18,34,2,1,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Ajax,RKC Waalwijk,3-0,/match/ajax/rkc-waalwijk/1994,1994,1,eredivisie,18,34,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Cambuur,NAC Breda,1-3,/match/sc-cambuur-leeuwarden/nac-breda/1994,1994,2,eredivisie,18,34,2,1,3,18,0,0,0,1,0,1,W,0,0,0,0,0,14,0,0,0,1,2,3,L,0,0,0,0,0,,
+PSV,Go Ahead Eagles,3-0,/match/psv/go-ahead-eagles/1994,1994,2,eredivisie,18,34,0,3,0,6,2,1,0,0,2,1,L,0,0,0,0,0,16,0,0,0,1,1,4,L,0,0,0,0,0,,
+Sparta Rotterdam,Willem II,1-0,/match/sparta-rotterdam/willem-ii/1994,1994,2,eredivisie,18,34,0,1,0,15,0,0,0,1,0,1,W,0,0,0,0,0,2,4,1,0,0,1,0,W,0,0,0,0,0,,
+Roda JC,FC Volendam,2-0,/match/roda-jc/fc-volendam/1994,1994,2,eredivisie,18,34,0,2,0,8,2,1,0,0,3,2,L,0,0,0,0,0,9,2,0,1,0,2,2,D,0,0,0,0,0,,
+RKC Waalwijk,Twente 1965,1-3,/match/rkc-waalwijk/fc-twente-1965/1994,1994,2,eredivisie,18,34,2,1,3,17,0,0,0,1,0,3,W,0,0,0,0,0,3,4,1,0,0,3,0,W,0,0,0,0,0,,
+MVV Maastricht,Ajax,1-1,/match/mvv/ajax/1994,1994,2,eredivisie,18,34,1,1,1,13,0,0,0,1,0,1,W,0,0,0,0,0,1,4,1,0,0,3,0,W,0,0,0,0,0,,
+Utrecht,Groningen,2-0,/match/fc-utrecht/fc-groningen/1994,1994,2,eredivisie,18,34,0,2,0,10,1,0,1,0,2,2,D,0,0,0,0,0,11,0,0,0,1,1,2,L,0,0,0,0,0,,
+Vitesse,Heerenveen,3-0,/match/vitesse/heerenveen/1994,1994,2,eredivisie,18,34,0,3,0,7,2,1,0,0,4,1,L,0,0,0,0,0,5,4,1,0,0,1,0,W,0,0,0,0,0,,
+VVV Venlo,Feyenoord,1-1,/match/vvv/feyenoord/1994,1994,2,eredivisie,18,34,1,1,1,12,0,0,0,1,0,3,W,0,0,0,0,0,4,4,1,0,0,1,0,W,0,0,0,0,0,,
+Willem II,Vitesse,0-3,/match/willem-ii/vitesse/1994,1994,3,eredivisie,18,34,2,0,3,9,4,1,0,1,1,1,WW,1,0,0,1,0,4,6,2,0,0,7,1,LW,1,0,0,4,1,W,L
+Heerenveen,PSV,0-0,/match/heerenveen/psv/1994,1994,3,eredivisie,18,34,1,0,0,8,4,1,0,1,1,3,WW,1,0,0,1,0,1,6,2,0,0,5,1,LW,1,0,0,2,1,W,L
+NAC Breda,VVV Venlo,4-1,/match/nac-breda/vvv/1994,1994,3,eredivisie,18,34,0,4,1,14,2,1,0,1,5,4,LL,0,0,1,2,3,12,2,0,1,1,1,4,WD,0,0,1,0,3,L,W
+MVV Maastricht,RKC Waalwijk,1-1,/match/mvv/rkc-waalwijk/1994,1994,3,eredivisie,18,34,1,1,1,13,2,0,1,1,1,2,WD,0,1,0,1,1,17,0,0,0,2,1,6,WL,0,0,1,0,3,D,W
+Go Ahead Eagles,Utrecht,4-0,/match/go-ahead-eagles/fc-utrecht/1994,1994,3,eredivisie,18,34,0,4,0,16,0,0,0,2,1,7,LW,0,0,1,1,4,6,5,1,1,0,4,2,DW,0,1,0,2,2,L,D
+Feyenoord,Twente 1965,1-0,/match/feyenoord/fc-twente-1965/1994,1994,3,eredivisie,18,34,0,1,0,7,5,1,1,0,2,1,WD,1,0,0,1,0,2,6,2,0,0,6,1,WL,1,0,0,3,1,W,L
+FC Volendam,Cambuur,4-1,/match/fc-volendam/sc-cambuur-leeuwarden/1994,1994,3,eredivisie,18,34,0,4,1,11,2,0,1,1,2,4,DW,0,1,0,2,2,18,0,0,0,2,1,4,WL,0,0,1,0,1,D,W
+Groningen,Roda JC,3-5,/match/fc-groningen/roda-jc/1994,1994,3,eredivisie,18,34,2,3,5,15,0,0,0,2,1,4,LW,0,0,1,1,2,3,6,2,0,0,5,2,LW,1,0,0,3,2,L,L
+Ajax,Sparta Rotterdam,3-0,/match/ajax/sparta-rotterdam/1994,1994,3,eredivisie,18,34,0,3,0,5,5,1,1,0,4,1,WD,1,0,0,3,0,10,4,1,0,1,1,1,WW,0,0,1,0,1,W,W
+VVV Venlo,FC Volendam,2-0,/match/vvv/fc-volendam/1994,1994,4,eredivisie,18,34,0,2,0,15,2,0,1,2,2,8,WDW,0,1,0,1,1,8,6,1,1,1,6,5,DWW,0,0,1,0,2,D,W
+PSV,Willem II,2-1,/match/psv/willem-ii/1994,1994,4,eredivisie,18,34,0,2,1,5,7,2,1,0,5,1,LWD,1,0,0,3,0,14,4,1,0,2,1,4,WWL,0,0,1,0,1,W,W
+Vitesse,Ajax,0-1,/match/vitesse/ajax/1994,1994,4,eredivisie,18,34,2,0,1,4,8,3,0,0,10,1,LWL,1,0,0,3,0,1,9,2,1,0,7,1,WDW,0,1,0,1,1,W,D
+Sparta Rotterdam,MVV Maastricht,2-2,/match/sparta-rotterdam/mvv/1994,1994,4,eredivisie,18,34,1,2,2,13,4,1,0,2,1,4,WWW,1,0,0,1,0,11,4,0,2,1,2,3,WDD,0,0,1,0,1,W,W
+Roda JC,Go Ahead Eagles,2-1,/match/roda-jc/go-ahead-eagles/1994,1994,4,eredivisie,18,34,0,2,1,3,8,3,0,0,10,5,LWL,1,0,0,2,0,12,4,1,0,2,5,7,LWW,0,0,1,0,3,W,W
+Utrecht,Heerenveen,0-1,/match/fc-utrecht/heerenveen/1994,1994,4,eredivisie,18,34,2,0,1,10,5,1,1,1,4,6,DWW,1,0,0,2,0,6,6,1,1,1,1,3,WWD,0,0,1,0,3,W,W
+Twente 1965,NAC Breda,0-1,/match/fc-twente-1965/nac-breda/1994,1994,4,eredivisie,18,34,2,0,1,7,6,2,0,1,6,2,WLW,1,0,0,3,0,9,6,2,0,1,9,5,LLW,1,0,0,3,1,W,L
+Cambuur,Groningen,0-2,/match/sc-cambuur-leeuwarden/fc-groningen/1994,1994,4,eredivisie,18,34,2,0,2,18,0,0,0,3,2,8,WLW,0,0,1,1,3,17,0,0,0,3,4,9,LWL,0,0,1,0,2,L,W
+RKC Waalwijk,Feyenoord,1-2,/match/rkc-waalwijk/feyenoord/1994,1994,4,eredivisie,18,34,2,1,2,16,1,0,1,2,2,7,WLD,0,0,1,1,3,2,9,2,1,0,3,1,WDW,0,1,0,1,1,L,D
+Willem II,Utrecht,4-1,/match/willem-ii/fc-utrecht/1994,1994,5,eredivisie,18,34,0,4,1,15,4,1,0,3,2,6,WWLW,1,0,1,1,3,12,5,1,1,2,4,7,DWWL,0,1,1,2,6,WL,DW
+Heerenveen,Roda JC,0-0,/match/heerenveen/roda-jc/1994,1994,5,eredivisie,18,34,1,0,0,6,8,2,1,1,2,3,WWDL,1,1,0,1,0,1,12,4,0,0,12,6,LWLW,2,0,0,8,5,WD,LL
+MVV Maastricht,Vitesse,0-2,/match/mvv/vitesse/1994,1994,5,eredivisie,18,34,2,0,2,13,5,0,3,1,4,5,WDDD,0,2,0,2,2,5,8,3,0,1,10,2,LWLL,2,0,0,7,1,DD,LL
+Go Ahead Eagles,Cambuur,3-0,/match/go-ahead-eagles/sc-cambuur-leeuwarden/1994,1994,5,eredivisie,18,34,0,3,0,14,4,1,0,3,6,9,LWWW,1,0,1,5,4,18,0,0,0,4,2,10,WLWL,0,0,2,1,5,LW,WW
+Ajax,PSV,2-0,/match/ajax/psv/1994,1994,5,eredivisie,18,34,0,2,0,2,11,3,1,0,8,1,WDWL,2,0,0,6,0,3,11,3,1,0,7,2,LWDW,1,1,0,2,1,WW,LD
+Groningen,VVV Venlo,0-3,/match/fc-groningen/vvv/1994,1994,5,eredivisie,18,34,2,0,3,16,2,1,0,3,6,9,LWLL,0,0,2,4,7,11,6,1,1,2,4,8,WDWW,0,0,2,1,7,LL,WW
+FC Volendam,Twente 1965,2-5,/match/fc-volendam/fc-twente-1965/1994,1994,5,eredivisie,18,34,2,2,5,10,6,1,1,2,6,7,DWWW,1,1,0,6,3,9,6,2,0,2,6,3,WLWL,1,0,1,3,2,DW,LW
+NAC Breda,Feyenoord,1-2,/match/nac-breda/feyenoord/1994,1994,5,eredivisie,18,34,2,1,2,7,8,3,0,1,10,5,LLWL,1,0,1,6,4,4,11,3,1,0,5,2,WDWL,1,1,0,3,2,LW,DL
+Sparta Rotterdam,RKC Waalwijk,1-1,/match/sparta-rotterdam/rkc-waalwijk/1994,1994,5,eredivisie,18,34,1,1,1,8,6,1,1,2,3,6,WWWD,1,1,0,3,2,17,1,0,1,3,3,9,WLDL,0,1,1,1,4,WD,WD
+Utrecht,Ajax,1-4,/match/fc-utrecht/ajax/1994,1994,6,eredivisie,18,34,2,1,4,15,5,1,1,3,5,11,DWWLW,1,0,1,2,1,1,15,4,1,0,10,1,WDWLW,1,1,0,2,1,WL,DL
+Roda JC,Willem II,1-1,/match/roda-jc/willem-ii/1994,1994,6,eredivisie,18,34,1,1,1,2,13,4,1,0,12,6,LWLWD,2,0,0,4,1,12,8,2,0,3,6,7,WWLWW,0,0,2,1,3,WW,WW
+RKC Waalwijk,NAC Breda,1-0,/match/rkc-waalwijk/nac-breda/1994,1994,6,eredivisie,18,34,0,1,0,17,2,0,2,3,4,10,WLDLD,0,0,2,2,5,8,8,3,0,2,11,7,LLWLL,2,0,0,4,1,LL,LL
+Feyenoord,FC Volendam,2-0,/match/feyenoord/fc-volendam/1994,1994,6,eredivisie,18,34,0,2,0,3,13,4,1,0,7,3,WDWLL,2,0,0,2,0,13,6,1,1,3,8,12,DWWWL,0,0,2,0,4,WW,WW
+PSV,MVV Maastricht,4-2,/match/psv/mvv/1994,1994,6,eredivisie,18,34,0,4,2,4,11,3,1,1,7,4,LWDWW,2,0,0,5,1,14,5,0,3,2,4,7,WDDDL,0,1,1,2,3,WW,WD
+Cambuur,Heerenveen,1-2,/match/sc-cambuur-leeuwarden/heerenveen/1994,1994,6,eredivisie,18,34,2,1,2,18,0,0,0,5,2,13,WLWLW,0,0,2,1,5,6,10,2,2,1,2,3,WWDLD,1,0,1,1,3,LL,WL
+Vitesse,Sparta Rotterdam,2-0,/match/vitesse/sparta-rotterdam/1994,1994,6,eredivisie,18,34,0,2,0,5,10,4,0,1,12,2,LWLLL,1,0,1,3,1,9,8,1,2,2,4,7,WWWDD,0,0,2,0,4,WL,WW
+VVV Venlo,Go Ahead Eagles,1-0,/match/vvv/go-ahead-eagles/1994,1994,6,eredivisie,18,34,0,1,0,11,8,2,1,2,7,8,WDWWL,1,1,0,3,1,7,8,2,0,3,9,9,LWWWW,0,0,2,1,5,DW,WW
+Twente 1965,Groningen,0-1,/match/fc-twente-1965/fc-groningen/1994,1994,6,eredivisie,18,34,2,0,1,10,8,3,0,2,11,5,WLWLL,1,0,1,3,1,16,2,1,0,4,6,12,LWLLL,1,0,1,2,2,WL,WL
+MVV Maastricht,Utrecht,2-1,/match/mvv/fc-utrecht/1994,1994,7,eredivisie,18,34,0,2,1,15,5,0,3,3,6,11,WDDDLW,0,2,1,2,4,16,5,1,1,4,6,15,DWWLWL,0,1,2,3,10,DDL,DWW
+Heerenveen,VVV Venlo,1-0,/match/heerenveen/vvv/1994,1994,7,eredivisie,18,34,0,1,0,6,12,3,2,1,4,4,WWDLDL,1,2,0,1,0,7,12,3,1,2,8,8,WDWWLW,1,0,2,4,7,WDD,WWL
+Sparta Rotterdam,PSV,0-0,/match/sparta-rotterdam/psv/1994,1994,7,eredivisie,18,34,1,0,0,10,8,1,2,3,4,9,WWWDDW,1,2,0,4,3,4,15,4,1,1,11,6,LWDWWW,1,1,1,2,3,WDD,LDW
+Willem II,Cambuur,4-1,/match/willem-ii/sc-cambuur-leeuwarden/1994,1994,7,eredivisie,18,34,0,4,1,8,9,2,1,3,7,8,WWLWWD,2,0,1,5,4,18,0,0,0,6,3,15,WLWLWL,0,0,3,1,8,WLW,WWW
+Ajax,Roda JC,2-0,/match/ajax/roda-jc/1994,1994,7,eredivisie,18,34,0,2,0,1,17,5,1,0,14,2,WDWLWL,3,0,0,8,0,3,15,4,2,0,13,7,LWLWDD,2,1,0,8,5,WWW,LLD
+Groningen,Feyenoord,0-4,/match/fc-groningen/feyenoord/1994,1994,7,eredivisie,18,34,2,0,4,17,4,2,0,4,7,12,LWLLLL,0,0,3,4,10,2,17,5,1,0,9,3,WDWLLW,2,1,0,5,3,LLL,DLL
+FC Volendam,NAC Breda,1-3,/match/fc-volendam/nac-breda/1994,1994,7,eredivisie,18,34,2,1,3,13,6,1,1,4,8,14,DWWWLW,1,1,1,8,8,11,8,3,0,3,11,8,LLWLLW,2,0,1,4,2,DWL,LLW
+Go Ahead Eagles,Twente 1965,3-3,/match/go-ahead-eagles/fc-twente-1965/1994,1994,7,eredivisie,18,34,1,3,3,12,8,2,0,4,9,10,LWWWWW,2,0,1,8,4,9,8,3,0,3,11,6,WLWLLL,2,0,1,8,4,LWW,LWL
+Vitesse,RKC Waalwijk,4-1,/match/vitesse/rkc-waalwijk/1994,1994,7,eredivisie,18,34,0,4,1,5,14,5,0,1,14,2,LWLLLW,2,0,1,5,1,14,6,1,2,3,5,10,WLDLDW,0,2,1,2,5,WLW,WDD
+NAC Breda,Groningen,2-1,/match/nac-breda/fc-groningen/1994,1994,8,eredivisie,18,34,0,2,1,9,10,4,0,3,14,9,LLWLLWL,1,0,2,7,6,17,4,2,0,5,7,16,LWLLLLL,2,0,1,3,2,LWL,WLL
+Utrecht,Sparta Rotterdam,3-1,/match/fc-utrecht/sparta-rotterdam/1994,1994,8,eredivisie,18,34,0,3,1,16,5,1,1,5,7,17,DWWLWLW,1,0,2,3,5,11,10,1,3,3,4,9,WWWDDWD,0,0,3,0,6,WLL,WWW
+Twente 1965,Heerenveen,2-1,/match/fc-twente-1965/heerenveen/1994,1994,8,eredivisie,18,34,0,2,1,12,9,3,1,3,14,9,WLWLLLD,1,0,2,3,2,5,16,4,2,1,5,4,WWDLDLW,2,0,1,3,4,WLL,WLL
+Feyenoord,Go Ahead Eagles,1-0,/match/feyenoord/go-ahead-eagles/1994,1994,8,eredivisie,18,34,0,1,0,2,19,6,1,0,13,3,WDWLLWL,3,0,0,4,0,10,10,2,1,4,12,13,LWWWWWD,0,0,3,1,6,WWW,WWW
+RKC Waalwijk,FC Volendam,1-3,/match/rkc-waalwijk/fc-volendam/1994,1994,8,eredivisie,18,34,2,1,3,15,6,1,2,4,6,14,WLDLDWW,1,0,2,3,5,14,6,1,1,5,9,17,DWWWLWL,0,0,3,0,6,LLW,WWW
+Roda JC,MVV Maastricht,4-1,/match/roda-jc/mvv/1994,1994,8,eredivisie,18,34,0,4,1,6,15,4,2,1,13,9,LWLWDDW,2,1,0,5,2,13,9,1,3,3,8,12,WDDDLWW,0,1,2,4,7,WWD,WDW
+Cambuur,Ajax,0-3,/match/sc-cambuur-leeuwarden/ajax/1994,1994,8,eredivisie,18,34,2,0,3,18,0,0,0,7,4,19,WLWLWLW,0,0,3,2,7,1,21,6,1,0,16,2,WDWLWLW,2,1,0,6,2,LLL,DLL
+PSV,Vitesse,0-1,/match/psv/vitesse/1994,1994,8,eredivisie,18,34,2,0,1,4,16,4,2,1,11,6,LWDWWWD,3,0,0,9,3,3,18,6,0,1,18,3,LWLLLWW,3,0,0,9,1,WWW,LLL
+VVV Venlo,Willem II,0-0,/match/vvv/willem-ii/1994,1994,8,eredivisie,18,34,1,0,0,8,12,3,1,3,8,9,WDWWLWW,2,1,0,4,1,7,13,3,1,3,11,9,WWLWWDW,0,1,2,2,4,DWW,WWD
+PSV,RKC Waalwijk,1-1,/match/psv/rkc-waalwijk/1994,1994,9,eredivisie,18,34,1,1,1,5,16,4,2,2,11,7,LWDWWWDL,3,0,1,9,4,16,6,1,2,5,7,17,WLDLDWWL,0,2,2,3,9,WWWL,WDDW
+Willem II,Twente 1965,2-0,/match/willem-ii/fc-twente-1965/1994,1994,9,eredivisie,18,34,0,2,0,7,14,3,2,3,11,9,WWLWWDWD,3,0,1,9,5,10,13,4,1,3,16,10,WLWLLLDW,2,1,1,11,7,WLWW,LWLD
+MVV Maastricht,Cambuur,0-0,/match/mvv/sc-cambuur-leeuwarden/1994,1994,9,eredivisie,18,34,1,0,0,13,9,1,3,4,9,16,WDDDLWWW,1,2,1,4,5,18,0,0,0,8,4,22,WLWLWLWL,0,0,4,2,12,DDLW,WWWW
+Go Ahead Eagles,NAC Breda,0-0,/match/go-ahead-eagles/nac-breda/1994,1994,9,eredivisie,18,34,1,0,0,11,10,2,1,5,12,14,LWWWWWDW,2,1,1,11,7,9,14,5,0,3,16,10,LLWLLWLW,3,0,1,7,3,LWWD,LLWL
+Ajax,VVV Venlo,2-0,/match/ajax/vvv/1994,1994,9,eredivisie,18,34,0,2,0,1,23,7,1,0,19,2,WDWLWLWL,4,0,0,10,0,8,14,3,2,3,8,9,WDWWLWWD,1,0,3,4,8,WWWW,WWLW
+Sparta Rotterdam,Roda JC,2-0,/match/sparta-rotterdam/roda-jc/1994,1994,9,eredivisie,18,34,0,2,0,12,10,1,3,4,5,12,WWWDDWDW,1,3,0,4,3,4,19,5,2,1,17,10,LWLWDDWW,2,1,1,8,7,WDDD,LLDW
+Vitesse,Utrecht,2-2,/match/vitesse/fc-utrecht/1994,1994,9,eredivisie,18,34,1,2,2,3,20,7,0,1,19,3,LWLLLWWL,3,0,1,9,2,14,9,2,1,5,10,18,DWWLWLWW,0,1,3,4,12,WLWW,DWWW
+Heerenveen,Feyenoord,1-3,/match/heerenveen/feyenoord/1994,1994,9,eredivisie,18,34,2,1,3,6,16,4,2,2,6,6,WWDLDLWW,2,2,0,2,0,2,23,7,1,0,14,3,WDWLLWLW,3,1,0,9,3,WDDW,DLLL
+Groningen,FC Volendam,0-0,/match/fc-groningen/fc-volendam/1994,1994,9,eredivisie,18,34,1,0,0,17,4,2,0,6,8,18,LWLLLLLW,0,0,4,4,14,15,8,2,1,5,12,18,DWWWLWLL,1,0,3,3,7,LLLL,WWWL
+Roda JC,Vitesse,2-1,/match/roda-jc/vitesse/1994,1994,10,eredivisie,18,34,0,2,1,4,19,5,2,2,17,12,LWLWDDWWW,3,1,0,9,3,3,22,7,1,1,21,5,LWLLLWWLD,4,0,0,10,1,WWDW,LLLL
+VVV Venlo,MVV Maastricht,1-7,/match/vvv/mvv/1994,1994,10,eredivisie,18,34,2,1,7,10,14,3,2,4,8,11,WDWWLWWDW,2,2,0,4,1,13,11,1,4,4,9,16,WDDDLWWWD,0,1,3,5,11,DWWD,WDWW
+Cambuur,Sparta Rotterdam,1-1,/match/sc-cambuur-leeuwarden/sparta-rotterdam/1994,1994,10,eredivisie,18,34,1,1,1,18,1,0,1,8,4,22,WLWLWLWLD,0,0,4,2,10,9,14,2,3,4,7,12,WWWDDWDWW,0,0,4,1,9,LLLL,WWWW
+NAC Breda,Heerenveen,6-0,/match/nac-breda/heerenveen/1994,1994,10,eredivisie,18,34,0,6,0,8,15,5,1,3,16,10,LLWLLWLWD,2,0,2,9,7,7,16,4,2,3,7,9,WWDLDLWWL,2,0,2,4,6,LWLW,WLLW
+FC Volendam,Go Ahead Eagles,0-1,/match/fc-volendam/go-ahead-eagles/1994,1994,10,eredivisie,18,34,2,0,1,15,9,2,2,5,12,18,DWWWLWLLD,1,1,2,9,11,12,12,2,2,5,12,14,LWWWWWDWD,0,0,4,1,7,DWLL,WWWW
+Twente 1965,Ajax,2-1,/match/fc-twente-1965/ajax/1994,1994,10,eredivisie,18,34,0,2,1,11,13,4,1,4,16,12,WLWLLLDWW,2,0,2,5,3,1,27,8,1,0,21,2,WDWLWLWLW,3,1,0,9,2,WLLW,DLLL
+Utrecht,PSV,0-4,/match/fc-utrecht/psv/1994,1994,10,eredivisie,18,34,2,0,4,14,10,2,2,5,12,20,DWWLWLWWD,2,0,2,6,6,5,18,4,3,2,12,8,LWDWWWDLD,1,2,1,2,3,WLLW,LDWD
+Feyenoord,Willem II,2-0,/match/feyenoord/willem-ii/1994,1994,10,eredivisie,18,34,0,2,0,2,25,8,1,0,17,4,WDWLLWLWL,4,0,0,5,0,6,18,4,2,3,13,9,WWLWWDWDW,0,2,2,2,4,WWWW,WWDD
+RKC Waalwijk,Groningen,2-3,/match/rkc-waalwijk/fc-groningen/1994,1994,10,eredivisie,18,34,2,2,3,16,7,1,3,5,8,18,WLDLDWWLD,1,0,3,4,8,17,6,2,1,6,8,18,LWLLLLLWD,2,0,2,4,4,LLWL,WLLW
+MVV Maastricht,Twente 1965,0-2,/match/mvv/fc-twente-1965/1994,1994,11,eredivisie,18,34,2,0,2,13,13,2,4,4,16,17,WDDDLWWWDL,1,3,1,4,5,8,17,5,1,4,18,13,WLWLLLDWWW,2,1,2,11,9,DDLWD,LWLDW
+Go Ahead Eagles,Groningen,3-0,/match/go-ahead-eagles/fc-groningen/1994,1994,11,eredivisie,18,34,0,3,0,11,14,3,2,5,13,14,LWWWWWDWDL,2,2,1,11,7,16,8,3,1,6,11,20,LWLLLLLWDL,3,0,2,7,6,LWWDD,WLLWL
+PSV,Roda JC,2-0,/match/psv/roda-jc/1994,1994,11,eredivisie,18,34,0,2,0,5,20,5,3,2,16,8,LWDWWWDLDL,3,1,1,10,5,3,23,6,2,2,19,13,LWLWDDWWWW,2,1,2,8,9,WWWLD,LLDWW
+Heerenveen,FC Volendam,3-1,/match/heerenveen/fc-volendam/1994,1994,11,eredivisie,18,34,0,3,1,9,16,4,2,4,7,15,WWDLDLWWLW,2,2,1,3,3,15,9,2,2,6,12,19,DWWWLWLLDL,1,1,3,3,7,WDDWL,WWWLD
+Vitesse,Cambuur,2-1,/match/vitesse/sc-cambuur-leeuwarden/1994,1994,11,eredivisie,18,34,0,2,1,4,22,7,1,2,22,7,LWLLLWWLDW,3,1,1,11,4,18,3,0,2,8,5,23,WLWLWLWLDD,0,1,4,2,12,WLWWD,WWWWD
+Sparta Rotterdam,VVV Venlo,2-2,/match/sparta-rotterdam/vvv/1994,1994,11,eredivisie,18,34,1,2,2,10,15,2,4,4,8,13,WWWDDWDWWD,2,3,0,6,3,12,14,3,2,5,9,18,WDWWLWWDWL,1,0,4,4,10,WDDDW,WWLWW
+Ajax,Feyenoord,2-2,/match/ajax/feyenoord/1994,1994,11,eredivisie,18,34,1,2,2,2,27,8,1,1,22,4,WDWLWLWLWW,5,0,0,12,0,1,29,9,1,0,19,4,WDWLLWLWLW,4,1,0,12,4,WWWWW,DLLLL
+Utrecht,RKC Waalwijk,3-1,/match/fc-utrecht/rkc-waalwijk/1994,1994,11,eredivisie,18,34,0,3,1,14,10,2,2,6,12,24,DWWLWLWWDL,2,0,3,6,10,17,7,1,3,6,10,21,WLDLDWWLDL,0,3,2,4,10,WLLWL,WDDWD
+Willem II,NAC Breda,2-0,/match/willem-ii/nac-breda/1994,1994,11,eredivisie,18,34,0,2,0,7,18,4,2,4,13,11,WWLWWDWDWW,4,0,1,11,5,6,19,6,1,3,22,10,LLWLLWLWDW,3,1,1,7,3,WLWWW,LLWLD
+VVV Venlo,Vitesse,2-1,/match/vvv/vitesse/1994,1994,12,eredivisie,18,34,0,2,1,12,15,3,3,5,11,20,WDWWLWWDWLD,2,2,1,5,8,3,26,8,1,2,24,8,LWLLLWWLDWW,4,0,1,11,3,DWWDL,LLLLW
+Roda JC,Utrecht,4-0,/match/roda-jc/fc-utrecht/1994,1994,12,eredivisie,18,34,0,4,0,5,23,6,2,3,19,15,LWLWDDWWWWW,4,1,0,11,4,13,14,3,2,6,15,25,DWWLWLWWDLW,0,2,3,6,14,WWDWW,DWWWD
+NAC Breda,Ajax,0-5,/match/nac-breda/ajax/1994,1994,12,eredivisie,18,34,2,0,5,8,19,6,1,4,22,12,LLWLLWLWDWW,3,0,2,15,7,2,29,8,2,1,24,6,WDWLWLWLWWD,3,1,1,10,4,LWLWW,DLLLW
+Cambuur,PSV,1-3,/match/sc-cambuur-leeuwarden/psv/1994,1994,12,eredivisie,18,34,2,1,3,18,3,0,2,9,6,25,WLWLWLWLDDW,0,1,4,3,11,4,24,6,3,2,18,8,LWDWWWDLDLW,2,2,1,6,3,LLLLD,LDWDL
+Groningen,Heerenveen,2-2,/match/fc-groningen/heerenveen/1994,1994,12,eredivisie,18,34,1,2,2,16,8,3,1,7,11,23,LWLLLLLWDLW,0,1,4,4,14,7,20,5,2,4,10,16,WWDLDLWWLWW,2,0,3,4,12,LLLLD,WLLWW
+Twente 1965,Sparta Rotterdam,0-0,/match/fc-twente-1965/sparta-rotterdam/1994,1994,12,eredivisie,18,34,1,0,0,9,19,6,1,4,20,13,WLWLLLDWWWL,3,0,2,7,4,11,17,2,5,4,10,15,WWWDDWDWWDD,0,1,4,2,10,WLLWW,WWWWD
+FC Volendam,Willem II,0-3,/match/fc-volendam/willem-ii/1994,1994,12,eredivisie,18,34,2,0,3,15,9,2,2,7,13,22,DWWWLWLLDLW,1,1,3,9,12,6,22,5,2,4,15,11,WWLWWDWDWWW,0,2,3,2,6,DWLLL,WWDDW
+Feyenoord,MVV Maastricht,4-0,/match/feyenoord/mvv/1994,1994,12,eredivisie,18,34,0,4,0,1,30,9,2,0,21,6,WDWLLWLWLWD,5,0,0,7,0,14,13,2,4,5,16,19,WDDDLWWWDLL,1,1,3,12,12,WWWWW,WDWWL
+RKC Waalwijk,Go Ahead Eagles,1-2,/match/rkc-waalwijk/go-ahead-eagles/1994,1994,12,eredivisie,18,34,2,1,2,17,7,1,3,7,11,24,WLDLDWWLDLW,1,0,4,6,11,10,18,4,2,5,16,14,LWWWWWDWDLW,1,0,4,2,7,LLWLL,WWWWL
+MVV Maastricht,NAC Breda,2-1,/match/mvv/nac-breda/1994,1994,13,eredivisie,18,34,0,2,1,14,13,2,4,6,16,23,WDDDLWWWDLLW,1,3,2,4,7,10,19,6,1,5,22,17,LLWLLWLWDWWL,3,1,2,7,5,DDLWDL,LLWLDW
+PSV,VVV Venlo,3-2,/match/psv/vvv/1994,1994,13,eredivisie,18,34,0,3,2,5,26,7,3,2,21,9,LWDWWWDLDLWL,4,1,1,12,5,11,19,4,3,5,13,21,WDWWLWWDWLDW,1,1,4,6,12,WWWLDW,WWLWWD
+Heerenveen,Go Ahead Eagles,1-4,/match/heerenveen/go-ahead-eagles/1994,1994,13,eredivisie,18,34,2,1,4,8,21,5,3,4,12,18,WWDLDLWWLWWD,3,2,1,6,4,9,20,5,2,5,18,15,LWWWWWDWDLWL,2,0,4,4,8,WDDWLW,WWWWLL
+Willem II,Groningen,4-1,/match/willem-ii/fc-groningen/1994,1994,13,eredivisie,18,34,0,4,1,6,24,6,2,4,18,11,WWLWWDWDWWWL,5,0,1,13,5,15,10,3,2,7,13,25,LWLLLLLWDLWD,3,0,3,7,9,WLWWWW,WLLWLW
+Ajax,FC Volendam,3-1,/match/ajax/fc-volendam/1994,1994,13,eredivisie,18,34,0,3,1,2,31,9,2,1,29,6,WDWLWLWLWWDL,5,1,0,14,2,16,9,2,2,8,13,25,DWWWLWLLDLWL,1,1,4,4,10,WWWWWD,WWWLDW
+Utrecht,Cambuur,2-0,/match/fc-utrecht/sc-cambuur-leeuwarden/1994,1994,13,eredivisie,18,34,0,2,0,13,14,3,2,7,15,29,DWWLWLWWDLWW,3,0,3,9,11,18,3,0,2,10,7,28,WLWLWLWLDDWL,0,1,5,3,14,WLLWLW,WWWWDW
+Roda JC,RKC Waalwijk,2-0,/match/roda-jc/rkc-waalwijk/1994,1994,13,eredivisie,18,34,0,2,0,3,27,7,2,3,23,15,LWLWDDWWWWWW,5,1,0,15,4,17,7,1,3,8,12,26,WLDLDWWLDLWL,0,3,3,5,13,WWDWWW,WDDWDW
+Sparta Rotterdam,Feyenoord,3-4,/match/sparta-rotterdam/feyenoord/1994,1994,13,eredivisie,18,34,2,3,4,12,18,2,6,4,10,15,WWWDDWDWWDDD,2,4,0,8,5,1,34,10,2,0,25,6,WDWLLWLWLWDW,4,2,0,14,6,WDDDWD,DLLLLD
+Vitesse,Twente 1965,3-0,/match/vitesse/fc-twente-1965/1994,1994,13,eredivisie,18,34,0,3,0,4,26,8,1,3,25,10,LWLLLWWLDWWW,4,1,1,13,5,7,21,6,2,4,20,13,WLWLLLDWWWLD,3,1,2,13,9,WLWWDW,LWLDWL
+VVV Venlo,Utrecht,1-1,/match/vvv/fc-utrecht/1994,1994,14,eredivisie,18,34,1,1,1,10,19,4,3,6,15,24,WDWWLWWDWLDWW,3,2,1,7,9,13,18,4,2,7,17,29,DWWLWLWWDLWWW,0,2,4,6,18,DWWDLW,DWWWDW
+Go Ahead Eagles,Willem II,3-0,/match/go-ahead-eagles/willem-ii/1994,1994,14,eredivisie,18,34,0,3,0,7,22,6,2,5,22,16,LWWWWWDWDLWLL,3,2,1,14,7,6,28,7,2,4,22,12,WWLWWDWDWWWLW,1,2,3,5,6,LWWDDW,WWDDWL
+NAC Breda,Sparta Rotterdam,4-3,/match/nac-breda/sparta-rotterdam/1994,1994,14,eredivisie,18,34,0,4,3,11,19,6,1,6,23,19,LLWLLWLWDWWLW,3,0,3,15,12,12,18,2,6,5,13,19,WWWDDWDWWDDDL,0,2,4,2,10,LWLWWL,WWWWDD
+Groningen,Ajax,0-4,/match/fc-groningen/ajax/1994,1994,14,eredivisie,18,34,2,0,4,15,10,3,2,8,14,29,LWLLLLLWDLWDW,0,2,4,6,16,2,35,10,2,1,32,7,WDWLWLWLWWDLW,4,1,1,15,4,LLLLDD,DLLLWL
+FC Volendam,MVV Maastricht,5-0,/match/fc-volendam/mvv/1994,1994,14,eredivisie,18,34,0,5,0,16,9,2,2,9,14,28,DWWWLWLLDLWLW,1,1,4,9,15,14,17,3,4,6,18,24,WDDDLWWWDLLWW,1,1,4,12,16,DWLLLL,WDWWLW
+Feyenoord,Vitesse,1-1,/match/feyenoord/vitesse/1994,1994,14,eredivisie,18,34,1,1,1,1,36,11,2,0,29,9,WDWLLWLWLWDWL,6,0,0,11,0,4,30,9,1,3,28,10,LWLLLWWLDWWWW,4,0,2,12,5,WWWWWW,LLLLWW
+RKC Waalwijk,Heerenveen,1-1,/match/rkc-waalwijk/heerenveen/1994,1994,14,eredivisie,18,34,1,1,1,17,7,1,3,9,12,28,WLDLDWWLDLWLW,1,0,5,7,13,9,21,5,3,5,13,22,WWDLDLWWLWWDL,2,1,3,6,14,LLWLLL,WLLWWD
+Cambuur,Roda JC,0-1,/match/sc-cambuur-leeuwarden/roda-jc/1994,1994,14,eredivisie,18,34,2,0,1,18,3,0,2,11,7,30,WLWLWLWLDDWLW,0,1,5,4,14,3,31,8,2,3,25,15,LWLWDDWWWWWWW,2,1,3,8,11,LLLLDL,LLDWWW
+Twente 1965,PSV,0-0,/match/fc-twente-1965/psv/1994,1994,14,eredivisie,18,34,1,0,0,8,21,6,2,5,20,16,WLWLLLDWWWLDW,3,1,2,7,4,5,30,8,3,2,24,11,LWDWWWDLDLWLW,3,2,1,9,4,WLLWWD,LDWDLL
+Willem II,Heerenveen,1-1,/match/willem-ii/heerenveen/1994,1994,15,eredivisie,18,34,1,1,1,6,28,7,2,5,22,15,WWLWWDWDWWWLWW,6,0,1,17,6,10,22,5,4,5,14,23,WWDLDLWWLWWDLD,2,2,3,7,15,WLWWWWW,WLLWWDD
+Roda JC,VVV Venlo,0-0,/match/roda-jc/vvv/1994,1994,15,eredivisie,18,34,1,0,0,3,33,9,2,3,26,15,LWLWDDWWWWWWWL,6,1,0,17,4,11,21,4,4,6,16,25,WDWWLWWDWLDWWD,1,1,5,8,15,WWDWWWW,WWLWWDW
+Utrecht,Twente 1965,1-0,/match/fc-utrecht/fc-twente-1965/1994,1994,15,eredivisie,18,34,0,1,0,12,19,4,3,7,18,30,DWWLWLWWDLWWWD,4,0,3,11,11,9,23,6,3,5,20,16,WLWLLLDWWWLDWD,3,1,3,13,12,WLLWLWW,LWLDWLW
+PSV,Feyenoord,1-3,/match/psv/feyenoord/1994,1994,15,eredivisie,18,34,2,1,3,5,31,8,4,2,24,11,LWDWWWDLDLWLWD,5,1,1,15,7,1,38,11,3,0,30,10,WDWLLWLWLWDWLD,5,2,0,18,9,WWWLDWW,DLLLLDL
+Ajax,Go Ahead Eagles,4-0,/match/ajax/go-ahead-eagles/1994,1994,15,eredivisie,18,34,0,4,0,2,37,11,2,1,36,7,WDWLWLWLWWDLWL,6,1,0,17,3,7,26,7,2,5,25,16,LWWWWWDWDLWLLW,3,0,4,8,9,WWWWWDW,WWWWLLL
+Cambuur,RKC Waalwijk,1-1,/match/sc-cambuur-leeuwarden/rkc-waalwijk/1994,1994,15,eredivisie,18,34,1,1,1,18,3,0,2,12,7,31,WLWLWLWLDDWLWL,0,1,6,4,15,17,9,1,4,9,13,29,WLDLDWWLDLWLWD,0,3,4,5,15,LLLLDLL,WDDWDWW
+Sparta Rotterdam,FC Volendam,4-1,/match/sparta-rotterdam/fc-volendam/1994,1994,15,eredivisie,18,34,0,4,1,13,18,2,6,6,16,23,WWWDDWDWWDDDLW,2,4,1,11,9,15,13,3,2,9,19,28,DWWWLWLLDLWLWW,1,1,5,5,13,WDDDWDL,WWWLDWW
+Vitesse,NAC Breda,3-1,/match/vitesse/nac-breda/1994,1994,15,eredivisie,18,34,0,3,1,4,31,9,2,3,29,11,LWLLLWWLDWWWWD,5,1,1,16,5,8,23,7,1,6,27,22,LLWLLWLWDWWLWW,3,1,3,8,7,WLWWDWW,LLWLDWW
+MVV Maastricht,Groningen,2-0,/match/mvv/fc-groningen/1994,1994,15,eredivisie,18,34,0,2,0,14,17,3,4,7,18,29,WDDDLWWWDLLWWW,2,3,2,6,8,16,10,3,2,9,14,33,LWLLLLLWDLWDWL,3,0,4,8,13,DDLWDLW,WLLWLWW
+Go Ahead Eagles,MVV Maastricht,2-2,/match/go-ahead-eagles/mvv/1994,1994,16,eredivisie,18,34,1,2,2,7,26,7,2,6,25,20,LWWWWWDWDLWLLWW,4,2,1,17,7,14,21,4,4,7,20,29,WDDDLWWWDLLWWWW,1,1,5,12,21,LWWDDWW,WDWWLWW
+NAC Breda,PSV,2-2,/match/nac-breda/psv/1994,1994,16,eredivisie,18,34,1,2,2,11,23,7,1,7,28,25,LLWLLWLWDWWLWWW,4,0,3,19,15,5,31,8,4,3,25,14,LWDWWWDLDLWLWDL,3,3,1,9,4,LWLWWLW,LDWDLLD
+Groningen,Sparta Rotterdam,1-4,/match/fc-groningen/sparta-rotterdam/1994,1994,16,eredivisie,18,34,2,1,4,16,10,3,2,10,14,35,LWLLLLLWDLWDWLW,0,2,5,6,20,13,22,3,6,6,20,24,WWWDDWDWWDDDLWW,0,2,5,5,14,LLLLDDL,WWWWDDW
+Willem II,RKC Waalwijk,4-1,/match/willem-ii/rkc-waalwijk/1994,1994,16,eredivisie,18,34,0,4,1,6,30,7,3,5,23,16,WWLWWDWDWWWLWWD,6,1,1,18,7,17,10,1,5,9,14,30,WLDLDWWLDLWLWDD,0,4,4,6,16,WLWWWWWD,WDDWDWWD
+Twente 1965,Roda JC,2-1,/match/fc-twente-1965/roda-jc/1994,1994,16,eredivisie,18,34,0,2,1,10,23,6,3,6,20,17,WLWLLLDWWWLDWDW,3,2,2,7,4,3,35,9,3,3,26,15,LWLWDDWWWWWWWLD,3,1,3,9,11,WLLWWDD,LLDWWWL
+FC Volendam,Vitesse,2-0,/match/fc-volendam/vitesse/1994,1994,16,eredivisie,18,34,0,2,0,15,13,3,2,10,20,32,DWWWLWLLDLWLWWW,2,1,4,14,15,4,35,10,2,3,32,12,LWLLLWWLDWWWWDW,4,1,2,13,6,DWLLLLW,LLLLWWD
+Feyenoord,Utrecht,1-1,/match/feyenoord/fc-utrecht/1994,1994,16,eredivisie,18,34,1,1,1,2,40,12,3,0,33,11,WDWLLWLWLWDWLDL,6,1,0,12,1,8,23,5,3,7,19,30,DWWLWLWWDLWWWDW,0,3,4,7,19,WWWWWWD,DWWWDWD
+VVV Venlo,Cambuur,1-0,/match/vvv/sc-cambuur-leeuwarden/1994,1994,16,eredivisie,18,34,0,1,0,12,22,4,5,6,16,25,WDWWLWWDWLDWWDD,3,3,1,8,10,18,5,0,3,12,8,32,WLWLWLWLDDWLWLD,0,1,6,3,16,DWWDLWD,WWWWDWW
+Heerenveen,Ajax,1-4,/match/heerenveen/ajax/1994,1994,16,eredivisie,18,34,2,1,4,9,23,5,5,5,15,24,WWDLDLWWLWWDLDD,3,2,2,7,8,1,41,12,2,1,40,7,WDWLWLWLWWDLWLW,5,1,1,19,4,WDDWLWL,DLLLWLL
+Cambuur,Twente 1965,1-1,/match/sc-cambuur-leeuwarden/fc-twente-1965/1994,1994,17,eredivisie,18,34,1,1,1,18,5,0,3,13,8,33,WLWLWLWLDDWLWLDW,0,2,6,5,16,8,27,7,3,6,22,18,WLWLLLDWWWLDWDWW,3,1,4,13,13,LLLLDLLD,LWLDWLWW
+Roda JC,Feyenoord,1-0,/match/roda-jc/feyenoord/1994,1994,17,eredivisie,18,34,0,1,0,3,35,9,3,4,27,17,LWLWDDWWWWWWWLDW,6,2,0,17,4,2,42,12,4,0,34,12,WDWLLWLWLWDWLDLD,6,2,0,21,10,WWDWWWWD,DLLLLDLL
+MVV Maastricht,Heerenveen,3-1,/match/mvv/heerenveen/1994,1994,17,eredivisie,18,34,0,3,1,14,22,4,5,7,22,31,WDDDLWWWDLLWWWWD,3,3,2,8,8,13,23,5,5,6,16,28,WWDLDLWWLWWDLDDL,2,3,3,8,16,DDLWDLWW,WLLWWDDD
+PSV,FC Volendam,3-0,/match/psv/fc-volendam/1994,1994,17,eredivisie,18,34,0,3,0,6,32,8,5,3,27,16,LWDWWWDLDLWLWDLD,5,1,2,16,10,15,17,4,2,10,22,32,DWWWLWLLDLWLWWWW,1,1,6,6,17,WWWLDWWL,WWWLDWWW
+Ajax,Willem II,3-1,/match/ajax/willem-ii/1994,1994,17,eredivisie,18,34,0,3,1,1,43,13,2,1,44,8,WDWLWLWLWWDLWLWL,7,1,0,21,3,5,34,8,3,5,27,17,WWLWWDWDWWWLWWDW,1,2,4,5,9,WWWWWDWW,WWDDWLW
+Utrecht,NAC Breda,0-5,/match/fc-utrecht/nac-breda/1994,1994,17,eredivisie,18,34,2,0,5,11,24,5,4,7,20,31,DWWLWLWWDLWWWDWD,5,0,3,12,11,10,25,7,2,7,30,27,LLWLLWLWDWWLWWWD,3,1,4,9,10,WLLWLWWW,LLWLDWWW
+RKC Waalwijk,VVV Venlo,1-2,/match/rkc-waalwijk/vvv/1994,1994,17,eredivisie,18,34,2,1,2,17,10,1,5,10,15,34,WLDLDWWLDLWLWDDW,1,1,5,8,14,9,26,5,5,6,17,25,WDWWLWWDWLDWWDDW,1,2,5,8,15,LLWLLLD,WWLWWDWD
+Sparta Rotterdam,Go Ahead Eagles,1-0,/match/sparta-rotterdam/go-ahead-eagles/1994,1994,17,eredivisie,18,34,0,1,0,12,24,4,6,6,24,25,WWWDDWDWWDDDLWWL,3,4,1,15,10,7,28,7,3,6,27,22,LWWWWWDWDLWLLWWD,3,0,5,8,13,WDDDWDLW,WWWWLLLW
+Vitesse,Groningen,4-1,/match/vitesse/fc-groningen/1994,1994,17,eredivisie,18,34,0,4,1,4,35,10,2,4,32,14,LWLLLWWLDWWWWDWW,6,1,1,19,6,16,10,3,2,11,15,39,LWLLLLLWDLWDWLWL,3,0,5,8,15,WLWWDWWW,WLLWLWWW
+MVV Maastricht,Willem II,1-0,/match/mvv/willem-ii/1994,1994,18,eredivisie,18,34,0,1,0,12,26,5,5,7,25,32,WDDDLWWWDLLWWWWDW,4,3,2,11,9,6,34,8,3,6,28,20,WWLWWDWDWWWLWWDWW,1,2,5,6,12,DDLWDLWWW,WWDDWLWW
+PSV,Groningen,1-1,/match/psv/fc-groningen/1994,1994,18,eredivisie,18,34,1,1,1,5,36,9,5,3,30,16,LWDWWWDLDLWLWDLDW,6,1,2,19,10,16,10,3,2,12,16,43,LWLLLLLWDLWDWLWLW,3,0,6,9,19,WWWLDWWLW,WLLWLWWWW
+VVV Venlo,Twente 1965,0-0,/match/vvv/fc-twente-1965/1994,1994,18,eredivisie,18,34,1,0,0,10,28,6,5,6,19,26,WDWWLWWDWLDWWDDWL,4,3,1,9,10,9,28,7,4,6,23,19,WLWLLLDWWWLDWDWWD,3,2,4,14,14,DWWDLWDW,LWLDWLWWD
+Utrecht,FC Volendam,3-1,/match/fc-utrecht/fc-volendam/1994,1994,18,eredivisie,18,34,0,3,1,13,24,5,4,8,20,36,DWWLWLWWDLWWWDWDL,5,0,4,12,16,15,17,4,2,11,22,35,DWWWLWLLDLWLWWWWW,1,1,7,6,20,WLLWLWWWL,WWWLDWWWW
+Sparta Rotterdam,Heerenveen,3-0,/match/sparta-rotterdam/heerenveen/1994,1994,18,eredivisie,18,34,0,3,0,7,28,5,6,6,25,25,WWWDDWDWWDDDLWWLW,4,4,1,16,10,14,23,5,5,7,17,31,WWDLDLWWLWWDLDDLW,2,3,4,9,19,WDDDWDLWW,WLLWWDDDW
+Vitesse,Go Ahead Eagles,5-0,/match/vitesse/go-ahead-eagles/1994,1994,18,eredivisie,18,34,0,5,0,4,39,11,2,4,36,15,LWLLLWWLDWWWWDWWW,7,1,1,23,7,8,28,7,3,7,27,23,LWWWWWDWDLWLLWWDW,3,0,6,8,14,WLWWDWWWW,WWWWLLLWW
+RKC Waalwijk,Ajax,0-3,/match/rkc-waalwijk/ajax/1994,1994,18,eredivisie,18,34,2,0,3,17,10,1,5,11,16,36,WLDLDWWLDLWLWDDWL,1,1,6,9,16,1,47,14,2,1,47,9,WDWLWLWLWWDLWLWLW,6,1,1,23,5,LLWLLLDL,DLLLWLLL
+Roda JC,NAC Breda,1-2,/match/roda-jc/nac-breda/1994,1994,18,eredivisie,18,34,2,1,2,3,39,10,3,4,28,17,LWLWDDWWWWWWWLDWW,7,2,0,18,4,11,27,8,2,7,35,27,LLWLLWLWDWWLWWWDL,4,1,4,14,10,WWDWWWWDW,LLWLDWWWL
+Cambuur,Feyenoord,0-0,/match/sc-cambuur-leeuwarden/feyenoord/1994,1994,18,eredivisie,18,34,1,0,0,18,7,0,4,13,9,34,WLWLWLWLDDWLWLDWD,0,3,6,6,17,2,42,12,4,1,34,13,WDWLLWLWLWDWLDLDW,6,2,1,21,11,LLLLDLLDD,DLLLLDLLW
+Go Ahead Eagles,PSV,0-4,/match/go-ahead-eagles/psv/1994,1994,19,eredivisie,18,34,2,0,4,12,28,7,3,8,27,28,LWWWWWDWDLWLLWWDWW,4,3,1,19,9,5,38,9,6,3,31,17,LWDWWWDLDLWLWDLDWD,3,4,1,11,6,LWWDDWWD,LDWDLLDD
+NAC Breda,Cambuur,2-0,/match/nac-breda/sc-cambuur-leeuwarden/1994,1994,19,eredivisie,18,34,0,2,0,11,29,9,2,7,37,28,LLWLLWLWDWWLWWWDLL,4,1,3,21,17,18,9,0,5,13,9,34,WLWLWLWLDDWLWLDWDD,0,1,7,3,17,LWLWWLWD,WWWWDWWW
+Heerenveen,Vitesse,0-4,/match/heerenveen/vitesse/1994,1994,19,eredivisie,18,34,2,0,4,14,23,5,5,8,17,34,WWDLDLWWLWWDLDDLWW,3,2,3,8,12,3,43,12,2,4,41,15,LWLLLWWLDWWWWDWWWW,4,1,3,13,8,WDDWLWLL,LLLLWWDW
+Willem II,Sparta Rotterdam,5-1,/match/willem-ii/sparta-rotterdam/1994,1994,19,eredivisie,18,34,0,5,1,6,34,8,3,7,28,21,WWLWWDWDWWWLWWDWWW,7,1,1,22,8,7,32,6,6,6,28,25,WWWDDWDWWDDDLWWLWW,1,2,5,9,15,WLWWWWWDW,WWWWDDWL
+Ajax,MVV Maastricht,4-1,/match/ajax/mvv/1994,1994,19,eredivisie,18,34,0,4,1,1,49,15,2,1,50,9,WDWLWLWLWWDLWLWLWL,8,1,0,24,4,8,30,6,5,7,26,32,WDDDLWWWDLLWWWWDWW,1,2,5,14,23,WWWWWDWWW,WDWWLWWD
+Groningen,Utrecht,4-1,/match/fc-groningen/fc-utrecht/1994,1994,19,eredivisie,18,34,0,4,1,16,11,3,3,12,17,44,LWLLLLLWDLWDWLWLWD,0,2,6,7,24,13,28,6,4,8,23,37,DWWLWLWWDLWWWDWDLW,0,4,4,8,20,LLLLDDLL,DWWWDWDD
+Twente 1965,RKC Waalwijk,2-1,/match/fc-twente-1965/rkc-waalwijk/1994,1994,19,eredivisie,18,34,0,2,1,10,29,7,5,6,23,19,WLWLLLDWWWLDWDWWDD,4,2,2,9,5,17,10,1,5,12,16,39,WLDLDWWLDLWLWDDWLL,0,4,5,7,20,WLLWWDDW,WDDWDWWDW
+Feyenoord,VVV Venlo,5-0,/match/feyenoord/vvv/1994,1994,19,eredivisie,18,34,0,5,0,2,43,12,5,1,34,13,WDWLLWLWLWDWLDLDWD,6,2,0,13,2,9,30,6,6,6,19,26,WDWWLWWDWLDWWDDWLD,2,2,5,10,16,WWWWWWDD,WWLWWDWDL
+FC Volendam,Roda JC,2-0,/match/fc-volendam/roda-jc/1994,1994,19,eredivisie,18,34,0,2,0,15,17,4,2,12,23,38,DWWWLWLLDLWLWWWWWW,3,1,4,16,15,4,39,10,3,5,29,19,LWLWDDWWWWWWWLDWWL,3,1,4,10,13,DWLLLLWW,LLDWWWLW
+VVV Venlo,NAC Breda,1-1,/match/vvv/nac-breda/1994,1994,20,eredivisie,18,34,1,1,1,10,30,6,6,7,19,31,WDWWLWWDWLDWWDDWLDW,4,4,1,9,10,7,33,10,2,7,39,28,LLWLLWLWDWWLWWWDLLW,5,1,4,16,11,DWWDLWDWD,LLWLDWWWLL
+Cambuur,FC Volendam,3-1,/match/sc-cambuur-leeuwarden/fc-volendam/1994,1994,20,eredivisie,18,34,0,3,1,18,9,0,5,14,9,36,WLWLWLWLDDWLWLDWDDW,0,4,6,6,17,15,21,5,2,12,25,38,DWWWLWLLDLWLWWWWWWW,1,1,8,7,23,LLLLDLLDDD,WWWLDWWWWW
+PSV,Heerenveen,1-1,/match/psv/heerenveen/1994,1994,20,eredivisie,18,34,1,1,1,4,40,10,6,3,35,17,LWDWWWDLDLWLWDLDWDL,6,2,2,20,11,14,23,5,5,9,17,38,WWDLDLWWLWWDLDDLWWL,2,3,5,9,22,WWWLDWWLWD,WLLWWDDDWW
+Vitesse,Willem II,0-1,/match/vitesse/willem-ii/1994,1994,20,eredivisie,18,34,2,0,1,3,45,13,2,4,45,15,LWLLLWWLDWWWWDWWWWL,8,1,1,28,7,6,38,9,3,7,33,22,WWLWWDWDWWWLWWDWWWW,1,2,6,6,13,WLWWDWWWWW,WWDDWLWWW
+Utrecht,Go Ahead Eagles,2-0,/match/fc-utrecht/go-ahead-eagles/1994,1994,20,eredivisie,18,34,0,2,0,13,28,6,4,9,24,41,DWWLWLWWDLWWWDWDLWW,6,0,4,15,17,12,28,7,3,9,27,32,LWWWWWDWDLWLLWWDWWL,3,0,7,8,19,WLLWLWWWLW,WWWWLLLWWW
+Sparta Rotterdam,Ajax,0-1,/match/sparta-rotterdam/ajax/1994,1994,20,eredivisie,18,34,2,0,1,9,32,6,6,7,29,30,WWWDDWDWWDDDLWWLWWW,5,4,1,19,10,1,53,16,2,1,54,10,WDWLWLWLWWDLWLWLWLW,7,1,1,26,5,WDDDWDLWWW,DLLLWLLLL
+RKC Waalwijk,MVV Maastricht,0-2,/match/rkc-waalwijk/mvv/1994,1994,20,eredivisie,18,34,2,0,2,17,10,1,5,13,17,41,WLDLDWWLDLWLWDDWLLW,1,1,7,9,19,11,30,6,5,8,27,36,WDDDLWWWDLLWWWWDWWW,1,2,6,15,27,LLWLLLDLL,WDWWLWWDW
+Roda JC,Groningen,2-0,/match/roda-jc/fc-groningen/1994,1994,20,eredivisie,18,34,0,2,0,5,39,10,3,6,29,21,LWLWDDWWWWWWWLDWWLW,7,2,1,19,6,16,15,4,3,12,21,45,LWLLLLLWDLWDWLWLWDW,3,1,6,10,20,WWDWWWWDWL,WLLWLWWWWD
+Twente 1965,Feyenoord,1-1,/match/fc-twente-1965/feyenoord/1994,1994,20,eredivisie,18,34,1,1,1,8,33,8,5,6,25,20,WLWLLLDWWWLDWDWWDDW,5,2,2,11,6,2,47,13,5,1,39,13,WDWLLWLWLWDWLDLDWDW,6,3,1,21,11,WLLWWDDWW,DLLLLDLLWD
+Go Ahead Eagles,Roda JC,3-1,/match/go-ahead-eagles/roda-jc/1994,1994,21,eredivisie,18,34,0,3,1,13,28,7,3,10,27,34,LWWWWWDWDLWLLWWDWWLW,4,3,2,19,13,4,43,11,3,6,31,21,LWLWDDWWWWWWWLDWWLWW,3,1,5,10,15,LWWDDWWDL,LLDWWWLWW
+NAC Breda,Twente 1965,2-1,/match/nac-breda/fc-twente-1965/1994,1994,21,eredivisie,18,34,0,2,1,8,34,10,3,7,40,29,LLWLLWLWDWWLWWWDLLWD,5,1,3,23,17,7,35,8,6,6,26,21,WLWLLLDWWWLDWDWWDDWD,3,3,4,14,14,LWLWWLWDW,LWLDWLWWDD
+Heerenveen,Utrecht,1-0,/match/heerenveen/fc-utrecht/1994,1994,21,eredivisie,18,34,0,1,0,14,24,5,6,9,18,39,WWDLDLWWLWWDLDDLWWLD,3,2,4,8,16,10,32,7,4,9,26,41,DWWLWLWWDLWWWDWDLWWW,0,4,5,9,24,WDDWLWLLL,DWWWDWDDW
+Ajax,Vitesse,3-1,/match/ajax/vitesse/1994,1994,21,eredivisie,18,34,0,3,1,1,55,17,2,1,55,10,WDWLWLWLWWDLWLWLWLWL,9,1,0,28,5,3,45,13,2,5,45,16,LWLLLWWLDWWWWDWWWWLL,5,1,3,17,8,WWWWWDWWWW,LLLLWWDWL
+Groningen,Cambuur,2-2,/match/fc-groningen/sc-cambuur-leeuwarden/1994,1994,21,eredivisie,18,34,1,2,2,16,15,4,3,13,21,47,LWLLLLLWDLWDWLWLWDWW,1,2,6,11,25,17,13,1,5,14,12,37,WLWLWLWLDDWLWLDWDDWW,0,1,8,3,19,LLLLDDLLW,WWWWDWWWW
+FC Volendam,VVV Venlo,1-1,/match/fc-volendam/vvv/1994,1994,21,eredivisie,18,34,1,1,1,15,21,5,2,13,26,41,DWWWLWLLDLWLWWWWWWWW,4,1,4,18,15,11,32,6,7,7,20,32,WDWWLWWDWLDWWDDWLDWD,2,2,6,10,21,DWLLLLWWW,WWLWWDWDLW
+Feyenoord,RKC Waalwijk,1-1,/match/feyenoord/rkc-waalwijk/1994,1994,21,eredivisie,18,34,1,1,1,2,48,13,6,1,40,14,WDWLLWLWLWDWLDLDWDWD,7,2,0,18,2,18,10,1,5,14,17,43,WLDLDWWLDLWLWDDWLLWL,0,4,6,8,22,WWWWWWDDW,WDDWDWWDWW
+MVV Maastricht,Sparta Rotterdam,0-0,/match/mvv/sparta-rotterdam/1994,1994,21,eredivisie,18,34,1,0,0,9,32,7,5,8,29,36,WDDDLWWWDLLWWWWDWWWL,5,3,2,12,9,12,32,6,6,8,29,31,WWWDDWDWWDDDLWWLWWWL,1,2,6,10,20,DDLWDLWWWW,WWWWDDWLW
+Willem II,PSV,1-1,/match/willem-ii/psv/1994,1994,21,eredivisie,18,34,1,1,1,6,40,10,3,7,34,22,WWLWWDWDWWWLWWDWWWWL,8,1,1,27,9,5,42,10,7,3,36,18,LWDWWWDLDLWLWDLDWDLD,4,4,1,15,6,WLWWWWWDWW,LDWDLLDDL
+Cambuur,Go Ahead Eagles,1-0,/match/sc-cambuur-leeuwarden/go-ahead-eagles/1994,1994,22,eredivisie,18,34,0,1,0,17,14,1,6,14,14,39,WLWLWLWLDDWLWLDWDDWWD,1,4,6,9,18,12,32,8,3,10,30,35,LWWWWWDWDLWLLWWDWWLWW,3,0,8,8,21,LLLLDLLDDDW,WWWWLLLWWWW
+VVV Venlo,Groningen,1-3,/match/vvv/fc-groningen/1994,1994,22,eredivisie,18,34,2,1,3,10,33,6,8,7,21,33,WDWWLWWDWLDWWDDWLDWDD,4,5,1,10,11,16,17,4,4,13,23,49,LWLLLLLWDLWDWLWLWDWWD,3,1,7,10,22,DWWDLWDWDD,WLLWLWWWWDW
+Vitesse,MVV Maastricht,1-3,/match/vitesse/mvv/1994,1994,22,eredivisie,18,34,2,1,3,3,45,13,2,6,46,19,LWLLLWWLDWWWWDWWWWLLW,8,1,2,28,8,9,34,7,6,8,29,36,WDDDLWWWDLLWWWWDWWWLD,2,2,6,17,27,WLWWDWWWWWL,WDWWLWWDWL
+RKC Waalwijk,Sparta Rotterdam,3-1,/match/rkc-waalwijk/sparta-rotterdam/1994,1994,22,eredivisie,18,34,0,3,1,18,11,1,6,14,18,44,WLDLDWWLDLWLWDDWLLWLD,1,1,8,9,21,11,33,6,7,8,29,31,WWWDDWDWWDDDLWWLWWWLD,1,3,6,10,20,LLWLLLDLLL,WWWWDDWLWD
+Roda JC,Heerenveen,1-1,/match/roda-jc/heerenveen/1994,1994,22,eredivisie,18,34,1,1,1,4,43,11,3,7,32,24,LWLWDDWWWWWWWLDWWLWWW,8,2,1,21,6,14,28,6,6,9,19,39,WWDLDLWWLWWDLDDLWWLDW,2,4,5,10,23,WWDWWWWDWLW,WLLWWDDDWWD
+PSV,Ajax,4-1,/match/psv/ajax/1994,1994,22,eredivisie,18,34,0,4,1,5,43,10,8,3,37,19,LWDWWWDLDLWLWDLDWDLDD,6,3,2,21,12,1,59,18,2,1,58,11,WDWLWLWLWWDLWLWLWLWLW,8,1,1,27,5,WWWLDWWLWDD,DLLLWLLLLL
+Feyenoord,NAC Breda,1-1,/match/feyenoord/nac-breda/1994,1994,22,eredivisie,18,34,1,1,1,2,50,13,7,1,41,15,WDWLLWLWLWDWLDLDWDWDD,7,3,0,19,3,7,38,11,3,7,42,30,LLWLLWLWDWWLWWWDLLWDW,5,2,4,17,12,WWWWWWDDWD,LLWLDWWWLLD
+Twente 1965,FC Volendam,2-0,/match/fc-twente-1965/fc-volendam/1994,1994,22,eredivisie,18,34,0,2,0,8,35,8,6,7,27,23,WLWLLLDWWWLDWDWWDDWDW,5,3,2,12,7,15,23,5,3,13,27,42,DWWWLWLLDLWLWWWWWWWWD,1,1,9,8,26,WLLWWDDWWD,WWWLDWWWWWW
+Utrecht,Willem II,1-1,/match/fc-utrecht/willem-ii/1994,1994,22,eredivisie,18,34,1,1,1,13,32,7,4,10,26,42,DWWLWLWWDLWWWDWDLWWWW,7,0,4,17,17,6,42,10,4,7,35,23,WWLWWDWDWWWLWWDWWWWLD,2,2,6,7,13,WLLWLWWWLWW,WWDDWLWWWL
+MVV Maastricht,PSV,2-1,/match/mvv/psv/1994,1994,23,eredivisie,18,34,0,2,1,9,36,8,6,8,32,37,WDDDLWWWDLLWWWWDWWWLDL,5,4,2,12,9,3,47,11,8,3,41,20,LWDWWWDLDLWLWDLDWDLDDW,4,5,1,16,7,DDLWDLWWWWD,LDWDLLDDLD
+Heerenveen,Cambuur,1-2,/match/heerenveen/sc-cambuur-leeuwarden/1994,1994,23,eredivisie,18,34,2,1,2,14,29,6,7,9,20,40,WWDLDLWWLWWDLDDLWWLDWD,4,2,4,9,16,17,18,2,6,14,15,39,WLWLWLWLDDWLWLDWDDWWDW,0,2,8,5,21,WDDWLWLLLW,WWWWDWWWWD
+Go Ahead Eagles,VVV Venlo,2-0,/match/go-ahead-eagles/vvv/1994,1994,23,eredivisie,18,34,0,2,0,13,32,8,3,11,30,36,LWWWWWDWDLWLLWWDWWLWWW,5,3,2,22,14,11,33,6,8,8,22,36,WDWWLWWDWLDWWDDWLDWDDL,2,3,6,11,22,LWWDDWWDLW,WWLWWDWDLWD
+NAC Breda,RKC Waalwijk,3-0,/match/nac-breda/rkc-waalwijk/1994,1994,23,eredivisie,18,34,0,3,0,7,39,11,4,7,43,31,LLWLLWLWDWWLWWWDLLWDWD,6,1,3,25,18,18,15,2,6,14,21,45,WLDLDWWLDLWLWDDWLLWLDW,0,5,6,9,23,LWLWWLWDWW,WDDWDWWDWWD
+Willem II,Roda JC,0-3,/match/willem-ii/roda-jc/1994,1994,23,eredivisie,18,34,2,0,3,6,43,10,5,7,36,24,WWLWWDWDWWWLWWDWWWWLDD,8,2,1,28,10,5,45,11,4,7,33,25,LWLWDDWWWWWWWLDWWLWWWD,3,1,6,11,18,WLWWWWWDWWD,LLDWWWLWWW
+Ajax,Utrecht,3-0,/match/ajax/fc-utrecht/1994,1994,23,eredivisie,18,34,0,3,0,1,59,18,2,2,59,15,WDWLWLWLWWDLWLWLWLWLWW,10,1,0,31,6,10,34,7,5,10,27,43,DWWLWLWWDLWWWDWDLWWWWD,0,4,6,9,25,WWWWWDWWWWW,DWWWDWDDWW
+Groningen,Twente 1965,1-1,/match/fc-groningen/fc-twente-1965/1994,1994,23,eredivisie,18,34,1,1,1,16,19,5,4,13,26,50,LWLLLLLWDLWDWLWLWDWWDL,1,3,6,13,27,8,39,9,6,7,29,23,WLWLLLDWWWLDWDWWDDWDWW,3,3,5,15,16,LLLLDDLLWD,LWLDWLWWDDW
+FC Volendam,Feyenoord,0-1,/match/fc-volendam/feyenoord/1994,1994,23,eredivisie,18,34,2,0,1,15,23,5,3,14,27,44,DWWWLWLLDLWLWWWWWWWWDW,4,2,4,19,16,2,52,13,8,1,42,16,WDWLLWLWLWDWLDLDWDWDDD,6,4,1,22,12,DWLLLLWWWD,DLLLLDLLWDD
+Sparta Rotterdam,Vitesse,4-1,/match/sparta-rotterdam/vitesse/1994,1994,23,eredivisie,18,34,0,4,1,12,33,6,7,9,30,34,WWWDDWDWWDDDLWWLWWWLDW,5,4,2,19,11,4,45,13,2,7,47,22,LWLLLWWLDWWWWDWWWWLLWL,5,1,4,18,11,WDDDWDLWWWL,LLLLWWDWLW
+Twente 1965,Go Ahead Eagles,1-1,/match/fc-twente-1965/go-ahead-eagles/1994,1994,24,eredivisie,18,34,1,1,1,8,40,9,7,7,30,24,WLWLLLDWWWLDWDWWDDWDWWD,6,3,2,14,7,11,36,9,3,11,32,36,LWWWWWDWDLWLLWWDWWLWWWW,3,0,9,8,22,WLLWWDDWWDW,WWWWLLLWWWWW
+Utrecht,MVV Maastricht,3-0,/match/fc-utrecht/mvv/1994,1994,24,eredivisie,18,34,0,3,0,12,34,7,5,11,27,46,DWWLWLWWDLWWWDWDLWWWWDW,7,1,4,18,18,9,40,9,6,8,34,38,WDDDLWWWDLLWWWWDWWWLDLW,3,2,6,20,28,WLLWLWWWLWWD,WDWWLWWDWLL
+PSV,Sparta Rotterdam,2-1,/match/psv/sparta-rotterdam/1994,1994,24,eredivisie,18,34,0,2,1,3,47,11,8,4,42,22,LWDWWWDLDLWLWDLDWDLDDWW,7,3,2,25,13,10,37,7,7,9,34,35,WWWDDWDWWDDDLWWLWWWLDWW,1,3,7,11,23,WWWLDWWLWDDW,WWWWDDWLWDW
+NAC Breda,FC Volendam,3-1,/match/nac-breda/fc-volendam/1994,1994,24,eredivisie,18,34,0,3,1,7,43,12,4,7,46,31,LLWLLWLWDWWLWWWDLLWDWDW,7,1,3,28,18,15,23,5,3,15,27,45,DWWWLWLLDLWLWWWWWWWWDWL,1,1,10,8,28,LWLWWLWDWWW,WWWLDWWWWWWW
+Cambuur,Willem II,0-1,/match/sc-cambuur-leeuwarden/willem-ii/1994,1994,24,eredivisie,18,34,2,0,1,17,20,3,6,14,17,40,WLWLWLWLDDWLWLDWDDWWDWL,2,4,6,10,18,6,43,10,5,8,36,27,WWLWWDWDWWWLWWDWWWWLDDL,2,3,6,8,14,LLLLDLLDDDWW,WWDDWLWWWLD
+Feyenoord,Groningen,2-2,/match/feyenoord/fc-groningen/1994,1994,24,eredivisie,18,34,1,2,2,2,54,14,8,1,43,16,WDWLLWLWLWDWLDLDWDWDDDL,7,4,0,20,4,16,21,5,5,13,27,51,LWLLLLLWDLWDWLWLWDWWDLD,4,1,7,13,23,WWWWWWDDWDD,WLLWLWWWWDWL
+RKC Waalwijk,Vitesse,0-0,/match/rkc-waalwijk/vitesse/1994,1994,24,eredivisie,18,34,1,0,0,18,15,2,6,15,21,48,WLDLDWWLDLWLWDDWLLWLDWW,2,1,8,12,22,5,45,13,2,8,48,26,LWLLLWWLDWWWWDWWWWLLWLW,5,1,5,19,15,LLWLLLDLLLW,LLLLWWDWLWW
+Roda JC,Ajax,1-2,/match/roda-jc/ajax/1994,1994,24,eredivisie,18,34,2,1,2,4,47,12,4,7,36,25,LWLWDDWWWWWWWLDWWLWWWDL,8,3,1,22,7,1,63,19,2,2,62,15,WDWLWLWLWWDLWLWLWLWLWWW,8,1,2,28,9,WWDWWWWDWLWD,DLLLWLLLLLW
+VVV Venlo,Heerenveen,1-1,/match/vvv/heerenveen/1994,1994,24,eredivisie,18,34,1,1,1,13,33,6,8,9,22,38,WDWWLWWDWLDWWDDWLDWDDLW,4,5,2,11,14,14,29,6,7,10,21,42,WWDLDLWWLWWDLDDLWWLDWDL,2,5,5,11,24,DWWDLWDWDDL,WLLWWDDDWWDD
+MVV Maastricht,Roda JC,1-0,/match/mvv/roda-jc/1994,1994,25,eredivisie,18,34,0,1,0,9,40,9,6,9,34,41,WDDDLWWWDLLWWWWDWWWLDLWW,6,4,2,14,10,4,47,12,4,8,37,27,LWLWDDWWWWWWWLDWWLWWWDLL,4,1,6,14,18,DDLWDLWWWWDW,LLDWWWLWWWL
+Willem II,VVV Venlo,3-0,/match/willem-ii/vvv/1994,1994,25,eredivisie,18,34,0,3,0,7,45,11,5,8,37,27,WWLWWDWDWWWLWWDWWWWLDDLL,8,2,2,28,13,13,35,6,9,9,23,39,WDWWLWWDWLDWWDDWLDWDDLWD,2,3,7,11,24,WLWWWWWDWWDL,WWLWWDWDLWDW
+Ajax,Cambuur,3-2,/match/ajax/sc-cambuur-leeuwarden/1994,1994,25,eredivisie,18,34,0,3,2,1,65,20,2,2,64,16,WDWLWLWLWWDLWLWLWLWLWWWL,11,1,0,34,6,17,20,3,6,15,17,41,WLWLWLWLDDWLWLDWDDWWDWLL,1,2,8,7,22,WWWWWDWWWWWW,WWWWDWWWWDL
+Groningen,NAC Breda,0-0,/match/fc-groningen/nac-breda/1994,1994,25,eredivisie,18,34,1,0,0,16,22,5,6,13,29,53,LWLLLLLWDLWDWLWLWDWWDLDD,1,4,6,14,28,5,47,13,4,7,49,32,LLWLLWLWDWWLWWWDLLWDWDWW,5,3,4,18,13,LLLLDDLLWDD,LLWLDWWWLLDD
+FC Volendam,RKC Waalwijk,3-1,/match/fc-volendam/rkc-waalwijk/1994,1994,25,eredivisie,18,34,0,3,1,15,23,5,3,16,28,48,DWWWLWLLDLWLWWWWWWWWDWLW,4,2,5,19,17,18,17,2,7,15,21,48,WLDLDWWLDLWLWDDWLLWLDWWD,0,5,7,9,26,DWLLLLWWWDL,WDDWDWWDWWDW
+Go Ahead Eagles,Feyenoord,1-1,/match/go-ahead-eagles/feyenoord/1994,1994,25,eredivisie,18,34,1,1,1,12,37,9,4,11,33,37,LWWWWWDWDLWLLWWDWWLWWWWD,6,3,2,24,14,2,56,14,9,1,45,18,WDWLLWLWLWDWLDLDWDWDDDLD,7,4,1,23,12,LWWDDWWDLWW,DLLLLDLLWDDL
+Sparta Rotterdam,Utrecht,3-2,/match/sparta-rotterdam/fc-utrecht/1994,1994,25,eredivisie,18,34,0,3,2,11,37,7,7,10,35,37,WWWDDWDWWDDDLWWLWWWLDWWW,6,4,2,23,12,10,38,8,5,11,30,46,DWWLWLWWDLWWWDWDLWWWWDWW,0,4,7,9,28,WDDDWDLWWWLW,DWWWDWDDWWW
+Vitesse,PSV,0-0,/match/vitesse/psv/1994,1994,25,eredivisie,18,34,1,0,0,6,46,13,3,8,48,26,LWLLLWWLDWWWWDWWWWLLWLWD,8,1,3,29,11,3,51,12,8,4,44,23,LWDWWWDLDLWLWDLDWDLDDWWW,4,5,2,17,9,WLWWDWWWWWLL,LDWDLLDDLDW
+Heerenveen,Twente 1965,2-2,/match/heerenveen/fc-twente-1965/1994,1994,25,eredivisie,18,34,1,2,2,14,30,6,8,10,22,43,WWDLDLWWLWWDLDDLWWLDWDLD,4,2,5,10,18,8,42,9,8,7,31,25,WLWLLLDWWWLDWDWWDDWDWWDD,3,4,5,16,17,WDDWLWLLLWL,LWLDWLWWDDWD
+Feyenoord,Heerenveen,0-0,/match/feyenoord/heerenveen/1994,1994,26,eredivisie,18,34,1,0,0,2,57,14,10,1,46,19,WDWLLWLWLWDWLDLDWDWDDDLDD,7,5,0,22,6,14,32,6,9,10,24,45,WWDLDLWWLWWDLDDLWWLDWDLDD,2,6,5,12,25,WWWWWWDDWDDD,WLLWWDDDWWDDD
+Cambuur,MVV Maastricht,2-1,/match/sc-cambuur-leeuwarden/mvv/1994,1994,26,eredivisie,18,34,0,2,1,17,20,3,6,16,19,44,WLWLWLWLDDWLWLDWDDWWDWLLW,2,4,7,10,19,8,44,10,6,9,35,41,WDDDLWWWDLLWWWWDWWWLDLWWW,3,2,7,20,31,LLLLDLLDDDWWL,WDWWLWWDWLLW
+NAC Breda,Go Ahead Eagles,2-2,/match/nac-breda/go-ahead-eagles/1994,1994,26,eredivisie,18,34,1,2,2,5,48,13,5,7,49,32,LLWLLWLWDWWLWWWDLLWDWDWWD,8,1,3,31,19,11,39,9,5,11,34,38,LWWWWWDWDLWLLWWDWWLWWWWDD,3,1,9,9,23,LWLWWLWDWWWW,WWWWLLLWWWWWD
+VVV Venlo,Ajax,0-1,/match/vvv/ajax/1994,1994,26,eredivisie,18,34,2,0,1,13,35,6,9,10,23,42,WDWWLWWDWLDWWDDWLDWDDLWDW,4,6,2,12,15,1,69,21,2,2,67,18,WDWLWLWLWWDLWLWLWLWLWWWLW,9,1,2,30,10,DWWDLWDWDDLD,DLLLWLLLLLWL
+Roda JC,Sparta Rotterdam,4-0,/match/roda-jc/sparta-rotterdam/1994,1994,26,eredivisie,18,34,0,4,0,7,47,12,4,9,37,28,LWLWDDWWWWWWWLDWWLWWWDLLW,8,3,2,23,9,10,41,8,7,10,38,39,WWWDDWDWWDDDLWWLWWWLDWWWW,1,3,8,12,25,WWDWWWWDWLWDL,WWWWDDWLWDWW
+Utrecht,Vitesse,2-1,/match/fc-utrecht/vitesse/1994,1994,26,eredivisie,18,34,0,2,1,12,38,8,5,12,32,49,DWWLWLWWDLWWWDWDLWWWWDWWW,8,1,4,21,18,6,48,13,4,8,48,26,LWLLLWWLDWWWWDWWWWLLWLWDD,5,2,5,19,15,WLLWLWWWLWWDW,LLLLWWDWLWWD
+FC Volendam,Groningen,1-0,/match/fc-volendam/fc-groningen/1994,1994,26,eredivisie,18,34,0,1,0,15,27,6,3,16,31,49,DWWWLWLLDLWLWWWWWWWWDWLWW,5,2,5,22,18,16,24,5,7,13,29,53,LWLLLLLWDLWDWLWLWDWWDLDDD,4,2,7,15,25,DWLLLLWWWDLW,WLLWLWWWWDWLD
+RKC Waalwijk,PSV,1-1,/match/rkc-waalwijk/psv/1994,1994,26,eredivisie,18,34,1,1,1,18,17,2,7,16,22,51,WLDLDWWLDLWLWDDWLLWLDWWDW,2,2,8,12,22,3,52,12,9,4,44,23,LWDWWWDLDLWLWDLDWDLDDWWWD,4,6,2,17,9,LLWLLLDLLLWD,LDWDLLDDLDWD
+Twente 1965,Willem II,4-0,/match/fc-twente-1965/willem-ii/1994,1994,26,eredivisie,18,34,0,4,0,9,43,9,9,7,33,27,WLWLLLDWWWLDWDWWDDWDWWDDD,6,4,2,15,8,4,49,12,5,8,40,27,WWLWWDWDWWWLWWDWWWWLDDLLW,3,3,6,9,14,WLLWWDDWWDWD,WWDDWLWWWLDL
+Heerenveen,NAC Breda,1-3,/match/heerenveen/nac-breda/1994,1994,27,eredivisie,18,34,2,1,3,14,33,6,10,10,24,45,WWDLDLWWLWWDLDDLWWLDWDLDDD,4,3,5,12,20,5,50,13,6,7,51,34,LLWLLWLWDWWLWWWDLLWDWDWWDD,5,4,4,18,13,WDDWLWLLLWLD,LLWLDWWWLLDDD
+Go Ahead Eagles,FC Volendam,0-1,/match/go-ahead-eagles/fc-volendam/1994,1994,27,eredivisie,18,34,2,0,1,12,40,9,6,11,36,40,LWWWWWDWDLWLLWWDWWLWWWWDDD,6,4,2,25,15,15,31,7,3,16,32,49,DWWWLWLLDLWLWWWWWWWWDWLWWW,1,1,11,9,31,LWWDDWWDLWWD,WWWLDWWWWWWWW
+MVV Maastricht,VVV Venlo,0-0,/match/mvv/vvv/1994,1994,27,eredivisie,18,34,1,0,0,9,44,10,6,10,36,43,WDDDLWWWDLLWWWWDWWWLDLWWWW,7,4,2,15,10,13,35,6,9,11,23,43,WDWWLWWDWLDWWDDWLDWDDLWDWL,2,3,8,11,27,DDLWDLWWWWDWW,WWLWWDWDLWDWW
+Groningen,RKC Waalwijk,1-2,/match/fc-groningen/rkc-waalwijk/1994,1994,27,eredivisie,18,34,2,1,2,16,24,5,7,14,29,54,LWLLLLLWDLWDWLWLWDWWDLDDDW,1,5,6,14,28,18,19,2,8,16,23,52,WLDLDWWLDLWLWDDWLLWLDWWDWD,0,5,8,10,29,LLLLDDLLWDDD,WDDWDWWDWWDWW
+PSV,Utrecht,1-0,/match/psv/fc-utrecht/1994,1994,27,eredivisie,18,34,0,1,0,3,53,12,10,4,45,24,LWDWWWDLDLWLWDLDWDLDDWWWDD,8,3,2,27,14,10,42,9,5,12,34,50,DWWLWLWWDLWWWDWDLWWWWDWWWW,0,4,8,11,31,WWWLDWWLWDDWW,DWWWDWDDWWWW
+Sparta Rotterdam,Cambuur,4-0,/match/sparta-rotterdam/sc-cambuur-leeuwarden/1994,1994,27,eredivisie,18,34,0,4,0,11,41,8,7,11,38,43,WWWDDWDWWDDDLWWLWWWLDWWWWW,7,4,2,26,14,17,24,4,6,16,21,45,WLWLWLWLDDWLWLDWDDWWDWLLWW,1,2,9,9,25,WDDDWDLWWWLWW,WWWWDWWWWDLW
+Vitesse,Roda JC,1-3,/match/vitesse/roda-jc/1994,1994,27,eredivisie,18,34,2,1,3,7,48,13,4,9,49,28,LWLLLWWLDWWWWDWWWWLLWLWDDW,8,2,3,29,11,4,51,13,4,9,41,28,LWLWDDWWWWWWWLDWWLWWWDLLWW,4,1,7,14,19,WLWWDWWWWWLLD,LLDWWWLWWWLW
+Willem II,Feyenoord,2-1,/match/willem-ii/feyenoord/1994,1994,27,eredivisie,18,34,0,2,1,6,49,12,5,9,40,31,WWLWWDWDWWWLWWDWWWWLDDLLWW,9,2,2,31,13,2,59,14,11,1,46,19,WDWLLWLWLWDWLDLDWDWDDDLDDD,7,5,1,24,13,WLWWWWWDWWDLW,DLLLLDLLWDDLD
+Ajax,Twente 1965,6-0,/match/ajax/fc-twente-1965/1994,1994,27,eredivisie,18,34,0,6,0,1,71,22,2,2,68,18,WDWLWLWLWWDLWLWLWLWLWWWLWL,12,1,0,37,8,8,47,10,9,7,37,27,WLWLLLDWWWLDWDWWDDWDWWDDDW,3,5,5,18,19,WWWWWDWWWWWWW,LWLDWLWWDDWDD
+Roda JC,PSV,4-0,/match/roda-jc/psv/1994,1994,28,eredivisie,18,34,0,4,0,4,53,14,4,9,44,29,LWLWDDWWWWWWWLDWWLWWWDLLWWL,9,3,2,27,9,3,57,13,10,4,46,24,LWDWWWDLDLWLWDLDWDLDDWWWDDW,4,7,2,18,10,WWDWWWWDWLWDLW,LDWDLLDDLDWDD
+NAC Breda,Willem II,1-1,/match/nac-breda/willem-ii/1994,1994,28,eredivisie,18,34,1,1,1,6,52,14,6,7,54,35,LLWLLWLWDWWLWWWDLLWDWDWWDDL,8,2,3,33,21,5,53,13,5,9,42,32,WWLWWDWDWWWLWWDWWWWLDDLLWWW,3,3,7,9,18,LWLWWLWDWWWWD,WWDDWLWWWLDLW
+VVV Venlo,Sparta Rotterdam,1-4,/match/vvv/sparta-rotterdam/1994,1994,28,eredivisie,18,34,2,1,4,13,36,6,10,11,23,43,WDWWLWWDWLDWWDDWLDWDDLWDWLD,4,6,3,12,16,10,45,9,7,11,42,43,WWWDDWDWWDDDLWWLWWWLDWWWWWW,1,3,9,12,29,DWWDLWDWDDLDL,WWWWDDWLWDWWW
+Feyenoord,Ajax,2-1,/match/feyenoord/ajax/1994,1994,28,eredivisie,18,34,0,2,1,2,59,14,11,2,47,21,WDWLLWLWLWDWLDLDWDWDDDLDDDW,7,6,0,22,6,1,75,23,2,2,74,18,WDWLWLWLWWDLWLWLWLWLWWWLWLW,10,1,2,31,10,WWWWWWDDWDDDD,DLLLWLLLLLWLL
+RKC Waalwijk,Utrecht,3-0,/match/rkc-waalwijk/fc-utrecht/1994,1994,28,eredivisie,18,34,0,3,0,18,21,3,8,16,25,53,WLDLDWWLDLWLWDDWLLWLDWWDWDL,2,3,8,13,23,11,42,9,5,13,34,51,DWWLWLWWDLWWWDWDLWWWWDWWWWW,0,4,9,11,32,LLWLLLDLLLWDD,DWWWDWDDWWWWW
+FC Volendam,Heerenveen,3-0,/match/fc-volendam/heerenveen/1994,1994,28,eredivisie,18,34,0,3,0,15,33,8,3,16,33,49,DWWWLWLLDLWLWWWWWWWWDWLWWWL,6,2,5,23,18,14,33,6,10,11,25,48,WWDLDLWWLWWDLDDLWWLDWDLDDDL,2,7,5,12,25,DWLLLLWWWDLWW,WLLWWDDDWWDDDD
+Cambuur,Vitesse,1-3,/match/sc-cambuur-leeuwarden/vitesse/1994,1994,28,eredivisie,18,34,2,1,3,17,24,4,6,17,21,49,WLWLWLWLDDWLWLDWDDWWDWLLWWW,3,4,7,12,20,7,48,13,4,10,50,31,LWLLLWWLDWWWWDWWWWLLWLWDDWL,5,2,6,20,17,LLLLDLLDDDWWLW,LLLLWWDWLWWDW
+Groningen,Go Ahead Eagles,3-1,/match/fc-groningen/go-ahead-eagles/1994,1994,28,eredivisie,18,34,0,3,1,16,24,5,7,15,30,56,LWLLLLLWDLWDWLWLWDWWDLDDDWL,1,5,7,15,30,12,40,9,6,12,36,41,LWWWWWDWDLWLLWWDWWLWWWWDDDL,3,2,9,11,25,LLLLDDLLWDDDL,WWWWLLLWWWWWDD
+Twente 1965,MVV Maastricht,4-2,/match/fc-twente-1965/mvv/1994,1994,28,eredivisie,18,34,0,4,2,8,47,10,9,8,37,33,WLWLLLDWWWLDWDWWDDWDWWDDDWW,7,4,2,19,8,9,46,10,7,10,36,43,WDDDLWWWDLLWWWWDWWWLDLWWWWD,3,2,8,21,33,WLLWWDDWWDWDW,WDWWLWWDWLLWW
+MVV Maastricht,Feyenoord,1-1,/match/mvv/feyenoord/1994,1994,29,eredivisie,18,34,1,1,1,10,46,10,7,11,38,47,WDDDLWWWDLLWWWWDWWWLDLWWWWDW,7,5,2,15,10,2,63,15,11,2,49,22,WDWLLWLWLWDWLDLDWDWDDDLDDDWW,7,5,2,25,15,DDLWDLWWWWDWWD,DLLLLDLLWDDLDW
+PSV,Cambuur,2-0,/match/psv/sc-cambuur-leeuwarden/1994,1994,29,eredivisie,18,34,0,2,0,3,57,13,10,5,46,28,LWDWWWDLDLWLWDLDWDLDDWWWDDWW,9,3,2,28,14,18,24,4,6,18,22,52,WLWLWLWLDDWLWLDWDDWWDWLLWWWL,1,2,10,9,29,WWWLDWWLWDDWWW,WWWWDWWWWDLWW
+Utrecht,Roda JC,1-1,/match/fc-utrecht/roda-jc/1994,1994,29,eredivisie,18,34,1,1,1,11,42,9,5,14,34,54,DWWLWLWWDLWWWDWDLWWWWDWWWWWW,9,1,4,23,19,4,57,15,4,9,48,29,LWLWDDWWWWWWWLDWWLWWWDLLWWLW,5,1,7,17,20,WLLWLWWWLWWDWW,LLDWWWLWWWLWL
+Go Ahead Eagles,RKC Waalwijk,2-0,/match/go-ahead-eagles/rkc-waalwijk/1994,1994,29,eredivisie,18,34,0,2,0,12,40,9,6,13,37,44,LWWWWWDWDLWLLWWDWWLWWWWDDDLW,6,4,3,25,16,17,25,4,8,16,28,53,WLDLDWWLDLWLWDDWLLWLDWWDWDLW,1,5,8,12,30,LWWDDWWDLWWDL,WDDWDWWDWWDWWL
+Sparta Rotterdam,Twente 1965,2-5,/match/sparta-rotterdam/fc-twente-1965/1994,1994,29,eredivisie,18,34,2,2,5,9,47,10,7,11,46,44,WWWDDWDWWDDDLWWLWWWLDWWWWWWL,8,4,2,30,14,7,51,11,9,8,41,35,WLWLLLDWWWLDWDWWDDWDWWDDDWWW,3,5,6,18,25,WDDDWDLWWWLWWW,LWLDWLWWDDWDDW
+Vitesse,VVV Venlo,4-0,/match/vitesse/vvv/1994,1994,29,eredivisie,18,34,0,4,0,8,50,14,4,10,53,32,LWLLLWWLDWWWWDWWWWLLWLWDDWLL,8,2,4,30,14,14,36,6,10,12,24,47,WDWWLWWDWLDWWDDWLDWDDLWDWLDL,2,4,8,11,27,WLWWDWWWWWLLDL,WWLWWDWDLWDWWD
+Willem II,FC Volendam,0-2,/match/willem-ii/fc-volendam/1994,1994,29,eredivisie,18,34,2,0,2,5,54,13,6,9,43,33,WWLWWDWDWWWLWWDWWWWLDDLLWWWD,10,2,2,33,14,13,37,9,3,16,36,49,DWWWLWLLDLWLWWWWWWWWDWLWWWLW,2,1,11,10,31,WLWWWWWDWWDLWW,WWWLDWWWWWWWWL
+Heerenveen,Groningen,2-0,/match/heerenveen/fc-groningen/1994,1994,29,eredivisie,18,34,0,2,0,15,33,6,10,12,25,51,WWDLDLWWLWWDLDDLWWLDWDLDDDLW,4,3,6,13,23,16,28,6,7,15,33,57,LWLLLLLWDLWDWLWLWDWWDLDDDWLW,4,2,8,15,26,WDDWLWLLLWLDL,WLLWLWWWWDWLDW
+Ajax,NAC Breda,5-0,/match/ajax/nac-breda/1994,1994,29,eredivisie,18,34,0,5,0,1,75,23,2,3,75,20,WDWLWLWLWWDLWLWLWLWLWWWLWLWW,13,1,0,43,8,6,54,14,7,7,55,36,LLWLLWLWDWWLWWWDLLWDWDWWDDLD,6,4,4,21,14,WWWWWDWWWWWWWW,LLWLDWWWLLDDDL
+VVV Venlo,PSV,0-3,/match/vvv/psv/1994,1994,30,eredivisie,18,34,2,0,3,15,36,6,10,13,24,51,WDWWLWWDWLDWWDDWLDWDDLWDWLDLW,4,6,4,13,20,3,61,14,10,5,48,28,LWDWWWDLDLWLWDLDWDLDDWWWDDWWW,4,7,3,18,14,DWWDLWDWDDLDLL,LDWDLLDDLDWDDW
+Cambuur,Utrecht,2-1,/match/sc-cambuur-leeuwarden/fc-utrecht/1994,1994,30,eredivisie,18,34,0,2,1,18,24,4,6,19,22,54,WLWLWLWLDDWLWLDWDDWWDWLLWWWLW,3,4,8,13,23,11,44,9,6,14,35,55,DWWLWLWWDLWWWDWDLWWWWDWWWWWWD,0,4,10,11,35,LLLLDLLDDDWWLWL,DWWWDWDDWWWWWW
+Go Ahead Eagles,Heerenveen,2-3,/match/go-ahead-eagles/heerenveen/1994,1994,30,eredivisie,18,34,2,2,3,12,44,10,6,13,39,44,LWWWWWDWDLWLLWWDWWLWWWWDDDLWW,7,4,3,27,16,14,37,7,10,12,27,51,WWDLDLWWLWWDLDDLWWLDWDLDDDLWW,2,7,6,12,28,LWWDDWWDLWWDLW,WLLWWDDDWWDDDDW
+NAC Breda,MVV Maastricht,1-4,/match/nac-breda/mvv/1994,1994,30,eredivisie,18,34,2,1,4,6,54,14,7,8,55,41,LLWLLWLWDWWLWWWDLLWDWDWWDDLDW,8,3,3,34,22,9,48,10,8,11,39,48,WDDDLWWWDLLWWWWDWWWLDLWWWWDWD,3,2,9,23,37,LWLWWLWDWWWWDD,WDWWLWWDWLLWWW
+RKC Waalwijk,Roda JC,1-1,/match/rkc-waalwijk/roda-jc/1994,1994,30,eredivisie,18,34,1,1,1,17,25,4,8,17,28,55,WLDLDWWLDLWLWDDWLLWLDWWDWDLWW,3,3,8,16,23,4,58,15,5,9,49,30,LWLWDDWWWWWWWLDWWLWWWDLLWWLWD,5,2,7,18,21,LLWLLLDLLLWDDW,LLDWWWLWWWLWLD
+Groningen,Willem II,4-1,/match/fc-groningen/willem-ii/1994,1994,30,eredivisie,18,34,0,4,1,16,28,6,7,16,33,59,LWLLLLLWDLWDWLWLWDWWDLDDDWLWW,2,5,7,18,31,5,54,13,6,10,43,35,WWLWWDWDWWWLWWDWWWWLDDLLWWWDL,3,4,7,10,19,LLLLDDLLWDDDLW,WWDDWLWWWLDLWD
+Twente 1965,Vitesse,0-1,/match/fc-twente-1965/vitesse/1994,1994,30,eredivisie,18,34,2,0,1,8,53,12,9,8,46,37,WLWLLLDWWWLDWDWWDDWDWWDDDWWWL,8,4,2,23,10,7,54,15,4,10,57,32,LWLLLWWLDWWWWDWWWWLLWLWDDWLLW,6,2,6,23,18,WLLWWDDWWDWDWW,LLLLWWDWLWWDWL
+Feyenoord,Sparta Rotterdam,5-1,/match/feyenoord/sparta-rotterdam/1994,1994,30,eredivisie,18,34,0,5,1,2,64,15,12,2,50,23,WDWLLWLWLWDWLDLDWDWDDDLDDDWWD,8,6,0,24,7,10,47,10,7,12,48,49,WWWDDWDWWDDDLWWLWWWLDWWWWWWLL,2,3,9,16,30,WWWWWWDDWDDDDW,WWWWDDWLWDWWWL
+FC Volendam,Ajax,1-0,/match/fc-volendam/ajax/1994,1994,30,eredivisie,18,34,0,1,0,13,39,10,3,16,38,49,DWWWLWLLDLWLWWWWWWWWDWLWWWLWL,7,2,5,26,18,1,79,24,2,3,80,20,WDWLWLWLWWDLWLWLWLWLWWWLWLWWW,10,1,3,32,12,DWLLLLWWWDLWWW,DLLLWLLLLLWLLW
+PSV,Twente 1965,3-2,/match/psv/fc-twente-1965/1994,1994,31,eredivisie,18,34,0,3,2,3,63,15,10,5,51,28,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWL,10,3,2,30,14,8,53,12,9,9,46,38,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLL,4,5,6,23,27,WWWLDWWLWDDWWWW,LWLDWLWWDDWDDWL
+MVV Maastricht,FC Volendam,1-1,/match/mvv/fc-volendam/1994,1994,31,eredivisie,18,34,1,1,1,9,50,11,8,11,43,49,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDL,7,6,2,16,11,13,43,11,3,16,39,49,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLW,3,1,11,12,31,DDLWDLWWWWDWWDD,WWWLDWWWWWWWWLL
+Heerenveen,RKC Waalwijk,0-3,/match/heerenveen/rkc-waalwijk/1994,1994,31,eredivisie,18,34,2,0,3,14,39,8,10,12,30,53,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWL,5,3,6,15,23,18,27,4,9,17,29,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWD,1,5,9,12,32,WDDWLWLLLWLDLW,WDDWDWWDWWDWWLW
+Sparta Rotterdam,NAC Breda,0-0,/match/sparta-rotterdam/nac-breda/1994,1994,31,eredivisie,18,34,1,0,0,10,47,10,7,13,49,54,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLW,8,4,3,32,19,7,54,14,7,9,56,45,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWL,6,4,5,21,19,WDDDWDLWWWLWWWL,LLWLDWWWLLDDDLW
+Willem II,Go Ahead Eagles,0-0,/match/willem-ii/go-ahead-eagles/1994,1994,31,eredivisie,18,34,1,0,0,6,54,13,6,11,44,39,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLW,10,2,3,33,16,12,44,10,6,14,41,47,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWL,3,2,10,12,28,WLWWWWWDWWDLWWL,WWWWLLLWWWWWDDW
+Roda JC,Cambuur,1-1,/match/roda-jc/sc-cambuur-leeuwarden/1994,1994,31,eredivisie,18,34,1,1,1,4,59,15,6,9,50,31,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDD,10,3,2,31,9,17,28,5,6,19,24,55,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWW,1,2,11,9,31,WWDWWWWDWLWDLWW,WWWWDWWWWDLWWW
+Utrecht,VVV Venlo,2-3,/match/fc-utrecht/vvv/1994,1994,31,eredivisie,18,34,2,2,3,11,44,9,6,15,36,57,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDW,9,2,4,24,20,15,36,6,10,14,24,54,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWL,2,4,9,11,31,WLLWLWWWLWWDWWD,WWLWWDWDLWDWWDW
+Vitesse,Feyenoord,1-2,/match/vitesse/feyenoord/1994,1994,31,eredivisie,18,34,2,1,2,5,56,16,4,10,58,32,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWL,9,2,4,34,14,2,68,16,12,2,55,24,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDW,7,6,2,26,16,WLWWDWWWWWLLDLW,DLLLLDLLWDDLDWD
+Ajax,Groningen,0-2,/match/ajax/fc-groningen/1994,1994,31,eredivisie,18,34,2,0,2,1,79,24,2,4,80,21,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWW,14,1,0,48,8,16,32,7,7,16,37,60,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWW,4,2,9,15,28,WWWWWDWWWWWWWWW,WLLWLWWWWDWLDWW
+NAC Breda,Vitesse,2-2,/match/nac-breda/vitesse/1994,1994,32,eredivisie,18,34,1,2,2,7,55,14,8,9,56,45,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWLD,8,3,4,35,26,5,56,16,4,11,59,34,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWLL,7,2,6,24,18,LWLWWLWDWWWWDDL,LLLLWWDWLWWDWLL
+Heerenveen,Willem II,1-2,/match/heerenveen/willem-ii/1994,1994,32,eredivisie,18,34,2,1,2,14,39,8,10,13,30,56,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWLL,5,3,7,15,26,6,56,13,7,11,44,39,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLWD,3,4,8,11,23,WDDWLWLLLWLDLWL,WWDDWLWWWLDLWDW
+VVV Venlo,Roda JC,2-2,/match/vvv/roda-jc/1994,1994,32,eredivisie,18,34,1,2,2,15,38,7,10,14,27,56,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWLL,4,6,5,13,23,4,61,15,7,9,51,32,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDDD,5,3,7,19,22,DWWDLWDWDDLDLLL,LLDWWWLWWWLWLDD
+Groningen,MVV Maastricht,3-2,/match/fc-groningen/mvv/1994,1994,32,eredivisie,18,34,0,3,2,16,34,8,7,16,39,60,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWWL,3,5,7,22,32,9,52,11,9,11,44,50,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDLD,4,2,9,27,38,LLLLDDLLWDDDLWW,WDWWLWWDWLLWWWL
+Twente 1965,Utrecht,1-0,/match/fc-twente-1965/fc-utrecht/1994,1994,32,eredivisie,18,34,0,1,0,8,53,12,9,10,48,41,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLLW,8,4,3,23,11,12,44,9,6,16,38,60,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDWL,0,4,11,12,37,WLLWWDDWWDWDWWL,DWWWDWDDWWWWWWW
+FC Volendam,Sparta Rotterdam,2-1,/match/fc-volendam/sparta-rotterdam/1994,1994,32,eredivisie,18,34,0,2,1,13,44,11,4,16,40,50,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLWD,8,2,5,27,18,10,49,10,8,13,49,54,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLWD,2,3,10,17,35,DWLLLLWWWDLWWWW,WWWWDDWLWDWWWLW
+Go Ahead Eagles,Ajax,0-3,/match/go-ahead-eagles/ajax/1994,1994,32,eredivisie,18,34,2,0,3,11,45,10,7,14,41,47,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWLD,7,4,4,29,19,1,79,24,2,5,80,23,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWWL,10,1,4,32,13,LWWDDWWDLWWDLWL,DLLLWLLLLLWLLWW
+RKC Waalwijk,Cambuur,3-0,/match/rkc-waalwijk/sc-cambuur-leeuwarden/1994,1994,32,eredivisie,18,34,0,3,0,18,29,5,9,17,32,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWDL,3,4,8,17,24,17,29,5,7,19,25,56,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWWD,1,3,11,10,32,LLWLLLDLLLWDDWD,WWWWDWWWWDLWWWD
+Feyenoord,PSV,2-1,/match/feyenoord/psv/1994,1994,32,eredivisie,18,34,0,2,1,2,70,17,12,2,57,25,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDWL,9,6,0,29,8,3,67,16,10,5,54,30,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWLW,5,7,3,21,14,WWWWWWDDWDDDDWW,LDWDLLDDLDWDDWL
+Ajax,Heerenveen,2-1,/match/ajax/heerenveen/1994,1994,33,eredivisie,18,34,0,2,1,1,81,25,2,5,83,23,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWWLL,14,1,1,48,10,15,39,8,10,14,31,58,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWLLL,3,7,6,15,30,WWWWWDWWWWWWWWWL,WLLWWDDDWWDDDDWL
+Cambuur,VVV Venlo,2-1,/match/sc-cambuur-leeuwarden/vvv/1994,1994,33,eredivisie,18,34,0,2,1,18,29,5,7,20,25,59,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWWDW,4,4,8,15,24,14,40,7,11,14,29,58,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWLLD,3,4,9,14,33,LLLLDLLDDDWWLWLW,WWLWWDWDLWDWWDWL
+Utrecht,Feyenoord,0-0,/match/fc-utrecht/feyenoord/1994,1994,33,eredivisie,18,34,1,0,0,13,44,9,6,17,38,61,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDWLW,9,2,5,26,23,2,74,18,12,2,59,26,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDWLW,8,6,2,28,17,WLLWLWWWLWWDWWDL,DLLLLDLLWDDLDWDL
+MVV Maastricht,Go Ahead Eagles,2-2,/match/mvv/go-ahead-eagles/1994,1994,33,eredivisie,18,34,1,2,2,9,52,11,9,12,46,53,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDLDW,7,7,2,17,12,12,45,10,7,15,41,50,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWLDL,3,3,10,12,28,DDLWDLWWWWDWWDDD,WWWWLLLWWWWWDDWD
+PSV,NAC Breda,3-1,/match/psv/nac-breda/1994,1994,33,eredivisie,18,34,0,3,1,3,67,16,10,6,55,32,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWLWW,11,3,2,33,16,7,57,14,9,9,58,47,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWLDD,6,5,5,21,19,WWWLDWWLWDDWWWWW,LLWLDWWWLLDDDLWD
+RKC Waalwijk,Willem II,1-0,/match/rkc-waalwijk/willem-ii/1994,1994,33,eredivisie,18,34,0,1,0,17,33,6,9,17,35,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWDLW,4,4,8,20,24,5,58,14,7,11,46,40,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLWDL,4,4,8,13,24,LLWLLLDLLLWDDWDW,WWDDWLWWWLDLWDWL
+Roda JC,Twente 1965,1-4,/match/roda-jc/fc-twente-1965/1994,1994,33,eredivisie,18,34,2,1,4,4,62,15,8,9,53,34,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDDDD,10,4,2,32,10,8,57,13,9,10,49,41,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLLWW,4,5,7,25,30,WWDWWWWDWLWDLWWD,LWLDWLWWDDWDDWLW
+Sparta Rotterdam,Groningen,3-0,/match/sparta-rotterdam/fc-groningen/1994,1994,33,eredivisie,18,34,0,3,0,10,49,10,8,14,50,56,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLWDW,8,5,3,32,19,16,38,9,7,16,42,62,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWWLW,5,2,9,17,28,WDDDWDLWWWLWWWLD,WLLWLWWWWDWLDWWL
+Vitesse,FC Volendam,2-1,/match/vitesse/fc-volendam/1994,1994,33,eredivisie,18,34,0,2,1,6,57,16,5,11,61,36,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWLLD,9,2,5,35,16,11,48,12,4,16,42,51,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLWDW,3,2,11,13,32,WLWWDWWWWWLLDLWL,WWWLDWWWWWWWWLLD
+Groningen,Vitesse,0-0,/match/fc-groningen/vitesse/1994,1994,34,eredivisie,18,34,1,0,0,16,38,9,7,17,42,65,LWLLLLLWDLWDWLWLWDWWDLDDDWLWWWLWW,4,5,7,25,34,5,61,17,5,11,63,37,LWLLLWWLDWWWWDWWWWLLWLWDDWLLWLLDW,7,3,6,26,20,LLLLDDLLWDDDLWWW,LLLLWWDWLWWDWLLD
+Twente 1965,Cambuur,4-1,/match/fc-twente-1965/sc-cambuur-leeuwarden/1994,1994,34,eredivisie,18,34,0,4,1,6,59,14,9,10,53,42,WLWLLLDWWWLDWDWWDDWDWWDDDWWWLLWWL,9,4,3,24,11,18,33,6,7,20,27,60,WLWLWLWLDDWLWLDWDDWWDWLLWWWLWWDWW,1,3,12,10,35,WLLWWDDWWDWDWWLW,WWWWDWWWWDLWWWDW
+FC Volendam,PSV,3-2,/match/fc-volendam/psv/1994,1994,34,eredivisie,18,34,0,3,2,11,48,12,4,17,43,53,DWWWLWLLDLWLWWWWWWWWDWLWWWLWLWDWW,9,2,5,29,19,3,71,17,10,6,58,33,LWDWWWDLDLWLWDLDWDLDDWWWDDWWWLWWW,5,7,4,22,16,DWLLLLWWWDLWWWWW,LDWDLLDDLDWDDWLW
+Feyenoord,Roda JC,2-1,/match/feyenoord/roda-jc/1994,1994,34,eredivisie,18,34,0,2,1,2,75,18,13,2,59,26,WDWLLWLWLWDWLDLDWDWDDDLDDDWWDWLWD,10,6,0,31,9,4,62,15,8,10,54,38,LWLWDDWWWWWWWLDWWLWWWDLLWWLWDDDDL,5,4,7,21,24,WWWWWWDDWDDDDWWW,LLDWWWLWWWLWLDDD
+Go Ahead Eagles,Sparta Rotterdam,1-5,/match/go-ahead-eagles/sparta-rotterdam/1994,1994,34,eredivisie,18,34,2,1,5,12,46,10,8,15,43,52,LWWWWWDWDLWLLWWDWWLWWWWDDDLWWLDLD,7,4,5,29,22,10,53,11,8,14,53,56,WWWDDWDWWDDDLWWLWWWLDWWWWWWLLWDWW,2,3,11,18,37,LWWDDWWDLWWDLWLL,WWWWDDWLWDWWWLWW
+NAC Breda,Utrecht,2-2,/match/nac-breda/fc-utrecht/1994,1994,34,eredivisie,18,34,1,2,2,8,57,14,9,10,59,50,LLWLLWLWDWWLWWWDLLWDWDWWDDLDWLDDW,8,4,4,37,28,13,46,9,7,17,38,61,DWWLWLWWDLWWWDWDLWWWWDWWWWWWDWLWD,0,4,12,12,38,LWLWWLWDWWWWDDLD,DWWWDWDDWWWWWWWW
+Heerenveen,MVV Maastricht,3-1,/match/heerenveen/mvv/1994,1994,34,eredivisie,18,34,0,3,1,15,39,8,10,15,32,60,WWDLDLWWLWWDLDDLWWLDWDLDDDLWWLLLW,5,3,8,16,28,9,54,11,10,12,48,55,WDDDLWWWDLLWWWWDWWWLDLWWWWDWDLDWD,4,2,10,29,41,WDDWLWLLLWLDLWLL,WDWWLWWDWLLWWWLW
+VVV Venlo,RKC Waalwijk,0-2,/match/vvv/rkc-waalwijk/1994,1994,34,eredivisie,18,34,2,0,2,14,40,7,11,15,30,60,WDWWLWWDWLDWWDDWLDWDDLWDWLDLWLLDW,4,7,5,15,25,17,37,7,9,17,36,56,WLDLDWWLDLWLWDDWLLWLDWWDWDLWWDLWW,2,5,9,15,32,DWWDLWDWDDLDLLLD,WDDWDWWDWWDWWLWL
+Willem II,Ajax,2-1,/match/willem-ii/ajax/1994,1994,34,eredivisie,18,34,0,2,1,7,58,14,7,12,46,41,WWLWWDWDWWWLWWDWWWWLDDLLWWWDLWDLW,10,3,3,33,16,1,85,26,2,5,85,24,WDWLWLWLWWDLWLWLWLWLWWWLWLWWWWLLW,11,1,4,35,13,WLWWWWWDWWDLWWLD,DLLLWLLLLLWLLWWL
