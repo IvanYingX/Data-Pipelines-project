@@ -115,13 +115,15 @@ for league in leagues:
 
         # Add new columns that can potentially increase the performan5ce of
         # a model
-        new_cols = ['Position_Home', 'Points_Home', 'Total_Wins_Home', 'Total_Draw_Home',
-                    'Total_Lose_Home', 'Total_Goals_For_Home_Team',
+        new_cols = ['Position_Home', 'Points_Home', 'Total_Wins_Home',
+                    'Total_Draw_Home', 'Total_Lose_Home',
+                    'Total_Goals_For_Home_Team',
                     'Total_Goals_Against_Home_Team', 'Total_Streak_Home',
                     'Wins_When_Home', 'Draw_When_Home', 'Lose_When_Home',
                     'Goals_For_When_Home', 'Goals_Against_When_Home',
-                    'Position_Away', 'Points_Away', 'Total_Wins_Away', 'Total_Draw_Away',
-                    'Total_Lose_Away', 'Total_Goals_For_Away_Team',
+                    'Position_Away', 'Points_Away', 'Total_Wins_Away',
+                    'Total_Draw_Away', 'Total_Lose_Away',
+                    'Total_Goals_For_Away_Team',
                     'Total_Goals_Against_Away_Team', 'Total_Streak_Away',
                     'Wins_When_Away', 'Draw_When_Away', 'Lose_When_Away',
                     'Goals_For_When_Away', 'Goals_Against_When_Away',
@@ -131,8 +133,8 @@ for league in leagues:
         df[new_cols] = 0
         # If a team wins it adds 3 points, 1 point if it draws and
         # 0 points if it loses
-        dict_points_home = {0: 2, 1: 1, 2: 0}
-        dict_points_away = {0: 0, 1: 1, 2: 2}
+        dict_points_home = {0: 3, 1: 1, 2: 0}
+        dict_points_away = {0: 0, 1: 1, 2: 3}
 
         # If Home team wins, we add 1 to the Wins Column, and 0 to the
         # Draws and Loses columns. On the other hand, the Away Team
@@ -144,7 +146,8 @@ for league in leagues:
 
         # We can extract the streak as a series of character, where 'W'
         # means wins, 'D' is Draw, and 'L' is lose.
-        dict_streak = {0: 'W', 1: 'D', 2: 'L'}
+        dict_streak_home = {0: 'W', 1: 'D', 2: 'L'}
+        dict_streak_away = {0: 'L', 1: 'D', 2: 'W'}
         bar = progressbar.ProgressBar(
             maxval=n_rounds,
             widgets=[progressbar.Bar('=', '[', ']'),
@@ -251,9 +254,6 @@ for league in leagues:
                 df_standings.loc[df_standings['Team']
                                  == rows['Away_Team'],
                                  'Points'] += dict_points_away[rows['Label']]
-                df_standings.loc[df_standings['Team']
-                                 == rows['Home_Team'],
-                                 'Points'] += dict_points_home[rows['Label']]
                 # If Home team wins, we add 1 to the Wins Column, and 0 to the
                 # Draws and Loses columns. On the other hand, the Away Team
                 # behaves the other way around, it adds 1 to Lose, and 0
@@ -305,19 +305,19 @@ for league in leagues:
                 # Let's see the Home_Team
                 df_standings.loc[df_standings['Team']
                                  == rows['Home_Team'],
-                                 'Streak'] += dict_streak[rows['Label']]
+                                 'Streak'] += dict_streak_home[rows['Label']]
                 df_standings.loc[df_standings['Team']
                                  == rows['Home_Team'],
                                  'Streak_When_Home'] += \
-                    dict_streak[rows['Label']]
+                    dict_streak_home[rows['Label']]
                 # Let's see the away team
                 df_standings.loc[df_standings['Team']
                                  == rows['Away_Team'],
-                                 'Streak'] += dict_streak[rows['Label']]
+                                 'Streak'] += dict_streak_away[rows['Label']]
                 df_standings.loc[df_standings['Team']
                                  == rows['Away_Team'],
                                  'Streak_When_Away'] += \
-                    dict_streak[rows['Label']]
+                    dict_streak_away[rows['Label']]
                 # The goals for of the home team is equal to
                 # the goals against of the away team, and the
                 # other way around
