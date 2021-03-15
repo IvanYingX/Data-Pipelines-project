@@ -1,10 +1,9 @@
-# Data-Pipelines-project
+# Fottball Results Database
 
-First project in the AI-Core course. These scripts extract data from different sources to get results and important (or not so important) features that will be used as inputs for a classification ML model
+This repo extracts data of football leagues from europe over the last 30 years. The main idea is to use these data as inputs for a classification ML model or for a NN classifier. Even though the initial script is meant to extract data from some leagues*, the list of leagues can be changed by going to the *get_leagues.py* script and add the desired league as well aS its corresponding name in the https://www.besoccer.com/ webpage
 
 ## How to use the repo
 
-_Use the venv provided by typing .venv\scripts\activate_ <br>
 There are two main scripts in this repo. The first is Main.py, which opens a GUI to ask you whether you want to create or update a database. <br>
 The second one is Update_Database.py which gets the data in the Data folder and looks for any update in the data. <br>
 The reason for having two separate scripts is for being able to:
@@ -58,3 +57,5 @@ When executing Main.py, the GUI that pops up is determined by the files in this 
 
 * Finish the extraction of weather
 * Write some DOCSTRINGS and comments on the code
+
+'premier_league', 'primera_division', 'serie_a', 'ligue_1', 'bundesliga', 'eredivisie', 'primeira_liga'
