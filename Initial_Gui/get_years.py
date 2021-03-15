@@ -5,6 +5,7 @@ import sys
 
 def get_initial_year():
     root = tk.Tk()
+    root.title('Initial Year')
 
     def on_closing():
         if messagebox.askokcancel("Quit", "Do you want to quit?"):
@@ -52,6 +53,7 @@ def get_initial_year():
 
 def get_final_year(year_1):
     root = tk.Tk()
+    root.title('Final Year')
 
     def on_closing():
         if messagebox.askokcancel("Quit", "Do you want to quit?"):

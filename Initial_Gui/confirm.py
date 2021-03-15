@@ -13,6 +13,7 @@ def confirm(year_1, year_2, mask):
                     leagues_names_1 + leagues_names_2, mask))
     leagues_text = '\n'.join(league_names)
     root = tk.Tk()
+    root.title('Review')
 
     def on_closing():
         if messagebox.askokcancel("Quit", "Do you want to quit?"):

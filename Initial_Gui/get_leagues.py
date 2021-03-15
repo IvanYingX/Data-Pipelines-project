@@ -29,11 +29,13 @@ def get_leagues():
     boxes = []
     box_num = 0
     root = tk.Tk()
-
+    root.title('League Selection')
+    
     def on_closing():
         if messagebox.askokcancel("Quit", "Do you want to quit?"):
             root.destroy()
             sys.exit('Quitting...')
+
     w = 425  # width for the Tk root
     h = 300  # height for the Tk root
     ws = root.winfo_screenwidth()  # width of the screen

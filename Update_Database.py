@@ -8,8 +8,8 @@ from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
 
 
-def update_database(RES_DIR, STA_DIR):
-    """Takes the files in RES_DIR and STA_DIR and checks if there is any
+def update_database(RES_DIR, is_file=False):
+    """Takes the files in RES_DIR and and checks if there is any
     available update. If there is, it appends the available update to the
     'Update' folder.
 
@@ -22,96 +22,108 @@ def update_database(RES_DIR, STA_DIR):
     ----------
     RES_DIR: str
         Directory of the results file. The file has to be a csv
-        Directory of the standings file. The chosen file has to
-        correspond to the same league as the league in the results
-        file, otherwise, the function terminates.
     """
 
     df_results = pd.read_csv(RES_DIR)
-    df_standings = pd.read_csv(STA_DIR)
-    list_standings = ['Position', 'Team', 'Points', 'Round', 'Win', 'Draw',
-                      'Lose', 'Goals_For', 'Goals_Against', 'Number_Teams',
-                      'Year', 'League']
-    list_results = ['Home_Team', 'Away_Team', 'Result', 'Date', 'Link',
-                    'Year', 'Round', 'League']
 
-    # Check how many leagues we have in both files. There should be only one
-    league = pd.concat([df_standings.League, df_results.League]).unique()
-    if len(league) != 1:
-        raise ValueError('''There is a problem with these CSVs. There is
-                         more than 1 league''')
+    list_results = ['Home_Team', 'Away_Team', 'Result', 'Link',
+                    'Season', 'Round', 'League']
 
     # Last year available in the dataset
-    final_year = df_results.Year.max()
+    final_year = df_results.Season[0]
     # Last round available in the last year of the dataset
-    last_round_df = df_results[df_results['Year'] == final_year].Round.max()
-
-    league = league[0]
-
-    dest_res_file = f'./Data/Updated/Results/Results_{league}.csv'
-    dest_sta_file = f'./Data/Updated/Standings/Standings_{league}.csv'
-
-    # Create a csv for each dataframe if they do not exist
-    if not os.path.exists(dest_res_file):
-        df_results.to_csv(dest_res_file, index=False)
-    if not os.path.exists(dest_sta_file):
-        df_standings.to_csv(dest_sta_file, index=False)
-
+    last_round_df = df_results.Round[0]
+    # League corresponding to the dataset
+    league = df_results.League[0]
     # Start the scraping, we need to see the current actual year and round
-    driver = accept_cookies(year='', league=league)
-
-    current_year = extract_current_year(driver)
-    current_round = extract_rounds(driver)
-    driver.quit()
+    ROOT_DIR = "https://www.besoccer.com/"
+    # If we pass a single file to the function, we just want to see if that
+    # file is up to date rather than checking that the directoty has the
+    # latest year
+    if is_file:
+        URL = (ROOT_DIR + league + str(final_year))
+        year_url = urlopen(URL)
+        year_bs = BeautifulSoup(year_url.read(), 'html.parser')
+        last_round = extract_rounds(year_bs)
+        if last_round != last_round_df:
+            for r in range(last_round_df, last_round + 1):
+                URL = (ROOT_DIR + league + str(final_year)
+                       + "/group1/round" + str(r))
+                round_url = urlopen(URL)
+                round_bs = BeautifulSoup(round_url.read(), 'html.parser')
+                results = extract_results(round_bs)
+                dict_results = {x: [] for x in list_results}
+                if results is None:
+                    print(f'------------------------------------------------')
+                    print(f'!!!\tRound {r} does not '
+                          + f'exist on year {final_year}\t!!!')
+                    print(f'------------------------------------------------')
+                    continue
+                for i, key in enumerate(list_results[:-3]):
+                    dict_results[key].extend(results[i])
+                subset_results = df_results[(df_results['Season']
+                                             == final_year)
+                                            & (df_results['Round'] == r)]
+                dict_results['Season'].extend([final_year] * len(results[0]))
+                dict_results['Round'].extend([r] * len(results[0]))
+                dict_results['League'].extend([league] * len(results[0]))
+                new_df_results = pd.DataFrame(dict_results)
+                mask = new_df_results['Result'].map(lambda x: ':' not in x,
+                                                    na_action=None)
+                new_df_results = new_df_results[mask]
+                df_diff_results = subset_results.merge(
+                                new_df_results, indicator=True,
+                                how='right').loc[
+                                lambda x: x['_merge'] != 'both']
+                df_diff_results = df_diff_results.drop(['_merge'], axis=1)
+                df_diff_results.to_csv(RES_DIR, mode='a', header=False,
+                                       index=False)
+    URL = (ROOT_DIR + league)
+    year_url = urlopen(URL)
+    year_bs = BeautifulSoup(year_url.read(), 'html.parser')
+    current_year = extract_current_year(year_bs)
+    list_results = df_results.columns
 
     # If the final year of our database is lower than the current
     # actual year we need to extract the rounds from the final
     # year that has not been extracted
     if final_year != current_year:
-        for year in range(final_year, current_year):
-            print(f"Accesing data from: \tround {r} \n\tyear"
-                  + f"{year} \n\tleague {league}")
-            driver = accept_cookies(year=year, league=league)
+        dest_res_file = (f'./Data/Results/{league}/Results'
+                         + f'_{final_year}_{league}')
+        if not os.path.exists(dest_res_file):
+            df_results = pd.DataFrame(list_results)
+            df_results.to_csv(dest_res_file, index=False)
+        else:
+            df_results = pd.read_csv(dest_res_file)
 
-            # Number of actual rounds in the last year of our database if the
-            # last year of our database is lower than the actual last year
-            last_round_final_year = extract_rounds(driver)
-            driver.quit()
+        for year in range(final_year, current_year):
+            URL = ROOT_DIR + league + str(year)
+            year_url = urlopen(URL)
+            year_bs = BeautifulSoup(year_url.read(), 'html.parser')
+            last_round_final_year = extract_rounds(year_bs)
             for r in range(last_round_df + 1, last_round_final_year + 1):
                 print(f'''\tAccesing data from round {r} of year {year}
                       of {league}''')
-                subset_results = df_results[(df_results['Year'] == year)
+                subset_results = df_results[(df_results['Season'] == year)
                                             & (df_results['Round'] == r)]
-                subset_standings = df_standings[(df_standings['Year'] == year)
-                                                & (df_standings['Round'] == r)]
-                driver = accept_cookies(year=year, league=league, round=r)
-                standings = extract_standing(driver)
-                results = extract_results(driver)
-                dict_standings = {x: [] for x in list_standings}
+                URL = (ROOT_DIR + league + str(year)
+                       + "/group1/round" + str(r))
+                round_url = urlopen(URL)
+                round_bs = BeautifulSoup(round_url.read(), 'html.parser')
+                results = extract_results(round_bs)
                 dict_results = {x: [] for x in list_results}
-                if standings is None or results is None:
+                if results is None:
                     print(f'------------------------------------------------')
                     print(f'!!!\tRound {r} does not exist on year {year}\t!!!')
                     print(f'------------------------------------------------')
-                    driver.quit()
                     continue
-
-                driver.quit()
-                for i, key in enumerate(list_standings[:-2]):
-                    dict_standings[key].extend(standings[i])
-
-                dict_standings['Year'].extend([year] * len(standings[0]))
-                dict_standings['League'].extend([league] * len(standings[0]))
-
                 for i, key in enumerate(list_results[:-3]):
                     dict_results[key].extend(results[i])
 
-                dict_results['Year'].extend([year] * len(results[0]))
-                dict_results['Round'].extend([round] * len(results[0]))
+                dict_results['Season'].extend([year] * len(results[0]))
+                dict_results['Round'].extend([r] * len(results[0]))
                 dict_results['League'].extend([league] * len(results[0]))
-
                 new_df_results = pd.DataFrame(dict_results)
-                new_df_standings = pd.DataFrame(dict_standings)
                 mask = new_df_results['Result'].map(lambda x: ':' not in x,
                                                     na_action=None)
                 new_df_results = new_df_results[mask]
@@ -122,80 +134,48 @@ def update_database(RES_DIR, STA_DIR):
                 df_diff_results = df_diff_results.drop(['_merge'], axis=1)
                 df_diff_results.to_csv(dest_res_file, mode='a', header=False,
                                        index=False)
-                df_diff_standings = subset_standings.merge(
-                                  new_df_standings, indicator=True,
-                                  how='right').loc[
-                                  lambda x: x['_merge'] != 'both']
-                df_diff_standings = df_diff_standings.drop(['_merge'], axis=1)
-                df_diff_standings.to_csv(dest_sta_file, mode='a', header=False,
-                                         index=False)
+        last_round_df = 0
 
-            last_round_df = 0
+        current_round = extract_rounds(year_bs)
+        for r in range(last_round_df, current_round + 1):
+            print(f"Accesing data from: \tround {r} \n\t\t\tyear"
+                  + f" {current_year} \n\t\t\tleague {league}")
+            subset_results = df_results[
+                                    (df_results['Season'] == current_year)
+                                    & (df_results['Round'] == r)
+                                ]
+            driver = URL = (ROOT_DIR + league + str(year)
+                            + "/group1/round" + str(r))
+            round_url = urlopen(URL)
+            round_bs = BeautifulSoup(round_url.read(), 'html.parser')
+            results = extract_results(round_bs)
+            dict_results = {x: [] for x in list_results}
+            if results is None:
+                print(f'----------------------------------------------------')
+                print(f'''!!!\tRound {r} does not exist on year
+                        {current_year}\t!!!''')
+                print(f'----------------------------------------------------')
+                continue
 
-    # If the last year of our database is the same as the last actual year
-    # we can iterate through the rounds.
-    # If we come from the previous loop, we are going to the next year,
-    # so we need to restart the number of the round
+            for i, key in enumerate(list_results[:-3]):
+                dict_results[key].extend(results[i])
 
-    for r in range(last_round_df, current_round + 1):
-        print(f"Accesing data from: \tround {r} \n\t\t\tyear"
-              + f" {current_year} \n\t\t\tleague {league}")
-        subset_results = df_results[
-                                (df_results['Year'] == current_year)
-                                & (df_results['Round'] == r)
-                            ]
-        subset_standings = df_standings[
-                                (df_standings['Year'] == current_year)
-                                & (df_standings['Round'] == r)
-                            ]
-        driver = accept_cookies(year=current_year, league=league, round=r)
-        standings = extract_standing(driver)
-        results = extract_results(driver)
-        dict_standings = {x: [] for x in list_standings}
-        dict_results = {x: [] for x in list_results}
-        if standings is None or results is None:
-            print(f'----------------------------------------------------')
-            print(f'''!!!\tRound {r} does not exist on year
-                    {current_year}\t!!!''')
-            print(f'----------------------------------------------------')
-            driver.quit()
-            continue
+            dict_results['Season'].extend([current_year] * len(results[0]))
+            dict_results['Round'].extend([r] * len(results[0]))
+            dict_results['League'].extend([league] * len(results[0]))
 
-        driver.quit()
-        for i, key in enumerate(list_standings[:-2]):
-            dict_standings[key].extend(standings[i])
+            new_df_results = pd.DataFrame(dict_results)
+            mask = new_df_results['Result'].map(lambda x: ':' not in x,
+                                                na_action=None)
+            new_df_results = new_df_results[mask]
 
-        dict_standings['Year'].extend([current_year] * len(standings[0]))
-        dict_standings['League'].extend([league] * len(standings[0]))
-
-        for i, key in enumerate(list_results[:-3]):
-            dict_results[key].extend(results[i])
-
-        dict_results['Year'].extend([current_year] * len(results[0]))
-        dict_results['Round'].extend([r] * len(results[0]))
-        dict_results['League'].extend([league] * len(results[0]))
-
-        new_df_results = pd.DataFrame(dict_results)
-        new_df_standings = pd.DataFrame(dict_standings)
-        mask = new_df_results['Result'].map(lambda x: ':' not in x,
-                                            na_action=None)
-        new_df_results = new_df_results[mask]
-
-        # Take only those matches that are already included      
-        df_diff_results = subset_results.merge(
-                        new_df_results, indicator=True,
-                        how='right').loc[lambda x: x['_merge'] != 'both']
-        df_diff_results = df_diff_results.drop(['_merge'], axis=1)
-        df_diff_results.to_csv(dest_res_file, mode='a', header=False,
-                               index=False)
-        # Take only those standings that are different
-        df_diff_standings = subset_standings.merge(
-                            new_df_standings, indicator=True,
-                            how='right').loc[
-                            lambda x: x['_merge'] != 'both']
-        df_diff_standings = df_diff_standings.drop(['_merge'], axis=1)
-        df_diff_standings.to_csv(dest_sta_file, mode='a', header=False,
-                                 index=False)
+            # Take only those matches that are already included
+            df_diff_results = subset_results.merge(
+                            new_df_results, indicator=True,
+                            how='right').loc[lambda x: x['_merge'] != 'both']
+            df_diff_results = df_diff_results.drop(['_merge'], axis=1)
+            df_diff_results.to_csv(dest_res_file, mode='a', header=False,
+                                   index=False)
 
 
 if __name__ == '__main__':
@@ -205,9 +185,11 @@ if __name__ == '__main__':
     Don't change these values unless you haven't created an updated
     file, or you need to overwrite the updated files.
     """
-    res_dir = './Data/Updated/Results'
-    sta_dir = './Data/Updated/Standings'
-    file_res_list = sorted(glob.glob(f'{res_dir}/*'))
-    file_sta_list = sorted(glob.glob(f'{sta_dir}/*'))
-    for RES_DIR, STA_DIR in list(zip(file_res_list, file_sta_list)):
-        update_database(RES_DIR, STA_DIR)
+    files = []
+    leagues_list = glob.glob('./Data/Results/*')
+    for file_dir in leagues_list:
+        last_file = sorted(glob.glob(f'{file_dir}/*'))[-1]
+        files.append(last_file)
+
+    for res_file in files:
+        update_database(res_file)

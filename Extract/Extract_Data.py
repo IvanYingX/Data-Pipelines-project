@@ -61,15 +61,14 @@ def accept_cookies(year, league, round=None):
         return driver
 
 
-def extract_current_year(driver):
+def extract_current_year(soup):
     '''
-    Starts the driver which returns the html code of the webpage
-    of a given year, league, and round to extract the data afterwards.
+    Returns the last year of the available data of a league
 
-    Parameters
     ----------
-    league: str
-        League of the match
+    soup: BeautifulSoup
+        The bs4 object that can extract the HTML code to look for the
+        data in the wanted year, league and round
 
     Returns
     -------
@@ -77,8 +76,6 @@ def extract_current_year(driver):
         The webdriver object that can extract the HTML code to look for the
         data in the current year, league and round
     '''
-    page = driver.page_source
-    soup = BeautifulSoup(page, 'html.parser')
     year = soup.find("small", {"class": 'nh-count'}).text.split('/')[1]
     return int(year)
 
@@ -89,8 +86,8 @@ def extract_rounds(soup):
 
     Parameters
     ----------
-    driver: webdriver
-        The webdriver object that can extract the HTML code to look for the
+    soup: BeautifulSoup
+        The bs4 object that can extract the HTML code to look for the
         data in the wanted year, league and round
 
     Returns
@@ -107,71 +104,6 @@ def extract_rounds(soup):
             return 0
     else:
         return 0
-
-
-def extract_standing(soup):
-    '''
-    Returns the standing data for a given year, league, and round
-
-    Parameters
-    ----------
-    driver: webdriver
-        The webdriver object that can extract the HTML code to look for the
-        data in the wanted year, league and round
-
-    Returns
-    -------
-    standings: list
-        Returns a nested list with:
-            Position: position
-            Team: team
-            Points: pts
-            Round: round
-            Number of matches won: win
-            Number of matches drawn: draw
-            Number of matches lost: lost
-            Goals for: g_for
-            Goals against: g_against
-            Number of teams: n_teams
-        If one of the list couldn't be extracted, the function return
-        a list of null values
-    '''
-    soup_table = soup.find("table", {"id": 'tabla2'})
-    if soup_table:
-        standings_table = soup_table.find('tbody').find_all('tr')
-    else:
-        return None
-    num_teams = len(standings_table)
-
-    position = [
-        int(standings_table[i].find_all('td')[0].find('span').text)
-        for i in range(num_teams)
-        ]
-    team = [standings_table[i].find_all('td')[1].find('a').text
-            for i in range(num_teams)]
-    pts = [int(standings_table[i].find_all('td')[3].text)
-           for i in range(num_teams)]
-    win = [int(standings_table[i].find_all('td')[5].text)
-           for i in range(num_teams)]
-    draw = [int(standings_table[i].find_all('td')[6].text)
-            for i in range(num_teams)]
-    lost = [int(standings_table[i].find_all('td')[7].text)
-            for i in range(num_teams)]
-    g_favour = [int(standings_table[i].find_all('td')[8].text)
-                for i in range(num_teams)]
-    g_against = [int(standings_table[i].find_all('td')[9].text)
-                 for i in range(num_teams)]
-    n_teams = [num_teams] * len(position)
-
-    standings = [position, team, pts, win, draw, lost, g_favour,
-                 g_against, n_teams]
-
-    # Make sure that we haven't skipped any data
-
-    if len(set([len(i) for i in standings])) == 1:
-        return standings
-    else:
-        return [None] * len(standings)
 
 
 def extract_results(soup):
