@@ -8,6 +8,12 @@ import progressbar
 pd.options.mode.chained_assignment = None
 
 
+def clean_result(x):
+    if (':' in x) or ('(' in x):
+        return None
+    return x
+
+
 def get_result(x):
     '''
     Returns the label, the goals for the home team, the
@@ -27,6 +33,8 @@ def get_result(x):
     int:
         Number of goals for of the away team
     '''
+    if x is None:
+        return None, None, None
     result = x.split('-')
     if len(x) == 3:
         if result[0] > result[1]:
@@ -76,12 +84,6 @@ for league in leagues:
         if len(df) == 0:
             print(f'No available data for season {season} of {league}')
             continue
-        filename = f'Cleaned_{df.loc[0]["Season"]}_{df.loc[0]["League"]}.csv'
-        # if os.path.exists(f"./Data/Results_Cleaned/{league}/{filename}"):
-        #     # TODO Read filename and check its length to compare with df
-        #     continue`````
-        print(f'Getting info about \tSeason: {df.loc[0]["Season"]}'
-              + f'\n\t\t\tLeague: {df.loc[0]["League"]}')
         # Get the teams that were playing that season and the number of teams
         # so we use the value to normalize certain values eventually
         df.loc[:, 'Home_Team'] = df['Home_Team'].map(clean_names)
@@ -95,9 +97,21 @@ for league in leagues:
         n_rounds = df['Round'].max()
         df['Total_Rounds'] = n_rounds
         # Get the result, the goals for and the goals against
+        df['Result'] = df['Result'].map(clean_result)
         df['Label'], df['Goals_For_Home'], df['Goals_For_Away'] = \
             zip(*df['Result'].map(get_result))
         df = df[df['Label'].notna()]
+
+        filename = f'Cleaned_{df.loc[0]["Season"]}_{df.loc[0]["League"]}.csv'
+        dir_old_season = f"./Data/Results_Cleaned/{league}/{filename}"
+        if os.path.exists(dir_old_season):
+            df_old = pd.read_csv(dir_old_season)
+            if len(df) == len(df_old):
+                continue
+            else:
+                pass
+        print(f'Getting info about \tSeason: {df.loc[0]["Season"]}'
+              + f'\n\t\t\tLeague: {df.loc[0]["League"]}')
         # Create a dataframe to accumulates the results during the season
         # throughout the rounds
         list_standings = ['Team', 'Position', 'Points', 'Win',
