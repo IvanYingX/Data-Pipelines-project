@@ -1,6 +1,6 @@
-# Fottball Results Database
+# Football Results Database
 
-This repo extracts data of football leagues from europe over the last 30 years. The main idea is to use these data as inputs for a classification ML model or for a NN classifier. Even though the initial script is meant to extract data from some leagues*, the list of leagues can be changed by going to the *get_leagues.py* script and add the desired league as well aS its corresponding name in the https://www.besoccer.com/ webpage
+This repo extracts data of football leagues from europe over the last 30 years. The main idea is to use these data as inputs for a classification ML model or for a NN classifier. Even though the initial script is meant to extract data from some leagues, the list of leagues can be changed by going to the *get_leagues.py* script and add the desired league as well aS its corresponding name in the https://www.besoccer.com/ webpage
 
 ## Content
 
@@ -54,25 +54,25 @@ _The only files that are recommended to be modified are the get\_leagues.py and 
 
 When running Main.py, a GUI asking whether to create or update the database will pop up:
 
-![Main GUI](/images/Create_Update.png)
+![Main_GUI](https://user-images.githubusercontent.com/58112372/114110031-db06a080-98d6-11eb-8044-6081bf201c95.png)
 
 ### Create
 
 This option uses the Create_Database.py script to create a new database. The arguments of that function are the leagues and years to extract the data from, so three new windows will appear asking for the leagues:
 
-![Leagues](/images/Leagues.png)
+![Leagues](https://user-images.githubusercontent.com/58112372/114110098-fec9e680-98d6-11eb-92b3-d52fbb64306f.png)
 
 Then, the code will ask for an initial year:
 
-![Initial Year](/images/Initial_Year.png)
+![Initial_Year](https://user-images.githubusercontent.com/58112372/114110104-06898b00-98d7-11eb-9422-0b12525d8281.png)
 
 And finally, the last window will ask for a final year:
 
-![Final Year](/images/Final_Year.png)
+![Final_Year](https://user-images.githubusercontent.com/58112372/114110122-130de380-98d7-11eb-8c82-4d201d7c9daa.png)
 
 Before creating the new dataset, a final window will show the summary of our query to be sure of our input
 
-![Summary](/images/Summary.png)
+![Summary](https://user-images.githubusercontent.com/58112372/114110147-1c974b80-98d7-11eb-8dbb-8fae4ef4407d.png)
 
 _If the database of the specified years and league already exists, it will be overwritten_
 
@@ -80,11 +80,11 @@ _If the database of the specified years and league already exists, it will be ov
 
 When updating the database, we can choose between updating a single year of a league, a whole league, or the whole dataset:
 
-![Year, League, or Dataset](/images/Year_League_Dataset.png)
+![Year_League_Dataset](https://user-images.githubusercontent.com/58112372/114110170-2ae56780-98d7-11eb-9864-ec96a9374a4c.png)
 
 Then, the user is asked to choose a file or a directory depending on whether he/she chose to update a year, or a league or the dataset respectively:
 
-![Choose File](/images/Choose_File.png)
+![Choose_File](https://user-images.githubusercontent.com/58112372/114110190-38025680-98d7-11eb-9218-51962d407ea2.png)
 
 # Final Notes
 
