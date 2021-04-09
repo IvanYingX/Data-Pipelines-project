@@ -1,6 +1,6 @@
-from Data.load_df import load_leagues
+from Data_Load.load_df import load_raw
 import pandas as pd
-from .Extract_Data import extract_match_info
+from Extract_Data import extract_match_info
 import time
 import os
 import pickle
@@ -8,7 +8,7 @@ import numpy as np
 from urllib.error import HTTPError
 
 RES_DIR = './Data/Results_cleaned/*'
-df_results = load_leagues(RES_DIR)
+df_results = load_raw(RES_DIR)
 while True:
     try:
         extract_match_info(df_results)
