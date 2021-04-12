@@ -29,6 +29,7 @@ def update_database(RES_DIR, is_file=False):
     list_results = ['Home_Team', 'Away_Team', 'Result', 'Link',
                     'Season', 'Round', 'League']
 
+    updated_list = []
     # Last year available in the dataset
     final_year = df_results.Season[0]
     # Last round available in the last year of the dataset
@@ -144,7 +145,7 @@ def update_database(RES_DIR, is_file=False):
                                     (df_results['Season'] == current_year)
                                     & (df_results['Round'] == r)
                                 ]
-            driver = URL = (ROOT_DIR + league + str(year)
+            URL = (ROOT_DIR + league + str(year)
                             + "/group1/round" + str(r))
             round_url = urlopen(URL)
             round_bs = BeautifulSoup(round_url.read(), 'html.parser')
