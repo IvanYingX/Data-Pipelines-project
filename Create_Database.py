@@ -1,7 +1,7 @@
 from Extract.Extract_Data import *
 import os
 import pandas as pd
-
+from tqdm import tqdm
 
 def create_database(year_1, year_2, leagues):
     '''
@@ -26,7 +26,7 @@ def create_database(year_1, year_2, leagues):
                     'Link', 'Season', 'Round', 'League']
     dict_results = {x: [] for x in list_results}
     df_results = pd.DataFrame(dict_results)
-    ROOT_DIR = "https://www.besoccer.com/"
+    ROOT_DIR = "https://www.besoccer.com/competition/scores/"
 
     for league in leagues:
         for year in range(year_1, year_2 + 1):
@@ -34,7 +34,7 @@ def create_database(year_1, year_2, leagues):
                               + f"Results_{year}_{league}.csv",
                               index=False)
             print(f'Accesing data from year {year} of {league}')
-            URL = ROOT_DIR + league + str(year)
+            URL = ROOT_DIR + league + '/' + str(year)
             year_url = urlopen(URL)
             year_bs = BeautifulSoup(year_url.read(), 'html.parser')
             num_rounds = extract_rounds(year_bs)
@@ -43,10 +43,8 @@ def create_database(year_1, year_2, leagues):
                 print('Skipping to the next year')
                 continue
 
-            for round in range(1, num_rounds + 1):
-                print(f'\tAccesing data from round {round} of year'
-                      + f' {year} of {league}')
-                URL = (ROOT_DIR + league + str(year)
+            for round in tqdm(range(1, num_rounds + 1)):
+                URL = (ROOT_DIR + league + '/' + str(year)
                        + "/group1/round" + str(round))
                 round_url = urlopen(URL)
                 round_bs = BeautifulSoup(round_url.read(), 'html.parser')
@@ -65,9 +63,13 @@ def create_database(year_1, year_2, leagues):
                 dict_results['Season'].extend([year] * len(results[0]))
                 dict_results['Round'].extend([round] * len(results[0]))
                 dict_results['League'].extend([league] * len(results[0]))
-                pd.DataFrame(dict_results).to_csv(
-                        f"./Data/Results/{league}/"
-                        + f"Results_{year}_{league}.csv",
-                        mode='a', header=False, index=False)
-                for key in dict_results:
-                    dict_results[key].clear()
+            new_df_results = pd.DataFrame(dict_results)
+            mask = new_df_results['Result'].map(lambda x: ':' not in x,
+                                                na_action=None)
+            new_df_results = new_df_results[mask]
+            new_df_results.to_csv(
+                    f"./Data/Results/{league}/"
+                    + f"Results_{year}_{league}.csv",
+                    mode='w', header=True, index=False)
+            for key in dict_results:
+                dict_results[key].clear()

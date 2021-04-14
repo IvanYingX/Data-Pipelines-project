@@ -8,6 +8,7 @@ import os
 from urllib.request import urlopen, Request
 import pickle
 import progressbar
+from tqdm import tqdm
 
 
 def accept_cookies(year, league, round=None):
@@ -48,7 +49,7 @@ def accept_cookies(year, league, round=None):
         driver.get(ROOT_DIR + league + str(year))
 
     cookies_button = driver.find_elements_by_xpath(
-                    '//button[@class="sc-ifAKCX hYNOwJ"]')
+                    '//button[@class=" css-1lloz7i"]')
 
     try:
         for button in cookies_button:
@@ -76,8 +77,9 @@ def extract_current_year(soup):
         The webdriver object that can extract the HTML code to look for the
         data in the current year, league and round
     '''
-    year = soup.find("small", {"class": 'nh-count'}).text.split('/')[1]
-    return int(year)
+    year = soup.find("div", {"class": 'head-select'}).find(
+        'option').text.split('/')[1]
+    return int('20' + year)
 
 
 def extract_rounds(soup):
@@ -96,7 +98,7 @@ def extract_rounds(soup):
         If the webpage has information about the number of rounds,
         it returns that number. Otherwise, it returns 0
     '''
-    round = soup.find("b", {"id": 'short_dateLive', "class": 'bold'})
+    round = soup.find("div", {"class": 'panel-title'})
     if round:
         if len(round.text.split()) == 2:
             return int(round.text.split()[1])
@@ -128,30 +130,36 @@ def extract_results(soup):
         If one of the list couldn't be extracted, the function
         return a list of null values
     '''
-    regex = re.compile('nonplayingnow')
-    soup_table = soup.find("table", {"id": 'tablemarcador'})
+    soup_table = soup.find("div", {"class": 'panel-body p0 match-list-new'})
     if soup_table:
-        results_table = soup_table.find('tbody').find_all(
-            "tr", {"class": regex})
+        results_table = soup_table.find_all(
+            "a", {"class": 'match-link'})
     else:
         return None
 
     num_matches = len(results_table)
-    home_team = [results_table[i].find('td', {'class': 'team-home'}).find(
-        'span').find('a').text for i in range(num_matches)]
-    away_team = [results_table[i].find('td', {'class': 'team-away'}).find(
-        'span').find('a').text for i in range(num_matches)]
+    home_team = [
+        results_table[i].find(
+            'div', {'class': 'team-info ta-r'}).find(
+                'div', {'class': 'name'}).text
+        for i in range(num_matches)]
+    regex = re.compile('^team-name ta-l')
+    away_team = [
+        results_table[i].find(
+            'div', {'class': regex}).find(
+                'div', {'class': 'name'}).text
+        for i in range(num_matches)]
     link = []
     result = []
     for i in range(num_matches):
         try:
-            link.append(results_table[i].find_all('td')[2].find('a')['href'])
+            link.append(results_table[i]['href'])
         except AttributeError:
             link.append(np.nan)
 
         try:
             result.append(results_table[i].find(
-                'div', {'class': 'clase'}).text)
+                'div', {'class': 'marker'}).text.strip('\n'))
         except AttributeError:
             result.append(np.nan)
 
@@ -311,13 +319,13 @@ def extract_match_info(df_results):
         dict_match = {}
 
     new_match = set(df_results.Link.unique()) - set(dict_match.keys())
-    bar = progressbar.ProgressBar(
-            maxval=len(new_match),
-            widgets=[progressbar.Bar('=', '[', ']'),
-                     ' ', progressbar.Percentage()])
-    bar.start()
-    r = 0
-    for match in new_match:
+    # bar = progressbar.ProgressBar(
+    #         maxval=len(new_match),
+    #         widgets=[progressbar.Bar('=', '[', ']'),
+    #                  ' ', progressbar.Percentage()])
+    # bar.start()
+    # r = 0
+    for match in tqdm(new_match):
         date = None
         referee = None
         home_yellow = None
@@ -327,60 +335,17 @@ def extract_match_info(df_results):
         URL = ROOT + match
         match_url = urlopen(URL)
         match_bs = BeautifulSoup(match_url.read(), 'html.parser')
-        match_table = match_bs.find('div', {'id': 'marcador'})
-        home_table = match_bs.find('div', {'class': 'team team1'})
-        away_table = match_bs.find('div', {'class': 'team team2'})
+        match_table = match_bs.find('div',
+                                    {'class': 'head-info fixed-w-scroll'})
 
         if match_table:
             if match_table.find('div', {'class': 'marcador-header'}):
                 date = match_table.find(
-                    'div', {'class': 'marcador-header'}).find(
-                    'span', {'class': 'jor-date'}).text
-            if match_table.find('div', {'class': 'matchinfo'}):
-                referee = match_table.find(
-                    'div', {'class': 'matchinfo'}).find(
-                    'li', {'class': 'ar'}).text
-            if match_table.find('div', {'id': 'tarjetas'}):
-                if match_table.find('div', {'id': 'tarjetas'}).find(
-                                    'div', {'class': 'te1'}):
-                    home_yellow = match_table.find(
-                        'div', {'id': 'tarjetas'}).find(
-                        'div', {'class': 'te1'}).find(
-                        'span', {'class': 'am'}).text
-                    home_red = match_table.find(
-                        'div', {'id': 'tarjetas'}).find(
-                        'div', {'class': 'te1'}).find(
-                        'span', {'class': 'ro'}).text
-                elif home_table:
-                    home_yellow = len(home_table.find_all(
-                        'span', {'class': 'flaticon-live-5'}))
-                    home_red = len(home_table.find_all(
-                        'span', {'class': 'flaticon-live-3'}))
-            elif home_table:
-                home_yellow = len(home_table.find_all(
-                    'span', {'class': 'flaticon-live-5'}))
-                home_red = len(home_table.find_all(
-                    'span', {'class': 'flaticon-live-3'}))
-            if match_table.find('div', {'id': 'tarjetas'}):
-                if match_table.find('div', {'id': 'tarjetas'}).find(
-                                    'div', {'class': 'te2'}):
-                    away_yellow = match_table.find(
-                        'div', {'id': 'tarjetas'}).find(
-                        'div', {'class': 'te2'}).find(
-                        'span', {'class': 'am'}).text
-                    away_red = match_table.find(
-                        'div', {'id': 'tarjetas'}).find(
-                        'div', {'class': 'te2'}).find(
-                        'span', {'class': 'ro'}).text
-                elif away_table:
-                    away_yellow = len(away_table.find_all(
-                        'span', {'class': 'flaticon-live-5'}))
-                    away_red = len(away_table.find_all(
-                        'span', {'class': 'flaticon-live-3'}))
+                    'div', {'class': 'date header-match-date '}).text
         dict_match[match] = [date, referee, home_yellow, home_red,
                              away_yellow, away_red]
         with open(filename, 'wb') as pickle_out:
             pickle.dump(dict_match, pickle_out)
-        bar.update(r + 1)
-        r += 1
-    bar.finish()
+        # bar.update(r + 1)
+    #     r += 1
+    # bar.finish()

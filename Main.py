@@ -26,7 +26,7 @@ elif action == 2:
     else:
         res_dir = './' + os.path.relpath(gui.path_dir_res, start=os.curdir)
         files = []
-        leagues_list = glob.glob(res_dir)
+        leagues_list = glob.glob(res_dir + '/*')
         print(leagues_list)
         for file_dir in leagues_list:
             last_file = sorted(glob.glob(f'{file_dir}/*'))[-1]
