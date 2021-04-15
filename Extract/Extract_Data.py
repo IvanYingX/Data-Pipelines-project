@@ -98,7 +98,9 @@ def extract_rounds(soup):
         If the webpage has information about the number of rounds,
         it returns that number. Otherwise, it returns 0
     '''
-    round = soup.find("div", {"class": 'panel-title'})
+    round = soup.find(
+        "div", {"class": 'team-text ta-r cutom-margin'}
+        ).find_all('p')[-1]
     if round:
         if len(round.text.split()) == 2:
             return int(round.text.split()[1])

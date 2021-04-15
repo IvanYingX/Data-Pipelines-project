@@ -2,6 +2,8 @@ from Extract.Extract_Data import *
 import os
 import pandas as pd
 from tqdm import tqdm
+from urllib.error import HTTPError
+
 
 def create_database(year_1, year_2, leagues):
     '''
@@ -35,7 +37,17 @@ def create_database(year_1, year_2, leagues):
                               index=False)
             print(f'Accesing data from year {year} of {league}')
             URL = ROOT_DIR + league + '/' + str(year)
-            year_url = urlopen(URL)
+            try:
+                year_url = urlopen(URL)
+            except HTTPError as exception:
+                if exception.code == 404:
+                    print('The page does not exist')
+                elif exception.code == 302:
+                    print('The specified year or league does not exist')
+                os.remove(f"./Data/Results/{league}/"
+                          + f"Results_{year}_{league}.csv")
+                continue  # Skip to the next year
+
             year_bs = BeautifulSoup(year_url.read(), 'html.parser')
             num_rounds = extract_rounds(year_bs)
             if num_rounds == 0:
@@ -44,8 +56,7 @@ def create_database(year_1, year_2, leagues):
                 continue
 
             for round in tqdm(range(1, num_rounds + 1)):
-                URL = (ROOT_DIR + league + '/' + str(year)
-                       + "/group1/round" + str(round))
+                URL += "/group1/round" + str(round)
                 round_url = urlopen(URL)
                 round_bs = BeautifulSoup(round_url.read(), 'html.parser')
                 results = extract_results(round_bs)
@@ -63,6 +74,7 @@ def create_database(year_1, year_2, leagues):
                 dict_results['Season'].extend([year] * len(results[0]))
                 dict_results['Round'].extend([round] * len(results[0]))
                 dict_results['League'].extend([league] * len(results[0]))
+
             new_df_results = pd.DataFrame(dict_results)
             mask = new_df_results['Result'].map(lambda x: ':' not in x,
                                                 na_action=None)

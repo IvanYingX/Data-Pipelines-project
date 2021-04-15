@@ -399,8 +399,7 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
                 df = get_from_standings(df)
                 dst_file = file.split('Results')[-1]
                 dst_dir = f"./Data/Results_Cleaned{dst_file}"
-                df.to_csv((f"./Data/Results_Cleaned{dst_file}"),
-                          index=False)
+                df.to_csv(dst_dir, index=False)
     else:
         leagues = [x.split('\\')[1] for x in glob.glob('./Data/Results/*')]
         for league in leagues:
