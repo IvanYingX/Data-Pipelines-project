@@ -373,7 +373,21 @@ def get_from_standings(df):
     return df
 
 
-def clean_database(to_clean=None, from_update=True):
+def clean_database(to_clean=None, from_update=True, overwrite=False):
+    '''
+    Parameters
+    ----------
+    to_clean : list
+        List of the leagues to clean. If set to None
+        it clean all the available leagues
+    from_update : bool
+        Check whether we execute this function right
+        after an update. If so, we need to specify
+        which leagues have been updated to clean
+        only those leagues that have been updated
+    Returns
+    -------
+    '''
     if from_update:
         if to_clean is None:
             print('If from_update is true,'
@@ -382,7 +396,9 @@ def clean_database(to_clean=None, from_update=True):
         else:
             for file in to_clean:
                 df = pd.read_csv(file)
-                dst_file = file.split('Results')
+                df = get_from_standings(df)
+                dst_file = file.split('Results')[-1]
+                dst_dir = f"./Data/Results_Cleaned{dst_file}"
                 df.to_csv((f"./Data/Results_Cleaned{dst_file}"),
                           index=False)
     else:
@@ -404,10 +420,15 @@ def clean_database(to_clean=None, from_update=True):
                     # as the uncleaned dataset. Otherwise, that means some data
                     # is missing in the cleaned dataset
                     df_old = pd.read_csv(dir_old_season)
-                    if len(df) == len(df_old):
+                    if (len(df) == len(df_old)) and (overwrite is False):
                         continue
                     else:
                         df = get_from_standings(df)
-                        df.to_csv((f"./Data/Results_Cleaned/"
-                                  + f"{league}/{filename}"),
-                                  index=False)
+                        df.to_csv(dir_old_season, index=False)
+                else:
+                    df = get_from_standings(df)
+                    df.to_csv(dir_old_season, index=False)
+
+
+if __name__ == '__main__':
+    clean_database(from_update=False, overwrite=True)
