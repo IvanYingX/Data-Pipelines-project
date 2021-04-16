@@ -10,7 +10,7 @@ pd.options.mode.chained_assignment = None
 
 def load_raw(dir):
     '''
-    DOCTRING
+    DOCSTRING
     '''
     df_list = []
     for data_file in sorted(glob.glob(f'{dir}/*')):
@@ -22,7 +22,7 @@ def load_raw(dir):
 
 def check_teams_raw(df_results, df_standings):
     '''
-    DOCTRING
+    DOCSTRING
     '''
     diff_res = set()
     diff_sta = set()

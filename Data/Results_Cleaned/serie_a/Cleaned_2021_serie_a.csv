@@ -1,239 +1,300 @@
 Home_Team,Away_Team,Result,Link,Season,Round,League,Number_Teams,Total_Rounds,Label,Goals_For_Home,Goals_For_Away,Position_Home,Points_Home,Total_Wins_Home,Total_Draw_Home,Total_Lose_Home,Total_Goals_For_Home_Team,Total_Goals_Against_Home_Team,Total_Streak_Home,Wins_When_Home,Draw_When_Home,Lose_When_Home,Goals_For_When_Home,Goals_Against_When_Home,Position_Away,Points_Away,Total_Wins_Away,Total_Draw_Away,Total_Lose_Away,Total_Goals_For_Away_Team,Total_Goals_Against_Away_Team,Total_Streak_Away,Wins_When_Away,Draw_When_Away,Lose_When_Away,Goals_For_When_Away,Goals_Against_When_Away,Streak_When_Home,Streak_When_Away
-Fiorentina,Torino,1-0,/match/fiorentina/torino-fc/2021,2021,1,serie_a,20,24,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Hellas Verona,Roma,3-0,/match/hellas-verona-fc/roma/2021,2021,1,serie_a,20,24,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Parma,Napoli,0-2,/match/parma-fc/napoli/2021,2021,1,serie_a,20,24,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Genoa,Crotone,4-1,/match/genoa/fc-crotone/2021,2021,1,serie_a,20,24,0,4,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Sassuolo,Cagliari,1-1,/match/us-sassuolo-calcio/cagliari/2021,2021,1,serie_a,20,24,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Juventus,Sampdoria,3-0,/match/juventus-fc/sampdoria/2021,2021,1,serie_a,20,24,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Milan,Bologna,2-0,/match/milan/bologna/2021,2021,1,serie_a,20,24,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Udinese,Spezia,0-2,/match/udinese/asd-spezia/2021,2021,1,serie_a,20,24,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Benevento,Inter,2-5,/match/benevento-calcio/internazionale/2021,2021,1,serie_a,20,24,2,2,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Lazio,Atalanta,1-4,/match/lazio/atalanta/2021,2021,1,serie_a,20,24,2,1,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
-Torino,Atalanta,2-4,/match/torino-fc/atalanta/2021,2021,2,serie_a,20,24,2,2,4,15,0,0,0,1,0,1,L,0,0,0,0,0,1,3,1,0,0,4,1,W,1,0,0,4,1,,W
-Cagliari,Lazio,0-2,/match/cagliari/lazio/2021,2021,2,serie_a,20,24,2,0,2,10,1,0,1,0,1,1,D,0,0,0,0,0,13,0,0,0,1,1,4,L,0,0,0,0,0,,
-Sampdoria,Benevento,2-3,/match/sampdoria/benevento-calcio/2021,2021,2,serie_a,20,24,2,2,3,14,0,0,0,1,0,3,L,0,0,0,0,0,18,0,0,0,1,2,5,L,0,0,0,0,0,,
-Inter,Fiorentina,4-3,/match/internazionale/fiorentina/2021,2021,2,serie_a,20,24,0,4,3,3,3,1,0,0,5,2,W,0,0,0,0,0,5,3,1,0,0,1,0,W,0,0,0,0,0,,
-Spezia,Sassuolo,1-4,/match/asd-spezia/us-sassuolo-calcio/2021,2021,2,serie_a,20,24,2,1,4,7,3,1,0,0,2,0,W,0,0,0,0,0,11,1,0,1,0,1,1,D,0,0,0,0,0,,
-Hellas Verona,Udinese,1-0,/match/hellas-verona-fc/udinese/2021,2021,2,serie_a,20,24,0,1,0,9,3,1,0,0,3,0,W,1,0,0,3,0,16,0,0,0,1,0,2,L,0,0,0,0,0,W,
-Crotone,Milan,0-2,/match/fc-crotone/milan/2021,2021,2,serie_a,20,24,2,0,2,12,0,0,0,1,1,4,L,0,0,0,0,0,6,3,1,0,0,2,0,W,0,0,0,0,0,,
-Napoli,Genoa,6-0,/match/napoli/genoa/2021,2021,2,serie_a,20,24,0,6,0,2,3,1,0,0,2,0,W,0,0,0,0,0,4,3,1,0,0,4,1,W,0,0,0,0,0,,
-Roma,Juventus,2-2,/match/roma/juventus-fc/2021,2021,2,serie_a,20,24,1,2,2,19,0,0,0,1,0,3,L,0,0,0,0,0,8,3,1,0,0,3,0,W,0,0,0,0,0,,
-Bologna,Parma,4-1,/match/bologna/parma-fc/2021,2021,2,serie_a,20,24,0,4,1,20,0,0,0,1,0,2,L,0,0,0,0,0,17,0,0,0,1,0,2,L,0,0,0,0,0,,
-Fiorentina,Sampdoria,1-2,/match/fiorentina/sampdoria/2021,2021,3,serie_a,20,24,2,1,2,9,3,1,0,1,4,4,WL,1,0,0,1,0,17,0,0,0,2,2,6,LL,0,0,1,0,3,W,L
-Sassuolo,Crotone,4-1,/match/us-sassuolo-calcio/fc-crotone/2021,2021,3,serie_a,20,24,0,4,1,7,4,1,1,0,5,2,DW,0,1,0,1,1,16,0,0,0,2,1,6,LL,0,0,1,1,4,D,L
-Udinese,Roma,0-1,/match/udinese/roma/2021,2021,3,serie_a,20,24,2,0,1,19,0,0,0,2,0,3,LL,0,0,1,0,2,15,1,0,1,1,2,5,LD,0,0,1,0,3,L,L
-Atalanta,Cagliari,5-2,/match/atalanta/cagliari/2021,2021,3,serie_a,20,24,0,5,2,1,6,2,0,0,8,3,WW,0,0,0,0,0,14,1,0,1,1,1,3,DL,0,1,0,1,1,,D
-Parma,Hellas Verona,1-0,/match/parma-fc/hellas-verona-fc/2021,2021,3,serie_a,20,24,0,1,0,20,0,0,0,2,1,6,LL,0,0,1,0,2,4,6,2,0,0,4,0,WW,0,0,0,0,0,L,
-Benevento,Bologna,1-0,/match/benevento-calcio/bologna/2021,2021,3,serie_a,20,24,0,1,0,12,3,1,0,1,5,7,LW,0,0,1,2,5,13,3,1,0,1,4,3,LW,0,0,1,0,2,L,L
-Lazio,Inter,1-1,/match/lazio/internazionale/2021,2021,3,serie_a,20,24,1,1,1,11,3,1,0,1,3,4,LW,0,0,1,1,4,2,6,2,0,0,9,5,WW,1,0,0,5,2,L,W
-Milan,Spezia,3-0,/match/milan/asd-spezia/2021,2021,3,serie_a,20,24,0,3,0,5,6,2,0,0,4,0,WW,1,0,0,2,0,8,3,1,0,1,3,4,WL,1,0,0,2,0,W,W
-Genoa,Torino,1-2,/match/genoa/torino-fc/2021,2021,3,serie_a,20,24,2,1,2,10,3,1,0,1,4,7,WL,1,0,0,4,1,18,0,0,0,2,2,5,LL,0,0,1,0,1,W,L
-Napoli,Atalanta,4-1,/match/napoli/atalanta/2021,2021,4,serie_a,20,24,0,4,1,5,6,2,0,0,8,0,WW,1,0,0,6,0,1,9,3,0,0,13,5,WWW,2,0,0,8,3,W,WW
-Sampdoria,Lazio,3-0,/match/sampdoria/lazio/2021,2021,4,serie_a,20,24,0,3,0,15,3,1,0,2,4,7,LLW,0,0,1,2,3,9,4,1,1,1,4,5,LWD,1,0,0,2,0,L,W
-Inter,Milan,1-2,/match/internazionale/milan/2021,2021,4,serie_a,20,24,2,1,2,3,7,2,1,0,10,6,WWD,1,0,0,4,3,2,9,3,0,0,7,0,WWW,1,0,0,2,0,W,W
-Crotone,Juventus,1-1,/match/fc-crotone/juventus-fc/2021,2021,4,serie_a,20,24,1,1,1,19,0,0,0,3,2,10,LLL,0,0,1,0,2,10,4,1,1,0,5,2,WD,0,1,0,2,2,L,D
-Bologna,Sassuolo,3-4,/match/bologna/us-sassuolo-calcio/2021,2021,4,serie_a,20,24,2,3,4,14,3,1,0,2,4,4,LWL,1,0,0,4,1,4,7,2,1,0,9,3,DWW,1,0,0,4,1,W,W
-Spezia,Fiorentina,2-2,/match/asd-spezia/fiorentina/2021,2021,4,serie_a,20,24,1,2,2,13,3,1,0,2,3,7,WLL,0,0,1,1,4,12,3,1,0,2,5,6,WLL,0,0,1,3,4,L,L
-Torino,Cagliari,2-3,/match/torino-fc/cagliari/2021,2021,4,serie_a,20,24,2,2,3,16,3,1,0,2,4,6,LLW,0,0,1,2,4,18,1,0,1,2,3,8,DLL,0,1,1,3,6,L,DL
-Udinese,Parma,3-2,/match/udinese/parma-fc/2021,2021,4,serie_a,20,24,0,3,2,20,0,0,0,3,0,4,LLL,0,0,2,0,3,17,3,1,0,2,2,6,LLW,0,0,1,1,4,LL,L
-Roma,Benevento,5-2,/match/roma/benevento-calcio/2021,2021,4,serie_a,20,24,0,5,2,8,4,1,1,1,3,5,LDW,0,1,0,2,2,7,6,2,0,1,6,7,LWW,1,0,0,3,2,D,W
-Hellas Verona,Genoa,0-0,/match/hellas-verona-fc/genoa/2021,2021,4,serie_a,20,24,1,0,0,6,6,2,0,1,4,1,WWL,2,0,0,4,0,11,3,1,0,2,5,9,WLL,0,0,1,0,6,WW,L
-Sassuolo,Torino,3-3,/match/us-sassuolo-calcio/torino-fc/2021,2021,5,serie_a,20,24,1,3,3,2,10,3,1,0,13,6,DWWW,1,1,0,5,2,17,3,1,0,3,6,9,LLWL,1,0,1,2,2,DW,LW
-Atalanta,Sampdoria,1-3,/match/atalanta/sampdoria/2021,2021,5,serie_a,20,24,2,1,3,3,9,3,0,1,14,9,WWWL,1,0,0,5,2,9,6,2,0,2,7,7,LLWW,1,0,1,2,4,W,LW
-Genoa,Inter,0-2,/match/genoa/internazionale/2021,2021,5,serie_a,20,24,2,0,2,13,4,1,1,2,5,9,WLLD,1,0,1,5,3,5,7,2,1,1,11,8,WWDL,1,1,0,6,3,WL,WD
-Lazio,Bologna,2-1,/match/lazio/bologna/2021,2021,5,serie_a,20,24,0,2,1,15,4,1,1,2,4,8,LWDL,0,1,1,2,5,16,3,1,0,3,7,8,LWLL,0,0,2,0,3,LD,LL
-Cagliari,Crotone,4-2,/match/cagliari/fc-crotone/2021,2021,5,serie_a,20,24,0,4,2,12,4,1,1,2,6,10,DLLW,0,0,1,0,2,20,1,0,1,3,3,11,LLLD,0,0,2,2,8,L,LL
-Benevento,Napoli,1-2,/match/benevento-calcio/napoli/2021,2021,5,serie_a,20,24,2,1,2,8,6,2,0,2,8,12,LWWL,1,0,1,3,5,4,9,3,0,0,12,1,WWW,1,0,0,2,0,LW,W
-Parma,Spezia,2-2,/match/parma-fc/asd-spezia/2021,2021,5,serie_a,20,24,1,2,2,18,3,1,0,3,4,9,LLWL,1,0,1,1,2,11,4,1,1,2,5,9,WLLD,1,0,1,2,3,LW,WL
-Fiorentina,Udinese,3-2,/match/fiorentina/udinese/2021,2021,5,serie_a,20,24,0,3,2,14,4,1,1,2,7,8,WLLD,1,0,1,2,2,19,3,1,0,3,3,6,LLLW,0,0,1,0,1,WL,L
-Juventus,Hellas Verona,1-1,/match/juventus-fc/hellas-verona-fc/2021,2021,5,serie_a,20,24,1,1,1,10,5,1,2,0,6,3,WDD,1,0,0,3,0,6,7,2,1,1,4,1,WWLD,0,0,1,0,1,W,L
-Milan,Roma,3-3,/match/milan/roma/2021,2021,5,serie_a,20,24,1,3,3,1,12,4,0,0,9,1,WWWW,2,0,0,5,0,7,7,2,1,1,8,7,LDWW,1,0,1,1,3,WW,LW
-Crotone,Atalanta,1-2,/match/fc-crotone/atalanta/2021,2021,6,serie_a,20,24,2,1,2,20,1,0,1,4,5,15,LLLDL,0,1,1,1,3,5,9,3,0,2,15,12,WWWLL,2,0,1,9,7,LD,WWL
-Inter,Parma,2-2,/match/internazionale/parma-fc/2021,2021,6,serie_a,20,24,1,2,2,4,10,3,1,1,13,8,WWDLW,1,0,1,5,5,17,4,1,1,3,6,11,LLWLD,0,0,2,3,7,WL,LL
-Bologna,Cagliari,3-2,/match/bologna/cagliari/2021,2021,6,serie_a,20,24,0,3,2,18,3,1,0,4,8,10,LWLLL,1,0,1,7,5,10,7,2,1,2,10,12,DLLWW,1,1,1,6,8,WL,DLW
-Udinese,Milan,1-2,/match/udinese/milan/2021,2021,6,serie_a,20,24,2,1,2,19,3,1,0,4,5,9,LLLWL,1,0,2,3,5,1,13,4,1,0,12,4,WWWWD,2,0,0,4,1,LLW,WW
-Spezia,Juventus,1-4,/match/asd-spezia/juventus-fc/2021,2021,6,serie_a,20,24,2,1,4,14,5,1,2,2,7,11,WLLDD,0,1,1,3,6,13,6,1,3,0,7,4,WDDD,0,2,0,3,3,LD,DD
-Torino,Lazio,3-4,/match/torino-fc/lazio/2021,2021,6,serie_a,20,24,2,3,4,16,4,1,1,3,9,12,LLWLD,0,0,2,4,7,11,7,2,1,2,6,9,LWDLW,1,0,1,2,3,LL,WL
-Napoli,Sassuolo,0-2,/match/napoli/us-sassuolo-calcio/2021,2021,6,serie_a,20,24,2,0,2,2,12,4,0,0,14,2,WWWW,2,0,0,10,1,3,11,3,2,0,16,9,DWWWD,2,0,0,8,4,WW,WW
-Roma,Fiorentina,2-0,/match/roma/fiorentina/2021,2021,6,serie_a,20,24,0,2,0,8,8,2,2,1,11,10,LDWWD,1,1,0,7,4,9,7,2,1,2,10,10,WLLDW,0,1,1,5,6,DW,LD
-Sampdoria,Genoa,1-1,/match/sampdoria/genoa/2021,2021,6,serie_a,20,24,1,1,1,6,9,3,0,2,10,8,LLWWW,1,0,1,5,3,15,4,1,1,3,5,11,WLLDL,0,1,1,0,6,LW,LD
-Hellas Verona,Benevento,3-1,/match/hellas-verona-fc/benevento-calcio/2021,2021,6,serie_a,20,24,0,3,1,7,8,2,2,1,5,2,WWLDD,2,1,0,4,0,12,6,2,0,3,9,14,LWWLL,1,0,1,5,7,WWD,WL
-Sassuolo,Udinese,0-0,/match/us-sassuolo-calcio/udinese/2021,2021,7,serie_a,20,24,1,0,0,2,14,4,2,0,18,9,DWWWDW,1,2,0,8,5,19,3,1,0,5,6,11,LLLWLL,0,0,2,2,4,DWD,LL
-Cagliari,Sampdoria,2-0,/match/cagliari/sampdoria/2021,2021,7,serie_a,20,24,0,2,0,12,7,2,1,3,12,15,DLLWWL,1,0,1,4,4,9,10,3,1,2,11,9,LLWWWD,2,0,1,5,5,LW,LWW
-Benevento,Spezia,0-3,/match/benevento-calcio/asd-spezia/2021,2021,7,serie_a,20,24,2,0,3,13,6,2,0,4,10,17,LWWLLL,1,0,2,4,7,15,5,1,2,3,8,15,WLLDDL,1,1,1,4,5,LWL,WLD
-Parma,Fiorentina,0-0,/match/parma-fc/fiorentina/2021,2021,7,serie_a,20,24,1,0,0,17,5,1,2,3,8,13,LLWLDD,1,1,1,3,4,11,7,2,1,3,10,12,WLLDWL,0,1,2,5,8,LWD,LDL
-Lazio,Juventus,1-1,/match/lazio/juventus-fc/2021,2021,7,serie_a,20,24,1,1,1,8,10,3,1,2,10,12,LWDLWW,1,1,1,4,6,10,9,2,3,0,11,5,WDDDW,1,2,0,7,4,LDW,DDW
-Atalanta,Inter,1-1,/match/atalanta/internazionale/2021,2021,7,serie_a,20,24,1,1,1,3,12,4,0,2,17,13,WWWLLW,1,0,1,6,5,6,11,3,2,1,15,10,WWDLWD,2,1,0,8,3,WL,WDW
-Genoa,Roma,1-3,/match/genoa/roma/2021,2021,7,serie_a,20,24,2,1,3,16,5,1,2,3,6,12,WLLDLD,1,0,2,5,5,5,11,3,2,1,13,10,LDWWDW,1,1,1,4,6,WLL,LWD
-Torino,Crotone,0-0,/match/torino-fc/fc-crotone/2021,2021,7,serie_a,20,24,1,0,0,18,4,1,1,4,12,16,LLWLDL,0,0,3,7,11,20,1,0,1,5,6,17,LLLDLL,0,0,3,4,12,LLL,LLL
-Bologna,Napoli,0-1,/match/bologna/napoli/2021,2021,7,serie_a,20,24,2,0,1,14,6,2,0,4,11,12,LWLLLW,2,0,1,10,7,4,12,4,0,1,14,4,WWWWL,2,0,0,4,1,WLW,WW
-Milan,Hellas Verona,2-2,/match/milan/hellas-verona-fc/2021,2021,7,serie_a,20,24,1,2,2,1,16,5,1,0,14,5,WWWWDW,2,1,0,8,3,7,11,3,2,1,8,3,WWLDDW,0,1,1,1,2,WWD,LD
-Crotone,Lazio,0-2,/match/fc-crotone/lazio/2021,2021,8,serie_a,20,24,2,0,2,20,2,0,2,5,6,17,LLLDLLD,0,1,2,2,5,8,11,3,2,2,11,13,LWDLWWD,2,0,1,6,6,LDL,WLW
-Spezia,Atalanta,0-0,/match/asd-spezia/atalanta/2021,2021,8,serie_a,20,24,1,0,0,12,8,2,2,3,11,15,WLLDDLW,0,1,2,4,10,5,13,4,1,2,18,14,WWWLLWD,3,0,1,11,8,LDL,WWLW
-Juventus,Cagliari,2-0,/match/juventus-fc/cagliari/2021,2021,8,serie_a,20,24,0,2,0,10,10,2,4,0,12,6,WDDDWD,1,1,0,4,1,11,10,3,1,3,14,15,DLLWWLW,1,1,2,8,11,WD,DLWL
-Fiorentina,Benevento,0-1,/match/fiorentina/benevento-calcio/2021,2021,8,serie_a,20,24,2,0,1,13,8,2,2,3,10,12,WLLDWLD,2,0,1,5,4,15,6,2,0,5,10,20,LWWLLLL,1,0,2,6,10,WLW,WLL
-Sampdoria,Bologna,1-2,/match/sampdoria/bologna/2021,2021,8,serie_a,20,24,2,1,2,9,10,3,1,3,11,11,LLWWWDL,1,1,1,6,4,14,6,2,0,5,11,13,LWLLLWL,0,0,3,1,5,LWD,LLL
-Roma,Parma,3-0,/match/roma/parma-fc/2021,2021,8,serie_a,20,24,0,3,0,4,14,4,2,1,16,11,LDWWDWW,2,1,0,9,4,16,6,1,3,3,8,13,LLWLDDD,0,1,2,5,9,DWW,LLD
-Inter,Torino,4-2,/match/internazionale/torino-fc/2021,2021,8,serie_a,20,24,0,4,2,6,12,3,3,1,16,11,WWDLWDD,1,1,1,7,7,18,5,1,2,4,12,16,LLWLDLD,1,1,1,5,5,WLD,LWD
-Hellas Verona,Sassuolo,0-2,/match/hellas-verona-fc/us-sassuolo-calcio/2021,2021,8,serie_a,20,24,2,0,2,7,12,3,3,1,10,5,WWLDDWD,3,1,0,7,1,3,15,4,3,0,18,9,DWWWDWD,3,0,0,10,4,WWDW,WWW
-Udinese,Genoa,1-0,/match/udinese/genoa/2021,2021,8,serie_a,20,24,0,1,0,19,4,1,1,5,6,11,LLLWLLD,1,0,3,4,7,17,5,1,2,4,7,15,WLLDLDL,0,2,1,1,7,LLWL,LDD
-Napoli,Milan,1-3,/match/napoli/milan/2021,2021,8,serie_a,20,24,2,1,3,2,15,5,0,1,15,4,WWWWLW,2,0,1,10,3,1,17,5,2,0,16,7,WWWWDWD,3,0,0,6,2,WWL,WWW
-Sassuolo,Inter,0-3,/match/us-sassuolo-calcio/internazionale/2021,2021,9,serie_a,20,24,2,0,3,2,18,5,3,0,20,9,DWWWDWDW,1,3,0,8,5,4,15,4,3,1,20,13,WWDLWDDW,2,2,0,9,4,DWDD,WDWD
-Benevento,Juventus,1-1,/match/benevento-calcio/juventus-fc/2021,2021,9,serie_a,20,24,1,1,1,14,9,3,0,5,11,20,LWWLLLLW,1,0,3,4,10,8,13,3,4,0,14,6,WDDDWDW,1,3,0,8,5,LWLL,DDWD
-Atalanta,Hellas Verona,0-2,/match/atalanta/hellas-verona-fc/2021,2021,9,serie_a,20,24,2,0,2,6,14,4,2,2,18,14,WWWLLWDD,1,1,1,7,6,9,12,3,3,2,10,7,WWLDDWDL,0,2,1,3,4,WLD,LDD
-Lazio,Udinese,1-3,/match/lazio/udinese/2021,2021,9,serie_a,20,24,2,1,3,7,14,4,2,2,13,13,LWDLWWDW,1,2,1,5,7,16,7,2,1,5,7,11,LLLWLLDW,0,1,2,2,4,LDWD,LLD
-Milan,Fiorentina,2-0,/match/milan/fiorentina/2021,2021,9,serie_a,20,24,0,2,0,1,20,6,2,0,19,8,WWWWDWDW,2,2,0,10,5,15,8,2,2,4,10,13,WLLDWLDL,0,2,2,5,8,WWDD,LDLD
-Bologna,Crotone,1-0,/match/bologna/fc-crotone/2021,2021,9,serie_a,20,24,0,1,0,13,9,3,0,5,13,14,LWLLLWLW,2,0,2,10,8,20,2,0,2,6,6,19,LLLDLLDL,0,1,3,4,12,WLWL,LLLD
-Cagliari,Spezia,2-2,/match/cagliari/asd-spezia/2021,2021,9,serie_a,20,24,1,2,2,10,10,3,1,4,14,17,DLLWWLWL,2,0,1,6,4,12,9,2,3,3,11,15,WLLDDLWD,2,1,1,7,5,LWW,WLDW
-Napoli,Roma,4-0,/match/napoli/roma/2021,2021,9,serie_a,20,24,0,4,0,5,15,5,0,2,16,7,WWWWLWL,2,0,2,11,6,3,17,5,2,1,19,11,LDWWDWWW,2,1,1,7,7,WWLL,LWDW
-Torino,Sampdoria,2-2,/match/torino-fc/sampdoria/2021,2021,9,serie_a,20,24,1,2,2,19,5,1,2,5,14,20,LLWLDLDL,0,1,3,7,11,11,10,3,1,4,12,13,LLWWWDLL,2,0,2,5,7,LLLD,LWWL
-Genoa,Parma,1-2,/match/genoa/parma-fc/2021,2021,9,serie_a,20,24,2,1,2,18,5,1,2,5,7,16,WLLDLDLL,1,0,3,6,8,17,6,1,3,4,8,16,LLWLDDDL,0,1,3,5,12,WLLL,LLDL
-Spezia,Lazio,1-2,/match/asd-spezia/lazio/2021,2021,10,serie_a,20,24,2,1,2,13,10,2,4,3,13,17,WLLDDLWDD,0,2,2,4,10,8,14,4,2,3,14,16,LWDLWWDWL,3,0,1,8,6,LDLD,WLWW
-Juventus,Torino,2-1,/match/juventus-fc/torino-fc/2021,2021,10,serie_a,20,24,0,2,1,9,14,3,5,0,15,7,WDDDWDWD,2,1,0,6,1,18,6,1,3,5,16,22,LLWLDLDLD,1,1,2,7,9,WDW,LWDL
-Inter,Bologna,3-1,/match/internazionale/bologna/2021,2021,10,serie_a,20,24,0,3,1,3,18,5,3,1,23,13,WWDLWDDWW,2,1,1,11,9,10,12,4,0,5,14,14,LWLLLWLWW,1,0,3,3,6,WLDW,LLLW
-Hellas Verona,Cagliari,1-1,/match/hellas-verona-fc/cagliari/2021,2021,10,serie_a,20,24,1,1,1,6,15,4,3,2,12,7,WWLDDWDLW,3,1,1,7,3,12,11,3,2,4,16,19,DLLWWLWLD,1,1,3,8,13,WWDWL,DLWLL
-Roma,Sassuolo,0-0,/match/roma/us-sassuolo-calcio/2021,2021,10,serie_a,20,24,1,0,0,5,17,5,2,2,19,15,LDWWDWWWL,3,1,0,12,4,2,18,5,3,1,20,12,DWWWDWDWL,4,0,0,12,4,DWWW,WWWW
-Parma,Benevento,0-0,/match/parma-fc/benevento-calcio/2021,2021,10,serie_a,20,24,1,0,0,16,9,2,3,4,10,17,LLWLDDDLW,1,2,1,3,4,14,10,3,1,5,12,21,LWWLLLLWD,2,0,2,7,10,LWDD,WLLW
-Crotone,Napoli,0-4,/match/fc-crotone/napoli/2021,2021,10,serie_a,20,24,2,0,4,20,2,0,2,7,6,20,LLLDLLDLL,0,1,3,2,7,4,18,6,0,2,20,7,WWWWLWLW,3,0,0,5,1,LDLL,WWW
-Sampdoria,Milan,1-2,/match/sampdoria/milan/2021,2021,10,serie_a,20,24,2,1,2,11,11,3,2,4,14,15,LLWWWDLLD,1,1,2,7,6,1,23,7,2,0,21,8,WWWWDWDWW,4,0,0,9,3,LWDL,WWWW
-Fiorentina,Genoa,1-1,/match/fiorentina/genoa/2021,2021,10,serie_a,20,24,1,1,1,17,8,2,2,5,10,15,WLLDWLDLL,2,0,2,5,5,19,5,1,2,6,8,18,WLLDLDLLL,0,2,2,1,8,WLWL,LDDL
-Udinese,Atalanta,1-1,/match/udinese/atalanta/2021,2021,10,serie_a,20,24,1,1,1,15,10,3,1,5,10,12,LLLWLLDWW,2,0,3,5,7,7,14,4,2,3,18,16,WWWLLWDDL,3,1,1,11,8,LLWLW,WWLWD
-Sassuolo,Benevento,1-0,/match/us-sassuolo-calcio/benevento-calcio/2021,2021,11,serie_a,20,24,0,1,0,4,19,5,4,1,20,12,DWWWDWDWLD,1,3,1,8,8,12,11,3,2,5,12,21,LWWLLLLWDD,2,1,2,7,10,DWDDL,WLLWD
-Crotone,Spezia,4-1,/match/fc-crotone/asd-spezia/2021,2021,11,serie_a,20,24,0,4,1,20,2,0,2,8,6,24,LLLDLLDLLL,0,1,4,2,11,15,10,2,4,4,14,19,WLLDDLWDDL,2,2,1,9,7,LDLLL,WLDWD
-Torino,Udinese,2-3,/match/torino-fc/udinese/2021,2021,11,serie_a,20,24,2,2,3,18,6,1,3,6,17,24,LLWLDLDLDL,0,2,3,9,13,13,11,3,2,5,11,13,LLLWLLDWWD,1,1,2,5,5,LLLDD,LLDW
-Lazio,Hellas Verona,1-2,/match/lazio/hellas-verona-fc/2021,2021,11,serie_a,20,24,2,1,2,6,17,5,2,3,16,17,LWDLWWDWLW,1,2,2,6,10,8,16,4,4,2,13,8,WWLDDWDLWD,1,2,1,5,4,LDWDL,LDDW
-Cagliari,Inter,1-3,/match/cagliari/internazionale/2021,2021,11,serie_a,20,24,2,1,3,11,12,3,3,4,17,20,DLLWWLWLDD,2,1,1,8,6,2,21,6,3,1,26,14,WWDLWDDWWW,3,2,0,12,4,LWWD,WDWDW
-Napoli,Sampdoria,2-1,/match/napoli/sampdoria/2021,2021,11,serie_a,20,24,0,2,1,3,21,7,0,2,24,7,WWWWLWLWW,3,0,2,15,6,14,11,3,2,5,15,17,LLWWWDLLDL,2,1,2,7,9,WWLLW,LWWLD
-Bologna,Roma,1-5,/match/bologna/roma/2021,2021,11,serie_a,20,24,2,1,5,10,12,4,0,6,15,17,LWLLLWLWWL,3,0,2,11,8,5,18,5,3,2,19,15,LDWWDWWWLD,2,1,2,7,11,WLWLW,LWDWL
-Atalanta,Fiorentina,3-0,/match/atalanta/fiorentina/2021,2021,11,serie_a,20,24,0,3,0,9,15,4,3,3,19,17,WWWLLWDDLD,1,1,2,7,8,17,9,2,3,5,11,16,WLLDWLDLLD,0,2,3,5,10,WLDL,LDLDL
-Genoa,Juventus,1-3,/match/genoa/juventus-fc/2021,2021,11,serie_a,20,24,2,1,3,19,6,1,3,6,9,19,WLLDLDLLLD,1,0,4,7,10,7,17,4,5,0,17,8,WDDDWDWDW,1,4,0,9,6,WLLLL,DDWDD
-Milan,Parma,2-2,/match/milan/parma-fc/2021,2021,11,serie_a,20,24,1,2,2,1,26,8,2,0,23,9,WWWWDWDWWW,3,2,0,12,5,16,10,2,4,4,10,17,LLWLDDDLWD,1,1,3,7,13,WWDDW,LLDLW
-Udinese,Crotone,0-0,/match/udinese/fc-crotone/2021,2021,12,serie_a,20,24,1,0,0,10,14,4,2,5,14,15,LLLWLLDWWDW,2,1,3,6,8,20,5,1,2,8,10,25,LLLDLLDLLLW,0,1,4,4,13,LLWLWD,LLLDL
-Benevento,Lazio,1-1,/match/benevento-calcio/lazio/2021,2021,12,serie_a,20,24,1,1,1,13,11,3,2,6,12,22,LWWLLLLWDDL,1,1,3,5,11,9,17,5,2,4,17,19,LWDLWWDWLWL,4,0,1,10,7,LWLLD,WLWWW
-Juventus,Atalanta,1-1,/match/juventus-fc/atalanta/2021,2021,12,serie_a,20,24,1,1,1,6,20,5,5,0,20,9,WDDDWDWDWW,3,1,0,8,2,8,18,5,3,3,22,17,WWWLLWDDLDW,3,2,1,12,9,WDWW,WWLWDD
-Spezia,Bologna,2-2,/match/asd-spezia/bologna/2021,2021,12,serie_a,20,24,1,2,2,16,10,2,4,5,15,23,WLLDDLWDDLL,0,2,3,5,12,12,12,4,0,7,16,22,LWLLLWLWWLL,1,0,4,4,9,LDLDL,LLLWL
-Parma,Cagliari,0-0,/match/parma-fc/cagliari/2021,2021,12,serie_a,20,24,1,0,0,15,11,2,5,4,12,19,LLWLDDDLWDD,1,3,1,3,4,11,12,3,3,5,18,23,DLLWWLWLDDL,1,2,3,9,14,LWDDD,DLWLLD
-Inter,Napoli,1-0,/match/internazionale/napoli/2021,2021,12,serie_a,20,24,0,1,0,2,24,7,3,1,29,15,WWDLWDDWWWW,3,1,1,14,10,3,24,8,0,2,26,8,WWWWLWLWWW,4,0,0,9,1,WLDWW,WWWW
-Genoa,Milan,2-2,/match/genoa/milan/2021,2021,12,serie_a,20,24,1,2,2,19,6,1,3,7,10,22,WLLDLDLLLDL,1,0,5,8,13,1,27,8,3,0,25,11,WWWWDWDWWWD,5,0,0,11,4,WLLLLL,WWWWW
-Fiorentina,Sassuolo,1-1,/match/fiorentina/us-sassuolo-calcio/2021,2021,12,serie_a,20,24,1,1,1,17,9,2,3,6,11,19,WLLDWLDLLDL,2,1,2,6,6,4,22,6,4,1,21,12,DWWWDWDWLDW,4,1,0,12,4,WLWLD,WWWWD
-Hellas Verona,Sampdoria,1-2,/match/hellas-verona-fc/sampdoria/2021,2021,12,serie_a,20,24,2,1,2,7,19,5,4,2,15,9,WWLDDWDLWDW,3,2,1,8,4,14,11,3,2,6,16,19,LLWWWDLLDLL,2,1,3,8,11,WWDWLD,LWWLDL
-Roma,Torino,3-1,/match/roma/torino-fc/2021,2021,12,serie_a,20,24,0,3,1,5,21,6,3,2,24,16,LDWWDWWWLDW,3,2,0,12,4,18,6,1,3,7,19,27,LLWLDLDLDLL,1,1,3,8,11,DWWWD,LWDLL
-Fiorentina,Hellas Verona,1-1,/match/fiorentina/hellas-verona-fc/2021,2021,13,serie_a,20,24,1,1,1,17,10,2,4,6,12,20,WLLDWLDLLDLD,2,2,2,7,7,7,19,5,4,3,16,11,WWLDDWDLWDWL,2,2,1,7,5,WLWLDD,LDDWW
-Sampdoria,Crotone,3-1,/match/sampdoria/fc-crotone/2021,2021,13,serie_a,20,24,0,3,1,11,14,4,2,6,18,20,LLWWWDLLDLLW,1,1,3,8,8,20,6,1,3,8,10,25,LLLDLLDLLLWD,0,2,4,4,13,LWDLL,LLLDLD
-Parma,Juventus,0-4,/match/parma-fc/juventus-fc/2021,2021,13,serie_a,20,24,2,0,4,15,12,2,6,4,12,19,LLWLDDDLWDDD,1,4,1,3,4,6,21,5,6,0,21,10,WDDDWDWDWWD,2,4,0,12,7,LWDDDD,DDWDDW
-Torino,Bologna,1-1,/match/torino-fc/bologna/2021,2021,13,serie_a,20,24,1,1,1,19,6,1,3,8,20,30,LLWLDLDLDLLL,0,2,4,11,16,13,13,4,1,7,18,24,LWLLLWLWWLLD,1,1,4,6,11,LLLDDL,LLLWLD
-Benevento,Genoa,2-0,/match/benevento-calcio/genoa/2021,2021,13,serie_a,20,24,0,2,0,14,12,3,3,6,13,23,LWWLLLLWDDLD,1,2,3,6,12,18,7,1,4,7,12,24,WLLDLDLLLDLD,0,3,2,2,9,LWLLDD,LDDLD
-Cagliari,Udinese,1-1,/match/cagliari/udinese/2021,2021,13,serie_a,20,24,1,1,1,12,13,3,4,5,18,23,DLLWWLWLDDLD,2,1,2,9,9,10,15,4,3,5,14,15,LLLWLLDWWDWD,2,1,2,8,7,LWWDL,LLDWW
-Inter,Spezia,2-1,/match/internazionale/asd-spezia/2021,2021,13,serie_a,20,24,0,2,1,2,27,8,3,1,30,15,WWDLWDDWWWWW,4,1,1,15,10,16,11,2,5,5,17,25,WLLDDLWDDLLD,2,2,2,10,11,WLDWWW,WLDWDL
-Sassuolo,Milan,1-2,/match/us-sassuolo-calcio/milan/2021,2021,13,serie_a,20,24,2,1,2,5,23,6,5,1,22,13,DWWWDWDWLDWD,2,3,1,9,8,1,28,8,4,0,27,13,WWWWDWDWWWDD,5,1,0,13,6,DWDDLW,WWWWWD
-Atalanta,Roma,4-1,/match/atalanta/roma/2021,2021,13,serie_a,20,24,0,4,1,8,19,5,4,3,23,18,WWWLLWDDLDWD,2,1,2,10,8,4,24,7,3,2,27,17,LDWWDWWWLDWW,3,1,2,12,12,WLDLW,LWDWLW
-Lazio,Napoli,2-0,/match/lazio/napoli/2021,2021,13,serie_a,20,24,0,2,0,9,18,5,3,4,18,20,LWDLWWDWLWLD,1,2,3,7,12,3,24,8,0,3,26,9,WWWWLWLWWWL,4,0,1,9,2,LDWDLL,WWWWL
-Crotone,Parma,2-1,/match/fc-crotone/parma-fc/2021,2021,14,serie_a,20,24,0,2,1,20,6,1,3,9,11,28,LLLDLLDLLLWDL,1,1,4,6,12,15,12,2,6,5,12,23,LLWLDDDLWDDDL,1,2,3,9,15,LDLLLW,LLDLWD
-Juventus,Fiorentina,0-3,/match/juventus-fc/fiorentina/2021,2021,14,serie_a,20,24,2,0,3,5,24,6,6,0,25,10,WDDDWDWDWWDW,3,2,0,9,3,17,11,2,5,6,13,21,WLLDWLDLLDLDD,0,2,4,5,13,WDWWD,LDLDLL
-Hellas Verona,Inter,1-2,/match/hellas-verona-fc/internazionale/2021,2021,14,serie_a,20,24,2,1,2,9,20,5,5,3,17,12,WWLDDWDLWDWLD,3,2,2,9,6,2,30,9,3,1,32,16,WWDLWDDWWWWWW,4,2,0,15,5,WWDWLDL,WDWDWW
-Udinese,Benevento,0-2,/match/udinese/benevento-calcio/2021,2021,14,serie_a,20,24,2,0,2,11,16,4,4,5,15,16,LLLWLLDWWDWDD,2,2,3,6,8,12,15,4,3,6,15,23,LWWLLLLWDDLDW,2,1,3,7,11,LLWLWDD,WLLWDL
-Spezia,Genoa,1-2,/match/asd-spezia/genoa/2021,2021,14,serie_a,20,24,2,1,2,16,11,2,5,6,18,27,WLLDDLWDDLLDL,0,3,3,7,14,18,7,1,4,8,12,26,WLLDLDLLLDLDL,0,3,3,2,11,LDLDLD,LDDLDL
-Sampdoria,Sassuolo,2-3,/match/sampdoria/us-sassuolo-calcio/2021,2021,14,serie_a,20,24,2,2,3,10,17,5,2,6,21,21,LLWWWDLLDLLWW,2,1,3,11,9,6,23,6,5,2,23,15,DWWWDWDWLDWDL,4,2,0,13,5,LWDLLW,WWWWDD
-Roma,Cagliari,3-2,/match/roma/cagliari/2021,2021,14,serie_a,20,24,0,3,2,4,24,7,3,3,28,21,LDWWDWWWLDWWL,4,2,0,15,5,13,14,3,5,5,19,24,DLLWWLWLDDLDD,1,3,3,9,14,DWWWDW,DLWLLDD
-Napoli,Torino,1-1,/match/napoli/torino-fc/2021,2021,14,serie_a,20,24,1,1,1,3,24,8,0,4,26,11,WWWWLWLWWWLL,4,0,2,17,7,19,7,1,4,8,21,31,LLWLDLDLDLLLD,1,1,4,9,14,WWLLWW,LWDLLL
-Milan,Lazio,3-2,/match/milan/lazio/2021,2021,14,serie_a,20,24,0,3,2,1,31,9,4,0,29,14,WWWWDWDWWWDDW,3,3,0,14,7,8,21,6,3,4,20,20,LWDLWWDWLWLDW,4,1,1,11,8,WWDDWD,WLWWWD
-Bologna,Atalanta,2-2,/match/bologna/atalanta/2021,2021,14,serie_a,20,24,1,2,2,14,14,4,2,7,19,25,LWLLLWLWWLLDD,3,0,3,12,13,7,22,6,4,3,27,19,WWWLLWDDLDWDW,3,3,1,13,10,WLWLWL,WWLWDDD
-Inter,Crotone,6-2,/match/internazionale/fc-crotone/2021,2021,15,serie_a,20,24,0,6,2,2,33,10,3,1,34,17,WWDLWDDWWWWWWW,5,1,1,17,11,19,9,2,3,9,13,29,LLLDLLDLLLWDLW,0,2,5,5,16,WLDWWWW,LLLDLDL
-Roma,Sampdoria,1-0,/match/roma/sampdoria/2021,2021,15,serie_a,20,24,0,1,0,3,27,8,3,3,31,23,LDWWDWWWLDWWLW,5,2,0,18,7,11,17,5,2,7,23,24,LLWWWDLLDLLWWL,3,1,3,10,12,DWWWDWW,LWWLDLW
-Parma,Torino,0-3,/match/parma-fc/torino-fc/2021,2021,15,serie_a,20,24,2,0,3,16,12,2,6,6,13,25,LLWLDDDLWDDDLL,1,4,2,3,8,20,8,1,5,8,22,32,LLWLDLDLDLLLDD,1,2,4,10,15,LWDDDDL,LWDLLLD
-Atalanta,Sassuolo,5-1,/match/atalanta/us-sassuolo-calcio/2021,2021,15,serie_a,20,24,0,5,1,7,23,6,5,3,29,21,WWWLLWDDLDWDWD,3,1,2,14,9,4,26,7,5,2,26,17,DWWWDWDWLDWDLW,5,2,0,16,7,WLDLWW,WWWWDDW
-Genoa,Lazio,1-1,/match/genoa/lazio/2021,2021,15,serie_a,20,24,1,1,1,18,10,2,4,8,14,27,WLLDLDLLLDLDLW,1,1,5,10,15,8,21,6,3,5,22,23,LWDLWWDWLWLDWL,4,1,2,13,11,WLLLLLD,WLWWWDL
-Fiorentina,Bologna,0-0,/match/fiorentina/bologna/2021,2021,15,serie_a,20,24,1,0,0,15,14,3,5,6,16,21,WLLDWLDLLDLDDW,2,3,2,8,8,13,15,4,3,7,21,27,LWLLLWLWWLLDDD,1,2,4,7,12,WLWLDDD,LLLWLDD
-Cagliari,Napoli,1-4,/match/cagliari/napoli/2021,2021,15,serie_a,20,24,2,1,4,14,14,3,5,6,21,27,DLLWWLWLDDLDDL,2,2,2,10,10,5,25,8,1,4,27,12,WWWWLWLWWWLLD,4,0,2,9,4,LWWDLD,WWWWLL
-Spezia,Hellas Verona,0-1,/match/asd-spezia/hellas-verona-fc/2021,2021,15,serie_a,20,24,2,0,1,17,11,2,5,7,19,29,WLLDDLWDDLLDLL,0,3,4,8,16,9,20,5,5,4,18,14,WWLDDWDLWDWLDL,2,3,1,8,6,LDLDLDL,LDDWWD
-Benevento,Milan,0-2,/match/benevento-calcio/milan/2021,2021,15,serie_a,20,24,2,0,2,10,18,5,3,6,17,23,LWWLLLLWDDLDWW,2,2,3,8,12,1,34,10,4,0,32,16,WWWWDWDWWWDDWW,6,1,0,15,7,LWLLDDW,WWWWWDW
-Juventus,Udinese,4-1,/match/juventus-fc/udinese/2021,2021,15,serie_a,20,24,0,4,1,6,24,6,6,1,25,13,WDDDWDWDWWDWL,3,2,1,9,6,12,16,4,4,6,15,18,LLLWLLDWWDWDDL,2,2,2,9,8,WDWWDL,LLDWWD
-Cagliari,Benevento,1-2,/match/cagliari/benevento-calcio/2021,2021,16,serie_a,20,24,2,1,2,15,14,3,5,7,22,31,DLLWWLWLDDLDDLL,2,2,3,11,14,10,18,5,3,7,17,25,LWWLLLLWDDLDWWL,3,1,3,9,11,LWWDLDL,WLLWDLW
-Atalanta,Parma,3-0,/match/atalanta/parma-fc/2021,2021,16,serie_a,20,24,0,3,0,7,26,7,5,3,34,22,WWWLLWDDLDWDWDW,4,1,2,19,10,16,12,2,6,7,13,28,LLWLDDDLWDDDLLL,1,2,4,10,17,WLDLWWW,LLDLWDL
-Bologna,Udinese,2-2,/match/bologna/udinese/2021,2021,16,serie_a,20,24,1,2,2,13,16,4,4,7,21,27,LWLLLWLWWLLDDDD,3,1,3,14,15,12,16,4,4,7,16,22,LLLWLLDWWDWDDLL,2,2,3,10,12,WLWLWLD,LLDWWDL
-Torino,Hellas Verona,1-1,/match/torino-fc/hellas-verona-fc/2021,2021,16,serie_a,20,24,1,1,1,19,11,2,5,8,25,32,LLWLDLDLDLLLDDW,0,3,4,12,17,8,23,6,5,4,19,14,WWLDDWDLWDWLDLW,3,3,1,9,6,LLLDDLD,LDDWWDW
-Sassuolo,Genoa,2-1,/match/us-sassuolo-calcio/genoa/2021,2021,16,serie_a,20,24,0,2,1,6,26,7,5,3,27,22,DWWWDWDWLDWDLWL,2,3,2,10,10,18,11,2,5,8,15,28,WLLDLDLLLDLDLWD,1,3,3,4,12,DWDDLWL,LDDLDLW
-Sampdoria,Inter,2-1,/match/sampdoria/internazionale/2021,2021,16,serie_a,20,24,0,2,1,11,17,5,2,8,23,25,LLWWWDLLDLLWWLL,2,1,4,13,12,2,36,11,3,1,40,19,WWDLWDDWWWWWWWW,5,2,0,17,6,LWDLLWL,WDWDWWW
-Lazio,Fiorentina,2-1,/match/lazio/fiorentina/2021,2021,16,serie_a,20,24,0,2,1,9,22,6,4,5,23,24,LWDLWWDWLWLDWLD,2,2,3,9,12,14,15,3,6,6,16,21,WLLDWLDLLDLDDWD,1,2,4,8,13,LDWDLLW,LDLDLLW
-Crotone,Roma,1-3,/match/fc-crotone/roma/2021,2021,16,serie_a,20,24,2,1,3,20,9,2,3,10,15,35,LLLDLLDLLLWDLWL,2,1,4,8,13,3,30,9,3,3,32,23,LDWWDWWWLDWWLWW,3,1,3,13,16,LDLLLWW,LWDWLWL
-Napoli,Spezia,1-2,/match/napoli/asd-spezia/2021,2021,16,serie_a,20,24,2,1,2,4,28,9,1,4,31,13,WWWWLWLWWWLLDW,4,1,2,18,8,17,11,2,5,8,19,30,WLLDDLWDDLLDLLL,2,2,3,11,13,WWLLWWD,WLDWDLL
-Milan,Juventus,1-3,/match/milan/juventus-fc/2021,2021,16,serie_a,20,24,2,1,3,1,37,11,4,0,34,16,WWWWDWDWWWDDWWW,4,3,0,17,9,5,27,7,6,1,29,14,WDDDWDWDWWDWLW,3,4,0,16,7,WWDDWDW,DDWDDWW
-Benevento,Atalanta,1-4,/match/benevento-calcio/atalanta/2021,2021,17,serie_a,20,24,2,1,4,10,21,6,3,7,19,26,LWWLLLLWDDLDWWLW,2,2,4,8,14,6,29,8,5,3,37,22,WWWLLWDDLDWDWDWW,3,4,1,15,12,LWLLDDWL,WWLWDDDD
-Genoa,Bologna,2-0,/match/genoa/bologna/2021,2021,17,serie_a,20,24,0,2,0,19,11,2,5,9,16,30,WLLDLDLLLDLDLWDL,1,2,5,11,16,13,17,4,5,7,23,29,LWLLLWLWWLLDDDDD,1,3,4,7,12,WLLLLLDD,LLLWLDDD
-Milan,Torino,2-0,/match/milan/torino-fc/2021,2021,17,serie_a,20,24,0,2,0,1,37,11,4,1,35,19,WWWWDWDWWWDDWWWL,4,3,1,18,12,18,12,2,6,8,26,33,LLWLDLDLDLLLDDWD,2,2,4,13,15,WWDDWDWL,LWDLLLDW
-Roma,Inter,2-2,/match/roma/internazionale/2021,2021,17,serie_a,20,24,1,2,2,3,33,10,3,3,35,24,LDWWDWWWLDWWLWWW,6,2,0,19,7,2,36,11,3,2,41,21,WWDLWDDWWWWWWWWL,5,2,1,18,8,DWWWDWWW,WDWDWWWL
-Udinese,Napoli,1-2,/match/udinese/napoli/2021,2021,17,serie_a,20,24,2,1,2,12,17,4,5,7,18,24,LLLWLLDWWDWDDLLD,2,2,4,6,10,7,28,9,1,5,32,15,WWWWLWLWWWLLDWL,5,0,2,13,5,LLWLWDDL,WWWWLLW
-Parma,Lazio,0-2,/match/parma-fc/lazio/2021,2021,17,serie_a,20,24,2,0,2,17,12,2,6,8,13,31,LLWLDDDLWDDDLLLL,1,4,3,3,11,8,25,7,4,5,25,25,LWDLWWDWLWLDWLDW,4,2,2,14,12,LWDDDDLL,WLWWWDLD
-Hellas Verona,Crotone,2-1,/match/hellas-verona-fc/fc-crotone/2021,2021,17,serie_a,20,24,0,2,1,9,24,6,6,4,20,15,WWLDDWDLWDWLDLWD,3,2,3,10,8,20,9,2,3,11,16,38,LLLDLLDLLLWDLWLL,0,2,6,7,22,WWDWLDLL,LLLDLDLL
-Fiorentina,Cagliari,1-0,/match/fiorentina/cagliari/2021,2021,17,serie_a,20,24,0,1,0,14,15,3,6,7,17,23,WLLDWLDLLDLDDWDL,2,4,2,8,8,15,14,3,5,8,23,33,DLLWWLWLDDLDDLLL,1,3,4,11,17,WLWLDDDD,DLWLLDDL
-Juventus,Sassuolo,3-1,/match/juventus-fc/us-sassuolo-calcio/2021,2021,17,serie_a,20,24,0,3,1,4,30,8,6,1,32,15,WDDDWDWDWWDWLWW,4,2,1,13,7,5,29,8,5,3,29,23,DWWWDWDWLDWDLWLW,5,2,1,17,12,WDWWDLW,WWWWDDWL
-Spezia,Sampdoria,2-1,/match/asd-spezia/sampdoria/2021,2021,17,serie_a,20,24,0,2,1,16,14,3,5,8,21,31,WLLDDLWDDLLDLLLW,0,3,5,8,17,11,20,6,2,8,25,26,LLWWWDLLDLLWWLLW,3,1,4,10,13,LDLDLDLL,LWWLDLWL
-Lazio,Roma,3-0,/match/lazio/roma/2021,2021,18,serie_a,20,24,0,3,0,8,28,8,4,5,27,25,LWDLWWDWLWLDWLDWW,3,2,3,11,13,3,34,10,4,3,37,26,LDWWDWWWLDWWLWWWD,4,1,3,16,17,LDWDLLWW,LWDWLWLW
-Bologna,Hellas Verona,1-0,/match/bologna/hellas-verona-fc/2021,2021,18,serie_a,20,24,0,1,0,14,17,4,5,8,23,31,LWLLLWLWWLLDDDDDL,3,2,3,16,17,9,27,7,6,4,22,16,WWLDDWDLWDWLDLWDW,3,4,1,10,7,WLWLWLDD,LDDWWDWD
-Torino,Spezia,0-0,/match/torino-fc/asd-spezia/2021,2021,18,serie_a,20,24,1,0,0,19,12,2,6,9,26,35,LLWLDLDLDLLLDDWDL,0,4,4,13,18,15,17,4,5,8,23,32,WLLDDLWDDLLDLLLWW,3,2,3,13,14,LLLDDLDD,WLDWDLLW
-Sampdoria,Udinese,2-1,/match/sampdoria/udinese/2021,2021,18,serie_a,20,24,0,2,1,11,20,6,2,9,26,28,LLWWWDLLDLLWWLLWL,3,1,4,15,13,13,17,4,5,8,19,26,LLLWLLDWWDWDDLLDL,2,3,3,12,14,LWDLLWLW,LLDWWDLD
-Napoli,Fiorentina,6-0,/match/napoli/fiorentina/2021,2021,18,serie_a,20,24,0,6,0,6,31,10,1,5,34,16,WWWWLWLWWWLLDWLW,4,1,3,19,10,12,18,4,6,7,18,23,WLLDWLDLLDLDDWDLW,1,2,5,9,15,WWLLWWDL,LDLDLLWL
-Crotone,Benevento,4-1,/match/fc-crotone/benevento-calcio/2021,2021,18,serie_a,20,24,0,4,1,20,9,2,3,12,17,40,LLLDLLDLLLWDLWLLL,2,1,5,9,16,10,21,6,3,8,20,30,LWWLLLLWDDLDWWLWL,4,1,3,11,12,LDLLLWWL,WLLWDLWW
-Sassuolo,Parma,1-1,/match/us-sassuolo-calcio/parma-fc/2021,2021,18,serie_a,20,24,1,1,1,7,29,8,5,4,30,26,DWWWDWDWLDWDLWLWL,3,3,2,12,11,18,12,2,6,9,13,33,LLWLDDDLWDDDLLLLL,1,2,5,10,20,DWDDLWLW,LLDLWDLL
-Atalanta,Genoa,0-0,/match/atalanta/genoa/2021,2021,18,serie_a,20,24,1,0,0,5,32,9,5,3,41,23,WWWLLWDDLDWDWDWWW,5,1,2,22,10,17,14,3,5,9,18,30,WLLDLDLLLDLDLWDLW,1,3,4,5,14,WLDLWWWW,LDDLDLWL
-Inter,Juventus,2-0,/match/internazionale/juventus-fc/2021,2021,18,serie_a,20,24,0,2,0,2,37,11,4,2,43,23,WWDLWDDWWWWWWWWLD,6,1,1,23,13,4,33,9,6,1,35,16,WDDDWDWDWWDWLWWW,4,4,0,19,8,WLDWWWWW,DDWDDWWW
-Cagliari,Milan,0-2,/match/cagliari/milan/2021,2021,18,serie_a,20,24,2,0,2,16,14,3,5,9,23,34,DLLWWLWLDDLDDLLLL,2,2,4,12,16,1,40,12,4,1,37,19,WWWWDWDWWWDDWWWLW,7,1,0,17,7,LWWDLDLL,WWWWWDWW
-Benevento,Torino,2-2,/match/benevento-calcio/torino-fc/2021,2021,19,serie_a,20,24,1,2,2,11,21,6,3,9,21,34,LWWLLLLWDDLDWWLWLL,2,2,5,9,18,19,13,2,7,9,26,35,LLWLDLDLDLLLDDWDLD,2,2,5,13,17,LWLLDDWLL,LWDLLLDWL
-Roma,Spezia,4-3,/match/roma/asd-spezia/2021,2021,19,serie_a,20,24,0,4,3,3,34,10,4,4,37,29,LDWWDWWWLDWWLWWWDL,6,3,0,21,9,14,18,4,6,8,23,32,WLLDDLWDDLLDLLLWWD,3,3,3,13,14,DWWWDWWWD,WLDWDLLWD
-Udinese,Inter,0-0,/match/udinese/internazionale/2021,2021,19,serie_a,20,24,1,0,0,15,17,4,5,9,20,28,LLLWLLDWWDWDDLLDLL,2,2,5,7,12,2,40,12,4,2,45,23,WWDLWDDWWWWWWWWLDW,5,3,1,20,10,LLWLWDDLL,WDWDWWWLD
-Milan,Atalanta,0-3,/match/milan/atalanta/2021,2021,19,serie_a,20,24,2,0,3,1,43,13,4,1,39,19,WWWWDWDWWWDDWWWLWW,5,3,1,20,12,6,33,9,6,3,41,23,WWWLLWDDLDWDWDWWWD,4,4,1,19,13,WWDDWDWLW,WWLWDDDDW
-Fiorentina,Crotone,2-1,/match/fiorentina/fc-crotone/2021,2021,19,serie_a,20,24,0,2,1,13,18,4,6,8,18,29,WLLDWLDLLDLDDWDLWL,3,4,2,9,8,20,12,3,3,12,21,41,LLLDLLDLLLWDLWLLLW,0,2,7,8,24,WLWLDDDDW,LLLDLDLLL
-Juventus,Bologna,2-0,/match/juventus-fc/bologna/2021,2021,19,serie_a,20,24,0,2,0,5,33,9,6,2,35,18,WDDDWDWDWWDWLWWWL,5,2,1,16,8,12,20,5,5,8,24,31,LWLLLWLWWLLDDDDDLW,1,3,5,7,14,WDWWDLWW,LLLWLDDDL
-Genoa,Cagliari,1-0,/match/genoa/cagliari/2021,2021,19,serie_a,20,24,0,1,0,16,15,3,6,9,18,30,WLLDLDLLLDLDLWDLWD,2,2,5,13,16,17,14,3,5,10,23,36,DLLWWLWLDDLDDLLLLL,1,3,5,11,18,WLLLLLDDW,DLWLLDDLL
-Hellas Verona,Napoli,3-1,/match/hellas-verona-fc/napoli/2021,2021,19,serie_a,20,24,0,3,1,9,27,7,6,5,22,17,WWLDDWDLWDWLDLWDWL,4,2,3,12,9,4,34,11,1,5,40,16,WWWWLWLWWWLLDWLWW,6,0,2,15,6,WWDWLDLLW,WWWWLLWW
-Lazio,Sassuolo,2-1,/match/lazio/us-sassuolo-calcio/2021,2021,19,serie_a,20,24,0,2,1,7,31,9,4,5,30,25,LWDLWWDWLWLDWLDWWW,4,2,3,14,13,8,30,8,6,4,31,27,DWWWDWDWLDWDLWLWLD,5,2,2,18,15,LDWDLLWWW,WWWWDDWLL
-Parma,Sampdoria,0-2,/match/parma-fc/sampdoria/2021,2021,19,serie_a,20,24,2,0,2,18,13,2,7,9,14,34,LLWLDDDLWDDDLLLLLD,1,4,4,3,13,10,23,7,2,9,28,29,LLWWWDLLDLLWWLLWLW,3,1,5,11,15,LWDDDDLLL,LWWLDLWLL
-Torino,Fiorentina,1-1,/match/torino-fc/fiorentina/2021,2021,20,serie_a,20,24,1,1,1,18,14,2,8,9,28,37,LLWLDLDLDLLLDDWDLDD,0,5,4,13,18,12,21,5,6,8,20,30,WLLDWLDLLDLDDWDLWLW,1,2,6,9,21,LLLDDLDDD,LDLDLLWLL
-Bologna,Milan,1-2,/match/bologna/milan/2021,2021,20,serie_a,20,24,2,1,2,13,20,5,5,9,24,33,LWLLLWLWWLLDDDDDLWL,4,2,3,17,17,1,43,13,4,2,39,22,WWWWDWDWWWDDWWWLWWL,8,1,0,19,7,WLWLWLDDW,WWWWWDWWW
-Sampdoria,Juventus,0-2,/match/sampdoria/juventus-fc/2021,2021,20,serie_a,20,24,2,0,2,10,26,8,2,9,30,29,LLWWWDLLDLLWWLLWLWW,4,1,4,17,14,4,36,10,6,2,37,18,WDDDWDWDWWDWLWWWLW,4,4,1,19,10,LWDLLWLWW,DDWDDWWWL
-Inter,Benevento,4-0,/match/internazionale/benevento-calcio/2021,2021,20,serie_a,20,24,0,4,0,2,41,12,5,2,45,23,WWDLWDDWWWWWWWWLDWD,7,1,1,25,13,11,22,6,4,9,23,36,LWWLLLLWDDLDWWLWLLD,4,1,4,12,16,WLDWWWWWW,WLLWDLWWL
-Spezia,Udinese,0-1,/match/asd-spezia/udinese/2021,2021,20,serie_a,20,24,2,0,1,14,18,4,6,9,26,36,WLLDDLWDDLLDLLLWWDL,1,3,5,10,18,15,18,4,6,9,20,28,LLLWLLDWWDWDDLLDLLD,2,3,4,13,16,LDLDLDLLW,LLDWWDLDL
-Atalanta,Lazio,1-3,/match/atalanta/lazio/2021,2021,20,serie_a,20,24,2,1,3,5,36,10,6,3,44,23,WWWLLWDDLDWDWDWWWDW,5,2,2,22,10,7,34,10,4,5,32,26,LWDLWWDWLWLDWLDWWWW,5,2,2,16,12,WLDLWWWWD,WLWWWDLDW
-Crotone,Genoa,0-3,/match/fc-crotone/genoa/2021,2021,20,serie_a,20,24,2,0,3,20,12,3,3,13,22,43,LLLDLLDLLLWDLWLLLWL,3,1,5,13,17,16,18,4,6,9,19,30,WLLDLDLLLDLDLWDLWDW,1,4,4,5,14,LDLLLWWLW,LDDLDLWLD
-Cagliari,Sassuolo,1-1,/match/cagliari/us-sassuolo-calcio/2021,2021,20,serie_a,20,24,1,1,1,17,14,3,5,11,23,37,DLLWWLWLDDLDDLLLLLL,2,2,5,12,18,8,30,8,6,5,32,29,DWWWDWDWLDWDLWLWLDL,5,2,3,19,17,LWWDLDLLL,WWWWDDWLLL
-Napoli,Parma,2-0,/match/napoli/parma-fc/2021,2021,20,serie_a,20,24,0,2,0,6,34,11,1,6,41,19,WWWWLWLWWWLLDWLWWL,5,1,3,25,10,19,13,2,7,10,14,36,LLWLDDDLWDDDLLLLLDL,1,3,5,11,21,WWLLWWDLW,LLDLWDLLD
-Roma,Hellas Verona,3-1,/match/roma/hellas-verona-fc/2021,2021,20,serie_a,20,24,0,3,1,3,37,11,4,4,41,32,LDWWDWWWLDWWLWWWDLW,7,3,0,25,12,9,30,8,6,5,25,18,WWLDDWDLWDWLDLWDWLW,3,4,2,10,8,DWWWDWWWDW,LDDWWDWDL
-Fiorentina,Inter,0-2,/match/fiorentina/internazionale/2021,2021,21,serie_a,20,24,2,0,2,11,22,5,7,8,21,31,WLLDWLDLLDLDDWDLWLWD,4,4,2,11,9,2,44,13,5,2,49,23,WWDLWDDWWWWWWWWLDWDW,5,4,1,20,10,WLWLDDDDWW,WDWDWWWLDD
-Atalanta,Torino,3-3,/match/atalanta/torino-fc/2021,2021,21,serie_a,20,24,1,3,3,7,36,10,6,4,45,26,WWWLLWDDLDWDWDWWWDWL,5,2,3,23,13,18,15,2,9,9,29,38,LLWLDLDLDLLLDDWDLDDD,2,3,5,15,19,WLDLWWWWDL,LWDLLLDWLD
-Sassuolo,Spezia,1-2,/match/us-sassuolo-calcio/asd-spezia/2021,2021,21,serie_a,20,24,2,1,2,8,31,8,7,5,33,30,DWWWDWDWLDWDLWLWLDLD,3,4,2,13,12,16,18,4,6,10,26,37,WLLDDLWDDLLDLLLWWDLL,3,3,4,16,18,DWDDLWLWD,WLDWDLLWDL
-Juventus,Roma,2-0,/match/juventus-fc/roma/2021,2021,21,serie_a,20,24,0,2,0,4,39,11,6,2,39,18,WDDDWDWDWWDWLWWWLWW,6,2,1,18,8,3,40,12,4,4,44,33,LDWWDWWWLDWWLWWWDLWW,4,1,4,16,20,WDWWDLWWW,LWDWLWLWL
-Genoa,Napoli,2-1,/match/genoa/napoli/2021,2021,21,serie_a,20,24,0,2,1,14,21,5,6,9,22,30,WLLDLDLLLDLDLWDLWDWW,3,2,5,14,16,5,37,12,1,6,43,19,WWWWLWLWWWLLDWLWWLW,6,0,3,16,9,WLLLLLDDWW,WWWWLLWWL
-Benevento,Sampdoria,1-1,/match/benevento-calcio/sampdoria/2021,2021,21,serie_a,20,24,1,1,1,12,22,6,4,10,23,40,LWWLLLLWDDLDWWLWLLDL,2,3,5,11,20,10,26,8,2,10,30,31,LLWWWDLLDLLWWLLWLWWL,4,1,5,13,15,LWLLDDWLLD,LWWLDLWLLW
-Udinese,Hellas Verona,2-0,/match/udinese/hellas-verona-fc/2021,2021,21,serie_a,20,24,0,2,0,13,21,5,6,9,21,28,LLLWLLDWWDWDDLLDLLDW,2,3,5,7,12,9,30,8,6,6,26,21,WWLDDWDLWDWLDLWDWLWL,3,4,3,11,11,LLWLWDDLLD,LDDWWDWDLL
-Milan,Crotone,4-0,/match/milan/fc-crotone/2021,2021,21,serie_a,20,24,0,4,0,1,46,14,4,2,41,23,WWWWDWDWWWDDWWWLWWLW,5,3,2,20,15,20,12,3,3,14,22,46,LLLDLLDLLLWDLWLLLWLL,0,2,8,9,26,WWDDWDWLWL,LLLDLDLLLL
-Parma,Bologna,0-3,/match/parma-fc/bologna/2021,2021,21,serie_a,20,24,2,0,3,19,13,2,7,11,14,38,LLWLDDDLWDDDLLLLLDLL,1,4,5,3,15,15,20,5,5,10,25,35,LWLLLWLWWLLDDDDDLWLL,1,3,6,7,16,LWDDDDLLLL,LLLWLDDDLL
-Lazio,Cagliari,1-0,/match/lazio/cagliari/2021,2021,21,serie_a,20,24,0,1,0,6,37,11,4,5,35,27,LWDLWWDWLWLDWLDWWWWW,5,2,3,16,14,17,15,3,6,11,24,38,DLLWWLWLDDLDDLLLLLLD,1,3,6,11,19,LDWDLLWWWW,DLWLLDDLLL
-Bologna,Benevento,1-1,/match/bologna/benevento-calcio/2021,2021,22,serie_a,20,24,1,1,1,13,23,6,5,10,28,35,LWLLLWLWWLLDDDDDLWLLW,4,2,4,18,19,14,23,6,5,10,24,41,LWWLLLLWDDLDWWLWLLDLD,4,1,5,12,20,WLWLWLDDWL,WLLWDLWWLL
-Torino,Genoa,0-0,/match/torino-fc/genoa/2021,2021,22,serie_a,20,24,1,0,0,17,16,2,10,9,32,41,LLWLDLDLDLLLDDWDLDDDD,0,6,4,14,19,12,24,6,6,9,24,31,WLLDLDLLLDLDLWDLWDWWW,2,4,4,8,14,LLLDDLDDDD,LDDLDLWLDW
-Napoli,Juventus,1-0,/match/napoli/juventus-fc/2021,2021,22,serie_a,20,24,0,1,0,6,37,12,1,7,44,21,WWWWLWLWWWLLDWLWWLWL,6,1,3,27,10,3,42,12,6,2,41,18,WDDDWDWDWWDWLWWWLWWW,5,4,1,21,10,WWLLWWDLWW,DDWDDWWWLW
-Spezia,Milan,2-0,/match/asd-spezia/milan/2021,2021,22,serie_a,20,24,0,2,0,16,21,5,6,10,28,38,WLLDDLWDDLLDLLLWWDLLW,1,3,6,10,19,1,49,15,4,2,45,23,WWWWDWDWWWDDWWWLWWLWW,9,1,0,21,8,LDLDLDLLWL,WWWWWDWWWW
-Roma,Udinese,3-0,/match/roma/udinese/2021,2021,22,serie_a,20,24,0,3,0,4,40,12,4,5,44,35,LDWWDWWWLDWWLWWWDLWWL,8,3,0,28,13,11,24,6,6,9,23,28,LLLWLLDWWDWDDLLDLLDWW,3,3,4,14,16,DWWWDWWWDWW,LLDWWDLDLW
-Cagliari,Atalanta,0-1,/match/cagliari/atalanta/2021,2021,22,serie_a,20,24,2,0,1,18,15,3,6,12,24,39,DLLWWLWLDDLDDLLLLLLDL,2,3,5,13,19,7,37,10,7,4,48,29,WWWLLWDDLDWDWDWWWDWLD,5,4,1,22,13,LWWDLDLLLD,WWLWDDDDWW
-Sampdoria,Fiorentina,2-1,/match/sampdoria/fiorentina/2021,2021,22,serie_a,20,24,0,2,1,10,27,8,3,10,31,32,LLWWWDLLDLLWWLLWLWWLD,4,1,5,17,16,15,22,5,7,9,21,33,WLLDWLDLLDLDDWDLWLWDL,1,3,6,10,22,LWDLLWLWWL,LDLDLLWLLD
-Crotone,Sassuolo,1-2,/match/fc-crotone/us-sassuolo-calcio/2021,2021,22,serie_a,20,24,2,1,2,20,12,3,3,15,22,50,LLLDLLDLLLWDLWLLLWLLL,3,1,6,13,20,8,31,8,7,6,34,32,DWWWDWDWLDWDLWLWLDLDL,5,3,3,20,18,LDLLLWWLWL,WWWWDDWLLLD
-Inter,Lazio,3-1,/match/internazionale/lazio/2021,2021,22,serie_a,20,24,0,3,1,2,47,14,5,2,51,23,WWDLWDDWWWWWWWWLDWDWW,8,1,1,29,13,5,40,12,4,5,36,27,LWDLWWDWLWLDWLDWWWWWW,6,2,2,19,13,WLDWWWWWWW,WLWWWDLDWW
-Hellas Verona,Parma,2-1,/match/hellas-verona-fc/parma-fc/2021,2021,22,serie_a,20,24,0,2,1,9,30,8,6,7,26,23,WWLDDWDLWDWLDLWDWLWLL,5,2,3,15,10,19,13,2,7,12,14,41,LLWLDDDLWDDDLLLLLDLLL,1,3,6,11,23,WWDWLDLLWW,LLDLWDLLDL
-Fiorentina,Spezia,3-0,/match/fiorentina/asd-spezia/2021,2021,23,serie_a,20,24,0,3,0,16,22,5,7,10,22,35,WLLDWLDLLDLDDWDLWLWDLL,4,4,3,11,11,13,24,6,6,10,30,38,WLLDDLWDDLLDLLLWWDLLWW,4,3,4,18,19,WLWLDDDDWWL,WLDWDLLWDLW
-Cagliari,Torino,0-1,/match/cagliari/torino-fc/2021,2021,23,serie_a,20,24,2,0,1,18,15,3,6,13,24,40,DLLWWLWLDDLDDLLLLLLDLL,2,3,6,13,20,17,17,2,11,9,32,41,LLWLDLDLDLLLDDWDLDDDDD,2,4,5,18,22,LWWDLDLLLDL,LWDLLLDWLDD
-Lazio,Sampdoria,1-0,/match/lazio/sampdoria/2021,2021,23,serie_a,20,24,0,1,0,5,40,12,4,6,37,30,LWDLWWDWLWLDWLDWWWWWWL,6,2,3,17,14,10,30,9,3,10,33,33,LLWWWDLLDLLWWLLWLWWLDW,4,2,5,14,16,LDWDLLWWWWW,LWWLDLWLLWD
-Genoa,Hellas Verona,2-2,/match/genoa/hellas-verona-fc/2021,2021,23,serie_a,20,24,1,2,2,11,25,6,7,9,24,31,WLLDLDLLLDLDLWDLWDWWWD,4,2,5,16,17,9,33,9,6,7,28,24,WWLDDWDLWDWLDLWDWLWLLW,3,4,4,11,13,WLLLLLDDWWW,LDDWWDWDLLL
-Sassuolo,Bologna,1-1,/match/us-sassuolo-calcio/bologna/2021,2021,23,serie_a,20,24,1,1,1,8,34,9,7,6,36,33,DWWWDWDWLDWDLWLWLDLDLW,3,4,3,14,14,15,24,6,6,10,29,36,LWLLLWLWWLLDDDDDLWLLWD,2,3,6,10,16,DWDDLWLWDL,LLLWLDDDLLW
-Parma,Udinese,2-2,/match/parma-fc/udinese/2021,2021,23,serie_a,20,24,1,2,2,19,13,2,7,13,15,43,LLWLDDDLWDDDLLLLLDLLLL,1,4,6,3,18,14,24,6,6,10,23,31,LLLWLLDWWDWDDLLDLLDWWL,3,3,5,14,19,LWDDDDLLLLL,LLDWWDLDLWL
-Milan,Inter,0-3,/match/milan/internazionale/2021,2021,23,serie_a,20,24,2,0,3,2,49,15,4,3,45,25,WWWWDWDWWWDDWWWLWWLWWL,6,3,2,24,15,1,50,15,5,2,54,24,WWDLWDDWWWWWWWWLDWDWWW,6,4,1,22,10,WWDDWDWLWLW,WDWDWWWLDDW
-Atalanta,Napoli,4-2,/match/atalanta/napoli/2021,2021,23,serie_a,20,24,0,4,2,7,40,11,7,4,49,29,WWWLLWDDLDWDWDWWWDWLDW,5,3,3,26,16,6,40,13,1,7,45,21,WWWWLWLWWWLLDWLWWLWLW,6,0,4,17,11,WLDLWWWWDLD,WWWWLLWWLL
-Benevento,Roma,0-0,/match/benevento-calcio/roma/2021,2021,23,serie_a,20,24,1,0,0,12,24,6,6,10,25,42,LWWLLLLWDDLDWWLWLLDLDD,2,4,5,12,21,3,43,13,4,5,47,35,LDWWDWWWLDWWLWWWDLWWLW,4,1,5,16,22,LWLLDDWLLDD,LWDWLWLWLL
-Juventus,Crotone,3-0,/match/juventus-fc/fc-crotone/2021,2021,23,serie_a,20,24,0,3,0,4,42,12,6,3,41,19,WDDDWDWDWWDWLWWWLWWWL,7,2,1,20,8,20,12,3,3,16,23,52,LLLDLLDLLLWDLWLLLWLLLL,0,2,9,9,30,WDWWDLWWWW,LLLDLDLLLLL
-Spezia,Parma,2-2,/match/asd-spezia/parma-fc/2021,2021,24,serie_a,20,24,1,2,2,16,24,6,6,11,30,41,WLLDDLWDDLLDLLLWWDLLWWL,2,3,6,12,19,19,14,2,8,13,17,45,LLWLDDDLWDDDLLLLLDLLLLD,1,3,7,12,25,LDLDLDLLWLW,LLDLWDLLDLL
-Bologna,Lazio,2-0,/match/bologna/lazio/2021,2021,24,serie_a,20,24,0,2,0,14,25,6,7,10,30,37,LWLLLWLWWLLDDDDDLWLLWDD,4,3,4,19,20,5,43,13,4,6,38,30,LWDLWWDWLWLDWLDWWWWWWLW,6,2,3,20,16,WLWLWLDDWLD,WLWWWDLDWWL
-Hellas Verona,Juventus,1-1,/match/hellas-verona-fc/juventus-fc/2021,2021,24,serie_a,20,24,1,1,1,9,34,9,7,7,30,26,WWLDDWDLWDWLDLWDWLWLLWD,6,2,3,17,11,3,45,13,6,3,44,19,WDDDWDWDWWDWLWWWLWWWLW,5,4,2,21,11,WWDWLDLLWWW,DDWDDWWWLWL
-Sampdoria,Atalanta,0-2,/match/sampdoria/atalanta/2021,2021,24,serie_a,20,24,2,0,2,10,30,9,3,11,33,34,LLWWWDLLDLLWWLLWLWWLDWL,5,1,5,19,17,6,43,12,7,4,53,31,WWWLLWDDLDWDWDWWWDWLDWW,6,4,1,23,13,LWDLLWLWWLW,WWLWDDDDWWW
-Inter,Genoa,3-0,/match/internazionale/genoa/2021,2021,24,serie_a,20,24,0,3,0,1,53,16,5,2,57,24,WWDLWDDWWWWWWWWLDWDWWWW,9,1,1,32,14,11,26,6,8,9,26,33,WLLDLDLLLDLDLWDLWDWWWDD,2,5,4,8,14,WLDWWWWWWWW,LDDLDLWLDWD
-Udinese,Fiorentina,1-0,/match/udinese/fiorentina/2021,2021,24,serie_a,20,24,0,1,0,13,25,6,7,10,25,33,LLLWLLDWWDWDDLLDLLDWWLD,3,3,5,9,12,15,25,6,7,10,25,35,WLLDWLDLLDLDDWDLWLWDLLW,1,3,7,11,24,LLWLWDDLLDW,LDLDLLWLLDL
-Crotone,Cagliari,0-2,/match/fc-crotone/cagliari/2021,2021,24,serie_a,20,24,2,0,2,20,12,3,3,17,23,55,LLLDLLDLLLWDLWLLLWLLLLL,3,1,7,14,22,18,15,3,6,14,24,41,DLLWWLWLDDLDDLLLLLLDLLL,1,3,7,11,20,LDLLLWWLWLL,DLWLLDDLLLL
-Napoli,Benevento,2-0,/match/napoli/benevento-calcio/2021,2021,24,serie_a,20,24,0,2,0,7,40,13,1,8,47,25,WWWWLWLWWWLLDWLWWLWLWL,7,1,3,28,10,12,25,6,7,10,25,42,LWWLLLLWDDLDWWLWLLDLDDD,4,2,5,13,21,WWLLWWDLWWW,WLLWDLWWLLD
-Roma,Milan,1-2,/match/roma/milan/2021,2021,24,serie_a,20,24,2,1,2,4,44,13,5,5,47,35,LDWWDWWWLDWWLWWWDLWWLWD,9,3,0,31,13,2,49,15,4,4,45,28,WWWWDWDWWWDDWWWLWWLWWLL,9,1,1,21,10,DWWWDWWWDWWW,WWWWWDWWWWL
+Fiorentina,Torino,1-0,https://www.besoccer.com/match/fiorentina/torino-fc/202193920,2021,1,serie_a,20,30,0,1,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Hellas Verona,Roma,3-0,https://www.besoccer.com/match/hellas-verona-fc/roma/202193943,2021,1,serie_a,20,30,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Parma,Napoli,0-2,https://www.besoccer.com/match/parma-fc/napoli/202193927,2021,1,serie_a,20,30,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Genoa,Crotone,4-1,https://www.besoccer.com/match/genoa/fc-crotone/202193921,2021,1,serie_a,20,30,0,4,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Sassuolo,Cagliari,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/cagliari/202193929,2021,1,serie_a,20,30,1,1,1,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Juventus,Sampdoria,3-0,https://www.besoccer.com/match/juventus-fc/sampdoria/202193923,2021,1,serie_a,20,30,0,3,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Milan,Bologna,2-0,https://www.besoccer.com/match/milan/bologna/202193925,2021,1,serie_a,20,30,0,2,0,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Benevento,Inter,2-5,https://www.besoccer.com/match/benevento-calcio/internazionale/202193918,2021,1,serie_a,20,30,2,2,5,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Udinese,Spezia,0-2,https://www.besoccer.com/match/udinese/asd-spezia/202193931,2021,1,serie_a,20,30,2,0,2,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Lazio,Atalanta,1-4,https://www.besoccer.com/match/lazio/atalanta/202193924,2021,1,serie_a,20,30,2,1,4,0,0,0,0,0,0,0,,0,0,0,0,0,0,0,0,0,0,0,0,,0,0,0,0,0,,
+Torino,Atalanta,2-4,https://www.besoccer.com/match/torino-fc/atalanta/202193936,2021,2,serie_a,20,30,2,2,4,14,0,0,0,1,0,1,L,0,0,0,0,0,5,3,1,0,0,4,1,W,1,0,0,4,1,,W
+Sampdoria,Benevento,2-3,https://www.besoccer.com/match/sampdoria/benevento-calcio/202193932,2021,2,serie_a,20,30,2,2,3,13,0,0,0,1,0,3,L,0,0,0,0,0,15,0,0,0,1,2,5,L,0,0,0,0,0,,
+Cagliari,Lazio,0-2,https://www.besoccer.com/match/cagliari/lazio/202193919,2021,2,serie_a,20,30,2,0,2,10,1,0,1,0,1,1,D,0,0,0,0,0,19,0,0,0,1,1,4,L,0,0,0,0,0,,
+Inter,Fiorentina,4-3,https://www.besoccer.com/match/internazionale/fiorentina/202193926,2021,2,serie_a,20,30,0,4,3,4,3,1,0,0,5,2,W,0,0,0,0,0,8,3,1,0,0,1,0,W,0,0,0,0,0,,
+Spezia,Sassuolo,1-4,https://www.besoccer.com/match/asd-spezia/us-sassuolo-calcio/202193934,2021,2,serie_a,20,30,2,1,4,9,3,1,0,0,2,0,W,0,0,0,0,0,11,1,0,1,0,1,1,D,0,0,0,0,0,,
+Hellas Verona,Udinese,1-0,https://www.besoccer.com/match/hellas-verona-fc/udinese/202193938,2021,2,serie_a,20,30,0,1,0,2,3,1,0,0,3,0,W,1,0,0,3,0,16,0,0,0,1,0,2,L,0,0,0,0,0,W,
+Crotone,Milan,0-2,https://www.besoccer.com/match/fc-crotone/milan/202193922,2021,2,serie_a,20,30,2,0,2,12,0,0,0,1,1,4,L,0,0,0,0,0,7,3,1,0,0,2,0,W,0,0,0,0,0,,
+Napoli,Genoa,6-0,https://www.besoccer.com/match/napoli/genoa/202193928,2021,2,serie_a,20,30,0,6,0,3,3,1,0,0,2,0,W,0,0,0,0,0,1,3,1,0,0,4,1,W,0,0,0,0,0,,
+Roma,Juventus,2-2,https://www.besoccer.com/match/roma/juventus-fc/202193930,2021,2,serie_a,20,30,1,2,2,18,0,0,0,1,0,3,L,0,0,0,0,0,6,3,1,0,0,3,0,W,0,0,0,0,0,,
+Bologna,Parma,4-1,https://www.besoccer.com/match/bologna/parma-fc/202193917,2021,2,serie_a,20,30,0,4,1,20,0,0,0,1,0,2,L,0,0,0,0,0,17,0,0,0,1,0,2,L,0,0,0,0,0,,
+Fiorentina,Sampdoria,1-2,https://www.besoccer.com/match/fiorentina/sampdoria/202193953,2021,3,serie_a,20,30,2,1,2,12,3,1,0,1,4,4,WL,1,0,0,1,0,17,0,0,0,2,2,6,LL,0,0,1,0,3,W,L
+Sassuolo,Crotone,4-1,https://www.besoccer.com/match/us-sassuolo-calcio/fc-crotone/202193968,2021,3,serie_a,20,30,0,4,1,6,4,1,1,0,5,2,DW,0,1,0,1,1,16,0,0,0,2,1,6,LL,0,0,1,1,4,D,L
+Udinese,Roma,0-1,https://www.besoccer.com/match/udinese/roma/202193971,2021,3,serie_a,20,30,2,0,1,19,0,0,0,2,0,3,LL,0,0,1,0,2,15,1,0,1,1,2,5,LD,0,0,1,0,3,L,L
+Atalanta,Cagliari,5-2,https://www.besoccer.com/match/atalanta/cagliari/202193946,2021,3,serie_a,20,30,0,5,2,4,6,2,0,0,8,3,WW,0,0,0,0,0,14,1,0,1,1,1,3,DL,0,1,0,1,1,,D
+Benevento,Bologna,1-0,https://www.besoccer.com/match/benevento-calcio/bologna/202193950,2021,3,serie_a,20,30,0,1,0,9,3,1,0,1,5,7,LW,0,0,1,2,5,13,3,1,0,1,4,3,LW,0,0,1,0,2,L,L
+Lazio,Inter,1-1,https://www.besoccer.com/match/lazio/internazionale/202193959,2021,3,serie_a,20,30,1,1,1,8,3,1,0,1,3,4,LW,0,0,1,1,4,3,6,2,0,0,9,5,WW,1,0,0,5,2,L,W
+Parma,Hellas Verona,1-0,https://www.besoccer.com/match/parma-fc/hellas-verona-fc/202193965,2021,3,serie_a,20,30,0,1,0,20,0,0,0,2,1,6,LL,0,0,1,0,2,1,6,2,0,0,4,0,WW,0,0,0,0,0,L,
+Milan,Spezia,3-0,https://www.besoccer.com/match/milan/asd-spezia/202193962,2021,3,serie_a,20,30,0,3,0,5,6,2,0,0,4,0,WW,1,0,0,2,0,11,3,1,0,1,3,4,WL,1,0,0,2,0,W,W
+Genoa,Torino,1-2,https://www.besoccer.com/match/genoa/torino-fc/202193955,2021,3,serie_a,20,30,2,1,2,10,3,1,0,1,4,7,WL,1,0,0,4,1,18,0,0,0,2,2,5,LL,0,0,1,0,1,W,L
+Juventus,Napoli,2-1,https://www.besoccer.com/match/juventus-fc/napoli/202193957,2021,3,serie_a,20,30,0,2,1,7,4,1,1,0,5,2,WD,1,0,0,3,0,2,6,2,0,0,8,0,WW,1,0,0,2,0,W,W
+Napoli,Atalanta,4-1,https://www.besoccer.com/match/napoli/atalanta/202193982,2021,4,serie_a,20,30,0,4,1,8,6,2,0,1,9,2,WWL,1,0,0,6,0,1,9,3,0,0,13,5,WWW,2,0,0,8,3,W,WW
+Inter,Milan,1-2,https://www.besoccer.com/match/internazionale/milan/202193979,2021,4,serie_a,20,30,2,1,2,3,7,2,1,0,10,6,WWD,1,0,0,4,3,2,9,3,0,0,7,0,WWW,1,0,0,2,0,W,W
+Sampdoria,Lazio,3-0,https://www.besoccer.com/match/sampdoria/lazio/202193987,2021,4,serie_a,20,30,0,3,0,12,3,1,0,2,4,7,LLW,0,0,1,2,3,10,4,1,1,1,4,5,LWD,1,0,0,2,0,L,W
+Crotone,Juventus,1-1,https://www.besoccer.com/match/fc-crotone/juventus-fc/202193976,2021,4,serie_a,20,30,1,1,1,19,0,0,0,3,2,10,LLL,0,0,1,0,2,5,7,2,1,0,7,3,WDW,0,1,0,2,2,L,D
+Bologna,Sassuolo,3-4,https://www.besoccer.com/match/bologna/us-sassuolo-calcio/202193974,2021,4,serie_a,20,30,2,3,4,14,3,1,0,2,4,4,LWL,1,0,0,4,1,4,7,2,1,0,9,3,DWW,1,0,0,4,1,W,W
+Spezia,Fiorentina,2-2,https://www.besoccer.com/match/asd-spezia/fiorentina/202193990,2021,4,serie_a,20,30,1,2,2,13,3,1,0,2,3,7,WLL,0,0,1,1,4,15,3,1,0,2,5,6,WLL,0,0,1,3,4,L,L
+Torino,Cagliari,2-3,https://www.besoccer.com/match/torino-fc/cagliari/202193993,2021,4,serie_a,20,30,2,2,3,11,3,1,0,2,4,6,LLW,0,0,1,2,4,18,1,0,1,2,3,8,DLL,0,1,1,3,6,L,DL
+Udinese,Parma,3-2,https://www.besoccer.com/match/udinese/parma-fc/202193997,2021,4,serie_a,20,30,0,3,2,20,0,0,0,3,0,4,LLL,0,0,2,0,3,17,3,1,0,2,2,6,LLW,0,0,1,1,4,LL,L
+Roma,Benevento,5-2,https://www.besoccer.com/match/roma/benevento-calcio/202193984,2021,4,serie_a,20,30,0,5,2,9,4,1,1,1,3,5,LDW,0,1,0,2,2,7,6,2,0,1,6,7,LWW,1,0,0,3,2,D,W
+Hellas Verona,Genoa,0-0,https://www.besoccer.com/match/hellas-verona-fc/genoa/202194000,2021,4,serie_a,20,30,1,0,0,6,6,2,0,1,4,1,WWL,2,0,0,4,0,16,3,1,0,2,5,9,WLL,0,0,1,0,6,WW,L
+Sassuolo,Torino,3-3,https://www.besoccer.com/match/us-sassuolo-calcio/torino-fc/202194008,2021,5,serie_a,20,30,1,3,3,2,10,3,1,0,13,6,DWWW,1,1,0,5,2,17,3,1,0,3,6,9,LLWL,1,0,1,2,2,DW,LW
+Atalanta,Sampdoria,1-3,https://www.besoccer.com/match/atalanta/sampdoria/202193983,2021,5,serie_a,20,30,2,1,3,3,9,3,0,1,14,9,WWWL,1,0,0,5,2,10,6,2,0,2,7,7,LLWW,1,0,1,2,4,W,LW
+Genoa,Inter,0-2,https://www.besoccer.com/match/genoa/internazionale/202193996,2021,5,serie_a,20,30,2,0,2,15,4,1,1,2,5,9,WLLD,1,0,1,5,3,6,7,2,1,1,11,8,WWDL,1,1,0,6,3,WL,WD
+Lazio,Bologna,2-1,https://www.besoccer.com/match/lazio/bologna/202194002,2021,5,serie_a,20,30,0,2,1,11,4,1,1,2,4,8,LWDL,0,1,1,2,5,18,3,1,0,3,7,8,LWLL,0,0,2,0,3,LD,LL
+Cagliari,Crotone,4-2,https://www.besoccer.com/match/cagliari/fc-crotone/202193988,2021,5,serie_a,20,30,0,4,2,13,4,1,1,2,6,10,DLLW,0,0,1,0,2,20,1,0,1,3,3,11,LLLD,0,0,2,2,8,L,LL
+Benevento,Napoli,1-2,https://www.besoccer.com/match/benevento-calcio/napoli/202193986,2021,5,serie_a,20,30,2,1,2,9,6,2,0,2,8,12,LWWL,1,0,1,3,5,4,9,3,0,1,13,3,WWLW,1,0,1,3,2,LW,WL
+Parma,Spezia,2-2,https://www.besoccer.com/match/parma-fc/asd-spezia/202194004,2021,5,serie_a,20,30,1,2,2,16,3,1,0,3,4,9,LLWL,1,0,1,1,2,12,4,1,1,2,5,9,WLLD,1,0,1,2,3,LW,WL
+Fiorentina,Udinese,3-2,https://www.besoccer.com/match/fiorentina/udinese/202193991,2021,5,serie_a,20,30,0,3,2,14,4,1,1,2,7,8,WLLD,1,0,1,2,2,19,3,1,0,3,3,6,LLLW,0,0,1,0,1,WL,L
+Juventus,Hellas Verona,1-1,https://www.besoccer.com/match/juventus-fc/hellas-verona-fc/202193998,2021,5,serie_a,20,30,1,1,1,5,8,2,2,0,8,4,WDWD,2,0,0,5,1,7,7,2,1,1,4,1,WWLD,0,0,1,0,1,WW,L
+Milan,Roma,3-3,https://www.besoccer.com/match/milan/roma/202194003,2021,5,serie_a,20,30,1,3,3,1,12,4,0,0,9,1,WWWW,2,0,0,5,0,8,7,2,1,1,8,7,LDWW,1,0,1,1,3,WW,LW
+Crotone,Atalanta,1-2,https://www.besoccer.com/match/fc-crotone/atalanta/202194009,2021,6,serie_a,20,30,2,1,2,20,1,0,1,4,5,15,LLLDL,0,1,1,1,3,5,9,3,0,2,15,12,WWWLL,2,0,1,9,7,LD,WWL
+Inter,Parma,2-2,https://www.besoccer.com/match/internazionale/parma-fc/202194011,2021,6,serie_a,20,30,1,2,2,4,10,3,1,1,13,8,WWDLW,1,0,1,5,5,16,4,1,1,3,6,11,LLWLD,0,0,2,3,7,WL,LL
+Bologna,Cagliari,3-2,https://www.besoccer.com/match/bologna/cagliari/202194005,2021,6,serie_a,20,30,0,3,2,18,3,1,0,4,8,10,LWLLL,1,0,1,7,5,10,7,2,1,2,10,12,DLLWW,1,1,1,6,8,WL,DLW
+Udinese,Milan,1-2,https://www.besoccer.com/match/udinese/milan/202194027,2021,6,serie_a,20,30,2,1,2,19,3,1,0,4,5,9,LLLWL,1,0,2,3,5,1,13,4,1,0,12,4,WWWWD,2,0,0,4,1,LLW,WW
+Spezia,Juventus,1-4,https://www.besoccer.com/match/asd-spezia/juventus-fc/202194021,2021,6,serie_a,20,30,2,1,4,14,5,1,2,2,7,11,WLLDD,0,1,1,3,6,6,9,2,3,0,9,5,WDWDD,0,2,0,3,3,LD,DD
+Torino,Lazio,3-4,https://www.besoccer.com/match/torino-fc/lazio/202194023,2021,6,serie_a,20,30,2,3,4,17,4,1,1,3,9,12,LLWLD,0,0,2,4,7,12,7,2,1,2,6,9,LWDLW,1,0,1,2,3,LL,WL
+Napoli,Sassuolo,0-2,https://www.besoccer.com/match/napoli/us-sassuolo-calcio/202194013,2021,6,serie_a,20,30,2,0,2,2,12,4,0,1,15,4,WWLWW,2,0,0,10,1,3,11,3,2,0,16,9,DWWWD,2,0,0,8,4,WW,WW
+Roma,Fiorentina,2-0,https://www.besoccer.com/match/roma/fiorentina/202194015,2021,6,serie_a,20,30,0,2,0,9,8,2,2,1,11,10,LDWWD,1,1,0,7,4,11,7,2,1,2,10,10,WLLDW,0,1,1,5,6,DW,LD
+Sampdoria,Genoa,1-1,https://www.besoccer.com/match/sampdoria/genoa/202194018,2021,6,serie_a,20,30,1,1,1,7,9,3,0,2,10,8,LLWWW,1,0,1,5,3,15,4,1,1,3,5,11,WLLDL,0,1,1,0,6,LW,LD
+Hellas Verona,Benevento,3-1,https://www.besoccer.com/match/hellas-verona-fc/benevento-calcio/202194031,2021,6,serie_a,20,30,0,3,1,8,8,2,2,1,5,2,WWLDD,2,1,0,4,0,13,6,2,0,3,9,14,LWWLL,1,0,1,5,7,WWD,WL
+Sassuolo,Udinese,0-0,https://www.besoccer.com/match/us-sassuolo-calcio/udinese/202194045,2021,7,serie_a,20,30,1,0,0,2,14,4,2,0,18,9,DWWWDW,1,2,0,8,5,19,3,1,0,5,6,11,LLLWLL,0,0,2,2,4,DWD,LL
+Cagliari,Sampdoria,2-0,https://www.besoccer.com/match/cagliari/sampdoria/202194028,2021,7,serie_a,20,30,0,2,0,12,7,2,1,3,12,15,DLLWWL,1,0,1,4,4,9,10,3,1,2,11,9,LLWWWD,2,0,1,5,5,LW,LWW
+Benevento,Spezia,0-3,https://www.besoccer.com/match/benevento-calcio/asd-spezia/202194022,2021,7,serie_a,20,30,2,0,3,13,6,2,0,4,10,17,LWWLLL,1,0,2,4,7,15,5,1,2,3,8,15,WLLDDL,1,1,1,4,5,LWL,WLD
+Parma,Fiorentina,0-0,https://www.besoccer.com/match/parma-fc/fiorentina/202194041,2021,7,serie_a,20,30,1,0,0,17,5,1,2,3,8,13,LLWLDD,1,1,1,3,4,11,7,2,1,3,10,12,WLLDWL,0,1,2,5,8,LWD,LDL
+Lazio,Juventus,1-1,https://www.besoccer.com/match/lazio/juventus-fc/202194035,2021,7,serie_a,20,30,1,1,1,10,10,3,1,2,10,12,LWDLWW,1,1,1,4,6,5,12,3,3,0,13,6,WDWDDW,1,2,0,7,4,LDW,DDW
+Atalanta,Inter,1-1,https://www.besoccer.com/match/atalanta/internazionale/202194016,2021,7,serie_a,20,30,1,1,1,4,12,4,0,2,17,13,WWWLLW,1,0,1,6,5,6,11,3,2,1,15,10,WWDLWD,2,1,0,8,3,WL,WDW
+Genoa,Roma,1-3,https://www.besoccer.com/match/genoa/roma/202194032,2021,7,serie_a,20,30,2,1,3,16,5,1,2,3,6,12,WLLDLD,1,0,2,5,5,8,11,3,2,1,13,10,LDWWDW,1,1,1,4,6,WLL,LWD
+Torino,Crotone,0-0,https://www.besoccer.com/match/torino-fc/fc-crotone/202194048,2021,7,serie_a,20,30,1,0,0,18,4,1,1,4,12,16,LLWLDL,0,0,3,7,11,20,1,0,1,5,6,17,LLLDLL,0,0,3,4,12,LLL,LLL
+Bologna,Napoli,0-1,https://www.besoccer.com/match/bologna/napoli/202194025,2021,7,serie_a,20,30,2,0,1,14,6,2,0,4,11,12,LWLLLW,2,0,1,10,7,3,12,4,0,2,15,6,WWLWWL,2,0,1,5,3,WLW,WLW
+Milan,Hellas Verona,2-2,https://www.besoccer.com/match/milan/hellas-verona-fc/202194038,2021,7,serie_a,20,30,1,2,2,1,16,5,1,0,14,5,WWWWDW,2,1,0,8,3,7,11,3,2,1,8,3,WWLDDW,0,1,1,1,2,WWD,LD
+Crotone,Lazio,0-2,https://www.besoccer.com/match/fc-crotone/lazio/202194040,2021,8,serie_a,20,30,2,0,2,20,2,0,2,5,6,17,LLLDLLD,0,1,2,2,5,9,11,3,2,2,11,13,LWDLWWD,2,0,1,6,6,LDL,WLW
+Spezia,Atalanta,0-0,https://www.besoccer.com/match/asd-spezia/atalanta/202194061,2021,8,serie_a,20,30,1,0,0,12,8,2,2,3,11,15,WLLDDLW,0,1,2,4,10,5,13,4,1,2,18,14,WWWLLWD,3,0,1,11,8,LDL,WWLW
+Juventus,Cagliari,2-0,https://www.besoccer.com/match/juventus-fc/cagliari/202194050,2021,8,serie_a,20,30,0,2,0,6,13,3,4,0,14,7,WDWDDWD,2,1,0,6,2,11,10,3,1,3,14,15,DLLWWLW,1,1,2,8,11,WWD,DLWL
+Fiorentina,Benevento,0-1,https://www.besoccer.com/match/fiorentina/benevento-calcio/202194044,2021,8,serie_a,20,30,2,0,1,13,8,2,2,3,10,12,WLLDWLD,2,0,1,5,4,15,6,2,0,5,10,20,LWWLLLL,1,0,2,6,10,WLW,WLL
+Inter,Torino,4-2,https://www.besoccer.com/match/internazionale/torino-fc/202194047,2021,8,serie_a,20,30,0,4,2,7,12,3,3,1,16,11,WWDLWDD,1,1,1,7,7,18,5,1,2,4,12,16,LLWLDLD,1,1,1,5,5,WLD,LWD
+Roma,Parma,3-0,https://www.besoccer.com/match/roma/parma-fc/202194054,2021,8,serie_a,20,30,0,3,0,4,14,4,2,1,16,11,LDWWDWW,2,1,0,9,4,16,6,1,3,3,8,13,LLWLDDD,0,1,2,5,9,DWW,LLD
+Sampdoria,Bologna,1-2,https://www.besoccer.com/match/sampdoria/bologna/202194057,2021,8,serie_a,20,30,2,1,2,10,10,3,1,3,11,11,LLWWWDL,1,1,1,6,4,14,6,2,0,5,11,13,LWLLLWL,0,0,3,1,5,LWD,LLL
+Hellas Verona,Sassuolo,0-2,https://www.besoccer.com/match/hellas-verona-fc/us-sassuolo-calcio/202194067,2021,8,serie_a,20,30,2,0,2,8,12,3,3,1,10,5,WWLDDWD,3,1,0,7,1,3,15,4,3,0,18,9,DWWWDWD,3,0,0,10,4,WWDW,WWW
+Udinese,Genoa,1-0,https://www.besoccer.com/match/udinese/genoa/202194064,2021,8,serie_a,20,30,0,1,0,19,4,1,1,5,6,11,LLLWLLD,1,0,3,4,7,17,5,1,2,4,7,15,WLLDLDL,0,2,1,1,7,LLWL,LDD
+Napoli,Milan,1-3,https://www.besoccer.com/match/napoli/milan/202194052,2021,8,serie_a,20,30,2,1,3,2,15,5,0,2,16,6,WWLWWLW,2,0,1,10,3,1,17,5,2,0,16,7,WWWWDWD,3,0,0,6,2,WWL,WWW
+Sassuolo,Inter,0-3,https://www.besoccer.com/match/us-sassuolo-calcio/internazionale/202194083,2021,9,serie_a,20,30,2,0,3,2,18,5,3,0,20,9,DWWWDWDW,1,3,0,8,5,6,15,4,3,1,20,13,WWDLWDDW,2,2,0,9,4,DWDD,WDWD
+Benevento,Juventus,1-1,https://www.besoccer.com/match/benevento-calcio/juventus-fc/202194058,2021,9,serie_a,20,30,1,1,1,14,9,3,0,5,11,20,LWWLLLLW,1,0,3,4,10,4,16,4,4,0,16,7,WDWDDWDW,1,3,0,8,5,LWLL,DDWD
+Atalanta,Hellas Verona,0-2,https://www.besoccer.com/match/atalanta/hellas-verona-fc/202194056,2021,9,serie_a,20,30,2,0,2,7,14,4,2,2,18,14,WWWLLWDD,1,1,1,7,6,9,12,3,3,2,10,7,WWLDDWDL,0,2,1,3,4,WLD,LDD
+Lazio,Udinese,1-3,https://www.besoccer.com/match/lazio/udinese/202194073,2021,9,serie_a,20,30,2,1,3,8,14,4,2,2,13,13,LWDLWWDW,1,2,1,5,7,16,7,2,1,5,7,11,LLLWLLDW,0,1,2,2,4,LDWD,LLD
+Bologna,Crotone,1-0,https://www.besoccer.com/match/bologna/fc-crotone/202194062,2021,9,serie_a,20,30,0,1,0,13,9,3,0,5,13,14,LWLLLWLW,2,0,2,10,8,20,2,0,2,6,6,19,LLLDLLDL,0,1,3,4,12,WLWL,LLLD
+Milan,Fiorentina,2-0,https://www.besoccer.com/match/milan/fiorentina/202194075,2021,9,serie_a,20,30,0,2,0,1,20,6,2,0,19,8,WWWWDWDW,2,2,0,10,5,15,8,2,2,4,10,13,WLLDWLDL,0,2,2,5,8,WWDD,LDLD
+Cagliari,Spezia,2-2,https://www.besoccer.com/match/cagliari/asd-spezia/202194066,2021,9,serie_a,20,30,1,2,2,10,10,3,1,4,14,17,DLLWWLWL,2,0,1,6,4,12,9,2,3,3,11,15,WLLDDLWD,2,1,1,7,5,LWW,WLDW
+Napoli,Roma,4-0,https://www.besoccer.com/match/napoli/roma/202194079,2021,9,serie_a,20,30,0,4,0,5,15,5,0,3,17,9,WWLWWLWL,2,0,2,11,6,3,17,5,2,1,19,11,LDWWDWWW,2,1,1,7,7,WWLL,LWDW
+Torino,Sampdoria,2-2,https://www.besoccer.com/match/torino-fc/sampdoria/202194085,2021,9,serie_a,20,30,1,2,2,19,5,1,2,5,14,20,LLWLDLDL,0,1,3,7,11,11,10,3,1,4,12,13,LLWWWDLL,2,0,2,5,7,LLLD,LWWL
+Genoa,Parma,1-2,https://www.besoccer.com/match/genoa/parma-fc/202194070,2021,9,serie_a,20,30,2,1,2,18,5,1,2,5,7,16,WLLDLDLL,1,0,3,6,8,17,6,1,3,4,8,16,LLWLDDDL,0,1,3,5,12,WLLL,LLDL
+Spezia,Lazio,1-2,https://www.besoccer.com/match/asd-spezia/lazio/202194104,2021,10,serie_a,20,30,2,1,2,13,10,2,4,3,13,17,WLLDDLWDD,0,2,2,4,10,9,14,4,2,3,14,16,LWDLWWDWL,3,0,1,8,6,LDLD,WLWW
+Juventus,Torino,2-1,https://www.besoccer.com/match/juventus-fc/torino-fc/202194095,2021,10,serie_a,20,30,0,2,1,6,17,4,5,0,17,8,WDWDDWDWD,3,1,0,8,2,18,6,1,3,5,16,22,LLWLDLDLD,1,1,2,7,9,WWDW,LWDL
+Inter,Bologna,3-1,https://www.besoccer.com/match/internazionale/bologna/202194093,2021,10,serie_a,20,30,0,3,1,4,18,5,3,1,23,13,WWDLWDDWW,2,1,1,11,9,10,12,4,0,5,14,14,LWLLLWLWW,1,0,3,3,6,WLDW,LLLW
+Hellas Verona,Cagliari,1-1,https://www.besoccer.com/match/hellas-verona-fc/cagliari/202194107,2021,10,serie_a,20,30,1,1,1,7,15,4,3,2,12,7,WWLDDWDLW,3,1,1,7,3,12,11,3,2,4,16,19,DLLWWLWLD,1,1,3,8,13,WWDWL,DLWLL
+Parma,Benevento,0-0,https://www.besoccer.com/match/parma-fc/benevento-calcio/202194097,2021,10,serie_a,20,30,1,0,0,16,9,2,3,4,10,17,LLWLDDDLW,1,2,1,3,4,14,10,3,1,5,12,21,LWWLLLLWD,2,0,2,7,10,LWDD,WLLW
+Roma,Sassuolo,0-0,https://www.besoccer.com/match/roma/us-sassuolo-calcio/202194099,2021,10,serie_a,20,30,1,0,0,5,17,5,2,2,19,15,LDWWDWWWL,3,1,0,12,4,2,18,5,3,1,20,12,DWWWDWDWL,4,0,0,12,4,DWWW,WWWW
+Crotone,Napoli,0-4,https://www.besoccer.com/match/fc-crotone/napoli/202194089,2021,10,serie_a,20,30,2,0,4,20,2,0,2,7,6,20,LLLDLLDLL,0,1,3,2,7,3,18,6,0,3,21,9,WWLWWLWLW,3,0,1,6,3,LDLL,WLWW
+Sampdoria,Milan,1-2,https://www.besoccer.com/match/sampdoria/milan/202194102,2021,10,serie_a,20,30,2,1,2,11,11,3,2,4,14,15,LLWWWDLLD,1,1,2,7,6,1,23,7,2,0,21,8,WWWWDWDWW,4,0,0,9,3,LWDL,WWWW
+Fiorentina,Genoa,1-1,https://www.besoccer.com/match/fiorentina/genoa/202194091,2021,10,serie_a,20,30,1,1,1,17,8,2,2,5,10,15,WLLDWLDLL,2,0,2,5,5,19,5,1,2,6,8,18,WLLDLDLLL,0,2,2,1,8,WLWL,LDDL
+Udinese,Atalanta,1-1,https://www.besoccer.com/match/udinese/atalanta/202194106,2021,10,serie_a,20,30,1,1,1,15,10,3,1,5,10,12,LLLWLLDWW,2,0,3,5,7,8,14,4,2,3,18,16,WWWLLWDDL,3,1,1,11,8,LLWLW,WWLWD
+Sassuolo,Benevento,1-0,https://www.besoccer.com/match/us-sassuolo-calcio/benevento-calcio/202194103,2021,11,serie_a,20,30,0,1,0,5,19,5,4,1,20,12,DWWWDWDWLD,1,3,1,8,8,12,11,3,2,5,12,21,LWWLLLLWDD,2,1,2,7,10,DWDDL,WLLWD
+Crotone,Spezia,4-1,https://www.besoccer.com/match/fc-crotone/asd-spezia/202194094,2021,11,serie_a,20,30,0,4,1,20,2,0,2,8,6,24,LLLDLLDLLL,0,1,4,2,11,15,10,2,4,4,14,19,WLLDDLWDDL,2,2,1,9,7,LDLLL,WLDWD
+Torino,Udinese,2-3,https://www.besoccer.com/match/torino-fc/udinese/202194105,2021,11,serie_a,20,30,2,2,3,18,6,1,3,6,17,24,LLWLDLDLDL,0,2,3,9,13,13,11,3,2,5,11,13,LLLWLLDWWD,1,1,2,5,5,LLLDD,LLDW
+Lazio,Hellas Verona,1-2,https://www.besoccer.com/match/lazio/hellas-verona-fc/202194098,2021,11,serie_a,20,30,2,1,2,7,17,5,2,3,16,17,LWDLWWDWLW,1,2,2,6,10,8,16,4,4,2,13,8,WWLDDWDLWD,1,2,1,5,4,LDWDL,LDDW
+Cagliari,Inter,1-3,https://www.besoccer.com/match/cagliari/internazionale/202194092,2021,11,serie_a,20,30,2,1,3,11,12,3,3,4,17,20,DLLWWLWLDD,2,1,1,8,6,3,21,6,3,1,26,14,WWDLWDDWWW,3,2,0,12,4,LWWD,WDWDW
+Atalanta,Fiorentina,3-0,https://www.besoccer.com/match/atalanta/fiorentina/202194088,2021,11,serie_a,20,30,0,3,0,9,15,4,3,3,19,17,WWWLLWDDLD,1,1,2,7,8,17,9,2,3,5,11,16,WLLDWLDLLD,0,2,3,5,10,WLDL,LDLDL
+Bologna,Roma,1-5,https://www.besoccer.com/match/bologna/roma/202194090,2021,11,serie_a,20,30,2,1,5,10,12,4,0,6,15,17,LWLLLWLWWL,3,0,2,11,8,6,18,5,3,2,19,15,LDWWDWWWLD,2,1,2,7,11,WLWLW,LWDWL
+Napoli,Sampdoria,2-1,https://www.besoccer.com/match/napoli/sampdoria/202194101,2021,11,serie_a,20,30,0,2,1,2,21,7,0,3,25,9,WWLWWLWLWW,3,0,2,15,6,14,11,3,2,5,15,17,LLWWWDLLDL,2,1,2,7,9,WWLLW,LWWLD
+Genoa,Juventus,1-3,https://www.besoccer.com/match/genoa/juventus-fc/202194096,2021,11,serie_a,20,30,2,1,3,19,6,1,3,6,9,19,WLLDLDLLLD,1,0,4,7,10,4,20,5,5,0,19,9,WDWDDWDWDW,1,4,0,9,6,WLLLL,DDWDD
+Milan,Parma,2-2,https://www.besoccer.com/match/milan/parma-fc/202194100,2021,11,serie_a,20,30,1,2,2,1,26,8,2,0,23,9,WWWWDWDWWW,3,2,0,12,5,16,10,2,4,4,10,17,LLWLDDDLWD,1,1,3,7,13,WWDDW,LLDLW
+Udinese,Crotone,0-0,https://www.besoccer.com/match/udinese/fc-crotone/202194084,2021,12,serie_a,20,30,1,0,0,10,14,4,2,5,14,15,LLLWLLDWWDW,2,1,3,6,8,20,5,1,2,8,10,25,LLLDLLDLLLW,0,1,4,4,13,LLWLWD,LLLDL
+Benevento,Lazio,1-1,https://www.besoccer.com/match/benevento-calcio/lazio/202194060,2021,12,serie_a,20,30,1,1,1,13,11,3,2,6,12,22,LWWLLLLWDDL,1,1,3,5,11,9,17,5,2,4,17,19,LWDLWWDWLWL,4,0,1,10,7,LWLLD,WLWWW
+Juventus,Atalanta,1-1,https://www.besoccer.com/match/juventus-fc/atalanta/202194074,2021,12,serie_a,20,30,1,1,1,4,23,6,5,0,22,10,WDWDDWDWDWW,4,1,0,10,3,8,18,5,3,3,22,17,WWWLLWDDLDW,3,2,1,12,9,WWDWW,WWLWDD
+Fiorentina,Sassuolo,1-1,https://www.besoccer.com/match/fiorentina/us-sassuolo-calcio/202194065,2021,12,serie_a,20,30,1,1,1,17,9,2,3,6,11,19,WLLDWLDLLDL,2,1,2,6,6,5,22,6,4,1,21,12,DWWWDWDWLDW,4,1,0,12,4,WLWLD,WWWWD
+Genoa,Milan,2-2,https://www.besoccer.com/match/genoa/milan/202194068,2021,12,serie_a,20,30,1,2,2,19,6,1,3,7,10,22,WLLDLDLLLDL,1,0,5,8,13,1,27,8,3,0,25,11,WWWWDWDWWWD,5,0,0,11,4,WLLLLL,WWWWW
+Inter,Napoli,1-0,https://www.besoccer.com/match/internazionale/napoli/202194071,2021,12,serie_a,20,30,0,1,0,3,24,7,3,1,29,15,WWDLWDDWWWW,3,1,1,14,10,2,24,8,0,3,27,10,WWLWWLWLWWW,4,0,1,10,3,WLDWW,WLWWW
+Parma,Cagliari,0-0,https://www.besoccer.com/match/parma-fc/cagliari/202194077,2021,12,serie_a,20,30,1,0,0,15,11,2,5,4,12,19,LLWLDDDLWDD,1,3,1,3,4,11,12,3,3,5,18,23,DLLWWLWLDDL,1,2,3,9,14,LWDDD,DLWLLD
+Spezia,Bologna,2-2,https://www.besoccer.com/match/asd-spezia/bologna/202194081,2021,12,serie_a,20,30,1,2,2,16,10,2,4,5,15,23,WLLDDLWDDLL,0,2,3,5,12,12,12,4,0,7,16,22,LWLLLWLWWLL,1,0,4,4,9,LDLDL,LLLWL
+Hellas Verona,Sampdoria,1-2,https://www.besoccer.com/match/hellas-verona-fc/sampdoria/202194087,2021,12,serie_a,20,30,2,1,2,7,19,5,4,2,15,9,WWLDDWDLWDW,3,2,1,8,4,14,11,3,2,6,16,19,LLWWWDLLDLL,2,1,3,8,11,WWDWLD,LWWLDL
+Roma,Torino,3-1,https://www.besoccer.com/match/roma/torino-fc/202194078,2021,12,serie_a,20,30,0,3,1,6,21,6,3,2,24,16,LDWWDWWWLDW,3,2,0,12,4,18,6,1,3,7,19,27,LLWLDLDLDLL,1,1,3,8,11,DWWWD,LWDLL
+Fiorentina,Hellas Verona,1-1,https://www.besoccer.com/match/fiorentina/hellas-verona-fc/202194063,2021,13,serie_a,20,30,1,1,1,17,10,2,4,6,12,20,WLLDWLDLLDLD,2,2,2,7,7,7,19,5,4,3,16,11,WWLDDWDLWDWL,2,2,1,7,5,WLWLDD,LDDWW
+Sampdoria,Crotone,3-1,https://www.besoccer.com/match/sampdoria/fc-crotone/202194080,2021,13,serie_a,20,30,0,3,1,11,14,4,2,6,18,20,LLWWWDLLDLLW,1,1,3,8,8,20,6,1,3,8,10,25,LLLDLLDLLLWD,0,2,4,4,13,LWDLL,LLLDLD
+Parma,Juventus,0-4,https://www.besoccer.com/match/parma-fc/juventus-fc/202194076,2021,13,serie_a,20,30,2,0,4,15,12,2,6,4,12,19,LLWLDDDLWDDD,1,4,1,3,4,3,24,6,6,0,23,11,WDWDDWDWDWWD,2,4,0,12,7,LWDDDD,DDWDDW
+Torino,Bologna,1-1,https://www.besoccer.com/match/torino-fc/bologna/202194086,2021,13,serie_a,20,30,1,1,1,19,6,1,3,8,20,30,LLWLDLDLDLLL,0,2,4,11,16,13,13,4,1,7,18,24,LWLLLWLWWLLD,1,1,4,6,11,LLLDDL,LLLWLD
+Benevento,Genoa,2-0,https://www.besoccer.com/match/benevento-calcio/genoa/202194055,2021,13,serie_a,20,30,0,2,0,14,12,3,3,6,13,23,LWWLLLLWDDLD,1,2,3,6,12,18,7,1,4,7,12,24,WLLDLDLLLDLD,0,3,2,2,9,LWLLDD,LDDLD
+Cagliari,Udinese,1-1,https://www.besoccer.com/match/cagliari/udinese/202194059,2021,13,serie_a,20,30,1,1,1,12,13,3,4,5,18,23,DLLWWLWLDDLD,2,1,2,9,9,10,15,4,3,5,14,15,LLLWLLDWWDWD,2,1,2,8,7,LWWDL,LLDWW
+Inter,Spezia,2-1,https://www.besoccer.com/match/internazionale/asd-spezia/202194069,2021,13,serie_a,20,30,0,2,1,2,27,8,3,1,30,15,WWDLWDDWWWWW,4,1,1,15,10,16,11,2,5,5,17,25,WLLDDLWDDLLD,2,2,2,10,11,WLDWWW,WLDWDL
+Sassuolo,Milan,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/milan/202194082,2021,13,serie_a,20,30,2,1,2,6,23,6,5,1,22,13,DWWWDWDWLDWD,2,3,1,9,8,1,28,8,4,0,27,13,WWWWDWDWWWDD,5,1,0,13,6,DWDDLW,WWWWWD
+Atalanta,Roma,4-1,https://www.besoccer.com/match/atalanta/roma/202194051,2021,13,serie_a,20,30,0,4,1,8,19,5,4,3,23,18,WWWLLWDDLDWD,2,1,2,10,8,4,24,7,3,2,27,17,LDWWDWWWLDWW,3,1,2,12,12,WLDLW,LWDWLW
+Lazio,Napoli,2-0,https://www.besoccer.com/match/lazio/napoli/202194072,2021,13,serie_a,20,30,0,2,0,9,18,5,3,4,18,20,LWDLWWDWLWLD,1,2,3,7,12,5,24,8,0,4,27,11,WWLWWLWLWWWL,4,0,2,10,4,LDWDLL,WLWWWL
+Crotone,Parma,2-1,https://www.besoccer.com/match/fc-crotone/parma-fc/202194026,2021,14,serie_a,20,30,0,2,1,20,6,1,3,9,11,28,LLLDLLDLLLWDL,1,1,4,6,12,15,12,2,6,5,12,23,LLWLDDDLWDDDL,1,2,3,9,15,LDLLLW,LLDLWD
+Juventus,Fiorentina,0-3,https://www.besoccer.com/match/juventus-fc/fiorentina/202194030,2021,14,serie_a,20,30,2,0,3,3,27,7,6,0,27,11,WDWDDWDWDWWDW,4,2,0,11,4,17,11,2,5,6,13,21,WLLDWLDLLDLDD,0,2,4,5,13,WWDWWD,LDLDLL
+Hellas Verona,Inter,1-2,https://www.besoccer.com/match/hellas-verona-fc/internazionale/202194053,2021,14,serie_a,20,30,2,1,2,9,20,5,5,3,17,12,WWLDDWDLWDWLD,3,2,2,9,6,2,30,9,3,1,32,16,WWDLWDDWWWWWW,4,2,0,15,5,WWDWLDL,WDWDWW
+Bologna,Atalanta,2-2,https://www.besoccer.com/match/bologna/atalanta/202194020,2021,14,serie_a,20,30,1,2,2,14,14,4,2,7,19,25,LWLLLWLWWLLDD,3,0,3,12,13,7,22,6,4,3,27,19,WWWLLWDDLDWDW,3,3,1,13,10,WLWLWL,WWLWDDD
+Milan,Lazio,3-2,https://www.besoccer.com/match/milan/lazio/202194033,2021,14,serie_a,20,30,0,3,2,1,31,9,4,0,29,14,WWWWDWDWWWDDW,3,3,0,14,7,8,21,6,3,4,20,20,LWDLWWDWLWLDW,4,1,1,11,8,WWDDWD,WLWWWD
+Napoli,Torino,1-1,https://www.besoccer.com/match/napoli/torino-fc/202194037,2021,14,serie_a,20,30,1,1,1,5,24,8,0,5,27,13,WWLWWLWLWWWLL,4,0,2,17,7,19,7,1,4,8,21,31,LLWLDLDLDLLLD,1,1,4,9,14,WWLLWW,LWDLLL
+Roma,Cagliari,3-2,https://www.besoccer.com/match/roma/cagliari/202194039,2021,14,serie_a,20,30,0,3,2,4,24,7,3,3,28,21,LDWWDWWWLDWWL,4,2,0,15,5,13,14,3,5,5,19,24,DLLWWLWLDDLDD,1,3,3,9,14,DWWWDW,DLWLLDD
+Sampdoria,Sassuolo,2-3,https://www.besoccer.com/match/sampdoria/us-sassuolo-calcio/202194042,2021,14,serie_a,20,30,2,2,3,10,17,5,2,6,21,21,LLWWWDLLDLLWW,2,1,3,11,9,6,23,6,5,2,23,15,DWWWDWDWLDWDL,4,2,0,13,5,LWDLLW,WWWWDD
+Spezia,Genoa,1-2,https://www.besoccer.com/match/asd-spezia/genoa/202194046,2021,14,serie_a,20,30,2,1,2,16,11,2,5,6,18,27,WLLDDLWDDLLDL,0,3,3,7,14,18,7,1,4,8,12,26,WLLDLDLLLDLDL,0,3,3,2,11,LDLDLD,LDDLDL
+Udinese,Benevento,0-2,https://www.besoccer.com/match/udinese/benevento-calcio/202194049,2021,14,serie_a,20,30,2,0,2,11,16,4,4,5,15,16,LLLWLLDWWDWDD,2,2,3,6,8,12,15,4,3,6,15,23,LWWLLLLWDDLDW,2,1,3,7,11,LLWLWDD,WLLWDL
+Inter,Crotone,6-2,https://www.besoccer.com/match/internazionale/fc-crotone/202194024,2021,15,serie_a,20,30,0,6,2,2,33,10,3,1,34,17,WWDLWDDWWWWWWW,5,1,1,17,11,19,9,2,3,9,13,29,LLLDLLDLLLWDLW,0,2,5,5,16,WLDWWWW,LLLDLDL
+Atalanta,Sassuolo,5-1,https://www.besoccer.com/match/atalanta/us-sassuolo-calcio/202194006,2021,15,serie_a,20,30,0,5,1,7,23,6,5,3,29,21,WWWLLWDDLDWDWD,3,1,2,14,9,5,26,7,5,2,26,17,DWWWDWDWLDWDLW,5,2,0,16,7,WLDLWW,WWWWDDW
+Cagliari,Napoli,1-4,https://www.besoccer.com/match/cagliari/napoli/202194014,2021,15,serie_a,20,30,2,1,4,14,14,3,5,6,21,27,DLLWWLWLDDLDDL,2,2,2,10,10,6,25,8,1,5,28,14,WWLWWLWLWWWLLD,4,0,3,10,6,LWWDLD,WLWWWLL
+Fiorentina,Bologna,0-0,https://www.besoccer.com/match/fiorentina/bologna/202194017,2021,15,serie_a,20,30,1,0,0,15,14,3,5,6,16,21,WLLDWLDLLDLDDW,2,3,2,8,8,13,15,4,3,7,21,27,LWLLLWLWWLLDDD,1,2,4,7,12,WLWLDDD,LLLWLDD
+Genoa,Lazio,1-1,https://www.besoccer.com/match/genoa/lazio/202194019,2021,15,serie_a,20,30,1,1,1,18,10,2,4,8,14,27,WLLDLDLLLDLDLW,1,1,5,10,15,8,21,6,3,5,22,23,LWDLWWDWLWLDWL,4,1,2,13,11,WLLLLLD,WLWWWDL
+Parma,Torino,0-3,https://www.besoccer.com/match/parma-fc/torino-fc/202194034,2021,15,serie_a,20,30,2,0,3,16,12,2,6,6,13,25,LLWLDDDLWDDDLL,1,4,2,3,8,20,8,1,5,8,22,32,LLWLDLDLDLLLDD,1,2,4,10,15,LWDDDDL,LWDLLLD
+Roma,Sampdoria,1-0,https://www.besoccer.com/match/roma/sampdoria/202194036,2021,15,serie_a,20,30,0,1,0,4,27,8,3,3,31,23,LDWWDWWWLDWWLW,5,2,0,18,7,11,17,5,2,7,23,24,LLWWWDLLDLLWWL,3,1,3,10,12,DWWWDWW,LWWLDLW
+Spezia,Hellas Verona,0-1,https://www.besoccer.com/match/asd-spezia/hellas-verona-fc/202194043,2021,15,serie_a,20,30,2,0,1,17,11,2,5,7,19,29,WLLDDLWDDLLDLL,0,3,4,8,16,9,20,5,5,4,18,14,WWLDDWDLWDWLDL,2,3,1,8,6,LDLDLDL,LDDWWD
+Benevento,Milan,0-2,https://www.besoccer.com/match/benevento-calcio/milan/202194010,2021,15,serie_a,20,30,2,0,2,10,18,5,3,6,17,23,LWWLLLLWDDLDWW,2,2,3,8,12,1,34,10,4,0,32,16,WWWWDWDWWWDDWW,6,1,0,15,7,LWLLDDW,WWWWWDW
+Juventus,Udinese,4-1,https://www.besoccer.com/match/juventus-fc/udinese/202194029,2021,15,serie_a,20,30,0,4,1,3,27,7,6,1,27,14,WDWDDWDWDWWDWL,4,2,1,11,7,12,16,4,4,6,15,18,LLLWLLDWWDWDDL,2,2,2,9,8,WWDWWDL,LLDWWD
+Cagliari,Benevento,1-2,https://www.besoccer.com/match/cagliari/benevento-calcio/202193977,2021,16,serie_a,20,30,2,1,2,15,14,3,5,7,22,31,DLLWWLWLDDLDDLL,2,2,3,11,14,10,18,5,3,7,17,25,LWWLLLLWDDLDWWL,3,1,3,9,11,LWWDLDL,WLLWDLW
+Atalanta,Parma,3-0,https://www.besoccer.com/match/atalanta/parma-fc/202193972,2021,16,serie_a,20,30,0,3,0,7,26,7,5,3,34,22,WWWLLWDDLDWDWDW,4,1,2,19,10,16,12,2,6,7,13,28,LLWLDDDLWDDDLLL,1,2,4,10,17,WLDLWWW,LLDLWDL
+Crotone,Roma,1-3,https://www.besoccer.com/match/fc-crotone/roma/202193980,2021,16,serie_a,20,30,2,1,3,20,9,2,3,10,15,35,LLLDLLDLLLWDLWL,2,1,4,8,13,4,30,9,3,3,32,23,LDWWDWWWLDWWLWW,3,1,3,13,16,LDLLLWW,LWDWLWL
+Lazio,Fiorentina,2-1,https://www.besoccer.com/match/lazio/fiorentina/202193985,2021,16,serie_a,20,30,0,2,1,9,22,6,4,5,23,24,LWDLWWDWLWLDWLD,2,2,3,9,12,14,15,3,6,6,16,21,WLLDWLDLLDLDDWD,1,2,4,8,13,LDWDLLW,LDLDLLW
+Sassuolo,Genoa,2-1,https://www.besoccer.com/match/us-sassuolo-calcio/genoa/202193995,2021,16,serie_a,20,30,0,2,1,6,26,7,5,3,27,22,DWWWDWDWLDWDLWL,2,3,2,10,10,18,11,2,5,8,15,28,WLLDLDLLLDLDLWD,1,3,3,4,12,DWDDLWL,LDDLDLW
+Torino,Hellas Verona,1-1,https://www.besoccer.com/match/torino-fc/hellas-verona-fc/202193999,2021,16,serie_a,20,30,1,1,1,19,11,2,5,8,25,32,LLWLDLDLDLLLDDW,0,3,4,12,17,8,23,6,5,4,19,14,WWLDDWDLWDWLDLW,3,3,1,9,6,LLLDDLD,LDDWWDW
+Bologna,Udinese,2-2,https://www.besoccer.com/match/bologna/udinese/202194007,2021,16,serie_a,20,30,1,2,2,13,16,4,4,7,21,27,LWLLLWLWWLLDDDD,3,1,3,14,15,12,16,4,4,7,16,22,LLLWLLDWWDWDDLL,2,2,3,10,12,WLWLWLD,LLDWWDL
+Sampdoria,Inter,2-1,https://www.besoccer.com/match/sampdoria/internazionale/202194012,2021,16,serie_a,20,30,0,2,1,11,17,5,2,8,23,25,LLWWWDLLDLLWWLL,2,1,4,13,12,2,36,11,3,1,40,19,WWDLWDDWWWWWWWW,5,2,0,17,6,LWDLLWL,WDWDWWW
+Napoli,Spezia,1-2,https://www.besoccer.com/match/napoli/asd-spezia/202193992,2021,16,serie_a,20,30,2,1,2,5,28,9,1,5,32,15,WWLWWLWLWWWLLDW,4,1,2,18,8,17,11,2,5,8,19,30,WLLDDLWDDLLDLLL,2,2,3,11,13,WWLLWWD,WLDWDLL
+Milan,Juventus,1-3,https://www.besoccer.com/match/milan/juventus-fc/202193989,2021,16,serie_a,20,30,2,1,3,1,37,11,4,0,34,16,WWWWDWDWWWDDWWW,4,3,0,17,9,3,30,8,6,1,31,15,WDWDDWDWDWWDWLW,3,4,0,16,7,WWDDWDW,DDWDDWW
+Benevento,Atalanta,1-4,https://www.besoccer.com/match/benevento-calcio/atalanta/202193960,2021,17,serie_a,20,30,2,1,4,10,21,6,3,7,19,26,LWWLLLLWDDLDWWLW,2,2,4,8,14,6,29,8,5,3,37,22,WWWLLWDDLDWDWDWW,3,4,1,15,12,LWLLDDWL,WWLWDDDD
+Genoa,Bologna,2-0,https://www.besoccer.com/match/genoa/bologna/202193966,2021,17,serie_a,20,30,0,2,0,19,11,2,5,9,16,30,WLLDLDLLLDLDLWDL,1,2,5,11,16,13,17,4,5,7,23,29,LWLLLWLWWLLDDDDD,1,3,4,7,12,WLLLLLDD,LLLWLDDD
+Milan,Torino,2-0,https://www.besoccer.com/match/milan/torino-fc/202193970,2021,17,serie_a,20,30,0,2,0,1,37,11,4,1,35,19,WWWWDWDWWWDDWWWL,4,3,1,18,12,18,12,2,6,8,26,33,LLWLDLDLDLLLDDWD,2,2,4,13,15,WWDDWDWL,LWDLLLDW
+Roma,Inter,2-2,https://www.besoccer.com/match/roma/internazionale/202193978,2021,17,serie_a,20,30,1,2,2,4,33,10,3,3,35,24,LDWWDWWWLDWWLWWW,6,2,0,19,7,2,36,11,3,2,41,21,WWDLWDDWWWWWWWWL,5,2,1,18,8,DWWWDWWW,WDWDWWWL
+Parma,Lazio,0-2,https://www.besoccer.com/match/parma-fc/lazio/202193975,2021,17,serie_a,20,30,2,0,2,17,12,2,6,8,13,31,LLWLDDDLWDDDLLLL,1,4,3,3,11,8,25,7,4,5,25,25,LWDLWWDWLWLDWLDW,4,2,2,14,12,LWDDDDLL,WLWWWDLD
+Udinese,Napoli,1-2,https://www.besoccer.com/match/udinese/napoli/202193994,2021,17,serie_a,20,30,2,1,2,12,17,4,5,7,18,24,LLLWLLDWWDWDDLLD,2,2,4,6,10,7,28,9,1,6,33,17,WWLWWLWLWWWLLDWL,5,0,3,14,7,LLWLWDDL,WLWWWLLW
+Hellas Verona,Crotone,2-1,https://www.besoccer.com/match/hellas-verona-fc/fc-crotone/202194001,2021,17,serie_a,20,30,0,2,1,9,24,6,6,4,20,15,WWLDDWDLWDWLDLWD,3,2,3,10,8,20,9,2,3,11,16,38,LLLDLLDLLLWDLWLL,0,2,6,7,22,WWDWLDLL,LLLDLDLL
+Fiorentina,Cagliari,1-0,https://www.besoccer.com/match/fiorentina/cagliari/202193963,2021,17,serie_a,20,30,0,1,0,14,15,3,6,7,17,23,WLLDWLDLLDLDDWDL,2,4,2,8,8,15,14,3,5,8,23,33,DLLWWLWLDDLDDLLL,1,3,4,11,17,WLWLDDDD,DLWLLDDL
+Juventus,Sassuolo,3-1,https://www.besoccer.com/match/juventus-fc/us-sassuolo-calcio/202193969,2021,17,serie_a,20,30,0,3,1,3,33,9,6,1,34,16,WDWDDWDWDWWDWLWW,5,2,1,15,8,5,29,8,5,3,29,23,DWWWDWDWLDWDLWLW,5,2,1,17,12,WWDWWDLW,WWWWDDWL
+Spezia,Sampdoria,2-1,https://www.besoccer.com/match/asd-spezia/sampdoria/202193981,2021,17,serie_a,20,30,0,2,1,16,14,3,5,8,21,31,WLLDDLWDDLLDLLLW,0,3,5,8,17,11,20,6,2,8,25,26,LLWWWDLLDLLWWLLW,3,1,4,10,13,LDLDLDLL,LWWLDLWL
+Lazio,Roma,3-0,https://www.besoccer.com/match/lazio/roma/202193956,2021,18,serie_a,20,30,0,3,0,8,28,8,4,5,27,25,LWDLWWDWLWLDWLDWW,3,2,3,11,13,4,34,10,4,3,37,26,LDWWDWWWLDWWLWWWD,4,1,3,16,17,LDWDLLWW,LWDWLWLW
+Bologna,Hellas Verona,1-0,https://www.besoccer.com/match/bologna/hellas-verona-fc/202193945,2021,18,serie_a,20,30,0,1,0,14,17,4,5,8,23,31,LWLLLWLWWLLDDDDDL,3,2,3,16,17,9,27,7,6,4,22,16,WWLDDWDLWDWLDLWDW,3,4,1,10,7,WLWLWLDD,LDDWWDWD
+Torino,Spezia,0-0,https://www.besoccer.com/match/torino-fc/asd-spezia/202193967,2021,18,serie_a,20,30,1,0,0,19,12,2,6,9,26,35,LLWLDLDLDLLLDDWDL,0,4,4,13,18,15,17,4,5,8,23,32,WLLDDLWDDLLDLLLWW,3,2,3,13,14,LLLDDLDD,WLDWDLLW
+Sampdoria,Udinese,2-1,https://www.besoccer.com/match/sampdoria/udinese/202193961,2021,18,serie_a,20,30,0,2,1,11,20,6,2,9,26,28,LLWWWDLLDLLWWLLWL,3,1,4,15,13,13,17,4,5,8,19,26,LLLWLLDWWDWDDLLDL,2,3,3,12,14,LWDLLWLW,LLDWWDLD
+Napoli,Fiorentina,6-0,https://www.besoccer.com/match/napoli/fiorentina/202193958,2021,18,serie_a,20,30,0,6,0,6,31,10,1,6,35,18,WWLWWLWLWWWLLDWLW,4,1,3,19,10,12,18,4,6,7,18,23,WLLDWLDLLDLDDWDLW,1,2,5,9,15,WWLLWWDL,LDLDLLWL
+Crotone,Benevento,4-1,https://www.besoccer.com/match/fc-crotone/benevento-calcio/202193951,2021,18,serie_a,20,30,0,4,1,20,9,2,3,12,17,40,LLLDLLDLLLWDLWLLL,2,1,5,9,16,10,21,6,3,8,20,30,LWWLLLLWDDLDWWLWL,4,1,3,11,12,LDLLLWWL,WLLWDLWW
+Sassuolo,Parma,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/parma-fc/202193964,2021,18,serie_a,20,30,1,1,1,7,29,8,5,4,30,26,DWWWDWDWLDWDLWLWL,3,3,2,12,11,18,12,2,6,9,13,33,LLWLDDDLWDDDLLLLL,1,2,5,10,20,DWDDLWLW,LLDLWDLL
+Atalanta,Genoa,0-0,https://www.besoccer.com/match/atalanta/genoa/202193942,2021,18,serie_a,20,30,1,0,0,5,32,9,5,3,41,23,WWWLLWDDLDWDWDWWW,5,1,2,22,10,17,14,3,5,9,18,30,WLLDLDLLLDLDLWDLW,1,3,4,5,14,WLDLWWWW,LDDLDLWL
+Inter,Juventus,2-0,https://www.besoccer.com/match/internazionale/juventus-fc/202193954,2021,18,serie_a,20,30,0,2,0,2,37,11,4,2,43,23,WWDLWDDWWWWWWWWLD,6,1,1,23,13,3,36,10,6,1,37,17,WDWDDWDWDWWDWLWWW,4,4,0,19,8,WLDWWWWW,DDWDDWWW
+Cagliari,Milan,0-2,https://www.besoccer.com/match/cagliari/milan/202193948,2021,18,serie_a,20,30,2,0,2,16,14,3,5,9,23,34,DLLWWLWLDDLDDLLLL,2,2,4,12,16,1,40,12,4,1,37,19,WWWWDWDWWWDDWWWLW,7,1,0,17,7,LWWDLDLL,WWWWWDWW
+Benevento,Torino,2-2,https://www.besoccer.com/match/benevento-calcio/torino-fc/202193916,2021,19,serie_a,20,30,1,2,2,11,21,6,3,9,21,34,LWWLLLLWDDLDWWLWLL,2,2,5,9,18,19,13,2,7,9,26,35,LLWLDLDLDLLLDDWDLD,2,2,5,13,17,LWLLDDWLL,LWDLLLDWL
+Roma,Spezia,4-3,https://www.besoccer.com/match/roma/asd-spezia/202193947,2021,19,serie_a,20,30,0,4,3,4,34,10,4,4,37,29,LDWWDWWWLDWWLWWWDL,6,3,0,21,9,14,18,4,6,8,23,32,WLLDDLWDDLLDLLLWWD,3,3,3,13,14,DWWWDWWWD,WLDWDLLWD
+Milan,Atalanta,0-3,https://www.besoccer.com/match/milan/atalanta/202193941,2021,19,serie_a,20,30,2,0,3,1,43,13,4,1,39,19,WWWWDWDWWWDDWWWLWW,5,3,1,20,12,6,33,9,6,3,41,23,WWWLLWDDLDWDWDWWWD,4,4,1,19,13,WWDDWDWLW,WWLWDDDDW
+Udinese,Inter,0-0,https://www.besoccer.com/match/udinese/internazionale/202193949,2021,19,serie_a,20,30,1,0,0,15,17,4,5,9,20,28,LLLWLLDWWDWDDLLDLL,2,2,5,7,12,2,40,12,4,2,45,23,WWDLWDDWWWWWWWWLDW,5,3,1,20,10,LLWLWDDLL,WDWDWWWLD
+Fiorentina,Crotone,2-1,https://www.besoccer.com/match/fiorentina/fc-crotone/202193935,2021,19,serie_a,20,30,0,2,1,13,18,4,6,8,18,29,WLLDWLDLLDLDDWDLWL,3,4,2,9,8,20,12,3,3,12,21,41,LLLDLLDLLLWDLWLLLW,0,2,7,8,24,WLWLDDDDW,LLLDLDLLL
+Juventus,Bologna,2-0,https://www.besoccer.com/match/juventus-fc/bologna/202193939,2021,19,serie_a,20,30,0,2,0,3,36,10,6,2,37,19,WDWDDWDWDWWDWLWWWL,6,2,1,18,9,12,20,5,5,8,24,31,LWLLLWLWWLLDDDDDLW,1,3,5,7,14,WWDWWDLWW,LLLWLDDDL
+Genoa,Cagliari,1-0,https://www.besoccer.com/match/genoa/cagliari/202193937,2021,19,serie_a,20,30,0,1,0,16,15,3,6,9,18,30,WLLDLDLLLDLDLWDLWD,2,2,5,13,16,17,14,3,5,10,23,36,DLLWWLWLDDLDDLLLLL,1,3,5,11,18,WLLLLLDDW,DLWLLDDLL
+Hellas Verona,Napoli,3-1,https://www.besoccer.com/match/hellas-verona-fc/napoli/202193952,2021,19,serie_a,20,30,0,3,1,9,27,7,6,5,22,17,WWLDDWDLWDWLDLWDWL,4,2,3,12,9,5,34,11,1,6,41,18,WWLWWLWLWWWLLDWLWW,6,0,3,16,8,WWDWLDLLW,WLWWWLLWW
+Lazio,Sassuolo,2-1,https://www.besoccer.com/match/lazio/us-sassuolo-calcio/202193940,2021,19,serie_a,20,30,0,2,1,7,31,9,4,5,30,25,LWDLWWDWLWLDWLDWWW,4,2,3,14,13,8,30,8,6,4,31,27,DWWWDWDWLDWDLWLWLD,5,2,2,18,15,LDWDLLWWW,WWWWDDWLL
+Parma,Sampdoria,0-2,https://www.besoccer.com/match/parma-fc/sampdoria/202193944,2021,19,serie_a,20,30,2,0,2,18,13,2,7,9,14,34,LLWLDDDLWDDDLLLLLD,1,4,4,3,13,10,23,7,2,9,28,29,LLWWWDLLDLLWWLLWLW,3,1,5,11,15,LWDDDDLLL,LWWLDLWLL
+Torino,Fiorentina,1-1,https://www.besoccer.com/match/torino-fc/fiorentina/202194109,2021,20,serie_a,20,30,1,1,1,18,14,2,8,9,28,37,LLWLDLDLDLLLDDWDLDD,0,5,4,13,18,12,21,5,6,8,20,30,WLLDWLDLLDLDDWDLWLW,1,2,6,9,21,LLLDDLDDD,LDLDLLWLL
+Bologna,Milan,1-2,https://www.besoccer.com/match/bologna/milan/202194113,2021,20,serie_a,20,30,2,1,2,13,20,5,5,9,24,33,LWLLLWLWWLLDDDDDLWL,4,2,3,17,17,1,43,13,4,2,39,22,WWWWDWDWWWDDWWWLWWL,8,1,0,19,7,WLWLWLDDW,WWWWWDWWW
+Sampdoria,Juventus,0-2,https://www.besoccer.com/match/sampdoria/juventus-fc/202194111,2021,20,serie_a,20,30,2,0,2,10,26,8,2,9,30,29,LLWWWDLLDLLWWLLWLWW,4,1,4,17,14,3,39,11,6,2,39,19,WDWDDWDWDWWDWLWWWLW,4,4,1,19,10,LWDLLWLWW,DDWDDWWWL
+Inter,Benevento,4-0,https://www.besoccer.com/match/internazionale/benevento-calcio/202194108,2021,20,serie_a,20,30,0,4,0,2,41,12,5,2,45,23,WWDLWDDWWWWWWWWLDWD,7,1,1,25,13,11,22,6,4,9,23,36,LWWLLLLWDDLDWWLWLLD,4,1,4,12,16,WLDWWWWWW,WLLWDLWWL
+Spezia,Udinese,0-1,https://www.besoccer.com/match/asd-spezia/udinese/202194116,2021,20,serie_a,20,30,2,0,1,14,18,4,6,9,26,36,WLLDDLWDDLLDLLLWWDL,1,3,5,10,18,15,18,4,6,9,20,28,LLLWLLDWWDWDDLLDLLD,2,3,4,13,16,LDLDLDLLW,LLDWWDLDL
+Crotone,Genoa,0-3,https://www.besoccer.com/match/fc-crotone/genoa/202194110,2021,20,serie_a,20,30,2,0,3,20,12,3,3,13,22,43,LLLDLLDLLLWDLWLLLWL,3,1,5,13,17,16,18,4,6,9,19,30,WLLDLDLLLDLDLWDLWDW,1,4,4,5,14,LDLLLWWLW,LDDLDLWLD
+Atalanta,Lazio,1-3,https://www.besoccer.com/match/atalanta/lazio/202194112,2021,20,serie_a,20,30,2,1,3,5,36,10,6,3,44,23,WWWLLWDDLDWDWDWWWDW,5,2,2,22,10,7,34,10,4,5,32,26,LWDLWWDWLWLDWLDWWWW,5,2,2,16,12,WLDLWWWWD,WLWWWDLDW
+Cagliari,Sassuolo,1-1,https://www.besoccer.com/match/cagliari/us-sassuolo-calcio/202194115,2021,20,serie_a,20,30,1,1,1,17,14,3,5,11,23,37,DLLWWLWLDDLDDLLLLLL,2,2,5,12,18,8,30,8,6,5,32,29,DWWWDWDWLDWDLWLWLDL,5,2,3,19,17,LWWDLDLLL,WWWWDDWLLL
+Napoli,Parma,2-0,https://www.besoccer.com/match/napoli/parma-fc/202194114,2021,20,serie_a,20,30,0,2,0,6,34,11,1,7,42,21,WWLWWLWLWWWLLDWLWWL,5,1,3,25,10,19,13,2,7,10,14,36,LLWLDDDLWDDDLLLLLDL,1,3,5,11,21,WWLLWWDLW,LLDLWDLLD
+Roma,Hellas Verona,3-1,https://www.besoccer.com/match/roma/hellas-verona-fc/202194117,2021,20,serie_a,20,30,0,3,1,4,37,11,4,4,41,32,LDWWDWWWLDWWLWWWDLW,7,3,0,25,12,9,30,8,6,5,25,18,WWLDDWDLWDWLDLWDWLW,3,4,2,10,8,DWWWDWWWDW,LDDWWDWDL
+Fiorentina,Inter,0-2,https://www.besoccer.com/match/fiorentina/internazionale/202194121,2021,21,serie_a,20,30,2,0,2,11,22,5,7,8,21,31,WLLDWLDLLDLDDWDLWLWD,4,4,2,11,9,2,44,13,5,2,49,23,WWDLWDDWWWWWWWWLDWDW,5,4,1,20,10,WLWLDDDDWW,WDWDWWWLDD
+Sassuolo,Spezia,1-2,https://www.besoccer.com/match/us-sassuolo-calcio/asd-spezia/202194125,2021,21,serie_a,20,30,2,1,2,8,31,8,7,5,33,30,DWWWDWDWLDWDLWLWLDLD,3,4,2,13,12,16,18,4,6,10,26,37,WLLDDLWDDLLDLLLWWDLL,3,3,4,16,18,DWDDLWLWD,WLDWDLLWDL
+Atalanta,Torino,3-3,https://www.besoccer.com/match/atalanta/torino-fc/202194126,2021,21,serie_a,20,30,1,3,3,7,36,10,6,4,45,26,WWWLLWDDLDWDWDWWWDWL,5,2,3,23,13,18,15,2,9,9,29,38,LLWLDLDLDLLLDDWDLDDD,2,3,5,15,19,WLDLWWWWDL,LWDLLLDWLD
+Juventus,Roma,2-0,https://www.besoccer.com/match/juventus-fc/roma/202194123,2021,21,serie_a,20,30,0,2,0,3,42,12,6,2,41,19,WDWDDWDWDWWDWLWWWLWW,7,2,1,20,9,4,40,12,4,4,44,33,LDWWDWWWLDWWLWWWDLWW,4,1,4,16,20,WWDWWDLWWW,LWDWLWLWL
+Genoa,Napoli,2-1,https://www.besoccer.com/match/genoa/napoli/202194122,2021,21,serie_a,20,30,0,2,1,14,21,5,6,9,22,30,WLLDLDLLLDLDLWDLWDWW,3,2,5,14,16,5,37,12,1,7,44,21,WWLWWLWLWWWLLDWLWWLW,6,0,4,17,11,WLLLLLDDWW,WLWWWLLWWL
+Benevento,Sampdoria,1-1,https://www.besoccer.com/match/benevento-calcio/sampdoria/202194124,2021,21,serie_a,20,30,1,1,1,12,22,6,4,10,23,40,LWWLLLLWDDLDWWLWLLDL,2,3,5,11,20,10,26,8,2,10,30,31,LLWWWDLLDLLWWLLWLWWL,4,1,5,13,15,LWLLDDWLLD,LWWLDLWLLW
+Milan,Crotone,4-0,https://www.besoccer.com/match/milan/fc-crotone/202194120,2021,21,serie_a,20,30,0,4,0,1,46,14,4,2,41,23,WWWWDWDWWWDDWWWLWWLW,5,3,2,20,15,20,12,3,3,14,22,46,LLLDLLDLLLWDLWLLLWLL,0,2,8,9,26,WWDDWDWLWL,LLLDLDLLLL
+Udinese,Hellas Verona,2-0,https://www.besoccer.com/match/udinese/hellas-verona-fc/202194127,2021,21,serie_a,20,30,0,2,0,13,21,5,6,9,21,28,LLLWLLDWWDWDDLLDLLDW,2,3,5,7,12,9,30,8,6,6,26,21,WWLDDWDLWDWLDLWDWLWL,3,4,3,11,11,LLWLWDDLLD,LDDWWDWDLL
+Parma,Bologna,0-3,https://www.besoccer.com/match/parma-fc/bologna/202194118,2021,21,serie_a,20,30,2,0,3,19,13,2,7,11,14,38,LLWLDDDLWDDDLLLLLDLL,1,4,5,3,15,15,20,5,5,10,25,35,LWLLLWLWWLLDDDDDLWLL,1,3,6,7,16,LWDDDDLLLL,LLLWLDDDLL
+Lazio,Cagliari,1-0,https://www.besoccer.com/match/lazio/cagliari/202194119,2021,21,serie_a,20,30,0,1,0,6,37,11,4,5,35,27,LWDLWWDWLWLDWLDWWWWW,5,2,3,16,14,17,15,3,6,11,24,38,DLLWWLWLDDLDDLLLLLLD,1,3,6,11,19,LDWDLLWWWW,DLWLLDDLLL
+Bologna,Benevento,1-1,https://www.besoccer.com/match/bologna/benevento-calcio/202194129,2021,22,serie_a,20,30,1,1,1,13,23,6,5,10,28,35,LWLLLWLWWLLDDDDDLWLLW,4,2,4,18,19,14,23,6,5,10,24,41,LWWLLLLWDDLDWWLWLLDLD,4,1,5,12,20,WLWLWLDDWL,WLLWDLWWLL
+Torino,Genoa,0-0,https://www.besoccer.com/match/torino-fc/genoa/202194131,2021,22,serie_a,20,30,1,0,0,17,16,2,10,9,32,41,LLWLDLDLDLLLDDWDLDDDD,0,6,4,14,19,12,24,6,6,9,24,31,WLLDLDLLLDLDLWDLWDWWW,2,4,4,8,14,LLLDDLDDDD,LDDLDLWLDW
+Napoli,Juventus,1-0,https://www.besoccer.com/match/napoli/juventus-fc/202194132,2021,22,serie_a,20,30,0,1,0,6,37,12,1,8,45,23,WWLWWLWLWWWLLDWLWWLWL,6,1,3,27,10,3,45,13,6,2,43,19,WDWDDWDWDWWDWLWWWLWWW,5,4,1,21,10,WWLLWWDLWW,DDWDDWWWLW
+Spezia,Milan,2-0,https://www.besoccer.com/match/asd-spezia/milan/202194134,2021,22,serie_a,20,30,0,2,0,16,21,5,6,10,28,38,WLLDDLWDDLLDLLLWWDLLW,1,3,6,10,19,1,49,15,4,2,45,23,WWWWDWDWWWDDWWWLWWLWW,9,1,0,21,8,LDLDLDLLWL,WWWWWDWWWW
+Roma,Udinese,3-0,https://www.besoccer.com/match/roma/udinese/202194137,2021,22,serie_a,20,30,0,3,0,4,40,12,4,5,44,35,LDWWDWWWLDWWLWWWDLWWL,8,3,0,28,13,11,24,6,6,9,23,28,LLLWLLDWWDWDDLLDLLDWW,3,3,4,14,16,DWWWDWWWDWW,LLDWWDLDLW
+Cagliari,Atalanta,0-1,https://www.besoccer.com/match/cagliari/atalanta/202194128,2021,22,serie_a,20,30,2,0,1,18,15,3,6,12,24,39,DLLWWLWLDDLDDLLLLLLDL,2,3,5,13,19,7,37,10,7,4,48,29,WWWLLWDDLDWDWDWWWDWLD,5,4,1,22,13,LWWDLDLLLD,WWLWDDDDWW
+Sampdoria,Fiorentina,2-1,https://www.besoccer.com/match/sampdoria/fiorentina/202194130,2021,22,serie_a,20,30,0,2,1,10,27,8,3,10,31,32,LLWWWDLLDLLWWLLWLWWLD,4,1,5,17,16,15,22,5,7,9,21,33,WLLDWLDLLDLDDWDLWLWDL,1,3,6,10,22,LWDLLWLWWL,LDLDLLWLLD
+Crotone,Sassuolo,1-2,https://www.besoccer.com/match/fc-crotone/us-sassuolo-calcio/202194136,2021,22,serie_a,20,30,2,1,2,20,12,3,3,15,22,50,LLLDLLDLLLWDLWLLLWLLL,3,1,6,13,20,8,31,8,7,6,34,32,DWWWDWDWLDWDLWLWLDLDL,5,3,3,20,18,LDLLLWWLWL,WWWWDDWLLLD
+Inter,Lazio,3-1,https://www.besoccer.com/match/internazionale/lazio/202194133,2021,22,serie_a,20,30,0,3,1,2,47,14,5,2,51,23,WWDLWDDWWWWWWWWLDWDWW,8,1,1,29,13,5,40,12,4,5,36,27,LWDLWWDWLWLDWLDWWWWWW,6,2,2,19,13,WLDWWWWWWW,WLWWWDLDWW
+Hellas Verona,Parma,2-1,https://www.besoccer.com/match/hellas-verona-fc/parma-fc/202194135,2021,22,serie_a,20,30,0,2,1,9,30,8,6,7,26,23,WWLDDWDLWDWLDLWDWLWLL,5,2,3,15,10,19,13,2,7,12,14,41,LLWLDDDLWDDDLLLLLDLLL,1,3,6,11,23,WWDWLDLLWW,LLDLWDLLDL
+Fiorentina,Spezia,3-0,https://www.besoccer.com/match/fiorentina/asd-spezia/202194144,2021,23,serie_a,20,30,0,3,0,16,22,5,7,10,22,35,WLLDWLDLLDLDDWDLWLWDLL,4,4,3,11,11,13,24,6,6,10,30,38,WLLDDLWDDLLDLLLWWDLLWW,4,3,4,18,19,WLWLDDDDWWL,WLDWDLLWDLW
+Cagliari,Torino,0-1,https://www.besoccer.com/match/cagliari/torino-fc/202194145,2021,23,serie_a,20,30,2,0,1,18,15,3,6,13,24,40,DLLWWLWLDDLDDLLLLLLDLL,2,3,6,13,20,17,17,2,11,9,32,41,LLWLDLDLDLLLDDWDLDDDDD,2,4,5,18,22,LWWDLDLLLDL,LWDLLLDWLDD
+Lazio,Sampdoria,1-0,https://www.besoccer.com/match/lazio/sampdoria/202194143,2021,23,serie_a,20,30,0,1,0,5,40,12,4,6,37,30,LWDLWWDWLWLDWLDWWWWWWL,6,2,3,17,14,10,30,9,3,10,33,33,LLWWWDLLDLLWWLLWLWWLDW,4,2,5,14,16,LDWDLLWWWWW,LWWLDLWLLWD
+Genoa,Hellas Verona,2-2,https://www.besoccer.com/match/genoa/hellas-verona-fc/202194147,2021,23,serie_a,20,30,1,2,2,11,25,6,7,9,24,31,WLLDLDLLLDLDLWDLWDWWWD,4,2,5,16,17,9,33,9,6,7,28,24,WWLDDWDLWDWLDLWDWLWLLW,3,4,4,11,13,WLLLLLDDWWW,LDDWWDWDLLL
+Sassuolo,Bologna,1-1,https://www.besoccer.com/match/us-sassuolo-calcio/bologna/202194138,2021,23,serie_a,20,30,1,1,1,8,34,9,7,6,36,33,DWWWDWDWLDWDLWLWLDLDLW,3,4,3,14,14,15,24,6,6,10,29,36,LWLLLWLWWLLDDDDDLWLLWD,2,3,6,10,16,DWDDLWLWDL,LLLWLDDDLLW
+Parma,Udinese,2-2,https://www.besoccer.com/match/parma-fc/udinese/202194146,2021,23,serie_a,20,30,1,2,2,19,13,2,7,13,15,43,LLWLDDDLWDDDLLLLLDLLLL,1,4,6,3,18,14,24,6,6,10,23,31,LLLWLLDWWDWDDLLDLLDWWL,3,3,5,14,19,LWDDDDLLLLL,LLDWWDLDLWL
+Milan,Inter,0-3,https://www.besoccer.com/match/milan/internazionale/202194140,2021,23,serie_a,20,30,2,0,3,2,49,15,4,3,45,25,WWWWDWDWWWDDWWWLWWLWWL,6,3,2,24,15,1,50,15,5,2,54,24,WWDLWDDWWWWWWWWLDWDWWW,6,4,1,22,10,WWDDWDWLWLW,WDWDWWWLDDW
+Atalanta,Napoli,4-2,https://www.besoccer.com/match/atalanta/napoli/202194141,2021,23,serie_a,20,30,0,4,2,7,40,11,7,4,49,29,WWWLLWDDLDWDWDWWWDWLDW,5,3,3,26,16,6,40,13,1,8,46,23,WWLWWLWLWWWLLDWLWWLWLW,6,0,5,18,13,WLDLWWWWDLD,WLWWWLLWWLL
+Benevento,Roma,0-0,https://www.besoccer.com/match/benevento-calcio/roma/202194142,2021,23,serie_a,20,30,1,0,0,12,24,6,6,10,25,42,LWWLLLLWDDLDWWLWLLDLDD,2,4,5,12,21,4,43,13,4,5,47,35,LDWWDWWWLDWWLWWWDLWWLW,4,1,5,16,22,LWLLDDWLLDD,LWDWLWLWLL
+Juventus,Crotone,3-0,https://www.besoccer.com/match/juventus-fc/fc-crotone/202194139,2021,23,serie_a,20,30,0,3,0,3,45,13,6,3,43,20,WDWDDWDWDWWDWLWWWLWWWL,8,2,1,22,9,20,12,3,3,16,23,52,LLLDLLDLLLWDLWLLLWLLLL,0,2,9,9,30,WWDWWDLWWWW,LLLDLDLLLLL
+Spezia,Parma,2-2,https://www.besoccer.com/match/asd-spezia/parma-fc/202194156,2021,24,serie_a,20,30,1,2,2,16,24,6,6,11,30,41,WLLDDLWDDLLDLLLWWDLLWWL,2,3,6,12,19,19,14,2,8,13,17,45,LLWLDDDLWDDDLLLLLDLLLLD,1,3,7,12,25,LDLDLDLLWLW,LLDLWDLLDLL
+Bologna,Lazio,2-0,https://www.besoccer.com/match/bologna/lazio/202194154,2021,24,serie_a,20,30,0,2,0,14,25,6,7,10,30,37,LWLLLWLWWLLDDDDDLWLLWDD,4,3,4,19,20,5,43,13,4,6,38,30,LWDLWWDWLWLDWLDWWWWWWLW,6,2,3,20,16,WLWLWLDDWLD,WLWWWDLDWWL
+Hellas Verona,Juventus,1-1,https://www.besoccer.com/match/hellas-verona-fc/juventus-fc/202194153,2021,24,serie_a,20,30,1,1,1,9,34,9,7,7,30,26,WWLDDWDLWDWLDLWDWLWLLWD,6,2,3,17,11,3,48,14,6,3,46,20,WDWDDWDWDWWDWLWWWLWWWLW,5,4,2,21,11,WWDWLDLLWWW,DDWDDWWWLWL
+Sampdoria,Atalanta,0-2,https://www.besoccer.com/match/sampdoria/atalanta/202194148,2021,24,serie_a,20,30,2,0,2,10,30,9,3,11,33,34,LLWWWDLLDLLWWLLWLWWLDWL,5,1,5,19,17,6,43,12,7,4,53,31,WWWLLWDDLDWDWDWWWDWLDWW,6,4,1,23,13,LWDLLWLWWLW,WWLWDDDDWWW
+Crotone,Cagliari,0-2,https://www.besoccer.com/match/fc-crotone/cagliari/202194150,2021,24,serie_a,20,30,2,0,2,20,12,3,3,17,23,55,LLLDLLDLLLWDLWLLLWLLLLL,3,1,7,14,22,18,15,3,6,14,24,41,DLLWWLWLDDLDDLLLLLLDLLL,1,3,7,11,20,LDLLLWWLWLL,DLWLLDDLLLL
+Udinese,Fiorentina,1-0,https://www.besoccer.com/match/udinese/fiorentina/202194151,2021,24,serie_a,20,30,0,1,0,13,25,6,7,10,25,33,LLLWLLDWWDWDDLLDLLDWWLD,3,3,5,9,12,15,25,6,7,10,25,35,WLLDWLDLLDLDDWDLWLWDLLW,1,3,7,11,24,LLWLWDDLLDW,LDLDLLWLLDL
+Inter,Genoa,3-0,https://www.besoccer.com/match/internazionale/genoa/202194152,2021,24,serie_a,20,30,0,3,0,1,53,16,5,2,57,24,WWDLWDDWWWWWWWWLDWDWWWW,9,1,1,32,14,11,26,6,8,9,26,33,WLLDLDLLLDLDLWDLWDWWWDD,2,5,4,8,14,WLDWWWWWWWW,LDDLDLWLDWD
+Napoli,Benevento,2-0,https://www.besoccer.com/match/napoli/benevento-calcio/202194149,2021,24,serie_a,20,30,0,2,0,7,40,13,1,9,48,27,WWLWWLWLWWWLLDWLWWLWLWL,7,1,3,28,10,12,25,6,7,10,25,42,LWWLLLLWDDLDWWLWLLDLDDD,4,2,5,13,21,WWLLWWDLWWW,WLLWDLWWLLD
+Roma,Milan,1-2,https://www.besoccer.com/match/roma/milan/202194155,2021,24,serie_a,20,30,2,1,2,4,44,13,5,5,47,35,LDWWDWWWLDWWLWWWDLWWLWD,9,3,0,31,13,2,49,15,4,4,45,28,WWWWDWDWWWDDWWWLWWLWWLL,9,1,1,21,10,DWWWDWWWDWWW,WWWWWDWWWWL
+Torino,Sassuolo,3-2,https://www.besoccer.com/match/torino-fc/us-sassuolo-calcio/202194157,2021,24,serie_a,20,30,0,3,2,17,20,3,11,9,33,41,LLWLDLDLDLLLDDWDLDDDDDW,0,7,4,14,19,8,35,9,8,6,37,34,DWWWDWDWLDWDLWLWLDLDLWD,6,3,3,22,19,LLLDDLDDDDD,WWWWDDWLLLDW
+Juventus,Spezia,3-0,https://www.besoccer.com/match/juventus-fc/asd-spezia/202194164,2021,25,serie_a,20,30,0,3,0,3,49,14,7,3,47,21,WDWDDWDWDWWDWLWWWLWWWLWD,9,2,1,25,9,16,25,6,7,11,32,43,WLLDDLWDDLLDLLLWWDLLWWLD,4,3,5,18,22,WWDWWDLWWWWW,WLDWDLLWDLWL
+Sassuolo,Napoli,3-3,https://www.besoccer.com/match/us-sassuolo-calcio/napoli/202194161,2021,25,serie_a,20,30,1,3,3,8,35,9,8,7,39,37,DWWWDWDWLDWDLWLWLDLDLWDL,3,5,3,15,15,7,43,14,1,9,50,27,WWLWWLWLWWWLLDWLWWLWLWLW,6,0,6,20,17,DWDDLWLWDLD,WLWWWLLWWLLL
+Cagliari,Bologna,1-0,https://www.besoccer.com/match/cagliari/bologna/202194158,2021,25,serie_a,20,30,0,1,0,18,18,4,6,14,26,41,DLLWWLWLDDLDDLLLLLLDLLLW,2,3,7,13,21,12,28,7,7,10,32,37,LWLLLWLWWLLDDDDDLWLLWDDW,2,4,6,11,17,LWWDLDLLLDLL,LLLWLDDDLLWD
+Atalanta,Crotone,5-1,https://www.besoccer.com/match/atalanta/fc-crotone/202194159,2021,25,serie_a,20,30,0,5,1,4,46,13,7,4,55,31,WWWLLWDDLDWDWDWWWDWLDWWW,6,3,3,30,18,20,12,3,3,18,23,57,LLLDLLDLLLWDLWLLLWLLLLLL,0,2,10,9,33,WLDLWWWWDLDW,LLLDLDLLLLLL
+Fiorentina,Roma,1-2,https://www.besoccer.com/match/fiorentina/roma/202194162,2021,25,serie_a,20,30,2,1,2,15,25,6,7,11,25,36,WLLDWLDLLDLDDWDLWLWDLLWL,5,4,3,14,11,5,44,13,5,6,48,37,LDWWDWWWLDWWLWWWDLWWLWDL,4,2,5,16,22,WLWLDDDDWWLW,LWDWLWLWLLD
+Genoa,Sampdoria,1-1,https://www.besoccer.com/match/genoa/sampdoria/202194163,2021,25,serie_a,20,30,1,1,1,13,26,6,8,10,26,36,WLLDLDLLLDLDLWDLWDWWWDDL,4,3,5,18,19,10,30,9,3,12,33,36,LLWWWDLLDLLWWLLWLWWLDWLL,4,2,6,14,17,WLLLLLDDWWWD,LWWLDLWLLWDL
+Milan,Udinese,1-1,https://www.besoccer.com/match/milan/udinese/202194166,2021,25,serie_a,20,30,1,1,1,2,52,16,4,4,47,29,WWWWDWDWWWDDWWWLWWLWWLLW,6,3,3,24,18,11,28,7,7,10,26,33,LLLWLLDWWDWDDLLDLLDWWLDW,3,4,5,16,21,WWDDWDWLWLWL,LLDWWDLDLWLD
+Benevento,Hellas Verona,0-3,https://www.besoccer.com/match/benevento-calcio/hellas-verona-fc/202194167,2021,25,serie_a,20,30,2,0,3,14,25,6,7,11,25,44,LWWLLLLWDDLDWWLWLLDLDDDL,2,5,5,12,21,9,35,9,8,7,31,27,WWLDDWDLWDWLDLWDWLWLLWDD,3,5,4,13,15,LWLLDDWLLDDD,LDDWWDWDLLLD
+Parma,Inter,1-2,https://www.besoccer.com/match/parma-fc/internazionale/202194160,2021,25,serie_a,20,30,2,1,2,19,15,2,9,13,19,47,LLWLDDDLWDDDLLLLLDLLLLDD,1,5,6,5,20,1,56,17,5,2,60,24,WWDLWDDWWWWWWWWLDWDWWWWW,7,4,1,25,10,LWDDDDLLLLLD,WDWDWWWLDDWW
+Spezia,Benevento,1-1,https://www.besoccer.com/match/asd-spezia/benevento-calcio/202194169,2021,26,serie_a,20,30,1,1,1,16,25,6,7,12,32,46,WLLDDLWDDLLDLLLWWDLLWWLDL,2,4,6,14,21,14,25,6,7,12,25,47,LWWLLLLWDDLDWWLWLLDLDDDLL,4,2,6,13,23,LDLDLDLLWLWD,WLLWDLWWLLDL
+Udinese,Sassuolo,2-0,https://www.besoccer.com/match/udinese/us-sassuolo-calcio/202194176,2021,26,serie_a,20,30,0,2,0,11,29,7,8,10,27,34,LLLWLLDWWDWDDLLDLLDWWLDWD,4,3,5,10,12,9,36,9,9,7,42,40,DWWWDWDWLDWDLWLWLDLDLWDLD,6,3,4,24,22,LLWLWDDLLDWW,WWWWDDWLLLDWL
+Juventus,Lazio,3-1,https://www.besoccer.com/match/juventus-fc/lazio/202194173,2021,26,serie_a,20,30,0,3,1,3,52,15,7,3,50,21,WDWDDWDWDWWDWLWWWLWWWLWDW,10,2,1,28,9,7,43,13,4,7,38,32,LWDLWWDWLWLDWLDWWWWWWLWL,6,2,4,20,18,WWDWWDLWWWWWW,WLWWWDLDWWLL
+Roma,Genoa,1-0,https://www.besoccer.com/match/roma/genoa/202194172,2021,26,serie_a,20,30,0,1,0,5,47,14,5,6,50,38,LDWWDWWWLDWWLWWWDLWWLWDLW,9,3,1,32,15,13,27,6,9,10,27,37,WLLDLDLLLDLDLWDLWDWWWDDLD,2,5,5,8,17,DWWWDWWWDWWWL,LDDLDLWLDWDL
+Hellas Verona,Milan,0-2,https://www.besoccer.com/match/hellas-verona-fc/milan/202194174,2021,26,serie_a,20,30,2,0,2,8,38,10,8,7,34,27,WWLDDWDLWDWLDLWDWLWLLWDDW,6,3,3,18,12,2,53,16,5,4,48,30,WWWWDWDWWWDDWWWLWWLWWLLWD,10,1,1,23,11,WWDWLDLLWWWD,WWWWWDWWWWLW
+Fiorentina,Parma,3-3,https://www.besoccer.com/match/fiorentina/parma-fc/202194175,2021,26,serie_a,20,30,1,3,3,15,25,6,7,12,26,38,WLLDWLDLLDLDDWDLWLWDLLWLL,5,4,4,15,13,19,15,2,9,14,20,49,LLWLDDDLWDDDLLLLLDLLLLDDL,1,4,7,14,27,WLWLDDDDWWLWL,LLDLWDLLDLLD
+Crotone,Torino,4-2,https://www.besoccer.com/match/fc-crotone/torino-fc/202194177,2021,26,serie_a,20,30,0,4,2,20,12,3,3,19,24,62,LLLDLLDLLLWDLWLLLWLLLLLLL,3,1,8,14,24,17,23,4,11,9,36,43,LLWLDLDLDLLLDDWDLDDDDDWW,3,4,5,19,22,LDLLLWWLWLLL,LWDLLLDWLDDW
+Sampdoria,Cagliari,2-2,https://www.besoccer.com/match/sampdoria/cagliari/202194171,2021,26,serie_a,20,30,1,2,2,10,31,9,4,12,34,37,LLWWWDLLDLLWWLLWLWWLDWLLD,5,1,6,19,19,18,21,5,6,14,27,41,DLLWWLWLDDLDDLLLLLLDLLLWW,2,3,7,13,20,LWDLLWLWWLWL,DLWLLDDLLLLW
+Napoli,Bologna,3-1,https://www.besoccer.com/match/napoli/bologna/202194170,2021,26,serie_a,20,30,0,3,1,6,44,14,2,9,53,30,WWLWWLWLWWWLLDWLWWLWLWLWD,8,1,3,30,10,12,28,7,7,11,32,38,LWLLLWLWWLLDDDDDLWLLWDDWL,2,4,7,11,18,WWLLWWDLWWWW,LLLWLDDDLLWDL
+Inter,Atalanta,1-0,https://www.besoccer.com/match/internazionale/atalanta/202194168,2021,26,serie_a,20,30,0,1,0,1,59,18,5,2,62,25,WWDLWDDWWWWWWWWLDWDWWWWWW,10,1,1,35,14,4,49,14,7,4,60,32,WWWLLWDDLDWDWDWWWDWLDWWWW,7,4,1,25,13,WLDWWWWWWWWW,WWLWDDDDWWWW
+Lazio,Crotone,3-2,https://www.besoccer.com/match/lazio/fc-crotone/202194178,2021,27,serie_a,20,30,0,3,2,7,43,13,4,8,39,35,LWDLWWDWLWLDWLDWWWWWWLWLL,7,2,3,18,14,20,15,4,3,19,28,64,LLLDLLDLLLWDLWLLLWLLLLLLLW,0,2,11,10,38,LDWDLLWWWWWW,LLLDLDLLLLLLL
+Atalanta,Spezia,3-1,https://www.besoccer.com/match/atalanta/asd-spezia/202194185,2021,27,serie_a,20,30,0,3,1,5,49,14,7,5,60,33,WWWLLWDDLDWDWDWWWDWLDWWWWL,7,3,3,35,19,16,26,6,8,12,33,47,WLLDDLWDDLLDLLLWWDLLWWLDLD,4,3,6,18,25,WLDLWWWWDLDWW,WLDWDLLWDLWLL
+Sassuolo,Hellas Verona,3-2,https://www.besoccer.com/match/us-sassuolo-calcio/hellas-verona-fc/202194187,2021,27,serie_a,20,30,0,3,2,9,36,9,9,8,42,42,DWWWDWDWLDWDLWLWLDLDLWDLDL,3,6,3,18,18,8,38,10,8,8,34,29,WWLDDWDLWDWLDLWDWLWLLWDDWL,4,5,4,16,15,DWDDLWLWDLDD,LDDWWDWDLLLDW
+Benevento,Fiorentina,1-4,https://www.besoccer.com/match/benevento-calcio/fiorentina/202194179,2021,27,serie_a,20,30,2,1,4,14,26,6,8,12,26,48,LWWLLLLWDDLDWWLWLLDLDDDLLD,2,5,6,12,24,15,26,6,8,12,29,41,WLLDWLDLLDLDDWDLWLWDLLWLLD,1,3,8,11,25,LWLLDDWLLDDDL,LDLDLLWLLDLL
+Genoa,Udinese,1-1,https://www.besoccer.com/match/genoa/udinese/202194186,2021,27,serie_a,20,30,1,1,1,13,27,6,9,11,27,38,WLLDLDLLLDLDLWDLWDWWWDDLDL,4,4,5,19,20,10,32,8,8,10,29,34,LLLWLLDWWDWDDLLDLLDWWLDWDW,3,5,5,17,22,WLLLLLDDWWWDD,LLDWWDLDLWLDD
+Bologna,Sampdoria,3-1,https://www.besoccer.com/match/bologna/sampdoria/202194184,2021,27,serie_a,20,30,0,3,1,12,28,7,7,12,33,41,LWLLLWLWWLLDDDDDLWLLWDDWLL,5,3,4,21,20,11,32,9,5,12,36,39,LLWWWDLLDLLWWLLWLWWLDWLLDD,4,3,6,15,18,WLWLWLDDWLDW,LWWLDLWLLWDLD
+Torino,Inter,1-2,https://www.besoccer.com/match/torino-fc/internazionale/202194180,2021,27,serie_a,20,30,2,1,2,17,23,4,11,10,38,47,LLWLDLDLDLLLDDWDLDDDDDWWL,1,7,4,17,21,1,62,19,5,2,63,25,WWDLWDDWWWWWWWWLDWDWWWWWWW,8,4,1,27,11,LLLDDLDDDDDW,WDWDWWWLDDWWW
+Parma,Roma,2-0,https://www.besoccer.com/match/parma-fc/roma/202194183,2021,27,serie_a,20,30,0,2,0,19,16,2,10,14,23,52,LLWLDDDLWDDDLLLLLDLLLLDDLD,1,5,7,6,22,4,50,15,5,6,51,38,LDWWDWWWLDWWLWWWDLWWLWDLWW,5,2,5,18,23,LWDDDDLLLLLDL,LWDWLWLWLLDW
+Cagliari,Juventus,1-3,https://www.besoccer.com/match/cagliari/juventus-fc/202194181,2021,27,serie_a,20,30,2,1,3,18,22,5,7,14,29,43,DLLWWLWLDDLDDLLLLLLDLLLWWD,3,3,7,14,21,3,55,16,7,3,53,22,WDWDDWDWDWWDWLWWWLWWWLWDWW,5,5,2,22,12,LWWDLDLLLDLLW,DDWDDWWWLWLD
+Milan,Napoli,0-1,https://www.besoccer.com/match/milan/napoli/202194182,2021,27,serie_a,20,30,2,0,1,2,56,17,5,4,50,30,WWWWDWDWWWDDWWWLWWLWWLLWDW,6,4,3,25,19,6,47,15,2,9,56,31,WWLWWLWLWWWLLDWLWWLWLWLWDW,6,1,6,23,20,WWDDWDWLWLWLD,WLWWWLLWWLLLD
+Parma,Genoa,1-2,https://www.besoccer.com/match/parma-fc/genoa/202194192,2021,28,serie_a,20,30,2,1,2,19,19,3,10,14,25,52,LLWLDDDLWDDDLLLLLDLLLLDDLDW,2,5,7,8,22,14,28,6,10,11,28,39,WLLDLDLLLDLDLWDLWDWWWDDLDLD,2,5,6,8,18,LWDDDDLLLLLDLW,LDDLDLWLDWDLL
+Crotone,Bologna,2-3,https://www.besoccer.com/match/fc-crotone/bologna/202194190,2021,28,serie_a,20,30,2,2,3,20,15,4,3,20,30,67,LLLDLLDLLLWDLWLLLWLLLLLLLWL,4,1,8,18,26,12,31,8,7,12,36,42,LWLLLWLWWLLDDDDDLWLLWDDWLLW,2,4,8,12,21,LDLLLWWLWLLLW,LLLWLDDDLLWDLL
+Spezia,Cagliari,2-1,https://www.besoccer.com/match/asd-spezia/cagliari/202194191,2021,28,serie_a,20,30,0,2,1,16,26,6,8,13,34,50,WLLDDLWDDLLDLLLWWDLLWWLDLDL,2,5,6,15,22,18,22,5,7,15,30,46,DLLWWLWLDDLDDLLLLLLDLLLWWDL,2,4,7,15,22,LDLDLDLLWLWDD,DLWLLDDLLLLWD
+Hellas Verona,Atalanta,0-2,https://www.besoccer.com/match/hellas-verona-fc/atalanta/202194188,2021,28,serie_a,20,30,2,0,2,9,38,10,8,9,36,32,WWLDDWDLWDWLDLWDWLWLLWDDWLL,6,3,4,18,14,4,52,15,7,5,63,34,WWWLLWDDLDWDWDWWWDWLDWWWWLW,7,4,2,25,14,WWDWLDLLWWWDL,WWLWDDDDWWWWL
+Juventus,Benevento,0-1,https://www.besoccer.com/match/juventus-fc/benevento-calcio/202194189,2021,28,serie_a,20,30,2,0,1,2,58,17,7,3,56,23,WDWDDWDWDWWDWLWWWLWWWLWDWWW,11,2,1,31,10,15,26,6,8,13,27,52,LWWLLLLWDDLDWWLWLLDLDDDLLDL,4,3,6,14,24,WWDWWDLWWWWWWW,WLLWDLWWLLDLD
+Udinese,Lazio,0-1,https://www.besoccer.com/match/udinese/lazio/202194193,2021,28,serie_a,20,30,2,0,1,10,33,8,9,10,30,35,LLLWLLDWWDWDDLLDLLDWWLDWDWD,5,3,5,12,12,7,46,14,4,8,42,37,LWDLWWDWLWLDWLDWWWWWWLWLLW,6,2,5,21,21,LLWLWDDLLDWWW,WLWWWDLDWWLLL
+Sampdoria,Torino,1-0,https://www.besoccer.com/match/sampdoria/torino-fc/202194197,2021,28,serie_a,20,30,0,1,0,11,32,9,5,13,37,42,LLWWWDLLDLLWWLLWLWWLDWLLDDL,5,2,6,21,21,17,23,4,11,11,39,49,LLWLDLDLDLLLDDWDLDDDDDWWLL,3,4,6,21,26,LWDLLWLWWLWLD,LWDLLLDWLDDWL
+Fiorentina,Milan,2-3,https://www.besoccer.com/match/fiorentina/milan/202194194,2021,28,serie_a,20,30,2,2,3,13,29,7,8,12,33,42,WLLDWLDLLDLDDWDLWLWDLLWLLDW,5,5,4,18,16,3,56,17,5,5,50,31,WWWWDWDWWWDDWWWLWWLWWLLWDWL,11,1,1,25,11,WLWLDDDDWWLWLD,WWWWWDWWWWLWW
+Roma,Napoli,0-2,https://www.besoccer.com/match/roma/napoli/202194195,2021,28,serie_a,20,30,2,0,2,5,50,15,5,7,51,40,LDWWDWWWLDWWLWWWDLWWLWDLWWL,10,3,1,33,15,6,50,16,2,9,57,31,WWLWWLWLWWWLLDWLWWLWLWLWDWW,7,1,6,24,20,DWWWDWWWDWWWLW,WLWWWLLWWLLLDW
+Inter,Sassuolo,2-1,https://www.besoccer.com/match/internazionale/us-sassuolo-calcio/202194196,2021,28,serie_a,20,30,0,2,1,1,65,20,5,2,65,26,WWDLWDDWWWWWWWWLDWDWWWWWWWW,11,1,1,36,14,8,39,10,9,8,45,44,DWWWDWDWLDWDLWLWLDLDLWDLDLW,6,3,5,24,24,WLDWWWWWWWWWW,WWWWDDWLLLDWLL
+Milan,Sampdoria,1-1,https://www.besoccer.com/match/milan/sampdoria/202194204,2021,29,serie_a,20,30,1,1,1,2,59,18,5,5,53,33,WWWWDWDWWWDDWWWLWWLWWLLWDWLW,6,4,4,25,20,10,35,10,5,13,38,42,LLWWWDLLDLLWWLLWLWWLDWLLDDLW,4,3,7,16,21,WWDDWDWLWLWLDL,LWWLDLWLLWDLDL
+Napoli,Crotone,4-3,https://www.besoccer.com/match/napoli/fc-crotone/202194198,2021,29,serie_a,20,30,0,4,3,5,53,17,2,9,59,31,WWLWWLWLWWWLLDWLWWLWLWLWDWWW,9,1,3,33,11,20,15,4,3,21,32,70,LLLDLLDLLLWDLWLLLWLLLLLLLWLL,0,2,12,12,41,WWLLWWDLWWWWW,LLLDLDLLLLLLLL
+Genoa,Fiorentina,1-1,https://www.besoccer.com/match/genoa/fiorentina/202194199,2021,29,serie_a,20,30,1,1,1,13,31,7,10,11,30,40,WLLDLDLLLDLDLWDLWDWWWDDLDLDW,4,5,5,20,21,14,29,7,8,13,35,45,WLLDWLDLLDLDDWDLWLWDLLWLLDWL,2,3,8,15,26,WLLLLLDDWWWDDD,LDLDLLWLLDLLW
+Benevento,Parma,2-2,https://www.besoccer.com/match/benevento-calcio/parma-fc/202194202,2021,29,serie_a,20,30,1,2,2,15,29,7,8,13,28,52,LWWLLLLWDDLDWWLWLLDLDDDLLDLW,2,5,7,13,28,19,19,3,10,15,26,54,LLWLDDDLWDDDLLLLLDLLLLDDLDWL,1,5,7,17,30,LWLLDDWLLDDDLL,LLDLWDLLDLLDD
+Sassuolo,Roma,2-2,https://www.besoccer.com/match/us-sassuolo-calcio/roma/202194203,2021,29,serie_a,20,30,1,2,2,8,39,10,9,9,46,46,DWWWDWDWLDWDLWLWLDLDLWDLDLWL,4,6,3,21,20,6,50,15,5,8,51,42,LDWWDWWWLDWWLWWWDLWWLWDLWWLL,5,2,6,18,25,DWDDLWLWDLDDW,LWDWLWLWLLDWL
+Lazio,Spezia,2-1,https://www.besoccer.com/match/lazio/asd-spezia/202194205,2021,29,serie_a,20,30,0,2,1,7,49,15,4,8,43,37,LWDLWWDWLWLDWLDWWWWWWLWLLWW,8,2,3,21,16,16,29,7,8,13,36,51,WLLDDLWDDLLDLLLWWDLLWWLDLDLW,4,3,7,19,28,LDWDLLWWWWWWW,WLDWDLLWDLWLLL
+Atalanta,Udinese,3-2,https://www.besoccer.com/match/atalanta/udinese/202194206,2021,29,serie_a,20,30,0,3,2,4,55,16,7,5,65,34,WWWLLWDDLDWDWDWWWDWLDWWWWLWW,8,3,3,38,20,12,33,8,9,11,30,36,LLLWLLDWWDWDDLLDLLDWWLDWDWDL,3,6,5,18,23,WLDLWWWWDLDWWW,LLDWWDLDLWLDDD
+Cagliari,Hellas Verona,0-2,https://www.besoccer.com/match/cagliari/hellas-verona-fc/202194207,2021,29,serie_a,20,30,2,0,2,18,22,5,7,16,31,48,DLLWWLWLDDLDDLLLLLLDLLLWWDLL,3,3,8,15,24,9,38,10,8,10,36,34,WWLDDWDLWDWLDLWDWLWLLWDDWLLL,4,5,5,18,18,LWWDLDLLLDLLWL,LDDWWDWDLLLDWL
+Torino,Juventus,2-2,https://www.besoccer.com/match/torino-fc/juventus-fc/202194201,2021,29,serie_a,20,30,1,2,2,17,23,4,11,12,39,50,LLWLDLDLDLLLDDWDLDDDDDWWLLL,1,7,5,18,23,3,58,17,7,4,56,24,WDWDDWDWDWWDWLWWWLWWWLWDWWWL,6,5,2,25,13,LLLDDLDDDDDWL,DDWDDWWWLWLDW
+Bologna,Inter,0-1,https://www.besoccer.com/match/bologna/internazionale/202194200,2021,29,serie_a,20,30,2,0,1,11,34,9,7,12,39,44,LWLLLWLWWLLDDDDDLWLLWDDWLLWW,6,3,4,24,21,1,68,21,5,2,67,27,WWDLWDDWWWWWWWWLDWDWWWWWWWWW,9,4,1,29,12,WLWLWLDDWLDWW,WDWDWWWLDDWWWW
+Spezia,Crotone,3-2,https://www.besoccer.com/match/asd-spezia/fc-crotone/202194211,2021,30,serie_a,20,30,0,3,2,16,29,7,8,14,37,53,WLLDDLWDDLLDLLLWWDLLWWLDLDLWL,3,5,6,17,23,20,15,4,3,22,35,74,LLLDLLDLLLWDLWLLLWLLLLLLLWLLL,0,2,13,15,45,LDLDLDLLWLWDDW,LLLDLDLLLLLLLLL
+Parma,Milan,1-3,https://www.besoccer.com/match/parma-fc/milan/202194214,2021,30,serie_a,20,30,2,1,3,19,20,3,11,15,28,56,LLWLDDDLWDDDLLLLLDLLLLDDLDWLD,2,5,8,9,24,2,60,18,6,5,54,34,WWWWDWDWWWDDWWWLWWLWWLLWDWLWD,12,1,1,28,13,LWDDDDLLLLLDLWL,WWWWWDWWWWLWWW
+Udinese,Torino,0-1,https://www.besoccer.com/match/udinese/torino-fc/202194217,2021,30,serie_a,20,30,2,0,1,12,33,8,9,12,32,39,LLLWLLDWWDWDDLLDLLDWWLDWDWDLL,5,3,6,12,13,17,24,4,12,12,41,52,LLWLDLDLDLLLDDWDLDDDDDWWLLLD,3,4,7,21,27,LLWLWDDLLDWWWL,LWDLLLDWLDDWLL
+Inter,Cagliari,1-0,https://www.besoccer.com/match/internazionale/cagliari/202194210,2021,30,serie_a,20,30,0,1,0,1,71,22,5,2,68,27,WWDLWDDWWWWWWWWLDWDWWWWWWWWWW,12,1,1,38,15,18,22,5,7,17,31,50,DLLWWLWLDDLDDLLLLLLDLLLWWDLLL,2,4,8,16,24,WLDWWWWWWWWWWW,DLWLLDDLLLLWDL
+Juventus,Genoa,3-1,https://www.besoccer.com/match/juventus-fc/genoa/202194212,2021,30,serie_a,20,30,0,3,1,3,59,17,8,4,58,26,WDWDDWDWDWWDWLWWWLWWWLWDWWWLD,11,2,2,31,11,13,32,7,11,11,31,41,WLLDLDLLLDLDLWDLWDWWWDDLDLDWD,3,5,6,10,19,WWDWWDLWWWWWWWL,LDDLDLWLDWDLLW
+Hellas Verona,Lazio,0-1,https://www.besoccer.com/match/hellas-verona-fc/lazio/202194213,2021,30,serie_a,20,30,2,0,1,8,41,11,8,10,38,34,WWLDDWDLWDWLDLWDWLWLLWDDWLLLW,6,3,5,18,16,6,52,16,4,8,45,38,LWDLWWDWLWLDWLDWWWWWWLWLLWWW,7,2,5,22,21,WWDWLDLLWWWDLL,WLWWWDLDWWLLLW
+Sampdoria,Napoli,0-2,https://www.besoccer.com/match/sampdoria/napoli/202194215,2021,30,serie_a,20,30,2,0,2,10,36,10,6,13,39,43,LLWWWDLLDLLWWLLWLWWLDWLLDDLWD,6,2,6,22,21,5,56,18,2,9,63,34,WWLWWLWLWWWLLDWLWWLWLWLWDWWWW,8,1,6,26,20,LWDLLWLWWLWLDW,WLWWWLLWWLLLDWW
+Roma,Bologna,1-0,https://www.besoccer.com/match/roma/bologna/202194209,2021,30,serie_a,20,30,0,1,0,7,51,15,6,8,53,44,LDWWDWWWLDWWLWWWDLWWLWDLWWLLD,10,3,2,33,17,11,34,9,7,13,39,45,LWLLLWLWWLLDDDDDLWLLWDDWLLWWL,3,4,8,15,23,DWWWDWWWDWWWLWL,LLLWLDDDLLWDLLW
+Fiorentina,Atalanta,2-3,https://www.besoccer.com/match/fiorentina/atalanta/202194208,2021,30,serie_a,20,30,2,2,3,14,30,7,9,13,36,46,WLLDWLDLLDLDDWDLWLWDLLWLLDWLD,5,5,5,20,19,4,58,17,7,5,68,36,WWWLLWDDLDWDWDWWWDWLDWWWWLWWW,8,4,2,27,14,WLWLDDDDWWLWLDL,WWLWDDDDWWWWLW
+Benevento,Sassuolo,0-1,https://www.besoccer.com/match/benevento-calcio/us-sassuolo-calcio/202194216,2021,30,serie_a,20,30,2,0,1,15,30,7,9,13,30,54,LWWLLLLWDDLDWWLWLLDLDDDLLDLWD,2,6,7,15,30,9,40,10,10,9,48,48,DWWWDWDWLDWDLWLWLDLDLWDLDLWLD,6,3,6,25,26,LWLLDDWLLDDDLLD,WWWWDDWLLLDWLLL

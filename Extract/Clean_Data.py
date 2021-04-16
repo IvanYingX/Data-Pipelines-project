@@ -397,8 +397,8 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
             for file in to_clean:
                 df = pd.read_csv(file)
                 df = get_from_standings(df)
-                dst_file = file.split('Results')[-1]
-                dst_dir = f"./Data/Results_Cleaned{dst_file}"
+                dst_file = file.split('Results/')[-1]
+                dst_dir = f"./Data/Results_Cleaned/{dst_file}"
                 df.to_csv(dst_dir, index=False)
     else:
         leagues = [x.split('\\')[1] for x in glob.glob('./Data/Results/*')]
@@ -430,4 +430,8 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
 
 
 if __name__ == '__main__':
-    clean_database(from_update=False, overwrite=True)
+    clean_database(
+        to_clean=['Data/Results/ligue_1/Results_1990_ligue_1.csv'],
+        from_update=True,
+        overwrite=True
+        )

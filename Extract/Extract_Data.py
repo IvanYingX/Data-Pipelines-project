@@ -310,44 +310,88 @@ def extract_match_info(df_results):
         to the amount of unique links in df_results. This value tells the
         script or function calling extract_match_info when to stop.
     '''
+    
+    match_filename = './Data/Dictionaries/dict_match.pkl'
+    players_filename = './Data/Dictionaries/dict_players.pkl'
 
-    ROOT = 'https://www.besoccer.com/'
-    filename = './Data/Dictionaries/dict_match.pkl'
-
-    if os.path.exists(filename):
-        with open(filename, "rb") as f:
+    if os.path.exists(match_filename):
+        with open(match_filename, "rb") as f:
             dict_match = pickle.load(f)
     else:
         dict_match = {}
 
+    if os.path.exists(players_filename):
+        with open(players_filename, "rb") as f:
+            dict_players = pickle.load(f)
+    else:
+        dict_players = {}
+
     new_match = set(df_results.Link.unique()) - set(dict_match.keys())
-    # bar = progressbar.ProgressBar(
-    #         maxval=len(new_match),
-    #         widgets=[progressbar.Bar('=', '[', ']'),
-    #                  ' ', progressbar.Percentage()])
-    # bar.start()
-    # r = 0
     for match in tqdm(new_match):
         date = None
-        referee = None
-        home_yellow = None
-        home_red = None
-        away_yellow = None
-        away_red = None
-        URL = ROOT + match
-        match_url = urlopen(URL)
+        time = None
+        home_mean_score = None
+        away_mean_score = None
+        match_url = urlopen(match)
         match_bs = BeautifulSoup(match_url.read(), 'html.parser')
-        match_table = match_bs.find('div',
-                                    {'class': 'head-info fixed-w-scroll'})
 
-        if match_table:
-            if match_table.find('div', {'class': 'marcador-header'}):
-                date = match_table.find(
-                    'div', {'class': 'date header-match-date '}).text
-        dict_match[match] = [date, referee, home_yellow, home_red,
-                             away_yellow, away_red]
-        with open(filename, 'wb') as pickle_out:
+        match_date = match_bs.find('div', {'class': 'date'})
+
+        if match_date:
+            if len(match_date.text.split()) > 3:
+                date = ' '.join(match_date.text.split()[0:3])
+                time = match_date.text.split()[3]
+            else:
+                date = match_date.text.strip()
+                time = '18:00'
+        home_lineup = match_bs.find('ul',
+                                    {'class': 'lineup local'})
+        if home_lineup:
+            home_score = 0
+            for i, player in enumerate(home_lineup.find_all('li'), 1):
+                player_link = player.find('a')['href']
+                if player_link in dict_players:
+                    player_score = dict_players[player_link][1]
+                    continue
+                else:
+                    player_url = urlopen(player_link)
+                    player_bs = BeautifulSoup(player_url.read(), 'html.parser')
+                    player_score = player_bs.find('div',
+                                                  {'class': 'elo-box'}).text
+                    player_score = int(player_score.strip())
+                    player_name = player_bs.find('div',
+                                                 {'class': 'head-title'}).text
+                    player_name = player_name.strip()
+                    dict_players[player_link] = [player_name, player_score]
+                home_score += player_score
+            home_mean_score = home_score / i
+
+        away_lineup = match_bs.find('ul',
+                                    {'class': 'lineup visitor'})
+        if away_lineup:
+            away_score = 0
+            for i, player in enumerate(away_lineup.find_all('li'), 1):
+                player_link = player.find('a')['href']
+                if player_link in dict_players:
+                    player_score = dict_players[player_link][1]
+                    continue
+                else:
+                    player_url = urlopen(player_link)
+                    player_bs = BeautifulSoup(player_url.read(), 'html.parser')
+                    player_score = player_bs.find('div',
+                                                  {'class': 'elo-box'}).text
+                    player_score = int(player_score.strip())
+                    player_name = player_bs.find('div',
+                                                 {'class': 'head-title'}).text
+                    player_name = player_name.strip()
+                    dict_players[player_link] = [player_name, player_score]
+                away_score += player_score
+            away_mean_score = away_score / i
+
+        dict_match[match] = [date, time, home_mean_score, away_mean_score]
+
+        with open(match_filename, 'wb') as pickle_out:
             pickle.dump(dict_match, pickle_out)
-        # bar.update(r + 1)
-    #     r += 1
-    # bar.finish()
+
+        with open(players_filename, 'wb') as pickle_out:
+            pickle.dump(dict_players, pickle_out)

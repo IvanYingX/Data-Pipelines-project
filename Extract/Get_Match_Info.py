@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 from Data_Load.load_df import load_raw
 import pandas as pd
 from Extract_Data import extract_match_info
@@ -35,7 +37,7 @@ if os.path.exists(filename):
 else:
     dict_match = {}
 
-new_columns = ['Date_New', 'Referee',
+new_columns = ['Date', 'Referee',
                'Home_Yellow', 'Home_Red',
                'Away_Yellow', 'Away_Red']
 df_match = pd.DataFrame.from_dict(dict_match, orient='index',
