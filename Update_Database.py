@@ -29,10 +29,11 @@ def update_database(RES_DIR, is_file=False):
     list_results = ['Home_Team', 'Away_Team', 'Result', 'Link',
                     'Season', 'Round', 'League']
 
+    updated_list = []
     # Last year available in the dataset
     final_year = df_results.Season[0]
     # Last round available in the last year of the dataset
-    last_round_df = df_results.Round[0]
+    last_round_df = max(df_results.Round)
     # League corresponding to the dataset
     league = df_results.League[0]
     # Start the scraping, we need to see the current actual year and round
@@ -88,20 +89,19 @@ def update_database(RES_DIR, is_file=False):
     # actual year we need to extract the rounds from the final
     # year that has not been extracted
     if final_year != current_year:
-        dest_res_file = (f'./Data/Results/{league}/Results'
-                         + f'_{final_year}_{league}')
-        if not os.path.exists(dest_res_file):
-            df_results = pd.DataFrame(list_results)
-            df_results.to_csv(dest_res_file, index=False)
-        else:
-            df_results = pd.read_csv(dest_res_file)
-
         for year in range(final_year, current_year):
+            dest_res_file = (f'./Data/Results/{league}/Results'
+                             + f'_{final_year}_{league}.csv')
+            if not os.path.exists(dest_res_file):
+                df_results = pd.DataFrame(list_results)
+                df_results.to_csv(dest_res_file, index=False)
+            else:
+                df_results = pd.read_csv(dest_res_file)
             URL = ROOT_DIR + league + str(year)
             year_url = urlopen(URL)
             year_bs = BeautifulSoup(year_url.read(), 'html.parser')
             last_round_final_year = extract_rounds(year_bs)
-            for r in range(last_round_df + 1, last_round_final_year + 1):
+            for r in range(last_round_df, last_round_final_year + 1):
                 print(f'''\tAccesing data from round {r} of year {year}
                       of {league}''')
                 subset_results = df_results[(df_results['Season'] == year)
@@ -135,47 +135,56 @@ def update_database(RES_DIR, is_file=False):
                 df_diff_results.to_csv(dest_res_file, mode='a', header=False,
                                        index=False)
         last_round_df = 0
+    else:
+        year = final_year
 
-        current_round = extract_rounds(year_bs)
-        for r in range(last_round_df, current_round + 1):
-            print(f"Accesing data from: \tround {r} \n\t\t\tyear"
-                  + f" {current_year} \n\t\t\tleague {league}")
-            subset_results = df_results[
-                                    (df_results['Season'] == current_year)
-                                    & (df_results['Round'] == r)
-                                ]
-            driver = URL = (ROOT_DIR + league + str(year)
-                            + "/group1/round" + str(r))
-            round_url = urlopen(URL)
-            round_bs = BeautifulSoup(round_url.read(), 'html.parser')
-            results = extract_results(round_bs)
-            dict_results = {x: [] for x in list_results}
-            if results is None:
-                print(f'----------------------------------------------------')
-                print(f'''!!!\tRound {r} does not exist on year
-                        {current_year}\t!!!''')
-                print(f'----------------------------------------------------')
-                continue
+    current_round = extract_rounds(year_bs)
+    for r in range(last_round_df, current_round + 1):
+        dest_res_file = (f'./Data/Results/{league}/Results'
+                         + f'_{final_year}_{league}.csv')
+        if not os.path.exists(dest_res_file):
+            df_results = pd.DataFrame(list_results)
+            df_results.to_csv(dest_res_file, index=False)
+        else:
+            df_results = pd.read_csv(dest_res_file)
+        print(f"Accesing data from: \tround {r} \n\t\t\tyear"
+              + f" {current_year} \n\t\t\tleague {league}")
+        subset_results = df_results[
+                                (df_results['Season'] == current_year)
+                                & (df_results['Round'] == r)
+                            ]
+        URL = (ROOT_DIR + 'competition/scores/'
+               + league + '/' + str(year)
+               + "/group1/round" + str(r))
+        round_url = urlopen(URL)
+        round_bs = BeautifulSoup(round_url.read(), 'html.parser')
+        results = extract_results(round_bs)
+        dict_results = {x: [] for x in list_results}
+        if results is None:
+            print(f'----------------------------------------------------')
+            print(f'''!!!\tRound {r} does not exist on year
+                    {current_year}\t!!!''')
+            print(f'----------------------------------------------------')
+            continue
 
-            for i, key in enumerate(list_results[:-3]):
-                dict_results[key].extend(results[i])
+        for i, key in enumerate(list_results[:-3]):
+            dict_results[key].extend(results[i])
 
-            dict_results['Season'].extend([current_year] * len(results[0]))
-            dict_results['Round'].extend([r] * len(results[0]))
-            dict_results['League'].extend([league] * len(results[0]))
+        dict_results['Season'].extend([current_year] * len(results[0]))
+        dict_results['Round'].extend([r] * len(results[0]))
+        dict_results['League'].extend([league] * len(results[0]))
 
-            new_df_results = pd.DataFrame(dict_results)
-            mask = new_df_results['Result'].map(lambda x: ':' not in x,
-                                                na_action=None)
-            new_df_results = new_df_results[mask]
+        new_df_results = pd.DataFrame(dict_results)
+        mask = new_df_results['Result'].map(lambda x: ':' not in x,
+                                            na_action=None)
+        new_df_results = new_df_results[mask]
+        new_df_results = pd.concat(
+            [df_results, new_df_results]).drop_duplicates(
+                ['Home_Team', 'Away_Team', 'Season'],
+                keep='last').reset_index(drop=True)
 
-            # Take only those matches that are already included
-            df_diff_results = subset_results.merge(
-                            new_df_results, indicator=True,
-                            how='right').loc[lambda x: x['_merge'] != 'both']
-            df_diff_results = df_diff_results.drop(['_merge'], axis=1)
-            df_diff_results.to_csv(dest_res_file, mode='a', header=False,
-                                   index=False)
+        # Take only those matches that are already included
+        new_df_results.to_csv(dest_res_file, mode='w', index=False)
 
 
 if __name__ == '__main__':

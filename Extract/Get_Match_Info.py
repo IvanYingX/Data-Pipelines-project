@@ -1,3 +1,5 @@
+import sys
+sys.path.append('.')
 from Data_Load.load_df import load_raw
 import pandas as pd
 from Extract_Data import extract_match_info
@@ -17,6 +19,14 @@ while True:
             print('Gateway error, trying again...')
             time.sleep(3)
             pass
+        if err.code == 503:
+            print('Service Unavailable, trying again in a few seconds...')
+            time.sleep(5)
+            pass
+        if err.code == 502:
+            print('Bad Gateway, trying again in a few seconds...')
+            time.sleep(5)
+            pass
         if err.code == 500:
             print('Internal Server error, trying again...')
             time.sleep(3)
@@ -35,7 +45,7 @@ if os.path.exists(filename):
 else:
     dict_match = {}
 
-new_columns = ['Date_New', 'Referee',
+new_columns = ['Date', 'Referee',
                'Home_Yellow', 'Home_Red',
                'Away_Yellow', 'Away_Red']
 df_match = pd.DataFrame.from_dict(dict_match, orient='index',

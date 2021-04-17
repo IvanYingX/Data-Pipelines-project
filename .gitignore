@@ -125,9 +125,7 @@ venv.bak/
 dmypy.json
 
 # Others
-images/
-DATA/images
+*/__pycache__
 debug.log
 Data_Pipeline.code-workspace
-Data_Load/__pycache__
-Extract/__pycache__
+images/
