@@ -19,6 +19,14 @@ while True:
             print('Gateway error, trying again...')
             time.sleep(3)
             pass
+        if err.code == 503:
+            print('Service Unavailable, trying again in a few seconds...')
+            time.sleep(5)
+            pass
+        if err.code == 502:
+            print('Bad Gateway, trying again in a few seconds...')
+            time.sleep(5)
+            pass
         if err.code == 500:
             print('Internal Server error, trying again...')
             time.sleep(3)
