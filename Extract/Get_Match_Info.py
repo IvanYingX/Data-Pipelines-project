@@ -9,7 +9,7 @@ import pickle
 import numpy as np
 from urllib.error import HTTPError
 
-RES_DIR = './Data/Results_cleaned/*'
+RES_DIR = './Data/Results_Cleaned/*'
 df_results = load_raw(RES_DIR)
 while True:
     try:
