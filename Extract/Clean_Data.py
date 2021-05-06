@@ -373,6 +373,16 @@ def get_from_standings(df):
     return df
 
 
+filename = 'Data/Dictionaries/dict_match.pkl'
+with open(filename, 'rb') as f:
+    match_dict = pickle.load(f)
+
+
+def match_data(x):
+    match_list = match_dict[x]
+    return match_list[0], match_list[1], match_list[2], match_list[3]
+
+
 def clean_database(to_clean=None, from_update=True, overwrite=False):
     '''
     Parameters
@@ -397,6 +407,8 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
             for file in to_clean:
                 df = pd.read_csv(file)
                 df = get_from_standings(df)
+                df['Date'], df['Time'], df['Home_Score'], df['Away_Score'] = \
+                    zip(*df['Link'].map(match_data))
                 dst_file = file.split('Results/')[-1]
                 dst_dir = f"./Data/Results_Cleaned/{dst_file}"
                 df.to_csv(dst_dir, index=False)
@@ -423,15 +435,20 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
                         continue
                     else:
                         df = get_from_standings(df)
+                        df['Date'], df['Time'], df['Home_Score'], \
+                            df['Away_Score'] = \
+                            zip(*df['Link'].map(match_data))
                         df.to_csv(dir_old_season, index=False)
                 else:
                     df = get_from_standings(df)
+                    df['Date'], df['Time'], df['Home_Score'], \
+                        df['Away_Score'] = \
+                        zip(*df['Link'].map(match_data))
                     df.to_csv(dir_old_season, index=False)
 
 
 if __name__ == '__main__':
     clean_database(
-        to_clean=['Data/Results/ligue_1/Results_1990_ligue_1.csv'],
-        from_update=True,
+        from_update=False,
         overwrite=True
         )
