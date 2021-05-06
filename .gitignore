@@ -129,3 +129,5 @@ dmypy.json
 debug.log
 Data_Pipeline.code-workspace
 images/
+Data/Results/
+Data/Results_Cleaned/
