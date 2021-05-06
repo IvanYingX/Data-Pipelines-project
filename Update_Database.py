@@ -6,7 +6,7 @@ from Extract.Extract_Data import *
 import glob
 from urllib.request import urlopen, Request
 from bs4 import BeautifulSoup
-
+import time
 
 def update_database(RES_DIR, is_file=False):
     """Takes the files in RES_DIR and and checks if there is any
@@ -50,6 +50,7 @@ def update_database(RES_DIR, is_file=False):
             for r in range(last_round_df, last_round + 1):
                 URL = (ROOT_DIR + league + str(final_year)
                        + "/group1/round" + str(r))
+                time.sleep(1.5)
                 round_url = urlopen(URL)
                 round_bs = BeautifulSoup(round_url.read(), 'html.parser')
                 results = extract_results(round_bs)

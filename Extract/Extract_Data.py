@@ -6,8 +6,8 @@ import re
 import numpy as np
 import os
 from urllib.request import urlopen, Request
+import requests
 import pickle
-import progressbar
 from tqdm import tqdm
 
 
@@ -310,7 +310,7 @@ def extract_match_info(df_results):
         to the amount of unique links in df_results. This value tells the
         script or function calling extract_match_info when to stop.
     '''
-    
+
     match_filename = './Data/Dictionaries/dict_match.pkl'
     players_filename = './Data/Dictionaries/dict_players.pkl'
 
@@ -327,13 +327,25 @@ def extract_match_info(df_results):
         dict_players = {}
 
     new_match = set(df_results.Link.unique()) - set(dict_match.keys())
+    http_proxy = 'https://176.56.107.184'
+    https_proxy = 'https://176.56.107.184'
+
+    proxyDict = {
+                "http": http_proxy,
+                "https": https_proxy,
+                }
     for match in tqdm(new_match):
         date = None
         time = None
         home_mean_score = None
         away_mean_score = None
-        match_url = urlopen(match)
-        match_bs = BeautifulSoup(match_url.read(), 'html.parser')
+        match_url = requests.get(match,
+                                 headers={'User-Agent': 'Mozilla/5.0'},
+                                 proxies=proxyDict)
+        # match_url = urlopen(match,
+        #                     headers={'User-Agent': 'Mozilla/5.0'},
+        #                     proxies=proxyDict)
+        match_bs = BeautifulSoup(match_url.text, 'html.parser')
 
         match_date = match_bs.find('div', {'class': 'date'})
 
@@ -343,7 +355,7 @@ def extract_match_info(df_results):
                 time = match_date.text.split()[3]
             else:
                 date = match_date.text.strip()
-                time = '18:00'
+                time = None
         home_lineup = match_bs.find('ul',
                                     {'class': 'lineup local'})
         if home_lineup:
@@ -352,7 +364,6 @@ def extract_match_info(df_results):
                 player_link = player.find('a')['href']
                 if player_link in dict_players:
                     player_score = dict_players[player_link][1]
-                    continue
                 else:
                     player_url = urlopen(player_link)
                     player_bs = BeautifulSoup(player_url.read(), 'html.parser')
@@ -374,7 +385,6 @@ def extract_match_info(df_results):
                 player_link = player.find('a')['href']
                 if player_link in dict_players:
                     player_score = dict_players[player_link][1]
-                    continue
                 else:
                     player_url = urlopen(player_link)
                     player_bs = BeautifulSoup(player_url.read(), 'html.parser')

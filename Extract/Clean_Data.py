@@ -102,7 +102,7 @@ def get_from_standings(df):
     df_standings.iloc[:, 1:-3] = 0
     df_standings.iloc[:, -3:] = ''
 
-    # Add new columns that can potentially increase the performan5ce of
+    # Add new columns that can potentially increase the performance of
     # a model
     new_cols = ['Position_Home', 'Points_Home', 'Total_Wins_Home',
                 'Total_Draw_Home', 'Total_Lose_Home',
@@ -373,6 +373,16 @@ def get_from_standings(df):
     return df
 
 
+filename = 'Data/Dictionaries/dict_match.pkl'
+with open(filename, 'rb') as f:
+    match_dict = pickle.load(f)
+
+
+def match_data(x):
+    match_list = match_dict[x]
+    return match_list[0], match_list[1], match_list[2], match_list[3]
+
+
 def clean_database(to_clean=None, from_update=True, overwrite=False):
     '''
     Parameters
@@ -395,13 +405,20 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
             return None
         else:
             for file in to_clean:
+                season = file.split('Results_')[1].split('_')[0]
+                league = '_'.join(file.split('Results_')[1].split('_')[1:]).split('.')[0]
                 df = pd.read_csv(file)
+                if len(df) == 0:
+                    print(f'No available data for season {season} of {league}')
+                    continue
                 df = get_from_standings(df)
-                dst_file = file.split('Results/')[-1]
-                dst_dir = f"./Data/Results_Cleaned/{dst_file}"
+                df['Date'], df['Time'], df['Home_Score'], df['Away_Score'] = \
+                    zip(*df['Link'].map(match_data))
+                dst_file = file.split('Results_')[-1]
+                dst_dir = f"./Data/Results_Cleaned/{league}/Cleaned_{dst_file}"
                 df.to_csv(dst_dir, index=False)
     else:
-        leagues = [x.split('\\')[1] for x in glob.glob('./Data/Results/*')]
+        leagues = [x.split('/')[-1] for x in glob.glob('./Data/Results/*')]
         for league in leagues:
             os.makedirs(f"./Data/Results_Cleaned/{league}", exist_ok=True)
             seasons = glob.glob(f'./Data/Results/{league}/*')
@@ -423,15 +440,25 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
                         continue
                     else:
                         df = get_from_standings(df)
+                        df['Date'], df['Time'], df['Home_Score'], \
+                            df['Away_Score'] = \
+                            zip(*df['Link'].map(match_data))
                         df.to_csv(dir_old_season, index=False)
                 else:
                     df = get_from_standings(df)
+                    df['Date'], df['Time'], df['Home_Score'], \
+                        df['Away_Score'] = \
+                        zip(*df['Link'].map(match_data))
                     df.to_csv(dir_old_season, index=False)
 
 
 if __name__ == '__main__':
+    leagues = [x.split('/')[-1] for x in glob.glob('./Data/Results/*')]
+    to_clean = []
+    for league in leagues:
+        to_clean.extend(glob.glob(f'./Data/Results/{league}/*'))
     clean_database(
-        to_clean=['Data/Results/ligue_1/Results_1990_ligue_1.csv'],
+        to_clean = to_clean,
         from_update=True,
         overwrite=True
         )
