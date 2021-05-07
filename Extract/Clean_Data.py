@@ -405,15 +405,20 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
             return None
         else:
             for file in to_clean:
+                season = file.split('Results_')[1].split('_')[0]
+                league = '_'.join(file.split('Results_')[1].split('_')[1:]).split('.')[0]
                 df = pd.read_csv(file)
+                if len(df) == 0:
+                    print(f'No available data for season {season} of {league}')
+                    continue
                 df = get_from_standings(df)
                 df['Date'], df['Time'], df['Home_Score'], df['Away_Score'] = \
                     zip(*df['Link'].map(match_data))
-                dst_file = file.split('Results/')[-1]
-                dst_dir = f"./Data/Results_Cleaned/{dst_file}"
+                dst_file = file.split('Results_')[-1]
+                dst_dir = f"./Data/Results_Cleaned/{league}/Cleaned_{dst_file}"
                 df.to_csv(dst_dir, index=False)
     else:
-        leagues = [x.split('\\')[1] for x in glob.glob('./Data/Results/*')]
+        leagues = [x.split('/')[-1] for x in glob.glob('./Data/Results/*')]
         for league in leagues:
             os.makedirs(f"./Data/Results_Cleaned/{league}", exist_ok=True)
             seasons = glob.glob(f'./Data/Results/{league}/*')
@@ -448,7 +453,12 @@ def clean_database(to_clean=None, from_update=True, overwrite=False):
 
 
 if __name__ == '__main__':
+    leagues = [x.split('/')[-1] for x in glob.glob('./Data/Results/*')]
+    to_clean = []
+    for league in leagues:
+        to_clean.extend(glob.glob(f'./Data/Results/{league}/*'))
     clean_database(
-        from_update=False,
+        to_clean = to_clean,
+        from_update=True,
         overwrite=True
         )
