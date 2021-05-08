@@ -1,5 +1,3 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 import pandas as pd
 from bs4 import BeautifulSoup
 import re
@@ -8,8 +6,9 @@ import os
 from urllib.request import urlopen, Request
 import requests
 import pickle
-import progressbar
-from tqdm import tqdm
+from tqdm.notebook import tqdm
+import time as tm
+from urllib.error import HTTPError
 
 
 def accept_cookies(year, league, round=None):
@@ -202,6 +201,7 @@ def extract_team_info(df_standings):
     years = list(set(df_standings['Year']))
     leagues = list(set(df_standings['League']))
     filename = './Data/Dictionaries/dict_team.pkl'
+
     if os.path.exists(filename):
         with open(filename, "rb") as f:
             dict_team = pickle.load(f)
@@ -312,8 +312,8 @@ def extract_match_info(df_results):
         script or function calling extract_match_info when to stop.
     '''
 
-    match_filename = './Data/Dictionaries/dict_match.pkl'
-    players_filename = './Data/Dictionaries/dict_players.pkl'
+    match_filename = 'dict_match.pkl'
+    players_filename = 'dict_players.pkl'
 
     if os.path.exists(match_filename):
         with open(match_filename, "rb") as f:
@@ -326,26 +326,40 @@ def extract_match_info(df_results):
             dict_players = pickle.load(f)
     else:
         dict_players = {}
-
+    t_0 = tm.time()
     new_match = set(df_results.Link.unique()) - set(dict_match.keys())
-    http_proxy = 'https://176.56.107.184'
-    https_proxy = 'https://176.56.107.184'
-
-    proxyDict = {
-                "http": http_proxy,
-                "https": https_proxy,
-                }
-    for match in tqdm(new_match):
+    pbar = tqdm(new_match)
+    for match in pbar:
+        if tm.time() - t_0 > 30 * 60:
+            break
         date = None
         time = None
         home_mean_score = None
         away_mean_score = None
-        match_url = requests.get(match,
-                                 headers={'User-Agent': 'Mozilla/5.0'},
-                                 proxies=proxyDict)
-        # match_url = urlopen(match,
-        #                     headers={'User-Agent': 'Mozilla/5.0'},
-        #                     proxies=proxyDict)
+        session = requests.Session()
+        match_url = session.get(match, headers={'User-Agent': 'Mozilla/5.0'})
+        tm.sleep(1)
+        if match_url.status_code == 403:
+            print(match_url.status_code)
+            # raise NameError('403: Forbidden')
+            break
+        elif match_url.status_code != 200:
+            raise HTTPError(match,
+                            match_url.status_code,
+                            'Internal Error',
+                            {},
+                            None)
+        league_season = df_results[df_results['Link'] == match]
+        if len(league_season) > 1:
+            league_season = league_season.iloc[0]
+            pbar.set_postfix({'League': league_season['League'],
+                            'Season': league_season['Season'],
+                            'Round': league_season['Round']})
+        else:
+
+            pbar.set_postfix({'League': league_season['League'].values[0],
+                            'Season': league_season['Season'].values[0],
+                            'Round': league_season['Round'].values[0]})
         match_bs = BeautifulSoup(match_url.text, 'html.parser')
 
         match_date = match_bs.find('div', {'class': 'date'})
